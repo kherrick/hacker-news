@@ -8,6 +8,7 @@
 * [2024-12-31, 14:58:55](https://news.ycombinator.com/item?id=42559052) - [Morris Chang and the Origins of TSMC](https://www.construction-physics.com/p/morris-chang-and-the-origins-of-tsmc)
 * [2024-12-31, 14:05:07](https://news.ycombinator.com/item?id=42558763) - [How to monitor your local weather with Grafana](https://grafana.com/blog/2024/12/26/how-to-monitor-your-local-weather-with-grafana/)
 * [2024-12-31, 11:19:17](https://news.ycombinator.com/item?id=42558037) - [Darktable 5.0.0](https://www.darktable.org/2024/12/darktable-5.0.0-released/)
+* [2024-12-31, 09:28:48](https://news.ycombinator.com/item?id=42557586) - [Deepseek: The quiet giant leading China’s AI race](https://www.chinatalk.media/p/deepseek-ceo-interview-with-chinas)
 * [2024-12-31, 08:24:03](https://news.ycombinator.com/item?id=42557342) - [U.S. Army Soldier Arrested in AT&T, Verizon Extortions](https://krebsonsecurity.com/2024/12/u-s-army-soldier-arrested-in-att-verizon-extortions/)
 * [2024-12-31, 07:38:06](https://news.ycombinator.com/item?id=42557172) - [App Should Have Been a Website (and Probably Your Game Too)](https://rogueengine.io/blog/your-app-should-have-been-a-website)
 * [2024-12-31, 01:52:06](https://news.ycombinator.com/item?id=42555594) - [More telcos confirm Salt Typhoon breaches as White House weighs in](https://www.theregister.com/2024/12/30/att_verizon_confirm_salt_typhoon_breach/)
@@ -26,10 +27,9 @@
 * [2024-12-28, 12:01:47](https://news.ycombinator.com/item?id=42530424) - [Symbolic Reference and Hardware Models in Python](https://tomverbeure.github.io/2024/12/27/A-Symbolic-HW-Model-in-Python.html)
 * [2024-12-28, 09:36:25](https://news.ycombinator.com/item?id=42529771) - [Show HN: Handwritten Christmas Card for Hacker News](https://handwritten-card.vercel.app/show-hn)
 * [2024-12-28, 04:58:12](https://news.ycombinator.com/item?id=42528720) - [Seyfert Galaxies](https://www.seyfertgalaxies.com/)
+* [2024-12-27, 20:14:31](https://news.ycombinator.com/item?id=42525627) - [Storing 3D scans in a grain of wheat](https://wafaabilal.com/in-a-grain-of-wheat/)
 * [2024-12-27, 17:32:56](https://news.ycombinator.com/item?id=42524130) - [Learning Solver Design: Automating Factorio Balancers](https://gianlucaventurini.com/posts/2024/factorio-sat)
 * [2024-12-27, 10:46:15](https://news.ycombinator.com/item?id=42521259) - [Agentarium: Creating social simulations with AI Agents](https://github.com/Thytu/Agentarium)
-* [2024-12-27, 07:51:30](https://news.ycombinator.com/item?id=42520601) - [Coding Font Selection 'Tournament'](https://daringfireball.net/linked/2024/12/24/coding-font-selection-tournament)
-* [2024-12-26, 19:06:33](https://news.ycombinator.com/item?id=42517035) - [Short Message Compression Using LLMs](https://bellard.org/ts_sms/)
 
 ## [Archives](archives/index.md)
 

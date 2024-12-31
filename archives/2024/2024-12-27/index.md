@@ -18,6 +18,7 @@
 * [2024-12-27, 20:55:49](https://news.ycombinator.com/item?id=42525951) - [Reverse Video Search](https://blog.mixpeek.com/reverse-video-search/)
 * [2024-12-27, 20:26:11](https://news.ycombinator.com/item?id=42525719) - [DivestOS ROM shuts after ten years](https://divestos.org/pages/news#end)
 * [2024-12-27, 20:15:44](https://news.ycombinator.com/item?id=42525633) - [Plasticlist Report – Data on plastic chemicals in Bay Area foods](https://www.plasticlist.org/report)
+* [2024-12-27, 20:14:31](https://news.ycombinator.com/item?id=42525627) - [Storing 3D scans in a grain of wheat](https://wafaabilal.com/in-a-grain-of-wheat/)
 * [2024-12-27, 19:43:23](https://news.ycombinator.com/item?id=42525384) - [TSMC's Arizona Plant to Start Making Advanced Chips](https://spectrum.ieee.org/tsmc-arizona)
 * [2024-12-27, 19:32:37](https://news.ycombinator.com/item?id=42525290) - [Show HN: Kando – A cross-platform pie menu for your desktop](https://kando.menu/)
 * [2024-12-27, 19:06:59](https://news.ycombinator.com/item?id=42525051) - [NASA's Parker Solar Probe Reports Successful Closest Approach to Sun](https://blogs.nasa.gov/parkersolarprobe/2024/12/27/nasas-parker-solar-probe-reports-successful-closest-approach-to-sun/)
