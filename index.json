@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=42558037"
     ],
     [
-      "Darktable 5.0.0 Released",
+      "Darktable 5.0.0",
       "https://www.darktable.org/2024/12/darktable-5.0.0-released/"
     ]
   ],
@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=42557586"
     ],
     [
-      "Interesting Interview with DeepSeek's CEO",
+      "Deepseek – A Chinese AI startup whose latest model beat OpenAI’s o1",
       "https://www.chinatalk.media/p/deepseek-ceo-interview-with-chinas"
     ]
   ],
@@ -51,12 +51,22 @@
   ],
   [
     [
-      "2024-12-31, 08:00:10",
-      "https://news.ycombinator.com/item?id=42557257"
+      "2024-12-31, 01:52:06",
+      "https://news.ycombinator.com/item?id=42555594"
     ],
     [
-      "Pee.ie – Public Toilets Near Me Ireland",
-      "https://www.pee.ie/"
+      "More telcos confirm Salt Typhoon breaches as White House weighs in",
+      "https://www.theregister.com/2024/12/30/att_verizon_confirm_salt_typhoon_breach/"
+    ]
+  ],
+  [
+    [
+      "2024-12-31, 01:20:51",
+      "https://news.ycombinator.com/item?id=42555440"
+    ],
+    [
+      "Orbit by Mozilla",
+      "https://orbitbymozilla.com/"
     ]
   ],
   [
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=42555066"
     ],
     [
-      "LineageOS 22 Released",
+      "LineageOS 22",
       "https://lineageos.org/Changelog-29/"
     ]
   ],
@@ -125,7 +135,7 @@
       "https://news.ycombinator.com/item?id=42553682"
     ],
     [
-      "\"A Course of Pure Mathematics\" – G. H. Hardy (1921) [pdf]",
+      "“A Course of Pure Mathematics” – G. H. Hardy (1921) [pdf]",
       "https://www.gutenberg.org/files/38769/38769-pdf.pdf"
     ]
   ],
@@ -141,32 +151,12 @@
   ],
   [
     [
-      "2024-12-30, 18:43:01",
-      "https://news.ycombinator.com/item?id=42552227"
-    ],
-    [
-      "Dumping Memory to Bypass BitLocker on Windows 11",
-      "https://noinitrd.github.io/Memory-Dump-UEFI/"
-    ]
-  ],
-  [
-    [
       "2024-12-30, 18:11:47",
       "https://news.ycombinator.com/item?id=42551900"
     ],
     [
       "Tell HN: John Friel my father, internet pioneer and creator of QModem, has died",
       "https://news.ycombinator.com/item?id=42551900"
-    ]
-  ],
-  [
-    [
-      "2024-12-30, 13:30:42",
-      "https://news.ycombinator.com/item?id=42549083"
-    ],
-    [
-      "Ts_zip: Text Compression Using Large Language Models",
-      "https://bellard.org/ts_zip/"
     ]
   ],
   [
@@ -207,6 +197,16 @@
     [
       "What Happens to Relicensed Open Source Projects and Their Forks?",
       "https://thenewstack.io/what-happens-to-relicensed-open-source-projects-and-their-forks/"
+    ]
+  ],
+  [
+    [
+      "2024-12-28, 21:28:38",
+      "https://news.ycombinator.com/item?id=42534918"
+    ],
+    [
+      "Why it's hard to trust software, but you mostly have to anyway",
+      "https://educatedguesswork.org/posts/ensuring-software-provenance/"
     ]
   ],
   [
