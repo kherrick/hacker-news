@@ -16,7 +16,7 @@
 * [2024-12-30, 18:11:47](https://news.ycombinator.com/item?id=42551900) - [Tell HN: John Friel my father, internet pioneer and creator of QModem, has died](https://news.ycombinator.com/item?id=42551900)
 * [2024-12-30, 18:09:11](https://news.ycombinator.com/item?id=42551863) - [Performance of LLMs on Advent of Code 2024](https://www.jerpint.io/blog/advent-of-code-llms/)
 * [2024-12-30, 17:51:35](https://news.ycombinator.com/item?id=42551660) - [How Well Do LLMs Generate Code for Different Application Domains?](https://arxiv.org/abs/2412.18573)
-* [2024-12-30, 13:44:14](https://news.ycombinator.com/item?id=42549184) - [Beyond BLE: Cracking Open the Black-Box of RF Microcontrollers [video]](https://media.ccc.de/v/38c3-beyond-ble-cracking-open-the-black-box-of-rf-microcontrollers)
+* [2024-12-30, 13:38:10](https://news.ycombinator.com/item?id=42549148) - [A simple way to explore data through a Tableau-like UI directly in your data app](https://github.com/panel-extensions/panel-graphic-walker)
 * [2024-12-30, 13:30:42](https://news.ycombinator.com/item?id=42549083) - [Ts_zip: Text Compression Using Large Language Models](https://bellard.org/ts_zip/)
 * [2024-12-30, 09:18:38](https://news.ycombinator.com/item?id=42547820) - [Curl-Impersonate](https://github.com/lexiforest/curl-impersonate)
 * [2024-12-30, 08:38:38](https://news.ycombinator.com/item?id=42547610) - [MiceWine – run Windows applications and games on Android smartphones](https://github.com/KreitinnSoftware/MiceWine-Application)
