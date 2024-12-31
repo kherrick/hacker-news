@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-31, 18:11:06](https://news.ycombinator.com/item?id=42560558) - [Things we learned out about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)
 * [2024-12-31, 17:23:24](https://news.ycombinator.com/item?id=42560171) - [Dinner for One: the British comedy Germans have been laughing at for years(2018)](https://www.theguardian.com/tv-and-radio/2018/dec/30/dinner-for-one-german-television-new-years-eve)
 * [2024-12-31, 17:00:28](https://news.ycombinator.com/item?id=42559967) - [Legion Health (YC S21) Is Hiring](https://www.ycombinator.com/companies/legion-health/jobs/YvUSGxj-mid-level-full-stack-engineer-ai-native-telepsychiatry-legion-health-usa)
 * [2024-12-31, 16:52:21](https://news.ycombinator.com/item?id=42559909) - [The GTA III port for the Dreamcast has been released](https://gitlab.com/skmp/dca3-game)
@@ -29,7 +30,6 @@
 * [2024-12-27, 20:14:31](https://news.ycombinator.com/item?id=42525627) - [Storing 3D scans in a grain of wheat](https://wafaabilal.com/in-a-grain-of-wheat/)
 * [2024-12-27, 17:32:56](https://news.ycombinator.com/item?id=42524130) - [Learning Solver Design: Automating Factorio Balancers](https://gianlucaventurini.com/posts/2024/factorio-sat)
 * [2024-12-27, 10:46:15](https://news.ycombinator.com/item?id=42521259) - [Agentarium: Creating social simulations with AI Agents](https://github.com/Thytu/Agentarium)
-* [2024-12-27, 07:51:30](https://news.ycombinator.com/item?id=42520601) - [Coding Font Selection 'Tournament'](https://daringfireball.net/linked/2024/12/24/coding-font-selection-tournament)
 
 ## [Archives](archives/index.md)
 
