@@ -59,6 +59,7 @@
 * [2024-12-30, 07:38:37](https://news.ycombinator.com/item?id=42547367) - [Letting Language Models Write My Website](https://nicholas.carlini.com/writing/2025/llms-write-my-bio.html)
 * [2024-12-30, 07:08:03](https://news.ycombinator.com/item?id=42547208) - [I made a tiny library for switches and sum types in Lua](https://github.com/alurm/lua-match)
 * [2024-12-30, 06:52:55](https://news.ycombinator.com/item?id=42547150) - [86Box: Emulator of x86-Based Machines](https://github.com/86Box/86Box)
+* [2024-12-30, 06:40:05](https://news.ycombinator.com/item?id=42547086) - [Show HN: Onramp Can Compile Doom](https://ludocode.com/blog/onramp-can-compile-doom)
 * [2024-12-30, 06:25:01](https://news.ycombinator.com/item?id=42547003) - [I keep turning my Google Sheets into phone-friendly webapps, and I can't stop](https://arstechnica.com/gadgets/2024/12/making-tiny-no-code-webapps-out-of-spreadsheets-is-a-weirdly-fulfilling-hobby/)
 * [2024-12-30, 06:06:35](https://news.ycombinator.com/item?id=42546918) - [Single cigarette takes 20 minutes off life expectancy, study finds](https://www.theguardian.com/society/2024/dec/30/single-cigarette-takes-20-minutes-off-life-expectancy-study)
 * [2024-12-30, 03:47:29](https://news.ycombinator.com/item?id=42546259) - [Category Theory Illustrated](https://abuseofnotation.github.io/category-theory-illustrated/)
