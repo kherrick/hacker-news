@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-31, 18:11:06](https://news.ycombinator.com/item?id=42560558) - [Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)
+* [2024-12-31, 17:38:12](https://news.ycombinator.com/item?id=42560284) - [Amiga Games Released in 2024 Index](https://www.lemonamiga.com/forum/viewtopic.php?t=19114)
 * [2024-12-31, 17:23:24](https://news.ycombinator.com/item?id=42560171) - [Dinner for One: the British comedy Germans have been laughing at for years(2018)](https://www.theguardian.com/tv-and-radio/2018/dec/30/dinner-for-one-german-television-new-years-eve)
 * [2024-12-31, 17:00:28](https://news.ycombinator.com/item?id=42559967) - [Legion Health (YC S21) Is Hiring](https://www.ycombinator.com/companies/legion-health/jobs/YvUSGxj-mid-level-full-stack-engineer-ai-native-telepsychiatry-legion-health-usa)
 * [2024-12-31, 16:52:21](https://news.ycombinator.com/item?id=42559909) - [The GTA III port for the Dreamcast has been released](https://gitlab.com/skmp/dca3-game)
@@ -12,7 +13,6 @@
 * [2024-12-31, 09:28:48](https://news.ycombinator.com/item?id=42557586) - [Deepseek: The quiet giant leading China’s AI race](https://www.chinatalk.media/p/deepseek-ceo-interview-with-chinas)
 * [2024-12-31, 07:38:06](https://news.ycombinator.com/item?id=42557172) - [App Should Have Been a Website (and Probably Your Game Too)](https://rogueengine.io/blog/your-app-should-have-been-a-website)
 * [2024-12-31, 01:52:06](https://news.ycombinator.com/item?id=42555594) - [More telcos confirm Salt Typhoon breaches as White House weighs in](https://www.theregister.com/2024/12/30/att_verizon_confirm_salt_typhoon_breach/)
-* [2024-12-31, 01:20:51](https://news.ycombinator.com/item?id=42555440) - [Orbit by Mozilla](https://orbitbymozilla.com/)
 * [2024-12-31, 00:54:43](https://news.ycombinator.com/item?id=42555320) - [Coconut by Meta AI – Better LLM Reasoning with Chain of Continuous Thought?](https://aipapersacademy.com/chain-of-continuous-thought/)
 * [2024-12-30, 22:49:33](https://news.ycombinator.com/item?id=42554420) - [Colliding with the SHA prefix of Linux's initial Git commit](https://people.kernel.org/kees/colliding-with-the-sha-prefix-of-linuxs-initial-git-commit)
 * [2024-12-30, 21:51:33](https://news.ycombinator.com/item?id=42553949) - [I wrote a Game Boy Advance game in Zig](https://jonot.me/posts/zig-gba/)
