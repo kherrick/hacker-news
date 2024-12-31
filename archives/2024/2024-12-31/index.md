@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-31](index.md)
 
+* [2024-12-31, 16:32:58](https://news.ycombinator.com/item?id=42559744) - [Show HN: Watch 3 AIs compete in real-time stock trading ($5/trade)](https://trading.snagra.com)
 * [2024-12-31, 14:58:55](https://news.ycombinator.com/item?id=42559052) - [Morris Chang and the Origins of TSMC](https://www.construction-physics.com/p/morris-chang-and-the-origins-of-tsmc)
 * [2024-12-31, 14:58:01](https://news.ycombinator.com/item?id=42559048) - [Show HN: Obsess Jobs – Apply to jobs in your sleep](https://obsessjobs.com/)
 * [2024-12-31, 14:47:51](https://news.ycombinator.com/item?id=42558995) - [Urine Led to the Foundation of Chemistry](https://bigthink.com/the-past/how-urine-led-to-the-foundation-of-chemistry/)
