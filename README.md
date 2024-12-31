@@ -4,7 +4,6 @@
 * [2024-12-31, 17:00:28](https://news.ycombinator.com/item?id=42559967) - [Legion Health (YC S21) Is Hiring](https://www.ycombinator.com/companies/legion-health/jobs/YvUSGxj-mid-level-full-stack-engineer-ai-native-telepsychiatry-legion-health-usa)
 * [2024-12-31, 16:52:21](https://news.ycombinator.com/item?id=42559909) - [The GTA III port for the Dreamcast has been released](https://gitlab.com/skmp/dca3-game)
 * [2024-12-31, 16:47:54](https://news.ycombinator.com/item?id=42559882) - [Systems ideas that sound good but almost never work](https://hardcoresoftware.learningbyshipping.com/p/225-systems-ideas-that-sound-good)
-* [2024-12-31, 16:32:58](https://news.ycombinator.com/item?id=42559744) - [Show HN: Watch 3 AIs compete in real-time stock trading ($5/trade)](https://trading.snagra.com)
 * [2024-12-31, 14:58:55](https://news.ycombinator.com/item?id=42559052) - [Morris Chang and the Origins of TSMC](https://www.construction-physics.com/p/morris-chang-and-the-origins-of-tsmc)
 * [2024-12-31, 14:05:07](https://news.ycombinator.com/item?id=42558763) - [How to monitor your local weather with Grafana](https://grafana.com/blog/2024/12/26/how-to-monitor-your-local-weather-with-grafana/)
 * [2024-12-31, 11:19:17](https://news.ycombinator.com/item?id=42558037) - [Darktable 5.0.0](https://www.darktable.org/2024/12/darktable-5.0.0-released/)
@@ -30,6 +29,7 @@
 * [2024-12-27, 20:14:31](https://news.ycombinator.com/item?id=42525627) - [Storing 3D scans in a grain of wheat](https://wafaabilal.com/in-a-grain-of-wheat/)
 * [2024-12-27, 17:32:56](https://news.ycombinator.com/item?id=42524130) - [Learning Solver Design: Automating Factorio Balancers](https://gianlucaventurini.com/posts/2024/factorio-sat)
 * [2024-12-27, 10:46:15](https://news.ycombinator.com/item?id=42521259) - [Agentarium: Creating social simulations with AI Agents](https://github.com/Thytu/Agentarium)
+* [2024-12-27, 07:51:30](https://news.ycombinator.com/item?id=42520601) - [Coding Font Selection 'Tournament'](https://daringfireball.net/linked/2024/12/24/coding-font-selection-tournament)
 
 ## [Archives](archives/index.md)
 
