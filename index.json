@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-12-31, 08:28:21",
-      "https://news.ycombinator.com/item?id=42557355"
+      "2024-12-31, 09:28:48",
+      "https://news.ycombinator.com/item?id=42557586"
     ],
     [
-      "Bertrand Russell on Zionism [video]",
-      "https://www.youtube.com/watch?v=egfCTz-ZuZU"
+      "Interesting Interview with DeepSeek's CEO",
+      "https://www.chinatalk.media/p/deepseek-ceo-interview-with-chinas"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2024-12-30, 07:08:03",
-      "https://news.ycombinator.com/item?id=42547208"
-    ],
-    [
-      "I made a tiny library for switches and sum types in Lua",
-      "https://github.com/alurm/lua-match"
-    ]
-  ],
-  [
-    [
       "2024-12-30, 06:25:01",
       "https://news.ycombinator.com/item?id=42547003"
     ],
@@ -227,6 +217,16 @@
     [
       "Ruby-refrigerator: Freeze all core Ruby classes",
       "https://github.com/jeremyevans/ruby-refrigerator"
+    ]
+  ],
+  [
+    [
+      "2024-12-28, 18:06:40",
+      "https://news.ycombinator.com/item?id=42532979"
+    ],
+    [
+      "Debugging memory corruption: who the hell writes \"2\" into my stack?",
+      "https://unity.com/blog/engine-platform/debugging-memory-debugging-memory-corruption-who-wrote-2-into-my-stack-who-the-hell"
     ]
   ],
   [
