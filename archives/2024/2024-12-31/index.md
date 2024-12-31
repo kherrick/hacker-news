@@ -6,6 +6,7 @@
 
 * [2024-12-31, 17:23:24](https://news.ycombinator.com/item?id=42560171) - [Dinner for One: the British comedy Germans have been laughing at for years(2018)](https://www.theguardian.com/tv-and-radio/2018/dec/30/dinner-for-one-german-television-new-years-eve)
 * [2024-12-31, 17:00:28](https://news.ycombinator.com/item?id=42559967) - [Legion Health (YC S21) Is Hiring](https://www.ycombinator.com/companies/legion-health/jobs/YvUSGxj-mid-level-full-stack-engineer-ai-native-telepsychiatry-legion-health-usa)
+* [2024-12-31, 16:52:21](https://news.ycombinator.com/item?id=42559909) - [The GTA III port for the Dreamcast has been released](https://gitlab.com/skmp/dca3-game)
 * [2024-12-31, 16:47:54](https://news.ycombinator.com/item?id=42559882) - [Systems ideas that sound good but almost never work](https://hardcoresoftware.learningbyshipping.com/p/225-systems-ideas-that-sound-good)
 * [2024-12-31, 16:32:58](https://news.ycombinator.com/item?id=42559744) - [Show HN: Watch 3 AIs compete in real-time stock trading ($5/trade)](https://trading.snagra.com)
 * [2024-12-31, 14:58:55](https://news.ycombinator.com/item?id=42559052) - [Morris Chang and the Origins of TSMC](https://www.construction-physics.com/p/morris-chang-and-the-origins-of-tsmc)
