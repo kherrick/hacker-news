@@ -44,6 +44,7 @@
 * [2024-12-30, 13:37:39](https://news.ycombinator.com/item?id=42549145) - [Ask HN: What's Your Morning Routine?](https://news.ycombinator.com/item?id=42549145)
 * [2024-12-30, 13:30:42](https://news.ycombinator.com/item?id=42549083) - [Ts_zip: Text Compression Using Large Language Models](https://bellard.org/ts_zip/)
 * [2024-12-30, 12:37:47](https://news.ycombinator.com/item?id=42548763) - [Show HN: I built open source file sharing solution using AWS S3](https://s3-file-share-for-free-35n2u.kinsta.app/)
+* [2024-12-30, 12:36:13](https://news.ycombinator.com/item?id=42548751) - [Journey from Entrepreneur to Employee](https://akshay.co/posts/entrepreneur-to-employee/)
 * [2024-12-30, 12:31:39](https://news.ycombinator.com/item?id=42548719) - [Passkey technology is elegant, but it's most definitely not usable security](https://arstechnica.com/security/2024/12/passkey-technology-is-elegant-but-its-most-definitely-not-usable-security/)
 * [2024-12-30, 12:18:10](https://news.ycombinator.com/item?id=42548641) - [What Is It Like To Be A Thermostat?](https://annakaharris.com/chalmers/)
 * [2024-12-30, 12:00:20](https://news.ycombinator.com/item?id=42548551) - [Pincites (YC S23) is hiring a founding engineer to build legal AI agents (Remote)](https://www.ycombinator.com/companies/pincites/jobs)
