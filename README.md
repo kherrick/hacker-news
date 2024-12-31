@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-31, 14:05:07](https://news.ycombinator.com/item?id=42558763) - [How to monitor your local weather with Grafana](https://grafana.com/blog/2024/12/26/how-to-monitor-your-local-weather-with-grafana/)
 * [2024-12-31, 11:19:17](https://news.ycombinator.com/item?id=42558037) - [Darktable 5.0.0 Released](https://www.darktable.org/2024/12/darktable-5.0.0-released/)
 * [2024-12-31, 09:28:48](https://news.ycombinator.com/item?id=42557586) - [Interesting Interview with DeepSeek's CEO](https://www.chinatalk.media/p/deepseek-ceo-interview-with-chinas)
 * [2024-12-31, 08:24:03](https://news.ycombinator.com/item?id=42557342) - [U.S. Army Soldier Arrested in AT&T, Verizon Extortions](https://krebsonsecurity.com/2024/12/u-s-army-soldier-arrested-in-att-verizon-extortions/)
@@ -20,7 +21,6 @@
 * [2024-12-30, 08:38:38](https://news.ycombinator.com/item?id=42547610) - [MiceWine – run Windows applications and games on Android smartphones](https://github.com/KreitinnSoftware/MiceWine-Application)
 * [2024-12-30, 06:25:01](https://news.ycombinator.com/item?id=42547003) - [I keep turning my Google Sheets into phone-friendly webapps](https://arstechnica.com/gadgets/2024/12/making-tiny-no-code-webapps-out-of-spreadsheets-is-a-weirdly-fulfilling-hobby/)
 * [2024-12-28, 22:25:40](https://news.ycombinator.com/item?id=42535354) - [What Happens to Relicensed Open Source Projects and Their Forks?](https://thenewstack.io/what-happens-to-relicensed-open-source-projects-and-their-forks/)
-* [2024-12-28, 21:28:38](https://news.ycombinator.com/item?id=42534918) - [Why it's hard to trust software, but you mostly have to anyway](https://educatedguesswork.org/posts/ensuring-software-provenance/)
 * [2024-12-28, 19:17:26](https://news.ycombinator.com/item?id=42533648) - [Ruby-refrigerator: Freeze all core Ruby classes](https://github.com/jeremyevans/ruby-refrigerator)
 * [2024-12-28, 18:06:40](https://news.ycombinator.com/item?id=42532979) - [Debugging memory corruption: who the hell writes \"2\" into my stack? (2016)](https://unity.com/blog/engine-platform/debugging-memory-debugging-memory-corruption-who-wrote-2-into-my-stack-who-the-hell)
 * [2024-12-28, 12:01:47](https://news.ycombinator.com/item?id=42530424) - [Symbolic Reference and Hardware Models in Python](https://tomverbeure.github.io/2024/12/27/A-Symbolic-HW-Model-in-Python.html)
