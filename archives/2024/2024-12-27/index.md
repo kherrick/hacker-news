@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-27](index.md)
 
+* [2024-12-27, 23:19:52](https://news.ycombinator.com/item?id=42526978) - [Behind the Scenes: Alien Worlds – Jumpship over a tidally locked planet](https://www.blendernation.com/2024/12/24/behind-the-scenes-alien-worlds-jumpship-over-a-tidally-locked-planet/)
 * [2024-12-27, 23:10:54](https://news.ycombinator.com/item?id=42526926) - [How to Create HTML/ZIP/PNG Polyglot Files](https://gildas-lormeau.github.io/Polyglot-HTML-ZIP-PNG/SUMMARY.html)
 * [2024-12-27, 22:50:02](https://news.ycombinator.com/item?id=42526803) - [Spotify is full of AI music](https://www.fastcompany.com/91170296/spotify-ai-music)
 * [2024-12-27, 22:45:42](https://news.ycombinator.com/item?id=42526769) - [Show HN: Minimal, self-hosted exercise tracker](https://github.com/bmtwl/exerciseminimilism)

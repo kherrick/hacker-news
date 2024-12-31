@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-12-30](index.md)
 
+* [2024-12-30, 22:58:26](https://news.ycombinator.com/item?id=42554521) - [Lightstorm: Minimalistic Ruby Compiler](https://blog.llvm.org/posts/2024-12-03-minimalistic-ruby-compiler/)
+* [2024-12-30, 22:49:33](https://news.ycombinator.com/item?id=42554420) - [Cook: Colliding with the SHA prefix of Linux's initial Git commit](https://lwn.net/Articles/1003797/)
 * [2024-12-30, 22:25:45](https://news.ycombinator.com/item?id=42554218) - [Why Linux is not ready for the desktop, the final edition](https://itvision.altervista.org/why.linux.is.not.ready.for.the.desktop.final.html)
 * [2024-12-30, 22:24:51](https://news.ycombinator.com/item?id=42554209) - [Beyond Gradient Averaging in Parallel Optimization](https://arxiv.org/abs/2412.18052)
 * [2024-12-30, 21:57:55](https://news.ycombinator.com/item?id=42554008) - [China to Build Thorium Molten-Salt Reactor in 2025](https://spectrum.ieee.org/chinas-thorium-molten-salt-reactor)
+* [2024-12-30, 21:51:33](https://news.ycombinator.com/item?id=42553949) - [I Wrote a Game Boy Advance Game in Zig](https://jonot.me/posts/zig-gba/)
 * [2024-12-30, 21:20:52](https://news.ycombinator.com/item?id=42553682) - [\"A Course of Pure Mathematics\" – G. H. Hardy (1921) [pdf]](https://www.gutenberg.org/files/38769/38769-pdf.pdf)
 * [2024-12-30, 20:46:38](https://news.ycombinator.com/item?id=42553313) - [Jack Elam and the Fly in 'Once Upon a Time in the West'](https://pov.imv.au.dk/Issue_24/section_1/artc4A.html)
 * [2024-12-30, 20:12:32](https://news.ycombinator.com/item?id=42552976) - [Database mocks are just not worth it](https://www.shayon.dev/post/2024/365/database-mocks-are-just-not-worth-it/)
@@ -50,7 +53,9 @@
 * [2024-12-30, 09:16:10](https://news.ycombinator.com/item?id=42547803) - [Was zombie-Bench just acquired?](https://news.ycombinator.com/item?id=42547803)
 * [2024-12-30, 08:38:38](https://news.ycombinator.com/item?id=42547610) - [MiceWine – run Windows applications and games on Android smartphones](https://github.com/KreitinnSoftware/MiceWine-Application)
 * [2024-12-30, 08:12:48](https://news.ycombinator.com/item?id=42547489) - ['Obelisks': New Class of Life Has Been Found in Human Digestive System](https://www.sciencealert.com/obelisks-entirely-new-class-of-life-has-been-found-in-the-human-digestive-system)
+* [2024-12-30, 07:08:03](https://news.ycombinator.com/item?id=42547208) - [I made a tiny library for switches and sum types in Lua](https://github.com/alurm/lua-match)
 * [2024-12-30, 06:52:55](https://news.ycombinator.com/item?id=42547150) - [86Box: Emulator of x86-Based Machines](https://github.com/86Box/86Box)
+* [2024-12-30, 06:25:01](https://news.ycombinator.com/item?id=42547003) - [I keep turning my Google Sheets into phone-friendly webapps, and I can't stop](https://arstechnica.com/gadgets/2024/12/making-tiny-no-code-webapps-out-of-spreadsheets-is-a-weirdly-fulfilling-hobby/)
 * [2024-12-30, 06:06:35](https://news.ycombinator.com/item?id=42546918) - [Single cigarette takes 20 minutes off life expectancy, study finds](https://www.theguardian.com/society/2024/dec/30/single-cigarette-takes-20-minutes-off-life-expectancy-study)
 * [2024-12-30, 03:47:29](https://news.ycombinator.com/item?id=42546259) - [Category Theory Illustrated](https://abuseofnotation.github.io/category-theory-illustrated/)
 * [2024-12-30, 03:39:42](https://news.ycombinator.com/item?id=42546216) - [Pegasus to Predator – The evolution of Commercial Spyware on iOS [video]](https://media.ccc.de/v/38c3-from-pegasus-to-predator-the-evolution-of-commercial-spyware-on-ios)
