@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-31](index.md)
 
+* [2024-12-31, 14:58:01](https://news.ycombinator.com/item?id=42559048) - [Show HN: Obsess Jobs – Apply to jobs in your sleep](https://obsessjobs.com/)
+* [2024-12-31, 14:47:51](https://news.ycombinator.com/item?id=42558995) - [Urine Led to the Foundation of Chemistry](https://bigthink.com/the-past/how-urine-led-to-the-foundation-of-chemistry/)
 * [2024-12-31, 14:05:07](https://news.ycombinator.com/item?id=42558763) - [How to monitor your local weather with Grafana](https://grafana.com/blog/2024/12/26/how-to-monitor-your-local-weather-with-grafana/)
 * [2024-12-31, 11:19:17](https://news.ycombinator.com/item?id=42558037) - [Darktable 5.0.0 Released](https://www.darktable.org/2024/12/darktable-5.0.0-released/)
 * [2024-12-31, 09:28:48](https://news.ycombinator.com/item?id=42557586) - [Interesting Interview with DeepSeek's CEO](https://www.chinatalk.media/p/deepseek-ceo-interview-with-chinas)
