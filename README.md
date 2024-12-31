@@ -25,11 +25,11 @@
 * [2024-12-28, 22:25:40](https://news.ycombinator.com/item?id=42535354) - [What Happens to Relicensed Open Source Projects and Their Forks?](https://thenewstack.io/what-happens-to-relicensed-open-source-projects-and-their-forks/)
 * [2024-12-28, 19:17:26](https://news.ycombinator.com/item?id=42533648) - [Ruby-refrigerator: Freeze all core Ruby classes](https://github.com/jeremyevans/ruby-refrigerator)
 * [2024-12-28, 18:06:40](https://news.ycombinator.com/item?id=42532979) - [Debugging memory corruption: who the hell writes \"2\" into my stack? (2016)](https://unity.com/blog/engine-platform/debugging-memory-debugging-memory-corruption-who-wrote-2-into-my-stack-who-the-hell)
+* [2024-12-28, 12:08:07](https://news.ycombinator.com/item?id=42530459) - [Revisiting the NetBSD Build System](https://blogsystem5.substack.com/p/netbsd-build-system)
 * [2024-12-28, 10:32:36](https://news.ycombinator.com/item?id=42530018) - [Peephole optimizations: adding `opt_respond_to` to the Ruby VM, part 4](https://jpcamara.com/2024/12/27/peephole-optimizations-adding-optrespondto-to.html)
 * [2024-12-28, 09:36:25](https://news.ycombinator.com/item?id=42529771) - [Show HN: Handwritten Christmas Card for Hacker News](https://handwritten-card.vercel.app/show-hn)
 * [2024-12-28, 01:22:48](https://news.ycombinator.com/item?id=42527716) - [The History of Cholera in Great Britain (1947)](https://journals.sagepub.com/doi/pdf/10.1177/003591574804100309)
 * [2024-12-27, 20:14:31](https://news.ycombinator.com/item?id=42525627) - [Storing 3D scans in a grain of wheat](https://wafaabilal.com/in-a-grain-of-wheat/)
-* [2024-12-27, 10:46:15](https://news.ycombinator.com/item?id=42521259) - [Agentarium: Creating social simulations with AI Agents](https://github.com/Thytu/Agentarium)
 
 ## [Archives](archives/index.md)
 
