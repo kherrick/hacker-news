@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-31](index.md)
 
+* [2024-12-31, 21:58:55](https://news.ycombinator.com/item?id=42562175) - [Building Game Prototypes with LÖVE](https://healeycodes.com/building-game-prototypes-with-love)
 * [2024-12-31, 21:39:34](https://news.ycombinator.com/item?id=42562049) - [Identifying and Manipulating LLM Personality Traits via Activation Engineering](https://arxiv.org/abs/2412.10427)
 * [2024-12-31, 21:00:23](https://news.ycombinator.com/item?id=42561787) - [Just Words (YC W24) Is Hiring](https://www.ycombinator.com/companies/just-words/jobs/lwVZeEN-sr-software-engineer-frontend)
 * [2024-12-31, 20:47:12](https://news.ycombinator.com/item?id=42561711) - [Arnis: Generate Cities in Minecraft from OpenStreetMap](https://github.com/louis-e/arnis)
