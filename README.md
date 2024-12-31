@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-31, 04:31:18](https://news.ycombinator.com/item?id=42556408) - [BYD is automaker with the most R&D staff in the world](https://electrek.co/2024/09/13/byd-worlds-largest-automaker-rd-workforce/)
 * [2024-12-31, 02:55:33](https://news.ycombinator.com/item?id=42555953) - [T2x – a CLI tool for AI-first text operations](https://www.shruggingface.com/microblog/2024/11/28/t2x-a-cli-tool-for-ai-first-text-operations)
 * [2024-12-31, 01:52:06](https://news.ycombinator.com/item?id=42555594) - [More telcos confirm Salt Typhoon breaches as White House weighs in](https://www.theregister.com/2024/12/30/att_verizon_confirm_salt_typhoon_breach/)
 * [2024-12-31, 01:20:51](https://news.ycombinator.com/item?id=42555440) - [Orbit by Mozilla](https://orbitbymozilla.com/)
@@ -24,6 +23,7 @@
 * [2024-12-28, 22:25:40](https://news.ycombinator.com/item?id=42535354) - [What Happens to Relicensed Open Source Projects and Their Forks?](https://thenewstack.io/what-happens-to-relicensed-open-source-projects-and-their-forks/)
 * [2024-12-28, 19:17:26](https://news.ycombinator.com/item?id=42533648) - [Ruby-refrigerator: Freeze all core Ruby classes](https://github.com/jeremyevans/ruby-refrigerator)
 * [2024-12-28, 14:22:18](https://news.ycombinator.com/item?id=42531215) - [Experimenting with architectures for video games inspired by tabletop games](http://paulgestwicki.blogspot.com/2024/12/experimenting-with-software.html)
+* [2024-12-28, 04:58:12](https://news.ycombinator.com/item?id=42528720) - [Seyfert Galaxies](https://www.seyfertgalaxies.com/)
 * [2024-12-27, 23:19:52](https://news.ycombinator.com/item?id=42526978) - [Behind the Scenes: Alien Worlds – Jumpship over a tidally locked planet](https://www.blendernation.com/2024/12/24/behind-the-scenes-alien-worlds-jumpship-over-a-tidally-locked-planet/)
 * [2024-12-27, 17:32:56](https://news.ycombinator.com/item?id=42524130) - [Learning Solver Design: Automating Factorio Balancers](https://gianlucaventurini.com/posts/2024/factorio-sat)
 * [2024-12-27, 12:29:14](https://news.ycombinator.com/item?id=42521630) - [Reverse Engineering the Duco Connectivity Board](https://github.com/kokx/duco-analysis)
