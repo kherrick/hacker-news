@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-12-31, 23:03:30](https://news.ycombinator.com/item?id=42562529) - [FBI: Largest homemade explosives cache in agency history found in Virginia](https://thehill.com/national-security/5061535-virginia-man-arrested-explosives/)
+* [2024-12-31, 22:45:47](https://news.ycombinator.com/item?id=42562421) - [Show HN: Open-source user analytics](https://github.com/TirrenoTechnologies/tirreno)
 * [2024-12-31, 21:58:55](https://news.ycombinator.com/item?id=42562175) - [Building Game Prototypes with LÖVE](https://healeycodes.com/building-game-prototypes-with-love)
 * [2024-12-31, 21:39:34](https://news.ycombinator.com/item?id=42562049) - [Identifying and Manipulating LLM Personality Traits via Activation Engineering](https://arxiv.org/abs/2412.10427)
 * [2024-12-31, 21:00:23](https://news.ycombinator.com/item?id=42561787) - [Just Words (YC W24) Is Hiring](https://www.ycombinator.com/companies/just-words/jobs/lwVZeEN-sr-software-engineer-frontend)
@@ -29,7 +30,6 @@
 * [2024-12-28, 10:32:36](https://news.ycombinator.com/item?id=42530018) - [Peephole optimizations: adding `opt_respond_to` to the Ruby VM, part 4](https://jpcamara.com/2024/12/27/peephole-optimizations-adding-optrespondto-to.html)
 * [2024-12-28, 10:09:28](https://news.ycombinator.com/item?id=42529894) - [Penrose Mazes](https://justinpombrio.net/archive/penrose-maze/)
 * [2024-12-28, 09:36:25](https://news.ycombinator.com/item?id=42529771) - [Show HN: Handwritten Christmas Card for Hacker News](https://handwritten-card.vercel.app/show-hn)
-* [2024-12-28, 01:22:48](https://news.ycombinator.com/item?id=42527716) - [The History of Cholera in Great Britain (1947)](https://journals.sagepub.com/doi/pdf/10.1177/003591574804100309)
 
 ## [Archives](archives/index.md)
 
