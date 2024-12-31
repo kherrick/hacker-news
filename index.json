@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=42555440"
     ],
     [
-      "Orbit. Mozilla's AI Assistant for Firefox",
+      "Orbit by Mozilla",
       "https://orbitbymozilla.com/"
     ]
   ],
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=42553949"
     ],
     [
-      "I Wrote a Game Boy Advance Game in Zig",
+      "I wrote a Game Boy Advance game in Zig",
       "https://jonot.me/posts/zig-gba/"
     ]
   ],
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2024-12-30, 13:30:42",
-      "https://news.ycombinator.com/item?id=42549083"
-    ],
-    [
-      "Ts_zip: Text Compression Using Large Language Models",
-      "https://bellard.org/ts_zip/"
-    ]
-  ],
-  [
-    [
       "2024-12-30, 09:18:38",
       "https://news.ycombinator.com/item?id=42547820"
     ],
@@ -217,6 +207,16 @@
     [
       "I keep turning my Google Sheets into phone-friendly webapps",
       "https://arstechnica.com/gadgets/2024/12/making-tiny-no-code-webapps-out-of-spreadsheets-is-a-weirdly-fulfilling-hobby/"
+    ]
+  ],
+  [
+    [
+      "2024-12-28, 22:25:40",
+      "https://news.ycombinator.com/item?id=42535354"
+    ],
+    [
+      "What Happens to Relicensed Open Source Projects and Their Forks?",
+      "https://thenewstack.io/what-happens-to-relicensed-open-source-projects-and-their-forks/"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2024-12-27, 07:11:54",
-      "https://news.ycombinator.com/item?id=42520470"
+      "2024-12-27, 07:51:30",
+      "https://news.ycombinator.com/item?id=42520601"
     ],
     [
-      "RubyConf 2024: Cloud Native Buildpack Hackday (and other Ruby deploy tools, too)",
-      "https://www.schneems.com/rubyconf-2024-hackday/"
+      "Coding Font Selection 'Tournament'",
+      "https://daringfireball.net/linked/2024/12/24/coding-font-selection-tournament"
     ]
   ],
   [
