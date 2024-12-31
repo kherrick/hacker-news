@@ -7,7 +7,7 @@
 * [2024-12-31, 00:54:43](https://news.ycombinator.com/item?id=42555320) - [Coconut by Meta AI – Better LLM Reasoning with Chain of Continuous Thought?](https://aipapersacademy.com/chain-of-continuous-thought/)
 * [2024-12-31, 00:12:29](https://news.ycombinator.com/item?id=42555066) - [LineageOS 22 Released](https://lineageos.org/Changelog-29/)
 * [2024-12-30, 22:58:26](https://news.ycombinator.com/item?id=42554521) - [Lightstorm: Minimalistic Ruby Compiler](https://blog.llvm.org/posts/2024-12-03-minimalistic-ruby-compiler/)
-* [2024-12-30, 22:49:33](https://news.ycombinator.com/item?id=42554420) - [Cook: Colliding with the SHA prefix of Linux's initial Git commit](https://lwn.net/Articles/1003797/)
+* [2024-12-30, 22:49:33](https://news.ycombinator.com/item?id=42554420) - [Colliding with the SHA prefix of Linux's initial Git commit](https://people.kernel.org/kees/colliding-with-the-sha-prefix-of-linuxs-initial-git-commit)
 * [2024-12-30, 22:24:51](https://news.ycombinator.com/item?id=42554209) - [Beyond Gradient Averaging in Parallel Optimization](https://arxiv.org/abs/2412.18052)
 * [2024-12-30, 21:51:33](https://news.ycombinator.com/item?id=42553949) - [I wrote a Game Boy Advance game in Zig](https://jonot.me/posts/zig-gba/)
 * [2024-12-30, 21:20:52](https://news.ycombinator.com/item?id=42553682) - [\"A Course of Pure Mathematics\" – G. H. Hardy (1921) [pdf]](https://www.gutenberg.org/files/38769/38769-pdf.pdf)
