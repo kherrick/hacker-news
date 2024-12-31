@@ -67,6 +67,7 @@
 * [2024-12-27, 12:09:34](https://news.ycombinator.com/item?id=42521545) - [Supernovae evidence for foundational change to cosmological models](https://academic.oup.com/mnrasl/article/537/1/L55/7926647)
 * [2024-12-27, 12:01:16](https://news.ycombinator.com/item?id=42521503) - [Harper (YC W25) Is Hiring Founding Engineer #2](https://www.ycombinator.com/companies/harper/jobs/y8KjuRZ-founding-ai-engineer)
 * [2024-12-27, 12:00:02](https://news.ycombinator.com/item?id=42521493) - [Racket-embed-images-in-source-text](https://github.com/shriram/racket-embed-images-in-source-text)
+* [2024-12-27, 10:46:15](https://news.ycombinator.com/item?id=42521259) - [Agentarium: Creating social simulations with AI Agents](https://github.com/Thytu/Agentarium)
 * [2024-12-27, 10:42:03](https://news.ycombinator.com/item?id=42521241) - [Building AI Products–Part I: Back-End Architecture](https://philcalcado.com/2024/12/14/building-ai-products-part-i.html)
 * [2024-12-27, 09:51:13](https://news.ycombinator.com/item?id=42521069) - [Homebrew Batteries](http://www.hanssummers.com/homebrew/homebrewbattery.html)
 * [2024-12-27, 09:02:47](https://news.ycombinator.com/item?id=42520861) - [Execution Units Are Often Pipelined](https://blog.xoria.org/pipelining/)
