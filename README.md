@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-12-31, 08:28:21](https://news.ycombinator.com/item?id=42557355) - [Bertrand Russell on Zionism [video]](https://www.youtube.com/watch?v=egfCTz-ZuZU)
 * [2024-12-31, 08:24:03](https://news.ycombinator.com/item?id=42557342) - [U.S. Army Soldier Arrested in AT&T, Verizon Extortions](https://krebsonsecurity.com/2024/12/u-s-army-soldier-arrested-in-att-verizon-extortions/)
 * [2024-12-31, 08:05:59](https://news.ycombinator.com/item?id=42557276) - [Dog Aging Project](https://dogagingproject.org/)
 * [2024-12-31, 08:00:10](https://news.ycombinator.com/item?id=42557257) - [Pee.ie – Public Toilets Near Me Ireland](https://www.pee.ie/)
@@ -22,7 +23,6 @@
 * [2024-12-28, 22:25:40](https://news.ycombinator.com/item?id=42535354) - [What Happens to Relicensed Open Source Projects and Their Forks?](https://thenewstack.io/what-happens-to-relicensed-open-source-projects-and-their-forks/)
 * [2024-12-28, 21:28:38](https://news.ycombinator.com/item?id=42534918) - [Why it's hard to trust software, but you mostly have to anyway](https://educatedguesswork.org/posts/ensuring-software-provenance/)
 * [2024-12-28, 19:17:26](https://news.ycombinator.com/item?id=42533648) - [Ruby-refrigerator: Freeze all core Ruby classes](https://github.com/jeremyevans/ruby-refrigerator)
-* [2024-12-28, 14:22:18](https://news.ycombinator.com/item?id=42531215) - [Experimenting with architectures for video games inspired by tabletop games](http://paulgestwicki.blogspot.com/2024/12/experimenting-with-software.html)
 * [2024-12-28, 04:58:12](https://news.ycombinator.com/item?id=42528720) - [Seyfert Galaxies](https://www.seyfertgalaxies.com/)
 * [2024-12-27, 23:19:52](https://news.ycombinator.com/item?id=42526978) - [Behind the Scenes: Alien Worlds – Jumpship over a tidally locked planet](https://www.blendernation.com/2024/12/24/behind-the-scenes-alien-worlds-jumpship-over-a-tidally-locked-planet/)
 * [2024-12-27, 17:32:56](https://news.ycombinator.com/item?id=42524130) - [Learning Solver Design: Automating Factorio Balancers](https://gianlucaventurini.com/posts/2024/factorio-sat)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-31](index.md)
 
+* [2024-12-31, 08:28:21](https://news.ycombinator.com/item?id=42557355) - [Bertrand Russell on Zionism [video]](https://www.youtube.com/watch?v=egfCTz-ZuZU)
 * [2024-12-31, 08:24:03](https://news.ycombinator.com/item?id=42557342) - [U.S. Army Soldier Arrested in AT&T, Verizon Extortions](https://krebsonsecurity.com/2024/12/u-s-army-soldier-arrested-in-att-verizon-extortions/)
 * [2024-12-31, 08:05:59](https://news.ycombinator.com/item?id=42557276) - [Dog Aging Project](https://dogagingproject.org/)
 * [2024-12-31, 08:00:10](https://news.ycombinator.com/item?id=42557257) - [Pee.ie – Public Toilets Near Me Ireland](https://www.pee.ie/)
