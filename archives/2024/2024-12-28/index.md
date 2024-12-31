@@ -47,6 +47,7 @@
 * [2024-12-28, 11:33:47](https://news.ycombinator.com/item?id=42530293) - [Casual Viewing – Why Netflix looks like that](https://www.nplusonemag.com/issue-49/essays/casual-viewing/)
 * [2024-12-28, 11:18:12](https://news.ycombinator.com/item?id=42530237) - [Chess: Magnus Carlsen disqualified in N.Y. after refusing to change out of jeans](https://www.theguardian.com/sport/2024/dec/27/chess-carlsen-targets-rapid-and-blitz-gold-on-wall-street-this-weekend)
 * [2024-12-28, 10:32:36](https://news.ycombinator.com/item?id=42530018) - [Peephole optimizations: adding `opt_respond_to` to the Ruby VM, part 4](https://jpcamara.com/2024/12/27/peephole-optimizations-adding-optrespondto-to.html)
+* [2024-12-28, 10:09:28](https://news.ycombinator.com/item?id=42529894) - [Penrose Mazes](https://justinpombrio.net/archive/penrose-maze/)
 * [2024-12-28, 09:36:25](https://news.ycombinator.com/item?id=42529771) - [Show HN: Handwritten Christmas Card for Hacker News](https://handwritten-card.vercel.app/show-hn)
 * [2024-12-28, 09:32:32](https://news.ycombinator.com/item?id=42529756) - [Netflix tells writers to have characters \"announce what they're doing\"](https://www.worldofreel.com/blog/2024/12/27/netflix-tells-writers-to-have-characters-announce-what-theyre-doing-just-in-case-viewer-is-busy-doing-something-else)
 * [2024-12-28, 09:32:32](https://news.ycombinator.com/item?id=42529756) - [Casual Viewing – Why Netflix looks like that](https://www.nplusonemag.com/issue-49/essays/casual-viewing/)

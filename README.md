@@ -2,9 +2,9 @@
 
 * [2024-12-31, 21:39:34](https://news.ycombinator.com/item?id=42562049) - [Identifying and Manipulating LLM Personality Traits via Activation Engineering](https://arxiv.org/abs/2412.10427)
 * [2024-12-31, 21:00:23](https://news.ycombinator.com/item?id=42561787) - [Just Words (YC W24) Is Hiring](https://www.ycombinator.com/companies/just-words/jobs/lwVZeEN-sr-software-engineer-frontend)
-* [2024-12-31, 20:47:12](https://news.ycombinator.com/item?id=42561711) - [Arnis: Generate Cities in Minecraft from OpenStreetMap](https://github.com/louis-e/arnis)
+* [2024-12-31, 20:47:12](https://news.ycombinator.com/item?id=42561711) - [Arnis: Generate cities in Minecraft from OpenStreetMap](https://github.com/louis-e/arnis)
 * [2024-12-31, 18:11:06](https://news.ycombinator.com/item?id=42560558) - [Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)
-* [2024-12-31, 17:23:24](https://news.ycombinator.com/item?id=42560171) - [Dinner for One: British comedy Germans have been laughing at for years (2018)](https://www.theguardian.com/tv-and-radio/2018/dec/30/dinner-for-one-german-television-new-years-eve)
+* [2024-12-31, 17:38:12](https://news.ycombinator.com/item?id=42560284) - [Amiga Games Released in 2024 Index](https://www.lemonamiga.com/forum/viewtopic.php?t=19114)
 * [2024-12-31, 16:52:21](https://news.ycombinator.com/item?id=42559909) - [The GTA III port for the Dreamcast has been released](https://gitlab.com/skmp/dca3-game)
 * [2024-12-31, 16:47:54](https://news.ycombinator.com/item?id=42559882) - [Systems ideas that sound good but almost never work](https://hardcoresoftware.learningbyshipping.com/p/225-systems-ideas-that-sound-good)
 * [2024-12-31, 16:32:58](https://news.ycombinator.com/item?id=42559744) - [Show HN: Watch 3 AIs compete in real-time stock trading](https://trading.snagra.com)
@@ -19,7 +19,6 @@
 * [2024-12-30, 21:51:33](https://news.ycombinator.com/item?id=42553949) - [I wrote a Game Boy Advance game in Zig](https://jonot.me/posts/zig-gba/)
 * [2024-12-30, 21:20:52](https://news.ycombinator.com/item?id=42553682) - [“A Course of Pure Mathematics” – G. H. Hardy (1921) [pdf]](https://www.gutenberg.org/files/38769/38769-pdf.pdf)
 * [2024-12-30, 14:37:17](https://news.ycombinator.com/item?id=42549624) - [AI companies cause most of traffic on forums](https://pod.geraspora.de/posts/17342163)
-* [2024-12-30, 12:36:13](https://news.ycombinator.com/item?id=42548751) - [Journey from Entrepreneur to Employee](https://akshay.co/posts/entrepreneur-to-employee/)
 * [2024-12-30, 09:26:29](https://news.ycombinator.com/item?id=42547867) - [Reciprocal Approximation with 1 Subtraction](https://news.ycombinator.com/item?id=42547867)
 * [2024-12-30, 06:40:05](https://news.ycombinator.com/item?id=42547086) - [Show HN: Onramp Can Compile Doom](https://ludocode.com/blog/onramp-can-compile-doom)
 * [2024-12-30, 06:25:01](https://news.ycombinator.com/item?id=42547003) - [I keep turning my Google Sheets into phone-friendly webapps](https://arstechnica.com/gadgets/2024/12/making-tiny-no-code-webapps-out-of-spreadsheets-is-a-weirdly-fulfilling-hobby/)
@@ -28,6 +27,7 @@
 * [2024-12-28, 18:06:40](https://news.ycombinator.com/item?id=42532979) - [Debugging memory corruption: who the hell writes \"2\" into my stack? (2016)](https://unity.com/blog/engine-platform/debugging-memory-debugging-memory-corruption-who-wrote-2-into-my-stack-who-the-hell)
 * [2024-12-28, 12:08:07](https://news.ycombinator.com/item?id=42530459) - [Revisiting the NetBSD Build System](https://blogsystem5.substack.com/p/netbsd-build-system)
 * [2024-12-28, 10:32:36](https://news.ycombinator.com/item?id=42530018) - [Peephole optimizations: adding `opt_respond_to` to the Ruby VM, part 4](https://jpcamara.com/2024/12/27/peephole-optimizations-adding-optrespondto-to.html)
+* [2024-12-28, 10:09:28](https://news.ycombinator.com/item?id=42529894) - [Penrose Mazes](https://justinpombrio.net/archive/penrose-maze/)
 * [2024-12-28, 09:36:25](https://news.ycombinator.com/item?id=42529771) - [Show HN: Handwritten Christmas Card for Hacker News](https://handwritten-card.vercel.app/show-hn)
 * [2024-12-28, 01:22:48](https://news.ycombinator.com/item?id=42527716) - [The History of Cholera in Great Britain (1947)](https://journals.sagepub.com/doi/pdf/10.1177/003591574804100309)
 
