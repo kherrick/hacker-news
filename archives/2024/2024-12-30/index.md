@@ -6,6 +6,7 @@
 
 * [2024-12-30, 22:58:26](https://news.ycombinator.com/item?id=42554521) - [Lightstorm: Minimalistic Ruby Compiler](https://blog.llvm.org/posts/2024-12-03-minimalistic-ruby-compiler/)
 * [2024-12-30, 22:49:33](https://news.ycombinator.com/item?id=42554420) - [Cook: Colliding with the SHA prefix of Linux's initial Git commit](https://lwn.net/Articles/1003797/)
+* [2024-12-30, 22:34:56](https://news.ycombinator.com/item?id=42554297) - [Adding a Fully-Bootstrapped Mono](https://guix.gnu.org/en/blog/2024/adding-a-fully-bootstrapped-mono/)
 * [2024-12-30, 22:25:45](https://news.ycombinator.com/item?id=42554218) - [Why Linux is not ready for the desktop, the final edition](https://itvision.altervista.org/why.linux.is.not.ready.for.the.desktop.final.html)
 * [2024-12-30, 22:24:51](https://news.ycombinator.com/item?id=42554209) - [Beyond Gradient Averaging in Parallel Optimization](https://arxiv.org/abs/2412.18052)
 * [2024-12-30, 21:57:55](https://news.ycombinator.com/item?id=42554008) - [China to Build Thorium Molten-Salt Reactor in 2025](https://spectrum.ieee.org/chinas-thorium-molten-salt-reactor)
