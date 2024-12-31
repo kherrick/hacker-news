@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-31, 14:58:01](https://news.ycombinator.com/item?id=42559048) - [Show HN: Obsess Jobs – Apply to jobs in your sleep](https://obsessjobs.com/)
 * [2024-12-31, 14:47:51](https://news.ycombinator.com/item?id=42558995) - [Urine Led to the Foundation of Chemistry](https://bigthink.com/the-past/how-urine-led-to-the-foundation-of-chemistry/)
 * [2024-12-31, 14:05:07](https://news.ycombinator.com/item?id=42558763) - [How to monitor your local weather with Grafana](https://grafana.com/blog/2024/12/26/how-to-monitor-your-local-weather-with-grafana/)
 * [2024-12-31, 11:19:17](https://news.ycombinator.com/item?id=42558037) - [Darktable 5.0.0](https://www.darktable.org/2024/12/darktable-5.0.0-released/)
@@ -17,6 +16,7 @@
 * [2024-12-30, 21:51:33](https://news.ycombinator.com/item?id=42553949) - [I wrote a Game Boy Advance game in Zig](https://jonot.me/posts/zig-gba/)
 * [2024-12-30, 21:20:52](https://news.ycombinator.com/item?id=42553682) - [“A Course of Pure Mathematics” – G. H. Hardy (1921) [pdf]](https://www.gutenberg.org/files/38769/38769-pdf.pdf)
 * [2024-12-30, 20:46:38](https://news.ycombinator.com/item?id=42553313) - [Jack Elam and the Fly in 'Once Upon a Time in the West'](https://pov.imv.au.dk/Issue_24/section_1/artc4A.html)
+* [2024-12-30, 18:11:47](https://news.ycombinator.com/item?id=42551900) - [Tell HN: John Friel my father, internet pioneer and creator of QModem, has died](https://news.ycombinator.com/item?id=42551900)
 * [2024-12-30, 09:26:29](https://news.ycombinator.com/item?id=42547867) - [Reciprocal Approximation with 1 Subtraction](https://news.ycombinator.com/item?id=42547867)
 * [2024-12-30, 06:25:01](https://news.ycombinator.com/item?id=42547003) - [I keep turning my Google Sheets into phone-friendly webapps](https://arstechnica.com/gadgets/2024/12/making-tiny-no-code-webapps-out-of-spreadsheets-is-a-weirdly-fulfilling-hobby/)
 * [2024-12-28, 22:25:40](https://news.ycombinator.com/item?id=42535354) - [What Happens to Relicensed Open Source Projects and Their Forks?](https://thenewstack.io/what-happens-to-relicensed-open-source-projects-and-their-forks/)
