@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-31, 08:24:03",
+      "https://news.ycombinator.com/item?id=42557342"
+    ],
+    [
+      "U.S. Army Soldier Arrested in AT&T, Verizon Extortions",
+      "https://krebsonsecurity.com/2024/12/u-s-army-soldier-arrested-in-att-verizon-extortions/"
+    ]
+  ],
+  [
+    [
       "2024-12-31, 08:05:59",
       "https://news.ycombinator.com/item?id=42557276"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2024-12-31, 01:52:06",
-      "https://news.ycombinator.com/item?id=42555594"
+      "2024-12-31, 08:00:10",
+      "https://news.ycombinator.com/item?id=42557257"
     ],
     [
-      "More telcos confirm Salt Typhoon breaches as White House weighs in",
-      "https://www.theregister.com/2024/12/30/att_verizon_confirm_salt_typhoon_breach/"
+      "Pee.ie – Public Toilets Near Me Ireland",
+      "https://www.pee.ie/"
     ]
   ],
   [
@@ -151,26 +161,6 @@
   ],
   [
     [
-      "2024-12-30, 13:30:42",
-      "https://news.ycombinator.com/item?id=42549083"
-    ],
-    [
-      "Ts_zip: Text Compression Using Large Language Models",
-      "https://bellard.org/ts_zip/"
-    ]
-  ],
-  [
-    [
-      "2024-12-30, 09:18:38",
-      "https://news.ycombinator.com/item?id=42547820"
-    ],
-    [
-      "Curl-Impersonate",
-      "https://github.com/lexiforest/curl-impersonate"
-    ]
-  ],
-  [
-    [
       "2024-12-30, 08:38:38",
       "https://news.ycombinator.com/item?id=42547610"
     ],
@@ -277,6 +267,16 @@
     [
       "Reverse Engineering the Duco Connectivity Board",
       "https://github.com/kokx/duco-analysis"
+    ]
+  ],
+  [
+    [
+      "2024-12-27, 10:46:15",
+      "https://news.ycombinator.com/item?id=42521259"
+    ],
+    [
+      "Agentarium: Creating social simulations with AI Agents",
+      "https://github.com/Thytu/Agentarium"
     ]
   ],
   [
