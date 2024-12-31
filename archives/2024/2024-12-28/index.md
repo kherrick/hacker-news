@@ -12,6 +12,7 @@
 * [2024-12-28, 21:48:31](https://news.ycombinator.com/item?id=42535071) - [Intel's $475M error: the silicon behind the Pentium division bug](https://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html)
 * [2024-12-28, 21:46:42](https://news.ycombinator.com/item?id=42535057) - [Family of OpenAI whistleblower Suchir Balaji demand FBI investigate death](https://www.theguardian.com/us-news/2024/dec/28/openai-whistleblower-suchir-balaji)
 * [2024-12-28, 21:30:34](https://news.ycombinator.com/item?id=42534931) - [AnkiAIUtils: Flashcards+AI Illustrations, Explanations, Mnemonics etc. – FOSS](https://github.com/thiswillbeyourgithub/AnkiAIUtils)
+* [2024-12-28, 21:28:38](https://news.ycombinator.com/item?id=42534918) - [Why it's hard to trust software, but you mostly have to anyway](https://educatedguesswork.org/posts/ensuring-software-provenance/)
 * [2024-12-28, 21:20:35](https://news.ycombinator.com/item?id=42534851) - [EU law mandating universal chargers for devices comes into force](https://www.france24.com/en/europe/20241228-eu-law-mandating-universal-chargers-for-devices-comes-into-force)
 * [2024-12-28, 20:28:16](https://news.ycombinator.com/item?id=42534341) - [How can NBA address 3-point boom? Ranking 12 potential solutions](https://www.cbssports.com/nba/news/how-can-nba-address-3-point-boom-ranking-12-potential-solutions-from-moving-line-to-changing-scoring-system/)
 * [2024-12-28, 20:03:28](https://news.ycombinator.com/item?id=42534090) - [Libero – A Programmer's Tool and Code Generator](https://imatix-legacy.github.io/libero/index.htm)
