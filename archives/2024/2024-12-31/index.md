@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-31](index.md)
 
+* [2024-12-31, 11:19:17](https://news.ycombinator.com/item?id=42558037) - [Darktable 5.0.0 Released](https://www.darktable.org/2024/12/darktable-5.0.0-released/)
 * [2024-12-31, 09:28:48](https://news.ycombinator.com/item?id=42557586) - [Interesting Interview with DeepSeek's CEO](https://www.chinatalk.media/p/deepseek-ceo-interview-with-chinas)
 * [2024-12-31, 08:28:21](https://news.ycombinator.com/item?id=42557355) - [Bertrand Russell on Zionism [video]](https://www.youtube.com/watch?v=egfCTz-ZuZU)
 * [2024-12-31, 08:24:03](https://news.ycombinator.com/item?id=42557342) - [U.S. Army Soldier Arrested in AT&T, Verizon Extortions](https://krebsonsecurity.com/2024/12/u-s-army-soldier-arrested-in-att-verizon-extortions/)
