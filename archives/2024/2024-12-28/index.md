@@ -29,6 +29,7 @@
 * [2024-12-28, 15:35:06](https://news.ycombinator.com/item?id=42531748) - [Wishing Everyone a Happy Solsthelion](https://www.solipsys.co.uk/ZimExpt/Solsthelion.html)
 * [2024-12-28, 15:26:31](https://news.ycombinator.com/item?id=42531695) - [I Automated My Job Application Process](https://blog.daviddodda.com/how-i-automated-my-job-application-process-part-1)
 * [2024-12-28, 14:22:30](https://news.ycombinator.com/item?id=42531217) - [EmacsConf 2024 Notes](https://sachachua.com/blog/2024/12/emacsconf-2024-notes/)
+* [2024-12-28, 14:22:18](https://news.ycombinator.com/item?id=42531215) - [Experimenting with architectures for video games inspired by tabletop games](http://paulgestwicki.blogspot.com/2024/12/experimenting-with-software.html)
 * [2024-12-28, 13:41:48](https://news.ycombinator.com/item?id=42530991) - [So You Want to Write Java in Neovim](https://ptrtojoel.dev/posts/so-you-want-to-write-java-in-neovim/)
 * [2024-12-28, 13:18:34](https://news.ycombinator.com/item?id=42530844) - [Overloading the lambda abstraction in Haskell (2022)](https://acatalepsie.fr/posts/overloading-lambda.html)
 * [2024-12-28, 12:34:58](https://news.ycombinator.com/item?id=42530620) - [Monokai Pro for Jetbrains](https://monokai.pro/jetbrains)
