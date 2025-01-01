@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-01](index.md)
 
+* [2025-01-01, 17:47:43](https://news.ycombinator.com/item?id=42567641) - [Pornhub Is Now Blocked in Almost All of the U.S. South](https://www.404media.co/pornhub-is-now-blocked-in-almost-all-of-the-u-s-south/)
 * [2025-01-01, 17:00:33](https://news.ycombinator.com/item?id=42567286) - [HyperDX (YC S22) is hiring engineers to build open source observability](https://www.ycombinator.com/companies/hyperdx/jobs)
 * [2025-01-01, 16:59:51](https://news.ycombinator.com/item?id=42567280) - [Welcome to the Public Domain in 2025](https://blog.archive.org/2025/01/01/welcome-to-the-public-domain-in-2025/)
 * [2025-01-01, 16:59:43](https://news.ycombinator.com/item?id=42567279) - [Why does storing 2FA codes in your password manager make sense?](https://andygrunwald.com/blog/why-does-storing-two-factor-authentication-codes-in-your-password-manager-make-sense/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-01, 17:47:43](https://news.ycombinator.com/item?id=42567641) - [Pornhub Is Now Blocked in Almost All of the U.S. South](https://www.404media.co/pornhub-is-now-blocked-in-almost-all-of-the-u-s-south/)
 * [2025-01-01, 17:00:33](https://news.ycombinator.com/item?id=42567286) - [HyperDX (YC S22) is hiring engineers to build open source observability](https://www.ycombinator.com/companies/hyperdx/jobs)
 * [2025-01-01, 16:59:51](https://news.ycombinator.com/item?id=42567280) - [Welcome to the Public Domain in 2025](https://blog.archive.org/2025/01/01/welcome-to-the-public-domain-in-2025/)
 * [2025-01-01, 16:59:43](https://news.ycombinator.com/item?id=42567279) - [Why does storing 2FA codes in your password manager make sense?](https://andygrunwald.com/blog/why-does-storing-two-factor-authentication-codes-in-your-password-manager-make-sense/)
@@ -23,10 +24,9 @@
 * [2024-12-31, 20:47:12](https://news.ycombinator.com/item?id=42561711) - [Arnis: Generate cities in Minecraft from OpenStreetMap](https://github.com/louis-e/arnis)
 * [2024-12-31, 18:11:06](https://news.ycombinator.com/item?id=42560558) - [Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)
 * [2024-12-31, 16:52:21](https://news.ycombinator.com/item?id=42559909) - [The GTA III port for the Dreamcast has been released](https://gitlab.com/skmp/dca3-game)
+* [2024-12-31, 07:59:54](https://news.ycombinator.com/item?id=42557255) - [Software Design Is Knowledge Building](https://olano.dev/blog/software-design-is-knowledge-building/)
 * [2024-12-31, 07:20:19](https://news.ycombinator.com/item?id=42557098) - [An Unreasonable Amount of Time](https://allenpike.com/2024/an-unreasonable-amount-of-time)
 * [2024-12-31, 07:04:12](https://news.ycombinator.com/item?id=42557019) - [Performance (On an HP48GX Graphing Calculator)](http://masochistcoder.blogspot.com/2016/05/performance.html)
-* [2024-12-30, 12:59:14](https://news.ycombinator.com/item?id=42548914) - [The Long, Painful History of Time (1999)](https://naggum.no/lugm-time.html)
-* [2024-12-30, 11:07:07](https://news.ycombinator.com/item?id=42548282) - [Lucy: A concise language for describing Finite State Machines](https://pkg.spooky.click/lucylang/)
 * [2024-12-30, 09:21:15](https://news.ycombinator.com/item?id=42547835) - [ShredOS – Secure disk erasure/wipe](https://github.com/PartialVolume/shredos.x86_64)
 * [2024-12-30, 07:08:03](https://news.ycombinator.com/item?id=42547208) - [I made a tiny library for switches and sum types in Lua](https://github.com/alurm/lua-match)
 * [2024-12-28, 16:13:54](https://news.ycombinator.com/item?id=42532014) - [I Reversed a Drone and Landed It with My PC](https://www.hardbreak.wiki/network-analysis/protocols/application-layer/proprietary-protocols/parrot-anafi-drone-reverse-engineering)
