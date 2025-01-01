@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-01, 14:18:27",
+      "https://news.ycombinator.com/item?id=42566141"
+    ],
+    [
+      "Ruby 3.4 Highlights",
+      "https://blog.sinjakli.co.uk/2025/01/01/ruby-3-4-highlights/"
+    ]
+  ],
+  [
+    [
+      "2025-01-01, 14:12:15",
+      "https://news.ycombinator.com/item?id=42566112"
+    ],
+    [
+      "DOOM CAPTCHA",
+      "https://doom-captcha.vercel.app/"
+    ]
+  ],
+  [
+    [
       "2025-01-01, 13:15:03",
       "https://news.ycombinator.com/item?id=42565821"
     ],
@@ -97,16 +117,6 @@
     [
       "Static search trees: faster than binary search",
       "https://curiouscoding.nl/posts/static-search-tree/"
-    ]
-  ],
-  [
-    [
-      "2024-12-31, 23:49:26",
-      "https://news.ycombinator.com/item?id=42562758"
-    ],
-    [
-      "Bench.co acquired after informing staff company was insolvent",
-      "https://www.bench.co/press-release"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "3D-printed neighborhood nears completion in Texas",
       "https://www.yahoo.com/news/worlds-largest-3d-printed-neighborhood-060654029.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-28, 12:08:07",
-      "https://news.ycombinator.com/item?id=42530459"
-    ],
-    [
-      "Revisiting the NetBSD Build System",
-      "https://blogsystem5.substack.com/p/netbsd-build-system"
     ]
   ]
 ]
