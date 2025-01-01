@@ -5,7 +5,7 @@
 * [2024-12-31, 23:49:26](https://news.ycombinator.com/item?id=42562758) - [Bench.co acquired after informing staff company was insolvent](https://www.bench.co/press-release)
 * [2024-12-31, 23:48:36](https://news.ycombinator.com/item?id=42562750) - [Happy New Year 2025 HN](https://news.ycombinator.com/item?id=42562750)
 * [2024-12-31, 23:47:56](https://news.ycombinator.com/item?id=42562743) - [Déjà vu: Ghostly CVEs in my terminal title](https://dgl.cx/2024/12/ghostty-terminal-title)
-* [2024-12-31, 22:45:47](https://news.ycombinator.com/item?id=42562421) - [Show HN: Open-source security user analytics](https://github.com/TirrenoTechnologies/tirreno)
+* [2024-12-31, 23:01:27](https://news.ycombinator.com/item?id=42562513) - [Shallow Feedback Hollows You Out](https://nothinghuman.substack.com/p/shallow-feedback-hollows-you-out)
 * [2024-12-31, 21:58:55](https://news.ycombinator.com/item?id=42562175) - [Building Game Prototypes with LÖVE](https://healeycodes.com/building-game-prototypes-with-love)
 * [2024-12-31, 21:00:23](https://news.ycombinator.com/item?id=42561787) - [Just Words (YC W24) Is Hiring](https://www.ycombinator.com/companies/just-words/jobs/lwVZeEN-sr-software-engineer-frontend)
 * [2024-12-31, 20:47:12](https://news.ycombinator.com/item?id=42561711) - [Arnis: Generate cities in Minecraft from OpenStreetMap](https://github.com/louis-e/arnis)
