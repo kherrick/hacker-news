@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-01, 17:00:33](https://news.ycombinator.com/item?id=42567286) - [HyperDX (YC S22) is hiring engineers to build open source observability](https://www.ycombinator.com/companies/hyperdx/jobs)
+* [2025-01-01, 16:59:51](https://news.ycombinator.com/item?id=42567280) - [Welcome to the Public Domain in 2025](https://blog.archive.org/2025/01/01/welcome-to-the-public-domain-in-2025/)
 * [2025-01-01, 16:59:43](https://news.ycombinator.com/item?id=42567279) - [Why does storing 2FA codes in your password manager make sense?](https://andygrunwald.com/blog/why-does-storing-two-factor-authentication-codes-in-your-password-manager-make-sense/)
 * [2025-01-01, 16:34:52](https://news.ycombinator.com/item?id=42567069) - [H5N1: Much More Than You Wanted to Know](https://www.astralcodexten.com/p/h5n1-much-more-than-you-wanted-to)
-* [2025-01-01, 16:00:08](https://news.ycombinator.com/item?id=42566803) - [OpenAI failed to deliver the opt-out tool it promised by 2025](https://techcrunch.com/2025/01/01/openai-failed-to-deliver-the-opt-out-tool-it-promised-by-2025/)
 * [2025-01-01, 14:27:39](https://news.ycombinator.com/item?id=42566192) - [Databases in 2024: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html)
 * [2025-01-01, 14:18:27](https://news.ycombinator.com/item?id=42566141) - [Ruby 3.4 Highlights](https://blog.sinjakli.co.uk/2025/01/01/ruby-3-4-highlights/)
 * [2025-01-01, 14:12:15](https://news.ycombinator.com/item?id=42566112) - [DOOM CAPTCHA](https://doom-captcha.vercel.app/)
