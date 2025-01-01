@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-01](index.md)
 
+* [2025-01-01, 19:12:57](https://news.ycombinator.com/item?id=42568399) - [Terence Tao: One of my papers got declined today](https://mathstodon.xyz/@tao/113721192051328193)
 * [2025-01-01, 18:38:24](https://news.ycombinator.com/item?id=42568056) - [How and Why I Stopped Buying New Laptops](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops)
 * [2025-01-01, 17:47:43](https://news.ycombinator.com/item?id=42567641) - [Pornhub Is Now Blocked in Almost All of the U.S. South](https://www.404media.co/pornhub-is-now-blocked-in-almost-all-of-the-u-s-south/)
 * [2025-01-01, 17:00:33](https://news.ycombinator.com/item?id=42567286) - [HyperDX (YC S22) is hiring engineers to build open source observability](https://www.ycombinator.com/companies/hyperdx/jobs)

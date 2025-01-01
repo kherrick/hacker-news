@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-01, 19:12:57](https://news.ycombinator.com/item?id=42568399) - [Terence Tao: One of my papers got declined today](https://mathstodon.xyz/@tao/113721192051328193)
 * [2025-01-01, 18:38:24](https://news.ycombinator.com/item?id=42568056) - [How and Why I Stopped Buying New Laptops (2020)](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops)
 * [2025-01-01, 17:00:33](https://news.ycombinator.com/item?id=42567286) - [HyperDX (YC S22) is hiring engineers to build open source observability](https://www.ycombinator.com/companies/hyperdx/jobs)
 * [2025-01-01, 16:59:51](https://news.ycombinator.com/item?id=42567280) - [Welcome to the Public Domain in 2025](https://blog.archive.org/2025/01/01/welcome-to-the-public-domain-in-2025/)
-* [2025-01-01, 16:59:43](https://news.ycombinator.com/item?id=42567279) - [Why does storing 2FA codes in your password manager make sense?](https://andygrunwald.com/blog/why-does-storing-two-factor-authentication-codes-in-your-password-manager-make-sense/)
 * [2025-01-01, 14:27:39](https://news.ycombinator.com/item?id=42566192) - [Databases in 2024: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html)
 * [2025-01-01, 14:18:27](https://news.ycombinator.com/item?id=42566141) - [Ruby 3.4 Highlights](https://blog.sinjakli.co.uk/2025/01/01/ruby-3-4-highlights/)
 * [2025-01-01, 14:12:15](https://news.ycombinator.com/item?id=42566112) - [DOOM CAPTCHA](https://doom-captcha.vercel.app/)
@@ -11,7 +11,6 @@
 * [2025-01-01, 12:29:29](https://news.ycombinator.com/item?id=42565638) - [RT-2: Vision-Language-Action Models](https://robotics-transformer2.github.io/)
 * [2025-01-01, 12:21:18](https://news.ycombinator.com/item?id=42565606) - [30% Drop In o1-Preview Accuracy When Putnam Problems Are Slightly Variated](https://openreview.net/forum?id=YXnwlZe0yf&noteId=yrsGpHd0Sf)
 * [2025-01-01, 11:57:58](https://news.ycombinator.com/item?id=42565513) - [A. A. Milne's Winnie-the-Pooh as an accessible eBook](https://tilde.zone/@gluejar/113749300977151258)
-* [2025-01-01, 11:55:37](https://news.ycombinator.com/item?id=42565502) - [You don't need Next.js – Why we migrated from Next to React](https://www.comfydeploy.com/blog/you-dont-need-nextjs)
 * [2025-01-01, 08:30:56](https://news.ycombinator.com/item?id=42564735) - [Hitting the Jackpot: The Birth of the Monte Carlo Method – LANL (2023)](https://www.lanl.gov/media/publications/actinide-research-quarterly/first-quarter-2023/hitting-the-jackpot-the-birth-of-the-monte-carlo-method)
 * [2025-01-01, 08:16:09](https://news.ycombinator.com/item?id=42564687) - [Books I Loved Reading in 2024](https://thoughts.wyounas.com/p/books-i-enjoyed-most-in-2024)
 * [2025-01-01, 03:57:03](https://news.ycombinator.com/item?id=42563845) - [Cesium for Unreal – Bring the Real World to Unreal Engine](https://cesium.com/platform/cesium-for-unreal/)
@@ -27,7 +26,8 @@
 * [2024-12-31, 07:20:19](https://news.ycombinator.com/item?id=42557098) - [An Unreasonable Amount of Time](https://allenpike.com/2024/an-unreasonable-amount-of-time)
 * [2024-12-31, 07:04:12](https://news.ycombinator.com/item?id=42557019) - [Performance (On an HP48GX Graphing Calculator)](http://masochistcoder.blogspot.com/2016/05/performance.html)
 * [2024-12-30, 12:59:14](https://news.ycombinator.com/item?id=42548914) - [The Long, Painful History of Time (1999)](https://naggum.no/lugm-time.html)
-* [2024-12-30, 09:21:15](https://news.ycombinator.com/item?id=42547835) - [ShredOS – Secure disk erasure/wipe](https://github.com/PartialVolume/shredos.x86_64)
+* [2024-12-30, 11:49:03](https://news.ycombinator.com/item?id=42548480) - [Is there such a thing as \"private, interactive databases\" for SaaS's](https://news.ycombinator.com/item?id=42548480)
+* [2024-12-30, 11:07:07](https://news.ycombinator.com/item?id=42548282) - [Lucy: A concise language for describing Finite State Machines](https://pkg.spooky.click/lucylang/)
 * [2024-12-30, 07:08:03](https://news.ycombinator.com/item?id=42547208) - [I made a tiny library for switches and sum types in Lua](https://github.com/alurm/lua-match)
 * [2024-12-28, 16:13:54](https://news.ycombinator.com/item?id=42532014) - [I Reversed a Drone and Landed It with My PC](https://www.hardbreak.wiki/network-analysis/protocols/application-layer/proprietary-protocols/parrot-anafi-drone-reverse-engineering)
 
