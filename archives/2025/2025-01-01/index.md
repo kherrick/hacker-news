@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-01](index.md)
 
+* [2025-01-01, 15:02:06](https://news.ycombinator.com/item?id=42566387) - [A Legendary Exposé of the Brutality of the Soviet Union](https://www.smithsonianmag.com/smart-news/discover-the-story-behind-a-legendary-expose-of-the-brutality-of-the-soviet-union-180985658/)
+* [2025-01-01, 14:27:39](https://news.ycombinator.com/item?id=42566192) - [Databases in 2024: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html)
 * [2025-01-01, 14:18:27](https://news.ycombinator.com/item?id=42566141) - [Ruby 3.4 Highlights](https://blog.sinjakli.co.uk/2025/01/01/ruby-3-4-highlights/)
 * [2025-01-01, 14:12:15](https://news.ycombinator.com/item?id=42566112) - [DOOM CAPTCHA](https://doom-captcha.vercel.app/)
 * [2025-01-01, 13:15:03](https://news.ycombinator.com/item?id=42565821) - [Show HN: API Parrot – Automatically Reverse Engineer HTTP APIs](https://apiparrot.com/)
