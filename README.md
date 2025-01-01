@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-01, 04:26:05](https://news.ycombinator.com/item?id=42563946) - [The psychonaut field manual [pdf]](http://thedaemon.space/files/ThePsychonautFieldManual.pdf)
 * [2025-01-01, 03:28:02](https://news.ycombinator.com/item?id=42563734) - [Finland Finds Anchor Drag Marks Left by Tanker That Broke Cables](https://gcaptain.com/finland-finds-anchor-drag-marks-left-by-tanker-that-broke-cables/)
 * [2025-01-01, 02:38:22](https://news.ycombinator.com/item?id=42563534) - [Large Concept Models: Language modeling in a sentence representation space](https://github.com/facebookresearch/large_concept_model)
 * [2025-01-01, 01:24:31](https://news.ycombinator.com/item?id=42563212) - [Signalling chaos: Inside the Elizabeth line's two-day breakdown](https://www.ianvisits.co.uk/articles/signalling-chaos-inside-the-elizabeth-lines-two-day-breakdown-78097/)
@@ -27,7 +28,6 @@
 * [2024-12-28, 18:06:40](https://news.ycombinator.com/item?id=42532979) - [Debugging memory corruption: who the hell writes \"2\" into my stack? (2016)](https://unity.com/blog/engine-platform/debugging-memory-debugging-memory-corruption-who-wrote-2-into-my-stack-who-the-hell)
 * [2024-12-28, 16:13:54](https://news.ycombinator.com/item?id=42532014) - [I Reversed a Drone and Landed It with My PC](https://www.hardbreak.wiki/network-analysis/protocols/application-layer/proprietary-protocols/parrot-anafi-drone-reverse-engineering)
 * [2024-12-28, 15:39:39](https://news.ycombinator.com/item?id=42531774) - [Lies. Damned Lies. P-value thresholds](https://www.newyorker.com/magazine/2019/09/09/what-statistics-can-and-cant-tell-us-about-ourselves)
-* [2024-12-28, 14:24:35](https://news.ycombinator.com/item?id=42531237) - [3D-printed neighborhood nears completion in Texas](https://www.yahoo.com/news/worlds-largest-3d-printed-neighborhood-060654029.html)
 * [2024-12-28, 12:08:07](https://news.ycombinator.com/item?id=42530459) - [Revisiting the NetBSD Build System](https://blogsystem5.substack.com/p/netbsd-build-system)
 * [2024-12-28, 10:09:28](https://news.ycombinator.com/item?id=42529894) - [Penrose Mazes (2020)](https://justinpombrio.net/archive/penrose-maze/)
 
