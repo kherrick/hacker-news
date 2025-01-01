@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2024-12-31, 23:47:56",
-      "https://news.ycombinator.com/item?id=42562743"
-    ],
-    [
-      "Déjà vu: Ghostly CVEs in my terminal title",
-      "https://dgl.cx/2024/12/ghostty-terminal-title"
-    ]
-  ],
-  [
-    [
       "2024-12-31, 23:03:30",
       "https://news.ycombinator.com/item?id=42562529"
     ],
@@ -267,6 +257,16 @@
     [
       "Performance (On an HP48GX Graphing Calculator)",
       "http://masochistcoder.blogspot.com/2016/05/performance.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-30, 11:07:07",
+      "https://news.ycombinator.com/item?id=42548282"
+    ],
+    [
+      "Lucy: A concise language for describing Finite State Machines",
+      "https://pkg.spooky.click/lucylang/"
     ]
   ],
   [
