@@ -44,6 +44,7 @@
 * [2024-12-30, 13:37:39](https://news.ycombinator.com/item?id=42549145) - [Ask HN: What's Your Morning Routine?](https://news.ycombinator.com/item?id=42549145)
 * [2024-12-30, 13:35:46](https://news.ycombinator.com/item?id=42549123) - [How AI is unlocking ancient texts](https://www.nature.com/articles/d41586-024-04161-z)
 * [2024-12-30, 13:30:42](https://news.ycombinator.com/item?id=42549083) - [Ts_zip: Text Compression Using Large Language Models](https://bellard.org/ts_zip/)
+* [2024-12-30, 13:24:36](https://news.ycombinator.com/item?id=42549039) - [Most people don't care about quality](https://shkspr.mobi/blog/2024/12/most-people-dont-care-about-quality/)
 * [2024-12-30, 13:23:39](https://news.ycombinator.com/item?id=42549029) - [I got promoted to staff engineer twice](https://www.seangoedecke.com/staff-engineer-promotions/)
 * [2024-12-30, 12:59:14](https://news.ycombinator.com/item?id=42548914) - [The Long, Painful History of Time](https://naggum.no/lugm-time.html)
 * [2024-12-30, 12:37:47](https://news.ycombinator.com/item?id=42548763) - [Show HN: I built open source file sharing solution using AWS S3](https://s3-file-share-for-free-35n2u.kinsta.app/)

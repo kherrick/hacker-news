@@ -24,12 +24,12 @@
 * [2024-12-31, 07:20:19](https://news.ycombinator.com/item?id=42557098) - [An Unreasonable Amount of Time](https://allenpike.com/2024/an-unreasonable-amount-of-time)
 * [2024-12-31, 07:04:12](https://news.ycombinator.com/item?id=42557019) - [Performance (On an HP48GX Graphing Calculator)](http://masochistcoder.blogspot.com/2016/05/performance.html)
 * [2024-12-30, 13:35:46](https://news.ycombinator.com/item?id=42549123) - [How AI is unlocking ancient texts](https://www.nature.com/articles/d41586-024-04161-z)
+* [2024-12-30, 13:24:36](https://news.ycombinator.com/item?id=42549039) - [Most people don't care about quality](https://shkspr.mobi/blog/2024/12/most-people-dont-care-about-quality/)
 * [2024-12-30, 07:08:03](https://news.ycombinator.com/item?id=42547208) - [I made a tiny library for switches and sum types in Lua](https://github.com/alurm/lua-match)
 * [2024-12-29, 18:40:10](https://news.ycombinator.com/item?id=42541885) - [Unintuitive optimization for performing paths union](https://minus-ze.ro/posts/unintuitive-optimization-for-performing-paths-union/)
 * [2024-12-29, 17:51:01](https://news.ycombinator.com/item?id=42541508) - [Developing inside a virtual machine](https://blog.disintegrator.dev/posts/dev-virtual-machine/)
 * [2024-12-29, 16:11:16](https://news.ycombinator.com/item?id=42540792) - [What is a second?](https://www.johndcook.com/blog/2024/12/29/what-exactly-is-a-second/)
 * [2024-12-29, 13:43:18](https://news.ycombinator.com/item?id=42539883) - [For four years, I photographed, indexed and classified my entire house](https://www.katalog-barbaraiweins.com)
-* [2024-12-28, 16:13:54](https://news.ycombinator.com/item?id=42532014) - [I Reversed a Drone and Landed It with My PC](https://www.hardbreak.wiki/network-analysis/protocols/application-layer/proprietary-protocols/parrot-anafi-drone-reverse-engineering)
 
 ## [Archives](archives/index.md)
 
