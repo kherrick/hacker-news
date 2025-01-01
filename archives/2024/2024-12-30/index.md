@@ -51,6 +51,7 @@
 * [2024-12-30, 11:27:07](https://news.ycombinator.com/item?id=42548390) - [India's food shortage filled American libraries](https://www.bbc.com/news/articles/cevj80gld7do)
 * [2024-12-30, 11:21:25](https://news.ycombinator.com/item?id=42548359) - [Meta wants more access to your iPhone](https://techcrunch.com/2024/12/19/apple-and-meta-go-to-war-over-interoperability-vs-privacy/)
 * [2024-12-30, 10:50:55](https://news.ycombinator.com/item?id=42548215) - [Curl with Partial Files](https://daniel.haxx.se/blog/2024/12/30/curl-with-partial-files/)
+* [2024-12-30, 10:21:05](https://news.ycombinator.com/item?id=42548077) - [Nvidia bets on robotics to drive future growth](https://www.ft.com/content/7c3dafa8-ffb9-4ca8-b677-ab3cc2afbdcb)
 * [2024-12-30, 10:02:33](https://news.ycombinator.com/item?id=42548000) - [Limits to Growth (1972)](http://bit-player.org/extras/limits/)
 * [2024-12-30, 09:26:29](https://news.ycombinator.com/item?id=42547867) - [Reciprocal Approximation with 1 Subtraction](https://news.ycombinator.com/item?id=42547867)
 * [2024-12-30, 09:26:21](https://news.ycombinator.com/item?id=42547864) - [VW Group Collects Vehicle Movement Data](https://twitter.com/alex_avoigt/status/1873315392082334150)
