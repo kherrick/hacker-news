@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-01-01](index.md)
 
 * [2025-01-01, 21:18:29](https://news.ycombinator.com/item?id=42569390) - [SF Purity Test](https://www.sfpurity.com/)
+* [2025-01-01, 20:02:19](https://news.ycombinator.com/item?id=42568805) - [When the Lore Defeated the Law](https://davidallengreen.com/2025/01/how-the-lore-of-new-year-defeated-the-law-of-new-year-how-the-english-state-gave-up-on-insisting-the-new-year-started-on-25-march/)
+* [2025-01-01, 19:54:39](https://news.ycombinator.com/item?id=42568749) - [Show HN: GitHub-style screen time visualizer on iOS](https://apps.apple.com/us/app/clearspace-reduce-screen-time/id1572515807)
 * [2025-01-01, 19:25:32](https://news.ycombinator.com/item?id=42568516) - [Indexing Code at Scale with Glean](https://engineering.fb.com/2024/12/19/developer-tools/glean-open-source-code-indexing/)
 * [2025-01-01, 19:12:57](https://news.ycombinator.com/item?id=42568399) - [Terence Tao: One of my papers got declined today](https://mathstodon.xyz/@tao/113721192051328193)
 * [2025-01-01, 19:00:06](https://news.ycombinator.com/item?id=42568239) - [2025 Banished Words List](https://www.lssu.edu/lake-superior-state-university-unveils-2025-banished-words-list/)
@@ -34,6 +36,7 @@
 * [2025-01-01, 08:16:09](https://news.ycombinator.com/item?id=42564687) - [Books I Loved Reading in 2024](https://thoughts.wyounas.com/p/books-i-enjoyed-most-in-2024)
 * [2025-01-01, 07:01:08](https://news.ycombinator.com/item?id=42564439) - [Oliver Stone Documentary: The Untold History of the USA](https://watchdocumentaries.com/the-untold-history-of-the-united-states/)
 * [2025-01-01, 05:46:19](https://news.ycombinator.com/item?id=42564216) - [Ask HN: Does the Framework laptop stand the test of time?](https://news.ycombinator.com/item?id=42564216)
+* [2025-01-01, 05:20:49](https://news.ycombinator.com/item?id=42564144) - [Show HN: I made a screensaver that solves chess puzzles](https://screensaverchess.com)
 * [2025-01-01, 04:26:05](https://news.ycombinator.com/item?id=42563946) - [The psychonaut field manual [pdf]](http://thedaemon.space/files/ThePsychonautFieldManual.pdf)
 * [2025-01-01, 03:57:03](https://news.ycombinator.com/item?id=42563845) - [Cesium for Unreal – Bring the Real World to Unreal Engine](https://cesium.com/platform/cesium-for-unreal/)
 * [2025-01-01, 03:28:02](https://news.ycombinator.com/item?id=42563734) - [Finland Finds Anchor Drag Marks Left by Tanker That Broke Cables](https://gcaptain.com/finland-finds-anchor-drag-marks-left-by-tanker-that-broke-cables/)
