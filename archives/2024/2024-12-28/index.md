@@ -20,6 +20,7 @@
 * [2024-12-28, 20:04:20](https://news.ycombinator.com/item?id=42534100) - [The most stunning portrait that I have ever seen](https://www.bbc.com/news/articles/cvg7vwlg8rmo)
 * [2024-12-28, 20:03:28](https://news.ycombinator.com/item?id=42534090) - [Libero – A Programmer's Tool and Code Generator](https://imatix-legacy.github.io/libero/index.htm)
 * [2024-12-28, 19:54:04](https://news.ycombinator.com/item?id=42533988) - [From Pegasus to Predator – The Evolution of Commercial Spyware on iOS (Relive) [video]](https://media.ccc.de/v/38c3-from-pegasus-to-predator-the-evolution-of-commercial-spyware-on-ios)
+* [2024-12-28, 19:29:04](https://news.ycombinator.com/item?id=42533746) - [Direction of the Waves](https://kyndinfo.notion.site/Direction-of-the-waves-8d1da5a580614d01af8724c1e698a6e1)
 * [2024-12-28, 19:22:30](https://news.ycombinator.com/item?id=42533685) - [Apple Photos phones home on iOS 18 and macOS 15](https://lapcatsoftware.com/articles/2024/12/3.html)
 * [2024-12-28, 19:17:26](https://news.ycombinator.com/item?id=42533648) - [Ruby-refrigerator: Freeze all core Ruby classes](https://github.com/jeremyevans/ruby-refrigerator)
 * [2024-12-28, 19:07:06](https://news.ycombinator.com/item?id=42533557) - [Exploring Alternatives to UUIDv4; Enter ULIDs](https://jirevwe.github.io/exploring-alternatives-to-uuidv4-enter-ulids.html)

@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-01, 12:00:41](https://news.ycombinator.com/item?id=42565523) - [Keeper (YC S21) Is Hiring a Senior Fullstack Engineer](https://www.ycombinator.com/companies/keeper/jobs/fLwv59z-senior-fullstack-engineer)
-* [2025-01-01, 09:03:02](https://news.ycombinator.com/item?id=42564861) - [C \"clockwise/spiral\" rule to understand declarations](https://c-faq.com/decl/spiral.anderson.html)
 * [2025-01-01, 08:30:56](https://news.ycombinator.com/item?id=42564735) - [Hitting the Jackpot: The Birth of the Monte Carlo Method – LANL](https://www.lanl.gov/media/publications/actinide-research-quarterly/first-quarter-2023/hitting-the-jackpot-the-birth-of-the-monte-carlo-method)
 * [2025-01-01, 08:16:09](https://news.ycombinator.com/item?id=42564687) - [Books I Loved Reading in 2024](https://thoughts.wyounas.com/p/books-i-enjoyed-most-in-2024)
 * [2025-01-01, 03:57:03](https://news.ycombinator.com/item?id=42563845) - [Cesium for Unreal – Bring the Real World to Unreal Engine](https://cesium.com/platform/cesium-for-unreal/)
@@ -25,6 +24,7 @@
 * [2024-12-30, 09:21:15](https://news.ycombinator.com/item?id=42547835) - [ShredOS – Secure disk erasure/wipe](https://github.com/PartialVolume/shredos.x86_64)
 * [2024-12-30, 06:25:01](https://news.ycombinator.com/item?id=42547003) - [I keep turning my Google Sheets into phone-friendly webapps](https://arstechnica.com/gadgets/2024/12/making-tiny-no-code-webapps-out-of-spreadsheets-is-a-weirdly-fulfilling-hobby/)
 * [2024-12-28, 20:46:56](https://news.ycombinator.com/item?id=42534555) - [After a 24-second test of its engines, the New Glenn rocket is ready to fly](https://arstechnica.com/space/2024/12/blue-origin-hot-fires-new-glenn-rocket-setting-up-a-launch-early-next-year/)
+* [2024-12-28, 19:29:04](https://news.ycombinator.com/item?id=42533746) - [Direction of the Waves](https://kyndinfo.notion.site/Direction-of-the-waves-8d1da5a580614d01af8724c1e698a6e1)
 * [2024-12-28, 16:13:54](https://news.ycombinator.com/item?id=42532014) - [I Reversed a Drone and Landed It with My PC](https://www.hardbreak.wiki/network-analysis/protocols/application-layer/proprietary-protocols/parrot-anafi-drone-reverse-engineering)
 * [2024-12-28, 15:11:26](https://news.ycombinator.com/item?id=42531577) - [Celestial Phenomena in 16th-Century Germany](https://publicdomainreview.org/collection/celestial-phenomena-16th-century-germany/)
 * [2024-12-28, 14:24:35](https://news.ycombinator.com/item?id=42531237) - [3D-printed neighborhood nears completion in Texas](https://www.yahoo.com/news/worlds-largest-3d-printed-neighborhood-060654029.html)
