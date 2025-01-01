@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-01, 17:00:33](https://news.ycombinator.com/item?id=42567286) - [HyperDX (YC S22) is hiring engineers to build open source observability](https://www.ycombinator.com/companies/hyperdx/jobs)
+* [2025-01-01, 16:34:52](https://news.ycombinator.com/item?id=42567069) - [H5N1: Much More Than You Wanted to Know](https://www.astralcodexten.com/p/h5n1-much-more-than-you-wanted-to)
 * [2025-01-01, 16:00:08](https://news.ycombinator.com/item?id=42566803) - [OpenAI failed to deliver the opt-out tool it promised by 2025](https://techcrunch.com/2025/01/01/openai-failed-to-deliver-the-opt-out-tool-it-promised-by-2025/)
 * [2025-01-01, 14:27:39](https://news.ycombinator.com/item?id=42566192) - [Databases in 2024: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html)
 * [2025-01-01, 14:18:27](https://news.ycombinator.com/item?id=42566141) - [Ruby 3.4 Highlights](https://blog.sinjakli.co.uk/2025/01/01/ruby-3-4-highlights/)
@@ -7,7 +9,6 @@
 * [2025-01-01, 13:15:03](https://news.ycombinator.com/item?id=42565821) - [Show HN: API Parrot – Automatically Reverse Engineer HTTP APIs](https://apiparrot.com/)
 * [2025-01-01, 12:29:29](https://news.ycombinator.com/item?id=42565638) - [RT-2: Vision-Language-Action Models](https://robotics-transformer2.github.io/)
 * [2025-01-01, 12:21:18](https://news.ycombinator.com/item?id=42565606) - [30% Drop In o1-Preview Accuracy When Putnam Problems Are Slightly Variated](https://openreview.net/forum?id=YXnwlZe0yf&noteId=yrsGpHd0Sf)
-* [2025-01-01, 12:00:41](https://news.ycombinator.com/item?id=42565523) - [Keeper (YC S21) Is Hiring a Senior Fullstack Engineer](https://www.ycombinator.com/companies/keeper/jobs/fLwv59z-senior-fullstack-engineer)
 * [2025-01-01, 11:57:58](https://news.ycombinator.com/item?id=42565513) - [A. A. Milne's Winnie-the-Pooh as an accessible eBook](https://tilde.zone/@gluejar/113749300977151258)
 * [2025-01-01, 11:39:34](https://news.ycombinator.com/item?id=42565442) - [Should you do a newspaper workout?](https://elsbethvaino.com/2013/05/should-you-do-a-newspaper-workout/)
 * [2025-01-01, 08:30:56](https://news.ycombinator.com/item?id=42564735) - [Hitting the Jackpot: The Birth of the Monte Carlo Method – LANL (2023)](https://www.lanl.gov/media/publications/actinide-research-quarterly/first-quarter-2023/hitting-the-jackpot-the-birth-of-the-monte-carlo-method)
@@ -28,7 +29,6 @@
 * [2024-12-30, 11:07:07](https://news.ycombinator.com/item?id=42548282) - [Lucy: A concise language for describing Finite State Machines](https://pkg.spooky.click/lucylang/)
 * [2024-12-30, 10:21:05](https://news.ycombinator.com/item?id=42548077) - [Nvidia bets on robotics to drive future growth](https://www.ft.com/content/7c3dafa8-ffb9-4ca8-b677-ab3cc2afbdcb)
 * [2024-12-30, 09:21:15](https://news.ycombinator.com/item?id=42547835) - [ShredOS – Secure disk erasure/wipe](https://github.com/PartialVolume/shredos.x86_64)
-* [2024-12-28, 20:46:56](https://news.ycombinator.com/item?id=42534555) - [After a 24-second test of its engines, the New Glenn rocket is ready to fly](https://arstechnica.com/space/2024/12/blue-origin-hot-fires-new-glenn-rocket-setting-up-a-launch-early-next-year/)
 * [2024-12-28, 16:13:54](https://news.ycombinator.com/item?id=42532014) - [I Reversed a Drone and Landed It with My PC](https://www.hardbreak.wiki/network-analysis/protocols/application-layer/proprietary-protocols/parrot-anafi-drone-reverse-engineering)
 
 ## [Archives](archives/index.md)
