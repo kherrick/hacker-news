@@ -10,6 +10,7 @@
 * [2025-01-01, 14:12:15](https://news.ycombinator.com/item?id=42566112) - [DOOM CAPTCHA](https://doom-captcha.vercel.app/)
 * [2025-01-01, 13:15:03](https://news.ycombinator.com/item?id=42565821) - [Show HN: API Parrot – Automatically Reverse Engineer HTTP APIs](https://apiparrot.com/)
 * [2025-01-01, 13:06:32](https://news.ycombinator.com/item?id=42565781) - [How extreme car dependency is driving Americans to unhappiness](https://www.theguardian.com/us-news/2024/dec/29/extreme-car-dependency-unhappiness-americans)
+* [2025-01-01, 12:29:29](https://news.ycombinator.com/item?id=42565638) - [RT-2: Vision-Language-Action Models](https://robotics-transformer2.github.io/)
 * [2025-01-01, 12:21:18](https://news.ycombinator.com/item?id=42565606) - [30% Drop In o1-Preview Accuracy When Putnam Problems Are Slightly Variated](https://openreview.net/forum?id=YXnwlZe0yf&noteId=yrsGpHd0Sf)
 * [2025-01-01, 12:00:41](https://news.ycombinator.com/item?id=42565523) - [Keeper (YC S21) Is Hiring a Senior Fullstack Engineer](https://www.ycombinator.com/companies/keeper/jobs/fLwv59z-senior-fullstack-engineer)
 * [2025-01-01, 11:57:58](https://news.ycombinator.com/item?id=42565513) - [A. A. Milne's Winnie-the-Pooh as an accessible eBook](https://tilde.zone/@gluejar/113749300977151258)
