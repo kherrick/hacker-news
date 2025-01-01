@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-01](index.md)
 
+* [2025-01-01, 13:15:03](https://news.ycombinator.com/item?id=42565821) - [Show HN: API Parrot – Automatically Reverse Engineer HTTP APIs](https://apiparrot.com/)
 * [2025-01-01, 13:06:32](https://news.ycombinator.com/item?id=42565781) - [How extreme car dependency is driving Americans to unhappiness](https://www.theguardian.com/us-news/2024/dec/29/extreme-car-dependency-unhappiness-americans)
 * [2025-01-01, 12:21:18](https://news.ycombinator.com/item?id=42565606) - [30% Drop In o1-Preview Accuracy When Putnam Problems Are Slightly Variated](https://openreview.net/forum?id=YXnwlZe0yf&noteId=yrsGpHd0Sf)
 * [2025-01-01, 12:00:41](https://news.ycombinator.com/item?id=42565523) - [Keeper (YC S21) Is Hiring a Senior Fullstack Engineer](https://www.ycombinator.com/companies/keeper/jobs/fLwv59z-senior-fullstack-engineer)
