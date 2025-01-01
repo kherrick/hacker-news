@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-01-01, 21:18:29",
-      "https://news.ycombinator.com/item?id=42569390"
+      "2025-01-01, 20:02:19",
+      "https://news.ycombinator.com/item?id=42568805"
     ],
     [
-      "SF Purity Test",
-      "https://www.sfpurity.com/"
+      "When the Lore Defeated the Law",
+      "https://davidallengreen.com/2025/01/how-the-lore-of-new-year-defeated-the-law-of-new-year-how-the-english-state-gave-up-on-insisting-the-new-year-started-on-25-march/"
+    ]
+  ],
+  [
+    [
+      "2025-01-01, 19:54:39",
+      "https://news.ycombinator.com/item?id=42568749"
+    ],
+    [
+      "Show HN: GitHub-style screen time visualizer on iOS",
+      "https://apps.apple.com/us/app/clearspace-reduce-screen-time/id1572515807"
     ]
   ],
   [
@@ -27,16 +37,6 @@
     [
       "Terence Tao: One of my papers got declined today",
       "https://mathstodon.xyz/@tao/113721192051328193"
-    ]
-  ],
-  [
-    [
-      "2025-01-01, 19:00:06",
-      "https://news.ycombinator.com/item?id=42568239"
-    ],
-    [
-      "2025 Banished Words List",
-      "https://www.lssu.edu/lake-superior-state-university-unveils-2025-banished-words-list/"
     ]
   ],
   [
@@ -151,6 +151,26 @@
   ],
   [
     [
+      "2025-01-01, 05:20:49",
+      "https://news.ycombinator.com/item?id=42564144"
+    ],
+    [
+      "Show HN: I made a screensaver that solves chess puzzles",
+      "https://screensaverchess.com"
+    ]
+  ],
+  [
+    [
+      "2025-01-01, 03:57:03",
+      "https://news.ycombinator.com/item?id=42563845"
+    ],
+    [
+      "Cesium for Unreal – Bring the Real World to Unreal Engine",
+      "https://cesium.com/platform/cesium-for-unreal/"
+    ]
+  ],
+  [
+    [
       "2025-01-01, 02:38:22",
       "https://news.ycombinator.com/item?id=42563534"
     ],
@@ -177,46 +197,6 @@
     [
       "Happy New Year 2025",
       "https://news.ycombinator.com/item?id=42562750"
-    ]
-  ],
-  [
-    [
-      "2024-12-31, 23:03:30",
-      "https://news.ycombinator.com/item?id=42562529"
-    ],
-    [
-      "FBI: Largest homemade explosives cache in agency history found in Virginia",
-      "https://thehill.com/national-security/5061535-virginia-man-arrested-explosives/"
-    ]
-  ],
-  [
-    [
-      "2024-12-31, 20:47:12",
-      "https://news.ycombinator.com/item?id=42561711"
-    ],
-    [
-      "Arnis: Generate cities in Minecraft from OpenStreetMap",
-      "https://github.com/louis-e/arnis"
-    ]
-  ],
-  [
-    [
-      "2024-12-31, 18:11:06",
-      "https://news.ycombinator.com/item?id=42560558"
-    ],
-    [
-      "Things we learned about LLMs in 2024",
-      "https://simonwillison.net/2024/Dec/31/llms-in-2024/"
-    ]
-  ],
-  [
-    [
-      "2024-12-31, 16:52:21",
-      "https://news.ycombinator.com/item?id=42559909"
-    ],
-    [
-      "The GTA III port for the Dreamcast has been released",
-      "https://gitlab.com/skmp/dca3-game"
     ]
   ],
   [
@@ -277,6 +257,26 @@
     [
       "I made a tiny library for switches and sum types in Lua",
       "https://github.com/alurm/lua-match"
+    ]
+  ],
+  [
+    [
+      "2024-12-29, 18:40:10",
+      "https://news.ycombinator.com/item?id=42541885"
+    ],
+    [
+      "Unintuitive optimization for performing paths union",
+      "https://minus-ze.ro/posts/unintuitive-optimization-for-performing-paths-union/"
+    ]
+  ],
+  [
+    [
+      "2024-12-29, 17:51:01",
+      "https://news.ycombinator.com/item?id=42541508"
+    ],
+    [
+      "Developing inside a virtual machine",
+      "https://blog.disintegrator.dev/posts/dev-virtual-machine/"
     ]
   ],
   [
