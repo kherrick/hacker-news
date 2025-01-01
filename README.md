@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-01, 23:44:13](https://news.ycombinator.com/item?id=42570259) - [Signalens' SignalSDR Pro Is a Raspberry Pi-Like High-Performance SDR](https://www.hackster.io/news/signalens-signalsdr-pro-is-a-raspberry-pi-like-high-performance-software-defined-radio-33d06214b465)
 * [2025-01-01, 21:42:03](https://news.ycombinator.com/item?id=42569557) - [In Search of Types (2014) [pdf]](https://www.humprog.org/~stephen/papers/kell14in-author-version.pdf)
 * [2025-01-01, 20:58:04](https://news.ycombinator.com/item?id=42569236) - [Rails for Everything](https://literallythevoid.com/blog/rails_for_everything.html)
 * [2025-01-01, 20:39:53](https://news.ycombinator.com/item?id=42569109) - [My favourite computer ergonomics hack](https://blog.jacobvosmaer.nl/0036-beeper/)
@@ -25,7 +26,6 @@
 * [2024-12-31, 07:04:12](https://news.ycombinator.com/item?id=42557019) - [Performance (On an HP48GX Graphing Calculator)](http://masochistcoder.blogspot.com/2016/05/performance.html)
 * [2024-12-30, 13:35:46](https://news.ycombinator.com/item?id=42549123) - [How AI is unlocking ancient texts](https://www.nature.com/articles/d41586-024-04161-z)
 * [2024-12-30, 13:24:36](https://news.ycombinator.com/item?id=42549039) - [Most people don't care about quality](https://shkspr.mobi/blog/2024/12/most-people-dont-care-about-quality/)
-* [2024-12-30, 07:08:03](https://news.ycombinator.com/item?id=42547208) - [I made a tiny library for switches and sum types in Lua](https://github.com/alurm/lua-match)
 * [2024-12-29, 18:40:10](https://news.ycombinator.com/item?id=42541885) - [Unintuitive optimization for performing paths union](https://minus-ze.ro/posts/unintuitive-optimization-for-performing-paths-union/)
 * [2024-12-29, 17:51:01](https://news.ycombinator.com/item?id=42541508) - [Developing inside a virtual machine](https://blog.disintegrator.dev/posts/dev-virtual-machine/)
 * [2024-12-29, 16:11:16](https://news.ycombinator.com/item?id=42540792) - [What is a second?](https://www.johndcook.com/blog/2024/12/29/what-exactly-is-a-second/)

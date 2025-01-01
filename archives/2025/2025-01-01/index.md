@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-01](index.md)
 
+* [2025-01-01, 23:44:13](https://news.ycombinator.com/item?id=42570259) - [Signalens' SignalSDR Pro Is a Raspberry Pi-Like High-Performance SDR](https://www.hackster.io/news/signalens-signalsdr-pro-is-a-raspberry-pi-like-high-performance-software-defined-radio-33d06214b465)
 * [2025-01-01, 22:05:38](https://news.ycombinator.com/item?id=42569713) - [Privacy of Photos.app's Enhanced Visual Search](https://mjtsai.com/blog/2025/01/01/privacy-of-photos-apps-enhanced-visual-search/)
 * [2025-01-01, 21:42:03](https://news.ycombinator.com/item?id=42569557) - [In Search of Types (2014) [pdf]](https://www.humprog.org/~stephen/papers/kell14in-author-version.pdf)
 * [2025-01-01, 21:18:29](https://news.ycombinator.com/item?id=42569390) - [SF Purity Test](https://www.sfpurity.com/)
