@@ -32,6 +32,7 @@
 * [2024-12-31, 11:44:11](https://news.ycombinator.com/item?id=42558142) - [The British Empire Was Much Worse Than You Realize](https://www.newyorker.com/magazine/2022/04/04/the-british-empire-was-much-worse-than-you-realize-caroline-elkinss-legacy-of-violence)
 * [2024-12-31, 11:19:17](https://news.ycombinator.com/item?id=42558037) - [Darktable 5.0.0 Released](https://www.darktable.org/2024/12/darktable-5.0.0-released/)
 * [2024-12-31, 09:28:48](https://news.ycombinator.com/item?id=42557586) - [Interesting Interview with DeepSeek's CEO](https://www.chinatalk.media/p/deepseek-ceo-interview-with-chinas)
+* [2024-12-31, 08:42:22](https://news.ycombinator.com/item?id=42557410) - [Walter Isaacson: \"My So-Called Writing Life\"](https://lehnews.wordpress.com/2014/03/25/walter-isaacson-my-so-called-writing-life/)
 * [2024-12-31, 08:28:21](https://news.ycombinator.com/item?id=42557355) - [Bertrand Russell on Zionism [video]](https://www.youtube.com/watch?v=egfCTz-ZuZU)
 * [2024-12-31, 08:24:03](https://news.ycombinator.com/item?id=42557342) - [U.S. Army Soldier Arrested in AT&T, Verizon Extortions](https://krebsonsecurity.com/2024/12/u-s-army-soldier-arrested-in-att-verizon-extortions/)
 * [2024-12-31, 08:05:59](https://news.ycombinator.com/item?id=42557276) - [Dog Aging Project](https://dogagingproject.org/)
