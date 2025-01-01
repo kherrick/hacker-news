@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-01, 02:38:22",
+      "https://news.ycombinator.com/item?id=42563534"
+    ],
+    [
+      "Large Concept Models: Language modeling in a sentence representation space",
+      "https://github.com/facebookresearch/large_concept_model"
+    ]
+  ],
+  [
+    [
       "2025-01-01, 01:24:31",
       "https://news.ycombinator.com/item?id=42563212"
     ],
@@ -187,16 +197,6 @@
     [
       "More telcos confirm Salt Typhoon breaches as White House weighs in",
       "https://www.theregister.com/2024/12/30/att_verizon_confirm_salt_typhoon_breach/"
-    ]
-  ],
-  [
-    [
-      "2024-12-31, 00:54:43",
-      "https://news.ycombinator.com/item?id=42555320"
-    ],
-    [
-      "Coconut by Meta AI – Better LLM Reasoning with Chain of Continuous Thought?",
-      "https://aipapersacademy.com/chain-of-continuous-thought/"
     ]
   ],
   [
