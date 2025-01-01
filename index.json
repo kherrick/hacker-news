@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-01, 19:12:57",
+      "https://news.ycombinator.com/item?id=42568399"
+    ],
+    [
+      "Terence Tao: One of my papers got declined today",
+      "https://mathstodon.xyz/@tao/113721192051328193"
+    ]
+  ],
+  [
+    [
       "2025-01-01, 18:38:24",
       "https://news.ycombinator.com/item?id=42568056"
     ],
@@ -27,16 +37,6 @@
     [
       "Welcome to the Public Domain in 2025",
       "https://blog.archive.org/2025/01/01/welcome-to-the-public-domain-in-2025/"
-    ]
-  ],
-  [
-    [
-      "2025-01-01, 16:59:43",
-      "https://news.ycombinator.com/item?id=42567279"
-    ],
-    [
-      "Why does storing 2FA codes in your password manager make sense?",
-      "https://andygrunwald.com/blog/why-does-storing-two-factor-authentication-codes-in-your-password-manager-make-sense/"
     ]
   ],
   [
@@ -107,16 +107,6 @@
     [
       "A. A. Milne's Winnie-the-Pooh as an accessible eBook",
       "https://tilde.zone/@gluejar/113749300977151258"
-    ]
-  ],
-  [
-    [
-      "2025-01-01, 11:55:37",
-      "https://news.ycombinator.com/item?id=42565502"
-    ],
-    [
-      "You don't need Next.js – Why we migrated from Next to React",
-      "https://www.comfydeploy.com/blog/you-dont-need-nextjs"
     ]
   ],
   [
@@ -271,12 +261,22 @@
   ],
   [
     [
-      "2024-12-30, 09:21:15",
-      "https://news.ycombinator.com/item?id=42547835"
+      "2024-12-30, 11:49:03",
+      "https://news.ycombinator.com/item?id=42548480"
     ],
     [
-      "ShredOS – Secure disk erasure/wipe",
-      "https://github.com/PartialVolume/shredos.x86_64"
+      "Is there such a thing as \"private, interactive databases\" for SaaS's",
+      "https://news.ycombinator.com/item?id=42548480"
+    ]
+  ],
+  [
+    [
+      "2024-12-30, 11:07:07",
+      "https://news.ycombinator.com/item?id=42548282"
+    ],
+    [
+      "Lucy: A concise language for describing Finite State Machines",
+      "https://pkg.spooky.click/lucylang/"
     ]
   ],
   [
