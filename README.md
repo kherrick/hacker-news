@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-01, 05:46:19](https://news.ycombinator.com/item?id=42564216) - [Ask HN: Does the Framework laptop stand the test of time?](https://news.ycombinator.com/item?id=42564216)
 * [2025-01-01, 04:26:05](https://news.ycombinator.com/item?id=42563946) - [The psychonaut field manual [pdf]](http://thedaemon.space/files/ThePsychonautFieldManual.pdf)
 * [2025-01-01, 02:38:22](https://news.ycombinator.com/item?id=42563534) - [Large Concept Models: Language modeling in a sentence representation space](https://github.com/facebookresearch/large_concept_model)
 * [2025-01-01, 01:24:31](https://news.ycombinator.com/item?id=42563212) - [Signalling chaos: Inside the Elizabeth line's two-day breakdown](https://www.ianvisits.co.uk/articles/signalling-chaos-inside-the-elizabeth-lines-two-day-breakdown-78097/)
@@ -13,7 +14,6 @@
 * [2024-12-31, 20:47:12](https://news.ycombinator.com/item?id=42561711) - [Arnis: Generate cities in Minecraft from OpenStreetMap](https://github.com/louis-e/arnis)
 * [2024-12-31, 18:11:06](https://news.ycombinator.com/item?id=42560558) - [Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)
 * [2024-12-31, 17:38:12](https://news.ycombinator.com/item?id=42560284) - [Amiga Games Released in 2024 Index](https://www.lemonamiga.com/forum/viewtopic.php?t=19114)
-* [2024-12-31, 17:23:24](https://news.ycombinator.com/item?id=42560171) - [Dinner for One: British comedy Germans have been laughing at for years (2018)](https://www.theguardian.com/tv-and-radio/2018/dec/30/dinner-for-one-german-television-new-years-eve)
 * [2024-12-31, 16:52:21](https://news.ycombinator.com/item?id=42559909) - [The GTA III port for the Dreamcast has been released](https://gitlab.com/skmp/dca3-game)
 * [2024-12-31, 16:47:54](https://news.ycombinator.com/item?id=42559882) - [Systems ideas that sound good but almost never work](https://hardcoresoftware.learningbyshipping.com/p/225-systems-ideas-that-sound-good)
 * [2024-12-31, 14:58:55](https://news.ycombinator.com/item?id=42559052) - [Morris Chang and the Origins of TSMC](https://www.construction-physics.com/p/morris-chang-and-the-origins-of-tsmc)
@@ -24,10 +24,10 @@
 * [2024-12-30, 11:27:07](https://news.ycombinator.com/item?id=42548390) - [India's food shortage filled American libraries](https://www.bbc.com/news/articles/cevj80gld7do)
 * [2024-12-30, 10:21:05](https://news.ycombinator.com/item?id=42548077) - [Nvidia bets on robotics to drive future growth](https://www.ft.com/content/7c3dafa8-ffb9-4ca8-b677-ab3cc2afbdcb)
 * [2024-12-30, 06:25:01](https://news.ycombinator.com/item?id=42547003) - [I keep turning my Google Sheets into phone-friendly webapps](https://arstechnica.com/gadgets/2024/12/making-tiny-no-code-webapps-out-of-spreadsheets-is-a-weirdly-fulfilling-hobby/)
-* [2024-12-28, 20:46:56](https://news.ycombinator.com/item?id=42534555) - [After a 24-second test of its engines, the New Glenn rocket is ready to fly](https://arstechnica.com/space/2024/12/blue-origin-hot-fires-new-glenn-rocket-setting-up-a-launch-early-next-year/)
 * [2024-12-28, 18:06:40](https://news.ycombinator.com/item?id=42532979) - [Debugging memory corruption: who the hell writes \"2\" into my stack? (2016)](https://unity.com/blog/engine-platform/debugging-memory-debugging-memory-corruption-who-wrote-2-into-my-stack-who-the-hell)
 * [2024-12-28, 16:13:54](https://news.ycombinator.com/item?id=42532014) - [I Reversed a Drone and Landed It with My PC](https://www.hardbreak.wiki/network-analysis/protocols/application-layer/proprietary-protocols/parrot-anafi-drone-reverse-engineering)
 * [2024-12-28, 15:39:39](https://news.ycombinator.com/item?id=42531774) - [Lies. Damned Lies. P-value thresholds](https://www.newyorker.com/magazine/2019/09/09/what-statistics-can-and-cant-tell-us-about-ourselves)
+* [2024-12-28, 15:11:26](https://news.ycombinator.com/item?id=42531577) - [Celestial Phenomena in 16th-Century Germany](https://publicdomainreview.org/collection/celestial-phenomena-16th-century-germany/)
 * [2024-12-28, 12:08:07](https://news.ycombinator.com/item?id=42530459) - [Revisiting the NetBSD Build System](https://blogsystem5.substack.com/p/netbsd-build-system)
 * [2024-12-28, 10:09:28](https://news.ycombinator.com/item?id=42529894) - [Penrose Mazes (2020)](https://justinpombrio.net/archive/penrose-maze/)
 

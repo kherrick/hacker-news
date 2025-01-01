@@ -37,6 +37,7 @@
 * [2024-12-28, 15:39:39](https://news.ycombinator.com/item?id=42531774) - [Lies. Damned Lies. P-value thresholds](https://www.newyorker.com/magazine/2019/09/09/what-statistics-can-and-cant-tell-us-about-ourselves)
 * [2024-12-28, 15:35:06](https://news.ycombinator.com/item?id=42531748) - [Wishing Everyone a Happy Solsthelion](https://www.solipsys.co.uk/ZimExpt/Solsthelion.html)
 * [2024-12-28, 15:26:31](https://news.ycombinator.com/item?id=42531695) - [I Automated My Job Application Process](https://blog.daviddodda.com/how-i-automated-my-job-application-process-part-1)
+* [2024-12-28, 15:11:26](https://news.ycombinator.com/item?id=42531577) - [Celestial Phenomena in 16th-Century Germany](https://publicdomainreview.org/collection/celestial-phenomena-16th-century-germany/)
 * [2024-12-28, 14:24:35](https://news.ycombinator.com/item?id=42531237) - [3D-printed neighborhood nears completion in Texas](https://www.yahoo.com/news/worlds-largest-3d-printed-neighborhood-060654029.html)
 * [2024-12-28, 14:22:30](https://news.ycombinator.com/item?id=42531217) - [EmacsConf 2024 Notes](https://sachachua.com/blog/2024/12/emacsconf-2024-notes/)
 * [2024-12-28, 14:22:18](https://news.ycombinator.com/item?id=42531215) - [Experimenting with architectures for video games inspired by tabletop games](http://paulgestwicki.blogspot.com/2024/12/experimenting-with-software.html)
