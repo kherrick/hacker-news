@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-01-01](index.md)
 
 * [2025-01-01, 09:03:02](https://news.ycombinator.com/item?id=42564861) - [C \"clockwise/spiral\" rule to understand declarations](https://c-faq.com/decl/spiral.anderson.html)
+* [2025-01-01, 08:30:56](https://news.ycombinator.com/item?id=42564735) - [Hitting the Jackpot: The Birth of the Monte Carlo Method – LANL](https://www.lanl.gov/media/publications/actinide-research-quarterly/first-quarter-2023/hitting-the-jackpot-the-birth-of-the-monte-carlo-method)
+* [2025-01-01, 08:16:09](https://news.ycombinator.com/item?id=42564687) - [Books I Loved Reading in 2024](https://thoughts.wyounas.com/p/books-i-enjoyed-most-in-2024)
 * [2025-01-01, 07:01:08](https://news.ycombinator.com/item?id=42564439) - [Oliver Stone Documentary: The Untold History of the USA](https://watchdocumentaries.com/the-untold-history-of-the-united-states/)
 * [2025-01-01, 05:46:19](https://news.ycombinator.com/item?id=42564216) - [Ask HN: Does the Framework laptop stand the test of time?](https://news.ycombinator.com/item?id=42564216)
 * [2025-01-01, 04:26:05](https://news.ycombinator.com/item?id=42563946) - [The psychonaut field manual [pdf]](http://thedaemon.space/files/ThePsychonautFieldManual.pdf)
