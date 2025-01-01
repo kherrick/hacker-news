@@ -57,6 +57,7 @@
 * [2024-12-30, 10:02:33](https://news.ycombinator.com/item?id=42548000) - [Limits to Growth (1972)](http://bit-player.org/extras/limits/)
 * [2024-12-30, 09:26:29](https://news.ycombinator.com/item?id=42547867) - [Reciprocal Approximation with 1 Subtraction](https://news.ycombinator.com/item?id=42547867)
 * [2024-12-30, 09:26:21](https://news.ycombinator.com/item?id=42547864) - [VW Group Collects Vehicle Movement Data](https://twitter.com/alex_avoigt/status/1873315392082334150)
+* [2024-12-30, 09:21:15](https://news.ycombinator.com/item?id=42547835) - [ShredOS – Secure disk erasure/wipe](https://github.com/PartialVolume/shredos.x86_64)
 * [2024-12-30, 09:18:38](https://news.ycombinator.com/item?id=42547820) - [Curl-Impersonate](https://github.com/lexiforest/curl-impersonate)
 * [2024-12-30, 09:16:10](https://news.ycombinator.com/item?id=42547803) - [Was zombie-Bench just acquired?](https://news.ycombinator.com/item?id=42547803)
 * [2024-12-30, 08:38:38](https://news.ycombinator.com/item?id=42547610) - [MiceWine – run Windows applications and games on Android smartphones](https://github.com/KreitinnSoftware/MiceWine-Application)
