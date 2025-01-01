@@ -23,13 +23,13 @@
 * [2024-12-31, 09:28:48](https://news.ycombinator.com/item?id=42557586) - [Deepseek: The quiet giant leading China’s AI race](https://www.chinatalk.media/p/deepseek-ceo-interview-with-chinas)
 * [2024-12-31, 07:30:48](https://news.ycombinator.com/item?id=42557142) - [Electrical circuits encased in fluid may reshape data-center design](https://www.sandia.gov/labnews/2024/05/30/hpc-cooling/)
 * [2024-12-31, 07:20:19](https://news.ycombinator.com/item?id=42557098) - [An Unreasonable Amount of Time](https://allenpike.com/2024/an-unreasonable-amount-of-time)
+* [2024-12-30, 12:59:14](https://news.ycombinator.com/item?id=42548914) - [The Long, Painful History of Time](https://naggum.no/lugm-time.html)
 * [2024-12-30, 12:05:10](https://news.ycombinator.com/item?id=42548572) - [40+ JackOfManyTrades needs advice for job search](https://news.ycombinator.com/item?id=42548572)
 * [2024-12-30, 11:07:07](https://news.ycombinator.com/item?id=42548282) - [Lucy: A concise language for describing Finite State Machines](https://pkg.spooky.click/lucylang/)
 * [2024-12-30, 10:21:05](https://news.ycombinator.com/item?id=42548077) - [Nvidia bets on robotics to drive future growth](https://www.ft.com/content/7c3dafa8-ffb9-4ca8-b677-ab3cc2afbdcb)
 * [2024-12-30, 09:21:15](https://news.ycombinator.com/item?id=42547835) - [ShredOS – Secure disk erasure/wipe](https://github.com/PartialVolume/shredos.x86_64)
 * [2024-12-28, 20:46:56](https://news.ycombinator.com/item?id=42534555) - [After a 24-second test of its engines, the New Glenn rocket is ready to fly](https://arstechnica.com/space/2024/12/blue-origin-hot-fires-new-glenn-rocket-setting-up-a-launch-early-next-year/)
 * [2024-12-28, 16:13:54](https://news.ycombinator.com/item?id=42532014) - [I Reversed a Drone and Landed It with My PC](https://www.hardbreak.wiki/network-analysis/protocols/application-layer/proprietary-protocols/parrot-anafi-drone-reverse-engineering)
-* [2024-12-28, 14:24:35](https://news.ycombinator.com/item?id=42531237) - [3D-printed neighborhood nears completion in Texas](https://www.yahoo.com/news/worlds-largest-3d-printed-neighborhood-060654029.html)
 
 ## [Archives](archives/index.md)
 
