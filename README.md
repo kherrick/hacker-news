@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-01, 17:00:33](https://news.ycombinator.com/item?id=42567286) - [HyperDX (YC S22) is hiring engineers to build open source observability](https://www.ycombinator.com/companies/hyperdx/jobs)
+* [2025-01-01, 16:59:43](https://news.ycombinator.com/item?id=42567279) - [Why does storing 2FA codes in your password manager make sense?](https://andygrunwald.com/blog/why-does-storing-two-factor-authentication-codes-in-your-password-manager-make-sense/)
 * [2025-01-01, 16:34:52](https://news.ycombinator.com/item?id=42567069) - [H5N1: Much More Than You Wanted to Know](https://www.astralcodexten.com/p/h5n1-much-more-than-you-wanted-to)
 * [2025-01-01, 16:00:08](https://news.ycombinator.com/item?id=42566803) - [OpenAI failed to deliver the opt-out tool it promised by 2025](https://techcrunch.com/2025/01/01/openai-failed-to-deliver-the-opt-out-tool-it-promised-by-2025/)
 * [2025-01-01, 14:27:39](https://news.ycombinator.com/item?id=42566192) - [Databases in 2024: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html)
@@ -24,10 +25,9 @@
 * [2024-12-31, 16:52:21](https://news.ycombinator.com/item?id=42559909) - [The GTA III port for the Dreamcast has been released](https://gitlab.com/skmp/dca3-game)
 * [2024-12-31, 07:20:19](https://news.ycombinator.com/item?id=42557098) - [An Unreasonable Amount of Time](https://allenpike.com/2024/an-unreasonable-amount-of-time)
 * [2024-12-31, 07:04:12](https://news.ycombinator.com/item?id=42557019) - [Performance (On an HP48GX Graphing Calculator)](http://masochistcoder.blogspot.com/2016/05/performance.html)
-* [2024-12-30, 12:59:14](https://news.ycombinator.com/item?id=42548914) - [The Long, Painful History of Time](https://naggum.no/lugm-time.html)
+* [2024-12-30, 12:59:14](https://news.ycombinator.com/item?id=42548914) - [The Long, Painful History of Time (1999)](https://naggum.no/lugm-time.html)
 * [2024-12-30, 12:05:10](https://news.ycombinator.com/item?id=42548572) - [40+ JackOfManyTrades needs advice for job search](https://news.ycombinator.com/item?id=42548572)
 * [2024-12-30, 11:07:07](https://news.ycombinator.com/item?id=42548282) - [Lucy: A concise language for describing Finite State Machines](https://pkg.spooky.click/lucylang/)
-* [2024-12-30, 10:21:05](https://news.ycombinator.com/item?id=42548077) - [Nvidia bets on robotics to drive future growth](https://www.ft.com/content/7c3dafa8-ffb9-4ca8-b677-ab3cc2afbdcb)
 * [2024-12-30, 09:21:15](https://news.ycombinator.com/item?id=42547835) - [ShredOS – Secure disk erasure/wipe](https://github.com/PartialVolume/shredos.x86_64)
 * [2024-12-28, 16:13:54](https://news.ycombinator.com/item?id=42532014) - [I Reversed a Drone and Landed It with My PC](https://www.hardbreak.wiki/network-analysis/protocols/application-layer/proprietary-protocols/parrot-anafi-drone-reverse-engineering)
 
