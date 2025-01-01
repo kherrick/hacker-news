@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-12-31](index.md)
 
+* [2024-12-31, 23:49:26](https://news.ycombinator.com/item?id=42562758) - [Bench.co acquired after informing staff company was insolvent](https://www.bench.co/press-release)
 * [2024-12-31, 23:48:36](https://news.ycombinator.com/item?id=42562750) - [Happy New Year 2025 HN](https://news.ycombinator.com/item?id=42562750)
+* [2024-12-31, 23:47:56](https://news.ycombinator.com/item?id=42562743) - [Déjà vu: Ghostly CVEs in my terminal title](https://dgl.cx/2024/12/ghostty-terminal-title)
 * [2024-12-31, 23:03:30](https://news.ycombinator.com/item?id=42562529) - [FBI: Largest homemade explosives cache in agency history found in Virginia](https://thehill.com/national-security/5061535-virginia-man-arrested-explosives/)
 * [2024-12-31, 22:45:47](https://news.ycombinator.com/item?id=42562421) - [Show HN: Open-source user analytics](https://github.com/TirrenoTechnologies/tirreno)
 * [2024-12-31, 21:58:55](https://news.ycombinator.com/item?id=42562175) - [Building Game Prototypes with LÖVE](https://healeycodes.com/building-game-prototypes-with-love)
