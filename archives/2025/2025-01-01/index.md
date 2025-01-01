@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-01](index.md)
 
+* [2025-01-01, 15:58:26](https://news.ycombinator.com/item?id=42566784) - [Tesla replaces laid-off U.S. workers with foreigners using visas pushed by Musk](https://www.msn.com/en-ca/autos/electric-cars/tesla-replaces-laid-off-u-s-workers-with-foreigners-using-visas-pushed-by-musk-report/ar-AA1wILAQ)
 * [2025-01-01, 15:02:06](https://news.ycombinator.com/item?id=42566387) - [A Legendary Exposé of the Brutality of the Soviet Union](https://www.smithsonianmag.com/smart-news/discover-the-story-behind-a-legendary-expose-of-the-brutality-of-the-soviet-union-180985658/)
 * [2025-01-01, 14:27:39](https://news.ycombinator.com/item?id=42566192) - [Databases in 2024: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html)
 * [2025-01-01, 14:18:27](https://news.ycombinator.com/item?id=42566141) - [Ruby 3.4 Highlights](https://blog.sinjakli.co.uk/2025/01/01/ruby-3-4-highlights/)
@@ -14,6 +15,7 @@
 * [2025-01-01, 12:21:18](https://news.ycombinator.com/item?id=42565606) - [30% Drop In o1-Preview Accuracy When Putnam Problems Are Slightly Variated](https://openreview.net/forum?id=YXnwlZe0yf&noteId=yrsGpHd0Sf)
 * [2025-01-01, 12:00:41](https://news.ycombinator.com/item?id=42565523) - [Keeper (YC S21) Is Hiring a Senior Fullstack Engineer](https://www.ycombinator.com/companies/keeper/jobs/fLwv59z-senior-fullstack-engineer)
 * [2025-01-01, 11:57:58](https://news.ycombinator.com/item?id=42565513) - [A. A. Milne's Winnie-the-Pooh as an accessible eBook](https://tilde.zone/@gluejar/113749300977151258)
+* [2025-01-01, 11:55:37](https://news.ycombinator.com/item?id=42565502) - [You don't need Next.js – Why we migrated from Next to React](https://www.comfydeploy.com/blog/you-dont-need-nextjs)
 * [2025-01-01, 10:33:05](https://news.ycombinator.com/item?id=42565184) - [The Magic of Metalinguistic Programming](https://ericnormand.substack.com/p/the-magic-of-metalinguistic-programming)
 * [2025-01-01, 09:03:02](https://news.ycombinator.com/item?id=42564861) - [C \"clockwise/spiral\" rule to understand declarations](https://c-faq.com/decl/spiral.anderson.html)
 * [2025-01-01, 08:30:56](https://news.ycombinator.com/item?id=42564735) - [Hitting the Jackpot: The Birth of the Monte Carlo Method – LANL](https://www.lanl.gov/media/publications/actinide-research-quarterly/first-quarter-2023/hitting-the-jackpot-the-birth-of-the-monte-carlo-method)
