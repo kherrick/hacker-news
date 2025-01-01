@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-01, 22:05:38](https://news.ycombinator.com/item?id=42569713) - [Privacy of Photos.app's Enhanced Visual Search](https://mjtsai.com/blog/2025/01/01/privacy-of-photos-apps-enhanced-visual-search/)
 * [2025-01-01, 21:42:03](https://news.ycombinator.com/item?id=42569557) - [In Search of Types (2014) [pdf]](https://www.humprog.org/~stephen/papers/kell14in-author-version.pdf)
 * [2025-01-01, 20:39:53](https://news.ycombinator.com/item?id=42569109) - [My favourite computer ergonomics hack](https://blog.jacobvosmaer.nl/0036-beeper/)
 * [2025-01-01, 20:02:19](https://news.ycombinator.com/item?id=42568805) - [When the Lore Defeated the Law](https://davidallengreen.com/2025/01/how-the-lore-of-new-year-defeated-the-law-of-new-year-how-the-english-state-gave-up-on-insisting-the-new-year-started-on-25-march/)
@@ -24,6 +23,7 @@
 * [2024-12-31, 07:59:54](https://news.ycombinator.com/item?id=42557255) - [Software Design Is Knowledge Building](https://olano.dev/blog/software-design-is-knowledge-building/)
 * [2024-12-31, 07:20:19](https://news.ycombinator.com/item?id=42557098) - [An Unreasonable Amount of Time](https://allenpike.com/2024/an-unreasonable-amount-of-time)
 * [2024-12-31, 07:04:12](https://news.ycombinator.com/item?id=42557019) - [Performance (On an HP48GX Graphing Calculator)](http://masochistcoder.blogspot.com/2016/05/performance.html)
+* [2024-12-30, 13:35:46](https://news.ycombinator.com/item?id=42549123) - [How AI is unlocking ancient texts](https://www.nature.com/articles/d41586-024-04161-z)
 * [2024-12-30, 07:08:03](https://news.ycombinator.com/item?id=42547208) - [I made a tiny library for switches and sum types in Lua](https://github.com/alurm/lua-match)
 * [2024-12-29, 18:40:10](https://news.ycombinator.com/item?id=42541885) - [Unintuitive optimization for performing paths union](https://minus-ze.ro/posts/unintuitive-optimization-for-performing-paths-union/)
 * [2024-12-29, 17:51:01](https://news.ycombinator.com/item?id=42541508) - [Developing inside a virtual machine](https://blog.disintegrator.dev/posts/dev-virtual-machine/)

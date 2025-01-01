@@ -42,6 +42,7 @@
 * [2024-12-30, 13:44:14](https://news.ycombinator.com/item?id=42549184) - [Beyond BLE: Cracking Open the Black-Box of RF Microcontrollers [video]](https://media.ccc.de/v/38c3-beyond-ble-cracking-open-the-black-box-of-rf-microcontrollers)
 * [2024-12-30, 13:38:10](https://news.ycombinator.com/item?id=42549148) - [A simple way to explore data through a Tableau-like UI directly in your data app](https://github.com/panel-extensions/panel-graphic-walker)
 * [2024-12-30, 13:37:39](https://news.ycombinator.com/item?id=42549145) - [Ask HN: What's Your Morning Routine?](https://news.ycombinator.com/item?id=42549145)
+* [2024-12-30, 13:35:46](https://news.ycombinator.com/item?id=42549123) - [How AI is unlocking ancient texts](https://www.nature.com/articles/d41586-024-04161-z)
 * [2024-12-30, 13:30:42](https://news.ycombinator.com/item?id=42549083) - [Ts_zip: Text Compression Using Large Language Models](https://bellard.org/ts_zip/)
 * [2024-12-30, 13:23:39](https://news.ycombinator.com/item?id=42549029) - [I got promoted to staff engineer twice](https://www.seangoedecke.com/staff-engineer-promotions/)
 * [2024-12-30, 12:59:14](https://news.ycombinator.com/item?id=42548914) - [The Long, Painful History of Time](https://naggum.no/lugm-time.html)
