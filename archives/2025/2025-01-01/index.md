@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-01](index.md)
 
+* [2025-01-01, 21:42:03](https://news.ycombinator.com/item?id=42569557) - [In Search of Types (2014) [pdf]](https://www.humprog.org/~stephen/papers/kell14in-author-version.pdf)
 * [2025-01-01, 21:18:29](https://news.ycombinator.com/item?id=42569390) - [SF Purity Test](https://www.sfpurity.com/)
 * [2025-01-01, 20:02:19](https://news.ycombinator.com/item?id=42568805) - [When the Lore Defeated the Law](https://davidallengreen.com/2025/01/how-the-lore-of-new-year-defeated-the-law-of-new-year-how-the-english-state-gave-up-on-insisting-the-new-year-started-on-25-march/)
 * [2025-01-01, 19:54:39](https://news.ycombinator.com/item?id=42568749) - [Show HN: GitHub-style screen time visualizer on iOS](https://apps.apple.com/us/app/clearspace-reduce-screen-time/id1572515807)
