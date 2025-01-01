@@ -32,6 +32,7 @@
 * [2024-12-28, 16:10:24](https://news.ycombinator.com/item?id=42531993) - [Empirical Study of Test Generation with LLM's](https://arxiv.org/abs/2406.18181)
 * [2024-12-28, 15:55:46](https://news.ycombinator.com/item?id=42531874) - [The Unicon Programming Language](https://btiffin.users.sourceforge.net/up/unicon.html)
 * [2024-12-28, 15:48:02](https://news.ycombinator.com/item?id=42531830) - [Ask HN: Are you unable to find employment?](https://news.ycombinator.com/item?id=42531830)
+* [2024-12-28, 15:39:39](https://news.ycombinator.com/item?id=42531774) - [Lies. Damned Lies. P-value thresholds](https://www.newyorker.com/magazine/2019/09/09/what-statistics-can-and-cant-tell-us-about-ourselves)
 * [2024-12-28, 15:35:06](https://news.ycombinator.com/item?id=42531748) - [Wishing Everyone a Happy Solsthelion](https://www.solipsys.co.uk/ZimExpt/Solsthelion.html)
 * [2024-12-28, 15:26:31](https://news.ycombinator.com/item?id=42531695) - [I Automated My Job Application Process](https://blog.daviddodda.com/how-i-automated-my-job-application-process-part-1)
 * [2024-12-28, 14:24:35](https://news.ycombinator.com/item?id=42531237) - [3D-printed neighborhood nears completion in Texas](https://www.yahoo.com/news/worlds-largest-3d-printed-neighborhood-060654029.html)

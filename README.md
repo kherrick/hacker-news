@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-12-31, 23:03:30](https://news.ycombinator.com/item?id=42562529) - [FBI: Largest homemade explosives cache in agency history found in Virginia](https://thehill.com/national-security/5061535-virginia-man-arrested-explosives/)
+* [2025-01-01, 00:48:03](https://news.ycombinator.com/item?id=42563044) - [Apple Vision Pro May Now Be Out of Production](https://www.macrumors.com/2024/12/31/vision-pro-may-be-out-of-production/)
+* [2025-01-01, 00:08:03](https://news.ycombinator.com/item?id=42562847) - [Static search trees: faster than binary search](https://curiouscoding.nl/posts/static-search-tree/)
+* [2024-12-31, 23:48:36](https://news.ycombinator.com/item?id=42562750) - [Happy New Year 2025 HN](https://news.ycombinator.com/item?id=42562750)
 * [2024-12-31, 22:45:47](https://news.ycombinator.com/item?id=42562421) - [Show HN: Open-source security user analytics](https://github.com/TirrenoTechnologies/tirreno)
 * [2024-12-31, 21:58:55](https://news.ycombinator.com/item?id=42562175) - [Building Game Prototypes with LÖVE](https://healeycodes.com/building-game-prototypes-with-love)
-* [2024-12-31, 21:39:34](https://news.ycombinator.com/item?id=42562049) - [Identifying and Manipulating LLM Personality Traits via Activation Engineering](https://arxiv.org/abs/2412.10427)
 * [2024-12-31, 21:00:23](https://news.ycombinator.com/item?id=42561787) - [Just Words (YC W24) Is Hiring](https://www.ycombinator.com/companies/just-words/jobs/lwVZeEN-sr-software-engineer-frontend)
 * [2024-12-31, 20:47:12](https://news.ycombinator.com/item?id=42561711) - [Arnis: Generate cities in Minecraft from OpenStreetMap](https://github.com/louis-e/arnis)
 * [2024-12-31, 18:11:06](https://news.ycombinator.com/item?id=42560558) - [Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)
@@ -21,10 +22,9 @@
 * [2024-12-30, 21:51:33](https://news.ycombinator.com/item?id=42553949) - [I wrote a Game Boy Advance game in Zig](https://jonot.me/posts/zig-gba/)
 * [2024-12-30, 21:20:52](https://news.ycombinator.com/item?id=42553682) - [“A Course of Pure Mathematics” – G. H. Hardy (1921) [pdf]](https://www.gutenberg.org/files/38769/38769-pdf.pdf)
 * [2024-12-30, 14:37:17](https://news.ycombinator.com/item?id=42549624) - [AI companies cause most of traffic on forums](https://pod.geraspora.de/posts/17342163)
-* [2024-12-30, 09:26:29](https://news.ycombinator.com/item?id=42547867) - [Reciprocal Approximation with 1 Subtraction](https://news.ycombinator.com/item?id=42547867)
-* [2024-12-30, 06:40:05](https://news.ycombinator.com/item?id=42547086) - [Show HN: Onramp Can Compile Doom](https://ludocode.com/blog/onramp-can-compile-doom)
 * [2024-12-30, 06:25:01](https://news.ycombinator.com/item?id=42547003) - [I keep turning my Google Sheets into phone-friendly webapps](https://arstechnica.com/gadgets/2024/12/making-tiny-no-code-webapps-out-of-spreadsheets-is-a-weirdly-fulfilling-hobby/)
 * [2024-12-28, 18:06:40](https://news.ycombinator.com/item?id=42532979) - [Debugging memory corruption: who the hell writes \"2\" into my stack? (2016)](https://unity.com/blog/engine-platform/debugging-memory-debugging-memory-corruption-who-wrote-2-into-my-stack-who-the-hell)
+* [2024-12-28, 15:39:39](https://news.ycombinator.com/item?id=42531774) - [Lies. Damned Lies. P-value thresholds](https://www.newyorker.com/magazine/2019/09/09/what-statistics-can-and-cant-tell-us-about-ourselves)
 * [2024-12-28, 14:24:35](https://news.ycombinator.com/item?id=42531237) - [3D-printed neighborhood nears completion in Texas](https://www.yahoo.com/news/worlds-largest-3d-printed-neighborhood-060654029.html)
 * [2024-12-28, 12:08:07](https://news.ycombinator.com/item?id=42530459) - [Revisiting the NetBSD Build System](https://blogsystem5.substack.com/p/netbsd-build-system)
 * [2024-12-28, 10:32:36](https://news.ycombinator.com/item?id=42530018) - [Peephole optimizations: adding `opt_respond_to` to the Ruby VM, part 4](https://jpcamara.com/2024/12/27/peephole-optimizations-adding-optrespondto-to.html)
@@ -33,6 +33,7 @@
 
 ## [Archives](archives/index.md)
 
+* [2025](archives/2025/index.md)
 * [2024](archives/2024/index.md)
 * [2023](archives/2023/index.md)
 * [2022](archives/2022/index.md)
