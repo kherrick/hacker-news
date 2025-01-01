@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-01-01, 16:59:43",
+      "https://news.ycombinator.com/item?id=42567279"
+    ],
+    [
+      "Why does storing 2FA codes in your password manager make sense?",
+      "https://andygrunwald.com/blog/why-does-storing-two-factor-authentication-codes-in-your-password-manager-make-sense/"
+    ]
+  ],
+  [
+    [
       "2025-01-01, 16:34:52",
       "https://news.ycombinator.com/item?id=42567069"
     ],
@@ -245,7 +255,7 @@
       "https://news.ycombinator.com/item?id=42548914"
     ],
     [
-      "The Long, Painful History of Time",
+      "The Long, Painful History of Time (1999)",
       "https://naggum.no/lugm-time.html"
     ]
   ],
@@ -267,16 +277,6 @@
     [
       "Lucy: A concise language for describing Finite State Machines",
       "https://pkg.spooky.click/lucylang/"
-    ]
-  ],
-  [
-    [
-      "2024-12-30, 10:21:05",
-      "https://news.ycombinator.com/item?id=42548077"
-    ],
-    [
-      "Nvidia bets on robotics to drive future growth",
-      "https://www.ft.com/content/7c3dafa8-ffb9-4ca8-b677-ab3cc2afbdcb"
     ]
   ],
   [
