@@ -22,6 +22,7 @@
 * [2024-12-31, 09:28:48](https://news.ycombinator.com/item?id=42557586) - [Deepseek: The quiet giant leading China’s AI race](https://www.chinatalk.media/p/deepseek-ceo-interview-with-chinas)
 * [2024-12-31, 07:30:48](https://news.ycombinator.com/item?id=42557142) - [Electrical circuits encased in fluid may reshape data-center design](https://www.sandia.gov/labnews/2024/05/30/hpc-cooling/)
 * [2024-12-31, 07:20:19](https://news.ycombinator.com/item?id=42557098) - [An Unreasonable Amount of Time](https://allenpike.com/2024/an-unreasonable-amount-of-time)
+* [2024-12-30, 12:05:10](https://news.ycombinator.com/item?id=42548572) - [40+ JackOfManyTrades needs advice for job search](https://news.ycombinator.com/item?id=42548572)
 * [2024-12-30, 11:07:07](https://news.ycombinator.com/item?id=42548282) - [Lucy: A concise language for describing Finite State Machines](https://pkg.spooky.click/lucylang/)
 * [2024-12-30, 10:21:05](https://news.ycombinator.com/item?id=42548077) - [Nvidia bets on robotics to drive future growth](https://www.ft.com/content/7c3dafa8-ffb9-4ca8-b677-ab3cc2afbdcb)
 * [2024-12-30, 09:21:15](https://news.ycombinator.com/item?id=42547835) - [ShredOS – Secure disk erasure/wipe](https://github.com/PartialVolume/shredos.x86_64)
@@ -29,7 +30,6 @@
 * [2024-12-28, 16:13:54](https://news.ycombinator.com/item?id=42532014) - [I Reversed a Drone and Landed It with My PC](https://www.hardbreak.wiki/network-analysis/protocols/application-layer/proprietary-protocols/parrot-anafi-drone-reverse-engineering)
 * [2024-12-28, 14:24:35](https://news.ycombinator.com/item?id=42531237) - [3D-printed neighborhood nears completion in Texas](https://www.yahoo.com/news/worlds-largest-3d-printed-neighborhood-060654029.html)
 * [2024-12-28, 12:08:07](https://news.ycombinator.com/item?id=42530459) - [Revisiting the NetBSD Build System](https://blogsystem5.substack.com/p/netbsd-build-system)
-* [2024-12-28, 10:09:28](https://news.ycombinator.com/item?id=42529894) - [Penrose Mazes (2020)](https://justinpombrio.net/archive/penrose-maze/)
 
 ## [Archives](archives/index.md)
 

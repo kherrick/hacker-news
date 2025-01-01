@@ -48,6 +48,7 @@
 * [2024-12-30, 12:36:13](https://news.ycombinator.com/item?id=42548751) - [Journey from Entrepreneur to Employee](https://akshay.co/posts/entrepreneur-to-employee/)
 * [2024-12-30, 12:31:39](https://news.ycombinator.com/item?id=42548719) - [Passkey technology is elegant, but it's most definitely not usable security](https://arstechnica.com/security/2024/12/passkey-technology-is-elegant-but-its-most-definitely-not-usable-security/)
 * [2024-12-30, 12:18:10](https://news.ycombinator.com/item?id=42548641) - [What Is It Like To Be A Thermostat?](https://annakaharris.com/chalmers/)
+* [2024-12-30, 12:05:10](https://news.ycombinator.com/item?id=42548572) - [40+ JackOfManyTrades needs advice for job search](https://news.ycombinator.com/item?id=42548572)
 * [2024-12-30, 12:00:20](https://news.ycombinator.com/item?id=42548551) - [Pincites (YC S23) is hiring a founding engineer to build legal AI agents (Remote)](https://www.ycombinator.com/companies/pincites/jobs)
 * [2024-12-30, 11:27:07](https://news.ycombinator.com/item?id=42548390) - [India's food shortage filled American libraries](https://www.bbc.com/news/articles/cevj80gld7do)
 * [2024-12-30, 11:21:25](https://news.ycombinator.com/item?id=42548359) - [Meta wants more access to your iPhone](https://techcrunch.com/2024/12/19/apple-and-meta-go-to-war-over-interoperability-vs-privacy/)
