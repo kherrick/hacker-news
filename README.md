@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-01, 21:18:29](https://news.ycombinator.com/item?id=42569390) - [SF Purity Test](https://www.sfpurity.com/)
 * [2025-01-01, 19:25:32](https://news.ycombinator.com/item?id=42568516) - [Indexing Code at Scale with Glean](https://engineering.fb.com/2024/12/19/developer-tools/glean-open-source-code-indexing/)
 * [2025-01-01, 19:12:57](https://news.ycombinator.com/item?id=42568399) - [Terence Tao: One of my papers got declined today](https://mathstodon.xyz/@tao/113721192051328193)
 * [2025-01-01, 19:00:06](https://news.ycombinator.com/item?id=42568239) - [2025 Banished Words List](https://www.lssu.edu/lake-superior-state-university-unveils-2025-banished-words-list/)
@@ -14,7 +15,6 @@
 * [2025-01-01, 11:57:58](https://news.ycombinator.com/item?id=42565513) - [A. A. Milne's Winnie-the-Pooh as an accessible eBook](https://tilde.zone/@gluejar/113749300977151258)
 * [2025-01-01, 08:30:56](https://news.ycombinator.com/item?id=42564735) - [Hitting the Jackpot: The Birth of the Monte Carlo Method – LANL (2023)](https://www.lanl.gov/media/publications/actinide-research-quarterly/first-quarter-2023/hitting-the-jackpot-the-birth-of-the-monte-carlo-method)
 * [2025-01-01, 08:16:09](https://news.ycombinator.com/item?id=42564687) - [Books I Loved Reading in 2024](https://thoughts.wyounas.com/p/books-i-enjoyed-most-in-2024)
-* [2025-01-01, 03:57:03](https://news.ycombinator.com/item?id=42563845) - [Cesium for Unreal – Bring the Real World to Unreal Engine](https://cesium.com/platform/cesium-for-unreal/)
 * [2025-01-01, 02:38:22](https://news.ycombinator.com/item?id=42563534) - [Large Concept Models: Language modeling in a sentence representation space](https://github.com/facebookresearch/large_concept_model)
 * [2025-01-01, 00:08:03](https://news.ycombinator.com/item?id=42562847) - [Static search trees: faster than binary search](https://curiouscoding.nl/posts/static-search-tree/)
 * [2024-12-31, 23:48:36](https://news.ycombinator.com/item?id=42562750) - [Happy New Year 2025](https://news.ycombinator.com/item?id=42562750)
