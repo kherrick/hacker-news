@@ -27,8 +27,8 @@
 * [2024-12-31, 07:20:19](https://news.ycombinator.com/item?id=42557098) - [An Unreasonable Amount of Time](https://allenpike.com/2024/an-unreasonable-amount-of-time)
 * [2024-12-31, 07:04:12](https://news.ycombinator.com/item?id=42557019) - [Performance (On an HP48GX Graphing Calculator)](http://masochistcoder.blogspot.com/2016/05/performance.html)
 * [2024-12-30, 11:49:03](https://news.ycombinator.com/item?id=42548480) - [Is there such a thing as \"private, interactive databases\" for SaaS's](https://news.ycombinator.com/item?id=42548480)
-* [2024-12-30, 11:07:07](https://news.ycombinator.com/item?id=42548282) - [Lucy: A concise language for describing Finite State Machines](https://pkg.spooky.click/lucylang/)
 * [2024-12-30, 07:08:03](https://news.ycombinator.com/item?id=42547208) - [I made a tiny library for switches and sum types in Lua](https://github.com/alurm/lua-match)
+* [2024-12-29, 13:43:18](https://news.ycombinator.com/item?id=42539883) - [For four years, I photographed, indexed and classified my entire house](https://www.katalog-barbaraiweins.com)
 * [2024-12-28, 16:13:54](https://news.ycombinator.com/item?id=42532014) - [I Reversed a Drone and Landed It with My PC](https://www.hardbreak.wiki/network-analysis/protocols/application-layer/proprietary-protocols/parrot-anafi-drone-reverse-engineering)
 
 ## [Archives](archives/index.md)
