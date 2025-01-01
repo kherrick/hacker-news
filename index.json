@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-12-31, 23:03:30",
-      "https://news.ycombinator.com/item?id=42562529"
+      "2025-01-01, 00:48:03",
+      "https://news.ycombinator.com/item?id=42563044"
     ],
     [
-      "FBI: Largest homemade explosives cache in agency history found in Virginia",
-      "https://thehill.com/national-security/5061535-virginia-man-arrested-explosives/"
+      "Apple Vision Pro May Now Be Out of Production",
+      "https://www.macrumors.com/2024/12/31/vision-pro-may-be-out-of-production/"
+    ]
+  ],
+  [
+    [
+      "2025-01-01, 00:08:03",
+      "https://news.ycombinator.com/item?id=42562847"
+    ],
+    [
+      "Static search trees: faster than binary search",
+      "https://curiouscoding.nl/posts/static-search-tree/"
+    ]
+  ],
+  [
+    [
+      "2024-12-31, 23:48:36",
+      "https://news.ycombinator.com/item?id=42562750"
+    ],
+    [
+      "Happy New Year 2025 HN",
+      "https://news.ycombinator.com/item?id=42562750"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "Building Game Prototypes with LÖVE",
       "https://healeycodes.com/building-game-prototypes-with-love"
-    ]
-  ],
-  [
-    [
-      "2024-12-31, 21:39:34",
-      "https://news.ycombinator.com/item?id=42562049"
-    ],
-    [
-      "Identifying and Manipulating LLM Personality Traits via Activation Engineering",
-      "https://arxiv.org/abs/2412.10427"
     ]
   ],
   [
@@ -211,26 +221,6 @@
   ],
   [
     [
-      "2024-12-30, 09:26:29",
-      "https://news.ycombinator.com/item?id=42547867"
-    ],
-    [
-      "Reciprocal Approximation with 1 Subtraction",
-      "https://news.ycombinator.com/item?id=42547867"
-    ]
-  ],
-  [
-    [
-      "2024-12-30, 06:40:05",
-      "https://news.ycombinator.com/item?id=42547086"
-    ],
-    [
-      "Show HN: Onramp Can Compile Doom",
-      "https://ludocode.com/blog/onramp-can-compile-doom"
-    ]
-  ],
-  [
-    [
       "2024-12-30, 06:25:01",
       "https://news.ycombinator.com/item?id=42547003"
     ],
@@ -247,6 +237,16 @@
     [
       "Debugging memory corruption: who the hell writes \"2\" into my stack? (2016)",
       "https://unity.com/blog/engine-platform/debugging-memory-debugging-memory-corruption-who-wrote-2-into-my-stack-who-the-hell"
+    ]
+  ],
+  [
+    [
+      "2024-12-28, 15:39:39",
+      "https://news.ycombinator.com/item?id=42531774"
+    ],
+    [
+      "Lies. Damned Lies. P-value thresholds",
+      "https://www.newyorker.com/magazine/2019/09/09/what-statistics-can-and-cant-tell-us-about-ourselves"
     ]
   ],
   [
