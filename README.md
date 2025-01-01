@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-01, 19:12:57](https://news.ycombinator.com/item?id=42568399) - [Terence Tao: One of my papers got declined today](https://mathstodon.xyz/@tao/113721192051328193)
+* [2025-01-01, 19:00:06](https://news.ycombinator.com/item?id=42568239) - [2025 Banished Words List](https://www.lssu.edu/lake-superior-state-university-unveils-2025-banished-words-list/)
 * [2025-01-01, 18:38:24](https://news.ycombinator.com/item?id=42568056) - [How and Why I Stopped Buying New Laptops (2020)](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops)
 * [2025-01-01, 17:00:33](https://news.ycombinator.com/item?id=42567286) - [HyperDX (YC S22) is hiring engineers to build open source observability](https://www.ycombinator.com/companies/hyperdx/jobs)
 * [2025-01-01, 16:59:51](https://news.ycombinator.com/item?id=42567280) - [Welcome to the Public Domain in 2025](https://blog.archive.org/2025/01/01/welcome-to-the-public-domain-in-2025/)
@@ -26,7 +27,6 @@
 * [2024-12-31, 07:59:54](https://news.ycombinator.com/item?id=42557255) - [Software Design Is Knowledge Building](https://olano.dev/blog/software-design-is-knowledge-building/)
 * [2024-12-31, 07:20:19](https://news.ycombinator.com/item?id=42557098) - [An Unreasonable Amount of Time](https://allenpike.com/2024/an-unreasonable-amount-of-time)
 * [2024-12-31, 07:04:12](https://news.ycombinator.com/item?id=42557019) - [Performance (On an HP48GX Graphing Calculator)](http://masochistcoder.blogspot.com/2016/05/performance.html)
-* [2024-12-30, 11:49:03](https://news.ycombinator.com/item?id=42548480) - [Is there such a thing as \"private, interactive databases\" for SaaS's](https://news.ycombinator.com/item?id=42548480)
 * [2024-12-30, 07:08:03](https://news.ycombinator.com/item?id=42547208) - [I made a tiny library for switches and sum types in Lua](https://github.com/alurm/lua-match)
 * [2024-12-29, 13:43:18](https://news.ycombinator.com/item?id=42539883) - [For four years, I photographed, indexed and classified my entire house](https://www.katalog-barbaraiweins.com)
 * [2024-12-28, 16:13:54](https://news.ycombinator.com/item?id=42532014) - [I Reversed a Drone and Landed It with My PC](https://www.hardbreak.wiki/network-analysis/protocols/application-layer/proprietary-protocols/parrot-anafi-drone-reverse-engineering)
