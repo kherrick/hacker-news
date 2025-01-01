@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2025-01-01, 11:55:37",
+      "https://news.ycombinator.com/item?id=42565502"
+    ],
+    [
+      "You don't need Next.js – Why we migrated from Next to React",
+      "https://www.comfydeploy.com/blog/you-dont-need-nextjs"
+    ]
+  ],
+  [
+    [
       "2025-01-01, 11:39:34",
       "https://news.ycombinator.com/item?id=42565442"
     ],
@@ -261,32 +271,22 @@
   ],
   [
     [
-      "2024-12-30, 12:05:10",
-      "https://news.ycombinator.com/item?id=42548572"
-    ],
-    [
-      "40+ JackOfManyTrades needs advice for job search",
-      "https://news.ycombinator.com/item?id=42548572"
-    ]
-  ],
-  [
-    [
-      "2024-12-30, 11:07:07",
-      "https://news.ycombinator.com/item?id=42548282"
-    ],
-    [
-      "Lucy: A concise language for describing Finite State Machines",
-      "https://pkg.spooky.click/lucylang/"
-    ]
-  ],
-  [
-    [
       "2024-12-30, 09:21:15",
       "https://news.ycombinator.com/item?id=42547835"
     ],
     [
       "ShredOS – Secure disk erasure/wipe",
       "https://github.com/PartialVolume/shredos.x86_64"
+    ]
+  ],
+  [
+    [
+      "2024-12-30, 07:08:03",
+      "https://news.ycombinator.com/item?id=42547208"
+    ],
+    [
+      "I made a tiny library for switches and sum types in Lua",
+      "https://github.com/alurm/lua-match"
     ]
   ],
   [
