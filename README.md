@@ -2,7 +2,6 @@
 
 * [2025-01-01, 05:46:19](https://news.ycombinator.com/item?id=42564216) - [Ask HN: Does the Framework laptop stand the test of time?](https://news.ycombinator.com/item?id=42564216)
 * [2025-01-01, 04:26:05](https://news.ycombinator.com/item?id=42563946) - [The psychonaut field manual [pdf]](http://thedaemon.space/files/ThePsychonautFieldManual.pdf)
-* [2025-01-01, 03:57:03](https://news.ycombinator.com/item?id=42563845) - [Cesium for Unreal – Bring the Real World to Unreal Engine](https://cesium.com/platform/cesium-for-unreal/)
 * [2025-01-01, 02:38:22](https://news.ycombinator.com/item?id=42563534) - [Large Concept Models: Language modeling in a sentence representation space](https://github.com/facebookresearch/large_concept_model)
 * [2025-01-01, 01:24:31](https://news.ycombinator.com/item?id=42563212) - [Signalling chaos: Inside the Elizabeth line's two-day breakdown](https://www.ianvisits.co.uk/articles/signalling-chaos-inside-the-elizabeth-lines-two-day-breakdown-78097/)
 * [2025-01-01, 00:08:03](https://news.ycombinator.com/item?id=42562847) - [Static search trees: faster than binary search](https://curiouscoding.nl/posts/static-search-tree/)
@@ -22,6 +21,7 @@
 * [2024-12-31, 07:20:19](https://news.ycombinator.com/item?id=42557098) - [An Unreasonable Amount of Time](https://allenpike.com/2024/an-unreasonable-amount-of-time)
 * [2024-12-31, 01:52:06](https://news.ycombinator.com/item?id=42555594) - [More telcos confirm Salt Typhoon breaches as White House weighs in](https://www.theregister.com/2024/12/30/att_verizon_confirm_salt_typhoon_breach/)
 * [2024-12-30, 11:27:07](https://news.ycombinator.com/item?id=42548390) - [India's food shortage filled American libraries](https://www.bbc.com/news/articles/cevj80gld7do)
+* [2024-12-30, 11:07:07](https://news.ycombinator.com/item?id=42548282) - [Lucy: A concise language for describing Finite State Machines](https://pkg.spooky.click/lucylang/)
 * [2024-12-30, 10:21:05](https://news.ycombinator.com/item?id=42548077) - [Nvidia bets on robotics to drive future growth](https://www.ft.com/content/7c3dafa8-ffb9-4ca8-b677-ab3cc2afbdcb)
 * [2024-12-30, 06:25:01](https://news.ycombinator.com/item?id=42547003) - [I keep turning my Google Sheets into phone-friendly webapps](https://arstechnica.com/gadgets/2024/12/making-tiny-no-code-webapps-out-of-spreadsheets-is-a-weirdly-fulfilling-hobby/)
 * [2024-12-28, 18:06:40](https://news.ycombinator.com/item?id=42532979) - [Debugging memory corruption: who the hell writes \"2\" into my stack? (2016)](https://unity.com/blog/engine-platform/debugging-memory-debugging-memory-corruption-who-wrote-2-into-my-stack-who-the-hell)
