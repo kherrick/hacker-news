@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-01](index.md)
 
+* [2025-01-01, 07:01:08](https://news.ycombinator.com/item?id=42564439) - [Oliver Stone Documentary: The Untold History of the USA](https://watchdocumentaries.com/the-untold-history-of-the-united-states/)
 * [2025-01-01, 05:46:19](https://news.ycombinator.com/item?id=42564216) - [Ask HN: Does the Framework laptop stand the test of time?](https://news.ycombinator.com/item?id=42564216)
 * [2025-01-01, 04:26:05](https://news.ycombinator.com/item?id=42563946) - [The psychonaut field manual [pdf]](http://thedaemon.space/files/ThePsychonautFieldManual.pdf)
 * [2025-01-01, 03:57:03](https://news.ycombinator.com/item?id=42563845) - [Cesium for Unreal – Bring the Real World to Unreal Engine](https://cesium.com/platform/cesium-for-unreal/)

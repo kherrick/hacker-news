@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-01, 07:01:08](https://news.ycombinator.com/item?id=42564439) - [Oliver Stone Documentary: The Untold History of the USA](https://watchdocumentaries.com/the-untold-history-of-the-united-states/)
 * [2025-01-01, 05:46:19](https://news.ycombinator.com/item?id=42564216) - [Ask HN: Does the Framework laptop stand the test of time?](https://news.ycombinator.com/item?id=42564216)
 * [2025-01-01, 04:26:05](https://news.ycombinator.com/item?id=42563946) - [The psychonaut field manual [pdf]](http://thedaemon.space/files/ThePsychonautFieldManual.pdf)
 * [2025-01-01, 02:38:22](https://news.ycombinator.com/item?id=42563534) - [Large Concept Models: Language modeling in a sentence representation space](https://github.com/facebookresearch/large_concept_model)
@@ -13,7 +14,6 @@
 * [2024-12-31, 21:00:23](https://news.ycombinator.com/item?id=42561787) - [Just Words (YC W24) Is Hiring](https://www.ycombinator.com/companies/just-words/jobs/lwVZeEN-sr-software-engineer-frontend)
 * [2024-12-31, 20:47:12](https://news.ycombinator.com/item?id=42561711) - [Arnis: Generate cities in Minecraft from OpenStreetMap](https://github.com/louis-e/arnis)
 * [2024-12-31, 18:11:06](https://news.ycombinator.com/item?id=42560558) - [Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)
-* [2024-12-31, 17:38:12](https://news.ycombinator.com/item?id=42560284) - [Amiga Games Released in 2024 Index](https://www.lemonamiga.com/forum/viewtopic.php?t=19114)
 * [2024-12-31, 16:52:21](https://news.ycombinator.com/item?id=42559909) - [The GTA III port for the Dreamcast has been released](https://gitlab.com/skmp/dca3-game)
 * [2024-12-31, 16:47:54](https://news.ycombinator.com/item?id=42559882) - [Systems ideas that sound good but almost never work](https://hardcoresoftware.learningbyshipping.com/p/225-systems-ideas-that-sound-good)
 * [2024-12-31, 14:58:55](https://news.ycombinator.com/item?id=42559052) - [Morris Chang and the Origins of TSMC](https://www.construction-physics.com/p/morris-chang-and-the-origins-of-tsmc)
