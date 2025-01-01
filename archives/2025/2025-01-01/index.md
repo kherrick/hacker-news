@@ -16,6 +16,7 @@
 * [2025-01-01, 12:00:41](https://news.ycombinator.com/item?id=42565523) - [Keeper (YC S21) Is Hiring a Senior Fullstack Engineer](https://www.ycombinator.com/companies/keeper/jobs/fLwv59z-senior-fullstack-engineer)
 * [2025-01-01, 11:57:58](https://news.ycombinator.com/item?id=42565513) - [A. A. Milne's Winnie-the-Pooh as an accessible eBook](https://tilde.zone/@gluejar/113749300977151258)
 * [2025-01-01, 11:55:37](https://news.ycombinator.com/item?id=42565502) - [You don't need Next.js – Why we migrated from Next to React](https://www.comfydeploy.com/blog/you-dont-need-nextjs)
+* [2025-01-01, 11:39:34](https://news.ycombinator.com/item?id=42565442) - [Should you do a newspaper workout?](https://elsbethvaino.com/2013/05/should-you-do-a-newspaper-workout/)
 * [2025-01-01, 10:33:05](https://news.ycombinator.com/item?id=42565184) - [The Magic of Metalinguistic Programming](https://ericnormand.substack.com/p/the-magic-of-metalinguistic-programming)
 * [2025-01-01, 09:03:02](https://news.ycombinator.com/item?id=42564861) - [C \"clockwise/spiral\" rule to understand declarations](https://c-faq.com/decl/spiral.anderson.html)
 * [2025-01-01, 08:30:56](https://news.ycombinator.com/item?id=42564735) - [Hitting the Jackpot: The Birth of the Monte Carlo Method – LANL](https://www.lanl.gov/media/publications/actinide-research-quarterly/first-quarter-2023/hitting-the-jackpot-the-birth-of-the-monte-carlo-method)
