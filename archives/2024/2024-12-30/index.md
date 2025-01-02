@@ -83,6 +83,7 @@
 * [2024-12-30, 06:25:01](https://news.ycombinator.com/item?id=42547003) - [I keep turning my Google Sheets into phone-friendly webapps, and I can't stop](https://arstechnica.com/gadgets/2024/12/making-tiny-no-code-webapps-out-of-spreadsheets-is-a-weirdly-fulfilling-hobby/)
 * [2024-12-30, 06:06:35](https://news.ycombinator.com/item?id=42546918) - [Single cigarette takes 20 minutes off life expectancy, study finds](https://www.theguardian.com/society/2024/dec/30/single-cigarette-takes-20-minutes-off-life-expectancy-study)
 * [2024-12-30, 03:47:29](https://news.ycombinator.com/item?id=42546259) - [Category Theory Illustrated](https://abuseofnotation.github.io/category-theory-illustrated/)
+* [2024-12-30, 03:45:14](https://news.ycombinator.com/item?id=42546246) - [Optimizing Ruby's JSON, Part 4](https://byroot.github.io/ruby/json/2024/12/29/optimizing-ruby-json-part-4.html)
 * [2024-12-30, 03:39:42](https://news.ycombinator.com/item?id=42546216) - [Pegasus to Predator – The evolution of Commercial Spyware on iOS [video]](https://media.ccc.de/v/38c3-from-pegasus-to-predator-the-evolution-of-commercial-spyware-on-ios)
 * [2024-12-30, 02:55:58](https://news.ycombinator.com/item?id=42545986) - [KAG – Knowledge Graph RAG Framework](https://github.com/OpenSPG/KAG)
 * [2024-12-30, 02:34:37](https://news.ycombinator.com/item?id=42545875) - ['ruthlessly imaginative' 1925 predictions for the future come true – mostly](https://www.theguardian.com/science/2024/dec/29/scientist-archibald-low-ruthlessly-imaginative-1925-predictions-for-the-future-come-true)

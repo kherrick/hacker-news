@@ -6,7 +6,6 @@
 * [2025-01-02, 19:20:50](https://news.ycombinator.com/item?id=42577736) - [Advent of Code 2024 in pure SQL](http://databasearchitects.blogspot.com/2024/12/advent-of-code-2024-in-pure-sql.html)
 * [2025-01-02, 19:13:23](https://news.ycombinator.com/item?id=42577661) - [Go Upgrade Checklist](https://hakann.substack.com/p/go-upgrade-checklist)
 * [2025-01-02, 18:47:45](https://news.ycombinator.com/item?id=42577387) - [Building a Knowledge System That Enhances Rather Than Replaces Thought](https://nsavage.substack.com/p/beyond-rag-building-a-knowledge-management)
-* [2025-01-02, 18:35:57](https://news.ycombinator.com/item?id=42577272) - [PlasticList's Advice for Food Companies](https://twitter.com/natfriedman/status/1874884925587087434)
 * [2025-01-02, 18:19:48](https://news.ycombinator.com/item?id=42577076) - [Tell HN: Impassable Cloudflare challenges are ruining my browsing experience](https://news.ycombinator.com/item?id=42577076)
 * [2025-01-02, 17:54:19](https://news.ycombinator.com/item?id=42576755) - [TinyStories: How Small Can Language Models Be and Still Speak Coherent English? (2023)](https://arxiv.org/abs/2305.07759)
 * [2025-01-02, 17:27:28](https://news.ycombinator.com/item?id=42576443) - [UBlockOrigin GPL code being stolen by team behind Honey browser extension](https://old.reddit.com/r/uBlockOrigin/comments/1hr6xjc/ubo_quick_filters_list_being_stolen_by_team/)
@@ -29,6 +28,7 @@
 * [2024-12-30, 22:43:29](https://news.ycombinator.com/item?id=42554371) - [Linux Context Switching Internals: Process State and Memory](https://blog.codingconfessions.com/p/linux-context-switching-internals)
 * [2024-12-30, 16:23:04](https://news.ycombinator.com/item?id=42550703) - [The smallest Hello World program](https://blog.lohr.dev/smol-hello-world)
 * [2024-12-30, 10:50:55](https://news.ycombinator.com/item?id=42548215) - [Curl with Partial Files](https://daniel.haxx.se/blog/2024/12/30/curl-with-partial-files/)
+* [2024-12-30, 03:45:14](https://news.ycombinator.com/item?id=42546246) - [Optimizing Ruby's JSON, Part 4](https://byroot.github.io/ruby/json/2024/12/29/optimizing-ruby-json-part-4.html)
 * [2024-12-29, 14:30:48](https://news.ycombinator.com/item?id=42540182) - [4.5M Suspected Fake Stars in GitHub](https://arxiv.org/abs/2412.13459)
 
 ## [Archives](archives/index.md)
