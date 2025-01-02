@@ -46,6 +46,7 @@
 * [2024-12-29, 09:48:33](https://news.ycombinator.com/item?id=42538914) - [We've not been trained for this: life after the Newag DRM disclosure [video]](https://media.ccc.de/v/38c3-we-ve-not-been-trained-for-this-life-after-the-newag-drm-disclosure)
 * [2024-12-29, 09:47:59](https://news.ycombinator.com/item?id=42538906) - [Breaking NATO Radio Encryption [video]](https://media.ccc.de/v/38c3-breaking-nato-radio-encryption)
 * [2024-12-29, 09:47:09](https://news.ycombinator.com/item?id=42538903) - [BioTerrorism Will Save Your Life with the 4 Thieves Vinegar Collective [video]](https://media.ccc.de/v/38c3-bioterrorism-will-save-your-life-with-the-4-thieves-vinegar-collective)
+* [2024-12-29, 08:24:27](https://news.ycombinator.com/item?id=42538519) - [The Invisible Tsunami Kids](https://robertvanwey.substack.com/p/the-invisible-tsunami-kids)
 * [2024-12-29, 08:23:16](https://news.ycombinator.com/item?id=42538515) - [Family of Deceased OpenAI Whistleblower Disputes Suicide Ruling](https://twitter.com/RaoPoornima/status/1873282982150324393)
 * [2024-12-29, 08:09:18](https://news.ycombinator.com/item?id=42538458) - [SQLite3: No Room for Drama](https://calmlog.medium.com/sqlite3-no-room-for-drama-ceea8a84426e)
 * [2024-12-29, 07:47:13](https://news.ycombinator.com/item?id=42538384) - [Is It Possible to Improve Memory or Are We Doomed to Forget as We Age? (2023)](https://www.nzherald.co.nz/viva/life/is-it-possible-to-improve-our-memories-or-are-we-doomed-to-forget-as-we-age/HW6QBYRSSRBCZB646GEQET2LTY/)
