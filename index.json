@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-02, 17:59:44",
+      "https://news.ycombinator.com/item?id=42576817"
+    ],
+    [
+      "Morgan Stanley Follows Citi, BofA in Quitting Climate Group",
+      "https://www.bloomberg.com/news/articles/2025-01-02/morgan-stanley-leaves-net-zero-alliance-for-banks"
+    ]
+  ],
+  [
+    [
+      "2025-01-02, 17:54:19",
+      "https://news.ycombinator.com/item?id=42576755"
+    ],
+    [
+      "TinyStories: How Small Can Language Models Be and Still Speak Coherent English?",
+      "https://arxiv.org/abs/2305.07759"
+    ]
+  ],
+  [
+    [
       "2025-01-02, 17:46:39",
       "https://news.ycombinator.com/item?id=42576647"
     ],
@@ -17,6 +37,16 @@
     [
       "UBlockOrigin GPL code being stolen by team behind Honey browser extension",
       "https://old.reddit.com/r/uBlockOrigin/comments/1hr6xjc/ubo_quick_filters_list_being_stolen_by_team/"
+    ]
+  ],
+  [
+    [
+      "2025-01-02, 17:08:38",
+      "https://news.ycombinator.com/item?id=42576242"
+    ],
+    [
+      "XiangShan – open-source high performance RISC-V processor",
+      "https://github.com/OpenXiangShan/XiangShan"
     ]
   ],
   [
@@ -67,6 +97,16 @@
     [
       "Show HN: connet – A P2P reverse proxy with NAT traversal",
       "https://github.com/connet-dev/connet"
+    ]
+  ],
+  [
+    [
+      "2025-01-02, 16:10:08",
+      "https://news.ycombinator.com/item?id=42575648"
+    ],
+    [
+      "Show HN: I built an AI calendar to help you get stuff done – feedback wanted",
+      "https://running4-m.github.io/Ai-Calendar/description.html"
     ]
   ],
   [
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2025-01-02, 08:37:43",
-      "https://news.ycombinator.com/item?id=42572770"
-    ],
-    [
-      "Emulating the FMAdd Instruction, Part 1: 32-bit Floats",
-      "https://drilian.com/posts/2025.01.01-emulating-the-fmadd-instruction-part-1-32-bit-floats/"
-    ]
-  ],
-  [
-    [
       "2025-01-02, 08:08:15",
       "https://news.ycombinator.com/item?id=42572662"
     ],
@@ -177,16 +207,6 @@
     [
       "Meta Wants More AI Bots on Facebook and Instagram",
       "https://nymag.com/intelligencer/article/meta-wants-more-ai-bots-on-facebook-and-instagram.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-02, 04:08:45",
-      "https://news.ycombinator.com/item?id=42571541"
-    ],
-    [
-      "Bogus Software",
-      "https://minesweepergame.com/history/bogus-software.php"
     ]
   ],
   [
@@ -231,26 +251,6 @@
   ],
   [
     [
-      "2025-01-01, 13:15:03",
-      "https://news.ycombinator.com/item?id=42565821"
-    ],
-    [
-      "Show HN: API Parrot – Automatically Reverse Engineer HTTP APIs",
-      "https://apiparrot.com/"
-    ]
-  ],
-  [
-    [
-      "2024-12-31, 07:59:54",
-      "https://news.ycombinator.com/item?id=42557255"
-    ],
-    [
-      "Software Design Is Knowledge Building",
-      "https://olano.dev/blog/software-design-is-knowledge-building/"
-    ]
-  ],
-  [
-    [
       "2024-12-30, 22:43:29",
       "https://news.ycombinator.com/item?id=42554371"
     ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=42541193"
     ],
     [
-      "Populism and the World of Oz",
+      "Populism and the World of Oz (2016)",
       "https://americanhistory.si.edu/explore/stories/populism-and-world-oz"
     ]
   ],
