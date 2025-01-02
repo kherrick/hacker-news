@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-02](index.md)
 
+* [2025-01-02, 17:46:39](https://news.ycombinator.com/item?id=42576647) - [Ask HN: Share your \"LLM screwed us over\" stories?](https://news.ycombinator.com/item?id=42576647)
 * [2025-01-02, 17:31:36](https://news.ycombinator.com/item?id=42576481) - [Tesla Cybertruck sales are disastrous](https://electrek.co/2025/01/02/tesla-cybertruck-sales-are-disastrous/)
 * [2025-01-02, 17:27:28](https://news.ycombinator.com/item?id=42576443) - [UBlockOrigin GPL code being stolen by team behind Honey browser extension](https://old.reddit.com/r/uBlockOrigin/comments/1hr6xjc/ubo_quick_filters_list_being_stolen_by_team/)
 * [2025-01-02, 17:00:24](https://news.ycombinator.com/item?id=42576163) - [Distro (YC S24) Is Hiring a Business Development Representative (BDR)](https://www.ycombinator.com/companies/distro/jobs/FFzY0sx-business-development-representative)
