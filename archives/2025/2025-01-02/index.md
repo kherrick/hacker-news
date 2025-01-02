@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-01-02](index.md)
 
+* [2025-01-02, 09:46:37](https://news.ycombinator.com/item?id=42573088) - [The biggest AI flops of 2024](https://www.technologyreview.com/2024/12/31/1109612/biggest-worst-ai-artificial-intelligence-flops-fails-2024/)
 * [2025-01-02, 08:37:43](https://news.ycombinator.com/item?id=42572770) - [Emulating the FMAdd Instruction, Part 1: 32-bit Floats](https://drilian.com/posts/2025.01.01-emulating-the-fmadd-instruction-part-1-32-bit-floats/)
 * [2025-01-02, 08:08:15](https://news.ycombinator.com/item?id=42572662) - [MitmProxy2Swagger: Automagically reverse-engineer REST APIs](https://github.com/alufers/mitmproxy2swagger)
+* [2025-01-02, 07:54:28](https://news.ycombinator.com/item?id=42572602) - [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 * [2025-01-02, 07:46:52](https://news.ycombinator.com/item?id=42572573) - [Standard Ebooks Public Domain Day 2025 in Literature](https://standardebooks.org/blog/public-domain-day-2025)
 * [2025-01-02, 07:33:39](https://news.ycombinator.com/item?id=42572515) - [Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/)
 * [2025-01-02, 07:28:53](https://news.ycombinator.com/item?id=42572498) - [Cloud Efficiency at Netflix](https://netflixtechblog.com/cloud-efficiency-at-netflix-f2a142955f83)
