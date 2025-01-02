@@ -19,6 +19,7 @@
 * [2024-12-29, 20:15:32](https://news.ycombinator.com/item?id=42542661) - [Board game from Mexican prisons brings together people from all walks of life](https://apnews.com/article/mexico-prison-game-poleana-0f97564967c44dfd8a4df5bdb2aa036b)
 * [2024-12-29, 20:04:02](https://news.ycombinator.com/item?id=42542576) - [Where are Mr. Beast's early sponsors now?](https://www.preethamrn.com/posts/where-are-mrbeast-sponsors-now)
 * [2024-12-29, 19:57:58](https://news.ycombinator.com/item?id=42542516) - [Short-Term Rentals Are Hollowing Out Communities with Loose Restrictions](https://nextcity.org/urbanist-news/short-term-rentals-are-hollowing-out-communities-with-loose-restrictions)
+* [2024-12-29, 19:46:29](https://news.ycombinator.com/item?id=42542420) - [Visualizing memory layout of Rust's data types](https://www.youtube.com/watch?v=7_o-YRxf_cc)
 * [2024-12-29, 19:44:09](https://news.ycombinator.com/item?id=42542401) - [You Deserve a Tech Union – Together, we can build a better tech industry. (book)](https://abookapart.com/products/you-deserve-a-tech-union)
 * [2024-12-29, 19:40:37](https://news.ycombinator.com/item?id=42542376) - [Intolerable Genius: Berkeley's Most Controversial Nobel Laureate](https://alumni.berkeley.edu/california-magazine/winter-2019/intolerable-genius-berkeleys-most-controversial-nobel-laureate/)
 * [2024-12-29, 19:30:02](https://news.ycombinator.com/item?id=42542280) - [The Zombocom Problem](https://newsletter.squishy.computer/p/the-zombocom-problem)
