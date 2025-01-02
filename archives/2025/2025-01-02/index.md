@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-01-02](index.md)
 
+* [2025-01-02, 17:00:24](https://news.ycombinator.com/item?id=42576163) - [Distro (YC S24) Is Hiring a Business Development Representative (BDR)](https://www.ycombinator.com/companies/distro/jobs/FFzY0sx-business-development-representative)
+* [2025-01-02, 16:43:14](https://news.ycombinator.com/item?id=42576001) - [Palestinian Authority Suspends Al Jazeera TV in West Bank, Citing Incitement](https://www.bbc.com/news/articles/cvgmxzyrmn8o)
+* [2025-01-02, 16:42:06](https://news.ycombinator.com/item?id=42575990) - [Diagnosing an Unusual WiFi Issue](https://ryuuta.net/blog/diagnosing-an-unsual-wifi-issue/)
 * [2025-01-02, 16:32:20](https://news.ycombinator.com/item?id=42575900) - [Postgres UUIDv7 and per-back end monotonicity](https://brandur.org/fragments/uuid-v7-monotonicity)
+* [2025-01-02, 16:30:25](https://news.ycombinator.com/item?id=42575882) - [Notes on the New Deepseek v3](https://composio.dev/blog/notes-on-new-deepseek-v3/)
+* [2025-01-02, 16:00:09](https://news.ycombinator.com/item?id=42575535) - [Ask HN: Who wants to be hired? (January 2025)](https://news.ycombinator.com/item?id=42575535)
 * [2025-01-02, 15:22:08](https://news.ycombinator.com/item?id=42575189) - [HTML_slice: Enable Ruby classes the ability to generate reusable pieces of HTML](https://github.com/henrique-ft/html_slice)
 * [2025-01-02, 15:19:10](https://news.ycombinator.com/item?id=42575159) - [The Accidental Invention of the Snow Globe (2024)](https://www.smithsonianmag.com/innovation/how-an-experiment-to-amplify-light-in-hospital-operating-rooms-led-to-the-accidental-invention-of-the-snow-globe-180985742/)
 * [2025-01-02, 15:19:05](https://news.ycombinator.com/item?id=42575155) - [A Private Life – Nikolai Tolstoy Remembers Patrick O'Brian](https://www.unseenhistories.com/tolstoy-patrick-o-brian)
