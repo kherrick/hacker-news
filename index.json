@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-01-02, 08:08:15",
+      "https://news.ycombinator.com/item?id=42572662"
+    ],
+    [
+      "MitmProxy2Swagger: Automagically reverse-engineer REST APIs",
+      "https://github.com/alufers/mitmproxy2swagger"
+    ]
+  ],
+  [
+    [
+      "2025-01-02, 07:46:52",
+      "https://news.ycombinator.com/item?id=42572573"
+    ],
+    [
+      "Standard Ebooks Public Domain Day 2025 in Literature",
+      "https://standardebooks.org/blog/public-domain-day-2025"
+    ]
+  ],
+  [
+    [
+      "2025-01-02, 07:33:39",
+      "https://news.ycombinator.com/item?id=42572515"
+    ],
+    [
+      "Dropbox Engineering Career Framework",
+      "https://dropbox.github.io/dbx-career-framework/"
+    ]
+  ],
+  [
+    [
+      "2025-01-02, 07:28:53",
+      "https://news.ycombinator.com/item?id=42572498"
+    ],
+    [
+      "Cloud Efficiency at Netflix",
+      "https://netflixtechblog.com/cloud-efficiency-at-netflix-f2a142955f83"
+    ]
+  ],
+  [
+    [
       "2025-01-02, 05:55:20",
       "https://news.ycombinator.com/item?id=42572057"
     ],
@@ -131,26 +171,6 @@
   ],
   [
     [
-      "2025-01-01, 20:02:19",
-      "https://news.ycombinator.com/item?id=42568805"
-    ],
-    [
-      "How the lore of New Year defeated the law of New Year",
-      "https://davidallengreen.com/2025/01/how-the-lore-of-new-year-defeated-the-law-of-new-year-how-the-english-state-gave-up-on-insisting-the-new-year-started-on-25-march/"
-    ]
-  ],
-  [
-    [
-      "2025-01-01, 19:25:32",
-      "https://news.ycombinator.com/item?id=42568516"
-    ],
-    [
-      "Indexing Code at Scale with Glean",
-      "https://engineering.fb.com/2024/12/19/developer-tools/glean-open-source-code-indexing/"
-    ]
-  ],
-  [
-    [
       "2025-01-01, 19:12:57",
       "https://news.ycombinator.com/item?id=42568399"
     ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2025-01-01, 08:16:09",
-      "https://news.ycombinator.com/item?id=42564687"
-    ],
-    [
-      "Books I Loved Reading in 2024",
-      "https://thoughts.wyounas.com/p/books-i-enjoyed-most-in-2024"
-    ]
-  ],
-  [
-    [
       "2024-12-31, 07:59:54",
       "https://news.ycombinator.com/item?id=42557255"
     ],
     [
       "Software Design Is Knowledge Building",
       "https://olano.dev/blog/software-design-is-knowledge-building/"
-    ]
-  ],
-  [
-    [
-      "2024-12-31, 07:20:19",
-      "https://news.ycombinator.com/item?id=42557098"
-    ],
-    [
-      "An Unreasonable Amount of Time",
-      "https://allenpike.com/2024/an-unreasonable-amount-of-time"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2024-12-29, 17:51:01",
-      "https://news.ycombinator.com/item?id=42541508"
-    ],
-    [
-      "Developing inside a virtual machine",
-      "https://blog.disintegrator.dev/posts/dev-virtual-machine/"
-    ]
-  ],
-  [
-    [
       "2024-12-29, 15:12:20",
       "https://news.ycombinator.com/item?id=42540397"
     ],
@@ -297,6 +287,16 @@
     [
       "ASCII porn predates the Internet but it's still everywhere (2019)",
       "https://www.vice.com/en/article/ascii-pr0n-porn-predates-the-internet-but-its-still-everywhere-rule-34/"
+    ]
+  ],
+  [
+    [
+      "2024-12-29, 10:07:56",
+      "https://news.ycombinator.com/item?id=42538990"
+    ],
+    [
+      "Building Apollo",
+      "https://www.construction-physics.com/p/building-apollo"
     ]
   ]
 ]
