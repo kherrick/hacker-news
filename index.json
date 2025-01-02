@@ -1,12 +1,62 @@
 [
   [
     [
+      "2025-01-02, 17:00:24",
+      "https://news.ycombinator.com/item?id=42576163"
+    ],
+    [
+      "Distro (YC S24) Is Hiring a Business Development Representative (BDR)",
+      "https://www.ycombinator.com/companies/distro/jobs/FFzY0sx-business-development-representative"
+    ]
+  ],
+  [
+    [
+      "2025-01-02, 16:43:14",
+      "https://news.ycombinator.com/item?id=42576001"
+    ],
+    [
+      "Palestinian Authority Suspends Al Jazeera TV in West Bank, Citing Incitement",
+      "https://www.bbc.com/news/articles/cvgmxzyrmn8o"
+    ]
+  ],
+  [
+    [
+      "2025-01-02, 16:42:06",
+      "https://news.ycombinator.com/item?id=42575990"
+    ],
+    [
+      "Diagnosing an Unusual WiFi Issue",
+      "https://ryuuta.net/blog/diagnosing-an-unsual-wifi-issue/"
+    ]
+  ],
+  [
+    [
       "2025-01-02, 16:32:20",
       "https://news.ycombinator.com/item?id=42575900"
     ],
     [
       "Postgres UUIDv7 and per-back end monotonicity",
       "https://brandur.org/fragments/uuid-v7-monotonicity"
+    ]
+  ],
+  [
+    [
+      "2025-01-02, 16:30:25",
+      "https://news.ycombinator.com/item?id=42575882"
+    ],
+    [
+      "Notes on the New Deepseek v3",
+      "https://composio.dev/blog/notes-on-new-deepseek-v3/"
+    ]
+  ],
+  [
+    [
+      "2025-01-02, 16:00:09",
+      "https://news.ycombinator.com/item?id=42575535"
+    ],
+    [
+      "Ask HN: Who wants to be hired? (January 2025)",
+      "https://news.ycombinator.com/item?id=42575535"
     ]
   ],
   [
@@ -121,16 +171,6 @@
   ],
   [
     [
-      "2025-01-02, 03:32:57",
-      "https://news.ycombinator.com/item?id=42571367"
-    ],
-    [
-      "Blogs rot. Wikis wait",
-      "https://j3s.sh/thought/blogs-rot-wikis-wait.html"
-    ]
-  ],
-  [
-    [
       "2025-01-02, 03:13:32",
       "https://news.ycombinator.com/item?id=42571272"
     ],
@@ -167,26 +207,6 @@
     [
       "My favourite computer ergonomics hack",
       "https://blog.jacobvosmaer.nl/0036-beeper/"
-    ]
-  ],
-  [
-    [
-      "2025-01-01, 20:02:19",
-      "https://news.ycombinator.com/item?id=42568805"
-    ],
-    [
-      "How the lore of New Year defeated the law of New Year",
-      "https://davidallengreen.com/2025/01/how-the-lore-of-new-year-defeated-the-law-of-new-year-how-the-english-state-gave-up-on-insisting-the-new-year-started-on-25-march/"
-    ]
-  ],
-  [
-    [
-      "2025-01-01, 19:25:32",
-      "https://news.ycombinator.com/item?id=42568516"
-    ],
-    [
-      "Indexing Code at Scale with Glean",
-      "https://engineering.fb.com/2024/12/19/developer-tools/glean-open-source-code-indexing/"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2024-12-30, 13:38:02",
-      "https://news.ycombinator.com/item?id=42549147"
-    ],
-    [
-      "The Cognitive Style of PowerPoint (2006) [pdf]",
-      "https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf"
-    ]
-  ],
-  [
-    [
       "2024-12-30, 13:35:46",
       "https://news.ycombinator.com/item?id=42549123"
     ],
@@ -267,16 +277,6 @@
     [
       "Most people don't care about quality",
       "https://shkspr.mobi/blog/2024/12/most-people-dont-care-about-quality/"
-    ]
-  ],
-  [
-    [
-      "2024-12-29, 17:51:01",
-      "https://news.ycombinator.com/item?id=42541508"
-    ],
-    [
-      "Developing inside a virtual machine",
-      "https://blog.disintegrator.dev/posts/dev-virtual-machine/"
     ]
   ],
   [
