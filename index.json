@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-02, 08:37:43",
+      "https://news.ycombinator.com/item?id=42572770"
+    ],
+    [
+      "Emulating the FMAdd Instruction, Part 1: 32-bit Floats",
+      "https://drilian.com/posts/2025.01.01-emulating-the-fmadd-instruction-part-1-32-bit-floats/"
+    ]
+  ],
+  [
+    [
       "2025-01-02, 08:08:15",
       "https://news.ycombinator.com/item?id=42572662"
     ],
@@ -237,16 +247,6 @@
     [
       "How AI is unlocking ancient texts",
       "https://www.nature.com/articles/d41586-024-04161-z"
-    ]
-  ],
-  [
-    [
-      "2024-12-29, 17:51:01",
-      "https://news.ycombinator.com/item?id=42541508"
-    ],
-    [
-      "Developing inside a virtual machine",
-      "https://blog.disintegrator.dev/posts/dev-virtual-machine/"
     ]
   ],
   [
