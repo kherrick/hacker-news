@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-01-02, 17:27:28",
+      "https://news.ycombinator.com/item?id=42576443"
+    ],
+    [
+      "UBlockOrigin GPL code being stolen by team behind Honey browser extension",
+      "https://old.reddit.com/r/uBlockOrigin/comments/1hr6xjc/ubo_quick_filters_list_being_stolen_by_team/"
+    ]
+  ],
+  [
+    [
       "2025-01-02, 17:00:24",
       "https://news.ycombinator.com/item?id=42576163"
     ],
     [
       "Distro (YC S24) Is Hiring a Business Development Representative (BDR)",
       "https://www.ycombinator.com/companies/distro/jobs/FFzY0sx-business-development-representative"
+    ]
+  ],
+  [
+    [
+      "2025-01-02, 16:52:58",
+      "https://news.ycombinator.com/item?id=42576090"
+    ],
+    [
+      "The Dogs of (Urban) War: Lessons from the IDFs' Specialized Canine Unit",
+      "https://mwi.westpoint.edu/the-dogs-of-urban-war-lessons-from-oketz-the-israel-defense-forces-specialized-canine-unit/"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2025-01-02, 08:37:43",
-      "https://news.ycombinator.com/item?id=42572770"
-    ],
-    [
-      "Emulating the FMAdd Instruction, Part 1: 32-bit Floats",
-      "https://drilian.com/posts/2025.01.01-emulating-the-fmadd-instruction-part-1-32-bit-floats/"
-    ]
-  ],
-  [
-    [
       "2025-01-02, 08:08:15",
       "https://news.ycombinator.com/item?id=42572662"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2025-01-01, 22:41:16",
-      "https://news.ycombinator.com/item?id=42569913"
-    ],
-    [
-      "My 25-year adventure in AI and ML",
-      "https://austinhenley.com/blog/25yearsofai.html"
-    ]
-  ],
-  [
-    [
       "2025-01-01, 19:12:57",
       "https://news.ycombinator.com/item?id=42568399"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
+      "2024-12-30, 22:43:29",
+      "https://news.ycombinator.com/item?id=42554371"
+    ],
+    [
+      "Linux Context Switching Internals: Process State and Memory",
+      "https://blog.codingconfessions.com/p/linux-context-switching-internals"
+    ]
+  ],
+  [
+    [
       "2024-12-30, 22:19:05",
       "https://news.ycombinator.com/item?id=42554161"
     ],
     [
       "RWKV Language Model",
       "https://www.rwkv.com/"
-    ]
-  ],
-  [
-    [
-      "2024-12-30, 13:35:46",
-      "https://news.ycombinator.com/item?id=42549123"
-    ],
-    [
-      "How AI is unlocking ancient texts",
-      "https://www.nature.com/articles/d41586-024-04161-z"
     ]
   ],
   [
