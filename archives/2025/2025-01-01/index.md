@@ -7,6 +7,7 @@
 * [2025-01-01, 23:44:13](https://news.ycombinator.com/item?id=42570259) - [Signalens' SignalSDR Pro Is a Raspberry Pi-Like High-Performance SDR](https://www.hackster.io/news/signalens-signalsdr-pro-is-a-raspberry-pi-like-high-performance-software-defined-radio-33d06214b465)
 * [2025-01-01, 23:20:53](https://news.ycombinator.com/item?id=42570138) - [There Are More Trees on Earth Than Stars in the Milky Way](https://www.snopes.com/fact-check/trees-stars-milky-way/)
 * [2025-01-01, 22:41:16](https://news.ycombinator.com/item?id=42569913) - [My 25-year adventure in AI and ML](https://austinhenley.com/blog/25yearsofai.html)
+* [2025-01-01, 22:08:21](https://news.ycombinator.com/item?id=42569728) - [(Amiga) AROS Research Operating System: Summary of 2024](https://arosnews.github.io/aros-x86-summary-2024/)
 * [2025-01-01, 22:05:38](https://news.ycombinator.com/item?id=42569713) - [Privacy of Photos.app's Enhanced Visual Search](https://mjtsai.com/blog/2025/01/01/privacy-of-photos-apps-enhanced-visual-search/)
 * [2025-01-01, 21:42:03](https://news.ycombinator.com/item?id=42569557) - [In Search of Types (2014) [pdf]](https://www.humprog.org/~stephen/papers/kell14in-author-version.pdf)
 * [2025-01-01, 21:18:29](https://news.ycombinator.com/item?id=42569390) - [SF Purity Test](https://www.sfpurity.com/)
