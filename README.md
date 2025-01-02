@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-02, 19:20:50](https://news.ycombinator.com/item?id=42577736) - [Advent of Code 2024 in pure SQL](http://databasearchitects.blogspot.com/2024/12/advent-of-code-2024-in-pure-sql.html)
+* [2025-01-02, 19:13:23](https://news.ycombinator.com/item?id=42577661) - [Go Upgrade Checklist](https://hakann.substack.com/p/go-upgrade-checklist)
+* [2025-01-02, 18:47:45](https://news.ycombinator.com/item?id=42577387) - [Building a Knowledge System That Enhances Rather Than Replaces Thought](https://nsavage.substack.com/p/beyond-rag-building-a-knowledge-management)
 * [2025-01-02, 18:35:57](https://news.ycombinator.com/item?id=42577272) - [PlasticList's Advice for Food Companies](https://twitter.com/natfriedman/status/1874884925587087434)
 * [2025-01-02, 18:19:48](https://news.ycombinator.com/item?id=42577076) - [Tell HN: Impassable Cloudflare challenges are ruining my browsing experience](https://news.ycombinator.com/item?id=42577076)
 * [2025-01-02, 17:54:19](https://news.ycombinator.com/item?id=42576755) - [TinyStories: How Small Can Language Models Be and Still Speak Coherent English?](https://arxiv.org/abs/2305.07759)
@@ -22,9 +24,7 @@
 * [2025-01-02, 08:08:15](https://news.ycombinator.com/item?id=42572662) - [MitmProxy2Swagger: Automagically reverse-engineer REST APIs](https://github.com/alufers/mitmproxy2swagger)
 * [2025-01-02, 05:55:20](https://news.ycombinator.com/item?id=42572057) - [Zasper: A Modern and Efficient Alternative to JupyterLab, Built in Go](https://github.com/zasper-io/zasper)
 * [2025-01-02, 05:43:28](https://news.ycombinator.com/item?id=42571995) - [Autodesk deletes old forum posts suddenly](https://forums.autodesk.com/t5/net/regarding-community-content-archiving/td-p/13198106)
-* [2025-01-02, 04:20:00](https://news.ycombinator.com/item?id=42571608) - [Meta Wants More AI Bots on Facebook and Instagram](https://nymag.com/intelligencer/article/meta-wants-more-ai-bots-on-facebook-and-instagram.html)
 * [2025-01-02, 02:09:45](https://news.ycombinator.com/item?id=42570988) - [The GPU, not the TPM, is the root of hardware DRM](https://mjg59.dreamwidth.org/70954.html)
-* [2025-01-01, 19:12:57](https://news.ycombinator.com/item?id=42568399) - [One of my papers got declined today](https://mathstodon.xyz/@tao/113721192051328193)
 * [2025-01-01, 14:12:15](https://news.ycombinator.com/item?id=42566112) - [DOOM CAPTCHA](https://doom-captcha.vercel.app/)
 * [2024-12-31, 17:12:51](https://news.ycombinator.com/item?id=42560069) - [Zildjian, a 400-year-old cymbal-making company in Massachusetts](https://www.wbur.org/news/2024/12/16/400-years-zildjian-cymbals-massachusetts)
 * [2024-12-30, 22:43:29](https://news.ycombinator.com/item?id=42554371) - [Linux Context Switching Internals: Process State and Memory](https://blog.codingconfessions.com/p/linux-context-switching-internals)

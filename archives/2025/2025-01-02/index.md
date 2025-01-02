@@ -6,6 +6,8 @@
 
 * [2025-01-02, 19:24:26](https://news.ycombinator.com/item?id=42577778) - [You are chasing the wrong goals](https://thatguypierre.notion.site/Going-with-the-seasons-16f79bbad9108044841aff64678950d8)
 * [2025-01-02, 19:20:50](https://news.ycombinator.com/item?id=42577736) - [Advent of Code 2024 in pure SQL](http://databasearchitects.blogspot.com/2024/12/advent-of-code-2024-in-pure-sql.html)
+* [2025-01-02, 19:13:23](https://news.ycombinator.com/item?id=42577661) - [Go Upgrade Checklist](https://hakann.substack.com/p/go-upgrade-checklist)
+* [2025-01-02, 18:47:45](https://news.ycombinator.com/item?id=42577387) - [Building a Knowledge System That Enhances Rather Than Replaces Thought](https://nsavage.substack.com/p/beyond-rag-building-a-knowledge-management)
 * [2025-01-02, 18:35:57](https://news.ycombinator.com/item?id=42577272) - [PlasticList's Advice for Food Companies](https://twitter.com/natfriedman/status/1874884925587087434)
 * [2025-01-02, 18:27:29](https://news.ycombinator.com/item?id=42577166) - [What Happens When a Whole Generation Never Grows Up?](https://www.wsj.com/economy/what-happens-when-a-whole-generation-never-grows-up-d200e9ef)
 * [2025-01-02, 18:19:48](https://news.ycombinator.com/item?id=42577076) - [Tell HN: Impassable Cloudflare Challenges Are Ruining My Browsing Experience](https://news.ycombinator.com/item?id=42577076)
