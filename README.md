@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-02, 16:32:20](https://news.ycombinator.com/item?id=42575900) - [Postgres UUIDv7 and per-back end monotonicity](https://brandur.org/fragments/uuid-v7-monotonicity)
 * [2025-01-02, 15:22:08](https://news.ycombinator.com/item?id=42575189) - [HTML_slice: Enable Ruby classes the ability to generate reusable pieces of HTML](https://github.com/henrique-ft/html_slice)
 * [2025-01-02, 15:19:10](https://news.ycombinator.com/item?id=42575159) - [The Accidental Invention of the Snow Globe (2024)](https://www.smithsonianmag.com/innovation/how-an-experiment-to-amplify-light-in-hospital-operating-rooms-led-to-the-accidental-invention-of-the-snow-globe-180985742/)
 * [2025-01-02, 15:19:05](https://news.ycombinator.com/item?id=42575155) - [A Private Life – Nikolai Tolstoy Remembers Patrick O'Brian](https://www.unseenhistories.com/tolstoy-patrick-o-brian)
@@ -29,7 +30,6 @@
 * [2024-12-29, 17:51:01](https://news.ycombinator.com/item?id=42541508) - [Developing inside a virtual machine](https://blog.disintegrator.dev/posts/dev-virtual-machine/)
 * [2024-12-29, 17:07:56](https://news.ycombinator.com/item?id=42541193) - [Populism and the World of Oz](https://americanhistory.si.edu/explore/stories/populism-and-world-oz)
 * [2024-12-29, 15:12:20](https://news.ycombinator.com/item?id=42540397) - [A web app to read Latin texts with inline translations](https://adi.earth/apps/duplex/)
-* [2024-12-29, 13:43:18](https://news.ycombinator.com/item?id=42539883) - [For four years, I photographed, indexed and classified my entire house](https://www.katalog-barbaraiweins.com)
 
 ## [Archives](archives/index.md)
 
