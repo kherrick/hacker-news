@@ -24,7 +24,7 @@
 * [2024-12-30, 22:19:05](https://news.ycombinator.com/item?id=42554161) - [RWKV Language Model](https://www.rwkv.com/)
 * [2024-12-30, 13:38:02](https://news.ycombinator.com/item?id=42549147) - [The Cognitive Style of PowerPoint [pdf]](https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf)
 * [2024-12-30, 13:35:46](https://news.ycombinator.com/item?id=42549123) - [How AI is unlocking ancient texts](https://www.nature.com/articles/d41586-024-04161-z)
-* [2024-12-30, 08:32:53](https://news.ycombinator.com/item?id=42547576) - [Skipping Boring Functions in Debuggers](https://maskray.me/blog/2024-12-30-skipping-boring-functions-in-debuggers)
+* [2024-12-29, 20:04:02](https://news.ycombinator.com/item?id=42542576) - [Where are Mr. Beast's early sponsors now?](https://www.preethamrn.com/posts/where-are-mrbeast-sponsors-now)
 * [2024-12-29, 17:51:01](https://news.ycombinator.com/item?id=42541508) - [Developing inside a virtual machine](https://blog.disintegrator.dev/posts/dev-virtual-machine/)
 * [2024-12-29, 16:11:16](https://news.ycombinator.com/item?id=42540792) - [What is a second?](https://www.johndcook.com/blog/2024/12/29/what-exactly-is-a-second/)
 * [2024-12-29, 14:03:31](https://news.ycombinator.com/item?id=42540005) - [DuPont and \"DuPont\" connectors, and how to crimp them properly](https://www.mattmillman.com/info/crimpconnectors/dupont-and-dupont-connectors/)
