@@ -15,7 +15,7 @@
 * [2025-01-02, 16:00:09](https://news.ycombinator.com/item?id=42575537) - [Ask HN: Who is hiring? (January 2025)](https://news.ycombinator.com/item?id=42575537)
 * [2025-01-02, 16:00:09](https://news.ycombinator.com/item?id=42575535) - [Ask HN: Who wants to be hired? (January 2025)](https://news.ycombinator.com/item?id=42575535)
 * [2025-01-02, 15:23:53](https://news.ycombinator.com/item?id=42575200) - [The Peter Principle still resonates](https://www.cbc.ca/news/canada/british-columbia/peter-principle-vancouver-history-1.7415994)
-* [2025-01-02, 15:19:10](https://news.ycombinator.com/item?id=42575159) - [The accidental invention of the snow globe (2024)](https://www.smithsonianmag.com/innovation/how-an-experiment-to-amplify-light-in-hospital-operating-rooms-led-to-the-accidental-invention-of-the-snow-globe-180985742/)
+* [2025-01-02, 15:22:08](https://news.ycombinator.com/item?id=42575189) - [HTML_slice: Enable Ruby classes the ability to generate reusable pieces of HTML](https://github.com/henrique-ft/html_slice)
 * [2025-01-02, 15:19:05](https://news.ycombinator.com/item?id=42575155) - [A Private Life – Nikolai Tolstoy Remembers Patrick O'Brian](https://www.unseenhistories.com/tolstoy-patrick-o-brian)
 * [2025-01-02, 15:12:29](https://news.ycombinator.com/item?id=42575082) - [UK's biggest dinosaur footprint site unearthed](https://www.bbc.com/news/articles/c24nzeqq1l2o)
 * [2025-01-02, 14:23:30](https://news.ycombinator.com/item?id=42574641) - [Rules for Writing Software Tutorials](https://refactoringenglish.com/chapters/rules-for-software-tutorials/)
