@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-02](index.md)
 
 * [2025-01-02, 04:20:00](https://news.ycombinator.com/item?id=42571608) - [Meta Wants More AI Bots on Facebook and Instagram](https://nymag.com/intelligencer/article/meta-wants-more-ai-bots-on-facebook-and-instagram.html)
+* [2025-01-02, 04:09:32](https://news.ycombinator.com/item?id=42571545) - [The Cybertruck that exploded and the New Orleans vehicle both rented using Turo](https://www.businessinsider.com/turo-rental-app-used-cybertruck-las-vegas-new-orleans-attack-2025-1)
 * [2025-01-02, 03:32:57](https://news.ycombinator.com/item?id=42571367) - [Blogs Rot. Wikis Wait.](https://j3s.sh/thought/blogs-rot-wikis-wait.html)
 * [2025-01-02, 03:00:45](https://news.ycombinator.com/item?id=42571202) - [Exercise may be the 'most potent medical intervention ever known'](https://www.pbs.org/newshour/show/how-exercise-may-be-the-most-potent-medical-intervention-ever-known)
 * [2025-01-02, 02:20:48](https://news.ycombinator.com/item?id=42571045) - [Could the Soviet Union have survived?](https://www.historytoday.com/archive/head-head/could-soviet-union-have-survived)
