@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-01-02, 18:35:57",
-      "https://news.ycombinator.com/item?id=42577272"
-    ],
-    [
-      "PlasticList's Advice for Food Companies",
-      "https://twitter.com/natfriedman/status/1874884925587087434"
-    ]
-  ],
-  [
-    [
       "2025-01-02, 18:19:48",
       "https://news.ycombinator.com/item?id=42577076"
     ],
@@ -287,6 +277,16 @@
     [
       "Curl with Partial Files",
       "https://daniel.haxx.se/blog/2024/12/30/curl-with-partial-files/"
+    ]
+  ],
+  [
+    [
+      "2024-12-30, 03:45:14",
+      "https://news.ycombinator.com/item?id=42546246"
+    ],
+    [
+      "Optimizing Ruby's JSON, Part 4",
+      "https://byroot.github.io/ruby/json/2024/12/29/optimizing-ruby-json-part-4.html"
     ]
   ],
   [
