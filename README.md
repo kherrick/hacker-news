@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-02, 19:24:26](https://news.ycombinator.com/item?id=42577778) - [You are chasing the wrong goals](https://thatguypierre.notion.site/Going-with-the-seasons-16f79bbad9108044841aff64678950d8)
 * [2025-01-02, 19:20:50](https://news.ycombinator.com/item?id=42577736) - [Advent of Code 2024 in pure SQL](http://databasearchitects.blogspot.com/2024/12/advent-of-code-2024-in-pure-sql.html)
 * [2025-01-02, 18:35:57](https://news.ycombinator.com/item?id=42577272) - [PlasticList's Advice for Food Companies](https://twitter.com/natfriedman/status/1874884925587087434)
 * [2025-01-02, 17:54:19](https://news.ycombinator.com/item?id=42576755) - [TinyStories: How Small Can Language Models Be and Still Speak Coherent English?](https://arxiv.org/abs/2305.07759)
@@ -11,7 +10,6 @@
 * [2025-01-02, 16:32:20](https://news.ycombinator.com/item?id=42575900) - [Postgres UUIDv7 and per-back end monotonicity](https://brandur.org/fragments/uuid-v7-monotonicity)
 * [2025-01-02, 16:30:25](https://news.ycombinator.com/item?id=42575882) - [Notes on the New Deepseek v3](https://composio.dev/blog/notes-on-new-deepseek-v3/)
 * [2025-01-02, 16:27:08](https://news.ycombinator.com/item?id=42575841) - [Show HN: connet – A P2P reverse proxy with NAT traversal](https://github.com/connet-dev/connet)
-* [2025-01-02, 16:10:08](https://news.ycombinator.com/item?id=42575648) - [Show HN: I built an AI calendar to help you get stuff done – feedback wanted](https://running4-m.github.io/Ai-Calendar/description.html)
 * [2025-01-02, 16:00:09](https://news.ycombinator.com/item?id=42575537) - [Ask HN: Who is hiring? (January 2025)](https://news.ycombinator.com/item?id=42575537)
 * [2025-01-02, 16:00:09](https://news.ycombinator.com/item?id=42575535) - [Ask HN: Who wants to be hired? (January 2025)](https://news.ycombinator.com/item?id=42575535)
 * [2025-01-02, 15:23:53](https://news.ycombinator.com/item?id=42575200) - [The Peter Principle still resonates](https://www.cbc.ca/news/canada/british-columbia/peter-principle-vancouver-history-1.7415994)
@@ -29,7 +27,9 @@
 * [2025-01-01, 19:12:57](https://news.ycombinator.com/item?id=42568399) - [One of my papers got declined today](https://mathstodon.xyz/@tao/113721192051328193)
 * [2024-12-31, 17:12:51](https://news.ycombinator.com/item?id=42560069) - [Zildjian, a 400-year-old cymbal-making company in Massachusetts](https://www.wbur.org/news/2024/12/16/400-years-zildjian-cymbals-massachusetts)
 * [2024-12-30, 22:43:29](https://news.ycombinator.com/item?id=42554371) - [Linux Context Switching Internals: Process State and Memory](https://blog.codingconfessions.com/p/linux-context-switching-internals)
+* [2024-12-30, 16:23:04](https://news.ycombinator.com/item?id=42550703) - [The smallest Hello World program](https://blog.lohr.dev/smol-hello-world)
 * [2024-12-30, 11:18:13](https://news.ycombinator.com/item?id=42548340) - [What is DOTS?](https://group47.com/what-is-dots/)
+* [2024-12-29, 14:30:48](https://news.ycombinator.com/item?id=42540182) - [4.5M Suspected Fake Stars in GitHub](https://arxiv.org/abs/2412.13459)
 
 ## [Archives](archives/index.md)
 
