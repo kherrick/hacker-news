@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2025-01-02, 03:32:57",
-      "https://news.ycombinator.com/item?id=42571367"
-    ],
-    [
-      "Blogs rot. Wikis wait",
-      "https://j3s.sh/thought/blogs-rot-wikis-wait.html"
-    ]
-  ],
-  [
-    [
       "2025-01-02, 03:13:32",
       "https://news.ycombinator.com/item?id=42571272"
     ],
@@ -287,6 +277,16 @@
     [
       "DuPont and \"DuPont\" connectors, and how to crimp them properly",
       "https://www.mattmillman.com/info/crimpconnectors/dupont-and-dupont-connectors/"
+    ]
+  ],
+  [
+    [
+      "2024-12-29, 13:07:04",
+      "https://news.ycombinator.com/item?id=42539700"
+    ],
+    [
+      "We fine-tuned Llama and got 4.2x Sonnet 3.5 accuracy for code generation",
+      "https://finecodex.com/"
     ]
   ],
   [
