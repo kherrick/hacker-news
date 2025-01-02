@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-02, 18:27:29](https://news.ycombinator.com/item?id=42577166) - [What Happens When a Whole Generation Never Grows Up?](https://www.wsj.com/economy/what-happens-when-a-whole-generation-never-grows-up-d200e9ef)
+* [2025-01-02, 18:19:48](https://news.ycombinator.com/item?id=42577076) - [Tell HN: Impassable Cloudflare Challenges Are Ruining My Browsing Experience](https://news.ycombinator.com/item?id=42577076)
 * [2025-01-02, 17:59:44](https://news.ycombinator.com/item?id=42576817) - [Morgan Stanley Follows Citi, BofA in Quitting Climate Group](https://www.bloomberg.com/news/articles/2025-01-02/morgan-stanley-leaves-net-zero-alliance-for-banks)
 * [2025-01-02, 17:54:19](https://news.ycombinator.com/item?id=42576755) - [TinyStories: How Small Can Language Models Be and Still Speak Coherent English?](https://arxiv.org/abs/2305.07759)
-* [2025-01-02, 17:46:39](https://news.ycombinator.com/item?id=42576647) - [Ask HN: Share your \"LLM screwed us over\" stories?](https://news.ycombinator.com/item?id=42576647)
 * [2025-01-02, 17:27:28](https://news.ycombinator.com/item?id=42576443) - [UBlockOrigin GPL code being stolen by team behind Honey browser extension](https://old.reddit.com/r/uBlockOrigin/comments/1hr6xjc/ubo_quick_filters_list_being_stolen_by_team/)
 * [2025-01-02, 17:08:38](https://news.ycombinator.com/item?id=42576242) - [XiangShan – open-source high performance RISC-V processor](https://github.com/OpenXiangShan/XiangShan)
 * [2025-01-02, 17:00:24](https://news.ycombinator.com/item?id=42576163) - [Distro (YC S24) Is Hiring a Business Development Representative (BDR)](https://www.ycombinator.com/companies/distro/jobs/FFzY0sx-business-development-representative)
@@ -16,6 +15,7 @@
 * [2025-01-02, 15:22:08](https://news.ycombinator.com/item?id=42575189) - [HTML_slice: Enable Ruby classes the ability to generate reusable pieces of HTML](https://github.com/henrique-ft/html_slice)
 * [2025-01-02, 15:19:10](https://news.ycombinator.com/item?id=42575159) - [The Accidental Invention of the Snow Globe (2024)](https://www.smithsonianmag.com/innovation/how-an-experiment-to-amplify-light-in-hospital-operating-rooms-led-to-the-accidental-invention-of-the-snow-globe-180985742/)
 * [2025-01-02, 15:19:05](https://news.ycombinator.com/item?id=42575155) - [A Private Life – Nikolai Tolstoy Remembers Patrick O'Brian](https://www.unseenhistories.com/tolstoy-patrick-o-brian)
+* [2025-01-02, 13:57:38](https://news.ycombinator.com/item?id=42574426) - [Build a Better DIY Seismometer](https://spectrum.ieee.org/build-a-better-diy-seismometer)
 * [2025-01-02, 13:15:23](https://news.ycombinator.com/item?id=42574125) - [What Is miniKanren?](http://minikanren.org/)
 * [2025-01-02, 08:08:15](https://news.ycombinator.com/item?id=42572662) - [MitmProxy2Swagger: Automagically reverse-engineer REST APIs](https://github.com/alufers/mitmproxy2swagger)
 * [2025-01-02, 05:55:20](https://news.ycombinator.com/item?id=42572057) - [Zasper: A Modern and Efficient Alternative to JupyterLab, Built in Go](https://github.com/zasper-io/zasper)

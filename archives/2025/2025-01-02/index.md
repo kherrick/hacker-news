@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-02](index.md)
 
 * [2025-01-02, 18:27:29](https://news.ycombinator.com/item?id=42577166) - [What Happens When a Whole Generation Never Grows Up?](https://www.wsj.com/economy/what-happens-when-a-whole-generation-never-grows-up-d200e9ef)
+* [2025-01-02, 18:19:48](https://news.ycombinator.com/item?id=42577076) - [Tell HN: Impassable Cloudflare Challenges Are Ruining My Browsing Experience](https://news.ycombinator.com/item?id=42577076)
 * [2025-01-02, 17:59:44](https://news.ycombinator.com/item?id=42576817) - [Morgan Stanley Follows Citi, BofA in Quitting Climate Group](https://www.bloomberg.com/news/articles/2025-01-02/morgan-stanley-leaves-net-zero-alliance-for-banks)
 * [2025-01-02, 17:54:19](https://news.ycombinator.com/item?id=42576755) - [TinyStories: How Small Can Language Models Be and Still Speak Coherent English?](https://arxiv.org/abs/2305.07759)
 * [2025-01-02, 17:46:39](https://news.ycombinator.com/item?id=42576647) - [Ask HN: Share your \"LLM screwed us over\" stories?](https://news.ycombinator.com/item?id=42576647)
@@ -26,6 +27,7 @@
 * [2025-01-02, 15:19:10](https://news.ycombinator.com/item?id=42575159) - [The Accidental Invention of the Snow Globe (2024)](https://www.smithsonianmag.com/innovation/how-an-experiment-to-amplify-light-in-hospital-operating-rooms-led-to-the-accidental-invention-of-the-snow-globe-180985742/)
 * [2025-01-02, 15:19:05](https://news.ycombinator.com/item?id=42575155) - [A Private Life – Nikolai Tolstoy Remembers Patrick O'Brian](https://www.unseenhistories.com/tolstoy-patrick-o-brian)
 * [2025-01-02, 14:11:03](https://news.ycombinator.com/item?id=42574545) - [Korean Assembly Speaker's adherence to procedure key to making troops stand down](https://www.aljazeera.com/news/2024/12/27/unlikely-political-thor-emerges-from-south-koreas-martial-law-crisis)
+* [2025-01-02, 13:57:38](https://news.ycombinator.com/item?id=42574426) - [Build a Better DIY Seismometer](https://spectrum.ieee.org/build-a-better-diy-seismometer)
 * [2025-01-02, 13:57:09](https://news.ycombinator.com/item?id=42574420) - [Things we think will happen in 2025](https://www.vox.com/future-perfect/392241/2025-new-year-predictions-trump-musk-artificial-intelligence)
 * [2025-01-02, 13:47:56](https://news.ycombinator.com/item?id=42574352) - [Nearly Half of US Unicorns Have Immigrants Founders](https://gfmag.com/capital-raising-corporate-finance/us-unicorns-immigrant-founders/)
 * [2025-01-02, 13:31:29](https://news.ycombinator.com/item?id=42574237) - [The Truth About H-1B Visas It's wage theft, pure and simple](https://neuburger.substack.com/p/the-truth-about-h-1b-visas)
