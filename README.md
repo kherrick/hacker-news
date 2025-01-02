@@ -3,7 +3,7 @@
 * [2025-01-02, 02:09:45](https://news.ycombinator.com/item?id=42570988) - [The GPU, not the TPM, is the root of hardware DRM](https://mjg59.dreamwidth.org/70954.html)
 * [2025-01-02, 00:48:42](https://news.ycombinator.com/item?id=42570605) - [Passengers Say Turkish Airlines Flights Have Unwelcome Guests: Bedbugs](https://www.nytimes.com/2025/01/01/travel/bedbugs-turkish-airlines-flights.html)
 * [2025-01-02, 00:09:54](https://news.ycombinator.com/item?id=42570390) - [Glue Work Considered Harmful](https://www.seangoedecke.com/glue-work-considered-harmful/)
-* [2025-01-01, 23:20:53](https://news.ycombinator.com/item?id=42570138) - [There Are More Trees on Earth Than Stars in the Milky Way](https://www.snopes.com/fact-check/trees-stars-milky-way/)
+* [2025-01-01, 23:20:53](https://news.ycombinator.com/item?id=42570138) - [There Are More Trees on Earth Than Stars in the Milky Way (2016)](https://www.snopes.com/fact-check/trees-stars-milky-way/)
 * [2025-01-01, 22:41:16](https://news.ycombinator.com/item?id=42569913) - [My 25-year adventure in AI and ML](https://austinhenley.com/blog/25yearsofai.html)
 * [2025-01-01, 20:58:04](https://news.ycombinator.com/item?id=42569236) - [Rails for Everything](https://literallythevoid.com/blog/rails_for_everything.html)
 * [2025-01-01, 20:39:53](https://news.ycombinator.com/item?id=42569109) - [My favourite computer ergonomics hack](https://blog.jacobvosmaer.nl/0036-beeper/)
