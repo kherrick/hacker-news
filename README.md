@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-02, 04:20:00](https://news.ycombinator.com/item?id=42571608) - [Meta Wants More AI Bots on Facebook and Instagram](https://nymag.com/intelligencer/article/meta-wants-more-ai-bots-on-facebook-and-instagram.html)
 * [2025-01-02, 03:32:57](https://news.ycombinator.com/item?id=42571367) - [Blogs Rot. Wikis Wait.](https://j3s.sh/thought/blogs-rot-wikis-wait.html)
 * [2025-01-02, 03:00:45](https://news.ycombinator.com/item?id=42571202) - [Exercise may be the 'most potent medical intervention ever known'](https://www.pbs.org/newshour/show/how-exercise-may-be-the-most-potent-medical-intervention-ever-known)
 * [2025-01-02, 02:20:48](https://news.ycombinator.com/item?id=42571045) - [Could the Soviet Union have survived?](https://www.historytoday.com/archive/head-head/could-soviet-union-have-survived)
@@ -11,7 +12,7 @@
 * [2025-01-01, 20:39:53](https://news.ycombinator.com/item?id=42569109) - [My favourite computer ergonomics hack](https://blog.jacobvosmaer.nl/0036-beeper/)
 * [2025-01-01, 20:02:19](https://news.ycombinator.com/item?id=42568805) - [How the lore of New Year defeated the law of New Year](https://davidallengreen.com/2025/01/how-the-lore-of-new-year-defeated-the-law-of-new-year-how-the-english-state-gave-up-on-insisting-the-new-year-started-on-25-march/)
 * [2025-01-01, 19:25:32](https://news.ycombinator.com/item?id=42568516) - [Indexing Code at Scale with Glean](https://engineering.fb.com/2024/12/19/developer-tools/glean-open-source-code-indexing/)
-* [2025-01-01, 19:12:57](https://news.ycombinator.com/item?id=42568399) - [Terence Tao: One of my papers got declined today](https://mathstodon.xyz/@tao/113721192051328193)
+* [2025-01-01, 19:12:57](https://news.ycombinator.com/item?id=42568399) - [One of my papers got declined today](https://mathstodon.xyz/@tao/113721192051328193)
 * [2025-01-01, 17:00:33](https://news.ycombinator.com/item?id=42567286) - [HyperDX (YC S22) is hiring engineers to build open source observability](https://www.ycombinator.com/companies/hyperdx/jobs)
 * [2025-01-01, 14:27:39](https://news.ycombinator.com/item?id=42566192) - [Databases in 2024: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html)
 * [2025-01-01, 14:12:15](https://news.ycombinator.com/item?id=42566112) - [DOOM CAPTCHA](https://doom-captcha.vercel.app/)
@@ -19,7 +20,6 @@
 * [2025-01-01, 12:21:18](https://news.ycombinator.com/item?id=42565606) - [30% drop in O1-preview accuracy when Putnam problems are slightly variated](https://openreview.net/forum?id=YXnwlZe0yf&noteId=yrsGpHd0Sf)
 * [2025-01-01, 08:16:09](https://news.ycombinator.com/item?id=42564687) - [Books I Loved Reading in 2024](https://thoughts.wyounas.com/p/books-i-enjoyed-most-in-2024)
 * [2025-01-01, 00:08:03](https://news.ycombinator.com/item?id=42562847) - [Static search trees: faster than binary search](https://curiouscoding.nl/posts/static-search-tree/)
-* [2024-12-31, 08:42:22](https://news.ycombinator.com/item?id=42557410) - [Walter Isaacson: My So-Called Writing Life (2014)](https://lehnews.wordpress.com/2014/03/25/walter-isaacson-my-so-called-writing-life/)
 * [2024-12-31, 07:59:54](https://news.ycombinator.com/item?id=42557255) - [Software Design Is Knowledge Building](https://olano.dev/blog/software-design-is-knowledge-building/)
 * [2024-12-31, 07:20:19](https://news.ycombinator.com/item?id=42557098) - [An Unreasonable Amount of Time](https://allenpike.com/2024/an-unreasonable-amount-of-time)
 * [2024-12-30, 13:38:02](https://news.ycombinator.com/item?id=42549147) - [The Cognitive Style of PowerPoint [pdf]](https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf)
