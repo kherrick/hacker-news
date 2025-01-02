@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-02](index.md)
 
+* [2025-01-02, 10:10:19](https://news.ycombinator.com/item?id=42573214) - [Show HN: A tool to generate dragon names](https://dragonnamegenerator.net)
 * [2025-01-02, 09:46:37](https://news.ycombinator.com/item?id=42573088) - [The biggest AI flops of 2024](https://www.technologyreview.com/2024/12/31/1109612/biggest-worst-ai-artificial-intelligence-flops-fails-2024/)
 * [2025-01-02, 08:37:43](https://news.ycombinator.com/item?id=42572770) - [Emulating the FMAdd Instruction, Part 1: 32-bit Floats](https://drilian.com/posts/2025.01.01-emulating-the-fmadd-instruction-part-1-32-bit-floats/)
 * [2025-01-02, 08:08:15](https://news.ycombinator.com/item?id=42572662) - [MitmProxy2Swagger: Automagically reverse-engineer REST APIs](https://github.com/alufers/mitmproxy2swagger)
