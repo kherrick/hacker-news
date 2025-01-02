@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2025-01-02, 02:09:45",
-      "https://news.ycombinator.com/item?id=42570988"
-    ],
-    [
-      "The GPU, not the TPM, is the root of hardware DRM",
-      "https://mjg59.dreamwidth.org/70954.html"
-    ]
-  ],
-  [
-    [
       "2025-01-01, 23:20:53",
       "https://news.ycombinator.com/item?id=42570138"
     ],
@@ -247,6 +237,16 @@
     [
       "How AI is unlocking ancient texts",
       "https://www.nature.com/articles/d41586-024-04161-z"
+    ]
+  ],
+  [
+    [
+      "2024-12-29, 17:51:01",
+      "https://news.ycombinator.com/item?id=42541508"
+    ],
+    [
+      "Developing inside a virtual machine",
+      "https://blog.disintegrator.dev/posts/dev-virtual-machine/"
     ]
   ],
   [
