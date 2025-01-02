@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-02, 00:48:42",
+      "https://news.ycombinator.com/item?id=42570605"
+    ],
+    [
+      "Passengers Say Turkish Airlines Flights Have Unwelcome Guests: Bedbugs",
+      "https://www.nytimes.com/2025/01/01/travel/bedbugs-turkish-airlines-flights.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-02, 00:09:54",
+      "https://news.ycombinator.com/item?id=42570390"
+    ],
+    [
+      "Glue Work Considered Harmful",
+      "https://www.seangoedecke.com/glue-work-considered-harmful/"
+    ]
+  ],
+  [
+    [
       "2025-01-01, 23:44:13",
       "https://news.ycombinator.com/item?id=42570259"
     ],
@@ -11,12 +31,22 @@
   ],
   [
     [
-      "2025-01-01, 21:42:03",
-      "https://news.ycombinator.com/item?id=42569557"
+      "2025-01-01, 23:20:53",
+      "https://news.ycombinator.com/item?id=42570138"
     ],
     [
-      "In Search of Types (2014) [pdf]",
-      "https://www.humprog.org/~stephen/papers/kell14in-author-version.pdf"
+      "There Are More Trees on Earth Than Stars in the Milky Way",
+      "https://www.snopes.com/fact-check/trees-stars-milky-way/"
+    ]
+  ],
+  [
+    [
+      "2025-01-01, 22:41:16",
+      "https://news.ycombinator.com/item?id=42569913"
+    ],
+    [
+      "My 25-year adventure in AI and ML",
+      "https://austinhenley.com/blog/25yearsofai.html"
     ]
   ],
   [
@@ -51,16 +81,6 @@
   ],
   [
     [
-      "2025-01-01, 19:54:39",
-      "https://news.ycombinator.com/item?id=42568749"
-    ],
-    [
-      "Show HN: GitHub-style screen time visualizer on iOS",
-      "https://apps.apple.com/us/app/clearspace-reduce-screen-time/id1572515807"
-    ]
-  ],
-  [
-    [
       "2025-01-01, 19:25:32",
       "https://news.ycombinator.com/item?id=42568516"
     ],
@@ -87,16 +107,6 @@
     [
       "HyperDX (YC S22) is hiring engineers to build open source observability",
       "https://www.ycombinator.com/companies/hyperdx/jobs"
-    ]
-  ],
-  [
-    [
-      "2025-01-01, 16:59:51",
-      "https://news.ycombinator.com/item?id=42567280"
-    ],
-    [
-      "Welcome to the Public Domain in 2025",
-      "https://blog.archive.org/2025/01/01/welcome-to-the-public-domain-in-2025/"
     ]
   ],
   [
@@ -145,7 +155,7 @@
       "https://news.ycombinator.com/item?id=42565638"
     ],
     [
-      "RT-2: Vision-Language-Action Models",
+      "RT-2: Vision-Language-Action Models (2023)",
       "https://robotics-transformer2.github.io/"
     ]
   ],
@@ -157,16 +167,6 @@
     [
       "30% drop in O1-preview accuracy when Putnam problems are slightly variated",
       "https://openreview.net/forum?id=YXnwlZe0yf&noteId=yrsGpHd0Sf"
-    ]
-  ],
-  [
-    [
-      "2025-01-01, 11:57:58",
-      "https://news.ycombinator.com/item?id=42565513"
-    ],
-    [
-      "A. A. Milne's Winnie-the-Pooh as an accessible eBook",
-      "https://tilde.zone/@gluejar/113749300977151258"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2024-12-31, 07:04:12",
-      "https://news.ycombinator.com/item?id=42557019"
-    ],
-    [
-      "Performance (On an HP48GX Graphing Calculator)",
-      "http://masochistcoder.blogspot.com/2016/05/performance.html"
-    ]
-  ],
-  [
-    [
       "2024-12-30, 13:35:46",
       "https://news.ycombinator.com/item?id=42549123"
     ],
@@ -261,12 +251,12 @@
   ],
   [
     [
-      "2024-12-29, 18:40:10",
-      "https://news.ycombinator.com/item?id=42541885"
+      "2024-12-30, 08:32:53",
+      "https://news.ycombinator.com/item?id=42547576"
     ],
     [
-      "Unintuitive optimization for performing paths union",
-      "https://minus-ze.ro/posts/unintuitive-optimization-for-performing-paths-union/"
+      "Skipping Boring Functions in Debuggers",
+      "https://maskray.me/blog/2024-12-30-skipping-boring-functions-in-debuggers"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "For four years, I photographed, indexed and classified my entire house",
       "https://www.katalog-barbaraiweins.com"
+    ]
+  ],
+  [
+    [
+      "2024-12-29, 08:24:27",
+      "https://news.ycombinator.com/item?id=42538519"
+    ],
+    [
+      "The Invisible Tsunami Kids",
+      "https://robertvanwey.substack.com/p/the-invisible-tsunami-kids"
     ]
   ]
 ]
