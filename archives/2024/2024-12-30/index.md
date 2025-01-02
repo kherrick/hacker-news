@@ -72,6 +72,7 @@
 * [2024-12-30, 09:21:15](https://news.ycombinator.com/item?id=42547835) - [ShredOS – Secure disk erasure/wipe](https://github.com/PartialVolume/shredos.x86_64)
 * [2024-12-30, 09:18:38](https://news.ycombinator.com/item?id=42547820) - [Curl-Impersonate](https://github.com/lexiforest/curl-impersonate)
 * [2024-12-30, 09:16:10](https://news.ycombinator.com/item?id=42547803) - [Was zombie-Bench just acquired?](https://news.ycombinator.com/item?id=42547803)
+* [2024-12-30, 08:39:25](https://news.ycombinator.com/item?id=42547615) - [Systems Ideas That Sound Good but Almost Never Work – \"Let's Just \"](https://hardcoresoftware.learningbyshipping.com/p/225-systems-ideas-that-sound-good)
 * [2024-12-30, 08:38:38](https://news.ycombinator.com/item?id=42547610) - [MiceWine – run Windows applications and games on Android smartphones](https://github.com/KreitinnSoftware/MiceWine-Application)
 * [2024-12-30, 08:32:53](https://news.ycombinator.com/item?id=42547576) - [Skipping Boring Functions in Debuggers](https://maskray.me/blog/2024-12-30-skipping-boring-functions-in-debuggers)
 * [2024-12-30, 08:12:48](https://news.ycombinator.com/item?id=42547489) - ['Obelisks': New Class of Life Has Been Found in Human Digestive System](https://www.sciencealert.com/obelisks-entirely-new-class-of-life-has-been-found-in-the-human-digestive-system)
