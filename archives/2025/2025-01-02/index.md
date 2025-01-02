@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-02](index.md)
 
+* [2025-01-02, 18:35:57](https://news.ycombinator.com/item?id=42577272) - [PlasticList's Advice for Food Companies](https://twitter.com/natfriedman/status/1874884925587087434)
 * [2025-01-02, 18:27:29](https://news.ycombinator.com/item?id=42577166) - [What Happens When a Whole Generation Never Grows Up?](https://www.wsj.com/economy/what-happens-when-a-whole-generation-never-grows-up-d200e9ef)
 * [2025-01-02, 18:19:48](https://news.ycombinator.com/item?id=42577076) - [Tell HN: Impassable Cloudflare Challenges Are Ruining My Browsing Experience](https://news.ycombinator.com/item?id=42577076)
 * [2025-01-02, 17:59:44](https://news.ycombinator.com/item?id=42576817) - [Morgan Stanley Follows Citi, BofA in Quitting Climate Group](https://www.bloomberg.com/news/articles/2025-01-02/morgan-stanley-leaves-net-zero-alliance-for-banks)
@@ -23,6 +24,7 @@
 * [2025-01-02, 16:10:08](https://news.ycombinator.com/item?id=42575648) - [Show HN: I built an AI calendar to help you get stuff done – feedback wanted](https://running4-m.github.io/Ai-Calendar/description.html)
 * [2025-01-02, 16:00:09](https://news.ycombinator.com/item?id=42575537) - [Ask HN: Who is hiring? (January 2025)](https://news.ycombinator.com/item?id=42575537)
 * [2025-01-02, 16:00:09](https://news.ycombinator.com/item?id=42575535) - [Ask HN: Who wants to be hired? (January 2025)](https://news.ycombinator.com/item?id=42575535)
+* [2025-01-02, 15:23:53](https://news.ycombinator.com/item?id=42575200) - [The Peter Principle still resonates](https://www.cbc.ca/news/canada/british-columbia/peter-principle-vancouver-history-1.7415994)
 * [2025-01-02, 15:22:08](https://news.ycombinator.com/item?id=42575189) - [HTML_slice: Enable Ruby classes the ability to generate reusable pieces of HTML](https://github.com/henrique-ft/html_slice)
 * [2025-01-02, 15:19:10](https://news.ycombinator.com/item?id=42575159) - [The Accidental Invention of the Snow Globe (2024)](https://www.smithsonianmag.com/innovation/how-an-experiment-to-amplify-light-in-hospital-operating-rooms-led-to-the-accidental-invention-of-the-snow-globe-180985742/)
 * [2025-01-02, 15:19:05](https://news.ycombinator.com/item?id=42575155) - [A Private Life – Nikolai Tolstoy Remembers Patrick O'Brian](https://www.unseenhistories.com/tolstoy-patrick-o-brian)
