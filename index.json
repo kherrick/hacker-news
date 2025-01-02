@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-01-02, 13:57:09",
-      "https://news.ycombinator.com/item?id=42574420"
+      "2025-01-02, 13:31:29",
+      "https://news.ycombinator.com/item?id=42574237"
     ],
     [
-      "Things we think will happen in 2025",
-      "https://www.vox.com/future-perfect/392241/2025-new-year-predictions-trump-musk-artificial-intelligence"
+      "The Truth About H-1B Visas It's wage theft, pure and simple",
+      "https://neuburger.substack.com/p/the-truth-about-h-1b-visas"
     ]
   ],
   [
@@ -17,16 +17,6 @@
     [
       "What Is miniKanren?",
       "http://minikanren.org/"
-    ]
-  ],
-  [
-    [
-      "2025-01-02, 12:45:39",
-      "https://news.ycombinator.com/item?id=42573954"
-    ],
-    [
-      "Over 3.1M fake \"stars\" on GitHub projects used to boost rankings",
-      "https://www.bleepingcomputer.com/news/security/over-31-million-fake-stars-on-github-projects-used-to-boost-rankings/"
     ]
   ],
   [
@@ -131,16 +121,6 @@
   ],
   [
     [
-      "2025-01-01, 23:20:53",
-      "https://news.ycombinator.com/item?id=42570138"
-    ],
-    [
-      "Are there more trees on Earth than stars in the Milky Way? (2016)",
-      "https://www.snopes.com/fact-check/trees-stars-milky-way/"
-    ]
-  ],
-  [
-    [
       "2025-01-01, 22:41:16",
       "https://news.ycombinator.com/item?id=42569913"
     ],
@@ -167,6 +147,26 @@
     [
       "My favourite computer ergonomics hack",
       "https://blog.jacobvosmaer.nl/0036-beeper/"
+    ]
+  ],
+  [
+    [
+      "2025-01-01, 20:02:19",
+      "https://news.ycombinator.com/item?id=42568805"
+    ],
+    [
+      "How the lore of New Year defeated the law of New Year",
+      "https://davidallengreen.com/2025/01/how-the-lore-of-new-year-defeated-the-law-of-new-year-how-the-english-state-gave-up-on-insisting-the-new-year-started-on-25-march/"
+    ]
+  ],
+  [
+    [
+      "2025-01-01, 19:25:32",
+      "https://news.ycombinator.com/item?id=42568516"
+    ],
+    [
+      "Indexing Code at Scale with Glean",
+      "https://engineering.fb.com/2024/12/19/developer-tools/glean-open-source-code-indexing/"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2024-12-31, 08:34:13",
-      "https://news.ycombinator.com/item?id=42557380"
-    ],
-    [
-      "Power up and tear down of a Rohde and Schwarz SKTU BN 4151/2/5 noise generator",
-      "https://makertube.net/w/dJoJXuPoLfVpaadbvBYQWP"
-    ]
-  ],
-  [
-    [
       "2024-12-31, 07:59:54",
       "https://news.ycombinator.com/item?id=42557255"
     ],
@@ -227,6 +217,16 @@
     [
       "RWKV Language Model",
       "https://www.rwkv.com/"
+    ]
+  ],
+  [
+    [
+      "2024-12-30, 21:18:19",
+      "https://news.ycombinator.com/item?id=42553657"
+    ],
+    [
+      "The Upside of the Pentium Bug (1995) [pdf]",
+      "https://websrv.cecs.uci.edu/~papers/mpr/MPR/EDITOR/0903ed.pdf"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2024-12-29, 16:11:16",
+      "https://news.ycombinator.com/item?id=42540792"
+    ],
+    [
+      "What is a second?",
+      "https://www.johndcook.com/blog/2024/12/29/what-exactly-is-a-second/"
+    ]
+  ],
+  [
+    [
       "2024-12-29, 15:12:20",
       "https://news.ycombinator.com/item?id=42540397"
     ],
@@ -287,16 +297,6 @@
     [
       "We fine-tuned Llama and got 4.2x Sonnet 3.5 accuracy for code generation",
       "https://finecodex.com/"
-    ]
-  ],
-  [
-    [
-      "2024-12-29, 11:49:21",
-      "https://news.ycombinator.com/item?id=42539385"
-    ],
-    [
-      "ASCII porn predates the Internet but it's still everywhere (2019)",
-      "https://www.vice.com/en/article/ascii-pr0n-porn-predates-the-internet-but-its-still-everywhere-rule-34/"
     ]
   ]
 ]
