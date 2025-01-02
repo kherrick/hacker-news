@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-02, 18:27:29](https://news.ycombinator.com/item?id=42577166) - [What Happens When a Whole Generation Never Grows Up?](https://www.wsj.com/economy/what-happens-when-a-whole-generation-never-grows-up-d200e9ef)
 * [2025-01-02, 17:59:44](https://news.ycombinator.com/item?id=42576817) - [Morgan Stanley Follows Citi, BofA in Quitting Climate Group](https://www.bloomberg.com/news/articles/2025-01-02/morgan-stanley-leaves-net-zero-alliance-for-banks)
 * [2025-01-02, 17:54:19](https://news.ycombinator.com/item?id=42576755) - [TinyStories: How Small Can Language Models Be and Still Speak Coherent English?](https://arxiv.org/abs/2305.07759)
 * [2025-01-02, 17:46:39](https://news.ycombinator.com/item?id=42576647) - [Ask HN: Share your \"LLM screwed us over\" stories?](https://news.ycombinator.com/item?id=42576647)
@@ -12,7 +13,6 @@
 * [2025-01-02, 16:27:08](https://news.ycombinator.com/item?id=42575841) - [Show HN: connet – A P2P reverse proxy with NAT traversal](https://github.com/connet-dev/connet)
 * [2025-01-02, 16:10:08](https://news.ycombinator.com/item?id=42575648) - [Show HN: I built an AI calendar to help you get stuff done – feedback wanted](https://running4-m.github.io/Ai-Calendar/description.html)
 * [2025-01-02, 16:00:09](https://news.ycombinator.com/item?id=42575537) - [Ask HN: Who is hiring? (January 2025)](https://news.ycombinator.com/item?id=42575537)
-* [2025-01-02, 16:00:09](https://news.ycombinator.com/item?id=42575535) - [Ask HN: Who wants to be hired? (January 2025)](https://news.ycombinator.com/item?id=42575535)
 * [2025-01-02, 15:22:08](https://news.ycombinator.com/item?id=42575189) - [HTML_slice: Enable Ruby classes the ability to generate reusable pieces of HTML](https://github.com/henrique-ft/html_slice)
 * [2025-01-02, 15:19:10](https://news.ycombinator.com/item?id=42575159) - [The Accidental Invention of the Snow Globe (2024)](https://www.smithsonianmag.com/innovation/how-an-experiment-to-amplify-light-in-hospital-operating-rooms-led-to-the-accidental-invention-of-the-snow-globe-180985742/)
 * [2025-01-02, 15:19:05](https://news.ycombinator.com/item?id=42575155) - [A Private Life – Nikolai Tolstoy Remembers Patrick O'Brian](https://www.unseenhistories.com/tolstoy-patrick-o-brian)
@@ -28,7 +28,7 @@
 * [2024-12-30, 22:43:29](https://news.ycombinator.com/item?id=42554371) - [Linux Context Switching Internals: Process State and Memory](https://blog.codingconfessions.com/p/linux-context-switching-internals)
 * [2024-12-30, 22:19:05](https://news.ycombinator.com/item?id=42554161) - [RWKV Language Model](https://www.rwkv.com/)
 * [2024-12-30, 13:24:36](https://news.ycombinator.com/item?id=42549039) - [Most people don't care about quality](https://shkspr.mobi/blog/2024/12/most-people-dont-care-about-quality/)
-* [2024-12-29, 17:07:56](https://news.ycombinator.com/item?id=42541193) - [Populism and the World of Oz (2016)](https://americanhistory.si.edu/explore/stories/populism-and-world-oz)
+* [2024-12-30, 11:18:13](https://news.ycombinator.com/item?id=42548340) - [What is DOTS?](https://group47.com/what-is-dots/)
 * [2024-12-29, 15:12:20](https://news.ycombinator.com/item?id=42540397) - [A web app to read Latin texts with inline translations](https://adi.earth/apps/duplex/)
 
 ## [Archives](archives/index.md)
