@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-02, 16:32:20",
+      "https://news.ycombinator.com/item?id=42575900"
+    ],
+    [
+      "Postgres UUIDv7 and per-back end monotonicity",
+      "https://brandur.org/fragments/uuid-v7-monotonicity"
+    ]
+  ],
+  [
+    [
       "2025-01-02, 15:22:08",
       "https://news.ycombinator.com/item?id=42575189"
     ],
@@ -287,16 +297,6 @@
     [
       "A web app to read Latin texts with inline translations",
       "https://adi.earth/apps/duplex/"
-    ]
-  ],
-  [
-    [
-      "2024-12-29, 13:43:18",
-      "https://news.ycombinator.com/item?id=42539883"
-    ],
-    [
-      "For four years, I photographed, indexed and classified my entire house",
-      "https://www.katalog-barbaraiweins.com"
     ]
   ]
 ]
