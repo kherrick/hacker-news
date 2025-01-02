@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-02, 23:29:04](https://news.ycombinator.com/item?id=42580231) - [Awesome Donations: A repository of FLOSS donation options](https://github.com/n1trux/awesome-donations)
 * [2025-01-02, 23:00:48](https://news.ycombinator.com/item?id=42579969) - [The Alder Lake SHLX Anomaly](https://tavianator.com/2025/shlx.html)
 * [2025-01-02, 22:50:15](https://news.ycombinator.com/item?id=42579873) - [I am rich and have no idea what to do](https://vinay.sh/i-am-rich-and-have-no-idea-what-to-do-with-my-life/)
 * [2025-01-02, 22:08:42](https://news.ycombinator.com/item?id=42579472) - [iTerm2 critical security release](https://iterm2.com/downloads/stable/iTerm2-3_5_11.changelog)
 * [2025-01-02, 21:01:41](https://news.ycombinator.com/item?id=42578848) - [UpCodes (YC S17) is hiring remote recruiters to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
-* [2025-01-02, 20:05:56](https://news.ycombinator.com/item?id=42578243) - [Unifying the Technical Interview (2020)](https://aphyr.com/posts/354-unifying-the-technical-interview)
 * [2025-01-02, 20:05:35](https://news.ycombinator.com/item?id=42578237) - [U.S. appeals court strikes down FCC's net neutrality rules](https://www.tvtechnology.com/news/sixth-circuit-of-appeals-strikes-down-fccs-net-neutrality-rules)
 * [2025-01-02, 19:20:50](https://news.ycombinator.com/item?id=42577736) - [Advent of Code 2024 in pure SQL](http://databasearchitects.blogspot.com/2024/12/advent-of-code-2024-in-pure-sql.html)
 * [2025-01-02, 18:47:45](https://news.ycombinator.com/item?id=42577387) - [Building a Knowledge System That Enhances Rather Than Replaces Thought](https://nsavage.substack.com/p/beyond-rag-building-a-knowledge-management)
@@ -20,6 +20,7 @@
 * [2025-01-02, 15:19:05](https://news.ycombinator.com/item?id=42575155) - [A Private Life – Nikolai Tolstoy Remembers Patrick O'Brian](https://www.unseenhistories.com/tolstoy-patrick-o-brian)
 * [2025-01-02, 15:12:29](https://news.ycombinator.com/item?id=42575082) - [UK's biggest dinosaur footprint site unearthed](https://www.bbc.com/news/articles/c24nzeqq1l2o)
 * [2025-01-02, 14:23:30](https://news.ycombinator.com/item?id=42574641) - [Rules for writing software tutorials](https://refactoringenglish.com/chapters/rules-for-software-tutorials/)
+* [2025-01-02, 13:15:23](https://news.ycombinator.com/item?id=42574125) - [What Is miniKanren?](http://minikanren.org/)
 * [2025-01-02, 08:08:15](https://news.ycombinator.com/item?id=42572662) - [MitmProxy2Swagger: Automagically reverse-engineer REST APIs](https://github.com/alufers/mitmproxy2swagger)
 * [2025-01-02, 05:55:20](https://news.ycombinator.com/item?id=42572057) - [Zasper: A Modern and Efficient Alternative to JupyterLab, Built in Go](https://github.com/zasper-io/zasper)
 * [2025-01-01, 14:12:15](https://news.ycombinator.com/item?id=42566112) - [DOOM CAPTCHA](https://doom-captcha.vercel.app/)
@@ -27,7 +28,6 @@
 * [2024-12-31, 12:17:16](https://news.ycombinator.com/item?id=42558275) - [The Anthrobots: a new living entity with much to teach us](https://thoughtforms.life/meet-the-anthrobots-a-new-living-entity-with-much-to-teach-us/)
 * [2024-12-30, 22:43:29](https://news.ycombinator.com/item?id=42554371) - [Linux Context Switching Internals: Process State and Memory](https://blog.codingconfessions.com/p/linux-context-switching-internals)
 * [2024-12-30, 16:23:04](https://news.ycombinator.com/item?id=42550703) - [The smallest Hello World program](https://blog.lohr.dev/smol-hello-world)
-* [2024-12-30, 10:50:55](https://news.ycombinator.com/item?id=42548215) - [Curl with Partial Files](https://daniel.haxx.se/blog/2024/12/30/curl-with-partial-files/)
 * [2024-12-30, 03:45:14](https://news.ycombinator.com/item?id=42546246) - [Optimizing Ruby's JSON, Part 4](https://byroot.github.io/ruby/json/2024/12/29/optimizing-ruby-json-part-4.html)
 * [2024-12-29, 14:30:48](https://news.ycombinator.com/item?id=42540182) - [4.5M Suspected Fake Stars in GitHub](https://arxiv.org/abs/2412.13459)
 

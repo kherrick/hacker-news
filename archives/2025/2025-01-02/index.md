@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-02](index.md)
 
+* [2025-01-02, 23:29:04](https://news.ycombinator.com/item?id=42580231) - [Awesome Donations: A repository of FLOSS donation options](https://github.com/n1trux/awesome-donations)
 * [2025-01-02, 23:00:48](https://news.ycombinator.com/item?id=42579969) - [The Alder Lake SHLX Anomaly](https://tavianator.com/2025/shlx.html)
 * [2025-01-02, 22:50:15](https://news.ycombinator.com/item?id=42579873) - [I am rich and have no idea what to do with my life](https://vinay.sh/i-am-rich-and-have-no-idea-what-to-do-with-my-life/)
 * [2025-01-02, 22:08:42](https://news.ycombinator.com/item?id=42579472) - [iTerm2 Critical Security Release](https://iterm2.com/downloads/stable/iTerm2-3_5_11.changelog)
