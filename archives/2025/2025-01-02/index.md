@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-01-02](index.md)
 
 * [2025-01-02, 13:17:58](https://news.ycombinator.com/item?id=42574141) - [DOS live USB image with tools for writers](https://liam-on-linux.dreamwidth.org/93734.html)
+* [2025-01-02, 13:15:23](https://news.ycombinator.com/item?id=42574125) - [What Is miniKanren?](http://minikanren.org/)
+* [2025-01-02, 12:45:39](https://news.ycombinator.com/item?id=42573954) - [Over 3.1M fake \"stars\" on GitHub projects used to boost rankings](https://www.bleepingcomputer.com/news/security/over-31-million-fake-stars-on-github-projects-used-to-boost-rankings/)
 * [2025-01-02, 12:42:03](https://news.ycombinator.com/item?id=42573936) - [Pink Floyd's Young Lust telephone signalling explained](https://telephoneworld.org/landline-telephone-history/pink-floyds-young-lust-explained-and-demystified/)
 * [2025-01-02, 12:33:04](https://news.ycombinator.com/item?id=42573875) - [Ask HN: Where to Work After 40?](https://news.ycombinator.com/item?id=42573875)
 * [2025-01-02, 10:26:05](https://news.ycombinator.com/item?id=42573284) - [How Java's Executable Assembly Jars Work](https://mill-build.org/blog/5-executable-jars.html)
