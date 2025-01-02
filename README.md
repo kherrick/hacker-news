@@ -2,7 +2,6 @@
 
 * [2025-01-02, 13:17:58](https://news.ycombinator.com/item?id=42574141) - [DOS live USB image with tools for writers](https://liam-on-linux.dreamwidth.org/93734.html)
 * [2025-01-02, 12:42:03](https://news.ycombinator.com/item?id=42573936) - [Pink Floyd's Young Lust telephone signalling explained](https://telephoneworld.org/landline-telephone-history/pink-floyds-young-lust-explained-and-demystified/)
-* [2025-01-02, 12:33:04](https://news.ycombinator.com/item?id=42573875) - [Ask HN: Where to Work After 40?](https://news.ycombinator.com/item?id=42573875)
 * [2025-01-02, 09:29:12](https://news.ycombinator.com/item?id=42573007) - [Xiaomi global bootloader unlock policy has changed](https://xiaomitime.com/xiaomi-global-bootloader-unlock-policy-has-changed-20295/)
 * [2025-01-02, 08:37:43](https://news.ycombinator.com/item?id=42572770) - [Emulating the FMAdd Instruction, Part 1: 32-bit Floats](https://drilian.com/posts/2025.01.01-emulating-the-fmadd-instruction-part-1-32-bit-floats/)
 * [2025-01-02, 08:08:15](https://news.ycombinator.com/item?id=42572662) - [MitmProxy2Swagger: Automagically reverse-engineer REST APIs](https://github.com/alufers/mitmproxy2swagger)
@@ -26,6 +25,7 @@
 * [2024-12-30, 13:38:02](https://news.ycombinator.com/item?id=42549147) - [The Cognitive Style of PowerPoint [pdf]](https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf)
 * [2024-12-30, 13:35:46](https://news.ycombinator.com/item?id=42549123) - [How AI is unlocking ancient texts](https://www.nature.com/articles/d41586-024-04161-z)
 * [2024-12-29, 19:46:29](https://news.ycombinator.com/item?id=42542420) - [Visualizing memory layout of Rust's data types](https://www.youtube.com/watch?v=7_o-YRxf_cc)
+* [2024-12-29, 17:51:01](https://news.ycombinator.com/item?id=42541508) - [Developing inside a virtual machine](https://blog.disintegrator.dev/posts/dev-virtual-machine/)
 * [2024-12-29, 15:12:20](https://news.ycombinator.com/item?id=42540397) - [A web app to read Latin texts with inline translations](https://adi.earth/apps/duplex/)
 * [2024-12-29, 14:03:31](https://news.ycombinator.com/item?id=42540005) - [DuPont and “DuPont” connectors, and how to crimp them properly](https://www.mattmillman.com/info/crimpconnectors/dupont-and-dupont-connectors/)
 * [2024-12-29, 13:07:04](https://news.ycombinator.com/item?id=42539700) - [We fine-tuned Llama and got 4.2x Sonnet 3.5 accuracy for code generation](https://finecodex.com/)
