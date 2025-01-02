@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-02, 21:01:41](https://news.ycombinator.com/item?id=42578848) - [UpCodes (YC S17) is hiring remote recruiters to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
+* [2025-01-02, 20:05:56](https://news.ycombinator.com/item?id=42578243) - [Unifying the Technical Interview](https://aphyr.com/posts/354-unifying-the-technical-interview)
 * [2025-01-02, 20:05:35](https://news.ycombinator.com/item?id=42578237) - [U.S. Appeals Court Strikes Down FCC's Net Neutrality Rules](https://www.tvtechnology.com/news/sixth-circuit-of-appeals-strikes-down-fccs-net-neutrality-rules)
 * [2025-01-02, 19:20:50](https://news.ycombinator.com/item?id=42577736) - [Advent of Code 2024 in pure SQL](http://databasearchitects.blogspot.com/2024/12/advent-of-code-2024-in-pure-sql.html)
 * [2025-01-02, 19:13:23](https://news.ycombinator.com/item?id=42577661) - [Go Upgrade Checklist](https://hakann.substack.com/p/go-upgrade-checklist)
@@ -9,7 +11,6 @@
 * [2025-01-02, 17:54:19](https://news.ycombinator.com/item?id=42576755) - [TinyStories: How Small Can Language Models Be and Still Speak Coherent English? (2023)](https://arxiv.org/abs/2305.07759)
 * [2025-01-02, 17:27:28](https://news.ycombinator.com/item?id=42576443) - [UBlockOrigin GPL code being stolen by team behind Honey browser extension](https://old.reddit.com/r/uBlockOrigin/comments/1hr6xjc/ubo_quick_filters_list_being_stolen_by_team/)
 * [2025-01-02, 17:08:38](https://news.ycombinator.com/item?id=42576242) - [XiangShan – open-source high performance RISC-V processor](https://github.com/OpenXiangShan/XiangShan)
-* [2025-01-02, 17:00:24](https://news.ycombinator.com/item?id=42576163) - [Distro (YC S24) Is Hiring a Business Development Representative (BDR)](https://www.ycombinator.com/companies/distro/jobs/FFzY0sx-business-development-representative)
 * [2025-01-02, 16:42:06](https://news.ycombinator.com/item?id=42575990) - [Diagnosing an Unusual WiFi Issue (2020)](https://ryuuta.net/blog/diagnosing-an-unsual-wifi-issue/)
 * [2025-01-02, 16:32:20](https://news.ycombinator.com/item?id=42575900) - [Postgres UUIDv7 and per-back end monotonicity](https://brandur.org/fragments/uuid-v7-monotonicity)
 * [2025-01-02, 16:27:08](https://news.ycombinator.com/item?id=42575841) - [Show HN: connet – A P2P reverse proxy with NAT traversal](https://github.com/connet-dev/connet)
@@ -19,7 +20,6 @@
 * [2025-01-02, 15:19:05](https://news.ycombinator.com/item?id=42575155) - [A Private Life – Nikolai Tolstoy Remembers Patrick O'Brian](https://www.unseenhistories.com/tolstoy-patrick-o-brian)
 * [2025-01-02, 15:12:29](https://news.ycombinator.com/item?id=42575082) - [UK's biggest dinosaur footprint site unearthed](https://www.bbc.com/news/articles/c24nzeqq1l2o)
 * [2025-01-02, 14:23:30](https://news.ycombinator.com/item?id=42574641) - [Rules for Writing Software Tutorials](https://refactoringenglish.com/chapters/rules-for-software-tutorials/)
-* [2025-01-02, 13:15:23](https://news.ycombinator.com/item?id=42574125) - [What Is miniKanren?](http://minikanren.org/)
 * [2025-01-02, 08:08:15](https://news.ycombinator.com/item?id=42572662) - [MitmProxy2Swagger: Automagically reverse-engineer REST APIs](https://github.com/alufers/mitmproxy2swagger)
 * [2025-01-02, 05:55:20](https://news.ycombinator.com/item?id=42572057) - [Zasper: A Modern and Efficient Alternative to JupyterLab, Built in Go](https://github.com/zasper-io/zasper)
 * [2025-01-02, 05:43:28](https://news.ycombinator.com/item?id=42571995) - [Autodesk deletes old forum posts suddenly](https://forums.autodesk.com/t5/net/regarding-community-content-archiving/td-p/13198106)
