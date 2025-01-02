@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-02](index.md)
 
+* [2025-01-02, 12:33:04](https://news.ycombinator.com/item?id=42573875) - [Ask HN: Where to Work After 40?](https://news.ycombinator.com/item?id=42573875)
 * [2025-01-02, 10:10:19](https://news.ycombinator.com/item?id=42573214) - [Show HN: A tool to generate dragon names](https://dragonnamegenerator.net)
 * [2025-01-02, 09:46:37](https://news.ycombinator.com/item?id=42573088) - [The biggest AI flops of 2024](https://www.technologyreview.com/2024/12/31/1109612/biggest-worst-ai-artificial-intelligence-flops-fails-2024/)
 * [2025-01-02, 09:29:12](https://news.ycombinator.com/item?id=42573007) - [Xiaomi global bootloader unlock policy has changed](https://xiaomitime.com/xiaomi-global-bootloader-unlock-policy-has-changed-20295/)

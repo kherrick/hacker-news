@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-02, 12:33:04](https://news.ycombinator.com/item?id=42573875) - [Ask HN: Where to Work After 40?](https://news.ycombinator.com/item?id=42573875)
 * [2025-01-02, 09:29:12](https://news.ycombinator.com/item?id=42573007) - [Xiaomi global bootloader unlock policy has changed](https://xiaomitime.com/xiaomi-global-bootloader-unlock-policy-has-changed-20295/)
 * [2025-01-02, 08:37:43](https://news.ycombinator.com/item?id=42572770) - [Emulating the FMAdd Instruction, Part 1: 32-bit Floats](https://drilian.com/posts/2025.01.01-emulating-the-fmadd-instruction-part-1-32-bit-floats/)
 * [2025-01-02, 08:08:15](https://news.ycombinator.com/item?id=42572662) - [MitmProxy2Swagger: Automagically reverse-engineer REST APIs](https://github.com/alufers/mitmproxy2swagger)
@@ -10,7 +11,6 @@
 * [2025-01-02, 04:33:12](https://news.ycombinator.com/item?id=42571651) - [Mercure: A WebSocket alternative for server-sent events](https://github.com/dunglas/mercure)
 * [2025-01-02, 04:08:45](https://news.ycombinator.com/item?id=42571541) - [Bogus Software](https://minesweepergame.com/history/bogus-software.php)
 * [2025-01-02, 03:13:32](https://news.ycombinator.com/item?id=42571272) - [Kotaemon: An open-source RAG-based tool for chatting with your documents](https://github.com/Cinnamon/kotaemon)
-* [2025-01-01, 23:20:53](https://news.ycombinator.com/item?id=42570138) - [Are there more trees on Earth than stars in the Milky Way? (2016)](https://www.snopes.com/fact-check/trees-stars-milky-way/)
 * [2025-01-01, 22:41:16](https://news.ycombinator.com/item?id=42569913) - [My 25-year adventure in AI and ML](https://austinhenley.com/blog/25yearsofai.html)
 * [2025-01-01, 22:08:21](https://news.ycombinator.com/item?id=42569728) - [(Amiga) AROS Research Operating System: Summary of 2024](https://arosnews.github.io/aros-x86-summary-2024/)
 * [2025-01-01, 20:58:04](https://news.ycombinator.com/item?id=42569236) - [Rails for everything](https://literallythevoid.com/blog/rails_for_everything.html)
