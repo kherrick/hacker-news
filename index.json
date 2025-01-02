@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2025-01-02, 15:22:08",
-      "https://news.ycombinator.com/item?id=42575189"
-    ],
-    [
-      "HTML_slice: Enable Ruby classes the ability to generate reusable pieces of HTML",
-      "https://github.com/henrique-ft/html_slice"
-    ]
-  ],
-  [
-    [
       "2025-01-02, 15:19:10",
       "https://news.ycombinator.com/item?id=42575159"
     ],
@@ -287,6 +277,16 @@
     [
       "The smallest Hello World program",
       "https://blog.lohr.dev/smol-hello-world"
+    ]
+  ],
+  [
+    [
+      "2024-12-30, 10:50:55",
+      "https://news.ycombinator.com/item?id=42548215"
+    ],
+    [
+      "Curl with Partial Files",
+      "https://daniel.haxx.se/blog/2024/12/30/curl-with-partial-files/"
     ]
   ],
   [
