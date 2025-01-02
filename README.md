@@ -1,13 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-02, 05:55:20](https://news.ycombinator.com/item?id=42572057) - [Zasper: A Modern and Efficient Alternative to JupyterLab, Built in Go](https://github.com/zasper-io/zasper)
 * [2025-01-02, 05:43:28](https://news.ycombinator.com/item?id=42571995) - [Autodesk deletes old forum posts suddenly](https://forums.autodesk.com/t5/net/regarding-community-content-archiving/td-p/13198106)
 * [2025-01-02, 04:33:12](https://news.ycombinator.com/item?id=42571651) - [Mercure: A WebSocket alternative for server-sent events](https://github.com/dunglas/mercure)
 * [2025-01-02, 04:20:00](https://news.ycombinator.com/item?id=42571608) - [Meta Wants More AI Bots on Facebook and Instagram](https://nymag.com/intelligencer/article/meta-wants-more-ai-bots-on-facebook-and-instagram.html)
-* [2025-01-02, 04:11:58](https://news.ycombinator.com/item?id=42571569) - [Spirituality Is Secure Attachment with Reality](https://intimatemirror.substack.com/p/spirituality-is-secure-attachment)
 * [2025-01-02, 04:08:45](https://news.ycombinator.com/item?id=42571541) - [Bogus Software](https://minesweepergame.com/history/bogus-software.php)
 * [2025-01-02, 03:32:57](https://news.ycombinator.com/item?id=42571367) - [Blogs rot. Wikis wait](https://j3s.sh/thought/blogs-rot-wikis-wait.html)
 * [2025-01-02, 03:13:32](https://news.ycombinator.com/item?id=42571272) - [Kotaemon: An open-source RAG-based tool for chatting with your documents](https://github.com/Cinnamon/kotaemon)
-* [2025-01-02, 03:00:45](https://news.ycombinator.com/item?id=42571202) - [Exercise may be the 'most potent medical intervention ever known'](https://www.pbs.org/newshour/show/how-exercise-may-be-the-most-potent-medical-intervention-ever-known)
 * [2025-01-02, 02:09:45](https://news.ycombinator.com/item?id=42570988) - [The GPU, not the TPM, is the root of hardware DRM](https://mjg59.dreamwidth.org/70954.html)
 * [2025-01-01, 23:20:53](https://news.ycombinator.com/item?id=42570138) - [Are there more trees on Earth than stars in the Milky Way? (2016)](https://www.snopes.com/fact-check/trees-stars-milky-way/)
 * [2025-01-01, 22:41:16](https://news.ycombinator.com/item?id=42569913) - [My 25-year adventure in AI and ML](https://austinhenley.com/blog/25yearsofai.html)
@@ -20,7 +19,9 @@
 * [2025-01-01, 14:27:39](https://news.ycombinator.com/item?id=42566192) - [Databases in 2024: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html)
 * [2025-01-01, 14:12:15](https://news.ycombinator.com/item?id=42566112) - [DOOM CAPTCHA](https://doom-captcha.vercel.app/)
 * [2025-01-01, 13:15:03](https://news.ycombinator.com/item?id=42565821) - [Show HN: API Parrot – Automatically Reverse Engineer HTTP APIs](https://apiparrot.com/)
+* [2025-01-01, 00:08:03](https://news.ycombinator.com/item?id=42562847) - [Static search trees: faster than binary search](https://curiouscoding.nl/posts/static-search-tree/)
 * [2024-12-31, 07:59:54](https://news.ycombinator.com/item?id=42557255) - [Software Design Is Knowledge Building](https://olano.dev/blog/software-design-is-knowledge-building/)
+* [2024-12-31, 07:20:19](https://news.ycombinator.com/item?id=42557098) - [An Unreasonable Amount of Time](https://allenpike.com/2024/an-unreasonable-amount-of-time)
 * [2024-12-30, 22:19:05](https://news.ycombinator.com/item?id=42554161) - [RWKV Language Model](https://www.rwkv.com/)
 * [2024-12-30, 13:38:02](https://news.ycombinator.com/item?id=42549147) - [The Cognitive Style of PowerPoint [pdf]](https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf)
 * [2024-12-30, 13:35:46](https://news.ycombinator.com/item?id=42549123) - [How AI is unlocking ancient texts](https://www.nature.com/articles/d41586-024-04161-z)
@@ -29,7 +30,6 @@
 * [2024-12-29, 16:11:16](https://news.ycombinator.com/item?id=42540792) - [What is a second?](https://www.johndcook.com/blog/2024/12/29/what-exactly-is-a-second/)
 * [2024-12-29, 14:03:31](https://news.ycombinator.com/item?id=42540005) - [DuPont and \"DuPont\" connectors, and how to crimp them properly](https://www.mattmillman.com/info/crimpconnectors/dupont-and-dupont-connectors/)
 * [2024-12-29, 11:49:21](https://news.ycombinator.com/item?id=42539385) - [ASCII porn predates the Internet but it's still everywhere (2019)](https://www.vice.com/en/article/ascii-pr0n-porn-predates-the-internet-but-its-still-everywhere-rule-34/)
-* [2024-12-29, 08:24:27](https://news.ycombinator.com/item?id=42538519) - [The Invisible Tsunami Kids](https://robertvanwey.substack.com/p/the-invisible-tsunami-kids)
 
 ## [Archives](archives/index.md)
 
