@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-01-02, 19:24:26",
-      "https://news.ycombinator.com/item?id=42577778"
-    ],
-    [
-      "You are chasing the wrong goals",
-      "https://thatguypierre.notion.site/Going-with-the-seasons-16f79bbad9108044841aff64678950d8"
-    ]
-  ],
-  [
-    [
       "2025-01-02, 19:20:50",
       "https://news.ycombinator.com/item?id=42577736"
     ],
@@ -107,16 +97,6 @@
     [
       "Show HN: connet – A P2P reverse proxy with NAT traversal",
       "https://github.com/connet-dev/connet"
-    ]
-  ],
-  [
-    [
-      "2025-01-02, 16:10:08",
-      "https://news.ycombinator.com/item?id=42575648"
-    ],
-    [
-      "Show HN: I built an AI calendar to help you get stuff done – feedback wanted",
-      "https://running4-m.github.io/Ai-Calendar/description.html"
     ]
   ],
   [
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2024-12-30, 16:23:04",
+      "https://news.ycombinator.com/item?id=42550703"
+    ],
+    [
+      "The smallest Hello World program",
+      "https://blog.lohr.dev/smol-hello-world"
+    ]
+  ],
+  [
+    [
       "2024-12-30, 11:18:13",
       "https://news.ycombinator.com/item?id=42548340"
     ],
     [
       "What is DOTS?",
       "https://group47.com/what-is-dots/"
+    ]
+  ],
+  [
+    [
+      "2024-12-29, 14:30:48",
+      "https://news.ycombinator.com/item?id=42540182"
+    ],
+    [
+      "4.5M Suspected Fake Stars in GitHub",
+      "https://arxiv.org/abs/2412.13459"
     ]
   ]
 ]
