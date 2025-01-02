@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-01-02](index.md)
 
+* [2025-01-02, 08:08:15](https://news.ycombinator.com/item?id=42572662) - [MitmProxy2Swagger: Automagically reverse-engineer REST APIs](https://github.com/alufers/mitmproxy2swagger)
+* [2025-01-02, 07:46:52](https://news.ycombinator.com/item?id=42572573) - [Standard Ebooks Public Domain Day 2025 in Literature](https://standardebooks.org/blog/public-domain-day-2025)
+* [2025-01-02, 07:33:39](https://news.ycombinator.com/item?id=42572515) - [Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/)
+* [2025-01-02, 07:28:53](https://news.ycombinator.com/item?id=42572498) - [Cloud Efficiency at Netflix](https://netflixtechblog.com/cloud-efficiency-at-netflix-f2a142955f83)
 * [2025-01-02, 05:55:20](https://news.ycombinator.com/item?id=42572057) - [Zasper: A Modern and Efficient Alternative to JupyterLab, Built in Go](https://github.com/zasper-io/zasper)
 * [2025-01-02, 05:43:28](https://news.ycombinator.com/item?id=42571995) - [Autodesk deletes old forum posts suddenly](https://forums.autodesk.com/t5/net/regarding-community-content-archiving/td-p/13198106)
 * [2025-01-02, 04:33:12](https://news.ycombinator.com/item?id=42571651) - [Mercure: A WebSocket alternative for server-sent events](https://github.com/dunglas/mercure)

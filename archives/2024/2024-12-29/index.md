@@ -47,6 +47,7 @@
 * [2024-12-29, 11:49:21](https://news.ycombinator.com/item?id=42539385) - [ASCII Porn Predates the Internet but It's Still Everywhere (2019)](https://www.vice.com/en/article/ascii-pr0n-porn-predates-the-internet-but-its-still-everywhere-rule-34/)
 * [2024-12-29, 11:12:45](https://news.ycombinator.com/item?id=42539248) - [Siri mixes up baby kangaroo with Friends sitcom actor](https://mastodon.social/@gedeonm/113733251680699746)
 * [2024-12-29, 10:49:00](https://news.ycombinator.com/item?id=42539155) - [I Run LLMs Locally](https://abishekmuthian.com/how-i-run-llms-locally/)
+* [2024-12-29, 10:07:56](https://news.ycombinator.com/item?id=42538990) - [Building Apollo](https://www.construction-physics.com/p/building-apollo)
 * [2024-12-29, 09:48:33](https://news.ycombinator.com/item?id=42538914) - [We've not been trained for this: life after the Newag DRM disclosure [video]](https://media.ccc.de/v/38c3-we-ve-not-been-trained-for-this-life-after-the-newag-drm-disclosure)
 * [2024-12-29, 09:47:59](https://news.ycombinator.com/item?id=42538906) - [Breaking NATO Radio Encryption [video]](https://media.ccc.de/v/38c3-breaking-nato-radio-encryption)
 * [2024-12-29, 09:47:09](https://news.ycombinator.com/item?id=42538903) - [BioTerrorism Will Save Your Life with the 4 Thieves Vinegar Collective [video]](https://media.ccc.de/v/38c3-bioterrorism-will-save-your-life-with-the-4-thieves-vinegar-collective)
