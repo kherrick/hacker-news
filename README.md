@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-02, 08:37:43](https://news.ycombinator.com/item?id=42572770) - [Emulating the FMAdd Instruction, Part 1: 32-bit Floats](https://drilian.com/posts/2025.01.01-emulating-the-fmadd-instruction-part-1-32-bit-floats/)
 * [2025-01-02, 08:08:15](https://news.ycombinator.com/item?id=42572662) - [MitmProxy2Swagger: Automagically reverse-engineer REST APIs](https://github.com/alufers/mitmproxy2swagger)
 * [2025-01-02, 07:46:52](https://news.ycombinator.com/item?id=42572573) - [Standard Ebooks Public Domain Day 2025 in Literature](https://standardebooks.org/blog/public-domain-day-2025)
 * [2025-01-02, 07:33:39](https://news.ycombinator.com/item?id=42572515) - [Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/)
@@ -24,7 +25,6 @@
 * [2024-12-30, 22:19:05](https://news.ycombinator.com/item?id=42554161) - [RWKV Language Model](https://www.rwkv.com/)
 * [2024-12-30, 13:38:02](https://news.ycombinator.com/item?id=42549147) - [The Cognitive Style of PowerPoint [pdf]](https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf)
 * [2024-12-30, 13:35:46](https://news.ycombinator.com/item?id=42549123) - [How AI is unlocking ancient texts](https://www.nature.com/articles/d41586-024-04161-z)
-* [2024-12-29, 17:51:01](https://news.ycombinator.com/item?id=42541508) - [Developing inside a virtual machine](https://blog.disintegrator.dev/posts/dev-virtual-machine/)
 * [2024-12-29, 15:12:20](https://news.ycombinator.com/item?id=42540397) - [A web app to read Latin texts with inline translations](https://adi.earth/apps/duplex/)
 * [2024-12-29, 14:54:30](https://news.ycombinator.com/item?id=42540304) - [We know where your car is](https://www.ccc.de/de/updates/2024/wir-wissen-wo-dein-auto-steht)
 * [2024-12-29, 14:03:31](https://news.ycombinator.com/item?id=42540005) - [DuPont and \"DuPont\" connectors, and how to crimp them properly](https://www.mattmillman.com/info/crimpconnectors/dupont-and-dupont-connectors/)

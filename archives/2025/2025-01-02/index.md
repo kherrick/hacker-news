@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-02](index.md)
 
+* [2025-01-02, 08:37:43](https://news.ycombinator.com/item?id=42572770) - [Emulating the FMAdd Instruction, Part 1: 32-bit Floats](https://drilian.com/posts/2025.01.01-emulating-the-fmadd-instruction-part-1-32-bit-floats/)
 * [2025-01-02, 08:08:15](https://news.ycombinator.com/item?id=42572662) - [MitmProxy2Swagger: Automagically reverse-engineer REST APIs](https://github.com/alufers/mitmproxy2swagger)
 * [2025-01-02, 07:46:52](https://news.ycombinator.com/item?id=42572573) - [Standard Ebooks Public Domain Day 2025 in Literature](https://standardebooks.org/blog/public-domain-day-2025)
 * [2025-01-02, 07:33:39](https://news.ycombinator.com/item?id=42572515) - [Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/)
