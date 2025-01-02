@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-01-02, 09:46:37",
-      "https://news.ycombinator.com/item?id=42573088"
-    ],
-    [
-      "The biggest AI flops of 2024",
-      "https://www.technologyreview.com/2024/12/31/1109612/biggest-worst-ai-artificial-intelligence-flops-fails-2024/"
-    ]
-  ],
-  [
-    [
       "2025-01-02, 08:37:43",
       "https://news.ycombinator.com/item?id=42572770"
     ],
@@ -151,6 +141,16 @@
   ],
   [
     [
+      "2025-01-01, 20:58:04",
+      "https://news.ycombinator.com/item?id=42569236"
+    ],
+    [
+      "Rails for everything",
+      "https://literallythevoid.com/blog/rails_for_everything.html"
+    ]
+  ],
+  [
+    [
       "2025-01-01, 20:39:53",
       "https://news.ycombinator.com/item?id=42569109"
     ],
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2024-12-29, 17:51:01",
+      "https://news.ycombinator.com/item?id=42541508"
+    ],
+    [
+      "Developing inside a virtual machine",
+      "https://blog.disintegrator.dev/posts/dev-virtual-machine/"
+    ]
+  ],
+  [
+    [
       "2024-12-29, 15:12:20",
       "https://news.ycombinator.com/item?id=42540397"
     ],
@@ -287,16 +297,6 @@
     [
       "ASCII porn predates the Internet but it's still everywhere (2019)",
       "https://www.vice.com/en/article/ascii-pr0n-porn-predates-the-internet-but-its-still-everywhere-rule-34/"
-    ]
-  ],
-  [
-    [
-      "2024-12-29, 10:07:56",
-      "https://news.ycombinator.com/item?id=42538990"
-    ],
-    [
-      "Building Apollo",
-      "https://www.construction-physics.com/p/building-apollo"
     ]
   ]
 ]
