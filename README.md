@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-02, 09:46:37](https://news.ycombinator.com/item?id=42573088) - [The biggest AI flops of 2024](https://www.technologyreview.com/2024/12/31/1109612/biggest-worst-ai-artificial-intelligence-flops-fails-2024/)
 * [2025-01-02, 08:37:43](https://news.ycombinator.com/item?id=42572770) - [Emulating the FMAdd Instruction, Part 1: 32-bit Floats](https://drilian.com/posts/2025.01.01-emulating-the-fmadd-instruction-part-1-32-bit-floats/)
 * [2025-01-02, 08:08:15](https://news.ycombinator.com/item?id=42572662) - [MitmProxy2Swagger: Automagically reverse-engineer REST APIs](https://github.com/alufers/mitmproxy2swagger)
 * [2025-01-02, 07:54:28](https://news.ycombinator.com/item?id=42572602) - [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
@@ -15,6 +14,7 @@
 * [2025-01-01, 23:20:53](https://news.ycombinator.com/item?id=42570138) - [Are there more trees on Earth than stars in the Milky Way? (2016)](https://www.snopes.com/fact-check/trees-stars-milky-way/)
 * [2025-01-01, 22:41:16](https://news.ycombinator.com/item?id=42569913) - [My 25-year adventure in AI and ML](https://austinhenley.com/blog/25yearsofai.html)
 * [2025-01-01, 22:08:21](https://news.ycombinator.com/item?id=42569728) - [(Amiga) AROS Research Operating System: Summary of 2024](https://arosnews.github.io/aros-x86-summary-2024/)
+* [2025-01-01, 20:58:04](https://news.ycombinator.com/item?id=42569236) - [Rails for everything](https://literallythevoid.com/blog/rails_for_everything.html)
 * [2025-01-01, 20:39:53](https://news.ycombinator.com/item?id=42569109) - [My favourite computer ergonomics hack](https://blog.jacobvosmaer.nl/0036-beeper/)
 * [2025-01-01, 19:12:57](https://news.ycombinator.com/item?id=42568399) - [One of my papers got declined today](https://mathstodon.xyz/@tao/113721192051328193)
 * [2025-01-01, 14:27:39](https://news.ycombinator.com/item?id=42566192) - [Databases in 2024: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html)
@@ -25,11 +25,11 @@
 * [2024-12-30, 13:38:02](https://news.ycombinator.com/item?id=42549147) - [The Cognitive Style of PowerPoint [pdf]](https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf)
 * [2024-12-30, 13:35:46](https://news.ycombinator.com/item?id=42549123) - [How AI is unlocking ancient texts](https://www.nature.com/articles/d41586-024-04161-z)
 * [2024-12-30, 11:59:27](https://news.ycombinator.com/item?id=42548540) - [Replicate Old Website](https://news.ycombinator.com/item?id=42548540)
+* [2024-12-29, 17:51:01](https://news.ycombinator.com/item?id=42541508) - [Developing inside a virtual machine](https://blog.disintegrator.dev/posts/dev-virtual-machine/)
 * [2024-12-29, 15:12:20](https://news.ycombinator.com/item?id=42540397) - [A web app to read Latin texts with inline translations](https://adi.earth/apps/duplex/)
 * [2024-12-29, 14:54:30](https://news.ycombinator.com/item?id=42540304) - [We know where your car is](https://www.ccc.de/de/updates/2024/wir-wissen-wo-dein-auto-steht)
 * [2024-12-29, 14:03:31](https://news.ycombinator.com/item?id=42540005) - [DuPont and \"DuPont\" connectors, and how to crimp them properly](https://www.mattmillman.com/info/crimpconnectors/dupont-and-dupont-connectors/)
 * [2024-12-29, 11:49:21](https://news.ycombinator.com/item?id=42539385) - [ASCII porn predates the Internet but it's still everywhere (2019)](https://www.vice.com/en/article/ascii-pr0n-porn-predates-the-internet-but-its-still-everywhere-rule-34/)
-* [2024-12-29, 10:07:56](https://news.ycombinator.com/item?id=42538990) - [Building Apollo](https://www.construction-physics.com/p/building-apollo)
 
 ## [Archives](archives/index.md)
 
