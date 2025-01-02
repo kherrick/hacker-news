@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-01-02](index.md)
 
+* [2025-01-02, 17:27:28](https://news.ycombinator.com/item?id=42576443) - [UBlockOrigin GPL code being stolen by team behind Honey browser extension](https://old.reddit.com/r/uBlockOrigin/comments/1hr6xjc/ubo_quick_filters_list_being_stolen_by_team/)
 * [2025-01-02, 17:00:24](https://news.ycombinator.com/item?id=42576163) - [Distro (YC S24) Is Hiring a Business Development Representative (BDR)](https://www.ycombinator.com/companies/distro/jobs/FFzY0sx-business-development-representative)
+* [2025-01-02, 16:52:58](https://news.ycombinator.com/item?id=42576090) - [The Dogs of (Urban) War: Lessons from the IDFs' Specialized Canine Unit](https://mwi.westpoint.edu/the-dogs-of-urban-war-lessons-from-oketz-the-israel-defense-forces-specialized-canine-unit/)
 * [2025-01-02, 16:43:14](https://news.ycombinator.com/item?id=42576001) - [Palestinian Authority Suspends Al Jazeera TV in West Bank, Citing Incitement](https://www.bbc.com/news/articles/cvgmxzyrmn8o)
 * [2025-01-02, 16:42:06](https://news.ycombinator.com/item?id=42575990) - [Diagnosing an Unusual WiFi Issue](https://ryuuta.net/blog/diagnosing-an-unsual-wifi-issue/)
 * [2025-01-02, 16:36:54](https://news.ycombinator.com/item?id=42575940) - [Tesla reports 1.1% sales drop for 2024, first annual decline in at least 9 years](https://apnews.com/article/tesla-sales-2024-drop-electric-vehicles-69af17c4e606625694af8293db25b2f3)
