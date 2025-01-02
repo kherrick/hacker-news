@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-02, 14:11:03](https://news.ycombinator.com/item?id=42574545) - [Korean Assembly Speaker's adherence to procedure key to making troops stand down](https://www.aljazeera.com/news/2024/12/27/unlikely-political-thor-emerges-from-south-koreas-martial-law-crisis)
 * [2025-01-02, 13:31:29](https://news.ycombinator.com/item?id=42574237) - [The Truth About H-1B Visas It's wage theft, pure and simple](https://neuburger.substack.com/p/the-truth-about-h-1b-visas)
 * [2025-01-02, 13:15:23](https://news.ycombinator.com/item?id=42574125) - [What Is miniKanren?](http://minikanren.org/)
 * [2025-01-02, 12:33:04](https://news.ycombinator.com/item?id=42573875) - [Ask HN: Where to Work After 40?](https://news.ycombinator.com/item?id=42573875)
@@ -22,7 +23,6 @@
 * [2025-01-01, 13:15:03](https://news.ycombinator.com/item?id=42565821) - [Show HN: API Parrot – Automatically Reverse Engineer HTTP APIs](https://apiparrot.com/)
 * [2024-12-31, 07:59:54](https://news.ycombinator.com/item?id=42557255) - [Software Design Is Knowledge Building](https://olano.dev/blog/software-design-is-knowledge-building/)
 * [2024-12-30, 22:19:05](https://news.ycombinator.com/item?id=42554161) - [RWKV Language Model](https://www.rwkv.com/)
-* [2024-12-30, 21:18:19](https://news.ycombinator.com/item?id=42553657) - [The Upside of the Pentium Bug (1995) [pdf]](https://websrv.cecs.uci.edu/~papers/mpr/MPR/EDITOR/0903ed.pdf)
 * [2024-12-30, 13:38:02](https://news.ycombinator.com/item?id=42549147) - [The Cognitive Style of PowerPoint (2006) [pdf]](https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf)
 * [2024-12-30, 13:35:46](https://news.ycombinator.com/item?id=42549123) - [How AI is unlocking ancient texts](https://www.nature.com/articles/d41586-024-04161-z)
 * [2024-12-30, 13:24:36](https://news.ycombinator.com/item?id=42549039) - [Most people don't care about quality](https://shkspr.mobi/blog/2024/12/most-people-dont-care-about-quality/)

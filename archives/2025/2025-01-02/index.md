@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-02](index.md)
 
+* [2025-01-02, 14:11:03](https://news.ycombinator.com/item?id=42574545) - [Korean Assembly Speaker's adherence to procedure key to making troops stand down](https://www.aljazeera.com/news/2024/12/27/unlikely-political-thor-emerges-from-south-koreas-martial-law-crisis)
 * [2025-01-02, 13:57:09](https://news.ycombinator.com/item?id=42574420) - [Things we think will happen in 2025](https://www.vox.com/future-perfect/392241/2025-new-year-predictions-trump-musk-artificial-intelligence)
 * [2025-01-02, 13:31:29](https://news.ycombinator.com/item?id=42574237) - [The Truth About H-1B Visas It's wage theft, pure and simple](https://neuburger.substack.com/p/the-truth-about-h-1b-visas)
 * [2025-01-02, 13:17:58](https://news.ycombinator.com/item?id=42574141) - [DOS live USB image with tools for writers](https://liam-on-linux.dreamwidth.org/93734.html)
