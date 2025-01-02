@@ -10,7 +10,6 @@
 * [2025-01-02, 05:55:20](https://news.ycombinator.com/item?id=42572057) - [Zasper: A Modern and Efficient Alternative to JupyterLab, Built in Go](https://github.com/zasper-io/zasper)
 * [2025-01-02, 04:33:12](https://news.ycombinator.com/item?id=42571651) - [Mercure: A WebSocket alternative for server-sent events](https://github.com/dunglas/mercure)
 * [2025-01-02, 04:08:45](https://news.ycombinator.com/item?id=42571541) - [Bogus Software](https://minesweepergame.com/history/bogus-software.php)
-* [2025-01-02, 03:32:57](https://news.ycombinator.com/item?id=42571367) - [Blogs rot. Wikis wait](https://j3s.sh/thought/blogs-rot-wikis-wait.html)
 * [2025-01-02, 03:13:32](https://news.ycombinator.com/item?id=42571272) - [Kotaemon: An open-source RAG-based tool for chatting with your documents](https://github.com/Cinnamon/kotaemon)
 * [2025-01-01, 23:20:53](https://news.ycombinator.com/item?id=42570138) - [Are there more trees on Earth than stars in the Milky Way? (2016)](https://www.snopes.com/fact-check/trees-stars-milky-way/)
 * [2025-01-01, 22:41:16](https://news.ycombinator.com/item?id=42569913) - [My 25-year adventure in AI and ML](https://austinhenley.com/blog/25yearsofai.html)
@@ -29,6 +28,7 @@
 * [2024-12-29, 15:12:20](https://news.ycombinator.com/item?id=42540397) - [A web app to read Latin texts with inline translations](https://adi.earth/apps/duplex/)
 * [2024-12-29, 14:54:30](https://news.ycombinator.com/item?id=42540304) - [We know where your car is](https://www.ccc.de/de/updates/2024/wir-wissen-wo-dein-auto-steht)
 * [2024-12-29, 14:03:31](https://news.ycombinator.com/item?id=42540005) - [DuPont and \"DuPont\" connectors, and how to crimp them properly](https://www.mattmillman.com/info/crimpconnectors/dupont-and-dupont-connectors/)
+* [2024-12-29, 13:07:04](https://news.ycombinator.com/item?id=42539700) - [We fine-tuned Llama and got 4.2x Sonnet 3.5 accuracy for code generation](https://finecodex.com/)
 * [2024-12-29, 11:49:21](https://news.ycombinator.com/item?id=42539385) - [ASCII porn predates the Internet but it's still everywhere (2019)](https://www.vice.com/en/article/ascii-pr0n-porn-predates-the-internet-but-its-still-everywhere-rule-34/)
 
 ## [Archives](archives/index.md)
