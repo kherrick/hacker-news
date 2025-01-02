@@ -30,6 +30,7 @@
 * [2024-12-29, 17:54:27](https://news.ycombinator.com/item?id=42541536) - [Enslaved on OnlyFans: Women describe lives of torment and sexual servitude](https://www.reuters.com/investigates/special-report/onlyfans-sex-trafficking/)
 * [2024-12-29, 17:51:01](https://news.ycombinator.com/item?id=42541508) - [Developing inside a virtual machine](https://blog.disintegrator.dev/posts/dev-virtual-machine/)
 * [2024-12-29, 17:19:31](https://news.ycombinator.com/item?id=42541269) - [OnlyFans turned into an empire bent on redefining porn](https://www.reuters.com/investigates/special-report/onlyfans-sex-origins/)
+* [2024-12-29, 17:07:56](https://news.ycombinator.com/item?id=42541193) - [Populism and the World of Oz](https://americanhistory.si.edu/explore/stories/populism-and-world-oz)
 * [2024-12-29, 17:06:28](https://news.ycombinator.com/item?id=42541173) - [Toronto man creates tiny mobile homes to help unhoused people escape the cold](https://www.cbc.ca/lite/story/1.7419805)
 * [2024-12-29, 16:24:30](https://news.ycombinator.com/item?id=42540870) - [Pirate Party – a political party in Iceland (and in many other countries)](https://en.wikipedia.org/wiki/Pirate_Party_(Iceland))
 * [2024-12-29, 16:23:18](https://news.ycombinator.com/item?id=42540862) - [I Was Wrong about the Ethics Crisis (Moshe Vardi, CACM)](https://cacm.acm.org/opinion/i-was-wrong-about-the-ethics-crisis/)

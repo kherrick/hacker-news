@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-02, 15:22:08](https://news.ycombinator.com/item?id=42575189) - [HTML_slice: Enable Ruby classes the ability to generate reusable pieces of HTML](https://github.com/henrique-ft/html_slice)
 * [2025-01-02, 15:19:10](https://news.ycombinator.com/item?id=42575159) - [The Accidental Invention of the Snow Globe (2024)](https://www.smithsonianmag.com/innovation/how-an-experiment-to-amplify-light-in-hospital-operating-rooms-led-to-the-accidental-invention-of-the-snow-globe-180985742/)
 * [2025-01-02, 15:19:05](https://news.ycombinator.com/item?id=42575155) - [A Private Life – Nikolai Tolstoy Remembers Patrick O'Brian](https://www.unseenhistories.com/tolstoy-patrick-o-brian)
 * [2025-01-02, 13:15:23](https://news.ycombinator.com/item?id=42574125) - [What Is miniKanren?](http://minikanren.org/)
@@ -20,14 +21,13 @@
 * [2025-01-01, 19:12:57](https://news.ycombinator.com/item?id=42568399) - [One of my papers got declined today](https://mathstodon.xyz/@tao/113721192051328193)
 * [2025-01-01, 14:12:15](https://news.ycombinator.com/item?id=42566112) - [DOOM CAPTCHA](https://doom-captcha.vercel.app/)
 * [2025-01-01, 13:15:03](https://news.ycombinator.com/item?id=42565821) - [Show HN: API Parrot – Automatically Reverse Engineer HTTP APIs](https://apiparrot.com/)
-* [2025-01-01, 12:21:18](https://news.ycombinator.com/item?id=42565606) - [30% drop in O1-preview accuracy when Putnam problems are slightly variated](https://openreview.net/forum?id=YXnwlZe0yf&noteId=yrsGpHd0Sf)
 * [2024-12-31, 07:59:54](https://news.ycombinator.com/item?id=42557255) - [Software Design Is Knowledge Building](https://olano.dev/blog/software-design-is-knowledge-building/)
 * [2024-12-30, 22:19:05](https://news.ycombinator.com/item?id=42554161) - [RWKV Language Model](https://www.rwkv.com/)
 * [2024-12-30, 13:38:02](https://news.ycombinator.com/item?id=42549147) - [The Cognitive Style of PowerPoint (2006) [pdf]](https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf)
 * [2024-12-30, 13:35:46](https://news.ycombinator.com/item?id=42549123) - [How AI is unlocking ancient texts](https://www.nature.com/articles/d41586-024-04161-z)
 * [2024-12-30, 13:24:36](https://news.ycombinator.com/item?id=42549039) - [Most people don't care about quality](https://shkspr.mobi/blog/2024/12/most-people-dont-care-about-quality/)
 * [2024-12-29, 17:51:01](https://news.ycombinator.com/item?id=42541508) - [Developing inside a virtual machine](https://blog.disintegrator.dev/posts/dev-virtual-machine/)
-* [2024-12-29, 16:11:16](https://news.ycombinator.com/item?id=42540792) - [What is a second?](https://www.johndcook.com/blog/2024/12/29/what-exactly-is-a-second/)
+* [2024-12-29, 17:07:56](https://news.ycombinator.com/item?id=42541193) - [Populism and the World of Oz](https://americanhistory.si.edu/explore/stories/populism-and-world-oz)
 * [2024-12-29, 15:12:20](https://news.ycombinator.com/item?id=42540397) - [A web app to read Latin texts with inline translations](https://adi.earth/apps/duplex/)
 * [2024-12-29, 13:43:18](https://news.ycombinator.com/item?id=42539883) - [For four years, I photographed, indexed and classified my entire house](https://www.katalog-barbaraiweins.com)
 
