@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-02](index.md)
 
+* [2025-01-02, 19:24:26](https://news.ycombinator.com/item?id=42577778) - [You are chasing the wrong goals](https://thatguypierre.notion.site/Going-with-the-seasons-16f79bbad9108044841aff64678950d8)
+* [2025-01-02, 19:20:50](https://news.ycombinator.com/item?id=42577736) - [Advent of Code 2024 in pure SQL](http://databasearchitects.blogspot.com/2024/12/advent-of-code-2024-in-pure-sql.html)
 * [2025-01-02, 18:35:57](https://news.ycombinator.com/item?id=42577272) - [PlasticList's Advice for Food Companies](https://twitter.com/natfriedman/status/1874884925587087434)
 * [2025-01-02, 18:27:29](https://news.ycombinator.com/item?id=42577166) - [What Happens When a Whole Generation Never Grows Up?](https://www.wsj.com/economy/what-happens-when-a-whole-generation-never-grows-up-d200e9ef)
 * [2025-01-02, 18:19:48](https://news.ycombinator.com/item?id=42577076) - [Tell HN: Impassable Cloudflare Challenges Are Ruining My Browsing Experience](https://news.ycombinator.com/item?id=42577076)
@@ -29,6 +31,7 @@
 * [2025-01-02, 15:19:10](https://news.ycombinator.com/item?id=42575159) - [The Accidental Invention of the Snow Globe (2024)](https://www.smithsonianmag.com/innovation/how-an-experiment-to-amplify-light-in-hospital-operating-rooms-led-to-the-accidental-invention-of-the-snow-globe-180985742/)
 * [2025-01-02, 15:19:05](https://news.ycombinator.com/item?id=42575155) - [A Private Life – Nikolai Tolstoy Remembers Patrick O'Brian](https://www.unseenhistories.com/tolstoy-patrick-o-brian)
 * [2025-01-02, 15:12:29](https://news.ycombinator.com/item?id=42575082) - [UK's biggest dinosaur footprint site unearthed](https://www.bbc.com/news/articles/c24nzeqq1l2o)
+* [2025-01-02, 14:23:30](https://news.ycombinator.com/item?id=42574641) - [Rules for Writing Software Tutorials](https://refactoringenglish.com/chapters/rules-for-software-tutorials/)
 * [2025-01-02, 14:11:03](https://news.ycombinator.com/item?id=42574545) - [Korean Assembly Speaker's adherence to procedure key to making troops stand down](https://www.aljazeera.com/news/2024/12/27/unlikely-political-thor-emerges-from-south-koreas-martial-law-crisis)
 * [2025-01-02, 13:57:38](https://news.ycombinator.com/item?id=42574426) - [Build a Better DIY Seismometer](https://spectrum.ieee.org/build-a-better-diy-seismometer)
 * [2025-01-02, 13:57:09](https://news.ycombinator.com/item?id=42574420) - [Things we think will happen in 2025](https://www.vox.com/future-perfect/392241/2025-new-year-predictions-trump-musk-artificial-intelligence)
