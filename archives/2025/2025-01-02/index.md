@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-01-02](index.md)
 
+* [2025-01-02, 17:59:44](https://news.ycombinator.com/item?id=42576817) - [Morgan Stanley Follows Citi, BofA in Quitting Climate Group](https://www.bloomberg.com/news/articles/2025-01-02/morgan-stanley-leaves-net-zero-alliance-for-banks)
+* [2025-01-02, 17:54:19](https://news.ycombinator.com/item?id=42576755) - [TinyStories: How Small Can Language Models Be and Still Speak Coherent English?](https://arxiv.org/abs/2305.07759)
 * [2025-01-02, 17:46:39](https://news.ycombinator.com/item?id=42576647) - [Ask HN: Share your \"LLM screwed us over\" stories?](https://news.ycombinator.com/item?id=42576647)
 * [2025-01-02, 17:31:36](https://news.ycombinator.com/item?id=42576481) - [Tesla Cybertruck sales are disastrous](https://electrek.co/2025/01/02/tesla-cybertruck-sales-are-disastrous/)
 * [2025-01-02, 17:27:28](https://news.ycombinator.com/item?id=42576443) - [UBlockOrigin GPL code being stolen by team behind Honey browser extension](https://old.reddit.com/r/uBlockOrigin/comments/1hr6xjc/ubo_quick_filters_list_being_stolen_by_team/)
+* [2025-01-02, 17:08:38](https://news.ycombinator.com/item?id=42576242) - [XiangShan – open-source high performance RISC-V processor](https://github.com/OpenXiangShan/XiangShan)
 * [2025-01-02, 17:00:24](https://news.ycombinator.com/item?id=42576163) - [Distro (YC S24) Is Hiring a Business Development Representative (BDR)](https://www.ycombinator.com/companies/distro/jobs/FFzY0sx-business-development-representative)
 * [2025-01-02, 16:52:58](https://news.ycombinator.com/item?id=42576090) - [The Dogs of (Urban) War: Lessons from the IDFs' Specialized Canine Unit](https://mwi.westpoint.edu/the-dogs-of-urban-war-lessons-from-oketz-the-israel-defense-forces-specialized-canine-unit/)
 * [2025-01-02, 16:43:14](https://news.ycombinator.com/item?id=42576001) - [Palestinian Authority Suspends Al Jazeera TV in West Bank, Citing Incitement](https://www.bbc.com/news/articles/cvgmxzyrmn8o)
@@ -15,6 +18,7 @@
 * [2025-01-02, 16:32:20](https://news.ycombinator.com/item?id=42575900) - [Postgres UUIDv7 and per-back end monotonicity](https://brandur.org/fragments/uuid-v7-monotonicity)
 * [2025-01-02, 16:30:25](https://news.ycombinator.com/item?id=42575882) - [Notes on the New Deepseek v3](https://composio.dev/blog/notes-on-new-deepseek-v3/)
 * [2025-01-02, 16:27:08](https://news.ycombinator.com/item?id=42575841) - [Show HN: connet – A P2P reverse proxy with NAT traversal](https://github.com/connet-dev/connet)
+* [2025-01-02, 16:10:08](https://news.ycombinator.com/item?id=42575648) - [Show HN: I built an AI calendar to help you get stuff done – feedback wanted](https://running4-m.github.io/Ai-Calendar/description.html)
 * [2025-01-02, 16:00:09](https://news.ycombinator.com/item?id=42575537) - [Ask HN: Who is hiring? (January 2025)](https://news.ycombinator.com/item?id=42575537)
 * [2025-01-02, 16:00:09](https://news.ycombinator.com/item?id=42575535) - [Ask HN: Who wants to be hired? (January 2025)](https://news.ycombinator.com/item?id=42575535)
 * [2025-01-02, 15:22:08](https://news.ycombinator.com/item?id=42575189) - [HTML_slice: Enable Ruby classes the ability to generate reusable pieces of HTML](https://github.com/henrique-ft/html_slice)
