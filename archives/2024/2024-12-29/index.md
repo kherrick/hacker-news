@@ -41,6 +41,7 @@
 * [2024-12-29, 12:13:21](https://news.ycombinator.com/item?id=42539463) - [Tools to Consider for Your Next Django Project](https://thinkingbytes.co.uk/posts/favourite-django-tools/)
 * [2024-12-29, 12:13:02](https://news.ycombinator.com/item?id=42539462) - [I'm trying to use Bluesky without getting burned again](https://chrisholdgraf.com/blog/2024/bluesky)
 * [2024-12-29, 11:51:42](https://news.ycombinator.com/item?id=42539398) - [McKinsey Destroyed the Middle Class (2020)](https://www.theatlantic.com/ideas/archive/2020/02/how-mckinsey-destroyed-middle-class/605878/)
+* [2024-12-29, 11:49:21](https://news.ycombinator.com/item?id=42539385) - [ASCII Porn Predates the Internet but It's Still Everywhere (2019)](https://www.vice.com/en/article/ascii-pr0n-porn-predates-the-internet-but-its-still-everywhere-rule-34/)
 * [2024-12-29, 11:12:45](https://news.ycombinator.com/item?id=42539248) - [Siri mixes up baby kangaroo with Friends sitcom actor](https://mastodon.social/@gedeonm/113733251680699746)
 * [2024-12-29, 10:49:00](https://news.ycombinator.com/item?id=42539155) - [I Run LLMs Locally](https://abishekmuthian.com/how-i-run-llms-locally/)
 * [2024-12-29, 09:48:33](https://news.ycombinator.com/item?id=42538914) - [We've not been trained for this: life after the Newag DRM disclosure [video]](https://media.ccc.de/v/38c3-we-ve-not-been-trained-for-this-life-after-the-newag-drm-disclosure)

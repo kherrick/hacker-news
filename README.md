@@ -20,7 +20,6 @@
 * [2025-01-01, 12:29:29](https://news.ycombinator.com/item?id=42565638) - [RT-2: Vision-Language-Action Models (2023)](https://robotics-transformer2.github.io/)
 * [2025-01-01, 12:21:18](https://news.ycombinator.com/item?id=42565606) - [30% drop in O1-preview accuracy when Putnam problems are slightly variated](https://openreview.net/forum?id=YXnwlZe0yf&noteId=yrsGpHd0Sf)
 * [2025-01-01, 08:16:09](https://news.ycombinator.com/item?id=42564687) - [Books I Loved Reading in 2024](https://thoughts.wyounas.com/p/books-i-enjoyed-most-in-2024)
-* [2025-01-01, 05:20:49](https://news.ycombinator.com/item?id=42564144) - [Show HN: I made a screensaver that solves chess puzzles](https://screensaverchess.com)
 * [2025-01-01, 00:08:03](https://news.ycombinator.com/item?id=42562847) - [Static search trees: faster than binary search](https://curiouscoding.nl/posts/static-search-tree/)
 * [2024-12-31, 08:42:22](https://news.ycombinator.com/item?id=42557410) - [Walter Isaacson: My So-Called Writing Life (2014)](https://lehnews.wordpress.com/2014/03/25/walter-isaacson-my-so-called-writing-life/)
 * [2024-12-31, 07:59:54](https://news.ycombinator.com/item?id=42557255) - [Software Design Is Knowledge Building](https://olano.dev/blog/software-design-is-knowledge-building/)
@@ -29,6 +28,7 @@
 * [2024-12-30, 13:35:46](https://news.ycombinator.com/item?id=42549123) - [How AI is unlocking ancient texts](https://www.nature.com/articles/d41586-024-04161-z)
 * [2024-12-30, 08:32:53](https://news.ycombinator.com/item?id=42547576) - [Skipping Boring Functions in Debuggers](https://maskray.me/blog/2024-12-30-skipping-boring-functions-in-debuggers)
 * [2024-12-29, 16:11:16](https://news.ycombinator.com/item?id=42540792) - [What is a second?](https://www.johndcook.com/blog/2024/12/29/what-exactly-is-a-second/)
+* [2024-12-29, 11:49:21](https://news.ycombinator.com/item?id=42539385) - [ASCII Porn Predates the Internet but It's Still Everywhere (2019)](https://www.vice.com/en/article/ascii-pr0n-porn-predates-the-internet-but-its-still-everywhere-rule-34/)
 * [2024-12-29, 08:24:27](https://news.ycombinator.com/item?id=42538519) - [The Invisible Tsunami Kids](https://robertvanwey.substack.com/p/the-invisible-tsunami-kids)
 
 ## [Archives](archives/index.md)
