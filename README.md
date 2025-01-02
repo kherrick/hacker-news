@@ -15,7 +15,6 @@
 * [2025-01-02, 16:00:09](https://news.ycombinator.com/item?id=42575537) - [Ask HN: Who is hiring? (January 2025)](https://news.ycombinator.com/item?id=42575537)
 * [2025-01-02, 16:00:09](https://news.ycombinator.com/item?id=42575535) - [Ask HN: Who wants to be hired? (January 2025)](https://news.ycombinator.com/item?id=42575535)
 * [2025-01-02, 15:23:53](https://news.ycombinator.com/item?id=42575200) - [The Peter Principle still resonates](https://www.cbc.ca/news/canada/british-columbia/peter-principle-vancouver-history-1.7415994)
-* [2025-01-02, 15:22:08](https://news.ycombinator.com/item?id=42575189) - [HTML_slice: Enable Ruby classes the ability to generate reusable pieces of HTML](https://github.com/henrique-ft/html_slice)
 * [2025-01-02, 15:19:10](https://news.ycombinator.com/item?id=42575159) - [The accidental invention of the snow globe (2024)](https://www.smithsonianmag.com/innovation/how-an-experiment-to-amplify-light-in-hospital-operating-rooms-led-to-the-accidental-invention-of-the-snow-globe-180985742/)
 * [2025-01-02, 15:19:05](https://news.ycombinator.com/item?id=42575155) - [A Private Life – Nikolai Tolstoy Remembers Patrick O'Brian](https://www.unseenhistories.com/tolstoy-patrick-o-brian)
 * [2025-01-02, 15:12:29](https://news.ycombinator.com/item?id=42575082) - [UK's biggest dinosaur footprint site unearthed](https://www.bbc.com/news/articles/c24nzeqq1l2o)
@@ -29,6 +28,7 @@
 * [2024-12-31, 17:12:51](https://news.ycombinator.com/item?id=42560069) - [Zildjian, a 400-year-old cymbal-making company in Massachusetts](https://www.wbur.org/news/2024/12/16/400-years-zildjian-cymbals-massachusetts)
 * [2024-12-30, 22:43:29](https://news.ycombinator.com/item?id=42554371) - [Linux Context Switching Internals: Process State and Memory](https://blog.codingconfessions.com/p/linux-context-switching-internals)
 * [2024-12-30, 16:23:04](https://news.ycombinator.com/item?id=42550703) - [The smallest Hello World program](https://blog.lohr.dev/smol-hello-world)
+* [2024-12-30, 10:50:55](https://news.ycombinator.com/item?id=42548215) - [Curl with Partial Files](https://daniel.haxx.se/blog/2024/12/30/curl-with-partial-files/)
 * [2024-12-29, 14:30:48](https://news.ycombinator.com/item?id=42540182) - [4.5M Suspected Fake Stars in GitHub](https://arxiv.org/abs/2412.13459)
 
 ## [Archives](archives/index.md)
