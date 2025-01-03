@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-03, 03:52:42](https://news.ycombinator.com/item?id=42582203) - [Kuvasz-streamer: open-source CDC for Postgres for low latency replication](https://streamer.kuvasz.io/)
+* [2025-01-03, 01:57:07](https://news.ycombinator.com/item?id=42581368) - [Party Squasher, the first guest occupancy counter for homes](https://www.partysquasher.com/)
 * [2025-01-03, 01:21:57](https://news.ycombinator.com/item?id=42581119) - [Be a property owner and not a renter on the internet](https://den.dev/blog/be-a-property-owner-not-a-renter-on-the-internet/)
 * [2025-01-02, 23:00:48](https://news.ycombinator.com/item?id=42579969) - [The Alder Lake SHLX Anomaly](https://tavianator.com/2025/shlx.html)
 * [2025-01-02, 22:50:15](https://news.ycombinator.com/item?id=42579873) - [I am rich and have no idea what to do](https://vinay.sh/i-am-rich-and-have-no-idea-what-to-do-with-my-life/)
@@ -17,7 +19,6 @@
 * [2025-01-02, 16:32:20](https://news.ycombinator.com/item?id=42575900) - [Postgres UUIDv7 and per-back end monotonicity](https://brandur.org/fragments/uuid-v7-monotonicity)
 * [2025-01-02, 16:27:08](https://news.ycombinator.com/item?id=42575841) - [Show HN: connet – A P2P reverse proxy with NAT traversal](https://github.com/connet-dev/connet)
 * [2025-01-02, 16:00:09](https://news.ycombinator.com/item?id=42575537) - [Ask HN: Who is hiring? (January 2025)](https://news.ycombinator.com/item?id=42575537)
-* [2025-01-02, 15:12:29](https://news.ycombinator.com/item?id=42575082) - [UK's biggest dinosaur footprint site unearthed](https://www.bbc.com/news/articles/c24nzeqq1l2o)
 * [2025-01-02, 14:23:30](https://news.ycombinator.com/item?id=42574641) - [Rules for writing software tutorials](https://refactoringenglish.com/chapters/rules-for-software-tutorials/)
 * [2025-01-02, 13:15:23](https://news.ycombinator.com/item?id=42574125) - [What Is miniKanren?](http://minikanren.org/)
 * [2025-01-02, 05:43:28](https://news.ycombinator.com/item?id=42571995) - [Autodesk deletes old forum posts suddenly](https://forums.autodesk.com/t5/net/regarding-community-content-archiving/td-p/13198106)
@@ -26,7 +27,6 @@
 * [2024-12-31, 12:17:16](https://news.ycombinator.com/item?id=42558275) - [The Anthrobots: a new living entity with much to teach us](https://thoughtforms.life/meet-the-anthrobots-a-new-living-entity-with-much-to-teach-us/)
 * [2024-12-31, 08:42:49](https://news.ycombinator.com/item?id=42557412) - [Show HN: Made a small JavaScript benchmarking app – BenchJS](https://benchjs.com)
 * [2024-12-30, 22:43:29](https://news.ycombinator.com/item?id=42554371) - [Linux Context Switching Internals: Process State and Memory](https://blog.codingconfessions.com/p/linux-context-switching-internals)
-* [2024-12-30, 21:30:26](https://news.ycombinator.com/item?id=42553780) - [Painstaking work to conserve Ireland's oldest paper documents begins](https://www.theguardian.com/world/2024/dec/26/painstaking-work-to-conserve-irelands-oldest-paper-documents-begins)
 * [2024-12-30, 20:07:40](https://news.ycombinator.com/item?id=42552915) - [Shmøergh Hog – The making of a simple analog synth](https://www.peterzimon.com/hog/)
 * [2024-12-30, 03:45:14](https://news.ycombinator.com/item?id=42546246) - [Optimizing Ruby's JSON, Part 4](https://byroot.github.io/ruby/json/2024/12/29/optimizing-ruby-json-part-4.html)
 * [2024-12-29, 14:30:48](https://news.ycombinator.com/item?id=42540182) - [4.5M Suspected Fake Stars in GitHub](https://arxiv.org/abs/2412.13459)
