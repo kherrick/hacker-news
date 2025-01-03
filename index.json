@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-01-03, 01:57:07",
-      "https://news.ycombinator.com/item?id=42581368"
-    ],
-    [
-      "Party Squasher, the first guest occupancy counter for homes",
-      "https://www.partysquasher.com/"
-    ]
-  ],
-  [
-    [
       "2025-01-03, 01:21:57",
       "https://news.ycombinator.com/item?id=42581119"
     ],
@@ -201,16 +191,6 @@
   ],
   [
     [
-      "2025-01-02, 05:43:28",
-      "https://news.ycombinator.com/item?id=42571995"
-    ],
-    [
-      "Autodesk deletes old forum posts suddenly",
-      "https://forums.autodesk.com/t5/net/regarding-community-content-archiving/td-p/13198106"
-    ]
-  ],
-  [
-    [
       "2025-01-01, 14:12:15",
       "https://news.ycombinator.com/item?id=42566112"
     ],
@@ -227,6 +207,16 @@
     [
       "Zildjian, a 400-year-old cymbal-making company in Massachusetts",
       "https://www.wbur.org/news/2024/12/16/400-years-zildjian-cymbals-massachusetts"
+    ]
+  ],
+  [
+    [
+      "2024-12-31, 12:17:16",
+      "https://news.ycombinator.com/item?id=42558275"
+    ],
+    [
+      "The Anthrobots: a new living entity with much to teach us",
+      "https://thoughtforms.life/meet-the-anthrobots-a-new-living-entity-with-much-to-teach-us/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Optimizing Ruby's JSON, Part 4",
       "https://byroot.github.io/ruby/json/2024/12/29/optimizing-ruby-json-part-4.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-29, 14:30:48",
+      "https://news.ycombinator.com/item?id=42540182"
+    ],
+    [
+      "4.5M Suspected Fake Stars in GitHub",
+      "https://arxiv.org/abs/2412.13459"
     ]
   ]
 ]
