@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-03, 21:10:42](https://news.ycombinator.com/item?id=42589497) - [Factories in Space](https://www.factoriesinspace.com/)
 * [2025-01-03, 21:01:16](https://news.ycombinator.com/item?id=42589431) - [Extend (YC W23) is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
+* [2025-01-03, 20:12:59](https://news.ycombinator.com/item?id=42589054) - [Triangulation of a polyline with thickness (a.k.a. line strip)](https://jvernay.fr/en/blog/polyline-triangulation/)
+* [2025-01-03, 20:01:29](https://news.ycombinator.com/item?id=42588956) - [VoxelSpace: Terrain rendering algorithm in less than 20 lines of code (2020)](https://github.com/s-macke/VoxelSpace)
+* [2025-01-03, 19:35:52](https://news.ycombinator.com/item?id=42588748) - [Ask HN: Real name vs. Anonymous Username – Which do you use online and Why?](https://news.ycombinator.com/item?id=42588748)
 * [2025-01-03, 18:24:41](https://news.ycombinator.com/item?id=42588151) - [Zebrafish protein unlocks dormant genes for heart repair](https://www.hubrecht.eu/zebrafish-protein-unlocks-dormant-genes-for-heart-repair/)
 * [2025-01-03, 17:56:00](https://news.ycombinator.com/item?id=42587883) - [Two Turntables and a Microphone (2006)](https://goodfuzzysounds.com/ma/docs/funnyversion.htm)
 * [2025-01-03, 17:50:50](https://news.ycombinator.com/item?id=42587829) - [OnlyFangs has made 'World of Warcraft' into Twitch's best soap opera](https://www.rollingstone.com/culture/rs-gaming/world-of-warcraft-onlyfangs-twitch-roleplay-1235222436/)
@@ -17,7 +19,6 @@
 * [2025-01-03, 10:30:44](https://news.ycombinator.com/item?id=42584400) - [Can LLMs write better code if you keep asking them to “write better code”?](https://minimaxir.com/2025/01/write-better-code/)
 * [2025-01-03, 08:20:44](https://news.ycombinator.com/item?id=42583688) - [The Dome (2005)](https://sites.pitt.edu/~jdnorton/Goodies/Dome/)
 * [2025-01-03, 06:36:35](https://news.ycombinator.com/item?id=42583141) - [Laser mapping reveals oldest Amazonian cities, built 2500 years ago (2024)](https://www.science.org/content/article/laser-mapping-reveals-oldest-amazonian-cities-built-2500-years-ago)
-* [2025-01-03, 04:59:47](https://news.ycombinator.com/item?id=42582607) - [The Autumn of the Middle Ages](https://en.wikipedia.org/wiki/The_Autumn_of_the_Middle_Ages)
 * [2025-01-03, 03:52:42](https://news.ycombinator.com/item?id=42582203) - [Kuvasz-streamer: open-source CDC for Postgres for low latency replication](https://streamer.kuvasz.io/)
 * [2025-01-02, 23:00:48](https://news.ycombinator.com/item?id=42579969) - [The Alder Lake SHLX Anomaly](https://tavianator.com/2025/shlx.html)
 * [2025-01-02, 19:20:50](https://news.ycombinator.com/item?id=42577736) - [Advent of Code 2024 in pure SQL](http://databasearchitects.blogspot.com/2024/12/advent-of-code-2024-in-pure-sql.html)
@@ -27,7 +28,6 @@
 * [2024-12-31, 11:01:13](https://news.ycombinator.com/item?id=42557947) - [Ask HN: How to learn marketing and sales as a solo entrepreneur?](https://news.ycombinator.com/item?id=42557947)
 * [2024-12-31, 10:55:56](https://news.ycombinator.com/item?id=42557920) - [Show HN: A remake of my 2004 PDA video game](https://nicollet.net/blog/darklaga/remake.html)
 * [2024-12-31, 10:37:02](https://news.ycombinator.com/item?id=42557850) - [Gource: Software Version Control Visualization](https://github.com/acaudwell/Gource)
-* [2024-12-31, 10:00:15](https://news.ycombinator.com/item?id=42557692) - [Types are a basic tool of software design (2018)](https://www.tedinski.com/2018/12/05/types-as-design-tool.html)
 * [2024-12-30, 13:45:51](https://news.ycombinator.com/item?id=42549195) - [JPL Horizons on-line solar system data and ephemeris computation service](https://ssd.jpl.nasa.gov/horizons/)
 * [2024-12-30, 03:45:14](https://news.ycombinator.com/item?id=42546246) - [Optimizing Ruby's JSON, Part 4](https://byroot.github.io/ruby/json/2024/12/29/optimizing-ruby-json-part-4.html)
 
