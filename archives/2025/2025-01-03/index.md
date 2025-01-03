@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-03](index.md)
 
+* [2025-01-03, 18:24:27](https://news.ycombinator.com/item?id=42588146) - [Congo files criminal complaints against Apple in Europe over conflict minerals](https://www.reuters.com/sustainability/society-equity/congo-files-criminal-complaints-against-apple-europe-over-conflict-minerals-2024-12-17/)
+* [2025-01-03, 17:56:00](https://news.ycombinator.com/item?id=42587883) - [Two Turntables and a Microphone (2006)](https://goodfuzzysounds.com/ma/docs/funnyversion.htm)
 * [2025-01-03, 17:08:35](https://news.ycombinator.com/item?id=42587383) - [Adaptation to a Viscous Snowball Earth Ocean as Path to Complex Multicellularity (2021)](https://www.journals.uchicago.edu/doi/full/10.1086/716634)
 * [2025-01-03, 17:05:17](https://news.ycombinator.com/item?id=42587356) - [SpaceSim](https://pavelsevecek.github.io/)
 * [2025-01-03, 17:01:11](https://news.ycombinator.com/item?id=42587308) - [Arketa (YC S20) Is Hiring an Engineer Who Can Design](https://news.ycombinator.com/item?id=42587308)
@@ -13,6 +15,7 @@
 * [2025-01-03, 16:17:22](https://news.ycombinator.com/item?id=42586879) - [In Memoriam: Noah Gibbs](https://blog.schwad.org/schwogs/6)
 * [2025-01-03, 16:15:53](https://news.ycombinator.com/item?id=42586867) - [Let's Encrypt to end OCSP support in 2025](https://scotthelme.co.uk/lets-encrypt-to-end-ocsp-support-in-2025/)
 * [2025-01-03, 15:42:02](https://news.ycombinator.com/item?id=42586590) - [Mandelbrot deep zoom theory and practice (2021)](https://mathr.co.uk/blog/2021-05-14_deep_zoom_theory_and_practice.html)
+* [2025-01-03, 15:35:47](https://news.ycombinator.com/item?id=42586518) - [Show HN: I'm tired of sharing code using PasteBin and Slack, so I made this](https://turbogist.dev)
 * [2025-01-03, 15:10:47](https://news.ycombinator.com/item?id=42586291) - [System76 built the fastest Windows Arm PC](https://www.jeffgeerling.com/blog/2025/system76-built-fastest-windows-arm-pc)
 * [2025-01-03, 15:07:42](https://news.ycombinator.com/item?id=42586262) - [What Is To Be Done? The book that helped spark the Russian Revolution](https://onepercentrule.substack.com/p/what-is-to-be-done)
 * [2025-01-03, 14:59:45](https://news.ycombinator.com/item?id=42586184) - [Ireland has lost almost all its native forests](https://worldsensorium.com/ireland-has-lost-almost-all-of-its-native-forests-heres-how-to-bring-them-back/)
