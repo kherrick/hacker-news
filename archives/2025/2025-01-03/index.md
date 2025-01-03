@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2025-01-03](index.md)
 
 * [2025-01-03, 11:14:30](https://news.ycombinator.com/item?id=42584621) - [Court strikes down US net neutrality rules](https://www.bbc.com/news/articles/c4gl417l757o)
+* [2025-01-03, 11:12:25](https://news.ycombinator.com/item?id=42584615) - [China reduced sulphur dioxide emissions by more than two-thirds in past 15 years](https://ourworldindata.org/data-insights/china-has-reduced-sulphur-dioxide-emissions-by-more-than-two-thirds-in-the-last-15-years)
 * [2025-01-03, 11:04:27](https://news.ycombinator.com/item?id=42584566) - [Building an Agentic AI System at Doctolib](https://medium.com/doctolib/building-an-agentic-ai-system-for-healthcare-support-a-journey-into-practical-ai-implementation-0afd28d716e6)
+* [2025-01-03, 10:30:44](https://news.ycombinator.com/item?id=42584400) - [Can LLMs write better code if you keep asking them to \"write better code\"?](https://minimaxir.com/2025/01/write-better-code/)
 * [2025-01-03, 10:00:15](https://news.ycombinator.com/item?id=42584258) - [\"A Digital Prison\": Surveillance and the suppression of civil society in Serbia](https://www.amnesty.org/en/documents/eur70/8813/2024/en/)
 * [2025-01-03, 08:28:55](https://news.ycombinator.com/item?id=42583726) - [UK ISO response to Google's policy change on device fingerprinting](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2024/12/our-response-to-google-s-policy-change-on-fingerprinting/)
 * [2025-01-03, 07:42:31](https://news.ycombinator.com/item?id=42583485) - [Mars Exploration: How the CIA's Project Stargate Went to Mars [pdf]](https://www.cia.gov/readingroom/docs/cia-rdp96-00788r001900760001-9.pdf)
