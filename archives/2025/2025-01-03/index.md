@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-03](index.md)
 
 * [2025-01-03, 18:38:52](https://news.ycombinator.com/item?id=42588285) - [Overcoming Resistance to Extreme Programming](https://benjiweber.co.uk/blog/2025/01/01/overcoming-resistance-to-extreme-programming/)
+* [2025-01-03, 18:24:41](https://news.ycombinator.com/item?id=42588151) - [Zebrafish protein unlocks dormant genes for heart repair](https://www.hubrecht.eu/zebrafish-protein-unlocks-dormant-genes-for-heart-repair/)
 * [2025-01-03, 18:24:27](https://news.ycombinator.com/item?id=42588146) - [Congo files criminal complaints against Apple in Europe over conflict minerals](https://www.reuters.com/sustainability/society-equity/congo-files-criminal-complaints-against-apple-europe-over-conflict-minerals-2024-12-17/)
 * [2025-01-03, 17:56:00](https://news.ycombinator.com/item?id=42587883) - [Two Turntables and a Microphone (2006)](https://goodfuzzysounds.com/ma/docs/funnyversion.htm)
 * [2025-01-03, 17:50:50](https://news.ycombinator.com/item?id=42587829) - [OnlyFangs has made 'World of Warcraft' into Twitch's best soap opera](https://www.rollingstone.com/culture/rs-gaming/world-of-warcraft-onlyfangs-twitch-roleplay-1235222436/)
