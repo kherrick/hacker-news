@@ -28,6 +28,7 @@
 * [2024-12-30, 18:41:57](https://news.ycombinator.com/item?id=42552222) - [US credit card defaults jump to highest level since 2010](https://www.ft.com/content/c755a34d-eb97-40d1-b780-ae2e2f0e7ad9)
 * [2024-12-30, 18:37:50](https://news.ycombinator.com/item?id=42552174) - [A Tricycle of the Mind](https://marcusb.org/posts/2024/12/a-tricycle-of-the-mind/)
 * [2024-12-30, 18:24:40](https://news.ycombinator.com/item?id=42552039) - [Show HN: Control your Roku with only your hand gestures](https://github.com/BBelk/HandiRokuRemote)
+* [2024-12-30, 18:22:43](https://news.ycombinator.com/item?id=42552016) - [Why was there a wall near runway at S Korea plane crash airport?](https://www.bbc.com/news/articles/c0mvynnxzzmo)
 * [2024-12-30, 18:21:22](https://news.ycombinator.com/item?id=42552004) - [QR-style codes could replace barcodes 'within two years'](https://www.theguardian.com/technology/2024/dec/30/barcodes-could-be-superseded-by-a-more-powerful-alternative-by-the-end-of-2027)
 * [2024-12-30, 18:11:47](https://news.ycombinator.com/item?id=42551900) - [Tell HN: John Friel my father, internet pioneer and creator of QModem, has died](https://news.ycombinator.com/item?id=42551900)
 * [2024-12-30, 18:09:11](https://news.ycombinator.com/item?id=42551863) - [Performance of LLMs on Advent of Code 2024](https://www.jerpint.io/blog/advent-of-code-llms/)
