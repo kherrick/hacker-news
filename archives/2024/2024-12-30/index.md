@@ -57,6 +57,7 @@
 * [2024-12-30, 13:24:36](https://news.ycombinator.com/item?id=42549039) - [Most people don't care about quality](https://shkspr.mobi/blog/2024/12/most-people-dont-care-about-quality/)
 * [2024-12-30, 13:23:39](https://news.ycombinator.com/item?id=42549029) - [I got promoted to staff engineer twice](https://www.seangoedecke.com/staff-engineer-promotions/)
 * [2024-12-30, 12:59:14](https://news.ycombinator.com/item?id=42548914) - [The Long, Painful History of Time](https://naggum.no/lugm-time.html)
+* [2024-12-30, 12:43:23](https://news.ycombinator.com/item?id=42548798) - [If I Could Wave a Magic Wand](https://wilsoniumite.com/2024/12/30/if-i-could-wave-a-magic-wand/)
 * [2024-12-30, 12:37:47](https://news.ycombinator.com/item?id=42548763) - [Show HN: I built open source file sharing solution using AWS S3](https://s3-file-share-for-free-35n2u.kinsta.app/)
 * [2024-12-30, 12:36:13](https://news.ycombinator.com/item?id=42548751) - [Journey from Entrepreneur to Employee](https://akshay.co/posts/entrepreneur-to-employee/)
 * [2024-12-30, 12:31:39](https://news.ycombinator.com/item?id=42548719) - [Passkey technology is elegant, but it's most definitely not usable security](https://arstechnica.com/security/2024/12/passkey-technology-is-elegant-but-its-most-definitely-not-usable-security/)
