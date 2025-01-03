@@ -3,7 +3,6 @@
 * [2025-01-03, 06:26:21](https://news.ycombinator.com/item?id=42583093) - [Covid 5 years later: Learning from a pandemic many are forgetting](https://www.science.org/content/article/covid-5-years-later-learning-pandemic-many-are-forgetting)
 * [2025-01-03, 06:23:51](https://news.ycombinator.com/item?id=42583086) - [Digital gardens people maintain outside the \"Big Tech\" walled gardens](https://blogscroll.com/)
 * [2025-01-03, 03:52:42](https://news.ycombinator.com/item?id=42582203) - [Kuvasz-streamer: open-source CDC for Postgres for low latency replication](https://streamer.kuvasz.io/)
-* [2025-01-03, 01:57:07](https://news.ycombinator.com/item?id=42581368) - [Party Squasher, the first guest occupancy counter for homes](https://www.partysquasher.com/)
 * [2025-01-03, 01:21:57](https://news.ycombinator.com/item?id=42581119) - [Be a property owner and not a renter on the internet](https://den.dev/blog/be-a-property-owner-not-a-renter-on-the-internet/)
 * [2025-01-02, 23:00:48](https://news.ycombinator.com/item?id=42579969) - [The Alder Lake SHLX Anomaly](https://tavianator.com/2025/shlx.html)
 * [2025-01-02, 22:50:15](https://news.ycombinator.com/item?id=42579873) - [I am rich and have no idea what to do](https://vinay.sh/i-am-rich-and-have-no-idea-what-to-do-with-my-life/)
@@ -20,9 +19,9 @@
 * [2025-01-02, 16:00:09](https://news.ycombinator.com/item?id=42575537) - [Ask HN: Who is hiring? (January 2025)](https://news.ycombinator.com/item?id=42575537)
 * [2025-01-02, 14:23:30](https://news.ycombinator.com/item?id=42574641) - [Rules for writing software tutorials](https://refactoringenglish.com/chapters/rules-for-software-tutorials/)
 * [2025-01-02, 13:15:23](https://news.ycombinator.com/item?id=42574125) - [What Is miniKanren?](http://minikanren.org/)
-* [2025-01-02, 05:43:28](https://news.ycombinator.com/item?id=42571995) - [Autodesk deletes old forum posts suddenly](https://forums.autodesk.com/t5/net/regarding-community-content-archiving/td-p/13198106)
 * [2025-01-01, 14:12:15](https://news.ycombinator.com/item?id=42566112) - [DOOM CAPTCHA](https://doom-captcha.vercel.app/)
 * [2024-12-31, 17:12:51](https://news.ycombinator.com/item?id=42560069) - [Zildjian, a 400-year-old cymbal-making company in Massachusetts](https://www.wbur.org/news/2024/12/16/400-years-zildjian-cymbals-massachusetts)
+* [2024-12-31, 12:17:16](https://news.ycombinator.com/item?id=42558275) - [The Anthrobots: a new living entity with much to teach us](https://thoughtforms.life/meet-the-anthrobots-a-new-living-entity-with-much-to-teach-us/)
 * [2024-12-31, 11:01:13](https://news.ycombinator.com/item?id=42557947) - [Ask HN: How to learn marketing and sales as a solo entrepreneur?](https://news.ycombinator.com/item?id=42557947)
 * [2024-12-31, 10:51:33](https://news.ycombinator.com/item?id=42557904) - [Multispectral imaging through scattering media and around corners](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-27-48786&id=566035)
 * [2024-12-31, 08:42:49](https://news.ycombinator.com/item?id=42557412) - [Show HN: Made a small JavaScript benchmarking app – BenchJS](https://benchjs.com)
@@ -30,6 +29,7 @@
 * [2024-12-30, 20:07:40](https://news.ycombinator.com/item?id=42552915) - [Shmøergh Hog – The making of a simple analog synth](https://www.peterzimon.com/hog/)
 * [2024-12-30, 13:45:51](https://news.ycombinator.com/item?id=42549195) - [JPL Horizons on-line solar system data and ephemeris computation service](https://ssd.jpl.nasa.gov/horizons/)
 * [2024-12-30, 03:45:14](https://news.ycombinator.com/item?id=42546246) - [Optimizing Ruby's JSON, Part 4](https://byroot.github.io/ruby/json/2024/12/29/optimizing-ruby-json-part-4.html)
+* [2024-12-29, 14:30:48](https://news.ycombinator.com/item?id=42540182) - [4.5M Suspected Fake Stars in GitHub](https://arxiv.org/abs/2412.13459)
 
 ## [Archives](archives/index.md)
 
