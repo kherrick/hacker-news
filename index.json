@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-03, 08:28:55",
+      "https://news.ycombinator.com/item?id=42583726"
+    ],
+    [
+      "UK ISO response to Google's policy change on device fingerprinting",
+      "https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2024/12/our-response-to-google-s-policy-change-on-fingerprinting/"
+    ]
+  ],
+  [
+    [
+      "2025-01-03, 07:42:31",
+      "https://news.ycombinator.com/item?id=42583485"
+    ],
+    [
+      "Mars Exploration: How the CIA's Project Stargate Went to Mars [pdf]",
+      "https://www.cia.gov/readingroom/docs/cia-rdp96-00788r001900760001-9.pdf"
+    ]
+  ],
+  [
+    [
       "2025-01-03, 06:23:51",
       "https://news.ycombinator.com/item?id=42583086"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-01-02, 16:27:08",
-      "https://news.ycombinator.com/item?id=42575841"
-    ],
-    [
-      "Show HN: connet – A P2P reverse proxy with NAT traversal",
-      "https://github.com/connet-dev/connet"
-    ]
-  ],
-  [
-    [
       "2025-01-02, 16:00:09",
       "https://news.ycombinator.com/item?id=42575537"
     ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2024-12-30, 22:43:29",
-      "https://news.ycombinator.com/item?id=42554371"
-    ],
-    [
-      "Linux Context Switching Internals: Process State and Memory",
-      "https://blog.codingconfessions.com/p/linux-context-switching-internals"
-    ]
-  ],
-  [
-    [
       "2024-12-30, 20:07:40",
       "https://news.ycombinator.com/item?id=42552915"
     ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2024-12-30, 18:22:43",
+      "https://news.ycombinator.com/item?id=42552016"
+    ],
+    [
+      "Why was there a wall near runway at S Korea plane crash airport?",
+      "https://www.bbc.com/news/articles/c0mvynnxzzmo"
+    ]
+  ],
+  [
+    [
       "2024-12-30, 13:45:51",
       "https://news.ycombinator.com/item?id=42549195"
     ],
@@ -287,16 +297,6 @@
     [
       "Optimizing Ruby's JSON, Part 4",
       "https://byroot.github.io/ruby/json/2024/12/29/optimizing-ruby-json-part-4.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-29, 14:30:48",
-      "https://news.ycombinator.com/item?id=42540182"
-    ],
-    [
-      "4.5M Suspected Fake Stars in GitHub",
-      "https://arxiv.org/abs/2412.13459"
     ]
   ]
 ]
