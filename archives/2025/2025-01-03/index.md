@@ -20,6 +20,7 @@
 * [2025-01-03, 12:03:42](https://news.ycombinator.com/item?id=42584900) - [A free, unlimited online PDF converter with Privacy focus](https://quicklypdf.com)
 * [2025-01-03, 12:00:41](https://news.ycombinator.com/item?id=42584874) - [CoinTracker (YC W18) hiring product engineer to solve crypto accounting](https://jobs.ashbyhq.com/cointracker/c039fbb9-2ed7-4a68-bc7a-c6f929d5d5e5)
 * [2025-01-03, 11:55:55](https://news.ycombinator.com/item?id=42584856) - [Apple auto-opts everyone into having their photos analyzed by AI for landmarks](https://www.theregister.com/2025/01/03/apple_enhanced_visual_search/)
+* [2025-01-03, 11:38:49](https://news.ycombinator.com/item?id=42584750) - [The Evolution of SRE at Google](https://www.usenix.org/publications/loginonline/evolution-sre-google)
 * [2025-01-03, 11:14:30](https://news.ycombinator.com/item?id=42584621) - [Court strikes down US net neutrality rules](https://www.bbc.com/news/articles/c4gl417l757o)
 * [2025-01-03, 11:12:25](https://news.ycombinator.com/item?id=42584615) - [China reduced sulphur dioxide emissions by more than two-thirds in past 15 years](https://ourworldindata.org/data-insights/china-has-reduced-sulphur-dioxide-emissions-by-more-than-two-thirds-in-the-last-15-years)
 * [2025-01-03, 11:09:21](https://news.ycombinator.com/item?id=42584599) - [K/Simple in OCaml](https://git.uwaterloo.ca/lseo/ksimple_ml)

@@ -33,6 +33,7 @@
 * [2024-12-31, 13:09:57](https://news.ycombinator.com/item?id=42558476) - [Show HN: RSS.Beauty – Make Your RSS Beautiful](https://rss.beauty/)
 * [2024-12-31, 12:57:20](https://news.ycombinator.com/item?id=42558422) - [Benchmarking RSA Key Generation](https://words.filippo.io/dispatches/rsa-keygen-bench/)
 * [2024-12-31, 12:17:16](https://news.ycombinator.com/item?id=42558275) - [The Anthrobots: a new living entity with much to teach us](https://thoughtforms.life/meet-the-anthrobots-a-new-living-entity-with-much-to-teach-us/)
+* [2024-12-31, 11:44:14](https://news.ycombinator.com/item?id=42558143) - [Show HN: Org-Supertag](https://github.com/yibie/org-supertag)
 * [2024-12-31, 11:44:11](https://news.ycombinator.com/item?id=42558142) - [The British Empire Was Much Worse Than You Realize](https://www.newyorker.com/magazine/2022/04/04/the-british-empire-was-much-worse-than-you-realize-caroline-elkinss-legacy-of-violence)
 * [2024-12-31, 11:19:17](https://news.ycombinator.com/item?id=42558037) - [Darktable 5.0.0 Released](https://www.darktable.org/2024/12/darktable-5.0.0-released/)
 * [2024-12-31, 11:17:25](https://news.ycombinator.com/item?id=42558027) - [Java's SimpleDateFormat: YYYY vs. Yyyy](http://dangoldin.com/2019/01/06/javas-simpledateformat-yyyy-vs-yyyy/)
