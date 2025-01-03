@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-03, 17:08:35](https://news.ycombinator.com/item?id=42587383) - [Adaptation to a Viscous Snowball Earth Ocean as Path to Complex Multicellularity (2021)](https://www.journals.uchicago.edu/doi/full/10.1086/716634)
+* [2025-01-03, 17:05:17](https://news.ycombinator.com/item?id=42587356) - [SpaceSim](https://pavelsevecek.github.io/)
 * [2025-01-03, 17:01:11](https://news.ycombinator.com/item?id=42587308) - [Arketa (YC S20) Is Hiring an Engineer Who Can Design](https://news.ycombinator.com/item?id=42587308)
-* [2025-01-03, 16:52:26](https://news.ycombinator.com/item?id=42587222) - [Harnessing 3200 Gbps Network: A Journey with RDMA, EFA, and Libfabric](https://le.qun.ch/en/blog/2024/12/25/libfabric-efa-0-intro/)
 * [2025-01-03, 16:31:00](https://news.ycombinator.com/item?id=42587014) - [Savoy Style vs. Hollywood Style: A Fight to the Death (Hopefully?) (2011)](https://swungover.wordpress.com/2011/06/15/savoy-style-vs-hollywood-style-a-fight-to-the-death-hopefully/)
 * [2025-01-03, 16:23:49](https://news.ycombinator.com/item?id=42586933) - [PWCT2: Programming Without Coding Technology – Written in Ring](https://github.com/PWCT/PWCT2)
 * [2025-01-03, 16:17:22](https://news.ycombinator.com/item?id=42586879) - [In Memoriam: Noah Gibbs](https://blog.schwad.org/schwogs/6)
@@ -24,7 +24,7 @@
 * [2024-12-31, 12:57:20](https://news.ycombinator.com/item?id=42558422) - [Benchmarking RSA Key Generation](https://words.filippo.io/dispatches/rsa-keygen-bench/)
 * [2024-12-31, 11:01:13](https://news.ycombinator.com/item?id=42557947) - [Ask HN: How to learn marketing and sales as a solo entrepreneur?](https://news.ycombinator.com/item?id=42557947)
 * [2024-12-31, 10:37:02](https://news.ycombinator.com/item?id=42557850) - [Gource: Software Version Control Visualization](https://github.com/acaudwell/Gource)
-* [2024-12-31, 10:00:15](https://news.ycombinator.com/item?id=42557692) - [Types are the basic tool of software design](https://www.tedinski.com/2018/12/05/types-as-design-tool.html)
+* [2024-12-31, 10:00:15](https://news.ycombinator.com/item?id=42557692) - [Types are the basic tool of software design (2018)](https://www.tedinski.com/2018/12/05/types-as-design-tool.html)
 * [2024-12-30, 20:50:34](https://news.ycombinator.com/item?id=42553360) - [A Puzzle about a Calculator](https://aperiodical.com/2024/12/a-puzzle-about-a-calculator/)
 * [2024-12-30, 20:07:40](https://news.ycombinator.com/item?id=42552915) - [Shmøergh Hog – The making of a simple analog synth](https://www.peterzimon.com/hog/)
 * [2024-12-30, 13:45:51](https://news.ycombinator.com/item?id=42549195) - [JPL Horizons on-line solar system data and ephemeris computation service](https://ssd.jpl.nasa.gov/horizons/)
