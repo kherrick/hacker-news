@@ -1,22 +1,42 @@
 [
   [
     [
-      "2025-01-03, 21:10:42",
-      "https://news.ycombinator.com/item?id=42589497"
-    ],
-    [
-      "Factories in Space",
-      "https://www.factoriesinspace.com/"
-    ]
-  ],
-  [
-    [
       "2025-01-03, 21:01:16",
       "https://news.ycombinator.com/item?id=42589431"
     ],
     [
       "Extend (YC W23) is hiring engineers to build LLM document processing",
       "https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37"
+    ]
+  ],
+  [
+    [
+      "2025-01-03, 20:12:59",
+      "https://news.ycombinator.com/item?id=42589054"
+    ],
+    [
+      "Triangulation of a polyline with thickness (a.k.a. line strip)",
+      "https://jvernay.fr/en/blog/polyline-triangulation/"
+    ]
+  ],
+  [
+    [
+      "2025-01-03, 20:01:29",
+      "https://news.ycombinator.com/item?id=42588956"
+    ],
+    [
+      "VoxelSpace: Terrain rendering algorithm in less than 20 lines of code (2020)",
+      "https://github.com/s-macke/VoxelSpace"
+    ]
+  ],
+  [
+    [
+      "2025-01-03, 19:35:52",
+      "https://news.ycombinator.com/item?id=42588748"
+    ],
+    [
+      "Ask HN: Real name vs. Anonymous Username – Which do you use online and Why?",
+      "https://news.ycombinator.com/item?id=42588748"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-01-03, 04:59:47",
-      "https://news.ycombinator.com/item?id=42582607"
-    ],
-    [
-      "The Autumn of the Middle Ages",
-      "https://en.wikipedia.org/wiki/The_Autumn_of_the_Middle_Ages"
-    ]
-  ],
-  [
-    [
       "2025-01-03, 03:52:42",
       "https://news.ycombinator.com/item?id=42582203"
     ],
@@ -267,16 +277,6 @@
     [
       "Gource: Software Version Control Visualization",
       "https://github.com/acaudwell/Gource"
-    ]
-  ],
-  [
-    [
-      "2024-12-31, 10:00:15",
-      "https://news.ycombinator.com/item?id=42557692"
-    ],
-    [
-      "Types are a basic tool of software design (2018)",
-      "https://www.tedinski.com/2018/12/05/types-as-design-tool.html"
     ]
   ],
   [
