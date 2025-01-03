@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-03](index.md)
 
+* [2025-01-03, 16:17:22](https://news.ycombinator.com/item?id=42586879) - [In Memoriam: Noah Gibbs](https://blog.schwad.org/schwogs/6)
+* [2025-01-03, 16:15:53](https://news.ycombinator.com/item?id=42586867) - [Let's Encrypt to end OCSP support in 2025](https://scotthelme.co.uk/lets-encrypt-to-end-ocsp-support-in-2025/)
 * [2025-01-03, 15:42:02](https://news.ycombinator.com/item?id=42586590) - [Mandelbrot deep zoom theory and practice (2021)](https://mathr.co.uk/blog/2021-05-14_deep_zoom_theory_and_practice.html)
 * [2025-01-03, 15:10:47](https://news.ycombinator.com/item?id=42586291) - [System76 built the fastest Windows Arm PC](https://www.jeffgeerling.com/blog/2025/system76-built-fastest-windows-arm-pc)
 * [2025-01-03, 15:07:42](https://news.ycombinator.com/item?id=42586262) - [What Is To Be Done? The book that helped spark the Russian Revolution](https://onepercentrule.substack.com/p/what-is-to-be-done)
@@ -20,6 +22,7 @@
 * [2025-01-03, 10:30:44](https://news.ycombinator.com/item?id=42584400) - [Can LLMs write better code if you keep asking them to \"write better code\"?](https://minimaxir.com/2025/01/write-better-code/)
 * [2025-01-03, 10:00:15](https://news.ycombinator.com/item?id=42584258) - [\"A Digital Prison\": Surveillance and the suppression of civil society in Serbia](https://www.amnesty.org/en/documents/eur70/8813/2024/en/)
 * [2025-01-03, 08:28:55](https://news.ycombinator.com/item?id=42583726) - [UK ISO response to Google's policy change on device fingerprinting](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2024/12/our-response-to-google-s-policy-change-on-fingerprinting/)
+* [2025-01-03, 08:20:44](https://news.ycombinator.com/item?id=42583688) - [The Dome (2005)](https://sites.pitt.edu/~jdnorton/Goodies/Dome/)
 * [2025-01-03, 07:42:31](https://news.ycombinator.com/item?id=42583485) - [Mars Exploration: How the CIA's Project Stargate Went to Mars [pdf]](https://www.cia.gov/readingroom/docs/cia-rdp96-00788r001900760001-9.pdf)
 * [2025-01-03, 07:07:14](https://news.ycombinator.com/item?id=42583297) - [Why Canada Should Join the EU](https://www.economist.com/europe/2025/01/02/why-canada-should-join-the-eu)
 * [2025-01-03, 06:36:35](https://news.ycombinator.com/item?id=42583141) - [Laser mapping reveals oldest Amazonian cities, built 2500 years ago](https://www.science.org/content/article/laser-mapping-reveals-oldest-amazonian-cities-built-2500-years-ago)
