@@ -2,6 +2,7 @@
 
 * [2025-01-03, 12:03:42](https://news.ycombinator.com/item?id=42584900) - [A free, unlimited online PDF converter with Privacy focus](https://quicklypdf.com)
 * [2025-01-03, 12:00:41](https://news.ycombinator.com/item?id=42584874) - [CoinTracker (YC W18) hiring product engineer to solve crypto accounting](https://jobs.ashbyhq.com/cointracker/c039fbb9-2ed7-4a68-bc7a-c6f929d5d5e5)
+* [2025-01-03, 11:55:55](https://news.ycombinator.com/item?id=42584856) - [Apple auto-opts everyone into having their photos analyzed by AI for landmarks](https://www.theregister.com/2025/01/03/apple_enhanced_visual_search/)
 * [2025-01-03, 11:14:30](https://news.ycombinator.com/item?id=42584621) - [Court strikes down US net neutrality rules](https://www.bbc.com/news/articles/c4gl417l757o)
 * [2025-01-03, 11:12:25](https://news.ycombinator.com/item?id=42584615) - [China reduced sulphur dioxide emissions by more than two-thirds in past 15 years](https://ourworldindata.org/data-insights/china-has-reduced-sulphur-dioxide-emissions-by-more-than-two-thirds-in-the-last-15-years)
 * [2025-01-03, 10:30:44](https://news.ycombinator.com/item?id=42584400) - [Can LLMs write better code if you keep asking them to \"write better code\"?](https://minimaxir.com/2025/01/write-better-code/)
@@ -14,7 +15,6 @@
 * [2025-01-02, 22:08:42](https://news.ycombinator.com/item?id=42579472) - [iTerm2 critical security release](https://iterm2.com/downloads/stable/iTerm2-3_5_11.changelog)
 * [2025-01-02, 19:20:50](https://news.ycombinator.com/item?id=42577736) - [Advent of Code 2024 in pure SQL](http://databasearchitects.blogspot.com/2024/12/advent-of-code-2024-in-pure-sql.html)
 * [2025-01-02, 17:54:19](https://news.ycombinator.com/item?id=42576755) - [TinyStories: How Small Can Language Models Be and Still Speak Coherent English? (2023)](https://arxiv.org/abs/2305.07759)
-* [2025-01-02, 17:27:28](https://news.ycombinator.com/item?id=42576443) - [uBlock Origin GPL code being stolen by team behind honey browser extension](https://old.reddit.com/r/uBlockOrigin/comments/1hr6xjc/ubo_quick_filters_list_being_stolen_by_team/)
 * [2025-01-02, 17:08:38](https://news.ycombinator.com/item?id=42576242) - [XiangShan – open-source high performance RISC-V processor](https://github.com/OpenXiangShan/XiangShan)
 * [2025-01-02, 16:42:06](https://news.ycombinator.com/item?id=42575990) - [Diagnosing an Unusual WiFi Issue (2020)](https://ryuuta.net/blog/diagnosing-an-unsual-wifi-issue/)
 * [2025-01-02, 16:32:20](https://news.ycombinator.com/item?id=42575900) - [Postgres UUIDv7 and per-back end monotonicity](https://brandur.org/fragments/uuid-v7-monotonicity)
