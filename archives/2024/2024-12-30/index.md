@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-30](index.md)
 
+* [2024-12-30, 23:18:50](https://news.ycombinator.com/item?id=42554722) - [Emulating 6502](https://zserge.com/posts/6502/)
 * [2024-12-30, 22:58:26](https://news.ycombinator.com/item?id=42554521) - [Lightstorm: Minimalistic Ruby Compiler](https://blog.llvm.org/posts/2024-12-03-minimalistic-ruby-compiler/)
 * [2024-12-30, 22:49:33](https://news.ycombinator.com/item?id=42554420) - [Cook: Colliding with the SHA prefix of Linux's initial Git commit](https://lwn.net/Articles/1003797/)
 * [2024-12-30, 22:49:33](https://news.ycombinator.com/item?id=42554420) - [Colliding with the SHA prefix of Linux's initial Git commit](https://people.kernel.org/kees/colliding-with-the-sha-prefix-of-linuxs-initial-git-commit)
