@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-03, 22:49:08",
+      "https://news.ycombinator.com/item?id=42590322"
+    ],
+    [
+      "A path to O1 open source",
+      "https://arxiv.org/abs/2412.14135"
+    ]
+  ],
+  [
+    [
       "2025-01-03, 21:54:42",
       "https://news.ycombinator.com/item?id=42589863"
     ],
@@ -277,16 +287,6 @@
     [
       "Gource: Software Version Control Visualization",
       "https://github.com/acaudwell/Gource"
-    ]
-  ],
-  [
-    [
-      "2024-12-30, 13:45:51",
-      "https://news.ycombinator.com/item?id=42549195"
-    ],
-    [
-      "JPL Horizons on-line solar system data and ephemeris computation service",
-      "https://ssd.jpl.nasa.gov/horizons/"
     ]
   ],
   [
