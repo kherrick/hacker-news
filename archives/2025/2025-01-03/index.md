@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-03](index.md)
 
+* [2025-01-03, 15:07:42](https://news.ycombinator.com/item?id=42586262) - [What Is To Be Done? The book that helped spark the Russian Revolution](https://onepercentrule.substack.com/p/what-is-to-be-done)
+* [2025-01-03, 14:59:45](https://news.ycombinator.com/item?id=42586184) - [Ireland has lost almost all its native forests](https://worldsensorium.com/ireland-has-lost-almost-all-of-its-native-forests-heres-how-to-bring-them-back/)
 * [2025-01-03, 13:15:22](https://news.ycombinator.com/item?id=42585377) - [Time to check if you ran any of these 33 malicious Chrome extensions](https://arstechnica.com/security/2025/01/dozens-of-backdoored-chrome-extensions-discovered-on-2-6-million-devices/)
 * [2025-01-03, 12:03:42](https://news.ycombinator.com/item?id=42584900) - [A free, unlimited online PDF converter with Privacy focus](https://quicklypdf.com)
 * [2025-01-03, 12:00:41](https://news.ycombinator.com/item?id=42584874) - [CoinTracker (YC W18) hiring product engineer to solve crypto accounting](https://jobs.ashbyhq.com/cointracker/c039fbb9-2ed7-4a68-bc7a-c6f929d5d5e5)
