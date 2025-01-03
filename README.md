@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-03, 01:21:57](https://news.ycombinator.com/item?id=42581119) - [Be a property owner and not a renter on the internet](https://den.dev/blog/be-a-property-owner-not-a-renter-on-the-internet/)
-* [2025-01-03, 00:25:57](https://news.ycombinator.com/item?id=42580659) - [I still don't think companies serve you ads based on your microphone](https://simonwillison.net/2025/Jan/2/they-spy-on-you-but-not-like-that/)
 * [2025-01-02, 23:00:48](https://news.ycombinator.com/item?id=42579969) - [The Alder Lake SHLX Anomaly](https://tavianator.com/2025/shlx.html)
 * [2025-01-02, 22:50:15](https://news.ycombinator.com/item?id=42579873) - [I am rich and have no idea what to do](https://vinay.sh/i-am-rich-and-have-no-idea-what-to-do-with-my-life/)
 * [2025-01-02, 22:08:42](https://news.ycombinator.com/item?id=42579472) - [iTerm2 critical security release](https://iterm2.com/downloads/stable/iTerm2-3_5_11.changelog)
@@ -25,6 +24,7 @@
 * [2025-01-01, 14:12:15](https://news.ycombinator.com/item?id=42566112) - [DOOM CAPTCHA](https://doom-captcha.vercel.app/)
 * [2024-12-31, 17:12:51](https://news.ycombinator.com/item?id=42560069) - [Zildjian, a 400-year-old cymbal-making company in Massachusetts](https://www.wbur.org/news/2024/12/16/400-years-zildjian-cymbals-massachusetts)
 * [2024-12-31, 12:17:16](https://news.ycombinator.com/item?id=42558275) - [The Anthrobots: a new living entity with much to teach us](https://thoughtforms.life/meet-the-anthrobots-a-new-living-entity-with-much-to-teach-us/)
+* [2024-12-31, 08:42:49](https://news.ycombinator.com/item?id=42557412) - [Show HN: Made a small JavaScript benchmarking app – BenchJS](https://benchjs.com)
 * [2024-12-30, 22:43:29](https://news.ycombinator.com/item?id=42554371) - [Linux Context Switching Internals: Process State and Memory](https://blog.codingconfessions.com/p/linux-context-switching-internals)
 * [2024-12-30, 20:07:40](https://news.ycombinator.com/item?id=42552915) - [Shmøergh Hog – The making of a simple analog synth](https://www.peterzimon.com/hog/)
 * [2024-12-30, 08:32:14](https://news.ycombinator.com/item?id=42547574) - [World3, the Public Beta (2012)](http://bit-player.org/2012/world3-the-public-beta)
