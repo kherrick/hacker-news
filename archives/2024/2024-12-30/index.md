@@ -17,6 +17,7 @@
 * [2024-12-30, 21:30:26](https://news.ycombinator.com/item?id=42553780) - [Painstaking work to conserve Ireland's oldest paper documents begins](https://www.theguardian.com/world/2024/dec/26/painstaking-work-to-conserve-irelands-oldest-paper-documents-begins)
 * [2024-12-30, 21:20:52](https://news.ycombinator.com/item?id=42553682) - [\"A Course of Pure Mathematics\" – G. H. Hardy (1921) [pdf]](https://www.gutenberg.org/files/38769/38769-pdf.pdf)
 * [2024-12-30, 21:18:19](https://news.ycombinator.com/item?id=42553657) - [The Upside of the Pentium Bug (1995) [pdf]](https://websrv.cecs.uci.edu/~papers/mpr/MPR/EDITOR/0903ed.pdf)
+* [2024-12-30, 20:50:34](https://news.ycombinator.com/item?id=42553360) - [A Puzzle about a Calculator](https://aperiodical.com/2024/12/a-puzzle-about-a-calculator/)
 * [2024-12-30, 20:46:38](https://news.ycombinator.com/item?id=42553313) - [Jack Elam and the Fly in 'Once Upon a Time in the West'](https://pov.imv.au.dk/Issue_24/section_1/artc4A.html)
 * [2024-12-30, 20:12:32](https://news.ycombinator.com/item?id=42552976) - [Database mocks are just not worth it](https://www.shayon.dev/post/2024/365/database-mocks-are-just-not-worth-it/)
 * [2024-12-30, 20:07:40](https://news.ycombinator.com/item?id=42552915) - [Shmøergh Hog – The making of a simple analog synth](https://www.peterzimon.com/hog/)
