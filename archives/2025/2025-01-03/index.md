@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-03](index.md)
 
+* [2025-01-03, 17:01:11](https://news.ycombinator.com/item?id=42587308) - [Arketa (YC S20) Is Hiring an Engineer Who Can Design](https://news.ycombinator.com/item?id=42587308)
 * [2025-01-03, 16:31:00](https://news.ycombinator.com/item?id=42587014) - [Savoy Style vs. Hollywood Style: A Fight to the Death (Hopefully?) (2011)](https://swungover.wordpress.com/2011/06/15/savoy-style-vs-hollywood-style-a-fight-to-the-death-hopefully/)
 * [2025-01-03, 16:23:49](https://news.ycombinator.com/item?id=42586933) - [PWCT2: Programming Without Coding Technology – Written in Ring](https://github.com/PWCT/PWCT2)
 * [2025-01-03, 16:17:22](https://news.ycombinator.com/item?id=42586879) - [In Memoriam: Noah Gibbs](https://blog.schwad.org/schwogs/6)

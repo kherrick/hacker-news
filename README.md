@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-03, 17:01:11](https://news.ycombinator.com/item?id=42587308) - [Arketa (YC S20) Is Hiring an Engineer Who Can Design](https://news.ycombinator.com/item?id=42587308)
 * [2025-01-03, 16:31:00](https://news.ycombinator.com/item?id=42587014) - [Savoy Style vs. Hollywood Style: A Fight to the Death (Hopefully?) (2011)](https://swungover.wordpress.com/2011/06/15/savoy-style-vs-hollywood-style-a-fight-to-the-death-hopefully/)
 * [2025-01-03, 16:23:49](https://news.ycombinator.com/item?id=42586933) - [PWCT2: Programming Without Coding Technology – Written in Ring](https://github.com/PWCT/PWCT2)
 * [2025-01-03, 16:17:22](https://news.ycombinator.com/item?id=42586879) - [In Memoriam: Noah Gibbs](https://blog.schwad.org/schwogs/6)
 * [2025-01-03, 15:42:02](https://news.ycombinator.com/item?id=42586590) - [Mandelbrot deep zoom theory and practice (2021)](https://mathr.co.uk/blog/2021-05-14_deep_zoom_theory_and_practice.html)
 * [2025-01-03, 15:10:47](https://news.ycombinator.com/item?id=42586291) - [System76 built the fastest Windows Arm PC](https://www.jeffgeerling.com/blog/2025/system76-built-fastest-windows-arm-pc)
 * [2025-01-03, 15:07:42](https://news.ycombinator.com/item?id=42586262) - [What Is To Be Done? The book that helped spark the Russian Revolution](https://onepercentrule.substack.com/p/what-is-to-be-done)
-* [2025-01-03, 12:00:41](https://news.ycombinator.com/item?id=42584874) - [CoinTracker (YC W18) hiring product engineer to solve crypto accounting](https://jobs.ashbyhq.com/cointracker/c039fbb9-2ed7-4a68-bc7a-c6f929d5d5e5)
 * [2025-01-03, 10:30:44](https://news.ycombinator.com/item?id=42584400) - [Can LLMs write better code if you keep asking them to “write better code”?](https://minimaxir.com/2025/01/write-better-code/)
 * [2025-01-03, 08:20:44](https://news.ycombinator.com/item?id=42583688) - [The Dome (2005)](https://sites.pitt.edu/~jdnorton/Goodies/Dome/)
 * [2025-01-03, 06:36:35](https://news.ycombinator.com/item?id=42583141) - [Laser mapping reveals oldest Amazonian cities, built 2500 years ago (2024)](https://www.science.org/content/article/laser-mapping-reveals-oldest-amazonian-cities-built-2500-years-ago)
