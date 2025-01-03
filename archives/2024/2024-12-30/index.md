@@ -65,6 +65,7 @@
 * [2024-12-30, 12:05:10](https://news.ycombinator.com/item?id=42548572) - [40+ JackOfManyTrades needs advice for job search](https://news.ycombinator.com/item?id=42548572)
 * [2024-12-30, 12:00:20](https://news.ycombinator.com/item?id=42548551) - [Pincites (YC S23) is hiring a founding engineer to build legal AI agents (Remote)](https://www.ycombinator.com/companies/pincites/jobs)
 * [2024-12-30, 11:59:27](https://news.ycombinator.com/item?id=42548540) - [Replicate Old Website](https://news.ycombinator.com/item?id=42548540)
+* [2024-12-30, 11:58:34](https://news.ycombinator.com/item?id=42548535) - [Ergo S-1 – An open-source ergonomic wireless keyboard](https://github.com/wizarddata/Ergo-S-1)
 * [2024-12-30, 11:49:03](https://news.ycombinator.com/item?id=42548480) - [Is there such a thing as \"private, interactive databases\" for SaaS's](https://news.ycombinator.com/item?id=42548480)
 * [2024-12-30, 11:27:07](https://news.ycombinator.com/item?id=42548390) - [India's food shortage filled American libraries](https://www.bbc.com/news/articles/cevj80gld7do)
 * [2024-12-30, 11:21:25](https://news.ycombinator.com/item?id=42548359) - [Meta wants more access to your iPhone](https://techcrunch.com/2024/12/19/apple-and-meta-go-to-war-over-interoperability-vs-privacy/)

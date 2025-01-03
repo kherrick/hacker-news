@@ -2,7 +2,6 @@
 
 * [2025-01-03, 11:14:30](https://news.ycombinator.com/item?id=42584621) - [Court strikes down US net neutrality rules](https://www.bbc.com/news/articles/c4gl417l757o)
 * [2025-01-03, 11:12:25](https://news.ycombinator.com/item?id=42584615) - [China reduced sulphur dioxide emissions by more than two-thirds in past 15 years](https://ourworldindata.org/data-insights/china-has-reduced-sulphur-dioxide-emissions-by-more-than-two-thirds-in-the-last-15-years)
-* [2025-01-03, 11:04:27](https://news.ycombinator.com/item?id=42584566) - [Building an Agentic AI System at Doctolib](https://medium.com/doctolib/building-an-agentic-ai-system-for-healthcare-support-a-journey-into-practical-ai-implementation-0afd28d716e6)
 * [2025-01-03, 10:30:44](https://news.ycombinator.com/item?id=42584400) - [Can LLMs write better code if you keep asking them to \"write better code\"?](https://minimaxir.com/2025/01/write-better-code/)
 * [2025-01-03, 10:00:15](https://news.ycombinator.com/item?id=42584258) - [\"A Digital Prison\": Surveillance and the suppression of civil society in Serbia](https://www.amnesty.org/en/documents/eur70/8813/2024/en/)
 * [2025-01-03, 08:28:55](https://news.ycombinator.com/item?id=42583726) - [UK ICO response to Google's policy change on device fingerprinting](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2024/12/our-response-to-google-s-policy-change-on-fingerprinting/)
@@ -29,6 +28,7 @@
 * [2024-12-30, 20:07:40](https://news.ycombinator.com/item?id=42552915) - [Shmøergh Hog – The making of a simple analog synth](https://www.peterzimon.com/hog/)
 * [2024-12-30, 13:45:51](https://news.ycombinator.com/item?id=42549195) - [JPL Horizons on-line solar system data and ephemeris computation service](https://ssd.jpl.nasa.gov/horizons/)
 * [2024-12-30, 12:43:23](https://news.ycombinator.com/item?id=42548798) - [If I Could Wave a Magic Wand](https://wilsoniumite.com/2024/12/30/if-i-could-wave-a-magic-wand/)
+* [2024-12-30, 11:58:34](https://news.ycombinator.com/item?id=42548535) - [Ergo S-1 – An open-source ergonomic wireless keyboard](https://github.com/wizarddata/Ergo-S-1)
 * [2024-12-30, 03:45:14](https://news.ycombinator.com/item?id=42546246) - [Optimizing Ruby's JSON, Part 4](https://byroot.github.io/ruby/json/2024/12/29/optimizing-ruby-json-part-4.html)
 
 ## [Archives](archives/index.md)
