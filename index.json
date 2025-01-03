@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-01-03, 11:09:21",
+      "https://news.ycombinator.com/item?id=42584599"
+    ],
+    [
+      "K/Simple in OCaml",
+      "https://git.uwaterloo.ca/lseo/ksimple_ml"
+    ]
+  ],
+  [
+    [
       "2025-01-03, 10:30:44",
       "https://news.ycombinator.com/item?id=42584400"
     ],
@@ -137,16 +147,6 @@
     [
       "Postgres UUIDv7 and per-back end monotonicity",
       "https://brandur.org/fragments/uuid-v7-monotonicity"
-    ]
-  ],
-  [
-    [
-      "2025-01-02, 16:27:08",
-      "https://news.ycombinator.com/item?id=42575841"
-    ],
-    [
-      "Show HN: connet – A P2P reverse proxy with NAT traversal",
-      "https://github.com/connet-dev/connet"
     ]
   ],
   [
