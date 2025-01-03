@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-03, 12:00:41](https://news.ycombinator.com/item?id=42584874) - [CoinTracker (YC W18) hiring product engineer to solve crypto accounting](https://jobs.ashbyhq.com/cointracker/c039fbb9-2ed7-4a68-bc7a-c6f929d5d5e5)
-* [2025-01-03, 11:09:21](https://news.ycombinator.com/item?id=42584599) - [K/Simple in OCaml](https://git.uwaterloo.ca/lseo/ksimple_ml)
+* [2025-01-03, 10:38:29](https://news.ycombinator.com/item?id=42584436) - [Speeding Up SQLite Inserts](https://blog.julik.nl/2025/01/maximum-speed-sqlite-inserts)
 * [2025-01-03, 10:30:44](https://news.ycombinator.com/item?id=42584400) - [Can LLMs write better code if you keep asking them to “write better code”?](https://minimaxir.com/2025/01/write-better-code/)
 * [2025-01-03, 06:36:35](https://news.ycombinator.com/item?id=42583141) - [Laser mapping reveals oldest Amazonian cities, built 2500 years ago (2024)](https://www.science.org/content/article/laser-mapping-reveals-oldest-amazonian-cities-built-2500-years-ago)
 * [2025-01-03, 03:52:42](https://news.ycombinator.com/item?id=42582203) - [Kuvasz-streamer: open-source CDC for Postgres for low latency replication](https://streamer.kuvasz.io/)
