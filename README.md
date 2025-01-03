@@ -26,8 +26,8 @@
 * [2024-12-31, 12:17:16](https://news.ycombinator.com/item?id=42558275) - [The Anthrobots: a new living entity with much to teach us](https://thoughtforms.life/meet-the-anthrobots-a-new-living-entity-with-much-to-teach-us/)
 * [2024-12-31, 08:42:49](https://news.ycombinator.com/item?id=42557412) - [Show HN: Made a small JavaScript benchmarking app – BenchJS](https://benchjs.com)
 * [2024-12-30, 22:43:29](https://news.ycombinator.com/item?id=42554371) - [Linux Context Switching Internals: Process State and Memory](https://blog.codingconfessions.com/p/linux-context-switching-internals)
+* [2024-12-30, 21:30:26](https://news.ycombinator.com/item?id=42553780) - [Painstaking work to conserve Ireland's oldest paper documents begins](https://www.theguardian.com/world/2024/dec/26/painstaking-work-to-conserve-irelands-oldest-paper-documents-begins)
 * [2024-12-30, 20:07:40](https://news.ycombinator.com/item?id=42552915) - [Shmøergh Hog – The making of a simple analog synth](https://www.peterzimon.com/hog/)
-* [2024-12-30, 08:32:14](https://news.ycombinator.com/item?id=42547574) - [World3, the Public Beta (2012)](http://bit-player.org/2012/world3-the-public-beta)
 * [2024-12-30, 03:45:14](https://news.ycombinator.com/item?id=42546246) - [Optimizing Ruby's JSON, Part 4](https://byroot.github.io/ruby/json/2024/12/29/optimizing-ruby-json-part-4.html)
 * [2024-12-29, 14:30:48](https://news.ycombinator.com/item?id=42540182) - [4.5M Suspected Fake Stars in GitHub](https://arxiv.org/abs/2412.13459)
 
