@@ -71,22 +71,22 @@
   ],
   [
     [
-      "2025-01-03, 15:10:47",
-      "https://news.ycombinator.com/item?id=42586291"
-    ],
-    [
-      "System76 built the fastest Windows Arm PC",
-      "https://www.jeffgeerling.com/blog/2025/system76-built-fastest-windows-arm-pc"
-    ]
-  ],
-  [
-    [
       "2025-01-03, 15:07:42",
       "https://news.ycombinator.com/item?id=42586262"
     ],
     [
       "What Is To Be Done? The book that helped spark the Russian Revolution",
       "https://onepercentrule.substack.com/p/what-is-to-be-done"
+    ]
+  ],
+  [
+    [
+      "2025-01-03, 11:38:49",
+      "https://news.ycombinator.com/item?id=42584750"
+    ],
+    [
+      "The Evolution of SRE at Google",
+      "https://www.usenix.org/publications/loginonline/evolution-sre-google"
     ]
   ],
   [
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2025-01-02, 17:08:38",
-      "https://news.ycombinator.com/item?id=42576242"
-    ],
-    [
-      "XiangShan – Open-source high performance RISC-V processor",
-      "https://github.com/OpenXiangShan/XiangShan"
-    ]
-  ],
-  [
-    [
       "2025-01-02, 16:42:06",
       "https://news.ycombinator.com/item?id=42575990"
     ],
@@ -217,6 +207,16 @@
     [
       "Benchmarking RSA Key Generation",
       "https://words.filippo.io/dispatches/rsa-keygen-bench/"
+    ]
+  ],
+  [
+    [
+      "2024-12-31, 11:44:14",
+      "https://news.ycombinator.com/item?id=42558143"
+    ],
+    [
+      "Show HN: Org-Supertag",
+      "https://github.com/yibie/org-supertag"
     ]
   ],
   [
