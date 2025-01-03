@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-03, 18:38:52](https://news.ycombinator.com/item?id=42588285) - [Overcoming Resistance to Extreme Programming](https://benjiweber.co.uk/blog/2025/01/01/overcoming-resistance-to-extreme-programming/)
 * [2025-01-03, 18:24:41](https://news.ycombinator.com/item?id=42588151) - [Zebrafish protein unlocks dormant genes for heart repair](https://www.hubrecht.eu/zebrafish-protein-unlocks-dormant-genes-for-heart-repair/)
 * [2025-01-03, 17:56:00](https://news.ycombinator.com/item?id=42587883) - [Two Turntables and a Microphone (2006)](https://goodfuzzysounds.com/ma/docs/funnyversion.htm)
 * [2025-01-03, 17:50:50](https://news.ycombinator.com/item?id=42587829) - [OnlyFangs has made 'World of Warcraft' into Twitch's best soap opera](https://www.rollingstone.com/culture/rs-gaming/world-of-warcraft-onlyfangs-twitch-roleplay-1235222436/)
@@ -12,6 +11,7 @@
 * [2025-01-03, 16:23:49](https://news.ycombinator.com/item?id=42586933) - [PWCT2: Programming Without Coding Technology – Written in Ring](https://github.com/PWCT/PWCT2)
 * [2025-01-03, 16:17:22](https://news.ycombinator.com/item?id=42586879) - [In Memoriam: Noah Gibbs](https://blog.schwad.org/schwogs/6)
 * [2025-01-03, 15:42:02](https://news.ycombinator.com/item?id=42586590) - [Mandelbrot deep zoom theory and practice (2021)](https://mathr.co.uk/blog/2021-05-14_deep_zoom_theory_and_practice.html)
+* [2025-01-03, 13:08:08](https://news.ycombinator.com/item?id=42585332) - [Oral history of Caroline Rose, writer of Inside Macintosh (2023) [video]](https://www.youtube.com/watch?v=RikO_3jedlY)
 * [2025-01-03, 11:38:49](https://news.ycombinator.com/item?id=42584750) - [The Evolution of SRE at Google](https://www.usenix.org/publications/loginonline/evolution-sre-google)
 * [2025-01-03, 10:30:44](https://news.ycombinator.com/item?id=42584400) - [Can LLMs write better code if you keep asking them to “write better code”?](https://minimaxir.com/2025/01/write-better-code/)
 * [2025-01-03, 08:20:44](https://news.ycombinator.com/item?id=42583688) - [The Dome (2005)](https://sites.pitt.edu/~jdnorton/Goodies/Dome/)
