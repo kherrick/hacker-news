@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2025-01-02, 16:27:08",
-      "https://news.ycombinator.com/item?id=42575841"
-    ],
-    [
-      "Show HN: connet – A P2P reverse proxy with NAT traversal",
-      "https://github.com/connet-dev/connet"
-    ]
-  ],
-  [
-    [
       "2025-01-02, 16:00:09",
       "https://news.ycombinator.com/item?id=42575537"
     ],
@@ -261,22 +251,22 @@
   ],
   [
     [
-      "2024-12-30, 22:43:29",
-      "https://news.ycombinator.com/item?id=42554371"
-    ],
-    [
-      "Linux Context Switching Internals: Process State and Memory",
-      "https://blog.codingconfessions.com/p/linux-context-switching-internals"
-    ]
-  ],
-  [
-    [
       "2024-12-30, 20:07:40",
       "https://news.ycombinator.com/item?id=42552915"
     ],
     [
       "Shmøergh Hog – The making of a simple analog synth",
       "https://www.peterzimon.com/hog/"
+    ]
+  ],
+  [
+    [
+      "2024-12-30, 18:24:40",
+      "https://news.ycombinator.com/item?id=42552039"
+    ],
+    [
+      "Show HN: Control your Roku with only your hand gestures",
+      "https://github.com/BBelk/HandiRokuRemote"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Optimizing Ruby's JSON, Part 4",
       "https://byroot.github.io/ruby/json/2024/12/29/optimizing-ruby-json-part-4.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-29, 14:30:48",
+      "https://news.ycombinator.com/item?id=42540182"
+    ],
+    [
+      "4.5M Suspected Fake Stars in GitHub",
+      "https://arxiv.org/abs/2412.13459"
     ]
   ]
 ]
