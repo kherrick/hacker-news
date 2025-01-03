@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-03](index.md)
 
+* [2025-01-03, 21:03:44](https://news.ycombinator.com/item?id=42589443) - [Her Treatment Was Helping. That's Why Insurance Cut Off Her Coverage](https://www.propublica.org/article/mental-health-insurance-denials-patient-progress)
+* [2025-01-03, 21:01:16](https://news.ycombinator.com/item?id=42589431) - [Extend (YC W23) is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
 * [2025-01-03, 18:38:52](https://news.ycombinator.com/item?id=42588285) - [Overcoming Resistance to Extreme Programming](https://benjiweber.co.uk/blog/2025/01/01/overcoming-resistance-to-extreme-programming/)
 * [2025-01-03, 18:24:41](https://news.ycombinator.com/item?id=42588151) - [Zebrafish protein unlocks dormant genes for heart repair](https://www.hubrecht.eu/zebrafish-protein-unlocks-dormant-genes-for-heart-repair/)
 * [2025-01-03, 18:24:27](https://news.ycombinator.com/item?id=42588146) - [Congo files criminal complaints against Apple in Europe over conflict minerals](https://www.reuters.com/sustainability/society-equity/congo-files-criminal-complaints-against-apple-europe-over-conflict-minerals-2024-12-17/)
@@ -24,6 +26,7 @@
 * [2025-01-03, 15:10:47](https://news.ycombinator.com/item?id=42586291) - [System76 built the fastest Windows Arm PC](https://www.jeffgeerling.com/blog/2025/system76-built-fastest-windows-arm-pc)
 * [2025-01-03, 15:07:42](https://news.ycombinator.com/item?id=42586262) - [What Is To Be Done? The book that helped spark the Russian Revolution](https://onepercentrule.substack.com/p/what-is-to-be-done)
 * [2025-01-03, 14:59:45](https://news.ycombinator.com/item?id=42586184) - [Ireland has lost almost all its native forests](https://worldsensorium.com/ireland-has-lost-almost-all-of-its-native-forests-heres-how-to-bring-them-back/)
+* [2025-01-03, 14:45:52](https://news.ycombinator.com/item?id=42586042) - [What we learned copying all the best code assistants](https://blog.val.town/blog/fast-follow/)
 * [2025-01-03, 13:15:22](https://news.ycombinator.com/item?id=42585377) - [Time to check if you ran any of these 33 malicious Chrome extensions](https://arstechnica.com/security/2025/01/dozens-of-backdoored-chrome-extensions-discovered-on-2-6-million-devices/)
 * [2025-01-03, 13:08:08](https://news.ycombinator.com/item?id=42585332) - [Oral history of Caroline Rose, writer of Inside Macintosh (2023) [video]](https://www.youtube.com/watch?v=RikO_3jedlY)
 * [2025-01-03, 12:03:42](https://news.ycombinator.com/item?id=42584900) - [A free, unlimited online PDF converter with Privacy focus](https://quicklypdf.com)
