@@ -11,22 +11,22 @@
   ],
   [
     [
+      "2025-01-03, 17:05:17",
+      "https://news.ycombinator.com/item?id=42587356"
+    ],
+    [
+      "SpaceSim",
+      "https://pavelsevecek.github.io/"
+    ]
+  ],
+  [
+    [
       "2025-01-03, 17:01:11",
       "https://news.ycombinator.com/item?id=42587308"
     ],
     [
       "Arketa (YC S20) Is Hiring an Engineer Who Can Design",
       "https://news.ycombinator.com/item?id=42587308"
-    ]
-  ],
-  [
-    [
-      "2025-01-03, 16:52:26",
-      "https://news.ycombinator.com/item?id=42587222"
-    ],
-    [
-      "Harnessing 3200 Gbps Network: A Journey with RDMA, EFA, and Libfabric",
-      "https://le.qun.ch/en/blog/2024/12/25/libfabric-efa-0-intro/"
     ]
   ],
   [
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=42557692"
     ],
     [
-      "Types are the basic tool of software design",
+      "Types are the basic tool of software design (2018)",
       "https://www.tedinski.com/2018/12/05/types-as-design-tool.html"
     ]
   ],
