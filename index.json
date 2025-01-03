@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2025-01-02, 16:32:20",
-      "https://news.ycombinator.com/item?id=42575900"
-    ],
-    [
-      "Postgres UUIDv7 and per-back end monotonicity",
-      "https://brandur.org/fragments/uuid-v7-monotonicity"
-    ]
-  ],
-  [
-    [
       "2025-01-02, 16:00:09",
       "https://news.ycombinator.com/item?id=42575537"
     ],
@@ -247,6 +237,16 @@
     [
       "Gource: Software Version Control Visualization",
       "https://github.com/acaudwell/Gource"
+    ]
+  ],
+  [
+    [
+      "2024-12-30, 20:50:34",
+      "https://news.ycombinator.com/item?id=42553360"
+    ],
+    [
+      "A Puzzle about a Calculator",
+      "https://aperiodical.com/2024/12/a-puzzle-about-a-calculator/"
     ]
   ],
   [
