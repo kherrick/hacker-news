@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-03, 06:26:21",
+      "https://news.ycombinator.com/item?id=42583093"
+    ],
+    [
+      "Covid 5 years later: Learning from a pandemic many are forgetting",
+      "https://www.science.org/content/article/covid-5-years-later-learning-pandemic-many-are-forgetting"
+    ]
+  ],
+  [
+    [
       "2025-01-03, 06:23:51",
       "https://news.ycombinator.com/item?id=42583086"
     ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2024-12-31, 12:17:16",
-      "https://news.ycombinator.com/item?id=42558275"
-    ],
-    [
-      "The Anthrobots: a new living entity with much to teach us",
-      "https://thoughtforms.life/meet-the-anthrobots-a-new-living-entity-with-much-to-teach-us/"
-    ]
-  ],
-  [
-    [
       "2024-12-31, 11:01:13",
       "https://news.ycombinator.com/item?id=42557947"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2024-12-30, 13:45:51",
+      "https://news.ycombinator.com/item?id=42549195"
+    ],
+    [
+      "JPL Horizons on-line solar system data and ephemeris computation service",
+      "https://ssd.jpl.nasa.gov/horizons/"
+    ]
+  ],
+  [
+    [
       "2024-12-30, 03:45:14",
       "https://news.ycombinator.com/item?id=42546246"
     ],
     [
       "Optimizing Ruby's JSON, Part 4",
       "https://byroot.github.io/ruby/json/2024/12/29/optimizing-ruby-json-part-4.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-29, 14:30:48",
-      "https://news.ycombinator.com/item?id=42540182"
-    ],
-    [
-      "4.5M Suspected Fake Stars in GitHub",
-      "https://arxiv.org/abs/2412.13459"
     ]
   ]
 ]
