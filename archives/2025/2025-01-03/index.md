@@ -6,6 +6,7 @@
 
 * [2025-01-03, 18:24:27](https://news.ycombinator.com/item?id=42588146) - [Congo files criminal complaints against Apple in Europe over conflict minerals](https://www.reuters.com/sustainability/society-equity/congo-files-criminal-complaints-against-apple-europe-over-conflict-minerals-2024-12-17/)
 * [2025-01-03, 17:56:00](https://news.ycombinator.com/item?id=42587883) - [Two Turntables and a Microphone (2006)](https://goodfuzzysounds.com/ma/docs/funnyversion.htm)
+* [2025-01-03, 17:50:38](https://news.ycombinator.com/item?id=42587826) - [Dark Energy May Not Exist: Something Stranger Might Explain the Universe](https://www.sciencealert.com/dark-energy-may-not-exist-something-stranger-might-explain-the-universe)
 * [2025-01-03, 17:08:35](https://news.ycombinator.com/item?id=42587383) - [Adaptation to a Viscous Snowball Earth Ocean as Path to Complex Multicellularity (2021)](https://www.journals.uchicago.edu/doi/full/10.1086/716634)
 * [2025-01-03, 17:05:17](https://news.ycombinator.com/item?id=42587356) - [SpaceSim](https://pavelsevecek.github.io/)
 * [2025-01-03, 17:01:11](https://news.ycombinator.com/item?id=42587308) - [Arketa (YC S20) Is Hiring an Engineer Who Can Design](https://news.ycombinator.com/item?id=42587308)
