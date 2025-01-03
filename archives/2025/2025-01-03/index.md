@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-03](index.md)
 
+* [2025-01-03, 22:49:08](https://news.ycombinator.com/item?id=42590322) - [A path to O1 open source](https://arxiv.org/abs/2412.14135)
 * [2025-01-03, 21:54:42](https://news.ycombinator.com/item?id=42589863) - [Perplexity Got Ads](https://twitter.com/damengchen/status/1875296442417607072)
 * [2025-01-03, 21:10:42](https://news.ycombinator.com/item?id=42589497) - [Factories in Space](https://www.factoriesinspace.com/)
 * [2025-01-03, 21:03:44](https://news.ycombinator.com/item?id=42589443) - [Her Treatment Was Helping. That's Why Insurance Cut Off Her Coverage](https://www.propublica.org/article/mental-health-insurance-denials-patient-progress)
