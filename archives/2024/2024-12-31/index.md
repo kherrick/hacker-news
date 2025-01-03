@@ -35,6 +35,7 @@
 * [2024-12-31, 11:19:17](https://news.ycombinator.com/item?id=42558037) - [Darktable 5.0.0 Released](https://www.darktable.org/2024/12/darktable-5.0.0-released/)
 * [2024-12-31, 11:01:13](https://news.ycombinator.com/item?id=42557947) - [Ask HN: How to learn marketing and sales as a solo entrepreneur?](https://news.ycombinator.com/item?id=42557947)
 * [2024-12-31, 10:51:33](https://news.ycombinator.com/item?id=42557904) - [Multispectral imaging through scattering media and around corners](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-27-48786&id=566035)
+* [2024-12-31, 10:37:02](https://news.ycombinator.com/item?id=42557850) - [Gource: Software Version Control Visualization](https://github.com/acaudwell/Gource)
 * [2024-12-31, 09:28:48](https://news.ycombinator.com/item?id=42557586) - [Interesting Interview with DeepSeek's CEO](https://www.chinatalk.media/p/deepseek-ceo-interview-with-chinas)
 * [2024-12-31, 08:42:49](https://news.ycombinator.com/item?id=42557412) - [Show HN: Made a small JavaScript benchmarking app – BenchJS](https://benchjs.com)
 * [2024-12-31, 08:42:22](https://news.ycombinator.com/item?id=42557410) - [Walter Isaacson: \"My So-Called Writing Life\"](https://lehnews.wordpress.com/2014/03/25/walter-isaacson-my-so-called-writing-life/)
