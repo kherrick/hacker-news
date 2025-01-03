@@ -29,6 +29,7 @@
 * [2024-12-31, 14:58:01](https://news.ycombinator.com/item?id=42559048) - [Show HN: Obsess Jobs – Apply to jobs in your sleep](https://obsessjobs.com/)
 * [2024-12-31, 14:47:51](https://news.ycombinator.com/item?id=42558995) - [Urine Led to the Foundation of Chemistry](https://bigthink.com/the-past/how-urine-led-to-the-foundation-of-chemistry/)
 * [2024-12-31, 14:05:07](https://news.ycombinator.com/item?id=42558763) - [How to monitor your local weather with Grafana](https://grafana.com/blog/2024/12/26/how-to-monitor-your-local-weather-with-grafana/)
+* [2024-12-31, 13:34:24](https://news.ycombinator.com/item?id=42558602) - [It's okay to code on nights and weekends](https://tej.as/blog/coding-nights-weekends-good-work-life-balance)
 * [2024-12-31, 13:09:57](https://news.ycombinator.com/item?id=42558476) - [Show HN: RSS.Beauty – Make Your RSS Beautiful](https://rss.beauty/)
 * [2024-12-31, 12:57:20](https://news.ycombinator.com/item?id=42558422) - [Benchmarking RSA Key Generation](https://words.filippo.io/dispatches/rsa-keygen-bench/)
 * [2024-12-31, 12:17:16](https://news.ycombinator.com/item?id=42558275) - [The Anthrobots: a new living entity with much to teach us](https://thoughtforms.life/meet-the-anthrobots-a-new-living-entity-with-much-to-teach-us/)

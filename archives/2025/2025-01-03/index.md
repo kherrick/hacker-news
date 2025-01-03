@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-03](index.md)
 
+* [2025-01-03, 16:31:00](https://news.ycombinator.com/item?id=42587014) - [Savoy Style vs. Hollywood Style: A Fight to the Death (Hopefully?) (2011)](https://swungover.wordpress.com/2011/06/15/savoy-style-vs-hollywood-style-a-fight-to-the-death-hopefully/)
+* [2025-01-03, 16:23:49](https://news.ycombinator.com/item?id=42586933) - [PWCT2: Programming Without Coding Technology – Written in Ring](https://github.com/PWCT/PWCT2)
 * [2025-01-03, 16:17:22](https://news.ycombinator.com/item?id=42586879) - [In Memoriam: Noah Gibbs](https://blog.schwad.org/schwogs/6)
 * [2025-01-03, 16:15:53](https://news.ycombinator.com/item?id=42586867) - [Let's Encrypt to end OCSP support in 2025](https://scotthelme.co.uk/lets-encrypt-to-end-ocsp-support-in-2025/)
 * [2025-01-03, 15:42:02](https://news.ycombinator.com/item?id=42586590) - [Mandelbrot deep zoom theory and practice (2021)](https://mathr.co.uk/blog/2021-05-14_deep_zoom_theory_and_practice.html)
