@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-03, 06:26:21](https://news.ycombinator.com/item?id=42583093) - [Covid 5 years later: Learning from a pandemic many are forgetting](https://www.science.org/content/article/covid-5-years-later-learning-pandemic-many-are-forgetting)
 * [2025-01-03, 06:23:51](https://news.ycombinator.com/item?id=42583086) - [Digital gardens people maintain outside the \"Big Tech\" walled gardens](https://blogscroll.com/)
 * [2025-01-03, 03:52:42](https://news.ycombinator.com/item?id=42582203) - [Kuvasz-streamer: open-source CDC for Postgres for low latency replication](https://streamer.kuvasz.io/)
 * [2025-01-03, 01:57:07](https://news.ycombinator.com/item?id=42581368) - [Party Squasher, the first guest occupancy counter for homes](https://www.partysquasher.com/)
@@ -22,14 +23,13 @@
 * [2025-01-02, 05:43:28](https://news.ycombinator.com/item?id=42571995) - [Autodesk deletes old forum posts suddenly](https://forums.autodesk.com/t5/net/regarding-community-content-archiving/td-p/13198106)
 * [2025-01-01, 14:12:15](https://news.ycombinator.com/item?id=42566112) - [DOOM CAPTCHA](https://doom-captcha.vercel.app/)
 * [2024-12-31, 17:12:51](https://news.ycombinator.com/item?id=42560069) - [Zildjian, a 400-year-old cymbal-making company in Massachusetts](https://www.wbur.org/news/2024/12/16/400-years-zildjian-cymbals-massachusetts)
-* [2024-12-31, 12:17:16](https://news.ycombinator.com/item?id=42558275) - [The Anthrobots: a new living entity with much to teach us](https://thoughtforms.life/meet-the-anthrobots-a-new-living-entity-with-much-to-teach-us/)
 * [2024-12-31, 11:01:13](https://news.ycombinator.com/item?id=42557947) - [Ask HN: How to learn marketing and sales as a solo entrepreneur?](https://news.ycombinator.com/item?id=42557947)
 * [2024-12-31, 10:51:33](https://news.ycombinator.com/item?id=42557904) - [Multispectral imaging through scattering media and around corners](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-27-48786&id=566035)
 * [2024-12-31, 08:42:49](https://news.ycombinator.com/item?id=42557412) - [Show HN: Made a small JavaScript benchmarking app – BenchJS](https://benchjs.com)
 * [2024-12-30, 22:43:29](https://news.ycombinator.com/item?id=42554371) - [Linux Context Switching Internals: Process State and Memory](https://blog.codingconfessions.com/p/linux-context-switching-internals)
 * [2024-12-30, 20:07:40](https://news.ycombinator.com/item?id=42552915) - [Shmøergh Hog – The making of a simple analog synth](https://www.peterzimon.com/hog/)
+* [2024-12-30, 13:45:51](https://news.ycombinator.com/item?id=42549195) - [JPL Horizons on-line solar system data and ephemeris computation service](https://ssd.jpl.nasa.gov/horizons/)
 * [2024-12-30, 03:45:14](https://news.ycombinator.com/item?id=42546246) - [Optimizing Ruby's JSON, Part 4](https://byroot.github.io/ruby/json/2024/12/29/optimizing-ruby-json-part-4.html)
-* [2024-12-29, 14:30:48](https://news.ycombinator.com/item?id=42540182) - [4.5M Suspected Fake Stars in GitHub](https://arxiv.org/abs/2412.13459)
 
 ## [Archives](archives/index.md)
 

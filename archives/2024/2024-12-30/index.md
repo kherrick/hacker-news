@@ -45,6 +45,7 @@
 * [2024-12-30, 14:04:13](https://news.ycombinator.com/item?id=42549343) - [Bench to be acquired after abruptly shutting down](https://techcrunch.com/2024/12/30/bench-to-be-acquired-after-abruptly-shutting-down/)
 * [2024-12-30, 14:04:13](https://news.ycombinator.com/item?id=42549343) - [Bench Accounting Acquired by Employer.com](https://www.bench.co/)
 * [2024-12-30, 13:49:47](https://news.ycombinator.com/item?id=42549226) - [Chess grandmaster Magnus Carlsen rejoins tournament he quit over wearing jeans](https://news.sky.com/story/chess-grandmaster-magnus-carlsen-rejoins-tournament-he-quit-over-wearing-jeans-after-dress-code-change-13281654)
+* [2024-12-30, 13:45:51](https://news.ycombinator.com/item?id=42549195) - [JPL Horizons on-line solar system data and ephemeris computation service](https://ssd.jpl.nasa.gov/horizons/)
 * [2024-12-30, 13:44:14](https://news.ycombinator.com/item?id=42549184) - [Beyond BLE: Cracking Open the Black-Box of RF Microcontrollers [video]](https://media.ccc.de/v/38c3-beyond-ble-cracking-open-the-black-box-of-rf-microcontrollers)
 * [2024-12-30, 13:38:10](https://news.ycombinator.com/item?id=42549148) - [A simple way to explore data through a Tableau-like UI directly in your data app](https://github.com/panel-extensions/panel-graphic-walker)
 * [2024-12-30, 13:38:02](https://news.ycombinator.com/item?id=42549147) - [The Cognitive Style of PowerPoint [pdf]](https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf)
