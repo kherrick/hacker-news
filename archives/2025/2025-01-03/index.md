@@ -7,6 +7,7 @@
 * [2025-01-03, 08:28:55](https://news.ycombinator.com/item?id=42583726) - [UK ISO response to Google's policy change on device fingerprinting](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2024/12/our-response-to-google-s-policy-change-on-fingerprinting/)
 * [2025-01-03, 07:42:31](https://news.ycombinator.com/item?id=42583485) - [Mars Exploration: How the CIA's Project Stargate Went to Mars [pdf]](https://www.cia.gov/readingroom/docs/cia-rdp96-00788r001900760001-9.pdf)
 * [2025-01-03, 07:07:14](https://news.ycombinator.com/item?id=42583297) - [Why Canada Should Join the EU](https://www.economist.com/europe/2025/01/02/why-canada-should-join-the-eu)
+* [2025-01-03, 06:36:35](https://news.ycombinator.com/item?id=42583141) - [Laser mapping reveals oldest Amazonian cities, built 2500 years ago](https://www.science.org/content/article/laser-mapping-reveals-oldest-amazonian-cities-built-2500-years-ago)
 * [2025-01-03, 06:26:21](https://news.ycombinator.com/item?id=42583093) - [Covid 5 years later: Learning from a pandemic many are forgetting](https://www.science.org/content/article/covid-5-years-later-learning-pandemic-many-are-forgetting)
 * [2025-01-03, 06:23:51](https://news.ycombinator.com/item?id=42583086) - [Digital gardens people maintain outside the \"Big Tech\" walled gardens](https://blogscroll.com/)
 * [2025-01-03, 04:25:11](https://news.ycombinator.com/item?id=42582415) - [FCC's Net Neutrality Rules Struck Down by Sixth Circuit](https://stocks.apple.com/AOtE_yI5dTe6OkLqgYKQ69A)
