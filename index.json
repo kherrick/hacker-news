@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-01-03, 10:00:15",
+      "https://news.ycombinator.com/item?id=42584258"
+    ],
+    [
+      "\"A Digital Prison\": Surveillance and the suppression of civil society in Serbia",
+      "https://www.amnesty.org/en/documents/eur70/8813/2024/en/"
+    ]
+  ],
+  [
+    [
       "2025-01-03, 08:28:55",
       "https://news.ycombinator.com/item?id=42583726"
     ],
     [
       "UK ICO response to Google's policy change on device fingerprinting",
       "https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2024/12/our-response-to-google-s-policy-change-on-fingerprinting/"
-    ]
-  ],
-  [
-    [
-      "2025-01-03, 07:42:31",
-      "https://news.ycombinator.com/item?id=42583485"
-    ],
-    [
-      "Mars Exploration: How the CIA's Project Stargate Went to Mars [pdf]",
-      "https://www.cia.gov/readingroom/docs/cia-rdp96-00788r001900760001-9.pdf"
     ]
   ],
   [
@@ -87,6 +87,16 @@
     [
       "iTerm2 critical security release",
       "https://iterm2.com/downloads/stable/iTerm2-3_5_11.changelog"
+    ]
+  ],
+  [
+    [
+      "2025-01-02, 21:01:41",
+      "https://news.ycombinator.com/item?id=42578848"
+    ],
+    [
+      "UpCodes (YC S17) is hiring remote recruiters to help make buildings cheaper",
+      "https://up.codes/careers?utm_source=HN"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Postgres UUIDv7 and per-back end monotonicity",
       "https://brandur.org/fragments/uuid-v7-monotonicity"
-    ]
-  ],
-  [
-    [
-      "2025-01-02, 16:27:08",
-      "https://news.ycombinator.com/item?id=42575841"
-    ],
-    [
-      "Show HN: connet – A P2P reverse proxy with NAT traversal",
-      "https://github.com/connet-dev/connet"
     ]
   ],
   [
