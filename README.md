@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-03, 21:03:44](https://news.ycombinator.com/item?id=42589443) - [Her Treatment Was Helping. That's Why Insurance Cut Off Her Coverage](https://www.propublica.org/article/mental-health-insurance-denials-patient-progress)
+* [2025-01-03, 21:10:42](https://news.ycombinator.com/item?id=42589497) - [Factories in Space](https://www.factoriesinspace.com/)
 * [2025-01-03, 21:01:16](https://news.ycombinator.com/item?id=42589431) - [Extend (YC W23) is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
 * [2025-01-03, 18:24:41](https://news.ycombinator.com/item?id=42588151) - [Zebrafish protein unlocks dormant genes for heart repair](https://www.hubrecht.eu/zebrafish-protein-unlocks-dormant-genes-for-heart-repair/)
 * [2025-01-03, 17:56:00](https://news.ycombinator.com/item?id=42587883) - [Two Turntables and a Microphone (2006)](https://goodfuzzysounds.com/ma/docs/funnyversion.htm)
