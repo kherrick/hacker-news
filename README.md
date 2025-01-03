@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-03, 08:28:55](https://news.ycombinator.com/item?id=42583726) - [UK ICO response to Google's policy change on device fingerprinting](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2024/12/our-response-to-google-s-policy-change-on-fingerprinting/)
-* [2025-01-03, 07:42:31](https://news.ycombinator.com/item?id=42583485) - [Mars Exploration: How the CIA's Project Stargate Went to Mars [pdf]](https://www.cia.gov/readingroom/docs/cia-rdp96-00788r001900760001-9.pdf)
 * [2025-01-03, 06:36:35](https://news.ycombinator.com/item?id=42583141) - [Laser mapping reveals oldest Amazonian cities, built 2500 years ago](https://www.science.org/content/article/laser-mapping-reveals-oldest-amazonian-cities-built-2500-years-ago)
 * [2025-01-03, 06:23:51](https://news.ycombinator.com/item?id=42583086) - [Digital gardens people maintain outside the \"Big Tech\" walled gardens](https://blogscroll.com/)
 * [2025-01-03, 03:52:42](https://news.ycombinator.com/item?id=42582203) - [Kuvasz-streamer: open-source CDC for Postgres for low latency replication](https://streamer.kuvasz.io/)
@@ -26,6 +25,7 @@
 * [2024-12-31, 12:17:16](https://news.ycombinator.com/item?id=42558275) - [The Anthrobots: a new living entity with much to teach us](https://thoughtforms.life/meet-the-anthrobots-a-new-living-entity-with-much-to-teach-us/)
 * [2024-12-31, 11:01:13](https://news.ycombinator.com/item?id=42557947) - [Ask HN: How to learn marketing and sales as a solo entrepreneur?](https://news.ycombinator.com/item?id=42557947)
 * [2024-12-31, 10:51:33](https://news.ycombinator.com/item?id=42557904) - [Multispectral imaging through scattering media and around corners](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-27-48786&id=566035)
+* [2024-12-30, 22:43:29](https://news.ycombinator.com/item?id=42554371) - [Linux Context Switching Internals: Process State and Memory](https://blog.codingconfessions.com/p/linux-context-switching-internals)
 * [2024-12-30, 20:07:40](https://news.ycombinator.com/item?id=42552915) - [Shmøergh Hog – The making of a simple analog synth](https://www.peterzimon.com/hog/)
 * [2024-12-30, 18:22:43](https://news.ycombinator.com/item?id=42552016) - [Why was there a wall near runway at S Korea plane crash airport?](https://www.bbc.com/news/articles/c0mvynnxzzmo)
 * [2024-12-30, 13:45:51](https://news.ycombinator.com/item?id=42549195) - [JPL Horizons on-line solar system data and ephemeris computation service](https://ssd.jpl.nasa.gov/horizons/)
