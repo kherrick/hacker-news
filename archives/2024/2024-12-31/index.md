@@ -34,6 +34,7 @@
 * [2024-12-31, 11:44:11](https://news.ycombinator.com/item?id=42558142) - [The British Empire Was Much Worse Than You Realize](https://www.newyorker.com/magazine/2022/04/04/the-british-empire-was-much-worse-than-you-realize-caroline-elkinss-legacy-of-violence)
 * [2024-12-31, 11:19:17](https://news.ycombinator.com/item?id=42558037) - [Darktable 5.0.0 Released](https://www.darktable.org/2024/12/darktable-5.0.0-released/)
 * [2024-12-31, 09:28:48](https://news.ycombinator.com/item?id=42557586) - [Interesting Interview with DeepSeek's CEO](https://www.chinatalk.media/p/deepseek-ceo-interview-with-chinas)
+* [2024-12-31, 08:42:49](https://news.ycombinator.com/item?id=42557412) - [Show HN: Made a small JavaScript benchmarking app – BenchJS](https://benchjs.com)
 * [2024-12-31, 08:42:22](https://news.ycombinator.com/item?id=42557410) - [Walter Isaacson: \"My So-Called Writing Life\"](https://lehnews.wordpress.com/2014/03/25/walter-isaacson-my-so-called-writing-life/)
 * [2024-12-31, 08:34:13](https://news.ycombinator.com/item?id=42557380) - [Power up and tear down of a Rohde and Schwarz SKTU BN 4151/2/5 noise generator](https://makertube.net/w/dJoJXuPoLfVpaadbvBYQWP)
 * [2024-12-31, 08:28:21](https://news.ycombinator.com/item?id=42557355) - [Bertrand Russell on Zionism [video]](https://www.youtube.com/watch?v=egfCTz-ZuZU)

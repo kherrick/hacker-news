@@ -18,6 +18,7 @@
 * [2024-12-30, 21:18:19](https://news.ycombinator.com/item?id=42553657) - [The Upside of the Pentium Bug (1995) [pdf]](https://websrv.cecs.uci.edu/~papers/mpr/MPR/EDITOR/0903ed.pdf)
 * [2024-12-30, 20:46:38](https://news.ycombinator.com/item?id=42553313) - [Jack Elam and the Fly in 'Once Upon a Time in the West'](https://pov.imv.au.dk/Issue_24/section_1/artc4A.html)
 * [2024-12-30, 20:12:32](https://news.ycombinator.com/item?id=42552976) - [Database mocks are just not worth it](https://www.shayon.dev/post/2024/365/database-mocks-are-just-not-worth-it/)
+* [2024-12-30, 20:07:40](https://news.ycombinator.com/item?id=42552915) - [Shmøergh Hog – The making of a simple analog synth](https://www.peterzimon.com/hog/)
 * [2024-12-30, 20:04:58](https://news.ycombinator.com/item?id=42552887) - [The Homa Network Protocol](https://lwn.net/SubscriberLink/1003059/41b1d2ea281b6779/)
 * [2024-12-30, 19:18:27](https://news.ycombinator.com/item?id=42552494) - [Apple M5 could ditch unified memory architecture for split CPU and GPU designs](https://www.notebookcheck.net/Apple-M5-Pro-Max-and-Ultra-could-ditch-much-vaunted-unified-memory-architecture-for-split-CPU-and-GPU-designs-fabbed-on-TSMC-N3E.937047.0.html)
 * [2024-12-30, 19:16:35](https://news.ycombinator.com/item?id=42552474) - [What I Learned Reporting in Cities That Take Belongings from Homeless People](https://www.propublica.org/article/homeless-encampments-essay)
