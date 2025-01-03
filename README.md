@@ -19,6 +19,7 @@
 * [2025-01-03, 03:52:42](https://news.ycombinator.com/item?id=42582203) - [Kuvasz-streamer: open-source CDC for Postgres for low latency replication](https://streamer.kuvasz.io/)
 * [2025-01-02, 23:00:48](https://news.ycombinator.com/item?id=42579969) - [The Alder Lake SHLX Anomaly](https://tavianator.com/2025/shlx.html)
 * [2025-01-02, 19:20:50](https://news.ycombinator.com/item?id=42577736) - [Advent of Code 2024 in pure SQL](http://databasearchitects.blogspot.com/2024/12/advent-of-code-2024-in-pure-sql.html)
+* [2025-01-02, 16:00:09](https://news.ycombinator.com/item?id=42575537) - [Ask HN: Who is hiring? (January 2025)](https://news.ycombinator.com/item?id=42575537)
 * [2024-12-31, 13:13:20](https://news.ycombinator.com/item?id=42558496) - [Show HN: Execute SQL against Bluesky firehose](https://github.com/turbolytics/sql-flow)
 * [2024-12-31, 12:57:20](https://news.ycombinator.com/item?id=42558422) - [Benchmarking RSA Key Generation](https://words.filippo.io/dispatches/rsa-keygen-bench/)
 * [2024-12-31, 11:44:14](https://news.ycombinator.com/item?id=42558143) - [Show HN: Org-Supertag](https://github.com/yibie/org-supertag)
@@ -27,7 +28,6 @@
 * [2024-12-31, 10:37:02](https://news.ycombinator.com/item?id=42557850) - [Gource: Software Version Control Visualization](https://github.com/acaudwell/Gource)
 * [2024-12-31, 10:00:15](https://news.ycombinator.com/item?id=42557692) - [Types are a basic tool of software design (2018)](https://www.tedinski.com/2018/12/05/types-as-design-tool.html)
 * [2024-12-30, 20:50:34](https://news.ycombinator.com/item?id=42553360) - [A Puzzle about a Calculator](https://aperiodical.com/2024/12/a-puzzle-about-a-calculator/)
-* [2024-12-30, 20:07:40](https://news.ycombinator.com/item?id=42552915) - [Shmøergh Hog – The making of a simple analog synth](https://www.peterzimon.com/hog/)
 * [2024-12-30, 13:45:51](https://news.ycombinator.com/item?id=42549195) - [JPL Horizons on-line solar system data and ephemeris computation service](https://ssd.jpl.nasa.gov/horizons/)
 * [2024-12-30, 03:45:14](https://news.ycombinator.com/item?id=42546246) - [Optimizing Ruby's JSON, Part 4](https://byroot.github.io/ruby/json/2024/12/29/optimizing-ruby-json-part-4.html)
 
