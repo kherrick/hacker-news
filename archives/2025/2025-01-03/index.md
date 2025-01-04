@@ -64,6 +64,7 @@
 * [2025-01-03, 09:04:50](https://news.ycombinator.com/item?id=42583947) - [B-Trees: More Than I Thought I'd Want to Know](https://benjamincongdon.me/blog/2021/08/17/B-Trees-More-Than-I-Thought-Id-Want-to-Know/)
 * [2025-01-03, 08:28:55](https://news.ycombinator.com/item?id=42583726) - [UK ISO response to Google's policy change on device fingerprinting](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2024/12/our-response-to-google-s-policy-change-on-fingerprinting/)
 * [2025-01-03, 08:20:44](https://news.ycombinator.com/item?id=42583688) - [The Dome (2005)](https://sites.pitt.edu/~jdnorton/Goodies/Dome/)
+* [2025-01-03, 07:52:07](https://news.ycombinator.com/item?id=42583555) - [Hypso-2 satellite monitors harmful algae from space](https://phys.org/news/2025-01-hypso-satellite-algae-space.html)
 * [2025-01-03, 07:42:31](https://news.ycombinator.com/item?id=42583485) - [Mars Exploration: How the CIA's Project Stargate Went to Mars [pdf]](https://www.cia.gov/readingroom/docs/cia-rdp96-00788r001900760001-9.pdf)
 * [2025-01-03, 07:07:14](https://news.ycombinator.com/item?id=42583297) - [Why Canada Should Join the EU](https://www.economist.com/europe/2025/01/02/why-canada-should-join-the-eu)
 * [2025-01-03, 06:43:59](https://news.ycombinator.com/item?id=42583181) - [The Recursive Book of Recursion](https://inventwithpython.com/recursion/)
