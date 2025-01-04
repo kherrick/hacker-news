@@ -7,6 +7,8 @@
 * [2025-01-04, 14:31:15](https://news.ycombinator.com/item?id=42594850) - [This Year, RISC-V Laptops Arrive](https://spectrum.ieee.org/risc-v-laptops)
 * [2025-01-04, 14:13:16](https://news.ycombinator.com/item?id=42594766) - [A Mole Infiltrated the Highest Ranks of American Militias](https://www.propublica.org/article/ap3-oath-keepers-militia-mole)
 * [2025-01-04, 13:12:44](https://news.ycombinator.com/item?id=42594499) - [Kodak increases film production capacity to meet commercial, consumer demand](https://www.rochesterfirst.com/news/business/local-business/kodak-increases-film-production-capacity-to-meet-commercial-consumer-demand/)
+* [2025-01-04, 12:45:09](https://news.ycombinator.com/item?id=42594387) - [The Unisys Icon: One Canadian Xennial's Memories of Ontario's Obscure Computer](https://postgamecontent.com/post/771726085147803648/the-unisys-icon-one-canadian-xennials-memories)
+* [2025-01-04, 12:09:58](https://news.ycombinator.com/item?id=42594256) - [Using LLMs and Cursor to finish side projects](https://zohaib.me/using-llms-and-cursor-for-finishing-projects-productivity/)
 * [2025-01-04, 09:14:28](https://news.ycombinator.com/item?id=42593614) - [How to draw an outline in a video game](https://ameye.dev/notes/rendering-outlines/)
 * [2025-01-04, 07:27:04](https://news.ycombinator.com/item?id=42593135) - [Show HN: An SSH based utility to transfer pipes across machines – beam](https://github.com/ksdme/beam)
 * [2025-01-04, 06:30:24](https://news.ycombinator.com/item?id=42592910) - [Self driving 1993 Volvo with open pilot](https://practicapp.com/carbagepilot-part1/)
