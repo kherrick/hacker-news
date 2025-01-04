@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-01-04, 04:21:02",
-      "https://news.ycombinator.com/item?id=42592370"
-    ],
-    [
-      "U-Haul Growth Metros and Cities of 2024: Dallas Top Metro for In-Migration",
-      "https://www.uhaul.com/Articles/About/U-Haul-Growth-Metros-And-Cities-Of-2024-Dallas-Top-Metro-for-IN-Migration-33084/"
-    ]
-  ],
-  [
-    [
       "2025-01-04, 04:11:21",
       "https://news.ycombinator.com/item?id=42592316"
     ],
@@ -77,16 +67,6 @@
     [
       "The Invention of Battlezone (2022)",
       "https://spectrum.ieee.org/battlezone"
-    ]
-  ],
-  [
-    [
-      "2025-01-04, 00:34:01",
-      "https://news.ycombinator.com/item?id=42591029"
-    ],
-    [
-      "The State of Generative Models",
-      "https://nrehiew.github.io/blog/2024/"
     ]
   ],
   [
@@ -221,22 +201,22 @@
   ],
   [
     [
-      "2025-01-03, 12:15:17",
-      "https://news.ycombinator.com/item?id=42584981"
-    ],
-    [
-      "5G NR-U: Bringing the power of 5G to unlicensed spectrum globally",
-      "https://www.qualcomm.com/research/5g/5g-unlicensed-shared-spectrum"
-    ]
-  ],
-  [
-    [
       "2025-01-03, 11:38:49",
       "https://news.ycombinator.com/item?id=42584750"
     ],
     [
       "The Evolution of SRE at Google",
       "https://www.usenix.org/publications/loginonline/evolution-sre-google"
+    ]
+  ],
+  [
+    [
+      "2025-01-03, 10:30:44",
+      "https://news.ycombinator.com/item?id=42584400"
+    ],
+    [
+      "Can LLMs write better code if you keep asking them to “write better code”?",
+      "https://minimaxir.com/2025/01/write-better-code/"
     ]
   ],
   [
@@ -261,6 +241,16 @@
   ],
   [
     [
+      "2025-01-02, 00:17:52",
+      "https://news.ycombinator.com/item?id=42570429"
+    ],
+    [
+      "Show HN: Dimity Jones in Puzzle Castle: An Electronic Escape Novel",
+      "https://obnakwa.itch.io/dimityjones"
+    ]
+  ],
+  [
+    [
       "2024-12-31, 13:13:20",
       "https://news.ycombinator.com/item?id=42558496"
     ],
@@ -271,22 +261,32 @@
   ],
   [
     [
-      "2024-12-31, 11:19:43",
-      "https://news.ycombinator.com/item?id=42558038"
-    ],
-    [
-      "How does ChatGPT work: An in-depth look for Programmers",
-      "https://codedoodles.substack.com/p/how-does-chatgpt-work-an-in-depth"
-    ]
-  ],
-  [
-    [
       "2024-12-31, 10:56:29",
       "https://news.ycombinator.com/item?id=42557924"
     ],
     [
       "A Billion Pixels a Second: Rare Look Inside Apple's iPhone 16 Camera Labs",
       "https://www.cnet.com/tech/mobile/a-billion-pixels-a-second-i-got-a-rare-look-inside-apples-secret-iphone-16-camera-labs/"
+    ]
+  ],
+  [
+    [
+      "2024-12-31, 10:55:56",
+      "https://news.ycombinator.com/item?id=42557920"
+    ],
+    [
+      "Show HN: A remake of my 2004 PDA video game",
+      "https://nicollet.net/blog/darklaga/remake.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-31, 10:37:02",
+      "https://news.ycombinator.com/item?id=42557850"
+    ],
+    [
+      "Gource: Software Version Control Visualization",
+      "https://github.com/acaudwell/Gource"
     ]
   ],
   [
