@@ -61,6 +61,7 @@
 * [2025-01-03, 10:38:29](https://news.ycombinator.com/item?id=42584436) - [Speeding Up SQLite Inserts](https://blog.julik.nl/2025/01/maximum-speed-sqlite-inserts)
 * [2025-01-03, 10:30:44](https://news.ycombinator.com/item?id=42584400) - [Can LLMs write better code if you keep asking them to \"write better code\"?](https://minimaxir.com/2025/01/write-better-code/)
 * [2025-01-03, 10:25:09](https://news.ycombinator.com/item?id=42584373) - [My Takeaways From 12 Months Of Therapy](https://cauldron.life/blog/my-takeaways-from-therapy/)
+* [2025-01-03, 10:13:15](https://news.ycombinator.com/item?id=42584320) - [Rain Programming Language by nikeedev](https://r.nikee.dev/rain-lang)
 * [2025-01-03, 10:00:15](https://news.ycombinator.com/item?id=42584258) - [\"A Digital Prison\": Surveillance and the suppression of civil society in Serbia](https://www.amnesty.org/en/documents/eur70/8813/2024/en/)
 * [2025-01-03, 09:13:29](https://news.ycombinator.com/item?id=42583986) - [The DIY Multideck](https://diymultideck.mauri.app/manual/)
 * [2025-01-03, 09:04:50](https://news.ycombinator.com/item?id=42583947) - [B-Trees: More Than I Thought I'd Want to Know](https://benjamincongdon.me/blog/2021/08/17/B-Trees-More-Than-I-Thought-Id-Want-to-Know/)
