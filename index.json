@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-04, 14:37:52",
+      "https://news.ycombinator.com/item?id=42594896"
+    ],
+    [
+      "Show HN: Pretty-print your chess games using Prettier",
+      "https://github.com/gmasclet/prettier-plugin-pgn"
+    ]
+  ],
+  [
+    [
       "2025-01-04, 14:13:16",
       "https://news.ycombinator.com/item?id=42594766"
     ],
@@ -227,16 +237,6 @@
     [
       "The Evolution of SRE at Google",
       "https://www.usenix.org/publications/loginonline/evolution-sre-google"
-    ]
-  ],
-  [
-    [
-      "2025-01-03, 10:30:44",
-      "https://news.ycombinator.com/item?id=42584400"
-    ],
-    [
-      "Can LLMs write better code if you keep asking them to “write better code”?",
-      "https://minimaxir.com/2025/01/write-better-code/"
     ]
   ],
   [
