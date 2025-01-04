@@ -33,6 +33,7 @@
 * [2024-12-31, 13:13:20](https://news.ycombinator.com/item?id=42558496) - [Show HN: Execute SQL against Bluesky firehose](https://github.com/turbolytics/sql-flow)
 * [2024-12-31, 13:09:57](https://news.ycombinator.com/item?id=42558476) - [Show HN: RSS.Beauty – Make Your RSS Beautiful](https://rss.beauty/)
 * [2024-12-31, 12:57:20](https://news.ycombinator.com/item?id=42558422) - [Benchmarking RSA Key Generation](https://words.filippo.io/dispatches/rsa-keygen-bench/)
+* [2024-12-31, 12:18:44](https://news.ycombinator.com/item?id=42558280) - [Shifted 3 Shapes – Making a w3M Logo](https://toast.al/posts/visuallayout/2024-12-30_w3m-logo/)
 * [2024-12-31, 12:17:16](https://news.ycombinator.com/item?id=42558275) - [The Anthrobots: a new living entity with much to teach us](https://thoughtforms.life/meet-the-anthrobots-a-new-living-entity-with-much-to-teach-us/)
 * [2024-12-31, 11:44:14](https://news.ycombinator.com/item?id=42558143) - [Show HN: Org-Supertag](https://github.com/yibie/org-supertag)
 * [2024-12-31, 11:44:11](https://news.ycombinator.com/item?id=42558142) - [The British Empire Was Much Worse Than You Realize](https://www.newyorker.com/magazine/2022/04/04/the-british-empire-was-much-worse-than-you-realize-caroline-elkinss-legacy-of-violence)
