@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-01-04](index.md)
 
+* [2025-01-04, 18:01:39](https://news.ycombinator.com/item?id=42596450) - [A Return to Polymathy (2015) [pdf]](https://paulrcohen.github.io/papers/Polymathy.pdf)
 * [2025-01-04, 17:01:24](https://news.ycombinator.com/item?id=42595940) - [Infisical (YC W23) Is Hiring Solutions Engineers](https://www.ycombinator.com/companies/infisical/jobs/yaEvock-solutions-engineer)
 * [2025-01-04, 15:33:37](https://news.ycombinator.com/item?id=42595307) - [US newspapers are deleting old crime stories, offering subjects a 'clean slate'](https://www.theguardian.com/us-news/2025/jan/04/newspaper-crime-stories)
 * [2025-01-04, 15:18:13](https://news.ycombinator.com/item?id=42595190) - [Combining 15s interval whole-sky-camera photos to form a 4y spanning keogram](https://astrodon.social/@cgbassa/113770318993975063)
 * [2025-01-04, 14:37:52](https://news.ycombinator.com/item?id=42594896) - [Show HN: Pretty-print your chess games using Prettier](https://github.com/gmasclet/prettier-plugin-pgn)
 * [2025-01-04, 14:31:15](https://news.ycombinator.com/item?id=42594850) - [This Year, RISC-V Laptops Arrive](https://spectrum.ieee.org/risc-v-laptops)
 * [2025-01-04, 14:13:16](https://news.ycombinator.com/item?id=42594766) - [A Mole Infiltrated the Highest Ranks of American Militias](https://www.propublica.org/article/ap3-oath-keepers-militia-mole)
+* [2025-01-04, 14:10:44](https://news.ycombinator.com/item?id=42594750) - [MoonBit: First Look at New Language Through Building WASM Back End](https://blog.vigoo.dev/posts/moonbit-with-golem/)
 * [2025-01-04, 13:12:44](https://news.ycombinator.com/item?id=42594499) - [Kodak increases film production capacity to meet commercial, consumer demand](https://www.rochesterfirst.com/news/business/local-business/kodak-increases-film-production-capacity-to-meet-commercial-consumer-demand/)
 * [2025-01-04, 12:45:09](https://news.ycombinator.com/item?id=42594387) - [The Unisys Icon: One Canadian Xennial's Memories of Ontario's Obscure Computer](https://postgamecontent.com/post/771726085147803648/the-unisys-icon-one-canadian-xennials-memories)
 * [2025-01-04, 12:09:58](https://news.ycombinator.com/item?id=42594256) - [Using LLMs and Cursor to finish side projects](https://zohaib.me/using-llms-and-cursor-for-finishing-projects-productivity/)
