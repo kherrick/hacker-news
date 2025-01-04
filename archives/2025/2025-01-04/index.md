@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-04](index.md)
 
+* [2025-01-04, 02:53:26](https://news.ycombinator.com/item?id=42591916) - [Meta scrambles to delete its own AI accounts after backlash intensifies](https://www.rnz.co.nz/news/world/538152/meta-scrambles-to-delete-its-own-ai-accounts-after-backlash-intensifies)
 * [2025-01-04, 01:10:57](https://news.ycombinator.com/item?id=42591291) - [Show HN: I aggregated over 200 Go-To-Market strategies](https://fellowry.com/)
 * [2025-01-04, 01:01:55](https://news.ycombinator.com/item?id=42591221) - [Why I'm quitting the Washington Post](https://anntelnaes.substack.com/p/why-im-quitting-the-washington-post)
 * [2025-01-04, 00:34:01](https://news.ycombinator.com/item?id=42591029) - [The State of Generative Models](https://nrehiew.github.io/blog/2024/)

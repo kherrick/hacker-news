@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-04, 02:53:26](https://news.ycombinator.com/item?id=42591916) - [Meta scrambles to delete its own AI accounts after backlash intensifies](https://www.rnz.co.nz/news/world/538152/meta-scrambles-to-delete-its-own-ai-accounts-after-backlash-intensifies)
 * [2025-01-04, 01:10:57](https://news.ycombinator.com/item?id=42591291) - [Show HN: I aggregated over 200 Go-To-Market strategies](https://fellowry.com/)
 * [2025-01-04, 00:34:01](https://news.ycombinator.com/item?id=42591029) - [The State of Generative Models](https://nrehiew.github.io/blog/2024/)
 * [2025-01-04, 00:28:53](https://news.ycombinator.com/item?id=42590992) - [Conscious unbossing – 52% of GenZ professionals don't want to be middle managers](https://www.robertwalters.co.uk/insights/news/blog/conscious-unbossing.html)
 * [2025-01-04, 00:13:13](https://news.ycombinator.com/item?id=42590903) - [A marriage of solar energy and farming](https://www.ksjd.org/2024-12-31/in-colorado-a-marriage-of-solar-energy-and-farming-provides-a-model-for-a-more-sustainable-future)
 * [2025-01-03, 23:52:00](https://news.ycombinator.com/item?id=42590788) - [Swc4j: SWC for Java](https://github.com/caoccao/swc4j)
-* [2025-01-03, 22:49:08](https://news.ycombinator.com/item?id=42590322) - [A path to O1 open source](https://arxiv.org/abs/2412.14135)
 * [2025-01-03, 22:47:11](https://news.ycombinator.com/item?id=42590307) - [F-Droid Fake Signer PoC](https://github.com/obfusk/fdroid-fakesigner-poc)
 * [2025-01-03, 21:54:42](https://news.ycombinator.com/item?id=42589863) - [Perplexity got ads](https://twitter.com/damengchen/status/1875296442417607072)
 * [2025-01-03, 21:01:16](https://news.ycombinator.com/item?id=42589431) - [Extend (YC W23) is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
