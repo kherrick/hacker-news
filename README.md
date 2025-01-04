@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-04, 20:24:14](https://news.ycombinator.com/item?id=42597428) - [Show HN: Signify – FOSS tool to generate Email signatures (HTML and PNG)](https://signify.difuse.io)
 * [2025-01-04, 20:19:07](https://news.ycombinator.com/item?id=42597395) - [The Begining of the End for ANT+ Wireless](https://www.dcrainmaker.com/2025/01/the-begining-of-the-end-for-ant-wireless.html)
 * [2025-01-04, 19:23:43](https://news.ycombinator.com/item?id=42596983) - [ELKS: Linux for 16-bit Intel Processors](https://github.com/ghaerr/elks)
 * [2025-01-04, 19:01:22](https://news.ycombinator.com/item?id=42596843) - [Killing Orson Welles at Midnight (2011)](https://www.nybooks.com/articles/2011/04/28/killing-orson-welles-midnight/)
@@ -21,6 +20,7 @@
 * [2025-01-03, 22:47:11](https://news.ycombinator.com/item?id=42590307) - [F-Droid Fake Signer PoC](https://github.com/obfusk/fdroid-fakesigner-poc)
 * [2025-01-03, 22:18:12](https://news.ycombinator.com/item?id=42590055) - [Parasitic worms 'manipulate' mantises onto asphalt roads, say researchers](https://mainichi.jp/english/articles/20241115/p2a/00m/0sc/009000c)
 * [2025-01-03, 20:01:29](https://news.ycombinator.com/item?id=42588956) - [VoxelSpace: Terrain rendering algorithm in less than 20 lines of code (2020)](https://github.com/s-macke/VoxelSpace)
+* [2025-01-03, 17:05:17](https://news.ycombinator.com/item?id=42587356) - [SpaceSim](https://pavelsevecek.github.io/)
 * [2025-01-03, 13:59:49](https://news.ycombinator.com/item?id=42585707) - [Phase behavior of Cacio and Pepe sauce](https://arxiv.org/abs/2501.00536)
 * [2025-01-03, 12:20:27](https://news.ycombinator.com/item?id=42585009) - [Show HN: I completed shipping my desktop app](https://pimosa.app/)
 * [2025-01-03, 11:57:08](https://news.ycombinator.com/item?id=42584860) - [\"AI\" on a Calculator: Part 1](https://z80.me/blog/calculator-ai-part-1/)
