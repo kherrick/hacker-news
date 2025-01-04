@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-04](index.md)
 
+* [2025-01-04, 13:12:44](https://news.ycombinator.com/item?id=42594499) - [Kodak increases film production capacity to meet commercial, consumer demand](https://www.rochesterfirst.com/news/business/local-business/kodak-increases-film-production-capacity-to-meet-commercial-consumer-demand/)
 * [2025-01-04, 09:14:28](https://news.ycombinator.com/item?id=42593614) - [How to draw an outline in a video game](https://ameye.dev/notes/rendering-outlines/)
 * [2025-01-04, 07:27:04](https://news.ycombinator.com/item?id=42593135) - [Show HN: An SSH based utility to transfer pipes across machines – beam](https://github.com/ksdme/beam)
 * [2025-01-04, 06:30:24](https://news.ycombinator.com/item?id=42592910) - [Self driving 1993 Volvo with open pilot](https://practicapp.com/carbagepilot-part1/)
@@ -24,4 +25,5 @@
 * [2025-01-04, 01:01:55](https://news.ycombinator.com/item?id=42591221) - [Why I'm quitting the Washington Post](https://anntelnaes.substack.com/p/why-im-quitting-the-washington-post)
 * [2025-01-04, 00:34:01](https://news.ycombinator.com/item?id=42591029) - [The State of Generative Models](https://nrehiew.github.io/blog/2024/)
 * [2025-01-04, 00:28:53](https://news.ycombinator.com/item?id=42590992) - [Conscious unbossing – 52% of GenZ professionals don't want to be middle managers](https://www.robertwalters.co.uk/insights/news/blog/conscious-unbossing.html)
+* [2025-01-04, 00:26:45](https://news.ycombinator.com/item?id=42590981) - [Meta is killing off its AI-powered Instagram and Facebook profiles](https://www.theguardian.com/technology/2025/jan/03/meta-ai-powered-instagram-facebook-profiles)
 * [2025-01-04, 00:13:13](https://news.ycombinator.com/item?id=42590903) - [A marriage of solar energy and farming](https://www.ksjd.org/2024-12-31/in-colorado-a-marriage-of-solar-energy-and-farming-provides-a-model-for-a-more-sustainable-future)
