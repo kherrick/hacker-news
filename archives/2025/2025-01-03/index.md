@@ -45,6 +45,7 @@
 * [2025-01-03, 13:08:08](https://news.ycombinator.com/item?id=42585332) - [Oral history of Caroline Rose, writer of Inside Macintosh (2023) [video]](https://www.youtube.com/watch?v=RikO_3jedlY)
 * [2025-01-03, 12:37:43](https://news.ycombinator.com/item?id=42585130) - [Digital Homeownership](https://blog.muni.town/digital-homeownership/)
 * [2025-01-03, 12:20:27](https://news.ycombinator.com/item?id=42585009) - [Show HN: I completed shipping my desktop app](https://pimosa.app/)
+* [2025-01-03, 12:15:17](https://news.ycombinator.com/item?id=42584981) - [5G NR-U: Bringing the power of 5G to unlicensed spectrum globally](https://www.qualcomm.com/research/5g/5g-unlicensed-shared-spectrum)
 * [2025-01-03, 12:03:42](https://news.ycombinator.com/item?id=42584900) - [A free, unlimited online PDF converter with Privacy focus](https://quicklypdf.com)
 * [2025-01-03, 12:00:41](https://news.ycombinator.com/item?id=42584874) - [CoinTracker (YC W18) hiring product engineer to solve crypto accounting](https://jobs.ashbyhq.com/cointracker/c039fbb9-2ed7-4a68-bc7a-c6f929d5d5e5)
 * [2025-01-03, 11:55:55](https://news.ycombinator.com/item?id=42584856) - [Apple auto-opts everyone into having their photos analyzed by AI for landmarks](https://www.theregister.com/2025/01/03/apple_enhanced_visual_search/)
