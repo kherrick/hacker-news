@@ -35,6 +35,7 @@
 * [2025-01-02, 16:10:08](https://news.ycombinator.com/item?id=42575648) - [Show HN: I built an AI calendar to help you get stuff done – feedback wanted](https://running4-m.github.io/Ai-Calendar/description.html)
 * [2025-01-02, 16:00:09](https://news.ycombinator.com/item?id=42575537) - [Ask HN: Who is hiring? (January 2025)](https://news.ycombinator.com/item?id=42575537)
 * [2025-01-02, 16:00:09](https://news.ycombinator.com/item?id=42575535) - [Ask HN: Who wants to be hired? (January 2025)](https://news.ycombinator.com/item?id=42575535)
+* [2025-01-02, 15:45:34](https://news.ycombinator.com/item?id=42575390) - [Hacking yourself a satellite – recovering BEESAT-1 [video]](https://media.ccc.de/v/38c3-hacking-yourself-a-satellite-recovering-beesat-1)
 * [2025-01-02, 15:23:53](https://news.ycombinator.com/item?id=42575200) - [The Peter Principle still resonates](https://www.cbc.ca/news/canada/british-columbia/peter-principle-vancouver-history-1.7415994)
 * [2025-01-02, 15:22:08](https://news.ycombinator.com/item?id=42575189) - [HTML_slice: Enable Ruby classes the ability to generate reusable pieces of HTML](https://github.com/henrique-ft/html_slice)
 * [2025-01-02, 15:19:10](https://news.ycombinator.com/item?id=42575159) - [The Accidental Invention of the Snow Globe (2024)](https://www.smithsonianmag.com/innovation/how-an-experiment-to-amplify-light-in-hospital-operating-rooms-led-to-the-accidental-invention-of-the-snow-globe-180985742/)
