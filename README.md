@@ -9,7 +9,6 @@
 * [2025-01-04, 14:13:16](https://news.ycombinator.com/item?id=42594766) - [A Mole Infiltrated the Highest Ranks of American Militias](https://www.propublica.org/article/ap3-oath-keepers-militia-mole)
 * [2025-01-04, 14:10:44](https://news.ycombinator.com/item?id=42594750) - [MoonBit: First Look at New Language Through Building WASM Back End](https://blog.vigoo.dev/posts/moonbit-with-golem/)
 * [2025-01-04, 12:45:09](https://news.ycombinator.com/item?id=42594387) - [The Unisys Icon: One Canadian Xennial's Memories of Ontario's Obscure Computer](https://postgamecontent.com/post/771726085147803648/the-unisys-icon-one-canadian-xennials-memories)
-* [2025-01-04, 12:09:58](https://news.ycombinator.com/item?id=42594256) - [Using LLMs and Cursor to finish side projects](https://zohaib.me/using-llms-and-cursor-for-finishing-projects-productivity/)
 * [2025-01-04, 11:10:20](https://news.ycombinator.com/item?id=42594024) - [One Dog vs. the Windows 3.1 Graphics Stack](https://wuffs.org/blog/windows-3x-graphics)
 * [2025-01-04, 09:14:28](https://news.ycombinator.com/item?id=42593614) - [How to draw an outline in a video game](https://ameye.dev/notes/rendering-outlines/)
 * [2025-01-04, 06:30:24](https://news.ycombinator.com/item?id=42592910) - [Self driving 1993 Volvo with open pilot](https://practicapp.com/carbagepilot-part1/)
@@ -30,6 +29,7 @@
 * [2025-01-03, 09:04:50](https://news.ycombinator.com/item?id=42583947) - [B-Trees: More Than I Thought I'd Want to Know](https://benjamincongdon.me/blog/2021/08/17/B-Trees-More-Than-I-Thought-Id-Want-to-Know/)
 * [2025-01-02, 15:45:34](https://news.ycombinator.com/item?id=42575390) - [Hacking yourself a satellite – recovering BEESAT-1 [video]](https://media.ccc.de/v/38c3-hacking-yourself-a-satellite-recovering-beesat-1)
 * [2025-01-01, 21:47:09](https://news.ycombinator.com/item?id=42569582) - [Twinge of Saudade: Biographies of Abba](https://www.lrb.co.uk/the-paper/v46/n24/chal-ravens/twinge-of-saudade)
+* [2024-12-31, 10:56:29](https://news.ycombinator.com/item?id=42557924) - [A Billion Pixels a Second: Inside Apple's iPhone 16 Camera Labs](https://www.cnet.com/tech/mobile/a-billion-pixels-a-second-i-got-a-rare-look-inside-apples-secret-iphone-16-camera-labs/)
 
 ## [Archives](archives/index.md)
 
