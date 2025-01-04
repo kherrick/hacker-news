@@ -36,6 +36,7 @@
 * [2024-12-31, 12:17:16](https://news.ycombinator.com/item?id=42558275) - [The Anthrobots: a new living entity with much to teach us](https://thoughtforms.life/meet-the-anthrobots-a-new-living-entity-with-much-to-teach-us/)
 * [2024-12-31, 11:44:14](https://news.ycombinator.com/item?id=42558143) - [Show HN: Org-Supertag](https://github.com/yibie/org-supertag)
 * [2024-12-31, 11:44:11](https://news.ycombinator.com/item?id=42558142) - [The British Empire Was Much Worse Than You Realize](https://www.newyorker.com/magazine/2022/04/04/the-british-empire-was-much-worse-than-you-realize-caroline-elkinss-legacy-of-violence)
+* [2024-12-31, 11:19:43](https://news.ycombinator.com/item?id=42558038) - [How does ChatGPT work: An in-depth look for Programmers](https://codedoodles.substack.com/p/how-does-chatgpt-work-an-in-depth)
 * [2024-12-31, 11:19:17](https://news.ycombinator.com/item?id=42558037) - [Darktable 5.0.0 Released](https://www.darktable.org/2024/12/darktable-5.0.0-released/)
 * [2024-12-31, 11:17:25](https://news.ycombinator.com/item?id=42558027) - [Java's SimpleDateFormat: YYYY vs. Yyyy](http://dangoldin.com/2019/01/06/javas-simpledateformat-yyyy-vs-yyyy/)
 * [2024-12-31, 11:01:13](https://news.ycombinator.com/item?id=42557947) - [Ask HN: How to learn marketing and sales as a solo entrepreneur?](https://news.ycombinator.com/item?id=42557947)
