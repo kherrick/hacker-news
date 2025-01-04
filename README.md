@@ -10,6 +10,7 @@
 * [2025-01-04, 00:13:13](https://news.ycombinator.com/item?id=42590903) - [In Colorado, a marriage of solar energy and farming](https://www.ksjd.org/2024-12-31/in-colorado-a-marriage-of-solar-energy-and-farming-provides-a-model-for-a-more-sustainable-future)
 * [2025-01-03, 23:52:00](https://news.ycombinator.com/item?id=42590788) - [Swc4j: SWC for Java](https://github.com/caoccao/swc4j)
 * [2025-01-03, 22:47:11](https://news.ycombinator.com/item?id=42590307) - [F-Droid Fake Signer PoC](https://github.com/obfusk/fdroid-fakesigner-poc)
+* [2025-01-03, 22:44:47](https://news.ycombinator.com/item?id=42590290) - [Show HN: AI that generates 3blue1brown-style explainer videos](https://tma.live)
 * [2025-01-03, 22:18:12](https://news.ycombinator.com/item?id=42590055) - [Parasitic worms 'manipulate' mantises onto asphalt roads, say researchers](https://mainichi.jp/english/articles/20241115/p2a/00m/0sc/009000c)
 * [2025-01-03, 21:54:42](https://news.ycombinator.com/item?id=42589863) - [Perplexity got ads](https://twitter.com/damengchen/status/1875296442417607072)
 * [2025-01-03, 21:24:44](https://news.ycombinator.com/item?id=42589629) - [Transcendental Syntax](https://github.com/engboris/transcendental-syntax)
@@ -27,7 +28,6 @@
 * [2025-01-03, 06:36:35](https://news.ycombinator.com/item?id=42583141) - [Laser mapping reveals oldest Amazonian cities, built 2500 years ago (2024)](https://www.science.org/content/article/laser-mapping-reveals-oldest-amazonian-cities-built-2500-years-ago)
 * [2025-01-03, 04:14:38](https://news.ycombinator.com/item?id=42582352) - [How Saffron, a precious import, became an American cash crop](https://www.nytimes.com/2025/01/02/dining/saffron-farming-crop.html)
 * [2024-12-31, 10:56:29](https://news.ycombinator.com/item?id=42557924) - [A Billion Pixels a Second: Rare Look Inside Apple's iPhone 16 Camera Labs](https://www.cnet.com/tech/mobile/a-billion-pixels-a-second-i-got-a-rare-look-inside-apples-secret-iphone-16-camera-labs/)
-* [2024-12-31, 10:55:56](https://news.ycombinator.com/item?id=42557920) - [Show HN: A remake of my 2004 PDA video game](https://nicollet.net/blog/darklaga/remake.html)
 * [2024-12-31, 10:37:02](https://news.ycombinator.com/item?id=42557850) - [Gource: Software Version Control Visualization](https://github.com/acaudwell/Gource)
 * [2024-12-31, 06:12:10](https://news.ycombinator.com/item?id=42556808) - [Elektročas HH3 – the most accurate pendulum clock on the planet](https://dvaluch.web.cern.ch/hh3/)
 
