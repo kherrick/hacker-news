@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-01-04, 20:02:29",
+      "https://news.ycombinator.com/item?id=42597283"
+    ],
+    [
+      "Labwc: Wlroots-based window-stacking compositor for Wayland, inspired by openbox",
+      "https://labwc.github.io/"
+    ]
+  ],
+  [
+    [
       "2025-01-04, 19:23:43",
       "https://news.ycombinator.com/item?id=42596983"
     ],
@@ -187,16 +197,6 @@
     [
       "VoxelSpace: Terrain rendering algorithm in less than 20 lines of code (2020)",
       "https://github.com/s-macke/VoxelSpace"
-    ]
-  ],
-  [
-    [
-      "2025-01-03, 17:05:17",
-      "https://news.ycombinator.com/item?id=42587356"
-    ],
-    [
-      "SpaceSim",
-      "https://pavelsevecek.github.io/"
     ]
   ],
   [
