@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-04, 04:11:21](https://news.ycombinator.com/item?id=42592316) - [XORShift for Magic Bitboards](https://www.strydr.net/articles/devlog-0x1)
+* [2025-01-04, 03:51:38](https://news.ycombinator.com/item?id=42592224) - [Breaking Up with Long Tasks or: how I learned to group loops and wield the yield](https://calendar.perfplanet.com/2024/breaking-up-with-long-tasks-or-how-i-learned-to-group-loops-and-wield-the-yield/)
 * [2025-01-04, 02:57:09](https://news.ycombinator.com/item?id=42591939) - [Wash. Post Cartoonist Quits After Bezos-Owned Paper Kills Trump Satire Piece](https://www.thewrap.com/washington-post-cartoonist-quits-after-bezos-trump-satire-killed/)
 * [2025-01-04, 01:10:57](https://news.ycombinator.com/item?id=42591291) - [Show HN: I aggregated over 200 Go-To-Market strategies](https://fellowry.com/)
 * [2025-01-04, 00:34:01](https://news.ycombinator.com/item?id=42591029) - [The State of Generative Models](https://nrehiew.github.io/blog/2024/)
@@ -12,12 +14,9 @@
 * [2025-01-03, 21:24:44](https://news.ycombinator.com/item?id=42589629) - [Transcendental Syntax](https://github.com/engboris/transcendental-syntax)
 * [2025-01-03, 21:01:16](https://news.ycombinator.com/item?id=42589431) - [Extend (YC W23) is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
 * [2025-01-03, 20:01:29](https://news.ycombinator.com/item?id=42588956) - [VoxelSpace: Terrain rendering algorithm in less than 20 lines of code (2020)](https://github.com/s-macke/VoxelSpace)
-* [2025-01-03, 18:24:41](https://news.ycombinator.com/item?id=42588151) - [Zebrafish protein unlocks dormant genes for heart repair](https://www.hubrecht.eu/zebrafish-protein-unlocks-dormant-genes-for-heart-repair/)
-* [2025-01-03, 17:56:00](https://news.ycombinator.com/item?id=42587883) - [Two Turntables and a Microphone (2006)](https://goodfuzzysounds.com/ma/docs/funnyversion.htm)
 * [2025-01-03, 17:05:17](https://news.ycombinator.com/item?id=42587356) - [SpaceSim](https://pavelsevecek.github.io/)
 * [2025-01-03, 15:42:02](https://news.ycombinator.com/item?id=42586590) - [Mandelbrot deep zoom theory and practice (2021)](https://mathr.co.uk/blog/2021-05-14_deep_zoom_theory_and_practice.html)
 * [2025-01-03, 14:45:52](https://news.ycombinator.com/item?id=42586042) - [What we learned copying all the best code assistants](https://blog.val.town/blog/fast-follow/)
-* [2025-01-03, 13:08:08](https://news.ycombinator.com/item?id=42585332) - [Oral history of Caroline Rose, writer of Inside Macintosh (2023) [video]](https://www.youtube.com/watch?v=RikO_3jedlY)
 * [2025-01-03, 12:20:27](https://news.ycombinator.com/item?id=42585009) - [Show HN: I completed shipping my desktop app](https://pimosa.app/)
 * [2025-01-03, 11:38:49](https://news.ycombinator.com/item?id=42584750) - [The Evolution of SRE at Google](https://www.usenix.org/publications/loginonline/evolution-sre-google)
 * [2025-01-03, 11:11:39](https://news.ycombinator.com/item?id=42584610) - [Yemeni Coffee Shops in Texas](https://www.texasmonthly.com/food/yemeni-coffee-shops-booming-in-texas/)
@@ -30,6 +29,7 @@
 * [2024-12-31, 10:56:29](https://news.ycombinator.com/item?id=42557924) - [A Billion Pixels a Second: Rare Look Inside Apple's iPhone 16 Camera Labs](https://www.cnet.com/tech/mobile/a-billion-pixels-a-second-i-got-a-rare-look-inside-apples-secret-iphone-16-camera-labs/)
 * [2024-12-31, 10:55:56](https://news.ycombinator.com/item?id=42557920) - [Show HN: A remake of my 2004 PDA video game](https://nicollet.net/blog/darklaga/remake.html)
 * [2024-12-31, 10:37:02](https://news.ycombinator.com/item?id=42557850) - [Gource: Software Version Control Visualization](https://github.com/acaudwell/Gource)
+* [2024-12-31, 06:12:10](https://news.ycombinator.com/item?id=42556808) - [Elektročas HH3 – the most accurate pendulum clock on the planet](https://dvaluch.web.cern.ch/hh3/)
 
 ## [Archives](archives/index.md)
 

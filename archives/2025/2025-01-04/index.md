@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-04](index.md)
 
+* [2025-01-04, 04:11:21](https://news.ycombinator.com/item?id=42592316) - [XORShift for Magic Bitboards](https://www.strydr.net/articles/devlog-0x1)
+* [2025-01-04, 03:51:38](https://news.ycombinator.com/item?id=42592224) - [Breaking Up with Long Tasks or: how I learned to group loops and wield the yield](https://calendar.perfplanet.com/2024/breaking-up-with-long-tasks-or-how-i-learned-to-group-loops-and-wield-the-yield/)
 * [2025-01-04, 02:57:09](https://news.ycombinator.com/item?id=42591939) - [Wash. Post Cartoonist Quits After Bezos-Owned Paper Kills Trump Satire Piece](https://www.thewrap.com/washington-post-cartoonist-quits-after-bezos-trump-satire-killed/)
 * [2025-01-04, 02:53:26](https://news.ycombinator.com/item?id=42591916) - [Meta scrambles to delete its own AI accounts after backlash intensifies](https://www.rnz.co.nz/news/world/538152/meta-scrambles-to-delete-its-own-ai-accounts-after-backlash-intensifies)
 * [2025-01-04, 01:10:57](https://news.ycombinator.com/item?id=42591291) - [Show HN: I aggregated over 200 Go-To-Market strategies](https://fellowry.com/)

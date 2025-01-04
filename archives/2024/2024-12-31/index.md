@@ -58,6 +58,7 @@
 * [2024-12-31, 07:30:48](https://news.ycombinator.com/item?id=42557142) - [Electrical circuits encased in fluid may reshape data-center design](https://www.sandia.gov/labnews/2024/05/30/hpc-cooling/)
 * [2024-12-31, 07:20:19](https://news.ycombinator.com/item?id=42557098) - [An Unreasonable Amount of Time](https://allenpike.com/2024/an-unreasonable-amount-of-time)
 * [2024-12-31, 07:04:12](https://news.ycombinator.com/item?id=42557019) - [Performance (On an HP48GX Graphing Calculator)](http://masochistcoder.blogspot.com/2016/05/performance.html)
+* [2024-12-31, 06:12:10](https://news.ycombinator.com/item?id=42556808) - [Elektročas HH3 – the most accurate pendulum clock on the planet](https://dvaluch.web.cern.ch/hh3/)
 * [2024-12-31, 04:31:18](https://news.ycombinator.com/item?id=42556408) - [BYD is automaker with the most R&D staff in the world](https://electrek.co/2024/09/13/byd-worlds-largest-automaker-rd-workforce/)
 * [2024-12-31, 02:55:33](https://news.ycombinator.com/item?id=42555953) - [T2x – a CLI tool for AI-first text operations](https://www.shruggingface.com/microblog/2024/11/28/t2x-a-cli-tool-for-ai-first-text-operations)
 * [2024-12-31, 01:52:06](https://news.ycombinator.com/item?id=42555594) - [More telcos confirm Salt Typhoon breaches as White House weighs in](https://www.theregister.com/2024/12/30/att_verizon_confirm_salt_typhoon_breach/)
