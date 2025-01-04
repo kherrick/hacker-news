@@ -14,6 +14,7 @@
 * [2025-01-01, 21:18:29](https://news.ycombinator.com/item?id=42569390) - [SF Purity Test](https://www.sfpurity.com/)
 * [2025-01-01, 20:58:04](https://news.ycombinator.com/item?id=42569236) - [Rails for Everything](https://literallythevoid.com/blog/rails_for_everything.html)
 * [2025-01-01, 20:39:53](https://news.ycombinator.com/item?id=42569109) - [My favourite computer ergonomics hack](https://blog.jacobvosmaer.nl/0036-beeper/)
+* [2025-01-01, 20:34:58](https://news.ycombinator.com/item?id=42569077) - [Human in the Loop and the Missing Productivity Growth](https://everything.intellectronica.net/p/human-and-tech-productivity)
 * [2025-01-01, 20:02:19](https://news.ycombinator.com/item?id=42568805) - [When the Lore Defeated the Law](https://davidallengreen.com/2025/01/how-the-lore-of-new-year-defeated-the-law-of-new-year-how-the-english-state-gave-up-on-insisting-the-new-year-started-on-25-march/)
 * [2025-01-01, 19:54:39](https://news.ycombinator.com/item?id=42568749) - [Show HN: GitHub-style screen time visualizer on iOS](https://apps.apple.com/us/app/clearspace-reduce-screen-time/id1572515807)
 * [2025-01-01, 19:25:32](https://news.ycombinator.com/item?id=42568516) - [Indexing Code at Scale with Glean](https://engineering.fb.com/2024/12/19/developer-tools/glean-open-source-code-indexing/)

@@ -17,7 +17,6 @@
 * [2025-01-04, 03:32:06](https://news.ycombinator.com/item?id=42592126) - [Do Files want to be Actors?](https://lewiscampbell.tech/blog/250104.html)
 * [2025-01-04, 00:26:45](https://news.ycombinator.com/item?id=42590981) - [Meta is killing off its AI-powered Instagram and Facebook profiles](https://www.theguardian.com/technology/2025/jan/03/meta-ai-powered-instagram-facebook-profiles)
 * [2025-01-04, 00:13:13](https://news.ycombinator.com/item?id=42590903) - [In Colorado, a marriage of solar energy and farming](https://www.ksjd.org/2024-12-31/in-colorado-a-marriage-of-solar-energy-and-farming-provides-a-model-for-a-more-sustainable-future)
-* [2025-01-03, 22:47:11](https://news.ycombinator.com/item?id=42590307) - [F-Droid Fake Signer PoC](https://github.com/obfusk/fdroid-fakesigner-poc)
 * [2025-01-03, 22:18:12](https://news.ycombinator.com/item?id=42590055) - [Parasitic worms 'manipulate' mantises onto asphalt roads, say researchers](https://mainichi.jp/english/articles/20241115/p2a/00m/0sc/009000c)
 * [2025-01-03, 20:01:29](https://news.ycombinator.com/item?id=42588956) - [VoxelSpace: Terrain rendering algorithm in less than 20 lines of code (2020)](https://github.com/s-macke/VoxelSpace)
 * [2025-01-03, 17:05:17](https://news.ycombinator.com/item?id=42587356) - [SpaceSim](https://pavelsevecek.github.io/)
@@ -30,6 +29,7 @@
 * [2025-01-03, 06:57:26](https://news.ycombinator.com/item?id=42583246) - [Don't Clobber the Frame Pointer](https://nsrip.com/posts/clobberfp.html)
 * [2025-01-02, 15:45:34](https://news.ycombinator.com/item?id=42575390) - [Hacking yourself a satellite – recovering BEESAT-1 [video]](https://media.ccc.de/v/38c3-hacking-yourself-a-satellite-recovering-beesat-1)
 * [2025-01-02, 10:16:26](https://news.ycombinator.com/item?id=42573232) - [Ask HN: How are you using LLMs for traversing decompiler output?](https://news.ycombinator.com/item?id=42573232)
+* [2025-01-01, 20:34:58](https://news.ycombinator.com/item?id=42569077) - [Human in the Loop and the Missing Productivity Growth](https://everything.intellectronica.net/p/human-and-tech-productivity)
 
 ## [Archives](archives/index.md)
 
