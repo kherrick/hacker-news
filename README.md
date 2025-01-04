@@ -2,7 +2,6 @@
 
 * [2025-01-04, 09:14:28](https://news.ycombinator.com/item?id=42593614) - [How to draw an outline in a video game](https://ameye.dev/notes/rendering-outlines/)
 * [2025-01-04, 06:30:24](https://news.ycombinator.com/item?id=42592910) - [Self driving 1993 Volvo with open pilot](https://practicapp.com/carbagepilot-part1/)
-* [2025-01-04, 06:29:21](https://news.ycombinator.com/item?id=42592905) - [Show HN: I worked on a feature that allows you to preview fonts side by side](https://font-tester.foxcraft.tech/)
 * [2025-01-04, 05:00:24](https://news.ycombinator.com/item?id=42592543) - [Programming as Theory Building [pdf]](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
 * [2025-01-04, 04:11:21](https://news.ycombinator.com/item?id=42592316) - [XORShift for Magic Bitboards](https://www.strydr.net/articles/devlog-0x1)
 * [2025-01-04, 03:51:38](https://news.ycombinator.com/item?id=42592224) - [Breaking Up with Long Tasks or: how I learned to group loops and wield the yield](https://calendar.perfplanet.com/2024/breaking-up-with-long-tasks-or-how-i-learned-to-group-loops-and-wield-the-yield/)
@@ -20,6 +19,7 @@
 * [2025-01-03, 14:45:52](https://news.ycombinator.com/item?id=42586042) - [What we learned copying all the best code assistants](https://blog.val.town/blog/fast-follow/)
 * [2025-01-03, 13:59:49](https://news.ycombinator.com/item?id=42585707) - [Phase behavior of Cacio and Pepe sauce](https://arxiv.org/abs/2501.00536)
 * [2025-01-03, 12:20:27](https://news.ycombinator.com/item?id=42585009) - [Show HN: I completed shipping my desktop app](https://pimosa.app/)
+* [2025-01-03, 11:57:08](https://news.ycombinator.com/item?id=42584860) - [\"AI\" on a Calculator: Part 1](https://z80.me/blog/calculator-ai-part-1/)
 * [2025-01-03, 11:38:49](https://news.ycombinator.com/item?id=42584750) - [The Evolution of SRE at Google](https://www.usenix.org/publications/loginonline/evolution-sre-google)
 * [2025-01-03, 10:30:44](https://news.ycombinator.com/item?id=42584400) - [Can LLMs write better code if you keep asking them to “write better code”?](https://minimaxir.com/2025/01/write-better-code/)
 * [2025-01-03, 10:25:09](https://news.ycombinator.com/item?id=42584373) - [My Takeaways From 12 Months Of Therapy](https://cauldron.life/blog/my-takeaways-from-therapy/)

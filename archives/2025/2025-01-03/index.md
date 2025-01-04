@@ -49,6 +49,7 @@
 * [2025-01-03, 12:15:17](https://news.ycombinator.com/item?id=42584981) - [5G NR-U: Bringing the power of 5G to unlicensed spectrum globally](https://www.qualcomm.com/research/5g/5g-unlicensed-shared-spectrum)
 * [2025-01-03, 12:03:42](https://news.ycombinator.com/item?id=42584900) - [A free, unlimited online PDF converter with Privacy focus](https://quicklypdf.com)
 * [2025-01-03, 12:00:41](https://news.ycombinator.com/item?id=42584874) - [CoinTracker (YC W18) hiring product engineer to solve crypto accounting](https://jobs.ashbyhq.com/cointracker/c039fbb9-2ed7-4a68-bc7a-c6f929d5d5e5)
+* [2025-01-03, 11:57:08](https://news.ycombinator.com/item?id=42584860) - [\"AI\" on a Calculator: Part 1](https://z80.me/blog/calculator-ai-part-1/)
 * [2025-01-03, 11:55:55](https://news.ycombinator.com/item?id=42584856) - [Apple auto-opts everyone into having their photos analyzed by AI for landmarks](https://www.theregister.com/2025/01/03/apple_enhanced_visual_search/)
 * [2025-01-03, 11:38:49](https://news.ycombinator.com/item?id=42584750) - [The Evolution of SRE at Google](https://www.usenix.org/publications/loginonline/evolution-sre-google)
 * [2025-01-03, 11:14:30](https://news.ycombinator.com/item?id=42584621) - [Court strikes down US net neutrality rules](https://www.bbc.com/news/articles/c4gl417l757o)
