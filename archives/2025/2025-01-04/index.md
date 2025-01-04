@@ -6,6 +6,7 @@
 
 * [2025-01-04, 20:24:14](https://news.ycombinator.com/item?id=42597428) - [Show HN: Signify – FOSS tool to generate Email signatures (HTML and PNG)](https://signify.difuse.io)
 * [2025-01-04, 20:19:07](https://news.ycombinator.com/item?id=42597395) - [The Begining of the End for ANT+ Wireless](https://www.dcrainmaker.com/2025/01/the-begining-of-the-end-for-ant-wireless.html)
+* [2025-01-04, 20:02:29](https://news.ycombinator.com/item?id=42597283) - [Labwc: Wlroots-based window-stacking compositor for Wayland, inspired by openbox](https://labwc.github.io/)
 * [2025-01-04, 19:23:43](https://news.ycombinator.com/item?id=42596983) - [ELKS: Linux for 16-bit Intel Processors](https://github.com/ghaerr/elks)
 * [2025-01-04, 19:01:22](https://news.ycombinator.com/item?id=42596843) - [Killing Orson Welles at Midnight (2011)](https://www.nybooks.com/articles/2011/04/28/killing-orson-welles-midnight/)
 * [2025-01-04, 18:25:39](https://news.ycombinator.com/item?id=42596607) - [Show HN: Open Rewind – POC for audio and screen and video streaming to S3](https://github.com/janwilmake/efficient-recorder)
