@@ -39,6 +39,7 @@
 * [2024-12-31, 11:19:17](https://news.ycombinator.com/item?id=42558037) - [Darktable 5.0.0 Released](https://www.darktable.org/2024/12/darktable-5.0.0-released/)
 * [2024-12-31, 11:17:25](https://news.ycombinator.com/item?id=42558027) - [Java's SimpleDateFormat: YYYY vs. Yyyy](http://dangoldin.com/2019/01/06/javas-simpledateformat-yyyy-vs-yyyy/)
 * [2024-12-31, 11:01:13](https://news.ycombinator.com/item?id=42557947) - [Ask HN: How to learn marketing and sales as a solo entrepreneur?](https://news.ycombinator.com/item?id=42557947)
+* [2024-12-31, 10:56:29](https://news.ycombinator.com/item?id=42557924) - [A Billion Pixels a Second: Rare Look Inside Apple's iPhone 16 Camera Labs](https://www.cnet.com/tech/mobile/a-billion-pixels-a-second-i-got-a-rare-look-inside-apples-secret-iphone-16-camera-labs/)
 * [2024-12-31, 10:55:56](https://news.ycombinator.com/item?id=42557920) - [Show HN: A remake of my 2004 PDA video game](https://nicollet.net/blog/darklaga/remake.html)
 * [2024-12-31, 10:51:33](https://news.ycombinator.com/item?id=42557904) - [Multispectral imaging through scattering media and around corners](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-27-48786&id=566035)
 * [2024-12-31, 10:37:02](https://news.ycombinator.com/item?id=42557850) - [Gource: Software Version Control Visualization](https://github.com/acaudwell/Gource)
