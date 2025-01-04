@@ -29,6 +29,7 @@
 * [2025-01-02, 16:52:58](https://news.ycombinator.com/item?id=42576090) - [The Dogs of (Urban) War: Lessons from the IDFs' Specialized Canine Unit](https://mwi.westpoint.edu/the-dogs-of-urban-war-lessons-from-oketz-the-israel-defense-forces-specialized-canine-unit/)
 * [2025-01-02, 16:43:14](https://news.ycombinator.com/item?id=42576001) - [Palestinian Authority Suspends Al Jazeera TV in West Bank, Citing Incitement](https://www.bbc.com/news/articles/cvgmxzyrmn8o)
 * [2025-01-02, 16:42:06](https://news.ycombinator.com/item?id=42575990) - [Diagnosing an Unusual WiFi Issue](https://ryuuta.net/blog/diagnosing-an-unsual-wifi-issue/)
+* [2025-01-02, 16:37:38](https://news.ycombinator.com/item?id=42575947) - [Show HN: WebGPU + TypeScript Slime Mold](https://github.com/SuboptimalEng/slime-sim-webgpu)
 * [2025-01-02, 16:36:54](https://news.ycombinator.com/item?id=42575940) - [Tesla reports 1.1% sales drop for 2024, first annual decline in at least 9 years](https://apnews.com/article/tesla-sales-2024-drop-electric-vehicles-69af17c4e606625694af8293db25b2f3)
 * [2025-01-02, 16:32:20](https://news.ycombinator.com/item?id=42575900) - [Postgres UUIDv7 and per-back end monotonicity](https://brandur.org/fragments/uuid-v7-monotonicity)
 * [2025-01-02, 16:30:25](https://news.ycombinator.com/item?id=42575882) - [Notes on the New Deepseek v3](https://composio.dev/blog/notes-on-new-deepseek-v3/)
