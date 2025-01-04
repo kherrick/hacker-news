@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-04](index.md)
 
 * [2025-01-04, 05:25:04](https://news.ycombinator.com/item?id=42592665) - [China is the sole manufacturing superpower](https://cepr.org/voxeu/columns/china-worlds-sole-manufacturing-superpower-line-sketch-rise)
+* [2025-01-04, 05:00:24](https://news.ycombinator.com/item?id=42592543) - [Programming as Theory Building [pdf]](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
 * [2025-01-04, 04:40:59](https://news.ycombinator.com/item?id=42592455) - [FSD Tesla steers onto train tracks](https://www.sfgate.com/tech/article/tesla-fsd-jesse-lyu-train-20014242.php)
 * [2025-01-04, 04:25:49](https://news.ycombinator.com/item?id=42592397) - [Wine 10.0 RC4 – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-10.0-rc4)
 * [2025-01-04, 04:21:02](https://news.ycombinator.com/item?id=42592370) - [U-Haul Growth Metros and Cities of 2024: Dallas Top Metro for In-Migration](https://www.uhaul.com/Articles/About/U-Haul-Growth-Metros-And-Cities-Of-2024-Dallas-Top-Metro-for-IN-Migration-33084/)

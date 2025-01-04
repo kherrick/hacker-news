@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-04, 05:25:04](https://news.ycombinator.com/item?id=42592665) - [China is the sole manufacturing superpower](https://cepr.org/voxeu/columns/china-worlds-sole-manufacturing-superpower-line-sketch-rise)
+* [2025-01-04, 05:00:24](https://news.ycombinator.com/item?id=42592543) - [Programming as Theory Building [pdf]](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
 * [2025-01-04, 04:21:02](https://news.ycombinator.com/item?id=42592370) - [U-Haul Growth Metros and Cities of 2024: Dallas Top Metro for In-Migration](https://www.uhaul.com/Articles/About/U-Haul-Growth-Metros-And-Cities-Of-2024-Dallas-Top-Metro-for-IN-Migration-33084/)
 * [2025-01-04, 04:11:21](https://news.ycombinator.com/item?id=42592316) - [XORShift for Magic Bitboards](https://www.strydr.net/articles/devlog-0x1)
 * [2025-01-04, 03:51:38](https://news.ycombinator.com/item?id=42592224) - [Breaking Up with Long Tasks or: how I learned to group loops and wield the yield](https://calendar.perfplanet.com/2024/breaking-up-with-long-tasks-or-how-i-learned-to-group-loops-and-wield-the-yield/)
@@ -26,7 +27,6 @@
 * [2025-01-03, 11:38:49](https://news.ycombinator.com/item?id=42584750) - [The Evolution of SRE at Google](https://www.usenix.org/publications/loginonline/evolution-sre-google)
 * [2025-01-03, 09:04:50](https://news.ycombinator.com/item?id=42583947) - [B-Trees: More Than I Thought I'd Want to Know](https://benjamincongdon.me/blog/2021/08/17/B-Trees-More-Than-I-Thought-Id-Want-to-Know/)
 * [2025-01-03, 06:43:59](https://news.ycombinator.com/item?id=42583181) - [The Recursive Book of Recursion](https://inventwithpython.com/recursion/)
-* [2025-01-02, 00:17:52](https://news.ycombinator.com/item?id=42570429) - [Show HN: Dimity Jones in Puzzle Castle: An Electronic Escape Novel](https://obnakwa.itch.io/dimityjones)
 * [2024-12-31, 13:13:20](https://news.ycombinator.com/item?id=42558496) - [Show HN: Execute SQL against Bluesky firehose](https://github.com/turbolytics/sql-flow)
 * [2024-12-31, 10:56:29](https://news.ycombinator.com/item?id=42557924) - [A Billion Pixels a Second: Rare Look Inside Apple's iPhone 16 Camera Labs](https://www.cnet.com/tech/mobile/a-billion-pixels-a-second-i-got-a-rare-look-inside-apples-secret-iphone-16-camera-labs/)
 * [2024-12-31, 06:12:10](https://news.ycombinator.com/item?id=42556808) - [Elektročas HH3 – the most accurate pendulum clock on the planet](https://dvaluch.web.cern.ch/hh3/)
