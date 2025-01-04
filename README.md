@@ -22,12 +22,12 @@
 * [2025-01-03, 11:57:08](https://news.ycombinator.com/item?id=42584860) - [\"AI\" on a Calculator: Part 1](https://z80.me/blog/calculator-ai-part-1/)
 * [2025-01-03, 11:38:49](https://news.ycombinator.com/item?id=42584750) - [The Evolution of SRE at Google](https://www.usenix.org/publications/loginonline/evolution-sre-google)
 * [2025-01-03, 10:30:44](https://news.ycombinator.com/item?id=42584400) - [Can LLMs write better code if you keep asking them to “write better code”?](https://minimaxir.com/2025/01/write-better-code/)
-* [2025-01-03, 10:25:09](https://news.ycombinator.com/item?id=42584373) - [My Takeaways From 12 Months Of Therapy](https://cauldron.life/blog/my-takeaways-from-therapy/)
 * [2025-01-03, 09:04:50](https://news.ycombinator.com/item?id=42583947) - [B-Trees: More Than I Thought I'd Want to Know](https://benjamincongdon.me/blog/2021/08/17/B-Trees-More-Than-I-Thought-Id-Want-to-Know/)
 * [2025-01-03, 06:43:59](https://news.ycombinator.com/item?id=42583181) - [The Recursive Book of Recursion](https://inventwithpython.com/recursion/)
 * [2025-01-03, 06:36:35](https://news.ycombinator.com/item?id=42583141) - [Laser mapping reveals oldest Amazonian cities, built 2500 years ago (2024)](https://www.science.org/content/article/laser-mapping-reveals-oldest-amazonian-cities-built-2500-years-ago)
 * [2025-01-03, 04:14:38](https://news.ycombinator.com/item?id=42582352) - [How Saffron, a precious import, became an American cash crop](https://www.nytimes.com/2025/01/02/dining/saffron-farming-crop.html)
 * [2024-12-31, 10:56:29](https://news.ycombinator.com/item?id=42557924) - [A Billion Pixels a Second: Rare Look Inside Apple's iPhone 16 Camera Labs](https://www.cnet.com/tech/mobile/a-billion-pixels-a-second-i-got-a-rare-look-inside-apples-secret-iphone-16-camera-labs/)
+* [2024-12-31, 10:55:56](https://news.ycombinator.com/item?id=42557920) - [Show HN: A remake of my 2004 PDA video game](https://nicollet.net/blog/darklaga/remake.html)
 * [2024-12-31, 10:37:02](https://news.ycombinator.com/item?id=42557850) - [Gource: Software Version Control Visualization](https://github.com/acaudwell/Gource)
 * [2024-12-31, 06:12:10](https://news.ycombinator.com/item?id=42556808) - [Elektročas HH3 – the most accurate pendulum clock on the planet](https://dvaluch.web.cern.ch/hh3/)
 
