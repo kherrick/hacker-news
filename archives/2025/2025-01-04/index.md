@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-04](index.md)
 
+* [2025-01-04, 06:30:24](https://news.ycombinator.com/item?id=42592910) - [Self driving 1993 Volvo with open pilot](https://practicapp.com/carbagepilot-part1/)
 * [2025-01-04, 05:25:04](https://news.ycombinator.com/item?id=42592665) - [China is the sole manufacturing superpower](https://cepr.org/voxeu/columns/china-worlds-sole-manufacturing-superpower-line-sketch-rise)
 * [2025-01-04, 05:00:24](https://news.ycombinator.com/item?id=42592543) - [Programming as Theory Building [pdf]](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
 * [2025-01-04, 04:40:59](https://news.ycombinator.com/item?id=42592455) - [FSD Tesla steers onto train tracks](https://www.sfgate.com/tech/article/tesla-fsd-jesse-lyu-train-20014242.php)
