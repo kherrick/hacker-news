@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-04](index.md)
 
+* [2025-01-04, 14:31:15](https://news.ycombinator.com/item?id=42594850) - [This Year, RISC-V Laptops Arrive](https://spectrum.ieee.org/risc-v-laptops)
+* [2025-01-04, 14:13:16](https://news.ycombinator.com/item?id=42594766) - [A Mole Infiltrated the Highest Ranks of American Militias](https://www.propublica.org/article/ap3-oath-keepers-militia-mole)
 * [2025-01-04, 13:12:44](https://news.ycombinator.com/item?id=42594499) - [Kodak increases film production capacity to meet commercial, consumer demand](https://www.rochesterfirst.com/news/business/local-business/kodak-increases-film-production-capacity-to-meet-commercial-consumer-demand/)
 * [2025-01-04, 09:14:28](https://news.ycombinator.com/item?id=42593614) - [How to draw an outline in a video game](https://ameye.dev/notes/rendering-outlines/)
 * [2025-01-04, 07:27:04](https://news.ycombinator.com/item?id=42593135) - [Show HN: An SSH based utility to transfer pipes across machines – beam](https://github.com/ksdme/beam)
