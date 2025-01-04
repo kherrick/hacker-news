@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-04](index.md)
 
+* [2025-01-04, 17:01:24](https://news.ycombinator.com/item?id=42595940) - [Infisical (YC W23) Is Hiring Solutions Engineers](https://www.ycombinator.com/companies/infisical/jobs/yaEvock-solutions-engineer)
 * [2025-01-04, 15:33:37](https://news.ycombinator.com/item?id=42595307) - [US newspapers are deleting old crime stories, offering subjects a 'clean slate'](https://www.theguardian.com/us-news/2025/jan/04/newspaper-crime-stories)
 * [2025-01-04, 15:18:13](https://news.ycombinator.com/item?id=42595190) - [Combining 15s interval whole-sky-camera photos to form a 4y spanning keogram](https://astrodon.social/@cgbassa/113770318993975063)
 * [2025-01-04, 14:37:52](https://news.ycombinator.com/item?id=42594896) - [Show HN: Pretty-print your chess games using Prettier](https://github.com/gmasclet/prettier-plugin-pgn)

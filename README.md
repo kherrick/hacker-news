@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-04, 17:01:24](https://news.ycombinator.com/item?id=42595940) - [Infisical (YC W23) Is Hiring Solutions Engineers](https://www.ycombinator.com/companies/infisical/jobs/yaEvock-solutions-engineer)
 * [2025-01-04, 15:33:37](https://news.ycombinator.com/item?id=42595307) - [US newspapers are deleting old crime stories, offering subjects a 'clean slate'](https://www.theguardian.com/us-news/2025/jan/04/newspaper-crime-stories)
 * [2025-01-04, 15:18:13](https://news.ycombinator.com/item?id=42595190) - [Combining 15s interval whole-sky-camera photos to form a 4y spanning keogram](https://astrodon.social/@cgbassa/113770318993975063)
 * [2025-01-04, 14:37:52](https://news.ycombinator.com/item?id=42594896) - [Show HN: Pretty-print your chess games using Prettier](https://github.com/gmasclet/prettier-plugin-pgn)
@@ -12,7 +13,6 @@
 * [2025-01-04, 05:00:24](https://news.ycombinator.com/item?id=42592543) - [Programming as Theory Building [pdf]](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
 * [2025-01-04, 04:11:21](https://news.ycombinator.com/item?id=42592316) - [XORShift for Magic Bitboards](https://www.strydr.net/articles/devlog-0x1)
 * [2025-01-04, 03:51:38](https://news.ycombinator.com/item?id=42592224) - [Breaking Up with Long Tasks or: how I learned to group loops and wield the yield](https://calendar.perfplanet.com/2024/breaking-up-with-long-tasks-or-how-i-learned-to-group-loops-and-wield-the-yield/)
-* [2025-01-04, 03:32:06](https://news.ycombinator.com/item?id=42592126) - [Do Files want to be Actors?](https://lewiscampbell.tech/blog/250104.html)
 * [2025-01-04, 00:26:45](https://news.ycombinator.com/item?id=42590981) - [Meta is killing off its AI-powered Instagram and Facebook profiles](https://www.theguardian.com/technology/2025/jan/03/meta-ai-powered-instagram-facebook-profiles)
 * [2025-01-04, 00:13:13](https://news.ycombinator.com/item?id=42590903) - [In Colorado, a marriage of solar energy and farming](https://www.ksjd.org/2024-12-31/in-colorado-a-marriage-of-solar-energy-and-farming-provides-a-model-for-a-more-sustainable-future)
 * [2025-01-03, 22:47:11](https://news.ycombinator.com/item?id=42590307) - [F-Droid Fake Signer PoC](https://github.com/obfusk/fdroid-fakesigner-poc)
