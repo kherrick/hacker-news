@@ -139,11 +139,11 @@
             <h4>
               <span>2025-01-04 @ 09:14:28</span
               ><span class="points-container"
-                >Points: <span class="points">100</span></span
+                >Points: <span class="points">108</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42593614"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -158,11 +158,11 @@
             <h4>
               <span>2025-01-04 @ 06:30:24</span
               ><span class="points-container"
-                >Points: <span class="points">222</span></span
+                >Points: <span class="points">227</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42592910"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -177,7 +177,7 @@
             <h4>
               <span>2025-01-04 @ 05:00:24</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42592543"
                   >Comments</a
@@ -218,11 +218,11 @@
             <h4>
               <span>2025-01-04 @ 03:51:38</span
               ><span class="points-container"
-                >Points: <span class="points">106</span></span
+                >Points: <span class="points">108</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42592224"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -241,7 +241,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42592126"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -277,7 +277,7 @@
             <h4>
               <span>2025-01-04 @ 00:13:13</span
               ><span class="points-container"
-                >Points: <span class="points">127</span></span
+                >Points: <span class="points">128</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42590903"
                   >Comments</a
@@ -317,13 +317,81 @@
             <h4>
               <span>2025-01-03 @ 22:47:11</span
               ><span class="points-container"
-                >Points: <span class="points">173</span></span
+                >Points: <span class="points">174</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42590307"
                   >Comments</a
                 ><span class="descendants">: 45</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="42590290">
+          <h3>
+            <a class="item" href="https://tma.live"
+              >Show HN: AI that generates 3blue1brown-style explainer videos</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-01-03 @ 22:44:47</span
+              ><span class="points-container"
+                >Points: <span class="points">49</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42590290"
+                  >Comments</a
+                ><span class="descendants">: 27</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                So I made a tool that automatically generates animated
+                math/science explanations in the style of 3blue1brown using
+                Manim from any text prompt.
+              </p>
+              <p>
+                Try it yourself at
+                <a href="https://TMA.live">https://TMA.live</a> (no signup
+                required)
+              </p>
+              <p>
+                or see the demo video here:
+                <a href="https://x.com/i/status/1874948287759081608"
+                  >https://x.com/i/status/1874948287759081608</a
+                >
+              </p>
+              <p>
+                The UX is pretty simple right now, you just write a text prompt
+                and then start watching the video as it's generated. Once it's
+                done generating you can download it.
+              </p>
+              <p>
+                I built this because I kept finding myself spending 30+ minutes
+                in AI chats trying to understand very specific concepts that
+                would have clicked instantly if there were a visual explanations
+                on YouTube.
+              </p>
+              <p>Technical Implementation:</p>
+              <p>
+                - LLM + prompt to use Manim well, right now this uses Gemini
+                with grounding to ensure some level of factuality, but it works
+                equally well with Claude
+              </p>
+              <p>- Manim for animation generation</p>
+              <p>- OpenAI TTS for the voiceovers</p>
+              <p>- Fly.io for hosting the web app</p>
+              <p>- Modal.com for fast serverless GPUs to render the videos</p>
+              <p>
+                - HLS protocol for streaming the videos as they are rendered
+              </p>
+              <p>
+                Note: This is focused on STEM education and visualization, and
+                it is particularly good for math, but get creative and try it
+                with anything! I used it recently to teach my partner's parents
+                a new board game in Mandarin (which I don't speak!)
+              </p>
+              <p>I'll be around to answer questions. Happy learning!</p>
+            </div>
           </section>
         </section>
         <section id="42590055">
@@ -339,11 +407,11 @@
             <h4>
               <span>2025-01-03 @ 22:18:12</span
               ><span class="points-container"
-                >Points: <span class="points">71</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42590055"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
@@ -360,11 +428,11 @@
             <h4>
               <span>2025-01-03 @ 21:54:42</span
               ><span class="points-container"
-                >Points: <span class="points">180</span></span
+                >Points: <span class="points">182</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42589863"
                   >Comments</a
-                ><span class="descendants">: 251</span></span
+                ><span class="descendants">: 253</span></span
               >
             </h4>
           </section>
@@ -401,7 +469,7 @@
             <h4>
               <span>2025-01-03 @ 20:01:29</span
               ><span class="points-container"
-                >Points: <span class="points">261</span></span
+                >Points: <span class="points">262</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42588956"
                   >Comments</a
@@ -439,7 +507,7 @@
             <h4>
               <span>2025-01-03 @ 15:42:02</span
               ><span class="points-container"
-                >Points: <span class="points">159</span></span
+                >Points: <span class="points">160</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42586590"
                   >Comments</a
@@ -458,11 +526,11 @@
             <h4>
               <span>2025-01-03 @ 14:45:52</span
               ><span class="points-container"
-                >Points: <span class="points">217</span></span
+                >Points: <span class="points">218</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42586042"
                   >Comments</a
-                ><span class="descendants">: 61</span></span
+                ><span class="descendants">: 62</span></span
               >
             </h4>
           </section>
@@ -477,7 +545,7 @@
             <h4>
               <span>2025-01-03 @ 13:59:49</span
               ><span class="points-container"
-                >Points: <span class="points">131</span></span
+                >Points: <span class="points">134</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42585707"
                   >Comments</a
@@ -496,11 +564,11 @@
             <h4>
               <span>2025-01-03 @ 12:20:27</span
               ><span class="points-container"
-                >Points: <span class="points">359</span></span
+                >Points: <span class="points">361</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42585009"
                   >Comments</a
-                ><span class="descendants">: 161</span></span
+                ><span class="descendants">: 164</span></span
               >
             </h4>
             <div class="text">
@@ -538,7 +606,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42584860"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -581,7 +649,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42584400"
                   >Comments</a
-                ><span class="descendants">: 405</span></span
+                ><span class="descendants">: 408</span></span
               >
             </h4>
           </section>
@@ -598,7 +666,7 @@
             <h4>
               <span>2025-01-03 @ 09:04:50</span
               ><span class="points-container"
-                >Points: <span class="points">202</span></span
+                >Points: <span class="points">203</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42583947"
                   >Comments</a
@@ -617,7 +685,7 @@
             <h4>
               <span>2025-01-03 @ 06:43:59</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42583181"
                   >Comments</a
@@ -660,7 +728,7 @@
             <h4>
               <span>2025-01-03 @ 04:14:38</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42582352"
                   >Comments</a
@@ -682,70 +750,13 @@
             <h4>
               <span>2024-12-31 @ 10:56:29</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">75</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42557924"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="42557920">
-          <h3>
-            <a
-              class="item"
-              href="https://nicollet.net/blog/darklaga/remake.html"
-              >Show HN: A remake of my 2004 PDA video game</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-12-31 @ 10:55:56</span
-              ><span class="points-container"
-                >Points: <span class="points">92</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42557920"
-                  >Comments</a
-                ><span class="descendants">: 17</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                Play the game online:
-                <a href="https://nicollet.net/blog/darklaga/darklaga.html"
-                  >https://nicollet.net/blog/darklaga/darklaga.html</a
-                >
-              </p>
-              <p>
-                Technical article about the remake:
-                <a href="https://nicollet.net/blog/darklaga/remake.html"
-                  >https://nicollet.net/blog/darklaga/remake.html</a
-                >
-              </p>
-              <p>
-                I have tested Firefox, Chrome and Edge on desktop and mobile (no
-                access to a device capable of running Safari).
-              </p>
-              <p>
-                It's amazing how much difference 20 years makes: the hardware is
-                so much more powerful, the web as a deployment platform is so
-                much easier than side-loading onto a PDA through a serial cable
-                or sharing .exe files through e-mail, and my experience as a
-                professional developer makes almost everything so much easier...
-                but at the same, it didn't feel that the language, editor or
-                debugger (TypeScript on Visual Studio Code) were significantly
-                better than good old Visual C++ 6.
-              </p>
-              <p>
-                Repository with the code of the remake:
-                <a href="https://github.com/VictorNicollet/Darklaga"
-                  >https://github.com/VictorNicollet/Darklaga</a
-                >
-                (sadly, I cannot provide the video and audio assets themselves
-                under any open license).
-              </p>
-            </div>
           </section>
         </section>
         <section id="42557850">
@@ -782,7 +793,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42556808"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
