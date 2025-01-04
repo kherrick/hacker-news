@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-01-03](index.md)
 
+* [2025-01-03, 23:52:00](https://news.ycombinator.com/item?id=42590788) - [Swc4j: SWC for Java](https://github.com/caoccao/swc4j)
+* [2025-01-03, 23:21:14](https://news.ycombinator.com/item?id=42590565) - [Kids can't use computers and this is why it should worry you (2013)](http://www.coding2learn.org/blog/2013/07/29/kids-cant-use-computers/)
 * [2025-01-03, 22:52:19](https://news.ycombinator.com/item?id=42590342) - [Starship's Seveth Flight Test](https://www.spacex.com/launches/mission/?missionId=starship-flight-7)
 * [2025-01-03, 22:49:08](https://news.ycombinator.com/item?id=42590322) - [A path to O1 open source](https://arxiv.org/abs/2412.14135)
 * [2025-01-03, 22:47:11](https://news.ycombinator.com/item?id=42590307) - [F-Droid Fake Signer PoC](https://github.com/obfusk/fdroid-fakesigner-poc)
 * [2025-01-03, 22:44:47](https://news.ycombinator.com/item?id=42590290) - [Show HN: AI that generates 3blue1brown-style explainer videos](https://tma.live)
+* [2025-01-03, 22:36:49](https://news.ycombinator.com/item?id=42590213) - [I basically announced Minecraft 2](https://twitter.com/notch/status/1875230756437479658)
 * [2025-01-03, 21:54:42](https://news.ycombinator.com/item?id=42589863) - [Perplexity Got Ads](https://twitter.com/damengchen/status/1875296442417607072)
 * [2025-01-03, 21:10:42](https://news.ycombinator.com/item?id=42589497) - [Factories in Space](https://www.factoriesinspace.com/)
 * [2025-01-03, 21:03:44](https://news.ycombinator.com/item?id=42589443) - [Her Treatment Was Helping. That's Why Insurance Cut Off Her Coverage](https://www.propublica.org/article/mental-health-insurance-denials-patient-progress)
@@ -44,6 +47,7 @@
 * [2025-01-03, 11:38:49](https://news.ycombinator.com/item?id=42584750) - [The Evolution of SRE at Google](https://www.usenix.org/publications/loginonline/evolution-sre-google)
 * [2025-01-03, 11:14:30](https://news.ycombinator.com/item?id=42584621) - [Court strikes down US net neutrality rules](https://www.bbc.com/news/articles/c4gl417l757o)
 * [2025-01-03, 11:12:25](https://news.ycombinator.com/item?id=42584615) - [China reduced sulphur dioxide emissions by more than two-thirds in past 15 years](https://ourworldindata.org/data-insights/china-has-reduced-sulphur-dioxide-emissions-by-more-than-two-thirds-in-the-last-15-years)
+* [2025-01-03, 11:11:39](https://news.ycombinator.com/item?id=42584610) - [Yemeni Coffee Shops Are Everywhere in Texas: Alcohol-Free Spaces That Open Late](https://www.texasmonthly.com/food/yemeni-coffee-shops-booming-in-texas/)
 * [2025-01-03, 11:09:21](https://news.ycombinator.com/item?id=42584599) - [K/Simple in OCaml](https://git.uwaterloo.ca/lseo/ksimple_ml)
 * [2025-01-03, 11:04:27](https://news.ycombinator.com/item?id=42584566) - [Building an Agentic AI System at Doctolib](https://medium.com/doctolib/building-an-agentic-ai-system-for-healthcare-support-a-journey-into-practical-ai-implementation-0afd28d716e6)
 * [2025-01-03, 10:38:29](https://news.ycombinator.com/item?id=42584436) - [Speeding Up SQLite Inserts](https://blog.julik.nl/2025/01/maximum-speed-sqlite-inserts)
