@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-04](index.md)
 
+* [2025-01-04, 04:25:49](https://news.ycombinator.com/item?id=42592397) - [Wine 10.0 RC4 – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-10.0-rc4)
 * [2025-01-04, 04:11:21](https://news.ycombinator.com/item?id=42592316) - [XORShift for Magic Bitboards](https://www.strydr.net/articles/devlog-0x1)
 * [2025-01-04, 03:51:38](https://news.ycombinator.com/item?id=42592224) - [Breaking Up with Long Tasks or: how I learned to group loops and wield the yield](https://calendar.perfplanet.com/2024/breaking-up-with-long-tasks-or-how-i-learned-to-group-loops-and-wield-the-yield/)
 * [2025-01-04, 02:57:09](https://news.ycombinator.com/item?id=42591939) - [Wash. Post Cartoonist Quits After Bezos-Owned Paper Kills Trump Satire Piece](https://www.thewrap.com/washington-post-cartoonist-quits-after-bezos-trump-satire-killed/)

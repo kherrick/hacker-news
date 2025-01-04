@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-04, 04:25:49](https://news.ycombinator.com/item?id=42592397) - [Wine 10.0 RC4 – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-10.0-rc4)
 * [2025-01-04, 04:11:21](https://news.ycombinator.com/item?id=42592316) - [XORShift for Magic Bitboards](https://www.strydr.net/articles/devlog-0x1)
 * [2025-01-04, 03:51:38](https://news.ycombinator.com/item?id=42592224) - [Breaking Up with Long Tasks or: how I learned to group loops and wield the yield](https://calendar.perfplanet.com/2024/breaking-up-with-long-tasks-or-how-i-learned-to-group-loops-and-wield-the-yield/)
 * [2025-01-04, 01:10:57](https://news.ycombinator.com/item?id=42591291) - [Show HN: I aggregated over 200 Go-To-Market strategies](https://fellowry.com/)
@@ -16,7 +17,6 @@
 * [2025-01-03, 17:05:17](https://news.ycombinator.com/item?id=42587356) - [SpaceSim](https://pavelsevecek.github.io/)
 * [2025-01-03, 15:42:02](https://news.ycombinator.com/item?id=42586590) - [Mandelbrot deep zoom theory and practice (2021)](https://mathr.co.uk/blog/2021-05-14_deep_zoom_theory_and_practice.html)
 * [2025-01-03, 14:45:52](https://news.ycombinator.com/item?id=42586042) - [What we learned copying all the best code assistants](https://blog.val.town/blog/fast-follow/)
-* [2025-01-03, 13:08:08](https://news.ycombinator.com/item?id=42585332) - [Oral history of Caroline Rose, writer of Inside Macintosh (2023) [video]](https://www.youtube.com/watch?v=RikO_3jedlY)
 * [2025-01-03, 12:20:27](https://news.ycombinator.com/item?id=42585009) - [Show HN: I completed shipping my desktop app](https://pimosa.app/)
 * [2025-01-03, 11:38:49](https://news.ycombinator.com/item?id=42584750) - [The Evolution of SRE at Google](https://www.usenix.org/publications/loginonline/evolution-sre-google)
 * [2025-01-03, 11:11:39](https://news.ycombinator.com/item?id=42584610) - [Yemeni Coffee Shops in Texas](https://www.texasmonthly.com/food/yemeni-coffee-shops-booming-in-texas/)
