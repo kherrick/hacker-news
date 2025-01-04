@@ -19,6 +19,7 @@
 * [2025-01-04, 00:26:45](https://news.ycombinator.com/item?id=42590981) - [Meta is killing off its AI-powered Instagram and Facebook profiles](https://www.theguardian.com/technology/2025/jan/03/meta-ai-powered-instagram-facebook-profiles)
 * [2025-01-03, 22:18:12](https://news.ycombinator.com/item?id=42590055) - [Parasitic worms 'manipulate' mantises onto asphalt roads, say researchers](https://mainichi.jp/english/articles/20241115/p2a/00m/0sc/009000c)
 * [2025-01-03, 20:01:29](https://news.ycombinator.com/item?id=42588956) - [VoxelSpace: Terrain rendering algorithm in less than 20 lines of code (2020)](https://github.com/s-macke/VoxelSpace)
+* [2025-01-03, 17:05:17](https://news.ycombinator.com/item?id=42587356) - [SpaceSim](https://pavelsevecek.github.io/)
 * [2025-01-03, 13:59:49](https://news.ycombinator.com/item?id=42585707) - [Phase behavior of Cacio and Pepe sauce](https://arxiv.org/abs/2501.00536)
 * [2025-01-03, 12:20:27](https://news.ycombinator.com/item?id=42585009) - [Show HN: I completed shipping my desktop app](https://pimosa.app/)
 * [2025-01-03, 11:57:08](https://news.ycombinator.com/item?id=42584860) - [\"AI\" on a Calculator (2023)](https://z80.me/blog/calculator-ai-part-1/)
@@ -29,7 +30,6 @@
 * [2025-01-02, 23:50:29](https://news.ycombinator.com/item?id=42580397) - [It Matters Who Owns Your Copylefted Copyrights (2021)](https://sfconservancy.org/blog/2021/jun/30/who-should-own-foss-copyrights/)
 * [2025-01-02, 15:45:34](https://news.ycombinator.com/item?id=42575390) - [Hacking yourself a satellite – recovering BEESAT-1 [video]](https://media.ccc.de/v/38c3-hacking-yourself-a-satellite-recovering-beesat-1)
 * [2025-01-02, 10:16:26](https://news.ycombinator.com/item?id=42573232) - [Ask HN: How are you using LLMs for traversing decompiler output?](https://news.ycombinator.com/item?id=42573232)
-* [2025-01-01, 20:34:58](https://news.ycombinator.com/item?id=42569077) - [Human in the Loop and the Missing Productivity Growth](https://everything.intellectronica.net/p/human-and-tech-productivity)
 
 ## [Archives](archives/index.md)
 
