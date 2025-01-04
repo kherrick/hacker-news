@@ -9,6 +9,7 @@
 * [2025-01-01, 22:41:16](https://news.ycombinator.com/item?id=42569913) - [My 25-year adventure in AI and ML](https://austinhenley.com/blog/25yearsofai.html)
 * [2025-01-01, 22:08:21](https://news.ycombinator.com/item?id=42569728) - [(Amiga) AROS Research Operating System: Summary of 2024](https://arosnews.github.io/aros-x86-summary-2024/)
 * [2025-01-01, 22:05:38](https://news.ycombinator.com/item?id=42569713) - [Privacy of Photos.app's Enhanced Visual Search](https://mjtsai.com/blog/2025/01/01/privacy-of-photos-apps-enhanced-visual-search/)
+* [2025-01-01, 21:47:09](https://news.ycombinator.com/item?id=42569582) - [Twinge of Saudade: Biographies of Abba](https://www.lrb.co.uk/the-paper/v46/n24/chal-ravens/twinge-of-saudade)
 * [2025-01-01, 21:42:03](https://news.ycombinator.com/item?id=42569557) - [In Search of Types (2014) [pdf]](https://www.humprog.org/~stephen/papers/kell14in-author-version.pdf)
 * [2025-01-01, 21:18:29](https://news.ycombinator.com/item?id=42569390) - [SF Purity Test](https://www.sfpurity.com/)
 * [2025-01-01, 20:58:04](https://news.ycombinator.com/item?id=42569236) - [Rails for Everything](https://literallythevoid.com/blog/rails_for_everything.html)
