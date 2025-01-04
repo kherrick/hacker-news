@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-04, 06:30:24](https://news.ycombinator.com/item?id=42592910) - [Self driving 1993 Volvo with open pilot](https://practicapp.com/carbagepilot-part1/)
-* [2025-01-04, 05:25:04](https://news.ycombinator.com/item?id=42592665) - [China is the sole manufacturing superpower](https://cepr.org/voxeu/columns/china-worlds-sole-manufacturing-superpower-line-sketch-rise)
+* [2025-01-04, 05:25:04](https://news.ycombinator.com/item?id=42592665) - [China is the manufacturing superpower](https://cepr.org/voxeu/columns/china-worlds-sole-manufacturing-superpower-line-sketch-rise)
 * [2025-01-04, 05:00:24](https://news.ycombinator.com/item?id=42592543) - [Programming as Theory Building [pdf]](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
 * [2025-01-04, 04:21:02](https://news.ycombinator.com/item?id=42592370) - [U-Haul Growth Metros and Cities of 2024: Dallas Top Metro for In-Migration](https://www.uhaul.com/Articles/About/U-Haul-Growth-Metros-And-Cities-Of-2024-Dallas-Top-Metro-for-IN-Migration-33084/)
 * [2025-01-04, 04:11:21](https://news.ycombinator.com/item?id=42592316) - [XORShift for Magic Bitboards](https://www.strydr.net/articles/devlog-0x1)
