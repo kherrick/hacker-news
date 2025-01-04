@@ -13,6 +13,7 @@
 * [2025-01-04, 03:32:06](https://news.ycombinator.com/item?id=42592126) - [Do Files want to be Actors?](https://lewiscampbell.tech/blog/250104.html)
 * [2025-01-04, 02:57:09](https://news.ycombinator.com/item?id=42591939) - [Wash. Post Cartoonist Quits After Bezos-Owned Paper Kills Trump Satire Piece](https://www.thewrap.com/washington-post-cartoonist-quits-after-bezos-trump-satire-killed/)
 * [2025-01-04, 02:53:26](https://news.ycombinator.com/item?id=42591916) - [Meta scrambles to delete its own AI accounts after backlash intensifies](https://www.rnz.co.nz/news/world/538152/meta-scrambles-to-delete-its-own-ai-accounts-after-backlash-intensifies)
+* [2025-01-04, 02:35:58](https://news.ycombinator.com/item?id=42591818) - [The INVENTION OF BATTLEZONE And how the U.S. Army hijacked the videogame (2022)](https://spectrum.ieee.org/battlezone)
 * [2025-01-04, 02:21:53](https://news.ycombinator.com/item?id=42591727) - [RailsConf 2025 will be the last gathering of its kind](https://rubycentral.org/news/announcing-railsconf-2025-and-a-new-chapter-for-ruby-central-events/)
 * [2025-01-04, 01:10:57](https://news.ycombinator.com/item?id=42591291) - [Show HN: I aggregated over 200 Go-To-Market strategies](https://fellowry.com/)
 * [2025-01-04, 01:01:55](https://news.ycombinator.com/item?id=42591221) - [Why I'm quitting the Washington Post](https://anntelnaes.substack.com/p/why-im-quitting-the-washington-post)
