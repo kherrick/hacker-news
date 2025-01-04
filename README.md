@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-04, 20:19:07](https://news.ycombinator.com/item?id=42597395) - [The Begining of the End for ANT+ Wireless](https://www.dcrainmaker.com/2025/01/the-begining-of-the-end-for-ant-wireless.html)
 * [2025-01-04, 19:01:22](https://news.ycombinator.com/item?id=42596843) - [Killing Orson Welles at Midnight (2011)](https://www.nybooks.com/articles/2011/04/28/killing-orson-welles-midnight/)
 * [2025-01-04, 18:25:39](https://news.ycombinator.com/item?id=42596607) - [Show HN: Open Rewind – POC for audio and screen and video streaming to S3](https://github.com/janwilmake/efficient-recorder)
 * [2025-01-04, 18:01:39](https://news.ycombinator.com/item?id=42596450) - [A Return to Polymathy (2015) [pdf]](https://paulrcohen.github.io/papers/Polymathy.pdf)
@@ -29,7 +30,6 @@
 * [2025-01-03, 09:04:50](https://news.ycombinator.com/item?id=42583947) - [B-Trees: More Than I Thought I'd Want to Know](https://benjamincongdon.me/blog/2021/08/17/B-Trees-More-Than-I-Thought-Id-Want-to-Know/)
 * [2025-01-02, 15:45:34](https://news.ycombinator.com/item?id=42575390) - [Hacking yourself a satellite – recovering BEESAT-1 [video]](https://media.ccc.de/v/38c3-hacking-yourself-a-satellite-recovering-beesat-1)
 * [2025-01-02, 10:16:26](https://news.ycombinator.com/item?id=42573232) - [Ask HN: How are you using LLMs for traversing decompiler output?](https://news.ycombinator.com/item?id=42573232)
-* [2025-01-01, 21:47:09](https://news.ycombinator.com/item?id=42569582) - [Twinge of Saudade: Biographies of Abba](https://www.lrb.co.uk/the-paper/v46/n24/chal-ravens/twinge-of-saudade)
 
 ## [Archives](archives/index.md)
 

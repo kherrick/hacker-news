@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-04](index.md)
 
+* [2025-01-04, 20:19:07](https://news.ycombinator.com/item?id=42597395) - [The Begining of the End for ANT+ Wireless](https://www.dcrainmaker.com/2025/01/the-begining-of-the-end-for-ant-wireless.html)
 * [2025-01-04, 19:01:22](https://news.ycombinator.com/item?id=42596843) - [Killing Orson Welles at Midnight (2011)](https://www.nybooks.com/articles/2011/04/28/killing-orson-welles-midnight/)
 * [2025-01-04, 18:25:39](https://news.ycombinator.com/item?id=42596607) - [Show HN: Open Rewind – POC for audio and screen and video streaming to S3](https://github.com/janwilmake/efficient-recorder)
 * [2025-01-04, 18:01:39](https://news.ycombinator.com/item?id=42596450) - [A Return to Polymathy (2015) [pdf]](https://paulrcohen.github.io/papers/Polymathy.pdf)
