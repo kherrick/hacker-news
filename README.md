@@ -21,7 +21,7 @@
 * [2025-01-03, 20:01:29](https://news.ycombinator.com/item?id=42588956) - [VoxelSpace: Terrain rendering algorithm in less than 20 lines of code (2020)](https://github.com/s-macke/VoxelSpace)
 * [2025-01-03, 13:59:49](https://news.ycombinator.com/item?id=42585707) - [Phase behavior of Cacio and Pepe sauce](https://arxiv.org/abs/2501.00536)
 * [2025-01-03, 12:20:27](https://news.ycombinator.com/item?id=42585009) - [Show HN: I completed shipping my desktop app](https://pimosa.app/)
-* [2025-01-03, 11:57:08](https://news.ycombinator.com/item?id=42584860) - [\"AI\" on a Calculator: Part 1](https://z80.me/blog/calculator-ai-part-1/)
+* [2025-01-03, 11:57:08](https://news.ycombinator.com/item?id=42584860) - [\"AI\" on a Calculator (2023)](https://z80.me/blog/calculator-ai-part-1/)
 * [2025-01-03, 11:11:39](https://news.ycombinator.com/item?id=42584610) - [Yemeni Coffee Shops in Texas](https://www.texasmonthly.com/food/yemeni-coffee-shops-booming-in-texas/)
 * [2025-01-03, 09:13:29](https://news.ycombinator.com/item?id=42583986) - [The DIY Multideck](https://diymultideck.mauri.app/manual/)
 * [2025-01-03, 09:04:50](https://news.ycombinator.com/item?id=42583947) - [B-Trees: More Than I Thought I'd Want to Know](https://benjamincongdon.me/blog/2021/08/17/B-Trees-More-Than-I-Thought-Id-Want-to-Know/)
