@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2025-01-05, 09:03:28",
+      "https://news.ycombinator.com/item?id=42600595"
+    ],
+    [
+      "The funniest thing I ever did – a.k.a. \"How To Make $100K From A Dick Joke.\"",
+      "https://imgur.com/gallery/KZ4u3c4"
+    ]
+  ],
+  [
+    [
       "2025-01-05, 09:02:01",
       "https://news.ycombinator.com/item?id=42600586"
     ],
     [
       "Show HN: Struggle with CSS Flexbox? This Playground Is for You",
       "https://yoavsbg.github.io/css-flexbox-playground/"
+    ]
+  ],
+  [
+    [
+      "2025-01-05, 07:14:30",
+      "https://news.ycombinator.com/item?id=42600276"
+    ],
+    [
+      "Back to basics: Why we chose long-polling over websockets",
+      "https://www.inferable.ai/blog/posts/postgres-nodejs-longpolling.mdx"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Researchers design wearable tech that can sense glucose levels more accurately",
       "https://uwaterloo.ca/news/media/no-more-needles-tracking-blood-sugar-your-wrist"
-    ]
-  ],
-  [
-    [
-      "2025-01-05, 02:00:59",
-      "https://news.ycombinator.com/item?id=42599142"
-    ],
-    [
-      "No-hole surgery: no keyhole, yet surgeons can now still operate under your skin",
-      "https://www.nibib.nih.gov/news-events/newsroom/getting-under-your-skin-3d-printing-technique-builds-structures-through-tissues"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "PyPI Blog: Project Quarantine",
       "https://blog.pypi.org/posts/2024-12-30-quarantine/"
-    ]
-  ],
-  [
-    [
-      "2025-01-02, 16:37:38",
-      "https://news.ycombinator.com/item?id=42575947"
-    ],
-    [
-      "Show HN: WebGPU + TypeScript Slime Mold",
-      "https://github.com/SuboptimalEng/slime-sim-webgpu"
     ]
   ],
   [
