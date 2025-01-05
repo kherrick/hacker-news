@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-01-05, 18:31:45",
-      "https://news.ycombinator.com/item?id=42603830"
-    ],
-    [
-      "There are different sorts of WireGuard setups with different difficulties",
-      "https://utcc.utoronto.ca/~cks/space/blog/tech/WireGuardSetupTypes"
-    ]
-  ],
-  [
-    [
       "2025-01-05, 18:02:20",
       "https://news.ycombinator.com/item?id=42603585"
     ],
@@ -207,6 +197,16 @@
     [
       "Wildcard: Customize HN using a spreadsheet view",
       "https://www.geoffreylitt.com/wildcard/"
+    ]
+  ],
+  [
+    [
+      "2025-01-03, 03:28:26",
+      "https://news.ycombinator.com/item?id=42582044"
+    ],
+    [
+      "Using watermarks to coordinate change data capture in Postgres",
+      "https://blog.sequinstream.com/using-watermarks-to-coordinate-change-data-capture-in-postgres/"
     ]
   ],
   [
