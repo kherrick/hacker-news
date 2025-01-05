@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2025-01-04, 14:37:52",
+      "https://news.ycombinator.com/item?id=42594896"
+    ],
+    [
+      "Show HN: Pretty-print your chess games using Prettier",
+      "https://github.com/gmasclet/prettier-plugin-pgn"
+    ]
+  ],
+  [
+    [
       "2025-01-04, 12:45:09",
       "https://news.ycombinator.com/item?id=42594387"
     ],
@@ -107,6 +117,16 @@
     [
       "One Dog vs. the Windows 3.1 Graphics Stack",
       "https://wuffs.org/blog/windows-3x-graphics"
+    ]
+  ],
+  [
+    [
+      "2025-01-04, 10:41:49",
+      "https://news.ycombinator.com/item?id=42593919"
+    ],
+    [
+      "Show HN: I created a PoC for live descriptions of the surroundings for the blind",
+      "https://github.com/o40/seesay"
     ]
   ],
   [
@@ -131,12 +151,12 @@
   ],
   [
     [
-      "2025-01-04, 03:51:38",
-      "https://news.ycombinator.com/item?id=42592224"
+      "2025-01-04, 05:00:24",
+      "https://news.ycombinator.com/item?id=42592543"
     ],
     [
-      "Breaking Up with Long Tasks or: how I learned to group loops and wield the yield",
-      "https://calendar.perfplanet.com/2024/breaking-up-with-long-tasks-or-how-i-learned-to-group-loops-and-wield-the-yield/"
+      "Programming as Theory Building (1985) [pdf]",
+      "https://pages.cs.wisc.edu/~remzi/Naur.pdf"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-01-04, 00:13:13",
-      "https://news.ycombinator.com/item?id=42590903"
-    ],
-    [
-      "In Colorado, a marriage of solar energy and farming",
-      "https://www.ksjd.org/2024-12-31/in-colorado-a-marriage-of-solar-energy-and-farming-provides-a-model-for-a-more-sustainable-future"
-    ]
-  ],
-  [
-    [
       "2025-01-03, 22:18:12",
       "https://news.ycombinator.com/item?id=42590055"
     ],
@@ -181,32 +191,12 @@
   ],
   [
     [
-      "2025-01-03, 20:01:29",
-      "https://news.ycombinator.com/item?id=42588956"
-    ],
-    [
-      "VoxelSpace: Terrain rendering algorithm in less than 20 lines of code (2020)",
-      "https://github.com/s-macke/VoxelSpace"
-    ]
-  ],
-  [
-    [
       "2025-01-03, 13:59:49",
       "https://news.ycombinator.com/item?id=42585707"
     ],
     [
       "Phase behavior of Cacio and Pepe sauce",
       "https://arxiv.org/abs/2501.00536"
-    ]
-  ],
-  [
-    [
-      "2025-01-03, 12:20:27",
-      "https://news.ycombinator.com/item?id=42585009"
-    ],
-    [
-      "Show HN: I completed shipping my desktop app",
-      "https://pimosa.app/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Don't Clobber the Frame Pointer",
       "https://nsrip.com/posts/clobberfp.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-03, 04:14:38",
+      "https://news.ycombinator.com/item?id=42582352"
+    ],
+    [
+      "How saffron became an American cash crop",
+      "https://www.nytimes.com/2025/01/02/dining/saffron-farming-crop.html"
     ]
   ],
   [
