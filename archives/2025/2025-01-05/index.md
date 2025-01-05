@@ -6,7 +6,9 @@
 
 * [2025-01-05, 05:25:38](https://news.ycombinator.com/item?id=42599974) - [Being Functionless: How to Develop a Serverless Mindset to Write Less Code](https://www.infoq.com/articles/functionless-serverless-mindset/)
 * [2025-01-05, 05:24:25](https://news.ycombinator.com/item?id=42599971) - [Hacker gains access to the RP2350 OTP secret by glitching the RISC-V cores](https://www.tomshardware.com/raspberry-pi/it-looks-like-the-raspberry-pi-rp2350-hacking-challenge-has-been-beaten-hacker-gains-access-to-the-otp-secret-by-glitching-the-risc-v-cores-to-enable-debugging)
+* [2025-01-05, 04:09:21](https://news.ycombinator.com/item?id=42599696) - [Blur Busters Open Source Display Initiative – Refresh Cycle Shaders](https://blurbusters.com/blur-busters-open-source-display-initative-refresh-cycle-shaders/)
 * [2025-01-05, 03:47:12](https://news.ycombinator.com/item?id=42599599) - [Guten: A Tiny Newspaper Printer](https://amanvir.com/guten)
+* [2025-01-05, 03:24:51](https://news.ycombinator.com/item?id=42599507) - [GPON FTTH networks (in)security (2016)](https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html#introduction)
 * [2025-01-05, 02:26:19](https://news.ycombinator.com/item?id=42599261) - [Refurb Weekend: Atari Stacy](http://oldvcr.blogspot.com/2025/01/refurb-weekend-atari-stacy.html)
 * [2025-01-05, 02:12:13](https://news.ycombinator.com/item?id=42599189) - [No more needles Tracking blood sugar on your wrist](https://uwaterloo.ca/news/media/no-more-needles-tracking-blood-sugar-your-wrist)
 * [2025-01-05, 02:00:59](https://news.ycombinator.com/item?id=42599142) - [No-hole surgery: no keyhole, yet surgeons can now still operate under your skin](https://www.nibib.nih.gov/news-events/newsroom/getting-under-your-skin-3d-printing-technique-builds-structures-through-tissues)

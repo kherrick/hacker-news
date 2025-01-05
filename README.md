@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-05, 05:25:38](https://news.ycombinator.com/item?id=42599974) - [Being Functionless: How to Develop a Serverless Mindset to Write Less Code](https://www.infoq.com/articles/functionless-serverless-mindset/)
 * [2025-01-05, 05:24:25](https://news.ycombinator.com/item?id=42599971) - [Hacker gains access to the RP2350 OTP secret by glitching the RISC-V cores](https://www.tomshardware.com/raspberry-pi/it-looks-like-the-raspberry-pi-rp2350-hacking-challenge-has-been-beaten-hacker-gains-access-to-the-otp-secret-by-glitching-the-risc-v-cores-to-enable-debugging)
+* [2025-01-05, 04:09:21](https://news.ycombinator.com/item?id=42599696) - [Blur Busters Open Source Display Initiative – Refresh Cycle Shaders](https://blurbusters.com/blur-busters-open-source-display-initative-refresh-cycle-shaders/)
 * [2025-01-05, 03:47:12](https://news.ycombinator.com/item?id=42599599) - [Guten: A Tiny Newspaper Printer](https://amanvir.com/guten)
+* [2025-01-05, 03:24:51](https://news.ycombinator.com/item?id=42599507) - [GPON FTTH networks (in)security (2016)](https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html#introduction)
 * [2025-01-05, 02:26:19](https://news.ycombinator.com/item?id=42599261) - [Refurb Weekend: Atari Stacy](http://oldvcr.blogspot.com/2025/01/refurb-weekend-atari-stacy.html)
 * [2025-01-05, 02:12:13](https://news.ycombinator.com/item?id=42599189) - [No more needles Tracking blood sugar on your wrist](https://uwaterloo.ca/news/media/no-more-needles-tracking-blood-sugar-your-wrist)
 * [2025-01-05, 02:00:59](https://news.ycombinator.com/item?id=42599142) - [No-hole surgery: no keyhole, yet surgeons can now still operate under your skin](https://www.nibib.nih.gov/news-events/newsroom/getting-under-your-skin-3d-printing-technique-builds-structures-through-tissues)
@@ -22,7 +23,6 @@
 * [2025-01-03, 19:45:48](https://news.ycombinator.com/item?id=42588828) - [Hornet, RNA structure visualization method correlates sequence and 3D topology](https://phys.org/news/2024-12-hornet-rna-visualization-method-sequence.html)
 * [2025-01-03, 13:59:49](https://news.ycombinator.com/item?id=42585707) - [Phase behavior of Cacio and Pepe sauce](https://arxiv.org/abs/2501.00536)
 * [2025-01-03, 09:13:29](https://news.ycombinator.com/item?id=42583986) - [The DIY Multideck](https://diymultideck.mauri.app/manual/)
-* [2025-01-03, 02:09:29](https://news.ycombinator.com/item?id=42581457) - [Visually Mediated Motor Planning in the Escape Response of Drosophila (2008)](https://www.cell.com/current-biology/fulltext/S0960-9822(08)01048-8)
 * [2025-01-02, 23:50:29](https://news.ycombinator.com/item?id=42580397) - [It Matters Who Owns Your Copylefted Copyrights (2021)](https://sfconservancy.org/blog/2021/jun/30/who-should-own-foss-copyrights/)
 * [2025-01-02, 19:40:18](https://news.ycombinator.com/item?id=42577938) - [PyPI Blog: Project Quarantine](https://blog.pypi.org/posts/2024-12-30-quarantine/)
 * [2025-01-02, 16:37:38](https://news.ycombinator.com/item?id=42575947) - [Show HN: WebGPU + TypeScript Slime Mold](https://github.com/SuboptimalEng/slime-sim-webgpu)
