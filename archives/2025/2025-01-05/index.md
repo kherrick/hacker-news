@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-05](index.md)
 
+* [2025-01-05, 18:31:45](https://news.ycombinator.com/item?id=42603830) - [There are different sorts of WireGuard setups with different difficulties](https://utcc.utoronto.ca/~cks/space/blog/tech/WireGuardSetupTypes)
 * [2025-01-05, 18:02:20](https://news.ycombinator.com/item?id=42603585) - [Akamai to shut down its CDN operations in China](https://content.akamai.com/index.php/email/emailWebview?email=NjQyLVNLTi00NDkAAAGWBQgHSPFMp0ow2aF67IAbDOB0c1pNppYjWH8ZCkGxrVi4pDs7pT_120NiLvARghhVOBbaIJqps_3Ii2OZlixo3IPjhpR79JsTe-0&trk=comments_comments-list_comment-text)
 * [2025-01-05, 17:38:59](https://news.ycombinator.com/item?id=42603395) - [United Airlines to launch Starlink Wi-Fi in spring 2025](https://www.techinasia.com/news/united-airlines-launch-starlink-wifi-spring-2025)
 * [2025-01-05, 17:24:31](https://news.ycombinator.com/item?id=42603292) - [Help! Politics Blog Cloudflare Subpoena](https://news.ycombinator.com/item?id=42603292)
