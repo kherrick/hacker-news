@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-05, 11:23:44",
+      "https://news.ycombinator.com/item?id=42601080"
+    ],
+    [
+      "Good Riddance to Net Neutrality",
+      "https://www.wsj.com/opinion/fcc-net-neutrality-rule-struck-down-sixth-circuit-jessica-rosenworcel-2a111ef7"
+    ]
+  ],
+  [
+    [
       "2025-01-05, 10:28:30",
       "https://news.ycombinator.com/item?id=42600893"
     ],
@@ -57,16 +67,6 @@
     [
       "Back to basics: Why we chose long-polling over websockets",
       "https://www.inferable.ai/blog/posts/postgres-nodejs-longpolling.mdx"
-    ]
-  ],
-  [
-    [
-      "2025-01-05, 06:44:33",
-      "https://news.ycombinator.com/item?id=42600192"
-    ],
-    [
-      "Game dev in Rust: a year later",
-      "https://users.rust-lang.org/t/game-dev-in-rust-a-year-later/123522"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-01-04, 10:41:49",
-      "https://news.ycombinator.com/item?id=42593919"
-    ],
-    [
-      "Show HN: I created a PoC for live descriptions of the surroundings for the blind",
-      "https://github.com/o40/seesay"
-    ]
-  ],
-  [
-    [
       "2025-01-04, 09:14:28",
       "https://news.ycombinator.com/item?id=42593614"
     ],
@@ -257,6 +247,16 @@
     [
       "Nanoimprint Lithography Aims to Take on EUV",
       "https://spectrum.ieee.org/nanoimprint-lithography"
+    ]
+  ],
+  [
+    [
+      "2025-01-02, 14:17:54",
+      "https://news.ycombinator.com/item?id=42574600"
+    ],
+    [
+      "The Maritime Approximation",
+      "https://kevlinhenney.medium.com/the-maritime-approximation-8b71d5041cd5"
     ]
   ],
   [
