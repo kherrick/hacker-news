@@ -7,6 +7,7 @@
 * [2025-01-01, 23:44:13](https://news.ycombinator.com/item?id=42570259) - [Signalens' SignalSDR Pro Is a Raspberry Pi-Like High-Performance SDR](https://www.hackster.io/news/signalens-signalsdr-pro-is-a-raspberry-pi-like-high-performance-software-defined-radio-33d06214b465)
 * [2025-01-01, 23:20:53](https://news.ycombinator.com/item?id=42570138) - [There Are More Trees on Earth Than Stars in the Milky Way](https://www.snopes.com/fact-check/trees-stars-milky-way/)
 * [2025-01-01, 22:41:16](https://news.ycombinator.com/item?id=42569913) - [My 25-year adventure in AI and ML](https://austinhenley.com/blog/25yearsofai.html)
+* [2025-01-01, 22:35:41](https://news.ycombinator.com/item?id=42569880) - [Counterculture legend who invented bell-bottom jeans dies at 84](https://www.sfgate.com/local/article/peggy-caserta-obituary-sf-bell-bottom-jeans-19976707.php)
 * [2025-01-01, 22:08:21](https://news.ycombinator.com/item?id=42569728) - [(Amiga) AROS Research Operating System: Summary of 2024](https://arosnews.github.io/aros-x86-summary-2024/)
 * [2025-01-01, 22:05:38](https://news.ycombinator.com/item?id=42569713) - [Privacy of Photos.app's Enhanced Visual Search](https://mjtsai.com/blog/2025/01/01/privacy-of-photos-apps-enhanced-visual-search/)
 * [2025-01-01, 21:47:09](https://news.ycombinator.com/item?id=42569582) - [Twinge of Saudade: Biographies of Abba](https://www.lrb.co.uk/the-paper/v46/n24/chal-ravens/twinge-of-saudade)
