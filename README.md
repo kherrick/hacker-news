@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-05, 16:41:33](https://news.ycombinator.com/item?id=42602950) - [After Layoffs, Why Do Tech Firms Still Claim Talent Shortages?](https://www.behindhrdoors.com/p/why-tech-companies-struggle-to-hire-after-massive-layoffs)
 * [2025-01-05, 16:39:54](https://news.ycombinator.com/item?id=42602940) - [AI-assisted coding will change software engineering: hard truths](https://newsletter.pragmaticengineer.com/p/how-ai-will-change-software-engineering)
 * [2025-01-05, 16:35:07](https://news.ycombinator.com/item?id=42602900) - [Ask HN: Spending Tracking Tools](https://news.ycombinator.com/item?id=42602900)
 * [2025-01-05, 14:15:19](https://news.ycombinator.com/item?id=42601847) - [The day I taught AI to read code like a Senior Developer](https://nmn.gl/blog/ai-senior-developer)
@@ -19,6 +18,7 @@
 * [2025-01-04, 19:23:43](https://news.ycombinator.com/item?id=42596983) - [ELKS: Linux for 16-bit Intel Processors](https://github.com/ghaerr/elks)
 * [2025-01-04, 15:18:13](https://news.ycombinator.com/item?id=42595190) - [Combining 15s interval whole-sky-camera photos to form a 4y spanning keogram](https://astrodon.social/@cgbassa/113770318993975063)
 * [2025-01-04, 11:10:20](https://news.ycombinator.com/item?id=42594024) - [One Dog vs. the Windows 3.1 Graphics Stack](https://wuffs.org/blog/windows-3x-graphics)
+* [2025-01-03, 19:45:48](https://news.ycombinator.com/item?id=42588828) - [Hornet, RNA structure visualization method correlates sequence and 3D topology](https://phys.org/news/2024-12-hornet-rna-visualization-method-sequence.html)
 * [2025-01-03, 13:26:54](https://news.ycombinator.com/item?id=42585447) - [Wildcard: Customize HN using a spreadsheet view](https://www.geoffreylitt.com/wildcard/)
 * [2025-01-02, 23:42:31](https://news.ycombinator.com/item?id=42580342) - [Self Unhelped](https://sydneyreviewofbooks.com/reviews/self-unhelped)
 * [2025-01-02, 20:02:18](https://news.ycombinator.com/item?id=42578201) - [Documenting an 1115 ft radio tower climb](https://www.jeffgeerling.com/blog/2024/documenting-1115-ft-radio-tower-climb)
