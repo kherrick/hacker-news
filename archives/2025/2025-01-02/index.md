@@ -28,6 +28,7 @@
 * [2025-01-02, 17:46:39](https://news.ycombinator.com/item?id=42576647) - [Ask HN: Share your \"LLM screwed us over\" stories?](https://news.ycombinator.com/item?id=42576647)
 * [2025-01-02, 17:31:36](https://news.ycombinator.com/item?id=42576481) - [Tesla Cybertruck sales are disastrous](https://electrek.co/2025/01/02/tesla-cybertruck-sales-are-disastrous/)
 * [2025-01-02, 17:27:28](https://news.ycombinator.com/item?id=42576443) - [UBlockOrigin GPL code being stolen by team behind Honey browser extension](https://old.reddit.com/r/uBlockOrigin/comments/1hr6xjc/ubo_quick_filters_list_being_stolen_by_team/)
+* [2025-01-02, 17:27:05](https://news.ycombinator.com/item?id=42576436) - [Kakizome, Japanese way of new-years resolution](https://harimus.github.io//2025/01/02/kakizome.html)
 * [2025-01-02, 17:08:38](https://news.ycombinator.com/item?id=42576242) - [XiangShan – open-source high performance RISC-V processor](https://github.com/OpenXiangShan/XiangShan)
 * [2025-01-02, 17:00:24](https://news.ycombinator.com/item?id=42576163) - [Distro (YC S24) Is Hiring a Business Development Representative (BDR)](https://www.ycombinator.com/companies/distro/jobs/FFzY0sx-business-development-representative)
 * [2025-01-02, 16:52:58](https://news.ycombinator.com/item?id=42576090) - [The Dogs of (Urban) War: Lessons from the IDFs' Specialized Canine Unit](https://mwi.westpoint.edu/the-dogs-of-urban-war-lessons-from-oketz-the-israel-defense-forces-specialized-canine-unit/)
