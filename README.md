@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-05, 10:15:58](https://news.ycombinator.com/item?id=42600846) - [How Nat Traversal Works](https://tailscale.com/blog/how-nat-traversal-works)
+* [2025-01-05, 10:28:30](https://news.ycombinator.com/item?id=42600893) - [CTO / cofounder exit deal after 1.5y at 600k revenue without SHA](https://news.ycombinator.com/item?id=42600893)
+* [2025-01-05, 10:15:58](https://news.ycombinator.com/item?id=42600846) - [How Nat Traversal Works (2020)](https://tailscale.com/blog/how-nat-traversal-works)
 * [2025-01-05, 09:10:54](https://news.ycombinator.com/item?id=42600626) - [Social Media Distorts Perceptions of Norms](https://osf.io/preprints/psyarxiv/kgcrq)
 * [2025-01-05, 09:03:28](https://news.ycombinator.com/item?id=42600595) - [The funniest thing I ever did – a.k.a. \"How To Make $100K From A Dick Joke.\"](https://imgur.com/gallery/KZ4u3c4)
 * [2025-01-05, 09:02:01](https://news.ycombinator.com/item?id=42600586) - [Show HN: Struggle with CSS Flexbox? This Playground Is for You](https://yoavsbg.github.io/css-flexbox-playground/)
@@ -22,7 +23,6 @@
 * [2025-01-03, 19:45:48](https://news.ycombinator.com/item?id=42588828) - [Hornet, RNA structure visualization method correlates sequence and 3D topology](https://phys.org/news/2024-12-hornet-rna-visualization-method-sequence.html)
 * [2025-01-03, 13:59:49](https://news.ycombinator.com/item?id=42585707) - [Phase behavior of Cacio and Pepe sauce](https://arxiv.org/abs/2501.00536)
 * [2025-01-03, 13:26:54](https://news.ycombinator.com/item?id=42585447) - [Wildcard: Customize HN using a spreadsheet view](https://www.geoffreylitt.com/wildcard/)
-* [2025-01-03, 01:39:43](https://news.ycombinator.com/item?id=42581241) - [Visually Compare Retry Algorithms](https://www.compareretries.com/)
 * [2025-01-02, 23:50:29](https://news.ycombinator.com/item?id=42580397) - [It Matters Who Owns Your Copylefted Copyrights (2021)](https://sfconservancy.org/blog/2021/jun/30/who-should-own-foss-copyrights/)
 * [2025-01-02, 19:40:18](https://news.ycombinator.com/item?id=42577938) - [PyPI Blog: Project Quarantine](https://blog.pypi.org/posts/2024-12-30-quarantine/)
 * [2025-01-02, 15:14:54](https://news.ycombinator.com/item?id=42575111) - [Nanoimprint Lithography Aims to Take on EUV](https://spectrum.ieee.org/nanoimprint-lithography)

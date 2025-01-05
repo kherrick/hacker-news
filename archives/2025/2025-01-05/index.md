@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-05](index.md)
 
+* [2025-01-05, 10:28:30](https://news.ycombinator.com/item?id=42600893) - [CTO / cofounder exit deal after 1.5y at 600k revenue without SHA](https://news.ycombinator.com/item?id=42600893)
 * [2025-01-05, 10:15:58](https://news.ycombinator.com/item?id=42600846) - [How Nat Traversal Works](https://tailscale.com/blog/how-nat-traversal-works)
 * [2025-01-05, 09:30:28](https://news.ycombinator.com/item?id=42600694) - [The Adrian Dittmann Story](https://maia.crimew.gay/posts/adrian-dittmann/)
 * [2025-01-05, 09:10:54](https://news.ycombinator.com/item?id=42600626) - [Social Media Distorts Perceptions of Norms](https://osf.io/preprints/psyarxiv/kgcrq)
