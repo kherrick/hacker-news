@@ -14,6 +14,7 @@
 * [2025-01-03, 22:18:12](https://news.ycombinator.com/item?id=42590055) - [Parasitic worms 'manipulate' mantises onto asphalt roads, say researchers](https://mainichi.jp/english/articles/20241115/p2a/00m/0sc/009000c)
 * [2025-01-03, 21:54:42](https://news.ycombinator.com/item?id=42589863) - [Perplexity Got Ads](https://twitter.com/damengchen/status/1875296442417607072)
 * [2025-01-03, 21:24:44](https://news.ycombinator.com/item?id=42589629) - [Transcendental Syntax](https://github.com/engboris/transcendental-syntax)
+* [2025-01-03, 21:17:12](https://news.ycombinator.com/item?id=42589553) - [Tomatoes Were Considered Sinful – Until the Salem Tomato Trial of 1820 (2019)](https://www.thevintagenews.com/2019/02/23/tomato/)
 * [2025-01-03, 21:10:42](https://news.ycombinator.com/item?id=42589497) - [Factories in Space](https://www.factoriesinspace.com/)
 * [2025-01-03, 21:03:44](https://news.ycombinator.com/item?id=42589443) - [Her Treatment Was Helping. That's Why Insurance Cut Off Her Coverage](https://www.propublica.org/article/mental-health-insurance-denials-patient-progress)
 * [2025-01-03, 21:01:16](https://news.ycombinator.com/item?id=42589431) - [Extend (YC W23) is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
