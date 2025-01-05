@@ -9,6 +9,7 @@
 * [2025-01-05, 12:36:33](https://news.ycombinator.com/item?id=42601374) - [A story on home server security](https://raniseth.com/blog/2025-01-04-Home-Server-Security.html)
 * [2025-01-05, 12:29:00](https://news.ycombinator.com/item?id=42601343) - [Boy, 7, found alive five days after going missing in 'lion-infested' game park](https://news.sky.com/story/boy-7-found-alive-five-days-after-going-missing-in-lion-infested-zimbabwe-game-park-13283935)
 * [2025-01-05, 11:23:44](https://news.ycombinator.com/item?id=42601080) - [Good Riddance to Net Neutrality](https://www.wsj.com/opinion/fcc-net-neutrality-rule-struck-down-sixth-circuit-jessica-rosenworcel-2a111ef7)
+* [2025-01-05, 11:10:17](https://news.ycombinator.com/item?id=42601022) - [Being a career-obsessed engineer wasn't the optimal way to be fulfilled](https://strategizeyourcareer.com/p/how-im-advancing-my-career-without-neglecting-my-life)
 * [2025-01-05, 10:58:24](https://news.ycombinator.com/item?id=42600979) - [The Evolution of Tunnel Boring Machines](https://www.construction-physics.com/p/the-evolution-of-tunnel-boring-machines)
 * [2025-01-05, 10:28:30](https://news.ycombinator.com/item?id=42600893) - [CTO / cofounder exit deal after 1.5y at 600k revenue without SHA](https://news.ycombinator.com/item?id=42600893)
 * [2025-01-05, 10:15:58](https://news.ycombinator.com/item?id=42600846) - [How Nat Traversal Works](https://tailscale.com/blog/how-nat-traversal-works)

@@ -31,6 +31,7 @@
 * [2025-01-01, 16:34:52](https://news.ycombinator.com/item?id=42567069) - [H5N1: Much More Than You Wanted to Know](https://www.astralcodexten.com/p/h5n1-much-more-than-you-wanted-to)
 * [2025-01-01, 16:00:08](https://news.ycombinator.com/item?id=42566803) - [OpenAI failed to deliver the opt-out tool it promised by 2025](https://techcrunch.com/2025/01/01/openai-failed-to-deliver-the-opt-out-tool-it-promised-by-2025/)
 * [2025-01-01, 15:58:26](https://news.ycombinator.com/item?id=42566784) - [Tesla replaces laid-off U.S. workers with foreigners using visas pushed by Musk](https://www.msn.com/en-ca/autos/electric-cars/tesla-replaces-laid-off-u-s-workers-with-foreigners-using-visas-pushed-by-musk-report/ar-AA1wILAQ)
+* [2025-01-01, 15:53:42](https://news.ycombinator.com/item?id=42566748) - [Supernovae evidence for foundational change to cosmological models](https://academic.oup.com/mnrasl/article/537/1/L55/7926647)
 * [2025-01-01, 15:02:06](https://news.ycombinator.com/item?id=42566387) - [A Legendary Exposé of the Brutality of the Soviet Union](https://www.smithsonianmag.com/smart-news/discover-the-story-behind-a-legendary-expose-of-the-brutality-of-the-soviet-union-180985658/)
 * [2025-01-01, 14:27:39](https://news.ycombinator.com/item?id=42566192) - [Databases in 2024: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html)
 * [2025-01-01, 14:18:27](https://news.ycombinator.com/item?id=42566141) - [Ruby 3.4 Highlights](https://blog.sinjakli.co.uk/2025/01/01/ruby-3-4-highlights/)
