@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-01-05, 14:15:19",
+      "https://news.ycombinator.com/item?id=42601847"
+    ],
+    [
+      "The day I taught AI to read code like a Senior Developer",
+      "https://nmn.gl/blog/ai-senior-developer"
+    ]
+  ],
+  [
+    [
+      "2025-01-05, 13:49:12",
+      "https://news.ycombinator.com/item?id=42601724"
+    ],
+    [
+      "Learn New Skills",
+      "https://www.attejuvonen.fi/learn/"
+    ]
+  ],
+  [
+    [
+      "2025-01-05, 13:19:18",
+      "https://news.ycombinator.com/item?id=42601549"
+    ],
+    [
+      "You Wouldn't Download an AI",
+      "https://altayakkus.substack.com/p/you-wouldnt-download-an-ai"
+    ]
+  ],
+  [
+    [
+      "2025-01-05, 12:50:53",
+      "https://news.ycombinator.com/item?id=42601438"
+    ],
+    [
+      "FCC net neutrality rules dead again as appeals court sides with Big Telco",
+      "https://www.theregister.com/2025/01/02/fcc_net_neutrality_rules_killed/"
+    ]
+  ],
+  [
+    [
       "2025-01-05, 12:49:34",
       "https://news.ycombinator.com/item?id=42601429"
     ],
@@ -35,7 +75,7 @@
       "https://news.ycombinator.com/item?id=42600979"
     ],
     [
-      "The Evolution of Tunnel Boring Machines",
+      "The Evolution of Tunnel Boring Machines (2023)",
       "https://www.construction-physics.com/p/the-evolution-of-tunnel-boring-machines"
     ]
   ],
@@ -121,16 +161,6 @@
   ],
   [
     [
-      "2025-01-05, 03:24:51",
-      "https://news.ycombinator.com/item?id=42599507"
-    ],
-    [
-      "GPON FTTH networks (in)security (2016)",
-      "https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html#introduction"
-    ]
-  ],
-  [
-    [
       "2025-01-05, 02:26:19",
       "https://news.ycombinator.com/item?id=42599261"
     ],
@@ -151,12 +181,12 @@
   ],
   [
     [
-      "2025-01-04, 20:02:29",
-      "https://news.ycombinator.com/item?id=42597283"
+      "2025-01-04, 23:30:37",
+      "https://news.ycombinator.com/item?id=42598458"
     ],
     [
-      "Labwc: Wlroots-based window-stacking compositor for Wayland, inspired by openbox",
-      "https://labwc.github.io/"
+      "University of Alabama Engineer Pioneers New Process for Recycling Plastics",
+      "https://news.ua.edu/2024/10/ua-chemical-engineer-plastic-recycling/"
     ]
   ],
   [
@@ -181,32 +211,12 @@
   ],
   [
     [
-      "2025-01-04, 11:10:20",
-      "https://news.ycombinator.com/item?id=42594024"
-    ],
-    [
-      "One Dog vs. the Windows 3.1 Graphics Stack",
-      "https://wuffs.org/blog/windows-3x-graphics"
-    ]
-  ],
-  [
-    [
       "2025-01-04, 09:14:28",
       "https://news.ycombinator.com/item?id=42593614"
     ],
     [
       "How to draw an outline in a video game",
       "https://ameye.dev/notes/rendering-outlines/"
-    ]
-  ],
-  [
-    [
-      "2025-01-03, 19:45:48",
-      "https://news.ycombinator.com/item?id=42588828"
-    ],
-    [
-      "Hornet, RNA structure visualization method correlates sequence and 3D topology",
-      "https://phys.org/news/2024-12-hornet-rna-visualization-method-sequence.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Sailor Poets Take over U.S. Navy Deck Logs on New Year's Day",
       "https://www.twz.com/news-features/how-sailor-poets-take-over-u-s-navy-deck-logs-on-new-years-day"
-    ]
-  ],
-  [
-    [
-      "2025-01-01, 05:57:48",
-      "https://news.ycombinator.com/item?id=42564243"
-    ],
-    [
-      "The comb jelly can fuse with another (including nervous and digestive systems)",
-      "https://www.cnn.com/2024/12/30/science/comb-jellies-fuse-single-organism/index.html"
     ]
   ]
 ]
