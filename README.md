@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-05, 03:47:12](https://news.ycombinator.com/item?id=42599599) - [Guten: A Tiny Newspaper Printer](https://amanvir.com/guten)
 * [2025-01-05, 02:12:13](https://news.ycombinator.com/item?id=42599189) - [No more needles Tracking blood sugar on your wrist](https://uwaterloo.ca/news/media/no-more-needles-tracking-blood-sugar-your-wrist)
 * [2025-01-05, 02:00:59](https://news.ycombinator.com/item?id=42599142) - [No-hole surgery: no keyhole, yet surgeons can now still operate under your skin](https://www.nibib.nih.gov/news-events/newsroom/getting-under-your-skin-3d-printing-technique-builds-structures-through-tissues)
 * [2025-01-05, 01:54:53](https://news.ycombinator.com/item?id=42599102) - [Web page annoyances that I don't inflict on you here](http://rachelbythebay.com/w/2025/01/04/cruft/)
@@ -17,7 +18,6 @@
 * [2025-01-04, 10:41:49](https://news.ycombinator.com/item?id=42593919) - [Show HN: I created a PoC for live descriptions of the surroundings for the blind](https://github.com/o40/seesay)
 * [2025-01-04, 09:14:28](https://news.ycombinator.com/item?id=42593614) - [How to draw an outline in a video game](https://ameye.dev/notes/rendering-outlines/)
 * [2025-01-04, 06:30:24](https://news.ycombinator.com/item?id=42592910) - [Self driving 1993 Volvo with open pilot](https://practicapp.com/carbagepilot-part1/)
-* [2025-01-04, 05:00:24](https://news.ycombinator.com/item?id=42592543) - [Programming as Theory Building (1985) [pdf]](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
 * [2025-01-04, 00:26:45](https://news.ycombinator.com/item?id=42590981) - [Meta is killing off its AI-powered Instagram and Facebook profiles](https://www.theguardian.com/technology/2025/jan/03/meta-ai-powered-instagram-facebook-profiles)
 * [2025-01-03, 13:59:49](https://news.ycombinator.com/item?id=42585707) - [Phase behavior of Cacio and Pepe sauce](https://arxiv.org/abs/2501.00536)
 * [2025-01-03, 09:13:29](https://news.ycombinator.com/item?id=42583986) - [The DIY Multideck](https://diymultideck.mauri.app/manual/)
