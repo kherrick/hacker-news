@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-01-05, 22:49:03",
+      "https://news.ycombinator.com/item?id=42605740"
+    ],
+    [
+      "Duolicious – Open-source dating app",
+      "https://github.com/duolicious"
+    ]
+  ],
+  [
+    [
+      "2025-01-05, 22:44:08",
+      "https://news.ycombinator.com/item?id=42605707"
+    ],
+    [
+      "Republishing My Simpsons Fan Site, Twenty Years Later",
+      "https://www.bingeclock.com/blog/post/republishing-my-simpsons-fan-site-twenty-years-later"
+    ]
+  ],
+  [
+    [
+      "2025-01-05, 22:43:24",
+      "https://news.ycombinator.com/item?id=42605704"
+    ],
+    [
+      "ESET recommends Linux if your unsupported Windows 11 PC can't update from 10",
+      "https://www.neowin.net/news/eset-recommends-installing-linux-if-your-unsupported-windows-11-pc-cant-update-from-10/"
+    ]
+  ],
+  [
+    [
       "2025-01-05, 21:27:25",
       "https://news.ycombinator.com/item?id=42605201"
     ],
@@ -17,6 +47,26 @@
     [
       "Corvus Robotics (YC S18) is hiring a Head of Software to help inventory drones",
       "https://news.ycombinator.com/item?id=42605143"
+    ]
+  ],
+  [
+    [
+      "2025-01-05, 20:32:52",
+      "https://news.ycombinator.com/item?id=42604785"
+    ],
+    [
+      "Magna: Embedding similarity search tool for searching within large documents",
+      "https://github.com/yousef-rafat/Magna"
+    ]
+  ],
+  [
+    [
+      "2025-01-05, 19:58:39",
+      "https://news.ycombinator.com/item?id=42604529"
+    ],
+    [
+      "Ask HN: Favorite Blog in 2024?",
+      "https://news.ycombinator.com/item?id=42604529"
     ]
   ],
   [
@@ -141,26 +191,6 @@
   ],
   [
     [
-      "2025-01-05, 01:54:53",
-      "https://news.ycombinator.com/item?id=42599102"
-    ],
-    [
-      "Web page annoyances that I don't inflict on you",
-      "http://rachelbythebay.com/w/2025/01/04/cruft/"
-    ]
-  ],
-  [
-    [
-      "2025-01-03, 21:17:12",
-      "https://news.ycombinator.com/item?id=42589553"
-    ],
-    [
-      "Tomatoes Were Considered Sinful – Until the Salem Tomato Trial of 1820 (2019)",
-      "https://www.thevintagenews.com/2019/02/23/tomato/"
-    ]
-  ],
-  [
-    [
       "2025-01-03, 20:12:59",
       "https://news.ycombinator.com/item?id=42589054"
     ],
@@ -177,16 +207,6 @@
     [
       "Using watermarks to coordinate change data capture in Postgres",
       "https://blog.sequinstream.com/using-watermarks-to-coordinate-change-data-capture-in-postgres/"
-    ]
-  ],
-  [
-    [
-      "2025-01-02, 23:42:31",
-      "https://news.ycombinator.com/item?id=42580342"
-    ],
-    [
-      "Self Unhelped: On psychoanalysis and therapeutic culture",
-      "https://sydneyreviewofbooks.com/reviews/self-unhelped"
     ]
   ],
   [
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2025-01-02, 15:14:54",
-      "https://news.ycombinator.com/item?id=42575111"
-    ],
-    [
-      "Nanoimprint Lithography Aims to Take on EUV",
-      "https://spectrum.ieee.org/nanoimprint-lithography"
-    ]
-  ],
-  [
-    [
       "2025-01-02, 13:52:50",
       "https://news.ycombinator.com/item?id=42574387"
     ],
     [
       "60 Years of Spaceflight Patches",
       "https://arstechnica.com/space/2024/12/after-60-years-of-spaceflight-patches-here-are-some-of-our-favorites/"
-    ]
-  ],
-  [
-    [
-      "2025-01-01, 22:57:39",
-      "https://news.ycombinator.com/item?id=42570010"
-    ],
-    [
-      "Crawling More Politely Than Big Tech",
-      "https://cameronboehmer.com/building-a-polite-and-fast-web-crawler.html"
     ]
   ],
   [
