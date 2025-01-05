@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-05, 15:31:01](https://news.ycombinator.com/item?id=42602415) - [X is testing a standalone app for Grok, its AI chatbot](https://twitter.com/refsrc/status/1875920739620343879)
 * [2025-01-05, 14:27:04](https://news.ycombinator.com/item?id=42601932) - [AI's next leap requires intimate access to your digital life](https://www.washingtonpost.com/technology/2025/01/05/agents-ai-chatbots-google-mariner/)
 * [2025-01-05, 14:15:19](https://news.ycombinator.com/item?id=42601847) - [The day I taught AI to read code like a Senior Developer](https://nmn.gl/blog/ai-senior-developer)
 * [2025-01-05, 13:19:18](https://news.ycombinator.com/item?id=42601549) - [You Wouldn't Download an AI](https://altayakkus.substack.com/p/you-wouldnt-download-an-ai)
@@ -26,7 +27,6 @@
 * [2025-01-02, 14:17:54](https://news.ycombinator.com/item?id=42574600) - [The Maritime Approximation](https://kevlinhenney.medium.com/the-maritime-approximation-8b71d5041cd5)
 * [2025-01-02, 10:48:35](https://news.ycombinator.com/item?id=42573388) - [Myst Markdown – Markdown for technical/scientific document](https://mystmd.org/guide)
 * [2025-01-01, 22:35:41](https://news.ycombinator.com/item?id=42569880) - [Counterculture legend who invented bell-bottom jeans dies at 84](https://www.sfgate.com/local/article/peggy-caserta-obituary-sf-bell-bottom-jeans-19976707.php)
-* [2025-01-01, 16:53:00](https://news.ycombinator.com/item?id=42567212) - [Discuo – Anonymous discussions with infinite branching and 24h lifespan](https://discuo.com)
 * [2025-01-01, 15:53:42](https://news.ycombinator.com/item?id=42566748) - [Supernovae evidence for foundational change to cosmological models](https://academic.oup.com/mnrasl/article/537/1/L55/7926647)
 * [2025-01-01, 12:07:03](https://news.ycombinator.com/item?id=42565547) - [Sailor Poets Take over U.S. Navy Deck Logs on New Year's Day](https://www.twz.com/news-features/how-sailor-poets-take-over-u-s-navy-deck-logs-on-new-years-day)
 * [2025-01-01, 05:57:48](https://news.ycombinator.com/item?id=42564243) - [The comb jelly can fuse with another (including nervous and digestive systems)](https://www.cnn.com/2024/12/30/science/comb-jellies-fuse-single-organism/index.html)
