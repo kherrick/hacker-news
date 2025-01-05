@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-05](index.md)
 
+* [2025-01-05, 17:38:59](https://news.ycombinator.com/item?id=42603395) - [United Airlines to launch Starlink Wi-Fi in spring 2025](https://www.techinasia.com/news/united-airlines-launch-starlink-wifi-spring-2025)
+* [2025-01-05, 17:24:31](https://news.ycombinator.com/item?id=42603292) - [Help! Politics Blog Cloudflare Subpoena](https://news.ycombinator.com/item?id=42603292)
 * [2025-01-05, 16:41:33](https://news.ycombinator.com/item?id=42602950) - [After Layoffs, Why Do Tech Firms Still Claim Talent Shortages?](https://www.behindhrdoors.com/p/why-tech-companies-struggle-to-hire-after-massive-layoffs)
 * [2025-01-05, 16:39:54](https://news.ycombinator.com/item?id=42602940) - [AI-assisted coding will change software engineering: hard truths](https://newsletter.pragmaticengineer.com/p/how-ai-will-change-software-engineering)
 * [2025-01-05, 16:35:07](https://news.ycombinator.com/item?id=42602900) - [Ask HN: Spending Tracking Tools](https://news.ycombinator.com/item?id=42602900)

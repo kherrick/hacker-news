@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-05, 17:38:59](https://news.ycombinator.com/item?id=42603395) - [United Airlines to launch Starlink Wi-Fi in spring 2025](https://www.techinasia.com/news/united-airlines-launch-starlink-wifi-spring-2025)
+* [2025-01-05, 17:24:31](https://news.ycombinator.com/item?id=42603292) - [Help! Politics Blog Cloudflare Subpoena](https://news.ycombinator.com/item?id=42603292)
 * [2025-01-05, 16:39:54](https://news.ycombinator.com/item?id=42602940) - [AI-assisted coding will change software engineering: hard truths](https://newsletter.pragmaticengineer.com/p/how-ai-will-change-software-engineering)
 * [2025-01-05, 16:35:07](https://news.ycombinator.com/item?id=42602900) - [Ask HN: Spending Tracking Tools](https://news.ycombinator.com/item?id=42602900)
 * [2025-01-05, 14:15:19](https://news.ycombinator.com/item?id=42601847) - [The day I taught AI to read code like a Senior Developer](https://nmn.gl/blog/ai-senior-developer)
@@ -18,7 +20,6 @@
 * [2025-01-04, 19:23:43](https://news.ycombinator.com/item?id=42596983) - [ELKS: Linux for 16-bit Intel Processors](https://github.com/ghaerr/elks)
 * [2025-01-04, 15:18:13](https://news.ycombinator.com/item?id=42595190) - [Combining 15s interval whole-sky-camera photos to form a 4y spanning keogram](https://astrodon.social/@cgbassa/113770318993975063)
 * [2025-01-04, 11:10:20](https://news.ycombinator.com/item?id=42594024) - [One Dog vs. the Windows 3.1 Graphics Stack](https://wuffs.org/blog/windows-3x-graphics)
-* [2025-01-03, 19:45:48](https://news.ycombinator.com/item?id=42588828) - [Hornet, RNA structure visualization method correlates sequence and 3D topology](https://phys.org/news/2024-12-hornet-rna-visualization-method-sequence.html)
 * [2025-01-03, 13:26:54](https://news.ycombinator.com/item?id=42585447) - [Wildcard: Customize HN using a spreadsheet view](https://www.geoffreylitt.com/wildcard/)
 * [2025-01-02, 23:42:31](https://news.ycombinator.com/item?id=42580342) - [Self Unhelped](https://sydneyreviewofbooks.com/reviews/self-unhelped)
 * [2025-01-02, 20:02:18](https://news.ycombinator.com/item?id=42578201) - [Documenting an 1115 ft radio tower climb](https://www.jeffgeerling.com/blog/2024/documenting-1115-ft-radio-tower-climb)
@@ -29,7 +30,6 @@
 * [2025-01-01, 22:35:41](https://news.ycombinator.com/item?id=42569880) - [Counterculture legend who invented bell-bottom jeans dies at 84](https://www.sfgate.com/local/article/peggy-caserta-obituary-sf-bell-bottom-jeans-19976707.php)
 * [2025-01-01, 15:53:42](https://news.ycombinator.com/item?id=42566748) - [Supernovae evidence for foundational change to cosmological models](https://academic.oup.com/mnrasl/article/537/1/L55/7926647)
 * [2025-01-01, 12:07:03](https://news.ycombinator.com/item?id=42565547) - [Sailor Poets Take over U.S. Navy Deck Logs on New Year's Day](https://www.twz.com/news-features/how-sailor-poets-take-over-u-s-navy-deck-logs-on-new-years-day)
-* [2025-01-01, 05:57:48](https://news.ycombinator.com/item?id=42564243) - [The comb jelly can fuse with another (including nervous and digestive systems)](https://www.cnn.com/2024/12/30/science/comb-jellies-fuse-single-organism/index.html)
 
 ## [Archives](archives/index.md)
 
