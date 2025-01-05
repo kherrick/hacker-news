@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-05, 03:47:12](https://news.ycombinator.com/item?id=42599599) - [Guten: A Tiny Newspaper Printer](https://amanvir.com/guten)
+* [2025-01-05, 02:26:19](https://news.ycombinator.com/item?id=42599261) - [Refurb Weekend: Atari Stacy](http://oldvcr.blogspot.com/2025/01/refurb-weekend-atari-stacy.html)
 * [2025-01-05, 02:12:13](https://news.ycombinator.com/item?id=42599189) - [No more needles Tracking blood sugar on your wrist](https://uwaterloo.ca/news/media/no-more-needles-tracking-blood-sugar-your-wrist)
 * [2025-01-05, 02:00:59](https://news.ycombinator.com/item?id=42599142) - [No-hole surgery: no keyhole, yet surgeons can now still operate under your skin](https://www.nibib.nih.gov/news-events/newsroom/getting-under-your-skin-3d-printing-technique-builds-structures-through-tissues)
 * [2025-01-05, 01:54:53](https://news.ycombinator.com/item?id=42599102) - [Web page annoyances that I don't inflict on you here](http://rachelbythebay.com/w/2025/01/04/cruft/)
@@ -28,7 +29,6 @@
 * [2025-01-02, 15:45:34](https://news.ycombinator.com/item?id=42575390) - [Hacking yourself a satellite – recovering BEESAT-1 [video]](https://media.ccc.de/v/38c3-hacking-yourself-a-satellite-recovering-beesat-1)
 * [2025-01-02, 10:48:35](https://news.ycombinator.com/item?id=42573388) - [Myst Markdown – Markdown for technical/scientific document](https://mystmd.org/guide)
 * [2025-01-02, 10:16:26](https://news.ycombinator.com/item?id=42573232) - [Ask HN: How are you using LLMs for traversing decompiler output?](https://news.ycombinator.com/item?id=42573232)
-* [2025-01-01, 18:05:58](https://news.ycombinator.com/item?id=42567795) - [Object that fell from the skies identified as separation ring from a rocket](https://nation.africa/kenya/news/object-that-fell-from-the-skies-identified-as-separation-ring-from-a-rocket-4875322)
 * [2025-01-01, 05:57:48](https://news.ycombinator.com/item?id=42564243) - [The comb jelly can fuse with another (including nervous and digestive systems)](https://www.cnn.com/2024/12/30/science/comb-jellies-fuse-single-organism/index.html)
 
 ## [Archives](archives/index.md)
