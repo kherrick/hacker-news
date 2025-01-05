@@ -6,6 +6,7 @@
 
 * [2025-01-01, 23:44:13](https://news.ycombinator.com/item?id=42570259) - [Signalens' SignalSDR Pro Is a Raspberry Pi-Like High-Performance SDR](https://www.hackster.io/news/signalens-signalsdr-pro-is-a-raspberry-pi-like-high-performance-software-defined-radio-33d06214b465)
 * [2025-01-01, 23:20:53](https://news.ycombinator.com/item?id=42570138) - [There Are More Trees on Earth Than Stars in the Milky Way](https://www.snopes.com/fact-check/trees-stars-milky-way/)
+* [2025-01-01, 22:57:39](https://news.ycombinator.com/item?id=42570010) - [Crawling More Politely Than Big Tech](https://cameronboehmer.com/building-a-polite-and-fast-web-crawler.html)
 * [2025-01-01, 22:41:16](https://news.ycombinator.com/item?id=42569913) - [My 25-year adventure in AI and ML](https://austinhenley.com/blog/25yearsofai.html)
 * [2025-01-01, 22:35:41](https://news.ycombinator.com/item?id=42569880) - [Counterculture legend who invented bell-bottom jeans dies at 84](https://www.sfgate.com/local/article/peggy-caserta-obituary-sf-bell-bottom-jeans-19976707.php)
 * [2025-01-01, 22:08:21](https://news.ycombinator.com/item?id=42569728) - [(Amiga) AROS Research Operating System: Summary of 2024](https://arosnews.github.io/aros-x86-summary-2024/)
@@ -22,6 +23,7 @@
 * [2025-01-01, 19:12:57](https://news.ycombinator.com/item?id=42568399) - [Terence Tao: One of my papers got declined today](https://mathstodon.xyz/@tao/113721192051328193)
 * [2025-01-01, 19:00:06](https://news.ycombinator.com/item?id=42568239) - [2025 Banished Words List](https://www.lssu.edu/lake-superior-state-university-unveils-2025-banished-words-list/)
 * [2025-01-01, 18:38:24](https://news.ycombinator.com/item?id=42568056) - [How and Why I Stopped Buying New Laptops](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops)
+* [2025-01-01, 18:18:48](https://news.ycombinator.com/item?id=42567900) - [Axum 0.8](https://tokio.rs/blog/2025-01-01-announcing-axum-0-8-0)
 * [2025-01-01, 18:05:58](https://news.ycombinator.com/item?id=42567795) - [Object that fell from the skies identified as separation ring from a rocket](https://nation.africa/kenya/news/object-that-fell-from-the-skies-identified-as-separation-ring-from-a-rocket-4875322)
 * [2025-01-01, 17:47:43](https://news.ycombinator.com/item?id=42567641) - [Pornhub Is Now Blocked in Almost All of the U.S. South](https://www.404media.co/pornhub-is-now-blocked-in-almost-all-of-the-u-s-south/)
 * [2025-01-01, 17:00:33](https://news.ycombinator.com/item?id=42567286) - [HyperDX (YC S22) is hiring engineers to build open source observability](https://www.ycombinator.com/companies/hyperdx/jobs)
