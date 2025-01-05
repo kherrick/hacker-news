@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-05, 18:31:45](https://news.ycombinator.com/item?id=42603830) - [There are different sorts of WireGuard setups with different difficulties](https://utcc.utoronto.ca/~cks/space/blog/tech/WireGuardSetupTypes)
 * [2025-01-05, 18:02:20](https://news.ycombinator.com/item?id=42603585) - [Akamai to shut down its CDN operations in China](https://content.akamai.com/index.php/email/emailWebview?email=NjQyLVNLTi00NDkAAAGWBQgHSPFMp0ow2aF67IAbDOB0c1pNppYjWH8ZCkGxrVi4pDs7pT_120NiLvARghhVOBbaIJqps_3Ii2OZlixo3IPjhpR79JsTe-0&trk=comments_comments-list_comment-text)
 * [2025-01-05, 17:38:59](https://news.ycombinator.com/item?id=42603395) - [United Airlines to launch Starlink Wi-Fi in spring 2025](https://www.techinasia.com/news/united-airlines-launch-starlink-wifi-spring-2025)
 * [2025-01-05, 16:35:07](https://news.ycombinator.com/item?id=42602900) - [Ask HN: Spending Tracking Tools](https://news.ycombinator.com/item?id=42602900)
@@ -21,6 +20,7 @@
 * [2025-01-04, 15:18:13](https://news.ycombinator.com/item?id=42595190) - [Combining 15s interval whole-sky-camera photos to form a 4y spanning keogram](https://astrodon.social/@cgbassa/113770318993975063)
 * [2025-01-03, 20:12:59](https://news.ycombinator.com/item?id=42589054) - [Triangulation of a polyline with thickness (a.k.a. line strip)](https://jvernay.fr/en/blog/polyline-triangulation/)
 * [2025-01-03, 13:26:54](https://news.ycombinator.com/item?id=42585447) - [Wildcard: Customize HN using a spreadsheet view](https://www.geoffreylitt.com/wildcard/)
+* [2025-01-03, 03:28:26](https://news.ycombinator.com/item?id=42582044) - [Using watermarks to coordinate change data capture in Postgres](https://blog.sequinstream.com/using-watermarks-to-coordinate-change-data-capture-in-postgres/)
 * [2025-01-02, 23:42:31](https://news.ycombinator.com/item?id=42580342) - [Self Unhelped](https://sydneyreviewofbooks.com/reviews/self-unhelped)
 * [2025-01-02, 20:02:18](https://news.ycombinator.com/item?id=42578201) - [Documenting an 1115 ft radio tower climb](https://www.jeffgeerling.com/blog/2024/documenting-1115-ft-radio-tower-climb)
 * [2025-01-02, 15:14:54](https://news.ycombinator.com/item?id=42575111) - [Nanoimprint Lithography Aims to Take on EUV](https://spectrum.ieee.org/nanoimprint-lithography)

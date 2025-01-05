@@ -81,6 +81,7 @@
 * [2025-01-03, 04:25:11](https://news.ycombinator.com/item?id=42582415) - [FCC's Net Neutrality Rules Struck Down by Sixth Circuit](https://stocks.apple.com/AOtE_yI5dTe6OkLqgYKQ69A)
 * [2025-01-03, 04:14:38](https://news.ycombinator.com/item?id=42582352) - [How Saffron, a precious import, became an American cash crop](https://www.nytimes.com/2025/01/02/dining/saffron-farming-crop.html)
 * [2025-01-03, 03:52:42](https://news.ycombinator.com/item?id=42582203) - [Kuvasz-streamer: open-source CDC for Postgres for low latency replication](https://streamer.kuvasz.io/)
+* [2025-01-03, 03:28:26](https://news.ycombinator.com/item?id=42582044) - [Using watermarks to coordinate change data capture in Postgres](https://blog.sequinstream.com/using-watermarks-to-coordinate-change-data-capture-in-postgres/)
 * [2025-01-03, 02:09:29](https://news.ycombinator.com/item?id=42581457) - [Visually Mediated Motor Planning in the Escape Response of Drosophila (2008)](https://www.cell.com/current-biology/fulltext/S0960-9822(08)01048-8)
 * [2025-01-03, 01:57:07](https://news.ycombinator.com/item?id=42581368) - [Party Squasher, the first guest occupancy counter for homes](https://www.partysquasher.com/)
 * [2025-01-03, 01:39:43](https://news.ycombinator.com/item?id=42581241) - [Visually Compare Retry Algorithms](https://www.compareretries.com/)
