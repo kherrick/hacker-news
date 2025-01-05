@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-05, 09:10:54](https://news.ycombinator.com/item?id=42600626) - [Social Media Distorts Perceptions of Norms](https://osf.io/preprints/psyarxiv/kgcrq)
 * [2025-01-05, 09:02:01](https://news.ycombinator.com/item?id=42600586) - [Show HN: Struggle with CSS Flexbox? This Playground Is for You](https://yoavsbg.github.io/css-flexbox-playground/)
 * [2025-01-05, 06:44:33](https://news.ycombinator.com/item?id=42600192) - [Game dev in Rust: a year later](https://users.rust-lang.org/t/game-dev-in-rust-a-year-later/123522)
 * [2025-01-05, 05:24:25](https://news.ycombinator.com/item?id=42599971) - [Hacker gains access to the RP2350 OTP secret by glitching the RISC-V cores](https://www.tomshardware.com/raspberry-pi/it-looks-like-the-raspberry-pi-rp2350-hacking-challenge-has-been-beaten-hacker-gains-access-to-the-otp-secret-by-glitching-the-risc-v-cores-to-enable-debugging)
@@ -12,7 +13,6 @@
 * [2025-01-04, 23:30:37](https://news.ycombinator.com/item?id=42598458) - [University of Alabama Engineer Pioneers New Process for Recycling Plastics (2024)](https://news.ua.edu/2024/10/ua-chemical-engineer-plastic-recycling/)
 * [2025-01-04, 20:02:29](https://news.ycombinator.com/item?id=42597283) - [Labwc: Wlroots-based window-stacking compositor for Wayland, inspired by openbox](https://labwc.github.io/)
 * [2025-01-04, 19:23:43](https://news.ycombinator.com/item?id=42596983) - [ELKS: Linux for 16-bit Intel Processors](https://github.com/ghaerr/elks)
-* [2025-01-04, 18:01:39](https://news.ycombinator.com/item?id=42596450) - [A Return to Polymathy (2015) [pdf]](https://paulrcohen.github.io/papers/Polymathy.pdf)
 * [2025-01-04, 15:18:13](https://news.ycombinator.com/item?id=42595190) - [Combining 15s interval whole-sky-camera photos to form a 4y spanning keogram](https://astrodon.social/@cgbassa/113770318993975063)
 * [2025-01-04, 11:10:20](https://news.ycombinator.com/item?id=42594024) - [One Dog vs. the Windows 3.1 Graphics Stack](https://wuffs.org/blog/windows-3x-graphics)
 * [2025-01-04, 10:41:49](https://news.ycombinator.com/item?id=42593919) - [Show HN: I created a PoC for live descriptions of the surroundings for the blind](https://github.com/o40/seesay)

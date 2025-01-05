@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-05](index.md)
 
+* [2025-01-05, 09:10:54](https://news.ycombinator.com/item?id=42600626) - [Social Media Distorts Perceptions of Norms](https://osf.io/preprints/psyarxiv/kgcrq)
 * [2025-01-05, 09:02:01](https://news.ycombinator.com/item?id=42600586) - [Show HN: Struggle with CSS Flexbox? This Playground Is for You](https://yoavsbg.github.io/css-flexbox-playground/)
 * [2025-01-05, 08:00:37](https://news.ycombinator.com/item?id=42600400) - [Washington Post cartoonist resigns after cartoon satirising Jeff Bezos rejected](https://www.abc.net.au/news/2025-01-05/washington-post-cartoonist-resigns-over-jeff-bezos-cartoon/104786100)
 * [2025-01-05, 06:44:33](https://news.ycombinator.com/item?id=42600192) - [Game dev in Rust: a year later](https://users.rust-lang.org/t/game-dev-in-rust-a-year-later/123522)
