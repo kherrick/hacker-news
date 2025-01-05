@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-01-05](index.md)
 
+* [2025-01-05, 14:44:42](https://news.ycombinator.com/item?id=42602062) - [Olympians turn to OnlyFans to fund dreams due to 'broken' finance system (2024)](https://www.cbc.ca/sports/olympics/summer/athletics/onlyfans-alysha-newman-canada-olympics-1.7290724)
 * [2025-01-05, 14:27:04](https://news.ycombinator.com/item?id=42601932) - [AI's next leap requires intimate access to your digital life](https://www.washingtonpost.com/technology/2025/01/05/agents-ai-chatbots-google-mariner/)
 * [2025-01-05, 14:15:19](https://news.ycombinator.com/item?id=42601847) - [The day I taught AI to read code like a Senior Developer](https://nmn.gl/blog/ai-senior-developer)
 * [2025-01-05, 13:49:12](https://news.ycombinator.com/item?id=42601724) - [Learn New Skills](https://www.attejuvonen.fi/learn/)
 * [2025-01-05, 13:19:18](https://news.ycombinator.com/item?id=42601549) - [You Wouldn't Download an AI](https://altayakkus.substack.com/p/you-wouldnt-download-an-ai)
+* [2025-01-05, 13:05:31](https://news.ycombinator.com/item?id=42601489) - [Waymo Robotaxis Much Safer Than Any Human-Driven Cars](https://cleantechnica.com/2025/01/04/waymo-robotaxis-safer-than-any-human-driven-cars-much-safer/)
 * [2025-01-05, 12:50:53](https://news.ycombinator.com/item?id=42601438) - [FCC net neutrality rules dead again as appeals court sides with Big Telco](https://www.theregister.com/2025/01/02/fcc_net_neutrality_rules_killed/)
 * [2025-01-05, 12:49:34](https://news.ycombinator.com/item?id=42601429) - [2024: A Record-Breaking Year for the Ocean Cleanup](https://theoceancleanup.com/updates/2024-a-record-breaking-year-for-the-ocean-cleanup/)
 * [2025-01-05, 12:37:59](https://news.ycombinator.com/item?id=42601381) - [The largest hydroelectric dam in the world has been approved](https://newatlas.com/energy/yarlung-tsangpo-hydroelectric-project-china/)

@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-05, 14:44:42](https://news.ycombinator.com/item?id=42602062) - [Olympians turn to OnlyFans to fund dreams due to 'broken' finance system (2024)](https://www.cbc.ca/sports/olympics/summer/athletics/onlyfans-alysha-newman-canada-olympics-1.7290724)
 * [2025-01-05, 14:27:04](https://news.ycombinator.com/item?id=42601932) - [AI's next leap requires intimate access to your digital life](https://www.washingtonpost.com/technology/2025/01/05/agents-ai-chatbots-google-mariner/)
 * [2025-01-05, 14:15:19](https://news.ycombinator.com/item?id=42601847) - [The day I taught AI to read code like a Senior Developer](https://nmn.gl/blog/ai-senior-developer)
 * [2025-01-05, 13:49:12](https://news.ycombinator.com/item?id=42601724) - [Learn New Skills](https://www.attejuvonen.fi/learn/)
 * [2025-01-05, 13:19:18](https://news.ycombinator.com/item?id=42601549) - [You Wouldn't Download an AI](https://altayakkus.substack.com/p/you-wouldnt-download-an-ai)
+* [2025-01-05, 13:05:31](https://news.ycombinator.com/item?id=42601489) - [Waymo Robotaxis Much Safer Than Any Human-Driven Cars](https://cleantechnica.com/2025/01/04/waymo-robotaxis-safer-than-any-human-driven-cars-much-safer/)
 * [2025-01-05, 12:50:53](https://news.ycombinator.com/item?id=42601438) - [FCC net neutrality rules dead again as appeals court sides with Big Telco](https://www.theregister.com/2025/01/02/fcc_net_neutrality_rules_killed/)
 * [2025-01-05, 12:49:34](https://news.ycombinator.com/item?id=42601429) - [2024: A Record-Breaking Year for the Ocean Cleanup](https://theoceancleanup.com/updates/2024-a-record-breaking-year-for-the-ocean-cleanup/)
 * [2025-01-05, 12:36:33](https://news.ycombinator.com/item?id=42601374) - [A story on home server security](https://raniseth.com/blog/2025-01-04-Home-Server-Security.html)
@@ -13,7 +15,6 @@
 * [2025-01-05, 09:03:28](https://news.ycombinator.com/item?id=42600595) - [The funniest thing I ever did – a.k.a. \"How To Make $100K From A Dick Joke.\"](https://imgur.com/gallery/KZ4u3c4)
 * [2025-01-05, 09:02:01](https://news.ycombinator.com/item?id=42600586) - [Show HN: Struggle with CSS Flexbox? This Playground Is for You](https://yoavsbg.github.io/css-flexbox-playground/)
 * [2025-01-05, 07:14:30](https://news.ycombinator.com/item?id=42600276) - [Back to basics: Why we chose long-polling over websockets](https://www.inferable.ai/blog/posts/postgres-nodejs-longpolling.mdx)
-* [2025-01-05, 05:24:25](https://news.ycombinator.com/item?id=42599971) - [Hacker gains access to the RP2350 OTP secret by glitching the RISC-V cores](https://www.tomshardware.com/raspberry-pi/it-looks-like-the-raspberry-pi-rp2350-hacking-challenge-has-been-beaten-hacker-gains-access-to-the-otp-secret-by-glitching-the-risc-v-cores-to-enable-debugging)
 * [2025-01-05, 04:09:21](https://news.ycombinator.com/item?id=42599696) - [Blur Busters Open Source Display Initiative – Refresh Cycle Shaders](https://blurbusters.com/blur-busters-open-source-display-initative-refresh-cycle-shaders/)
 * [2025-01-05, 03:47:12](https://news.ycombinator.com/item?id=42599599) - [Guten: A Tiny Newspaper Printer](https://amanvir.com/guten)
 * [2025-01-05, 02:26:19](https://news.ycombinator.com/item?id=42599261) - [Refurb Weekend: Atari Stacy](http://oldvcr.blogspot.com/2025/01/refurb-weekend-atari-stacy.html)
@@ -27,7 +28,6 @@
 * [2025-01-02, 14:17:54](https://news.ycombinator.com/item?id=42574600) - [The Maritime Approximation](https://kevlinhenney.medium.com/the-maritime-approximation-8b71d5041cd5)
 * [2025-01-02, 10:48:35](https://news.ycombinator.com/item?id=42573388) - [Myst Markdown – Markdown for technical/scientific document](https://mystmd.org/guide)
 * [2025-01-01, 22:35:41](https://news.ycombinator.com/item?id=42569880) - [Counterculture legend who invented bell-bottom jeans dies at 84](https://www.sfgate.com/local/article/peggy-caserta-obituary-sf-bell-bottom-jeans-19976707.php)
-* [2025-01-01, 16:53:00](https://news.ycombinator.com/item?id=42567212) - [Discuo – Anonymous discussions with infinite branching and 24h lifespan](https://discuo.com)
 * [2025-01-01, 15:53:42](https://news.ycombinator.com/item?id=42566748) - [Supernovae evidence for foundational change to cosmological models](https://academic.oup.com/mnrasl/article/537/1/L55/7926647)
 * [2025-01-01, 12:07:03](https://news.ycombinator.com/item?id=42565547) - [Sailor Poets Take over U.S. Navy Deck Logs on New Year's Day](https://www.twz.com/news-features/how-sailor-poets-take-over-u-s-navy-deck-logs-on-new-years-day)
 
