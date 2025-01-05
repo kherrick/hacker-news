@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-01-05, 11:23:44",
-      "https://news.ycombinator.com/item?id=42601080"
+      "2025-01-05, 10:58:24",
+      "https://news.ycombinator.com/item?id=42600979"
     ],
     [
-      "Good Riddance to Net Neutrality",
-      "https://www.wsj.com/opinion/fcc-net-neutrality-rule-struck-down-sixth-circuit-jessica-rosenworcel-2a111ef7"
+      "The Evolution of Tunnel Boring Machines",
+      "https://www.construction-physics.com/p/the-evolution-of-tunnel-boring-machines"
     ]
   ],
   [
@@ -27,16 +27,6 @@
     [
       "How Nat Traversal Works (2020)",
       "https://tailscale.com/blog/how-nat-traversal-works"
-    ]
-  ],
-  [
-    [
-      "2025-01-05, 09:10:54",
-      "https://news.ycombinator.com/item?id=42600626"
-    ],
-    [
-      "Social Media Distorts Perceptions of Norms",
-      "https://osf.io/preprints/psyarxiv/kgcrq"
     ]
   ],
   [
@@ -67,6 +57,16 @@
     [
       "Back to basics: Why we chose long-polling over websockets",
       "https://www.inferable.ai/blog/posts/postgres-nodejs-longpolling.mdx"
+    ]
+  ],
+  [
+    [
+      "2025-01-05, 06:44:33",
+      "https://news.ycombinator.com/item?id=42600192"
+    ],
+    [
+      "Game dev in Rust: a year later",
+      "https://users.rust-lang.org/t/game-dev-in-rust-a-year-later/123522"
     ]
   ],
   [
