@@ -19,7 +19,7 @@
 * [2025-01-04, 23:30:37](https://news.ycombinator.com/item?id=42598458) - [University of Alabama Engineer Pioneers New Process for Recycling Plastics](https://news.ua.edu/2024/10/ua-chemical-engineer-plastic-recycling/)
 * [2025-01-04, 19:23:43](https://news.ycombinator.com/item?id=42596983) - [ELKS: Linux for 16-bit Intel Processors](https://github.com/ghaerr/elks)
 * [2025-01-04, 15:18:13](https://news.ycombinator.com/item?id=42595190) - [Combining 15s interval whole-sky-camera photos to form a 4y spanning keogram](https://astrodon.social/@cgbassa/113770318993975063)
-* [2025-01-04, 11:10:20](https://news.ycombinator.com/item?id=42594024) - [One Dog vs. the Windows 3.1 Graphics Stack](https://wuffs.org/blog/windows-3x-graphics)
+* [2025-01-03, 20:12:59](https://news.ycombinator.com/item?id=42589054) - [Triangulation of a polyline with thickness (a.k.a. line strip)](https://jvernay.fr/en/blog/polyline-triangulation/)
 * [2025-01-03, 13:26:54](https://news.ycombinator.com/item?id=42585447) - [Wildcard: Customize HN using a spreadsheet view](https://www.geoffreylitt.com/wildcard/)
 * [2025-01-02, 23:42:31](https://news.ycombinator.com/item?id=42580342) - [Self Unhelped](https://sydneyreviewofbooks.com/reviews/self-unhelped)
 * [2025-01-02, 20:02:18](https://news.ycombinator.com/item?id=42578201) - [Documenting an 1115 ft radio tower climb](https://www.jeffgeerling.com/blog/2024/documenting-1115-ft-radio-tower-climb)
