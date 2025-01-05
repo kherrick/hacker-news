@@ -18,6 +18,7 @@
 * [2025-01-04, 10:41:49](https://news.ycombinator.com/item?id=42593919) - [Show HN: I created a PoC for live descriptions of the surroundings for the blind](https://github.com/o40/seesay)
 * [2025-01-04, 09:14:28](https://news.ycombinator.com/item?id=42593614) - [How to draw an outline in a video game](https://ameye.dev/notes/rendering-outlines/)
 * [2025-01-04, 06:30:24](https://news.ycombinator.com/item?id=42592910) - [Self driving 1993 Volvo with open pilot](https://practicapp.com/carbagepilot-part1/)
+* [2025-01-04, 05:00:24](https://news.ycombinator.com/item?id=42592543) - [Programming as Theory Building (1985) [pdf]](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
 * [2025-01-04, 00:26:45](https://news.ycombinator.com/item?id=42590981) - [Meta is killing off its AI-powered Instagram and Facebook profiles](https://www.theguardian.com/technology/2025/jan/03/meta-ai-powered-instagram-facebook-profiles)
 * [2025-01-03, 13:59:49](https://news.ycombinator.com/item?id=42585707) - [Phase behavior of Cacio and Pepe sauce](https://arxiv.org/abs/2501.00536)
 * [2025-01-03, 09:13:29](https://news.ycombinator.com/item?id=42583986) - [The DIY Multideck](https://diymultideck.mauri.app/manual/)
@@ -27,7 +28,6 @@
 * [2025-01-02, 19:40:18](https://news.ycombinator.com/item?id=42577938) - [PyPI Blog: Project Quarantine](https://blog.pypi.org/posts/2024-12-30-quarantine/)
 * [2025-01-02, 16:37:38](https://news.ycombinator.com/item?id=42575947) - [Show HN: WebGPU + TypeScript Slime Mold](https://github.com/SuboptimalEng/slime-sim-webgpu)
 * [2025-01-02, 15:45:34](https://news.ycombinator.com/item?id=42575390) - [Hacking yourself a satellite – recovering BEESAT-1 [video]](https://media.ccc.de/v/38c3-hacking-yourself-a-satellite-recovering-beesat-1)
-* [2025-01-02, 10:48:35](https://news.ycombinator.com/item?id=42573388) - [Myst Markdown – Markdown for technical/scientific document](https://mystmd.org/guide)
 * [2025-01-02, 10:16:26](https://news.ycombinator.com/item?id=42573232) - [Ask HN: How are you using LLMs for traversing decompiler output?](https://news.ycombinator.com/item?id=42573232)
 * [2025-01-01, 05:57:48](https://news.ycombinator.com/item?id=42564243) - [The comb jelly can fuse with another (including nervous and digestive systems)](https://www.cnn.com/2024/12/30/science/comb-jellies-fuse-single-organism/index.html)
 
