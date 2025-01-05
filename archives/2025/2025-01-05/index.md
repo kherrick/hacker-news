@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-05](index.md)
 
+* [2025-01-05, 22:06:59](https://news.ycombinator.com/item?id=42605454) - [Ask HN: Is it a bad idea to make an email domain with an uncommon TLD?](https://news.ycombinator.com/item?id=42605454)
 * [2025-01-05, 21:20:07](https://news.ycombinator.com/item?id=42605143) - [Corvus Robotics (YC S18) is hiring a Head of Software to help inventory drones](https://news.ycombinator.com/item?id=42605143)
 * [2025-01-05, 20:52:13](https://news.ycombinator.com/item?id=42604924) - [Myth of Meritocracy](https://en.wikipedia.org/wiki/Myth_of_meritocracy)
 * [2025-01-05, 19:34:18](https://news.ycombinator.com/item?id=42604350) - [Reverse Engineering the Constants in the Pentium FPU](http://www.righto.com/2025/01/pentium-floating-point-ROM.html)

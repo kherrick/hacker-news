@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-05, 22:06:59](https://news.ycombinator.com/item?id=42605454) - [Ask HN: Is it a bad idea to make an email domain with an uncommon TLD?](https://news.ycombinator.com/item?id=42605454)
 * [2025-01-05, 21:20:07](https://news.ycombinator.com/item?id=42605143) - [Corvus Robotics (YC S18) is hiring a Head of Software to help inventory drones](https://news.ycombinator.com/item?id=42605143)
 * [2025-01-05, 19:34:18](https://news.ycombinator.com/item?id=42604350) - [Reverse Engineering the Constants in the Pentium FPU](http://www.righto.com/2025/01/pentium-floating-point-ROM.html)
 * [2025-01-05, 18:02:20](https://news.ycombinator.com/item?id=42603585) - [Akamai to shut down its CDN operations in China](https://content.akamai.com/index.php/email/emailWebview?email=NjQyLVNLTi00NDkAAAGWBQgHSPFMp0ow2aF67IAbDOB0c1pNppYjWH8ZCkGxrVi4pDs7pT_120NiLvARghhVOBbaIJqps_3Ii2OZlixo3IPjhpR79JsTe-0&trk=comments_comments-list_comment-text)
@@ -15,7 +16,6 @@
 * [2025-01-05, 07:14:30](https://news.ycombinator.com/item?id=42600276) - [Back to basics: Why we chose long-polling over websockets](https://www.inferable.ai/blog/posts/postgres-nodejs-longpolling.mdx)
 * [2025-01-05, 02:12:13](https://news.ycombinator.com/item?id=42599189) - [Researchers design wearable tech that can sense glucose levels more accurately](https://uwaterloo.ca/news/media/no-more-needles-tracking-blood-sugar-your-wrist)
 * [2025-01-05, 01:54:53](https://news.ycombinator.com/item?id=42599102) - [Web page annoyances that I don't inflict on you](http://rachelbythebay.com/w/2025/01/04/cruft/)
-* [2025-01-04, 23:30:37](https://news.ycombinator.com/item?id=42598458) - [University of Alabama Engineer Pioneers New Process for Recycling Plastics](https://news.ua.edu/2024/10/ua-chemical-engineer-plastic-recycling/)
 * [2025-01-03, 21:17:12](https://news.ycombinator.com/item?id=42589553) - [Tomatoes Were Considered Sinful – Until the Salem Tomato Trial of 1820 (2019)](https://www.thevintagenews.com/2019/02/23/tomato/)
 * [2025-01-03, 20:12:59](https://news.ycombinator.com/item?id=42589054) - [Triangulation of a polyline with thickness (a.k.a. line strip)](https://jvernay.fr/en/blog/polyline-triangulation/)
 * [2025-01-03, 03:28:26](https://news.ycombinator.com/item?id=42582044) - [Using watermarks to coordinate change data capture in Postgres](https://blog.sequinstream.com/using-watermarks-to-coordinate-change-data-capture-in-postgres/)
