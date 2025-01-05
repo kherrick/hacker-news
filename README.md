@@ -5,7 +5,6 @@
 * [2025-01-05, 13:19:18](https://news.ycombinator.com/item?id=42601549) - [You Wouldn't Download an AI](https://altayakkus.substack.com/p/you-wouldnt-download-an-ai)
 * [2025-01-05, 12:50:53](https://news.ycombinator.com/item?id=42601438) - [FCC net neutrality rules dead again as appeals court sides with Big Telco](https://www.theregister.com/2025/01/02/fcc_net_neutrality_rules_killed/)
 * [2025-01-05, 12:49:34](https://news.ycombinator.com/item?id=42601429) - [2024: A Record-Breaking Year for the Ocean Cleanup](https://theoceancleanup.com/updates/2024-a-record-breaking-year-for-the-ocean-cleanup/)
-* [2025-01-05, 12:37:59](https://news.ycombinator.com/item?id=42601381) - [The largest hydroelectric dam in the world has been approved](https://newatlas.com/energy/yarlung-tsangpo-hydroelectric-project-china/)
 * [2025-01-05, 12:36:33](https://news.ycombinator.com/item?id=42601374) - [A story on home server security](https://raniseth.com/blog/2025-01-04-Home-Server-Security.html)
 * [2025-01-05, 10:58:24](https://news.ycombinator.com/item?id=42600979) - [The Evolution of Tunnel Boring Machines (2023)](https://www.construction-physics.com/p/the-evolution-of-tunnel-boring-machines)
 * [2025-01-05, 10:15:58](https://news.ycombinator.com/item?id=42600846) - [How Nat Traversal Works (2020)](https://tailscale.com/blog/how-nat-traversal-works)
@@ -21,7 +20,7 @@
 * [2025-01-04, 23:30:37](https://news.ycombinator.com/item?id=42598458) - [University of Alabama Engineer Pioneers New Process for Recycling Plastics](https://news.ua.edu/2024/10/ua-chemical-engineer-plastic-recycling/)
 * [2025-01-04, 19:23:43](https://news.ycombinator.com/item?id=42596983) - [ELKS: Linux for 16-bit Intel Processors](https://github.com/ghaerr/elks)
 * [2025-01-04, 15:18:13](https://news.ycombinator.com/item?id=42595190) - [Combining 15s interval whole-sky-camera photos to form a 4y spanning keogram](https://astrodon.social/@cgbassa/113770318993975063)
-* [2025-01-04, 09:14:28](https://news.ycombinator.com/item?id=42593614) - [How to draw an outline in a video game](https://ameye.dev/notes/rendering-outlines/)
+* [2025-01-04, 11:10:20](https://news.ycombinator.com/item?id=42594024) - [One Dog vs. the Windows 3.1 Graphics Stack](https://wuffs.org/blog/windows-3x-graphics)
 * [2025-01-03, 13:26:54](https://news.ycombinator.com/item?id=42585447) - [Wildcard: Customize HN using a spreadsheet view](https://www.geoffreylitt.com/wildcard/)
 * [2025-01-02, 15:14:54](https://news.ycombinator.com/item?id=42575111) - [Nanoimprint Lithography Aims to Take on EUV](https://spectrum.ieee.org/nanoimprint-lithography)
 * [2025-01-02, 14:17:54](https://news.ycombinator.com/item?id=42574600) - [The Maritime Approximation](https://kevlinhenney.medium.com/the-maritime-approximation-8b71d5041cd5)
@@ -30,6 +29,7 @@
 * [2025-01-01, 16:53:00](https://news.ycombinator.com/item?id=42567212) - [Discuo – Anonymous discussions with infinite branching and 24h lifespan](https://discuo.com)
 * [2025-01-01, 15:53:42](https://news.ycombinator.com/item?id=42566748) - [Supernovae evidence for foundational change to cosmological models](https://academic.oup.com/mnrasl/article/537/1/L55/7926647)
 * [2025-01-01, 12:07:03](https://news.ycombinator.com/item?id=42565547) - [Sailor Poets Take over U.S. Navy Deck Logs on New Year's Day](https://www.twz.com/news-features/how-sailor-poets-take-over-u-s-navy-deck-logs-on-new-years-day)
+* [2025-01-01, 05:57:48](https://news.ycombinator.com/item?id=42564243) - [The comb jelly can fuse with another (including nervous and digestive systems)](https://www.cnn.com/2024/12/30/science/comb-jellies-fuse-single-organism/index.html)
 
 ## [Archives](archives/index.md)
 
