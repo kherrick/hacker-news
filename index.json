@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-05, 05:24:25",
+      "https://news.ycombinator.com/item?id=42599971"
+    ],
+    [
+      "Hacker gains access to the RP2350 OTP secret by glitching the RISC-V cores",
+      "https://www.tomshardware.com/raspberry-pi/it-looks-like-the-raspberry-pi-rp2350-hacking-challenge-has-been-beaten-hacker-gains-access-to-the-otp-secret-by-glitching-the-risc-v-cores-to-enable-debugging"
+    ]
+  ],
+  [
+    [
       "2025-01-05, 03:47:12",
       "https://news.ycombinator.com/item?id=42599599"
     ],
@@ -47,16 +57,6 @@
     [
       "Web page annoyances that I don't inflict on you here",
       "http://rachelbythebay.com/w/2025/01/04/cruft/"
-    ]
-  ],
-  [
-    [
-      "2025-01-05, 00:01:12",
-      "https://news.ycombinator.com/item?id=42598604"
-    ],
-    [
-      "Do Kwon pleads not guilty to US fraud charges in $40B crypto collapse",
-      "https://www.reuters.com/legal/former-crypto-executive-do-kwon-due-us-court-criminal-fraud-charges-2025-01-02/"
     ]
   ],
   [
@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2025-01-04, 05:00:24",
+      "https://news.ycombinator.com/item?id=42592543"
+    ],
+    [
+      "Programming as Theory Building (1985) [pdf]",
+      "https://pages.cs.wisc.edu/~remzi/Naur.pdf"
+    ]
+  ],
+  [
+    [
       "2025-01-04, 00:26:45",
       "https://news.ycombinator.com/item?id=42590981"
     ],
@@ -207,16 +217,6 @@
     [
       "The DIY Multideck",
       "https://diymultideck.mauri.app/manual/"
-    ]
-  ],
-  [
-    [
-      "2025-01-03, 06:57:26",
-      "https://news.ycombinator.com/item?id=42583246"
-    ],
-    [
-      "Don't Clobber the Frame Pointer",
-      "https://nsrip.com/posts/clobberfp.html"
     ]
   ],
   [
