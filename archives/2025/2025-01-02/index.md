@@ -46,6 +46,7 @@
 * [2025-01-02, 15:14:54](https://news.ycombinator.com/item?id=42575111) - [Nanoimprint Lithography Aims to Take on EUV](https://spectrum.ieee.org/nanoimprint-lithography)
 * [2025-01-02, 15:12:29](https://news.ycombinator.com/item?id=42575082) - [UK's biggest dinosaur footprint site unearthed](https://www.bbc.com/news/articles/c24nzeqq1l2o)
 * [2025-01-02, 14:23:30](https://news.ycombinator.com/item?id=42574641) - [Rules for Writing Software Tutorials](https://refactoringenglish.com/chapters/rules-for-software-tutorials/)
+* [2025-01-02, 14:17:54](https://news.ycombinator.com/item?id=42574600) - [The Maritime Approximation](https://kevlinhenney.medium.com/the-maritime-approximation-8b71d5041cd5)
 * [2025-01-02, 14:11:03](https://news.ycombinator.com/item?id=42574545) - [Korean Assembly Speaker's adherence to procedure key to making troops stand down](https://www.aljazeera.com/news/2024/12/27/unlikely-political-thor-emerges-from-south-koreas-martial-law-crisis)
 * [2025-01-02, 13:57:38](https://news.ycombinator.com/item?id=42574426) - [Build a Better DIY Seismometer](https://spectrum.ieee.org/build-a-better-diy-seismometer)
 * [2025-01-02, 13:57:09](https://news.ycombinator.com/item?id=42574420) - [Things we think will happen in 2025](https://www.vox.com/future-perfect/392241/2025-new-year-predictions-trump-musk-artificial-intelligence)
