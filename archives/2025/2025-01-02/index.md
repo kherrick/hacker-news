@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-02](index.md)
 
 * [2025-01-02, 23:50:29](https://news.ycombinator.com/item?id=42580397) - [It Matters Who Owns Your Copylefted Copyrights (2021)](https://sfconservancy.org/blog/2021/jun/30/who-should-own-foss-copyrights/)
+* [2025-01-02, 23:42:31](https://news.ycombinator.com/item?id=42580342) - [Self Unhelped](https://sydneyreviewofbooks.com/reviews/self-unhelped)
 * [2025-01-02, 23:29:04](https://news.ycombinator.com/item?id=42580231) - [Awesome Donations: A repository of FLOSS donation options](https://github.com/n1trux/awesome-donations)
 * [2025-01-02, 23:00:48](https://news.ycombinator.com/item?id=42579969) - [The Alder Lake SHLX Anomaly](https://tavianator.com/2025/shlx.html)
 * [2025-01-02, 22:50:15](https://news.ycombinator.com/item?id=42579873) - [I am rich and have no idea what to do with my life](https://vinay.sh/i-am-rich-and-have-no-idea-what-to-do-with-my-life/)
