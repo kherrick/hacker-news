@@ -12,6 +12,7 @@
 * [2025-01-02, 21:01:41](https://news.ycombinator.com/item?id=42578848) - [UpCodes (YC S17) is hiring remote recruiters to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
 * [2025-01-02, 20:05:56](https://news.ycombinator.com/item?id=42578243) - [Unifying the Technical Interview](https://aphyr.com/posts/354-unifying-the-technical-interview)
 * [2025-01-02, 20:05:35](https://news.ycombinator.com/item?id=42578237) - [U.S. Appeals Court Strikes Down FCC's Net Neutrality Rules](https://www.tvtechnology.com/news/sixth-circuit-of-appeals-strikes-down-fccs-net-neutrality-rules)
+* [2025-01-02, 19:40:18](https://news.ycombinator.com/item?id=42577938) - [PyPI Blog: Project Quarantine](https://blog.pypi.org/posts/2024-12-30-quarantine/)
 * [2025-01-02, 19:24:26](https://news.ycombinator.com/item?id=42577778) - [You are chasing the wrong goals](https://thatguypierre.notion.site/Going-with-the-seasons-16f79bbad9108044841aff64678950d8)
 * [2025-01-02, 19:20:50](https://news.ycombinator.com/item?id=42577736) - [Advent of Code 2024 in pure SQL](http://databasearchitects.blogspot.com/2024/12/advent-of-code-2024-in-pure-sql.html)
 * [2025-01-02, 19:13:23](https://news.ycombinator.com/item?id=42577661) - [Go Upgrade Checklist](https://hakann.substack.com/p/go-upgrade-checklist)
