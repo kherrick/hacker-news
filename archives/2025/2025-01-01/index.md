@@ -37,6 +37,7 @@
 * [2025-01-01, 13:06:32](https://news.ycombinator.com/item?id=42565781) - [How extreme car dependency is driving Americans to unhappiness](https://www.theguardian.com/us-news/2024/dec/29/extreme-car-dependency-unhappiness-americans)
 * [2025-01-01, 12:29:29](https://news.ycombinator.com/item?id=42565638) - [RT-2: Vision-Language-Action Models](https://robotics-transformer2.github.io/)
 * [2025-01-01, 12:21:18](https://news.ycombinator.com/item?id=42565606) - [30% Drop In o1-Preview Accuracy When Putnam Problems Are Slightly Variated](https://openreview.net/forum?id=YXnwlZe0yf&noteId=yrsGpHd0Sf)
+* [2025-01-01, 12:07:03](https://news.ycombinator.com/item?id=42565547) - [Sailor Poets Take over U.S. Navy Deck Logs on New Year's Day](https://www.twz.com/news-features/how-sailor-poets-take-over-u-s-navy-deck-logs-on-new-years-day)
 * [2025-01-01, 12:00:41](https://news.ycombinator.com/item?id=42565523) - [Keeper (YC S21) Is Hiring a Senior Fullstack Engineer](https://www.ycombinator.com/companies/keeper/jobs/fLwv59z-senior-fullstack-engineer)
 * [2025-01-01, 11:57:58](https://news.ycombinator.com/item?id=42565513) - [A. A. Milne's Winnie-the-Pooh as an accessible eBook](https://tilde.zone/@gluejar/113749300977151258)
 * [2025-01-01, 11:55:37](https://news.ycombinator.com/item?id=42565502) - [You don't need Next.js – Why we migrated from Next to React](https://www.comfydeploy.com/blog/you-dont-need-nextjs)
