@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-05](index.md)
 
+* [2025-01-05, 08:00:37](https://news.ycombinator.com/item?id=42600400) - [Washington Post cartoonist resigns after cartoon satirising Jeff Bezos rejected](https://www.abc.net.au/news/2025-01-05/washington-post-cartoonist-resigns-over-jeff-bezos-cartoon/104786100)
 * [2025-01-05, 05:25:38](https://news.ycombinator.com/item?id=42599974) - [Being Functionless: How to Develop a Serverless Mindset to Write Less Code](https://www.infoq.com/articles/functionless-serverless-mindset/)
 * [2025-01-05, 05:24:25](https://news.ycombinator.com/item?id=42599971) - [Hacker gains access to the RP2350 OTP secret by glitching the RISC-V cores](https://www.tomshardware.com/raspberry-pi/it-looks-like-the-raspberry-pi-rp2350-hacking-challenge-has-been-beaten-hacker-gains-access-to-the-otp-secret-by-glitching-the-risc-v-cores-to-enable-debugging)
 * [2025-01-05, 04:09:21](https://news.ycombinator.com/item?id=42599696) - [Blur Busters Open Source Display Initiative – Refresh Cycle Shaders](https://blurbusters.com/blur-busters-open-source-display-initative-refresh-cycle-shaders/)

@@ -43,6 +43,7 @@
 * [2025-01-03, 14:59:45](https://news.ycombinator.com/item?id=42586184) - [Ireland has lost almost all its native forests](https://worldsensorium.com/ireland-has-lost-almost-all-of-its-native-forests-heres-how-to-bring-them-back/)
 * [2025-01-03, 14:45:52](https://news.ycombinator.com/item?id=42586042) - [What we learned copying all the best code assistants](https://blog.val.town/blog/fast-follow/)
 * [2025-01-03, 13:59:49](https://news.ycombinator.com/item?id=42585707) - [Phase behavior of Cacio and Pepe sauce](https://arxiv.org/abs/2501.00536)
+* [2025-01-03, 13:26:54](https://news.ycombinator.com/item?id=42585447) - [Wildcard: Customize HN using a spreadsheet view](https://www.geoffreylitt.com/wildcard/)
 * [2025-01-03, 13:15:22](https://news.ycombinator.com/item?id=42585377) - [Time to check if you ran any of these 33 malicious Chrome extensions](https://arstechnica.com/security/2025/01/dozens-of-backdoored-chrome-extensions-discovered-on-2-6-million-devices/)
 * [2025-01-03, 13:08:08](https://news.ycombinator.com/item?id=42585332) - [Oral history of Caroline Rose, writer of Inside Macintosh (2023) [video]](https://www.youtube.com/watch?v=RikO_3jedlY)
 * [2025-01-03, 12:37:43](https://news.ycombinator.com/item?id=42585130) - [Digital Homeownership](https://blog.muni.town/digital-homeownership/)
