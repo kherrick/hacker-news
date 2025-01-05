@@ -19,6 +19,7 @@
 * [2025-01-03, 21:01:16](https://news.ycombinator.com/item?id=42589431) - [Extend (YC W23) is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
 * [2025-01-03, 20:12:59](https://news.ycombinator.com/item?id=42589054) - [Triangulation of a polyline with thickness (a.k.a. line strip)](https://jvernay.fr/en/blog/polyline-triangulation/)
 * [2025-01-03, 20:01:29](https://news.ycombinator.com/item?id=42588956) - [VoxelSpace: Terrain rendering algorithm in less than 20 lines of code (2020)](https://github.com/s-macke/VoxelSpace)
+* [2025-01-03, 19:45:48](https://news.ycombinator.com/item?id=42588828) - [Hornet, RNA structure visualization method correlates sequence and 3D topology](https://phys.org/news/2024-12-hornet-rna-visualization-method-sequence.html)
 * [2025-01-03, 19:35:52](https://news.ycombinator.com/item?id=42588748) - [Ask HN: Real name vs. Anonymous Username – Which do you use online and Why?](https://news.ycombinator.com/item?id=42588748)
 * [2025-01-03, 18:38:52](https://news.ycombinator.com/item?id=42588285) - [Overcoming Resistance to Extreme Programming](https://benjiweber.co.uk/blog/2025/01/01/overcoming-resistance-to-extreme-programming/)
 * [2025-01-03, 18:24:41](https://news.ycombinator.com/item?id=42588151) - [Zebrafish protein unlocks dormant genes for heart repair](https://www.hubrecht.eu/zebrafish-protein-unlocks-dormant-genes-for-heart-repair/)
