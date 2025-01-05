@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-01-05, 11:10:17",
-      "https://news.ycombinator.com/item?id=42601022"
-    ],
-    [
-      "Being a career-obsessed engineer wasn't the optimal way to be fulfilled",
-      "https://strategizeyourcareer.com/p/how-im-advancing-my-career-without-neglecting-my-life"
-    ]
-  ],
-  [
-    [
       "2025-01-05, 10:58:24",
       "https://news.ycombinator.com/item?id=42600979"
     ],
@@ -157,6 +147,16 @@
     [
       "Researchers design wearable tech that can sense glucose levels more accurately",
       "https://uwaterloo.ca/news/media/no-more-needles-tracking-blood-sugar-your-wrist"
+    ]
+  ],
+  [
+    [
+      "2025-01-04, 20:02:29",
+      "https://news.ycombinator.com/item?id=42597283"
+    ],
+    [
+      "Labwc: Wlroots-based window-stacking compositor for Wayland, inspired by openbox",
+      "https://labwc.github.io/"
     ]
   ],
   [
