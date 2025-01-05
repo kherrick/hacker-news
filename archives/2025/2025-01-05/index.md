@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-05](index.md)
 
+* [2025-01-05, 10:15:58](https://news.ycombinator.com/item?id=42600846) - [How Nat Traversal Works](https://tailscale.com/blog/how-nat-traversal-works)
+* [2025-01-05, 09:30:28](https://news.ycombinator.com/item?id=42600694) - [The Adrian Dittmann Story](https://maia.crimew.gay/posts/adrian-dittmann/)
 * [2025-01-05, 09:10:54](https://news.ycombinator.com/item?id=42600626) - [Social Media Distorts Perceptions of Norms](https://osf.io/preprints/psyarxiv/kgcrq)
 * [2025-01-05, 09:03:28](https://news.ycombinator.com/item?id=42600595) - [The funniest thing I ever did – a.k.a. \"How To Make $100K From A Dick Joke.\"](https://imgur.com/gallery/KZ4u3c4)
 * [2025-01-05, 09:02:01](https://news.ycombinator.com/item?id=42600586) - [Show HN: Struggle with CSS Flexbox? This Playground Is for You](https://yoavsbg.github.io/css-flexbox-playground/)
