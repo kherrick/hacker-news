@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-01-05](index.md)
 
+* [2025-01-05, 18:02:20](https://news.ycombinator.com/item?id=42603585) - [Akamai to shut down its CDN operations in China](https://content.akamai.com/index.php/email/emailWebview?email=NjQyLVNLTi00NDkAAAGWBQgHSPFMp0ow2aF67IAbDOB0c1pNppYjWH8ZCkGxrVi4pDs7pT_120NiLvARghhVOBbaIJqps_3Ii2OZlixo3IPjhpR79JsTe-0&trk=comments_comments-list_comment-text)
 * [2025-01-05, 17:38:59](https://news.ycombinator.com/item?id=42603395) - [United Airlines to launch Starlink Wi-Fi in spring 2025](https://www.techinasia.com/news/united-airlines-launch-starlink-wifi-spring-2025)
 * [2025-01-05, 17:24:31](https://news.ycombinator.com/item?id=42603292) - [Help! Politics Blog Cloudflare Subpoena](https://news.ycombinator.com/item?id=42603292)
 * [2025-01-05, 16:41:33](https://news.ycombinator.com/item?id=42602950) - [After Layoffs, Why Do Tech Firms Still Claim Talent Shortages?](https://www.behindhrdoors.com/p/why-tech-companies-struggle-to-hire-after-massive-layoffs)
 * [2025-01-05, 16:39:54](https://news.ycombinator.com/item?id=42602940) - [AI-assisted coding will change software engineering: hard truths](https://newsletter.pragmaticengineer.com/p/how-ai-will-change-software-engineering)
 * [2025-01-05, 16:35:07](https://news.ycombinator.com/item?id=42602900) - [Ask HN: Spending Tracking Tools](https://news.ycombinator.com/item?id=42602900)
+* [2025-01-05, 16:06:06](https://news.ycombinator.com/item?id=42602673) - [How ads are chewing through half of your mobile data](https://www.nextpit.com/ads-consume-half-of-your-mobile-data)
+* [2025-01-05, 15:58:05](https://news.ycombinator.com/item?id=42602603) - [Reliable System Call Interception](https://blog.mggross.com/intercepting-syscalls/)
 * [2025-01-05, 15:31:01](https://news.ycombinator.com/item?id=42602415) - [X is testing a standalone app for Grok, its AI chatbot](https://twitter.com/refsrc/status/1875920739620343879)
 * [2025-01-05, 14:44:42](https://news.ycombinator.com/item?id=42602062) - [Olympians turn to OnlyFans to fund dreams due to 'broken' finance system (2024)](https://www.cbc.ca/sports/olympics/summer/athletics/onlyfans-alysha-newman-canada-olympics-1.7290724)
 * [2025-01-05, 14:27:04](https://news.ycombinator.com/item?id=42601932) - [AI's next leap requires intimate access to your digital life](https://www.washingtonpost.com/technology/2025/01/05/agents-ai-chatbots-google-mariner/)
