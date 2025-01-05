@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-01-05](index.md)
 
+* [2025-01-05, 14:15:19](https://news.ycombinator.com/item?id=42601847) - [The day I taught AI to read code like a Senior Developer](https://nmn.gl/blog/ai-senior-developer)
+* [2025-01-05, 13:49:12](https://news.ycombinator.com/item?id=42601724) - [Learn New Skills](https://www.attejuvonen.fi/learn/)
+* [2025-01-05, 13:19:18](https://news.ycombinator.com/item?id=42601549) - [You Wouldn't Download an AI](https://altayakkus.substack.com/p/you-wouldnt-download-an-ai)
+* [2025-01-05, 12:50:53](https://news.ycombinator.com/item?id=42601438) - [FCC net neutrality rules dead again as appeals court sides with Big Telco](https://www.theregister.com/2025/01/02/fcc_net_neutrality_rules_killed/)
 * [2025-01-05, 12:49:34](https://news.ycombinator.com/item?id=42601429) - [2024: A Record-Breaking Year for the Ocean Cleanup](https://theoceancleanup.com/updates/2024-a-record-breaking-year-for-the-ocean-cleanup/)
 * [2025-01-05, 12:37:59](https://news.ycombinator.com/item?id=42601381) - [The largest hydroelectric dam in the world has been approved](https://newatlas.com/energy/yarlung-tsangpo-hydroelectric-project-china/)
 * [2025-01-05, 12:36:33](https://news.ycombinator.com/item?id=42601374) - [A story on home server security](https://raniseth.com/blog/2025-01-04-Home-Server-Security.html)
