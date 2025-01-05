@@ -17,6 +17,7 @@
 * [2025-01-05, 16:06:06](https://news.ycombinator.com/item?id=42602673) - [How ads are chewing through half of your mobile data](https://www.nextpit.com/ads-consume-half-of-your-mobile-data)
 * [2025-01-05, 15:58:05](https://news.ycombinator.com/item?id=42602603) - [Reliable System Call Interception](https://blog.mggross.com/intercepting-syscalls/)
 * [2025-01-05, 15:31:01](https://news.ycombinator.com/item?id=42602415) - [X is testing a standalone app for Grok, its AI chatbot](https://twitter.com/refsrc/status/1875920739620343879)
+* [2025-01-05, 15:20:48](https://news.ycombinator.com/item?id=42602330) - [In my life, I've witnessed three elite salespeople at work](https://slate.com/life/2024/12/work-jobs-sales-telemarketing-america.html)
 * [2025-01-05, 14:44:42](https://news.ycombinator.com/item?id=42602062) - [Olympians turn to OnlyFans to fund dreams due to 'broken' finance system (2024)](https://www.cbc.ca/sports/olympics/summer/athletics/onlyfans-alysha-newman-canada-olympics-1.7290724)
 * [2025-01-05, 14:27:04](https://news.ycombinator.com/item?id=42601932) - [AI's next leap requires intimate access to your digital life](https://www.washingtonpost.com/technology/2025/01/05/agents-ai-chatbots-google-mariner/)
 * [2025-01-05, 14:15:19](https://news.ycombinator.com/item?id=42601847) - [The day I taught AI to read code like a Senior Developer](https://nmn.gl/blog/ai-senior-developer)
