@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2025-01-05](index.md)
 
+* [2025-01-05, 22:49:03](https://news.ycombinator.com/item?id=42605740) - [Duolicious – Open-source dating app](https://github.com/duolicious)
+* [2025-01-05, 22:44:08](https://news.ycombinator.com/item?id=42605707) - [Republishing My Simpsons Fan Site, Twenty Years Later](https://www.bingeclock.com/blog/post/republishing-my-simpsons-fan-site-twenty-years-later)
+* [2025-01-05, 22:43:24](https://news.ycombinator.com/item?id=42605704) - [ESET recommends Linux if your unsupported Windows 11 PC can't update from 10](https://www.neowin.net/news/eset-recommends-installing-linux-if-your-unsupported-windows-11-pc-cant-update-from-10/)
 * [2025-01-05, 22:06:59](https://news.ycombinator.com/item?id=42605454) - [Ask HN: Is it a bad idea to make an email domain with an uncommon TLD?](https://news.ycombinator.com/item?id=42605454)
 * [2025-01-05, 21:27:25](https://news.ycombinator.com/item?id=42605201) - [SrsRAN: Open-Source 4G/5G](https://github.com/srsran)
 * [2025-01-05, 21:20:07](https://news.ycombinator.com/item?id=42605143) - [Corvus Robotics (YC S18) is hiring a Head of Software to help inventory drones](https://news.ycombinator.com/item?id=42605143)
 * [2025-01-05, 20:52:13](https://news.ycombinator.com/item?id=42604924) - [Myth of Meritocracy](https://en.wikipedia.org/wiki/Myth_of_meritocracy)
+* [2025-01-05, 20:32:52](https://news.ycombinator.com/item?id=42604785) - [Magna: Embedding similarity search tool for searching within large documents](https://github.com/yousef-rafat/Magna)
+* [2025-01-05, 19:58:39](https://news.ycombinator.com/item?id=42604529) - [Ask HN: Favorite Blog in 2024?](https://news.ycombinator.com/item?id=42604529)
 * [2025-01-05, 19:34:18](https://news.ycombinator.com/item?id=42604350) - [Reverse Engineering the Constants in the Pentium FPU](http://www.righto.com/2025/01/pentium-floating-point-ROM.html)
 * [2025-01-05, 18:31:45](https://news.ycombinator.com/item?id=42603830) - [There are different sorts of WireGuard setups with different difficulties](https://utcc.utoronto.ca/~cks/space/blog/tech/WireGuardSetupTypes)
 * [2025-01-05, 18:02:20](https://news.ycombinator.com/item?id=42603585) - [Akamai to shut down its CDN operations in China](https://content.akamai.com/index.php/email/emailWebview?email=NjQyLVNLTi00NDkAAAGWBQgHSPFMp0ow2aF67IAbDOB0c1pNppYjWH8ZCkGxrVi4pDs7pT_120NiLvARghhVOBbaIJqps_3Ii2OZlixo3IPjhpR79JsTe-0&trk=comments_comments-list_comment-text)
