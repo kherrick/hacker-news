@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-01-05](index.md)
 
+* [2025-01-05, 16:41:33](https://news.ycombinator.com/item?id=42602950) - [After Layoffs, Why Do Tech Firms Still Claim Talent Shortages?](https://www.behindhrdoors.com/p/why-tech-companies-struggle-to-hire-after-massive-layoffs)
+* [2025-01-05, 16:39:54](https://news.ycombinator.com/item?id=42602940) - [AI-assisted coding will change software engineering: hard truths](https://newsletter.pragmaticengineer.com/p/how-ai-will-change-software-engineering)
+* [2025-01-05, 16:35:07](https://news.ycombinator.com/item?id=42602900) - [Ask HN: Spending Tracking Tools](https://news.ycombinator.com/item?id=42602900)
 * [2025-01-05, 15:31:01](https://news.ycombinator.com/item?id=42602415) - [X is testing a standalone app for Grok, its AI chatbot](https://twitter.com/refsrc/status/1875920739620343879)
 * [2025-01-05, 14:44:42](https://news.ycombinator.com/item?id=42602062) - [Olympians turn to OnlyFans to fund dreams due to 'broken' finance system (2024)](https://www.cbc.ca/sports/olympics/summer/athletics/onlyfans-alysha-newman-canada-olympics-1.7290724)
 * [2025-01-05, 14:27:04](https://news.ycombinator.com/item?id=42601932) - [AI's next leap requires intimate access to your digital life](https://www.washingtonpost.com/technology/2025/01/05/agents-ai-chatbots-google-mariner/)
