@@ -74,6 +74,7 @@
 * [2025-01-03, 07:42:31](https://news.ycombinator.com/item?id=42583485) - [Mars Exploration: How the CIA's Project Stargate Went to Mars [pdf]](https://www.cia.gov/readingroom/docs/cia-rdp96-00788r001900760001-9.pdf)
 * [2025-01-03, 07:07:14](https://news.ycombinator.com/item?id=42583297) - [Why Canada Should Join the EU](https://www.economist.com/europe/2025/01/02/why-canada-should-join-the-eu)
 * [2025-01-03, 06:57:26](https://news.ycombinator.com/item?id=42583246) - [Don't Clobber the Frame Pointer](https://nsrip.com/posts/clobberfp.html)
+* [2025-01-03, 06:48:59](https://news.ycombinator.com/item?id=42583204) - [Chip-8 Emulation Introduction](https://www.emulationonline.com/systems/chip8/intro/)
 * [2025-01-03, 06:43:59](https://news.ycombinator.com/item?id=42583181) - [The Recursive Book of Recursion](https://inventwithpython.com/recursion/)
 * [2025-01-03, 06:36:35](https://news.ycombinator.com/item?id=42583141) - [Laser mapping reveals oldest Amazonian cities, built 2500 years ago](https://www.science.org/content/article/laser-mapping-reveals-oldest-amazonian-cities-built-2500-years-ago)
 * [2025-01-03, 06:26:21](https://news.ycombinator.com/item?id=42583093) - [Covid 5 years later: Learning from a pandemic many are forgetting](https://www.science.org/content/article/covid-5-years-later-learning-pandemic-many-are-forgetting)

@@ -19,6 +19,7 @@
 * [2025-01-05, 07:14:30](https://news.ycombinator.com/item?id=42600276) - [Back to basics: Why we chose long-polling over websockets](https://www.inferable.ai/blog/posts/postgres-nodejs-longpolling.mdx)
 * [2025-01-05, 02:12:13](https://news.ycombinator.com/item?id=42599189) - [Researchers design wearable tech that can sense glucose levels more accurately](https://uwaterloo.ca/news/media/no-more-needles-tracking-blood-sugar-your-wrist)
 * [2025-01-03, 20:12:59](https://news.ycombinator.com/item?id=42589054) - [Triangulation of a polyline with thickness (a.k.a. line strip)](https://jvernay.fr/en/blog/polyline-triangulation/)
+* [2025-01-03, 06:48:59](https://news.ycombinator.com/item?id=42583204) - [Chip-8 Emulation Introduction](https://www.emulationonline.com/systems/chip8/intro/)
 * [2025-01-03, 03:28:26](https://news.ycombinator.com/item?id=42582044) - [Using watermarks to coordinate change data capture in Postgres](https://blog.sequinstream.com/using-watermarks-to-coordinate-change-data-capture-in-postgres/)
 * [2025-01-02, 22:30:48](https://news.ycombinator.com/item?id=42579682) - [1972 Mercedes-Benz 600 Kompressor [video]](https://www.youtube.com/watch?v=4LnHdWgLlFI)
 * [2025-01-02, 20:02:18](https://news.ycombinator.com/item?id=42578201) - [Documenting an 1115 ft radio tower climb](https://www.jeffgeerling.com/blog/2024/documenting-1115-ft-radio-tower-climb)
@@ -27,7 +28,6 @@
 * [2025-01-01, 22:57:39](https://news.ycombinator.com/item?id=42570010) - [Crawling More Politely Than Big Tech](https://cameronboehmer.com/building-a-polite-and-fast-web-crawler.html)
 * [2025-01-01, 22:35:41](https://news.ycombinator.com/item?id=42569880) - [Counterculture legend who invented bell-bottom jeans dies at 84](https://www.sfgate.com/local/article/peggy-caserta-obituary-sf-bell-bottom-jeans-19976707.php)
 * [2025-01-01, 18:18:48](https://news.ycombinator.com/item?id=42567900) - [Axum 0.8](https://tokio.rs/blog/2025-01-01-announcing-axum-0-8-0)
-* [2025-01-01, 16:53:00](https://news.ycombinator.com/item?id=42567212) - [Show HN: Discuo – Anonymous discussions with infinite branching and 24h lifespan](https://discuo.com)
 * [2025-01-01, 15:53:42](https://news.ycombinator.com/item?id=42566748) - [Supernovae evidence for foundational change to cosmological models](https://academic.oup.com/mnrasl/article/537/1/L55/7926647)
 * [2024-12-30, 18:22:43](https://news.ycombinator.com/item?id=42552016) - [Why was there a wall near runway at S Korea plane crash airport?](https://www.bbc.com/news/articles/c0mvynnxzzmo)
 
