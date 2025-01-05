@@ -9,6 +9,7 @@
 * [2025-01-02, 23:29:04](https://news.ycombinator.com/item?id=42580231) - [Awesome Donations: A repository of FLOSS donation options](https://github.com/n1trux/awesome-donations)
 * [2025-01-02, 23:00:48](https://news.ycombinator.com/item?id=42579969) - [The Alder Lake SHLX Anomaly](https://tavianator.com/2025/shlx.html)
 * [2025-01-02, 22:50:15](https://news.ycombinator.com/item?id=42579873) - [I am rich and have no idea what to do with my life](https://vinay.sh/i-am-rich-and-have-no-idea-what-to-do-with-my-life/)
+* [2025-01-02, 22:30:48](https://news.ycombinator.com/item?id=42579682) - [1972 Mercedes-Benz 600 Kompressor – Jay Leno's Garage](https://www.youtube.com/watch?v=4LnHdWgLlFI)
 * [2025-01-02, 22:08:42](https://news.ycombinator.com/item?id=42579472) - [iTerm2 Critical Security Release](https://iterm2.com/downloads/stable/iTerm2-3_5_11.changelog)
 * [2025-01-02, 21:01:41](https://news.ycombinator.com/item?id=42578848) - [UpCodes (YC S17) is hiring remote recruiters to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
 * [2025-01-02, 20:05:56](https://news.ycombinator.com/item?id=42578243) - [Unifying the Technical Interview](https://aphyr.com/posts/354-unifying-the-technical-interview)
