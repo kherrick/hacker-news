@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-01-06, 11:12:00",
+      "https://news.ycombinator.com/item?id=42609602"
+    ],
+    [
+      "Constellation's Nuclear Plants to Provide Power for US Government Agencies",
+      "https://www.nucnet.org/news/historic-procurement-will-see-constellation-s-nuclear-plants-provide-power-for-us-government-agencies-1-5-2025"
+    ]
+  ],
+  [
+    [
+      "2025-01-06, 11:10:22",
+      "https://news.ycombinator.com/item?id=42609597"
+    ],
+    [
+      "Computer Cousins: The Atari ST and DOS PCs",
+      "https://www.goto10retro.com/p/computer-cousins-the-atari-st-and"
+    ]
+  ],
+  [
+    [
+      "2025-01-06, 11:10:01",
+      "https://news.ycombinator.com/item?id=42609595"
+    ],
+    [
+      "Dive into Time-Series Anomaly Detection: A Decade Review",
+      "https://arxiv.org/abs/2412.20512"
+    ]
+  ],
+  [
+    [
+      "2025-01-06, 11:04:09",
+      "https://news.ycombinator.com/item?id=42609569"
+    ],
+    [
+      "Air Force Tests Subscale Model of Blended-Wing Body Jet",
+      "https://www.airandspaceforces.com/air-force-subscale-model-blended-wing-body/"
+    ]
+  ],
+  [
+    [
       "2025-01-06, 07:17:34",
       "https://news.ycombinator.com/item?id=42608470"
     ],
@@ -101,16 +141,6 @@
   ],
   [
     [
-      "2025-01-06, 00:14:51",
-      "https://news.ycombinator.com/item?id=42606231"
-    ],
-    [
-      "Killed by LLM",
-      "https://r0bk.github.io/killedbyllm/"
-    ]
-  ],
-  [
-    [
       "2025-01-05, 22:44:08",
       "https://news.ycombinator.com/item?id=42605707"
     ],
@@ -201,26 +231,6 @@
   ],
   [
     [
-      "2025-01-03, 16:34:33",
-      "https://news.ycombinator.com/item?id=42587056"
-    ],
-    [
-      "Einsum in Depth",
-      "https://einsum.joelburget.com/"
-    ]
-  ],
-  [
-    [
-      "2025-01-03, 13:26:06",
-      "https://news.ycombinator.com/item?id=42585438"
-    ],
-    [
-      "We Invested in Silicon Box and the Advanced Chiplet Packaging",
-      "https://medium.com/@heng.huang/why-we-invested-in-silicon-box-and-advanced-chiplet-packaging-3d1905c6ec2e"
-    ]
-  ],
-  [
-    [
       "2025-01-03, 12:51:48",
       "https://news.ycombinator.com/item?id=42585221"
     ],
@@ -237,16 +247,6 @@
     [
       "DeepFace: A lightweight deep face recognition library for Python",
       "https://github.com/serengil/deepface"
-    ]
-  ],
-  [
-    [
-      "2025-01-03, 03:28:26",
-      "https://news.ycombinator.com/item?id=42582044"
-    ],
-    [
-      "Using watermarks to coordinate change data capture in Postgres",
-      "https://blog.sequinstream.com/using-watermarks-to-coordinate-change-data-capture-in-postgres/"
     ]
   ],
   [
