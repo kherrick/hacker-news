@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-01-06](index.md)
 
+* [2025-01-06, 11:12:00](https://news.ycombinator.com/item?id=42609602) - [Constellation's Nuclear Plants to Provide Power for US Government Agencies](https://www.nucnet.org/news/historic-procurement-will-see-constellation-s-nuclear-plants-provide-power-for-us-government-agencies-1-5-2025)
+* [2025-01-06, 11:10:22](https://news.ycombinator.com/item?id=42609597) - [Computer Cousins: The Atari ST and DOS PCs](https://www.goto10retro.com/p/computer-cousins-the-atari-st-and)
+* [2025-01-06, 11:10:01](https://news.ycombinator.com/item?id=42609595) - [Dive into Time-Series Anomaly Detection: A Decade Review](https://arxiv.org/abs/2412.20512)
+* [2025-01-06, 11:04:09](https://news.ycombinator.com/item?id=42609569) - [Air Force Tests Subscale Model of Blended-Wing Body Jet](https://www.airandspaceforces.com/air-force-subscale-model-blended-wing-body/)
 * [2025-01-06, 10:25:50](https://news.ycombinator.com/item?id=42609333) - [The Magic Function](https://bitfieldconsulting.com/posts/magic-function)
 * [2025-01-06, 10:07:11](https://news.ycombinator.com/item?id=42609225) - [The Atari Stacy was launched in 1989](https://web.archive.org/web/20230413021444/http://ftp.pigwa.net/stuff/mirror/www.atari-explorer.com/stacy.html)
 * [2025-01-06, 09:49:41](https://news.ycombinator.com/item?id=42609151) - [Show HN: Filter out engagement bait & politics on your X/Twitter feed.](https://unbaited.danielpetho.com)
