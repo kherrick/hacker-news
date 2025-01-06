@@ -7,6 +7,7 @@
 * [2025-01-06, 16:19:20](https://news.ycombinator.com/item?id=42611844) - [My little sister's use of ChatGPT for homework is heartbreaking](https://old.reddit.com/r/ChatGPT/comments/1hun3e4/my_little_sisters_use_of_chatgpt_for_homework_is/)
 * [2025-01-06, 16:07:47](https://news.ycombinator.com/item?id=42611730) - [Justin Trudeau announces resignation as Canadian prime minister](https://www.bbc.com/news/live/clyjmy7vl64t)
 * [2025-01-06, 15:49:21](https://news.ycombinator.com/item?id=42611540) - [Spline Distance Fields](https://zone.dog/braindump/spline_fields/)
+* [2025-01-06, 15:48:50](https://news.ycombinator.com/item?id=42611536) - [Stimulation Clicker](https://neal.fun/stimulation-clicker/)
 * [2025-01-06, 13:37:58](https://news.ycombinator.com/item?id=42610457) - [A man keeping hope, and 70-year-old pinball machines, alive](https://arstechnica.com/gaming/2025/01/meet-the-man-keeping-hope-and-70-year-old-pinball-machines-alive/)
 * [2025-01-06, 13:02:01](https://news.ycombinator.com/item?id=42610204) - [Chromebooks still set for scrap, even with 10-year lifecycle](https://www.theregister.com/2025/01/06/chromebook_end_of_life/)
 * [2025-01-06, 12:28:16](https://news.ycombinator.com/item?id=42610007) - [Why are corporations cutting managers?](https://arnoldkling.substack.com/p/why-are-corporations-cutting-managers)

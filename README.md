@@ -2,6 +2,7 @@
 
 * [2025-01-06, 16:19:20](https://news.ycombinator.com/item?id=42611844) - [My little sister's use of ChatGPT for homework is heartbreaking](https://old.reddit.com/r/ChatGPT/comments/1hun3e4/my_little_sisters_use_of_chatgpt_for_homework_is/)
 * [2025-01-06, 15:49:21](https://news.ycombinator.com/item?id=42611540) - [Spline Distance Fields](https://zone.dog/braindump/spline_fields/)
+* [2025-01-06, 15:48:50](https://news.ycombinator.com/item?id=42611536) - [Stimulation Clicker](https://neal.fun/stimulation-clicker/)
 * [2025-01-06, 13:37:58](https://news.ycombinator.com/item?id=42610457) - [A man keeping hope, and 70-year-old pinball machines, alive](https://arstechnica.com/gaming/2025/01/meet-the-man-keeping-hope-and-70-year-old-pinball-machines-alive/)
 * [2025-01-06, 12:28:16](https://news.ycombinator.com/item?id=42610007) - [Why are corporations cutting managers?](https://arnoldkling.substack.com/p/why-are-corporations-cutting-managers)
 * [2025-01-06, 12:03:46](https://news.ycombinator.com/item?id=42609865) - [Show HN: SPath is a Rust lib for query JSONPath over any semi-structured data](https://github.com/cratesland/spath)
@@ -12,7 +13,6 @@
 * [2025-01-06, 07:11:00](https://news.ycombinator.com/item?id=42608436) - [Lord of the Io_uring (2020)](https://unixism.net/loti/index.html)
 * [2025-01-06, 07:01:13](https://news.ycombinator.com/item?id=42608384) - [Supabase (YC S20) Is Hiring for Multiple Roles (Remote)](https://supabase.com/careers)
 * [2025-01-06, 06:12:31](https://news.ycombinator.com/item?id=42608155) - [Uncut Currency](https://www.usmint.gov/paper-currency/uncut-currency/)
-* [2025-01-06, 05:24:00](https://news.ycombinator.com/item?id=42607934) - [IPv6-only Network based on Jool](https://taoshu.in/unix/jool-nat64.html)
 * [2025-01-06, 04:53:53](https://news.ycombinator.com/item?id=42607794) - [Doom, the Gallery Experience](https://bobatealee.itch.io/doom-the-gallery-experience)
 * [2025-01-06, 04:19:43](https://news.ycombinator.com/item?id=42607623) - [Hitting OKRs vs. Doing Your Job](https://jessitron.com/2025/01/05/hitting-okrs-vs-doing-your-job/)
 * [2025-01-06, 02:55:33](https://news.ycombinator.com/item?id=42607151) - [Apple squandered the Holy Grail](https://xeiaso.net/blog/2025/squandered-holy-grail/)
