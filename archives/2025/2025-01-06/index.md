@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-06](index.md)
 
+* [2025-01-06, 20:44:58](https://news.ycombinator.com/item?id=42615538) - [Used Meta AI, now Instagram is using my face on ads targeted at me](https://old.reddit.com/r/ABoringDystopia/comments/1ht7fft/used_meta_ai_to_edit_a_selfie_now_instagram_is/)
 * [2025-01-06, 19:52:47](https://news.ycombinator.com/item?id=42614832) - [Dell will no longer make XPS computers](https://arstechnica.com/gadgets/2025/01/the-end-of-an-era-dell-will-no-longer-make-xps-computers/)
 * [2025-01-06, 19:27:21](https://news.ycombinator.com/item?id=42614450) - [AMD 'Strix Halo' Ryzen AI Max+ Debuts with RDNA 3.5 Graphics and Zen 5 CPU Cores](https://www.tomshardware.com/pc-components/cpus/amds-beastly-strix-halo-ryzen-ai-max-debuts-with-radical-new-memory-tech-to-feed-rdna-3-5-graphics-and-zen-5-cpu-cores)
 * [2025-01-06, 19:19:09](https://news.ycombinator.com/item?id=42614316) - [Self-Hostable Form Back End – OSS Alternative to Formspree](https://github.com/FormBee/FormBee)
