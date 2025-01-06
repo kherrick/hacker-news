@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-06, 03:40:20](https://news.ycombinator.com/item?id=42607422) - [Show HN: E-Paper Life Organizer with Pico and Inky Frame](https://github.com/jaeheonshim/inky-dashboard)
 * [2025-01-06, 02:55:33](https://news.ycombinator.com/item?id=42607151) - [Apple Squandered the Holy Grail](https://xeiaso.net/blog/2025/squandered-holy-grail/)
-* [2025-01-06, 02:42:49](https://news.ycombinator.com/item?id=42607087) - [Printf Debugging Is OK](https://www.polymonster.co.uk/blog/printf-debugging-is-ok)
 * [2025-01-06, 01:41:03](https://news.ycombinator.com/item?id=42606700) - [Reflections](https://blog.samaltman.com/reflections)
 * [2025-01-06, 00:57:28](https://news.ycombinator.com/item?id=42606484) - [Global Regulations Enabling 6 GHz Wi-Fi](https://www.wi-fi.org/regulations-enabling-6-ghz-wi-fi)
 * [2025-01-06, 00:52:24](https://news.ycombinator.com/item?id=42606454) - [Show HN: LogLayer – Unified logger that routes logs to various logging libraries](https://loglayer.dev/)
