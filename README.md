@@ -4,7 +4,7 @@
 * [2025-01-06, 11:10:01](https://news.ycombinator.com/item?id=42609595) - [Dive into Time-Series Anomaly Detection: A Decade Review](https://arxiv.org/abs/2412.20512)
 * [2025-01-06, 09:01:34](https://news.ycombinator.com/item?id=42608927) - [DVD shop owner vows to be 'last man standing'](https://www.bbc.com/news/articles/cx2wypg7jrdo)
 * [2025-01-06, 09:01:25](https://news.ycombinator.com/item?id=42608925) - [Modern Generic SVGA driver for Windows 3.1](https://github.com/PluMGMK/vbesvga.drv)
-* [2025-01-06, 07:11:00](https://news.ycombinator.com/item?id=42608436) - [Lord of the Io_uring](https://unixism.net/loti/index.html)
+* [2025-01-06, 07:11:00](https://news.ycombinator.com/item?id=42608436) - [Lord of the Io_uring (2020)](https://unixism.net/loti/index.html)
 * [2025-01-06, 07:01:13](https://news.ycombinator.com/item?id=42608384) - [Supabase (YC S20) Is Hiring for Multiple Roles (Remote)](https://supabase.com/careers)
 * [2025-01-06, 05:24:00](https://news.ycombinator.com/item?id=42607934) - [IPv6-only Network based on Jool](https://taoshu.in/unix/jool-nat64.html)
 * [2025-01-06, 04:53:53](https://news.ycombinator.com/item?id=42607794) - [Doom, the Gallery Experience](https://bobatealee.itch.io/doom-the-gallery-experience)
