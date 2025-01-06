@@ -2,7 +2,6 @@
 
 * [2025-01-06, 07:11:00](https://news.ycombinator.com/item?id=42608436) - [Lord of the Io_uring](https://unixism.net/loti/index.html)
 * [2025-01-06, 07:01:13](https://news.ycombinator.com/item?id=42608384) - [Supabase (YC S20) Is Hiring for Multiple Roles (Remote)](https://supabase.com/careers)
-* [2025-01-06, 06:12:31](https://news.ycombinator.com/item?id=42608155) - [US Mint sheets of uncut currency](https://www.usmint.gov/paper-currency/uncut-currency/)
 * [2025-01-06, 05:24:00](https://news.ycombinator.com/item?id=42607934) - [IPv6-only Network based on Jool](https://taoshu.in/unix/jool-nat64.html)
 * [2025-01-06, 04:53:53](https://news.ycombinator.com/item?id=42607794) - [Doom, the Gallery Experience](https://bobatealee.itch.io/doom-the-gallery-experience)
 * [2025-01-06, 04:29:50](https://news.ycombinator.com/item?id=42607682) - [Show HN: I made it easy to create invoices](https://www.invoicefast.io)
@@ -16,6 +15,7 @@
 * [2025-01-05, 21:27:25](https://news.ycombinator.com/item?id=42605201) - [SrsRAN: Open-Source 4G/5G](https://github.com/srsran)
 * [2025-01-05, 19:34:18](https://news.ycombinator.com/item?id=42604350) - [Reverse Engineering the Constants in the Pentium FPU](http://www.righto.com/2025/01/pentium-floating-point-ROM.html)
 * [2025-01-05, 15:20:48](https://news.ycombinator.com/item?id=42602330) - [In my life, I've witnessed three elite salespeople at work](https://slate.com/life/2024/12/work-jobs-sales-telemarketing-america.html)
+* [2025-01-05, 14:15:19](https://news.ycombinator.com/item?id=42601847) - [A messy experiment that changed how I think about AI code analysis](https://nmn.gl/blog/ai-senior-developer)
 * [2025-01-05, 13:19:18](https://news.ycombinator.com/item?id=42601549) - [Extracting AI models from mobile apps](https://altayakkus.substack.com/p/you-wouldnt-download-an-ai)
 * [2025-01-05, 12:29:48](https://news.ycombinator.com/item?id=42601345) - [OCRing Music from YouTube with Common Lisp](https://nickfa.ro/wiki/OCRing_Music_from_YouTube_with_Common_Lisp)
 * [2025-01-05, 09:03:28](https://news.ycombinator.com/item?id=42600595) - [I made $100K from a dick joke](https://imgur.com/gallery/KZ4u3c4)
