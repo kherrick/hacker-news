@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-06](index.md)
 
 * [2025-01-06, 13:02:01](https://news.ycombinator.com/item?id=42610204) - [Chromebooks still set for scrap, even with 10-year lifecycle](https://www.theregister.com/2025/01/06/chromebook_end_of_life/)
+* [2025-01-06, 12:03:46](https://news.ycombinator.com/item?id=42609865) - [Show HN: SPath is a Rust lib for query JSONPath over any semi-structured data](https://github.com/cratesland/spath)
 * [2025-01-06, 11:12:00](https://news.ycombinator.com/item?id=42609602) - [Constellation's Nuclear Plants to Provide Power for US Government Agencies](https://www.nucnet.org/news/historic-procurement-will-see-constellation-s-nuclear-plants-provide-power-for-us-government-agencies-1-5-2025)
 * [2025-01-06, 11:10:22](https://news.ycombinator.com/item?id=42609597) - [Computer Cousins: The Atari ST and DOS PCs](https://www.goto10retro.com/p/computer-cousins-the-atari-st-and)
 * [2025-01-06, 11:10:01](https://news.ycombinator.com/item?id=42609595) - [Dive into Time-Series Anomaly Detection: A Decade Review](https://arxiv.org/abs/2412.20512)
