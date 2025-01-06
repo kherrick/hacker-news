@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-06, 18:50:19](https://news.ycombinator.com/item?id=42613878) - [An autumn bike adventure down the US portion of the Eastern Divide Trail](https://www.crazyguyonabike.com/doc/?doc_id=26078)
+* [2025-01-06, 18:36:29](https://news.ycombinator.com/item?id=42613671) - [C: Simple Defer, Ready to Use](https://gustedt.wordpress.com/2025/01/06/simple-defer-ready-to-use/)
 * [2025-01-06, 18:28:44](https://news.ycombinator.com/item?id=42613550) - [Software is eating the world, all right (2024)](https://medium.com/@metapgmr/software-is-eating-the-world-all-right-faedbab6d623)
+* [2025-01-06, 18:27:44](https://news.ycombinator.com/item?id=42613537) - [Synthesizing Music from JSON](https://phoboslab.org/log/2025/01/synth)
 * [2025-01-06, 18:05:43](https://news.ycombinator.com/item?id=42613221) - [The Future of Htmx](https://htmx.org/essays/future/)
 * [2025-01-06, 17:40:49](https://news.ycombinator.com/item?id=42612842) - [All clocks are 30 seconds late](https://victorpoughon.fr/all-clocks-are-30-seconds-late/)
 * [2025-01-06, 17:10:46](https://news.ycombinator.com/item?id=42612494) - [3blue1brown YouTube Bitcoin video taken down as copyright violation](https://twitter.com/3blue1brown/status/1876291319955398799)
-* [2025-01-06, 17:07:43](https://news.ycombinator.com/item?id=42612453) - [Getting LLMs to Generate Funny Memes Is Unexpectedly Hard](https://www.greptile.com/blog/reporoast)
 * [2025-01-06, 17:03:20](https://news.ycombinator.com/item?id=42612394) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=42612394)
 * [2025-01-06, 16:47:53](https://news.ycombinator.com/item?id=42612211) - [Property-Based Testing for the People](https://repository.upenn.edu/entities/publication/72ca3499-c5f6-4fc1-b5a3-9d66d8dd534e)
 * [2025-01-06, 16:31:27](https://news.ycombinator.com/item?id=42611978) - [Raising of Chicago](https://en.wikipedia.org/wiki/Raising_of_Chicago)
@@ -28,8 +30,6 @@
 * [2025-01-03, 18:36:10](https://news.ycombinator.com/item?id=42588261) - [42 - Spacecraft Simulation](https://github.com/ericstoneking/42)
 * [2025-01-03, 16:34:33](https://news.ycombinator.com/item?id=42587056) - [Einsum in Depth](https://einsum.joelburget.com/)
 * [2025-01-03, 13:20:35](https://news.ycombinator.com/item?id=42585409) - [A Note on the Changing Faces of (D)ARPA – By Eric Gilliam](https://www.freaktakes.com/p/a-note-on-the-changing-faces-of-darpa)
-* [2025-01-03, 12:03:04](https://news.ycombinator.com/item?id=42584896) - [DeepFace: A lightweight deep face recognition library for Python](https://github.com/serengil/deepface)
-* [2025-01-02, 17:27:05](https://news.ycombinator.com/item?id=42576436) - [Kakizome: Japanese way of new-years resolution](https://harimus.github.io//2025/01/02/kakizome.html)
 
 ## [Archives](archives/index.md)
 

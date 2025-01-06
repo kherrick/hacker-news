@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-01-06](index.md)
 
+* [2025-01-06, 18:50:19](https://news.ycombinator.com/item?id=42613878) - [An autumn bike adventure down the US portion of the Eastern Divide Trail](https://www.crazyguyonabike.com/doc/?doc_id=26078)
+* [2025-01-06, 18:36:29](https://news.ycombinator.com/item?id=42613671) - [C: Simple Defer, Ready to Use](https://gustedt.wordpress.com/2025/01/06/simple-defer-ready-to-use/)
 * [2025-01-06, 18:28:44](https://news.ycombinator.com/item?id=42613550) - [Software is eating the world, all right (2024)](https://medium.com/@metapgmr/software-is-eating-the-world-all-right-faedbab6d623)
+* [2025-01-06, 18:27:44](https://news.ycombinator.com/item?id=42613537) - [Synthesizing Music from JSON](https://phoboslab.org/log/2025/01/synth)
 * [2025-01-06, 18:05:43](https://news.ycombinator.com/item?id=42613221) - [The Future of Htmx](https://htmx.org/essays/future/)
 * [2025-01-06, 17:53:09](https://news.ycombinator.com/item?id=42613027) - [Ask HN: Can we stop with the political posts?](https://news.ycombinator.com/item?id=42613027)
 * [2025-01-06, 17:40:49](https://news.ycombinator.com/item?id=42612842) - [All clocks are 30 seconds late](https://victorpoughon.fr/all-clocks-are-30-seconds-late/)
