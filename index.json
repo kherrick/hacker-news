@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2025-01-06, 09:00:25",
-      "https://news.ycombinator.com/item?id=42608923"
-    ],
-    [
-      "The evolution of a structural code editor",
-      "https://crowdhailer.me/2025-01-02/the-evolution-of-a-structural-code-editor/"
-    ]
-  ],
-  [
-    [
       "2025-01-06, 07:11:00",
       "https://news.ycombinator.com/item?id=42608436"
     ],
@@ -297,6 +287,16 @@
     [
       "A Note on the Changing Faces of (D)ARPA – By Eric Gilliam",
       "https://www.freaktakes.com/p/a-note-on-the-changing-faces-of-darpa"
+    ]
+  ],
+  [
+    [
+      "2025-01-03, 12:23:22",
+      "https://news.ycombinator.com/item?id=42585025"
+    ],
+    [
+      "TiDB – cloud-native, distributed SQL database written in Go",
+      "https://github.com/pingcap/tidb"
     ]
   ]
 ]
