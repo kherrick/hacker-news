@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-06](index.md)
 
+* [2025-01-06, 21:00:23](https://news.ycombinator.com/item?id=42615740) - [Artie (YC S23) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/artie/jobs/N3AosVU-founding-engineer)
+* [2025-01-06, 20:52:34](https://news.ycombinator.com/item?id=42615646) - [Triptych Proposals](https://alexanderpetros.com/triptych/)
 * [2025-01-06, 20:44:58](https://news.ycombinator.com/item?id=42615538) - [Used Meta AI, now Instagram is using my face on ads targeted at me](https://old.reddit.com/r/ABoringDystopia/comments/1ht7fft/used_meta_ai_to_edit_a_selfie_now_instagram_is/)
 * [2025-01-06, 19:52:47](https://news.ycombinator.com/item?id=42614832) - [Dell will no longer make XPS computers](https://arstechnica.com/gadgets/2025/01/the-end-of-an-era-dell-will-no-longer-make-xps-computers/)
 * [2025-01-06, 19:27:21](https://news.ycombinator.com/item?id=42614450) - [AMD 'Strix Halo' Ryzen AI Max+ Debuts with RDNA 3.5 Graphics and Zen 5 CPU Cores](https://www.tomshardware.com/pc-components/cpus/amds-beastly-strix-halo-ryzen-ai-max-debuts-with-radical-new-memory-tech-to-feed-rdna-3-5-graphics-and-zen-5-cpu-cores)
@@ -22,6 +24,7 @@
 * [2025-01-06, 16:47:53](https://news.ycombinator.com/item?id=42612211) - [Property-Based Testing for the People](https://repository.upenn.edu/entities/publication/72ca3499-c5f6-4fc1-b5a3-9d66d8dd534e)
 * [2025-01-06, 16:31:27](https://news.ycombinator.com/item?id=42611978) - [Raising of Chicago](https://en.wikipedia.org/wiki/Raising_of_Chicago)
 * [2025-01-06, 16:19:20](https://news.ycombinator.com/item?id=42611844) - [My little sister's use of ChatGPT for homework is heartbreaking](https://old.reddit.com/r/ChatGPT/comments/1hun3e4/my_little_sisters_use_of_chatgpt_for_homework_is/)
+* [2025-01-06, 16:07:47](https://news.ycombinator.com/item?id=42611730) - [Justin Trudeau promises to resign as PM](https://www.cbc.ca/news/politics/trudeau-news-conference-1.7423680)
 * [2025-01-06, 16:07:47](https://news.ycombinator.com/item?id=42611730) - [Justin Trudeau announces resignation as Canadian prime minister](https://www.bbc.com/news/live/clyjmy7vl64t)
 * [2025-01-06, 15:49:21](https://news.ycombinator.com/item?id=42611540) - [Spline Distance Fields](https://zone.dog/braindump/spline_fields/)
 * [2025-01-06, 15:48:50](https://news.ycombinator.com/item?id=42611536) - [Stimulation Clicker](https://neal.fun/stimulation-clicker/)
