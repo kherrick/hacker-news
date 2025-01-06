@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-01-06, 01:41:03",
-      "https://news.ycombinator.com/item?id=42606700"
-    ],
-    [
-      "Reflections",
-      "https://blog.samaltman.com/reflections"
-    ]
-  ],
-  [
-    [
       "2025-01-06, 00:57:28",
       "https://news.ycombinator.com/item?id=42606484"
     ],
@@ -141,6 +131,16 @@
   ],
   [
     [
+      "2025-01-05, 14:15:19",
+      "https://news.ycombinator.com/item?id=42601847"
+    ],
+    [
+      "A messy experiment that changed how I think about AI code analysis",
+      "https://nmn.gl/blog/ai-senior-developer"
+    ]
+  ],
+  [
+    [
       "2025-01-05, 13:40:43",
       "https://news.ycombinator.com/item?id=42601681"
     ],
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=42584896"
     ],
     [
-      "DeepFace: A Lightweight Deep Face Recognition Library for Python",
+      "DeepFace: A lightweight deep face recognition library for Python",
       "https://github.com/serengil/deepface"
     ]
   ],
