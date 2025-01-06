@@ -22,6 +22,7 @@
 * [2025-01-05, 16:41:33](https://news.ycombinator.com/item?id=42602950) - [After Layoffs, Why Do Tech Firms Still Claim Talent Shortages?](https://www.behindhrdoors.com/p/why-tech-companies-struggle-to-hire-after-massive-layoffs)
 * [2025-01-05, 16:39:54](https://news.ycombinator.com/item?id=42602940) - [AI-assisted coding will change software engineering: hard truths](https://newsletter.pragmaticengineer.com/p/how-ai-will-change-software-engineering)
 * [2025-01-05, 16:35:07](https://news.ycombinator.com/item?id=42602900) - [Ask HN: Spending Tracking Tools](https://news.ycombinator.com/item?id=42602900)
+* [2025-01-05, 16:28:09](https://news.ycombinator.com/item?id=42602850) - [My Favorite Book on AI](https://www.gatesnotes.com/The-Coming-Wave)
 * [2025-01-05, 16:06:06](https://news.ycombinator.com/item?id=42602673) - [How ads are chewing through half of your mobile data](https://www.nextpit.com/ads-consume-half-of-your-mobile-data)
 * [2025-01-05, 15:58:05](https://news.ycombinator.com/item?id=42602603) - [Reliable System Call Interception](https://blog.mggross.com/intercepting-syscalls/)
 * [2025-01-05, 15:31:01](https://news.ycombinator.com/item?id=42602415) - [X is testing a standalone app for Grok, its AI chatbot](https://twitter.com/refsrc/status/1875920739620343879)

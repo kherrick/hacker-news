@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-06](index.md)
 
+* [2025-01-06, 19:19:09](https://news.ycombinator.com/item?id=42614316) - [Self-Hostable Form Back End – OSS Alternative to Formspree](https://github.com/FormBee/FormBee)
 * [2025-01-06, 18:50:19](https://news.ycombinator.com/item?id=42613878) - [An autumn bike adventure down the US portion of the Eastern Divide Trail](https://www.crazyguyonabike.com/doc/?doc_id=26078)
 * [2025-01-06, 18:36:29](https://news.ycombinator.com/item?id=42613671) - [C: Simple Defer, Ready to Use](https://gustedt.wordpress.com/2025/01/06/simple-defer-ready-to-use/)
 * [2025-01-06, 18:28:44](https://news.ycombinator.com/item?id=42613550) - [Software is eating the world, all right (2024)](https://medium.com/@metapgmr/software-is-eating-the-world-all-right-faedbab6d623)

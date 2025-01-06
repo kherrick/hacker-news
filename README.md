@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-06, 19:19:09](https://news.ycombinator.com/item?id=42614316) - [Self-Hostable Form Back End – OSS Alternative to Formspree](https://github.com/FormBee/FormBee)
 * [2025-01-06, 18:50:19](https://news.ycombinator.com/item?id=42613878) - [An autumn bike adventure down the US portion of the Eastern Divide Trail](https://www.crazyguyonabike.com/doc/?doc_id=26078)
 * [2025-01-06, 18:36:29](https://news.ycombinator.com/item?id=42613671) - [C: Simple Defer, Ready to Use](https://gustedt.wordpress.com/2025/01/06/simple-defer-ready-to-use/)
 * [2025-01-06, 18:28:44](https://news.ycombinator.com/item?id=42613550) - [Software is eating the world, all right (2024)](https://medium.com/@metapgmr/software-is-eating-the-world-all-right-faedbab6d623)
@@ -17,19 +18,18 @@
 * [2025-01-06, 11:54:10](https://news.ycombinator.com/item?id=42609819) - [Show HN: Mashups – Resurrecting Yahoo Pipes, my side project](https://www.mashups.io)
 * [2025-01-06, 11:10:01](https://news.ycombinator.com/item?id=42609595) - [Time-Series Anomaly Detection: A Decade Review](https://arxiv.org/abs/2412.20512)
 * [2025-01-06, 09:00:25](https://news.ycombinator.com/item?id=42608923) - [The evolution of a structural code editor](https://crowdhailer.me/2025-01-02/the-evolution-of-a-structural-code-editor/)
-* [2025-01-06, 08:22:02](https://news.ycombinator.com/item?id=42608758) - [Fascists and Rakes (2014)](http://reasonableapproximation.net/2014/01/04/facists-and-rakes.html)
 * [2025-01-06, 07:11:00](https://news.ycombinator.com/item?id=42608436) - [Lord of the Io_uring (2020)](https://unixism.net/loti/index.html)
 * [2025-01-06, 06:12:31](https://news.ycombinator.com/item?id=42608155) - [Uncut Currency](https://www.usmint.gov/paper-currency/uncut-currency/)
 * [2025-01-06, 04:53:53](https://news.ycombinator.com/item?id=42607794) - [Doom, the Gallery Experience](https://bobatealee.itch.io/doom-the-gallery-experience)
 * [2025-01-06, 04:19:43](https://news.ycombinator.com/item?id=42607623) - [Hitting OKRs vs. Doing Your Job](https://jessitron.com/2025/01/05/hitting-okrs-vs-doing-your-job/)
 * [2025-01-06, 02:55:33](https://news.ycombinator.com/item?id=42607151) - [Apple squandered the Holy Grail](https://xeiaso.net/blog/2025/squandered-holy-grail/)
+* [2025-01-05, 16:28:09](https://news.ycombinator.com/item?id=42602850) - [My Favorite Book on AI](https://www.gatesnotes.com/The-Coming-Wave)
 * [2025-01-05, 15:13:45](https://news.ycombinator.com/item?id=42602273) - [How Do You Like What You've Built?](https://morrisbrodersen.de/how-do-you-like-what-you-built/)
 * [2025-01-05, 13:21:57](https://news.ycombinator.com/item?id=42601569) - [True crime stories are influencing the real-life justice system](https://www.cbc.ca/lite/story/1.7421943)
 * [2025-01-05, 07:40:48](https://news.ycombinator.com/item?id=42600349) - [Remote code execution via MIDI messages](https://psi3.ru/blog/swl01u/)
 * [2025-01-03, 18:36:10](https://news.ycombinator.com/item?id=42588261) - [42 - Spacecraft Simulation](https://github.com/ericstoneking/42)
 * [2025-01-03, 16:34:33](https://news.ycombinator.com/item?id=42587056) - [Einsum in Depth](https://einsum.joelburget.com/)
 * [2025-01-03, 13:20:35](https://news.ycombinator.com/item?id=42585409) - [A Note on the Changing Faces of (D)ARPA – By Eric Gilliam](https://www.freaktakes.com/p/a-note-on-the-changing-faces-of-darpa)
-* [2025-01-02, 17:27:05](https://news.ycombinator.com/item?id=42576436) - [Kakizome: Japanese way of new-years resolution](https://harimus.github.io//2025/01/02/kakizome.html)
 
 ## [Archives](archives/index.md)
 
