@@ -1,6 +1,56 @@
 [
   [
     [
+      "2025-01-06, 01:41:03",
+      "https://news.ycombinator.com/item?id=42606700"
+    ],
+    [
+      "Reflections – Sam Altman",
+      "https://blog.samaltman.com/reflections"
+    ]
+  ],
+  [
+    [
+      "2025-01-06, 00:57:28",
+      "https://news.ycombinator.com/item?id=42606484"
+    ],
+    [
+      "Global Regulations Enabling 6 GHz Wi-Fi",
+      "https://www.wi-fi.org/regulations-enabling-6-ghz-wi-fi"
+    ]
+  ],
+  [
+    [
+      "2025-01-06, 00:57:20",
+      "https://news.ycombinator.com/item?id=42606482"
+    ],
+    [
+      "Why America is stuck with an elevator crisis",
+      "https://www.axios.com/2025/01/05/elevators-escalators-regulations-buildings-construction"
+    ]
+  ],
+  [
+    [
+      "2025-01-06, 00:52:24",
+      "https://news.ycombinator.com/item?id=42606454"
+    ],
+    [
+      "Show HN: LogLayer – Unified logger that routes logs to various logging libraries",
+      "https://loglayer.dev/"
+    ]
+  ],
+  [
+    [
+      "2025-01-06, 00:14:51",
+      "https://news.ycombinator.com/item?id=42606231"
+    ],
+    [
+      "Killed by LLM",
+      "https://r0bk.github.io/killedbyllm/"
+    ]
+  ],
+  [
+    [
       "2025-01-05, 22:49:03",
       "https://news.ycombinator.com/item?id=42605740"
     ],
@@ -17,16 +67,6 @@
     [
       "Republishing My Simpsons Fan Site, Twenty Years Later",
       "https://www.bingeclock.com/blog/post/republishing-my-simpsons-fan-site-twenty-years-later"
-    ]
-  ],
-  [
-    [
-      "2025-01-05, 22:43:24",
-      "https://news.ycombinator.com/item?id=42605704"
-    ],
-    [
-      "ESET recommends Linux if your unsupported Windows 11 PC can't update from 10",
-      "https://www.neowin.net/news/eset-recommends-installing-linux-if-your-unsupported-windows-11-pc-cant-update-from-10/"
     ]
   ],
   [
@@ -71,16 +111,6 @@
   ],
   [
     [
-      "2025-01-05, 18:02:20",
-      "https://news.ycombinator.com/item?id=42603585"
-    ],
-    [
-      "Akamai to shut down its CDN operations in China",
-      "https://content.akamai.com/index.php/email/emailWebview?email=NjQyLVNLTi00NDkAAAGWBQgHSPFMp0ow2aF67IAbDOB0c1pNppYjWH8ZCkGxrVi4pDs7pT_120NiLvARghhVOBbaIJqps_3Ii2OZlixo3IPjhpR79JsTe-0&trk=comments_comments-list_comment-text"
-    ]
-  ],
-  [
-    [
       "2025-01-05, 15:58:05",
       "https://news.ycombinator.com/item?id=42602603"
     ],
@@ -121,22 +151,22 @@
   ],
   [
     [
-      "2025-01-05, 10:58:24",
-      "https://news.ycombinator.com/item?id=42600979"
-    ],
-    [
-      "The Evolution of Tunnel Boring Machines (2023)",
-      "https://www.construction-physics.com/p/the-evolution-of-tunnel-boring-machines"
-    ]
-  ],
-  [
-    [
       "2025-01-05, 10:15:58",
       "https://news.ycombinator.com/item?id=42600846"
     ],
     [
       "How NAT Traversal Works (2020)",
       "https://tailscale.com/blog/how-nat-traversal-works"
+    ]
+  ],
+  [
+    [
+      "2025-01-05, 09:03:28",
+      "https://news.ycombinator.com/item?id=42600595"
+    ],
+    [
+      "I made $100K from a dick joke",
+      "https://imgur.com/gallery/KZ4u3c4"
     ]
   ],
   [
@@ -171,26 +201,6 @@
   ],
   [
     [
-      "2025-01-05, 02:12:13",
-      "https://news.ycombinator.com/item?id=42599189"
-    ],
-    [
-      "Researchers design wearable tech that can sense glucose levels more accurately",
-      "https://uwaterloo.ca/news/media/no-more-needles-tracking-blood-sugar-your-wrist"
-    ]
-  ],
-  [
-    [
-      "2025-01-03, 20:12:59",
-      "https://news.ycombinator.com/item?id=42589054"
-    ],
-    [
-      "Triangulation of a polyline with thickness (a.k.a. line strip)",
-      "https://jvernay.fr/en/blog/polyline-triangulation/"
-    ]
-  ],
-  [
-    [
       "2025-01-03, 06:48:59",
       "https://news.ycombinator.com/item?id=42583204"
     ],
@@ -207,16 +217,6 @@
     [
       "Using watermarks to coordinate change data capture in Postgres",
       "https://blog.sequinstream.com/using-watermarks-to-coordinate-change-data-capture-in-postgres/"
-    ]
-  ],
-  [
-    [
-      "2025-01-02, 22:30:48",
-      "https://news.ycombinator.com/item?id=42579682"
-    ],
-    [
-      "1972 Mercedes-Benz 600 Kompressor [video]",
-      "https://www.youtube.com/watch?v=4LnHdWgLlFI"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
+      "2025-01-02, 12:13:15",
+      "https://news.ycombinator.com/item?id=42573761"
+    ],
+    [
+      "The Maxwell-Heaviside Equations Explained by the Theory of Informatons",
+      "https://www.researchgate.net/publication/382229137_The_Maxwell-Heaviside_Equations_Explained_by_the_Theory_of_Informatons"
+    ]
+  ],
+  [
+    [
       "2025-01-01, 22:57:39",
       "https://news.ycombinator.com/item?id=42570010"
     ],
     [
       "Crawling More Politely Than Big Tech",
       "https://cameronboehmer.com/building-a-polite-and-fast-web-crawler.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-01, 22:35:41",
-      "https://news.ycombinator.com/item?id=42569880"
-    ],
-    [
-      "Counterculture legend who invented bell-bottom jeans dies at 84",
-      "https://www.sfgate.com/local/article/peggy-caserta-obituary-sf-bell-bottom-jeans-19976707.php"
     ]
   ],
   [
