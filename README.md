@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-06, 10:25:50](https://news.ycombinator.com/item?id=42609333) - [The Magic Function](https://bitfieldconsulting.com/posts/magic-function)
-* [2025-01-06, 09:49:41](https://news.ycombinator.com/item?id=42609151) - [Show HN: Filter out engagement bait & politics on your X/Twitter feed.](https://unbaited.danielpetho.com)
 * [2025-01-06, 07:17:34](https://news.ycombinator.com/item?id=42608470) - [Why Computer Scientists Consult Oracles](https://www.quantamagazine.org/why-computer-scientists-consult-oracles-20250103/)
 * [2025-01-06, 07:11:00](https://news.ycombinator.com/item?id=42608436) - [Lord of the Io_uring](https://unixism.net/loti/index.html)
 * [2025-01-06, 07:01:13](https://news.ycombinator.com/item?id=42608384) - [Supabase (YC S20) Is Hiring for Multiple Roles (Remote)](https://supabase.com/careers)
@@ -12,6 +11,7 @@
 * [2025-01-06, 02:42:49](https://news.ycombinator.com/item?id=42607087) - [Printf debugging is ok](https://www.polymonster.co.uk/blog/printf-debugging-is-ok)
 * [2025-01-06, 01:56:42](https://news.ycombinator.com/item?id=42606773) - [Engineer eats efficiently for $2.50 a day (2016)](https://futureboy.us/blog/twofifty.html)
 * [2025-01-06, 00:57:28](https://news.ycombinator.com/item?id=42606484) - [Regulations Enabling 6 GHz Wi-Fi](https://www.wi-fi.org/regulations-enabling-6-ghz-wi-fi)
+* [2025-01-06, 00:14:51](https://news.ycombinator.com/item?id=42606231) - [Killed by LLM](https://r0bk.github.io/killedbyllm/)
 * [2025-01-05, 22:44:08](https://news.ycombinator.com/item?id=42605707) - [Republishing my Simpsons fan site, twenty years later](https://www.bingeclock.com/blog/post/republishing-my-simpsons-fan-site-twenty-years-later)
 * [2025-01-05, 21:27:25](https://news.ycombinator.com/item?id=42605201) - [SrsRAN: Open-Source 4G/5G](https://github.com/srsran)
 * [2025-01-05, 19:34:18](https://news.ycombinator.com/item?id=42604350) - [Reverse Engineering the Constants in the Pentium FPU](http://www.righto.com/2025/01/pentium-floating-point-ROM.html)
