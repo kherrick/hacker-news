@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-06, 21:16:17](https://news.ycombinator.com/item?id=42615945) - [America's first bird flu death reported in Louisiana](https://www.cnn.com/2025/01/06/health/bird-flu-death-louisiana/index.html)
 * [2025-01-06, 21:00:23](https://news.ycombinator.com/item?id=42615740) - [Artie (YC S23) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/artie/jobs/N3AosVU-founding-engineer)
 * [2025-01-06, 20:52:34](https://news.ycombinator.com/item?id=42615646) - [Triptych Proposals](https://alexanderpetros.com/triptych/)
 * [2025-01-06, 20:44:58](https://news.ycombinator.com/item?id=42615538) - [Used Meta AI, now Instagram is using my face on ads targeted at me](https://old.reddit.com/r/ABoringDystopia/comments/1ht7fft/used_meta_ai_to_edit_a_selfie_now_instagram_is/)
@@ -13,7 +14,6 @@
 * [2025-01-06, 17:40:49](https://news.ycombinator.com/item?id=42612842) - [All clocks are 30 seconds late](https://victorpoughon.fr/all-clocks-are-30-seconds-late/)
 * [2025-01-06, 17:10:46](https://news.ycombinator.com/item?id=42612494) - [3blue1brown YouTube Bitcoin video taken down as copyright violation](https://twitter.com/3blue1brown/status/1876291319955398799)
 * [2025-01-06, 16:47:53](https://news.ycombinator.com/item?id=42612211) - [Property-Based Testing for the People](https://repository.upenn.edu/entities/publication/72ca3499-c5f6-4fc1-b5a3-9d66d8dd534e)
-* [2025-01-06, 16:31:27](https://news.ycombinator.com/item?id=42611978) - [Raising of Chicago](https://en.wikipedia.org/wiki/Raising_of_Chicago)
 * [2025-01-06, 16:07:47](https://news.ycombinator.com/item?id=42611730) - [Justin Trudeau promises to resign as PM](https://www.cbc.ca/news/politics/trudeau-news-conference-1.7423680)
 * [2025-01-06, 15:49:21](https://news.ycombinator.com/item?id=42611540) - [Spline Distance Fields](https://zone.dog/braindump/spline_fields/)
 * [2025-01-06, 15:48:50](https://news.ycombinator.com/item?id=42611536) - [Stimulation Clicker](https://neal.fun/stimulation-clicker/)
