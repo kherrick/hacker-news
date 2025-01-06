@@ -25,6 +25,7 @@
 * [2025-01-03, 19:45:48](https://news.ycombinator.com/item?id=42588828) - [Hornet, RNA structure visualization method correlates sequence and 3D topology](https://phys.org/news/2024-12-hornet-rna-visualization-method-sequence.html)
 * [2025-01-03, 19:35:52](https://news.ycombinator.com/item?id=42588748) - [Ask HN: Real name vs. Anonymous Username – Which do you use online and Why?](https://news.ycombinator.com/item?id=42588748)
 * [2025-01-03, 18:38:52](https://news.ycombinator.com/item?id=42588285) - [Overcoming Resistance to Extreme Programming](https://benjiweber.co.uk/blog/2025/01/01/overcoming-resistance-to-extreme-programming/)
+* [2025-01-03, 18:36:10](https://news.ycombinator.com/item?id=42588261) - [42 - Spacecraft Simulation](https://github.com/ericstoneking/42)
 * [2025-01-03, 18:24:41](https://news.ycombinator.com/item?id=42588151) - [Zebrafish protein unlocks dormant genes for heart repair](https://www.hubrecht.eu/zebrafish-protein-unlocks-dormant-genes-for-heart-repair/)
 * [2025-01-03, 18:24:27](https://news.ycombinator.com/item?id=42588146) - [Congo files criminal complaints against Apple in Europe over conflict minerals](https://www.reuters.com/sustainability/society-equity/congo-files-criminal-complaints-against-apple-europe-over-conflict-minerals-2024-12-17/)
 * [2025-01-03, 17:56:00](https://news.ycombinator.com/item?id=42587883) - [Two Turntables and a Microphone (2006)](https://goodfuzzysounds.com/ma/docs/funnyversion.htm)
