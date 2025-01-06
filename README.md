@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-06, 13:37:58](https://news.ycombinator.com/item?id=42610457) - [A man keeping hope, and 70-year-old pinball machines, alive](https://arstechnica.com/gaming/2025/01/meet-the-man-keeping-hope-and-70-year-old-pinball-machines-alive/)
-* [2025-01-06, 12:28:16](https://news.ycombinator.com/item?id=42610007) - [Why are corporations cutting managers?](https://arnoldkling.substack.com/p/why-are-corporations-cutting-managers)
 * [2025-01-06, 12:03:46](https://news.ycombinator.com/item?id=42609865) - [Show HN: SPath is a Rust lib for query JSONPath over any semi-structured data](https://github.com/cratesland/spath)
 * [2025-01-06, 11:54:10](https://news.ycombinator.com/item?id=42609819) - [Show HN: Mashups – Resurrecting Yahoo Pipes, my side project](https://www.mashups.io)
 * [2025-01-06, 11:10:01](https://news.ycombinator.com/item?id=42609595) - [Dive into Time-Series Anomaly Detection: A Decade Review](https://arxiv.org/abs/2412.20512)
@@ -14,6 +13,7 @@
 * [2025-01-06, 04:53:53](https://news.ycombinator.com/item?id=42607794) - [Doom, the Gallery Experience](https://bobatealee.itch.io/doom-the-gallery-experience)
 * [2025-01-06, 04:19:43](https://news.ycombinator.com/item?id=42607623) - [Hitting OKRs vs. Doing Your Job](https://jessitron.com/2025/01/05/hitting-okrs-vs-doing-your-job/)
 * [2025-01-06, 02:55:33](https://news.ycombinator.com/item?id=42607151) - [Apple squandered the Holy Grail](https://xeiaso.net/blog/2025/squandered-holy-grail/)
+* [2025-01-06, 01:56:42](https://news.ycombinator.com/item?id=42606773) - [Engineer eats efficiently for $2.50 a day (2016)](https://futureboy.us/blog/twofifty.html)
 * [2025-01-05, 22:44:08](https://news.ycombinator.com/item?id=42605707) - [Republishing my Simpsons fan site, twenty years later](https://www.bingeclock.com/blog/post/republishing-my-simpsons-fan-site-twenty-years-later)
 * [2025-01-05, 21:27:25](https://news.ycombinator.com/item?id=42605201) - [SrsRAN: Open-Source 4G/5G](https://github.com/srsran)
 * [2025-01-05, 19:34:18](https://news.ycombinator.com/item?id=42604350) - [Reverse Engineering the Constants in the Pentium FPU](http://www.righto.com/2025/01/pentium-floating-point-ROM.html)
