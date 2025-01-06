@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-06](index.md)
 
+* [2025-01-06, 17:03:20](https://news.ycombinator.com/item?id=42612394) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=42612394)
+* [2025-01-06, 16:47:53](https://news.ycombinator.com/item?id=42612211) - [Property-Based Testing for the People](https://repository.upenn.edu/entities/publication/72ca3499-c5f6-4fc1-b5a3-9d66d8dd534e)
 * [2025-01-06, 16:19:20](https://news.ycombinator.com/item?id=42611844) - [My little sister's use of ChatGPT for homework is heartbreaking](https://old.reddit.com/r/ChatGPT/comments/1hun3e4/my_little_sisters_use_of_chatgpt_for_homework_is/)
 * [2025-01-06, 16:07:47](https://news.ycombinator.com/item?id=42611730) - [Justin Trudeau announces resignation as Canadian prime minister](https://www.bbc.com/news/live/clyjmy7vl64t)
 * [2025-01-06, 15:49:21](https://news.ycombinator.com/item?id=42611540) - [Spline Distance Fields](https://zone.dog/braindump/spline_fields/)
