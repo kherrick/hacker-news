@@ -14,7 +14,7 @@
 * [2025-01-06, 17:40:49](https://news.ycombinator.com/item?id=42612842) - [All clocks are 30 seconds late](https://victorpoughon.fr/all-clocks-are-30-seconds-late/)
 * [2025-01-06, 17:10:46](https://news.ycombinator.com/item?id=42612494) - [3blue1brown YouTube Bitcoin video taken down as copyright violation](https://twitter.com/3blue1brown/status/1876291319955398799)
 * [2025-01-06, 16:47:53](https://news.ycombinator.com/item?id=42612211) - [Property-Based Testing for the People](https://repository.upenn.edu/entities/publication/72ca3499-c5f6-4fc1-b5a3-9d66d8dd534e)
-* [2025-01-06, 16:07:47](https://news.ycombinator.com/item?id=42611730) - [Justin Trudeau promises to resign as PM](https://www.cbc.ca/news/politics/trudeau-news-conference-1.7423680)
+* [2025-01-06, 16:31:27](https://news.ycombinator.com/item?id=42611978) - [Raising of Chicago](https://en.wikipedia.org/wiki/Raising_of_Chicago)
 * [2025-01-06, 15:49:21](https://news.ycombinator.com/item?id=42611540) - [Spline Distance Fields](https://zone.dog/braindump/spline_fields/)
 * [2025-01-06, 15:48:50](https://news.ycombinator.com/item?id=42611536) - [Stimulation Clicker](https://neal.fun/stimulation-clicker/)
 * [2025-01-06, 11:54:10](https://news.ycombinator.com/item?id=42609819) - [Show HN: Mashups – Resurrecting Yahoo Pipes, my side project](https://www.mashups.io)
@@ -26,8 +26,8 @@
 * [2025-01-06, 02:55:33](https://news.ycombinator.com/item?id=42607151) - [Apple squandered the Holy Grail](https://xeiaso.net/blog/2025/squandered-holy-grail/)
 * [2025-01-05, 16:28:09](https://news.ycombinator.com/item?id=42602850) - [My Favorite Book on AI](https://www.gatesnotes.com/The-Coming-Wave)
 * [2025-01-05, 15:13:45](https://news.ycombinator.com/item?id=42602273) - [How Do You Like What You've Built?](https://morrisbrodersen.de/how-do-you-like-what-you-built/)
-* [2025-01-05, 07:40:48](https://news.ycombinator.com/item?id=42600349) - [Remote code execution via MIDI messages](https://psi3.ru/blog/swl01u/)
 * [2025-01-03, 18:36:10](https://news.ycombinator.com/item?id=42588261) - [42 - Spacecraft Simulation](https://github.com/ericstoneking/42)
+* [2025-01-03, 16:34:33](https://news.ycombinator.com/item?id=42587056) - [Einsum in Depth](https://einsum.joelburget.com/)
 * [2025-01-03, 13:20:35](https://news.ycombinator.com/item?id=42585409) - [A Note on the Changing Faces of (D)ARPA – By Eric Gilliam](https://www.freaktakes.com/p/a-note-on-the-changing-faces-of-darpa)
 * [2025-01-03, 12:23:22](https://news.ycombinator.com/item?id=42585025) - [TiDB – cloud-native, distributed SQL database written in Go](https://github.com/pingcap/tidb)
 
