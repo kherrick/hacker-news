@@ -50,6 +50,7 @@
 * [2025-01-03, 13:26:06](https://news.ycombinator.com/item?id=42585438) - [We Invested in Silicon Box and the Advanced Chiplet Packaging](https://medium.com/@heng.huang/why-we-invested-in-silicon-box-and-advanced-chiplet-packaging-3d1905c6ec2e)
 * [2025-01-03, 13:15:22](https://news.ycombinator.com/item?id=42585377) - [Time to check if you ran any of these 33 malicious Chrome extensions](https://arstechnica.com/security/2025/01/dozens-of-backdoored-chrome-extensions-discovered-on-2-6-million-devices/)
 * [2025-01-03, 13:08:08](https://news.ycombinator.com/item?id=42585332) - [Oral history of Caroline Rose, writer of Inside Macintosh (2023) [video]](https://www.youtube.com/watch?v=RikO_3jedlY)
+* [2025-01-03, 12:51:48](https://news.ycombinator.com/item?id=42585221) - [My approach to running a link blog](https://simonwillison.net/2024/Dec/22/link-blog/)
 * [2025-01-03, 12:37:43](https://news.ycombinator.com/item?id=42585130) - [Digital Homeownership](https://blog.muni.town/digital-homeownership/)
 * [2025-01-03, 12:20:27](https://news.ycombinator.com/item?id=42585009) - [Show HN: I completed shipping my desktop app](https://pimosa.app/)
 * [2025-01-03, 12:15:17](https://news.ycombinator.com/item?id=42584981) - [5G NR-U: Bringing the power of 5G to unlicensed spectrum globally](https://www.qualcomm.com/research/5g/5g-unlicensed-shared-spectrum)
