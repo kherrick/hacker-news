@@ -26,6 +26,7 @@
 * [2025-01-04, 10:41:49](https://news.ycombinator.com/item?id=42593919) - [Show HN: I created a PoC for live descriptions of the surroundings for the blind](https://github.com/o40/seesay)
 * [2025-01-04, 09:14:28](https://news.ycombinator.com/item?id=42593614) - [How to draw an outline in a video game](https://ameye.dev/notes/rendering-outlines/)
 * [2025-01-04, 07:27:04](https://news.ycombinator.com/item?id=42593135) - [Show HN: An SSH based utility to transfer pipes across machines – beam](https://github.com/ksdme/beam)
+* [2025-01-04, 06:43:15](https://news.ycombinator.com/item?id=42592970) - [Show HN: Al Hugging Video Generator](https://cococlip.ai/features/ai-hug)
 * [2025-01-04, 06:30:24](https://news.ycombinator.com/item?id=42592910) - [Self driving 1993 Volvo with open pilot](https://practicapp.com/carbagepilot-part1/)
 * [2025-01-04, 06:29:21](https://news.ycombinator.com/item?id=42592905) - [Show HN: I worked on a feature that allows you to preview fonts side by side](https://font-tester.foxcraft.tech/)
 * [2025-01-04, 05:25:04](https://news.ycombinator.com/item?id=42592665) - [China is the sole manufacturing superpower](https://cepr.org/voxeu/columns/china-worlds-sole-manufacturing-superpower-line-sketch-rise)
