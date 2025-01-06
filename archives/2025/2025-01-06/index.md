@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-06](index.md)
 
+* [2025-01-06, 02:55:33](https://news.ycombinator.com/item?id=42607151) - [Apple Squandered the Holy Grail](https://xeiaso.net/blog/2025/squandered-holy-grail/)
 * [2025-01-06, 02:42:49](https://news.ycombinator.com/item?id=42607087) - [Printf Debugging Is OK](https://www.polymonster.co.uk/blog/printf-debugging-is-ok)
 * [2025-01-06, 01:56:42](https://news.ycombinator.com/item?id=42606773) - [Engineer Eats Efficiently](https://futureboy.us/blog/twofifty.html)
 * [2025-01-06, 01:41:03](https://news.ycombinator.com/item?id=42606700) - [Reflections – Sam Altman](https://blog.samaltman.com/reflections)
