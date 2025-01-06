@@ -8,6 +8,7 @@
 * [2025-01-05, 22:44:08](https://news.ycombinator.com/item?id=42605707) - [Republishing My Simpsons Fan Site, Twenty Years Later](https://www.bingeclock.com/blog/post/republishing-my-simpsons-fan-site-twenty-years-later)
 * [2025-01-05, 22:43:24](https://news.ycombinator.com/item?id=42605704) - [ESET recommends Linux if your unsupported Windows 11 PC can't update from 10](https://www.neowin.net/news/eset-recommends-installing-linux-if-your-unsupported-windows-11-pc-cant-update-from-10/)
 * [2025-01-05, 22:06:59](https://news.ycombinator.com/item?id=42605454) - [Ask HN: Is it a bad idea to make an email domain with an uncommon TLD?](https://news.ycombinator.com/item?id=42605454)
+* [2025-01-05, 21:43:03](https://news.ycombinator.com/item?id=42605305) - [Brush Your Teeth, Drink Milk, and Watch Out for Syphilis](https://worldhistory.substack.com/p/brush-your-teeth-drink-milk-and-watch)
 * [2025-01-05, 21:27:25](https://news.ycombinator.com/item?id=42605201) - [SrsRAN: Open-Source 4G/5G](https://github.com/srsran)
 * [2025-01-05, 21:20:07](https://news.ycombinator.com/item?id=42605143) - [Corvus Robotics (YC S18) is hiring a Head of Software to help inventory drones](https://news.ycombinator.com/item?id=42605143)
 * [2025-01-05, 20:52:13](https://news.ycombinator.com/item?id=42604924) - [Myth of Meritocracy](https://en.wikipedia.org/wiki/Myth_of_meritocracy)
