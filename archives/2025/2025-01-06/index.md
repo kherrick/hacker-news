@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-06](index.md)
 
+* [2025-01-06, 02:42:49](https://news.ycombinator.com/item?id=42607087) - [Printf Debugging Is OK](https://www.polymonster.co.uk/blog/printf-debugging-is-ok)
 * [2025-01-06, 01:56:42](https://news.ycombinator.com/item?id=42606773) - [Engineer Eats Efficiently](https://futureboy.us/blog/twofifty.html)
 * [2025-01-06, 01:41:03](https://news.ycombinator.com/item?id=42606700) - [Reflections – Sam Altman](https://blog.samaltman.com/reflections)
 * [2025-01-06, 01:28:06](https://news.ycombinator.com/item?id=42606639) - [This Is Not Your Last Job](https://v5.chriskrycho.com/journal/this-is-not-your-last-job/)
