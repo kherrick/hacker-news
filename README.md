@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-06, 19:27:21](https://news.ycombinator.com/item?id=42614450) - [AMD 'Strix Halo' Ryzen AI Max+ Debuts with RDNA 3.5 Graphics and Zen 5 CPU Cores](https://www.tomshardware.com/pc-components/cpus/amds-beastly-strix-halo-ryzen-ai-max-debuts-with-radical-new-memory-tech-to-feed-rdna-3-5-graphics-and-zen-5-cpu-cores)
 * [2025-01-06, 19:19:09](https://news.ycombinator.com/item?id=42614316) - [Self-Hostable Form Back End – OSS Alternative to Formspree](https://github.com/FormBee/FormBee)
 * [2025-01-06, 18:50:19](https://news.ycombinator.com/item?id=42613878) - [An autumn bike adventure down the US portion of the Eastern Divide Trail](https://www.crazyguyonabike.com/doc/?doc_id=26078)
 * [2025-01-06, 18:36:29](https://news.ycombinator.com/item?id=42613671) - [C: Simple Defer, Ready to Use](https://gustedt.wordpress.com/2025/01/06/simple-defer-ready-to-use/)
@@ -11,8 +12,7 @@
 * [2025-01-06, 17:03:20](https://news.ycombinator.com/item?id=42612394) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=42612394)
 * [2025-01-06, 16:47:53](https://news.ycombinator.com/item?id=42612211) - [Property-Based Testing for the People](https://repository.upenn.edu/entities/publication/72ca3499-c5f6-4fc1-b5a3-9d66d8dd534e)
 * [2025-01-06, 16:31:27](https://news.ycombinator.com/item?id=42611978) - [Raising of Chicago](https://en.wikipedia.org/wiki/Raising_of_Chicago)
-* [2025-01-06, 16:19:20](https://news.ycombinator.com/item?id=42611844) - [My little sister's use of ChatGPT for homework is heartbreaking](https://old.reddit.com/r/ChatGPT/comments/1hun3e4/my_little_sisters_use_of_chatgpt_for_homework_is/)
-* [2025-01-06, 16:07:47](https://news.ycombinator.com/item?id=42611730) - [Justin Trudeau resigns](https://www.bbc.com/news/live/clyjmy7vl64t)
+* [2025-01-06, 16:07:47](https://news.ycombinator.com/item?id=42611730) - [Justin Trudeau announces resignation](https://www.bbc.com/news/live/clyjmy7vl64t)
 * [2025-01-06, 15:49:21](https://news.ycombinator.com/item?id=42611540) - [Spline Distance Fields](https://zone.dog/braindump/spline_fields/)
 * [2025-01-06, 15:48:50](https://news.ycombinator.com/item?id=42611536) - [Stimulation Clicker](https://neal.fun/stimulation-clicker/)
 * [2025-01-06, 11:54:10](https://news.ycombinator.com/item?id=42609819) - [Show HN: Mashups – Resurrecting Yahoo Pipes, my side project](https://www.mashups.io)

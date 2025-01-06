@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-06](index.md)
 
+* [2025-01-06, 19:27:21](https://news.ycombinator.com/item?id=42614450) - [AMD 'Strix Halo' Ryzen AI Max+ Debuts with RDNA 3.5 Graphics and Zen 5 CPU Cores](https://www.tomshardware.com/pc-components/cpus/amds-beastly-strix-halo-ryzen-ai-max-debuts-with-radical-new-memory-tech-to-feed-rdna-3-5-graphics-and-zen-5-cpu-cores)
 * [2025-01-06, 19:19:09](https://news.ycombinator.com/item?id=42614316) - [Self-Hostable Form Back End – OSS Alternative to Formspree](https://github.com/FormBee/FormBee)
 * [2025-01-06, 18:50:19](https://news.ycombinator.com/item?id=42613878) - [An autumn bike adventure down the US portion of the Eastern Divide Trail](https://www.crazyguyonabike.com/doc/?doc_id=26078)
 * [2025-01-06, 18:36:29](https://news.ycombinator.com/item?id=42613671) - [C: Simple Defer, Ready to Use](https://gustedt.wordpress.com/2025/01/06/simple-defer-ready-to-use/)
