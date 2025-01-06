@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-01-06](index.md)
 
+* [2025-01-06, 22:22:58](https://news.ycombinator.com/item?id=42616699) - [I Live My Life a Quarter Century at a Time](https://tla.systems/blog/2025/01/04/i-live-my-life-a-quarter-century-at-a-time/)
+* [2025-01-06, 22:03:59](https://news.ycombinator.com/item?id=42616487) - [2DGD_F0TH A compendium of the community knowledge on game design and development](https://github.com/2DGD-F0TH/2DGD_F0TH)
+* [2025-01-06, 21:48:57](https://news.ycombinator.com/item?id=42616325) - [Dtack Grounded archive (1981-1985)](http://www.easy68k.com/paulrsm/dg/)
 * [2025-01-06, 21:44:17](https://news.ycombinator.com/item?id=42616269) - [What Parler Saw During the Attack on the Capitol](https://projects.propublica.org/parler-capitol-videos/)
 * [2025-01-06, 21:27:38](https://news.ycombinator.com/item?id=42616074) - [Hacker of the year nominee: Gromit the Dog](https://cybershow.uk/blog/posts/gromit/)
 * [2025-01-06, 21:16:17](https://news.ycombinator.com/item?id=42615945) - [America's first bird flu death reported in Louisiana](https://www.cnn.com/2025/01/06/health/bird-flu-death-louisiana/index.html)
