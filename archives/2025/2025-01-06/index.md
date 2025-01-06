@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-06](index.md)
 
+* [2025-01-06, 21:44:17](https://news.ycombinator.com/item?id=42616269) - [What Parler Saw During the Attack on the Capitol](https://projects.propublica.org/parler-capitol-videos/)
+* [2025-01-06, 21:27:38](https://news.ycombinator.com/item?id=42616074) - [Hacker of the year nominee: Gromit the Dog](https://cybershow.uk/blog/posts/gromit/)
 * [2025-01-06, 21:16:17](https://news.ycombinator.com/item?id=42615945) - [America's first bird flu death reported in Louisiana](https://www.cnn.com/2025/01/06/health/bird-flu-death-louisiana/index.html)
 * [2025-01-06, 21:00:23](https://news.ycombinator.com/item?id=42615740) - [Artie (YC S23) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/artie/jobs/N3AosVU-founding-engineer)
 * [2025-01-06, 20:52:34](https://news.ycombinator.com/item?id=42615646) - [Triptych Proposals](https://alexanderpetros.com/triptych/)
