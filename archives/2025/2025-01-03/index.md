@@ -95,4 +95,5 @@
 * [2025-01-03, 01:57:07](https://news.ycombinator.com/item?id=42581368) - [Party Squasher, the first guest occupancy counter for homes](https://www.partysquasher.com/)
 * [2025-01-03, 01:39:43](https://news.ycombinator.com/item?id=42581241) - [Visually Compare Retry Algorithms](https://www.compareretries.com/)
 * [2025-01-03, 01:21:57](https://news.ycombinator.com/item?id=42581119) - [Be a property owner and not a renter on the internet](https://den.dev/blog/be-a-property-owner-not-a-renter-on-the-internet/)
+* [2025-01-03, 01:16:40](https://news.ycombinator.com/item?id=42581082) - [Rohlang3: A point-free, homoiconic, and dependently typed \"SK calculus\"](https://rohan.ga/blog/rohlang3/)
 * [2025-01-03, 00:25:57](https://news.ycombinator.com/item?id=42580659) - [I still don't think companies serve you ads based on your microphone](https://simonwillison.net/2025/Jan/2/they-spy-on-you-but-not-like-that/)

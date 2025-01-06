@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-06](index.md)
 
+* [2025-01-06, 10:07:11](https://news.ycombinator.com/item?id=42609225) - [The Atari Stacy was launched in 1989](https://web.archive.org/web/20230413021444/http://ftp.pigwa.net/stuff/mirror/www.atari-explorer.com/stacy.html)
+* [2025-01-06, 09:49:41](https://news.ycombinator.com/item?id=42609151) - [Show HN: Filter out engagement bait & politics on your X/Twitter feed.](https://unbaited.danielpetho.com)
 * [2025-01-06, 07:17:34](https://news.ycombinator.com/item?id=42608470) - [Why Computer Scientists Consult Oracles](https://www.quantamagazine.org/why-computer-scientists-consult-oracles-20250103/)
 * [2025-01-06, 07:11:00](https://news.ycombinator.com/item?id=42608436) - [Lord of the Io_uring](https://unixism.net/loti/index.html)
 * [2025-01-06, 07:01:13](https://news.ycombinator.com/item?id=42608384) - [Supabase (YC S20) Is Hiring for Multiple Roles (Remote)](https://supabase.com/careers)
