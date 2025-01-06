@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-01-06](index.md)
 
+* [2025-01-06, 18:05:43](https://news.ycombinator.com/item?id=42613221) - [The Future of Htmx](https://htmx.org/essays/future/)
 * [2025-01-06, 17:53:09](https://news.ycombinator.com/item?id=42613027) - [Ask HN: Can we stop with the political posts?](https://news.ycombinator.com/item?id=42613027)
 * [2025-01-06, 17:40:49](https://news.ycombinator.com/item?id=42612842) - [All clocks are 30 seconds late](https://victorpoughon.fr/all-clocks-are-30-seconds-late/)
 * [2025-01-06, 17:10:46](https://news.ycombinator.com/item?id=42612494) - [3blue1brown YouTube Bitcoin video taken down as copyright violation](https://twitter.com/3blue1brown/status/1876291319955398799)
+* [2025-01-06, 17:07:43](https://news.ycombinator.com/item?id=42612453) - [Getting LLMs to Generate Funny Memes Is Unexpectedly Hard](https://www.greptile.com/blog/reporoast)
 * [2025-01-06, 17:03:20](https://news.ycombinator.com/item?id=42612394) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=42612394)
 * [2025-01-06, 16:58:11](https://news.ycombinator.com/item?id=42612321) - [TikTok should lose its big Supreme Court case](https://www.vox.com/scotus/393199/tiktok-supreme-court-first-amendment)
 * [2025-01-06, 16:47:53](https://news.ycombinator.com/item?id=42612211) - [Property-Based Testing for the People](https://repository.upenn.edu/entities/publication/72ca3499-c5f6-4fc1-b5a3-9d66d8dd534e)
