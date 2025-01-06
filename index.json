@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-01-06, 01:56:42",
+      "https://news.ycombinator.com/item?id=42606773"
+    ],
+    [
+      "Engineer Eats Efficiently",
+      "https://futureboy.us/blog/twofifty.html"
+    ]
+  ],
+  [
+    [
       "2025-01-06, 01:41:03",
       "https://news.ycombinator.com/item?id=42606700"
     ],
     [
-      "Reflections – Sam Altman",
+      "Reflections",
       "https://blog.samaltman.com/reflections"
+    ]
+  ],
+  [
+    [
+      "2025-01-06, 01:28:06",
+      "https://news.ycombinator.com/item?id=42606639"
+    ],
+    [
+      "This Is Not Your Last Job",
+      "https://v5.chriskrycho.com/journal/this-is-not-your-last-job/"
     ]
   ],
   [
@@ -47,6 +67,16 @@
     [
       "Killed by LLM",
       "https://r0bk.github.io/killedbyllm/"
+    ]
+  ],
+  [
+    [
+      "2025-01-06, 00:14:00",
+      "https://news.ycombinator.com/item?id=42606226"
+    ],
+    [
+      "In 2025, People Will Try Living in This Underwater Habitat",
+      "https://spectrum.ieee.org/ocean-engineering"
     ]
   ],
   [
@@ -95,7 +125,7 @@
       "https://news.ycombinator.com/item?id=42604529"
     ],
     [
-      "Ask HN: Favorite Blog in 2024?",
+      "Ask HN: Favorite blog in 2024?",
       "https://news.ycombinator.com/item?id=42604529"
     ]
   ],
@@ -201,12 +231,12 @@
   ],
   [
     [
-      "2025-01-03, 06:48:59",
-      "https://news.ycombinator.com/item?id=42583204"
+      "2025-01-03, 12:03:04",
+      "https://news.ycombinator.com/item?id=42584896"
     ],
     [
-      "Chip-8 Emulation Introduction",
-      "https://www.emulationonline.com/systems/chip8/intro/"
+      "DeepFace: A Lightweight Deep Face Recognition Library for Python",
+      "https://github.com/serengil/deepface"
     ]
   ],
   [
@@ -237,36 +267,6 @@
     [
       "Kakizome, Japanese way of new-years resolution",
       "https://harimus.github.io//2025/01/02/kakizome.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-02, 13:52:50",
-      "https://news.ycombinator.com/item?id=42574387"
-    ],
-    [
-      "60 Years of Spaceflight Patches",
-      "https://arstechnica.com/space/2024/12/after-60-years-of-spaceflight-patches-here-are-some-of-our-favorites/"
-    ]
-  ],
-  [
-    [
-      "2025-01-02, 12:13:15",
-      "https://news.ycombinator.com/item?id=42573761"
-    ],
-    [
-      "The Maxwell-Heaviside Equations Explained by the Theory of Informatons",
-      "https://www.researchgate.net/publication/382229137_The_Maxwell-Heaviside_Equations_Explained_by_the_Theory_of_Informatons"
-    ]
-  ],
-  [
-    [
-      "2025-01-01, 22:57:39",
-      "https://news.ycombinator.com/item?id=42570010"
-    ],
-    [
-      "Crawling More Politely Than Big Tech",
-      "https://cameronboehmer.com/building-a-polite-and-fast-web-crawler.html"
     ]
   ],
   [
