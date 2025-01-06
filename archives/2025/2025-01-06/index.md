@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-06](index.md)
 
+* [2025-01-06, 22:22:59](https://news.ycombinator.com/item?id=42616700) - [NYC Congestion Pricing](https://www.congestion-pricing-tracker.com/)
 * [2025-01-06, 22:22:58](https://news.ycombinator.com/item?id=42616699) - [I Live My Life a Quarter Century at a Time](https://tla.systems/blog/2025/01/04/i-live-my-life-a-quarter-century-at-a-time/)
 * [2025-01-06, 22:03:59](https://news.ycombinator.com/item?id=42616487) - [2DGD_F0TH A compendium of the community knowledge on game design and development](https://github.com/2DGD-F0TH/2DGD_F0TH)
 * [2025-01-06, 21:48:57](https://news.ycombinator.com/item?id=42616325) - [Dtack Grounded archive (1981-1985)](http://www.easy68k.com/paulrsm/dg/)
