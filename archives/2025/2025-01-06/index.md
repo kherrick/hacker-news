@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-06](index.md)
 
+* [2025-01-06, 05:24:00](https://news.ycombinator.com/item?id=42607934) - [IPv6-only Network based on Jool](https://taoshu.in/unix/jool-nat64.html)
+* [2025-01-06, 04:53:53](https://news.ycombinator.com/item?id=42607794) - [Doom, the Gallery Experience](https://bobatealee.itch.io/doom-the-gallery-experience)
 * [2025-01-06, 04:27:13](https://news.ycombinator.com/item?id=42607670) - [New California law prohibits using AI as basis to deny health insurance claims](https://www.mercurynews.com/2025/01/05/new-california-law-ban-artificial-intelligence-deny-insurance-claims/)
 * [2025-01-06, 03:46:10](https://news.ycombinator.com/item?id=42607454) - [Unemployed Office Workers Are Having a Harder Time Finding New Jobs](https://www.wsj.com/economy/jobs/job-search-workers-unemployment-months-5a4cfcee)
 * [2025-01-06, 03:40:20](https://news.ycombinator.com/item?id=42607422) - [Show HN: E-Paper Life Organizer with Pico and Inky Frame](https://github.com/jaeheonshim/inky-dashboard)
