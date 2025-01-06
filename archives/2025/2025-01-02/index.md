@@ -62,6 +62,7 @@
 * [2025-01-02, 12:45:39](https://news.ycombinator.com/item?id=42573954) - [Over 3.1M fake \"stars\" on GitHub projects used to boost rankings](https://www.bleepingcomputer.com/news/security/over-31-million-fake-stars-on-github-projects-used-to-boost-rankings/)
 * [2025-01-02, 12:42:03](https://news.ycombinator.com/item?id=42573936) - [Pink Floyd's Young Lust telephone signalling explained](https://telephoneworld.org/landline-telephone-history/pink-floyds-young-lust-explained-and-demystified/)
 * [2025-01-02, 12:33:04](https://news.ycombinator.com/item?id=42573875) - [Ask HN: Where to Work After 40?](https://news.ycombinator.com/item?id=42573875)
+* [2025-01-02, 12:13:15](https://news.ycombinator.com/item?id=42573761) - [The Maxwell-Heaviside Equations Explained by the Theory of Informatons](https://www.researchgate.net/publication/382229137_The_Maxwell-Heaviside_Equations_Explained_by_the_Theory_of_Informatons)
 * [2025-01-02, 10:48:35](https://news.ycombinator.com/item?id=42573388) - [Myst Markdown – Markdown for technical/scientific document](https://mystmd.org/guide)
 * [2025-01-02, 10:26:05](https://news.ycombinator.com/item?id=42573284) - [How Java's Executable Assembly Jars Work](https://mill-build.org/blog/5-executable-jars.html)
 * [2025-01-02, 10:16:26](https://news.ycombinator.com/item?id=42573232) - [Ask HN: How are you using LLMs for traversing decompiler output?](https://news.ycombinator.com/item?id=42573232)
