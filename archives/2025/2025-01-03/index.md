@@ -56,6 +56,7 @@
 * [2025-01-03, 13:08:08](https://news.ycombinator.com/item?id=42585332) - [Oral history of Caroline Rose, writer of Inside Macintosh (2023) [video]](https://www.youtube.com/watch?v=RikO_3jedlY)
 * [2025-01-03, 12:51:48](https://news.ycombinator.com/item?id=42585221) - [My approach to running a link blog](https://simonwillison.net/2024/Dec/22/link-blog/)
 * [2025-01-03, 12:37:43](https://news.ycombinator.com/item?id=42585130) - [Digital Homeownership](https://blog.muni.town/digital-homeownership/)
+* [2025-01-03, 12:23:22](https://news.ycombinator.com/item?id=42585025) - [TiDB – cloud-native, distributed SQL database written in Go](https://github.com/pingcap/tidb)
 * [2025-01-03, 12:20:27](https://news.ycombinator.com/item?id=42585009) - [Show HN: I completed shipping my desktop app](https://pimosa.app/)
 * [2025-01-03, 12:15:17](https://news.ycombinator.com/item?id=42584981) - [5G NR-U: Bringing the power of 5G to unlicensed spectrum globally](https://www.qualcomm.com/research/5g/5g-unlicensed-shared-spectrum)
 * [2025-01-03, 12:06:14](https://news.ycombinator.com/item?id=42584923) - [Auto Smiley – Computer vision smile generator (2010)](https://fffff.at/auto-smiley)

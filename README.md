@@ -19,7 +19,6 @@
 * [2025-01-06, 15:48:50](https://news.ycombinator.com/item?id=42611536) - [Stimulation Clicker](https://neal.fun/stimulation-clicker/)
 * [2025-01-06, 11:54:10](https://news.ycombinator.com/item?id=42609819) - [Show HN: Mashups – Resurrecting Yahoo Pipes, my side project](https://www.mashups.io)
 * [2025-01-06, 11:10:01](https://news.ycombinator.com/item?id=42609595) - [Time-Series Anomaly Detection: A Decade Review](https://arxiv.org/abs/2412.20512)
-* [2025-01-06, 09:00:25](https://news.ycombinator.com/item?id=42608923) - [The evolution of a structural code editor](https://crowdhailer.me/2025-01-02/the-evolution-of-a-structural-code-editor/)
 * [2025-01-06, 07:11:00](https://news.ycombinator.com/item?id=42608436) - [Lord of the Io_uring (2020)](https://unixism.net/loti/index.html)
 * [2025-01-06, 06:12:31](https://news.ycombinator.com/item?id=42608155) - [Uncut Currency](https://www.usmint.gov/paper-currency/uncut-currency/)
 * [2025-01-06, 04:53:53](https://news.ycombinator.com/item?id=42607794) - [Doom, the Gallery Experience](https://bobatealee.itch.io/doom-the-gallery-experience)
@@ -30,6 +29,7 @@
 * [2025-01-05, 07:40:48](https://news.ycombinator.com/item?id=42600349) - [Remote code execution via MIDI messages](https://psi3.ru/blog/swl01u/)
 * [2025-01-03, 18:36:10](https://news.ycombinator.com/item?id=42588261) - [42 - Spacecraft Simulation](https://github.com/ericstoneking/42)
 * [2025-01-03, 13:20:35](https://news.ycombinator.com/item?id=42585409) - [A Note on the Changing Faces of (D)ARPA – By Eric Gilliam](https://www.freaktakes.com/p/a-note-on-the-changing-faces-of-darpa)
+* [2025-01-03, 12:23:22](https://news.ycombinator.com/item?id=42585025) - [TiDB – cloud-native, distributed SQL database written in Go](https://github.com/pingcap/tidb)
 
 ## [Archives](archives/index.md)
 
