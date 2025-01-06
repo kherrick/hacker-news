@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-01-06, 12:28:16",
+      "https://news.ycombinator.com/item?id=42610007"
+    ],
+    [
+      "Why are corporations cutting managers?",
+      "https://arnoldkling.substack.com/p/why-are-corporations-cutting-managers"
+    ]
+  ],
+  [
+    [
       "2025-01-06, 12:03:46",
       "https://news.ycombinator.com/item?id=42609865"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2025-01-06, 01:56:42",
-      "https://news.ycombinator.com/item?id=42606773"
-    ],
-    [
-      "Engineer eats efficiently for $2.50 a day (2016)",
-      "https://futureboy.us/blog/twofifty.html"
-    ]
-  ],
-  [
-    [
       "2025-01-05, 22:44:08",
       "https://news.ycombinator.com/item?id=42605707"
     ],
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2025-01-03, 18:36:10",
+      "https://news.ycombinator.com/item?id=42588261"
+    ],
+    [
+      "42 - Spacecraft Simulation",
+      "https://github.com/ericstoneking/42"
+    ]
+  ],
+  [
+    [
       "2025-01-03, 16:34:33",
       "https://news.ycombinator.com/item?id=42587056"
     ],
@@ -247,16 +257,6 @@
     [
       "DeepFace: A lightweight deep face recognition library for Python",
       "https://github.com/serengil/deepface"
-    ]
-  ],
-  [
-    [
-      "2025-01-03, 03:28:26",
-      "https://news.ycombinator.com/item?id=42582044"
-    ],
-    [
-      "Using watermarks to coordinate change data capture in Postgres",
-      "https://blog.sequinstream.com/using-watermarks-to-coordinate-change-data-capture-in-postgres/"
     ]
   ],
   [
