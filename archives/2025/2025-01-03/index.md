@@ -67,6 +67,7 @@
 * [2025-01-03, 10:25:09](https://news.ycombinator.com/item?id=42584373) - [My Takeaways From 12 Months Of Therapy](https://cauldron.life/blog/my-takeaways-from-therapy/)
 * [2025-01-03, 10:13:15](https://news.ycombinator.com/item?id=42584320) - [Rain Programming Language by nikeedev](https://r.nikee.dev/rain-lang)
 * [2025-01-03, 10:00:15](https://news.ycombinator.com/item?id=42584258) - [\"A Digital Prison\": Surveillance and the suppression of civil society in Serbia](https://www.amnesty.org/en/documents/eur70/8813/2024/en/)
+* [2025-01-03, 09:27:31](https://news.ycombinator.com/item?id=42584078) - [200Bn Weights of Responsibility - Felix Hill](https://docs.google.com/document/d/1aEdTE-B6CSPPeUWYD-IgNVQVZM25f7MF-u9qn5KJJvo/mobilebasic)
 * [2025-01-03, 09:13:29](https://news.ycombinator.com/item?id=42583986) - [The DIY Multideck](https://diymultideck.mauri.app/manual/)
 * [2025-01-03, 09:04:50](https://news.ycombinator.com/item?id=42583947) - [B-Trees: More Than I Thought I'd Want to Know](https://benjamincongdon.me/blog/2021/08/17/B-Trees-More-Than-I-Thought-Id-Want-to-Know/)
 * [2025-01-03, 08:28:55](https://news.ycombinator.com/item?id=42583726) - [UK ISO response to Google's policy change on device fingerprinting](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2024/12/our-response-to-google-s-policy-change-on-fingerprinting/)
