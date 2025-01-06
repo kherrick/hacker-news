@@ -26,9 +26,9 @@
 * [2025-01-06, 02:55:33](https://news.ycombinator.com/item?id=42607151) - [Apple squandered the Holy Grail](https://xeiaso.net/blog/2025/squandered-holy-grail/)
 * [2025-01-05, 16:28:09](https://news.ycombinator.com/item?id=42602850) - [My Favorite Book on AI](https://www.gatesnotes.com/The-Coming-Wave)
 * [2025-01-05, 15:13:45](https://news.ycombinator.com/item?id=42602273) - [How Do You Like What You've Built?](https://morrisbrodersen.de/how-do-you-like-what-you-built/)
-* [2025-01-05, 13:21:57](https://news.ycombinator.com/item?id=42601569) - [True crime stories are influencing the real-life justice system](https://www.cbc.ca/lite/story/1.7421943)
 * [2025-01-05, 07:40:48](https://news.ycombinator.com/item?id=42600349) - [Remote code execution via MIDI messages](https://psi3.ru/blog/swl01u/)
 * [2025-01-03, 18:36:10](https://news.ycombinator.com/item?id=42588261) - [42 - Spacecraft Simulation](https://github.com/ericstoneking/42)
+* [2025-01-03, 16:34:33](https://news.ycombinator.com/item?id=42587056) - [Einsum in Depth](https://einsum.joelburget.com/)
 * [2025-01-03, 13:20:35](https://news.ycombinator.com/item?id=42585409) - [A Note on the Changing Faces of (D)ARPA – By Eric Gilliam](https://www.freaktakes.com/p/a-note-on-the-changing-faces-of-darpa)
 
 ## [Archives](archives/index.md)
