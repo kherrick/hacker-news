@@ -18,6 +18,7 @@
 * [2025-01-03, 21:10:42](https://news.ycombinator.com/item?id=42589497) - [Factories in Space](https://www.factoriesinspace.com/)
 * [2025-01-03, 21:03:44](https://news.ycombinator.com/item?id=42589443) - [Her Treatment Was Helping. That's Why Insurance Cut Off Her Coverage](https://www.propublica.org/article/mental-health-insurance-denials-patient-progress)
 * [2025-01-03, 21:01:16](https://news.ycombinator.com/item?id=42589431) - [Extend (YC W23) is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
+* [2025-01-03, 20:17:26](https://news.ycombinator.com/item?id=42589087) - [\"Life Without Stars? Request for feedback on a chapter of a non-fiction book](https://theeggandtherock.com/p/life-without-stars-stanets-and-ploons)
 * [2025-01-03, 20:12:59](https://news.ycombinator.com/item?id=42589054) - [Triangulation of a polyline with thickness (a.k.a. line strip)](https://jvernay.fr/en/blog/polyline-triangulation/)
 * [2025-01-03, 20:01:29](https://news.ycombinator.com/item?id=42588956) - [VoxelSpace: Terrain rendering algorithm in less than 20 lines of code (2020)](https://github.com/s-macke/VoxelSpace)
 * [2025-01-03, 19:45:48](https://news.ycombinator.com/item?id=42588828) - [Hornet, RNA structure visualization method correlates sequence and 3D topology](https://phys.org/news/2024-12-hornet-rna-visualization-method-sequence.html)
