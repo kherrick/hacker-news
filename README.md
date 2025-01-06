@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-06, 10:25:50](https://news.ycombinator.com/item?id=42609333) - [The Magic Function](https://bitfieldconsulting.com/posts/magic-function)
 * [2025-01-06, 10:07:11](https://news.ycombinator.com/item?id=42609225) - [The Atari Stacy was launched in 1989](https://web.archive.org/web/20230413021444/http://ftp.pigwa.net/stuff/mirror/www.atari-explorer.com/stacy.html)
 * [2025-01-06, 09:49:41](https://news.ycombinator.com/item?id=42609151) - [Show HN: Filter out engagement bait & politics on your X/Twitter feed.](https://unbaited.danielpetho.com)
 * [2025-01-06, 07:17:34](https://news.ycombinator.com/item?id=42608470) - [Why Computer Scientists Consult Oracles](https://www.quantamagazine.org/why-computer-scientists-consult-oracles-20250103/)
@@ -24,7 +25,6 @@
 * [2025-01-03, 13:26:06](https://news.ycombinator.com/item?id=42585438) - [We Invested in Silicon Box and the Advanced Chiplet Packaging](https://medium.com/@heng.huang/why-we-invested-in-silicon-box-and-advanced-chiplet-packaging-3d1905c6ec2e)
 * [2025-01-03, 12:51:48](https://news.ycombinator.com/item?id=42585221) - [My approach to running a link blog](https://simonwillison.net/2024/Dec/22/link-blog/)
 * [2025-01-03, 12:03:04](https://news.ycombinator.com/item?id=42584896) - [DeepFace: A lightweight deep face recognition library for Python](https://github.com/serengil/deepface)
-* [2025-01-03, 03:28:26](https://news.ycombinator.com/item?id=42582044) - [Using watermarks to coordinate change data capture in Postgres](https://blog.sequinstream.com/using-watermarks-to-coordinate-change-data-capture-in-postgres/)
 * [2025-01-03, 01:16:40](https://news.ycombinator.com/item?id=42581082) - [Rohlang3: A point-free, homoiconic, and dependently typed \"SK calculus\"](https://rohan.ga/blog/rohlang3/)
 * [2025-01-02, 20:02:18](https://news.ycombinator.com/item?id=42578201) - [Documenting an 1115 ft radio tower climb](https://www.jeffgeerling.com/blog/2024/documenting-1115-ft-radio-tower-climb)
 * [2025-01-02, 17:27:05](https://news.ycombinator.com/item?id=42576436) - [Kakizome: Japanese way of new-years resolution](https://harimus.github.io//2025/01/02/kakizome.html)
