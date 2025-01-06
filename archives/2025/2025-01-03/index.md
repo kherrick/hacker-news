@@ -13,6 +13,7 @@
 * [2025-01-03, 22:36:49](https://news.ycombinator.com/item?id=42590213) - [I basically announced Minecraft 2](https://twitter.com/notch/status/1875230756437479658)
 * [2025-01-03, 22:18:12](https://news.ycombinator.com/item?id=42590055) - [Parasitic worms 'manipulate' mantises onto asphalt roads, say researchers](https://mainichi.jp/english/articles/20241115/p2a/00m/0sc/009000c)
 * [2025-01-03, 21:54:42](https://news.ycombinator.com/item?id=42589863) - [Perplexity Got Ads](https://twitter.com/damengchen/status/1875296442417607072)
+* [2025-01-03, 21:29:10](https://news.ycombinator.com/item?id=42589672) - [The Gentrification of Video Game History](https://felipepepe.medium.com/the-gentrification-of-video-game-history-dfe11f1e08ae)
 * [2025-01-03, 21:24:44](https://news.ycombinator.com/item?id=42589629) - [Transcendental Syntax](https://github.com/engboris/transcendental-syntax)
 * [2025-01-03, 21:17:12](https://news.ycombinator.com/item?id=42589553) - [Tomatoes Were Considered Sinful – Until the Salem Tomato Trial of 1820 (2019)](https://www.thevintagenews.com/2019/02/23/tomato/)
 * [2025-01-03, 21:10:42](https://news.ycombinator.com/item?id=42589497) - [Factories in Space](https://www.factoriesinspace.com/)
