@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-06, 19:52:47](https://news.ycombinator.com/item?id=42614832) - [Dell will no longer make XPS computers](https://arstechnica.com/gadgets/2025/01/the-end-of-an-era-dell-will-no-longer-make-xps-computers/)
 * [2025-01-06, 19:27:21](https://news.ycombinator.com/item?id=42614450) - [AMD 'Strix Halo' Ryzen AI Max+ Debuts with RDNA 3.5 Graphics and Zen 5 CPU Cores](https://www.tomshardware.com/pc-components/cpus/amds-beastly-strix-halo-ryzen-ai-max-debuts-with-radical-new-memory-tech-to-feed-rdna-3-5-graphics-and-zen-5-cpu-cores)
 * [2025-01-06, 19:19:09](https://news.ycombinator.com/item?id=42614316) - [Self-Hostable Form Back End – OSS Alternative to Formspree](https://github.com/FormBee/FormBee)
 * [2025-01-06, 18:50:19](https://news.ycombinator.com/item?id=42613878) - [An autumn bike adventure down the US portion of the Eastern Divide Trail](https://www.crazyguyonabike.com/doc/?doc_id=26078)
@@ -28,7 +29,6 @@
 * [2025-01-05, 13:21:57](https://news.ycombinator.com/item?id=42601569) - [True crime stories are influencing the real-life justice system](https://www.cbc.ca/lite/story/1.7421943)
 * [2025-01-05, 07:40:48](https://news.ycombinator.com/item?id=42600349) - [Remote code execution via MIDI messages](https://psi3.ru/blog/swl01u/)
 * [2025-01-03, 18:36:10](https://news.ycombinator.com/item?id=42588261) - [42 - Spacecraft Simulation](https://github.com/ericstoneking/42)
-* [2025-01-03, 16:34:33](https://news.ycombinator.com/item?id=42587056) - [Einsum in Depth](https://einsum.joelburget.com/)
 * [2025-01-03, 13:20:35](https://news.ycombinator.com/item?id=42585409) - [A Note on the Changing Faces of (D)ARPA – By Eric Gilliam](https://www.freaktakes.com/p/a-note-on-the-changing-faces-of-darpa)
 
 ## [Archives](archives/index.md)
