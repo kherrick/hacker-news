@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-01-06, 09:01:25",
-      "https://news.ycombinator.com/item?id=42608925"
-    ],
-    [
-      "Modern Generic SVGA driver for Windows 3.1",
-      "https://github.com/PluMGMK/vbesvga.drv"
-    ]
-  ],
-  [
-    [
       "2025-01-06, 07:17:34",
       "https://news.ycombinator.com/item?id=42608470"
     ],
@@ -111,6 +101,16 @@
   ],
   [
     [
+      "2025-01-06, 00:14:51",
+      "https://news.ycombinator.com/item?id=42606231"
+    ],
+    [
+      "Killed by LLM",
+      "https://r0bk.github.io/killedbyllm/"
+    ]
+  ],
+  [
+    [
       "2025-01-05, 22:44:08",
       "https://news.ycombinator.com/item?id=42605707"
     ],
@@ -137,6 +137,16 @@
     [
       "Reverse Engineering the Constants in the Pentium FPU",
       "http://www.righto.com/2025/01/pentium-floating-point-ROM.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-05, 16:35:07",
+      "https://news.ycombinator.com/item?id=42602900"
+    ],
+    [
+      "Ask HN: Spending Tracking Tools",
+      "https://news.ycombinator.com/item?id=42602900"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Remote code execution via MIDI messages",
       "https://psi3.ru/blog/swl01u/"
-    ]
-  ],
-  [
-    [
-      "2025-01-05, 01:54:53",
-      "https://news.ycombinator.com/item?id=42599102"
-    ],
-    [
-      "Web page annoyances that I don't inflict on you",
-      "http://rachelbythebay.com/w/2025/01/04/cruft/"
     ]
   ],
   [
