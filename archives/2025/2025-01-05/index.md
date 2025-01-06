@@ -31,6 +31,7 @@
 * [2025-01-05, 13:49:12](https://news.ycombinator.com/item?id=42601724) - [Learn New Skills](https://www.attejuvonen.fi/learn/)
 * [2025-01-05, 13:40:43](https://news.ycombinator.com/item?id=42601681) - [Human study on AI spear phishing campaigns](https://www.lesswrong.com/posts/GCHyDKfPXa5qsG2cP/human-study-on-ai-spear-phishing-campaigns)
 * [2025-01-05, 13:19:18](https://news.ycombinator.com/item?id=42601549) - [You Wouldn't Download an AI](https://altayakkus.substack.com/p/you-wouldnt-download-an-ai)
+* [2025-01-05, 13:06:41](https://news.ycombinator.com/item?id=42601497) - [Understanding ReplicaSet vs. StatefulSet vs. DaemonSet vs. Deployments](https://abhisman.notion.site/Understanding-ReplicaSet-vs-StatefulSet-vs-DaemonSet-vs-Deployments-a521f9a46ea446219d98be4972f2e16e)
 * [2025-01-05, 13:05:31](https://news.ycombinator.com/item?id=42601489) - [Waymo Robotaxis Much Safer Than Any Human-Driven Cars](https://cleantechnica.com/2025/01/04/waymo-robotaxis-safer-than-any-human-driven-cars-much-safer/)
 * [2025-01-05, 12:50:53](https://news.ycombinator.com/item?id=42601438) - [FCC net neutrality rules dead again as appeals court sides with Big Telco](https://www.theregister.com/2025/01/02/fcc_net_neutrality_rules_killed/)
 * [2025-01-05, 12:49:34](https://news.ycombinator.com/item?id=42601429) - [2024: A Record-Breaking Year for the Ocean Cleanup](https://theoceancleanup.com/updates/2024-a-record-breaking-year-for-the-ocean-cleanup/)
