@@ -4,6 +4,7 @@
 * [2025-01-06, 06:12:31](https://news.ycombinator.com/item?id=42608155) - [US Mint sheets of uncut currency](https://www.usmint.gov/paper-currency/uncut-currency/)
 * [2025-01-06, 05:24:00](https://news.ycombinator.com/item?id=42607934) - [IPv6-only Network based on Jool](https://taoshu.in/unix/jool-nat64.html)
 * [2025-01-06, 04:53:53](https://news.ycombinator.com/item?id=42607794) - [Doom, the Gallery Experience](https://bobatealee.itch.io/doom-the-gallery-experience)
+* [2025-01-06, 04:19:43](https://news.ycombinator.com/item?id=42607623) - [Hitting OKRs vs. Doing Your Job](https://jessitron.com/2025/01/05/hitting-okrs-vs-doing-your-job/)
 * [2025-01-06, 03:46:14](https://news.ycombinator.com/item?id=42607455) - [Magic Links Have Rough Edges, but Passkeys Can Smooth Them Over](https://rmondello.com/2025/01/02/magic-links-and-passkeys/)
 * [2025-01-06, 02:42:49](https://news.ycombinator.com/item?id=42607087) - [Printf debugging is ok](https://www.polymonster.co.uk/blog/printf-debugging-is-ok)
 * [2025-01-06, 01:56:42](https://news.ycombinator.com/item?id=42606773) - [Engineer eats efficiently for $2.50 a day (2016)](https://futureboy.us/blog/twofifty.html)
@@ -27,7 +28,6 @@
 * [2025-01-03, 03:28:26](https://news.ycombinator.com/item?id=42582044) - [Using watermarks to coordinate change data capture in Postgres](https://blog.sequinstream.com/using-watermarks-to-coordinate-change-data-capture-in-postgres/)
 * [2025-01-02, 20:02:18](https://news.ycombinator.com/item?id=42578201) - [Documenting an 1115 ft radio tower climb](https://www.jeffgeerling.com/blog/2024/documenting-1115-ft-radio-tower-climb)
 * [2025-01-02, 17:27:05](https://news.ycombinator.com/item?id=42576436) - [Kakizome: Japanese way of new-years resolution](https://harimus.github.io//2025/01/02/kakizome.html)
-* [2025-01-01, 18:18:48](https://news.ycombinator.com/item?id=42567900) - [Axum 0.8](https://tokio.rs/blog/2025-01-01-announcing-axum-0-8-0)
 * [2025-01-01, 15:53:42](https://news.ycombinator.com/item?id=42566748) - [Supernovae evidence for foundational change to cosmological models](https://academic.oup.com/mnrasl/article/537/1/L55/7926647)
 * [2024-12-30, 18:22:43](https://news.ycombinator.com/item?id=42552016) - [Why was there a wall near runway at S Korea plane crash airport?](https://www.bbc.com/news/articles/c0mvynnxzzmo)
 
