@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-07, 07:01:03](https://news.ycombinator.com/item?id=42620053) - [Axiom.ai (YC W21) Is Hiring a Contract Web Designer (Remote)](https://www.ycombinator.com/companies/axiom-ai/jobs/DckIVG6-contract-web-designer)
+* [2025-01-07, 05:53:27](https://news.ycombinator.com/item?id=42619695) - [Y2K – why I know it was a real problem (2015)](https://clarotesting.wordpress.com/2015/01/12/y2k-why-i-know-it-was-a-real-problem/)
 * [2025-01-07, 05:46:11](https://news.ycombinator.com/item?id=42619652) - [Playing Chess with 84,688 Regular Expressions](https://nicholas.carlini.com/writing/2025/regex-chess.html)
 * [2025-01-07, 04:14:05](https://news.ycombinator.com/item?id=42619139) - [Nvidia's Project Digits is a 'personal AI supercomputer'](https://techcrunch.com/2025/01/06/nvidias-project-digits-is-a-personal-ai-computer/)
 * [2025-01-07, 02:48:15](https://news.ycombinator.com/item?id=42618625) - [Roman Empire's use of lead lowered IQ levels across Europe, study finds](https://www.theguardian.com/science/2025/jan/06/roman-empires-use-of-lead-lowered-iq-levels-across-europe-study-finds)
@@ -16,6 +17,7 @@
 * [2025-01-06, 18:27:44](https://news.ycombinator.com/item?id=42613537) - [Synthesizing Music from JSON](https://phoboslab.org/log/2025/01/synth)
 * [2025-01-06, 18:05:43](https://news.ycombinator.com/item?id=42613221) - [The Future of Htmx](https://htmx.org/essays/future/)
 * [2025-01-06, 17:40:49](https://news.ycombinator.com/item?id=42612842) - [All clocks are 30 seconds late](https://victorpoughon.fr/all-clocks-are-30-seconds-late/)
+* [2025-01-06, 17:10:46](https://news.ycombinator.com/item?id=42612494) - [3blue1brown YouTube Bitcoin video taken down as copyright violation](https://twitter.com/3blue1brown/status/1876291319955398799)
 * [2025-01-06, 16:47:53](https://news.ycombinator.com/item?id=42612211) - [Property-Based Testing for the People](https://repository.upenn.edu/entities/publication/72ca3499-c5f6-4fc1-b5a3-9d66d8dd534e)
 * [2025-01-06, 15:49:21](https://news.ycombinator.com/item?id=42611540) - [Spline Distance Fields](https://zone.dog/braindump/spline_fields/)
 * [2025-01-06, 15:48:50](https://news.ycombinator.com/item?id=42611536) - [Stimulation Clicker](https://neal.fun/stimulation-clicker/)
@@ -27,8 +29,6 @@
 * [2025-01-05, 17:13:34](https://news.ycombinator.com/item?id=42603199) - [Parallel-hashmap: drop-in replacement for unordered_map, unordered_set](https://github.com/greg7mdp/parallel-hashmap)
 * [2025-01-05, 14:59:19](https://news.ycombinator.com/item?id=42602158) - [How to decode METAR and TAF reports](https://met.nps.edu/~bcreasey/mr3222/files/helpful/DecodeMETAR-TAF.html)
 * [2025-01-04, 23:32:15](https://news.ycombinator.com/item?id=42598463) - [Soft Metalens for Broadband Ultrasonic Focusing Through Aberration Layers](https://www.nature.com/articles/s41467-024-55022-2)
-* [2025-01-04, 14:31:24](https://news.ycombinator.com/item?id=42594851) - [Chimpanzees' stone tool choices may mirror ancient human ancestors' techniques](https://phys.org/news/2025-01-chimpanzees-stone-tool-choices-mirror.html)
-* [2025-01-04, 08:36:02](https://news.ycombinator.com/item?id=42593408) - [A Bivariate Map with Observable Plot](https://observablehq.observablehq.cloud/pangea/plot/bivariate-map)
 * [2025-01-03, 09:44:36](https://news.ycombinator.com/item?id=42584178) - [The Art and Science of Mess Management (1981) [pdf]](https://www.systemswisdom.com/sites/default/files/Ackoff-1981-Mess-Management_0.pdf)
 
 ## [Archives](archives/index.md)

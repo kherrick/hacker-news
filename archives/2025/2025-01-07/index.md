@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-07](index.md)
 
 * [2025-01-07, 07:01:03](https://news.ycombinator.com/item?id=42620053) - [Axiom.ai (YC W21) Is Hiring a Contract Web Designer (Remote)](https://www.ycombinator.com/companies/axiom-ai/jobs/DckIVG6-contract-web-designer)
+* [2025-01-07, 05:53:27](https://news.ycombinator.com/item?id=42619695) - [Y2K – why I know it was a real problem (2015)](https://clarotesting.wordpress.com/2015/01/12/y2k-why-i-know-it-was-a-real-problem/)
 * [2025-01-07, 05:46:11](https://news.ycombinator.com/item?id=42619652) - [Playing Chess with 84,688 Regular Expressions](https://nicholas.carlini.com/writing/2025/regex-chess.html)
 * [2025-01-07, 04:16:51](https://news.ycombinator.com/item?id=42619163) - [Nvidia Puts Grace Blackwell on Every Desk and at Every AI Developer's Fingertips](https://nvidianews.nvidia.com/news/nvidia-puts-grace-blackwell-on-every-desk-and-at-every-ai-developers-fingertips)
 * [2025-01-07, 04:14:05](https://news.ycombinator.com/item?id=42619139) - [Nvidia's Project Digits is a 'personal AI supercomputer'](https://techcrunch.com/2025/01/06/nvidias-project-digits-is-a-personal-ai-computer/)
