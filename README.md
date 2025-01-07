@@ -25,7 +25,7 @@
 * [2025-01-06, 09:00:25](https://news.ycombinator.com/item?id=42608923) - [The evolution of a structural code editor](https://crowdhailer.me/2025-01-02/the-evolution-of-a-structural-code-editor/)
 * [2025-01-05, 18:23:11](https://news.ycombinator.com/item?id=42603767) - [Edwin Cohn and the Harvard Blood Factory](https://www.asimov.press/p/cohn)
 * [2025-01-05, 17:13:34](https://news.ycombinator.com/item?id=42603199) - [Parallel-hashmap: drop-in replacement for unordered_map, unordered_set](https://github.com/greg7mdp/parallel-hashmap)
-* [2025-01-05, 05:22:20](https://news.ycombinator.com/item?id=42599960) - [Discotool: USB Arduino type boards discovery library and tool](https://github.com/Neradoc/discotool)
+* [2025-01-05, 14:59:19](https://news.ycombinator.com/item?id=42602158) - [How to decode METAR and TAF reports](https://met.nps.edu/~bcreasey/mr3222/files/helpful/DecodeMETAR-TAF.html)
 * [2025-01-04, 23:32:15](https://news.ycombinator.com/item?id=42598463) - [Soft Metalens for Broadband Ultrasonic Focusing Through Aberration Layers](https://www.nature.com/articles/s41467-024-55022-2)
 * [2025-01-04, 14:31:24](https://news.ycombinator.com/item?id=42594851) - [Chimpanzees' stone tool choices may mirror ancient human ancestors' techniques](https://phys.org/news/2025-01-chimpanzees-stone-tool-choices-mirror.html)
 * [2025-01-04, 08:36:02](https://news.ycombinator.com/item?id=42593408) - [A Bivariate Map with Observable Plot](https://observablehq.observablehq.cloud/pangea/plot/bivariate-map)
