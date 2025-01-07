@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-07, 11:11:53](https://news.ycombinator.com/item?id=42621332) - [Nvidia announces $3k personal AI supercomputer called Digits](https://www.theverge.com/2025/1/6/24337530/nvidia-ces-digits-super-computer-ai)
 * [2025-01-07, 10:00:08](https://news.ycombinator.com/item?id=42620994) - [AI and Startup Moats](https://unzip.dev/0x01f-ai-and-startup-moats/)
 * [2025-01-07, 09:00:55](https://news.ycombinator.com/item?id=42620656) - [First time a Blender-made production has won the Golden Globe](https://variety.com/2025/film/columns/flow-golden-globe-win-independent-animation-1236266805/)
 * [2025-01-07, 07:01:03](https://news.ycombinator.com/item?id=42620053) - [Axiom.ai (YC W21) Is Hiring a Contract Web Designer (Remote)](https://www.ycombinator.com/companies/axiom-ai/jobs/DckIVG6-contract-web-designer)
@@ -27,9 +28,8 @@
 * [2025-01-05, 17:54:22](https://news.ycombinator.com/item?id=42603511) - [The Rise of the French Fry Cartel](https://jacobin.com/2025/01/french-fry-price-fixing-antitrust/)
 * [2025-01-05, 17:13:34](https://news.ycombinator.com/item?id=42603199) - [Parallel-hashmap: drop-in replacement for unordered_map, unordered_set](https://github.com/greg7mdp/parallel-hashmap)
 * [2025-01-05, 11:13:42](https://news.ycombinator.com/item?id=42601035) - [Size Optimization Tricks (2022)](https://justine.lol/sizetricks/)
-* [2025-01-04, 23:32:15](https://news.ycombinator.com/item?id=42598463) - [Soft Metalens for Broadband Ultrasonic Focusing Through Aberration Layers](https://www.nature.com/articles/s41467-024-55022-2)
 * [2025-01-04, 20:17:11](https://news.ycombinator.com/item?id=42597382) - [First Live Birth Using Fertilo Procedure That Matures Eggs Outside the Body](https://www.businesswire.com/news/home/20241216400051/en/Gameto-Announces-World%E2%80%99s-First-Live-Birth-Using-Fertilo-Procedure-that-Matures-Eggs-Outside-the-Body)
-* [2025-01-03, 09:44:36](https://news.ycombinator.com/item?id=42584178) - [The Art and Science of Mess Management (1981) [pdf]](https://www.systemswisdom.com/sites/default/files/Ackoff-1981-Mess-Management_0.pdf)
+* [2025-01-03, 22:51:23](https://news.ycombinator.com/item?id=42590337) - [Choosing an op-amp for your project](https://lcamtuf.substack.com/p/choosing-an-op-amp-for-your-project)
 
 ## [Archives](archives/index.md)
 

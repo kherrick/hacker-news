@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-07](index.md)
 
+* [2025-01-07, 11:11:53](https://news.ycombinator.com/item?id=42621332) - [Nvidia announces $3k personal AI supercomputer called Digits](https://www.theverge.com/2025/1/6/24337530/nvidia-ces-digits-super-computer-ai)
 * [2025-01-07, 10:00:08](https://news.ycombinator.com/item?id=42620994) - [AI and Startup Moats](https://unzip.dev/0x01f-ai-and-startup-moats/)
 * [2025-01-07, 09:07:47](https://news.ycombinator.com/item?id=42620700) - [Exploring Emergent \"Self-Awareness\" in Claude 3.5](https://github.com/andybrandt/conscious-claude)
 * [2025-01-07, 09:00:55](https://news.ycombinator.com/item?id=42620656) - [First time a Blender-made production has won the Golden Globe](https://variety.com/2025/film/columns/flow-golden-globe-win-independent-animation-1236266805/)

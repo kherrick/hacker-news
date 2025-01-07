@@ -7,6 +7,7 @@
 * [2025-01-03, 23:52:00](https://news.ycombinator.com/item?id=42590788) - [Swc4j: SWC for Java](https://github.com/caoccao/swc4j)
 * [2025-01-03, 23:21:14](https://news.ycombinator.com/item?id=42590565) - [Kids can't use computers and this is why it should worry you (2013)](http://www.coding2learn.org/blog/2013/07/29/kids-cant-use-computers/)
 * [2025-01-03, 22:52:19](https://news.ycombinator.com/item?id=42590342) - [Starship's Seveth Flight Test](https://www.spacex.com/launches/mission/?missionId=starship-flight-7)
+* [2025-01-03, 22:51:23](https://news.ycombinator.com/item?id=42590337) - [Choosing an op-amp for your project](https://lcamtuf.substack.com/p/choosing-an-op-amp-for-your-project)
 * [2025-01-03, 22:49:08](https://news.ycombinator.com/item?id=42590322) - [A path to O1 open source](https://arxiv.org/abs/2412.14135)
 * [2025-01-03, 22:47:11](https://news.ycombinator.com/item?id=42590307) - [F-Droid Fake Signer PoC](https://github.com/obfusk/fdroid-fakesigner-poc)
 * [2025-01-03, 22:44:47](https://news.ycombinator.com/item?id=42590290) - [Show HN: AI that generates 3blue1brown-style explainer videos](https://tma.live)
