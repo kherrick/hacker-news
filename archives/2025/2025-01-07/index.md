@@ -19,6 +19,7 @@
 * [2025-01-07, 16:22:09](https://news.ycombinator.com/item?id=42624116) - [Show HN: Tramway SDK – The Unholy Union Between Half-Life and Morrowind Engines](https://racenis.github.io/tram-sdk/why.html)
 * [2025-01-07, 16:17:22](https://news.ycombinator.com/item?id=42624048) - [The Patterns of Barricelli (2024)](https://akkartik.name/post/2024-08-30-devlog)
 * [2025-01-07, 15:55:28](https://news.ycombinator.com/item?id=42623742) - [PCalc, an Origin Story (2012)](https://www.pcalc.com/mac/twenty.html)
+* [2025-01-07, 15:44:34](https://news.ycombinator.com/item?id=42623593) - [Show HN: HipScript – Run CUDA in the Browser with WebAssembly and WebGPU](https://hipscript.lights0123.com/)
 * [2025-01-07, 15:23:45](https://news.ycombinator.com/item?id=42623315) - [Why Is the American Diet So Deadly?](https://www.newyorker.com/magazine/2024/01/13/why-is-the-american-diet-so-deadly)
 * [2025-01-07, 15:12:05](https://news.ycombinator.com/item?id=42623163) - [Google is building its own 'world modeling' AI team for games and robot training](https://www.theverge.com/2025/1/7/24338053/google-deepmind-world-modeling-ai-team-gaming-robot-training)
 * [2025-01-07, 15:09:47](https://news.ycombinator.com/item?id=42623144) - [Federal Reserve Bank of NY \"Doomsday Book\" 2022 via FOIA [pdf]](https://www.crisesnotes.com/content/files/2023/12/NYFRB-2006.--Doomsday-Book--Searchable.pdf)
