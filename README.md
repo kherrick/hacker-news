@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-07, 09:07:47](https://news.ycombinator.com/item?id=42620700) - [Exploring Emergent \"Self-Awareness\" in Claude 3.5](https://github.com/andybrandt/conscious-claude)
 * [2025-01-07, 09:00:55](https://news.ycombinator.com/item?id=42620656) - [First time a Blender-made production has won the Golden Globe](https://variety.com/2025/film/columns/flow-golden-globe-win-independent-animation-1236266805/)
 * [2025-01-07, 07:45:42](https://news.ycombinator.com/item?id=42620278) - [Stay Gold, America](https://blog.codinghorror.com/)
 * [2025-01-07, 07:01:03](https://news.ycombinator.com/item?id=42620053) - [Axiom.ai (YC W21) Is Hiring a Contract Web Designer (Remote)](https://www.ycombinator.com/companies/axiom-ai/jobs/DckIVG6-contract-web-designer)
@@ -29,7 +30,6 @@
 * [2025-01-05, 17:13:34](https://news.ycombinator.com/item?id=42603199) - [Parallel-hashmap: drop-in replacement for unordered_map, unordered_set](https://github.com/greg7mdp/parallel-hashmap)
 * [2025-01-05, 11:13:42](https://news.ycombinator.com/item?id=42601035) - [Size Optimization Tricks (2022)](https://justine.lol/sizetricks/)
 * [2025-01-04, 23:32:15](https://news.ycombinator.com/item?id=42598463) - [Soft Metalens for Broadband Ultrasonic Focusing Through Aberration Layers](https://www.nature.com/articles/s41467-024-55022-2)
-* [2025-01-03, 09:44:36](https://news.ycombinator.com/item?id=42584178) - [The Art and Science of Mess Management (1981) [pdf]](https://www.systemswisdom.com/sites/default/files/Ackoff-1981-Mess-Management_0.pdf)
 
 ## [Archives](archives/index.md)
 
