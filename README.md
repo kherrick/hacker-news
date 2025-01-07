@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-07, 18:05:43](https://news.ycombinator.com/item?id=42625350) - [Red Hat in-vehicle OS hits key milestone towards Functional Safety Certification](https://www.redhat.com/en/about/press-releases/red-hat-reaches-key-milestone-push-functional-safety-certification-red-hat-vehicle-operating-system)
+* [2025-01-07, 17:55:33](https://news.ycombinator.com/item?id=42625229) - [Preventing conflicts in authoritative DNS config using formal verification](https://blog.cloudflare.com/topaz-policy-engine-design/)
 * [2025-01-07, 17:04:32](https://news.ycombinator.com/item?id=42624665) - [Aegypti 0.0.7: Faster Triangle Finding and More](https://pypi.org/project/aegypti)
 * [2025-01-07, 16:22:09](https://news.ycombinator.com/item?id=42624116) - [Show HN: Tramway SDK – The Unholy Union Between Half-Life and Morrowind Engines](https://racenis.github.io/tram-sdk/why.html)
-* [2025-01-07, 16:17:22](https://news.ycombinator.com/item?id=42624048) - [The Patterns of Barricelli (2024)](https://akkartik.name/post/2024-08-30-devlog)
 * [2025-01-07, 15:09:47](https://news.ycombinator.com/item?id=42623144) - [Federal Reserve Bank of NY \"Doomsday Book\" 2022 via FOIA [pdf]](https://www.crisesnotes.com/content/files/2023/12/NYFRB-2006.--Doomsday-Book--Searchable.pdf)
 * [2025-01-07, 12:39:37](https://news.ycombinator.com/item?id=42621766) - [Building Ultra Long Range Toslink](https://blog.benjojo.co.uk/post/sfp-experiment-ultra-long-range-toslink)
 * [2025-01-07, 12:15:22](https://news.ycombinator.com/item?id=42621627) - [Ending our third party fact-checking program and moving to Community Notes model](https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/)
@@ -21,7 +22,6 @@
 * [2025-01-06, 15:48:50](https://news.ycombinator.com/item?id=42611536) - [Stimulation Clicker](https://neal.fun/stimulation-clicker/)
 * [2025-01-06, 13:06:58](https://news.ycombinator.com/item?id=42610234) - [LLMs and Code Optimization](https://wiredream.com/llm-optimizing-digit-diff/)
 * [2025-01-06, 11:10:01](https://news.ycombinator.com/item?id=42609595) - [Time-Series Anomaly Detection: A Decade Review](https://arxiv.org/abs/2412.20512)
-* [2025-01-06, 09:00:25](https://news.ycombinator.com/item?id=42608923) - [The evolution of a structural code editor](https://crowdhailer.me/2025-01-02/the-evolution-of-a-structural-code-editor/)
 * [2025-01-05, 21:08:47](https://news.ycombinator.com/item?id=42605057) - [Battle Scenes depicted in moving pictures before CGI](https://battlefieldanomalies.com/category-general/battle-scenes-depicted-in-moving-pictures-before-c-g-i/)
 * [2025-01-05, 17:13:34](https://news.ycombinator.com/item?id=42603199) - [Parallel-hashmap: drop-in replacement for unordered_map, unordered_set](https://github.com/greg7mdp/parallel-hashmap)
 * [2025-01-05, 17:05:01](https://news.ycombinator.com/item?id=42603140) - [Collusion Through Common Leadership – Tech No-Poach Lists [pdf]](https://wwws.law.northwestern.edu/research-faculty/clbe/events/antitrust/documents/prager_collusion_through_common_leadership.pdf)
