@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-07](index.md)
 
+* [2025-01-07, 12:39:37](https://news.ycombinator.com/item?id=42621766) - [Building Ultra Long Range Toslink](https://blog.benjojo.co.uk/post/sfp-experiment-ultra-long-range-toslink)
 * [2025-01-07, 12:00:55](https://news.ycombinator.com/item?id=42621546) - [Jiga (YC W21) Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-remote-full-stack-engineer-react-node-mongo)
 * [2025-01-07, 12:00:33](https://news.ycombinator.com/item?id=42621544) - [Getty Images and Shutterstock to Merge](https://newsroom.gettyimages.com/en/getty-images/getty-images-and-shutterstock-to-merge-creating-a-premier-visual-content-company)
 * [2025-01-07, 11:28:20](https://news.ycombinator.com/item?id=42621399) - [Bog Standard (2005)](https://www.bbc.co.uk/worldservice/learningenglish/radio/specials/1728_uptodate/page25.shtml)
