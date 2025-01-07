@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-07](index.md)
 
+* [2025-01-07, 21:40:24](https://news.ycombinator.com/item?id=42627902) - [50 Years of SNL's Graphic Parodies (2024)](https://www.printmag.com/daily-heller/the-daily-heller-snls-graphic-parody/)
 * [2025-01-07, 21:14:24](https://news.ycombinator.com/item?id=42627567) - [Laid Off in My Career, and Twice in One Year](https://dillonshook.com/laid-off/)
 * [2025-01-07, 21:06:24](https://news.ycombinator.com/item?id=42627453) - [Magic/tragic email links: don't make them the only option](https://recyclebin.zip/posts/annoyinglinks/)
 * [2025-01-07, 21:03:02](https://news.ycombinator.com/item?id=42627407) - [The Egg, an at Home Nuclear Reactor](https://enron.com/pages/the-egg)
