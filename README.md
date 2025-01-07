@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-07, 07:01:03](https://news.ycombinator.com/item?id=42620053) - [Axiom.ai (YC W21) Is Hiring a Contract Web Designer (Remote)](https://www.ycombinator.com/companies/axiom-ai/jobs/DckIVG6-contract-web-designer)
 * [2025-01-07, 05:46:11](https://news.ycombinator.com/item?id=42619652) - [Playing Chess with 84,688 Regular Expressions](https://nicholas.carlini.com/writing/2025/regex-chess.html)
 * [2025-01-07, 04:14:05](https://news.ycombinator.com/item?id=42619139) - [Nvidia's Project Digits is a 'personal AI supercomputer'](https://techcrunch.com/2025/01/06/nvidias-project-digits-is-a-personal-ai-computer/)
 * [2025-01-07, 02:48:15](https://news.ycombinator.com/item?id=42618625) - [Roman Empire's use of lead lowered IQ levels across Europe, study finds](https://www.theguardian.com/science/2025/jan/06/roman-empires-use-of-lead-lowered-iq-levels-across-europe-study-finds)
@@ -9,7 +10,6 @@
 * [2025-01-06, 22:22:58](https://news.ycombinator.com/item?id=42616699) - [I live my life a quarter century at a time](https://tla.systems/blog/2025/01/04/i-live-my-life-a-quarter-century-at-a-time/)
 * [2025-01-06, 22:03:59](https://news.ycombinator.com/item?id=42616487) - [2DGD_F0TH A compendium of the community knowledge on game design and development](https://github.com/2DGD-F0TH/2DGD_F0TH)
 * [2025-01-06, 21:48:57](https://news.ycombinator.com/item?id=42616325) - [Dtack Grounded archive (1981-1985)](http://www.easy68k.com/paulrsm/dg/)
-* [2025-01-06, 21:00:23](https://news.ycombinator.com/item?id=42615740) - [Artie (YC S23) Is Hiring a Founding Engineer](https://www.ycombinator.com/companies/artie/jobs/N3AosVU-founding-engineer)
 * [2025-01-06, 20:52:34](https://news.ycombinator.com/item?id=42615646) - [Triptych Proposals](https://alexanderpetros.com/triptych/)
 * [2025-01-06, 19:19:09](https://news.ycombinator.com/item?id=42614316) - [Self-Hostable Form Back End – OSS Alternative to Formspree](https://github.com/FormBee/FormBee)
 * [2025-01-06, 18:50:19](https://news.ycombinator.com/item?id=42613878) - [An autumn bike adventure down the US portion of the Eastern Divide Trail](https://www.crazyguyonabike.com/doc/?doc_id=26078)
