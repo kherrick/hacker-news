@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-01-07](index.md)
 
+* [2025-01-07, 18:49:42](https://news.ycombinator.com/item?id=42625840) - [OmniAI (YC W24) Hiring Engineers to Build Open Source Document Extraction](https://www.ycombinator.com/companies/omniai/jobs/LG5jeP2-full-stack-engineer)
+* [2025-01-07, 18:19:00](https://news.ycombinator.com/item?id=42625497) - [AI Startup Anthropic Raising Funding Valuing It at $60B](https://www.wsj.com/tech/ai/ai-startup-anthropic-raising-funding-valuing-it-at-60-billion-19d0605a)
 * [2025-01-07, 18:05:43](https://news.ycombinator.com/item?id=42625350) - [Red Hat in-vehicle OS hits key milestone towards Functional Safety Certification](https://www.redhat.com/en/about/press-releases/red-hat-reaches-key-milestone-push-functional-safety-certification-red-hat-vehicle-operating-system)
 * [2025-01-07, 17:55:33](https://news.ycombinator.com/item?id=42625229) - [Preventing conflicts in authoritative DNS config using formal verification](https://blog.cloudflare.com/topaz-policy-engine-design/)
 * [2025-01-07, 17:54:41](https://news.ycombinator.com/item?id=42625219) - [Physicists Magnetize a Material with Light](https://news.mit.edu/2024/physicists-magnetize-material-using-light-1218)
+* [2025-01-07, 17:54:28](https://news.ycombinator.com/item?id=42625218) - [You can't optimize your way to being a good person](https://www.vox.com/the-highlight/387570/moral-optimization)
 * [2025-01-07, 17:46:28](https://news.ycombinator.com/item?id=42625139) - [Lenovo Officially Announces the Legion Go S Handheld with SteamOS](https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles/1517395-lenovo-officially-announces-the-legion-go-s-handheld-with-steamos)
 * [2025-01-07, 17:04:32](https://news.ycombinator.com/item?id=42624665) - [Aegypti 0.0.7: Faster Triangle Finding and More](https://pypi.org/project/aegypti)
 * [2025-01-07, 16:24:08](https://news.ycombinator.com/item?id=42624145) - [Yeah, America can still build stuff](https://jabberwocking.com/yeah-america-can-still-build-stuff/)
