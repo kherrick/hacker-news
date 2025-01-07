@@ -59,6 +59,7 @@
 * [2025-01-05, 06:44:33](https://news.ycombinator.com/item?id=42600192) - [Game dev in Rust: a year later](https://users.rust-lang.org/t/game-dev-in-rust-a-year-later/123522)
 * [2025-01-05, 05:25:38](https://news.ycombinator.com/item?id=42599974) - [Being Functionless: How to Develop a Serverless Mindset to Write Less Code](https://www.infoq.com/articles/functionless-serverless-mindset/)
 * [2025-01-05, 05:24:25](https://news.ycombinator.com/item?id=42599971) - [Hacker gains access to the RP2350 OTP secret by glitching the RISC-V cores](https://www.tomshardware.com/raspberry-pi/it-looks-like-the-raspberry-pi-rp2350-hacking-challenge-has-been-beaten-hacker-gains-access-to-the-otp-secret-by-glitching-the-risc-v-cores-to-enable-debugging)
+* [2025-01-05, 05:22:20](https://news.ycombinator.com/item?id=42599960) - [Discotool: USB Arduino type boards discovery library and tool](https://github.com/Neradoc/discotool)
 * [2025-01-05, 04:09:21](https://news.ycombinator.com/item?id=42599696) - [Blur Busters Open Source Display Initiative – Refresh Cycle Shaders](https://blurbusters.com/blur-busters-open-source-display-initative-refresh-cycle-shaders/)
 * [2025-01-05, 03:47:12](https://news.ycombinator.com/item?id=42599599) - [Guten: A Tiny Newspaper Printer](https://amanvir.com/guten)
 * [2025-01-05, 03:24:51](https://news.ycombinator.com/item?id=42599507) - [GPON FTTH networks (in)security (2016)](https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html#introduction)
