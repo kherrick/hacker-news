@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-01-07](index.md)
 
 * [2025-01-07, 21:06:24](https://news.ycombinator.com/item?id=42627453) - [Magic/tragic email links: don't make them the only option](https://recyclebin.zip/posts/annoyinglinks/)
+* [2025-01-07, 21:03:02](https://news.ycombinator.com/item?id=42627407) - [The Egg, an at Home Nuclear Reactor](https://enron.com/pages/the-egg)
+* [2025-01-07, 20:44:35](https://news.ycombinator.com/item?id=42627227) - [Mistakes engineers make in large established codebases](https://www.seangoedecke.com/large-established-codebases/)
 * [2025-01-07, 20:39:40](https://news.ycombinator.com/item?id=42627170) - [Show HN: I Built an AI Tattoo Generator Using Flux](https://www.tattoopro.ai/)
 * [2025-01-07, 20:33:38](https://news.ycombinator.com/item?id=42627090) - [Online Behavioral Ads Fuel the Surveillance Industry](https://www.eff.org/deeplinks/2025/01/online-behavioral-ads-fuel-surveillance-industry-heres-how)
 * [2025-01-07, 19:37:33](https://news.ycombinator.com/item?id=42626431) - [Microsoft disguises Bing as Google to fool inattentive searchers](https://www.pcworld.com/article/2568916/microsoft-disguises-bing-as-google-to-fool-inattentive-searchers.html)
