@@ -38,6 +38,7 @@
 * [2025-01-06, 15:49:21](https://news.ycombinator.com/item?id=42611540) - [Spline Distance Fields](https://zone.dog/braindump/spline_fields/)
 * [2025-01-06, 15:48:50](https://news.ycombinator.com/item?id=42611536) - [Stimulation Clicker](https://neal.fun/stimulation-clicker/)
 * [2025-01-06, 13:37:58](https://news.ycombinator.com/item?id=42610457) - [A man keeping hope, and 70-year-old pinball machines, alive](https://arstechnica.com/gaming/2025/01/meet-the-man-keeping-hope-and-70-year-old-pinball-machines-alive/)
+* [2025-01-06, 13:06:58](https://news.ycombinator.com/item?id=42610234) - [LLMs and Code Optimization](https://wiredream.com/llm-optimizing-digit-diff/)
 * [2025-01-06, 13:02:01](https://news.ycombinator.com/item?id=42610204) - [Chromebooks still set for scrap, even with 10-year lifecycle](https://www.theregister.com/2025/01/06/chromebook_end_of_life/)
 * [2025-01-06, 12:28:16](https://news.ycombinator.com/item?id=42610007) - [Why are corporations cutting managers?](https://arnoldkling.substack.com/p/why-are-corporations-cutting-managers)
 * [2025-01-06, 12:03:46](https://news.ycombinator.com/item?id=42609865) - [Show HN: SPath is a Rust lib for query JSONPath over any semi-structured data](https://github.com/cratesland/spath)
