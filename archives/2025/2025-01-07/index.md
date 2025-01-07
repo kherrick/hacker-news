@@ -12,6 +12,7 @@
 * [2025-01-07, 17:55:33](https://news.ycombinator.com/item?id=42625229) - [Preventing conflicts in authoritative DNS config using formal verification](https://blog.cloudflare.com/topaz-policy-engine-design/)
 * [2025-01-07, 17:54:41](https://news.ycombinator.com/item?id=42625219) - [Physicists Magnetize a Material with Light](https://news.mit.edu/2024/physicists-magnetize-material-using-light-1218)
 * [2025-01-07, 17:54:28](https://news.ycombinator.com/item?id=42625218) - [You can't optimize your way to being a good person](https://www.vox.com/the-highlight/387570/moral-optimization)
+* [2025-01-07, 17:51:18](https://news.ycombinator.com/item?id=42625193) - [Type 2 Diabetes and cardiovascular disease attributable to sugar beverages](https://www.nature.com/articles/s41591-024-03345-4)
 * [2025-01-07, 17:46:28](https://news.ycombinator.com/item?id=42625139) - [Lenovo Officially Announces the Legion Go S Handheld with SteamOS](https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles/1517395-lenovo-officially-announces-the-legion-go-s-handheld-with-steamos)
 * [2025-01-07, 17:04:32](https://news.ycombinator.com/item?id=42624665) - [Aegypti 0.0.7: Faster Triangle Finding and More](https://pypi.org/project/aegypti)
 * [2025-01-07, 16:24:08](https://news.ycombinator.com/item?id=42624145) - [Yeah, America can still build stuff](https://jabberwocking.com/yeah-america-can-still-build-stuff/)
