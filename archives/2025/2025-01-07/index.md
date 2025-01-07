@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-01-07](index.md)
 
+* [2025-01-07, 21:14:24](https://news.ycombinator.com/item?id=42627567) - [Laid Off in My Career, and Twice in One Year](https://dillonshook.com/laid-off/)
 * [2025-01-07, 21:06:24](https://news.ycombinator.com/item?id=42627453) - [Magic/tragic email links: don't make them the only option](https://recyclebin.zip/posts/annoyinglinks/)
 * [2025-01-07, 21:03:02](https://news.ycombinator.com/item?id=42627407) - [The Egg, an at Home Nuclear Reactor](https://enron.com/pages/the-egg)
+* [2025-01-07, 20:53:44](https://news.ycombinator.com/item?id=42627336) - [Hackers Claim Breach of Location Data Giant, Threaten to Leak Data](https://www.404media.co/hackers-claim-massive-breach-of-location-data-giant-threaten-to-leak-data/)
 * [2025-01-07, 20:44:35](https://news.ycombinator.com/item?id=42627227) - [Mistakes engineers make in large established codebases](https://www.seangoedecke.com/large-established-codebases/)
 * [2025-01-07, 20:39:40](https://news.ycombinator.com/item?id=42627170) - [Show HN: I Built an AI Tattoo Generator Using Flux](https://www.tattoopro.ai/)
 * [2025-01-07, 20:33:38](https://news.ycombinator.com/item?id=42627090) - [Online Behavioral Ads Fuel the Surveillance Industry](https://www.eff.org/deeplinks/2025/01/online-behavioral-ads-fuel-surveillance-industry-heres-how)
