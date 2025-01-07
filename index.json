@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-01-07, 04:16:51",
-      "https://news.ycombinator.com/item?id=42619163"
-    ],
-    [
-      "Nvidia Puts Grace Blackwell on Every Desk and at Every AI Developer's Fingertips",
-      "https://nvidianews.nvidia.com/news/nvidia-puts-grace-blackwell-on-every-desk-and-at-every-ai-developers-fingertips"
-    ]
-  ],
-  [
-    [
       "2025-01-07, 04:14:05",
       "https://news.ycombinator.com/item?id=42619139"
     ],
@@ -41,11 +31,21 @@
   ],
   [
     [
+      "2025-01-07, 01:15:07",
+      "https://news.ycombinator.com/item?id=42618130"
+    ],
+    [
+      "Zig's Comptime Is Bonkers Good",
+      "https://www.scottredig.com/blog/bonkers_comptime/"
+    ]
+  ],
+  [
+    [
       "2025-01-07, 00:07:49",
       "https://news.ycombinator.com/item?id=42617645"
     ],
     [
-      "How I Program with LLMs",
+      "How I program with LLMs",
       "https://crawshaw.io/blog/programming-with-llms"
     ]
   ],
@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2025-01-06, 18:36:29",
-      "https://news.ycombinator.com/item?id=42613671"
-    ],
-    [
-      "C: Simple Defer, Ready to Use",
-      "https://gustedt.wordpress.com/2025/01/06/simple-defer-ready-to-use/"
-    ]
-  ],
-  [
-    [
       "2025-01-06, 18:27:44",
       "https://news.ycombinator.com/item?id=42613537"
     ],
@@ -157,6 +147,26 @@
     [
       "The Future of Htmx",
       "https://htmx.org/essays/future/"
+    ]
+  ],
+  [
+    [
+      "2025-01-06, 17:40:49",
+      "https://news.ycombinator.com/item?id=42612842"
+    ],
+    [
+      "All clocks are 30 seconds late",
+      "https://victorpoughon.fr/all-clocks-are-30-seconds-late/"
+    ]
+  ],
+  [
+    [
+      "2025-01-06, 16:47:53",
+      "https://news.ycombinator.com/item?id=42612211"
+    ],
+    [
+      "Property-Based Testing for the People",
+      "https://repository.upenn.edu/entities/publication/72ca3499-c5f6-4fc1-b5a3-9d66d8dd534e"
     ]
   ],
   [
@@ -211,22 +221,22 @@
   ],
   [
     [
+      "2025-01-06, 09:00:25",
+      "https://news.ycombinator.com/item?id=42608923"
+    ],
+    [
+      "The evolution of a structural code editor",
+      "https://crowdhailer.me/2025-01-02/the-evolution-of-a-structural-code-editor/"
+    ]
+  ],
+  [
+    [
       "2025-01-06, 06:12:31",
       "https://news.ycombinator.com/item?id=42608155"
     ],
     [
       "Uncut Currency",
       "https://www.usmint.gov/paper-currency/uncut-currency/"
-    ]
-  ],
-  [
-    [
-      "2025-01-05, 21:43:03",
-      "https://news.ycombinator.com/item?id=42605305"
-    ],
-    [
-      "The world of 1930s public health posters",
-      "https://worldhistory.substack.com/p/brush-your-teeth-drink-milk-and-watch"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Parallel-hashmap: drop-in replacement for unordered_map, unordered_set",
       "https://github.com/greg7mdp/parallel-hashmap"
-    ]
-  ],
-  [
-    [
-      "2025-01-05, 15:13:45",
-      "https://news.ycombinator.com/item?id=42602273"
-    ],
-    [
-      "How Do You Like What You've Built?",
-      "https://morrisbrodersen.de/how-do-you-like-what-you-built/"
     ]
   ],
   [
