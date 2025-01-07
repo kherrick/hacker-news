@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-07](index.md)
 
+* [2025-01-07, 17:04:32](https://news.ycombinator.com/item?id=42624665) - [Aegypti 0.0.7: Faster Triangle Finding and More](https://pypi.org/project/aegypti)
 * [2025-01-07, 16:24:08](https://news.ycombinator.com/item?id=42624145) - [Yeah, America can still build stuff](https://jabberwocking.com/yeah-america-can-still-build-stuff/)
 * [2025-01-07, 16:22:09](https://news.ycombinator.com/item?id=42624116) - [Show HN: Tramway SDK – The Unholy Union Between Half-Life and Morrowind Engines](https://racenis.github.io/tram-sdk/why.html)
 * [2025-01-07, 16:17:22](https://news.ycombinator.com/item?id=42624048) - [The Patterns of Barricelli (2024)](https://akkartik.name/post/2024-08-30-devlog)
@@ -19,6 +20,7 @@
 * [2025-01-07, 10:00:08](https://news.ycombinator.com/item?id=42620994) - [AI and Startup Moats](https://unzip.dev/0x01f-ai-and-startup-moats/)
 * [2025-01-07, 09:07:47](https://news.ycombinator.com/item?id=42620700) - [Exploring Emergent \"Self-Awareness\" in Claude 3.5](https://github.com/andybrandt/conscious-claude)
 * [2025-01-07, 09:00:55](https://news.ycombinator.com/item?id=42620656) - [First time a Blender-made production has won the Golden Globe](https://variety.com/2025/film/columns/flow-golden-globe-win-independent-animation-1236266805/)
+* [2025-01-07, 08:41:27](https://news.ycombinator.com/item?id=42620555) - [A feature-rich Hacker News client](https://github.com/Livinglist/Hacki)
 * [2025-01-07, 07:45:42](https://news.ycombinator.com/item?id=42620278) - [Stay Gold, America](https://blog.codinghorror.com/)
 * [2025-01-07, 07:27:04](https://news.ycombinator.com/item?id=42620191) - [Alcohol-free booze is becoming big business](https://www.economist.com/business/2025/01/06/alcohol-free-booze-is-becoming-big-business)
 * [2025-01-07, 07:01:03](https://news.ycombinator.com/item?id=42620053) - [Axiom.ai (YC W21) Is Hiring a Contract Web Designer (Remote)](https://www.ycombinator.com/companies/axiom-ai/jobs/DckIVG6-contract-web-designer)
