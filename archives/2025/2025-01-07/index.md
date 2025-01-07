@@ -6,7 +6,9 @@
 
 * [2025-01-07, 18:49:42](https://news.ycombinator.com/item?id=42625840) - [OmniAI (YC W24) Hiring Engineers to Build Open Source Document Extraction](https://www.ycombinator.com/companies/omniai/jobs/LG5jeP2-full-stack-engineer)
 * [2025-01-07, 18:19:00](https://news.ycombinator.com/item?id=42625497) - [AI Startup Anthropic Raising Funding Valuing It at $60B](https://www.wsj.com/tech/ai/ai-startup-anthropic-raising-funding-valuing-it-at-60-billion-19d0605a)
+* [2025-01-07, 18:08:29](https://news.ycombinator.com/item?id=42625372) - [PostgreSQL Support for Certificate Transparency Logs Now Available](https://blog.transparency.dev/postgresql-support-for-certificate-transparency-logs-released)
 * [2025-01-07, 18:05:43](https://news.ycombinator.com/item?id=42625350) - [Red Hat in-vehicle OS hits key milestone towards Functional Safety Certification](https://www.redhat.com/en/about/press-releases/red-hat-reaches-key-milestone-push-functional-safety-certification-red-hat-vehicle-operating-system)
+* [2025-01-07, 17:59:20](https://news.ycombinator.com/item?id=42625274) - [In a cold day of late winter a new search experience came out](http://lexy.uno)
 * [2025-01-07, 17:55:33](https://news.ycombinator.com/item?id=42625229) - [Preventing conflicts in authoritative DNS config using formal verification](https://blog.cloudflare.com/topaz-policy-engine-design/)
 * [2025-01-07, 17:54:41](https://news.ycombinator.com/item?id=42625219) - [Physicists Magnetize a Material with Light](https://news.mit.edu/2024/physicists-magnetize-material-using-light-1218)
 * [2025-01-07, 17:54:28](https://news.ycombinator.com/item?id=42625218) - [You can't optimize your way to being a good person](https://www.vox.com/the-highlight/387570/moral-optimization)
