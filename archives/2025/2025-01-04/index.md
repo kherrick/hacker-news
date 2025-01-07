@@ -47,6 +47,7 @@
 * [2025-01-04, 02:53:26](https://news.ycombinator.com/item?id=42591916) - [Meta scrambles to delete its own AI accounts after backlash intensifies](https://www.rnz.co.nz/news/world/538152/meta-scrambles-to-delete-its-own-ai-accounts-after-backlash-intensifies)
 * [2025-01-04, 02:35:58](https://news.ycombinator.com/item?id=42591818) - [The INVENTION OF BATTLEZONE And how the U.S. Army hijacked the videogame (2022)](https://spectrum.ieee.org/battlezone)
 * [2025-01-04, 02:21:53](https://news.ycombinator.com/item?id=42591727) - [RailsConf 2025 will be the last gathering of its kind](https://rubycentral.org/news/announcing-railsconf-2025-and-a-new-chapter-for-ruby-central-events/)
+* [2025-01-04, 02:02:22](https://news.ycombinator.com/item?id=42591613) - [Inside the hands-on lab of an experimental archaeologist](https://arstechnica.com/science/2025/01/inside-the-hands-on-lab-of-an-experimental-archaeologist/)
 * [2025-01-04, 01:10:57](https://news.ycombinator.com/item?id=42591291) - [Show HN: I aggregated over 200 Go-To-Market strategies](https://fellowry.com/)
 * [2025-01-04, 01:01:55](https://news.ycombinator.com/item?id=42591221) - [Why I'm quitting the Washington Post](https://anntelnaes.substack.com/p/why-im-quitting-the-washington-post)
 * [2025-01-04, 00:34:01](https://news.ycombinator.com/item?id=42591029) - [The State of Generative Models](https://nrehiew.github.io/blog/2024/)
