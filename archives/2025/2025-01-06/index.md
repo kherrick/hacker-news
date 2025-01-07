@@ -58,6 +58,7 @@
 * [2025-01-06, 07:11:00](https://news.ycombinator.com/item?id=42608436) - [Lord of the Io_uring](https://unixism.net/loti/index.html)
 * [2025-01-06, 07:01:13](https://news.ycombinator.com/item?id=42608384) - [Supabase (YC S20) Is Hiring for Multiple Roles (Remote)](https://supabase.com/careers)
 * [2025-01-06, 06:12:31](https://news.ycombinator.com/item?id=42608155) - [US Mint sheets of uncut currency](https://www.usmint.gov/paper-currency/uncut-currency/)
+* [2025-01-06, 06:01:44](https://news.ycombinator.com/item?id=42608107) - [Ask HN: Have you ever seen a pathfinding algorithm of this type?](https://blog.breathingworld.com/research-on-a-new-method-of-pathfinding-algorithm-for-performance-improvement/)
 * [2025-01-06, 05:24:00](https://news.ycombinator.com/item?id=42607934) - [IPv6-only Network based on Jool](https://taoshu.in/unix/jool-nat64.html)
 * [2025-01-06, 04:53:53](https://news.ycombinator.com/item?id=42607794) - [Doom, the Gallery Experience](https://bobatealee.itch.io/doom-the-gallery-experience)
 * [2025-01-06, 04:29:50](https://news.ycombinator.com/item?id=42607682) - [Show HN: I made it easy to create invoices](https://www.invoicefast.io)
