@@ -8,6 +8,7 @@
 * [2025-01-04, 23:30:37](https://news.ycombinator.com/item?id=42598458) - [University of Alabama Engineer Pioneers New Process for Recycling Plastics](https://news.ua.edu/2024/10/ua-chemical-engineer-plastic-recycling/)
 * [2025-01-04, 20:24:14](https://news.ycombinator.com/item?id=42597428) - [Show HN: Signify – FOSS tool to generate Email signatures (HTML and PNG)](https://signify.difuse.io)
 * [2025-01-04, 20:19:07](https://news.ycombinator.com/item?id=42597395) - [The Begining of the End for ANT+ Wireless](https://www.dcrainmaker.com/2025/01/the-begining-of-the-end-for-ant-wireless.html)
+* [2025-01-04, 20:17:11](https://news.ycombinator.com/item?id=42597382) - [First Live Birth Using Fertilo Procedure That Matures Eggs Outside the Body](https://www.businesswire.com/news/home/20241216400051/en/Gameto-Announces-World%E2%80%99s-First-Live-Birth-Using-Fertilo-Procedure-that-Matures-Eggs-Outside-the-Body)
 * [2025-01-04, 20:02:29](https://news.ycombinator.com/item?id=42597283) - [Labwc: Wlroots-based window-stacking compositor for Wayland, inspired by openbox](https://labwc.github.io/)
 * [2025-01-04, 19:23:43](https://news.ycombinator.com/item?id=42596983) - [ELKS: Linux for 16-bit Intel Processors](https://github.com/ghaerr/elks)
 * [2025-01-04, 19:01:22](https://news.ycombinator.com/item?id=42596843) - [Killing Orson Welles at Midnight (2011)](https://www.nybooks.com/articles/2011/04/28/killing-orson-welles-midnight/)
