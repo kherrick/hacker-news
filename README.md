@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-07, 16:24:08](https://news.ycombinator.com/item?id=42624145) - [Yeah, America can still build stuff](https://jabberwocking.com/yeah-america-can-still-build-stuff/)
 * [2025-01-07, 16:22:09](https://news.ycombinator.com/item?id=42624116) - [Show HN: Tramway SDK – The Unholy Union Between Half-Life and Morrowind Engines](https://racenis.github.io/tram-sdk/why.html)
 * [2025-01-07, 16:17:22](https://news.ycombinator.com/item?id=42624048) - [The Patterns of Barricelli (2024)](https://akkartik.name/post/2024-08-30-devlog)
 * [2025-01-07, 15:55:28](https://news.ycombinator.com/item?id=42623742) - [PCalc, an Origin Story (2012)](https://www.pcalc.com/mac/twenty.html)
@@ -25,6 +24,7 @@
 * [2025-01-06, 11:10:01](https://news.ycombinator.com/item?id=42609595) - [Time-Series Anomaly Detection: A Decade Review](https://arxiv.org/abs/2412.20512)
 * [2025-01-06, 09:00:25](https://news.ycombinator.com/item?id=42608923) - [The evolution of a structural code editor](https://crowdhailer.me/2025-01-02/the-evolution-of-a-structural-code-editor/)
 * [2025-01-05, 21:08:47](https://news.ycombinator.com/item?id=42605057) - [Battle Scenes depicted in moving pictures before CGI](https://battlefieldanomalies.com/category-general/battle-scenes-depicted-in-moving-pictures-before-c-g-i/)
+* [2025-01-05, 17:54:22](https://news.ycombinator.com/item?id=42603511) - [The Rise of the French Fry Cartel](https://jacobin.com/2025/01/french-fry-price-fixing-antitrust/)
 * [2025-01-05, 17:13:34](https://news.ycombinator.com/item?id=42603199) - [Parallel-hashmap: drop-in replacement for unordered_map, unordered_set](https://github.com/greg7mdp/parallel-hashmap)
 * [2025-01-05, 11:13:42](https://news.ycombinator.com/item?id=42601035) - [Size Optimization Tricks (2022)](https://justine.lol/sizetricks/)
 * [2025-01-04, 16:49:42](https://news.ycombinator.com/item?id=42595832) - [High-resolution genomic history of early medieval Europe](https://www.nature.com/articles/s41586-024-08275-2)
