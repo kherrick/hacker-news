@@ -11,6 +11,7 @@
 * [2025-01-05, 21:43:03](https://news.ycombinator.com/item?id=42605305) - [Brush Your Teeth, Drink Milk, and Watch Out for Syphilis](https://worldhistory.substack.com/p/brush-your-teeth-drink-milk-and-watch)
 * [2025-01-05, 21:27:25](https://news.ycombinator.com/item?id=42605201) - [SrsRAN: Open-Source 4G/5G](https://github.com/srsran)
 * [2025-01-05, 21:20:07](https://news.ycombinator.com/item?id=42605143) - [Corvus Robotics (YC S18) is hiring a Head of Software to help inventory drones](https://news.ycombinator.com/item?id=42605143)
+* [2025-01-05, 21:08:47](https://news.ycombinator.com/item?id=42605057) - [Battle Scenes depicted in moving pictures before CGI](https://battlefieldanomalies.com/category-general/battle-scenes-depicted-in-moving-pictures-before-c-g-i/)
 * [2025-01-05, 20:52:13](https://news.ycombinator.com/item?id=42604924) - [Myth of Meritocracy](https://en.wikipedia.org/wiki/Myth_of_meritocracy)
 * [2025-01-05, 20:32:52](https://news.ycombinator.com/item?id=42604785) - [Magna: Embedding similarity search tool for searching within large documents](https://github.com/yousef-rafat/Magna)
 * [2025-01-05, 19:58:39](https://news.ycombinator.com/item?id=42604529) - [Ask HN: Favorite Blog in 2024?](https://news.ycombinator.com/item?id=42604529)
