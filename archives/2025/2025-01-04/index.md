@@ -16,6 +16,7 @@
 * [2025-01-04, 15:33:37](https://news.ycombinator.com/item?id=42595307) - [US newspapers are deleting old crime stories, offering subjects a 'clean slate'](https://www.theguardian.com/us-news/2025/jan/04/newspaper-crime-stories)
 * [2025-01-04, 15:18:13](https://news.ycombinator.com/item?id=42595190) - [Combining 15s interval whole-sky-camera photos to form a 4y spanning keogram](https://astrodon.social/@cgbassa/113770318993975063)
 * [2025-01-04, 14:37:52](https://news.ycombinator.com/item?id=42594896) - [Show HN: Pretty-print your chess games using Prettier](https://github.com/gmasclet/prettier-plugin-pgn)
+* [2025-01-04, 14:31:24](https://news.ycombinator.com/item?id=42594851) - [Chimpanzees' stone tool choices may mirror ancient human ancestors' techniques](https://phys.org/news/2025-01-chimpanzees-stone-tool-choices-mirror.html)
 * [2025-01-04, 14:31:15](https://news.ycombinator.com/item?id=42594850) - [This Year, RISC-V Laptops Arrive](https://spectrum.ieee.org/risc-v-laptops)
 * [2025-01-04, 14:13:16](https://news.ycombinator.com/item?id=42594766) - [A Mole Infiltrated the Highest Ranks of American Militias](https://www.propublica.org/article/ap3-oath-keepers-militia-mole)
 * [2025-01-04, 14:10:44](https://news.ycombinator.com/item?id=42594750) - [MoonBit: First Look at New Language Through Building WASM Back End](https://blog.vigoo.dev/posts/moonbit-with-golem/)

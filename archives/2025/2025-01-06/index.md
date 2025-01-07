@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-06](index.md)
 
+* [2025-01-06, 23:05:36](https://news.ycombinator.com/item?id=42617125) - [Coinage and the Tyranny of Fantasy 'Gold'](https://acoup.blog/2025/01/03/collections-coinage-and-the-tyranny-of-fantasy-gold/)
+* [2025-01-06, 22:53:01](https://news.ycombinator.com/item?id=42617005) - [Amidst the Noise and Haste, Google Has Successfully Pulled a SpaceX](https://markmaunder.com/2025/amidst-the-noise-and-haste-google-has-successfully-pulled-a-spacex/)
 * [2025-01-06, 22:22:59](https://news.ycombinator.com/item?id=42616700) - [NYC Congestion Pricing](https://www.congestion-pricing-tracker.com/)
 * [2025-01-06, 22:22:58](https://news.ycombinator.com/item?id=42616699) - [I Live My Life a Quarter Century at a Time](https://tla.systems/blog/2025/01/04/i-live-my-life-a-quarter-century-at-a-time/)
 * [2025-01-06, 22:03:59](https://news.ycombinator.com/item?id=42616487) - [2DGD_F0TH A compendium of the community knowledge on game design and development](https://github.com/2DGD-F0TH/2DGD_F0TH)
