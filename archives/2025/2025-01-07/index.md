@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-07](index.md)
 
+* [2025-01-07, 04:14:05](https://news.ycombinator.com/item?id=42619139) - [Nvidia's Project Digits is a 'personal AI supercomputer'](https://techcrunch.com/2025/01/06/nvidias-project-digits-is-a-personal-ai-computer/)
 * [2025-01-07, 03:28:33](https://news.ycombinator.com/item?id=42618849) - [Nvidia Blackwell GeForce RTX 50 Series Opens New World of AI Computer Graphics](https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics)
 * [2025-01-07, 03:12:11](https://news.ycombinator.com/item?id=42618761) - [Nvidia announces next-gen RTX 5090 and RTX 5080 GPUs](https://www.theverge.com/2025/1/6/24337396/nvidia-rtx-5080-5090-5070-ti-5070-price-release-date)
 * [2025-01-07, 02:48:15](https://news.ycombinator.com/item?id=42618625) - [Roman Empire's use of lead lowered IQ levels across Europe, study finds](https://www.theguardian.com/science/2025/jan/06/roman-empires-use-of-lead-lowered-iq-levels-across-europe-study-finds)

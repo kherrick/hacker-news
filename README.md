@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-07, 04:14:05](https://news.ycombinator.com/item?id=42619139) - [Nvidia's Project Digits is a 'personal AI supercomputer'](https://techcrunch.com/2025/01/06/nvidias-project-digits-is-a-personal-ai-computer/)
 * [2025-01-07, 03:28:33](https://news.ycombinator.com/item?id=42618849) - [Nvidia Blackwell GeForce RTX 50 Series Opens New World of AI Computer Graphics](https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics)
 * [2025-01-07, 03:12:11](https://news.ycombinator.com/item?id=42618761) - [Nvidia announces next-gen RTX 5090 and RTX 5080 GPUs](https://www.theverge.com/2025/1/6/24337396/nvidia-rtx-5080-5090-5070-ti-5070-price-release-date)
 * [2025-01-07, 02:48:15](https://news.ycombinator.com/item?id=42618625) - [Roman Empire's use of lead lowered IQ levels across Europe, study finds](https://www.theguardian.com/science/2025/jan/06/roman-empires-use-of-lead-lowered-iq-levels-across-europe-study-finds)
@@ -23,7 +24,6 @@
 * [2025-01-06, 11:10:01](https://news.ycombinator.com/item?id=42609595) - [Time-Series Anomaly Detection: A Decade Review](https://arxiv.org/abs/2412.20512)
 * [2025-01-06, 06:12:31](https://news.ycombinator.com/item?id=42608155) - [Uncut Currency](https://www.usmint.gov/paper-currency/uncut-currency/)
 * [2025-01-06, 02:55:33](https://news.ycombinator.com/item?id=42607151) - [Apple squandered the Holy Grail](https://xeiaso.net/blog/2025/squandered-holy-grail/)
-* [2025-01-05, 21:43:03](https://news.ycombinator.com/item?id=42605305) - [The world of 1930s public health posters](https://worldhistory.substack.com/p/brush-your-teeth-drink-milk-and-watch)
 * [2025-01-05, 18:23:11](https://news.ycombinator.com/item?id=42603767) - [Edwin Cohn and the Harvard Blood Factory](https://www.asimov.press/p/cohn)
 * [2025-01-05, 15:13:45](https://news.ycombinator.com/item?id=42602273) - [How Do You Like What You've Built?](https://morrisbrodersen.de/how-do-you-like-what-you-built/)
 * [2025-01-05, 05:22:20](https://news.ycombinator.com/item?id=42599960) - [Discotool: USB Arduino type boards discovery library and tool](https://github.com/Neradoc/discotool)
