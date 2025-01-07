@@ -13,6 +13,7 @@
 * [2025-01-07, 15:12:05](https://news.ycombinator.com/item?id=42623163) - [Google is building its own 'world modeling' AI team for games and robot training](https://www.theverge.com/2025/1/7/24338053/google-deepmind-world-modeling-ai-team-gaming-robot-training)
 * [2025-01-07, 15:09:47](https://news.ycombinator.com/item?id=42623144) - [Federal Reserve Bank of NY \"Doomsday Book\" 2022 via FOIA [pdf]](https://www.crisesnotes.com/content/files/2023/12/NYFRB-2006.--Doomsday-Book--Searchable.pdf)
 * [2025-01-07, 12:39:37](https://news.ycombinator.com/item?id=42621766) - [Building Ultra Long Range Toslink](https://blog.benjojo.co.uk/post/sfp-experiment-ultra-long-range-toslink)
+* [2025-01-07, 12:15:22](https://news.ycombinator.com/item?id=42621627) - [Ending our third party fact-checking program and moving to Community Notes model](https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/)
 * [2025-01-07, 12:00:55](https://news.ycombinator.com/item?id=42621546) - [Jiga (YC W21) Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-remote-full-stack-engineer-react-node-mongo)
 * [2025-01-07, 12:00:33](https://news.ycombinator.com/item?id=42621544) - [Getty Images and Shutterstock to Merge](https://newsroom.gettyimages.com/en/getty-images/getty-images-and-shutterstock-to-merge-creating-a-premier-visual-content-company)
 * [2025-01-07, 11:28:20](https://news.ycombinator.com/item?id=42621399) - [Bog Standard (2005)](https://www.bbc.co.uk/worldservice/learningenglish/radio/specials/1728_uptodate/page25.shtml)
