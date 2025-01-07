@@ -12,6 +12,7 @@
 * [2025-01-07, 09:07:47](https://news.ycombinator.com/item?id=42620700) - [Exploring Emergent \"Self-Awareness\" in Claude 3.5](https://github.com/andybrandt/conscious-claude)
 * [2025-01-07, 09:00:55](https://news.ycombinator.com/item?id=42620656) - [First time a Blender-made production has won the Golden Globe](https://variety.com/2025/film/columns/flow-golden-globe-win-independent-animation-1236266805/)
 * [2025-01-07, 07:45:42](https://news.ycombinator.com/item?id=42620278) - [Stay Gold, America](https://blog.codinghorror.com/)
+* [2025-01-07, 07:27:04](https://news.ycombinator.com/item?id=42620191) - [Alcohol-free booze is becoming big business](https://www.economist.com/business/2025/01/06/alcohol-free-booze-is-becoming-big-business)
 * [2025-01-07, 07:01:03](https://news.ycombinator.com/item?id=42620053) - [Axiom.ai (YC W21) Is Hiring a Contract Web Designer (Remote)](https://www.ycombinator.com/companies/axiom-ai/jobs/DckIVG6-contract-web-designer)
 * [2025-01-07, 05:53:27](https://news.ycombinator.com/item?id=42619695) - [Y2K – why I know it was a real problem (2015)](https://clarotesting.wordpress.com/2015/01/12/y2k-why-i-know-it-was-a-real-problem/)
 * [2025-01-07, 05:46:11](https://news.ycombinator.com/item?id=42619652) - [Playing Chess with 84,688 Regular Expressions](https://nicholas.carlini.com/writing/2025/regex-chess.html)

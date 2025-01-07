@@ -57,6 +57,7 @@
 * [2025-01-03, 13:15:22](https://news.ycombinator.com/item?id=42585377) - [Time to check if you ran any of these 33 malicious Chrome extensions](https://arstechnica.com/security/2025/01/dozens-of-backdoored-chrome-extensions-discovered-on-2-6-million-devices/)
 * [2025-01-03, 13:08:08](https://news.ycombinator.com/item?id=42585332) - [Oral history of Caroline Rose, writer of Inside Macintosh (2023) [video]](https://www.youtube.com/watch?v=RikO_3jedlY)
 * [2025-01-03, 12:51:48](https://news.ycombinator.com/item?id=42585221) - [My approach to running a link blog](https://simonwillison.net/2024/Dec/22/link-blog/)
+* [2025-01-03, 12:42:11](https://news.ycombinator.com/item?id=42585167) - [USB On-The-Go](https://computer.rip/2024-01-06-usb-on-the-go.html)
 * [2025-01-03, 12:37:43](https://news.ycombinator.com/item?id=42585130) - [Digital Homeownership](https://blog.muni.town/digital-homeownership/)
 * [2025-01-03, 12:23:22](https://news.ycombinator.com/item?id=42585025) - [TiDB – cloud-native, distributed SQL database written in Go](https://github.com/pingcap/tidb)
 * [2025-01-03, 12:20:27](https://news.ycombinator.com/item?id=42585009) - [Show HN: I completed shipping my desktop app](https://pimosa.app/)
