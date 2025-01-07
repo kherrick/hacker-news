@@ -15,6 +15,7 @@
 * [2025-01-04, 18:25:39](https://news.ycombinator.com/item?id=42596607) - [Show HN: Open Rewind – POC for audio and screen and video streaming to S3](https://github.com/janwilmake/efficient-recorder)
 * [2025-01-04, 18:01:39](https://news.ycombinator.com/item?id=42596450) - [A Return to Polymathy (2015) [pdf]](https://paulrcohen.github.io/papers/Polymathy.pdf)
 * [2025-01-04, 17:01:24](https://news.ycombinator.com/item?id=42595940) - [Infisical (YC W23) Is Hiring Solutions Engineers](https://www.ycombinator.com/companies/infisical/jobs/yaEvock-solutions-engineer)
+* [2025-01-04, 16:49:42](https://news.ycombinator.com/item?id=42595832) - [High-resolution genomic history of early medieval Europe](https://www.nature.com/articles/s41586-024-08275-2)
 * [2025-01-04, 15:33:37](https://news.ycombinator.com/item?id=42595307) - [US newspapers are deleting old crime stories, offering subjects a 'clean slate'](https://www.theguardian.com/us-news/2025/jan/04/newspaper-crime-stories)
 * [2025-01-04, 15:18:13](https://news.ycombinator.com/item?id=42595190) - [Combining 15s interval whole-sky-camera photos to form a 4y spanning keogram](https://astrodon.social/@cgbassa/113770318993975063)
 * [2025-01-04, 14:37:52](https://news.ycombinator.com/item?id=42594896) - [Show HN: Pretty-print your chess games using Prettier](https://github.com/gmasclet/prettier-plugin-pgn)
