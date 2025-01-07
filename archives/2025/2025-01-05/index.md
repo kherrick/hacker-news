@@ -18,6 +18,7 @@
 * [2025-01-05, 18:31:45](https://news.ycombinator.com/item?id=42603830) - [There are different sorts of WireGuard setups with different difficulties](https://utcc.utoronto.ca/~cks/space/blog/tech/WireGuardSetupTypes)
 * [2025-01-05, 18:23:11](https://news.ycombinator.com/item?id=42603767) - [Edwin Cohn and the Harvard Blood Factory](https://www.asimov.press/p/cohn)
 * [2025-01-05, 18:02:20](https://news.ycombinator.com/item?id=42603585) - [Akamai to shut down its CDN operations in China](https://content.akamai.com/index.php/email/emailWebview?email=NjQyLVNLTi00NDkAAAGWBQgHSPFMp0ow2aF67IAbDOB0c1pNppYjWH8ZCkGxrVi4pDs7pT_120NiLvARghhVOBbaIJqps_3Ii2OZlixo3IPjhpR79JsTe-0&trk=comments_comments-list_comment-text)
+* [2025-01-05, 17:54:22](https://news.ycombinator.com/item?id=42603511) - [The Rise of the French Fry Cartel](https://jacobin.com/2025/01/french-fry-price-fixing-antitrust/)
 * [2025-01-05, 17:38:59](https://news.ycombinator.com/item?id=42603395) - [United Airlines to launch Starlink Wi-Fi in spring 2025](https://www.techinasia.com/news/united-airlines-launch-starlink-wifi-spring-2025)
 * [2025-01-05, 17:24:31](https://news.ycombinator.com/item?id=42603292) - [Help! Politics Blog Cloudflare Subpoena](https://news.ycombinator.com/item?id=42603292)
 * [2025-01-05, 17:13:34](https://news.ycombinator.com/item?id=42603199) - [Parallel-hashmap: drop-in replacement for unordered_map, unordered_set](https://github.com/greg7mdp/parallel-hashmap)
