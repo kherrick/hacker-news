@@ -31,21 +31,11 @@
   ],
   [
     [
-      "2025-01-07, 05:53:27",
-      "https://news.ycombinator.com/item?id=42619695"
-    ],
-    [
-      "Y2K – why I know it was a real problem (2015)",
-      "https://clarotesting.wordpress.com/2015/01/12/y2k-why-i-know-it-was-a-real-problem/"
-    ]
-  ],
-  [
-    [
       "2025-01-07, 05:46:11",
       "https://news.ycombinator.com/item?id=42619652"
     ],
     [
-      "Playing Chess with 84,688 Regular Expressions",
+      "A 2-ply minimax chess engine in 84,688 regular expressions",
       "https://nicholas.carlini.com/writing/2025/regex-chess.html"
     ]
   ],
@@ -187,6 +177,16 @@
     [
       "All clocks are 30 seconds late",
       "https://victorpoughon.fr/all-clocks-are-30-seconds-late/"
+    ]
+  ],
+  [
+    [
+      "2025-01-06, 16:47:53",
+      "https://news.ycombinator.com/item?id=42612211"
+    ],
+    [
+      "Property-Based Testing for the People",
+      "https://repository.upenn.edu/entities/publication/72ca3499-c5f6-4fc1-b5a3-9d66d8dd534e"
     ]
   ],
   [
