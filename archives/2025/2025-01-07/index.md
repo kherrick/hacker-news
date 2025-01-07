@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-01-07](index.md)
 
+* [2025-01-07, 21:06:24](https://news.ycombinator.com/item?id=42627453) - [Magic/tragic email links: don't make them the only option](https://recyclebin.zip/posts/annoyinglinks/)
+* [2025-01-07, 20:39:40](https://news.ycombinator.com/item?id=42627170) - [Show HN: I Built an AI Tattoo Generator Using Flux](https://www.tattoopro.ai/)
+* [2025-01-07, 20:33:38](https://news.ycombinator.com/item?id=42627090) - [Online Behavioral Ads Fuel the Surveillance Industry](https://www.eff.org/deeplinks/2025/01/online-behavioral-ads-fuel-surveillance-industry-heres-how)
 * [2025-01-07, 19:37:33](https://news.ycombinator.com/item?id=42626431) - [Microsoft disguises Bing as Google to fool inattentive searchers](https://www.pcworld.com/article/2568916/microsoft-disguises-bing-as-google-to-fool-inattentive-searchers.html)
 * [2025-01-07, 18:49:42](https://news.ycombinator.com/item?id=42625840) - [OmniAI (YC W24) Hiring Engineers to Build Open Source Document Extraction](https://www.ycombinator.com/companies/omniai/jobs/LG5jeP2-full-stack-engineer)
 * [2025-01-07, 18:19:00](https://news.ycombinator.com/item?id=42625497) - [AI Startup Anthropic Raising Funding Valuing It at $60B](https://www.wsj.com/tech/ai/ai-startup-anthropic-raising-funding-valuing-it-at-60-billion-19d0605a)
