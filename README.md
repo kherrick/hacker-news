@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-07, 19:37:33](https://news.ycombinator.com/item?id=42626431) - [Microsoft disguises Bing as Google to fool inattentive searchers](https://www.pcworld.com/article/2568916/microsoft-disguises-bing-as-google-to-fool-inattentive-searchers.html)
 * [2025-01-07, 18:49:42](https://news.ycombinator.com/item?id=42625840) - [OmniAI (YC W24) Hiring Engineers to Build Open Source Document Extraction](https://www.ycombinator.com/companies/omniai/jobs/LG5jeP2-full-stack-engineer)
 * [2025-01-07, 18:08:29](https://news.ycombinator.com/item?id=42625372) - [PostgreSQL Support for Certificate Transparency Logs Now Available](https://blog.transparency.dev/postgresql-support-for-certificate-transparency-logs-released)
 * [2025-01-07, 17:59:20](https://news.ycombinator.com/item?id=42625274) - [In a cold day of late winter a new search experience came out](http://lexy.uno)
@@ -26,7 +27,6 @@
 * [2025-01-05, 21:08:47](https://news.ycombinator.com/item?id=42605057) - [Battle Scenes depicted in moving pictures before CGI](https://battlefieldanomalies.com/category-general/battle-scenes-depicted-in-moving-pictures-before-c-g-i/)
 * [2025-01-05, 17:05:01](https://news.ycombinator.com/item?id=42603140) - [Collusion Through Common Leadership – Tech No-Poach Lists [pdf]](https://wwws.law.northwestern.edu/research-faculty/clbe/events/antitrust/documents/prager_collusion_through_common_leadership.pdf)
 * [2025-01-05, 11:13:42](https://news.ycombinator.com/item?id=42601035) - [Size Optimization Tricks (2022)](https://justine.lol/sizetricks/)
-* [2025-01-04, 20:17:11](https://news.ycombinator.com/item?id=42597382) - [First live birth using Fertilo procedure that matures eggs outside the body](https://www.businesswire.com/news/home/20241216400051/en/Gameto-Announces-World%E2%80%99s-First-Live-Birth-Using-Fertilo-Procedure-that-Matures-Eggs-Outside-the-Body)
 * [2025-01-04, 16:49:42](https://news.ycombinator.com/item?id=42595832) - [High-resolution genomic history of early medieval Europe](https://www.nature.com/articles/s41586-024-08275-2)
 * [2025-01-03, 22:51:23](https://news.ycombinator.com/item?id=42590337) - [Choosing an op-amp for your project](https://lcamtuf.substack.com/p/choosing-an-op-amp-for-your-project)
 * [2025-01-03, 12:42:11](https://news.ycombinator.com/item?id=42585167) - [USB On-The-Go](https://computer.rip/2024-01-06-usb-on-the-go.html)
