@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-07, 03:12:11](https://news.ycombinator.com/item?id=42618761) - [Nvidia announces next-gen RTX 5090 and RTX 5080 GPUs](https://www.theverge.com/2025/1/6/24337396/nvidia-rtx-5080-5090-5070-ti-5070-price-release-date)
 * [2025-01-07, 02:48:15](https://news.ycombinator.com/item?id=42618625) - [Roman Empire's use of lead lowered IQ levels across Europe, study finds](https://www.theguardian.com/science/2025/jan/06/roman-empires-use-of-lead-lowered-iq-levels-across-europe-study-finds)
 * [2025-01-07, 00:07:49](https://news.ycombinator.com/item?id=42617645) - [How I Program with LLMs](https://crawshaw.io/blog/programming-with-llms)
-* [2025-01-06, 22:53:01](https://news.ycombinator.com/item?id=42617005) - [Amidst the Noise and Haste, Google Has Successfully Pulled a SpaceX](https://markmaunder.com/2025/amidst-the-noise-and-haste-google-has-successfully-pulled-a-spacex/)
 * [2025-01-06, 22:22:59](https://news.ycombinator.com/item?id=42616700) - [NYC Congestion Pricing Tracker](https://www.congestion-pricing-tracker.com/)
 * [2025-01-06, 22:22:58](https://news.ycombinator.com/item?id=42616699) - [I live my life a quarter century at a time](https://tla.systems/blog/2025/01/04/i-live-my-life-a-quarter-century-at-a-time/)
 * [2025-01-06, 22:03:59](https://news.ycombinator.com/item?id=42616487) - [2DGD_F0TH A compendium of the community knowledge on game design and development](https://github.com/2DGD-F0TH/2DGD_F0TH)
