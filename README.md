@@ -18,7 +18,6 @@
 * [2025-01-06, 18:27:44](https://news.ycombinator.com/item?id=42613537) - [Synthesizing Music from JSON](https://phoboslab.org/log/2025/01/synth)
 * [2025-01-06, 18:05:43](https://news.ycombinator.com/item?id=42613221) - [The Future of Htmx](https://htmx.org/essays/future/)
 * [2025-01-06, 17:40:49](https://news.ycombinator.com/item?id=42612842) - [All clocks are 30 seconds late](https://victorpoughon.fr/all-clocks-are-30-seconds-late/)
-* [2025-01-06, 17:10:46](https://news.ycombinator.com/item?id=42612494) - [3blue1brown YouTube Bitcoin video taken down as copyright violation](https://twitter.com/3blue1brown/status/1876291319955398799)
 * [2025-01-06, 16:47:53](https://news.ycombinator.com/item?id=42612211) - [Property-Based Testing for the People](https://repository.upenn.edu/entities/publication/72ca3499-c5f6-4fc1-b5a3-9d66d8dd534e)
 * [2025-01-06, 15:49:21](https://news.ycombinator.com/item?id=42611540) - [Spline Distance Fields](https://zone.dog/braindump/spline_fields/)
 * [2025-01-06, 15:48:50](https://news.ycombinator.com/item?id=42611536) - [Stimulation Clicker](https://neal.fun/stimulation-clicker/)
@@ -29,6 +28,7 @@
 * [2025-01-05, 17:54:22](https://news.ycombinator.com/item?id=42603511) - [The Rise of the French Fry Cartel](https://jacobin.com/2025/01/french-fry-price-fixing-antitrust/)
 * [2025-01-05, 17:13:34](https://news.ycombinator.com/item?id=42603199) - [Parallel-hashmap: drop-in replacement for unordered_map, unordered_set](https://github.com/greg7mdp/parallel-hashmap)
 * [2025-01-04, 23:32:15](https://news.ycombinator.com/item?id=42598463) - [Soft Metalens for Broadband Ultrasonic Focusing Through Aberration Layers](https://www.nature.com/articles/s41467-024-55022-2)
+* [2025-01-03, 19:12:51](https://news.ycombinator.com/item?id=42588579) - [Postiz – open-source social media scheduler](https://github.com/gitroomhq/postiz-app)
 * [2025-01-03, 09:44:36](https://news.ycombinator.com/item?id=42584178) - [The Art and Science of Mess Management (1981) [pdf]](https://www.systemswisdom.com/sites/default/files/Ackoff-1981-Mess-Management_0.pdf)
 
 ## [Archives](archives/index.md)
