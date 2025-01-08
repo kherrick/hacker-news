@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-08](index.md)
 
 * [2025-01-08, 15:15:29](https://news.ycombinator.com/item?id=42635089) - [An introduction to Plato's Republic (1981)](https://archive.org/details/introductiontopl0000anna)
+* [2025-01-08, 14:47:34](https://news.ycombinator.com/item?id=42634787) - [Show HN: The Atlas of Space](https://atlasof.space/)
 * [2025-01-08, 14:44:57](https://news.ycombinator.com/item?id=42634757) - [Self-driving Tesla steers Calif. tech founder onto train tracks](https://www.sfgate.com/tech/article/tesla-fsd-jesse-lyu-train-20014242.php)
 * [2025-01-08, 14:30:58](https://news.ycombinator.com/item?id=42634624) - [Fidget](https://www.mattkeeter.com/projects/fidget/)
 * [2025-01-08, 13:17:36](https://news.ycombinator.com/item?id=42633868) - [Stop to use words like \"safety\" when they mean \"sanitized\"](https://old.reddit.com/r/StableDiffusion/comments/1hwhizq/we_need_to_stop_allowing_entities_to_coop/)
@@ -16,6 +17,7 @@
 * [2025-01-08, 11:37:19](https://news.ycombinator.com/item?id=42633159) - [Germans turn to balcony solar panels to save money](https://www.france24.com/en/live-news/20250108-germans-turn-to-balcony-solar-panels-to-save-money)
 * [2025-01-08, 11:30:30](https://news.ycombinator.com/item?id=42633128) - [Meta scrapped factcheckers because systems were 'too complex'](https://www.theguardian.com/technology/2025/jan/08/meta-scrapped-factcheckers-because-systems-were-too-complex)
 * [2025-01-08, 11:24:40](https://news.ycombinator.com/item?id=42633093) - [All Garmin Connect services are down](https://connect.garmin.com/status/)
+* [2025-01-08, 11:14:20](https://news.ycombinator.com/item?id=42633035) - [Show HN: Belshazzar's Clock, luminous paint night clock](https://blog.karliner.net/projects/belshazzars-clock/)
 * [2025-01-08, 10:47:17](https://news.ycombinator.com/item?id=42632878) - [Spinal cord injuries from mountain biking exceed hockey, other high-risk sports](https://www.med.ubc.ca/news/spinal-cord-injuries-from-mountain-biking-exceed-hockey-other-high-risk-sports/)
 * [2025-01-08, 10:44:09](https://news.ycombinator.com/item?id=42632865) - [The Comet is a handheld Linux computer that brings extensibility](https://mecha.so/comet)
 * [2025-01-08, 10:22:21](https://news.ycombinator.com/item?id=42632772) - [The Aging Programmer](https://www.youtube.com/watch?v=mVWQQeSOD0M)
