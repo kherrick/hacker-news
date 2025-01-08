@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-08](index.md)
 
+* [2025-01-08, 18:58:58](https://news.ycombinator.com/item?id=42637304) - [Some Programming Language Ideas](https://jerf.org/iri/post/2025/programming_language_ideas/)
 * [2025-01-08, 18:16:37](https://news.ycombinator.com/item?id=42636873) - [NeuralSVG: An Implicit Representation for Text-to-Vector Generation](https://sagipolaczek.github.io/NeuralSVG/)
 * [2025-01-08, 17:04:41](https://news.ycombinator.com/item?id=42636195) - [Why I Am Not Going to Buy a Computer [pdf]](https://classes.matthewjbrown.net/teaching-files/philtech/berry-computer.pdf)
 * [2025-01-08, 17:00:22](https://news.ycombinator.com/item?id=42636150) - [Two Dots (YC S22) Is Hiring ML and Back End Engineers](https://www.ycombinator.com/companies/two-dots/jobs/97PTcHT-machine-learning-engineer)
@@ -13,6 +14,7 @@
 * [2025-01-08, 14:47:34](https://news.ycombinator.com/item?id=42634787) - [Show HN: The Atlas of Space](https://atlasof.space/)
 * [2025-01-08, 14:44:57](https://news.ycombinator.com/item?id=42634757) - [Self-driving Tesla steers Calif. tech founder onto train tracks](https://www.sfgate.com/tech/article/tesla-fsd-jesse-lyu-train-20014242.php)
 * [2025-01-08, 14:30:58](https://news.ycombinator.com/item?id=42634624) - [Fidget](https://www.mattkeeter.com/projects/fidget/)
+* [2025-01-08, 13:18:39](https://news.ycombinator.com/item?id=42633880) - [New questions on Stack Overflow are down 77% compared to 2022](https://gist.github.com/hopeseekr/f522e380e35745bd5bdc3269a9f0b132)
 * [2025-01-08, 13:17:36](https://news.ycombinator.com/item?id=42633868) - [Stop to use words like \"safety\" when they mean \"sanitized\"](https://old.reddit.com/r/StableDiffusion/comments/1hwhizq/we_need_to_stop_allowing_entities_to_coop/)
 * [2025-01-08, 13:11:40](https://news.ycombinator.com/item?id=42633805) - [Robotics 101 at UMich: Applied numerical linear algebra as intro linear algebra](https://robotics.umich.edu/academics/courses/course-offerings/rob101-fall-2020/)
 * [2025-01-08, 12:32:34](https://news.ycombinator.com/item?id=42633501) - [We Cracked a 512-Bit DKIM Key for Less Than $8 in the Cloud](https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key)
