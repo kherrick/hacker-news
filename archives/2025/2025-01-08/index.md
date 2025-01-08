@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-01-08](index.md)
 
+* [2025-01-08, 08:43:18](https://news.ycombinator.com/item?id=42632308) - [Scsh Acknowledgements (1994)](https://scsh.net/docu/html/man.html)
 * [2025-01-08, 07:34:26](https://news.ycombinator.com/item?id=42631959) - [Schola Latina Europæa and Universalis](http://avitus.alcuinus.net/schola_latina/soni_en.php)
 * [2025-01-08, 07:18:50](https://news.ycombinator.com/item?id=42631873) - [Writing an Operating System in 1000 Lines](https://operating-system-in-1000-lines.vercel.app/en)
 * [2025-01-08, 07:00:12](https://news.ycombinator.com/item?id=42631758) - [Tiptap (YC S23) is hiring a senior full stack engineer in EU](https://www.ycombinator.com/companies/tiptap/jobs/ZJhpyYA-senior-full-stack-engineer)
 * [2025-01-08, 06:38:41](https://news.ycombinator.com/item?id=42631629) - [Gate-level simulation of ASIC in browser](https://znah.net/tt09/)
 * [2025-01-08, 06:30:50](https://news.ycombinator.com/item?id=42631594) - [DEF CON's hacker-in-chief faces fortune in medical bills](https://www.theregister.com/2025/01/07/def_con_security_chief_injured/)
+* [2025-01-08, 05:20:28](https://news.ycombinator.com/item?id=42631208) - [Six Sins of Platform Teams](https://serce.me/posts/2025-01-07-six-sins-of-platform-teams)
 * [2025-01-08, 05:12:12](https://news.ycombinator.com/item?id=42631168) - [The U.S. Government Tried Replacing Migrant Farmworkers with Teenagers (2018)](https://www.npr.org/sections/thesalt/2018/07/31/634442195/when-the-u-s-government-tried-to-replace-migrant-farmworkers-with-high-schoolers)
 * [2025-01-08, 04:59:45](https://news.ycombinator.com/item?id=42631098) - [If GPUs Are So Good, Why Do We Still Use CPUs at All?](https://codingstuff.substack.com/p/if-gpus-are-so-good-why-do-we-still)
 * [2025-01-08, 04:18:16](https://news.ycombinator.com/item?id=42630857) - [Bitwarden Is Down](https://status.bitwarden.com)
