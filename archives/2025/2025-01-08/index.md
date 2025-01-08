@@ -6,6 +6,7 @@
 
 * [2025-01-08, 17:04:41](https://news.ycombinator.com/item?id=42636195) - [Why I Am Not Going to Buy a Computer [pdf]](https://classes.matthewjbrown.net/teaching-files/philtech/berry-computer.pdf)
 * [2025-01-08, 17:00:22](https://news.ycombinator.com/item?id=42636150) - [Two Dots (YC S22) Is Hiring ML and Back End Engineers](https://www.ycombinator.com/companies/two-dots/jobs/97PTcHT-machine-learning-engineer)
+* [2025-01-08, 16:54:39](https://news.ycombinator.com/item?id=42636086) - [Bringing SerenityOS to real hardware, one driver at a time](https://sdomi.pl/weblog/23-serenityos-realhw/)
 * [2025-01-08, 15:15:29](https://news.ycombinator.com/item?id=42635089) - [An introduction to Plato's Republic (1981)](https://archive.org/details/introductiontopl0000anna)
 * [2025-01-08, 14:47:34](https://news.ycombinator.com/item?id=42634787) - [Show HN: The Atlas of Space](https://atlasof.space/)
 * [2025-01-08, 14:44:57](https://news.ycombinator.com/item?id=42634757) - [Self-driving Tesla steers Calif. tech founder onto train tracks](https://www.sfgate.com/tech/article/tesla-fsd-jesse-lyu-train-20014242.php)

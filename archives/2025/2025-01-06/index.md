@@ -79,6 +79,7 @@
 * [2025-01-06, 00:57:28](https://news.ycombinator.com/item?id=42606484) - [Global Regulations Enabling 6 GHz Wi-Fi](https://www.wi-fi.org/regulations-enabling-6-ghz-wi-fi)
 * [2025-01-06, 00:57:20](https://news.ycombinator.com/item?id=42606482) - [Why America is stuck with an elevator crisis](https://www.axios.com/2025/01/05/elevators-escalators-regulations-buildings-construction)
 * [2025-01-06, 00:52:24](https://news.ycombinator.com/item?id=42606454) - [Show HN: LogLayer – Unified logger that routes logs to various logging libraries](https://loglayer.dev/)
+* [2025-01-06, 00:48:58](https://news.ycombinator.com/item?id=42606433) - [A Pixel Parable](https://olano.dev/blog/a-pixel-parable/)
 * [2025-01-06, 00:29:35](https://news.ycombinator.com/item?id=42606318) - [Who killed the rave? Late-night dancing falls into global decline](https://www.ft.com/content/2138e940-0c81-44b0-87a7-325f278413e1)
 * [2025-01-06, 00:23:48](https://news.ycombinator.com/item?id=42606285) - [Optimizing uint64_t Digit Counting: A Method that Beats Lemire's by up to 143%](https://github.com/RealTimeChris/BenchmarkSuite/blob/digit-counting/Benchmark/main.cpp)
 * [2025-01-06, 00:14:51](https://news.ycombinator.com/item?id=42606231) - [Killed by LLM](https://r0bk.github.io/killedbyllm/)
