@@ -20,7 +20,6 @@
 * [2025-01-07, 12:39:37](https://news.ycombinator.com/item?id=42621766) - [Building Ultra Long Range Toslink](https://blog.benjojo.co.uk/post/sfp-experiment-ultra-long-range-toslink)
 * [2025-01-07, 12:15:22](https://news.ycombinator.com/item?id=42621627) - [Ending our third party fact-checking program and moving to Community Notes model](https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/)
 * [2025-01-07, 08:43:20](https://news.ycombinator.com/item?id=42620565) - [Hyperview – Native mobile apps, as easy as creating a website](https://hyperview.org/)
-* [2025-01-07, 06:21:05](https://news.ycombinator.com/item?id=42619851) - [SAT Solver Etudes I](https://www.philipzucker.com/python_sat/)
 * [2025-01-06, 22:04:34](https://news.ycombinator.com/item?id=42616495) - [Small Data [video]](https://www.youtube.com/watch?v=eDr6_cMtfdA)
 * [2025-01-06, 16:30:42](https://news.ycombinator.com/item?id=42611971) - [Autocorrect in Your Keyboard Firmware (2021)](https://getreuer.info/posts/keyboards/autocorrection/index.html)
 * [2025-01-06, 15:48:50](https://news.ycombinator.com/item?id=42611536) - [Stimulation Clicker](https://neal.fun/stimulation-clicker/)
@@ -30,6 +29,7 @@
 * [2025-01-05, 17:45:24](https://news.ycombinator.com/item?id=42603443) - [Minimum bipartite matching via Riemann optimization](https://ocramz.github.io/posts/2023-12-21-assignment-riemann-opt.html)
 * [2025-01-05, 17:05:01](https://news.ycombinator.com/item?id=42603140) - [Collusion through Common Leadership [pdf]](https://wwws.law.northwestern.edu/research-faculty/clbe/events/antitrust/documents/prager_collusion_through_common_leadership.pdf)
 * [2025-01-05, 14:21:35](https://news.ycombinator.com/item?id=42601890) - [How to Debounce a Contact (2014)](https://www.ganssle.com/debouncing.htm)
+* [2025-01-04, 21:53:51](https://news.ycombinator.com/item?id=42597962) - [The Evaporative Cooling Effect in Social Networks (2010)](https://blogs.cornell.edu/info2040/2015/10/14/the-evaporative-cooling-effect-in-social-network/)
 
 ## [Archives](archives/index.md)
 
