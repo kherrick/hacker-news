@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2025-01-07, 23:20:43",
-      "https://news.ycombinator.com/item?id=42628934"
-    ],
-    [
-      "Automated accessibility testing at Slack",
-      "https://slack.engineering/automated-accessibility-testing-at-slack/"
-    ]
-  ],
-  [
-    [
       "2025-01-07, 22:25:12",
       "https://news.ycombinator.com/item?id=42628414"
     ],
@@ -231,6 +221,16 @@
   ],
   [
     [
+      "2025-01-07, 10:06:56",
+      "https://news.ycombinator.com/item?id=42621033"
+    ],
+    [
+      "Word Processors on the Commodore VIC-20 (2021)",
+      "https://techtinkering.com/articles/word-processors-on-the-commodore-vic-20/"
+    ]
+  ],
+  [
+    [
       "2025-01-07, 08:43:20",
       "https://news.ycombinator.com/item?id=42620565"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2025-01-05, 20:10:17",
-      "https://news.ycombinator.com/item?id=42604616"
-    ],
-    [
-      "How to generate OpenGraph images with Astro and Satori",
-      "https://skyfall.dev/posts/astro-og-with-satori"
-    ]
-  ],
-  [
-    [
       "2025-01-05, 17:45:24",
       "https://news.ycombinator.com/item?id=42603443"
     ],
     [
       "Minimum bipartite matching via Riemann optimization",
       "https://ocramz.github.io/posts/2023-12-21-assignment-riemann-opt.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-05, 17:11:31",
+      "https://news.ycombinator.com/item?id=42603188"
+    ],
+    [
+      "Expressive Vector Engine – SIMD in C++",
+      "https://github.com/jfalcou/eve"
     ]
   ],
   [
