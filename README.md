@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-08, 18:58:58](https://news.ycombinator.com/item?id=42637304) - [Some Programming Language Ideas](https://jerf.org/iri/post/2025/programming_language_ideas/)
+* [2025-01-08, 18:55:21](https://news.ycombinator.com/item?id=42637267) - [Facebook Is Censoring 404 Media Stories About Facebook's Censorship](https://www.404media.co/facebook-is-censoring-404-media-stories-about-facebooks-censorship/)
 * [2025-01-08, 18:16:37](https://news.ycombinator.com/item?id=42636873) - [NeuralSVG: An Implicit Representation for Text-to-Vector Generation](https://sagipolaczek.github.io/NeuralSVG/)
 * [2025-01-08, 17:00:22](https://news.ycombinator.com/item?id=42636150) - [Two Dots (YC S22) Is Hiring ML and Back End Engineers](https://www.ycombinator.com/companies/two-dots/jobs/97PTcHT-machine-learning-engineer)
 * [2025-01-08, 16:54:39](https://news.ycombinator.com/item?id=42636086) - [Bringing SerenityOS to real hardware, one driver at a time](https://sdomi.pl/weblog/23-serenityos-realhw/)
@@ -18,7 +19,6 @@
 * [2025-01-08, 06:38:41](https://news.ycombinator.com/item?id=42631629) - [Gate-level simulation of ASIC in browser](https://znah.net/tt09/)
 * [2025-01-07, 23:51:43](https://news.ycombinator.com/item?id=42629163) - [A day in the life of a prolific voice phishing crew](https://krebsonsecurity.com/2025/01/a-day-in-the-life-of-a-prolific-voice-phishing-crew/)
 * [2025-01-07, 22:25:12](https://news.ycombinator.com/item?id=42628414) - [Servo Revival: 2023-2024](https://blogs.igalia.com/mrego/servo-revival-2023-2024/)
-* [2025-01-07, 21:06:24](https://news.ycombinator.com/item?id=42627453) - [Magic/tragic email links: don't make them the only option](https://recyclebin.zip/posts/annoyinglinks/)
 * [2025-01-07, 20:20:01](https://news.ycombinator.com/item?id=42626964) - [Streets GL – 3D OpenStreetMap](https://streets.gl/#47.35245,8.50958,21.25,42.00,459.10)
 * [2025-01-07, 15:44:34](https://news.ycombinator.com/item?id=42623593) - [Show HN: HipScript – Run CUDA in the browser with WebAssembly and WebGPU](https://hipscript.lights0123.com/)
 * [2025-01-07, 12:46:02](https://news.ycombinator.com/item?id=42621804) - [Learning Synths](https://learningsynths.ableton.com)
