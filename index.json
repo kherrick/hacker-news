@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=42631873"
     ],
     [
-      "Writing an Operating System in 1000 Lines",
+      "Operating System in 1,000 Lines – Intro",
       "https://operating-system-in-1000-lines.vercel.app/en"
     ]
   ],
@@ -37,16 +37,6 @@
     [
       "DEF CON's hacker-in-chief faces fortune in medical bills",
       "https://www.theregister.com/2025/01/07/def_con_security_chief_injured/"
-    ]
-  ],
-  [
-    [
-      "2025-01-08, 04:18:16",
-      "https://news.ycombinator.com/item?id=42630857"
-    ],
-    [
-      "Bitwarden Was Down",
-      "https://status.bitwarden.com"
     ]
   ],
   [
@@ -171,6 +161,16 @@
   ],
   [
     [
+      "2025-01-07, 12:46:02",
+      "https://news.ycombinator.com/item?id=42621804"
+    ],
+    [
+      "Learning Synths",
+      "https://learningsynths.ableton.com"
+    ]
+  ],
+  [
+    [
       "2025-01-07, 12:39:37",
       "https://news.ycombinator.com/item?id=42621766"
     ],
@@ -211,6 +211,26 @@
   ],
   [
     [
+      "2025-01-06, 22:04:34",
+      "https://news.ycombinator.com/item?id=42616495"
+    ],
+    [
+      "Small Data [video]",
+      "https://www.youtube.com/watch?v=eDr6_cMtfdA"
+    ]
+  ],
+  [
+    [
+      "2025-01-06, 16:30:42",
+      "https://news.ycombinator.com/item?id=42611971"
+    ],
+    [
+      "Autocorrect in Your Keyboard Firmware (2021)",
+      "https://getreuer.info/posts/keyboards/autocorrection/index.html"
+    ]
+  ],
+  [
+    [
       "2025-01-06, 15:48:50",
       "https://news.ycombinator.com/item?id=42611536"
     ],
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2025-01-05, 22:46:13",
-      "https://news.ycombinator.com/item?id=42605718"
-    ],
-    [
-      "Coinage and the Tyranny of Fantasy 'Gold'",
-      "https://acoup.blog/2025/01/03/collections-coinage-and-the-tyranny-of-fantasy-gold/"
-    ]
-  ],
-  [
-    [
       "2025-01-05, 21:43:44",
       "https://news.ycombinator.com/item?id=42605311"
     ],
@@ -275,18 +285,8 @@
       "https://news.ycombinator.com/item?id=42601890"
     ],
     [
-      "A Guide to Debouncing, Or, How to Debounce a Contact, by Jack Ganssle (2014)",
+      "How to Debounce a Contact (2014)",
       "https://www.ganssle.com/debouncing.htm"
-    ]
-  ],
-  [
-    [
-      "2025-01-05, 11:08:16",
-      "https://news.ycombinator.com/item?id=42601013"
-    ],
-    [
-      "How is my Browser blocking RWX execution?",
-      "https://rwxstoned.github.io/2025-01-04-Reviewing-browser-hooks/"
     ]
   ],
   [
