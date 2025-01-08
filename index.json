@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-08, 11:30:30",
+      "https://news.ycombinator.com/item?id=42633128"
+    ],
+    [
+      "Meta scrapped factcheckers because systems were 'too complex'",
+      "https://www.theguardian.com/technology/2025/jan/08/meta-scrapped-factcheckers-because-systems-were-too-complex"
+    ]
+  ],
+  [
+    [
       "2025-01-08, 09:52:53",
       "https://news.ycombinator.com/item?id=42632592"
     ],
@@ -277,16 +287,6 @@
     [
       "Expressive Vector Engine – SIMD in C++",
       "https://github.com/jfalcou/eve"
-    ]
-  ],
-  [
-    [
-      "2025-01-05, 17:05:01",
-      "https://news.ycombinator.com/item?id=42603140"
-    ],
-    [
-      "Collusion through Common Leadership [pdf]",
-      "https://wwws.law.northwestern.edu/research-faculty/clbe/events/antitrust/documents/prager_collusion_through_common_leadership.pdf"
     ]
   ],
   [
