@@ -27,9 +27,9 @@
 * [2025-01-06, 02:18:13](https://news.ycombinator.com/item?id=42606927) - [Fold-... and Monoids](http://funcall.blogspot.com/2025/01/fold-and-monoids.html)
 * [2025-01-06, 00:23:48](https://news.ycombinator.com/item?id=42606285) - [Optimizing uint64_t Digit Counting: A Method that Beats Lemire's by up to 143%](https://github.com/RealTimeChris/BenchmarkSuite/blob/digit-counting/Benchmark/main.cpp)
 * [2025-01-05, 21:43:44](https://news.ycombinator.com/item?id=42605311) - [A video tour of the Standard Model (2021)](https://www.quantamagazine.org/a-video-tour-of-the-standard-model-20210716/)
+* [2025-01-05, 17:45:24](https://news.ycombinator.com/item?id=42603443) - [Minimum bipartite matching via Riemann optimization](https://ocramz.github.io/posts/2023-12-21-assignment-riemann-opt.html)
 * [2025-01-05, 17:05:01](https://news.ycombinator.com/item?id=42603140) - [Collusion through Common Leadership [pdf]](https://wwws.law.northwestern.edu/research-faculty/clbe/events/antitrust/documents/prager_collusion_through_common_leadership.pdf)
 * [2025-01-05, 14:21:35](https://news.ycombinator.com/item?id=42601890) - [How to Debounce a Contact (2014)](https://www.ganssle.com/debouncing.htm)
-* [2025-01-04, 21:53:51](https://news.ycombinator.com/item?id=42597962) - [The Evaporative Cooling Effect in Social Networks (2010)](https://blogs.cornell.edu/info2040/2015/10/14/the-evaporative-cooling-effect-in-social-network/)
 
 ## [Archives](archives/index.md)
 
