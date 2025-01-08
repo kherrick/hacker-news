@@ -15,6 +15,7 @@
 * [2025-01-08, 07:18:50](https://news.ycombinator.com/item?id=42631873) - [Operating System in 1,000 Lines – Intro](https://operating-system-in-1000-lines.vercel.app/en)
 * [2025-01-08, 06:38:41](https://news.ycombinator.com/item?id=42631629) - [Gate-level simulation of ASIC in browser](https://znah.net/tt09/)
 * [2025-01-07, 23:51:43](https://news.ycombinator.com/item?id=42629163) - [A day in the life of a prolific voice phishing crew](https://krebsonsecurity.com/2025/01/a-day-in-the-life-of-a-prolific-voice-phishing-crew/)
+* [2025-01-07, 23:20:43](https://news.ycombinator.com/item?id=42628934) - [Automated accessibility testing at Slack](https://slack.engineering/automated-accessibility-testing-at-slack/)
 * [2025-01-07, 22:25:12](https://news.ycombinator.com/item?id=42628414) - [Servo Revival: 2023-2024](https://blogs.igalia.com/mrego/servo-revival-2023-2024/)
 * [2025-01-07, 21:06:24](https://news.ycombinator.com/item?id=42627453) - [Magic/tragic email links: don't make them the only option](https://recyclebin.zip/posts/annoyinglinks/)
 * [2025-01-07, 20:44:35](https://news.ycombinator.com/item?id=42627227) - [Mistakes engineers make in large established codebases](https://www.seangoedecke.com/large-established-codebases/)
@@ -27,7 +28,6 @@
 * [2025-01-06, 02:18:13](https://news.ycombinator.com/item?id=42606927) - [Fold-... and Monoids](http://funcall.blogspot.com/2025/01/fold-and-monoids.html)
 * [2025-01-05, 20:10:17](https://news.ycombinator.com/item?id=42604616) - [How to generate OpenGraph images with Astro and Satori](https://skyfall.dev/posts/astro-og-with-satori)
 * [2025-01-05, 17:45:24](https://news.ycombinator.com/item?id=42603443) - [Minimum bipartite matching via Riemann optimization](https://ocramz.github.io/posts/2023-12-21-assignment-riemann-opt.html)
-* [2025-01-05, 17:11:31](https://news.ycombinator.com/item?id=42603188) - [Expressive Vector Engine – SIMD in C++](https://github.com/jfalcou/eve)
 * [2025-01-05, 14:21:35](https://news.ycombinator.com/item?id=42601890) - [How to Debounce a Contact (2014)](https://www.ganssle.com/debouncing.htm)
 * [2025-01-04, 22:18:54](https://news.ycombinator.com/item?id=42598097) - [A History of Early Microcontrollers, Part 1: Calculator Chips Came First (2022)](https://www.eejournal.com/article/a-history-of-early-microcontrollers-part-1-calculator-chips-came-first/)
 
