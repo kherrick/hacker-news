@@ -22,7 +22,7 @@
 * [2025-01-07, 12:39:37](https://news.ycombinator.com/item?id=42621766) - [Building Ultra Long Range Toslink](https://blog.benjojo.co.uk/post/sfp-experiment-ultra-long-range-toslink)
 * [2025-01-07, 10:48:49](https://news.ycombinator.com/item?id=42621235) - [Computer Architecture – Michael Flynn (2007)](https://onlinelibrary.wiley.com/doi/full/10.1002/9780470050118.ecse071)
 * [2025-01-07, 10:06:56](https://news.ycombinator.com/item?id=42621033) - [Word Processors on the Commodore VIC-20 (2021)](https://techtinkering.com/articles/word-processors-on-the-commodore-vic-20/)
-* [2025-01-06, 16:30:42](https://news.ycombinator.com/item?id=42611971) - [Autocorrect in Your Keyboard Firmware (2021)](https://getreuer.info/posts/keyboards/autocorrection/index.html)
+* [2025-01-07, 08:43:20](https://news.ycombinator.com/item?id=42620565) - [Hyperview – Native mobile apps, as easy as creating a website](https://hyperview.org/)
 * [2025-01-06, 02:18:13](https://news.ycombinator.com/item?id=42606927) - [Fold-... and Monoids](http://funcall.blogspot.com/2025/01/fold-and-monoids.html)
 * [2025-01-06, 00:29:35](https://news.ycombinator.com/item?id=42606318) - [Who killed the rave? Late-night dancing falls into global decline](https://www.ft.com/content/2138e940-0c81-44b0-87a7-325f278413e1)
 * [2025-01-05, 18:23:11](https://news.ycombinator.com/item?id=42603767) - [Edwin Cohn and the Harvard Blood Factory](https://www.asimov.press/p/cohn)
