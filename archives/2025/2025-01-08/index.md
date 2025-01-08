@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-08](index.md)
 
+* [2025-01-08, 07:18:50](https://news.ycombinator.com/item?id=42631873) - [Writing an Operating System in 1000 Lines](https://operating-system-in-1000-lines.vercel.app/en)
 * [2025-01-08, 07:00:12](https://news.ycombinator.com/item?id=42631758) - [Tiptap (YC S23) is hiring a senior full stack engineer in EU](https://www.ycombinator.com/companies/tiptap/jobs/ZJhpyYA-senior-full-stack-engineer)
 * [2025-01-08, 06:38:41](https://news.ycombinator.com/item?id=42631629) - [Gate-level simulation of ASIC in browser](https://znah.net/tt09/)
 * [2025-01-08, 06:30:50](https://news.ycombinator.com/item?id=42631594) - [DEF CON's hacker-in-chief faces fortune in medical bills](https://www.theregister.com/2025/01/07/def_con_security_chief_injured/)

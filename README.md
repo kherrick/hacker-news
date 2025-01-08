@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-08, 07:18:50](https://news.ycombinator.com/item?id=42631873) - [Writing an Operating System in 1000 Lines](https://operating-system-in-1000-lines.vercel.app/en)
 * [2025-01-08, 07:00:12](https://news.ycombinator.com/item?id=42631758) - [Tiptap (YC S23) is hiring a senior full stack engineer in EU](https://www.ycombinator.com/companies/tiptap/jobs/ZJhpyYA-senior-full-stack-engineer)
 * [2025-01-08, 06:38:41](https://news.ycombinator.com/item?id=42631629) - [Gate-level simulation of ASIC in browser](https://znah.net/tt09/)
 * [2025-01-08, 06:30:50](https://news.ycombinator.com/item?id=42631594) - [DEF CON's hacker-in-chief faces fortune in medical bills](https://www.theregister.com/2025/01/07/def_con_security_chief_injured/)
@@ -9,7 +10,6 @@
 * [2025-01-07, 22:25:12](https://news.ycombinator.com/item?id=42628414) - [Servo Revival: 2023-2024](https://blogs.igalia.com/mrego/servo-revival-2023-2024/)
 * [2025-01-07, 21:14:24](https://news.ycombinator.com/item?id=42627567) - [Laid off for the first time in my career, and twice in one year](https://dillonshook.com/laid-off/)
 * [2025-01-07, 21:06:24](https://news.ycombinator.com/item?id=42627453) - [Magic/tragic email links: don't make them the only option](https://recyclebin.zip/posts/annoyinglinks/)
-* [2025-01-07, 20:45:57](https://news.ycombinator.com/item?id=42627245) - [Python Concurrency: Threads, Processes, and Asyncio Explained](https://newvick.com/python-concurrency/)
 * [2025-01-07, 20:44:35](https://news.ycombinator.com/item?id=42627227) - [Mistakes engineers make in large established codebases](https://www.seangoedecke.com/large-established-codebases/)
 * [2025-01-07, 20:20:01](https://news.ycombinator.com/item?id=42626964) - [Streets GL – 3D OpenStreetMap](https://streets.gl/#47.35245,8.50958,21.25,42.00,459.10)
 * [2025-01-07, 17:54:41](https://news.ycombinator.com/item?id=42625219) - [Physicists Magnetize a Material with Light](https://news.mit.edu/2024/physicists-magnetize-material-using-light-1218)
