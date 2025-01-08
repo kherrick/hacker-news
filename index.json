@@ -1,22 +1,42 @@
 [
   [
     [
+      "2025-01-08, 00:01:04",
+      "https://news.ycombinator.com/item?id=42629256"
+    ],
+    [
+      "Oracle Will Not Voluntarily Withdraw JavaScript Trademark",
+      "https://twitter.com/deno_land/status/1876728474666217739"
+    ]
+  ],
+  [
+    [
+      "2025-01-07, 23:51:43",
+      "https://news.ycombinator.com/item?id=42629163"
+    ],
+    [
+      "A Day in the Life of a Prolific Voice Phishing Crew",
+      "https://krebsonsecurity.com/2025/01/a-day-in-the-life-of-a-prolific-voice-phishing-crew/"
+    ]
+  ],
+  [
+    [
+      "2025-01-07, 23:24:46",
+      "https://news.ycombinator.com/item?id=42628979"
+    ],
+    [
+      "When will we fix the tools that run the world?",
+      "https://www.cgustavo.com/blog/tools"
+    ]
+  ],
+  [
+    [
       "2025-01-07, 23:20:43",
       "https://news.ycombinator.com/item?id=42628934"
     ],
     [
       "Automated Accessibility Testing at Slack",
       "https://slack.engineering/automated-accessibility-testing-at-slack/"
-    ]
-  ],
-  [
-    [
-      "2025-01-07, 21:14:24",
-      "https://news.ycombinator.com/item?id=42627567"
-    ],
-    [
-      "Laid Off in My Career, and Twice in One Year",
-      "https://dillonshook.com/laid-off/"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "Mistakes engineers make in large established codebases",
       "https://www.seangoedecke.com/large-established-codebases/"
-    ]
-  ],
-  [
-    [
-      "2025-01-07, 20:39:40",
-      "https://news.ycombinator.com/item?id=42627170"
-    ],
-    [
-      "Show HN: I Built an AI Tattoo Generator Using Flux",
-      "https://www.tattoopro.ai/"
     ]
   ],
   [
@@ -107,16 +117,6 @@
     [
       "Physicists Magnetize a Material with Light",
       "https://news.mit.edu/2024/physicists-magnetize-material-using-light-1218"
-    ]
-  ],
-  [
-    [
-      "2025-01-07, 17:54:28",
-      "https://news.ycombinator.com/item?id=42625218"
-    ],
-    [
-      "You can't optimize your way to being a good person",
-      "https://www.vox.com/the-highlight/387570/moral-optimization"
     ]
   ],
   [
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2025-01-07, 00:07:49",
-      "https://news.ycombinator.com/item?id=42617645"
+      "2025-01-06, 15:48:50",
+      "https://news.ycombinator.com/item?id=42611536"
     ],
     [
-      "How I program with LLMs",
-      "https://crawshaw.io/blog/programming-with-llms"
+      "Stimulation Clicker",
+      "https://neal.fun/stimulation-clicker/"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2025-01-05, 11:08:16",
+      "https://news.ycombinator.com/item?id=42601013"
+    ],
+    [
+      "How is my Browser blocking RWX execution?",
+      "https://rwxstoned.github.io/2025-01-04-Reviewing-browser-hooks/"
+    ]
+  ],
+  [
+    [
       "2025-01-04, 21:53:51",
       "https://news.ycombinator.com/item?id=42597962"
     ],
@@ -277,16 +287,6 @@
     [
       "Choosing an op-amp for your project",
       "https://lcamtuf.substack.com/p/choosing-an-op-amp-for-your-project"
-    ]
-  ],
-  [
-    [
-      "2025-01-03, 21:24:44",
-      "https://news.ycombinator.com/item?id=42589629"
-    ],
-    [
-      "Transcendental Syntax",
-      "https://github.com/engboris/transcendental-syntax"
     ]
   ],
   [
