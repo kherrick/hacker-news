@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-01-08](index.md)
 
+* [2025-01-08, 19:58:22](https://news.ycombinator.com/item?id=42637853) - [Multiplicative Infinitesimals](https://github.com/Ericson2314/baccumulation/blob/main/math/multiplicative-infinitesimals.md)
 * [2025-01-08, 18:58:58](https://news.ycombinator.com/item?id=42637304) - [Some Programming Language Ideas](https://jerf.org/iri/post/2025/programming_language_ideas/)
 * [2025-01-08, 18:55:21](https://news.ycombinator.com/item?id=42637267) - [Facebook Is Censoring 404 Media Stories About Facebook's Censorship](https://www.404media.co/facebook-is-censoring-404-media-stories-about-facebooks-censorship/)
 * [2025-01-08, 18:16:37](https://news.ycombinator.com/item?id=42636873) - [NeuralSVG: An Implicit Representation for Text-to-Vector Generation](https://sagipolaczek.github.io/NeuralSVG/)
+* [2025-01-08, 17:53:51](https://news.ycombinator.com/item?id=42636675) - [White House unveils Cyber Trust Mark program for consumer devices](https://www.nextgov.com/cybersecurity/2025/01/white-house-unveils-cyber-trust-mark-program-consumer-devices/401991/)
 * [2025-01-08, 17:04:41](https://news.ycombinator.com/item?id=42636195) - [Why I Am Not Going to Buy a Computer [pdf]](https://classes.matthewjbrown.net/teaching-files/philtech/berry-computer.pdf)
 * [2025-01-08, 17:00:22](https://news.ycombinator.com/item?id=42636150) - [Two Dots (YC S22) Is Hiring ML and Back End Engineers](https://www.ycombinator.com/companies/two-dots/jobs/97PTcHT-machine-learning-engineer)
 * [2025-01-08, 16:54:39](https://news.ycombinator.com/item?id=42636086) - [Bringing SerenityOS to real hardware, one driver at a time](https://sdomi.pl/weblog/23-serenityos-realhw/)
