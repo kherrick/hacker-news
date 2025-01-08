@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-08](index.md)
 
+* [2025-01-08, 14:44:57](https://news.ycombinator.com/item?id=42634757) - [Self-driving Tesla steers Calif. tech founder onto train tracks](https://www.sfgate.com/tech/article/tesla-fsd-jesse-lyu-train-20014242.php)
 * [2025-01-08, 14:30:58](https://news.ycombinator.com/item?id=42634624) - [Fidget](https://www.mattkeeter.com/projects/fidget/)
 * [2025-01-08, 13:17:36](https://news.ycombinator.com/item?id=42633868) - [Stop to use words like \"safety\" when they mean \"sanitized\"](https://old.reddit.com/r/StableDiffusion/comments/1hwhizq/we_need_to_stop_allowing_entities_to_coop/)
 * [2025-01-08, 13:11:40](https://news.ycombinator.com/item?id=42633805) - [Robotics 101 at UMich: Applied numerical linear algebra as intro linear algebra](https://robotics.umich.edu/academics/courses/course-offerings/rob101-fall-2020/)
