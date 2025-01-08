@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-08](index.md)
 
+* [2025-01-08, 15:15:29](https://news.ycombinator.com/item?id=42635089) - [An introduction to Plato's Republic (1981)](https://archive.org/details/introductiontopl0000anna)
 * [2025-01-08, 14:44:57](https://news.ycombinator.com/item?id=42634757) - [Self-driving Tesla steers Calif. tech founder onto train tracks](https://www.sfgate.com/tech/article/tesla-fsd-jesse-lyu-train-20014242.php)
 * [2025-01-08, 14:30:58](https://news.ycombinator.com/item?id=42634624) - [Fidget](https://www.mattkeeter.com/projects/fidget/)
 * [2025-01-08, 13:17:36](https://news.ycombinator.com/item?id=42633868) - [Stop to use words like \"safety\" when they mean \"sanitized\"](https://old.reddit.com/r/StableDiffusion/comments/1hwhizq/we_need_to_stop_allowing_entities_to_coop/)
