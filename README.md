@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-08, 15:15:29](https://news.ycombinator.com/item?id=42635089) - [An introduction to Plato's Republic (1981)](https://archive.org/details/introductiontopl0000anna)
 * [2025-01-08, 14:30:58](https://news.ycombinator.com/item?id=42634624) - [Fidget](https://www.mattkeeter.com/projects/fidget/)
 * [2025-01-08, 13:11:40](https://news.ycombinator.com/item?id=42633805) - [Robotics 101 at UMich: Applied numerical linear algebra as intro linear algebra](https://robotics.umich.edu/academics/courses/course-offerings/rob101-fall-2020/)
 * [2025-01-08, 12:32:34](https://news.ycombinator.com/item?id=42633501) - [We Cracked a 512-Bit DKIM Key for Less Than $8 in the Cloud](https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key)
@@ -15,6 +14,7 @@
 * [2025-01-07, 21:06:24](https://news.ycombinator.com/item?id=42627453) - [Magic/tragic email links: don't make them the only option](https://recyclebin.zip/posts/annoyinglinks/)
 * [2025-01-07, 20:44:35](https://news.ycombinator.com/item?id=42627227) - [Mistakes engineers make in large established codebases](https://www.seangoedecke.com/large-established-codebases/)
 * [2025-01-07, 20:20:01](https://news.ycombinator.com/item?id=42626964) - [Streets GL – 3D OpenStreetMap](https://streets.gl/#47.35245,8.50958,21.25,42.00,459.10)
+* [2025-01-07, 17:54:41](https://news.ycombinator.com/item?id=42625219) - [Physicists Magnetize a Material with Light](https://news.mit.edu/2024/physicists-magnetize-material-using-light-1218)
 * [2025-01-07, 16:22:09](https://news.ycombinator.com/item?id=42624116) - [Show HN: Tramway SDK – An unholy union between Half-Life and Morrowind engines](https://racenis.github.io/tram-sdk/why.html)
 * [2025-01-07, 15:44:34](https://news.ycombinator.com/item?id=42623593) - [Show HN: HipScript – Run CUDA in the browser with WebAssembly and WebGPU](https://hipscript.lights0123.com/)
 * [2025-01-07, 12:46:02](https://news.ycombinator.com/item?id=42621804) - [Learning Synths](https://learningsynths.ableton.com)
