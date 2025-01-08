@@ -6,6 +6,7 @@
 
 * [2025-01-08, 21:40:09](https://news.ycombinator.com/item?id=42638735) - [LA wildfires force thousands to evacuate, NASA JPL closed](https://www.theregister.com/2025/01/08/los_angeles_fires_jpl/)
 * [2025-01-08, 21:25:06](https://news.ycombinator.com/item?id=42638605) - [SWE Bench just got updated – new #1s](https://www.swebench.com/)
+* [2025-01-08, 21:25:06](https://news.ycombinator.com/item?id=42638605) - [SOTA on swebench-verified: relearning the bitter lesson](https://aide.dev/blog/sota-bitter-lesson)
 * [2025-01-08, 19:58:22](https://news.ycombinator.com/item?id=42637853) - [Multiplicative Infinitesimals](https://github.com/Ericson2314/baccumulation/blob/main/math/multiplicative-infinitesimals.md)
 * [2025-01-08, 18:58:58](https://news.ycombinator.com/item?id=42637304) - [Some Programming Language Ideas](https://jerf.org/iri/post/2025/programming_language_ideas/)
 * [2025-01-08, 18:55:21](https://news.ycombinator.com/item?id=42637267) - [Facebook Is Censoring 404 Media Stories About Facebook's Censorship](https://www.404media.co/facebook-is-censoring-404-media-stories-about-facebooks-censorship/)
