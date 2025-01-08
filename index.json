@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=42629163"
     ],
     [
-      "A Day in the Life of a Prolific Voice Phishing Crew",
+      "A day in the life of a prolific voice phishing crew",
       "https://krebsonsecurity.com/2025/01/a-day-in-the-life-of-a-prolific-voice-phishing-crew/"
     ]
   ],
@@ -35,8 +35,18 @@
       "https://news.ycombinator.com/item?id=42628934"
     ],
     [
-      "Automated Accessibility Testing at Slack",
+      "Automated accessibility testing at Slack",
       "https://slack.engineering/automated-accessibility-testing-at-slack/"
+    ]
+  ],
+  [
+    [
+      "2025-01-07, 21:14:24",
+      "https://news.ycombinator.com/item?id=42627567"
+    ],
+    [
+      "Laid off for the first time in my career, and twice in one year",
+      "https://dillonshook.com/laid-off/"
     ]
   ],
   [
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2025-01-07, 18:08:29",
-      "https://news.ycombinator.com/item?id=42625372"
-    ],
-    [
-      "PostgreSQL Support for Certificate Transparency Logs Now Available",
-      "https://blog.transparency.dev/postgresql-support-for-certificate-transparency-logs-released"
-    ]
-  ],
-  [
-    [
       "2025-01-07, 17:55:33",
       "https://news.ycombinator.com/item?id=42625229"
     ],
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=42624116"
     ],
     [
-      "Show HN: Tramway SDK – The Unholy Union Between Half-Life and Morrowind Engines",
+      "Show HN: Tramway SDK – An unholy union between Half-Life and Morrowind engines",
       "https://racenis.github.io/tram-sdk/why.html"
     ]
   ],
@@ -155,7 +155,7 @@
       "https://news.ycombinator.com/item?id=42623593"
     ],
     [
-      "Show HN: HipScript – Run CUDA in the Browser with WebAssembly and WebGPU",
+      "Show HN: HipScript – Run CUDA in the browser with WebAssembly and WebGPU",
       "https://hipscript.lights0123.com/"
     ]
   ],
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2025-01-07, 08:43:20",
+      "https://news.ycombinator.com/item?id=42620565"
+    ],
+    [
+      "Hyperview – Native mobile apps, as easy as creating a website",
+      "https://hyperview.org/"
+    ]
+  ],
+  [
+    [
       "2025-01-07, 05:46:11",
       "https://news.ycombinator.com/item?id=42619652"
     ],
@@ -207,16 +217,6 @@
     [
       "Nvidia announces next-gen RTX 5090 and RTX 5080 GPUs",
       "https://www.theverge.com/2025/1/6/24337396/nvidia-rtx-5080-5090-5070-ti-5070-price-release-date"
-    ]
-  ],
-  [
-    [
-      "2025-01-07, 01:15:07",
-      "https://news.ycombinator.com/item?id=42618130"
-    ],
-    [
-      "Zig's comptime is bonkers good",
-      "https://www.scottredig.com/blog/bonkers_comptime/"
     ]
   ],
   [
