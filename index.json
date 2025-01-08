@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-08, 18:16:37",
+      "https://news.ycombinator.com/item?id=42636873"
+    ],
+    [
+      "NeuralSVG: An Implicit Representation for Text-to-Vector Generation",
+      "https://sagipolaczek.github.io/NeuralSVG/"
+    ]
+  ],
+  [
+    [
       "2025-01-08, 17:00:22",
       "https://news.ycombinator.com/item?id=42636150"
     ],
@@ -17,6 +27,16 @@
     [
       "Bringing SerenityOS to real hardware, one driver at a time",
       "https://sdomi.pl/weblog/23-serenityos-realhw/"
+    ]
+  ],
+  [
+    [
+      "2025-01-08, 15:11:41",
+      "https://news.ycombinator.com/item?id=42635049"
+    ],
+    [
+      "Show HN: Cardstock- Free TCG Proxy Manager for Magic, Yugioh, & Pokemon",
+      "https://cardstock.denta.co"
     ]
   ],
   [
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=42633501"
     ],
     [
-      "We Cracked a 512-Bit DKIM Key for Less Than $8 in the Cloud",
+      "Cracking a 512-bit DKIM key for less than $8 in the cloud",
       "https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key"
     ]
   ],
@@ -101,6 +121,16 @@
   ],
   [
     [
+      "2025-01-08, 06:46:53",
+      "https://news.ycombinator.com/item?id=42631673"
+    ],
+    [
+      "Show HN: Counting Tap Toy",
+      "https://memalign.github.io/m/counting/index.html"
+    ]
+  ],
+  [
+    [
       "2025-01-08, 06:38:41",
       "https://news.ycombinator.com/item?id=42631629"
     ],
@@ -117,16 +147,6 @@
     [
       "A day in the life of a prolific voice phishing crew",
       "https://krebsonsecurity.com/2025/01/a-day-in-the-life-of-a-prolific-voice-phishing-crew/"
-    ]
-  ],
-  [
-    [
-      "2025-01-07, 23:20:43",
-      "https://news.ycombinator.com/item?id=42628934"
-    ],
-    [
-      "Automated accessibility testing at Slack",
-      "https://slack.engineering/automated-accessibility-testing-at-slack/"
     ]
   ],
   [
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2025-01-07, 20:44:35",
-      "https://news.ycombinator.com/item?id=42627227"
-    ],
-    [
-      "Mistakes engineers make in large established codebases",
-      "https://www.seangoedecke.com/large-established-codebases/"
-    ]
-  ],
-  [
-    [
       "2025-01-07, 20:20:01",
       "https://news.ycombinator.com/item?id=42626964"
     ],
     [
       "Streets GL – 3D OpenStreetMap",
       "https://streets.gl/#47.35245,8.50958,21.25,42.00,459.10"
-    ]
-  ],
-  [
-    [
-      "2025-01-07, 16:22:09",
-      "https://news.ycombinator.com/item?id=42624116"
-    ],
-    [
-      "Show HN: Tramway SDK – An unholy union between Half-Life and Morrowind engines",
-      "https://racenis.github.io/tram-sdk/why.html"
     ]
   ],
   [
