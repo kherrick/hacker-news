@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-08, 21:40:09](https://news.ycombinator.com/item?id=42638735) - [LA wildfires force thousands to evacuate, NASA JPL closed](https://www.theregister.com/2025/01/08/los_angeles_fires_jpl/)
+* [2025-01-08, 21:27:12](https://news.ycombinator.com/item?id=42638626) - [I had to take down my course-swapping site or be expelled](https://www.linkedin.com/posts/jdkaim_github-jdkaimhuskyswap-huskyswap-project-activity-7282609173316415488-1jdb)
 * [2025-01-08, 21:25:06](https://news.ycombinator.com/item?id=42638605) - [SOTA on swebench-verified: relearning the bitter lesson](https://aide.dev/blog/sota-bitter-lesson)
 * [2025-01-08, 19:58:22](https://news.ycombinator.com/item?id=42637853) - [Multiplicative Infinitesimals](https://github.com/Ericson2314/baccumulation/blob/main/math/multiplicative-infinitesimals.md)
 * [2025-01-08, 18:55:21](https://news.ycombinator.com/item?id=42637267) - [Facebook is removing stories about pornographic ads](https://www.404media.co/facebook-is-censoring-404-media-stories-about-facebooks-censorship/)
@@ -22,13 +23,12 @@
 * [2025-01-07, 15:44:34](https://news.ycombinator.com/item?id=42623593) - [Show HN: HipScript – Run CUDA in the browser with WebAssembly and WebGPU](https://hipscript.lights0123.com/)
 * [2025-01-07, 12:46:02](https://news.ycombinator.com/item?id=42621804) - [Learning Synths](https://learningsynths.ableton.com)
 * [2025-01-07, 10:48:49](https://news.ycombinator.com/item?id=42621235) - [Computer Architecture – Michael Flynn (2007)](https://onlinelibrary.wiley.com/doi/full/10.1002/9780470050118.ecse071)
-* [2025-01-07, 09:12:00](https://news.ycombinator.com/item?id=42620720) - [Collection: More Doctors Smoke Camels](https://tobacco.stanford.edu/cigarettes/doctors-smoking/more-doctors-smoke-camels/)
 * [2025-01-07, 08:43:20](https://news.ycombinator.com/item?id=42620565) - [Hyperview – Native mobile apps, as easy as creating a website](https://hyperview.org/)
 * [2025-01-06, 12:30:11](https://news.ycombinator.com/item?id=42610021) - [Ratchet effects determine engineer reputation at large companies – sean goedecke](https://www.seangoedecke.com/ratchet-effects/)
 * [2025-01-06, 00:48:58](https://news.ycombinator.com/item?id=42606433) - [A Pixel Parable](https://olano.dev/blog/a-pixel-parable/)
 * [2025-01-06, 00:29:35](https://news.ycombinator.com/item?id=42606318) - [Who killed the rave?](https://www.ft.com/content/2138e940-0c81-44b0-87a7-325f278413e1)
 * [2025-01-05, 17:45:24](https://news.ycombinator.com/item?id=42603443) - [Minimum bipartite matching via Riemann optimization (2023)](https://ocramz.github.io/posts/2023-12-21-assignment-riemann-opt.html)
-* [2025-01-05, 14:21:35](https://news.ycombinator.com/item?id=42601890) - [How to Debounce a Contact (2014)](https://www.ganssle.com/debouncing.htm)
+* [2025-01-05, 15:23:00](https://news.ycombinator.com/item?id=42602347) - [Did we miss P In CAP? Partial Progress Conjecture under Asynchrony](https://arxiv.org/abs/2501.00021)
 * [2025-01-04, 22:18:54](https://news.ycombinator.com/item?id=42598097) - [A History of Early Microcontrollers, Part 1: Calculator Chips Came First (2022)](https://www.eejournal.com/article/a-history-of-early-microcontrollers-part-1-calculator-chips-came-first/)
 
 ## [Archives](archives/index.md)

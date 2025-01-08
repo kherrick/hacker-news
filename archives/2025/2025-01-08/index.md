@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-08](index.md)
 
 * [2025-01-08, 21:40:09](https://news.ycombinator.com/item?id=42638735) - [LA wildfires force thousands to evacuate, NASA JPL closed](https://www.theregister.com/2025/01/08/los_angeles_fires_jpl/)
+* [2025-01-08, 21:27:12](https://news.ycombinator.com/item?id=42638626) - [I had to take down my course-swapping site or be expelled](https://www.linkedin.com/posts/jdkaim_github-jdkaimhuskyswap-huskyswap-project-activity-7282609173316415488-1jdb)
 * [2025-01-08, 21:25:06](https://news.ycombinator.com/item?id=42638605) - [SWE Bench just got updated – new #1s](https://www.swebench.com/)
 * [2025-01-08, 21:25:06](https://news.ycombinator.com/item?id=42638605) - [SOTA on swebench-verified: relearning the bitter lesson](https://aide.dev/blog/sota-bitter-lesson)
 * [2025-01-08, 19:58:22](https://news.ycombinator.com/item?id=42637853) - [Multiplicative Infinitesimals](https://github.com/Ericson2314/baccumulation/blob/main/math/multiplicative-infinitesimals.md)
