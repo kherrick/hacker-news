@@ -66,6 +66,7 @@
 * [2025-01-06, 04:29:50](https://news.ycombinator.com/item?id=42607682) - [Show HN: I made it easy to create invoices](https://www.invoicefast.io)
 * [2025-01-06, 04:27:13](https://news.ycombinator.com/item?id=42607670) - [New California law prohibits using AI as basis to deny health insurance claims](https://www.mercurynews.com/2025/01/05/new-california-law-ban-artificial-intelligence-deny-insurance-claims/)
 * [2025-01-06, 04:19:43](https://news.ycombinator.com/item?id=42607623) - [Hitting OKRs vs. Doing Your Job](https://jessitron.com/2025/01/05/hitting-okrs-vs-doing-your-job/)
+* [2025-01-06, 04:14:15](https://news.ycombinator.com/item?id=42607599) - [Run Python in the Browser Effortlessly](https://kai.bi/post/run-python-programs-easily-in-the-browser)
 * [2025-01-06, 03:46:14](https://news.ycombinator.com/item?id=42607455) - [Magic Links Have Rough Edges, but Passkeys Can Smooth Them Over](https://rmondello.com/2025/01/02/magic-links-and-passkeys/)
 * [2025-01-06, 03:46:10](https://news.ycombinator.com/item?id=42607454) - [Unemployed Office Workers Are Having a Harder Time Finding New Jobs](https://www.wsj.com/economy/jobs/job-search-workers-unemployment-months-5a4cfcee)
 * [2025-01-06, 03:40:20](https://news.ycombinator.com/item?id=42607422) - [Show HN: E-Paper Life Organizer with Pico and Inky Frame](https://github.com/jaeheonshim/inky-dashboard)
