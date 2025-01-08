@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-05](index.md)
 
 * [2025-01-05, 22:49:03](https://news.ycombinator.com/item?id=42605740) - [Duolicious – Open-source dating app](https://github.com/duolicious)
+* [2025-01-05, 22:46:13](https://news.ycombinator.com/item?id=42605718) - [Coinage and the Tyranny of Fantasy 'Gold'](https://acoup.blog/2025/01/03/collections-coinage-and-the-tyranny-of-fantasy-gold/)
 * [2025-01-05, 22:44:08](https://news.ycombinator.com/item?id=42605707) - [Republishing My Simpsons Fan Site, Twenty Years Later](https://www.bingeclock.com/blog/post/republishing-my-simpsons-fan-site-twenty-years-later)
 * [2025-01-05, 22:43:24](https://news.ycombinator.com/item?id=42605704) - [ESET recommends Linux if your unsupported Windows 11 PC can't update from 10](https://www.neowin.net/news/eset-recommends-installing-linux-if-your-unsupported-windows-11-pc-cant-update-from-10/)
 * [2025-01-05, 22:06:59](https://news.ycombinator.com/item?id=42605454) - [Ask HN: Is it a bad idea to make an email domain with an uncommon TLD?](https://news.ycombinator.com/item?id=42605454)
