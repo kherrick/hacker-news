@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-01-08](index.md)
 
+* [2025-01-08, 18:16:37](https://news.ycombinator.com/item?id=42636873) - [NeuralSVG: An Implicit Representation for Text-to-Vector Generation](https://sagipolaczek.github.io/NeuralSVG/)
 * [2025-01-08, 17:04:41](https://news.ycombinator.com/item?id=42636195) - [Why I Am Not Going to Buy a Computer [pdf]](https://classes.matthewjbrown.net/teaching-files/philtech/berry-computer.pdf)
 * [2025-01-08, 17:00:22](https://news.ycombinator.com/item?id=42636150) - [Two Dots (YC S22) Is Hiring ML and Back End Engineers](https://www.ycombinator.com/companies/two-dots/jobs/97PTcHT-machine-learning-engineer)
 * [2025-01-08, 16:54:39](https://news.ycombinator.com/item?id=42636086) - [Bringing SerenityOS to real hardware, one driver at a time](https://sdomi.pl/weblog/23-serenityos-realhw/)
 * [2025-01-08, 15:15:29](https://news.ycombinator.com/item?id=42635089) - [An introduction to Plato's Republic (1981)](https://archive.org/details/introductiontopl0000anna)
+* [2025-01-08, 15:11:41](https://news.ycombinator.com/item?id=42635049) - [Show HN: Cardstock- Free TCG Proxy Manager for Magic, Yugioh, & Pokemon](https://cardstock.denta.co)
 * [2025-01-08, 14:47:34](https://news.ycombinator.com/item?id=42634787) - [Show HN: The Atlas of Space](https://atlasof.space/)
 * [2025-01-08, 14:44:57](https://news.ycombinator.com/item?id=42634757) - [Self-driving Tesla steers Calif. tech founder onto train tracks](https://www.sfgate.com/tech/article/tesla-fsd-jesse-lyu-train-20014242.php)
 * [2025-01-08, 14:30:58](https://news.ycombinator.com/item?id=42634624) - [Fidget](https://www.mattkeeter.com/projects/fidget/)
@@ -32,6 +34,7 @@
 * [2025-01-08, 07:19:25](https://news.ycombinator.com/item?id=42631876) - [Donut Lab's next-generation in-wheel motors](https://www.donutlab.com/motor/)
 * [2025-01-08, 07:18:50](https://news.ycombinator.com/item?id=42631873) - [Writing an Operating System in 1000 Lines](https://operating-system-in-1000-lines.vercel.app/en)
 * [2025-01-08, 07:00:12](https://news.ycombinator.com/item?id=42631758) - [Tiptap (YC S23) is hiring a senior full stack engineer in EU](https://www.ycombinator.com/companies/tiptap/jobs/ZJhpyYA-senior-full-stack-engineer)
+* [2025-01-08, 06:46:53](https://news.ycombinator.com/item?id=42631673) - [Show HN: Counting Tap Toy](https://memalign.github.io/m/counting/index.html)
 * [2025-01-08, 06:38:41](https://news.ycombinator.com/item?id=42631629) - [Gate-level simulation of ASIC in browser](https://znah.net/tt09/)
 * [2025-01-08, 06:30:50](https://news.ycombinator.com/item?id=42631594) - [DEF CON's hacker-in-chief faces fortune in medical bills](https://www.theregister.com/2025/01/07/def_con_security_chief_injured/)
 * [2025-01-08, 05:20:28](https://news.ycombinator.com/item?id=42631208) - [Six Sins of Platform Teams](https://serce.me/posts/2025-01-07-six-sins-of-platform-teams)
