@@ -16,6 +16,7 @@
 * [2025-01-05, 21:08:47](https://news.ycombinator.com/item?id=42605057) - [Battle Scenes depicted in moving pictures before CGI](https://battlefieldanomalies.com/category-general/battle-scenes-depicted-in-moving-pictures-before-c-g-i/)
 * [2025-01-05, 20:52:13](https://news.ycombinator.com/item?id=42604924) - [Myth of Meritocracy](https://en.wikipedia.org/wiki/Myth_of_meritocracy)
 * [2025-01-05, 20:32:52](https://news.ycombinator.com/item?id=42604785) - [Magna: Embedding similarity search tool for searching within large documents](https://github.com/yousef-rafat/Magna)
+* [2025-01-05, 20:10:17](https://news.ycombinator.com/item?id=42604616) - [How to generate OpenGraph images with Astro and Satori](https://skyfall.dev/posts/astro-og-with-satori)
 * [2025-01-05, 19:58:39](https://news.ycombinator.com/item?id=42604529) - [Ask HN: Favorite Blog in 2024?](https://news.ycombinator.com/item?id=42604529)
 * [2025-01-05, 19:34:18](https://news.ycombinator.com/item?id=42604350) - [Reverse Engineering the Constants in the Pentium FPU](http://www.righto.com/2025/01/pentium-floating-point-ROM.html)
 * [2025-01-05, 18:31:45](https://news.ycombinator.com/item?id=42603830) - [There are different sorts of WireGuard setups with different difficulties](https://utcc.utoronto.ca/~cks/space/blog/tech/WireGuardSetupTypes)
