@@ -69,6 +69,7 @@
 * [2025-01-06, 03:40:20](https://news.ycombinator.com/item?id=42607422) - [Show HN: E-Paper Life Organizer with Pico and Inky Frame](https://github.com/jaeheonshim/inky-dashboard)
 * [2025-01-06, 02:55:33](https://news.ycombinator.com/item?id=42607151) - [Apple Squandered the Holy Grail](https://xeiaso.net/blog/2025/squandered-holy-grail/)
 * [2025-01-06, 02:42:49](https://news.ycombinator.com/item?id=42607087) - [Printf Debugging Is OK](https://www.polymonster.co.uk/blog/printf-debugging-is-ok)
+* [2025-01-06, 02:18:13](https://news.ycombinator.com/item?id=42606927) - [Fold-... and Monoids](http://funcall.blogspot.com/2025/01/fold-and-monoids.html)
 * [2025-01-06, 01:56:42](https://news.ycombinator.com/item?id=42606773) - [Engineer Eats Efficiently](https://futureboy.us/blog/twofifty.html)
 * [2025-01-06, 01:41:03](https://news.ycombinator.com/item?id=42606700) - [Reflections – Sam Altman](https://blog.samaltman.com/reflections)
 * [2025-01-06, 01:28:06](https://news.ycombinator.com/item?id=42606639) - [This Is Not Your Last Job](https://v5.chriskrycho.com/journal/this-is-not-your-last-job/)
