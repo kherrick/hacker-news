@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2025-01-07, 12:15:22",
-      "https://news.ycombinator.com/item?id=42621627"
-    ],
-    [
-      "Ending our third party fact-checking program and moving to Community Notes model",
-      "https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/"
-    ]
-  ],
-  [
-    [
       "2025-01-07, 08:43:20",
       "https://news.ycombinator.com/item?id=42620565"
     ],
@@ -267,6 +257,16 @@
     [
       "A video tour of the Standard Model (2021)",
       "https://www.quantamagazine.org/a-video-tour-of-the-standard-model-20210716/"
+    ]
+  ],
+  [
+    [
+      "2025-01-05, 20:10:17",
+      "https://news.ycombinator.com/item?id=42604616"
+    ],
+    [
+      "How to generate OpenGraph images with Astro and Satori",
+      "https://skyfall.dev/posts/astro-og-with-satori"
     ]
   ],
   [
