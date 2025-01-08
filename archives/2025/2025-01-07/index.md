@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-07](index.md)
 
+* [2025-01-07, 23:51:43](https://news.ycombinator.com/item?id=42629163) - [A Day in the Life of a Prolific Voice Phishing Crew](https://krebsonsecurity.com/2025/01/a-day-in-the-life-of-a-prolific-voice-phishing-crew/)
+* [2025-01-07, 23:24:46](https://news.ycombinator.com/item?id=42628979) - [When will we fix the tools that run the world?](https://www.cgustavo.com/blog/tools)
 * [2025-01-07, 23:20:43](https://news.ycombinator.com/item?id=42628934) - [Automated Accessibility Testing at Slack](https://slack.engineering/automated-accessibility-testing-at-slack/)
 * [2025-01-07, 21:40:24](https://news.ycombinator.com/item?id=42627902) - [50 Years of SNL's Graphic Parodies (2024)](https://www.printmag.com/daily-heller/the-daily-heller-snls-graphic-parody/)
 * [2025-01-07, 21:14:24](https://news.ycombinator.com/item?id=42627567) - [Laid Off in My Career, and Twice in One Year](https://dillonshook.com/laid-off/)
