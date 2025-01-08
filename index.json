@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-08, 06:30:50",
+      "https://news.ycombinator.com/item?id=42631594"
+    ],
+    [
+      "DEF CON's hacker-in-chief faces fortune in medical bills",
+      "https://www.theregister.com/2025/01/07/def_con_security_chief_injured/"
+    ]
+  ],
+  [
+    [
       "2025-01-08, 05:12:12",
       "https://news.ycombinator.com/item?id=42631168"
     ],
@@ -71,32 +81,12 @@
   ],
   [
     [
-      "2025-01-07, 21:14:24",
-      "https://news.ycombinator.com/item?id=42627567"
-    ],
-    [
-      "Laid off for the first time in my career, and twice in one year",
-      "https://dillonshook.com/laid-off/"
-    ]
-  ],
-  [
-    [
       "2025-01-07, 21:06:24",
       "https://news.ycombinator.com/item?id=42627453"
     ],
     [
       "Magic/tragic email links: don't make them the only option",
       "https://recyclebin.zip/posts/annoyinglinks/"
-    ]
-  ],
-  [
-    [
-      "2025-01-07, 20:45:57",
-      "https://news.ycombinator.com/item?id=42627245"
-    ],
-    [
-      "Python Concurrency: Threads, Processes, and Asyncio Explained",
-      "https://newvick.com/python-concurrency/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Optimizing uint64_t Digit Counting: A Method that Beats Lemire's by up to 143%",
       "https://github.com/RealTimeChris/BenchmarkSuite/blob/digit-counting/Benchmark/main.cpp"
+    ]
+  ],
+  [
+    [
+      "2025-01-05, 22:46:13",
+      "https://news.ycombinator.com/item?id=42605718"
+    ],
+    [
+      "Coinage and the Tyranny of Fantasy 'Gold'",
+      "https://acoup.blog/2025/01/03/collections-coinage-and-the-tyranny-of-fantasy-gold/"
     ]
   ],
   [
