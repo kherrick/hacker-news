@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-08, 04:18:16](https://news.ycombinator.com/item?id=42630857) - [Bitwarden Is Down](https://status.bitwarden.com)
 * [2025-01-08, 01:48:26](https://news.ycombinator.com/item?id=42630030) - [Annual 'winners' for most egregious US healthcare profiteering announced](https://www.theguardian.com/us-news/2025/jan/07/annual-awards-healthcare-profiteering)
 * [2025-01-08, 00:01:04](https://news.ycombinator.com/item?id=42629256) - [Oracle Will Not Voluntarily Withdraw JavaScript Trademark](https://twitter.com/deno_land/status/1876728474666217739)
 * [2025-01-07, 23:51:43](https://news.ycombinator.com/item?id=42629163) - [A day in the life of a prolific voice phishing crew](https://krebsonsecurity.com/2025/01/a-day-in-the-life-of-a-prolific-voice-phishing-crew/)
@@ -8,7 +9,6 @@
 * [2025-01-07, 21:14:24](https://news.ycombinator.com/item?id=42627567) - [Laid off for the first time in my career, and twice in one year](https://dillonshook.com/laid-off/)
 * [2025-01-07, 21:06:24](https://news.ycombinator.com/item?id=42627453) - [Magic/tragic email links: don't make them the only option](https://recyclebin.zip/posts/annoyinglinks/)
 * [2025-01-07, 20:44:35](https://news.ycombinator.com/item?id=42627227) - [Mistakes engineers make in large established codebases](https://www.seangoedecke.com/large-established-codebases/)
-* [2025-01-07, 20:33:38](https://news.ycombinator.com/item?id=42627090) - [Online Behavioral Ads Fuel the Surveillance Industry](https://www.eff.org/deeplinks/2025/01/online-behavioral-ads-fuel-surveillance-industry-heres-how)
 * [2025-01-07, 20:20:01](https://news.ycombinator.com/item?id=42626964) - [Streets GL – 3D OpenStreetMap](https://streets.gl/#47.35245,8.50958,21.25,42.00,459.10)
 * [2025-01-07, 18:49:42](https://news.ycombinator.com/item?id=42625840) - [OmniAI (YC W24) Hiring Engineers to Build Open Source Document Extraction](https://www.ycombinator.com/companies/omniai/jobs/LG5jeP2-full-stack-engineer)
 * [2025-01-07, 17:55:33](https://news.ycombinator.com/item?id=42625229) - [Preventing conflicts in authoritative DNS config using formal verification](https://blog.cloudflare.com/topaz-policy-engine-design/)
