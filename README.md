@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-08, 09:52:53](https://news.ycombinator.com/item?id=42632592) - [Embedding Scheme in Rust](https://raviqqe.com/doc/posts/stak/embedding-scheme-in-rust/)
+* [2025-01-08, 09:45:06](https://news.ycombinator.com/item?id=42632553) - [Calling women 'household objects' now permitted on Facebook](https://www.cnn.com/2025/01/07/tech/meta-hateful-conduct-policy-update-fact-check/index.html)
 * [2025-01-08, 08:43:18](https://news.ycombinator.com/item?id=42632308) - [Scsh Acknowledgements (1994)](https://scsh.net/docu/html/man.html)
 * [2025-01-08, 07:34:26](https://news.ycombinator.com/item?id=42631959) - [Schola Latina Europæa and Universalis](http://avitus.alcuinus.net/schola_latina/soni_en.php)
 * [2025-01-08, 07:18:50](https://news.ycombinator.com/item?id=42631873) - [Operating System in 1,000 Lines – Intro](https://operating-system-in-1000-lines.vercel.app/en)
@@ -13,7 +15,6 @@
 * [2025-01-07, 20:44:35](https://news.ycombinator.com/item?id=42627227) - [Mistakes engineers make in large established codebases](https://www.seangoedecke.com/large-established-codebases/)
 * [2025-01-07, 20:20:01](https://news.ycombinator.com/item?id=42626964) - [Streets GL – 3D OpenStreetMap](https://streets.gl/#47.35245,8.50958,21.25,42.00,459.10)
 * [2025-01-07, 17:54:41](https://news.ycombinator.com/item?id=42625219) - [Physicists Magnetize a Material with Light](https://news.mit.edu/2024/physicists-magnetize-material-using-light-1218)
-* [2025-01-07, 17:51:18](https://news.ycombinator.com/item?id=42625193) - [Type 2 Diabetes and cardiovascular disease attributable to sugar beverages](https://www.nature.com/articles/s41591-024-03345-4)
 * [2025-01-07, 16:22:09](https://news.ycombinator.com/item?id=42624116) - [Show HN: Tramway SDK – An unholy union between Half-Life and Morrowind engines](https://racenis.github.io/tram-sdk/why.html)
 * [2025-01-07, 16:17:22](https://news.ycombinator.com/item?id=42624048) - [The Patterns of Barricelli (2024)](https://akkartik.name/post/2024-08-30-devlog)
 * [2025-01-07, 15:44:34](https://news.ycombinator.com/item?id=42623593) - [Show HN: HipScript – Run CUDA in the browser with WebAssembly and WebGPU](https://hipscript.lights0123.com/)
@@ -24,7 +25,6 @@
 * [2025-01-06, 22:04:34](https://news.ycombinator.com/item?id=42616495) - [Small Data [video]](https://www.youtube.com/watch?v=eDr6_cMtfdA)
 * [2025-01-06, 16:30:42](https://news.ycombinator.com/item?id=42611971) - [Autocorrect in Your Keyboard Firmware (2021)](https://getreuer.info/posts/keyboards/autocorrection/index.html)
 * [2025-01-06, 02:18:13](https://news.ycombinator.com/item?id=42606927) - [Fold-... and Monoids](http://funcall.blogspot.com/2025/01/fold-and-monoids.html)
-* [2025-01-06, 00:23:48](https://news.ycombinator.com/item?id=42606285) - [Optimizing uint64_t Digit Counting: A Method that Beats Lemire's by up to 143%](https://github.com/RealTimeChris/BenchmarkSuite/blob/digit-counting/Benchmark/main.cpp)
 * [2025-01-05, 21:43:44](https://news.ycombinator.com/item?id=42605311) - [A video tour of the Standard Model (2021)](https://www.quantamagazine.org/a-video-tour-of-the-standard-model-20210716/)
 * [2025-01-05, 17:45:24](https://news.ycombinator.com/item?id=42603443) - [Minimum bipartite matching via Riemann optimization](https://ocramz.github.io/posts/2023-12-21-assignment-riemann-opt.html)
 * [2025-01-05, 17:11:31](https://news.ycombinator.com/item?id=42603188) - [Expressive Vector Engine – SIMD in C++](https://github.com/jfalcou/eve)

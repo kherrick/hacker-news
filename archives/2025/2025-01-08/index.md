@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-08](index.md)
 
+* [2025-01-08, 09:52:53](https://news.ycombinator.com/item?id=42632592) - [Embedding Scheme in Rust](https://raviqqe.com/doc/posts/stak/embedding-scheme-in-rust/)
+* [2025-01-08, 09:45:06](https://news.ycombinator.com/item?id=42632553) - [Calling women 'household objects' now permitted on Facebook](https://www.cnn.com/2025/01/07/tech/meta-hateful-conduct-policy-update-fact-check/index.html)
 * [2025-01-08, 08:43:18](https://news.ycombinator.com/item?id=42632308) - [Scsh Acknowledgements (1994)](https://scsh.net/docu/html/man.html)
 * [2025-01-08, 07:34:26](https://news.ycombinator.com/item?id=42631959) - [Schola Latina Europæa and Universalis](http://avitus.alcuinus.net/schola_latina/soni_en.php)
 * [2025-01-08, 07:18:50](https://news.ycombinator.com/item?id=42631873) - [Writing an Operating System in 1000 Lines](https://operating-system-in-1000-lines.vercel.app/en)
