@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-01-08, 22:35:43",
+      "https://news.ycombinator.com/item?id=42639247"
+    ],
+    [
+      "RPG-CLI – your filesystem as a dungeon",
+      "https://github.com/facundoolano/rpg-cli"
+    ]
+  ],
+  [
+    [
       "2025-01-08, 21:40:09",
       "https://news.ycombinator.com/item?id=42638735"
     ],
@@ -97,6 +107,16 @@
     [
       "Bringing SerenityOS to real hardware, one driver at a time",
       "https://sdomi.pl/weblog/23-serenityos-realhw/"
+    ]
+  ],
+  [
+    [
+      "2025-01-08, 16:41:04",
+      "https://news.ycombinator.com/item?id=42635942"
+    ],
+    [
+      "Show HN: Stagehand – an open source browser automation framework powered by AI",
+      "https://github.com/browserbase/stagehand"
     ]
   ],
   [
@@ -191,22 +211,12 @@
   ],
   [
     [
-      "2025-01-07, 20:20:01",
-      "https://news.ycombinator.com/item?id=42626964"
+      "2025-01-07, 20:47:38",
+      "https://news.ycombinator.com/item?id=42627270"
     ],
     [
-      "Streets GL – 3D OpenStreetMap",
-      "https://streets.gl/#47.35245,8.50958,21.25,42.00,459.10"
-    ]
-  ],
-  [
-    [
-      "2025-01-07, 15:44:34",
-      "https://news.ycombinator.com/item?id=42623593"
-    ],
-    [
-      "Show HN: HipScript – Run CUDA in the browser with WebAssembly and WebGPU",
-      "https://hipscript.lights0123.com/"
+      "How many real numbers exist? New proof moves closer to an answer (2021)",
+      "https://www.quantamagazine.org/how-many-numbers-exist-infinity-proof-moves-math-closer-to-an-answer-20210715/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Computer Architecture – Michael Flynn (2007)",
       "https://onlinelibrary.wiley.com/doi/full/10.1002/9780470050118.ecse071"
-    ]
-  ],
-  [
-    [
-      "2025-01-07, 08:43:20",
-      "https://news.ycombinator.com/item?id=42620565"
-    ],
-    [
-      "Hyperview – Native mobile apps, as easy as creating a website",
-      "https://hyperview.org/"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2025-01-05, 17:45:24",
-      "https://news.ycombinator.com/item?id=42603443"
-    ],
-    [
-      "Minimum bipartite matching via Riemann optimization (2023)",
-      "https://ocramz.github.io/posts/2023-12-21-assignment-riemann-opt.html"
-    ]
-  ],
-  [
-    [
       "2025-01-05, 15:23:00",
       "https://news.ycombinator.com/item?id=42602347"
     ],
     [
       "Did we miss P In CAP? Partial Progress Conjecture under Asynchrony",
       "https://arxiv.org/abs/2501.00021"
+    ]
+  ],
+  [
+    [
+      "2025-01-05, 14:29:26",
+      "https://news.ycombinator.com/item?id=42601942"
+    ],
+    [
+      "How to Activate the Value Flywheel Effect with Your Data",
+      "https://blog.owulveryck.info/2024/10/15/how-to-activate-the-value-flywheel-effect-with-your-data.html"
     ]
   ],
   [
