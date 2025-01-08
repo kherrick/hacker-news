@@ -13,6 +13,7 @@
 * [2025-01-07, 21:06:24](https://news.ycombinator.com/item?id=42627453) - [Magic/tragic email links: don't make them the only option](https://recyclebin.zip/posts/annoyinglinks/)
 * [2025-01-07, 21:03:02](https://news.ycombinator.com/item?id=42627407) - [The Egg, an at Home Nuclear Reactor](https://enron.com/pages/the-egg)
 * [2025-01-07, 20:53:44](https://news.ycombinator.com/item?id=42627336) - [Hackers Claim Breach of Location Data Giant, Threaten to Leak Data](https://www.404media.co/hackers-claim-massive-breach-of-location-data-giant-threaten-to-leak-data/)
+* [2025-01-07, 20:47:38](https://news.ycombinator.com/item?id=42627270) - [How many real numbers exist? New proof moves closer to an answer (2021)](https://www.quantamagazine.org/how-many-numbers-exist-infinity-proof-moves-math-closer-to-an-answer-20210715/)
 * [2025-01-07, 20:45:57](https://news.ycombinator.com/item?id=42627245) - [Python Concurrency: Threads, Processes, and Asyncio Explained](https://newvick.com/python-concurrency/)
 * [2025-01-07, 20:44:35](https://news.ycombinator.com/item?id=42627227) - [Mistakes engineers make in large established codebases](https://www.seangoedecke.com/large-established-codebases/)
 * [2025-01-07, 20:39:40](https://news.ycombinator.com/item?id=42627170) - [Show HN: I Built an AI Tattoo Generator Using Flux](https://www.tattoopro.ai/)

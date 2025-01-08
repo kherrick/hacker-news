@@ -6,6 +6,7 @@
 
 * [2025-01-08, 23:13:08](https://news.ycombinator.com/item?id=42639563) - [Steve Langasek, One of Ubuntu Linux's Leading Lights, Has Died](https://thenewstack.io/steve-langasek-one-of-ubuntu-linuxs-leading-lights-has-died/)
 * [2025-01-08, 22:56:27](https://news.ycombinator.com/item?id=42639417) - [Salesforce Will Hire No More Software Engineers in 2025, Says Marc Benioff](https://www.salesforceben.com/salesforce-will-hire-no-more-software-engineers-in-2025-says-marc-benioff/)
+* [2025-01-08, 22:35:43](https://news.ycombinator.com/item?id=42639247) - [RPG-CLI – your filesystem as a dungeon](https://github.com/facundoolano/rpg-cli)
 * [2025-01-08, 21:40:09](https://news.ycombinator.com/item?id=42638735) - [LA wildfires force thousands to evacuate, NASA JPL closed](https://www.theregister.com/2025/01/08/los_angeles_fires_jpl/)
 * [2025-01-08, 21:27:12](https://news.ycombinator.com/item?id=42638626) - [I had to take down my course-swapping site or be expelled](https://www.linkedin.com/posts/jdkaim_github-jdkaimhuskyswap-huskyswap-project-activity-7282609173316415488-1jdb)
 * [2025-01-08, 21:25:06](https://news.ycombinator.com/item?id=42638605) - [SWE Bench just got updated – new #1s](https://www.swebench.com/)
@@ -18,6 +19,7 @@
 * [2025-01-08, 17:04:41](https://news.ycombinator.com/item?id=42636195) - [Why I Am Not Going to Buy a Computer [pdf]](https://classes.matthewjbrown.net/teaching-files/philtech/berry-computer.pdf)
 * [2025-01-08, 17:00:22](https://news.ycombinator.com/item?id=42636150) - [Two Dots (YC S22) Is Hiring ML and Back End Engineers](https://www.ycombinator.com/companies/two-dots/jobs/97PTcHT-machine-learning-engineer)
 * [2025-01-08, 16:54:39](https://news.ycombinator.com/item?id=42636086) - [Bringing SerenityOS to real hardware, one driver at a time](https://sdomi.pl/weblog/23-serenityos-realhw/)
+* [2025-01-08, 16:41:04](https://news.ycombinator.com/item?id=42635942) - [Show HN: Stagehand – an open source browser automation framework powered by AI](https://github.com/browserbase/stagehand)
 * [2025-01-08, 15:15:29](https://news.ycombinator.com/item?id=42635089) - [An introduction to Plato's Republic (1981)](https://archive.org/details/introductiontopl0000anna)
 * [2025-01-08, 15:11:41](https://news.ycombinator.com/item?id=42635049) - [Show HN: Cardstock- Free TCG Proxy Manager for Magic, Yugioh, & Pokemon](https://cardstock.denta.co)
 * [2025-01-08, 14:47:34](https://news.ycombinator.com/item?id=42634787) - [Show HN: The Atlas of Space](https://atlasof.space/)

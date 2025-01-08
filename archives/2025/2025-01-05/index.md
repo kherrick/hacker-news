@@ -43,6 +43,7 @@
 * [2025-01-05, 15:13:45](https://news.ycombinator.com/item?id=42602273) - [How Do You Like What You've Built?](https://morrisbrodersen.de/how-do-you-like-what-you-built/)
 * [2025-01-05, 14:59:19](https://news.ycombinator.com/item?id=42602158) - [How to decode METAR and TAF reports](https://met.nps.edu/~bcreasey/mr3222/files/helpful/DecodeMETAR-TAF.html)
 * [2025-01-05, 14:44:42](https://news.ycombinator.com/item?id=42602062) - [Olympians turn to OnlyFans to fund dreams due to 'broken' finance system (2024)](https://www.cbc.ca/sports/olympics/summer/athletics/onlyfans-alysha-newman-canada-olympics-1.7290724)
+* [2025-01-05, 14:29:26](https://news.ycombinator.com/item?id=42601942) - [How to Activate the Value Flywheel Effect with Your Data](https://blog.owulveryck.info/2024/10/15/how-to-activate-the-value-flywheel-effect-with-your-data.html)
 * [2025-01-05, 14:27:04](https://news.ycombinator.com/item?id=42601932) - [AI's next leap requires intimate access to your digital life](https://www.washingtonpost.com/technology/2025/01/05/agents-ai-chatbots-google-mariner/)
 * [2025-01-05, 14:21:35](https://news.ycombinator.com/item?id=42601890) - [A Guide to Debouncing, Or, How to Debounce a Contact, by Jack Ganssle (2014)](https://www.ganssle.com/debouncing.htm)
 * [2025-01-05, 14:15:19](https://news.ycombinator.com/item?id=42601847) - [The day I taught AI to read code like a Senior Developer](https://nmn.gl/blog/ai-senior-developer)
