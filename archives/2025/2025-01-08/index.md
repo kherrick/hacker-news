@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-01-08](index.md)
 
+* [2025-01-08, 14:30:58](https://news.ycombinator.com/item?id=42634624) - [Fidget](https://www.mattkeeter.com/projects/fidget/)
 * [2025-01-08, 13:17:36](https://news.ycombinator.com/item?id=42633868) - [Stop to use words like \"safety\" when they mean \"sanitized\"](https://old.reddit.com/r/StableDiffusion/comments/1hwhizq/we_need_to_stop_allowing_entities_to_coop/)
+* [2025-01-08, 13:11:40](https://news.ycombinator.com/item?id=42633805) - [Robotics 101 at UMich: Applied numerical linear algebra as intro linear algebra](https://robotics.umich.edu/academics/courses/course-offerings/rob101-fall-2020/)
 * [2025-01-08, 12:32:34](https://news.ycombinator.com/item?id=42633501) - [We Cracked a 512-Bit DKIM Key for Less Than $8 in the Cloud](https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key)
 * [2025-01-08, 12:26:26](https://news.ycombinator.com/item?id=42633463) - [Fired from Meta After 1 Week: Here's All the Dirt I Got](https://sebastiancarlos.com/fired-from-meta-after-1-week-heres-all-the-dirt-i-got-855e4e5a0d65)
 * [2025-01-08, 12:01:24](https://news.ycombinator.com/item?id=42633305) - [Modern Treasury (YC S18) Is Hiring a Payments Engineering Manager](https://jobs.ashbyhq.com/moderntreasury/3bf0ac98-f9c4-47a0-b883-252db467fb6e?utm_source=yYPEbOqnBd)
