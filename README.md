@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-08, 11:30:30](https://news.ycombinator.com/item?id=42633128) - [Meta scrapped factcheckers because systems were 'too complex'](https://www.theguardian.com/technology/2025/jan/08/meta-scrapped-factcheckers-because-systems-were-too-complex)
 * [2025-01-08, 09:52:53](https://news.ycombinator.com/item?id=42632592) - [Embedding Scheme in Rust](https://raviqqe.com/doc/posts/stak/embedding-scheme-in-rust/)
 * [2025-01-08, 08:43:18](https://news.ycombinator.com/item?id=42632308) - [Scsh Acknowledgements (1994)](https://scsh.net/docu/html/man.html)
 * [2025-01-08, 07:34:26](https://news.ycombinator.com/item?id=42631959) - [Schola Latina Europæa and Universalis](http://avitus.alcuinus.net/schola_latina/soni_en.php)
@@ -28,7 +29,6 @@
 * [2025-01-05, 21:43:44](https://news.ycombinator.com/item?id=42605311) - [A video tour of the Standard Model (2021)](https://www.quantamagazine.org/a-video-tour-of-the-standard-model-20210716/)
 * [2025-01-05, 17:45:24](https://news.ycombinator.com/item?id=42603443) - [Minimum bipartite matching via Riemann optimization](https://ocramz.github.io/posts/2023-12-21-assignment-riemann-opt.html)
 * [2025-01-05, 17:11:31](https://news.ycombinator.com/item?id=42603188) - [Expressive Vector Engine – SIMD in C++](https://github.com/jfalcou/eve)
-* [2025-01-05, 17:05:01](https://news.ycombinator.com/item?id=42603140) - [Collusion through Common Leadership [pdf]](https://wwws.law.northwestern.edu/research-faculty/clbe/events/antitrust/documents/prager_collusion_through_common_leadership.pdf)
 * [2025-01-05, 14:21:35](https://news.ycombinator.com/item?id=42601890) - [How to Debounce a Contact (2014)](https://www.ganssle.com/debouncing.htm)
 
 ## [Archives](archives/index.md)
