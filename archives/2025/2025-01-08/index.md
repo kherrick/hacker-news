@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2025-01-08](index.md)
 
+* [2025-01-08, 12:32:34](https://news.ycombinator.com/item?id=42633501) - [We Cracked a 512-Bit DKIM Key for Less Than $8 in the Cloud](https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key)
+* [2025-01-08, 12:26:26](https://news.ycombinator.com/item?id=42633463) - [Fired from Meta After 1 Week: Here's All the Dirt I Got](https://sebastiancarlos.com/fired-from-meta-after-1-week-heres-all-the-dirt-i-got-855e4e5a0d65)
 * [2025-01-08, 12:01:24](https://news.ycombinator.com/item?id=42633305) - [Modern Treasury (YC S18) Is Hiring a Payments Engineering Manager](https://jobs.ashbyhq.com/moderntreasury/3bf0ac98-f9c4-47a0-b883-252db467fb6e?utm_source=yYPEbOqnBd)
+* [2025-01-08, 11:56:10](https://news.ycombinator.com/item?id=42633269) - [Bye-bye Windows gaming? SteamOS officially expands past the Steam Deck](https://arstechnica.com/gaming/2025/01/bye-bye-windows-gaming-steamos-officially-expands-past-the-steam-deck/)
 * [2025-01-08, 11:30:30](https://news.ycombinator.com/item?id=42633128) - [Meta scrapped factcheckers because systems were 'too complex'](https://www.theguardian.com/technology/2025/jan/08/meta-scrapped-factcheckers-because-systems-were-too-complex)
 * [2025-01-08, 11:24:40](https://news.ycombinator.com/item?id=42633093) - [All Garmin Connect services are down](https://connect.garmin.com/status/)
+* [2025-01-08, 10:47:17](https://news.ycombinator.com/item?id=42632878) - [Spinal cord injuries from mountain biking exceed hockey, other high-risk sports](https://www.med.ubc.ca/news/spinal-cord-injuries-from-mountain-biking-exceed-hockey-other-high-risk-sports/)
 * [2025-01-08, 10:44:09](https://news.ycombinator.com/item?id=42632865) - [The Comet is a handheld Linux computer that brings extensibility](https://mecha.so/comet)
+* [2025-01-08, 10:04:22](https://news.ycombinator.com/item?id=42632671) - [Linux Routing Fundamentals](https://blog.sdn.clinic/2025/01/linux-routing-fundamentals/)
 * [2025-01-08, 09:52:53](https://news.ycombinator.com/item?id=42632592) - [Embedding Scheme in Rust](https://raviqqe.com/doc/posts/stak/embedding-scheme-in-rust/)
 * [2025-01-08, 09:45:06](https://news.ycombinator.com/item?id=42632553) - [Calling women 'household objects' now permitted on Facebook](https://www.cnn.com/2025/01/07/tech/meta-hateful-conduct-policy-update-fact-check/index.html)
 * [2025-01-08, 08:43:18](https://news.ycombinator.com/item?id=42632308) - [Scsh Acknowledgements (1994)](https://scsh.net/docu/html/man.html)
