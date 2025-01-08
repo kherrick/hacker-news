@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-08, 18:58:58",
+      "https://news.ycombinator.com/item?id=42637304"
+    ],
+    [
+      "Some Programming Language Ideas",
+      "https://jerf.org/iri/post/2025/programming_language_ideas/"
+    ]
+  ],
+  [
+    [
       "2025-01-08, 18:16:37",
       "https://news.ycombinator.com/item?id=42636873"
     ],
@@ -57,6 +67,16 @@
     [
       "Fidget",
       "https://www.mattkeeter.com/projects/fidget/"
+    ]
+  ],
+  [
+    [
+      "2025-01-08, 13:18:39",
+      "https://news.ycombinator.com/item?id=42633880"
+    ],
+    [
+      "New questions on Stack Overflow are down 77% compared to 2022",
+      "https://gist.github.com/hopeseekr/f522e380e35745bd5bdc3269a9f0b132"
     ]
   ],
   [
@@ -147,16 +167,6 @@
     [
       "A day in the life of a prolific voice phishing crew",
       "https://krebsonsecurity.com/2025/01/a-day-in-the-life-of-a-prolific-voice-phishing-crew/"
-    ]
-  ],
-  [
-    [
-      "2025-01-07, 23:20:43",
-      "https://news.ycombinator.com/item?id=42628934"
-    ],
-    [
-      "Automated accessibility testing at Slack",
-      "https://slack.engineering/automated-accessibility-testing-at-slack/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Minimum bipartite matching via Riemann optimization (2023)",
       "https://ocramz.github.io/posts/2023-12-21-assignment-riemann-opt.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-05, 17:11:31",
-      "https://news.ycombinator.com/item?id=42603188"
-    ],
-    [
-      "Expressive Vector Engine – SIMD in C++",
-      "https://github.com/jfalcou/eve"
     ]
   ],
   [
