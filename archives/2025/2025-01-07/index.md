@@ -45,6 +45,7 @@
 * [2025-01-07, 12:00:33](https://news.ycombinator.com/item?id=42621544) - [Getty Images and Shutterstock to Merge](https://newsroom.gettyimages.com/en/getty-images/getty-images-and-shutterstock-to-merge-creating-a-premier-visual-content-company)
 * [2025-01-07, 11:28:20](https://news.ycombinator.com/item?id=42621399) - [Bog Standard (2005)](https://www.bbc.co.uk/worldservice/learningenglish/radio/specials/1728_uptodate/page25.shtml)
 * [2025-01-07, 11:11:53](https://news.ycombinator.com/item?id=42621332) - [Nvidia announces $3k personal AI supercomputer called Digits](https://www.theverge.com/2025/1/6/24337530/nvidia-ces-digits-super-computer-ai)
+* [2025-01-07, 10:06:56](https://news.ycombinator.com/item?id=42621033) - [Word Processors on the Commodore VIC-20 (2021)](https://techtinkering.com/articles/word-processors-on-the-commodore-vic-20/)
 * [2025-01-07, 10:00:08](https://news.ycombinator.com/item?id=42620994) - [AI and Startup Moats](https://unzip.dev/0x01f-ai-and-startup-moats/)
 * [2025-01-07, 09:07:47](https://news.ycombinator.com/item?id=42620700) - [Exploring Emergent \"Self-Awareness\" in Claude 3.5](https://github.com/andybrandt/conscious-claude)
 * [2025-01-07, 09:00:55](https://news.ycombinator.com/item?id=42620656) - [First time a Blender-made production has won the Golden Globe](https://variety.com/2025/film/columns/flow-golden-globe-win-independent-animation-1236266805/)
