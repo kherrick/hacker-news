@@ -24,7 +24,7 @@
 * [2025-01-06, 22:04:34](https://news.ycombinator.com/item?id=42616495) - [Small Data [video]](https://www.youtube.com/watch?v=eDr6_cMtfdA)
 * [2025-01-06, 16:30:42](https://news.ycombinator.com/item?id=42611971) - [Autocorrect in Your Keyboard Firmware (2021)](https://getreuer.info/posts/keyboards/autocorrection/index.html)
 * [2025-01-06, 02:18:13](https://news.ycombinator.com/item?id=42606927) - [Fold-... and Monoids](http://funcall.blogspot.com/2025/01/fold-and-monoids.html)
-* [2025-01-06, 00:23:48](https://news.ycombinator.com/item?id=42606285) - [Optimizing uint64_t Digit Counting: A Method that Beats Lemire's by up to 143%](https://github.com/RealTimeChris/BenchmarkSuite/blob/digit-counting/Benchmark/main.cpp)
+* [2025-01-06, 00:29:35](https://news.ycombinator.com/item?id=42606318) - [Who killed the rave? Late-night dancing falls into global decline](https://www.ft.com/content/2138e940-0c81-44b0-87a7-325f278413e1)
 * [2025-01-05, 21:43:44](https://news.ycombinator.com/item?id=42605311) - [A video tour of the Standard Model (2021)](https://www.quantamagazine.org/a-video-tour-of-the-standard-model-20210716/)
 * [2025-01-05, 17:45:24](https://news.ycombinator.com/item?id=42603443) - [Minimum bipartite matching via Riemann optimization](https://ocramz.github.io/posts/2023-12-21-assignment-riemann-opt.html)
 * [2025-01-05, 17:11:31](https://news.ycombinator.com/item?id=42603188) - [Expressive Vector Engine – SIMD in C++](https://github.com/jfalcou/eve)
