@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-08, 13:17:36](https://news.ycombinator.com/item?id=42633868) - [Stop to use words like \"safety\" when they mean \"sanitized\"](https://old.reddit.com/r/StableDiffusion/comments/1hwhizq/we_need_to_stop_allowing_entities_to_coop/)
 * [2025-01-08, 12:32:34](https://news.ycombinator.com/item?id=42633501) - [We Cracked a 512-Bit DKIM Key for Less Than $8 in the Cloud](https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key)
 * [2025-01-08, 12:01:24](https://news.ycombinator.com/item?id=42633305) - [Modern Treasury (YC S18) Is Hiring a Payments Engineering Manager](https://jobs.ashbyhq.com/moderntreasury/3bf0ac98-f9c4-47a0-b883-252db467fb6e?utm_source=yYPEbOqnBd)
 * [2025-01-08, 11:56:10](https://news.ycombinator.com/item?id=42633269) - [Bye-bye Windows gaming? SteamOS officially expands past the Steam Deck](https://arstechnica.com/gaming/2025/01/bye-bye-windows-gaming-steamos-officially-expands-past-the-steam-deck/)
@@ -7,7 +8,6 @@
 * [2025-01-08, 11:24:40](https://news.ycombinator.com/item?id=42633093) - [All Garmin Connect services are down](https://connect.garmin.com/status/)
 * [2025-01-08, 10:47:17](https://news.ycombinator.com/item?id=42632878) - [Spinal cord injuries from mountain biking exceed hockey, other high-risk sports](https://www.med.ubc.ca/news/spinal-cord-injuries-from-mountain-biking-exceed-hockey-other-high-risk-sports/)
 * [2025-01-08, 10:44:09](https://news.ycombinator.com/item?id=42632865) - [The Comet is a handheld Linux computer that brings extensibility](https://mecha.so/comet)
-* [2025-01-08, 10:22:21](https://news.ycombinator.com/item?id=42632772) - [The Aging Programmer](https://www.youtube.com/watch?v=mVWQQeSOD0M)
 * [2025-01-08, 10:04:22](https://news.ycombinator.com/item?id=42632671) - [Linux Routing Fundamentals](https://blog.sdn.clinic/2025/01/linux-routing-fundamentals/)
 * [2025-01-08, 09:52:53](https://news.ycombinator.com/item?id=42632592) - [Embedding Scheme in Rust](https://raviqqe.com/doc/posts/stak/embedding-scheme-in-rust/)
 * [2025-01-08, 08:43:18](https://news.ycombinator.com/item?id=42632308) - [Scsh Acknowledgements (1994)](https://scsh.net/docu/html/man.html)
