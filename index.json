@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-01-08, 12:32:34",
+      "https://news.ycombinator.com/item?id=42633501"
+    ],
+    [
+      "We Cracked a 512-Bit DKIM Key for Less Than $8 in the Cloud",
+      "https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key"
+    ]
+  ],
+  [
+    [
+      "2025-01-08, 12:26:26",
+      "https://news.ycombinator.com/item?id=42633463"
+    ],
+    [
+      "Fired from Meta After 1 Week: Here's All the Dirt I Got",
+      "https://sebastiancarlos.com/fired-from-meta-after-1-week-heres-all-the-dirt-i-got-855e4e5a0d65"
+    ]
+  ],
+  [
+    [
       "2025-01-08, 12:01:24",
       "https://news.ycombinator.com/item?id=42633305"
     ],
     [
       "Modern Treasury (YC S18) Is Hiring a Payments Engineering Manager",
       "https://jobs.ashbyhq.com/moderntreasury/3bf0ac98-f9c4-47a0-b883-252db467fb6e?utm_source=yYPEbOqnBd"
+    ]
+  ],
+  [
+    [
+      "2025-01-08, 11:56:10",
+      "https://news.ycombinator.com/item?id=42633269"
+    ],
+    [
+      "Bye-bye Windows gaming? SteamOS officially expands past the Steam Deck",
+      "https://arstechnica.com/gaming/2025/01/bye-bye-windows-gaming-steamos-officially-expands-past-the-steam-deck/"
     ]
   ],
   [
@@ -21,12 +51,32 @@
   ],
   [
     [
+      "2025-01-08, 10:47:17",
+      "https://news.ycombinator.com/item?id=42632878"
+    ],
+    [
+      "Spinal cord injuries from mountain biking exceed hockey, other high-risk sports",
+      "https://www.med.ubc.ca/news/spinal-cord-injuries-from-mountain-biking-exceed-hockey-other-high-risk-sports/"
+    ]
+  ],
+  [
+    [
       "2025-01-08, 10:44:09",
       "https://news.ycombinator.com/item?id=42632865"
     ],
     [
       "The Comet is a handheld Linux computer that brings extensibility",
       "https://mecha.so/comet"
+    ]
+  ],
+  [
+    [
+      "2025-01-08, 10:04:22",
+      "https://news.ycombinator.com/item?id=42632671"
+    ],
+    [
+      "Linux Routing Fundamentals",
+      "https://blog.sdn.clinic/2025/01/linux-routing-fundamentals/"
     ]
   ],
   [
@@ -61,16 +111,6 @@
   ],
   [
     [
-      "2025-01-08, 07:19:25",
-      "https://news.ycombinator.com/item?id=42631876"
-    ],
-    [
-      "Donut Lab's next-generation in-wheel motors",
-      "https://www.donutlab.com/motor/"
-    ]
-  ],
-  [
-    [
       "2025-01-08, 07:18:50",
       "https://news.ycombinator.com/item?id=42631873"
     ],
@@ -87,16 +127,6 @@
     [
       "Gate-level simulation of ASIC in browser",
       "https://znah.net/tt09/"
-    ]
-  ],
-  [
-    [
-      "2025-01-08, 05:20:28",
-      "https://news.ycombinator.com/item?id=42631208"
-    ],
-    [
-      "Six Sins of Platform Teams",
-      "https://serce.me/posts/2025-01-07-six-sins-of-platform-teams"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2025-01-07, 17:54:41",
-      "https://news.ycombinator.com/item?id=42625219"
-    ],
-    [
-      "Physicists Magnetize a Material with Light",
-      "https://news.mit.edu/2024/physicists-magnetize-material-using-light-1218"
-    ]
-  ],
-  [
-    [
       "2025-01-07, 16:22:09",
       "https://news.ycombinator.com/item?id=42624116"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-01-07, 12:39:37",
-      "https://news.ycombinator.com/item?id=42621766"
-    ],
-    [
-      "Building Ultra Long Range Toslink",
-      "https://blog.benjojo.co.uk/post/sfp-experiment-ultra-long-range-toslink"
-    ]
-  ],
-  [
-    [
       "2025-01-07, 08:43:20",
       "https://news.ycombinator.com/item?id=42620565"
     ],
@@ -231,32 +241,12 @@
   ],
   [
     [
-      "2025-01-06, 16:30:42",
-      "https://news.ycombinator.com/item?id=42611971"
-    ],
-    [
-      "Autocorrect in Your Keyboard Firmware (2021)",
-      "https://getreuer.info/posts/keyboards/autocorrection/index.html"
-    ]
-  ],
-  [
-    [
       "2025-01-06, 02:18:13",
       "https://news.ycombinator.com/item?id=42606927"
     ],
     [
       "Fold-... and Monoids",
       "http://funcall.blogspot.com/2025/01/fold-and-monoids.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-05, 21:43:44",
-      "https://news.ycombinator.com/item?id=42605311"
-    ],
-    [
-      "A video tour of the Standard Model (2021)",
-      "https://www.quantamagazine.org/a-video-tour-of-the-standard-model-20210716/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "How to Debounce a Contact (2014)",
       "https://www.ganssle.com/debouncing.htm"
+    ]
+  ],
+  [
+    [
+      "2025-01-04, 22:18:54",
+      "https://news.ycombinator.com/item?id=42598097"
+    ],
+    [
+      "A History of Early Microcontrollers, Part 1: Calculator Chips Came First (2022)",
+      "https://www.eejournal.com/article/a-history-of-early-microcontrollers-part-1-calculator-chips-came-first/"
     ]
   ]
 ]
