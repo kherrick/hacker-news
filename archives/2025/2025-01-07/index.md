@@ -45,6 +45,7 @@
 * [2025-01-07, 10:00:08](https://news.ycombinator.com/item?id=42620994) - [AI and Startup Moats](https://unzip.dev/0x01f-ai-and-startup-moats/)
 * [2025-01-07, 09:07:47](https://news.ycombinator.com/item?id=42620700) - [Exploring Emergent \"Self-Awareness\" in Claude 3.5](https://github.com/andybrandt/conscious-claude)
 * [2025-01-07, 09:00:55](https://news.ycombinator.com/item?id=42620656) - [First time a Blender-made production has won the Golden Globe](https://variety.com/2025/film/columns/flow-golden-globe-win-independent-animation-1236266805/)
+* [2025-01-07, 08:43:20](https://news.ycombinator.com/item?id=42620565) - [Hyperview – Native mobile apps, as easy as creating a website](https://hyperview.org/)
 * [2025-01-07, 08:41:27](https://news.ycombinator.com/item?id=42620555) - [A feature-rich Hacker News client](https://github.com/Livinglist/Hacki)
 * [2025-01-07, 07:45:42](https://news.ycombinator.com/item?id=42620278) - [Stay Gold, America](https://blog.codinghorror.com/)
 * [2025-01-07, 07:27:04](https://news.ycombinator.com/item?id=42620191) - [Alcohol-free booze is becoming big business](https://www.economist.com/business/2025/01/06/alcohol-free-booze-is-becoming-big-business)
