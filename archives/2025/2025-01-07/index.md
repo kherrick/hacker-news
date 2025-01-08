@@ -38,6 +38,7 @@
 * [2025-01-07, 15:23:45](https://news.ycombinator.com/item?id=42623315) - [Why Is the American Diet So Deadly?](https://www.newyorker.com/magazine/2024/01/13/why-is-the-american-diet-so-deadly)
 * [2025-01-07, 15:12:05](https://news.ycombinator.com/item?id=42623163) - [Google is building its own 'world modeling' AI team for games and robot training](https://www.theverge.com/2025/1/7/24338053/google-deepmind-world-modeling-ai-team-gaming-robot-training)
 * [2025-01-07, 15:09:47](https://news.ycombinator.com/item?id=42623144) - [Federal Reserve Bank of NY \"Doomsday Book\" 2022 via FOIA [pdf]](https://www.crisesnotes.com/content/files/2023/12/NYFRB-2006.--Doomsday-Book--Searchable.pdf)
+* [2025-01-07, 12:46:02](https://news.ycombinator.com/item?id=42621804) - [Learning Synths](https://learningsynths.ableton.com)
 * [2025-01-07, 12:39:37](https://news.ycombinator.com/item?id=42621766) - [Building Ultra Long Range Toslink](https://blog.benjojo.co.uk/post/sfp-experiment-ultra-long-range-toslink)
 * [2025-01-07, 12:15:22](https://news.ycombinator.com/item?id=42621627) - [Ending our third party fact-checking program and moving to Community Notes model](https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/)
 * [2025-01-07, 12:00:55](https://news.ycombinator.com/item?id=42621546) - [Jiga (YC W21) Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-remote-full-stack-engineer-react-node-mongo)
