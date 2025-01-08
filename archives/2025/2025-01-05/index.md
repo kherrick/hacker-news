@@ -33,6 +33,7 @@
 * [2025-01-05, 16:06:06](https://news.ycombinator.com/item?id=42602673) - [How ads are chewing through half of your mobile data](https://www.nextpit.com/ads-consume-half-of-your-mobile-data)
 * [2025-01-05, 15:58:05](https://news.ycombinator.com/item?id=42602603) - [Reliable System Call Interception](https://blog.mggross.com/intercepting-syscalls/)
 * [2025-01-05, 15:31:01](https://news.ycombinator.com/item?id=42602415) - [X is testing a standalone app for Grok, its AI chatbot](https://twitter.com/refsrc/status/1875920739620343879)
+* [2025-01-05, 15:21:22](https://news.ycombinator.com/item?id=42602336) - [Do It in Jeans First](https://www.gkogan.co/jeans/)
 * [2025-01-05, 15:20:48](https://news.ycombinator.com/item?id=42602330) - [In my life, I've witnessed three elite salespeople at work](https://slate.com/life/2024/12/work-jobs-sales-telemarketing-america.html)
 * [2025-01-05, 15:13:45](https://news.ycombinator.com/item?id=42602273) - [How Do You Like What You've Built?](https://morrisbrodersen.de/how-do-you-like-what-you-built/)
 * [2025-01-05, 14:59:19](https://news.ycombinator.com/item?id=42602158) - [How to decode METAR and TAF reports](https://met.nps.edu/~bcreasey/mr3222/files/helpful/DecodeMETAR-TAF.html)
