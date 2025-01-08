@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2025-01-08](index.md)
 
+* [2025-01-08, 12:01:24](https://news.ycombinator.com/item?id=42633305) - [Modern Treasury (YC S18) Is Hiring a Payments Engineering Manager](https://jobs.ashbyhq.com/moderntreasury/3bf0ac98-f9c4-47a0-b883-252db467fb6e?utm_source=yYPEbOqnBd)
 * [2025-01-08, 11:30:30](https://news.ycombinator.com/item?id=42633128) - [Meta scrapped factcheckers because systems were 'too complex'](https://www.theguardian.com/technology/2025/jan/08/meta-scrapped-factcheckers-because-systems-were-too-complex)
+* [2025-01-08, 11:24:40](https://news.ycombinator.com/item?id=42633093) - [All Garmin Connect services are down](https://connect.garmin.com/status/)
+* [2025-01-08, 10:44:09](https://news.ycombinator.com/item?id=42632865) - [The Comet is a handheld Linux computer that brings extensibility](https://mecha.so/comet)
 * [2025-01-08, 09:52:53](https://news.ycombinator.com/item?id=42632592) - [Embedding Scheme in Rust](https://raviqqe.com/doc/posts/stak/embedding-scheme-in-rust/)
 * [2025-01-08, 09:45:06](https://news.ycombinator.com/item?id=42632553) - [Calling women 'household objects' now permitted on Facebook](https://www.cnn.com/2025/01/07/tech/meta-hateful-conduct-policy-update-fact-check/index.html)
 * [2025-01-08, 08:43:18](https://news.ycombinator.com/item?id=42632308) - [Scsh Acknowledgements (1994)](https://scsh.net/docu/html/man.html)
 * [2025-01-08, 07:34:26](https://news.ycombinator.com/item?id=42631959) - [Schola Latina Europæa and Universalis](http://avitus.alcuinus.net/schola_latina/soni_en.php)
+* [2025-01-08, 07:19:25](https://news.ycombinator.com/item?id=42631876) - [Donut Lab's next-generation in-wheel motors](https://www.donutlab.com/motor/)
 * [2025-01-08, 07:18:50](https://news.ycombinator.com/item?id=42631873) - [Writing an Operating System in 1000 Lines](https://operating-system-in-1000-lines.vercel.app/en)
 * [2025-01-08, 07:00:12](https://news.ycombinator.com/item?id=42631758) - [Tiptap (YC S23) is hiring a senior full stack engineer in EU](https://www.ycombinator.com/companies/tiptap/jobs/ZJhpyYA-senior-full-stack-engineer)
 * [2025-01-08, 06:38:41](https://news.ycombinator.com/item?id=42631629) - [Gate-level simulation of ASIC in browser](https://znah.net/tt09/)
