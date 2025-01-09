@@ -20,6 +20,7 @@
 * [2025-01-08, 12:32:34](https://news.ycombinator.com/item?id=42633501) - [Cracking a 512-bit DKIM key for less than $8 in the cloud](https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key)
 * [2025-01-08, 11:14:20](https://news.ycombinator.com/item?id=42633035) - [Show HN: Belshazzar's Clock, luminous paint night clock](https://blog.karliner.net/projects/belshazzars-clock/)
 * [2025-01-08, 07:18:50](https://news.ycombinator.com/item?id=42631873) - [Operating System in 1,000 Lines – Intro](https://operating-system-in-1000-lines.vercel.app/en)
+* [2025-01-08, 06:38:41](https://news.ycombinator.com/item?id=42631629) - [Gate-level simulation of ASIC in browser](https://znah.net/tt09/)
 * [2025-01-07, 20:47:38](https://news.ycombinator.com/item?id=42627270) - [How many real numbers exist? New proof moves closer to an answer (2021)](https://www.quantamagazine.org/how-many-numbers-exist-infinity-proof-moves-math-closer-to-an-answer-20210715/)
 * [2025-01-07, 12:46:02](https://news.ycombinator.com/item?id=42621804) - [Learning Synths](https://learningsynths.ableton.com)
 * [2025-01-07, 09:12:00](https://news.ycombinator.com/item?id=42620720) - [Collection: More Doctors Smoke Camels](https://tobacco.stanford.edu/cigarettes/doctors-smoking/more-doctors-smoke-camels/)
@@ -27,7 +28,6 @@
 * [2025-01-06, 00:48:58](https://news.ycombinator.com/item?id=42606433) - [A Pixel Parable](https://olano.dev/blog/a-pixel-parable/)
 * [2025-01-06, 00:29:35](https://news.ycombinator.com/item?id=42606318) - [Who killed the rave?](https://www.ft.com/content/2138e940-0c81-44b0-87a7-325f278413e1)
 * [2025-01-05, 23:07:37](https://news.ycombinator.com/item?id=42605848) - [Writing a simple pool allocator in C](https://8dcc.github.io/programming/pool-allocator.html)
-* [2025-01-05, 15:33:47](https://news.ycombinator.com/item?id=42602438) - [Brief Introduction to Fix and Fix JSON](https://fixparser.dev/what-is-fix)
 * [2025-01-05, 15:23:00](https://news.ycombinator.com/item?id=42602347) - [Did we miss P In CAP? Partial Progress Conjecture under Asynchrony](https://arxiv.org/abs/2501.00021)
 * [2025-01-05, 03:28:23](https://news.ycombinator.com/item?id=42599522) - [Orca that carried dead calf for weeks appears to be in mourning again](https://www.nytimes.com/2025/01/02/us/mother-orca-tahlequah-calf-dead.html)
 
