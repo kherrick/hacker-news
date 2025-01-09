@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-09, 18:10:32",
+      "https://news.ycombinator.com/item?id=42648280"
+    ],
+    [
+      "A Deep Dive into JVM Start Up",
+      "https://inside.java/2025/01/09/sw-startup/"
+    ]
+  ],
+  [
+    [
       "2025-01-09, 17:15:11",
       "https://news.ycombinator.com/item?id=42647695"
     ],
@@ -197,16 +207,6 @@
     [
       "Cracking a 512-bit DKIM key for less than $8 in the cloud",
       "https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key"
-    ]
-  ],
-  [
-    [
-      "2025-01-08, 02:19:09",
-      "https://news.ycombinator.com/item?id=42630192"
-    ],
-    [
-      "Double-keyed caching: Browser cache partitioning",
-      "https://addyosmani.com/blog/double-keyed-caching/"
     ]
   ],
   [
