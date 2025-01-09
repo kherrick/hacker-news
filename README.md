@@ -22,7 +22,7 @@
 * [2025-01-08, 12:32:34](https://news.ycombinator.com/item?id=42633501) - [Cracking a 512-bit DKIM key for less than $8 in the cloud](https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key)
 * [2025-01-08, 07:18:50](https://news.ycombinator.com/item?id=42631873) - [Operating System in 1,000 Lines – Intro](https://operating-system-in-1000-lines.vercel.app/en)
 * [2025-01-08, 02:19:09](https://news.ycombinator.com/item?id=42630192) - [Double-keyed caching: Browser cache partitioning](https://addyosmani.com/blog/double-keyed-caching/)
-* [2025-01-07, 12:46:02](https://news.ycombinator.com/item?id=42621804) - [Learning Synths](https://learningsynths.ableton.com)
+* [2025-01-07, 06:51:37](https://news.ycombinator.com/item?id=42620001) - [Nvidia releases its own brand of world models](https://techcrunch.com/2025/01/06/nvidia-releases-its-own-brand-of-world-models/)
 * [2025-01-06, 19:15:47](https://news.ycombinator.com/item?id=42614274) - [Drawing Animals with Margaret Mead](https://www.psychologytoday.com/intl/blog/impromptu-man/202412/drawing-animals-with-margaret-mead)
 * [2025-01-06, 15:04:24](https://news.ycombinator.com/item?id=42611126) - [The Latest Fake Literary Agencies](https://writerbeware.blog/2024/08/16/the-latest-fake-literary-agencies/)
 * [2025-01-06, 14:04:31](https://news.ycombinator.com/item?id=42610620) - [Industrial photographer Christopher Payne spotlights the good in American labor](https://www.scopeofwork.net/the-honorable-parts/)
