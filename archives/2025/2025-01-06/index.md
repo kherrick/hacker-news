@@ -36,6 +36,7 @@
 * [2025-01-06, 16:47:53](https://news.ycombinator.com/item?id=42612211) - [Property-Based Testing for the People](https://repository.upenn.edu/entities/publication/72ca3499-c5f6-4fc1-b5a3-9d66d8dd534e)
 * [2025-01-06, 16:31:27](https://news.ycombinator.com/item?id=42611978) - [Raising of Chicago](https://en.wikipedia.org/wiki/Raising_of_Chicago)
 * [2025-01-06, 16:30:42](https://news.ycombinator.com/item?id=42611971) - [Autocorrect in Your Keyboard Firmware (2021)](https://getreuer.info/posts/keyboards/autocorrection/index.html)
+* [2025-01-06, 16:27:20](https://news.ycombinator.com/item?id=42611919) - [Relax while watching bouncing particles making connections when they get closer](https://tiki.li/apps/particles.html?v=2501a)
 * [2025-01-06, 16:19:20](https://news.ycombinator.com/item?id=42611844) - [My little sister's use of ChatGPT for homework is heartbreaking](https://old.reddit.com/r/ChatGPT/comments/1hun3e4/my_little_sisters_use_of_chatgpt_for_homework_is/)
 * [2025-01-06, 16:17:36](https://news.ycombinator.com/item?id=42611818) - [A swashbuckling tale of Italian software piracy – 1983-1993 (2022)](https://genesistemple.com/a-swashbuckling-tale-of-italian-software-piracy-1983-1993)
 * [2025-01-06, 16:07:47](https://news.ycombinator.com/item?id=42611730) - [Justin Trudeau promises to resign as PM](https://www.cbc.ca/news/politics/trudeau-news-conference-1.7423680)
