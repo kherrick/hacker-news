@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-09](index.md)
 
+* [2025-01-09, 22:37:01](https://news.ycombinator.com/item?id=42650561) - [Soldering the Tek Way](https://hackaday.com/2025/01/09/retrotechtacular-soldering-the-tek-way/)
 * [2025-01-09, 21:46:07](https://news.ycombinator.com/item?id=42650094) - [The '90s weren't that great](https://www.slowboring.com/p/the-90s-werent-that-great)
 * [2025-01-09, 21:33:06](https://news.ycombinator.com/item?id=42649996) - [Ask HN: A friend has brain cancer: any bio hacks that worked?](https://news.ycombinator.com/item?id=42649996)
 * [2025-01-09, 21:19:14](https://news.ycombinator.com/item?id=42649887) - [How to delete your Facebook account](https://www.theverge.com/22231495/delete-facebook-page-account-how-to)
