@@ -21,7 +21,7 @@
 * [2025-01-08, 07:18:50](https://news.ycombinator.com/item?id=42631873) - [Operating System in 1,000 Lines – Intro](https://operating-system-in-1000-lines.vercel.app/en)
 * [2025-01-08, 02:19:09](https://news.ycombinator.com/item?id=42630192) - [Double-keyed caching: Browser cache partitioning](https://addyosmani.com/blog/double-keyed-caching/)
 * [2025-01-07, 20:47:38](https://news.ycombinator.com/item?id=42627270) - [How many real numbers exist? New proof moves closer to an answer (2021)](https://www.quantamagazine.org/how-many-numbers-exist-infinity-proof-moves-math-closer-to-an-answer-20210715/)
-* [2025-01-07, 09:12:00](https://news.ycombinator.com/item?id=42620720) - [Collection: More Doctors Smoke Camels](https://tobacco.stanford.edu/cigarettes/doctors-smoking/more-doctors-smoke-camels/)
+* [2025-01-06, 17:24:21](https://news.ycombinator.com/item?id=42612661) - [Ask HN: How can I learn to better command people's attention when speaking?](https://news.ycombinator.com/item?id=42612661)
 * [2025-01-06, 15:04:24](https://news.ycombinator.com/item?id=42611126) - [The Latest Fake Literary Agencies](https://writerbeware.blog/2024/08/16/the-latest-fake-literary-agencies/)
 * [2025-01-06, 14:04:31](https://news.ycombinator.com/item?id=42610620) - [Industrial photographer Christopher Payne spotlights the good in American labor](https://www.scopeofwork.net/the-honorable-parts/)
 * [2025-01-06, 07:35:15](https://news.ycombinator.com/item?id=42608540) - [Four causes for 'Zoom fatigue' (2021)](https://news.stanford.edu/stories/2021/02/four-causes-zoom-fatigue-solutions)
