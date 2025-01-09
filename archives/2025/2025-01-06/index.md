@@ -53,6 +53,7 @@
 * [2025-01-06, 13:02:01](https://news.ycombinator.com/item?id=42610204) - [Chromebooks still set for scrap, even with 10-year lifecycle](https://www.theregister.com/2025/01/06/chromebook_end_of_life/)
 * [2025-01-06, 12:30:11](https://news.ycombinator.com/item?id=42610021) - [Ratchet effects determine engineer reputation at large companies – sean goedecke](https://www.seangoedecke.com/ratchet-effects/)
 * [2025-01-06, 12:28:16](https://news.ycombinator.com/item?id=42610007) - [Why are corporations cutting managers?](https://arnoldkling.substack.com/p/why-are-corporations-cutting-managers)
+* [2025-01-06, 12:24:24](https://news.ycombinator.com/item?id=42609982) - [Why clowns paint their faces on eggs (2017)](https://www.bbc.com/future/article/20171206-the-fascinating-reason-why-clowns-paint-their-faces-on-eggs)
 * [2025-01-06, 12:03:46](https://news.ycombinator.com/item?id=42609865) - [Show HN: SPath is a Rust lib for query JSONPath over any semi-structured data](https://github.com/cratesland/spath)
 * [2025-01-06, 11:54:10](https://news.ycombinator.com/item?id=42609819) - [Show HN: Mashups – Resurrecting Yahoo Pipes, my side project](https://www.mashups.io)
 * [2025-01-06, 11:12:00](https://news.ycombinator.com/item?id=42609602) - [Constellation's Nuclear Plants to Provide Power for US Government Agencies](https://www.nucnet.org/news/historic-procurement-will-see-constellation-s-nuclear-plants-provide-power-for-us-government-agencies-1-5-2025)
