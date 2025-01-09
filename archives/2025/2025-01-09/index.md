@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-09](index.md)
 
 * [2025-01-09, 12:54:36](https://news.ycombinator.com/item?id=42644834) - [My Amazon TV Now Unmutes Itself During Prime Video Commercial Breaks](https://old.reddit.com/r/mildlyinfuriating/comments/1hx5wkq/my_amazon_tv_now_unmutes_itself_during_prime/)
+* [2025-01-09, 12:44:04](https://news.ycombinator.com/item?id=42644742) - [Why kids need to take more risks: science reveal benefits of wild, free play](https://www.nature.com/articles/d41586-024-04215-2)
 * [2025-01-09, 12:06:21](https://news.ycombinator.com/item?id=42644434) - [Microsoft should be terrified of SteamOS](https://www.pcworld.com/article/2571541/microsoft-should-be-terrified-of-steamos.html)
 * [2025-01-09, 12:00:27](https://news.ycombinator.com/item?id=42644392) - [Roboflow (YC S20) is hiring an engineer to work on its open source projects](https://www.ycombinator.com/companies/roboflow/jobs/cHrnmMH-open-source-software-engineer)
 * [2025-01-09, 11:44:38](https://news.ycombinator.com/item?id=42644302) - [Man trapped inside driverless car as it spins in circles](https://www.bbc.com/news/videos/c70e2g09ng9o)

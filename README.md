@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-09, 12:54:36](https://news.ycombinator.com/item?id=42644834) - [My Amazon TV Now Unmutes Itself During Prime Video Commercial Breaks](https://old.reddit.com/r/mildlyinfuriating/comments/1hx5wkq/my_amazon_tv_now_unmutes_itself_during_prime/)
+* [2025-01-09, 12:44:04](https://news.ycombinator.com/item?id=42644742) - [Why kids need to take more risks: science reveal benefits of wild, free play](https://www.nature.com/articles/d41586-024-04215-2)
 * [2025-01-09, 12:06:21](https://news.ycombinator.com/item?id=42644434) - [Microsoft should be terrified of SteamOS](https://www.pcworld.com/article/2571541/microsoft-should-be-terrified-of-steamos.html)
 * [2025-01-09, 12:00:27](https://news.ycombinator.com/item?id=42644392) - [Roboflow (YC S20) is hiring an engineer to work on its open source projects](https://www.ycombinator.com/companies/roboflow/jobs/cHrnmMH-open-source-software-engineer)
 * [2025-01-09, 11:42:31](https://news.ycombinator.com/item?id=42644291) - [Stay Gold, America](https://blog.codinghorror.com/stay-gold-america/)
@@ -10,6 +10,7 @@
 * [2025-01-09, 07:58:38](https://news.ycombinator.com/item?id=42642873) - [New 16GB Raspberry Pi 5 on sale now at $120](https://www.raspberrypi.com/news/16gb-raspberry-pi-5-on-sale-now-at-120/)
 * [2025-01-09, 02:51:29](https://news.ycombinator.com/item?id=42641109) - [My Experience Biohacking](https://vale.rocks/posts/my-experience-biohacking)
 * [2025-01-08, 23:13:08](https://news.ycombinator.com/item?id=42639563) - [Steve Langasek, one of Ubuntu Linux's leading lights, has died](https://thenewstack.io/steve-langasek-one-of-ubuntu-linuxs-leading-lights-has-died/)
+* [2025-01-08, 21:40:09](https://news.ycombinator.com/item?id=42638735) - [LA wildfires force thousands to evacuate, NASA JPL closed](https://www.theregister.com/2025/01/08/los_angeles_fires_jpl/)
 * [2025-01-08, 21:27:12](https://news.ycombinator.com/item?id=42638626) - [I had to take down my course-swapping site or be expelled](https://www.linkedin.com/posts/jdkaim_github-jdkaimhuskyswap-huskyswap-project-activity-7282609173316415488-1jdb)
 * [2025-01-08, 18:58:58](https://news.ycombinator.com/item?id=42637304) - [Some programming language ideas](https://jerf.org/iri/post/2025/programming_language_ideas/)
 * [2025-01-08, 18:16:37](https://news.ycombinator.com/item?id=42636873) - [NeuralSVG: An Implicit Representation for Text-to-Vector Generation](https://sagipolaczek.github.io/NeuralSVG/)
@@ -22,7 +23,6 @@
 * [2025-01-08, 12:32:34](https://news.ycombinator.com/item?id=42633501) - [Cracking a 512-bit DKIM key for less than $8 in the cloud](https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key)
 * [2025-01-08, 07:18:50](https://news.ycombinator.com/item?id=42631873) - [Operating System in 1,000 Lines – Intro](https://operating-system-in-1000-lines.vercel.app/en)
 * [2025-01-08, 02:19:09](https://news.ycombinator.com/item?id=42630192) - [Double-keyed caching: Browser cache partitioning](https://addyosmani.com/blog/double-keyed-caching/)
-* [2025-01-07, 06:51:37](https://news.ycombinator.com/item?id=42620001) - [Nvidia releases its own brand of world models](https://techcrunch.com/2025/01/06/nvidia-releases-its-own-brand-of-world-models/)
 * [2025-01-06, 19:15:47](https://news.ycombinator.com/item?id=42614274) - [Drawing Animals with Margaret Mead](https://www.psychologytoday.com/intl/blog/impromptu-man/202412/drawing-animals-with-margaret-mead)
 * [2025-01-06, 16:17:36](https://news.ycombinator.com/item?id=42611818) - [A swashbuckling tale of Italian software piracy – 1983-1993 (2022)](https://genesistemple.com/a-swashbuckling-tale-of-italian-software-piracy-1983-1993)
 * [2025-01-06, 15:04:24](https://news.ycombinator.com/item?id=42611126) - [The Latest Fake Literary Agencies](https://writerbeware.blog/2024/08/16/the-latest-fake-literary-agencies/)
