@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-09, 08:54:33](https://news.ycombinator.com/item?id=42643254) - [Thank You, Airbnb](https://twitter.com/anammostarac/status/1876872587738833184)
 * [2025-01-09, 08:16:13](https://news.ycombinator.com/item?id=42642992) - [Who would buy a Raspberry Pi for $120?](https://www.jeffgeerling.com/blog/2025/who-would-buy-raspberry-pi-120)
 * [2025-01-09, 07:58:38](https://news.ycombinator.com/item?id=42642873) - [New 16GB Raspberry Pi 5 on sale now at $120](https://www.raspberrypi.com/news/16gb-raspberry-pi-5-on-sale-now-at-120/)
 * [2025-01-09, 07:00:17](https://news.ycombinator.com/item?id=42642393) - [AccessOwl (YC S22) is hiring a TypeScript Engineer in EU to connect 100s of SaaS](https://www.ycombinator.com/companies/accessowl/jobs/cziclTH-senior-software-engineer-typescript-focus)
@@ -17,7 +18,6 @@
 * [2025-01-08, 16:41:04](https://news.ycombinator.com/item?id=42635942) - [Show HN: Stagehand – an open source browser automation framework powered by AI](https://github.com/browserbase/stagehand)
 * [2025-01-08, 14:47:34](https://news.ycombinator.com/item?id=42634787) - [Show HN: Atlas of Space](https://atlasof.space/)
 * [2025-01-08, 14:30:58](https://news.ycombinator.com/item?id=42634624) - [Fidget](https://www.mattkeeter.com/projects/fidget/)
-* [2025-01-08, 13:30:58](https://news.ycombinator.com/item?id=42633985) - [On Priesthoods](https://www.astralcodexten.com/p/on-priesthoods)
 * [2025-01-08, 13:11:40](https://news.ycombinator.com/item?id=42633805) - [Robotics 101 at UMich: Applied numerical linear algebra as intro linear algebra](https://robotics.umich.edu/academics/courses/course-offerings/rob101-fall-2020/)
 * [2025-01-08, 12:32:34](https://news.ycombinator.com/item?id=42633501) - [Cracking a 512-bit DKIM key for less than $8 in the cloud](https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key)
 * [2025-01-08, 07:18:50](https://news.ycombinator.com/item?id=42631873) - [Operating System in 1,000 Lines – Intro](https://operating-system-in-1000-lines.vercel.app/en)
