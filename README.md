@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-09, 13:12:57](https://news.ycombinator.com/item?id=42645012) - [Why aren't we all serverless yet?](https://varoa.net/2025/01/09/serverless.html)
 * [2025-01-09, 12:00:27](https://news.ycombinator.com/item?id=42644392) - [Roboflow (YC S20) is hiring an engineer to work on its open source projects](https://www.ycombinator.com/companies/roboflow/jobs/cHrnmMH-open-source-software-engineer)
 * [2025-01-09, 11:29:52](https://news.ycombinator.com/item?id=42644204) - [Scientists uncover how the brain washes itself during sleep](https://www.science.org/content/article/scientists-uncover-how-brain-washes-itself-during-sleep)
 * [2025-01-09, 11:23:03](https://news.ycombinator.com/item?id=42644168) - [Show HN: Factorio Blueprint Visualizer](https://github.com/piebro/factorio-blueprint-visualizer)
@@ -21,13 +20,14 @@
 * [2025-01-08, 12:32:34](https://news.ycombinator.com/item?id=42633501) - [Cracking a 512-bit DKIM key for less than $8 in the cloud](https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key)
 * [2025-01-08, 11:36:05](https://news.ycombinator.com/item?id=42633157) - [Adding UTF-8 support to the Kilo editor using AI and human hints [video]](https://www.youtube.com/watch?v=qipoQGqMCp0)
 * [2025-01-08, 07:18:50](https://news.ycombinator.com/item?id=42631873) - [Operating System in 1,000 Lines – Intro](https://operating-system-in-1000-lines.vercel.app/en)
+* [2025-01-08, 06:38:41](https://news.ycombinator.com/item?id=42631629) - [Gate-level simulation of ASIC in browser](https://znah.net/tt09/)
 * [2025-01-08, 02:19:09](https://news.ycombinator.com/item?id=42630192) - [Double-keyed caching: Browser cache partitioning](https://addyosmani.com/blog/double-keyed-caching/)
 * [2025-01-07, 12:46:02](https://news.ycombinator.com/item?id=42621804) - [Learning Synths](https://learningsynths.ableton.com)
 * [2025-01-06, 19:15:47](https://news.ycombinator.com/item?id=42614274) - [Drawing Animals with Margaret Mead](https://www.psychologytoday.com/intl/blog/impromptu-man/202412/drawing-animals-with-margaret-mead)
 * [2025-01-06, 16:17:36](https://news.ycombinator.com/item?id=42611818) - [A swashbuckling tale of Italian software piracy – 1983-1993 (2022)](https://genesistemple.com/a-swashbuckling-tale-of-italian-software-piracy-1983-1993)
 * [2025-01-06, 15:04:24](https://news.ycombinator.com/item?id=42611126) - [The Latest Fake Literary Agencies](https://writerbeware.blog/2024/08/16/the-latest-fake-literary-agencies/)
-* [2025-01-06, 14:27:31](https://news.ycombinator.com/item?id=42610797) - [Year 7 as a CTO](https://miguelcarranza.es/cto-year-7)
 * [2025-01-06, 14:04:31](https://news.ycombinator.com/item?id=42610620) - [Industrial photographer Christopher Payne spotlights the good in American labor](https://www.scopeofwork.net/the-honorable-parts/)
+* [2025-01-06, 00:48:58](https://news.ycombinator.com/item?id=42606433) - [A Pixel Parable](https://olano.dev/blog/a-pixel-parable/)
 * [2025-01-05, 23:07:37](https://news.ycombinator.com/item?id=42605848) - [Writing a simple pool allocator in C](https://8dcc.github.io/programming/pool-allocator.html)
 * [2025-01-05, 06:15:14](https://news.ycombinator.com/item?id=42600111) - [Writing as Transformation](https://www.newyorker.com/culture/the-weekend-essay/writing-as-transformation-louise-gluck)
 
