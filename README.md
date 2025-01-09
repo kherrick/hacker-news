@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-09, 08:16:13](https://news.ycombinator.com/item?id=42642992) - [Who would buy a Raspberry Pi for $120?](https://www.jeffgeerling.com/blog/2025/who-would-buy-raspberry-pi-120)
+* [2025-01-09, 07:58:38](https://news.ycombinator.com/item?id=42642873) - [New 16GB Raspberry Pi 5 on sale now at $120](https://www.raspberrypi.com/news/16gb-raspberry-pi-5-on-sale-now-at-120/)
 * [2025-01-09, 07:00:17](https://news.ycombinator.com/item?id=42642393) - [AccessOwl (YC S22) is hiring a TypeScript Engineer in EU to connect 100s of SaaS](https://www.ycombinator.com/companies/accessowl/jobs/cziclTH-senior-software-engineer-typescript-focus)
 * [2025-01-09, 06:02:38](https://news.ycombinator.com/item?id=42642089) - [Luigi Mangione's account has been renamed on Stack Overflow](https://substack.evancarroll.com/p/the-erasure-of-luigi-mangione)
 * [2025-01-09, 04:08:36](https://news.ycombinator.com/item?id=42641530) - [Show HN: LA Wildfire Satellite Analysis](https://github.com/xingyzt/fire)
@@ -25,11 +27,9 @@
 * [2025-01-06, 15:04:24](https://news.ycombinator.com/item?id=42611126) - [The Latest Fake Literary Agencies](https://writerbeware.blog/2024/08/16/the-latest-fake-literary-agencies/)
 * [2025-01-06, 14:04:31](https://news.ycombinator.com/item?id=42610620) - [Industrial photographer Christopher Payne spotlights the good in American labor](https://www.scopeofwork.net/the-honorable-parts/)
 * [2025-01-06, 07:35:15](https://news.ycombinator.com/item?id=42608540) - [Four causes for 'Zoom fatigue' (2021)](https://news.stanford.edu/stories/2021/02/four-causes-zoom-fatigue-solutions)
-* [2025-01-06, 00:48:58](https://news.ycombinator.com/item?id=42606433) - [A Pixel Parable](https://olano.dev/blog/a-pixel-parable/)
 * [2025-01-06, 00:29:35](https://news.ycombinator.com/item?id=42606318) - [Who killed the rave?](https://www.ft.com/content/2138e940-0c81-44b0-87a7-325f278413e1)
 * [2025-01-05, 23:07:37](https://news.ycombinator.com/item?id=42605848) - [Writing a simple pool allocator in C](https://8dcc.github.io/programming/pool-allocator.html)
 * [2025-01-05, 14:44:42](https://news.ycombinator.com/item?id=42602062) - [Olympians turn to OnlyFans to fund dreams due to 'broken' finance system (2024)](https://www.cbc.ca/sports/olympics/summer/athletics/onlyfans-alysha-newman-canada-olympics-1.7290724)
-* [2025-01-05, 03:28:23](https://news.ycombinator.com/item?id=42599522) - [Orca that carried dead calf for weeks appears to be in mourning again](https://www.nytimes.com/2025/01/02/us/mother-orca-tahlequah-calf-dead.html)
 
 ## [Archives](archives/index.md)
 
