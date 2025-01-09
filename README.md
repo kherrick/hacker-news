@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-09, 20:24:01](https://news.ycombinator.com/item?id=42649517) - [World's largest pumped storage power plant fully operational in China](https://www.ess-news.com/2025/01/09/worlds-largest-pumped-storage-power-plant-fully-operational-in-china/)
 * [2025-01-09, 20:02:36](https://news.ycombinator.com/item?id=42649340) - [How Britain got its first internet connection (2018)](https://theconversation.com/how-britain-got-its-first-internet-connection-by-the-late-pioneer-who-created-the-first-password-on-the-internet-45404)
 * [2025-01-09, 19:28:56](https://news.ycombinator.com/item?id=42649027) - [Perpetual Movement: Francis Picabia's 391 Review (1917–1924)](https://publicdomainreview.org/collection/francis-picabia-391-review/)
 * [2025-01-09, 17:15:11](https://news.ycombinator.com/item?id=42647695) - [MixRank (YC S11) Is Hiring Software Engineers Globally](https://news.ycombinator.com/item?id=42647695)
@@ -27,7 +28,6 @@
 * [2025-01-06, 15:04:24](https://news.ycombinator.com/item?id=42611126) - [The Latest Fake Literary Agencies](https://writerbeware.blog/2024/08/16/the-latest-fake-literary-agencies/)
 * [2025-01-06, 15:00:42](https://news.ycombinator.com/item?id=42611099) - [Agents Are Not Enough](https://www.arxiv.org/pdf/2412.16241)
 * [2025-01-06, 14:04:31](https://news.ycombinator.com/item?id=42610620) - [Industrial photographer Christopher Payne spotlights the good in American labor](https://www.scopeofwork.net/the-honorable-parts/)
-* [2025-01-06, 12:24:24](https://news.ycombinator.com/item?id=42609982) - [Why clowns paint their faces on eggs (2017)](https://www.bbc.com/future/article/20171206-the-fascinating-reason-why-clowns-paint-their-faces-on-eggs)
 * [2025-01-05, 23:07:37](https://news.ycombinator.com/item?id=42605848) - [Writing a simple pool allocator in C](https://8dcc.github.io/programming/pool-allocator.html)
 * [2025-01-05, 06:15:14](https://news.ycombinator.com/item?id=42600111) - [Writing as Transformation](https://www.newyorker.com/culture/the-weekend-essay/writing-as-transformation-louise-gluck)
 
