@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-01-09](index.md)
 
+* [2025-01-09, 12:54:36](https://news.ycombinator.com/item?id=42644834) - [My Amazon TV Now Unmutes Itself During Prime Video Commercial Breaks](https://old.reddit.com/r/mildlyinfuriating/comments/1hx5wkq/my_amazon_tv_now_unmutes_itself_during_prime/)
+* [2025-01-09, 12:06:21](https://news.ycombinator.com/item?id=42644434) - [Microsoft should be terrified of SteamOS](https://www.pcworld.com/article/2571541/microsoft-should-be-terrified-of-steamos.html)
 * [2025-01-09, 12:00:27](https://news.ycombinator.com/item?id=42644392) - [Roboflow (YC S20) is hiring an engineer to work on its open source projects](https://www.ycombinator.com/companies/roboflow/jobs/cHrnmMH-open-source-software-engineer)
 * [2025-01-09, 11:44:38](https://news.ycombinator.com/item?id=42644302) - [Man trapped inside driverless car as it spins in circles](https://www.bbc.com/news/videos/c70e2g09ng9o)
+* [2025-01-09, 11:42:31](https://news.ycombinator.com/item?id=42644291) - [Stay Gold, America](https://blog.codinghorror.com/stay-gold-america/)
 * [2025-01-09, 11:17:20](https://news.ycombinator.com/item?id=42644140) - [Hitler dismantled a democracy in 53 days through constitutional means](https://www.theatlantic.com/ideas/archive/2025/01/hitler-germany-constitution-authoritarianism/681233/)
 * [2025-01-09, 10:56:54](https://news.ycombinator.com/item?id=42644015) - [VLC tops 6B downloads, previews AI-generated subtitles](https://techcrunch.com/2025/01/09/vlc-tops-6-billion-downloads-previews-ai-generated-subtitles/)
+* [2025-01-09, 10:23:28](https://news.ycombinator.com/item?id=42643803) - [Software Bugs Led to 'One of the Greatest Miscarriages of Justice'](https://cacm.acm.org/news/how-software-bugs-led-to-one-of-the-greatest-miscarriages-of-justice-in-british-history/)
 * [2025-01-09, 09:43:41](https://news.ycombinator.com/item?id=42643532) - [Poka-Yoke](https://en.wikipedia.org/wiki/Poka-yoke)
 * [2025-01-09, 09:42:11](https://news.ycombinator.com/item?id=42643518) - [The sad beige aesthetic: why has the world suddenly turned taupe?](https://www.theguardian.com/lifeandstyle/2025/jan/09/the-sad-beige-aesthetic-why-has-the-world-suddenly-turned-taupe)
 * [2025-01-09, 08:54:33](https://news.ycombinator.com/item?id=42643254) - [Thank You, Airbnb](https://twitter.com/anammostarac/status/1876872587738833184)
