@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-09, 06:02:38](https://news.ycombinator.com/item?id=42642089) - [The Erasure of Luigi Mangione](https://substack.evancarroll.com/p/the-erasure-of-luigi-mangione)
 * [2025-01-09, 00:25:39](https://news.ycombinator.com/item?id=42640180) - [You don't have to pay the Microsoft 365 price increase](https://www.consumer.org.nz/articles/you-don-t-have-to-pay-the-microsoft-365-price-increase)
 * [2025-01-08, 23:37:54](https://news.ycombinator.com/item?id=42639779) - [28h Days: year 1 update](https://sidhion.com/blog/28h_days_update_1/)
 * [2025-01-08, 23:29:06](https://news.ycombinator.com/item?id=42639691) - [A Supermarket in California (1955)](https://www.poetryfoundation.org/poems/47660/a-supermarket-in-california)
@@ -28,7 +29,6 @@
 * [2025-01-06, 00:48:58](https://news.ycombinator.com/item?id=42606433) - [A Pixel Parable](https://olano.dev/blog/a-pixel-parable/)
 * [2025-01-06, 00:29:35](https://news.ycombinator.com/item?id=42606318) - [Who killed the rave?](https://www.ft.com/content/2138e940-0c81-44b0-87a7-325f278413e1)
 * [2025-01-05, 23:07:37](https://news.ycombinator.com/item?id=42605848) - [Writing a simple pool allocator in C](https://8dcc.github.io/programming/pool-allocator.html)
-* [2025-01-05, 15:23:00](https://news.ycombinator.com/item?id=42602347) - [Did we miss P In CAP? Partial Progress Conjecture under Asynchrony](https://arxiv.org/abs/2501.00021)
 * [2025-01-05, 03:28:23](https://news.ycombinator.com/item?id=42599522) - [Orca that carried dead calf for weeks appears to be in mourning again](https://www.nytimes.com/2025/01/02/us/mother-orca-tahlequah-calf-dead.html)
 
 ## [Archives](archives/index.md)
