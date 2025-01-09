@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-01-09](index.md)
 
+* [2025-01-09, 17:07:40](https://news.ycombinator.com/item?id=42647633) - [\"Twelfth Night Till Candlemas\" – a 40-year book-quest and its remarkable ending](https://davidallengreen.com/2024/12/twelfth-night-till-candlemas-the-story-of-a-forty-year-book-quest-and-of-its-remarkable-ending/)
 * [2025-01-09, 16:38:26](https://news.ycombinator.com/item?id=42647343) - [Show HN: TabPFN v2 – A SOTA foundation model for small tabular data](https://www.nature.com/articles/s41586-024-08328-6/link)
 * [2025-01-09, 16:19:34](https://news.ycombinator.com/item?id=42647101) - [WorstFit: Unveiling Hidden Transformers in Windows ANSI](https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/)
+* [2025-01-09, 16:03:01](https://news.ycombinator.com/item?id=42646914) - [Atari ST 40th Anniversary](https://www.goto10retro.com/p/atari-st-40th-anniversary)
 * [2025-01-09, 13:31:33](https://news.ycombinator.com/item?id=42645218) - [Show HN: A playable game of Tetris inside a PDF](https://th0mas.nl/downloads/pdftris.pdf)
 * [2025-01-09, 13:29:04](https://news.ycombinator.com/item?id=42645187) - [Auto-saving Rails forms with Turbo Streams](https://nts.strzibny.name/rails-autosave-form-turbo-stream/)
 * [2025-01-09, 13:22:44](https://news.ycombinator.com/item?id=42645119) - [My Favorite Self-Hosted Apps Launched in 2024](https://selfh.st/2024-favorite-new-apps/)
