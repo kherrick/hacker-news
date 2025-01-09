@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-05](index.md)
 
+* [2025-01-05, 23:07:37](https://news.ycombinator.com/item?id=42605848) - [Writing a simple pool allocator in C](https://8dcc.github.io/programming/pool-allocator.html)
 * [2025-01-05, 22:49:03](https://news.ycombinator.com/item?id=42605740) - [Duolicious – Open-source dating app](https://github.com/duolicious)
 * [2025-01-05, 22:46:13](https://news.ycombinator.com/item?id=42605718) - [Coinage and the Tyranny of Fantasy 'Gold'](https://acoup.blog/2025/01/03/collections-coinage-and-the-tyranny-of-fantasy-gold/)
 * [2025-01-05, 22:44:08](https://news.ycombinator.com/item?id=42605707) - [Republishing My Simpsons Fan Site, Twenty Years Later](https://www.bingeclock.com/blog/post/republishing-my-simpsons-fan-site-twenty-years-later)
@@ -80,6 +81,7 @@
 * [2025-01-05, 05:22:20](https://news.ycombinator.com/item?id=42599960) - [Discotool: USB Arduino type boards discovery library and tool](https://github.com/Neradoc/discotool)
 * [2025-01-05, 04:09:21](https://news.ycombinator.com/item?id=42599696) - [Blur Busters Open Source Display Initiative – Refresh Cycle Shaders](https://blurbusters.com/blur-busters-open-source-display-initative-refresh-cycle-shaders/)
 * [2025-01-05, 03:47:12](https://news.ycombinator.com/item?id=42599599) - [Guten: A Tiny Newspaper Printer](https://amanvir.com/guten)
+* [2025-01-05, 03:28:23](https://news.ycombinator.com/item?id=42599522) - [Orca that carried dead calf for weeks appears to be in mourning again](https://www.nytimes.com/2025/01/02/us/mother-orca-tahlequah-calf-dead.html)
 * [2025-01-05, 03:24:51](https://news.ycombinator.com/item?id=42599507) - [GPON FTTH networks (in)security (2016)](https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html#introduction)
 * [2025-01-05, 02:26:19](https://news.ycombinator.com/item?id=42599261) - [Refurb Weekend: Atari Stacy](http://oldvcr.blogspot.com/2025/01/refurb-weekend-atari-stacy.html)
 * [2025-01-05, 02:12:13](https://news.ycombinator.com/item?id=42599189) - [No more needles Tracking blood sugar on your wrist](https://uwaterloo.ca/news/media/no-more-needles-tracking-blood-sugar-your-wrist)
