@@ -36,6 +36,7 @@
 * [2025-01-05, 16:28:09](https://news.ycombinator.com/item?id=42602850) - [My Favorite Book on AI](https://www.gatesnotes.com/The-Coming-Wave)
 * [2025-01-05, 16:06:06](https://news.ycombinator.com/item?id=42602673) - [How ads are chewing through half of your mobile data](https://www.nextpit.com/ads-consume-half-of-your-mobile-data)
 * [2025-01-05, 15:58:05](https://news.ycombinator.com/item?id=42602603) - [Reliable System Call Interception](https://blog.mggross.com/intercepting-syscalls/)
+* [2025-01-05, 15:33:47](https://news.ycombinator.com/item?id=42602438) - [Brief Introduction to Fix and Fix JSON](https://fixparser.dev/what-is-fix)
 * [2025-01-05, 15:31:01](https://news.ycombinator.com/item?id=42602415) - [X is testing a standalone app for Grok, its AI chatbot](https://twitter.com/refsrc/status/1875920739620343879)
 * [2025-01-05, 15:23:00](https://news.ycombinator.com/item?id=42602347) - [Did we miss P In CAP? Partial Progress Conjecture under Asynchrony](https://arxiv.org/abs/2501.00021)
 * [2025-01-05, 15:21:22](https://news.ycombinator.com/item?id=42602336) - [Do It in Jeans First](https://www.gkogan.co/jeans/)
