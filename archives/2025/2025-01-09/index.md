@@ -11,6 +11,7 @@
 * [2025-01-09, 20:24:01](https://news.ycombinator.com/item?id=42649517) - [World's largest pumped storage power plant fully operational in China](https://www.ess-news.com/2025/01/09/worlds-largest-pumped-storage-power-plant-fully-operational-in-china/)
 * [2025-01-09, 20:02:36](https://news.ycombinator.com/item?id=42649340) - [How Britain got its first internet connection (2018)](https://theconversation.com/how-britain-got-its-first-internet-connection-by-the-late-pioneer-who-created-the-first-password-on-the-internet-45404)
 * [2025-01-09, 19:28:56](https://news.ycombinator.com/item?id=42649027) - [Perpetual Movement: Francis Picabia's 391 Review (1917–1924)](https://publicdomainreview.org/collection/francis-picabia-391-review/)
+* [2025-01-09, 18:43:07](https://news.ycombinator.com/item?id=42648597) - [How do you backup your Android?](https://news.ycombinator.com/item?id=42648597)
 * [2025-01-09, 18:10:32](https://news.ycombinator.com/item?id=42648280) - [A Deep Dive into JVM Start Up](https://inside.java/2025/01/09/sw-startup/)
 * [2025-01-09, 17:33:01](https://news.ycombinator.com/item?id=42647883) - [Show HN: A browser designed to support uBlock Origin (MV2) and respect privacy](https://ublock-browser.com/)
 * [2025-01-09, 17:15:11](https://news.ycombinator.com/item?id=42647695) - [MixRank (YC S11) Is Hiring Software Engineers Globally](https://news.ycombinator.com/item?id=42647695)
