@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-09, 07:00:17](https://news.ycombinator.com/item?id=42642393) - [AccessOwl (YC S22) is hiring a TypeScript Engineer in EU to connect 100s of SaaS](https://www.ycombinator.com/companies/accessowl/jobs/cziclTH-senior-software-engineer-typescript-focus)
 * [2025-01-09, 06:02:38](https://news.ycombinator.com/item?id=42642089) - [The Erasure of Luigi Mangione](https://substack.evancarroll.com/p/the-erasure-of-luigi-mangione)
 * [2025-01-09, 00:25:39](https://news.ycombinator.com/item?id=42640180) - [You don't have to pay the Microsoft 365 price increase](https://www.consumer.org.nz/articles/you-don-t-have-to-pay-the-microsoft-365-price-increase)
 * [2025-01-08, 23:37:54](https://news.ycombinator.com/item?id=42639779) - [28h Days: year 1 update](https://sidhion.com/blog/28h_days_update_1/)
-* [2025-01-08, 23:29:06](https://news.ycombinator.com/item?id=42639691) - [A Supermarket in California (1955)](https://www.poetryfoundation.org/poems/47660/a-supermarket-in-california)
 * [2025-01-08, 23:13:08](https://news.ycombinator.com/item?id=42639563) - [Steve Langasek, one of Ubuntu Linux's leading lights, has died](https://thenewstack.io/steve-langasek-one-of-ubuntu-linuxs-leading-lights-has-died/)
 * [2025-01-08, 21:40:09](https://news.ycombinator.com/item?id=42638735) - [LA wildfires force thousands to evacuate, NASA JPL closed](https://www.theregister.com/2025/01/08/los_angeles_fires_jpl/)
 * [2025-01-08, 21:27:12](https://news.ycombinator.com/item?id=42638626) - [I had to take down my course-swapping site or be expelled](https://www.linkedin.com/posts/jdkaim_github-jdkaimhuskyswap-huskyswap-project-activity-7282609173316415488-1jdb)

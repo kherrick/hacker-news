@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-09](index.md)
 
+* [2025-01-09, 07:00:17](https://news.ycombinator.com/item?id=42642393) - [AccessOwl (YC S22) is hiring a TypeScript Engineer in EU to connect 100s of SaaS](https://www.ycombinator.com/companies/accessowl/jobs/cziclTH-senior-software-engineer-typescript-focus)
 * [2025-01-09, 06:02:38](https://news.ycombinator.com/item?id=42642089) - [The Erasure of Luigi Mangione](https://substack.evancarroll.com/p/the-erasure-of-luigi-mangione)
 * [2025-01-09, 04:08:36](https://news.ycombinator.com/item?id=42641530) - [Show HN: LA Wildfire Satellite Analysis](https://github.com/xingyzt/fire)
 * [2025-01-09, 02:51:29](https://news.ycombinator.com/item?id=42641109) - [I Got a Magnet Implanted in My Hand](https://vale.rocks/posts/my-experience-biohacking)
