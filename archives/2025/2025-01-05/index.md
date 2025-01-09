@@ -22,6 +22,7 @@
 * [2025-01-05, 19:34:18](https://news.ycombinator.com/item?id=42604350) - [Reverse Engineering the Constants in the Pentium FPU](http://www.righto.com/2025/01/pentium-floating-point-ROM.html)
 * [2025-01-05, 18:31:45](https://news.ycombinator.com/item?id=42603830) - [There are different sorts of WireGuard setups with different difficulties](https://utcc.utoronto.ca/~cks/space/blog/tech/WireGuardSetupTypes)
 * [2025-01-05, 18:23:11](https://news.ycombinator.com/item?id=42603767) - [Edwin Cohn and the Harvard Blood Factory](https://www.asimov.press/p/cohn)
+* [2025-01-05, 18:07:36](https://news.ycombinator.com/item?id=42603629) - [Get the Funk Out](https://lessheavy.substack.com/p/get-the-funk-out)
 * [2025-01-05, 18:02:20](https://news.ycombinator.com/item?id=42603585) - [Akamai to shut down its CDN operations in China](https://content.akamai.com/index.php/email/emailWebview?email=NjQyLVNLTi00NDkAAAGWBQgHSPFMp0ow2aF67IAbDOB0c1pNppYjWH8ZCkGxrVi4pDs7pT_120NiLvARghhVOBbaIJqps_3Ii2OZlixo3IPjhpR79JsTe-0&trk=comments_comments-list_comment-text)
 * [2025-01-05, 17:54:22](https://news.ycombinator.com/item?id=42603511) - [The Rise of the French Fry Cartel](https://jacobin.com/2025/01/french-fry-price-fixing-antitrust/)
 * [2025-01-05, 17:45:24](https://news.ycombinator.com/item?id=42603443) - [Minimum bipartite matching via Riemann optimization](https://ocramz.github.io/posts/2023-12-21-assignment-riemann-opt.html)
