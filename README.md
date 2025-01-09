@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-09, 21:33:06](https://news.ycombinator.com/item?id=42649996) - [Ask HN: A friend has brain cancer: any bio hacks that worked?](https://news.ycombinator.com/item?id=42649996)
 * [2025-01-09, 21:19:14](https://news.ycombinator.com/item?id=42649887) - [How to delete your Facebook account](https://www.theverge.com/22231495/delete-facebook-page-account-how-to)
 * [2025-01-09, 20:24:01](https://news.ycombinator.com/item?id=42649517) - [World's largest pumped storage power plant fully operational in China](https://www.ess-news.com/2025/01/09/worlds-largest-pumped-storage-power-plant-fully-operational-in-china/)
 * [2025-01-09, 20:02:36](https://news.ycombinator.com/item?id=42649340) - [How Britain got its first internet connection (2015)](https://theconversation.com/how-britain-got-its-first-internet-connection-by-the-late-pioneer-who-created-the-first-password-on-the-internet-45404)
@@ -13,7 +14,6 @@
 * [2025-01-09, 13:01:37](https://news.ycombinator.com/item?id=42644896) - [Rational or Not? This Basic Math Question Took Decades to Answer](https://www.quantamagazine.org/rational-or-not-this-basic-math-question-took-decades-to-answer-20250108/)
 * [2025-01-09, 11:29:52](https://news.ycombinator.com/item?id=42644204) - [Scientists uncover how the brain washes itself during sleep](https://www.science.org/content/article/scientists-uncover-how-brain-washes-itself-during-sleep)
 * [2025-01-09, 11:23:03](https://news.ycombinator.com/item?id=42644168) - [Show HN: Factorio Blueprint Visualizer](https://github.com/piebro/factorio-blueprint-visualizer)
-* [2025-01-08, 21:27:12](https://news.ycombinator.com/item?id=42638626) - [I had to take down my course-swapping site or be expelled](https://www.linkedin.com/posts/jdkaim_github-jdkaimhuskyswap-huskyswap-project-activity-7282609173316415488-1jdb)
 * [2025-01-08, 18:16:37](https://news.ycombinator.com/item?id=42636873) - [NeuralSVG: An Implicit Representation for Text-to-Vector Generation](https://sagipolaczek.github.io/NeuralSVG/)
 * [2025-01-08, 17:28:48](https://news.ycombinator.com/item?id=42636424) - [Bad Moon Rising](https://archaeology.org/issues/january-february-2025/digs-discoveries/bad-moon-rising/)
 * [2025-01-08, 16:41:04](https://news.ycombinator.com/item?id=42635942) - [Show HN: Stagehand – an open source browser automation framework powered by AI](https://github.com/browserbase/stagehand)
