@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-01-09](index.md)
 
+* [2025-01-09, 16:19:34](https://news.ycombinator.com/item?id=42647101) - [WorstFit: Unveiling Hidden Transformers in Windows ANSI](https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/)
 * [2025-01-09, 13:31:33](https://news.ycombinator.com/item?id=42645218) - [Show HN: A playable game of Tetris inside a PDF](https://th0mas.nl/downloads/pdftris.pdf)
+* [2025-01-09, 13:29:04](https://news.ycombinator.com/item?id=42645187) - [Auto-saving Rails forms with Turbo Streams](https://nts.strzibny.name/rails-autosave-form-turbo-stream/)
+* [2025-01-09, 13:22:44](https://news.ycombinator.com/item?id=42645119) - [My Favorite Self-Hosted Apps Launched in 2024](https://selfh.st/2024-favorite-new-apps/)
+* [2025-01-09, 13:21:40](https://news.ycombinator.com/item?id=42645110) - [SQL NULLs Are Weird](https://jirevwe.github.io/sql-nulls-are-weird.html)
 * [2025-01-09, 13:20:36](https://news.ycombinator.com/item?id=42645099) - [Directory of remote-only job boards](https://www.jobsearchdb.com/job-board-categories/remote-only)
+* [2025-01-09, 13:18:20](https://news.ycombinator.com/item?id=42645075) - [The Seven-Action Documentation Model](https://passo.uno/seven-action-model/)
 * [2025-01-09, 13:12:57](https://news.ycombinator.com/item?id=42645012) - [Why aren't we all serverless yet?](https://varoa.net/2025/01/09/serverless.html)
 * [2025-01-09, 13:01:37](https://news.ycombinator.com/item?id=42644896) - [Rational or Not? This Basic Math Question Took Decades to Answer](https://www.quantamagazine.org/rational-or-not-this-basic-math-question-took-decades-to-answer-20250108/)
 * [2025-01-09, 12:54:36](https://news.ycombinator.com/item?id=42644834) - [My Amazon TV Now Unmutes Itself During Prime Video Commercial Breaks](https://old.reddit.com/r/mildlyinfuriating/comments/1hx5wkq/my_amazon_tv_now_unmutes_itself_during_prime/)
