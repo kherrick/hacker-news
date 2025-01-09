@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-09](index.md)
 
+* [2025-01-09, 13:31:33](https://news.ycombinator.com/item?id=42645218) - [Show HN: A playable game of Tetris inside a PDF](https://th0mas.nl/downloads/pdftris.pdf)
 * [2025-01-09, 13:20:36](https://news.ycombinator.com/item?id=42645099) - [Directory of remote-only job boards](https://www.jobsearchdb.com/job-board-categories/remote-only)
 * [2025-01-09, 13:12:57](https://news.ycombinator.com/item?id=42645012) - [Why aren't we all serverless yet?](https://varoa.net/2025/01/09/serverless.html)
 * [2025-01-09, 12:54:36](https://news.ycombinator.com/item?id=42644834) - [My Amazon TV Now Unmutes Itself During Prime Video Commercial Breaks](https://old.reddit.com/r/mildlyinfuriating/comments/1hx5wkq/my_amazon_tv_now_unmutes_itself_during_prime/)
