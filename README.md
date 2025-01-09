@@ -2,7 +2,6 @@
 
 * [2025-01-09, 09:43:41](https://news.ycombinator.com/item?id=42643532) - [Poka-Yoke](https://en.wikipedia.org/wiki/Poka-yoke)
 * [2025-01-09, 09:42:11](https://news.ycombinator.com/item?id=42643518) - [The sad beige aesthetic: why has the world suddenly turned taupe?](https://www.theguardian.com/lifeandstyle/2025/jan/09/the-sad-beige-aesthetic-why-has-the-world-suddenly-turned-taupe)
-* [2025-01-09, 08:54:33](https://news.ycombinator.com/item?id=42643254) - [Thank You, Airbnb](https://twitter.com/anammostarac/status/1876872587738833184)
 * [2025-01-09, 07:58:38](https://news.ycombinator.com/item?id=42642873) - [New 16GB Raspberry Pi 5 on sale now at $120](https://www.raspberrypi.com/news/16gb-raspberry-pi-5-on-sale-now-at-120/)
 * [2025-01-09, 07:00:17](https://news.ycombinator.com/item?id=42642393) - [AccessOwl (YC S22) is hiring a TypeScript Engineer in EU to connect 100s of SaaS](https://www.ycombinator.com/companies/accessowl/jobs/cziclTH-senior-software-engineer-typescript-focus)
 * [2025-01-09, 04:08:36](https://news.ycombinator.com/item?id=42641530) - [Show HN: LA Wildfire Satellite Analysis](https://github.com/xingyzt/fire)
@@ -22,6 +21,7 @@
 * [2025-01-08, 12:32:34](https://news.ycombinator.com/item?id=42633501) - [Cracking a 512-bit DKIM key for less than $8 in the cloud](https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key)
 * [2025-01-08, 07:18:50](https://news.ycombinator.com/item?id=42631873) - [Operating System in 1,000 Lines – Intro](https://operating-system-in-1000-lines.vercel.app/en)
 * [2025-01-08, 02:19:09](https://news.ycombinator.com/item?id=42630192) - [Double-keyed caching: Browser cache partitioning](https://addyosmani.com/blog/double-keyed-caching/)
+* [2025-01-07, 12:46:02](https://news.ycombinator.com/item?id=42621804) - [Learning Synths](https://learningsynths.ableton.com)
 * [2025-01-06, 19:15:47](https://news.ycombinator.com/item?id=42614274) - [Drawing Animals with Margaret Mead](https://www.psychologytoday.com/intl/blog/impromptu-man/202412/drawing-animals-with-margaret-mead)
 * [2025-01-06, 15:04:24](https://news.ycombinator.com/item?id=42611126) - [The Latest Fake Literary Agencies](https://writerbeware.blog/2024/08/16/the-latest-fake-literary-agencies/)
 * [2025-01-06, 14:04:31](https://news.ycombinator.com/item?id=42610620) - [Industrial photographer Christopher Payne spotlights the good in American labor](https://www.scopeofwork.net/the-honorable-parts/)
