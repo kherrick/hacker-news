@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-09, 22:37:01](https://news.ycombinator.com/item?id=42650561) - [Soldering the Tek Way](https://hackaday.com/2025/01/09/retrotechtacular-soldering-the-tek-way/)
-* [2025-01-09, 21:19:14](https://news.ycombinator.com/item?id=42649887) - [How to delete your Facebook account](https://www.theverge.com/22231495/delete-facebook-page-account-how-to)
 * [2025-01-09, 20:02:36](https://news.ycombinator.com/item?id=42649340) - [How Britain got its first internet connection (2015)](https://theconversation.com/how-britain-got-its-first-internet-connection-by-the-late-pioneer-who-created-the-first-password-on-the-internet-45404)
 * [2025-01-09, 19:28:56](https://news.ycombinator.com/item?id=42649027) - [Perpetual Movement: Francis Picabia's 391 Review (1917–1924)](https://publicdomainreview.org/collection/francis-picabia-391-review/)
+* [2025-01-09, 18:43:07](https://news.ycombinator.com/item?id=42648597) - [Ask HN: How do you backup your Android?](https://news.ycombinator.com/item?id=42648597)
 * [2025-01-09, 17:15:11](https://news.ycombinator.com/item?id=42647695) - [MixRank (YC S11) Is Hiring Software Engineers Globally](https://news.ycombinator.com/item?id=42647695)
 * [2025-01-09, 17:07:40](https://news.ycombinator.com/item?id=42647633) - [\"Twelfth Night Till Candlemas\" – a 40-year book-quest and its remarkable ending](https://davidallengreen.com/2024/12/twelfth-night-till-candlemas-the-story-of-a-forty-year-book-quest-and-of-its-remarkable-ending/)
 * [2025-01-09, 16:38:26](https://news.ycombinator.com/item?id=42647343) - [Show HN: TabPFN v2 – A SOTA foundation model for small tabular data](https://www.nature.com/articles/s41586-024-08328-6/link)
