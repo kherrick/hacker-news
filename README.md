@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-09, 02:51:29](https://news.ycombinator.com/item?id=42641109) - [I Got a Magnet Implanted in My Hand](https://vale.rocks/posts/my-experience-biohacking)
 * [2025-01-09, 00:25:39](https://news.ycombinator.com/item?id=42640180) - [You don't have to pay the Microsoft 365 price increase](https://www.consumer.org.nz/articles/you-don-t-have-to-pay-the-microsoft-365-price-increase)
 * [2025-01-08, 23:37:54](https://news.ycombinator.com/item?id=42639779) - [28h Days: year 1 update](https://sidhion.com/blog/28h_days_update_1/)
 * [2025-01-08, 23:29:06](https://news.ycombinator.com/item?id=42639691) - [A Supermarket in California (1955)](https://www.poetryfoundation.org/poems/47660/a-supermarket-in-california)
@@ -9,6 +8,7 @@
 * [2025-01-08, 21:40:09](https://news.ycombinator.com/item?id=42638735) - [LA wildfires force thousands to evacuate, NASA JPL closed](https://www.theregister.com/2025/01/08/los_angeles_fires_jpl/)
 * [2025-01-08, 21:27:12](https://news.ycombinator.com/item?id=42638626) - [I had to take down my course-swapping site or be expelled](https://www.linkedin.com/posts/jdkaim_github-jdkaimhuskyswap-huskyswap-project-activity-7282609173316415488-1jdb)
 * [2025-01-08, 19:58:22](https://news.ycombinator.com/item?id=42637853) - [Multiplicative Infinitesimals](https://github.com/Ericson2314/baccumulation/blob/main/math/multiplicative-infinitesimals.md)
+* [2025-01-08, 18:58:58](https://news.ycombinator.com/item?id=42637304) - [Some programming language ideas](https://jerf.org/iri/post/2025/programming_language_ideas/)
 * [2025-01-08, 18:16:37](https://news.ycombinator.com/item?id=42636873) - [NeuralSVG: An Implicit Representation for Text-to-Vector Generation](https://sagipolaczek.github.io/NeuralSVG/)
 * [2025-01-08, 17:53:51](https://news.ycombinator.com/item?id=42636675) - [White House unveils Cyber Trust Mark program for consumer devices](https://www.nextgov.com/cybersecurity/2025/01/white-house-unveils-cyber-trust-mark-program-consumer-devices/401991/)
 * [2025-01-08, 17:00:22](https://news.ycombinator.com/item?id=42636150) - [Two Dots (YC S22) Is Hiring ML and Back End Engineers](https://www.ycombinator.com/companies/two-dots/jobs/97PTcHT-machine-learning-engineer)
