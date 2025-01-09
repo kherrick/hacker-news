@@ -129,6 +129,84 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="42647343">
+          <h3>
+            <a
+              class="item"
+              href="https://www.nature.com/articles/s41586-024-08328-6/link"
+              >Show HN: TabPFN v2 – A SOTA foundation model for small tabular
+              data</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-01-09 @ 16:38:26</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42647343"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                The model is available under an open license: a derivative of
+                the Apache 2 license with a single modification, adding an
+                enhanced attribution requirement inspired by the Llama 3
+                license:
+                <a href="https://github.com/PriorLabs/tabpfn"
+                  >https://github.com/PriorLabs/tabpfn</a
+                >. You can also try it via API:
+                <a href="https://github.com/PriorLabs/tabpfn-client"
+                  >https://github.com/PriorLabs/tabpfn-client</a
+                >
+              </p>
+              <p>
+                TabPFN v2 is trained on 130 million synthetic tabular prediction
+                datasets to perform in-context learning and output a predictive
+                distribution for the test data points. Each dataset acts as one
+                meta-datapoint to train the TabPFN weights with SGD. As a
+                foundation model, TabPFN allows for fine-tuning, density
+                estimation and data generation.
+              </p>
+              <p>
+                Compared to TabPFN v1, v2 now natively supports categorical
+                features and missing values. TabPFN v2 performs just as well on
+                datasets with or without these. It also handles outliers and
+                uninformative features naturally, problems that often throw off
+                standard neural nets.
+              </p>
+              <p>
+                TabPFN v2 performs as well with half the data as the next best
+                baseline (CatBoost) with all the data.
+              </p>
+              <p>
+                We also compared TabPFN to the SOTA AutoML system AutoGluon 1.0.
+                Standard TabPFN already outperforms AutoGluon on classification
+                and ties on regression, but ensembling multiple TabPFNs in
+                TabPFN v2 (PHE) is even better.
+              </p>
+              <p>
+                There are some limitations: TabPFN v2 is very fast to train and
+                does not require hyperparameter tuning, but inference is slow.
+                The model is also only designed for datasets up to 10k data
+                points and 500 features. While it may perform well on larger
+                datasets, it hasn't been our focus.
+              </p>
+              <p>
+                We're actively working on removing these limitations and intend
+                to release new versions of TabPFN that can handle larger
+                datasets, have faster inference and perform in additional
+                predictive settings such as time-series and recommender systems.
+              </p>
+              <p>
+                We would love for you to try out TabPFN v2 and give us your
+                feedback!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="42647101">
           <h3>
             <a
@@ -141,11 +219,11 @@
             <h4>
               <span>2025-01-09 @ 16:19:34</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42647101"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -160,11 +238,11 @@
             <h4>
               <span>2025-01-09 @ 13:31:33</span
               ><span class="points-container"
-                >Points: <span class="points">120</span></span
+                >Points: <span class="points">143</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42645218"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
             <div class="text">
@@ -199,11 +277,11 @@
             <h4>
               <span>2025-01-09 @ 13:29:04</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42645187"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -218,11 +296,11 @@
             <h4>
               <span>2025-01-09 @ 13:22:44</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42645119"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -239,11 +317,11 @@
             <h4>
               <span>2025-01-09 @ 13:21:40</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42645110"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -258,7 +336,7 @@
             <h4>
               <span>2025-01-09 @ 13:18:20</span
               ><span class="points-container"
-                >Points: <span class="points">6</span></span
+                >Points: <span class="points">9</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42645075"
                   >Comments</a
@@ -280,11 +358,11 @@
             <h4>
               <span>2025-01-09 @ 13:01:37</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42644896"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -319,11 +397,11 @@
             <h4>
               <span>2025-01-09 @ 11:29:52</span
               ><span class="points-container"
-                >Points: <span class="points">123</span></span
+                >Points: <span class="points">129</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42644204"
                   >Comments</a
-                ><span class="descendants">: 89</span></span
+                ><span class="descendants">: 91</span></span
               >
             </h4>
           </section>
@@ -340,11 +418,11 @@
             <h4>
               <span>2025-01-09 @ 11:23:03</span
               ><span class="points-container"
-                >Points: <span class="points">190</span></span
+                >Points: <span class="points">193</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42644168"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -365,7 +443,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42641109"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -382,32 +460,11 @@
             <h4>
               <span>2025-01-08 @ 21:27:12</span
               ><span class="points-container"
-                >Points: <span class="points">1029</span></span
+                >Points: <span class="points">1033</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42638626"
                   >Comments</a
-                ><span class="descendants">: 472</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="42637304">
-          <h3>
-            <a
-              class="item"
-              href="https://jerf.org/iri/post/2025/programming_language_ideas/"
-              >Some programming language ideas</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-01-08 @ 18:58:58</span
-              ><span class="points-container"
-                >Points: <span class="points">201</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42637304"
-                  >Comments</a
-                ><span class="descendants">: 163</span></span
+                ><span class="descendants">: 475</span></span
               >
             </h4>
           </section>
@@ -445,11 +502,11 @@
             <h4>
               <span>2025-01-08 @ 17:53:51</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">114</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42636675"
                   >Comments</a
-                ><span class="descendants">: 84</span></span
+                ><span class="descendants">: 85</span></span
               >
             </h4>
           </section>
@@ -466,7 +523,7 @@
             <h4>
               <span>2025-01-08 @ 17:28:48</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42636424"
                   >Comments</a
@@ -485,11 +542,11 @@
             <h4>
               <span>2025-01-08 @ 16:54:39</span
               ><span class="points-container"
-                >Points: <span class="points">272</span></span
+                >Points: <span class="points">274</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42636086"
                   >Comments</a
-                ><span class="descendants">: 118</span></span
+                ><span class="descendants">: 119</span></span
               >
             </h4>
           </section>
@@ -505,7 +562,7 @@
             <h4>
               <span>2025-01-08 @ 16:41:04</span
               ><span class="points-container"
-                >Points: <span class="points">235</span></span
+                >Points: <span class="points">238</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42635942"
                   >Comments</a
@@ -594,11 +651,11 @@
             <h4>
               <span>2025-01-08 @ 14:47:34</span
               ><span class="points-container"
-                >Points: <span class="points">616</span></span
+                >Points: <span class="points">617</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42634787"
                   >Comments</a
-                ><span class="descendants">: 112</span></span
+                ><span class="descendants">: 113</span></span
               >
             </h4>
             <div class="text">
@@ -633,7 +690,7 @@
             <h4>
               <span>2025-01-08 @ 14:30:58</span
               ><span class="points-container"
-                >Points: <span class="points">486</span></span
+                >Points: <span class="points">487</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42634624"
                   >Comments</a
@@ -717,7 +774,7 @@
             <h4>
               <span>2025-01-06 @ 16:27:20</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42611919"
                   >Comments</a
@@ -779,11 +836,11 @@
             <h4>
               <span>2025-01-06 @ 15:00:42</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42611099"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -801,7 +858,7 @@
             <h4>
               <span>2025-01-06 @ 14:04:31</span
               ><span class="points-container"
-                >Points: <span class="points">110</span></span
+                >Points: <span class="points">112</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42610620"
                   >Comments</a
@@ -822,7 +879,7 @@
             <h4>
               <span>2025-01-05 @ 23:07:37</span
               ><span class="points-container"
-                >Points: <span class="points">206</span></span
+                >Points: <span class="points">207</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42605848"
                   >Comments</a
@@ -843,11 +900,11 @@
             <h4>
               <span>2025-01-05 @ 06:15:14</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42600111"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
