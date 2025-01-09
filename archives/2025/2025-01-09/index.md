@@ -11,6 +11,7 @@
 * [2025-01-09, 12:00:27](https://news.ycombinator.com/item?id=42644392) - [Roboflow (YC S20) is hiring an engineer to work on its open source projects](https://www.ycombinator.com/companies/roboflow/jobs/cHrnmMH-open-source-software-engineer)
 * [2025-01-09, 11:44:38](https://news.ycombinator.com/item?id=42644302) - [Man trapped inside driverless car as it spins in circles](https://www.bbc.com/news/videos/c70e2g09ng9o)
 * [2025-01-09, 11:42:31](https://news.ycombinator.com/item?id=42644291) - [Stay Gold, America](https://blog.codinghorror.com/stay-gold-america/)
+* [2025-01-09, 11:29:52](https://news.ycombinator.com/item?id=42644204) - [Scientists uncover how the brain washes itself during sleep](https://www.science.org/content/article/scientists-uncover-how-brain-washes-itself-during-sleep)
 * [2025-01-09, 11:23:03](https://news.ycombinator.com/item?id=42644168) - [Show HN: Factorio Blueprint Visualizer](https://github.com/piebro/factorio-blueprint-visualizer)
 * [2025-01-09, 11:17:20](https://news.ycombinator.com/item?id=42644140) - [Hitler dismantled a democracy in 53 days through constitutional means](https://www.theatlantic.com/ideas/archive/2025/01/hitler-germany-constitution-authoritarianism/681233/)
 * [2025-01-09, 10:56:54](https://news.ycombinator.com/item?id=42644015) - [VLC tops 6B downloads, previews AI-generated subtitles](https://techcrunch.com/2025/01/09/vlc-tops-6-billion-downloads-previews-ai-generated-subtitles/)
