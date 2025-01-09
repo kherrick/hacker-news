@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-09, 20:24:01](https://news.ycombinator.com/item?id=42649517) - [World's largest pumped storage power plant fully operational in China](https://www.ess-news.com/2025/01/09/worlds-largest-pumped-storage-power-plant-fully-operational-in-china/)
-* [2025-01-09, 20:02:36](https://news.ycombinator.com/item?id=42649340) - [How Britain got its first internet connection (2018)](https://theconversation.com/how-britain-got-its-first-internet-connection-by-the-late-pioneer-who-created-the-first-password-on-the-internet-45404)
+* [2025-01-09, 20:02:36](https://news.ycombinator.com/item?id=42649340) - [How Britain got its first internet connection (2015)](https://theconversation.com/how-britain-got-its-first-internet-connection-by-the-late-pioneer-who-created-the-first-password-on-the-internet-45404)
 * [2025-01-09, 19:28:56](https://news.ycombinator.com/item?id=42649027) - [Perpetual Movement: Francis Picabia's 391 Review (1917–1924)](https://publicdomainreview.org/collection/francis-picabia-391-review/)
 * [2025-01-09, 17:15:11](https://news.ycombinator.com/item?id=42647695) - [MixRank (YC S11) Is Hiring Software Engineers Globally](https://news.ycombinator.com/item?id=42647695)
 * [2025-01-09, 17:07:40](https://news.ycombinator.com/item?id=42647633) - [\"Twelfth Night Till Candlemas\" – a 40-year book-quest and its remarkable ending](https://davidallengreen.com/2024/12/twelfth-night-till-candlemas-the-story-of-a-forty-year-book-quest-and-of-its-remarkable-ending/)
