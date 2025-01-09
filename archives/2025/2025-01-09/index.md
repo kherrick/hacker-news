@@ -8,6 +8,7 @@
 * [2025-01-09, 17:07:40](https://news.ycombinator.com/item?id=42647633) - [\"Twelfth Night Till Candlemas\" – a 40-year book-quest and its remarkable ending](https://davidallengreen.com/2024/12/twelfth-night-till-candlemas-the-story-of-a-forty-year-book-quest-and-of-its-remarkable-ending/)
 * [2025-01-09, 16:38:26](https://news.ycombinator.com/item?id=42647343) - [Show HN: TabPFN v2 – A SOTA foundation model for small tabular data](https://www.nature.com/articles/s41586-024-08328-6/link)
 * [2025-01-09, 16:19:34](https://news.ycombinator.com/item?id=42647101) - [WorstFit: Unveiling Hidden Transformers in Windows ANSI](https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/)
+* [2025-01-09, 16:04:55](https://news.ycombinator.com/item?id=42646932) - [The Complete Text of \"All Watched over by Machines of Loving Grace\"](https://blog.jgc.org/2024/12/the-complete-text-of-all-watched-over.html)
 * [2025-01-09, 16:03:41](https://news.ycombinator.com/item?id=42646922) - [Show HN: Kate's App](https://katesapp.org/hn)
 * [2025-01-09, 16:03:01](https://news.ycombinator.com/item?id=42646914) - [Atari ST 40th Anniversary](https://www.goto10retro.com/p/atari-st-40th-anniversary)
 * [2025-01-09, 13:31:33](https://news.ycombinator.com/item?id=42645218) - [Show HN: A playable game of Tetris inside a PDF](https://th0mas.nl/downloads/pdftris.pdf)
