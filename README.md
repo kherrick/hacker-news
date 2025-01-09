@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-09, 13:20:36](https://news.ycombinator.com/item?id=42645099) - [Directory of remote-only job boards](https://www.jobsearchdb.com/job-board-categories/remote-only)
 * [2025-01-09, 12:00:27](https://news.ycombinator.com/item?id=42644392) - [Roboflow (YC S20) is hiring an engineer to work on its open source projects](https://www.ycombinator.com/companies/roboflow/jobs/cHrnmMH-open-source-software-engineer)
 * [2025-01-09, 11:29:52](https://news.ycombinator.com/item?id=42644204) - [Scientists uncover how the brain washes itself during sleep](https://www.science.org/content/article/scientists-uncover-how-brain-washes-itself-during-sleep)
 * [2025-01-09, 11:23:03](https://news.ycombinator.com/item?id=42644168) - [Show HN: Factorio Blueprint Visualizer](https://github.com/piebro/factorio-blueprint-visualizer)
@@ -27,7 +28,6 @@
 * [2025-01-06, 16:17:36](https://news.ycombinator.com/item?id=42611818) - [A swashbuckling tale of Italian software piracy – 1983-1993 (2022)](https://genesistemple.com/a-swashbuckling-tale-of-italian-software-piracy-1983-1993)
 * [2025-01-06, 15:04:24](https://news.ycombinator.com/item?id=42611126) - [The Latest Fake Literary Agencies](https://writerbeware.blog/2024/08/16/the-latest-fake-literary-agencies/)
 * [2025-01-06, 14:04:31](https://news.ycombinator.com/item?id=42610620) - [Industrial photographer Christopher Payne spotlights the good in American labor](https://www.scopeofwork.net/the-honorable-parts/)
-* [2025-01-06, 00:48:58](https://news.ycombinator.com/item?id=42606433) - [A Pixel Parable](https://olano.dev/blog/a-pixel-parable/)
 * [2025-01-05, 23:07:37](https://news.ycombinator.com/item?id=42605848) - [Writing a simple pool allocator in C](https://8dcc.github.io/programming/pool-allocator.html)
 * [2025-01-05, 06:15:14](https://news.ycombinator.com/item?id=42600111) - [Writing as Transformation](https://www.newyorker.com/culture/the-weekend-essay/writing-as-transformation-louise-gluck)
 
