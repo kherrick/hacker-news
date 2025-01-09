@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-09, 06:02:38",
+      "https://news.ycombinator.com/item?id=42642089"
+    ],
+    [
+      "The Erasure of Luigi Mangione",
+      "https://substack.evancarroll.com/p/the-erasure-of-luigi-mangione"
+    ]
+  ],
+  [
+    [
       "2025-01-09, 00:25:39",
       "https://news.ycombinator.com/item?id=42640180"
     ],
@@ -277,16 +287,6 @@
     [
       "Writing a simple pool allocator in C",
       "https://8dcc.github.io/programming/pool-allocator.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-05, 15:23:00",
-      "https://news.ycombinator.com/item?id=42602347"
-    ],
-    [
-      "Did we miss P In CAP? Partial Progress Conjecture under Asynchrony",
-      "https://arxiv.org/abs/2501.00021"
     ]
   ],
   [
