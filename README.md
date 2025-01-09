@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-09, 12:44:04](https://news.ycombinator.com/item?id=42644742) - [Why kids need to take more risks: science reveal benefits of wild, free play](https://www.nature.com/articles/d41586-024-04215-2)
+* [2025-01-09, 13:12:57](https://news.ycombinator.com/item?id=42645012) - [Why aren't we all serverless yet?](https://varoa.net/2025/01/09/serverless.html)
 * [2025-01-09, 12:00:27](https://news.ycombinator.com/item?id=42644392) - [Roboflow (YC S20) is hiring an engineer to work on its open source projects](https://www.ycombinator.com/companies/roboflow/jobs/cHrnmMH-open-source-software-engineer)
+* [2025-01-09, 11:23:03](https://news.ycombinator.com/item?id=42644168) - [Show HN: Factorio Blueprint Visualizer](https://github.com/piebro/factorio-blueprint-visualizer)
 * [2025-01-09, 09:43:41](https://news.ycombinator.com/item?id=42643532) - [Poka-Yoke](https://en.wikipedia.org/wiki/Poka-yoke)
 * [2025-01-09, 04:08:36](https://news.ycombinator.com/item?id=42641530) - [Show HN: LA Wildfire Satellite Analysis](https://github.com/xingyzt/fire)
 * [2025-01-09, 02:51:29](https://news.ycombinator.com/item?id=42641109) - [My Experience Biohacking](https://vale.rocks/posts/my-experience-biohacking)
-* [2025-01-08, 23:37:54](https://news.ycombinator.com/item?id=42639779) - [28h Days: year 1 update](https://sidhion.com/blog/28h_days_update_1/)
 * [2025-01-08, 23:13:08](https://news.ycombinator.com/item?id=42639563) - [Steve Langasek, one of Ubuntu Linux's leading lights, has died](https://thenewstack.io/steve-langasek-one-of-ubuntu-linuxs-leading-lights-has-died/)
 * [2025-01-08, 21:40:09](https://news.ycombinator.com/item?id=42638735) - [LA wildfires force thousands to evacuate, NASA JPL closed](https://www.theregister.com/2025/01/08/los_angeles_fires_jpl/)
 * [2025-01-08, 21:27:12](https://news.ycombinator.com/item?id=42638626) - [I had to take down my course-swapping site or be expelled](https://www.linkedin.com/posts/jdkaim_github-jdkaimhuskyswap-huskyswap-project-activity-7282609173316415488-1jdb)
@@ -26,8 +26,8 @@
 * [2025-01-06, 19:15:47](https://news.ycombinator.com/item?id=42614274) - [Drawing Animals with Margaret Mead](https://www.psychologytoday.com/intl/blog/impromptu-man/202412/drawing-animals-with-margaret-mead)
 * [2025-01-06, 16:17:36](https://news.ycombinator.com/item?id=42611818) - [A swashbuckling tale of Italian software piracy – 1983-1993 (2022)](https://genesistemple.com/a-swashbuckling-tale-of-italian-software-piracy-1983-1993)
 * [2025-01-06, 15:04:24](https://news.ycombinator.com/item?id=42611126) - [The Latest Fake Literary Agencies](https://writerbeware.blog/2024/08/16/the-latest-fake-literary-agencies/)
+* [2025-01-06, 14:27:31](https://news.ycombinator.com/item?id=42610797) - [Year 7 as a CTO](https://miguelcarranza.es/cto-year-7)
 * [2025-01-06, 14:04:31](https://news.ycombinator.com/item?id=42610620) - [Industrial photographer Christopher Payne spotlights the good in American labor](https://www.scopeofwork.net/the-honorable-parts/)
-* [2025-01-06, 07:35:15](https://news.ycombinator.com/item?id=42608540) - [Four causes for 'Zoom fatigue' (2021)](https://news.stanford.edu/stories/2021/02/four-causes-zoom-fatigue-solutions)
 * [2025-01-06, 00:48:58](https://news.ycombinator.com/item?id=42606433) - [A Pixel Parable](https://olano.dev/blog/a-pixel-parable/)
 * [2025-01-05, 23:07:37](https://news.ycombinator.com/item?id=42605848) - [Writing a simple pool allocator in C](https://8dcc.github.io/programming/pool-allocator.html)
 
