@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-09](index.md)
 
+* [2025-01-09, 17:33:01](https://news.ycombinator.com/item?id=42647883) - [Show HN: A browser designed to support uBlock Origin (MV2) and respect privacy](https://ublock-browser.com/)
 * [2025-01-09, 17:15:11](https://news.ycombinator.com/item?id=42647695) - [MixRank (YC S11) Is Hiring Software Engineers Globally](https://news.ycombinator.com/item?id=42647695)
 * [2025-01-09, 17:07:40](https://news.ycombinator.com/item?id=42647633) - [\"Twelfth Night Till Candlemas\" – a 40-year book-quest and its remarkable ending](https://davidallengreen.com/2024/12/twelfth-night-till-candlemas-the-story-of-a-forty-year-book-quest-and-of-its-remarkable-ending/)
 * [2025-01-09, 16:38:26](https://news.ycombinator.com/item?id=42647343) - [Show HN: TabPFN v2 – A SOTA foundation model for small tabular data](https://www.nature.com/articles/s41586-024-08328-6/link)
