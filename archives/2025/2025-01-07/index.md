@@ -58,6 +58,7 @@
 * [2025-01-07, 08:47:00](https://news.ycombinator.com/item?id=42620582) - [Thunderbolt 5 vs. Thunderbolt 4: Everything you need to know](https://www.tomsguide.com/computing/thunderbolt-5-vs-thunderbolt-4)
 * [2025-01-07, 08:43:20](https://news.ycombinator.com/item?id=42620565) - [Hyperview – Native mobile apps, as easy as creating a website](https://hyperview.org/)
 * [2025-01-07, 08:41:27](https://news.ycombinator.com/item?id=42620555) - [A feature-rich Hacker News client](https://github.com/Livinglist/Hacki)
+* [2025-01-07, 08:02:17](https://news.ycombinator.com/item?id=42620350) - [Bird Buddy Launches 'Wonder' Camera for Watching Insects](https://www.macrumors.com/2025/01/06/ces-2025-wonder-insect-camera/)
 * [2025-01-07, 07:45:42](https://news.ycombinator.com/item?id=42620278) - [Stay Gold, America](https://blog.codinghorror.com/)
 * [2025-01-07, 07:43:47](https://news.ycombinator.com/item?id=42620272) - [Koa – Next generation web framework for Node.js](https://koajs.com/)
 * [2025-01-07, 07:27:04](https://news.ycombinator.com/item?id=42620191) - [Alcohol-free booze is becoming big business](https://www.economist.com/business/2025/01/06/alcohol-free-booze-is-becoming-big-business)
