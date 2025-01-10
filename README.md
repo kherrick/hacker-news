@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-10, 18:43:26](https://news.ycombinator.com/item?id=42658614) - [Cuttle – a MTG like game using a standard 52 card deck](https://www.pagat.com/combat/cuttle.html)
 * [2025-01-10, 18:34:55](https://news.ycombinator.com/item?id=42658512) - [Mercury's shadowy North Pole revealed by M-CAM 1](https://www.esa.int/ESA_Multimedia/Images/2025/01/Mercury_s_shadowy_north_pole_revealed_by_M-CAM_1)
 * [2025-01-10, 18:32:21](https://news.ycombinator.com/item?id=42658483) - [H-1B Visa Lottery Is Shutting Out Top Talent. Replace It](https://www.bloomberg.com/opinion/articles/2025-01-10/h-1b-visa-isn-t-working-as-it-should-thanks-to-lottery-lower-wages)
 * [2025-01-10, 17:48:04](https://news.ycombinator.com/item?id=42657901) - [Meta's memo to employees rolling back DEI programs](https://www.axios.com/2025/01/10/meta-dei-memo-employees-programs)
@@ -7,7 +8,7 @@
 * [2025-01-10, 17:16:12](https://news.ycombinator.com/item?id=42657591) - [Getting silly with C, part (void*)2](https://lcamtuf.substack.com/p/getting-silly-with-c-part-void2)
 * [2025-01-10, 15:36:17](https://news.ycombinator.com/item?id=42656529) - [Experiments with Byte Matrix Multiplication](https://github.com/serge-sans-paille/i8mm)
 * [2025-01-10, 15:25:42](https://news.ycombinator.com/item?id=42656433) - [Formal Methods: Just Good Engineering Practice? (2024)](https://brooker.co.za/blog/2024/04/17/formal)
-* [2025-01-10, 14:34:34](https://news.ycombinator.com/item?id=42655870) - [I've Acquired a New Superpower](https://danielwirtz.com/blog/spot-the-difference-superpower)
+* [2025-01-10, 14:34:34](https://news.ycombinator.com/item?id=42655870) - [I've acquired a new superpower](https://danielwirtz.com/blog/spot-the-difference-superpower)
 * [2025-01-10, 14:02:23](https://news.ycombinator.com/item?id=42655636) - [The Tedious Heroism of David Ruggles](https://commonplace.online/article/the-tedious-heroism-of-david-ruggles/)
 * [2025-01-10, 12:38:35](https://news.ycombinator.com/item?id=42655102) - [I got OpenTelemetry to work. But why was it so complicated?](https://iconsolutions.com/blog/i-got-opentelemetry-to-work-but-why-was-it-so-complicated/)
 * [2025-01-10, 12:37:54](https://news.ycombinator.com/item?id=42655098) - [Learning How to Think with Meta Chain-of-Thought](https://arxiv.org/abs/2501.04682)
@@ -21,7 +22,6 @@
 * [2025-01-10, 05:53:06](https://news.ycombinator.com/item?id=42652967) - [Before Squid Game, there was Battle Royale](https://www.tokyoweekender.com/entertainment/movies-tv/before-squid-game-there-was-battle-royale/)
 * [2025-01-10, 04:45:55](https://news.ycombinator.com/item?id=42652577) - [Visualizing All ISBNs](https://annas-archive.org/blog/all-isbns.html)
 * [2025-01-10, 00:27:55](https://news.ycombinator.com/item?id=42651275) - [Predictions Scorecard, 2025 January 01](https://rodneybrooks.com/predictions-scorecard-2025-january-01/)
-* [2025-01-09, 20:02:36](https://news.ycombinator.com/item?id=42649340) - [How Britain got its first internet connection (2015)](https://theconversation.com/how-britain-got-its-first-internet-connection-by-the-late-pioneer-who-created-the-first-password-on-the-internet-45404)
 * [2025-01-09, 16:19:34](https://news.ycombinator.com/item?id=42647101) - [WorstFit: Unveiling Hidden Transformers in Windows ANSI](https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/)
 * [2025-01-09, 13:31:33](https://news.ycombinator.com/item?id=42645218) - [Show HN: Tetris in a PDF](https://th0mas.nl/downloads/pdftris.pdf)
 * [2025-01-07, 13:52:09](https://news.ycombinator.com/item?id=42622264) - [Doing Hard Things While Living Life: Why We Built Vade Studio in Clojure](https://bytes.vadelabs.com/doing-hard-things-while-living-life-why-we-built-vade-studio-in-clojure/)

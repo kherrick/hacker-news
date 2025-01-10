@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-10](index.md)
 
+* [2025-01-10, 18:43:26](https://news.ycombinator.com/item?id=42658614) - [Cuttle – a MTG like game using a standard 52 card deck](https://www.pagat.com/combat/cuttle.html)
 * [2025-01-10, 18:34:55](https://news.ycombinator.com/item?id=42658512) - [Mercury's shadowy North Pole revealed by M-CAM 1](https://www.esa.int/ESA_Multimedia/Images/2025/01/Mercury_s_shadowy_north_pole_revealed_by_M-CAM_1)
 * [2025-01-10, 18:32:21](https://news.ycombinator.com/item?id=42658483) - [H-1B Visa Lottery Is Shutting Out Top Talent. Replace It](https://www.bloomberg.com/opinion/articles/2025-01-10/h-1b-visa-isn-t-working-as-it-should-thanks-to-lottery-lower-wages)
 * [2025-01-10, 18:27:14](https://news.ycombinator.com/item?id=42658414) - [Defederation from Threads](https://community.hachyderm.io/blog/2025/01/09/defederation-from-threads/)
