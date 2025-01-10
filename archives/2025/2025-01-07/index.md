@@ -59,6 +59,7 @@
 * [2025-01-07, 08:43:20](https://news.ycombinator.com/item?id=42620565) - [Hyperview – Native mobile apps, as easy as creating a website](https://hyperview.org/)
 * [2025-01-07, 08:41:27](https://news.ycombinator.com/item?id=42620555) - [A feature-rich Hacker News client](https://github.com/Livinglist/Hacki)
 * [2025-01-07, 07:45:42](https://news.ycombinator.com/item?id=42620278) - [Stay Gold, America](https://blog.codinghorror.com/)
+* [2025-01-07, 07:43:47](https://news.ycombinator.com/item?id=42620272) - [Koa – Next generation web framework for Node.js](https://koajs.com/)
 * [2025-01-07, 07:27:04](https://news.ycombinator.com/item?id=42620191) - [Alcohol-free booze is becoming big business](https://www.economist.com/business/2025/01/06/alcohol-free-booze-is-becoming-big-business)
 * [2025-01-07, 07:01:05](https://news.ycombinator.com/item?id=42620054) - [Swift for C++ Practitioners: Move Semantics](https://www.douggregor.net/posts/swift-for-cxx-practitioners-move/)
 * [2025-01-07, 07:01:03](https://news.ycombinator.com/item?id=42620053) - [Axiom.ai (YC W21) Is Hiring a Contract Web Designer (Remote)](https://www.ycombinator.com/companies/axiom-ai/jobs/DckIVG6-contract-web-designer)
