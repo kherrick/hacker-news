@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=42651487"
     ],
     [
-      "Television: Blazing fast general purpose fuzzy finder TUI",
+      "Television: Fast general purpose fuzzy finder TUI",
       "https://github.com/alexpasmantier/television"
     ]
   ],
@@ -15,8 +15,18 @@
       "https://news.ycombinator.com/item?id=42651275"
     ],
     [
-      "Rodney Brooks: Predictions Scorecard, 2025",
+      "Predictions Scorecard, 2025 January 01",
       "https://rodneybrooks.com/predictions-scorecard-2025-january-01/"
+    ]
+  ],
+  [
+    [
+      "2025-01-10, 00:19:29",
+      "https://news.ycombinator.com/item?id=42651226"
+    ],
+    [
+      "Ask HN: Work on robotics or agents?",
+      "https://news.ycombinator.com/item?id=42651226"
     ]
   ],
   [
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2025-01-09, 23:13:34",
-      "https://news.ycombinator.com/item?id=42650815"
-    ],
-    [
-      "A quickstart eBook about Helm's essentials",
-      "https://curiousdevscorner.gumroad.com/l/master-helm"
-    ]
-  ],
-  [
-    [
       "2025-01-09, 22:37:01",
       "https://news.ycombinator.com/item?id=42650561"
     ],
@@ -67,16 +67,6 @@
     [
       "Shaping ligatures in monospace fonts",
       "https://joshleeb.com/posts/monospace-ligatures.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-09, 21:46:18",
-      "https://news.ycombinator.com/item?id=42650097"
-    ],
-    [
-      "Human-Computer Input via a Wrist-Based SEMG Wearable",
-      "https://www.meta.com/en-gb/blog/quest/surface-emg-wrist-white-paper-reality-labs/"
     ]
   ],
   [
@@ -201,6 +191,16 @@
   ],
   [
     [
+      "2025-01-08, 16:41:04",
+      "https://news.ycombinator.com/item?id=42635942"
+    ],
+    [
+      "Show HN: Stagehand – an open source browser automation framework powered by AI",
+      "https://github.com/browserbase/stagehand"
+    ]
+  ],
+  [
+    [
       "2025-01-08, 14:47:34",
       "https://news.ycombinator.com/item?id=42634787"
     ],
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2025-01-06, 18:42:03",
-      "https://news.ycombinator.com/item?id=42613758"
-    ],
-    [
-      "The cases of consumer-grade routers on puny power supplies",
-      "https://blog.apnic.net/2024/10/18/the-strange-cases-of-consumer-grade-routers-on-puny-power-supplies/"
-    ]
-  ],
-  [
-    [
       "2025-01-06, 16:39:57",
       "https://news.ycombinator.com/item?id=42612085"
     ],
@@ -267,6 +257,16 @@
     [
       "We are teen hackers from around the world who code together",
       "https://hackclub.com/"
+    ]
+  ],
+  [
+    [
+      "2025-01-06, 12:41:20",
+      "https://news.ycombinator.com/item?id=42610091"
+    ],
+    [
+      "Musings on Tracing in PyPy",
+      "https://pypy.org/posts/2025/01/musings-tracing.html"
     ]
   ],
   [
