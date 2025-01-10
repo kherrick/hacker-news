@@ -15,6 +15,7 @@
 * [2025-01-10, 13:56:46](https://news.ycombinator.com/item?id=42655597) - [Scientists drill 2 miles down pull 1.2M-year-old ice core from Antarctic](https://apnews.com/article/antarctica-old-ice-core-climate-change-epica-6f76c57abf254dd9cb698f767db5507b)
 * [2025-01-10, 13:52:20](https://news.ycombinator.com/item?id=42655556) - [Biggest Privacy Erosion in 10 Years? On Google's Policy Change](https://blog.lukaszolejnik.com/biggest-privacy-erosion-in-10-years-on-googles-policy-change-towards-fingerprinting/)
 * [2025-01-10, 13:24:26](https://news.ycombinator.com/item?id=42655393) - [There are no pure cultures – we have always been global](https://aeon.co/essays/there-are-no-pure-cultures-we-have-always-been-global)
+* [2025-01-10, 12:38:35](https://news.ycombinator.com/item?id=42655102) - [I got OpenTelemetry to work. But why was it so complicated?](https://iconsolutions.com/blog/i-got-opentelemetry-to-work-but-why-was-it-so-complicated/)
 * [2025-01-10, 12:37:54](https://news.ycombinator.com/item?id=42655098) - [Learning How to Think with Meta Chain-of-Thought](https://arxiv.org/abs/2501.04682)
 * [2025-01-10, 12:21:06](https://news.ycombinator.com/item?id=42654995) - [Who Can Understand the Proof? A Window on Formalized Mathematics](https://writings.stephenwolfram.com/2025/01/who-can-understand-the-proof-a-window-on-formalized-mathematics/)
 * [2025-01-10, 12:00:44](https://news.ycombinator.com/item?id=42654901) - [Wasmer (YC S19) Is Hiring a Rust Engineer in Europe](https://www.workatastartup.com/jobs/41643)
