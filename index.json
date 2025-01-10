@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-01-10, 18:09:51",
+      "https://news.ycombinator.com/item?id=42658167"
+    ],
+    [
+      "Show HN: KeyTik: The All-in-One Input Automation Tool",
+      "https://keytik.com/"
+    ]
+  ],
+  [
+    [
       "2025-01-10, 17:48:04",
       "https://news.ycombinator.com/item?id=42657901"
     ],
@@ -47,6 +57,16 @@
     [
       "Getting silly with C, part (void*)2",
       "https://lcamtuf.substack.com/p/getting-silly-with-c-part-void2"
+    ]
+  ],
+  [
+    [
+      "2025-01-10, 15:53:07",
+      "https://news.ycombinator.com/item?id=42656711"
+    ],
+    [
+      "Finland's zero homeless strategy (2021)",
+      "https://oecdecoscope.blog/2021/12/13/finlands-zero-homeless-strategy-lessons-from-a-success-story/"
     ]
   ],
   [
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2025-01-10, 00:27:55",
-      "https://news.ycombinator.com/item?id=42651275"
+      "2025-01-09, 17:49:21",
+      "https://news.ycombinator.com/item?id=42648043"
     ],
     [
-      "Predictions Scorecard, 2025 January 01",
-      "https://rodneybrooks.com/predictions-scorecard-2025-january-01/"
-    ]
-  ],
-  [
-    [
-      "2025-01-09, 20:02:36",
-      "https://news.ycombinator.com/item?id=42649340"
-    ],
-    [
-      "How Britain got its first internet connection (2015)",
-      "https://theconversation.com/how-britain-got-its-first-internet-connection-by-the-late-pioneer-who-created-the-first-password-on-the-internet-45404"
-    ]
-  ],
-  [
-    [
-      "2025-01-09, 16:19:34",
-      "https://news.ycombinator.com/item?id=42647101"
-    ],
-    [
-      "WorstFit: Unveiling Hidden Transformers in Windows ANSI",
-      "https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/"
+      "Datadog acquires Quickwit",
+      "https://quickwit.io/blog/quickwit-joins-datadog"
     ]
   ],
   [
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2025-01-09, 13:21:40",
-      "https://news.ycombinator.com/item?id=42645110"
+      "2025-01-07, 22:23:18",
+      "https://news.ycombinator.com/item?id=42628397"
     ],
     [
-      "SQL nulls are weird",
-      "https://jirevwe.github.io/sql-nulls-are-weird.html"
+      "Why is hash(-1) == hash(-2) in Python?",
+      "https://omairmajid.com/posts/2021-07-16-why-is-hash-in-python/"
     ]
   ],
   [
