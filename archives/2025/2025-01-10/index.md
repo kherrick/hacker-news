@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-10](index.md)
 
+* [2025-01-10, 21:21:17](https://news.ycombinator.com/item?id=42660377) - [OpenAI's bot crushed this seven-person company's web site 'like a DDoS attack'](https://techcrunch.com/2025/01/10/how-openais-bot-crushed-this-seven-person-companys-web-site-like-a-ddos-attack/)
 * [2025-01-10, 19:41:15](https://news.ycombinator.com/item?id=42659302) - [WSJ: Americans Are Tipping Less Than They Have in Years](https://www.wsj.com/business/hospitality/restaurant-tip-fatigue-servers-covid-9e198567)
 * [2025-01-10, 19:28:43](https://news.ycombinator.com/item?id=42659141) - [A glowing ring of metal fell to Earth, and no one has any idea what it is](https://arstechnica.com/space/2025/01/a-glowing-ring-of-metal-fell-to-earth-and-no-one-has-any-idea-what-it-is/)
 * [2025-01-10, 19:23:50](https://news.ycombinator.com/item?id=42659061) - [Flattening ASTs (and Other Compiler Data Structures)](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
