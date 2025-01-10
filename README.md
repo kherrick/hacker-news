@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-10, 21:21:17](https://news.ycombinator.com/item?id=42660377) - [OpenAI's bot crushed this seven-person company's web site 'like a DDoS attack'](https://techcrunch.com/2025/01/10/how-openais-bot-crushed-this-seven-person-companys-web-site-like-a-ddos-attack/)
+* [2025-01-10, 21:17:21](https://news.ycombinator.com/item?id=42660335) - [Phi-4 Bug Fixes](https://unsloth.ai/blog/phi4)
+* [2025-01-10, 20:57:39](https://news.ycombinator.com/item?id=42660117) - [The War Against Headlight Brightness](https://theringer.com/2024/12/03/tech/headlight-brightness-cars-accidents)
 * [2025-01-10, 19:23:50](https://news.ycombinator.com/item?id=42659061) - [Flattening ASTs (and Other Compiler Data Structures)](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
 * [2025-01-10, 18:43:26](https://news.ycombinator.com/item?id=42658614) - [Cuttle – a MTG like game using a standard 52 card deck](https://www.pagat.com/combat/cuttle.html)
 * [2025-01-10, 18:34:55](https://news.ycombinator.com/item?id=42658512) - [Mercury's shadowy North Pole revealed by M-CAM 1](https://www.esa.int/ESA_Multimedia/Images/2025/01/Mercury_s_shadowy_north_pole_revealed_by_M-CAM_1)
@@ -17,7 +19,6 @@
 * [2025-01-10, 12:37:54](https://news.ycombinator.com/item?id=42655098) - [Learning How to Think with Meta Chain-of-Thought](https://arxiv.org/abs/2501.04682)
 * [2025-01-10, 12:21:06](https://news.ycombinator.com/item?id=42654995) - [Who Can Understand the Proof? A Window on Formalized Mathematics](https://writings.stephenwolfram.com/2025/01/who-can-understand-the-proof-a-window-on-formalized-mathematics/)
 * [2025-01-10, 12:00:44](https://news.ycombinator.com/item?id=42654901) - [Wasmer (YC S19) Is Hiring a Rust Engineer in EU timezone (Remote)](https://www.workatastartup.com/jobs/41643)
-* [2025-01-10, 09:17:47](https://news.ycombinator.com/item?id=42654019) - [Nvidia-Ingest: Multi-modal data extraction](https://github.com/NVIDIA/nv-ingest)
 * [2025-01-10, 09:02:31](https://news.ycombinator.com/item?id=42653939) - [Glimmer: DSL Framework for Ruby GUI and More](https://github.com/AndyObtiva/glimmer)
 * [2025-01-10, 08:37:08](https://news.ycombinator.com/item?id=42653811) - [Tactility: OS for the ESP32 Microcontroller Family](https://tactility.one/#/)
 * [2025-01-10, 05:53:06](https://news.ycombinator.com/item?id=42652967) - [Before Squid Game, there was Battle Royale](https://www.tokyoweekender.com/entertainment/movies-tv/before-squid-game-there-was-battle-royale/)
@@ -28,7 +29,6 @@
 * [2025-01-07, 13:52:09](https://news.ycombinator.com/item?id=42622264) - [Doing Hard Things While Living Life: Why We Built Vade Studio in Clojure](https://bytes.vadelabs.com/doing-hard-things-while-living-life-why-we-built-vade-studio-in-clojure/)
 * [2025-01-07, 13:14:21](https://news.ycombinator.com/item?id=42621989) - [Show HN: TubePen – My attempt to get more out of YouTube learning](https://www.tubepen.com/)
 * [2025-01-07, 06:32:05](https://news.ycombinator.com/item?id=42619898) - [Stone selection by wild chimpanzees shares patterns with Oldowan hominins](https://www.sciencedirect.com/science/article/pii/S0047248424001337)
-* [2025-01-07, 00:31:02](https://news.ycombinator.com/item?id=42617825) - [Bird-inspired drone uses legs to walk and jump into the air](https://spectrum.ieee.org/bird-drone)
 * [2025-01-06, 14:57:50](https://news.ycombinator.com/item?id=42611077) - [Parsing the C64 Bubble Bobble Wind Currents](http://geon.github.io/programming/2025/01/05/bubble-bobble-c64-wind)
 
 ## [Archives](archives/index.md)
