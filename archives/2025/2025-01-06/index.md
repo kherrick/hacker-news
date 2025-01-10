@@ -54,6 +54,7 @@
 * [2025-01-06, 13:37:58](https://news.ycombinator.com/item?id=42610457) - [A man keeping hope, and 70-year-old pinball machines, alive](https://arstechnica.com/gaming/2025/01/meet-the-man-keeping-hope-and-70-year-old-pinball-machines-alive/)
 * [2025-01-06, 13:06:58](https://news.ycombinator.com/item?id=42610234) - [LLMs and Code Optimization](https://wiredream.com/llm-optimizing-digit-diff/)
 * [2025-01-06, 13:02:01](https://news.ycombinator.com/item?id=42610204) - [Chromebooks still set for scrap, even with 10-year lifecycle](https://www.theregister.com/2025/01/06/chromebook_end_of_life/)
+* [2025-01-06, 12:41:20](https://news.ycombinator.com/item?id=42610091) - [Musings on Tracing in PyPy](https://pypy.org/posts/2025/01/musings-tracing.html)
 * [2025-01-06, 12:30:11](https://news.ycombinator.com/item?id=42610021) - [Ratchet effects determine engineer reputation at large companies – sean goedecke](https://www.seangoedecke.com/ratchet-effects/)
 * [2025-01-06, 12:28:16](https://news.ycombinator.com/item?id=42610007) - [Why are corporations cutting managers?](https://arnoldkling.substack.com/p/why-are-corporations-cutting-managers)
 * [2025-01-06, 12:24:24](https://news.ycombinator.com/item?id=42609982) - [Why clowns paint their faces on eggs (2017)](https://www.bbc.com/future/article/20171206-the-fascinating-reason-why-clowns-paint-their-faces-on-eggs)
