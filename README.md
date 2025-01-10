@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-10, 07:20:58](https://news.ycombinator.com/item?id=42653434) - [BYD's electric supercar jumps over potholes and spikes](https://www.drive.com.au/news/byd-yangwang-u9-jumps-over-potholes-and-spikes-video/)
+* [2025-01-10, 07:05:35](https://news.ycombinator.com/item?id=42653352) - [Samsung Display to Begin Mass Production of Rollable OLED for Laptops](https://global.samsungdisplay.com/31332)
 * [2025-01-10, 07:00:48](https://news.ycombinator.com/item?id=42653320) - [Telli (YC F24) is hiring product engineers in Berlin, Germany (in-person)](https://www.ycombinator.com/companies/telli/jobs/J1YREmZ-product-engineer)
 * [2025-01-10, 05:53:06](https://news.ycombinator.com/item?id=42652967) - [Before Squid Game, there was Battle Royale](https://www.tokyoweekender.com/entertainment/movies-tv/before-squid-game-there-was-battle-royale/)
 * [2025-01-10, 04:45:55](https://news.ycombinator.com/item?id=42652577) - [Visualizing All ISBNs](https://annas-archive.org/blog/all-isbns.html)
@@ -27,7 +28,6 @@
 * [2025-01-06, 16:39:57](https://news.ycombinator.com/item?id=42612085) - [MacBASIC](https://apple.fandom.com/wiki/MacBASIC)
 * [2025-01-06, 16:27:20](https://news.ycombinator.com/item?id=42611919) - [Relax while watching bouncing particles making connections when they get closer](https://tiki.li/apps/particles.html?v=2501a)
 * [2025-01-06, 15:21:14](https://news.ycombinator.com/item?id=42611282) - [We are teen hackers from around the world who code together](https://hackclub.com/)
-* [2025-01-06, 15:00:42](https://news.ycombinator.com/item?id=42611099) - [Agents Are Not Enough](https://www.arxiv.org/abs/2412.16241)
 * [2025-01-06, 12:41:20](https://news.ycombinator.com/item?id=42610091) - [Musings on Tracing in PyPy](https://pypy.org/posts/2025/01/musings-tracing.html)
 * [2025-01-05, 06:15:14](https://news.ycombinator.com/item?id=42600111) - [Writing as Transformation](https://www.newyorker.com/culture/the-weekend-essay/writing-as-transformation-louise-gluck)
 
