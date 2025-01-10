@@ -2,7 +2,7 @@
 
 * [2025-01-10, 14:13:23](https://news.ycombinator.com/item?id=42655708) - [Show HN: Boulette - Protect you from yourself (even as root).](https://github.com/pipelight/boulette)
 * [2025-01-10, 14:02:23](https://news.ycombinator.com/item?id=42655636) - [The Tedious Heroism of David Ruggles](https://commonplace.online/article/the-tedious-heroism-of-david-ruggles/)
-* [2025-01-10, 14:01:20](https://news.ycombinator.com/item?id=42655630) - [Making Beautiful API Keys](https://docs.agentstation.ai/blog/beautiful-api-keys/)
+* [2025-01-10, 13:24:26](https://news.ycombinator.com/item?id=42655393) - [There are no pure cultures – we have always been global](https://aeon.co/essays/there-are-no-pure-cultures-we-have-always-been-global)
 * [2025-01-10, 12:37:54](https://news.ycombinator.com/item?id=42655098) - [Learning How to Think with Meta Chain-of-Thought](https://arxiv.org/abs/2501.04682)
 * [2025-01-10, 12:21:06](https://news.ycombinator.com/item?id=42654995) - [Who Can Understand the Proof? A Window on Formalized Mathematics](https://writings.stephenwolfram.com/2025/01/who-can-understand-the-proof-a-window-on-formalized-mathematics/)
 * [2025-01-10, 12:00:44](https://news.ycombinator.com/item?id=42654901) - [Wasmer (YC S19) Is Hiring a Rust Engineer in EU timezone (Remote)](https://www.workatastartup.com/jobs/41643)
