@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-10, 04:04:38](https://news.ycombinator.com/item?id=42652329) - [Gleam v1.7.0 Released](https://gleam.run/news/improved-performance-and-publishing/)
+* [2025-01-10, 03:49:09](https://news.ycombinator.com/item?id=42652236) - [2024 first year to pass 1.5C global warming limit](https://www.bbc.com/news/articles/cd7575x8yq5o)
 * [2025-01-10, 03:24:11](https://news.ycombinator.com/item?id=42652125) - [A Three Month Review of Kagi Search and the Orion Web Browser (2024)](https://flatfootfox.com/a-three-month-review-of-kagi-search-the-orion-web-browser/)
 * [2025-01-10, 03:12:57](https://news.ycombinator.com/item?id=42652076) - [41% of Employers Worldwide Say They'll Reduce Staff by 2030 Due to AI](https://gizmodo.com/41-of-employers-worldwide-say-theyll-reduce-staff-by-2030-due-to-ai-2000548131)
 * [2025-01-10, 03:08:49](https://news.ycombinator.com/item?id=42652056) - [TikTok tells staff impacted by wildfires to use sick hours if they can't work](https://techcrunch.com/2025/01/09/tiktok-tells-la-staff-impacted-by-wildfires-to-use-personal-sick-hours-if-they-cant-work-from-home/)
@@ -14,7 +15,6 @@
 * [2025-01-09, 22:28:07](https://news.ycombinator.com/item?id=42650501) - [Shaping ligatures in monospace fonts](https://joshleeb.com/posts/monospace-ligatures.html)
 * [2025-01-09, 21:33:06](https://news.ycombinator.com/item?id=42649996) - [Ask HN: A friend has brain cancer: any bio hacks that worked?](https://news.ycombinator.com/item?id=42649996)
 * [2025-01-09, 20:02:36](https://news.ycombinator.com/item?id=42649340) - [How Britain got its first internet connection (2015)](https://theconversation.com/how-britain-got-its-first-internet-connection-by-the-late-pioneer-who-created-the-first-password-on-the-internet-45404)
-* [2025-01-09, 18:43:07](https://news.ycombinator.com/item?id=42648597) - [Ask HN: How do you backup your Android?](https://news.ycombinator.com/item?id=42648597)
 * [2025-01-09, 17:15:11](https://news.ycombinator.com/item?id=42647695) - [MixRank (YC S11) Is Hiring Software Engineers Globally](https://news.ycombinator.com/item?id=42647695)
 * [2025-01-09, 17:07:40](https://news.ycombinator.com/item?id=42647633) - [\"Twelfth Night Till Candlemas\" – a 40-year book-quest and its remarkable ending](https://davidallengreen.com/2024/12/twelfth-night-till-candlemas-the-story-of-a-forty-year-book-quest-and-of-its-remarkable-ending/)
 * [2025-01-09, 16:38:26](https://news.ycombinator.com/item?id=42647343) - [Show HN: TabPFN v2 – A SOTA foundation model for small tabular data](https://www.nature.com/articles/s41586-024-08328-6/link)

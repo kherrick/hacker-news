@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-10](index.md)
 
 * [2025-01-10, 04:04:38](https://news.ycombinator.com/item?id=42652329) - [Gleam v1.7.0 Released](https://gleam.run/news/improved-performance-and-publishing/)
+* [2025-01-10, 03:49:09](https://news.ycombinator.com/item?id=42652236) - [2024 first year to pass 1.5C global warming limit](https://www.bbc.com/news/articles/cd7575x8yq5o)
 * [2025-01-10, 03:30:16](https://news.ycombinator.com/item?id=42652154) - [Los Angeles fires expose inflated US home prices](https://www.reuters.com/breakingviews/los-angeles-fires-expose-inflated-us-home-prices-2025-01-09/)
 * [2025-01-10, 03:24:11](https://news.ycombinator.com/item?id=42652125) - [A Three Month Review of Kagi Search and the Orion Web Browser (2024)](https://flatfootfox.com/a-three-month-review-of-kagi-search-the-orion-web-browser/)
 * [2025-01-10, 03:12:57](https://news.ycombinator.com/item?id=42652076) - [41% of Employers Worldwide Say They'll Reduce Staff by 2030 Due to AI](https://gizmodo.com/41-of-employers-worldwide-say-theyll-reduce-staff-by-2030-due-to-ai-2000548131)
