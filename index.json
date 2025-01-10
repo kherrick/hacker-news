@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-10, 09:02:31",
+      "https://news.ycombinator.com/item?id=42653939"
+    ],
+    [
+      "Glimmer: DSL Framework for Ruby GUI and More",
+      "https://github.com/AndyObtiva/glimmer"
+    ]
+  ],
+  [
+    [
       "2025-01-10, 07:05:35",
       "https://news.ycombinator.com/item?id=42653352"
     ],
@@ -37,16 +47,6 @@
     [
       "Gleam v1.7",
       "https://gleam.run/news/improved-performance-and-publishing/"
-    ]
-  ],
-  [
-    [
-      "2025-01-10, 03:24:11",
-      "https://news.ycombinator.com/item?id=42652125"
-    ],
-    [
-      "A three month review of kagi search and the orion web browser (2024)",
-      "https://flatfootfox.com/a-three-month-review-of-kagi-search-the-orion-web-browser/"
     ]
   ],
   [
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2025-01-08, 15:11:41",
-      "https://news.ycombinator.com/item?id=42635049"
-    ],
-    [
-      "Show HN: Cardstock- Free TCG Proxy Manager for Magic, Yugioh, & Pokemon",
-      "https://cardstock.denta.co"
-    ]
-  ],
-  [
-    [
       "2025-01-07, 19:42:24",
       "https://news.ycombinator.com/item?id=42626488"
     ],
@@ -277,6 +267,16 @@
     [
       "Agents Are Not Enough",
       "https://www.arxiv.org/abs/2412.16241"
+    ]
+  ],
+  [
+    [
+      "2025-01-06, 14:57:50",
+      "https://news.ycombinator.com/item?id=42611077"
+    ],
+    [
+      "Parsing the C64 Bubble Bobble Wind Currents",
+      "http://geon.github.io/programming/2025/01/05/bubble-bobble-c64-wind"
     ]
   ],
   [
