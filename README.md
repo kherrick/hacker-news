@@ -23,7 +23,7 @@
 * [2025-01-07, 13:50:16](https://news.ycombinator.com/item?id=42622252) - [May Mobility reveals electric autonomous minibus at CES 2025](https://techcrunch.com/2025/01/07/may-mobility-reveals-electric-autonomous-minibus-at-ces-2025/)
 * [2025-01-07, 00:31:02](https://news.ycombinator.com/item?id=42617825) - [Bird-inspired drone uses legs to walk and jump into the air](https://spectrum.ieee.org/bird-drone)
 * [2025-01-06, 19:45:02](https://news.ycombinator.com/item?id=42614722) - [Ask HN: Books about people who did hard things](https://news.ycombinator.com/item?id=42614722)
-* [2025-01-06, 16:50:47](https://news.ycombinator.com/item?id=42612237) - [Show HN: Bin - AI business intelligence analyst that turns data into dashboards](https://bi.new)
+* [2025-01-06, 19:42:30](https://news.ycombinator.com/item?id=42614676) - [An abandoned ship held a treasure for 30 years: 50 arcade machines](https://jasondeegan.com/an-abandoned-ship-held-a-treasure-for-30-years-50-arcade-machines-of-immense-value-to-gamers/)
 * [2025-01-06, 16:39:57](https://news.ycombinator.com/item?id=42612085) - [MacBASIC](https://apple.fandom.com/wiki/MacBASIC)
 * [2025-01-06, 16:27:20](https://news.ycombinator.com/item?id=42611919) - [Relax while watching bouncing particles making connections when they get closer](https://tiki.li/apps/particles.html?v=2501a)
 * [2025-01-06, 15:21:14](https://news.ycombinator.com/item?id=42611282) - [We are teen hackers from around the world who code together](https://hackclub.com/)
