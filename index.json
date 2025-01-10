@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-10, 15:39:11",
+      "https://news.ycombinator.com/item?id=42656559"
+    ],
+    [
+      "Web apps built with Ruby on Rails",
+      "https://weuserails.com/"
+    ]
+  ],
+  [
+    [
       "2025-01-10, 15:25:42",
       "https://news.ycombinator.com/item?id=42656433"
     ],
@@ -241,6 +251,16 @@
   ],
   [
     [
+      "2025-01-07, 06:58:54",
+      "https://news.ycombinator.com/item?id=42620041"
+    ],
+    [
+      "HTML Is a Programming Language. Fight Me",
+      "https://www.wired.com/story/html-is-actually-a-programming-language-fight-me/"
+    ]
+  ],
+  [
+    [
       "2025-01-07, 00:31:02",
       "https://news.ycombinator.com/item?id=42617825"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2025-01-06, 16:39:57",
-      "https://news.ycombinator.com/item?id=42612085"
-    ],
-    [
-      "MacBASIC",
-      "https://apple.fandom.com/wiki/MacBASIC"
-    ]
-  ],
-  [
-    [
       "2025-01-06, 14:57:50",
       "https://news.ycombinator.com/item?id=42611077"
     ],
     [
       "Parsing the C64 Bubble Bobble Wind Currents",
       "http://geon.github.io/programming/2025/01/05/bubble-bobble-c64-wind"
-    ]
-  ],
-  [
-    [
-      "2025-01-06, 12:41:20",
-      "https://news.ycombinator.com/item?id=42610091"
-    ],
-    [
-      "Musings on Tracing in PyPy",
-      "https://pypy.org/posts/2025/01/musings-tracing.html"
     ]
   ]
 ]
