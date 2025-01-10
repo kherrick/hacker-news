@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2025-01-10](index.md)
 
 * [2025-01-10, 10:10:10](https://news.ycombinator.com/item?id=42654331) - [lc: List files in categories (and columns) – from Coherent Unix clone](https://github.com/gdm85/lc)
+* [2025-01-10, 09:17:47](https://news.ycombinator.com/item?id=42654019) - [Nvidia-Ingest: Multi-modal data extraction](https://github.com/NVIDIA/nv-ingest)
 * [2025-01-10, 09:02:31](https://news.ycombinator.com/item?id=42653939) - [Glimmer: DSL Framework for Ruby GUI and More](https://github.com/AndyObtiva/glimmer)
+* [2025-01-10, 08:37:08](https://news.ycombinator.com/item?id=42653811) - [Tactility: OS for the ESP32 Microcontroller Family](https://tactility.one/#/)
 * [2025-01-10, 07:20:58](https://news.ycombinator.com/item?id=42653434) - [BYD's electric supercar jumps over potholes and spikes](https://www.drive.com.au/news/byd-yangwang-u9-jumps-over-potholes-and-spikes-video/)
 * [2025-01-10, 07:05:35](https://news.ycombinator.com/item?id=42653352) - [Samsung Display to Begin Mass Production of Rollable OLED for Laptops](https://global.samsungdisplay.com/31332)
 * [2025-01-10, 07:04:04](https://news.ycombinator.com/item?id=42653343) - [Ruby/tk: Tk interface module using tcltklib](https://github.com/ruby/tk)
