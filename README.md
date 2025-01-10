@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-10, 10:10:10](https://news.ycombinator.com/item?id=42654331) - [lc: List files in categories (and columns) – from Coherent Unix clone](https://github.com/gdm85/lc)
 * [2025-01-10, 09:02:31](https://news.ycombinator.com/item?id=42653939) - [Glimmer: DSL Framework for Ruby GUI and More](https://github.com/AndyObtiva/glimmer)
 * [2025-01-10, 07:04:04](https://news.ycombinator.com/item?id=42653343) - [Ruby/tk: Tk interface module using tcltklib](https://github.com/ruby/tk)
 * [2025-01-10, 07:00:48](https://news.ycombinator.com/item?id=42653320) - [Telli (YC F24) is hiring product engineers in Berlin, Germany (in-person)](https://www.ycombinator.com/companies/telli/jobs/J1YREmZ-product-engineer)
@@ -17,7 +18,6 @@
 * [2025-01-09, 13:21:40](https://news.ycombinator.com/item?id=42645110) - [SQL nulls are weird](https://jirevwe.github.io/sql-nulls-are-weird.html)
 * [2025-01-09, 13:01:37](https://news.ycombinator.com/item?id=42644896) - [Rational or not? This basic math question took decades to answer](https://www.quantamagazine.org/rational-or-not-this-basic-math-question-took-decades-to-answer-20250108/)
 * [2025-01-09, 11:23:03](https://news.ycombinator.com/item?id=42644168) - [Show HN: Factorio Blueprint Visualizer](https://github.com/piebro/factorio-blueprint-visualizer)
-* [2025-01-08, 15:11:41](https://news.ycombinator.com/item?id=42635049) - [Show HN: Cardstock- Free TCG Proxy Manager for Magic, Yugioh, & Pokemon](https://cardstock.denta.co)
 * [2025-01-07, 19:42:24](https://news.ycombinator.com/item?id=42626488) - [David Lodge, British novelist who satirized academic life, has died](https://www.nytimes.com/2025/01/03/books/david-lodge-dead.html)
 * [2025-01-07, 08:47:00](https://news.ycombinator.com/item?id=42620582) - [Thunderbolt 5 vs. Thunderbolt 4: Everything you need to know](https://www.tomsguide.com/computing/thunderbolt-5-vs-thunderbolt-4)
 * [2025-01-07, 00:31:02](https://news.ycombinator.com/item?id=42617825) - [Bird-inspired drone uses legs to walk and jump into the air](https://spectrum.ieee.org/bird-drone)
