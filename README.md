@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-10, 15:25:42](https://news.ycombinator.com/item?id=42656433) - [Formal Methods: Just Good Engineering Practice?](https://brooker.co.za/blog/2024/04/17/formal)
+* [2025-01-10, 14:34:34](https://news.ycombinator.com/item?id=42655870) - [I've Acquired a New Superpower](https://danielwirtz.com/blog/spot-the-difference-superpower)
 * [2025-01-10, 14:13:23](https://news.ycombinator.com/item?id=42655708) - [Show HN: Boulette - Protect you from yourself (even as root).](https://github.com/pipelight/boulette)
 * [2025-01-10, 14:02:23](https://news.ycombinator.com/item?id=42655636) - [The Tedious Heroism of David Ruggles](https://commonplace.online/article/the-tedious-heroism-of-david-ruggles/)
 * [2025-01-10, 13:24:26](https://news.ycombinator.com/item?id=42655393) - [There are no pure cultures – we have always been global](https://aeon.co/essays/there-are-no-pure-cultures-we-have-always-been-global)
@@ -27,7 +28,6 @@
 * [2025-01-06, 22:06:57](https://news.ycombinator.com/item?id=42616520) - [Musings on Tracing in PyPy](https://pypy.org/posts/2025/01/musings-tracing.html)
 * [2025-01-06, 19:45:02](https://news.ycombinator.com/item?id=42614722) - [Ask HN: Books about people who did hard things](https://news.ycombinator.com/item?id=42614722)
 * [2025-01-06, 16:39:57](https://news.ycombinator.com/item?id=42612085) - [MacBASIC](https://apple.fandom.com/wiki/MacBASIC)
-* [2025-01-06, 15:21:14](https://news.ycombinator.com/item?id=42611282) - [We are teen hackers from around the world who code together](https://hackclub.com/)
 * [2025-01-06, 14:57:50](https://news.ycombinator.com/item?id=42611077) - [Parsing the C64 Bubble Bobble Wind Currents](http://geon.github.io/programming/2025/01/05/bubble-bobble-c64-wind)
 * [2025-01-06, 12:41:20](https://news.ycombinator.com/item?id=42610091) - [Musings on Tracing in PyPy](https://pypy.org/posts/2025/01/musings-tracing.html)
 
