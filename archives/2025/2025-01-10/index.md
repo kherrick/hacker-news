@@ -6,6 +6,7 @@
 
 * [2025-01-10, 19:41:15](https://news.ycombinator.com/item?id=42659302) - [WSJ: Americans Are Tipping Less Than They Have in Years](https://www.wsj.com/business/hospitality/restaurant-tip-fatigue-servers-covid-9e198567)
 * [2025-01-10, 19:28:43](https://news.ycombinator.com/item?id=42659141) - [A glowing ring of metal fell to Earth, and no one has any idea what it is](https://arstechnica.com/space/2025/01/a-glowing-ring-of-metal-fell-to-earth-and-no-one-has-any-idea-what-it-is/)
+* [2025-01-10, 19:23:50](https://news.ycombinator.com/item?id=42659061) - [Flattening ASTs (and Other Compiler Data Structures)](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
 * [2025-01-10, 18:43:26](https://news.ycombinator.com/item?id=42658614) - [Cuttle – a MTG like game using a standard 52 card deck](https://www.pagat.com/combat/cuttle.html)
 * [2025-01-10, 18:34:55](https://news.ycombinator.com/item?id=42658512) - [Mercury's shadowy North Pole revealed by M-CAM 1](https://www.esa.int/ESA_Multimedia/Images/2025/01/Mercury_s_shadowy_north_pole_revealed_by_M-CAM_1)
 * [2025-01-10, 18:32:21](https://news.ycombinator.com/item?id=42658483) - [H-1B Visa Lottery Is Shutting Out Top Talent. Replace It](https://www.bloomberg.com/opinion/articles/2025-01-10/h-1b-visa-isn-t-working-as-it-should-thanks-to-lottery-lower-wages)
