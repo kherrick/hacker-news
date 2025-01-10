@@ -64,6 +64,7 @@
 * [2025-01-07, 07:27:04](https://news.ycombinator.com/item?id=42620191) - [Alcohol-free booze is becoming big business](https://www.economist.com/business/2025/01/06/alcohol-free-booze-is-becoming-big-business)
 * [2025-01-07, 07:01:05](https://news.ycombinator.com/item?id=42620054) - [Swift for C++ Practitioners: Move Semantics](https://www.douggregor.net/posts/swift-for-cxx-practitioners-move/)
 * [2025-01-07, 07:01:03](https://news.ycombinator.com/item?id=42620053) - [Axiom.ai (YC W21) Is Hiring a Contract Web Designer (Remote)](https://www.ycombinator.com/companies/axiom-ai/jobs/DckIVG6-contract-web-designer)
+* [2025-01-07, 06:58:54](https://news.ycombinator.com/item?id=42620041) - [HTML Is a Programming Language. Fight Me](https://www.wired.com/story/html-is-actually-a-programming-language-fight-me/)
 * [2025-01-07, 06:51:37](https://news.ycombinator.com/item?id=42620001) - [Nvidia releases its own brand of world models](https://techcrunch.com/2025/01/06/nvidia-releases-its-own-brand-of-world-models/)
 * [2025-01-07, 06:21:05](https://news.ycombinator.com/item?id=42619851) - [SAT Solver Etudes I](https://www.philipzucker.com/python_sat/)
 * [2025-01-07, 05:53:27](https://news.ycombinator.com/item?id=42619695) - [Y2K – why I know it was a real problem (2015)](https://clarotesting.wordpress.com/2015/01/12/y2k-why-i-know-it-was-a-real-problem/)
