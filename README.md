@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-10, 07:20:58](https://news.ycombinator.com/item?id=42653434) - [BYD's electric supercar jumps over potholes and spikes](https://www.drive.com.au/news/byd-yangwang-u9-jumps-over-potholes-and-spikes-video/)
 * [2025-01-10, 07:00:48](https://news.ycombinator.com/item?id=42653320) - [Telli (YC F24) is hiring product engineers in Berlin, Germany (in-person)](https://www.ycombinator.com/companies/telli/jobs/J1YREmZ-product-engineer)
 * [2025-01-10, 05:53:06](https://news.ycombinator.com/item?id=42652967) - [Before Squid Game, there was Battle Royale](https://www.tokyoweekender.com/entertainment/movies-tv/before-squid-game-there-was-battle-royale/)
 * [2025-01-10, 04:45:55](https://news.ycombinator.com/item?id=42652577) - [Visualizing All ISBNs](https://annas-archive.org/blog/all-isbns.html)
 * [2025-01-10, 04:04:38](https://news.ycombinator.com/item?id=42652329) - [Gleam v1.7](https://gleam.run/news/improved-performance-and-publishing/)
 * [2025-01-10, 03:24:11](https://news.ycombinator.com/item?id=42652125) - [A three month review of kagi search and the orion web browser (2024)](https://flatfootfox.com/a-three-month-review-of-kagi-search-the-orion-web-browser/)
 * [2025-01-10, 00:27:55](https://news.ycombinator.com/item?id=42651275) - [Predictions Scorecard, 2025 January 01](https://rodneybrooks.com/predictions-scorecard-2025-january-01/)
-* [2025-01-10, 00:19:29](https://news.ycombinator.com/item?id=42651226) - [Ask HN: Work on robotics or agents?](https://news.ycombinator.com/item?id=42651226)
 * [2025-01-09, 22:37:01](https://news.ycombinator.com/item?id=42650561) - [Soldering the Tek way](https://hackaday.com/2025/01/09/retrotechtacular-soldering-the-tek-way/)
 * [2025-01-09, 22:28:07](https://news.ycombinator.com/item?id=42650501) - [Shaping ligatures in monospace fonts](https://joshleeb.com/posts/monospace-ligatures.html)
 * [2025-01-09, 20:02:36](https://news.ycombinator.com/item?id=42649340) - [How Britain got its first internet connection (2015)](https://theconversation.com/how-britain-got-its-first-internet-connection-by-the-late-pioneer-who-created-the-first-password-on-the-internet-45404)

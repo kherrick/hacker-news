@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-10](index.md)
 
+* [2025-01-10, 07:20:58](https://news.ycombinator.com/item?id=42653434) - [BYD's electric supercar jumps over potholes and spikes](https://www.drive.com.au/news/byd-yangwang-u9-jumps-over-potholes-and-spikes-video/)
 * [2025-01-10, 07:00:48](https://news.ycombinator.com/item?id=42653320) - [Telli (YC F24) is hiring product engineers in Berlin, Germany (in-person)](https://www.ycombinator.com/companies/telli/jobs/J1YREmZ-product-engineer)
 * [2025-01-10, 05:53:06](https://news.ycombinator.com/item?id=42652967) - [Before Squid Game, There Was Battle Royale](https://www.tokyoweekender.com/entertainment/movies-tv/before-squid-game-there-was-battle-royale/)
 * [2025-01-10, 04:45:55](https://news.ycombinator.com/item?id=42652577) - [Visualizing All ISBNs](https://annas-archive.org/blog/all-isbns.html)
