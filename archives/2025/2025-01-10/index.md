@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-01-10](index.md)
 
+* [2025-01-10, 12:00:44](https://news.ycombinator.com/item?id=42654901) - [Wasmer (YC S19) Is Hiring a Rust Engineer in Europe](https://www.workatastartup.com/jobs/41643)
 * [2025-01-10, 10:33:01](https://news.ycombinator.com/item?id=42654447) - [Male and female brains are wired differently](https://www.earth.com/news/male-and-female-brains-are-wired-completely-differently/)
 * [2025-01-10, 10:10:10](https://news.ycombinator.com/item?id=42654331) - [lc: List files in categories (and columns) – from Coherent Unix clone](https://github.com/gdm85/lc)
 * [2025-01-10, 09:17:47](https://news.ycombinator.com/item?id=42654019) - [Nvidia-Ingest: Multi-modal data extraction](https://github.com/NVIDIA/nv-ingest)
+* [2025-01-10, 09:07:54](https://news.ycombinator.com/item?id=42653966) - [Wi-Fi Router at CES 2025 Has a Connectivity Radius of 9.9 Miles](https://www.yankodesign.com/2025/01/08/this-game-changing-wi-fi-router-at-ces-2025-has-a-connectivity-radius-of-9-9-miles/)
 * [2025-01-10, 09:02:31](https://news.ycombinator.com/item?id=42653939) - [Glimmer: DSL Framework for Ruby GUI and More](https://github.com/AndyObtiva/glimmer)
 * [2025-01-10, 08:37:08](https://news.ycombinator.com/item?id=42653811) - [Tactility: OS for the ESP32 Microcontroller Family](https://tactility.one/#/)
 * [2025-01-10, 07:20:58](https://news.ycombinator.com/item?id=42653434) - [BYD's electric supercar jumps over potholes and spikes](https://www.drive.com.au/news/byd-yangwang-u9-jumps-over-potholes-and-spikes-video/)

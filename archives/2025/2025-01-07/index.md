@@ -43,6 +43,7 @@
 * [2025-01-07, 13:50:16](https://news.ycombinator.com/item?id=42622252) - [May Mobility reveals electric autonomous minibus at CES 2025](https://techcrunch.com/2025/01/07/may-mobility-reveals-electric-autonomous-minibus-at-ces-2025/)
 * [2025-01-07, 12:46:02](https://news.ycombinator.com/item?id=42621804) - [Learning Synths](https://learningsynths.ableton.com)
 * [2025-01-07, 12:39:37](https://news.ycombinator.com/item?id=42621766) - [Building Ultra Long Range Toslink](https://blog.benjojo.co.uk/post/sfp-experiment-ultra-long-range-toslink)
+* [2025-01-07, 12:29:59](https://news.ycombinator.com/item?id=42621711) - [Cascading Spy Sheets: Exploiting the Complexity of Modern CSS for Fingerprinting](https://cispa.de/en/research/publications/84162-cascading-spy-sheets-exploiting-the-complexity-of-modern-css-for-email-and-browser-fingerprinting)
 * [2025-01-07, 12:15:22](https://news.ycombinator.com/item?id=42621627) - [Ending our third party fact-checking program and moving to Community Notes model](https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/)
 * [2025-01-07, 12:00:55](https://news.ycombinator.com/item?id=42621546) - [Jiga (YC W21) Is Hiring Full Stack Engineers](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-remote-full-stack-engineer-react-node-mongo)
 * [2025-01-07, 12:00:33](https://news.ycombinator.com/item?id=42621544) - [Getty Images and Shutterstock to Merge](https://newsroom.gettyimages.com/en/getty-images/getty-images-and-shutterstock-to-merge-creating-a-premier-visual-content-company)
