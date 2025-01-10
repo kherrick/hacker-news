@@ -2,6 +2,7 @@
 
 * [2025-01-10, 15:39:11](https://news.ycombinator.com/item?id=42656559) - [Web apps built with Ruby on Rails](https://weuserails.com/)
 * [2025-01-10, 15:25:42](https://news.ycombinator.com/item?id=42656433) - [Formal Methods: Just Good Engineering Practice? (2024)](https://brooker.co.za/blog/2024/04/17/formal)
+* [2025-01-10, 15:04:29](https://news.ycombinator.com/item?id=42656188) - [I Program with LLMs](https://arstechnica.com/ai/2025/01/how-i-program-with-llms/)
 * [2025-01-10, 14:34:34](https://news.ycombinator.com/item?id=42655870) - [I've Acquired a New Superpower](https://danielwirtz.com/blog/spot-the-difference-superpower)
 * [2025-01-10, 14:13:23](https://news.ycombinator.com/item?id=42655708) - [Show HN: Boulette - Protect you from yourself (even as root).](https://github.com/pipelight/boulette)
 * [2025-01-10, 14:02:23](https://news.ycombinator.com/item?id=42655636) - [The Tedious Heroism of David Ruggles](https://commonplace.online/article/the-tedious-heroism-of-david-ruggles/)
@@ -27,7 +28,6 @@
 * [2025-01-07, 00:31:02](https://news.ycombinator.com/item?id=42617825) - [Bird-inspired drone uses legs to walk and jump into the air](https://spectrum.ieee.org/bird-drone)
 * [2025-01-06, 22:06:57](https://news.ycombinator.com/item?id=42616520) - [Musings on Tracing in PyPy](https://pypy.org/posts/2025/01/musings-tracing.html)
 * [2025-01-06, 19:45:02](https://news.ycombinator.com/item?id=42614722) - [Ask HN: Books about people who did hard things](https://news.ycombinator.com/item?id=42614722)
-* [2025-01-06, 16:39:57](https://news.ycombinator.com/item?id=42612085) - [MacBASIC](https://apple.fandom.com/wiki/MacBASIC)
 * [2025-01-06, 15:21:14](https://news.ycombinator.com/item?id=42611282) - [We are teen hackers from around the world who code together](https://hackclub.com/)
 * [2025-01-06, 14:57:50](https://news.ycombinator.com/item?id=42611077) - [Parsing the C64 Bubble Bobble Wind Currents](http://geon.github.io/programming/2025/01/05/bubble-bobble-c64-wind)
 
