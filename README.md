@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-10, 15:25:42](https://news.ycombinator.com/item?id=42656433) - [Formal Methods: Just Good Engineering Practice?](https://brooker.co.za/blog/2024/04/17/formal)
 * [2025-01-10, 14:13:23](https://news.ycombinator.com/item?id=42655708) - [Show HN: Boulette - Protect you from yourself (even as root).](https://github.com/pipelight/boulette)
 * [2025-01-10, 14:02:23](https://news.ycombinator.com/item?id=42655636) - [The Tedious Heroism of David Ruggles](https://commonplace.online/article/the-tedious-heroism-of-david-ruggles/)
 * [2025-01-10, 13:24:26](https://news.ycombinator.com/item?id=42655393) - [There are no pure cultures – we have always been global](https://aeon.co/essays/there-are-no-pure-cultures-we-have-always-been-global)
@@ -21,7 +22,6 @@
 * [2025-01-09, 13:31:33](https://news.ycombinator.com/item?id=42645218) - [Show HN: Tetris in a PDF](https://th0mas.nl/downloads/pdftris.pdf)
 * [2025-01-09, 13:21:40](https://news.ycombinator.com/item?id=42645110) - [SQL nulls are weird](https://jirevwe.github.io/sql-nulls-are-weird.html)
 * [2025-01-09, 13:01:37](https://news.ycombinator.com/item?id=42644896) - [Rational or not? This basic math question took decades to answer](https://www.quantamagazine.org/rational-or-not-this-basic-math-question-took-decades-to-answer-20250108/)
-* [2025-01-07, 16:17:22](https://news.ycombinator.com/item?id=42624048) - [The Patterns of Barricelli (2024)](https://akkartik.name/post/2024-08-30-devlog)
 * [2025-01-07, 12:29:59](https://news.ycombinator.com/item?id=42621711) - [Cascading Spy Sheets: Exploiting the Complexity of Modern CSS for Fingerprinting](https://cispa.de/en/research/publications/84162-cascading-spy-sheets-exploiting-the-complexity-of-modern-css-for-email-and-browser-fingerprinting)
 * [2025-01-07, 00:31:02](https://news.ycombinator.com/item?id=42617825) - [Bird-inspired drone uses legs to walk and jump into the air](https://spectrum.ieee.org/bird-drone)
 * [2025-01-06, 22:06:57](https://news.ycombinator.com/item?id=42616520) - [Musings on Tracing in PyPy](https://pypy.org/posts/2025/01/musings-tracing.html)

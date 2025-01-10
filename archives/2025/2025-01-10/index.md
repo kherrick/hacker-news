@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-10](index.md)
 
+* [2025-01-10, 15:25:42](https://news.ycombinator.com/item?id=42656433) - [Formal Methods: Just Good Engineering Practice?](https://brooker.co.za/blog/2024/04/17/formal)
 * [2025-01-10, 14:13:23](https://news.ycombinator.com/item?id=42655708) - [Show HN: Boulette - Protect you from yourself (even as root).](https://github.com/pipelight/boulette)
 * [2025-01-10, 14:02:23](https://news.ycombinator.com/item?id=42655636) - [The Tedious Heroism of David Ruggles](https://commonplace.online/article/the-tedious-heroism-of-david-ruggles/)
 * [2025-01-10, 14:01:20](https://news.ycombinator.com/item?id=42655630) - [Making Beautiful API Keys](https://docs.agentstation.ai/blog/beautiful-api-keys/)
