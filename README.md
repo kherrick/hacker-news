@@ -2,7 +2,6 @@
 
 * [2025-01-10, 22:48:13](https://news.ycombinator.com/item?id=42661185) - [Portals and Quake](https://30fps.net/pages/pvs-portals-and-quake/)
 * [2025-01-10, 21:17:21](https://news.ycombinator.com/item?id=42660335) - [Phi-4 Bug Fixes](https://unsloth.ai/blog/phi4)
-* [2025-01-10, 20:57:39](https://news.ycombinator.com/item?id=42660117) - [The War Against Headlight Brightness](https://theringer.com/2024/12/03/tech/headlight-brightness-cars-accidents)
 * [2025-01-10, 19:23:50](https://news.ycombinator.com/item?id=42659061) - [Flattening ASTs (and Other Compiler Data Structures)](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
 * [2025-01-10, 18:43:26](https://news.ycombinator.com/item?id=42658614) - [Cuttle – a MTG like game using a standard 52 card deck](https://www.pagat.com/combat/cuttle.html)
 * [2025-01-10, 18:34:55](https://news.ycombinator.com/item?id=42658512) - [Mercury's shadowy North Pole revealed by M-CAM 1](https://www.esa.int/ESA_Multimedia/Images/2025/01/Mercury_s_shadowy_north_pole_revealed_by_M-CAM_1)
@@ -23,6 +22,7 @@
 * [2025-01-10, 04:45:55](https://news.ycombinator.com/item?id=42652577) - [Visualizing All ISBNs](https://annas-archive.org/blog/all-isbns.html)
 * [2025-01-09, 17:49:21](https://news.ycombinator.com/item?id=42648043) - [Datadog acquires Quickwit](https://quickwit.io/blog/quickwit-joins-datadog)
 * [2025-01-09, 13:31:33](https://news.ycombinator.com/item?id=42645218) - [Show HN: Tetris in a PDF](https://th0mas.nl/downloads/pdftris.pdf)
+* [2025-01-08, 08:16:26](https://news.ycombinator.com/item?id=42632163) - [Refactoring with Codemods to Automate API Changes](https://martinfowler.com/articles/codemods-api-refactoring.html)
 * [2025-01-07, 20:08:00](https://news.ycombinator.com/item?id=42626809) - [Kimchi Refrigerator](https://en.wikipedia.org/wiki/Kimchi_refrigerator)
 * [2025-01-07, 19:55:13](https://news.ycombinator.com/item?id=42626647) - [Visualizing Dimensional Relationships](https://qlikdork.com/2024/12/visualizing-dimensional-relationships/)
 * [2025-01-07, 13:52:09](https://news.ycombinator.com/item?id=42622264) - [Doing Hard Things While Living Life: Why We Built Vade Studio in Clojure](https://bytes.vadelabs.com/doing-hard-things-while-living-life-why-we-built-vade-studio-in-clojure/)
