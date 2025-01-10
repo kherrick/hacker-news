@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-10](index.md)
 
+* [2025-01-10, 09:02:31](https://news.ycombinator.com/item?id=42653939) - [Glimmer: DSL Framework for Ruby GUI and More](https://github.com/AndyObtiva/glimmer)
 * [2025-01-10, 07:20:58](https://news.ycombinator.com/item?id=42653434) - [BYD's electric supercar jumps over potholes and spikes](https://www.drive.com.au/news/byd-yangwang-u9-jumps-over-potholes-and-spikes-video/)
 * [2025-01-10, 07:05:35](https://news.ycombinator.com/item?id=42653352) - [Samsung Display to Begin Mass Production of Rollable OLED for Laptops](https://global.samsungdisplay.com/31332)
 * [2025-01-10, 07:00:48](https://news.ycombinator.com/item?id=42653320) - [Telli (YC F24) is hiring product engineers in Berlin, Germany (in-person)](https://www.ycombinator.com/companies/telli/jobs/J1YREmZ-product-engineer)

@@ -52,6 +52,7 @@
 * [2025-01-06, 15:04:24](https://news.ycombinator.com/item?id=42611126) - [The Latest Fake Literary Agencies](https://writerbeware.blog/2024/08/16/the-latest-fake-literary-agencies/)
 * [2025-01-06, 15:00:42](https://news.ycombinator.com/item?id=42611099) - [Agents Are Not Enough](https://www.arxiv.org/pdf/2412.16241)
 * [2025-01-06, 15:00:42](https://news.ycombinator.com/item?id=42611099) - [Agents Are Not Enough](https://www.arxiv.org/abs/2412.16241)
+* [2025-01-06, 14:57:50](https://news.ycombinator.com/item?id=42611077) - [Parsing the C64 Bubble Bobble Wind Currents](http://geon.github.io/programming/2025/01/05/bubble-bobble-c64-wind)
 * [2025-01-06, 14:27:31](https://news.ycombinator.com/item?id=42610797) - [Year 7 as a CTO](https://miguelcarranza.es/cto-year-7)
 * [2025-01-06, 14:04:31](https://news.ycombinator.com/item?id=42610620) - [Industrial photographer Christopher Payne spotlights the good in American labor](https://www.scopeofwork.net/the-honorable-parts/)
 * [2025-01-06, 13:37:58](https://news.ycombinator.com/item?id=42610457) - [A man keeping hope, and 70-year-old pinball machines, alive](https://arstechnica.com/gaming/2025/01/meet-the-man-keeping-hope-and-70-year-old-pinball-machines-alive/)
