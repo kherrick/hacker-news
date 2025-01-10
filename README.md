@@ -23,11 +23,11 @@
 * [2025-01-08, 14:47:34](https://news.ycombinator.com/item?id=42634787) - [Show HN: Atlas of Space](https://atlasof.space/)
 * [2025-01-08, 12:32:34](https://news.ycombinator.com/item?id=42633501) - [Cracking a 512-bit DKIM key for less than $8 in the cloud](https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key)
 * [2025-01-07, 19:42:24](https://news.ycombinator.com/item?id=42626488) - [David Lodge, British novelist who satirized academic life, has died](https://www.nytimes.com/2025/01/03/books/david-lodge-dead.html)
+* [2025-01-07, 13:50:16](https://news.ycombinator.com/item?id=42622252) - [May Mobility reveals electric autonomous minibus at CES 2025](https://techcrunch.com/2025/01/07/may-mobility-reveals-electric-autonomous-minibus-at-ces-2025/)
 * [2025-01-06, 16:39:57](https://news.ycombinator.com/item?id=42612085) - [MacBASIC](https://apple.fandom.com/wiki/MacBASIC)
 * [2025-01-06, 16:27:20](https://news.ycombinator.com/item?id=42611919) - [Relax while watching bouncing particles making connections when they get closer](https://tiki.li/apps/particles.html?v=2501a)
 * [2025-01-06, 15:21:14](https://news.ycombinator.com/item?id=42611282) - [We are teen hackers from around the world who code together](https://hackclub.com/)
 * [2025-01-06, 12:41:20](https://news.ycombinator.com/item?id=42610091) - [Musings on Tracing in PyPy](https://pypy.org/posts/2025/01/musings-tracing.html)
-* [2025-01-06, 12:24:24](https://news.ycombinator.com/item?id=42609982) - [Why clowns paint their faces on eggs (2017)](https://www.bbc.com/future/article/20171206-the-fascinating-reason-why-clowns-paint-their-faces-on-eggs)
 * [2025-01-05, 23:07:37](https://news.ycombinator.com/item?id=42605848) - [Writing a simple pool allocator in C](https://8dcc.github.io/programming/pool-allocator.html)
 * [2025-01-05, 06:15:14](https://news.ycombinator.com/item?id=42600111) - [Writing as Transformation](https://www.newyorker.com/culture/the-weekend-essay/writing-as-transformation-louise-gluck)
 
