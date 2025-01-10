@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-10, 12:21:06](https://news.ycombinator.com/item?id=42654995) - [Who Can Understand the Proof? A Window on Formalized Mathematics](https://writings.stephenwolfram.com/2025/01/who-can-understand-the-proof-a-window-on-formalized-mathematics/)
 * [2025-01-10, 12:00:44](https://news.ycombinator.com/item?id=42654901) - [Wasmer (YC S19) Is Hiring a Rust Engineer in Europe](https://www.workatastartup.com/jobs/41643)
 * [2025-01-10, 10:10:10](https://news.ycombinator.com/item?id=42654331) - [lc: List files in categories (and columns) – from Coherent Unix clone](https://github.com/gdm85/lc)
 * [2025-01-10, 09:17:47](https://news.ycombinator.com/item?id=42654019) - [Nvidia-Ingest: Multi-modal data extraction](https://github.com/NVIDIA/nv-ingest)
-* [2025-01-10, 09:07:54](https://news.ycombinator.com/item?id=42653966) - [Wi-Fi Router at CES 2025 Has a Connectivity Radius of 9.9 Miles](https://www.yankodesign.com/2025/01/08/this-game-changing-wi-fi-router-at-ces-2025-has-a-connectivity-radius-of-9-9-miles/)
 * [2025-01-10, 09:02:31](https://news.ycombinator.com/item?id=42653939) - [Glimmer: DSL Framework for Ruby GUI and More](https://github.com/AndyObtiva/glimmer)
+* [2025-01-10, 08:42:07](https://news.ycombinator.com/item?id=42653828) - [Time Dilation Formula / Calculator](https://timedilationformula.com/)
 * [2025-01-10, 08:37:08](https://news.ycombinator.com/item?id=42653811) - [Tactility: OS for the ESP32 Microcontroller Family](https://tactility.one/#/)
 * [2025-01-10, 05:21:11](https://news.ycombinator.com/item?id=42652775) - [A visual demo of Ruby's lazy enumerator](https://joyofrails.com/articles/simple-trick-to-understand-ruby-lazy-enumerator)
 * [2025-01-10, 04:45:55](https://news.ycombinator.com/item?id=42652577) - [Visualizing All ISBNs](https://annas-archive.org/blog/all-isbns.html)
@@ -27,7 +28,6 @@
 * [2025-01-06, 19:45:02](https://news.ycombinator.com/item?id=42614722) - [Ask HN: Books about people who did hard things](https://news.ycombinator.com/item?id=42614722)
 * [2025-01-06, 16:39:57](https://news.ycombinator.com/item?id=42612085) - [MacBASIC](https://apple.fandom.com/wiki/MacBASIC)
 * [2025-01-06, 15:21:14](https://news.ycombinator.com/item?id=42611282) - [We are teen hackers from around the world who code together](https://hackclub.com/)
-* [2025-01-06, 15:00:42](https://news.ycombinator.com/item?id=42611099) - [Agents Are Not Enough](https://www.arxiv.org/abs/2412.16241)
 * [2025-01-06, 14:57:50](https://news.ycombinator.com/item?id=42611077) - [Parsing the C64 Bubble Bobble Wind Currents](http://geon.github.io/programming/2025/01/05/bubble-bobble-c64-wind)
 * [2025-01-06, 12:41:20](https://news.ycombinator.com/item?id=42610091) - [Musings on Tracing in PyPy](https://pypy.org/posts/2025/01/musings-tracing.html)
 
