@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-10, 03:30:16](https://news.ycombinator.com/item?id=42652154) - [Los Angeles fires expose inflated US home prices](https://www.reuters.com/breakingviews/los-angeles-fires-expose-inflated-us-home-prices-2025-01-09/)
 * [2025-01-10, 03:12:57](https://news.ycombinator.com/item?id=42652076) - [41% of Employers Worldwide Say They'll Reduce Staff by 2030 Due to AI](https://gizmodo.com/41-of-employers-worldwide-say-theyll-reduce-staff-by-2030-due-to-ai-2000548131)
 * [2025-01-10, 03:08:49](https://news.ycombinator.com/item?id=42652056) - [TikTok tells staff impacted by wildfires to use sick hours if they can't work](https://techcrunch.com/2025/01/09/tiktok-tells-la-staff-impacted-by-wildfires-to-use-personal-sick-hours-if-they-cant-work-from-home/)
 * [2025-01-10, 01:10:33](https://news.ycombinator.com/item?id=42651487) - [Television: Fast general purpose fuzzy finder TUI](https://github.com/alexpasmantier/television)
@@ -24,7 +25,6 @@
 * [2025-01-08, 14:47:34](https://news.ycombinator.com/item?id=42634787) - [Show HN: Atlas of Space](https://atlasof.space/)
 * [2025-01-07, 19:42:24](https://news.ycombinator.com/item?id=42626488) - [David Lodge, British novelist who satirized academic life, has died](https://www.nytimes.com/2025/01/03/books/david-lodge-dead.html)
 * [2025-01-07, 13:50:16](https://news.ycombinator.com/item?id=42622252) - [May Mobility reveals electric autonomous minibus at CES 2025](https://techcrunch.com/2025/01/07/may-mobility-reveals-electric-autonomous-minibus-at-ces-2025/)
-* [2025-01-06, 18:42:03](https://news.ycombinator.com/item?id=42613758) - [The cases of consumer-grade routers on puny power supplies](https://blog.apnic.net/2024/10/18/the-strange-cases-of-consumer-grade-routers-on-puny-power-supplies/)
 * [2025-01-06, 16:39:57](https://news.ycombinator.com/item?id=42612085) - [MacBASIC](https://apple.fandom.com/wiki/MacBASIC)
 * [2025-01-06, 16:27:20](https://news.ycombinator.com/item?id=42611919) - [Relax while watching bouncing particles making connections when they get closer](https://tiki.li/apps/particles.html?v=2501a)
 * [2025-01-06, 15:21:14](https://news.ycombinator.com/item?id=42611282) - [We are teen hackers from around the world who code together](https://hackclub.com/)
