@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-10, 22:48:13](https://news.ycombinator.com/item?id=42661185) - [Portals and Quake](https://30fps.net/pages/pvs-portals-and-quake/)
-* [2025-01-10, 21:21:17](https://news.ycombinator.com/item?id=42660377) - [OpenAI's bot crushed this seven-person company's web site 'like a DDoS attack'](https://techcrunch.com/2025/01/10/how-openais-bot-crushed-this-seven-person-companys-web-site-like-a-ddos-attack/)
 * [2025-01-10, 21:17:21](https://news.ycombinator.com/item?id=42660335) - [Phi-4 Bug Fixes](https://unsloth.ai/blog/phi4)
 * [2025-01-10, 20:57:39](https://news.ycombinator.com/item?id=42660117) - [The War Against Headlight Brightness](https://theringer.com/2024/12/03/tech/headlight-brightness-cars-accidents)
 * [2025-01-10, 19:23:50](https://news.ycombinator.com/item?id=42659061) - [Flattening ASTs (and Other Compiler Data Structures)](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
@@ -29,6 +28,7 @@
 * [2025-01-07, 13:52:09](https://news.ycombinator.com/item?id=42622264) - [Doing Hard Things While Living Life: Why We Built Vade Studio in Clojure](https://bytes.vadelabs.com/doing-hard-things-while-living-life-why-we-built-vade-studio-in-clojure/)
 * [2025-01-07, 13:14:21](https://news.ycombinator.com/item?id=42621989) - [Show HN: TubePen – My attempt to get more out of YouTube learning](https://www.tubepen.com/)
 * [2025-01-07, 06:32:05](https://news.ycombinator.com/item?id=42619898) - [Stone selection by wild chimpanzees shares patterns with Oldowan hominins](https://www.sciencedirect.com/science/article/pii/S0047248424001337)
+* [2025-01-07, 00:31:02](https://news.ycombinator.com/item?id=42617825) - [Bird-inspired drone uses legs to walk and jump into the air](https://spectrum.ieee.org/bird-drone)
 * [2025-01-06, 14:57:50](https://news.ycombinator.com/item?id=42611077) - [Parsing the C64 Bubble Bobble Wind Currents](http://geon.github.io/programming/2025/01/05/bubble-bobble-c64-wind)
 
 ## [Archives](archives/index.md)
