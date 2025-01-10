@@ -35,6 +35,7 @@
 * [2025-01-06, 17:07:43](https://news.ycombinator.com/item?id=42612453) - [Getting LLMs to Generate Funny Memes Is Unexpectedly Hard](https://www.greptile.com/blog/reporoast)
 * [2025-01-06, 17:03:20](https://news.ycombinator.com/item?id=42612394) - [GoGoGrandparent (YC S16) Is Hiring Back End and Full-Stack Engineers](https://news.ycombinator.com/item?id=42612394)
 * [2025-01-06, 16:58:11](https://news.ycombinator.com/item?id=42612321) - [TikTok should lose its big Supreme Court case](https://www.vox.com/scotus/393199/tiktok-supreme-court-first-amendment)
+* [2025-01-06, 16:50:47](https://news.ycombinator.com/item?id=42612237) - [Show HN: Bin - AI business intelligence analyst that turns data into dashboards](https://bi.new)
 * [2025-01-06, 16:47:53](https://news.ycombinator.com/item?id=42612211) - [Property-Based Testing for the People](https://repository.upenn.edu/entities/publication/72ca3499-c5f6-4fc1-b5a3-9d66d8dd534e)
 * [2025-01-06, 16:39:57](https://news.ycombinator.com/item?id=42612085) - [MacBASIC](https://apple.fandom.com/wiki/MacBASIC)
 * [2025-01-06, 16:31:27](https://news.ycombinator.com/item?id=42611978) - [Raising of Chicago](https://en.wikipedia.org/wiki/Raising_of_Chicago)
