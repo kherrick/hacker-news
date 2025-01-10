@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-01-10, 10:33:01",
-      "https://news.ycombinator.com/item?id=42654447"
-    ],
-    [
-      "Male and female brains are wired differently",
-      "https://www.earth.com/news/male-and-female-brains-are-wired-completely-differently/"
-    ]
-  ],
-  [
-    [
       "2025-01-10, 10:10:10",
       "https://news.ycombinator.com/item?id=42654331"
     ],
@@ -61,6 +51,16 @@
   ],
   [
     [
+      "2025-01-10, 05:21:11",
+      "https://news.ycombinator.com/item?id=42652775"
+    ],
+    [
+      "A visual demo of Ruby's lazy enumerator",
+      "https://joyofrails.com/articles/simple-trick-to-understand-ruby-lazy-enumerator"
+    ]
+  ],
+  [
+    [
       "2025-01-10, 04:45:55",
       "https://news.ycombinator.com/item?id=42652577"
     ],
@@ -77,6 +77,16 @@
     [
       "Predictions Scorecard, 2025 January 01",
       "https://rodneybrooks.com/predictions-scorecard-2025-january-01/"
+    ]
+  ],
+  [
+    [
+      "2025-01-09, 23:20:25",
+      "https://news.ycombinator.com/item?id=42650855"
+    ],
+    [
+      "Disappointed with the TVs at CES 2025",
+      "https://arstechnica.com/gadgets/2025/01/ces-2025-teases-alarming-smart-tv-future-loaded-with-unwanted-software-gimmicks/"
     ]
   ],
   [
@@ -181,12 +191,12 @@
   ],
   [
     [
-      "2025-01-09, 11:23:03",
-      "https://news.ycombinator.com/item?id=42644168"
+      "2025-01-08, 15:11:41",
+      "https://news.ycombinator.com/item?id=42635049"
     ],
     [
-      "Show HN: Factorio Blueprint Visualizer",
-      "https://github.com/piebro/factorio-blueprint-visualizer"
+      "Show HN: Cardstock- Free TCG Proxy Manager for Magic, Yugioh, & Pokemon",
+      "https://cardstock.denta.co"
     ]
   ],
   [
@@ -231,22 +241,22 @@
   ],
   [
     [
+      "2025-01-06, 19:42:30",
+      "https://news.ycombinator.com/item?id=42614676"
+    ],
+    [
+      "An abandoned ship held a treasure for 30 years: 50 arcade machines",
+      "https://jasondeegan.com/an-abandoned-ship-held-a-treasure-for-30-years-50-arcade-machines-of-immense-value-to-gamers/"
+    ]
+  ],
+  [
+    [
       "2025-01-06, 16:39:57",
       "https://news.ycombinator.com/item?id=42612085"
     ],
     [
       "MacBASIC",
       "https://apple.fandom.com/wiki/MacBASIC"
-    ]
-  ],
-  [
-    [
-      "2025-01-06, 16:27:20",
-      "https://news.ycombinator.com/item?id=42611919"
-    ],
-    [
-      "Relax while watching bouncing particles making connections when they get closer",
-      "https://tiki.li/apps/particles.html?v=2501a"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Musings on Tracing in PyPy",
       "https://pypy.org/posts/2025/01/musings-tracing.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-05, 06:15:14",
-      "https://news.ycombinator.com/item?id=42600111"
-    ],
-    [
-      "Writing as Transformation",
-      "https://www.newyorker.com/culture/the-weekend-essay/writing-as-transformation-louise-gluck"
     ]
   ]
 ]
