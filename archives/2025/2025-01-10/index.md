@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-10](index.md)
 
+* [2025-01-10, 18:27:14](https://news.ycombinator.com/item?id=42658414) - [Defederation from Threads](https://community.hachyderm.io/blog/2025/01/09/defederation-from-threads/)
+* [2025-01-10, 18:26:59](https://news.ycombinator.com/item?id=42658407) - [Kubernetes Security Architecture Cheatsheet](https://github.com/lars-solberg/kubesec-diagram)
 * [2025-01-10, 17:48:29](https://news.ycombinator.com/item?id=42657907) - [Review: Reentry, by Eric Berger](https://www.thepsmiths.com/p/review-reentry-by-eric-berger)
 * [2025-01-10, 17:48:04](https://news.ycombinator.com/item?id=42657901) - [Meta's memo to employees rolling back DEI programs](https://www.axios.com/2025/01/10/meta-dei-memo-employees-programs)
 * [2025-01-10, 17:24:32](https://news.ycombinator.com/item?id=42657692) - [Starlink is now cheaper than leading internet provider in some African countries](https://restofworld.org/2025/starlink-cheaper-internet-africa/)
