@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-10, 18:27:14",
+      "https://news.ycombinator.com/item?id=42658414"
+    ],
+    [
+      "Defederation from Threads",
+      "https://community.hachyderm.io/blog/2025/01/09/defederation-from-threads/"
+    ]
+  ],
+  [
+    [
+      "2025-01-10, 18:26:59",
+      "https://news.ycombinator.com/item?id=42658407"
+    ],
+    [
+      "Kubernetes Security Architecture Cheatsheet",
+      "https://github.com/lars-solberg/kubesec-diagram"
+    ]
+  ],
+  [
+    [
       "2025-01-10, 17:48:04",
       "https://news.ycombinator.com/item?id=42657901"
     ],
@@ -47,16 +67,6 @@
     [
       "Formal Methods: Just Good Engineering Practice? (2024)",
       "https://brooker.co.za/blog/2024/04/17/formal"
-    ]
-  ],
-  [
-    [
-      "2025-01-10, 15:04:04",
-      "https://news.ycombinator.com/item?id=42656184"
-    ],
-    [
-      "Ask HN: How to approach first days on a new job as a senior engineer?",
-      "https://news.ycombinator.com/item?id=42656184"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Doing Hard Things While Living Life: Why We Built Vade Studio in Clojure",
       "https://bytes.vadelabs.com/doing-hard-things-while-living-life-why-we-built-vade-studio-in-clojure/"
-    ]
-  ],
-  [
-    [
-      "2025-01-07, 13:37:02",
-      "https://news.ycombinator.com/item?id=42622143"
-    ],
-    [
-      "Deformable Image Registration KU Repository",
-      "https://github.com/ThomasAlscher1991/DIRKU"
     ]
   ],
   [
