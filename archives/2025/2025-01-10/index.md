@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-10](index.md)
 
+* [2025-01-10, 10:33:01](https://news.ycombinator.com/item?id=42654447) - [Male and female brains are wired differently](https://www.earth.com/news/male-and-female-brains-are-wired-completely-differently/)
 * [2025-01-10, 10:10:10](https://news.ycombinator.com/item?id=42654331) - [lc: List files in categories (and columns) – from Coherent Unix clone](https://github.com/gdm85/lc)
 * [2025-01-10, 09:17:47](https://news.ycombinator.com/item?id=42654019) - [Nvidia-Ingest: Multi-modal data extraction](https://github.com/NVIDIA/nv-ingest)
 * [2025-01-10, 09:02:31](https://news.ycombinator.com/item?id=42653939) - [Glimmer: DSL Framework for Ruby GUI and More](https://github.com/AndyObtiva/glimmer)

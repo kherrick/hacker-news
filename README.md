@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-10, 10:33:01](https://news.ycombinator.com/item?id=42654447) - [Male and female brains are wired differently](https://www.earth.com/news/male-and-female-brains-are-wired-completely-differently/)
 * [2025-01-10, 10:10:10](https://news.ycombinator.com/item?id=42654331) - [lc: List files in categories (and columns) – from Coherent Unix clone](https://github.com/gdm85/lc)
 * [2025-01-10, 09:17:47](https://news.ycombinator.com/item?id=42654019) - [Nvidia-Ingest: Multi-modal data extraction](https://github.com/NVIDIA/nv-ingest)
 * [2025-01-10, 09:02:31](https://news.ycombinator.com/item?id=42653939) - [Glimmer: DSL Framework for Ruby GUI and More](https://github.com/AndyObtiva/glimmer)
@@ -20,7 +21,6 @@
 * [2025-01-09, 11:23:03](https://news.ycombinator.com/item?id=42644168) - [Show HN: Factorio Blueprint Visualizer](https://github.com/piebro/factorio-blueprint-visualizer)
 * [2025-01-07, 19:42:24](https://news.ycombinator.com/item?id=42626488) - [David Lodge, British novelist who satirized academic life, has died](https://www.nytimes.com/2025/01/03/books/david-lodge-dead.html)
 * [2025-01-07, 16:17:22](https://news.ycombinator.com/item?id=42624048) - [The Patterns of Barricelli (2024)](https://akkartik.name/post/2024-08-30-devlog)
-* [2025-01-07, 08:47:00](https://news.ycombinator.com/item?id=42620582) - [Thunderbolt 5 vs. Thunderbolt 4: Everything you need to know](https://www.tomsguide.com/computing/thunderbolt-5-vs-thunderbolt-4)
 * [2025-01-07, 00:31:02](https://news.ycombinator.com/item?id=42617825) - [Bird-inspired drone uses legs to walk and jump into the air](https://spectrum.ieee.org/bird-drone)
 * [2025-01-06, 19:45:02](https://news.ycombinator.com/item?id=42614722) - [Ask HN: Books about people who did hard things](https://news.ycombinator.com/item?id=42614722)
 * [2025-01-06, 16:39:57](https://news.ycombinator.com/item?id=42612085) - [MacBASIC](https://apple.fandom.com/wiki/MacBASIC)
