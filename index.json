@@ -1,12 +1,52 @@
 [
   [
     [
+      "2025-01-10, 01:10:33",
+      "https://news.ycombinator.com/item?id=42651487"
+    ],
+    [
+      "Television: Blazing fast general purpose fuzzy finder TUI",
+      "https://github.com/alexpasmantier/television"
+    ]
+  ],
+  [
+    [
+      "2025-01-10, 00:27:55",
+      "https://news.ycombinator.com/item?id=42651275"
+    ],
+    [
+      "Rodney Brooks: Predictions Scorecard, 2025",
+      "https://rodneybrooks.com/predictions-scorecard-2025-january-01/"
+    ]
+  ],
+  [
+    [
+      "2025-01-10, 00:00:52",
+      "https://news.ycombinator.com/item?id=42651115"
+    ],
+    [
+      "Candy Crush, Tinder, MyFitnessPal: Apps hijacked to spy on location",
+      "https://www.wired.com/story/gravy-location-data-app-leak-rtb/"
+    ]
+  ],
+  [
+    [
       "2025-01-09, 23:20:25",
       "https://news.ycombinator.com/item?id=42650855"
     ],
     [
-      "Why I'm disappointed with the TVs at CES 2025",
+      "Disappointed with the TVs at CES 2025",
       "https://arstechnica.com/gadgets/2025/01/ces-2025-teases-alarming-smart-tv-future-loaded-with-unwanted-software-gimmicks/"
+    ]
+  ],
+  [
+    [
+      "2025-01-09, 23:13:34",
+      "https://news.ycombinator.com/item?id=42650815"
+    ],
+    [
+      "A quickstart eBook about Helm's essentials",
+      "https://curiousdevscorner.gumroad.com/l/master-helm"
     ]
   ],
   [
@@ -15,7 +55,7 @@
       "https://news.ycombinator.com/item?id=42650561"
     ],
     [
-      "Soldering the Tek Way",
+      "Soldering the Tek way",
       "https://hackaday.com/2025/01/09/retrotechtacular-soldering-the-tek-way/"
     ]
   ],
@@ -25,8 +65,28 @@
       "https://news.ycombinator.com/item?id=42650501"
     ],
     [
-      "Shaping Ligatures in Monospace Fonts",
+      "Shaping ligatures in monospace fonts",
       "https://joshleeb.com/posts/monospace-ligatures.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-09, 21:46:18",
+      "https://news.ycombinator.com/item?id=42650097"
+    ],
+    [
+      "Human-Computer Input via a Wrist-Based SEMG Wearable",
+      "https://www.meta.com/en-gb/blog/quest/surface-emg-wrist-white-paper-reality-labs/"
+    ]
+  ],
+  [
+    [
+      "2025-01-09, 21:33:06",
+      "https://news.ycombinator.com/item?id=42649996"
+    ],
+    [
+      "Ask HN: A friend has brain cancer: any bio hacks that worked?",
+      "https://news.ycombinator.com/item?id=42649996"
     ]
   ],
   [
@@ -111,32 +171,12 @@
   ],
   [
     [
-      "2025-01-09, 13:18:20",
-      "https://news.ycombinator.com/item?id=42645075"
+      "2025-01-09, 13:21:40",
+      "https://news.ycombinator.com/item?id=42645110"
     ],
     [
-      "The Seven-Action Documentation Model",
-      "https://passo.uno/seven-action-model/"
-    ]
-  ],
-  [
-    [
-      "2025-01-09, 13:01:37",
-      "https://news.ycombinator.com/item?id=42644896"
-    ],
-    [
-      "Rational or Not? This Basic Math Question Took Decades to Answer",
-      "https://www.quantamagazine.org/rational-or-not-this-basic-math-question-took-decades-to-answer-20250108/"
-    ]
-  ],
-  [
-    [
-      "2025-01-09, 11:29:52",
-      "https://news.ycombinator.com/item?id=42644204"
-    ],
-    [
-      "Scientists uncover how the brain washes itself during sleep",
-      "https://www.science.org/content/article/scientists-uncover-how-brain-washes-itself-during-sleep"
+      "SQL nulls are weird",
+      "https://jirevwe.github.io/sql-nulls-are-weird.html"
     ]
   ],
   [
@@ -157,16 +197,6 @@
     [
       "NeuralSVG: An Implicit Representation for Text-to-Vector Generation",
       "https://sagipolaczek.github.io/NeuralSVG/"
-    ]
-  ],
-  [
-    [
-      "2025-01-08, 16:41:04",
-      "https://news.ycombinator.com/item?id=42635942"
-    ],
-    [
-      "Show HN: Stagehand – an open source browser automation framework powered by AI",
-      "https://github.com/browserbase/stagehand"
     ]
   ],
   [
@@ -231,42 +261,12 @@
   ],
   [
     [
-      "2025-01-06, 16:17:36",
-      "https://news.ycombinator.com/item?id=42611818"
-    ],
-    [
-      "A swashbuckling tale of Italian software piracy – 1983-1993 (2022)",
-      "https://genesistemple.com/a-swashbuckling-tale-of-italian-software-piracy-1983-1993"
-    ]
-  ],
-  [
-    [
       "2025-01-06, 15:21:14",
       "https://news.ycombinator.com/item?id=42611282"
     ],
     [
       "We are teen hackers from around the world who code together",
       "https://hackclub.com/"
-    ]
-  ],
-  [
-    [
-      "2025-01-06, 15:00:42",
-      "https://news.ycombinator.com/item?id=42611099"
-    ],
-    [
-      "Agents Are Not Enough",
-      "https://www.arxiv.org/pdf/2412.16241"
-    ]
-  ],
-  [
-    [
-      "2025-01-06, 14:04:31",
-      "https://news.ycombinator.com/item?id=42610620"
-    ],
-    [
-      "Industrial photographer Christopher Payne spotlights the good in American labor",
-      "https://www.scopeofwork.net/the-honorable-parts/"
     ]
   ],
   [
