@@ -1,26 +1,6 @@
 [
   [
     [
-      "2025-01-10, 19:41:15",
-      "https://news.ycombinator.com/item?id=42659302"
-    ],
-    [
-      "WSJ: Americans Are Tipping Less Than They Have in Years",
-      "https://www.wsj.com/business/hospitality/restaurant-tip-fatigue-servers-covid-9e198567"
-    ]
-  ],
-  [
-    [
-      "2025-01-10, 19:28:43",
-      "https://news.ycombinator.com/item?id=42659141"
-    ],
-    [
-      "A glowing ring of metal fell to Earth, and no one has any idea what it is",
-      "https://arstechnica.com/space/2025/01/a-glowing-ring-of-metal-fell-to-earth-and-no-one-has-any-idea-what-it-is/"
-    ]
-  ],
-  [
-    [
       "2025-01-10, 18:43:26",
       "https://news.ycombinator.com/item?id=42658614"
     ],
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2025-01-09, 16:19:34",
+      "https://news.ycombinator.com/item?id=42647101"
+    ],
+    [
+      "WorstFit: Unveiling Hidden Transformers in Windows ANSI",
+      "https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/"
+    ]
+  ],
+  [
+    [
       "2025-01-09, 13:31:33",
       "https://news.ycombinator.com/item?id=42645218"
     ],
@@ -257,6 +247,16 @@
     [
       "Doing Hard Things While Living Life: Why We Built Vade Studio in Clojure",
       "https://bytes.vadelabs.com/doing-hard-things-while-living-life-why-we-built-vade-studio-in-clojure/"
+    ]
+  ],
+  [
+    [
+      "2025-01-07, 12:29:59",
+      "https://news.ycombinator.com/item?id=42621711"
+    ],
+    [
+      "Cascading Spy Sheets: Exploiting the Complexity of Modern CSS for Fingerprinting",
+      "https://cispa.de/en/research/publications/84162-cascading-spy-sheets-exploiting-the-complexity-of-modern-css-for-email-and-browser-fingerprinting"
     ]
   ],
   [
