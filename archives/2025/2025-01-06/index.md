@@ -8,6 +8,7 @@
 * [2025-01-06, 22:53:01](https://news.ycombinator.com/item?id=42617005) - [Amidst the Noise and Haste, Google Has Successfully Pulled a SpaceX](https://markmaunder.com/2025/amidst-the-noise-and-haste-google-has-successfully-pulled-a-spacex/)
 * [2025-01-06, 22:22:59](https://news.ycombinator.com/item?id=42616700) - [NYC Congestion Pricing](https://www.congestion-pricing-tracker.com/)
 * [2025-01-06, 22:22:58](https://news.ycombinator.com/item?id=42616699) - [I Live My Life a Quarter Century at a Time](https://tla.systems/blog/2025/01/04/i-live-my-life-a-quarter-century-at-a-time/)
+* [2025-01-06, 22:06:57](https://news.ycombinator.com/item?id=42616520) - [Musings on Tracing in PyPy](https://pypy.org/posts/2025/01/musings-tracing.html)
 * [2025-01-06, 22:04:34](https://news.ycombinator.com/item?id=42616495) - [Small Data [video]](https://www.youtube.com/watch?v=eDr6_cMtfdA)
 * [2025-01-06, 22:03:59](https://news.ycombinator.com/item?id=42616487) - [2DGD_F0TH A compendium of the community knowledge on game design and development](https://github.com/2DGD-F0TH/2DGD_F0TH)
 * [2025-01-06, 21:48:57](https://news.ycombinator.com/item?id=42616325) - [Dtack Grounded archive (1981-1985)](http://www.easy68k.com/paulrsm/dg/)
