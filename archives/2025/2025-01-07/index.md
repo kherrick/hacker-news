@@ -40,6 +40,7 @@
 * [2025-01-07, 15:23:45](https://news.ycombinator.com/item?id=42623315) - [Why Is the American Diet So Deadly?](https://www.newyorker.com/magazine/2024/01/13/why-is-the-american-diet-so-deadly)
 * [2025-01-07, 15:12:05](https://news.ycombinator.com/item?id=42623163) - [Google is building its own 'world modeling' AI team for games and robot training](https://www.theverge.com/2025/1/7/24338053/google-deepmind-world-modeling-ai-team-gaming-robot-training)
 * [2025-01-07, 15:09:47](https://news.ycombinator.com/item?id=42623144) - [Federal Reserve Bank of NY \"Doomsday Book\" 2022 via FOIA [pdf]](https://www.crisesnotes.com/content/files/2023/12/NYFRB-2006.--Doomsday-Book--Searchable.pdf)
+* [2025-01-07, 13:52:09](https://news.ycombinator.com/item?id=42622264) - [Doing Hard Things While Living Life: Why We Built Vade Studio in Clojure](https://bytes.vadelabs.com/doing-hard-things-while-living-life-why-we-built-vade-studio-in-clojure/)
 * [2025-01-07, 13:50:16](https://news.ycombinator.com/item?id=42622252) - [May Mobility reveals electric autonomous minibus at CES 2025](https://techcrunch.com/2025/01/07/may-mobility-reveals-electric-autonomous-minibus-at-ces-2025/)
 * [2025-01-07, 13:37:02](https://news.ycombinator.com/item?id=42622143) - [Deformable Image Registration KU Repository](https://github.com/ThomasAlscher1991/DIRKU)
 * [2025-01-07, 12:46:02](https://news.ycombinator.com/item?id=42621804) - [Learning Synths](https://learningsynths.ableton.com)
