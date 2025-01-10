@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-10](index.md)
 
+* [2025-01-10, 17:24:32](https://news.ycombinator.com/item?id=42657692) - [Starlink is now cheaper than leading internet provider in some African countries](https://restofworld.org/2025/starlink-cheaper-internet-africa/)
 * [2025-01-10, 15:39:11](https://news.ycombinator.com/item?id=42656559) - [Web apps built with Ruby on Rails](https://weuserails.com/)
 * [2025-01-10, 15:25:42](https://news.ycombinator.com/item?id=42656433) - [Formal Methods: Just Good Engineering Practice?](https://brooker.co.za/blog/2024/04/17/formal)
 * [2025-01-10, 15:04:29](https://news.ycombinator.com/item?id=42656188) - [I Program with LLMs](https://arstechnica.com/ai/2025/01/how-i-program-with-llms/)

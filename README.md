@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-10, 17:24:32](https://news.ycombinator.com/item?id=42657692) - [Starlink is now cheaper than leading internet provider in some African countries](https://restofworld.org/2025/starlink-cheaper-internet-africa/)
 * [2025-01-10, 15:39:11](https://news.ycombinator.com/item?id=42656559) - [Web apps built with Ruby on Rails](https://weuserails.com/)
 * [2025-01-10, 15:25:42](https://news.ycombinator.com/item?id=42656433) - [Formal Methods: Just Good Engineering Practice? (2024)](https://brooker.co.za/blog/2024/04/17/formal)
 * [2025-01-10, 15:04:04](https://news.ycombinator.com/item?id=42656184) - [Ask HN: How to approach first days on a new job as a senior engineer?](https://news.ycombinator.com/item?id=42656184)
@@ -21,7 +22,6 @@
 * [2025-01-09, 20:02:36](https://news.ycombinator.com/item?id=42649340) - [How Britain got its first internet connection (2015)](https://theconversation.com/how-britain-got-its-first-internet-connection-by-the-late-pioneer-who-created-the-first-password-on-the-internet-45404)
 * [2025-01-09, 17:07:40](https://news.ycombinator.com/item?id=42647633) - [\"Twelfth Night Till Candlemas\" – A 40-year book-quest](https://davidallengreen.com/2024/12/twelfth-night-till-candlemas-the-story-of-a-forty-year-book-quest-and-of-its-remarkable-ending/)
 * [2025-01-09, 16:19:34](https://news.ycombinator.com/item?id=42647101) - [WorstFit: Unveiling Hidden Transformers in Windows ANSI](https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/)
-* [2025-01-09, 16:03:41](https://news.ycombinator.com/item?id=42646922) - [Show HN: Kate's App](https://katesapp.org/hn)
 * [2025-01-09, 13:31:33](https://news.ycombinator.com/item?id=42645218) - [Show HN: Tetris in a PDF](https://th0mas.nl/downloads/pdftris.pdf)
 * [2025-01-09, 13:21:40](https://news.ycombinator.com/item?id=42645110) - [SQL nulls are weird](https://jirevwe.github.io/sql-nulls-are-weird.html)
 * [2025-01-07, 13:37:02](https://news.ycombinator.com/item?id=42622143) - [Deformable Image Registration KU Repository](https://github.com/ThomasAlscher1991/DIRKU)
