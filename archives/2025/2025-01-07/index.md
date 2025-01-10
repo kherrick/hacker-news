@@ -8,6 +8,7 @@
 * [2025-01-07, 23:24:46](https://news.ycombinator.com/item?id=42628979) - [When will we fix the tools that run the world?](https://www.cgustavo.com/blog/tools)
 * [2025-01-07, 23:20:43](https://news.ycombinator.com/item?id=42628934) - [Automated Accessibility Testing at Slack](https://slack.engineering/automated-accessibility-testing-at-slack/)
 * [2025-01-07, 22:25:12](https://news.ycombinator.com/item?id=42628414) - [Servo Revival: 2023-2024](https://blogs.igalia.com/mrego/servo-revival-2023-2024/)
+* [2025-01-07, 22:23:18](https://news.ycombinator.com/item?id=42628397) - [Why is hash(-1) == hash(-2) in Python?](https://omairmajid.com/posts/2021-07-16-why-is-hash-in-python/)
 * [2025-01-07, 21:40:24](https://news.ycombinator.com/item?id=42627902) - [50 Years of SNL's Graphic Parodies (2024)](https://www.printmag.com/daily-heller/the-daily-heller-snls-graphic-parody/)
 * [2025-01-07, 21:14:24](https://news.ycombinator.com/item?id=42627567) - [Laid Off in My Career, and Twice in One Year](https://dillonshook.com/laid-off/)
 * [2025-01-07, 21:06:24](https://news.ycombinator.com/item?id=42627453) - [Magic/tragic email links: don't make them the only option](https://recyclebin.zip/posts/annoyinglinks/)
