@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-10, 07:20:58](https://news.ycombinator.com/item?id=42653434) - [BYD's electric supercar jumps over potholes and spikes](https://www.drive.com.au/news/byd-yangwang-u9-jumps-over-potholes-and-spikes-video/)
 * [2025-01-10, 07:05:35](https://news.ycombinator.com/item?id=42653352) - [Samsung Display to Begin Mass Production of Rollable OLED for Laptops](https://global.samsungdisplay.com/31332)
 * [2025-01-10, 07:00:48](https://news.ycombinator.com/item?id=42653320) - [Telli (YC F24) is hiring product engineers in Berlin, Germany (in-person)](https://www.ycombinator.com/companies/telli/jobs/J1YREmZ-product-engineer)
 * [2025-01-10, 05:53:06](https://news.ycombinator.com/item?id=42652967) - [Before Squid Game, there was Battle Royale](https://www.tokyoweekender.com/entertainment/movies-tv/before-squid-game-there-was-battle-royale/)
@@ -22,6 +21,7 @@
 * [2025-01-08, 15:11:41](https://news.ycombinator.com/item?id=42635049) - [Show HN: Cardstock- Free TCG Proxy Manager for Magic, Yugioh, & Pokemon](https://cardstock.denta.co)
 * [2025-01-07, 19:42:24](https://news.ycombinator.com/item?id=42626488) - [David Lodge, British novelist who satirized academic life, has died](https://www.nytimes.com/2025/01/03/books/david-lodge-dead.html)
 * [2025-01-07, 13:50:16](https://news.ycombinator.com/item?id=42622252) - [May Mobility reveals electric autonomous minibus at CES 2025](https://techcrunch.com/2025/01/07/may-mobility-reveals-electric-autonomous-minibus-at-ces-2025/)
+* [2025-01-07, 08:47:00](https://news.ycombinator.com/item?id=42620582) - [Thunderbolt 5 vs. Thunderbolt 4: Everything you need to know](https://www.tomsguide.com/computing/thunderbolt-5-vs-thunderbolt-4)
 * [2025-01-07, 00:31:02](https://news.ycombinator.com/item?id=42617825) - [Bird-inspired drone uses legs to walk and jump into the air](https://spectrum.ieee.org/bird-drone)
 * [2025-01-06, 19:45:02](https://news.ycombinator.com/item?id=42614722) - [Ask HN: Books about people who did hard things](https://news.ycombinator.com/item?id=42614722)
 * [2025-01-06, 19:42:30](https://news.ycombinator.com/item?id=42614676) - [An abandoned ship held a treasure for 30 years: 50 arcade machines](https://jasondeegan.com/an-abandoned-ship-held-a-treasure-for-30-years-50-arcade-machines-of-immense-value-to-gamers/)
