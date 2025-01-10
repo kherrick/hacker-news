@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-01-10](index.md)
 
+* [2025-01-10, 14:13:23](https://news.ycombinator.com/item?id=42655708) - [Show HN: Boulette - Protect you from yourself (even as root).](https://github.com/pipelight/boulette)
+* [2025-01-10, 14:02:23](https://news.ycombinator.com/item?id=42655636) - [The Tedious Heroism of David Ruggles](https://commonplace.online/article/the-tedious-heroism-of-david-ruggles/)
 * [2025-01-10, 14:01:20](https://news.ycombinator.com/item?id=42655630) - [Making Beautiful API Keys](https://docs.agentstation.ai/blog/beautiful-api-keys/)
 * [2025-01-10, 13:58:04](https://news.ycombinator.com/item?id=42655608) - [Securely Disposing of Smart Devices](https://www.rapid7.com/blog/post/2025/01/06/out-with-the-old-in-with-the-new-securely-disposing-of-smart-devices/)
+* [2025-01-10, 13:56:46](https://news.ycombinator.com/item?id=42655597) - [Scientists drill 2 miles down pull 1.2M-year-old ice core from Antarctic](https://apnews.com/article/antarctica-old-ice-core-climate-change-epica-6f76c57abf254dd9cb698f767db5507b)
 * [2025-01-10, 13:52:20](https://news.ycombinator.com/item?id=42655556) - [Biggest Privacy Erosion in 10 Years? On Google's Policy Change](https://blog.lukaszolejnik.com/biggest-privacy-erosion-in-10-years-on-googles-policy-change-towards-fingerprinting/)
 * [2025-01-10, 12:37:54](https://news.ycombinator.com/item?id=42655098) - [Learning How to Think with Meta Chain-of-Thought](https://arxiv.org/abs/2501.04682)
 * [2025-01-10, 12:21:06](https://news.ycombinator.com/item?id=42654995) - [Who Can Understand the Proof? A Window on Formalized Mathematics](https://writings.stephenwolfram.com/2025/01/who-can-understand-the-proof-a-window-on-formalized-mathematics/)
