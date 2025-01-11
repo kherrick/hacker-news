@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-01-11](index.md)
 
+* [2025-01-11, 12:50:22](https://news.ycombinator.com/item?id=42665518) - [The relationship recession is going global](https://www.ft.com/content/43e2b4f6-5ab7-4c47-b9fd-d611c36dad74)
+* [2025-01-11, 12:19:46](https://news.ycombinator.com/item?id=42665390) - [Jeju Air jet black boxes stopped recording before crash: transport ministry](https://www.koreatimes.co.kr/www/nation/2025/01/281_390174.html)
 * [2025-01-11, 12:14:49](https://news.ycombinator.com/item?id=42665370) - [SQLite: How it works, by Richard Hipp (2024) [video]](https://www.youtube.com/watch?v=ZSKLA81tBis)
+* [2025-01-11, 12:03:50](https://news.ycombinator.com/item?id=42665314) - [What automation tools are essential for a lean startup with a small team?](https://news.ycombinator.com/item?id=42665314)
 * [2025-01-11, 11:42:59](https://news.ycombinator.com/item?id=42665222) - [The State of Vim](https://lwn.net/SubscriberLink/1002342/a8d8a17f30968b93/)
 * [2025-01-11, 10:35:54](https://news.ycombinator.com/item?id=42664893) - [Ingrid Daubechies Awarded National Medal of Science](https://today.duke.edu/2025/01/ingrid-daubechies-awarded-national-medal-science)
 * [2025-01-11, 09:42:02](https://news.ycombinator.com/item?id=42664614) - [Using black magic to make a fast circular buffer](https://lo.calho.st/posts/black-magic-buffer/)
