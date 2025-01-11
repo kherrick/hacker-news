@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-11](index.md)
 
+* [2025-01-11, 23:02:07](https://news.ycombinator.com/item?id=42669670) - [Scanning ultrasound removes amyloid-β, restores memory in Alzheimer mouse model](https://www.science.org/doi/10.1126/scitranslmed.aaa2512?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
 * [2025-01-11, 22:58:22](https://news.ycombinator.com/item?id=42669637) - [Obvious Things C Should Do](https://twitter.com/WalterBright/status/1878209651306803406)
 * [2025-01-11, 21:30:04](https://news.ycombinator.com/item?id=42669065) - [Test if a number is even](https://ubuntuincident.wordpress.com/2025/01/11/test-if-a-number-is-even/)
 * [2025-01-11, 21:25:31](https://news.ycombinator.com/item?id=42669027) - [Why is every Bay Area event imposing Chatham House rules?](https://sfstandard.com/2025/01/11/chatham-house-rule-burnout/)

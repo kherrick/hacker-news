@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-11, 23:02:07](https://news.ycombinator.com/item?id=42669670) - [Scanning ultrasound removes amyloid-β, restores memory in Alzheimer mouse model](https://www.science.org/doi/10.1126/scitranslmed.aaa2512?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
 * [2025-01-11, 22:58:22](https://news.ycombinator.com/item?id=42669637) - [Obvious Things C Should Do](https://twitter.com/WalterBright/status/1878209651306803406)
 * [2025-01-11, 18:31:29](https://news.ycombinator.com/item?id=42667902) - [Ford's electric Mach-E outsold the gas-powered Mustang in 2024](https://electrek.co/2025/01/09/fords-mach-e-ev-outsold-gas-mustang-first-time/)
 * [2025-01-11, 18:18:36](https://news.ycombinator.com/item?id=42667797) - [Map of California roads for cyclers (1895)](https://www.loc.gov/resource/g4361p.ct000092/?r=-0.628,0.425,1.749,0.902,0)
 * [2025-01-11, 18:14:17](https://news.ycombinator.com/item?id=42667766) - [Matt Mullenweg deactivates WordPress accounts of contributors planning a fork](https://techcrunch.com/2025/01/11/matt-mullenweg-deactivates-wordpress-accounts-of-contributors-planning-a-fork/)
 * [2025-01-11, 15:42:02](https://news.ycombinator.com/item?id=42666572) - [De-smarting the Marshall Uxbridge Bluetooth speaker](https://tomscii.sig7.se/2025/01/De-smarting-the-Marshall-Uxbridge)
 * [2025-01-11, 15:31:03](https://news.ycombinator.com/item?id=42666492) - [Show HN: TypeScript/React/Vue Window Layout Manager (Tabs, Floating, Popouts)](https://github.com/mathuo/dockview)
-* [2025-01-11, 14:34:52](https://news.ycombinator.com/item?id=42666139) - [Show HN: A Better Log Service](https://txtlog.net/)
 * [2025-01-11, 12:14:34](https://news.ycombinator.com/item?id=42665367) - [Track your devices via Apple FindMy network in Go/TinyGo](https://github.com/hybridgroup/go-haystack)
 * [2025-01-11, 10:35:54](https://news.ycombinator.com/item?id=42664893) - [Ingrid Daubechies Awarded National Medal of Science](https://today.duke.edu/2025/01/ingrid-daubechies-awarded-national-medal-science)
 * [2025-01-11, 06:41:41](https://news.ycombinator.com/item?id=42663829) - [The Chaos (1922)](https://ncf.idallen.com/english.html)
