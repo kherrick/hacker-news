@@ -17,6 +17,7 @@
 * [2025-01-10, 15:53:07](https://news.ycombinator.com/item?id=42656711) - [Finland's zero homeless strategy (2021)](https://oecdecoscope.blog/2021/12/13/finlands-zero-homeless-strategy-lessons-from-a-success-story/)
 * [2025-01-10, 15:25:42](https://news.ycombinator.com/item?id=42656433) - [Formal Methods: Just Good Engineering Practice? (2024)](https://brooker.co.za/blog/2024/04/17/formal)
 * [2025-01-10, 14:34:34](https://news.ycombinator.com/item?id=42655870) - [I've acquired a new superpower](https://danielwirtz.com/blog/spot-the-difference-superpower)
+* [2025-01-10, 12:38:35](https://news.ycombinator.com/item?id=42655102) - [I got OpenTelemetry to work. But why was it so complicated?](https://iconsolutions.com/blog/i-got-opentelemetry-to-work-but-why-was-it-so-complicated/)
 * [2025-01-10, 12:37:54](https://news.ycombinator.com/item?id=42655098) - [Learning how to think with Meta Chain-of-Thought](https://arxiv.org/abs/2501.04682)
 * [2025-01-10, 04:45:55](https://news.ycombinator.com/item?id=42652577) - [Visualizing All ISBNs](https://annas-archive.org/blog/all-isbns.html)
 * [2025-01-09, 17:49:21](https://news.ycombinator.com/item?id=42648043) - [Datadog acquires Quickwit](https://quickwit.io/blog/quickwit-joins-datadog)
@@ -29,7 +30,6 @@
 * [2025-01-07, 15:30:21](https://news.ycombinator.com/item?id=42623387) - [Is XYplorer really written in VB6?](https://www.xyplorer.com/faq-topic.php?id=VB6)
 * [2025-01-07, 15:19:25](https://news.ycombinator.com/item?id=42623255) - [Common misconceptions about the complexity in robotics vs. AI (2024)](https://harimus.github.io//2024/05/31/motortask.html)
 * [2025-01-07, 13:52:09](https://news.ycombinator.com/item?id=42622264) - [Why we built Vade Studio in Clojure](https://bytes.vadelabs.com/doing-hard-things-while-living-life-why-we-built-vade-studio-in-clojure/)
-* [2025-01-07, 06:16:47](https://news.ycombinator.com/item?id=42619832) - [Fantastic Planet: The Microscopy Album of Marinus Pieter Filbri (1887–88)](https://publicdomainreview.org/collection/marinus-pieter-filbri-microscopy/)
 
 ## [Archives](archives/index.md)
 
