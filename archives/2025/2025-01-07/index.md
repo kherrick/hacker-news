@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-07](index.md)
 
 * [2025-01-07, 23:51:43](https://news.ycombinator.com/item?id=42629163) - [A Day in the Life of a Prolific Voice Phishing Crew](https://krebsonsecurity.com/2025/01/a-day-in-the-life-of-a-prolific-voice-phishing-crew/)
+* [2025-01-07, 23:31:30](https://news.ycombinator.com/item?id=42629024) - [Wildfires and Agricultural Worker Movement](https://www.journals.uchicago.edu/doi/10.1086/733350)
 * [2025-01-07, 23:24:46](https://news.ycombinator.com/item?id=42628979) - [When will we fix the tools that run the world?](https://www.cgustavo.com/blog/tools)
 * [2025-01-07, 23:20:43](https://news.ycombinator.com/item?id=42628934) - [Automated Accessibility Testing at Slack](https://slack.engineering/automated-accessibility-testing-at-slack/)
 * [2025-01-07, 22:25:12](https://news.ycombinator.com/item?id=42628414) - [Servo Revival: 2023-2024](https://blogs.igalia.com/mrego/servo-revival-2023-2024/)
