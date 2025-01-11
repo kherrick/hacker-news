@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-11, 18:31:29](https://news.ycombinator.com/item?id=42667902) - [Ford's electric Mach-E outsold the gas-powered Mustang in 2024](https://electrek.co/2025/01/09/fords-mach-e-ev-outsold-gas-mustang-first-time/)
 * [2025-01-11, 18:18:36](https://news.ycombinator.com/item?id=42667797) - [Map of California roads for cyclers (1895)](https://www.loc.gov/resource/g4361p.ct000092/?r=-0.628,0.425,1.749,0.902,0)
 * [2025-01-11, 15:42:02](https://news.ycombinator.com/item?id=42666572) - [De-smarting the Marshall Uxbridge Bluetooth speaker](https://tomscii.sig7.se/2025/01/De-smarting-the-Marshall-Uxbridge)
 * [2025-01-11, 15:31:03](https://news.ycombinator.com/item?id=42666492) - [Show HN: TypeScript/React/Vue Window Layout Manager (Tabs, Floating, Popouts)](https://github.com/mathuo/dockview)
@@ -22,7 +23,6 @@
 * [2025-01-08, 23:15:25](https://news.ycombinator.com/item?id=42639581) - [A visual demo of Ruby's lazy enumerator](https://joyofrails.com/articles/simple-trick-to-understand-ruby-lazy-enumerator)
 * [2025-01-08, 22:44:02](https://news.ycombinator.com/item?id=42639310) - [\"Pet-Globe\" Demo for Commodore PET](https://www.masswerk.at/nowgobang/2025/pet-globe)
 * [2025-01-08, 21:36:26](https://news.ycombinator.com/item?id=42638706) - [The Heroic Industry of the Brothers Grimm](https://hudsonreview.com/2024/11/the-heroic-industry-of-the-brothers-grimm/)
-* [2025-01-08, 19:14:09](https://news.ycombinator.com/item?id=42637442) - [The Fannie and Freddie trade is back](https://www.bloomberg.com/opinion/articles/2025-01-08/the-fannie-and-freddie-trade-is-back)
 * [2025-01-08, 09:27:59](https://news.ycombinator.com/item?id=42632478) - [Character Prefix Conditioning](https://www.cursor.com/blog/cpc)
 * [2025-01-08, 07:07:15](https://news.ycombinator.com/item?id=42631815) - [Today I learned that bash has hashmaps (2024)](https://xeiaso.net/notes/2024/bash-hashmap/)
 * [2025-01-08, 04:22:20](https://news.ycombinator.com/item?id=42630880) - [Wends of Texas](https://en.wikipedia.org/wiki/Wends_of_Texas)
