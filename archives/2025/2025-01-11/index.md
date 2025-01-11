@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-01-11](index.md)
 
 * [2025-01-11, 15:42:02](https://news.ycombinator.com/item?id=42666572) - [De-smarting the Marshall Uxbridge Bluetooth speaker](https://tomscii.sig7.se/2025/01/De-smarting-the-Marshall-Uxbridge)
+* [2025-01-11, 15:34:34](https://news.ycombinator.com/item?id=42666513) - [The Elephant in the room: The myth of exponential hypergrowth (2022)](https://longform.asmartbear.com/exponential-growth/)
+* [2025-01-11, 15:31:03](https://news.ycombinator.com/item?id=42666492) - [TypeScript/React/Vue Window Layout Manager (Tabs, Floating, Popouts)](https://github.com/mathuo/dockview)
 * [2025-01-11, 14:34:52](https://news.ycombinator.com/item?id=42666139) - [Show HN: A Better Log Service](https://txtlog.net/)
 * [2025-01-11, 13:37:33](https://news.ycombinator.com/item?id=42665771) - [Zuckerberg trash talks Apple in interview with Joe Rogan](https://www.theverge.com/2025/1/10/24341039/meta-apple-mark-zuckerberg-trash-talks-joe-rogan-interview)
 * [2025-01-11, 13:22:07](https://news.ycombinator.com/item?id=42665681) - [Wrist watch modelled on Apollo DSKY computer](https://apollo-instruments.com/)
