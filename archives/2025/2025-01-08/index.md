@@ -6,6 +6,7 @@
 
 * [2025-01-08, 23:37:54](https://news.ycombinator.com/item?id=42639779) - [28h Days: year 1 update](https://sidhion.com/blog/28h_days_update_1/)
 * [2025-01-08, 23:29:06](https://news.ycombinator.com/item?id=42639691) - [A Supermarket in California (1955)](https://www.poetryfoundation.org/poems/47660/a-supermarket-in-california)
+* [2025-01-08, 23:15:25](https://news.ycombinator.com/item?id=42639581) - [A visual demo of Ruby's lazy enumerator](https://joyofrails.com/articles/simple-trick-to-understand-ruby-lazy-enumerator)
 * [2025-01-08, 23:13:08](https://news.ycombinator.com/item?id=42639563) - [Steve Langasek, One of Ubuntu Linux's Leading Lights, Has Died](https://thenewstack.io/steve-langasek-one-of-ubuntu-linuxs-leading-lights-has-died/)
 * [2025-01-08, 22:56:27](https://news.ycombinator.com/item?id=42639417) - [Salesforce Will Hire No More Software Engineers in 2025, Says Marc Benioff](https://www.salesforceben.com/salesforce-will-hire-no-more-software-engineers-in-2025-says-marc-benioff/)
 * [2025-01-08, 22:35:43](https://news.ycombinator.com/item?id=42639247) - [RPG-CLI – your filesystem as a dungeon](https://github.com/facundoolano/rpg-cli)
@@ -16,6 +17,7 @@
 * [2025-01-08, 21:25:06](https://news.ycombinator.com/item?id=42638605) - [SOTA on swebench-verified: relearning the bitter lesson](https://aide.dev/blog/sota-bitter-lesson)
 * [2025-01-08, 20:10:03](https://news.ycombinator.com/item?id=42637959) - [17th-century priory in France converted into a medieval-inspired topiary garden](https://www.houseandgarden.co.uk/gallery/prieure-de-vauboin-garden)
 * [2025-01-08, 19:58:22](https://news.ycombinator.com/item?id=42637853) - [Multiplicative Infinitesimals](https://github.com/Ericson2314/baccumulation/blob/main/math/multiplicative-infinitesimals.md)
+* [2025-01-08, 19:14:09](https://news.ycombinator.com/item?id=42637442) - [The Fannie and Freddie trade is back](https://www.bloomberg.com/opinion/articles/2025-01-08/the-fannie-and-freddie-trade-is-back)
 * [2025-01-08, 18:58:58](https://news.ycombinator.com/item?id=42637304) - [Some Programming Language Ideas](https://jerf.org/iri/post/2025/programming_language_ideas/)
 * [2025-01-08, 18:55:21](https://news.ycombinator.com/item?id=42637267) - [Facebook Is Censoring 404 Media Stories About Facebook's Censorship](https://www.404media.co/facebook-is-censoring-404-media-stories-about-facebooks-censorship/)
 * [2025-01-08, 18:33:48](https://news.ycombinator.com/item?id=42637057) - [Dell L502X BIOS Update installer patching](https://www.r9c.net/posts/dell-xps-15-l502x-bios-update-patching)

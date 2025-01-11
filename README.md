@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-11, 15:42:02](https://news.ycombinator.com/item?id=42666572) - [De-smarting the Marshall Uxbridge Bluetooth speaker](https://tomscii.sig7.se/2025/01/De-smarting-the-Marshall-Uxbridge)
-* [2025-01-11, 15:34:34](https://news.ycombinator.com/item?id=42666513) - [The Elephant in the room: The myth of exponential hypergrowth (2022)](https://longform.asmartbear.com/exponential-growth/)
 * [2025-01-11, 15:31:03](https://news.ycombinator.com/item?id=42666492) - [TypeScript/React/Vue Window Layout Manager (Tabs, Floating, Popouts)](https://github.com/mathuo/dockview)
 * [2025-01-11, 14:34:52](https://news.ycombinator.com/item?id=42666139) - [Show HN: A Better Log Service](https://txtlog.net/)
 * [2025-01-11, 12:14:34](https://news.ycombinator.com/item?id=42665367) - [Track your devices via Apple FindMy network in Go/TinyGo](https://github.com/hybridgroup/go-haystack)
@@ -15,7 +14,6 @@
 * [2025-01-10, 22:48:13](https://news.ycombinator.com/item?id=42661185) - [Portals and Quake](https://30fps.net/pages/pvs-portals-and-quake/)
 * [2025-01-10, 22:22:15](https://news.ycombinator.com/item?id=42660942) - [Building Bauble](https://ianthehenry.com/posts/bauble/building-bauble/)
 * [2025-01-10, 21:17:21](https://news.ycombinator.com/item?id=42660335) - [Phi-4 Bug Fixes](https://unsloth.ai/blog/phi4)
-* [2025-01-10, 19:23:50](https://news.ycombinator.com/item?id=42659061) - [Flattening ASTs and other compiler data structures (2023)](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
 * [2025-01-10, 18:43:26](https://news.ycombinator.com/item?id=42658614) - [Cuttle – a MTG like game using a standard 52 card deck](https://www.pagat.com/combat/cuttle.html)
 * [2025-01-10, 17:48:04](https://news.ycombinator.com/item?id=42657901) - [Meta's memo to employees rolling back DEI programs](https://www.axios.com/2025/01/10/meta-dei-memo-employees-programs)
 * [2025-01-10, 15:53:07](https://news.ycombinator.com/item?id=42656711) - [Finland's zero homeless strategy (2021)](https://oecdecoscope.blog/2021/12/13/finlands-zero-homeless-strategy-lessons-from-a-success-story/)
@@ -23,13 +21,15 @@
 * [2025-01-10, 12:38:35](https://news.ycombinator.com/item?id=42655102) - [I got OpenTelemetry to work. But why was it so complicated?](https://iconsolutions.com/blog/i-got-opentelemetry-to-work-but-why-was-it-so-complicated/)
 * [2025-01-10, 02:52:01](https://news.ycombinator.com/item?id=42651994) - [The Typography Maestro Getting Calls from Hollywood](https://www.nytimes.com/2024/12/23/style/teddy-blanks-typeface-design-wicked-barbie-nosferatu.html)
 * [2025-01-09, 17:49:21](https://news.ycombinator.com/item?id=42648043) - [Datadog acquires Quickwit](https://quickwit.io/blog/quickwit-joins-datadog)
+* [2025-01-09, 14:25:21](https://news.ycombinator.com/item?id=42645859) - [The Tsunami of Burnout Few See](http://charleshughsmith.blogspot.com/2025/01/i-quit-tsunami-of-burnout-few-see.html)
 * [2025-01-09, 13:31:33](https://news.ycombinator.com/item?id=42645218) - [Show HN: Tetris in a PDF](https://th0mas.nl/downloads/pdftris.pdf)
-* [2025-01-08, 20:10:03](https://news.ycombinator.com/item?id=42637959) - [17th-century priory in France converted into a medieval-inspired topiary garden](https://www.houseandgarden.co.uk/gallery/prieure-de-vauboin-garden)
+* [2025-01-08, 23:15:25](https://news.ycombinator.com/item?id=42639581) - [A visual demo of Ruby's lazy enumerator](https://joyofrails.com/articles/simple-trick-to-understand-ruby-lazy-enumerator)
+* [2025-01-08, 19:14:09](https://news.ycombinator.com/item?id=42637442) - [The Fannie and Freddie trade is back](https://www.bloomberg.com/opinion/articles/2025-01-08/the-fannie-and-freddie-trade-is-back)
 * [2025-01-08, 18:26:02](https://news.ycombinator.com/item?id=42636974) - [Market Structure Primer (2019)](https://primer.prooftrading.com)
 * [2025-01-08, 17:42:39](https://news.ycombinator.com/item?id=42636571) - [C++26: A Placeholder with No Name](https://www.sandordargo.com/blog/2025/01/08/cpp26-unnamed-placeholders)
 * [2025-01-08, 11:59:37](https://news.ycombinator.com/item?id=42633291) - [Kubernetes horizontal pod autoscaling powered by an OpenTelemetry-native tool](https://www.dash0.com/blog/autoscaling-your-kubernetes-application-with-dash0)
 * [2025-01-07, 15:19:25](https://news.ycombinator.com/item?id=42623255) - [Common misconceptions about the complexity in robotics vs. AI (2024)](https://harimus.github.io//2024/05/31/motortask.html)
-* [2025-01-07, 14:20:55](https://news.ycombinator.com/item?id=42622554) - [When Picasso Was Arrested for Stealing the 'Mona Lisa'](https://www.newyorker.com/magazine/2025/01/13/when-picasso-was-arrested-for-stealing-the-mona-lisa)
+* [2025-01-07, 14:20:55](https://news.ycombinator.com/item?id=42622554) - [Picasso was suspected of stealing the 'Mona Lisa'](https://www.newyorker.com/magazine/2025/01/13/when-picasso-was-arrested-for-stealing-the-mona-lisa)
 
 ## [Archives](archives/index.md)
 

@@ -27,6 +27,7 @@
 * [2025-01-09, 16:04:55](https://news.ycombinator.com/item?id=42646932) - [The Complete Text of \"All Watched over by Machines of Loving Grace\"](https://blog.jgc.org/2024/12/the-complete-text-of-all-watched-over.html)
 * [2025-01-09, 16:03:41](https://news.ycombinator.com/item?id=42646922) - [Show HN: Kate's App](https://katesapp.org/hn)
 * [2025-01-09, 16:03:01](https://news.ycombinator.com/item?id=42646914) - [Atari ST 40th Anniversary](https://www.goto10retro.com/p/atari-st-40th-anniversary)
+* [2025-01-09, 14:25:21](https://news.ycombinator.com/item?id=42645859) - [The Tsunami of Burnout Few See](http://charleshughsmith.blogspot.com/2025/01/i-quit-tsunami-of-burnout-few-see.html)
 * [2025-01-09, 13:31:33](https://news.ycombinator.com/item?id=42645218) - [Show HN: A playable game of Tetris inside a PDF](https://th0mas.nl/downloads/pdftris.pdf)
 * [2025-01-09, 13:29:04](https://news.ycombinator.com/item?id=42645187) - [Auto-saving Rails forms with Turbo Streams](https://nts.strzibny.name/rails-autosave-form-turbo-stream/)
 * [2025-01-09, 13:22:44](https://news.ycombinator.com/item?id=42645119) - [My Favorite Self-Hosted Apps Launched in 2024](https://selfh.st/2024-favorite-new-apps/)
