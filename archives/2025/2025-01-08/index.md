@@ -55,6 +55,7 @@
 * [2025-01-08, 07:34:26](https://news.ycombinator.com/item?id=42631959) - [Schola Latina Europæa and Universalis](http://avitus.alcuinus.net/schola_latina/soni_en.php)
 * [2025-01-08, 07:19:25](https://news.ycombinator.com/item?id=42631876) - [Donut Lab's next-generation in-wheel motors](https://www.donutlab.com/motor/)
 * [2025-01-08, 07:18:50](https://news.ycombinator.com/item?id=42631873) - [Writing an Operating System in 1000 Lines](https://operating-system-in-1000-lines.vercel.app/en)
+* [2025-01-08, 07:07:15](https://news.ycombinator.com/item?id=42631815) - [Today I learned that bash has hashmaps (2024)](https://xeiaso.net/notes/2024/bash-hashmap/)
 * [2025-01-08, 07:00:12](https://news.ycombinator.com/item?id=42631758) - [Tiptap (YC S23) is hiring a senior full stack engineer in EU](https://www.ycombinator.com/companies/tiptap/jobs/ZJhpyYA-senior-full-stack-engineer)
 * [2025-01-08, 06:46:53](https://news.ycombinator.com/item?id=42631673) - [Show HN: Counting Tap Toy](https://memalign.github.io/m/counting/index.html)
 * [2025-01-08, 06:38:41](https://news.ycombinator.com/item?id=42631629) - [Gate-level simulation of ASIC in browser](https://znah.net/tt09/)
