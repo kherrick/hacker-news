@@ -19,6 +19,7 @@
 * [2025-01-09, 13:47:59](https://news.ycombinator.com/item?id=42645415) - [Binary modding a water dispenser to save me from pressing a button (2021)](https://practicapp.com/binary-modding-a-watercooler/)
 * [2025-01-08, 23:46:02](https://news.ycombinator.com/item?id=42639871) - [/bin/sh: the biggest Unix security loophole (1984) [pdf]](https://www.tuhs.org/Archive/Documentation/TechReports/Bell_Labs/ReedsShellHoles.pdf)
 * [2025-01-08, 23:15:25](https://news.ycombinator.com/item?id=42639581) - [A visual demo of Ruby's lazy enumerator](https://joyofrails.com/articles/simple-trick-to-understand-ruby-lazy-enumerator)
+* [2025-01-08, 22:44:02](https://news.ycombinator.com/item?id=42639310) - [\"Pet-Globe\" Demo for Commodore PET](https://www.masswerk.at/nowgobang/2025/pet-globe)
 * [2025-01-08, 19:37:29](https://news.ycombinator.com/item?id=42637653) - [A rare alignment of 7 planets is about to take place](https://www.sciencealert.com/a-rare-alignment-of-7-planets-is-about-to-take-place-in-the-sky)
 * [2025-01-08, 19:14:09](https://news.ycombinator.com/item?id=42637442) - [The Fannie and Freddie trade is back](https://www.bloomberg.com/opinion/articles/2025-01-08/the-fannie-and-freddie-trade-is-back)
 * [2025-01-08, 17:42:39](https://news.ycombinator.com/item?id=42636571) - [C++26: A Placeholder with No Name](https://www.sandordargo.com/blog/2025/01/08/cpp26-unnamed-placeholders)
@@ -27,7 +28,6 @@
 * [2025-01-08, 04:22:20](https://news.ycombinator.com/item?id=42630880) - [Wends of Texas](https://en.wikipedia.org/wiki/Wends_of_Texas)
 * [2025-01-07, 23:31:30](https://news.ycombinator.com/item?id=42629024) - [Wildfires and Agricultural Worker Movement](https://www.journals.uchicago.edu/doi/10.1086/733350)
 * [2025-01-07, 22:10:32](https://news.ycombinator.com/item?id=42628248) - [The engineering behind the San Antonio River Walk](https://practical.engineering/blog/2025/1/7/the-hidden-engineering-behind-texass-top-tourist-attraction)
-* [2025-01-07, 14:20:55](https://news.ycombinator.com/item?id=42622554) - [Picasso was suspected of stealing the 'Mona Lisa'](https://www.newyorker.com/magazine/2025/01/13/when-picasso-was-arrested-for-stealing-the-mona-lisa)
 * [2025-01-07, 02:42:38](https://news.ycombinator.com/item?id=42618595) - [Jensen Huang keynote at CES 2025 [video]](https://www.youtube.com/watch?v=k82RwXqZHY8)
 * [2025-01-06, 20:04:44](https://news.ycombinator.com/item?id=42615006) - [CCL: Categorical Configuration Language](https://chshersh.com/blog/2025-01-06-the-most-elegant-configuration-language.html)
 

@@ -10,6 +10,7 @@
 * [2025-01-08, 23:15:25](https://news.ycombinator.com/item?id=42639581) - [A visual demo of Ruby's lazy enumerator](https://joyofrails.com/articles/simple-trick-to-understand-ruby-lazy-enumerator)
 * [2025-01-08, 23:13:08](https://news.ycombinator.com/item?id=42639563) - [Steve Langasek, One of Ubuntu Linux's Leading Lights, Has Died](https://thenewstack.io/steve-langasek-one-of-ubuntu-linuxs-leading-lights-has-died/)
 * [2025-01-08, 22:56:27](https://news.ycombinator.com/item?id=42639417) - [Salesforce Will Hire No More Software Engineers in 2025, Says Marc Benioff](https://www.salesforceben.com/salesforce-will-hire-no-more-software-engineers-in-2025-says-marc-benioff/)
+* [2025-01-08, 22:44:02](https://news.ycombinator.com/item?id=42639310) - [\"Pet-Globe\" Demo for Commodore PET](https://www.masswerk.at/nowgobang/2025/pet-globe)
 * [2025-01-08, 22:35:43](https://news.ycombinator.com/item?id=42639247) - [RPG-CLI – your filesystem as a dungeon](https://github.com/facundoolano/rpg-cli)
 * [2025-01-08, 21:54:16](https://news.ycombinator.com/item?id=42638857) - [Apple's new AI feature rewords scam messages to make them look more legit](https://www.crikey.com.au/2025/01/08/apple-new-artificial-intelligence-rewords-scam-messages-look-legitimate/)
 * [2025-01-08, 21:40:09](https://news.ycombinator.com/item?id=42638735) - [LA wildfires force thousands to evacuate, NASA JPL closed](https://www.theregister.com/2025/01/08/los_angeles_fires_jpl/)
