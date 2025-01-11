@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-11, 15:42:02](https://news.ycombinator.com/item?id=42666572) - [De-smarting the Marshall Uxbridge Bluetooth speaker](https://tomscii.sig7.se/2025/01/De-smarting-the-Marshall-Uxbridge)
 * [2025-01-11, 14:34:52](https://news.ycombinator.com/item?id=42666139) - [Show HN: A Better Log Service](https://txtlog.net/)
 * [2025-01-11, 12:14:34](https://news.ycombinator.com/item?id=42665367) - [Track your devices via Apple FindMy network in Go/TinyGo](https://github.com/hybridgroup/go-haystack)
 * [2025-01-11, 10:35:54](https://news.ycombinator.com/item?id=42664893) - [Ingrid Daubechies Awarded National Medal of Science](https://today.duke.edu/2025/01/ingrid-daubechies-awarded-national-medal-science)
@@ -8,7 +9,6 @@
 * [2025-01-11, 07:00:22](https://news.ycombinator.com/item?id=42663902) - [Photoroom (YC S20) Is Hiring a Senior Front End Engineer in Paris (React, MobX)](https://jobs.ashbyhq.com/photoroom/81de4c1e-f4ee-4c14-a196-6e869fa6b320)
 * [2025-01-11, 06:41:41](https://news.ycombinator.com/item?id=42663829) - [The Chaos (1922)](https://ncf.idallen.com/english.html)
 * [2025-01-11, 04:13:12](https://news.ycombinator.com/item?id=42663231) - [Be Aware of the Makefile Effect](https://blog.yossarian.net/2025/01/10/Be-aware-of-the-Makefile-effect)
-* [2025-01-10, 23:50:50](https://news.ycombinator.com/item?id=42661761) - [Pathfinding to a moving target in evolving terrain](https://www.holm.dog/2025/01/finding-many-paths-to-moving-target-in.html)
 * [2025-01-10, 23:10:56](https://news.ycombinator.com/item?id=42661432) - [Very Wrong Math](https://www.charlespetzold.com/blog/2025/01/Very-Wrong-Math.html)
 * [2025-01-10, 22:48:13](https://news.ycombinator.com/item?id=42661185) - [Portals and Quake](https://30fps.net/pages/pvs-portals-and-quake/)
 * [2025-01-10, 22:22:15](https://news.ycombinator.com/item?id=42660942) - [Building Bauble](https://ianthehenry.com/posts/bauble/building-bauble/)
