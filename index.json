@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-01-11, 12:54:51",
-      "https://news.ycombinator.com/item?id=42665533"
-    ],
-    [
-      "Sony Proposes Changing LLVM Clang Default to C++20 Mode",
-      "https://www.phoronix.com/news/Sony-LLVM-Clang-CXX20-Default"
-    ]
-  ],
-  [
-    [
       "2025-01-11, 12:14:34",
       "https://news.ycombinator.com/item?id=42665367"
     ],
@@ -207,6 +197,16 @@
     [
       "Learning how to think with Meta Chain-of-Thought",
       "https://arxiv.org/abs/2501.04682"
+    ]
+  ],
+  [
+    [
+      "2025-01-10, 09:02:31",
+      "https://news.ycombinator.com/item?id=42653939"
+    ],
+    [
+      "Glimmer: DSL Framework for Ruby GUI and More",
+      "https://github.com/AndyObtiva/glimmer"
     ]
   ],
   [
