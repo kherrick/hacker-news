@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-11](index.md)
 
 * [2025-01-11, 21:30:04](https://news.ycombinator.com/item?id=42669065) - [Test if a number is even](https://ubuntuincident.wordpress.com/2025/01/11/test-if-a-number-is-even/)
+* [2025-01-11, 21:20:12](https://news.ycombinator.com/item?id=42669006) - [FCC Proposes Cybersecurity Labeling Program for Smart Devices](https://www.fcc.gov/cybersecurity-certification-mark)
 * [2025-01-11, 18:56:02](https://news.ycombinator.com/item?id=42668087) - [Civilian police oversight in Florida crumbles after new law kicks in](https://www.tampabay.com/news/florida-politics/2025/01/11/civilian-police-oversight-florida-crumbles-after-new-law-kicks/)
 * [2025-01-11, 18:31:29](https://news.ycombinator.com/item?id=42667902) - [Ford's electric Mach-E outsold the gas-powered Mustang in 2024](https://electrek.co/2025/01/09/fords-mach-e-ev-outsold-gas-mustang-first-time/)
 * [2025-01-11, 18:18:36](https://news.ycombinator.com/item?id=42667797) - [Map of California roads for cyclers (1895)](https://www.loc.gov/resource/g4361p.ct000092/?r=-0.628,0.425,1.749,0.902,0)
