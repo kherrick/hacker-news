@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-11](index.md)
 
+* [2025-01-11, 14:34:52](https://news.ycombinator.com/item?id=42666139) - [Show HN: A Better Log Service](https://txtlog.net/)
 * [2025-01-11, 13:37:33](https://news.ycombinator.com/item?id=42665771) - [Zuckerberg trash talks Apple in interview with Joe Rogan](https://www.theverge.com/2025/1/10/24341039/meta-apple-mark-zuckerberg-trash-talks-joe-rogan-interview)
 * [2025-01-11, 13:22:07](https://news.ycombinator.com/item?id=42665681) - [Wrist watch modelled on Apollo DSKY computer](https://apollo-instruments.com/)
 * [2025-01-11, 13:18:27](https://news.ycombinator.com/item?id=42665659) - [A Few Words on Healthcare](https://blogmaverick.com/2025/01/09/a-few-words-on-healthcare/)

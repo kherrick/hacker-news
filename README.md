@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-11, 14:34:52](https://news.ycombinator.com/item?id=42666139) - [Show HN: A Better Log Service](https://txtlog.net/)
 * [2025-01-11, 13:22:07](https://news.ycombinator.com/item?id=42665681) - [Wrist watch modelled on Apollo DSKY computer](https://apollo-instruments.com/)
 * [2025-01-11, 12:14:34](https://news.ycombinator.com/item?id=42665367) - [Track your devices via Apple FindMy network in Go/TinyGo](https://github.com/hybridgroup/go-haystack)
 * [2025-01-11, 10:35:54](https://news.ycombinator.com/item?id=42664893) - [Ingrid Daubechies Awarded National Medal of Science](https://today.duke.edu/2025/01/ingrid-daubechies-awarded-national-medal-science)
@@ -25,7 +26,6 @@
 * [2025-01-09, 13:31:33](https://news.ycombinator.com/item?id=42645218) - [Show HN: Tetris in a PDF](https://th0mas.nl/downloads/pdftris.pdf)
 * [2025-01-08, 20:10:03](https://news.ycombinator.com/item?id=42637959) - [17th-century priory in France converted into a medieval-inspired topiary garden](https://www.houseandgarden.co.uk/gallery/prieure-de-vauboin-garden)
 * [2025-01-08, 18:26:02](https://news.ycombinator.com/item?id=42636974) - [Market Structure Primer (2019)](https://primer.prooftrading.com)
-* [2025-01-08, 17:42:39](https://news.ycombinator.com/item?id=42636571) - [C++26: A Placeholder with No Name](https://www.sandordargo.com/blog/2025/01/08/cpp26-unnamed-placeholders)
 * [2025-01-08, 11:59:37](https://news.ycombinator.com/item?id=42633291) - [Kubernetes horizontal pod autoscaling powered by an OpenTelemetry-native tool](https://www.dash0.com/blog/autoscaling-your-kubernetes-application-with-dash0)
 * [2025-01-07, 15:30:21](https://news.ycombinator.com/item?id=42623387) - [Is XYplorer really written in VB6?](https://www.xyplorer.com/faq-topic.php?id=VB6)
 * [2025-01-07, 15:19:25](https://news.ycombinator.com/item?id=42623255) - [Common misconceptions about the complexity in robotics vs. AI (2024)](https://harimus.github.io//2024/05/31/motortask.html)
