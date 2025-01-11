@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-08](index.md)
 
+* [2025-01-08, 23:46:02](https://news.ycombinator.com/item?id=42639871) - [/bin/sh: the biggest Unix security loophole (1984) [pdf]](https://www.tuhs.org/Archive/Documentation/TechReports/Bell_Labs/ReedsShellHoles.pdf)
 * [2025-01-08, 23:37:54](https://news.ycombinator.com/item?id=42639779) - [28h Days: year 1 update](https://sidhion.com/blog/28h_days_update_1/)
 * [2025-01-08, 23:29:06](https://news.ycombinator.com/item?id=42639691) - [A Supermarket in California (1955)](https://www.poetryfoundation.org/poems/47660/a-supermarket-in-california)
 * [2025-01-08, 23:15:25](https://news.ycombinator.com/item?id=42639581) - [A visual demo of Ruby's lazy enumerator](https://joyofrails.com/articles/simple-trick-to-understand-ruby-lazy-enumerator)
@@ -53,6 +54,7 @@
 * [2025-01-08, 11:14:20](https://news.ycombinator.com/item?id=42633035) - [Show HN: Belshazzar's Clock, luminous paint night clock](https://blog.karliner.net/projects/belshazzars-clock/)
 * [2025-01-08, 10:47:17](https://news.ycombinator.com/item?id=42632878) - [Spinal cord injuries from mountain biking exceed hockey, other high-risk sports](https://www.med.ubc.ca/news/spinal-cord-injuries-from-mountain-biking-exceed-hockey-other-high-risk-sports/)
 * [2025-01-08, 10:44:09](https://news.ycombinator.com/item?id=42632865) - [The Comet is a handheld Linux computer that brings extensibility](https://mecha.so/comet)
+* [2025-01-08, 10:40:19](https://news.ycombinator.com/item?id=42632848) - [Four-day week at a south London school](https://www.theguardian.com/education/2025/jan/01/i-love-the-four-day-week-south-london-school-part-of-a-quiet-revolution)
 * [2025-01-08, 10:22:21](https://news.ycombinator.com/item?id=42632772) - [The Aging Programmer](https://www.youtube.com/watch?v=mVWQQeSOD0M)
 * [2025-01-08, 10:04:22](https://news.ycombinator.com/item?id=42632671) - [Linux Routing Fundamentals](https://blog.sdn.clinic/2025/01/linux-routing-fundamentals/)
 * [2025-01-08, 09:52:53](https://news.ycombinator.com/item?id=42632592) - [Embedding Scheme in Rust](https://raviqqe.com/doc/posts/stak/embedding-scheme-in-rust/)
@@ -74,4 +76,5 @@
 * [2025-01-08, 04:18:16](https://news.ycombinator.com/item?id=42630857) - [Bitwarden Is Down](https://status.bitwarden.com)
 * [2025-01-08, 02:19:09](https://news.ycombinator.com/item?id=42630192) - [Double-keyed caching: Browser cache partitioning](https://addyosmani.com/blog/double-keyed-caching/)
 * [2025-01-08, 01:48:26](https://news.ycombinator.com/item?id=42630030) - [Annual 'winners' for most egregious US healthcare profiteering announced](https://www.theguardian.com/us-news/2025/jan/07/annual-awards-healthcare-profiteering)
+* [2025-01-08, 00:29:32](https://news.ycombinator.com/item?id=42629498) - [Ask HN: Are there any real examples of AI agents doing work?](https://news.ycombinator.com/item?id=42629498)
 * [2025-01-08, 00:01:04](https://news.ycombinator.com/item?id=42629256) - [Oracle Will Not Voluntarily Withdraw JavaScript Trademark](https://twitter.com/deno_land/status/1876728474666217739)
