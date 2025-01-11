@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-11, 21:25:31](https://news.ycombinator.com/item?id=42669027) - [Why is every Bay Area event imposing Chatham House rules?](https://sfstandard.com/2025/01/11/chatham-house-rule-burnout/)
-* [2025-01-11, 21:20:12](https://news.ycombinator.com/item?id=42669006) - [FCC Proposes Cybersecurity Labeling Program for Smart Devices](https://www.fcc.gov/cybersecurity-certification-mark)
 * [2025-01-11, 18:31:29](https://news.ycombinator.com/item?id=42667902) - [Ford's electric Mach-E outsold the gas-powered Mustang in 2024](https://electrek.co/2025/01/09/fords-mach-e-ev-outsold-gas-mustang-first-time/)
 * [2025-01-11, 18:18:36](https://news.ycombinator.com/item?id=42667797) - [Map of California roads for cyclers (1895)](https://www.loc.gov/resource/g4361p.ct000092/?r=-0.628,0.425,1.749,0.902,0)
 * [2025-01-11, 18:14:17](https://news.ycombinator.com/item?id=42667766) - [Matt Mullenweg deactivates WordPress accounts of contributors planning a fork](https://techcrunch.com/2025/01/11/matt-mullenweg-deactivates-wordpress-accounts-of-contributors-planning-a-fork/)
@@ -25,6 +24,7 @@
 * [2025-01-08, 21:36:26](https://news.ycombinator.com/item?id=42638706) - [The Heroic Industry of the Brothers Grimm](https://hudsonreview.com/2024/11/the-heroic-industry-of-the-brothers-grimm/)
 * [2025-01-08, 09:27:59](https://news.ycombinator.com/item?id=42632478) - [Character Prefix Conditioning](https://www.cursor.com/blog/cpc)
 * [2025-01-08, 08:58:36](https://news.ycombinator.com/item?id=42632356) - [What is the future of WiFi (from a network security standpoint)](https://www.cloudi-fi.com/blog/what-is-the-future-of-wifi)
+* [2025-01-08, 07:07:15](https://news.ycombinator.com/item?id=42631815) - [Today I learned that bash has hashmaps (2024)](https://xeiaso.net/notes/2024/bash-hashmap/)
 * [2025-01-08, 04:22:20](https://news.ycombinator.com/item?id=42630880) - [Wends of Texas](https://en.wikipedia.org/wiki/Wends_of_Texas)
 * [2025-01-07, 23:31:30](https://news.ycombinator.com/item?id=42629024) - [Wildfires and Agricultural Worker Movement](https://www.journals.uchicago.edu/doi/10.1086/733350)
 * [2025-01-07, 22:10:32](https://news.ycombinator.com/item?id=42628248) - [The engineering behind the San Antonio River Walk](https://practical.engineering/blog/2025/1/7/the-hidden-engineering-behind-texass-top-tourist-attraction)
