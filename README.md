@@ -3,7 +3,7 @@
 * [2025-01-11, 13:22:07](https://news.ycombinator.com/item?id=42665681) - [Wrist watch modelled on Apollo DSKY computer](https://apollo-instruments.com/)
 * [2025-01-11, 12:14:34](https://news.ycombinator.com/item?id=42665367) - [Track your devices via Apple FindMy network in Go/TinyGo](https://github.com/hybridgroup/go-haystack)
 * [2025-01-11, 10:35:54](https://news.ycombinator.com/item?id=42664893) - [Ingrid Daubechies Awarded National Medal of Science](https://today.duke.edu/2025/01/ingrid-daubechies-awarded-national-medal-science)
-* [2025-01-11, 09:42:02](https://news.ycombinator.com/item?id=42664614) - [Using black magic to make a fast circular buffer](https://lo.calho.st/posts/black-magic-buffer/)
+* [2025-01-11, 09:42:02](https://news.ycombinator.com/item?id=42664614) - [Using black magic to make a fast circular buffer (2017)](https://lo.calho.st/posts/black-magic-buffer/)
 * [2025-01-11, 08:49:55](https://news.ycombinator.com/item?id=42664409) - [PrivTracker – Private BitTorrent tracker for everyone](https://privtracker.com/)
 * [2025-01-11, 08:46:45](https://news.ycombinator.com/item?id=42664400) - [Nearly All Binary Searches and Mergesorts Are Broken (2006)](https://research.google/blog/extra-extra-read-all-about-it-nearly-all-binary-searches-and-mergesorts-are-broken/)
 * [2025-01-11, 07:00:22](https://news.ycombinator.com/item?id=42663902) - [Photoroom (YC S20) Is Hiring a Senior Front End Engineer in Paris (React, MobX)](https://jobs.ashbyhq.com/photoroom/81de4c1e-f4ee-4c14-a196-6e869fa6b320)
