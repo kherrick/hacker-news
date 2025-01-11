@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-01-11](index.md)
 
+* [2025-01-11, 13:37:33](https://news.ycombinator.com/item?id=42665771) - [Zuckerberg trash talks Apple in interview with Joe Rogan](https://www.theverge.com/2025/1/10/24341039/meta-apple-mark-zuckerberg-trash-talks-joe-rogan-interview)
 * [2025-01-11, 12:50:22](https://news.ycombinator.com/item?id=42665518) - [The relationship recession is going global](https://www.ft.com/content/43e2b4f6-5ab7-4c47-b9fd-d611c36dad74)
+* [2025-01-11, 12:31:32](https://news.ycombinator.com/item?id=42665441) - [Python Is the New Basic](https://log.schemescape.com/posts/programming-languages/python-as-a-modern-basic.html)
 * [2025-01-11, 12:19:46](https://news.ycombinator.com/item?id=42665390) - [Jeju Air jet black boxes stopped recording before crash: transport ministry](https://www.koreatimes.co.kr/www/nation/2025/01/281_390174.html)
 * [2025-01-11, 12:14:49](https://news.ycombinator.com/item?id=42665370) - [SQLite: How it works, by Richard Hipp (2024) [video]](https://www.youtube.com/watch?v=ZSKLA81tBis)
 * [2025-01-11, 12:03:50](https://news.ycombinator.com/item?id=42665314) - [What automation tools are essential for a lean startup with a small team?](https://news.ycombinator.com/item?id=42665314)
