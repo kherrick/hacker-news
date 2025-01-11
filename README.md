@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-11, 18:56:02](https://news.ycombinator.com/item?id=42668087) - [Civilian police oversight in Florida crumbles after new law kicks in](https://www.tampabay.com/news/florida-politics/2025/01/11/civilian-police-oversight-florida-crumbles-after-new-law-kicks/)
 * [2025-01-11, 15:42:02](https://news.ycombinator.com/item?id=42666572) - [De-smarting the Marshall Uxbridge Bluetooth speaker](https://tomscii.sig7.se/2025/01/De-smarting-the-Marshall-Uxbridge)
 * [2025-01-11, 15:31:03](https://news.ycombinator.com/item?id=42666492) - [Show HN: TypeScript/React/Vue Window Layout Manager (Tabs, Floating, Popouts)](https://github.com/mathuo/dockview)
 * [2025-01-11, 14:34:52](https://news.ycombinator.com/item?id=42666139) - [Show HN: A Better Log Service](https://txtlog.net/)
@@ -13,6 +12,7 @@
 * [2025-01-11, 04:13:12](https://news.ycombinator.com/item?id=42663231) - [Be Aware of the Makefile Effect](https://blog.yossarian.net/2025/01/10/Be-aware-of-the-Makefile-effect)
 * [2025-01-10, 22:11:11](https://news.ycombinator.com/item?id=42660848) - [Cannonball: An Enhanced OutRun Engine](https://github.com/djyt/cannonball)
 * [2025-01-10, 21:08:42](https://news.ycombinator.com/item?id=42660255) - [Show HN: 3D Terrain simulation for hiking, skiing etc.](https://github.com/r-follador/CubeTrek)
+* [2025-01-10, 07:10:17](https://news.ycombinator.com/item?id=42653370) - [Narcolepsy is weird but I didn't notice](https://www.fortressofdoors.com/narcolepsy-is-weird-but-i-didnt-notice/)
 * [2025-01-10, 02:47:54](https://news.ycombinator.com/item?id=42651976) - [Wikipedia searches reveal differing styles of curiosity](https://www.scientificamerican.com/article/wikipedia-searches-reveal-differing-styles-of-curiosity/)
 * [2025-01-10, 00:31:32](https://news.ycombinator.com/item?id=42651297) - [An Introduction to Neural Ordinary Differential Equations [pdf]](https://diposit.ub.edu/dspace/bitstream/2445/208621/2/tfg_baldillou_salse_pau.pdf)
 * [2025-01-09, 14:25:21](https://news.ycombinator.com/item?id=42645859) - [The Tsunami of Burnout Few See](http://charleshughsmith.blogspot.com/2025/01/i-quit-tsunami-of-burnout-few-see.html)
