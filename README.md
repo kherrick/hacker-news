@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-11, 04:05:58](https://news.ycombinator.com/item?id=42663196) - [Hyundai just launched its cheapest EV in Japan, starting at only $18,000](https://electrek.co/2025/01/10/hyundai-just-launched-cheapest-ev-japan-starting-18000/)
+* [2025-01-11, 03:11:03](https://news.ycombinator.com/item?id=42662964) - [Why Greenland Is of Growing Strategic Significance](https://www.twz.com/news-features/why-greenland-is-of-growing-strategic-significance)
 * [2025-01-10, 23:50:50](https://news.ycombinator.com/item?id=42661761) - [Pathfinding to a moving target in evolving terrain](https://www.holm.dog/2025/01/finding-many-paths-to-moving-target-in.html)
 * [2025-01-10, 23:10:56](https://news.ycombinator.com/item?id=42661432) - [Very Wrong Math](https://www.charlespetzold.com/blog/2025/01/Very-Wrong-Math.html)
 * [2025-01-10, 22:48:13](https://news.ycombinator.com/item?id=42661185) - [Portals and Quake](https://30fps.net/pages/pvs-portals-and-quake/)
@@ -14,7 +16,6 @@
 * [2025-01-10, 15:25:42](https://news.ycombinator.com/item?id=42656433) - [Formal Methods: Just Good Engineering Practice? (2024)](https://brooker.co.za/blog/2024/04/17/formal)
 * [2025-01-10, 14:34:34](https://news.ycombinator.com/item?id=42655870) - [I've acquired a new superpower](https://danielwirtz.com/blog/spot-the-difference-superpower)
 * [2025-01-10, 14:02:23](https://news.ycombinator.com/item?id=42655636) - [The Tedious Heroism of David Ruggles](https://commonplace.online/article/the-tedious-heroism-of-david-ruggles/)
-* [2025-01-10, 12:38:35](https://news.ycombinator.com/item?id=42655102) - [I got OpenTelemetry to work. But why was it so complicated?](https://iconsolutions.com/blog/i-got-opentelemetry-to-work-but-why-was-it-so-complicated/)
 * [2025-01-10, 12:37:54](https://news.ycombinator.com/item?id=42655098) - [Learning How to Think with Meta Chain-of-Thought](https://arxiv.org/abs/2501.04682)
 * [2025-01-10, 09:02:31](https://news.ycombinator.com/item?id=42653939) - [Glimmer: DSL Framework for Ruby GUI and More](https://github.com/AndyObtiva/glimmer)
 * [2025-01-10, 08:37:08](https://news.ycombinator.com/item?id=42653811) - [Tactility: OS for the ESP32 Microcontroller Family](https://tactility.one/#/)
@@ -29,7 +30,6 @@
 * [2025-01-07, 15:19:25](https://news.ycombinator.com/item?id=42623255) - [Common misconceptions about the complexity in robotics vs. AI (2024)](https://harimus.github.io//2024/05/31/motortask.html)
 * [2025-01-07, 13:52:09](https://news.ycombinator.com/item?id=42622264) - [Doing Hard Things While Living Life: Why We Built Vade Studio in Clojure](https://bytes.vadelabs.com/doing-hard-things-while-living-life-why-we-built-vade-studio-in-clojure/)
 * [2025-01-07, 13:14:21](https://news.ycombinator.com/item?id=42621989) - [Show HN: TubePen – My attempt to get more out of YouTube learning](https://www.tubepen.com/)
-* [2025-01-07, 06:32:05](https://news.ycombinator.com/item?id=42619898) - [Stone selection by wild chimpanzees shares patterns with Oldowan hominins](https://www.sciencedirect.com/science/article/pii/S0047248424001337)
 
 ## [Archives](archives/index.md)
 
