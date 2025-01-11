@@ -24,6 +24,7 @@
 * [2025-01-07, 19:55:13](https://news.ycombinator.com/item?id=42626647) - [Visualizing Dimensional Relationships](https://qlikdork.com/2024/12/visualizing-dimensional-relationships/)
 * [2025-01-07, 19:42:24](https://news.ycombinator.com/item?id=42626488) - [David Lodge, British novelist who satirized academic life, has died](https://www.nytimes.com/2025/01/03/books/david-lodge-dead.html)
 * [2025-01-07, 19:37:33](https://news.ycombinator.com/item?id=42626431) - [Microsoft disguises Bing as Google to fool inattentive searchers](https://www.pcworld.com/article/2568916/microsoft-disguises-bing-as-google-to-fool-inattentive-searchers.html)
+* [2025-01-07, 19:05:59](https://news.ycombinator.com/item?id=42626043) - [Kirin demos \"electric salt spoon\" at CES](https://techcrunch.com/2025/01/05/kirin-offers-a-taste-of-its-electric-salt-spoon-at-ces-2025/)
 * [2025-01-07, 18:49:42](https://news.ycombinator.com/item?id=42625840) - [OmniAI (YC W24) Hiring Engineers to Build Open Source Document Extraction](https://www.ycombinator.com/companies/omniai/jobs/LG5jeP2-full-stack-engineer)
 * [2025-01-07, 18:19:00](https://news.ycombinator.com/item?id=42625497) - [AI Startup Anthropic Raising Funding Valuing It at $60B](https://www.wsj.com/tech/ai/ai-startup-anthropic-raising-funding-valuing-it-at-60-billion-19d0605a)
 * [2025-01-07, 18:08:29](https://news.ycombinator.com/item?id=42625372) - [PostgreSQL Support for Certificate Transparency Logs Now Available](https://blog.transparency.dev/postgresql-support-for-certificate-transparency-logs-released)
