@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-01-10, 23:50:50",
+      "https://news.ycombinator.com/item?id=42661761"
+    ],
+    [
+      "Pathfinding to a moving target in evolving terrain",
+      "https://www.holm.dog/2025/01/finding-many-paths-to-moving-target-in.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-10, 23:10:56",
+      "https://news.ycombinator.com/item?id=42661432"
+    ],
+    [
+      "Very Wrong Math",
+      "https://www.charlespetzold.com/blog/2025/01/Very-Wrong-Math.html"
+    ]
+  ],
+  [
+    [
       "2025-01-10, 22:48:13",
       "https://news.ycombinator.com/item?id=42661185"
     ],
     [
       "Portals and Quake",
       "https://30fps.net/pages/pvs-portals-and-quake/"
+    ]
+  ],
+  [
+    [
+      "2025-01-10, 22:22:15",
+      "https://news.ycombinator.com/item?id=42660942"
+    ],
+    [
+      "Building Bauble",
+      "https://ianthehenry.com/posts/bauble/building-bauble/"
     ]
   ],
   [
@@ -81,16 +111,6 @@
   ],
   [
     [
-      "2025-01-10, 15:36:17",
-      "https://news.ycombinator.com/item?id=42656529"
-    ],
-    [
-      "Experiments with Byte Matrix Multiplication",
-      "https://github.com/serge-sans-paille/i8mm"
-    ]
-  ],
-  [
-    [
       "2025-01-10, 15:25:42",
       "https://news.ycombinator.com/item?id=42656433"
     ],
@@ -137,26 +157,6 @@
     [
       "Learning How to Think with Meta Chain-of-Thought",
       "https://arxiv.org/abs/2501.04682"
-    ]
-  ],
-  [
-    [
-      "2025-01-10, 12:21:06",
-      "https://news.ycombinator.com/item?id=42654995"
-    ],
-    [
-      "Who Can Understand the Proof? A Window on Formalized Mathematics",
-      "https://writings.stephenwolfram.com/2025/01/who-can-understand-the-proof-a-window-on-formalized-mathematics/"
-    ]
-  ],
-  [
-    [
-      "2025-01-10, 12:00:44",
-      "https://news.ycombinator.com/item?id=42654901"
-    ],
-    [
-      "Wasmer (YC S19) Is Hiring a Rust Engineer in EU timezone (Remote)",
-      "https://www.workatastartup.com/jobs/41643"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2025-01-07, 15:19:25",
+      "https://news.ycombinator.com/item?id=42623255"
+    ],
+    [
+      "Common misconceptions about the complexity in robotics vs. AI (2024)",
+      "https://harimus.github.io//2024/05/31/motortask.html"
+    ]
+  ],
+  [
+    [
       "2025-01-07, 13:52:09",
       "https://news.ycombinator.com/item?id=42622264"
     ],
@@ -287,16 +297,6 @@
     [
       "Stone selection by wild chimpanzees shares patterns with Oldowan hominins",
       "https://www.sciencedirect.com/science/article/pii/S0047248424001337"
-    ]
-  ],
-  [
-    [
-      "2025-01-06, 14:57:50",
-      "https://news.ycombinator.com/item?id=42611077"
-    ],
-    [
-      "Parsing the C64 Bubble Bobble Wind Currents",
-      "http://geon.github.io/programming/2025/01/05/bubble-bobble-c64-wind"
     ]
   ]
 ]
