@@ -29,7 +29,7 @@
 * [2025-01-07, 19:05:59](https://news.ycombinator.com/item?id=42626043) - [Kirin demos \"electric salt spoon\" at CES](https://techcrunch.com/2025/01/05/kirin-offers-a-taste-of-its-electric-salt-spoon-at-ces-2025/)
 * [2025-01-07, 15:30:21](https://news.ycombinator.com/item?id=42623387) - [Is XYplorer really written in VB6?](https://www.xyplorer.com/faq-topic.php?id=VB6)
 * [2025-01-07, 15:19:25](https://news.ycombinator.com/item?id=42623255) - [Common misconceptions about the complexity in robotics vs. AI (2024)](https://harimus.github.io//2024/05/31/motortask.html)
-* [2025-01-07, 13:52:09](https://news.ycombinator.com/item?id=42622264) - [Why we built Vade Studio in Clojure](https://bytes.vadelabs.com/doing-hard-things-while-living-life-why-we-built-vade-studio-in-clojure/)
+* [2025-01-07, 06:16:47](https://news.ycombinator.com/item?id=42619832) - [Fantastic Planet: The Microscopy Album of Marinus Pieter Filbri (1887–88)](https://publicdomainreview.org/collection/marinus-pieter-filbri-microscopy/)
 
 ## [Archives](archives/index.md)
 
