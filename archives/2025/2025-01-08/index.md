@@ -18,6 +18,7 @@
 * [2025-01-08, 19:58:22](https://news.ycombinator.com/item?id=42637853) - [Multiplicative Infinitesimals](https://github.com/Ericson2314/baccumulation/blob/main/math/multiplicative-infinitesimals.md)
 * [2025-01-08, 18:58:58](https://news.ycombinator.com/item?id=42637304) - [Some Programming Language Ideas](https://jerf.org/iri/post/2025/programming_language_ideas/)
 * [2025-01-08, 18:55:21](https://news.ycombinator.com/item?id=42637267) - [Facebook Is Censoring 404 Media Stories About Facebook's Censorship](https://www.404media.co/facebook-is-censoring-404-media-stories-about-facebooks-censorship/)
+* [2025-01-08, 18:33:48](https://news.ycombinator.com/item?id=42637057) - [Dell L502X BIOS Update installer patching](https://www.r9c.net/posts/dell-xps-15-l502x-bios-update-patching)
 * [2025-01-08, 18:16:37](https://news.ycombinator.com/item?id=42636873) - [NeuralSVG: An Implicit Representation for Text-to-Vector Generation](https://sagipolaczek.github.io/NeuralSVG/)
 * [2025-01-08, 17:53:51](https://news.ycombinator.com/item?id=42636675) - [White House unveils Cyber Trust Mark program for consumer devices](https://www.nextgov.com/cybersecurity/2025/01/white-house-unveils-cyber-trust-mark-program-consumer-devices/401991/)
 * [2025-01-08, 17:28:48](https://news.ycombinator.com/item?id=42636424) - [Bad Moon Rising](https://archaeology.org/issues/january-february-2025/digs-discoveries/bad-moon-rising/)

@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-11, 04:13:12](https://news.ycombinator.com/item?id=42663231) - [Be Aware of the Makefile Effect](https://blog.yossarian.net/2025/01/10/Be-aware-of-the-Makefile-effect)
-* [2025-01-11, 04:05:58](https://news.ycombinator.com/item?id=42663196) - [Hyundai just launched its cheapest EV in Japan](https://electrek.co/2025/01/10/hyundai-just-launched-cheapest-ev-japan-starting-18000/)
+* [2025-01-11, 03:28:30](https://news.ycombinator.com/item?id=42663047) - [MessagePack: It's like JSON, but fast and small.](https://msgpack.org/)
 * [2025-01-10, 23:50:50](https://news.ycombinator.com/item?id=42661761) - [Pathfinding to a moving target in evolving terrain](https://www.holm.dog/2025/01/finding-many-paths-to-moving-target-in.html)
 * [2025-01-10, 23:10:56](https://news.ycombinator.com/item?id=42661432) - [Very Wrong Math](https://www.charlespetzold.com/blog/2025/01/Very-Wrong-Math.html)
 * [2025-01-10, 22:48:13](https://news.ycombinator.com/item?id=42661185) - [Portals and Quake](https://30fps.net/pages/pvs-portals-and-quake/)
@@ -24,7 +24,7 @@
 * [2025-01-09, 17:49:21](https://news.ycombinator.com/item?id=42648043) - [Datadog acquires Quickwit](https://quickwit.io/blog/quickwit-joins-datadog)
 * [2025-01-09, 13:31:33](https://news.ycombinator.com/item?id=42645218) - [Show HN: Tetris in a PDF](https://th0mas.nl/downloads/pdftris.pdf)
 * [2025-01-08, 20:10:03](https://news.ycombinator.com/item?id=42637959) - [17th-century priory in France converted into a medieval-inspired topiary garden](https://www.houseandgarden.co.uk/gallery/prieure-de-vauboin-garden)
-* [2025-01-08, 08:16:26](https://news.ycombinator.com/item?id=42632163) - [Refactoring with Codemods to Automate API Changes](https://martinfowler.com/articles/codemods-api-refactoring.html)
+* [2025-01-08, 18:33:48](https://news.ycombinator.com/item?id=42637057) - [Dell L502X BIOS Update installer patching](https://www.r9c.net/posts/dell-xps-15-l502x-bios-update-patching)
 * [2025-01-07, 15:30:21](https://news.ycombinator.com/item?id=42623387) - [Is XYplorer really written in VB6?](https://www.xyplorer.com/faq-topic.php?id=VB6)
 * [2025-01-07, 15:19:25](https://news.ycombinator.com/item?id=42623255) - [Common misconceptions about the complexity in robotics vs. AI (2024)](https://harimus.github.io//2024/05/31/motortask.html)
 * [2025-01-07, 13:52:09](https://news.ycombinator.com/item?id=42622264) - [Why we built Vade Studio in Clojure](https://bytes.vadelabs.com/doing-hard-things-while-living-life-why-we-built-vade-studio-in-clojure/)
