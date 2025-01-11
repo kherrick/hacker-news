@@ -77,6 +77,7 @@
 * [2025-01-07, 06:51:37](https://news.ycombinator.com/item?id=42620001) - [Nvidia releases its own brand of world models](https://techcrunch.com/2025/01/06/nvidia-releases-its-own-brand-of-world-models/)
 * [2025-01-07, 06:32:05](https://news.ycombinator.com/item?id=42619898) - [Stone selection by wild chimpanzees shares patterns with Oldowan hominins](https://www.sciencedirect.com/science/article/pii/S0047248424001337)
 * [2025-01-07, 06:21:05](https://news.ycombinator.com/item?id=42619851) - [SAT Solver Etudes I](https://www.philipzucker.com/python_sat/)
+* [2025-01-07, 06:16:47](https://news.ycombinator.com/item?id=42619832) - [Fantastic Planet: The Microscopy Album of Marinus Pieter Filbri (1887–88)](https://publicdomainreview.org/collection/marinus-pieter-filbri-microscopy/)
 * [2025-01-07, 05:53:27](https://news.ycombinator.com/item?id=42619695) - [Y2K – why I know it was a real problem (2015)](https://clarotesting.wordpress.com/2015/01/12/y2k-why-i-know-it-was-a-real-problem/)
 * [2025-01-07, 05:46:11](https://news.ycombinator.com/item?id=42619652) - [Playing Chess with 84,688 Regular Expressions](https://nicholas.carlini.com/writing/2025/regex-chess.html)
 * [2025-01-07, 04:16:51](https://news.ycombinator.com/item?id=42619163) - [Nvidia Puts Grace Blackwell on Every Desk and at Every AI Developer's Fingertips](https://nvidianews.nvidia.com/news/nvidia-puts-grace-blackwell-on-every-desk-and-at-every-ai-developers-fingertips)
