@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-01-11, 08:49:55",
+      "https://news.ycombinator.com/item?id=42664409"
+    ],
+    [
+      "PrivTracker – Private BitTorrent tracker for everyone",
+      "https://privtracker.com/"
+    ]
+  ],
+  [
+    [
       "2025-01-11, 08:46:45",
       "https://news.ycombinator.com/item?id=42664400"
     ],
@@ -201,26 +211,6 @@
   ],
   [
     [
-      "2025-01-10, 09:02:31",
-      "https://news.ycombinator.com/item?id=42653939"
-    ],
-    [
-      "Glimmer: DSL Framework for Ruby GUI and More",
-      "https://github.com/AndyObtiva/glimmer"
-    ]
-  ],
-  [
-    [
-      "2025-01-10, 08:37:08",
-      "https://news.ycombinator.com/item?id=42653811"
-    ],
-    [
-      "Tactility: OS for the ESP32 Microcontroller Family",
-      "https://tactility.one/#/"
-    ]
-  ],
-  [
-    [
       "2025-01-09, 17:49:21",
       "https://news.ycombinator.com/item?id=42648043"
     ],
@@ -267,6 +257,16 @@
     [
       "C++26: A Placeholder with No Name",
       "https://www.sandordargo.com/blog/2025/01/08/cpp26-unnamed-placeholders"
+    ]
+  ],
+  [
+    [
+      "2025-01-08, 11:59:37",
+      "https://news.ycombinator.com/item?id=42633291"
+    ],
+    [
+      "Kubernetes horizontal pod autoscaling powered by an OpenTelemetry-native tool",
+      "https://www.dash0.com/blog/autoscaling-your-kubernetes-application-with-dash0"
     ]
   ],
   [
