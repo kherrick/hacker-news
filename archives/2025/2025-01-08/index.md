@@ -21,6 +21,7 @@
 * [2025-01-08, 18:33:48](https://news.ycombinator.com/item?id=42637057) - [Dell L502X BIOS Update installer patching](https://www.r9c.net/posts/dell-xps-15-l502x-bios-update-patching)
 * [2025-01-08, 18:16:37](https://news.ycombinator.com/item?id=42636873) - [NeuralSVG: An Implicit Representation for Text-to-Vector Generation](https://sagipolaczek.github.io/NeuralSVG/)
 * [2025-01-08, 17:53:51](https://news.ycombinator.com/item?id=42636675) - [White House unveils Cyber Trust Mark program for consumer devices](https://www.nextgov.com/cybersecurity/2025/01/white-house-unveils-cyber-trust-mark-program-consumer-devices/401991/)
+* [2025-01-08, 17:42:39](https://news.ycombinator.com/item?id=42636571) - [C++26: A Placeholder with No Name](https://www.sandordargo.com/blog/2025/01/08/cpp26-unnamed-placeholders)
 * [2025-01-08, 17:28:48](https://news.ycombinator.com/item?id=42636424) - [Bad Moon Rising](https://archaeology.org/issues/january-february-2025/digs-discoveries/bad-moon-rising/)
 * [2025-01-08, 17:04:41](https://news.ycombinator.com/item?id=42636195) - [Why I Am Not Going to Buy a Computer [pdf]](https://classes.matthewjbrown.net/teaching-files/philtech/berry-computer.pdf)
 * [2025-01-08, 17:00:22](https://news.ycombinator.com/item?id=42636150) - [Two Dots (YC S22) Is Hiring ML and Back End Engineers](https://www.ycombinator.com/companies/two-dots/jobs/97PTcHT-machine-learning-engineer)
