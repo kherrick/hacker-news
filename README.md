@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-11, 04:13:12](https://news.ycombinator.com/item?id=42663231) - [Be Aware of the Makefile Effect](https://blog.yossarian.net/2025/01/10/Be-aware-of-the-Makefile-effect)
 * [2025-01-11, 04:05:58](https://news.ycombinator.com/item?id=42663196) - [Hyundai just launched its cheapest EV in Japan](https://electrek.co/2025/01/10/hyundai-just-launched-cheapest-ev-japan-starting-18000/)
 * [2025-01-10, 23:50:50](https://news.ycombinator.com/item?id=42661761) - [Pathfinding to a moving target in evolving terrain](https://www.holm.dog/2025/01/finding-many-paths-to-moving-target-in.html)
 * [2025-01-10, 23:10:56](https://news.ycombinator.com/item?id=42661432) - [Very Wrong Math](https://www.charlespetzold.com/blog/2025/01/Very-Wrong-Math.html)
 * [2025-01-10, 22:48:13](https://news.ycombinator.com/item?id=42661185) - [Portals and Quake](https://30fps.net/pages/pvs-portals-and-quake/)
-* [2025-01-10, 22:47:33](https://news.ycombinator.com/item?id=42661177) - [Coyote Time: What Games Can Teach Us About Forgiveness in Learning](https://blogs.bsu.edu/teaching-innovation/2023/11/15/coyote-time-games-teach-forgiveness-learning/)
 * [2025-01-10, 22:22:15](https://news.ycombinator.com/item?id=42660942) - [Building Bauble](https://ianthehenry.com/posts/bauble/building-bauble/)
 * [2025-01-10, 21:17:21](https://news.ycombinator.com/item?id=42660335) - [Phi-4 Bug Fixes](https://unsloth.ai/blog/phi4)
 * [2025-01-10, 19:23:50](https://news.ycombinator.com/item?id=42659061) - [Flattening ASTs and other compiler data structures (2023)](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
