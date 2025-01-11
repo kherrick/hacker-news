@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-10, 22:48:13](https://news.ycombinator.com/item?id=42661185) - [Portals and Quake](https://30fps.net/pages/pvs-portals-and-quake/)
-* [2025-01-10, 22:22:15](https://news.ycombinator.com/item?id=42660942) - [Building Bauble](https://ianthehenry.com/posts/bauble/building-bauble/)
 * [2025-01-10, 21:17:21](https://news.ycombinator.com/item?id=42660335) - [Phi-4 Bug Fixes](https://unsloth.ai/blog/phi4)
 * [2025-01-10, 19:23:50](https://news.ycombinator.com/item?id=42659061) - [Flattening ASTs (and Other Compiler Data Structures)](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
 * [2025-01-10, 18:43:26](https://news.ycombinator.com/item?id=42658614) - [Cuttle – a MTG like game using a standard 52 card deck](https://www.pagat.com/combat/cuttle.html)
@@ -25,11 +24,12 @@
 * [2025-01-09, 13:31:33](https://news.ycombinator.com/item?id=42645218) - [Show HN: Tetris in a PDF](https://th0mas.nl/downloads/pdftris.pdf)
 * [2025-01-08, 20:10:03](https://news.ycombinator.com/item?id=42637959) - [17th-century priory in France converted into a medieval-inspired topiary garden](https://www.houseandgarden.co.uk/gallery/prieure-de-vauboin-garden)
 * [2025-01-08, 08:16:26](https://news.ycombinator.com/item?id=42632163) - [Refactoring with Codemods to Automate API Changes](https://martinfowler.com/articles/codemods-api-refactoring.html)
-* [2025-01-07, 20:08:00](https://news.ycombinator.com/item?id=42626809) - [Kimchi Refrigerator](https://en.wikipedia.org/wiki/Kimchi_refrigerator)
 * [2025-01-07, 19:55:13](https://news.ycombinator.com/item?id=42626647) - [Visualizing Dimensional Relationships](https://qlikdork.com/2024/12/visualizing-dimensional-relationships/)
+* [2025-01-07, 15:30:21](https://news.ycombinator.com/item?id=42623387) - [XYPlorer Is Written in VB6](https://www.xyplorer.com/faq-topic.php?id=VB6)
 * [2025-01-07, 13:52:09](https://news.ycombinator.com/item?id=42622264) - [Doing Hard Things While Living Life: Why We Built Vade Studio in Clojure](https://bytes.vadelabs.com/doing-hard-things-while-living-life-why-we-built-vade-studio-in-clojure/)
 * [2025-01-07, 13:14:21](https://news.ycombinator.com/item?id=42621989) - [Show HN: TubePen – My attempt to get more out of YouTube learning](https://www.tubepen.com/)
 * [2025-01-07, 06:32:05](https://news.ycombinator.com/item?id=42619898) - [Stone selection by wild chimpanzees shares patterns with Oldowan hominins](https://www.sciencedirect.com/science/article/pii/S0047248424001337)
+* [2025-01-06, 14:57:50](https://news.ycombinator.com/item?id=42611077) - [Parsing the C64 Bubble Bobble Wind Currents](http://geon.github.io/programming/2025/01/05/bubble-bobble-c64-wind)
 
 ## [Archives](archives/index.md)
 
