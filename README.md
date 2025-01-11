@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-11, 07:00:22](https://news.ycombinator.com/item?id=42663902) - [Photoroom (YC S20) Is Hiring a Senior Front End Engineer in Paris (React, MobX)](https://jobs.ashbyhq.com/photoroom/81de4c1e-f4ee-4c14-a196-6e869fa6b320)
 * [2025-01-11, 04:13:12](https://news.ycombinator.com/item?id=42663231) - [Be Aware of the Makefile Effect](https://blog.yossarian.net/2025/01/10/Be-aware-of-the-Makefile-effect)
 * [2025-01-11, 03:28:30](https://news.ycombinator.com/item?id=42663047) - [MessagePack: It's like JSON, but fast and small.](https://msgpack.org/)
 * [2025-01-10, 23:50:50](https://news.ycombinator.com/item?id=42661761) - [Pathfinding to a moving target in evolving terrain](https://www.holm.dog/2025/01/finding-many-paths-to-moving-target-in.html)
@@ -14,7 +15,6 @@
 * [2025-01-10, 15:53:07](https://news.ycombinator.com/item?id=42656711) - [Finland's zero homeless strategy (2021)](https://oecdecoscope.blog/2021/12/13/finlands-zero-homeless-strategy-lessons-from-a-success-story/)
 * [2025-01-10, 15:25:42](https://news.ycombinator.com/item?id=42656433) - [Formal Methods: Just Good Engineering Practice? (2024)](https://brooker.co.za/blog/2024/04/17/formal)
 * [2025-01-10, 14:34:34](https://news.ycombinator.com/item?id=42655870) - [I've acquired a new superpower](https://danielwirtz.com/blog/spot-the-difference-superpower)
-* [2025-01-10, 14:02:23](https://news.ycombinator.com/item?id=42655636) - [The Tedious Heroism of David Ruggles](https://commonplace.online/article/the-tedious-heroism-of-david-ruggles/)
 * [2025-01-10, 12:38:35](https://news.ycombinator.com/item?id=42655102) - [I got OpenTelemetry to work. But why was it so complicated?](https://iconsolutions.com/blog/i-got-opentelemetry-to-work-but-why-was-it-so-complicated/)
 * [2025-01-10, 12:37:54](https://news.ycombinator.com/item?id=42655098) - [Learning how to think with Meta Chain-of-Thought](https://arxiv.org/abs/2501.04682)
 * [2025-01-10, 09:02:31](https://news.ycombinator.com/item?id=42653939) - [Glimmer: DSL Framework for Ruby GUI and More](https://github.com/AndyObtiva/glimmer)
