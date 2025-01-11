@@ -87,6 +87,7 @@
 * [2025-01-07, 03:28:33](https://news.ycombinator.com/item?id=42618849) - [Nvidia Blackwell GeForce RTX 50 Series Opens New World of AI Computer Graphics](https://nvidianews.nvidia.com/news/nvidia-blackwell-geforce-rtx-50-series-opens-new-world-of-ai-computer-graphics)
 * [2025-01-07, 03:12:11](https://news.ycombinator.com/item?id=42618761) - [Nvidia announces next-gen RTX 5090 and RTX 5080 GPUs](https://www.theverge.com/2025/1/6/24337396/nvidia-rtx-5080-5090-5070-ti-5070-price-release-date)
 * [2025-01-07, 02:48:15](https://news.ycombinator.com/item?id=42618625) - [Roman Empire's use of lead lowered IQ levels across Europe, study finds](https://www.theguardian.com/science/2025/jan/06/roman-empires-use-of-lead-lowered-iq-levels-across-europe-study-finds)
+* [2025-01-07, 02:42:38](https://news.ycombinator.com/item?id=42618595) - [Jensen Huang keynote at CES 2025 [video]](https://www.youtube.com/watch?v=k82RwXqZHY8)
 * [2025-01-07, 01:39:02](https://news.ycombinator.com/item?id=42618260) - [Instagram Begins Randomly Showing Users AI-Generated Images of Themselves](https://www.404media.co/instagram-begins-randomly-showing-users-ai-generated-images-of-themselves/)
 * [2025-01-07, 01:15:07](https://news.ycombinator.com/item?id=42618130) - [Zig's Comptime Is Bonkers Good](https://www.scottredig.com/blog/bonkers_comptime/)
 * [2025-01-07, 00:31:02](https://news.ycombinator.com/item?id=42617825) - [Bird-Inspired Drone Uses Legs to Walk and Jump into the Air](https://spectrum.ieee.org/bird-drone)
