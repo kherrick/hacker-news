@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-11, 08:46:45](https://news.ycombinator.com/item?id=42664400) - [Nearly All Binary Searches and Mergesorts Are Broken](https://research.google/blog/extra-extra-read-all-about-it-nearly-all-binary-searches-and-mergesorts-are-broken/)
 * [2025-01-11, 07:05:00](https://news.ycombinator.com/item?id=42663923) - [What Is the \"Mffam\" Policy?](https://www.nearlyfreespeech.net/about/faq#BecauseFuckNazisThatsWhy)
 * [2025-01-11, 07:00:22](https://news.ycombinator.com/item?id=42663902) - [Photoroom (YC S20) Is Hiring a Senior Front End Engineer in Paris (React, MobX)](https://jobs.ashbyhq.com/photoroom/81de4c1e-f4ee-4c14-a196-6e869fa6b320)
 * [2025-01-10, 23:50:50](https://news.ycombinator.com/item?id=42661761) - [Pathfinding to a moving target in evolving terrain](https://www.holm.dog/2025/01/finding-many-paths-to-moving-target-in.html)
@@ -29,7 +30,6 @@
 * [2025-01-07, 15:30:21](https://news.ycombinator.com/item?id=42623387) - [Is XYplorer really written in VB6?](https://www.xyplorer.com/faq-topic.php?id=VB6)
 * [2025-01-07, 15:19:25](https://news.ycombinator.com/item?id=42623255) - [Common misconceptions about the complexity in robotics vs. AI (2024)](https://harimus.github.io//2024/05/31/motortask.html)
 * [2025-01-07, 13:52:09](https://news.ycombinator.com/item?id=42622264) - [Why we built Vade Studio in Clojure](https://bytes.vadelabs.com/doing-hard-things-while-living-life-why-we-built-vade-studio-in-clojure/)
-* [2025-01-07, 06:16:47](https://news.ycombinator.com/item?id=42619832) - [Fantastic Planet: The Microscopy Album of Marinus Pieter Filbri (1887–88)](https://publicdomainreview.org/collection/marinus-pieter-filbri-microscopy/)
 
 ## [Archives](archives/index.md)
 
