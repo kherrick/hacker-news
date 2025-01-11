@@ -111,32 +111,42 @@
   ],
   [
     [
+      "2025-01-10, 22:11:11",
+      "https://news.ycombinator.com/item?id=42660848"
+    ],
+    [
+      "Cannonball: An Enhanced OutRun Engine",
+      "https://github.com/djyt/cannonball"
+    ]
+  ],
+  [
+    [
+      "2025-01-10, 21:08:42",
+      "https://news.ycombinator.com/item?id=42660255"
+    ],
+    [
+      "Show HN: 3D Terrain simulation for hiking, skiing etc.",
+      "https://github.com/r-follador/CubeTrek"
+    ]
+  ],
+  [
+    [
+      "2025-01-10, 19:26:46",
+      "https://news.ycombinator.com/item?id=42659111"
+    ],
+    [
+      "Year old startup overloaded GitHub – Incident report",
+      "https://lovable.dev/news/github-incident-2025-01-02"
+    ]
+  ],
+  [
+    [
       "2025-01-10, 16:39:01",
       "https://news.ycombinator.com/item?id=42657208"
     ],
     [
       "Ships must practice celestial navigation",
       "https://www.usni.org/magazines/proceedings/2025/january/ships-must-practice-celestial-navigation"
-    ]
-  ],
-  [
-    [
-      "2025-01-10, 07:10:17",
-      "https://news.ycombinator.com/item?id=42653370"
-    ],
-    [
-      "Narcolepsy is weird but I didn't notice",
-      "https://www.fortressofdoors.com/narcolepsy-is-weird-but-i-didnt-notice/"
-    ]
-  ],
-  [
-    [
-      "2025-01-10, 02:47:54",
-      "https://news.ycombinator.com/item?id=42651976"
-    ],
-    [
-      "Wikipedia searches reveal differing styles of curiosity",
-      "https://www.scientificamerican.com/article/wikipedia-searches-reveal-differing-styles-of-curiosity/"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2025-01-08, 19:14:09",
-      "https://news.ycombinator.com/item?id=42637442"
-    ],
-    [
-      "The Fannie and Freddie trade is back",
-      "https://www.bloomberg.com/opinion/articles/2025-01-08/the-fannie-and-freddie-trade-is-back"
-    ]
-  ],
-  [
-    [
       "2025-01-08, 17:42:39",
       "https://news.ycombinator.com/item?id=42636571"
     ],
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2025-01-08, 11:59:37",
-      "https://news.ycombinator.com/item?id=42633291"
+      "2025-01-08, 09:27:59",
+      "https://news.ycombinator.com/item?id=42632478"
     ],
     [
-      "Kubernetes horizontal pod autoscaling powered by an OpenTelemetry-native tool",
-      "https://www.dash0.com/blog/autoscaling-your-kubernetes-application-with-dash0"
+      "Character Prefix Conditioning",
+      "https://www.cursor.com/blog/cpc"
     ]
   ],
   [
