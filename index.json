@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2025-01-10, 09:02:31",
-      "https://news.ycombinator.com/item?id=42653939"
-    ],
-    [
-      "Glimmer: DSL Framework for Ruby GUI and More",
-      "https://github.com/AndyObtiva/glimmer"
-    ]
-  ],
-  [
-    [
       "2025-01-10, 08:37:08",
       "https://news.ycombinator.com/item?id=42653811"
     ],
@@ -247,6 +237,16 @@
     [
       "Dell L502X BIOS Update installer patching",
       "https://www.r9c.net/posts/dell-xps-15-l502x-bios-update-patching"
+    ]
+  ],
+  [
+    [
+      "2025-01-08, 07:07:15",
+      "https://news.ycombinator.com/item?id=42631815"
+    ],
+    [
+      "Today I learned that bash has hashmaps (2024)",
+      "https://xeiaso.net/notes/2024/bash-hashmap/"
     ]
   ],
   [
