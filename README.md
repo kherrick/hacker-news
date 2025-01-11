@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-11, 09:42:02](https://news.ycombinator.com/item?id=42664614) - [Using black magic to make a fast circular buffer](https://lo.calho.st/posts/black-magic-buffer/)
 * [2025-01-11, 08:46:45](https://news.ycombinator.com/item?id=42664400) - [Nearly All Binary Searches and Mergesorts Are Broken](https://research.google/blog/extra-extra-read-all-about-it-nearly-all-binary-searches-and-mergesorts-are-broken/)
 * [2025-01-11, 07:05:00](https://news.ycombinator.com/item?id=42663923) - [What Is the \"Mffam\" Policy?](https://www.nearlyfreespeech.net/about/faq#BecauseFuckNazisThatsWhy)
 * [2025-01-11, 07:00:22](https://news.ycombinator.com/item?id=42663902) - [Photoroom (YC S20) Is Hiring a Senior Front End Engineer in Paris (React, MobX)](https://jobs.ashbyhq.com/photoroom/81de4c1e-f4ee-4c14-a196-6e869fa6b320)
@@ -26,7 +27,6 @@
 * [2025-01-08, 18:26:02](https://news.ycombinator.com/item?id=42636974) - [Market Structure Primer](https://primer.prooftrading.com)
 * [2025-01-08, 17:42:39](https://news.ycombinator.com/item?id=42636571) - [C++26: A Placeholder with No Name](https://www.sandordargo.com/blog/2025/01/08/cpp26-unnamed-placeholders)
 * [2025-01-08, 07:19:25](https://news.ycombinator.com/item?id=42631876) - [Donut Lab's next-generation in-wheel motors](https://www.donutlab.com/motor/)
-* [2025-01-08, 07:07:15](https://news.ycombinator.com/item?id=42631815) - [Today I learned that bash has hashmaps (2024)](https://xeiaso.net/notes/2024/bash-hashmap/)
 * [2025-01-07, 19:05:59](https://news.ycombinator.com/item?id=42626043) - [Kirin demos \"electric salt spoon\" at CES](https://techcrunch.com/2025/01/05/kirin-offers-a-taste-of-its-electric-salt-spoon-at-ces-2025/)
 * [2025-01-07, 15:30:21](https://news.ycombinator.com/item?id=42623387) - [Is XYplorer really written in VB6?](https://www.xyplorer.com/faq-topic.php?id=VB6)
 * [2025-01-07, 15:19:25](https://news.ycombinator.com/item?id=42623255) - [Common misconceptions about the complexity in robotics vs. AI (2024)](https://harimus.github.io//2024/05/31/motortask.html)
