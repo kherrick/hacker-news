@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2025-01-11, 08:46:45",
+      "https://news.ycombinator.com/item?id=42664400"
+    ],
+    [
+      "Nearly all binary searches and mergesorts are broken (2006)",
+      "https://research.google/blog/extra-extra-read-all-about-it-nearly-all-binary-searches-and-mergesorts-are-broken/"
+    ]
+  ],
+  [
+    [
       "2025-01-11, 07:00:22",
       "https://news.ycombinator.com/item?id=42663902"
     ],
@@ -101,42 +111,12 @@
   ],
   [
     [
-      "2025-01-10, 23:10:56",
-      "https://news.ycombinator.com/item?id=42661432"
+      "2025-01-10, 16:39:01",
+      "https://news.ycombinator.com/item?id=42657208"
     ],
     [
-      "Very Wrong Math",
-      "https://www.charlespetzold.com/blog/2025/01/Very-Wrong-Math.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-10, 22:48:13",
-      "https://news.ycombinator.com/item?id=42661185"
-    ],
-    [
-      "Portals and Quake",
-      "https://30fps.net/pages/pvs-portals-and-quake/"
-    ]
-  ],
-  [
-    [
-      "2025-01-10, 18:43:26",
-      "https://news.ycombinator.com/item?id=42658614"
-    ],
-    [
-      "Cuttle – a MTG like game using a standard 52 card deck",
-      "https://www.pagat.com/combat/cuttle.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-10, 13:56:46",
-      "https://news.ycombinator.com/item?id=42655597"
-    ],
-    [
-      "Scientists drill 2 miles down pull 1.2M-year-old ice core from Antarctic",
-      "https://apnews.com/article/antarctica-old-ice-core-climate-change-epica-6f76c57abf254dd9cb698f767db5507b"
+      "Ships must practice celestial navigation",
+      "https://www.usni.org/magazines/proceedings/2025/january/ships-must-practice-celestial-navigation"
     ]
   ],
   [
@@ -171,6 +151,16 @@
   ],
   [
     [
+      "2025-01-10, 00:31:32",
+      "https://news.ycombinator.com/item?id=42651297"
+    ],
+    [
+      "An Introduction to Neural Ordinary Differential Equations [pdf]",
+      "https://diposit.ub.edu/dspace/bitstream/2445/208621/2/tfg_baldillou_salse_pau.pdf"
+    ]
+  ],
+  [
+    [
       "2025-01-09, 14:25:21",
       "https://news.ycombinator.com/item?id=42645859"
     ],
@@ -181,12 +171,12 @@
   ],
   [
     [
-      "2025-01-09, 13:47:59",
-      "https://news.ycombinator.com/item?id=42645415"
+      "2025-01-08, 23:46:02",
+      "https://news.ycombinator.com/item?id=42639871"
     ],
     [
-      "Binary modding a water dispenser to save me from pressing a button (2021)",
-      "https://practicapp.com/binary-modding-a-watercooler/"
+      "/bin/sh: the biggest Unix security loophole (1984) [pdf]",
+      "https://www.tuhs.org/Archive/Documentation/TechReports/Bell_Labs/ReedsShellHoles.pdf"
     ]
   ],
   [
@@ -211,16 +201,6 @@
   ],
   [
     [
-      "2025-01-08, 18:26:02",
-      "https://news.ycombinator.com/item?id=42636974"
-    ],
-    [
-      "Market Structure Primer (2019)",
-      "https://primer.prooftrading.com"
-    ]
-  ],
-  [
-    [
       "2025-01-08, 17:42:39",
       "https://news.ycombinator.com/item?id=42636571"
     ],
@@ -241,6 +221,26 @@
   ],
   [
     [
+      "2025-01-08, 10:40:19",
+      "https://news.ycombinator.com/item?id=42632848"
+    ],
+    [
+      "Four-day week at a south London school",
+      "https://www.theguardian.com/education/2025/jan/01/i-love-the-four-day-week-south-london-school-part-of-a-quiet-revolution"
+    ]
+  ],
+  [
+    [
+      "2025-01-08, 07:07:15",
+      "https://news.ycombinator.com/item?id=42631815"
+    ],
+    [
+      "Today I learned that bash has hashmaps (2024)",
+      "https://xeiaso.net/notes/2024/bash-hashmap/"
+    ]
+  ],
+  [
+    [
       "2025-01-08, 04:22:20",
       "https://news.ycombinator.com/item?id=42630880"
     ],
@@ -251,12 +251,22 @@
   ],
   [
     [
-      "2025-01-07, 17:59:20",
-      "https://news.ycombinator.com/item?id=42625274"
+      "2025-01-08, 00:29:32",
+      "https://news.ycombinator.com/item?id=42629498"
     ],
     [
-      "In a cold day of late winter a new search experience came out",
-      "http://lexy.uno"
+      "Ask HN: Are there any real examples of AI agents doing work?",
+      "https://news.ycombinator.com/item?id=42629498"
+    ]
+  ],
+  [
+    [
+      "2025-01-07, 22:10:32",
+      "https://news.ycombinator.com/item?id=42628248"
+    ],
+    [
+      "The engineering behind the San Antonio River Walk",
+      "https://practical.engineering/blog/2025/1/7/the-hidden-engineering-behind-texass-top-tourist-attraction"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "CCL: Categorical Configuration Language",
       "https://chshersh.com/blog/2025-01-06-the-most-elegant-configuration-language.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-06, 19:10:12",
-      "https://news.ycombinator.com/item?id=42614197"
-    ],
-    [
-      "Pdfcpu – A PDF Processor",
-      "https://pdfcpu.io/"
     ]
   ]
 ]
