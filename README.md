@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-11, 13:22:07](https://news.ycombinator.com/item?id=42665681) - [Wrist watch modelled on Apollo DSKY computer](https://apollo-instruments.com/)
-* [2025-01-11, 12:54:51](https://news.ycombinator.com/item?id=42665533) - [Sony Proposes Changing LLVM Clang Default to C++20 Mode](https://www.phoronix.com/news/Sony-LLVM-Clang-CXX20-Default)
 * [2025-01-11, 12:14:34](https://news.ycombinator.com/item?id=42665367) - [Track your devices via Apple FindMy network in Go/TinyGo](https://github.com/hybridgroup/go-haystack)
 * [2025-01-11, 10:35:54](https://news.ycombinator.com/item?id=42664893) - [Ingrid Daubechies Awarded National Medal of Science](https://today.duke.edu/2025/01/ingrid-daubechies-awarded-national-medal-science)
 * [2025-01-11, 09:42:02](https://news.ycombinator.com/item?id=42664614) - [Using black magic to make a fast circular buffer](https://lo.calho.st/posts/black-magic-buffer/)
@@ -21,6 +20,7 @@
 * [2025-01-10, 14:34:34](https://news.ycombinator.com/item?id=42655870) - [I've acquired a new superpower](https://danielwirtz.com/blog/spot-the-difference-superpower)
 * [2025-01-10, 12:38:35](https://news.ycombinator.com/item?id=42655102) - [I got OpenTelemetry to work. But why was it so complicated?](https://iconsolutions.com/blog/i-got-opentelemetry-to-work-but-why-was-it-so-complicated/)
 * [2025-01-10, 12:37:54](https://news.ycombinator.com/item?id=42655098) - [Learning how to think with Meta Chain-of-Thought](https://arxiv.org/abs/2501.04682)
+* [2025-01-10, 09:02:31](https://news.ycombinator.com/item?id=42653939) - [Glimmer: DSL Framework for Ruby GUI and More](https://github.com/AndyObtiva/glimmer)
 * [2025-01-10, 08:37:08](https://news.ycombinator.com/item?id=42653811) - [Tactility: OS for the ESP32 Microcontroller Family](https://tactility.one/#/)
 * [2025-01-09, 17:49:21](https://news.ycombinator.com/item?id=42648043) - [Datadog acquires Quickwit](https://quickwit.io/blog/quickwit-joins-datadog)
 * [2025-01-09, 13:31:33](https://news.ycombinator.com/item?id=42645218) - [Show HN: Tetris in a PDF](https://th0mas.nl/downloads/pdftris.pdf)
