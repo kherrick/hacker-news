@@ -47,6 +47,7 @@
 * [2025-01-07, 15:19:25](https://news.ycombinator.com/item?id=42623255) - [Common misconceptions about the complexity in robotics vs. AI (2024)](https://harimus.github.io//2024/05/31/motortask.html)
 * [2025-01-07, 15:12:05](https://news.ycombinator.com/item?id=42623163) - [Google is building its own 'world modeling' AI team for games and robot training](https://www.theverge.com/2025/1/7/24338053/google-deepmind-world-modeling-ai-team-gaming-robot-training)
 * [2025-01-07, 15:09:47](https://news.ycombinator.com/item?id=42623144) - [Federal Reserve Bank of NY \"Doomsday Book\" 2022 via FOIA [pdf]](https://www.crisesnotes.com/content/files/2023/12/NYFRB-2006.--Doomsday-Book--Searchable.pdf)
+* [2025-01-07, 14:20:55](https://news.ycombinator.com/item?id=42622554) - [When Picasso Was Arrested for Stealing the 'Mona Lisa'](https://www.newyorker.com/magazine/2025/01/13/when-picasso-was-arrested-for-stealing-the-mona-lisa)
 * [2025-01-07, 13:52:09](https://news.ycombinator.com/item?id=42622264) - [Doing Hard Things While Living Life: Why We Built Vade Studio in Clojure](https://bytes.vadelabs.com/doing-hard-things-while-living-life-why-we-built-vade-studio-in-clojure/)
 * [2025-01-07, 13:50:16](https://news.ycombinator.com/item?id=42622252) - [May Mobility reveals electric autonomous minibus at CES 2025](https://techcrunch.com/2025/01/07/may-mobility-reveals-electric-autonomous-minibus-at-ces-2025/)
 * [2025-01-07, 13:37:02](https://news.ycombinator.com/item?id=42622143) - [Deformable Image Registration KU Repository](https://github.com/ThomasAlscher1991/DIRKU)

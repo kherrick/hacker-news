@@ -3,7 +3,6 @@
 * [2025-01-11, 12:50:22](https://news.ycombinator.com/item?id=42665518) - [The relationship recession is going global](https://www.ft.com/content/43e2b4f6-5ab7-4c47-b9fd-d611c36dad74)
 * [2025-01-11, 12:19:46](https://news.ycombinator.com/item?id=42665390) - [Jeju Air jet black boxes stopped recording before crash: transport ministry](https://www.koreatimes.co.kr/www/nation/2025/01/281_390174.html)
 * [2025-01-11, 12:14:49](https://news.ycombinator.com/item?id=42665370) - [SQLite: How it works, by Richard Hipp (2024) [video]](https://www.youtube.com/watch?v=ZSKLA81tBis)
-* [2025-01-11, 12:03:50](https://news.ycombinator.com/item?id=42665314) - [What automation tools are essential for a lean startup with a small team?](https://news.ycombinator.com/item?id=42665314)
 * [2025-01-11, 11:42:59](https://news.ycombinator.com/item?id=42665222) - [The State of Vim](https://lwn.net/SubscriberLink/1002342/a8d8a17f30968b93/)
 * [2025-01-11, 10:35:54](https://news.ycombinator.com/item?id=42664893) - [Ingrid Daubechies Awarded National Medal of Science](https://today.duke.edu/2025/01/ingrid-daubechies-awarded-national-medal-science)
 * [2025-01-11, 09:42:02](https://news.ycombinator.com/item?id=42664614) - [Using black magic to make a fast circular buffer](https://lo.calho.st/posts/black-magic-buffer/)
@@ -20,9 +19,9 @@
 * [2025-01-10, 15:53:07](https://news.ycombinator.com/item?id=42656711) - [Finland's zero homeless strategy (2021)](https://oecdecoscope.blog/2021/12/13/finlands-zero-homeless-strategy-lessons-from-a-success-story/)
 * [2025-01-10, 14:34:34](https://news.ycombinator.com/item?id=42655870) - [I've acquired a new superpower](https://danielwirtz.com/blog/spot-the-difference-superpower)
 * [2025-01-10, 12:37:54](https://news.ycombinator.com/item?id=42655098) - [Learning how to think with Meta Chain-of-Thought](https://arxiv.org/abs/2501.04682)
-* [2025-01-10, 04:45:55](https://news.ycombinator.com/item?id=42652577) - [Visualizing All ISBNs](https://annas-archive.org/blog/all-isbns.html)
 * [2025-01-09, 17:49:21](https://news.ycombinator.com/item?id=42648043) - [Datadog acquires Quickwit](https://quickwit.io/blog/quickwit-joins-datadog)
 * [2025-01-09, 13:31:33](https://news.ycombinator.com/item?id=42645218) - [Show HN: Tetris in a PDF](https://th0mas.nl/downloads/pdftris.pdf)
+* [2025-01-08, 20:10:03](https://news.ycombinator.com/item?id=42637959) - [17th-century priory in France converted into a medieval-inspired topiary garden](https://www.houseandgarden.co.uk/gallery/prieure-de-vauboin-garden)
 * [2025-01-08, 18:33:48](https://news.ycombinator.com/item?id=42637057) - [Dell L502X BIOS Update installer patching](https://www.r9c.net/posts/dell-xps-15-l502x-bios-update-patching)
 * [2025-01-08, 18:26:02](https://news.ycombinator.com/item?id=42636974) - [Market Structure Primer](https://primer.prooftrading.com)
 * [2025-01-08, 17:42:39](https://news.ycombinator.com/item?id=42636571) - [C++26: A Placeholder with No Name](https://www.sandordargo.com/blog/2025/01/08/cpp26-unnamed-placeholders)
@@ -30,6 +29,7 @@
 * [2025-01-08, 07:19:25](https://news.ycombinator.com/item?id=42631876) - [Donut Lab's next-generation in-wheel motors](https://www.donutlab.com/motor/)
 * [2025-01-07, 15:30:21](https://news.ycombinator.com/item?id=42623387) - [Is XYplorer really written in VB6?](https://www.xyplorer.com/faq-topic.php?id=VB6)
 * [2025-01-07, 15:19:25](https://news.ycombinator.com/item?id=42623255) - [Common misconceptions about the complexity in robotics vs. AI (2024)](https://harimus.github.io//2024/05/31/motortask.html)
+* [2025-01-07, 14:20:55](https://news.ycombinator.com/item?id=42622554) - [When Picasso Was Arrested for Stealing the 'Mona Lisa'](https://www.newyorker.com/magazine/2025/01/13/when-picasso-was-arrested-for-stealing-the-mona-lisa)
 
 ## [Archives](archives/index.md)
 
