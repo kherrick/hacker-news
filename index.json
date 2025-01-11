@@ -5,18 +5,8 @@
       "https://news.ycombinator.com/item?id=42663196"
     ],
     [
-      "Hyundai just launched its cheapest EV in Japan, starting at only $18,000",
+      "Hyundai just launched its cheapest EV in Japan",
       "https://electrek.co/2025/01/10/hyundai-just-launched-cheapest-ev-japan-starting-18000/"
-    ]
-  ],
-  [
-    [
-      "2025-01-11, 03:11:03",
-      "https://news.ycombinator.com/item?id=42662964"
-    ],
-    [
-      "Why Greenland Is of Growing Strategic Significance",
-      "https://www.twz.com/news-features/why-greenland-is-of-growing-strategic-significance"
     ]
   ],
   [
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=42659061"
     ],
     [
-      "Flattening ASTs (and Other Compiler Data Structures)",
+      "Flattening ASTs and other compiler data structures (2023)",
       "https://www.cs.cornell.edu/~asampson/blog/flattening.html"
     ]
   ],
@@ -151,6 +141,16 @@
   ],
   [
     [
+      "2025-01-10, 14:02:23",
+      "https://news.ycombinator.com/item?id=42655636"
+    ],
+    [
+      "The Tedious Heroism of David Ruggles",
+      "https://commonplace.online/article/the-tedious-heroism-of-david-ruggles/"
+    ]
+  ],
+  [
+    [
       "2025-01-10, 12:38:35",
       "https://news.ycombinator.com/item?id=42655102"
     ],
@@ -165,7 +165,7 @@
       "https://news.ycombinator.com/item?id=42655098"
     ],
     [
-      "Learning How to Think with Meta Chain-of-Thought",
+      "Learning how to think with Meta Chain-of-Thought",
       "https://arxiv.org/abs/2501.04682"
     ]
   ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=42623387"
     ],
     [
-      "XYPlorer Is Written in VB6",
+      "Is XYplorer really written in VB6?",
       "https://www.xyplorer.com/faq-topic.php?id=VB6"
     ]
   ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=42622264"
     ],
     [
-      "Doing Hard Things While Living Life: Why We Built Vade Studio in Clojure",
+      "Why we built Vade Studio in Clojure",
       "https://bytes.vadelabs.com/doing-hard-things-while-living-life-why-we-built-vade-studio-in-clojure/"
     ]
   ],
