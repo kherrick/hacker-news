@@ -33,6 +33,7 @@
 * [2025-01-08, 14:47:34](https://news.ycombinator.com/item?id=42634787) - [Show HN: The Atlas of Space](https://atlasof.space/)
 * [2025-01-08, 14:44:57](https://news.ycombinator.com/item?id=42634757) - [Self-driving Tesla steers Calif. tech founder onto train tracks](https://www.sfgate.com/tech/article/tesla-fsd-jesse-lyu-train-20014242.php)
 * [2025-01-08, 14:30:58](https://news.ycombinator.com/item?id=42634624) - [Fidget](https://www.mattkeeter.com/projects/fidget/)
+* [2025-01-08, 14:27:14](https://news.ycombinator.com/item?id=42634591) - [Support for ASHA hearing aids coming to Linux](https://asymptotic.io/blog/a-brimful-of-asha/)
 * [2025-01-08, 13:30:58](https://news.ycombinator.com/item?id=42633985) - [On Priesthoods](https://www.astralcodexten.com/p/on-priesthoods)
 * [2025-01-08, 13:18:39](https://news.ycombinator.com/item?id=42633880) - [New questions on Stack Overflow are down 77% compared to 2022](https://gist.github.com/hopeseekr/f522e380e35745bd5bdc3269a9f0b132)
 * [2025-01-08, 13:17:36](https://news.ycombinator.com/item?id=42633868) - [Stop to use words like \"safety\" when they mean \"sanitized\"](https://old.reddit.com/r/StableDiffusion/comments/1hwhizq/we_need_to_stop_allowing_entities_to_coop/)

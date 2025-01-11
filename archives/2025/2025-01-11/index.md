@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-01-11](index.md)
 
+* [2025-01-11, 12:14:49](https://news.ycombinator.com/item?id=42665370) - [SQLite: How it works, by Richard Hipp (2024) [video]](https://www.youtube.com/watch?v=ZSKLA81tBis)
+* [2025-01-11, 11:42:59](https://news.ycombinator.com/item?id=42665222) - [The State of Vim](https://lwn.net/SubscriberLink/1002342/a8d8a17f30968b93/)
+* [2025-01-11, 10:35:54](https://news.ycombinator.com/item?id=42664893) - [Ingrid Daubechies Awarded National Medal of Science](https://today.duke.edu/2025/01/ingrid-daubechies-awarded-national-medal-science)
 * [2025-01-11, 09:42:02](https://news.ycombinator.com/item?id=42664614) - [Using black magic to make a fast circular buffer](https://lo.calho.st/posts/black-magic-buffer/)
 * [2025-01-11, 08:46:45](https://news.ycombinator.com/item?id=42664400) - [Nearly All Binary Searches and Mergesorts Are Broken](https://research.google/blog/extra-extra-read-all-about-it-nearly-all-binary-searches-and-mergesorts-are-broken/)
 * [2025-01-11, 07:37:43](https://news.ycombinator.com/item?id=42664097) - [Black boxes from Jeju Air 2216 stopped recording four minutes before crash](https://www.cnn.com/2025/01/11/asia/south-korean-airline-black-boxes-stopped-recording-intl-hnk/index.html)
