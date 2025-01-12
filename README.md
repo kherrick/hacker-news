@@ -1,13 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-12, 20:06:49](https://news.ycombinator.com/item?id=42676432) - [Uv's killer feature is pulling in local dependencies](https://valatka.dev/2025/01/12/on-killer-uv-feature.html)
-* [2025-01-12, 19:50:07](https://news.ycombinator.com/item?id=42676312) - [Thanks to Nvidia, there's a new generation of PCs coming and they'll run Linux](https://www.zdnet.com/article/thanks-to-nvidia-theres-a-new-generation-of-pcs-coming-and-theyll-be-running-linux/)
 * [2025-01-12, 19:46:08](https://news.ycombinator.com/item?id=42676274) - [Best Pens for 2025](https://www.jetpens.com/blog/The-46-Best-Pens-for-2025-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974)
 * [2025-01-12, 19:27:16](https://news.ycombinator.com/item?id=42676125) - [Study links sugar-filled drinks to millions of heart disease and diabetes cases](https://bgr.com/science/study-links-sugar-filled-drinks-to-millions-of-heart-disease-and-diabetes-cases-each-year/)
 * [2025-01-12, 19:27:07](https://news.ycombinator.com/item?id=42676123) - [James Shore: The Best Product Engineering Org in the World](https://www.jamesshore.com/v2/blog/2025/the-best-product-engineering-org-in-the-world)
 * [2025-01-12, 19:01:08](https://news.ycombinator.com/item?id=42675882) - [Snake Game in 56 Bytes](https://github.com/donno2048/snake)
 * [2025-01-12, 18:43:05](https://news.ycombinator.com/item?id=42675725) - [Tabby: Self-hosted AI coding assistant](https://github.com/TabbyML/tabby)
-* [2025-01-12, 18:11:12](https://news.ycombinator.com/item?id=42675444) - [Employees are bypassing HR, sharing on LinkedIn](https://www.businessinsider.com/new-worker-uprising-hr-out-toxicity-bullying-linkedin-in-2025-1)
 * [2025-01-12, 18:06:26](https://news.ycombinator.com/item?id=42675419) - [Why the Getty Center Is the Safest Place for Art During a Fire (2019)](https://www.getty.edu/news/why-the-getty-center-is-the-safest-place-for-art-during-a-fire/)
 * [2025-01-12, 17:47:03](https://news.ycombinator.com/item?id=42675274) - [The Case for Letting Malibu Burn (1995)](https://longreads.com/2018/12/04/the-case-for-letting-malibu-burn/)
 * [2025-01-12, 17:36:45](https://news.ycombinator.com/item?id=42675208) - [From ASCII to ASIC: Porting donut.c to a tiny slice of silicon](https://www.a1k0n.net/2025/01/10/tiny-tapeout-donut.html)
@@ -16,6 +14,7 @@
 * [2025-01-12, 15:53:02](https://news.ycombinator.com/item?id=42674385) - [Mac Mini G4 – The best « classic » Macintosh for retro-gaming?](https://www.xtof.info/MacMiniG4-the-best-classic-macintosh-for-retrogaming.html)
 * [2025-01-12, 15:17:45](https://news.ycombinator.com/item?id=42674153) - [I spent 18 years in the Linux console](https://eugene-andrienko.com/en/it/2024/01/02/life-in-console)
 * [2025-01-12, 15:13:14](https://news.ycombinator.com/item?id=42674116) - [Bad Apple but it's 6,500 regexes that I search for in Vim](https://eieio.games/blog/bad-apple-with-regex-in-vim/)
+* [2025-01-12, 14:03:15](https://news.ycombinator.com/item?id=42673596) - [The mistake of yearning for the 'friendly' online world of 20 years ago](https://english.elpais.com/lifestyle/2025-01-07/the-internet-hasnt-made-us-bad-we-were-already-like-that-the-mistake-of-yearning-for-the-friendly-online-world-of-20-years-ago.html)
 * [2025-01-12, 12:02:18](https://news.ycombinator.com/item?id=42672960) - [Harper (YC W25) Is Hiring #1 Founding Growth/Operations Lead](https://www.ycombinator.com/companies/harper/jobs/VUe2K9r-founding-operations-lead)
 * [2025-01-12, 11:18:07](https://news.ycombinator.com/item?id=42672758) - [Rewilding the Self](https://worldsensorium.com/rewilding-the-self/)
 * [2025-01-12, 11:17:03](https://news.ycombinator.com/item?id=42672752) - [Physicists who want to ditch dark energy](https://nautil.us/these-physicists-want-to-ditch-dark-energy-1177085/)
@@ -30,6 +29,7 @@
 * [2025-01-09, 19:40:54](https://news.ycombinator.com/item?id=42649139) - [Why Rust nextest is process-per-test](https://sunshowers.io/posts/nextest-process-per-test/)
 * [2025-01-09, 07:24:43](https://news.ycombinator.com/item?id=42642625) - [Link Blog in a Static Site](http://rednafi.com/misc/link_blog/)
 * [2025-01-09, 00:29:18](https://news.ycombinator.com/item?id=42640207) - [How hucksters are manipulating Google to promote shady Chrome extensions](https://arstechnica.com/security/2025/01/googles-chrome-web-store-has-a-serious-spam-problem-promoting-shady-extensions/)
+* [2025-01-06, 10:42:35](https://news.ycombinator.com/item?id=42609436) - [Show HN: wonderful.dev – social platform for programmers](https://wonderful.dev)
 
 ## [Archives](archives/index.md)
 
