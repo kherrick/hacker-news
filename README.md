@@ -1,13 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-12, 15:13:14](https://news.ycombinator.com/item?id=42674116) - [Bad Apple but it's 6,500 regexes that I search for in Vim](https://eieio.games/blog/bad-apple-with-regex-in-vim/)
-* [2025-01-12, 14:26:38](https://news.ycombinator.com/item?id=42673762) - [US Supreme Court curbed public scrutiny as it boosted security before Roe ruling](https://www.theguardian.com/us-news/2025/jan/12/us-supreme-court-roe)
 * [2025-01-12, 14:03:15](https://news.ycombinator.com/item?id=42673596) - [The mistake of yearning for the 'friendly' online world of 20 years ago](https://english.elpais.com/lifestyle/2025-01-07/the-internet-hasnt-made-us-bad-we-were-already-like-that-the-mistake-of-yearning-for-the-friendly-online-world-of-20-years-ago.html)
 * [2025-01-12, 12:27:16](https://news.ycombinator.com/item?id=42673090) - [HMD Key – A lightweight, affordable smartphone](https://www.hmd.com/en_int/press/hmd-key-press-release)
 * [2025-01-12, 12:02:18](https://news.ycombinator.com/item?id=42672960) - [Harper (YC W25) Is Hiring #1 Founding Growth/Operations Lead](https://www.ycombinator.com/companies/harper/jobs/VUe2K9r-founding-operations-lead)
 * [2025-01-12, 11:22:55](https://news.ycombinator.com/item?id=42672790) - [AI founders will learn the bitter lesson](https://lukaspetersson.com/blog/2025/bitter-vertical/)
 * [2025-01-12, 11:18:07](https://news.ycombinator.com/item?id=42672758) - [Rewilding the Self](https://worldsensorium.com/rewilding-the-self/)
-* [2025-01-12, 11:17:03](https://news.ycombinator.com/item?id=42672752) - [Physicists Want to Ditch Dark Energy](https://nautil.us/these-physicists-want-to-ditch-dark-energy-1177085/)
 * [2025-01-12, 11:01:55](https://news.ycombinator.com/item?id=42672675) - [Mullenweg Shuts Down WordPress Sustainability Team, Igniting Backlash](https://www.therepository.email/mullenweg-shuts-down-wordpress-sustainability-team-igniting-backlash)
 * [2025-01-12, 05:26:54](https://news.ycombinator.com/item?id=42671512) - [The Illustrated Guide to a PhD](https://matt.might.net/articles/phd-school-in-pictures/?_nospa=true)
 * [2025-01-12, 05:17:50](https://news.ycombinator.com/item?id=42671472) - [Kenney.nl: Free Game Assets](https://www.kenney.nl/)
@@ -25,11 +23,13 @@
 * [2025-01-09, 21:13:21](https://news.ycombinator.com/item?id=42649837) - [ZType – Typing Game](https://zty.pe/)
 * [2025-01-09, 19:40:54](https://news.ycombinator.com/item?id=42649139) - [Why Rust nextest is process-per-test](https://sunshowers.io/posts/nextest-process-per-test/)
 * [2025-01-09, 17:11:51](https://news.ycombinator.com/item?id=42647668) - [Show HN: Ultra-portable Gantt chart tool for very regulated environments](https://github.com/aerugo/simplegantt)
+* [2025-01-09, 14:25:21](https://news.ycombinator.com/item?id=42645859) - [The Tsunami of Burnout Few See](http://charleshughsmith.blogspot.com/2025/01/i-quit-tsunami-of-burnout-few-see.html)
 * [2025-01-09, 12:04:57](https://news.ycombinator.com/item?id=42644426) - [Running Animations Without Keyframes](https://css-tip.com/animation-without-keyframes/)
 * [2025-01-09, 08:12:57](https://news.ycombinator.com/item?id=42642971) - [Phi 4 available on Ollama](https://ollama.com/library/phi4)
 * [2025-01-09, 01:52:29](https://news.ycombinator.com/item?id=42640755) - [Who would have won the Simon-Ehrlich bet over different decades?](https://ourworldindata.org/simon-ehrlich-bet)
 * [2025-01-09, 00:29:18](https://news.ycombinator.com/item?id=42640207) - [How hucksters are manipulating Google to promote shady Chrome extensions](https://arstechnica.com/security/2025/01/googles-chrome-web-store-has-a-serious-spam-problem-promoting-shady-extensions/)
 * [2025-01-09, 00:24:48](https://news.ycombinator.com/item?id=42640178) - [What is an invariant? (2023)](https://matklad.github.io/2023/10/06/what-is-an-invariant.html)
+* [2025-01-08, 06:21:57](https://news.ycombinator.com/item?id=42631557) - [AI in the 80s? How a Simple Animal Guessing Game Pioneered Machine Learning](https://medium.com/@alexey.medvecky/ai-in-the-80s-how-a-simple-animal-guessing-game-pioneered-machine-learning-before-it-was-cool-2f4a63dfe762)
 
 ## [Archives](archives/index.md)
 
