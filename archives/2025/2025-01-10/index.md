@@ -34,6 +34,7 @@
 * [2025-01-10, 15:39:11](https://news.ycombinator.com/item?id=42656559) - [Web apps built with Ruby on Rails](https://weuserails.com/)
 * [2025-01-10, 15:36:17](https://news.ycombinator.com/item?id=42656529) - [Experiments with Byte Matrix Multiplication](https://github.com/serge-sans-paille/i8mm)
 * [2025-01-10, 15:25:42](https://news.ycombinator.com/item?id=42656433) - [Formal Methods: Just Good Engineering Practice?](https://brooker.co.za/blog/2024/04/17/formal)
+* [2025-01-10, 15:21:19](https://news.ycombinator.com/item?id=42656383) - [I Sang Along with Peter Yarrow in 1972](https://www.wsj.com/opinion/i-sang-along-with-peter-yarrow-in-1972-folk-music-puff-the-magic-dragon-ccd5945c)
 * [2025-01-10, 15:04:29](https://news.ycombinator.com/item?id=42656188) - [I Program with LLMs](https://arstechnica.com/ai/2025/01/how-i-program-with-llms/)
 * [2025-01-10, 15:04:04](https://news.ycombinator.com/item?id=42656184) - [Ask HN: How to approach first days on a new job as a senior engineer?](https://news.ycombinator.com/item?id=42656184)
 * [2025-01-10, 14:34:34](https://news.ycombinator.com/item?id=42655870) - [I've Acquired a New Superpower](https://danielwirtz.com/blog/spot-the-difference-superpower)

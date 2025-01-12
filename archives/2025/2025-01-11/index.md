@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-01-11](index.md)
 
+* [2025-01-11, 23:20:10](https://news.ycombinator.com/item?id=42669754) - [Stop Trying to Schedule a Call with Me](https://matduggan.com/stop-trying-to-schedule-a-call-with-me/)
 * [2025-01-11, 23:02:07](https://news.ycombinator.com/item?id=42669670) - [Scanning ultrasound removes amyloid-β, restores memory in Alzheimer mouse model](https://www.science.org/doi/10.1126/scitranslmed.aaa2512?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
 * [2025-01-11, 22:58:22](https://news.ycombinator.com/item?id=42669637) - [Obvious Things C Should Do](https://twitter.com/WalterBright/status/1878209651306803406)
+* [2025-01-11, 21:42:50](https://news.ycombinator.com/item?id=42669143) - [JPMorgan Reportedly Ending Remote Work for More Than 300k Employees](https://www.forbes.com/sites/terinaallen/2025/01/09/jpmorgan-ending-remote-work-for-300000-employees-report/)
 * [2025-01-11, 21:30:04](https://news.ycombinator.com/item?id=42669065) - [Test if a number is even](https://ubuntuincident.wordpress.com/2025/01/11/test-if-a-number-is-even/)
 * [2025-01-11, 21:25:31](https://news.ycombinator.com/item?id=42669027) - [Why is every Bay Area event imposing Chatham House rules?](https://sfstandard.com/2025/01/11/chatham-house-rule-burnout/)
 * [2025-01-11, 21:20:12](https://news.ycombinator.com/item?id=42669006) - [FCC Proposes Cybersecurity Labeling Program for Smart Devices](https://www.fcc.gov/cybersecurity-certification-mark)
+* [2025-01-11, 21:11:06](https://news.ycombinator.com/item?id=42668953) - [Darkest and clearest skies at risk from industrial megaproject](https://www.eso.org/public/news/eso2501/)
 * [2025-01-11, 18:56:02](https://news.ycombinator.com/item?id=42668087) - [Civilian police oversight in Florida crumbles after new law kicks in](https://www.tampabay.com/news/florida-politics/2025/01/11/civilian-police-oversight-florida-crumbles-after-new-law-kicks/)
 * [2025-01-11, 18:31:29](https://news.ycombinator.com/item?id=42667902) - [Ford's electric Mach-E outsold the gas-powered Mustang in 2024](https://electrek.co/2025/01/09/fords-mach-e-ev-outsold-gas-mustang-first-time/)
 * [2025-01-11, 18:18:36](https://news.ycombinator.com/item?id=42667797) - [Map of California roads for cyclers (1895)](https://www.loc.gov/resource/g4361p.ct000092/?r=-0.628,0.425,1.749,0.902,0)

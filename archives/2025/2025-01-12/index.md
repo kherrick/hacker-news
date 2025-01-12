@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-01-12](index.md)
+
+* [2025-01-12, 00:33:38](https://news.ycombinator.com/item?id=42670132) - [Adobe Lightroom's AI Remove feature added a Bitcoin to bird in flight photo](https://bsky.app/profile/matthewraifman.bsky.social/post/3lfaqbygva22j)
