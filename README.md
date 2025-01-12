@@ -20,6 +20,7 @@
 * [2025-01-10, 12:55:50](https://news.ycombinator.com/item?id=42655207) - [Innovative ways to float skyscraper-sized wind turbines](https://mena-forum.com/innovative-float-skyscraper-sized-wind-turbines/)
 * [2025-01-10, 11:57:06](https://news.ycombinator.com/item?id=42654891) - [Decentralized Syndication – The Missing Internet Protocol](https://tautvilas.medium.com/decentralized-syndication-the-missing-internet-protocol-209cb7bd6341)
 * [2025-01-10, 08:24:10](https://news.ycombinator.com/item?id=42653744) - [How outdated information hides in LLM token generation probabilities](https://blog.anj.ai/2025/01/llm-token-generation-probabilities.html)
+* [2025-01-09, 21:13:21](https://news.ycombinator.com/item?id=42649837) - [ZType Tying Game](https://zty.pe/)
 * [2025-01-09, 14:25:21](https://news.ycombinator.com/item?id=42645859) - [The Tsunami of Burnout Few See](http://charleshughsmith.blogspot.com/2025/01/i-quit-tsunami-of-burnout-few-see.html)
 * [2025-01-09, 08:12:57](https://news.ycombinator.com/item?id=42642971) - [Phi 4 available on Ollama](https://ollama.com/library/phi4)
 * [2025-01-09, 01:52:29](https://news.ycombinator.com/item?id=42640755) - [Who would have won the Simon-Ehrlich bet over different decades?](https://ourworldindata.org/simon-ehrlich-bet)
@@ -29,7 +30,6 @@
 * [2025-01-08, 04:22:20](https://news.ycombinator.com/item?id=42630880) - [Wends of Texas](https://en.wikipedia.org/wiki/Wends_of_Texas)
 * [2025-01-07, 22:10:32](https://news.ycombinator.com/item?id=42628248) - [The engineering behind the San Antonio River Walk](https://practical.engineering/blog/2025/1/7/the-hidden-engineering-behind-texass-top-tourist-attraction)
 * [2025-01-07, 14:20:55](https://news.ycombinator.com/item?id=42622554) - [Picasso was suspected of stealing the 'Mona Lisa'](https://www.newyorker.com/magazine/2025/01/13/when-picasso-was-arrested-for-stealing-the-mona-lisa)
-* [2025-01-07, 02:42:38](https://news.ycombinator.com/item?id=42618595) - [Jensen Huang keynote at CES 2025 [video]](https://www.youtube.com/watch?v=k82RwXqZHY8)
 
 ## [Archives](archives/index.md)
 
