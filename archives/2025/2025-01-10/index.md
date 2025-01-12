@@ -32,6 +32,7 @@
 * [2025-01-10, 17:24:32](https://news.ycombinator.com/item?id=42657692) - [Starlink is now cheaper than leading internet provider in some African countries](https://restofworld.org/2025/starlink-cheaper-internet-africa/)
 * [2025-01-10, 17:16:12](https://news.ycombinator.com/item?id=42657591) - [Getting silly with C, part (void*)2](https://lcamtuf.substack.com/p/getting-silly-with-c-part-void2)
 * [2025-01-10, 16:39:01](https://news.ycombinator.com/item?id=42657208) - [Ships must practice celestial navigation](https://www.usni.org/magazines/proceedings/2025/january/ships-must-practice-celestial-navigation)
+* [2025-01-10, 16:02:23](https://news.ycombinator.com/item?id=42656810) - [A Racket alternative to HTML Tidy](https://joeldueck.com/what-about/html-printer/index.html)
 * [2025-01-10, 15:53:07](https://news.ycombinator.com/item?id=42656711) - [Finland's zero homeless strategy (2021)](https://oecdecoscope.blog/2021/12/13/finlands-zero-homeless-strategy-lessons-from-a-success-story/)
 * [2025-01-10, 15:39:11](https://news.ycombinator.com/item?id=42656559) - [Web apps built with Ruby on Rails](https://weuserails.com/)
 * [2025-01-10, 15:36:17](https://news.ycombinator.com/item?id=42656529) - [Experiments with Byte Matrix Multiplication](https://github.com/serge-sans-paille/i8mm)
