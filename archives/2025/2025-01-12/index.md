@@ -6,8 +6,10 @@
 
 * [2025-01-12, 19:46:08](https://news.ycombinator.com/item?id=42676274) - [The 46 Best Pens for 2025: Gel, Ballpoint, Rollerball, and Fountain Pens](https://www.jetpens.com/blog/The-46-Best-Pens-for-2025-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974)
 * [2025-01-12, 19:27:16](https://news.ycombinator.com/item?id=42676125) - [Study links sugar-filled drinks to millions of heart disease and diabetes cases](https://bgr.com/science/study-links-sugar-filled-drinks-to-millions-of-heart-disease-and-diabetes-cases-each-year/)
+* [2025-01-12, 19:27:07](https://news.ycombinator.com/item?id=42676123) - [James Shore: The Best Product Engineering Org in the World](https://www.jamesshore.com/v2/blog/2025/the-best-product-engineering-org-in-the-world)
 * [2025-01-12, 19:01:08](https://news.ycombinator.com/item?id=42675882) - [Snake Game in 56 Bytes](https://github.com/donno2048/snake)
 * [2025-01-12, 19:00:10](https://news.ycombinator.com/item?id=42675877) - [The Story of Irish Hip Hop](https://www.redbull.com/ie-en/projects/origins-irish-hip-hop-film)
+* [2025-01-12, 18:43:05](https://news.ycombinator.com/item?id=42675725) - [Tabby: Self-hosted AI coding assistant](https://github.com/TabbyML/tabby)
 * [2025-01-12, 18:22:38](https://news.ycombinator.com/item?id=42675538) - [Lead and cadmium found in muscle-building protein powders, report says](https://www.wqow.com/health-watch/lead-and-cadmium-found-in-muscle-building-protein-powders-report-says/article_882063dc-8b86-5437-ac52-49530da83de0.html)
 * [2025-01-12, 18:11:12](https://news.ycombinator.com/item?id=42675444) - [New Worker Uprising: Employees Are Bypassing HR, Sharing on LinkedIn](https://www.businessinsider.com/new-worker-uprising-hr-out-toxicity-bullying-linkedin-in-2025-1)
 * [2025-01-12, 18:06:26](https://news.ycombinator.com/item?id=42675419) - [Why the Getty Center Is the Safest Place for Art During a Fire (2019)](https://www.getty.edu/news/why-the-getty-center-is-the-safest-place-for-art-during-a-fire/)

@@ -2,11 +2,12 @@
 
 * [2025-01-12, 19:46:08](https://news.ycombinator.com/item?id=42676274) - [The 46 Best Pens for 2025: Gel, Ballpoint, Rollerball, and Fountain Pens](https://www.jetpens.com/blog/The-46-Best-Pens-for-2025-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974)
 * [2025-01-12, 19:27:16](https://news.ycombinator.com/item?id=42676125) - [Study links sugar-filled drinks to millions of heart disease and diabetes cases](https://bgr.com/science/study-links-sugar-filled-drinks-to-millions-of-heart-disease-and-diabetes-cases-each-year/)
+* [2025-01-12, 19:27:07](https://news.ycombinator.com/item?id=42676123) - [James Shore: The Best Product Engineering Org in the World](https://www.jamesshore.com/v2/blog/2025/the-best-product-engineering-org-in-the-world)
+* [2025-01-12, 18:43:05](https://news.ycombinator.com/item?id=42675725) - [Tabby: Self-hosted AI coding assistant](https://github.com/TabbyML/tabby)
 * [2025-01-12, 18:22:38](https://news.ycombinator.com/item?id=42675538) - [Lead and cadmium found in muscle-building protein powders, report says](https://www.wqow.com/health-watch/lead-and-cadmium-found-in-muscle-building-protein-powders-report-says/article_882063dc-8b86-5437-ac52-49530da83de0.html)
 * [2025-01-12, 18:11:12](https://news.ycombinator.com/item?id=42675444) - [Employees are bypassing HR, sharing on LinkedIn](https://www.businessinsider.com/new-worker-uprising-hr-out-toxicity-bullying-linkedin-in-2025-1)
 * [2025-01-12, 18:06:26](https://news.ycombinator.com/item?id=42675419) - [Why the Getty Center Is the Safest Place for Art During a Fire (2019)](https://www.getty.edu/news/why-the-getty-center-is-the-safest-place-for-art-during-a-fire/)
 * [2025-01-12, 17:47:03](https://news.ycombinator.com/item?id=42675274) - [The Case for Letting Malibu Burn (1995)](https://longreads.com/2018/12/04/the-case-for-letting-malibu-burn/)
-* [2025-01-12, 17:38:17](https://news.ycombinator.com/item?id=42675219) - [Great things about Rust that aren't just performance](https://ntietz.com/blog/great-things-about-rust-beyond-perf/)
 * [2025-01-12, 17:36:45](https://news.ycombinator.com/item?id=42675208) - [From ASCII to ASIC: Porting donut.c to a tiny slice of silicon](https://www.a1k0n.net/2025/01/10/tiny-tapeout-donut.html)
 * [2025-01-12, 16:56:57](https://news.ycombinator.com/item?id=42674888) - [I will never need to buy a new computer again](https://82mhz.net/posts/2025/01/i-will-never-need-to-buy-a-new-computer-again/)
 * [2025-01-12, 16:56:16](https://news.ycombinator.com/item?id=42674882) - [Ripping Sega System 16 Sprites and Palettes: Brief Guide (2021)](http://reassembler.blogspot.com/)
@@ -29,7 +30,6 @@
 * [2025-01-09, 12:04:57](https://news.ycombinator.com/item?id=42644426) - [Running Animations Without Keyframes](https://css-tip.com/animation-without-keyframes/)
 * [2025-01-09, 07:24:43](https://news.ycombinator.com/item?id=42642625) - [Link Blog in a Static Site](http://rednafi.com/misc/link_blog/)
 * [2025-01-09, 00:29:18](https://news.ycombinator.com/item?id=42640207) - [How hucksters are manipulating Google to promote shady Chrome extensions](https://arstechnica.com/security/2025/01/googles-chrome-web-store-has-a-serious-spam-problem-promoting-shady-extensions/)
-* [2025-01-09, 00:24:48](https://news.ycombinator.com/item?id=42640178) - [What is an invariant? (2023)](https://matklad.github.io/2023/10/06/what-is-an-invariant.html)
 
 ## [Archives](archives/index.md)
 
