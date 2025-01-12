@@ -27,6 +27,7 @@
 * [2025-01-10, 18:09:51](https://news.ycombinator.com/item?id=42658167) - [Show HN: KeyTik: The All-in-One Input Automation Tool](https://keytik.com/)
 * [2025-01-10, 17:48:29](https://news.ycombinator.com/item?id=42657907) - [Review: Reentry, by Eric Berger](https://www.thepsmiths.com/p/review-reentry-by-eric-berger)
 * [2025-01-10, 17:48:04](https://news.ycombinator.com/item?id=42657901) - [Meta's memo to employees rolling back DEI programs](https://www.axios.com/2025/01/10/meta-dei-memo-employees-programs)
+* [2025-01-10, 17:29:32](https://news.ycombinator.com/item?id=42657744) - [What Dr. Ruth Left Behind](https://www.nytimes.com/2025/01/09/arts/dr-ruth-kinsey-sex.html)
 * [2025-01-10, 17:24:32](https://news.ycombinator.com/item?id=42657692) - [Starlink is now cheaper than leading internet provider in some African countries](https://restofworld.org/2025/starlink-cheaper-internet-africa/)
 * [2025-01-10, 17:16:12](https://news.ycombinator.com/item?id=42657591) - [Getting silly with C, part (void*)2](https://lcamtuf.substack.com/p/getting-silly-with-c-part-void2)
 * [2025-01-10, 16:39:01](https://news.ycombinator.com/item?id=42657208) - [Ships must practice celestial navigation](https://www.usni.org/magazines/proceedings/2025/january/ships-must-practice-celestial-navigation)
