@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-01-12](index.md)
 
+* [2025-01-12, 12:02:18](https://news.ycombinator.com/item?id=42672960) - [Harper (YC W25) Is Hiring #1 Founding Growth/Operations Lead](https://www.ycombinator.com/companies/harper/jobs/VUe2K9r-founding-operations-lead)
 * [2025-01-12, 11:22:55](https://news.ycombinator.com/item?id=42672790) - [AI founders will learn The Bitter Lesson](https://lukaspetersson.com/blog/2025/bitter-vertical/)
+* [2025-01-12, 11:18:07](https://news.ycombinator.com/item?id=42672758) - [Rewilding the Self](https://worldsensorium.com/rewilding-the-self/)
+* [2025-01-12, 11:17:21](https://news.ycombinator.com/item?id=42672755) - [Flynn Effect](https://en.wikipedia.org/wiki/Flynn_effect)
 * [2025-01-12, 10:43:06](https://news.ycombinator.com/item?id=42672605) - [All-Band Receiver Lets You Listen to All the Radio at Once](https://hackaday.com/2025/01/09/all-band-receiver-lets-you-listen-to-all-the-radio-at-once/)
 * [2025-01-12, 10:07:43](https://news.ycombinator.com/item?id=42672477) - [Asking rents skyrocket as LA fires destroy homes](https://laist.com/news/housing-homelessness/los-angeles-palisades-fire-housing-rent-price-gouging-law-california-zillow-listing)
 * [2025-01-12, 09:23:41](https://news.ycombinator.com/item?id=42672304) - [What other communities do you use apart from HN?](https://news.ycombinator.com/item?id=42672304)
