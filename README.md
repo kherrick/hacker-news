@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-12, 21:10:34](https://news.ycombinator.com/item?id=42676974) - [Why this longtime Aspen ski executive thinks corporate sustainability is a scam](https://www.cpr.org/2025/01/12/auden-schendler-terrible-beauty-ski-corporate-sustainability/)
+* [2025-01-12, 21:04:56](https://news.ycombinator.com/item?id=42676928) - [Microsoft Bob: Microsoft's biggest flop of the 1990s](https://dfarq.homeip.net/microsoft-bob-microsofts-biggest-flop-of-the-199)
 * [2025-01-12, 20:06:49](https://news.ycombinator.com/item?id=42676432) - [Uv's killer feature is pulling in local dependencies](https://valatka.dev/2025/01/12/on-killer-uv-feature.html)
 * [2025-01-12, 19:46:08](https://news.ycombinator.com/item?id=42676274) - [Best Pens for 2025](https://www.jetpens.com/blog/The-46-Best-Pens-for-2025-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974)
 * [2025-01-12, 19:27:16](https://news.ycombinator.com/item?id=42676125) - [Study links sugar-filled drinks to millions of heart disease and diabetes cases](https://bgr.com/science/study-links-sugar-filled-drinks-to-millions-of-heart-disease-and-diabetes-cases-each-year/)
@@ -25,11 +26,10 @@
 * [2025-01-10, 11:57:06](https://news.ycombinator.com/item?id=42654891) - [Decentralized Syndication – The Missing Internet Protocol](http://tautvilas.lt/decentralized-syndication-the-missing-internet-protocol/)
 * [2025-01-10, 07:10:17](https://news.ycombinator.com/item?id=42653370) - [Narcolepsy is weird but I didn't notice](https://www.fortressofdoors.com/narcolepsy-is-weird-but-i-didnt-notice/)
 * [2025-01-09, 23:01:21](https://news.ycombinator.com/item?id=42650732) - [Pushing the whole company into the past on purpose](https://rachelbythebay.com/w/2025/01/09/lag/)
+* [2025-01-09, 22:47:44](https://news.ycombinator.com/item?id=42650644) - [Norms-Based Intellectual Property Systems: The Case of French Chefs(2008)](https://pubsonline.informs.org/doi/abs/10.1287/orsc.1070.0314?journalCode=orsc)
 * [2025-01-09, 22:25:05](https://news.ycombinator.com/item?id=42650476) - [Visualizing Joyce's Ulysses: \"Sirens\" as a Graphic Score](https://emilyfuhrman.co/projects/joyce-ulysses-sirens-redux.html?source=list)
 * [2025-01-09, 19:40:54](https://news.ycombinator.com/item?id=42649139) - [Why Rust nextest is process-per-test](https://sunshowers.io/posts/nextest-process-per-test/)
 * [2025-01-09, 07:24:43](https://news.ycombinator.com/item?id=42642625) - [Link Blog in a Static Site](http://rednafi.com/misc/link_blog/)
-* [2025-01-09, 00:29:18](https://news.ycombinator.com/item?id=42640207) - [How hucksters are manipulating Google to promote shady Chrome extensions](https://arstechnica.com/security/2025/01/googles-chrome-web-store-has-a-serious-spam-problem-promoting-shady-extensions/)
-* [2025-01-06, 10:42:35](https://news.ycombinator.com/item?id=42609436) - [Show HN: wonderful.dev – social platform for programmers](https://wonderful.dev)
 
 ## [Archives](archives/index.md)
 
