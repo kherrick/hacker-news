@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-12, 21:10:34](https://news.ycombinator.com/item?id=42676974) - [Why this longtime Aspen ski executive thinks corporate sustainability is a scam](https://www.cpr.org/2025/01/12/auden-schendler-terrible-beauty-ski-corporate-sustainability/)
+* [2025-01-12, 21:10:34](https://news.ycombinator.com/item?id=42676974) - [Longtime Aspen ski executive thinks corporate sustainability is a scam](https://www.cpr.org/2025/01/12/auden-schendler-terrible-beauty-ski-corporate-sustainability/)
 * [2025-01-12, 21:04:56](https://news.ycombinator.com/item?id=42676928) - [Microsoft Bob: Microsoft's biggest flop of the 1990s](https://dfarq.homeip.net/microsoft-bob-microsofts-biggest-flop-of-the-199)
 * [2025-01-12, 20:18:43](https://news.ycombinator.com/item?id=42676529) - [The Canva outage: another tale of saturation and resilience](https://surfingcomplexity.blog/2024/12/21/the-canva-outage-another-tale-of-saturation-and-resilience/)
 * [2025-01-12, 20:06:49](https://news.ycombinator.com/item?id=42676432) - [Uv's killer feature is pulling in local dependencies](https://valatka.dev/2025/01/12/on-killer-uv-feature.html)
@@ -9,6 +9,7 @@
 * [2025-01-12, 19:27:07](https://news.ycombinator.com/item?id=42676123) - [James Shore: The Best Product Engineering Org in the World](https://www.jamesshore.com/v2/blog/2025/the-best-product-engineering-org-in-the-world)
 * [2025-01-12, 19:01:08](https://news.ycombinator.com/item?id=42675882) - [Snake Game in 56 Bytes](https://github.com/donno2048/snake)
 * [2025-01-12, 18:43:05](https://news.ycombinator.com/item?id=42675725) - [Tabby: Self-hosted AI coding assistant](https://github.com/TabbyML/tabby)
+* [2025-01-12, 18:06:26](https://news.ycombinator.com/item?id=42675419) - [Why the Getty Center Is the Safest Place for Art During a Fire (2019)](https://www.getty.edu/news/why-the-getty-center-is-the-safest-place-for-art-during-a-fire/)
 * [2025-01-12, 17:36:45](https://news.ycombinator.com/item?id=42675208) - [From ASCII to ASIC: Porting donut.c to a tiny slice of silicon](https://www.a1k0n.net/2025/01/10/tiny-tapeout-donut.html)
 * [2025-01-12, 16:56:16](https://news.ycombinator.com/item?id=42674882) - [Ripping Sega System 16 Sprites and Palettes: Brief Guide (2021)](http://reassembler.blogspot.com/)
 * [2025-01-12, 16:01:00](https://news.ycombinator.com/item?id=42674455) - [Backdooring Your Backdoors – Another $20 Domain, More Governments](https://labs.watchtowr.com/more-governments-backdoors-in-your-backdoors/)
@@ -22,7 +23,6 @@
 * [2025-01-12, 10:39:42](https://news.ycombinator.com/item?id=42672592) - [Great CPAN modules released last week](https://niceperl.blogspot.com/2025/01/dxxx-20-great-cpan-modules-released.html)
 * [2025-01-12, 05:17:50](https://news.ycombinator.com/item?id=42671472) - [Kenney.nl: Free Game Assets](https://www.kenney.nl/)
 * [2025-01-12, 03:38:25](https://news.ycombinator.com/item?id=42671105) - [Why I Chose Common Lisp](https://blog.djhaskin.com/blog/why-i-chose-common-lisp/)
-* [2025-01-10, 16:02:23](https://news.ycombinator.com/item?id=42656810) - [A Racket alternative to HTML Tidy](https://joeldueck.com/what-about/html-printer/index.html)
 * [2025-01-10, 11:57:06](https://news.ycombinator.com/item?id=42654891) - [Decentralized Syndication – The Missing Internet Protocol](http://tautvilas.lt/decentralized-syndication-the-missing-internet-protocol/)
 * [2025-01-10, 07:10:17](https://news.ycombinator.com/item?id=42653370) - [Narcolepsy is weird but I didn't notice](https://www.fortressofdoors.com/narcolepsy-is-weird-but-i-didnt-notice/)
 * [2025-01-09, 23:01:21](https://news.ycombinator.com/item?id=42650732) - [Pushing the whole company into the past on purpose](https://rachelbythebay.com/w/2025/01/09/lag/)
