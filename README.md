@@ -4,6 +4,7 @@
 * [2025-01-12, 12:02:18](https://news.ycombinator.com/item?id=42672960) - [Harper (YC W25) Is Hiring #1 Founding Growth/Operations Lead](https://www.ycombinator.com/companies/harper/jobs/VUe2K9r-founding-operations-lead)
 * [2025-01-12, 11:22:55](https://news.ycombinator.com/item?id=42672790) - [AI founders will learn The Bitter Lesson](https://lukaspetersson.com/blog/2025/bitter-vertical/)
 * [2025-01-12, 11:18:07](https://news.ycombinator.com/item?id=42672758) - [Rewilding the Self](https://worldsensorium.com/rewilding-the-self/)
+* [2025-01-12, 11:17:03](https://news.ycombinator.com/item?id=42672752) - [Physicists Want to Ditch Dark Energy](https://nautil.us/these-physicists-want-to-ditch-dark-energy-1177085/)
 * [2025-01-12, 11:01:55](https://news.ycombinator.com/item?id=42672675) - [Mullenweg Shuts Down WordPress Sustainability Team, Igniting Backlash](https://www.therepository.email/mullenweg-shuts-down-wordpress-sustainability-team-igniting-backlash)
 * [2025-01-12, 10:43:06](https://news.ycombinator.com/item?id=42672605) - [All-Band Receiver Lets You Listen to All the Radio at Once](https://hackaday.com/2025/01/09/all-band-receiver-lets-you-listen-to-all-the-radio-at-once/)
 * [2025-01-12, 05:26:54](https://news.ycombinator.com/item?id=42671512) - [The Illustrated Guide to a PhD](https://matt.might.net/articles/phd-school-in-pictures/?_nospa=true)
@@ -29,7 +30,6 @@
 * [2025-01-09, 00:24:48](https://news.ycombinator.com/item?id=42640178) - [What Is an Invariant?](https://matklad.github.io/2023/10/06/what-is-an-invariant.html)
 * [2025-01-08, 06:21:57](https://news.ycombinator.com/item?id=42631557) - [AI in the 80s? How a Simple Animal Guessing Game Pioneered Machine Learning](https://medium.com/@alexey.medvecky/ai-in-the-80s-how-a-simple-animal-guessing-game-pioneered-machine-learning-before-it-was-cool-2f4a63dfe762)
 * [2025-01-07, 22:10:32](https://news.ycombinator.com/item?id=42628248) - [The engineering behind the San Antonio River Walk](https://practical.engineering/blog/2025/1/7/the-hidden-engineering-behind-texass-top-tourist-attraction)
-* [2025-01-07, 14:20:55](https://news.ycombinator.com/item?id=42622554) - [Picasso was suspected of stealing the 'Mona Lisa'](https://www.newyorker.com/magazine/2025/01/13/when-picasso-was-arrested-for-stealing-the-mona-lisa)
 
 ## [Archives](archives/index.md)
 
