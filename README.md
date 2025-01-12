@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-12, 10:43:06](https://news.ycombinator.com/item?id=42672605) - [All-Band Receiver Lets You Listen to All the Radio at Once](https://hackaday.com/2025/01/09/all-band-receiver-lets-you-listen-to-all-the-radio-at-once/)
-* [2025-01-12, 10:07:43](https://news.ycombinator.com/item?id=42672477) - [Asking rents skyrocket as LA fires destroy homes](https://laist.com/news/housing-homelessness/los-angeles-palisades-fire-housing-rent-price-gouging-law-california-zillow-listing)
 * [2025-01-12, 09:23:41](https://news.ycombinator.com/item?id=42672304) - [What other communities do you use apart from HN?](https://news.ycombinator.com/item?id=42672304)
 * [2025-01-12, 07:00:02](https://news.ycombinator.com/item?id=42671781) - [Yhangry (YC W22) Is Hiring Senior Engineers](https://www.ycombinator.com/companies/yhangry/jobs/JiN1myL-senior-full-stack-engineer)
 * [2025-01-12, 05:26:54](https://news.ycombinator.com/item?id=42671512) - [The Illustrated Guide to a PhD](https://matt.might.net/articles/phd-school-in-pictures/?_nospa=true)
@@ -18,6 +17,7 @@
 * [2025-01-11, 12:14:34](https://news.ycombinator.com/item?id=42665367) - [Track your devices via Apple FindMy network in Go/TinyGo](https://github.com/hybridgroup/go-haystack)
 * [2025-01-11, 10:35:54](https://news.ycombinator.com/item?id=42664893) - [Ingrid Daubechies awarded National Medal of Science](https://today.duke.edu/2025/01/ingrid-daubechies-awarded-national-medal-science)
 * [2025-01-10, 22:11:11](https://news.ycombinator.com/item?id=42660848) - [Cannonball: An enhanced OutRun engine](https://github.com/djyt/cannonball)
+* [2025-01-10, 21:08:42](https://news.ycombinator.com/item?id=42660255) - [Show HN: 3D Terrain simulation for hiking, skiing etc.](https://github.com/r-follador/CubeTrek)
 * [2025-01-10, 17:29:32](https://news.ycombinator.com/item?id=42657744) - [What Dr. Ruth Left Behind](https://www.nytimes.com/2025/01/09/arts/dr-ruth-kinsey-sex.html)
 * [2025-01-10, 12:55:50](https://news.ycombinator.com/item?id=42655207) - [Innovative ways to float skyscraper-sized wind turbines](https://mena-forum.com/innovative-float-skyscraper-sized-wind-turbines/)
 * [2025-01-10, 11:57:06](https://news.ycombinator.com/item?id=42654891) - [Decentralized Syndication – The Missing Internet Protocol](https://tautvilas.medium.com/decentralized-syndication-the-missing-internet-protocol-209cb7bd6341)
