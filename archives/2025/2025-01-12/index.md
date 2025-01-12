@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-01-12](index.md)
 
+* [2025-01-12, 17:43:31](https://news.ycombinator.com/item?id=42675251) - [LA Renters Hit with Price Gouging During Wildfire Chaos](https://www.newsweek.com/la-renters-pride-gouging-los-angeles-wildfires-2013645)
 * [2025-01-12, 17:38:17](https://news.ycombinator.com/item?id=42675219) - [Great things about Rust that aren't just performance](https://ntietz.com/blog/great-things-about-rust-beyond-perf/)
 * [2025-01-12, 17:14:37](https://news.ycombinator.com/item?id=42675025) - [It's time to abandon the cargo cult metaphor](https://www.righto.com/2025/01/its-time-to-abandon-cargo-cult-metaphor.html)
 * [2025-01-12, 16:56:57](https://news.ycombinator.com/item?id=42674888) - [I will never need to buy a new computer again](https://82mhz.net/posts/2025/01/i-will-never-need-to-buy-a-new-computer-again/)
 * [2025-01-12, 16:56:16](https://news.ycombinator.com/item?id=42674882) - [Ripping Sega System 16 Sprites and Palettes: Brief Guide (2021)](http://reassembler.blogspot.com/)
 * [2025-01-12, 16:45:10](https://news.ycombinator.com/item?id=42674801) - [A well designed ski jump](https://www.dezeen.com/2025/01/08/bergisel-ski-jump-zaha-hadid-21st-century-architecture/)
+* [2025-01-12, 16:20:42](https://news.ycombinator.com/item?id=42674627) - [Show HN: SemHash – Fast Semantic Text Deduplication for Cleaner Datasets](https://github.com/MinishLab/semhash)
 * [2025-01-12, 16:01:00](https://news.ycombinator.com/item?id=42674455) - [Backdooring Your Backdoors – Another $20 Domain, More Governments](https://labs.watchtowr.com/more-governments-backdoors-in-your-backdoors/)
 * [2025-01-12, 15:59:04](https://news.ycombinator.com/item?id=42674440) - [Inconvenient truths about the fires burning in Los Angeles from two fire experts](https://www.latimes.com/california/story/2025-01-11/fire-experts-asses-los-angeles-blazes-amid-changing-times)
 * [2025-01-12, 15:57:40](https://news.ycombinator.com/item?id=42674427) - [Hobbyist Builds AI-Assisted Rifle Robot Using ChatGPT](https://www.zmescience.com/science/news-science/hobbyist-builds-ai-assisted-rifle/)
