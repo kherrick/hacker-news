@@ -9,7 +9,6 @@
 * [2025-01-12, 01:39:10](https://news.ycombinator.com/item?id=42670468) - [IP addresses through 2024](https://www.potaroo.net/ispcol/2025-01/addr2024.html)
 * [2025-01-11, 23:20:10](https://news.ycombinator.com/item?id=42669754) - [Stop Trying to Schedule a Call with Me](https://matduggan.com/stop-trying-to-schedule-a-call-with-me/)
 * [2025-01-11, 22:58:22](https://news.ycombinator.com/item?id=42669637) - [Obvious things C should do](https://www.digitalmars.com/articles/Cobvious.html)
-* [2025-01-11, 21:25:31](https://news.ycombinator.com/item?id=42669027) - [Chatham House Rule is suddenly everywhere in the Bay Area](https://sfstandard.com/2025/01/11/chatham-house-rule-burnout/)
 * [2025-01-11, 21:11:06](https://news.ycombinator.com/item?id=42668953) - [Darkest and clearest skies at risk from industrial megaproject](https://www.eso.org/public/news/eso2501/)
 * [2025-01-11, 18:18:36](https://news.ycombinator.com/item?id=42667797) - [Map of California roads for cyclers (1895)](https://www.loc.gov/resource/g4361p.ct000092/?r=-0.628,0.425,1.749,0.902,0)
 * [2025-01-11, 15:42:02](https://news.ycombinator.com/item?id=42666572) - [De-smarting the Marshall Uxbridge](https://tomscii.sig7.se/2025/01/De-smarting-the-Marshall-Uxbridge)
@@ -28,6 +27,7 @@
 * [2025-01-08, 23:15:25](https://news.ycombinator.com/item?id=42639581) - [A visual demo of Ruby's lazy enumerator](https://joyofrails.com/articles/simple-trick-to-understand-ruby-lazy-enumerator)
 * [2025-01-08, 06:21:57](https://news.ycombinator.com/item?id=42631557) - [AI in the 80s? How a Simple Animal Guessing Game Pioneered Machine Learning](https://medium.com/@alexey.medvecky/ai-in-the-80s-how-a-simple-animal-guessing-game-pioneered-machine-learning-before-it-was-cool-2f4a63dfe762)
 * [2025-01-08, 05:06:56](https://news.ycombinator.com/item?id=42631135) - [Pagecord: Publish your writing effortlessly from your inbox](https://github.com/lylo/pagecord)
+* [2025-01-08, 04:22:20](https://news.ycombinator.com/item?id=42630880) - [Wends of Texas](https://en.wikipedia.org/wiki/Wends_of_Texas)
 * [2025-01-07, 22:10:32](https://news.ycombinator.com/item?id=42628248) - [The engineering behind the San Antonio River Walk](https://practical.engineering/blog/2025/1/7/the-hidden-engineering-behind-texass-top-tourist-attraction)
 * [2025-01-07, 14:20:55](https://news.ycombinator.com/item?id=42622554) - [Picasso was suspected of stealing the 'Mona Lisa'](https://www.newyorker.com/magazine/2025/01/13/when-picasso-was-arrested-for-stealing-the-mona-lisa)
 
