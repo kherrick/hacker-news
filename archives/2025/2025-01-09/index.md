@@ -61,6 +61,7 @@
 * [2025-01-09, 08:16:13](https://news.ycombinator.com/item?id=42642992) - [Who would buy a Raspberry Pi for $120?](https://www.jeffgeerling.com/blog/2025/who-would-buy-raspberry-pi-120)
 * [2025-01-09, 08:12:57](https://news.ycombinator.com/item?id=42642971) - [Phi4 Available on Ollama](https://ollama.com/library/phi4)
 * [2025-01-09, 07:58:38](https://news.ycombinator.com/item?id=42642873) - [New 16GB Raspberry Pi 5 on sale now at $120](https://www.raspberrypi.com/news/16gb-raspberry-pi-5-on-sale-now-at-120/)
+* [2025-01-09, 07:24:43](https://news.ycombinator.com/item?id=42642625) - [Link Blog in a Static Site](http://rednafi.com/misc/link_blog/)
 * [2025-01-09, 07:00:17](https://news.ycombinator.com/item?id=42642393) - [AccessOwl (YC S22) is hiring a TypeScript Engineer in EU to connect 100s of SaaS](https://www.ycombinator.com/companies/accessowl/jobs/cziclTH-senior-software-engineer-typescript-focus)
 * [2025-01-09, 06:02:38](https://news.ycombinator.com/item?id=42642089) - [The Erasure of Luigi Mangione](https://substack.evancarroll.com/p/the-erasure-of-luigi-mangione)
 * [2025-01-09, 05:24:41](https://news.ycombinator.com/item?id=42641903) - [The stories of survivors of the Rwandan Genocide](https://www.positivenewsus.org/rwandan-stories-of-survivor.html)
