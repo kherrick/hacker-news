@@ -2,10 +2,10 @@
 
 * [2025-01-12, 19:27:16](https://news.ycombinator.com/item?id=42676125) - [Study links sugar-filled drinks to millions of heart disease and diabetes cases](https://bgr.com/science/study-links-sugar-filled-drinks-to-millions-of-heart-disease-and-diabetes-cases-each-year/)
 * [2025-01-12, 19:01:08](https://news.ycombinator.com/item?id=42675882) - [Snake Game in 56 Bytes](https://github.com/donno2048/snake)
-* [2025-01-12, 19:00:10](https://news.ycombinator.com/item?id=42675877) - [The Story of Irish Hip Hop](https://www.redbull.com/ie-en/projects/origins-irish-hip-hop-film)
 * [2025-01-12, 18:22:38](https://news.ycombinator.com/item?id=42675538) - [Lead and cadmium found in muscle-building protein powders, report says](https://www.wqow.com/health-watch/lead-and-cadmium-found-in-muscle-building-protein-powders-report-says/article_882063dc-8b86-5437-ac52-49530da83de0.html)
+* [2025-01-12, 18:11:12](https://news.ycombinator.com/item?id=42675444) - [Employees are bypassing HR, sharing on LinkedIn](https://www.businessinsider.com/new-worker-uprising-hr-out-toxicity-bullying-linkedin-in-2025-1)
 * [2025-01-12, 18:06:26](https://news.ycombinator.com/item?id=42675419) - [Why the Getty Center Is the Safest Place for Art During a Fire (2019)](https://www.getty.edu/news/why-the-getty-center-is-the-safest-place-for-art-during-a-fire/)
-* [2025-01-12, 17:47:03](https://news.ycombinator.com/item?id=42675274) - [The Case for Letting Malibu Burn (2018)](https://longreads.com/2018/12/04/the-case-for-letting-malibu-burn/)
+* [2025-01-12, 17:47:03](https://news.ycombinator.com/item?id=42675274) - [The Case for Letting Malibu Burn (1995)](https://longreads.com/2018/12/04/the-case-for-letting-malibu-burn/)
 * [2025-01-12, 17:38:17](https://news.ycombinator.com/item?id=42675219) - [Great things about Rust that aren't just performance](https://ntietz.com/blog/great-things-about-rust-beyond-perf/)
 * [2025-01-12, 17:36:45](https://news.ycombinator.com/item?id=42675208) - [From ASCII to ASIC: Porting donut.c to a tiny slice of silicon](https://www.a1k0n.net/2025/01/10/tiny-tapeout-donut.html)
 * [2025-01-12, 16:56:16](https://news.ycombinator.com/item?id=42674882) - [Ripping Sega System 16 Sprites and Palettes: Brief Guide (2021)](http://reassembler.blogspot.com/)
