@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-12, 04:47:25](https://news.ycombinator.com/item?id=42671351) - [What the US Pornhub 'ban' is really about](https://www.independent.co.uk/news/world/americas/pornhub-ban-block-age-verification-b2677710.html)
-* [2025-01-12, 03:55:31](https://news.ycombinator.com/item?id=42671162) - [Two Waves of Aging: How Midlife Biomolecular Shifts Accelerate Decline](https://gethealthspan.com/science/article/two-waves-of-aging-biomolecular-shifts-healthspan)
 * [2025-01-12, 03:38:25](https://news.ycombinator.com/item?id=42671105) - [Why I Chose Common Lisp](https://blog.djhaskin.com/blog/why-i-chose-common-lisp/)
 * [2025-01-12, 01:39:10](https://news.ycombinator.com/item?id=42670468) - [IP addresses through 2024](https://www.potaroo.net/ispcol/2025-01/addr2024.html)
 * [2025-01-12, 00:02:48](https://news.ycombinator.com/item?id=42669985) - [Contemplative LLMs](https://maharshi.bearblog.dev/contemplative-llms-prompt/)
@@ -24,6 +22,8 @@
 * [2025-01-09, 08:12:57](https://news.ycombinator.com/item?id=42642971) - [Phi 4 available on Ollama](https://ollama.com/library/phi4)
 * [2025-01-09, 01:52:29](https://news.ycombinator.com/item?id=42640755) - [Who would have won the Simon-Ehrlich bet over different decades?](https://ourworldindata.org/simon-ehrlich-bet)
 * [2025-01-08, 23:15:25](https://news.ycombinator.com/item?id=42639581) - [A visual demo of Ruby's lazy enumerator](https://joyofrails.com/articles/simple-trick-to-understand-ruby-lazy-enumerator)
+* [2025-01-08, 21:36:26](https://news.ycombinator.com/item?id=42638706) - [The Heroic Industry of the Brothers Grimm](https://hudsonreview.com/2024/11/the-heroic-industry-of-the-brothers-grimm/)
+* [2025-01-08, 19:37:29](https://news.ycombinator.com/item?id=42637653) - [A rare alignment of 7 planets is about to take place](https://www.sciencealert.com/a-rare-alignment-of-7-planets-is-about-to-take-place-in-the-sky)
 * [2025-01-08, 06:21:57](https://news.ycombinator.com/item?id=42631557) - [AI in the 80s? How a Simple Animal Guessing Game Pioneered Machine Learning](https://medium.com/@alexey.medvecky/ai-in-the-80s-how-a-simple-animal-guessing-game-pioneered-machine-learning-before-it-was-cool-2f4a63dfe762)
 * [2025-01-08, 05:06:56](https://news.ycombinator.com/item?id=42631135) - [Pagecord: Publish your writing effortlessly from your inbox](https://github.com/lylo/pagecord)
 * [2025-01-08, 04:22:20](https://news.ycombinator.com/item?id=42630880) - [Wends of Texas](https://en.wikipedia.org/wiki/Wends_of_Texas)
