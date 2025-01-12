@@ -14,6 +14,7 @@
 * [2025-01-10, 21:17:21](https://news.ycombinator.com/item?id=42660335) - [Phi-4 Bug Fixes](https://unsloth.ai/blog/phi4)
 * [2025-01-10, 21:08:42](https://news.ycombinator.com/item?id=42660255) - [Show HN: 3D Terrain simulation for hiking, skiing etc.](https://github.com/r-follador/CubeTrek)
 * [2025-01-10, 20:57:39](https://news.ycombinator.com/item?id=42660117) - [The War Against Headlight Brightness](https://theringer.com/2024/12/03/tech/headlight-brightness-cars-accidents)
+* [2025-01-10, 19:52:01](https://news.ycombinator.com/item?id=42659410) - [Reflections on 1 Year of (Trying to) Become Successful on YouTube](https://chaserensberger.com/blog/Reflections-On-1-Year-Of-Making-YouTube-Videos)
 * [2025-01-10, 19:41:15](https://news.ycombinator.com/item?id=42659302) - [WSJ: Americans Are Tipping Less Than They Have in Years](https://www.wsj.com/business/hospitality/restaurant-tip-fatigue-servers-covid-9e198567)
 * [2025-01-10, 19:28:43](https://news.ycombinator.com/item?id=42659141) - [A glowing ring of metal fell to Earth, and no one has any idea what it is](https://arstechnica.com/space/2025/01/a-glowing-ring-of-metal-fell-to-earth-and-no-one-has-any-idea-what-it-is/)
 * [2025-01-10, 19:26:46](https://news.ycombinator.com/item?id=42659111) - [Year old startup overloaded GitHub – Incident report](https://lovable.dev/news/github-incident-2025-01-02)

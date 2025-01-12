@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-01-12](index.md)
 
+* [2025-01-12, 15:59:04](https://news.ycombinator.com/item?id=42674440) - [Inconvenient truths about the fires burning in Los Angeles from two fire experts](https://www.latimes.com/california/story/2025-01-11/fire-experts-asses-los-angeles-blazes-amid-changing-times)
+* [2025-01-12, 15:57:40](https://news.ycombinator.com/item?id=42674427) - [Hobbyist Builds AI-Assisted Rifle Robot Using ChatGPT](https://www.zmescience.com/science/news-science/hobbyist-builds-ai-assisted-rifle/)
+* [2025-01-12, 15:17:45](https://news.ycombinator.com/item?id=42674153) - [I spent 18 years in the Linux console and I don't regret it](https://eugene-andrienko.com/en/it/2024/01/02/life-in-console)
 * [2025-01-12, 15:13:14](https://news.ycombinator.com/item?id=42674116) - [Bad Apple but it's 6,500 regexes that I search for in Vim](https://eieio.games/blog/bad-apple-with-regex-in-vim/)
 * [2025-01-12, 14:26:38](https://news.ycombinator.com/item?id=42673762) - [US Supreme Court curbed public scrutiny as it boosted security before Roe ruling](https://www.theguardian.com/us-news/2025/jan/12/us-supreme-court-roe)
 * [2025-01-12, 14:06:28](https://news.ycombinator.com/item?id=42673628) - [Zuckerberg approved training Llama on LibGen [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.415175/gov.uscourts.cand.415175.377.0_1.pdf)
