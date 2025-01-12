@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-12, 01:39:10",
+      "https://news.ycombinator.com/item?id=42670468"
+    ],
+    [
+      "IP Addresses in 2024",
+      "https://www.potaroo.net/ispcol/2025-01/addr2024.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-12, 01:21:47",
+      "https://news.ycombinator.com/item?id=42670368"
+    ],
+    [
+      "Euthanasia Coaster (2010)",
+      "https://julijonasurbonas.lt/euthanasia_coaster"
+    ]
+  ],
+  [
+    [
       "2025-01-12, 00:33:38",
       "https://news.ycombinator.com/item?id=42670132"
     ],
@@ -21,6 +41,16 @@
   ],
   [
     [
+      "2025-01-11, 23:03:56",
+      "https://news.ycombinator.com/item?id=42669681"
+    ],
+    [
+      "What it's like working for American companies as an Australian",
+      "https://www.seangoedecke.com/working-for-americans/"
+    ]
+  ],
+  [
+    [
       "2025-01-11, 23:02:07",
       "https://news.ycombinator.com/item?id=42669670"
     ],
@@ -37,16 +67,6 @@
     [
       "Obvious Things C Should Do",
       "https://twitter.com/WalterBright/status/1878209651306803406"
-    ]
-  ],
-  [
-    [
-      "2025-01-11, 21:42:50",
-      "https://news.ycombinator.com/item?id=42669143"
-    ],
-    [
-      "JPMorgan Reportedly Ending Remote Work for More Than 300k Employees",
-      "https://www.forbes.com/sites/terinaallen/2025/01/09/jpmorgan-ending-remote-work-for-300000-employees-report/"
     ]
   ],
   [
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2025-01-10, 15:21:19",
-      "https://news.ycombinator.com/item?id=42656383"
-    ],
-    [
-      "I Sang Along with Peter Yarrow in 1972",
-      "https://www.wsj.com/opinion/i-sang-along-with-peter-yarrow-in-1972-folk-music-puff-the-magic-dragon-ccd5945c"
-    ]
-  ],
-  [
-    [
       "2025-01-10, 11:57:06",
       "https://news.ycombinator.com/item?id=42654891"
     ],
     [
       "Decentralized Syndication – The Missing Internet Protocol",
       "https://tautvilas.medium.com/decentralized-syndication-the-missing-internet-protocol-209cb7bd6341"
-    ]
-  ],
-  [
-    [
-      "2025-01-10, 00:31:32",
-      "https://news.ycombinator.com/item?id=42651297"
-    ],
-    [
-      "An Introduction to Neural Ordinary Differential Equations [pdf]",
-      "https://diposit.ub.edu/dspace/bitstream/2445/208621/2/tfg_baldillou_salse_pau.pdf"
     ]
   ],
   [
@@ -217,6 +217,16 @@
     [
       "Binary modding a water dispenser to save me from pressing a button (2021)",
       "https://practicapp.com/binary-modding-a-watercooler/"
+    ]
+  ],
+  [
+    [
+      "2025-01-09, 08:12:57",
+      "https://news.ycombinator.com/item?id=42642971"
+    ],
+    [
+      "Phi4 Available on Ollama",
+      "https://ollama.com/library/phi4"
     ]
   ],
   [
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2025-01-08, 08:58:36",
-      "https://news.ycombinator.com/item?id=42632356"
+      "2025-01-08, 06:21:57",
+      "https://news.ycombinator.com/item?id=42631557"
     ],
     [
-      "What is the future of WiFi (from a network security standpoint)",
-      "https://www.cloudi-fi.com/blog/what-is-the-future-of-wifi"
+      "AI in the 80s? How a Simple Animal Guessing Game Pioneered Machine Learning",
+      "https://medium.com/@alexey.medvecky/ai-in-the-80s-how-a-simple-animal-guessing-game-pioneered-machine-learning-before-it-was-cool-2f4a63dfe762"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The engineering behind the San Antonio River Walk",
       "https://practical.engineering/blog/2025/1/7/the-hidden-engineering-behind-texass-top-tourist-attraction"
-    ]
-  ],
-  [
-    [
-      "2025-01-06, 20:04:44",
-      "https://news.ycombinator.com/item?id=42615006"
-    ],
-    [
-      "CCL: Categorical Configuration Language",
-      "https://chshersh.com/blog/2025-01-06-the-most-elegant-configuration-language.html"
     ]
   ]
 ]
