@@ -2,8 +2,8 @@
 
 * [2025-01-12, 01:39:10](https://news.ycombinator.com/item?id=42670468) - [IP addresses through 2024](https://www.potaroo.net/ispcol/2025-01/addr2024.html)
 * [2025-01-12, 00:33:38](https://news.ycombinator.com/item?id=42670132) - [Adobe Lightroom's AI Remove feature added a Bitcoin to bird in flight photo](https://bsky.app/profile/matthewraifman.bsky.social/post/3lfaqbygva22j)
+* [2025-01-12, 00:02:48](https://news.ycombinator.com/item?id=42669985) - [Contemplative LLMs](https://maharshi.bearblog.dev/contemplative-llms-prompt/)
 * [2025-01-11, 23:20:10](https://news.ycombinator.com/item?id=42669754) - [Stop Trying to Schedule a Call with Me](https://matduggan.com/stop-trying-to-schedule-a-call-with-me/)
-* [2025-01-11, 23:03:56](https://news.ycombinator.com/item?id=42669681) - [What it's like working for American companies as an Australian](https://www.seangoedecke.com/working-for-americans/)
 * [2025-01-11, 22:58:22](https://news.ycombinator.com/item?id=42669637) - [Obvious things C should do](https://www.digitalmars.com/articles/Cobvious.html)
 * [2025-01-11, 21:25:31](https://news.ycombinator.com/item?id=42669027) - [Chatham House Rule is suddenly everywhere in the Bay Area](https://sfstandard.com/2025/01/11/chatham-house-rule-burnout/)
 * [2025-01-11, 21:11:06](https://news.ycombinator.com/item?id=42668953) - [Darkest and clearest skies at risk from industrial megaproject](https://www.eso.org/public/news/eso2501/)
