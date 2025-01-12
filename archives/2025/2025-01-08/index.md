@@ -76,6 +76,7 @@
 * [2025-01-08, 06:21:57](https://news.ycombinator.com/item?id=42631557) - [AI in the 80s? How a Simple Animal Guessing Game Pioneered Machine Learning](https://medium.com/@alexey.medvecky/ai-in-the-80s-how-a-simple-animal-guessing-game-pioneered-machine-learning-before-it-was-cool-2f4a63dfe762)
 * [2025-01-08, 05:20:28](https://news.ycombinator.com/item?id=42631208) - [Six Sins of Platform Teams](https://serce.me/posts/2025-01-07-six-sins-of-platform-teams)
 * [2025-01-08, 05:12:12](https://news.ycombinator.com/item?id=42631168) - [The U.S. Government Tried Replacing Migrant Farmworkers with Teenagers (2018)](https://www.npr.org/sections/thesalt/2018/07/31/634442195/when-the-u-s-government-tried-to-replace-migrant-farmworkers-with-high-schoolers)
+* [2025-01-08, 05:06:56](https://news.ycombinator.com/item?id=42631135) - [Pagecord: Publish your writing effortlessly from your inbox](https://github.com/lylo/pagecord)
 * [2025-01-08, 04:59:45](https://news.ycombinator.com/item?id=42631098) - [If GPUs Are So Good, Why Do We Still Use CPUs at All?](https://codingstuff.substack.com/p/if-gpus-are-so-good-why-do-we-still)
 * [2025-01-08, 04:22:20](https://news.ycombinator.com/item?id=42630880) - [Wends of Texas](https://en.wikipedia.org/wiki/Wends_of_Texas)
 * [2025-01-08, 04:18:16](https://news.ycombinator.com/item?id=42630857) - [Bitwarden Is Down](https://status.bitwarden.com)
