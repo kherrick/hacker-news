@@ -59,6 +59,7 @@
 * [2025-01-09, 07:58:38](https://news.ycombinator.com/item?id=42642873) - [New 16GB Raspberry Pi 5 on sale now at $120](https://www.raspberrypi.com/news/16gb-raspberry-pi-5-on-sale-now-at-120/)
 * [2025-01-09, 07:00:17](https://news.ycombinator.com/item?id=42642393) - [AccessOwl (YC S22) is hiring a TypeScript Engineer in EU to connect 100s of SaaS](https://www.ycombinator.com/companies/accessowl/jobs/cziclTH-senior-software-engineer-typescript-focus)
 * [2025-01-09, 06:02:38](https://news.ycombinator.com/item?id=42642089) - [The Erasure of Luigi Mangione](https://substack.evancarroll.com/p/the-erasure-of-luigi-mangione)
+* [2025-01-09, 05:24:41](https://news.ycombinator.com/item?id=42641903) - [The stories of survivors of the Rwandan Genocide](https://www.positivenewsus.org/rwandan-stories-of-survivor.html)
 * [2025-01-09, 04:08:36](https://news.ycombinator.com/item?id=42641530) - [Show HN: LA Wildfire Satellite Analysis](https://github.com/xingyzt/fire)
 * [2025-01-09, 02:51:29](https://news.ycombinator.com/item?id=42641109) - [I Got a Magnet Implanted in My Hand](https://vale.rocks/posts/my-experience-biohacking)
 * [2025-01-09, 01:52:29](https://news.ycombinator.com/item?id=42640755) - [Who would have won the Simon-Ehrlich bet over different decades?](https://ourworldindata.org/simon-ehrlich-bet)

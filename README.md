@@ -2,7 +2,6 @@
 
 * [2025-01-12, 03:38:25](https://news.ycombinator.com/item?id=42671105) - [Why I Chose Common Lisp](https://blog.djhaskin.com/blog/why-i-chose-common-lisp/)
 * [2025-01-12, 01:39:10](https://news.ycombinator.com/item?id=42670468) - [IP addresses through 2024](https://www.potaroo.net/ispcol/2025-01/addr2024.html)
-* [2025-01-12, 00:02:48](https://news.ycombinator.com/item?id=42669985) - [Contemplative LLMs](https://maharshi.bearblog.dev/contemplative-llms-prompt/)
 * [2025-01-11, 23:20:10](https://news.ycombinator.com/item?id=42669754) - [Stop Trying to Schedule a Call with Me](https://matduggan.com/stop-trying-to-schedule-a-call-with-me/)
 * [2025-01-11, 22:58:22](https://news.ycombinator.com/item?id=42669637) - [Obvious things C should do](https://www.digitalmars.com/articles/Cobvious.html)
 * [2025-01-11, 21:25:31](https://news.ycombinator.com/item?id=42669027) - [Chatham House Rule is suddenly everywhere in the Bay Area](https://sfstandard.com/2025/01/11/chatham-house-rule-burnout/)
@@ -20,6 +19,7 @@
 * [2025-01-09, 14:25:21](https://news.ycombinator.com/item?id=42645859) - [The Tsunami of Burnout Few See](http://charleshughsmith.blogspot.com/2025/01/i-quit-tsunami-of-burnout-few-see.html)
 * [2025-01-09, 13:47:59](https://news.ycombinator.com/item?id=42645415) - [Binary modding a water dispenser to save me from pressing a button (2021)](https://practicapp.com/binary-modding-a-watercooler/)
 * [2025-01-09, 08:12:57](https://news.ycombinator.com/item?id=42642971) - [Phi 4 available on Ollama](https://ollama.com/library/phi4)
+* [2025-01-09, 05:24:41](https://news.ycombinator.com/item?id=42641903) - [The stories of survivors of the Rwandan Genocide](https://www.positivenewsus.org/rwandan-stories-of-survivor.html)
 * [2025-01-09, 01:52:29](https://news.ycombinator.com/item?id=42640755) - [Who would have won the Simon-Ehrlich bet over different decades?](https://ourworldindata.org/simon-ehrlich-bet)
 * [2025-01-08, 23:15:25](https://news.ycombinator.com/item?id=42639581) - [A visual demo of Ruby's lazy enumerator](https://joyofrails.com/articles/simple-trick-to-understand-ruby-lazy-enumerator)
 * [2025-01-08, 21:36:26](https://news.ycombinator.com/item?id=42638706) - [The Heroic Industry of the Brothers Grimm](https://hudsonreview.com/2024/11/the-heroic-industry-of-the-brothers-grimm/)
