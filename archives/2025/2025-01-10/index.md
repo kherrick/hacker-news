@@ -34,6 +34,7 @@
 * [2025-01-10, 16:39:01](https://news.ycombinator.com/item?id=42657208) - [Ships must practice celestial navigation](https://www.usni.org/magazines/proceedings/2025/january/ships-must-practice-celestial-navigation)
 * [2025-01-10, 16:02:23](https://news.ycombinator.com/item?id=42656810) - [A Racket alternative to HTML Tidy](https://joeldueck.com/what-about/html-printer/index.html)
 * [2025-01-10, 15:53:07](https://news.ycombinator.com/item?id=42656711) - [Finland's zero homeless strategy (2021)](https://oecdecoscope.blog/2021/12/13/finlands-zero-homeless-strategy-lessons-from-a-success-story/)
+* [2025-01-10, 15:46:33](https://news.ycombinator.com/item?id=42656621) - [Ask HN: What is a common PR review time at your company?](https://news.ycombinator.com/item?id=42656621)
 * [2025-01-10, 15:39:11](https://news.ycombinator.com/item?id=42656559) - [Web apps built with Ruby on Rails](https://weuserails.com/)
 * [2025-01-10, 15:36:17](https://news.ycombinator.com/item?id=42656529) - [Experiments with Byte Matrix Multiplication](https://github.com/serge-sans-paille/i8mm)
 * [2025-01-10, 15:25:42](https://news.ycombinator.com/item?id=42656433) - [Formal Methods: Just Good Engineering Practice?](https://brooker.co.za/blog/2024/04/17/formal)

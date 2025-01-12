@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-12](index.md)
 
 * [2025-01-12, 22:34:49](https://news.ycombinator.com/item?id=42677667) - [FurtherAI (YC W24) Is Hiring Across Research, Engineering, and Design](https://www.ycombinator.com/companies/furtherai/jobs)
+* [2025-01-12, 22:30:58](https://news.ycombinator.com/item?id=42677631) - [Superior Internet Privacy with Whonix](https://www.whonix.org/wiki/Homepage)
 * [2025-01-12, 22:28:30](https://news.ycombinator.com/item?id=42677608) - [Qubes OS: A reasonably secure operating system](https://www.qubes-os.org/)
 * [2025-01-12, 22:26:35](https://news.ycombinator.com/item?id=42677587) - [I deleted my social media accounts (and why you should too)](https://asylumsquare.com/backstage/2025-01-12/why-i-deleted-my-social-media-accounts)
 * [2025-01-12, 21:45:00](https://news.ycombinator.com/item?id=42677249) - [Russia's Hidden War Debt](https://navigatingrussia.substack.com/p/russias-hidden-war-debt)
