@@ -2,6 +2,7 @@
 
 * [2025-01-12, 12:27:16](https://news.ycombinator.com/item?id=42673090) - [HMD Key Announced for £59 in the UK, Australia, and New Zealand](https://www.hmd.com/en_int/press/hmd-key-press-release)
 * [2025-01-12, 12:02:18](https://news.ycombinator.com/item?id=42672960) - [Harper (YC W25) Is Hiring #1 Founding Growth/Operations Lead](https://www.ycombinator.com/companies/harper/jobs/VUe2K9r-founding-operations-lead)
+* [2025-01-12, 11:45:11](https://news.ycombinator.com/item?id=42672876) - [Open letter to Mark Zuckerberg – Congratulations on your remarks](https://www.berliner-zeitung.de/politik-gesellschaft/open-letter-to-mark-zuckerberg-congratulations-on-your-speech-now-fire-correctiv-li.2288496)
 * [2025-01-12, 11:22:55](https://news.ycombinator.com/item?id=42672790) - [AI founders will learn The Bitter Lesson](https://lukaspetersson.com/blog/2025/bitter-vertical/)
 * [2025-01-12, 11:18:07](https://news.ycombinator.com/item?id=42672758) - [Rewilding the Self](https://worldsensorium.com/rewilding-the-self/)
 * [2025-01-12, 11:01:55](https://news.ycombinator.com/item?id=42672675) - [Mullenweg Shuts Down WordPress Sustainability Team, Igniting Backlash](https://www.therepository.email/mullenweg-shuts-down-wordpress-sustainability-team-igniting-backlash)
@@ -10,7 +11,6 @@
 * [2025-01-12, 05:17:50](https://news.ycombinator.com/item?id=42671472) - [Kenney.nl: Free Game Assets](https://www.kenney.nl/)
 * [2025-01-12, 03:38:25](https://news.ycombinator.com/item?id=42671105) - [Why I Chose Common Lisp](https://blog.djhaskin.com/blog/why-i-chose-common-lisp/)
 * [2025-01-12, 01:39:10](https://news.ycombinator.com/item?id=42670468) - [IP addresses through 2024](https://www.potaroo.net/ispcol/2025-01/addr2024.html)
-* [2025-01-11, 23:20:10](https://news.ycombinator.com/item?id=42669754) - [Stop Trying to Schedule a Call with Me](https://matduggan.com/stop-trying-to-schedule-a-call-with-me/)
 * [2025-01-11, 21:11:06](https://news.ycombinator.com/item?id=42668953) - [Darkest and clearest skies at risk from industrial megaproject](https://www.eso.org/public/news/eso2501/)
 * [2025-01-11, 18:18:36](https://news.ycombinator.com/item?id=42667797) - [Map of California roads for cyclers (1895)](https://www.loc.gov/resource/g4361p.ct000092/?r=-0.628,0.425,1.749,0.902,0)
 * [2025-01-11, 15:42:02](https://news.ycombinator.com/item?id=42666572) - [De-smarting the Marshall Uxbridge](https://tomscii.sig7.se/2025/01/De-smarting-the-Marshall-Uxbridge)
