@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-12](index.md)
 
+* [2025-01-12, 17:38:17](https://news.ycombinator.com/item?id=42675219) - [Great things about Rust that aren't just performance](https://ntietz.com/blog/great-things-about-rust-beyond-perf/)
 * [2025-01-12, 17:14:37](https://news.ycombinator.com/item?id=42675025) - [It's time to abandon the cargo cult metaphor](https://www.righto.com/2025/01/its-time-to-abandon-cargo-cult-metaphor.html)
 * [2025-01-12, 16:56:57](https://news.ycombinator.com/item?id=42674888) - [I will never need to buy a new computer again](https://82mhz.net/posts/2025/01/i-will-never-need-to-buy-a-new-computer-again/)
 * [2025-01-12, 16:56:16](https://news.ycombinator.com/item?id=42674882) - [Ripping Sega System 16 Sprites and Palettes: Brief Guide (2021)](http://reassembler.blogspot.com/)
@@ -28,6 +29,7 @@
 * [2025-01-12, 11:17:03](https://news.ycombinator.com/item?id=42672752) - [Physicists Want to Ditch Dark Energy](https://nautil.us/these-physicists-want-to-ditch-dark-energy-1177085/)
 * [2025-01-12, 11:01:55](https://news.ycombinator.com/item?id=42672675) - [Mullenweg Shuts Down WordPress Sustainability Team, Igniting Backlash](https://www.therepository.email/mullenweg-shuts-down-wordpress-sustainability-team-igniting-backlash)
 * [2025-01-12, 10:43:06](https://news.ycombinator.com/item?id=42672605) - [All-Band Receiver Lets You Listen to All the Radio at Once](https://hackaday.com/2025/01/09/all-band-receiver-lets-you-listen-to-all-the-radio-at-once/)
+* [2025-01-12, 10:39:42](https://news.ycombinator.com/item?id=42672592) - [Great CPAN modules released last week](https://niceperl.blogspot.com/2025/01/dxxx-20-great-cpan-modules-released.html)
 * [2025-01-12, 10:07:43](https://news.ycombinator.com/item?id=42672477) - [Asking rents skyrocket as LA fires destroy homes](https://laist.com/news/housing-homelessness/los-angeles-palisades-fire-housing-rent-price-gouging-law-california-zillow-listing)
 * [2025-01-12, 09:23:41](https://news.ycombinator.com/item?id=42672304) - [What other communities do you use apart from HN?](https://news.ycombinator.com/item?id=42672304)
 * [2025-01-12, 07:00:02](https://news.ycombinator.com/item?id=42671781) - [Yhangry (YC W22, Michael Siebel Invested) Is Hiring Senior Engineers](https://www.ycombinator.com/companies/yhangry/jobs/JiN1myL-senior-full-stack-engineer)
