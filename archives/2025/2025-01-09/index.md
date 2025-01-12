@@ -9,6 +9,7 @@
 * [2025-01-09, 23:01:21](https://news.ycombinator.com/item?id=42650732) - [Pushing the whole company into the past on purpose](https://rachelbythebay.com/w/2025/01/09/lag/)
 * [2025-01-09, 22:37:01](https://news.ycombinator.com/item?id=42650561) - [Soldering the Tek Way](https://hackaday.com/2025/01/09/retrotechtacular-soldering-the-tek-way/)
 * [2025-01-09, 22:28:07](https://news.ycombinator.com/item?id=42650501) - [Shaping Ligatures in Monospace Fonts](https://joshleeb.com/posts/monospace-ligatures.html)
+* [2025-01-09, 22:25:05](https://news.ycombinator.com/item?id=42650476) - [Visualizing Joyce's Ulysses: \"Sirens\" as a Graphic Score](https://emilyfuhrman.co/projects/joyce-ulysses-sirens-redux.html?source=list)
 * [2025-01-09, 21:46:18](https://news.ycombinator.com/item?id=42650097) - [Human-Computer Input via a Wrist-Based SEMG Wearable](https://www.meta.com/en-gb/blog/quest/surface-emg-wrist-white-paper-reality-labs/)
 * [2025-01-09, 21:46:07](https://news.ycombinator.com/item?id=42650094) - [The '90s weren't that great](https://www.slowboring.com/p/the-90s-werent-that-great)
 * [2025-01-09, 21:33:06](https://news.ycombinator.com/item?id=42649996) - [Ask HN: A friend has brain cancer: any bio hacks that worked?](https://news.ycombinator.com/item?id=42649996)
