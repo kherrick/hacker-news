@@ -1,32 +1,12 @@
 [
   [
     [
-      "2025-01-12, 21:10:34",
-      "https://news.ycombinator.com/item?id=42676974"
-    ],
-    [
-      "Longtime Aspen ski executive thinks corporate sustainability is a scam",
-      "https://www.cpr.org/2025/01/12/auden-schendler-terrible-beauty-ski-corporate-sustainability/"
-    ]
-  ],
-  [
-    [
       "2025-01-12, 21:04:56",
       "https://news.ycombinator.com/item?id=42676928"
     ],
     [
       "Microsoft Bob: Microsoft's biggest flop of the 1990s",
       "https://dfarq.homeip.net/microsoft-bob-microsofts-biggest-flop-of-the-199"
-    ]
-  ],
-  [
-    [
-      "2025-01-12, 20:18:43",
-      "https://news.ycombinator.com/item?id=42676529"
-    ],
-    [
-      "The Canva outage: another tale of saturation and resilience",
-      "https://surfingcomplexity.blog/2024/12/21/the-canva-outage-another-tale-of-saturation-and-resilience/"
     ]
   ],
   [
@@ -107,6 +87,16 @@
     [
       "From ASCII to ASIC: Porting donut.c to a tiny slice of silicon",
       "https://www.a1k0n.net/2025/01/10/tiny-tapeout-donut.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-12, 17:14:37",
+      "https://news.ycombinator.com/item?id=42675025"
+    ],
+    [
+      "It's time to abandon the cargo cult metaphor",
+      "https://www.righto.com/2025/01/its-time-to-abandon-cargo-cult-metaphor.html"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Why I Chose Common Lisp",
       "https://blog.djhaskin.com/blog/why-i-chose-common-lisp/"
+    ]
+  ],
+  [
+    [
+      "2025-01-10, 16:02:23",
+      "https://news.ycombinator.com/item?id=42656810"
+    ],
+    [
+      "A Racket alternative to HTML Tidy",
+      "https://joeldueck.com/what-about/html-printer/index.html"
     ]
   ],
   [
