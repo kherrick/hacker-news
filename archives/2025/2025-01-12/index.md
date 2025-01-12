@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-12](index.md)
 
+* [2025-01-12, 21:10:34](https://news.ycombinator.com/item?id=42676974) - [Why this longtime Aspen ski executive thinks corporate sustainability is a scam](https://www.cpr.org/2025/01/12/auden-schendler-terrible-beauty-ski-corporate-sustainability/)
 * [2025-01-12, 20:06:49](https://news.ycombinator.com/item?id=42676432) - [UV has a killer feature you should know about](https://valatka.dev/2025/01/12/on-killer-uv-feature.html)
 * [2025-01-12, 19:50:07](https://news.ycombinator.com/item?id=42676312) - [Thanks to Nvidia, there's a new generation of PCs coming and they'll run Linux](https://www.zdnet.com/article/thanks-to-nvidia-theres-a-new-generation-of-pcs-coming-and-theyll-be-running-linux/)
 * [2025-01-12, 19:46:08](https://news.ycombinator.com/item?id=42676274) - [The 46 Best Pens for 2025: Gel, Ballpoint, Rollerball, and Fountain Pens](https://www.jetpens.com/blog/The-46-Best-Pens-for-2025-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974)
