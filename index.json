@@ -21,6 +21,26 @@
   ],
   [
     [
+      "2025-01-12, 19:27:07",
+      "https://news.ycombinator.com/item?id=42676123"
+    ],
+    [
+      "James Shore: The Best Product Engineering Org in the World",
+      "https://www.jamesshore.com/v2/blog/2025/the-best-product-engineering-org-in-the-world"
+    ]
+  ],
+  [
+    [
+      "2025-01-12, 18:43:05",
+      "https://news.ycombinator.com/item?id=42675725"
+    ],
+    [
+      "Tabby: Self-hosted AI coding assistant",
+      "https://github.com/TabbyML/tabby"
+    ]
+  ],
+  [
+    [
       "2025-01-12, 18:22:38",
       "https://news.ycombinator.com/item?id=42675538"
     ],
@@ -57,16 +77,6 @@
     [
       "The Case for Letting Malibu Burn (1995)",
       "https://longreads.com/2018/12/04/the-case-for-letting-malibu-burn/"
-    ]
-  ],
-  [
-    [
-      "2025-01-12, 17:38:17",
-      "https://news.ycombinator.com/item?id=42675219"
-    ],
-    [
-      "Great things about Rust that aren't just performance",
-      "https://ntietz.com/blog/great-things-about-rust-beyond-perf/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "How hucksters are manipulating Google to promote shady Chrome extensions",
       "https://arstechnica.com/security/2025/01/googles-chrome-web-store-has-a-serious-spam-problem-promoting-shady-extensions/"
-    ]
-  ],
-  [
-    [
-      "2025-01-09, 00:24:48",
-      "https://news.ycombinator.com/item?id=42640178"
-    ],
-    [
-      "What is an invariant? (2023)",
-      "https://matklad.github.io/2023/10/06/what-is-an-invariant.html"
     ]
   ]
 ]
