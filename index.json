@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-01-12, 02:39:38",
-      "https://news.ycombinator.com/item?id=42670808"
-    ],
-    [
-      "Ask HN: Pull the curtain back on Nvidia's CES keynote please",
-      "https://news.ycombinator.com/item?id=42670808"
-    ]
-  ],
-  [
-    [
       "2025-01-12, 01:39:10",
       "https://news.ycombinator.com/item?id=42670468"
     ],
@@ -175,7 +165,7 @@
       "https://news.ycombinator.com/item?id=42660848"
     ],
     [
-      "Cannonball: An Enhanced OutRun Engine",
+      "Cannonball: An enhanced OutRun engine",
       "https://github.com/djyt/cannonball"
     ]
   ],
@@ -225,18 +215,8 @@
       "https://news.ycombinator.com/item?id=42642971"
     ],
     [
-      "Phi4 Available on Ollama",
+      "Phi 4 available on Ollama",
       "https://ollama.com/library/phi4"
-    ]
-  ],
-  [
-    [
-      "2025-01-08, 23:46:02",
-      "https://news.ycombinator.com/item?id=42639871"
-    ],
-    [
-      "/bin/sh: the biggest Unix security loophole (1984) [pdf]",
-      "https://www.tuhs.org/Archive/Documentation/TechReports/Bell_Labs/ReedsShellHoles.pdf"
     ]
   ],
   [
@@ -271,6 +251,16 @@
   ],
   [
     [
+      "2025-01-08, 05:06:56",
+      "https://news.ycombinator.com/item?id=42631135"
+    ],
+    [
+      "Pagecord: Publish your writing effortlessly from your inbox",
+      "https://github.com/lylo/pagecord"
+    ]
+  ],
+  [
+    [
       "2025-01-08, 04:22:20",
       "https://news.ycombinator.com/item?id=42630880"
     ],
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2025-01-06, 20:04:44",
-      "https://news.ycombinator.com/item?id=42615006"
+      "2025-01-07, 14:20:55",
+      "https://news.ycombinator.com/item?id=42622554"
     ],
     [
-      "CCL: Categorical Configuration Language",
-      "https://chshersh.com/blog/2025-01-06-the-most-elegant-configuration-language.html"
+      "Picasso was suspected of stealing the 'Mona Lisa'",
+      "https://www.newyorker.com/magazine/2025/01/13/when-picasso-was-arrested-for-stealing-the-mona-lisa"
+    ]
+  ],
+  [
+    [
+      "2025-01-07, 02:42:38",
+      "https://news.ycombinator.com/item?id=42618595"
+    ],
+    [
+      "Jensen Huang keynote at CES 2025 [video]",
+      "https://www.youtube.com/watch?v=k82RwXqZHY8"
     ]
   ]
 ]
