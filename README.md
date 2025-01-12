@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-12, 18:22:38](https://news.ycombinator.com/item?id=42675538) - [Lead and cadmium found in muscle-building protein powders, report says](https://www.wqow.com/health-watch/lead-and-cadmium-found-in-muscle-building-protein-powders-report-says/article_882063dc-8b86-5437-ac52-49530da83de0.html)
-* [2025-01-12, 18:11:12](https://news.ycombinator.com/item?id=42675444) - [New Worker Uprising: Employees Are Bypassing HR, Sharing on LinkedIn](https://www.businessinsider.com/new-worker-uprising-hr-out-toxicity-bullying-linkedin-in-2025-1)
 * [2025-01-12, 18:06:26](https://news.ycombinator.com/item?id=42675419) - [Why the Getty Center Is the Safest Place for Art During a Fire (2019)](https://www.getty.edu/news/why-the-getty-center-is-the-safest-place-for-art-during-a-fire/)
 * [2025-01-12, 17:47:03](https://news.ycombinator.com/item?id=42675274) - [The Case for Letting Malibu Burn (2018)](https://longreads.com/2018/12/04/the-case-for-letting-malibu-burn/)
 * [2025-01-12, 17:38:17](https://news.ycombinator.com/item?id=42675219) - [Great things about Rust that aren't just performance](https://ntietz.com/blog/great-things-about-rust-beyond-perf/)
@@ -21,6 +20,7 @@
 * [2025-01-12, 10:39:42](https://news.ycombinator.com/item?id=42672592) - [Great CPAN modules released last week](https://niceperl.blogspot.com/2025/01/dxxx-20-great-cpan-modules-released.html)
 * [2025-01-12, 05:17:50](https://news.ycombinator.com/item?id=42671472) - [Kenney.nl: Free Game Assets](https://www.kenney.nl/)
 * [2025-01-12, 03:38:25](https://news.ycombinator.com/item?id=42671105) - [Why I Chose Common Lisp](https://blog.djhaskin.com/blog/why-i-chose-common-lisp/)
+* [2025-01-12, 01:39:10](https://news.ycombinator.com/item?id=42670468) - [IP addresses through 2024](https://www.potaroo.net/ispcol/2025-01/addr2024.html)
 * [2025-01-11, 22:58:22](https://news.ycombinator.com/item?id=42669637) - [Obvious things C should do](https://www.digitalmars.com/articles/Cobvious.html)
 * [2025-01-11, 21:11:06](https://news.ycombinator.com/item?id=42668953) - [World's darkest and clearest skies at risk from industrial megaproject](https://www.eso.org/public/news/eso2501/)
 * [2025-01-10, 16:02:23](https://news.ycombinator.com/item?id=42656810) - [A Racket alternative to HTML Tidy](https://joeldueck.com/what-about/html-printer/index.html)
