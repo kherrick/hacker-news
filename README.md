@@ -21,7 +21,7 @@
 * [2025-01-09, 14:25:21](https://news.ycombinator.com/item?id=42645859) - [The Tsunami of Burnout Few See](http://charleshughsmith.blogspot.com/2025/01/i-quit-tsunami-of-burnout-few-see.html)
 * [2025-01-09, 13:47:59](https://news.ycombinator.com/item?id=42645415) - [Binary modding a water dispenser to save me from pressing a button (2021)](https://practicapp.com/binary-modding-a-watercooler/)
 * [2025-01-09, 08:12:57](https://news.ycombinator.com/item?id=42642971) - [Phi 4 available on Ollama](https://ollama.com/library/phi4)
-* [2025-01-08, 23:46:02](https://news.ycombinator.com/item?id=42639871) - [/bin/sh: the biggest Unix security loophole (1984) [pdf]](https://www.tuhs.org/Archive/Documentation/TechReports/Bell_Labs/ReedsShellHoles.pdf)
+* [2025-01-09, 01:52:29](https://news.ycombinator.com/item?id=42640755) - [Who would have won the Simon-Ehrlich bet over different decades?](https://ourworldindata.org/simon-ehrlich-bet)
 * [2025-01-08, 23:15:25](https://news.ycombinator.com/item?id=42639581) - [A visual demo of Ruby's lazy enumerator](https://joyofrails.com/articles/simple-trick-to-understand-ruby-lazy-enumerator)
 * [2025-01-08, 21:36:26](https://news.ycombinator.com/item?id=42638706) - [The Heroic Industry of the Brothers Grimm](https://hudsonreview.com/2024/11/the-heroic-industry-of-the-brothers-grimm/)
 * [2025-01-08, 06:21:57](https://news.ycombinator.com/item?id=42631557) - [AI in the 80s? How a Simple Animal Guessing Game Pioneered Machine Learning](https://medium.com/@alexey.medvecky/ai-in-the-80s-how-a-simple-animal-guessing-game-pioneered-machine-learning-before-it-was-cool-2f4a63dfe762)
