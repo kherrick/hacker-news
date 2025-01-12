@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-12](index.md)
 
+* [2025-01-12, 19:46:08](https://news.ycombinator.com/item?id=42676274) - [The 46 Best Pens for 2025: Gel, Ballpoint, Rollerball, and Fountain Pens](https://www.jetpens.com/blog/The-46-Best-Pens-for-2025-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974)
 * [2025-01-12, 19:27:16](https://news.ycombinator.com/item?id=42676125) - [Study links sugar-filled drinks to millions of heart disease and diabetes cases](https://bgr.com/science/study-links-sugar-filled-drinks-to-millions-of-heart-disease-and-diabetes-cases-each-year/)
 * [2025-01-12, 19:01:08](https://news.ycombinator.com/item?id=42675882) - [Snake Game in 56 Bytes](https://github.com/donno2048/snake)
 * [2025-01-12, 19:00:10](https://news.ycombinator.com/item?id=42675877) - [The Story of Irish Hip Hop](https://www.redbull.com/ie-en/projects/origins-irish-hip-hop-film)

@@ -54,6 +54,7 @@
 * [2025-01-10, 12:21:06](https://news.ycombinator.com/item?id=42654995) - [Who Can Understand the Proof? A Window on Formalized Mathematics](https://writings.stephenwolfram.com/2025/01/who-can-understand-the-proof-a-window-on-formalized-mathematics/)
 * [2025-01-10, 12:00:44](https://news.ycombinator.com/item?id=42654901) - [Wasmer (YC S19) Is Hiring a Rust Engineer in Europe](https://www.workatastartup.com/jobs/41643)
 * [2025-01-10, 11:57:06](https://news.ycombinator.com/item?id=42654891) - [Decentralized Syndication – The Missing Internet Protocol](https://tautvilas.medium.com/decentralized-syndication-the-missing-internet-protocol-209cb7bd6341)
+* [2025-01-10, 11:57:06](https://news.ycombinator.com/item?id=42654891) - [Decentralized Syndication – The Missing Internet Protocol](http://tautvilas.lt/decentralized-syndication-the-missing-internet-protocol/)
 * [2025-01-10, 10:33:01](https://news.ycombinator.com/item?id=42654447) - [Male and female brains are wired differently](https://www.earth.com/news/male-and-female-brains-are-wired-completely-differently/)
 * [2025-01-10, 10:10:10](https://news.ycombinator.com/item?id=42654331) - [lc: List files in categories (and columns) – from Coherent Unix clone](https://github.com/gdm85/lc)
 * [2025-01-10, 09:17:47](https://news.ycombinator.com/item?id=42654019) - [Nvidia-Ingest: Multi-modal data extraction](https://github.com/NVIDIA/nv-ingest)
