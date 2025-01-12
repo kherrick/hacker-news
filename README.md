@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-12, 14:26:38](https://news.ycombinator.com/item?id=42673762) - [US Supreme Court curbed public scrutiny as it boosted security before Roe ruling](https://www.theguardian.com/us-news/2025/jan/12/us-supreme-court-roe)
-* [2025-01-12, 14:06:28](https://news.ycombinator.com/item?id=42673628) - [Zuckerberg approved training Llama on LibGen [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.415175/gov.uscourts.cand.415175.377.0_1.pdf)
 * [2025-01-12, 12:27:16](https://news.ycombinator.com/item?id=42673090) - [HMD Key – A lightweight, affordable smartphone](https://www.hmd.com/en_int/press/hmd-key-press-release)
 * [2025-01-12, 12:02:18](https://news.ycombinator.com/item?id=42672960) - [Harper (YC W25) Is Hiring #1 Founding Growth/Operations Lead](https://www.ycombinator.com/companies/harper/jobs/VUe2K9r-founding-operations-lead)
 * [2025-01-12, 11:22:55](https://news.ycombinator.com/item?id=42672790) - [AI founders will learn the bitter lesson](https://lukaspetersson.com/blog/2025/bitter-vertical/)
@@ -22,6 +21,7 @@
 * [2025-01-10, 22:11:11](https://news.ycombinator.com/item?id=42660848) - [Cannonball: An enhanced OutRun engine](https://github.com/djyt/cannonball)
 * [2025-01-10, 08:24:10](https://news.ycombinator.com/item?id=42653744) - [How outdated information hides in LLM token generation probabilities](https://blog.anj.ai/2025/01/llm-token-generation-probabilities.html)
 * [2025-01-09, 21:13:21](https://news.ycombinator.com/item?id=42649837) - [ZType – Typing Game](https://zty.pe/)
+* [2025-01-09, 19:40:54](https://news.ycombinator.com/item?id=42649139) - [Why Rust nextest is process-per-test](https://sunshowers.io/posts/nextest-process-per-test/)
 * [2025-01-09, 17:11:51](https://news.ycombinator.com/item?id=42647668) - [Show HN: Ultra-portable Gantt chart tool for very regulated environments](https://github.com/aerugo/simplegantt)
 * [2025-01-09, 14:25:21](https://news.ycombinator.com/item?id=42645859) - [The Tsunami of Burnout Few See](http://charleshughsmith.blogspot.com/2025/01/i-quit-tsunami-of-burnout-few-see.html)
 * [2025-01-09, 12:04:57](https://news.ycombinator.com/item?id=42644426) - [Running Animations Without Keyframes](https://css-tip.com/animation-without-keyframes/)
