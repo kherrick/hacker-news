@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-12, 20:06:49](https://news.ycombinator.com/item?id=42676432) - [UV has a killer feature you should know about](https://valatka.dev/2025/01/12/on-killer-uv-feature.html)
+* [2025-01-12, 20:06:49](https://news.ycombinator.com/item?id=42676432) - [Uv's killer feature is pulling in local dependencies](https://valatka.dev/2025/01/12/on-killer-uv-feature.html)
+* [2025-01-12, 19:50:07](https://news.ycombinator.com/item?id=42676312) - [Thanks to Nvidia, there's a new generation of PCs coming and they'll run Linux](https://www.zdnet.com/article/thanks-to-nvidia-theres-a-new-generation-of-pcs-coming-and-theyll-be-running-linux/)
 * [2025-01-12, 19:46:08](https://news.ycombinator.com/item?id=42676274) - [Best Pens for 2025](https://www.jetpens.com/blog/The-46-Best-Pens-for-2025-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974)
 * [2025-01-12, 19:27:16](https://news.ycombinator.com/item?id=42676125) - [Study links sugar-filled drinks to millions of heart disease and diabetes cases](https://bgr.com/science/study-links-sugar-filled-drinks-to-millions-of-heart-disease-and-diabetes-cases-each-year/)
 * [2025-01-12, 19:27:07](https://news.ycombinator.com/item?id=42676123) - [James Shore: The Best Product Engineering Org in the World](https://www.jamesshore.com/v2/blog/2025/the-best-product-engineering-org-in-the-world)
@@ -10,7 +11,6 @@
 * [2025-01-12, 18:06:26](https://news.ycombinator.com/item?id=42675419) - [Why the Getty Center Is the Safest Place for Art During a Fire (2019)](https://www.getty.edu/news/why-the-getty-center-is-the-safest-place-for-art-during-a-fire/)
 * [2025-01-12, 17:47:03](https://news.ycombinator.com/item?id=42675274) - [The Case for Letting Malibu Burn (1995)](https://longreads.com/2018/12/04/the-case-for-letting-malibu-burn/)
 * [2025-01-12, 17:36:45](https://news.ycombinator.com/item?id=42675208) - [From ASCII to ASIC: Porting donut.c to a tiny slice of silicon](https://www.a1k0n.net/2025/01/10/tiny-tapeout-donut.html)
-* [2025-01-12, 16:56:57](https://news.ycombinator.com/item?id=42674888) - [I will never need to buy a new computer again](https://82mhz.net/posts/2025/01/i-will-never-need-to-buy-a-new-computer-again/)
 * [2025-01-12, 16:56:16](https://news.ycombinator.com/item?id=42674882) - [Ripping Sega System 16 Sprites and Palettes: Brief Guide (2021)](http://reassembler.blogspot.com/)
 * [2025-01-12, 16:01:00](https://news.ycombinator.com/item?id=42674455) - [Backdooring Your Backdoors – Another $20 Domain, More Governments](https://labs.watchtowr.com/more-governments-backdoors-in-your-backdoors/)
 * [2025-01-12, 15:53:02](https://news.ycombinator.com/item?id=42674385) - [Mac Mini G4 – The best « classic » Macintosh for retro-gaming?](https://www.xtof.info/MacMiniG4-the-best-classic-macintosh-for-retrogaming.html)
