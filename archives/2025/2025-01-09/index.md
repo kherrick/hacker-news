@@ -55,6 +55,7 @@
 * [2025-01-09, 08:54:33](https://news.ycombinator.com/item?id=42643254) - [Thank You, Airbnb](https://twitter.com/anammostarac/status/1876872587738833184)
 * [2025-01-09, 08:36:11](https://news.ycombinator.com/item?id=42643139) - [How to become a Data Scientist? My journey, overview of skill set, practice tips](https://mljar.com/blog/how-to-become-data-scientist/)
 * [2025-01-09, 08:16:13](https://news.ycombinator.com/item?id=42642992) - [Who would buy a Raspberry Pi for $120?](https://www.jeffgeerling.com/blog/2025/who-would-buy-raspberry-pi-120)
+* [2025-01-09, 08:12:57](https://news.ycombinator.com/item?id=42642971) - [Phi4 Available on Ollama](https://ollama.com/library/phi4)
 * [2025-01-09, 07:58:38](https://news.ycombinator.com/item?id=42642873) - [New 16GB Raspberry Pi 5 on sale now at $120](https://www.raspberrypi.com/news/16gb-raspberry-pi-5-on-sale-now-at-120/)
 * [2025-01-09, 07:00:17](https://news.ycombinator.com/item?id=42642393) - [AccessOwl (YC S22) is hiring a TypeScript Engineer in EU to connect 100s of SaaS](https://www.ycombinator.com/companies/accessowl/jobs/cziclTH-senior-software-engineer-typescript-focus)
 * [2025-01-09, 06:02:38](https://news.ycombinator.com/item?id=42642089) - [The Erasure of Luigi Mangione](https://substack.evancarroll.com/p/the-erasure-of-luigi-mangione)
