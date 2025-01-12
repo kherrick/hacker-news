@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-12, 15:13:14",
+      "https://news.ycombinator.com/item?id=42674116"
+    ],
+    [
+      "Bad Apple but it's 6,500 regexes that I search for in Vim",
+      "https://eieio.games/blog/bad-apple-with-regex-in-vim/"
+    ]
+  ],
+  [
+    [
       "2025-01-12, 14:26:38",
       "https://news.ycombinator.com/item?id=42673762"
     ],
@@ -287,16 +297,6 @@
     [
       "What is an invariant? (2023)",
       "https://matklad.github.io/2023/10/06/what-is-an-invariant.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-08, 06:21:57",
-      "https://news.ycombinator.com/item?id=42631557"
-    ],
-    [
-      "AI in the 80s? How a Simple Animal Guessing Game Pioneered Machine Learning",
-      "https://medium.com/@alexey.medvecky/ai-in-the-80s-how-a-simple-animal-guessing-game-pioneered-machine-learning-before-it-was-cool-2f4a63dfe762"
     ]
   ]
 ]
