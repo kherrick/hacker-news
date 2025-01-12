@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-01-12, 17:43:31",
-      "https://news.ycombinator.com/item?id=42675251"
+      "2025-01-12, 18:22:38",
+      "https://news.ycombinator.com/item?id=42675538"
     ],
     [
-      "LA Renters Hit with Price Gouging During Wildfire Chaos",
-      "https://www.newsweek.com/la-renters-pride-gouging-los-angeles-wildfires-2013645"
+      "Lead and cadmium found in muscle-building protein powders, report says",
+      "https://www.wqow.com/health-watch/lead-and-cadmium-found-in-muscle-building-protein-powders-report-says/article_882063dc-8b86-5437-ac52-49530da83de0.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-12, 17:47:03",
+      "https://news.ycombinator.com/item?id=42675274"
+    ],
+    [
+      "The Case for Letting Malibu Burn (2018)",
+      "https://longreads.com/2018/12/04/the-case-for-letting-malibu-burn/"
     ]
   ],
   [
@@ -17,6 +27,16 @@
     [
       "Great things about Rust that aren't just performance",
       "https://ntietz.com/blog/great-things-about-rust-beyond-perf/"
+    ]
+  ],
+  [
+    [
+      "2025-01-12, 17:36:45",
+      "https://news.ycombinator.com/item?id=42675208"
+    ],
+    [
+      "From ASCII to ASIC: Porting donut.c to a tiny slice of silicon",
+      "https://www.a1k0n.net/2025/01/10/tiny-tapeout-donut.html"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-01-11, 15:42:02",
-      "https://news.ycombinator.com/item?id=42666572"
-    ],
-    [
-      "De-smarting the Marshall Uxbridge",
-      "https://tomscii.sig7.se/2025/01/De-smarting-the-Marshall-Uxbridge"
-    ]
-  ],
-  [
-    [
       "2025-01-10, 19:52:01",
       "https://news.ycombinator.com/item?id=42659410"
     ],
@@ -237,16 +247,6 @@
     [
       "A Racket alternative to HTML Tidy",
       "https://joeldueck.com/what-about/html-printer/index.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-10, 08:24:10",
-      "https://news.ycombinator.com/item?id=42653744"
-    ],
-    [
-      "How outdated information hides in LLM token generation probabilities",
-      "https://blog.anj.ai/2025/01/llm-token-generation-probabilities.html"
     ]
   ],
   [
