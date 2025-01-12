@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-12, 11:22:55](https://news.ycombinator.com/item?id=42672790) - [AI founders will learn The Bitter Lesson](https://lukaspetersson.com/blog/2025/bitter-vertical/)
 * [2025-01-12, 10:43:06](https://news.ycombinator.com/item?id=42672605) - [All-Band Receiver Lets You Listen to All the Radio at Once](https://hackaday.com/2025/01/09/all-band-receiver-lets-you-listen-to-all-the-radio-at-once/)
 * [2025-01-12, 09:23:41](https://news.ycombinator.com/item?id=42672304) - [What other communities do you use apart from HN?](https://news.ycombinator.com/item?id=42672304)
 * [2025-01-12, 07:00:02](https://news.ycombinator.com/item?id=42671781) - [Yhangry (YC W22) Is Hiring Senior Engineers](https://www.ycombinator.com/companies/yhangry/jobs/JiN1myL-senior-full-stack-engineer)
@@ -19,7 +20,6 @@
 * [2025-01-10, 22:11:11](https://news.ycombinator.com/item?id=42660848) - [Cannonball: An enhanced OutRun engine](https://github.com/djyt/cannonball)
 * [2025-01-10, 21:08:42](https://news.ycombinator.com/item?id=42660255) - [Show HN: 3D Terrain simulation for hiking, skiing etc.](https://github.com/r-follador/CubeTrek)
 * [2025-01-10, 12:55:50](https://news.ycombinator.com/item?id=42655207) - [Innovative ways to float skyscraper-sized wind turbines](https://mena-forum.com/innovative-float-skyscraper-sized-wind-turbines/)
-* [2025-01-10, 11:57:06](https://news.ycombinator.com/item?id=42654891) - [Decentralized Syndication – The Missing Internet Protocol](https://tautvilas.medium.com/decentralized-syndication-the-missing-internet-protocol-209cb7bd6341)
 * [2025-01-10, 08:24:10](https://news.ycombinator.com/item?id=42653744) - [How outdated information hides in LLM token generation probabilities](https://blog.anj.ai/2025/01/llm-token-generation-probabilities.html)
 * [2025-01-09, 21:13:21](https://news.ycombinator.com/item?id=42649837) - [ZType Tying Game](https://zty.pe/)
 * [2025-01-09, 17:11:51](https://news.ycombinator.com/item?id=42647668) - [Show HN: Ultra-portable Gantt chart tool for very regulated environments](https://github.com/aerugo/simplegantt)
