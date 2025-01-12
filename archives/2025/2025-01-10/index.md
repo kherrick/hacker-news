@@ -58,6 +58,7 @@
 * [2025-01-10, 09:02:31](https://news.ycombinator.com/item?id=42653939) - [Glimmer: DSL Framework for Ruby GUI and More](https://github.com/AndyObtiva/glimmer)
 * [2025-01-10, 08:42:07](https://news.ycombinator.com/item?id=42653828) - [Time Dilation Formula / Calculator](https://timedilationformula.com/)
 * [2025-01-10, 08:37:08](https://news.ycombinator.com/item?id=42653811) - [Tactility: OS for the ESP32 Microcontroller Family](https://tactility.one/#/)
+* [2025-01-10, 08:24:10](https://news.ycombinator.com/item?id=42653744) - [How outdated information hides in LLM token generation probabilities](https://blog.anj.ai/2025/01/llm-token-generation-probabilities.html)
 * [2025-01-10, 07:20:58](https://news.ycombinator.com/item?id=42653434) - [BYD's electric supercar jumps over potholes and spikes](https://www.drive.com.au/news/byd-yangwang-u9-jumps-over-potholes-and-spikes-video/)
 * [2025-01-10, 07:10:17](https://news.ycombinator.com/item?id=42653370) - [Narcolepsy is weird but I didn't notice](https://www.fortressofdoors.com/narcolepsy-is-weird-but-i-didnt-notice/)
 * [2025-01-10, 07:05:35](https://news.ycombinator.com/item?id=42653352) - [Samsung Display to Begin Mass Production of Rollable OLED for Laptops](https://global.samsungdisplay.com/31332)
