@@ -21,15 +21,15 @@
 * [2025-01-12, 15:13:14](https://news.ycombinator.com/item?id=42674116) - [Bad Apple but it's 6,500 regexes that I search for in Vim](https://eieio.games/blog/bad-apple-with-regex-in-vim/)
 * [2025-01-12, 14:03:15](https://news.ycombinator.com/item?id=42673596) - [The mistake of yearning for the 'friendly' online world of 20 years ago](https://english.elpais.com/lifestyle/2025-01-07/the-internet-hasnt-made-us-bad-we-were-already-like-that-the-mistake-of-yearning-for-the-friendly-online-world-of-20-years-ago.html)
 * [2025-01-12, 10:39:42](https://news.ycombinator.com/item?id=42672592) - [Great CPAN modules released last week](https://niceperl.blogspot.com/2025/01/dxxx-20-great-cpan-modules-released.html)
-* [2025-01-12, 05:17:50](https://news.ycombinator.com/item?id=42671472) - [Kenney.nl: Free Game Assets](https://www.kenney.nl/)
 * [2025-01-12, 03:38:25](https://news.ycombinator.com/item?id=42671105) - [Why I Chose Common Lisp](https://blog.djhaskin.com/blog/why-i-chose-common-lisp/)
 * [2025-01-10, 13:07:02](https://news.ycombinator.com/item?id=42655283) - [Northeastern's redesign of the Khoury curriculum abandons the fundamentals of CS](https://huntnewsnu.com/82511/editorial/op-eds/op-ed-northeasterns-redesign-of-the-khoury-curriculum-abandons-the-fundamentals-of-computer-science/)
+* [2025-01-10, 11:57:06](https://news.ycombinator.com/item?id=42654891) - [Decentralized Syndication – The Missing Internet Protocol](http://tautvilas.lt/decentralized-syndication-the-missing-internet-protocol/)
 * [2025-01-10, 07:10:17](https://news.ycombinator.com/item?id=42653370) - [Narcolepsy is weird but I didn't notice](https://www.fortressofdoors.com/narcolepsy-is-weird-but-i-didnt-notice/)
 * [2025-01-09, 23:01:21](https://news.ycombinator.com/item?id=42650732) - [Pushing the whole company into the past on purpose](https://rachelbythebay.com/w/2025/01/09/lag/)
 * [2025-01-09, 22:47:44](https://news.ycombinator.com/item?id=42650644) - [Norms-Based Intellectual Property Systems: The Case of French Chefs(2008)](https://pubsonline.informs.org/doi/abs/10.1287/orsc.1070.0314?journalCode=orsc)
-* [2025-01-09, 22:25:05](https://news.ycombinator.com/item?id=42650476) - [Visualizing Joyce's Ulysses: \"Sirens\" as a Graphic Score](https://emilyfuhrman.co/projects/joyce-ulysses-sirens-redux.html?source=list)
 * [2025-01-09, 19:40:54](https://news.ycombinator.com/item?id=42649139) - [Why Rust nextest is process-per-test](https://sunshowers.io/posts/nextest-process-per-test/)
 * [2025-01-09, 07:24:43](https://news.ycombinator.com/item?id=42642625) - [Link Blog in a Static Site](http://rednafi.com/misc/link_blog/)
+* [2025-01-09, 00:29:18](https://news.ycombinator.com/item?id=42640207) - [How hucksters are manipulating Google to promote shady Chrome extensions](https://arstechnica.com/security/2025/01/googles-chrome-web-store-has-a-serious-spam-problem-promoting-shady-extensions/)
 
 ## [Archives](archives/index.md)
 
