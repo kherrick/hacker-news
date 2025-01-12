@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-01-12, 15:59:04",
+      "https://news.ycombinator.com/item?id=42674440"
+    ],
+    [
+      "Inconvenient truths about the fires burning in Los Angeles from two fire experts",
+      "https://www.latimes.com/california/story/2025-01-11/fire-experts-asses-los-angeles-blazes-amid-changing-times"
+    ]
+  ],
+  [
+    [
+      "2025-01-12, 15:57:40",
+      "https://news.ycombinator.com/item?id=42674427"
+    ],
+    [
+      "Hobbyist Builds AI-Assisted Rifle Robot Using ChatGPT",
+      "https://www.zmescience.com/science/news-science/hobbyist-builds-ai-assisted-rifle/"
+    ]
+  ],
+  [
+    [
+      "2025-01-12, 15:17:45",
+      "https://news.ycombinator.com/item?id=42674153"
+    ],
+    [
+      "I spent 18 years in the Linux console and I don't regret it",
+      "https://eugene-andrienko.com/en/it/2024/01/02/life-in-console"
+    ]
+  ],
+  [
+    [
       "2025-01-12, 15:13:14",
       "https://news.ycombinator.com/item?id=42674116"
     ],
@@ -141,32 +171,12 @@
   ],
   [
     [
-      "2025-01-11, 18:18:36",
-      "https://news.ycombinator.com/item?id=42667797"
-    ],
-    [
-      "Map of California roads for cyclers (1895)",
-      "https://www.loc.gov/resource/g4361p.ct000092/?r=-0.628,0.425,1.749,0.902,0"
-    ]
-  ],
-  [
-    [
       "2025-01-11, 15:42:02",
       "https://news.ycombinator.com/item?id=42666572"
     ],
     [
       "De-smarting the Marshall Uxbridge",
       "https://tomscii.sig7.se/2025/01/De-smarting-the-Marshall-Uxbridge"
-    ]
-  ],
-  [
-    [
-      "2025-01-11, 15:31:03",
-      "https://news.ycombinator.com/item?id=42666492"
-    ],
-    [
-      "Show HN: TypeScript/React/Vue Window Layout Manager (Tabs, Floating, Popouts)",
-      "https://github.com/mathuo/dockview"
     ]
   ],
   [
@@ -187,6 +197,16 @@
     [
       "Cannonball: An enhanced OutRun engine",
       "https://github.com/djyt/cannonball"
+    ]
+  ],
+  [
+    [
+      "2025-01-10, 19:52:01",
+      "https://news.ycombinator.com/item?id=42659410"
+    ],
+    [
+      "Reflections on 1 Year of (Trying to) Become Successful on YouTube",
+      "https://chaserensberger.com/blog/Reflections-On-1-Year-Of-Making-YouTube-Videos"
     ]
   ],
   [
@@ -227,16 +247,6 @@
     [
       "Show HN: Ultra-portable Gantt chart tool for very regulated environments",
       "https://github.com/aerugo/simplegantt"
-    ]
-  ],
-  [
-    [
-      "2025-01-09, 14:25:21",
-      "https://news.ycombinator.com/item?id=42645859"
-    ],
-    [
-      "The Tsunami of Burnout Few See",
-      "http://charleshughsmith.blogspot.com/2025/01/i-quit-tsunami-of-burnout-few-see.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "What is an invariant? (2023)",
       "https://matklad.github.io/2023/10/06/what-is-an-invariant.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-08, 06:21:57",
-      "https://news.ycombinator.com/item?id=42631557"
-    ],
-    [
-      "AI in the 80s? How a Simple Animal Guessing Game Pioneered Machine Learning",
-      "https://medium.com/@alexey.medvecky/ai-in-the-80s-how-a-simple-animal-guessing-game-pioneered-machine-learning-before-it-was-cool-2f4a63dfe762"
     ]
   ]
 ]
