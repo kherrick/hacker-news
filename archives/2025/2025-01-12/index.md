@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-12](index.md)
 
+* [2025-01-12, 13:24:00](https://news.ycombinator.com/item?id=42673366) - [macOS No Longer Ships with Emacs](https://batsov.com/articles/2025/01/12/macos-no-longer-ships-with-emacs/)
 * [2025-01-12, 12:27:16](https://news.ycombinator.com/item?id=42673090) - [HMD Key Announced for £59 in the UK, Australia, and New Zealand](https://www.hmd.com/en_int/press/hmd-key-press-release)
 * [2025-01-12, 12:02:18](https://news.ycombinator.com/item?id=42672960) - [Harper (YC W25) Is Hiring #1 Founding Growth/Operations Lead](https://www.ycombinator.com/companies/harper/jobs/VUe2K9r-founding-operations-lead)
 * [2025-01-12, 11:47:20](https://news.ycombinator.com/item?id=42672886) - [Male and female brains differ at birth](https://bsd.biomedcentral.com/articles/10.1186/s13293-024-00657-5)
