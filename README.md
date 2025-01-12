@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-12, 03:55:31](https://news.ycombinator.com/item?id=42671162) - [Two Waves of Aging: How Midlife Biomolecular Shifts Accelerate Decline](https://gethealthspan.com/science/article/two-waves-of-aging-biomolecular-shifts-healthspan)
 * [2025-01-12, 01:39:10](https://news.ycombinator.com/item?id=42670468) - [IP addresses through 2024](https://www.potaroo.net/ispcol/2025-01/addr2024.html)
-* [2025-01-12, 00:33:38](https://news.ycombinator.com/item?id=42670132) - [Adobe Lightroom's AI Remove feature added a Bitcoin to bird in flight photo](https://bsky.app/profile/matthewraifman.bsky.social/post/3lfaqbygva22j)
 * [2025-01-12, 00:02:48](https://news.ycombinator.com/item?id=42669985) - [Contemplative LLMs](https://maharshi.bearblog.dev/contemplative-llms-prompt/)
 * [2025-01-11, 23:20:10](https://news.ycombinator.com/item?id=42669754) - [Stop Trying to Schedule a Call with Me](https://matduggan.com/stop-trying-to-schedule-a-call-with-me/)
 * [2025-01-11, 22:58:22](https://news.ycombinator.com/item?id=42669637) - [Obvious things C should do](https://www.digitalmars.com/articles/Cobvious.html)
