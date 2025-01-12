@@ -44,6 +44,7 @@
 * [2025-01-09, 12:44:04](https://news.ycombinator.com/item?id=42644742) - [Why kids need to take more risks: science reveal benefits of wild, free play](https://www.nature.com/articles/d41586-024-04215-2)
 * [2025-01-09, 12:17:55](https://news.ycombinator.com/item?id=42644506) - [Not Every User Owns an iPhone](https://calendar.perfplanet.com/2024/not-every-user-owns-an-iphone/)
 * [2025-01-09, 12:06:21](https://news.ycombinator.com/item?id=42644434) - [Microsoft should be terrified of SteamOS](https://www.pcworld.com/article/2571541/microsoft-should-be-terrified-of-steamos.html)
+* [2025-01-09, 12:04:57](https://news.ycombinator.com/item?id=42644426) - [Running Animations Without Keyframes](https://css-tip.com/animation-without-keyframes/)
 * [2025-01-09, 12:00:27](https://news.ycombinator.com/item?id=42644392) - [Roboflow (YC S20) is hiring an engineer to work on its open source projects](https://www.ycombinator.com/companies/roboflow/jobs/cHrnmMH-open-source-software-engineer)
 * [2025-01-09, 11:44:38](https://news.ycombinator.com/item?id=42644302) - [Man trapped inside driverless car as it spins in circles](https://www.bbc.com/news/videos/c70e2g09ng9o)
 * [2025-01-09, 11:42:31](https://news.ycombinator.com/item?id=42644291) - [Stay Gold, America](https://blog.codinghorror.com/stay-gold-america/)
