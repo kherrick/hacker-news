@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-12, 16:01:00](https://news.ycombinator.com/item?id=42674455) - [Backdooring Your Backdoors – Another $20 Domain, More Governments](https://labs.watchtowr.com/more-governments-backdoors-in-your-backdoors/)
 * [2025-01-12, 15:59:04](https://news.ycombinator.com/item?id=42674440) - [Inconvenient truths about the fires burning in Los Angeles from two fire experts](https://www.latimes.com/california/story/2025-01-11/fire-experts-asses-los-angeles-blazes-amid-changing-times)
 * [2025-01-12, 15:57:40](https://news.ycombinator.com/item?id=42674427) - [Hobbyist Builds AI-Assisted Rifle Robot Using ChatGPT](https://www.zmescience.com/science/news-science/hobbyist-builds-ai-assisted-rifle/)
 * [2025-01-12, 15:17:45](https://news.ycombinator.com/item?id=42674153) - [I spent 18 years in the Linux console and I don't regret it](https://eugene-andrienko.com/en/it/2024/01/02/life-in-console)
@@ -27,7 +28,6 @@
 * [2025-01-09, 17:11:51](https://news.ycombinator.com/item?id=42647668) - [Show HN: Ultra-portable Gantt chart tool for very regulated environments](https://github.com/aerugo/simplegantt)
 * [2025-01-09, 12:04:57](https://news.ycombinator.com/item?id=42644426) - [Running Animations Without Keyframes](https://css-tip.com/animation-without-keyframes/)
 * [2025-01-09, 08:12:57](https://news.ycombinator.com/item?id=42642971) - [Phi 4 available on Ollama](https://ollama.com/library/phi4)
-* [2025-01-09, 01:52:29](https://news.ycombinator.com/item?id=42640755) - [Who would have won the Simon-Ehrlich bet over different decades?](https://ourworldindata.org/simon-ehrlich-bet)
 * [2025-01-09, 00:29:18](https://news.ycombinator.com/item?id=42640207) - [How hucksters are manipulating Google to promote shady Chrome extensions](https://arstechnica.com/security/2025/01/googles-chrome-web-store-has-a-serious-spam-problem-promoting-shady-extensions/)
 * [2025-01-09, 00:24:48](https://news.ycombinator.com/item?id=42640178) - [What is an invariant? (2023)](https://matklad.github.io/2023/10/06/what-is-an-invariant.html)
 

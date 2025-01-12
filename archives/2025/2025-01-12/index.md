@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-12](index.md)
 
+* [2025-01-12, 16:01:00](https://news.ycombinator.com/item?id=42674455) - [Backdooring Your Backdoors – Another $20 Domain, More Governments](https://labs.watchtowr.com/more-governments-backdoors-in-your-backdoors/)
 * [2025-01-12, 15:59:04](https://news.ycombinator.com/item?id=42674440) - [Inconvenient truths about the fires burning in Los Angeles from two fire experts](https://www.latimes.com/california/story/2025-01-11/fire-experts-asses-los-angeles-blazes-amid-changing-times)
 * [2025-01-12, 15:57:40](https://news.ycombinator.com/item?id=42674427) - [Hobbyist Builds AI-Assisted Rifle Robot Using ChatGPT](https://www.zmescience.com/science/news-science/hobbyist-builds-ai-assisted-rifle/)
 * [2025-01-12, 15:17:45](https://news.ycombinator.com/item?id=42674153) - [I spent 18 years in the Linux console and I don't regret it](https://eugene-andrienko.com/en/it/2024/01/02/life-in-console)
