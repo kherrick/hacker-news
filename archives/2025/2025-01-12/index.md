@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-12](index.md)
 
+* [2025-01-12, 12:27:16](https://news.ycombinator.com/item?id=42673090) - [HMD Key Announced for £59 in the UK, Australia, and New Zealand](https://www.hmd.com/en_int/press/hmd-key-press-release)
 * [2025-01-12, 12:02:18](https://news.ycombinator.com/item?id=42672960) - [Harper (YC W25) Is Hiring #1 Founding Growth/Operations Lead](https://www.ycombinator.com/companies/harper/jobs/VUe2K9r-founding-operations-lead)
 * [2025-01-12, 11:22:55](https://news.ycombinator.com/item?id=42672790) - [AI founders will learn The Bitter Lesson](https://lukaspetersson.com/blog/2025/bitter-vertical/)
 * [2025-01-12, 11:18:07](https://news.ycombinator.com/item?id=42672758) - [Rewilding the Self](https://worldsensorium.com/rewilding-the-self/)

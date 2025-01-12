@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-12, 12:27:16](https://news.ycombinator.com/item?id=42673090) - [HMD Key Announced for £59 in the UK, Australia, and New Zealand](https://www.hmd.com/en_int/press/hmd-key-press-release)
 * [2025-01-12, 12:02:18](https://news.ycombinator.com/item?id=42672960) - [Harper (YC W25) Is Hiring #1 Founding Growth/Operations Lead](https://www.ycombinator.com/companies/harper/jobs/VUe2K9r-founding-operations-lead)
 * [2025-01-12, 11:22:55](https://news.ycombinator.com/item?id=42672790) - [AI founders will learn The Bitter Lesson](https://lukaspetersson.com/blog/2025/bitter-vertical/)
 * [2025-01-12, 11:18:07](https://news.ycombinator.com/item?id=42672758) - [Rewilding the Self](https://worldsensorium.com/rewilding-the-self/)
@@ -26,7 +27,6 @@
 * [2025-01-09, 08:12:57](https://news.ycombinator.com/item?id=42642971) - [Phi 4 available on Ollama](https://ollama.com/library/phi4)
 * [2025-01-09, 00:29:18](https://news.ycombinator.com/item?id=42640207) - [How hucksters are manipulating Google to promote shady Chrome extensions](https://arstechnica.com/security/2025/01/googles-chrome-web-store-has-a-serious-spam-problem-promoting-shady-extensions/)
 * [2025-01-09, 00:24:48](https://news.ycombinator.com/item?id=42640178) - [What Is an Invariant?](https://matklad.github.io/2023/10/06/what-is-an-invariant.html)
-* [2025-01-08, 19:37:29](https://news.ycombinator.com/item?id=42637653) - [A rare alignment of 7 planets is about to take place](https://www.sciencealert.com/a-rare-alignment-of-7-planets-is-about-to-take-place-in-the-sky)
 * [2025-01-08, 06:21:57](https://news.ycombinator.com/item?id=42631557) - [AI in the 80s? How a Simple Animal Guessing Game Pioneered Machine Learning](https://medium.com/@alexey.medvecky/ai-in-the-80s-how-a-simple-animal-guessing-game-pioneered-machine-learning-before-it-was-cool-2f4a63dfe762)
 * [2025-01-07, 22:10:32](https://news.ycombinator.com/item?id=42628248) - [The engineering behind the San Antonio River Walk](https://practical.engineering/blog/2025/1/7/the-hidden-engineering-behind-texass-top-tourist-attraction)
 * [2025-01-07, 14:20:55](https://news.ycombinator.com/item?id=42622554) - [Picasso was suspected of stealing the 'Mona Lisa'](https://www.newyorker.com/magazine/2025/01/13/when-picasso-was-arrested-for-stealing-the-mona-lisa)
