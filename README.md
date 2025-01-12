@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-12, 02:39:38](https://news.ycombinator.com/item?id=42670808) - [Ask HN: Pull the curtain back on Nvidia's CES keynote please](https://news.ycombinator.com/item?id=42670808)
 * [2025-01-12, 01:39:10](https://news.ycombinator.com/item?id=42670468) - [IP Addresses in 2024](https://www.potaroo.net/ispcol/2025-01/addr2024.html)
 * [2025-01-12, 01:21:47](https://news.ycombinator.com/item?id=42670368) - [Euthanasia Coaster (2010)](https://julijonasurbonas.lt/euthanasia_coaster)
 * [2025-01-12, 00:33:38](https://news.ycombinator.com/item?id=42670132) - [Adobe Lightroom's AI Remove feature added a Bitcoin to bird in flight photo](https://bsky.app/profile/matthewraifman.bsky.social/post/3lfaqbygva22j)
 * [2025-01-11, 23:20:10](https://news.ycombinator.com/item?id=42669754) - [Stop Trying to Schedule a Call with Me](https://matduggan.com/stop-trying-to-schedule-a-call-with-me/)
 * [2025-01-11, 23:03:56](https://news.ycombinator.com/item?id=42669681) - [What it's like working for American companies as an Australian](https://www.seangoedecke.com/working-for-americans/)
-* [2025-01-11, 23:02:07](https://news.ycombinator.com/item?id=42669670) - [Scanning ultrasound removes amyloid-β, restores memory in Alzheimer mouse model (2015)](https://www.science.org/doi/10.1126/scitranslmed.aaa2512?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
 * [2025-01-11, 22:58:22](https://news.ycombinator.com/item?id=42669637) - [Obvious Things C Should Do](https://twitter.com/WalterBright/status/1878209651306803406)
 * [2025-01-11, 21:25:31](https://news.ycombinator.com/item?id=42669027) - [Chatham House Rule is suddenly everywhere in the Bay Area](https://sfstandard.com/2025/01/11/chatham-house-rule-burnout/)
 * [2025-01-11, 21:11:06](https://news.ycombinator.com/item?id=42668953) - [Darkest and clearest skies at risk from industrial megaproject](https://www.eso.org/public/news/eso2501/)
@@ -26,10 +26,10 @@
 * [2025-01-08, 23:46:02](https://news.ycombinator.com/item?id=42639871) - [/bin/sh: the biggest Unix security loophole (1984) [pdf]](https://www.tuhs.org/Archive/Documentation/TechReports/Bell_Labs/ReedsShellHoles.pdf)
 * [2025-01-08, 23:15:25](https://news.ycombinator.com/item?id=42639581) - [A visual demo of Ruby's lazy enumerator](https://joyofrails.com/articles/simple-trick-to-understand-ruby-lazy-enumerator)
 * [2025-01-08, 21:36:26](https://news.ycombinator.com/item?id=42638706) - [The Heroic Industry of the Brothers Grimm](https://hudsonreview.com/2024/11/the-heroic-industry-of-the-brothers-grimm/)
-* [2025-01-08, 19:14:09](https://news.ycombinator.com/item?id=42637442) - [The Fannie and Freddie trade is back](https://www.bloomberg.com/opinion/articles/2025-01-08/the-fannie-and-freddie-trade-is-back)
 * [2025-01-08, 06:21:57](https://news.ycombinator.com/item?id=42631557) - [AI in the 80s? How a Simple Animal Guessing Game Pioneered Machine Learning](https://medium.com/@alexey.medvecky/ai-in-the-80s-how-a-simple-animal-guessing-game-pioneered-machine-learning-before-it-was-cool-2f4a63dfe762)
 * [2025-01-08, 04:22:20](https://news.ycombinator.com/item?id=42630880) - [Wends of Texas](https://en.wikipedia.org/wiki/Wends_of_Texas)
 * [2025-01-07, 22:10:32](https://news.ycombinator.com/item?id=42628248) - [The engineering behind the San Antonio River Walk](https://practical.engineering/blog/2025/1/7/the-hidden-engineering-behind-texass-top-tourist-attraction)
+* [2025-01-06, 20:04:44](https://news.ycombinator.com/item?id=42615006) - [CCL: Categorical Configuration Language](https://chshersh.com/blog/2025-01-06-the-most-elegant-configuration-language.html)
 
 ## [Archives](archives/index.md)
 
