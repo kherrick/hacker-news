@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-01-12](index.md)
 
+* [2025-01-12, 18:22:38](https://news.ycombinator.com/item?id=42675538) - [Lead and cadmium found in muscle-building protein powders, report says](https://www.wqow.com/health-watch/lead-and-cadmium-found-in-muscle-building-protein-powders-report-says/article_882063dc-8b86-5437-ac52-49530da83de0.html)
+* [2025-01-12, 17:47:03](https://news.ycombinator.com/item?id=42675274) - [The Case for Letting Malibu Burn (2018)](https://longreads.com/2018/12/04/the-case-for-letting-malibu-burn/)
 * [2025-01-12, 17:43:31](https://news.ycombinator.com/item?id=42675251) - [LA Renters Hit with Price Gouging During Wildfire Chaos](https://www.newsweek.com/la-renters-pride-gouging-los-angeles-wildfires-2013645)
 * [2025-01-12, 17:38:17](https://news.ycombinator.com/item?id=42675219) - [Great things about Rust that aren't just performance](https://ntietz.com/blog/great-things-about-rust-beyond-perf/)
+* [2025-01-12, 17:36:45](https://news.ycombinator.com/item?id=42675208) - [From ASCII to ASIC: Porting donut.c to a tiny slice of silicon](https://www.a1k0n.net/2025/01/10/tiny-tapeout-donut.html)
 * [2025-01-12, 17:14:37](https://news.ycombinator.com/item?id=42675025) - [It's time to abandon the cargo cult metaphor](https://www.righto.com/2025/01/its-time-to-abandon-cargo-cult-metaphor.html)
 * [2025-01-12, 16:56:57](https://news.ycombinator.com/item?id=42674888) - [I will never need to buy a new computer again](https://82mhz.net/posts/2025/01/i-will-never-need-to-buy-a-new-computer-again/)
 * [2025-01-12, 16:56:16](https://news.ycombinator.com/item?id=42674882) - [Ripping Sega System 16 Sprites and Palettes: Brief Guide (2021)](http://reassembler.blogspot.com/)
