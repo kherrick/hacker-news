@@ -6,6 +6,7 @@
 
 * [2025-01-09, 23:20:25](https://news.ycombinator.com/item?id=42650855) - [Why I'm disappointed with the TVs at CES 2025](https://arstechnica.com/gadgets/2025/01/ces-2025-teases-alarming-smart-tv-future-loaded-with-unwanted-software-gimmicks/)
 * [2025-01-09, 23:13:34](https://news.ycombinator.com/item?id=42650815) - [A quickstart eBook about Helm's essentials](https://curiousdevscorner.gumroad.com/l/master-helm)
+* [2025-01-09, 23:01:21](https://news.ycombinator.com/item?id=42650732) - [Pushing the whole company into the past on purpose](https://rachelbythebay.com/w/2025/01/09/lag/)
 * [2025-01-09, 22:37:01](https://news.ycombinator.com/item?id=42650561) - [Soldering the Tek Way](https://hackaday.com/2025/01/09/retrotechtacular-soldering-the-tek-way/)
 * [2025-01-09, 22:28:07](https://news.ycombinator.com/item?id=42650501) - [Shaping Ligatures in Monospace Fonts](https://joshleeb.com/posts/monospace-ligatures.html)
 * [2025-01-09, 21:46:18](https://news.ycombinator.com/item?id=42650097) - [Human-Computer Input via a Wrist-Based SEMG Wearable](https://www.meta.com/en-gb/blog/quest/surface-emg-wrist-white-paper-reality-labs/)
