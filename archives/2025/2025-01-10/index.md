@@ -53,6 +53,7 @@
 * [2025-01-10, 14:01:20](https://news.ycombinator.com/item?id=42655630) - [Making Beautiful API Keys](https://docs.agentstation.ai/blog/beautiful-api-keys/)
 * [2025-01-10, 13:58:04](https://news.ycombinator.com/item?id=42655608) - [Securely Disposing of Smart Devices](https://www.rapid7.com/blog/post/2025/01/06/out-with-the-old-in-with-the-new-securely-disposing-of-smart-devices/)
 * [2025-01-10, 13:56:46](https://news.ycombinator.com/item?id=42655597) - [Scientists drill 2 miles down pull 1.2M-year-old ice core from Antarctic](https://apnews.com/article/antarctica-old-ice-core-climate-change-epica-6f76c57abf254dd9cb698f767db5507b)
+* [2025-01-10, 13:53:14](https://news.ycombinator.com/item?id=42655563) - [Show HN: Python with do..end in place of strict indentation](https://github.com/navxio/dopy)
 * [2025-01-10, 13:52:20](https://news.ycombinator.com/item?id=42655556) - [Biggest Privacy Erosion in 10 Years? On Google's Policy Change](https://blog.lukaszolejnik.com/biggest-privacy-erosion-in-10-years-on-googles-policy-change-towards-fingerprinting/)
 * [2025-01-10, 13:50:40](https://news.ycombinator.com/item?id=42655544) - [The Siren Song of Little Languages](https://www.wilfred.me.uk/blog/2019/03/24/the-siren-song-of-little-languages/)
 * [2025-01-10, 13:24:26](https://news.ycombinator.com/item?id=42655393) - [There are no pure cultures – we have always been global](https://aeon.co/essays/there-are-no-pure-cultures-we-have-always-been-global)
