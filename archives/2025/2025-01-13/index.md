@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-01-13](index.md)
 
+* [2025-01-13, 17:00:21](https://news.ycombinator.com/item?id=42685628) - [Humanize Healthcare Content as Wyndly (YC W21) 's first content hire](https://app.dover.com/apply/Wyndly/008f0389-988d-4b63-87c1-026b7b20c6fa/?rs=76643084)
 * [2025-01-13, 16:03:04](https://news.ycombinator.com/item?id=42684912) - [( UK ) Prime Minister sets out blueprint to turbocharge AI](https://www.gov.uk/government/news/prime-minister-sets-out-blueprint-to-turbocharge-ai)
 * [2025-01-13, 15:49:12](https://news.ycombinator.com/item?id=42684740) - [An \"oh fuck\" moment in time](https://ghuntley.com/oh-fuck/)
+* [2025-01-13, 15:37:24](https://news.ycombinator.com/item?id=42684574) - [California Fire Facts](https://gavinnewsom.com/california-fire-facts/)
 * [2025-01-13, 15:13:45](https://news.ycombinator.com/item?id=42684257) - [The Curious Gems of the River Thames](https://www.atlasobscura.com/articles/thames-garnets-mudlark)
 * [2025-01-13, 15:10:11](https://news.ycombinator.com/item?id=42684211) - [Subway Stories](https://subwaystories.nyc/)
 * [2025-01-13, 14:30:49](https://news.ycombinator.com/item?id=42683753) - [Sonos CEO Patrick Spence steps down after disastrous app launch](https://www.theverge.com/2025/1/13/24342179/sonos-ceo-patrick-spence-resignation-reason-app)

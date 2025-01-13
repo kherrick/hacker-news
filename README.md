@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-13, 17:00:21](https://news.ycombinator.com/item?id=42685628) - [Humanize Healthcare Content as Wyndly (YC W21) 's first content hire](https://app.dover.com/apply/Wyndly/008f0389-988d-4b63-87c1-026b7b20c6fa/?rs=76643084)
 * [2025-01-13, 16:03:04](https://news.ycombinator.com/item?id=42684912) - [( UK ) Prime Minister sets out blueprint to turbocharge AI](https://www.gov.uk/government/news/prime-minister-sets-out-blueprint-to-turbocharge-ai)
-* [2025-01-13, 15:49:12](https://news.ycombinator.com/item?id=42684740) - [An \"oh fuck\" moment in time](https://ghuntley.com/oh-fuck/)
+* [2025-01-13, 15:37:24](https://news.ycombinator.com/item?id=42684574) - [California Fire Facts](https://gavinnewsom.com/california-fire-facts/)
 * [2025-01-13, 15:13:45](https://news.ycombinator.com/item?id=42684257) - [The Curious Gems of the River Thames](https://www.atlasobscura.com/articles/thames-garnets-mudlark)
 * [2025-01-13, 15:10:11](https://news.ycombinator.com/item?id=42684211) - [Subway Stories](https://subwaystories.nyc/)
 * [2025-01-13, 14:28:46](https://news.ycombinator.com/item?id=42683736) - [Why Skyscrapers Became Glass Boxes](https://www.construction-physics.com/p/why-skyscrapers-became-glass-boxes)
@@ -10,7 +11,6 @@
 * [2025-01-13, 12:42:27](https://news.ycombinator.com/item?id=42682813) - [Can you complete the Oregon Trail if you wait at river for 14272 years: A study](https://moral.net.au/writing/2025/01/11/waiting_for_oregon/)
 * [2025-01-13, 12:19:15](https://news.ycombinator.com/item?id=42682671) - [Euro-cloud provider Anexia moves 12,000 VMs off VMware to homebrew KVM platform](https://www.theregister.com/2025/01/13/anexia_vmware_to_kvm_migration/)
 * [2025-01-13, 12:07:42](https://news.ycombinator.com/item?id=42682602) - [Debugging: Indispensable rules for finding even the most elusive problems (2004)](https://dwheeler.com/essays/debugging-agans.html)
-* [2025-01-13, 12:00:11](https://news.ycombinator.com/item?id=42682560) - [Raycast (YC W20) Is Hiring Full Stack Engineer (EU, Remote, €105k-€160k)](https://www.raycast.com/jobs/software-engineer-full-stack)
 * [2025-01-13, 05:58:32](https://news.ycombinator.com/item?id=42680499) - [IRC Driven – modern IRC indexing site and search engine](https://www.ircdriven.com/)
 * [2025-01-13, 05:44:29](https://news.ycombinator.com/item?id=42680437) - [The history and use of /etc./glob in early Unixes](https://utcc.utoronto.ca/~cks/space/blog/unix/EtcGlobHistory)
 * [2025-01-13, 04:22:06](https://news.ycombinator.com/item?id=42680048) - [Show HN: New search engine and free-FOIA-by-fax-via-web for US veteran records](https://www.birls.org)
