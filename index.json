@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2025-01-13, 12:19:15",
-      "https://news.ycombinator.com/item?id=42682671"
-    ],
-    [
-      "Euro-cloud provider Anexia moves 12,000 VMs off VMware to homebrew KVM platform",
-      "https://www.theregister.com/2025/01/13/anexia_vmware_to_kvm_migration/"
-    ]
-  ],
-  [
-    [
       "2025-01-13, 12:07:42",
       "https://news.ycombinator.com/item?id=42682602"
     ],
@@ -257,6 +247,16 @@
     [
       "Railroad Tycoon II",
       "https://www.filfre.net/2025/01/railroad-tycoon-ii/"
+    ]
+  ],
+  [
+    [
+      "2025-01-10, 13:53:14",
+      "https://news.ycombinator.com/item?id=42655563"
+    ],
+    [
+      "Show HN: Python with do..end in place of strict indentation",
+      "https://github.com/navxio/dopy"
     ]
   ],
   [
