@@ -72,6 +72,7 @@
 * [2025-01-10, 07:00:48](https://news.ycombinator.com/item?id=42653320) - [Telli (YC F24) is hiring product engineers in Berlin, Germany (in-person)](https://www.ycombinator.com/companies/telli/jobs/J1YREmZ-product-engineer)
 * [2025-01-10, 05:53:06](https://news.ycombinator.com/item?id=42652967) - [Before Squid Game, There Was Battle Royale](https://www.tokyoweekender.com/entertainment/movies-tv/before-squid-game-there-was-battle-royale/)
 * [2025-01-10, 05:21:11](https://news.ycombinator.com/item?id=42652775) - [A visual demo of Ruby's lazy enumerator](https://joyofrails.com/articles/simple-trick-to-understand-ruby-lazy-enumerator)
+* [2025-01-10, 05:15:18](https://news.ycombinator.com/item?id=42652730) - [Comptime as Configuration](https://www.openmymind.net/Comptime-as-Configuration/)
 * [2025-01-10, 04:45:55](https://news.ycombinator.com/item?id=42652577) - [Visualizing All ISBNs](https://annas-archive.org/blog/all-isbns.html)
 * [2025-01-10, 04:04:38](https://news.ycombinator.com/item?id=42652329) - [Gleam v1.7.0 Released](https://gleam.run/news/improved-performance-and-publishing/)
 * [2025-01-10, 03:49:09](https://news.ycombinator.com/item?id=42652236) - [2024 first year to pass 1.5C global warming limit](https://www.bbc.com/news/articles/cd7575x8yq5o)
