@@ -33,6 +33,7 @@
 * [2025-01-10, 17:29:32](https://news.ycombinator.com/item?id=42657744) - [What Dr. Ruth Left Behind](https://www.nytimes.com/2025/01/09/arts/dr-ruth-kinsey-sex.html)
 * [2025-01-10, 17:24:32](https://news.ycombinator.com/item?id=42657692) - [Starlink is now cheaper than leading internet provider in some African countries](https://restofworld.org/2025/starlink-cheaper-internet-africa/)
 * [2025-01-10, 17:16:12](https://news.ycombinator.com/item?id=42657591) - [Getting silly with C, part (void*)2](https://lcamtuf.substack.com/p/getting-silly-with-c-part-void2)
+* [2025-01-10, 17:15:22](https://news.ycombinator.com/item?id=42657585) - [Railroad Tycoon II](https://www.filfre.net/2025/01/railroad-tycoon-ii/)
 * [2025-01-10, 16:39:01](https://news.ycombinator.com/item?id=42657208) - [Ships must practice celestial navigation](https://www.usni.org/magazines/proceedings/2025/january/ships-must-practice-celestial-navigation)
 * [2025-01-10, 16:02:23](https://news.ycombinator.com/item?id=42656810) - [A Racket alternative to HTML Tidy](https://joeldueck.com/what-about/html-printer/index.html)
 * [2025-01-10, 15:53:07](https://news.ycombinator.com/item?id=42656711) - [Finland's zero homeless strategy (2021)](https://oecdecoscope.blog/2021/12/13/finlands-zero-homeless-strategy-lessons-from-a-success-story/)
