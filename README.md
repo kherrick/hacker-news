@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-13, 15:10:11](https://news.ycombinator.com/item?id=42684211) - [Subway Stories](https://subwaystories.nyc/)
-* [2025-01-13, 14:18:08](https://news.ycombinator.com/item?id=42683630) - [US-owned Greenland and Gulf of America? What a weird week](https://www.theregister.com/2025/01/11/opinion_column_us_moves/)
 * [2025-01-13, 14:10:33](https://news.ycombinator.com/item?id=42683567) - [Luck Be a Landlord Might Be Banned from Google Play](https://blog.trampolinetales.com/luck-be-a-landlord-might-be-banned-from-google-play-2/)
 * [2025-01-13, 13:06:42](https://news.ycombinator.com/item?id=42683009) - [Literate programming: Knuth is doing it wrong (2014)](https://akkartik.name/post/literate-programming)
 * [2025-01-13, 12:51:37](https://news.ycombinator.com/item?id=42682876) - [Live London Underground / bus maps taken down by TfL trademark complaint](https://traintimes.org.uk/map/tube/)
@@ -11,6 +10,7 @@
 * [2025-01-13, 05:58:32](https://news.ycombinator.com/item?id=42680499) - [IRC Driven – modern IRC indexing site and search engine](https://www.ircdriven.com/)
 * [2025-01-13, 05:44:29](https://news.ycombinator.com/item?id=42680437) - [The history and use of /etc./glob in early Unixes](https://utcc.utoronto.ca/~cks/space/blog/unix/EtcGlobHistory)
 * [2025-01-13, 04:22:06](https://news.ycombinator.com/item?id=42680048) - [Show HN: New search engine and free-FOIA-by-fax-via-web for US veteran records](https://www.birls.org)
+* [2025-01-13, 03:11:37](https://news.ycombinator.com/item?id=42679679) - [Disco Elysium Explorer](http://134.0.119.41)
 * [2025-01-13, 01:41:52](https://news.ycombinator.com/item?id=42679127) - [How did they make cars fall apart in old movies (2017)](https://movies.stackexchange.com/questions/79161/how-did-they-make-cars-fall-apart-in-old-movies)
 * [2025-01-13, 00:50:43](https://news.ycombinator.com/item?id=42678754) - [Show HN: Doom (1993) in a PDF](https://doompdf.pages.dev/doom.pdf)
 * [2025-01-13, 00:35:22](https://news.ycombinator.com/item?id=42678647) - [Standard patterns in choice-based games (2015)](https://heterogenoustasks.wordpress.com/2015/01/26/standard-patterns-in-choice-based-games/)
