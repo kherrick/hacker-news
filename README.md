@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-13, 14:10:33](https://news.ycombinator.com/item?id=42683567) - [Luck Be a Landlord Might Be Banned from Google Play](https://blog.trampolinetales.com/luck-be-a-landlord-might-be-banned-from-google-play-2/)
 * [2025-01-13, 13:34:55](https://news.ycombinator.com/item?id=42683251) - [WH Executive Order Affecting Chips and AI Models](https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/13/fact-sheet-ensuring-u-s-security-and-economic-strength-in-the-age-of-artificial-intelligence/)
 * [2025-01-13, 13:06:42](https://news.ycombinator.com/item?id=42683009) - [Literate programming: Knuth is doing it wrong (2014)](https://akkartik.name/post/literate-programming)
 * [2025-01-13, 12:51:37](https://news.ycombinator.com/item?id=42682876) - [Live London Underground / bus maps taken down by TfL trademark complaint](https://traintimes.org.uk/map/tube/)
@@ -17,7 +18,6 @@
 * [2025-01-12, 20:18:43](https://news.ycombinator.com/item?id=42676529) - [The Canva outage: another tale of saturation and resilience](https://surfingcomplexity.blog/2024/12/21/the-canva-outage-another-tale-of-saturation-and-resilience/)
 * [2025-01-12, 19:27:07](https://news.ycombinator.com/item?id=42676123) - [If we had the best product engineering organization, what would it look like?](https://www.jamesshore.com/v2/blog/2025/the-best-product-engineering-org-in-the-world)
 * [2025-01-12, 18:43:05](https://news.ycombinator.com/item?id=42675725) - [Tabby: Self-hosted AI coding assistant](https://github.com/TabbyML/tabby)
-* [2025-01-12, 17:36:45](https://news.ycombinator.com/item?id=42675208) - [From ASCII to ASIC: Porting donut.c to a tiny slice of silicon](https://www.a1k0n.net/2025/01/10/tiny-tapeout-donut.html)
 * [2025-01-12, 17:14:37](https://news.ycombinator.com/item?id=42675025) - [It's time to abandon the cargo cult metaphor](https://www.righto.com/2025/01/its-time-to-abandon-cargo-cult-metaphor.html)
 * [2025-01-12, 16:01:00](https://news.ycombinator.com/item?id=42674455) - [Backdooring Your Backdoors – Another $20 Domain, More Governments](https://labs.watchtowr.com/more-governments-backdoors-in-your-backdoors/)
 * [2025-01-12, 15:53:02](https://news.ycombinator.com/item?id=42674385) - [Mac Mini G4 – The best « classic » Macintosh for retro-gaming?](https://www.xtof.info/MacMiniG4-the-best-classic-macintosh-for-retrogaming.html)
