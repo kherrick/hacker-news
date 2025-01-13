@@ -3,7 +3,7 @@
 * [2025-01-13, 03:11:37](https://news.ycombinator.com/item?id=42679679) - [Disco Elysium Explorer](http://134.0.119.41)
 * [2025-01-13, 02:41:24](https://news.ycombinator.com/item?id=42679498) - [Cheap rj45 ethernet to USB adapter contains malware](https://twitter.com/evapro30/status/1878416900016705783)
 * [2025-01-13, 00:50:43](https://news.ycombinator.com/item?id=42678754) - [Show HN: Doom (1993) in a PDF](https://doompdf.pages.dev/doom.pdf)
-* [2025-01-13, 00:35:22](https://news.ycombinator.com/item?id=42678647) - [Standard Patterns in Choice-Based Games (2015)](https://heterogenoustasks.wordpress.com/2015/01/26/standard-patterns-in-choice-based-games/)
+* [2025-01-13, 00:35:22](https://news.ycombinator.com/item?id=42678647) - [Standard patterns in choice-based games (2015)](https://heterogenoustasks.wordpress.com/2015/01/26/standard-patterns-in-choice-based-games/)
 * [2025-01-13, 00:27:00](https://news.ycombinator.com/item?id=42678584) - [The Free Movie: Frame-by-frame, handrawn reproduction of \"The Bee Movie\"](https://thefreemovie.buzz/)
 * [2025-01-12, 22:53:16](https://news.ycombinator.com/item?id=42677835) - [Right to root access](https://medhir.com/blog/right-to-root-access)
 * [2025-01-12, 22:34:49](https://news.ycombinator.com/item?id=42677667) - [FurtherAI (YC W24) Is Hiring Across Research, Engineering, and Design](https://www.ycombinator.com/companies/furtherai/jobs)
