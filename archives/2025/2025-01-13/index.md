@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-13](index.md)
 
+* [2025-01-13, 15:49:12](https://news.ycombinator.com/item?id=42684740) - [An \"oh fuck\" moment in time](https://ghuntley.com/oh-fuck/)
+* [2025-01-13, 15:13:45](https://news.ycombinator.com/item?id=42684257) - [The Curious Gems of the River Thames](https://www.atlasobscura.com/articles/thames-garnets-mudlark)
 * [2025-01-13, 15:10:11](https://news.ycombinator.com/item?id=42684211) - [Subway Stories](https://subwaystories.nyc/)
 * [2025-01-13, 14:30:49](https://news.ycombinator.com/item?id=42683753) - [Sonos CEO Patrick Spence steps down after disastrous app launch](https://www.theverge.com/2025/1/13/24342179/sonos-ceo-patrick-spence-resignation-reason-app)
 * [2025-01-13, 14:18:08](https://news.ycombinator.com/item?id=42683630) - [US-owned Greenland and Gulf of America? What a weird week](https://www.theregister.com/2025/01/11/opinion_column_us_moves/)

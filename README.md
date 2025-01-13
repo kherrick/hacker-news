@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-13, 15:49:12](https://news.ycombinator.com/item?id=42684740) - [An \"oh fuck\" moment in time](https://ghuntley.com/oh-fuck/)
+* [2025-01-13, 15:13:45](https://news.ycombinator.com/item?id=42684257) - [The Curious Gems of the River Thames](https://www.atlasobscura.com/articles/thames-garnets-mudlark)
 * [2025-01-13, 15:10:11](https://news.ycombinator.com/item?id=42684211) - [Subway Stories](https://subwaystories.nyc/)
 * [2025-01-13, 14:10:33](https://news.ycombinator.com/item?id=42683567) - [Luck Be a Landlord Might Be Banned from Google Play](https://blog.trampolinetales.com/luck-be-a-landlord-might-be-banned-from-google-play-2/)
 * [2025-01-13, 13:06:42](https://news.ycombinator.com/item?id=42683009) - [Literate programming: Knuth is doing it wrong (2014)](https://akkartik.name/post/literate-programming)
@@ -15,8 +17,6 @@
 * [2025-01-13, 00:35:22](https://news.ycombinator.com/item?id=42678647) - [Standard patterns in choice-based games (2015)](https://heterogenoustasks.wordpress.com/2015/01/26/standard-patterns-in-choice-based-games/)
 * [2025-01-13, 00:27:00](https://news.ycombinator.com/item?id=42678584) - [The Free Movie: Frame-by-frame, handrawn reproduction of \"The Bee Movie\" (2023)](https://thefreemovie.buzz/)
 * [2025-01-12, 22:53:16](https://news.ycombinator.com/item?id=42677835) - [Right to root access](https://medhir.com/blog/right-to-root-access)
-* [2025-01-12, 20:18:43](https://news.ycombinator.com/item?id=42676529) - [The Canva outage: another tale of saturation and resilience](https://surfingcomplexity.blog/2024/12/21/the-canva-outage-another-tale-of-saturation-and-resilience/)
-* [2025-01-12, 19:27:07](https://news.ycombinator.com/item?id=42676123) - [If we had the best product engineering organization, what would it look like?](https://www.jamesshore.com/v2/blog/2025/the-best-product-engineering-org-in-the-world)
 * [2025-01-12, 18:43:05](https://news.ycombinator.com/item?id=42675725) - [Tabby: Self-hosted AI coding assistant](https://github.com/TabbyML/tabby)
 * [2025-01-12, 17:14:37](https://news.ycombinator.com/item?id=42675025) - [It's time to abandon the cargo cult metaphor](https://www.righto.com/2025/01/its-time-to-abandon-cargo-cult-metaphor.html)
 * [2025-01-12, 16:01:00](https://news.ycombinator.com/item?id=42674455) - [Backdooring Your Backdoors – Another $20 Domain, More Governments](https://labs.watchtowr.com/more-governments-backdoors-in-your-backdoors/)
