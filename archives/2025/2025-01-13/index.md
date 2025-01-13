@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-01-13](index.md)
 
+* [2025-01-13, 19:55:46](https://news.ycombinator.com/item?id=42688159) - [JPMorgan Workers Ponder Union in Wake of Return-to-Office Mandate](https://www.barrons.com/articles/jpmorgan-back-to-office-mandate-union-4206af78)
+* [2025-01-13, 19:52:20](https://news.ycombinator.com/item?id=42688105) - [Moral Progress Is Annoying](https://aeon.co/essays/why-does-moral-progress-feel-preachy-and-annoying)
+* [2025-01-13, 19:42:48](https://news.ycombinator.com/item?id=42687932) - [Sonos CEO Patrick Spence steps down after app update debacle](https://www.reuters.com/business/retail-consumer/sonos-ceo-patrick-spence-steps-down-after-app-update-debacle-2025-01-13/)
 * [2025-01-13, 18:56:47](https://news.ycombinator.com/item?id=42687133) - [Corn Syrup Took over America](https://thehustle.co/originals/how-corn-syrup-took-over-america)
 * [2025-01-13, 18:56:31](https://news.ycombinator.com/item?id=42687131) - [The people fighting to get through to anti-science Americans](https://www.theguardian.com/us-news/2025/jan/13/science-trust-experts-communication)
 * [2025-01-13, 18:55:31](https://news.ycombinator.com/item?id=42687121) - [WordPress Is in Trouble](https://anderegg.ca/2025/01/11/wordpress-is-in-trouble)
