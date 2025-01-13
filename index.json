@@ -31,26 +31,6 @@
   ],
   [
     [
-      "2025-01-12, 23:04:02",
-      "https://news.ycombinator.com/item?id=42677913"
-    ],
-    [
-      "The Consensus on Havana Syndrome Is Cracking",
-      "https://www.theatlantic.com/international/archive/2025/01/havana-syndrome-russia-intelligence/681282/"
-    ]
-  ],
-  [
-    [
-      "2025-01-12, 22:53:16",
-      "https://news.ycombinator.com/item?id=42677835"
-    ],
-    [
-      "Right to Root Access",
-      "https://medhir.com/blog/right-to-root-access"
-    ]
-  ],
-  [
-    [
       "2025-01-12, 22:34:49",
       "https://news.ycombinator.com/item?id=42677667"
     ],
@@ -101,6 +81,16 @@
   ],
   [
     [
+      "2025-01-12, 20:27:28",
+      "https://news.ycombinator.com/item?id=42676613"
+    ],
+    [
+      "What the TP-Link Ban in the US Means for You",
+      "https://thedefendopsdiaries.com/what-the-tp-link-ban-in-the-us-means-for-you/"
+    ]
+  ],
+  [
+    [
       "2025-01-12, 20:18:43",
       "https://news.ycombinator.com/item?id=42676529"
     ],
@@ -117,16 +107,6 @@
     [
       "Uv's killer feature is making ad-hoc environments easy",
       "https://valatka.dev/2025/01/12/on-killer-uv-feature.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-12, 19:27:07",
-      "https://news.ycombinator.com/item?id=42676123"
-    ],
-    [
-      "James Shore: The Best Product Engineering Org in the World",
-      "https://www.jamesshore.com/v2/blog/2025/the-best-product-engineering-org-in-the-world"
     ]
   ],
   [
@@ -251,12 +231,12 @@
   ],
   [
     [
-      "2025-01-10, 15:46:33",
-      "https://news.ycombinator.com/item?id=42656621"
+      "2025-01-12, 09:30:34",
+      "https://news.ycombinator.com/item?id=42672339"
     ],
     [
-      "Ask HN: What is a common PR review time at your company?",
-      "https://news.ycombinator.com/item?id=42656621"
+      "What do you think about using a game engine for UI?",
+      "https://news.ycombinator.com/item?id=42672339"
     ]
   ],
   [
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2025-01-09, 22:47:44",
+      "https://news.ycombinator.com/item?id=42650644"
+    ],
+    [
+      "Norms-Based Intellectual Property Systems: The Case of French Chefs(2008)",
+      "https://pubsonline.informs.org/doi/abs/10.1287/orsc.1070.0314?journalCode=orsc"
+    ]
+  ],
+  [
+    [
       "2025-01-09, 19:40:54",
       "https://news.ycombinator.com/item?id=42649139"
     ],
     [
       "Why Rust nextest is process-per-test",
       "https://sunshowers.io/posts/nextest-process-per-test/"
+    ]
+  ],
+  [
+    [
+      "2025-01-09, 07:24:43",
+      "https://news.ycombinator.com/item?id=42642625"
+    ],
+    [
+      "Link Blog in a Static Site",
+      "http://rednafi.com/misc/link_blog/"
     ]
   ]
 ]
