@@ -31,6 +31,36 @@
   ],
   [
     [
+      "2025-01-13, 00:27:00",
+      "https://news.ycombinator.com/item?id=42678584"
+    ],
+    [
+      "The Free Movie: Frame-by-frame, handrawn reproduction of \"The Bee Movie\"",
+      "https://thefreemovie.buzz/"
+    ]
+  ],
+  [
+    [
+      "2025-01-12, 23:04:02",
+      "https://news.ycombinator.com/item?id=42677913"
+    ],
+    [
+      "The consensus on Havana Syndrome is cracking",
+      "https://www.theatlantic.com/international/archive/2025/01/havana-syndrome-russia-intelligence/681282/"
+    ]
+  ],
+  [
+    [
+      "2025-01-12, 22:53:16",
+      "https://news.ycombinator.com/item?id=42677835"
+    ],
+    [
+      "Right to root access",
+      "https://medhir.com/blog/right-to-root-access"
+    ]
+  ],
+  [
+    [
       "2025-01-12, 22:34:49",
       "https://news.ycombinator.com/item?id=42677667"
     ],
@@ -71,22 +101,22 @@
   ],
   [
     [
+      "2025-01-12, 22:26:35",
+      "https://news.ycombinator.com/item?id=42677587"
+    ],
+    [
+      "I deleted my social media accounts",
+      "https://asylumsquare.com/backstage/2025-01-12/why-i-deleted-my-social-media-accounts"
+    ]
+  ],
+  [
+    [
       "2025-01-12, 21:04:56",
       "https://news.ycombinator.com/item?id=42676928"
     ],
     [
       "Microsoft Bob: Microsoft's biggest flop of the 1990s",
       "https://dfarq.homeip.net/microsoft-bob-microsofts-biggest-flop-of-the-199"
-    ]
-  ],
-  [
-    [
-      "2025-01-12, 20:27:28",
-      "https://news.ycombinator.com/item?id=42676613"
-    ],
-    [
-      "What the TP-Link Ban in the US Means for You",
-      "https://thedefendopsdiaries.com/what-the-tp-link-ban-in-the-us-means-for-you/"
     ]
   ],
   [
@@ -107,6 +137,16 @@
     [
       "Uv's killer feature is making ad-hoc environments easy",
       "https://valatka.dev/2025/01/12/on-killer-uv-feature.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-12, 19:27:07",
+      "https://news.ycombinator.com/item?id=42676123"
+    ],
+    [
+      "If we had the best product engineering organization, what would it look like?",
+      "https://www.jamesshore.com/v2/blog/2025/the-best-product-engineering-org-in-the-world"
     ]
   ],
   [
@@ -141,6 +181,16 @@
   ],
   [
     [
+      "2025-01-12, 17:47:03",
+      "https://news.ycombinator.com/item?id=42675274"
+    ],
+    [
+      "The case for letting Malibu burn (1995)",
+      "https://longreads.com/2018/12/04/the-case-for-letting-malibu-burn/"
+    ]
+  ],
+  [
+    [
       "2025-01-12, 17:36:45",
       "https://news.ycombinator.com/item?id=42675208"
     ],
@@ -157,16 +207,6 @@
     [
       "It's time to abandon the cargo cult metaphor",
       "https://www.righto.com/2025/01/its-time-to-abandon-cargo-cult-metaphor.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-12, 16:56:16",
-      "https://news.ycombinator.com/item?id=42674882"
-    ],
-    [
-      "Ripping Sega System 16 Sprites and Palettes: Brief Guide (2021)",
-      "http://reassembler.blogspot.com/"
     ]
   ],
   [
@@ -221,16 +261,6 @@
   ],
   [
     [
-      "2025-01-12, 10:39:42",
-      "https://news.ycombinator.com/item?id=42672592"
-    ],
-    [
-      "Great CPAN modules released last week",
-      "https://niceperl.blogspot.com/2025/01/dxxx-20-great-cpan-modules-released.html"
-    ]
-  ],
-  [
-    [
       "2025-01-12, 09:30:34",
       "https://news.ycombinator.com/item?id=42672339"
     ],
@@ -267,36 +297,6 @@
     [
       "Pushing the whole company into the past on purpose",
       "https://rachelbythebay.com/w/2025/01/09/lag/"
-    ]
-  ],
-  [
-    [
-      "2025-01-09, 22:47:44",
-      "https://news.ycombinator.com/item?id=42650644"
-    ],
-    [
-      "Norms-Based Intellectual Property Systems: The Case of French Chefs(2008)",
-      "https://pubsonline.informs.org/doi/abs/10.1287/orsc.1070.0314?journalCode=orsc"
-    ]
-  ],
-  [
-    [
-      "2025-01-09, 19:40:54",
-      "https://news.ycombinator.com/item?id=42649139"
-    ],
-    [
-      "Why Rust nextest is process-per-test",
-      "https://sunshowers.io/posts/nextest-process-per-test/"
-    ]
-  ],
-  [
-    [
-      "2025-01-09, 07:24:43",
-      "https://news.ycombinator.com/item?id=42642625"
-    ],
-    [
-      "Link Blog in a Static Site",
-      "http://rednafi.com/misc/link_blog/"
     ]
   ]
 ]
