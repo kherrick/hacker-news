@@ -2,8 +2,8 @@
 
 * [2025-01-13, 18:56:47](https://news.ycombinator.com/item?id=42687133) - [Corn Syrup Took over America](https://thehustle.co/originals/how-corn-syrup-took-over-america)
 * [2025-01-13, 18:56:31](https://news.ycombinator.com/item?id=42687131) - [The people fighting to get through to anti-science Americans](https://www.theguardian.com/us-news/2025/jan/13/science-trust-experts-communication)
+* [2025-01-13, 18:55:31](https://news.ycombinator.com/item?id=42687121) - [WordPress Is in Trouble](https://anderegg.ca/2025/01/11/wordpress-is-in-trouble)
 * [2025-01-13, 18:11:17](https://news.ycombinator.com/item?id=42686457) - [AI Engineer Reading List](https://www.latent.space/p/2025-papers)
-* [2025-01-13, 17:42:29](https://news.ycombinator.com/item?id=42686151) - [The Movement to Redirect Billions of Taxpayer Dollars to Private Schools](https://www.propublica.org/article/school-vouchers-ohio-church-state-tax-dollars-private-religious)
 * [2025-01-13, 17:00:21](https://news.ycombinator.com/item?id=42685628) - [Humanize Healthcare Content as Wyndly (YC W21) 's first content hire](https://app.dover.com/apply/Wyndly/008f0389-988d-4b63-87c1-026b7b20c6fa/?rs=76643084)
 * [2025-01-13, 15:13:45](https://news.ycombinator.com/item?id=42684257) - [The Curious Gems of the River Thames](https://www.atlasobscura.com/articles/thames-garnets-mudlark)
 * [2025-01-13, 15:10:11](https://news.ycombinator.com/item?id=42684211) - [Subway Stories](https://subwaystories.nyc/)
