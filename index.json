@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-13, 13:06:42",
+      "https://news.ycombinator.com/item?id=42683009"
+    ],
+    [
+      "Literate programming: Knuth is doing it wrong (2014)",
+      "https://akkartik.name/post/literate-programming"
+    ]
+  ],
+  [
+    [
       "2025-01-13, 12:51:37",
       "https://news.ycombinator.com/item?id=42682876"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=42682602"
     ],
     [
-      "The Timeless 9 Golden Rules of Debugging",
+      "The Timeless 9 Golden Rules of Debugging (2004)",
       "https://dwheeler.com/essays/debugging-agans.html"
     ]
   ],
@@ -247,16 +257,6 @@
     [
       "Northeastern's redesign of the CS curriculum",
       "https://huntnewsnu.com/82511/editorial/op-eds/op-ed-northeasterns-redesign-of-the-khoury-curriculum-abandons-the-fundamentals-of-computer-science/"
-    ]
-  ],
-  [
-    [
-      "2025-01-10, 05:55:24",
-      "https://news.ycombinator.com/item?id=42652982"
-    ],
-    [
-      "DoxyPress – Modern Doxygen",
-      "https://www.copperspice.com/docs/doxypress/index.html"
     ]
   ],
   [
