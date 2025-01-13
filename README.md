@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-13, 12:51:37](https://news.ycombinator.com/item?id=42682876) - [Live London Underground / bus maps taken down by TfL trademark complaint](https://traintimes.org.uk/map/tube/)
-* [2025-01-13, 12:44:03](https://news.ycombinator.com/item?id=42682821) - [Ask HN: Am I the only one here who can't stand HN's AI obsession?](https://news.ycombinator.com/item?id=42682821)
 * [2025-01-13, 12:32:39](https://news.ycombinator.com/item?id=42682758) - [Earth breaches 1.5 °C climate limit for the first time: what does it mean?](https://www.nature.com/articles/d41586-025-00010-9)
 * [2025-01-13, 12:07:42](https://news.ycombinator.com/item?id=42682602) - [The Timeless 9 Golden Rules of Debugging](https://dwheeler.com/essays/debugging-agans.html)
 * [2025-01-13, 12:00:11](https://news.ycombinator.com/item?id=42682560) - [Raycast (YC W20) Is Hiring Full Stack Eng (EU, Remote, €105k-€160k)](https://www.raycast.com/jobs/software-engineer-full-stack)
@@ -26,6 +25,7 @@
 * [2025-01-10, 17:15:22](https://news.ycombinator.com/item?id=42657585) - [Railroad Tycoon II](https://www.filfre.net/2025/01/railroad-tycoon-ii/)
 * [2025-01-10, 13:50:40](https://news.ycombinator.com/item?id=42655544) - [The Siren Song of Little Languages](https://www.wilfred.me.uk/blog/2019/03/24/the-siren-song-of-little-languages/)
 * [2025-01-10, 13:07:02](https://news.ycombinator.com/item?id=42655283) - [Northeastern's redesign of the CS curriculum](https://huntnewsnu.com/82511/editorial/op-eds/op-ed-northeasterns-redesign-of-the-khoury-curriculum-abandons-the-fundamentals-of-computer-science/)
+* [2025-01-10, 05:55:24](https://news.ycombinator.com/item?id=42652982) - [DoxyPress – Modern Doxygen](https://www.copperspice.com/docs/doxypress/index.html)
 * [2025-01-09, 23:47:50](https://news.ycombinator.com/item?id=42651043) - [Celebrating the Timeless Allure of Tintin's Aesthetics](https://collegetowns.substack.com/p/celebrating-the-timeless-allure-of)
 * [2025-01-09, 23:01:21](https://news.ycombinator.com/item?id=42650732) - [Pushing the whole company into the past on purpose](https://rachelbythebay.com/w/2025/01/09/lag/)
 * [2025-01-09, 21:15:33](https://news.ycombinator.com/item?id=42649862) - [Why is my CPU usage always 100%?](https://www.downtowndougbrown.com/2024/04/why-is-my-cpu-usage-always-100-upgrading-my-chumby-8-kernel-part-9/)
