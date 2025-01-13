@@ -27,9 +27,9 @@
 * [2025-01-10, 13:50:40](https://news.ycombinator.com/item?id=42655544) - [The Siren Song of Little Languages](https://www.wilfred.me.uk/blog/2019/03/24/the-siren-song-of-little-languages/)
 * [2025-01-10, 13:07:02](https://news.ycombinator.com/item?id=42655283) - [Northeastern's redesign of the CS curriculum](https://huntnewsnu.com/82511/editorial/op-eds/op-ed-northeasterns-redesign-of-the-khoury-curriculum-abandons-the-fundamentals-of-computer-science/)
 * [2025-01-10, 05:55:24](https://news.ycombinator.com/item?id=42652982) - [DoxyPress – Modern Doxygen](https://www.copperspice.com/docs/doxypress/index.html)
+* [2025-01-10, 05:15:18](https://news.ycombinator.com/item?id=42652730) - [Comptime as Configuration](https://www.openmymind.net/Comptime-as-Configuration/)
 * [2025-01-09, 23:01:21](https://news.ycombinator.com/item?id=42650732) - [Pushing the whole company into the past on purpose](https://rachelbythebay.com/w/2025/01/09/lag/)
 * [2025-01-09, 21:15:33](https://news.ycombinator.com/item?id=42649862) - [Why is my CPU usage always 100%?](https://www.downtowndougbrown.com/2024/04/why-is-my-cpu-usage-always-100-upgrading-my-chumby-8-kernel-part-9/)
-* [2025-01-09, 12:42:39](https://news.ycombinator.com/item?id=42644729) - [Collatz's Ant and similarity of Collatz sequences](https://gbragafibra.github.io/2025/01/08/collatz_ant2.html)
 
 ## [Archives](archives/index.md)
 
