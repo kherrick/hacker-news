@@ -47,6 +47,7 @@
 * [2025-01-09, 13:01:37](https://news.ycombinator.com/item?id=42644896) - [Rational or Not? This Basic Math Question Took Decades to Answer](https://www.quantamagazine.org/rational-or-not-this-basic-math-question-took-decades-to-answer-20250108/)
 * [2025-01-09, 12:54:36](https://news.ycombinator.com/item?id=42644834) - [My Amazon TV Now Unmutes Itself During Prime Video Commercial Breaks](https://old.reddit.com/r/mildlyinfuriating/comments/1hx5wkq/my_amazon_tv_now_unmutes_itself_during_prime/)
 * [2025-01-09, 12:44:04](https://news.ycombinator.com/item?id=42644742) - [Why kids need to take more risks: science reveal benefits of wild, free play](https://www.nature.com/articles/d41586-024-04215-2)
+* [2025-01-09, 12:42:39](https://news.ycombinator.com/item?id=42644729) - [Collatz's Ant and similarity of Collatz sequences](https://gbragafibra.github.io/2025/01/08/collatz_ant2.html)
 * [2025-01-09, 12:17:55](https://news.ycombinator.com/item?id=42644506) - [Not Every User Owns an iPhone](https://calendar.perfplanet.com/2024/not-every-user-owns-an-iphone/)
 * [2025-01-09, 12:06:21](https://news.ycombinator.com/item?id=42644434) - [Microsoft should be terrified of SteamOS](https://www.pcworld.com/article/2571541/microsoft-should-be-terrified-of-steamos.html)
 * [2025-01-09, 12:04:57](https://news.ycombinator.com/item?id=42644426) - [Running Animations Without Keyframes](https://css-tip.com/animation-without-keyframes/)
