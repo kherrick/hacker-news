@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-13, 07:24:10](https://news.ycombinator.com/item?id=42680948) - [How to turn off Apple Intelligence on your iPhone](https://www.theverge.com/24340563/apple-intelligence-ios-iphone-disable-how-to)
+* [2025-01-13, 09:55:27](https://news.ycombinator.com/item?id=42681794) - [Langfuse (YC W23) Is Hiring OSS Engineers in Berlin](https://github.com/langfuse/langfuse/blob/main/careers)
+* [2025-01-13, 08:15:58](https://news.ycombinator.com/item?id=42681240) - [Vanished from Google/Bing/LinkedIn: a rebuttal of an anti-net neutrality paper](http://internetthought.blogspot.com/2025/01/vanished-from-index-of-google-bing-and.html)
 * [2025-01-13, 06:00:51](https://news.ycombinator.com/item?id=42680510) - [Blue Origin New Glenn Mission NG-1 – Live](https://www.blueorigin.com)
 * [2025-01-13, 05:58:32](https://news.ycombinator.com/item?id=42680499) - [IRC Driven – modern IRC indexing site and search engine](https://www.ircdriven.com/)
 * [2025-01-13, 05:44:29](https://news.ycombinator.com/item?id=42680437) - [The history and use of /etc./glob in early Unixes](https://utcc.utoronto.ca/~cks/space/blog/unix/EtcGlobHistory)
@@ -10,7 +11,6 @@
 * [2025-01-13, 00:35:22](https://news.ycombinator.com/item?id=42678647) - [Standard patterns in choice-based games (2015)](https://heterogenoustasks.wordpress.com/2015/01/26/standard-patterns-in-choice-based-games/)
 * [2025-01-13, 00:27:00](https://news.ycombinator.com/item?id=42678584) - [The Free Movie: Frame-by-frame, handrawn reproduction of \"The Bee Movie\" (2023)](https://thefreemovie.buzz/)
 * [2025-01-12, 22:53:16](https://news.ycombinator.com/item?id=42677835) - [Right to root access](https://medhir.com/blog/right-to-root-access)
-* [2025-01-12, 22:34:49](https://news.ycombinator.com/item?id=42677667) - [FurtherAI (YC W24) Is Hiring Across Research, Engineering, and Design](https://www.ycombinator.com/companies/furtherai/jobs)
 * [2025-01-12, 22:26:35](https://news.ycombinator.com/item?id=42677587) - [I deleted my social media accounts](https://asylumsquare.com/backstage/2025-01-12/why-i-deleted-my-social-media-accounts)
 * [2025-01-12, 21:04:56](https://news.ycombinator.com/item?id=42676928) - [Microsoft Bob: Microsoft's biggest flop of the 1990s](https://dfarq.homeip.net/microsoft-bob-microsofts-biggest-flop-of-the-199)
 * [2025-01-12, 20:18:43](https://news.ycombinator.com/item?id=42676529) - [The Canva outage: another tale of saturation and resilience](https://surfingcomplexity.blog/2024/12/21/the-canva-outage-another-tale-of-saturation-and-resilience/)
