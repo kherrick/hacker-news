@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-13](index.md)
 
 * [2025-01-13, 22:12:31](https://news.ycombinator.com/item?id=42690154) - [Lorne Michaels Is the Real Star of \"Saturday Night Live\"](https://www.newyorker.com/magazine/2025/01/20/lorne-michaels-profile)
+* [2025-01-13, 20:42:39](https://news.ycombinator.com/item?id=42688933) - [An Illustrator Dies, His Last Book Unfinished. In Steps His Son](https://www.nytimes.com/2025/01/13/books/booksupdate/charles-nicholas-santore-scroobius-pip.html)
 * [2025-01-13, 20:19:59](https://news.ycombinator.com/item?id=42688538) - [CEO of AI Music Company Says People Don't Like Making Music](https://www.404media.co/ceo-of-ai-music-company-says-people-dont-like-making-music/)
 * [2025-01-13, 19:55:46](https://news.ycombinator.com/item?id=42688159) - [JPMorgan Workers Ponder Union in Wake of Return-to-Office Mandate](https://www.barrons.com/articles/jpmorgan-back-to-office-mandate-union-4206af78)
 * [2025-01-13, 19:52:20](https://news.ycombinator.com/item?id=42688105) - [Moral Progress Is Annoying](https://aeon.co/essays/why-does-moral-progress-feel-preachy-and-annoying)
