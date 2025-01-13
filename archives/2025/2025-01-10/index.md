@@ -15,6 +15,7 @@
 * [2025-01-10, 21:21:17](https://news.ycombinator.com/item?id=42660377) - [OpenAI's bot crushed this seven-person company's web site 'like a DDoS attack'](https://techcrunch.com/2025/01/10/how-openais-bot-crushed-this-seven-person-companys-web-site-like-a-ddos-attack/)
 * [2025-01-10, 21:17:21](https://news.ycombinator.com/item?id=42660335) - [Phi-4 Bug Fixes](https://unsloth.ai/blog/phi4)
 * [2025-01-10, 21:08:42](https://news.ycombinator.com/item?id=42660255) - [Show HN: 3D Terrain simulation for hiking, skiing etc.](https://github.com/r-follador/CubeTrek)
+* [2025-01-10, 21:02:32](https://news.ycombinator.com/item?id=42660184) - [How we used GPT-4o for image detection with 350 similar illustrations](https://olup-blog.pages.dev/stories/image-detection-cars)
 * [2025-01-10, 20:57:39](https://news.ycombinator.com/item?id=42660117) - [The War Against Headlight Brightness](https://theringer.com/2024/12/03/tech/headlight-brightness-cars-accidents)
 * [2025-01-10, 20:10:21](https://news.ycombinator.com/item?id=42659586) - [How Pac-Man Revolutionized Gaming (2020)](https://thereader.mitpress.mit.edu/how-pac-man-revolutionized-gaming/)
 * [2025-01-10, 19:52:01](https://news.ycombinator.com/item?id=42659410) - [Reflections on 1 Year of (Trying to) Become Successful on YouTube](https://chaserensberger.com/blog/Reflections-On-1-Year-Of-Making-YouTube-Videos)
