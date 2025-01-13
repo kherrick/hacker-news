@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-13, 03:11:37](https://news.ycombinator.com/item?id=42679679) - [Disco Elysium Explorer](http://134.0.119.41)
-* [2025-01-13, 02:41:24](https://news.ycombinator.com/item?id=42679498) - [Cheap rj45 ethernet to USB adapter contains malware](https://twitter.com/evapro30/status/1878416900016705783)
 * [2025-01-13, 01:41:52](https://news.ycombinator.com/item?id=42679127) - [How did they make cars fall apart in old movies](https://movies.stackexchange.com/questions/79161/how-did-they-make-cars-fall-apart-in-old-movies)
 * [2025-01-13, 00:50:43](https://news.ycombinator.com/item?id=42678754) - [Show HN: Doom (1993) in a PDF](https://doompdf.pages.dev/doom.pdf)
 * [2025-01-13, 00:35:22](https://news.ycombinator.com/item?id=42678647) - [Standard patterns in choice-based games (2015)](https://heterogenoustasks.wordpress.com/2015/01/26/standard-patterns-in-choice-based-games/)
@@ -24,6 +23,7 @@
 * [2025-01-12, 16:01:00](https://news.ycombinator.com/item?id=42674455) - [Backdooring Your Backdoors – Another $20 Domain, More Governments](https://labs.watchtowr.com/more-governments-backdoors-in-your-backdoors/)
 * [2025-01-12, 15:53:02](https://news.ycombinator.com/item?id=42674385) - [Mac Mini G4 – The best « classic » Macintosh for retro-gaming?](https://www.xtof.info/MacMiniG4-the-best-classic-macintosh-for-retrogaming.html)
 * [2025-01-12, 15:13:14](https://news.ycombinator.com/item?id=42674116) - [Bad Apple but it's 6,500 regexes that I search for in Vim](https://eieio.games/blog/bad-apple-with-regex-in-vim/)
+* [2025-01-12, 14:03:15](https://news.ycombinator.com/item?id=42673596) - [The mistake of yearning for the 'friendly' online world of 20 years ago](https://english.elpais.com/lifestyle/2025-01-07/the-internet-hasnt-made-us-bad-we-were-already-like-that-the-mistake-of-yearning-for-the-friendly-online-world-of-20-years-ago.html)
 * [2025-01-12, 09:30:34](https://news.ycombinator.com/item?id=42672339) - [What do you think about using a game engine for UI?](https://news.ycombinator.com/item?id=42672339)
 * [2025-01-10, 20:10:21](https://news.ycombinator.com/item?id=42659586) - [How Pac-Man Revolutionized Gaming (2020)](https://thereader.mitpress.mit.edu/how-pac-man-revolutionized-gaming/)
 * [2025-01-10, 13:07:02](https://news.ycombinator.com/item?id=42655283) - [Northeastern's redesign of the CS curriculum](https://huntnewsnu.com/82511/editorial/op-eds/op-ed-northeasterns-redesign-of-the-khoury-curriculum-abandons-the-fundamentals-of-computer-science/)
