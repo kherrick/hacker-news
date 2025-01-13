@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-13](index.md)
 
 * [2025-01-13, 10:46:29](https://news.ycombinator.com/item?id=42682093) - [Fedora 42 Looks to Ship Optimized Executables for Different x86_64 Capabilities](https://www.phoronix.com/news/Fedora-42-Optimized-Executables)
+* [2025-01-13, 10:38:31](https://news.ycombinator.com/item?id=42682055) - [AI Tools: Impacts on Cognitive Offloading and the Future of Critical Thinking](https://www.mdpi.com/2075-4698/15/1/6)
 * [2025-01-13, 09:55:27](https://news.ycombinator.com/item?id=42681794) - [Langfuse (YC W23) Is Hiring OSS Engineers in Berlin](https://github.com/langfuse/langfuse/blob/main/careers)
 * [2025-01-13, 08:56:07](https://news.ycombinator.com/item?id=42681435) - [Apple asks investors to block proposal to scrap diversity programmes](https://www.theguardian.com/technology/2025/jan/13/apple-investors-diversity-dei)
 * [2025-01-13, 08:15:58](https://news.ycombinator.com/item?id=42681240) - [Vanished from Google/Bing/LinkedIn: a rebuttal of an anti-net neutrality paper](http://internetthought.blogspot.com/2025/01/vanished-from-index-of-google-bing-and.html)

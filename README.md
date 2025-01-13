@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-13, 10:46:29](https://news.ycombinator.com/item?id=42682093) - [Fedora 42 Looks to Ship Optimized Executables for Different x86_64 Capabilities](https://www.phoronix.com/news/Fedora-42-Optimized-Executables)
+* [2025-01-13, 10:38:31](https://news.ycombinator.com/item?id=42682055) - [AI Tools: Impacts on Cognitive Offloading and the Future of Critical Thinking](https://www.mdpi.com/2075-4698/15/1/6)
 * [2025-01-13, 09:55:27](https://news.ycombinator.com/item?id=42681794) - [Langfuse (YC W23) Is Hiring OSS Engineers in Berlin](https://github.com/langfuse/langfuse/blob/main/careers)
 * [2025-01-13, 05:58:32](https://news.ycombinator.com/item?id=42680499) - [IRC Driven – modern IRC indexing site and search engine](https://www.ircdriven.com/)
 * [2025-01-13, 05:44:29](https://news.ycombinator.com/item?id=42680437) - [The history and use of /etc./glob in early Unixes](https://utcc.utoronto.ca/~cks/space/blog/unix/EtcGlobHistory)
