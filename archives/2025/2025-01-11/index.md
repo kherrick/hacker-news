@@ -48,3 +48,4 @@
 * [2025-01-11, 03:28:30](https://news.ycombinator.com/item?id=42663047) - [MessagePack: It's like JSON, but fast and small.](https://msgpack.org/)
 * [2025-01-11, 03:11:03](https://news.ycombinator.com/item?id=42662964) - [Why Greenland Is of Growing Strategic Significance](https://www.twz.com/news-features/why-greenland-is-of-growing-strategic-significance)
 * [2025-01-11, 01:09:41](https://news.ycombinator.com/item?id=42662340) - [The Anti-Social Century](https://www.theatlantic.com/magazine/archive/2025/02/american-loneliness-personality-politics/681091/)
+* [2025-01-11, 01:07:31](https://news.ycombinator.com/item?id=42662329) - [A Laptop Stand Made from a Single Sheet of Recycled Paper](https://www.core77.com/posts/134948/A-Laptop-Stand-Made-from-a-Single-Sheet-of-Recycled-Paper)
