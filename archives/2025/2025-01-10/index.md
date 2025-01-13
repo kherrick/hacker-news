@@ -72,6 +72,7 @@
 * [2025-01-10, 07:05:35](https://news.ycombinator.com/item?id=42653352) - [Samsung Display to Begin Mass Production of Rollable OLED for Laptops](https://global.samsungdisplay.com/31332)
 * [2025-01-10, 07:04:04](https://news.ycombinator.com/item?id=42653343) - [Ruby/tk: Tk interface module using tcltklib](https://github.com/ruby/tk)
 * [2025-01-10, 07:00:48](https://news.ycombinator.com/item?id=42653320) - [Telli (YC F24) is hiring product engineers in Berlin, Germany (in-person)](https://www.ycombinator.com/companies/telli/jobs/J1YREmZ-product-engineer)
+* [2025-01-10, 05:55:24](https://news.ycombinator.com/item?id=42652982) - [DoxyPress – Modern Doxygen](https://www.copperspice.com/docs/doxypress/index.html)
 * [2025-01-10, 05:53:06](https://news.ycombinator.com/item?id=42652967) - [Before Squid Game, There Was Battle Royale](https://www.tokyoweekender.com/entertainment/movies-tv/before-squid-game-there-was-battle-royale/)
 * [2025-01-10, 05:21:11](https://news.ycombinator.com/item?id=42652775) - [A visual demo of Ruby's lazy enumerator](https://joyofrails.com/articles/simple-trick-to-understand-ruby-lazy-enumerator)
 * [2025-01-10, 05:15:18](https://news.ycombinator.com/item?id=42652730) - [Comptime as Configuration](https://www.openmymind.net/Comptime-as-Configuration/)
