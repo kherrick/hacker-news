@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-13, 06:00:51](https://news.ycombinator.com/item?id=42680510) - [Blue Origin New Glenn Mission NG-1 – Live](https://www.blueorigin.com)
+* [2025-01-13, 05:58:32](https://news.ycombinator.com/item?id=42680499) - [IRC Driven – modern IRC indexing site and search engine](https://www.ircdriven.com/)
 * [2025-01-13, 05:44:29](https://news.ycombinator.com/item?id=42680437) - [The history and use of /etc./glob in early Unixes](https://utcc.utoronto.ca/~cks/space/blog/unix/EtcGlobHistory)
 * [2025-01-13, 03:11:37](https://news.ycombinator.com/item?id=42679679) - [Disco Elysium Explorer](http://134.0.119.41)
 * [2025-01-13, 01:41:52](https://news.ycombinator.com/item?id=42679127) - [How did they make cars fall apart in old movies (2017)](https://movies.stackexchange.com/questions/79161/how-did-they-make-cars-fall-apart-in-old-movies)
@@ -22,7 +23,6 @@
 * [2025-01-12, 16:01:00](https://news.ycombinator.com/item?id=42674455) - [Backdooring Your Backdoors – Another $20 Domain, More Governments](https://labs.watchtowr.com/more-governments-backdoors-in-your-backdoors/)
 * [2025-01-12, 15:53:02](https://news.ycombinator.com/item?id=42674385) - [Mac Mini G4 – The best « classic » Macintosh for retro-gaming?](https://www.xtof.info/MacMiniG4-the-best-classic-macintosh-for-retrogaming.html)
 * [2025-01-12, 15:13:14](https://news.ycombinator.com/item?id=42674116) - [Bad Apple but it's 6,500 regexes that I search for in Vim](https://eieio.games/blog/bad-apple-with-regex-in-vim/)
-* [2025-01-12, 14:03:15](https://news.ycombinator.com/item?id=42673596) - [The mistake of yearning for the 'friendly' online world of 20 years ago](https://english.elpais.com/lifestyle/2025-01-07/the-internet-hasnt-made-us-bad-we-were-already-like-that-the-mistake-of-yearning-for-the-friendly-online-world-of-20-years-ago.html)
 * [2025-01-10, 13:50:40](https://news.ycombinator.com/item?id=42655544) - [The Siren Song of Little Languages](https://www.wilfred.me.uk/blog/2019/03/24/the-siren-song-of-little-languages/)
 * [2025-01-10, 13:07:02](https://news.ycombinator.com/item?id=42655283) - [Northeastern's redesign of the CS curriculum](https://huntnewsnu.com/82511/editorial/op-eds/op-ed-northeasterns-redesign-of-the-khoury-curriculum-abandons-the-fundamentals-of-computer-science/)
 * [2025-01-10, 05:55:24](https://news.ycombinator.com/item?id=42652982) - [DoxyPress – Modern Doxygen](https://www.copperspice.com/docs/doxypress/index.html)
