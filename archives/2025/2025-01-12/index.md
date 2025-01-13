@@ -53,6 +53,7 @@
 * [2025-01-12, 11:47:20](https://news.ycombinator.com/item?id=42672886) - [Male and female brains differ at birth](https://bsd.biomedcentral.com/articles/10.1186/s13293-024-00657-5)
 * [2025-01-12, 11:45:11](https://news.ycombinator.com/item?id=42672876) - [Open letter to Mark Zuckerberg – Congratulations on your remarks](https://www.berliner-zeitung.de/politik-gesellschaft/open-letter-to-mark-zuckerberg-congratulations-on-your-speech-now-fire-correctiv-li.2288496)
 * [2025-01-12, 11:40:56](https://news.ycombinator.com/item?id=42672863) - [Show HN: Werk, a simple build tool and command runner](https://simonask.github.io/introducing-werk/)
+* [2025-01-12, 11:29:52](https://news.ycombinator.com/item?id=42672821) - [I created an open-source Hardware Hacking Wiki – with tutorials for beginners](https://www.hardbreak.wiki)
 * [2025-01-12, 11:22:55](https://news.ycombinator.com/item?id=42672790) - [AI founders will learn The Bitter Lesson](https://lukaspetersson.com/blog/2025/bitter-vertical/)
 * [2025-01-12, 11:18:07](https://news.ycombinator.com/item?id=42672758) - [Rewilding the Self](https://worldsensorium.com/rewilding-the-self/)
 * [2025-01-12, 11:17:21](https://news.ycombinator.com/item?id=42672755) - [Flynn Effect](https://en.wikipedia.org/wiki/Flynn_effect)
