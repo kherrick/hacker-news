@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-13](index.md)
 
+* [2025-01-13, 13:06:42](https://news.ycombinator.com/item?id=42683009) - [Literate programming: Knuth is doing it wrong (2014)](https://akkartik.name/post/literate-programming)
 * [2025-01-13, 12:51:37](https://news.ycombinator.com/item?id=42682876) - [Live London Underground / bus maps taken down by TfL trademark complaint](https://traintimes.org.uk/map/tube/)
 * [2025-01-13, 12:44:03](https://news.ycombinator.com/item?id=42682821) - [Ask HN: Am I the only one here who can't stand HN's AI obsession?](https://news.ycombinator.com/item?id=42682821)
 * [2025-01-13, 12:32:39](https://news.ycombinator.com/item?id=42682758) - [Earth breaches 1.5 °C climate limit for the first time: what does it mean?](https://www.nature.com/articles/d41586-025-00010-9)
