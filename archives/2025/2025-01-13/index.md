@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-13](index.md)
 
+* [2025-01-13, 20:19:59](https://news.ycombinator.com/item?id=42688538) - [CEO of AI Music Company Says People Don't Like Making Music](https://www.404media.co/ceo-of-ai-music-company-says-people-dont-like-making-music/)
 * [2025-01-13, 19:55:46](https://news.ycombinator.com/item?id=42688159) - [JPMorgan Workers Ponder Union in Wake of Return-to-Office Mandate](https://www.barrons.com/articles/jpmorgan-back-to-office-mandate-union-4206af78)
 * [2025-01-13, 19:52:20](https://news.ycombinator.com/item?id=42688105) - [Moral Progress Is Annoying](https://aeon.co/essays/why-does-moral-progress-feel-preachy-and-annoying)
 * [2025-01-13, 19:42:48](https://news.ycombinator.com/item?id=42687932) - [Sonos CEO Patrick Spence steps down after app update debacle](https://www.reuters.com/business/retail-consumer/sonos-ceo-patrick-spence-steps-down-after-app-update-debacle-2025-01-13/)
