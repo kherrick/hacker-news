@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-13, 12:51:37](https://news.ycombinator.com/item?id=42682876) - [Live London Underground / bus maps taken down by TfL trademark complaint](https://traintimes.org.uk/map/tube/)
+* [2025-01-13, 12:44:03](https://news.ycombinator.com/item?id=42682821) - [Ask HN: Am I the only one here who can't stand HN's AI obsession?](https://news.ycombinator.com/item?id=42682821)
+* [2025-01-13, 12:32:39](https://news.ycombinator.com/item?id=42682758) - [Earth breaches 1.5 °C climate limit for the first time: what does it mean?](https://www.nature.com/articles/d41586-025-00010-9)
 * [2025-01-13, 12:07:42](https://news.ycombinator.com/item?id=42682602) - [The Timeless 9 Golden Rules of Debugging](https://dwheeler.com/essays/debugging-agans.html)
 * [2025-01-13, 12:00:11](https://news.ycombinator.com/item?id=42682560) - [Raycast (YC W20) Is Hiring Full Stack Eng (EU, Remote, €105k-€160k)](https://www.raycast.com/jobs/software-engineer-full-stack)
-* [2025-01-13, 10:38:31](https://news.ycombinator.com/item?id=42682055) - [AI Tools: Impacts on Cognitive Offloading and the Future of Critical Thinking](https://www.mdpi.com/2075-4698/15/1/6)
-* [2025-01-13, 10:06:08](https://news.ycombinator.com/item?id=42681866) - [Show HN: JUring – Java bindings for io_uring file I/O](https://github.com/davidtos/JUring)
 * [2025-01-13, 05:58:32](https://news.ycombinator.com/item?id=42680499) - [IRC Driven – modern IRC indexing site and search engine](https://www.ircdriven.com/)
 * [2025-01-13, 05:44:29](https://news.ycombinator.com/item?id=42680437) - [The history and use of /etc./glob in early Unixes](https://utcc.utoronto.ca/~cks/space/blog/unix/EtcGlobHistory)
 * [2025-01-13, 04:22:06](https://news.ycombinator.com/item?id=42680048) - [Show HN: New search engine and free-FOIA-by-fax-via-web for US veteran records](https://www.birls.org)
@@ -14,7 +15,6 @@
 * [2025-01-13, 00:27:00](https://news.ycombinator.com/item?id=42678584) - [The Free Movie: Frame-by-frame, handrawn reproduction of \"The Bee Movie\" (2023)](https://thefreemovie.buzz/)
 * [2025-01-12, 22:53:16](https://news.ycombinator.com/item?id=42677835) - [Right to root access](https://medhir.com/blog/right-to-root-access)
 * [2025-01-12, 20:18:43](https://news.ycombinator.com/item?id=42676529) - [The Canva outage: another tale of saturation and resilience](https://surfingcomplexity.blog/2024/12/21/the-canva-outage-another-tale-of-saturation-and-resilience/)
-* [2025-01-12, 20:06:49](https://news.ycombinator.com/item?id=42676432) - [Uv's killer feature is making ad-hoc environments easy](https://valatka.dev/2025/01/12/on-killer-uv-feature.html)
 * [2025-01-12, 19:27:07](https://news.ycombinator.com/item?id=42676123) - [If we had the best product engineering organization, what would it look like?](https://www.jamesshore.com/v2/blog/2025/the-best-product-engineering-org-in-the-world)
 * [2025-01-12, 18:43:05](https://news.ycombinator.com/item?id=42675725) - [Tabby: Self-hosted AI coding assistant](https://github.com/TabbyML/tabby)
 * [2025-01-12, 17:36:45](https://news.ycombinator.com/item?id=42675208) - [From ASCII to ASIC: Porting donut.c to a tiny slice of silicon](https://www.a1k0n.net/2025/01/10/tiny-tapeout-donut.html)
@@ -26,10 +26,10 @@
 * [2025-01-10, 17:15:22](https://news.ycombinator.com/item?id=42657585) - [Railroad Tycoon II](https://www.filfre.net/2025/01/railroad-tycoon-ii/)
 * [2025-01-10, 13:50:40](https://news.ycombinator.com/item?id=42655544) - [The Siren Song of Little Languages](https://www.wilfred.me.uk/blog/2019/03/24/the-siren-song-of-little-languages/)
 * [2025-01-10, 13:07:02](https://news.ycombinator.com/item?id=42655283) - [Northeastern's redesign of the CS curriculum](https://huntnewsnu.com/82511/editorial/op-eds/op-ed-northeasterns-redesign-of-the-khoury-curriculum-abandons-the-fundamentals-of-computer-science/)
-* [2025-01-10, 05:55:24](https://news.ycombinator.com/item?id=42652982) - [DoxyPress – Modern Doxygen](https://www.copperspice.com/docs/doxypress/index.html)
 * [2025-01-09, 23:47:50](https://news.ycombinator.com/item?id=42651043) - [Celebrating the Timeless Allure of Tintin's Aesthetics](https://collegetowns.substack.com/p/celebrating-the-timeless-allure-of)
 * [2025-01-09, 23:01:21](https://news.ycombinator.com/item?id=42650732) - [Pushing the whole company into the past on purpose](https://rachelbythebay.com/w/2025/01/09/lag/)
 * [2025-01-09, 21:15:33](https://news.ycombinator.com/item?id=42649862) - [Why is my CPU usage always 100%?](https://www.downtowndougbrown.com/2024/04/why-is-my-cpu-usage-always-100-upgrading-my-chumby-8-kernel-part-9/)
+* [2025-01-09, 20:00:47](https://news.ycombinator.com/item?id=42649315) - [Entropy of a Large Language Model output](https://nikkin.dev/blog/llm-entropy.html)
 
 ## [Archives](archives/index.md)
 
