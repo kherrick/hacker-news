@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-01-13, 12:51:37",
+      "https://news.ycombinator.com/item?id=42682876"
+    ],
+    [
+      "Live London Underground / bus maps taken down by TfL trademark complaint",
+      "https://traintimes.org.uk/map/tube/"
+    ]
+  ],
+  [
+    [
+      "2025-01-13, 12:44:03",
+      "https://news.ycombinator.com/item?id=42682821"
+    ],
+    [
+      "Ask HN: Am I the only one here who can't stand HN's AI obsession?",
+      "https://news.ycombinator.com/item?id=42682821"
+    ]
+  ],
+  [
+    [
+      "2025-01-13, 12:32:39",
+      "https://news.ycombinator.com/item?id=42682758"
+    ],
+    [
+      "Earth breaches 1.5 °C climate limit for the first time: what does it mean?",
+      "https://www.nature.com/articles/d41586-025-00010-9"
+    ]
+  ],
+  [
+    [
       "2025-01-13, 12:07:42",
       "https://news.ycombinator.com/item?id=42682602"
     ],
@@ -17,26 +47,6 @@
     [
       "Raycast (YC W20) Is Hiring Full Stack Eng (EU, Remote, €105k-€160k)",
       "https://www.raycast.com/jobs/software-engineer-full-stack"
-    ]
-  ],
-  [
-    [
-      "2025-01-13, 10:38:31",
-      "https://news.ycombinator.com/item?id=42682055"
-    ],
-    [
-      "AI Tools: Impacts on Cognitive Offloading and the Future of Critical Thinking",
-      "https://www.mdpi.com/2075-4698/15/1/6"
-    ]
-  ],
-  [
-    [
-      "2025-01-13, 10:06:08",
-      "https://news.ycombinator.com/item?id=42681866"
-    ],
-    [
-      "Show HN: JUring – Java bindings for io_uring file I/O",
-      "https://github.com/davidtos/JUring"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "The Canva outage: another tale of saturation and resilience",
       "https://surfingcomplexity.blog/2024/12/21/the-canva-outage-another-tale-of-saturation-and-resilience/"
-    ]
-  ],
-  [
-    [
-      "2025-01-12, 20:06:49",
-      "https://news.ycombinator.com/item?id=42676432"
-    ],
-    [
-      "Uv's killer feature is making ad-hoc environments easy",
-      "https://valatka.dev/2025/01/12/on-killer-uv-feature.html"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2025-01-10, 05:55:24",
-      "https://news.ycombinator.com/item?id=42652982"
-    ],
-    [
-      "DoxyPress – Modern Doxygen",
-      "https://www.copperspice.com/docs/doxypress/index.html"
-    ]
-  ],
-  [
-    [
       "2025-01-09, 23:47:50",
       "https://news.ycombinator.com/item?id=42651043"
     ],
@@ -297,6 +287,16 @@
     [
       "Why is my CPU usage always 100%?",
       "https://www.downtowndougbrown.com/2024/04/why-is-my-cpu-usage-always-100-upgrading-my-chumby-8-kernel-part-9/"
+    ]
+  ],
+  [
+    [
+      "2025-01-09, 20:00:47",
+      "https://news.ycombinator.com/item?id=42649315"
+    ],
+    [
+      "Entropy of a Large Language Model output",
+      "https://nikkin.dev/blog/llm-entropy.html"
     ]
   ]
 ]
