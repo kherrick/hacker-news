@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-13, 18:48:56](https://news.ycombinator.com/item?id=42687033) - [Mark Zuckerberg says AI could soon do the work of Meta's midlevel engineers](https://www.businessinsider.com/mark-zuckerberg-meta-ai-replace-engineers-coders-joe-rogan-podcast-2025-1)
 * [2025-01-13, 18:11:17](https://news.ycombinator.com/item?id=42686457) - [AI Engineer Reading List](https://www.latent.space/p/2025-papers)
 * [2025-01-13, 17:00:21](https://news.ycombinator.com/item?id=42685628) - [Humanize Healthcare Content as Wyndly (YC W21) 's first content hire](https://app.dover.com/apply/Wyndly/008f0389-988d-4b63-87c1-026b7b20c6fa/?rs=76643084)
 * [2025-01-13, 15:13:45](https://news.ycombinator.com/item?id=42684257) - [The Curious Gems of the River Thames](https://www.atlasobscura.com/articles/thames-garnets-mudlark)
@@ -19,6 +18,7 @@
 * [2025-01-13, 00:27:00](https://news.ycombinator.com/item?id=42678584) - [The Free Movie: Frame-by-frame, handrawn reproduction of \"The Bee Movie\" (2023)](https://thefreemovie.buzz/)
 * [2025-01-12, 22:53:16](https://news.ycombinator.com/item?id=42677835) - [Right to root access](https://medhir.com/blog/right-to-root-access)
 * [2025-01-12, 18:43:05](https://news.ycombinator.com/item?id=42675725) - [Tabby: Self-hosted AI coding assistant](https://github.com/TabbyML/tabby)
+* [2025-01-12, 16:01:00](https://news.ycombinator.com/item?id=42674455) - [Backdooring Your Backdoors – Another $20 Domain, More Governments](https://labs.watchtowr.com/more-governments-backdoors-in-your-backdoors/)
 * [2025-01-12, 15:13:14](https://news.ycombinator.com/item?id=42674116) - [Bad Apple but it's 6,500 regexes that I search for in Vim](https://eieio.games/blog/bad-apple-with-regex-in-vim/)
 * [2025-01-12, 11:40:56](https://news.ycombinator.com/item?id=42672863) - [Show HN: Werk, a simple build tool and command runner](https://simonask.github.io/introducing-werk/)
 * [2025-01-12, 11:29:52](https://news.ycombinator.com/item?id=42672821) - [I created an open-source Hardware Hacking Wiki – with tutorials for beginners](https://www.hardbreak.wiki)
