@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-13, 22:12:31](https://news.ycombinator.com/item?id=42690154) - [Lorne Michaels Is the Real Star of \"Saturday Night Live\"](https://www.newyorker.com/magazine/2025/01/20/lorne-michaels-profile)
 * [2025-01-13, 19:42:48](https://news.ycombinator.com/item?id=42687932) - [Sonos CEO steps down after app update debacle](https://www.reuters.com/business/retail-consumer/sonos-ceo-patrick-spence-steps-down-after-app-update-debacle-2025-01-13/)
 * [2025-01-13, 19:39:21](https://news.ycombinator.com/item?id=42687861) - [New York starts enforcing $15 broadband law that ISPs tried to kill](https://arstechnica.com/tech-policy/2025/01/new-york-starts-enforcing-15-broadband-law-that-isps-tried-to-kill/)
 * [2025-01-13, 18:55:31](https://news.ycombinator.com/item?id=42687121) - [WordPress Is in Trouble](https://anderegg.ca/2025/01/11/wordpress-is-in-trouble)
@@ -9,7 +10,6 @@
 * [2025-01-13, 15:10:11](https://news.ycombinator.com/item?id=42684211) - [Subway Stories](https://subwaystories.nyc/)
 * [2025-01-13, 14:28:46](https://news.ycombinator.com/item?id=42683736) - [Why Skyscrapers Became Glass Boxes](https://www.construction-physics.com/p/why-skyscrapers-became-glass-boxes)
 * [2025-01-13, 13:50:46](https://news.ycombinator.com/item?id=42683389) - [Fluid Simulation Pendant](https://mitxela.com/projects/fluid-pendant)
-* [2025-01-13, 12:51:37](https://news.ycombinator.com/item?id=42682876) - [Live London Underground / bus maps taken down by TfL trademark complaint](https://traintimes.org.uk/map/tube/)
 * [2025-01-13, 12:42:27](https://news.ycombinator.com/item?id=42682813) - [Can you complete the Oregon Trail if you wait at river for 14272 years: A study](https://moral.net.au/writing/2025/01/11/waiting_for_oregon/)
 * [2025-01-13, 12:19:15](https://news.ycombinator.com/item?id=42682671) - [Euro-cloud provider Anexia moves 12,000 VMs off VMware to homebrew KVM platform](https://www.theregister.com/2025/01/13/anexia_vmware_to_kvm_migration/)
 * [2025-01-13, 12:07:42](https://news.ycombinator.com/item?id=42682602) - [Debugging: Indispensable rules for finding even the most elusive problems (2004)](https://dwheeler.com/essays/debugging-agans.html)
