@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-13](index.md)
 
+* [2025-01-13, 13:34:55](https://news.ycombinator.com/item?id=42683251) - [WH Executive Order Affecting Chips and AI Models](https://www.whitehouse.gov/briefing-room/statements-releases/2025/01/13/fact-sheet-ensuring-u-s-security-and-economic-strength-in-the-age-of-artificial-intelligence/)
 * [2025-01-13, 13:06:42](https://news.ycombinator.com/item?id=42683009) - [Literate programming: Knuth is doing it wrong (2014)](https://akkartik.name/post/literate-programming)
 * [2025-01-13, 12:51:37](https://news.ycombinator.com/item?id=42682876) - [Live London Underground / bus maps taken down by TfL trademark complaint](https://traintimes.org.uk/map/tube/)
 * [2025-01-13, 12:44:03](https://news.ycombinator.com/item?id=42682821) - [Ask HN: Am I the only one here who can't stand HN's AI obsession?](https://news.ycombinator.com/item?id=42682821)
