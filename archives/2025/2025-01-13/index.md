@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-13](index.md)
 
 * [2025-01-13, 17:00:21](https://news.ycombinator.com/item?id=42685628) - [Humanize Healthcare Content as Wyndly (YC W21) 's first content hire](https://app.dover.com/apply/Wyndly/008f0389-988d-4b63-87c1-026b7b20c6fa/?rs=76643084)
+* [2025-01-13, 16:54:00](https://news.ycombinator.com/item?id=42685534) - [Ask HN: Is maintaining a personal blog still worth it?](https://news.ycombinator.com/item?id=42685534)
 * [2025-01-13, 16:03:04](https://news.ycombinator.com/item?id=42684912) - [( UK ) Prime Minister sets out blueprint to turbocharge AI](https://www.gov.uk/government/news/prime-minister-sets-out-blueprint-to-turbocharge-ai)
 * [2025-01-13, 15:49:12](https://news.ycombinator.com/item?id=42684740) - [An \"oh fuck\" moment in time](https://ghuntley.com/oh-fuck/)
 * [2025-01-13, 15:37:24](https://news.ycombinator.com/item?id=42684574) - [California Fire Facts](https://gavinnewsom.com/california-fire-facts/)
