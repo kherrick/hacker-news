@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-11](index.md)
 
+* [2025-01-11, 23:35:47](https://news.ycombinator.com/item?id=42669856) - ['So immoral': gig economy workers forced to pay fee to receive their wages](https://www.theguardian.com/business/2025/jan/11/so-immoral-gig-economy-workers-forced-to-pay-fee-to-receive-their-wages)
 * [2025-01-11, 23:20:10](https://news.ycombinator.com/item?id=42669754) - [Stop Trying to Schedule a Call with Me](https://matduggan.com/stop-trying-to-schedule-a-call-with-me/)
 * [2025-01-11, 23:03:56](https://news.ycombinator.com/item?id=42669681) - [What it's like working for American companies as an Australian](https://www.seangoedecke.com/working-for-americans/)
 * [2025-01-11, 23:02:07](https://news.ycombinator.com/item?id=42669670) - [Scanning ultrasound removes amyloid-β, restores memory in Alzheimer mouse model](https://www.science.org/doi/10.1126/scitranslmed.aaa2512?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)

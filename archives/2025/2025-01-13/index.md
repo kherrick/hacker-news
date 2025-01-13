@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-13](index.md)
 
 * [2025-01-13, 18:56:47](https://news.ycombinator.com/item?id=42687133) - [Corn Syrup Took over America](https://thehustle.co/originals/how-corn-syrup-took-over-america)
+* [2025-01-13, 18:56:31](https://news.ycombinator.com/item?id=42687131) - [The people fighting to get through to anti-science Americans](https://www.theguardian.com/us-news/2025/jan/13/science-trust-experts-communication)
 * [2025-01-13, 18:48:56](https://news.ycombinator.com/item?id=42687033) - [Mark Zuckerberg says AI could soon do the work of Meta's midlevel engineers](https://www.businessinsider.com/mark-zuckerberg-meta-ai-replace-engineers-coders-joe-rogan-podcast-2025-1)
 * [2025-01-13, 18:11:17](https://news.ycombinator.com/item?id=42686457) - [AI Engineer Reading List](https://www.latent.space/p/2025-papers)
 * [2025-01-13, 17:42:29](https://news.ycombinator.com/item?id=42686151) - [The Movement to Redirect Billions of Taxpayer Dollars to Private Schools](https://www.propublica.org/article/school-vouchers-ohio-church-state-tax-dollars-private-religious)
