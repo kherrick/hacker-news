@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-01-13](index.md)
 
+* [2025-01-13, 12:07:42](https://news.ycombinator.com/item?id=42682602) - [The Timeless 9 Golden Rules of Debugging](https://dwheeler.com/essays/debugging-agans.html)
+* [2025-01-13, 12:00:11](https://news.ycombinator.com/item?id=42682560) - [Raycast (YC W20) Is Hiring Full Stack Eng (EU, Remote, €105k-€160k)](https://www.raycast.com/jobs/software-engineer-full-stack)
 * [2025-01-13, 10:46:29](https://news.ycombinator.com/item?id=42682093) - [Fedora 42 Looks to Ship Optimized Executables for Different x86_64 Capabilities](https://www.phoronix.com/news/Fedora-42-Optimized-Executables)
 * [2025-01-13, 10:38:31](https://news.ycombinator.com/item?id=42682055) - [AI Tools: Impacts on Cognitive Offloading and the Future of Critical Thinking](https://www.mdpi.com/2075-4698/15/1/6)
+* [2025-01-13, 10:06:08](https://news.ycombinator.com/item?id=42681866) - [Show HN: JUring – Java bindings for io_uring file I/O](https://github.com/davidtos/JUring)
 * [2025-01-13, 09:55:27](https://news.ycombinator.com/item?id=42681794) - [Langfuse (YC W23) Is Hiring OSS Engineers in Berlin](https://github.com/langfuse/langfuse/blob/main/careers)
 * [2025-01-13, 08:56:07](https://news.ycombinator.com/item?id=42681435) - [Apple asks investors to block proposal to scrap diversity programmes](https://www.theguardian.com/technology/2025/jan/13/apple-investors-diversity-dei)
 * [2025-01-13, 08:15:58](https://news.ycombinator.com/item?id=42681240) - [Vanished from Google/Bing/LinkedIn: a rebuttal of an anti-net neutrality paper](http://internetthought.blogspot.com/2025/01/vanished-from-index-of-google-bing-and.html)
@@ -13,6 +16,7 @@
 * [2025-01-13, 06:00:51](https://news.ycombinator.com/item?id=42680510) - [Blue Origin New Glenn Mission NG-1 – Live](https://www.blueorigin.com)
 * [2025-01-13, 05:58:32](https://news.ycombinator.com/item?id=42680499) - [IRC Driven – modern IRC indexing site and search engine](https://www.ircdriven.com/)
 * [2025-01-13, 05:44:29](https://news.ycombinator.com/item?id=42680437) - [The history and use of /etc./glob in early Unixes](https://utcc.utoronto.ca/~cks/space/blog/unix/EtcGlobHistory)
+* [2025-01-13, 04:22:06](https://news.ycombinator.com/item?id=42680048) - [Show HN: New search engine and free-FOIA-by-fax-via-web for US veteran records](https://www.birls.org)
 * [2025-01-13, 03:11:37](https://news.ycombinator.com/item?id=42679679) - [Disco Elysium Explorer](http://134.0.119.41)
 * [2025-01-13, 02:41:24](https://news.ycombinator.com/item?id=42679498) - [Cheap rj45 ethernet to USB adapter contains malware](https://twitter.com/evapro30/status/1878416900016705783)
 * [2025-01-13, 01:41:52](https://news.ycombinator.com/item?id=42679127) - [How did they make cars fall apart in old movies](https://movies.stackexchange.com/questions/79161/how-did-they-make-cars-fall-apart-in-old-movies)
