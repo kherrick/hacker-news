@@ -10,6 +10,7 @@
 * [2025-01-10, 22:47:33](https://news.ycombinator.com/item?id=42661177) - [Coyote Time: What Games Can Teach Us About Forgiveness in Learning](https://blogs.bsu.edu/teaching-innovation/2023/11/15/coyote-time-games-teach-forgiveness-learning/)
 * [2025-01-10, 22:22:15](https://news.ycombinator.com/item?id=42660942) - [Building Bauble](https://ianthehenry.com/posts/bauble/building-bauble/)
 * [2025-01-10, 22:11:11](https://news.ycombinator.com/item?id=42660848) - [Cannonball: An Enhanced OutRun Engine](https://github.com/djyt/cannonball)
+* [2025-01-10, 21:25:35](https://news.ycombinator.com/item?id=42660424) - [This is How Many Startup Businesses Fail in the First Year (+Survival Tips)](https://54collective.vc/insight/startup-businesses-fail-in-the-first-year-survival-tips/)
 * [2025-01-10, 21:21:17](https://news.ycombinator.com/item?id=42660377) - [OpenAI's bot crushed this seven-person company's web site 'like a DDoS attack'](https://techcrunch.com/2025/01/10/how-openais-bot-crushed-this-seven-person-companys-web-site-like-a-ddos-attack/)
 * [2025-01-10, 21:17:21](https://news.ycombinator.com/item?id=42660335) - [Phi-4 Bug Fixes](https://unsloth.ai/blog/phi4)
 * [2025-01-10, 21:08:42](https://news.ycombinator.com/item?id=42660255) - [Show HN: 3D Terrain simulation for hiking, skiing etc.](https://github.com/r-follador/CubeTrek)
