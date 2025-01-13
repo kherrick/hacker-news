@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-13, 19:55:46](https://news.ycombinator.com/item?id=42688159) - [JPMorgan Workers Ponder Union in Wake of Return-to-Office Mandate](https://www.barrons.com/articles/jpmorgan-back-to-office-mandate-union-4206af78)
-* [2025-01-13, 19:52:20](https://news.ycombinator.com/item?id=42688105) - [Moral Progress Is Annoying](https://aeon.co/essays/why-does-moral-progress-feel-preachy-and-annoying)
 * [2025-01-13, 19:42:48](https://news.ycombinator.com/item?id=42687932) - [Sonos CEO Patrick Spence steps down after app update debacle](https://www.reuters.com/business/retail-consumer/sonos-ceo-patrick-spence-steps-down-after-app-update-debacle-2025-01-13/)
 * [2025-01-13, 18:56:47](https://news.ycombinator.com/item?id=42687133) - [Corn Syrup Took over America](https://thehustle.co/originals/how-corn-syrup-took-over-america)
 * [2025-01-13, 18:55:31](https://news.ycombinator.com/item?id=42687121) - [WordPress Is in Trouble](https://anderegg.ca/2025/01/11/wordpress-is-in-trouble)
@@ -20,6 +19,7 @@
 * [2025-01-13, 00:35:22](https://news.ycombinator.com/item?id=42678647) - [Standard patterns in choice-based games (2015)](https://heterogenoustasks.wordpress.com/2015/01/26/standard-patterns-in-choice-based-games/)
 * [2025-01-13, 00:27:00](https://news.ycombinator.com/item?id=42678584) - [The Free Movie: Frame-by-frame, handrawn reproduction of \"The Bee Movie\" (2023)](https://thefreemovie.buzz/)
 * [2025-01-12, 22:53:16](https://news.ycombinator.com/item?id=42677835) - [Right to root access](https://medhir.com/blog/right-to-root-access)
+* [2025-01-12, 18:43:05](https://news.ycombinator.com/item?id=42675725) - [Tabby: Self-hosted AI coding assistant](https://github.com/TabbyML/tabby)
 * [2025-01-12, 15:13:14](https://news.ycombinator.com/item?id=42674116) - [Bad Apple but it's 6,500 regexes that I search for in Vim](https://eieio.games/blog/bad-apple-with-regex-in-vim/)
 * [2025-01-12, 11:29:52](https://news.ycombinator.com/item?id=42672821) - [I created an open-source Hardware Hacking Wiki – with tutorials for beginners](https://www.hardbreak.wiki)
 * [2025-01-11, 23:35:47](https://news.ycombinator.com/item?id=42669856) - ['So immoral': gig economy workers forced to pay fee to receive their wages](https://www.theguardian.com/business/2025/jan/11/so-immoral-gig-economy-workers-forced-to-pay-fee-to-receive-their-wages)
