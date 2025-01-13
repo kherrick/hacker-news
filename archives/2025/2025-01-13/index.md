@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-13](index.md)
 
 * [2025-01-13, 09:55:27](https://news.ycombinator.com/item?id=42681794) - [Langfuse (YC W23) Is Hiring OSS Engineers in Berlin](https://github.com/langfuse/langfuse/blob/main/careers)
+* [2025-01-13, 08:56:07](https://news.ycombinator.com/item?id=42681435) - [Apple asks investors to block proposal to scrap diversity programmes](https://www.theguardian.com/technology/2025/jan/13/apple-investors-diversity-dei)
 * [2025-01-13, 08:15:58](https://news.ycombinator.com/item?id=42681240) - [Vanished from Google/Bing/LinkedIn: a rebuttal of an anti-net neutrality paper](http://internetthought.blogspot.com/2025/01/vanished-from-index-of-google-bing-and.html)
 * [2025-01-13, 07:24:10](https://news.ycombinator.com/item?id=42680948) - [How to turn off Apple Intelligence on your iPhone](https://www.theverge.com/24340563/apple-intelligence-ios-iphone-disable-how-to)
 * [2025-01-13, 06:00:51](https://news.ycombinator.com/item?id=42680510) - [Blue Origin New Glenn Mission NG-1 – Live](https://www.blueorigin.com)
