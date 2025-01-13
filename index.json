@@ -1,12 +1,72 @@
 [
   [
     [
+      "2025-01-13, 01:30:58",
+      "https://news.ycombinator.com/item?id=42679045"
+    ],
+    [
+      "A decade and a half of instability: The history of Google messaging apps (2021)",
+      "https://arstechnica.com/gadgets/2021/08/a-decade-and-a-half-of-instability-the-history-of-google-messaging-apps/"
+    ]
+  ],
+  [
+    [
+      "2025-01-13, 00:50:43",
+      "https://news.ycombinator.com/item?id=42678754"
+    ],
+    [
+      "Show HN: Doom (1993) in a PDF",
+      "https://doompdf.pages.dev/doom.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-01-13, 00:35:22",
+      "https://news.ycombinator.com/item?id=42678647"
+    ],
+    [
+      "Standard Patterns in Choice-Based Games (2015)",
+      "https://heterogenoustasks.wordpress.com/2015/01/26/standard-patterns-in-choice-based-games/"
+    ]
+  ],
+  [
+    [
+      "2025-01-12, 23:04:02",
+      "https://news.ycombinator.com/item?id=42677913"
+    ],
+    [
+      "The Consensus on Havana Syndrome Is Cracking",
+      "https://www.theatlantic.com/international/archive/2025/01/havana-syndrome-russia-intelligence/681282/"
+    ]
+  ],
+  [
+    [
+      "2025-01-12, 22:53:16",
+      "https://news.ycombinator.com/item?id=42677835"
+    ],
+    [
+      "Right to Root Access",
+      "https://medhir.com/blog/right-to-root-access"
+    ]
+  ],
+  [
+    [
       "2025-01-12, 22:34:49",
       "https://news.ycombinator.com/item?id=42677667"
     ],
     [
       "FurtherAI (YC W24) Is Hiring Across Research, Engineering, and Design",
       "https://www.ycombinator.com/companies/furtherai/jobs"
+    ]
+  ],
+  [
+    [
+      "2025-01-12, 22:32:44",
+      "https://news.ycombinator.com/item?id=42677647"
+    ],
+    [
+      "Qubes OS: Templates",
+      "https://www.qubes-os.org/doc/templates/"
     ]
   ],
   [
@@ -31,22 +91,12 @@
   ],
   [
     [
-      "2025-01-12, 22:26:35",
-      "https://news.ycombinator.com/item?id=42677587"
+      "2025-01-12, 21:04:56",
+      "https://news.ycombinator.com/item?id=42676928"
     ],
     [
-      "I deleted my social media accounts (and why you should too)",
-      "https://asylumsquare.com/backstage/2025-01-12/why-i-deleted-my-social-media-accounts"
-    ]
-  ],
-  [
-    [
-      "2025-01-12, 21:45:00",
-      "https://news.ycombinator.com/item?id=42677249"
-    ],
-    [
-      "Russia's Hidden War Debt",
-      "https://navigatingrussia.substack.com/p/russias-hidden-war-debt"
+      "Microsoft Bob: Microsoft's biggest flop of the 1990s",
+      "https://dfarq.homeip.net/microsoft-bob-microsofts-biggest-flop-of-the-199"
     ]
   ],
   [
@@ -65,18 +115,8 @@
       "https://news.ycombinator.com/item?id=42676432"
     ],
     [
-      "Uv's killer feature is pulling in local dependencies",
+      "Uv's killer feature is making ad-hoc environments easy",
       "https://valatka.dev/2025/01/12/on-killer-uv-feature.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-12, 19:46:08",
-      "https://news.ycombinator.com/item?id=42676274"
-    ],
-    [
-      "Best Pens for 2025",
-      "https://www.jetpens.com/blog/The-46-Best-Pens-for-2025-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974"
     ]
   ],
   [
@@ -127,6 +167,16 @@
     [
       "From ASCII to ASIC: Porting donut.c to a tiny slice of silicon",
       "https://www.a1k0n.net/2025/01/10/tiny-tapeout-donut.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-12, 17:14:37",
+      "https://news.ycombinator.com/item?id=42675025"
+    ],
+    [
+      "It's time to abandon the cargo cult metaphor",
+      "https://www.righto.com/2025/01/its-time-to-abandon-cargo-cult-metaphor.html"
     ]
   ],
   [
@@ -201,42 +251,12 @@
   ],
   [
     [
-      "2025-01-12, 03:38:25",
-      "https://news.ycombinator.com/item?id=42671105"
-    ],
-    [
-      "Why I Chose Common Lisp",
-      "https://blog.djhaskin.com/blog/why-i-chose-common-lisp/"
-    ]
-  ],
-  [
-    [
       "2025-01-10, 15:46:33",
       "https://news.ycombinator.com/item?id=42656621"
     ],
     [
       "Ask HN: What is a common PR review time at your company?",
       "https://news.ycombinator.com/item?id=42656621"
-    ]
-  ],
-  [
-    [
-      "2025-01-10, 13:07:02",
-      "https://news.ycombinator.com/item?id=42655283"
-    ],
-    [
-      "Northeastern's redesign of the Khoury curriculum abandons the fundamentals of CS",
-      "https://huntnewsnu.com/82511/editorial/op-eds/op-ed-northeasterns-redesign-of-the-khoury-curriculum-abandons-the-fundamentals-of-computer-science/"
-    ]
-  ],
-  [
-    [
-      "2025-01-10, 11:57:06",
-      "https://news.ycombinator.com/item?id=42654891"
-    ],
-    [
-      "Decentralized Syndication – The Missing Internet Protocol",
-      "http://tautvilas.lt/decentralized-syndication-the-missing-internet-protocol/"
     ]
   ],
   [
@@ -251,6 +271,16 @@
   ],
   [
     [
+      "2025-01-10, 05:15:18",
+      "https://news.ycombinator.com/item?id=42652730"
+    ],
+    [
+      "Comptime as Configuration",
+      "https://www.openmymind.net/Comptime-as-Configuration/"
+    ]
+  ],
+  [
+    [
       "2025-01-09, 23:01:21",
       "https://news.ycombinator.com/item?id=42650732"
     ],
@@ -261,42 +291,12 @@
   ],
   [
     [
-      "2025-01-09, 22:47:44",
-      "https://news.ycombinator.com/item?id=42650644"
-    ],
-    [
-      "Norms-Based Intellectual Property Systems: The Case of French Chefs(2008)",
-      "https://pubsonline.informs.org/doi/abs/10.1287/orsc.1070.0314?journalCode=orsc"
-    ]
-  ],
-  [
-    [
       "2025-01-09, 19:40:54",
       "https://news.ycombinator.com/item?id=42649139"
     ],
     [
       "Why Rust nextest is process-per-test",
       "https://sunshowers.io/posts/nextest-process-per-test/"
-    ]
-  ],
-  [
-    [
-      "2025-01-09, 07:24:43",
-      "https://news.ycombinator.com/item?id=42642625"
-    ],
-    [
-      "Link Blog in a Static Site",
-      "http://rednafi.com/misc/link_blog/"
-    ]
-  ],
-  [
-    [
-      "2025-01-09, 00:29:18",
-      "https://news.ycombinator.com/item?id=42640207"
-    ],
-    [
-      "How hucksters are manipulating Google to promote shady Chrome extensions",
-      "https://arstechnica.com/security/2025/01/googles-chrome-web-store-has-a-serious-spam-problem-promoting-shady-extensions/"
     ]
   ]
 ]
