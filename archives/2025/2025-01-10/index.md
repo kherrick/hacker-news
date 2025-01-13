@@ -34,6 +34,7 @@
 * [2025-01-10, 17:48:04](https://news.ycombinator.com/item?id=42657901) - [Meta's memo to employees rolling back DEI programs](https://www.axios.com/2025/01/10/meta-dei-memo-employees-programs)
 * [2025-01-10, 17:29:32](https://news.ycombinator.com/item?id=42657744) - [What Dr. Ruth Left Behind](https://www.nytimes.com/2025/01/09/arts/dr-ruth-kinsey-sex.html)
 * [2025-01-10, 17:24:32](https://news.ycombinator.com/item?id=42657692) - [Starlink is now cheaper than leading internet provider in some African countries](https://restofworld.org/2025/starlink-cheaper-internet-africa/)
+* [2025-01-10, 17:16:16](https://news.ycombinator.com/item?id=42657593) - [When a Winter Storm Trapped a Luxury Passenger Train Near Donner Pass for 3 Days](https://www.smithsonianmag.com/history/when-a-deadly-winter-storm-trapped-a-luxury-passenger-train-near-the-donner-pass-for-three-days-180985782/)
 * [2025-01-10, 17:16:12](https://news.ycombinator.com/item?id=42657591) - [Getting silly with C, part (void*)2](https://lcamtuf.substack.com/p/getting-silly-with-c-part-void2)
 * [2025-01-10, 17:15:22](https://news.ycombinator.com/item?id=42657585) - [Railroad Tycoon II](https://www.filfre.net/2025/01/railroad-tycoon-ii/)
 * [2025-01-10, 16:39:01](https://news.ycombinator.com/item?id=42657208) - [Ships must practice celestial navigation](https://www.usni.org/magazines/proceedings/2025/january/ships-must-practice-celestial-navigation)
