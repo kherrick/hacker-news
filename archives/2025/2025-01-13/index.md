@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-13](index.md)
 
+* [2025-01-13, 18:48:56](https://news.ycombinator.com/item?id=42687033) - [Mark Zuckerberg says AI could soon do the work of Meta's midlevel engineers](https://www.businessinsider.com/mark-zuckerberg-meta-ai-replace-engineers-coders-joe-rogan-podcast-2025-1)
+* [2025-01-13, 18:11:17](https://news.ycombinator.com/item?id=42686457) - [AI Engineer Reading List](https://www.latent.space/p/2025-papers)
 * [2025-01-13, 17:27:38](https://news.ycombinator.com/item?id=42685967) - [Syria flooded with Pepsi and Pringles as rulers open economy](https://www.ft.com/content/a1d032b6-f91b-465f-b3fa-9b46ae072fe5)
 * [2025-01-13, 17:00:21](https://news.ycombinator.com/item?id=42685628) - [Humanize Healthcare Content as Wyndly (YC W21) 's first content hire](https://app.dover.com/apply/Wyndly/008f0389-988d-4b63-87c1-026b7b20c6fa/?rs=76643084)
 * [2025-01-13, 16:54:00](https://news.ycombinator.com/item?id=42685534) - [Ask HN: Is maintaining a personal blog still worth it?](https://news.ycombinator.com/item?id=42685534)
