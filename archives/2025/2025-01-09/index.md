@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-09](index.md)
 
 * [2025-01-09, 23:47:50](https://news.ycombinator.com/item?id=42651043) - [Celebrating the Timeless Allure of Tintin's Aesthetics](https://collegetowns.substack.com/p/celebrating-the-timeless-allure-of)
+* [2025-01-09, 23:34:17](https://news.ycombinator.com/item?id=42650954) - [Lines of code that will beat A/B testing every time (2012)](https://stevehanov.ca/blog/index.php?id=132)
 * [2025-01-09, 23:20:25](https://news.ycombinator.com/item?id=42650855) - [Why I'm disappointed with the TVs at CES 2025](https://arstechnica.com/gadgets/2025/01/ces-2025-teases-alarming-smart-tv-future-loaded-with-unwanted-software-gimmicks/)
 * [2025-01-09, 23:13:34](https://news.ycombinator.com/item?id=42650815) - [A quickstart eBook about Helm's essentials](https://curiousdevscorner.gumroad.com/l/master-helm)
 * [2025-01-09, 23:01:21](https://news.ycombinator.com/item?id=42650732) - [Pushing the whole company into the past on purpose](https://rachelbythebay.com/w/2025/01/09/lag/)
