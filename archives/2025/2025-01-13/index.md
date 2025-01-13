@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-13](index.md)
 
+* [2025-01-13, 06:00:51](https://news.ycombinator.com/item?id=42680510) - [Blue Origin New Glenn Mission NG-1 – Live](https://www.blueorigin.com)
+* [2025-01-13, 05:44:29](https://news.ycombinator.com/item?id=42680437) - [The history and use of /etc./glob in early Unixes](https://utcc.utoronto.ca/~cks/space/blog/unix/EtcGlobHistory)
 * [2025-01-13, 03:11:37](https://news.ycombinator.com/item?id=42679679) - [Disco Elysium Explorer](http://134.0.119.41)
 * [2025-01-13, 02:41:24](https://news.ycombinator.com/item?id=42679498) - [Cheap rj45 ethernet to USB adapter contains malware](https://twitter.com/evapro30/status/1878416900016705783)
 * [2025-01-13, 01:41:52](https://news.ycombinator.com/item?id=42679127) - [How did they make cars fall apart in old movies](https://movies.stackexchange.com/questions/79161/how-did-they-make-cars-fall-apart-in-old-movies)

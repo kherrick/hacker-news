@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-13, 06:00:51](https://news.ycombinator.com/item?id=42680510) - [Blue Origin New Glenn Mission NG-1 – Live](https://www.blueorigin.com)
+* [2025-01-13, 05:44:29](https://news.ycombinator.com/item?id=42680437) - [The history and use of /etc./glob in early Unixes](https://utcc.utoronto.ca/~cks/space/blog/unix/EtcGlobHistory)
 * [2025-01-13, 03:11:37](https://news.ycombinator.com/item?id=42679679) - [Disco Elysium Explorer](http://134.0.119.41)
 * [2025-01-13, 01:41:52](https://news.ycombinator.com/item?id=42679127) - [How did they make cars fall apart in old movies (2017)](https://movies.stackexchange.com/questions/79161/how-did-they-make-cars-fall-apart-in-old-movies)
 * [2025-01-13, 00:50:43](https://news.ycombinator.com/item?id=42678754) - [Show HN: Doom (1993) in a PDF](https://doompdf.pages.dev/doom.pdf)
@@ -7,8 +9,6 @@
 * [2025-01-13, 00:27:00](https://news.ycombinator.com/item?id=42678584) - [The Free Movie: Frame-by-frame, handrawn reproduction of \"The Bee Movie\" (2023)](https://thefreemovie.buzz/)
 * [2025-01-12, 22:53:16](https://news.ycombinator.com/item?id=42677835) - [Right to root access](https://medhir.com/blog/right-to-root-access)
 * [2025-01-12, 22:34:49](https://news.ycombinator.com/item?id=42677667) - [FurtherAI (YC W24) Is Hiring Across Research, Engineering, and Design](https://www.ycombinator.com/companies/furtherai/jobs)
-* [2025-01-12, 22:32:44](https://news.ycombinator.com/item?id=42677647) - [Qubes OS: Templates](https://www.qubes-os.org/doc/templates/)
-* [2025-01-12, 22:30:58](https://news.ycombinator.com/item?id=42677631) - [Superior Internet Privacy with Whonix](https://www.whonix.org/wiki/Homepage)
 * [2025-01-12, 22:28:30](https://news.ycombinator.com/item?id=42677608) - [Qubes OS: A reasonably secure operating system](https://www.qubes-os.org/)
 * [2025-01-12, 22:26:35](https://news.ycombinator.com/item?id=42677587) - [I deleted my social media accounts](https://asylumsquare.com/backstage/2025-01-12/why-i-deleted-my-social-media-accounts)
 * [2025-01-12, 21:04:56](https://news.ycombinator.com/item?id=42676928) - [Microsoft Bob: Microsoft's biggest flop of the 1990s](https://dfarq.homeip.net/microsoft-bob-microsofts-biggest-flop-of-the-199)
@@ -17,7 +17,6 @@
 * [2025-01-12, 19:27:07](https://news.ycombinator.com/item?id=42676123) - [If we had the best product engineering organization, what would it look like?](https://www.jamesshore.com/v2/blog/2025/the-best-product-engineering-org-in-the-world)
 * [2025-01-12, 19:01:08](https://news.ycombinator.com/item?id=42675882) - [Snake Game in 56 Bytes](https://github.com/donno2048/snake)
 * [2025-01-12, 18:43:05](https://news.ycombinator.com/item?id=42675725) - [Tabby: Self-hosted AI coding assistant](https://github.com/TabbyML/tabby)
-* [2025-01-12, 17:47:03](https://news.ycombinator.com/item?id=42675274) - [The case for letting Malibu burn (1995)](https://longreads.com/2018/12/04/the-case-for-letting-malibu-burn/)
 * [2025-01-12, 17:36:45](https://news.ycombinator.com/item?id=42675208) - [From ASCII to ASIC: Porting donut.c to a tiny slice of silicon](https://www.a1k0n.net/2025/01/10/tiny-tapeout-donut.html)
 * [2025-01-12, 17:14:37](https://news.ycombinator.com/item?id=42675025) - [It's time to abandon the cargo cult metaphor](https://www.righto.com/2025/01/its-time-to-abandon-cargo-cult-metaphor.html)
 * [2025-01-12, 16:01:00](https://news.ycombinator.com/item?id=42674455) - [Backdooring Your Backdoors – Another $20 Domain, More Governments](https://labs.watchtowr.com/more-governments-backdoors-in-your-backdoors/)
@@ -30,6 +29,7 @@
 * [2025-01-10, 05:55:24](https://news.ycombinator.com/item?id=42652982) - [DoxyPress – Modern Doxygen](https://www.copperspice.com/docs/doxypress/index.html)
 * [2025-01-10, 05:15:18](https://news.ycombinator.com/item?id=42652730) - [Comptime as Configuration](https://www.openmymind.net/Comptime-as-Configuration/)
 * [2025-01-09, 23:01:21](https://news.ycombinator.com/item?id=42650732) - [Pushing the whole company into the past on purpose](https://rachelbythebay.com/w/2025/01/09/lag/)
+* [2025-01-09, 21:15:33](https://news.ycombinator.com/item?id=42649862) - [Why is my CPU usage always 100%?](https://www.downtowndougbrown.com/2024/04/why-is-my-cpu-usage-always-100-upgrading-my-chumby-8-kernel-part-9/)
 
 ## [Archives](archives/index.md)
 

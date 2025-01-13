@@ -15,6 +15,7 @@
 * [2025-01-09, 21:46:07](https://news.ycombinator.com/item?id=42650094) - [The '90s weren't that great](https://www.slowboring.com/p/the-90s-werent-that-great)
 * [2025-01-09, 21:33:06](https://news.ycombinator.com/item?id=42649996) - [Ask HN: A friend has brain cancer: any bio hacks that worked?](https://news.ycombinator.com/item?id=42649996)
 * [2025-01-09, 21:19:14](https://news.ycombinator.com/item?id=42649887) - [How to delete your Facebook account](https://www.theverge.com/22231495/delete-facebook-page-account-how-to)
+* [2025-01-09, 21:15:33](https://news.ycombinator.com/item?id=42649862) - [Why is my CPU usage always 100%?](https://www.downtowndougbrown.com/2024/04/why-is-my-cpu-usage-always-100-upgrading-my-chumby-8-kernel-part-9/)
 * [2025-01-09, 21:15:19](https://news.ycombinator.com/item?id=42649858) - [Can we communally deprecate git checkout?](https://mirawelner.com/posts/checkout.html)
 * [2025-01-09, 21:13:21](https://news.ycombinator.com/item?id=42649837) - [ZType Tying Game](https://zty.pe/)
 * [2025-01-09, 20:24:01](https://news.ycombinator.com/item?id=42649517) - [World's largest pumped storage power plant fully operational in China](https://www.ess-news.com/2025/01/09/worlds-largest-pumped-storage-power-plant-fully-operational-in-china/)
