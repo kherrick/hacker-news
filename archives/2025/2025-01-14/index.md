@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-14](index.md)
 
+* [2025-01-14, 18:16:35](https://news.ycombinator.com/item?id=42701393) - [Software Engineer Pay Heatmap for Europe](https://levels.fyi/heatmap/europe/)
 * [2025-01-14, 17:58:03](https://news.ycombinator.com/item?id=42701057) - [MrBeast Might Buy TikTok](https://twitter.com/MrBeast/status/1879224239485808811)
 * [2025-01-14, 17:40:27](https://news.ycombinator.com/item?id=42700755) - [Executive order on advancing United States leadership in AI infrastructure](https://www.whitehouse.gov/briefing-room/presidential-actions/2025/01/14/executive-order-on-advancing-united-states-leadership-in-artificial-intelligence-infrastructure/)
 * [2025-01-14, 17:06:16](https://news.ycombinator.com/item?id=42700134) - [Meta announces 5% cuts in preparation for 'intense year'](https://www.cnbc.com/2025/01/14/meta-targeting-lowest-performing-employees-in-latest-round-of-layoffs.html)

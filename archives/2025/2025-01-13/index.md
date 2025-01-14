@@ -43,6 +43,7 @@
 * [2025-01-13, 12:42:27](https://news.ycombinator.com/item?id=42682813) - [Can you complete the Oregon Trail if you wait at river for 14272 years: A study](https://moral.net.au/writing/2025/01/11/waiting_for_oregon/)
 * [2025-01-13, 12:32:39](https://news.ycombinator.com/item?id=42682758) - [Earth breaches 1.5 °C climate limit for the first time: what does it mean?](https://www.nature.com/articles/d41586-025-00010-9)
 * [2025-01-13, 12:19:15](https://news.ycombinator.com/item?id=42682671) - [Euro-cloud provider Anexia moves 12,000 VMs off VMware to homebrew KVM platform](https://www.theregister.com/2025/01/13/anexia_vmware_to_kvm_migration/)
+* [2025-01-13, 12:17:43](https://news.ycombinator.com/item?id=42682660) - [The DevOps Engineer's Handbook](https://octopus.com/devops/)
 * [2025-01-13, 12:07:42](https://news.ycombinator.com/item?id=42682602) - [The Timeless 9 Golden Rules of Debugging](https://dwheeler.com/essays/debugging-agans.html)
 * [2025-01-13, 12:00:11](https://news.ycombinator.com/item?id=42682560) - [Raycast (YC W20) Is Hiring Full Stack Eng (EU, Remote, €105k-€160k)](https://www.raycast.com/jobs/software-engineer-full-stack)
 * [2025-01-13, 11:21:01](https://news.ycombinator.com/item?id=42682305) - [The Origins of Wokeness](https://paulgraham.com/woke.html)
