@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-01-14](index.md)
+
+* [2025-01-14, 00:49:27](https://news.ycombinator.com/item?id=42691913) - [Judge ends man's 11-year quest to dig up landfill and recover $765M in Bitcoin](https://arstechnica.com/tech-policy/2025/01/judge-ends-mans-11-year-quest-to-dig-up-landfill-and-recover-765m-in-bitcoin/)

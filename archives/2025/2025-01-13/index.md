@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-01-13](index.md)
 
+* [2025-01-13, 23:47:31](https://news.ycombinator.com/item?id=42691184) - [GitHub Git Operations Are Down](https://www.githubstatus.com/incidents/qd96yfgvmcf9)
+* [2025-01-13, 23:25:08](https://news.ycombinator.com/item?id=42690983) - [Webtop – Alpine,Ubuntu,Fedora,and Arch containers containing full desktop envs](https://docs.linuxserver.io/images/docker-webtop/)
+* [2025-01-13, 23:09:14](https://news.ycombinator.com/item?id=42690818) - [voyage-code-3](https://blog.voyageai.com/2024/12/04/voyage-code-3/)
+* [2025-01-13, 22:38:27](https://news.ycombinator.com/item?id=42690473) - [Snyk security researcher deploys malicious NPM packages targeting Cursor.com](https://sourcecodered.com/snyk-malicious-npm-package/)
 * [2025-01-13, 22:12:31](https://news.ycombinator.com/item?id=42690154) - [Lorne Michaels Is the Real Star of \"Saturday Night Live\"](https://www.newyorker.com/magazine/2025/01/20/lorne-michaels-profile)
+* [2025-01-13, 22:02:04](https://news.ycombinator.com/item?id=42690035) - [Scientists Discover Underground Water Vault in Oregon 3x the Size of Lake Mead](https://scitechdaily.com/scientists-discover-a-massive-underground-water-vault-in-oregon-3x-the-size-of-lake-mead/)
 * [2025-01-13, 20:42:39](https://news.ycombinator.com/item?id=42688933) - [An Illustrator Dies, His Last Book Unfinished. In Steps His Son](https://www.nytimes.com/2025/01/13/books/booksupdate/charles-nicholas-santore-scroobius-pip.html)
 * [2025-01-13, 20:19:59](https://news.ycombinator.com/item?id=42688538) - [CEO of AI Music Company Says People Don't Like Making Music](https://www.404media.co/ceo-of-ai-music-company-says-people-dont-like-making-music/)
 * [2025-01-13, 19:55:46](https://news.ycombinator.com/item?id=42688159) - [JPMorgan Workers Ponder Union in Wake of Return-to-Office Mandate](https://www.barrons.com/articles/jpmorgan-back-to-office-mandate-union-4206af78)
