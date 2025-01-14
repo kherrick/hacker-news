@@ -26,7 +26,7 @@
 * [2025-01-12, 07:50:14](https://news.ycombinator.com/item?id=42671960) - [A secure distributed actor language](https://mistysystem.com/)
 * [2025-01-11, 11:13:08](https://news.ycombinator.com/item?id=42665080) - [NASA to Explore Two Landing Options for Returning Samples from Mars](https://www.nasa.gov/news-release/nasa-to-explore-two-landing-options-for-returning-samples-from-mars/)
 * [2025-01-11, 00:59:13](https://news.ycombinator.com/item?id=42662265) - [A couple CSS tricks for HTML Dialog elements](https://cassidoo.co/post/css-for-dialogs/)
-* [2025-01-10, 21:53:21](https://news.ycombinator.com/item?id=42660693) - [The Plunge (2014)](https://grantland.com/features/the-plunge-shavarsh-karapetyan-heroic-rescue-armenia-trolleybus-ussr-history-finswimming/)
+* [2025-01-10, 21:53:21](https://news.ycombinator.com/item?id=42660693) - [Shavarsh Karapetyan](https://en.wikipedia.org/wiki/Shavarsh_Karapetyan)
 * [2025-01-10, 21:42:54](https://news.ycombinator.com/item?id=42660606) - [Reversible Computing Escapes the Lab](https://spectrum.ieee.org/reversible-computing)
 * [2025-01-10, 21:02:32](https://news.ycombinator.com/item?id=42660184) - [How we used GPT-4o for image detection with 350 similar illustrations](https://olup-blog.pages.dev/stories/image-detection-cars)
 * [2025-01-09, 23:34:17](https://news.ycombinator.com/item?id=42650954) - [Lines of code that will beat A/B testing every time (2012)](https://stevehanov.ca/blog/index.php?id=132)
