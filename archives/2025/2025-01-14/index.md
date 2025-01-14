@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-01-14](index.md)
 
+* [2025-01-14, 15:39:54](https://news.ycombinator.com/item?id=42698557) - [Making an Intersection Unsafe for Pedestrians to Save Seconds for Drivers](https://collegetowns.substack.com/p/making-an-intersection-unsafe-for)
+* [2025-01-14, 15:30:40](https://news.ycombinator.com/item?id=42698421) - [Jeppson's Malört](https://en.wikipedia.org/wiki/Jeppson%27s_Mal%C3%B6rt)
 * [2025-01-14, 15:07:43](https://news.ycombinator.com/item?id=42698092) - [47% of 160 Top Selling Protein Powders Tested Exceed P65 Limit for Toxic Metals [pdf]](https://cleanlabelproject.org/wp-content/uploads/CleanLabelProject_ProteinStudyWhitepaper_010625.pdf)
+* [2025-01-14, 15:06:21](https://news.ycombinator.com/item?id=42698077) - [Tesla Sales Are Tanking in Europe](https://insideevs.com/news/745119/tesla-sales-europe-2024/)
 * [2025-01-14, 14:57:12](https://news.ycombinator.com/item?id=42697958) - [Ask HN: Industry Wide Strike for Worker Protection?](https://news.ycombinator.com/item?id=42697958)
 * [2025-01-14, 14:52:21](https://news.ycombinator.com/item?id=42697882) - [Proton: We're giving away over $1M to support a better internet](https://proton.me/blog/2024-lifetime-fundraiser-results)
 * [2025-01-14, 14:44:20](https://news.ycombinator.com/item?id=42697783) - [1 in 5 Online Job Postings Are Either Fake or Never Filled](https://gizmodo.com/1-in-5-online-job-postings-are-either-fake-or-never-filled-study-finds-2000549706)
