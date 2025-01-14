@@ -47,6 +47,7 @@
 * [2025-01-14, 11:37:52](https://news.ycombinator.com/item?id=42696079) - [New Glenn to make another launch attempt early Thursday](https://arstechnica.com/space/2025/01/blue-origin-plans-second-launch-attempt-of-new-glenn-early-on-tuesday/)
 * [2025-01-14, 11:25:34](https://news.ycombinator.com/item?id=42696023) - [Norway on track to be first to go all-electric](https://www.bbc.com/news/articles/cg52543v6rmo)
 * [2025-01-14, 11:17:46](https://news.ycombinator.com/item?id=42695990) - [LA wildfires disinformation reveals limits of fact-checking](https://weaponizedspaces.substack.com/p/la-wildfires-disinformation-reveals)
+* [2025-01-14, 10:02:56](https://news.ycombinator.com/item?id=42695580) - [The Rise and Fall of the English Sentence (2017)](https://nautil.us/the-rise-and-fall-of-the-english-sentence-236880/)
 * [2025-01-14, 09:08:13](https://news.ycombinator.com/item?id=42695232) - [Data evolution with set-theoretic types](https://dashbit.co/blog/data-evolution-with-set-theoretic-types)
 * [2025-01-14, 08:15:00](https://news.ycombinator.com/item?id=42694932) - [U.S. Employee Engagement Sinks to 10-Year Low](https://www.gallup.com/workplace/654911/employee-engagement-sinks-year-low.aspx)
 * [2025-01-14, 07:14:50](https://news.ycombinator.com/item?id=42694635) - [RedNote Style Content Assistant](https://www.rednote.pro/)
