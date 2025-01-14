@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-14, 08:15:00](https://news.ycombinator.com/item?id=42694932) - [U.S. Employee Engagement Sinks to 10-Year Low](https://www.gallup.com/workplace/654911/employee-engagement-sinks-year-low.aspx)
 * [2025-01-14, 07:08:59](https://news.ycombinator.com/item?id=42694596) - [ZFS 2.3.0 released with ZFS raidz expansion](https://github.com/openzfs/zfs/releases/tag/zfs-2.3.0)
 * [2025-01-14, 01:31:24](https://news.ycombinator.com/item?id=42692311) - [Campsite is now open source](https://github.com/campsite/campsite)
 * [2025-01-14, 00:48:33](https://news.ycombinator.com/item?id=42691899) - [Dragonfly's extreme loop-the-loops](https://www.science.org/content/article/absolutely-insane-dragonfly-s-extreme-loop-loops-are-unparalleled-nature)
@@ -16,7 +17,6 @@
 * [2025-01-13, 13:50:46](https://news.ycombinator.com/item?id=42683389) - [Fluid Simulation Pendant](https://mitxela.com/projects/fluid-pendant)
 * [2025-01-13, 12:42:27](https://news.ycombinator.com/item?id=42682813) - [Can you complete the Oregon Trail if you wait at a river for 14272 years?](https://moral.net.au/writing/2025/01/11/waiting_for_oregon/)
 * [2025-01-13, 12:07:42](https://news.ycombinator.com/item?id=42682602) - [Debugging: Indispensable rules for finding even the most elusive problems (2004)](https://dwheeler.com/essays/debugging-agans.html)
-* [2025-01-13, 09:49:46](https://news.ycombinator.com/item?id=42681762) - [Detrimental Decibels: A Study of Noise Levels in Vancouver's SkyTrain System (2022)](https://open.library.ubc.ca/media/stream/pdf/51869/1.0421693/5)
 * [2025-01-12, 13:43:38](https://news.ycombinator.com/item?id=42673465) - [Why Can't Programmers Be More Like Ants? Or a Lesson in Stigmergy (2015)](https://blog.ubiquity.acm.org/why-cant-programmers-be-more-like-ants-or-a-lesson-in-stigmergy/)
 * [2025-01-12, 11:29:52](https://news.ycombinator.com/item?id=42672821) - [I created an open-source Hardware Hacking Wiki – with tutorials for beginners](https://www.hardbreak.wiki)
 * [2025-01-12, 09:10:35](https://news.ycombinator.com/item?id=42672246) - [What Is Treewidth?](https://www.ams.org/journals/notices/202502/noti3043/noti3043.html)
