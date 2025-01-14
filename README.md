@@ -1,8 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-14, 18:37:58](https://news.ycombinator.com/item?id=42701745) - [Ask HN: Teams using AI – how do you prevent it from breaking your codebase?](https://news.ycombinator.com/item?id=42701745)
 * [2025-01-14, 18:20:20](https://news.ycombinator.com/item?id=42701456) - [Platforms systematically removed a user because he made \"most wanted CEO\" cards](https://www.eff.org/deeplinks/2025/01/platforms-systematically-removed-user-because-he-made-most-wanted-ceo-playing)
-* [2025-01-14, 18:16:35](https://news.ycombinator.com/item?id=42701393) - [Software engineer pay heatmap for Europe](https://levels.fyi/heatmap/europe/)
 * [2025-01-14, 17:46:41](https://news.ycombinator.com/item?id=42700852) - [Show HN: WASM-powered codespaces for Python notebooks on GitHub](https://docs.marimo.io/guides/publishing/playground/#open-notebooks-hosted-on-github)
 * [2025-01-14, 17:40:27](https://news.ycombinator.com/item?id=42700755) - [Executive order on advancing United States leadership in AI infrastructure](https://www.whitehouse.gov/briefing-room/presidential-actions/2025/01/14/executive-order-on-advancing-united-states-leadership-in-artificial-intelligence-infrastructure/)
 * [2025-01-14, 16:56:47](https://news.ycombinator.com/item?id=42699977) - [Apple will soon receive 'made in America' chips from TSMC's Arizona fab](https://www.tomshardware.com/tech-industry/apple-will-soon-receive-made-in-america-chips-from-tsmcs-arizona-fab-company-in-final-stages-of-quality-verification)
@@ -21,6 +19,8 @@
 * [2025-01-13, 23:25:08](https://news.ycombinator.com/item?id=42690983) - [Webtop – Alpine,Ubuntu,Fedora,and Arch containers containing full desktop envs](https://docs.linuxserver.io/images/docker-webtop/)
 * [2025-01-13, 17:42:00](https://news.ycombinator.com/item?id=42686144) - [Cosmos Keyboard: Scan your hand, build a keyboard](https://ryanis.cool/cosmos/)
 * [2025-01-13, 14:18:48](https://news.ycombinator.com/item?id=42683635) - [Hotel booking sites overcharge Bay Area customers](https://www.sfgate.com/travel/article/hotel-booking-sites-overcharge-bay-area-travelers-20025145.php)
+* [2025-01-13, 14:02:39](https://news.ycombinator.com/item?id=42683494) - [Ask HN: How do you prevent the impact of social media on your children?](https://news.ycombinator.com/item?id=42683494)
+* [2025-01-13, 12:17:43](https://news.ycombinator.com/item?id=42682660) - [The DevOps Engineer's Handbook](https://octopus.com/devops/)
 * [2025-01-13, 10:23:50](https://news.ycombinator.com/item?id=42681976) - [Mastodon announces new European non-profit, change of CEO](https://blog.joinmastodon.org/2025/01/the-people-should-own-the-town-square/)
 * [2025-01-13, 04:09:24](https://news.ycombinator.com/item?id=42679998) - [Carnarvon's NASA satellite dish receives first signal in almost 40 years](https://www.abc.net.au/news/2024-12-03/carnarvon-nasa-dish-receives-signal-repairs/104672866)
 * [2025-01-12, 18:22:07](https://news.ycombinator.com/item?id=42675529) - [The Missing Nvidia GPU Glossary](https://modal.com/gpu-glossary/readme)
