@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-14](index.md)
 
+* [2025-01-14, 20:35:17](https://news.ycombinator.com/item?id=42703464) - [Two auto-braking systems can't see people in reflective garb: report](https://usa.streetsblog.org/2025/01/10/alarming-report-shows-that-two-auto-braking-systems-cant-see-people-in-reflective-garb)
 * [2025-01-14, 20:31:19](https://news.ycombinator.com/item?id=42703422) - [Proof of Location for Online Polls](https://ip-vote.com/geolocation_via_latency.html)
 * [2025-01-14, 20:29:18](https://news.ycombinator.com/item?id=42703396) - [California's Wildfire Climate Excuse](https://www.wsj.com/opinion/california-wildfires-climate-change-water-storage-land-management-gavin-newsom-democrats-bd78d49a)
 * [2025-01-14, 20:21:47](https://news.ycombinator.com/item?id=42703282) - [How rqlite – the lightweight distributed database built on SQLite – is tested](https://philipotoole.com/how-is-rqlite-tested/)
@@ -11,6 +12,7 @@
 * [2025-01-14, 18:20:20](https://news.ycombinator.com/item?id=42701456) - [Platforms systematically removed a user because he made \"most wanted CEO\" cards](https://www.eff.org/deeplinks/2025/01/platforms-systematically-removed-user-because-he-made-most-wanted-ceo-playing)
 * [2025-01-14, 18:16:35](https://news.ycombinator.com/item?id=42701393) - [Software Engineer Pay Heatmap for Europe](https://levels.fyi/heatmap/europe/)
 * [2025-01-14, 17:58:03](https://news.ycombinator.com/item?id=42701057) - [MrBeast Might Buy TikTok](https://twitter.com/MrBeast/status/1879224239485808811)
+* [2025-01-14, 17:54:51](https://news.ycombinator.com/item?id=42700997) - [Home Loss File System](https://docs.google.com/spreadsheets/d/1TPeJzW5pa-BiJZjuEa1yGSFs7ZJetbnxf2gjMvv4tkc/htmlview#gid=1160377357)
 * [2025-01-14, 17:46:41](https://news.ycombinator.com/item?id=42700852) - [Show HN: WASM-powered codespaces for Python notebooks on GitHub](https://docs.marimo.io/guides/publishing/playground/#open-notebooks-hosted-on-github)
 * [2025-01-14, 17:40:27](https://news.ycombinator.com/item?id=42700755) - [Executive order on advancing United States leadership in AI infrastructure](https://www.whitehouse.gov/briefing-room/presidential-actions/2025/01/14/executive-order-on-advancing-united-states-leadership-in-artificial-intelligence-infrastructure/)
 * [2025-01-14, 17:06:16](https://news.ycombinator.com/item?id=42700134) - [Meta announces 5% cuts in preparation for 'intense year'](https://www.cnbc.com/2025/01/14/meta-targeting-lowest-performing-employees-in-latest-round-of-layoffs.html)
