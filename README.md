@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-14, 22:42:21](https://news.ycombinator.com/item?id=42704951) - [H.R.25 – Repeal income tax and abolish the Internal Revenue Service](https://www.congress.gov/bill/119th-congress/house-bill/25)
 * [2025-01-14, 22:25:54](https://news.ycombinator.com/item?id=42704795) - [GPT-4o with scheduled tasks (jawbone) is available in beta](https://chatgpt.com/?model=gpt-4o-jawbone)
 * [2025-01-14, 20:35:17](https://news.ycombinator.com/item?id=42703464) - [Two auto-braking systems can't see people in reflective garb: report](https://usa.streetsblog.org/2025/01/10/alarming-report-shows-that-two-auto-braking-systems-cant-see-people-in-reflective-garb)
 * [2025-01-14, 20:31:19](https://news.ycombinator.com/item?id=42703422) - [Proof of location for online polls](https://ip-vote.com/geolocation_via_latency.html)
 * [2025-01-14, 20:21:47](https://news.ycombinator.com/item?id=42703282) - [How rqlite is tested](https://philipotoole.com/how-is-rqlite-tested/)
 * [2025-01-14, 17:54:51](https://news.ycombinator.com/item?id=42700997) - [Home Loss File System](https://docs.google.com/spreadsheets/d/1TPeJzW5pa-BiJZjuEa1yGSFs7ZJetbnxf2gjMvv4tkc/htmlview#gid=1160377357)
 * [2025-01-14, 17:46:41](https://news.ycombinator.com/item?id=42700852) - [Show HN: WASM-powered codespaces for Python notebooks on GitHub](https://docs.marimo.io/guides/publishing/playground/#open-notebooks-hosted-on-github)
-* [2025-01-14, 17:40:27](https://news.ycombinator.com/item?id=42700755) - [Executive order on advancing United States leadership in AI infrastructure](https://www.whitehouse.gov/briefing-room/presidential-actions/2025/01/14/executive-order-on-advancing-united-states-leadership-in-artificial-intelligence-infrastructure/)
 * [2025-01-14, 16:56:47](https://news.ycombinator.com/item?id=42699977) - [Apple will soon receive 'made in America' chips from TSMC's Arizona fab](https://www.tomshardware.com/tech-industry/apple-will-soon-receive-made-in-america-chips-from-tsmcs-arizona-fab-company-in-final-stages-of-quality-verification)
 * [2025-01-14, 16:14:01](https://news.ycombinator.com/item?id=42699099) - [Google’s OAuth login doesn’t protect against purchasing a failed startup domain](https://trufflesecurity.com/blog/millions-at-risk-due-to-google-s-oauth-flaw)
 * [2025-01-14, 16:07:23](https://news.ycombinator.com/item?id=42698981) - [The Shepherd 1.0.0 released](https://guix.gnu.org/en/blog/2024/the-shepherd-1.0.0-released/)
