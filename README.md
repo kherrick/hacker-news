@@ -25,9 +25,9 @@
 * [2025-01-12, 18:22:07](https://news.ycombinator.com/item?id=42675529) - [The Missing Nvidia GPU Glossary](https://modal.com/gpu-glossary/readme)
 * [2025-01-12, 14:36:00](https://news.ycombinator.com/item?id=42673815) - [Stories from the Internet](https://dbrgn.ch/stories-from-the-internet.html)
 * [2025-01-12, 14:32:14](https://news.ycombinator.com/item?id=42673790) - [Show HN: A daily digest for reMarkable](https://digest.ferrucc.io/)
+* [2025-01-11, 19:01:01](https://news.ycombinator.com/item?id=42668123) - [Diets high in advanced glycation end products promote insulin resistance](https://examine.com/research-feed/study/9kjAb0/)
 * [2025-01-11, 16:19:56](https://news.ycombinator.com/item?id=42666851) - [Nix – Death by a Thousand Cuts](https://www.dgt.is/blog/2025-01-10-nix-death-by-a-thousand-cuts/)
 * [2025-01-11, 00:59:13](https://news.ycombinator.com/item?id=42662265) - [A couple CSS tricks for HTML Dialog elements](https://cassidoo.co/post/css-for-dialogs/)
-* [2025-01-10, 21:53:21](https://news.ycombinator.com/item?id=42660693) - [Shavarsh Karapetyan](https://en.wikipedia.org/wiki/Shavarsh_Karapetyan)
 * [2025-01-10, 21:44:24](https://news.ycombinator.com/item?id=42660619) - [Glicol: Next-generation computer music language](https://glicol.org/)
 * [2025-01-10, 21:42:54](https://news.ycombinator.com/item?id=42660606) - [Reversible computing escapes the lab](https://spectrum.ieee.org/reversible-computing)
 
