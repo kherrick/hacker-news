@@ -64,6 +64,7 @@
 * [2025-01-12, 10:07:43](https://news.ycombinator.com/item?id=42672477) - [Asking rents skyrocket as LA fires destroy homes](https://laist.com/news/housing-homelessness/los-angeles-palisades-fire-housing-rent-price-gouging-law-california-zillow-listing)
 * [2025-01-12, 09:30:34](https://news.ycombinator.com/item?id=42672339) - [What do you think about using a game engine for UI?](https://news.ycombinator.com/item?id=42672339)
 * [2025-01-12, 09:23:41](https://news.ycombinator.com/item?id=42672304) - [What other communities do you use apart from HN?](https://news.ycombinator.com/item?id=42672304)
+* [2025-01-12, 07:50:14](https://news.ycombinator.com/item?id=42671960) - [A secure distributed actor language](https://mistysystem.com/)
 * [2025-01-12, 07:00:02](https://news.ycombinator.com/item?id=42671781) - [Yhangry (YC W22, Michael Siebel Invested) Is Hiring Senior Engineers](https://www.ycombinator.com/companies/yhangry/jobs/JiN1myL-senior-full-stack-engineer)
 * [2025-01-12, 06:01:33](https://news.ycombinator.com/item?id=42671607) - [Why Matt Should Resign (2010)](https://web.archive.org/web/20110117190122/http://wpblogger.com/matt-should-resign.php)
 * [2025-01-12, 05:56:12](https://news.ycombinator.com/item?id=42671589) - [Show HN: Willpayforthis.com – Gathering posts about what people will pay for](https://www.willpayforthis.com/)
