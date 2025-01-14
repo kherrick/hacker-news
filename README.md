@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-14, 23:08:54](https://news.ycombinator.com/item?id=42705180) - [Climbers Using Xenon Gas, Which Is Banned in Sports, to Climb Everest](https://gripped.com/profiles/climbers-using-xenon-gas-which-is-banned-in-sports-to-climb-everest/)
 * [2025-01-14, 22:25:54](https://news.ycombinator.com/item?id=42704795) - [GPT-4o with scheduled tasks (jawbone) is available in beta](https://chatgpt.com/?model=gpt-4o-jawbone)
 * [2025-01-14, 21:59:12](https://news.ycombinator.com/item?id=42704491) - [If You Ever See This Speed Sign, You're Probably Going to Die](https://www.theautopian.com/if-you-ever-see-this-speed-sign-youre-probably-going-to-die/)
 * [2025-01-14, 21:23:21](https://news.ycombinator.com/item?id=42704078) - [Don't use cosine similarity carelessly](https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity/)
@@ -18,7 +19,6 @@
 * [2025-01-14, 09:58:15](https://news.ycombinator.com/item?id=42695547) - [FFmpeg by Example](https://ffmpegbyexample.com/)
 * [2025-01-14, 09:08:13](https://news.ycombinator.com/item?id=42695232) - [Data evolution with set-theoretic types](https://dashbit.co/blog/data-evolution-with-set-theoretic-types)
 * [2025-01-13, 17:42:00](https://news.ycombinator.com/item?id=42686144) - [Cosmos Keyboard: Scan your hand, build a keyboard](https://ryanis.cool/cosmos/)
-* [2025-01-13, 14:18:48](https://news.ycombinator.com/item?id=42683635) - [Hotel booking sites overcharge Bay Area customers](https://www.sfgate.com/travel/article/hotel-booking-sites-overcharge-bay-area-travelers-20025145.php)
 * [2025-01-13, 14:02:39](https://news.ycombinator.com/item?id=42683494) - [Ask HN: How do you prevent the impact of social media on your children?](https://news.ycombinator.com/item?id=42683494)
 * [2025-01-13, 10:23:50](https://news.ycombinator.com/item?id=42681976) - [Mastodon announces new European non-profit, change of CEO](https://blog.joinmastodon.org/2025/01/the-people-should-own-the-town-square/)
 * [2025-01-13, 04:09:24](https://news.ycombinator.com/item?id=42679998) - [Carnarvon's NASA satellite dish receives first signal in almost 40 years](https://www.abc.net.au/news/2024-12-03/carnarvon-nasa-dish-receives-signal-repairs/104672866)
