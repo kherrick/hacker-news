@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-01-14, 17:06:16",
-      "https://news.ycombinator.com/item?id=42700134"
+      "2025-01-14, 17:58:03",
+      "https://news.ycombinator.com/item?id=42701057"
     ],
     [
-      "Meta announces 5% cuts in preparation for 'intense year'",
-      "https://www.cnbc.com/2025/01/14/meta-targeting-lowest-performing-employees-in-latest-round-of-layoffs.html"
+      "MrBeast Might Buy TikTok",
+      "https://twitter.com/MrBeast/status/1879224239485808811"
+    ]
+  ],
+  [
+    [
+      "2025-01-14, 17:40:27",
+      "https://news.ycombinator.com/item?id=42700755"
+    ],
+    [
+      "Executive order on advancing United States leadership in AI infrastructure",
+      "https://www.whitehouse.gov/briefing-room/presidential-actions/2025/01/14/executive-order-on-advancing-united-states-leadership-in-artificial-intelligence-infrastructure/"
     ]
   ],
   [
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=42699771"
     ],
     [
-      "Allstate used GasBuddy and other apps to track driving behavior",
+      "Allstate used GasBuddy and other apps to track driving behavior: lawsuit",
       "https://arstechnica.com/gadgets/2025/01/allstate-sued-for-allegedly-tracking-drivers-behavior-through-third-party-apps/"
     ]
   ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=42699099"
     ],
     [
-      "Millions of Accounts Vulnerable Due to Google's OAuth Flaw",
+      "Google’s OAuth login doesn’t protect against purchasing a failed startup domain",
       "https://trufflesecurity.com/blog/millions-at-risk-due-to-google-s-oauth-flaw"
     ]
   ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=42698981"
     ],
     [
-      "GNU Shepherd 1.0.0 Released",
+      "The Shepherd 1.0.0 released",
       "https://guix.gnu.org/en/blog/2024/the-shepherd-1.0.0-released/"
     ]
   ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=42698557"
     ],
     [
-      "Making an Intersection Unsafe for Pedestrians to Save Seconds for Drivers",
+      "Making an intersection unsafe for pedestrians to save seconds for drivers",
       "https://collegetowns.substack.com/p/making-an-intersection-unsafe-for"
     ]
   ],
@@ -81,21 +91,11 @@
   ],
   [
     [
-      "2025-01-14, 14:52:21",
-      "https://news.ycombinator.com/item?id=42697882"
-    ],
-    [
-      "Proton: We're giving away over $1M to support a better internet",
-      "https://proton.me/blog/2024-lifetime-fundraiser-results"
-    ]
-  ],
-  [
-    [
       "2025-01-14, 14:44:20",
       "https://news.ycombinator.com/item?id=42697783"
     ],
     [
-      "1 in 5 Online Job Postings Are Either Fake or Never Filled",
+      "1 in 5 online job postings are either fake or never filled, study finds",
       "https://gizmodo.com/1-in-5-online-job-postings-are-either-fake-or-never-filled-study-finds-2000549706"
     ]
   ],
@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=42697767"
     ],
     [
-      "Craniometrix (YC W22) Is Hiring Founding Engineer on CTO Track",
+      "Craniometrix (YC W22) is hiring a founding engineer on CTO track",
       "https://www.ycombinator.com/companies/craniometrix/jobs/5Ucqf0Q-founding-full-stack-engineer-cto-track"
     ]
   ],
@@ -115,7 +115,7 @@
       "https://news.ycombinator.com/item?id=42697764"
     ],
     [
-      "Dbt Labs acquires SDF Labs to accelerate the dbt developer experience",
+      "Dbt Labs acquires SDF Labs",
       "https://www.getdbt.com/blog/dbt-labs-acquires-sdf-labs"
     ]
   ],
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=42696822"
     ],
     [
-      "Using Coding Skills to Make Passive Income",
+      "Using coding skills to make passive income",
       "https://www.coryzue.com/writing/solopreneur/"
     ]
   ],
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=42696691"
     ],
     [
-      "In the Belly of the MrBeast",
+      "In the belly of the MrBeast",
       "https://kevinmunger.substack.com/p/in-the-belly-of-the-mrbeast"
     ]
   ],
@@ -167,16 +167,6 @@
     [
       "X-ray flashes from nearby supermassive black hole accelerate mysteriously",
       "https://news.mit.edu/2025/x-ray-flashes-nearby-supermassive-black-hole-accelerate-mysteriously-0113"
-    ]
-  ],
-  [
-    [
-      "2025-01-14, 11:37:58",
-      "https://news.ycombinator.com/item?id=42696081"
-    ],
-    [
-      "I Switched to Firefox and Never Looked Back",
-      "https://www.howtogeek.com/why-i-switched-to-firefox-and-never-looked-back/"
     ]
   ],
   [
@@ -231,6 +221,16 @@
   ],
   [
     [
+      "2025-01-12, 13:43:38",
+      "https://news.ycombinator.com/item?id=42673465"
+    ],
+    [
+      "Why Can't Programmers Be More Like Ants? Or a Lesson in Stigmergy (2015)",
+      "https://blog.ubiquity.acm.org/why-cant-programmers-be-more-like-ants-or-a-lesson-in-stigmergy/"
+    ]
+  ],
+  [
+    [
       "2025-01-12, 07:50:14",
       "https://news.ycombinator.com/item?id=42671960"
     ],
@@ -245,8 +245,18 @@
       "https://news.ycombinator.com/item?id=42665080"
     ],
     [
-      "NASA to Explore Two Landing Options for Returning Samples from Mars",
+      "NASA to explore two landing options for returning samples from Mars",
       "https://www.nasa.gov/news-release/nasa-to-explore-two-landing-options-for-returning-samples-from-mars/"
+    ]
+  ],
+  [
+    [
+      "2025-01-11, 01:07:31",
+      "https://news.ycombinator.com/item?id=42662329"
+    ],
+    [
+      "A laptop stand made from a single sheet of recycled paper",
+      "https://www.core77.com/posts/134948/A-Laptop-Stand-Made-from-a-Single-Sheet-of-Recycled-Paper"
     ]
   ],
   [
@@ -275,7 +285,7 @@
       "https://news.ycombinator.com/item?id=42660606"
     ],
     [
-      "Reversible Computing Escapes the Lab",
+      "Reversible computing escapes the lab",
       "https://spectrum.ieee.org/reversible-computing"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "How we used GPT-4o for image detection with 350 similar illustrations",
       "https://olup-blog.pages.dev/stories/image-detection-cars"
-    ]
-  ],
-  [
-    [
-      "2025-01-09, 23:34:17",
-      "https://news.ycombinator.com/item?id=42650954"
-    ],
-    [
-      "Lines of code that will beat A/B testing every time (2012)",
-      "https://stevehanov.ca/blog/index.php?id=132"
     ]
   ]
 ]
