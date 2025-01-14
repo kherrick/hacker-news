@@ -2,6 +2,7 @@
 
 * [2025-01-14, 08:15:00](https://news.ycombinator.com/item?id=42694932) - [U.S. Employee Engagement Sinks to 10-Year Low](https://www.gallup.com/workplace/654911/employee-engagement-sinks-year-low.aspx)
 * [2025-01-14, 07:08:59](https://news.ycombinator.com/item?id=42694596) - [ZFS 2.3.0 released with ZFS raidz expansion](https://github.com/openzfs/zfs/releases/tag/zfs-2.3.0)
+* [2025-01-14, 04:59:32](https://news.ycombinator.com/item?id=42693849) - [The Sikh Practice of Langar, a Free Meal Where Everyone Is Equal](https://www.wttw.com/playlist/2022/04/05/langar-maah-chhole-daal)
 * [2025-01-14, 01:31:24](https://news.ycombinator.com/item?id=42692311) - [Campsite is now open source](https://github.com/campsite/campsite)
 * [2025-01-14, 00:48:33](https://news.ycombinator.com/item?id=42691899) - [Dragonfly's extreme loop-the-loops](https://www.science.org/content/article/absolutely-insane-dragonfly-s-extreme-loop-loops-are-unparalleled-nature)
 * [2025-01-13, 23:25:08](https://news.ycombinator.com/item?id=42690983) - [Webtop – Alpine,Ubuntu,Fedora,and Arch containers containing full desktop envs](https://docs.linuxserver.io/images/docker-webtop/)
@@ -10,8 +11,6 @@
 * [2025-01-13, 19:42:48](https://news.ycombinator.com/item?id=42687932) - [Sonos CEO steps down after app update debacle](https://www.reuters.com/business/retail-consumer/sonos-ceo-patrick-spence-steps-down-after-app-update-debacle-2025-01-13/)
 * [2025-01-13, 18:56:47](https://news.ycombinator.com/item?id=42687133) - [How corn syrup took over America](https://thehustle.co/originals/how-corn-syrup-took-over-america)
 * [2025-01-13, 18:11:17](https://news.ycombinator.com/item?id=42686457) - [AI Engineer Reading List](https://www.latent.space/p/2025-papers)
-* [2025-01-13, 17:00:21](https://news.ycombinator.com/item?id=42685628) - [Humanize Healthcare Content as Wyndly (YC W21) 's first content hire](https://app.dover.com/apply/Wyndly/008f0389-988d-4b63-87c1-026b7b20c6fa/?rs=76643084)
-* [2025-01-13, 15:13:45](https://news.ycombinator.com/item?id=42684257) - [The Curious Gems of the River Thames](https://www.atlasobscura.com/articles/thames-garnets-mudlark)
 * [2025-01-13, 14:57:07](https://news.ycombinator.com/item?id=42684057) - [Training AI models might not need enormous data centres](https://www.economist.com/science-and-technology/2025/01/08/training-ai-models-might-not-need-enormous-data-centres)
 * [2025-01-13, 13:50:46](https://news.ycombinator.com/item?id=42683389) - [Fluid Simulation Pendant](https://mitxela.com/projects/fluid-pendant)
 * [2025-01-13, 12:42:27](https://news.ycombinator.com/item?id=42682813) - [Can you complete the Oregon Trail if you wait at a river for 14272 years?](https://moral.net.au/writing/2025/01/11/waiting_for_oregon/)
@@ -30,6 +29,7 @@
 * [2025-01-10, 16:39:01](https://news.ycombinator.com/item?id=42657208) - [Ships must practice celestial navigation](https://www.usni.org/magazines/proceedings/2025/january/ships-must-practice-celestial-navigation)
 * [2025-01-09, 23:34:17](https://news.ycombinator.com/item?id=42650954) - [Lines of code that will beat A/B testing every time (2012)](https://stevehanov.ca/blog/index.php?id=132)
 * [2025-01-09, 21:15:33](https://news.ycombinator.com/item?id=42649862) - [Why is my CPU usage always 100%?](https://www.downtowndougbrown.com/2024/04/why-is-my-cpu-usage-always-100-upgrading-my-chumby-8-kernel-part-9/)
+* [2025-01-09, 20:00:47](https://news.ycombinator.com/item?id=42649315) - [Entropy of a Large Language Model output](https://nikkin.dev/blog/llm-entropy.html)
 
 ## [Archives](archives/index.md)
 
