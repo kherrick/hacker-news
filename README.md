@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-14, 02:26:46](https://news.ycombinator.com/item?id=42692730) - [43K fewer drivers on Manhattan roads after congestion pricing turned on](https://gothamist.com/news/43k-fewer-drivers-on-manhattan-roads-after-congestion-pricing-turned-on-mta-says)
 * [2025-01-14, 00:48:33](https://news.ycombinator.com/item?id=42691899) - ['Absolutely insane'. Dragonfly's extreme loop-the-loops unparalleled in nature](https://www.science.org/content/article/absolutely-insane-dragonfly-s-extreme-loop-loops-are-unparalleled-nature)
 * [2025-01-14, 00:42:38](https://news.ycombinator.com/item?id=42691834) - [Why do small children in Japan ride the subway alone?](https://www.economist.com/christmas-specials/2024/12/19/why-do-small-children-in-japan-ride-the-subway-alone)
 * [2025-01-13, 23:47:31](https://news.ycombinator.com/item?id=42691184) - [GitHub Git Operations Are Down](https://www.githubstatus.com/incidents/qd96yfgvmcf9)
@@ -27,6 +26,7 @@
 * [2025-01-10, 21:02:32](https://news.ycombinator.com/item?id=42660184) - [How we used GPT-4o for image detection with 350 similar illustrations](https://olup-blog.pages.dev/stories/image-detection-cars)
 * [2025-01-10, 17:16:16](https://news.ycombinator.com/item?id=42657593) - [When a winter storm trapped a luxury passenger train near Donner Pass](https://www.smithsonianmag.com/history/when-a-deadly-winter-storm-trapped-a-luxury-passenger-train-near-the-donner-pass-for-three-days-180985782/)
 * [2025-01-10, 17:15:22](https://news.ycombinator.com/item?id=42657585) - [Railroad Tycoon II](https://www.filfre.net/2025/01/railroad-tycoon-ii/)
+* [2025-01-09, 23:47:50](https://news.ycombinator.com/item?id=42651043) - [Celebrating the Timeless Allure of Tintin's Aesthetics](https://collegetowns.substack.com/p/celebrating-the-timeless-allure-of)
 * [2025-01-09, 23:34:17](https://news.ycombinator.com/item?id=42650954) - [Lines of code that will beat A/B testing every time (2012)](https://stevehanov.ca/blog/index.php?id=132)
 * [2025-01-09, 21:15:33](https://news.ycombinator.com/item?id=42649862) - [Why is my CPU usage always 100%?](https://www.downtowndougbrown.com/2024/04/why-is-my-cpu-usage-always-100-upgrading-my-chumby-8-kernel-part-9/)
 * [2025-01-09, 20:00:47](https://news.ycombinator.com/item?id=42649315) - [Entropy of a Large Language Model output](https://nikkin.dev/blog/llm-entropy.html)
