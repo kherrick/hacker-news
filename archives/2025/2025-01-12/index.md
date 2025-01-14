@@ -74,6 +74,7 @@
 * [2025-01-12, 03:55:31](https://news.ycombinator.com/item?id=42671162) - [Two Waves of Aging: How Midlife Biomolecular Shifts Accelerate Decline](https://gethealthspan.com/science/article/two-waves-of-aging-biomolecular-shifts-healthspan)
 * [2025-01-12, 03:38:25](https://news.ycombinator.com/item?id=42671105) - [Why I Chose Common Lisp](https://blog.djhaskin.com/blog/why-i-chose-common-lisp/)
 * [2025-01-12, 02:39:38](https://news.ycombinator.com/item?id=42670808) - [Ask HN: Pull the curtain back on Nvidia's CES keynote please](https://news.ycombinator.com/item?id=42670808)
+* [2025-01-12, 02:06:14](https://news.ycombinator.com/item?id=42670619) - [AI agents may soon surpass people as primary application users](https://www.zdnet.com/article/ai-agents-may-soon-surpass-people-as-primary-application-users/)
 * [2025-01-12, 01:39:10](https://news.ycombinator.com/item?id=42670468) - [IP Addresses in 2024](https://www.potaroo.net/ispcol/2025-01/addr2024.html)
 * [2025-01-12, 01:21:47](https://news.ycombinator.com/item?id=42670368) - [Euthanasia Coaster (2010)](https://julijonasurbonas.lt/euthanasia_coaster)
 * [2025-01-12, 00:33:38](https://news.ycombinator.com/item?id=42670132) - [Adobe Lightroom's AI Remove feature added a Bitcoin to bird in flight photo](https://bsky.app/profile/matthewraifman.bsky.social/post/3lfaqbygva22j)
