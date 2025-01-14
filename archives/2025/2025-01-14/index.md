@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-01-14](index.md)
 
+* [2025-01-14, 14:43:04](https://news.ycombinator.com/item?id=42697767) - [Craniometrix (YC W22) Is Hiring Founding Engineer on CTO Track](https://www.ycombinator.com/companies/craniometrix/jobs/5Ucqf0Q-founding-full-stack-engineer-cto-track)
 * [2025-01-14, 14:18:55](https://news.ycombinator.com/item?id=42697483) - [American workers' enthusiasm for their jobs falls to a 10-year low](https://www.axios.com/2025/01/14/workers-job-satisfaction-gallup)
+* [2025-01-14, 14:05:40](https://news.ycombinator.com/item?id=42697335) - [Servo vs. steppers: Speed, Torque and Accuracy [video]](https://www.youtube.com/watch?v=H-nO1F-AO9I)
 * [2025-01-14, 13:23:49](https://news.ycombinator.com/item?id=42696847) - [FOSDEM and DMA updates and 2025 YH4F and Our visions for 2048](https://fsfe.org/news/nl/nl-202501.en.html)
 * [2025-01-14, 13:21:28](https://news.ycombinator.com/item?id=42696822) - [Using Coding Skills to Make Passive Income](https://www.coryzue.com/writing/solopreneur/)
 * [2025-01-14, 13:05:31](https://news.ycombinator.com/item?id=42696691) - [In the Belly of the MrBeast](https://kevinmunger.substack.com/p/in-the-belly-of-the-mrbeast)

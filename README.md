@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-14, 14:43:04](https://news.ycombinator.com/item?id=42697767) - [Craniometrix (YC W22) Is Hiring Founding Engineer on CTO Track](https://www.ycombinator.com/companies/craniometrix/jobs/5Ucqf0Q-founding-full-stack-engineer-cto-track)
 * [2025-01-14, 14:18:55](https://news.ycombinator.com/item?id=42697483) - [American workers' enthusiasm for their jobs falls to a 10-year low](https://www.axios.com/2025/01/14/workers-job-satisfaction-gallup)
+* [2025-01-14, 14:05:40](https://news.ycombinator.com/item?id=42697335) - [Servo vs. steppers: Speed, Torque and Accuracy [video]](https://www.youtube.com/watch?v=H-nO1F-AO9I)
 * [2025-01-14, 13:23:49](https://news.ycombinator.com/item?id=42696847) - [FOSDEM and DMA updates and 2025 YH4F and Our visions for 2048](https://fsfe.org/news/nl/nl-202501.en.html)
 * [2025-01-14, 13:21:28](https://news.ycombinator.com/item?id=42696822) - [Using Coding Skills to Make Passive Income](https://www.coryzue.com/writing/solopreneur/)
 * [2025-01-14, 13:05:31](https://news.ycombinator.com/item?id=42696691) - [In the Belly of the MrBeast](https://kevinmunger.substack.com/p/in-the-belly-of-the-mrbeast)
@@ -22,14 +24,12 @@
 * [2025-01-13, 04:09:24](https://news.ycombinator.com/item?id=42679998) - [Carnarvon's NASA satellite dish receives first signal in almost 40 years](https://www.abc.net.au/news/2024-12-03/carnarvon-nasa-dish-receives-signal-repairs/104672866)
 * [2025-01-12, 13:43:38](https://news.ycombinator.com/item?id=42673465) - [Why Can't Programmers Be More Like Ants? Or a Lesson in Stigmergy (2015)](https://blog.ubiquity.acm.org/why-cant-programmers-be-more-like-ants-or-a-lesson-in-stigmergy/)
 * [2025-01-12, 11:29:52](https://news.ycombinator.com/item?id=42672821) - [I created an open-source Hardware Hacking Wiki – with tutorials for beginners](https://www.hardbreak.wiki)
-* [2025-01-12, 09:10:35](https://news.ycombinator.com/item?id=42672246) - [What Is Treewidth?](https://www.ams.org/journals/notices/202502/noti3043/noti3043.html)
 * [2025-01-12, 07:50:14](https://news.ycombinator.com/item?id=42671960) - [A secure distributed actor language](https://mistysystem.com/)
 * [2025-01-11, 01:07:31](https://news.ycombinator.com/item?id=42662329) - [A laptop stand made from a single sheet of recycled paper](https://www.core77.com/posts/134948/A-Laptop-Stand-Made-from-a-Single-Sheet-of-Recycled-Paper)
 * [2025-01-10, 21:53:21](https://news.ycombinator.com/item?id=42660693) - [The Plunge (2014)](https://grantland.com/features/the-plunge-shavarsh-karapetyan-heroic-rescue-armenia-trolleybus-ussr-history-finswimming/)
 * [2025-01-10, 21:42:54](https://news.ycombinator.com/item?id=42660606) - [Reversible Computing Escapes the Lab](https://spectrum.ieee.org/reversible-computing)
 * [2025-01-10, 21:02:32](https://news.ycombinator.com/item?id=42660184) - [How we used GPT-4o for image detection with 350 similar illustrations](https://olup-blog.pages.dev/stories/image-detection-cars)
 * [2025-01-09, 23:34:17](https://news.ycombinator.com/item?id=42650954) - [Lines of code that will beat A/B testing every time (2012)](https://stevehanov.ca/blog/index.php?id=132)
-* [2025-01-09, 21:15:33](https://news.ycombinator.com/item?id=42649862) - [Why is my CPU usage always 100%?](https://www.downtowndougbrown.com/2024/04/why-is-my-cpu-usage-always-100-upgrading-my-chumby-8-kernel-part-9/)
 
 ## [Archives](archives/index.md)
 
