@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-01-14, 16:45:19",
-      "https://news.ycombinator.com/item?id=42699771"
-    ],
-    [
-      "Allstate used GasBuddy and other apps to track driving behavior: lawsuit",
-      "https://arstechnica.com/gadgets/2025/01/allstate-sued-for-allegedly-tracking-drivers-behavior-through-third-party-apps/"
-    ]
-  ],
-  [
-    [
       "2025-01-14, 16:14:01",
       "https://news.ycombinator.com/item?id=42699099"
     ],
@@ -151,6 +141,16 @@
   ],
   [
     [
+      "2025-01-14, 09:08:13",
+      "https://news.ycombinator.com/item?id=42695232"
+    ],
+    [
+      "Data evolution with set-theoretic types",
+      "https://dashbit.co/blog/data-evolution-with-set-theoretic-types"
+    ]
+  ],
+  [
+    [
       "2025-01-14, 07:08:59",
       "https://news.ycombinator.com/item?id=42694596"
     ],
@@ -171,12 +171,12 @@
   ],
   [
     [
-      "2025-01-13, 22:38:27",
-      "https://news.ycombinator.com/item?id=42690473"
+      "2025-01-13, 17:42:00",
+      "https://news.ycombinator.com/item?id=42686144"
     ],
     [
-      "Snyk security researcher deploys malicious NPM packages targeting cursor.com",
-      "https://sourcecodered.com/snyk-malicious-npm-package/"
+      "Cosmos Keyboard: Scan your hand, build a keyboard",
+      "https://ryanis.cool/cosmos/"
     ]
   ],
   [
@@ -191,12 +191,32 @@
   ],
   [
     [
+      "2025-01-13, 14:02:39",
+      "https://news.ycombinator.com/item?id=42683494"
+    ],
+    [
+      "Ask HN: How do you prevent the impact of social media on your children?",
+      "https://news.ycombinator.com/item?id=42683494"
+    ]
+  ],
+  [
+    [
       "2025-01-13, 12:17:43",
       "https://news.ycombinator.com/item?id=42682660"
     ],
     [
       "The DevOps Engineer's Handbook",
       "https://octopus.com/devops/"
+    ]
+  ],
+  [
+    [
+      "2025-01-13, 10:23:50",
+      "https://news.ycombinator.com/item?id=42681976"
+    ],
+    [
+      "Mastodon announces new European non-profit, change of CEO",
+      "https://blog.joinmastodon.org/2025/01/the-people-should-own-the-town-square/"
     ]
   ],
   [
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2025-01-12, 09:10:35",
-      "https://news.ycombinator.com/item?id=42672246"
-    ],
-    [
-      "Treewidth?",
-      "https://www.ams.org/journals/notices/202502/noti3043/noti3043.html"
-    ]
-  ],
-  [
-    [
       "2025-01-11, 16:19:56",
       "https://news.ycombinator.com/item?id=42666851"
     ],
     [
       "Nix – Death by a Thousand Cuts",
       "https://www.dgt.is/blog/2025-01-10-nix-death-by-a-thousand-cuts/"
-    ]
-  ],
-  [
-    [
-      "2025-01-11, 11:13:08",
-      "https://news.ycombinator.com/item?id=42665080"
-    ],
-    [
-      "NASA to explore two landing options for returning samples from Mars",
-      "https://www.nasa.gov/news-release/nasa-to-explore-two-landing-options-for-returning-samples-from-mars/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2025-01-10, 21:44:24",
+      "https://news.ycombinator.com/item?id=42660619"
+    ],
+    [
+      "Glicol: Next-generation computer music language",
+      "https://glicol.org/"
+    ]
+  ],
+  [
+    [
       "2025-01-10, 21:42:54",
       "https://news.ycombinator.com/item?id=42660606"
     ],
     [
       "Reversible computing escapes the lab",
       "https://spectrum.ieee.org/reversible-computing"
-    ]
-  ],
-  [
-    [
-      "2025-01-10, 20:50:40",
-      "https://news.ycombinator.com/item?id=42660042"
-    ],
-    [
-      "Tell HN: I'm a programmer who bought a typewriter",
-      "https://news.ycombinator.com/item?id=42660042"
     ]
   ]
 ]
