@@ -38,6 +38,7 @@
 * [2025-01-11, 12:14:34](https://news.ycombinator.com/item?id=42665367) - [Track your devices via Apple FindMy network in Go/TinyGo](https://github.com/hybridgroup/go-haystack)
 * [2025-01-11, 12:03:50](https://news.ycombinator.com/item?id=42665314) - [What automation tools are essential for a lean startup with a small team?](https://news.ycombinator.com/item?id=42665314)
 * [2025-01-11, 11:42:59](https://news.ycombinator.com/item?id=42665222) - [The State of Vim](https://lwn.net/SubscriberLink/1002342/a8d8a17f30968b93/)
+* [2025-01-11, 11:13:08](https://news.ycombinator.com/item?id=42665080) - [NASA to Explore Two Landing Options for Returning Samples from Mars](https://www.nasa.gov/news-release/nasa-to-explore-two-landing-options-for-returning-samples-from-mars/)
 * [2025-01-11, 10:35:54](https://news.ycombinator.com/item?id=42664893) - [Ingrid Daubechies Awarded National Medal of Science](https://today.duke.edu/2025/01/ingrid-daubechies-awarded-national-medal-science)
 * [2025-01-11, 09:42:02](https://news.ycombinator.com/item?id=42664614) - [Using black magic to make a fast circular buffer](https://lo.calho.st/posts/black-magic-buffer/)
 * [2025-01-11, 08:49:55](https://news.ycombinator.com/item?id=42664409) - [PrivTracker – Private BitTorrent tracker for everyone](https://privtracker.com/)

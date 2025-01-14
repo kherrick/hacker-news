@@ -7,6 +7,7 @@
 * [2025-01-14, 17:06:16](https://news.ycombinator.com/item?id=42700134) - [Meta announces 5% cuts in preparation for 'intense year'](https://www.cnbc.com/2025/01/14/meta-targeting-lowest-performing-employees-in-latest-round-of-layoffs.html)
 * [2025-01-14, 16:45:19](https://news.ycombinator.com/item?id=42699771) - [Allstate used GasBuddy and other apps to track driving behavior](https://arstechnica.com/gadgets/2025/01/allstate-sued-for-allegedly-tracking-drivers-behavior-through-third-party-apps/)
 * [2025-01-14, 16:14:01](https://news.ycombinator.com/item?id=42699099) - [Millions of Accounts Vulnerable Due to Google's OAuth Flaw](https://trufflesecurity.com/blog/millions-at-risk-due-to-google-s-oauth-flaw)
+* [2025-01-14, 16:07:23](https://news.ycombinator.com/item?id=42698981) - [GNU Shepherd 1.0.0 Released](https://guix.gnu.org/en/blog/2024/the-shepherd-1.0.0-released/)
 * [2025-01-14, 15:51:33](https://news.ycombinator.com/item?id=42698737) - [Why are tech people suddenly so into homeschooling?](https://newsletter.goodtechthings.com/p/why-are-tech-people-suddenly-so-into)
 * [2025-01-14, 15:42:59](https://news.ycombinator.com/item?id=42698610) - [LLM based agents as Dungeon Masters](https://studenttheses.uu.nl/bitstream/handle/20.500.12932/47209/Thesis_Final.pdf?sequence=1&isAllowed=y)
 * [2025-01-14, 15:39:54](https://news.ycombinator.com/item?id=42698557) - [Making an Intersection Unsafe for Pedestrians to Save Seconds for Drivers](https://collegetowns.substack.com/p/making-an-intersection-unsafe-for)
