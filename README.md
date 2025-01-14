@@ -14,6 +14,7 @@
 * [2025-01-13, 13:50:46](https://news.ycombinator.com/item?id=42683389) - [Fluid Simulation Pendant](https://mitxela.com/projects/fluid-pendant)
 * [2025-01-13, 12:42:27](https://news.ycombinator.com/item?id=42682813) - [Can you complete the Oregon Trail if you wait at a river for 14272 years?](https://moral.net.au/writing/2025/01/11/waiting_for_oregon/)
 * [2025-01-13, 12:07:42](https://news.ycombinator.com/item?id=42682602) - [Debugging: Indispensable rules for finding even the most elusive problems (2004)](https://dwheeler.com/essays/debugging-agans.html)
+* [2025-01-13, 11:21:01](https://news.ycombinator.com/item?id=42682305) - [The Origins of Wokeness](https://paulgraham.com/woke.html)
 * [2025-01-12, 13:43:38](https://news.ycombinator.com/item?id=42673465) - [Why Can't Programmers Be More Like Ants? Or a Lesson in Stigmergy (2015)](https://blog.ubiquity.acm.org/why-cant-programmers-be-more-like-ants-or-a-lesson-in-stigmergy/)
 * [2025-01-12, 11:29:52](https://news.ycombinator.com/item?id=42672821) - [I created an open-source Hardware Hacking Wiki – with tutorials for beginners](https://www.hardbreak.wiki)
 * [2025-01-12, 09:10:35](https://news.ycombinator.com/item?id=42672246) - [What Is Treewidth?](https://www.ams.org/journals/notices/202502/noti3043/noti3043.html)
@@ -29,7 +30,6 @@
 * [2025-01-10, 16:39:01](https://news.ycombinator.com/item?id=42657208) - [Ships must practice celestial navigation](https://www.usni.org/magazines/proceedings/2025/january/ships-must-practice-celestial-navigation)
 * [2025-01-09, 23:34:17](https://news.ycombinator.com/item?id=42650954) - [Lines of code that will beat A/B testing every time (2012)](https://stevehanov.ca/blog/index.php?id=132)
 * [2025-01-09, 21:15:33](https://news.ycombinator.com/item?id=42649862) - [Why is my CPU usage always 100%?](https://www.downtowndougbrown.com/2024/04/why-is-my-cpu-usage-always-100-upgrading-my-chumby-8-kernel-part-9/)
-* [2025-01-09, 20:00:47](https://news.ycombinator.com/item?id=42649315) - [Entropy of a Large Language Model output](https://nikkin.dev/blog/llm-entropy.html)
 
 ## [Archives](archives/index.md)
 
