@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-14](index.md)
 
 * [2025-01-14, 17:06:16](https://news.ycombinator.com/item?id=42700134) - [Meta announces 5% cuts in preparation for 'intense year'](https://www.cnbc.com/2025/01/14/meta-targeting-lowest-performing-employees-in-latest-round-of-layoffs.html)
+* [2025-01-14, 16:56:47](https://news.ycombinator.com/item?id=42699977) - [Apple will soon receive 'made in America' chips from TSMC's Arizona fab](https://www.tomshardware.com/tech-industry/apple-will-soon-receive-made-in-america-chips-from-tsmcs-arizona-fab-company-in-final-stages-of-quality-verification)
 * [2025-01-14, 16:45:19](https://news.ycombinator.com/item?id=42699771) - [Allstate used GasBuddy and other apps to track driving behavior](https://arstechnica.com/gadgets/2025/01/allstate-sued-for-allegedly-tracking-drivers-behavior-through-third-party-apps/)
 * [2025-01-14, 16:14:01](https://news.ycombinator.com/item?id=42699099) - [Millions of Accounts Vulnerable Due to Google's OAuth Flaw](https://trufflesecurity.com/blog/millions-at-risk-due-to-google-s-oauth-flaw)
 * [2025-01-14, 16:07:23](https://news.ycombinator.com/item?id=42698981) - [GNU Shepherd 1.0.0 Released](https://guix.gnu.org/en/blog/2024/the-shepherd-1.0.0-released/)

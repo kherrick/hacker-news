@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-14, 17:06:16](https://news.ycombinator.com/item?id=42700134) - [Meta announces 5% cuts in preparation for 'intense year'](https://www.cnbc.com/2025/01/14/meta-targeting-lowest-performing-employees-in-latest-round-of-layoffs.html)
+* [2025-01-14, 16:56:47](https://news.ycombinator.com/item?id=42699977) - [Apple will soon receive 'made in America' chips from TSMC's Arizona fab](https://www.tomshardware.com/tech-industry/apple-will-soon-receive-made-in-america-chips-from-tsmcs-arizona-fab-company-in-final-stages-of-quality-verification)
 * [2025-01-14, 16:45:19](https://news.ycombinator.com/item?id=42699771) - [Allstate used GasBuddy and other apps to track driving behavior](https://arstechnica.com/gadgets/2025/01/allstate-sued-for-allegedly-tracking-drivers-behavior-through-third-party-apps/)
 * [2025-01-14, 16:14:01](https://news.ycombinator.com/item?id=42699099) - [Millions of Accounts Vulnerable Due to Google's OAuth Flaw](https://trufflesecurity.com/blog/millions-at-risk-due-to-google-s-oauth-flaw)
 * [2025-01-14, 16:07:23](https://news.ycombinator.com/item?id=42698981) - [GNU Shepherd 1.0.0 Released](https://guix.gnu.org/en/blog/2024/the-shepherd-1.0.0-released/)
@@ -23,7 +24,6 @@
 * [2025-01-13, 22:38:27](https://news.ycombinator.com/item?id=42690473) - [Snyk security researcher deploys malicious NPM packages targeting cursor.com](https://sourcecodered.com/snyk-malicious-npm-package/)
 * [2025-01-13, 04:09:24](https://news.ycombinator.com/item?id=42679998) - [Carnarvon's NASA satellite dish receives first signal in almost 40 years](https://www.abc.net.au/news/2024-12-03/carnarvon-nasa-dish-receives-signal-repairs/104672866)
 * [2025-01-12, 07:50:14](https://news.ycombinator.com/item?id=42671960) - [A secure distributed actor language](https://mistysystem.com/)
-* [2025-01-11, 16:08:44](https://news.ycombinator.com/item?id=42666776) - [Inconvenient truths about the fires burning in Los Angeles from two fire experts](https://www.latimes.com/california/story/2025-01-11/fire-experts-asses-los-angeles-blazes-amid-changing-times)
 * [2025-01-11, 11:13:08](https://news.ycombinator.com/item?id=42665080) - [NASA to Explore Two Landing Options for Returning Samples from Mars](https://www.nasa.gov/news-release/nasa-to-explore-two-landing-options-for-returning-samples-from-mars/)
 * [2025-01-11, 00:59:13](https://news.ycombinator.com/item?id=42662265) - [A couple CSS tricks for HTML Dialog elements](https://cassidoo.co/post/css-for-dialogs/)
 * [2025-01-10, 21:53:21](https://news.ycombinator.com/item?id=42660693) - [The Plunge (2014)](https://grantland.com/features/the-plunge-shavarsh-karapetyan-heroic-rescue-armenia-trolleybus-ussr-history-finswimming/)
