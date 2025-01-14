@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-14](index.md)
 
+* [2025-01-14, 07:08:59](https://news.ycombinator.com/item?id=42694596) - [ZFS 2.3.0 released with ZFS raidz expansion](https://github.com/openzfs/zfs/releases/tag/zfs-2.3.0)
 * [2025-01-14, 02:26:46](https://news.ycombinator.com/item?id=42692730) - [43K fewer drivers on Manhattan roads after congestion pricing turned on](https://gothamist.com/news/43k-fewer-drivers-on-manhattan-roads-after-congestion-pricing-turned-on-mta-says)
 * [2025-01-14, 01:31:24](https://news.ycombinator.com/item?id=42692311) - [Campsite is now open source](https://github.com/campsite/campsite)
 * [2025-01-14, 01:22:59](https://news.ycombinator.com/item?id=42692237) - [Bank of Mum and Dad: why we all now live in an 'inheritocracy'](https://www.theguardian.com/lifeandstyle/2024/nov/17/bank-of-mum-and-dad-why-we-all-now-live-in-an-inheritocracy)
