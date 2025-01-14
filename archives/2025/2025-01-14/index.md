@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-01-14](index.md)
 
+* [2025-01-14, 17:06:16](https://news.ycombinator.com/item?id=42700134) - [Meta announces 5% cuts in preparation for 'intense year'](https://www.cnbc.com/2025/01/14/meta-targeting-lowest-performing-employees-in-latest-round-of-layoffs.html)
 * [2025-01-14, 16:45:19](https://news.ycombinator.com/item?id=42699771) - [Allstate used GasBuddy and other apps to track driving behavior](https://arstechnica.com/gadgets/2025/01/allstate-sued-for-allegedly-tracking-drivers-behavior-through-third-party-apps/)
 * [2025-01-14, 16:14:01](https://news.ycombinator.com/item?id=42699099) - [Millions of Accounts Vulnerable Due to Google's OAuth Flaw](https://trufflesecurity.com/blog/millions-at-risk-due-to-google-s-oauth-flaw)
 * [2025-01-14, 15:51:33](https://news.ycombinator.com/item?id=42698737) - [Why are tech people suddenly so into homeschooling?](https://newsletter.goodtechthings.com/p/why-are-tech-people-suddenly-so-into)
 * [2025-01-14, 15:42:59](https://news.ycombinator.com/item?id=42698610) - [LLM based agents as Dungeon Masters](https://studenttheses.uu.nl/bitstream/handle/20.500.12932/47209/Thesis_Final.pdf?sequence=1&isAllowed=y)
 * [2025-01-14, 15:39:54](https://news.ycombinator.com/item?id=42698557) - [Making an Intersection Unsafe for Pedestrians to Save Seconds for Drivers](https://collegetowns.substack.com/p/making-an-intersection-unsafe-for)
 * [2025-01-14, 15:30:40](https://news.ycombinator.com/item?id=42698421) - [Jeppson's Malört](https://en.wikipedia.org/wiki/Jeppson%27s_Mal%C3%B6rt)
+* [2025-01-14, 15:30:22](https://news.ycombinator.com/item?id=42698418) - [Company of One: Why Staying Small Is the Next Big Thing for Business](https://readingraphics.com/book-summary-company-of-one/)
 * [2025-01-14, 15:07:43](https://news.ycombinator.com/item?id=42698092) - [47% of 160 Top Selling Protein Powders Tested Exceed P65 Limit for Toxic Metals [pdf]](https://cleanlabelproject.org/wp-content/uploads/CleanLabelProject_ProteinStudyWhitepaper_010625.pdf)
 * [2025-01-14, 15:06:21](https://news.ycombinator.com/item?id=42698077) - [Tesla Sales Are Tanking in Europe](https://insideevs.com/news/745119/tesla-sales-europe-2024/)
 * [2025-01-14, 14:57:12](https://news.ycombinator.com/item?id=42697958) - [Ask HN: Industry Wide Strike for Worker Protection?](https://news.ycombinator.com/item?id=42697958)
