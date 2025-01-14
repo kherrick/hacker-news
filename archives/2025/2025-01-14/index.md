@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-01-14](index.md)
 
+* [2025-01-14, 15:07:43](https://news.ycombinator.com/item?id=42698092) - [47% of 160 Top Selling Protein Powders Tested Exceed P65 Limit for Toxic Metals [pdf]](https://cleanlabelproject.org/wp-content/uploads/CleanLabelProject_ProteinStudyWhitepaper_010625.pdf)
+* [2025-01-14, 14:57:12](https://news.ycombinator.com/item?id=42697958) - [Ask HN: Industry Wide Strike for Worker Protection?](https://news.ycombinator.com/item?id=42697958)
+* [2025-01-14, 14:52:21](https://news.ycombinator.com/item?id=42697882) - [Proton: We're giving away over $1M to support a better internet](https://proton.me/blog/2024-lifetime-fundraiser-results)
+* [2025-01-14, 14:44:20](https://news.ycombinator.com/item?id=42697783) - [1 in 5 Online Job Postings Are Either Fake or Never Filled](https://gizmodo.com/1-in-5-online-job-postings-are-either-fake-or-never-filled-study-finds-2000549706)
 * [2025-01-14, 14:43:04](https://news.ycombinator.com/item?id=42697767) - [Craniometrix (YC W22) Is Hiring Founding Engineer on CTO Track](https://www.ycombinator.com/companies/craniometrix/jobs/5Ucqf0Q-founding-full-stack-engineer-cto-track)
 * [2025-01-14, 14:18:55](https://news.ycombinator.com/item?id=42697483) - [American workers' enthusiasm for their jobs falls to a 10-year low](https://www.axios.com/2025/01/14/workers-job-satisfaction-gallup)
+* [2025-01-14, 14:06:41](https://news.ycombinator.com/item?id=42697346) - [Show HN: A blocklist to remove spam and bad websites from search results](https://github.com/popcar2/BadWebsiteBlocklist)
 * [2025-01-14, 14:05:40](https://news.ycombinator.com/item?id=42697335) - [Servo vs. steppers: Speed, Torque and Accuracy [video]](https://www.youtube.com/watch?v=H-nO1F-AO9I)
 * [2025-01-14, 13:23:49](https://news.ycombinator.com/item?id=42696847) - [FOSDEM and DMA updates and 2025 YH4F and Our visions for 2048](https://fsfe.org/news/nl/nl-202501.en.html)
 * [2025-01-14, 13:21:28](https://news.ycombinator.com/item?id=42696822) - [Using Coding Skills to Make Passive Income](https://www.coryzue.com/writing/solopreneur/)
