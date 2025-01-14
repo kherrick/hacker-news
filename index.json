@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-01-14, 12:02:34",
+      "https://news.ycombinator.com/item?id=42696232"
+    ],
+    [
+      "Robinhood to Pay $45M SEC Settlement over Data Breach, Other Violations",
+      "https://www.wsj.com/finance/robinhood-to-pay-45-million-sec-settlement-over-data-breach-other-violations-50b837dc"
+    ]
+  ],
+  [
+    [
       "2025-01-14, 12:00:32",
       "https://news.ycombinator.com/item?id=42696219"
     ],
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=42690818"
     ],
     [
-      "voyage-code-3",
+      "Voyage-code-3",
       "https://blog.voyageai.com/2024/12/04/voyage-code-3/"
     ]
   ],
@@ -221,26 +231,6 @@
   ],
   [
     [
-      "2025-01-11, 17:27:11",
-      "https://news.ycombinator.com/item?id=42667360"
-    ],
-    [
-      "James Thomson on the Origins of the macOS Dock",
-      "https://daringfireball.net/linked/2025/01/10/thomson-dock"
-    ]
-  ],
-  [
-    [
-      "2025-01-11, 02:55:22",
-      "https://news.ycombinator.com/item?id=42662877"
-    ],
-    [
-      "The Macros module is a fictitious module used to document macros",
-      "https://crystal-lang.org/api/1.15.0/Crystal/Macros.html"
-    ]
-  ],
-  [
-    [
       "2025-01-11, 01:07:31",
       "https://news.ycombinator.com/item?id=42662329"
     ],
@@ -257,6 +247,16 @@
     [
       "The Plunge (2014)",
       "https://grantland.com/features/the-plunge-shavarsh-karapetyan-heroic-rescue-armenia-trolleybus-ussr-history-finswimming/"
+    ]
+  ],
+  [
+    [
+      "2025-01-10, 21:42:54",
+      "https://news.ycombinator.com/item?id=42660606"
+    ],
+    [
+      "Reversible Computing Escapes the Lab",
+      "https://spectrum.ieee.org/reversible-computing"
     ]
   ],
   [
