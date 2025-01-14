@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-14, 18:20:20](https://news.ycombinator.com/item?id=42701456) - [Platforms systematically removed a user because he made \"most wanted CEO\" cards](https://www.eff.org/deeplinks/2025/01/platforms-systematically-removed-user-because-he-made-most-wanted-ceo-playing)
 * [2025-01-14, 17:46:41](https://news.ycombinator.com/item?id=42700852) - [Show HN: WASM-powered codespaces for Python notebooks on GitHub](https://docs.marimo.io/guides/publishing/playground/#open-notebooks-hosted-on-github)
 * [2025-01-14, 17:40:27](https://news.ycombinator.com/item?id=42700755) - [Executive order on advancing United States leadership in AI infrastructure](https://www.whitehouse.gov/briefing-room/presidential-actions/2025/01/14/executive-order-on-advancing-united-states-leadership-in-artificial-intelligence-infrastructure/)
 * [2025-01-14, 16:56:47](https://news.ycombinator.com/item?id=42699977) - [Apple will soon receive 'made in America' chips from TSMC's Arizona fab](https://www.tomshardware.com/tech-industry/apple-will-soon-receive-made-in-america-chips-from-tsmcs-arizona-fab-company-in-final-stages-of-quality-verification)
@@ -28,6 +27,7 @@
 * [2025-01-12, 14:32:14](https://news.ycombinator.com/item?id=42673790) - [Show HN: A daily digest for reMarkable](https://digest.ferrucc.io/)
 * [2025-01-11, 16:19:56](https://news.ycombinator.com/item?id=42666851) - [Nix – Death by a Thousand Cuts](https://www.dgt.is/blog/2025-01-10-nix-death-by-a-thousand-cuts/)
 * [2025-01-11, 00:59:13](https://news.ycombinator.com/item?id=42662265) - [A couple CSS tricks for HTML Dialog elements](https://cassidoo.co/post/css-for-dialogs/)
+* [2025-01-10, 21:53:21](https://news.ycombinator.com/item?id=42660693) - [Shavarsh Karapetyan](https://en.wikipedia.org/wiki/Shavarsh_Karapetyan)
 * [2025-01-10, 21:44:24](https://news.ycombinator.com/item?id=42660619) - [Glicol: Next-generation computer music language](https://glicol.org/)
 * [2025-01-10, 21:42:54](https://news.ycombinator.com/item?id=42660606) - [Reversible computing escapes the lab](https://spectrum.ieee.org/reversible-computing)
 
