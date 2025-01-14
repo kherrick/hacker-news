@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-14, 18:37:58",
+      "https://news.ycombinator.com/item?id=42701745"
+    ],
+    [
+      "Ask HN: Teams using AI – how do you prevent it from breaking your codebase?",
+      "https://news.ycombinator.com/item?id=42701745"
+    ]
+  ],
+  [
+    [
       "2025-01-14, 18:16:35",
       "https://news.ycombinator.com/item?id=42701393"
     ],
@@ -67,16 +77,6 @@
     [
       "LLM based agents as Dungeon Masters",
       "https://studenttheses.uu.nl/bitstream/handle/20.500.12932/47209/Thesis_Final.pdf?sequence=1&isAllowed=y"
-    ]
-  ],
-  [
-    [
-      "2025-01-14, 15:39:54",
-      "https://news.ycombinator.com/item?id=42698557"
-    ],
-    [
-      "Making an intersection unsafe for pedestrians to save seconds for drivers",
-      "https://collegetowns.substack.com/p/making-an-intersection-unsafe-for"
     ]
   ],
   [
@@ -151,26 +151,6 @@
   ],
   [
     [
-      "2025-01-14, 12:02:34",
-      "https://news.ycombinator.com/item?id=42696232"
-    ],
-    [
-      "Robinhood to pay $45M SEC settlement over data breach, other violations",
-      "https://www.wsj.com/finance/robinhood-to-pay-45-million-sec-settlement-over-data-breach-other-violations-50b837dc"
-    ]
-  ],
-  [
-    [
-      "2025-01-14, 12:00:32",
-      "https://news.ycombinator.com/item?id=42696219"
-    ],
-    [
-      "X-ray flashes from nearby supermassive black hole accelerate mysteriously",
-      "https://news.mit.edu/2025/x-ray-flashes-nearby-supermassive-black-hole-accelerate-mysteriously-0113"
-    ]
-  ],
-  [
-    [
       "2025-01-14, 07:08:59",
       "https://news.ycombinator.com/item?id=42694596"
     ],
@@ -191,22 +171,22 @@
   ],
   [
     [
-      "2025-01-13, 23:09:14",
-      "https://news.ycombinator.com/item?id=42690818"
-    ],
-    [
-      "Voyage-code-3",
-      "https://blog.voyageai.com/2024/12/04/voyage-code-3/"
-    ]
-  ],
-  [
-    [
       "2025-01-13, 22:38:27",
       "https://news.ycombinator.com/item?id=42690473"
     ],
     [
       "Snyk security researcher deploys malicious NPM packages targeting cursor.com",
       "https://sourcecodered.com/snyk-malicious-npm-package/"
+    ]
+  ],
+  [
+    [
+      "2025-01-13, 14:18:48",
+      "https://news.ycombinator.com/item?id=42683635"
+    ],
+    [
+      "Hotel booking sites overcharge Bay Area customers",
+      "https://www.sfgate.com/travel/article/hotel-booking-sites-overcharge-bay-area-travelers-20025145.php"
     ]
   ],
   [
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2025-01-12, 18:22:07",
+      "https://news.ycombinator.com/item?id=42675529"
+    ],
+    [
+      "The Missing Nvidia GPU Glossary",
+      "https://modal.com/gpu-glossary/readme"
+    ]
+  ],
+  [
+    [
       "2025-01-12, 14:36:00",
       "https://news.ycombinator.com/item?id=42673815"
     ],
@@ -247,6 +237,16 @@
     [
       "Treewidth?",
       "https://www.ams.org/journals/notices/202502/noti3043/noti3043.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-11, 16:19:56",
+      "https://news.ycombinator.com/item?id=42666851"
+    ],
+    [
+      "Nix – Death by a Thousand Cuts",
+      "https://www.dgt.is/blog/2025-01-10-nix-death-by-a-thousand-cuts/"
     ]
   ],
   [
