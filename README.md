@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-14, 14:18:55](https://news.ycombinator.com/item?id=42697483) - [American workers' enthusiasm for their jobs falls to a 10-year low](https://www.axios.com/2025/01/14/workers-job-satisfaction-gallup)
 * [2025-01-14, 13:23:49](https://news.ycombinator.com/item?id=42696847) - [FOSDEM and DMA updates and 2025 YH4F and Our visions for 2048](https://fsfe.org/news/nl/nl-202501.en.html)
 * [2025-01-14, 12:41:46](https://news.ycombinator.com/item?id=42696517) - [Plant CO2 uptake rises by nearly one third in new global estimates](https://www.ornl.gov/news/plant-co2-uptake-rises-nearly-one-third-new-global-estimates)
-* [2025-01-14, 12:06:02](https://news.ycombinator.com/item?id=42696264) - [Singapore is turning to AI to care for its rapidly aging population](https://restofworld.org/2025/singapore-ai-eldercare-tools/)
+* [2025-01-14, 12:35:13](https://news.ycombinator.com/item?id=42696477) - [Show HN: Simple Docker Hosting](https://sliplane.io)
 * [2025-01-14, 12:02:34](https://news.ycombinator.com/item?id=42696232) - [Robinhood to Pay $45M SEC Settlement over Data Breach, Other Violations](https://www.wsj.com/finance/robinhood-to-pay-45-million-sec-settlement-over-data-breach-other-violations-50b837dc)
 * [2025-01-14, 12:00:32](https://news.ycombinator.com/item?id=42696219) - [X-ray flashes from nearby supermassive black hole accelerate mysteriously](https://news.mit.edu/2025/x-ray-flashes-nearby-supermassive-black-hole-accelerate-mysteriously-0113)
 * [2025-01-14, 11:37:58](https://news.ycombinator.com/item?id=42696081) - [I Switched to Firefox and Never Looked Back](https://www.howtogeek.com/why-i-switched-to-firefox-and-never-looked-back/)
@@ -27,7 +28,6 @@
 * [2025-01-10, 21:53:21](https://news.ycombinator.com/item?id=42660693) - [The Plunge (2014)](https://grantland.com/features/the-plunge-shavarsh-karapetyan-heroic-rescue-armenia-trolleybus-ussr-history-finswimming/)
 * [2025-01-10, 21:42:54](https://news.ycombinator.com/item?id=42660606) - [Reversible Computing Escapes the Lab](https://spectrum.ieee.org/reversible-computing)
 * [2025-01-10, 21:02:32](https://news.ycombinator.com/item?id=42660184) - [How we used GPT-4o for image detection with 350 similar illustrations](https://olup-blog.pages.dev/stories/image-detection-cars)
-* [2025-01-10, 17:55:24](https://news.ycombinator.com/item?id=42657982) - [Ask HN: How to approach first days on a new job as a senior PM?](https://news.ycombinator.com/item?id=42657982)
 * [2025-01-09, 23:34:17](https://news.ycombinator.com/item?id=42650954) - [Lines of code that will beat A/B testing every time (2012)](https://stevehanov.ca/blog/index.php?id=132)
 * [2025-01-09, 21:15:33](https://news.ycombinator.com/item?id=42649862) - [Why is my CPU usage always 100%?](https://www.downtowndougbrown.com/2024/04/why-is-my-cpu-usage-always-100-upgrading-my-chumby-8-kernel-part-9/)
 
