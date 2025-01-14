@@ -7,6 +7,7 @@
 * [2025-01-14, 22:42:21](https://news.ycombinator.com/item?id=42704951) - [H.R.25 – Repeal income tax and abolish the Internal Revenue Service](https://www.congress.gov/bill/119th-congress/house-bill/25)
 * [2025-01-14, 22:25:54](https://news.ycombinator.com/item?id=42704795) - [GPT-4o with scheduled tasks (jawbone) is available in beta](https://chatgpt.com/?model=gpt-4o-jawbone)
 * [2025-01-14, 21:59:12](https://news.ycombinator.com/item?id=42704491) - [If You Ever See This Speed Sign, You're Probably Going to Die](https://www.theautopian.com/if-you-ever-see-this-speed-sign-youre-probably-going-to-die/)
+* [2025-01-14, 21:23:21](https://news.ycombinator.com/item?id=42704078) - [Don't use cosine similarity carelessly](https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity/)
 * [2025-01-14, 20:35:17](https://news.ycombinator.com/item?id=42703464) - [Two auto-braking systems can't see people in reflective garb: report](https://usa.streetsblog.org/2025/01/10/alarming-report-shows-that-two-auto-braking-systems-cant-see-people-in-reflective-garb)
 * [2025-01-14, 20:31:19](https://news.ycombinator.com/item?id=42703422) - [Proof of Location for Online Polls](https://ip-vote.com/geolocation_via_latency.html)
 * [2025-01-14, 20:29:18](https://news.ycombinator.com/item?id=42703396) - [California's Wildfire Climate Excuse](https://www.wsj.com/opinion/california-wildfires-climate-change-water-storage-land-management-gavin-newsom-democrats-bd78d49a)
