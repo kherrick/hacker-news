@@ -14,6 +14,7 @@
 * [2025-01-10, 22:11:11](https://news.ycombinator.com/item?id=42660848) - [Cannonball: An Enhanced OutRun Engine](https://github.com/djyt/cannonball)
 * [2025-01-10, 21:53:21](https://news.ycombinator.com/item?id=42660693) - [The Plunge (2014)](https://grantland.com/features/the-plunge-shavarsh-karapetyan-heroic-rescue-armenia-trolleybus-ussr-history-finswimming/)
 * [2025-01-10, 21:53:21](https://news.ycombinator.com/item?id=42660693) - [Shavarsh Karapetyan](https://en.wikipedia.org/wiki/Shavarsh_Karapetyan)
+* [2025-01-10, 21:44:24](https://news.ycombinator.com/item?id=42660619) - [Glicol: Next-generation computer music language](https://glicol.org/)
 * [2025-01-10, 21:42:54](https://news.ycombinator.com/item?id=42660606) - [Reversible Computing Escapes the Lab](https://spectrum.ieee.org/reversible-computing)
 * [2025-01-10, 21:25:35](https://news.ycombinator.com/item?id=42660424) - [This is How Many Startup Businesses Fail in the First Year (+Survival Tips)](https://54collective.vc/insight/startup-businesses-fail-in-the-first-year-survival-tips/)
 * [2025-01-10, 21:21:17](https://news.ycombinator.com/item?id=42660377) - [OpenAI's bot crushed this seven-person company's web site 'like a DDoS attack'](https://techcrunch.com/2025/01/10/how-openais-bot-crushed-this-seven-person-companys-web-site-like-a-ddos-attack/)
