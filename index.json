@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-01-14, 17:58:03",
-      "https://news.ycombinator.com/item?id=42701057"
+      "2025-01-14, 18:16:35",
+      "https://news.ycombinator.com/item?id=42701393"
     ],
     [
-      "MrBeast Might Buy TikTok",
-      "https://twitter.com/MrBeast/status/1879224239485808811"
+      "Software Engineer Pay Heatmap for Europe",
+      "https://levels.fyi/heatmap/europe/"
     ]
   ],
   [
@@ -155,7 +155,7 @@
       "https://news.ycombinator.com/item?id=42696232"
     ],
     [
-      "Robinhood to Pay $45M SEC Settlement over Data Breach, Other Violations",
+      "Robinhood to pay $45M SEC settlement over data breach, other violations",
       "https://www.wsj.com/finance/robinhood-to-pay-45-million-sec-settlement-over-data-breach-other-violations-50b837dc"
     ]
   ],
@@ -171,12 +171,12 @@
   ],
   [
     [
-      "2025-01-14, 00:48:33",
-      "https://news.ycombinator.com/item?id=42691899"
+      "2025-01-14, 07:08:59",
+      "https://news.ycombinator.com/item?id=42694596"
     ],
     [
-      "Dragonfly's extreme loop-the-loops",
-      "https://www.science.org/content/article/absolutely-insane-dragonfly-s-extreme-loop-loops-are-unparalleled-nature"
+      "ZFS 2.3 released with ZFS raidz expansion",
+      "https://github.com/openzfs/zfs/releases/tag/zfs-2.3.0"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2025-01-13, 12:17:43",
+      "https://news.ycombinator.com/item?id=42682660"
+    ],
+    [
+      "The DevOps Engineer's Handbook",
+      "https://octopus.com/devops/"
+    ]
+  ],
+  [
+    [
       "2025-01-13, 04:09:24",
       "https://news.ycombinator.com/item?id=42679998"
     ],
@@ -221,22 +231,22 @@
   ],
   [
     [
-      "2025-01-12, 13:43:38",
-      "https://news.ycombinator.com/item?id=42673465"
+      "2025-01-12, 14:36:00",
+      "https://news.ycombinator.com/item?id=42673815"
     ],
     [
-      "Why Can't Programmers Be More Like Ants? Or a Lesson in Stigmergy (2015)",
-      "https://blog.ubiquity.acm.org/why-cant-programmers-be-more-like-ants-or-a-lesson-in-stigmergy/"
+      "Stories from the Internet",
+      "https://dbrgn.ch/stories-from-the-internet.html"
     ]
   ],
   [
     [
-      "2025-01-12, 07:50:14",
-      "https://news.ycombinator.com/item?id=42671960"
+      "2025-01-12, 09:10:35",
+      "https://news.ycombinator.com/item?id=42672246"
     ],
     [
-      "A secure distributed actor language",
-      "https://mistysystem.com/"
+      "Treewidth?",
+      "https://www.ams.org/journals/notices/202502/noti3043/noti3043.html"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "NASA to explore two landing options for returning samples from Mars",
       "https://www.nasa.gov/news-release/nasa-to-explore-two-landing-options-for-returning-samples-from-mars/"
-    ]
-  ],
-  [
-    [
-      "2025-01-11, 01:07:31",
-      "https://news.ycombinator.com/item?id=42662329"
-    ],
-    [
-      "A laptop stand made from a single sheet of recycled paper",
-      "https://www.core77.com/posts/134948/A-Laptop-Stand-Made-from-a-Single-Sheet-of-Recycled-Paper"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-01-10, 21:02:32",
-      "https://news.ycombinator.com/item?id=42660184"
+      "2025-01-10, 20:50:40",
+      "https://news.ycombinator.com/item?id=42660042"
     ],
     [
-      "How we used GPT-4o for image detection with 350 similar illustrations",
-      "https://olup-blog.pages.dev/stories/image-detection-cars"
+      "Tell HN: I'm a programmer who bought a typewriter",
+      "https://news.ycombinator.com/item?id=42660042"
     ]
   ]
 ]
