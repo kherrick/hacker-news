@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-14](index.md)
 
+* [2025-01-14, 11:25:34](https://news.ycombinator.com/item?id=42696023) - [Norway on track to be first to go all-electric](https://www.bbc.com/news/articles/cg52543v6rmo)
+* [2025-01-14, 11:17:46](https://news.ycombinator.com/item?id=42695990) - [LA wildfires disinformation reveals limits of fact-checking](https://weaponizedspaces.substack.com/p/la-wildfires-disinformation-reveals)
 * [2025-01-14, 08:15:00](https://news.ycombinator.com/item?id=42694932) - [U.S. Employee Engagement Sinks to 10-Year Low](https://www.gallup.com/workplace/654911/employee-engagement-sinks-year-low.aspx)
 * [2025-01-14, 07:14:50](https://news.ycombinator.com/item?id=42694635) - [RedNote Style Content Assistant](https://www.rednote.pro/)
 * [2025-01-14, 07:08:59](https://news.ycombinator.com/item?id=42694596) - [ZFS 2.3.0 released with ZFS raidz expansion](https://github.com/openzfs/zfs/releases/tag/zfs-2.3.0)
