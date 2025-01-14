@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-14](index.md)
 
+* [2025-01-14, 20:29:18](https://news.ycombinator.com/item?id=42703396) - [California's Wildfire Climate Excuse](https://www.wsj.com/opinion/california-wildfires-climate-change-water-storage-land-management-gavin-newsom-democrats-bd78d49a)
 * [2025-01-14, 18:37:58](https://news.ycombinator.com/item?id=42701745) - [Ask HN: Teams using AI – how do you prevent it from breaking your codebase?](https://news.ycombinator.com/item?id=42701745)
 * [2025-01-14, 18:20:20](https://news.ycombinator.com/item?id=42701456) - [Platforms systematically removed a user because he made \"most wanted CEO\" cards](https://www.eff.org/deeplinks/2025/01/platforms-systematically-removed-user-because-he-made-most-wanted-ceo-playing)
 * [2025-01-14, 18:16:35](https://news.ycombinator.com/item?id=42701393) - [Software Engineer Pay Heatmap for Europe](https://levels.fyi/heatmap/europe/)

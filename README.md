@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-14, 20:29:18](https://news.ycombinator.com/item?id=42703396) - [California's Wildfire Climate Excuse](https://www.wsj.com/opinion/california-wildfires-climate-change-water-storage-land-management-gavin-newsom-democrats-bd78d49a)
 * [2025-01-14, 17:46:41](https://news.ycombinator.com/item?id=42700852) - [Show HN: WASM-powered codespaces for Python notebooks on GitHub](https://docs.marimo.io/guides/publishing/playground/#open-notebooks-hosted-on-github)
 * [2025-01-14, 17:40:27](https://news.ycombinator.com/item?id=42700755) - [Executive order on advancing United States leadership in AI infrastructure](https://www.whitehouse.gov/briefing-room/presidential-actions/2025/01/14/executive-order-on-advancing-united-states-leadership-in-artificial-intelligence-infrastructure/)
 * [2025-01-14, 16:56:47](https://news.ycombinator.com/item?id=42699977) - [Apple will soon receive 'made in America' chips from TSMC's Arizona fab](https://www.tomshardware.com/tech-industry/apple-will-soon-receive-made-in-america-chips-from-tsmcs-arizona-fab-company-in-final-stages-of-quality-verification)
 * [2025-01-14, 16:14:01](https://news.ycombinator.com/item?id=42699099) - [Google’s OAuth login doesn’t protect against purchasing a failed startup domain](https://trufflesecurity.com/blog/millions-at-risk-due-to-google-s-oauth-flaw)
 * [2025-01-14, 16:07:23](https://news.ycombinator.com/item?id=42698981) - [The Shepherd 1.0.0 released](https://guix.gnu.org/en/blog/2024/the-shepherd-1.0.0-released/)
 * [2025-01-14, 15:52:43](https://news.ycombinator.com/item?id=42698753) - [Show HN: Value likelihoods for OpenAI structured output](https://arena-ai.github.io/structured-logprobs/)
-* [2025-01-14, 15:42:59](https://news.ycombinator.com/item?id=42698610) - [LLM based agents as Dungeon Masters](https://studenttheses.uu.nl/bitstream/handle/20.500.12932/47209/Thesis_Final.pdf?sequence=1&isAllowed=y)
 * [2025-01-14, 14:44:20](https://news.ycombinator.com/item?id=42697783) - [1 in 5 online job postings are either fake or never filled, study finds](https://gizmodo.com/1-in-5-online-job-postings-are-either-fake-or-never-filled-study-finds-2000549706)
 * [2025-01-14, 14:43:04](https://news.ycombinator.com/item?id=42697767) - [Craniometrix (YC W22) is hiring a founding engineer on CTO track](https://www.ycombinator.com/companies/craniometrix/jobs/5Ucqf0Q-founding-full-stack-engineer-cto-track)
 * [2025-01-14, 14:42:54](https://news.ycombinator.com/item?id=42697764) - [Dbt Labs acquires SDF Labs](https://www.getdbt.com/blog/dbt-labs-acquires-sdf-labs)
