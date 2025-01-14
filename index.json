@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-01-14, 20:35:17",
+      "https://news.ycombinator.com/item?id=42703464"
+    ],
+    [
+      "Two auto-braking systems can't see people in reflective garb: report",
+      "https://usa.streetsblog.org/2025/01/10/alarming-report-shows-that-two-auto-braking-systems-cant-see-people-in-reflective-garb"
+    ]
+  ],
+  [
+    [
       "2025-01-14, 20:31:19",
       "https://news.ycombinator.com/item?id=42703422"
     ],
     [
-      "Proof of Location for Online Polls",
+      "Proof of location for online polls",
       "https://ip-vote.com/geolocation_via_latency.html"
     ]
   ],
@@ -15,8 +25,18 @@
       "https://news.ycombinator.com/item?id=42703282"
     ],
     [
-      "How rqlite – the lightweight distributed database built on SQLite – is tested",
+      "How rqlite is tested",
       "https://philipotoole.com/how-is-rqlite-tested/"
+    ]
+  ],
+  [
+    [
+      "2025-01-14, 17:54:51",
+      "https://news.ycombinator.com/item?id=42700997"
+    ],
+    [
+      "Home Loss File System",
+      "https://docs.google.com/spreadsheets/d/1TPeJzW5pa-BiJZjuEa1yGSFs7ZJetbnxf2gjMvv4tkc/htmlview#gid=1160377357"
     ]
   ],
   [
@@ -125,7 +145,7 @@
       "https://news.ycombinator.com/item?id=42695580"
     ],
     [
-      "The Rise and Fall of the English Sentence (2017)",
+      "The rise and fall of the English sentence (2017)",
       "https://nautil.us/the-rise-and-fall-of-the-english-sentence-236880/"
     ]
   ],
@@ -137,16 +157,6 @@
     [
       "Data evolution with set-theoretic types",
       "https://dashbit.co/blog/data-evolution-with-set-theoretic-types"
-    ]
-  ],
-  [
-    [
-      "2025-01-14, 07:08:59",
-      "https://news.ycombinator.com/item?id=42694596"
-    ],
-    [
-      "ZFS 2.3 released with ZFS raidz expansion",
-      "https://github.com/openzfs/zfs/releases/tag/zfs-2.3.0"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Show HN: A daily digest for reMarkable",
       "https://digest.ferrucc.io/"
-    ]
-  ],
-  [
-    [
-      "2025-01-11, 19:01:01",
-      "https://news.ycombinator.com/item?id=42668123"
-    ],
-    [
-      "Diets high in advanced glycation end products promote insulin resistance",
-      "https://examine.com/research-feed/study/9kjAb0/"
     ]
   ],
   [
