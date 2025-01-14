@@ -6,6 +6,8 @@
 
 * [2025-01-14, 14:18:55](https://news.ycombinator.com/item?id=42697483) - [American workers' enthusiasm for their jobs falls to a 10-year low](https://www.axios.com/2025/01/14/workers-job-satisfaction-gallup)
 * [2025-01-14, 13:23:49](https://news.ycombinator.com/item?id=42696847) - [FOSDEM and DMA updates and 2025 YH4F and Our visions for 2048](https://fsfe.org/news/nl/nl-202501.en.html)
+* [2025-01-14, 13:21:28](https://news.ycombinator.com/item?id=42696822) - [Using Coding Skills to Make Passive Income](https://www.coryzue.com/writing/solopreneur/)
+* [2025-01-14, 13:05:31](https://news.ycombinator.com/item?id=42696691) - [In the Belly of the MrBeast](https://kevinmunger.substack.com/p/in-the-belly-of-the-mrbeast)
 * [2025-01-14, 12:41:46](https://news.ycombinator.com/item?id=42696517) - [Plant CO2 uptake rises by nearly one third in new global estimates](https://www.ornl.gov/news/plant-co2-uptake-rises-nearly-one-third-new-global-estimates)
 * [2025-01-14, 12:35:13](https://news.ycombinator.com/item?id=42696477) - [Show HN: Simple Docker Hosting](https://sliplane.io)
 * [2025-01-14, 12:15:47](https://news.ycombinator.com/item?id=42696324) - [Russia is being set aflame by arson attacks](https://www.economist.com/europe/2025/01/12/russia-is-being-set-aflame-by-hundreds-of-arson-attacks)
