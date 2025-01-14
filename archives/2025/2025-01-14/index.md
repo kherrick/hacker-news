@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-01-14](index.md)
 
+* [2025-01-14, 12:41:46](https://news.ycombinator.com/item?id=42696517) - [Plant CO2 uptake rises by nearly one third in new global estimates](https://www.ornl.gov/news/plant-co2-uptake-rises-nearly-one-third-new-global-estimates)
+* [2025-01-14, 12:06:02](https://news.ycombinator.com/item?id=42696264) - [Singapore is turning to AI to care for its rapidly aging population](https://restofworld.org/2025/singapore-ai-eldercare-tools/)
+* [2025-01-14, 12:00:32](https://news.ycombinator.com/item?id=42696219) - [X-ray flashes from nearby supermassive black hole accelerate mysteriously](https://news.mit.edu/2025/x-ray-flashes-nearby-supermassive-black-hole-accelerate-mysteriously-0113)
 * [2025-01-14, 11:37:57](https://news.ycombinator.com/item?id=42696080) - [PostgreSQL Is the Database Management System of the Year 2024](https://db-engines.com/en/blog_post/109)
 * [2025-01-14, 11:25:34](https://news.ycombinator.com/item?id=42696023) - [Norway on track to be first to go all-electric](https://www.bbc.com/news/articles/cg52543v6rmo)
 * [2025-01-14, 11:17:46](https://news.ycombinator.com/item?id=42695990) - [LA wildfires disinformation reveals limits of fact-checking](https://weaponizedspaces.substack.com/p/la-wildfires-disinformation-reveals)
