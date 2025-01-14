@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2025-01-14, 14:44:20",
-      "https://news.ycombinator.com/item?id=42697783"
-    ],
-    [
-      "1 in 5 online job postings are either fake or never filled, study finds",
-      "https://gizmodo.com/1-in-5-online-job-postings-are-either-fake-or-never-filled-study-finds-2000549706"
-    ]
-  ],
-  [
-    [
       "2025-01-14, 14:43:04",
       "https://news.ycombinator.com/item?id=42697767"
     ],
@@ -167,6 +157,16 @@
     [
       "Data evolution with set-theoretic types",
       "https://dashbit.co/blog/data-evolution-with-set-theoretic-types"
+    ]
+  ],
+  [
+    [
+      "2025-01-14, 07:08:59",
+      "https://news.ycombinator.com/item?id=42694596"
+    ],
+    [
+      "ZFS 2.3 released with ZFS raidz expansion",
+      "https://github.com/openzfs/zfs/releases/tag/zfs-2.3.0"
     ]
   ],
   [
