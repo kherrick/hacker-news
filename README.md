@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-14, 20:29:18](https://news.ycombinator.com/item?id=42703396) - [California's Wildfire Climate Excuse](https://www.wsj.com/opinion/california-wildfires-climate-change-water-storage-land-management-gavin-newsom-democrats-bd78d49a)
+* [2025-01-14, 20:31:19](https://news.ycombinator.com/item?id=42703422) - [Proof of Location for Online Polls](https://ip-vote.com/geolocation_via_latency.html)
+* [2025-01-14, 20:21:47](https://news.ycombinator.com/item?id=42703282) - [How rqlite – the lightweight distributed database built on SQLite – is tested](https://philipotoole.com/how-is-rqlite-tested/)
 * [2025-01-14, 17:46:41](https://news.ycombinator.com/item?id=42700852) - [Show HN: WASM-powered codespaces for Python notebooks on GitHub](https://docs.marimo.io/guides/publishing/playground/#open-notebooks-hosted-on-github)
 * [2025-01-14, 17:40:27](https://news.ycombinator.com/item?id=42700755) - [Executive order on advancing United States leadership in AI infrastructure](https://www.whitehouse.gov/briefing-room/presidential-actions/2025/01/14/executive-order-on-advancing-united-states-leadership-in-artificial-intelligence-infrastructure/)
 * [2025-01-14, 16:56:47](https://news.ycombinator.com/item?id=42699977) - [Apple will soon receive 'made in America' chips from TSMC's Arizona fab](https://www.tomshardware.com/tech-industry/apple-will-soon-receive-made-in-america-chips-from-tsmcs-arizona-fab-company-in-final-stages-of-quality-verification)
@@ -11,7 +12,6 @@
 * [2025-01-14, 14:43:04](https://news.ycombinator.com/item?id=42697767) - [Craniometrix (YC W22) is hiring a founding engineer on CTO track](https://www.ycombinator.com/companies/craniometrix/jobs/5Ucqf0Q-founding-full-stack-engineer-cto-track)
 * [2025-01-14, 14:42:54](https://news.ycombinator.com/item?id=42697764) - [Dbt Labs acquires SDF Labs](https://www.getdbt.com/blog/dbt-labs-acquires-sdf-labs)
 * [2025-01-14, 14:05:40](https://news.ycombinator.com/item?id=42697335) - [Servo vs. steppers: Speed, Torque and Accuracy [video]](https://www.youtube.com/watch?v=H-nO1F-AO9I)
-* [2025-01-14, 13:05:31](https://news.ycombinator.com/item?id=42696691) - [In the belly of the MrBeast](https://kevinmunger.substack.com/p/in-the-belly-of-the-mrbeast)
 * [2025-01-14, 10:02:56](https://news.ycombinator.com/item?id=42695580) - [The Rise and Fall of the English Sentence (2017)](https://nautil.us/the-rise-and-fall-of-the-english-sentence-236880/)
 * [2025-01-14, 09:08:13](https://news.ycombinator.com/item?id=42695232) - [Data evolution with set-theoretic types](https://dashbit.co/blog/data-evolution-with-set-theoretic-types)
 * [2025-01-14, 07:08:59](https://news.ycombinator.com/item?id=42694596) - [ZFS 2.3 released with ZFS raidz expansion](https://github.com/openzfs/zfs/releases/tag/zfs-2.3.0)
