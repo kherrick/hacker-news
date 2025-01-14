@@ -33,6 +33,7 @@
 * [2025-01-10, 18:26:59](https://news.ycombinator.com/item?id=42658407) - [Kubernetes Security Architecture Cheatsheet](https://github.com/lars-solberg/kubesec-diagram)
 * [2025-01-10, 18:16:05](https://news.ycombinator.com/item?id=42658270) - [Creates hyper-realistic voice clones from just 3 seconds of audio](https://anyvoice.net/ai-voice-cloning)
 * [2025-01-10, 18:09:51](https://news.ycombinator.com/item?id=42658167) - [Show HN: KeyTik: The All-in-One Input Automation Tool](https://keytik.com/)
+* [2025-01-10, 17:55:24](https://news.ycombinator.com/item?id=42657982) - [Ask HN: How to approach first days on a new job as a senior PM?](https://news.ycombinator.com/item?id=42657982)
 * [2025-01-10, 17:48:29](https://news.ycombinator.com/item?id=42657907) - [Review: Reentry, by Eric Berger](https://www.thepsmiths.com/p/review-reentry-by-eric-berger)
 * [2025-01-10, 17:48:04](https://news.ycombinator.com/item?id=42657901) - [Meta's memo to employees rolling back DEI programs](https://www.axios.com/2025/01/10/meta-dei-memo-employees-programs)
 * [2025-01-10, 17:29:32](https://news.ycombinator.com/item?id=42657744) - [What Dr. Ruth Left Behind](https://www.nytimes.com/2025/01/09/arts/dr-ruth-kinsey-sex.html)
