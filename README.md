@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-14, 08:15:00](https://news.ycombinator.com/item?id=42694932) - [U.S. Employee Engagement Sinks to 10-Year Low](https://www.gallup.com/workplace/654911/employee-engagement-sinks-year-low.aspx)
 * [2025-01-14, 07:08:59](https://news.ycombinator.com/item?id=42694596) - [ZFS 2.3.0 released with ZFS raidz expansion](https://github.com/openzfs/zfs/releases/tag/zfs-2.3.0)
 * [2025-01-14, 04:59:32](https://news.ycombinator.com/item?id=42693849) - [The Sikh Practice of Langar, a Free Meal Where Everyone Is Equal](https://www.wttw.com/playlist/2022/04/05/langar-maah-chhole-daal)
 * [2025-01-14, 01:31:24](https://news.ycombinator.com/item?id=42692311) - [Campsite is now open source](https://github.com/campsite/campsite)
@@ -26,6 +25,7 @@
 * [2025-01-10, 21:02:32](https://news.ycombinator.com/item?id=42660184) - [How we used GPT-4o for image detection with 350 similar illustrations](https://olup-blog.pages.dev/stories/image-detection-cars)
 * [2025-01-10, 17:55:24](https://news.ycombinator.com/item?id=42657982) - [Ask HN: How to approach first days on a new job as a senior PM?](https://news.ycombinator.com/item?id=42657982)
 * [2025-01-10, 17:16:16](https://news.ycombinator.com/item?id=42657593) - [When a winter storm trapped a luxury passenger train near Donner Pass](https://www.smithsonianmag.com/history/when-a-deadly-winter-storm-trapped-a-luxury-passenger-train-near-the-donner-pass-for-three-days-180985782/)
+* [2025-01-10, 17:15:22](https://news.ycombinator.com/item?id=42657585) - [Railroad Tycoon II](https://www.filfre.net/2025/01/railroad-tycoon-ii/)
 * [2025-01-10, 16:39:01](https://news.ycombinator.com/item?id=42657208) - [Ships must practice celestial navigation](https://www.usni.org/magazines/proceedings/2025/january/ships-must-practice-celestial-navigation)
 * [2025-01-09, 23:34:17](https://news.ycombinator.com/item?id=42650954) - [Lines of code that will beat A/B testing every time (2012)](https://stevehanov.ca/blog/index.php?id=132)
 * [2025-01-09, 21:15:33](https://news.ycombinator.com/item?id=42649862) - [Why is my CPU usage always 100%?](https://www.downtowndougbrown.com/2024/04/why-is-my-cpu-usage-always-100-upgrading-my-chumby-8-kernel-part-9/)
