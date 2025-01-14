@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-14, 12:41:46](https://news.ycombinator.com/item?id=42696517) - [Plant CO2 uptake rises by nearly one third in new global estimates](https://www.ornl.gov/news/plant-co2-uptake-rises-nearly-one-third-new-global-estimates)
-* [2025-01-14, 12:15:47](https://news.ycombinator.com/item?id=42696324) - [Russia is being set aflame by arson attacks](https://www.economist.com/europe/2025/01/12/russia-is-being-set-aflame-by-hundreds-of-arson-attacks)
 * [2025-01-14, 12:06:02](https://news.ycombinator.com/item?id=42696264) - [Singapore is turning to AI to care for its rapidly aging population](https://restofworld.org/2025/singapore-ai-eldercare-tools/)
 * [2025-01-14, 12:00:32](https://news.ycombinator.com/item?id=42696219) - [X-ray flashes from nearby supermassive black hole accelerate mysteriously](https://news.mit.edu/2025/x-ray-flashes-nearby-supermassive-black-hole-accelerate-mysteriously-0113)
+* [2025-01-14, 11:57:13](https://news.ycombinator.com/item?id=42696204) - [Sweden is a nearly cashless society – how it affects people who are left out](https://theconversation.com/sweden-is-a-nearly-cashless-society-heres-how-it-affects-people-who-are-left-out-216586)
 * [2025-01-14, 11:37:58](https://news.ycombinator.com/item?id=42696081) - [I Switched to Firefox and Never Looked Back](https://www.howtogeek.com/why-i-switched-to-firefox-and-never-looked-back/)
 * [2025-01-14, 11:37:57](https://news.ycombinator.com/item?id=42696080) - [PostgreSQL Is the Database Management System of the Year 2024](https://db-engines.com/en/blog_post/109)
 * [2025-01-14, 07:08:59](https://news.ycombinator.com/item?id=42694596) - [ZFS 2.3.0 released with ZFS raidz expansion](https://github.com/openzfs/zfs/releases/tag/zfs-2.3.0)
