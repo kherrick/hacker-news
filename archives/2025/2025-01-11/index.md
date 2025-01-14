@@ -20,6 +20,7 @@
 * [2025-01-11, 18:18:36](https://news.ycombinator.com/item?id=42667797) - [Map of California roads for cyclers (1895)](https://www.loc.gov/resource/g4361p.ct000092/?r=-0.628,0.425,1.749,0.902,0)
 * [2025-01-11, 18:14:17](https://news.ycombinator.com/item?id=42667766) - [Matt Mullenweg deactivates WordPress accounts of contributors planning a fork](https://techcrunch.com/2025/01/11/matt-mullenweg-deactivates-wordpress-accounts-of-contributors-planning-a-fork/)
 * [2025-01-11, 17:27:11](https://news.ycombinator.com/item?id=42667360) - [James Thomson on the Origins of the macOS Dock](https://daringfireball.net/linked/2025/01/10/thomson-dock)
+* [2025-01-11, 16:08:44](https://news.ycombinator.com/item?id=42666776) - [Inconvenient truths about the fires burning in Los Angeles from two fire experts](https://www.latimes.com/california/story/2025-01-11/fire-experts-asses-los-angeles-blazes-amid-changing-times)
 * [2025-01-11, 15:42:02](https://news.ycombinator.com/item?id=42666572) - [De-smarting the Marshall Uxbridge Bluetooth speaker](https://tomscii.sig7.se/2025/01/De-smarting-the-Marshall-Uxbridge)
 * [2025-01-11, 15:34:34](https://news.ycombinator.com/item?id=42666513) - [The Elephant in the room: The myth of exponential hypergrowth (2022)](https://longform.asmartbear.com/exponential-growth/)
 * [2025-01-11, 15:31:03](https://news.ycombinator.com/item?id=42666492) - [TypeScript/React/Vue Window Layout Manager (Tabs, Floating, Popouts)](https://github.com/mathuo/dockview)
