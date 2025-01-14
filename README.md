@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-14, 11:37:57](https://news.ycombinator.com/item?id=42696080) - [PostgreSQL Is the Database Management System of the Year 2024](https://db-engines.com/en/blog_post/109)
 * [2025-01-14, 11:25:34](https://news.ycombinator.com/item?id=42696023) - [Norway on track to be first to go all-electric](https://www.bbc.com/news/articles/cg52543v6rmo)
 * [2025-01-14, 11:17:46](https://news.ycombinator.com/item?id=42695990) - [LA wildfires disinformation reveals limits of fact-checking](https://weaponizedspaces.substack.com/p/la-wildfires-disinformation-reveals)
 * [2025-01-14, 07:08:59](https://news.ycombinator.com/item?id=42694596) - [ZFS 2.3.0 released with ZFS raidz expansion](https://github.com/openzfs/zfs/releases/tag/zfs-2.3.0)
@@ -27,7 +28,6 @@
 * [2025-01-10, 21:02:32](https://news.ycombinator.com/item?id=42660184) - [How we used GPT-4o for image detection with 350 similar illustrations](https://olup-blog.pages.dev/stories/image-detection-cars)
 * [2025-01-10, 20:50:40](https://news.ycombinator.com/item?id=42660042) - [I'm a Programmer Who Bought a Typewriter](https://news.ycombinator.com/item?id=42660042)
 * [2025-01-10, 17:55:24](https://news.ycombinator.com/item?id=42657982) - [Ask HN: How to approach first days on a new job as a senior PM?](https://news.ycombinator.com/item?id=42657982)
-* [2025-01-10, 17:16:16](https://news.ycombinator.com/item?id=42657593) - [When a winter storm trapped a luxury passenger train near Donner Pass](https://www.smithsonianmag.com/history/when-a-deadly-winter-storm-trapped-a-luxury-passenger-train-near-the-donner-pass-for-three-days-180985782/)
 * [2025-01-09, 23:34:17](https://news.ycombinator.com/item?id=42650954) - [Lines of code that will beat A/B testing every time (2012)](https://stevehanov.ca/blog/index.php?id=132)
 * [2025-01-09, 21:15:33](https://news.ycombinator.com/item?id=42649862) - [Why is my CPU usage always 100%?](https://www.downtowndougbrown.com/2024/04/why-is-my-cpu-usage-always-100-upgrading-my-chumby-8-kernel-part-9/)
 
