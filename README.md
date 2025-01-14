@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-14, 15:07:43](https://news.ycombinator.com/item?id=42698092) - [47% of 160 Top Selling Protein Powders Tested Exceed P65 Limit for Toxic Metals [pdf]](https://cleanlabelproject.org/wp-content/uploads/CleanLabelProject_ProteinStudyWhitepaper_010625.pdf)
 * [2025-01-14, 14:57:12](https://news.ycombinator.com/item?id=42697958) - [Ask HN: Industry Wide Strike for Worker Protection?](https://news.ycombinator.com/item?id=42697958)
 * [2025-01-14, 14:52:21](https://news.ycombinator.com/item?id=42697882) - [Proton: We're giving away over $1M to support a better internet](https://proton.me/blog/2024-lifetime-fundraiser-results)
 * [2025-01-14, 14:44:20](https://news.ycombinator.com/item?id=42697783) - [1 in 5 Online Job Postings Are Either Fake or Never Filled](https://gizmodo.com/1-in-5-online-job-postings-are-either-fake-or-never-filled-study-finds-2000549706)
@@ -26,6 +25,7 @@
 * [2025-01-13, 04:09:24](https://news.ycombinator.com/item?id=42679998) - [Carnarvon's NASA satellite dish receives first signal in almost 40 years](https://www.abc.net.au/news/2024-12-03/carnarvon-nasa-dish-receives-signal-repairs/104672866)
 * [2025-01-12, 11:29:52](https://news.ycombinator.com/item?id=42672821) - [I created an open-source Hardware Hacking Wiki – with tutorials for beginners](https://www.hardbreak.wiki)
 * [2025-01-12, 07:50:14](https://news.ycombinator.com/item?id=42671960) - [A secure distributed actor language](https://mistysystem.com/)
+* [2025-01-11, 00:59:13](https://news.ycombinator.com/item?id=42662265) - [A couple CSS tricks for HTML Dialog elements](https://cassidoo.co/post/css-for-dialogs/)
 * [2025-01-10, 21:53:21](https://news.ycombinator.com/item?id=42660693) - [The Plunge (2014)](https://grantland.com/features/the-plunge-shavarsh-karapetyan-heroic-rescue-armenia-trolleybus-ussr-history-finswimming/)
 * [2025-01-10, 21:42:54](https://news.ycombinator.com/item?id=42660606) - [Reversible Computing Escapes the Lab](https://spectrum.ieee.org/reversible-computing)
 * [2025-01-10, 21:02:32](https://news.ycombinator.com/item?id=42660184) - [How we used GPT-4o for image detection with 350 similar illustrations](https://olup-blog.pages.dev/stories/image-detection-cars)

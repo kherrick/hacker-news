@@ -53,3 +53,4 @@
 * [2025-01-11, 01:47:55](https://news.ycombinator.com/item?id=42662552) - [FreeBSD Suspend/Resume](https://vermaden.wordpress.com/2025/01/11/freebsd-suspend-resume/)
 * [2025-01-11, 01:09:41](https://news.ycombinator.com/item?id=42662340) - [The Anti-Social Century](https://www.theatlantic.com/magazine/archive/2025/02/american-loneliness-personality-politics/681091/)
 * [2025-01-11, 01:07:31](https://news.ycombinator.com/item?id=42662329) - [A Laptop Stand Made from a Single Sheet of Recycled Paper](https://www.core77.com/posts/134948/A-Laptop-Stand-Made-from-a-Single-Sheet-of-Recycled-Paper)
+* [2025-01-11, 00:59:13](https://news.ycombinator.com/item?id=42662265) - [A couple CSS tricks for HTML Dialog elements](https://cassidoo.co/post/css-for-dialogs/)
