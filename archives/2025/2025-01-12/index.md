@@ -19,6 +19,7 @@
 * [2025-01-12, 20:06:49](https://news.ycombinator.com/item?id=42676432) - [UV has a killer feature you should know about](https://valatka.dev/2025/01/12/on-killer-uv-feature.html)
 * [2025-01-12, 19:50:07](https://news.ycombinator.com/item?id=42676312) - [Thanks to Nvidia, there's a new generation of PCs coming and they'll run Linux](https://www.zdnet.com/article/thanks-to-nvidia-theres-a-new-generation-of-pcs-coming-and-theyll-be-running-linux/)
 * [2025-01-12, 19:46:08](https://news.ycombinator.com/item?id=42676274) - [The 46 Best Pens for 2025: Gel, Ballpoint, Rollerball, and Fountain Pens](https://www.jetpens.com/blog/The-46-Best-Pens-for-2025-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974)
+* [2025-01-12, 19:42:38](https://news.ycombinator.com/item?id=42676245) - [Customasm – An assembler for custom, user-defined instruction sets](https://github.com/hlorenzi/customasm)
 * [2025-01-12, 19:27:16](https://news.ycombinator.com/item?id=42676125) - [Study links sugar-filled drinks to millions of heart disease and diabetes cases](https://bgr.com/science/study-links-sugar-filled-drinks-to-millions-of-heart-disease-and-diabetes-cases-each-year/)
 * [2025-01-12, 19:27:07](https://news.ycombinator.com/item?id=42676123) - [James Shore: The Best Product Engineering Org in the World](https://www.jamesshore.com/v2/blog/2025/the-best-product-engineering-org-in-the-world)
 * [2025-01-12, 19:01:08](https://news.ycombinator.com/item?id=42675882) - [Snake Game in 56 Bytes](https://github.com/donno2048/snake)
