@@ -2,6 +2,7 @@
 
 * [2025-01-15, 21:23:55](https://news.ycombinator.com/item?id=42717234) - [I have made the decision to disband Hindenburg Research](https://hindenburgresearch.com/gratitude/)
 * [2025-01-15, 21:19:15](https://news.ycombinator.com/item?id=42717165) - [100x defect tolerance: How we solved the yield problem](https://cerebras.ai/blog/100x-defect-tolerance-how-cerebras-solved-the-yield-problem)
+* [2025-01-15, 21:17:53](https://news.ycombinator.com/item?id=42717149) - [Ludum Dare 2025 is cancelled](https://ludumdare.com/news/taking-a-break/)
 * [2025-01-15, 21:00:41](https://news.ycombinator.com/item?id=42716903) - [Empirical Health (YC S23) is hiring interns to build data-driven primary care](https://www.ycombinator.com/companies/empirical-health/jobs/BQlfWbt-software-engineer-intern-summer-2025)
 * [2025-01-15, 20:30:30](https://news.ycombinator.com/item?id=42716487) - [Show HN: I made a tool to save multimedia from various platforms](https://www.saveplays.com/)
 * [2025-01-15, 20:20:12](https://news.ycombinator.com/item?id=42716356) - [Scheduled tasks in ChatGPT](https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt)
@@ -10,7 +11,6 @@
 * [2025-01-15, 19:54:44](https://news.ycombinator.com/item?id=42716072) - [dnSpyEx: .NET debugger and assembly editor](https://github.com/dnSpyEx/dnSpy)
 * [2025-01-15, 19:34:01](https://news.ycombinator.com/item?id=42715841) - [Sweden brings more books and handwriting practice back to its schools (2023)](https://apnews.com/article/sweden-digital-education-backlash-reading-writing-1dd964c628f76361c43dbf3964f7dbf4)
 * [2025-01-15, 18:12:55](https://news.ycombinator.com/item?id=42714775) - [A marriage proposal spoken in office jargon](https://www.mcsweeneys.net/articles/a-marriage-proposal-spoken-entirely-in-office-jargon)
-* [2025-01-15, 17:35:34](https://news.ycombinator.com/item?id=42714156) - [GOG Joins European Federation of Game Archives, Museums & Preservation Projects](https://www.gamingonlinux.com/2025/01/gog-joins-the-european-federation-of-game-archives-museums-and-preservation-projects/)
 * [2025-01-15, 16:09:07](https://news.ycombinator.com/item?id=42712666) - [Show HN: I built a fair alternative to Product Hunt for indie makers](https://news.ycombinator.com/item?id=42712666)
 * [2025-01-15, 15:55:13](https://news.ycombinator.com/item?id=42712433) - [Why is Cloudflare Pages' bandwidth unlimited?](https://mattsayar.com/why-does-cloudflare-pages-have-such-a-generous-free-tier/)
 * [2025-01-15, 15:27:55](https://news.ycombinator.com/item?id=42711966) - [Ropey – A UTF8 text rope for manipulating and editing large text](https://github.com/cessen/ropey)

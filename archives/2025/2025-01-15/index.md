@@ -6,6 +6,7 @@
 
 * [2025-01-15, 21:23:55](https://news.ycombinator.com/item?id=42717234) - [I have made the decision to disband Hindenburg Research](https://hindenburgresearch.com/gratitude/)
 * [2025-01-15, 21:19:15](https://news.ycombinator.com/item?id=42717165) - [100x Defect Tolerance: How Cerebras Solved the Yield Problem](https://cerebras.ai/blog/100x-defect-tolerance-how-cerebras-solved-the-yield-problem)
+* [2025-01-15, 21:17:53](https://news.ycombinator.com/item?id=42717149) - [Ludum Dare 2025 is cancelled](https://ludumdare.com/news/taking-a-break/)
 * [2025-01-15, 21:01:46](https://news.ycombinator.com/item?id=42716926) - [The Trouble with Elon](https://samharris.substack.com/p/the-trouble-with-elon)
 * [2025-01-15, 21:00:41](https://news.ycombinator.com/item?id=42716903) - [Empirical Health is hiring interns to build data-driven primary care](https://www.ycombinator.com/companies/empirical-health/jobs/BQlfWbt-software-engineer-intern-summer-2025)
 * [2025-01-15, 20:30:30](https://news.ycombinator.com/item?id=42716487) - [SHOW HN: I made a tool to save multimedia from various platforms](https://www.saveplays.com/)
