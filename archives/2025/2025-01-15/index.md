@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-15](index.md)
 
+* [2025-01-15, 19:58:16](https://news.ycombinator.com/item?id=42716104) - [Natrium 'advanced nuclear' power plant wins Wyoming permit](https://wyofile.com/natrium-advanced-nuclear-power-plant-wins-wyoming-permit/)
+* [2025-01-15, 19:34:01](https://news.ycombinator.com/item?id=42715841) - [Sweden is investing €104M to bring back printed textbooks](https://indiandefencereview.com/in-2009-sweden-chose-to-replace-books-with-computers-15-years-later-it-allocates-104-million-euros-to-reverse-course/)
 * [2025-01-15, 19:02:35](https://news.ycombinator.com/item?id=42715462) - [Laptop](https://mijndertstuij.nl/posts/the-best-laptop-ever/)
 * [2025-01-15, 18:12:55](https://news.ycombinator.com/item?id=42714775) - [A Marriage Proposal Spoken in Office Jargon](https://www.mcsweeneys.net/articles/a-marriage-proposal-spoken-entirely-in-office-jargon)
 * [2025-01-15, 18:12:50](https://news.ycombinator.com/item?id=42714774) - [Banning TikTok Is Unconstitutional. The Supreme Court Must Step In](https://www.aclu.org/news/national-security/banning-tiktok-is-unconstitutional-the-supreme-court-must-step-in)
