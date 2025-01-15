@@ -63,6 +63,7 @@
 * [2025-01-14, 10:02:56](https://news.ycombinator.com/item?id=42695580) - [The Rise and Fall of the English Sentence (2017)](https://nautil.us/the-rise-and-fall-of-the-english-sentence-236880/)
 * [2025-01-14, 09:58:15](https://news.ycombinator.com/item?id=42695547) - [FFmpeg by Example](https://ffmpegbyexample.com/)
 * [2025-01-14, 09:08:13](https://news.ycombinator.com/item?id=42695232) - [Data evolution with set-theoretic types](https://dashbit.co/blog/data-evolution-with-set-theoretic-types)
+* [2025-01-14, 08:28:06](https://news.ycombinator.com/item?id=42695005) - [Personalized voice recordings by Elwood \"You've got mail!\" Edwards](https://blog.jgc.org/2024/11/personalized-voice-recordings-by-elwood.html)
 * [2025-01-14, 08:15:00](https://news.ycombinator.com/item?id=42694932) - [U.S. Employee Engagement Sinks to 10-Year Low](https://www.gallup.com/workplace/654911/employee-engagement-sinks-year-low.aspx)
 * [2025-01-14, 07:14:50](https://news.ycombinator.com/item?id=42694635) - [RedNote Style Content Assistant](https://www.rednote.pro/)
 * [2025-01-14, 07:08:59](https://news.ycombinator.com/item?id=42694596) - [ZFS 2.3.0 released with ZFS raidz expansion](https://github.com/openzfs/zfs/releases/tag/zfs-2.3.0)
