@@ -26,10 +26,10 @@
 * [2025-01-12, 13:05:41](https://news.ycombinator.com/item?id=42673273) - [Show HN: Pyper – Concurrent Python Made Simple](https://github.com/pyper-dev/pyper)
 * [2025-01-12, 11:12:29](https://news.ycombinator.com/item?id=42672724) - [Distributed Transactions at Scale in Amazon DynamoDB (2023)](http://muratbuffalo.blogspot.com/2023/08/distributed-transactions-at-scale-in.html)
 * [2025-01-12, 09:39:50](https://news.ycombinator.com/item?id=42672366) - [Das Blinkenlights](https://rodyne.com/?p=1674)
+* [2025-01-12, 02:35:33](https://news.ycombinator.com/item?id=42670789) - [Early Iron Age horse sacrifice at a royal tomb in southern Siberia](https://www.cambridge.org/core/journals/antiquity/article/spectral-cavalcade-early-iron-age-horse-sacrifice-at-a-royal-tomb-in-southern-siberia/80E0B627528E00EA7C2AE4456F182DAC)
 * [2025-01-11, 23:43:33](https://news.ycombinator.com/item?id=42669906) - [Why the weak nuclear force is short range](https://profmattstrassler.com/articles-and-posts/particle-physics-basics/the-astonishing-standard-model/why-the-weak-nuclear-force-is-short-range/)
 * [2025-01-11, 16:35:00](https://news.ycombinator.com/item?id=42666959) - [Homomorphic encryption in iOS 18](https://boehs.org/node/homomorphic-encryption)
 * [2025-01-11, 15:45:51](https://news.ycombinator.com/item?id=42666594) - [TSMC begins producing 4-nanometer chips in Arizona](https://www.reuters.com/technology/tsmc-begins-producing-4-nanometer-chips-arizona-raimondo-says-2025-01-10/)
-* [2025-01-10, 21:42:54](https://news.ycombinator.com/item?id=42660606) - [Reversible computing escapes the lab](https://spectrum.ieee.org/reversible-computing)
 
 ## [Archives](archives/index.md)
 
