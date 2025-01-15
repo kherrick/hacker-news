@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-15, 04:10:17](https://news.ycombinator.com/item?id=42707218) - [Intel, AMD engineers rush to save Linux 6.13 after dodgy Microsoft code change](https://www.theregister.com/2025/01/14/microsoft_linux_change_pulled/)
+* [2025-01-15, 00:37:35](https://news.ycombinator.com/item?id=42705935) - [Transformer^2: Self-Adaptive LLMs](https://sakana.ai/transformer-squared/)
 * [2025-01-14, 23:08:54](https://news.ycombinator.com/item?id=42705180) - [Climbers using xenon gas to climb Everest](https://gripped.com/profiles/climbers-using-xenon-gas-which-is-banned-in-sports-to-climb-everest/)
 * [2025-01-14, 22:57:19](https://news.ycombinator.com/item?id=42705077) - [Rewriting my website in plain HTML and CSS](https://www.vijayp.dev/blog/rewrite-plain-html/)
 * [2025-01-14, 22:25:54](https://news.ycombinator.com/item?id=42704795) - [GPT-4o with scheduled tasks (jawbone) is available in beta](https://chatgpt.com/?model=gpt-4o-jawbone)
@@ -19,7 +21,6 @@
 * [2025-01-14, 12:41:46](https://news.ycombinator.com/item?id=42696517) - [Estimates of plant CO2 uptake rise by nearly one third](https://www.ornl.gov/news/plant-co2-uptake-rises-nearly-one-third-new-global-estimates)
 * [2025-01-14, 09:58:15](https://news.ycombinator.com/item?id=42695547) - [FFmpeg by Example](https://ffmpegbyexample.com/)
 * [2025-01-13, 17:42:00](https://news.ycombinator.com/item?id=42686144) - [Cosmos Keyboard: Scan your hand, build a keyboard](https://ryanis.cool/cosmos/)
-* [2025-01-13, 10:23:50](https://news.ycombinator.com/item?id=42681976) - [Mastodon announces new European non-profit, change of CEO](https://blog.joinmastodon.org/2025/01/the-people-should-own-the-town-square/)
 * [2025-01-12, 18:22:07](https://news.ycombinator.com/item?id=42675529) - [The Missing Nvidia GPU Glossary](https://modal.com/gpu-glossary/readme)
 * [2025-01-12, 15:00:11](https://news.ycombinator.com/item?id=42674003) - [Free Music Archive](https://freemusicarchive.org/home)
 * [2025-01-12, 13:33:39](https://news.ycombinator.com/item?id=42673415) - [Getting an all-optical AI to handle non-linear math](https://arstechnica.com/science/2025/01/getting-an-all-optical-ai-to-handle-non-linear-math/)
@@ -28,7 +29,6 @@
 * [2025-01-12, 08:04:57](https://news.ycombinator.com/item?id=42672015) - [Virtual Vette – Racing Simulator Built from Wrecked Corvette](https://www.instructables.com/Virtual-Vette-Racing-Simulator-Built-From-Wrecked-/)
 * [2025-01-11, 21:30:04](https://news.ycombinator.com/item?id=42669065) - [Test if a number is even](https://ubuntuincident.wordpress.com/2025/01/11/test-if-a-number-is-even/)
 * [2025-01-11, 16:35:00](https://news.ycombinator.com/item?id=42666959) - [Homomorphic Encryption in iOS 18](https://boehs.org/node/homomorphic-encryption)
-* [2025-01-11, 16:19:56](https://news.ycombinator.com/item?id=42666851) - [Nix – Death by a Thousand Cuts](https://www.dgt.is/blog/2025-01-10-nix-death-by-a-thousand-cuts/)
 * [2025-01-10, 21:42:54](https://news.ycombinator.com/item?id=42660606) - [Reversible computing escapes the lab](https://spectrum.ieee.org/reversible-computing)
 
 ## [Archives](archives/index.md)
