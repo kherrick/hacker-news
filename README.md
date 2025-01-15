@@ -19,7 +19,6 @@
 * [2025-01-14, 17:54:51](https://news.ycombinator.com/item?id=42700997) - [Home Loss File System](https://docs.google.com/spreadsheets/d/1TPeJzW5pa-BiJZjuEa1yGSFs7ZJetbnxf2gjMvv4tkc/edit?usp=sharing)
 * [2025-01-14, 15:51:33](https://news.ycombinator.com/item?id=42698737) - [Why is homeschooling becoming fashionable?](https://newsletter.goodtechthings.com/p/why-are-tech-people-suddenly-so-into)
 * [2025-01-14, 14:17:52](https://news.ycombinator.com/item?id=42697467) - [Take the pedals off the bike](https://www.fortressofdoors.com/take-the-pedals-off-the-bike/)
-* [2025-01-14, 09:58:15](https://news.ycombinator.com/item?id=42695547) - [FFmpeg by Example](https://ffmpegbyexample.com/)
 * [2025-01-14, 08:28:06](https://news.ycombinator.com/item?id=42695005) - [Personalized voice recordings by Elwood \"You've got mail!\" Edwards](https://blog.jgc.org/2024/11/personalized-voice-recordings-by-elwood.html)
 * [2025-01-13, 01:53:18](https://news.ycombinator.com/item?id=42679191) - [Lambda Calculus in 383 Bytes (2022)](https://justine.lol/lambda/)
 * [2025-01-13, 00:24:05](https://news.ycombinator.com/item?id=42678562) - [Mystery-o-Matic: Solve a murder mystery every day](https://mystery-o-matic.com/en/)
@@ -28,6 +27,7 @@
 * [2025-01-12, 12:41:49](https://news.ycombinator.com/item?id=42673171) - [Imaging mounted disk volumes under duress (2021)](https://blog.benjojo.co.uk/post/imaging-mounted-disk-volumes-live)
 * [2025-01-12, 09:39:50](https://news.ycombinator.com/item?id=42672366) - [Das Blinkenlights](https://rodyne.com/?p=1674)
 * [2025-01-11, 23:43:33](https://news.ycombinator.com/item?id=42669906) - [Why the weak nuclear force is short range](https://profmattstrassler.com/articles-and-posts/particle-physics-basics/the-astonishing-standard-model/why-the-weak-nuclear-force-is-short-range/)
+* [2025-01-11, 22:25:37](https://news.ycombinator.com/item?id=42669431) - [Arnold's Cat](http://gerdbreitenbach.de/arnold_cat/cat.html)
 * [2025-01-11, 16:50:49](https://news.ycombinator.com/item?id=42667080) - [KEON is a human-readable serde format that syntactic similar to Rust](https://github.com/eternal-io/keon)
 * [2025-01-11, 15:45:51](https://news.ycombinator.com/item?id=42666594) - [TSMC begins producing 4-nanometer chips in Arizona](https://www.reuters.com/technology/tsmc-begins-producing-4-nanometer-chips-arizona-raimondo-says-2025-01-10/)
 
