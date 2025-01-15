@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-01-15, 12:57:31",
-      "https://news.ycombinator.com/item?id=42710339"
+      "2025-01-15, 13:42:45",
+      "https://news.ycombinator.com/item?id=42710622"
     ],
     [
-      "TikTok preparing for U.S. shut-off on Sunday",
-      "https://www.reuters.com/technology/tiktok-preparing-us-shut-off-sunday-information-reports-2025-01-15/"
+      "Talk Dirty to Me",
+      "https://worldsensorium.com/talk-dirty-to-me-summary/"
     ]
   ],
   [
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=42706732"
     ],
     [
-      "Researchers have identified a total of 6 vulnerabilities in rsync",
+      "Rsync vulnerabilities",
       "https://www.openwall.com/lists/oss-security/2025/01/14/3"
     ]
   ],
@@ -115,7 +115,7 @@
       "https://news.ycombinator.com/item?id=42697467"
     ],
     [
-      "Take the Pedals Off the Bike",
+      "Take the pedals off the bike",
       "https://www.fortressofdoors.com/take-the-pedals-off-the-bike/"
     ]
   ],
@@ -137,6 +137,16 @@
     [
       "Servo vs. steppers: Speed, Torque and Accuracy [video]",
       "https://www.youtube.com/watch?v=H-nO1F-AO9I"
+    ]
+  ],
+  [
+    [
+      "2025-01-14, 12:41:46",
+      "https://news.ycombinator.com/item?id=42696517"
+    ],
+    [
+      "Estimates of plant CO2 uptake rise by nearly one third",
+      "https://www.ornl.gov/news/plant-co2-uptake-rises-nearly-one-third-new-global-estimates"
     ]
   ],
   [
@@ -175,7 +185,7 @@
       "https://news.ycombinator.com/item?id=42679191"
     ],
     [
-      "Lambda Calculus in 383 Bytes",
+      "Lambda Calculus in 383 Bytes (2022)",
       "https://justine.lol/lambda/"
     ]
   ],
@@ -205,7 +215,7 @@
       "https://news.ycombinator.com/item?id=42674003"
     ],
     [
-      "Free Music Archive",
+      "Free music archive",
       "https://freemusicarchive.org/home"
     ]
   ],
@@ -261,21 +271,11 @@
   ],
   [
     [
-      "2025-01-11, 22:26:19",
-      "https://news.ycombinator.com/item?id=42669437"
-    ],
-    [
-      "Ink Pen Records Handwriting and Creates Digital Copies",
-      "https://www.zdnet.com/home-and-office/work-life/i-tested-an-ink-pen-that-records-your-handwriting-and-makes-a-digital-copy-spoiler-it-works/"
-    ]
-  ],
-  [
-    [
       "2025-01-11, 16:35:00",
       "https://news.ycombinator.com/item?id=42666959"
     ],
     [
-      "Homomorphic Encryption in iOS 18",
+      "Homomorphic encryption in iOS 18",
       "https://boehs.org/node/homomorphic-encryption"
     ]
   ],
