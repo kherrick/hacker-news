@@ -11,6 +11,7 @@
 * [2025-01-11, 23:02:07](https://news.ycombinator.com/item?id=42669670) - [Scanning ultrasound removes amyloid-β, restores memory in Alzheimer mouse model](https://www.science.org/doi/10.1126/scitranslmed.aaa2512?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
 * [2025-01-11, 22:58:22](https://news.ycombinator.com/item?id=42669637) - [Obvious things C should do](https://www.digitalmars.com/articles/Cobvious.html)
 * [2025-01-11, 22:58:22](https://news.ycombinator.com/item?id=42669637) - [Obvious Things C Should Do](https://twitter.com/WalterBright/status/1878209651306803406)
+* [2025-01-11, 22:26:19](https://news.ycombinator.com/item?id=42669437) - [Ink Pen Records Handwriting and Creates Digital Copies](https://www.zdnet.com/home-and-office/work-life/i-tested-an-ink-pen-that-records-your-handwriting-and-makes-a-digital-copy-spoiler-it-works/)
 * [2025-01-11, 21:42:50](https://news.ycombinator.com/item?id=42669143) - [JPMorgan Reportedly Ending Remote Work for More Than 300k Employees](https://www.forbes.com/sites/terinaallen/2025/01/09/jpmorgan-ending-remote-work-for-300000-employees-report/)
 * [2025-01-11, 21:30:04](https://news.ycombinator.com/item?id=42669065) - [Test if a number is even](https://ubuntuincident.wordpress.com/2025/01/11/test-if-a-number-is-even/)
 * [2025-01-11, 21:25:31](https://news.ycombinator.com/item?id=42669027) - [Why is every Bay Area event imposing Chatham House rules?](https://sfstandard.com/2025/01/11/chatham-house-rule-burnout/)
