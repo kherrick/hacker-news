@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-01-15](index.md)
 
+* [2025-01-15, 21:19:15](https://news.ycombinator.com/item?id=42717165) - [100x Defect Tolerance: How Cerebras Solved the Yield Problem](https://cerebras.ai/blog/100x-defect-tolerance-how-cerebras-solved-the-yield-problem)
 * [2025-01-15, 21:01:46](https://news.ycombinator.com/item?id=42716926) - [The Trouble with Elon](https://samharris.substack.com/p/the-trouble-with-elon)
 * [2025-01-15, 21:00:41](https://news.ycombinator.com/item?id=42716903) - [Empirical Health is hiring interns to build data-driven primary care](https://www.ycombinator.com/companies/empirical-health/jobs/BQlfWbt-software-engineer-intern-summer-2025)
 * [2025-01-15, 20:30:30](https://news.ycombinator.com/item?id=42716487) - [SHOW HN: I made a tool to save multimedia from various platforms](https://www.saveplays.com/)
+* [2025-01-15, 20:26:49](https://news.ycombinator.com/item?id=42716440) - [Israel, Hamas reach ceasefire deal to end 15 months of war in Gaza](https://www.reuters.com/world/middle-east/gaza-ceasefire-appears-close-us-egyptian-leaders-put-focus-coming-hours-2025-01-14/)
 * [2025-01-15, 20:26:07](https://news.ycombinator.com/item?id=42716428) - [UnitedHealth overcharged cancer patients for drugs by over 1,000%](https://fortune.com/2025/01/15/ftc-pbms-unitedhealth-brian-thompson-cvs-caremark-cigna-pharmacy-benefit-managers/)
 * [2025-01-15, 20:20:12](https://news.ycombinator.com/item?id=42716356) - [Scheduled Tasks in ChatGPT](https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt)
 * [2025-01-15, 20:06:37](https://news.ycombinator.com/item?id=42716204) - [Google brings real-time information from The Associated Press to Gemini](https://blog.google/products/news/associated-press-gemini-app/)
