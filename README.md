@@ -17,7 +17,6 @@
 * [2025-01-14, 14:06:41](https://news.ycombinator.com/item?id=42697346) - [Show HN: A blocklist to remove spam and bad websites from search results](https://github.com/popcar2/BadWebsiteBlocklist)
 * [2025-01-14, 14:05:40](https://news.ycombinator.com/item?id=42697335) - [Servo vs. steppers: Speed, Torque and Accuracy [video]](https://www.youtube.com/watch?v=H-nO1F-AO9I)
 * [2025-01-14, 12:41:46](https://news.ycombinator.com/item?id=42696517) - [Estimates of plant CO2 uptake rise by nearly one third](https://www.ornl.gov/news/plant-co2-uptake-rises-nearly-one-third-new-global-estimates)
-* [2025-01-14, 10:02:56](https://news.ycombinator.com/item?id=42695580) - [The rise and fall of the English sentence (2017)](https://nautil.us/the-rise-and-fall-of-the-english-sentence-236880/)
 * [2025-01-14, 09:58:15](https://news.ycombinator.com/item?id=42695547) - [FFmpeg by Example](https://ffmpegbyexample.com/)
 * [2025-01-13, 17:42:00](https://news.ycombinator.com/item?id=42686144) - [Cosmos Keyboard: Scan your hand, build a keyboard](https://ryanis.cool/cosmos/)
 * [2025-01-13, 10:23:50](https://news.ycombinator.com/item?id=42681976) - [Mastodon announces new European non-profit, change of CEO](https://blog.joinmastodon.org/2025/01/the-people-should-own-the-town-square/)
@@ -28,6 +27,7 @@
 * [2025-01-12, 08:04:57](https://news.ycombinator.com/item?id=42672015) - [Virtual Vette – Racing Simulator Built from Wrecked Corvette](https://www.instructables.com/Virtual-Vette-Racing-Simulator-Built-From-Wrecked-/)
 * [2025-01-11, 21:30:04](https://news.ycombinator.com/item?id=42669065) - [Test if a number is even](https://ubuntuincident.wordpress.com/2025/01/11/test-if-a-number-is-even/)
 * [2025-01-11, 16:35:00](https://news.ycombinator.com/item?id=42666959) - [Homomorphic Encryption in iOS 18](https://boehs.org/node/homomorphic-encryption)
+* [2025-01-11, 16:19:56](https://news.ycombinator.com/item?id=42666851) - [Nix – Death by a Thousand Cuts](https://www.dgt.is/blog/2025-01-10-nix-death-by-a-thousand-cuts/)
 * [2025-01-10, 21:44:24](https://news.ycombinator.com/item?id=42660619) - [Glicol: Next-generation computer music language](https://glicol.org/)
 * [2025-01-10, 21:42:54](https://news.ycombinator.com/item?id=42660606) - [Reversible computing escapes the lab](https://spectrum.ieee.org/reversible-computing)
 
