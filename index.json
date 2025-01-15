@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-15, 09:43:03",
+      "https://news.ycombinator.com/item?id=42709105"
+    ],
+    [
+      "Sky-Scanning Complete for Gaia",
+      "https://www.esa.int/ESA_Multimedia/Images/2025/01/Sky-scanning_complete_for_Gaia"
+    ]
+  ],
+  [
+    [
       "2025-01-15, 08:47:38",
       "https://news.ycombinator.com/item?id=42708773"
     ],
@@ -17,6 +27,16 @@
     [
       "Nevada Court Shuts Down Police Use of Federal Loophole for Civil Forfeiture",
       "https://ij.org/press-release/nevada-court-shuts-down-police-use-of-federal-loophole-for-civil-forfeiture/"
+    ]
+  ],
+  [
+    [
+      "2025-01-15, 02:45:54",
+      "https://news.ycombinator.com/item?id=42706732"
+    ],
+    [
+      "Researchers have identified a total of 6 vulnerabilities in rsync",
+      "https://www.openwall.com/lists/oss-security/2025/01/14/3"
     ]
   ],
   [
@@ -67,26 +87,6 @@
     [
       "Home Loss File System",
       "https://docs.google.com/spreadsheets/d/1TPeJzW5pa-BiJZjuEa1yGSFs7ZJetbnxf2gjMvv4tkc/edit?usp=sharing"
-    ]
-  ],
-  [
-    [
-      "2025-01-14, 17:46:41",
-      "https://news.ycombinator.com/item?id=42700852"
-    ],
-    [
-      "Show HN: WASM-powered codespaces for Python notebooks on GitHub",
-      "https://docs.marimo.io/guides/publishing/playground/#open-notebooks-hosted-on-github"
-    ]
-  ],
-  [
-    [
-      "2025-01-14, 16:14:01",
-      "https://news.ycombinator.com/item?id=42699099"
-    ],
-    [
-      "Google’s OAuth login doesn’t protect against purchasing a failed startup domain",
-      "https://trufflesecurity.com/blog/millions-at-risk-due-to-google-s-oauth-flaw"
     ]
   ],
   [
