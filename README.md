@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-15, 13:42:45](https://news.ycombinator.com/item?id=42710622) - [Maintaining and sustaining soil health](https://worldsensorium.com/talk-dirty-to-me-summary/)
+* [2025-01-15, 13:23:30](https://news.ycombinator.com/item?id=42710496) - [Shove your office mandates, people still prefer working from home](https://www.theregister.com/2025/01/15/shove_your_mandates_people_still/)
 * [2025-01-15, 12:57:31](https://news.ycombinator.com/item?id=42710339) - [TikTok preparing for U.S. shut-off on Sunday](https://www.reuters.com/technology/tiktok-preparing-us-shut-off-sunday-information-reports-2025-01-15/)
 * [2025-01-15, 09:43:03](https://news.ycombinator.com/item?id=42709105) - [Sky-scanning complete for Gaia](https://www.esa.int/ESA_Multimedia/Images/2025/01/Sky-scanning_complete_for_Gaia)
 * [2025-01-15, 08:47:38](https://news.ycombinator.com/item?id=42708773) - [Generate audiobooks from E-books with Kokoro-82M](https://claudio.uk/posts/epub-to-audiobook.html)
@@ -21,7 +22,6 @@
 * [2025-01-13, 01:53:18](https://news.ycombinator.com/item?id=42679191) - [Lambda Calculus in 383 Bytes (2022)](https://justine.lol/lambda/)
 * [2025-01-12, 21:33:23](https://news.ycombinator.com/item?id=42677158) - [Life on a Closed Timelike Curve](https://iopscience.iop.org/article/10.1088/1361-6382/ad98df#cqgad98dff1)
 * [2025-01-12, 19:42:38](https://news.ycombinator.com/item?id=42676245) - [Customasm – An assembler for custom, user-defined instruction sets](https://github.com/hlorenzi/customasm)
-* [2025-01-12, 15:00:11](https://news.ycombinator.com/item?id=42674003) - [Free music archive](https://freemusicarchive.org/home)
 * [2025-01-12, 13:33:39](https://news.ycombinator.com/item?id=42673415) - [Getting an all-optical AI to handle non-linear math](https://arstechnica.com/science/2025/01/getting-an-all-optical-ai-to-handle-non-linear-math/)
 * [2025-01-12, 13:05:41](https://news.ycombinator.com/item?id=42673273) - [Show HN: Pyper – Concurrent Python Made Simple](https://github.com/pyper-dev/pyper)
 * [2025-01-12, 11:12:29](https://news.ycombinator.com/item?id=42672724) - [Distributed Transactions at Scale in Amazon DynamoDB (2023)](http://muratbuffalo.blogspot.com/2023/08/distributed-transactions-at-scale-in.html)
