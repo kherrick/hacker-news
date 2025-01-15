@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-15, 14:15:17](https://news.ycombinator.com/item?id=42710978) - [Google is making AI in Gmail and Docs free – but raising the price of Workspace](https://www.theverge.com/2025/1/15/24343794/google-workspace-ai-features-free)
 * [2025-01-15, 13:42:45](https://news.ycombinator.com/item?id=42710622) - [Maintaining and sustaining soil health](https://worldsensorium.com/talk-dirty-to-me-summary/)
-* [2025-01-15, 13:23:30](https://news.ycombinator.com/item?id=42710496) - [Shove your office mandates, people still prefer working from home](https://www.theregister.com/2025/01/15/shove_your_mandates_people_still/)
 * [2025-01-15, 12:57:31](https://news.ycombinator.com/item?id=42710339) - [TikTok preparing for U.S. shut-off on Sunday](https://www.reuters.com/technology/tiktok-preparing-us-shut-off-sunday-information-reports-2025-01-15/)
 * [2025-01-15, 09:43:03](https://news.ycombinator.com/item?id=42709105) - [Sky-scanning complete for Gaia](https://www.esa.int/ESA_Multimedia/Images/2025/01/Sky-scanning_complete_for_Gaia)
 * [2025-01-15, 08:47:38](https://news.ycombinator.com/item?id=42708773) - [Generate audiobooks from E-books with Kokoro-82M](https://claudio.uk/posts/epub-to-audiobook.html)
@@ -26,10 +26,10 @@
 * [2025-01-12, 13:05:41](https://news.ycombinator.com/item?id=42673273) - [Show HN: Pyper – Concurrent Python Made Simple](https://github.com/pyper-dev/pyper)
 * [2025-01-12, 11:12:29](https://news.ycombinator.com/item?id=42672724) - [Distributed Transactions at Scale in Amazon DynamoDB (2023)](http://muratbuffalo.blogspot.com/2023/08/distributed-transactions-at-scale-in.html)
 * [2025-01-12, 09:39:50](https://news.ycombinator.com/item?id=42672366) - [Das Blinkenlights](https://rodyne.com/?p=1674)
-* [2025-01-12, 02:35:33](https://news.ycombinator.com/item?id=42670789) - [Early Iron Age horse sacrifice at a royal tomb in southern Siberia](https://www.cambridge.org/core/journals/antiquity/article/spectral-cavalcade-early-iron-age-horse-sacrifice-at-a-royal-tomb-in-southern-siberia/80E0B627528E00EA7C2AE4456F182DAC)
 * [2025-01-11, 23:43:33](https://news.ycombinator.com/item?id=42669906) - [Why the weak nuclear force is short range](https://profmattstrassler.com/articles-and-posts/particle-physics-basics/the-astonishing-standard-model/why-the-weak-nuclear-force-is-short-range/)
 * [2025-01-11, 16:35:00](https://news.ycombinator.com/item?id=42666959) - [Homomorphic encryption in iOS 18](https://boehs.org/node/homomorphic-encryption)
 * [2025-01-11, 15:45:51](https://news.ycombinator.com/item?id=42666594) - [TSMC begins producing 4-nanometer chips in Arizona](https://www.reuters.com/technology/tsmc-begins-producing-4-nanometer-chips-arizona-raimondo-says-2025-01-10/)
+* [2025-01-10, 21:42:54](https://news.ycombinator.com/item?id=42660606) - [Reversible computing escapes the lab](https://spectrum.ieee.org/reversible-computing)
 
 ## [Archives](archives/index.md)
 
