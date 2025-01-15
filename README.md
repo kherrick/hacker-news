@@ -5,7 +5,7 @@
 * [2025-01-15, 00:37:35](https://news.ycombinator.com/item?id=42705935) - [Transformer^2: Self-Adaptive LLMs](https://sakana.ai/transformer-squared/)
 * [2025-01-14, 22:57:19](https://news.ycombinator.com/item?id=42705077) - [Rewriting my website in plain HTML and CSS](https://www.vijayp.dev/blog/rewrite-plain-html/)
 * [2025-01-14, 22:25:54](https://news.ycombinator.com/item?id=42704795) - [GPT-4o with scheduled tasks (jawbone) is available in beta](https://chatgpt.com/?model=gpt-4o-jawbone)
-* [2025-01-14, 21:59:12](https://news.ycombinator.com/item?id=42704491) - [If You Ever See This Speed Sign, You're Probably Going to Die](https://www.theautopian.com/if-you-ever-see-this-speed-sign-youre-probably-going-to-die/)
+* [2025-01-14, 21:59:12](https://news.ycombinator.com/item?id=42704491) - [Road signs to help people limit radiation exposure in contaminated areas](https://www.theautopian.com/if-you-ever-see-this-speed-sign-youre-probably-going-to-die/)
 * [2025-01-14, 21:30:14](https://news.ycombinator.com/item?id=42704160) - [Show HN: Simplex: Automate browser workflows using code and natural language](https://www.simplex.sh/playground)
 * [2025-01-14, 21:23:21](https://news.ycombinator.com/item?id=42704078) - [Don't use cosine similarity carelessly](https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity/)
 * [2025-01-14, 20:21:47](https://news.ycombinator.com/item?id=42703282) - [How rqlite is tested](https://philipotoole.com/how-is-rqlite-tested/)
