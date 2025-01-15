@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-15, 07:26:50](https://news.ycombinator.com/item?id=42708295) - [Mark Zuckerberg Was Right to Fire Facebook's Rogue Fact-Checkers](https://reason.com/2025/01/07/mark-zuckerberg-meta-facebook-fact-checkers-censorship/)
 * [2025-01-15, 05:22:12](https://news.ycombinator.com/item?id=42707606) - [I failed moving my Google calendar to Proton](https://shilin.ca/i-tried-moving-my-google-calendar-to-proton-and-failed/)
 * [2025-01-15, 05:15:24](https://news.ycombinator.com/item?id=42707573) - [Nevada Court Shuts Down Police Use of Federal Loophole for Civil Forfeiture](https://ij.org/press-release/nevada-court-shuts-down-police-use-of-federal-loophole-for-civil-forfeiture/)
 * [2025-01-15, 00:37:35](https://news.ycombinator.com/item?id=42705935) - [Transformer^2: Self-Adaptive LLMs](https://sakana.ai/transformer-squared/)
 * [2025-01-14, 22:57:19](https://news.ycombinator.com/item?id=42705077) - [Rewriting my website in plain HTML and CSS](https://www.vijayp.dev/blog/rewrite-plain-html/)
-* [2025-01-14, 21:59:12](https://news.ycombinator.com/item?id=42704491) - [Road signs to help people limit radiation exposure in contaminated areas](https://www.theautopian.com/if-you-ever-see-this-speed-sign-youre-probably-going-to-die/)
 * [2025-01-14, 21:30:14](https://news.ycombinator.com/item?id=42704160) - [Show HN: Simplex: Automate browser workflows using code and natural language](https://www.simplex.sh/playground)
 * [2025-01-14, 21:23:21](https://news.ycombinator.com/item?id=42704078) - [Don't use cosine similarity carelessly](https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity/)
 * [2025-01-14, 20:21:47](https://news.ycombinator.com/item?id=42703282) - [How rqlite is tested](https://philipotoole.com/how-is-rqlite-tested/)
