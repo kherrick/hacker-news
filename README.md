@@ -3,7 +3,6 @@
 * [2025-01-15, 05:15:24](https://news.ycombinator.com/item?id=42707573) - [Nevada Court Shuts Down Police Use of Federal Loophole for Civil Forfeiture](https://ij.org/press-release/nevada-court-shuts-down-police-use-of-federal-loophole-for-civil-forfeiture/)
 * [2025-01-15, 04:15:43](https://news.ycombinator.com/item?id=42707238) - [Nobody Cares](https://grantslatton.com/nobody-cares)
 * [2025-01-15, 00:37:35](https://news.ycombinator.com/item?id=42705935) - [Transformer^2: Self-Adaptive LLMs](https://sakana.ai/transformer-squared/)
-* [2025-01-14, 23:08:54](https://news.ycombinator.com/item?id=42705180) - [Climbers using xenon gas to climb Everest](https://gripped.com/profiles/climbers-using-xenon-gas-which-is-banned-in-sports-to-climb-everest/)
 * [2025-01-14, 22:57:19](https://news.ycombinator.com/item?id=42705077) - [Rewriting my website in plain HTML and CSS](https://www.vijayp.dev/blog/rewrite-plain-html/)
 * [2025-01-14, 22:25:54](https://news.ycombinator.com/item?id=42704795) - [GPT-4o with scheduled tasks (jawbone) is available in beta](https://chatgpt.com/?model=gpt-4o-jawbone)
 * [2025-01-14, 21:59:12](https://news.ycombinator.com/item?id=42704491) - [If You Ever See This Speed Sign, You're Probably Going to Die](https://www.theautopian.com/if-you-ever-see-this-speed-sign-youre-probably-going-to-die/)
@@ -29,6 +28,7 @@
 * [2025-01-12, 09:39:50](https://news.ycombinator.com/item?id=42672366) - [Das Blinkenlights](https://rodyne.com/?p=1674)
 * [2025-01-12, 08:04:57](https://news.ycombinator.com/item?id=42672015) - [Virtual Vette – Racing Simulator Built from Wrecked Corvette](https://www.instructables.com/Virtual-Vette-Racing-Simulator-Built-From-Wrecked-/)
 * [2025-01-11, 16:35:00](https://news.ycombinator.com/item?id=42666959) - [Homomorphic Encryption in iOS 18](https://boehs.org/node/homomorphic-encryption)
+* [2025-01-11, 16:19:56](https://news.ycombinator.com/item?id=42666851) - [Nix – Death by a Thousand Cuts](https://www.dgt.is/blog/2025-01-10-nix-death-by-a-thousand-cuts/)
 * [2025-01-10, 21:42:54](https://news.ycombinator.com/item?id=42660606) - [Reversible computing escapes the lab](https://spectrum.ieee.org/reversible-computing)
 
 ## [Archives](archives/index.md)
