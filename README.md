@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-15, 21:00:41](https://news.ycombinator.com/item?id=42716903) - [Empirical Health is hiring interns to build data-driven primary care](https://www.ycombinator.com/companies/empirical-health/jobs/BQlfWbt-software-engineer-intern-summer-2025)
 * [2025-01-15, 20:30:30](https://news.ycombinator.com/item?id=42716487) - [Show HN: I made a tool to save multimedia from various platforms](https://www.saveplays.com/)
 * [2025-01-15, 20:26:07](https://news.ycombinator.com/item?id=42716428) - [UnitedHealth overcharged cancer patients for drugs by over 1,000%](https://fortune.com/2025/01/15/ftc-pbms-unitedhealth-brian-thompson-cvs-caremark-cigna-pharmacy-benefit-managers/)
 * [2025-01-15, 20:20:12](https://news.ycombinator.com/item?id=42716356) - [Scheduled Tasks in ChatGPT](https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt)
@@ -9,7 +10,6 @@
 * [2025-01-15, 19:34:01](https://news.ycombinator.com/item?id=42715841) - [Sweden is investing €104M to bring back printed textbooks](https://indiandefencereview.com/in-2009-sweden-chose-to-replace-books-with-computers-15-years-later-it-allocates-104-million-euros-to-reverse-course/)
 * [2025-01-15, 18:24:36](https://news.ycombinator.com/item?id=42714920) - [Gemini Advanced now included in Google Workspace](https://workspace.google.com/blog/product-announcements/empowering-businesses-with-AI)
 * [2025-01-15, 18:12:55](https://news.ycombinator.com/item?id=42714775) - [A Marriage Proposal Spoken in Office Jargon](https://www.mcsweeneys.net/articles/a-marriage-proposal-spoken-entirely-in-office-jargon)
-* [2025-01-15, 17:54:46](https://news.ycombinator.com/item?id=42714485) - [Lago – Open-Source Usage Based Billing – Is Hiring Technical Account Executives](https://www.ycombinator.com/companies/lago/jobs/gsN3rQG-technical-account-executive)
 * [2025-01-15, 17:52:21](https://news.ycombinator.com/item?id=42714436) - [Qantas South Africa flights delayed by falling debris from SpaceX rockets](https://www.theguardian.com/business/2025/jan/14/qantas-flights-delayed-spacex-falling-debris-sydney-to-johannesburg)
 * [2025-01-15, 17:35:34](https://news.ycombinator.com/item?id=42714156) - [GOG Joins European Federation of Game Archives, Museums & Preservation Projects](https://www.gamingonlinux.com/2025/01/gog-joins-the-european-federation-of-game-archives-museums-and-preservation-projects/)
 * [2025-01-15, 16:09:07](https://news.ycombinator.com/item?id=42712666) - [Show HN: I Built a Fair Alternative to Product Hunt for Indie Makers Like You](https://news.ycombinator.com/item?id=42712666)
