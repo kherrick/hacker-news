@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-15](index.md)
 
+* [2025-01-15, 08:47:38](https://news.ycombinator.com/item?id=42708773) - [Generate audiobooks from E-books with Kokoro-82M](https://claudio.uk/posts/epub-to-audiobook.html)
 * [2025-01-15, 07:26:50](https://news.ycombinator.com/item?id=42708295) - [Mark Zuckerberg Was Right to Fire Facebook's Rogue Fact-Checkers](https://reason.com/2025/01/07/mark-zuckerberg-meta-facebook-fact-checkers-censorship/)
 * [2025-01-15, 05:22:12](https://news.ycombinator.com/item?id=42707606) - [I failed moving my Google calendar to Proton](https://shilin.ca/i-tried-moving-my-google-calendar-to-proton-and-failed/)
 * [2025-01-15, 05:15:24](https://news.ycombinator.com/item?id=42707573) - [Nevada Court Shuts Down Police Use of Federal Loophole for Civil Forfeiture](https://ij.org/press-release/nevada-court-shuts-down-police-use-of-federal-loophole-for-civil-forfeiture/)

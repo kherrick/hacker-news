@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-15, 05:22:12](https://news.ycombinator.com/item?id=42707606) - [I failed moving my Google calendar to Proton](https://shilin.ca/i-tried-moving-my-google-calendar-to-proton-and-failed/)
+* [2025-01-15, 08:47:38](https://news.ycombinator.com/item?id=42708773) - [Generate audiobooks from E-books with Kokoro-82M](https://claudio.uk/posts/epub-to-audiobook.html)
 * [2025-01-15, 05:15:24](https://news.ycombinator.com/item?id=42707573) - [Nevada Court Shuts Down Police Use of Federal Loophole for Civil Forfeiture](https://ij.org/press-release/nevada-court-shuts-down-police-use-of-federal-loophole-for-civil-forfeiture/)
 * [2025-01-15, 00:37:35](https://news.ycombinator.com/item?id=42705935) - [Transformer^2: Self-Adaptive LLMs](https://sakana.ai/transformer-squared/)
 * [2025-01-14, 22:57:19](https://news.ycombinator.com/item?id=42705077) - [Rewriting my website in plain HTML and CSS](https://www.vijayp.dev/blog/rewrite-plain-html/)
