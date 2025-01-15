@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-11](index.md)
 
+* [2025-01-11, 23:43:33](https://news.ycombinator.com/item?id=42669906) - [Why the Weak Nuclear Force Is Short Range](https://profmattstrassler.com/articles-and-posts/particle-physics-basics/the-astonishing-standard-model/why-the-weak-nuclear-force-is-short-range/)
 * [2025-01-11, 23:35:47](https://news.ycombinator.com/item?id=42669856) - ['So immoral': gig economy workers forced to pay fee to receive their wages](https://www.theguardian.com/business/2025/jan/11/so-immoral-gig-economy-workers-forced-to-pay-fee-to-receive-their-wages)
 * [2025-01-11, 23:20:10](https://news.ycombinator.com/item?id=42669754) - [Stop Trying to Schedule a Call with Me](https://matduggan.com/stop-trying-to-schedule-a-call-with-me/)
 * [2025-01-11, 23:03:56](https://news.ycombinator.com/item?id=42669681) - [What it's like working for American companies as an Australian](https://www.seangoedecke.com/working-for-americans/)
