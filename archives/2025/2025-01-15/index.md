@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-15](index.md)
 
+* [2025-01-15, 21:01:46](https://news.ycombinator.com/item?id=42716926) - [The Trouble with Elon](https://samharris.substack.com/p/the-trouble-with-elon)
 * [2025-01-15, 21:00:41](https://news.ycombinator.com/item?id=42716903) - [Empirical Health is hiring interns to build data-driven primary care](https://www.ycombinator.com/companies/empirical-health/jobs/BQlfWbt-software-engineer-intern-summer-2025)
 * [2025-01-15, 20:30:30](https://news.ycombinator.com/item?id=42716487) - [SHOW HN: I made a tool to save multimedia from various platforms](https://www.saveplays.com/)
 * [2025-01-15, 20:26:07](https://news.ycombinator.com/item?id=42716428) - [UnitedHealth overcharged cancer patients for drugs by over 1,000%](https://fortune.com/2025/01/15/ftc-pbms-unitedhealth-brian-thompson-cvs-caremark-cigna-pharmacy-benefit-managers/)

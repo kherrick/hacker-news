@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-15, 21:01:46](https://news.ycombinator.com/item?id=42716926) - [The Trouble with Elon](https://samharris.substack.com/p/the-trouble-with-elon)
 * [2025-01-15, 21:00:41](https://news.ycombinator.com/item?id=42716903) - [Empirical Health is hiring interns to build data-driven primary care](https://www.ycombinator.com/companies/empirical-health/jobs/BQlfWbt-software-engineer-intern-summer-2025)
 * [2025-01-15, 20:30:30](https://news.ycombinator.com/item?id=42716487) - [Show HN: I made a tool to save multimedia from various platforms](https://www.saveplays.com/)
 * [2025-01-15, 20:26:07](https://news.ycombinator.com/item?id=42716428) - [UnitedHealth overcharged cancer patients for drugs by over 1,000%](https://fortune.com/2025/01/15/ftc-pbms-unitedhealth-brian-thompson-cvs-caremark-cigna-pharmacy-benefit-managers/)
@@ -15,7 +16,6 @@
 * [2025-01-15, 16:09:07](https://news.ycombinator.com/item?id=42712666) - [Show HN: I Built a Fair Alternative to Product Hunt for Indie Makers Like You](https://news.ycombinator.com/item?id=42712666)
 * [2025-01-15, 15:55:13](https://news.ycombinator.com/item?id=42712433) - [Why does Cloudflare Pages have such a generous free tier?](https://mattsayar.com/why-does-cloudflare-pages-have-such-a-generous-free-tier/)
 * [2025-01-15, 15:27:55](https://news.ycombinator.com/item?id=42711966) - [Ropey – A UTF8 text rope for manipulating and editing large texts. in Rust](https://github.com/cessen/ropey)
-* [2025-01-15, 15:13:06](https://news.ycombinator.com/item?id=42711727) - [Build a Database in Four Months with Rust and 647 Open-Source Dependencies](https://tisonkun.io/posts/oss-twin)
 * [2025-01-15, 14:49:28](https://news.ycombinator.com/item?id=42711387) - [Modern JavaScript for Django Developers](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/)
 * [2025-01-15, 09:43:03](https://news.ycombinator.com/item?id=42709105) - [Sky-scanning complete for Gaia](https://www.esa.int/ESA_Multimedia/Images/2025/01/Sky-scanning_complete_for_Gaia)
 * [2025-01-15, 08:47:38](https://news.ycombinator.com/item?id=42708773) - [Generate audiobooks from E-books with Kokoro-82M](https://claudio.uk/posts/epub-to-audiobook.html)
