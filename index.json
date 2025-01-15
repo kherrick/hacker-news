@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-15, 21:01:46",
+      "https://news.ycombinator.com/item?id=42716926"
+    ],
+    [
+      "The Trouble with Elon",
+      "https://samharris.substack.com/p/the-trouble-with-elon"
+    ]
+  ],
+  [
+    [
       "2025-01-15, 21:00:41",
       "https://news.ycombinator.com/item?id=42716903"
     ],
@@ -147,16 +157,6 @@
     [
       "Ropey – A UTF8 text rope for manipulating and editing large texts. in Rust",
       "https://github.com/cessen/ropey"
-    ]
-  ],
-  [
-    [
-      "2025-01-15, 15:13:06",
-      "https://news.ycombinator.com/item?id=42711727"
-    ],
-    [
-      "Build a Database in Four Months with Rust and 647 Open-Source Dependencies",
-      "https://tisonkun.io/posts/oss-twin"
     ]
   ],
   [
