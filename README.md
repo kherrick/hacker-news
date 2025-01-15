@@ -24,12 +24,12 @@
 * [2025-01-13, 11:02:32](https://news.ycombinator.com/item?id=42682203) - [Code reviews: A success story](https://blogsystem5.substack.com/p/code-reviews-a-success-story)
 * [2025-01-13, 04:10:21](https://news.ycombinator.com/item?id=42680002) - [Sutton Hoo and Syria: Anglo-Saxons who served in the Byzantine army?](https://academic.oup.com/ehr/advance-article/doi/10.1093/ehr/ceae213/7941799)
 * [2025-01-13, 01:53:18](https://news.ycombinator.com/item?id=42679191) - [Lambda Calculus in 383 Bytes (2022)](https://justine.lol/lambda/)
+* [2025-01-12, 16:21:50](https://news.ycombinator.com/item?id=42674635) - [The history of sex toys and what they tell us about ancient women](https://www.rte.ie/lifestyle/living/2025/0110/1489456-the-history-of-sex-toys-and-what-they-tell-us-about-ancient-women/)
 * [2025-01-12, 14:05:22](https://news.ycombinator.com/item?id=42673617) - [(Right-Nulled) Generalised LR Parsing](https://blog.jeffsmits.net/generalised-lr-parsing/)
 * [2025-01-12, 12:41:49](https://news.ycombinator.com/item?id=42673171) - [Imaging mounted disk volumes under duress (2021)](https://blog.benjojo.co.uk/post/imaging-mounted-disk-volumes-live)
 * [2025-01-11, 23:43:33](https://news.ycombinator.com/item?id=42669906) - [Why the weak nuclear force is short range](https://profmattstrassler.com/articles-and-posts/particle-physics-basics/the-astonishing-standard-model/why-the-weak-nuclear-force-is-short-range/)
 * [2025-01-11, 22:25:37](https://news.ycombinator.com/item?id=42669431) - [Arnold's Cat (2018)](http://gerdbreitenbach.de/arnold_cat/cat.html)
 * [2025-01-11, 16:35:00](https://news.ycombinator.com/item?id=42666959) - [Homomorphic encryption in iOS 18](https://boehs.org/node/homomorphic-encryption)
-* [2025-01-11, 15:45:51](https://news.ycombinator.com/item?id=42666594) - [TSMC begins producing 4-nanometer chips in Arizona](https://www.reuters.com/technology/tsmc-begins-producing-4-nanometer-chips-arizona-raimondo-says-2025-01-10/)
 
 ## [Archives](archives/index.md)
 

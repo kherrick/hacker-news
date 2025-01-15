@@ -39,6 +39,7 @@
 * [2025-01-12, 16:56:57](https://news.ycombinator.com/item?id=42674888) - [I will never need to buy a new computer again](https://82mhz.net/posts/2025/01/i-will-never-need-to-buy-a-new-computer-again/)
 * [2025-01-12, 16:56:16](https://news.ycombinator.com/item?id=42674882) - [Ripping Sega System 16 Sprites and Palettes: Brief Guide (2021)](http://reassembler.blogspot.com/)
 * [2025-01-12, 16:45:10](https://news.ycombinator.com/item?id=42674801) - [A well designed ski jump](https://www.dezeen.com/2025/01/08/bergisel-ski-jump-zaha-hadid-21st-century-architecture/)
+* [2025-01-12, 16:21:50](https://news.ycombinator.com/item?id=42674635) - [The history of sex toys and what they tell us about ancient women](https://www.rte.ie/lifestyle/living/2025/0110/1489456-the-history-of-sex-toys-and-what-they-tell-us-about-ancient-women/)
 * [2025-01-12, 16:20:42](https://news.ycombinator.com/item?id=42674627) - [Show HN: SemHash – Fast Semantic Text Deduplication for Cleaner Datasets](https://github.com/MinishLab/semhash)
 * [2025-01-12, 16:01:00](https://news.ycombinator.com/item?id=42674455) - [Backdooring Your Backdoors – Another $20 Domain, More Governments](https://labs.watchtowr.com/more-governments-backdoors-in-your-backdoors/)
 * [2025-01-12, 15:59:04](https://news.ycombinator.com/item?id=42674440) - [Inconvenient truths about the fires burning in Los Angeles from two fire experts](https://www.latimes.com/california/story/2025-01-11/fire-experts-asses-los-angeles-blazes-amid-changing-times)
