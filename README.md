@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-15, 16:16:58](https://news.ycombinator.com/item?id=42712807) - [Microsoft won't support Office apps on Windows 10 after October 14th](https://www.theverge.com/2025/1/15/24344209/microsoft-365-office-apps-windows-10-end-of-support)
 * [2025-01-15, 16:09:44](https://news.ycombinator.com/item?id=42712675) - [Enterprises in for a shock when they realize power and cooling demands of AI](https://www.theregister.com/2025/01/15/ai_power_cooling_demands/)
 * [2025-01-15, 16:09:37](https://news.ycombinator.com/item?id=42712673) - [AI Brad Pitt dupes French woman out of €830k](https://www.bbc.co.uk/news/articles/ckgnz8rw1xgo)
 * [2025-01-15, 15:55:13](https://news.ycombinator.com/item?id=42712433) - [Why does Cloudflare Pages have such a generous Free tier?](https://mattsayar.com/why-does-cloudflare-pages-have-such-a-generous-free-tier/)
@@ -9,7 +10,6 @@
 * [2025-01-15, 15:13:06](https://news.ycombinator.com/item?id=42711727) - [Build a Database in Four Months with Rust and 647 Open-Source Dependencies](https://tisonkun.io/posts/oss-twin)
 * [2025-01-15, 15:01:15](https://news.ycombinator.com/item?id=42711556) - [US Will Ban Cancer-Linked Red Dye No. 3 in Cereal and Other Foods](https://www.bloomberg.com/news/articles/2025-01-15/us-fda-to-ban-red-dye-no-3-rfk-went-after-due-to-cancer-link)
 * [2025-01-15, 14:49:28](https://news.ycombinator.com/item?id=42711387) - [Modern JavaScript for Django Developers](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/)
-* [2025-01-15, 13:53:56](https://news.ycombinator.com/item?id=42710750) - [Scientists Discover New Molecule That Boosts Fat Metabolism Naturally](https://scitechdaily.com/scientists-discover-new-molecule-that-boosts-fat-metabolism-naturally/)
 * [2025-01-15, 13:42:45](https://news.ycombinator.com/item?id=42710622) - [Maintaining and sustaining soil health](https://worldsensorium.com/talk-dirty-to-me-summary/)
 * [2025-01-15, 12:57:31](https://news.ycombinator.com/item?id=42710339) - [TikTok preparing for U.S. shut-off on Sunday](https://www.reuters.com/technology/tiktok-preparing-us-shut-off-sunday-information-reports-2025-01-15/)
 * [2025-01-15, 09:43:03](https://news.ycombinator.com/item?id=42709105) - [Sky-scanning complete for Gaia](https://www.esa.int/ESA_Multimedia/Images/2025/01/Sky-scanning_complete_for_Gaia)
@@ -25,9 +25,9 @@
 * [2025-01-13, 01:53:18](https://news.ycombinator.com/item?id=42679191) - [Lambda Calculus in 383 Bytes (2022)](https://justine.lol/lambda/)
 * [2025-01-12, 21:33:23](https://news.ycombinator.com/item?id=42677158) - [Life on a Closed Timelike Curve](https://iopscience.iop.org/article/10.1088/1361-6382/ad98df#cqgad98dff1)
 * [2025-01-12, 14:05:22](https://news.ycombinator.com/item?id=42673617) - [(Right-Nulled) Generalised LR Parsing](https://blog.jeffsmits.net/generalised-lr-parsing/)
-* [2025-01-12, 13:05:41](https://news.ycombinator.com/item?id=42673273) - [Show HN: Pyper – Concurrent Python Made Simple](https://github.com/pyper-dev/pyper)
 * [2025-01-12, 09:39:50](https://news.ycombinator.com/item?id=42672366) - [Das Blinkenlights](https://rodyne.com/?p=1674)
 * [2025-01-11, 23:43:33](https://news.ycombinator.com/item?id=42669906) - [Why the weak nuclear force is short range](https://profmattstrassler.com/articles-and-posts/particle-physics-basics/the-astonishing-standard-model/why-the-weak-nuclear-force-is-short-range/)
+* [2025-01-11, 16:50:49](https://news.ycombinator.com/item?id=42667080) - [KEON is a human-readable serde format that syntactic similar to Rust](https://github.com/eternal-io/keon)
 * [2025-01-11, 16:35:00](https://news.ycombinator.com/item?id=42666959) - [Homomorphic encryption in iOS 18](https://boehs.org/node/homomorphic-encryption)
 * [2025-01-11, 15:45:51](https://news.ycombinator.com/item?id=42666594) - [TSMC begins producing 4-nanometer chips in Arizona](https://www.reuters.com/technology/tsmc-begins-producing-4-nanometer-chips-arizona-raimondo-says-2025-01-10/)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-15](index.md)
 
+* [2025-01-15, 16:16:58](https://news.ycombinator.com/item?id=42712807) - [Microsoft won't support Office apps on Windows 10 after October 14th](https://www.theverge.com/2025/1/15/24344209/microsoft-365-office-apps-windows-10-end-of-support)
 * [2025-01-15, 16:09:44](https://news.ycombinator.com/item?id=42712675) - [Enterprises in for a shock when they realize power and cooling demands of AI](https://www.theregister.com/2025/01/15/ai_power_cooling_demands/)
 * [2025-01-15, 16:09:37](https://news.ycombinator.com/item?id=42712673) - [AI Brad Pitt dupes French woman out of €830k](https://www.bbc.co.uk/news/articles/ckgnz8rw1xgo)
 * [2025-01-15, 15:55:13](https://news.ycombinator.com/item?id=42712433) - [Why does Cloudflare Pages have such a generous Free tier?](https://mattsayar.com/why-does-cloudflare-pages-have-such-a-generous-free-tier/)
