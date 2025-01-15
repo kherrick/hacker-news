@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-01-15](index.md)
+
+* [2025-01-15, 01:58:24](https://news.ycombinator.com/item?id=42706455) - [South Korea's impeached President Yoon Suk Yeol arrested, local media reports](https://www.cnbc.com/2025/01/15/south-korean-president-yoon-suk-yeol-detained-local-media-reports-.html)
