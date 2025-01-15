@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2025-01-15, 15:14:33",
-      "https://news.ycombinator.com/item?id=42711751"
-    ],
-    [
-      "Norepinephrine-mediated slow vasomotion drives glymphatic clearance during sleep",
-      "https://www.cell.com/cell/abstract/S0092-8674(24)01343-6"
-    ]
-  ],
-  [
-    [
       "2025-01-15, 15:13:06",
       "https://news.ycombinator.com/item?id=42711727"
     ],
@@ -127,6 +117,16 @@
     [
       "Nevada Court Shuts Down Police Use of Federal Loophole for Civil Forfeiture",
       "https://ij.org/press-release/nevada-court-shuts-down-police-use-of-federal-loophole-for-civil-forfeiture/"
+    ]
+  ],
+  [
+    [
+      "2025-01-15, 02:45:54",
+      "https://news.ycombinator.com/item?id=42706732"
+    ],
+    [
+      "Rsync vulnerabilities",
+      "https://www.openwall.com/lists/oss-security/2025/01/14/3"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2025-01-13, 17:42:00",
+      "https://news.ycombinator.com/item?id=42686144"
+    ],
+    [
+      "Cosmos Keyboard: Scan your hand, build a keyboard",
+      "https://ryanis.cool/cosmos/"
+    ]
+  ],
+  [
+    [
       "2025-01-13, 01:53:18",
       "https://news.ycombinator.com/item?id=42679191"
     ],
@@ -237,16 +247,6 @@
     [
       "(Right-Nulled) Generalised LR Parsing",
       "https://blog.jeffsmits.net/generalised-lr-parsing/"
-    ]
-  ],
-  [
-    [
-      "2025-01-12, 13:05:41",
-      "https://news.ycombinator.com/item?id=42673273"
-    ],
-    [
-      "Show HN: Pyper – Concurrent Python Made Simple",
-      "https://github.com/pyper-dev/pyper"
     ]
   ],
   [
