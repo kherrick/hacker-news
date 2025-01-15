@@ -44,6 +44,7 @@
 * [2025-01-12, 15:53:02](https://news.ycombinator.com/item?id=42674385) - [Mac Mini G4 – The best « classic » Macintosh for retro-gaming?](https://www.xtof.info/MacMiniG4-the-best-classic-macintosh-for-retrogaming.html)
 * [2025-01-12, 15:17:45](https://news.ycombinator.com/item?id=42674153) - [I spent 18 years in the Linux console and I don't regret it](https://eugene-andrienko.com/en/it/2024/01/02/life-in-console)
 * [2025-01-12, 15:13:14](https://news.ycombinator.com/item?id=42674116) - [Bad Apple but it's 6,500 regexes that I search for in Vim](https://eieio.games/blog/bad-apple-with-regex-in-vim/)
+* [2025-01-12, 15:00:11](https://news.ycombinator.com/item?id=42674003) - [Free Music Archive](https://freemusicarchive.org/home)
 * [2025-01-12, 14:36:00](https://news.ycombinator.com/item?id=42673815) - [Stories from the Internet](https://dbrgn.ch/stories-from-the-internet.html)
 * [2025-01-12, 14:32:14](https://news.ycombinator.com/item?id=42673790) - [Show HN: A daily digest for reMarkable](https://digest.ferrucc.io/)
 * [2025-01-12, 14:26:38](https://news.ycombinator.com/item?id=42673762) - [US Supreme Court curbed public scrutiny as it boosted security before Roe ruling](https://www.theguardian.com/us-news/2025/jan/12/us-supreme-court-roe)
