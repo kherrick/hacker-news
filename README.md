@@ -2,9 +2,9 @@
 
 * [2025-01-15, 21:23:55](https://news.ycombinator.com/item?id=42717234) - [I have made the decision to disband Hindenburg Research](https://hindenburgresearch.com/gratitude/)
 * [2025-01-15, 21:19:15](https://news.ycombinator.com/item?id=42717165) - [100x defect tolerance: How we solved the yield problem](https://cerebras.ai/blog/100x-defect-tolerance-how-cerebras-solved-the-yield-problem)
-* [2025-01-15, 21:17:53](https://news.ycombinator.com/item?id=42717149) - [Ludum Dare 2025 is cancelled](https://ludumdare.com/news/taking-a-break/)
 * [2025-01-15, 21:00:41](https://news.ycombinator.com/item?id=42716903) - [Empirical Health (YC S23) is hiring interns to build data-driven primary care](https://www.ycombinator.com/companies/empirical-health/jobs/BQlfWbt-software-engineer-intern-summer-2025)
 * [2025-01-15, 20:30:30](https://news.ycombinator.com/item?id=42716487) - [Show HN: I made a tool to save multimedia from various platforms](https://www.saveplays.com/)
+* [2025-01-15, 20:26:49](https://news.ycombinator.com/item?id=42716440) - [Israel, Hamas reach ceasefire deal to end 15 months of war in Gaza](https://www.reuters.com/world/middle-east/gaza-ceasefire-appears-close-us-egyptian-leaders-put-focus-coming-hours-2025-01-14/)
 * [2025-01-15, 20:20:12](https://news.ycombinator.com/item?id=42716356) - [Scheduled tasks in ChatGPT](https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt)
 * [2025-01-15, 20:06:14](https://news.ycombinator.com/item?id=42716200) - [Train faster static embedding models with sentence transformers](https://huggingface.co/blog/static-embeddings)
 * [2025-01-15, 19:58:16](https://news.ycombinator.com/item?id=42716104) - [Natrium 'advanced nuclear' power plant wins Wyoming permit](https://wyofile.com/natrium-advanced-nuclear-power-plant-wins-wyoming-permit/)
