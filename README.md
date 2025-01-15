@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-15, 07:26:50](https://news.ycombinator.com/item?id=42708295) - [Mark Zuckerberg Was Right to Fire Facebook's Rogue Fact-Checkers](https://reason.com/2025/01/07/mark-zuckerberg-meta-facebook-fact-checkers-censorship/)
 * [2025-01-15, 05:22:12](https://news.ycombinator.com/item?id=42707606) - [I failed moving my Google calendar to Proton](https://shilin.ca/i-tried-moving-my-google-calendar-to-proton-and-failed/)
 * [2025-01-15, 05:15:24](https://news.ycombinator.com/item?id=42707573) - [Nevada Court Shuts Down Police Use of Federal Loophole for Civil Forfeiture](https://ij.org/press-release/nevada-court-shuts-down-police-use-of-federal-loophole-for-civil-forfeiture/)
 * [2025-01-15, 00:37:35](https://news.ycombinator.com/item?id=42705935) - [Transformer^2: Self-Adaptive LLMs](https://sakana.ai/transformer-squared/)
@@ -29,6 +28,7 @@
 * [2025-01-12, 09:39:50](https://news.ycombinator.com/item?id=42672366) - [Das Blinkenlights](https://rodyne.com/?p=1674)
 * [2025-01-12, 08:04:57](https://news.ycombinator.com/item?id=42672015) - [Virtual Vette – Racing Simulator Built from Wrecked Corvette](https://www.instructables.com/Virtual-Vette-Racing-Simulator-Built-From-Wrecked-/)
 * [2025-01-11, 16:35:00](https://news.ycombinator.com/item?id=42666959) - [Homomorphic Encryption in iOS 18](https://boehs.org/node/homomorphic-encryption)
+* [2025-01-11, 16:19:56](https://news.ycombinator.com/item?id=42666851) - [Nix – Death by a Thousand Cuts](https://www.dgt.is/blog/2025-01-10-nix-death-by-a-thousand-cuts/)
 * [2025-01-10, 21:42:54](https://news.ycombinator.com/item?id=42660606) - [Reversible computing escapes the lab](https://spectrum.ieee.org/reversible-computing)
 
 ## [Archives](archives/index.md)
