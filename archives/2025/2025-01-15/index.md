@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-01-15](index.md)
 
+* [2025-01-15, 15:14:33](https://news.ycombinator.com/item?id=42711751) - [Norepinephrine-mediated slow vasomotion drives glymphatic clearance during sleep](https://www.cell.com/cell/abstract/S0092-8674(24)01343-6)
+* [2025-01-15, 15:01:15](https://news.ycombinator.com/item?id=42711556) - [US Will Ban Cancer-Linked Red Dye No. 3 in Cereal and Other Foods](https://www.bloomberg.com/news/articles/2025-01-15/us-fda-to-ban-red-dye-no-3-rfk-went-after-due-to-cancer-link)
 * [2025-01-15, 14:15:17](https://news.ycombinator.com/item?id=42710978) - [Google is making AI in Gmail and Docs free – but raising the price of Workspace](https://www.theverge.com/2025/1/15/24343794/google-workspace-ai-features-free)
+* [2025-01-15, 13:53:56](https://news.ycombinator.com/item?id=42710750) - [Scientists Discover New Molecule That Boosts Fat Metabolism Naturally](https://scitechdaily.com/scientists-discover-new-molecule-that-boosts-fat-metabolism-naturally/)
 * [2025-01-15, 13:42:45](https://news.ycombinator.com/item?id=42710622) - [Talk Dirty to Me](https://worldsensorium.com/talk-dirty-to-me-summary/)
 * [2025-01-15, 13:23:30](https://news.ycombinator.com/item?id=42710496) - [Shove your office mandates, people still prefer working from home](https://www.theregister.com/2025/01/15/shove_your_mandates_people_still/)
 * [2025-01-15, 12:57:31](https://news.ycombinator.com/item?id=42710339) - [TikTok preparing for U.S. shut-off on Sunday](https://www.reuters.com/technology/tiktok-preparing-us-shut-off-sunday-information-reports-2025-01-15/)

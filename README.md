@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-15, 15:14:33](https://news.ycombinator.com/item?id=42711751) - [Norepinephrine-mediated slow vasomotion drives glymphatic clearance during sleep](https://www.cell.com/cell/abstract/S0092-8674(24)01343-6)
+* [2025-01-15, 15:01:15](https://news.ycombinator.com/item?id=42711556) - [US Will Ban Cancer-Linked Red Dye No. 3 in Cereal and Other Foods](https://www.bloomberg.com/news/articles/2025-01-15/us-fda-to-ban-red-dye-no-3-rfk-went-after-due-to-cancer-link)
 * [2025-01-15, 14:15:17](https://news.ycombinator.com/item?id=42710978) - [Google is making AI in Gmail and Docs free – but raising the price of Workspace](https://www.theverge.com/2025/1/15/24343794/google-workspace-ai-features-free)
+* [2025-01-15, 13:53:56](https://news.ycombinator.com/item?id=42710750) - [Scientists Discover New Molecule That Boosts Fat Metabolism Naturally](https://scitechdaily.com/scientists-discover-new-molecule-that-boosts-fat-metabolism-naturally/)
 * [2025-01-15, 13:42:45](https://news.ycombinator.com/item?id=42710622) - [Maintaining and sustaining soil health](https://worldsensorium.com/talk-dirty-to-me-summary/)
 * [2025-01-15, 12:57:31](https://news.ycombinator.com/item?id=42710339) - [TikTok preparing for U.S. shut-off on Sunday](https://www.reuters.com/technology/tiktok-preparing-us-shut-off-sunday-information-reports-2025-01-15/)
 * [2025-01-15, 09:43:03](https://news.ycombinator.com/item?id=42709105) - [Sky-scanning complete for Gaia](https://www.esa.int/ESA_Multimedia/Images/2025/01/Sky-scanning_complete_for_Gaia)
@@ -14,7 +17,6 @@
 * [2025-01-14, 17:54:51](https://news.ycombinator.com/item?id=42700997) - [Home Loss File System](https://docs.google.com/spreadsheets/d/1TPeJzW5pa-BiJZjuEa1yGSFs7ZJetbnxf2gjMvv4tkc/edit?usp=sharing)
 * [2025-01-14, 15:51:33](https://news.ycombinator.com/item?id=42698737) - [Why is homeschooling becoming fashionable?](https://newsletter.goodtechthings.com/p/why-are-tech-people-suddenly-so-into)
 * [2025-01-14, 14:17:52](https://news.ycombinator.com/item?id=42697467) - [Take the pedals off the bike](https://www.fortressofdoors.com/take-the-pedals-off-the-bike/)
-* [2025-01-14, 14:06:41](https://news.ycombinator.com/item?id=42697346) - [Show HN: A blocklist to remove spam and bad websites from search results](https://github.com/popcar2/BadWebsiteBlocklist)
 * [2025-01-14, 14:05:40](https://news.ycombinator.com/item?id=42697335) - [Servo vs. steppers: Speed, Torque and Accuracy [video]](https://www.youtube.com/watch?v=H-nO1F-AO9I)
 * [2025-01-14, 09:58:15](https://news.ycombinator.com/item?id=42695547) - [FFmpeg by Example](https://ffmpegbyexample.com/)
 * [2025-01-14, 08:28:06](https://news.ycombinator.com/item?id=42695005) - [Personalized voice recordings by Elwood \"You've got mail!\" Edwards](https://blog.jgc.org/2024/11/personalized-voice-recordings-by-elwood.html)
@@ -24,12 +26,10 @@
 * [2025-01-12, 19:42:38](https://news.ycombinator.com/item?id=42676245) - [Customasm – An assembler for custom, user-defined instruction sets](https://github.com/hlorenzi/customasm)
 * [2025-01-12, 13:33:39](https://news.ycombinator.com/item?id=42673415) - [Getting an all-optical AI to handle non-linear math](https://arstechnica.com/science/2025/01/getting-an-all-optical-ai-to-handle-non-linear-math/)
 * [2025-01-12, 13:05:41](https://news.ycombinator.com/item?id=42673273) - [Show HN: Pyper – Concurrent Python Made Simple](https://github.com/pyper-dev/pyper)
-* [2025-01-12, 11:12:29](https://news.ycombinator.com/item?id=42672724) - [Distributed Transactions at Scale in Amazon DynamoDB (2023)](http://muratbuffalo.blogspot.com/2023/08/distributed-transactions-at-scale-in.html)
 * [2025-01-12, 09:39:50](https://news.ycombinator.com/item?id=42672366) - [Das Blinkenlights](https://rodyne.com/?p=1674)
 * [2025-01-11, 23:43:33](https://news.ycombinator.com/item?id=42669906) - [Why the weak nuclear force is short range](https://profmattstrassler.com/articles-and-posts/particle-physics-basics/the-astonishing-standard-model/why-the-weak-nuclear-force-is-short-range/)
 * [2025-01-11, 16:35:00](https://news.ycombinator.com/item?id=42666959) - [Homomorphic encryption in iOS 18](https://boehs.org/node/homomorphic-encryption)
 * [2025-01-11, 15:45:51](https://news.ycombinator.com/item?id=42666594) - [TSMC begins producing 4-nanometer chips in Arizona](https://www.reuters.com/technology/tsmc-begins-producing-4-nanometer-chips-arizona-raimondo-says-2025-01-10/)
-* [2025-01-10, 21:42:54](https://news.ycombinator.com/item?id=42660606) - [Reversible computing escapes the lab](https://spectrum.ieee.org/reversible-computing)
 
 ## [Archives](archives/index.md)
 
