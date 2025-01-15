@@ -66,6 +66,7 @@
 * [2025-01-12, 10:43:06](https://news.ycombinator.com/item?id=42672605) - [All-Band Receiver Lets You Listen to All the Radio at Once](https://hackaday.com/2025/01/09/all-band-receiver-lets-you-listen-to-all-the-radio-at-once/)
 * [2025-01-12, 10:39:42](https://news.ycombinator.com/item?id=42672592) - [Great CPAN modules released last week](https://niceperl.blogspot.com/2025/01/dxxx-20-great-cpan-modules-released.html)
 * [2025-01-12, 10:07:43](https://news.ycombinator.com/item?id=42672477) - [Asking rents skyrocket as LA fires destroy homes](https://laist.com/news/housing-homelessness/los-angeles-palisades-fire-housing-rent-price-gouging-law-california-zillow-listing)
+* [2025-01-12, 09:39:50](https://news.ycombinator.com/item?id=42672366) - [Show HN: Blinkenlights. Bling up your server rack like its 1974](https://rodyne.com/?p=1674)
 * [2025-01-12, 09:30:34](https://news.ycombinator.com/item?id=42672339) - [What do you think about using a game engine for UI?](https://news.ycombinator.com/item?id=42672339)
 * [2025-01-12, 09:23:41](https://news.ycombinator.com/item?id=42672304) - [What other communities do you use apart from HN?](https://news.ycombinator.com/item?id=42672304)
 * [2025-01-12, 09:10:35](https://news.ycombinator.com/item?id=42672246) - [What Is Treewidth?](https://www.ams.org/journals/notices/202502/noti3043/noti3043.html)
