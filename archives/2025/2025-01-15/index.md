@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-15](index.md)
 
+* [2025-01-15, 20:20:12](https://news.ycombinator.com/item?id=42716356) - [Scheduled Tasks in ChatGPT](https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt)
 * [2025-01-15, 19:58:16](https://news.ycombinator.com/item?id=42716104) - [Natrium 'advanced nuclear' power plant wins Wyoming permit](https://wyofile.com/natrium-advanced-nuclear-power-plant-wins-wyoming-permit/)
 * [2025-01-15, 19:34:01](https://news.ycombinator.com/item?id=42715841) - [Sweden is investing €104M to bring back printed textbooks](https://indiandefencereview.com/in-2009-sweden-chose-to-replace-books-with-computers-15-years-later-it-allocates-104-million-euros-to-reverse-course/)
 * [2025-01-15, 19:02:35](https://news.ycombinator.com/item?id=42715462) - [Laptop](https://mijndertstuij.nl/posts/the-best-laptop-ever/)

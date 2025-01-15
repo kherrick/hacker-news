@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-15, 20:20:12](https://news.ycombinator.com/item?id=42716356) - [Scheduled Tasks in ChatGPT](https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt)
 * [2025-01-15, 19:58:16](https://news.ycombinator.com/item?id=42716104) - [Natrium 'advanced nuclear' power plant wins Wyoming permit](https://wyofile.com/natrium-advanced-nuclear-power-plant-wins-wyoming-permit/)
 * [2025-01-15, 19:34:01](https://news.ycombinator.com/item?id=42715841) - [Sweden is investing €104M to bring back printed textbooks](https://indiandefencereview.com/in-2009-sweden-chose-to-replace-books-with-computers-15-years-later-it-allocates-104-million-euros-to-reverse-course/)
 * [2025-01-15, 18:12:55](https://news.ycombinator.com/item?id=42714775) - [A Marriage Proposal Spoken in Office Jargon](https://www.mcsweeneys.net/articles/a-marriage-proposal-spoken-entirely-in-office-jargon)
@@ -16,7 +17,6 @@
 * [2025-01-15, 08:47:38](https://news.ycombinator.com/item?id=42708773) - [Generate audiobooks from E-books with Kokoro-82M](https://claudio.uk/posts/epub-to-audiobook.html)
 * [2025-01-15, 05:15:24](https://news.ycombinator.com/item?id=42707573) - [Nevada Court Shuts Down Police Use of Federal Loophole for Civil Forfeiture](https://ij.org/press-release/nevada-court-shuts-down-police-use-of-federal-loophole-for-civil-forfeiture/)
 * [2025-01-15, 02:45:54](https://news.ycombinator.com/item?id=42706732) - [Rsync vulnerabilities](https://www.openwall.com/lists/oss-security/2025/01/14/3)
-* [2025-01-15, 00:37:35](https://news.ycombinator.com/item?id=42705935) - [Transformer^2: Self-Adaptive LLMs](https://sakana.ai/transformer-squared/)
 * [2025-01-14, 20:21:47](https://news.ycombinator.com/item?id=42703282) - [How rqlite is tested](https://philipotoole.com/how-is-rqlite-tested/)
 * [2025-01-14, 17:54:51](https://news.ycombinator.com/item?id=42700997) - [Home Loss File System](https://docs.google.com/spreadsheets/d/1TPeJzW5pa-BiJZjuEa1yGSFs7ZJetbnxf2gjMvv4tkc/edit?usp=sharing)
 * [2025-01-14, 15:51:33](https://news.ycombinator.com/item?id=42698737) - [Why is homeschooling becoming fashionable?](https://newsletter.goodtechthings.com/p/why-are-tech-people-suddenly-so-into)
