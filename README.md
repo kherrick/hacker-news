@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-15, 01:58:24](https://news.ycombinator.com/item?id=42706455) - [South Korea's impeached President Yoon Suk Yeol arrested, local media reports](https://www.cnbc.com/2025/01/15/south-korean-president-yoon-suk-yeol-detained-local-media-reports-.html)
 * [2025-01-14, 23:08:54](https://news.ycombinator.com/item?id=42705180) - [Climbers using xenon gas to climb Everest](https://gripped.com/profiles/climbers-using-xenon-gas-which-is-banned-in-sports-to-climb-everest/)
 * [2025-01-14, 22:57:19](https://news.ycombinator.com/item?id=42705077) - [Rewriting my website in plain HTML and CSS](https://www.vijayp.dev/blog/rewrite-plain-html/)
 * [2025-01-14, 22:25:54](https://news.ycombinator.com/item?id=42704795) - [GPT-4o with scheduled tasks (jawbone) is available in beta](https://chatgpt.com/?model=gpt-4o-jawbone)
@@ -22,6 +21,7 @@
 * [2025-01-14, 10:02:56](https://news.ycombinator.com/item?id=42695580) - [The rise and fall of the English sentence (2017)](https://nautil.us/the-rise-and-fall-of-the-english-sentence-236880/)
 * [2025-01-14, 09:58:15](https://news.ycombinator.com/item?id=42695547) - [FFmpeg by Example](https://ffmpegbyexample.com/)
 * [2025-01-13, 17:42:00](https://news.ycombinator.com/item?id=42686144) - [Cosmos Keyboard: Scan your hand, build a keyboard](https://ryanis.cool/cosmos/)
+* [2025-01-13, 10:23:50](https://news.ycombinator.com/item?id=42681976) - [Mastodon announces new European non-profit, change of CEO](https://blog.joinmastodon.org/2025/01/the-people-should-own-the-town-square/)
 * [2025-01-12, 18:22:07](https://news.ycombinator.com/item?id=42675529) - [The Missing Nvidia GPU Glossary](https://modal.com/gpu-glossary/readme)
 * [2025-01-12, 13:33:39](https://news.ycombinator.com/item?id=42673415) - [Getting an all-optical AI to handle non-linear math](https://arstechnica.com/science/2025/01/getting-an-all-optical-ai-to-handle-non-linear-math/)
 * [2025-01-12, 13:05:41](https://news.ycombinator.com/item?id=42673273) - [Show HN: Pyper – Concurrent Python Made Simple](https://github.com/pyper-dev/pyper)
