@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-01-14, 23:08:54",
+      "https://news.ycombinator.com/item?id=42705180"
+    ],
+    [
+      "Climbers using xenon gas to climb Everest",
+      "https://gripped.com/profiles/climbers-using-xenon-gas-which-is-banned-in-sports-to-climb-everest/"
+    ]
+  ],
+  [
+    [
       "2025-01-14, 22:57:19",
       "https://news.ycombinator.com/item?id=42705077"
     ],
     [
-      "Rewriting my blog in plain HTML",
+      "Rewriting my website in plain HTML and CSS",
       "https://www.vijayp.dev/blog/rewrite-plain-html/"
+    ]
+  ],
+  [
+    [
+      "2025-01-14, 22:25:54",
+      "https://news.ycombinator.com/item?id=42704795"
+    ],
+    [
+      "GPT-4o with scheduled tasks (jawbone) is available in beta",
+      "https://chatgpt.com/?model=gpt-4o-jawbone"
     ]
   ],
   [
@@ -21,22 +41,22 @@
   ],
   [
     [
+      "2025-01-14, 21:30:14",
+      "https://news.ycombinator.com/item?id=42704160"
+    ],
+    [
+      "Show HN: Simplex: Automate browser workflows using code and natural language",
+      "https://www.simplex.sh/playground"
+    ]
+  ],
+  [
+    [
       "2025-01-14, 21:23:21",
       "https://news.ycombinator.com/item?id=42704078"
     ],
     [
       "Don't use cosine similarity carelessly",
       "https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity/"
-    ]
-  ],
-  [
-    [
-      "2025-01-14, 20:31:19",
-      "https://news.ycombinator.com/item?id=42703422"
-    ],
-    [
-      "Proof of location for online polls",
-      "https://ip-vote.com/geolocation_via_latency.html"
     ]
   ],
   [
@@ -81,22 +101,22 @@
   ],
   [
     [
-      "2025-01-14, 16:07:23",
-      "https://news.ycombinator.com/item?id=42698981"
-    ],
-    [
-      "The Shepherd 1.0.0 released",
-      "https://guix.gnu.org/en/blog/2024/the-shepherd-1.0.0-released/"
-    ]
-  ],
-  [
-    [
       "2025-01-14, 15:52:43",
       "https://news.ycombinator.com/item?id=42698753"
     ],
     [
       "Show HN: Value likelihoods for OpenAI structured output",
       "https://arena-ai.github.io/structured-logprobs/"
+    ]
+  ],
+  [
+    [
+      "2025-01-14, 15:51:33",
+      "https://news.ycombinator.com/item?id=42698737"
+    ],
+    [
+      "Why is homeschooling becoming fashionable?",
+      "https://newsletter.goodtechthings.com/p/why-are-tech-people-suddenly-so-into"
     ]
   ],
   [
@@ -121,12 +141,42 @@
   ],
   [
     [
+      "2025-01-14, 14:17:52",
+      "https://news.ycombinator.com/item?id=42697467"
+    ],
+    [
+      "Take the Pedals Off the Bike",
+      "https://www.fortressofdoors.com/take-the-pedals-off-the-bike/"
+    ]
+  ],
+  [
+    [
+      "2025-01-14, 14:06:41",
+      "https://news.ycombinator.com/item?id=42697346"
+    ],
+    [
+      "Show HN: A blocklist to remove spam and bad websites from search results",
+      "https://github.com/popcar2/BadWebsiteBlocklist"
+    ]
+  ],
+  [
+    [
       "2025-01-14, 14:05:40",
       "https://news.ycombinator.com/item?id=42697335"
     ],
     [
       "Servo vs. steppers: Speed, Torque and Accuracy [video]",
       "https://www.youtube.com/watch?v=H-nO1F-AO9I"
+    ]
+  ],
+  [
+    [
+      "2025-01-14, 12:41:46",
+      "https://news.ycombinator.com/item?id=42696517"
+    ],
+    [
+      "Estimates of plant CO2 uptake rise by nearly one third",
+      "https://www.ornl.gov/news/plant-co2-uptake-rises-nearly-one-third-new-global-estimates"
     ]
   ],
   [
@@ -151,42 +201,12 @@
   ],
   [
     [
-      "2025-01-14, 09:08:13",
-      "https://news.ycombinator.com/item?id=42695232"
-    ],
-    [
-      "Data evolution with set-theoretic types",
-      "https://dashbit.co/blog/data-evolution-with-set-theoretic-types"
-    ]
-  ],
-  [
-    [
       "2025-01-13, 17:42:00",
       "https://news.ycombinator.com/item?id=42686144"
     ],
     [
       "Cosmos Keyboard: Scan your hand, build a keyboard",
       "https://ryanis.cool/cosmos/"
-    ]
-  ],
-  [
-    [
-      "2025-01-13, 14:02:39",
-      "https://news.ycombinator.com/item?id=42683494"
-    ],
-    [
-      "Ask HN: How do you prevent the impact of social media on your children?",
-      "https://news.ycombinator.com/item?id=42683494"
-    ]
-  ],
-  [
-    [
-      "2025-01-13, 12:17:43",
-      "https://news.ycombinator.com/item?id=42682660"
-    ],
-    [
-      "The DevOps Engineer's Handbook",
-      "https://octopus.com/devops/"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-01-13, 04:09:24",
-      "https://news.ycombinator.com/item?id=42679998"
-    ],
-    [
-      "Carnarvon's NASA satellite dish receives first signal in almost 40 years",
-      "https://www.abc.net.au/news/2024-12-03/carnarvon-nasa-dish-receives-signal-repairs/104672866"
-    ]
-  ],
-  [
-    [
       "2025-01-12, 18:22:07",
       "https://news.ycombinator.com/item?id=42675529"
     ],
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2025-01-12, 14:36:00",
-      "https://news.ycombinator.com/item?id=42673815"
+      "2025-01-12, 13:33:39",
+      "https://news.ycombinator.com/item?id=42673415"
     ],
     [
-      "Stories from the Internet",
-      "https://dbrgn.ch/stories-from-the-internet.html"
+      "Getting an all-optical AI to handle non-linear math",
+      "https://arstechnica.com/science/2025/01/getting-an-all-optical-ai-to-handle-non-linear-math/"
     ]
   ],
   [
@@ -235,7 +245,7 @@
       "https://news.ycombinator.com/item?id=42672366"
     ],
     [
-      "Show HN: Blinkenlights. Bling up your server rack like its 1974",
+      "Das Blinkenlights",
       "https://rodyne.com/?p=1674"
     ]
   ],
@@ -267,16 +277,6 @@
     [
       "Nix – Death by a Thousand Cuts",
       "https://www.dgt.is/blog/2025-01-10-nix-death-by-a-thousand-cuts/"
-    ]
-  ],
-  [
-    [
-      "2025-01-11, 00:59:13",
-      "https://news.ycombinator.com/item?id=42662265"
-    ],
-    [
-      "A couple CSS tricks for HTML Dialog elements",
-      "https://cassidoo.co/post/css-for-dialogs/"
     ]
   ],
   [
