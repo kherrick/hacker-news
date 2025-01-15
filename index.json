@@ -1,12 +1,52 @@
 [
   [
     [
+      "2025-01-15, 20:30:30",
+      "https://news.ycombinator.com/item?id=42716487"
+    ],
+    [
+      "SHOW HN: I made a tool to save multimedia from various platforms",
+      "https://www.saveplays.com/"
+    ]
+  ],
+  [
+    [
+      "2025-01-15, 20:26:07",
+      "https://news.ycombinator.com/item?id=42716428"
+    ],
+    [
+      "UnitedHealth overcharged cancer patients for drugs by over 1,000%",
+      "https://fortune.com/2025/01/15/ftc-pbms-unitedhealth-brian-thompson-cvs-caremark-cigna-pharmacy-benefit-managers/"
+    ]
+  ],
+  [
+    [
       "2025-01-15, 20:20:12",
       "https://news.ycombinator.com/item?id=42716356"
     ],
     [
       "Scheduled Tasks in ChatGPT",
       "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt"
+    ]
+  ],
+  [
+    [
+      "2025-01-15, 20:06:37",
+      "https://news.ycombinator.com/item?id=42716204"
+    ],
+    [
+      "Google brings real-time information from The Associated Press to Gemini",
+      "https://blog.google/products/news/associated-press-gemini-app/"
+    ]
+  ],
+  [
+    [
+      "2025-01-15, 20:06:14",
+      "https://news.ycombinator.com/item?id=42716200"
+    ],
+    [
+      "400x faster embeddings models using static embeddings",
+      "https://huggingface.co/blog/static-embeddings"
     ]
   ],
   [
@@ -151,52 +191,12 @@
   ],
   [
     [
-      "2025-01-15, 05:15:24",
-      "https://news.ycombinator.com/item?id=42707573"
-    ],
-    [
-      "Nevada Court Shuts Down Police Use of Federal Loophole for Civil Forfeiture",
-      "https://ij.org/press-release/nevada-court-shuts-down-police-use-of-federal-loophole-for-civil-forfeiture/"
-    ]
-  ],
-  [
-    [
-      "2025-01-15, 02:45:54",
-      "https://news.ycombinator.com/item?id=42706732"
-    ],
-    [
-      "Rsync vulnerabilities",
-      "https://www.openwall.com/lists/oss-security/2025/01/14/3"
-    ]
-  ],
-  [
-    [
-      "2025-01-14, 20:21:47",
-      "https://news.ycombinator.com/item?id=42703282"
-    ],
-    [
-      "How rqlite is tested",
-      "https://philipotoole.com/how-is-rqlite-tested/"
-    ]
-  ],
-  [
-    [
       "2025-01-14, 17:54:51",
       "https://news.ycombinator.com/item?id=42700997"
     ],
     [
       "Home Loss File System",
       "https://docs.google.com/spreadsheets/d/1TPeJzW5pa-BiJZjuEa1yGSFs7ZJetbnxf2gjMvv4tkc/edit?usp=sharing"
-    ]
-  ],
-  [
-    [
-      "2025-01-14, 15:51:33",
-      "https://news.ycombinator.com/item?id=42698737"
-    ],
-    [
-      "Why is homeschooling becoming fashionable?",
-      "https://newsletter.goodtechthings.com/p/why-are-tech-people-suddenly-so-into"
     ]
   ],
   [
@@ -217,6 +217,16 @@
     [
       "Personalized voice recordings by Elwood \"You've got mail!\" Edwards",
       "https://blog.jgc.org/2024/11/personalized-voice-recordings-by-elwood.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-13, 11:02:32",
+      "https://news.ycombinator.com/item?id=42682203"
+    ],
+    [
+      "Code Reviews: A Success Story",
+      "https://blogsystem5.substack.com/p/code-reviews-a-success-story"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Imaging mounted disk volumes under duress (2021)",
       "https://blog.benjojo.co.uk/post/imaging-mounted-disk-volumes-live"
-    ]
-  ],
-  [
-    [
-      "2025-01-12, 09:39:50",
-      "https://news.ycombinator.com/item?id=42672366"
-    ],
-    [
-      "Das Blinkenlights",
-      "https://rodyne.com/?p=1674"
     ]
   ],
   [
