@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-15](index.md)
 
+* [2025-01-15, 18:12:55](https://news.ycombinator.com/item?id=42714775) - [A Marriage Proposal Spoken in Office Jargon](https://www.mcsweeneys.net/articles/a-marriage-proposal-spoken-entirely-in-office-jargon)
+* [2025-01-15, 18:12:50](https://news.ycombinator.com/item?id=42714774) - [Banning TikTok Is Unconstitutional. The Supreme Court Must Step In](https://www.aclu.org/news/national-security/banning-tiktok-is-unconstitutional-the-supreme-court-must-step-in)
 * [2025-01-15, 17:54:46](https://news.ycombinator.com/item?id=42714485) - [Lago – Open-Source Usage Based Billing – Is Hiring Technical Account Executives](https://www.ycombinator.com/companies/lago/jobs/gsN3rQG-technical-account-executive)
 * [2025-01-15, 17:52:21](https://news.ycombinator.com/item?id=42714436) - [Qantas South Africa flights delayed by falling debris from SpaceX rockets](https://www.theguardian.com/business/2025/jan/14/qantas-flights-delayed-spacex-falling-debris-sydney-to-johannesburg)
 * [2025-01-15, 16:16:58](https://news.ycombinator.com/item?id=42712807) - [Microsoft won't support Office apps on Windows 10 after October 14th](https://www.theverge.com/2025/1/15/24344209/microsoft-365-office-apps-windows-10-end-of-support)
