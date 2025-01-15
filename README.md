@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-15, 13:42:45](https://news.ycombinator.com/item?id=42710622) - [Talk Dirty to Me](https://worldsensorium.com/talk-dirty-to-me-summary/)
+* [2025-01-15, 13:42:45](https://news.ycombinator.com/item?id=42710622) - [Maintaining and sustaining soil health](https://worldsensorium.com/talk-dirty-to-me-summary/)
+* [2025-01-15, 12:57:31](https://news.ycombinator.com/item?id=42710339) - [TikTok preparing for U.S. shut-off on Sunday](https://www.reuters.com/technology/tiktok-preparing-us-shut-off-sunday-information-reports-2025-01-15/)
 * [2025-01-15, 09:43:03](https://news.ycombinator.com/item?id=42709105) - [Sky-scanning complete for Gaia](https://www.esa.int/ESA_Multimedia/Images/2025/01/Sky-scanning_complete_for_Gaia)
 * [2025-01-15, 08:47:38](https://news.ycombinator.com/item?id=42708773) - [Generate audiobooks from E-books with Kokoro-82M](https://claudio.uk/posts/epub-to-audiobook.html)
 * [2025-01-15, 05:15:24](https://news.ycombinator.com/item?id=42707573) - [Nevada Court Shuts Down Police Use of Federal Loophole for Civil Forfeiture](https://ij.org/press-release/nevada-court-shuts-down-police-use-of-federal-loophole-for-civil-forfeiture/)
@@ -14,7 +15,6 @@
 * [2025-01-14, 14:17:52](https://news.ycombinator.com/item?id=42697467) - [Take the pedals off the bike](https://www.fortressofdoors.com/take-the-pedals-off-the-bike/)
 * [2025-01-14, 14:06:41](https://news.ycombinator.com/item?id=42697346) - [Show HN: A blocklist to remove spam and bad websites from search results](https://github.com/popcar2/BadWebsiteBlocklist)
 * [2025-01-14, 14:05:40](https://news.ycombinator.com/item?id=42697335) - [Servo vs. steppers: Speed, Torque and Accuracy [video]](https://www.youtube.com/watch?v=H-nO1F-AO9I)
-* [2025-01-14, 12:41:46](https://news.ycombinator.com/item?id=42696517) - [Estimates of plant CO2 uptake rise by nearly one third](https://www.ornl.gov/news/plant-co2-uptake-rises-nearly-one-third-new-global-estimates)
 * [2025-01-14, 09:58:15](https://news.ycombinator.com/item?id=42695547) - [FFmpeg by Example](https://ffmpegbyexample.com/)
 * [2025-01-14, 08:28:06](https://news.ycombinator.com/item?id=42695005) - [Personalized voice recordings by Elwood \"You've got mail!\" Edwards](https://blog.jgc.org/2024/11/personalized-voice-recordings-by-elwood.html)
 * [2025-01-13, 17:42:00](https://news.ycombinator.com/item?id=42686144) - [Cosmos Keyboard: Scan your hand, build a keyboard](https://ryanis.cool/cosmos/)
