@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-15, 15:27:55](https://news.ycombinator.com/item?id=42711966) - [Ropey – A UTF8 text rope for manipulating and editing large texts. in Rust](https://github.com/cessen/ropey)
+* [2025-01-15, 15:17:00](https://news.ycombinator.com/item?id=42711781) - [WTF Happened in 1971?](https://wtfhappenedin1971.com/)
 * [2025-01-15, 15:14:33](https://news.ycombinator.com/item?id=42711751) - [Norepinephrine-mediated slow vasomotion drives glymphatic clearance during sleep](https://www.cell.com/cell/abstract/S0092-8674(24)01343-6)
 * [2025-01-15, 15:13:06](https://news.ycombinator.com/item?id=42711727) - [Build a Database in Four Months with Rust and 647 Open-Source Dependencies](https://tisonkun.io/posts/oss-twin)
 * [2025-01-15, 15:01:15](https://news.ycombinator.com/item?id=42711556) - [US Will Ban Cancer-Linked Red Dye No. 3 in Cereal and Other Foods](https://www.bloomberg.com/news/articles/2025-01-15/us-fda-to-ban-red-dye-no-3-rfk-went-after-due-to-cancer-link)
@@ -23,7 +24,6 @@
 * [2025-01-14, 08:28:06](https://news.ycombinator.com/item?id=42695005) - [Personalized voice recordings by Elwood \"You've got mail!\" Edwards](https://blog.jgc.org/2024/11/personalized-voice-recordings-by-elwood.html)
 * [2025-01-13, 01:53:18](https://news.ycombinator.com/item?id=42679191) - [Lambda Calculus in 383 Bytes (2022)](https://justine.lol/lambda/)
 * [2025-01-12, 21:33:23](https://news.ycombinator.com/item?id=42677158) - [Life on a Closed Timelike Curve](https://iopscience.iop.org/article/10.1088/1361-6382/ad98df#cqgad98dff1)
-* [2025-01-12, 19:42:38](https://news.ycombinator.com/item?id=42676245) - [Customasm – An assembler for custom, user-defined instruction sets](https://github.com/hlorenzi/customasm)
 * [2025-01-12, 14:05:22](https://news.ycombinator.com/item?id=42673617) - [(Right-Nulled) Generalised LR Parsing](https://blog.jeffsmits.net/generalised-lr-parsing/)
 * [2025-01-12, 13:05:41](https://news.ycombinator.com/item?id=42673273) - [Show HN: Pyper – Concurrent Python Made Simple](https://github.com/pyper-dev/pyper)
 * [2025-01-12, 09:39:50](https://news.ycombinator.com/item?id=42672366) - [Das Blinkenlights](https://rodyne.com/?p=1674)

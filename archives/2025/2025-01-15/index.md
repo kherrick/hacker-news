@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-15](index.md)
 
 * [2025-01-15, 15:27:55](https://news.ycombinator.com/item?id=42711966) - [Ropey – A UTF8 text rope for manipulating and editing large texts. in Rust](https://github.com/cessen/ropey)
+* [2025-01-15, 15:17:00](https://news.ycombinator.com/item?id=42711781) - [WTF Happened in 1971?](https://wtfhappenedin1971.com/)
 * [2025-01-15, 15:14:33](https://news.ycombinator.com/item?id=42711751) - [Norepinephrine-mediated slow vasomotion drives glymphatic clearance during sleep](https://www.cell.com/cell/abstract/S0092-8674(24)01343-6)
 * [2025-01-15, 15:13:06](https://news.ycombinator.com/item?id=42711727) - [Build a Database in Four Months with Rust and 647 Open-Source Dependencies](https://tisonkun.io/posts/oss-twin)
 * [2025-01-15, 15:01:15](https://news.ycombinator.com/item?id=42711556) - [US Will Ban Cancer-Linked Red Dye No. 3 in Cereal and Other Foods](https://www.bloomberg.com/news/articles/2025-01-15/us-fda-to-ban-red-dye-no-3-rfk-went-after-due-to-cancer-link)
