@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-01-15, 15:14:33",
+      "https://news.ycombinator.com/item?id=42711751"
+    ],
+    [
+      "Norepinephrine-mediated slow vasomotion drives glymphatic clearance during sleep",
+      "https://www.cell.com/cell/abstract/S0092-8674(24)01343-6"
+    ]
+  ],
+  [
+    [
+      "2025-01-15, 15:01:15",
+      "https://news.ycombinator.com/item?id=42711556"
+    ],
+    [
+      "US Will Ban Cancer-Linked Red Dye No. 3 in Cereal and Other Foods",
+      "https://www.bloomberg.com/news/articles/2025-01-15/us-fda-to-ban-red-dye-no-3-rfk-went-after-due-to-cancer-link"
+    ]
+  ],
+  [
+    [
       "2025-01-15, 14:15:17",
       "https://news.ycombinator.com/item?id=42710978"
     ],
     [
       "Google is making AI in Gmail and Docs free – but raising the price of Workspace",
       "https://www.theverge.com/2025/1/15/24343794/google-workspace-ai-features-free"
+    ]
+  ],
+  [
+    [
+      "2025-01-15, 13:53:56",
+      "https://news.ycombinator.com/item?id=42710750"
+    ],
+    [
+      "Scientists Discover New Molecule That Boosts Fat Metabolism Naturally",
+      "https://scitechdaily.com/scientists-discover-new-molecule-that-boosts-fat-metabolism-naturally/"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2025-01-14, 14:06:41",
-      "https://news.ycombinator.com/item?id=42697346"
-    ],
-    [
-      "Show HN: A blocklist to remove spam and bad websites from search results",
-      "https://github.com/popcar2/BadWebsiteBlocklist"
-    ]
-  ],
-  [
-    [
       "2025-01-14, 14:05:40",
       "https://news.ycombinator.com/item?id=42697335"
     ],
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2025-01-12, 11:12:29",
-      "https://news.ycombinator.com/item?id=42672724"
-    ],
-    [
-      "Distributed Transactions at Scale in Amazon DynamoDB (2023)",
-      "http://muratbuffalo.blogspot.com/2023/08/distributed-transactions-at-scale-in.html"
-    ]
-  ],
-  [
-    [
       "2025-01-12, 09:39:50",
       "https://news.ycombinator.com/item?id=42672366"
     ],
@@ -287,16 +297,6 @@
     [
       "TSMC begins producing 4-nanometer chips in Arizona",
       "https://www.reuters.com/technology/tsmc-begins-producing-4-nanometer-chips-arizona-raimondo-says-2025-01-10/"
-    ]
-  ],
-  [
-    [
-      "2025-01-10, 21:42:54",
-      "https://news.ycombinator.com/item?id=42660606"
-    ],
-    [
-      "Reversible computing escapes the lab",
-      "https://spectrum.ieee.org/reversible-computing"
     ]
   ]
 ]
