@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-01-14, 22:25:54",
-      "https://news.ycombinator.com/item?id=42704795"
-    ],
-    [
-      "GPT-4o with scheduled tasks (jawbone) is available in beta",
-      "https://chatgpt.com/?model=gpt-4o-jawbone"
-    ]
-  ],
-  [
-    [
       "2025-01-14, 21:59:12",
       "https://news.ycombinator.com/item?id=42704491"
     ],
@@ -257,6 +247,16 @@
     [
       "Show HN: Pyper – Concurrent Python Made Simple",
       "https://github.com/pyper-dev/pyper"
+    ]
+  ],
+  [
+    [
+      "2025-01-12, 11:12:29",
+      "https://news.ycombinator.com/item?id=42672724"
+    ],
+    [
+      "Distributed Transactions at Scale in Amazon DynamoDB",
+      "http://muratbuffalo.blogspot.com/2023/08/distributed-transactions-at-scale-in.html"
     ]
   ],
   [
