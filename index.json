@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-01-15, 21:19:15",
+      "https://news.ycombinator.com/item?id=42717165"
+    ],
+    [
+      "100x Defect Tolerance: How Cerebras Solved the Yield Problem",
+      "https://cerebras.ai/blog/100x-defect-tolerance-how-cerebras-solved-the-yield-problem"
+    ]
+  ],
+  [
+    [
       "2025-01-15, 21:00:41",
       "https://news.ycombinator.com/item?id=42716903"
     ],
     [
-      "Empirical Health is hiring interns to build data-driven primary care",
+      "Empirical Health (YC S23) is hiring interns to build data-driven primary care",
       "https://www.ycombinator.com/companies/empirical-health/jobs/BQlfWbt-software-engineer-intern-summer-2025"
     ]
   ],
@@ -21,22 +31,22 @@
   ],
   [
     [
-      "2025-01-15, 20:20:12",
-      "https://news.ycombinator.com/item?id=42716356"
+      "2025-01-15, 20:26:49",
+      "https://news.ycombinator.com/item?id=42716440"
     ],
     [
-      "Scheduled Tasks in ChatGPT",
-      "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt"
+      "Israel, Hamas reach ceasefire deal to end 15 months of war in Gaza",
+      "https://www.reuters.com/world/middle-east/gaza-ceasefire-appears-close-us-egyptian-leaders-put-focus-coming-hours-2025-01-14/"
     ]
   ],
   [
     [
-      "2025-01-15, 20:06:37",
-      "https://news.ycombinator.com/item?id=42716204"
+      "2025-01-15, 20:20:12",
+      "https://news.ycombinator.com/item?id=42716356"
     ],
     [
-      "Working with The Associated Press to provide fresh results for the Gemini app",
-      "https://blog.google/products/news/associated-press-gemini-app/"
+      "Scheduled tasks in ChatGPT",
+      "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt"
     ]
   ],
   [
@@ -81,21 +91,11 @@
   ],
   [
     [
-      "2025-01-15, 18:24:36",
-      "https://news.ycombinator.com/item?id=42714920"
-    ],
-    [
-      "Gemini Advanced now included in Google Workspace",
-      "https://workspace.google.com/blog/product-announcements/empowering-businesses-with-AI"
-    ]
-  ],
-  [
-    [
       "2025-01-15, 18:12:55",
       "https://news.ycombinator.com/item?id=42714775"
     ],
     [
-      "A Marriage Proposal Spoken in Office Jargon",
+      "A marriage proposal spoken in office jargon",
       "https://www.mcsweeneys.net/articles/a-marriage-proposal-spoken-entirely-in-office-jargon"
     ]
   ],
@@ -115,7 +115,7 @@
       "https://news.ycombinator.com/item?id=42712666"
     ],
     [
-      "Show HN: I Built a Fair Alternative to Product Hunt for Indie Makers Like You",
+      "Show HN: I built a fair alternative to Product Hunt for indie makers",
       "https://news.ycombinator.com/item?id=42712666"
     ]
   ],
@@ -125,7 +125,7 @@
       "https://news.ycombinator.com/item?id=42712433"
     ],
     [
-      "Why does Cloudflare Pages have such a generous free tier?",
+      "Why is Cloudflare Pages' bandwidth unlimited?",
       "https://mattsayar.com/why-does-cloudflare-pages-have-such-a-generous-free-tier/"
     ]
   ],
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=42711966"
     ],
     [
-      "Ropey – A UTF8 text rope for manipulating and editing large texts. in Rust",
+      "Ropey – A UTF8 text rope for manipulating and editing large text",
       "https://github.com/cessen/ropey"
     ]
   ],
@@ -155,8 +155,18 @@
       "https://news.ycombinator.com/item?id=42711387"
     ],
     [
-      "Modern JavaScript for Django Developers",
+      "Modern JavaScript for Django developers",
       "https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/"
+    ]
+  ],
+  [
+    [
+      "2025-01-15, 14:15:17",
+      "https://news.ycombinator.com/item?id=42710978"
+    ],
+    [
+      "Google is making AI in Gmail and Docs free, but raising the price of Workspace",
+      "https://www.theverge.com/2025/1/15/24343794/google-workspace-ai-features-free"
     ]
   ],
   [
@@ -171,22 +181,12 @@
   ],
   [
     [
-      "2025-01-15, 08:47:38",
-      "https://news.ycombinator.com/item?id=42708773"
+      "2025-01-15, 04:15:43",
+      "https://news.ycombinator.com/item?id=42707238"
     ],
     [
-      "Generate audiobooks from E-books with Kokoro-82M",
-      "https://claudio.uk/posts/epub-to-audiobook.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-14, 17:54:51",
-      "https://news.ycombinator.com/item?id=42700997"
-    ],
-    [
-      "Home Loss File System",
-      "https://docs.google.com/spreadsheets/d/1TPeJzW5pa-BiJZjuEa1yGSFs7ZJetbnxf2gjMvv4tkc/edit?usp=sharing"
+      "Nobody cares",
+      "https://grantslatton.com/nobody-cares"
     ]
   ],
   [
@@ -205,7 +205,7 @@
       "https://news.ycombinator.com/item?id=42695005"
     ],
     [
-      "Personalized voice recordings by Elwood \"You've got mail!\" Edwards",
+      "Personalized voice recordings by Elwood \"You've got mail!\" Edwards (2024)",
       "https://blog.jgc.org/2024/11/personalized-voice-recordings-by-elwood.html"
     ]
   ],
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=42682203"
     ],
     [
-      "Code Reviews: A Success Story",
+      "Code reviews: A success story",
       "https://blogsystem5.substack.com/p/code-reviews-a-success-story"
     ]
   ],
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=42680002"
     ],
     [
-      "Sutton Hoo and Syria: The Anglo-Saxons Who Served in the Byzantine Army?",
+      "Sutton Hoo and Syria: Anglo-Saxons who served in the Byzantine army?",
       "https://academic.oup.com/ehr/advance-article/doi/10.1093/ehr/ceae213/7941799"
     ]
   ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2025-01-11, 16:50:49",
-      "https://news.ycombinator.com/item?id=42667080"
+      "2025-01-11, 16:35:00",
+      "https://news.ycombinator.com/item?id=42666959"
     ],
     [
-      "KEON is a human-readable serde format that syntactic similar to Rust",
-      "https://github.com/eternal-io/keon"
+      "Homomorphic encryption in iOS 18",
+      "https://boehs.org/node/homomorphic-encryption"
     ]
   ],
   [
