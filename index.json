@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-15, 04:10:17",
+      "https://news.ycombinator.com/item?id=42707218"
+    ],
+    [
+      "Intel, AMD engineers rush to save Linux 6.13 after dodgy Microsoft code change",
+      "https://www.theregister.com/2025/01/14/microsoft_linux_change_pulled/"
+    ]
+  ],
+  [
+    [
+      "2025-01-15, 00:37:35",
+      "https://news.ycombinator.com/item?id=42705935"
+    ],
+    [
+      "Transformer^2: Self-Adaptive LLMs",
+      "https://sakana.ai/transformer-squared/"
+    ]
+  ],
+  [
+    [
       "2025-01-14, 23:08:54",
       "https://news.ycombinator.com/item?id=42705180"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-01-13, 10:23:50",
-      "https://news.ycombinator.com/item?id=42681976"
-    ],
-    [
-      "Mastodon announces new European non-profit, change of CEO",
-      "https://blog.joinmastodon.org/2025/01/the-people-should-own-the-town-square/"
-    ]
-  ],
-  [
-    [
       "2025-01-12, 18:22:07",
       "https://news.ycombinator.com/item?id=42675529"
     ],
@@ -277,16 +287,6 @@
     [
       "Homomorphic Encryption in iOS 18",
       "https://boehs.org/node/homomorphic-encryption"
-    ]
-  ],
-  [
-    [
-      "2025-01-11, 16:19:56",
-      "https://news.ycombinator.com/item?id=42666851"
-    ],
-    [
-      "Nix – Death by a Thousand Cuts",
-      "https://www.dgt.is/blog/2025-01-10-nix-death-by-a-thousand-cuts/"
     ]
   ],
   [
