@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-15, 05:15:24](https://news.ycombinator.com/item?id=42707573) - [Nevada Court Shuts Down Police Use of Federal Loophole for Civil Forfeiture](https://ij.org/press-release/nevada-court-shuts-down-police-use-of-federal-loophole-for-civil-forfeiture/)
 * [2025-01-15, 04:15:43](https://news.ycombinator.com/item?id=42707238) - [Nobody Cares](https://grantslatton.com/nobody-cares)
-* [2025-01-15, 03:05:32](https://news.ycombinator.com/item?id=42706867) - [Show HN: Open-Source Document Extraction Tool](https://github.com/harishdeivanayagam/rowfill)
 * [2025-01-15, 00:37:35](https://news.ycombinator.com/item?id=42705935) - [Transformer^2: Self-Adaptive LLMs](https://sakana.ai/transformer-squared/)
 * [2025-01-14, 23:08:54](https://news.ycombinator.com/item?id=42705180) - [Climbers using xenon gas to climb Everest](https://gripped.com/profiles/climbers-using-xenon-gas-which-is-banned-in-sports-to-climb-everest/)
 * [2025-01-14, 22:57:19](https://news.ycombinator.com/item?id=42705077) - [Rewriting my website in plain HTML and CSS](https://www.vijayp.dev/blog/rewrite-plain-html/)
