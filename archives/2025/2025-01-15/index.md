@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-01-15](index.md)
 
+* [2025-01-15, 15:27:55](https://news.ycombinator.com/item?id=42711966) - [Ropey – A UTF8 text rope for manipulating and editing large texts. in Rust](https://github.com/cessen/ropey)
 * [2025-01-15, 15:14:33](https://news.ycombinator.com/item?id=42711751) - [Norepinephrine-mediated slow vasomotion drives glymphatic clearance during sleep](https://www.cell.com/cell/abstract/S0092-8674(24)01343-6)
+* [2025-01-15, 15:13:06](https://news.ycombinator.com/item?id=42711727) - [Build a Database in Four Months with Rust and 647 Open-Source Dependencies](https://tisonkun.io/posts/oss-twin)
 * [2025-01-15, 15:01:15](https://news.ycombinator.com/item?id=42711556) - [US Will Ban Cancer-Linked Red Dye No. 3 in Cereal and Other Foods](https://www.bloomberg.com/news/articles/2025-01-15/us-fda-to-ban-red-dye-no-3-rfk-went-after-due-to-cancer-link)
+* [2025-01-15, 14:49:28](https://news.ycombinator.com/item?id=42711387) - [Modern JavaScript for Django Developers](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/)
 * [2025-01-15, 14:15:17](https://news.ycombinator.com/item?id=42710978) - [Google is making AI in Gmail and Docs free – but raising the price of Workspace](https://www.theverge.com/2025/1/15/24343794/google-workspace-ai-features-free)
 * [2025-01-15, 13:57:58](https://news.ycombinator.com/item?id=42710796) - [German economy contracts 0.2% in 2024 in second consecutive annual slowdown](https://www.cnbc.com/2025/01/15/german-gross-domestic-product-full-year-2024.html)
 * [2025-01-15, 13:53:56](https://news.ycombinator.com/item?id=42710750) - [Scientists Discover New Molecule That Boosts Fat Metabolism Naturally](https://scitechdaily.com/scientists-discover-new-molecule-that-boosts-fat-metabolism-naturally/)
