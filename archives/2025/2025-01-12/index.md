@@ -77,6 +77,7 @@
 * [2025-01-12, 09:23:41](https://news.ycombinator.com/item?id=42672304) - [What other communities do you use apart from HN?](https://news.ycombinator.com/item?id=42672304)
 * [2025-01-12, 09:10:35](https://news.ycombinator.com/item?id=42672246) - [What Is Treewidth?](https://www.ams.org/journals/notices/202502/noti3043/noti3043.html)
 * [2025-01-12, 08:04:57](https://news.ycombinator.com/item?id=42672015) - [Virtual Vette – Racing Simulator Built from Wrecked Corvette](https://www.instructables.com/Virtual-Vette-Racing-Simulator-Built-From-Wrecked-/)
+* [2025-01-12, 07:58:19](https://news.ycombinator.com/item?id=42671986) - [A murder that shook British India and toppled a king](https://www.bbc.co.uk/news/articles/c70e0drd480o)
 * [2025-01-12, 07:50:14](https://news.ycombinator.com/item?id=42671960) - [A secure distributed actor language](https://mistysystem.com/)
 * [2025-01-12, 07:00:02](https://news.ycombinator.com/item?id=42671781) - [Yhangry (YC W22, Michael Siebel Invested) Is Hiring Senior Engineers](https://www.ycombinator.com/companies/yhangry/jobs/JiN1myL-senior-full-stack-engineer)
 * [2025-01-12, 06:01:33](https://news.ycombinator.com/item?id=42671607) - [Why Matt Should Resign (2010)](https://web.archive.org/web/20110117190122/http://wpblogger.com/matt-should-resign.php)
