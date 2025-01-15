@@ -129,23 +129,63 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="42705180">
+          <h3>
+            <a
+              class="item"
+              href="https://gripped.com/profiles/climbers-using-xenon-gas-which-is-banned-in-sports-to-climb-everest/"
+              >Climbers using xenon gas to climb Everest</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-01-14 @ 23:08:54</span
+              ><span class="points-container"
+                >Points: <span class="points">58</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42705180"
+                  >Comments</a
+                ><span class="descendants">: 78</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="42705077">
           <h3>
             <a
               class="item"
               href="https://www.vijayp.dev/blog/rewrite-plain-html/"
-              >Rewriting my blog in plain HTML</a
+              >Rewriting my website in plain HTML and CSS</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-01-14 @ 22:57:19</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42705077"
                   >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 60</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="42704795">
+          <h3>
+            <a class="item" href="https://chatgpt.com/?model=gpt-4o-jawbone"
+              >GPT-4o with scheduled tasks (jawbone) is available in beta</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-01-14 @ 22:25:54</span
+              ><span class="points-container"
+                >Points: <span class="points">70</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42704795"
+                  >Comments</a
+                ><span class="descendants">: 87</span></span
               >
             </h4>
           </section>
@@ -162,13 +202,79 @@
             <h4>
               <span>2025-01-14 @ 21:59:12</span
               ><span class="points-container"
-                >Points: <span class="points">152</span></span
+                >Points: <span class="points">168</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42704491"
                   >Comments</a
-                ><span class="descendants">: 81</span></span
+                ><span class="descendants">: 95</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="42704160">
+          <h3>
+            <a class="item" href="https://www.simplex.sh/playground"
+              >Show HN: Simplex: Automate browser workflows using code and
+              natural language</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-01-14 @ 21:30:14</span
+              ><span class="points-container"
+                >Points: <span class="points">26</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42704160"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Here's a quick video to show you how it works:
+                <a
+                  href="https://www.loom.com/share/8d27d0f9e0f34c77a81b0ac770151c12"
+                  >https://www.loom.com/share/8d27d0f9e0f34c77a81b0ac770151c12</a
+                >
+              </p>
+              <p>
+                A couple weeks ago, we needed a way to automatically find 3D
+                assets from the internet for one of our work contracts. We
+                didn’t need an AI to choose all the steps for us autonomously —
+                we knew generally what the flow to find items should be and just
+                needed some intelligence to handle different webpage formats.
+              </p>
+              <p>
+                Playwright couldn’t easily generalize to the different sites we
+                wanted to search over and Claude computer use was tough to use —
+                it was slow, expensive, struggled to click on the correct web
+                elements, and there was no way to correct its actions if it
+                failed at step 20 of our workflow.
+              </p>
+              <p>
+                So we built a vision-based solution using vision language models
+                that sits on top of Playwright. In our SDK, building a function
+                that can universally search websites is as easy as this:
+              </p>
+              <p></p>
+              <pre><code>    from simplex import Simplex
+    simplex = Simplex(api_key="api_key")
+    
+    def search(website, search_query):
+        simplex.goto(website)
+        simplex.click("the search bar")
+        simplex.type(search_query)
+        simplex.press_enter()
+        
+    search("mit.edu", "alyssa p hacker")
+</code></pre>
+              You can play around with what we’ve built and see a few more
+              examples at
+              <a href="https://simplex.sh/playground"
+                >https://simplex.sh/playground</a
+              >.
+              <p>We'd love feedback!</p>
+            </div>
           </section>
         </section>
         <section id="42704078">
@@ -183,32 +289,11 @@
             <h4>
               <span>2025-01-14 @ 21:23:21</span
               ><span class="points-container"
-                >Points: <span class="points">101</span></span
+                >Points: <span class="points">117</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42704078"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="42703422">
-          <h3>
-            <a
-              class="item"
-              href="https://ip-vote.com/geolocation_via_latency.html"
-              >Proof of location for online polls</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-01-14 @ 20:31:19</span
-              ><span class="points-container"
-                >Points: <span class="points">84</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42703422"
-                  >Comments</a
-                ><span class="descendants">: 65</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -225,11 +310,11 @@
             <h4>
               <span>2025-01-14 @ 20:21:47</span
               ><span class="points-container"
-                >Points: <span class="points">120</span></span
+                >Points: <span class="points">130</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42703282"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -246,11 +331,11 @@
             <h4>
               <span>2025-01-14 @ 17:54:51</span
               ><span class="points-container"
-                >Points: <span class="points">147</span></span
+                >Points: <span class="points">161</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42700997"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -268,7 +353,7 @@
             <h4>
               <span>2025-01-14 @ 17:46:41</span
               ><span class="points-container"
-                >Points: <span class="points">129</span></span
+                >Points: <span class="points">134</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42700852"
                   >Comments</a
@@ -381,32 +466,11 @@
             <h4>
               <span>2025-01-14 @ 16:14:01</span
               ><span class="points-container"
-                >Points: <span class="points">407</span></span
+                >Points: <span class="points">411</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42699099"
                   >Comments</a
-                ><span class="descendants">: 218</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="42698981">
-          <h3>
-            <a
-              class="item"
-              href="https://guix.gnu.org/en/blog/2024/the-shepherd-1.0.0-released/"
-              >The Shepherd 1.0.0 released</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-01-14 @ 16:07:23</span
-              ><span class="points-container"
-                >Points: <span class="points">154</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42698981"
-                  >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 220</span></span
               >
             </h4>
           </section>
@@ -423,11 +487,32 @@
             <h4>
               <span>2025-01-14 @ 15:52:43</span
               ><span class="points-container"
-                >Points: <span class="points">70</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42698753"
                   >Comments</a
                 ><span class="descendants">: 23</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="42698737">
+          <h3>
+            <a
+              class="item"
+              href="https://newsletter.goodtechthings.com/p/why-are-tech-people-suddenly-so-into"
+              >Why is homeschooling becoming fashionable?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-01-14 @ 15:51:33</span
+              ><span class="points-container"
+                >Points: <span class="points">57</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42698737"
+                  >Comments</a
+                ><span class="descendants">: 191</span></span
               >
             </h4>
           </section>
@@ -462,13 +547,75 @@
             <h4>
               <span>2025-01-14 @ 14:42:54</span
               ><span class="points-container"
-                >Points: <span class="points">97</span></span
+                >Points: <span class="points">98</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42697764"
                   >Comments</a
                 ><span class="descendants">: 40</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="42697467">
+          <h3>
+            <a
+              class="item"
+              href="https://www.fortressofdoors.com/take-the-pedals-off-the-bike/"
+              >Take the Pedals Off the Bike</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-01-14 @ 14:17:52</span
+              ><span class="points-container"
+                >Points: <span class="points">64</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42697467"
+                  >Comments</a
+                ><span class="descendants">: 101</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="42697346">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/popcar2/BadWebsiteBlocklist"
+              >Show HN: A blocklist to remove spam and bad websites from search
+              results</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-01-14 @ 14:06:41</span
+              ><span class="points-container"
+                >Points: <span class="points">106</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42697346"
+                  >Comments</a
+                ><span class="descendants">: 52</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I've been fed up with search results so much that I decided to
+                make a giant blocklist to remove garbage links by using
+                uBlacklist.
+              </p>
+              <p>
+                I browsed other blocklists and wasn't very satisfied from what
+                exists now; the goal of this one is to be super organized and
+                transparent, explaining why each site was blocked via issues.
+                Contributions welcome!
+              </p>
+              <p>
+                Even though around 100 domains are blocked so far, I already
+                noticed a big improvement in casual searches. You'd be surprised
+                how some AI generated websites can dominate the #1 page on
+                DuckDuckGo.
+              </p>
+            </div>
           </section>
         </section>
         <section id="42697335">
@@ -481,11 +628,32 @@
             <h4>
               <span>2025-01-14 @ 14:05:40</span
               ><span class="points-container"
-                >Points: <span class="points">142</span></span
+                >Points: <span class="points">149</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42697335"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 55</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="42696517">
+          <h3>
+            <a
+              class="item"
+              href="https://www.ornl.gov/news/plant-co2-uptake-rises-nearly-one-third-new-global-estimates"
+              >Estimates of plant CO2 uptake rise by nearly one third</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-01-14 @ 12:41:46</span
+              ><span class="points-container"
+                >Points: <span class="points">129</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42696517"
+                  >Comments</a
+                ><span class="descendants">: 126</span></span
               >
             </h4>
           </section>
@@ -506,7 +674,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42695580"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -521,32 +689,11 @@
             <h4>
               <span>2025-01-14 @ 09:58:15</span
               ><span class="points-container"
-                >Points: <span class="points">297</span></span
+                >Points: <span class="points">319</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42695547"
                   >Comments</a
-                ><span class="descendants">: 75</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="42695232">
-          <h3>
-            <a
-              class="item"
-              href="https://dashbit.co/blog/data-evolution-with-set-theoretic-types"
-              >Data evolution with set-theoretic types</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-01-14 @ 09:08:13</span
-              ><span class="points-container"
-                >Points: <span class="points">76</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42695232"
-                  >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 83</span></span
               >
             </h4>
           </section>
@@ -561,56 +708,11 @@
             <h4>
               <span>2025-01-13 @ 17:42:00</span
               ><span class="points-container"
-                >Points: <span class="points">180</span></span
+                >Points: <span class="points">188</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42686144"
                   >Comments</a
                 ><span class="descendants">: 41</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="42683494">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=42683494"
-              >Ask HN: How do you prevent the impact of social media on your
-              children?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-01-13 @ 14:02:39</span
-              ><span class="points-container"
-                >Points: <span class="points">201</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42683494"
-                  >Comments</a
-                ><span class="descendants">: 271</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                I'm curious to know what kinds of methods you have implemented
-                to manage this or whether you feel the same as me
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="42682660">
-          <h3>
-            <a class="item" href="https://octopus.com/devops/"
-              >The DevOps Engineer's Handbook</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-01-13 @ 12:17:43</span
-              ><span class="points-container"
-                >Points: <span class="points">128</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42682660"
-                  >Comments</a
-                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -627,33 +729,11 @@
             <h4>
               <span>2025-01-13 @ 10:23:50</span
               ><span class="points-container"
-                >Points: <span class="points">268</span></span
+                >Points: <span class="points">277</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42681976"
                   >Comments</a
-                ><span class="descendants">: 102</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="42679998">
-          <h3>
-            <a
-              class="item"
-              href="https://www.abc.net.au/news/2024-12-03/carnarvon-nasa-dish-receives-signal-repairs/104672866"
-              >Carnarvon's NASA satellite dish receives first signal in almost
-              40 years</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-01-13 @ 04:09:24</span
-              ><span class="points-container"
-                >Points: <span class="points">107</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42679998"
-                  >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 104</span></span
               >
             </h4>
           </section>
@@ -668,32 +748,32 @@
             <h4>
               <span>2025-01-12 @ 18:22:07</span
               ><span class="points-container"
-                >Points: <span class="points">148</span></span
+                >Points: <span class="points">151</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42675529"
                   >Comments</a
-                ><span class="descendants">: 51</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="42673815">
+        <section id="42673415">
           <h3>
             <a
               class="item"
-              href="https://dbrgn.ch/stories-from-the-internet.html"
-              >Stories from the Internet</a
+              href="https://arstechnica.com/science/2025/01/getting-an-all-optical-ai-to-handle-non-linear-math/"
+              >Getting an all-optical AI to handle non-linear math</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-01-12 @ 14:36:00</span
+              <span>2025-01-12 @ 13:33:39</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42673815"
+                ><a href="https://news.ycombinator.com/item?id=42673415"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -701,19 +781,18 @@
         <section id="42672366">
           <h3>
             <a class="item" href="https://rodyne.com/?p=1674"
-              >Show HN: Blinkenlights. Bling up your server rack like its
-              1974</a
+              >Das Blinkenlights</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-01-12 @ 09:39:50</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42672366"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
             <div class="text">
@@ -741,7 +820,7 @@
             <h4>
               <span>2025-01-12 @ 08:04:57</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42672015"
                   >Comments</a
@@ -762,11 +841,11 @@
             <h4>
               <span>2025-01-11 @ 21:30:04</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42669065"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -783,30 +862,11 @@
             <h4>
               <span>2025-01-11 @ 16:19:56</span
               ><span class="points-container"
-                >Points: <span class="points">207</span></span
+                >Points: <span class="points">211</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42666851"
                   >Comments</a
-                ><span class="descendants">: 173</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="42662265">
-          <h3>
-            <a class="item" href="https://cassidoo.co/post/css-for-dialogs/"
-              >A couple CSS tricks for HTML Dialog elements</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-01-11 @ 00:59:13</span
-              ><span class="points-container"
-                >Points: <span class="points">140</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42662265"
-                  >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 175</span></span
               >
             </h4>
           </section>
@@ -821,7 +881,7 @@
             <h4>
               <span>2025-01-10 @ 21:44:24</span
               ><span class="points-container"
-                >Points: <span class="points">95</span></span
+                >Points: <span class="points">98</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42660619"
                   >Comments</a
@@ -842,7 +902,7 @@
             <h4>
               <span>2025-01-10 @ 21:42:54</span
               ><span class="points-container"
-                >Points: <span class="points">214</span></span
+                >Points: <span class="points">216</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42660606"
                   >Comments</a
