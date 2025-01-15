@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-01-14, 22:57:19",
-      "https://news.ycombinator.com/item?id=42705077"
-    ],
-    [
-      "Rewriting my website in plain HTML and CSS",
-      "https://www.vijayp.dev/blog/rewrite-plain-html/"
-    ]
-  ],
-  [
-    [
       "2025-01-14, 21:30:14",
       "https://news.ycombinator.com/item?id=42704160"
     ],
@@ -97,6 +87,16 @@
     [
       "Google’s OAuth login doesn’t protect against purchasing a failed startup domain",
       "https://trufflesecurity.com/blog/millions-at-risk-due-to-google-s-oauth-flaw"
+    ]
+  ],
+  [
+    [
+      "2025-01-14, 15:52:43",
+      "https://news.ycombinator.com/item?id=42698753"
+    ],
+    [
+      "Show HN: Value likelihoods for OpenAI structured output",
+      "https://arena-ai.github.io/structured-logprobs/"
     ]
   ],
   [
