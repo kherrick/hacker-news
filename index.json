@@ -21,21 +21,11 @@
   ],
   [
     [
-      "2025-01-15, 16:09:37",
-      "https://news.ycombinator.com/item?id=42712673"
-    ],
-    [
-      "AI Brad Pitt dupes French woman out of €830k",
-      "https://www.bbc.co.uk/news/articles/ckgnz8rw1xgo"
-    ]
-  ],
-  [
-    [
       "2025-01-15, 15:55:13",
       "https://news.ycombinator.com/item?id=42712433"
     ],
     [
-      "Why does Cloudflare Pages have such a generous Free tier?",
+      "Why does Cloudflare Pages have such a generous free tier?",
       "https://mattsayar.com/why-does-cloudflare-pages-have-such-a-generous-free-tier/"
     ]
   ],
@@ -77,16 +67,6 @@
     [
       "Build a Database in Four Months with Rust and 647 Open-Source Dependencies",
       "https://tisonkun.io/posts/oss-twin"
-    ]
-  ],
-  [
-    [
-      "2025-01-15, 15:01:15",
-      "https://news.ycombinator.com/item?id=42711556"
-    ],
-    [
-      "US Will Ban Cancer-Linked Red Dye No. 3 in Cereal and Other Foods",
-      "https://www.bloomberg.com/news/articles/2025-01-15/us-fda-to-ban-red-dye-no-3-rfk-went-after-due-to-cancer-link"
     ]
   ],
   [
@@ -147,6 +127,16 @@
     [
       "Nevada Court Shuts Down Police Use of Federal Loophole for Civil Forfeiture",
       "https://ij.org/press-release/nevada-court-shuts-down-police-use-of-federal-loophole-for-civil-forfeiture/"
+    ]
+  ],
+  [
+    [
+      "2025-01-15, 00:37:35",
+      "https://news.ycombinator.com/item?id=42705935"
+    ],
+    [
+      "Transformer^2: Self-Adaptive LLMs",
+      "https://sakana.ai/transformer-squared/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "(Right-Nulled) Generalised LR Parsing",
       "https://blog.jeffsmits.net/generalised-lr-parsing/"
+    ]
+  ],
+  [
+    [
+      "2025-01-12, 13:05:41",
+      "https://news.ycombinator.com/item?id=42673273"
+    ],
+    [
+      "Show HN: Pyper – Concurrent Python Made Simple",
+      "https://github.com/pyper-dev/pyper"
     ]
   ],
   [
