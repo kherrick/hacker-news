@@ -67,6 +67,7 @@
 * [2025-01-12, 11:18:07](https://news.ycombinator.com/item?id=42672758) - [Rewilding the Self](https://worldsensorium.com/rewilding-the-self/)
 * [2025-01-12, 11:17:21](https://news.ycombinator.com/item?id=42672755) - [Flynn Effect](https://en.wikipedia.org/wiki/Flynn_effect)
 * [2025-01-12, 11:17:03](https://news.ycombinator.com/item?id=42672752) - [Physicists Want to Ditch Dark Energy](https://nautil.us/these-physicists-want-to-ditch-dark-energy-1177085/)
+* [2025-01-12, 11:12:29](https://news.ycombinator.com/item?id=42672724) - [Distributed Transactions at Scale in Amazon DynamoDB](http://muratbuffalo.blogspot.com/2023/08/distributed-transactions-at-scale-in.html)
 * [2025-01-12, 11:01:55](https://news.ycombinator.com/item?id=42672675) - [Mullenweg Shuts Down WordPress Sustainability Team, Igniting Backlash](https://www.therepository.email/mullenweg-shuts-down-wordpress-sustainability-team-igniting-backlash)
 * [2025-01-12, 10:43:06](https://news.ycombinator.com/item?id=42672605) - [All-Band Receiver Lets You Listen to All the Radio at Once](https://hackaday.com/2025/01/09/all-band-receiver-lets-you-listen-to-all-the-radio-at-once/)
 * [2025-01-12, 10:39:42](https://news.ycombinator.com/item?id=42672592) - [Great CPAN modules released last week](https://niceperl.blogspot.com/2025/01/dxxx-20-great-cpan-modules-released.html)
