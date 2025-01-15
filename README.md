@@ -10,7 +10,6 @@
 * [2025-01-14, 17:54:51](https://news.ycombinator.com/item?id=42700997) - [Home Loss File System](https://docs.google.com/spreadsheets/d/1TPeJzW5pa-BiJZjuEa1yGSFs7ZJetbnxf2gjMvv4tkc/edit?usp=sharing)
 * [2025-01-14, 17:46:41](https://news.ycombinator.com/item?id=42700852) - [Show HN: WASM-powered codespaces for Python notebooks on GitHub](https://docs.marimo.io/guides/publishing/playground/#open-notebooks-hosted-on-github)
 * [2025-01-14, 16:14:01](https://news.ycombinator.com/item?id=42699099) - [Google’s OAuth login doesn’t protect against purchasing a failed startup domain](https://trufflesecurity.com/blog/millions-at-risk-due-to-google-s-oauth-flaw)
-* [2025-01-14, 15:52:43](https://news.ycombinator.com/item?id=42698753) - [Show HN: Value likelihoods for OpenAI structured output](https://arena-ai.github.io/structured-logprobs/)
 * [2025-01-14, 15:51:33](https://news.ycombinator.com/item?id=42698737) - [Why is homeschooling becoming fashionable?](https://newsletter.goodtechthings.com/p/why-are-tech-people-suddenly-so-into)
 * [2025-01-14, 14:17:52](https://news.ycombinator.com/item?id=42697467) - [Take the Pedals Off the Bike](https://www.fortressofdoors.com/take-the-pedals-off-the-bike/)
 * [2025-01-14, 14:06:41](https://news.ycombinator.com/item?id=42697346) - [Show HN: A blocklist to remove spam and bad websites from search results](https://github.com/popcar2/BadWebsiteBlocklist)
@@ -28,6 +27,7 @@
 * [2025-01-12, 09:39:50](https://news.ycombinator.com/item?id=42672366) - [Das Blinkenlights](https://rodyne.com/?p=1674)
 * [2025-01-12, 08:04:57](https://news.ycombinator.com/item?id=42672015) - [Virtual Vette – Racing Simulator Built from Wrecked Corvette](https://www.instructables.com/Virtual-Vette-Racing-Simulator-Built-From-Wrecked-/)
 * [2025-01-11, 16:35:00](https://news.ycombinator.com/item?id=42666959) - [Homomorphic Encryption in iOS 18](https://boehs.org/node/homomorphic-encryption)
+* [2025-01-11, 16:19:56](https://news.ycombinator.com/item?id=42666851) - [Nix – Death by a Thousand Cuts](https://www.dgt.is/blog/2025-01-10-nix-death-by-a-thousand-cuts/)
 * [2025-01-11, 15:45:51](https://news.ycombinator.com/item?id=42666594) - [TSMC begins producing 4-nanometer chips in Arizona](https://www.reuters.com/technology/tsmc-begins-producing-4-nanometer-chips-arizona-raimondo-says-2025-01-10/)
 * [2025-01-10, 21:42:54](https://news.ycombinator.com/item?id=42660606) - [Reversible computing escapes the lab](https://spectrum.ieee.org/reversible-computing)
 
