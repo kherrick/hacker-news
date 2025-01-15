@@ -50,6 +50,7 @@
 * [2025-01-13, 12:07:42](https://news.ycombinator.com/item?id=42682602) - [The Timeless 9 Golden Rules of Debugging](https://dwheeler.com/essays/debugging-agans.html)
 * [2025-01-13, 12:00:11](https://news.ycombinator.com/item?id=42682560) - [Raycast (YC W20) Is Hiring Full Stack Eng (EU, Remote, €105k-€160k)](https://www.raycast.com/jobs/software-engineer-full-stack)
 * [2025-01-13, 11:21:01](https://news.ycombinator.com/item?id=42682305) - [The Origins of Wokeness](https://paulgraham.com/woke.html)
+* [2025-01-13, 11:02:32](https://news.ycombinator.com/item?id=42682203) - [Code Reviews: A Success Story](https://blogsystem5.substack.com/p/code-reviews-a-success-story)
 * [2025-01-13, 10:46:29](https://news.ycombinator.com/item?id=42682093) - [Fedora 42 Looks to Ship Optimized Executables for Different x86_64 Capabilities](https://www.phoronix.com/news/Fedora-42-Optimized-Executables)
 * [2025-01-13, 10:38:31](https://news.ycombinator.com/item?id=42682055) - [AI Tools: Impacts on Cognitive Offloading and the Future of Critical Thinking](https://www.mdpi.com/2075-4698/15/1/6)
 * [2025-01-13, 10:23:50](https://news.ycombinator.com/item?id=42681976) - [Mastodon announces new European non-profit, change of CEO](https://blog.joinmastodon.org/2025/01/the-people-should-own-the-town-square/)

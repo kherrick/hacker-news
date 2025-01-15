@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-01-15](index.md)
 
+* [2025-01-15, 20:30:30](https://news.ycombinator.com/item?id=42716487) - [SHOW HN: I made a tool to save multimedia from various platforms](https://www.saveplays.com/)
+* [2025-01-15, 20:26:07](https://news.ycombinator.com/item?id=42716428) - [UnitedHealth overcharged cancer patients for drugs by over 1,000%](https://fortune.com/2025/01/15/ftc-pbms-unitedhealth-brian-thompson-cvs-caremark-cigna-pharmacy-benefit-managers/)
 * [2025-01-15, 20:20:12](https://news.ycombinator.com/item?id=42716356) - [Scheduled Tasks in ChatGPT](https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt)
+* [2025-01-15, 20:06:37](https://news.ycombinator.com/item?id=42716204) - [Google brings real-time information from The Associated Press to Gemini](https://blog.google/products/news/associated-press-gemini-app/)
+* [2025-01-15, 20:06:14](https://news.ycombinator.com/item?id=42716200) - [400x faster embeddings models using static embeddings](https://huggingface.co/blog/static-embeddings)
 * [2025-01-15, 19:58:16](https://news.ycombinator.com/item?id=42716104) - [Natrium 'advanced nuclear' power plant wins Wyoming permit](https://wyofile.com/natrium-advanced-nuclear-power-plant-wins-wyoming-permit/)
 * [2025-01-15, 19:34:01](https://news.ycombinator.com/item?id=42715841) - [Sweden is investing €104M to bring back printed textbooks](https://indiandefencereview.com/in-2009-sweden-chose-to-replace-books-with-computers-15-years-later-it-allocates-104-million-euros-to-reverse-course/)
 * [2025-01-15, 19:02:35](https://news.ycombinator.com/item?id=42715462) - [Laptop](https://mijndertstuij.nl/posts/the-best-laptop-ever/)
