@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-15, 05:15:24](https://news.ycombinator.com/item?id=42707573) - [Nevada Court Shuts Down Police Use of Federal Loophole for Civil Forfeiture](https://ij.org/press-release/nevada-court-shuts-down-police-use-of-federal-loophole-for-civil-forfeiture/)
-* [2025-01-15, 04:15:43](https://news.ycombinator.com/item?id=42707238) - [Nobody Cares](https://grantslatton.com/nobody-cares)
 * [2025-01-15, 00:37:35](https://news.ycombinator.com/item?id=42705935) - [Transformer^2: Self-Adaptive LLMs](https://sakana.ai/transformer-squared/)
 * [2025-01-14, 22:57:19](https://news.ycombinator.com/item?id=42705077) - [Rewriting my website in plain HTML and CSS](https://www.vijayp.dev/blog/rewrite-plain-html/)
 * [2025-01-14, 22:25:54](https://news.ycombinator.com/item?id=42704795) - [GPT-4o with scheduled tasks (jawbone) is available in beta](https://chatgpt.com/?model=gpt-4o-jawbone)
@@ -20,6 +19,7 @@
 * [2025-01-14, 12:41:46](https://news.ycombinator.com/item?id=42696517) - [Estimates of plant CO2 uptake rise by nearly one third](https://www.ornl.gov/news/plant-co2-uptake-rises-nearly-one-third-new-global-estimates)
 * [2025-01-14, 09:58:15](https://news.ycombinator.com/item?id=42695547) - [FFmpeg by Example](https://ffmpegbyexample.com/)
 * [2025-01-13, 17:42:00](https://news.ycombinator.com/item?id=42686144) - [Cosmos Keyboard: Scan your hand, build a keyboard](https://ryanis.cool/cosmos/)
+* [2025-01-12, 21:33:23](https://news.ycombinator.com/item?id=42677158) - [Life on a Closed Timelike Curve](https://iopscience.iop.org/article/10.1088/1361-6382/ad98df#cqgad98dff1)
 * [2025-01-12, 19:42:38](https://news.ycombinator.com/item?id=42676245) - [Customasm – An assembler for custom, user-defined instruction sets](https://github.com/hlorenzi/customasm)
 * [2025-01-12, 18:22:07](https://news.ycombinator.com/item?id=42675529) - [The Missing Nvidia GPU Glossary](https://modal.com/gpu-glossary/readme)
 * [2025-01-12, 15:00:11](https://news.ycombinator.com/item?id=42674003) - [Free Music Archive](https://freemusicarchive.org/home)

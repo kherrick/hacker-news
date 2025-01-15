@@ -12,6 +12,7 @@
 * [2025-01-12, 22:28:30](https://news.ycombinator.com/item?id=42677608) - [Qubes OS: A reasonably secure operating system](https://www.qubes-os.org/)
 * [2025-01-12, 22:26:35](https://news.ycombinator.com/item?id=42677587) - [I deleted my social media accounts (and why you should too)](https://asylumsquare.com/backstage/2025-01-12/why-i-deleted-my-social-media-accounts)
 * [2025-01-12, 21:45:00](https://news.ycombinator.com/item?id=42677249) - [Russia's Hidden War Debt](https://navigatingrussia.substack.com/p/russias-hidden-war-debt)
+* [2025-01-12, 21:33:23](https://news.ycombinator.com/item?id=42677158) - [Life on a Closed Timelike Curve](https://iopscience.iop.org/article/10.1088/1361-6382/ad98df#cqgad98dff1)
 * [2025-01-12, 21:10:34](https://news.ycombinator.com/item?id=42676974) - [Why this longtime Aspen ski executive thinks corporate sustainability is a scam](https://www.cpr.org/2025/01/12/auden-schendler-terrible-beauty-ski-corporate-sustainability/)
 * [2025-01-12, 21:04:56](https://news.ycombinator.com/item?id=42676928) - [Microsoft Bob: Microsoft's biggest flop of the 1990s](https://dfarq.homeip.net/microsoft-bob-microsofts-biggest-flop-of-the-199)
 * [2025-01-12, 20:27:28](https://news.ycombinator.com/item?id=42676613) - [What the TP-Link Ban in the US Means for You](https://thedefendopsdiaries.com/what-the-tp-link-ban-in-the-us-means-for-you/)
