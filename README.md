@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-15, 16:09:44](https://news.ycombinator.com/item?id=42712675) - [Enterprises in for a shock when they realize power and cooling demands of AI](https://www.theregister.com/2025/01/15/ai_power_cooling_demands/)
 * [2025-01-15, 15:55:13](https://news.ycombinator.com/item?id=42712433) - [Why does Cloudflare Pages have such a generous free tier?](https://mattsayar.com/why-does-cloudflare-pages-have-such-a-generous-free-tier/)
 * [2025-01-15, 15:27:55](https://news.ycombinator.com/item?id=42711966) - [Ropey – A UTF8 text rope for manipulating and editing large texts. in Rust](https://github.com/cessen/ropey)
 * [2025-01-15, 15:17:00](https://news.ycombinator.com/item?id=42711781) - [WTF Happened in 1971? (2019)](https://wtfhappenedin1971.com/)
@@ -18,6 +17,7 @@
 * [2025-01-14, 17:54:51](https://news.ycombinator.com/item?id=42700997) - [Home Loss File System](https://docs.google.com/spreadsheets/d/1TPeJzW5pa-BiJZjuEa1yGSFs7ZJetbnxf2gjMvv4tkc/edit?usp=sharing)
 * [2025-01-14, 15:51:33](https://news.ycombinator.com/item?id=42698737) - [Why is homeschooling becoming fashionable?](https://newsletter.goodtechthings.com/p/why-are-tech-people-suddenly-so-into)
 * [2025-01-14, 14:17:52](https://news.ycombinator.com/item?id=42697467) - [Take the pedals off the bike](https://www.fortressofdoors.com/take-the-pedals-off-the-bike/)
+* [2025-01-14, 14:05:40](https://news.ycombinator.com/item?id=42697335) - [Servo vs. steppers: Speed, Torque and Accuracy [video]](https://www.youtube.com/watch?v=H-nO1F-AO9I)
 * [2025-01-14, 09:58:15](https://news.ycombinator.com/item?id=42695547) - [FFmpeg by Example](https://ffmpegbyexample.com/)
 * [2025-01-14, 08:28:06](https://news.ycombinator.com/item?id=42695005) - [Personalized voice recordings by Elwood \"You've got mail!\" Edwards](https://blog.jgc.org/2024/11/personalized-voice-recordings-by-elwood.html)
 * [2025-01-13, 17:42:00](https://news.ycombinator.com/item?id=42686144) - [Cosmos Keyboard: Scan your hand, build a keyboard](https://ryanis.cool/cosmos/)
