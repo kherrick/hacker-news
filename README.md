@@ -21,7 +21,6 @@
 * [2025-01-15, 04:15:43](https://news.ycombinator.com/item?id=42707238) - [Nobody cares](https://grantslatton.com/nobody-cares)
 * [2025-01-14, 14:17:52](https://news.ycombinator.com/item?id=42697467) - [Take the pedals off the bike](https://www.fortressofdoors.com/take-the-pedals-off-the-bike/)
 * [2025-01-13, 19:19:42](https://news.ycombinator.com/item?id=42687510) - [Nvidia might do for desktop AI what it did for desktop gaming](https://www.theangle.com/p/nvidia-might-do-for-desktop-ai-what)
-* [2025-01-13, 11:02:32](https://news.ycombinator.com/item?id=42682203) - [Code reviews: A success story](https://blogsystem5.substack.com/p/code-reviews-a-success-story)
 * [2025-01-13, 04:10:21](https://news.ycombinator.com/item?id=42680002) - [Sutton Hoo and Syria: Anglo-Saxons who served in the Byzantine army?](https://academic.oup.com/ehr/advance-article/doi/10.1093/ehr/ceae213/7941799)
 * [2025-01-13, 01:53:18](https://news.ycombinator.com/item?id=42679191) - [Lambda Calculus in 383 Bytes (2022)](https://justine.lol/lambda/)
 * [2025-01-12, 22:41:48](https://news.ycombinator.com/item?id=42677728) - [My 3D SWE Portfolio - Built with React Three Fiber.](https://dement.dev)
@@ -30,6 +29,7 @@
 * [2025-01-11, 23:43:33](https://news.ycombinator.com/item?id=42669906) - [Why the weak nuclear force is short range](https://profmattstrassler.com/articles-and-posts/particle-physics-basics/the-astonishing-standard-model/why-the-weak-nuclear-force-is-short-range/)
 * [2025-01-11, 22:25:37](https://news.ycombinator.com/item?id=42669431) - [Arnold's Cat (2018)](http://gerdbreitenbach.de/arnold_cat/cat.html)
 * [2025-01-11, 16:35:00](https://news.ycombinator.com/item?id=42666959) - [Homomorphic encryption in iOS 18](https://boehs.org/node/homomorphic-encryption)
+* [2025-01-11, 15:45:51](https://news.ycombinator.com/item?id=42666594) - [TSMC begins producing 4-nanometer chips in Arizona](https://www.reuters.com/technology/tsmc-begins-producing-4-nanometer-chips-arizona-raimondo-says-2025-01-10/)
 
 ## [Archives](archives/index.md)
 
