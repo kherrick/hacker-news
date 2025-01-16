@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-16, 06:08:51](https://news.ycombinator.com/item?id=42721882) - [Blue Origin New Glenn Mission NG-1 (video)](https://www.blueorigin.com/missions/ng-1)
-* [2025-01-16, 05:02:28](https://news.ycombinator.com/item?id=42721460) - [Anthropic achieves ISO 42001 certification for responsible AI](https://www.anthropic.com/news/anthropic-achieves-iso-42001-certification-for-responsible-ai)
 * [2025-01-16, 05:00:08](https://news.ycombinator.com/item?id=42721442) - [Intel's Tofino P4 Software Is Now Open Source](https://p4.org/intels-tofino-p4-software-is-now-open-source/)
 * [2025-01-16, 02:36:45](https://news.ycombinator.com/item?id=42720361) - [Is WebAssembly Memory64 worth using?](https://spidermonkey.dev/blog/2025/01/15/is-memory64-actually-worth-using.html)
 * [2025-01-15, 22:39:49](https://news.ycombinator.com/item?id=42718166) - [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)
@@ -22,6 +21,7 @@
 * [2025-01-15, 04:15:43](https://news.ycombinator.com/item?id=42707238) - [Nobody cares](https://grantslatton.com/nobody-cares)
 * [2025-01-15, 00:33:42](https://news.ycombinator.com/item?id=42705914) - [Let the user help solve their own problem](https://boredzo.org/blog/archives/2025-01-14/let-the-user-help-solve-their-own-problem)
 * [2025-01-14, 14:17:52](https://news.ycombinator.com/item?id=42697467) - [Take the pedals off the bike](https://www.fortressofdoors.com/take-the-pedals-off-the-bike/)
+* [2025-01-14, 06:25:17](https://news.ycombinator.com/item?id=42694348) - [Byte Queue Limits – The unauthorized biography](https://medium.com/@tom_84912/byte-queue-limits-the-unauthorized-biography-61adc5730b83)
 * [2025-01-13, 15:03:06](https://news.ycombinator.com/item?id=42684128) - [Why is Ashburn the data center capital of the world?](https://www.datacenters.com/news/why-is-ashburn-the-data-center-capital-of-the-world)
 * [2025-01-13, 04:10:21](https://news.ycombinator.com/item?id=42680002) - [Sutton Hoo and Syria: Anglo-Saxons who served in the Byzantine army?](https://academic.oup.com/ehr/advance-article/doi/10.1093/ehr/ceae213/7941799)
 * [2025-01-13, 01:53:18](https://news.ycombinator.com/item?id=42679191) - [Lambda Calculus in 383 Bytes (2022)](https://justine.lol/lambda/)
