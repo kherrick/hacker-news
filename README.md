@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-16, 08:59:39](https://news.ycombinator.com/item?id=42723060) - [Researchers use AI to design proteins that block snake venom toxins](https://arstechnica.com/science/2025/01/researchers-use-ai-to-design-proteins-that-block-snake-venom-toxins/)
 * [2025-01-16, 08:31:40](https://news.ycombinator.com/item?id=42722870) - [Setting Up an RK3588 SBC QEMU Hypervisor with ZFS on Debian](https://blog.kumio.org/posts/2025/01/bananapim7-hvm.html)
 * [2025-01-16, 08:17:40](https://news.ycombinator.com/item?id=42722756) - [Blue Origin reaches orbit on first flight of its titanic New Glenn rocket](https://arstechnica.com/space/2025/01/blue-origin-reaches-orbit-on-first-flight-of-its-titanic-new-glenn-rocket/)
 * [2025-01-16, 06:12:36](https://news.ycombinator.com/item?id=42721915) - [Nokia Design Archive](https://nokiadesignarchive.aalto.fi)
@@ -15,6 +14,7 @@
 * [2025-01-15, 16:09:07](https://news.ycombinator.com/item?id=42712666) - [Show HN: I built a fair alternative to Product Hunt for indie makers](https://news.ycombinator.com/item?id=42712666)
 * [2025-01-15, 15:55:13](https://news.ycombinator.com/item?id=42712433) - [Why is Cloudflare Pages' bandwidth unlimited?](https://mattsayar.com/why-does-cloudflare-pages-have-such-a-generous-free-tier/)
 * [2025-01-15, 15:27:55](https://news.ycombinator.com/item?id=42711966) - [Ropey – A UTF8 text rope for manipulating and editing large text](https://github.com/cessen/ropey)
+* [2025-01-15, 15:01:15](https://news.ycombinator.com/item?id=42711556) - [US will ban cancer-linked Red Dye No. 3 in cereal and other foods](https://www.bloomberg.com/news/articles/2025-01-15/us-fda-to-ban-red-dye-no-3-rfk-went-after-due-to-cancer-link)
 * [2025-01-15, 14:49:28](https://news.ycombinator.com/item?id=42711387) - [Modern JavaScript for Django developers](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/)
 * [2025-01-15, 14:15:17](https://news.ycombinator.com/item?id=42710978) - [Google is making AI in Gmail and Docs free, but raising the price of Workspace](https://www.theverge.com/2025/1/15/24343794/google-workspace-ai-features-free)
 * [2025-01-15, 12:57:31](https://news.ycombinator.com/item?id=42710339) - [TikTok preparing for U.S. shut-off on Sunday](https://www.reuters.com/technology/tiktok-preparing-us-shut-off-sunday-information-reports-2025-01-15/)
