@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-01-16](index.md)
 
+* [2025-01-16, 21:00:25](https://news.ycombinator.com/item?id=42730844) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2025-01-16, 20:00:02](https://news.ycombinator.com/item?id=42730126) - [US Export Control Framework for Artificial Intelligence Diffusion](https://www.regulations.gov/document/BIS_FRDOC_0001-0691)
 * [2025-01-16, 19:49:23](https://news.ycombinator.com/item?id=42729996) - [How can a top scientist be so confidently wrong? R. A. Fisher and smoking (2022)](https://statmodeling.stat.columbia.edu/2022/06/08/how-can-a-top-scientist-be-so-confidently-wrong-r-a-fisher-and-smoking-example/)
+* [2025-01-16, 19:22:31](https://news.ycombinator.com/item?id=42729677) - [Suchir Balaji Case Reopened: From ‘Suicide' to 'Active Investigation’](https://www.republicbiz.com/companies/suchir-balaji-case-reopened-from-suicide-to-active-investigation)
 * [2025-01-16, 19:22:31](https://news.ycombinator.com/item?id=42729677) - [Suchir Balaji Case Reopened: From ‘Suicide' to 'Active Investigation’](https://www.msn.com/en-in/news/India/suchir-balaji-case-reopened-from-suicide-to-active-investigation/ar-AA1xf9Q1)
 * [2025-01-16, 19:02:41](https://news.ycombinator.com/item?id=42729427) - [FEMA: Never donate clothing (it is never needed)](https://www.fema.gov/disaster/recover/volunteer-donate)
 * [2025-01-16, 18:56:33](https://news.ycombinator.com/item?id=42729347) - [The Washington Post kills off its \"Democracy Dies In Darkness\" slogan](https://www.avclub.com/washington-post-kills-democracy-dies-in-darkness-slogan)
