@@ -17,6 +17,7 @@
 * [2025-01-12, 21:10:34](https://news.ycombinator.com/item?id=42676974) - [Why this longtime Aspen ski executive thinks corporate sustainability is a scam](https://www.cpr.org/2025/01/12/auden-schendler-terrible-beauty-ski-corporate-sustainability/)
 * [2025-01-12, 21:04:56](https://news.ycombinator.com/item?id=42676928) - [Microsoft Bob: Microsoft's biggest flop of the 1990s](https://dfarq.homeip.net/microsoft-bob-microsofts-biggest-flop-of-the-199)
 * [2025-01-12, 20:27:28](https://news.ycombinator.com/item?id=42676613) - [What the TP-Link Ban in the US Means for You](https://thedefendopsdiaries.com/what-the-tp-link-ban-in-the-us-means-for-you/)
+* [2025-01-12, 20:20:07](https://news.ycombinator.com/item?id=42676545) - [Why some DVLA digital services don't work at night](https://dafyddvaughan.uk/blog/2025/why-some-dvla-digital-services-dont-work-at-night/)
 * [2025-01-12, 20:18:43](https://news.ycombinator.com/item?id=42676529) - [The Canva outage: another tale of saturation and resilience](https://surfingcomplexity.blog/2024/12/21/the-canva-outage-another-tale-of-saturation-and-resilience/)
 * [2025-01-12, 20:06:49](https://news.ycombinator.com/item?id=42676432) - [UV has a killer feature you should know about](https://valatka.dev/2025/01/12/on-killer-uv-feature.html)
 * [2025-01-12, 19:50:07](https://news.ycombinator.com/item?id=42676312) - [Thanks to Nvidia, there's a new generation of PCs coming and they'll run Linux](https://www.zdnet.com/article/thanks-to-nvidia-theres-a-new-generation-of-pcs-coming-and-theyll-be-running-linux/)
