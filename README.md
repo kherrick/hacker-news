@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-16, 21:59:38](https://news.ycombinator.com/item?id=42731460) - [Solving 100 Project Euler problems using 100 languages](https://github.com/jaredkrinke/100-languages)
 * [2025-01-16, 21:25:24](https://news.ycombinator.com/item?id=42731091) - [Starship Flight 7](https://www.spacex.com/launches/mission/?missionId=starship-flight-7?submit)
 * [2025-01-16, 21:00:25](https://news.ycombinator.com/item?id=42730844) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2025-01-16, 20:00:02](https://news.ycombinator.com/item?id=42730126) - [US Export Control Framework for Artificial Intelligence Diffusion](https://www.regulations.gov/document/BIS_FRDOC_0001-0691)
 * [2025-01-16, 19:22:31](https://news.ycombinator.com/item?id=42729677) - [Suchir Balaji Case Reopened: From ‘Suicide' to 'Active Investigation’](https://www.republicbiz.com/companies/suchir-balaji-case-reopened-from-suicide-to-active-investigation)
-* [2025-01-16, 18:47:56](https://news.ycombinator.com/item?id=42729225) - [Potoooooooo](https://en.wikipedia.org/wiki/Potoooooooo)
 * [2025-01-16, 18:24:09](https://news.ycombinator.com/item?id=42728916) - [Oh Shit, Git?](https://ohshitgit.com/)
 * [2025-01-16, 18:20:49](https://news.ycombinator.com/item?id=42728862) - [David Lynch has died](https://variety.com/2025/film/news/david-lynch-dead-director-blue-velvet-twin-peaks-1236276106/)
 * [2025-01-16, 17:24:39](https://news.ycombinator.com/item?id=42728165) - [Comment on 2015 mRNA paper suggests data re-used in different contexts](https://pubpeer.com/publications/323E84675EB2E849C56097D73D55FD#1)
