@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-16, 20:00:02](https://news.ycombinator.com/item?id=42730126) - [US Export Control Framework for Artificial Intelligence Diffusion](https://www.regulations.gov/document/BIS_FRDOC_0001-0691)
 * [2025-01-16, 19:49:23](https://news.ycombinator.com/item?id=42729996) - [How can a top scientist be so confidently wrong? R. A. Fisher and smoking (2022)](https://statmodeling.stat.columbia.edu/2022/06/08/how-can-a-top-scientist-be-so-confidently-wrong-r-a-fisher-and-smoking-example/)
 * [2025-01-16, 18:47:56](https://news.ycombinator.com/item?id=42729225) - [Potoooooooo](https://en.wikipedia.org/wiki/Potoooooooo)
 * [2025-01-16, 18:24:09](https://news.ycombinator.com/item?id=42728916) - [Oh Shit, Git?](https://ohshitgit.com/)
@@ -12,7 +13,6 @@
 * [2025-01-16, 15:36:43](https://news.ycombinator.com/item?id=42726678) - [Six day and IP address certificate options in 2025](https://letsencrypt.org/2025/01/16/6-day-and-ip-certs/)
 * [2025-01-16, 15:30:19](https://news.ycombinator.com/item?id=42726584) - [Test-driven development with an LLM for fun and profit](https://blog.yfzhou.fyi/posts/tdd-llm/)
 * [2025-01-16, 15:27:13](https://news.ycombinator.com/item?id=42726539) - [The Conundrum of Life's Origin](https://nautil.us/the-incredible-conundrum-of-lifes-origin-1178890/)
-* [2025-01-16, 14:45:25](https://news.ycombinator.com/item?id=42725862) - [Red Hat Woos VMware Shops with OpenShift Virtualization Engine](https://www.nextplatform.com/2025/01/15/red-hat-woos-vmware-shops-with-openshift-virtualization-engine/)
 * [2025-01-16, 14:43:20](https://news.ycombinator.com/item?id=42725823) - [Device uses wind to create ammonia out of air](https://spectrum.ieee.org/ammonia-fuel-2670794408)
 * [2025-01-16, 14:17:31](https://news.ycombinator.com/item?id=42725385) - [No Calls](https://keygen.sh/blog/no-calls/)
 * [2025-01-16, 13:57:43](https://news.ycombinator.com/item?id=42725147) - [Nepenthes is a tarpit to catch AI web crawlers](https://zadzmo.org/code/nepenthes/)
