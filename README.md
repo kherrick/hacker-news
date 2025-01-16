@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-16, 13:57:43](https://news.ycombinator.com/item?id=42725147) - [Nepenthes is a tarpit to catch AI web crawlers](https://zadzmo.org/code/nepenthes/)
 * [2025-01-16, 13:49:30](https://news.ycombinator.com/item?id=42725057) - [No Billionares at FOSDEM](https://drewdevault.com/2025/01/16/2025-01-16-No-Billionares-at-FOSDEM-please.html)
 * [2025-01-16, 13:30:05](https://news.ycombinator.com/item?id=42724823) - [Nintendo Switch 2](https://www.nintendo.com/successor/en-gb/index.html)
 * [2025-01-16, 13:23:32](https://news.ycombinator.com/item?id=42724761) - [Nokia's internal presentation after iPhone was launched](https://repo.aalto.fi/uncategorized/IO_926740c7-5165-439a-a020-5205aeb4d4d5/)
@@ -14,7 +15,6 @@
 * [2025-01-15, 22:39:49](https://news.ycombinator.com/item?id=42718166) - [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)
 * [2025-01-15, 21:23:55](https://news.ycombinator.com/item?id=42717234) - [I have made the decision to disband Hindenburg Research](https://hindenburgresearch.com/gratitude/)
 * [2025-01-15, 21:19:15](https://news.ycombinator.com/item?id=42717165) - [100x defect tolerance: How we solved the yield problem](https://cerebras.ai/blog/100x-defect-tolerance-how-cerebras-solved-the-yield-problem)
-* [2025-01-15, 20:26:49](https://news.ycombinator.com/item?id=42716440) - [Israel, Hamas reach ceasefire deal to end 15 months of war in Gaza](https://www.reuters.com/world/middle-east/gaza-ceasefire-appears-close-us-egyptian-leaders-put-focus-coming-hours-2025-01-14/)
 * [2025-01-15, 19:54:44](https://news.ycombinator.com/item?id=42716072) - [dnSpyEx: .NET debugger and assembly editor](https://github.com/dnSpyEx/dnSpy)
 * [2025-01-15, 16:09:07](https://news.ycombinator.com/item?id=42712666) - [Show HN: I built a fair alternative to Product Hunt for indie makers](https://news.ycombinator.com/item?id=42712666)
 * [2025-01-15, 15:55:13](https://news.ycombinator.com/item?id=42712433) - [Why is Cloudflare Pages' bandwidth unlimited?](https://mattsayar.com/why-does-cloudflare-pages-have-such-a-generous-free-tier/)
