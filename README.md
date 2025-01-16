@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-16, 13:23:32](https://news.ycombinator.com/item?id=42724761) - [Nokia's internal presentation after iPhone was launched](https://repo.aalto.fi/uncategorized/IO_926740c7-5165-439a-a020-5205aeb4d4d5/)
 * [2025-01-16, 13:08:14](https://news.ycombinator.com/item?id=42724621) - [Nintendo announces the Switch 2 [video]](https://www.youtube.com/watch?v=itpcsQQvgAQ)
 * [2025-01-16, 10:17:01](https://news.ycombinator.com/item?id=42723543) - [Is there such a thing as a web-safe font?](https://www.highperformancewebfonts.com/read/web-safe-fonts)
+* [2025-01-16, 10:12:04](https://news.ycombinator.com/item?id=42723504) - [Apple's interoperability efforts aren't meeting spirit or letter of EU law](https://www.theregister.com/2025/01/16/apple_dma_compliance_criticized/)
 * [2025-01-16, 09:57:59](https://news.ycombinator.com/item?id=42723406) - [Mathematicians Discover New Way for Spheres to 'Kiss'](https://www.quantamagazine.org/mathematicians-discover-new-way-for-spheres-to-kiss-20250115/)
 * [2025-01-16, 08:31:40](https://news.ycombinator.com/item?id=42722870) - [Setting Up an RK3588 SBC QEMU Hypervisor with ZFS on Debian](https://blog.kumio.org/posts/2025/01/bananapim7-hvm.html)
 * [2025-01-16, 08:17:40](https://news.ycombinator.com/item?id=42722756) - [Blue Origin reaches orbit on first flight of its titanic New Glenn rocket](https://arstechnica.com/space/2025/01/blue-origin-reaches-orbit-on-first-flight-of-its-titanic-new-glenn-rocket/)
@@ -20,7 +22,6 @@
 * [2025-01-15, 09:43:03](https://news.ycombinator.com/item?id=42709105) - [Sky-scanning complete for Gaia](https://www.esa.int/ESA_Multimedia/Images/2025/01/Sky-scanning_complete_for_Gaia)
 * [2025-01-15, 04:15:43](https://news.ycombinator.com/item?id=42707238) - [Nobody cares](https://grantslatton.com/nobody-cares)
 * [2025-01-14, 11:48:46](https://news.ycombinator.com/item?id=42696151) - [What Every Hacker Should Know About TLB Invalidation [pdf]](https://grsecurity.net/h2hc_2024_what_every_hacker_should_know_TLB_invalidation.pdf)
-* [2025-01-13, 23:13:23](https://news.ycombinator.com/item?id=42690857) - [Ask HN: Dense Tree Layout Algorithms](https://news.ycombinator.com/item?id=42690857)
 * [2025-01-13, 15:03:06](https://news.ycombinator.com/item?id=42684128) - [Why is Ashburn the data center capital of the world?](https://www.datacenters.com/news/why-is-ashburn-the-data-center-capital-of-the-world)
 * [2025-01-13, 14:16:15](https://news.ycombinator.com/item?id=42683616) - [Understanding Memory Management, Part 1: C](https://educatedguesswork.org/posts/memory-management-1/)
 * [2025-01-13, 09:16:17](https://news.ycombinator.com/item?id=42681545) - [What I Learned Failing to Finish a Game in 2024](https://georgeallen.dev/posts/2024-failures-in-game-development/)
@@ -29,7 +30,6 @@
 * [2025-01-12, 18:53:26](https://news.ycombinator.com/item?id=42675804) - [Apache DataFusion](https://datafusion.apache.org/)
 * [2025-01-12, 14:25:04](https://news.ycombinator.com/item?id=42673752) - [Remembering Matilda, the last survivor of the transatlantic slave trade](https://www.aljazeera.com/features/2025/1/12/remembering-matilda-the-last-survivor-of-the-transatlantic-slave-trade)
 * [2025-01-11, 23:43:33](https://news.ycombinator.com/item?id=42669906) - [Why the weak nuclear force is short range](https://profmattstrassler.com/articles-and-posts/particle-physics-basics/the-astonishing-standard-model/why-the-weak-nuclear-force-is-short-range/)
-* [2025-01-11, 16:35:00](https://news.ycombinator.com/item?id=42666959) - [Homomorphic encryption in iOS 18](https://boehs.org/node/homomorphic-encryption)
 
 ## [Archives](archives/index.md)
 

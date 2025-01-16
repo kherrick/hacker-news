@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-01-16](index.md)
 
+* [2025-01-16, 13:23:32](https://news.ycombinator.com/item?id=42724761) - [Nokia's internal presentation after iPhone was launched](https://repo.aalto.fi/uncategorized/IO_926740c7-5165-439a-a020-5205aeb4d4d5/)
 * [2025-01-16, 13:08:14](https://news.ycombinator.com/item?id=42724621) - [Nintendo announces the Switch 2 [video]](https://www.youtube.com/watch?v=itpcsQQvgAQ)
 * [2025-01-16, 10:17:01](https://news.ycombinator.com/item?id=42723543) - [Is there such a thing as a web-safe font?](https://www.highperformancewebfonts.com/read/web-safe-fonts)
+* [2025-01-16, 10:12:04](https://news.ycombinator.com/item?id=42723504) - [Apple's interoperability efforts aren't meeting spirit or letter of EU law](https://www.theregister.com/2025/01/16/apple_dma_compliance_criticized/)
 * [2025-01-16, 09:57:59](https://news.ycombinator.com/item?id=42723406) - [Mathematicians Discover New Way for Spheres to 'Kiss'](https://www.quantamagazine.org/mathematicians-discover-new-way-for-spheres-to-kiss-20250115/)
 * [2025-01-16, 08:59:39](https://news.ycombinator.com/item?id=42723060) - [Researchers use AI to design proteins that block snake venom toxins](https://arstechnica.com/science/2025/01/researchers-use-ai-to-design-proteins-that-block-snake-venom-toxins/)
 * [2025-01-16, 08:31:40](https://news.ycombinator.com/item?id=42722870) - [Setting Up an RK3588 SBC QEMU Hypervisor with ZFS on Debian](https://blog.kumio.org/posts/2025/01/bananapim7-hvm.html)
