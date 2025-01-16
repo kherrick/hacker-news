@@ -24,6 +24,7 @@
 * [2025-01-13, 18:55:31](https://news.ycombinator.com/item?id=42687121) - [WordPress Is in Trouble](https://anderegg.ca/2025/01/11/wordpress-is-in-trouble)
 * [2025-01-13, 18:48:56](https://news.ycombinator.com/item?id=42687033) - [Mark Zuckerberg says AI could soon do the work of Meta's midlevel engineers](https://www.businessinsider.com/mark-zuckerberg-meta-ai-replace-engineers-coders-joe-rogan-podcast-2025-1)
 * [2025-01-13, 18:11:17](https://news.ycombinator.com/item?id=42686457) - [AI Engineer Reading List](https://www.latent.space/p/2025-papers)
+* [2025-01-13, 18:01:51](https://news.ycombinator.com/item?id=42686374) - [Implementing Streaming SSR with React Relay and Vite](https://aqora.io/blog/AEJsb2dBcnRpY2xlAZRgyH4wdeKfFHS0yil0Fw/implementing-streaming-ssr-with-react-relay-and-vite)
 * [2025-01-13, 17:42:29](https://news.ycombinator.com/item?id=42686151) - [The Movement to Redirect Billions of Taxpayer Dollars to Private Schools](https://www.propublica.org/article/school-vouchers-ohio-church-state-tax-dollars-private-religious)
 * [2025-01-13, 17:42:00](https://news.ycombinator.com/item?id=42686144) - [Cosmos Keyboard: Scan your hand, build a keyboard](https://ryanis.cool/cosmos/)
 * [2025-01-13, 17:27:38](https://news.ycombinator.com/item?id=42685967) - [Syria flooded with Pepsi and Pringles as rulers open economy](https://www.ft.com/content/a1d032b6-f91b-465f-b3fa-9b46ae072fe5)
