@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-01-16](index.md)
 
 * [2025-01-16, 17:24:39](https://news.ycombinator.com/item?id=42728165) - [Same three bands appear in three different presentations with different labels](https://pubpeer.com/publications/323E84675EB2E849C56097D73D55FD#1)
+* [2025-01-16, 17:15:43](https://news.ycombinator.com/item?id=42728054) - [I am offering mentoring: In which I help you](https://dynomight.substack.com/p/mentoring)
+* [2025-01-16, 17:13:07](https://news.ycombinator.com/item?id=42728015) - [GitHub Linux ARM64 hosted runners now available for free in public repositories](https://github.blog/changelog/2025-01-16-linux-arm64-hosted-runners-now-available-for-free-in-public-repositories-public-preview/)
 * [2025-01-16, 17:10:35](https://news.ycombinator.com/item?id=42727970) - [Show HN: DBOS TypeScript – Lightweight Durable Execution Built on Postgres](https://github.com/dbos-inc/dbos-transact-ts)
 * [2025-01-16, 17:00:09](https://news.ycombinator.com/item?id=42727820) - [Artie (YC S23) Is Hiring a Founding Engineer (Distributed Systems)](https://www.ycombinator.com/companies/artie/jobs/Vz704T1-founding-engineer-distributed-systems)
 * [2025-01-16, 16:46:57](https://news.ycombinator.com/item?id=42727673) - [California's future depends on how leaders rebuild after the Los Angeles fires](https://www.vox.com/housing/395049/california-lacounty-wildfires-altadena-pasadena-pacific-palisades-housing-homelessess-permitting-ceqa-coastal-rebuild)

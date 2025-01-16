@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-16, 17:24:39](https://news.ycombinator.com/item?id=42728165) - [Same three bands appear in three different presentations with different labels](https://pubpeer.com/publications/323E84675EB2E849C56097D73D55FD#1)
+* [2025-01-16, 17:15:43](https://news.ycombinator.com/item?id=42728054) - [I am offering mentoring: In which I help you](https://dynomight.substack.com/p/mentoring)
+* [2025-01-16, 17:13:07](https://news.ycombinator.com/item?id=42728015) - [GitHub Linux ARM64 hosted runners now available for free in public repositories](https://github.blog/changelog/2025-01-16-linux-arm64-hosted-runners-now-available-for-free-in-public-repositories-public-preview/)
 * [2025-01-16, 17:10:35](https://news.ycombinator.com/item?id=42727970) - [Show HN: DBOS TypeScript – Lightweight Durable Execution Built on Postgres](https://github.com/dbos-inc/dbos-transact-ts)
 * [2025-01-16, 17:00:09](https://news.ycombinator.com/item?id=42727820) - [Artie (YC S23) Is Hiring a Founding Engineer (Distributed Systems)](https://www.ycombinator.com/companies/artie/jobs/Vz704T1-founding-engineer-distributed-systems)
 * [2025-01-16, 16:46:57](https://news.ycombinator.com/item?id=42727673) - [California's future depends on how leaders rebuild after the Los Angeles fires](https://www.vox.com/housing/395049/california-lacounty-wildfires-altadena-pasadena-pacific-palisades-housing-homelessess-permitting-ceqa-coastal-rebuild)
@@ -8,7 +10,6 @@
 * [2025-01-16, 15:27:13](https://news.ycombinator.com/item?id=42726539) - [The Conundrum of Life's Origin](https://nautil.us/the-incredible-conundrum-of-lifes-origin-1178890/)
 * [2025-01-16, 14:45:25](https://news.ycombinator.com/item?id=42725862) - [Red Hat Woos VMware Shops with OpenShift Virtualization Engine](https://www.nextplatform.com/2025/01/15/red-hat-woos-vmware-shops-with-openshift-virtualization-engine/)
 * [2025-01-16, 14:43:20](https://news.ycombinator.com/item?id=42725823) - [Stanford Researchers Produce Ammonia Fuel from Thin Air](https://spectrum.ieee.org/ammonia-fuel-2670794408)
-* [2025-01-16, 14:37:18](https://news.ycombinator.com/item?id=42725731) - [Directory of job boards by category (remote only, data science, etc.)](https://www.jobsearchdb.com/)
 * [2025-01-16, 14:17:31](https://news.ycombinator.com/item?id=42725385) - [No Calls](https://keygen.sh/blog/no-calls/)
 * [2025-01-16, 13:57:43](https://news.ycombinator.com/item?id=42725147) - [Nepenthes is a tarpit to catch AI web crawlers](https://zadzmo.org/code/nepenthes/)
 * [2025-01-16, 13:23:32](https://news.ycombinator.com/item?id=42724761) - [Nokia's internal presentation after iPhone was launched (2007) [pdf]](https://nokia-apple-iphone-was-launched-presentation.tiiny.site/)
@@ -23,13 +24,12 @@
 * [2025-01-15, 21:35:41](https://news.ycombinator.com/item?id=42717393) - [2k-year-old wine and the uncanny immediacy of the past](https://resobscura.substack.com/p/2000-year-old-wine-and-the-uncanny)
 * [2025-01-15, 21:23:55](https://news.ycombinator.com/item?id=42717234) - [I have made the decision to disband Hindenburg Research](https://hindenburgresearch.com/gratitude/)
 * [2025-01-15, 21:19:15](https://news.ycombinator.com/item?id=42717165) - [100x defect tolerance: How we solved the yield problem](https://cerebras.ai/blog/100x-defect-tolerance-how-cerebras-solved-the-yield-problem)
-* [2025-01-15, 19:54:44](https://news.ycombinator.com/item?id=42716072) - [dnSpyEx: .NET debugger and assembly editor](https://github.com/dnSpyEx/dnSpy)
 * [2025-01-15, 15:55:13](https://news.ycombinator.com/item?id=42712433) - [Why is Cloudflare Pages' bandwidth unlimited?](https://mattsayar.com/why-does-cloudflare-pages-have-such-a-generous-free-tier/)
 * [2025-01-15, 14:15:17](https://news.ycombinator.com/item?id=42710978) - [Google is making AI in Gmail and Docs free, but raising the price of Workspace](https://www.theverge.com/2025/1/15/24343794/google-workspace-ai-features-free)
 * [2025-01-14, 11:48:46](https://news.ycombinator.com/item?id=42696151) - [What Every Hacker Should Know About TLB Invalidation [pdf]](https://grsecurity.net/h2hc_2024_what_every_hacker_should_know_TLB_invalidation.pdf)
+* [2025-01-13, 22:08:51](https://news.ycombinator.com/item?id=42690114) - [Five Years of React Native at Shopify](https://shopify.engineering/five-years-of-react-native-at-shopify)
 * [2025-01-13, 14:28:33](https://news.ycombinator.com/item?id=42683731) - [Physically Based Rendering: From Theory to Implementation](https://pbr-book.org)
 * [2025-01-13, 14:16:15](https://news.ycombinator.com/item?id=42683616) - [Understanding Memory Management, Part 1: C](https://educatedguesswork.org/posts/memory-management-1/)
-* [2025-01-11, 23:43:33](https://news.ycombinator.com/item?id=42669906) - [Why the weak nuclear force is short range](https://profmattstrassler.com/articles-and-posts/particle-physics-basics/the-astonishing-standard-model/why-the-weak-nuclear-force-is-short-range/)
 
 ## [Archives](archives/index.md)
 
