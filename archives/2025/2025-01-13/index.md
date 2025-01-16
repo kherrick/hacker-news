@@ -60,6 +60,7 @@
 * [2025-01-13, 10:46:29](https://news.ycombinator.com/item?id=42682093) - [Fedora 42 Looks to Ship Optimized Executables for Different x86_64 Capabilities](https://www.phoronix.com/news/Fedora-42-Optimized-Executables)
 * [2025-01-13, 10:38:31](https://news.ycombinator.com/item?id=42682055) - [AI Tools: Impacts on Cognitive Offloading and the Future of Critical Thinking](https://www.mdpi.com/2075-4698/15/1/6)
 * [2025-01-13, 10:23:50](https://news.ycombinator.com/item?id=42681976) - [Mastodon announces new European non-profit, change of CEO](https://blog.joinmastodon.org/2025/01/the-people-should-own-the-town-square/)
+* [2025-01-13, 10:14:06](https://news.ycombinator.com/item?id=42681917) - [Porting the GNAT Ada compiler to macOS/aarch64](https://briancallahan.net/blog/20250112.html)
 * [2025-01-13, 10:06:08](https://news.ycombinator.com/item?id=42681866) - [Show HN: JUring – Java bindings for io_uring file I/O](https://github.com/davidtos/JUring)
 * [2025-01-13, 09:55:27](https://news.ycombinator.com/item?id=42681794) - [Langfuse (YC W23) Is Hiring OSS Engineers in Berlin](https://github.com/langfuse/langfuse/blob/main/careers)
 * [2025-01-13, 09:55:24](https://news.ycombinator.com/item?id=42681793) - [Stretching Each Dollar: Diffusion Training from Scratch on a Micro-Budget](https://github.com/SonyResearch/micro_diffusion)
