@@ -71,6 +71,7 @@
 * [2025-01-14, 07:08:59](https://news.ycombinator.com/item?id=42694596) - [ZFS 2.3.0 released with ZFS raidz expansion](https://github.com/openzfs/zfs/releases/tag/zfs-2.3.0)
 * [2025-01-14, 06:25:17](https://news.ycombinator.com/item?id=42694348) - [Byte Queue Limits – The unauthorized biography](https://medium.com/@tom_84912/byte-queue-limits-the-unauthorized-biography-61adc5730b83)
 * [2025-01-14, 04:59:32](https://news.ycombinator.com/item?id=42693849) - [The Sikh Practice of Langar, a Free Meal Where Everyone Is Equal](https://www.wttw.com/playlist/2022/04/05/langar-maah-chhole-daal)
+* [2025-01-14, 03:32:27](https://news.ycombinator.com/item?id=42693239) - [Laser technique measures distances with nanometre precision](https://www.newscientist.com/article/2463645-laser-technique-measures-vast-distances-with-nanometre-precision/)
 * [2025-01-14, 02:26:46](https://news.ycombinator.com/item?id=42692730) - [43K fewer drivers on Manhattan roads after congestion pricing turned on](https://gothamist.com/news/43k-fewer-drivers-on-manhattan-roads-after-congestion-pricing-turned-on-mta-says)
 * [2025-01-14, 01:31:24](https://news.ycombinator.com/item?id=42692311) - [Campsite is now open source](https://github.com/campsite/campsite)
 * [2025-01-14, 01:22:59](https://news.ycombinator.com/item?id=42692237) - [Bank of Mum and Dad: why we all now live in an 'inheritocracy'](https://www.theguardian.com/lifeandstyle/2024/nov/17/bank-of-mum-and-dad-why-we-all-now-live-in-an-inheritocracy)
