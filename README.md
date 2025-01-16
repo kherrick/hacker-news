@@ -2,6 +2,7 @@
 
 * [2025-01-16, 20:00:02](https://news.ycombinator.com/item?id=42730126) - [US Export Control Framework for Artificial Intelligence Diffusion](https://www.regulations.gov/document/BIS_FRDOC_0001-0691)
 * [2025-01-16, 19:49:23](https://news.ycombinator.com/item?id=42729996) - [How can a top scientist be so confidently wrong? R. A. Fisher and smoking (2022)](https://statmodeling.stat.columbia.edu/2022/06/08/how-can-a-top-scientist-be-so-confidently-wrong-r-a-fisher-and-smoking-example/)
+* [2025-01-16, 19:22:31](https://news.ycombinator.com/item?id=42729677) - [Suchir Balaji Case Reopened: From ‘Suicide' to 'Active Investigation’](https://www.msn.com/en-in/news/India/suchir-balaji-case-reopened-from-suicide-to-active-investigation/ar-AA1xf9Q1)
 * [2025-01-16, 18:47:56](https://news.ycombinator.com/item?id=42729225) - [Potoooooooo](https://en.wikipedia.org/wiki/Potoooooooo)
 * [2025-01-16, 18:24:09](https://news.ycombinator.com/item?id=42728916) - [Oh Shit, Git?](https://ohshitgit.com/)
 * [2025-01-16, 18:20:49](https://news.ycombinator.com/item?id=42728862) - [David Lynch has died](https://variety.com/2025/film/news/david-lynch-dead-director-blue-velvet-twin-peaks-1236276106/)
@@ -21,7 +22,6 @@
 * [2025-01-16, 13:08:14](https://news.ycombinator.com/item?id=42724621) - [Nintendo announces the Switch 2 [video]](https://www.youtube.com/watch?v=itpcsQQvgAQ)
 * [2025-01-16, 12:18:32](https://news.ycombinator.com/item?id=42724284) - [I ditched the algorithm for RSS](https://joeyehand.com/blog/2025/01/15/i-ditched-the-algorithm-for-rssand-you-should-too/)
 * [2025-01-16, 09:57:59](https://news.ycombinator.com/item?id=42723406) - [Mathematicians discover new way for spheres to 'kiss'](https://www.quantamagazine.org/mathematicians-discover-new-way-for-spheres-to-kiss-20250115/)
-* [2025-01-16, 06:12:36](https://news.ycombinator.com/item?id=42721915) - [Nokia Design Archive](https://nokiadesignarchive.aalto.fi)
 * [2025-01-16, 05:00:08](https://news.ycombinator.com/item?id=42721442) - [Intel's Tofino P4 Software Is Now Open Source](https://p4.org/intels-tofino-p4-software-is-now-open-source/)
 * [2025-01-15, 21:35:41](https://news.ycombinator.com/item?id=42717393) - [2k-year-old wine and the uncanny immediacy of the past](https://resobscura.substack.com/p/2000-year-old-wine-and-the-uncanny)
 * [2025-01-13, 22:08:51](https://news.ycombinator.com/item?id=42690114) - [Five years of React Native at Shopify](https://shopify.engineering/five-years-of-react-native-at-shopify)
