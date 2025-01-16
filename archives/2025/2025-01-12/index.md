@@ -90,6 +90,7 @@
 * [2025-01-12, 05:17:50](https://news.ycombinator.com/item?id=42671472) - [Kenney.nl: Free Game Assets](https://www.kenney.nl/)
 * [2025-01-12, 05:06:17](https://news.ycombinator.com/item?id=42671427) - [Aaron Swartz and Sam Altman](https://journa.host/@jeremiak/113811327999722586)
 * [2025-01-12, 04:47:25](https://news.ycombinator.com/item?id=42671351) - [What the US Pornhub 'ban' is really about](https://www.independent.co.uk/news/world/americas/pornhub-ban-block-age-verification-b2677710.html)
+* [2025-01-12, 04:11:16](https://news.ycombinator.com/item?id=42671221) - [First AI-generated and 3D-printed shoe makes its dubious debut](https://newatlas.com/lifestyle/syntilay-worlds-first-ai-generated-3d-printed-shoe/)
 * [2025-01-12, 03:55:31](https://news.ycombinator.com/item?id=42671162) - [Two Waves of Aging: How Midlife Biomolecular Shifts Accelerate Decline](https://gethealthspan.com/science/article/two-waves-of-aging-biomolecular-shifts-healthspan)
 * [2025-01-12, 03:38:25](https://news.ycombinator.com/item?id=42671105) - [Why I Chose Common Lisp](https://blog.djhaskin.com/blog/why-i-chose-common-lisp/)
 * [2025-01-12, 02:39:38](https://news.ycombinator.com/item?id=42670808) - [Ask HN: Pull the curtain back on Nvidia's CES keynote please](https://news.ycombinator.com/item?id=42670808)

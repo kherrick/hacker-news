@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-15](index.md)
 
+* [2025-01-15, 23:41:52](https://news.ycombinator.com/item?id=42718850) - [OpenAI Fails to Deliver Opt-Out System for Photographers](https://petapixel.com/2025/01/06/openai-fails-to-deliver-opt-out-system-for-photographers/)
 * [2025-01-15, 21:23:55](https://news.ycombinator.com/item?id=42717234) - [I have made the decision to disband Hindenburg Research](https://hindenburgresearch.com/gratitude/)
 * [2025-01-15, 21:19:15](https://news.ycombinator.com/item?id=42717165) - [100x Defect Tolerance: How Cerebras Solved the Yield Problem](https://cerebras.ai/blog/100x-defect-tolerance-how-cerebras-solved-the-yield-problem)
 * [2025-01-15, 21:17:53](https://news.ycombinator.com/item?id=42717149) - [Ludum Dare 2025 is cancelled](https://ludumdare.com/news/taking-a-break/)
