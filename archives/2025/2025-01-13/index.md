@@ -39,6 +39,7 @@
 * [2025-01-13, 14:28:46](https://news.ycombinator.com/item?id=42683736) - [Why Skyscrapers Became Glass Boxes](https://www.construction-physics.com/p/why-skyscrapers-became-glass-boxes)
 * [2025-01-13, 14:18:48](https://news.ycombinator.com/item?id=42683635) - [Hotel booking sites overcharge Bay Area customers](https://www.sfgate.com/travel/article/hotel-booking-sites-overcharge-bay-area-travelers-20025145.php)
 * [2025-01-13, 14:18:08](https://news.ycombinator.com/item?id=42683630) - [US-owned Greenland and Gulf of America? What a weird week](https://www.theregister.com/2025/01/11/opinion_column_us_moves/)
+* [2025-01-13, 14:16:15](https://news.ycombinator.com/item?id=42683616) - [Understanding Memory Management, Part 1: C](https://educatedguesswork.org/posts/memory-management-1/)
 * [2025-01-13, 14:10:33](https://news.ycombinator.com/item?id=42683567) - [Luck Be a Landlord Might Be Banned from Google Play](https://blog.trampolinetales.com/luck-be-a-landlord-might-be-banned-from-google-play-2/)
 * [2025-01-13, 14:02:39](https://news.ycombinator.com/item?id=42683494) - [Ask HN: How do you prevent the impact of social media on your children?](https://news.ycombinator.com/item?id=42683494)
 * [2025-01-13, 13:50:46](https://news.ycombinator.com/item?id=42683389) - [Fluid Simulation Pendant](https://mitxela.com/projects/fluid-pendant)
