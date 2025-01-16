@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-16, 08:59:39](https://news.ycombinator.com/item?id=42723060) - [Researchers use AI to design proteins that block snake venom toxins](https://arstechnica.com/science/2025/01/researchers-use-ai-to-design-proteins-that-block-snake-venom-toxins/)
+* [2025-01-16, 08:31:40](https://news.ycombinator.com/item?id=42722870) - [Setting Up an RK3588 SBC QEMU Hypervisor with ZFS on Debian](https://blog.kumio.org/posts/2025/01/bananapim7-hvm.html)
 * [2025-01-16, 08:17:40](https://news.ycombinator.com/item?id=42722756) - [Blue Origin reaches orbit on first flight of its titanic New Glenn rocket](https://arstechnica.com/space/2025/01/blue-origin-reaches-orbit-on-first-flight-of-its-titanic-new-glenn-rocket/)
 * [2025-01-16, 06:12:36](https://news.ycombinator.com/item?id=42721915) - [Nokia Design Archive](https://nokiadesignarchive.aalto.fi)
 * [2025-01-16, 05:00:08](https://news.ycombinator.com/item?id=42721442) - [Intel's Tofino P4 Software Is Now Open Source](https://p4.org/intels-tofino-p4-software-is-now-open-source/)
@@ -20,7 +21,6 @@
 * [2025-01-15, 12:57:31](https://news.ycombinator.com/item?id=42710339) - [TikTok preparing for U.S. shut-off on Sunday](https://www.reuters.com/technology/tiktok-preparing-us-shut-off-sunday-information-reports-2025-01-15/)
 * [2025-01-15, 09:43:03](https://news.ycombinator.com/item?id=42709105) - [Sky-scanning complete for Gaia](https://www.esa.int/ESA_Multimedia/Images/2025/01/Sky-scanning_complete_for_Gaia)
 * [2025-01-15, 04:15:43](https://news.ycombinator.com/item?id=42707238) - [Nobody cares](https://grantslatton.com/nobody-cares)
-* [2025-01-14, 14:17:52](https://news.ycombinator.com/item?id=42697467) - [Take the pedals off the bike](https://www.fortressofdoors.com/take-the-pedals-off-the-bike/)
 * [2025-01-14, 13:24:31](https://news.ycombinator.com/item?id=42696857) - [Leaving a permanent record of humanity on the moon – in 100B pixels](https://www.aljazeera.com/features/2025/1/11/leaving-a-permanent-record-of-humanity-on-the-moon-in-100-billion-pixels)
 * [2025-01-13, 23:13:23](https://news.ycombinator.com/item?id=42690857) - [Ask HN: Dense Tree Layout Algorithms](https://news.ycombinator.com/item?id=42690857)
 * [2025-01-13, 15:03:06](https://news.ycombinator.com/item?id=42684128) - [Why is Ashburn the data center capital of the world?](https://www.datacenters.com/news/why-is-ashburn-the-data-center-capital-of-the-world)
