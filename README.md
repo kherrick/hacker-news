@@ -21,7 +21,7 @@
 * [2025-01-15, 12:57:31](https://news.ycombinator.com/item?id=42710339) - [TikTok preparing for U.S. shut-off on Sunday](https://www.reuters.com/technology/tiktok-preparing-us-shut-off-sunday-information-reports-2025-01-15/)
 * [2025-01-15, 09:43:03](https://news.ycombinator.com/item?id=42709105) - [Sky-scanning complete for Gaia](https://www.esa.int/ESA_Multimedia/Images/2025/01/Sky-scanning_complete_for_Gaia)
 * [2025-01-15, 04:15:43](https://news.ycombinator.com/item?id=42707238) - [Nobody cares](https://grantslatton.com/nobody-cares)
-* [2025-01-14, 13:24:31](https://news.ycombinator.com/item?id=42696857) - [Leaving a permanent record of humanity on the moon – in 100B pixels](https://www.aljazeera.com/features/2025/1/11/leaving-a-permanent-record-of-humanity-on-the-moon-in-100-billion-pixels)
+* [2025-01-14, 11:48:46](https://news.ycombinator.com/item?id=42696151) - [What Every Hacker Should Know About TLB Invalidation [pdf]](https://grsecurity.net/h2hc_2024_what_every_hacker_should_know_TLB_invalidation.pdf)
 * [2025-01-13, 23:13:23](https://news.ycombinator.com/item?id=42690857) - [Ask HN: Dense Tree Layout Algorithms](https://news.ycombinator.com/item?id=42690857)
 * [2025-01-13, 15:03:06](https://news.ycombinator.com/item?id=42684128) - [Why is Ashburn the data center capital of the world?](https://www.datacenters.com/news/why-is-ashburn-the-data-center-capital-of-the-world)
 * [2025-01-13, 01:53:18](https://news.ycombinator.com/item?id=42679191) - [Lambda Calculus in 383 Bytes (2022)](https://justine.lol/lambda/)
