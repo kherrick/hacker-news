@@ -16,6 +16,7 @@
 * [2025-01-13, 19:52:20](https://news.ycombinator.com/item?id=42688105) - [Moral Progress Is Annoying](https://aeon.co/essays/why-does-moral-progress-feel-preachy-and-annoying)
 * [2025-01-13, 19:42:48](https://news.ycombinator.com/item?id=42687932) - [Sonos CEO Patrick Spence steps down after app update debacle](https://www.reuters.com/business/retail-consumer/sonos-ceo-patrick-spence-steps-down-after-app-update-debacle-2025-01-13/)
 * [2025-01-13, 19:39:21](https://news.ycombinator.com/item?id=42687861) - [New York starts enforcing $15 broadband law that ISPs tried to kill](https://arstechnica.com/tech-policy/2025/01/new-york-starts-enforcing-15-broadband-law-that-isps-tried-to-kill/)
+* [2025-01-13, 19:19:42](https://news.ycombinator.com/item?id=42687510) - [Nvidia might do for desktop AI what it did for desktop gaming](https://www.theangle.com/p/nvidia-might-do-for-desktop-ai-what)
 * [2025-01-13, 18:56:47](https://news.ycombinator.com/item?id=42687133) - [Corn Syrup Took over America](https://thehustle.co/originals/how-corn-syrup-took-over-america)
 * [2025-01-13, 18:56:31](https://news.ycombinator.com/item?id=42687131) - [The people fighting to get through to anti-science Americans](https://www.theguardian.com/us-news/2025/jan/13/science-trust-experts-communication)
 * [2025-01-13, 18:55:31](https://news.ycombinator.com/item?id=42687121) - [WordPress Is in Trouble](https://anderegg.ca/2025/01/11/wordpress-is-in-trouble)
