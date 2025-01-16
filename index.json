@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-16, 00:22:40",
+      "https://news.ycombinator.com/item?id=42719245"
+    ],
+    [
+      "Docker Desktop Broken on Mac OS Update for over a Week",
+      "https://www.dockerstatus.com/"
+    ]
+  ],
+  [
+    [
       "2025-01-15, 23:41:52",
       "https://news.ycombinator.com/item?id=42718850"
     ],
@@ -247,16 +257,6 @@
     [
       "Apache DataFusion",
       "https://datafusion.apache.org/"
-    ]
-  ],
-  [
-    [
-      "2025-01-12, 12:41:49",
-      "https://news.ycombinator.com/item?id=42673171"
-    ],
-    [
-      "Imaging mounted disk volumes under duress (2021)",
-      "https://blog.benjojo.co.uk/post/imaging-mounted-disk-volumes-live"
     ]
   ],
   [
