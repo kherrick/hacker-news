@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-16](index.md)
 
+* [2025-01-16, 19:49:23](https://news.ycombinator.com/item?id=42729996) - [How can a top scientist be so confidently wrong? R. A. Fisher and smoking (2022)](https://statmodeling.stat.columbia.edu/2022/06/08/how-can-a-top-scientist-be-so-confidently-wrong-r-a-fisher-and-smoking-example/)
 * [2025-01-16, 19:02:41](https://news.ycombinator.com/item?id=42729427) - [FEMA: Never donate clothing (it is never needed)](https://www.fema.gov/disaster/recover/volunteer-donate)
 * [2025-01-16, 18:56:33](https://news.ycombinator.com/item?id=42729347) - [The Washington Post kills off its \"Democracy Dies In Darkness\" slogan](https://www.avclub.com/washington-post-kills-democracy-dies-in-darkness-slogan)
 * [2025-01-16, 18:47:56](https://news.ycombinator.com/item?id=42729225) - [Potoooooooo](https://en.wikipedia.org/wiki/Potoooooooo)
