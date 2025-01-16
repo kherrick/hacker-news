@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-16, 16:33:13](https://news.ycombinator.com/item?id=42727513) - [Walgreens replaced fridge doors with smart screens. It's now a $200M fiasco](https://www.bloomberg.com/news/features/2025-01-16/walgreens-fridge-fight-bodes-poorly-for-future-of-retail)
 * [2025-01-16, 15:30:19](https://news.ycombinator.com/item?id=42726584) - [Test-Driven Development with an LLM for Fun and Profit](https://blog.yfzhou.fyi/posts/tdd-llm/)
 * [2025-01-16, 15:27:13](https://news.ycombinator.com/item?id=42726539) - [The Conundrum of Life's Origin](https://nautil.us/the-incredible-conundrum-of-lifes-origin-1178890/)
-* [2025-01-16, 15:27:05](https://news.ycombinator.com/item?id=42726535) - [Astronomers discover neutron star with an incredibly slow six-hour spin](https://www.abc.net.au/news/science/2025-01-16/neutron-star-radio-transient-6-hours/104799106)
 * [2025-01-16, 14:45:25](https://news.ycombinator.com/item?id=42725862) - [Red Hat Woos VMware Shops with OpenShift Virtualization Engine](https://www.nextplatform.com/2025/01/15/red-hat-woos-vmware-shops-with-openshift-virtualization-engine/)
 * [2025-01-16, 14:43:20](https://news.ycombinator.com/item?id=42725823) - [Stanford Researchers Produce Ammonia Fuel from Thin Air](https://spectrum.ieee.org/ammonia-fuel-2670794408)
 * [2025-01-16, 14:17:31](https://news.ycombinator.com/item?id=42725385) - [No Calls](https://keygen.sh/blog/no-calls/)
@@ -11,7 +11,6 @@
 * [2025-01-16, 13:23:17](https://news.ycombinator.com/item?id=42724757) - [Show HN: I made an open source directory of where to showoff your projects](https://github.com/KingMenes/awesome-launch)
 * [2025-01-16, 13:08:14](https://news.ycombinator.com/item?id=42724621) - [Nintendo announces the Switch 2 [video]](https://www.youtube.com/watch?v=itpcsQQvgAQ)
 * [2025-01-16, 12:18:32](https://news.ycombinator.com/item?id=42724284) - [I Ditched the Algorithm for RSS–and You Should Too](https://joeyehand.com/blog/2025/01/15/i-ditched-the-algorithm-for-rssand-you-should-too/)
-* [2025-01-16, 10:12:04](https://news.ycombinator.com/item?id=42723504) - [Apple's interoperability efforts aren't meeting spirit or letter of EU law](https://www.theregister.com/2025/01/16/apple_dma_compliance_criticized/)
 * [2025-01-16, 09:57:59](https://news.ycombinator.com/item?id=42723406) - [Mathematicians Discover New Way for Spheres to 'Kiss'](https://www.quantamagazine.org/mathematicians-discover-new-way-for-spheres-to-kiss-20250115/)
 * [2025-01-16, 08:31:40](https://news.ycombinator.com/item?id=42722870) - [Setting Up an RK3588 SBC QEMU Hypervisor with ZFS on Debian](https://blog.kumio.org/posts/2025/01/bananapim7-hvm.html)
 * [2025-01-16, 08:17:40](https://news.ycombinator.com/item?id=42722756) - [Blue Origin reaches orbit on first flight of its titanic New Glenn rocket](https://arstechnica.com/space/2025/01/blue-origin-reaches-orbit-on-first-flight-of-its-titanic-new-glenn-rocket/)
@@ -28,6 +27,7 @@
 * [2025-01-13, 14:28:33](https://news.ycombinator.com/item?id=42683731) - [Physically Based Rendering: From Theory to Implementation](https://pbr-book.org)
 * [2025-01-13, 14:16:15](https://news.ycombinator.com/item?id=42683616) - [Understanding Memory Management, Part 1: C](https://educatedguesswork.org/posts/memory-management-1/)
 * [2025-01-13, 09:16:17](https://news.ycombinator.com/item?id=42681545) - [What I Learned Failing to Finish a Game in 2024](https://georgeallen.dev/posts/2024-failures-in-game-development/)
+* [2025-01-13, 01:53:18](https://news.ycombinator.com/item?id=42679191) - [Lambda Calculus in 383 Bytes (2022)](https://justine.lol/lambda/)
 * [2025-01-12, 20:20:07](https://news.ycombinator.com/item?id=42676545) - [Why some DVLA digital services don't work at night](https://dafyddvaughan.uk/blog/2025/why-some-dvla-digital-services-dont-work-at-night/)
 * [2025-01-11, 23:43:33](https://news.ycombinator.com/item?id=42669906) - [Why the weak nuclear force is short range](https://profmattstrassler.com/articles-and-posts/particle-physics-basics/the-astonishing-standard-model/why-the-weak-nuclear-force-is-short-range/)
 

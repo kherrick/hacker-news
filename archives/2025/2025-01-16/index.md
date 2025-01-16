@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-16](index.md)
 
+* [2025-01-16, 16:33:13](https://news.ycombinator.com/item?id=42727513) - [Walgreens replaced fridge doors with smart screens. It's now a $200M fiasco](https://www.bloomberg.com/news/features/2025-01-16/walgreens-fridge-fight-bodes-poorly-for-future-of-retail)
 * [2025-01-16, 15:30:19](https://news.ycombinator.com/item?id=42726584) - [Test-Driven Development with an LLM for Fun and Profit](https://blog.yfzhou.fyi/posts/tdd-llm/)
 * [2025-01-16, 15:27:13](https://news.ycombinator.com/item?id=42726539) - [The Conundrum of Life's Origin](https://nautil.us/the-incredible-conundrum-of-lifes-origin-1178890/)
 * [2025-01-16, 15:27:05](https://news.ycombinator.com/item?id=42726535) - [Astronomers discover neutron star with an incredibly slow six-hour spin](https://www.abc.net.au/news/science/2025-01-16/neutron-star-radio-transient-6-hours/104799106)
