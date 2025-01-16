@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-16](index.md)
 
+* [2025-01-16, 08:59:39](https://news.ycombinator.com/item?id=42723060) - [Researchers use AI to design proteins that block snake venom toxins](https://arstechnica.com/science/2025/01/researchers-use-ai-to-design-proteins-that-block-snake-venom-toxins/)
+* [2025-01-16, 08:17:40](https://news.ycombinator.com/item?id=42722756) - [Blue Origin reaches orbit on first flight of its titanic New Glenn rocket](https://arstechnica.com/space/2025/01/blue-origin-reaches-orbit-on-first-flight-of-its-titanic-new-glenn-rocket/)
 * [2025-01-16, 07:51:38](https://news.ycombinator.com/item?id=42722545) - [Karen Wynn Fonstad, Who Mapped Tolkien's Middle-Earth](https://www.nytimes.com/2025/01/13/obituaries/karen-wynn-fonstad-overlooked.html)
 * [2025-01-16, 06:12:36](https://news.ycombinator.com/item?id=42721915) - [Nokia Design Archive](https://nokiadesignarchive.aalto.fi)
 * [2025-01-16, 06:08:51](https://news.ycombinator.com/item?id=42721882) - [Blue Origin New Glenn Mission NG-1 (video)](https://www.blueorigin.com/missions/ng-1)
