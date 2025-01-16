@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-16, 13:57:43](https://news.ycombinator.com/item?id=42725147) - [Nepenthes is a tarpit to catch AI web crawlers](https://zadzmo.org/code/nepenthes/)
-* [2025-01-16, 13:49:30](https://news.ycombinator.com/item?id=42725057) - [No Billionares at FOSDEM](https://drewdevault.com/2025/01/16/2025-01-16-No-Billionares-at-FOSDEM-please.html)
 * [2025-01-16, 13:30:05](https://news.ycombinator.com/item?id=42724823) - [Nintendo Switch 2](https://www.nintendo.com/successor/en-gb/index.html)
-* [2025-01-16, 13:23:32](https://news.ycombinator.com/item?id=42724761) - [Nokia's internal presentation after iPhone was launched](https://repo.aalto.fi/uncategorized/IO_926740c7-5165-439a-a020-5205aeb4d4d5/)
+* [2025-01-16, 13:23:32](https://news.ycombinator.com/item?id=42724761) - [Nokia's internal presentation after iPhone was launched (2007) [pdf]](https://nokia-apple-iphone-was-launched-presentation.tiiny.site/)
 * [2025-01-16, 13:08:14](https://news.ycombinator.com/item?id=42724621) - [Nintendo announces the Switch 2 [video]](https://www.youtube.com/watch?v=itpcsQQvgAQ)
 * [2025-01-16, 10:17:01](https://news.ycombinator.com/item?id=42723543) - [Is there such a thing as a web-safe font?](https://www.highperformancewebfonts.com/read/web-safe-fonts)
 * [2025-01-16, 10:12:04](https://news.ycombinator.com/item?id=42723504) - [Apple's interoperability efforts aren't meeting spirit or letter of EU law](https://www.theregister.com/2025/01/16/apple_dma_compliance_criticized/)
@@ -26,6 +25,7 @@
 * [2025-01-13, 14:16:15](https://news.ycombinator.com/item?id=42683616) - [Understanding Memory Management, Part 1: C](https://educatedguesswork.org/posts/memory-management-1/)
 * [2025-01-13, 09:16:17](https://news.ycombinator.com/item?id=42681545) - [What I Learned Failing to Finish a Game in 2024](https://georgeallen.dev/posts/2024-failures-in-game-development/)
 * [2025-01-13, 01:53:18](https://news.ycombinator.com/item?id=42679191) - [Lambda Calculus in 383 Bytes (2022)](https://justine.lol/lambda/)
+* [2025-01-12, 22:41:48](https://news.ycombinator.com/item?id=42677728) - [My 3D SWE Portfolio - Built with React Three Fiber.](https://dement.dev)
 * [2025-01-12, 20:20:07](https://news.ycombinator.com/item?id=42676545) - [Why some DVLA digital services don't work at night](https://dafyddvaughan.uk/blog/2025/why-some-dvla-digital-services-dont-work-at-night/)
 * [2025-01-12, 18:53:26](https://news.ycombinator.com/item?id=42675804) - [Apache DataFusion](https://datafusion.apache.org/)
 * [2025-01-12, 18:19:59](https://news.ycombinator.com/item?id=42675514) - [The Untouched Goldmine of F#](https://rm4n0s.github.io/posts/7-the-untouched-goldmine-of-fsharp/)
