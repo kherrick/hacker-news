@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-16](index.md)
 
+* [2025-01-16, 15:30:19](https://news.ycombinator.com/item?id=42726584) - [Test-Driven Development with an LLM for Fun and Profit](https://blog.yfzhou.fyi/posts/tdd-llm/)
 * [2025-01-16, 15:27:13](https://news.ycombinator.com/item?id=42726539) - [The Conundrum of Life's Origin](https://nautil.us/the-incredible-conundrum-of-lifes-origin-1178890/)
 * [2025-01-16, 15:27:05](https://news.ycombinator.com/item?id=42726535) - [Astronomers discover neutron star with an incredibly slow six-hour spin](https://www.abc.net.au/news/science/2025-01-16/neutron-star-radio-transient-6-hours/104799106)
 * [2025-01-16, 14:45:25](https://news.ycombinator.com/item?id=42725862) - [Red Hat Woos VMware Shops with OpenShift Virtualization Engine](https://www.nextplatform.com/2025/01/15/red-hat-woos-vmware-shops-with-openshift-virtualization-engine/)
