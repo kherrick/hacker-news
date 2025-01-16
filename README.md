@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-16, 04:25:15](https://news.ycombinator.com/item?id=42721191) - [Milei shuts down museums memorializing victims of Argentine dictatorship](https://www.wsws.org/en/articles/2025/01/11/jtng-j11.html)
+* [2025-01-16, 05:02:28](https://news.ycombinator.com/item?id=42721460) - [Anthropic achieves ISO 42001 certification for responsible AI](https://www.anthropic.com/news/anthropic-achieves-iso-42001-certification-for-responsible-ai)
 * [2025-01-16, 04:25:06](https://news.ycombinator.com/item?id=42721190) - [Why Tech Giants Can't Stop Hoarding H-1B Visas](https://www.msn.com/en-us/money/careersandeducation/does-the-tech-industry-really-need-so-many-workers-on-h-1b-visas/ar-BB1rogdq)
 * [2025-01-16, 04:22:29](https://news.ycombinator.com/item?id=42721165) - ['Passive House' Survives Fire in California](https://www.yahoo.com/lifestyle/passive-house-survives-fire-california-000029045.html)
 * [2025-01-15, 23:41:52](https://news.ycombinator.com/item?id=42718850) - [OpenAI Fails to Deliver Opt-Out System for Photographers](https://petapixel.com/2025/01/06/openai-fails-to-deliver-opt-out-system-for-photographers/)
