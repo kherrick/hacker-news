@@ -54,6 +54,7 @@
 * [2025-01-12, 14:32:14](https://news.ycombinator.com/item?id=42673790) - [Show HN: A daily digest for reMarkable](https://digest.ferrucc.io/)
 * [2025-01-12, 14:27:15](https://news.ycombinator.com/item?id=42673766) - [Software Folklore](http://beza1e1.tuxen.de/lore/index.html)
 * [2025-01-12, 14:26:38](https://news.ycombinator.com/item?id=42673762) - [US Supreme Court curbed public scrutiny as it boosted security before Roe ruling](https://www.theguardian.com/us-news/2025/jan/12/us-supreme-court-roe)
+* [2025-01-12, 14:25:04](https://news.ycombinator.com/item?id=42673752) - [Remembering Matilda, the last survivor of the transatlantic slave trade](https://www.aljazeera.com/features/2025/1/12/remembering-matilda-the-last-survivor-of-the-transatlantic-slave-trade)
 * [2025-01-12, 14:06:28](https://news.ycombinator.com/item?id=42673628) - [Zuckerberg approved training Llama on LibGen [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.415175/gov.uscourts.cand.415175.377.0_1.pdf)
 * [2025-01-12, 14:05:22](https://news.ycombinator.com/item?id=42673617) - [(Right-Nulled) Generalised LR Parsing](https://blog.jeffsmits.net/generalised-lr-parsing/)
 * [2025-01-12, 14:03:15](https://news.ycombinator.com/item?id=42673596) - [The mistake of yearning for the 'friendly' online world of 20 years ago](https://english.elpais.com/lifestyle/2025-01-07/the-internet-hasnt-made-us-bad-we-were-already-like-that-the-mistake-of-yearning-for-the-friendly-online-world-of-20-years-ago.html)

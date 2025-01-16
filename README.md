@@ -8,7 +8,6 @@
 * [2025-01-15, 22:39:49](https://news.ycombinator.com/item?id=42718166) - [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)
 * [2025-01-15, 21:23:55](https://news.ycombinator.com/item?id=42717234) - [I have made the decision to disband Hindenburg Research](https://hindenburgresearch.com/gratitude/)
 * [2025-01-15, 21:19:15](https://news.ycombinator.com/item?id=42717165) - [100x defect tolerance: How we solved the yield problem](https://cerebras.ai/blog/100x-defect-tolerance-how-cerebras-solved-the-yield-problem)
-* [2025-01-15, 21:00:41](https://news.ycombinator.com/item?id=42716903) - [Empirical Health (YC S23) is hiring interns to build data-driven primary care](https://www.ycombinator.com/companies/empirical-health/jobs/BQlfWbt-software-engineer-intern-summer-2025)
 * [2025-01-15, 20:26:49](https://news.ycombinator.com/item?id=42716440) - [Israel, Hamas reach ceasefire deal to end 15 months of war in Gaza](https://www.reuters.com/world/middle-east/gaza-ceasefire-appears-close-us-egyptian-leaders-put-focus-coming-hours-2025-01-14/)
 * [2025-01-15, 19:54:44](https://news.ycombinator.com/item?id=42716072) - [dnSpyEx: .NET debugger and assembly editor](https://github.com/dnSpyEx/dnSpy)
 * [2025-01-15, 16:09:07](https://news.ycombinator.com/item?id=42712666) - [Show HN: I built a fair alternative to Product Hunt for indie makers](https://news.ycombinator.com/item?id=42712666)
@@ -28,6 +27,7 @@
 * [2025-01-12, 22:41:48](https://news.ycombinator.com/item?id=42677728) - [My 3D SWE Portfolio - Built with React Three Fiber.](https://dement.dev)
 * [2025-01-12, 18:53:26](https://news.ycombinator.com/item?id=42675804) - [Apache DataFusion](https://datafusion.apache.org/)
 * [2025-01-12, 14:27:15](https://news.ycombinator.com/item?id=42673766) - [Software Folklore](http://beza1e1.tuxen.de/lore/index.html)
+* [2025-01-12, 14:25:04](https://news.ycombinator.com/item?id=42673752) - [Remembering Matilda, the last survivor of the transatlantic slave trade](https://www.aljazeera.com/features/2025/1/12/remembering-matilda-the-last-survivor-of-the-transatlantic-slave-trade)
 * [2025-01-11, 23:43:33](https://news.ycombinator.com/item?id=42669906) - [Why the weak nuclear force is short range](https://profmattstrassler.com/articles-and-posts/particle-physics-basics/the-astonishing-standard-model/why-the-weak-nuclear-force-is-short-range/)
 * [2025-01-11, 16:35:00](https://news.ycombinator.com/item?id=42666959) - [Homomorphic encryption in iOS 18](https://boehs.org/node/homomorphic-encryption)
 
