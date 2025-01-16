@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-16, 22:08:46](https://news.ycombinator.com/item?id=42731527) - [MuJoco Playground](https://playground.mujoco.org/)
 * [2025-01-16, 21:59:38](https://news.ycombinator.com/item?id=42731460) - [Solving 100 Project Euler problems using 100 languages](https://github.com/jaredkrinke/100-languages)
 * [2025-01-16, 21:25:24](https://news.ycombinator.com/item?id=42731091) - [Starship Flight 7](https://www.spacex.com/launches/mission/?missionId=starship-flight-7?submit)
 * [2025-01-16, 21:00:25](https://news.ycombinator.com/item?id=42730844) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
@@ -23,7 +24,6 @@
 * [2025-01-15, 20:35:15](https://news.ycombinator.com/item?id=42716557) - [Show HN: News Minimalist – News ranked by significance](https://www.newsminimalist.com/)
 * [2025-01-14, 03:32:27](https://news.ycombinator.com/item?id=42693239) - [Laser technique measures distances with nanometre precision](https://www.newscientist.com/article/2463645-laser-technique-measures-vast-distances-with-nanometre-precision/)
 * [2025-01-13, 22:08:51](https://news.ycombinator.com/item?id=42690114) - [Five years of React Native at Shopify](https://shopify.engineering/five-years-of-react-native-at-shopify)
-* [2025-01-13, 16:12:27](https://news.ycombinator.com/item?id=42685018) - [Cosine Similarity Isn't the Silver Bullet We Thought It Was](https://www.shaped.ai/blog/cosine-similarity-not-the-silver-bullet-we-thought-it-was)
 * [2025-01-13, 14:28:33](https://news.ycombinator.com/item?id=42683731) - [Physically Based Rendering: From Theory to Implementation](https://pbr-book.org)
 * [2025-01-13, 14:16:15](https://news.ycombinator.com/item?id=42683616) - [Understanding Memory Management, Part 1: C](https://educatedguesswork.org/posts/memory-management-1/)
 * [2025-01-13, 10:14:06](https://news.ycombinator.com/item?id=42681917) - [Porting the GNAT Ada compiler to macOS/aarch64](https://briancallahan.net/blog/20250112.html)

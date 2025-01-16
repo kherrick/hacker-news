@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-16](index.md)
 
+* [2025-01-16, 22:08:46](https://news.ycombinator.com/item?id=42731527) - [MuJoco Playground](https://playground.mujoco.org/)
 * [2025-01-16, 21:59:38](https://news.ycombinator.com/item?id=42731460) - [Solving 100 Project Euler problems using 100 languages](https://github.com/jaredkrinke/100-languages)
 * [2025-01-16, 21:25:24](https://news.ycombinator.com/item?id=42731091) - [Starship Flight 7](https://www.spacex.com/launches/mission/?missionId=starship-flight-7?submit)
 * [2025-01-16, 21:00:25](https://news.ycombinator.com/item?id=42730844) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
