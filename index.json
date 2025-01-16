@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2025-01-16, 14:43:20",
+      "https://news.ycombinator.com/item?id=42725823"
+    ],
+    [
+      "Device uses wind to create ammonia out of air",
+      "https://spectrum.ieee.org/ammonia-fuel-2670794408"
+    ]
+  ],
+  [
+    [
       "2025-01-16, 14:17:31",
       "https://news.ycombinator.com/item?id=42725385"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2025-01-16, 08:31:40",
-      "https://news.ycombinator.com/item?id=42722870"
-    ],
-    [
-      "Setting Up an RK3588 SBC QEMU Hypervisor with ZFS on Debian",
-      "https://blog.kumio.org/posts/2025/01/bananapim7-hvm.html"
-    ]
-  ],
-  [
-    [
       "2025-01-16, 06:12:36",
       "https://news.ycombinator.com/item?id=42721915"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2025-01-14, 11:48:46",
-      "https://news.ycombinator.com/item?id=42696151"
-    ],
-    [
-      "What Every Hacker Should Know About TLB Invalidation [pdf]",
-      "https://grsecurity.net/h2hc_2024_what_every_hacker_should_know_TLB_invalidation.pdf"
-    ]
-  ],
-  [
-    [
       "2025-01-13, 22:08:51",
       "https://news.ycombinator.com/item?id=42690114"
     ],
@@ -297,6 +287,16 @@
     [
       "Stretching Each Dollar: Diffusion Training from Scratch on a Micro-Budget",
       "https://github.com/SonyResearch/micro_diffusion"
+    ]
+  ],
+  [
+    [
+      "2025-01-12, 20:20:07",
+      "https://news.ycombinator.com/item?id=42676545"
+    ],
+    [
+      "Why some DVLA digital services don't work at night",
+      "https://dafyddvaughan.uk/blog/2025/why-some-dvla-digital-services-dont-work-at-night/"
     ]
   ]
 ]
