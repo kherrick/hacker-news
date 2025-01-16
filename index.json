@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-16, 18:28:26",
+      "https://news.ycombinator.com/item?id=42728967"
+    ],
+    [
+      "David Lynch, Twin Peaks and Muholland Drive director, dies aged 78",
+      "https://www.theguardian.com/film/2025/jan/16/david-lynch-twin-peaks-and-muholland-drive-director-dies-aged-78"
+    ]
+  ],
+  [
+    [
       "2025-01-16, 18:24:09",
       "https://news.ycombinator.com/item?id=42728916"
     ],
@@ -81,6 +91,16 @@
   ],
   [
     [
+      "2025-01-16, 15:36:43",
+      "https://news.ycombinator.com/item?id=42726678"
+    ],
+    [
+      "Let's Encrypt is offering 6-day and IP address certs",
+      "https://letsencrypt.org/2025/01/16/6-day-and-ip-certs/"
+    ]
+  ],
+  [
+    [
       "2025-01-16, 15:30:19",
       "https://news.ycombinator.com/item?id=42726584"
     ],
@@ -107,16 +127,6 @@
     [
       "Red Hat Woos VMware Shops with OpenShift Virtualization Engine",
       "https://www.nextplatform.com/2025/01/15/red-hat-woos-vmware-shops-with-openshift-virtualization-engine/"
-    ]
-  ],
-  [
-    [
-      "2025-01-16, 14:43:20",
-      "https://news.ycombinator.com/item?id=42725823"
-    ],
-    [
-      "Stanford Researchers Produce Ammonia Fuel from Thin Air",
-      "https://spectrum.ieee.org/ammonia-fuel-2670794408"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2025-01-16, 08:17:40",
-      "https://news.ycombinator.com/item?id=42722756"
-    ],
-    [
-      "Blue Origin reaches orbit on first flight of its titanic New Glenn rocket",
-      "https://arstechnica.com/space/2025/01/blue-origin-reaches-orbit-on-first-flight-of-its-titanic-new-glenn-rocket/"
-    ]
-  ],
-  [
-    [
       "2025-01-16, 06:12:36",
       "https://news.ycombinator.com/item?id=42721915"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2025-01-15, 14:15:17",
-      "https://news.ycombinator.com/item?id=42710978"
-    ],
-    [
-      "Google is making AI in Gmail and Docs free, but raising the price of Workspace",
-      "https://www.theverge.com/2025/1/15/24343794/google-workspace-ai-features-free"
-    ]
-  ],
-  [
-    [
       "2025-01-14, 11:48:46",
       "https://news.ycombinator.com/item?id=42696151"
     ],
@@ -297,6 +287,16 @@
     [
       "Understanding Memory Management, Part 1: C",
       "https://educatedguesswork.org/posts/memory-management-1/"
+    ]
+  ],
+  [
+    [
+      "2025-01-13, 09:55:24",
+      "https://news.ycombinator.com/item?id=42681793"
+    ],
+    [
+      "Stretching Each Dollar: Diffusion Training from Scratch on a Micro-Budget",
+      "https://github.com/SonyResearch/micro_diffusion"
     ]
   ]
 ]
