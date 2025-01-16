@@ -6,6 +6,7 @@
 
 * [2025-01-12, 23:04:02](https://news.ycombinator.com/item?id=42677913) - [The Consensus on Havana Syndrome Is Cracking](https://www.theatlantic.com/international/archive/2025/01/havana-syndrome-russia-intelligence/681282/)
 * [2025-01-12, 22:53:16](https://news.ycombinator.com/item?id=42677835) - [Right to Root Access](https://medhir.com/blog/right-to-root-access)
+* [2025-01-12, 22:41:48](https://news.ycombinator.com/item?id=42677728) - [My 3D SWE Portfolio - Built with React Three Fiber.](https://dement.dev)
 * [2025-01-12, 22:34:49](https://news.ycombinator.com/item?id=42677667) - [FurtherAI (YC W24) Is Hiring Across Research, Engineering, and Design](https://www.ycombinator.com/companies/furtherai/jobs)
 * [2025-01-12, 22:32:44](https://news.ycombinator.com/item?id=42677647) - [Qubes OS: Templates](https://www.qubes-os.org/doc/templates/)
 * [2025-01-12, 22:30:58](https://news.ycombinator.com/item?id=42677631) - [Superior Internet Privacy with Whonix](https://www.whonix.org/wiki/Homepage)
