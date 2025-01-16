@@ -45,6 +45,7 @@
 * [2025-01-14, 14:17:52](https://news.ycombinator.com/item?id=42697467) - [Take the Pedals Off the Bike](https://www.fortressofdoors.com/take-the-pedals-off-the-bike/)
 * [2025-01-14, 14:06:41](https://news.ycombinator.com/item?id=42697346) - [Show HN: A blocklist to remove spam and bad websites from search results](https://github.com/popcar2/BadWebsiteBlocklist)
 * [2025-01-14, 14:05:40](https://news.ycombinator.com/item?id=42697335) - [Servo vs. steppers: Speed, Torque and Accuracy [video]](https://www.youtube.com/watch?v=H-nO1F-AO9I)
+* [2025-01-14, 13:24:31](https://news.ycombinator.com/item?id=42696857) - [Leaving a permanent record of humanity on the moon – in 100B pixels](https://www.aljazeera.com/features/2025/1/11/leaving-a-permanent-record-of-humanity-on-the-moon-in-100-billion-pixels)
 * [2025-01-14, 13:23:49](https://news.ycombinator.com/item?id=42696847) - [FOSDEM and DMA updates and 2025 YH4F and Our visions for 2048](https://fsfe.org/news/nl/nl-202501.en.html)
 * [2025-01-14, 13:21:28](https://news.ycombinator.com/item?id=42696822) - [Using Coding Skills to Make Passive Income](https://www.coryzue.com/writing/solopreneur/)
 * [2025-01-14, 13:05:31](https://news.ycombinator.com/item?id=42696691) - [In the Belly of the MrBeast](https://kevinmunger.substack.com/p/in-the-belly-of-the-mrbeast)
