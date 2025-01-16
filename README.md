@@ -2,7 +2,6 @@
 
 * [2025-01-16, 17:00:09](https://news.ycombinator.com/item?id=42727820) - [Artie (YC S23) Is Hiring a Founding Engineer (Distributed Systems)](https://www.ycombinator.com/companies/artie/jobs/Vz704T1-founding-engineer-distributed-systems)
 * [2025-01-16, 16:46:57](https://news.ycombinator.com/item?id=42727673) - [California's future depends on how leaders rebuild after the Los Angeles fires](https://www.vox.com/housing/395049/california-lacounty-wildfires-altadena-pasadena-pacific-palisades-housing-homelessess-permitting-ceqa-coastal-rebuild)
-* [2025-01-16, 16:33:13](https://news.ycombinator.com/item?id=42727513) - [Walgreens replaced fridge doors with smart screens. It's now a $200M fiasco](https://www.bloomberg.com/news/features/2025-01-16/walgreens-fridge-fight-bodes-poorly-for-future-of-retail)
 * [2025-01-16, 15:30:19](https://news.ycombinator.com/item?id=42726584) - [Test-Driven Development with an LLM for Fun and Profit](https://blog.yfzhou.fyi/posts/tdd-llm/)
 * [2025-01-16, 15:27:13](https://news.ycombinator.com/item?id=42726539) - [The Conundrum of Life's Origin](https://nautil.us/the-incredible-conundrum-of-lifes-origin-1178890/)
 * [2025-01-16, 14:45:25](https://news.ycombinator.com/item?id=42725862) - [Red Hat Woos VMware Shops with OpenShift Virtualization Engine](https://www.nextplatform.com/2025/01/15/red-hat-woos-vmware-shops-with-openshift-virtualization-engine/)
@@ -24,11 +23,12 @@
 * [2025-01-15, 19:54:44](https://news.ycombinator.com/item?id=42716072) - [dnSpyEx: .NET debugger and assembly editor](https://github.com/dnSpyEx/dnSpy)
 * [2025-01-15, 17:52:21](https://news.ycombinator.com/item?id=42714436) - [Qantas South Africa flights delayed by falling debris from SpaceX rockets](https://www.theguardian.com/business/2025/jan/14/qantas-flights-delayed-spacex-falling-debris-sydney-to-johannesburg)
 * [2025-01-15, 15:55:13](https://news.ycombinator.com/item?id=42712433) - [Why is Cloudflare Pages' bandwidth unlimited?](https://mattsayar.com/why-does-cloudflare-pages-have-such-a-generous-free-tier/)
+* [2025-01-15, 15:27:55](https://news.ycombinator.com/item?id=42711966) - [Ropey – A UTF8 text rope for manipulating and editing large text](https://github.com/cessen/ropey)
 * [2025-01-15, 14:15:17](https://news.ycombinator.com/item?id=42710978) - [Google is making AI in Gmail and Docs free, but raising the price of Workspace](https://www.theverge.com/2025/1/15/24343794/google-workspace-ai-features-free)
 * [2025-01-14, 11:48:46](https://news.ycombinator.com/item?id=42696151) - [What Every Hacker Should Know About TLB Invalidation [pdf]](https://grsecurity.net/h2hc_2024_what_every_hacker_should_know_TLB_invalidation.pdf)
 * [2025-01-13, 14:28:33](https://news.ycombinator.com/item?id=42683731) - [Physically Based Rendering: From Theory to Implementation](https://pbr-book.org)
 * [2025-01-13, 14:16:15](https://news.ycombinator.com/item?id=42683616) - [Understanding Memory Management, Part 1: C](https://educatedguesswork.org/posts/memory-management-1/)
-* [2025-01-13, 09:16:17](https://news.ycombinator.com/item?id=42681545) - [What I Learned Failing to Finish a Game in 2024](https://georgeallen.dev/posts/2024-failures-in-game-development/)
+* [2025-01-13, 01:53:18](https://news.ycombinator.com/item?id=42679191) - [Lambda Calculus in 383 Bytes (2022)](https://justine.lol/lambda/)
 * [2025-01-11, 23:43:33](https://news.ycombinator.com/item?id=42669906) - [Why the weak nuclear force is short range](https://profmattstrassler.com/articles-and-posts/particle-physics-basics/the-astonishing-standard-model/why-the-weak-nuclear-force-is-short-range/)
 
 ## [Archives](archives/index.md)
