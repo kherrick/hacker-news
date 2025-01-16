@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-16](index.md)
 
+* [2025-01-16, 09:57:59](https://news.ycombinator.com/item?id=42723406) - [Mathematicians Discover New Way for Spheres to 'Kiss'](https://www.quantamagazine.org/mathematicians-discover-new-way-for-spheres-to-kiss-20250115/)
 * [2025-01-16, 08:59:39](https://news.ycombinator.com/item?id=42723060) - [Researchers use AI to design proteins that block snake venom toxins](https://arstechnica.com/science/2025/01/researchers-use-ai-to-design-proteins-that-block-snake-venom-toxins/)
 * [2025-01-16, 08:31:40](https://news.ycombinator.com/item?id=42722870) - [Setting Up an RK3588 SBC QEMU Hypervisor with ZFS on Debian](https://blog.kumio.org/posts/2025/01/bananapim7-hvm.html)
 * [2025-01-16, 08:17:40](https://news.ycombinator.com/item?id=42722756) - [Blue Origin reaches orbit on first flight of its titanic New Glenn rocket](https://arstechnica.com/space/2025/01/blue-origin-reaches-orbit-on-first-flight-of-its-titanic-new-glenn-rocket/)
