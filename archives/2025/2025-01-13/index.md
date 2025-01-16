@@ -62,6 +62,7 @@
 * [2025-01-13, 10:23:50](https://news.ycombinator.com/item?id=42681976) - [Mastodon announces new European non-profit, change of CEO](https://blog.joinmastodon.org/2025/01/the-people-should-own-the-town-square/)
 * [2025-01-13, 10:06:08](https://news.ycombinator.com/item?id=42681866) - [Show HN: JUring – Java bindings for io_uring file I/O](https://github.com/davidtos/JUring)
 * [2025-01-13, 09:55:27](https://news.ycombinator.com/item?id=42681794) - [Langfuse (YC W23) Is Hiring OSS Engineers in Berlin](https://github.com/langfuse/langfuse/blob/main/careers)
+* [2025-01-13, 09:55:24](https://news.ycombinator.com/item?id=42681793) - [Stretching Each Dollar: Diffusion Training from Scratch on a Micro-Budget](https://github.com/SonyResearch/micro_diffusion)
 * [2025-01-13, 09:49:46](https://news.ycombinator.com/item?id=42681762) - [Detrimental Decibels: A Study of Noise Levels in Vancouver's SkyTrain System](https://open.library.ubc.ca/media/stream/pdf/51869/1.0421693/5)
 * [2025-01-13, 09:16:17](https://news.ycombinator.com/item?id=42681545) - [What I Learned Failing to Finish a Game in 2024](https://georgeallen.dev/posts/2024-failures-in-game-development/)
 * [2025-01-13, 08:56:07](https://news.ycombinator.com/item?id=42681435) - [Apple asks investors to block proposal to scrap diversity programmes](https://www.theguardian.com/technology/2025/jan/13/apple-investors-diversity-dei)
