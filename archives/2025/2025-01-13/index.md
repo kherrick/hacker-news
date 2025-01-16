@@ -32,6 +32,7 @@
 * [2025-01-13, 15:37:24](https://news.ycombinator.com/item?id=42684574) - [California Fire Facts](https://gavinnewsom.com/california-fire-facts/)
 * [2025-01-13, 15:13:45](https://news.ycombinator.com/item?id=42684257) - [The Curious Gems of the River Thames](https://www.atlasobscura.com/articles/thames-garnets-mudlark)
 * [2025-01-13, 15:10:11](https://news.ycombinator.com/item?id=42684211) - [Subway Stories](https://subwaystories.nyc/)
+* [2025-01-13, 15:03:06](https://news.ycombinator.com/item?id=42684128) - [Why Is Ashburn the Data Center Capital of the World?](https://www.datacenters.com/news/why-is-ashburn-the-data-center-capital-of-the-world)
 * [2025-01-13, 14:57:07](https://news.ycombinator.com/item?id=42684057) - [Training AI models might not need enormous data centres](https://www.economist.com/science-and-technology/2025/01/08/training-ai-models-might-not-need-enormous-data-centres)
 * [2025-01-13, 14:30:49](https://news.ycombinator.com/item?id=42683753) - [Sonos CEO Patrick Spence steps down after disastrous app launch](https://www.theverge.com/2025/1/13/24342179/sonos-ceo-patrick-spence-resignation-reason-app)
 * [2025-01-13, 14:28:46](https://news.ycombinator.com/item?id=42683736) - [Why Skyscrapers Became Glass Boxes](https://www.construction-physics.com/p/why-skyscrapers-became-glass-boxes)
