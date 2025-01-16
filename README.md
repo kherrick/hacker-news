@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-16, 04:25:06](https://news.ycombinator.com/item?id=42721190) - [Why Tech Giants Can't Stop Hoarding H-1B Visas](https://www.msn.com/en-us/money/careersandeducation/does-the-tech-industry-really-need-so-many-workers-on-h-1b-visas/ar-BB1rogdq)
+* [2025-01-16, 04:22:29](https://news.ycombinator.com/item?id=42721165) - ['Passive House' Survives Fire in California](https://www.yahoo.com/lifestyle/passive-house-survives-fire-california-000029045.html)
 * [2025-01-16, 00:22:40](https://news.ycombinator.com/item?id=42719245) - [Docker Desktop Broken on Mac OS Update for over a Week](https://www.dockerstatus.com/)
 * [2025-01-15, 23:41:52](https://news.ycombinator.com/item?id=42718850) - [OpenAI Fails to Deliver Opt-Out System for Photographers](https://petapixel.com/2025/01/06/openai-fails-to-deliver-opt-out-system-for-photographers/)
 * [2025-01-15, 21:23:55](https://news.ycombinator.com/item?id=42717234) - [I have made the decision to disband Hindenburg Research](https://hindenburgresearch.com/gratitude/)
@@ -7,7 +9,6 @@
 * [2025-01-15, 21:00:41](https://news.ycombinator.com/item?id=42716903) - [Empirical Health (YC S23) is hiring interns to build data-driven primary care](https://www.ycombinator.com/companies/empirical-health/jobs/BQlfWbt-software-engineer-intern-summer-2025)
 * [2025-01-15, 20:26:49](https://news.ycombinator.com/item?id=42716440) - [Israel, Hamas reach ceasefire deal to end 15 months of war in Gaza](https://www.reuters.com/world/middle-east/gaza-ceasefire-appears-close-us-egyptian-leaders-put-focus-coming-hours-2025-01-14/)
 * [2025-01-15, 20:20:12](https://news.ycombinator.com/item?id=42716356) - [Scheduled tasks in ChatGPT](https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt)
-* [2025-01-15, 19:58:16](https://news.ycombinator.com/item?id=42716104) - [Natrium 'advanced nuclear' power plant wins Wyoming permit](https://wyofile.com/natrium-advanced-nuclear-power-plant-wins-wyoming-permit/)
 * [2025-01-15, 19:54:44](https://news.ycombinator.com/item?id=42716072) - [dnSpyEx: .NET debugger and assembly editor](https://github.com/dnSpyEx/dnSpy)
 * [2025-01-15, 19:34:01](https://news.ycombinator.com/item?id=42715841) - [Sweden brings more books and handwriting practice back to its schools (2023)](https://apnews.com/article/sweden-digital-education-backlash-reading-writing-1dd964c628f76361c43dbf3964f7dbf4)
 * [2025-01-15, 16:09:07](https://news.ycombinator.com/item?id=42712666) - [Show HN: I built a fair alternative to Product Hunt for indie makers](https://news.ycombinator.com/item?id=42712666)
@@ -20,7 +21,6 @@
 * [2025-01-15, 09:43:03](https://news.ycombinator.com/item?id=42709105) - [Sky-scanning complete for Gaia](https://www.esa.int/ESA_Multimedia/Images/2025/01/Sky-scanning_complete_for_Gaia)
 * [2025-01-15, 04:15:43](https://news.ycombinator.com/item?id=42707238) - [Nobody cares](https://grantslatton.com/nobody-cares)
 * [2025-01-14, 14:17:52](https://news.ycombinator.com/item?id=42697467) - [Take the pedals off the bike](https://www.fortressofdoors.com/take-the-pedals-off-the-bike/)
-* [2025-01-13, 19:19:42](https://news.ycombinator.com/item?id=42687510) - [Nvidia might do for desktop AI what it did for desktop gaming](https://www.theangle.com/p/nvidia-might-do-for-desktop-ai-what)
 * [2025-01-13, 04:10:21](https://news.ycombinator.com/item?id=42680002) - [Sutton Hoo and Syria: Anglo-Saxons who served in the Byzantine army?](https://academic.oup.com/ehr/advance-article/doi/10.1093/ehr/ceae213/7941799)
 * [2025-01-13, 01:53:18](https://news.ycombinator.com/item?id=42679191) - [Lambda Calculus in 383 Bytes (2022)](https://justine.lol/lambda/)
 * [2025-01-12, 22:41:48](https://news.ycombinator.com/item?id=42677728) - [My 3D SWE Portfolio - Built with React Three Fiber.](https://dement.dev)
