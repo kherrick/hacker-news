@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-16, 06:08:51](https://news.ycombinator.com/item?id=42721882) - [Blue Origin New Glenn Mission NG-1 (video)](https://www.blueorigin.com/missions/ng-1)
+* [2025-01-16, 07:51:38](https://news.ycombinator.com/item?id=42722545) - [Karen Wynn Fonstad, Who Mapped Tolkien's Middle-Earth](https://www.nytimes.com/2025/01/13/obituaries/karen-wynn-fonstad-overlooked.html)
 * [2025-01-16, 05:00:08](https://news.ycombinator.com/item?id=42721442) - [Intel's Tofino P4 Software Is Now Open Source](https://p4.org/intels-tofino-p4-software-is-now-open-source/)
 * [2025-01-16, 02:36:45](https://news.ycombinator.com/item?id=42720361) - [Is WebAssembly Memory64 worth using?](https://spidermonkey.dev/blog/2025/01/15/is-memory64-actually-worth-using.html)
 * [2025-01-15, 22:39:49](https://news.ycombinator.com/item?id=42718166) - [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)
