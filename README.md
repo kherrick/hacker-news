@@ -21,7 +21,7 @@
 * [2025-01-15, 04:15:43](https://news.ycombinator.com/item?id=42707238) - [Nobody cares](https://grantslatton.com/nobody-cares)
 * [2025-01-15, 00:33:42](https://news.ycombinator.com/item?id=42705914) - [Let the user help solve their own problem](https://boredzo.org/blog/archives/2025-01-14/let-the-user-help-solve-their-own-problem)
 * [2025-01-14, 14:17:52](https://news.ycombinator.com/item?id=42697467) - [Take the pedals off the bike](https://www.fortressofdoors.com/take-the-pedals-off-the-bike/)
-* [2025-01-14, 06:25:17](https://news.ycombinator.com/item?id=42694348) - [Byte Queue Limits – The unauthorized biography](https://medium.com/@tom_84912/byte-queue-limits-the-unauthorized-biography-61adc5730b83)
+* [2025-01-13, 23:13:23](https://news.ycombinator.com/item?id=42690857) - [Ask HN: Dense Tree Layout Algorithms](https://news.ycombinator.com/item?id=42690857)
 * [2025-01-13, 15:03:06](https://news.ycombinator.com/item?id=42684128) - [Why is Ashburn the data center capital of the world?](https://www.datacenters.com/news/why-is-ashburn-the-data-center-capital-of-the-world)
 * [2025-01-13, 04:10:21](https://news.ycombinator.com/item?id=42680002) - [Sutton Hoo and Syria: Anglo-Saxons who served in the Byzantine army?](https://academic.oup.com/ehr/advance-article/doi/10.1093/ehr/ceae213/7941799)
 * [2025-01-13, 01:53:18](https://news.ycombinator.com/item?id=42679191) - [Lambda Calculus in 383 Bytes (2022)](https://justine.lol/lambda/)

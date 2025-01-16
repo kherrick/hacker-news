@@ -6,6 +6,7 @@
 
 * [2025-01-13, 23:47:31](https://news.ycombinator.com/item?id=42691184) - [GitHub Git Operations Are Down](https://www.githubstatus.com/incidents/qd96yfgvmcf9)
 * [2025-01-13, 23:25:08](https://news.ycombinator.com/item?id=42690983) - [Webtop – Alpine,Ubuntu,Fedora,and Arch containers containing full desktop envs](https://docs.linuxserver.io/images/docker-webtop/)
+* [2025-01-13, 23:13:23](https://news.ycombinator.com/item?id=42690857) - [Ask HN: Dense Tree Layout Algorithms](https://news.ycombinator.com/item?id=42690857)
 * [2025-01-13, 23:09:14](https://news.ycombinator.com/item?id=42690818) - [voyage-code-3](https://blog.voyageai.com/2024/12/04/voyage-code-3/)
 * [2025-01-13, 22:38:27](https://news.ycombinator.com/item?id=42690473) - [Snyk security researcher deploys malicious NPM packages targeting Cursor.com](https://sourcecodered.com/snyk-malicious-npm-package/)
 * [2025-01-13, 22:12:31](https://news.ycombinator.com/item?id=42690154) - [Lorne Michaels Is the Real Star of \"Saturday Night Live\"](https://www.newyorker.com/magazine/2025/01/20/lorne-michaels-profile)
