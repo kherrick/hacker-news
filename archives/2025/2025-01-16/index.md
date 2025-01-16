@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-16](index.md)
 
+* [2025-01-16, 13:49:30](https://news.ycombinator.com/item?id=42725057) - [No Billionares at FOSDEM](https://drewdevault.com/2025/01/16/2025-01-16-No-Billionares-at-FOSDEM-please.html)
+* [2025-01-16, 13:30:05](https://news.ycombinator.com/item?id=42724823) - [Nintendo Switch 2](https://www.nintendo.com/successor/en-gb/index.html)
 * [2025-01-16, 13:23:32](https://news.ycombinator.com/item?id=42724761) - [Nokia's internal presentation after iPhone was launched](https://repo.aalto.fi/uncategorized/IO_926740c7-5165-439a-a020-5205aeb4d4d5/)
 * [2025-01-16, 13:08:14](https://news.ycombinator.com/item?id=42724621) - [Nintendo announces the Switch 2 [video]](https://www.youtube.com/watch?v=itpcsQQvgAQ)
 * [2025-01-16, 10:17:01](https://news.ycombinator.com/item?id=42723543) - [Is there such a thing as a web-safe font?](https://www.highperformancewebfonts.com/read/web-safe-fonts)

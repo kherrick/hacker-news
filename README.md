@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-16, 13:49:30](https://news.ycombinator.com/item?id=42725057) - [No Billionares at FOSDEM](https://drewdevault.com/2025/01/16/2025-01-16-No-Billionares-at-FOSDEM-please.html)
+* [2025-01-16, 13:30:05](https://news.ycombinator.com/item?id=42724823) - [Nintendo Switch 2](https://www.nintendo.com/successor/en-gb/index.html)
 * [2025-01-16, 13:23:32](https://news.ycombinator.com/item?id=42724761) - [Nokia's internal presentation after iPhone was launched](https://repo.aalto.fi/uncategorized/IO_926740c7-5165-439a-a020-5205aeb4d4d5/)
 * [2025-01-16, 13:08:14](https://news.ycombinator.com/item?id=42724621) - [Nintendo announces the Switch 2 [video]](https://www.youtube.com/watch?v=itpcsQQvgAQ)
 * [2025-01-16, 10:17:01](https://news.ycombinator.com/item?id=42723543) - [Is there such a thing as a web-safe font?](https://www.highperformancewebfonts.com/read/web-safe-fonts)
@@ -21,14 +23,12 @@
 * [2025-01-15, 14:15:17](https://news.ycombinator.com/item?id=42710978) - [Google is making AI in Gmail and Docs free, but raising the price of Workspace](https://www.theverge.com/2025/1/15/24343794/google-workspace-ai-features-free)
 * [2025-01-15, 04:15:43](https://news.ycombinator.com/item?id=42707238) - [Nobody cares](https://grantslatton.com/nobody-cares)
 * [2025-01-14, 11:48:46](https://news.ycombinator.com/item?id=42696151) - [What Every Hacker Should Know About TLB Invalidation [pdf]](https://grsecurity.net/h2hc_2024_what_every_hacker_should_know_TLB_invalidation.pdf)
-* [2025-01-13, 15:03:06](https://news.ycombinator.com/item?id=42684128) - [Why is Ashburn the data center capital of the world?](https://www.datacenters.com/news/why-is-ashburn-the-data-center-capital-of-the-world)
 * [2025-01-13, 14:16:15](https://news.ycombinator.com/item?id=42683616) - [Understanding Memory Management, Part 1: C](https://educatedguesswork.org/posts/memory-management-1/)
 * [2025-01-13, 09:16:17](https://news.ycombinator.com/item?id=42681545) - [What I Learned Failing to Finish a Game in 2024](https://georgeallen.dev/posts/2024-failures-in-game-development/)
 * [2025-01-13, 01:53:18](https://news.ycombinator.com/item?id=42679191) - [Lambda Calculus in 383 Bytes (2022)](https://justine.lol/lambda/)
 * [2025-01-12, 22:41:48](https://news.ycombinator.com/item?id=42677728) - [My 3D SWE Portfolio - Built with React Three Fiber.](https://dement.dev)
 * [2025-01-12, 18:53:26](https://news.ycombinator.com/item?id=42675804) - [Apache DataFusion](https://datafusion.apache.org/)
 * [2025-01-12, 18:19:59](https://news.ycombinator.com/item?id=42675514) - [The Untouched Goldmine of F#](https://rm4n0s.github.io/posts/7-the-untouched-goldmine-of-fsharp/)
-* [2025-01-12, 14:25:04](https://news.ycombinator.com/item?id=42673752) - [Remembering Matilda, the last survivor of the transatlantic slave trade](https://www.aljazeera.com/features/2025/1/12/remembering-matilda-the-last-survivor-of-the-transatlantic-slave-trade)
 * [2025-01-11, 23:43:33](https://news.ycombinator.com/item?id=42669906) - [Why the weak nuclear force is short range](https://profmattstrassler.com/articles-and-posts/particle-physics-basics/the-astonishing-standard-model/why-the-weak-nuclear-force-is-short-range/)
 
 ## [Archives](archives/index.md)
