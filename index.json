@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2025-01-16, 05:00:08",
-      "https://news.ycombinator.com/item?id=42721442"
-    ],
-    [
-      "Intel's Tofino P4 Software Is Now Open Source",
-      "https://p4.org/intels-tofino-p4-software-is-now-open-source/"
-    ]
-  ],
-  [
-    [
       "2025-01-15, 21:35:41",
       "https://news.ycombinator.com/item?id=42717393"
     ],
@@ -267,6 +257,16 @@
     [
       "Understanding Memory Management, Part 1: C",
       "https://educatedguesswork.org/posts/memory-management-1/"
+    ]
+  ],
+  [
+    [
+      "2025-01-13, 10:14:06",
+      "https://news.ycombinator.com/item?id=42681917"
+    ],
+    [
+      "Porting the GNAT Ada compiler to macOS/aarch64",
+      "https://briancallahan.net/blog/20250112.html"
     ]
   ],
   [
