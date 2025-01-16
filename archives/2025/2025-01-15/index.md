@@ -56,3 +56,4 @@
 * [2025-01-15, 02:45:54](https://news.ycombinator.com/item?id=42706732) - [Researchers have identified a total of 6 vulnerabilities in rsync](https://www.openwall.com/lists/oss-security/2025/01/14/3)
 * [2025-01-15, 01:58:24](https://news.ycombinator.com/item?id=42706455) - [South Korea's impeached President Yoon Suk Yeol arrested, local media reports](https://www.cnbc.com/2025/01/15/south-korean-president-yoon-suk-yeol-detained-local-media-reports-.html)
 * [2025-01-15, 00:37:35](https://news.ycombinator.com/item?id=42705935) - [Transformer^2: Self-Adaptive LLMs](https://sakana.ai/transformer-squared/)
+* [2025-01-15, 00:33:42](https://news.ycombinator.com/item?id=42705914) - [Let the user help solve their own problem](https://boredzo.org/blog/archives/2025-01-14/let-the-user-help-solve-their-own-problem)

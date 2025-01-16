@@ -19,6 +19,7 @@
 * [2025-01-15, 12:57:31](https://news.ycombinator.com/item?id=42710339) - [TikTok preparing for U.S. shut-off on Sunday](https://www.reuters.com/technology/tiktok-preparing-us-shut-off-sunday-information-reports-2025-01-15/)
 * [2025-01-15, 09:43:03](https://news.ycombinator.com/item?id=42709105) - [Sky-scanning complete for Gaia](https://www.esa.int/ESA_Multimedia/Images/2025/01/Sky-scanning_complete_for_Gaia)
 * [2025-01-15, 04:15:43](https://news.ycombinator.com/item?id=42707238) - [Nobody cares](https://grantslatton.com/nobody-cares)
+* [2025-01-15, 00:33:42](https://news.ycombinator.com/item?id=42705914) - [Let the user help solve their own problem](https://boredzo.org/blog/archives/2025-01-14/let-the-user-help-solve-their-own-problem)
 * [2025-01-14, 14:17:52](https://news.ycombinator.com/item?id=42697467) - [Take the pedals off the bike](https://www.fortressofdoors.com/take-the-pedals-off-the-bike/)
 * [2025-01-14, 06:25:17](https://news.ycombinator.com/item?id=42694348) - [Byte Queue Limits – The unauthorized biography](https://medium.com/@tom_84912/byte-queue-limits-the-unauthorized-biography-61adc5730b83)
 * [2025-01-13, 15:03:06](https://news.ycombinator.com/item?id=42684128) - [Why is Ashburn the data center capital of the world?](https://www.datacenters.com/news/why-is-ashburn-the-data-center-capital-of-the-world)
@@ -27,7 +28,6 @@
 * [2025-01-12, 22:41:48](https://news.ycombinator.com/item?id=42677728) - [My 3D SWE Portfolio - Built with React Three Fiber.](https://dement.dev)
 * [2025-01-12, 18:53:26](https://news.ycombinator.com/item?id=42675804) - [Apache DataFusion](https://datafusion.apache.org/)
 * [2025-01-12, 14:27:15](https://news.ycombinator.com/item?id=42673766) - [Software Folklore](http://beza1e1.tuxen.de/lore/index.html)
-* [2025-01-12, 12:41:49](https://news.ycombinator.com/item?id=42673171) - [Imaging mounted disk volumes under duress (2021)](https://blog.benjojo.co.uk/post/imaging-mounted-disk-volumes-live)
 * [2025-01-11, 23:43:33](https://news.ycombinator.com/item?id=42669906) - [Why the weak nuclear force is short range](https://profmattstrassler.com/articles-and-posts/particle-physics-basics/the-astonishing-standard-model/why-the-weak-nuclear-force-is-short-range/)
 * [2025-01-11, 16:35:00](https://news.ycombinator.com/item?id=42666959) - [Homomorphic encryption in iOS 18](https://boehs.org/node/homomorphic-encryption)
 
