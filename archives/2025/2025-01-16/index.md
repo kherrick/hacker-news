@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-16](index.md)
 
+* [2025-01-16, 21:25:24](https://news.ycombinator.com/item?id=42731091) - [Starship Flight 7](https://www.spacex.com/launches/mission/?missionId=starship-flight-7?submit)
 * [2025-01-16, 21:00:25](https://news.ycombinator.com/item?id=42730844) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2025-01-16, 20:00:02](https://news.ycombinator.com/item?id=42730126) - [US Export Control Framework for Artificial Intelligence Diffusion](https://www.regulations.gov/document/BIS_FRDOC_0001-0691)
 * [2025-01-16, 19:49:23](https://news.ycombinator.com/item?id=42729996) - [How can a top scientist be so confidently wrong? R. A. Fisher and smoking (2022)](https://statmodeling.stat.columbia.edu/2022/06/08/how-can-a-top-scientist-be-so-confidently-wrong-r-a-fisher-and-smoking-example/)

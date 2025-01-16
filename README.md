@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-16, 21:25:24](https://news.ycombinator.com/item?id=42731091) - [Starship Flight 7](https://www.spacex.com/launches/mission/?missionId=starship-flight-7?submit)
 * [2025-01-16, 21:00:25](https://news.ycombinator.com/item?id=42730844) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2025-01-16, 20:00:02](https://news.ycombinator.com/item?id=42730126) - [US Export Control Framework for Artificial Intelligence Diffusion](https://www.regulations.gov/document/BIS_FRDOC_0001-0691)
 * [2025-01-16, 19:22:31](https://news.ycombinator.com/item?id=42729677) - [Suchir Balaji Case Reopened: From ‘Suicide' to 'Active Investigation’](https://www.republicbiz.com/companies/suchir-balaji-case-reopened-from-suicide-to-active-investigation)
@@ -16,7 +17,6 @@
 * [2025-01-16, 14:17:31](https://news.ycombinator.com/item?id=42725385) - [No Calls](https://keygen.sh/blog/no-calls/)
 * [2025-01-16, 13:57:43](https://news.ycombinator.com/item?id=42725147) - [Nepenthes is a tarpit to catch AI web crawlers](https://zadzmo.org/code/nepenthes/)
 * [2025-01-16, 13:23:32](https://news.ycombinator.com/item?id=42724761) - [Nokia's internal presentation after iPhone was launched (2007) [pdf]](https://nokia-apple-iphone-was-launched-presentation.tiiny.site/)
-* [2025-01-16, 13:23:17](https://news.ycombinator.com/item?id=42724757) - [Show HN: I made an open source directory of where to showoff your projects](https://github.com/KingMenes/awesome-launch)
 * [2025-01-16, 13:08:14](https://news.ycombinator.com/item?id=42724621) - [Nintendo announces the Switch 2 [video]](https://www.youtube.com/watch?v=itpcsQQvgAQ)
 * [2025-01-16, 12:18:32](https://news.ycombinator.com/item?id=42724284) - [I ditched the algorithm for RSS](https://joeyehand.com/blog/2025/01/15/i-ditched-the-algorithm-for-rssand-you-should-too/)
 * [2025-01-16, 09:57:59](https://news.ycombinator.com/item?id=42723406) - [Mathematicians discover new way for spheres to 'kiss'](https://www.quantamagazine.org/mathematicians-discover-new-way-for-spheres-to-kiss-20250115/)
