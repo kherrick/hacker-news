@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-16](index.md)
 
+* [2025-01-16, 06:08:51](https://news.ycombinator.com/item?id=42721882) - [Blue Origin New Glenn Mission NG-1 (video)](https://www.blueorigin.com/missions/ng-1)
 * [2025-01-16, 05:02:28](https://news.ycombinator.com/item?id=42721460) - [Anthropic achieves ISO 42001 certification for responsible AI](https://www.anthropic.com/news/anthropic-achieves-iso-42001-certification-for-responsible-ai)
 * [2025-01-16, 05:00:08](https://news.ycombinator.com/item?id=42721442) - [Intel's Tofino P4 Software Is Now Open Source](https://p4.org/intels-tofino-p4-software-is-now-open-source/)
 * [2025-01-16, 04:25:15](https://news.ycombinator.com/item?id=42721191) - [Milei shuts down museums memorializing victims of Argentine dictatorship](https://www.wsws.org/en/articles/2025/01/11/jtng-j11.html)
