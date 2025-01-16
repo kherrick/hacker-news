@@ -52,6 +52,7 @@
 * [2025-01-12, 15:00:11](https://news.ycombinator.com/item?id=42674003) - [Free Music Archive](https://freemusicarchive.org/home)
 * [2025-01-12, 14:36:00](https://news.ycombinator.com/item?id=42673815) - [Stories from the Internet](https://dbrgn.ch/stories-from-the-internet.html)
 * [2025-01-12, 14:32:14](https://news.ycombinator.com/item?id=42673790) - [Show HN: A daily digest for reMarkable](https://digest.ferrucc.io/)
+* [2025-01-12, 14:27:15](https://news.ycombinator.com/item?id=42673766) - [Software Folklore](http://beza1e1.tuxen.de/lore/index.html)
 * [2025-01-12, 14:26:38](https://news.ycombinator.com/item?id=42673762) - [US Supreme Court curbed public scrutiny as it boosted security before Roe ruling](https://www.theguardian.com/us-news/2025/jan/12/us-supreme-court-roe)
 * [2025-01-12, 14:06:28](https://news.ycombinator.com/item?id=42673628) - [Zuckerberg approved training Llama on LibGen [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.cand.415175/gov.uscourts.cand.415175.377.0_1.pdf)
 * [2025-01-12, 14:05:22](https://news.ycombinator.com/item?id=42673617) - [(Right-Nulled) Generalised LR Parsing](https://blog.jeffsmits.net/generalised-lr-parsing/)

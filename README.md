@@ -26,10 +26,10 @@
 * [2025-01-13, 01:53:18](https://news.ycombinator.com/item?id=42679191) - [Lambda Calculus in 383 Bytes (2022)](https://justine.lol/lambda/)
 * [2025-01-12, 22:41:48](https://news.ycombinator.com/item?id=42677728) - [My 3D SWE Portfolio - Built with React Three Fiber.](https://dement.dev)
 * [2025-01-12, 18:53:26](https://news.ycombinator.com/item?id=42675804) - [Apache DataFusion](https://datafusion.apache.org/)
+* [2025-01-12, 14:27:15](https://news.ycombinator.com/item?id=42673766) - [Software Folklore](http://beza1e1.tuxen.de/lore/index.html)
 * [2025-01-11, 23:43:33](https://news.ycombinator.com/item?id=42669906) - [Why the weak nuclear force is short range](https://profmattstrassler.com/articles-and-posts/particle-physics-basics/the-astonishing-standard-model/why-the-weak-nuclear-force-is-short-range/)
 * [2025-01-11, 22:25:37](https://news.ycombinator.com/item?id=42669431) - [Arnold's Cat (2018)](http://gerdbreitenbach.de/arnold_cat/cat.html)
 * [2025-01-11, 16:35:00](https://news.ycombinator.com/item?id=42666959) - [Homomorphic encryption in iOS 18](https://boehs.org/node/homomorphic-encryption)
-* [2025-01-11, 15:45:51](https://news.ycombinator.com/item?id=42666594) - [TSMC begins producing 4-nanometer chips in Arizona](https://www.reuters.com/technology/tsmc-begins-producing-4-nanometer-chips-arizona-raimondo-says-2025-01-10/)
 
 ## [Archives](archives/index.md)
 
