@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-17, 07:27:03](https://news.ycombinator.com/item?id=42734956) - [Trusting clients is probably a security flaw](https://liberda.nl/weblog/trust-no-client/)
 * [2025-01-17, 07:01:27](https://news.ycombinator.com/item?id=42734851) - [Issues with Color Spaces and Perceptual Brightness](https://johnaustin.io/articles/2025/issues-with-cielab-and-perceptual-brightness)
 * [2025-01-17, 06:29:42](https://news.ycombinator.com/item?id=42734681) - [Thoughts on a Month with Devin](https://www.answer.ai/posts/2025-01-08-devin.html)
 * [2025-01-17, 05:01:01](https://news.ycombinator.com/item?id=42734260) - [General Motors Is Banned from Selling Driving Behavior Data for 5 Years](https://www.nytimes.com/2025/01/16/technology/general-motors-driving-data-settlement.html)
@@ -24,7 +25,6 @@
 * [2025-01-13, 20:50:01](https://news.ycombinator.com/item?id=42689054) - [A UC Santa Cruz professor unearthed the oldest alphabet yet](https://www.universityofcalifornia.edu/news/how-uc-santa-cruz-professor-unearthed-oldest-alphabet-yet)
 * [2025-01-13, 20:11:14](https://news.ycombinator.com/item?id=42688392) - [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)
 * [2025-01-13, 14:28:33](https://news.ycombinator.com/item?id=42683731) - [Physically Based Rendering: From Theory to Implementation](https://pbr-book.org)
-* [2025-01-13, 14:16:15](https://news.ycombinator.com/item?id=42683616) - [Understanding Memory Management, Part 1: C](https://educatedguesswork.org/posts/memory-management-1/)
 * [2025-01-13, 10:14:06](https://news.ycombinator.com/item?id=42681917) - [Porting the GNAT Ada compiler to macOS/aarch64](https://briancallahan.net/blog/20250112.html)
 * [2025-01-13, 09:55:24](https://news.ycombinator.com/item?id=42681793) - [Diffusion training from scratch on a micro-budget](https://github.com/SonyResearch/micro_diffusion)
 * [2025-01-13, 06:56:37](https://news.ycombinator.com/item?id=42680796) - [Mastering the Isolated Queen Pawn (IQP)](https://lichess.org/@/hari2209/blog/mastering-the-isolated-queen-pawn-iqp-an-in-depth-guide/0qxcMAbV)
