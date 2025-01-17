@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-17](index.md)
 
+* [2025-01-17, 07:01:27](https://news.ycombinator.com/item?id=42734851) - [Issues with Color Spaces and Perceptual Brightness](https://johnaustin.io/articles/2025/issues-with-cielab-and-perceptual-brightness)
 * [2025-01-17, 06:29:42](https://news.ycombinator.com/item?id=42734681) - [Thoughts on a Month with Devin](https://www.answer.ai/posts/2025-01-08-devin.html)
 * [2025-01-17, 05:18:15](https://news.ycombinator.com/item?id=42734340) - [Kokoro TTS – A lightweight (82M params) text-to-speech model](https://kokorotts.online/)
 * [2025-01-17, 05:01:01](https://news.ycombinator.com/item?id=42734260) - [General Motors Is Banned from Selling Driving Behavior Data for 5 Years](https://www.nytimes.com/2025/01/16/technology/general-motors-driving-data-settlement.html)
