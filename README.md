@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-17, 19:14:16](https://news.ycombinator.com/item?id=42742123) - [Brits still associate working-class accents with criminals – study warns of bias](https://www.cam.ac.uk/research/news/brits-still-associate-working-class-accents-with-criminal-behaviour-study-warns-of-bias-in-the)
+* [2025-01-17, 19:20:14](https://news.ycombinator.com/item?id=42742184) - [Branchless UTF-8 Encoding](https://cceckman.com/writing/branchless-utf8-encoding/)
 * [2025-01-17, 19:07:54](https://news.ycombinator.com/item?id=42742057) - [Mathematics of the NYT daily word game Waffle](https://arxiv.org/abs/2501.09286)
 * [2025-01-17, 17:15:07](https://news.ycombinator.com/item?id=42740596) - [Brood War Korean Translations](https://blog.sourcedive.net/brood-war-korean-translations/)
 * [2025-01-17, 17:00:11](https://news.ycombinator.com/item?id=42740301) - [Keeling Labs (YC W23) Is Hiring an ML Engineer for Grid-Scale Energy Storage](https://www.keelinglabs.com/jobs?ashby_jid=81b48fb8-8176-4529-a38d-8fc736ebe2aa)
+* [2025-01-17, 16:53:55](https://news.ycombinator.com/item?id=42740183) - [Dr. TVAM – Inverse Rendering for Tomographic Volumetric Additive Manufacturing](https://github.com/rgl-epfl/drtvam)
 * [2025-01-17, 16:21:13](https://news.ycombinator.com/item?id=42739572) - [French modernists were alarmed, inspired by newspaper's voracious dynamism](https://aeon.co/essays/the-french-modernists-loathed-and-loved-the-mass-media-of-their-day)
 * [2025-01-17, 16:00:07](https://news.ycombinator.com/item?id=42739163) - [Selling the Collective: On Kevin Killian's \"Selected Amazon Reviews\"](https://www.clereviewofbooks.com/writing/kevin-killian-selling-the-collective)
 * [2025-01-17, 15:36:01](https://news.ycombinator.com/item?id=42738656) - [Show HN: GUI for Editing Mermaid Class Diagrams](https://docs.mermaidchart.com/blog/posts/gui-for-editing-mermaid-class-diagrams)
@@ -29,7 +30,6 @@
 * [2025-01-14, 06:31:22](https://news.ycombinator.com/item?id=42694384) - [Show HN: Decentralized robots (and things) orchestration system](https://docs.p2p.industries)
 * [2025-01-14, 04:44:06](https://news.ycombinator.com/item?id=42693748) - [A New type of web hacking technique: DoubleClickjacking](https://www.paulosyibelo.com/2024/12/doubleclickjacking-what.html)
 * [2025-01-13, 20:50:01](https://news.ycombinator.com/item?id=42689054) - [A UC Santa Cruz professor unearthed the oldest alphabet yet](https://www.universityofcalifornia.edu/news/how-uc-santa-cruz-professor-unearthed-oldest-alphabet-yet)
-* [2025-01-13, 20:11:14](https://news.ycombinator.com/item?id=42688392) - [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)
 
 ## [Archives](archives/index.md)
 
