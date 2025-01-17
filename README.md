@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-17, 09:41:10](https://news.ycombinator.com/item?id=42735767) - [Ask HN: How can I realistically change careers?](https://news.ycombinator.com/item?id=42735767)
 * [2025-01-17, 08:50:45](https://news.ycombinator.com/item?id=42735393) - [You can't use your $6,299.00 Camera as a Webcam. That will be $5](https://romanzipp.com/blog/no-you-cant-use-your-6299-canon-camera-as-a-webcam)
 * [2025-01-17, 07:27:03](https://news.ycombinator.com/item?id=42734956) - [Trusting clients is probably a security flaw](https://liberda.nl/weblog/trust-no-client/)
 * [2025-01-17, 07:01:27](https://news.ycombinator.com/item?id=42734851) - [Issues with Color Spaces and Perceptual Brightness](https://johnaustin.io/articles/2025/issues-with-cielab-and-perceptual-brightness)
@@ -28,6 +27,7 @@
 * [2025-01-13, 14:28:33](https://news.ycombinator.com/item?id=42683731) - [Physically Based Rendering: From Theory to Implementation](https://pbr-book.org)
 * [2025-01-13, 11:09:45](https://news.ycombinator.com/item?id=42682238) - [Exploring ways to mipmap alpha-tested textures](https://lisyarus.github.io/blog/posts/exploring-ways-to-mipmap-alpha-tested-textures.html)
 * [2025-01-13, 10:22:09](https://news.ycombinator.com/item?id=42681969) - [In Defence of 'Productivity Crap'](https://nicky.bearblog.dev/in-defence-of-productivity-crap/)
+* [2025-01-13, 09:55:24](https://news.ycombinator.com/item?id=42681793) - [Diffusion training from scratch on a micro-budget](https://github.com/SonyResearch/micro_diffusion)
 * [2025-01-13, 06:56:37](https://news.ycombinator.com/item?id=42680796) - [Mastering the Isolated Queen Pawn (IQP)](https://lichess.org/@/hari2209/blog/mastering-the-isolated-queen-pawn-iqp-an-in-depth-guide/0qxcMAbV)
 * [2025-01-13, 05:23:00](https://news.ycombinator.com/item?id=42680318) - [Slum: The Shadow Library Uptime Monitor](https://open-slum.org/)
 
