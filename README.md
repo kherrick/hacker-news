@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-17, 15:23:58](https://news.ycombinator.com/item?id=42738464) - [Supreme Court rules to uphold TikTok ban, setting stage for shutdown](https://www.cnbc.com/2025/01/17/supreme-court-rules-to-uphold-tiktok-ban.html)
+* [2025-01-17, 12:46:08](https://news.ycombinator.com/item?id=42736968) - [The Derelict (2015)](https://www.damninteresting.com/the-derelict/)
 * [2025-01-17, 12:01:11](https://news.ycombinator.com/item?id=42736656) - [Fern (YC W23) Is Hiring an AI Engineer in NYC](https://www.ycombinator.com/companies/fern/jobs/bEL3MoW-ai-engineer)
 * [2025-01-17, 09:41:10](https://news.ycombinator.com/item?id=42735767) - [Ask HN: How can I realistically change careers?](https://news.ycombinator.com/item?id=42735767)
 * [2025-01-17, 08:54:28](https://news.ycombinator.com/item?id=42735413) - [The Family Bass - Music with an NES](https://www.linusakesson.net/music/family-bass/index.php)
@@ -13,7 +15,6 @@
 * [2025-01-16, 21:25:24](https://news.ycombinator.com/item?id=42731091) - [Starship Flight 7](https://www.spacex.com/launches/mission/?missionId=starship-flight-7?submit)
 * [2025-01-16, 20:00:02](https://news.ycombinator.com/item?id=42730126) - [Framework for Artificial Intelligence Diffusion](https://www.federalregister.gov/documents/2025/01/15/2025-00636/framework-for-artificial-intelligence-diffusion)
 * [2025-01-16, 15:30:19](https://news.ycombinator.com/item?id=42726584) - [Test-driven development with an LLM for fun and profit](https://blog.yfzhou.fyi/posts/tdd-llm/)
-* [2025-01-16, 14:43:20](https://news.ycombinator.com/item?id=42725823) - [Device uses wind to create ammonia out of air](https://spectrum.ieee.org/ammonia-fuel-2670794408)
 * [2025-01-16, 14:17:31](https://news.ycombinator.com/item?id=42725385) - [No Calls](https://keygen.sh/blog/no-calls/)
 * [2025-01-16, 13:57:43](https://news.ycombinator.com/item?id=42725147) - [Nepenthes is a tarpit to catch AI web crawlers](https://zadzmo.org/code/nepenthes/)
 * [2025-01-16, 12:18:32](https://news.ycombinator.com/item?id=42724284) - [I ditched the algorithm for RSS](https://joeyehand.com/blog/2025/01/15/i-ditched-the-algorithm-for-rssand-you-should-too/)
@@ -26,7 +27,6 @@
 * [2025-01-13, 20:50:01](https://news.ycombinator.com/item?id=42689054) - [A UC Santa Cruz professor unearthed the oldest alphabet yet](https://www.universityofcalifornia.edu/news/how-uc-santa-cruz-professor-unearthed-oldest-alphabet-yet)
 * [2025-01-13, 20:11:14](https://news.ycombinator.com/item?id=42688392) - [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)
 * [2025-01-13, 14:28:33](https://news.ycombinator.com/item?id=42683731) - [Physically Based Rendering: From Theory to Implementation](https://pbr-book.org)
-* [2025-01-13, 14:16:15](https://news.ycombinator.com/item?id=42683616) - [Understanding Memory Management, Part 1: C](https://educatedguesswork.org/posts/memory-management-1/)
 * [2025-01-13, 12:35:48](https://news.ycombinator.com/item?id=42682777) - [Lua Programming in Lua (first edition) (2003)](https://www.lua.org/pil/contents.html)
 * [2025-01-13, 10:14:06](https://news.ycombinator.com/item?id=42681917) - [Porting the GNAT Ada compiler to macOS/aarch64](https://briancallahan.net/blog/20250112.html)
 * [2025-01-13, 09:55:24](https://news.ycombinator.com/item?id=42681793) - [Diffusion training from scratch on a micro-budget](https://github.com/SonyResearch/micro_diffusion)

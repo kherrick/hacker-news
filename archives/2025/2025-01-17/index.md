@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-01-17](index.md)
 
+* [2025-01-17, 15:23:58](https://news.ycombinator.com/item?id=42738464) - [Supreme Court rules to uphold TikTok ban, setting stage for shutdown](https://www.cnbc.com/2025/01/17/supreme-court-rules-to-uphold-tiktok-ban.html)
 * [2025-01-17, 13:52:48](https://news.ycombinator.com/item?id=42737502) - [GM parks claims driver location data was given to insurers, pushing up premiums](https://www.theregister.com/2025/01/17/gm_settles_ftc_charges/)
 * [2025-01-17, 13:35:17](https://news.ycombinator.com/item?id=42737345) - [Zig: What to Expect from Release Month](https://ziglang.org/news/what-to-expect-from-release-month/)
+* [2025-01-17, 12:46:08](https://news.ycombinator.com/item?id=42736968) - [The Derelict (2015)](https://www.damninteresting.com/the-derelict/)
 * [2025-01-17, 12:01:11](https://news.ycombinator.com/item?id=42736656) - [Fern (YC W23) Is Hiring an AI Engineer in NYC](https://www.ycombinator.com/companies/fern/jobs/bEL3MoW-ai-engineer)
 * [2025-01-17, 11:29:45](https://news.ycombinator.com/item?id=42736442) - [Scaling to users requires Synapse Pro](https://element.io/blog/scaling-to-millions-of-users-requires-synapse-pro/)
 * [2025-01-17, 10:16:59](https://news.ycombinator.com/item?id=42735976) - [Show HN: I built a credit-based system API](https://creduse.com/#features-grid)
