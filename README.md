@@ -25,9 +25,9 @@
 * [2025-01-13, 20:50:01](https://news.ycombinator.com/item?id=42689054) - [A UC Santa Cruz professor unearthed the oldest alphabet yet](https://www.universityofcalifornia.edu/news/how-uc-santa-cruz-professor-unearthed-oldest-alphabet-yet)
 * [2025-01-13, 20:11:14](https://news.ycombinator.com/item?id=42688392) - [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)
 * [2025-01-13, 14:28:33](https://news.ycombinator.com/item?id=42683731) - [Physically Based Rendering: From Theory to Implementation](https://pbr-book.org)
+* [2025-01-13, 12:35:48](https://news.ycombinator.com/item?id=42682777) - [Lua Programming in Lua (first edition)](https://www.lua.org/pil/contents.html)
 * [2025-01-13, 11:09:45](https://news.ycombinator.com/item?id=42682238) - [Exploring ways to mipmap alpha-tested textures](https://lisyarus.github.io/blog/posts/exploring-ways-to-mipmap-alpha-tested-textures.html)
 * [2025-01-13, 10:22:09](https://news.ycombinator.com/item?id=42681969) - [In Defence of 'Productivity Crap'](https://nicky.bearblog.dev/in-defence-of-productivity-crap/)
-* [2025-01-13, 09:55:24](https://news.ycombinator.com/item?id=42681793) - [Diffusion training from scratch on a micro-budget](https://github.com/SonyResearch/micro_diffusion)
 * [2025-01-13, 06:56:37](https://news.ycombinator.com/item?id=42680796) - [Mastering the Isolated Queen Pawn (IQP)](https://lichess.org/@/hari2209/blog/mastering-the-isolated-queen-pawn-iqp-an-in-depth-guide/0qxcMAbV)
 * [2025-01-13, 05:23:00](https://news.ycombinator.com/item?id=42680318) - [Slum: The Shadow Library Uptime Monitor](https://open-slum.org/)
 

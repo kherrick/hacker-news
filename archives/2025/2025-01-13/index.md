@@ -55,6 +55,7 @@
 * [2025-01-13, 12:51:37](https://news.ycombinator.com/item?id=42682876) - [Live London Underground / bus maps taken down by TfL trademark complaint](https://traintimes.org.uk/map/tube/)
 * [2025-01-13, 12:44:03](https://news.ycombinator.com/item?id=42682821) - [Ask HN: Am I the only one here who can't stand HN's AI obsession?](https://news.ycombinator.com/item?id=42682821)
 * [2025-01-13, 12:42:27](https://news.ycombinator.com/item?id=42682813) - [Can you complete the Oregon Trail if you wait at river for 14272 years: A study](https://moral.net.au/writing/2025/01/11/waiting_for_oregon/)
+* [2025-01-13, 12:35:48](https://news.ycombinator.com/item?id=42682777) - [Lua Programming in Lua (first edition)](https://www.lua.org/pil/contents.html)
 * [2025-01-13, 12:32:39](https://news.ycombinator.com/item?id=42682758) - [Earth breaches 1.5 °C climate limit for the first time: what does it mean?](https://www.nature.com/articles/d41586-025-00010-9)
 * [2025-01-13, 12:19:15](https://news.ycombinator.com/item?id=42682671) - [Euro-cloud provider Anexia moves 12,000 VMs off VMware to homebrew KVM platform](https://www.theregister.com/2025/01/13/anexia_vmware_to_kvm_migration/)
 * [2025-01-13, 12:17:43](https://news.ycombinator.com/item?id=42682660) - [The DevOps Engineer's Handbook](https://octopus.com/devops/)
