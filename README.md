@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-17, 12:01:11](https://news.ycombinator.com/item?id=42736656) - [Fern (YC W23) Is Hiring an AI Engineer in NYC](https://www.ycombinator.com/companies/fern/jobs/bEL3MoW-ai-engineer)
-* [2025-01-17, 09:41:10](https://news.ycombinator.com/item?id=42735767) - [Ask HN: How can I realistically change careers?](https://news.ycombinator.com/item?id=42735767)
 * [2025-01-17, 08:54:28](https://news.ycombinator.com/item?id=42735413) - [The Family Bass - Music with an NES](https://www.linusakesson.net/music/family-bass/index.php)
 * [2025-01-17, 08:50:45](https://news.ycombinator.com/item?id=42735393) - [You can't use your $6,299.00 Camera as a Webcam. That will be $5](https://romanzipp.com/blog/no-you-cant-use-your-6299-canon-camera-as-a-webcam)
 * [2025-01-17, 07:27:03](https://news.ycombinator.com/item?id=42734956) - [Trusting clients is probably a security flaw](https://liberda.nl/weblog/trust-no-client/)
@@ -29,6 +28,7 @@
 * [2025-01-13, 14:28:33](https://news.ycombinator.com/item?id=42683731) - [Physically Based Rendering: From Theory to Implementation](https://pbr-book.org)
 * [2025-01-13, 12:35:48](https://news.ycombinator.com/item?id=42682777) - [Lua Programming in Lua (first edition) (2003)](https://www.lua.org/pil/contents.html)
 * [2025-01-13, 10:22:09](https://news.ycombinator.com/item?id=42681969) - [In Defence of 'Productivity Crap'](https://nicky.bearblog.dev/in-defence-of-productivity-crap/)
+* [2025-01-13, 09:55:24](https://news.ycombinator.com/item?id=42681793) - [Diffusion training from scratch on a micro-budget](https://github.com/SonyResearch/micro_diffusion)
 * [2025-01-13, 05:23:00](https://news.ycombinator.com/item?id=42680318) - [Slum: The Shadow Library Uptime Monitor](https://open-slum.org/)
 
 ## [Archives](archives/index.md)
