@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-17](index.md)
 
+* [2025-01-17, 21:23:15](https://news.ycombinator.com/item?id=42743405) - [How do playing cards work? No one knows](https://www.polygon.com/videos/506918/playing-cards-history)
 * [2025-01-17, 20:41:56](https://news.ycombinator.com/item?id=42743033) - [Investigating an \"Evil\" RJ45 Dongle](https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle)
 * [2025-01-17, 19:36:37](https://news.ycombinator.com/item?id=42742350) - [Show HN: Compile C to Not Gates](https://github.com/tomhea/c2fj)
 * [2025-01-17, 19:20:14](https://news.ycombinator.com/item?id=42742184) - [Branchless UTF-8 Encoding](https://cceckman.com/writing/branchless-utf8-encoding/)

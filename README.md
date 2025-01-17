@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-17, 21:23:15](https://news.ycombinator.com/item?id=42743405) - [How do playing cards work? No one knows](https://www.polygon.com/videos/506918/playing-cards-history)
 * [2025-01-17, 20:41:56](https://news.ycombinator.com/item?id=42743033) - [Investigating an \"Evil\" RJ45 Dongle](https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle)
 * [2025-01-17, 19:36:37](https://news.ycombinator.com/item?id=42742350) - [Show HN: Compile C to Not Gates](https://github.com/tomhea/c2fj)
 * [2025-01-17, 19:20:14](https://news.ycombinator.com/item?id=42742184) - [Branchless UTF-8 Encoding](https://cceckman.com/writing/branchless-utf8-encoding/)
@@ -29,7 +30,6 @@
 * [2025-01-14, 06:31:22](https://news.ycombinator.com/item?id=42694384) - [Show HN: Decentralized robots (and things) orchestration system](https://docs.p2p.industries)
 * [2025-01-14, 04:44:06](https://news.ycombinator.com/item?id=42693748) - [A New type of web hacking technique: DoubleClickjacking](https://www.paulosyibelo.com/2024/12/doubleclickjacking-what.html)
 * [2025-01-13, 20:50:01](https://news.ycombinator.com/item?id=42689054) - [A UC Santa Cruz professor unearthed the oldest alphabet yet](https://www.universityofcalifornia.edu/news/how-uc-santa-cruz-professor-unearthed-oldest-alphabet-yet)
-* [2025-01-13, 12:35:48](https://news.ycombinator.com/item?id=42682777) - [Programming in Lua (first edition) (2003)](https://www.lua.org/pil/contents.html)
 
 ## [Archives](archives/index.md)
 
