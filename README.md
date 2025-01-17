@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-17, 20:41:56](https://news.ycombinator.com/item?id=42743033) - [Investigating an \"Evil\" RJ45 Dongle](https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle)
 * [2025-01-17, 19:36:37](https://news.ycombinator.com/item?id=42742350) - [Show HN: Compile C to Not Gates](https://github.com/tomhea/c2fj)
 * [2025-01-17, 19:20:14](https://news.ycombinator.com/item?id=42742184) - [Branchless UTF-8 Encoding](https://cceckman.com/writing/branchless-utf8-encoding/)
 * [2025-01-17, 19:07:54](https://news.ycombinator.com/item?id=42742057) - [Mathematics of the daily word game Waffle](https://arxiv.org/abs/2501.09286)
@@ -8,7 +9,6 @@
 * [2025-01-17, 17:00:11](https://news.ycombinator.com/item?id=42740301) - [Keeling Labs (YC W23) Is Hiring an ML Engineer for Grid-Scale Energy Storage](https://www.keelinglabs.com/jobs?ashby_jid=81b48fb8-8176-4529-a38d-8fc736ebe2aa)
 * [2025-01-17, 16:53:55](https://news.ycombinator.com/item?id=42740183) - [Dr. TVAM – Inverse Rendering for Tomographic Volumetric Additive Manufacturing](https://github.com/rgl-epfl/drtvam)
 * [2025-01-17, 16:21:13](https://news.ycombinator.com/item?id=42739572) - [French modernists were alarmed, inspired by newspaper's voracious dynamism](https://aeon.co/essays/the-french-modernists-loathed-and-loved-the-mass-media-of-their-day)
-* [2025-01-17, 16:00:07](https://news.ycombinator.com/item?id=42739163) - [Selling the Collective: On Kevin Killian's \"Selected Amazon Reviews\"](https://www.clereviewofbooks.com/writing/kevin-killian-selling-the-collective)
 * [2025-01-17, 15:36:01](https://news.ycombinator.com/item?id=42738656) - [Show HN: GUI for editing Mermaid class diagrams](https://docs.mermaidchart.com/blog/posts/gui-for-editing-mermaid-class-diagrams)
 * [2025-01-17, 15:23:58](https://news.ycombinator.com/item?id=42738464) - [Supreme Court upholds TikTok ban, but Trump might offer lifeline](https://www.cnbc.com/2025/01/17/supreme-court-rules-to-uphold-tiktok-ban.html)
 * [2025-01-17, 15:23:05](https://news.ycombinator.com/item?id=42738457) - [Skyvern Browser Agent 2.0: How We Reached State of the Art in Evals](https://blog.skyvern.com/skyvern-2-0-state-of-the-art-web-navigation-with-85-8-on-webvoyager-eval/)
