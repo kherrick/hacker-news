@@ -24,7 +24,7 @@
 * [2025-01-16, 14:17:31](https://news.ycombinator.com/item?id=42725385) - [No Calls](https://keygen.sh/blog/no-calls/)
 * [2025-01-16, 13:57:43](https://news.ycombinator.com/item?id=42725147) - [Nepenthes is a tarpit to catch AI web crawlers](https://zadzmo.org/code/nepenthes/)
 * [2025-01-16, 08:30:24](https://news.ycombinator.com/item?id=42722855) - [A standards-first web framework](https://nuejs.org/blog/standards-first-web-framework/)
-* [2025-01-14, 12:25:21](https://news.ycombinator.com/item?id=42696398) - [Engineering \"home-cooked\" software](https://ownerofhappy.org/software-fast-food)
+* [2025-01-15, 21:35:41](https://news.ycombinator.com/item?id=42717393) - [2k-year-old wine and the uncanny immediacy of the past](https://resobscura.substack.com/p/2000-year-old-wine-and-the-uncanny)
 * [2025-01-14, 07:36:25](https://news.ycombinator.com/item?id=42694732) - [PostgreSQL Anonymizer](https://postgresql-anonymizer.readthedocs.io/en/stable/)
 * [2025-01-14, 06:31:22](https://news.ycombinator.com/item?id=42694384) - [Show HN: Decentralized robots (and things) orchestration system](https://docs.p2p.industries)
 * [2025-01-14, 04:44:06](https://news.ycombinator.com/item?id=42693748) - [A New type of web hacking technique: DoubleClickjacking](https://www.paulosyibelo.com/2024/12/doubleclickjacking-what.html)
