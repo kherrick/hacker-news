@@ -12,6 +12,7 @@
 * [2025-01-13, 22:12:31](https://news.ycombinator.com/item?id=42690154) - [Lorne Michaels Is the Real Star of \"Saturday Night Live\"](https://www.newyorker.com/magazine/2025/01/20/lorne-michaels-profile)
 * [2025-01-13, 22:08:51](https://news.ycombinator.com/item?id=42690114) - [Five Years of React Native at Shopify](https://shopify.engineering/five-years-of-react-native-at-shopify)
 * [2025-01-13, 22:02:04](https://news.ycombinator.com/item?id=42690035) - [Scientists Discover Underground Water Vault in Oregon 3x the Size of Lake Mead](https://scitechdaily.com/scientists-discover-a-massive-underground-water-vault-in-oregon-3x-the-size-of-lake-mead/)
+* [2025-01-13, 21:41:12](https://news.ycombinator.com/item?id=42689802) - [Uncovering Real GPU NoC Characteristics: Implications on Interconnect Arch.](https://people.ece.ubc.ca/aamodt/publications/papers/realgpu-noc.micro2024.pdf)
 * [2025-01-13, 20:42:39](https://news.ycombinator.com/item?id=42688933) - [An Illustrator Dies, His Last Book Unfinished. In Steps His Son](https://www.nytimes.com/2025/01/13/books/booksupdate/charles-nicholas-santore-scroobius-pip.html)
 * [2025-01-13, 20:19:59](https://news.ycombinator.com/item?id=42688538) - [CEO of AI Music Company Says People Don't Like Making Music](https://www.404media.co/ceo-of-ai-music-company-says-people-dont-like-making-music/)
 * [2025-01-13, 19:55:46](https://news.ycombinator.com/item?id=42688159) - [JPMorgan Workers Ponder Union in Wake of Return-to-Office Mandate](https://www.barrons.com/articles/jpmorgan-back-to-office-mandate-union-4206af78)
