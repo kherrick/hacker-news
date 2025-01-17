@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2025-01-17, 07:01:27",
-      "https://news.ycombinator.com/item?id=42734851"
-    ],
-    [
-      "Issues with Color Spaces and Perceptual Brightness",
-      "https://johnaustin.io/articles/2025/issues-with-cielab-and-perceptual-brightness"
-    ]
-  ],
-  [
-    [
       "2025-01-17, 05:50:25",
       "https://news.ycombinator.com/item?id=42734478"
     ],
@@ -297,6 +287,16 @@
     [
       "A UC Santa Cruz professor unearthed the oldest alphabet yet",
       "https://www.universityofcalifornia.edu/news/how-uc-santa-cruz-professor-unearthed-oldest-alphabet-yet"
+    ]
+  ],
+  [
+    [
+      "2025-01-13, 12:35:48",
+      "https://news.ycombinator.com/item?id=42682777"
+    ],
+    [
+      "Programming in Lua (first edition) (2003)",
+      "https://www.lua.org/pil/contents.html"
     ]
   ]
 ]
