@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-17](index.md)
 
+* [2025-01-17, 21:54:29](https://news.ycombinator.com/item?id=42743673) - [Swedish Exports of Ball Bearings](https://old.reddit.com/r/AskHistorians/comments/172wq05/swedish_exports_of_ball_bearings_are_commonly/)
 * [2025-01-17, 21:23:15](https://news.ycombinator.com/item?id=42743405) - [How do playing cards work? No one knows](https://www.polygon.com/videos/506918/playing-cards-history)
 * [2025-01-17, 20:41:56](https://news.ycombinator.com/item?id=42743033) - [Investigating an \"Evil\" RJ45 Dongle](https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle)
 * [2025-01-17, 20:41:07](https://news.ycombinator.com/item?id=42743019) - [So You Want to Build Your Own Data Center](https://blog.railway.com/p/data-center-build-part-one)
