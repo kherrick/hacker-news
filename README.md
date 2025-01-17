@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-17, 13:52:48](https://news.ycombinator.com/item?id=42737502) - [GM parks claims driver location data was given to insurers, pushing up premiums](https://www.theregister.com/2025/01/17/gm_settles_ftc_charges/)
 * [2025-01-17, 12:01:11](https://news.ycombinator.com/item?id=42736656) - [Fern (YC W23) Is Hiring an AI Engineer in NYC](https://www.ycombinator.com/companies/fern/jobs/bEL3MoW-ai-engineer)
 * [2025-01-17, 08:54:28](https://news.ycombinator.com/item?id=42735413) - [The Family Bass - Music with an NES](https://www.linusakesson.net/music/family-bass/index.php)
 * [2025-01-17, 08:50:45](https://news.ycombinator.com/item?id=42735393) - [You can't use your $6,299.00 Camera as a Webcam. That will be $5](https://romanzipp.com/blog/no-you-cant-use-your-6299-canon-camera-as-a-webcam)
@@ -19,7 +20,6 @@
 * [2025-01-16, 12:18:32](https://news.ycombinator.com/item?id=42724284) - [I ditched the algorithm for RSS](https://joeyehand.com/blog/2025/01/15/i-ditched-the-algorithm-for-rssand-you-should-too/)
 * [2025-01-16, 08:30:24](https://news.ycombinator.com/item?id=42722855) - [A standards-first web framework](https://nuejs.org/blog/standards-first-web-framework/)
 * [2025-01-15, 21:35:41](https://news.ycombinator.com/item?id=42717393) - [2k-year-old wine and the uncanny immediacy of the past](https://resobscura.substack.com/p/2000-year-old-wine-and-the-uncanny)
-* [2025-01-14, 12:20:32](https://news.ycombinator.com/item?id=42696350) - [Homes Withstood the LA Fires. Architects Explain Why](https://www.bloomberg.com/news/articles/2025-01-13/los-angeles-wildfires-why-these-homes-didn-t-burn)
 * [2025-01-14, 08:33:08](https://news.ycombinator.com/item?id=42695040) - [Show HN: Another ELF Analysis Toolkit](https://github.com/M3rcuryLake/Nyxelf)
 * [2025-01-14, 07:36:25](https://news.ycombinator.com/item?id=42694732) - [PostgreSQL Anonymizer](https://postgresql-anonymizer.readthedocs.io/en/stable/)
 * [2025-01-13, 22:08:51](https://news.ycombinator.com/item?id=42690114) - [Five years of React Native at Shopify](https://shopify.engineering/five-years-of-react-native-at-shopify)
