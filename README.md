@@ -12,7 +12,6 @@
 * [2025-01-16, 20:00:02](https://news.ycombinator.com/item?id=42730126) - [Framework for Artificial Intelligence Diffusion](https://www.federalregister.gov/documents/2025/01/15/2025-00636/framework-for-artificial-intelligence-diffusion)
 * [2025-01-16, 18:24:09](https://news.ycombinator.com/item?id=42728916) - [Oh Shit, Git?](https://ohshitgit.com/)
 * [2025-01-16, 18:20:49](https://news.ycombinator.com/item?id=42728862) - [David Lynch has died](https://variety.com/2025/film/news/david-lynch-dead-director-blue-velvet-twin-peaks-1236276106/)
-* [2025-01-16, 17:24:39](https://news.ycombinator.com/item?id=42728165) - [Comment on 2015 mRNA paper suggests data re-used in different contexts](https://pubpeer.com/publications/323E84675EB2E849C56097D73D55FD#1)
 * [2025-01-16, 15:30:19](https://news.ycombinator.com/item?id=42726584) - [Test-driven development with an LLM for fun and profit](https://blog.yfzhou.fyi/posts/tdd-llm/)
 * [2025-01-16, 14:43:20](https://news.ycombinator.com/item?id=42725823) - [Device uses wind to create ammonia out of air](https://spectrum.ieee.org/ammonia-fuel-2670794408)
 * [2025-01-16, 14:17:31](https://news.ycombinator.com/item?id=42725385) - [No Calls](https://keygen.sh/blog/no-calls/)
@@ -30,6 +29,7 @@
 * [2025-01-13, 09:55:24](https://news.ycombinator.com/item?id=42681793) - [Diffusion training from scratch on a micro-budget](https://github.com/SonyResearch/micro_diffusion)
 * [2025-01-13, 05:23:00](https://news.ycombinator.com/item?id=42680318) - [Slum: The Shadow Library Uptime Monitor](https://open-slum.org/)
 * [2025-01-13, 05:00:52](https://news.ycombinator.com/item?id=42680229) - [Let's talk about bird tongues (2014)](https://toughlittlebirds.com/2014/11/20/lets-talk-about-bird-tongues/)
+* [2025-01-12, 20:20:07](https://news.ycombinator.com/item?id=42676545) - [Why some DVLA digital services don't work at night](https://dafyddvaughan.uk/blog/2025/why-some-dvla-digital-services-dont-work-at-night/)
 
 ## [Archives](archives/index.md)
 
