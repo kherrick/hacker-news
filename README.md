@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-17, 05:18:15](https://news.ycombinator.com/item?id=42734340) - [Kokoro TTS – A lightweight (82M params) text-to-speech model](https://kokorotts.online/)
 * [2025-01-17, 05:01:01](https://news.ycombinator.com/item?id=42734260) - [General Motors Is Banned from Selling Driving Behavior Data for 5 Years](https://www.nytimes.com/2025/01/16/technology/general-motors-driving-data-settlement.html)
 * [2025-01-17, 03:00:10](https://news.ycombinator.com/item?id=42733640) - [Bypassing disk encryption on systems with automatic TPM2 unlock](https://oddlama.org/blog/bypassing-disk-encryption-with-tpm2-unlock/)
 * [2025-01-17, 00:32:06](https://news.ycombinator.com/item?id=42732728) - [Is the world becoming uninsurable?](https://charleshughsmith.substack.com/p/is-the-world-becoming-uninsurable)
@@ -29,7 +30,6 @@
 * [2025-01-13, 09:55:24](https://news.ycombinator.com/item?id=42681793) - [Diffusion training from scratch on a micro-budget](https://github.com/SonyResearch/micro_diffusion)
 * [2025-01-13, 05:33:05](https://news.ycombinator.com/item?id=42680370) - [Cascading OKRs: We can do Better](https://jessitron.com/2025/01/12/cascading-okrs-we-can-do-better/)
 * [2025-01-13, 05:23:00](https://news.ycombinator.com/item?id=42680318) - [Slum: The Shadow Library Uptime Monitor](https://open-slum.org/)
-* [2025-01-13, 05:00:52](https://news.ycombinator.com/item?id=42680229) - [Let's talk about bird tongues (2014)](https://toughlittlebirds.com/2014/11/20/lets-talk-about-bird-tongues/)
 
 ## [Archives](archives/index.md)
 
