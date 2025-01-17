@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2025-01-17, 03:00:10",
-      "https://news.ycombinator.com/item?id=42733640"
-    ],
-    [
-      "Bypassing disk encryption on systems with automatic TPM2 unlock",
-      "https://oddlama.org/blog/bypassing-disk-encryption-with-tpm2-unlock/"
-    ]
-  ],
-  [
-    [
       "2025-01-17, 00:32:06",
       "https://news.ycombinator.com/item?id=42732728"
     ],
@@ -257,6 +247,16 @@
     [
       "Lightcell: An engine that uses light to make electricity",
       "https://www.lightcellenergy.com/"
+    ]
+  ],
+  [
+    [
+      "2025-01-14, 09:35:47",
+      "https://news.ycombinator.com/item?id=42695414"
+    ],
+    [
+      "Finite Field Assembly: A Language for Emulating GPUs on CPU",
+      "https://leetarxiv.substack.com/p/emulating-a-gpu-on-a-cpu-using-finite"
     ]
   ],
   [
