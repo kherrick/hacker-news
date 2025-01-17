@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-17, 07:27:03",
+      "https://news.ycombinator.com/item?id=42734956"
+    ],
+    [
+      "Trusting clients is probably a security flaw",
+      "https://liberda.nl/weblog/trust-no-client/"
+    ]
+  ],
+  [
+    [
       "2025-01-17, 07:01:27",
       "https://news.ycombinator.com/item?id=42734851"
     ],
@@ -237,16 +247,6 @@
     [
       "Physically Based Rendering: From Theory to Implementation",
       "https://pbr-book.org"
-    ]
-  ],
-  [
-    [
-      "2025-01-13, 14:16:15",
-      "https://news.ycombinator.com/item?id=42683616"
-    ],
-    [
-      "Understanding Memory Management, Part 1: C",
-      "https://educatedguesswork.org/posts/memory-management-1/"
     ]
   ],
   [
