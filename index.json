@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-17, 10:16:59",
+      "https://news.ycombinator.com/item?id=42735976"
+    ],
+    [
+      "Show HN: I built a credit-based system API",
+      "https://creduse.com/#features-grid"
+    ]
+  ],
+  [
+    [
       "2025-01-17, 08:54:28",
       "https://news.ycombinator.com/item?id=42735413"
     ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2025-01-16, 21:00:25",
-      "https://news.ycombinator.com/item?id=42730844"
-    ],
-    [
-      "Continue (YC S23) Is Hiring a Software Engineer in San Francisco",
-      "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer"
-    ]
-  ],
-  [
-    [
       "2025-01-16, 20:00:02",
       "https://news.ycombinator.com/item?id=42730126"
     ],
@@ -177,6 +177,16 @@
     [
       "I ditched the algorithm for RSS",
       "https://joeyehand.com/blog/2025/01/15/i-ditched-the-algorithm-for-rssand-you-should-too/"
+    ]
+  ],
+  [
+    [
+      "2025-01-16, 08:30:24",
+      "https://news.ycombinator.com/item?id=42722855"
+    ],
+    [
+      "A standards-first web framework",
+      "https://nuejs.org/blog/standards-first-web-framework/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Lua Programming in Lua (first edition)",
       "https://www.lua.org/pil/contents.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-13, 11:09:45",
-      "https://news.ycombinator.com/item?id=42682238"
-    ],
-    [
-      "Exploring ways to mipmap alpha-tested textures",
-      "https://lisyarus.github.io/blog/posts/exploring-ways-to-mipmap-alpha-tested-textures.html"
     ]
   ],
   [
