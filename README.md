@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-17, 05:18:15](https://news.ycombinator.com/item?id=42734340) - [Kokoro TTS – A lightweight (82M params) text-to-speech model](https://kokorotts.online/)
 * [2025-01-17, 05:01:01](https://news.ycombinator.com/item?id=42734260) - [General Motors Is Banned from Selling Driving Behavior Data for 5 Years](https://www.nytimes.com/2025/01/16/technology/general-motors-driving-data-settlement.html)
 * [2025-01-17, 03:00:10](https://news.ycombinator.com/item?id=42733640) - [Bypassing disk encryption on systems with automatic TPM2 unlock](https://oddlama.org/blog/bypassing-disk-encryption-with-tpm2-unlock/)
 * [2025-01-17, 00:32:06](https://news.ycombinator.com/item?id=42732728) - [Is the world becoming uninsurable?](https://charleshughsmith.substack.com/p/is-the-world-becoming-uninsurable)
@@ -28,6 +27,7 @@
 * [2025-01-13, 14:16:15](https://news.ycombinator.com/item?id=42683616) - [Understanding Memory Management, Part 1: C](https://educatedguesswork.org/posts/memory-management-1/)
 * [2025-01-13, 10:14:06](https://news.ycombinator.com/item?id=42681917) - [Porting the GNAT Ada compiler to macOS/aarch64](https://briancallahan.net/blog/20250112.html)
 * [2025-01-13, 09:55:24](https://news.ycombinator.com/item?id=42681793) - [Diffusion training from scratch on a micro-budget](https://github.com/SonyResearch/micro_diffusion)
+* [2025-01-13, 06:56:37](https://news.ycombinator.com/item?id=42680796) - [Mastering the Isolated Queen Pawn (IQP)](https://lichess.org/@/hari2209/blog/mastering-the-isolated-queen-pawn-iqp-an-in-depth-guide/0qxcMAbV)
 * [2025-01-13, 05:33:05](https://news.ycombinator.com/item?id=42680370) - [Cascading OKRs: We can do Better](https://jessitron.com/2025/01/12/cascading-okrs-we-can-do-better/)
 * [2025-01-13, 05:23:00](https://news.ycombinator.com/item?id=42680318) - [Slum: The Shadow Library Uptime Monitor](https://open-slum.org/)
 
