@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2025-01-16, 22:08:46",
-      "https://news.ycombinator.com/item?id=42731527"
-    ],
-    [
-      "MuJoco Playground",
-      "https://playground.mujoco.org/"
-    ]
-  ],
-  [
-    [
       "2025-01-16, 21:59:38",
       "https://news.ycombinator.com/item?id=42731460"
     ],
@@ -261,6 +251,16 @@
   ],
   [
     [
+      "2025-01-13, 11:09:45",
+      "https://news.ycombinator.com/item?id=42682238"
+    ],
+    [
+      "Exploring ways to mipmap alpha-tested textures",
+      "https://lisyarus.github.io/blog/posts/exploring-ways-to-mipmap-alpha-tested-textures.html"
+    ]
+  ],
+  [
+    [
       "2025-01-13, 10:22:09",
       "https://news.ycombinator.com/item?id=42681969"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2025-01-13, 10:14:06",
-      "https://news.ycombinator.com/item?id=42681917"
+      "2025-01-13, 09:55:24",
+      "https://news.ycombinator.com/item?id=42681793"
     ],
     [
-      "Porting the GNAT Ada compiler to macOS/aarch64",
-      "https://briancallahan.net/blog/20250112.html"
+      "Diffusion training from scratch on a micro-budget",
+      "https://github.com/SonyResearch/micro_diffusion"
     ]
   ],
   [
