@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-17, 16:21:13](https://news.ycombinator.com/item?id=42739572) - [French modernists were alarmed, inspired by newspaper's voracious dynamism](https://aeon.co/essays/the-french-modernists-loathed-and-loved-the-mass-media-of-their-day)
 * [2025-01-17, 15:36:01](https://news.ycombinator.com/item?id=42738656) - [Show HN: GUI for Editing Mermaid Class Diagrams](https://docs.mermaidchart.com/blog/posts/gui-for-editing-mermaid-class-diagrams)
 * [2025-01-17, 15:23:58](https://news.ycombinator.com/item?id=42738464) - [Supreme Court rules to uphold TikTok ban, setting stage for shutdown](https://www.cnbc.com/2025/01/17/supreme-court-rules-to-uphold-tiktok-ban.html)
+* [2025-01-17, 14:23:56](https://news.ycombinator.com/item?id=42737778) - [Show HN: Interactive game teaching dark patterns in UX design](https://games.productartistry.com/games/dark-patterns)
 * [2025-01-17, 12:46:08](https://news.ycombinator.com/item?id=42736968) - [The Derelict (2015)](https://www.damninteresting.com/the-derelict/)
 * [2025-01-17, 12:01:11](https://news.ycombinator.com/item?id=42736656) - [Fern (YC W23) Is Hiring an AI Engineer in NYC](https://www.ycombinator.com/companies/fern/jobs/bEL3MoW-ai-engineer)
 * [2025-01-17, 09:41:10](https://news.ycombinator.com/item?id=42735767) - [Ask HN: How can I realistically change careers?](https://news.ycombinator.com/item?id=42735767)
@@ -24,11 +26,9 @@
 * [2025-01-14, 12:25:21](https://news.ycombinator.com/item?id=42696398) - [Engineering \"home-cooked\" software](https://ownerofhappy.org/software-fast-food)
 * [2025-01-14, 08:33:08](https://news.ycombinator.com/item?id=42695040) - [Show HN: Another ELF Analysis Toolkit](https://github.com/M3rcuryLake/Nyxelf)
 * [2025-01-14, 07:36:25](https://news.ycombinator.com/item?id=42694732) - [PostgreSQL Anonymizer](https://postgresql-anonymizer.readthedocs.io/en/stable/)
-* [2025-01-13, 22:08:51](https://news.ycombinator.com/item?id=42690114) - [Five years of React Native at Shopify](https://shopify.engineering/five-years-of-react-native-at-shopify)
 * [2025-01-13, 20:50:01](https://news.ycombinator.com/item?id=42689054) - [A UC Santa Cruz professor unearthed the oldest alphabet yet](https://www.universityofcalifornia.edu/news/how-uc-santa-cruz-professor-unearthed-oldest-alphabet-yet)
 * [2025-01-13, 20:11:14](https://news.ycombinator.com/item?id=42688392) - [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)
 * [2025-01-13, 14:28:33](https://news.ycombinator.com/item?id=42683731) - [Physically Based Rendering: From Theory to Implementation](https://pbr-book.org)
-* [2025-01-13, 12:35:48](https://news.ycombinator.com/item?id=42682777) - [Lua Programming in Lua (first edition) (2003)](https://www.lua.org/pil/contents.html)
 * [2025-01-13, 09:55:24](https://news.ycombinator.com/item?id=42681793) - [Diffusion training from scratch on a micro-budget](https://github.com/SonyResearch/micro_diffusion)
 
 ## [Archives](archives/index.md)
