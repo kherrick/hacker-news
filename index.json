@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-17, 00:30:27",
+      "https://news.ycombinator.com/item?id=42732714"
+    ],
+    [
+      "Firebase bill is usually $50, but I was surprised to see a $70k bill in one day",
+      "https://twitter.com/tamarajtran/status/1880036092906467841"
+    ]
+  ],
+  [
+    [
       "2025-01-16, 22:55:37",
       "https://news.ycombinator.com/item?id=42731962"
     ],
@@ -77,16 +87,6 @@
     [
       "David Lynch has died",
       "https://variety.com/2025/film/news/david-lynch-dead-director-blue-velvet-twin-peaks-1236276106/"
-    ]
-  ],
-  [
-    [
-      "2025-01-16, 17:24:39",
-      "https://news.ycombinator.com/item?id=42728165"
-    ],
-    [
-      "Comment on 2015 mRNA paper suggests data re-used in different contexts",
-      "https://pubpeer.com/publications/323E84675EB2E849C56097D73D55FD#1"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-01-16, 08:30:24",
-      "https://news.ycombinator.com/item?id=42722855"
-    ],
-    [
-      "A standards-first web framework",
-      "https://nuejs.org/blog/standards-first-web-framework/"
-    ]
-  ],
-  [
-    [
       "2025-01-15, 21:35:41",
       "https://news.ycombinator.com/item?id=42717393"
     ],
@@ -227,6 +217,16 @@
     [
       "Five years of React Native at Shopify",
       "https://shopify.engineering/five-years-of-react-native-at-shopify"
+    ]
+  ],
+  [
+    [
+      "2025-01-13, 21:41:12",
+      "https://news.ycombinator.com/item?id=42689802"
+    ],
+    [
+      "Uncovering Real GPU NoC Characteristics: Implications on Interconnect Arch.",
+      "https://people.ece.ubc.ca/aamodt/publications/papers/realgpu-noc.micro2024.pdf"
     ]
   ],
   [
