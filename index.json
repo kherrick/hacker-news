@@ -1,22 +1,32 @@
 [
   [
     [
-      "2025-01-17, 03:01:59",
-      "https://news.ycombinator.com/item?id=42733649"
-    ],
-    [
-      "NY Assembly Bill: Criminal background checks for (nearly all) 3D printers",
-      "https://www.nysenate.gov/legislation/bills/2025/A2228"
-    ]
-  ],
-  [
-    [
       "2025-01-17, 03:00:10",
       "https://news.ycombinator.com/item?id=42733640"
     ],
     [
       "Bypassing disk encryption on systems with automatic TPM2 unlock",
       "https://oddlama.org/blog/bypassing-disk-encryption-with-tpm2-unlock/"
+    ]
+  ],
+  [
+    [
+      "2025-01-17, 00:32:06",
+      "https://news.ycombinator.com/item?id=42732728"
+    ],
+    [
+      "Is the world becoming uninsurable?",
+      "https://charleshughsmith.substack.com/p/is-the-world-becoming-uninsurable"
+    ]
+  ],
+  [
+    [
+      "2025-01-17, 00:30:27",
+      "https://news.ycombinator.com/item?id=42732714"
+    ],
+    [
+      "Firebase bill is usually $50, but I was surprised to see a $70k bill in one day",
+      "https://twitter.com/tamarajtran/status/1880036092906467841"
     ]
   ],
   [
@@ -81,6 +91,16 @@
   ],
   [
     [
+      "2025-01-16, 19:49:23",
+      "https://news.ycombinator.com/item?id=42729996"
+    ],
+    [
+      "How can a top scientist be so confidently wrong? R. A. Fisher and smoking (2022)",
+      "https://statmodeling.stat.columbia.edu/2022/06/08/how-can-a-top-scientist-be-so-confidently-wrong-r-a-fisher-and-smoking-example/"
+    ]
+  ],
+  [
+    [
       "2025-01-16, 18:24:09",
       "https://news.ycombinator.com/item?id=42728916"
     ],
@@ -107,16 +127,6 @@
     [
       "Comment on 2015 mRNA paper suggests data re-used in different contexts",
       "https://pubpeer.com/publications/323E84675EB2E849C56097D73D55FD#1"
-    ]
-  ],
-  [
-    [
-      "2025-01-16, 17:10:35",
-      "https://news.ycombinator.com/item?id=42727970"
-    ],
-    [
-      "Show HN: DBOS TypeScript – Lightweight Durable Execution Built on Postgres",
-      "https://github.com/dbos-inc/dbos-transact-ts"
     ]
   ],
   [
@@ -171,6 +181,16 @@
   ],
   [
     [
+      "2025-01-16, 08:30:24",
+      "https://news.ycombinator.com/item?id=42722855"
+    ],
+    [
+      "A standards-first web framework",
+      "https://nuejs.org/blog/standards-first-web-framework/"
+    ]
+  ],
+  [
+    [
       "2025-01-15, 21:35:41",
       "https://news.ycombinator.com/item?id=42717393"
     ],
@@ -187,16 +207,6 @@
     [
       "Show HN: Another ELF Analysis Toolkit",
       "https://github.com/M3rcuryLake/Nyxelf"
-    ]
-  ],
-  [
-    [
-      "2025-01-14, 03:32:27",
-      "https://news.ycombinator.com/item?id=42693239"
-    ],
-    [
-      "Laser technique measures distances with nanometre precision",
-      "https://www.newscientist.com/article/2463645-laser-technique-measures-vast-distances-with-nanometre-precision/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Let's talk about bird tongues (2014)",
       "https://toughlittlebirds.com/2014/11/20/lets-talk-about-bird-tongues/"
-    ]
-  ],
-  [
-    [
-      "2025-01-12, 20:20:07",
-      "https://news.ycombinator.com/item?id=42676545"
-    ],
-    [
-      "Why some DVLA digital services don't work at night",
-      "https://dafyddvaughan.uk/blog/2025/why-some-dvla-digital-services-dont-work-at-night/"
     ]
   ]
 ]
