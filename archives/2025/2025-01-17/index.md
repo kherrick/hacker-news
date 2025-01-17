@@ -10,6 +10,7 @@
 * [2025-01-17, 20:41:07](https://news.ycombinator.com/item?id=42743019) - [So You Want to Build Your Own Data Center](https://blog.railway.com/p/data-center-build-part-one)
 * [2025-01-17, 19:36:37](https://news.ycombinator.com/item?id=42742350) - [Show HN: Compile C to Not Gates](https://github.com/tomhea/c2fj)
 * [2025-01-17, 19:20:14](https://news.ycombinator.com/item?id=42742184) - [Branchless UTF-8 Encoding](https://cceckman.com/writing/branchless-utf8-encoding/)
+* [2025-01-17, 19:17:48](https://news.ycombinator.com/item?id=42742161) - [Higher potassium intake at dinner linked to fewer sleep disturbances – study](https://www.nutraingredients-asia.com/Article/2025/01/07/higher-potassium-intake-at-dinner-linked-to-fewer-sleep-disturbances/)
 * [2025-01-17, 19:14:16](https://news.ycombinator.com/item?id=42742123) - [Brits still associate working-class accents with criminals – study warns of bias](https://www.cam.ac.uk/research/news/brits-still-associate-working-class-accents-with-criminal-behaviour-study-warns-of-bias-in-the)
 * [2025-01-17, 19:07:54](https://news.ycombinator.com/item?id=42742057) - [Mathematics of the NYT daily word game Waffle](https://arxiv.org/abs/2501.09286)
 * [2025-01-17, 18:49:30](https://news.ycombinator.com/item?id=42741880) - [Undocumented Immigrant Offending Rate Lower Than U.S.-Born Citizen Rate](https://nij.ojp.gov/topics/articles/undocumented-immigrant-offending-rate-lower-us-born-citizen-rate)
