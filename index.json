@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2025-01-16, 21:55:01",
+      "https://news.ycombinator.com/item?id=42731417"
+    ],
+    [
+      "Show HN: Real-time nonlinear optics simulation (JS/GLSL)",
+      "https://github.com/westoncb/nonlinear-optics-sandbox"
+    ]
+  ],
+  [
+    [
       "2025-01-16, 21:25:24",
       "https://news.ycombinator.com/item?id=42731091"
     ],
@@ -197,16 +207,6 @@
     [
       "Nepenthes is a tarpit to catch AI web crawlers",
       "https://zadzmo.org/code/nepenthes/"
-    ]
-  ],
-  [
-    [
-      "2025-01-16, 12:18:32",
-      "https://news.ycombinator.com/item?id=42724284"
-    ],
-    [
-      "I ditched the algorithm for RSS",
-      "https://joeyehand.com/blog/2025/01/15/i-ditched-the-algorithm-for-rssand-you-should-too/"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2025-01-14, 06:31:22",
+      "https://news.ycombinator.com/item?id=42694384"
+    ],
+    [
+      "Show HN: Decentralized robots (and things) orchestration system",
+      "https://docs.p2p.industries"
+    ]
+  ],
+  [
+    [
       "2025-01-13, 20:50:01",
       "https://news.ycombinator.com/item?id=42689054"
     ],
@@ -287,16 +297,6 @@
     [
       "Physically Based Rendering: From Theory to Implementation",
       "https://pbr-book.org"
-    ]
-  ],
-  [
-    [
-      "2025-01-13, 09:55:24",
-      "https://news.ycombinator.com/item?id=42681793"
-    ],
-    [
-      "Diffusion training from scratch on a micro-budget",
-      "https://github.com/SonyResearch/micro_diffusion"
     ]
   ]
 ]
