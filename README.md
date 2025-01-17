@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-17, 19:14:16](https://news.ycombinator.com/item?id=42742123) - [Brits still associate working-class accents with criminals – study warns of bias](https://www.cam.ac.uk/research/news/brits-still-associate-working-class-accents-with-criminal-behaviour-study-warns-of-bias-in-the)
 * [2025-01-17, 19:07:54](https://news.ycombinator.com/item?id=42742057) - [Mathematics of the NYT daily word game Waffle](https://arxiv.org/abs/2501.09286)
 * [2025-01-17, 17:15:07](https://news.ycombinator.com/item?id=42740596) - [Brood War Korean Translations](https://blog.sourcedive.net/brood-war-korean-translations/)
 * [2025-01-17, 17:00:11](https://news.ycombinator.com/item?id=42740301) - [Keeling Labs (YC W23) Is Hiring an ML Engineer for Grid-Scale Energy Storage](https://www.keelinglabs.com/jobs?ashby_jid=81b48fb8-8176-4529-a38d-8fc736ebe2aa)
@@ -23,7 +24,6 @@
 * [2025-01-16, 14:17:31](https://news.ycombinator.com/item?id=42725385) - [No Calls](https://keygen.sh/blog/no-calls/)
 * [2025-01-16, 13:57:43](https://news.ycombinator.com/item?id=42725147) - [Nepenthes is a tarpit to catch AI web crawlers](https://zadzmo.org/code/nepenthes/)
 * [2025-01-16, 08:30:24](https://news.ycombinator.com/item?id=42722855) - [A standards-first web framework](https://nuejs.org/blog/standards-first-web-framework/)
-* [2025-01-15, 21:35:41](https://news.ycombinator.com/item?id=42717393) - [2k-year-old wine and the uncanny immediacy of the past](https://resobscura.substack.com/p/2000-year-old-wine-and-the-uncanny)
 * [2025-01-14, 13:36:09](https://news.ycombinator.com/item?id=42697001) - [Lightcell: An engine that uses light to make electricity](https://www.lightcellenergy.com/)
 * [2025-01-14, 07:36:25](https://news.ycombinator.com/item?id=42694732) - [PostgreSQL Anonymizer](https://postgresql-anonymizer.readthedocs.io/en/stable/)
 * [2025-01-14, 06:31:22](https://news.ycombinator.com/item?id=42694384) - [Show HN: Decentralized robots (and things) orchestration system](https://docs.p2p.industries)

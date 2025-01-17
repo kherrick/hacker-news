@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-17](index.md)
 
+* [2025-01-17, 19:14:16](https://news.ycombinator.com/item?id=42742123) - [Brits still associate working-class accents with criminals – study warns of bias](https://www.cam.ac.uk/research/news/brits-still-associate-working-class-accents-with-criminal-behaviour-study-warns-of-bias-in-the)
 * [2025-01-17, 19:07:54](https://news.ycombinator.com/item?id=42742057) - [Mathematics of the NYT daily word game Waffle](https://arxiv.org/abs/2501.09286)
 * [2025-01-17, 18:49:30](https://news.ycombinator.com/item?id=42741880) - [Undocumented Immigrant Offending Rate Lower Than U.S.-Born Citizen Rate](https://nij.ojp.gov/topics/articles/undocumented-immigrant-offending-rate-lower-us-born-citizen-rate)
 * [2025-01-17, 17:15:07](https://news.ycombinator.com/item?id=42740596) - [Brood War Korean Translations](https://blog.sourcedive.net/brood-war-korean-translations/)
