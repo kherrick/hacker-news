@@ -24,10 +24,10 @@
 * [2025-01-14, 07:36:25](https://news.ycombinator.com/item?id=42694732) - [PostgreSQL Anonymizer](https://postgresql-anonymizer.readthedocs.io/en/stable/)
 * [2025-01-13, 22:08:51](https://news.ycombinator.com/item?id=42690114) - [Five years of React Native at Shopify](https://shopify.engineering/five-years-of-react-native-at-shopify)
 * [2025-01-13, 20:50:01](https://news.ycombinator.com/item?id=42689054) - [A UC Santa Cruz professor unearthed the oldest alphabet yet](https://www.universityofcalifornia.edu/news/how-uc-santa-cruz-professor-unearthed-oldest-alphabet-yet)
+* [2025-01-13, 20:36:40](https://news.ycombinator.com/item?id=42688834) - [What I wish I knew before I quit my job](https://michaeldrogalis.substack.com/p/what-i-wish-i-knew-before-i-quit)
 * [2025-01-13, 20:11:14](https://news.ycombinator.com/item?id=42688392) - [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)
 * [2025-01-13, 14:28:33](https://news.ycombinator.com/item?id=42683731) - [Physically Based Rendering: From Theory to Implementation](https://pbr-book.org)
 * [2025-01-13, 12:35:48](https://news.ycombinator.com/item?id=42682777) - [Lua Programming in Lua (first edition) (2003)](https://www.lua.org/pil/contents.html)
-* [2025-01-13, 10:22:09](https://news.ycombinator.com/item?id=42681969) - [In Defence of 'Productivity Crap'](https://nicky.bearblog.dev/in-defence-of-productivity-crap/)
 * [2025-01-13, 09:55:24](https://news.ycombinator.com/item?id=42681793) - [Diffusion training from scratch on a micro-budget](https://github.com/SonyResearch/micro_diffusion)
 * [2025-01-13, 05:23:00](https://news.ycombinator.com/item?id=42680318) - [Slum: The Shadow Library Uptime Monitor](https://open-slum.org/)
 
