@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-01-17, 03:00:10",
+      "https://news.ycombinator.com/item?id=42733640"
+    ],
+    [
+      "Bypassing disk encryption on systems with automatic TPM2 unlock",
+      "https://oddlama.org/blog/bypassing-disk-encryption-with-tpm2-unlock/"
+    ]
+  ],
+  [
+    [
       "2025-01-16, 22:55:37",
       "https://news.ycombinator.com/item?id=42731962"
     ],
     [
-      "Some Things to Expect in 2025",
+      "Some things to expect in 2025",
       "https://lwn.net/Articles/1003780/"
     ]
   ],
@@ -147,16 +157,6 @@
     [
       "Nepenthes is a tarpit to catch AI web crawlers",
       "https://zadzmo.org/code/nepenthes/"
-    ]
-  ],
-  [
-    [
-      "2025-01-16, 13:23:32",
-      "https://news.ycombinator.com/item?id=42724761"
-    ],
-    [
-      "Nokia's internal presentation after iPhone was launched (2007) [pdf]",
-      "https://nokia-apple-iphone-was-launched-presentation.tiiny.site/"
     ]
   ],
   [
