@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-17](index.md)
 
+* [2025-01-17, 19:07:54](https://news.ycombinator.com/item?id=42742057) - [Mathematics of the NYT daily word game Waffle](https://arxiv.org/abs/2501.09286)
 * [2025-01-17, 18:49:30](https://news.ycombinator.com/item?id=42741880) - [Undocumented Immigrant Offending Rate Lower Than U.S.-Born Citizen Rate](https://nij.ojp.gov/topics/articles/undocumented-immigrant-offending-rate-lower-us-born-citizen-rate)
 * [2025-01-17, 17:15:07](https://news.ycombinator.com/item?id=42740596) - [Brood War Korean Translations](https://blog.sourcedive.net/brood-war-korean-translations/)
 * [2025-01-17, 17:00:11](https://news.ycombinator.com/item?id=42740301) - [Keeling Labs (YC W23) Is Hiring an ML Engineer for Grid-Scale Energy Storage](https://www.keelinglabs.com/jobs?ashby_jid=81b48fb8-8176-4529-a38d-8fc736ebe2aa)
