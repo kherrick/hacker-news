@@ -2,6 +2,7 @@
 
 * [2025-01-17, 21:23:15](https://news.ycombinator.com/item?id=42743405) - [How do playing cards work? No one knows](https://www.polygon.com/videos/506918/playing-cards-history)
 * [2025-01-17, 20:41:56](https://news.ycombinator.com/item?id=42743033) - [Investigating an \"Evil\" RJ45 Dongle](https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle)
+* [2025-01-17, 20:41:07](https://news.ycombinator.com/item?id=42743019) - [So You Want to Build Your Own Data Center](https://blog.railway.com/p/data-center-build-part-one)
 * [2025-01-17, 19:36:37](https://news.ycombinator.com/item?id=42742350) - [Show HN: Compile C to Not Gates](https://github.com/tomhea/c2fj)
 * [2025-01-17, 19:20:14](https://news.ycombinator.com/item?id=42742184) - [Branchless UTF-8 Encoding](https://cceckman.com/writing/branchless-utf8-encoding/)
 * [2025-01-17, 19:07:54](https://news.ycombinator.com/item?id=42742057) - [Mathematics of the daily word game Waffle](https://arxiv.org/abs/2501.09286)
@@ -19,7 +20,6 @@
 * [2025-01-17, 05:50:25](https://news.ycombinator.com/item?id=42734478) - [Let's talk about AI and end-to-end encryption](https://blog.cryptographyengineering.com/2025/01/17/lets-talk-about-ai-and-end-to-end-encryption/)
 * [2025-01-17, 03:00:10](https://news.ycombinator.com/item?id=42733640) - [Bypassing disk encryption on systems with automatic TPM2 unlock](https://oddlama.org/blog/bypassing-disk-encryption-with-tpm2-unlock/)
 * [2025-01-17, 00:32:06](https://news.ycombinator.com/item?id=42732728) - [Is the world becoming uninsurable?](https://charleshughsmith.substack.com/p/is-the-world-becoming-uninsurable)
-* [2025-01-16, 22:13:22](https://news.ycombinator.com/item?id=42731582) - [Learn Yjs Interactively](https://learn.yjs.dev/)
 * [2025-01-16, 21:55:01](https://news.ycombinator.com/item?id=42731417) - [Show HN: Real-time nonlinear optics simulation (JS/GLSL)](https://github.com/westoncb/nonlinear-optics-sandbox)
 * [2025-01-16, 21:25:24](https://news.ycombinator.com/item?id=42731091) - [Starship Flight 7](https://www.spacex.com/launches/mission/?missionId=starship-flight-7?submit)
 * [2025-01-16, 14:17:31](https://news.ycombinator.com/item?id=42725385) - [No Calls](https://keygen.sh/blog/no-calls/)
