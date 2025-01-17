@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-01-17, 15:08:16",
-      "https://news.ycombinator.com/item?id=42738284"
-    ],
-    [
-      "Project Mini Rack – compact and portable homelabs",
-      "https://www.jeffgeerling.com/blog/2025/project-mini-rack-compact-and-portable-homelabs"
-    ]
-  ],
-  [
-    [
       "2025-01-17, 14:42:55",
       "https://news.ycombinator.com/item?id=42737985"
     ],
@@ -297,6 +287,16 @@
     [
       "Titans: Learning to Memorize at Test Time",
       "https://arxiv.org/abs/2501.00663"
+    ]
+  ],
+  [
+    [
+      "2025-01-13, 14:28:33",
+      "https://news.ycombinator.com/item?id=42683731"
+    ],
+    [
+      "Physically Based Rendering: From Theory to Implementation",
+      "https://pbr-book.org"
     ]
   ]
 ]
