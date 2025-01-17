@@ -8,6 +8,7 @@
 * [2025-01-17, 16:21:13](https://news.ycombinator.com/item?id=42739572) - [French modernists were alarmed, inspired by newspaper's voracious dynamism](https://aeon.co/essays/the-french-modernists-loathed-and-loved-the-mass-media-of-their-day)
 * [2025-01-17, 15:36:01](https://news.ycombinator.com/item?id=42738656) - [Show HN: GUI for Editing Mermaid Class Diagrams](https://docs.mermaidchart.com/blog/posts/gui-for-editing-mermaid-class-diagrams)
 * [2025-01-17, 15:23:58](https://news.ycombinator.com/item?id=42738464) - [Supreme Court rules to uphold TikTok ban, setting stage for shutdown](https://www.cnbc.com/2025/01/17/supreme-court-rules-to-uphold-tiktok-ban.html)
+* [2025-01-17, 14:42:55](https://news.ycombinator.com/item?id=42737985) - [Ozempic and Wegovy are selected for Medicare's price negotiations](https://apnews.com/article/drug-prices-medicare-biden-trump-aae2271614f5959b484e5f081313f2e1)
 * [2025-01-17, 14:23:56](https://news.ycombinator.com/item?id=42737778) - [Show HN: Interactive game teaching dark patterns in UX design](https://games.productartistry.com/games/dark-patterns)
 * [2025-01-17, 13:52:48](https://news.ycombinator.com/item?id=42737502) - [GM parks claims driver location data was given to insurers, pushing up premiums](https://www.theregister.com/2025/01/17/gm_settles_ftc_charges/)
 * [2025-01-17, 13:35:17](https://news.ycombinator.com/item?id=42737345) - [Zig: What to Expect from Release Month](https://ziglang.org/news/what-to-expect-from-release-month/)
