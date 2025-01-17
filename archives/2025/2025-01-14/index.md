@@ -70,6 +70,7 @@
 * [2025-01-14, 11:17:46](https://news.ycombinator.com/item?id=42695990) - [LA wildfires disinformation reveals limits of fact-checking](https://weaponizedspaces.substack.com/p/la-wildfires-disinformation-reveals)
 * [2025-01-14, 10:02:56](https://news.ycombinator.com/item?id=42695580) - [The Rise and Fall of the English Sentence (2017)](https://nautil.us/the-rise-and-fall-of-the-english-sentence-236880/)
 * [2025-01-14, 09:58:15](https://news.ycombinator.com/item?id=42695547) - [FFmpeg by Example](https://ffmpegbyexample.com/)
+* [2025-01-14, 09:35:47](https://news.ycombinator.com/item?id=42695414) - [Finite Field Assembly: A Language for Emulating GPUs on CPU](https://leetarxiv.substack.com/p/emulating-a-gpu-on-a-cpu-using-finite)
 * [2025-01-14, 09:08:13](https://news.ycombinator.com/item?id=42695232) - [Data evolution with set-theoretic types](https://dashbit.co/blog/data-evolution-with-set-theoretic-types)
 * [2025-01-14, 08:33:08](https://news.ycombinator.com/item?id=42695040) - [Show HN: Another ELF Analysis Toolkit](https://github.com/M3rcuryLake/Nyxelf)
 * [2025-01-14, 08:28:06](https://news.ycombinator.com/item?id=42695005) - [Personalized voice recordings by Elwood \"You've got mail!\" Edwards](https://blog.jgc.org/2024/11/personalized-voice-recordings-by-elwood.html)
