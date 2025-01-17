@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-16, 22:55:37](https://news.ycombinator.com/item?id=42731962) - [Some Things to Expect in 2025](https://lwn.net/Articles/1003780/)
+* [2025-01-17, 03:00:10](https://news.ycombinator.com/item?id=42733640) - [Bypassing disk encryption on systems with automatic TPM2 unlock](https://oddlama.org/blog/bypassing-disk-encryption-with-tpm2-unlock/)
+* [2025-01-16, 22:55:37](https://news.ycombinator.com/item?id=42731962) - [Some things to expect in 2025](https://lwn.net/Articles/1003780/)
 * [2025-01-16, 22:13:22](https://news.ycombinator.com/item?id=42731582) - [Learn Yjs Interactively](https://learn.yjs.dev/)
 * [2025-01-16, 22:08:46](https://news.ycombinator.com/item?id=42731527) - [MuJoco Playground](https://playground.mujoco.org/)
 * [2025-01-16, 21:59:38](https://news.ycombinator.com/item?id=42731460) - [Solving the first 100 Project Euler problems using 100 languages](https://github.com/jaredkrinke/100-languages)
@@ -15,7 +16,6 @@
 * [2025-01-16, 14:43:20](https://news.ycombinator.com/item?id=42725823) - [Device uses wind to create ammonia out of air](https://spectrum.ieee.org/ammonia-fuel-2670794408)
 * [2025-01-16, 14:17:31](https://news.ycombinator.com/item?id=42725385) - [No Calls](https://keygen.sh/blog/no-calls/)
 * [2025-01-16, 13:57:43](https://news.ycombinator.com/item?id=42725147) - [Nepenthes is a tarpit to catch AI web crawlers](https://zadzmo.org/code/nepenthes/)
-* [2025-01-16, 13:23:32](https://news.ycombinator.com/item?id=42724761) - [Nokia's internal presentation after iPhone was launched (2007) [pdf]](https://nokia-apple-iphone-was-launched-presentation.tiiny.site/)
 * [2025-01-16, 13:08:14](https://news.ycombinator.com/item?id=42724621) - [Nintendo announces the Switch 2 [video]](https://www.youtube.com/watch?v=itpcsQQvgAQ)
 * [2025-01-16, 12:18:32](https://news.ycombinator.com/item?id=42724284) - [I ditched the algorithm for RSS](https://joeyehand.com/blog/2025/01/15/i-ditched-the-algorithm-for-rssand-you-should-too/)
 * [2025-01-15, 21:35:41](https://news.ycombinator.com/item?id=42717393) - [2k-year-old wine and the uncanny immediacy of the past](https://resobscura.substack.com/p/2000-year-old-wine-and-the-uncanny)
