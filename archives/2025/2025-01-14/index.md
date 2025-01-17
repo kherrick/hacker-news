@@ -52,6 +52,7 @@
 * [2025-01-14, 13:05:31](https://news.ycombinator.com/item?id=42696691) - [In the Belly of the MrBeast](https://kevinmunger.substack.com/p/in-the-belly-of-the-mrbeast)
 * [2025-01-14, 12:41:46](https://news.ycombinator.com/item?id=42696517) - [Plant CO2 uptake rises by nearly one third in new global estimates](https://www.ornl.gov/news/plant-co2-uptake-rises-nearly-one-third-new-global-estimates)
 * [2025-01-14, 12:35:13](https://news.ycombinator.com/item?id=42696477) - [Show HN: Simple Docker Hosting](https://sliplane.io)
+* [2025-01-14, 12:25:21](https://news.ycombinator.com/item?id=42696398) - [Engineering \"home-cooked\" software](https://ownerofhappy.org/software-fast-food)
 * [2025-01-14, 12:20:32](https://news.ycombinator.com/item?id=42696350) - [Homes Withstood the LA Fires. Architects Explain Why](https://www.bloomberg.com/news/articles/2025-01-13/los-angeles-wildfires-why-these-homes-didn-t-burn)
 * [2025-01-14, 12:15:47](https://news.ycombinator.com/item?id=42696324) - [Russia is being set aflame by arson attacks](https://www.economist.com/europe/2025/01/12/russia-is-being-set-aflame-by-hundreds-of-arson-attacks)
 * [2025-01-14, 12:06:02](https://news.ycombinator.com/item?id=42696264) - [Singapore is turning to AI to care for its rapidly aging population](https://restofworld.org/2025/singapore-ai-eldercare-tools/)
