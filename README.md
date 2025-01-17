@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-17, 08:54:28](https://news.ycombinator.com/item?id=42735413) - [The Family Bass - Music with an NES](https://www.linusakesson.net/music/family-bass/index.php)
 * [2025-01-17, 08:50:45](https://news.ycombinator.com/item?id=42735393) - [You can't use your $6,299.00 Camera as a Webcam. That will be $5](https://romanzipp.com/blog/no-you-cant-use-your-6299-canon-camera-as-a-webcam)
 * [2025-01-17, 07:27:03](https://news.ycombinator.com/item?id=42734956) - [Trusting clients is probably a security flaw](https://liberda.nl/weblog/trust-no-client/)
 * [2025-01-17, 07:01:27](https://news.ycombinator.com/item?id=42734851) - [Issues with Color Spaces and Perceptual Brightness](https://johnaustin.io/articles/2025/issues-with-cielab-and-perceptual-brightness)
@@ -17,7 +18,6 @@
 * [2025-01-16, 14:17:31](https://news.ycombinator.com/item?id=42725385) - [No Calls](https://keygen.sh/blog/no-calls/)
 * [2025-01-16, 13:57:43](https://news.ycombinator.com/item?id=42725147) - [Nepenthes is a tarpit to catch AI web crawlers](https://zadzmo.org/code/nepenthes/)
 * [2025-01-16, 12:18:32](https://news.ycombinator.com/item?id=42724284) - [I ditched the algorithm for RSS](https://joeyehand.com/blog/2025/01/15/i-ditched-the-algorithm-for-rssand-you-should-too/)
-* [2025-01-16, 08:30:24](https://news.ycombinator.com/item?id=42722855) - [A standards-first web framework](https://nuejs.org/blog/standards-first-web-framework/)
 * [2025-01-15, 21:35:41](https://news.ycombinator.com/item?id=42717393) - [2k-year-old wine and the uncanny immediacy of the past](https://resobscura.substack.com/p/2000-year-old-wine-and-the-uncanny)
 * [2025-01-14, 08:33:08](https://news.ycombinator.com/item?id=42695040) - [Show HN: Another ELF Analysis Toolkit](https://github.com/M3rcuryLake/Nyxelf)
 * [2025-01-14, 07:36:25](https://news.ycombinator.com/item?id=42694732) - [PostgreSQL Anonymizer](https://postgresql-anonymizer.readthedocs.io/en/stable/)
