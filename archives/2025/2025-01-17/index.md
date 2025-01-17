@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-17](index.md)
 
+* [2025-01-17, 10:16:59](https://news.ycombinator.com/item?id=42735976) - [Show HN: I built a credit-based system API](https://creduse.com/#features-grid)
 * [2025-01-17, 09:41:10](https://news.ycombinator.com/item?id=42735767) - [Ask HN: How can I realistically change careers?](https://news.ycombinator.com/item?id=42735767)
 * [2025-01-17, 08:54:28](https://news.ycombinator.com/item?id=42735413) - [The Family Bass - Music with an NES](https://www.linusakesson.net/music/family-bass/index.php)
 * [2025-01-17, 08:50:45](https://news.ycombinator.com/item?id=42735393) - [You can't use your $6,299.00 Camera as a Webcam. That will be $5](https://romanzipp.com/blog/no-you-cant-use-your-6299-canon-camera-as-a-webcam)
