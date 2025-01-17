@@ -74,6 +74,7 @@
 * [2025-01-14, 07:36:25](https://news.ycombinator.com/item?id=42694732) - [PostgreSQL Anonymizer](https://postgresql-anonymizer.readthedocs.io/en/stable/)
 * [2025-01-14, 07:14:50](https://news.ycombinator.com/item?id=42694635) - [RedNote Style Content Assistant](https://www.rednote.pro/)
 * [2025-01-14, 07:08:59](https://news.ycombinator.com/item?id=42694596) - [ZFS 2.3.0 released with ZFS raidz expansion](https://github.com/openzfs/zfs/releases/tag/zfs-2.3.0)
+* [2025-01-14, 06:31:22](https://news.ycombinator.com/item?id=42694384) - [Show HN: Decentralized robots (and things) orchestration system](https://docs.p2p.industries)
 * [2025-01-14, 06:25:17](https://news.ycombinator.com/item?id=42694348) - [Byte Queue Limits – The unauthorized biography](https://medium.com/@tom_84912/byte-queue-limits-the-unauthorized-biography-61adc5730b83)
 * [2025-01-14, 04:59:32](https://news.ycombinator.com/item?id=42693849) - [The Sikh Practice of Langar, a Free Meal Where Everyone Is Equal](https://www.wttw.com/playlist/2022/04/05/langar-maah-chhole-daal)
 * [2025-01-14, 03:32:27](https://news.ycombinator.com/item?id=42693239) - [Laser technique measures distances with nanometre precision](https://www.newscientist.com/article/2463645-laser-technique-measures-vast-distances-with-nanometre-precision/)

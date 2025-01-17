@@ -8,6 +8,7 @@
 * [2025-01-16, 22:13:22](https://news.ycombinator.com/item?id=42731582) - [Learn Yjs Interactively](https://learn.yjs.dev/)
 * [2025-01-16, 22:08:46](https://news.ycombinator.com/item?id=42731527) - [MuJoco Playground](https://playground.mujoco.org/)
 * [2025-01-16, 21:59:38](https://news.ycombinator.com/item?id=42731460) - [Solving 100 Project Euler problems using 100 languages](https://github.com/jaredkrinke/100-languages)
+* [2025-01-16, 21:55:01](https://news.ycombinator.com/item?id=42731417) - [Show HN: Real-time nonlinear optics simulation (JS/GLSL)](https://github.com/westoncb/nonlinear-optics-sandbox)
 * [2025-01-16, 21:25:24](https://news.ycombinator.com/item?id=42731091) - [Starship Flight 7](https://www.spacex.com/launches/mission/?missionId=starship-flight-7?submit)
 * [2025-01-16, 21:00:25](https://news.ycombinator.com/item?id=42730844) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2025-01-16, 20:00:02](https://news.ycombinator.com/item?id=42730126) - [US Export Control Framework for Artificial Intelligence Diffusion](https://www.regulations.gov/document/BIS_FRDOC_0001-0691)
