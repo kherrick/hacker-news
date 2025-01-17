@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-17, 05:01:01](https://news.ycombinator.com/item?id=42734260) - [General Motors Is Banned from Selling Driving Behavior Data for 5 Years](https://www.nytimes.com/2025/01/16/technology/general-motors-driving-data-settlement.html)
 * [2025-01-17, 03:00:10](https://news.ycombinator.com/item?id=42733640) - [Bypassing disk encryption on systems with automatic TPM2 unlock](https://oddlama.org/blog/bypassing-disk-encryption-with-tpm2-unlock/)
 * [2025-01-17, 00:32:06](https://news.ycombinator.com/item?id=42732728) - [Is the world becoming uninsurable?](https://charleshughsmith.substack.com/p/is-the-world-becoming-uninsurable)
 * [2025-01-16, 22:55:37](https://news.ycombinator.com/item?id=42731962) - [Some things to expect in 2025](https://lwn.net/Articles/1003780/)
@@ -29,7 +30,6 @@
 * [2025-01-13, 05:33:05](https://news.ycombinator.com/item?id=42680370) - [Cascading OKRs: We can do Better](https://jessitron.com/2025/01/12/cascading-okrs-we-can-do-better/)
 * [2025-01-13, 05:23:00](https://news.ycombinator.com/item?id=42680318) - [Slum: The Shadow Library Uptime Monitor](https://open-slum.org/)
 * [2025-01-13, 05:00:52](https://news.ycombinator.com/item?id=42680229) - [Let's talk about bird tongues (2014)](https://toughlittlebirds.com/2014/11/20/lets-talk-about-bird-tongues/)
-* [2025-01-12, 20:20:07](https://news.ycombinator.com/item?id=42676545) - [Why some DVLA digital services don't work at night](https://dafyddvaughan.uk/blog/2025/why-some-dvla-digital-services-dont-work-at-night/)
 
 ## [Archives](archives/index.md)
 
