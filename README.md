@@ -15,7 +15,6 @@
 * [2025-01-17, 14:23:56](https://news.ycombinator.com/item?id=42737778) - [Show HN: Interactive game teaching dark patterns in UX design](https://games.productartistry.com/games/dark-patterns)
 * [2025-01-17, 12:46:08](https://news.ycombinator.com/item?id=42736968) - [The Derelict (2015)](https://www.damninteresting.com/the-derelict/)
 * [2025-01-17, 08:54:28](https://news.ycombinator.com/item?id=42735413) - [The Family Bass - Music with an NES](https://www.linusakesson.net/music/family-bass/index.php)
-* [2025-01-17, 07:01:27](https://news.ycombinator.com/item?id=42734851) - [Issues with Color Spaces and Perceptual Brightness](https://johnaustin.io/articles/2025/issues-with-cielab-and-perceptual-brightness)
 * [2025-01-17, 05:50:25](https://news.ycombinator.com/item?id=42734478) - [Let's talk about AI and end-to-end encryption](https://blog.cryptographyengineering.com/2025/01/17/lets-talk-about-ai-and-end-to-end-encryption/)
 * [2025-01-17, 03:00:10](https://news.ycombinator.com/item?id=42733640) - [Bypassing disk encryption on systems with automatic TPM2 unlock](https://oddlama.org/blog/bypassing-disk-encryption-with-tpm2-unlock/)
 * [2025-01-17, 00:32:06](https://news.ycombinator.com/item?id=42732728) - [Is the world becoming uninsurable?](https://charleshughsmith.substack.com/p/is-the-world-becoming-uninsurable)
@@ -30,6 +29,7 @@
 * [2025-01-14, 06:31:22](https://news.ycombinator.com/item?id=42694384) - [Show HN: Decentralized robots (and things) orchestration system](https://docs.p2p.industries)
 * [2025-01-14, 04:44:06](https://news.ycombinator.com/item?id=42693748) - [A New type of web hacking technique: DoubleClickjacking](https://www.paulosyibelo.com/2024/12/doubleclickjacking-what.html)
 * [2025-01-13, 20:50:01](https://news.ycombinator.com/item?id=42689054) - [A UC Santa Cruz professor unearthed the oldest alphabet yet](https://www.universityofcalifornia.edu/news/how-uc-santa-cruz-professor-unearthed-oldest-alphabet-yet)
+* [2025-01-13, 12:35:48](https://news.ycombinator.com/item?id=42682777) - [Programming in Lua (first edition) (2003)](https://www.lua.org/pil/contents.html)
 
 ## [Archives](archives/index.md)
 
