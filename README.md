@@ -6,7 +6,6 @@
 * [2025-01-17, 16:00:07](https://news.ycombinator.com/item?id=42739163) - [Selling the Collective: On Kevin Killian's \"Selected Amazon Reviews\"](https://www.clereviewofbooks.com/writing/kevin-killian-selling-the-collective)
 * [2025-01-17, 15:36:01](https://news.ycombinator.com/item?id=42738656) - [Show HN: GUI for Editing Mermaid Class Diagrams](https://docs.mermaidchart.com/blog/posts/gui-for-editing-mermaid-class-diagrams)
 * [2025-01-17, 15:23:58](https://news.ycombinator.com/item?id=42738464) - [Supreme Court rules to uphold TikTok ban, setting stage for shutdown](https://www.cnbc.com/2025/01/17/supreme-court-rules-to-uphold-tiktok-ban.html)
-* [2025-01-17, 15:08:16](https://news.ycombinator.com/item?id=42738284) - [Project Mini Rack – compact and portable homelabs](https://www.jeffgeerling.com/blog/2025/project-mini-rack-compact-and-portable-homelabs)
 * [2025-01-17, 14:42:55](https://news.ycombinator.com/item?id=42737985) - [Ozempic and Wegovy are selected for Medicare's price negotiations](https://apnews.com/article/drug-prices-medicare-biden-trump-aae2271614f5959b484e5f081313f2e1)
 * [2025-01-17, 14:23:56](https://news.ycombinator.com/item?id=42737778) - [Show HN: Interactive game teaching dark patterns in UX design](https://games.productartistry.com/games/dark-patterns)
 * [2025-01-17, 12:46:08](https://news.ycombinator.com/item?id=42736968) - [The Derelict (2015)](https://www.damninteresting.com/the-derelict/)
@@ -30,6 +29,7 @@
 * [2025-01-14, 04:44:06](https://news.ycombinator.com/item?id=42693748) - [A New type of web hacking technique: DoubleClickjacking](https://www.paulosyibelo.com/2024/12/doubleclickjacking-what.html)
 * [2025-01-13, 20:50:01](https://news.ycombinator.com/item?id=42689054) - [A UC Santa Cruz professor unearthed the oldest alphabet yet](https://www.universityofcalifornia.edu/news/how-uc-santa-cruz-professor-unearthed-oldest-alphabet-yet)
 * [2025-01-13, 20:11:14](https://news.ycombinator.com/item?id=42688392) - [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)
+* [2025-01-13, 14:28:33](https://news.ycombinator.com/item?id=42683731) - [Physically Based Rendering: From Theory to Implementation](https://pbr-book.org)
 
 ## [Archives](archives/index.md)
 
