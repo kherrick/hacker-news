@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-17, 19:36:37",
+      "https://news.ycombinator.com/item?id=42742350"
+    ],
+    [
+      "Show HN: Compile C to Not Gates",
+      "https://github.com/tomhea/c2fj"
+    ]
+  ],
+  [
+    [
       "2025-01-17, 19:20:14",
       "https://news.ycombinator.com/item?id=42742184"
     ],
@@ -17,6 +27,16 @@
     [
       "Mathematics of the daily word game Waffle",
       "https://arxiv.org/abs/2501.09286"
+    ]
+  ],
+  [
+    [
+      "2025-01-17, 17:54:02",
+      "https://news.ycombinator.com/item?id=42741155"
+    ],
+    [
+      "Hands-On Graphics Without X11",
+      "https://blogsystem5.substack.com/p/netbsd-graphics-wo-x11"
     ]
   ],
   [
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=42738656"
     ],
     [
-      "Show HN: GUI for Editing Mermaid Class Diagrams",
+      "Show HN: GUI for editing Mermaid class diagrams",
       "https://docs.mermaidchart.com/blog/posts/gui-for-editing-mermaid-class-diagrams"
     ]
   ],
@@ -97,16 +117,6 @@
     [
       "Skyvern Browser Agent 2.0: How We Reached State of the Art in Evals",
       "https://blog.skyvern.com/skyvern-2-0-state-of-the-art-web-navigation-with-85-8-on-webvoyager-eval/"
-    ]
-  ],
-  [
-    [
-      "2025-01-17, 14:42:55",
-      "https://news.ycombinator.com/item?id=42737985"
-    ],
-    [
-      "Ozempic and Wegovy are selected for Medicare's price negotiations",
-      "https://apnews.com/article/drug-prices-medicare-biden-trump-aae2271614f5959b484e5f081313f2e1"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "The Family Bass - Music with an NES",
       "https://www.linusakesson.net/music/family-bass/index.php"
-    ]
-  ],
-  [
-    [
-      "2025-01-17, 07:27:03",
-      "https://news.ycombinator.com/item?id=42734956"
-    ],
-    [
-      "Trusting clients is probably a security flaw",
-      "https://liberda.nl/weblog/trust-no-client/"
     ]
   ],
   [
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2025-01-16, 08:30:24",
-      "https://news.ycombinator.com/item?id=42722855"
+      "2025-01-14, 16:37:55",
+      "https://news.ycombinator.com/item?id=42699620"
     ],
     [
-      "A standards-first web framework",
-      "https://nuejs.org/blog/standards-first-web-framework/"
+      "Real Time Location Using Ultra-Wideband (UWB) (2019)",
+      "https://iosoft.blog/2019/11/22/real-time-location-ultra-wideband/"
     ]
   ],
   [
