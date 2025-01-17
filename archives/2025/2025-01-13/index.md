@@ -15,6 +15,7 @@
 * [2025-01-13, 21:41:12](https://news.ycombinator.com/item?id=42689802) - [Uncovering Real GPU NoC Characteristics: Implications on Interconnect Arch.](https://people.ece.ubc.ca/aamodt/publications/papers/realgpu-noc.micro2024.pdf)
 * [2025-01-13, 20:42:39](https://news.ycombinator.com/item?id=42688933) - [An Illustrator Dies, His Last Book Unfinished. In Steps His Son](https://www.nytimes.com/2025/01/13/books/booksupdate/charles-nicholas-santore-scroobius-pip.html)
 * [2025-01-13, 20:19:59](https://news.ycombinator.com/item?id=42688538) - [CEO of AI Music Company Says People Don't Like Making Music](https://www.404media.co/ceo-of-ai-music-company-says-people-dont-like-making-music/)
+* [2025-01-13, 20:11:14](https://news.ycombinator.com/item?id=42688392) - [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)
 * [2025-01-13, 19:55:46](https://news.ycombinator.com/item?id=42688159) - [JPMorgan Workers Ponder Union in Wake of Return-to-Office Mandate](https://www.barrons.com/articles/jpmorgan-back-to-office-mandate-union-4206af78)
 * [2025-01-13, 19:52:20](https://news.ycombinator.com/item?id=42688105) - [Moral Progress Is Annoying](https://aeon.co/essays/why-does-moral-progress-feel-preachy-and-annoying)
 * [2025-01-13, 19:42:48](https://news.ycombinator.com/item?id=42687932) - [Sonos CEO Patrick Spence steps down after app update debacle](https://www.reuters.com/business/retail-consumer/sonos-ceo-patrick-spence-steps-down-after-app-update-debacle-2025-01-13/)
