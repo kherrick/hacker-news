@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-17, 10:16:59](https://news.ycombinator.com/item?id=42735976) - [Show HN: I built a credit-based system API](https://creduse.com/#features-grid)
+* [2025-01-17, 12:01:11](https://news.ycombinator.com/item?id=42736656) - [Fern (YC W23) Is Hiring an AI Engineer in NYC](https://www.ycombinator.com/companies/fern/jobs/bEL3MoW-ai-engineer)
 * [2025-01-17, 09:41:10](https://news.ycombinator.com/item?id=42735767) - [Ask HN: How can I realistically change careers?](https://news.ycombinator.com/item?id=42735767)
 * [2025-01-17, 08:54:28](https://news.ycombinator.com/item?id=42735413) - [The Family Bass - Music with an NES](https://www.linusakesson.net/music/family-bass/index.php)
 * [2025-01-17, 08:50:45](https://news.ycombinator.com/item?id=42735393) - [You can't use your $6,299.00 Camera as a Webcam. That will be $5](https://romanzipp.com/blog/no-you-cant-use-your-6299-canon-camera-as-a-webcam)
@@ -15,10 +15,11 @@
 * [2025-01-16, 21:59:38](https://news.ycombinator.com/item?id=42731460) - [Solving the first 100 Project Euler problems using 100 languages](https://github.com/jaredkrinke/100-languages)
 * [2025-01-16, 21:25:24](https://news.ycombinator.com/item?id=42731091) - [Starship Flight 7](https://www.spacex.com/launches/mission/?missionId=starship-flight-7?submit)
 * [2025-01-16, 20:00:02](https://news.ycombinator.com/item?id=42730126) - [Framework for Artificial Intelligence Diffusion](https://www.federalregister.gov/documents/2025/01/15/2025-00636/framework-for-artificial-intelligence-diffusion)
+* [2025-01-16, 15:30:19](https://news.ycombinator.com/item?id=42726584) - [Test-driven development with an LLM for fun and profit](https://blog.yfzhou.fyi/posts/tdd-llm/)
 * [2025-01-16, 14:17:31](https://news.ycombinator.com/item?id=42725385) - [No Calls](https://keygen.sh/blog/no-calls/)
 * [2025-01-16, 13:57:43](https://news.ycombinator.com/item?id=42725147) - [Nepenthes is a tarpit to catch AI web crawlers](https://zadzmo.org/code/nepenthes/)
 * [2025-01-16, 12:18:32](https://news.ycombinator.com/item?id=42724284) - [I ditched the algorithm for RSS](https://joeyehand.com/blog/2025/01/15/i-ditched-the-algorithm-for-rssand-you-should-too/)
-* [2025-01-16, 04:22:29](https://news.ycombinator.com/item?id=42721165) - ['Passive house' survives fire in California](https://www.yahoo.com/lifestyle/passive-house-survives-fire-california-000029045.html)
+* [2025-01-16, 08:30:24](https://news.ycombinator.com/item?id=42722855) - [A standards-first web framework](https://nuejs.org/blog/standards-first-web-framework/)
 * [2025-01-15, 21:35:41](https://news.ycombinator.com/item?id=42717393) - [2k-year-old wine and the uncanny immediacy of the past](https://resobscura.substack.com/p/2000-year-old-wine-and-the-uncanny)
 * [2025-01-14, 08:33:08](https://news.ycombinator.com/item?id=42695040) - [Show HN: Another ELF Analysis Toolkit](https://github.com/M3rcuryLake/Nyxelf)
 * [2025-01-14, 07:36:25](https://news.ycombinator.com/item?id=42694732) - [PostgreSQL Anonymizer](https://postgresql-anonymizer.readthedocs.io/en/stable/)
@@ -28,7 +29,6 @@
 * [2025-01-13, 14:28:33](https://news.ycombinator.com/item?id=42683731) - [Physically Based Rendering: From Theory to Implementation](https://pbr-book.org)
 * [2025-01-13, 12:35:48](https://news.ycombinator.com/item?id=42682777) - [Lua Programming in Lua (first edition)](https://www.lua.org/pil/contents.html)
 * [2025-01-13, 10:22:09](https://news.ycombinator.com/item?id=42681969) - [In Defence of 'Productivity Crap'](https://nicky.bearblog.dev/in-defence-of-productivity-crap/)
-* [2025-01-13, 06:56:37](https://news.ycombinator.com/item?id=42680796) - [Mastering the Isolated Queen Pawn (IQP)](https://lichess.org/@/hari2209/blog/mastering-the-isolated-queen-pawn-iqp-an-in-depth-guide/0qxcMAbV)
 * [2025-01-13, 05:23:00](https://news.ycombinator.com/item?id=42680318) - [Slum: The Shadow Library Uptime Monitor](https://open-slum.org/)
 
 ## [Archives](archives/index.md)
