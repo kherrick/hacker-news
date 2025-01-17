@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2025-01-13, 12:35:48",
+      "https://news.ycombinator.com/item?id=42682777"
+    ],
+    [
+      "Lua Programming in Lua (first edition)",
+      "https://www.lua.org/pil/contents.html"
+    ]
+  ],
+  [
+    [
       "2025-01-13, 11:09:45",
       "https://news.ycombinator.com/item?id=42682238"
     ],
@@ -267,16 +277,6 @@
     [
       "In Defence of 'Productivity Crap'",
       "https://nicky.bearblog.dev/in-defence-of-productivity-crap/"
-    ]
-  ],
-  [
-    [
-      "2025-01-13, 09:55:24",
-      "https://news.ycombinator.com/item?id=42681793"
-    ],
-    [
-      "Diffusion training from scratch on a micro-budget",
-      "https://github.com/SonyResearch/micro_diffusion"
     ]
   ],
   [
