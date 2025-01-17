@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-17, 06:29:42](https://news.ycombinator.com/item?id=42734681) - [Thoughts on a Month with Devin](https://www.answer.ai/posts/2025-01-08-devin.html)
 * [2025-01-17, 05:01:01](https://news.ycombinator.com/item?id=42734260) - [General Motors Is Banned from Selling Driving Behavior Data for 5 Years](https://www.nytimes.com/2025/01/16/technology/general-motors-driving-data-settlement.html)
 * [2025-01-17, 03:00:10](https://news.ycombinator.com/item?id=42733640) - [Bypassing disk encryption on systems with automatic TPM2 unlock](https://oddlama.org/blog/bypassing-disk-encryption-with-tpm2-unlock/)
 * [2025-01-17, 00:32:06](https://news.ycombinator.com/item?id=42732728) - [Is the world becoming uninsurable?](https://charleshughsmith.substack.com/p/is-the-world-becoming-uninsurable)
@@ -10,7 +11,6 @@
 * [2025-01-16, 21:25:24](https://news.ycombinator.com/item?id=42731091) - [Starship Flight 7](https://www.spacex.com/launches/mission/?missionId=starship-flight-7?submit)
 * [2025-01-16, 21:00:25](https://news.ycombinator.com/item?id=42730844) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2025-01-16, 20:00:02](https://news.ycombinator.com/item?id=42730126) - [Framework for Artificial Intelligence Diffusion](https://www.federalregister.gov/documents/2025/01/15/2025-00636/framework-for-artificial-intelligence-diffusion)
-* [2025-01-16, 18:20:49](https://news.ycombinator.com/item?id=42728862) - [David Lynch has died](https://variety.com/2025/film/news/david-lynch-dead-director-blue-velvet-twin-peaks-1236276106/)
 * [2025-01-16, 15:30:19](https://news.ycombinator.com/item?id=42726584) - [Test-driven development with an LLM for fun and profit](https://blog.yfzhou.fyi/posts/tdd-llm/)
 * [2025-01-16, 14:43:20](https://news.ycombinator.com/item?id=42725823) - [Device uses wind to create ammonia out of air](https://spectrum.ieee.org/ammonia-fuel-2670794408)
 * [2025-01-16, 14:17:31](https://news.ycombinator.com/item?id=42725385) - [No Calls](https://keygen.sh/blog/no-calls/)
