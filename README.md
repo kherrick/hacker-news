@@ -2,7 +2,6 @@
 
 * [2025-01-17, 03:00:10](https://news.ycombinator.com/item?id=42733640) - [Bypassing disk encryption on systems with automatic TPM2 unlock](https://oddlama.org/blog/bypassing-disk-encryption-with-tpm2-unlock/)
 * [2025-01-17, 00:32:06](https://news.ycombinator.com/item?id=42732728) - [Is the world becoming uninsurable?](https://charleshughsmith.substack.com/p/is-the-world-becoming-uninsurable)
-* [2025-01-17, 00:30:27](https://news.ycombinator.com/item?id=42732714) - [Firebase bill is usually $50, but I was surprised to see a $70k bill in one day](https://twitter.com/tamarajtran/status/1880036092906467841)
 * [2025-01-16, 22:55:37](https://news.ycombinator.com/item?id=42731962) - [Some things to expect in 2025](https://lwn.net/Articles/1003780/)
 * [2025-01-16, 22:13:22](https://news.ycombinator.com/item?id=42731582) - [Learn Yjs Interactively](https://learn.yjs.dev/)
 * [2025-01-16, 22:08:46](https://news.ycombinator.com/item?id=42731527) - [MuJoco Playground](https://playground.mujoco.org/)
@@ -27,6 +26,7 @@
 * [2025-01-13, 14:16:15](https://news.ycombinator.com/item?id=42683616) - [Understanding Memory Management, Part 1: C](https://educatedguesswork.org/posts/memory-management-1/)
 * [2025-01-13, 10:14:06](https://news.ycombinator.com/item?id=42681917) - [Porting the GNAT Ada compiler to macOS/aarch64](https://briancallahan.net/blog/20250112.html)
 * [2025-01-13, 09:55:24](https://news.ycombinator.com/item?id=42681793) - [Diffusion training from scratch on a micro-budget](https://github.com/SonyResearch/micro_diffusion)
+* [2025-01-13, 05:33:05](https://news.ycombinator.com/item?id=42680370) - [Cascading OKRs: We can do Better](https://jessitron.com/2025/01/12/cascading-okrs-we-can-do-better/)
 * [2025-01-13, 05:23:00](https://news.ycombinator.com/item?id=42680318) - [Slum: The Shadow Library Uptime Monitor](https://open-slum.org/)
 * [2025-01-13, 05:00:52](https://news.ycombinator.com/item?id=42680229) - [Let's talk about bird tongues (2014)](https://toughlittlebirds.com/2014/11/20/lets-talk-about-bird-tongues/)
 * [2025-01-12, 20:20:07](https://news.ycombinator.com/item?id=42676545) - [Why some DVLA digital services don't work at night](https://dafyddvaughan.uk/blog/2025/why-some-dvla-digital-services-dont-work-at-night/)

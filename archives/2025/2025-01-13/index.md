@@ -76,6 +76,7 @@
 * [2025-01-13, 06:00:51](https://news.ycombinator.com/item?id=42680510) - [Blue Origin New Glenn Mission NG-1 – Live](https://www.blueorigin.com)
 * [2025-01-13, 05:58:32](https://news.ycombinator.com/item?id=42680499) - [IRC Driven – modern IRC indexing site and search engine](https://www.ircdriven.com/)
 * [2025-01-13, 05:44:29](https://news.ycombinator.com/item?id=42680437) - [The history and use of /etc./glob in early Unixes](https://utcc.utoronto.ca/~cks/space/blog/unix/EtcGlobHistory)
+* [2025-01-13, 05:33:05](https://news.ycombinator.com/item?id=42680370) - [Cascading OKRs: We can do Better](https://jessitron.com/2025/01/12/cascading-okrs-we-can-do-better/)
 * [2025-01-13, 05:23:00](https://news.ycombinator.com/item?id=42680318) - [Slum: The Shadow Library Uptime Monitor](https://open-slum.org/)
 * [2025-01-13, 05:00:52](https://news.ycombinator.com/item?id=42680229) - [Let's talk about bird tongues (2014)](https://toughlittlebirds.com/2014/11/20/lets-talk-about-bird-tongues/)
 * [2025-01-13, 04:22:06](https://news.ycombinator.com/item?id=42680048) - [Show HN: New search engine and free-FOIA-by-fax-via-web for US veteran records](https://www.birls.org)
