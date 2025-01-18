@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-18, 18:53:47](https://news.ycombinator.com/item?id=42750454) - [Reverse-engineering a carry-lookahead adder in the Pentium](https://www.righto.com/2025/01/pentium-carry-lookahead-reverse-engineered.html)
 * [2025-01-18, 18:48:51](https://news.ycombinator.com/item?id=42750420) - [Amazon's AI crawler is making my Git server unstable](https://xeiaso.net/notes/2025/amazon-crawler/)
 * [2025-01-18, 18:04:19](https://news.ycombinator.com/item?id=42750096) - [O1 isn't a chat model (and that's the point)](https://www.latent.space/p/o1-skill-issue)
 * [2025-01-18, 16:22:03](https://news.ycombinator.com/item?id=42749402) - [Show HN: Interactive systemd – a better way to work with systemd units](https://isd-project.github.io/isd/)
@@ -10,6 +11,7 @@
 * [2025-01-18, 14:05:20](https://news.ycombinator.com/item?id=42748394) - [Ask HN: Has anyone tried alternative company models (like a co-op) for SaaS?](https://news.ycombinator.com/item?id=42748394)
 * [2025-01-18, 13:15:22](https://news.ycombinator.com/item?id=42748101) - [atproto and the ownership of identity](https://anirudh.fi/blog/identity/)
 * [2025-01-18, 12:38:34](https://news.ycombinator.com/item?id=42747899) - [The Toyota Prius transformed the auto industry](https://spectrum.ieee.org/toyota-prius-transformed-auto-industry)
+* [2025-01-18, 12:31:20](https://news.ycombinator.com/item?id=42747877) - [Windows BitLocker – Screwed Without a Screwdriver](https://neodyme.io/en/blog/bitlocker_screwed_without_a_screwdriver/)
 * [2025-01-18, 12:28:53](https://news.ycombinator.com/item?id=42747864) - [The AMD Radeon Instinct MI300A's Giant Memory Subsystem](https://chipsandcheese.com/p/inside-the-amd-radeon-instinct-mi300as)
 * [2025-01-18, 07:09:15](https://news.ycombinator.com/item?id=42746506) - [ELIZA Reanimated](https://arxiv.org/abs/2501.06707)
 * [2025-01-18, 02:42:54](https://news.ycombinator.com/item?id=42745334) - [Can you read this cursive handwriting? The National Archives wants your help](https://www.smithsonianmag.com/smart-news/can-you-read-this-cursive-handwriting-the-national-archives-wants-your-help-180985833/)
@@ -19,7 +21,6 @@
 * [2025-01-17, 20:41:07](https://news.ycombinator.com/item?id=42743019) - [So you want to build your own data center](https://blog.railway.com/p/data-center-build-part-one)
 * [2025-01-17, 19:20:14](https://news.ycombinator.com/item?id=42742184) - [Branchless UTF-8 Encoding](https://cceckman.com/writing/branchless-utf8-encoding/)
 * [2025-01-17, 19:17:48](https://news.ycombinator.com/item?id=42742161) - [Higher potassium intake at dinner linked to fewer sleep disturbances – study](https://www.nutraingredients-asia.com/Article/2025/01/07/higher-potassium-intake-at-dinner-linked-to-fewer-sleep-disturbances/)
-* [2025-01-17, 17:54:02](https://news.ycombinator.com/item?id=42741155) - [Hands-On Graphics Without X11](https://blogsystem5.substack.com/p/netbsd-graphics-wo-x11)
 * [2025-01-17, 11:20:27](https://news.ycombinator.com/item?id=42736384) - [Show HN: ZX Spectrum SCR to PNG Converter](https://www.esp32rainbow.com/tools/scr-to-png)
 * [2025-01-16, 22:31:06](https://news.ycombinator.com/item?id=42731740) - [Saint Peter Basilica digital experience](https://virtual.basilicasanpietro.va/en)
 * [2025-01-15, 14:18:32](https://news.ycombinator.com/item?id=42711012) - [Playful Drawings That Charles Darwin's Children Left on His Manuscripts](https://www.openculture.com/2025/01/discover-the-playful-drawings-that-charles-darwins-children-left-on-his-manuscripts.html)
@@ -29,7 +30,6 @@
 * [2025-01-14, 18:31:55](https://news.ycombinator.com/item?id=42701645) - [Designing a Star Tracker for Astronaut Don Pettit to Use on the ISS](https://petapixel.com/2025/01/14/designing-a-star-tracker-for-astronaut-don-pettit-to-use-on-the-iss/)
 * [2025-01-14, 17:25:06](https://news.ycombinator.com/item?id=42700483) - [Generating an infinite world with the Wave Function Collapse algorithm](https://marian42.de/article/infinite-wfc/)
 * [2025-01-14, 13:36:09](https://news.ycombinator.com/item?id=42697001) - [Lightcell: An engine that uses light to make electricity](https://www.lightcellenergy.com/)
-* [2025-01-14, 04:44:06](https://news.ycombinator.com/item?id=42693748) - [DoubleClickjacking: A New type of web hacking technique](https://www.paulosyibelo.com/2024/12/doubleclickjacking-what.html)
 
 ## [Archives](archives/index.md)
 
