@@ -22,6 +22,7 @@
 * [2025-01-14, 18:37:58](https://news.ycombinator.com/item?id=42701745) - [Ask HN: Teams using AI – how do you prevent it from breaking your codebase?](https://news.ycombinator.com/item?id=42701745)
 * [2025-01-14, 18:20:20](https://news.ycombinator.com/item?id=42701456) - [Platforms systematically removed a user because he made \"most wanted CEO\" cards](https://www.eff.org/deeplinks/2025/01/platforms-systematically-removed-user-because-he-made-most-wanted-ceo-playing)
 * [2025-01-14, 18:16:35](https://news.ycombinator.com/item?id=42701393) - [Software Engineer Pay Heatmap for Europe](https://levels.fyi/heatmap/europe/)
+* [2025-01-14, 18:04:56](https://news.ycombinator.com/item?id=42701198) - [I deleted all of my email filters](https://coryd.dev/posts/2025/i-deleted-all-of-my-email-filters)
 * [2025-01-14, 18:02:37](https://news.ycombinator.com/item?id=42701153) - [Build a Figma plugin to add stroke to bitmaps directly in Figma](https://www.figma.com/community/plugin/1457662942651611491/image-stroke)
 * [2025-01-14, 17:58:03](https://news.ycombinator.com/item?id=42701057) - [MrBeast Might Buy TikTok](https://twitter.com/MrBeast/status/1879224239485808811)
 * [2025-01-14, 17:54:51](https://news.ycombinator.com/item?id=42700997) - [Home Loss File System](https://docs.google.com/spreadsheets/d/1TPeJzW5pa-BiJZjuEa1yGSFs7ZJetbnxf2gjMvv4tkc/htmlview#gid=1160377357)

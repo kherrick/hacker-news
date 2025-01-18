@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-18](index.md)
 
+* [2025-01-18, 15:00:15](https://news.ycombinator.com/item?id=42748846) - [NASA's Next-Level Discovery: Webb Exposes Dazzling Interstellar Web of Dust](https://scitechdaily.com/nasas-next-level-discovery-webb-exposes-dazzling-interstellar-web-of-dust/)
 * [2025-01-18, 14:05:20](https://news.ycombinator.com/item?id=42748394) - [Ask HN: Has anyone tried alternative company models (like a co-op) for SaaS?](https://news.ycombinator.com/item?id=42748394)
 * [2025-01-18, 13:29:39](https://news.ycombinator.com/item?id=42748172) - [UK police seize Cybertruck because it's illegal there](https://www.popsci.com/technology/uk-cybertruck-illegal/)
 * [2025-01-18, 13:22:15](https://news.ycombinator.com/item?id=42748130) - [FTC bans Genshin Impact dev from selling lootboxes to under-16s, fines them $20M](https://www.ftc.gov/news-events/news/press-releases/2025/01/genshin-impact-game-developer-will-be-banned-selling-lootboxes-teens-under-16-without-parental)
@@ -27,5 +28,6 @@
 * [2025-01-18, 01:51:18](https://news.ycombinator.com/item?id=42745082) - [Is the TikTok Ban a Chance to Rethink the Whole Internet?](https://www.newyorker.com/news/annals-of-communications/is-the-tiktok-ban-a-chance-to-rethink-the-whole-internet)
 * [2025-01-18, 01:38:03](https://news.ycombinator.com/item?id=42745002) - [Under new law, cops bust famous cartoonist for AI-generated CSAM](https://arstechnica.com/tech-policy/2025/01/under-new-law-cops-bust-famous-cartoonist-for-ai-generated-child-sex-abuse-images/)
 * [2025-01-18, 01:25:42](https://news.ycombinator.com/item?id=42744933) - [BYD just launched the largest car carrier to charge up its global EV ambitions](https://electrek.co/2025/01/17/byd-launches-worlds-largest-car-carrier-fuel-global-ev-takeover/)
+* [2025-01-18, 01:25:40](https://news.ycombinator.com/item?id=42744932) - [Portrait of the Hilbert Curve (2010)](https://corte.si/posts/code/hilbert/portrait/)
 * [2025-01-18, 01:00:04](https://news.ycombinator.com/item?id=42744820) - [Spellbrush (YC W18) Is Hiring Game Programmers (Anime SRPG/Tactics)](https://news.ycombinator.com/item?id=42744820)
 * [2025-01-18, 00:32:25](https://news.ycombinator.com/item?id=42744695) - [EFF Statement on U.S. Supreme Court's Decision to Uphold TikTok Ban](https://www.eff.org/deeplinks/2025/01/eff-statement-us-supreme-courts-decision-uphold-tiktok-ban)
