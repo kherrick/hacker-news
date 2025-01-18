@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-18, 22:44:58",
+      "https://news.ycombinator.com/item?id=42752023"
+    ],
+    [
+      "Pharaoh's Tomb HD – A Remake Made in JavaScript with Kaplay",
+      "https://pt-hd.iocaihost.me/"
+    ]
+  ],
+  [
+    [
       "2025-01-18, 21:50:15",
       "https://news.ycombinator.com/item?id=42751690"
     ],
@@ -17,16 +27,6 @@
     [
       "Perplexity AI submits bid to merge with TikTok",
       "https://techcrunch.com/2025/01/18/perplexity-ai-submits-bid-to-merge-with-tiktok/"
-    ]
-  ],
-  [
-    [
-      "2025-01-18, 20:31:39",
-      "https://news.ycombinator.com/item?id=42751185"
-    ],
-    [
-      "The Future of Analytics Is Invisible: Why You Should Stop Using Google Analytics",
-      "https://www.iodiasix.com/blog/the-future-of-analytics-is-invisible"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2025-01-15, 08:30:07",
-      "https://news.ycombinator.com/item?id=42708682"
+      "2025-01-15, 09:20:03",
+      "https://news.ycombinator.com/item?id=42708974"
     ],
     [
-      "Laser Fault Injection on a Budget: RP2350 Edition",
-      "https://courk.cc/rp2350-challenge-laser"
+      "Beating cuBLAS in Single-Precision General Matrix Multiplication",
+      "https://salykova.github.io/sgemm-gpu"
     ]
   ],
   [
