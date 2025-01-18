@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2025-01-17, 03:00:10",
-      "https://news.ycombinator.com/item?id=42733640"
-    ],
-    [
-      "Bypassing disk encryption on systems with automatic TPM2 unlock",
-      "https://oddlama.org/blog/bypassing-disk-encryption-with-tpm2-unlock/"
-    ]
-  ],
-  [
-    [
       "2025-01-16, 14:17:31",
       "https://news.ycombinator.com/item?id=42725385"
     ],
@@ -277,6 +267,16 @@
     [
       "Lightcell: An engine that uses light to make electricity",
       "https://www.lightcellenergy.com/"
+    ]
+  ],
+  [
+    [
+      "2025-01-14, 09:08:13",
+      "https://news.ycombinator.com/item?id=42695232"
+    ],
+    [
+      "Data evolution with set-theoretic types",
+      "https://dashbit.co/blog/data-evolution-with-set-theoretic-types"
     ]
   ],
   [
