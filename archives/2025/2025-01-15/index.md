@@ -49,6 +49,7 @@
 * [2025-01-15, 13:42:45](https://news.ycombinator.com/item?id=42710622) - [Talk Dirty to Me](https://worldsensorium.com/talk-dirty-to-me-summary/)
 * [2025-01-15, 13:23:30](https://news.ycombinator.com/item?id=42710496) - [Shove your office mandates, people still prefer working from home](https://www.theregister.com/2025/01/15/shove_your_mandates_people_still/)
 * [2025-01-15, 12:57:31](https://news.ycombinator.com/item?id=42710339) - [TikTok preparing for U.S. shut-off on Sunday](https://www.reuters.com/technology/tiktok-preparing-us-shut-off-sunday-information-reports-2025-01-15/)
+* [2025-01-15, 12:50:15](https://news.ycombinator.com/item?id=42710296) - [Tcl's bet on screens that look like paper](https://notes.ghed.in/posts/2025/tcl-nxtpaper-screen-tech/)
 * [2025-01-15, 11:14:59](https://news.ycombinator.com/item?id=42709667) - [antirez - Fixing a real world bug in Redis vector sets with LLMs [video]](https://www.youtube.com/watch?v=rCIZflYEpEk)
 * [2025-01-15, 09:43:03](https://news.ycombinator.com/item?id=42709105) - [Sky-Scanning Complete for Gaia](https://www.esa.int/ESA_Multimedia/Images/2025/01/Sky-scanning_complete_for_Gaia)
 * [2025-01-15, 08:47:38](https://news.ycombinator.com/item?id=42708773) - [Generate audiobooks from E-books with Kokoro-82M](https://claudio.uk/posts/epub-to-audiobook.html)

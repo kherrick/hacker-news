@@ -9,6 +9,7 @@
 * [2025-01-18, 12:42:46](https://news.ycombinator.com/item?id=42747923) - [Bloodletting recommended for Jersey residents after PFAS contamination](https://www.theguardian.com/uk-news/2025/jan/16/bloodletting-recommended-for-jersey-residents-after-pfas-contamination)
 * [2025-01-18, 12:42:45](https://news.ycombinator.com/item?id=42747922) - [Transmeta: A CPU Revolution That Never Was [video]](https://www.youtube.com/watch?v=U2aQTJDJwd8)
 * [2025-01-18, 12:38:34](https://news.ycombinator.com/item?id=42747899) - [The Toyota Prius Transformed the Auto Industry](https://spectrum.ieee.org/toyota-prius-transformed-auto-industry)
+* [2025-01-18, 12:28:53](https://news.ycombinator.com/item?id=42747864) - [The AMD Radeon Instinct MI300A's Giant Memory Subsystem](https://chipsandcheese.com/p/inside-the-amd-radeon-instinct-mi300as)
 * [2025-01-18, 11:07:24](https://news.ycombinator.com/item?id=42747515) - [FamiTracker free windows tracker for producing music for the NES/Famicom-systems](http://famitracker.com/)
 * [2025-01-18, 09:36:39](https://news.ycombinator.com/item?id=42747092) - [Google begins requiring JavaScript for Google Search](https://techcrunch.com/2025/01/17/google-begins-requiring-javascript-for-google-search/)
 * [2025-01-18, 09:31:45](https://news.ycombinator.com/item?id=42747065) - [Honest Ahmed](https://bugzilla.mozilla.org/show_bug.cgi?id=647959)
