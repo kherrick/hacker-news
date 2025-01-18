@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-18](index.md)
 
 * [2025-01-18, 16:22:03](https://news.ycombinator.com/item?id=42749402) - [Show HN: Interactive systemd (a better way to work with systemd units)](https://isd-project.github.io/isd/)
+* [2025-01-18, 15:45:26](https://news.ycombinator.com/item?id=42749147) - [Dusa Programming Language (Finite-Choice Logic Programming)](https://dusa.rocks/docs/)
 * [2025-01-18, 15:32:41](https://news.ycombinator.com/item?id=42749069) - [Why do bees die when they sting you?](https://www.subanima.org/bees/)
 * [2025-01-18, 15:00:15](https://news.ycombinator.com/item?id=42748846) - [NASA's Next-Level Discovery: Webb Exposes Dazzling Interstellar Web of Dust](https://scitechdaily.com/nasas-next-level-discovery-webb-exposes-dazzling-interstellar-web-of-dust/)
 * [2025-01-18, 14:05:20](https://news.ycombinator.com/item?id=42748394) - [Ask HN: Has anyone tried alternative company models (like a co-op) for SaaS?](https://news.ycombinator.com/item?id=42748394)

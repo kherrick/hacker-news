@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-18, 16:22:03](https://news.ycombinator.com/item?id=42749402) - [Show HN: Interactive systemd (a better way to work with systemd units)](https://isd-project.github.io/isd/)
+* [2025-01-18, 15:45:26](https://news.ycombinator.com/item?id=42749147) - [Dusa Programming Language (Finite-Choice Logic Programming)](https://dusa.rocks/docs/)
 * [2025-01-18, 15:32:41](https://news.ycombinator.com/item?id=42749069) - [Why do bees die when they sting you?](https://www.subanima.org/bees/)
 * [2025-01-18, 15:00:15](https://news.ycombinator.com/item?id=42748846) - [NASA's Next-Level Discovery: Webb Exposes Dazzling Interstellar Web of Dust](https://scitechdaily.com/nasas-next-level-discovery-webb-exposes-dazzling-interstellar-web-of-dust/)
 * [2025-01-18, 14:05:20](https://news.ycombinator.com/item?id=42748394) - [Ask HN: Has anyone tried alternative company models (like a co-op) for SaaS?](https://news.ycombinator.com/item?id=42748394)
@@ -19,7 +20,6 @@
 * [2025-01-17, 17:54:02](https://news.ycombinator.com/item?id=42741155) - [Hands-On Graphics Without X11](https://blogsystem5.substack.com/p/netbsd-graphics-wo-x11)
 * [2025-01-17, 17:15:07](https://news.ycombinator.com/item?id=42740596) - [Brood War Korean Translations](https://blog.sourcedive.net/brood-war-korean-translations/)
 * [2025-01-17, 16:21:13](https://news.ycombinator.com/item?id=42739572) - [French modernists were alarmed, inspired by newspaper's voracious dynamism](https://aeon.co/essays/the-french-modernists-loathed-and-loved-the-mass-media-of-their-day)
-* [2025-01-17, 15:36:01](https://news.ycombinator.com/item?id=42738656) - [Show HN: GUI for editing Mermaid class diagrams](https://docs.mermaidchart.com/blog/posts/gui-for-editing-mermaid-class-diagrams)
 * [2025-01-17, 15:23:58](https://news.ycombinator.com/item?id=42738464) - [Supreme Court upholds TikTok ban, but Trump might offer lifeline](https://www.cnbc.com/2025/01/17/supreme-court-rules-to-uphold-tiktok-ban.html)
 * [2025-01-17, 05:50:25](https://news.ycombinator.com/item?id=42734478) - [Let's talk about AI and end-to-end encryption](https://blog.cryptographyengineering.com/2025/01/17/lets-talk-about-ai-and-end-to-end-encryption/)
 * [2025-01-15, 14:18:32](https://news.ycombinator.com/item?id=42711012) - [Playful Drawings That Charles Darwin's Children Left on His Manuscripts](https://www.openculture.com/2025/01/discover-the-playful-drawings-that-charles-darwins-children-left-on-his-manuscripts.html)
