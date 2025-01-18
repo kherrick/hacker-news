@@ -17,6 +17,7 @@
 * [2025-01-14, 20:31:19](https://news.ycombinator.com/item?id=42703422) - [Proof of Location for Online Polls](https://ip-vote.com/geolocation_via_latency.html)
 * [2025-01-14, 20:29:18](https://news.ycombinator.com/item?id=42703396) - [California's Wildfire Climate Excuse](https://www.wsj.com/opinion/california-wildfires-climate-change-water-storage-land-management-gavin-newsom-democrats-bd78d49a)
 * [2025-01-14, 20:21:47](https://news.ycombinator.com/item?id=42703282) - [How rqlite – the lightweight distributed database built on SQLite – is tested](https://philipotoole.com/how-is-rqlite-tested/)
+* [2025-01-14, 19:47:47](https://news.ycombinator.com/item?id=42702794) - [How to Tell a Leopard from Its Roar](https://nautil.us/how-to-tell-a-leopard-from-its-roar-1178312/)
 * [2025-01-14, 19:30:07](https://news.ycombinator.com/item?id=42702507) - [Ask HN: Seeking Device to Normalize Audio Output for Consistent Volume Levels](https://news.ycombinator.com/item?id=42702507)
 * [2025-01-14, 18:37:58](https://news.ycombinator.com/item?id=42701745) - [Ask HN: Teams using AI – how do you prevent it from breaking your codebase?](https://news.ycombinator.com/item?id=42701745)
 * [2025-01-14, 18:20:20](https://news.ycombinator.com/item?id=42701456) - [Platforms systematically removed a user because he made \"most wanted CEO\" cards](https://www.eff.org/deeplinks/2025/01/platforms-systematically-removed-user-because-he-made-most-wanted-ceo-playing)
