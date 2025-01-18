@@ -9,6 +9,7 @@
 * [2025-01-14, 22:42:21](https://news.ycombinator.com/item?id=42704951) - [H.R.25 – Repeal income tax and abolish the Internal Revenue Service](https://www.congress.gov/bill/119th-congress/house-bill/25)
 * [2025-01-14, 22:25:54](https://news.ycombinator.com/item?id=42704795) - [GPT-4o with scheduled tasks (jawbone) is available in beta](https://chatgpt.com/?model=gpt-4o-jawbone)
 * [2025-01-14, 21:59:12](https://news.ycombinator.com/item?id=42704491) - [If You Ever See This Speed Sign, You're Probably Going to Die](https://www.theautopian.com/if-you-ever-see-this-speed-sign-youre-probably-going-to-die/)
+* [2025-01-14, 21:58:20](https://news.ycombinator.com/item?id=42704472) - [Lunase moon phase watch mechanism](https://genuineideas.com/ArticlesIndex/phase.html)
 * [2025-01-14, 21:30:14](https://news.ycombinator.com/item?id=42704160) - [Show HN: Simplex: Automate browser workflows using code and natural language](https://www.simplex.sh/playground)
 * [2025-01-14, 21:23:21](https://news.ycombinator.com/item?id=42704078) - [Don't use cosine similarity carelessly](https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity/)
 * [2025-01-14, 21:03:43](https://news.ycombinator.com/item?id=42703816) - [Maze Generation: Recursive Division (2011)](http://weblog.jamisbuck.org/2011/1/12/maze-generation-recursive-division-algorithm)
