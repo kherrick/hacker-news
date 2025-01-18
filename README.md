@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-18, 14:05:20](https://news.ycombinator.com/item?id=42748394) - [Ask HN: Has anyone tried alternative company models (like a co-op) for SaaS?](https://news.ycombinator.com/item?id=42748394)
 * [2025-01-18, 12:38:34](https://news.ycombinator.com/item?id=42747899) - [The Toyota Prius Transformed the Auto Industry](https://spectrum.ieee.org/toyota-prius-transformed-auto-industry)
 * [2025-01-18, 12:28:53](https://news.ycombinator.com/item?id=42747864) - [The AMD Radeon Instinct MI300A's Giant Memory Subsystem](https://chipsandcheese.com/p/inside-the-amd-radeon-instinct-mi300as)
 * [2025-01-18, 09:31:45](https://news.ycombinator.com/item?id=42747065) - [Honest Ahmed (2011)](https://bugzilla.mozilla.org/show_bug.cgi?id=647959)
@@ -13,7 +14,6 @@
 * [2025-01-17, 19:17:48](https://news.ycombinator.com/item?id=42742161) - [Higher potassium intake at dinner linked to fewer sleep disturbances – study](https://www.nutraingredients-asia.com/Article/2025/01/07/higher-potassium-intake-at-dinner-linked-to-fewer-sleep-disturbances/)
 * [2025-01-17, 17:54:02](https://news.ycombinator.com/item?id=42741155) - [Hands-On Graphics Without X11](https://blogsystem5.substack.com/p/netbsd-graphics-wo-x11)
 * [2025-01-17, 17:15:07](https://news.ycombinator.com/item?id=42740596) - [Brood War Korean Translations](https://blog.sourcedive.net/brood-war-korean-translations/)
-* [2025-01-17, 16:53:55](https://news.ycombinator.com/item?id=42740183) - [Dr. TVAM – Inverse Rendering for Tomographic Volumetric Additive Manufacturing](https://github.com/rgl-epfl/drtvam)
 * [2025-01-17, 16:21:13](https://news.ycombinator.com/item?id=42739572) - [French modernists were alarmed, inspired by newspaper's voracious dynamism](https://aeon.co/essays/the-french-modernists-loathed-and-loved-the-mass-media-of-their-day)
 * [2025-01-17, 15:36:01](https://news.ycombinator.com/item?id=42738656) - [Show HN: GUI for editing Mermaid class diagrams](https://docs.mermaidchart.com/blog/posts/gui-for-editing-mermaid-class-diagrams)
 * [2025-01-17, 15:23:58](https://news.ycombinator.com/item?id=42738464) - [Supreme Court upholds TikTok ban, but Trump might offer lifeline](https://www.cnbc.com/2025/01/17/supreme-court-rules-to-uphold-tiktok-ban.html)
