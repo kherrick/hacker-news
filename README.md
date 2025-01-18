@@ -4,6 +4,7 @@
 * [2025-01-18, 15:45:26](https://news.ycombinator.com/item?id=42749147) - [Dusa Programming Language (Finite-Choice Logic Programming)](https://dusa.rocks/docs/)
 * [2025-01-18, 15:32:41](https://news.ycombinator.com/item?id=42749069) - [Why do bees die when they sting you?](https://www.subanima.org/bees/)
 * [2025-01-18, 15:00:15](https://news.ycombinator.com/item?id=42748846) - [NASA's Next-Level Discovery: Webb Exposes Dazzling Interstellar Web of Dust](https://scitechdaily.com/nasas-next-level-discovery-webb-exposes-dazzling-interstellar-web-of-dust/)
+* [2025-01-18, 14:22:46](https://news.ycombinator.com/item?id=42748534) - [Rule-Based Programming in Interactive Fiction](https://eblong.com/zarf/essays/rule-based-if/index.html)
 * [2025-01-18, 14:05:20](https://news.ycombinator.com/item?id=42748394) - [Ask HN: Has anyone tried alternative company models (like a co-op) for SaaS?](https://news.ycombinator.com/item?id=42748394)
 * [2025-01-18, 13:15:22](https://news.ycombinator.com/item?id=42748101) - [atproto and the ownership of identity](https://anirudh.fi/blog/identity/)
 * [2025-01-18, 12:38:34](https://news.ycombinator.com/item?id=42747899) - [The Toyota Prius transformed the auto industry](https://spectrum.ieee.org/toyota-prius-transformed-auto-industry)
@@ -28,7 +29,6 @@
 * [2025-01-14, 18:04:56](https://news.ycombinator.com/item?id=42701198) - [I deleted all of my email filters](https://coryd.dev/posts/2025/i-deleted-all-of-my-email-filters)
 * [2025-01-14, 17:25:06](https://news.ycombinator.com/item?id=42700483) - [Generating an infinite world with the Wave Function Collapse algorithm](https://marian42.de/article/infinite-wfc/)
 * [2025-01-14, 13:36:09](https://news.ycombinator.com/item?id=42697001) - [Lightcell: An engine that uses light to make electricity](https://www.lightcellenergy.com/)
-* [2025-01-14, 07:36:25](https://news.ycombinator.com/item?id=42694732) - [PostgreSQL Anonymizer](https://postgresql-anonymizer.readthedocs.io/en/stable/)
 * [2025-01-14, 04:44:06](https://news.ycombinator.com/item?id=42693748) - [DoubleClickjacking: A New type of web hacking technique](https://www.paulosyibelo.com/2024/12/doubleclickjacking-what.html)
 
 ## [Archives](archives/index.md)
