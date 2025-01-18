@@ -23,7 +23,7 @@
 * [2025-01-17, 05:50:25](https://news.ycombinator.com/item?id=42734478) - [Let's talk about AI and end-to-end encryption](https://blog.cryptographyengineering.com/2025/01/17/lets-talk-about-ai-and-end-to-end-encryption/)
 * [2025-01-15, 16:59:11](https://news.ycombinator.com/item?id=42713576) - [Minecraft Snapshot 25w03a](https://www.minecraft.net/en-us/article/minecraft-snapshot-25w03a)
 * [2025-01-15, 14:18:32](https://news.ycombinator.com/item?id=42711012) - [Playful Drawings That Charles Darwin's Children Left on His Manuscripts](https://www.openculture.com/2025/01/discover-the-playful-drawings-that-charles-darwins-children-left-on-his-manuscripts.html)
-* [2025-01-15, 11:14:59](https://news.ycombinator.com/item?id=42709667) - [antirez - Fixing a real world bug in Redis vector sets with LLMs [video]](https://www.youtube.com/watch?v=rCIZflYEpEk)
+* [2025-01-15, 11:14:59](https://news.ycombinator.com/item?id=42709667) - [Fixing a real world bug in Redis vector sets with LLMs [video]](https://www.youtube.com/watch?v=rCIZflYEpEk)
 * [2025-01-15, 07:26:35](https://news.ycombinator.com/item?id=42708291) - [Has LLM killed traditional NLP?](https://medium.com/altitudehq/is-traditional-nlp-dead-05544ae7d756)
 * [2025-01-15, 05:35:03](https://news.ycombinator.com/item?id=42707660) - [Trapped in the dark for 35 hours – Red Sea dive-boat survivors tell of escapes](https://www.bbc.com/news/articles/cp3z0k72yw3o)
 * [2025-01-14, 21:58:20](https://news.ycombinator.com/item?id=42704472) - [Lunase moon phase watch mechanism](https://genuineideas.com/ArticlesIndex/phase.html)
