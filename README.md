@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-18, 08:01:20](https://news.ycombinator.com/item?id=42746682) - [Ask HN: Which RSS reader do you use?](https://news.ycombinator.com/item?id=42746682)
 * [2025-01-18, 05:58:53](https://news.ycombinator.com/item?id=42746222) - [I've been advocating for RSS support, and you should too](https://reedybear.bearblog.dev/ive-been-advocating-for-rss-support-and-you-should-too/)
 * [2025-01-18, 04:37:12](https://news.ycombinator.com/item?id=42745876) - [Thoughts on having SSH allow password authentication from the Internet](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHOnExposingPasswordAuth)
 * [2025-01-18, 01:00:04](https://news.ycombinator.com/item?id=42744820) - [Spellbrush (YC W18) Is Hiring Game Programmers (Anime SRPG/Tactics)](https://news.ycombinator.com/item?id=42744820)
@@ -19,6 +18,7 @@
 * [2025-01-17, 15:23:58](https://news.ycombinator.com/item?id=42738464) - [Supreme Court upholds TikTok ban, but Trump might offer lifeline](https://www.cnbc.com/2025/01/17/supreme-court-rules-to-uphold-tiktok-ban.html)
 * [2025-01-17, 14:42:55](https://news.ycombinator.com/item?id=42737985) - [Ozempic and Wegovy are selected for Medicare's price negotiations](https://apnews.com/article/drug-prices-medicare-biden-trump-aae2271614f5959b484e5f081313f2e1)
 * [2025-01-17, 14:23:56](https://news.ycombinator.com/item?id=42737778) - [Show HN: Interactive game teaching dark patterns in UX design](https://games.productartistry.com/games/dark-patterns)
+* [2025-01-17, 08:54:28](https://news.ycombinator.com/item?id=42735413) - [The Family Bass - Music with an NES](https://www.linusakesson.net/music/family-bass/index.php)
 * [2025-01-17, 05:50:25](https://news.ycombinator.com/item?id=42734478) - [Let's talk about AI and end-to-end encryption](https://blog.cryptographyengineering.com/2025/01/17/lets-talk-about-ai-and-end-to-end-encryption/)
 * [2025-01-15, 14:18:32](https://news.ycombinator.com/item?id=42711012) - [Playful Drawings That Charles Darwin's Children Left on His Manuscripts](https://www.openculture.com/2025/01/discover-the-playful-drawings-that-charles-darwins-children-left-on-his-manuscripts.html)
 * [2025-01-15, 07:12:52](https://news.ycombinator.com/item?id=42708212) - [Fun with Timing Attacks](https://ostro.ws/post-timing-attacks)
