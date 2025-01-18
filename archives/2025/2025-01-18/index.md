@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-18](index.md)
 
+* [2025-01-18, 18:48:51](https://news.ycombinator.com/item?id=42750420) - [Amazon's AI crawler is making my Git server unstable](https://xeiaso.net/notes/2025/amazon-crawler/)
 * [2025-01-18, 18:04:19](https://news.ycombinator.com/item?id=42750096) - [O1 isn't a chat model (and that's the point)](https://www.latent.space/p/o1-skill-issue)
 * [2025-01-18, 17:35:46](https://news.ycombinator.com/item?id=42749901) - [Italy seeks to curb 'fake' online reviews for hotels and restaurants](https://www.rte.ie/news/world/2025/0114/1490847-italy-reviews-legislation/)
 * [2025-01-18, 17:33:24](https://news.ycombinator.com/item?id=42749884) - [What If No One Misses TikTok?](https://www.nytimes.com/2025/01/18/technology/what-if-no-one-misses-tiktok.html)

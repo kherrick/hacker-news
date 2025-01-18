@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-18, 18:48:51](https://news.ycombinator.com/item?id=42750420) - [Amazon's AI crawler is making my Git server unstable](https://xeiaso.net/notes/2025/amazon-crawler/)
 * [2025-01-18, 18:04:19](https://news.ycombinator.com/item?id=42750096) - [O1 isn't a chat model (and that's the point)](https://www.latent.space/p/o1-skill-issue)
 * [2025-01-18, 17:33:24](https://news.ycombinator.com/item?id=42749884) - [What If No One Misses TikTok?](https://www.nytimes.com/2025/01/18/technology/what-if-no-one-misses-tiktok.html)
 * [2025-01-18, 16:22:03](https://news.ycombinator.com/item?id=42749402) - [Show HN: Interactive systemd – a better way to work with systemd units](https://isd-project.github.io/isd/)
@@ -14,7 +15,6 @@
 * [2025-01-18, 12:31:20](https://news.ycombinator.com/item?id=42747877) - [Windows BitLocker – Screwed Without a Screwdriver](https://neodyme.io/en/blog/bitlocker_screwed_without_a_screwdriver/)
 * [2025-01-18, 12:28:53](https://news.ycombinator.com/item?id=42747864) - [The AMD Radeon Instinct MI300A's Giant Memory Subsystem](https://chipsandcheese.com/p/inside-the-amd-radeon-instinct-mi300as)
 * [2025-01-18, 07:09:15](https://news.ycombinator.com/item?id=42746506) - [ELIZA Reanimated](https://arxiv.org/abs/2501.06707)
-* [2025-01-18, 04:31:04](https://news.ycombinator.com/item?id=42745847) - [Using ChatGPT is not bad for the environment](https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for)
 * [2025-01-18, 02:42:54](https://news.ycombinator.com/item?id=42745334) - [Can you read this cursive handwriting? The National Archives wants your help](https://www.smithsonianmag.com/smart-news/can-you-read-this-cursive-handwriting-the-national-archives-wants-your-help-180985833/)
 * [2025-01-18, 01:25:40](https://news.ycombinator.com/item?id=42744932) - [Portrait of the Hilbert Curve (2010)](https://corte.si/posts/code/hilbert/portrait/)
 * [2025-01-17, 20:41:56](https://news.ycombinator.com/item?id=42743033) - [Investigating an “evil” RJ45 dongle](https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle)
