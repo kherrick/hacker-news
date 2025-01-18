@@ -53,6 +53,7 @@
 * [2025-01-15, 11:14:59](https://news.ycombinator.com/item?id=42709667) - [antirez - Fixing a real world bug in Redis vector sets with LLMs [video]](https://www.youtube.com/watch?v=rCIZflYEpEk)
 * [2025-01-15, 09:43:03](https://news.ycombinator.com/item?id=42709105) - [Sky-Scanning Complete for Gaia](https://www.esa.int/ESA_Multimedia/Images/2025/01/Sky-scanning_complete_for_Gaia)
 * [2025-01-15, 08:47:38](https://news.ycombinator.com/item?id=42708773) - [Generate audiobooks from E-books with Kokoro-82M](https://claudio.uk/posts/epub-to-audiobook.html)
+* [2025-01-15, 08:30:07](https://news.ycombinator.com/item?id=42708682) - [Laser Fault Injection on a Budget: RP2350 Edition](https://courk.cc/rp2350-challenge-laser)
 * [2025-01-15, 07:39:04](https://news.ycombinator.com/item?id=42708370) - [Create, Edit and Convert PPT, PPTX and ODP Presentation via Open Source PHP APIs](https://products.fileformat.com/presentation/php/)
 * [2025-01-15, 07:26:50](https://news.ycombinator.com/item?id=42708295) - [Mark Zuckerberg Was Right to Fire Facebook's Rogue Fact-Checkers](https://reason.com/2025/01/07/mark-zuckerberg-meta-facebook-fact-checkers-censorship/)
 * [2025-01-15, 07:26:35](https://news.ycombinator.com/item?id=42708291) - [Has LLM killed traditional NLP?](https://medium.com/altitudehq/is-traditional-nlp-dead-05544ae7d756)
