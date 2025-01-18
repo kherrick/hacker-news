@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-18, 22:44:58](https://news.ycombinator.com/item?id=42752023) - [Pharaoh's Tomb HD – A Remake Made in JavaScript with Kaplay](https://pt-hd.iocaihost.me/)
 * [2025-01-18, 21:50:15](https://news.ycombinator.com/item?id=42751690) - [Kalman Filter Tutorial](https://www.kalmanfilter.net/default.aspx)
 * [2025-01-18, 21:42:31](https://news.ycombinator.com/item?id=42751649) - [Perplexity AI submits bid to merge with TikTok](https://techcrunch.com/2025/01/18/perplexity-ai-submits-bid-to-merge-with-tiktok/)
-* [2025-01-18, 20:31:39](https://news.ycombinator.com/item?id=42751185) - [The Future of Analytics Is Invisible: Why You Should Stop Using Google Analytics](https://www.iodiasix.com/blog/the-future-of-analytics-is-invisible)
 * [2025-01-18, 19:59:03](https://news.ycombinator.com/item?id=42750954) - [Borrowchecker.jl – Designing a borrow checker for Julia](https://github.com/MilesCranmer/BorrowChecker.jl)
 * [2025-01-18, 19:36:13](https://news.ycombinator.com/item?id=42750781) - [WASM GC isn't ready for realtime graphics](https://dthompson.us/posts/wasm-gc-isnt-ready-for-realtime-graphics.html)
 * [2025-01-18, 19:27:58](https://news.ycombinator.com/item?id=42750734) - [Skymont: Intel's E-Cores reach for the Sky](https://chipsandcheese.com/p/skymont-intels-e-cores-reach-for-the-sky)
@@ -26,7 +26,7 @@
 * [2025-01-16, 00:50:46](https://news.ycombinator.com/item?id=42719498) - [Australian Open resorts to animated caricatures to bypass broadcast restrictions](https://www.crikey.com.au/2025/01/16/australian-open-animated-cartoon-caricatures-broadcast-restrictions/)
 * [2025-01-15, 14:18:32](https://news.ycombinator.com/item?id=42711012) - [Playful Drawings That Charles Darwin's Children Left on His Manuscripts](https://www.openculture.com/2025/01/discover-the-playful-drawings-that-charles-darwins-children-left-on-his-manuscripts.html)
 * [2025-01-15, 12:50:15](https://news.ycombinator.com/item?id=42710296) - [TCL's bet on screens that look like paper](https://notes.ghed.in/posts/2025/tcl-nxtpaper-screen-tech/)
-* [2025-01-15, 08:30:07](https://news.ycombinator.com/item?id=42708682) - [Laser Fault Injection on a Budget: RP2350 Edition](https://courk.cc/rp2350-challenge-laser)
+* [2025-01-15, 09:20:03](https://news.ycombinator.com/item?id=42708974) - [Beating cuBLAS in Single-Precision General Matrix Multiplication](https://salykova.github.io/sgemm-gpu)
 * [2025-01-15, 02:29:43](https://news.ycombinator.com/item?id=42706637) - [Show HN: LLMpeg](https://github.com/jjcm/llmpeg)
 * [2025-01-14, 18:31:55](https://news.ycombinator.com/item?id=42701645) - [Designing a Star Tracker for Astronaut Don Pettit to Use on the ISS](https://petapixel.com/2025/01/14/designing-a-star-tracker-for-astronaut-don-pettit-to-use-on-the-iss/)
 * [2025-01-14, 17:25:06](https://news.ycombinator.com/item?id=42700483) - [Generating an infinite world with the Wave Function Collapse algorithm](https://marian42.de/article/infinite-wfc/)
