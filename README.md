@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-18, 05:58:53](https://news.ycombinator.com/item?id=42746222) - [I've been advocating for RSS support, and you should too](https://reedybear.bearblog.dev/ive-been-advocating-for-rss-support-and-you-should-too/)
+* [2025-01-18, 04:37:12](https://news.ycombinator.com/item?id=42745876) - [Thoughts on having SSH allow password authentication from the Internet](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHOnExposingPasswordAuth)
 * [2025-01-18, 04:31:04](https://news.ycombinator.com/item?id=42745847) - [Using ChatGPT is not bad for the environment](https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for)
 * [2025-01-18, 02:42:54](https://news.ycombinator.com/item?id=42745334) - [Can you read this cursive handwriting? The National Archives wants your help](https://www.smithsonianmag.com/smart-news/can-you-read-this-cursive-handwriting-the-national-archives-wants-your-help-180985833/)
 * [2025-01-18, 01:00:04](https://news.ycombinator.com/item?id=42744820) - [Spellbrush (YC W18) Is Hiring Game Programmers (Anime SRPG/Tactics)](https://news.ycombinator.com/item?id=42744820)
@@ -25,7 +26,6 @@
 * [2025-01-15, 05:35:03](https://news.ycombinator.com/item?id=42707660) - [Trapped in dark for 35 hours Red Sea dive-boat survivors tell terrifying escapes](https://www.bbc.com/news/articles/cp3z0k72yw3o)
 * [2025-01-14, 21:58:20](https://news.ycombinator.com/item?id=42704472) - [Lunase moon phase watch mechanism](https://genuineideas.com/ArticlesIndex/phase.html)
 * [2025-01-14, 21:03:43](https://news.ycombinator.com/item?id=42703816) - [Maze Generation: Recursive Division (2011)](http://weblog.jamisbuck.org/2011/1/12/maze-generation-recursive-division-algorithm)
-* [2025-01-14, 18:02:37](https://news.ycombinator.com/item?id=42701153) - [Build a Figma plugin to add stroke to bitmaps directly in Figma](https://www.figma.com/community/plugin/1457662942651611491/image-stroke)
 * [2025-01-14, 13:36:09](https://news.ycombinator.com/item?id=42697001) - [Lightcell: An engine that uses light to make electricity](https://www.lightcellenergy.com/)
 * [2025-01-14, 09:08:13](https://news.ycombinator.com/item?id=42695232) - [Data evolution with set-theoretic types](https://dashbit.co/blog/data-evolution-with-set-theoretic-types)
 * [2025-01-14, 07:36:25](https://news.ycombinator.com/item?id=42694732) - [PostgreSQL Anonymizer](https://postgresql-anonymizer.readthedocs.io/en/stable/)

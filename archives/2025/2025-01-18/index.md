@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-18](index.md)
 
 * [2025-01-18, 05:58:53](https://news.ycombinator.com/item?id=42746222) - [I've been advocating for RSS support, and you should too](https://reedybear.bearblog.dev/ive-been-advocating-for-rss-support-and-you-should-too/)
+* [2025-01-18, 04:37:12](https://news.ycombinator.com/item?id=42745876) - [Thoughts on having SSH allow password authentication from the Internet](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHOnExposingPasswordAuth)
 * [2025-01-18, 04:31:04](https://news.ycombinator.com/item?id=42745847) - [Using ChatGPT is not bad for the environment](https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for)
 * [2025-01-18, 04:12:04](https://news.ycombinator.com/item?id=42745771) - [The Los Angeles wildfires are self-inflicted](https://caseyhandmer.wordpress.com/2025/01/17/the-los-angeles-wildfires-are-self-inflicted/)
 * [2025-01-18, 03:26:03](https://news.ycombinator.com/item?id=42745538) - [Chinese Innovations Spawn Wave of Toll Phishing via SMS](https://krebsonsecurity.com/2025/01/chinese-innovations-spawn-wave-of-toll-phishing-via-sms/)
