@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-18, 04:31:04](https://news.ycombinator.com/item?id=42745847) - [Using ChatGPT is not bad for the environment](https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for)
-* [2025-01-18, 03:26:03](https://news.ycombinator.com/item?id=42745538) - [Chinese Innovations Spawn Wave of Toll Phishing via SMS](https://krebsonsecurity.com/2025/01/chinese-innovations-spawn-wave-of-toll-phishing-via-sms/)
 * [2025-01-18, 02:42:54](https://news.ycombinator.com/item?id=42745334) - [Can you read this cursive handwriting? The National Archives wants your help](https://www.smithsonianmag.com/smart-news/can-you-read-this-cursive-handwriting-the-national-archives-wants-your-help-180985833/)
 * [2025-01-18, 01:00:04](https://news.ycombinator.com/item?id=42744820) - [Spellbrush (YC W18) Is Hiring Game Programmers (Anime SRPG/Tactics)](https://news.ycombinator.com/item?id=42744820)
 * [2025-01-18, 00:32:25](https://news.ycombinator.com/item?id=42744695) - [EFF statement on U.S. Supreme Court's decision to uphold TikTok ban](https://www.eff.org/deeplinks/2025/01/eff-statement-us-supreme-courts-decision-uphold-tiktok-ban)
@@ -22,13 +21,14 @@
 * [2025-01-17, 14:23:56](https://news.ycombinator.com/item?id=42737778) - [Show HN: Interactive game teaching dark patterns in UX design](https://games.productartistry.com/games/dark-patterns)
 * [2025-01-17, 08:54:28](https://news.ycombinator.com/item?id=42735413) - [The Family Bass - Music with an NES](https://www.linusakesson.net/music/family-bass/index.php)
 * [2025-01-17, 05:50:25](https://news.ycombinator.com/item?id=42734478) - [Let's talk about AI and end-to-end encryption](https://blog.cryptographyengineering.com/2025/01/17/lets-talk-about-ai-and-end-to-end-encryption/)
+* [2025-01-17, 03:00:10](https://news.ycombinator.com/item?id=42733640) - [Bypassing disk encryption on systems with automatic TPM2 unlock](https://oddlama.org/blog/bypassing-disk-encryption-with-tpm2-unlock/)
 * [2025-01-15, 07:12:52](https://news.ycombinator.com/item?id=42708212) - [Fun with Timing Attacks](https://ostro.ws/post-timing-attacks)
 * [2025-01-15, 05:35:03](https://news.ycombinator.com/item?id=42707660) - [Trapped in dark for 35 hours Red Sea dive-boat survivors tell terrifying escapes](https://www.bbc.com/news/articles/cp3z0k72yw3o)
 * [2025-01-14, 21:58:20](https://news.ycombinator.com/item?id=42704472) - [Lunase moon phase watch mechanism](https://genuineideas.com/ArticlesIndex/phase.html)
 * [2025-01-14, 21:03:43](https://news.ycombinator.com/item?id=42703816) - [Maze Generation: Recursive Division (2011)](http://weblog.jamisbuck.org/2011/1/12/maze-generation-recursive-division-algorithm)
+* [2025-01-14, 18:02:37](https://news.ycombinator.com/item?id=42701153) - [Build a Figma plugin to add stroke to bitmaps directly in Figma](https://www.figma.com/community/plugin/1457662942651611491/image-stroke)
 * [2025-01-14, 13:36:09](https://news.ycombinator.com/item?id=42697001) - [Lightcell: An engine that uses light to make electricity](https://www.lightcellenergy.com/)
 * [2025-01-14, 07:36:25](https://news.ycombinator.com/item?id=42694732) - [PostgreSQL Anonymizer](https://postgresql-anonymizer.readthedocs.io/en/stable/)
-* [2025-01-14, 06:31:22](https://news.ycombinator.com/item?id=42694384) - [Show HN: Decentralized robots (and things) orchestration system](https://docs.p2p.industries)
 * [2025-01-14, 04:44:06](https://news.ycombinator.com/item?id=42693748) - [DoubleClickjacking: A New type of web hacking technique](https://www.paulosyibelo.com/2024/12/doubleclickjacking-what.html)
 
 ## [Archives](archives/index.md)
