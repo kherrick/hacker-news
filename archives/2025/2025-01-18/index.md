@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-01-18](index.md)
 
+* [2025-01-18, 21:50:15](https://news.ycombinator.com/item?id=42751690) - [Kalman Filter Tutorial](https://www.kalmanfilter.net/default.aspx)
 * [2025-01-18, 21:42:31](https://news.ycombinator.com/item?id=42751649) - [Perplexity AI submits bid to merge with TikTok](https://techcrunch.com/2025/01/18/perplexity-ai-submits-bid-to-merge-with-tiktok/)
+* [2025-01-18, 19:36:13](https://news.ycombinator.com/item?id=42750781) - [WASM GC isn't ready for realtime graphics](https://dthompson.us/posts/wasm-gc-isnt-ready-for-realtime-graphics.html)
 * [2025-01-18, 19:27:58](https://news.ycombinator.com/item?id=42750734) - [Skymont: Intel's E-Cores reach for the Sky](https://chipsandcheese.com/p/skymont-intels-e-cores-reach-for-the-sky)
 * [2025-01-18, 18:53:47](https://news.ycombinator.com/item?id=42750454) - [Reverse-engineering a carry-lookahead adder in the Pentium](https://www.righto.com/2025/01/pentium-carry-lookahead-reverse-engineered.html)
 * [2025-01-18, 18:48:51](https://news.ycombinator.com/item?id=42750420) - [Amazon's AI crawler is making my Git server unstable](https://xeiaso.net/notes/2025/amazon-crawler/)
