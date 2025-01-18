@@ -17,6 +17,7 @@
 * [2025-01-18, 09:31:45](https://news.ycombinator.com/item?id=42747065) - [Honest Ahmed](https://bugzilla.mozilla.org/show_bug.cgi?id=647959)
 * [2025-01-18, 08:16:17](https://news.ycombinator.com/item?id=42746752) - [Show HN: I made a mini golf in my lunch time](https://paper-golf.netlify.app/)
 * [2025-01-18, 08:01:20](https://news.ycombinator.com/item?id=42746682) - [Ask HN: Which RSS reader do you use?](https://news.ycombinator.com/item?id=42746682)
+* [2025-01-18, 07:09:15](https://news.ycombinator.com/item?id=42746506) - [ELIZA Reanimated](https://arxiv.org/abs/2501.06707)
 * [2025-01-18, 05:58:53](https://news.ycombinator.com/item?id=42746222) - [I've been advocating for RSS support, and you should too](https://reedybear.bearblog.dev/ive-been-advocating-for-rss-support-and-you-should-too/)
 * [2025-01-18, 04:37:12](https://news.ycombinator.com/item?id=42745876) - [Thoughts on having SSH allow password authentication from the Internet](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHOnExposingPasswordAuth)
 * [2025-01-18, 04:31:04](https://news.ycombinator.com/item?id=42745847) - [Using ChatGPT is not bad for the environment](https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for)
