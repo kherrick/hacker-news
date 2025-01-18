@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-18, 04:31:04](https://news.ycombinator.com/item?id=42745847) - [Using ChatGPT is not bad for the environment](https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for)
-* [2025-01-18, 04:12:04](https://news.ycombinator.com/item?id=42745771) - [The Los Angeles wildfires are self-inflicted](https://caseyhandmer.wordpress.com/2025/01/17/the-los-angeles-wildfires-are-self-inflicted/)
 * [2025-01-18, 03:26:03](https://news.ycombinator.com/item?id=42745538) - [Chinese Innovations Spawn Wave of Toll Phishing via SMS](https://krebsonsecurity.com/2025/01/chinese-innovations-spawn-wave-of-toll-phishing-via-sms/)
 * [2025-01-18, 02:42:54](https://news.ycombinator.com/item?id=42745334) - [Can you read this cursive handwriting? The National Archives wants your help](https://www.smithsonianmag.com/smart-news/can-you-read-this-cursive-handwriting-the-national-archives-wants-your-help-180985833/)
 * [2025-01-18, 01:00:04](https://news.ycombinator.com/item?id=42744820) - [Spellbrush (YC W18) Is Hiring Game Programmers (Anime SRPG/Tactics)](https://news.ycombinator.com/item?id=42744820)
@@ -18,6 +17,7 @@
 * [2025-01-17, 16:21:13](https://news.ycombinator.com/item?id=42739572) - [French modernists were alarmed, inspired by newspaper's voracious dynamism](https://aeon.co/essays/the-french-modernists-loathed-and-loved-the-mass-media-of-their-day)
 * [2025-01-17, 15:36:01](https://news.ycombinator.com/item?id=42738656) - [Show HN: GUI for editing Mermaid class diagrams](https://docs.mermaidchart.com/blog/posts/gui-for-editing-mermaid-class-diagrams)
 * [2025-01-17, 15:23:58](https://news.ycombinator.com/item?id=42738464) - [Supreme Court upholds TikTok ban, but Trump might offer lifeline](https://www.cnbc.com/2025/01/17/supreme-court-rules-to-uphold-tiktok-ban.html)
+* [2025-01-17, 15:23:05](https://news.ycombinator.com/item?id=42738457) - [Skyvern Browser Agent 2.0: How We Reached State of the Art in Evals](https://blog.skyvern.com/skyvern-2-0-state-of-the-art-web-navigation-with-85-8-on-webvoyager-eval/)
 * [2025-01-17, 14:42:55](https://news.ycombinator.com/item?id=42737985) - [Ozempic and Wegovy are selected for Medicare's price negotiations](https://apnews.com/article/drug-prices-medicare-biden-trump-aae2271614f5959b484e5f081313f2e1)
 * [2025-01-17, 14:23:56](https://news.ycombinator.com/item?id=42737778) - [Show HN: Interactive game teaching dark patterns in UX design](https://games.productartistry.com/games/dark-patterns)
 * [2025-01-17, 08:54:28](https://news.ycombinator.com/item?id=42735413) - [The Family Bass - Music with an NES](https://www.linusakesson.net/music/family-bass/index.php)
