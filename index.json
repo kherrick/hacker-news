@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-18, 19:27:58",
+      "https://news.ycombinator.com/item?id=42750734"
+    ],
+    [
+      "Skymont: Intel's E-Cores reach for the Sky",
+      "https://chipsandcheese.com/p/skymont-intels-e-cores-reach-for-the-sky"
+    ]
+  ],
+  [
+    [
       "2025-01-18, 18:53:47",
       "https://news.ycombinator.com/item?id=42750454"
     ],
@@ -17,6 +27,26 @@
     [
       "Amazon's AI crawler is making my Git server unstable",
       "https://xeiaso.net/notes/2025/amazon-crawler/"
+    ]
+  ],
+  [
+    [
+      "2025-01-18, 18:28:21",
+      "https://news.ycombinator.com/item?id=42750264"
+    ],
+    [
+      "Looking at some claims that quantum computers won't work",
+      "https://blog.cr.yp.to/20250118-flight.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-18, 18:17:59",
+      "https://news.ycombinator.com/item?id=42750195"
+    ],
+    [
+      "VS Code Pets",
+      "https://github.com/tonybaloney/vscode-pets"
     ]
   ],
   [
@@ -77,16 +107,6 @@
     [
       "Rule-Based Programming in Interactive Fiction",
       "https://eblong.com/zarf/essays/rule-based-if/index.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-18, 14:05:20",
-      "https://news.ycombinator.com/item?id=42748394"
-    ],
-    [
-      "Ask HN: Has anyone tried alternative company models (like a co-op) for SaaS?",
-      "https://news.ycombinator.com/item?id=42748394"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-01-18, 01:00:04",
-      "https://news.ycombinator.com/item?id=42744820"
-    ],
-    [
-      "Spellbrush (YC W18) Is Hiring Game Programmers (Anime SRPG/Tactics)",
-      "https://news.ycombinator.com/item?id=42744820"
-    ]
-  ],
-  [
-    [
       "2025-01-17, 20:41:56",
       "https://news.ycombinator.com/item?id=42743033"
     ],
@@ -187,16 +197,6 @@
     [
       "So you want to build your own data center",
       "https://blog.railway.com/p/data-center-build-part-one"
-    ]
-  ],
-  [
-    [
-      "2025-01-17, 19:20:14",
-      "https://news.ycombinator.com/item?id=42742184"
-    ],
-    [
-      "Branchless UTF-8 Encoding",
-      "https://cceckman.com/writing/branchless-utf8-encoding/"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2025-01-15, 02:29:43",
+      "https://news.ycombinator.com/item?id=42706637"
+    ],
+    [
+      "Show HN: LLMpeg",
+      "https://github.com/jjcm/llmpeg"
+    ]
+  ],
+  [
+    [
       "2025-01-14, 18:31:55",
       "https://news.ycombinator.com/item?id=42701645"
     ],
@@ -287,16 +297,6 @@
     [
       "Generating an infinite world with the Wave Function Collapse algorithm",
       "https://marian42.de/article/infinite-wfc/"
-    ]
-  ],
-  [
-    [
-      "2025-01-14, 13:36:09",
-      "https://news.ycombinator.com/item?id=42697001"
-    ],
-    [
-      "Lightcell: An engine that uses light to make electricity",
-      "https://www.lightcellenergy.com/"
     ]
   ]
 ]
