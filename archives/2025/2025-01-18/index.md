@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-18](index.md)
 
+* [2025-01-18, 11:07:24](https://news.ycombinator.com/item?id=42747515) - [FamiTracker free windows tracker for producing music for the NES/Famicom-systems](http://famitracker.com/)
 * [2025-01-18, 09:36:39](https://news.ycombinator.com/item?id=42747092) - [Google begins requiring JavaScript for Google Search](https://techcrunch.com/2025/01/17/google-begins-requiring-javascript-for-google-search/)
 * [2025-01-18, 09:31:45](https://news.ycombinator.com/item?id=42747065) - [Honest Ahmed](https://bugzilla.mozilla.org/show_bug.cgi?id=647959)
 * [2025-01-18, 08:01:20](https://news.ycombinator.com/item?id=42746682) - [Ask HN: Which RSS reader do you use?](https://news.ycombinator.com/item?id=42746682)
