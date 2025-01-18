@@ -6,6 +6,7 @@
 
 * [2025-01-18, 04:31:04](https://news.ycombinator.com/item?id=42745847) - [Using ChatGPT is not bad for the environment](https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for)
 * [2025-01-18, 04:12:04](https://news.ycombinator.com/item?id=42745771) - [The Los Angeles wildfires are self-inflicted](https://caseyhandmer.wordpress.com/2025/01/17/the-los-angeles-wildfires-are-self-inflicted/)
+* [2025-01-18, 03:26:03](https://news.ycombinator.com/item?id=42745538) - [Chinese Innovations Spawn Wave of Toll Phishing via SMS](https://krebsonsecurity.com/2025/01/chinese-innovations-spawn-wave-of-toll-phishing-via-sms/)
 * [2025-01-18, 02:42:54](https://news.ycombinator.com/item?id=42745334) - [Can You Read This Cursive Handwriting? The National Archives Wants Your Help](https://www.smithsonianmag.com/smart-news/can-you-read-this-cursive-handwriting-the-national-archives-wants-your-help-180985833/)
 * [2025-01-18, 01:51:18](https://news.ycombinator.com/item?id=42745082) - [Is the TikTok Ban a Chance to Rethink the Whole Internet?](https://www.newyorker.com/news/annals-of-communications/is-the-tiktok-ban-a-chance-to-rethink-the-whole-internet)
 * [2025-01-18, 01:38:03](https://news.ycombinator.com/item?id=42745002) - [Under new law, cops bust famous cartoonist for AI-generated CSAM](https://arstechnica.com/tech-policy/2025/01/under-new-law-cops-bust-famous-cartoonist-for-ai-generated-child-sex-abuse-images/)
