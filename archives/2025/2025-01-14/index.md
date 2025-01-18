@@ -20,6 +20,7 @@
 * [2025-01-14, 19:47:47](https://news.ycombinator.com/item?id=42702794) - [How to Tell a Leopard from Its Roar](https://nautil.us/how-to-tell-a-leopard-from-its-roar-1178312/)
 * [2025-01-14, 19:30:07](https://news.ycombinator.com/item?id=42702507) - [Ask HN: Seeking Device to Normalize Audio Output for Consistent Volume Levels](https://news.ycombinator.com/item?id=42702507)
 * [2025-01-14, 18:37:58](https://news.ycombinator.com/item?id=42701745) - [Ask HN: Teams using AI – how do you prevent it from breaking your codebase?](https://news.ycombinator.com/item?id=42701745)
+* [2025-01-14, 18:31:55](https://news.ycombinator.com/item?id=42701645) - [Designing a Star Tracker for Astronaut Don Pettit to Use on the ISS](https://petapixel.com/2025/01/14/designing-a-star-tracker-for-astronaut-don-pettit-to-use-on-the-iss/)
 * [2025-01-14, 18:20:20](https://news.ycombinator.com/item?id=42701456) - [Platforms systematically removed a user because he made \"most wanted CEO\" cards](https://www.eff.org/deeplinks/2025/01/platforms-systematically-removed-user-because-he-made-most-wanted-ceo-playing)
 * [2025-01-14, 18:16:35](https://news.ycombinator.com/item?id=42701393) - [Software Engineer Pay Heatmap for Europe](https://levels.fyi/heatmap/europe/)
 * [2025-01-14, 18:04:56](https://news.ycombinator.com/item?id=42701198) - [I deleted all of my email filters](https://coryd.dev/posts/2025/i-deleted-all-of-my-email-filters)
