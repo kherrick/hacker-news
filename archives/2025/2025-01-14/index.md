@@ -50,6 +50,7 @@
 * [2025-01-14, 14:05:40](https://news.ycombinator.com/item?id=42697335) - [Servo vs. steppers: Speed, Torque and Accuracy [video]](https://www.youtube.com/watch?v=H-nO1F-AO9I)
 * [2025-01-14, 13:36:09](https://news.ycombinator.com/item?id=42697001) - [Lightcell: An engine that uses light to make electricity](https://www.lightcellenergy.com/)
 * [2025-01-14, 13:24:31](https://news.ycombinator.com/item?id=42696857) - [Leaving a permanent record of humanity on the moon – in 100B pixels](https://www.aljazeera.com/features/2025/1/11/leaving-a-permanent-record-of-humanity-on-the-moon-in-100-billion-pixels)
+* [2025-01-14, 13:23:59](https://news.ycombinator.com/item?id=42696849) - [When the Simplest Concurrent Program Goes Against All Intuition](https://wyounas.github.io/concurrency/2025/01/13/when-a-simple-concurrent-program-goes-against-all-intuition/)
 * [2025-01-14, 13:23:49](https://news.ycombinator.com/item?id=42696847) - [FOSDEM and DMA updates and 2025 YH4F and Our visions for 2048](https://fsfe.org/news/nl/nl-202501.en.html)
 * [2025-01-14, 13:21:28](https://news.ycombinator.com/item?id=42696822) - [Using Coding Skills to Make Passive Income](https://www.coryzue.com/writing/solopreneur/)
 * [2025-01-14, 13:05:31](https://news.ycombinator.com/item?id=42696691) - [In the Belly of the MrBeast](https://kevinmunger.substack.com/p/in-the-belly-of-the-mrbeast)
