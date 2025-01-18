@@ -2,7 +2,6 @@
 
 * [2025-01-18, 02:42:54](https://news.ycombinator.com/item?id=42745334) - [Can you read this cursive handwriting? The National Archives wants your help](https://www.smithsonianmag.com/smart-news/can-you-read-this-cursive-handwriting-the-national-archives-wants-your-help-180985833/)
 * [2025-01-18, 01:51:18](https://news.ycombinator.com/item?id=42745082) - [Is the TikTok ban a chance to rethink the whole internet?](https://www.newyorker.com/news/annals-of-communications/is-the-tiktok-ban-a-chance-to-rethink-the-whole-internet)
-* [2025-01-18, 01:25:42](https://news.ycombinator.com/item?id=42744933) - [BYD just launched the largest car carrier to charge up its global EV ambitions](https://electrek.co/2025/01/17/byd-launches-worlds-largest-car-carrier-fuel-global-ev-takeover/)
 * [2025-01-18, 01:00:04](https://news.ycombinator.com/item?id=42744820) - [Spellbrush (YC W18) Is Hiring Game Programmers (Anime SRPG/Tactics)](https://news.ycombinator.com/item?id=42744820)
 * [2025-01-18, 00:32:25](https://news.ycombinator.com/item?id=42744695) - [EFF statement on U.S. Supreme Court's decision to uphold TikTok ban](https://www.eff.org/deeplinks/2025/01/eff-statement-us-supreme-courts-decision-uphold-tiktok-ban)
 * [2025-01-17, 20:41:56](https://news.ycombinator.com/item?id=42743033) - [Investigating an \"evil\" RJ45 dongle](https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle)
@@ -30,6 +29,7 @@
 * [2025-01-14, 07:36:25](https://news.ycombinator.com/item?id=42694732) - [PostgreSQL Anonymizer](https://postgresql-anonymizer.readthedocs.io/en/stable/)
 * [2025-01-14, 06:31:22](https://news.ycombinator.com/item?id=42694384) - [Show HN: Decentralized robots (and things) orchestration system](https://docs.p2p.industries)
 * [2025-01-14, 04:44:06](https://news.ycombinator.com/item?id=42693748) - [DoubleClickjacking: A New type of web hacking technique](https://www.paulosyibelo.com/2024/12/doubleclickjacking-what.html)
+* [2025-01-13, 20:50:01](https://news.ycombinator.com/item?id=42689054) - [A UC Santa Cruz professor unearthed the oldest alphabet yet](https://www.universityofcalifornia.edu/news/how-uc-santa-cruz-professor-unearthed-oldest-alphabet-yet)
 
 ## [Archives](archives/index.md)
 
