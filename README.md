@@ -2,7 +2,7 @@
 
 * [2025-01-18, 05:58:53](https://news.ycombinator.com/item?id=42746222) - [I've been advocating for RSS support, and you should too](https://reedybear.bearblog.dev/ive-been-advocating-for-rss-support-and-you-should-too/)
 * [2025-01-18, 04:37:12](https://news.ycombinator.com/item?id=42745876) - [Thoughts on having SSH allow password authentication from the Internet](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHOnExposingPasswordAuth)
-* [2025-01-18, 04:31:04](https://news.ycombinator.com/item?id=42745847) - [Using ChatGPT is not bad for the environment](https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for)
+* [2025-01-18, 02:42:54](https://news.ycombinator.com/item?id=42745334) - [Can you read this cursive handwriting? The National Archives wants your help](https://www.smithsonianmag.com/smart-news/can-you-read-this-cursive-handwriting-the-national-archives-wants-your-help-180985833/)
 * [2025-01-18, 01:00:04](https://news.ycombinator.com/item?id=42744820) - [Spellbrush (YC W18) Is Hiring Game Programmers (Anime SRPG/Tactics)](https://news.ycombinator.com/item?id=42744820)
 * [2025-01-18, 00:32:25](https://news.ycombinator.com/item?id=42744695) - [EFF statement on U.S. Supreme Court's decision to uphold TikTok ban](https://www.eff.org/deeplinks/2025/01/eff-statement-us-supreme-courts-decision-uphold-tiktok-ban)
 * [2025-01-17, 20:41:56](https://news.ycombinator.com/item?id=42743033) - [Investigating an \"evil\" RJ45 dongle](https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle)
