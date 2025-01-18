@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-18](index.md)
 
+* [2025-01-18, 13:29:39](https://news.ycombinator.com/item?id=42748172) - [UK police seize Cybertruck because it's illegal there](https://www.popsci.com/technology/uk-cybertruck-illegal/)
 * [2025-01-18, 13:22:15](https://news.ycombinator.com/item?id=42748130) - [FTC bans Genshin Impact dev from selling lootboxes to under-16s, fines them $20M](https://www.ftc.gov/news-events/news/press-releases/2025/01/genshin-impact-game-developer-will-be-banned-selling-lootboxes-teens-under-16-without-parental)
 * [2025-01-18, 12:42:46](https://news.ycombinator.com/item?id=42747923) - [Bloodletting recommended for Jersey residents after PFAS contamination](https://www.theguardian.com/uk-news/2025/jan/16/bloodletting-recommended-for-jersey-residents-after-pfas-contamination)
 * [2025-01-18, 12:42:45](https://news.ycombinator.com/item?id=42747922) - [Transmeta: A CPU Revolution That Never Was [video]](https://www.youtube.com/watch?v=U2aQTJDJwd8)
