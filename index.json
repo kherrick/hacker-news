@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=42743033"
     ],
     [
-      "Investigating an \"evil\" RJ45 dongle",
+      "Investigating an “evil” RJ45 dongle",
       "https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle"
     ]
   ],
@@ -127,6 +127,16 @@
     [
       "Brood War Korean Translations",
       "https://blog.sourcedive.net/brood-war-korean-translations/"
+    ]
+  ],
+  [
+    [
+      "2025-01-17, 16:53:55",
+      "https://news.ycombinator.com/item?id=42740183"
+    ],
+    [
+      "Dr. TVAM – Inverse Rendering for Tomographic Volumetric Additive Manufacturing",
+      "https://github.com/rgl-epfl/drtvam"
     ]
   ],
   [
@@ -221,21 +231,11 @@
   ],
   [
     [
-      "2025-01-15, 07:26:35",
-      "https://news.ycombinator.com/item?id=42708291"
-    ],
-    [
-      "Has LLM killed traditional NLP?",
-      "https://medium.com/altitudehq/is-traditional-nlp-dead-05544ae7d756"
-    ]
-  ],
-  [
-    [
       "2025-01-15, 07:12:52",
       "https://news.ycombinator.com/item?id=42708212"
     ],
     [
-      "Fun with Timing Attacks",
+      "Fun with Timing Attacks (2024)",
       "https://ostro.ws/post-timing-attacks"
     ]
   ],
