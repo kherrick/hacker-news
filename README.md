@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-18, 09:36:39](https://news.ycombinator.com/item?id=42747092) - [Google begins requiring JavaScript for Google Search](https://techcrunch.com/2025/01/17/google-begins-requiring-javascript-for-google-search/)
 * [2025-01-18, 09:31:45](https://news.ycombinator.com/item?id=42747065) - [Honest Ahmed](https://bugzilla.mozilla.org/show_bug.cgi?id=647959)
 * [2025-01-18, 05:58:53](https://news.ycombinator.com/item?id=42746222) - [I've been advocating for RSS support, and you should too](https://reedybear.bearblog.dev/ive-been-advocating-for-rss-support-and-you-should-too/)
 * [2025-01-18, 04:37:12](https://news.ycombinator.com/item?id=42745876) - [Thoughts on having SSH allow password authentication from the Internet](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHOnExposingPasswordAuth)
@@ -18,6 +17,7 @@
 * [2025-01-17, 16:21:13](https://news.ycombinator.com/item?id=42739572) - [French modernists were alarmed, inspired by newspaper's voracious dynamism](https://aeon.co/essays/the-french-modernists-loathed-and-loved-the-mass-media-of-their-day)
 * [2025-01-17, 15:36:01](https://news.ycombinator.com/item?id=42738656) - [Show HN: GUI for editing Mermaid class diagrams](https://docs.mermaidchart.com/blog/posts/gui-for-editing-mermaid-class-diagrams)
 * [2025-01-17, 15:23:58](https://news.ycombinator.com/item?id=42738464) - [Supreme Court upholds TikTok ban, but Trump might offer lifeline](https://www.cnbc.com/2025/01/17/supreme-court-rules-to-uphold-tiktok-ban.html)
+* [2025-01-17, 14:42:55](https://news.ycombinator.com/item?id=42737985) - [Ozempic and Wegovy are selected for Medicare's price negotiations](https://apnews.com/article/drug-prices-medicare-biden-trump-aae2271614f5959b484e5f081313f2e1)
 * [2025-01-17, 14:23:56](https://news.ycombinator.com/item?id=42737778) - [Show HN: Interactive game teaching dark patterns in UX design](https://games.productartistry.com/games/dark-patterns)
 * [2025-01-17, 05:50:25](https://news.ycombinator.com/item?id=42734478) - [Let's talk about AI and end-to-end encryption](https://blog.cryptographyengineering.com/2025/01/17/lets-talk-about-ai-and-end-to-end-encryption/)
 * [2025-01-15, 16:59:11](https://news.ycombinator.com/item?id=42713576) - [Minecraft Snapshot 25w03a](https://www.minecraft.net/en-us/article/minecraft-snapshot-25w03a)
