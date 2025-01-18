@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-01-18](index.md)
 
+* [2025-01-18, 16:22:03](https://news.ycombinator.com/item?id=42749402) - [Show HN: Interactive systemd (a better way to work with systemd units)](https://isd-project.github.io/isd/)
+* [2025-01-18, 15:32:41](https://news.ycombinator.com/item?id=42749069) - [Why do bees die when they sting you?](https://www.subanima.org/bees/)
 * [2025-01-18, 15:00:15](https://news.ycombinator.com/item?id=42748846) - [NASA's Next-Level Discovery: Webb Exposes Dazzling Interstellar Web of Dust](https://scitechdaily.com/nasas-next-level-discovery-webb-exposes-dazzling-interstellar-web-of-dust/)
 * [2025-01-18, 14:05:20](https://news.ycombinator.com/item?id=42748394) - [Ask HN: Has anyone tried alternative company models (like a co-op) for SaaS?](https://news.ycombinator.com/item?id=42748394)
 * [2025-01-18, 13:29:39](https://news.ycombinator.com/item?id=42748172) - [UK police seize Cybertruck because it's illegal there](https://www.popsci.com/technology/uk-cybertruck-illegal/)
 * [2025-01-18, 13:22:15](https://news.ycombinator.com/item?id=42748130) - [FTC bans Genshin Impact dev from selling lootboxes to under-16s, fines them $20M](https://www.ftc.gov/news-events/news/press-releases/2025/01/genshin-impact-game-developer-will-be-banned-selling-lootboxes-teens-under-16-without-parental)
+* [2025-01-18, 13:15:22](https://news.ycombinator.com/item?id=42748101) - [atproto and the ownership of identity](https://anirudh.fi/blog/identity/)
 * [2025-01-18, 12:42:46](https://news.ycombinator.com/item?id=42747923) - [Bloodletting recommended for Jersey residents after PFAS contamination](https://www.theguardian.com/uk-news/2025/jan/16/bloodletting-recommended-for-jersey-residents-after-pfas-contamination)
 * [2025-01-18, 12:42:45](https://news.ycombinator.com/item?id=42747922) - [Transmeta: A CPU Revolution That Never Was [video]](https://www.youtube.com/watch?v=U2aQTJDJwd8)
 * [2025-01-18, 12:38:34](https://news.ycombinator.com/item?id=42747899) - [The Toyota Prius Transformed the Auto Industry](https://spectrum.ieee.org/toyota-prius-transformed-auto-industry)
