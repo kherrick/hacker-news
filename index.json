@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-19, 05:50:18",
+      "https://news.ycombinator.com/item?id=42754098"
+    ],
+    [
+      "Haskell: A Great Procedural Language",
+      "https://entropicthoughts.com/haskell-procedural-programming"
+    ]
+  ],
+  [
+    [
       "2025-01-19, 05:42:25",
       "https://news.ycombinator.com/item?id=42754057"
     ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2025-01-18, 18:48:51",
-      "https://news.ycombinator.com/item?id=42750420"
-    ],
-    [
-      "Amazon's AI crawler is making my Git server unstable",
-      "https://xeiaso.net/notes/2025/amazon-crawler/"
-    ]
-  ],
-  [
-    [
       "2025-01-18, 18:17:59",
       "https://news.ycombinator.com/item?id=42750195"
     ],
@@ -177,16 +177,6 @@
     [
       "The AMD Radeon Instinct MI300A's Giant Memory Subsystem",
       "https://chipsandcheese.com/p/inside-the-amd-radeon-instinct-mi300as"
-    ]
-  ],
-  [
-    [
-      "2025-01-18, 02:42:54",
-      "https://news.ycombinator.com/item?id=42745334"
-    ],
-    [
-      "Can you read this cursive handwriting? The National Archives wants your help",
-      "https://www.smithsonianmag.com/smart-news/can-you-read-this-cursive-handwriting-the-national-archives-wants-your-help-180985833/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Beating cuBLAS in Single-Precision General Matrix Multiplication",
       "https://salykova.github.io/sgemm-gpu"
+    ]
+  ],
+  [
+    [
+      "2025-01-15, 09:07:12",
+      "https://news.ycombinator.com/item?id=42708904"
+    ],
+    [
+      "Rust: Investigating an Out of Memory Error",
+      "https://www.qovery.com/blog/rust-investigating-a-strange-out-of-memory-error/"
     ]
   ],
   [
