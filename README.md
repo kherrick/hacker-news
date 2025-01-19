@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-19, 19:20:23](https://news.ycombinator.com/item?id=42760620) - [Why is Git Autocorrect too fast for Formula One drivers?](https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/)
+* [2025-01-19, 18:49:51](https://news.ycombinator.com/item?id=42760210) - [Philosophy Eats AI](https://sloanreview.mit.edu/article/philosophy-eats-ai/)
 * [2025-01-19, 18:01:42](https://news.ycombinator.com/item?id=42759557) - [Using your Apple device as an access card in unsupported systems](https://github.com/kormax/apple-device-as-access-card)
 * [2025-01-19, 17:42:44](https://news.ycombinator.com/item?id=42759336) - [TikTok says it is restoring service for U.S. users](https://www.nbcnews.com/tech/tech-news/tiktok-says-restoring-service-us-users-rcna188320)
 * [2025-01-19, 17:01:02](https://news.ycombinator.com/item?id=42758807) - [GauntletAI (YC S17) will fly you out, train you to build w AI, give you 200k job](https://gauntletai.com)
@@ -9,7 +10,6 @@
 * [2025-01-19, 14:47:37](https://news.ycombinator.com/item?id=42757455) - [Calculator Forensics (2002)](https://www.rskey.org/~mwsebastian/miscprj/forensics.htm)
 * [2025-01-19, 13:30:18](https://news.ycombinator.com/item?id=42756773) - [Making glow-in-the-dark Strontium Aluminate](https://maurycyz.com/projects/strontium_aluminate/)
 * [2025-01-19, 12:13:46](https://news.ycombinator.com/item?id=42756365) - [About A comprehensive guide for Linux Network (Socket) programming](https://github.com/nguyenchiemminhvu/LinuxNetworkProgramming)
-* [2025-01-19, 11:58:28](https://news.ycombinator.com/item?id=42756291) - [A System for the Sixties-and-a-Half: The Toshiba Visicom COM-100](https://nicole.express/2025/invisicom.html)
 * [2025-01-19, 11:57:18](https://news.ycombinator.com/item?id=42756286) - [The Fuzzing Book](https://www.fuzzingbook.org/)
 * [2025-01-19, 08:56:35](https://news.ycombinator.com/item?id=42755251) - [“The Traitors”, a reality TV show, offers a useful economics lesson](https://www.economist.com/finance-and-economics/2025/01/16/the-traitors-a-reality-tv-show-offers-a-useful-economics-lesson)
 * [2025-01-19, 08:43:07](https://news.ycombinator.com/item?id=42755173) - [IsMyXFeedFucked – Analyze How Your X Feed's Impacting You](https://www.ismyxfeedfucked.com/)
