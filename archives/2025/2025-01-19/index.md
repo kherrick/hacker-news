@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-19](index.md)
 
+* [2025-01-19, 05:57:01](https://news.ycombinator.com/item?id=42754130) - [Apple removed all ByteDance apps from the App Store](https://support.apple.com/en-us/121596)
 * [2025-01-19, 05:42:25](https://news.ycombinator.com/item?id=42754057) - [The \"35-cent\" Commodore 64 softmodem](http://oldvcr.blogspot.com/2025/01/the-35-cent-commodore-64-softmodem.html)
 * [2025-01-19, 04:49:58](https://news.ycombinator.com/item?id=42753746) - [Facebook paid GOP firm to malign TikTok](https://www.washingtonpost.com/technology/2022/03/30/facebook-tiktok-targeted-victory/)
 * [2025-01-19, 04:15:26](https://news.ycombinator.com/item?id=42753523) - [Forgejo: A self-hosted lightweight software forge](https://forgejo.org/)
