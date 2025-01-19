@@ -52,6 +52,7 @@
 * [2025-01-16, 12:18:32](https://news.ycombinator.com/item?id=42724284) - [I Ditched the Algorithm for RSS–and You Should Too](https://joeyehand.com/blog/2025/01/15/i-ditched-the-algorithm-for-rssand-you-should-too/)
 * [2025-01-16, 10:17:01](https://news.ycombinator.com/item?id=42723543) - [Is there such a thing as a web-safe font?](https://www.highperformancewebfonts.com/read/web-safe-fonts)
 * [2025-01-16, 10:12:04](https://news.ycombinator.com/item?id=42723504) - [Apple's interoperability efforts aren't meeting spirit or letter of EU law](https://www.theregister.com/2025/01/16/apple_dma_compliance_criticized/)
+* [2025-01-16, 10:06:39](https://news.ycombinator.com/item?id=42723464) - [Tracing Military Command Chains Through Time and Location](https://www.dot.studio/en/notes/case-study-under-whose-command/)
 * [2025-01-16, 09:57:59](https://news.ycombinator.com/item?id=42723406) - [Mathematicians Discover New Way for Spheres to 'Kiss'](https://www.quantamagazine.org/mathematicians-discover-new-way-for-spheres-to-kiss-20250115/)
 * [2025-01-16, 08:59:39](https://news.ycombinator.com/item?id=42723060) - [Researchers use AI to design proteins that block snake venom toxins](https://arstechnica.com/science/2025/01/researchers-use-ai-to-design-proteins-that-block-snake-venom-toxins/)
 * [2025-01-16, 08:31:40](https://news.ycombinator.com/item?id=42722870) - [Setting Up an RK3588 SBC QEMU Hypervisor with ZFS on Debian](https://blog.kumio.org/posts/2025/01/bananapim7-hvm.html)
