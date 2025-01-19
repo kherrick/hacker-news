@@ -7,6 +7,8 @@
 * [2025-01-19, 17:01:02](https://news.ycombinator.com/item?id=42758807) - [GauntletAI (YC S17) will fly you out, train you to build w AI, give you 200k job](https://gauntletai.com)
 * [2025-01-19, 17:00:52](https://news.ycombinator.com/item?id=42758805) - [TikTok Shut Down: Data Shows 85% Drop in US Access (and Surge to Alternatives)](https://blog.cloudflare.com/tiktok-ban-traffic-decline-alternatives-rednote/)
 * [2025-01-19, 16:39:23](https://news.ycombinator.com/item?id=42758570) - [Lenovo has removed its iconic TrackPoint nub from new ThinkPad laptops](https://www.pcworld.com/article/2566195/lenovo-has-removed-its-iconic-trackpoint-nub-from-new-thinkpad-laptops.html)
+* [2025-01-19, 16:10:11](https://news.ycombinator.com/item?id=42758257) - [The surprising struggle to get a Unix Epoch time from a UTC string in C or C++](https://berthub.eu/articles/posts/how-to-get-a-unix-epoch-from-a-utc-date-time-string/)
+* [2025-01-19, 15:54:02](https://news.ycombinator.com/item?id=42758104) - [TikTok Shutdown: Why building on proprietary platforms is a risky game](https://bouia.com/blog/technology/tiktok-shutdown-why-building-on-proprietary-platforms-is-a-risky-game/)
 * [2025-01-19, 14:47:37](https://news.ycombinator.com/item?id=42757455) - [Calculator Forensics (2002)](https://www.rskey.org/~mwsebastian/miscprj/forensics.htm)
 * [2025-01-19, 14:15:25](https://news.ycombinator.com/item?id=42757161) - [Coming soon: PhD-level super-agents](https://www.axios.com/2025/01/19/ai-superagent-openai-meta)
 * [2025-01-19, 13:45:36](https://news.ycombinator.com/item?id=42756896) - [Open Dylan](https://opendylan.org/)
