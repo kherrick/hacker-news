@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-19, 20:07:23](https://news.ycombinator.com/item?id=42761219) - [Escape the walled garden and algorithm black boxes with RSS feeds](https://www.johnwalker.nl/posts/escape-the-walled-garden-with-rss)
 * [2025-01-19, 19:20:23](https://news.ycombinator.com/item?id=42760620) - [Why is Git Autocorrect too fast for Formula One drivers?](https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/)
 * [2025-01-19, 18:49:51](https://news.ycombinator.com/item?id=42760210) - [Philosophy Eats AI](https://sloanreview.mit.edu/article/philosophy-eats-ai/)
 * [2025-01-19, 18:01:42](https://news.ycombinator.com/item?id=42759557) - [Using your Apple device as an access card in unsupported systems](https://github.com/kormax/apple-device-as-access-card)
@@ -20,14 +21,13 @@
 * [2025-01-19, 00:53:38](https://news.ycombinator.com/item?id=42752703) - [We need to protect the protocol that runs Bluesky](https://www.technologyreview.com/2025/01/17/1110063/we-need-to-protect-the-protocol-that-runs-bluesky/)
 * [2025-01-19, 00:31:38](https://news.ycombinator.com/item?id=42752604) - [How Unix spell ran in 64kb RAM](https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram)
 * [2025-01-18, 18:17:59](https://news.ycombinator.com/item?id=42750195) - [VS Code Pets](https://github.com/tonybaloney/vscode-pets)
-* [2025-01-18, 16:22:03](https://news.ycombinator.com/item?id=42749402) - [Show HN: Interactive systemd – a better way to work with systemd units](https://isd-project.github.io/isd/)
 * [2025-01-17, 22:52:17](https://news.ycombinator.com/item?id=42744106) - [Robotics and ROS 2 Essentials](https://henkirobotics.com/robotics-and-ros-2-essentials-course-announcement/)
 * [2025-01-17, 11:26:16](https://news.ycombinator.com/item?id=42736414) - ['Once-in-a-century' discovery reveals luxury of Pompeii](https://www.bbc.com/news/articles/c15zgvnvk4do)
 * [2025-01-16, 20:32:58](https://news.ycombinator.com/item?id=42730512) - [How hard would it be to display the contents of an image file on the screen?](https://wolf.nereid.pl/posts/image-viewer/)
 * [2025-01-16, 20:25:36](https://news.ycombinator.com/item?id=42730449) - [Ancient Phoenician Shipwreck Recovered, Sank 2.6k Years Ago Off Coast of Spain](https://www.smithsonianmag.com/smart-news/divers-recover-ancient-shipwreck-that-sank-2600-years-ago-off-the-coast-of-spain-180985778/)
+* [2025-01-16, 16:19:43](https://news.ycombinator.com/item?id=42727329) - [A generative model for inorganic materials design](https://www.nature.com/articles/s41586-025-08628-5)
 * [2025-01-16, 14:34:28](https://news.ycombinator.com/item?id=42725692) - [GitHub introduces sub-issues, issue types and advanced search](https://github.blog/changelog/2025-01-13-evolving-github-issues-public-preview/)
 * [2025-01-16, 13:59:34](https://news.ycombinator.com/item?id=42725163) - [Build a Database in 3000 Lines with 0 Dependencies](https://build-your-own.org/blog/20251015_db_in_3000/)
-* [2025-01-16, 00:50:46](https://news.ycombinator.com/item?id=42719498) - [Australian Open resorts to animated caricatures to bypass broadcast restrictions](https://www.crikey.com.au/2025/01/16/australian-open-animated-cartoon-caricatures-broadcast-restrictions/)
 * [2025-01-15, 18:52:03](https://news.ycombinator.com/item?id=42715293) - [Strontium isoscape of sub-Saharan Africa allows tracing slave trade (2024)](https://www.nature.com/articles/s41467-024-55256-0)
 * [2025-01-15, 09:07:12](https://news.ycombinator.com/item?id=42708904) - [Rust: Investigating an Out of Memory Error](https://www.qovery.com/blog/rust-investigating-a-strange-out-of-memory-error/)
 

@@ -35,6 +35,7 @@
 * [2025-01-16, 16:46:57](https://news.ycombinator.com/item?id=42727673) - [California's future depends on how leaders rebuild after the Los Angeles fires](https://www.vox.com/housing/395049/california-lacounty-wildfires-altadena-pasadena-pacific-palisades-housing-homelessess-permitting-ceqa-coastal-rebuild)
 * [2025-01-16, 16:43:07](https://news.ycombinator.com/item?id=42727629) - [Penn Station Can Handle the Load: New York Is Ready for Through-Running](https://www.etany.org/penn-station-can-handle-the-load)
 * [2025-01-16, 16:33:13](https://news.ycombinator.com/item?id=42727513) - [Walgreens replaced fridge doors with smart screens. It's now a $200M fiasco](https://www.bloomberg.com/news/features/2025-01-16/walgreens-fridge-fight-bodes-poorly-for-future-of-retail)
+* [2025-01-16, 16:19:43](https://news.ycombinator.com/item?id=42727329) - [A generative model for inorganic materials design](https://www.nature.com/articles/s41586-025-08628-5)
 * [2025-01-16, 15:36:43](https://news.ycombinator.com/item?id=42726678) - [Let's Encrypt is offering 6-day and IP address certs](https://letsencrypt.org/2025/01/16/6-day-and-ip-certs/)
 * [2025-01-16, 15:30:19](https://news.ycombinator.com/item?id=42726584) - [Test-Driven Development with an LLM for Fun and Profit](https://blog.yfzhou.fyi/posts/tdd-llm/)
 * [2025-01-16, 15:27:13](https://news.ycombinator.com/item?id=42726539) - [The Conundrum of Life's Origin](https://nautil.us/the-incredible-conundrum-of-lifes-origin-1178890/)

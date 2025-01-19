@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-19](index.md)
 
+* [2025-01-19, 20:07:23](https://news.ycombinator.com/item?id=42761219) - [Escape the walled garden and algorithm black boxes with RSS feeds](https://www.johnwalker.nl/posts/escape-the-walled-garden-with-rss)
 * [2025-01-19, 19:20:23](https://news.ycombinator.com/item?id=42760620) - [Why is Git Autocorrect too fast for Formula One drivers?](https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/)
 * [2025-01-19, 18:49:51](https://news.ycombinator.com/item?id=42760210) - [Philosophy Eats AI](https://sloanreview.mit.edu/article/philosophy-eats-ai/)
 * [2025-01-19, 18:38:36](https://news.ycombinator.com/item?id=42760054) - [Why Twitter is such a big deal (2009)](https://paulgraham.com/twitter.html)
