@@ -1,10 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-19, 18:38:36](https://news.ycombinator.com/item?id=42760054) - [Why Twitter is such a big deal (2009)](https://paulgraham.com/twitter.html)
 * [2025-01-19, 18:01:42](https://news.ycombinator.com/item?id=42759557) - [Using your Apple device as an access card in unsupported systems](https://github.com/kormax/apple-device-as-access-card)
 * [2025-01-19, 17:42:44](https://news.ycombinator.com/item?id=42759336) - [TikTok says it is restoring service for U.S. users](https://www.nbcnews.com/tech/tech-news/tiktok-says-restoring-service-us-users-rcna188320)
+* [2025-01-19, 17:23:55](https://news.ycombinator.com/item?id=42759107) - [Is RTO the biggest mistake tech companies are making in 2025?](https://www.behindhrdoors.com/p/why-tech-firms-are-failing-at-return-to-office-plans)
 * [2025-01-19, 17:01:02](https://news.ycombinator.com/item?id=42758807) - [GauntletAI (YC S17) will fly you out, train you to build w AI, give you 200k job](https://gauntletai.com)
-* [2025-01-19, 16:39:23](https://news.ycombinator.com/item?id=42758570) - [Lenovo has removed the TrackPoint nub from new ThinkPad laptops](https://www.pcworld.com/article/2566195/lenovo-has-removed-its-iconic-trackpoint-nub-from-new-thinkpad-laptops.html)
 * [2025-01-19, 16:10:11](https://news.ycombinator.com/item?id=42758257) - [The surprising struggle to get a Unix Epoch time from a UTC string in C or C++](https://berthub.eu/articles/posts/how-to-get-a-unix-epoch-from-a-utc-date-time-string/)
 * [2025-01-19, 15:50:51](https://news.ycombinator.com/item?id=42758070) - [Build a tiny CA for your homelab with a Raspberry Pi](https://smallstep.com/blog/build-a-tiny-ca-with-raspberry-pi-yubikey/)
 * [2025-01-19, 14:47:37](https://news.ycombinator.com/item?id=42757455) - [Calculator Forensics (2002)](https://www.rskey.org/~mwsebastian/miscprj/forensics.htm)
@@ -29,6 +28,7 @@
 * [2025-01-16, 13:59:34](https://news.ycombinator.com/item?id=42725163) - [Build a Database in 3000 Lines with 0 Dependencies](https://build-your-own.org/blog/20251015_db_in_3000/)
 * [2025-01-16, 00:50:46](https://news.ycombinator.com/item?id=42719498) - [Australian Open resorts to animated caricatures to bypass broadcast restrictions](https://www.crikey.com.au/2025/01/16/australian-open-animated-cartoon-caricatures-broadcast-restrictions/)
 * [2025-01-15, 18:52:03](https://news.ycombinator.com/item?id=42715293) - [Strontium isoscape of sub-Saharan Africa allows tracing slave trade (2024)](https://www.nature.com/articles/s41467-024-55256-0)
+* [2025-01-15, 13:02:38](https://news.ycombinator.com/item?id=42710376) - [Hologram: A full-stack isomorphic Elixir web framework](https://hologram.page/)
 * [2025-01-15, 09:07:12](https://news.ycombinator.com/item?id=42708904) - [Rust: Investigating an Out of Memory Error](https://www.qovery.com/blog/rust-investigating-a-strange-out-of-memory-error/)
 
 ## [Archives](archives/index.md)
