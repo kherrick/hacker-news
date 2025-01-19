@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-19](index.md)
 
+* [2025-01-19, 18:28:19](https://news.ycombinator.com/item?id=42759925) - [The tech oligarchy has been here for years](https://www.bloodinthemachine.com/p/the-tech-oligarchy-has-been-here)
 * [2025-01-19, 18:01:42](https://news.ycombinator.com/item?id=42759557) - [Using your Apple device as an access card in unsupported systems](https://github.com/kormax/apple-device-as-access-card)
 * [2025-01-19, 18:01:04](https://news.ycombinator.com/item?id=42759546) - [Zuckerberg appeared to know Llama trained on Libgen](https://www.rollingstone.com/culture/culture-news/ai-meta-pirated-library-zuckerberg-1235235394/)
 * [2025-01-19, 17:42:44](https://news.ycombinator.com/item?id=42759336) - [TikTok says it is restoring service for U.S. users](https://www.nbcnews.com/tech/tech-news/tiktok-says-restoring-service-us-users-rcna188320)
@@ -12,6 +13,7 @@
 * [2025-01-19, 16:39:23](https://news.ycombinator.com/item?id=42758570) - [Lenovo has removed its iconic TrackPoint nub from new ThinkPad laptops](https://www.pcworld.com/article/2566195/lenovo-has-removed-its-iconic-trackpoint-nub-from-new-thinkpad-laptops.html)
 * [2025-01-19, 16:10:11](https://news.ycombinator.com/item?id=42758257) - [The surprising struggle to get a Unix Epoch time from a UTC string in C or C++](https://berthub.eu/articles/posts/how-to-get-a-unix-epoch-from-a-utc-date-time-string/)
 * [2025-01-19, 15:54:02](https://news.ycombinator.com/item?id=42758104) - [TikTok Shutdown: Why building on proprietary platforms is a risky game](https://bouia.com/blog/technology/tiktok-shutdown-why-building-on-proprietary-platforms-is-a-risky-game/)
+* [2025-01-19, 15:50:51](https://news.ycombinator.com/item?id=42758070) - [Build a tiny CA for your homelab with a Raspberry Pi](https://smallstep.com/blog/build-a-tiny-ca-with-raspberry-pi-yubikey/)
 * [2025-01-19, 14:47:37](https://news.ycombinator.com/item?id=42757455) - [Calculator Forensics (2002)](https://www.rskey.org/~mwsebastian/miscprj/forensics.htm)
 * [2025-01-19, 14:15:25](https://news.ycombinator.com/item?id=42757161) - [Coming soon: PhD-level super-agents](https://www.axios.com/2025/01/19/ai-superagent-openai-meta)
 * [2025-01-19, 13:45:36](https://news.ycombinator.com/item?id=42756896) - [Open Dylan](https://opendylan.org/)
