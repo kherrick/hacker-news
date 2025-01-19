@@ -2,7 +2,6 @@
 
 * [2025-01-19, 17:01:02](https://news.ycombinator.com/item?id=42758807) - [GauntletAI (YC S17) will fly you out, train you to build w AI, give you 200k job](https://gauntletai.com)
 * [2025-01-19, 17:00:52](https://news.ycombinator.com/item?id=42758805) - [TikTok Shut Down: Data Shows 85% Drop in US Access (and Surge to Alternatives)](https://blog.cloudflare.com/tiktok-ban-traffic-decline-alternatives-rednote/)
-* [2025-01-19, 16:39:23](https://news.ycombinator.com/item?id=42758570) - [Lenovo has removed its iconic TrackPoint nub from new ThinkPad laptops](https://www.pcworld.com/article/2566195/lenovo-has-removed-its-iconic-trackpoint-nub-from-new-thinkpad-laptops.html)
 * [2025-01-19, 14:47:37](https://news.ycombinator.com/item?id=42757455) - [Calculator Forensics (2002)](https://www.rskey.org/~mwsebastian/miscprj/forensics.htm)
 * [2025-01-19, 13:45:36](https://news.ycombinator.com/item?id=42756896) - [Open Dylan](https://opendylan.org/)
 * [2025-01-19, 13:30:18](https://news.ycombinator.com/item?id=42756773) - [Making glow-in-the-dark Strontium Aluminate](https://maurycyz.com/projects/strontium_aluminate/)
@@ -27,6 +26,7 @@
 * [2025-01-16, 13:59:34](https://news.ycombinator.com/item?id=42725163) - [Build a Database in 3000 Lines with 0 Dependencies](https://build-your-own.org/blog/20251015_db_in_3000/)
 * [2025-01-16, 11:46:27](https://news.ycombinator.com/item?id=42724086) - [What Roman Coins Reveal About the People Who Made Them](https://lithub.com/what-roman-coins-reveal-about-the-people-who-made-them/)
 * [2025-01-16, 00:50:46](https://news.ycombinator.com/item?id=42719498) - [Australian Open resorts to animated caricatures to bypass broadcast restrictions](https://www.crikey.com.au/2025/01/16/australian-open-animated-cartoon-caricatures-broadcast-restrictions/)
+* [2025-01-15, 14:12:51](https://news.ycombinator.com/item?id=42710953) - [Reverse Engineering a VanMoof E-Shifter – Part 2 – Decoding the Signals](https://mikecoats.com/vanmoof-eshifter-reverse-engineering-part-2/)
 * [2025-01-15, 13:02:38](https://news.ycombinator.com/item?id=42710376) - [Hologram: A full-stack isomorphic Elixir web framework](https://hologram.page/)
 * [2025-01-15, 09:07:12](https://news.ycombinator.com/item?id=42708904) - [Rust: Investigating an Out of Memory Error](https://www.qovery.com/blog/rust-investigating-a-strange-out-of-memory-error/)
 * [2025-01-14, 17:25:06](https://news.ycombinator.com/item?id=42700483) - [Generating an infinite world with the Wave Function Collapse algorithm](https://marian42.de/article/infinite-wfc/)
