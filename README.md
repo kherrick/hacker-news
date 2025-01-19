@@ -29,7 +29,7 @@
 * [2025-01-16, 16:19:43](https://news.ycombinator.com/item?id=42727329) - [A generative model for inorganic materials design](https://www.nature.com/articles/s41586-025-08628-5)
 * [2025-01-16, 14:34:28](https://news.ycombinator.com/item?id=42725692) - [GitHub introduces sub-issues, issue types and advanced search](https://github.blog/changelog/2025-01-13-evolving-github-issues-public-preview/)
 * [2025-01-16, 13:59:34](https://news.ycombinator.com/item?id=42725163) - [Build a Database in 3000 Lines with 0 Dependencies](https://build-your-own.org/blog/20251015_db_in_3000/)
-* [2025-01-15, 09:07:12](https://news.ycombinator.com/item?id=42708904) - [Rust: Investigating an Out of Memory Error](https://www.qovery.com/blog/rust-investigating-a-strange-out-of-memory-error/)
+* [2025-01-16, 00:53:59](https://news.ycombinator.com/item?id=42719538) - [Chopstick Sleeves as Emissaries of Japanese Typography and Culture](https://letterformarchive.org/news/this-just-in-chopstick-sleeves-as-emissaries-of-japanese-typography-and-culture/)
 
 ## [Archives](archives/index.md)
 
