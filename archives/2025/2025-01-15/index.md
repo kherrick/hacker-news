@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-15](index.md)
 
 * [2025-01-15, 23:41:52](https://news.ycombinator.com/item?id=42718850) - [OpenAI Fails to Deliver Opt-Out System for Photographers](https://petapixel.com/2025/01/06/openai-fails-to-deliver-opt-out-system-for-photographers/)
+* [2025-01-15, 23:22:18](https://news.ycombinator.com/item?id=42718656) - [Boosting Computational Fluid Dynamics Performance with AMD MI300X](https://rocm.blogs.amd.com/ecosystems-and-partners/ansys-fluent-performance/README.html)
 * [2025-01-15, 22:39:49](https://news.ycombinator.com/item?id=42718166) - [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)
 * [2025-01-15, 21:35:41](https://news.ycombinator.com/item?id=42717393) - [2k-year-old wine and the uncanny immediacy of the past](https://resobscura.substack.com/p/2000-year-old-wine-and-the-uncanny)
 * [2025-01-15, 21:23:55](https://news.ycombinator.com/item?id=42717234) - [I have made the decision to disband Hindenburg Research](https://hindenburgresearch.com/gratitude/)
