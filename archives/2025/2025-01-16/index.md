@@ -51,6 +51,7 @@
 * [2025-01-16, 13:23:17](https://news.ycombinator.com/item?id=42724757) - [Show HN: I made an open source directory of where to showoff your projects](https://github.com/KingMenes/awesome-launch)
 * [2025-01-16, 13:08:14](https://news.ycombinator.com/item?id=42724621) - [Nintendo announces the Switch 2 [video]](https://www.youtube.com/watch?v=itpcsQQvgAQ)
 * [2025-01-16, 12:18:32](https://news.ycombinator.com/item?id=42724284) - [I Ditched the Algorithm for RSS–and You Should Too](https://joeyehand.com/blog/2025/01/15/i-ditched-the-algorithm-for-rssand-you-should-too/)
+* [2025-01-16, 11:33:39](https://news.ycombinator.com/item?id=42723993) - [Properties and Far-infrared Variability of a z = 7 Blazar](https://iopscience.iop.org/article/10.3847/2041-8213/ad823b)
 * [2025-01-16, 10:17:01](https://news.ycombinator.com/item?id=42723543) - [Is there such a thing as a web-safe font?](https://www.highperformancewebfonts.com/read/web-safe-fonts)
 * [2025-01-16, 10:12:04](https://news.ycombinator.com/item?id=42723504) - [Apple's interoperability efforts aren't meeting spirit or letter of EU law](https://www.theregister.com/2025/01/16/apple_dma_compliance_criticized/)
 * [2025-01-16, 10:06:39](https://news.ycombinator.com/item?id=42723464) - [Tracing Military Command Chains Through Time and Location](https://www.dot.studio/en/notes/case-study-under-whose-command/)
