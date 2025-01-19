@@ -36,6 +36,7 @@
 * [2025-01-15, 16:09:37](https://news.ycombinator.com/item?id=42712673) - [AI Brad Pitt dupes French woman out of €830k](https://www.bbc.co.uk/news/articles/ckgnz8rw1xgo)
 * [2025-01-15, 16:09:07](https://news.ycombinator.com/item?id=42712666) - [Show HN: I Built a Fair Alternative to Product Hunt for Indie Makers Like You](https://news.ycombinator.com/item?id=42712666)
 * [2025-01-15, 15:55:13](https://news.ycombinator.com/item?id=42712433) - [Why does Cloudflare Pages have such a generous Free tier?](https://mattsayar.com/why-does-cloudflare-pages-have-such-a-generous-free-tier/)
+* [2025-01-15, 15:50:01](https://news.ycombinator.com/item?id=42712341) - [Second-Hand Bookshops in Britain: 2024 Report](http://wormwoodiana.blogspot.com/2024/12/second-hand-bookshops-in-britain-2024.html)
 * [2025-01-15, 15:27:55](https://news.ycombinator.com/item?id=42711966) - [Ropey – A UTF8 text rope for manipulating and editing large texts. in Rust](https://github.com/cessen/ropey)
 * [2025-01-15, 15:17:00](https://news.ycombinator.com/item?id=42711781) - [WTF Happened in 1971?](https://wtfhappenedin1971.com/)
 * [2025-01-15, 15:14:33](https://news.ycombinator.com/item?id=42711751) - [Norepinephrine-mediated slow vasomotion drives glymphatic clearance during sleep](https://www.cell.com/cell/abstract/S0092-8674(24)01343-6)
