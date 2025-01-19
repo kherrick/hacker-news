@@ -26,6 +26,7 @@
 * [2025-01-17, 15:08:16](https://news.ycombinator.com/item?id=42738284) - [Project Mini Rack – compact and portable homelabs](https://www.jeffgeerling.com/blog/2025/project-mini-rack-compact-and-portable-homelabs)
 * [2025-01-17, 14:42:55](https://news.ycombinator.com/item?id=42737985) - [Ozempic and Wegovy are selected for Medicare's price negotiations](https://apnews.com/article/drug-prices-medicare-biden-trump-aae2271614f5959b484e5f081313f2e1)
 * [2025-01-17, 14:23:56](https://news.ycombinator.com/item?id=42737778) - [Show HN: Interactive game teaching dark patterns in UX design](https://games.productartistry.com/games/dark-patterns)
+* [2025-01-17, 13:54:26](https://news.ycombinator.com/item?id=42737510) - [Volkswagen Sausage and the Enduring Appeal of Culinary Car-Industry Crossovers](https://www.atlasobscura.com/articles/car-industry-food)
 * [2025-01-17, 13:52:48](https://news.ycombinator.com/item?id=42737502) - [GM parks claims driver location data was given to insurers, pushing up premiums](https://www.theregister.com/2025/01/17/gm_settles_ftc_charges/)
 * [2025-01-17, 13:35:17](https://news.ycombinator.com/item?id=42737345) - [Zig: What to Expect from Release Month](https://ziglang.org/news/what-to-expect-from-release-month/)
 * [2025-01-17, 12:46:08](https://news.ycombinator.com/item?id=42736968) - [The Derelict (2015)](https://www.damninteresting.com/the-derelict/)
