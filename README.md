@@ -27,7 +27,7 @@
 * [2025-01-16, 20:32:58](https://news.ycombinator.com/item?id=42730512) - [How hard would it be to display the contents of an image file on the screen?](https://wolf.nereid.pl/posts/image-viewer/)
 * [2025-01-16, 14:34:28](https://news.ycombinator.com/item?id=42725692) - [GitHub introduces sub-issues, issue types and advanced search](https://github.blog/changelog/2025-01-13-evolving-github-issues-public-preview/)
 * [2025-01-16, 13:59:34](https://news.ycombinator.com/item?id=42725163) - [Build a Database in 3000 Lines with 0 Dependencies](https://build-your-own.org/blog/20251015_db_in_3000/)
-* [2025-01-16, 11:46:27](https://news.ycombinator.com/item?id=42724086) - [What Roman Coins Reveal About the People Who Made Them](https://lithub.com/what-roman-coins-reveal-about-the-people-who-made-them/)
+* [2025-01-16, 00:50:46](https://news.ycombinator.com/item?id=42719498) - [Australian Open resorts to animated caricatures to bypass broadcast restrictions](https://www.crikey.com.au/2025/01/16/australian-open-animated-cartoon-caricatures-broadcast-restrictions/)
 * [2025-01-15, 18:52:03](https://news.ycombinator.com/item?id=42715293) - [Strontium isoscape of sub-Saharan Africa allows tracing slave trade (2024)](https://www.nature.com/articles/s41467-024-55256-0)
 * [2025-01-15, 09:07:12](https://news.ycombinator.com/item?id=42708904) - [Rust: Investigating an Out of Memory Error](https://www.qovery.com/blog/rust-investigating-a-strange-out-of-memory-error/)
 
