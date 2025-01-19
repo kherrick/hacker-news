@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-19, 21:27:53](https://news.ycombinator.com/item?id=42762054) - [Please Don't Force Dark Mode on Users](https://iamvishnu.com/posts/please-dont-force-dark-mode)
+* [2025-01-19, 21:27:53](https://news.ycombinator.com/item?id=42762054) - [Please don't force dark mode](https://iamvishnu.com/posts/please-dont-force-dark-mode)
 * [2025-01-19, 20:07:23](https://news.ycombinator.com/item?id=42761219) - [Escape the walled garden and algorithm black boxes with RSS feeds](https://www.johnwalker.nl/posts/escape-the-walled-garden-with-rss)
 * [2025-01-19, 19:20:23](https://news.ycombinator.com/item?id=42760620) - [Why is Git Autocorrect too fast for Formula One drivers?](https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/)
 * [2025-01-19, 18:49:51](https://news.ycombinator.com/item?id=42760210) - [Philosophy Eats AI](https://sloanreview.mit.edu/article/philosophy-eats-ai/)
