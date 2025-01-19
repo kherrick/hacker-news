@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-19](index.md)
 
+* [2025-01-19, 19:20:23](https://news.ycombinator.com/item?id=42760620) - [Why is Git Autocorrect too fast for Formula One drivers?](https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/)
 * [2025-01-19, 18:38:36](https://news.ycombinator.com/item?id=42760054) - [Why Twitter is such a big deal (2009)](https://paulgraham.com/twitter.html)
 * [2025-01-19, 18:28:19](https://news.ycombinator.com/item?id=42759925) - [The tech oligarchy has been here for years](https://www.bloodinthemachine.com/p/the-tech-oligarchy-has-been-here)
 * [2025-01-19, 18:01:42](https://news.ycombinator.com/item?id=42759557) - [Using your Apple device as an access card in unsupported systems](https://github.com/kormax/apple-device-as-access-card)

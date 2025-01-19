@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-19, 19:20:23](https://news.ycombinator.com/item?id=42760620) - [Why is Git Autocorrect too fast for Formula One drivers?](https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/)
 * [2025-01-19, 18:01:42](https://news.ycombinator.com/item?id=42759557) - [Using your Apple device as an access card in unsupported systems](https://github.com/kormax/apple-device-as-access-card)
 * [2025-01-19, 17:42:44](https://news.ycombinator.com/item?id=42759336) - [TikTok says it is restoring service for U.S. users](https://www.nbcnews.com/tech/tech-news/tiktok-says-restoring-service-us-users-rcna188320)
 * [2025-01-19, 17:01:02](https://news.ycombinator.com/item?id=42758807) - [GauntletAI (YC S17) will fly you out, train you to build w AI, give you 200k job](https://gauntletai.com)
@@ -28,7 +29,6 @@
 * [2025-01-16, 13:59:34](https://news.ycombinator.com/item?id=42725163) - [Build a Database in 3000 Lines with 0 Dependencies](https://build-your-own.org/blog/20251015_db_in_3000/)
 * [2025-01-16, 00:50:46](https://news.ycombinator.com/item?id=42719498) - [Australian Open resorts to animated caricatures to bypass broadcast restrictions](https://www.crikey.com.au/2025/01/16/australian-open-animated-cartoon-caricatures-broadcast-restrictions/)
 * [2025-01-15, 18:52:03](https://news.ycombinator.com/item?id=42715293) - [Strontium isoscape of sub-Saharan Africa allows tracing slave trade (2024)](https://www.nature.com/articles/s41467-024-55256-0)
-* [2025-01-15, 13:02:38](https://news.ycombinator.com/item?id=42710376) - [Hologram: A full-stack isomorphic Elixir web framework](https://hologram.page/)
 * [2025-01-15, 09:07:12](https://news.ycombinator.com/item?id=42708904) - [Rust: Investigating an Out of Memory Error](https://www.qovery.com/blog/rust-investigating-a-strange-out-of-memory-error/)
 
 ## [Archives](archives/index.md)
