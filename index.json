@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-01-19, 21:30:09",
+      "https://news.ycombinator.com/item?id=42762077"
+    ],
+    [
+      "All Lisp Indentation Schemes Are Ugly",
+      "https://aartaka.me/lisp-indent.html"
+    ]
+  ],
+  [
+    [
       "2025-01-19, 21:27:53",
       "https://news.ycombinator.com/item?id=42762054"
     ],
@@ -157,16 +167,6 @@
     [
       "Forgejo: A self-hosted lightweight software forge",
       "https://forgejo.org/"
-    ]
-  ],
-  [
-    [
-      "2025-01-19, 03:24:49",
-      "https://news.ycombinator.com/item?id=42753302"
-    ],
-    [
-      "Yek: Serialize your code repo (or part of it) to feed into any LLM",
-      "https://github.com/bodo-run/yek"
     ]
   ],
   [
