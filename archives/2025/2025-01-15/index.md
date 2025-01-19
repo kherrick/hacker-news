@@ -48,6 +48,7 @@
 * [2025-01-15, 14:49:28](https://news.ycombinator.com/item?id=42711387) - [Modern JavaScript for Django Developers](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/)
 * [2025-01-15, 14:18:32](https://news.ycombinator.com/item?id=42711012) - [Playful Drawings That Charles Darwin's Children Left on His Manuscripts](https://www.openculture.com/2025/01/discover-the-playful-drawings-that-charles-darwins-children-left-on-his-manuscripts.html)
 * [2025-01-15, 14:15:17](https://news.ycombinator.com/item?id=42710978) - [Google is making AI in Gmail and Docs free – but raising the price of Workspace](https://www.theverge.com/2025/1/15/24343794/google-workspace-ai-features-free)
+* [2025-01-15, 14:12:51](https://news.ycombinator.com/item?id=42710953) - [Reverse Engineering a VanMoof E-Shifter – Part 2 – Decoding the Signals](https://mikecoats.com/vanmoof-eshifter-reverse-engineering-part-2/)
 * [2025-01-15, 13:57:58](https://news.ycombinator.com/item?id=42710796) - [German economy contracts 0.2% in 2024 in second consecutive annual slowdown](https://www.cnbc.com/2025/01/15/german-gross-domestic-product-full-year-2024.html)
 * [2025-01-15, 13:53:56](https://news.ycombinator.com/item?id=42710750) - [Scientists Discover New Molecule That Boosts Fat Metabolism Naturally](https://scitechdaily.com/scientists-discover-new-molecule-that-boosts-fat-metabolism-naturally/)
 * [2025-01-15, 13:42:45](https://news.ycombinator.com/item?id=42710622) - [Talk Dirty to Me](https://worldsensorium.com/talk-dirty-to-me-summary/)
