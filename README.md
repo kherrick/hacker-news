@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-19, 08:56:35](https://news.ycombinator.com/item?id=42755251) - [\"The Traitors\", a reality TV show, offers a useful economics lesson](https://www.economist.com/finance-and-economics/2025/01/16/the-traitors-a-reality-tv-show-offers-a-useful-economics-lesson)
-* [2025-01-19, 08:43:07](https://news.ycombinator.com/item?id=42755173) - [IsMyXFeedFcked – Analyze How Your X Feed's Impacting You](https://www.ismyxfeedfucked.com/)
 * [2025-01-19, 05:50:18](https://news.ycombinator.com/item?id=42754098) - [Haskell: A Great Procedural Language](https://entropicthoughts.com/haskell-procedural-programming)
 * [2025-01-19, 05:42:25](https://news.ycombinator.com/item?id=42754057) - [The \"35-cent\" Commodore 64 softmodem](http://oldvcr.blogspot.com/2025/01/the-35-cent-commodore-64-softmodem.html)
 * [2025-01-19, 04:15:26](https://news.ycombinator.com/item?id=42753523) - [Forgejo: A self-hosted lightweight software forge](https://forgejo.org/)
@@ -29,6 +28,7 @@
 * [2025-01-15, 13:02:38](https://news.ycombinator.com/item?id=42710376) - [Hologram: A full-stack isomorphic Elixir web framework](https://hologram.page/)
 * [2025-01-15, 09:20:03](https://news.ycombinator.com/item?id=42708974) - [Beating cuBLAS in Single-Precision General Matrix Multiplication](https://salykova.github.io/sgemm-gpu)
 * [2025-01-15, 09:07:12](https://news.ycombinator.com/item?id=42708904) - [Rust: Investigating an Out of Memory Error](https://www.qovery.com/blog/rust-investigating-a-strange-out-of-memory-error/)
+* [2025-01-15, 02:29:43](https://news.ycombinator.com/item?id=42706637) - [Show HN: LLMpeg](https://github.com/jjcm/llmpeg)
 * [2025-01-14, 17:25:06](https://news.ycombinator.com/item?id=42700483) - [Generating an infinite world with the Wave Function Collapse algorithm](https://marian42.de/article/infinite-wfc/)
 
 ## [Archives](archives/index.md)
