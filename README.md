@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-19, 23:11:22](https://news.ycombinator.com/item?id=42763095) - [The PC Is Dead: It's Time to Make Computing Personal Again](https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again)
 * [2025-01-19, 21:39:21](https://news.ycombinator.com/item?id=42762161) - [Hacking the Yamaha DX9 to Turn It into a DX7 (2023)](https://ajxs.me/blog/Hacking_the_Yamaha_DX9_To_Turn_It_Into_a_DX7.html)
 * [2025-01-19, 21:30:09](https://news.ycombinator.com/item?id=42762077) - [All Lisp Indentation Schemes Are Ugly](https://aartaka.me/lisp-indent.html)
 * [2025-01-19, 21:27:53](https://news.ycombinator.com/item?id=42762054) - [Please don't force dark mode](https://iamvishnu.com/posts/please-dont-force-dark-mode)
@@ -18,7 +19,6 @@
 * [2025-01-19, 05:50:18](https://news.ycombinator.com/item?id=42754098) - [Haskell: A Great Procedural Language](https://entropicthoughts.com/haskell-procedural-programming)
 * [2025-01-19, 04:15:26](https://news.ycombinator.com/item?id=42753523) - [Forgejo: A self-hosted lightweight software forge](https://forgejo.org/)
 * [2025-01-19, 00:53:38](https://news.ycombinator.com/item?id=42752703) - [We need to protect the protocol that runs Bluesky](https://www.technologyreview.com/2025/01/17/1110063/we-need-to-protect-the-protocol-that-runs-bluesky/)
-* [2025-01-19, 00:31:38](https://news.ycombinator.com/item?id=42752604) - [How Unix spell ran in 64kb RAM](https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram)
 * [2025-01-18, 18:17:59](https://news.ycombinator.com/item?id=42750195) - [VS Code Pets](https://github.com/tonybaloney/vscode-pets)
 * [2025-01-17, 22:52:17](https://news.ycombinator.com/item?id=42744106) - [Robotics and ROS 2 Essentials](https://henkirobotics.com/robotics-and-ros-2-essentials-course-announcement/)
 * [2025-01-17, 12:46:08](https://news.ycombinator.com/item?id=42736968) - [The Derelict (2015)](https://www.damninteresting.com/the-derelict/)

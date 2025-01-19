@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-19](index.md)
 
+* [2025-01-19, 23:11:22](https://news.ycombinator.com/item?id=42763095) - [The PC Is Dead: It's Time to Make Computing Personal Again](https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again)
 * [2025-01-19, 21:39:21](https://news.ycombinator.com/item?id=42762161) - [Hacking the Yamaha DX9 to Turn It into a DX7 (2023)](https://ajxs.me/blog/Hacking_the_Yamaha_DX9_To_Turn_It_Into_a_DX7.html)
 * [2025-01-19, 21:30:09](https://news.ycombinator.com/item?id=42762077) - [All Lisp Indentation Schemes Are Ugly](https://aartaka.me/lisp-indent.html)
 * [2025-01-19, 21:27:53](https://news.ycombinator.com/item?id=42762054) - [Please Don't Force Dark Mode on Users](https://iamvishnu.com/posts/please-dont-force-dark-mode)
