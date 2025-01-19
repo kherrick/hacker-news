@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-19](index.md)
 
+* [2025-01-19, 14:15:25](https://news.ycombinator.com/item?id=42757161) - [Coming soon: PhD-level super-agents](https://www.axios.com/2025/01/19/ai-superagent-openai-meta)
 * [2025-01-19, 13:30:18](https://news.ycombinator.com/item?id=42756773) - [Making glow-in-the-dark Strontium Aluminate](https://maurycyz.com/projects/strontium_aluminate/)
 * [2025-01-19, 13:09:22](https://news.ycombinator.com/item?id=42756648) - [Bob Dylan's drafts for Mr Tambourine Man sell for more than £400k](https://www.theguardian.com/music/2025/jan/18/bob-dylans-drafts-for-mr-tambourine-man-sell-for-more-than-400000)
 * [2025-01-19, 11:56:14](https://news.ycombinator.com/item?id=42756276) - [Japan's elderly are lonely and struggling. Some women choose to go to jail](https://www.cnn.com/2025/01/18/asia/japan-elderly-largest-womens-prison-intl-hnk-dst/index.html)
