@@ -25,6 +25,7 @@
 * [2025-01-15, 19:34:01](https://news.ycombinator.com/item?id=42715841) - [Sweden is investing €104M to bring back printed textbooks](https://indiandefencereview.com/in-2009-sweden-chose-to-replace-books-with-computers-15-years-later-it-allocates-104-million-euros-to-reverse-course/)
 * [2025-01-15, 19:34:01](https://news.ycombinator.com/item?id=42715841) - [Sweden is investing €104M to bring back printed textbooks](https://apnews.com/article/sweden-digital-education-backlash-reading-writing-1dd964c628f76361c43dbf3964f7dbf4)
 * [2025-01-15, 19:02:35](https://news.ycombinator.com/item?id=42715462) - [Laptop](https://mijndertstuij.nl/posts/the-best-laptop-ever/)
+* [2025-01-15, 18:52:03](https://news.ycombinator.com/item?id=42715293) - [Strontium isoscape of sub-Saharan Africa allows tracing slave trade (2024)](https://www.nature.com/articles/s41467-024-55256-0)
 * [2025-01-15, 18:24:36](https://news.ycombinator.com/item?id=42714920) - [Gemini Advanced now included in Google Workspace](https://workspace.google.com/blog/product-announcements/empowering-businesses-with-AI)
 * [2025-01-15, 18:12:55](https://news.ycombinator.com/item?id=42714775) - [A Marriage Proposal Spoken in Office Jargon](https://www.mcsweeneys.net/articles/a-marriage-proposal-spoken-entirely-in-office-jargon)
 * [2025-01-15, 18:12:50](https://news.ycombinator.com/item?id=42714774) - [Banning TikTok Is Unconstitutional. The Supreme Court Must Step In](https://www.aclu.org/news/national-security/banning-tiktok-is-unconstitutional-the-supreme-court-must-step-in)

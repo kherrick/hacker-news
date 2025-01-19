@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-01-19](index.md)
 
+* [2025-01-19, 18:01:42](https://news.ycombinator.com/item?id=42759557) - [Using your Apple device as an access card in unsupported systems](https://github.com/kormax/apple-device-as-access-card)
+* [2025-01-19, 18:01:04](https://news.ycombinator.com/item?id=42759546) - [Zuckerberg appeared to know Llama trained on Libgen](https://www.rollingstone.com/culture/culture-news/ai-meta-pirated-library-zuckerberg-1235235394/)
+* [2025-01-19, 17:42:44](https://news.ycombinator.com/item?id=42759336) - [TikTok says it is restoring service for U.S. users](https://www.nbcnews.com/tech/tech-news/tiktok-says-restoring-service-us-users-rcna188320)
 * [2025-01-19, 17:01:02](https://news.ycombinator.com/item?id=42758807) - [GauntletAI (YC S17) will fly you out, train you to build w AI, give you 200k job](https://gauntletai.com)
 * [2025-01-19, 17:00:52](https://news.ycombinator.com/item?id=42758805) - [TikTok Shut Down: Data Shows 85% Drop in US Access (and Surge to Alternatives)](https://blog.cloudflare.com/tiktok-ban-traffic-decline-alternatives-rednote/)
 * [2025-01-19, 16:39:23](https://news.ycombinator.com/item?id=42758570) - [Lenovo has removed its iconic TrackPoint nub from new ThinkPad laptops](https://www.pcworld.com/article/2566195/lenovo-has-removed-its-iconic-trackpoint-nub-from-new-thinkpad-laptops.html)
