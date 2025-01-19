@@ -7,6 +7,7 @@
 * [2025-01-19, 14:15:25](https://news.ycombinator.com/item?id=42757161) - [Coming soon: PhD-level super-agents](https://www.axios.com/2025/01/19/ai-superagent-openai-meta)
 * [2025-01-19, 13:30:18](https://news.ycombinator.com/item?id=42756773) - [Making glow-in-the-dark Strontium Aluminate](https://maurycyz.com/projects/strontium_aluminate/)
 * [2025-01-19, 13:09:22](https://news.ycombinator.com/item?id=42756648) - [Bob Dylan's drafts for Mr Tambourine Man sell for more than £400k](https://www.theguardian.com/music/2025/jan/18/bob-dylans-drafts-for-mr-tambourine-man-sell-for-more-than-400000)
+* [2025-01-19, 11:58:28](https://news.ycombinator.com/item?id=42756291) - [A System for the Sixties-and-a-Half: The Toshiba Visicom COM-100](https://nicole.express/2025/invisicom.html)
 * [2025-01-19, 11:56:14](https://news.ycombinator.com/item?id=42756276) - [Japan's elderly are lonely and struggling. Some women choose to go to jail](https://www.cnn.com/2025/01/18/asia/japan-elderly-largest-womens-prison-intl-hnk-dst/index.html)
 * [2025-01-19, 09:26:12](https://news.ycombinator.com/item?id=42755436) - [Gaza ceasefire is now in effect](https://www.reuters.com/world/middle-east/israel-hamas-ceasefire-deal-updates-2025-01-19/)
 * [2025-01-19, 09:18:08](https://news.ycombinator.com/item?id=42755380) - [Frankenstein inspired by suicide of Mary Shelley's half-sister, book reveals](https://www.theguardian.com/books/2025/jan/19/frankenstein-inspired-by-suicide-of-mary-shelley-half-sister-fanny-imlay-book-reveals)
