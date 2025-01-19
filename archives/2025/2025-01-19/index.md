@@ -6,6 +6,8 @@
 
 * [2025-01-19, 09:26:12](https://news.ycombinator.com/item?id=42755436) - [Gaza ceasefire is now in effect](https://www.reuters.com/world/middle-east/israel-hamas-ceasefire-deal-updates-2025-01-19/)
 * [2025-01-19, 09:18:08](https://news.ycombinator.com/item?id=42755380) - [Frankenstein inspired by suicide of Mary Shelley's half-sister, book reveals](https://www.theguardian.com/books/2025/jan/19/frankenstein-inspired-by-suicide-of-mary-shelley-half-sister-fanny-imlay-book-reveals)
+* [2025-01-19, 08:56:35](https://news.ycombinator.com/item?id=42755251) - [\"The Traitors\", a reality TV show, offers a useful economics lesson](https://www.economist.com/finance-and-economics/2025/01/16/the-traitors-a-reality-tv-show-offers-a-useful-economics-lesson)
+* [2025-01-19, 08:43:07](https://news.ycombinator.com/item?id=42755173) - [IsMyXFeedFcked – Analyze How Your X Feed's Impacting You](https://www.ismyxfeedfucked.com/)
 * [2025-01-19, 05:57:01](https://news.ycombinator.com/item?id=42754130) - [Apple removed all ByteDance apps from the App Store](https://support.apple.com/en-us/121596)
 * [2025-01-19, 05:50:18](https://news.ycombinator.com/item?id=42754098) - [Haskell: A Great Procedural Language](https://entropicthoughts.com/haskell-procedural-programming)
 * [2025-01-19, 05:42:25](https://news.ycombinator.com/item?id=42754057) - [The \"35-cent\" Commodore 64 softmodem](http://oldvcr.blogspot.com/2025/01/the-35-cent-commodore-64-softmodem.html)
