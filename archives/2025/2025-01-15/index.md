@@ -58,6 +58,7 @@
 * [2025-01-15, 11:14:59](https://news.ycombinator.com/item?id=42709667) - [antirez - Fixing a real world bug in Redis vector sets with LLMs [video]](https://www.youtube.com/watch?v=rCIZflYEpEk)
 * [2025-01-15, 09:43:03](https://news.ycombinator.com/item?id=42709105) - [Sky-Scanning Complete for Gaia](https://www.esa.int/ESA_Multimedia/Images/2025/01/Sky-scanning_complete_for_Gaia)
 * [2025-01-15, 09:20:03](https://news.ycombinator.com/item?id=42708974) - [Beating cuBLAS in Single-Precision General Matrix Multiplication](https://salykova.github.io/sgemm-gpu)
+* [2025-01-15, 09:07:12](https://news.ycombinator.com/item?id=42708904) - [Rust: Investigating an Out of Memory Error](https://www.qovery.com/blog/rust-investigating-a-strange-out-of-memory-error/)
 * [2025-01-15, 08:47:38](https://news.ycombinator.com/item?id=42708773) - [Generate audiobooks from E-books with Kokoro-82M](https://claudio.uk/posts/epub-to-audiobook.html)
 * [2025-01-15, 08:30:07](https://news.ycombinator.com/item?id=42708682) - [Laser Fault Injection on a Budget: RP2350 Edition](https://courk.cc/rp2350-challenge-laser)
 * [2025-01-15, 07:39:04](https://news.ycombinator.com/item?id=42708370) - [Create, Edit and Convert PPT, PPTX and ODP Presentation via Open Source PHP APIs](https://products.fileformat.com/presentation/php/)

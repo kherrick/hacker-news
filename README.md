@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-19, 05:50:18](https://news.ycombinator.com/item?id=42754098) - [Haskell: A Great Procedural Language](https://entropicthoughts.com/haskell-procedural-programming)
 * [2025-01-19, 05:42:25](https://news.ycombinator.com/item?id=42754057) - [The \"35-cent\" Commodore 64 softmodem](http://oldvcr.blogspot.com/2025/01/the-35-cent-commodore-64-softmodem.html)
 * [2025-01-19, 04:15:26](https://news.ycombinator.com/item?id=42753523) - [Forgejo: A self-hosted lightweight software forge](https://forgejo.org/)
 * [2025-01-19, 03:51:49](https://news.ycombinator.com/item?id=42753396) - [TikTok goes dark in the US](https://techcrunch.com/2025/01/18/tiktok-goes-dark-in-the-u-s/)
@@ -12,13 +13,11 @@
 * [2025-01-18, 19:36:13](https://news.ycombinator.com/item?id=42750781) - [WASM GC isn't ready for realtime graphics](https://dthompson.us/posts/wasm-gc-isnt-ready-for-realtime-graphics.html)
 * [2025-01-18, 19:27:58](https://news.ycombinator.com/item?id=42750734) - [Skymont: Intel's E-Cores reach for the Sky](https://chipsandcheese.com/p/skymont-intels-e-cores-reach-for-the-sky)
 * [2025-01-18, 18:53:47](https://news.ycombinator.com/item?id=42750454) - [Reverse-engineering a carry-lookahead adder in the Pentium](https://www.righto.com/2025/01/pentium-carry-lookahead-reverse-engineered.html)
-* [2025-01-18, 18:48:51](https://news.ycombinator.com/item?id=42750420) - [Amazon's AI crawler is making my Git server unstable](https://xeiaso.net/notes/2025/amazon-crawler/)
 * [2025-01-18, 18:17:59](https://news.ycombinator.com/item?id=42750195) - [VS Code Pets](https://github.com/tonybaloney/vscode-pets)
 * [2025-01-18, 16:22:03](https://news.ycombinator.com/item?id=42749402) - [Show HN: Interactive systemd – a better way to work with systemd units](https://isd-project.github.io/isd/)
 * [2025-01-18, 15:45:26](https://news.ycombinator.com/item?id=42749147) - [Dusa Programming Language (Finite-Choice Logic Programming)](https://dusa.rocks/docs/)
 * [2025-01-18, 15:32:41](https://news.ycombinator.com/item?id=42749069) - [Why do bees die when they sting you?](https://www.subanima.org/bees/)
 * [2025-01-18, 12:28:53](https://news.ycombinator.com/item?id=42747864) - [The AMD Radeon Instinct MI300A's Giant Memory Subsystem](https://chipsandcheese.com/p/inside-the-amd-radeon-instinct-mi300as)
-* [2025-01-18, 02:42:54](https://news.ycombinator.com/item?id=42745334) - [Can you read this cursive handwriting? The National Archives wants your help](https://www.smithsonianmag.com/smart-news/can-you-read-this-cursive-handwriting-the-national-archives-wants-your-help-180985833/)
 * [2025-01-17, 11:26:16](https://news.ycombinator.com/item?id=42736414) - ['Once-in-a-century' discovery reveals luxury of Pompeii](https://www.bbc.com/news/articles/c15zgvnvk4do)
 * [2025-01-16, 22:31:06](https://news.ycombinator.com/item?id=42731740) - [Saint Peter Basilica digital experience](https://virtual.basilicasanpietro.va/en)
 * [2025-01-16, 10:06:39](https://news.ycombinator.com/item?id=42723464) - [Tracing Military Command Chains Through Time and Location](https://www.dot.studio/en/notes/case-study-under-whose-command/)
@@ -28,6 +27,7 @@
 * [2025-01-15, 15:50:01](https://news.ycombinator.com/item?id=42712341) - [Second-Hand Bookshops in Britain: 2024 Report](http://wormwoodiana.blogspot.com/2024/12/second-hand-bookshops-in-britain-2024.html)
 * [2025-01-15, 13:02:38](https://news.ycombinator.com/item?id=42710376) - [Hologram: A full-stack isomorphic Elixir web framework](https://hologram.page/)
 * [2025-01-15, 09:20:03](https://news.ycombinator.com/item?id=42708974) - [Beating cuBLAS in Single-Precision General Matrix Multiplication](https://salykova.github.io/sgemm-gpu)
+* [2025-01-15, 09:07:12](https://news.ycombinator.com/item?id=42708904) - [Rust: Investigating an Out of Memory Error](https://www.qovery.com/blog/rust-investigating-a-strange-out-of-memory-error/)
 * [2025-01-15, 02:29:43](https://news.ycombinator.com/item?id=42706637) - [Show HN: LLMpeg](https://github.com/jjcm/llmpeg)
 * [2025-01-14, 17:25:06](https://news.ycombinator.com/item?id=42700483) - [Generating an infinite world with the Wave Function Collapse algorithm](https://marian42.de/article/infinite-wfc/)
 
