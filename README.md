@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-19, 14:47:37](https://news.ycombinator.com/item?id=42757455) - [Calculator Forensics (2002)](https://www.rskey.org/~mwsebastian/miscprj/forensics.htm)
 * [2025-01-19, 13:45:36](https://news.ycombinator.com/item?id=42756896) - [Open Dylan](https://opendylan.org/)
 * [2025-01-19, 13:30:18](https://news.ycombinator.com/item?id=42756773) - [Making glow-in-the-dark Strontium Aluminate](https://maurycyz.com/projects/strontium_aluminate/)
 * [2025-01-19, 12:13:46](https://news.ycombinator.com/item?id=42756365) - [About A comprehensive guide for Linux Network (Socket) programming](https://github.com/nguyenchiemminhvu/LinuxNetworkProgramming)
@@ -16,7 +17,6 @@
 * [2025-01-18, 18:17:59](https://news.ycombinator.com/item?id=42750195) - [VS Code Pets](https://github.com/tonybaloney/vscode-pets)
 * [2025-01-18, 16:22:03](https://news.ycombinator.com/item?id=42749402) - [Show HN: Interactive systemd – a better way to work with systemd units](https://isd-project.github.io/isd/)
 * [2025-01-18, 15:32:41](https://news.ycombinator.com/item?id=42749069) - [Why do bees die when they sting you? (2021)](https://www.subanima.org/bees/)
-* [2025-01-18, 12:28:53](https://news.ycombinator.com/item?id=42747864) - [The AMD Radeon Instinct MI300A's Giant Memory Subsystem](https://chipsandcheese.com/p/inside-the-amd-radeon-instinct-mi300as)
 * [2025-01-17, 13:54:26](https://news.ycombinator.com/item?id=42737510) - [Volkswagen Sausage and the Enduring Appeal of Culinary Car-Industry Crossovers](https://www.atlasobscura.com/articles/car-industry-food)
 * [2025-01-17, 11:26:16](https://news.ycombinator.com/item?id=42736414) - ['Once-in-a-century' discovery reveals luxury of Pompeii](https://www.bbc.com/news/articles/c15zgvnvk4do)
 * [2025-01-16, 20:32:58](https://news.ycombinator.com/item?id=42730512) - [How hard would it be to display the contents of an image file on the screen?](https://wolf.nereid.pl/posts/image-viewer/)

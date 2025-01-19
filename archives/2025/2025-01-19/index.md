@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-19](index.md)
 
+* [2025-01-19, 14:47:37](https://news.ycombinator.com/item?id=42757455) - [Calculator Forensics (2002)](https://www.rskey.org/~mwsebastian/miscprj/forensics.htm)
 * [2025-01-19, 14:15:25](https://news.ycombinator.com/item?id=42757161) - [Coming soon: PhD-level super-agents](https://www.axios.com/2025/01/19/ai-superagent-openai-meta)
 * [2025-01-19, 13:45:36](https://news.ycombinator.com/item?id=42756896) - [Open Dylan](https://opendylan.org/)
 * [2025-01-19, 13:30:18](https://news.ycombinator.com/item?id=42756773) - [Making glow-in-the-dark Strontium Aluminate](https://maurycyz.com/projects/strontium_aluminate/)
