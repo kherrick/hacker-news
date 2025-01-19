@@ -21,12 +21,32 @@
   ],
   [
     [
+      "2025-01-19, 12:13:46",
+      "https://news.ycombinator.com/item?id=42756365"
+    ],
+    [
+      "About A comprehensive guide for Linux Network (Socket) programming",
+      "https://github.com/nguyenchiemminhvu/LinuxNetworkProgramming"
+    ]
+  ],
+  [
+    [
       "2025-01-19, 11:58:28",
       "https://news.ycombinator.com/item?id=42756291"
     ],
     [
       "A System for the Sixties-and-a-Half: The Toshiba Visicom COM-100",
       "https://nicole.express/2025/invisicom.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-19, 11:57:18",
+      "https://news.ycombinator.com/item?id=42756286"
+    ],
+    [
+      "The Fuzzing Book",
+      "https://www.fuzzingbook.org/"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-01-18, 19:36:13",
-      "https://news.ycombinator.com/item?id=42750781"
-    ],
-    [
-      "WASM GC isn't ready for realtime graphics",
-      "https://dthompson.us/posts/wasm-gc-isnt-ready-for-realtime-graphics.html"
-    ]
-  ],
-  [
-    [
       "2025-01-18, 18:17:59",
       "https://news.ycombinator.com/item?id=42750195"
     ],
@@ -147,16 +157,6 @@
     [
       "Why do bees die when they sting you? (2021)",
       "https://www.subanima.org/bees/"
-    ]
-  ],
-  [
-    [
-      "2025-01-18, 12:28:53",
-      "https://news.ycombinator.com/item?id=42747864"
-    ],
-    [
-      "The AMD Radeon Instinct MI300A's Giant Memory Subsystem",
-      "https://chipsandcheese.com/p/inside-the-amd-radeon-instinct-mi300as"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2025-01-16, 13:59:34",
+      "https://news.ycombinator.com/item?id=42725163"
+    ],
+    [
+      "Build a Database in 3000 Lines with 0 Dependencies",
+      "https://build-your-own.org/blog/20251015_db_in_3000/"
+    ]
+  ],
+  [
+    [
       "2025-01-16, 10:06:39",
       "https://news.ycombinator.com/item?id=42723464"
     ],
@@ -247,16 +257,6 @@
     [
       "Boosting Computational Fluid Dynamics Performance with AMD MI300X",
       "https://rocm.blogs.amd.com/ecosystems-and-partners/ansys-fluent-performance/README.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-15, 15:50:01",
-      "https://news.ycombinator.com/item?id=42712341"
-    ],
-    [
-      "Second-Hand Bookshops in Britain: 2024 Report",
-      "http://wormwoodiana.blogspot.com/2024/12/second-hand-bookshops-in-britain-2024.html"
     ]
   ],
   [
