@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-19, 13:09:22](https://news.ycombinator.com/item?id=42756648) - [Bob Dylan's drafts for Mr Tambourine Man sell for more than £400k](https://www.theguardian.com/music/2025/jan/18/bob-dylans-drafts-for-mr-tambourine-man-sell-for-more-than-400000)
 * [2025-01-19, 11:56:14](https://news.ycombinator.com/item?id=42756276) - [Japan's elderly are lonely and struggling. Some women choose to go to jail](https://www.cnn.com/2025/01/18/asia/japan-elderly-largest-womens-prison-intl-hnk-dst/index.html)
 * [2025-01-19, 08:56:35](https://news.ycombinator.com/item?id=42755251) - [\"The Traitors\", a reality TV show, offers a useful economics lesson](https://www.economist.com/finance-and-economics/2025/01/16/the-traitors-a-reality-tv-show-offers-a-useful-economics-lesson)
 * [2025-01-19, 05:50:18](https://news.ycombinator.com/item?id=42754098) - [Haskell: A Great Procedural Language](https://entropicthoughts.com/haskell-procedural-programming)
@@ -12,7 +13,6 @@
 * [2025-01-18, 19:36:13](https://news.ycombinator.com/item?id=42750781) - [WASM GC isn't ready for realtime graphics](https://dthompson.us/posts/wasm-gc-isnt-ready-for-realtime-graphics.html)
 * [2025-01-18, 18:17:59](https://news.ycombinator.com/item?id=42750195) - [VS Code Pets](https://github.com/tonybaloney/vscode-pets)
 * [2025-01-18, 16:22:03](https://news.ycombinator.com/item?id=42749402) - [Show HN: Interactive systemd – a better way to work with systemd units](https://isd-project.github.io/isd/)
-* [2025-01-18, 15:45:26](https://news.ycombinator.com/item?id=42749147) - [Dusa Programming Language (Finite-Choice Logic Programming)](https://dusa.rocks/docs/)
 * [2025-01-18, 15:32:41](https://news.ycombinator.com/item?id=42749069) - [Why do bees die when they sting you?](https://www.subanima.org/bees/)
 * [2025-01-18, 12:28:53](https://news.ycombinator.com/item?id=42747864) - [The AMD Radeon Instinct MI300A's Giant Memory Subsystem](https://chipsandcheese.com/p/inside-the-amd-radeon-instinct-mi300as)
 * [2025-01-17, 11:26:16](https://news.ycombinator.com/item?id=42736414) - ['Once-in-a-century' discovery reveals luxury of Pompeii](https://www.bbc.com/news/articles/c15zgvnvk4do)

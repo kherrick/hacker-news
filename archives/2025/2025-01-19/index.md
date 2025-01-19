@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-19](index.md)
 
+* [2025-01-19, 13:09:22](https://news.ycombinator.com/item?id=42756648) - [Bob Dylan's drafts for Mr Tambourine Man sell for more than £400k](https://www.theguardian.com/music/2025/jan/18/bob-dylans-drafts-for-mr-tambourine-man-sell-for-more-than-400000)
 * [2025-01-19, 11:56:14](https://news.ycombinator.com/item?id=42756276) - [Japan's elderly are lonely and struggling. Some women choose to go to jail](https://www.cnn.com/2025/01/18/asia/japan-elderly-largest-womens-prison-intl-hnk-dst/index.html)
 * [2025-01-19, 09:26:12](https://news.ycombinator.com/item?id=42755436) - [Gaza ceasefire is now in effect](https://www.reuters.com/world/middle-east/israel-hamas-ceasefire-deal-updates-2025-01-19/)
 * [2025-01-19, 09:18:08](https://news.ycombinator.com/item?id=42755380) - [Frankenstein inspired by suicide of Mary Shelley's half-sister, book reveals](https://www.theguardian.com/books/2025/jan/19/frankenstein-inspired-by-suicide-of-mary-shelley-half-sister-fanny-imlay-book-reveals)
