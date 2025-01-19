@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-19, 20:14:44](https://news.ycombinator.com/item?id=42761303) - [TikTok users posting cat videos do not threaten UK national security, minister](https://www.theguardian.com/technology/2025/jan/19/tiktok-users-posting-cat-videos-do-not-threaten-uk-national-security-minister-says)
 * [2025-01-19, 20:07:23](https://news.ycombinator.com/item?id=42761219) - [Escape the walled garden and algorithm black boxes with RSS feeds](https://www.johnwalker.nl/posts/escape-the-walled-garden-with-rss)
 * [2025-01-19, 19:20:23](https://news.ycombinator.com/item?id=42760620) - [Why is Git Autocorrect too fast for Formula One drivers?](https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/)
 * [2025-01-19, 18:49:51](https://news.ycombinator.com/item?id=42760210) - [Philosophy Eats AI](https://sloanreview.mit.edu/article/philosophy-eats-ai/)
@@ -15,7 +16,6 @@
 * [2025-01-19, 08:56:35](https://news.ycombinator.com/item?id=42755251) - [“The Traitors”, a reality TV show, offers a useful economics lesson](https://www.economist.com/finance-and-economics/2025/01/16/the-traitors-a-reality-tv-show-offers-a-useful-economics-lesson)
 * [2025-01-19, 08:43:07](https://news.ycombinator.com/item?id=42755173) - [IsMyXFeedFucked – Analyze How Your X Feed's Impacting You](https://www.ismyxfeedfucked.com/)
 * [2025-01-19, 05:50:18](https://news.ycombinator.com/item?id=42754098) - [Haskell: A Great Procedural Language](https://entropicthoughts.com/haskell-procedural-programming)
-* [2025-01-19, 05:42:25](https://news.ycombinator.com/item?id=42754057) - [The \"35-cent\" Commodore 64 softmodem](http://oldvcr.blogspot.com/2025/01/the-35-cent-commodore-64-softmodem.html)
 * [2025-01-19, 04:15:26](https://news.ycombinator.com/item?id=42753523) - [Forgejo: A self-hosted lightweight software forge](https://forgejo.org/)
 * [2025-01-19, 03:24:49](https://news.ycombinator.com/item?id=42753302) - [Yek: Serialize your code repo (or part of it) to feed into any LLM](https://github.com/bodo-run/yek)
 * [2025-01-19, 00:53:38](https://news.ycombinator.com/item?id=42752703) - [We need to protect the protocol that runs Bluesky](https://www.technologyreview.com/2025/01/17/1110063/we-need-to-protect-the-protocol-that-runs-bluesky/)
