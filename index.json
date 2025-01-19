@@ -1,26 +1,6 @@
 [
   [
     [
-      "2025-01-19, 09:26:12",
-      "https://news.ycombinator.com/item?id=42755436"
-    ],
-    [
-      "Gaza ceasefire is now in effect",
-      "https://www.reuters.com/world/middle-east/israel-hamas-ceasefire-deal-updates-2025-01-19/"
-    ]
-  ],
-  [
-    [
-      "2025-01-19, 09:18:08",
-      "https://news.ycombinator.com/item?id=42755380"
-    ],
-    [
-      "Frankenstein inspired by suicide of Mary Shelley's half-sister, book reveals",
-      "https://www.theguardian.com/books/2025/jan/19/frankenstein-inspired-by-suicide-of-mary-shelley-half-sister-fanny-imlay-book-reveals"
-    ]
-  ],
-  [
-    [
       "2025-01-19, 05:50:18",
       "https://news.ycombinator.com/item?id=42754098"
     ],
@@ -77,6 +57,16 @@
     [
       "How Unix spell ran in 64kb RAM",
       "https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram"
+    ]
+  ],
+  [
+    [
+      "2025-01-18, 23:52:23",
+      "https://news.ycombinator.com/item?id=42752402"
+    ],
+    [
+      "Nation-scale Matrix deployments will fail using the community version of Synapse",
+      "https://mastodon.matrix.org/@element/113842786942364269"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Second-Hand Bookshops in Britain: 2024 Report",
       "http://wormwoodiana.blogspot.com/2024/12/second-hand-bookshops-in-britain-2024.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-15, 14:12:51",
+      "https://news.ycombinator.com/item?id=42710953"
+    ],
+    [
+      "Reverse Engineering a VanMoof E-Shifter – Part 2 – Decoding the Signals",
+      "https://mikecoats.com/vanmoof-eshifter-reverse-engineering-part-2/"
     ]
   ],
   [
