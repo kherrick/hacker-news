@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-01-19, 18:28:19",
+      "https://news.ycombinator.com/item?id=42759925"
+    ],
+    [
+      "The tech oligarchy has been here for years",
+      "https://www.bloodinthemachine.com/p/the-tech-oligarchy-has-been-here"
+    ]
+  ],
+  [
+    [
       "2025-01-19, 18:01:42",
       "https://news.ycombinator.com/item?id=42759557"
     ],
     [
       "Using your Apple device as an access card in unsupported systems",
       "https://github.com/kormax/apple-device-as-access-card"
-    ]
-  ],
-  [
-    [
-      "2025-01-19, 18:01:04",
-      "https://news.ycombinator.com/item?id=42759546"
-    ],
-    [
-      "Zuckerberg appeared to know Llama trained on Libgen",
-      "https://www.rollingstone.com/culture/culture-news/ai-meta-pirated-library-zuckerberg-1235235394/"
     ]
   ],
   [
@@ -57,6 +57,16 @@
     [
       "The surprising struggle to get a Unix Epoch time from a UTC string in C or C++",
       "https://berthub.eu/articles/posts/how-to-get-a-unix-epoch-from-a-utc-date-time-string/"
+    ]
+  ],
+  [
+    [
+      "2025-01-19, 15:50:51",
+      "https://news.ycombinator.com/item?id=42758070"
+    ],
+    [
+      "Build a tiny CA for your homelab with a Raspberry Pi",
+      "https://smallstep.com/blog/build-a-tiny-ca-with-raspberry-pi-yubikey/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Robotics and ROS 2 Essentials",
       "https://henkirobotics.com/robotics-and-ros-2-essentials-course-announcement/"
-    ]
-  ],
-  [
-    [
-      "2025-01-17, 20:46:45",
-      "https://news.ycombinator.com/item?id=42743069"
-    ],
-    [
-      "Book and Dagger: How scholars and librarians became spies during World War II",
-      "https://newrepublic.com/article/188991/americas-top-spies-academics-librarians"
     ]
   ],
   [
