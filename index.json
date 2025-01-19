@@ -21,12 +21,32 @@
   ],
   [
     [
-      "2025-01-19, 14:47:37",
-      "https://news.ycombinator.com/item?id=42757455"
+      "2025-01-19, 16:39:23",
+      "https://news.ycombinator.com/item?id=42758570"
     ],
     [
-      "Calculator Forensics (2002)",
-      "https://www.rskey.org/~mwsebastian/miscprj/forensics.htm"
+      "Lenovo has removed the TrackPoint nub from new ThinkPad laptops",
+      "https://www.pcworld.com/article/2566195/lenovo-has-removed-its-iconic-trackpoint-nub-from-new-thinkpad-laptops.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-19, 16:10:11",
+      "https://news.ycombinator.com/item?id=42758257"
+    ],
+    [
+      "The surprising struggle to get a Unix Epoch time from a UTC string in C or C++",
+      "https://berthub.eu/articles/posts/how-to-get-a-unix-epoch-from-a-utc-date-time-string/"
+    ]
+  ],
+  [
+    [
+      "2025-01-19, 15:54:02",
+      "https://news.ycombinator.com/item?id=42758104"
+    ],
+    [
+      "TikTok Shutdown: Why building on proprietary platforms is a risky game",
+      "https://bouia.com/blog/technology/tiktok-shutdown-why-building-on-proprietary-platforms-is-a-risky-game/"
     ]
   ],
   [
@@ -67,6 +87,26 @@
     [
       "The Fuzzing Book",
       "https://www.fuzzingbook.org/"
+    ]
+  ],
+  [
+    [
+      "2025-01-19, 08:56:35",
+      "https://news.ycombinator.com/item?id=42755251"
+    ],
+    [
+      "“The Traitors”, a reality TV show, offers a useful economics lesson",
+      "https://www.economist.com/finance-and-economics/2025/01/16/the-traitors-a-reality-tv-show-offers-a-useful-economics-lesson"
+    ]
+  ],
+  [
+    [
+      "2025-01-19, 08:43:07",
+      "https://news.ycombinator.com/item?id=42755173"
+    ],
+    [
+      "IsMyXFeedFucked – Analyze How Your X Feed's Impacting You",
+      "https://www.ismyxfeedfucked.com/"
     ]
   ],
   [
@@ -161,16 +201,6 @@
   ],
   [
     [
-      "2025-01-18, 15:32:41",
-      "https://news.ycombinator.com/item?id=42749069"
-    ],
-    [
-      "Why do bees die when they sting you? (2021)",
-      "https://www.subanima.org/bees/"
-    ]
-  ],
-  [
-    [
       "2025-01-17, 22:52:17",
       "https://news.ycombinator.com/item?id=42744106"
     ],
@@ -187,16 +217,6 @@
     [
       "Book and Dagger: How scholars and librarians became spies during World War II",
       "https://newrepublic.com/article/188991/americas-top-spies-academics-librarians"
-    ]
-  ],
-  [
-    [
-      "2025-01-17, 13:54:26",
-      "https://news.ycombinator.com/item?id=42737510"
-    ],
-    [
-      "Volkswagen Sausage and the Enduring Appeal of Culinary Car-Industry Crossovers",
-      "https://www.atlasobscura.com/articles/car-industry-food"
     ]
   ],
   [
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2025-01-15, 14:12:51",
-      "https://news.ycombinator.com/item?id=42710953"
-    ],
-    [
-      "Reverse Engineering a VanMoof E-Shifter – Part 2 – Decoding the Signals",
-      "https://mikecoats.com/vanmoof-eshifter-reverse-engineering-part-2/"
-    ]
-  ],
-  [
-    [
       "2025-01-15, 13:02:38",
       "https://news.ycombinator.com/item?id=42710376"
     ],
@@ -287,16 +297,6 @@
     [
       "Rust: Investigating an Out of Memory Error",
       "https://www.qovery.com/blog/rust-investigating-a-strange-out-of-memory-error/"
-    ]
-  ],
-  [
-    [
-      "2025-01-14, 17:25:06",
-      "https://news.ycombinator.com/item?id=42700483"
-    ],
-    [
-      "Generating an infinite world with the Wave Function Collapse algorithm",
-      "https://marian42.de/article/infinite-wfc/"
     ]
   ]
 ]
