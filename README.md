@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-19, 21:39:21](https://news.ycombinator.com/item?id=42762161) - [Hacking the Yamaha DX9 to Turn It into a DX7 (2023)](https://ajxs.me/blog/Hacking_the_Yamaha_DX9_To_Turn_It_Into_a_DX7.html)
 * [2025-01-19, 21:27:53](https://news.ycombinator.com/item?id=42762054) - [Please don't force dark mode](https://iamvishnu.com/posts/please-dont-force-dark-mode)
 * [2025-01-19, 20:07:23](https://news.ycombinator.com/item?id=42761219) - [Escape the walled garden and algorithm black boxes with RSS feeds](https://www.johnwalker.nl/posts/escape-the-walled-garden-with-rss)
 * [2025-01-19, 19:20:23](https://news.ycombinator.com/item?id=42760620) - [Why is Git Autocorrect too fast for Formula One drivers?](https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/)
-* [2025-01-19, 18:49:51](https://news.ycombinator.com/item?id=42760210) - [Philosophy Eats AI](https://sloanreview.mit.edu/article/philosophy-eats-ai/)
 * [2025-01-19, 18:01:42](https://news.ycombinator.com/item?id=42759557) - [Using your Apple device as an access card in unsupported systems](https://github.com/kormax/apple-device-as-access-card)
 * [2025-01-19, 17:42:44](https://news.ycombinator.com/item?id=42759336) - [TikTok says it is restoring service for U.S. users](https://www.nbcnews.com/tech/tech-news/tiktok-says-restoring-service-us-users-rcna188320)
 * [2025-01-19, 17:01:02](https://news.ycombinator.com/item?id=42758807) - [GauntletAI (YC S17) will fly you out, train you to build w AI, give you 200k job](https://gauntletai.com)
