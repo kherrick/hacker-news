@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-19](index.md)
 
+* [2025-01-19, 17:01:02](https://news.ycombinator.com/item?id=42758807) - [GauntletAI (YC S17) will fly you out, train you to build w AI, give you 200k job](https://gauntletai.com)
+* [2025-01-19, 16:39:23](https://news.ycombinator.com/item?id=42758570) - [Lenovo has removed its iconic TrackPoint nub from new ThinkPad laptops](https://www.pcworld.com/article/2566195/lenovo-has-removed-its-iconic-trackpoint-nub-from-new-thinkpad-laptops.html)
 * [2025-01-19, 14:47:37](https://news.ycombinator.com/item?id=42757455) - [Calculator Forensics (2002)](https://www.rskey.org/~mwsebastian/miscprj/forensics.htm)
 * [2025-01-19, 14:15:25](https://news.ycombinator.com/item?id=42757161) - [Coming soon: PhD-level super-agents](https://www.axios.com/2025/01/19/ai-superagent-openai-meta)
 * [2025-01-19, 13:45:36](https://news.ycombinator.com/item?id=42756896) - [Open Dylan](https://opendylan.org/)
