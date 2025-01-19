@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-19, 05:42:25](https://news.ycombinator.com/item?id=42754057) - [The \"35-cent\" Commodore 64 softmodem](http://oldvcr.blogspot.com/2025/01/the-35-cent-commodore-64-softmodem.html)
 * [2025-01-19, 04:15:26](https://news.ycombinator.com/item?id=42753523) - [Forgejo: A self-hosted lightweight software forge](https://forgejo.org/)
 * [2025-01-19, 03:24:49](https://news.ycombinator.com/item?id=42753302) - [Yek: Serialize your code repo (or part of it) to feed into any LLM](https://github.com/bodo-run/yek)
 * [2025-01-19, 00:31:38](https://news.ycombinator.com/item?id=42752604) - [How Unix spell ran in 64kb RAM](https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram)
@@ -17,7 +18,6 @@
 * [2025-01-18, 15:45:26](https://news.ycombinator.com/item?id=42749147) - [Dusa Programming Language (Finite-Choice Logic Programming)](https://dusa.rocks/docs/)
 * [2025-01-18, 15:32:41](https://news.ycombinator.com/item?id=42749069) - [Why do bees die when they sting you?](https://www.subanima.org/bees/)
 * [2025-01-18, 14:22:46](https://news.ycombinator.com/item?id=42748534) - [Rule-Based Programming in Interactive Fiction](https://eblong.com/zarf/essays/rule-based-if/index.html)
-* [2025-01-18, 13:15:22](https://news.ycombinator.com/item?id=42748101) - [ATProto and the ownership of identity](https://anirudh.fi/blog/identity/)
 * [2025-01-18, 12:28:53](https://news.ycombinator.com/item?id=42747864) - [The AMD Radeon Instinct MI300A's Giant Memory Subsystem](https://chipsandcheese.com/p/inside-the-amd-radeon-instinct-mi300as)
 * [2025-01-18, 02:42:54](https://news.ycombinator.com/item?id=42745334) - [Can you read this cursive handwriting? The National Archives wants your help](https://www.smithsonianmag.com/smart-news/can-you-read-this-cursive-handwriting-the-national-archives-wants-your-help-180985833/)
 * [2025-01-16, 22:31:06](https://news.ycombinator.com/item?id=42731740) - [Saint Peter Basilica digital experience](https://virtual.basilicasanpietro.va/en)
