@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-01-20](index.md)
 
+* [2025-01-20, 18:13:48](https://news.ycombinator.com/item?id=42771413) - [Seeking an IPL-V Interpreter](https://news.ycombinator.com/item?id=42771413)
 * [2025-01-20, 16:56:48](https://news.ycombinator.com/item?id=42770561) - [The AI Bubble Is Bursting](https://matduggan.com/the-ai-bubble-is-bursting/)
 * [2025-01-20, 16:44:44](https://news.ycombinator.com/item?id=42770421) - [Suspects allegedly posing as firefighters in Palisades had fake fire engine](https://ktla.com/news/local-news/suspects-allegedly-posing-as-firefighters-in-palisades-had-fake-fire-engine/)
+* [2025-01-20, 16:27:22](https://news.ycombinator.com/item?id=42770200) - [Show HN: Personalized Duolingo (Kind of) for Vocabulary Building](https://github.com/baturyilmaz/wordpecker-app)
 * [2025-01-20, 16:24:33](https://news.ycombinator.com/item?id=42770178) - [What is there left to believe in?](https://www.noahpinion.blog/p/what-is-there-left-to-believe-in)
 * [2025-01-20, 16:20:29](https://news.ycombinator.com/item?id=42770125) - [I'm Peter Roberts, immigration attorney, who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=42770125)
 * [2025-01-20, 15:53:31](https://news.ycombinator.com/item?id=42769871) - [Mixxx: GPL DJ Software](https://mixxx.org/)
