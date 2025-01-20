@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-01-20, 10:16:16",
-      "https://news.ycombinator.com/item?id=42767076"
+      "2025-01-20, 12:34:47",
+      "https://news.ycombinator.com/item?id=42768046"
     ],
     [
-      "CFRS[] Community Demos: Patterns drawn with turtle graphics with 6 commands",
-      "https://susam.github.io/cfrs/demo.html"
+      "You don't need a JavaScript framework to build websites",
+      "https://velocity-core.etribes.de/"
+    ]
+  ],
+  [
+    [
+      "2025-01-20, 11:33:15",
+      "https://news.ycombinator.com/item?id=42767584"
+    ],
+    [
+      "Using eSIMs with devices that only have a physical SIM slot via a 9eSIM SIM car",
+      "https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/"
     ]
   ],
   [
@@ -151,12 +161,12 @@
   ],
   [
     [
-      "2025-01-19, 15:50:51",
-      "https://news.ycombinator.com/item?id=42758070"
+      "2025-01-19, 16:10:11",
+      "https://news.ycombinator.com/item?id=42758257"
     ],
     [
-      "Build a tiny CA for your homelab with a Raspberry Pi",
-      "https://smallstep.com/blog/build-a-tiny-ca-with-raspberry-pi-yubikey/"
+      "The surprising struggle to get a Unix Epoch time from a UTC string in C or C++",
+      "https://berthub.eu/articles/posts/how-to-get-a-unix-epoch-from-a-utc-date-time-string/"
     ]
   ],
   [
@@ -177,6 +187,16 @@
     [
       "Show HN: Terraform Provider for Inexpensive Switches",
       "https://github.com/brennoo/terraform-provider-hrui"
+    ]
+  ],
+  [
+    [
+      "2025-01-17, 22:52:17",
+      "https://news.ycombinator.com/item?id=42744106"
+    ],
+    [
+      "Robotics and ROS 2 Essentials",
+      "https://henkirobotics.com/robotics-and-ros-2-essentials-course-announcement/"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-01-16, 19:07:47",
-      "https://news.ycombinator.com/item?id=42729488"
-    ],
-    [
-      "Dutch Align with US Export Controls on Some ASML Chip Tools",
-      "https://www.bloomberg.com/news/articles/2025-01-15/dutch-align-with-us-export-controls-on-some-asml-chip-tools"
-    ]
-  ],
-  [
-    [
       "2025-01-16, 18:17:32",
       "https://news.ycombinator.com/item?id=42728825"
     ],
@@ -241,12 +251,12 @@
   ],
   [
     [
-      "2025-01-16, 17:44:59",
-      "https://news.ycombinator.com/item?id=42728392"
+      "2025-01-16, 17:55:13",
+      "https://news.ycombinator.com/item?id=42728513"
     ],
     [
-      "Blinkenlights",
-      "https://en.wikipedia.org/wiki/Blinkenlights"
+      "Physicists have shown that an idealized form of magnetism is heatproof",
+      "https://www.quantamagazine.org/heat-destroys-all-order-except-for-in-this-one-special-case-20250116/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Groundwater Movement (Interactive)",
       "https://has.concord.org/groundwater-movement.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-16, 13:59:34",
-      "https://news.ycombinator.com/item?id=42725163"
-    ],
-    [
-      "Build a Database in 3000 Lines with 0 Dependencies",
-      "https://build-your-own.org/blog/20251015_db_in_3000/"
     ]
   ],
   [
