@@ -12,6 +12,7 @@
 * [2025-01-18, 19:59:03](https://news.ycombinator.com/item?id=42750954) - [Borrowchecker.jl – Designing a borrow checker for Julia](https://github.com/MilesCranmer/BorrowChecker.jl)
 * [2025-01-18, 19:36:13](https://news.ycombinator.com/item?id=42750781) - [WASM GC isn't ready for realtime graphics](https://dthompson.us/posts/wasm-gc-isnt-ready-for-realtime-graphics.html)
 * [2025-01-18, 19:27:58](https://news.ycombinator.com/item?id=42750734) - [Skymont: Intel's E-Cores reach for the Sky](https://chipsandcheese.com/p/skymont-intels-e-cores-reach-for-the-sky)
+* [2025-01-18, 19:00:26](https://news.ycombinator.com/item?id=42750517) - [An effect system proposal for C2y](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3317.htm)
 * [2025-01-18, 18:53:47](https://news.ycombinator.com/item?id=42750454) - [Reverse-engineering a carry-lookahead adder in the Pentium](https://www.righto.com/2025/01/pentium-carry-lookahead-reverse-engineered.html)
 * [2025-01-18, 18:48:51](https://news.ycombinator.com/item?id=42750420) - [Amazon's AI crawler is making my Git server unstable](https://xeiaso.net/notes/2025/amazon-crawler/)
 * [2025-01-18, 18:28:21](https://news.ycombinator.com/item?id=42750264) - [Looking at some claims that quantum computers won't work](https://blog.cr.yp.to/20250118-flight.html)
