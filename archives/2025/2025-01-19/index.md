@@ -47,6 +47,7 @@
 * [2025-01-19, 05:50:18](https://news.ycombinator.com/item?id=42754098) - [Haskell: A Great Procedural Language](https://entropicthoughts.com/haskell-procedural-programming)
 * [2025-01-19, 05:42:25](https://news.ycombinator.com/item?id=42754057) - [The \"35-cent\" Commodore 64 softmodem](http://oldvcr.blogspot.com/2025/01/the-35-cent-commodore-64-softmodem.html)
 * [2025-01-19, 04:49:58](https://news.ycombinator.com/item?id=42753746) - [Facebook paid GOP firm to malign TikTok](https://www.washingtonpost.com/technology/2022/03/30/facebook-tiktok-targeted-victory/)
+* [2025-01-19, 04:18:54](https://news.ycombinator.com/item?id=42753542) - [A Novel 'Kiss and Capture' Event Gave Pluto Its Largest Moon, Charon](https://www.smithsonianmag.com/smart-news/a-novel-kiss-and-capture-event-gave-pluto-its-largest-moon-charon-new-study-suggests-180985787/)
 * [2025-01-19, 04:15:26](https://news.ycombinator.com/item?id=42753523) - [Forgejo: A self-hosted lightweight software forge](https://forgejo.org/)
 * [2025-01-19, 03:51:49](https://news.ycombinator.com/item?id=42753396) - [TikTok goes dark in the US](https://techcrunch.com/2025/01/18/tiktok-goes-dark-in-the-u-s/)
 * [2025-01-19, 03:24:49](https://news.ycombinator.com/item?id=42753302) - [Yek: Serialize your code repo (or part of it) to feed into any LLM](https://github.com/bodo-run/yek)

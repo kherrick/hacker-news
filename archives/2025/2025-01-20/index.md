@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-01-20](index.md)
 
+* [2025-01-20, 12:37:58](https://news.ycombinator.com/item?id=42768072) - [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
 * [2025-01-20, 12:34:47](https://news.ycombinator.com/item?id=42768046) - [You don't need a JavaScript framework to build websites](https://velocity-core.etribes.de/)
 * [2025-01-20, 11:33:15](https://news.ycombinator.com/item?id=42767584) - [Using eSIMs with devices that only have a physical SIM slot via a 9eSIM SIM car](https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/)
 * [2025-01-20, 10:16:16](https://news.ycombinator.com/item?id=42767076) - [CFRS[] Community Demos: Patterns drawn with turtle graphics with 6 commands](https://susam.github.io/cfrs/demo.html)
 * [2025-01-20, 09:30:15](https://news.ycombinator.com/item?id=42766729) - [TypeScript enums: use cases and alternatives](https://2ality.com/2025/01/typescript-enum-patterns.html)
+* [2025-01-20, 09:28:59](https://news.ycombinator.com/item?id=42766715) - [Play your favourite retro games online](https://playclassic.games/games/)
 * [2025-01-20, 09:20:17](https://news.ycombinator.com/item?id=42766637) - [The real motivation behind systemd (2018)](https://unixdigest.com/articles/the-real-motivation-behind-systemd.html)
 * [2025-01-20, 08:53:12](https://news.ycombinator.com/item?id=42766437) - [Don't use Session – Round 2](https://soatok.blog/2025/01/20/session-round-2/)
 * [2025-01-20, 08:21:16](https://news.ycombinator.com/item?id=42766205) - [Parinfer: Simpler Lisp Editing](https://shaunlebron.github.io/parinfer/)
