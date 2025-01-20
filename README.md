@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-20, 21:32:31](https://news.ycombinator.com/item?id=42773311) - [Matt Mullenweg, Automattic's CEO, Seems Bound and Determined to Wreck WordPress](https://digitalcxo.com/article/matt-mullenweg-automattics-ceo-seems-bound-and-determined-to-wreck-wordpress/)
 * [2025-01-20, 21:11:12](https://news.ycombinator.com/item?id=42773088) - [Falcon 9 Rocket Launch Scrubbed After Delta Air Flies into Restricted Airspace](https://www.paddleyourownkanoo.com/2025/01/19/spacex-scrubs-falcon-9-rocket-launch-with-just-11-seconds-to-go-after-delta-air-jet-flies-into-restricted-airspace/)
 * [2025-01-20, 20:38:08](https://news.ycombinator.com/item?id=42772771) - [Authors Seek Meta's Torrent Client Logs and Seeding Data in AI Piracy Probe](https://torrentfreak.com/authors-seek-metas-torrent-client-logs-and-seeding-data-in-ai-piracy-probe-250120/)
 * [2025-01-20, 20:06:55](https://news.ycombinator.com/item?id=42772518) - [The Making of Community Notes (2024)](https://asteriskmag.com/issues/08/the-making-of-community-notes)
@@ -25,6 +24,7 @@
 * [2025-01-19, 23:52:13](https://news.ycombinator.com/item?id=42763386) - [UK's hardware talent is being wasted](https://josef.cn/blog/uk-talent)
 * [2025-01-19, 06:28:36](https://news.ycombinator.com/item?id=42754305) - [SRCL: Open-source React project to build web apps with terminal aesthetics](https://www.sacred.computer)
 * [2025-01-18, 08:56:11](https://news.ycombinator.com/item?id=42746889) - [The Greenland Shark, the Longest-Living Vertebrate on Earth (2017)](https://www.newyorker.com/tech/annals-of-technology/the-strange-and-gruesome-story-of-the-greenland-shark-the-longest-living-vertebrate-on-earth)
+* [2025-01-17, 13:40:33](https://news.ycombinator.com/item?id=42737401) - [Optical Fresnel zone plate flat lens: colored photoresist through I-line stepper](https://www.nature.com/articles/s41377-024-01725-6)
 * [2025-01-17, 03:56:40](https://news.ycombinator.com/item?id=42733905) - [Show HN: Play brick breaker using webcam and hand tracking (open source)](https://collidingscopes.github.io/manual-brick-breaker/)
 * [2025-01-17, 00:00:17](https://news.ycombinator.com/item?id=42732533) - [Byzantine-Sassanian War (602-628 CE): The Last Great War of Antiquity (2023)](https://www.thecollector.com/byzantine-sassanian-war/)
 * [2025-01-16, 22:13:56](https://news.ycombinator.com/item?id=42731588) - [Slugs on a Cube: An Interactive Animation](https://blog.gingerbeardman.com/2025/01/16/slugs-on-a-cube-interactive-animation/)

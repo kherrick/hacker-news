@@ -34,6 +34,7 @@
 * [2025-01-17, 13:54:26](https://news.ycombinator.com/item?id=42737510) - [Volkswagen Sausage and the Enduring Appeal of Culinary Car-Industry Crossovers](https://www.atlasobscura.com/articles/car-industry-food)
 * [2025-01-17, 13:52:48](https://news.ycombinator.com/item?id=42737502) - [GM parks claims driver location data was given to insurers, pushing up premiums](https://www.theregister.com/2025/01/17/gm_settles_ftc_charges/)
 * [2025-01-17, 13:48:50](https://news.ycombinator.com/item?id=42737472) - [The Charango](https://longreads.com/2025/01/16/the-charango/)
+* [2025-01-17, 13:40:33](https://news.ycombinator.com/item?id=42737401) - [Optical Fresnel zone plate flat lens: colored photoresist through I-line stepper](https://www.nature.com/articles/s41377-024-01725-6)
 * [2025-01-17, 13:35:17](https://news.ycombinator.com/item?id=42737345) - [Zig: What to Expect from Release Month](https://ziglang.org/news/what-to-expect-from-release-month/)
 * [2025-01-17, 12:46:08](https://news.ycombinator.com/item?id=42736968) - [The Derelict (2015)](https://www.damninteresting.com/the-derelict/)
 * [2025-01-17, 12:34:54](https://news.ycombinator.com/item?id=42736863) - [Twenty Questions with a Random Liar](https://11011110.github.io/blog/2025/01/16/twenty-questions-random.html)
