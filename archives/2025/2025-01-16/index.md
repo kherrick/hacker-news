@@ -6,6 +6,7 @@
 
 * [2025-01-16, 22:55:37](https://news.ycombinator.com/item?id=42731962) - [Some Things to Expect in 2025](https://lwn.net/Articles/1003780/)
 * [2025-01-16, 22:31:06](https://news.ycombinator.com/item?id=42731740) - [Saint Peter Basilica digital experience](https://virtual.basilicasanpietro.va/en)
+* [2025-01-16, 22:13:56](https://news.ycombinator.com/item?id=42731588) - [Slugs on a Cube: An Interactive Animation](https://blog.gingerbeardman.com/2025/01/16/slugs-on-a-cube-interactive-animation/)
 * [2025-01-16, 22:13:22](https://news.ycombinator.com/item?id=42731582) - [Learn Yjs Interactively](https://learn.yjs.dev/)
 * [2025-01-16, 22:08:46](https://news.ycombinator.com/item?id=42731527) - [MuJoco Playground](https://playground.mujoco.org/)
 * [2025-01-16, 21:59:38](https://news.ycombinator.com/item?id=42731460) - [Solving 100 Project Euler problems using 100 languages](https://github.com/jaredkrinke/100-languages)
