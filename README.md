@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-20, 16:24:33](https://news.ycombinator.com/item?id=42770178) - [What is there left to believe in?](https://www.noahpinion.blog/p/what-is-there-left-to-believe-in)
+* [2025-01-20, 16:44:44](https://news.ycombinator.com/item?id=42770421) - [Suspects allegedly posing as firefighters in Palisades had fake fire engine](https://ktla.com/news/local-news/suspects-allegedly-posing-as-firefighters-in-palisades-had-fake-fire-engine/)
 * [2025-01-20, 16:20:29](https://news.ycombinator.com/item?id=42770125) - [I'm Peter Roberts, immigration attorney, who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=42770125)
 * [2025-01-20, 15:53:31](https://news.ycombinator.com/item?id=42769871) - [Mixxx: GPL DJ Software](https://mixxx.org/)
 * [2025-01-20, 12:37:58](https://news.ycombinator.com/item?id=42768072) - [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
