@@ -41,12 +41,42 @@
   ],
   [
     [
+      "2025-01-20, 09:41:39",
+      "https://news.ycombinator.com/item?id=42766825"
+    ],
+    [
+      "Where Do Those Undergraduate Divisibility Problems Come From?",
+      "https://grossack.site/2025/01/16/undergrad-divisibility-problems.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-20, 09:30:15",
+      "https://news.ycombinator.com/item?id=42766729"
+    ],
+    [
+      "TypeScript enums: use cases and alternatives",
+      "https://2ality.com/2025/01/typescript-enum-patterns.html"
+    ]
+  ],
+  [
+    [
       "2025-01-20, 08:21:16",
       "https://news.ycombinator.com/item?id=42766205"
     ],
     [
       "Parinfer: Simpler Lisp Editing",
       "https://shaunlebron.github.io/parinfer/"
+    ]
+  ],
+  [
+    [
+      "2025-01-20, 06:09:32",
+      "https://news.ycombinator.com/item?id=42765480"
+    ],
+    [
+      "What does \"supports DRM and may not be fully accessible\" mean for SATA SDDs?",
+      "https://unix.stackexchange.com/questions/789838/what-does-supports-drm-functions-and-may-not-be-fully-accessible-mean-for-sata"
     ]
   ],
   [
@@ -87,16 +117,6 @@
     [
       "UK's hardware talent is being wasted",
       "https://josef.cn/blog/uk-talent"
-    ]
-  ],
-  [
-    [
-      "2025-01-19, 23:27:59",
-      "https://news.ycombinator.com/item?id=42763231"
-    ],
-    [
-      "FrontierMath was funded by OpenAI",
-      "https://www.lesswrong.com/posts/cu2E8wgmbdZbqeWqb/meemi-s-shortform"
     ]
   ],
   [
@@ -161,26 +181,6 @@
   ],
   [
     [
-      "2025-01-19, 16:10:11",
-      "https://news.ycombinator.com/item?id=42758257"
-    ],
-    [
-      "The surprising struggle to get a Unix Epoch time from a UTC string in C or C++",
-      "https://berthub.eu/articles/posts/how-to-get-a-unix-epoch-from-a-utc-date-time-string/"
-    ]
-  ],
-  [
-    [
-      "2025-01-19, 11:57:18",
-      "https://news.ycombinator.com/item?id=42756286"
-    ],
-    [
-      "The Fuzzing Book",
-      "https://www.fuzzingbook.org/"
-    ]
-  ],
-  [
-    [
       "2025-01-19, 04:18:54",
       "https://news.ycombinator.com/item?id=42753542"
     ],
@@ -241,22 +241,22 @@
   ],
   [
     [
+      "2025-01-16, 19:07:47",
+      "https://news.ycombinator.com/item?id=42729488"
+    ],
+    [
+      "Dutch Align with US Export Controls on Some ASML Chip Tools",
+      "https://www.bloomberg.com/news/articles/2025-01-15/dutch-align-with-us-export-controls-on-some-asml-chip-tools"
+    ]
+  ],
+  [
+    [
       "2025-01-16, 18:17:32",
       "https://news.ycombinator.com/item?id=42728825"
     ],
     [
       "Designing the Sublime Boullée and Ledoux's Architectural Revolution",
       "https://publicdomainreview.org/essay/designing-the-sublime/"
-    ]
-  ],
-  [
-    [
-      "2025-01-16, 17:55:13",
-      "https://news.ycombinator.com/item?id=42728513"
-    ],
-    [
-      "Physicists have shown that an idealized form of magnetism is heatproof",
-      "https://www.quantamagazine.org/heat-destroys-all-order-except-for-in-this-one-special-case-20250116/"
     ]
   ],
   [
