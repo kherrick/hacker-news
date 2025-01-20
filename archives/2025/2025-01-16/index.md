@@ -27,6 +27,7 @@
 * [2025-01-16, 18:20:49](https://news.ycombinator.com/item?id=42728862) - [David Lynch has passed away](https://www.facebook.com/davidlynchofficial/posts/it-is-with-deep-regret-that-we-his-family-announce-the-passing-of-the-man-and-th/1179118190251944/)
 * [2025-01-16, 18:20:49](https://news.ycombinator.com/item?id=42728862) - [David Lynch has died](https://variety.com/2025/film/news/david-lynch-dead-director-blue-velvet-twin-peaks-1236276106/)
 * [2025-01-16, 18:09:36](https://news.ycombinator.com/item?id=42728717) - [Replit CEO on AI breakthroughs: We don't care about professional coders anymore](https://www.semafor.com/article/01/15/2025/replit-ceo-on-ai-breakthroughs-we-dont-care-about-professional-coders-anymore)
+* [2025-01-16, 18:08:16](https://news.ycombinator.com/item?id=42728692) - [Bunkers in Albania](https://en.wikipedia.org/wiki/Bunkers_in_Albania)
 * [2025-01-16, 17:55:13](https://news.ycombinator.com/item?id=42728513) - [Physicists have shown that an idealized form of magnetism is heatproof](https://www.quantamagazine.org/heat-destroys-all-order-except-for-in-this-one-special-case-20250116/)
 * [2025-01-16, 17:24:39](https://news.ycombinator.com/item?id=42728165) - [Same three bands appear in three different presentations with different labels](https://pubpeer.com/publications/323E84675EB2E849C56097D73D55FD#1)
 * [2025-01-16, 17:15:43](https://news.ycombinator.com/item?id=42728054) - [I am offering mentoring: In which I help you](https://dynomight.substack.com/p/mentoring)
