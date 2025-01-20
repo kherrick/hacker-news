@@ -8,6 +8,7 @@
 * [2025-01-20, 16:24:33](https://news.ycombinator.com/item?id=42770178) - [What is there left to believe in?](https://www.noahpinion.blog/p/what-is-there-left-to-believe-in)
 * [2025-01-20, 16:20:29](https://news.ycombinator.com/item?id=42770125) - [I'm Peter Roberts, immigration attorney, who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=42770125)
 * [2025-01-20, 15:53:31](https://news.ycombinator.com/item?id=42769871) - [Mixxx: GPL DJ Software](https://mixxx.org/)
+* [2025-01-20, 15:41:50](https://news.ycombinator.com/item?id=42769770) - [The deeper under the Earth's surface, the more species you can find](https://arstechnica.com/science/2025/01/life-is-thriving-in-the-subsurface-depths-of-earth/)
 * [2025-01-20, 15:23:29](https://news.ycombinator.com/item?id=42769591) - [Facebook, X, YouTube to do more against online hate speech, EU says](https://www.reuters.com/technology/facebook-x-youtube-do-more-against-online-hate-speech-eu-says-2025-01-20/)
 * [2025-01-20, 13:59:38](https://news.ycombinator.com/item?id=42768788) - [FOSDEM '25 Protest](https://drewdevault.com/2025/01/20/2025-01-20-FOSDEM-protest.html)
 * [2025-01-20, 13:50:58](https://news.ycombinator.com/item?id=42768703) - [I wrote a commercial game in C in 2025](https://www.cowleyforniastudios.com/2025/1/20/choosing-c)
