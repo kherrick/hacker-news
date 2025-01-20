@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-20, 16:20:29](https://news.ycombinator.com/item?id=42770125) - [I'm Peter Roberts, immigration attorney, who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=42770125)
 * [2025-01-20, 15:53:31](https://news.ycombinator.com/item?id=42769871) - [Mixxx: GPL DJ Software](https://mixxx.org/)
 * [2025-01-20, 12:37:58](https://news.ycombinator.com/item?id=42768072) - [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
 * [2025-01-20, 12:02:19](https://news.ycombinator.com/item?id=42767797) - [Celestial Navigation for Drones](https://www.mdpi.com/2504-446X/8/11/652)
@@ -9,7 +10,6 @@
 * [2025-01-20, 09:30:15](https://news.ycombinator.com/item?id=42766729) - [TypeScript enums: use cases and alternatives](https://2ality.com/2025/01/typescript-enum-patterns.html)
 * [2025-01-20, 08:21:16](https://news.ycombinator.com/item?id=42766205) - [Parinfer: Simpler Lisp Editing](https://shaunlebron.github.io/parinfer/)
 * [2025-01-20, 06:24:11](https://news.ycombinator.com/item?id=42765560) - [Show HN: Race Timing with Integrated Replay](https://storytiming.racing)
-* [2025-01-20, 06:09:32](https://news.ycombinator.com/item?id=42765480) - [What does \"supports DRM and may not be fully accessible\" mean for SATA SDDs?](https://unix.stackexchange.com/questions/789838/what-does-supports-drm-functions-and-may-not-be-fully-accessible-mean-for-sata)
 * [2025-01-20, 03:58:04](https://news.ycombinator.com/item?id=42764839) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/miUmVns-founding-engineer)
 * [2025-01-20, 03:08:49](https://news.ycombinator.com/item?id=42764602) - [Reverse Engineering Bambu Connect](https://wiki.rossmanngroup.com/wiki/Reverse_Engineering_Bambu_Connect)
 * [2025-01-20, 00:18:48](https://news.ycombinator.com/item?id=42763592) - [Two Hard Things (2009)](https://martinfowler.com/bliki/TwoHardThings.html)
@@ -23,12 +23,12 @@
 * [2025-01-18, 13:14:15](https://news.ycombinator.com/item?id=42748095) - [Show HN: Terraform Provider for Inexpensive Switches](https://github.com/brennoo/terraform-provider-hrui)
 * [2025-01-18, 01:29:41](https://news.ycombinator.com/item?id=42744957) - [Alligator Eggs and Lambda Calculus (2007)](https://worrydream.com/AlligatorEggs/)
 * [2025-01-17, 15:40:17](https://news.ycombinator.com/item?id=42738753) - [Rhai: An embedded scripting language for Rust](https://github.com/rhaiscript/rhai)
+* [2025-01-17, 13:48:50](https://news.ycombinator.com/item?id=42737472) - [The Charango](https://longreads.com/2025/01/16/the-charango/)
 * [2025-01-17, 00:00:17](https://news.ycombinator.com/item?id=42732533) - [Byzantine-Sassanian War (602-628 CE): The Last Great War of Antiquity (2023)](https://www.thecollector.com/byzantine-sassanian-war/)
 * [2025-01-16, 20:25:36](https://news.ycombinator.com/item?id=42730449) - [Divers recover Phoenician shipwreck that sank 2.6k years ago off coast of Spain](https://www.smithsonianmag.com/smart-news/divers-recover-ancient-shipwreck-that-sank-2600-years-ago-off-the-coast-of-spain-180985778/)
 * [2025-01-16, 19:07:47](https://news.ycombinator.com/item?id=42729488) - [Dutch Align with US Export Controls on Some ASML Chip Tools](https://www.bloomberg.com/news/articles/2025-01-15/dutch-align-with-us-export-controls-on-some-asml-chip-tools)
 * [2025-01-16, 17:01:34](https://news.ycombinator.com/item?id=42727832) - [JTAG 'Hacking' the Original Xbox in 2023](https://blog.ret2.io/2023/08/09/jtag-hacking-the-original-xbox-2023/)
 * [2025-01-16, 14:13:58](https://news.ycombinator.com/item?id=42725346) - [Groundwater Movement (Interactive)](https://has.concord.org/groundwater-movement.html)
-* [2025-01-16, 12:25:46](https://news.ycombinator.com/item?id=42724323) - [A physicist's guide to ice cream](https://physicsworld.com/a/a-physicists-guide-to-ice-cream-the-complex-science-behind-one-of-the-worlds-most-popular-desserts/)
 * [2025-01-16, 00:53:59](https://news.ycombinator.com/item?id=42719538) - [Chopstick sleeves as emissaries of Japanese typography and culture](https://letterformarchive.org/news/this-just-in-chopstick-sleeves-as-emissaries-of-japanese-typography-and-culture/)
 
 ## [Archives](archives/index.md)
