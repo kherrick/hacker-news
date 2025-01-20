@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-01-20](index.md)
 
+* [2025-01-20, 21:32:31](https://news.ycombinator.com/item?id=42773311) - [Matt Mullenweg, Automattic's CEO, Seems Bound and Determined to Wreck WordPress](https://digitalcxo.com/article/matt-mullenweg-automattics-ceo-seems-bound-and-determined-to-wreck-wordpress/)
 * [2025-01-20, 21:11:12](https://news.ycombinator.com/item?id=42773088) - [Falcon 9 Rocket Launch Scrubbed After Delta Air Flies into Restricted Airspace](https://www.paddleyourownkanoo.com/2025/01/19/spacex-scrubs-falcon-9-rocket-launch-with-just-11-seconds-to-go-after-delta-air-jet-flies-into-restricted-airspace/)
+* [2025-01-20, 20:38:08](https://news.ycombinator.com/item?id=42772771) - [Authors Seek Meta's Torrent Client Logs and Seeding Data in AI Piracy Probe](https://torrentfreak.com/authors-seek-metas-torrent-client-logs-and-seeding-data-in-ai-piracy-probe-250120/)
 * [2025-01-20, 20:06:55](https://news.ycombinator.com/item?id=42772518) - [The Making of Community Notes (2024)](https://asteriskmag.com/issues/08/the-making-of-community-notes)
 * [2025-01-20, 19:45:35](https://news.ycombinator.com/item?id=42772300) - [After Authenticity](https://subpixel.space/entries/after-authenticity/)
 * [2025-01-20, 19:38:45](https://news.ycombinator.com/item?id=42772247) - [Viagra-laced 'erectile honey' is flooding into France, officials warn](https://www.politico.eu/article/france-warns-of-viagra-laced-erectile-honey-flooding-into-the-country/)
