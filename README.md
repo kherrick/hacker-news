@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-20, 06:09:32](https://news.ycombinator.com/item?id=42765480) - [What does \"supports DRM functions and may not be fully accessible\"mean for SSDs?](https://unix.stackexchange.com/questions/789838/what-does-supports-drm-functions-and-may-not-be-fully-accessible-mean-for-sata)
 * [2025-01-20, 03:58:04](https://news.ycombinator.com/item?id=42764839) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/miUmVns-founding-engineer)
 * [2025-01-20, 03:08:49](https://news.ycombinator.com/item?id=42764602) - [Reverse Engineering Bambu Connect](https://wiki.rossmanngroup.com/wiki/Reverse_Engineering_Bambu_Connect)
 * [2025-01-20, 00:18:48](https://news.ycombinator.com/item?id=42763592) - [Two Hard Things (2009)](https://martinfowler.com/bliki/TwoHardThings.html)
@@ -26,7 +27,6 @@
 * [2025-01-16, 18:08:16](https://news.ycombinator.com/item?id=42728692) - [Bunkers in Albania](https://en.wikipedia.org/wiki/Bunkers_in_Albania)
 * [2025-01-16, 17:55:13](https://news.ycombinator.com/item?id=42728513) - [Physicists have shown that an idealized form of magnetism is heatproof](https://www.quantamagazine.org/heat-destroys-all-order-except-for-in-this-one-special-case-20250116/)
 * [2025-01-16, 17:01:34](https://news.ycombinator.com/item?id=42727832) - [JTAG 'Hacking' the Original Xbox in 2023](https://blog.ret2.io/2023/08/09/jtag-hacking-the-original-xbox-2023/)
-* [2025-01-16, 16:19:43](https://news.ycombinator.com/item?id=42727329) - [A generative model for inorganic materials design](https://www.nature.com/articles/s41586-025-08628-5)
 * [2025-01-16, 13:59:34](https://news.ycombinator.com/item?id=42725163) - [Build a Database in 3000 Lines with 0 Dependencies](https://build-your-own.org/blog/20251015_db_in_3000/)
 * [2025-01-16, 12:25:46](https://news.ycombinator.com/item?id=42724323) - [A physicist's guide to ice cream](https://physicsworld.com/a/a-physicists-guide-to-ice-cream-the-complex-science-behind-one-of-the-worlds-most-popular-desserts/)
 * [2025-01-16, 00:53:59](https://news.ycombinator.com/item?id=42719538) - [Chopstick sleeves as emissaries of Japanese typography and culture](https://letterformarchive.org/news/this-just-in-chopstick-sleeves-as-emissaries-of-japanese-typography-and-culture/)
