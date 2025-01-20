@@ -53,6 +53,7 @@
 * [2025-01-16, 14:37:18](https://news.ycombinator.com/item?id=42725731) - [Directory of job boards by category (remote only, data science, etc.)](https://www.jobsearchdb.com/)
 * [2025-01-16, 14:34:28](https://news.ycombinator.com/item?id=42725692) - [GitHub introduces sub-issues, issue types and advanced search](https://github.blog/changelog/2025-01-13-evolving-github-issues-public-preview/)
 * [2025-01-16, 14:17:31](https://news.ycombinator.com/item?id=42725385) - [No Calls](https://keygen.sh/blog/no-calls/)
+* [2025-01-16, 14:13:58](https://news.ycombinator.com/item?id=42725346) - [Groundwater Movement (Interactive)](https://has.concord.org/groundwater-movement.html)
 * [2025-01-16, 13:59:34](https://news.ycombinator.com/item?id=42725163) - [Build a Database in 3000 Lines with 0 Dependencies](https://build-your-own.org/blog/20251015_db_in_3000/)
 * [2025-01-16, 13:57:43](https://news.ycombinator.com/item?id=42725147) - [Nepenthes is a tarpit to catch AI web crawlers](https://zadzmo.org/code/nepenthes/)
 * [2025-01-16, 13:49:30](https://news.ycombinator.com/item?id=42725057) - [No Billionares at FOSDEM](https://drewdevault.com/2025/01/16/2025-01-16-No-Billionares-at-FOSDEM-please.html)
