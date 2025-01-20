@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-01-16, 20:32:58",
-      "https://news.ycombinator.com/item?id=42730512"
-    ],
-    [
-      "How hard would it be to display the contents of an image file on the screen?",
-      "https://wolf.nereid.pl/posts/image-viewer/"
-    ]
-  ],
-  [
-    [
       "2025-01-16, 20:25:36",
       "https://news.ycombinator.com/item?id=42730449"
     ],
@@ -257,6 +247,16 @@
     [
       "Physicists have shown that an idealized form of magnetism is heatproof",
       "https://www.quantamagazine.org/heat-destroys-all-order-except-for-in-this-one-special-case-20250116/"
+    ]
+  ],
+  [
+    [
+      "2025-01-16, 17:26:21",
+      "https://news.ycombinator.com/item?id=42728191"
+    ],
+    [
+      "Solving Fine Grained Authorization with Incremental Computation",
+      "https://www.feldera.com/blog/fine-grained-authorization"
     ]
   ],
   [
