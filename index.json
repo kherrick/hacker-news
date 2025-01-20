@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2025-01-19, 22:41:06",
-      "https://news.ycombinator.com/item?id=42762813"
-    ],
-    [
-      "Wildfires are erasing California's climate gains, research shows",
-      "https://news.uchicago.edu/story/wildfires-are-erasing-californias-climate-gains-research-shows"
-    ]
-  ],
-  [
-    [
       "2025-01-19, 21:39:21",
       "https://news.ycombinator.com/item?id=42762161"
     ],
@@ -207,6 +197,16 @@
     [
       "Robotics and ROS 2 Essentials",
       "https://henkirobotics.com/robotics-and-ros-2-essentials-course-announcement/"
+    ]
+  ],
+  [
+    [
+      "2025-01-17, 15:40:17",
+      "https://news.ycombinator.com/item?id=42738753"
+    ],
+    [
+      "Rhai: An embedded scripting language for Rust",
+      "https://github.com/rhaiscript/rhai"
     ]
   ],
   [
