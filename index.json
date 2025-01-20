@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-01-20, 12:02:19",
+      "https://news.ycombinator.com/item?id=42767797"
+    ],
+    [
+      "Celestial Navigation for Drones",
+      "https://www.mdpi.com/2504-446X/8/11/652"
+    ]
+  ],
+  [
+    [
       "2025-01-20, 11:33:15",
       "https://news.ycombinator.com/item?id=42767584"
     ],
@@ -27,6 +37,16 @@
     [
       "TypeScript enums: use cases and alternatives",
       "https://2ality.com/2025/01/typescript-enum-patterns.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-20, 09:20:17",
+      "https://news.ycombinator.com/item?id=42766637"
+    ],
+    [
+      "The real motivation behind systemd (2018)",
+      "https://unixdigest.com/articles/the-real-motivation-behind-systemd.html"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-01-19, 21:39:21",
-      "https://news.ycombinator.com/item?id=42762161"
-    ],
-    [
-      "Hacking the Yamaha DX9 to Turn It into a DX7 (2023)",
-      "https://ajxs.me/blog/Hacking_the_Yamaha_DX9_To_Turn_It_Into_a_DX7.html"
-    ]
-  ],
-  [
-    [
       "2025-01-19, 19:20:23",
       "https://news.ycombinator.com/item?id=42760620"
     ],
@@ -197,16 +207,6 @@
     [
       "Show HN: Terraform Provider for Inexpensive Switches",
       "https://github.com/brennoo/terraform-provider-hrui"
-    ]
-  ],
-  [
-    [
-      "2025-01-17, 22:52:17",
-      "https://news.ycombinator.com/item?id=42744106"
-    ],
-    [
-      "Robotics and ROS 2 Essentials",
-      "https://henkirobotics.com/robotics-and-ros-2-essentials-course-announcement/"
     ]
   ],
   [
