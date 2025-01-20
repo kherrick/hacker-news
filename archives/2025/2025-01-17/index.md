@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-17](index.md)
 
+* [2025-01-17, 23:31:49](https://news.ycombinator.com/item?id=42744357) - [Bioinspired weather-responsive adaptive shading](https://www.uni-stuttgart.de/en/university/news/all/Bioinspired-weather-responsive-adaptive-shading/)
 * [2025-01-17, 22:52:17](https://news.ycombinator.com/item?id=42744106) - [Robotics and ROS2 Course by University of Eastern Finland](https://henkirobotics.com/robotics-and-ros-2-essentials-course-announcement/)
 * [2025-01-17, 21:54:29](https://news.ycombinator.com/item?id=42743673) - [Swedish Exports of Ball Bearings](https://old.reddit.com/r/AskHistorians/comments/172wq05/swedish_exports_of_ball_bearings_are_commonly/)
 * [2025-01-17, 21:23:15](https://news.ycombinator.com/item?id=42743405) - [How do playing cards work? No one knows](https://www.polygon.com/videos/506918/playing-cards-history)

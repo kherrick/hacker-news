@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-20](index.md)
 
 * [2025-01-20, 23:07:54](https://news.ycombinator.com/item?id=42774228) - [An Astronomical View of Ancient Egyptian Star Clocks (2021)](https://storymaps.arcgis.com/stories/eea3fbc9c05b40948563ffd0ccfab59d)
+* [2025-01-20, 23:07:10](https://news.ycombinator.com/item?id=42774221) - [Reverse Engineering Call of Duty Anti-Cheat](https://ssno.cc/posts/reversing-tac-1-4-2025/)
 * [2025-01-20, 22:26:27](https://news.ycombinator.com/item?id=42773831) - [US safety regulators expand Ford hands-free driving tech investigation](https://techcrunch.com/2025/01/20/us-safety-regulators-expand-ford-hands-free-driving-tech-investigation/)
 * [2025-01-20, 22:11:19](https://news.ycombinator.com/item?id=42773693) - [The Selma March (1965)](https://www.newyorker.com/magazine/1965/04/10/letter-from-selma)
 * [2025-01-20, 22:10:50](https://news.ycombinator.com/item?id=42773690) - [DeepSeek-R1-Distill-Qwen-1.5B Surpasses GPT-4o in certain benchmarks](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B)
