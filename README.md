@@ -17,7 +17,6 @@
 * [2025-01-19, 23:52:13](https://news.ycombinator.com/item?id=42763386) - [UK's hardware talent is being wasted](https://josef.cn/blog/uk-talent)
 * [2025-01-19, 22:56:41](https://news.ycombinator.com/item?id=42762962) - [How do interruptions impact different software engineering activities](https://rdel.substack.com/p/rdel-75-how-do-interruptions-impact)
 * [2025-01-19, 19:20:23](https://news.ycombinator.com/item?id=42760620) - [Why is Git Autocorrect too fast for Formula One drivers?](https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/)
-* [2025-01-19, 18:01:42](https://news.ycombinator.com/item?id=42759557) - [Using your Apple device as an access card in unsupported systems](https://github.com/kormax/apple-device-as-access-card)
 * [2025-01-19, 17:42:44](https://news.ycombinator.com/item?id=42759336) - [TikTok says it is restoring service for U.S. users](https://www.nbcnews.com/tech/tech-news/tiktok-says-restoring-service-us-users-rcna188320)
 * [2025-01-18, 13:14:15](https://news.ycombinator.com/item?id=42748095) - [Show HN: Terraform Provider for Inexpensive Switches](https://github.com/brennoo/terraform-provider-hrui)
 * [2025-01-18, 01:29:41](https://news.ycombinator.com/item?id=42744957) - [Alligator Eggs and Lambda Calculus (2007)](https://worrydream.com/AlligatorEggs/)
@@ -29,6 +28,7 @@
 * [2025-01-16, 19:07:47](https://news.ycombinator.com/item?id=42729488) - [Dutch Align with US Export Controls on Some ASML Chip Tools](https://www.bloomberg.com/news/articles/2025-01-15/dutch-align-with-us-export-controls-on-some-asml-chip-tools)
 * [2025-01-16, 17:01:34](https://news.ycombinator.com/item?id=42727832) - [JTAG 'Hacking' the Original Xbox in 2023](https://blog.ret2.io/2023/08/09/jtag-hacking-the-original-xbox-2023/)
 * [2025-01-16, 14:13:58](https://news.ycombinator.com/item?id=42725346) - [Groundwater Movement (Interactive)](https://has.concord.org/groundwater-movement.html)
+* [2025-01-16, 12:25:46](https://news.ycombinator.com/item?id=42724323) - [A physicist's guide to ice cream](https://physicsworld.com/a/a-physicists-guide-to-ice-cream-the-complex-science-behind-one-of-the-worlds-most-popular-desserts/)
 * [2025-01-16, 00:53:59](https://news.ycombinator.com/item?id=42719538) - [Chopstick sleeves as emissaries of Japanese typography and culture](https://letterformarchive.org/news/this-just-in-chopstick-sleeves-as-emissaries-of-japanese-typography-and-culture/)
 
 ## [Archives](archives/index.md)
