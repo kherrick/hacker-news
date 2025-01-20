@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-01-20](index.md)
 
+* [2025-01-20, 20:06:55](https://news.ycombinator.com/item?id=42772518) - [The Making of Community Notes (2024)](https://asteriskmag.com/issues/08/the-making-of-community-notes)
+* [2025-01-20, 19:45:35](https://news.ycombinator.com/item?id=42772300) - [After Authenticity](https://subpixel.space/entries/after-authenticity/)
 * [2025-01-20, 19:31:03](https://news.ycombinator.com/item?id=42772170) - [ROCm Device Support Wishlist #4276](https://github.com/ROCm/ROCm/discussions/4276)
 * [2025-01-20, 19:03:29](https://news.ycombinator.com/item?id=42771885) - [Show HN: SupGen, an model-free program synthesizer by examples / dependent types](https://www.youtube.com/watch?v=bEP88ucXga)
 * [2025-01-20, 18:40:45](https://news.ycombinator.com/item?id=42771676) - [I Am (Not) a Failure: Lessons Learned from Six Failed Startup Attempts](http://blog.rongarret.info/2025/01/i-am-not-failure-lessons-learned-from.html)
 * [2025-01-20, 18:13:48](https://news.ycombinator.com/item?id=42771413) - [Seeking an IPL-V Interpreter](https://news.ycombinator.com/item?id=42771413)
 * [2025-01-20, 17:32:52](https://news.ycombinator.com/item?id=42770986) - [Frustration Tolerance: An Essential for Surviving Large Orgs](https://www.leadingsapiens.com/frustration-tolerance/)
+* [2025-01-20, 17:02:11](https://news.ycombinator.com/item?id=42770629) - [YC X25, the spring 2025 batch](https://www.ycombinator.com/blog/announcing-yc-x25/)
 * [2025-01-20, 16:56:48](https://news.ycombinator.com/item?id=42770561) - [The AI Bubble Is Bursting](https://matduggan.com/the-ai-bubble-is-bursting/)
 * [2025-01-20, 16:44:44](https://news.ycombinator.com/item?id=42770421) - [Suspects allegedly posing as firefighters in Palisades had fake fire engine](https://ktla.com/news/local-news/suspects-allegedly-posing-as-firefighters-in-palisades-had-fake-fire-engine/)
 * [2025-01-20, 16:27:22](https://news.ycombinator.com/item?id=42770200) - [Show HN: Personalized Duolingo (Kind of) for Vocabulary Building](https://github.com/baturyilmaz/wordpecker-app)
@@ -18,6 +21,7 @@
 * [2025-01-20, 15:41:50](https://news.ycombinator.com/item?id=42769770) - [The deeper under the Earth's surface, the more species you can find](https://arstechnica.com/science/2025/01/life-is-thriving-in-the-subsurface-depths-of-earth/)
 * [2025-01-20, 15:40:20](https://news.ycombinator.com/item?id=42769751) - [The quiet rebellion of a little life](https://caitlynrichardson.substack.com/p/the-quiet-rebellion-of-a-little-life)
 * [2025-01-20, 15:23:29](https://news.ycombinator.com/item?id=42769591) - [Facebook, X, YouTube to do more against online hate speech, EU says](https://www.reuters.com/technology/facebook-x-youtube-do-more-against-online-hate-speech-eu-says-2025-01-20/)
+* [2025-01-20, 14:53:45](https://news.ycombinator.com/item?id=42769325) - [Reverse engineering my #1 Hacker News article](https://danielwirtz.com/blog/successful-hacker-news-article)
 * [2025-01-20, 14:17:57](https://news.ycombinator.com/item?id=42768966) - [Show HN: I wrote a book about running great SaaS technical sales calls](https://news.ycombinator.com/item?id=42768966)
 * [2025-01-20, 13:59:38](https://news.ycombinator.com/item?id=42768788) - [FOSDEM '25 Protest](https://drewdevault.com/2025/01/20/2025-01-20-FOSDEM-protest.html)
 * [2025-01-20, 13:50:58](https://news.ycombinator.com/item?id=42768703) - [I wrote a commercial game in C in 2025](https://www.cowleyforniastudios.com/2025/1/20/choosing-c)
