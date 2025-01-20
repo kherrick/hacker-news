@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-20](index.md)
 
+* [2025-01-20, 16:24:33](https://news.ycombinator.com/item?id=42770178) - [What is there left to believe in?](https://www.noahpinion.blog/p/what-is-there-left-to-believe-in)
 * [2025-01-20, 16:20:29](https://news.ycombinator.com/item?id=42770125) - [I'm Peter Roberts, immigration attorney, who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=42770125)
 * [2025-01-20, 15:53:31](https://news.ycombinator.com/item?id=42769871) - [Mixxx: GPL DJ Software](https://mixxx.org/)
 * [2025-01-20, 15:23:29](https://news.ycombinator.com/item?id=42769591) - [Facebook, X, YouTube to do more against online hate speech, EU says](https://www.reuters.com/technology/facebook-x-youtube-do-more-against-online-hate-speech-eu-says-2025-01-20/)
@@ -13,6 +14,7 @@
 * [2025-01-20, 12:34:47](https://news.ycombinator.com/item?id=42768046) - [You don't need a JavaScript framework to build websites](https://velocity-core.etribes.de/)
 * [2025-01-20, 12:02:19](https://news.ycombinator.com/item?id=42767797) - [Celestial Navigation for Drones](https://www.mdpi.com/2504-446X/8/11/652)
 * [2025-01-20, 11:33:15](https://news.ycombinator.com/item?id=42767584) - [Using eSIMs with devices that only have a physical SIM slot via a 9eSIM SIM car](https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/)
+* [2025-01-20, 11:20:02](https://news.ycombinator.com/item?id=42767507) - [I Met Paul Graham Once](http://okayfail.com/2025/i-met-pg-once.html)
 * [2025-01-20, 10:23:31](https://news.ycombinator.com/item?id=42767132) - [Zork: The Great Inner Workings (2020)](https://medium.com/swlh/zork-the-great-inner-workings-b68012952bdc)
 * [2025-01-20, 10:16:16](https://news.ycombinator.com/item?id=42767076) - [CFRS[] Community Demos: Patterns drawn with turtle graphics with 6 commands](https://susam.github.io/cfrs/demo.html)
 * [2025-01-20, 09:41:39](https://news.ycombinator.com/item?id=42766825) - [Where Do Those Undergraduate Divisibility Problems Come From?](https://grossack.site/2025/01/16/undergrad-divisibility-problems.html)
