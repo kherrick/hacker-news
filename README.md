@@ -2,6 +2,7 @@
 
 * [2025-01-20, 09:30:15](https://news.ycombinator.com/item?id=42766729) - [TypeScript enums: use cases and alternatives](https://2ality.com/2025/01/typescript-enum-patterns.html)
 * [2025-01-20, 08:53:12](https://news.ycombinator.com/item?id=42766437) - [Don't use Session – Round 2](https://soatok.blog/2025/01/20/session-round-2/)
+* [2025-01-20, 08:21:16](https://news.ycombinator.com/item?id=42766205) - [Parinfer: Simpler Lisp Editing](https://shaunlebron.github.io/parinfer/)
 * [2025-01-20, 06:09:32](https://news.ycombinator.com/item?id=42765480) - [What does \"supports DRM and may not be fully accessible\" mean for SATA SDDs?](https://unix.stackexchange.com/questions/789838/what-does-supports-drm-functions-and-may-not-be-fully-accessible-mean-for-sata)
 * [2025-01-20, 03:58:04](https://news.ycombinator.com/item?id=42764839) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/miUmVns-founding-engineer)
 * [2025-01-20, 03:41:27](https://news.ycombinator.com/item?id=42764762) - [I'll think twice before using GitHub Actions again](https://ninkovic.dev/blog/2025/think-twice-before-using-github-actions)
@@ -24,7 +25,6 @@
 * [2025-01-16, 20:25:36](https://news.ycombinator.com/item?id=42730449) - [Divers recover Phoenician shipwreck that sank 2.6k years ago off coast of Spain](https://www.smithsonianmag.com/smart-news/divers-recover-ancient-shipwreck-that-sank-2600-years-ago-off-the-coast-of-spain-180985778/)
 * [2025-01-16, 18:17:32](https://news.ycombinator.com/item?id=42728825) - [Designing the Sublime Boullée and Ledoux's Architectural Revolution](https://publicdomainreview.org/essay/designing-the-sublime/)
 * [2025-01-16, 18:08:16](https://news.ycombinator.com/item?id=42728692) - [Bunkers in Albania](https://en.wikipedia.org/wiki/Bunkers_in_Albania)
-* [2025-01-16, 17:55:13](https://news.ycombinator.com/item?id=42728513) - [Physicists have shown that an idealized form of magnetism is heatproof](https://www.quantamagazine.org/heat-destroys-all-order-except-for-in-this-one-special-case-20250116/)
 * [2025-01-16, 17:44:59](https://news.ycombinator.com/item?id=42728392) - [Blinkenlights](https://en.wikipedia.org/wiki/Blinkenlights)
 * [2025-01-16, 17:01:34](https://news.ycombinator.com/item?id=42727832) - [JTAG 'Hacking' the Original Xbox in 2023](https://blog.ret2.io/2023/08/09/jtag-hacking-the-original-xbox-2023/)
 * [2025-01-16, 13:59:34](https://news.ycombinator.com/item?id=42725163) - [Build a Database in 3000 Lines with 0 Dependencies](https://build-your-own.org/blog/20251015_db_in_3000/)
