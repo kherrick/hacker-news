@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-20, 19:31:03](https://news.ycombinator.com/item?id=42772170) - [ROCm Device Support Wishlist #4276](https://github.com/ROCm/ROCm/discussions/4276)
 * [2025-01-20, 19:03:29](https://news.ycombinator.com/item?id=42771885) - [Show HN: SupGen, an model-free program synthesizer by examples / dependent types](https://www.youtube.com/watch?v=bEP88ucXga)
 * [2025-01-20, 18:40:45](https://news.ycombinator.com/item?id=42771676) - [I am (not) a failure: Lessons learned from six failed startup attempts](http://blog.rongarret.info/2025/01/i-am-not-failure-lessons-learned-from.html)
 * [2025-01-20, 18:13:48](https://news.ycombinator.com/item?id=42771413) - [Seeking an IPL-V Interpreter](https://news.ycombinator.com/item?id=42771413)
@@ -27,7 +28,6 @@
 * [2025-01-17, 15:40:17](https://news.ycombinator.com/item?id=42738753) - [Rhai: An embedded scripting language for Rust](https://github.com/rhaiscript/rhai)
 * [2025-01-17, 00:00:17](https://news.ycombinator.com/item?id=42732533) - [Byzantine-Sassanian War (602-628 CE): The Last Great War of Antiquity (2023)](https://www.thecollector.com/byzantine-sassanian-war/)
 * [2025-01-16, 22:13:56](https://news.ycombinator.com/item?id=42731588) - [Slugs on a Cube: An Interactive Animation](https://blog.gingerbeardman.com/2025/01/16/slugs-on-a-cube-interactive-animation/)
-* [2025-01-16, 20:25:36](https://news.ycombinator.com/item?id=42730449) - [Divers recover Phoenician shipwreck that sank 2.6k years ago off coast of Spain](https://www.smithsonianmag.com/smart-news/divers-recover-ancient-shipwreck-that-sank-2600-years-ago-off-the-coast-of-spain-180985778/)
 * [2025-01-16, 19:07:47](https://news.ycombinator.com/item?id=42729488) - [Dutch Align with US Export Controls on Some ASML Chip Tools](https://www.bloomberg.com/news/articles/2025-01-15/dutch-align-with-us-export-controls-on-some-asml-chip-tools)
 * [2025-01-16, 14:13:58](https://news.ycombinator.com/item?id=42725346) - [Groundwater Movement (Interactive)](https://has.concord.org/groundwater-movement.html)
 
