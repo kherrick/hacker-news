@@ -53,3 +53,4 @@
 * [2025-01-17, 02:52:47](https://news.ycombinator.com/item?id=42733593) - [Alignment faking in large language models](https://www.lesswrong.com/posts/njAZwT8nkHnjipJku/alignment-faking-in-large-language-models)
 * [2025-01-17, 00:32:06](https://news.ycombinator.com/item?id=42732728) - [Is the World Becoming Uninsurable?](https://charleshughsmith.substack.com/p/is-the-world-becoming-uninsurable)
 * [2025-01-17, 00:30:27](https://news.ycombinator.com/item?id=42732714) - [Firebase bill is usually $50, but I was surprised to see a $70k bill in one day](https://twitter.com/tamarajtran/status/1880036092906467841)
+* [2025-01-17, 00:00:17](https://news.ycombinator.com/item?id=42732533) - [Byzantine-Sassanian War (602-628 CE): The Last Great War of Antiquity](https://www.thecollector.com/byzantine-sassanian-war/)
