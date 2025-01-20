@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-20](index.md)
 
+* [2025-01-20, 19:03:29](https://news.ycombinator.com/item?id=42771885) - [Show HN: SupGen, an model-free program synthesizer by examples / dependent types](https://www.youtube.com/watch?v=bEP88ucXga)
 * [2025-01-20, 18:40:45](https://news.ycombinator.com/item?id=42771676) - [I Am (Not) a Failure: Lessons Learned from Six Failed Startup Attempts](http://blog.rongarret.info/2025/01/i-am-not-failure-lessons-learned-from.html)
 * [2025-01-20, 18:13:48](https://news.ycombinator.com/item?id=42771413) - [Seeking an IPL-V Interpreter](https://news.ycombinator.com/item?id=42771413)
 * [2025-01-20, 17:32:52](https://news.ycombinator.com/item?id=42770986) - [Frustration Tolerance: An Essential for Surviving Large Orgs](https://www.leadingsapiens.com/frustration-tolerance/)
