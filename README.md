@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-20, 21:47:44](https://news.ycombinator.com/item?id=42773442) - [Bambu Lab - Setting the Record Straight About Our Security Update](https://blog.bambulab.com/updates-and-third-party-integration-with-bambu-connect/)
 * [2025-01-20, 21:11:12](https://news.ycombinator.com/item?id=42773088) - [Falcon 9 Rocket Launch Scrubbed After Delta Air Flies into Restricted Airspace](https://www.paddleyourownkanoo.com/2025/01/19/spacex-scrubs-falcon-9-rocket-launch-with-just-11-seconds-to-go-after-delta-air-jet-flies-into-restricted-airspace/)
 * [2025-01-20, 20:38:08](https://news.ycombinator.com/item?id=42772771) - [Authors Seek Meta's Torrent Client Logs and Seeding Data in AI Piracy Probe](https://torrentfreak.com/authors-seek-metas-torrent-client-logs-and-seeding-data-in-ai-piracy-probe-250120/)
 * [2025-01-20, 20:06:55](https://news.ycombinator.com/item?id=42772518) - [The Making of Community Notes (2024)](https://asteriskmag.com/issues/08/the-making-of-community-notes)
-* [2025-01-20, 19:45:35](https://news.ycombinator.com/item?id=42772300) - [After Authenticity (2018)](https://subpixel.space/entries/after-authenticity/)
 * [2025-01-20, 19:31:03](https://news.ycombinator.com/item?id=42772170) - [ROCm Device Support Wishlist](https://github.com/ROCm/ROCm/discussions/4276)
 * [2025-01-20, 18:40:45](https://news.ycombinator.com/item?id=42771676) - [I am (not) a failure: Lessons learned from six failed startup attempts](http://blog.rongarret.info/2025/01/i-am-not-failure-lessons-learned-from.html)
 * [2025-01-20, 17:02:11](https://news.ycombinator.com/item?id=42770629) - [YC X25, the spring 2025 batch](https://www.ycombinator.com/blog/announcing-yc-x25/)
