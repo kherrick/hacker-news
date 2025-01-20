@@ -1,22 +1,42 @@
 [
   [
     [
-      "2025-01-19, 23:52:13",
-      "https://news.ycombinator.com/item?id=42763386"
+      "2025-01-20, 01:56:11",
+      "https://news.ycombinator.com/item?id=42764185"
     ],
     [
-      "UK's elite hardware talent is being wasted",
-      "https://josef.cn/blog/uk-talent"
+      "Ask HN: Is anyone making money selling traditional downloadable software?",
+      "https://news.ycombinator.com/item?id=42764185"
     ]
   ],
   [
     [
-      "2025-01-19, 23:28:51",
-      "https://news.ycombinator.com/item?id=42763240"
+      "2025-01-20, 01:46:24",
+      "https://news.ycombinator.com/item?id=42764108"
     ],
     [
-      "Invisible Epidemic: The Loneliness Epidemic",
-      "https://pudding.cool/2023/09/invisible-epidemic/"
+      "F-Droid Security Issues",
+      "https://privsec.dev/posts/android/f-droid-security-issues/"
+    ]
+  ],
+  [
+    [
+      "2025-01-20, 00:18:48",
+      "https://news.ycombinator.com/item?id=42763592"
+    ],
+    [
+      "Two Hard Things (2009)",
+      "https://martinfowler.com/bliki/TwoHardThings.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-19, 23:52:13",
+      "https://news.ycombinator.com/item?id=42763386"
+    ],
+    [
+      "UK's hardware talent is being wasted",
+      "https://josef.cn/blog/uk-talent"
     ]
   ],
   [
@@ -25,18 +45,8 @@
       "https://news.ycombinator.com/item?id=42763231"
     ],
     [
-      "OpenAI funded FrontierMath Benchmarks and had access to the set",
+      "FrontierMath was funded by OpenAI",
       "https://www.lesswrong.com/posts/cu2E8wgmbdZbqeWqb/meemi-s-shortform"
-    ]
-  ],
-  [
-    [
-      "2025-01-19, 23:19:52",
-      "https://news.ycombinator.com/item?id=42763167"
-    ],
-    [
-      "Staffers unload on Amazon 'leadership' after return-to-office for desk shortage",
-      "https://www.msn.com/en-us/money/companies/staffers-unload-on-amazon-leadership-after-return-to-office-plagued-by-thefts-lack-of-parking-and-a-desk-shortage-report/ar-AA1xodwf"
     ]
   ],
   [
@@ -77,16 +87,6 @@
     [
       "All Lisp indentation schemes are ugly",
       "https://aartaka.me/lisp-indent.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-19, 21:27:53",
-      "https://news.ycombinator.com/item?id=42762054"
-    ],
-    [
-      "Please don't force dark mode",
-      "https://iamvishnu.com/posts/please-dont-force-dark-mode"
     ]
   ],
   [
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=42758807"
     ],
     [
-      "GauntletAI (YC S17) will fly you out, train you to build w AI, give you 200k job",
+      "Gauntlet AI (YC S17) is training AI engineers and hiring them in Austin",
       "https://gauntletai.com"
     ]
   ],
@@ -171,32 +171,12 @@
   ],
   [
     [
-      "2025-01-19, 13:30:18",
-      "https://news.ycombinator.com/item?id=42756773"
-    ],
-    [
-      "Making glow-in-the-dark Strontium Aluminate",
-      "https://maurycyz.com/projects/strontium_aluminate/"
-    ]
-  ],
-  [
-    [
       "2025-01-19, 11:57:18",
       "https://news.ycombinator.com/item?id=42756286"
     ],
     [
       "The Fuzzing Book",
       "https://www.fuzzingbook.org/"
-    ]
-  ],
-  [
-    [
-      "2025-01-19, 08:43:07",
-      "https://news.ycombinator.com/item?id=42755173"
-    ],
-    [
-      "IsMyXFeedFucked – Analyze How Your X Feed's Impacting You",
-      "https://www.ismyxfeedfucked.com/"
     ]
   ],
   [
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2025-01-17, 22:52:17",
+      "https://news.ycombinator.com/item?id=42744106"
+    ],
+    [
+      "Robotics and ROS 2 Essentials",
+      "https://henkirobotics.com/robotics-and-ros-2-essentials-course-announcement/"
+    ]
+  ],
+  [
+    [
       "2025-01-16, 20:32:58",
       "https://news.ycombinator.com/item?id=42730512"
     ],
@@ -235,8 +225,18 @@
       "https://news.ycombinator.com/item?id=42730449"
     ],
     [
-      "Ancient Phoenician Shipwreck Recovered, Sank 2.6k Years Ago Off Coast of Spain",
+      "Divers recover Phoenician shipwreck that sank 2.6k years ago off coast of Spain",
       "https://www.smithsonianmag.com/smart-news/divers-recover-ancient-shipwreck-that-sank-2600-years-ago-off-the-coast-of-spain-180985778/"
+    ]
+  ],
+  [
+    [
+      "2025-01-16, 18:08:16",
+      "https://news.ycombinator.com/item?id=42728692"
+    ],
+    [
+      "Bunkers in Albania",
+      "https://en.wikipedia.org/wiki/Bunkers_in_Albania"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=42719538"
     ],
     [
-      "Chopstick Sleeves as Emissaries of Japanese Typography and Culture",
+      "Chopstick sleeves as emissaries of Japanese typography and culture",
       "https://letterformarchive.org/news/this-just-in-chopstick-sleeves-as-emissaries-of-japanese-typography-and-culture/"
     ]
   ]
