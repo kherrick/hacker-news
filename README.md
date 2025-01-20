@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-20, 09:30:15](https://news.ycombinator.com/item?id=42766729) - [TypeScript enums: use cases and alternatives](https://2ality.com/2025/01/typescript-enum-patterns.html)
 * [2025-01-20, 08:53:12](https://news.ycombinator.com/item?id=42766437) - [Don't use Session – Round 2](https://soatok.blog/2025/01/20/session-round-2/)
 * [2025-01-20, 06:09:32](https://news.ycombinator.com/item?id=42765480) - [What does \"supports DRM and may not be fully accessible\" mean for SATA SDDs?](https://unix.stackexchange.com/questions/789838/what-does-supports-drm-functions-and-may-not-be-fully-accessible-mean-for-sata)
 * [2025-01-20, 03:58:04](https://news.ycombinator.com/item?id=42764839) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/miUmVns-founding-engineer)
@@ -15,7 +16,6 @@
 * [2025-01-19, 18:38:36](https://news.ycombinator.com/item?id=42760054) - [Why Twitter is such a big deal (2009)](https://paulgraham.com/twitter.html)
 * [2025-01-19, 18:01:42](https://news.ycombinator.com/item?id=42759557) - [Using your Apple device as an access card in unsupported systems](https://github.com/kormax/apple-device-as-access-card)
 * [2025-01-19, 17:42:44](https://news.ycombinator.com/item?id=42759336) - [TikTok says it is restoring service for U.S. users](https://www.nbcnews.com/tech/tech-news/tiktok-says-restoring-service-us-users-rcna188320)
-* [2025-01-19, 16:10:11](https://news.ycombinator.com/item?id=42758257) - [The surprising struggle to get a Unix Epoch time from a UTC string in C or C++](https://berthub.eu/articles/posts/how-to-get-a-unix-epoch-from-a-utc-date-time-string/)
 * [2025-01-19, 15:50:51](https://news.ycombinator.com/item?id=42758070) - [Build a tiny CA for your homelab with a Raspberry Pi](https://smallstep.com/blog/build-a-tiny-ca-with-raspberry-pi-yubikey/)
 * [2025-01-19, 11:57:18](https://news.ycombinator.com/item?id=42756286) - [The Fuzzing Book](https://www.fuzzingbook.org/)
 * [2025-01-18, 13:14:15](https://news.ycombinator.com/item?id=42748095) - [Show HN: Terraform Provider for Inexpensive Switches](https://github.com/brennoo/terraform-provider-hrui)
