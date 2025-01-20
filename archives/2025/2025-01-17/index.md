@@ -22,6 +22,7 @@
 * [2025-01-17, 16:53:55](https://news.ycombinator.com/item?id=42740183) - [Dr. TVAM – Inverse Rendering for Tomographic Volumetric Additive Manufacturing](https://github.com/rgl-epfl/drtvam)
 * [2025-01-17, 16:21:13](https://news.ycombinator.com/item?id=42739572) - [French modernists were alarmed, inspired by newspaper's voracious dynamism](https://aeon.co/essays/the-french-modernists-loathed-and-loved-the-mass-media-of-their-day)
 * [2025-01-17, 16:00:07](https://news.ycombinator.com/item?id=42739163) - [Selling the Collective: On Kevin Killian's \"Selected Amazon Reviews\"](https://www.clereviewofbooks.com/writing/kevin-killian-selling-the-collective)
+* [2025-01-17, 15:40:17](https://news.ycombinator.com/item?id=42738753) - [Rhai: An embedded scripting language for Rust](https://github.com/rhaiscript/rhai)
 * [2025-01-17, 15:36:01](https://news.ycombinator.com/item?id=42738656) - [Show HN: GUI for Editing Mermaid Class Diagrams](https://docs.mermaidchart.com/blog/posts/gui-for-editing-mermaid-class-diagrams)
 * [2025-01-17, 15:23:58](https://news.ycombinator.com/item?id=42738464) - [Supreme Court rules to uphold TikTok ban, setting stage for shutdown](https://www.cnbc.com/2025/01/17/supreme-court-rules-to-uphold-tiktok-ban.html)
 * [2025-01-17, 15:23:05](https://news.ycombinator.com/item?id=42738457) - [Skyvern Browser Agent 2.0: How We Reached State of the Art in Evals](https://blog.skyvern.com/skyvern-2-0-state-of-the-art-web-navigation-with-85-8-on-webvoyager-eval/)
