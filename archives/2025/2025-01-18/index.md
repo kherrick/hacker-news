@@ -51,6 +51,7 @@
 * [2025-01-18, 02:42:54](https://news.ycombinator.com/item?id=42745334) - [Can You Read This Cursive Handwriting? The National Archives Wants Your Help](https://www.smithsonianmag.com/smart-news/can-you-read-this-cursive-handwriting-the-national-archives-wants-your-help-180985833/)
 * [2025-01-18, 01:51:18](https://news.ycombinator.com/item?id=42745082) - [Is the TikTok Ban a Chance to Rethink the Whole Internet?](https://www.newyorker.com/news/annals-of-communications/is-the-tiktok-ban-a-chance-to-rethink-the-whole-internet)
 * [2025-01-18, 01:38:03](https://news.ycombinator.com/item?id=42745002) - [Under new law, cops bust famous cartoonist for AI-generated CSAM](https://arstechnica.com/tech-policy/2025/01/under-new-law-cops-bust-famous-cartoonist-for-ai-generated-child-sex-abuse-images/)
+* [2025-01-18, 01:29:41](https://news.ycombinator.com/item?id=42744957) - [Alligator Eggs and Lambda Calculus (2007)](https://worrydream.com/AlligatorEggs/)
 * [2025-01-18, 01:25:42](https://news.ycombinator.com/item?id=42744933) - [BYD just launched the largest car carrier to charge up its global EV ambitions](https://electrek.co/2025/01/17/byd-launches-worlds-largest-car-carrier-fuel-global-ev-takeover/)
 * [2025-01-18, 01:25:40](https://news.ycombinator.com/item?id=42744932) - [Portrait of the Hilbert Curve (2010)](https://corte.si/posts/code/hilbert/portrait/)
 * [2025-01-18, 01:00:04](https://news.ycombinator.com/item?id=42744820) - [Spellbrush (YC W18) Is Hiring Game Programmers (Anime SRPG/Tactics)](https://news.ycombinator.com/item?id=42744820)

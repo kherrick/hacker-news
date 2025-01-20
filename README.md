@@ -20,7 +20,7 @@
 * [2025-01-19, 17:42:44](https://news.ycombinator.com/item?id=42759336) - [TikTok says it is restoring service for U.S. users](https://www.nbcnews.com/tech/tech-news/tiktok-says-restoring-service-us-users-rcna188320)
 * [2025-01-19, 04:18:54](https://news.ycombinator.com/item?id=42753542) - [A Novel 'Kiss and Capture' Event Gave Pluto Its Largest Moon, Charon](https://www.smithsonianmag.com/smart-news/a-novel-kiss-and-capture-event-gave-pluto-its-largest-moon-charon-new-study-suggests-180985787/)
 * [2025-01-18, 13:14:15](https://news.ycombinator.com/item?id=42748095) - [Show HN: Terraform Provider for Inexpensive Switches](https://github.com/brennoo/terraform-provider-hrui)
-* [2025-01-17, 17:35:48](https://news.ycombinator.com/item?id=42740916) - [The Last Cowboy Boot Masters of El Paso](https://www.atlasobscura.com/articles/cowboy-boot-makers-el-paso-texas)
+* [2025-01-18, 01:29:41](https://news.ycombinator.com/item?id=42744957) - [Alligator Eggs and Lambda Calculus (2007)](https://worrydream.com/AlligatorEggs/)
 * [2025-01-17, 15:40:17](https://news.ycombinator.com/item?id=42738753) - [Rhai: An embedded scripting language for Rust](https://github.com/rhaiscript/rhai)
 * [2025-01-17, 00:00:17](https://news.ycombinator.com/item?id=42732533) - [Byzantine-Sassanian War (602-628 CE): The Last Great War of Antiquity (2023)](https://www.thecollector.com/byzantine-sassanian-war/)
 * [2025-01-16, 20:25:36](https://news.ycombinator.com/item?id=42730449) - [Divers recover Phoenician shipwreck that sank 2.6k years ago off coast of Spain](https://www.smithsonianmag.com/smart-news/divers-recover-ancient-shipwreck-that-sank-2600-years-ago-off-the-coast-of-spain-180985778/)
