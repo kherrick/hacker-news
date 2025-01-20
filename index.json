@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-20, 22:26:27",
+      "https://news.ycombinator.com/item?id=42773831"
+    ],
+    [
+      "US safety regulators expand Ford hands-free driving tech investigation",
+      "https://techcrunch.com/2025/01/20/us-safety-regulators-expand-ford-hands-free-driving-tech-investigation/"
+    ]
+  ],
+  [
+    [
       "2025-01-20, 22:11:19",
       "https://news.ycombinator.com/item?id=42773693"
     ],
@@ -61,12 +71,12 @@
   ],
   [
     [
-      "2025-01-20, 17:02:11",
-      "https://news.ycombinator.com/item?id=42770629"
+      "2025-01-20, 18:12:24",
+      "https://news.ycombinator.com/item?id=42771403"
     ],
     [
-      "YC X25, the spring 2025 batch",
-      "https://www.ycombinator.com/blog/announcing-yc-x25/"
+      "Kronotop: Redis-compatible, transactional document store backed by FoundationDB",
+      "https://github.com/kronotop/kronotop"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Reverse Engineering Bambu Connect",
       "https://wiki.rossmanngroup.com/wiki/Reverse_Engineering_Bambu_Connect"
-    ]
-  ],
-  [
-    [
-      "2025-01-19, 23:52:13",
-      "https://news.ycombinator.com/item?id=42763386"
-    ],
-    [
-      "UK's hardware talent is being wasted",
-      "https://josef.cn/blog/uk-talent"
     ]
   ],
   [
