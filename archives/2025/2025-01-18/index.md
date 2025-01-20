@@ -40,6 +40,7 @@
 * [2025-01-18, 11:07:24](https://news.ycombinator.com/item?id=42747515) - [FamiTracker free windows tracker for producing music for the NES/Famicom-systems](http://famitracker.com/)
 * [2025-01-18, 09:36:39](https://news.ycombinator.com/item?id=42747092) - [Google begins requiring JavaScript for Google Search](https://techcrunch.com/2025/01/17/google-begins-requiring-javascript-for-google-search/)
 * [2025-01-18, 09:31:45](https://news.ycombinator.com/item?id=42747065) - [Honest Ahmed](https://bugzilla.mozilla.org/show_bug.cgi?id=647959)
+* [2025-01-18, 08:56:11](https://news.ycombinator.com/item?id=42746889) - [The Greenland Shark, the Longest-Living Vertebrate on Earth (2017)](https://www.newyorker.com/tech/annals-of-technology/the-strange-and-gruesome-story-of-the-greenland-shark-the-longest-living-vertebrate-on-earth)
 * [2025-01-18, 08:16:17](https://news.ycombinator.com/item?id=42746752) - [Show HN: I made a mini golf in my lunch time](https://paper-golf.netlify.app/)
 * [2025-01-18, 08:01:20](https://news.ycombinator.com/item?id=42746682) - [Ask HN: Which RSS reader do you use?](https://news.ycombinator.com/item?id=42746682)
 * [2025-01-18, 07:09:15](https://news.ycombinator.com/item?id=42746506) - [ELIZA Reanimated](https://arxiv.org/abs/2501.06707)
