@@ -21,7 +21,7 @@
 * [2025-01-18, 00:53:06](https://news.ycombinator.com/item?id=42744785) - [A notification for you, Apple: There is no husband](https://techthings.cmail20.com/t/d-e-sjrttn-dykjyuhruh-r/)
 * [2025-01-17, 22:52:17](https://news.ycombinator.com/item?id=42744106) - [Robotics and ROS 2 Essentials](https://henkirobotics.com/robotics-and-ros-2-essentials-course-announcement/)
 * [2025-01-17, 15:40:17](https://news.ycombinator.com/item?id=42738753) - [Rhai: An embedded scripting language for Rust](https://github.com/rhaiscript/rhai)
-* [2025-01-17, 12:34:54](https://news.ycombinator.com/item?id=42736863) - [Twenty Questions with a Random Liar](https://11011110.github.io/blog/2025/01/16/twenty-questions-random.html)
+* [2025-01-16, 20:32:58](https://news.ycombinator.com/item?id=42730512) - [How hard would it be to display the contents of an image file on the screen?](https://wolf.nereid.pl/posts/image-viewer/)
 * [2025-01-16, 20:25:36](https://news.ycombinator.com/item?id=42730449) - [Divers recover Phoenician shipwreck that sank 2.6k years ago off coast of Spain](https://www.smithsonianmag.com/smart-news/divers-recover-ancient-shipwreck-that-sank-2600-years-ago-off-the-coast-of-spain-180985778/)
 * [2025-01-16, 18:08:16](https://news.ycombinator.com/item?id=42728692) - [Bunkers in Albania](https://en.wikipedia.org/wiki/Bunkers_in_Albania)
 * [2025-01-16, 17:55:13](https://news.ycombinator.com/item?id=42728513) - [Physicists have shown that an idealized form of magnetism is heatproof](https://www.quantamagazine.org/heat-destroys-all-order-except-for-in-this-one-special-case-20250116/)
