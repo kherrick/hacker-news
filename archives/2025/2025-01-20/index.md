@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-20](index.md)
 
+* [2025-01-20, 22:26:27](https://news.ycombinator.com/item?id=42773831) - [US safety regulators expand Ford hands-free driving tech investigation](https://techcrunch.com/2025/01/20/us-safety-regulators-expand-ford-hands-free-driving-tech-investigation/)
 * [2025-01-20, 22:11:19](https://news.ycombinator.com/item?id=42773693) - [The Selma March (1965)](https://www.newyorker.com/magazine/1965/04/10/letter-from-selma)
 * [2025-01-20, 21:47:44](https://news.ycombinator.com/item?id=42773442) - [Bambu Lab - Setting the Record Straight About Our Security Update](https://blog.bambulab.com/updates-and-third-party-integration-with-bambu-connect/)
 * [2025-01-20, 21:32:31](https://news.ycombinator.com/item?id=42773311) - [Matt Mullenweg, Automattic's CEO, Seems Bound and Determined to Wreck WordPress](https://digitalcxo.com/article/matt-mullenweg-automattics-ceo-seems-bound-and-determined-to-wreck-wordpress/)
@@ -16,6 +17,7 @@
 * [2025-01-20, 19:03:29](https://news.ycombinator.com/item?id=42771885) - [Show HN: SupGen, an model-free program synthesizer by examples / dependent types](https://www.youtube.com/watch?v=bEP88ucXga)
 * [2025-01-20, 18:40:45](https://news.ycombinator.com/item?id=42771676) - [I Am (Not) a Failure: Lessons Learned from Six Failed Startup Attempts](http://blog.rongarret.info/2025/01/i-am-not-failure-lessons-learned-from.html)
 * [2025-01-20, 18:13:48](https://news.ycombinator.com/item?id=42771413) - [Seeking an IPL-V Interpreter](https://news.ycombinator.com/item?id=42771413)
+* [2025-01-20, 18:12:24](https://news.ycombinator.com/item?id=42771403) - [Kronotop: Redis-compatible, transactional document store backed by FoundationDB](https://github.com/kronotop/kronotop)
 * [2025-01-20, 17:32:52](https://news.ycombinator.com/item?id=42770986) - [Frustration Tolerance: An Essential for Surviving Large Orgs](https://www.leadingsapiens.com/frustration-tolerance/)
 * [2025-01-20, 17:02:11](https://news.ycombinator.com/item?id=42770629) - [YC X25, the spring 2025 batch](https://www.ycombinator.com/blog/announcing-yc-x25/)
 * [2025-01-20, 16:56:48](https://news.ycombinator.com/item?id=42770561) - [The AI Bubble Is Bursting](https://matduggan.com/the-ai-bubble-is-bursting/)
