@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-01-20](index.md)
 
+* [2025-01-20, 13:59:38](https://news.ycombinator.com/item?id=42768788) - [FOSDEM '25 Protest](https://drewdevault.com/2025/01/20/2025-01-20-FOSDEM-protest.html)
+* [2025-01-20, 13:50:58](https://news.ycombinator.com/item?id=42768703) - [I wrote a commercial game in C in 2025](https://www.cowleyforniastudios.com/2025/1/20/choosing-c)
 * [2025-01-20, 12:37:58](https://news.ycombinator.com/item?id=42768072) - [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
 * [2025-01-20, 12:34:47](https://news.ycombinator.com/item?id=42768046) - [You don't need a JavaScript framework to build websites](https://velocity-core.etribes.de/)
 * [2025-01-20, 12:02:19](https://news.ycombinator.com/item?id=42767797) - [Celestial Navigation for Drones](https://www.mdpi.com/2504-446X/8/11/652)
 * [2025-01-20, 11:33:15](https://news.ycombinator.com/item?id=42767584) - [Using eSIMs with devices that only have a physical SIM slot via a 9eSIM SIM car](https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/)
+* [2025-01-20, 10:23:31](https://news.ycombinator.com/item?id=42767132) - [Zork: The Great Inner Workings (2020)](https://medium.com/swlh/zork-the-great-inner-workings-b68012952bdc)
 * [2025-01-20, 10:16:16](https://news.ycombinator.com/item?id=42767076) - [CFRS[] Community Demos: Patterns drawn with turtle graphics with 6 commands](https://susam.github.io/cfrs/demo.html)
 * [2025-01-20, 09:30:15](https://news.ycombinator.com/item?id=42766729) - [TypeScript enums: use cases and alternatives](https://2ality.com/2025/01/typescript-enum-patterns.html)
 * [2025-01-20, 09:29:54](https://news.ycombinator.com/item?id=42766725) - [Google serving sponsored link to Homebrew site clone with malware](https://twitter.com/ryanchenkie/status/1880730173634699393)
