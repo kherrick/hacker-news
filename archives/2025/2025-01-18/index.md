@@ -53,4 +53,5 @@
 * [2025-01-18, 01:25:42](https://news.ycombinator.com/item?id=42744933) - [BYD just launched the largest car carrier to charge up its global EV ambitions](https://electrek.co/2025/01/17/byd-launches-worlds-largest-car-carrier-fuel-global-ev-takeover/)
 * [2025-01-18, 01:25:40](https://news.ycombinator.com/item?id=42744932) - [Portrait of the Hilbert Curve (2010)](https://corte.si/posts/code/hilbert/portrait/)
 * [2025-01-18, 01:00:04](https://news.ycombinator.com/item?id=42744820) - [Spellbrush (YC W18) Is Hiring Game Programmers (Anime SRPG/Tactics)](https://news.ycombinator.com/item?id=42744820)
+* [2025-01-18, 00:53:06](https://news.ycombinator.com/item?id=42744785) - [A notification for you, Apple: There is no husband](https://techthings.cmail20.com/t/d-e-sjrttn-dykjyuhruh-r/)
 * [2025-01-18, 00:32:25](https://news.ycombinator.com/item?id=42744695) - [EFF Statement on U.S. Supreme Court's Decision to Uphold TikTok Ban](https://www.eff.org/deeplinks/2025/01/eff-statement-us-supreme-courts-decision-uphold-tiktok-ban)
