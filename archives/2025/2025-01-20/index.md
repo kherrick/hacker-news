@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-20](index.md)
 
+* [2025-01-20, 18:40:45](https://news.ycombinator.com/item?id=42771676) - [I Am (Not) a Failure: Lessons Learned from Six Failed Startup Attempts](http://blog.rongarret.info/2025/01/i-am-not-failure-lessons-learned-from.html)
 * [2025-01-20, 18:13:48](https://news.ycombinator.com/item?id=42771413) - [Seeking an IPL-V Interpreter](https://news.ycombinator.com/item?id=42771413)
 * [2025-01-20, 17:32:52](https://news.ycombinator.com/item?id=42770986) - [Frustration Tolerance: An Essential for Surviving Large Orgs](https://www.leadingsapiens.com/frustration-tolerance/)
 * [2025-01-20, 16:56:48](https://news.ycombinator.com/item?id=42770561) - [The AI Bubble Is Bursting](https://matduggan.com/the-ai-bubble-is-bursting/)
@@ -13,6 +14,7 @@
 * [2025-01-20, 16:20:29](https://news.ycombinator.com/item?id=42770125) - [I'm Peter Roberts, immigration attorney, who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=42770125)
 * [2025-01-20, 15:53:31](https://news.ycombinator.com/item?id=42769871) - [Mixxx: GPL DJ Software](https://mixxx.org/)
 * [2025-01-20, 15:41:50](https://news.ycombinator.com/item?id=42769770) - [The deeper under the Earth's surface, the more species you can find](https://arstechnica.com/science/2025/01/life-is-thriving-in-the-subsurface-depths-of-earth/)
+* [2025-01-20, 15:40:20](https://news.ycombinator.com/item?id=42769751) - [The quiet rebellion of a little life](https://caitlynrichardson.substack.com/p/the-quiet-rebellion-of-a-little-life)
 * [2025-01-20, 15:23:29](https://news.ycombinator.com/item?id=42769591) - [Facebook, X, YouTube to do more against online hate speech, EU says](https://www.reuters.com/technology/facebook-x-youtube-do-more-against-online-hate-speech-eu-says-2025-01-20/)
 * [2025-01-20, 14:17:57](https://news.ycombinator.com/item?id=42768966) - [Show HN: I wrote a book about running great SaaS technical sales calls](https://news.ycombinator.com/item?id=42768966)
 * [2025-01-20, 13:59:38](https://news.ycombinator.com/item?id=42768788) - [FOSDEM '25 Protest](https://drewdevault.com/2025/01/20/2025-01-20-FOSDEM-protest.html)
