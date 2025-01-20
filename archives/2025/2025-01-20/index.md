@@ -12,6 +12,7 @@
 * [2025-01-20, 11:33:15](https://news.ycombinator.com/item?id=42767584) - [Using eSIMs with devices that only have a physical SIM slot via a 9eSIM SIM car](https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/)
 * [2025-01-20, 10:23:31](https://news.ycombinator.com/item?id=42767132) - [Zork: The Great Inner Workings (2020)](https://medium.com/swlh/zork-the-great-inner-workings-b68012952bdc)
 * [2025-01-20, 10:16:16](https://news.ycombinator.com/item?id=42767076) - [CFRS[] Community Demos: Patterns drawn with turtle graphics with 6 commands](https://susam.github.io/cfrs/demo.html)
+* [2025-01-20, 09:41:39](https://news.ycombinator.com/item?id=42766825) - [Where Do Those Undergraduate Divisibility Problems Come From?](https://grossack.site/2025/01/16/undergrad-divisibility-problems.html)
 * [2025-01-20, 09:30:15](https://news.ycombinator.com/item?id=42766729) - [TypeScript enums: use cases and alternatives](https://2ality.com/2025/01/typescript-enum-patterns.html)
 * [2025-01-20, 09:29:54](https://news.ycombinator.com/item?id=42766725) - [Google serving sponsored link to Homebrew site clone with malware](https://twitter.com/ryanchenkie/status/1880730173634699393)
 * [2025-01-20, 09:28:59](https://news.ycombinator.com/item?id=42766715) - [Play your favourite retro games online](https://playclassic.games/games/)
