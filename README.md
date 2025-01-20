@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-20, 22:26:27](https://news.ycombinator.com/item?id=42773831) - [US safety regulators expand Ford hands-free driving tech investigation](https://techcrunch.com/2025/01/20/us-safety-regulators-expand-ford-hands-free-driving-tech-investigation/)
+* [2025-01-20, 23:07:54](https://news.ycombinator.com/item?id=42774228) - [An Astronomical View of Ancient Egyptian Star Clocks (2021)](https://storymaps.arcgis.com/stories/eea3fbc9c05b40948563ffd0ccfab59d)
 * [2025-01-20, 22:11:19](https://news.ycombinator.com/item?id=42773693) - [The Selma March (1965)](https://www.newyorker.com/magazine/1965/04/10/letter-from-selma)
-* [2025-01-20, 21:11:12](https://news.ycombinator.com/item?id=42773088) - [Falcon 9 Rocket Launch Scrubbed After Delta Air Flies into Restricted Airspace](https://www.paddleyourownkanoo.com/2025/01/19/spacex-scrubs-falcon-9-rocket-launch-with-just-11-seconds-to-go-after-delta-air-jet-flies-into-restricted-airspace/)
+* [2025-01-20, 22:10:50](https://news.ycombinator.com/item?id=42773690) - [DeepSeek-R1-Distill-Qwen-1.5B Surpasses GPT-4o in certain benchmarks](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B)
 * [2025-01-20, 20:38:08](https://news.ycombinator.com/item?id=42772771) - [Authors Seek Meta's Torrent Client Logs and Seeding Data in AI Piracy Probe](https://torrentfreak.com/authors-seek-metas-torrent-client-logs-and-seeding-data-in-ai-piracy-probe-250120/)
 * [2025-01-20, 19:31:03](https://news.ycombinator.com/item?id=42772170) - [ROCm Device Support Wishlist](https://github.com/ROCm/ROCm/discussions/4276)
 * [2025-01-20, 18:40:45](https://news.ycombinator.com/item?id=42771676) - [I am (not) a failure: Lessons learned from six failed startup attempts](http://blog.rongarret.info/2025/01/i-am-not-failure-lessons-learned-from.html)
@@ -25,9 +25,9 @@
 * [2025-01-18, 19:00:26](https://news.ycombinator.com/item?id=42750517) - [An effect system proposal for C2y](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3317.htm)
 * [2025-01-18, 08:56:11](https://news.ycombinator.com/item?id=42746889) - [The Greenland Shark, the Longest-Living Vertebrate on Earth (2017)](https://www.newyorker.com/tech/annals-of-technology/the-strange-and-gruesome-story-of-the-greenland-shark-the-longest-living-vertebrate-on-earth)
 * [2025-01-17, 13:40:33](https://news.ycombinator.com/item?id=42737401) - [Optical Fresnel zone plate flat lens: colored photoresist through I-line stepper](https://www.nature.com/articles/s41377-024-01725-6)
+* [2025-01-17, 03:56:40](https://news.ycombinator.com/item?id=42733905) - [Show HN: Play brick breaker using webcam and hand tracking (open source)](https://collidingscopes.github.io/manual-brick-breaker/)
 * [2025-01-17, 00:00:17](https://news.ycombinator.com/item?id=42732533) - [Byzantine-Sassanian War (602-628 CE): The Last Great War of Antiquity (2023)](https://www.thecollector.com/byzantine-sassanian-war/)
 * [2025-01-16, 22:13:56](https://news.ycombinator.com/item?id=42731588) - [Slugs on a Cube: An Interactive Animation](https://blog.gingerbeardman.com/2025/01/16/slugs-on-a-cube-interactive-animation/)
-* [2025-01-16, 19:07:47](https://news.ycombinator.com/item?id=42729488) - [Dutch Align with US Export Controls on Some ASML Chip Tools](https://www.bloomberg.com/news/articles/2025-01-15/dutch-align-with-us-export-controls-on-some-asml-chip-tools)
 * [2025-01-16, 18:08:16](https://news.ycombinator.com/item?id=42728692) - [Bunkers in Albania](https://en.wikipedia.org/wiki/Bunkers_in_Albania)
 * [2025-01-16, 14:13:58](https://news.ycombinator.com/item?id=42725346) - [Groundwater Movement (Interactive)](https://has.concord.org/groundwater-movement.html)
 
