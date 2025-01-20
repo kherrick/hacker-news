@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-19, 23:52:13",
+      "https://news.ycombinator.com/item?id=42763386"
+    ],
+    [
+      "UK's elite hardware talent is being wasted",
+      "https://josef.cn/blog/uk-talent"
+    ]
+  ],
+  [
+    [
+      "2025-01-19, 23:28:51",
+      "https://news.ycombinator.com/item?id=42763240"
+    ],
+    [
+      "Invisible Epidemic: The Loneliness Epidemic",
+      "https://pudding.cool/2023/09/invisible-epidemic/"
+    ]
+  ],
+  [
+    [
       "2025-01-19, 23:27:59",
       "https://news.ycombinator.com/item?id=42763231"
     ],
@@ -11,12 +31,32 @@
   ],
   [
     [
+      "2025-01-19, 23:19:52",
+      "https://news.ycombinator.com/item?id=42763167"
+    ],
+    [
+      "Staffers unload on Amazon 'leadership' after return-to-office for desk shortage",
+      "https://www.msn.com/en-us/money/companies/staffers-unload-on-amazon-leadership-after-return-to-office-plagued-by-thefts-lack-of-parking-and-a-desk-shortage-report/ar-AA1xodwf"
+    ]
+  ],
+  [
+    [
       "2025-01-19, 23:11:22",
       "https://news.ycombinator.com/item?id=42763095"
     ],
     [
       "It's time to make computing personal again",
       "https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again"
+    ]
+  ],
+  [
+    [
+      "2025-01-19, 22:56:41",
+      "https://news.ycombinator.com/item?id=42762962"
+    ],
+    [
+      "How do interruptions impact different software engineering activities",
+      "https://rdel.substack.com/p/rdel-75-how-do-interruptions-impact"
     ]
   ],
   [
@@ -67,6 +107,16 @@
     [
       "Why is Git Autocorrect too fast for Formula One drivers?",
       "https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/"
+    ]
+  ],
+  [
+    [
+      "2025-01-19, 18:38:36",
+      "https://news.ycombinator.com/item?id=42760054"
+    ],
+    [
+      "Why Twitter is such a big deal (2009)",
+      "https://paulgraham.com/twitter.html"
     ]
   ],
   [
@@ -131,32 +181,12 @@
   ],
   [
     [
-      "2025-01-19, 12:13:46",
-      "https://news.ycombinator.com/item?id=42756365"
-    ],
-    [
-      "About A comprehensive guide for Linux Network (Socket) programming",
-      "https://github.com/nguyenchiemminhvu/LinuxNetworkProgramming"
-    ]
-  ],
-  [
-    [
       "2025-01-19, 11:57:18",
       "https://news.ycombinator.com/item?id=42756286"
     ],
     [
       "The Fuzzing Book",
       "https://www.fuzzingbook.org/"
-    ]
-  ],
-  [
-    [
-      "2025-01-19, 08:56:35",
-      "https://news.ycombinator.com/item?id=42755251"
-    ],
-    [
-      "“The Traitors”, a reality TV show, offers a useful economics lesson",
-      "https://www.economist.com/finance-and-economics/2025/01/16/the-traitors-a-reality-tv-show-offers-a-useful-economics-lesson"
     ]
   ],
   [
@@ -191,46 +221,6 @@
   ],
   [
     [
-      "2025-01-19, 00:53:38",
-      "https://news.ycombinator.com/item?id=42752703"
-    ],
-    [
-      "We need to protect the protocol that runs Bluesky",
-      "https://www.technologyreview.com/2025/01/17/1110063/we-need-to-protect-the-protocol-that-runs-bluesky/"
-    ]
-  ],
-  [
-    [
-      "2025-01-18, 18:17:59",
-      "https://news.ycombinator.com/item?id=42750195"
-    ],
-    [
-      "VS Code Pets",
-      "https://github.com/tonybaloney/vscode-pets"
-    ]
-  ],
-  [
-    [
-      "2025-01-17, 22:52:17",
-      "https://news.ycombinator.com/item?id=42744106"
-    ],
-    [
-      "Robotics and ROS 2 Essentials",
-      "https://henkirobotics.com/robotics-and-ros-2-essentials-course-announcement/"
-    ]
-  ],
-  [
-    [
-      "2025-01-17, 12:46:08",
-      "https://news.ycombinator.com/item?id=42736968"
-    ],
-    [
-      "The Derelict (2015)",
-      "https://www.damninteresting.com/the-derelict/"
-    ]
-  ],
-  [
-    [
       "2025-01-16, 20:32:58",
       "https://news.ycombinator.com/item?id=42730512"
     ],
@@ -257,6 +247,16 @@
     [
       "Physicists have shown that an idealized form of magnetism is heatproof",
       "https://www.quantamagazine.org/heat-destroys-all-order-except-for-in-this-one-special-case-20250116/"
+    ]
+  ],
+  [
+    [
+      "2025-01-16, 17:01:34",
+      "https://news.ycombinator.com/item?id=42727832"
+    ],
+    [
+      "JTAG 'Hacking' the Original Xbox in 2023",
+      "https://blog.ret2.io/2023/08/09/jtag-hacking-the-original-xbox-2023/"
     ]
   ],
   [
