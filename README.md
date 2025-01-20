@@ -2,6 +2,7 @@
 
 * [2025-01-20, 20:06:55](https://news.ycombinator.com/item?id=42772518) - [The Making of Community Notes (2024)](https://asteriskmag.com/issues/08/the-making-of-community-notes)
 * [2025-01-20, 19:45:35](https://news.ycombinator.com/item?id=42772300) - [After Authenticity](https://subpixel.space/entries/after-authenticity/)
+* [2025-01-20, 19:38:45](https://news.ycombinator.com/item?id=42772247) - [Viagra-laced 'erectile honey' is flooding into France, officials warn](https://www.politico.eu/article/france-warns-of-viagra-laced-erectile-honey-flooding-into-the-country/)
 * [2025-01-20, 19:31:03](https://news.ycombinator.com/item?id=42772170) - [ROCm Device Support Wishlist #4276](https://github.com/ROCm/ROCm/discussions/4276)
 * [2025-01-20, 18:40:45](https://news.ycombinator.com/item?id=42771676) - [I am (not) a failure: Lessons learned from six failed startup attempts](http://blog.rongarret.info/2025/01/i-am-not-failure-lessons-learned-from.html)
 * [2025-01-20, 18:13:48](https://news.ycombinator.com/item?id=42771413) - [Seeking an IPL-V Interpreter](https://news.ycombinator.com/item?id=42771413)
@@ -26,7 +27,6 @@
 * [2025-01-18, 08:56:11](https://news.ycombinator.com/item?id=42746889) - [The Greenland Shark, the Longest-Living Vertebrate on Earth (2017)](https://www.newyorker.com/tech/annals-of-technology/the-strange-and-gruesome-story-of-the-greenland-shark-the-longest-living-vertebrate-on-earth)
 * [2025-01-18, 01:29:41](https://news.ycombinator.com/item?id=42744957) - [Alligator Eggs and Lambda Calculus (2007)](https://worrydream.com/AlligatorEggs/)
 * [2025-01-17, 15:40:17](https://news.ycombinator.com/item?id=42738753) - [Rhai: An embedded scripting language for Rust](https://github.com/rhaiscript/rhai)
-* [2025-01-17, 00:00:17](https://news.ycombinator.com/item?id=42732533) - [Byzantine-Sassanian War (602-628 CE): The Last Great War of Antiquity (2023)](https://www.thecollector.com/byzantine-sassanian-war/)
 * [2025-01-16, 22:13:56](https://news.ycombinator.com/item?id=42731588) - [Slugs on a Cube: An Interactive Animation](https://blog.gingerbeardman.com/2025/01/16/slugs-on-a-cube-interactive-animation/)
 * [2025-01-16, 19:07:47](https://news.ycombinator.com/item?id=42729488) - [Dutch Align with US Export Controls on Some ASML Chip Tools](https://www.bloomberg.com/news/articles/2025-01-15/dutch-align-with-us-export-controls-on-some-asml-chip-tools)
 * [2025-01-16, 14:13:58](https://news.ycombinator.com/item?id=42725346) - [Groundwater Movement (Interactive)](https://has.concord.org/groundwater-movement.html)
