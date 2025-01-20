@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-20, 03:08:49",
+      "https://news.ycombinator.com/item?id=42764602"
+    ],
+    [
+      "Reverse Engineering Bambu Connect",
+      "https://wiki.rossmanngroup.com/wiki/Reverse_Engineering_Bambu_Connect"
+    ]
+  ],
+  [
+    [
       "2025-01-20, 02:11:28",
       "https://news.ycombinator.com/item?id=42764277"
     ],
@@ -71,6 +81,16 @@
   ],
   [
     [
+      "2025-01-19, 22:41:06",
+      "https://news.ycombinator.com/item?id=42762813"
+    ],
+    [
+      "Wildfires are erasing California's climate gains, research shows",
+      "https://news.uchicago.edu/story/wildfires-are-erasing-californias-climate-gains-research-shows"
+    ]
+  ],
+  [
+    [
       "2025-01-19, 21:39:21",
       "https://news.ycombinator.com/item?id=42762161"
     ],
@@ -87,16 +107,6 @@
     [
       "All Lisp indentation schemes are ugly",
       "https://aartaka.me/lisp-indent.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-19, 20:07:23",
-      "https://news.ycombinator.com/item?id=42761219"
-    ],
-    [
-      "Escape the walled garden and algorithm black boxes with RSS feeds",
-      "https://www.johnwalker.nl/posts/escape-the-walled-garden-with-rss"
     ]
   ],
   [
@@ -191,22 +201,22 @@
   ],
   [
     [
-      "2025-01-19, 04:15:26",
-      "https://news.ycombinator.com/item?id=42753523"
-    ],
-    [
-      "Forgejo: A self-hosted lightweight software forge",
-      "https://forgejo.org/"
-    ]
-  ],
-  [
-    [
       "2025-01-17, 22:52:17",
       "https://news.ycombinator.com/item?id=42744106"
     ],
     [
       "Robotics and ROS 2 Essentials",
       "https://henkirobotics.com/robotics-and-ros-2-essentials-course-announcement/"
+    ]
+  ],
+  [
+    [
+      "2025-01-17, 12:34:54",
+      "https://news.ycombinator.com/item?id=42736863"
+    ],
+    [
+      "Twenty Questions with a Random Liar",
+      "https://11011110.github.io/blog/2025/01/16/twenty-questions-random.html"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "A generative model for inorganic materials design",
       "https://www.nature.com/articles/s41586-025-08628-5"
-    ]
-  ],
-  [
-    [
-      "2025-01-16, 14:34:28",
-      "https://news.ycombinator.com/item?id=42725692"
-    ],
-    [
-      "GitHub introduces sub-issues, issue types and advanced search",
-      "https://github.blog/changelog/2025-01-13-evolving-github-issues-public-preview/"
     ]
   ],
   [
