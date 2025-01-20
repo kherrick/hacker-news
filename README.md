@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-20, 02:11:28](https://news.ycombinator.com/item?id=42764277) - [Bambu Connect's Authentication X.509 Certificate and Private Key Extracted](https://hackaday.com/2025/01/19/bambu-connects-authentication-x-509-certificate-and-private-key-extracted/)
 * [2025-01-20, 01:56:11](https://news.ycombinator.com/item?id=42764185) - [Ask HN: Is anyone making money selling traditional downloadable software?](https://news.ycombinator.com/item?id=42764185)
-* [2025-01-20, 01:46:24](https://news.ycombinator.com/item?id=42764108) - [F-Droid Security Issues](https://privsec.dev/posts/android/f-droid-security-issues/)
 * [2025-01-20, 00:18:48](https://news.ycombinator.com/item?id=42763592) - [Two Hard Things (2009)](https://martinfowler.com/bliki/TwoHardThings.html)
 * [2025-01-19, 23:52:13](https://news.ycombinator.com/item?id=42763386) - [UK's hardware talent is being wasted](https://josef.cn/blog/uk-talent)
 * [2025-01-19, 23:27:59](https://news.ycombinator.com/item?id=42763231) - [FrontierMath was funded by OpenAI](https://www.lesswrong.com/posts/cu2E8wgmbdZbqeWqb/meemi-s-shortform)
