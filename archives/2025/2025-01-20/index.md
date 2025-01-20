@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-20](index.md)
 
+* [2025-01-20, 15:53:31](https://news.ycombinator.com/item?id=42769871) - [Mixxx: GPL DJ Software](https://mixxx.org/)
 * [2025-01-20, 15:23:29](https://news.ycombinator.com/item?id=42769591) - [Facebook, X, YouTube to do more against online hate speech, EU says](https://www.reuters.com/technology/facebook-x-youtube-do-more-against-online-hate-speech-eu-says-2025-01-20/)
 * [2025-01-20, 13:59:38](https://news.ycombinator.com/item?id=42768788) - [FOSDEM '25 Protest](https://drewdevault.com/2025/01/20/2025-01-20-FOSDEM-protest.html)
 * [2025-01-20, 13:50:58](https://news.ycombinator.com/item?id=42768703) - [I wrote a commercial game in C in 2025](https://www.cowleyforniastudios.com/2025/1/20/choosing-c)

@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-20, 15:23:29](https://news.ycombinator.com/item?id=42769591) - [Facebook, X, YouTube to do more against online hate speech, EU says](https://www.reuters.com/technology/facebook-x-youtube-do-more-against-online-hate-speech-eu-says-2025-01-20/)
+* [2025-01-20, 15:53:31](https://news.ycombinator.com/item?id=42769871) - [Mixxx: GPL DJ Software](https://mixxx.org/)
 * [2025-01-20, 12:37:58](https://news.ycombinator.com/item?id=42768072) - [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
 * [2025-01-20, 12:02:19](https://news.ycombinator.com/item?id=42767797) - [Celestial Navigation for Drones](https://www.mdpi.com/2504-446X/8/11/652)
 * [2025-01-20, 11:33:15](https://news.ycombinator.com/item?id=42767584) - [Using eSIMs with devices that only have a physical SIM slot via a 9eSIM SIM car](https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/)
@@ -14,7 +14,6 @@
 * [2025-01-20, 03:08:49](https://news.ycombinator.com/item?id=42764602) - [Reverse Engineering Bambu Connect](https://wiki.rossmanngroup.com/wiki/Reverse_Engineering_Bambu_Connect)
 * [2025-01-20, 00:18:48](https://news.ycombinator.com/item?id=42763592) - [Two Hard Things (2009)](https://martinfowler.com/bliki/TwoHardThings.html)
 * [2025-01-19, 23:52:13](https://news.ycombinator.com/item?id=42763386) - [UK's hardware talent is being wasted](https://josef.cn/blog/uk-talent)
-* [2025-01-19, 23:11:22](https://news.ycombinator.com/item?id=42763095) - [It's time to make computing personal again](https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again)
 * [2025-01-19, 22:56:41](https://news.ycombinator.com/item?id=42762962) - [How do interruptions impact different software engineering activities](https://rdel.substack.com/p/rdel-75-how-do-interruptions-impact)
 * [2025-01-19, 19:20:23](https://news.ycombinator.com/item?id=42760620) - [Why is Git Autocorrect too fast for Formula One drivers?](https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/)
 * [2025-01-19, 18:38:36](https://news.ycombinator.com/item?id=42760054) - [Why Twitter is such a big deal (2009)](https://paulgraham.com/twitter.html)
@@ -29,6 +28,7 @@
 * [2025-01-16, 19:07:47](https://news.ycombinator.com/item?id=42729488) - [Dutch Align with US Export Controls on Some ASML Chip Tools](https://www.bloomberg.com/news/articles/2025-01-15/dutch-align-with-us-export-controls-on-some-asml-chip-tools)
 * [2025-01-16, 17:01:34](https://news.ycombinator.com/item?id=42727832) - [JTAG 'Hacking' the Original Xbox in 2023](https://blog.ret2.io/2023/08/09/jtag-hacking-the-original-xbox-2023/)
 * [2025-01-16, 14:13:58](https://news.ycombinator.com/item?id=42725346) - [Groundwater Movement (Interactive)](https://has.concord.org/groundwater-movement.html)
+* [2025-01-16, 12:25:46](https://news.ycombinator.com/item?id=42724323) - [A physicist's guide to ice cream](https://physicsworld.com/a/a-physicists-guide-to-ice-cream-the-complex-science-behind-one-of-the-worlds-most-popular-desserts/)
 * [2025-01-16, 00:53:59](https://news.ycombinator.com/item?id=42719538) - [Chopstick sleeves as emissaries of Japanese typography and culture](https://letterformarchive.org/news/this-just-in-chopstick-sleeves-as-emissaries-of-japanese-typography-and-culture/)
 
 ## [Archives](archives/index.md)
