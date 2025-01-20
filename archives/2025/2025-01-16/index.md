@@ -57,6 +57,7 @@
 * [2025-01-16, 13:23:32](https://news.ycombinator.com/item?id=42724761) - [Nokia's internal presentation after iPhone was launched (2007) [pdf]](https://nokia-apple-iphone-was-launched-presentation.tiiny.site/)
 * [2025-01-16, 13:23:17](https://news.ycombinator.com/item?id=42724757) - [Show HN: I made an open source directory of where to showoff your projects](https://github.com/KingMenes/awesome-launch)
 * [2025-01-16, 13:08:14](https://news.ycombinator.com/item?id=42724621) - [Nintendo announces the Switch 2 [video]](https://www.youtube.com/watch?v=itpcsQQvgAQ)
+* [2025-01-16, 12:25:46](https://news.ycombinator.com/item?id=42724323) - [A physicist's guide to ice cream](https://physicsworld.com/a/a-physicists-guide-to-ice-cream-the-complex-science-behind-one-of-the-worlds-most-popular-desserts/)
 * [2025-01-16, 12:18:32](https://news.ycombinator.com/item?id=42724284) - [I Ditched the Algorithm for RSS–and You Should Too](https://joeyehand.com/blog/2025/01/15/i-ditched-the-algorithm-for-rssand-you-should-too/)
 * [2025-01-16, 11:46:27](https://news.ycombinator.com/item?id=42724086) - [What Roman Coins Reveal About the People Who Made Them](https://lithub.com/what-roman-coins-reveal-about-the-people-who-made-them/)
 * [2025-01-16, 11:33:39](https://news.ycombinator.com/item?id=42723993) - [Properties and Far-infrared Variability of a z = 7 Blazar](https://iopscience.iop.org/article/10.3847/2041-8213/ad823b)

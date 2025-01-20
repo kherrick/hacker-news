@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-20, 03:58:04](https://news.ycombinator.com/item?id=42764839) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/miUmVns-founding-engineer)
 * [2025-01-20, 03:08:49](https://news.ycombinator.com/item?id=42764602) - [Reverse Engineering Bambu Connect](https://wiki.rossmanngroup.com/wiki/Reverse_Engineering_Bambu_Connect)
-* [2025-01-20, 02:11:28](https://news.ycombinator.com/item?id=42764277) - [Bambu Connect's Authentication X.509 Certificate and Private Key Extracted](https://hackaday.com/2025/01/19/bambu-connects-authentication-x-509-certificate-and-private-key-extracted/)
 * [2025-01-20, 01:56:11](https://news.ycombinator.com/item?id=42764185) - [Ask HN: Is anyone making money selling traditional downloadable software?](https://news.ycombinator.com/item?id=42764185)
 * [2025-01-20, 00:18:48](https://news.ycombinator.com/item?id=42763592) - [Two Hard Things (2009)](https://martinfowler.com/bliki/TwoHardThings.html)
 * [2025-01-19, 23:52:13](https://news.ycombinator.com/item?id=42763386) - [UK's hardware talent is being wasted](https://josef.cn/blog/uk-talent)
@@ -15,7 +15,6 @@
 * [2025-01-19, 18:38:36](https://news.ycombinator.com/item?id=42760054) - [Why Twitter is such a big deal (2009)](https://paulgraham.com/twitter.html)
 * [2025-01-19, 18:01:42](https://news.ycombinator.com/item?id=42759557) - [Using your Apple device as an access card in unsupported systems](https://github.com/kormax/apple-device-as-access-card)
 * [2025-01-19, 17:42:44](https://news.ycombinator.com/item?id=42759336) - [TikTok says it is restoring service for U.S. users](https://www.nbcnews.com/tech/tech-news/tiktok-says-restoring-service-us-users-rcna188320)
-* [2025-01-19, 17:01:02](https://news.ycombinator.com/item?id=42758807) - [Gauntlet AI (YC S17) is training AI engineers and hiring them in Austin](https://gauntletai.com)
 * [2025-01-19, 16:10:11](https://news.ycombinator.com/item?id=42758257) - [The surprising struggle to get a Unix Epoch time from a UTC string in C or C++](https://berthub.eu/articles/posts/how-to-get-a-unix-epoch-from-a-utc-date-time-string/)
 * [2025-01-19, 15:50:51](https://news.ycombinator.com/item?id=42758070) - [Build a tiny CA for your homelab with a Raspberry Pi](https://smallstep.com/blog/build-a-tiny-ca-with-raspberry-pi-yubikey/)
 * [2025-01-19, 11:57:18](https://news.ycombinator.com/item?id=42756286) - [The Fuzzing Book](https://www.fuzzingbook.org/)
@@ -29,6 +28,7 @@
 * [2025-01-16, 17:01:34](https://news.ycombinator.com/item?id=42727832) - [JTAG 'Hacking' the Original Xbox in 2023](https://blog.ret2.io/2023/08/09/jtag-hacking-the-original-xbox-2023/)
 * [2025-01-16, 16:19:43](https://news.ycombinator.com/item?id=42727329) - [A generative model for inorganic materials design](https://www.nature.com/articles/s41586-025-08628-5)
 * [2025-01-16, 13:59:34](https://news.ycombinator.com/item?id=42725163) - [Build a Database in 3000 Lines with 0 Dependencies](https://build-your-own.org/blog/20251015_db_in_3000/)
+* [2025-01-16, 12:25:46](https://news.ycombinator.com/item?id=42724323) - [A physicist's guide to ice cream](https://physicsworld.com/a/a-physicists-guide-to-ice-cream-the-complex-science-behind-one-of-the-worlds-most-popular-desserts/)
 * [2025-01-16, 00:53:59](https://news.ycombinator.com/item?id=42719538) - [Chopstick sleeves as emissaries of Japanese typography and culture](https://letterformarchive.org/news/this-just-in-chopstick-sleeves-as-emissaries-of-japanese-typography-and-culture/)
 
 ## [Archives](archives/index.md)
