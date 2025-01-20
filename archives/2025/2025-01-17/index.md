@@ -15,6 +15,7 @@
 * [2025-01-17, 19:17:48](https://news.ycombinator.com/item?id=42742161) - [Higher potassium intake at dinner linked to fewer sleep disturbances – study](https://www.nutraingredients-asia.com/Article/2025/01/07/higher-potassium-intake-at-dinner-linked-to-fewer-sleep-disturbances/)
 * [2025-01-17, 19:14:16](https://news.ycombinator.com/item?id=42742123) - [Brits still associate working-class accents with criminals – study warns of bias](https://www.cam.ac.uk/research/news/brits-still-associate-working-class-accents-with-criminal-behaviour-study-warns-of-bias-in-the)
 * [2025-01-17, 19:07:54](https://news.ycombinator.com/item?id=42742057) - [Mathematics of the NYT daily word game Waffle](https://arxiv.org/abs/2501.09286)
+* [2025-01-17, 18:51:30](https://news.ycombinator.com/item?id=42741893) - [Rare knife showing up at Bay Area restaurant tables, confusing people](https://www.sfchronicle.com/food/restaurants/article/roland-lannier-sheepsfoot-knife-20027143.php)
 * [2025-01-17, 18:49:30](https://news.ycombinator.com/item?id=42741880) - [Undocumented Immigrant Offending Rate Lower Than U.S.-Born Citizen Rate](https://nij.ojp.gov/topics/articles/undocumented-immigrant-offending-rate-lower-us-born-citizen-rate)
 * [2025-01-17, 17:54:02](https://news.ycombinator.com/item?id=42741155) - [Hands-On Graphics Without X11](https://blogsystem5.substack.com/p/netbsd-graphics-wo-x11)
 * [2025-01-17, 17:35:48](https://news.ycombinator.com/item?id=42740916) - [The Last Cowboy Boot Masters of El Paso](https://www.atlasobscura.com/articles/cowboy-boot-makers-el-paso-texas)
