@@ -1,26 +1,6 @@
 [
   [
     [
-      "2025-01-20, 13:59:38",
-      "https://news.ycombinator.com/item?id=42768788"
-    ],
-    [
-      "FOSDEM '25 Protest",
-      "https://drewdevault.com/2025/01/20/2025-01-20-FOSDEM-protest.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-20, 13:50:58",
-      "https://news.ycombinator.com/item?id=42768703"
-    ],
-    [
-      "I wrote a commercial game in C in 2025",
-      "https://www.cowleyforniastudios.com/2025/1/20/choosing-c"
-    ]
-  ],
-  [
-    [
       "2025-01-20, 12:37:58",
       "https://news.ycombinator.com/item?id=42768072"
     ],
@@ -181,6 +161,16 @@
   ],
   [
     [
+      "2025-01-19, 16:10:11",
+      "https://news.ycombinator.com/item?id=42758257"
+    ],
+    [
+      "The surprising struggle to get a Unix Epoch time from a UTC string in C or C++",
+      "https://berthub.eu/articles/posts/how-to-get-a-unix-epoch-from-a-utc-date-time-string/"
+    ]
+  ],
+  [
+    [
       "2025-01-19, 11:57:18",
       "https://news.ycombinator.com/item?id=42756286"
     ],
@@ -235,7 +225,7 @@
       "https://news.ycombinator.com/item?id=42732533"
     ],
     [
-      "Byzantine-Sassanian War (602-628 CE): The Last Great War of Antiquity",
+      "Byzantine-Sassanian War (602-628 CE): The Last Great War of Antiquity (2023)",
       "https://www.thecollector.com/byzantine-sassanian-war/"
     ]
   ],
@@ -257,6 +247,16 @@
     [
       "Designing the Sublime Boullée and Ledoux's Architectural Revolution",
       "https://publicdomainreview.org/essay/designing-the-sublime/"
+    ]
+  ],
+  [
+    [
+      "2025-01-16, 17:55:13",
+      "https://news.ycombinator.com/item?id=42728513"
+    ],
+    [
+      "Physicists have shown that an idealized form of magnetism is heatproof",
+      "https://www.quantamagazine.org/heat-destroys-all-order-except-for-in-this-one-special-case-20250116/"
     ]
   ],
   [
