@@ -14,6 +14,7 @@
 * [2025-01-19, 21:39:21](https://news.ycombinator.com/item?id=42762161) - [Hacking the Yamaha DX9 to Turn It into a DX7 (2023)](https://ajxs.me/blog/Hacking_the_Yamaha_DX9_To_Turn_It_Into_a_DX7.html)
 * [2025-01-19, 21:30:09](https://news.ycombinator.com/item?id=42762077) - [All Lisp Indentation Schemes Are Ugly](https://aartaka.me/lisp-indent.html)
 * [2025-01-19, 21:27:53](https://news.ycombinator.com/item?id=42762054) - [Please Don't Force Dark Mode on Users](https://iamvishnu.com/posts/please-dont-force-dark-mode)
+* [2025-01-19, 20:50:13](https://news.ycombinator.com/item?id=42761659) - [Castle Game Engine: Web target – big progress, first 3 demos to try](https://castle-engine.io/wp/2025/01/06/web-target-big-progress-first-3-demos-to-try/)
 * [2025-01-19, 20:14:44](https://news.ycombinator.com/item?id=42761303) - [TikTok users posting cat videos do not threaten UK national security, minister](https://www.theguardian.com/technology/2025/jan/19/tiktok-users-posting-cat-videos-do-not-threaten-uk-national-security-minister-says)
 * [2025-01-19, 20:07:23](https://news.ycombinator.com/item?id=42761219) - [Escape the walled garden and algorithm black boxes with RSS feeds](https://www.johnwalker.nl/posts/escape-the-walled-garden-with-rss)
 * [2025-01-19, 19:20:23](https://news.ycombinator.com/item?id=42760620) - [Why is Git Autocorrect too fast for Formula One drivers?](https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/)
