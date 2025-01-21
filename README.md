@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-21, 20:29:19](https://news.ycombinator.com/item?id=42784847) - [LLMs Demonstrate Behavioral Self-Awareness [pdf]](https://martins1612.github.io/selfaware_paper_betley.pdf)
+* [2025-01-21, 21:01:02](https://news.ycombinator.com/item?id=42785137) - [HyperDX (YC S22) is hiring engineers to build open source observability](https://www.ycombinator.com/companies/hyperdx/jobs)
+* [2025-01-21, 20:50:09](https://news.ycombinator.com/item?id=42785035) - [Remembering Nan Shepherd](https://www.lrb.co.uk/the-paper/v47/n01/fraser-macdonald/diary)
+* [2025-01-21, 20:19:33](https://news.ycombinator.com/item?id=42784740) - [China won A side-by-side comparison of DeepSeek R1 vs. OpenAI O1 for Finance](https://nexustrade.io/blog/the-chinese-obliterated-openai-a-side-by-side-comparison-of-deepseek-r1-vs-openai-o1-for-finance-20250121)
 * [2025-01-21, 19:39:39](https://news.ycombinator.com/item?id=42784365) - [Ask HN: Is anyone doing anything cool with tiny language models?](https://news.ycombinator.com/item?id=42784365)
 * [2025-01-21, 19:14:49](https://news.ycombinator.com/item?id=42784111) - [Why AI reminds me of cloud computing](https://bitmasonsllc.blogspot.com/2025/01/why-ai-reminds-me-of-cloud-computing.html)
 * [2025-01-21, 19:00:03](https://news.ycombinator.com/item?id=42783948) - [Mercator: Extreme](https://mrgris.com/projects/merc-extreme/)
@@ -10,7 +12,6 @@
 * [2025-01-21, 17:37:01](https://news.ycombinator.com/item?id=42782914) - [Invisible Electrostatic Wall at 3M plant](http://amasci.com/weird/unusual/e-wall.html)
 * [2025-01-21, 17:32:01](https://news.ycombinator.com/item?id=42782854) - [Deploying Rails on Docker: Kamal Alternative](https://impactahead.com/dev/dokku-deploying-rails-on-docker-kamal-alternative)
 * [2025-01-21, 17:23:23](https://news.ycombinator.com/item?id=42782737) - [Interesting BiCMOS circuits in the Pentium, reverse-engineered](https://www.righto.com/2025/01/pentium-reverse-engineering-bicmos.html)
-* [2025-01-21, 17:01:01](https://news.ycombinator.com/item?id=42782440) - [Motion (YC W20) Is Hiring EMs and Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
 * [2025-01-21, 16:52:42](https://news.ycombinator.com/item?id=42782295) - [Show HN: I made a app that uses NFC as a physical switch to block distractions](https://www.foqos.app)
 * [2025-01-21, 16:49:32](https://news.ycombinator.com/item?id=42782246) - [Show HN: SudokuVariants – play and construct different variants of Sudoku](https://sudokuvariants.com)
 * [2025-01-21, 16:25:25](https://news.ycombinator.com/item?id=42781922) - [Guided by the beauty of our test suite](https://www.mattkeeter.com/blog/2025-01-20-guided/)
@@ -27,7 +28,6 @@
 * [2025-01-21, 08:53:21](https://news.ycombinator.com/item?id=42777857) - [Kimi K1.5: Scaling Reinforcement Learning with LLMs](https://github.com/MoonshotAI/Kimi-k1.5)
 * [2025-01-21, 08:08:24](https://news.ycombinator.com/item?id=42777625) - [Context should go away for Go 2 (2017)](https://faiface.github.io/post/context-should-go-away-go2/)
 * [2025-01-20, 23:07:10](https://news.ycombinator.com/item?id=42774221) - [Reverse engineering Call of Duty anti-cheat](https://ssno.cc/posts/reversing-tac-1-4-2025/)
-* [2025-01-18, 20:17:44](https://news.ycombinator.com/item?id=42751099) - [Windmemory](https://news.ycombinator.com/item?id=42751099)
 * [2025-01-18, 14:41:53](https://news.ycombinator.com/item?id=42748691) - [Prime Numbers So Memorable That People Hunt for Them](https://www.scientificamerican.com/article/these-prime-numbers-are-so-memorable-that-people-hunt-for-them/)
 * [2025-01-17, 19:40:37](https://news.ycombinator.com/item?id=42742396) - [Japan's original decluttering guru (no, not that one)](https://www.nytimes.com/2025/01/16/business/hideko-yamashita-decluttering-danshari.html)
 
