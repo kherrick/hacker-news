@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-21](index.md)
 
+* [2025-01-21, 10:29:23](https://news.ycombinator.com/item?id=42778472) - [Open Source Alternative to Vercel, Netlify and Heroku](https://dokploy.com)
 * [2025-01-21, 10:17:24](https://news.ycombinator.com/item?id=42778386) - [Poland fumes over US block on AI chips](https://www.politico.eu/article/poland-fumes-us-block-joe-biden-ai-chips-cap-export/)
 * [2025-01-21, 10:00:07](https://news.ycombinator.com/item?id=42778266) - [Startup Winter: Hacker News Lost Its Faith](https://www.vincentschmalbach.com/startup-winter-hacker-news-lost-its-faith/)
 * [2025-01-21, 09:36:20](https://news.ycombinator.com/item?id=42778075) - [Ancient Celtic tribe had women at its social center](https://www.npr.org/2025/01/15/nx-s1-5258236/ancient-celtic-tribe-had-women-at-its-social-center)
