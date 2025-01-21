@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-21, 18:24:03](https://news.ycombinator.com/item?id=42783543) - [Rafael Araujo's 20 Mesmerizing Geometrical Masterpieces (2024)](https://abakcus.com/rafael-araujo-geometrical-masterpieces/)
 * [2025-01-21, 18:12:50](https://news.ycombinator.com/item?id=42783391) - [Why do regexes use `$` and `^` as line anchors? (2024)](https://buttondown.com/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/)
 * [2025-01-21, 18:12:34](https://news.ycombinator.com/item?id=42783385) - [MIT Unveils New Robot Insect, Paving the Way Toward Rise of Robotic Pollinators](https://thedebrief.org/mit-unveils-new-robot-insect-paving-the-way-toward-the-rise-of-robotic-pollinators/)
 * [2025-01-21, 17:54:20](https://news.ycombinator.com/item?id=42783165) - [How the strengths of Lisp facilitate complex and flexible applications (2016)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5952920/)
@@ -24,7 +25,6 @@
 * [2025-01-20, 23:07:10](https://news.ycombinator.com/item?id=42774221) - [Reverse engineering Call of Duty anti-cheat](https://ssno.cc/posts/reversing-tac-1-4-2025/)
 * [2025-01-20, 19:31:03](https://news.ycombinator.com/item?id=42772170) - [ROCm Device Support Wishlist](https://github.com/ROCm/ROCm/discussions/4276)
 * [2025-01-20, 12:37:58](https://news.ycombinator.com/item?id=42768072) - [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
-* [2025-01-19, 00:38:36](https://news.ycombinator.com/item?id=42752637) - [The Sonnenschein-Mantel-Debreu Results After Thirty Years](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=203ee701ee9833364eb551c342bb4b0a120f937e)
 * [2025-01-18, 14:41:53](https://news.ycombinator.com/item?id=42748691) - [Prime Numbers So Memorable That People Hunt for Them](https://www.scientificamerican.com/article/these-prime-numbers-are-so-memorable-that-people-hunt-for-them/)
 * [2025-01-18, 08:16:17](https://news.ycombinator.com/item?id=42746752) - [Show HN: I made a mini golf in my lunch time](https://paper-golf.netlify.app/)
 * [2025-01-17, 19:40:37](https://news.ycombinator.com/item?id=42742396) - [Japan's original decluttering guru (no, not that one)](https://www.nytimes.com/2025/01/16/business/hideko-yamashita-decluttering-danshari.html)
