@@ -10,6 +10,7 @@
 * [2025-01-20, 22:11:19](https://news.ycombinator.com/item?id=42773693) - [The Selma March (1965)](https://www.newyorker.com/magazine/1965/04/10/letter-from-selma)
 * [2025-01-20, 22:10:50](https://news.ycombinator.com/item?id=42773690) - [DeepSeek-R1-Distill-Qwen-1.5B Surpasses GPT-4o in certain benchmarks](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B)
 * [2025-01-20, 21:47:44](https://news.ycombinator.com/item?id=42773442) - [Bambu Lab - Setting the Record Straight About Our Security Update](https://blog.bambulab.com/updates-and-third-party-integration-with-bambu-connect/)
+* [2025-01-20, 21:47:11](https://news.ycombinator.com/item?id=42773436) - [Show HN: CFRS[] Community Demos: Patterns with turtle graphics using 6 commands](https://news.ycombinator.com/item?id=42773436)
 * [2025-01-20, 21:32:31](https://news.ycombinator.com/item?id=42773311) - [Matt Mullenweg, Automattic's CEO, Seems Bound and Determined to Wreck WordPress](https://digitalcxo.com/article/matt-mullenweg-automattics-ceo-seems-bound-and-determined-to-wreck-wordpress/)
 * [2025-01-20, 21:11:12](https://news.ycombinator.com/item?id=42773088) - [Falcon 9 Rocket Launch Scrubbed After Delta Air Flies into Restricted Airspace](https://www.paddleyourownkanoo.com/2025/01/19/spacex-scrubs-falcon-9-rocket-launch-with-just-11-seconds-to-go-after-delta-air-jet-flies-into-restricted-airspace/)
 * [2025-01-20, 21:00:24](https://news.ycombinator.com/item?id=42772983) - [Official DeepSeek R1 Now on Ollama](https://ollama.com/library/deepseek-r1)
