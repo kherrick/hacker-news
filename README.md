@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-21, 16:25:25](https://news.ycombinator.com/item?id=42781922) - [Guided by the beauty of our test suite](https://www.mattkeeter.com/blog/2025-01-20-guided/)
 * [2025-01-21, 15:47:04](https://news.ycombinator.com/item?id=42781388) - [How many Alpine packages can you install at once? (2024)](https://www.naff.dev/blog/all-the-packages)
 * [2025-01-21, 15:39:52](https://news.ycombinator.com/item?id=42781293) - [Should We Use AI and LLMs for Christian Apologetics?](https://lukeplant.me.uk/blog/posts/should-we-use-llms-for-christian-apologetics/)
 * [2025-01-21, 15:17:40](https://news.ycombinator.com/item?id=42781017) - [Show HN: Pica – Rust-based agentic AI infrastructure (open-source)](https://www.picaos.com/)
@@ -20,7 +21,6 @@
 * [2025-01-20, 12:37:58](https://news.ycombinator.com/item?id=42768072) - [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
 * [2025-01-20, 12:02:19](https://news.ycombinator.com/item?id=42767797) - [Celestial Navigation for Drones](https://www.mdpi.com/2504-446X/8/11/652)
 * [2025-01-20, 11:33:15](https://news.ycombinator.com/item?id=42767584) - [Using eSIMs with devices that only have a physical SIM slot via a 9eSIM SIM car](https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/)
-* [2025-01-20, 09:41:39](https://news.ycombinator.com/item?id=42766825) - [Where do those undergraduate divisibility problems come from?](https://grossack.site/2025/01/16/undergrad-divisibility-problems.html)
 * [2025-01-19, 06:28:36](https://news.ycombinator.com/item?id=42754305) - [SRCL: Open-source React project to build web apps with terminal aesthetics](https://www.sacred.computer)
 * [2025-01-19, 00:38:36](https://news.ycombinator.com/item?id=42752637) - [The Sonnenschein-Mantel-Debreu Results After Thirty Years](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=203ee701ee9833364eb551c342bb4b0a120f937e)
 * [2025-01-18, 23:35:06](https://news.ycombinator.com/item?id=42752299) - [Garmin's –$40B Pivot](https://www.readtrung.com/p/garmins-40b-pivot)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-21](index.md)
 
+* [2025-01-21, 16:25:25](https://news.ycombinator.com/item?id=42781922) - [Guided by the beauty of our test suite](https://www.mattkeeter.com/blog/2025-01-20-guided/)
 * [2025-01-21, 15:47:04](https://news.ycombinator.com/item?id=42781388) - [How many Alpine packages can you install at once? (2024)](https://www.naff.dev/blog/all-the-packages)
 * [2025-01-21, 15:39:52](https://news.ycombinator.com/item?id=42781293) - [Should We Use AI and LLMs for Christian Apologetics?](https://lukeplant.me.uk/blog/posts/should-we-use-llms-for-christian-apologetics/)
 * [2025-01-21, 15:17:40](https://news.ycombinator.com/item?id=42781017) - [Show HN: Pica – Rust-based agentic AI infrastructure (open-source)](https://www.picaos.com/)
