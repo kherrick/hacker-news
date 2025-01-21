@@ -30,6 +30,7 @@
 * [2025-01-17, 15:23:58](https://news.ycombinator.com/item?id=42738464) - [Supreme Court rules to uphold TikTok ban, setting stage for shutdown](https://www.cnbc.com/2025/01/17/supreme-court-rules-to-uphold-tiktok-ban.html)
 * [2025-01-17, 15:23:05](https://news.ycombinator.com/item?id=42738457) - [Skyvern Browser Agent 2.0: How We Reached State of the Art in Evals](https://blog.skyvern.com/skyvern-2-0-state-of-the-art-web-navigation-with-85-8-on-webvoyager-eval/)
 * [2025-01-17, 15:08:16](https://news.ycombinator.com/item?id=42738284) - [Project Mini Rack – compact and portable homelabs](https://www.jeffgeerling.com/blog/2025/project-mini-rack-compact-and-portable-homelabs)
+* [2025-01-17, 14:56:53](https://news.ycombinator.com/item?id=42738143) - [Guitar chord karaoke with Vamp, Chordino, and FFmpeg (2022)](https://dylanbeattie.net/2022/09/19/the-road-to-guitaraoke-part-1-vamp-chordino-imagesharp-ffmpeg.html)
 * [2025-01-17, 14:42:55](https://news.ycombinator.com/item?id=42737985) - [Ozempic and Wegovy are selected for Medicare's price negotiations](https://apnews.com/article/drug-prices-medicare-biden-trump-aae2271614f5959b484e5f081313f2e1)
 * [2025-01-17, 14:23:56](https://news.ycombinator.com/item?id=42737778) - [Show HN: Interactive game teaching dark patterns in UX design](https://games.productartistry.com/games/dark-patterns)
 * [2025-01-17, 13:54:26](https://news.ycombinator.com/item?id=42737510) - [Volkswagen Sausage and the Enduring Appeal of Culinary Car-Industry Crossovers](https://www.atlasobscura.com/articles/car-industry-food)
