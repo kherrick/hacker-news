@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-18](index.md)
 
 * [2025-01-18, 23:52:23](https://news.ycombinator.com/item?id=42752402) - [Nation-scale Matrix deployments will fail using the community version of Synapse](https://mastodon.matrix.org/@element/113842786942364269)
+* [2025-01-18, 23:35:06](https://news.ycombinator.com/item?id=42752299) - [Garmin's –$40B Pivot](https://www.readtrung.com/p/garmins-40b-pivot)
 * [2025-01-18, 22:44:58](https://news.ycombinator.com/item?id=42752023) - [Pharaoh's Tomb HD – A Remake Made in JavaScript with Kaplay](https://pt-hd.iocaihost.me/)
 * [2025-01-18, 22:03:26](https://news.ycombinator.com/item?id=42751785) - [Fixing a uname bug (Apache NuttX RTOS)](https://lupyuen.org/articles/uname.html)
 * [2025-01-18, 21:50:15](https://news.ycombinator.com/item?id=42751690) - [Kalman Filter Tutorial](https://www.kalmanfilter.net/default.aspx)
