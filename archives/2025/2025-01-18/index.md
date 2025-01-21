@@ -21,6 +21,7 @@
 * [2025-01-18, 18:04:19](https://news.ycombinator.com/item?id=42750096) - [O1 isn't a chat model (and that's the point)](https://www.latent.space/p/o1-skill-issue)
 * [2025-01-18, 17:35:46](https://news.ycombinator.com/item?id=42749901) - [Italy seeks to curb 'fake' online reviews for hotels and restaurants](https://www.rte.ie/news/world/2025/0114/1490847-italy-reviews-legislation/)
 * [2025-01-18, 17:33:24](https://news.ycombinator.com/item?id=42749884) - [What If No One Misses TikTok?](https://www.nytimes.com/2025/01/18/technology/what-if-no-one-misses-tiktok.html)
+* [2025-01-18, 17:15:45](https://news.ycombinator.com/item?id=42749764) - [Flocken Elektrowagen](https://en.wikipedia.org/wiki/Flocken_Elektrowagen)
 * [2025-01-18, 16:22:03](https://news.ycombinator.com/item?id=42749402) - [Show HN: Interactive systemd (a better way to work with systemd units)](https://isd-project.github.io/isd/)
 * [2025-01-18, 15:45:26](https://news.ycombinator.com/item?id=42749147) - [Dusa Programming Language (Finite-Choice Logic Programming)](https://dusa.rocks/docs/)
 * [2025-01-18, 15:32:41](https://news.ycombinator.com/item?id=42749069) - [Why do bees die when they sting you?](https://www.subanima.org/bees/)
