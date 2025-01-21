@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-01-21, 10:00:07",
+      "https://news.ycombinator.com/item?id=42778266"
+    ],
+    [
+      "Startup Winter: Hacker News Lost Its Faith",
+      "https://www.vincentschmalbach.com/startup-winter-hacker-news-lost-its-faith/"
+    ]
+  ],
+  [
+    [
       "2025-01-21, 08:57:33",
       "https://news.ycombinator.com/item?id=42777874"
     ],
@@ -231,32 +241,12 @@
   ],
   [
     [
-      "2025-01-18, 23:35:06",
-      "https://news.ycombinator.com/item?id=42752299"
-    ],
-    [
-      "Garmin's –$40B Pivot",
-      "https://www.readtrung.com/p/garmins-40b-pivot"
-    ]
-  ],
-  [
-    [
       "2025-01-18, 22:03:26",
       "https://news.ycombinator.com/item?id=42751785"
     ],
     [
       "Fixing a uname bug (Apache NuttX RTOS)",
       "https://lupyuen.org/articles/uname.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-18, 21:02:22",
-      "https://news.ycombinator.com/item?id=42751403"
-    ],
-    [
-      "AWS will discontinue support for AWS App Mesh",
-      "https://aws.amazon.com/blogs/containers/migrating-from-aws-app-mesh-to-amazon-ecs-service-connect/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "417-megapixel Andromeda galaxy panorama took over a decade to make",
       "https://petapixel.com/2025/01/16/417-megapixel-andromeda-galaxy-panorama-took-over-a-decade-to-make/"
+    ]
+  ],
+  [
+    [
+      "2025-01-16, 22:13:56",
+      "https://news.ycombinator.com/item?id=42731588"
+    ],
+    [
+      "Slugs on a Cube: An Interactive Animation",
+      "https://blog.gingerbeardman.com/2025/01/16/slugs-on-a-cube-interactive-animation/"
     ]
   ]
 ]
