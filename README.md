@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-21, 22:42:12](https://news.ycombinator.com/item?id=42786040) - [Hunyuan3D 2.0 – High-Resolution 3D Assets Generation](https://github.com/Tencent/Hunyuan3D-2)
-* [2025-01-21, 22:29:22](https://news.ycombinator.com/item?id=42785891) - [Announcing The Stargate Project](https://openai.com/index/announcing-the-stargate-project/)
+* [2025-01-21, 22:29:22](https://news.ycombinator.com/item?id=42785891) - [Stargate Project: SoftBank, OpenAI and Oracle to invest up to $500B in AI](https://apnews.com/article/trump-ai-openai-oracle-softbank-son-altman-ellison-be261f8a8ee07a0623d4170397348c41)
 * [2025-01-21, 21:15:20](https://news.ycombinator.com/item?id=42785281) - [The Peppermills of Jens Quistgaard](https://www.quistgaardpepper.com)
 * [2025-01-21, 21:01:02](https://news.ycombinator.com/item?id=42785137) - [HyperDX (YC S22) is hiring engineers to build open source observability](https://www.ycombinator.com/companies/hyperdx/jobs)
 * [2025-01-21, 20:34:14](https://news.ycombinator.com/item?id=42784892) - [Sigstore: Making sure your software is what it claims to be](https://www.sigstore.dev/)
