@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-01-21, 18:12:50",
+      "https://news.ycombinator.com/item?id=42783391"
+    ],
+    [
+      "Why do regexes use `$` and `^` as line anchors? (2024)",
+      "https://buttondown.com/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/"
+    ]
+  ],
+  [
+    [
+      "2025-01-21, 18:12:34",
+      "https://news.ycombinator.com/item?id=42783385"
+    ],
+    [
+      "MIT Unveils New Robot Insect, Paving the Way Toward Rise of Robotic Pollinators",
+      "https://thedebrief.org/mit-unveils-new-robot-insect-paving-the-way-toward-the-rise-of-robotic-pollinators/"
+    ]
+  ],
+  [
+    [
+      "2025-01-21, 17:54:20",
+      "https://news.ycombinator.com/item?id=42783165"
+    ],
+    [
+      "How the strengths of Lisp facilitate complex and flexible applications (2016)",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC5952920/"
+    ]
+  ],
+  [
+    [
       "2025-01-21, 17:37:39",
       "https://news.ycombinator.com/item?id=42782929"
     ],
@@ -17,6 +47,16 @@
     [
       "Invisible Electrostatic Wall at 3M plant",
       "http://amasci.com/weird/unusual/e-wall.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-21, 17:23:23",
+      "https://news.ycombinator.com/item?id=42782737"
+    ],
+    [
+      "Interesting BiCMOS circuits in the Pentium, reverse-engineered",
+      "https://www.righto.com/2025/01/pentium-reverse-engineering-bicmos.html"
     ]
   ],
   [
@@ -41,6 +81,16 @@
   ],
   [
     [
+      "2025-01-21, 16:49:32",
+      "https://news.ycombinator.com/item?id=42782246"
+    ],
+    [
+      "Show HN: SudokuVariants – play and construct different variants of Sudoku",
+      "https://sudokuvariants.com"
+    ]
+  ],
+  [
+    [
       "2025-01-21, 16:25:25",
       "https://news.ycombinator.com/item?id=42781922"
     ],
@@ -61,42 +111,12 @@
   ],
   [
     [
-      "2025-01-21, 15:48:21",
-      "https://news.ycombinator.com/item?id=42781402"
-    ],
-    [
-      "Stop making moves like a funded startup when you're bootstrapped",
-      "https://www.theinsightpad.com/blog/why-traditional-market-research-is-killing-your-startup"
-    ]
-  ],
-  [
-    [
       "2025-01-21, 15:47:04",
       "https://news.ycombinator.com/item?id=42781388"
     ],
     [
       "How many Alpine packages can you install at once? (2024)",
       "https://www.naff.dev/blog/all-the-packages"
-    ]
-  ],
-  [
-    [
-      "2025-01-21, 15:18:58",
-      "https://news.ycombinator.com/item?id=42781031"
-    ],
-    [
-      "Show HN: A Product Hunt alternative where products DON'T compete with each other",
-      "https://saascurate.com/"
-    ]
-  ],
-  [
-    [
-      "2025-01-21, 15:17:40",
-      "https://news.ycombinator.com/item?id=42781017"
-    ],
-    [
-      "Show HN: Pica – Rust-based agentic AI infrastructure (open-source)",
-      "https://www.picaos.com/"
     ]
   ],
   [
@@ -201,26 +221,6 @@
   ],
   [
     [
-      "2025-01-20, 18:40:45",
-      "https://news.ycombinator.com/item?id=42771676"
-    ],
-    [
-      "I am (not) a failure: Lessons learned from six failed startup attempts",
-      "http://blog.rongarret.info/2025/01/i-am-not-failure-lessons-learned-from.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-20, 15:53:31",
-      "https://news.ycombinator.com/item?id=42769871"
-    ],
-    [
-      "Mixxx: GPL DJ Software",
-      "https://mixxx.org/"
-    ]
-  ],
-  [
-    [
       "2025-01-20, 12:37:58",
       "https://news.ycombinator.com/item?id=42768072"
     ],
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2025-01-18, 23:35:06",
+      "https://news.ycombinator.com/item?id=42752299"
+    ],
+    [
+      "Garmin's –$40B Pivot",
+      "https://www.readtrung.com/p/garmins-40b-pivot"
+    ]
+  ],
+  [
+    [
       "2025-01-18, 14:41:53",
       "https://news.ycombinator.com/item?id=42748691"
     ],
@@ -257,16 +267,6 @@
     [
       "Show HN: I made a mini golf in my lunch time",
       "https://paper-golf.netlify.app/"
-    ]
-  ],
-  [
-    [
-      "2025-01-17, 20:00:30",
-      "https://news.ycombinator.com/item?id=42742621"
-    ],
-    [
-      "Optimizing Jupyter Notebooks for LLMs",
-      "https://www.alexmolas.com/2025/01/15/ipynb-for-llm.html"
     ]
   ],
   [
