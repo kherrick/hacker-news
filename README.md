@@ -3,6 +3,7 @@
 * [2025-01-21, 21:15:20](https://news.ycombinator.com/item?id=42785281) - [The Peppermills of Jens Quistgaard](https://www.quistgaardpepper.com)
 * [2025-01-21, 21:01:02](https://news.ycombinator.com/item?id=42785137) - [HyperDX (YC S22) is hiring engineers to build open source observability](https://www.ycombinator.com/companies/hyperdx/jobs)
 * [2025-01-21, 20:50:09](https://news.ycombinator.com/item?id=42785035) - [Remembering Nan Shepherd](https://www.lrb.co.uk/the-paper/v47/n01/fraser-macdonald/diary)
+* [2025-01-21, 20:34:14](https://news.ycombinator.com/item?id=42784892) - [Sigstore: Making sure your software is what it claims to be](https://www.sigstore.dev/)
 * [2025-01-21, 19:39:39](https://news.ycombinator.com/item?id=42784365) - [Ask HN: Is anyone doing anything cool with tiny language models?](https://news.ycombinator.com/item?id=42784365)
 * [2025-01-21, 19:00:03](https://news.ycombinator.com/item?id=42783948) - [Mercator: Extreme](https://mrgris.com/projects/merc-extreme/)
 * [2025-01-21, 18:24:03](https://news.ycombinator.com/item?id=42783543) - [Rafael Araujo's 20 Mesmerizing Geometrical Masterpieces (2024)](https://abakcus.com/rafael-araujo-geometrical-masterpieces/)
@@ -29,7 +30,6 @@
 * [2025-01-21, 06:28:25](https://news.ycombinator.com/item?id=42777193) - [More than 40% of postdocs leave academia, study reveals](https://www.nature.com/articles/d41586-025-00142-y)
 * [2025-01-20, 23:07:10](https://news.ycombinator.com/item?id=42774221) - [Reverse engineering Call of Duty anti-cheat](https://ssno.cc/posts/reversing-tac-1-4-2025/)
 * [2025-01-18, 14:41:53](https://news.ycombinator.com/item?id=42748691) - [Prime Numbers So Memorable That People Hunt for Them](https://www.scientificamerican.com/article/these-prime-numbers-are-so-memorable-that-people-hunt-for-them/)
-* [2025-01-17, 19:40:37](https://news.ycombinator.com/item?id=42742396) - [Japan's original decluttering guru (no, not that one)](https://www.nytimes.com/2025/01/16/business/hideko-yamashita-decluttering-danshari.html)
 
 ## [Archives](archives/index.md)
 

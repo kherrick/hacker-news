@@ -7,6 +7,7 @@
 * [2025-01-21, 21:15:20](https://news.ycombinator.com/item?id=42785281) - [The Peppermills of Jens Quistgaard](https://www.quistgaardpepper.com)
 * [2025-01-21, 21:01:02](https://news.ycombinator.com/item?id=42785137) - [HyperDX (YC S22) is hiring engineers to build open source observability](https://www.ycombinator.com/companies/hyperdx/jobs)
 * [2025-01-21, 20:50:09](https://news.ycombinator.com/item?id=42785035) - [Remembering Nan Shepherd](https://www.lrb.co.uk/the-paper/v47/n01/fraser-macdonald/diary)
+* [2025-01-21, 20:34:14](https://news.ycombinator.com/item?id=42784892) - [Sigstore: Making sure your software is what it claims to be](https://www.sigstore.dev/)
 * [2025-01-21, 20:29:19](https://news.ycombinator.com/item?id=42784847) - [LLMs Demonstrate Behavioral Self-Awareness [pdf]](https://martins1612.github.io/selfaware_paper_betley.pdf)
 * [2025-01-21, 20:19:33](https://news.ycombinator.com/item?id=42784740) - [China won A side-by-side comparison of DeepSeek R1 vs. OpenAI O1 for Finance](https://nexustrade.io/blog/the-chinese-obliterated-openai-a-side-by-side-comparison-of-deepseek-r1-vs-openai-o1-for-finance-20250121)
 * [2025-01-21, 19:39:39](https://news.ycombinator.com/item?id=42784365) - [Ask HN: Is anyone doing anything cool with tiny language models?](https://news.ycombinator.com/item?id=42784365)
