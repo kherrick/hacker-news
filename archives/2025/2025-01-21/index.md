@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2025-01-21](index.md)
 
+* [2025-01-21, 09:14:34](https://news.ycombinator.com/item?id=42777973) - [Perl Weekly Issue #704 – Perl Podcast](https://perlweekly.com/archive/704.html)
+* [2025-01-21, 09:09:15](https://news.ycombinator.com/item?id=42777943) - [Framework Fatigue: The Real Reason Developers Get Angry About New Tech](https://blog.raed.dev/posts/framework-fatigue-the-real-reason-developers-get-angry-about-new-tech)
+* [2025-01-21, 09:08:16](https://news.ycombinator.com/item?id=42777938) - [Meta Censoring '#Democrat' on Instagram](https://mstdn.chrisalemany.ca/@chris/113864600222476627)
 * [2025-01-21, 08:59:13](https://news.ycombinator.com/item?id=42777882) - [Statement on planned protests during the upcoming FOSDEM 2025](https://fosdem.org/2025/news/2025-01-16-protests/)
 * [2025-01-21, 08:57:33](https://news.ycombinator.com/item?id=42777874) - [The QUIC API OpenSSL will not provide](https://daniel.haxx.se/blog/2021/10/25/the-quic-api-openssl-will-not-provide/)
 * [2025-01-21, 08:53:21](https://news.ycombinator.com/item?id=42777857) - [Kimi K1.5: Scaling Reinforcement Learning with LLMs](https://github.com/MoonshotAI/Kimi-k1.5)
 * [2025-01-21, 08:36:19](https://news.ycombinator.com/item?id=42777769) - [The most viewed articles of 2024](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2025-01-15/Traffic_report)
 * [2025-01-21, 08:26:55](https://news.ycombinator.com/item?id=42777718) - [Some Lessons from the OpenAI FrontierMath Debacle](https://www.lesswrong.com/posts/8ZgLYwBmB3vLavjKE/some-lessons-from-the-openai-frontiermath-debacle)
+* [2025-01-21, 08:26:48](https://news.ycombinator.com/item?id=42777716) - [X, Facebook, Instagram, and YouTube sign EU code to tackle hate speech](https://www.theverge.com/2025/1/20/24347876/x-facebook-instagram-youtube-eu-hate-speech-dsa-code)
 * [2025-01-21, 08:08:24](https://news.ycombinator.com/item?id=42777625) - [Context should go away for Go 2](https://faiface.github.io/post/context-should-go-away-go2/)
 * [2025-01-21, 07:16:29](https://news.ycombinator.com/item?id=42777379) - [Ask HN: Can we just admit we want to replace jobs with AI?](https://news.ycombinator.com/item?id=42777379)
 * [2025-01-21, 06:28:25](https://news.ycombinator.com/item?id=42777193) - [More than 40% of postdocs leave academia, study reveals](https://www.nature.com/articles/d41586-025-00142-y)
