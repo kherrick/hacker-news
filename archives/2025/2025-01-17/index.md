@@ -54,6 +54,7 @@
 * [2025-01-17, 05:18:15](https://news.ycombinator.com/item?id=42734340) - [Kokoro TTS – A lightweight (82M params) text-to-speech model](https://kokorotts.online/)
 * [2025-01-17, 05:01:01](https://news.ycombinator.com/item?id=42734260) - [General Motors Is Banned from Selling Driving Behavior Data for 5 Years](https://www.nytimes.com/2025/01/16/technology/general-motors-driving-data-settlement.html)
 * [2025-01-17, 03:56:40](https://news.ycombinator.com/item?id=42733905) - [Show HN: Play brick breaker using webcam and hand tracking (open source)](https://collidingscopes.github.io/manual-brick-breaker/)
+* [2025-01-17, 03:03:05](https://news.ycombinator.com/item?id=42733654) - [417-Megapixel Andromeda Galaxy Panorama Took over a Decade to Make](https://petapixel.com/2025/01/16/417-megapixel-andromeda-galaxy-panorama-took-over-a-decade-to-make/)
 * [2025-01-17, 03:01:59](https://news.ycombinator.com/item?id=42733649) - [NY Assembly Bill: Criminal background checks for (nearly all) 3D printers](https://www.nysenate.gov/legislation/bills/2025/A2228)
 * [2025-01-17, 03:00:10](https://news.ycombinator.com/item?id=42733640) - [Bypassing disk encryption on systems with automatic TPM2 unlock](https://oddlama.org/blog/bypassing-disk-encryption-with-tpm2-unlock/)
 * [2025-01-17, 02:52:47](https://news.ycombinator.com/item?id=42733593) - [Alignment faking in large language models](https://www.lesswrong.com/posts/njAZwT8nkHnjipJku/alignment-faking-in-large-language-models)
