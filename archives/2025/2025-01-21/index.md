@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-01-21](index.md)
 
+* [2025-01-21, 13:47:18](https://news.ycombinator.com/item?id=42780022) - [Metacognitive laziness: Effects of generative AI on learning motivation](https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13544)
+* [2025-01-21, 13:19:02](https://news.ycombinator.com/item?id=42779776) - [Ask HN: Organize local communities without Facebook?](https://news.ycombinator.com/item?id=42779776)
+* [2025-01-21, 12:51:32](https://news.ycombinator.com/item?id=42779544) - ['It's a nightmare': couriers mystified by the algorithms that control their jobs](https://www.theguardian.com/business/2025/jan/21/its-a-nightmare-couriers-mystified-by-the-algorithms-that-control-their-jobs)
 * [2025-01-21, 12:29:22](https://news.ycombinator.com/item?id=42779378) - [Show HN: Amurex – An open source AI meeting copilot](https://sansyrox.github.io/amurex_ce/)
 * [2025-01-21, 11:54:50](https://news.ycombinator.com/item?id=42779147) - [People are bad at reporting what they eat. That's a problem for dietary research](https://www.science.org/content/article/people-are-bad-reporting-what-they-eat-s-problem-dietary-research)
 * [2025-01-21, 11:16:40](https://news.ycombinator.com/item?id=42778872) - [The Gilded Age novel that helps explain our fascination with Luigi Mangione](https://theconversation.com/the-gilded-age-novel-that-helps-explain-our-fascination-with-luigi-mangione-246495)
