@@ -4,7 +4,6 @@
 * [2025-01-21, 08:57:33](https://news.ycombinator.com/item?id=42777874) - [The QUIC API OpenSSL will not provide](https://daniel.haxx.se/blog/2021/10/25/the-quic-api-openssl-will-not-provide/)
 * [2025-01-21, 08:53:21](https://news.ycombinator.com/item?id=42777857) - [Kimi K1.5: Scaling Reinforcement Learning with LLMs](https://github.com/MoonshotAI/Kimi-k1.5)
 * [2025-01-21, 08:36:19](https://news.ycombinator.com/item?id=42777769) - [The most viewed articles of 2024](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2025-01-15/Traffic_report)
-* [2025-01-21, 08:26:55](https://news.ycombinator.com/item?id=42777718) - [Some Lessons from the OpenAI FrontierMath Debacle](https://www.lesswrong.com/posts/8ZgLYwBmB3vLavjKE/some-lessons-from-the-openai-frontiermath-debacle)
 * [2025-01-21, 08:08:24](https://news.ycombinator.com/item?id=42777625) - [Context should go away for Go 2](https://faiface.github.io/post/context-should-go-away-go2/)
 * [2025-01-21, 06:28:25](https://news.ycombinator.com/item?id=42777193) - [More than 40% of postdocs leave academia, study reveals](https://www.nature.com/articles/d41586-025-00142-y)
 * [2025-01-20, 23:07:54](https://news.ycombinator.com/item?id=42774228) - [An astronomical view of Ancient Egyptian star clocks (2021)](https://storymaps.arcgis.com/stories/eea3fbc9c05b40948563ffd0ccfab59d)
@@ -30,6 +29,7 @@
 * [2025-01-17, 14:56:53](https://news.ycombinator.com/item?id=42738143) - [Guitar chord karaoke with Vamp, Chordino, and FFmpeg (2022)](https://dylanbeattie.net/2022/09/19/the-road-to-guitaraoke-part-1-vamp-chordino-imagesharp-ffmpeg.html)
 * [2025-01-17, 13:40:33](https://news.ycombinator.com/item?id=42737401) - [Optical Fresnel zone plate flat lens: colored photoresist through I-line stepper](https://www.nature.com/articles/s41377-024-01725-6)
 * [2025-01-17, 03:03:05](https://news.ycombinator.com/item?id=42733654) - [417-megapixel Andromeda galaxy panorama took over a decade to make](https://petapixel.com/2025/01/16/417-megapixel-andromeda-galaxy-panorama-took-over-a-decade-to-make/)
+* [2025-01-16, 22:13:56](https://news.ycombinator.com/item?id=42731588) - [Slugs on a Cube: An Interactive Animation](https://blog.gingerbeardman.com/2025/01/16/slugs-on-a-cube-interactive-animation/)
 
 ## [Archives](archives/index.md)
 
