@@ -24,11 +24,11 @@
 * [2025-01-19, 06:28:36](https://news.ycombinator.com/item?id=42754305) - [SRCL: Open-source React project to build web apps with terminal aesthetics](https://www.sacred.computer)
 * [2025-01-18, 17:15:45](https://news.ycombinator.com/item?id=42749764) - [Flocken Elektrowagen](https://en.wikipedia.org/wiki/Flocken_Elektrowagen)
 * [2025-01-18, 08:56:11](https://news.ycombinator.com/item?id=42746889) - [The Greenland Shark, the Longest-Living Vertebrate on Earth (2017)](https://www.newyorker.com/tech/annals-of-technology/the-strange-and-gruesome-story-of-the-greenland-shark-the-longest-living-vertebrate-on-earth)
+* [2025-01-18, 08:16:17](https://news.ycombinator.com/item?id=42746752) - [Show HN: I made a mini golf in my lunch time](https://paper-golf.netlify.app/)
 * [2025-01-17, 23:31:49](https://news.ycombinator.com/item?id=42744357) - [Bioinspired weather-responsive adaptive shading](https://www.uni-stuttgart.de/en/university/news/all/Bioinspired-weather-responsive-adaptive-shading/)
 * [2025-01-17, 14:56:53](https://news.ycombinator.com/item?id=42738143) - [Guitar chord karaoke with Vamp, Chordino, and FFmpeg (2022)](https://dylanbeattie.net/2022/09/19/the-road-to-guitaraoke-part-1-vamp-chordino-imagesharp-ffmpeg.html)
 * [2025-01-17, 13:40:33](https://news.ycombinator.com/item?id=42737401) - [Optical Fresnel zone plate flat lens: colored photoresist through I-line stepper](https://www.nature.com/articles/s41377-024-01725-6)
 * [2025-01-17, 03:03:05](https://news.ycombinator.com/item?id=42733654) - [417-megapixel Andromeda galaxy panorama took over a decade to make](https://petapixel.com/2025/01/16/417-megapixel-andromeda-galaxy-panorama-took-over-a-decade-to-make/)
-* [2025-01-16, 22:13:56](https://news.ycombinator.com/item?id=42731588) - [Slugs on a Cube: An Interactive Animation](https://blog.gingerbeardman.com/2025/01/16/slugs-on-a-cube-interactive-animation/)
 * [2025-01-16, 18:08:16](https://news.ycombinator.com/item?id=42728692) - [Bunkers in Albania](https://en.wikipedia.org/wiki/Bunkers_in_Albania)
 
 ## [Archives](archives/index.md)
