@@ -32,6 +32,7 @@
 * [2025-01-18, 15:16:37](https://news.ycombinator.com/item?id=42748963) - [Is Atlas Shrugged the New Vibe?](https://www.commonreader.co.uk/p/is-atlas-shrugged-the-new-vibe)
 * [2025-01-18, 15:15:03](https://news.ycombinator.com/item?id=42748949) - [Shapecatcher – Find Unicode characters by drawing](https://shapecatcher.com/)
 * [2025-01-18, 15:00:15](https://news.ycombinator.com/item?id=42748846) - [NASA's Next-Level Discovery: Webb Exposes Dazzling Interstellar Web of Dust](https://scitechdaily.com/nasas-next-level-discovery-webb-exposes-dazzling-interstellar-web-of-dust/)
+* [2025-01-18, 14:41:53](https://news.ycombinator.com/item?id=42748691) - [Prime Numbers So Memorable That People Hunt for Them](https://www.scientificamerican.com/article/these-prime-numbers-are-so-memorable-that-people-hunt-for-them/)
 * [2025-01-18, 14:22:46](https://news.ycombinator.com/item?id=42748534) - [Rule-Based Programming in Interactive Fiction](https://eblong.com/zarf/essays/rule-based-if/index.html)
 * [2025-01-18, 14:05:20](https://news.ycombinator.com/item?id=42748394) - [Ask HN: Has anyone tried alternative company models (like a co-op) for SaaS?](https://news.ycombinator.com/item?id=42748394)
 * [2025-01-18, 13:29:39](https://news.ycombinator.com/item?id=42748172) - [UK police seize Cybertruck because it's illegal there](https://www.popsci.com/technology/uk-cybertruck-illegal/)
