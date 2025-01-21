@@ -57,5 +57,6 @@
 * [2025-01-19, 03:12:30](https://news.ycombinator.com/item?id=42753262) - [Mark Zuckerberg blamed Sheryl Sandberg for Meta 'inclusivity' push: report](https://www.msn.com/en-us/money/executive-leadership-and-management/mark-zuckerberg-blamed-sheryl-sandberg-for-meta-inclusivity-push-report/ar-AA1xolsJ)
 * [2025-01-19, 01:37:37](https://news.ycombinator.com/item?id=42752875) - [Games Workshop and the big ambition of a miniatures business](https://www.bbc.com/news/articles/cr5369029dzo)
 * [2025-01-19, 00:53:38](https://news.ycombinator.com/item?id=42752703) - [We need to protect the protocol that runs Bluesky](https://www.technologyreview.com/2025/01/17/1110063/we-need-to-protect-the-protocol-that-runs-bluesky/)
+* [2025-01-19, 00:52:07](https://news.ycombinator.com/item?id=42752696) - [AI Founder's Bitter Lesson. Chapter 2 – No Power](https://lukaspetersson.com/blog/2025/power-vertical/)
 * [2025-01-19, 00:38:36](https://news.ycombinator.com/item?id=42752637) - [The Sonnenschein-Mantel-Debreu Results After Thirty Years](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=203ee701ee9833364eb551c342bb4b0a120f937e)
 * [2025-01-19, 00:31:38](https://news.ycombinator.com/item?id=42752604) - [Unix Spell Ran in 64kB RAM](https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram)
