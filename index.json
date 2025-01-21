@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-21, 10:29:23",
+      "https://news.ycombinator.com/item?id=42778472"
+    ],
+    [
+      "Open Source Alternative to Vercel, Netlify and Heroku",
+      "https://dokploy.com"
+    ]
+  ],
+  [
+    [
       "2025-01-21, 10:17:24",
       "https://news.ycombinator.com/item?id=42778386"
     ],
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2025-01-21, 08:59:13",
-      "https://news.ycombinator.com/item?id=42777882"
-    ],
-    [
-      "Statement on planned protests during the upcoming FOSDEM 2025",
-      "https://fosdem.org/2025/news/2025-01-16-protests/"
-    ]
-  ],
-  [
-    [
       "2025-01-21, 08:57:33",
       "https://news.ycombinator.com/item?id=42777874"
     ],
@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2025-01-21, 08:26:55",
+      "https://news.ycombinator.com/item?id=42777718"
+    ],
+    [
+      "Some Lessons from the OpenAI FrontierMath Debacle",
+      "https://www.lesswrong.com/posts/8ZgLYwBmB3vLavjKE/some-lessons-from-the-openai-frontiermath-debacle"
+    ]
+  ],
+  [
+    [
       "2025-01-21, 08:26:44",
       "https://news.ycombinator.com/item?id=42777715"
     ],
@@ -97,6 +107,16 @@
     [
       "Context should go away for Go 2 (2017)",
       "https://faiface.github.io/post/context-should-go-away-go2/"
+    ]
+  ],
+  [
+    [
+      "2025-01-20, 23:07:54",
+      "https://news.ycombinator.com/item?id=42774228"
+    ],
+    [
+      "An astronomical view of Ancient Egyptian star clocks (2021)",
+      "https://storymaps.arcgis.com/stories/eea3fbc9c05b40948563ffd0ccfab59d"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2025-01-20, 20:51:46",
-      "https://news.ycombinator.com/item?id=42772911"
-    ],
-    [
-      "Flag drawing with Turtle",
-      "https://jtanx.github.io/2018/12/28/turtle-flag-drawing/"
-    ]
-  ],
-  [
-    [
       "2025-01-20, 19:31:03",
       "https://news.ycombinator.com/item?id=42772170"
     ],
@@ -147,16 +157,6 @@
     [
       "I am (not) a failure: Lessons learned from six failed startup attempts",
       "http://blog.rongarret.info/2025/01/i-am-not-failure-lessons-learned-from.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-20, 18:12:24",
-      "https://news.ycombinator.com/item?id=42771403"
-    ],
-    [
-      "Kronotop: Redis-compatible, transactional document store backed by FoundationDB",
-      "https://github.com/kronotop/kronotop"
     ]
   ],
   [
