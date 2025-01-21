@@ -1,15 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-21, 03:19:42](https://news.ycombinator.com/item?id=42776131) - [Protecting the Meaning and Value of American Citizenship](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-meaning-and-value-of-american-citizenship/)
-* [2025-01-21, 02:44:28](https://news.ycombinator.com/item?id=42775848) - [President signs order refusing to enforce TikTok ban for 75 days](https://www.theverge.com/2025/1/20/24348213/trump-tiktok-ban-executive-order-sale-delay-china)
-* [2025-01-21, 02:31:36](https://news.ycombinator.com/item?id=42775747) - [Japan Offers Free Daycare to Boost Tokyo's Falling Birth Rate](https://www.xatakaon.com/magnet/japan-is-desperate-to-increase-its-birth-rate-that-tokyo-is-trying-out-a-new-idea-free-daycare)
 * [2025-01-21, 00:49:41](https://news.ycombinator.com/item?id=42775029) - [Ruff: Python linter and code formatter written in Rust](https://github.com/astral-sh/ruff)
 * [2025-01-20, 23:07:54](https://news.ycombinator.com/item?id=42774228) - [An astronomical view of Ancient Egyptian star clocks (2021)](https://storymaps.arcgis.com/stories/eea3fbc9c05b40948563ffd0ccfab59d)
 * [2025-01-20, 23:07:10](https://news.ycombinator.com/item?id=42774221) - [Reverse engineering Call of Duty anti-cheat](https://ssno.cc/posts/reversing-tac-1-4-2025/)
 * [2025-01-20, 20:51:46](https://news.ycombinator.com/item?id=42772911) - [Flag drawing with Turtle](https://jtanx.github.io/2018/12/28/turtle-flag-drawing/)
-* [2025-01-20, 20:06:55](https://news.ycombinator.com/item?id=42772518) - [The Making of Community Notes (2024)](https://asteriskmag.com/issues/08/the-making-of-community-notes)
+* [2025-01-20, 20:38:08](https://news.ycombinator.com/item?id=42772771) - [Authors seek Meta's torrent client logs and seeding data in AI piracy probe](https://torrentfreak.com/authors-seek-metas-torrent-client-logs-and-seeding-data-in-ai-piracy-probe-250120/)
 * [2025-01-20, 19:31:03](https://news.ycombinator.com/item?id=42772170) - [ROCm Device Support Wishlist](https://github.com/ROCm/ROCm/discussions/4276)
 * [2025-01-20, 18:40:45](https://news.ycombinator.com/item?id=42771676) - [I am (not) a failure: Lessons learned from six failed startup attempts](http://blog.rongarret.info/2025/01/i-am-not-failure-lessons-learned-from.html)
+* [2025-01-20, 18:13:48](https://news.ycombinator.com/item?id=42771413) - [Ask HN: Seeking an IPL-V Interpreter](https://news.ycombinator.com/item?id=42771413)
 * [2025-01-20, 18:12:24](https://news.ycombinator.com/item?id=42771403) - [Kronotop: Redis-compatible, transactional document store backed by FoundationDB](https://github.com/kronotop/kronotop)
 * [2025-01-20, 17:02:11](https://news.ycombinator.com/item?id=42770629) - [YC X25, the spring 2025 batch](https://www.ycombinator.com/blog/announcing-yc-x25/)
 * [2025-01-20, 16:27:22](https://news.ycombinator.com/item?id=42770200) - [Show HN: Personalized Duolingo (kind of) for vocabulary building](https://github.com/baturyilmaz/wordpecker-app)
@@ -30,6 +28,8 @@
 * [2025-01-17, 14:56:53](https://news.ycombinator.com/item?id=42738143) - [Guitar chord karaoke with Vamp, Chordino, and FFmpeg (2022)](https://dylanbeattie.net/2022/09/19/the-road-to-guitaraoke-part-1-vamp-chordino-imagesharp-ffmpeg.html)
 * [2025-01-17, 13:40:33](https://news.ycombinator.com/item?id=42737401) - [Optical Fresnel zone plate flat lens: colored photoresist through I-line stepper](https://www.nature.com/articles/s41377-024-01725-6)
 * [2025-01-17, 03:03:05](https://news.ycombinator.com/item?id=42733654) - [417-megapixel Andromeda galaxy panorama took over a decade to make](https://petapixel.com/2025/01/16/417-megapixel-andromeda-galaxy-panorama-took-over-a-decade-to-make/)
+* [2025-01-16, 22:13:56](https://news.ycombinator.com/item?id=42731588) - [Slugs on a Cube: An Interactive Animation](https://blog.gingerbeardman.com/2025/01/16/slugs-on-a-cube-interactive-animation/)
+* [2025-01-16, 18:08:16](https://news.ycombinator.com/item?id=42728692) - [Bunkers in Albania](https://en.wikipedia.org/wiki/Bunkers_in_Albania)
 
 ## [Archives](archives/index.md)
 
