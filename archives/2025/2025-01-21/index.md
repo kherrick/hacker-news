@@ -9,6 +9,7 @@
 * [2025-01-21, 17:54:20](https://news.ycombinator.com/item?id=42783165) - [How the strengths of Lisp facilitate complex and flexible applications (2016)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5952920/)
 * [2025-01-21, 17:37:39](https://news.ycombinator.com/item?id=42782929) - [Cab Numbers](https://www.shyamsundergupta.com/cab.htm)
 * [2025-01-21, 17:37:01](https://news.ycombinator.com/item?id=42782914) - [Invisible Electrostatic Wall at 3M plant](http://amasci.com/weird/unusual/e-wall.html)
+* [2025-01-21, 17:32:01](https://news.ycombinator.com/item?id=42782854) - [Deploying Rails on Docker: Kamal Alternative](https://impactahead.com/dev/dokku-deploying-rails-on-docker-kamal-alternative)
 * [2025-01-21, 17:23:23](https://news.ycombinator.com/item?id=42782737) - [Interesting BiCMOS circuits in the Pentium, reverse-engineered](https://www.righto.com/2025/01/pentium-reverse-engineering-bicmos.html)
 * [2025-01-21, 17:01:01](https://news.ycombinator.com/item?id=42782440) - [Motion (YC W20) Is Hiring EMs and Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
 * [2025-01-21, 16:52:42](https://news.ycombinator.com/item?id=42782295) - [Show HN: I made a app that uses NFC as a physical switch to block distractions](https://www.foqos.app)
