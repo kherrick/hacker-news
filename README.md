@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-21, 07:16:29](https://news.ycombinator.com/item?id=42777379) - [Ask HN: Can we just admit we want to replace jobs with AI?](https://news.ycombinator.com/item?id=42777379)
 * [2025-01-21, 06:28:25](https://news.ycombinator.com/item?id=42777193) - [More than 40% of postdocs leave academia, study reveals](https://www.nature.com/articles/d41586-025-00142-y)
 * [2025-01-21, 00:49:41](https://news.ycombinator.com/item?id=42775029) - [Ruff: Python linter and code formatter written in Rust](https://github.com/astral-sh/ruff)
 * [2025-01-20, 23:07:54](https://news.ycombinator.com/item?id=42774228) - [An astronomical view of Ancient Egyptian star clocks (2021)](https://storymaps.arcgis.com/stories/eea3fbc9c05b40948563ffd0ccfab59d)
@@ -21,6 +20,7 @@
 * [2025-01-20, 11:33:15](https://news.ycombinator.com/item?id=42767584) - [Using eSIMs with devices that only have a physical SIM slot via a 9eSIM SIM car](https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/)
 * [2025-01-20, 10:23:31](https://news.ycombinator.com/item?id=42767132) - [Zork: The Great Inner Workings (2020)](https://medium.com/swlh/zork-the-great-inner-workings-b68012952bdc)
 * [2025-01-20, 09:41:39](https://news.ycombinator.com/item?id=42766825) - [Where do those undergraduate divisibility problems come from?](https://grossack.site/2025/01/16/undergrad-divisibility-problems.html)
+* [2025-01-20, 08:21:16](https://news.ycombinator.com/item?id=42766205) - [Parinfer: Simpler Lisp Editing](https://shaunlebron.github.io/parinfer/)
 * [2025-01-20, 03:41:27](https://news.ycombinator.com/item?id=42764762) - [I'll think twice before using GitHub Actions again](https://ninkovic.dev/blog/2025/think-twice-before-using-github-actions)
 * [2025-01-19, 06:28:36](https://news.ycombinator.com/item?id=42754305) - [SRCL: Open-source React project to build web apps with terminal aesthetics](https://www.sacred.computer)
 * [2025-01-18, 21:02:22](https://news.ycombinator.com/item?id=42751403) - [AWS will discontinue support for AWS App Mesh](https://aws.amazon.com/blogs/containers/migrating-from-aws-app-mesh-to-amazon-ecs-service-connect/)
