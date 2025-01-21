@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-21, 19:00:03](https://news.ycombinator.com/item?id=42783948) - [Mercator: Extreme](https://mrgris.com/projects/merc-extreme/)
 * [2025-01-21, 18:24:03](https://news.ycombinator.com/item?id=42783543) - [Rafael Araujo's 20 Mesmerizing Geometrical Masterpieces (2024)](https://abakcus.com/rafael-araujo-geometrical-masterpieces/)
+* [2025-01-21, 18:22:16](https://news.ycombinator.com/item?id=42783514) - [Webring](https://webring.xxiivv.com/)
 * [2025-01-21, 18:12:50](https://news.ycombinator.com/item?id=42783391) - [Why do regexes use `$` and `^` as line anchors? (2024)](https://buttondown.com/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/)
 * [2025-01-21, 18:12:34](https://news.ycombinator.com/item?id=42783385) - [MIT Unveils New Robot Insect, Paving the Way Toward Rise of Robotic Pollinators](https://thedebrief.org/mit-unveils-new-robot-insect-paving-the-way-toward-the-rise-of-robotic-pollinators/)
 * [2025-01-21, 17:54:20](https://news.ycombinator.com/item?id=42783165) - [How the strengths of Lisp facilitate complex and flexible applications (2016)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5952920/)
@@ -20,7 +22,6 @@
 * [2025-01-21, 13:19:02](https://news.ycombinator.com/item?id=42779776) - [Ask HN: Organize local communities without Facebook?](https://news.ycombinator.com/item?id=42779776)
 * [2025-01-21, 12:29:22](https://news.ycombinator.com/item?id=42779378) - [Show HN: Amurex – An open source AI meeting copilot](https://sansyrox.github.io/amurex_ce/)
 * [2025-01-21, 11:54:50](https://news.ycombinator.com/item?id=42779147) - [People are bad at reporting what they eat. That's a problem for dietary research](https://www.science.org/content/article/people-are-bad-reporting-what-they-eat-s-problem-dietary-research)
-* [2025-01-21, 11:06:12](https://news.ycombinator.com/item?id=42778771) - [Show HN: Printercow – Turn any thermal printer into an API endpoint](https://www.printercow.com/)
 * [2025-01-21, 08:53:21](https://news.ycombinator.com/item?id=42777857) - [Kimi K1.5: Scaling Reinforcement Learning with LLMs](https://github.com/MoonshotAI/Kimi-k1.5)
 * [2025-01-20, 23:07:10](https://news.ycombinator.com/item?id=42774221) - [Reverse engineering Call of Duty anti-cheat](https://ssno.cc/posts/reversing-tac-1-4-2025/)
 * [2025-01-20, 19:31:03](https://news.ycombinator.com/item?id=42772170) - [ROCm Device Support Wishlist](https://github.com/ROCm/ROCm/discussions/4276)
@@ -28,7 +29,6 @@
 * [2025-01-18, 14:41:53](https://news.ycombinator.com/item?id=42748691) - [Prime Numbers So Memorable That People Hunt for Them](https://www.scientificamerican.com/article/these-prime-numbers-are-so-memorable-that-people-hunt-for-them/)
 * [2025-01-18, 08:16:17](https://news.ycombinator.com/item?id=42746752) - [Show HN: I made a mini golf in my lunch time](https://paper-golf.netlify.app/)
 * [2025-01-17, 19:40:37](https://news.ycombinator.com/item?id=42742396) - [Japan's original decluttering guru (no, not that one)](https://www.nytimes.com/2025/01/16/business/hideko-yamashita-decluttering-danshari.html)
-* [2025-01-17, 16:22:22](https://news.ycombinator.com/item?id=42739597) - [Regency Sex Ed](https://www.historynewsnetwork.org/article/regency-sex-ed)
 * [2025-01-17, 03:03:05](https://news.ycombinator.com/item?id=42733654) - [417-megapixel Andromeda galaxy panorama took over a decade to make](https://petapixel.com/2025/01/16/417-megapixel-andromeda-galaxy-panorama-took-over-a-decade-to-make/)
 
 ## [Archives](archives/index.md)

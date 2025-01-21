@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-01-21](index.md)
 
+* [2025-01-21, 19:00:03](https://news.ycombinator.com/item?id=42783948) - [Mercator: Extreme](https://mrgris.com/projects/merc-extreme/)
 * [2025-01-21, 18:24:03](https://news.ycombinator.com/item?id=42783543) - [Rafael Araujo's 20 Mesmerizing Geometrical Masterpieces (2024)](https://abakcus.com/rafael-araujo-geometrical-masterpieces/)
+* [2025-01-21, 18:22:16](https://news.ycombinator.com/item?id=42783514) - [Webring](https://webring.xxiivv.com/)
 * [2025-01-21, 18:12:50](https://news.ycombinator.com/item?id=42783391) - [Why do regexes use `$` and `^` as line anchors? (2024)](https://buttondown.com/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/)
 * [2025-01-21, 18:12:34](https://news.ycombinator.com/item?id=42783385) - [MIT Unveils New Robot Insect, Paving the Way Toward Rise of Robotic Pollinators](https://thedebrief.org/mit-unveils-new-robot-insect-paving-the-way-toward-the-rise-of-robotic-pollinators/)
 * [2025-01-21, 17:54:20](https://news.ycombinator.com/item?id=42783165) - [How the strengths of Lisp facilitate complex and flexible applications (2016)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5952920/)
