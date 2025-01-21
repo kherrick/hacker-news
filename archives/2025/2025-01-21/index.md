@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-01-21](index.md)
 
+* [2025-01-21, 08:59:13](https://news.ycombinator.com/item?id=42777882) - [Statement on planned protests during the upcoming FOSDEM 2025](https://fosdem.org/2025/news/2025-01-16-protests/)
+* [2025-01-21, 08:57:33](https://news.ycombinator.com/item?id=42777874) - [The QUIC API OpenSSL will not provide](https://daniel.haxx.se/blog/2021/10/25/the-quic-api-openssl-will-not-provide/)
+* [2025-01-21, 08:53:21](https://news.ycombinator.com/item?id=42777857) - [Kimi K1.5: Scaling Reinforcement Learning with LLMs](https://github.com/MoonshotAI/Kimi-k1.5)
+* [2025-01-21, 08:36:19](https://news.ycombinator.com/item?id=42777769) - [The most viewed articles of 2024](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2025-01-15/Traffic_report)
+* [2025-01-21, 08:26:55](https://news.ycombinator.com/item?id=42777718) - [Some Lessons from the OpenAI FrontierMath Debacle](https://www.lesswrong.com/posts/8ZgLYwBmB3vLavjKE/some-lessons-from-the-openai-frontiermath-debacle)
+* [2025-01-21, 08:08:24](https://news.ycombinator.com/item?id=42777625) - [Context should go away for Go 2](https://faiface.github.io/post/context-should-go-away-go2/)
 * [2025-01-21, 07:16:29](https://news.ycombinator.com/item?id=42777379) - [Ask HN: Can we just admit we want to replace jobs with AI?](https://news.ycombinator.com/item?id=42777379)
 * [2025-01-21, 06:28:25](https://news.ycombinator.com/item?id=42777193) - [More than 40% of postdocs leave academia, study reveals](https://www.nature.com/articles/d41586-025-00142-y)
 * [2025-01-21, 03:19:42](https://news.ycombinator.com/item?id=42776131) - [Protecting the Meaning and Value of American Citizenship](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-meaning-and-value-of-american-citizenship/)
