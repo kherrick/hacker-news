@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-01-21, 09:09:15",
-      "https://news.ycombinator.com/item?id=42777943"
-    ],
-    [
-      "Framework Fatigue: The Real Reason Developers Get Angry About New Tech",
-      "https://blog.raed.dev/posts/framework-fatigue-the-real-reason-developers-get-angry-about-new-tech"
-    ]
-  ],
-  [
-    [
       "2025-01-21, 08:57:33",
       "https://news.ycombinator.com/item?id=42777874"
     ],
@@ -77,16 +67,6 @@
     [
       "The most viewed articles of 2024",
       "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2025-01-15/Traffic_report"
-    ]
-  ],
-  [
-    [
-      "2025-01-21, 08:26:55",
-      "https://news.ycombinator.com/item?id=42777718"
-    ],
-    [
-      "Some Lessons from the OpenAI FrontierMath Debacle",
-      "https://www.lesswrong.com/posts/8ZgLYwBmB3vLavjKE/some-lessons-from-the-openai-frontiermath-debacle"
     ]
   ],
   [
@@ -157,6 +137,16 @@
     [
       "I am (not) a failure: Lessons learned from six failed startup attempts",
       "http://blog.rongarret.info/2025/01/i-am-not-failure-lessons-learned-from.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-20, 18:12:24",
+      "https://news.ycombinator.com/item?id=42771403"
+    ],
+    [
+      "Kronotop: Redis-compatible, transactional document store backed by FoundationDB",
+      "https://github.com/kronotop/kronotop"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Guitar chord karaoke with Vamp, Chordino, and FFmpeg (2022)",
       "https://dylanbeattie.net/2022/09/19/the-road-to-guitaraoke-part-1-vamp-chordino-imagesharp-ffmpeg.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-17, 13:40:33",
+      "https://news.ycombinator.com/item?id=42737401"
+    ],
+    [
+      "Optical Fresnel zone plate flat lens: colored photoresist through I-line stepper",
+      "https://www.nature.com/articles/s41377-024-01725-6"
     ]
   ],
   [
