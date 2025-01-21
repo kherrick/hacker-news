@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-21, 11:16:40](https://news.ycombinator.com/item?id=42778872) - [The Gilded Age novel that helps explain our fascination with Luigi Mangione](https://theconversation.com/the-gilded-age-novel-that-helps-explain-our-fascination-with-luigi-mangione-246495)
-* [2025-01-21, 11:09:51](https://news.ycombinator.com/item?id=42778810) - [Trump's science advisers: how they could influence his second presidency](https://www.nature.com/articles/d41586-025-00132-0)
 * [2025-01-21, 10:35:53](https://news.ycombinator.com/item?id=42778531) - [What I've learned about writing AI apps so far](https://seldo.com/posts/what-ive-learned-about-writing-ai-apps-so-far)
 * [2025-01-21, 10:29:23](https://news.ycombinator.com/item?id=42778472) - [Open Source Alternative to Vercel, Netlify and Heroku](https://dokploy.com)
 * [2025-01-21, 10:17:24](https://news.ycombinator.com/item?id=42778386) - [Poland fumes over US block on AI chips](https://www.politico.eu/article/poland-fumes-us-block-joe-biden-ai-chips-cap-export/)
@@ -11,6 +10,7 @@
 * [2025-01-21, 08:53:21](https://news.ycombinator.com/item?id=42777857) - [Kimi K1.5: Scaling Reinforcement Learning with LLMs](https://github.com/MoonshotAI/Kimi-k1.5)
 * [2025-01-21, 08:26:44](https://news.ycombinator.com/item?id=42777715) - [We've lost our respect for complexity](https://wilsoniumite.com/2025/01/21/weve-lost-our-respect-for-complexity/)
 * [2025-01-21, 08:08:24](https://news.ycombinator.com/item?id=42777625) - [Context should go away for Go 2 (2017)](https://faiface.github.io/post/context-should-go-away-go2/)
+* [2025-01-20, 23:07:54](https://news.ycombinator.com/item?id=42774228) - [An astronomical view of Ancient Egyptian star clocks (2021)](https://storymaps.arcgis.com/stories/eea3fbc9c05b40948563ffd0ccfab59d)
 * [2025-01-20, 23:07:10](https://news.ycombinator.com/item?id=42774221) - [Reverse engineering Call of Duty anti-cheat](https://ssno.cc/posts/reversing-tac-1-4-2025/)
 * [2025-01-20, 21:00:24](https://news.ycombinator.com/item?id=42772983) - [Official DeepSeek R1 Now on Ollama](https://ollama.com/library/deepseek-r1)
 * [2025-01-20, 19:31:03](https://news.ycombinator.com/item?id=42772170) - [ROCm Device Support Wishlist](https://github.com/ROCm/ROCm/discussions/4276)
