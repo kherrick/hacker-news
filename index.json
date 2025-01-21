@@ -1,22 +1,72 @@
 [
   [
     [
+      "2025-01-21, 08:59:13",
+      "https://news.ycombinator.com/item?id=42777882"
+    ],
+    [
+      "Statement on planned protests during the upcoming FOSDEM 2025",
+      "https://fosdem.org/2025/news/2025-01-16-protests/"
+    ]
+  ],
+  [
+    [
+      "2025-01-21, 08:57:33",
+      "https://news.ycombinator.com/item?id=42777874"
+    ],
+    [
+      "The QUIC API OpenSSL will not provide",
+      "https://daniel.haxx.se/blog/2021/10/25/the-quic-api-openssl-will-not-provide/"
+    ]
+  ],
+  [
+    [
+      "2025-01-21, 08:53:21",
+      "https://news.ycombinator.com/item?id=42777857"
+    ],
+    [
+      "Kimi K1.5: Scaling Reinforcement Learning with LLMs",
+      "https://github.com/MoonshotAI/Kimi-k1.5"
+    ]
+  ],
+  [
+    [
+      "2025-01-21, 08:36:19",
+      "https://news.ycombinator.com/item?id=42777769"
+    ],
+    [
+      "The most viewed articles of 2024",
+      "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2025-01-15/Traffic_report"
+    ]
+  ],
+  [
+    [
+      "2025-01-21, 08:26:55",
+      "https://news.ycombinator.com/item?id=42777718"
+    ],
+    [
+      "Some Lessons from the OpenAI FrontierMath Debacle",
+      "https://www.lesswrong.com/posts/8ZgLYwBmB3vLavjKE/some-lessons-from-the-openai-frontiermath-debacle"
+    ]
+  ],
+  [
+    [
+      "2025-01-21, 08:08:24",
+      "https://news.ycombinator.com/item?id=42777625"
+    ],
+    [
+      "Context should go away for Go 2",
+      "https://faiface.github.io/post/context-should-go-away-go2/"
+    ]
+  ],
+  [
+    [
       "2025-01-21, 06:28:25",
       "https://news.ycombinator.com/item?id=42777193"
     ],
     [
       "More than 40% of postdocs leave academia, study reveals",
       "https://www.nature.com/articles/d41586-025-00142-y"
-    ]
-  ],
-  [
-    [
-      "2025-01-21, 00:49:41",
-      "https://news.ycombinator.com/item?id=42775029"
-    ],
-    [
-      "Ruff: Python linter and code formatter written in Rust",
-      "https://github.com/astral-sh/ruff"
     ]
   ],
   [
@@ -67,16 +117,6 @@
     [
       "Flag drawing with Turtle",
       "https://jtanx.github.io/2018/12/28/turtle-flag-drawing/"
-    ]
-  ],
-  [
-    [
-      "2025-01-20, 20:38:08",
-      "https://news.ycombinator.com/item?id=42772771"
-    ],
-    [
-      "Authors seek Meta's torrent client logs and seeding data in AI piracy probe",
-      "https://torrentfreak.com/authors-seek-metas-torrent-client-logs-and-seeding-data-in-ai-piracy-probe-250120/"
     ]
   ],
   [
@@ -201,26 +241,6 @@
   ],
   [
     [
-      "2025-01-20, 08:21:16",
-      "https://news.ycombinator.com/item?id=42766205"
-    ],
-    [
-      "Parinfer: Simpler Lisp Editing",
-      "https://shaunlebron.github.io/parinfer/"
-    ]
-  ],
-  [
-    [
-      "2025-01-20, 03:41:27",
-      "https://news.ycombinator.com/item?id=42764762"
-    ],
-    [
-      "I'll think twice before using GitHub Actions again",
-      "https://ninkovic.dev/blog/2025/think-twice-before-using-github-actions"
-    ]
-  ],
-  [
-    [
       "2025-01-19, 06:28:36",
       "https://news.ycombinator.com/item?id=42754305"
     ],
@@ -237,16 +257,6 @@
     [
       "AWS will discontinue support for AWS App Mesh",
       "https://aws.amazon.com/blogs/containers/migrating-from-aws-app-mesh-to-amazon-ecs-service-connect/"
-    ]
-  ],
-  [
-    [
-      "2025-01-17, 23:31:49",
-      "https://news.ycombinator.com/item?id=42744357"
-    ],
-    [
-      "Bioinspired weather-responsive adaptive shading",
-      "https://www.uni-stuttgart.de/en/university/news/all/Bioinspired-weather-responsive-adaptive-shading/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "417-megapixel Andromeda galaxy panorama took over a decade to make",
       "https://petapixel.com/2025/01/16/417-megapixel-andromeda-galaxy-panorama-took-over-a-decade-to-make/"
-    ]
-  ],
-  [
-    [
-      "2025-01-16, 22:13:56",
-      "https://news.ycombinator.com/item?id=42731588"
-    ],
-    [
-      "Slugs on a Cube: An Interactive Animation",
-      "https://blog.gingerbeardman.com/2025/01/16/slugs-on-a-cube-interactive-animation/"
     ]
   ]
 ]
