@@ -41,6 +41,7 @@
 * [2025-01-20, 13:50:58](https://news.ycombinator.com/item?id=42768703) - [I wrote a commercial game in C in 2025](https://www.cowleyforniastudios.com/2025/1/20/choosing-c)
 * [2025-01-20, 12:37:58](https://news.ycombinator.com/item?id=42768072) - [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
 * [2025-01-20, 12:34:47](https://news.ycombinator.com/item?id=42768046) - [You don't need a JavaScript framework to build websites](https://velocity-core.etribes.de/)
+* [2025-01-20, 12:15:29](https://news.ycombinator.com/item?id=42767908) - [Unconventional Adventures](https://quarter--mile.com/Unconventional-Adventures)
 * [2025-01-20, 12:02:19](https://news.ycombinator.com/item?id=42767797) - [Celestial Navigation for Drones](https://www.mdpi.com/2504-446X/8/11/652)
 * [2025-01-20, 11:33:15](https://news.ycombinator.com/item?id=42767584) - [Using eSIMs with devices that only have a physical SIM slot via a 9eSIM SIM car](https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/)
 * [2025-01-20, 11:20:02](https://news.ycombinator.com/item?id=42767507) - [I Met Paul Graham Once](http://okayfail.com/2025/i-met-pg-once.html)

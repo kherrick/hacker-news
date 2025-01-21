@@ -8,7 +8,6 @@
 * [2025-01-21, 19:39:39](https://news.ycombinator.com/item?id=42784365) - [Ask HN: Is anyone doing anything cool with tiny language models?](https://news.ycombinator.com/item?id=42784365)
 * [2025-01-21, 19:00:03](https://news.ycombinator.com/item?id=42783948) - [Mercator: Extreme](https://mrgris.com/projects/merc-extreme/)
 * [2025-01-21, 18:24:03](https://news.ycombinator.com/item?id=42783543) - [Rafael Araujo's 20 Mesmerizing Geometrical Masterpieces (2024)](https://abakcus.com/rafael-araujo-geometrical-masterpieces/)
-* [2025-01-21, 18:12:34](https://news.ycombinator.com/item?id=42783385) - [MIT Unveils New Robot Insect, Paving the Way Toward Rise of Robotic Pollinators](https://thedebrief.org/mit-unveils-new-robot-insect-paving-the-way-toward-the-rise-of-robotic-pollinators/)
 * [2025-01-21, 17:37:39](https://news.ycombinator.com/item?id=42782929) - [Cab Numbers](https://www.shyamsundergupta.com/cab.htm)
 * [2025-01-21, 17:37:01](https://news.ycombinator.com/item?id=42782914) - [Invisible Electrostatic Wall at 3M plant (1996)](http://amasci.com/weird/unusual/e-wall.html)
 * [2025-01-21, 17:23:23](https://news.ycombinator.com/item?id=42782737) - [Interesting BiCMOS circuits in the Pentium, reverse-engineered](https://www.righto.com/2025/01/pentium-reverse-engineering-bicmos.html)
@@ -29,6 +28,7 @@
 * [2025-01-21, 08:08:24](https://news.ycombinator.com/item?id=42777625) - [Context should go away for Go 2 (2017)](https://faiface.github.io/post/context-should-go-away-go2/)
 * [2025-01-21, 06:28:25](https://news.ycombinator.com/item?id=42777193) - [More than 40% of postdocs leave academia, study reveals](https://www.nature.com/articles/d41586-025-00142-y)
 * [2025-01-20, 23:07:10](https://news.ycombinator.com/item?id=42774221) - [Reverse engineering Call of Duty anti-cheat](https://ssno.cc/posts/reversing-tac-1-4-2025/)
+* [2025-01-20, 12:15:29](https://news.ycombinator.com/item?id=42767908) - [Unconventional Adventures](https://quarter--mile.com/Unconventional-Adventures)
 * [2025-01-18, 14:41:53](https://news.ycombinator.com/item?id=42748691) - [Prime Numbers So Memorable That People Hunt for Them](https://www.scientificamerican.com/article/these-prime-numbers-are-so-memorable-that-people-hunt-for-them/)
 
 ## [Archives](archives/index.md)
