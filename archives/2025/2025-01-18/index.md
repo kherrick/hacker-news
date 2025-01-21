@@ -6,6 +6,7 @@
 
 * [2025-01-18, 23:52:23](https://news.ycombinator.com/item?id=42752402) - [Nation-scale Matrix deployments will fail using the community version of Synapse](https://mastodon.matrix.org/@element/113842786942364269)
 * [2025-01-18, 22:44:58](https://news.ycombinator.com/item?id=42752023) - [Pharaoh's Tomb HD – A Remake Made in JavaScript with Kaplay](https://pt-hd.iocaihost.me/)
+* [2025-01-18, 22:03:26](https://news.ycombinator.com/item?id=42751785) - [Fixing a uname bug (Apache NuttX RTOS)](https://lupyuen.org/articles/uname.html)
 * [2025-01-18, 21:50:15](https://news.ycombinator.com/item?id=42751690) - [Kalman Filter Tutorial](https://www.kalmanfilter.net/default.aspx)
 * [2025-01-18, 21:42:31](https://news.ycombinator.com/item?id=42751649) - [Perplexity AI submits bid to merge with TikTok](https://techcrunch.com/2025/01/18/perplexity-ai-submits-bid-to-merge-with-tiktok/)
 * [2025-01-18, 21:02:22](https://news.ycombinator.com/item?id=42751403) - [AWS will discontinue support for AWS App Mesh](https://aws.amazon.com/blogs/containers/migrating-from-aws-app-mesh-to-amazon-ecs-service-connect/)
