@@ -27,8 +27,8 @@
 * [2025-01-18, 22:03:26](https://news.ycombinator.com/item?id=42751785) - [Fixing a uname bug (Apache NuttX RTOS)](https://lupyuen.org/articles/uname.html)
 * [2025-01-18, 14:41:53](https://news.ycombinator.com/item?id=42748691) - [Prime Numbers So Memorable That People Hunt for Them](https://www.scientificamerican.com/article/these-prime-numbers-are-so-memorable-that-people-hunt-for-them/)
 * [2025-01-18, 08:16:17](https://news.ycombinator.com/item?id=42746752) - [Show HN: I made a mini golf in my lunch time](https://paper-golf.netlify.app/)
+* [2025-01-17, 20:00:30](https://news.ycombinator.com/item?id=42742621) - [Optimizing Jupyter Notebooks for LLMs](https://www.alexmolas.com/2025/01/15/ipynb-for-llm.html)
 * [2025-01-17, 16:22:22](https://news.ycombinator.com/item?id=42739597) - [Regency Sex Ed: How did women in 19th C. Europe learn about the birds and bees?](https://www.historynewsnetwork.org/article/regency-sex-ed)
-* [2025-01-17, 14:56:53](https://news.ycombinator.com/item?id=42738143) - [Guitar chord karaoke with Vamp, Chordino, and FFmpeg (2022)](https://dylanbeattie.net/2022/09/19/the-road-to-guitaraoke-part-1-vamp-chordino-imagesharp-ffmpeg.html)
 * [2025-01-17, 03:03:05](https://news.ycombinator.com/item?id=42733654) - [417-megapixel Andromeda galaxy panorama took over a decade to make](https://petapixel.com/2025/01/16/417-megapixel-andromeda-galaxy-panorama-took-over-a-decade-to-make/)
 
 ## [Archives](archives/index.md)
