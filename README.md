@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-21, 17:01:01](https://news.ycombinator.com/item?id=42782440) - [Motion (YC W20) Is Hiring EMs and Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
 * [2025-01-21, 16:25:25](https://news.ycombinator.com/item?id=42781922) - [Guided by the beauty of our test suite](https://www.mattkeeter.com/blog/2025-01-20-guided/)
 * [2025-01-21, 15:47:04](https://news.ycombinator.com/item?id=42781388) - [How many Alpine packages can you install at once? (2024)](https://www.naff.dev/blog/all-the-packages)
-* [2025-01-21, 15:39:52](https://news.ycombinator.com/item?id=42781293) - [Should We Use AI and LLMs for Christian Apologetics?](https://lukeplant.me.uk/blog/posts/should-we-use-llms-for-christian-apologetics/)
 * [2025-01-21, 15:17:40](https://news.ycombinator.com/item?id=42781017) - [Show HN: Pica – Rust-based agentic AI infrastructure (open-source)](https://www.picaos.com/)
 * [2025-01-21, 14:59:44](https://news.ycombinator.com/item?id=42780816) - [0click deanonymization attack targeting Signal, Discord and other platforms](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
 * [2025-01-21, 13:47:18](https://news.ycombinator.com/item?id=42780022) - [Metacognitive laziness: Effects of generative AI on learning motivation](https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13544)
