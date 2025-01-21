@@ -23,6 +23,7 @@
 * [2025-01-17, 17:15:07](https://news.ycombinator.com/item?id=42740596) - [Brood War Korean Translations](https://blog.sourcedive.net/brood-war-korean-translations/)
 * [2025-01-17, 17:00:11](https://news.ycombinator.com/item?id=42740301) - [Keeling Labs (YC W23) Is Hiring an ML Engineer for Grid-Scale Energy Storage](https://www.keelinglabs.com/jobs?ashby_jid=81b48fb8-8176-4529-a38d-8fc736ebe2aa)
 * [2025-01-17, 16:53:55](https://news.ycombinator.com/item?id=42740183) - [Dr. TVAM – Inverse Rendering for Tomographic Volumetric Additive Manufacturing](https://github.com/rgl-epfl/drtvam)
+* [2025-01-17, 16:22:22](https://news.ycombinator.com/item?id=42739597) - [Regency Sex Ed: How did women in 19th C. Europe learn about the birds and bees?](https://www.historynewsnetwork.org/article/regency-sex-ed)
 * [2025-01-17, 16:21:13](https://news.ycombinator.com/item?id=42739572) - [French modernists were alarmed, inspired by newspaper's voracious dynamism](https://aeon.co/essays/the-french-modernists-loathed-and-loved-the-mass-media-of-their-day)
 * [2025-01-17, 16:00:07](https://news.ycombinator.com/item?id=42739163) - [Selling the Collective: On Kevin Killian's \"Selected Amazon Reviews\"](https://www.clereviewofbooks.com/writing/kevin-killian-selling-the-collective)
 * [2025-01-17, 15:40:17](https://news.ycombinator.com/item?id=42738753) - [Rhai: An embedded scripting language for Rust](https://github.com/rhaiscript/rhai)
