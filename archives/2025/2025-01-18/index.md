@@ -47,6 +47,7 @@
 * [2025-01-18, 08:01:20](https://news.ycombinator.com/item?id=42746682) - [Ask HN: Which RSS reader do you use?](https://news.ycombinator.com/item?id=42746682)
 * [2025-01-18, 07:09:15](https://news.ycombinator.com/item?id=42746506) - [ELIZA Reanimated](https://arxiv.org/abs/2501.06707)
 * [2025-01-18, 05:58:53](https://news.ycombinator.com/item?id=42746222) - [I've been advocating for RSS support, and you should too](https://reedybear.bearblog.dev/ive-been-advocating-for-rss-support-and-you-should-too/)
+* [2025-01-18, 05:30:33](https://news.ycombinator.com/item?id=42746108) - [Building a keyboard for a 1985 Casio FX-451 calculator [video]](https://www.youtube.com/watch?v=KUXgn2i8ETI)
 * [2025-01-18, 04:37:12](https://news.ycombinator.com/item?id=42745876) - [Thoughts on having SSH allow password authentication from the Internet](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHOnExposingPasswordAuth)
 * [2025-01-18, 04:31:04](https://news.ycombinator.com/item?id=42745847) - [Using ChatGPT is not bad for the environment](https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for)
 * [2025-01-18, 04:12:04](https://news.ycombinator.com/item?id=42745771) - [The Los Angeles wildfires are self-inflicted](https://caseyhandmer.wordpress.com/2025/01/17/the-los-angeles-wildfires-are-self-inflicted/)
