@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2025-01-21](index.md)
 
+* [2025-01-21, 18:12:50](https://news.ycombinator.com/item?id=42783391) - [Why do regexes use `$` and `^` as line anchors? (2024)](https://buttondown.com/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/)
+* [2025-01-21, 18:12:34](https://news.ycombinator.com/item?id=42783385) - [MIT Unveils New Robot Insect, Paving the Way Toward Rise of Robotic Pollinators](https://thedebrief.org/mit-unveils-new-robot-insect-paving-the-way-toward-the-rise-of-robotic-pollinators/)
+* [2025-01-21, 17:54:20](https://news.ycombinator.com/item?id=42783165) - [How the strengths of Lisp facilitate complex and flexible applications (2016)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5952920/)
 * [2025-01-21, 17:37:39](https://news.ycombinator.com/item?id=42782929) - [Cab Numbers](https://www.shyamsundergupta.com/cab.htm)
 * [2025-01-21, 17:37:01](https://news.ycombinator.com/item?id=42782914) - [Invisible Electrostatic Wall at 3M plant](http://amasci.com/weird/unusual/e-wall.html)
+* [2025-01-21, 17:23:23](https://news.ycombinator.com/item?id=42782737) - [Interesting BiCMOS circuits in the Pentium, reverse-engineered](https://www.righto.com/2025/01/pentium-reverse-engineering-bicmos.html)
 * [2025-01-21, 17:01:01](https://news.ycombinator.com/item?id=42782440) - [Motion (YC W20) Is Hiring EMs and Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
 * [2025-01-21, 16:52:42](https://news.ycombinator.com/item?id=42782295) - [Show HN: I made a app that uses NFC as a physical switch to block distractions](https://www.foqos.app)
+* [2025-01-21, 16:49:32](https://news.ycombinator.com/item?id=42782246) - [Show HN: SudokuVariants – play and construct different variants of Sudoku](https://sudokuvariants.com)
 * [2025-01-21, 16:25:25](https://news.ycombinator.com/item?id=42781922) - [Guided by the beauty of our test suite](https://www.mattkeeter.com/blog/2025-01-20-guided/)
 * [2025-01-21, 16:20:18](https://news.ycombinator.com/item?id=42781846) - [Concept Cells Help Your Brain Abstract Information and Build Memories](https://www.quantamagazine.org/concept-cells-help-your-brain-abstract-information-and-build-memories-20250121/)
 * [2025-01-21, 15:48:21](https://news.ycombinator.com/item?id=42781402) - [Stop making moves like a funded startup when you're bootstrapped](https://www.theinsightpad.com/blog/why-traditional-market-research-is-killing-your-startup)
