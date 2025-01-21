@@ -14,6 +14,7 @@
 * [2025-01-21, 19:39:39](https://news.ycombinator.com/item?id=42784365) - [Ask HN: Is anyone doing anything cool with tiny language models?](https://news.ycombinator.com/item?id=42784365)
 * [2025-01-21, 19:14:49](https://news.ycombinator.com/item?id=42784111) - [Why AI reminds me of cloud computing](https://bitmasonsllc.blogspot.com/2025/01/why-ai-reminds-me-of-cloud-computing.html)
 * [2025-01-21, 19:00:03](https://news.ycombinator.com/item?id=42783948) - [Mercator: Extreme](https://mrgris.com/projects/merc-extreme/)
+* [2025-01-21, 18:24:10](https://news.ycombinator.com/item?id=42783545) - [Show HN: A submarine combat game in the browser](https://bearingsonly.net/)
 * [2025-01-21, 18:24:03](https://news.ycombinator.com/item?id=42783543) - [Rafael Araujo's 20 Mesmerizing Geometrical Masterpieces (2024)](https://abakcus.com/rafael-araujo-geometrical-masterpieces/)
 * [2025-01-21, 18:22:16](https://news.ycombinator.com/item?id=42783514) - [Webring](https://webring.xxiivv.com/)
 * [2025-01-21, 18:12:50](https://news.ycombinator.com/item?id=42783391) - [Why do regexes use `$` and `^` as line anchors? (2024)](https://buttondown.com/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/)
