@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-01-21](index.md)
 
+* [2025-01-21, 12:29:22](https://news.ycombinator.com/item?id=42779378) - [Show HN: Amurex – An open source AI meeting copilot](https://sansyrox.github.io/amurex_ce/)
 * [2025-01-21, 11:54:50](https://news.ycombinator.com/item?id=42779147) - [People are bad at reporting what they eat. That's a problem for dietary research](https://www.science.org/content/article/people-are-bad-reporting-what-they-eat-s-problem-dietary-research)
 * [2025-01-21, 11:16:40](https://news.ycombinator.com/item?id=42778872) - [The Gilded Age novel that helps explain our fascination with Luigi Mangione](https://theconversation.com/the-gilded-age-novel-that-helps-explain-our-fascination-with-luigi-mangione-246495)
 * [2025-01-21, 11:09:51](https://news.ycombinator.com/item?id=42778810) - [Trump's science advisers: how they could influence his second presidency](https://www.nature.com/articles/d41586-025-00132-0)
+* [2025-01-21, 11:06:12](https://news.ycombinator.com/item?id=42778771) - [Show HN: Printercow – Turn any thermal printer into an API endpoint](https://www.printercow.com/)
 * [2025-01-21, 10:35:53](https://news.ycombinator.com/item?id=42778531) - [What I've learned about writing AI apps so far](https://seldo.com/posts/what-ive-learned-about-writing-ai-apps-so-far)
 * [2025-01-21, 10:29:23](https://news.ycombinator.com/item?id=42778472) - [Open Source Alternative to Vercel, Netlify and Heroku](https://dokploy.com)
 * [2025-01-21, 10:17:24](https://news.ycombinator.com/item?id=42778386) - [Poland fumes over US block on AI chips](https://www.politico.eu/article/poland-fumes-us-block-joe-biden-ai-chips-cap-export/)

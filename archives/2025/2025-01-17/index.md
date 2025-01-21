@@ -11,6 +11,7 @@
 * [2025-01-17, 20:46:45](https://news.ycombinator.com/item?id=42743069) - [When America's Top Spies Were Academics and Librarians](https://newrepublic.com/article/188991/americas-top-spies-academics-librarians)
 * [2025-01-17, 20:41:56](https://news.ycombinator.com/item?id=42743033) - [Investigating an \"Evil\" RJ45 Dongle](https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle)
 * [2025-01-17, 20:41:07](https://news.ycombinator.com/item?id=42743019) - [So You Want to Build Your Own Data Center](https://blog.railway.com/p/data-center-build-part-one)
+* [2025-01-17, 20:21:54](https://news.ycombinator.com/item?id=42742861) - [Remarks to Software Forum Dinner Meeting (1997)](http://www.klhess.com/sef_spch.html)
 * [2025-01-17, 19:36:37](https://news.ycombinator.com/item?id=42742350) - [Show HN: Compile C to Not Gates](https://github.com/tomhea/c2fj)
 * [2025-01-17, 19:20:14](https://news.ycombinator.com/item?id=42742184) - [Branchless UTF-8 Encoding](https://cceckman.com/writing/branchless-utf8-encoding/)
 * [2025-01-17, 19:17:48](https://news.ycombinator.com/item?id=42742161) - [Higher potassium intake at dinner linked to fewer sleep disturbances – study](https://www.nutraingredients-asia.com/Article/2025/01/07/higher-potassium-intake-at-dinner-linked-to-fewer-sleep-disturbances/)

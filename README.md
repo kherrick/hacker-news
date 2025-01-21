@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-21, 12:29:22](https://news.ycombinator.com/item?id=42779378) - [Show HN: Amurex – An open source AI meeting copilot](https://sansyrox.github.io/amurex_ce/)
 * [2025-01-21, 11:54:50](https://news.ycombinator.com/item?id=42779147) - [People are bad at reporting what they eat. That's a problem for dietary research](https://www.science.org/content/article/people-are-bad-reporting-what-they-eat-s-problem-dietary-research)
+* [2025-01-21, 11:06:12](https://news.ycombinator.com/item?id=42778771) - [Show HN: Printercow – Turn any thermal printer into an API endpoint](https://www.printercow.com/)
 * [2025-01-21, 10:00:07](https://news.ycombinator.com/item?id=42778266) - [Startup Winter: Hacker News Lost Its Faith](https://www.vincentschmalbach.com/startup-winter-hacker-news-lost-its-faith/)
 * [2025-01-21, 08:57:33](https://news.ycombinator.com/item?id=42777874) - [The QUIC API OpenSSL will not provide (2021)](https://daniel.haxx.se/blog/2021/10/25/the-quic-api-openssl-will-not-provide/)
 * [2025-01-21, 08:53:21](https://news.ycombinator.com/item?id=42777857) - [Kimi K1.5: Scaling Reinforcement Learning with LLMs](https://github.com/MoonshotAI/Kimi-k1.5)
-* [2025-01-21, 08:36:19](https://news.ycombinator.com/item?id=42777769) - [The most viewed articles of 2024](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2025-01-15/Traffic_report)
 * [2025-01-21, 08:08:24](https://news.ycombinator.com/item?id=42777625) - [Context should go away for Go 2 (2017)](https://faiface.github.io/post/context-should-go-away-go2/)
 * [2025-01-20, 23:07:54](https://news.ycombinator.com/item?id=42774228) - [An astronomical view of Ancient Egyptian star clocks (2021)](https://storymaps.arcgis.com/stories/eea3fbc9c05b40948563ffd0ccfab59d)
 * [2025-01-20, 23:07:10](https://news.ycombinator.com/item?id=42774221) - [Reverse engineering Call of Duty anti-cheat](https://ssno.cc/posts/reversing-tac-1-4-2025/)
@@ -25,11 +26,10 @@
 * [2025-01-19, 06:28:36](https://news.ycombinator.com/item?id=42754305) - [SRCL: Open-source React project to build web apps with terminal aesthetics](https://www.sacred.computer)
 * [2025-01-19, 00:38:36](https://news.ycombinator.com/item?id=42752637) - [The Sonnenschein-Mantel-Debreu Results After Thirty Years](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=203ee701ee9833364eb551c342bb4b0a120f937e)
 * [2025-01-18, 22:03:26](https://news.ycombinator.com/item?id=42751785) - [Fixing a uname bug (Apache NuttX RTOS)](https://lupyuen.org/articles/uname.html)
+* [2025-01-17, 20:21:54](https://news.ycombinator.com/item?id=42742861) - [Remarks to Software Forum Dinner Meeting (1997)](http://www.klhess.com/sef_spch.html)
 * [2025-01-17, 16:22:22](https://news.ycombinator.com/item?id=42739597) - [Regency Sex Ed: How did women in 19th C. Europe learn about the birds and bees?](https://www.historynewsnetwork.org/article/regency-sex-ed)
 * [2025-01-17, 14:56:53](https://news.ycombinator.com/item?id=42738143) - [Guitar chord karaoke with Vamp, Chordino, and FFmpeg (2022)](https://dylanbeattie.net/2022/09/19/the-road-to-guitaraoke-part-1-vamp-chordino-imagesharp-ffmpeg.html)
-* [2025-01-17, 13:40:33](https://news.ycombinator.com/item?id=42737401) - [Optical Fresnel zone plate flat lens: colored photoresist through I-line stepper](https://www.nature.com/articles/s41377-024-01725-6)
 * [2025-01-17, 03:03:05](https://news.ycombinator.com/item?id=42733654) - [417-megapixel Andromeda galaxy panorama took over a decade to make](https://petapixel.com/2025/01/16/417-megapixel-andromeda-galaxy-panorama-took-over-a-decade-to-make/)
-* [2025-01-16, 22:13:56](https://news.ycombinator.com/item?id=42731588) - [Slugs on a Cube: An Interactive Animation](https://blog.gingerbeardman.com/2025/01/16/slugs-on-a-cube-interactive-animation/)
 
 ## [Archives](archives/index.md)
 
