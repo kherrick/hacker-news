@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-21](index.md)
 
+* [2025-01-21, 10:00:07](https://news.ycombinator.com/item?id=42778266) - [Startup Winter: Hacker News Lost Its Faith](https://www.vincentschmalbach.com/startup-winter-hacker-news-lost-its-faith/)
 * [2025-01-21, 09:36:20](https://news.ycombinator.com/item?id=42778075) - [Ancient Celtic tribe had women at its social center](https://www.npr.org/2025/01/15/nx-s1-5258236/ancient-celtic-tribe-had-women-at-its-social-center)
 * [2025-01-21, 09:14:34](https://news.ycombinator.com/item?id=42777973) - [Perl Weekly Issue #704 – Perl Podcast](https://perlweekly.com/archive/704.html)
 * [2025-01-21, 09:09:15](https://news.ycombinator.com/item?id=42777943) - [Framework Fatigue: The Real Reason Developers Get Angry About New Tech](https://blog.raed.dev/posts/framework-fatigue-the-real-reason-developers-get-angry-about-new-tech)
@@ -14,6 +15,7 @@
 * [2025-01-21, 08:36:19](https://news.ycombinator.com/item?id=42777769) - [The most viewed articles of 2024](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2025-01-15/Traffic_report)
 * [2025-01-21, 08:26:55](https://news.ycombinator.com/item?id=42777718) - [Some Lessons from the OpenAI FrontierMath Debacle](https://www.lesswrong.com/posts/8ZgLYwBmB3vLavjKE/some-lessons-from-the-openai-frontiermath-debacle)
 * [2025-01-21, 08:26:48](https://news.ycombinator.com/item?id=42777716) - [X, Facebook, Instagram, and YouTube sign EU code to tackle hate speech](https://www.theverge.com/2025/1/20/24347876/x-facebook-instagram-youtube-eu-hate-speech-dsa-code)
+* [2025-01-21, 08:26:44](https://news.ycombinator.com/item?id=42777715) - [We've lost our respect for complexity](https://wilsoniumite.com/2025/01/21/weve-lost-our-respect-for-complexity/)
 * [2025-01-21, 08:08:24](https://news.ycombinator.com/item?id=42777625) - [Context should go away for Go 2](https://faiface.github.io/post/context-should-go-away-go2/)
 * [2025-01-21, 07:16:29](https://news.ycombinator.com/item?id=42777379) - [Ask HN: Can we just admit we want to replace jobs with AI?](https://news.ycombinator.com/item?id=42777379)
 * [2025-01-21, 06:28:25](https://news.ycombinator.com/item?id=42777193) - [More than 40% of postdocs leave academia, study reveals](https://www.nature.com/articles/d41586-025-00142-y)
