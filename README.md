@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-21, 09:36:20](https://news.ycombinator.com/item?id=42778075) - [Ancient Celtic tribe had women at its social center](https://www.npr.org/2025/01/15/nx-s1-5258236/ancient-celtic-tribe-had-women-at-its-social-center)
 * [2025-01-21, 09:14:34](https://news.ycombinator.com/item?id=42777973) - [Perl Weekly Issue #704 – Perl Podcast](https://perlweekly.com/archive/704.html)
 * [2025-01-21, 09:09:15](https://news.ycombinator.com/item?id=42777943) - [Framework Fatigue: The Real Reason Developers Get Angry About New Tech](https://blog.raed.dev/posts/framework-fatigue-the-real-reason-developers-get-angry-about-new-tech)
 * [2025-01-21, 09:08:16](https://news.ycombinator.com/item?id=42777938) - [Meta Censoring '#Democrat' on Instagram](https://mstdn.chrisalemany.ca/@chris/113864600222476627)
@@ -7,7 +8,6 @@
 * [2025-01-21, 08:57:33](https://news.ycombinator.com/item?id=42777874) - [The QUIC API OpenSSL will not provide [2021]](https://daniel.haxx.se/blog/2021/10/25/the-quic-api-openssl-will-not-provide/)
 * [2025-01-21, 08:53:21](https://news.ycombinator.com/item?id=42777857) - [Kimi K1.5: Scaling Reinforcement Learning with LLMs](https://github.com/MoonshotAI/Kimi-k1.5)
 * [2025-01-21, 08:36:19](https://news.ycombinator.com/item?id=42777769) - [The most viewed articles of 2024](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2025-01-15/Traffic_report)
-* [2025-01-21, 08:26:48](https://news.ycombinator.com/item?id=42777716) - [X, Facebook, Instagram, and YouTube sign EU code to tackle hate speech](https://www.theverge.com/2025/1/20/24347876/x-facebook-instagram-youtube-eu-hate-speech-dsa-code)
 * [2025-01-21, 08:08:24](https://news.ycombinator.com/item?id=42777625) - [Context should go away for Go 2](https://faiface.github.io/post/context-should-go-away-go2/)
 * [2025-01-21, 06:28:25](https://news.ycombinator.com/item?id=42777193) - [More than 40% of postdocs leave academia, study reveals](https://www.nature.com/articles/d41586-025-00142-y)
 * [2025-01-20, 23:07:54](https://news.ycombinator.com/item?id=42774228) - [An astronomical view of Ancient Egyptian star clocks (2021)](https://storymaps.arcgis.com/stories/eea3fbc9c05b40948563ffd0ccfab59d)
@@ -25,10 +25,10 @@
 * [2025-01-20, 11:33:15](https://news.ycombinator.com/item?id=42767584) - [Using eSIMs with devices that only have a physical SIM slot via a 9eSIM SIM car](https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/)
 * [2025-01-20, 10:23:31](https://news.ycombinator.com/item?id=42767132) - [Zork: The Great Inner Workings (2020)](https://medium.com/swlh/zork-the-great-inner-workings-b68012952bdc)
 * [2025-01-20, 09:41:39](https://news.ycombinator.com/item?id=42766825) - [Where do those undergraduate divisibility problems come from?](https://grossack.site/2025/01/16/undergrad-divisibility-problems.html)
+* [2025-01-19, 06:34:32](https://news.ycombinator.com/item?id=42754345) - [Unlink vs. DEL – A deep dive into how it works internally in Redis](https://www.pankajtanwar.in/blog/unlink-vs-del-a-deep-dive-into-how-it-works-internally-in-redis)
 * [2025-01-19, 06:28:36](https://news.ycombinator.com/item?id=42754305) - [SRCL: Open-source React project to build web apps with terminal aesthetics](https://www.sacred.computer)
 * [2025-01-17, 16:22:22](https://news.ycombinator.com/item?id=42739597) - [Regency Sex Ed: How did women in 19th C. Europe learn about the birds and bees?](https://www.historynewsnetwork.org/article/regency-sex-ed)
 * [2025-01-17, 14:56:53](https://news.ycombinator.com/item?id=42738143) - [Guitar chord karaoke with Vamp, Chordino, and FFmpeg (2022)](https://dylanbeattie.net/2022/09/19/the-road-to-guitaraoke-part-1-vamp-chordino-imagesharp-ffmpeg.html)
-* [2025-01-17, 13:40:33](https://news.ycombinator.com/item?id=42737401) - [Optical Fresnel zone plate flat lens: colored photoresist through I-line stepper](https://www.nature.com/articles/s41377-024-01725-6)
 * [2025-01-17, 03:03:05](https://news.ycombinator.com/item?id=42733654) - [417-megapixel Andromeda galaxy panorama took over a decade to make](https://petapixel.com/2025/01/16/417-megapixel-andromeda-galaxy-panorama-took-over-a-decade-to-make/)
 
 ## [Archives](archives/index.md)
