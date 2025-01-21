@@ -1,62 +1,12 @@
 [
   [
     [
-      "2025-01-21, 11:16:40",
-      "https://news.ycombinator.com/item?id=42778872"
+      "2025-01-21, 11:54:50",
+      "https://news.ycombinator.com/item?id=42779147"
     ],
     [
-      "The Gilded Age novel that helps explain our fascination with Luigi Mangione",
-      "https://theconversation.com/the-gilded-age-novel-that-helps-explain-our-fascination-with-luigi-mangione-246495"
-    ]
-  ],
-  [
-    [
-      "2025-01-21, 10:35:53",
-      "https://news.ycombinator.com/item?id=42778531"
-    ],
-    [
-      "What I've learned about writing AI apps so far",
-      "https://seldo.com/posts/what-ive-learned-about-writing-ai-apps-so-far"
-    ]
-  ],
-  [
-    [
-      "2025-01-21, 10:29:23",
-      "https://news.ycombinator.com/item?id=42778472"
-    ],
-    [
-      "Open Source Alternative to Vercel, Netlify and Heroku",
-      "https://dokploy.com"
-    ]
-  ],
-  [
-    [
-      "2025-01-21, 10:17:24",
-      "https://news.ycombinator.com/item?id=42778386"
-    ],
-    [
-      "Poland fumes over US block on AI chips",
-      "https://www.politico.eu/article/poland-fumes-us-block-joe-biden-ai-chips-cap-export/"
-    ]
-  ],
-  [
-    [
-      "2025-01-21, 10:00:07",
-      "https://news.ycombinator.com/item?id=42778266"
-    ],
-    [
-      "Startup Winter: Hacker News Lost Its Faith",
-      "https://www.vincentschmalbach.com/startup-winter-hacker-news-lost-its-faith/"
-    ]
-  ],
-  [
-    [
-      "2025-01-21, 09:14:34",
-      "https://news.ycombinator.com/item?id=42777973"
-    ],
-    [
-      "Perl Weekly Issue #704 – Perl Podcast",
-      "https://perlweekly.com/archive/704.html"
+      "People are bad at reporting what they eat. That's a problem for dietary research",
+      "https://www.science.org/content/article/people-are-bad-reporting-what-they-eat-s-problem-dietary-research"
     ]
   ],
   [
@@ -81,12 +31,12 @@
   ],
   [
     [
-      "2025-01-21, 08:26:44",
-      "https://news.ycombinator.com/item?id=42777715"
+      "2025-01-21, 08:36:19",
+      "https://news.ycombinator.com/item?id=42777769"
     ],
     [
-      "We've lost our respect for complexity",
-      "https://wilsoniumite.com/2025/01/21/weve-lost-our-respect-for-complexity/"
+      "The most viewed articles of 2024",
+      "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2025-01-15/Traffic_report"
     ]
   ],
   [
@@ -121,12 +71,12 @@
   ],
   [
     [
-      "2025-01-20, 21:00:24",
-      "https://news.ycombinator.com/item?id=42772983"
+      "2025-01-20, 20:51:46",
+      "https://news.ycombinator.com/item?id=42772911"
     ],
     [
-      "Official DeepSeek R1 Now on Ollama",
-      "https://ollama.com/library/deepseek-r1"
+      "Flag drawing with Turtle",
+      "https://jtanx.github.io/2018/12/28/turtle-flag-drawing/"
     ]
   ],
   [
@@ -147,6 +97,26 @@
     [
       "I am (not) a failure: Lessons learned from six failed startup attempts",
       "http://blog.rongarret.info/2025/01/i-am-not-failure-lessons-learned-from.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-20, 18:12:24",
+      "https://news.ycombinator.com/item?id=42771403"
+    ],
+    [
+      "Kronotop: Redis-compatible, transactional document store backed by FoundationDB",
+      "https://github.com/kronotop/kronotop"
+    ]
+  ],
+  [
+    [
+      "2025-01-20, 17:02:11",
+      "https://news.ycombinator.com/item?id=42770629"
+    ],
+    [
+      "YC X25, the spring 2025 batch",
+      "https://www.ycombinator.com/blog/announcing-yc-x25/"
     ]
   ],
   [
@@ -251,6 +221,16 @@
   ],
   [
     [
+      "2025-01-19, 00:38:36",
+      "https://news.ycombinator.com/item?id=42752637"
+    ],
+    [
+      "The Sonnenschein-Mantel-Debreu Results After Thirty Years",
+      "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=203ee701ee9833364eb551c342bb4b0a120f937e"
+    ]
+  ],
+  [
+    [
       "2025-01-18, 23:35:06",
       "https://news.ycombinator.com/item?id=42752299"
     ],
@@ -271,6 +251,16 @@
   ],
   [
     [
+      "2025-01-18, 21:02:22",
+      "https://news.ycombinator.com/item?id=42751403"
+    ],
+    [
+      "AWS will discontinue support for AWS App Mesh",
+      "https://aws.amazon.com/blogs/containers/migrating-from-aws-app-mesh-to-amazon-ecs-service-connect/"
+    ]
+  ],
+  [
+    [
       "2025-01-17, 16:22:22",
       "https://news.ycombinator.com/item?id=42739597"
     ],
@@ -287,6 +277,16 @@
     [
       "Guitar chord karaoke with Vamp, Chordino, and FFmpeg (2022)",
       "https://dylanbeattie.net/2022/09/19/the-road-to-guitaraoke-part-1-vamp-chordino-imagesharp-ffmpeg.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-17, 13:40:33",
+      "https://news.ycombinator.com/item?id=42737401"
+    ],
+    [
+      "Optical Fresnel zone plate flat lens: colored photoresist through I-line stepper",
+      "https://www.nature.com/articles/s41377-024-01725-6"
     ]
   ],
   [
