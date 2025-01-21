@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-21, 22:42:12](https://news.ycombinator.com/item?id=42786040) - [Hunyuan3D 2.0 – High-Resolution 3D Assets Generation](https://github.com/Tencent/Hunyuan3D-2)
-* [2025-01-21, 22:29:22](https://news.ycombinator.com/item?id=42785891) - [Stargate Project: SoftBank, OpenAI and Oracle to build data centers](https://apnews.com/article/trump-ai-openai-oracle-softbank-son-altman-ellison-be261f8a8ee07a0623d4170397348c41)
+* [2025-01-21, 22:29:22](https://news.ycombinator.com/item?id=42785891) - [Stargate Project: SoftBank, OpenAI, Oracle, MGX to build data centers](https://apnews.com/article/trump-ai-openai-oracle-softbank-son-altman-ellison-be261f8a8ee07a0623d4170397348c41)
 * [2025-01-21, 21:15:20](https://news.ycombinator.com/item?id=42785281) - [The Peppermills of Jens Quistgaard](https://www.quistgaardpepper.com)
 * [2025-01-21, 21:01:02](https://news.ycombinator.com/item?id=42785137) - [HyperDX (YC S22) is hiring engineers to build open source observability](https://www.ycombinator.com/companies/hyperdx/jobs)
 * [2025-01-21, 20:34:14](https://news.ycombinator.com/item?id=42784892) - [Sigstore: Making sure your software is what it claims to be](https://www.sigstore.dev/)
@@ -13,9 +13,8 @@
 * [2025-01-21, 17:37:01](https://news.ycombinator.com/item?id=42782914) - [Invisible Electrostatic Wall at 3M plant (1996)](http://amasci.com/weird/unusual/e-wall.html)
 * [2025-01-21, 17:23:23](https://news.ycombinator.com/item?id=42782737) - [Interesting BiCMOS circuits in the Pentium, reverse-engineered](https://www.righto.com/2025/01/pentium-reverse-engineering-bicmos.html)
 * [2025-01-21, 16:52:42](https://news.ycombinator.com/item?id=42782295) - [Show HN: I made a app that uses NFC as a physical switch to block distractions](https://www.foqos.app)
-* [2025-01-21, 16:49:32](https://news.ycombinator.com/item?id=42782246) - [Show HN: SudokuVariants – play and construct different variants of Sudoku](https://sudokuvariants.com)
 * [2025-01-21, 16:25:25](https://news.ycombinator.com/item?id=42781922) - [Guided by the beauty of our test suite](https://www.mattkeeter.com/blog/2025-01-20-guided/)
-* [2025-01-21, 16:20:18](https://news.ycombinator.com/item?id=42781846) - [Concept Cells Help Your Brain Abstract Information and Build Memories](https://www.quantamagazine.org/concept-cells-help-your-brain-abstract-information-and-build-memories-20250121/)
+* [2025-01-21, 16:20:18](https://news.ycombinator.com/item?id=42781846) - [Concept cells help your brain abstract information and build memories](https://www.quantamagazine.org/concept-cells-help-your-brain-abstract-information-and-build-memories-20250121/)
 * [2025-01-21, 15:47:04](https://news.ycombinator.com/item?id=42781388) - [How many Alpine packages can you install at once? (2024)](https://www.naff.dev/blog/all-the-packages)
 * [2025-01-21, 15:12:15](https://news.ycombinator.com/item?id=42780953) - [Calm tech certification \"rewards\" less distracting tech](https://spectrum.ieee.org/calm-tech)
 * [2025-01-21, 14:59:44](https://news.ycombinator.com/item?id=42780816) - [0-click deanonymization attack targeting Signal, Discord, other platforms](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
@@ -29,7 +28,8 @@
 * [2025-01-20, 23:07:10](https://news.ycombinator.com/item?id=42774221) - [Reverse engineering Call of Duty anti-cheat](https://ssno.cc/posts/reversing-tac-1-4-2025/)
 * [2025-01-20, 12:15:29](https://news.ycombinator.com/item?id=42767908) - [Unconventional Adventures](https://quarter--mile.com/Unconventional-Adventures)
 * [2025-01-19, 20:50:13](https://news.ycombinator.com/item?id=42761659) - [Castle Game Engine: Web target – big progress, first 3 demos to try](https://castle-engine.io/wp/2025/01/06/web-target-big-progress-first-3-demos-to-try/)
-* [2025-01-18, 14:41:53](https://news.ycombinator.com/item?id=42748691) - [Prime Numbers So Memorable That People Hunt for Them](https://www.scientificamerican.com/article/these-prime-numbers-are-so-memorable-that-people-hunt-for-them/)
+* [2025-01-18, 19:18:19](https://news.ycombinator.com/item?id=42750654) - [How to navigate and exit the idea maze](https://michaelrbock.com/hypothesis/)
+* [2025-01-18, 14:41:53](https://news.ycombinator.com/item?id=42748691) - [Prime numbers so memorable that people hunt for them](https://www.scientificamerican.com/article/these-prime-numbers-are-so-memorable-that-people-hunt-for-them/)
 
 ## [Archives](archives/index.md)
 
