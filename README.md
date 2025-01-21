@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-21, 06:28:25](https://news.ycombinator.com/item?id=42777193) - [More than 40% of postdocs leave academia, study reveals](https://www.nature.com/articles/d41586-025-00142-y)
 * [2025-01-21, 00:49:41](https://news.ycombinator.com/item?id=42775029) - [Ruff: Python linter and code formatter written in Rust](https://github.com/astral-sh/ruff)
 * [2025-01-20, 23:07:54](https://news.ycombinator.com/item?id=42774228) - [An astronomical view of Ancient Egyptian star clocks (2021)](https://storymaps.arcgis.com/stories/eea3fbc9c05b40948563ffd0ccfab59d)
 * [2025-01-20, 23:07:10](https://news.ycombinator.com/item?id=42774221) - [Reverse engineering Call of Duty anti-cheat](https://ssno.cc/posts/reversing-tac-1-4-2025/)
@@ -9,7 +10,6 @@
 * [2025-01-20, 20:38:08](https://news.ycombinator.com/item?id=42772771) - [Authors seek Meta's torrent client logs and seeding data in AI piracy probe](https://torrentfreak.com/authors-seek-metas-torrent-client-logs-and-seeding-data-in-ai-piracy-probe-250120/)
 * [2025-01-20, 19:31:03](https://news.ycombinator.com/item?id=42772170) - [ROCm Device Support Wishlist](https://github.com/ROCm/ROCm/discussions/4276)
 * [2025-01-20, 18:40:45](https://news.ycombinator.com/item?id=42771676) - [I am (not) a failure: Lessons learned from six failed startup attempts](http://blog.rongarret.info/2025/01/i-am-not-failure-lessons-learned-from.html)
-* [2025-01-20, 18:13:48](https://news.ycombinator.com/item?id=42771413) - [Ask HN: Seeking an IPL-V Interpreter](https://news.ycombinator.com/item?id=42771413)
 * [2025-01-20, 18:12:24](https://news.ycombinator.com/item?id=42771403) - [Kronotop: Redis-compatible, transactional document store backed by FoundationDB](https://github.com/kronotop/kronotop)
 * [2025-01-20, 17:02:11](https://news.ycombinator.com/item?id=42770629) - [YC X25, the spring 2025 batch](https://www.ycombinator.com/blog/announcing-yc-x25/)
 * [2025-01-20, 16:27:22](https://news.ycombinator.com/item?id=42770200) - [Show HN: Personalized Duolingo (kind of) for vocabulary building](https://github.com/baturyilmaz/wordpecker-app)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-21](index.md)
 
+* [2025-01-21, 06:28:25](https://news.ycombinator.com/item?id=42777193) - [More than 40% of postdocs leave academia, study reveals](https://www.nature.com/articles/d41586-025-00142-y)
 * [2025-01-21, 03:19:42](https://news.ycombinator.com/item?id=42776131) - [Protecting the Meaning and Value of American Citizenship](https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-meaning-and-value-of-american-citizenship/)
 * [2025-01-21, 02:44:28](https://news.ycombinator.com/item?id=42775848) - [President signs order refusing to enforce TikTok ban for 75 days](https://www.theverge.com/2025/1/20/24348213/trump-tiktok-ban-executive-order-sale-delay-china)
 * [2025-01-21, 02:31:36](https://news.ycombinator.com/item?id=42775747) - [Japan Offers Free Daycare to Boost Tokyo's Falling Birth Rate](https://www.xatakaon.com/magnet/japan-is-desperate-to-increase-its-birth-rate-that-tokyo-is-trying-out-a-new-idea-free-daycare)
