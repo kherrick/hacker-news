@@ -12,6 +12,7 @@
 * [2025-01-18, 21:42:31](https://news.ycombinator.com/item?id=42751649) - [Perplexity AI submits bid to merge with TikTok](https://techcrunch.com/2025/01/18/perplexity-ai-submits-bid-to-merge-with-tiktok/)
 * [2025-01-18, 21:02:22](https://news.ycombinator.com/item?id=42751403) - [AWS will discontinue support for AWS App Mesh](https://aws.amazon.com/blogs/containers/migrating-from-aws-app-mesh-to-amazon-ecs-service-connect/)
 * [2025-01-18, 20:31:39](https://news.ycombinator.com/item?id=42751185) - [The Future of Analytics Is Invisible: Why You Should Stop Using Google Analytics](https://www.iodiasix.com/blog/the-future-of-analytics-is-invisible)
+* [2025-01-18, 20:17:44](https://news.ycombinator.com/item?id=42751099) - [Windmemory](https://news.ycombinator.com/item?id=42751099)
 * [2025-01-18, 20:01:41](https://news.ycombinator.com/item?id=42750976) - [Rolls-Royce Merlin alternative uses](https://en.wikipedia.org/wiki/Rolls-Royce_Merlin_alternative_uses)
 * [2025-01-18, 19:59:03](https://news.ycombinator.com/item?id=42750954) - [Borrowchecker.jl – Designing a borrow checker for Julia](https://github.com/MilesCranmer/BorrowChecker.jl)
 * [2025-01-18, 19:36:13](https://news.ycombinator.com/item?id=42750781) - [WASM GC isn't ready for realtime graphics](https://dthompson.us/posts/wasm-gc-isnt-ready-for-realtime-graphics.html)
