@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-21](index.md)
 
 * [2025-01-21, 17:01:01](https://news.ycombinator.com/item?id=42782440) - [Motion (YC W20) Is Hiring EMs and Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
+* [2025-01-21, 16:52:42](https://news.ycombinator.com/item?id=42782295) - [Show HN: I made a app that uses NFC as a physical switch to block distractions](https://www.foqos.app)
 * [2025-01-21, 16:25:25](https://news.ycombinator.com/item?id=42781922) - [Guided by the beauty of our test suite](https://www.mattkeeter.com/blog/2025-01-20-guided/)
 * [2025-01-21, 15:47:04](https://news.ycombinator.com/item?id=42781388) - [How many Alpine packages can you install at once? (2024)](https://www.naff.dev/blog/all-the-packages)
 * [2025-01-21, 15:39:52](https://news.ycombinator.com/item?id=42781293) - [Should We Use AI and LLMs for Christian Apologetics?](https://lukeplant.me.uk/blog/posts/should-we-use-llms-for-christian-apologetics/)
