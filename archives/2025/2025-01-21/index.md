@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-21](index.md)
 
+* [2025-01-21, 21:15:20](https://news.ycombinator.com/item?id=42785281) - [The Peppermills of Jens Quistgaard](https://www.quistgaardpepper.com)
 * [2025-01-21, 21:01:02](https://news.ycombinator.com/item?id=42785137) - [HyperDX (YC S22) is hiring engineers to build open source observability](https://www.ycombinator.com/companies/hyperdx/jobs)
 * [2025-01-21, 20:50:09](https://news.ycombinator.com/item?id=42785035) - [Remembering Nan Shepherd](https://www.lrb.co.uk/the-paper/v47/n01/fraser-macdonald/diary)
 * [2025-01-21, 20:29:19](https://news.ycombinator.com/item?id=42784847) - [LLMs Demonstrate Behavioral Self-Awareness [pdf]](https://martins1612.github.io/selfaware_paper_betley.pdf)
