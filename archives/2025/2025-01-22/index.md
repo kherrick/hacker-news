@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-01-22](index.md)
 
+* [2025-01-22, 17:01:17](https://news.ycombinator.com/item?id=42794902) - [Sieve (YC W22) Is Hiring Engineers to Build the Future of Video AI](https://www.sievedata.com/)
 * [2025-01-22, 16:34:49](https://news.ycombinator.com/item?id=42794589) - [It's Time to Switch to OpenTofu](https://blog.gruntwork.io/make-the-switch-to-opentofu-6904ba95e799)
+* [2025-01-22, 16:08:59](https://news.ycombinator.com/item?id=42794232) - [Minimal 64x4 Home Computer](https://github.com/slu4coder/Minimal-64x4-Home-Computer)
 * [2025-01-22, 15:50:12](https://news.ycombinator.com/item?id=42794052) - [You vs. a Billionaire: An Interactive Perspective on Wealth](https://www.budgetflow.cc/blog/you-compared-to-elon-musk?referrer=hn)
 * [2025-01-22, 15:42:07](https://news.ycombinator.com/item?id=42793950) - [Dutch pioneer files EU's second lab-grown meat application](https://www.politico.eu/article/eu-mosa-meat-european-union-ceo-dutch-food-company-price/)
 * [2025-01-22, 15:27:46](https://news.ycombinator.com/item?id=42793802) - [2024 general essay questions for Oxford 'All Souls' scholarship [pdf]](https://www.asc.ox.ac.uk/sites/default/files/2024-10/General%20Paper%202024.pdf)
