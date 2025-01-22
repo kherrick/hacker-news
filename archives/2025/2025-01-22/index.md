@@ -19,6 +19,7 @@
 * [2025-01-22, 15:23:15](https://news.ycombinator.com/item?id=42793755) - [Amazon to close Quebec facilities, insists it's not because of new union](https://www.cbc.ca/news/canada/montreal/amazon-warehouse-closures-quebec-1.7438078)
 * [2025-01-22, 15:07:26](https://news.ycombinator.com/item?id=42793597) - [Simple CPU Design](http://simplecpudesign.com/)
 * [2025-01-22, 15:05:34](https://news.ycombinator.com/item?id=42793567) - [OpenAI has upped its lobbying efforts nearly sevenfold](https://www.technologyreview.com/2025/01/21/1110260/openai-ups-its-lobbying-efforts-nearly-seven-fold/)
+* [2025-01-22, 15:05:20](https://news.ycombinator.com/item?id=42793564) - [A Spy Satellite You've Never Heard of Helped Win the Cold War](https://spectrum.ieee.org/reconnaissance-satellite)
 * [2025-01-22, 15:03:12](https://news.ycombinator.com/item?id=42793538) - [Cryptocurrency Turns to Cash in Russian Banks](https://krebsonsecurity.com/2024/12/how-cryptocurrency-turns-to-cash-in-russian-banks/)
 * [2025-01-22, 14:57:23](https://news.ycombinator.com/item?id=42793483) - [The Tyranny of Structurelessness (1970)](https://www.jofreeman.com/joreen/tyranny.htm)
 * [2025-01-22, 14:25:09](https://news.ycombinator.com/item?id=42793162) - [PyVista](https://pyvista.org/)
