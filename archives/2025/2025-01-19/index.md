@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-19](index.md)
 
 * [2025-01-19, 23:52:13](https://news.ycombinator.com/item?id=42763386) - [UK's elite hardware talent is being wasted](https://josef.cn/blog/uk-talent)
+* [2025-01-19, 23:39:20](https://news.ycombinator.com/item?id=42763304) - [The Ribbon Microphone](https://khz.ac/sound/ribbon-mic/)
 * [2025-01-19, 23:28:51](https://news.ycombinator.com/item?id=42763240) - [Invisible Epidemic: The Loneliness Epidemic](https://pudding.cool/2023/09/invisible-epidemic/)
 * [2025-01-19, 23:27:59](https://news.ycombinator.com/item?id=42763231) - [OpenAI funded FrontierMath Benchmarks and had access to the set](https://www.lesswrong.com/posts/cu2E8wgmbdZbqeWqb/meemi-s-shortform)
 * [2025-01-19, 23:19:52](https://news.ycombinator.com/item?id=42763167) - [Staffers unload on Amazon 'leadership' after return-to-office for desk shortage](https://www.msn.com/en-us/money/companies/staffers-unload-on-amazon-leadership-after-return-to-office-plagued-by-thefts-lack-of-parking-and-a-desk-shortage-report/ar-AA1xodwf)

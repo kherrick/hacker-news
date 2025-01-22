@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-22](index.md)
 
+* [2025-01-22, 11:21:01](https://news.ycombinator.com/item?id=42791548) - [How to know when it's time to go](https://bitfieldconsulting.com/posts/when-its-time-to-go)
 * [2025-01-22, 11:00:48](https://news.ycombinator.com/item?id=42791428) - [My Struggle with Doom Scrolling](https://allthatjazz.me/posts/doom-scrolling-struggles)
 * [2025-01-22, 09:12:25](https://news.ycombinator.com/item?id=42790729) - [The Day Instagram Blocked Democracy](https://docpop.org/2025/01/the-day-instagram-blocked-democracy/)
 * [2025-01-22, 07:53:28](https://news.ycombinator.com/item?id=42790207) - [DHS removes all members of cyber security advisory boards, halts investigations](https://bsky.app/profile/ericjgeller.com/post/3lgbpqmxeok2f)
