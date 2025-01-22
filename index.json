@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-22, 18:38:47",
+      "https://news.ycombinator.com/item?id=42796058"
+    ],
+    [
+      "C stdlib isn't threadsafe and even safe Rust didn't save us",
+      "https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us"
+    ]
+  ],
+  [
+    [
       "2025-01-22, 17:27:14",
       "https://news.ycombinator.com/item?id=42795237"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2025-01-22, 03:22:42",
-      "https://news.ycombinator.com/item?id=42788580"
-    ],
-    [
-      "Flame: A small language model for spreadsheet formulas (2023)",
-      "https://arxiv.org/abs/2301.13779"
-    ]
-  ],
-  [
-    [
       "2025-01-22, 03:02:45",
       "https://news.ycombinator.com/item?id=42788451"
     ],
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2025-01-21, 14:59:44",
-      "https://news.ycombinator.com/item?id=42780816"
+      "2025-01-21, 00:16:25",
+      "https://news.ycombinator.com/item?id=42774758"
     ],
     [
-      "0-click deanonymization attack targeting Signal, Discord, other platforms",
-      "https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117"
+      "File Systems: The Original Hypermedia",
+      "https://jon.work/og/"
     ]
   ],
   [
