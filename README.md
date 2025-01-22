@@ -8,7 +8,6 @@
 * [2025-01-22, 20:41:52](https://news.ycombinator.com/item?id=42797260) - [Show HN: I Made an Open-Source Laptop from Scratch](https://www.byran.ee/posts/creation/)
 * [2025-01-22, 20:08:57](https://news.ycombinator.com/item?id=42796950) - [How to improve your WFH lighting to reduce eye strain](https://rustle.ca/posts/articles/work-from-home-lighting)
 * [2025-01-22, 20:03:42](https://news.ycombinator.com/item?id=42796906) - [I made a multiplayer shooter game in Lisp, here is my journey](https://ertu.dev/posts/i-made-an-online-shooter-game-in-lisp/)
-* [2025-01-22, 18:38:47](https://news.ycombinator.com/item?id=42796058) - [C stdlib isn't threadsafe and even safe Rust didn't save us](https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us)
 * [2025-01-22, 17:28:20](https://news.ycombinator.com/item?id=42795249) - [Show HN: I made a service to convert WordPress blogs to Hugo](https://wp2hugo.blogdb.org/)
 * [2025-01-22, 17:27:14](https://news.ycombinator.com/item?id=42795237) - [TabBoo – add random jumpscares to websites you're trying to avoid](https://tabboo.xyz/)
 * [2025-01-22, 17:16:22](https://news.ycombinator.com/item?id=42795097) - [Sequent Calculus and Notation – Par Part 1](https://ryanbrewer.dev/posts/sequent-calculus/)
@@ -29,6 +28,7 @@
 * [2025-01-20, 15:26:30](https://news.ycombinator.com/item?id=42769623) - [How to solve computational science problems with AI: PINNs](https://mertkavi.com/how-to-solve-computational-science-problems-with-ai-physics-informed-neural-networks-pinns/)
 * [2025-01-20, 09:01:46](https://news.ycombinator.com/item?id=42766500) - [Lonely sunfish in Japan gets cardboard human friends](https://www.bbc.com/news/articles/cqjv4lz7g57o)
 * [2025-01-19, 23:39:20](https://news.ycombinator.com/item?id=42763304) - [The Ribbon Microphone](https://khz.ac/sound/ribbon-mic/)
+* [2025-01-19, 18:23:44](https://news.ycombinator.com/item?id=42759862) - [Tomatoes roaming the fields: another embarrassing paper for MDPI](http://deevybee.blogspot.com/2025/01/tomatoes-roaming-fields-and-canaries-in.html)
 * [2025-01-19, 05:56:35](https://news.ycombinator.com/item?id=42754127) - [Infinigen](https://infinigen.org/)
 
 ## [Archives](archives/index.md)

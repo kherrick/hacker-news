@@ -24,6 +24,7 @@
 * [2025-01-19, 18:49:51](https://news.ycombinator.com/item?id=42760210) - [Philosophy Eats AI](https://sloanreview.mit.edu/article/philosophy-eats-ai/)
 * [2025-01-19, 18:38:36](https://news.ycombinator.com/item?id=42760054) - [Why Twitter is such a big deal (2009)](https://paulgraham.com/twitter.html)
 * [2025-01-19, 18:28:19](https://news.ycombinator.com/item?id=42759925) - [The tech oligarchy has been here for years](https://www.bloodinthemachine.com/p/the-tech-oligarchy-has-been-here)
+* [2025-01-19, 18:23:44](https://news.ycombinator.com/item?id=42759862) - [Tomatoes roaming the fields: another embarrassing paper for MDPI](http://deevybee.blogspot.com/2025/01/tomatoes-roaming-fields-and-canaries-in.html)
 * [2025-01-19, 18:01:42](https://news.ycombinator.com/item?id=42759557) - [Using your Apple device as an access card in unsupported systems](https://github.com/kormax/apple-device-as-access-card)
 * [2025-01-19, 18:01:04](https://news.ycombinator.com/item?id=42759546) - [Zuckerberg appeared to know Llama trained on Libgen](https://www.rollingstone.com/culture/culture-news/ai-meta-pirated-library-zuckerberg-1235235394/)
 * [2025-01-19, 17:42:44](https://news.ycombinator.com/item?id=42759336) - [TikTok says it is restoring service for U.S. users](https://www.nbcnews.com/tech/tech-news/tiktok-says-restoring-service-us-users-rcna188320)
