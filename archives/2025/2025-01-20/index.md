@@ -37,6 +37,7 @@
 * [2025-01-20, 15:47:17](https://news.ycombinator.com/item?id=42769822) - [Moving on from React, a Year Later](https://kellysutton.com/2025/01/18/moving-on-from-react-a-year-later.html)
 * [2025-01-20, 15:41:50](https://news.ycombinator.com/item?id=42769770) - [The deeper under the Earth's surface, the more species you can find](https://arstechnica.com/science/2025/01/life-is-thriving-in-the-subsurface-depths-of-earth/)
 * [2025-01-20, 15:40:20](https://news.ycombinator.com/item?id=42769751) - [The quiet rebellion of a little life](https://caitlynrichardson.substack.com/p/the-quiet-rebellion-of-a-little-life)
+* [2025-01-20, 15:26:30](https://news.ycombinator.com/item?id=42769623) - [How to solve computational science problems with AI: PINNs](https://mertkavi.com/how-to-solve-computational-science-problems-with-ai-physics-informed-neural-networks-pinns/)
 * [2025-01-20, 15:23:29](https://news.ycombinator.com/item?id=42769591) - [Facebook, X, YouTube to do more against online hate speech, EU says](https://www.reuters.com/technology/facebook-x-youtube-do-more-against-online-hate-speech-eu-says-2025-01-20/)
 * [2025-01-20, 14:53:45](https://news.ycombinator.com/item?id=42769325) - [Reverse engineering my #1 Hacker News article](https://danielwirtz.com/blog/successful-hacker-news-article)
 * [2025-01-20, 14:17:57](https://news.ycombinator.com/item?id=42768966) - [Show HN: I wrote a book about running great SaaS technical sales calls](https://news.ycombinator.com/item?id=42768966)

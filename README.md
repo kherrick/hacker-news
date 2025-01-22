@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-22, 17:40:09](https://news.ycombinator.com/item?id=42795375) - [Show HN: BrowserAI – Run LLMs directly in browser using WebGPU (open source)](https://github.com/sauravpanda/BrowserAI)
 * [2025-01-22, 17:27:14](https://news.ycombinator.com/item?id=42795237) - [TabBoo – add random jumpscares to websites you're trying to avoid](https://tabboo.xyz/)
 * [2025-01-22, 17:16:22](https://news.ycombinator.com/item?id=42795097) - [Sequent Calculus and Notation – Par Part 1](https://ryanbrewer.dev/posts/sequent-calculus/)
 * [2025-01-22, 17:15:38](https://news.ycombinator.com/item?id=42795085) - [Fluorescent Mineral Photography](https://www.naturesrainbows.com/photography)
@@ -24,6 +23,7 @@
 * [2025-01-21, 17:37:01](https://news.ycombinator.com/item?id=42782914) - [Invisible Electrostatic Wall at 3M plant (1996)](http://amasci.com/weird/unusual/e-wall.html)
 * [2025-01-21, 15:12:15](https://news.ycombinator.com/item?id=42780953) - [Calm tech certification \"rewards\" less distracting tech](https://spectrum.ieee.org/calm-tech)
 * [2025-01-21, 14:59:44](https://news.ycombinator.com/item?id=42780816) - [0-click deanonymization attack targeting Signal, Discord, other platforms](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
+* [2025-01-20, 15:26:30](https://news.ycombinator.com/item?id=42769623) - [How to solve computational science problems with AI: PINNs](https://mertkavi.com/how-to-solve-computational-science-problems-with-ai-physics-informed-neural-networks-pinns/)
 * [2025-01-20, 11:48:43](https://news.ycombinator.com/item?id=42767702) - [Interview with Jeff Atwood, Co-Founder of Stack Overflow](https://www.cnbc.com/2025/01/18/tech-founder-jeff-atwood-why-im-giving-away-millions-within-next-5-years.html)
 * [2025-01-20, 09:01:46](https://news.ycombinator.com/item?id=42766500) - [Lonely sunfish in Japan gets cardboard human friends](https://www.bbc.com/news/articles/cqjv4lz7g57o)
 * [2025-01-19, 23:39:20](https://news.ycombinator.com/item?id=42763304) - [The Ribbon Microphone](https://khz.ac/sound/ribbon-mic/)
