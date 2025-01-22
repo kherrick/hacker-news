@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-01-22, 17:40:09",
-      "https://news.ycombinator.com/item?id=42795375"
-    ],
-    [
-      "Show HN: BrowserAI – Run LLMs directly in browser using WebGPU (open source)",
-      "https://github.com/sauravpanda/BrowserAI"
-    ]
-  ],
-  [
-    [
       "2025-01-22, 17:27:14",
       "https://news.ycombinator.com/item?id=42795237"
     ],
@@ -237,6 +227,16 @@
     [
       "0-click deanonymization attack targeting Signal, Discord, other platforms",
       "https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117"
+    ]
+  ],
+  [
+    [
+      "2025-01-20, 15:26:30",
+      "https://news.ycombinator.com/item?id=42769623"
+    ],
+    [
+      "How to solve computational science problems with AI: PINNs",
+      "https://mertkavi.com/how-to-solve-computational-science-problems-with-ai-physics-informed-neural-networks-pinns/"
     ]
   ],
   [
