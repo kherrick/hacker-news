@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-22, 16:34:49](https://news.ycombinator.com/item?id=42794589) - [It's Time to Switch to OpenTofu](https://blog.gruntwork.io/make-the-switch-to-opentofu-6904ba95e799)
 * [2025-01-22, 15:07:26](https://news.ycombinator.com/item?id=42793597) - [Simple CPU Design](http://simplecpudesign.com/)
 * [2025-01-22, 14:57:23](https://news.ycombinator.com/item?id=42793483) - [The Tyranny of Structurelessness (1970)](https://www.jofreeman.com/joreen/tyranny.htm)
 * [2025-01-22, 14:25:09](https://news.ycombinator.com/item?id=42793162) - [PyVista](https://pyvista.org/)
@@ -24,7 +25,6 @@
 * [2025-01-20, 11:48:43](https://news.ycombinator.com/item?id=42767702) - [Interview with Jeff Atwood, Co-Founder of Stack Overflow](https://www.cnbc.com/2025/01/18/tech-founder-jeff-atwood-why-im-giving-away-millions-within-next-5-years.html)
 * [2025-01-20, 01:30:46](https://news.ycombinator.com/item?id=42764012) - [2,100-year-old Alexander the Great mosaic analyzed for restoration](https://phys.org/news/2025-01-echoing-eternity-year-alexander-great.html)
 * [2025-01-19, 23:39:20](https://news.ycombinator.com/item?id=42763304) - [The Ribbon Microphone](https://khz.ac/sound/ribbon-mic/)
-* [2025-01-19, 10:36:28](https://news.ycombinator.com/item?id=42755821) - [Icelandic turf houses: Laufas, Glaumbaer and others](https://rachelsruminations.com/icelandic-turf-houses-laufas-glaumbaer/)
 * [2025-01-19, 05:56:35](https://news.ycombinator.com/item?id=42754127) - [Infinigen](https://infinigen.org/)
 * [2025-01-19, 05:24:25](https://news.ycombinator.com/item?id=42753953) - [Vpternlog: When three is 100% more than two](https://pvk.ca/Blog/2024/11/22/vpternlog-ternary-isnt-50-percent/)
 * [2025-01-19, 01:28:36](https://news.ycombinator.com/item?id=42752845) - [Dissecting \"Tiny Clouds\" shadertoy (2017)](https://blog.demofox.org/2017/11/26/dissecting-tiny-clouds/)
