@@ -24,6 +24,7 @@
 * [2025-01-20, 18:40:45](https://news.ycombinator.com/item?id=42771676) - [I Am (Not) a Failure: Lessons Learned from Six Failed Startup Attempts](http://blog.rongarret.info/2025/01/i-am-not-failure-lessons-learned-from.html)
 * [2025-01-20, 18:13:48](https://news.ycombinator.com/item?id=42771413) - [Seeking an IPL-V Interpreter](https://news.ycombinator.com/item?id=42771413)
 * [2025-01-20, 18:12:24](https://news.ycombinator.com/item?id=42771403) - [Kronotop: Redis-compatible, transactional document store backed by FoundationDB](https://github.com/kronotop/kronotop)
+* [2025-01-20, 18:02:23](https://news.ycombinator.com/item?id=42771310) - [Master the Art of the Product Manager 'No'](https://LetsNotDoThat.com)
 * [2025-01-20, 17:32:52](https://news.ycombinator.com/item?id=42770986) - [Frustration Tolerance: An Essential for Surviving Large Orgs](https://www.leadingsapiens.com/frustration-tolerance/)
 * [2025-01-20, 17:02:11](https://news.ycombinator.com/item?id=42770629) - [YC X25, the spring 2025 batch](https://www.ycombinator.com/blog/announcing-yc-x25/)
 * [2025-01-20, 16:56:48](https://news.ycombinator.com/item?id=42770561) - [The AI Bubble Is Bursting](https://matduggan.com/the-ai-bubble-is-bursting/)
