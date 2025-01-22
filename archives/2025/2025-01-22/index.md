@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-22](index.md)
 
+* [2025-01-22, 22:41:47](https://news.ycombinator.com/item?id=42798293) - [Google Fiber is coming to Las Vegas](https://fiber.googleblog.com/2025/01/las-vegas-get-ready-for-your-close-up.html)
 * [2025-01-22, 22:08:27](https://news.ycombinator.com/item?id=42798051) - [Florida man eats diet of butter, cheese, beef; cholesterol oozes from his body](https://arstechnica.com/health/2025/01/florida-man-eats-diet-of-butter-cheese-beef-cholesterol-oozes-from-his-body/)
 * [2025-01-22, 22:00:20](https://news.ycombinator.com/item?id=42797974) - [The war over a private island in the San Francisco Bay](https://www.sfgate.com/local/article/battle-over-san-francisco-bay-private-island-20034048.php)
 * [2025-01-22, 21:38:05](https://news.ycombinator.com/item?id=42797798) - [Therac-25 Simulator](http://web.mit.edu/6.033/2007/wwwdocs/assignments/handson-therac.html)
