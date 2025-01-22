@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-22, 17:16:22](https://news.ycombinator.com/item?id=42795097) - [Sequent Calculus and Notation – Par Part 1](https://ryanbrewer.dev/posts/sequent-calculus/)
+* [2025-01-22, 17:15:38](https://news.ycombinator.com/item?id=42795085) - [Fluorescent Mineral Photography](https://www.naturesrainbows.com/photography)
 * [2025-01-22, 17:01:17](https://news.ycombinator.com/item?id=42794902) - [Sieve (YC W22) Is Hiring Engineers to Build the Future of Video AI](https://www.sievedata.com/)
 * [2025-01-22, 16:08:59](https://news.ycombinator.com/item?id=42794232) - [Minimal 64x4 Home Computer](https://github.com/slu4coder/Minimal-64x4-Home-Computer)
 * [2025-01-22, 15:25:57](https://news.ycombinator.com/item?id=42793783) - [Mastercard DNS Error Went Unnoticed for Years](https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/)
@@ -17,7 +19,6 @@
 * [2025-01-22, 00:10:52](https://news.ycombinator.com/item?id=42786962) - [Ross Ulbricht granted a full pardon](https://twitter.com/Free_Ross/status/1881851923005165704)
 * [2025-01-21, 22:42:12](https://news.ycombinator.com/item?id=42786040) - [Hunyuan3D 2.0 – High-Resolution 3D Assets Generation](https://github.com/Tencent/Hunyuan3D-2)
 * [2025-01-21, 22:29:22](https://news.ycombinator.com/item?id=42785891) - [Stargate Project: SoftBank, OpenAI, Oracle, MGX to build data centers](https://apnews.com/article/trump-ai-openai-oracle-softbank-son-altman-ellison-be261f8a8ee07a0623d4170397348c41)
-* [2025-01-21, 19:00:03](https://news.ycombinator.com/item?id=42783948) - [Mercator: Extreme](https://mrgris.com/projects/merc-extreme/)
 * [2025-01-21, 17:37:01](https://news.ycombinator.com/item?id=42782914) - [Invisible Electrostatic Wall at 3M plant (1996)](http://amasci.com/weird/unusual/e-wall.html)
 * [2025-01-21, 15:12:15](https://news.ycombinator.com/item?id=42780953) - [Calm tech certification \"rewards\" less distracting tech](https://spectrum.ieee.org/calm-tech)
 * [2025-01-21, 14:59:44](https://news.ycombinator.com/item?id=42780816) - [0-click deanonymization attack targeting Signal, Discord, other platforms](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
@@ -28,7 +29,6 @@
 * [2025-01-19, 23:39:20](https://news.ycombinator.com/item?id=42763304) - [The Ribbon Microphone](https://khz.ac/sound/ribbon-mic/)
 * [2025-01-19, 05:56:35](https://news.ycombinator.com/item?id=42754127) - [Infinigen](https://infinigen.org/)
 * [2025-01-19, 05:24:25](https://news.ycombinator.com/item?id=42753953) - [Vpternlog: When three is 100% more than two](https://pvk.ca/Blog/2024/11/22/vpternlog-ternary-isnt-50-percent/)
-* [2025-01-19, 01:28:36](https://news.ycombinator.com/item?id=42752845) - [Dissecting \"Tiny Clouds\" shadertoy (2017)](https://blog.demofox.org/2017/11/26/dissecting-tiny-clouds/)
 * [2025-01-18, 21:27:01](https://news.ycombinator.com/item?id=42751563) - [Life in Another Light, 2024 Infrared-Photography-Contest Winners](https://www.theatlantic.com/photo/2025/01/infrared-photography-contest-winners-2024/681316/)
 
 ## [Archives](archives/index.md)

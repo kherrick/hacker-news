@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-22](index.md)
 
+* [2025-01-22, 17:16:22](https://news.ycombinator.com/item?id=42795097) - [Sequent Calculus and Notation – Par Part 1](https://ryanbrewer.dev/posts/sequent-calculus/)
+* [2025-01-22, 17:15:38](https://news.ycombinator.com/item?id=42795085) - [Fluorescent Mineral Photography](https://www.naturesrainbows.com/photography)
 * [2025-01-22, 17:01:17](https://news.ycombinator.com/item?id=42794902) - [Sieve (YC W22) Is Hiring Engineers to Build the Future of Video AI](https://www.sievedata.com/)
 * [2025-01-22, 16:34:49](https://news.ycombinator.com/item?id=42794589) - [It's Time to Switch to OpenTofu](https://blog.gruntwork.io/make-the-switch-to-opentofu-6904ba95e799)
 * [2025-01-22, 16:08:59](https://news.ycombinator.com/item?id=42794232) - [Minimal 64x4 Home Computer](https://github.com/slu4coder/Minimal-64x4-Home-Computer)
