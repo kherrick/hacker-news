@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-22, 03:22:42](https://news.ycombinator.com/item?id=42788580) - [Flame: A small language model for spreadsheet formulas (2023)](https://arxiv.org/abs/2301.13779)
 * [2025-01-22, 03:03:05](https://news.ycombinator.com/item?id=42788455) - [What are these bumps on the top of a pull-tab can?](https://old.reddit.com/r/whatisthisthing/comments/1i5ztq4/comment/m8a7m8m/)
 * [2025-01-22, 03:02:45](https://news.ycombinator.com/item?id=42788451) - [Tensor Product Attention Is All You Need](https://arxiv.org/abs/2501.06425)
 * [2025-01-22, 02:47:25](https://news.ycombinator.com/item?id=42788336) - [The first release of OpenVox, the OSS implementation of Puppet](https://overlookinfratech.com/2025/01/21/first-release-hot-off-the-presses/)
@@ -23,7 +24,6 @@
 * [2025-01-21, 14:59:44](https://news.ycombinator.com/item?id=42780816) - [0-click deanonymization attack targeting Signal, Discord, other platforms](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
 * [2025-01-21, 08:16:39](https://news.ycombinator.com/item?id=42777669) - [Ask HN: How are you preparing for PEPPOL?](https://news.ycombinator.com/item?id=42777669)
 * [2025-01-21, 06:28:25](https://news.ycombinator.com/item?id=42777193) - [More than 40% of postdocs leave academia, study reveals](https://www.nature.com/articles/d41586-025-00142-y)
-* [2025-01-21, 06:17:10](https://news.ycombinator.com/item?id=42777144) - [Liskov Substitution: The real meaning of inheritance](https://cekrem.github.io/posts/liskov-substitution-the-real-meaning-of-inheritance/)
 * [2025-01-20, 15:47:17](https://news.ycombinator.com/item?id=42769822) - [Moving on from React, a year later](https://kellysutton.com/2025/01/18/moving-on-from-react-a-year-later.html)
 * [2025-01-20, 11:48:43](https://news.ycombinator.com/item?id=42767702) - [Interview with Jeff Atwood, Co-Founder of Stack Overflow](https://www.cnbc.com/2025/01/18/tech-founder-jeff-atwood-why-im-giving-away-millions-within-next-5-years.html)
 * [2025-01-19, 20:50:13](https://news.ycombinator.com/item?id=42761659) - [Castle Game Engine: Web target – big progress, first 3 demos to try](https://castle-engine.io/wp/2025/01/06/web-target-big-progress-first-3-demos-to-try/)
