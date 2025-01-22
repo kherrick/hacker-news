@@ -74,3 +74,4 @@
 * [2025-01-21, 01:59:23](https://news.ycombinator.com/item?id=42775545) - [It sure looks like Meta stole a lot of books to build its AI](https://lithub.com/it-sure-looks-like-meta-stole-a-lot-of-books-to-build-its-ai/)
 * [2025-01-21, 01:37:01](https://news.ycombinator.com/item?id=42775405) - [New tech turns seawater into drinking water without tons of chemicals](https://news.umich.edu/new-water-purification-technology-helps-turn-seawater-into-drinking-water-without-tons-of-chemicals/)
 * [2025-01-21, 00:49:41](https://news.ycombinator.com/item?id=42775029) - [Ruff: Python linter and code formatter written in Rust](https://github.com/astral-sh/ruff)
+* [2025-01-21, 00:16:25](https://news.ycombinator.com/item?id=42774758) - [File Systems: The Original Hypermedia](https://jon.work/og/)
