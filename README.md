@@ -5,7 +5,7 @@
 * [2025-01-22, 17:15:38](https://news.ycombinator.com/item?id=42795085) - [Fluorescent Mineral Photography](https://www.naturesrainbows.com/photography)
 * [2025-01-22, 17:01:17](https://news.ycombinator.com/item?id=42794902) - [Sieve (YC W22) Is Hiring Engineers to Build the Future of Video AI](https://www.sievedata.com/)
 * [2025-01-22, 16:08:59](https://news.ycombinator.com/item?id=42794232) - [Minimal 64x4 Home Computer](https://github.com/slu4coder/Minimal-64x4-Home-Computer)
-* [2025-01-22, 15:25:57](https://news.ycombinator.com/item?id=42793783) - [Mastercard DNS Error Went Unnoticed for Years](https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/)
+* [2025-01-22, 15:25:57](https://news.ycombinator.com/item?id=42793783) - [Mastercard DNS error went unnoticed for years](https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/)
 * [2025-01-22, 15:25:32](https://news.ycombinator.com/item?id=42793777) - [Show HN: Stratoshark, a sibling application to Wireshark](https://stratoshark.org/)
 * [2025-01-22, 15:07:26](https://news.ycombinator.com/item?id=42793597) - [Simple CPU Design](http://simplecpudesign.com/)
 * [2025-01-22, 15:05:34](https://news.ycombinator.com/item?id=42793567) - [OpenAI has upped its lobbying efforts nearly sevenfold](https://www.technologyreview.com/2025/01/21/1110260/openai-ups-its-lobbying-efforts-nearly-seven-fold/)
