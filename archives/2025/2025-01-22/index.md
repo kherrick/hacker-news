@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-22](index.md)
 
+* [2025-01-22, 22:00:20](https://news.ycombinator.com/item?id=42797974) - [The war over a private island in the San Francisco Bay](https://www.sfgate.com/local/article/battle-over-san-francisco-bay-private-island-20034048.php)
 * [2025-01-22, 21:32:03](https://news.ycombinator.com/item?id=42797756) - [Federal Court (Finally) Rules Backdoor Searches of Data Unconstitutional](https://www.eff.org/deeplinks/2025/01/victory-federal-court-finally-rules-backdoor-searches-702-data-unconstitutional)
 * [2025-01-22, 21:01:14](https://news.ycombinator.com/item?id=42797457) - [Trellis (YC W24) Is Hiring](https://runtrellis.com/)
 * [2025-01-22, 20:43:40](https://news.ycombinator.com/item?id=42797281) - [The ultra-fast cancer treatments which could replace conventional radiotherapy](https://www.bbc.com/future/article/20250121-the-physics-transforming-cancer)
