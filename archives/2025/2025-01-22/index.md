@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-22](index.md)
 
+* [2025-01-22, 21:01:14](https://news.ycombinator.com/item?id=42797457) - [Trellis (YC W24) Is Hiring](https://runtrellis.com/)
+* [2025-01-22, 20:41:52](https://news.ycombinator.com/item?id=42797260) - [Show HN: I Made an Open-Source Laptop from Scratch](https://www.byran.ee/posts/creation/)
 * [2025-01-22, 20:08:57](https://news.ycombinator.com/item?id=42796950) - [How to improve your WFH lighting to reduce eye strain](https://rustle.ca/posts/articles/work-from-home-lighting)
 * [2025-01-22, 18:38:47](https://news.ycombinator.com/item?id=42796058) - [C stdlib isn't threadsafe and even safe Rust didn't save us](https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us)
 * [2025-01-22, 17:40:09](https://news.ycombinator.com/item?id=42795375) - [Show HN: BrowserAI – Run LLMs directly in browser using WebGPU (open source)](https://github.com/sauravpanda/BrowserAI)
