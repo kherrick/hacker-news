@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-22, 21:01:14](https://news.ycombinator.com/item?id=42797457) - [Trellis (YC W24) Is Hiring](https://runtrellis.com/)
+* [2025-01-22, 20:43:40](https://news.ycombinator.com/item?id=42797281) - [The ultra-fast cancer treatments which could replace conventional radiotherapy](https://www.bbc.com/future/article/20250121-the-physics-transforming-cancer)
 * [2025-01-22, 20:41:52](https://news.ycombinator.com/item?id=42797260) - [Show HN: I Made an Open-Source Laptop from Scratch](https://www.byran.ee/posts/creation/)
 * [2025-01-22, 20:08:57](https://news.ycombinator.com/item?id=42796950) - [How to improve your WFH lighting to reduce eye strain](https://rustle.ca/posts/articles/work-from-home-lighting)
 * [2025-01-22, 18:38:47](https://news.ycombinator.com/item?id=42796058) - [C stdlib isn't threadsafe and even safe Rust didn't save us](https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us)
@@ -20,7 +21,6 @@
 * [2025-01-22, 00:10:52](https://news.ycombinator.com/item?id=42786962) - [Ross Ulbricht granted a full pardon](https://twitter.com/Free_Ross/status/1881851923005165704)
 * [2025-01-21, 22:42:12](https://news.ycombinator.com/item?id=42786040) - [Hunyuan3D 2.0 – High-Resolution 3D Assets Generation](https://github.com/Tencent/Hunyuan3D-2)
 * [2025-01-21, 22:29:22](https://news.ycombinator.com/item?id=42785891) - [Stargate Project: SoftBank, OpenAI, Oracle, MGX to build data centers](https://apnews.com/article/trump-ai-openai-oracle-softbank-son-altman-ellison-be261f8a8ee07a0623d4170397348c41)
-* [2025-01-21, 15:12:15](https://news.ycombinator.com/item?id=42780953) - [Calm tech certification \"rewards\" less distracting tech](https://spectrum.ieee.org/calm-tech)
 * [2025-01-21, 00:16:25](https://news.ycombinator.com/item?id=42774758) - [File Systems: The Original Hypermedia](https://jon.work/og/)
 * [2025-01-20, 18:02:23](https://news.ycombinator.com/item?id=42771310) - [Master the Art of the Product Manager 'No'](https://LetsNotDoThat.com)
 * [2025-01-20, 15:26:30](https://news.ycombinator.com/item?id=42769623) - [How to solve computational science problems with AI: PINNs](https://mertkavi.com/how-to-solve-computational-science-problems-with-ai-physics-informed-neural-networks-pinns/)
