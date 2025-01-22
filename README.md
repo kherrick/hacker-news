@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-22, 07:53:28](https://news.ycombinator.com/item?id=42790207) - [DHS removes all members of cyber security advisory boards, halts investigations](https://bsky.app/profile/ericjgeller.com/post/3lgbpqmxeok2f)
 * [2025-01-22, 03:22:42](https://news.ycombinator.com/item?id=42788580) - [Flame: A small language model for spreadsheet formulas (2023)](https://arxiv.org/abs/2301.13779)
 * [2025-01-22, 03:03:05](https://news.ycombinator.com/item?id=42788455) - [What are these bumps on the top of a pull-tab can?](https://old.reddit.com/r/whatisthisthing/comments/1i5ztq4/comment/m8a7m8m/)
 * [2025-01-22, 03:02:45](https://news.ycombinator.com/item?id=42788451) - [Tensor Product Attention Is All You Need](https://arxiv.org/abs/2501.06425)
@@ -17,10 +18,8 @@
 * [2025-01-21, 20:33:11](https://news.ycombinator.com/item?id=42784880) - [JReleaser: quick and effortless way to release your project](https://jreleaser.org/)
 * [2025-01-21, 19:39:39](https://news.ycombinator.com/item?id=42784365) - [Ask HN: Is anyone doing anything cool with tiny language models?](https://news.ycombinator.com/item?id=42784365)
 * [2025-01-21, 19:00:03](https://news.ycombinator.com/item?id=42783948) - [Mercator: Extreme](https://mrgris.com/projects/merc-extreme/)
-* [2025-01-21, 18:24:03](https://news.ycombinator.com/item?id=42783543) - [Rafael Araujo's 20 Mesmerizing Geometrical Masterpieces (2024)](https://abakcus.com/rafael-araujo-geometrical-masterpieces/)
 * [2025-01-21, 17:37:01](https://news.ycombinator.com/item?id=42782914) - [Invisible Electrostatic Wall at 3M plant (1996)](http://amasci.com/weird/unusual/e-wall.html)
 * [2025-01-21, 16:52:42](https://news.ycombinator.com/item?id=42782295) - [Show HN: I made a app that uses NFC as a physical switch to block distractions](https://www.foqos.app)
-* [2025-01-21, 16:20:18](https://news.ycombinator.com/item?id=42781846) - [Concept cells help your brain abstract information and build memories](https://www.quantamagazine.org/concept-cells-help-your-brain-abstract-information-and-build-memories-20250121/)
 * [2025-01-21, 15:12:15](https://news.ycombinator.com/item?id=42780953) - [Calm tech certification \"rewards\" less distracting tech](https://spectrum.ieee.org/calm-tech)
 * [2025-01-21, 14:59:44](https://news.ycombinator.com/item?id=42780816) - [0-click deanonymization attack targeting Signal, Discord, other platforms](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
 * [2025-01-21, 06:28:25](https://news.ycombinator.com/item?id=42777193) - [More than 40% of postdocs leave academia, study reveals](https://www.nature.com/articles/d41586-025-00142-y)
@@ -29,6 +28,7 @@
 * [2025-01-19, 10:36:28](https://news.ycombinator.com/item?id=42755821) - [Icelandic turf houses: Laufas, Glaumbaer and others](https://rachelsruminations.com/icelandic-turf-houses-laufas-glaumbaer/)
 * [2025-01-19, 05:56:35](https://news.ycombinator.com/item?id=42754127) - [Infinigen](https://infinigen.org/)
 * [2025-01-19, 01:28:36](https://news.ycombinator.com/item?id=42752845) - [Dissecting \"Tiny Clouds\" shadertoy (2017)](https://blog.demofox.org/2017/11/26/dissecting-tiny-clouds/)
+* [2025-01-18, 21:27:01](https://news.ycombinator.com/item?id=42751563) - [Life in Another Light, 2024 Infrared-Photography-Contest Winners](https://www.theatlantic.com/photo/2025/01/infrared-photography-contest-winners-2024/681316/)
 * [2025-01-18, 14:41:53](https://news.ycombinator.com/item?id=42748691) - [Prime numbers so memorable that people hunt for them](https://www.scientificamerican.com/article/these-prime-numbers-are-so-memorable-that-people-hunt-for-them/)
 
 ## [Archives](archives/index.md)
