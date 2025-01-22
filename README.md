@@ -25,9 +25,9 @@
 * [2025-01-21, 06:28:25](https://news.ycombinator.com/item?id=42777193) - [More than 40% of postdocs leave academia, study reveals](https://www.nature.com/articles/d41586-025-00142-y)
 * [2025-01-21, 06:17:10](https://news.ycombinator.com/item?id=42777144) - [Liskov Substitution: The real meaning of inheritance](https://cekrem.github.io/posts/liskov-substitution-the-real-meaning-of-inheritance/)
 * [2025-01-20, 15:47:17](https://news.ycombinator.com/item?id=42769822) - [Moving on from React, a year later](https://kellysutton.com/2025/01/18/moving-on-from-react-a-year-later.html)
-* [2025-01-20, 12:15:29](https://news.ycombinator.com/item?id=42767908) - [Unconventional Adventures](https://quarter--mile.com/Unconventional-Adventures)
 * [2025-01-19, 22:35:13](https://news.ycombinator.com/item?id=42762755) - [Ask HN: Songwriters, what software do you use?](https://news.ycombinator.com/item?id=42762755)
 * [2025-01-19, 20:50:13](https://news.ycombinator.com/item?id=42761659) - [Castle Game Engine: Web target – big progress, first 3 demos to try](https://castle-engine.io/wp/2025/01/06/web-target-big-progress-first-3-demos-to-try/)
+* [2025-01-19, 05:56:35](https://news.ycombinator.com/item?id=42754127) - [Infinigen](https://infinigen.org/)
 * [2025-01-19, 01:28:36](https://news.ycombinator.com/item?id=42752845) - [Dissecting \"Tiny Clouds\" shadertoy (2017)](https://blog.demofox.org/2017/11/26/dissecting-tiny-clouds/)
 * [2025-01-18, 14:41:53](https://news.ycombinator.com/item?id=42748691) - [Prime numbers so memorable that people hunt for them](https://www.scientificamerican.com/article/these-prime-numbers-are-so-memorable-that-people-hunt-for-them/)
 

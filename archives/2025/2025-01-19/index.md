@@ -49,6 +49,7 @@
 * [2025-01-19, 06:34:32](https://news.ycombinator.com/item?id=42754345) - [Unlink vs. DEL – A deep dive into how it works internally in Redis](https://www.pankajtanwar.in/blog/unlink-vs-del-a-deep-dive-into-how-it-works-internally-in-redis)
 * [2025-01-19, 06:28:36](https://news.ycombinator.com/item?id=42754305) - [SRCL: Open-source React project to build web apps with terminal aesthetics](https://www.sacred.computer)
 * [2025-01-19, 05:57:01](https://news.ycombinator.com/item?id=42754130) - [Apple removed all ByteDance apps from the App Store](https://support.apple.com/en-us/121596)
+* [2025-01-19, 05:56:35](https://news.ycombinator.com/item?id=42754127) - [Infinigen](https://infinigen.org/)
 * [2025-01-19, 05:50:18](https://news.ycombinator.com/item?id=42754098) - [Haskell: A Great Procedural Language](https://entropicthoughts.com/haskell-procedural-programming)
 * [2025-01-19, 05:42:25](https://news.ycombinator.com/item?id=42754057) - [The \"35-cent\" Commodore 64 softmodem](http://oldvcr.blogspot.com/2025/01/the-35-cent-commodore-64-softmodem.html)
 * [2025-01-19, 04:49:58](https://news.ycombinator.com/item?id=42753746) - [Facebook paid GOP firm to malign TikTok](https://www.washingtonpost.com/technology/2022/03/30/facebook-tiktok-targeted-victory/)
