@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-22, 11:00:48](https://news.ycombinator.com/item?id=42791428) - [My Struggle with Doom Scrolling](https://allthatjazz.me/posts/doom-scrolling-struggles)
 * [2025-01-22, 07:25:10](https://news.ycombinator.com/item?id=42790046) - [Arm releases Chiplet System Architecture spec beta version](https://newsroom.arm.com/blog/arm-chiplet-system-architecture-accelerating-evolution-of-silicon)
 * [2025-01-22, 03:22:42](https://news.ycombinator.com/item?id=42788580) - [Flame: A small language model for spreadsheet formulas (2023)](https://arxiv.org/abs/2301.13779)
 * [2025-01-22, 03:03:05](https://news.ycombinator.com/item?id=42788455) - [What are these bumps on the top of a pull-tab can?](https://old.reddit.com/r/whatisthisthing/comments/1i5ztq4/comment/m8a7m8m/)
@@ -15,7 +16,6 @@
 * [2025-01-21, 20:33:11](https://news.ycombinator.com/item?id=42784880) - [JReleaser: quick and effortless way to release your project](https://jreleaser.org/)
 * [2025-01-21, 19:39:39](https://news.ycombinator.com/item?id=42784365) - [Ask HN: Is anyone doing anything cool with tiny language models?](https://news.ycombinator.com/item?id=42784365)
 * [2025-01-21, 19:00:03](https://news.ycombinator.com/item?id=42783948) - [Mercator: Extreme](https://mrgris.com/projects/merc-extreme/)
-* [2025-01-21, 18:24:03](https://news.ycombinator.com/item?id=42783543) - [Rafael Araujo's 20 Mesmerizing Geometrical Masterpieces (2024)](https://abakcus.com/rafael-araujo-geometrical-masterpieces/)
 * [2025-01-21, 17:37:01](https://news.ycombinator.com/item?id=42782914) - [Invisible Electrostatic Wall at 3M plant (1996)](http://amasci.com/weird/unusual/e-wall.html)
 * [2025-01-21, 16:52:42](https://news.ycombinator.com/item?id=42782295) - [Show HN: I made a app that uses NFC as a physical switch to block distractions](https://www.foqos.app)
 * [2025-01-21, 16:20:18](https://news.ycombinator.com/item?id=42781846) - [Concept cells help your brain abstract information and build memories](https://www.quantamagazine.org/concept-cells-help-your-brain-abstract-information-and-build-memories-20250121/)
