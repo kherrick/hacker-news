@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-22, 03:22:42",
+      "https://news.ycombinator.com/item?id=42788580"
+    ],
+    [
+      "Flame: A small language model for spreadsheet formulas (2023)",
+      "https://arxiv.org/abs/2301.13779"
+    ]
+  ],
+  [
+    [
       "2025-01-22, 03:03:05",
       "https://news.ycombinator.com/item?id=42788455"
     ],
@@ -227,16 +237,6 @@
     [
       "More than 40% of postdocs leave academia, study reveals",
       "https://www.nature.com/articles/d41586-025-00142-y"
-    ]
-  ],
-  [
-    [
-      "2025-01-21, 06:17:10",
-      "https://news.ycombinator.com/item?id=42777144"
-    ],
-    [
-      "Liskov Substitution: The real meaning of inheritance",
-      "https://cekrem.github.io/posts/liskov-substitution-the-real-meaning-of-inheritance/"
     ]
   ],
   [
