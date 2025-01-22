@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-22](index.md)
 
+* [2025-01-22, 17:40:09](https://news.ycombinator.com/item?id=42795375) - [Show HN: BrowserAI – Run LLMs directly in browser using WebGPU (open source)](https://github.com/sauravpanda/BrowserAI)
+* [2025-01-22, 17:27:14](https://news.ycombinator.com/item?id=42795237) - [TabBoo – add random jumpscares to websites you're trying to avoid](https://tabboo.xyz/)
 * [2025-01-22, 17:16:22](https://news.ycombinator.com/item?id=42795097) - [Sequent Calculus and Notation – Par Part 1](https://ryanbrewer.dev/posts/sequent-calculus/)
 * [2025-01-22, 17:15:38](https://news.ycombinator.com/item?id=42795085) - [Fluorescent Mineral Photography](https://www.naturesrainbows.com/photography)
 * [2025-01-22, 17:01:17](https://news.ycombinator.com/item?id=42794902) - [Sieve (YC W22) Is Hiring Engineers to Build the Future of Video AI](https://www.sievedata.com/)
@@ -13,6 +15,7 @@
 * [2025-01-22, 15:42:07](https://news.ycombinator.com/item?id=42793950) - [Dutch pioneer files EU's second lab-grown meat application](https://www.politico.eu/article/eu-mosa-meat-european-union-ceo-dutch-food-company-price/)
 * [2025-01-22, 15:27:46](https://news.ycombinator.com/item?id=42793802) - [2024 general essay questions for Oxford 'All Souls' scholarship [pdf]](https://www.asc.ox.ac.uk/sites/default/files/2024-10/General%20Paper%202024.pdf)
 * [2025-01-22, 15:25:57](https://news.ycombinator.com/item?id=42793783) - [Mastercard DNS Error Went Unnoticed for Years](https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/)
+* [2025-01-22, 15:25:32](https://news.ycombinator.com/item?id=42793777) - [Show HN: Stratoshark, a sibling application to Wireshark](https://stratoshark.org/)
 * [2025-01-22, 15:23:15](https://news.ycombinator.com/item?id=42793755) - [Amazon to close Quebec facilities, insists it's not because of new union](https://www.cbc.ca/news/canada/montreal/amazon-warehouse-closures-quebec-1.7438078)
 * [2025-01-22, 15:07:26](https://news.ycombinator.com/item?id=42793597) - [Simple CPU Design](http://simplecpudesign.com/)
 * [2025-01-22, 15:05:34](https://news.ycombinator.com/item?id=42793567) - [OpenAI has upped its lobbying efforts nearly sevenfold](https://www.technologyreview.com/2025/01/21/1110260/openai-ups-its-lobbying-efforts-nearly-seven-fold/)
