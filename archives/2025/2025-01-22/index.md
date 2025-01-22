@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-22](index.md)
 
+* [2025-01-22, 15:27:46](https://news.ycombinator.com/item?id=42793802) - [2024 general essay questions for Oxford 'All Souls' scholarship [pdf]](https://www.asc.ox.ac.uk/sites/default/files/2024-10/General%20Paper%202024.pdf)
 * [2025-01-22, 15:03:12](https://news.ycombinator.com/item?id=42793538) - [Cryptocurrency Turns to Cash in Russian Banks](https://krebsonsecurity.com/2024/12/how-cryptocurrency-turns-to-cash-in-russian-banks/)
 * [2025-01-22, 14:25:09](https://news.ycombinator.com/item?id=42793162) - [PyVista](https://pyvista.org/)
 * [2025-01-22, 13:42:51](https://news.ycombinator.com/item?id=42792718) - [Open Socrates by Agnes Callard review – a design for life](https://www.theguardian.com/books/2025/jan/16/open-socrates-by-agnes-callard-review-a-design-for-life)
