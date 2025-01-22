@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-22, 07:53:28](https://news.ycombinator.com/item?id=42790207) - [DHS removes all members of cyber security advisory boards, halts investigations](https://bsky.app/profile/ericjgeller.com/post/3lgbpqmxeok2f)
 * [2025-01-22, 07:25:10](https://news.ycombinator.com/item?id=42790046) - [Arm releases Chiplet System Architecture spec beta version](https://newsroom.arm.com/blog/arm-chiplet-system-architecture-accelerating-evolution-of-silicon)
 * [2025-01-22, 03:22:42](https://news.ycombinator.com/item?id=42788580) - [Flame: A small language model for spreadsheet formulas (2023)](https://arxiv.org/abs/2301.13779)
 * [2025-01-22, 03:03:05](https://news.ycombinator.com/item?id=42788455) - [What are these bumps on the top of a pull-tab can?](https://old.reddit.com/r/whatisthisthing/comments/1i5ztq4/comment/m8a7m8m/)
@@ -22,6 +21,7 @@
 * [2025-01-21, 16:20:18](https://news.ycombinator.com/item?id=42781846) - [Concept cells help your brain abstract information and build memories](https://www.quantamagazine.org/concept-cells-help-your-brain-abstract-information-and-build-memories-20250121/)
 * [2025-01-21, 15:12:15](https://news.ycombinator.com/item?id=42780953) - [Calm tech certification \"rewards\" less distracting tech](https://spectrum.ieee.org/calm-tech)
 * [2025-01-21, 14:59:44](https://news.ycombinator.com/item?id=42780816) - [0-click deanonymization attack targeting Signal, Discord, other platforms](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
+* [2025-01-20, 16:37:03](https://news.ycombinator.com/item?id=42770341) - [The testing pyramid is an outdated economic model](https://www.wiremock.io/post/rethinking-the-testing-pyramid)
 * [2025-01-20, 15:47:17](https://news.ycombinator.com/item?id=42769822) - [Moving on from React, a year later](https://kellysutton.com/2025/01/18/moving-on-from-react-a-year-later.html)
 * [2025-01-19, 20:50:13](https://news.ycombinator.com/item?id=42761659) - [Castle Game Engine: Web target – big progress, first 3 demos to try](https://castle-engine.io/wp/2025/01/06/web-target-big-progress-first-3-demos-to-try/)
 * [2025-01-19, 16:52:44](https://news.ycombinator.com/item?id=42758714) - [Masters of Allusion: The Art of Poetic Reference](https://www.nytimes.com/2025/01/16/books/review/on-poetry-allusions-and-quotations.html)
