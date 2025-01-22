@@ -32,6 +32,7 @@
 * [2025-01-20, 16:24:33](https://news.ycombinator.com/item?id=42770178) - [What is there left to believe in?](https://www.noahpinion.blog/p/what-is-there-left-to-believe-in)
 * [2025-01-20, 16:20:29](https://news.ycombinator.com/item?id=42770125) - [I'm Peter Roberts, immigration attorney, who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=42770125)
 * [2025-01-20, 15:53:31](https://news.ycombinator.com/item?id=42769871) - [Mixxx: GPL DJ Software](https://mixxx.org/)
+* [2025-01-20, 15:47:17](https://news.ycombinator.com/item?id=42769822) - [Moving on from React, a Year Later](https://kellysutton.com/2025/01/18/moving-on-from-react-a-year-later.html)
 * [2025-01-20, 15:41:50](https://news.ycombinator.com/item?id=42769770) - [The deeper under the Earth's surface, the more species you can find](https://arstechnica.com/science/2025/01/life-is-thriving-in-the-subsurface-depths-of-earth/)
 * [2025-01-20, 15:40:20](https://news.ycombinator.com/item?id=42769751) - [The quiet rebellion of a little life](https://caitlynrichardson.substack.com/p/the-quiet-rebellion-of-a-little-life)
 * [2025-01-20, 15:23:29](https://news.ycombinator.com/item?id=42769591) - [Facebook, X, YouTube to do more against online hate speech, EU says](https://www.reuters.com/technology/facebook-x-youtube-do-more-against-online-hate-speech-eu-says-2025-01-20/)
