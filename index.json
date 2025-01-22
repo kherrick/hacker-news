@@ -11,11 +11,21 @@
   ],
   [
     [
+      "2025-01-22, 03:02:45",
+      "https://news.ycombinator.com/item?id=42788451"
+    ],
+    [
+      "Tensor Product Attention Is All You Need",
+      "https://arxiv.org/abs/2501.06425"
+    ]
+  ],
+  [
+    [
       "2025-01-22, 01:33:17",
       "https://news.ycombinator.com/item?id=42787651"
     ],
     [
-      "Why is zero plural?",
+      "Why is zero plural? (2024)",
       "https://ell.stackexchange.com/questions/352455/why-is-zero-plural"
     ]
   ],
@@ -207,16 +217,6 @@
     [
       "0-click deanonymization attack targeting Signal, Discord, other platforms",
       "https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117"
-    ]
-  ],
-  [
-    [
-      "2025-01-21, 11:06:12",
-      "https://news.ycombinator.com/item?id=42778771"
-    ],
-    [
-      "Show HN: Printercow – Turn any thermal printer into an API endpoint",
-      "https://www.printercow.com/"
     ]
   ],
   [
