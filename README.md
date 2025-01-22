@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-22, 03:03:05](https://news.ycombinator.com/item?id=42788455) - [What are these bumps on the top of a pull-tab can?](https://old.reddit.com/r/whatisthisthing/comments/1i5ztq4/comment/m8a7m8m/)
-* [2025-01-22, 01:33:17](https://news.ycombinator.com/item?id=42787651) - [Why is zero plural?](https://ell.stackexchange.com/questions/352455/why-is-zero-plural)
+* [2025-01-22, 03:02:45](https://news.ycombinator.com/item?id=42788451) - [Tensor Product Attention Is All You Need](https://arxiv.org/abs/2501.06425)
+* [2025-01-22, 01:33:17](https://news.ycombinator.com/item?id=42787651) - [Why is zero plural? (2024)](https://ell.stackexchange.com/questions/352455/why-is-zero-plural)
 * [2025-01-22, 01:21:03](https://news.ycombinator.com/item?id=42787531) - [Isolating complexity is the essence of successful abstractions](https://v5.chriskrycho.com/journal/essence-of-successful-abstractions/)
 * [2025-01-22, 01:07:23](https://news.ycombinator.com/item?id=42787397) - [Open-source browser port of Pitfall from the Atari 2600](https://meatfighter.com/pitfall-web/)
 * [2025-01-22, 01:02:57](https://news.ycombinator.com/item?id=42787371) - [Evo: Version control that works the way you think](https://github.com/crazywolf132/evo)
@@ -21,7 +22,6 @@
 * [2025-01-21, 16:20:18](https://news.ycombinator.com/item?id=42781846) - [Concept cells help your brain abstract information and build memories](https://www.quantamagazine.org/concept-cells-help-your-brain-abstract-information-and-build-memories-20250121/)
 * [2025-01-21, 15:12:15](https://news.ycombinator.com/item?id=42780953) - [Calm tech certification \"rewards\" less distracting tech](https://spectrum.ieee.org/calm-tech)
 * [2025-01-21, 14:59:44](https://news.ycombinator.com/item?id=42780816) - [0-click deanonymization attack targeting Signal, Discord, other platforms](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
-* [2025-01-21, 11:06:12](https://news.ycombinator.com/item?id=42778771) - [Show HN: Printercow – Turn any thermal printer into an API endpoint](https://www.printercow.com/)
 * [2025-01-21, 06:28:25](https://news.ycombinator.com/item?id=42777193) - [More than 40% of postdocs leave academia, study reveals](https://www.nature.com/articles/d41586-025-00142-y)
 * [2025-01-21, 06:17:10](https://news.ycombinator.com/item?id=42777144) - [Liskov Substitution: The real meaning of inheritance](https://cekrem.github.io/posts/liskov-substitution-the-real-meaning-of-inheritance/)
 * [2025-01-20, 15:47:17](https://news.ycombinator.com/item?id=42769822) - [Moving on from React, a year later](https://kellysutton.com/2025/01/18/moving-on-from-react-a-year-later.html)
