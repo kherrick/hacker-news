@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-01-22, 03:03:05",
+      "https://news.ycombinator.com/item?id=42788455"
+    ],
+    [
+      "What are these bumps on the top of a pull-tab can?",
+      "https://old.reddit.com/r/whatisthisthing/comments/1i5ztq4/comment/m8a7m8m/"
+    ]
+  ],
+  [
+    [
       "2025-01-22, 01:33:17",
       "https://news.ycombinator.com/item?id=42787651"
     ],
     [
-      "Why Is Zero Plural?",
+      "Why is zero plural?",
       "https://ell.stackexchange.com/questions/352455/why-is-zero-plural"
     ]
   ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2025-01-21, 15:47:04",
-      "https://news.ycombinator.com/item?id=42781388"
-    ],
-    [
-      "How many Alpine packages can you install at once? (2024)",
-      "https://www.naff.dev/blog/all-the-packages"
-    ]
-  ],
-  [
-    [
       "2025-01-21, 15:12:15",
       "https://news.ycombinator.com/item?id=42780953"
     ],
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2025-01-21, 11:06:12",
+      "https://news.ycombinator.com/item?id=42778771"
+    ],
+    [
+      "Show HN: Printercow – Turn any thermal printer into an API endpoint",
+      "https://www.printercow.com/"
+    ]
+  ],
+  [
+    [
       "2025-01-21, 06:28:25",
       "https://news.ycombinator.com/item?id=42777193"
     ],
@@ -225,7 +235,7 @@
       "https://news.ycombinator.com/item?id=42777144"
     ],
     [
-      "Liskov Substitution: The Real Meaning of Inheritance",
+      "Liskov Substitution: The real meaning of inheritance",
       "https://cekrem.github.io/posts/liskov-substitution-the-real-meaning-of-inheritance/"
     ]
   ],
@@ -235,7 +245,7 @@
       "https://news.ycombinator.com/item?id=42769822"
     ],
     [
-      "Moving on from React, a Year Later",
+      "Moving on from React, a year later",
       "https://kellysutton.com/2025/01/18/moving-on-from-react-a-year-later.html"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "Dissecting \"Tiny Clouds\" shadertoy (2017)",
       "https://blog.demofox.org/2017/11/26/dissecting-tiny-clouds/"
-    ]
-  ],
-  [
-    [
-      "2025-01-18, 19:18:19",
-      "https://news.ycombinator.com/item?id=42750654"
-    ],
-    [
-      "How to navigate and exit the idea maze",
-      "https://michaelrbock.com/hypothesis/"
     ]
   ],
   [
