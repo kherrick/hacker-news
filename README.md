@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-22, 22:08:27](https://news.ycombinator.com/item?id=42798051) - [Florida man eats diet of butter, cheese, beef; cholesterol oozes from his body](https://arstechnica.com/health/2025/01/florida-man-eats-diet-of-butter-cheese-beef-cholesterol-oozes-from-his-body/)
-* [2025-01-22, 22:00:20](https://news.ycombinator.com/item?id=42797974) - [The war over a private island in the San Francisco Bay](https://www.sfgate.com/local/article/battle-over-san-francisco-bay-private-island-20034048.php)
 * [2025-01-22, 21:38:05](https://news.ycombinator.com/item?id=42797798) - [Therac-25 Simulator](http://web.mit.edu/6.033/2007/wwwdocs/assignments/handson-therac.html)
 * [2025-01-22, 21:32:03](https://news.ycombinator.com/item?id=42797756) - [Federal Court (Finally) Rules Backdoor Searches of Data Unconstitutional](https://www.eff.org/deeplinks/2025/01/victory-federal-court-finally-rules-backdoor-searches-702-data-unconstitutional)
 * [2025-01-22, 21:01:14](https://news.ycombinator.com/item?id=42797457) - [Trellis (YC W24) Is Hiring](https://runtrellis.com/)
@@ -12,6 +11,7 @@
 * [2025-01-22, 18:38:47](https://news.ycombinator.com/item?id=42796058) - [C stdlib isn't threadsafe and even safe Rust didn't save us](https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us)
 * [2025-01-22, 17:28:20](https://news.ycombinator.com/item?id=42795249) - [Show HN: I made a service to convert WordPress blogs to Hugo](https://wp2hugo.blogdb.org/)
 * [2025-01-22, 17:27:14](https://news.ycombinator.com/item?id=42795237) - [TabBoo – add random jumpscares to websites you're trying to avoid](https://tabboo.xyz/)
+* [2025-01-22, 17:16:22](https://news.ycombinator.com/item?id=42795097) - [Sequent Calculus and Notation – Par Part 1](https://ryanbrewer.dev/posts/sequent-calculus/)
 * [2025-01-22, 17:15:38](https://news.ycombinator.com/item?id=42795085) - [Fluorescent Mineral Photography](https://www.naturesrainbows.com/photography)
 * [2025-01-22, 16:08:59](https://news.ycombinator.com/item?id=42794232) - [Minimal 64x4 Home Computer](https://github.com/slu4coder/Minimal-64x4-Home-Computer)
 * [2025-01-22, 15:25:57](https://news.ycombinator.com/item?id=42793783) - [Mastercard DNS error went unnoticed for years](https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/)
