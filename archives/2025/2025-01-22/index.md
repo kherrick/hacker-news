@@ -8,6 +8,7 @@
 * [2025-01-22, 15:50:12](https://news.ycombinator.com/item?id=42794052) - [You vs. a Billionaire: An Interactive Perspective on Wealth](https://www.budgetflow.cc/blog/you-compared-to-elon-musk?referrer=hn)
 * [2025-01-22, 15:42:07](https://news.ycombinator.com/item?id=42793950) - [Dutch pioneer files EU's second lab-grown meat application](https://www.politico.eu/article/eu-mosa-meat-european-union-ceo-dutch-food-company-price/)
 * [2025-01-22, 15:27:46](https://news.ycombinator.com/item?id=42793802) - [2024 general essay questions for Oxford 'All Souls' scholarship [pdf]](https://www.asc.ox.ac.uk/sites/default/files/2024-10/General%20Paper%202024.pdf)
+* [2025-01-22, 15:25:57](https://news.ycombinator.com/item?id=42793783) - [Mastercard DNS Error Went Unnoticed for Years](https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/)
 * [2025-01-22, 15:23:15](https://news.ycombinator.com/item?id=42793755) - [Amazon to close Quebec facilities, insists it's not because of new union](https://www.cbc.ca/news/canada/montreal/amazon-warehouse-closures-quebec-1.7438078)
 * [2025-01-22, 15:07:26](https://news.ycombinator.com/item?id=42793597) - [Simple CPU Design](http://simplecpudesign.com/)
 * [2025-01-22, 15:03:12](https://news.ycombinator.com/item?id=42793538) - [Cryptocurrency Turns to Cash in Russian Banks](https://krebsonsecurity.com/2024/12/how-cryptocurrency-turns-to-cash-in-russian-banks/)

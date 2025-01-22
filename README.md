@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-22, 16:34:49](https://news.ycombinator.com/item?id=42794589) - [It's Time to Switch to OpenTofu](https://blog.gruntwork.io/make-the-switch-to-opentofu-6904ba95e799)
+* [2025-01-22, 15:25:57](https://news.ycombinator.com/item?id=42793783) - [Mastercard DNS Error Went Unnoticed for Years](https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/)
 * [2025-01-22, 15:07:26](https://news.ycombinator.com/item?id=42793597) - [Simple CPU Design](http://simplecpudesign.com/)
 * [2025-01-22, 14:57:23](https://news.ycombinator.com/item?id=42793483) - [The Tyranny of Structurelessness (1970)](https://www.jofreeman.com/joreen/tyranny.htm)
 * [2025-01-22, 14:25:09](https://news.ycombinator.com/item?id=42793162) - [PyVista](https://pyvista.org/)
@@ -23,13 +23,13 @@
 * [2025-01-21, 14:59:44](https://news.ycombinator.com/item?id=42780816) - [0-click deanonymization attack targeting Signal, Discord, other platforms](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
 * [2025-01-20, 21:47:11](https://news.ycombinator.com/item?id=42773436) - [Show HN: CFRS[] Community Demos: Patterns with turtle graphics using 6 commands](https://news.ycombinator.com/item?id=42773436)
 * [2025-01-20, 11:48:43](https://news.ycombinator.com/item?id=42767702) - [Interview with Jeff Atwood, Co-Founder of Stack Overflow](https://www.cnbc.com/2025/01/18/tech-founder-jeff-atwood-why-im-giving-away-millions-within-next-5-years.html)
+* [2025-01-20, 09:01:46](https://news.ycombinator.com/item?id=42766500) - [Lonely sunfish in Japan gets cardboard human friends](https://www.bbc.com/news/articles/cqjv4lz7g57o)
 * [2025-01-20, 01:30:46](https://news.ycombinator.com/item?id=42764012) - [2,100-year-old Alexander the Great mosaic analyzed for restoration](https://phys.org/news/2025-01-echoing-eternity-year-alexander-great.html)
 * [2025-01-19, 23:39:20](https://news.ycombinator.com/item?id=42763304) - [The Ribbon Microphone](https://khz.ac/sound/ribbon-mic/)
 * [2025-01-19, 05:56:35](https://news.ycombinator.com/item?id=42754127) - [Infinigen](https://infinigen.org/)
 * [2025-01-19, 05:24:25](https://news.ycombinator.com/item?id=42753953) - [Vpternlog: When three is 100% more than two](https://pvk.ca/Blog/2024/11/22/vpternlog-ternary-isnt-50-percent/)
 * [2025-01-19, 01:28:36](https://news.ycombinator.com/item?id=42752845) - [Dissecting \"Tiny Clouds\" shadertoy (2017)](https://blog.demofox.org/2017/11/26/dissecting-tiny-clouds/)
 * [2025-01-18, 21:27:01](https://news.ycombinator.com/item?id=42751563) - [Life in Another Light, 2024 Infrared-Photography-Contest Winners](https://www.theatlantic.com/photo/2025/01/infrared-photography-contest-winners-2024/681316/)
-* [2025-01-18, 14:41:53](https://news.ycombinator.com/item?id=42748691) - [Prime numbers so memorable that people hunt for them](https://www.scientificamerican.com/article/these-prime-numbers-are-so-memorable-that-people-hunt-for-them/)
 
 ## [Archives](archives/index.md)
 
