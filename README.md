@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-22, 15:03:12](https://news.ycombinator.com/item?id=42793538) - [Cryptocurrency Turns to Cash in Russian Banks](https://krebsonsecurity.com/2024/12/how-cryptocurrency-turns-to-cash-in-russian-banks/)
 * [2025-01-22, 14:25:09](https://news.ycombinator.com/item?id=42793162) - [PyVista](https://pyvista.org/)
 * [2025-01-22, 13:42:51](https://news.ycombinator.com/item?id=42792718) - [Open Socrates by Agnes Callard review – a design for life](https://www.theguardian.com/books/2025/jan/16/open-socrates-by-agnes-callard-review-a-design-for-life)
 * [2025-01-22, 12:00:05](https://news.ycombinator.com/item?id=42791823) - [Strac (YC W22) Is Hiring Windows Engineer](https://www.ycombinator.com/companies/strac/jobs/TJHiaL9-senior-endpoint-security-engineer-windows)
@@ -22,7 +23,6 @@
 * [2025-01-20, 11:48:43](https://news.ycombinator.com/item?id=42767702) - [Interview with Jeff Atwood, Co-Founder of Stack Overflow](https://www.cnbc.com/2025/01/18/tech-founder-jeff-atwood-why-im-giving-away-millions-within-next-5-years.html)
 * [2025-01-20, 01:30:46](https://news.ycombinator.com/item?id=42764012) - [2,100-year-old Alexander the Great mosaic analyzed for restoration](https://phys.org/news/2025-01-echoing-eternity-year-alexander-great.html)
 * [2025-01-19, 23:39:20](https://news.ycombinator.com/item?id=42763304) - [The Ribbon Microphone](https://khz.ac/sound/ribbon-mic/)
-* [2025-01-19, 20:50:13](https://news.ycombinator.com/item?id=42761659) - [Castle Game Engine: Web target – big progress, first 3 demos to try](https://castle-engine.io/wp/2025/01/06/web-target-big-progress-first-3-demos-to-try/)
 * [2025-01-19, 14:06:50](https://news.ycombinator.com/item?id=42757076) - [Examples of quick hash tables and dynamic arrays in C](https://nullprogram.com/blog/2025/01/19/)
 * [2025-01-19, 10:36:28](https://news.ycombinator.com/item?id=42755821) - [Icelandic turf houses: Laufas, Glaumbaer and others](https://rachelsruminations.com/icelandic-turf-houses-laufas-glaumbaer/)
 * [2025-01-19, 05:56:35](https://news.ycombinator.com/item?id=42754127) - [Infinigen](https://infinigen.org/)
