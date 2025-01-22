@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-22](index.md)
 
+* [2025-01-22, 21:32:03](https://news.ycombinator.com/item?id=42797756) - [Federal Court (Finally) Rules Backdoor Searches of Data Unconstitutional](https://www.eff.org/deeplinks/2025/01/victory-federal-court-finally-rules-backdoor-searches-702-data-unconstitutional)
 * [2025-01-22, 21:01:14](https://news.ycombinator.com/item?id=42797457) - [Trellis (YC W24) Is Hiring](https://runtrellis.com/)
 * [2025-01-22, 20:43:40](https://news.ycombinator.com/item?id=42797281) - [The ultra-fast cancer treatments which could replace conventional radiotherapy](https://www.bbc.com/future/article/20250121-the-physics-transforming-cancer)
 * [2025-01-22, 20:41:52](https://news.ycombinator.com/item?id=42797260) - [Show HN: I Made an Open-Source Laptop from Scratch](https://www.byran.ee/posts/creation/)
