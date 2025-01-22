@@ -25,9 +25,9 @@
 * [2025-01-21, 08:53:21](https://news.ycombinator.com/item?id=42777857) - [Kimi K1.5: Scaling Reinforcement Learning with LLMs](https://github.com/MoonshotAI/Kimi-k1.5)
 * [2025-01-21, 06:28:25](https://news.ycombinator.com/item?id=42777193) - [More than 40% of postdocs leave academia, study reveals](https://www.nature.com/articles/d41586-025-00142-y)
 * [2025-01-21, 06:17:10](https://news.ycombinator.com/item?id=42777144) - [Liskov Substitution: The Real Meaning of Inheritance](https://cekrem.github.io/posts/liskov-substitution-the-real-meaning-of-inheritance/)
-* [2025-01-20, 23:07:10](https://news.ycombinator.com/item?id=42774221) - [Reverse engineering Call of Duty anti-cheat](https://ssno.cc/posts/reversing-tac-1-4-2025/)
 * [2025-01-20, 12:15:29](https://news.ycombinator.com/item?id=42767908) - [Unconventional Adventures](https://quarter--mile.com/Unconventional-Adventures)
 * [2025-01-19, 20:50:13](https://news.ycombinator.com/item?id=42761659) - [Castle Game Engine: Web target – big progress, first 3 demos to try](https://castle-engine.io/wp/2025/01/06/web-target-big-progress-first-3-demos-to-try/)
+* [2025-01-19, 01:28:36](https://news.ycombinator.com/item?id=42752845) - [Dissecting \"Tiny Clouds\" shadertoy (2017)](https://blog.demofox.org/2017/11/26/dissecting-tiny-clouds/)
 * [2025-01-18, 19:18:19](https://news.ycombinator.com/item?id=42750654) - [How to navigate and exit the idea maze](https://michaelrbock.com/hypothesis/)
 * [2025-01-18, 14:41:53](https://news.ycombinator.com/item?id=42748691) - [Prime numbers so memorable that people hunt for them](https://www.scientificamerican.com/article/these-prime-numbers-are-so-memorable-that-people-hunt-for-them/)
 
