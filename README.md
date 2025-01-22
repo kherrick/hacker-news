@@ -2,7 +2,6 @@
 
 * [2025-01-22, 12:00:05](https://news.ycombinator.com/item?id=42791823) - [Strac (YC W22) Is Hiring Windows Engineer](https://www.ycombinator.com/companies/strac/jobs/TJHiaL9-senior-endpoint-security-engineer-windows)
 * [2025-01-22, 11:59:29](https://news.ycombinator.com/item?id=42791820) - [Show HN: NotepadJs – A cross-platform love letter to Notepad](https://github.com/itamarom/notepadjs)
-* [2025-01-22, 11:00:48](https://news.ycombinator.com/item?id=42791428) - [My Struggle with Doom Scrolling](https://allthatjazz.me/posts/doom-scrolling-struggles)
 * [2025-01-22, 03:22:42](https://news.ycombinator.com/item?id=42788580) - [Flame: A small language model for spreadsheet formulas (2023)](https://arxiv.org/abs/2301.13779)
 * [2025-01-22, 03:03:05](https://news.ycombinator.com/item?id=42788455) - [What are these bumps on the top of a pull-tab can?](https://old.reddit.com/r/whatisthisthing/comments/1i5ztq4/comment/m8a7m8m/)
 * [2025-01-22, 03:02:45](https://news.ycombinator.com/item?id=42788451) - [Tensor Product Attention Is All You Need](https://arxiv.org/abs/2501.06425)
@@ -18,6 +17,7 @@
 * [2025-01-21, 19:39:39](https://news.ycombinator.com/item?id=42784365) - [Ask HN: Is anyone doing anything cool with tiny language models?](https://news.ycombinator.com/item?id=42784365)
 * [2025-01-21, 19:00:03](https://news.ycombinator.com/item?id=42783948) - [Mercator: Extreme](https://mrgris.com/projects/merc-extreme/)
 * [2025-01-21, 17:37:01](https://news.ycombinator.com/item?id=42782914) - [Invisible Electrostatic Wall at 3M plant (1996)](http://amasci.com/weird/unusual/e-wall.html)
+* [2025-01-21, 16:20:18](https://news.ycombinator.com/item?id=42781846) - [Concept cells help your brain abstract information and build memories](https://www.quantamagazine.org/concept-cells-help-your-brain-abstract-information-and-build-memories-20250121/)
 * [2025-01-21, 15:12:15](https://news.ycombinator.com/item?id=42780953) - [Calm tech certification \"rewards\" less distracting tech](https://spectrum.ieee.org/calm-tech)
 * [2025-01-21, 14:59:44](https://news.ycombinator.com/item?id=42780816) - [0-click deanonymization attack targeting Signal, Discord, other platforms](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
 * [2025-01-20, 16:37:03](https://news.ycombinator.com/item?id=42770341) - [The testing pyramid is an outdated economic model](https://www.wiremock.io/post/rethinking-the-testing-pyramid)
