@@ -11,6 +11,7 @@
 * [2025-01-19, 23:11:22](https://news.ycombinator.com/item?id=42763095) - [The PC Is Dead: It's Time to Make Computing Personal Again](https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again)
 * [2025-01-19, 22:56:41](https://news.ycombinator.com/item?id=42762962) - [How do interruptions impact different software engineering activities](https://rdel.substack.com/p/rdel-75-how-do-interruptions-impact)
 * [2025-01-19, 22:41:06](https://news.ycombinator.com/item?id=42762813) - [Wildfires are erasing California's climate gains, research shows](https://news.uchicago.edu/story/wildfires-are-erasing-californias-climate-gains-research-shows)
+* [2025-01-19, 22:35:13](https://news.ycombinator.com/item?id=42762755) - [Ask HN: Songwriters, what software do you use?](https://news.ycombinator.com/item?id=42762755)
 * [2025-01-19, 21:39:21](https://news.ycombinator.com/item?id=42762161) - [Hacking the Yamaha DX9 to Turn It into a DX7 (2023)](https://ajxs.me/blog/Hacking_the_Yamaha_DX9_To_Turn_It_Into_a_DX7.html)
 * [2025-01-19, 21:30:09](https://news.ycombinator.com/item?id=42762077) - [All Lisp Indentation Schemes Are Ugly](https://aartaka.me/lisp-indent.html)
 * [2025-01-19, 21:27:53](https://news.ycombinator.com/item?id=42762054) - [Please Don't Force Dark Mode on Users](https://iamvishnu.com/posts/please-dont-force-dark-mode)
