@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-01-23, 01:33:26",
-      "https://news.ycombinator.com/item?id=42799629"
-    ],
-    [
-      "Foundations of Large Language Models",
-      "https://arxiv.org/abs/2501.09223"
-    ]
-  ],
-  [
-    [
       "2025-01-23, 01:26:52",
       "https://news.ycombinator.com/item?id=42799574"
     ],
@@ -257,6 +247,16 @@
     [
       "RealtimeSanitizer for Rust",
       "https://steck.tech/posts/rtsan-in-rust/"
+    ]
+  ],
+  [
+    [
+      "2025-01-21, 06:11:47",
+      "https://news.ycombinator.com/item?id=42777107"
+    ],
+    [
+      "A Minimalist TypeScript for C",
+      "https://news.ycombinator.com/item?id=42777107"
     ]
   ],
   [
