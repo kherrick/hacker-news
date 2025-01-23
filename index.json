@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-01-23, 02:28:59",
-      "https://news.ycombinator.com/item?id=42799974"
-    ],
-    [
-      "Kidnapping of Ledger Co-Founder Sparks Major Investigation in France",
-      "https://www.leberry.fr/vierzon-18100/faits-divers/enlevement-de-l-un-des-cofondateurs-de-la-start-up-ledger-vaste-enquete-dans-le-cher_14629928/"
-    ]
-  ],
-  [
-    [
       "2025-01-23, 01:33:26",
       "https://news.ycombinator.com/item?id=42799629"
     ],
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=42799245"
     ],
     [
-      "gRPC vs. REST: Understand gRPC, OpenAPI and REST and When to Use in API Design",
+      "Understanding gRPC, OpenAPI and REST and when to use them in API design",
       "https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them"
     ]
   ],
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=42799136"
     ],
     [
-      "Tailwind V4 Is Finally Out",
+      "Tailwind CSS v4.0",
       "https://tailwindcss.com/blog/tailwindcss-v4"
     ]
   ],
@@ -135,7 +125,7 @@
       "https://news.ycombinator.com/item?id=42797798"
     ],
     [
-      "Therac-25 Simulator",
+      "Hands-on Assignment – Therac-25 (2007)",
       "http://web.mit.edu/6.033/2007/wwwdocs/assignments/handson-therac.html"
     ]
   ],
@@ -227,6 +217,16 @@
     [
       "The Tyranny of Structurelessness (1970)",
       "https://www.jofreeman.com/joreen/tyranny.htm"
+    ]
+  ],
+  [
+    [
+      "2025-01-22, 11:00:48",
+      "https://news.ycombinator.com/item?id=42791428"
+    ],
+    [
+      "My Struggle with Doom Scrolling",
+      "https://allthatjazz.me/posts/doom-scrolling-struggles"
     ]
   ],
   [
