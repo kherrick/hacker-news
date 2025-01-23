@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-01-23, 01:33:26",
+      "https://news.ycombinator.com/item?id=42799629"
+    ],
+    [
+      "Foundations of Large Language Models",
+      "https://arxiv.org/abs/2501.09223"
+    ]
+  ],
+  [
+    [
+      "2025-01-23, 01:26:52",
+      "https://news.ycombinator.com/item?id=42799574"
+    ],
+    [
+      "Show HN: I Organized Bluesky Feeds by Categories and Growth Rankings",
+      "https://www.bskyinfo.com/feeds/"
+    ]
+  ],
+  [
+    [
+      "2025-01-23, 01:21:37",
+      "https://news.ycombinator.com/item?id=42799540"
+    ],
+    [
+      "Trae: An AI Powered IDE by ByteDance",
+      "https://www.trae.ai/home"
+    ]
+  ],
+  [
+    [
       "2025-01-23, 01:01:09",
       "https://news.ycombinator.com/item?id=42799374"
     ],
@@ -17,6 +47,16 @@
     [
       "gRPC vs. REST: Understand gRPC, OpenAPI and REST and When to Use in API Design",
       "https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them"
+    ]
+  ],
+  [
+    [
+      "2025-01-23, 00:33:02",
+      "https://news.ycombinator.com/item?id=42799136"
+    ],
+    [
+      "Tailwind V4 Is Finally Out",
+      "https://tailwindcss.com/blog/tailwindcss-v4"
     ]
   ],
   [
@@ -71,6 +111,16 @@
   ],
   [
     [
+      "2025-01-22, 22:18:07",
+      "https://news.ycombinator.com/item?id=42798108"
+    ],
+    [
+      "A Look Back at 2024: F-Droid's Progress and What's Coming in 2025",
+      "https://f-droid.org/2025/01/21/a-look-back-at-2024-f-droids-progress-and-whats-coming-in-2025.html"
+    ]
+  ],
+  [
+    [
       "2025-01-22, 21:38:05",
       "https://news.ycombinator.com/item?id=42797798"
     ],
@@ -87,16 +137,6 @@
     [
       "Federal Court (Finally) Rules Backdoor Searches of Data Unconstitutional",
       "https://www.eff.org/deeplinks/2025/01/victory-federal-court-finally-rules-backdoor-searches-702-data-unconstitutional"
-    ]
-  ],
-  [
-    [
-      "2025-01-22, 20:43:40",
-      "https://news.ycombinator.com/item?id=42797281"
-    ],
-    [
-      "The ultra-fast cancer treatments which could replace conventional radiotherapy",
-      "https://www.bbc.com/future/article/20250121-the-physics-transforming-cancer"
     ]
   ],
   [
@@ -127,16 +167,6 @@
     [
       "I made a multiplayer shooter game in Lisp, here is my journey",
       "https://ertu.dev/posts/i-made-an-online-shooter-game-in-lisp/"
-    ]
-  ],
-  [
-    [
-      "2025-01-22, 17:28:20",
-      "https://news.ycombinator.com/item?id=42795249"
-    ],
-    [
-      "Show HN: I made a service to convert WordPress blogs to Hugo",
-      "https://wp2hugo.blogdb.org/"
     ]
   ],
   [
@@ -211,26 +241,6 @@
   ],
   [
     [
-      "2025-01-22, 00:10:52",
-      "https://news.ycombinator.com/item?id=42786962"
-    ],
-    [
-      "Ross Ulbricht granted a full pardon",
-      "https://twitter.com/Free_Ross/status/1881851923005165704"
-    ]
-  ],
-  [
-    [
-      "2025-01-21, 22:29:22",
-      "https://news.ycombinator.com/item?id=42785891"
-    ],
-    [
-      "Stargate Project: SoftBank, OpenAI, Oracle, MGX to build data centers",
-      "https://apnews.com/article/trump-ai-openai-oracle-softbank-son-altman-ellison-be261f8a8ee07a0623d4170397348c41"
-    ]
-  ],
-  [
-    [
       "2025-01-21, 04:35:18",
       "https://news.ycombinator.com/item?id=42776668"
     ],
@@ -277,16 +287,6 @@
     [
       "A Proper x86 Assembler in Haskell Using the Escardó-Oliva Functional",
       "http://blog.vmchale.com/article/escardo-oliva-functional"
-    ]
-  ],
-  [
-    [
-      "2025-01-19, 23:39:20",
-      "https://news.ycombinator.com/item?id=42763304"
-    ],
-    [
-      "The Ribbon Microphone",
-      "https://khz.ac/sound/ribbon-mic/"
     ]
   ],
   [
