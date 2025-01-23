@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-23](index.md)
 
+* [2025-01-23, 06:09:09](https://news.ycombinator.com/item?id=42801170) - [First OpenVox release – Puppet fork – hot off the presses](https://voxpupuli.org/blog/2025/01/21/openvox-release/)
 * [2025-01-23, 05:58:16](https://news.ycombinator.com/item?id=42801132) - [Young men now spend more of their free time alone than any other group](https://flowingdata.com/2025/01/22/young-and-alone/)
 * [2025-01-23, 05:31:52](https://news.ycombinator.com/item?id=42801021) - [Is Social Media More Like Cigarettes or Junk Food?](https://www.newyorker.com/culture/infinite-scroll/is-social-media-more-like-cigarettes-or-junk-food)
 * [2025-01-23, 03:53:08](https://news.ycombinator.com/item?id=42800557) - [Tech Takes the Pareto Principle Too Far](https://bobbylox.com/blog/tech-takes-the-pareto-principle-too-far/)

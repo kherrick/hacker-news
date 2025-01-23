@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-23, 06:09:09](https://news.ycombinator.com/item?id=42801170) - [First OpenVox release – Puppet fork – hot off the presses](https://voxpupuli.org/blog/2025/01/21/openvox-release/)
 * [2025-01-23, 05:58:16](https://news.ycombinator.com/item?id=42801132) - [Young men now spend more of their free time alone than any other group](https://flowingdata.com/2025/01/22/young-and-alone/)
 * [2025-01-23, 05:31:52](https://news.ycombinator.com/item?id=42801021) - [Is Social Media More Like Cigarettes or Junk Food?](https://www.newyorker.com/culture/infinite-scroll/is-social-media-more-like-cigarettes-or-junk-food)
 * [2025-01-23, 03:53:08](https://news.ycombinator.com/item?id=42800557) - [Tech takes the Pareto principle too far](https://bobbylox.com/blog/tech-takes-the-pareto-principle-too-far/)
@@ -23,7 +24,6 @@
 * [2025-01-22, 15:25:57](https://news.ycombinator.com/item?id=42793783) - [Mastercard DNS error went unnoticed for years](https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/)
 * [2025-01-22, 15:07:26](https://news.ycombinator.com/item?id=42793597) - [Simple CPU Design](http://simplecpudesign.com/)
 * [2025-01-22, 14:57:23](https://news.ycombinator.com/item?id=42793483) - [The Tyranny of Structurelessness (1970)](https://www.jofreeman.com/joreen/tyranny.htm)
-* [2025-01-22, 06:32:34](https://news.ycombinator.com/item?id=42789721) - [System Informer](https://systeminformer.com/)
 * [2025-01-21, 14:45:23](https://news.ycombinator.com/item?id=42780636) - [RealtimeSanitizer for Rust](https://steck.tech/posts/rtsan-in-rust/)
 * [2025-01-21, 11:08:04](https://news.ycombinator.com/item?id=42778795) - [Redis-compatible distributed key value NoSQL database](https://kvrocks.apache.org/)
 * [2025-01-20, 18:02:23](https://news.ycombinator.com/item?id=42771310) - [Master the Art of the Product Manager 'No'](https://LetsNotDoThat.com)
