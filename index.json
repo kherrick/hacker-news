@@ -1,6 +1,66 @@
 [
   [
     [
+      "2025-01-23, 01:01:09",
+      "https://news.ycombinator.com/item?id=42799374"
+    ],
+    [
+      "Demodesk (YC W19) Is Hiring a Ruby on Rails Full-Stack Engineer",
+      "https://demodesk.com/careers?utm_source=hn"
+    ]
+  ],
+  [
+    [
+      "2025-01-23, 00:47:42",
+      "https://news.ycombinator.com/item?id=42799245"
+    ],
+    [
+      "gRPC vs. REST: Understand gRPC, OpenAPI and REST and When to Use in API Design",
+      "https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them"
+    ]
+  ],
+  [
+    [
+      "2025-01-23, 00:29:09",
+      "https://news.ycombinator.com/item?id=42799103"
+    ],
+    [
+      "Most Influential Papers in Computer Science History",
+      "https://terriblesoftware.org/2025/01/22/the-7-most-influential-papers-in-computer-science-history/"
+    ]
+  ],
+  [
+    [
+      "2025-01-23, 00:06:35",
+      "https://news.ycombinator.com/item?id=42798960"
+    ],
+    [
+      "NIH hit with freezes on meetings, travel, communications, and hiring",
+      "https://www.science.org/content/article/trump-hits-nih-devastating-freezes-meetings-travel-communications-and-hiring"
+    ]
+  ],
+  [
+    [
+      "2025-01-22, 23:57:29",
+      "https://news.ycombinator.com/item?id=42798896"
+    ],
+    [
+      "DIY Web Archiving Zine",
+      "https://zinebakery.com//homemade-zines/bakeshop-2-diywebarchiving"
+    ]
+  ],
+  [
+    [
+      "2025-01-22, 23:46:09",
+      "https://news.ycombinator.com/item?id=42798811"
+    ],
+    [
+      "Lossless Compression of Vector IDs for Approximate Nearest Neighbor Search",
+      "https://arxiv.org/abs/2501.10479"
+    ]
+  ],
+  [
+    [
       "2025-01-22, 22:41:47",
       "https://news.ycombinator.com/item?id=42798293"
     ],
@@ -27,16 +87,6 @@
     [
       "Federal Court (Finally) Rules Backdoor Searches of Data Unconstitutional",
       "https://www.eff.org/deeplinks/2025/01/victory-federal-court-finally-rules-backdoor-searches-702-data-unconstitutional"
-    ]
-  ],
-  [
-    [
-      "2025-01-22, 21:01:14",
-      "https://news.ycombinator.com/item?id=42797457"
-    ],
-    [
-      "Trellis (YC W24) Is Hiring",
-      "https://runtrellis.com/"
     ]
   ],
   [
@@ -101,16 +151,6 @@
   ],
   [
     [
-      "2025-01-22, 17:15:38",
-      "https://news.ycombinator.com/item?id=42795085"
-    ],
-    [
-      "Fluorescent Mineral Photography",
-      "https://www.naturesrainbows.com/photography"
-    ]
-  ],
-  [
-    [
       "2025-01-22, 16:08:59",
       "https://news.ycombinator.com/item?id=42794232"
     ],
@@ -161,26 +201,6 @@
   ],
   [
     [
-      "2025-01-22, 13:42:51",
-      "https://news.ycombinator.com/item?id=42792718"
-    ],
-    [
-      "Open Socrates by Agnes Callard review – a design for life",
-      "https://www.theguardian.com/books/2025/jan/16/open-socrates-by-agnes-callard-review-a-design-for-life"
-    ]
-  ],
-  [
-    [
-      "2025-01-22, 11:59:29",
-      "https://news.ycombinator.com/item?id=42791820"
-    ],
-    [
-      "Show HN: NotepadJs – A cross-platform love letter to Notepad",
-      "https://github.com/itamarom/notepadjs"
-    ]
-  ],
-  [
-    [
       "2025-01-22, 11:00:48",
       "https://news.ycombinator.com/item?id=42791428"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-01-21, 22:42:12",
-      "https://news.ycombinator.com/item?id=42786040"
-    ],
-    [
-      "Hunyuan3D 2.0 – High-Resolution 3D Assets Generation",
-      "https://github.com/Tencent/Hunyuan3D-2"
-    ]
-  ],
-  [
-    [
       "2025-01-21, 22:29:22",
       "https://news.ycombinator.com/item?id=42785891"
     ],
@@ -221,22 +231,22 @@
   ],
   [
     [
+      "2025-01-21, 04:35:18",
+      "https://news.ycombinator.com/item?id=42776668"
+    ],
+    [
+      "Curse tablet found in Roman-era grave in France targets enemies by invoking Mars",
+      "https://www.livescience.com/archaeology/curse-tablet-found-in-roman-era-grave-in-france-targets-enemies-by-invoking-mars-the-god-of-war"
+    ]
+  ],
+  [
+    [
       "2025-01-21, 00:16:25",
       "https://news.ycombinator.com/item?id=42774758"
     ],
     [
       "File Systems: The Original Hypermedia",
       "https://jon.work/og/"
-    ]
-  ],
-  [
-    [
-      "2025-01-20, 20:48:15",
-      "https://news.ycombinator.com/item?id=42772884"
-    ],
-    [
-      "The Missing Mentoring Pillar",
-      "https://blog.sigplan.org/2025/01/13/the-missing-mentoring-pillar/"
     ]
   ],
   [
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2025-01-20, 09:01:46",
-      "https://news.ycombinator.com/item?id=42766500"
+      "2025-01-20, 13:40:37",
+      "https://news.ycombinator.com/item?id=42768614"
     ],
     [
-      "Lonely sunfish in Japan gets cardboard human friends",
-      "https://www.bbc.com/news/articles/cqjv4lz7g57o"
+      "A Proper x86 Assembler in Haskell Using the Escardó-Oliva Functional",
+      "http://blog.vmchale.com/article/escardo-oliva-functional"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Tomatoes roaming the fields: another embarrassing paper for MDPI",
       "http://deevybee.blogspot.com/2025/01/tomatoes-roaming-fields-and-canaries-in.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-19, 05:56:35",
-      "https://news.ycombinator.com/item?id=42754127"
-    ],
-    [
-      "Infinigen",
-      "https://infinigen.org/"
     ]
   ]
 ]
