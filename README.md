@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-23, 03:53:08](https://news.ycombinator.com/item?id=42800557) - [Tech Takes the Pareto Principle Too Far](https://bobbylox.com/blog/tech-takes-the-pareto-principle-too-far/)
+* [2025-01-23, 03:53:08](https://news.ycombinator.com/item?id=42800557) - [Tech takes the Pareto principle too far](https://bobbylox.com/blog/tech-takes-the-pareto-principle-too-far/)
 * [2025-01-23, 03:17:59](https://news.ycombinator.com/item?id=42800321) - [Edge TTS](https://github.com/rany2/edge-tts)
 * [2025-01-23, 01:33:26](https://news.ycombinator.com/item?id=42799629) - [Foundations of Large Language Models](https://arxiv.org/abs/2501.09223)
-* [2025-01-23, 01:26:52](https://news.ycombinator.com/item?id=42799574) - [Show HN: I Organized Bluesky Feeds by Categories and Growth Rankings](https://www.bskyinfo.com/feeds/)
+* [2025-01-23, 01:26:52](https://news.ycombinator.com/item?id=42799574) - [Show HN: I organized Bluesky feeds by categories and growth rankings](https://www.bskyinfo.com/feeds/)
 * [2025-01-23, 01:21:37](https://news.ycombinator.com/item?id=42799540) - [Trae: An AI-powered IDE by ByteDance](https://www.trae.ai/home)
 * [2025-01-23, 01:01:09](https://news.ycombinator.com/item?id=42799374) - [Demodesk (YC W19) Is Hiring a Ruby on Rails Full-Stack Engineer](https://demodesk.com/careers?utm_source=hn)
 * [2025-01-23, 00:47:42](https://news.ycombinator.com/item?id=42799245) - [Understanding gRPC, OpenAPI and REST and when to use them in API design](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
@@ -29,7 +29,7 @@
 * [2025-01-20, 18:02:23](https://news.ycombinator.com/item?id=42771310) - [Master the Art of the Product Manager 'No'](https://LetsNotDoThat.com)
 * [2025-01-20, 13:40:37](https://news.ycombinator.com/item?id=42768614) - [A Proper x86 Assembler in Haskell Using the Escardó-Oliva Functional](http://blog.vmchale.com/article/escardo-oliva-functional)
 * [2025-01-20, 06:24:00](https://news.ycombinator.com/item?id=42765557) - [But let us cultivate our garden (2018)](https://themillions.com/2018/11/but-let-us-cultivate-our-garden.html)
-* [2025-01-19, 18:23:44](https://news.ycombinator.com/item?id=42759862) - [Tomatoes roaming the fields: another embarrassing paper for MDPI](http://deevybee.blogspot.com/2025/01/tomatoes-roaming-fields-and-canaries-in.html)
+* [2025-01-19, 18:23:44](https://news.ycombinator.com/item?id=42759862) - [Tomatoes roaming the fields and canaries in the coalmine](http://deevybee.blogspot.com/2025/01/tomatoes-roaming-fields-and-canaries-in.html)
 
 ## [Archives](archives/index.md)
 
