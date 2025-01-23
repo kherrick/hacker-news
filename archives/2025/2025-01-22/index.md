@@ -7,6 +7,7 @@
 * [2025-01-22, 23:57:29](https://news.ycombinator.com/item?id=42798896) - [DIY Web Archiving Zine](https://zinebakery.com//homemade-zines/bakeshop-2-diywebarchiving)
 * [2025-01-22, 23:46:09](https://news.ycombinator.com/item?id=42798811) - [Lossless Compression of Vector IDs for Approximate Nearest Neighbor Search](https://arxiv.org/abs/2501.10479)
 * [2025-01-22, 22:41:47](https://news.ycombinator.com/item?id=42798293) - [Google Fiber is coming to Las Vegas](https://fiber.googleblog.com/2025/01/las-vegas-get-ready-for-your-close-up.html)
+* [2025-01-22, 22:18:07](https://news.ycombinator.com/item?id=42798108) - [A Look Back at 2024: F-Droid's Progress and What's Coming in 2025](https://f-droid.org/2025/01/21/a-look-back-at-2024-f-droids-progress-and-whats-coming-in-2025.html)
 * [2025-01-22, 22:08:27](https://news.ycombinator.com/item?id=42798051) - [Florida man eats diet of butter, cheese, beef; cholesterol oozes from his body](https://arstechnica.com/health/2025/01/florida-man-eats-diet-of-butter-cheese-beef-cholesterol-oozes-from-his-body/)
 * [2025-01-22, 22:00:20](https://news.ycombinator.com/item?id=42797974) - [The war over a private island in the San Francisco Bay](https://www.sfgate.com/local/article/battle-over-san-francisco-bay-private-island-20034048.php)
 * [2025-01-22, 21:38:05](https://news.ycombinator.com/item?id=42797798) - [Therac-25 Simulator](http://web.mit.edu/6.033/2007/wwwdocs/assignments/handson-therac.html)
