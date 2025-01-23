@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-23](index.md)
 
+* [2025-01-23, 08:09:06](https://news.ycombinator.com/item?id=42801839) - [Jürgen Schmidhuber – Can All-Purpose Robots Fuel a Comeback?](https://people.idsia.ch/~juergen/GerJapUsaChiRobots.html)
 * [2025-01-23, 06:50:28](https://news.ycombinator.com/item?id=42801370) - [Bun 1.2 Is Released](https://bun.sh/blog/bun-v1.2)
 * [2025-01-23, 06:09:09](https://news.ycombinator.com/item?id=42801170) - [First OpenVox release – Puppet fork – hot off the presses](https://voxpupuli.org/blog/2025/01/21/openvox-release/)
 * [2025-01-23, 05:58:16](https://news.ycombinator.com/item?id=42801132) - [Young men now spend more of their free time alone than any other group](https://flowingdata.com/2025/01/22/young-and-alone/)

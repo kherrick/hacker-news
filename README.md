@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-23, 08:09:06](https://news.ycombinator.com/item?id=42801839) - [Jürgen Schmidhuber – Can All-Purpose Robots Fuel a Comeback?](https://people.idsia.ch/~juergen/GerJapUsaChiRobots.html)
 * [2025-01-23, 06:50:28](https://news.ycombinator.com/item?id=42801370) - [Bun 1.2 Is Released](https://bun.sh/blog/bun-v1.2)
 * [2025-01-23, 03:53:08](https://news.ycombinator.com/item?id=42800557) - [Tech takes the Pareto principle too far](https://bobbylox.com/blog/tech-takes-the-pareto-principle-too-far/)
 * [2025-01-23, 03:17:59](https://news.ycombinator.com/item?id=42800321) - [Edge TTS](https://github.com/rany2/edge-tts)
@@ -13,7 +14,6 @@
 * [2025-01-22, 23:46:09](https://news.ycombinator.com/item?id=42798811) - [Lossless Compression of Vector IDs for Approximate Nearest Neighbor Search](https://arxiv.org/abs/2501.10479)
 * [2025-01-22, 22:18:07](https://news.ycombinator.com/item?id=42798108) - [F-Droid's Progress and What's Coming in 2025](https://f-droid.org/2025/01/21/a-look-back-at-2024-f-droids-progress-and-whats-coming-in-2025.html)
 * [2025-01-22, 21:38:05](https://news.ycombinator.com/item?id=42797798) - [Hands-on Assignment – Therac-25 (2007)](http://web.mit.edu/6.033/2007/wwwdocs/assignments/handson-therac.html)
-* [2025-01-22, 21:32:03](https://news.ycombinator.com/item?id=42797756) - [Federal Court (Finally) Rules Backdoor Searches of Data Unconstitutional](https://www.eff.org/deeplinks/2025/01/victory-federal-court-finally-rules-backdoor-searches-702-data-unconstitutional)
 * [2025-01-22, 20:41:52](https://news.ycombinator.com/item?id=42797260) - [Show HN: I made an open-source laptop from scratch](https://www.byran.ee/posts/creation/)
 * [2025-01-22, 20:08:57](https://news.ycombinator.com/item?id=42796950) - [How to improve your WFH lighting to reduce eye strain](https://rustle.ca/posts/articles/work-from-home-lighting)
 * [2025-01-22, 20:03:42](https://news.ycombinator.com/item?id=42796906) - [I made a multiplayer shooter game in Lisp, here is my journey](https://ertu.dev/posts/i-made-an-online-shooter-game-in-lisp/)
@@ -27,9 +27,9 @@
 * [2025-01-21, 11:08:04](https://news.ycombinator.com/item?id=42778795) - [Kvrocks: Redis-compatible distributed key value NoSQL database](https://kvrocks.apache.org/)
 * [2025-01-20, 18:02:23](https://news.ycombinator.com/item?id=42771310) - [Master the Art of the Product Manager 'No'](https://LetsNotDoThat.com)
 * [2025-01-20, 13:40:37](https://news.ycombinator.com/item?id=42768614) - [A Proper x86 Assembler in Haskell Using the Escardó-Oliva Functional](http://blog.vmchale.com/article/escardo-oliva-functional)
-* [2025-01-20, 06:24:00](https://news.ycombinator.com/item?id=42765557) - [But let us cultivate our garden (2018)](https://themillions.com/2018/11/but-let-us-cultivate-our-garden.html)
 * [2025-01-19, 22:03:29](https://news.ycombinator.com/item?id=42762426) - [Minecraft with object impermanence](https://www.aiweirdness.com/minecraft-with-object-impermanence/)
 * [2025-01-19, 18:23:44](https://news.ycombinator.com/item?id=42759862) - [Tomatoes roaming the fields and canaries in the coalmine](http://deevybee.blogspot.com/2025/01/tomatoes-roaming-fields-and-canaries-in.html)
+* [2025-01-19, 16:25:49](https://news.ycombinator.com/item?id=42758425) - [The Most Detailed Map of US Waters That You've Ever Seen (2023)](https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/water/the-most-detailed-map-of-us-waters-that-youve-ever-seen/)
 
 ## [Archives](archives/index.md)
 
