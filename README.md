@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-23, 13:06:35](https://news.ycombinator.com/item?id=42803597) - [Shifting Cyber Norms: Microsoft security POST-ing to you](https://berthub.eu/articles/posts/shifting-cyber-norms-microsoft-post/)
 * [2025-01-23, 13:02:56](https://news.ycombinator.com/item?id=42803562) - [Hackers exploit 16 zero-days on first day of Pwn2Own Automotive 2025](https://www.bleepingcomputer.com/news/security/hackers-exploit-16-zero-days-on-first-day-of-pwn2own-automotive-2025/)
 * [2025-01-23, 13:02:31](https://news.ycombinator.com/item?id=42803559) - [Liberux: The Linux Phone You Have Been Waiting For](https://liberux.net/)
 * [2025-01-23, 12:59:22](https://news.ycombinator.com/item?id=42803534) - [Frequent social media use tied to higher levels of irritability](https://medicalxpress.com/news/2025-01-frequent-social-media-higher.html)
@@ -23,7 +24,6 @@
 * [2025-01-22, 18:38:47](https://news.ycombinator.com/item?id=42796058) - [C stdlib isn't threadsafe and even safe Rust didn't save us](https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us)
 * [2025-01-22, 17:27:14](https://news.ycombinator.com/item?id=42795237) - [TabBoo – add random jumpscares to websites you're trying to avoid](https://tabboo.xyz/)
 * [2025-01-22, 15:25:57](https://news.ycombinator.com/item?id=42793783) - [Mastercard DNS error went unnoticed for years](https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/)
-* [2025-01-22, 15:07:26](https://news.ycombinator.com/item?id=42793597) - [Simple CPU Design](http://simplecpudesign.com/)
 * [2025-01-22, 14:57:23](https://news.ycombinator.com/item?id=42793483) - [The Tyranny of Structurelessness (1970)](https://www.jofreeman.com/joreen/tyranny.htm)
 * [2025-01-22, 08:45:13](https://news.ycombinator.com/item?id=42790536) - [How shutdown Bay Area tech companies ditch their fancy gear fast](https://www.sfgate.com/tech/article/silicon-valley-disposition-auction-company-20039023.php)
 * [2025-01-20, 18:02:23](https://news.ycombinator.com/item?id=42771310) - [Master the Art of the Product Manager 'No'](https://LetsNotDoThat.com)

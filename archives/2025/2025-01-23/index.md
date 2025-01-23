@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-23](index.md)
 
+* [2025-01-23, 13:06:35](https://news.ycombinator.com/item?id=42803597) - [Shifting Cyber Norms: Microsoft security POST-ing to you](https://berthub.eu/articles/posts/shifting-cyber-norms-microsoft-post/)
 * [2025-01-23, 13:02:56](https://news.ycombinator.com/item?id=42803562) - [Hackers exploit 16 zero-days on first day of Pwn2Own Automotive 2025](https://www.bleepingcomputer.com/news/security/hackers-exploit-16-zero-days-on-first-day-of-pwn2own-automotive-2025/)
 * [2025-01-23, 13:02:31](https://news.ycombinator.com/item?id=42803559) - [Liberux: The Linux Phone You Have Been Waiting For](https://liberux.net/)
 * [2025-01-23, 12:59:22](https://news.ycombinator.com/item?id=42803534) - [Frequent social media use tied to higher levels of irritability](https://medicalxpress.com/news/2025-01-frequent-social-media-higher.html)
