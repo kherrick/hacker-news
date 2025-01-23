@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-23, 06:09:09](https://news.ycombinator.com/item?id=42801170) - [First OpenVox release – Puppet fork – hot off the presses](https://voxpupuli.org/blog/2025/01/21/openvox-release/)
-* [2025-01-23, 05:58:16](https://news.ycombinator.com/item?id=42801132) - [Young men now spend more of their free time alone than any other group](https://flowingdata.com/2025/01/22/young-and-alone/)
 * [2025-01-23, 05:31:52](https://news.ycombinator.com/item?id=42801021) - [Is Social Media More Like Cigarettes or Junk Food?](https://www.newyorker.com/culture/infinite-scroll/is-social-media-more-like-cigarettes-or-junk-food)
 * [2025-01-23, 03:53:08](https://news.ycombinator.com/item?id=42800557) - [Tech takes the Pareto principle too far](https://bobbylox.com/blog/tech-takes-the-pareto-principle-too-far/)
 * [2025-01-23, 03:17:59](https://news.ycombinator.com/item?id=42800321) - [Edge TTS](https://github.com/rany2/edge-tts)
@@ -24,11 +22,13 @@
 * [2025-01-22, 15:25:57](https://news.ycombinator.com/item?id=42793783) - [Mastercard DNS error went unnoticed for years](https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/)
 * [2025-01-22, 15:07:26](https://news.ycombinator.com/item?id=42793597) - [Simple CPU Design](http://simplecpudesign.com/)
 * [2025-01-22, 14:57:23](https://news.ycombinator.com/item?id=42793483) - [The Tyranny of Structurelessness (1970)](https://www.jofreeman.com/joreen/tyranny.htm)
+* [2025-01-22, 06:32:34](https://news.ycombinator.com/item?id=42789721) - [System Informer](https://systeminformer.com/)
 * [2025-01-21, 14:45:23](https://news.ycombinator.com/item?id=42780636) - [RealtimeSanitizer for Rust](https://steck.tech/posts/rtsan-in-rust/)
 * [2025-01-21, 11:08:04](https://news.ycombinator.com/item?id=42778795) - [Redis-compatible distributed key value NoSQL database](https://kvrocks.apache.org/)
 * [2025-01-20, 18:02:23](https://news.ycombinator.com/item?id=42771310) - [Master the Art of the Product Manager 'No'](https://LetsNotDoThat.com)
 * [2025-01-20, 13:40:37](https://news.ycombinator.com/item?id=42768614) - [A Proper x86 Assembler in Haskell Using the Escardó-Oliva Functional](http://blog.vmchale.com/article/escardo-oliva-functional)
 * [2025-01-20, 06:24:00](https://news.ycombinator.com/item?id=42765557) - [But let us cultivate our garden (2018)](https://themillions.com/2018/11/but-let-us-cultivate-our-garden.html)
+* [2025-01-19, 22:03:29](https://news.ycombinator.com/item?id=42762426) - [Minecraft with Object Impermanence](https://www.aiweirdness.com/minecraft-with-object-impermanence/)
 * [2025-01-19, 18:23:44](https://news.ycombinator.com/item?id=42759862) - [Tomatoes roaming the fields and canaries in the coalmine](http://deevybee.blogspot.com/2025/01/tomatoes-roaming-fields-and-canaries-in.html)
 
 ## [Archives](archives/index.md)
