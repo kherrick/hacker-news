@@ -46,6 +46,7 @@
 * [2025-01-21, 12:41:28](https://news.ycombinator.com/item?id=42779460) - [How I Automatically Catalog My Game Collection from Pictures](https://medium.com/@rafaelbenari/how-i-automatically-catalog-my-game-collection-from-pictures-79416ae4b32c)
 * [2025-01-21, 12:29:22](https://news.ycombinator.com/item?id=42779378) - [Show HN: Amurex – An open source AI meeting copilot](https://sansyrox.github.io/amurex_ce/)
 * [2025-01-21, 11:54:50](https://news.ycombinator.com/item?id=42779147) - [People are bad at reporting what they eat. That's a problem for dietary research](https://www.science.org/content/article/people-are-bad-reporting-what-they-eat-s-problem-dietary-research)
+* [2025-01-21, 11:50:58](https://news.ycombinator.com/item?id=42779117) - [Ask HN: Trying to find a post about some OS developer in the 80s coding by hand](https://news.ycombinator.com/item?id=42779117)
 * [2025-01-21, 11:16:40](https://news.ycombinator.com/item?id=42778872) - [The Gilded Age novel that helps explain our fascination with Luigi Mangione](https://theconversation.com/the-gilded-age-novel-that-helps-explain-our-fascination-with-luigi-mangione-246495)
 * [2025-01-21, 11:09:51](https://news.ycombinator.com/item?id=42778810) - [Trump's science advisers: how they could influence his second presidency](https://www.nature.com/articles/d41586-025-00132-0)
 * [2025-01-21, 11:08:04](https://news.ycombinator.com/item?id=42778795) - [Redis-compatible distributed key value NoSQL database](https://kvrocks.apache.org/)
