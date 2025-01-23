@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-01-23](index.md)
 
+* [2025-01-23, 18:24:30](https://news.ycombinator.com/item?id=42806486) - [Building a Medieval Castle from Scratch](https://www.guedelon.fr/en/)
 * [2025-01-23, 18:06:42](https://news.ycombinator.com/item?id=42806328) - [Llama.vim – Local LLM-assisted text completion](https://github.com/ggml-org/llama.vim)
 * [2025-01-23, 18:03:40](https://news.ycombinator.com/item?id=42806301) - [Introducing Operator](https://openai.com/index/introducing-operator/)
 * [2025-01-23, 17:58:05](https://news.ycombinator.com/item?id=42806247) - [Thank HN: My bootstrapped startup got acquired today](https://news.ycombinator.com/item?id=42806247)
+* [2025-01-23, 17:44:07](https://news.ycombinator.com/item?id=42806105) - [Scale AI Unveil Results of Humanity's Last Exam, a Groundbreaking New Benchmark](https://scale.com/blog/humanitys-last-exam-results)
 * [2025-01-23, 17:44:03](https://news.ycombinator.com/item?id=42806102) - [George R.R. Martin has co-authored a physics paper](https://arstechnica.com/science/2025/01/george-r-r-martin-has-co-authored-a-physics-paper/)
 * [2025-01-23, 17:41:30](https://news.ycombinator.com/item?id=42806069) - [Show HN: Mixlist](https://www.mixlist.org/)
 * [2025-01-23, 17:00:58](https://news.ycombinator.com/item?id=42805699) - [Intrinsic (YC W23) Is Hiring](https://news.ycombinator.com/item?id=42805699)
@@ -39,6 +41,7 @@
 * [2025-01-23, 06:09:09](https://news.ycombinator.com/item?id=42801170) - [First OpenVox release – Puppet fork – hot off the presses](https://voxpupuli.org/blog/2025/01/21/openvox-release/)
 * [2025-01-23, 05:58:16](https://news.ycombinator.com/item?id=42801132) - [Young men now spend more of their free time alone than any other group](https://flowingdata.com/2025/01/22/young-and-alone/)
 * [2025-01-23, 05:31:52](https://news.ycombinator.com/item?id=42801021) - [Is Social Media More Like Cigarettes or Junk Food?](https://www.newyorker.com/culture/infinite-scroll/is-social-media-more-like-cigarettes-or-junk-food)
+* [2025-01-23, 05:07:35](https://news.ycombinator.com/item?id=42800893) - [Show HN: I built an active community of trans people online](https://t4t.social/)
 * [2025-01-23, 03:53:08](https://news.ycombinator.com/item?id=42800557) - [Tech Takes the Pareto Principle Too Far](https://bobbylox.com/blog/tech-takes-the-pareto-principle-too-far/)
 * [2025-01-23, 03:17:59](https://news.ycombinator.com/item?id=42800321) - [Edge TTS](https://github.com/rany2/edge-tts)
 * [2025-01-23, 02:28:59](https://news.ycombinator.com/item?id=42799974) - [Kidnapping of Ledger Co-Founder Sparks Major Investigation in France](https://www.leberry.fr/vierzon-18100/faits-divers/enlevement-de-l-un-des-cofondateurs-de-la-start-up-ledger-vaste-enquete-dans-le-cher_14629928/)
