@@ -21,6 +21,26 @@
   ],
   [
     [
+      "2025-01-23, 14:49:43",
+      "https://news.ycombinator.com/item?id=42804566"
+    ],
+    [
+      "Psychedelic Graphics: An Introduction",
+      "https://benpence.com/blog/post/psychedelic-graphics-0"
+    ]
+  ],
+  [
+    [
+      "2025-01-23, 14:43:39",
+      "https://news.ycombinator.com/item?id=42804506"
+    ],
+    [
+      "Third Base (2001)",
+      "https://www.americanscientist.org/article/third-base"
+    ]
+  ],
+  [
+    [
       "2025-01-23, 13:06:35",
       "https://news.ycombinator.com/item?id=42803597"
     ],
@@ -107,16 +127,6 @@
     [
       "Understanding gRPC, OpenAPI and REST and when to use them in API design (2020)",
       "https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them"
-    ]
-  ],
-  [
-    [
-      "2025-01-23, 00:33:02",
-      "https://news.ycombinator.com/item?id=42799136"
-    ],
-    [
-      "Tailwind CSS v4.0",
-      "https://tailwindcss.com/blog/tailwindcss-v4"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Do any languages specify package requirements in import / include statements?",
       "https://news.ycombinator.com/item?id=42768990"
-    ]
-  ],
-  [
-    [
-      "2025-01-20, 13:40:37",
-      "https://news.ycombinator.com/item?id=42768614"
-    ],
-    [
-      "A Proper x86 Assembler in Haskell Using the Escardó-Oliva Functional",
-      "http://blog.vmchale.com/article/escardo-oliva-functional"
     ]
   ],
   [
