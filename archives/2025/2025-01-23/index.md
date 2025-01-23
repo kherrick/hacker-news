@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-01-23](index.md)
 
+* [2025-01-23, 18:06:42](https://news.ycombinator.com/item?id=42806328) - [Llama.vim – Local LLM-assisted text completion](https://github.com/ggml-org/llama.vim)
+* [2025-01-23, 18:03:40](https://news.ycombinator.com/item?id=42806301) - [Introducing Operator](https://openai.com/index/introducing-operator/)
+* [2025-01-23, 17:58:05](https://news.ycombinator.com/item?id=42806247) - [Thank HN: My bootstrapped startup got acquired today](https://news.ycombinator.com/item?id=42806247)
 * [2025-01-23, 17:44:03](https://news.ycombinator.com/item?id=42806102) - [George R.R. Martin has co-authored a physics paper](https://arstechnica.com/science/2025/01/george-r-r-martin-has-co-authored-a-physics-paper/)
 * [2025-01-23, 17:41:30](https://news.ycombinator.com/item?id=42806069) - [Show HN: Mixlist](https://www.mixlist.org/)
 * [2025-01-23, 17:00:58](https://news.ycombinator.com/item?id=42805699) - [Intrinsic (YC W23) Is Hiring](https://news.ycombinator.com/item?id=42805699)
