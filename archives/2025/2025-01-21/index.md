@@ -40,6 +40,7 @@
 * [2025-01-21, 15:12:15](https://news.ycombinator.com/item?id=42780953) - [Calm Tech Certification \"Rewards\" Less Distracting Tech](https://spectrum.ieee.org/calm-tech)
 * [2025-01-21, 14:59:44](https://news.ycombinator.com/item?id=42780816) - [0click deanonymization attack targeting Signal, Discord and other platforms](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
 * [2025-01-21, 14:45:23](https://news.ycombinator.com/item?id=42780636) - [RealtimeSanitizer for Rust](https://steck.tech/posts/rtsan-in-rust/)
+* [2025-01-21, 14:15:12](https://news.ycombinator.com/item?id=42780271) - [Wol: Wake up your devices with a single command or click](https://github.com/Trugamr/wol)
 * [2025-01-21, 13:47:18](https://news.ycombinator.com/item?id=42780022) - [Metacognitive laziness: Effects of generative AI on learning motivation](https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13544)
 * [2025-01-21, 13:19:02](https://news.ycombinator.com/item?id=42779776) - [Ask HN: Organize local communities without Facebook?](https://news.ycombinator.com/item?id=42779776)
 * [2025-01-21, 12:51:32](https://news.ycombinator.com/item?id=42779544) - ['It's a nightmare': couriers mystified by the algorithms that control their jobs](https://www.theguardian.com/business/2025/jan/21/its-a-nightmare-couriers-mystified-by-the-algorithms-that-control-their-jobs)
