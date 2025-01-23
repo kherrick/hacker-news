@@ -5,8 +5,11 @@
 ### [Archives](../../index.md) for [2025-01-23](index.md)
 
 * [2025-01-23, 13:02:56](https://news.ycombinator.com/item?id=42803562) - [Hackers exploit 16 zero-days on first day of Pwn2Own Automotive 2025](https://www.bleepingcomputer.com/news/security/hackers-exploit-16-zero-days-on-first-day-of-pwn2own-automotive-2025/)
+* [2025-01-23, 13:02:31](https://news.ycombinator.com/item?id=42803559) - [Liberux: The Linux Phone You Have Been Waiting For](https://liberux.net/)
+* [2025-01-23, 12:59:22](https://news.ycombinator.com/item?id=42803534) - [Frequent social media use tied to higher levels of irritability](https://medicalxpress.com/news/2025-01-frequent-social-media-higher.html)
 * [2025-01-23, 12:53:53](https://news.ycombinator.com/item?id=42803495) - [DeepSeek and the Effects of GPU Export Controls](https://www.vincentschmalbach.com/deepseek-and-the-effects-of-gpu-export-controls/)
 * [2025-01-23, 12:24:33](https://news.ycombinator.com/item?id=42803290) - [Using 2 Editors Because Xcode Is Dumb](https://christiantietze.de/posts/2025/01/using-2-editors-because-xcode-is-dumb/)
+* [2025-01-23, 12:22:19](https://news.ycombinator.com/item?id=42803279) - [Hacking Subaru: Tracking and Controlling Cars via the Starlink Admin Panel](https://samcurry.net/hacking-subaru)
 * [2025-01-23, 12:15:28](https://news.ycombinator.com/item?id=42803243) - [Why the next energy race is for underground hydrogen](https://www.technologyreview.com/2025/01/23/1110435/geologic-hydrogen/)
 * [2025-01-23, 12:00:07](https://news.ycombinator.com/item?id=42803169) - [Extend (YC W23) is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
 * [2025-01-23, 11:05:10](https://news.ycombinator.com/item?id=42802842) - [How to Inspect React Server Component Activity with Next.js and OpenTelemetry](https://www.dash0.com/blog/how-to-inspect-react-server-component-activity-with-next-js)
