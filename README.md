@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-23, 20:36:11](https://news.ycombinator.com/item?id=42807805) - [Modern Polars – A side-by-side comparison of the Polars and Pandas libraries](https://kevinheavey.github.io/modern-polars/)
 * [2025-01-23, 20:19:59](https://news.ycombinator.com/item?id=42807653) - [Morse Code in Tubular Bells (2021)](https://madpsy.uk/link-between-the-soundtrack-of-the-exorcist-and-amateur-radio/)
 * [2025-01-23, 19:31:21](https://news.ycombinator.com/item?id=42807200) - [You should write \"without bugs\"](https://korshakov.com/posts/no-bugs)
 * [2025-01-23, 19:29:29](https://news.ycombinator.com/item?id=42807173) - [Citations on the Anthropic API](https://www.anthropic.com/news/introducing-citations-api)
@@ -26,7 +27,6 @@
 * [2025-01-22, 20:08:57](https://news.ycombinator.com/item?id=42796950) - [How to improve your WFH lighting to reduce eye strain](https://rustle.ca/posts/articles/work-from-home-lighting)
 * [2025-01-22, 17:27:14](https://news.ycombinator.com/item?id=42795237) - [TabBoo – add random jumpscares to websites you're trying to avoid](https://tabboo.xyz/)
 * [2025-01-21, 09:10:13](https://news.ycombinator.com/item?id=42777948) - [The Most Mario Colors](https://lmnt.me/blog/the-most-mario-colors.html)
-* [2025-01-20, 19:28:39](https://news.ycombinator.com/item?id=42772144) - [The forgotten brilliance of Hélène de Beauvoir, sister of Simone](https://www.theguardian.com/artanddesign/2025/jan/20/helene-de-beauvoir-sister-simone-picasso-jean-paul-sartre)
 * [2025-01-20, 14:21:05](https://news.ycombinator.com/item?id=42768990) - [Do any languages specify package requirements in import / include statements?](https://news.ycombinator.com/item?id=42768990)
 * [2025-01-20, 06:44:58](https://news.ycombinator.com/item?id=42765683) - [Taking a Look at Compression Algorithms](https://cefboud.github.io/posts/compression/)
 * [2025-01-19, 16:25:49](https://news.ycombinator.com/item?id=42758425) - [The Most Detailed Map of US Waters That You've Ever Seen (2023)](https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/water/the-most-detailed-map-of-us-waters-that-youve-ever-seen/)
