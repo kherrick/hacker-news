@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-23, 11:05:10](https://news.ycombinator.com/item?id=42802842) - [How to Inspect React Server Component Activity with Next.js and OpenTelemetry](https://www.dash0.com/blog/how-to-inspect-react-server-component-activity-with-next-js)
 * [2025-01-23, 09:58:20](https://news.ycombinator.com/item?id=42802498) - [Where is London's most central sheep?](https://diamondgeezer.blogspot.com/2025/01/londons-most-central-sheep.html)
 * [2025-01-23, 09:11:23](https://news.ycombinator.com/item?id=42802210) - [We're accelerating the Android XR platform with a new agreement with HTC](https://blog.google/feed/android-xr-htc-agreement/)
 * [2025-01-23, 08:09:06](https://news.ycombinator.com/item?id=42801839) - [Jürgen Schmidhuber – Can All-Purpose Robots Fuel a Comeback?](https://people.idsia.ch/~juergen/GerJapUsaChiRobots.html)
-* [2025-01-23, 06:50:28](https://news.ycombinator.com/item?id=42801370) - [Bun 1.2 Is Released](https://bun.sh/blog/bun-v1.2)
 * [2025-01-23, 03:53:08](https://news.ycombinator.com/item?id=42800557) - [Tech takes the Pareto principle too far](https://bobbylox.com/blog/tech-takes-the-pareto-principle-too-far/)
 * [2025-01-23, 03:17:59](https://news.ycombinator.com/item?id=42800321) - [Edge TTS](https://github.com/rany2/edge-tts)
 * [2025-01-23, 01:26:52](https://news.ycombinator.com/item?id=42799574) - [Show HN: I organized Bluesky feeds by categories and growth rankings](https://www.bskyinfo.com/feeds/)
