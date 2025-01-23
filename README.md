@@ -23,12 +23,12 @@
 * [2025-01-22, 15:25:57](https://news.ycombinator.com/item?id=42793783) - [Mastercard DNS error went unnoticed for years](https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/)
 * [2025-01-22, 15:07:26](https://news.ycombinator.com/item?id=42793597) - [Simple CPU Design](http://simplecpudesign.com/)
 * [2025-01-22, 14:57:23](https://news.ycombinator.com/item?id=42793483) - [The Tyranny of Structurelessness (1970)](https://www.jofreeman.com/joreen/tyranny.htm)
-* [2025-01-21, 17:37:39](https://news.ycombinator.com/item?id=42782929) - [Cab Numbers](https://www.shyamsundergupta.com/cab.htm)
 * [2025-01-21, 14:45:23](https://news.ycombinator.com/item?id=42780636) - [RealtimeSanitizer for Rust](https://steck.tech/posts/rtsan-in-rust/)
 * [2025-01-21, 11:08:04](https://news.ycombinator.com/item?id=42778795) - [Kvrocks: Redis-compatible distributed key value NoSQL database](https://kvrocks.apache.org/)
 * [2025-01-20, 18:02:23](https://news.ycombinator.com/item?id=42771310) - [Master the Art of the Product Manager 'No'](https://LetsNotDoThat.com)
 * [2025-01-20, 13:40:37](https://news.ycombinator.com/item?id=42768614) - [A Proper x86 Assembler in Haskell Using the Escardó-Oliva Functional](http://blog.vmchale.com/article/escardo-oliva-functional)
 * [2025-01-19, 22:03:29](https://news.ycombinator.com/item?id=42762426) - [Minecraft with object impermanence](https://www.aiweirdness.com/minecraft-with-object-impermanence/)
+* [2025-01-19, 18:23:44](https://news.ycombinator.com/item?id=42759862) - [Tomatoes roaming the fields and canaries in the coalmine](http://deevybee.blogspot.com/2025/01/tomatoes-roaming-fields-and-canaries-in.html)
 * [2025-01-19, 16:25:49](https://news.ycombinator.com/item?id=42758425) - [The Most Detailed Map of US Waters That You've Ever Seen (2023)](https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/water/the-most-detailed-map-of-us-waters-that-youve-ever-seen/)
 
 ## [Archives](archives/index.md)
