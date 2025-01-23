@@ -9,6 +9,7 @@
 * [2025-01-23, 13:02:31](https://news.ycombinator.com/item?id=42803559) - [Liberux: The Linux Phone You Have Been Waiting For](https://liberux.net/)
 * [2025-01-23, 12:59:22](https://news.ycombinator.com/item?id=42803534) - [Frequent social media use tied to higher levels of irritability](https://medicalxpress.com/news/2025-01-frequent-social-media-higher.html)
 * [2025-01-23, 12:53:53](https://news.ycombinator.com/item?id=42803495) - [DeepSeek and the Effects of GPU Export Controls](https://www.vincentschmalbach.com/deepseek-and-the-effects-of-gpu-export-controls/)
+* [2025-01-23, 12:52:32](https://news.ycombinator.com/item?id=42803483) - [Lessons from building a small-scale AI application](https://www.thelis.org/blog/lessons-from-ai)
 * [2025-01-23, 12:26:04](https://news.ycombinator.com/item?id=42803304) - [Hiring Cafe](https://hiring.cafe/)
 * [2025-01-23, 12:24:33](https://news.ycombinator.com/item?id=42803290) - [Using 2 Editors Because Xcode Is Dumb](https://christiantietze.de/posts/2025/01/using-2-editors-because-xcode-is-dumb/)
 * [2025-01-23, 12:22:19](https://news.ycombinator.com/item?id=42803279) - [Hacking Subaru: Tracking and Controlling Cars via the Starlink Admin Panel](https://samcurry.net/hacking-subaru)
