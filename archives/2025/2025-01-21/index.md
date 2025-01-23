@@ -58,6 +58,7 @@
 * [2025-01-21, 10:00:07](https://news.ycombinator.com/item?id=42778266) - [Startup Winter: Hacker News Lost Its Faith](https://www.vincentschmalbach.com/startup-winter-hacker-news-lost-its-faith/)
 * [2025-01-21, 09:36:20](https://news.ycombinator.com/item?id=42778075) - [Ancient Celtic tribe had women at its social center](https://www.npr.org/2025/01/15/nx-s1-5258236/ancient-celtic-tribe-had-women-at-its-social-center)
 * [2025-01-21, 09:14:34](https://news.ycombinator.com/item?id=42777973) - [Perl Weekly Issue #704 – Perl Podcast](https://perlweekly.com/archive/704.html)
+* [2025-01-21, 09:10:13](https://news.ycombinator.com/item?id=42777948) - [The Most Mario Colors](https://lmnt.me/blog/the-most-mario-colors.html)
 * [2025-01-21, 09:09:15](https://news.ycombinator.com/item?id=42777943) - [Framework Fatigue: The Real Reason Developers Get Angry About New Tech](https://blog.raed.dev/posts/framework-fatigue-the-real-reason-developers-get-angry-about-new-tech)
 * [2025-01-21, 09:08:16](https://news.ycombinator.com/item?id=42777938) - [Meta Censoring '#Democrat' on Instagram](https://mstdn.chrisalemany.ca/@chris/113864600222476627)
 * [2025-01-21, 08:59:13](https://news.ycombinator.com/item?id=42777882) - [Statement on planned protests during the upcoming FOSDEM 2025](https://fosdem.org/2025/news/2025-01-16-protests/)
