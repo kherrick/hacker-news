@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-23](index.md)
 
+* [2025-01-23, 09:58:20](https://news.ycombinator.com/item?id=42802498) - [Where is London's most central sheep?](https://diamondgeezer.blogspot.com/2025/01/londons-most-central-sheep.html)
 * [2025-01-23, 09:11:23](https://news.ycombinator.com/item?id=42802210) - [We're accelerating the Android XR platform with a new agreement with HTC](https://blog.google/feed/android-xr-htc-agreement/)
 * [2025-01-23, 08:09:06](https://news.ycombinator.com/item?id=42801839) - [Jürgen Schmidhuber – Can All-Purpose Robots Fuel a Comeback?](https://people.idsia.ch/~juergen/GerJapUsaChiRobots.html)
 * [2025-01-23, 06:50:28](https://news.ycombinator.com/item?id=42801370) - [Bun 1.2 Is Released](https://bun.sh/blog/bun-v1.2)
