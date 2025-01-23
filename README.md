@@ -4,7 +4,7 @@
 * [2025-01-23, 02:28:59](https://news.ycombinator.com/item?id=42799974) - [Kidnapping of Ledger Co-Founder Sparks Major Investigation in France](https://www.leberry.fr/vierzon-18100/faits-divers/enlevement-de-l-un-des-cofondateurs-de-la-start-up-ledger-vaste-enquete-dans-le-cher_14629928/)
 * [2025-01-23, 01:33:26](https://news.ycombinator.com/item?id=42799629) - [Foundations of Large Language Models](https://arxiv.org/abs/2501.09223)
 * [2025-01-23, 01:26:52](https://news.ycombinator.com/item?id=42799574) - [Show HN: I Organized Bluesky Feeds by Categories and Growth Rankings](https://www.bskyinfo.com/feeds/)
-* [2025-01-23, 01:21:37](https://news.ycombinator.com/item?id=42799540) - [Trae: An AI Powered IDE by ByteDance](https://www.trae.ai/home)
+* [2025-01-23, 01:21:37](https://news.ycombinator.com/item?id=42799540) - [Trae: An AI-powered IDE by ByteDance](https://www.trae.ai/home)
 * [2025-01-23, 01:01:09](https://news.ycombinator.com/item?id=42799374) - [Demodesk (YC W19) Is Hiring a Ruby on Rails Full-Stack Engineer](https://demodesk.com/careers?utm_source=hn)
 * [2025-01-23, 00:47:42](https://news.ycombinator.com/item?id=42799245) - [gRPC vs. REST: Understand gRPC, OpenAPI and REST and When to Use in API Design](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
 * [2025-01-23, 00:33:02](https://news.ycombinator.com/item?id=42799136) - [Tailwind V4 Is Finally Out](https://tailwindcss.com/blog/tailwindcss-v4)
