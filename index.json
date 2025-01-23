@@ -155,7 +155,7 @@
       "https://news.ycombinator.com/item?id=42804566"
     ],
     [
-      "Psychedelic Graphics: An Introduction",
+      "Psychedelic Graphics 0: Introduction",
       "https://benpence.com/blog/post/psychedelic-graphics-0"
     ]
   ],
@@ -241,22 +241,22 @@
   ],
   [
     [
-      "2025-01-22, 18:38:47",
-      "https://news.ycombinator.com/item?id=42796058"
-    ],
-    [
-      "C stdlib isn't threadsafe and even safe Rust didn't save us",
-      "https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us"
-    ]
-  ],
-  [
-    [
       "2025-01-22, 17:27:14",
       "https://news.ycombinator.com/item?id=42795237"
     ],
     [
       "TabBoo – add random jumpscares to websites you're trying to avoid",
       "https://tabboo.xyz/"
+    ]
+  ],
+  [
+    [
+      "2025-01-21, 14:15:12",
+      "https://news.ycombinator.com/item?id=42780271"
+    ],
+    [
+      "Wol: Wake up your devices with a single command or click",
+      "https://github.com/Trugamr/wol"
     ]
   ],
   [
