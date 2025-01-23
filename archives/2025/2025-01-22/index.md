@@ -45,6 +45,7 @@
 * [2025-01-22, 11:21:01](https://news.ycombinator.com/item?id=42791548) - [How to know when it's time to go](https://bitfieldconsulting.com/posts/when-its-time-to-go)
 * [2025-01-22, 11:00:48](https://news.ycombinator.com/item?id=42791428) - [My Struggle with Doom Scrolling](https://allthatjazz.me/posts/doom-scrolling-struggles)
 * [2025-01-22, 09:12:25](https://news.ycombinator.com/item?id=42790729) - [The Day Instagram Blocked Democracy](https://docpop.org/2025/01/the-day-instagram-blocked-democracy/)
+* [2025-01-22, 08:45:13](https://news.ycombinator.com/item?id=42790536) - [How shutdown Bay Area tech companies ditch their fancy gear fast](https://www.sfgate.com/tech/article/silicon-valley-disposition-auction-company-20039023.php)
 * [2025-01-22, 07:53:28](https://news.ycombinator.com/item?id=42790207) - [DHS removes all members of cyber security advisory boards, halts investigations](https://bsky.app/profile/ericjgeller.com/post/3lgbpqmxeok2f)
 * [2025-01-22, 07:25:10](https://news.ycombinator.com/item?id=42790046) - [Arm releases Chiplet System Architecture spec beta version](https://newsroom.arm.com/blog/arm-chiplet-system-architecture-accelerating-evolution-of-silicon)
 * [2025-01-22, 06:32:34](https://news.ycombinator.com/item?id=42789721) - [System Informer](https://systeminformer.com/)
