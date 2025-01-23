@@ -63,6 +63,7 @@
 * [2025-01-20, 09:01:46](https://news.ycombinator.com/item?id=42766500) - [Lonely sunfish in Japan gets cardboard human friends](https://www.bbc.com/news/articles/cqjv4lz7g57o)
 * [2025-01-20, 08:53:12](https://news.ycombinator.com/item?id=42766437) - [Don't use Session – Round 2](https://soatok.blog/2025/01/20/session-round-2/)
 * [2025-01-20, 08:21:16](https://news.ycombinator.com/item?id=42766205) - [Parinfer: Simpler Lisp Editing](https://shaunlebron.github.io/parinfer/)
+* [2025-01-20, 06:44:58](https://news.ycombinator.com/item?id=42765683) - [Taking a Look at Compression Algorithms](https://cefboud.github.io/posts/compression/)
 * [2025-01-20, 06:24:11](https://news.ycombinator.com/item?id=42765560) - [Show HN: Race Timing with Integrated Replay](https://storytiming.racing)
 * [2025-01-20, 06:24:00](https://news.ycombinator.com/item?id=42765557) - [But let us cultivate our garden (2018)](https://themillions.com/2018/11/but-let-us-cultivate-our-garden.html)
 * [2025-01-20, 06:09:32](https://news.ycombinator.com/item?id=42765480) - [What does \"supports DRM functions and may not be fully accessible\"mean for SSDs?](https://unix.stackexchange.com/questions/789838/what-does-supports-drm-functions-and-may-not-be-fully-accessible-mean-for-sata)
