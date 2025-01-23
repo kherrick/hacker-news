@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-23, 11:05:10",
+      "https://news.ycombinator.com/item?id=42802842"
+    ],
+    [
+      "How to Inspect React Server Component Activity with Next.js and OpenTelemetry",
+      "https://www.dash0.com/blog/how-to-inspect-react-server-component-activity-with-next-js"
+    ]
+  ],
+  [
+    [
       "2025-01-23, 09:58:20",
       "https://news.ycombinator.com/item?id=42802498"
     ],
@@ -27,16 +37,6 @@
     [
       "Jürgen Schmidhuber – Can All-Purpose Robots Fuel a Comeback?",
       "https://people.idsia.ch/~juergen/GerJapUsaChiRobots.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-23, 06:50:28",
-      "https://news.ycombinator.com/item?id=42801370"
-    ],
-    [
-      "Bun 1.2 Is Released",
-      "https://bun.sh/blog/bun-v1.2"
     ]
   ],
   [
