@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-23, 12:00:07",
+      "https://news.ycombinator.com/item?id=42803169"
+    ],
+    [
+      "Extend (YC W23) is hiring engineers to build LLM document processing",
+      "https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37"
+    ]
+  ],
+  [
+    [
       "2025-01-23, 11:05:10",
       "https://news.ycombinator.com/item?id=42802842"
     ],
@@ -31,16 +41,6 @@
   ],
   [
     [
-      "2025-01-23, 08:09:06",
-      "https://news.ycombinator.com/item?id=42801839"
-    ],
-    [
-      "Jürgen Schmidhuber – Can All-Purpose Robots Fuel a Comeback?",
-      "https://people.idsia.ch/~juergen/GerJapUsaChiRobots.html"
-    ]
-  ],
-  [
-    [
       "2025-01-23, 03:53:08",
       "https://news.ycombinator.com/item?id=42800557"
     ],
@@ -61,32 +61,22 @@
   ],
   [
     [
+      "2025-01-23, 01:33:26",
+      "https://news.ycombinator.com/item?id=42799629"
+    ],
+    [
+      "Foundations of Large Language Models",
+      "https://arxiv.org/abs/2501.09223"
+    ]
+  ],
+  [
+    [
       "2025-01-23, 01:26:52",
       "https://news.ycombinator.com/item?id=42799574"
     ],
     [
       "Show HN: I organized Bluesky feeds by categories and growth rankings",
       "https://www.bskyinfo.com/feeds/"
-    ]
-  ],
-  [
-    [
-      "2025-01-23, 01:21:37",
-      "https://news.ycombinator.com/item?id=42799540"
-    ],
-    [
-      "Trae: An AI-powered IDE by ByteDance",
-      "https://www.trae.ai/home"
-    ]
-  ],
-  [
-    [
-      "2025-01-23, 01:01:09",
-      "https://news.ycombinator.com/item?id=42799374"
-    ],
-    [
-      "Demodesk (YC W19) Is Hiring a Ruby on Rails Full-Stack Engineer",
-      "https://demodesk.com/careers?utm_source=hn"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "A Proper x86 Assembler in Haskell Using the Escardó-Oliva Functional",
       "http://blog.vmchale.com/article/escardo-oliva-functional"
+    ]
+  ],
+  [
+    [
+      "2025-01-20, 06:44:58",
+      "https://news.ycombinator.com/item?id=42765683"
+    ],
+    [
+      "Taking a Look at Compression Algorithms",
+      "https://cefboud.github.io/posts/compression/"
     ]
   ],
   [
