@@ -2,6 +2,7 @@
 
 * [2025-01-23, 20:19:59](https://news.ycombinator.com/item?id=42807653) - [Morse Code in Tubular Bells (2021)](https://madpsy.uk/link-between-the-soundtrack-of-the-exorcist-and-amateur-radio/)
 * [2025-01-23, 19:31:21](https://news.ycombinator.com/item?id=42807200) - [You should write \"without bugs\"](https://korshakov.com/posts/no-bugs)
+* [2025-01-23, 19:29:29](https://news.ycombinator.com/item?id=42807173) - [Citations on the Anthropic API](https://www.anthropic.com/news/introducing-citations-api)
 * [2025-01-23, 19:15:47](https://news.ycombinator.com/item?id=42807043) - [Finnish Wartime Photograph Archive (1939-1945)](http://sa-kuva.fi/neo?tem=webneoeng#)
 * [2025-01-23, 18:34:38](https://news.ycombinator.com/item?id=42806616) - [Show HN: Open-source AI video editor](https://github.com/fal-ai-community/video-starter-kit)
 * [2025-01-23, 18:24:30](https://news.ycombinator.com/item?id=42806486) - [Building a Medieval Castle from Scratch](https://www.guedelon.fr/en/)
@@ -24,7 +25,6 @@
 * [2025-01-23, 05:07:35](https://news.ycombinator.com/item?id=42800893) - [Show HN: I built an active community of trans people online](https://t4t.social/)
 * [2025-01-22, 20:41:52](https://news.ycombinator.com/item?id=42797260) - [Show HN: I made an open-source laptop from scratch](https://www.byran.ee/posts/creation/)
 * [2025-01-22, 20:08:57](https://news.ycombinator.com/item?id=42796950) - [How to improve your WFH lighting to reduce eye strain](https://rustle.ca/posts/articles/work-from-home-lighting)
-* [2025-01-22, 17:27:14](https://news.ycombinator.com/item?id=42795237) - [TabBoo – add random jumpscares to websites you're trying to avoid](https://tabboo.xyz/)
 * [2025-01-21, 09:10:13](https://news.ycombinator.com/item?id=42777948) - [The Most Mario Colors](https://lmnt.me/blog/the-most-mario-colors.html)
 * [2025-01-20, 19:28:39](https://news.ycombinator.com/item?id=42772144) - [The forgotten brilliance of Hélène de Beauvoir, sister of Simone](https://www.theguardian.com/artanddesign/2025/jan/20/helene-de-beauvoir-sister-simone-picasso-jean-paul-sartre)
 * [2025-01-20, 14:21:05](https://news.ycombinator.com/item?id=42768990) - [Do any languages specify package requirements in import / include statements?](https://news.ycombinator.com/item?id=42768990)
