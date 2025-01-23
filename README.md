@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-23, 06:50:28](https://news.ycombinator.com/item?id=42801370) - [Bun 1.2 Is Released](https://bun.sh/blog/bun-v1.2)
-* [2025-01-23, 05:31:52](https://news.ycombinator.com/item?id=42801021) - [Is Social Media More Like Cigarettes or Junk Food?](https://www.newyorker.com/culture/infinite-scroll/is-social-media-more-like-cigarettes-or-junk-food)
 * [2025-01-23, 03:53:08](https://news.ycombinator.com/item?id=42800557) - [Tech takes the Pareto principle too far](https://bobbylox.com/blog/tech-takes-the-pareto-principle-too-far/)
 * [2025-01-23, 03:17:59](https://news.ycombinator.com/item?id=42800321) - [Edge TTS](https://github.com/rany2/edge-tts)
 * [2025-01-23, 01:33:26](https://news.ycombinator.com/item?id=42799629) - [Foundations of Large Language Models](https://arxiv.org/abs/2501.09223)
@@ -20,6 +19,7 @@
 * [2025-01-22, 20:03:42](https://news.ycombinator.com/item?id=42796906) - [I made a multiplayer shooter game in Lisp, here is my journey](https://ertu.dev/posts/i-made-an-online-shooter-game-in-lisp/)
 * [2025-01-22, 18:38:47](https://news.ycombinator.com/item?id=42796058) - [C stdlib isn't threadsafe and even safe Rust didn't save us](https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us)
 * [2025-01-22, 17:27:14](https://news.ycombinator.com/item?id=42795237) - [TabBoo – add random jumpscares to websites you're trying to avoid](https://tabboo.xyz/)
+* [2025-01-22, 16:08:59](https://news.ycombinator.com/item?id=42794232) - [Minimal 64x4 Home Computer](https://github.com/slu4coder/Minimal-64x4-Home-Computer)
 * [2025-01-22, 15:25:57](https://news.ycombinator.com/item?id=42793783) - [Mastercard DNS error went unnoticed for years](https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/)
 * [2025-01-22, 15:07:26](https://news.ycombinator.com/item?id=42793597) - [Simple CPU Design](http://simplecpudesign.com/)
 * [2025-01-22, 14:57:23](https://news.ycombinator.com/item?id=42793483) - [The Tyranny of Structurelessness (1970)](https://www.jofreeman.com/joreen/tyranny.htm)
