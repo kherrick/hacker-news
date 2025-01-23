@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-23, 20:19:59](https://news.ycombinator.com/item?id=42807653) - [Morse Code in Tubular Bells (2021)](https://madpsy.uk/link-between-the-soundtrack-of-the-exorcist-and-amateur-radio/)
 * [2025-01-23, 19:31:21](https://news.ycombinator.com/item?id=42807200) - [You should write \"without bugs\"](https://korshakov.com/posts/no-bugs)
 * [2025-01-23, 19:15:47](https://news.ycombinator.com/item?id=42807043) - [Finnish Wartime Photograph Archive (1939-1945)](http://sa-kuva.fi/neo?tem=webneoeng#)
 * [2025-01-23, 18:34:38](https://news.ycombinator.com/item?id=42806616) - [Show HN: Open-source AI video editor](https://github.com/fal-ai-community/video-starter-kit)
@@ -7,8 +8,7 @@
 * [2025-01-23, 18:06:42](https://news.ycombinator.com/item?id=42806328) - [Llama.vim – Local LLM-assisted text completion](https://github.com/ggml-org/llama.vim)
 * [2025-01-23, 18:03:40](https://news.ycombinator.com/item?id=42806301) - [Introducing Operator](https://openai.com/index/introducing-operator/)
 * [2025-01-23, 17:58:05](https://news.ycombinator.com/item?id=42806247) - [Thank HN: My bootstrapped startup got acquired today](https://news.ycombinator.com/item?id=42806247)
-* [2025-01-23, 17:44:07](https://news.ycombinator.com/item?id=42806105) - [Scale AI Unveil Results of Humanity's Last Exam, a Groundbreaking New Benchmark](https://scale.com/blog/humanitys-last-exam-results)
-* [2025-01-23, 17:41:30](https://news.ycombinator.com/item?id=42806069) - [Show HN: Mixlist](https://www.mixlist.org/)
+* [2025-01-23, 17:44:07](https://news.ycombinator.com/item?id=42806105) - [Results of \"Humanity's Last Exam\" benchmark published](https://scale.com/blog/humanitys-last-exam-results)
 * [2025-01-23, 17:00:58](https://news.ycombinator.com/item?id=42805699) - [Intrinsic (YC W23) Is Hiring](https://news.ycombinator.com/item?id=42805699)
 * [2025-01-23, 16:29:18](https://news.ycombinator.com/item?id=42805431) - [TMSU: Command-line tool for applying tags and viewing virtual tagged filesystem](https://tmsu.org/)
 * [2025-01-23, 16:28:34](https://news.ycombinator.com/item?id=42805425) - [Working with Files Is Hard (2019)](https://danluu.com/deconstruct-files/)
