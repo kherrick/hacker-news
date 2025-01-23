@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-23, 03:53:08](https://news.ycombinator.com/item?id=42800557) - [Tech Takes the Pareto Principle Too Far](https://bobbylox.com/blog/tech-takes-the-pareto-principle-too-far/)
 * [2025-01-23, 03:17:59](https://news.ycombinator.com/item?id=42800321) - [Edge TTS](https://github.com/rany2/edge-tts)
 * [2025-01-23, 01:33:26](https://news.ycombinator.com/item?id=42799629) - [Foundations of Large Language Models](https://arxiv.org/abs/2501.09223)
 * [2025-01-23, 01:26:52](https://news.ycombinator.com/item?id=42799574) - [Show HN: I Organized Bluesky Feeds by Categories and Growth Rankings](https://www.bskyinfo.com/feeds/)
@@ -19,17 +20,16 @@
 * [2025-01-22, 20:03:42](https://news.ycombinator.com/item?id=42796906) - [I made a multiplayer shooter game in Lisp, here is my journey](https://ertu.dev/posts/i-made-an-online-shooter-game-in-lisp/)
 * [2025-01-22, 18:38:47](https://news.ycombinator.com/item?id=42796058) - [C stdlib isn't threadsafe and even safe Rust didn't save us](https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us)
 * [2025-01-22, 17:27:14](https://news.ycombinator.com/item?id=42795237) - [TabBoo – add random jumpscares to websites you're trying to avoid](https://tabboo.xyz/)
-* [2025-01-22, 16:08:59](https://news.ycombinator.com/item?id=42794232) - [Minimal 64x4 Home Computer](https://github.com/slu4coder/Minimal-64x4-Home-Computer)
 * [2025-01-22, 15:25:57](https://news.ycombinator.com/item?id=42793783) - [Mastercard DNS error went unnoticed for years](https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/)
 * [2025-01-22, 15:07:26](https://news.ycombinator.com/item?id=42793597) - [Simple CPU Design](http://simplecpudesign.com/)
 * [2025-01-22, 14:57:23](https://news.ycombinator.com/item?id=42793483) - [The Tyranny of Structurelessness (1970)](https://www.jofreeman.com/joreen/tyranny.htm)
 * [2025-01-22, 06:32:34](https://news.ycombinator.com/item?id=42789721) - [System Informer](https://systeminformer.com/)
+* [2025-01-21, 14:45:23](https://news.ycombinator.com/item?id=42780636) - [RealtimeSanitizer for Rust](https://steck.tech/posts/rtsan-in-rust/)
 * [2025-01-21, 12:41:28](https://news.ycombinator.com/item?id=42779460) - [How I Automatically Catalog My Game Collection from Pictures](https://medium.com/@rafaelbenari/how-i-automatically-catalog-my-game-collection-from-pictures-79416ae4b32c)
 * [2025-01-21, 04:35:18](https://news.ycombinator.com/item?id=42776668) - [Curse tablet found in Roman-era grave in France targets enemies by invoking Mars](https://www.livescience.com/archaeology/curse-tablet-found-in-roman-era-grave-in-france-targets-enemies-by-invoking-mars-the-god-of-war)
-* [2025-01-21, 00:16:25](https://news.ycombinator.com/item?id=42774758) - [File Systems: The Original Hypermedia](https://jon.work/og/)
 * [2025-01-20, 18:02:23](https://news.ycombinator.com/item?id=42771310) - [Master the Art of the Product Manager 'No'](https://LetsNotDoThat.com)
 * [2025-01-20, 13:40:37](https://news.ycombinator.com/item?id=42768614) - [A Proper x86 Assembler in Haskell Using the Escardó-Oliva Functional](http://blog.vmchale.com/article/escardo-oliva-functional)
-* [2025-01-19, 18:23:44](https://news.ycombinator.com/item?id=42759862) - [Tomatoes roaming the fields: another embarrassing paper for MDPI](http://deevybee.blogspot.com/2025/01/tomatoes-roaming-fields-and-canaries-in.html)
+* [2025-01-20, 06:24:00](https://news.ycombinator.com/item?id=42765557) - [But let us cultivate our garden (2018)](https://themillions.com/2018/11/but-let-us-cultivate-our-garden.html)
 
 ## [Archives](archives/index.md)
 

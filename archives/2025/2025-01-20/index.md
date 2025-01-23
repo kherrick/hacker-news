@@ -64,6 +64,7 @@
 * [2025-01-20, 08:53:12](https://news.ycombinator.com/item?id=42766437) - [Don't use Session – Round 2](https://soatok.blog/2025/01/20/session-round-2/)
 * [2025-01-20, 08:21:16](https://news.ycombinator.com/item?id=42766205) - [Parinfer: Simpler Lisp Editing](https://shaunlebron.github.io/parinfer/)
 * [2025-01-20, 06:24:11](https://news.ycombinator.com/item?id=42765560) - [Show HN: Race Timing with Integrated Replay](https://storytiming.racing)
+* [2025-01-20, 06:24:00](https://news.ycombinator.com/item?id=42765557) - [But let us cultivate our garden (2018)](https://themillions.com/2018/11/but-let-us-cultivate-our-garden.html)
 * [2025-01-20, 06:09:32](https://news.ycombinator.com/item?id=42765480) - [What does \"supports DRM functions and may not be fully accessible\"mean for SSDs?](https://unix.stackexchange.com/questions/789838/what-does-supports-drm-functions-and-may-not-be-fully-accessible-mean-for-sata)
 * [2025-01-20, 03:58:04](https://news.ycombinator.com/item?id=42764839) - [CollectWise (YC F24) Is Hiring](https://www.ycombinator.com/companies/collectwise/jobs/miUmVns-founding-engineer)
 * [2025-01-20, 03:41:27](https://news.ycombinator.com/item?id=42764762) - [I'll think twice before using GitHub Actions again](https://ninkovic.dev/blog/2025/think-twice-before-using-github-actions)
