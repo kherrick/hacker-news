@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-23, 03:17:59](https://news.ycombinator.com/item?id=42800321) - [Edge TTS](https://github.com/rany2/edge-tts)
 * [2025-01-23, 02:28:59](https://news.ycombinator.com/item?id=42799974) - [Kidnapping of Ledger Co-Founder Sparks Major Investigation in France](https://www.leberry.fr/vierzon-18100/faits-divers/enlevement-de-l-un-des-cofondateurs-de-la-start-up-ledger-vaste-enquete-dans-le-cher_14629928/)
 * [2025-01-23, 01:33:26](https://news.ycombinator.com/item?id=42799629) - [Foundations of Large Language Models](https://arxiv.org/abs/2501.09223)
 * [2025-01-23, 01:26:52](https://news.ycombinator.com/item?id=42799574) - [Show HN: I Organized Bluesky Feeds by Categories and Growth Rankings](https://www.bskyinfo.com/feeds/)
@@ -20,7 +21,6 @@
 * [2025-01-22, 17:27:14](https://news.ycombinator.com/item?id=42795237) - [TabBoo – add random jumpscares to websites you're trying to avoid](https://tabboo.xyz/)
 * [2025-01-22, 16:08:59](https://news.ycombinator.com/item?id=42794232) - [Minimal 64x4 Home Computer](https://github.com/slu4coder/Minimal-64x4-Home-Computer)
 * [2025-01-22, 15:25:57](https://news.ycombinator.com/item?id=42793783) - [Mastercard DNS error went unnoticed for years](https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/)
-* [2025-01-22, 15:25:32](https://news.ycombinator.com/item?id=42793777) - [Show HN: Stratoshark, a sibling application to Wireshark](https://stratoshark.org/)
 * [2025-01-22, 15:07:26](https://news.ycombinator.com/item?id=42793597) - [Simple CPU Design](http://simplecpudesign.com/)
 * [2025-01-22, 14:57:23](https://news.ycombinator.com/item?id=42793483) - [The Tyranny of Structurelessness (1970)](https://www.jofreeman.com/joreen/tyranny.htm)
 * [2025-01-22, 11:00:48](https://news.ycombinator.com/item?id=42791428) - [My Struggle with Doom Scrolling](https://allthatjazz.me/posts/doom-scrolling-struggles)

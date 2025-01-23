@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-23](index.md)
 
+* [2025-01-23, 03:17:59](https://news.ycombinator.com/item?id=42800321) - [Edge TTS](https://github.com/rany2/edge-tts)
 * [2025-01-23, 02:28:59](https://news.ycombinator.com/item?id=42799974) - [Kidnapping of Ledger Co-Founder Sparks Major Investigation in France](https://www.leberry.fr/vierzon-18100/faits-divers/enlevement-de-l-un-des-cofondateurs-de-la-start-up-ledger-vaste-enquete-dans-le-cher_14629928/)
 * [2025-01-23, 01:33:26](https://news.ycombinator.com/item?id=42799629) - [Foundations of Large Language Models](https://arxiv.org/abs/2501.09223)
 * [2025-01-23, 01:26:52](https://news.ycombinator.com/item?id=42799574) - [Show HN: I Organized Bluesky Feeds by Categories and Growth Rankings](https://www.bskyinfo.com/feeds/)
