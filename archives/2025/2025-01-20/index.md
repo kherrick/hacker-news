@@ -42,6 +42,7 @@
 * [2025-01-20, 15:26:30](https://news.ycombinator.com/item?id=42769623) - [How to solve computational science problems with AI: PINNs](https://mertkavi.com/how-to-solve-computational-science-problems-with-ai-physics-informed-neural-networks-pinns/)
 * [2025-01-20, 15:23:29](https://news.ycombinator.com/item?id=42769591) - [Facebook, X, YouTube to do more against online hate speech, EU says](https://www.reuters.com/technology/facebook-x-youtube-do-more-against-online-hate-speech-eu-says-2025-01-20/)
 * [2025-01-20, 14:53:45](https://news.ycombinator.com/item?id=42769325) - [Reverse engineering my #1 Hacker News article](https://danielwirtz.com/blog/successful-hacker-news-article)
+* [2025-01-20, 14:21:05](https://news.ycombinator.com/item?id=42768990) - [Do any languages specify package requirements in import / include statements?](https://news.ycombinator.com/item?id=42768990)
 * [2025-01-20, 14:17:57](https://news.ycombinator.com/item?id=42768966) - [Show HN: I wrote a book about running great SaaS technical sales calls](https://news.ycombinator.com/item?id=42768966)
 * [2025-01-20, 13:59:38](https://news.ycombinator.com/item?id=42768788) - [FOSDEM '25 Protest](https://drewdevault.com/2025/01/20/2025-01-20-FOSDEM-protest.html)
 * [2025-01-20, 13:50:58](https://news.ycombinator.com/item?id=42768703) - [I wrote a commercial game in C in 2025](https://www.cowleyforniastudios.com/2025/1/20/choosing-c)
