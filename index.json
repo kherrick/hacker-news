@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-23, 15:30:12",
+      "https://news.ycombinator.com/item?id=42804961"
+    ],
+    [
+      "Show HN: libmodulor – An opinionated TS library to build multi-platform apps",
+      "https://github.com/c100k/libmodulor"
+    ]
+  ],
+  [
+    [
+      "2025-01-23, 15:17:26",
+      "https://news.ycombinator.com/item?id=42804835"
+    ],
+    [
+      "Bunster: Compile bash scripts to self contained executables",
+      "https://github.com/yassinebenaid/bunster"
+    ]
+  ],
+  [
+    [
       "2025-01-23, 13:06:35",
       "https://news.ycombinator.com/item?id=42803597"
     ],
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2025-01-23, 01:21:37",
-      "https://news.ycombinator.com/item?id=42799540"
-    ],
-    [
-      "Trae: An AI-powered IDE by ByteDance",
-      "https://www.trae.ai/home"
-    ]
-  ],
-  [
-    [
       "2025-01-23, 00:47:42",
       "https://news.ycombinator.com/item?id=42799245"
     ],
@@ -117,16 +127,6 @@
     [
       "Lossless Compression of Vector IDs for Approximate Nearest Neighbor Search",
       "https://arxiv.org/abs/2501.10479"
-    ]
-  ],
-  [
-    [
-      "2025-01-22, 21:38:05",
-      "https://news.ycombinator.com/item?id=42797798"
-    ],
-    [
-      "Hands-on Assignment – Therac-25 (2007)",
-      "http://web.mit.edu/6.033/2007/wwwdocs/assignments/handson-therac.html"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2025-01-22, 14:57:23",
-      "https://news.ycombinator.com/item?id=42793483"
-    ],
-    [
-      "The Tyranny of Structurelessness (1970)",
-      "https://www.jofreeman.com/joreen/tyranny.htm"
-    ]
-  ],
-  [
-    [
       "2025-01-22, 08:45:13",
       "https://news.ycombinator.com/item?id=42790536"
     ],
@@ -247,6 +237,16 @@
     [
       "Master the Art of the Product Manager 'No'",
       "https://LetsNotDoThat.com"
+    ]
+  ],
+  [
+    [
+      "2025-01-20, 14:21:05",
+      "https://news.ycombinator.com/item?id=42768990"
+    ],
+    [
+      "Do any languages specify package requirements in import / include statements?",
+      "https://news.ycombinator.com/item?id=42768990"
     ]
   ],
   [
