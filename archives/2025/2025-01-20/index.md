@@ -21,6 +21,7 @@
 * [2025-01-20, 19:45:35](https://news.ycombinator.com/item?id=42772300) - [After Authenticity](https://subpixel.space/entries/after-authenticity/)
 * [2025-01-20, 19:38:45](https://news.ycombinator.com/item?id=42772247) - [Viagra-laced 'erectile honey' is flooding into France, officials warn](https://www.politico.eu/article/france-warns-of-viagra-laced-erectile-honey-flooding-into-the-country/)
 * [2025-01-20, 19:31:03](https://news.ycombinator.com/item?id=42772170) - [ROCm Device Support Wishlist #4276](https://github.com/ROCm/ROCm/discussions/4276)
+* [2025-01-20, 19:28:39](https://news.ycombinator.com/item?id=42772144) - [The forgotten brilliance of Hélène de Beauvoir, sister of Simone](https://www.theguardian.com/artanddesign/2025/jan/20/helene-de-beauvoir-sister-simone-picasso-jean-paul-sartre)
 * [2025-01-20, 19:03:29](https://news.ycombinator.com/item?id=42771885) - [Show HN: SupGen, an model-free program synthesizer by examples / dependent types](https://www.youtube.com/watch?v=bEP88ucXga)
 * [2025-01-20, 18:40:45](https://news.ycombinator.com/item?id=42771676) - [I Am (Not) a Failure: Lessons Learned from Six Failed Startup Attempts](http://blog.rongarret.info/2025/01/i-am-not-failure-lessons-learned-from.html)
 * [2025-01-20, 18:13:48](https://news.ycombinator.com/item?id=42771413) - [Seeking an IPL-V Interpreter](https://news.ycombinator.com/item?id=42771413)
