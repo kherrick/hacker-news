@@ -52,6 +52,7 @@
 * [2025-01-21, 11:06:12](https://news.ycombinator.com/item?id=42778771) - [Show HN: Printercow – Turn any thermal printer into an API endpoint](https://www.printercow.com/)
 * [2025-01-21, 10:35:53](https://news.ycombinator.com/item?id=42778531) - [What I've learned about writing AI apps so far](https://seldo.com/posts/what-ive-learned-about-writing-ai-apps-so-far)
 * [2025-01-21, 10:29:23](https://news.ycombinator.com/item?id=42778472) - [Open Source Alternative to Vercel, Netlify and Heroku](https://dokploy.com)
+* [2025-01-21, 10:19:08](https://news.ycombinator.com/item?id=42778399) - [A technical dive into the new Tokyo Xtreme Racer](https://cookieplmonster.github.io/2025/01/21/tokyo-xtreme-racer-2025-review/)
 * [2025-01-21, 10:17:24](https://news.ycombinator.com/item?id=42778386) - [Poland fumes over US block on AI chips](https://www.politico.eu/article/poland-fumes-us-block-joe-biden-ai-chips-cap-export/)
 * [2025-01-21, 10:00:07](https://news.ycombinator.com/item?id=42778266) - [Startup Winter: Hacker News Lost Its Faith](https://www.vincentschmalbach.com/startup-winter-hacker-news-lost-its-faith/)
 * [2025-01-21, 09:36:20](https://news.ycombinator.com/item?id=42778075) - [Ancient Celtic tribe had women at its social center](https://www.npr.org/2025/01/15/nx-s1-5258236/ancient-celtic-tribe-had-women-at-its-social-center)
