@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2025-01-22, 16:08:59",
-      "https://news.ycombinator.com/item?id=42794232"
-    ],
-    [
-      "Minimal 64x4 Home Computer",
-      "https://github.com/slu4coder/Minimal-64x4-Home-Computer"
-    ]
-  ],
-  [
-    [
       "2025-01-22, 15:25:57",
       "https://news.ycombinator.com/item?id=42793783"
     ],
@@ -231,6 +221,16 @@
   ],
   [
     [
+      "2025-01-21, 17:37:39",
+      "https://news.ycombinator.com/item?id=42782929"
+    ],
+    [
+      "Cab Numbers",
+      "https://www.shyamsundergupta.com/cab.htm"
+    ]
+  ],
+  [
+    [
       "2025-01-21, 14:45:23",
       "https://news.ycombinator.com/item?id=42780636"
     ],
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=42778795"
     ],
     [
-      "Redis-compatible distributed key value NoSQL database",
+      "Kvrocks: Redis-compatible distributed key value NoSQL database",
       "https://kvrocks.apache.org/"
     ]
   ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=42762426"
     ],
     [
-      "Minecraft with Object Impermanence",
+      "Minecraft with object impermanence",
       "https://www.aiweirdness.com/minecraft-with-object-impermanence/"
     ]
   ],
