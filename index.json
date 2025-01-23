@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-01-23, 13:02:31",
-      "https://news.ycombinator.com/item?id=42803559"
-    ],
-    [
-      "Liberux: The Linux Phone You Have Been Waiting For",
-      "https://liberux.net/"
-    ]
-  ],
-  [
-    [
       "2025-01-23, 12:59:22",
       "https://news.ycombinator.com/item?id=42803534"
     ],
@@ -47,26 +37,6 @@
     [
       "DeepSeek and the Effects of GPU Export Controls",
       "https://www.vincentschmalbach.com/deepseek-and-the-effects-of-gpu-export-controls/"
-    ]
-  ],
-  [
-    [
-      "2025-01-23, 12:26:04",
-      "https://news.ycombinator.com/item?id=42803304"
-    ],
-    [
-      "Hiring Cafe",
-      "https://hiring.cafe/"
-    ]
-  ],
-  [
-    [
-      "2025-01-23, 12:24:33",
-      "https://news.ycombinator.com/item?id=42803290"
-    ],
-    [
-      "Using 2 Editors Because Xcode Is Dumb",
-      "https://christiantietze.de/posts/2025/01/using-2-editors-because-xcode-is-dumb/"
     ]
   ],
   [
@@ -161,16 +131,6 @@
   ],
   [
     [
-      "2025-01-23, 00:29:09",
-      "https://news.ycombinator.com/item?id=42799103"
-    ],
-    [
-      "Most Influential Papers in Computer Science History",
-      "https://terriblesoftware.org/2025/01/22/the-7-most-influential-papers-in-computer-science-history/"
-    ]
-  ],
-  [
-    [
       "2025-01-22, 23:46:09",
       "https://news.ycombinator.com/item?id=42798811"
     ],
@@ -211,6 +171,16 @@
   ],
   [
     [
+      "2025-01-22, 20:03:42",
+      "https://news.ycombinator.com/item?id=42796906"
+    ],
+    [
+      "I made a multiplayer shooter game in Lisp, here is my journey",
+      "https://ertu.dev/posts/i-made-an-online-shooter-game-in-lisp/"
+    ]
+  ],
+  [
+    [
       "2025-01-22, 18:38:47",
       "https://news.ycombinator.com/item?id=42796058"
     ],
@@ -241,6 +211,16 @@
   ],
   [
     [
+      "2025-01-22, 15:07:26",
+      "https://news.ycombinator.com/item?id=42793597"
+    ],
+    [
+      "Simple CPU Design",
+      "http://simplecpudesign.com/"
+    ]
+  ],
+  [
+    [
       "2025-01-22, 14:57:23",
       "https://news.ycombinator.com/item?id=42793483"
     ],
@@ -257,6 +237,26 @@
     [
       "How shutdown Bay Area tech companies ditch their fancy gear fast",
       "https://www.sfgate.com/tech/article/silicon-valley-disposition-auction-company-20039023.php"
+    ]
+  ],
+  [
+    [
+      "2025-01-21, 14:45:23",
+      "https://news.ycombinator.com/item?id=42780636"
+    ],
+    [
+      "RealtimeSanitizer for Rust",
+      "https://steck.tech/posts/rtsan-in-rust/"
+    ]
+  ],
+  [
+    [
+      "2025-01-21, 10:19:08",
+      "https://news.ycombinator.com/item?id=42778399"
+    ],
+    [
+      "A technical dive into the new Tokyo Xtreme Racer",
+      "https://cookieplmonster.github.io/2025/01/21/tokyo-xtreme-racer-2025-review/"
     ]
   ],
   [
