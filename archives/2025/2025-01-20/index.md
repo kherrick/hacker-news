@@ -48,6 +48,7 @@
 * [2025-01-20, 13:40:37](https://news.ycombinator.com/item?id=42768614) - [A Proper x86 Assembler in Haskell Using the Escardó-Oliva Functional](http://blog.vmchale.com/article/escardo-oliva-functional)
 * [2025-01-20, 12:37:58](https://news.ycombinator.com/item?id=42768072) - [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
 * [2025-01-20, 12:34:47](https://news.ycombinator.com/item?id=42768046) - [You don't need a JavaScript framework to build websites](https://velocity-core.etribes.de/)
+* [2025-01-20, 12:20:21](https://news.ycombinator.com/item?id=42767940) - [A sprawling megacity of multi-level madness](https://www.theguardian.com/travel/2025/jan/20/why-chongqing-china-is-my-wonder-of-the-world)
 * [2025-01-20, 12:15:29](https://news.ycombinator.com/item?id=42767908) - [Unconventional Adventures](https://quarter--mile.com/Unconventional-Adventures)
 * [2025-01-20, 12:02:19](https://news.ycombinator.com/item?id=42767797) - [Celestial Navigation for Drones](https://www.mdpi.com/2504-446X/8/11/652)
 * [2025-01-20, 11:48:43](https://news.ycombinator.com/item?id=42767702) - [Interview with Jeff Atwood, Co-Founder of Stack Overflow](https://www.cnbc.com/2025/01/18/tech-founder-jeff-atwood-why-im-giving-away-millions-within-next-5-years.html)
