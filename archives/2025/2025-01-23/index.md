@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-23](index.md)
 
+* [2025-01-23, 17:44:03](https://news.ycombinator.com/item?id=42806102) - [George R.R. Martin has co-authored a physics paper](https://arstechnica.com/science/2025/01/george-r-r-martin-has-co-authored-a-physics-paper/)
+* [2025-01-23, 17:41:30](https://news.ycombinator.com/item?id=42806069) - [Show HN: Mixlist](https://www.mixlist.org/)
 * [2025-01-23, 17:00:58](https://news.ycombinator.com/item?id=42805699) - [Intrinsic (YC W23) Is Hiring](https://news.ycombinator.com/item?id=42805699)
 * [2025-01-23, 16:29:18](https://news.ycombinator.com/item?id=42805431) - [TMSU: Command-line tool for applying tags and viewing virtual tagged filesystem](https://tmsu.org/)
 * [2025-01-23, 16:28:34](https://news.ycombinator.com/item?id=42805425) - [Working with Files Is Hard (2019)](https://danluu.com/deconstruct-files/)
