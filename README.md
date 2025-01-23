@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-23, 22:50:11](https://news.ycombinator.com/item?id=42808889) - [Surface-Stable Fractal Dithering](https://github.com/runevision/Dither3D)
 * [2025-01-23, 22:37:57](https://news.ycombinator.com/item?id=42808801) - [Susctl CVE-2024-54507: A particularly 'sus' sysctl in the XNU kernel](https://jprx.io/cve-2024-54507/)
 * [2025-01-23, 20:19:59](https://news.ycombinator.com/item?id=42807653) - [Morse Code in Tubular Bells (2021)](https://madpsy.uk/link-between-the-soundtrack-of-the-exorcist-and-amateur-radio/)
 * [2025-01-23, 19:29:29](https://news.ycombinator.com/item?id=42807173) - [Citations on the Anthropic API](https://www.anthropic.com/news/introducing-citations-api)
@@ -16,7 +17,6 @@
 * [2025-01-23, 15:30:12](https://news.ycombinator.com/item?id=42804961) - [Show HN: libmodulor – An opinionated TS library to build multi-platform apps](https://github.com/c100k/libmodulor)
 * [2025-01-23, 15:17:26](https://news.ycombinator.com/item?id=42804835) - [Bunster: Compile bash scripts to self contained executables](https://github.com/yassinebenaid/bunster)
 * [2025-01-23, 14:49:43](https://news.ycombinator.com/item?id=42804566) - [Psychedelic Graphics 0: Introduction](https://benpence.com/blog/post/psychedelic-graphics-0)
-* [2025-01-23, 14:43:39](https://news.ycombinator.com/item?id=42804506) - [Third Base (2001)](https://www.americanscientist.org/article/third-base)
 * [2025-01-23, 14:38:09](https://news.ycombinator.com/item?id=42804434) - [Turn any bicycle electric](https://dhruvvidyut.co.in/)
 * [2025-01-23, 12:22:19](https://news.ycombinator.com/item?id=42803279) - [Hacking Subaru: Tracking and Controlling Cars via the Starlink Admin Panel](https://samcurry.net/hacking-subaru)
 * [2025-01-23, 10:53:01](https://news.ycombinator.com/item?id=42802778) - [The British Micro Behemoth](https://www.abortretry.fail/p/the-british-micro-behemoth)
@@ -24,10 +24,10 @@
 * [2025-01-23, 05:07:35](https://news.ycombinator.com/item?id=42800893) - [Show HN: I built an active community of trans people online](https://t4t.social/)
 * [2025-01-22, 20:41:52](https://news.ycombinator.com/item?id=42797260) - [Show HN: I made an open-source laptop from scratch](https://www.byran.ee/posts/creation/)
 * [2025-01-22, 20:08:57](https://news.ycombinator.com/item?id=42796950) - [How to improve your WFH lighting to reduce eye strain](https://rustle.ca/posts/articles/work-from-home-lighting)
-* [2025-01-22, 17:27:14](https://news.ycombinator.com/item?id=42795237) - [TabBoo – add random jumpscares to websites you're trying to avoid](https://tabboo.xyz/)
+* [2025-01-21, 19:40:44](https://news.ycombinator.com/item?id=42784373) - [Show HN: Chat with multiple LLMs: o1-high-effort, Sonnet 3.5, GPT-4o, and more](https://polychat.co)
 * [2025-01-21, 14:15:12](https://news.ycombinator.com/item?id=42780271) - [Wol: Wake up your devices with a single command or click](https://github.com/Trugamr/wol)
 * [2025-01-21, 09:10:13](https://news.ycombinator.com/item?id=42777948) - [The Most Mario Colors](https://lmnt.me/blog/the-most-mario-colors.html)
-* [2025-01-20, 18:02:23](https://news.ycombinator.com/item?id=42771310) - [Master the Art of the Product Manager 'No'](https://LetsNotDoThat.com)
+* [2025-01-20, 21:29:54](https://news.ycombinator.com/item?id=42773296) - [Migrating Away from Bcachefs](https://blog.sesse.net/blog/tech/2025-01-20-21-45_migrating_away_from_bcachefs.html)
 * [2025-01-20, 06:44:58](https://news.ycombinator.com/item?id=42765683) - [Taking a Look at Compression Algorithms](https://cefboud.github.io/posts/compression/)
 * [2025-01-19, 16:25:49](https://news.ycombinator.com/item?id=42758425) - [The Most Detailed Map of US Waters That You've Ever Seen (2023)](https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/water/the-most-detailed-map-of-us-waters-that-youve-ever-seen/)
 

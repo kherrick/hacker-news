@@ -14,6 +14,7 @@
 * [2025-01-21, 20:33:11](https://news.ycombinator.com/item?id=42784880) - [JReleaser: quick and effortless way to release your project](https://jreleaser.org/)
 * [2025-01-21, 20:29:19](https://news.ycombinator.com/item?id=42784847) - [LLMs Demonstrate Behavioral Self-Awareness [pdf]](https://martins1612.github.io/selfaware_paper_betley.pdf)
 * [2025-01-21, 20:19:33](https://news.ycombinator.com/item?id=42784740) - [China won A side-by-side comparison of DeepSeek R1 vs. OpenAI O1 for Finance](https://nexustrade.io/blog/the-chinese-obliterated-openai-a-side-by-side-comparison-of-deepseek-r1-vs-openai-o1-for-finance-20250121)
+* [2025-01-21, 19:40:44](https://news.ycombinator.com/item?id=42784373) - [Show HN: Chat with multiple LLMs: o1-high-effort, Sonnet 3.5, GPT-4o, and more](https://polychat.co)
 * [2025-01-21, 19:39:39](https://news.ycombinator.com/item?id=42784365) - [Ask HN: Is anyone doing anything cool with tiny language models?](https://news.ycombinator.com/item?id=42784365)
 * [2025-01-21, 19:14:49](https://news.ycombinator.com/item?id=42784111) - [Why AI reminds me of cloud computing](https://bitmasonsllc.blogspot.com/2025/01/why-ai-reminds-me-of-cloud-computing.html)
 * [2025-01-21, 19:00:03](https://news.ycombinator.com/item?id=42783948) - [Mercator: Extreme](https://mrgris.com/projects/merc-extreme/)
