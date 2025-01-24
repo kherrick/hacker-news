@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-01-24, 21:44:33",
-      "https://news.ycombinator.com/item?id=42817212"
+      "2025-01-24, 22:15:32",
+      "https://news.ycombinator.com/item?id=42817439"
     ],
     [
-      "FEMA May Be Eliminated",
-      "https://www.pbs.org/newshour/politics/watch-trump-says-hes-considering-getting-rid-of-fema-during-briefing-in-north-carolina"
+      "Show HN: Lightpanda, an open-source headless browser in Zig",
+      "https://github.com/lightpanda-io/browser"
+    ]
+  ],
+  [
+    [
+      "2025-01-24, 22:15:16",
+      "https://news.ycombinator.com/item?id=42817438"
+    ],
+    [
+      "Show HN: Onit – open-source ChatGPT Desktop with local mode, Claude, Gemini",
+      "https://github.com/synth-inc/onit"
+    ]
+  ],
+  [
+    [
+      "2025-01-24, 22:08:05",
+      "https://news.ycombinator.com/item?id=42817388"
+    ],
+    [
+      "Legalyze.ai: Review Medical Records with AI",
+      "https://www.legalyze.ai/"
     ]
   ],
   [
@@ -17,16 +37,6 @@
     [
       "The Past, Present, and Future of UI at GitHub",
       "https://hawksley.org/2025/01/08/past-present-future-of-UI-at-github.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-24, 21:32:51",
-      "https://news.ycombinator.com/item?id=42817124"
-    ],
-    [
-      "Looking for work is a full time job",
-      "https://www.resumevue.com/board"
     ]
   ],
   [
@@ -171,6 +181,16 @@
   ],
   [
     [
+      "2025-01-24, 14:21:59",
+      "https://news.ycombinator.com/item?id=42813264"
+    ],
+    [
+      "Threlte 8",
+      "https://threlte.xyz/blog/threlte-8"
+    ]
+  ],
+  [
+    [
       "2025-01-24, 13:57:10",
       "https://news.ycombinator.com/item?id=42813049"
     ],
@@ -207,16 +227,6 @@
     [
       "Build It Yourself",
       "https://lucumr.pocoo.org/2025/1/24/build-it-yourself/"
-    ]
-  ],
-  [
-    [
-      "2025-01-24, 08:19:52",
-      "https://news.ycombinator.com/item?id=42811435"
-    ],
-    [
-      "Eki Bright – The Case for DIY Routing",
-      "https://twocentstudios.com/2025/01/24/eki-bright-the-case-for-diy-routing/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Tilde, My LLVM Alternative",
       "https://yasserarg.com/tb"
-    ]
-  ],
-  [
-    [
-      "2025-01-21, 12:21:24",
-      "https://news.ycombinator.com/item?id=42779317"
-    ],
-    [
-      "Making my life easier with GADTs",
-      "https://acatalepsie.fr/posts/making-my-life-easier-with-gadts.html"
     ]
   ]
 ]
