@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-24](index.md)
 
+* [2025-01-24, 19:38:38](https://news.ycombinator.com/item?id=42816284) - [Dead Internet Theory and the Falsification of PhysicsForums](https://hallofdreams.org/posts/physicsforums/)
 * [2025-01-24, 19:27:19](https://news.ycombinator.com/item?id=42816207) - [C++26: Pack Indexing](https://www.sandordargo.com/blog/2025/01/22/cpp26-pack-indexing)
 * [2025-01-24, 18:58:11](https://news.ycombinator.com/item?id=42816028) - [Kubestatus: Open source tool to easily add status page to your K8s cluster](https://github.com/soub4i/kubestatus-operator)
 * [2025-01-24, 18:49:10](https://news.ycombinator.com/item?id=42815956) - [How is [my new] Type Predicate Generator different?](https://github.com/peter-leonov/type-predicate-generator/blob/main/compare.md)

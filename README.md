@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-24, 19:38:38](https://news.ycombinator.com/item?id=42816284) - [Dead Internet Theory and the Falsification of PhysicsForums](https://hallofdreams.org/posts/physicsforums/)
 * [2025-01-24, 19:27:19](https://news.ycombinator.com/item?id=42816207) - [C++26: Pack Indexing](https://www.sandordargo.com/blog/2025/01/22/cpp26-pack-indexing)
 * [2025-01-24, 18:49:10](https://news.ycombinator.com/item?id=42815956) - [How is [my new] Type Predicate Generator different?](https://github.com/peter-leonov/type-predicate-generator/blob/main/compare.md)
 * [2025-01-24, 18:19:35](https://news.ycombinator.com/item?id=42815755) - [Anatomy of a Formal Proof](https://www.ams.org/journals/notices/202502/noti3114/noti3114.html)
@@ -16,7 +17,6 @@
 * [2025-01-24, 13:34:46](https://news.ycombinator.com/item?id=42812859) - [Lightpanda: The headless browser designed for AI and automation](https://github.com/lightpanda-io/browser)
 * [2025-01-24, 08:19:52](https://news.ycombinator.com/item?id=42811435) - [Eki Bright – The Case for DIY Routing](https://twocentstudios.com/2025/01/24/eki-bright-the-case-for-diy-routing/)
 * [2025-01-24, 07:40:17](https://news.ycombinator.com/item?id=42811269) - [Tele-present wind – David Bowen](https://www.dwbowen.com/telepresent-wind)
-* [2025-01-24, 03:46:19](https://news.ycombinator.com/item?id=42810300) - [UI is hell: four-function calculators](https://lcamtuf.substack.com/p/ui-is-hell-four-function-calculators)
 * [2025-01-24, 03:02:10](https://news.ycombinator.com/item?id=42810103) - [Weierstrass's Monster](https://www.quantamagazine.org/the-jagged-monstrous-function-that-broke-calculus-20250123/)
 * [2025-01-23, 23:55:34](https://news.ycombinator.com/item?id=42809268) - [A QR code that sends you to a different destination – lenticular and adversarial](https://mstdn.social/@isziaui/113874436953157913)
 * [2025-01-23, 18:06:42](https://news.ycombinator.com/item?id=42806328) - [Llama.vim – Local LLM-assisted text completion](https://github.com/ggml-org/llama.vim)
