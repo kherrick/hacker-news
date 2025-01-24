@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2025-01-21, 17:33:52",
+      "https://news.ycombinator.com/item?id=42782872"
+    ],
+    [
+      "Tilde, My LLVM Alternative",
+      "https://yasserarg.com/tb"
+    ]
+  ],
+  [
+    [
       "2025-01-21, 14:33:29",
       "https://news.ycombinator.com/item?id=42780490"
     ],
@@ -287,16 +297,6 @@
     [
       "The Most Mario Colors",
       "https://lmnt.me/blog/the-most-mario-colors.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-21, 01:38:57",
-      "https://news.ycombinator.com/item?id=42775422"
-    ],
-    [
-      "Compiler Fuzzing in Continuous Integration: A Case Study on Dafny [pdf]",
-      "https://www.doc.ic.ac.uk/~afd/papers/2025/ICST-Industry.pdf"
     ]
   ]
 ]
