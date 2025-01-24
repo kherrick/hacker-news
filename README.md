@@ -18,6 +18,7 @@
 * [2025-01-24, 03:02:10](https://news.ycombinator.com/item?id=42810103) - [Weierstrass's Monster](https://www.quantamagazine.org/the-jagged-monstrous-function-that-broke-calculus-20250123/)
 * [2025-01-23, 23:55:34](https://news.ycombinator.com/item?id=42809268) - [A QR code that sends you to a different destination – lenticular and adversarial](https://mstdn.social/@isziaui/113874436953157913)
 * [2025-01-23, 18:06:42](https://news.ycombinator.com/item?id=42806328) - [Llama.vim – Local LLM-assisted text completion](https://github.com/ggml-org/llama.vim)
+* [2025-01-23, 18:03:40](https://news.ycombinator.com/item?id=42806301) - [Operator research preview](https://openai.com/index/introducing-operator/)
 * [2025-01-23, 17:58:05](https://news.ycombinator.com/item?id=42806247) - [Thank HN: My bootstrapped startup got acquired today](https://news.ycombinator.com/item?id=42806247)
 * [2025-01-22, 20:41:52](https://news.ycombinator.com/item?id=42797260) - [Show HN: I made an open-source laptop from scratch](https://www.byran.ee/posts/creation/)
 * [2025-01-22, 12:12:37](https://news.ycombinator.com/item?id=42791906) - [Urban legend: I think there is a world market for maybe five computers](https://geekhistory.com/content/urban-legend-i-think-there-world-market-maybe-five-computers)
@@ -28,7 +29,6 @@
 * [2025-01-21, 09:10:13](https://news.ycombinator.com/item?id=42777948) - [The Most Mario Colors](https://lmnt.me/blog/the-most-mario-colors.html)
 * [2025-01-21, 03:07:07](https://news.ycombinator.com/item?id=42776029) - [Magenta.nvim – an AI coding assistant plugin for Neovim focused on tool use](https://github.com/dlants/magenta.nvim)
 * [2025-01-20, 23:13:29](https://news.ycombinator.com/item?id=42774291) - [The importance of favicons in website OSINT research](https://www.osintme.com/index.php/2025/01/20/the-importance-of-favicons-in-website-osint-research/)
-* [2025-01-20, 20:02:52](https://news.ycombinator.com/item?id=42772474) - [The color and color-patterns of moths and butterflies (1897)](https://publicdomainreview.org/collection/mayer-color-patterns/)
 * [2025-01-19, 16:52:44](https://news.ycombinator.com/item?id=42758714) - [Masters of Allusion: The Art of Poetic Reference](https://www.nytimes.com/2025/01/16/books/review/on-poetry-allusions-and-quotations.html)
 
 ## [Archives](archives/index.md)
