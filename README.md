@@ -26,7 +26,7 @@
 * [2025-01-22, 09:54:25](https://news.ycombinator.com/item?id=42791036) - [I wrote my own \"proper\" programming language (2020)](https://mukulrathi.com/create-your-own-programming-language/intro-to-compiler/)
 * [2025-01-22, 09:34:50](https://news.ycombinator.com/item?id=42790902) - [Building a full-text search engine in 150 lines of Python code (2021)](https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/)
 * [2025-01-22, 09:25:07](https://news.ycombinator.com/item?id=42790820) - [Coping with dumb LLMs using classic ML](https://softwaredoug.com/blog/2025/01/21/llm-judge-decision-tree)
-* [2025-01-22, 05:34:15](https://news.ycombinator.com/item?id=42789372) - [Capacitors Meet Geometric Series](https://ivanbelenky.com/articles/capacitors)
+* [2025-01-22, 08:45:13](https://news.ycombinator.com/item?id=42790536) - [How shut-down Bay Area tech companies ditch their fancy gear](https://www.sfgate.com/tech/article/silicon-valley-disposition-auction-company-20039023.php)
 * [2025-01-21, 14:33:29](https://news.ycombinator.com/item?id=42780490) - [A Cold War Satellite Program Called Parcae Revolutionized Signals Intelligence](https://spectrum.ieee.org/reconnaissance-satellite)
 * [2025-01-21, 09:10:13](https://news.ycombinator.com/item?id=42777948) - [The Most Mario Colors](https://lmnt.me/blog/the-most-mario-colors.html)
 * [2025-01-21, 01:38:57](https://news.ycombinator.com/item?id=42775422) - [Compiler Fuzzing in Continuous Integration: A Case Study on Dafny [pdf]](https://www.doc.ic.ac.uk/~afd/papers/2025/ICST-Industry.pdf)
