@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-24, 15:50:23",
+      "https://news.ycombinator.com/item?id=42814275"
+    ],
+    [
+      "New Book-Sorting Algorithm Almost Reaches Perfection",
+      "https://www.quantamagazine.org/new-book-sorting-algorithm-almost-reaches-perfection-20250124/"
+    ]
+  ],
+  [
+    [
+      "2025-01-24, 15:37:07",
+      "https://news.ycombinator.com/item?id=42814110"
+    ],
+    [
+      "Show HN: Cs16.css – CSS library based on CS 1.6 UI",
+      "https://cs16.samke.me"
+    ]
+  ],
+  [
+    [
       "2025-01-24, 14:51:33",
       "https://news.ycombinator.com/item?id=42813513"
     ],
@@ -31,12 +51,12 @@
   ],
   [
     [
-      "2025-01-24, 12:52:06",
-      "https://news.ycombinator.com/item?id=42812617"
+      "2025-01-24, 13:34:46",
+      "https://news.ycombinator.com/item?id=42812859"
     ],
     [
-      "Could Self-Driving Buses Bring Vehicle Autonomy Home?",
-      "https://spectrum.ieee.org/driverless-bus"
+      "Lightpanda: The headless browser designed for AI and automation",
+      "https://github.com/lightpanda-io/browser"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "Weierstrass's Monster",
       "https://www.quantamagazine.org/the-jagged-monstrous-function-that-broke-calculus-20250123/"
-    ]
-  ],
-  [
-    [
-      "2025-01-24, 02:28:10",
-      "https://news.ycombinator.com/item?id=42809990"
-    ],
-    [
-      "Supercharge vector search with ColBERT rerank in PostgreSQL",
-      "https://blog.vectorchord.ai/supercharge-vector-search-with-colbert-rerank-in-postgresql"
     ]
   ],
   [
@@ -107,16 +117,6 @@
     [
       "Susctl CVE-2024-54507: A particularly 'sus' sysctl in the XNU kernel",
       "https://jprx.io/cve-2024-54507/"
-    ]
-  ],
-  [
-    [
-      "2025-01-23, 18:34:38",
-      "https://news.ycombinator.com/item?id=42806616"
-    ],
-    [
-      "Show HN: Open-source AI video editor",
-      "https://github.com/fal-ai-community/video-starter-kit"
     ]
   ],
   [
@@ -191,12 +191,12 @@
   ],
   [
     [
-      "2025-01-22, 11:07:45",
-      "https://news.ycombinator.com/item?id=42791465"
+      "2025-01-22, 10:37:04",
+      "https://news.ycombinator.com/item?id=42791310"
     ],
     [
-      "LoongArch64 Subjective Higlights",
-      "http://0x80.pl/notesen/2025-01-21-loongarch64-highlights.html"
+      "Data Branching for Batch Job Systems",
+      "https://isaacjordan.me/blog/2025/01/data-branching-for-batch-job-systems"
     ]
   ],
   [
