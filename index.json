@@ -1,26 +1,6 @@
 [
   [
     [
-      "2025-01-24, 05:21:44",
-      "https://news.ycombinator.com/item?id=42810737"
-    ],
-    [
-      "New Electrical Code Could Doom Most Common EV Charging",
-      "https://www.motortrend.com/news/national-electric-code-revision-threatens-ev-charging/"
-    ]
-  ],
-  [
-    [
-      "2025-01-24, 04:54:21",
-      "https://news.ycombinator.com/item?id=42810646"
-    ],
-    [
-      "New Rust Jobs Site",
-      "https://www.RustDevFindJob.com"
-    ]
-  ],
-  [
-    [
       "2025-01-24, 03:46:19",
       "https://news.ycombinator.com/item?id=42810300"
     ],
@@ -107,6 +87,16 @@
     [
       "Susctl CVE-2024-54507: A particularly 'sus' sysctl in the XNU kernel",
       "https://jprx.io/cve-2024-54507/"
+    ]
+  ],
+  [
+    [
+      "2025-01-23, 20:19:59",
+      "https://news.ycombinator.com/item?id=42807653"
+    ],
+    [
+      "Morse Code in Tubular Bells (2021)",
+      "https://madpsy.uk/link-between-the-soundtrack-of-the-exorcist-and-amateur-radio/"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "LoongArch64 Subjective Higlights",
       "http://0x80.pl/notesen/2025-01-21-loongarch64-highlights.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-22, 09:54:25",
+      "https://news.ycombinator.com/item?id=42791036"
+    ],
+    [
+      "I wrote my own \"proper\" programming language (2020)",
+      "https://mukulrathi.com/create-your-own-programming-language/intro-to-compiler/"
     ]
   ],
   [
