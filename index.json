@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-01-24, 18:58:11",
-      "https://news.ycombinator.com/item?id=42816028"
-    ],
-    [
-      "Kubestatus: Open source tool to easily add status page to your K8s cluster",
-      "https://github.com/soub4i/kubestatus-operator"
-    ]
-  ],
-  [
-    [
       "2025-01-24, 18:49:10",
       "https://news.ycombinator.com/item?id=42815956"
     ],
@@ -161,6 +151,16 @@
   ],
   [
     [
+      "2025-01-24, 03:46:19",
+      "https://news.ycombinator.com/item?id=42810300"
+    ],
+    [
+      "UI is hell: four-function calculators",
+      "https://lcamtuf.substack.com/p/ui-is-hell-four-function-calculators"
+    ]
+  ],
+  [
+    [
       "2025-01-24, 03:02:10",
       "https://news.ycombinator.com/item?id=42810103"
     ],
@@ -197,16 +197,6 @@
     [
       "Thank HN: My bootstrapped startup got acquired today",
       "https://news.ycombinator.com/item?id=42806247"
-    ]
-  ],
-  [
-    [
-      "2025-01-22, 20:41:52",
-      "https://news.ycombinator.com/item?id=42797260"
-    ],
-    [
-      "Show HN: I made an open-source laptop from scratch",
-      "https://www.byran.ee/posts/creation/"
     ]
   ],
   [
@@ -275,7 +265,7 @@
       "https://news.ycombinator.com/item?id=42776029"
     ],
     [
-      "Magenta.nvim – an AI coding assistant plugin for Neovim focused on tool use",
+      "Show HN: Magenta.nvim – AI coding plugin for Neovim focused on tool use",
       "https://github.com/dlants/magenta.nvim"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "The importance of favicons in website OSINT research",
       "https://www.osintme.com/index.php/2025/01/20/the-importance-of-favicons-in-website-osint-research/"
+    ]
+  ],
+  [
+    [
+      "2025-01-20, 20:02:52",
+      "https://news.ycombinator.com/item?id=42772474"
+    ],
+    [
+      "The color and color-patterns of moths and butterflies (1897)",
+      "https://publicdomainreview.org/collection/mayer-color-patterns/"
     ]
   ],
   [
