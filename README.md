@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-24, 03:46:19](https://news.ycombinator.com/item?id=42810300) - [UI is hell: four-function calculators](https://lcamtuf.substack.com/p/ui-is-hell-four-function-calculators)
-* [2025-01-24, 03:02:10](https://news.ycombinator.com/item?id=42810103) - [The Jagged, Monstrous Function That Broke Calculus](https://www.quantamagazine.org/the-jagged-monstrous-function-that-broke-calculus-20250123/)
+* [2025-01-24, 03:22:50](https://news.ycombinator.com/item?id=42810176) - [The State of Vim](https://lwn.net/Articles/1002342/)
+* [2025-01-24, 03:02:10](https://news.ycombinator.com/item?id=42810103) - [Weierstrass's Monster](https://www.quantamagazine.org/the-jagged-monstrous-function-that-broke-calculus-20250123/)
 * [2025-01-24, 02:28:10](https://news.ycombinator.com/item?id=42809990) - [Supercharge vector search with ColBERT rerank in PostgreSQL](https://blog.vectorchord.ai/supercharge-vector-search-with-colbert-rerank-in-postgresql)
 * [2025-01-24, 02:03:43](https://news.ycombinator.com/item?id=42809895) - [Ergodic Lagrangian dynamics in a superhero universe](https://pubs.aip.org/aapt/ajp/article/93/2/127/3331568/Ergodic-Lagrangian-dynamics-in-a-superhero)
 * [2025-01-24, 01:00:52](https://news.ycombinator.com/item?id=42809578) - [Sei (YC W22) Is Hiring](https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai)
@@ -26,7 +27,6 @@
 * [2025-01-22, 11:07:45](https://news.ycombinator.com/item?id=42791465) - [LoongArch64 Subjective Higlights](http://0x80.pl/notesen/2025-01-21-loongarch64-highlights.html)
 * [2025-01-22, 08:45:13](https://news.ycombinator.com/item?id=42790536) - [How shut-down Bay Area tech companies ditch their fancy gear](https://www.sfgate.com/tech/article/silicon-valley-disposition-auction-company-20039023.php)
 * [2025-01-22, 05:34:15](https://news.ycombinator.com/item?id=42789372) - [Capacitors Meet Geometric Series](https://ivanbelenky.com/articles/capacitors)
-* [2025-01-21, 19:40:44](https://news.ycombinator.com/item?id=42784373) - [Show HN: Chat with multiple LLMs: o1-high-effort, Sonnet 3.5, GPT-4o, and more](https://polychat.co)
 * [2025-01-21, 16:00:08](https://news.ycombinator.com/item?id=42781578) - [Find Your Footing After Installing Arch Linux](https://ejmastnak.com/tutorials/arch/about/)
 * [2025-01-21, 09:10:13](https://news.ycombinator.com/item?id=42777948) - [The Most Mario Colors](https://lmnt.me/blog/the-most-mario-colors.html)
 * [2025-01-21, 01:38:57](https://news.ycombinator.com/item?id=42775422) - [Compiler Fuzzing in Continuous Integration: A Case Study on Dafny [pdf]](https://www.doc.ic.ac.uk/~afd/papers/2025/ICST-Industry.pdf)
