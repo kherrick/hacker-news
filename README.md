@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-24, 09:23:03](https://news.ycombinator.com/item?id=42811674) - [100% Unemployment: on keeping busy when the robots take over (2013)](https://hyponymo.us/2013/01/29/100-percent-unemployment/)
+* [2025-01-24, 08:36:27](https://news.ycombinator.com/item?id=42811502) - [Trae: AI Code Editor from ByteDance](https://www.trae.ai)
 * [2025-01-24, 07:55:01](https://news.ycombinator.com/item?id=42811332) - [Amazon UK to stop selling Bloomsbury's books](https://www.thebookseller.com/news/amazon-uk-to-stop-selling-bloomsburys-books)
 * [2025-01-24, 06:03:42](https://news.ycombinator.com/item?id=42810865) - [Modular PC Design: Sustainable Approach Enhanced Repairability Reduced E-Waste](https://community.intel.com/t5/Blogs/Tech-Innovation/Client/Modular-PC-Design-A-Sustainable-Approach-for-Enhanced/post/1657681)
 * [2025-01-24, 03:46:19](https://news.ycombinator.com/item?id=42810300) - [UI is hell: four-function calculators](https://lcamtuf.substack.com/p/ui-is-hell-four-function-calculators)
@@ -17,9 +19,7 @@
 * [2025-01-23, 18:03:40](https://news.ycombinator.com/item?id=42806301) - [Operator research preview](https://openai.com/index/introducing-operator/)
 * [2025-01-23, 17:58:05](https://news.ycombinator.com/item?id=42806247) - [Thank HN: My bootstrapped startup got acquired today](https://news.ycombinator.com/item?id=42806247)
 * [2025-01-23, 16:28:34](https://news.ycombinator.com/item?id=42805425) - [Working with Files Is Hard (2019)](https://danluu.com/deconstruct-files/)
-* [2025-01-23, 15:17:26](https://news.ycombinator.com/item?id=42804835) - [Bunster: Compile bash scripts to self contained executables](https://github.com/yassinebenaid/bunster)
 * [2025-01-23, 14:49:43](https://news.ycombinator.com/item?id=42804566) - [Psychedelic Graphics 0: Introduction](https://benpence.com/blog/post/psychedelic-graphics-0)
-* [2025-01-23, 14:38:09](https://news.ycombinator.com/item?id=42804434) - [Turn any bicycle electric](https://dhruvvidyut.co.in/)
 * [2025-01-23, 12:22:19](https://news.ycombinator.com/item?id=42803279) - [Hacking Subaru: Tracking and controlling cars via the admin panel](https://samcurry.net/hacking-subaru)
 * [2025-01-23, 05:07:35](https://news.ycombinator.com/item?id=42800893) - [Show HN: I built an active community of trans people online](https://t4t.social/)
 * [2025-01-22, 20:41:52](https://news.ycombinator.com/item?id=42797260) - [Show HN: I made an open-source laptop from scratch](https://www.byran.ee/posts/creation/)

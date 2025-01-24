@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-24](index.md)
 
+* [2025-01-24, 09:23:03](https://news.ycombinator.com/item?id=42811674) - [100% Unemployment: on keeping busy when the robots take over (2013)](https://hyponymo.us/2013/01/29/100-percent-unemployment/)
+* [2025-01-24, 08:36:27](https://news.ycombinator.com/item?id=42811502) - [Trae: AI Code Editor from ByteDance](https://www.trae.ai)
 * [2025-01-24, 07:55:01](https://news.ycombinator.com/item?id=42811332) - [Amazon UK to stop selling Bloomsbury's books](https://www.thebookseller.com/news/amazon-uk-to-stop-selling-bloomsburys-books)
 * [2025-01-24, 06:03:42](https://news.ycombinator.com/item?id=42810865) - [Modular PC Design: Sustainable Approach Enhanced Repairability Reduced E-Waste](https://community.intel.com/t5/Blogs/Tech-Innovation/Client/Modular-PC-Design-A-Sustainable-Approach-for-Enhanced/post/1657681)
 * [2025-01-24, 05:21:44](https://news.ycombinator.com/item?id=42810737) - [New Electrical Code Could Doom Most Common EV Charging](https://www.motortrend.com/news/national-electric-code-revision-threatens-ev-charging/)
