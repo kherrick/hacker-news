@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-01-24, 19:48:51",
+      "https://news.ycombinator.com/item?id=42816359"
+    ],
+    [
+      "The Hidden Complexity of Scaling WebSockets",
+      "https://composehq.com/blog/scaling-websockets-1-23-25"
+    ]
+  ],
+  [
+    [
       "2025-01-24, 19:38:38",
       "https://news.ycombinator.com/item?id=42816284"
     ],
@@ -287,16 +297,6 @@
     [
       "Show HN: Magenta.nvim – AI coding plugin for Neovim focused on tool use",
       "https://github.com/dlants/magenta.nvim"
-    ]
-  ],
-  [
-    [
-      "2025-01-20, 23:13:29",
-      "https://news.ycombinator.com/item?id=42774291"
-    ],
-    [
-      "The importance of favicons in website OSINT research",
-      "https://www.osintme.com/index.php/2025/01/20/the-importance-of-favicons-in-website-osint-research/"
     ]
   ]
 ]
