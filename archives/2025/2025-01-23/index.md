@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-23](index.md)
 
+* [2025-01-23, 23:55:34](https://news.ycombinator.com/item?id=42809268) - [A QR code that sends you to a different destination - lenticular and adversarial](https://mstdn.social/@isziaui/113874436953157913)
+* [2025-01-23, 23:14:46](https://news.ycombinator.com/item?id=42809034) - [Disabling Zen 5's Op Cache and Exploring Its Clustered Decoder](https://chipsandcheese.com/p/disabling-zen-5s-op-cache-and-exploring)
 * [2025-01-23, 22:50:11](https://news.ycombinator.com/item?id=42808889) - [Surface-Stable Fractal Dithering](https://github.com/runevision/Dither3D)
 * [2025-01-23, 22:37:57](https://news.ycombinator.com/item?id=42808801) - [Susctl CVE-2024-54507: A particularly 'sus' sysctl in the XNU kernel](https://jprx.io/cve-2024-54507/)
 * [2025-01-23, 20:36:11](https://news.ycombinator.com/item?id=42807805) - [Modern Polars – A side-by-side comparison of the Polars and Pandas libraries](https://kevinheavey.github.io/modern-polars/)

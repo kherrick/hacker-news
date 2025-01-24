@@ -49,6 +49,7 @@
 * [2025-01-22, 07:53:28](https://news.ycombinator.com/item?id=42790207) - [DHS removes all members of cyber security advisory boards, halts investigations](https://bsky.app/profile/ericjgeller.com/post/3lgbpqmxeok2f)
 * [2025-01-22, 07:25:10](https://news.ycombinator.com/item?id=42790046) - [Arm releases Chiplet System Architecture spec beta version](https://newsroom.arm.com/blog/arm-chiplet-system-architecture-accelerating-evolution-of-silicon)
 * [2025-01-22, 06:32:34](https://news.ycombinator.com/item?id=42789721) - [System Informer](https://systeminformer.com/)
+* [2025-01-22, 05:34:15](https://news.ycombinator.com/item?id=42789372) - [Capacitors Meet Geometric Series](https://ivanbelenky.com/articles/capacitors)
 * [2025-01-22, 03:22:42](https://news.ycombinator.com/item?id=42788580) - [Flame: A small language model for spreadsheet formulas (2023)](https://arxiv.org/abs/2301.13779)
 * [2025-01-22, 03:03:05](https://news.ycombinator.com/item?id=42788455) - [What are these bumps on the top of a pull-tab can?](https://old.reddit.com/r/whatisthisthing/comments/1i5ztq4/comment/m8a7m8m/)
 * [2025-01-22, 03:02:45](https://news.ycombinator.com/item?id=42788451) - [Tensor Product Attention Is All You Need](https://arxiv.org/abs/2501.06425)
