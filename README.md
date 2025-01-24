@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-24, 21:32:51](https://news.ycombinator.com/item?id=42817124) - [Looking for work is a full time job](https://www.resumevue.com/board)
 * [2025-01-24, 19:56:31](https://news.ycombinator.com/item?id=42816418) - [A Very Chicago Gamble](https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/)
 * [2025-01-24, 19:48:51](https://news.ycombinator.com/item?id=42816359) - [The Hidden Complexity of Scaling WebSockets](https://composehq.com/blog/scaling-websockets-1-23-25)
 * [2025-01-24, 19:38:38](https://news.ycombinator.com/item?id=42816284) - [PhysicsForums and the Dead Internet Theory](https://hallofdreams.org/posts/physicsforums/)
@@ -28,7 +29,6 @@
 * [2025-01-22, 10:37:04](https://news.ycombinator.com/item?id=42791310) - [Data Branching for Batch Job Systems](https://isaacjordan.me/blog/2025/01/data-branching-for-batch-job-systems)
 * [2025-01-22, 09:25:07](https://news.ycombinator.com/item?id=42790820) - [Coping with dumb LLMs using classic ML](https://softwaredoug.com/blog/2025/01/21/llm-judge-decision-tree)
 * [2025-01-21, 17:33:52](https://news.ycombinator.com/item?id=42782872) - [Tilde, My LLVM Alternative](https://yasserarg.com/tb)
-* [2025-01-21, 12:21:24](https://news.ycombinator.com/item?id=42779317) - [Making my life easier with GADTs](https://acatalepsie.fr/posts/making-my-life-easier-with-gadts.html)
 * [2025-01-21, 03:07:07](https://news.ycombinator.com/item?id=42776029) - [Show HN: Magenta.nvim – AI coding plugin for Neovim focused on tool use](https://github.com/dlants/magenta.nvim)
 
 ## [Archives](archives/index.md)

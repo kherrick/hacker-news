@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-24](index.md)
 
+* [2025-01-24, 21:32:51](https://news.ycombinator.com/item?id=42817124) - [Looking for work is a full time job](https://www.resumevue.com/board)
 * [2025-01-24, 19:56:31](https://news.ycombinator.com/item?id=42816418) - [A Very Chicago Gamble](https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/)
 * [2025-01-24, 19:48:51](https://news.ycombinator.com/item?id=42816359) - [The Hidden Complexity of Scaling WebSockets](https://composehq.com/blog/scaling-websockets-1-23-25)
 * [2025-01-24, 19:38:38](https://news.ycombinator.com/item?id=42816284) - [Dead Internet Theory and the Falsification of PhysicsForums](https://hallofdreams.org/posts/physicsforums/)
