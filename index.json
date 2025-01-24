@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-24, 18:58:11",
+      "https://news.ycombinator.com/item?id=42816028"
+    ],
+    [
+      "Kubestatus: Open source tool to easily add status page to your K8s cluster",
+      "https://github.com/soub4i/kubestatus-operator"
+    ]
+  ],
+  [
+    [
+      "2025-01-24, 18:49:10",
+      "https://news.ycombinator.com/item?id=42815956"
+    ],
+    [
+      "How is [my new] Type Predicate Generator different?",
+      "https://github.com/peter-leonov/type-predicate-generator/blob/main/compare.md"
+    ]
+  ],
+  [
+    [
       "2025-01-24, 18:19:35",
       "https://news.ycombinator.com/item?id=42815755"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-01-23, 18:03:40",
-      "https://news.ycombinator.com/item?id=42806301"
-    ],
-    [
-      "Operator research preview",
-      "https://openai.com/index/introducing-operator/"
-    ]
-  ],
-  [
-    [
       "2025-01-23, 17:58:05",
       "https://news.ycombinator.com/item?id=42806247"
     ],
@@ -227,16 +237,6 @@
     [
       "Data Branching for Batch Job Systems",
       "https://isaacjordan.me/blog/2025/01/data-branching-for-batch-job-systems"
-    ]
-  ],
-  [
-    [
-      "2025-01-22, 09:54:25",
-      "https://news.ycombinator.com/item?id=42791036"
-    ],
-    [
-      "I wrote my own “proper” programming language (2020)",
-      "https://mukulrathi.com/create-your-own-programming-language/intro-to-compiler/"
     ]
   ],
   [
