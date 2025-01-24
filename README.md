@@ -19,6 +19,7 @@
 * [2025-01-23, 16:28:34](https://news.ycombinator.com/item?id=42805425) - [Working with Files Is Hard (2019)](https://danluu.com/deconstruct-files/)
 * [2025-01-23, 15:17:26](https://news.ycombinator.com/item?id=42804835) - [Bunster: Compile bash scripts to self contained executables](https://github.com/yassinebenaid/bunster)
 * [2025-01-23, 14:49:43](https://news.ycombinator.com/item?id=42804566) - [Psychedelic Graphics 0: Introduction](https://benpence.com/blog/post/psychedelic-graphics-0)
+* [2025-01-23, 14:38:09](https://news.ycombinator.com/item?id=42804434) - [Turn any bicycle electric](https://dhruvvidyut.co.in/)
 * [2025-01-23, 12:22:19](https://news.ycombinator.com/item?id=42803279) - [Hacking Subaru: Tracking and controlling cars via the admin panel](https://samcurry.net/hacking-subaru)
 * [2025-01-23, 05:07:35](https://news.ycombinator.com/item?id=42800893) - [Show HN: I built an active community of trans people online](https://t4t.social/)
 * [2025-01-22, 20:41:52](https://news.ycombinator.com/item?id=42797260) - [Show HN: I made an open-source laptop from scratch](https://www.byran.ee/posts/creation/)
@@ -29,7 +30,6 @@
 * [2025-01-21, 16:00:08](https://news.ycombinator.com/item?id=42781578) - [Find Your Footing After Installing Arch Linux](https://ejmastnak.com/tutorials/arch/about/)
 * [2025-01-21, 09:10:13](https://news.ycombinator.com/item?id=42777948) - [The Most Mario Colors](https://lmnt.me/blog/the-most-mario-colors.html)
 * [2025-01-21, 01:38:57](https://news.ycombinator.com/item?id=42775422) - [Compiler Fuzzing in Continuous Integration: A Case Study on Dafny [pdf]](https://www.doc.ic.ac.uk/~afd/papers/2025/ICST-Industry.pdf)
-* [2025-01-20, 21:29:54](https://news.ycombinator.com/item?id=42773296) - [Migrating Away from Bcachefs](https://blog.sesse.net/blog/tech/2025-01-20-21-45_migrating_away_from_bcachefs.html)
 
 ## [Archives](archives/index.md)
 
