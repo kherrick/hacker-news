@@ -39,6 +39,7 @@
 * [2025-01-22, 14:57:23](https://news.ycombinator.com/item?id=42793483) - [The Tyranny of Structurelessness (1970)](https://www.jofreeman.com/joreen/tyranny.htm)
 * [2025-01-22, 14:25:09](https://news.ycombinator.com/item?id=42793162) - [PyVista](https://pyvista.org/)
 * [2025-01-22, 13:42:51](https://news.ycombinator.com/item?id=42792718) - [Open Socrates by Agnes Callard review – a design for life](https://www.theguardian.com/books/2025/jan/16/open-socrates-by-agnes-callard-review-a-design-for-life)
+* [2025-01-22, 12:12:37](https://news.ycombinator.com/item?id=42791906) - [Urban legend: I think there is a world market for maybe five computers](https://geekhistory.com/content/urban-legend-i-think-there-world-market-maybe-five-computers)
 * [2025-01-22, 12:00:05](https://news.ycombinator.com/item?id=42791823) - [Strac (YC W22) Is Hiring Windows Engineer](https://www.ycombinator.com/companies/strac/jobs/TJHiaL9-senior-endpoint-security-engineer-windows)
 * [2025-01-22, 11:59:29](https://news.ycombinator.com/item?id=42791820) - [Show HN: NotepadJs – A cross-platform love letter to Notepad](https://github.com/itamarom/notepadjs)
 * [2025-01-22, 11:40:26](https://news.ycombinator.com/item?id=42791671) - [I Won't Invest (2019)](https://davidjarvis.com/why-i-wont-invest/)
