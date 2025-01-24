@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-24, 21:44:33",
+      "https://news.ycombinator.com/item?id=42817212"
+    ],
+    [
+      "FEMA May Be Eliminated",
+      "https://www.pbs.org/newshour/politics/watch-trump-says-hes-considering-getting-rid-of-fema-during-briefing-in-north-carolina"
+    ]
+  ],
+  [
+    [
+      "2025-01-24, 21:38:05",
+      "https://news.ycombinator.com/item?id=42817163"
+    ],
+    [
+      "The Past, Present, and Future of UI at GitHub",
+      "https://hawksley.org/2025/01/08/past-present-future-of-UI-at-github.html"
+    ]
+  ],
+  [
+    [
       "2025-01-24, 21:32:51",
       "https://news.ycombinator.com/item?id=42817124"
     ],
@@ -47,16 +67,6 @@
     [
       "C++26: Pack Indexing",
       "https://www.sandordargo.com/blog/2025/01/22/cpp26-pack-indexing"
-    ]
-  ],
-  [
-    [
-      "2025-01-24, 18:49:10",
-      "https://news.ycombinator.com/item?id=42815956"
-    ],
-    [
-      "How is [my new] Type Predicate Generator different?",
-      "https://github.com/peter-leonov/type-predicate-generator/blob/main/compare.md"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2025-01-24, 13:34:46",
-      "https://news.ycombinator.com/item?id=42812859"
-    ],
-    [
-      "Lightpanda: Headless browser designed for AI and automation",
-      "https://github.com/lightpanda-io/browser"
-    ]
-  ],
-  [
-    [
       "2025-01-24, 13:21:41",
       "https://news.ycombinator.com/item?id=42812787"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2025-01-22, 10:37:04",
-      "https://news.ycombinator.com/item?id=42791310"
-    ],
-    [
-      "Data Branching for Batch Job Systems",
-      "https://isaacjordan.me/blog/2025/01/data-branching-for-batch-job-systems"
-    ]
-  ],
-  [
-    [
       "2025-01-22, 09:25:07",
       "https://news.ycombinator.com/item?id=42790820"
     ],
     [
       "Coping with dumb LLMs using classic ML",
       "https://softwaredoug.com/blog/2025/01/21/llm-judge-decision-tree"
+    ]
+  ],
+  [
+    [
+      "2025-01-21, 20:50:09",
+      "https://news.ycombinator.com/item?id=42785035"
+    ],
+    [
+      "Remembering Nan Shepherd",
+      "https://www.lrb.co.uk/the-paper/v47/n01/fraser-macdonald/diary"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-01-21, 03:07:07",
-      "https://news.ycombinator.com/item?id=42776029"
+      "2025-01-21, 12:21:24",
+      "https://news.ycombinator.com/item?id=42779317"
     ],
     [
-      "Show HN: Magenta.nvim – AI coding plugin for Neovim focused on tool use",
-      "https://github.com/dlants/magenta.nvim"
+      "Making my life easier with GADTs",
+      "https://acatalepsie.fr/posts/making-my-life-easier-with-gadts.html"
     ]
   ]
 ]
