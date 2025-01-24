@@ -47,6 +47,7 @@
 * [2025-01-22, 11:00:48](https://news.ycombinator.com/item?id=42791428) - [My Struggle with Doom Scrolling](https://allthatjazz.me/posts/doom-scrolling-struggles)
 * [2025-01-22, 09:54:25](https://news.ycombinator.com/item?id=42791036) - [I wrote my own \"proper\" programming language (2020)](https://mukulrathi.com/create-your-own-programming-language/intro-to-compiler/)
 * [2025-01-22, 09:34:50](https://news.ycombinator.com/item?id=42790902) - [Building a full-text search engine in 150 lines of Python code (2021)](https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/)
+* [2025-01-22, 09:25:07](https://news.ycombinator.com/item?id=42790820) - [Coping with dumb LLMs using classic ML](https://softwaredoug.com/blog/2025/01/21/llm-judge-decision-tree)
 * [2025-01-22, 09:12:25](https://news.ycombinator.com/item?id=42790729) - [The Day Instagram Blocked Democracy](https://docpop.org/2025/01/the-day-instagram-blocked-democracy/)
 * [2025-01-22, 08:45:13](https://news.ycombinator.com/item?id=42790536) - [How shutdown Bay Area tech companies ditch their fancy gear fast](https://www.sfgate.com/tech/article/silicon-valley-disposition-auction-company-20039023.php)
 * [2025-01-22, 07:53:28](https://news.ycombinator.com/item?id=42790207) - [DHS removes all members of cyber security advisory boards, halts investigations](https://bsky.app/profile/ericjgeller.com/post/3lgbpqmxeok2f)

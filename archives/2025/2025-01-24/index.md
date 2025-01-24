@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-24](index.md)
 
+* [2025-01-24, 07:55:01](https://news.ycombinator.com/item?id=42811332) - [Amazon UK to stop selling Bloomsbury's books](https://www.thebookseller.com/news/amazon-uk-to-stop-selling-bloomsburys-books)
 * [2025-01-24, 05:21:44](https://news.ycombinator.com/item?id=42810737) - [New Electrical Code Could Doom Most Common EV Charging](https://www.motortrend.com/news/national-electric-code-revision-threatens-ev-charging/)
 * [2025-01-24, 04:54:21](https://news.ycombinator.com/item?id=42810646) - [New Rust Jobs Site](https://www.RustDevFindJob.com)
 * [2025-01-24, 03:46:19](https://news.ycombinator.com/item?id=42810300) - [UI is hell: four-function calculators](https://lcamtuf.substack.com/p/ui-is-hell-four-function-calculators)
