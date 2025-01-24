@@ -15,6 +15,7 @@
 * [2025-01-23, 18:06:42](https://news.ycombinator.com/item?id=42806328) - [Llama.vim – Local LLM-assisted text completion](https://github.com/ggml-org/llama.vim)
 * [2025-01-23, 18:03:40](https://news.ycombinator.com/item?id=42806301) - [Operator research preview](https://openai.com/index/introducing-operator/)
 * [2025-01-23, 17:58:05](https://news.ycombinator.com/item?id=42806247) - [Thank HN: My bootstrapped startup got acquired today](https://news.ycombinator.com/item?id=42806247)
+* [2025-01-23, 16:29:18](https://news.ycombinator.com/item?id=42805431) - [TMSU: Command-line tool for applying tags and viewing virtual tagged filesystem](https://tmsu.org/)
 * [2025-01-23, 16:28:34](https://news.ycombinator.com/item?id=42805425) - [Working with Files Is Hard (2019)](https://danluu.com/deconstruct-files/)
 * [2025-01-23, 15:17:26](https://news.ycombinator.com/item?id=42804835) - [Bunster: Compile bash scripts to self contained executables](https://github.com/yassinebenaid/bunster)
 * [2025-01-23, 14:49:43](https://news.ycombinator.com/item?id=42804566) - [Psychedelic Graphics 0: Introduction](https://benpence.com/blog/post/psychedelic-graphics-0)
@@ -27,7 +28,6 @@
 * [2025-01-22, 09:34:50](https://news.ycombinator.com/item?id=42790902) - [Building a full-text search engine in 150 lines of Python code (2021)](https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/)
 * [2025-01-22, 08:45:13](https://news.ycombinator.com/item?id=42790536) - [How shut-down Bay Area tech companies ditch their fancy gear](https://www.sfgate.com/tech/article/silicon-valley-disposition-auction-company-20039023.php)
 * [2025-01-22, 05:34:15](https://news.ycombinator.com/item?id=42789372) - [Capacitors Meet Geometric Series](https://ivanbelenky.com/articles/capacitors)
-* [2025-01-21, 16:00:08](https://news.ycombinator.com/item?id=42781578) - [Find Your Footing After Installing Arch Linux](https://ejmastnak.com/tutorials/arch/about/)
 * [2025-01-21, 09:10:13](https://news.ycombinator.com/item?id=42777948) - [The Most Mario Colors](https://lmnt.me/blog/the-most-mario-colors.html)
 * [2025-01-21, 01:38:57](https://news.ycombinator.com/item?id=42775422) - [Compiler Fuzzing in Continuous Integration: A Case Study on Dafny [pdf]](https://www.doc.ic.ac.uk/~afd/papers/2025/ICST-Industry.pdf)
 
