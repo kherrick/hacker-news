@@ -7,6 +7,7 @@
 * [2025-01-24, 22:15:32](https://news.ycombinator.com/item?id=42817439) - [Show HN: Lightpanda, an open-source headless browser in Zig](https://github.com/lightpanda-io/browser)
 * [2025-01-24, 22:15:16](https://news.ycombinator.com/item?id=42817438) - [Show HN: Onit – open-source ChatGPT Desktop with local mode, Claude, Gemini](https://github.com/synth-inc/onit)
 * [2025-01-24, 22:08:05](https://news.ycombinator.com/item?id=42817388) - [Legalyze.ai: Review Medical Records with AI](https://www.legalyze.ai/)
+* [2025-01-24, 21:53:00](https://news.ycombinator.com/item?id=42817277) - [Trying out Zed after more than a decade of Vim/Neovim](https://sgoel.dev/posts/trying-out-zed-after-more-than-a-decade-of-vim-neovim/)
 * [2025-01-24, 21:44:33](https://news.ycombinator.com/item?id=42817212) - [FEMA May Be Eliminated](https://www.pbs.org/newshour/politics/watch-trump-says-hes-considering-getting-rid-of-fema-during-briefing-in-north-carolina)
 * [2025-01-24, 21:38:05](https://news.ycombinator.com/item?id=42817163) - [The Past, Present, and Future of UI at GitHub](https://hawksley.org/2025/01/08/past-present-future-of-UI-at-github.html)
 * [2025-01-24, 21:32:51](https://news.ycombinator.com/item?id=42817124) - [Looking for work is a full time job](https://www.resumevue.com/board)
