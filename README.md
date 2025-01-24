@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-24, 10:44:40](https://news.ycombinator.com/item?id=42811979) - [\"The Linux Phone You've Been Waiting For\"](https://liberux.net/#home)
 * [2025-01-24, 10:21:26](https://news.ycombinator.com/item?id=42811904) - [South Korea's Democracy Saved Itself (2024)](https://carnegieendowment.org/emissary/2024/12/south-korea-democracy-yoon-protests?lang=en)
 * [2025-01-24, 09:40:57](https://news.ycombinator.com/item?id=42811742) - [The Nix NGI Team: Advancing Open Source with Nix](https://discourse.nixos.org/t/nix-ngi-making-open-source-software-run-smoothly/59229)
 * [2025-01-24, 09:23:03](https://news.ycombinator.com/item?id=42811674) - [100% Unemployment: on keeping busy when the robots take over (2013)](https://hyponymo.us/2013/01/29/100-percent-unemployment/)
@@ -9,6 +8,7 @@
 * [2025-01-24, 03:46:19](https://news.ycombinator.com/item?id=42810300) - [UI is hell: four-function calculators](https://lcamtuf.substack.com/p/ui-is-hell-four-function-calculators)
 * [2025-01-24, 03:22:50](https://news.ycombinator.com/item?id=42810176) - [The State of Vim](https://lwn.net/Articles/1002342/)
 * [2025-01-24, 03:02:10](https://news.ycombinator.com/item?id=42810103) - [Weierstrass's Monster](https://www.quantamagazine.org/the-jagged-monstrous-function-that-broke-calculus-20250123/)
+* [2025-01-24, 02:28:10](https://news.ycombinator.com/item?id=42809990) - [Supercharge vector search with ColBERT rerank in PostgreSQL](https://blog.vectorchord.ai/supercharge-vector-search-with-colbert-rerank-in-postgresql)
 * [2025-01-24, 01:00:52](https://news.ycombinator.com/item?id=42809578) - [Sei (YC W22) Is Hiring](https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai)
 * [2025-01-23, 23:55:34](https://news.ycombinator.com/item?id=42809268) - [A QR code that sends you to a different destination – lenticular and adversarial](https://mstdn.social/@isziaui/113874436953157913)
 * [2025-01-23, 23:14:46](https://news.ycombinator.com/item?id=42809034) - [Disabling Zen 5's Op Cache and Exploring Its Clustered Decoder](https://chipsandcheese.com/p/disabling-zen-5s-op-cache-and-exploring)
