@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-24](index.md)
 
+* [2025-01-24, 05:21:44](https://news.ycombinator.com/item?id=42810737) - [New Electrical Code Could Doom Most Common EV Charging](https://www.motortrend.com/news/national-electric-code-revision-threatens-ev-charging/)
 * [2025-01-24, 03:46:19](https://news.ycombinator.com/item?id=42810300) - [UI is hell: four-function calculators](https://lcamtuf.substack.com/p/ui-is-hell-four-function-calculators)
 * [2025-01-24, 03:22:50](https://news.ycombinator.com/item?id=42810176) - [The State of Vim](https://lwn.net/Articles/1002342/)
 * [2025-01-24, 03:22:30](https://news.ycombinator.com/item?id=42810175) - [Ignore the Grifters – AI Isn't Going to Kill the Software Industry](https://dustinewers.com/ignore-the-grifters/)
