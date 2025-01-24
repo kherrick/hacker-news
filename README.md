@@ -22,12 +22,12 @@
 * [2025-01-24, 13:57:10](https://news.ycombinator.com/item?id=42813049) - [Every System is a Log: Avoiding coordination in distributed applications](https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/)
 * [2025-01-24, 13:21:41](https://news.ycombinator.com/item?id=42812787) - [Clapping Music for two flip-disc displays](https://hannahilea.com/blog/clapping-music-for-flip-disc-displays/)
 * [2025-01-24, 13:20:56](https://news.ycombinator.com/item?id=42812779) - [Ask HN: Why buy domains and 301 redirect them to me?](https://news.ycombinator.com/item?id=42812779)
-* [2025-01-24, 12:55:35](https://news.ycombinator.com/item?id=42812641) - [Build It Yourself](https://lucumr.pocoo.org/2025/1/24/build-it-yourself/)
 * [2025-01-24, 07:40:17](https://news.ycombinator.com/item?id=42811269) - [Tele-present wind – David Bowen](https://www.dwbowen.com/telepresent-wind)
 * [2025-01-24, 03:38:46](https://news.ycombinator.com/item?id=42810252) - [A phishing attack involving g.co, Google's URL shortener](https://gist.github.com/zachlatta/f86317493654b550c689dc6509973aa4)
 * [2025-01-22, 19:23:48](https://news.ycombinator.com/item?id=42796496) - [Show HN: Trolling SMS spammers with Ollama](https://evan.widloski.com/software/sms_llm/)
 * [2025-01-22, 12:12:37](https://news.ycombinator.com/item?id=42791906) - [Urban legend: I think there is a world market for maybe five computers](https://geekhistory.com/content/urban-legend-i-think-there-world-market-maybe-five-computers)
 * [2025-01-22, 11:13:47](https://news.ycombinator.com/item?id=42791500) - [A simplified analysis of the Chernobyl accident (2021)](https://www.epj-n.org/articles/epjn/full_html/2021/01/epjn200018/epjn200018.html)
+* [2025-01-22, 09:25:07](https://news.ycombinator.com/item?id=42790820) - [Coping with dumb LLMs using classic ML](https://softwaredoug.com/blog/2025/01/21/llm-judge-decision-tree)
 * [2025-01-21, 20:50:09](https://news.ycombinator.com/item?id=42785035) - [Remembering Nan Shepherd](https://www.lrb.co.uk/the-paper/v47/n01/fraser-macdonald/diary)
 * [2025-01-21, 17:33:52](https://news.ycombinator.com/item?id=42782872) - [Tilde, My LLVM Alternative](https://yasserarg.com/tb)
 
