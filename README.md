@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-24, 05:21:44](https://news.ycombinator.com/item?id=42810737) - [New Electrical Code Could Doom Most Common EV Charging](https://www.motortrend.com/news/national-electric-code-revision-threatens-ev-charging/)
+* [2025-01-24, 04:54:21](https://news.ycombinator.com/item?id=42810646) - [New Rust Jobs Site](https://www.RustDevFindJob.com)
 * [2025-01-24, 03:46:19](https://news.ycombinator.com/item?id=42810300) - [UI is hell: four-function calculators](https://lcamtuf.substack.com/p/ui-is-hell-four-function-calculators)
 * [2025-01-24, 03:22:50](https://news.ycombinator.com/item?id=42810176) - [The State of Vim](https://lwn.net/Articles/1002342/)
 * [2025-01-24, 03:02:10](https://news.ycombinator.com/item?id=42810103) - [Weierstrass's Monster](https://www.quantamagazine.org/the-jagged-monstrous-function-that-broke-calculus-20250123/)
@@ -10,7 +11,6 @@
 * [2025-01-23, 23:14:46](https://news.ycombinator.com/item?id=42809034) - [Disabling Zen 5's Op Cache and Exploring Its Clustered Decoder](https://chipsandcheese.com/p/disabling-zen-5s-op-cache-and-exploring)
 * [2025-01-23, 22:50:11](https://news.ycombinator.com/item?id=42808889) - [Surface-Stable Fractal Dithering](https://github.com/runevision/Dither3D)
 * [2025-01-23, 22:37:57](https://news.ycombinator.com/item?id=42808801) - [Susctl CVE-2024-54507: A particularly 'sus' sysctl in the XNU kernel](https://jprx.io/cve-2024-54507/)
-* [2025-01-23, 20:19:59](https://news.ycombinator.com/item?id=42807653) - [Morse Code in Tubular Bells (2021)](https://madpsy.uk/link-between-the-soundtrack-of-the-exorcist-and-amateur-radio/)
 * [2025-01-23, 18:34:38](https://news.ycombinator.com/item?id=42806616) - [Show HN: Open-source AI video editor](https://github.com/fal-ai-community/video-starter-kit)
 * [2025-01-23, 18:24:30](https://news.ycombinator.com/item?id=42806486) - [Building a Medieval Castle from Scratch](https://www.guedelon.fr/en/)
 * [2025-01-23, 18:06:42](https://news.ycombinator.com/item?id=42806328) - [Llama.vim – Local LLM-assisted text completion](https://github.com/ggml-org/llama.vim)
