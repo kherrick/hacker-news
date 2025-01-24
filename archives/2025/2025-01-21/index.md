@@ -33,6 +33,7 @@
 * [2025-01-21, 16:49:32](https://news.ycombinator.com/item?id=42782246) - [Show HN: SudokuVariants – play and construct different variants of Sudoku](https://sudokuvariants.com)
 * [2025-01-21, 16:25:25](https://news.ycombinator.com/item?id=42781922) - [Guided by the beauty of our test suite](https://www.mattkeeter.com/blog/2025-01-20-guided/)
 * [2025-01-21, 16:20:18](https://news.ycombinator.com/item?id=42781846) - [Concept Cells Help Your Brain Abstract Information and Build Memories](https://www.quantamagazine.org/concept-cells-help-your-brain-abstract-information-and-build-memories-20250121/)
+* [2025-01-21, 16:00:08](https://news.ycombinator.com/item?id=42781578) - [Find Your Footing After Installing Arch Linux](https://ejmastnak.com/tutorials/arch/about/)
 * [2025-01-21, 15:48:21](https://news.ycombinator.com/item?id=42781402) - [Stop making moves like a funded startup when you're bootstrapped](https://www.theinsightpad.com/blog/why-traditional-market-research-is-killing-your-startup)
 * [2025-01-21, 15:47:04](https://news.ycombinator.com/item?id=42781388) - [How many Alpine packages can you install at once? (2024)](https://www.naff.dev/blog/all-the-packages)
 * [2025-01-21, 15:39:52](https://news.ycombinator.com/item?id=42781293) - [Should We Use AI and LLMs for Christian Apologetics?](https://lukeplant.me.uk/blog/posts/should-we-use-llms-for-christian-apologetics/)
