@@ -2,7 +2,7 @@
 
 * [2025-01-24, 13:20:56](https://news.ycombinator.com/item?id=42812779) - [Ask HN: Why buy domains and 301 redirect them to me?](https://news.ycombinator.com/item?id=42812779)
 * [2025-01-24, 12:55:35](https://news.ycombinator.com/item?id=42812641) - [Build It Yourself](https://lucumr.pocoo.org/2025/1/24/build-it-yourself/)
-* [2025-01-24, 12:36:06](https://news.ycombinator.com/item?id=42812513) - [All federal agencies ordered to terminate remote work–ideally within 30 days](https://arstechnica.com/tech-policy/2025/01/all-federal-agencies-ordered-to-terminate-remote-work-ideally-within-30-days/)
+* [2025-01-24, 12:36:41](https://news.ycombinator.com/item?id=42812515) - [Court rules FBI's warrantless searches violated Fourth Amendment](https://arstechnica.com/tech-policy/2025/01/court-rules-fbis-warrantless-searches-violated-fourth-amendment/)
 * [2025-01-24, 09:40:57](https://news.ycombinator.com/item?id=42811742) - [The Nix NGI Team: Advancing Open Source with Nix](https://discourse.nixos.org/t/nix-ngi-making-open-source-software-run-smoothly/59229)
 * [2025-01-24, 08:36:27](https://news.ycombinator.com/item?id=42811502) - [Trae: AI Code Editor from ByteDance](https://www.trae.ai)
 * [2025-01-24, 06:03:42](https://news.ycombinator.com/item?id=42810865) - [Modular PC Design: Sustainable Approach Enhanced Repairability Reduced E-Waste](https://community.intel.com/t5/Blogs/Tech-Innovation/Client/Modular-PC-Design-A-Sustainable-Approach-for-Enhanced/post/1657681)
@@ -14,7 +14,6 @@
 * [2025-01-23, 23:14:46](https://news.ycombinator.com/item?id=42809034) - [Disabling Zen 5's Op Cache and Exploring Its Clustered Decoder](https://chipsandcheese.com/p/disabling-zen-5s-op-cache-and-exploring)
 * [2025-01-23, 22:50:11](https://news.ycombinator.com/item?id=42808889) - [Surface-Stable Fractal Dithering](https://github.com/runevision/Dither3D)
 * [2025-01-23, 22:37:57](https://news.ycombinator.com/item?id=42808801) - [Susctl CVE-2024-54507: A particularly 'sus' sysctl in the XNU kernel](https://jprx.io/cve-2024-54507/)
-* [2025-01-23, 18:34:38](https://news.ycombinator.com/item?id=42806616) - [Show HN: Open-source AI video editor](https://github.com/fal-ai-community/video-starter-kit)
 * [2025-01-23, 18:24:30](https://news.ycombinator.com/item?id=42806486) - [Building a Medieval Castle from Scratch](https://www.guedelon.fr/en/)
 * [2025-01-23, 18:06:42](https://news.ycombinator.com/item?id=42806328) - [Llama.vim – Local LLM-assisted text completion](https://github.com/ggml-org/llama.vim)
 * [2025-01-23, 18:03:40](https://news.ycombinator.com/item?id=42806301) - [Operator research preview](https://openai.com/index/introducing-operator/)
@@ -29,6 +28,7 @@
 * [2025-01-21, 14:33:29](https://news.ycombinator.com/item?id=42780490) - [A Cold War Satellite Program Called Parcae Revolutionized Signals Intelligence](https://spectrum.ieee.org/reconnaissance-satellite)
 * [2025-01-21, 12:17:51](https://news.ycombinator.com/item?id=42779293) - [Impact of Low Temperatures on the 5nm SRAM Array Size and Performance](https://semiengineering.com/impact-of-extremely-low-temperatures-on-the-5nm-sram-array-size-and-performance/)
 * [2025-01-21, 09:10:13](https://news.ycombinator.com/item?id=42777948) - [The Most Mario Colors](https://lmnt.me/blog/the-most-mario-colors.html)
+* [2025-01-20, 23:13:29](https://news.ycombinator.com/item?id=42774291) - [The importance of favicons in website OSINT research](https://www.osintme.com/index.php/2025/01/20/the-importance-of-favicons-in-website-osint-research/)
 * [2025-01-20, 18:13:52](https://news.ycombinator.com/item?id=42771414) - [Make your chair rotate in VR](https://skarredghost.com/2025/01/20/roto-vr-hands-on-impressions/)
 
 ## [Archives](archives/index.md)

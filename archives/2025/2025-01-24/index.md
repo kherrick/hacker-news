@@ -6,6 +6,7 @@
 
 * [2025-01-24, 13:20:56](https://news.ycombinator.com/item?id=42812779) - [Ask HN: Why buy domains and 301 redirect them to me?](https://news.ycombinator.com/item?id=42812779)
 * [2025-01-24, 12:55:35](https://news.ycombinator.com/item?id=42812641) - [Build It Yourself](https://lucumr.pocoo.org/2025/1/24/build-it-yourself/)
+* [2025-01-24, 12:36:41](https://news.ycombinator.com/item?id=42812515) - [Court rules FBI's warrantless searches violated Fourth Amendment](https://arstechnica.com/tech-policy/2025/01/court-rules-fbis-warrantless-searches-violated-fourth-amendment/)
 * [2025-01-24, 12:36:06](https://news.ycombinator.com/item?id=42812513) - [All federal agencies ordered to terminate remote work–ideally within 30 days](https://arstechnica.com/tech-policy/2025/01/all-federal-agencies-ordered-to-terminate-remote-work-ideally-within-30-days/)
 * [2025-01-24, 11:40:35](https://news.ycombinator.com/item?id=42812203) - [We Need to Talk About Docker Hub](https://www.linuxserver.io/blog/we-need-to-talk-about-docker-hub)
 * [2025-01-24, 10:44:40](https://news.ycombinator.com/item?id=42811979) - [\"The Linux Phone You've Been Waiting For\"](https://liberux.net/#home)
