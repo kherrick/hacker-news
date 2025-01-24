@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-24, 05:21:44",
+      "https://news.ycombinator.com/item?id=42810737"
+    ],
+    [
+      "New Electrical Code Could Doom Most Common EV Charging",
+      "https://www.motortrend.com/news/national-electric-code-revision-threatens-ev-charging/"
+    ]
+  ],
+  [
+    [
       "2025-01-24, 03:46:19",
       "https://news.ycombinator.com/item?id=42810300"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2025-01-23, 16:29:18",
-      "https://news.ycombinator.com/item?id=42805431"
-    ],
-    [
-      "TMSU: Command-line tool for applying tags and viewing virtual tagged filesystem",
-      "https://tmsu.org/"
-    ]
-  ],
-  [
-    [
       "2025-01-23, 16:28:34",
       "https://news.ycombinator.com/item?id=42805425"
     ],
@@ -197,16 +197,6 @@
     [
       "Psychedelic Graphics 0: Introduction",
       "https://benpence.com/blog/post/psychedelic-graphics-0"
-    ]
-  ],
-  [
-    [
-      "2025-01-23, 14:38:09",
-      "https://news.ycombinator.com/item?id=42804434"
-    ],
-    [
-      "Turn any bicycle electric",
-      "https://dhruvvidyut.co.in/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "LoongArch64 Subjective Higlights",
       "http://0x80.pl/notesen/2025-01-21-loongarch64-highlights.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-22, 09:34:50",
+      "https://news.ycombinator.com/item?id=42790902"
+    ],
+    [
+      "Building a full-text search engine in 150 lines of Python code (2021)",
+      "https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/"
     ]
   ],
   [
