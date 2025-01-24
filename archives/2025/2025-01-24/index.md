@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-24](index.md)
 
+* [2025-01-24, 19:27:19](https://news.ycombinator.com/item?id=42816207) - [C++26: Pack Indexing](https://www.sandordargo.com/blog/2025/01/22/cpp26-pack-indexing)
 * [2025-01-24, 18:58:11](https://news.ycombinator.com/item?id=42816028) - [Kubestatus: Open source tool to easily add status page to your K8s cluster](https://github.com/soub4i/kubestatus-operator)
 * [2025-01-24, 18:49:10](https://news.ycombinator.com/item?id=42815956) - [How is [my new] Type Predicate Generator different?](https://github.com/peter-leonov/type-predicate-generator/blob/main/compare.md)
 * [2025-01-24, 18:19:35](https://news.ycombinator.com/item?id=42815755) - [Anatomy of a Formal Proof](https://www.ams.org/journals/notices/202502/noti3114/noti3114.html)
@@ -12,6 +13,7 @@
 * [2025-01-24, 16:51:16](https://news.ycombinator.com/item?id=42814948) - [A WebAssembly compiler that fits in a tweet](https://wasmgroundup.com/blog/wasm-compiler-in-a-tweet/)
 * [2025-01-24, 16:40:11](https://news.ycombinator.com/item?id=42814820) - [Snowdrop OS – a homebrew operating system from scratch, in assembly language](http://sebastianmihai.com/snowdrop/)
 * [2025-01-24, 16:25:53](https://news.ycombinator.com/item?id=42814683) - [Wild – A Fast Linker for Linux](https://github.com/davidlattimore/wild)
+* [2025-01-24, 16:04:09](https://news.ycombinator.com/item?id=42814431) - [Life expectancy/years of life lost in adults w ADHD in UK: matched cohort study](https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/life-expectancy-and-years-of-life-lost-for-adults-with-diagnosed-adhd-in-the-uk-matched-cohort-study/30B8B109DF2BB33CC51F72FD1C953739)
 * [2025-01-24, 15:50:23](https://news.ycombinator.com/item?id=42814275) - [New Book-Sorting Algorithm Almost Reaches Perfection](https://www.quantamagazine.org/new-book-sorting-algorithm-almost-reaches-perfection-20250124/)
 * [2025-01-24, 15:37:07](https://news.ycombinator.com/item?id=42814110) - [Show HN: Cs16.css – CSS library based on CS 1.6 UI](https://cs16.samke.me)
 * [2025-01-24, 14:51:33](https://news.ycombinator.com/item?id=42813513) - [How I Use Home Assistant in 2025](https://vpetersson.com/2025/01/22/how-i-use-home-assistant-in-2025.html)

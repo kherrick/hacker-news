@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-24, 19:27:19](https://news.ycombinator.com/item?id=42816207) - [C++26: Pack Indexing](https://www.sandordargo.com/blog/2025/01/22/cpp26-pack-indexing)
 * [2025-01-24, 18:49:10](https://news.ycombinator.com/item?id=42815956) - [How is [my new] Type Predicate Generator different?](https://github.com/peter-leonov/type-predicate-generator/blob/main/compare.md)
 * [2025-01-24, 18:19:35](https://news.ycombinator.com/item?id=42815755) - [Anatomy of a Formal Proof](https://www.ams.org/journals/notices/202502/noti3114/noti3114.html)
 * [2025-01-24, 17:21:44](https://news.ycombinator.com/item?id=42815288) - [Subpixel Snake](https://www.youtube.com/watch?v=iDwganLjpW0)
@@ -7,6 +8,7 @@
 * [2025-01-24, 16:51:16](https://news.ycombinator.com/item?id=42814948) - [A WebAssembly compiler that fits in a tweet](https://wasmgroundup.com/blog/wasm-compiler-in-a-tweet/)
 * [2025-01-24, 16:40:11](https://news.ycombinator.com/item?id=42814820) - [Snowdrop OS – a homebrew operating system from scratch, in assembly language](http://sebastianmihai.com/snowdrop/)
 * [2025-01-24, 16:25:53](https://news.ycombinator.com/item?id=42814683) - [Wild – A Fast Linker for Linux](https://github.com/davidlattimore/wild)
+* [2025-01-24, 16:04:09](https://news.ycombinator.com/item?id=42814431) - [Life expectancy/years of life lost in adults w ADHD in UK: matched cohort study](https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/life-expectancy-and-years-of-life-lost-for-adults-with-diagnosed-adhd-in-the-uk-matched-cohort-study/30B8B109DF2BB33CC51F72FD1C953739)
 * [2025-01-24, 15:50:23](https://news.ycombinator.com/item?id=42814275) - [New Book-Sorting Algorithm Almost Reaches Perfection](https://www.quantamagazine.org/new-book-sorting-algorithm-almost-reaches-perfection-20250124/)
 * [2025-01-24, 15:37:07](https://news.ycombinator.com/item?id=42814110) - [Show HN: Cs16.css – CSS library based on CS 1.6 UI](https://cs16.samke.me)
 * [2025-01-24, 14:21:59](https://news.ycombinator.com/item?id=42813264) - [Threlte 8](https://threlte.xyz/blog/threlte-8)
@@ -15,7 +17,6 @@
 * [2025-01-24, 13:34:46](https://news.ycombinator.com/item?id=42812859) - [Lightpanda: The headless browser designed for AI and automation](https://github.com/lightpanda-io/browser)
 * [2025-01-24, 08:19:52](https://news.ycombinator.com/item?id=42811435) - [Eki Bright – The Case for DIY Routing](https://twocentstudios.com/2025/01/24/eki-bright-the-case-for-diy-routing/)
 * [2025-01-24, 07:40:17](https://news.ycombinator.com/item?id=42811269) - [Tele-present wind – David Bowen](https://www.dwbowen.com/telepresent-wind)
-* [2025-01-24, 03:46:19](https://news.ycombinator.com/item?id=42810300) - [UI is hell: four-function calculators](https://lcamtuf.substack.com/p/ui-is-hell-four-function-calculators)
 * [2025-01-24, 03:02:10](https://news.ycombinator.com/item?id=42810103) - [Weierstrass's Monster](https://www.quantamagazine.org/the-jagged-monstrous-function-that-broke-calculus-20250123/)
 * [2025-01-23, 23:55:34](https://news.ycombinator.com/item?id=42809268) - [A QR code that sends you to a different destination – lenticular and adversarial](https://mstdn.social/@isziaui/113874436953157913)
 * [2025-01-23, 18:06:42](https://news.ycombinator.com/item?id=42806328) - [Llama.vim – Local LLM-assisted text completion](https://github.com/ggml-org/llama.vim)
@@ -28,7 +29,6 @@
 * [2025-01-21, 09:10:13](https://news.ycombinator.com/item?id=42777948) - [The Most Mario Colors](https://lmnt.me/blog/the-most-mario-colors.html)
 * [2025-01-21, 03:07:07](https://news.ycombinator.com/item?id=42776029) - [Show HN: Magenta.nvim – AI coding plugin for Neovim focused on tool use](https://github.com/dlants/magenta.nvim)
 * [2025-01-20, 23:13:29](https://news.ycombinator.com/item?id=42774291) - [The importance of favicons in website OSINT research](https://www.osintme.com/index.php/2025/01/20/the-importance-of-favicons-in-website-osint-research/)
-* [2025-01-20, 20:02:52](https://news.ycombinator.com/item?id=42772474) - [The color and color-patterns of moths and butterflies (1897)](https://publicdomainreview.org/collection/mayer-color-patterns/)
 * [2025-01-19, 16:52:44](https://news.ycombinator.com/item?id=42758714) - [Masters of Allusion: The Art of Poetic Reference](https://www.nytimes.com/2025/01/16/books/review/on-poetry-allusions-and-quotations.html)
 
 ## [Archives](archives/index.md)
