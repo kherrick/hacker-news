@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-24, 03:22:30](https://news.ycombinator.com/item?id=42810175) - [Ignore the Grifters – AI Isn't Going to Kill the Software Industry](https://dustinewers.com/ignore-the-grifters/)
-* [2025-01-24, 03:06:23](https://news.ycombinator.com/item?id=42810115) - [New Tesla Model Y](https://www.tesla.com/modely)
 * [2025-01-24, 02:28:10](https://news.ycombinator.com/item?id=42809990) - [Supercharge vector search with ColBERT rerank in PostgreSQL](https://blog.vectorchord.ai/supercharge-vector-search-with-colbert-rerank-in-postgresql)
 * [2025-01-24, 02:03:43](https://news.ycombinator.com/item?id=42809895) - [Ergodic Lagrangian dynamics in a superhero universe](https://pubs.aip.org/aapt/ajp/article/93/2/127/3331568/Ergodic-Lagrangian-dynamics-in-a-superhero)
 * [2025-01-24, 01:00:52](https://news.ycombinator.com/item?id=42809578) - [Sei (YC W22) Is Hiring](https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai)
@@ -14,6 +13,7 @@
 * [2025-01-23, 18:34:38](https://news.ycombinator.com/item?id=42806616) - [Show HN: Open-source AI video editor](https://github.com/fal-ai-community/video-starter-kit)
 * [2025-01-23, 18:24:30](https://news.ycombinator.com/item?id=42806486) - [Building a Medieval Castle from Scratch](https://www.guedelon.fr/en/)
 * [2025-01-23, 18:06:42](https://news.ycombinator.com/item?id=42806328) - [Llama.vim – Local LLM-assisted text completion](https://github.com/ggml-org/llama.vim)
+* [2025-01-23, 18:03:40](https://news.ycombinator.com/item?id=42806301) - [Operator research preview](https://openai.com/index/introducing-operator/)
 * [2025-01-23, 17:58:05](https://news.ycombinator.com/item?id=42806247) - [Thank HN: My bootstrapped startup got acquired today](https://news.ycombinator.com/item?id=42806247)
 * [2025-01-23, 17:44:07](https://news.ycombinator.com/item?id=42806105) - [Results of \"Humanity's Last Exam\" benchmark published](https://scale.com/blog/humanitys-last-exam-results)
 * [2025-01-23, 16:29:18](https://news.ycombinator.com/item?id=42805431) - [TMSU: Command-line tool for applying tags and viewing virtual tagged filesystem](https://tmsu.org/)
