@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-24, 23:04:13](https://news.ycombinator.com/item?id=42817802) - [Vic-20 Elite](https://vic20elite.wordpress.com/)
 * [2025-01-24, 22:24:08](https://news.ycombinator.com/item?id=42817514) - [Nuclear Proliferation and the \"Nth Country Experiment\"](https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2025-01-23/nuclear-proliferation-and-nth-country-experiment)
 * [2025-01-24, 22:15:32](https://news.ycombinator.com/item?id=42817439) - [Show HN: Lightpanda, an open-source headless browser in Zig](https://github.com/lightpanda-io/browser)
 * [2025-01-24, 22:15:16](https://news.ycombinator.com/item?id=42817438) - [Show HN: Onit – open-source ChatGPT Desktop with local mode, Claude, Gemini](https://github.com/synth-inc/onit)
@@ -8,7 +9,6 @@
 * [2025-01-24, 21:38:05](https://news.ycombinator.com/item?id=42817163) - [The past, present, and future of UI at GitHub](https://hawksley.org/2025/01/08/past-present-future-of-UI-at-github.html)
 * [2025-01-24, 19:56:31](https://news.ycombinator.com/item?id=42816418) - [A very Chicago gamble](https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/)
 * [2025-01-24, 19:48:51](https://news.ycombinator.com/item?id=42816359) - [The hidden complexity of scaling WebSockets](https://composehq.com/blog/scaling-websockets-1-23-25)
-* [2025-01-24, 19:27:19](https://news.ycombinator.com/item?id=42816207) - [C++26: Pack Indexing](https://www.sandordargo.com/blog/2025/01/22/cpp26-pack-indexing)
 * [2025-01-24, 18:19:35](https://news.ycombinator.com/item?id=42815755) - [Anatomy of a Formal Proof](https://www.ams.org/journals/notices/202502/noti3114/noti3114.html)
 * [2025-01-24, 17:21:44](https://news.ycombinator.com/item?id=42815288) - [Subpixel Snake [video]](https://www.youtube.com/watch?v=iDwganLjpW0)
 * [2025-01-24, 17:00:37](https://news.ycombinator.com/item?id=42815073) - [Converge (YC S23) is hiring engineer #2 in NYC](https://jobs.gem.com/converge/am9icG9zdDreA6I3WJ4ZJ1Yx_WHS5zKP)
