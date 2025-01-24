@@ -2,14 +2,10 @@
 
 * [2025-01-24, 14:27:47](https://news.ycombinator.com/item?id=42813316) - [Bluesky's science takeover: 70% of Nature poll respondents use platform](https://www.nature.com/articles/d41586-025-00177-1)
 * [2025-01-24, 13:57:10](https://news.ycombinator.com/item?id=42813049) - [Every System is a Log: Avoiding coordination in distributed applications](https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/)
-* [2025-01-24, 13:20:56](https://news.ycombinator.com/item?id=42812779) - [Ask HN: Why buy domains and 301 redirect them to me?](https://news.ycombinator.com/item?id=42812779)
-* [2025-01-24, 12:55:35](https://news.ycombinator.com/item?id=42812641) - [Build It Yourself](https://lucumr.pocoo.org/2025/1/24/build-it-yourself/)
-* [2025-01-24, 11:40:35](https://news.ycombinator.com/item?id=42812203) - [We Need to Talk About Docker Hub](https://www.linuxserver.io/blog/we-need-to-talk-about-docker-hub)
 * [2025-01-24, 05:21:44](https://news.ycombinator.com/item?id=42810737) - [New electrical code could doom most common EV charging](https://www.motortrend.com/news/national-electric-code-revision-threatens-ev-charging/)
 * [2025-01-24, 03:46:19](https://news.ycombinator.com/item?id=42810300) - [UI is hell: four-function calculators](https://lcamtuf.substack.com/p/ui-is-hell-four-function-calculators)
 * [2025-01-24, 03:02:10](https://news.ycombinator.com/item?id=42810103) - [Weierstrass's Monster](https://www.quantamagazine.org/the-jagged-monstrous-function-that-broke-calculus-20250123/)
 * [2025-01-24, 02:28:10](https://news.ycombinator.com/item?id=42809990) - [Supercharge vector search with ColBERT rerank in PostgreSQL](https://blog.vectorchord.ai/supercharge-vector-search-with-colbert-rerank-in-postgresql)
-* [2025-01-24, 01:00:52](https://news.ycombinator.com/item?id=42809578) - [Sei (YC W22) Is Hiring](https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai)
 * [2025-01-23, 23:55:34](https://news.ycombinator.com/item?id=42809268) - [A QR code that sends you to a different destination – lenticular and adversarial](https://mstdn.social/@isziaui/113874436953157913)
 * [2025-01-23, 23:14:46](https://news.ycombinator.com/item?id=42809034) - [Disabling Zen 5's Op Cache and Exploring Its Clustered Decoder](https://chipsandcheese.com/p/disabling-zen-5s-op-cache-and-exploring)
 * [2025-01-23, 22:50:11](https://news.ycombinator.com/item?id=42808889) - [Surface-Stable Fractal Dithering](https://github.com/runevision/Dither3D)
@@ -21,6 +17,7 @@
 * [2025-01-23, 17:58:05](https://news.ycombinator.com/item?id=42806247) - [Thank HN: My bootstrapped startup got acquired today](https://news.ycombinator.com/item?id=42806247)
 * [2025-01-23, 14:49:43](https://news.ycombinator.com/item?id=42804566) - [Psychedelic Graphics 0: Introduction](https://benpence.com/blog/post/psychedelic-graphics-0)
 * [2025-01-23, 12:22:19](https://news.ycombinator.com/item?id=42803279) - [Hacking Subaru: Tracking and controlling cars via the admin panel](https://samcurry.net/hacking-subaru)
+* [2025-01-23, 05:07:35](https://news.ycombinator.com/item?id=42800893) - [Show HN: I built an active community of trans people online](https://t4t.social/)
 * [2025-01-22, 20:41:52](https://news.ycombinator.com/item?id=42797260) - [Show HN: I made an open-source laptop from scratch](https://www.byran.ee/posts/creation/)
 * [2025-01-22, 09:54:25](https://news.ycombinator.com/item?id=42791036) - [I wrote my own “proper” programming language (2020)](https://mukulrathi.com/create-your-own-programming-language/intro-to-compiler/)
 * [2025-01-22, 09:34:50](https://news.ycombinator.com/item?id=42790902) - [Building a full-text search engine in 150 lines of Python code (2021)](https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/)
@@ -29,7 +26,10 @@
 * [2025-01-21, 14:33:29](https://news.ycombinator.com/item?id=42780490) - [A Cold War Satellite Program Called Parcae Revolutionized Signals Intelligence](https://spectrum.ieee.org/reconnaissance-satellite)
 * [2025-01-21, 12:17:51](https://news.ycombinator.com/item?id=42779293) - [Impact of Low Temperatures on the 5nm SRAM Array Size and Performance](https://semiengineering.com/impact-of-extremely-low-temperatures-on-the-5nm-sram-array-size-and-performance/)
 * [2025-01-21, 09:10:13](https://news.ycombinator.com/item?id=42777948) - [The Most Mario Colors](https://lmnt.me/blog/the-most-mario-colors.html)
+* [2025-01-21, 03:07:07](https://news.ycombinator.com/item?id=42776029) - [Magenta.nvim – an AI coding assistant plugin for Neovim focused on tool use](https://github.com/dlants/magenta.nvim)
 * [2025-01-20, 23:13:29](https://news.ycombinator.com/item?id=42774291) - [The importance of favicons in website OSINT research](https://www.osintme.com/index.php/2025/01/20/the-importance-of-favicons-in-website-osint-research/)
+* [2025-01-20, 20:02:52](https://news.ycombinator.com/item?id=42772474) - [The color and color-patterns of moths and butterflies (1897)](https://publicdomainreview.org/collection/mayer-color-patterns/)
+* [2025-01-19, 16:52:44](https://news.ycombinator.com/item?id=42758714) - [Masters of Allusion: The Art of Poetic Reference](https://www.nytimes.com/2025/01/16/books/review/on-poetry-allusions-and-quotations.html)
 
 ## [Archives](archives/index.md)
 

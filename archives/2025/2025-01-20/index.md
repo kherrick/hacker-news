@@ -20,6 +20,7 @@
 * [2025-01-20, 20:48:15](https://news.ycombinator.com/item?id=42772884) - [The Missing Mentoring Pillar](https://blog.sigplan.org/2025/01/13/the-missing-mentoring-pillar/)
 * [2025-01-20, 20:38:08](https://news.ycombinator.com/item?id=42772771) - [Authors Seek Meta's Torrent Client Logs and Seeding Data in AI Piracy Probe](https://torrentfreak.com/authors-seek-metas-torrent-client-logs-and-seeding-data-in-ai-piracy-probe-250120/)
 * [2025-01-20, 20:06:55](https://news.ycombinator.com/item?id=42772518) - [The Making of Community Notes (2024)](https://asteriskmag.com/issues/08/the-making-of-community-notes)
+* [2025-01-20, 20:02:52](https://news.ycombinator.com/item?id=42772474) - [The color and color-patterns of moths and butterflies (1897)](https://publicdomainreview.org/collection/mayer-color-patterns/)
 * [2025-01-20, 19:45:35](https://news.ycombinator.com/item?id=42772300) - [After Authenticity](https://subpixel.space/entries/after-authenticity/)
 * [2025-01-20, 19:38:45](https://news.ycombinator.com/item?id=42772247) - [Viagra-laced 'erectile honey' is flooding into France, officials warn](https://www.politico.eu/article/france-warns-of-viagra-laced-erectile-honey-flooding-into-the-country/)
 * [2025-01-20, 19:31:03](https://news.ycombinator.com/item?id=42772170) - [ROCm Device Support Wishlist #4276](https://github.com/ROCm/ROCm/discussions/4276)
