@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-24, 11:40:35",
+      "https://news.ycombinator.com/item?id=42812203"
+    ],
+    [
+      "We Need to Talk About Docker Hub",
+      "https://www.linuxserver.io/blog/we-need-to-talk-about-docker-hub"
+    ]
+  ],
+  [
+    [
       "2025-01-24, 10:21:26",
       "https://news.ycombinator.com/item?id=42811904"
     ],
@@ -17,16 +27,6 @@
     [
       "The Nix NGI Team: Advancing Open Source with Nix",
       "https://discourse.nixos.org/t/nix-ngi-making-open-source-software-run-smoothly/59229"
-    ]
-  ],
-  [
-    [
-      "2025-01-24, 09:23:03",
-      "https://news.ycombinator.com/item?id=42811674"
-    ],
-    [
-      "100% Unemployment: on keeping busy when the robots take over (2013)",
-      "https://hyponymo.us/2013/01/29/100-percent-unemployment/"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-01-22, 11:07:45",
-      "https://news.ycombinator.com/item?id=42791465"
-    ],
-    [
-      "LoongArch64 Subjective Higlights",
-      "http://0x80.pl/notesen/2025-01-21-loongarch64-highlights.html"
-    ]
-  ],
-  [
-    [
       "2025-01-22, 09:54:25",
       "https://news.ycombinator.com/item?id=42791036"
     ],
@@ -297,6 +287,16 @@
     [
       "The Most Mario Colors",
       "https://lmnt.me/blog/the-most-mario-colors.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-20, 18:13:52",
+      "https://news.ycombinator.com/item?id=42771414"
+    ],
+    [
+      "Make your chair rotate in VR",
+      "https://skarredghost.com/2025/01/20/roto-vr-hands-on-impressions/"
     ]
   ]
 ]
