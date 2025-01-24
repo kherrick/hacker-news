@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-24, 14:27:47",
+      "https://news.ycombinator.com/item?id=42813316"
+    ],
+    [
+      "Bluesky's science takeover: 70% of Nature poll respondents use platform",
+      "https://www.nature.com/articles/d41586-025-00177-1"
+    ]
+  ],
+  [
+    [
       "2025-01-24, 13:57:10",
       "https://news.ycombinator.com/item?id=42813049"
     ],
@@ -31,52 +41,32 @@
   ],
   [
     [
-      "2025-01-24, 12:36:41",
-      "https://news.ycombinator.com/item?id=42812515"
+      "2025-01-24, 11:40:35",
+      "https://news.ycombinator.com/item?id=42812203"
     ],
     [
-      "Court rules FBI's warrantless searches violated Fourth Amendment",
-      "https://arstechnica.com/tech-policy/2025/01/court-rules-fbis-warrantless-searches-violated-fourth-amendment/"
+      "We Need to Talk About Docker Hub",
+      "https://www.linuxserver.io/blog/we-need-to-talk-about-docker-hub"
     ]
   ],
   [
     [
-      "2025-01-24, 09:40:57",
-      "https://news.ycombinator.com/item?id=42811742"
+      "2025-01-24, 05:21:44",
+      "https://news.ycombinator.com/item?id=42810737"
     ],
     [
-      "The Nix NGI Team: Advancing Open Source with Nix",
-      "https://discourse.nixos.org/t/nix-ngi-making-open-source-software-run-smoothly/59229"
+      "New electrical code could doom most common EV charging",
+      "https://www.motortrend.com/news/national-electric-code-revision-threatens-ev-charging/"
     ]
   ],
   [
     [
-      "2025-01-24, 08:36:27",
-      "https://news.ycombinator.com/item?id=42811502"
+      "2025-01-24, 03:46:19",
+      "https://news.ycombinator.com/item?id=42810300"
     ],
     [
-      "Trae: AI Code Editor from ByteDance",
-      "https://www.trae.ai"
-    ]
-  ],
-  [
-    [
-      "2025-01-24, 06:03:42",
-      "https://news.ycombinator.com/item?id=42810865"
-    ],
-    [
-      "Modular PC Design: Sustainable Approach Enhanced Repairability Reduced E-Waste",
-      "https://community.intel.com/t5/Blogs/Tech-Innovation/Client/Modular-PC-Design-A-Sustainable-Approach-for-Enhanced/post/1657681"
-    ]
-  ],
-  [
-    [
-      "2025-01-24, 03:22:50",
-      "https://news.ycombinator.com/item?id=42810176"
-    ],
-    [
-      "The State of Vim",
-      "https://lwn.net/Articles/1002342/"
+      "UI is hell: four-function calculators",
+      "https://lcamtuf.substack.com/p/ui-is-hell-four-function-calculators"
     ]
   ],
   [
@@ -87,6 +77,16 @@
     [
       "Weierstrass's Monster",
       "https://www.quantamagazine.org/the-jagged-monstrous-function-that-broke-calculus-20250123/"
+    ]
+  ],
+  [
+    [
+      "2025-01-24, 02:28:10",
+      "https://news.ycombinator.com/item?id=42809990"
+    ],
+    [
+      "Supercharge vector search with ColBERT rerank in PostgreSQL",
+      "https://blog.vectorchord.ai/supercharge-vector-search-with-colbert-rerank-in-postgresql"
     ]
   ],
   [
@@ -137,6 +137,16 @@
     [
       "Susctl CVE-2024-54507: A particularly 'sus' sysctl in the XNU kernel",
       "https://jprx.io/cve-2024-54507/"
+    ]
+  ],
+  [
+    [
+      "2025-01-23, 18:34:38",
+      "https://news.ycombinator.com/item?id=42806616"
+    ],
+    [
+      "Show HN: Open-source AI video editor",
+      "https://github.com/fal-ai-community/video-starter-kit"
     ]
   ],
   [
@@ -215,7 +225,7 @@
       "https://news.ycombinator.com/item?id=42791036"
     ],
     [
-      "I wrote my own \"proper\" programming language (2020)",
+      "I wrote my own “proper” programming language (2020)",
       "https://mukulrathi.com/create-your-own-programming-language/intro-to-compiler/"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "The Most Mario Colors",
       "https://lmnt.me/blog/the-most-mario-colors.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-21, 07:55:31",
-      "https://news.ycombinator.com/item?id=42777563"
-    ],
-    [
-      "Plausible Fiction – David Spivak",
-      "https://topos.institute/blog/2024-08-27-plausible-fiction/"
     ]
   ],
   [
