@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-01-24, 01:00:52",
+      "https://news.ycombinator.com/item?id=42809578"
+    ],
+    [
+      "Sei (YC W22) Is Hiring",
+      "https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai"
+    ]
+  ],
+  [
+    [
+      "2025-01-23, 23:55:34",
+      "https://news.ycombinator.com/item?id=42809268"
+    ],
+    [
+      "A QR code that sends you to a different destination - lenticular and adversarial",
+      "https://mstdn.social/@isziaui/113874436953157913"
+    ]
+  ],
+  [
+    [
+      "2025-01-23, 23:14:46",
+      "https://news.ycombinator.com/item?id=42809034"
+    ],
+    [
+      "Disabling Zen 5's Op Cache and Exploring Its Clustered Decoder",
+      "https://chipsandcheese.com/p/disabling-zen-5s-op-cache-and-exploring"
+    ]
+  ],
+  [
+    [
       "2025-01-23, 22:50:11",
       "https://news.ycombinator.com/item?id=42808889"
     ],
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2025-01-23, 17:00:58",
-      "https://news.ycombinator.com/item?id=42805699"
-    ],
-    [
-      "Intrinsic (YC W23) Is Hiring",
-      "https://news.ycombinator.com/item?id=42805699"
-    ]
-  ],
-  [
-    [
       "2025-01-23, 16:29:18",
       "https://news.ycombinator.com/item?id=42805431"
     ],
@@ -137,16 +157,6 @@
     [
       "Orbit Spirograph (2019)",
       "https://www.redblobgames.com/x/1903-orbit-spirograph/"
-    ]
-  ],
-  [
-    [
-      "2025-01-23, 15:30:12",
-      "https://news.ycombinator.com/item?id=42804961"
-    ],
-    [
-      "Show HN: libmodulor – An opinionated TS library to build multi-platform apps",
-      "https://github.com/c100k/libmodulor"
     ]
   ],
   [
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2025-01-22, 20:08:57",
-      "https://news.ycombinator.com/item?id=42796950"
+      "2025-01-22, 05:34:15",
+      "https://news.ycombinator.com/item?id=42789372"
     ],
     [
-      "How to improve your WFH lighting to reduce eye strain",
-      "https://rustle.ca/posts/articles/work-from-home-lighting"
+      "Capacitors Meet Geometric Series",
+      "https://ivanbelenky.com/articles/capacitors"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Show HN: Chat with multiple LLMs: o1-high-effort, Sonnet 3.5, GPT-4o, and more",
       "https://polychat.co"
-    ]
-  ],
-  [
-    [
-      "2025-01-21, 14:15:12",
-      "https://news.ycombinator.com/item?id=42780271"
-    ],
-    [
-      "Wol: Wake up your devices with a single command or click",
-      "https://github.com/Trugamr/wol"
     ]
   ],
   [
