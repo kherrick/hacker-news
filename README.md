@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-24, 02:03:43](https://news.ycombinator.com/item?id=42809895) - [Ergodic Lagrangian dynamics in a superhero universe](https://pubs.aip.org/aapt/ajp/article/93/2/127/3331568/Ergodic-Lagrangian-dynamics-in-a-superhero)
 * [2025-01-24, 01:00:52](https://news.ycombinator.com/item?id=42809578) - [Sei (YC W22) Is Hiring](https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai)
 * [2025-01-23, 23:55:34](https://news.ycombinator.com/item?id=42809268) - [A QR code that sends you to a different destination - lenticular and adversarial](https://mstdn.social/@isziaui/113874436953157913)
 * [2025-01-23, 23:14:46](https://news.ycombinator.com/item?id=42809034) - [Disabling Zen 5's Op Cache and Exploring Its Clustered Decoder](https://chipsandcheese.com/p/disabling-zen-5s-op-cache-and-exploring)
@@ -10,7 +11,6 @@
 * [2025-01-23, 18:34:38](https://news.ycombinator.com/item?id=42806616) - [Show HN: Open-source AI video editor](https://github.com/fal-ai-community/video-starter-kit)
 * [2025-01-23, 18:24:30](https://news.ycombinator.com/item?id=42806486) - [Building a Medieval Castle from Scratch](https://www.guedelon.fr/en/)
 * [2025-01-23, 18:06:42](https://news.ycombinator.com/item?id=42806328) - [Llama.vim – Local LLM-assisted text completion](https://github.com/ggml-org/llama.vim)
-* [2025-01-23, 18:03:40](https://news.ycombinator.com/item?id=42806301) - [Introducing Operator](https://openai.com/index/introducing-operator/)
 * [2025-01-23, 17:58:05](https://news.ycombinator.com/item?id=42806247) - [Thank HN: My bootstrapped startup got acquired today](https://news.ycombinator.com/item?id=42806247)
 * [2025-01-23, 17:44:07](https://news.ycombinator.com/item?id=42806105) - [Results of \"Humanity's Last Exam\" benchmark published](https://scale.com/blog/humanitys-last-exam-results)
 * [2025-01-23, 16:29:18](https://news.ycombinator.com/item?id=42805431) - [TMSU: Command-line tool for applying tags and viewing virtual tagged filesystem](https://tmsu.org/)
@@ -27,8 +27,8 @@
 * [2025-01-22, 05:34:15](https://news.ycombinator.com/item?id=42789372) - [Capacitors Meet Geometric Series](https://ivanbelenky.com/articles/capacitors)
 * [2025-01-21, 19:40:44](https://news.ycombinator.com/item?id=42784373) - [Show HN: Chat with multiple LLMs: o1-high-effort, Sonnet 3.5, GPT-4o, and more](https://polychat.co)
 * [2025-01-21, 09:10:13](https://news.ycombinator.com/item?id=42777948) - [The Most Mario Colors](https://lmnt.me/blog/the-most-mario-colors.html)
+* [2025-01-21, 01:38:57](https://news.ycombinator.com/item?id=42775422) - [Compiler Fuzzing in Continuous Integration: A Case Study on Dafny [pdf]](https://www.doc.ic.ac.uk/~afd/papers/2025/ICST-Industry.pdf)
 * [2025-01-20, 21:29:54](https://news.ycombinator.com/item?id=42773296) - [Migrating Away from Bcachefs](https://blog.sesse.net/blog/tech/2025-01-20-21-45_migrating_away_from_bcachefs.html)
-* [2025-01-20, 06:44:58](https://news.ycombinator.com/item?id=42765683) - [Taking a Look at Compression Algorithms](https://cefboud.github.io/posts/compression/)
 * [2025-01-19, 16:25:49](https://news.ycombinator.com/item?id=42758425) - [The Most Detailed Map of US Waters That You've Ever Seen (2023)](https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/water/the-most-detailed-map-of-us-waters-that-youve-ever-seen/)
 
 ## [Archives](archives/index.md)
