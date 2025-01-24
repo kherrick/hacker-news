@@ -44,6 +44,7 @@
 * [2025-01-22, 11:59:29](https://news.ycombinator.com/item?id=42791820) - [Show HN: NotepadJs – A cross-platform love letter to Notepad](https://github.com/itamarom/notepadjs)
 * [2025-01-22, 11:40:26](https://news.ycombinator.com/item?id=42791671) - [I Won't Invest (2019)](https://davidjarvis.com/why-i-wont-invest/)
 * [2025-01-22, 11:21:01](https://news.ycombinator.com/item?id=42791548) - [How to know when it's time to go](https://bitfieldconsulting.com/posts/when-its-time-to-go)
+* [2025-01-22, 11:13:47](https://news.ycombinator.com/item?id=42791500) - [A simplified analysis of the Chernobyl accident (2021)](https://www.epj-n.org/articles/epjn/full_html/2021/01/epjn200018/epjn200018.html)
 * [2025-01-22, 11:07:45](https://news.ycombinator.com/item?id=42791465) - [LoongArch64 Subjective Higlights](http://0x80.pl/notesen/2025-01-21-loongarch64-highlights.html)
 * [2025-01-22, 11:00:48](https://news.ycombinator.com/item?id=42791428) - [My Struggle with Doom Scrolling](https://allthatjazz.me/posts/doom-scrolling-struggles)
 * [2025-01-22, 10:37:04](https://news.ycombinator.com/item?id=42791310) - [Data Branching for Batch Job Systems](https://isaacjordan.me/blog/2025/01/data-branching-for-batch-job-systems)
