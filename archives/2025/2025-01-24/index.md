@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-01-24](index.md)
 
+* [2025-01-24, 14:51:33](https://news.ycombinator.com/item?id=42813513) - [How I Use Home Assistant in 2025](https://vpetersson.com/2025/01/22/how-i-use-home-assistant-in-2025.html)
 * [2025-01-24, 14:27:47](https://news.ycombinator.com/item?id=42813316) - [Bluesky's science takeover: 70% of Nature poll respondents use platform](https://www.nature.com/articles/d41586-025-00177-1)
 * [2025-01-24, 13:57:10](https://news.ycombinator.com/item?id=42813049) - [Every System is a Log: Avoiding coordination in distributed applications](https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/)
 * [2025-01-24, 13:20:56](https://news.ycombinator.com/item?id=42812779) - [Ask HN: Why buy domains and 301 redirect them to me?](https://news.ycombinator.com/item?id=42812779)
 * [2025-01-24, 12:55:35](https://news.ycombinator.com/item?id=42812641) - [Build It Yourself](https://lucumr.pocoo.org/2025/1/24/build-it-yourself/)
+* [2025-01-24, 12:52:06](https://news.ycombinator.com/item?id=42812617) - [Could Self-Driving Buses Bring Vehicle Autonomy Home?](https://spectrum.ieee.org/driverless-bus)
 * [2025-01-24, 12:36:41](https://news.ycombinator.com/item?id=42812515) - [Court rules FBI's warrantless searches violated Fourth Amendment](https://arstechnica.com/tech-policy/2025/01/court-rules-fbis-warrantless-searches-violated-fourth-amendment/)
 * [2025-01-24, 12:36:06](https://news.ycombinator.com/item?id=42812513) - [All federal agencies ordered to terminate remote work–ideally within 30 days](https://arstechnica.com/tech-policy/2025/01/all-federal-agencies-ordered-to-terminate-remote-work-ideally-within-30-days/)
 * [2025-01-24, 11:40:35](https://news.ycombinator.com/item?id=42812203) - [We Need to Talk About Docker Hub](https://www.linuxserver.io/blog/we-need-to-talk-about-docker-hub)
