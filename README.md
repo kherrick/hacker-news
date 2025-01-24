@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-24, 05:21:44](https://news.ycombinator.com/item?id=42810737) - [New Electrical Code Could Doom Most Common EV Charging](https://www.motortrend.com/news/national-electric-code-revision-threatens-ev-charging/)
-* [2025-01-24, 04:54:21](https://news.ycombinator.com/item?id=42810646) - [New Rust Jobs Site](https://www.RustDevFindJob.com)
 * [2025-01-24, 03:46:19](https://news.ycombinator.com/item?id=42810300) - [UI is hell: four-function calculators](https://lcamtuf.substack.com/p/ui-is-hell-four-function-calculators)
 * [2025-01-24, 03:22:50](https://news.ycombinator.com/item?id=42810176) - [The State of Vim](https://lwn.net/Articles/1002342/)
 * [2025-01-24, 03:02:10](https://news.ycombinator.com/item?id=42810103) - [Weierstrass's Monster](https://www.quantamagazine.org/the-jagged-monstrous-function-that-broke-calculus-20250123/)
@@ -11,6 +9,7 @@
 * [2025-01-23, 23:14:46](https://news.ycombinator.com/item?id=42809034) - [Disabling Zen 5's Op Cache and Exploring Its Clustered Decoder](https://chipsandcheese.com/p/disabling-zen-5s-op-cache-and-exploring)
 * [2025-01-23, 22:50:11](https://news.ycombinator.com/item?id=42808889) - [Surface-Stable Fractal Dithering](https://github.com/runevision/Dither3D)
 * [2025-01-23, 22:37:57](https://news.ycombinator.com/item?id=42808801) - [Susctl CVE-2024-54507: A particularly 'sus' sysctl in the XNU kernel](https://jprx.io/cve-2024-54507/)
+* [2025-01-23, 20:19:59](https://news.ycombinator.com/item?id=42807653) - [Morse Code in Tubular Bells (2021)](https://madpsy.uk/link-between-the-soundtrack-of-the-exorcist-and-amateur-radio/)
 * [2025-01-23, 18:34:38](https://news.ycombinator.com/item?id=42806616) - [Show HN: Open-source AI video editor](https://github.com/fal-ai-community/video-starter-kit)
 * [2025-01-23, 18:24:30](https://news.ycombinator.com/item?id=42806486) - [Building a Medieval Castle from Scratch](https://www.guedelon.fr/en/)
 * [2025-01-23, 18:06:42](https://news.ycombinator.com/item?id=42806328) - [Llama.vim – Local LLM-assisted text completion](https://github.com/ggml-org/llama.vim)
@@ -24,6 +23,7 @@
 * [2025-01-23, 05:07:35](https://news.ycombinator.com/item?id=42800893) - [Show HN: I built an active community of trans people online](https://t4t.social/)
 * [2025-01-22, 20:41:52](https://news.ycombinator.com/item?id=42797260) - [Show HN: I made an open-source laptop from scratch](https://www.byran.ee/posts/creation/)
 * [2025-01-22, 11:07:45](https://news.ycombinator.com/item?id=42791465) - [LoongArch64 Subjective Higlights](http://0x80.pl/notesen/2025-01-21-loongarch64-highlights.html)
+* [2025-01-22, 09:54:25](https://news.ycombinator.com/item?id=42791036) - [I wrote my own \"proper\" programming language (2020)](https://mukulrathi.com/create-your-own-programming-language/intro-to-compiler/)
 * [2025-01-22, 09:34:50](https://news.ycombinator.com/item?id=42790902) - [Building a full-text search engine in 150 lines of Python code (2021)](https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/)
 * [2025-01-22, 08:45:13](https://news.ycombinator.com/item?id=42790536) - [How shut-down Bay Area tech companies ditch their fancy gear](https://www.sfgate.com/tech/article/silicon-valley-disposition-auction-company-20039023.php)
 * [2025-01-22, 05:34:15](https://news.ycombinator.com/item?id=42789372) - [Capacitors Meet Geometric Series](https://ivanbelenky.com/articles/capacitors)

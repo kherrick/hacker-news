@@ -45,6 +45,7 @@
 * [2025-01-22, 11:21:01](https://news.ycombinator.com/item?id=42791548) - [How to know when it's time to go](https://bitfieldconsulting.com/posts/when-its-time-to-go)
 * [2025-01-22, 11:07:45](https://news.ycombinator.com/item?id=42791465) - [LoongArch64 Subjective Higlights](http://0x80.pl/notesen/2025-01-21-loongarch64-highlights.html)
 * [2025-01-22, 11:00:48](https://news.ycombinator.com/item?id=42791428) - [My Struggle with Doom Scrolling](https://allthatjazz.me/posts/doom-scrolling-struggles)
+* [2025-01-22, 09:54:25](https://news.ycombinator.com/item?id=42791036) - [I wrote my own \"proper\" programming language (2020)](https://mukulrathi.com/create-your-own-programming-language/intro-to-compiler/)
 * [2025-01-22, 09:34:50](https://news.ycombinator.com/item?id=42790902) - [Building a full-text search engine in 150 lines of Python code (2021)](https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/)
 * [2025-01-22, 09:12:25](https://news.ycombinator.com/item?id=42790729) - [The Day Instagram Blocked Democracy](https://docpop.org/2025/01/the-day-instagram-blocked-democracy/)
 * [2025-01-22, 08:45:13](https://news.ycombinator.com/item?id=42790536) - [How shutdown Bay Area tech companies ditch their fancy gear fast](https://www.sfgate.com/tech/article/silicon-valley-disposition-auction-company-20039023.php)
