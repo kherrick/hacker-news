@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-24, 02:03:43",
+      "https://news.ycombinator.com/item?id=42809895"
+    ],
+    [
+      "Ergodic Lagrangian dynamics in a superhero universe",
+      "https://pubs.aip.org/aapt/ajp/article/93/2/127/3331568/Ergodic-Lagrangian-dynamics-in-a-superhero"
+    ]
+  ],
+  [
+    [
       "2025-01-24, 01:00:52",
       "https://news.ycombinator.com/item?id=42809578"
     ],
@@ -97,16 +107,6 @@
     [
       "Llama.vim – Local LLM-assisted text completion",
       "https://github.com/ggml-org/llama.vim"
-    ]
-  ],
-  [
-    [
-      "2025-01-23, 18:03:40",
-      "https://news.ycombinator.com/item?id=42806301"
-    ],
-    [
-      "Introducing Operator",
-      "https://openai.com/index/introducing-operator/"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2025-01-21, 01:38:57",
+      "https://news.ycombinator.com/item?id=42775422"
+    ],
+    [
+      "Compiler Fuzzing in Continuous Integration: A Case Study on Dafny [pdf]",
+      "https://www.doc.ic.ac.uk/~afd/papers/2025/ICST-Industry.pdf"
+    ]
+  ],
+  [
+    [
       "2025-01-20, 21:29:54",
       "https://news.ycombinator.com/item?id=42773296"
     ],
     [
       "Migrating Away from Bcachefs",
       "https://blog.sesse.net/blog/tech/2025-01-20-21-45_migrating_away_from_bcachefs.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-20, 06:44:58",
-      "https://news.ycombinator.com/item?id=42765683"
-    ],
-    [
-      "Taking a Look at Compression Algorithms",
-      "https://cefboud.github.io/posts/compression/"
     ]
   ],
   [
