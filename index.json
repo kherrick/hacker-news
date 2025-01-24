@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-01-24, 17:00:37",
+      "https://news.ycombinator.com/item?id=42815073"
+    ],
+    [
+      "Converge (YC S23) Is Hiring Founding Engineer #2 in NYC",
+      "https://jobs.gem.com/converge/am9icG9zdDreA6I3WJ4ZJ1Yx_WHS5zKP"
+    ]
+  ],
+  [
+    [
+      "2025-01-24, 16:51:16",
+      "https://news.ycombinator.com/item?id=42814948"
+    ],
+    [
+      "A WebAssembly compiler that fits in a tweet",
+      "https://wasmgroundup.com/blog/wasm-compiler-in-a-tweet/"
+    ]
+  ],
+  [
+    [
+      "2025-01-24, 16:40:11",
+      "https://news.ycombinator.com/item?id=42814820"
+    ],
+    [
+      "Snowdrop OS – a homebrew operating system from scratch, in assembly language",
+      "http://sebastianmihai.com/snowdrop/"
+    ]
+  ],
+  [
+    [
       "2025-01-24, 16:25:53",
       "https://news.ycombinator.com/item?id=42814683"
     ],
@@ -27,16 +57,6 @@
     [
       "Show HN: Cs16.css – CSS library based on CS 1.6 UI",
       "https://cs16.samke.me"
-    ]
-  ],
-  [
-    [
-      "2025-01-24, 14:51:33",
-      "https://news.ycombinator.com/item?id=42813513"
-    ],
-    [
-      "How I Use Home Assistant in 2025",
-      "https://vpetersson.com/2025/01/22/how-i-use-home-assistant-in-2025.html"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-01-23, 23:14:46",
-      "https://news.ycombinator.com/item?id=42809034"
-    ],
-    [
-      "Disabling Zen 5's Op Cache and Exploring Its Clustered Decoder",
-      "https://chipsandcheese.com/p/disabling-zen-5s-op-cache-and-exploring"
-    ]
-  ],
-  [
-    [
       "2025-01-23, 18:24:30",
       "https://news.ycombinator.com/item?id=42806486"
     ],
@@ -157,16 +167,6 @@
     [
       "Thank HN: My bootstrapped startup got acquired today",
       "https://news.ycombinator.com/item?id=42806247"
-    ]
-  ],
-  [
-    [
-      "2025-01-23, 14:49:43",
-      "https://news.ycombinator.com/item?id=42804566"
-    ],
-    [
-      "Psychedelic Graphics 0: Introduction",
-      "https://benpence.com/blog/post/psychedelic-graphics-0"
     ]
   ],
   [
