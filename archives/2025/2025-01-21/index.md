@@ -77,6 +77,7 @@
 * [2025-01-21, 08:26:44](https://news.ycombinator.com/item?id=42777715) - [We've lost our respect for complexity](https://wilsoniumite.com/2025/01/21/weve-lost-our-respect-for-complexity/)
 * [2025-01-21, 08:16:39](https://news.ycombinator.com/item?id=42777669) - [Ask HN: How are you preparing for PEPPOL?](https://news.ycombinator.com/item?id=42777669)
 * [2025-01-21, 08:08:24](https://news.ycombinator.com/item?id=42777625) - [Context should go away for Go 2](https://faiface.github.io/post/context-should-go-away-go2/)
+* [2025-01-21, 07:55:31](https://news.ycombinator.com/item?id=42777563) - [Plausible Fiction – David Spivak](https://topos.institute/blog/2024-08-27-plausible-fiction/)
 * [2025-01-21, 07:16:29](https://news.ycombinator.com/item?id=42777379) - [Ask HN: Can we just admit we want to replace jobs with AI?](https://news.ycombinator.com/item?id=42777379)
 * [2025-01-21, 06:28:25](https://news.ycombinator.com/item?id=42777193) - [More than 40% of postdocs leave academia, study reveals](https://www.nature.com/articles/d41586-025-00142-y)
 * [2025-01-21, 06:17:10](https://news.ycombinator.com/item?id=42777144) - [Liskov Substitution: The Real Meaning of Inheritance](https://cekrem.github.io/posts/liskov-substitution-the-real-meaning-of-inheritance/)
