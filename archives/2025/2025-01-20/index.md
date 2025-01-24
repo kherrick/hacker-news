@@ -25,6 +25,7 @@
 * [2025-01-20, 19:28:39](https://news.ycombinator.com/item?id=42772144) - [The forgotten brilliance of Hélène de Beauvoir, sister of Simone](https://www.theguardian.com/artanddesign/2025/jan/20/helene-de-beauvoir-sister-simone-picasso-jean-paul-sartre)
 * [2025-01-20, 19:03:29](https://news.ycombinator.com/item?id=42771885) - [Show HN: SupGen, an model-free program synthesizer by examples / dependent types](https://www.youtube.com/watch?v=bEP88ucXga)
 * [2025-01-20, 18:40:45](https://news.ycombinator.com/item?id=42771676) - [I Am (Not) a Failure: Lessons Learned from Six Failed Startup Attempts](http://blog.rongarret.info/2025/01/i-am-not-failure-lessons-learned-from.html)
+* [2025-01-20, 18:13:52](https://news.ycombinator.com/item?id=42771414) - [Make your chair rotate in VR](https://skarredghost.com/2025/01/20/roto-vr-hands-on-impressions/)
 * [2025-01-20, 18:13:48](https://news.ycombinator.com/item?id=42771413) - [Seeking an IPL-V Interpreter](https://news.ycombinator.com/item?id=42771413)
 * [2025-01-20, 18:12:24](https://news.ycombinator.com/item?id=42771403) - [Kronotop: Redis-compatible, transactional document store backed by FoundationDB](https://github.com/kronotop/kronotop)
 * [2025-01-20, 18:02:23](https://news.ycombinator.com/item?id=42771310) - [Master the Art of the Product Manager 'No'](https://LetsNotDoThat.com)
