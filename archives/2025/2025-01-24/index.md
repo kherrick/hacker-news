@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-24](index.md)
 
+* [2025-01-24, 13:20:56](https://news.ycombinator.com/item?id=42812779) - [Ask HN: Why buy domains and 301 redirect them to me?](https://news.ycombinator.com/item?id=42812779)
 * [2025-01-24, 11:40:35](https://news.ycombinator.com/item?id=42812203) - [We Need to Talk About Docker Hub](https://www.linuxserver.io/blog/we-need-to-talk-about-docker-hub)
 * [2025-01-24, 10:44:40](https://news.ycombinator.com/item?id=42811979) - [\"The Linux Phone You've Been Waiting For\"](https://liberux.net/#home)
 * [2025-01-24, 10:21:26](https://news.ycombinator.com/item?id=42811904) - [South Korea's Democracy Saved Itself (2024)](https://carnegieendowment.org/emissary/2024/12/south-korea-democracy-yoon-protests?lang=en)

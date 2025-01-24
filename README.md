@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-24, 13:20:56](https://news.ycombinator.com/item?id=42812779) - [Ask HN: Why buy domains and 301 redirect them to me?](https://news.ycombinator.com/item?id=42812779)
 * [2025-01-24, 09:40:57](https://news.ycombinator.com/item?id=42811742) - [The Nix NGI Team: Advancing Open Source with Nix](https://discourse.nixos.org/t/nix-ngi-making-open-source-software-run-smoothly/59229)
 * [2025-01-24, 08:36:27](https://news.ycombinator.com/item?id=42811502) - [Trae: AI Code Editor from ByteDance](https://www.trae.ai)
 * [2025-01-24, 06:03:42](https://news.ycombinator.com/item?id=42810865) - [Modular PC Design: Sustainable Approach Enhanced Repairability Reduced E-Waste](https://community.intel.com/t5/Blogs/Tech-Innovation/Client/Modular-PC-Design-A-Sustainable-Approach-for-Enhanced/post/1657681)
@@ -20,7 +21,6 @@
 * [2025-01-23, 14:49:43](https://news.ycombinator.com/item?id=42804566) - [Psychedelic Graphics 0: Introduction](https://benpence.com/blog/post/psychedelic-graphics-0)
 * [2025-01-23, 12:22:19](https://news.ycombinator.com/item?id=42803279) - [Hacking Subaru: Tracking and controlling cars via the admin panel](https://samcurry.net/hacking-subaru)
 * [2025-01-22, 20:41:52](https://news.ycombinator.com/item?id=42797260) - [Show HN: I made an open-source laptop from scratch](https://www.byran.ee/posts/creation/)
-* [2025-01-22, 11:07:45](https://news.ycombinator.com/item?id=42791465) - [LoongArch64 Subjective Higlights](http://0x80.pl/notesen/2025-01-21-loongarch64-highlights.html)
 * [2025-01-22, 09:54:25](https://news.ycombinator.com/item?id=42791036) - [I wrote my own \"proper\" programming language (2020)](https://mukulrathi.com/create-your-own-programming-language/intro-to-compiler/)
 * [2025-01-22, 09:34:50](https://news.ycombinator.com/item?id=42790902) - [Building a full-text search engine in 150 lines of Python code (2021)](https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/)
 * [2025-01-22, 09:25:07](https://news.ycombinator.com/item?id=42790820) - [Coping with dumb LLMs using classic ML](https://softwaredoug.com/blog/2025/01/21/llm-judge-decision-tree)
