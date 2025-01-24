@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-01-24, 03:06:23",
-      "https://news.ycombinator.com/item?id=42810115"
-    ],
-    [
-      "New Tesla Model Y",
-      "https://www.tesla.com/modely"
-    ]
-  ],
-  [
-    [
       "2025-01-24, 02:28:10",
       "https://news.ycombinator.com/item?id=42809990"
     ],
@@ -137,6 +127,16 @@
     [
       "Llama.vim – Local LLM-assisted text completion",
       "https://github.com/ggml-org/llama.vim"
+    ]
+  ],
+  [
+    [
+      "2025-01-23, 18:03:40",
+      "https://news.ycombinator.com/item?id=42806301"
+    ],
+    [
+      "Operator research preview",
+      "https://openai.com/index/introducing-operator/"
     ]
   ],
   [
