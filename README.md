@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-24, 21:44:33](https://news.ycombinator.com/item?id=42817212) - [FEMA May Be Eliminated](https://www.pbs.org/newshour/politics/watch-trump-says-hes-considering-getting-rid-of-fema-during-briefing-in-north-carolina)
+* [2025-01-24, 22:15:32](https://news.ycombinator.com/item?id=42817439) - [Show HN: Lightpanda, an open-source headless browser in Zig](https://github.com/lightpanda-io/browser)
+* [2025-01-24, 22:15:16](https://news.ycombinator.com/item?id=42817438) - [Show HN: Onit – open-source ChatGPT Desktop with local mode, Claude, Gemini](https://github.com/synth-inc/onit)
+* [2025-01-24, 22:08:05](https://news.ycombinator.com/item?id=42817388) - [Legalyze.ai: Review Medical Records with AI](https://www.legalyze.ai/)
 * [2025-01-24, 21:38:05](https://news.ycombinator.com/item?id=42817163) - [The Past, Present, and Future of UI at GitHub](https://hawksley.org/2025/01/08/past-present-future-of-UI-at-github.html)
-* [2025-01-24, 21:32:51](https://news.ycombinator.com/item?id=42817124) - [Looking for work is a full time job](https://www.resumevue.com/board)
 * [2025-01-24, 19:56:31](https://news.ycombinator.com/item?id=42816418) - [A Very Chicago Gamble](https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/)
 * [2025-01-24, 19:48:51](https://news.ycombinator.com/item?id=42816359) - [The Hidden Complexity of Scaling WebSockets](https://composehq.com/blog/scaling-websockets-1-23-25)
 * [2025-01-24, 19:38:38](https://news.ycombinator.com/item?id=42816284) - [PhysicsForums and the Dead Internet Theory](https://hallofdreams.org/posts/physicsforums/)
@@ -17,11 +18,11 @@
 * [2025-01-24, 15:59:23](https://news.ycombinator.com/item?id=42814373) - [Cloud Virtualization: Red Hat, AWS Firecracker, and Ubicloud internals](https://www.ubicloud.com/blog/cloud-virtualization-red-hat-aws-firecracker-and-ubicloud-internals)
 * [2025-01-24, 15:50:23](https://news.ycombinator.com/item?id=42814275) - [New Book-Sorting Algorithm Almost Reaches Perfection](https://www.quantamagazine.org/new-book-sorting-algorithm-almost-reaches-perfection-20250124/)
 * [2025-01-24, 15:37:07](https://news.ycombinator.com/item?id=42814110) - [Show HN: Cs16.css – CSS library based on CS 1.6 UI](https://cs16.samke.me)
+* [2025-01-24, 14:21:59](https://news.ycombinator.com/item?id=42813264) - [Threlte 8](https://threlte.xyz/blog/threlte-8)
 * [2025-01-24, 13:57:10](https://news.ycombinator.com/item?id=42813049) - [Every System is a Log: Avoiding coordination in distributed applications](https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/)
 * [2025-01-24, 13:21:41](https://news.ycombinator.com/item?id=42812787) - [Clapping Music for two flip-disc displays](https://hannahilea.com/blog/clapping-music-for-flip-disc-displays/)
 * [2025-01-24, 13:20:56](https://news.ycombinator.com/item?id=42812779) - [Ask HN: Why buy domains and 301 redirect them to me?](https://news.ycombinator.com/item?id=42812779)
 * [2025-01-24, 12:55:35](https://news.ycombinator.com/item?id=42812641) - [Build It Yourself](https://lucumr.pocoo.org/2025/1/24/build-it-yourself/)
-* [2025-01-24, 08:19:52](https://news.ycombinator.com/item?id=42811435) - [Eki Bright – The Case for DIY Routing](https://twocentstudios.com/2025/01/24/eki-bright-the-case-for-diy-routing/)
 * [2025-01-24, 07:40:17](https://news.ycombinator.com/item?id=42811269) - [Tele-present wind – David Bowen](https://www.dwbowen.com/telepresent-wind)
 * [2025-01-24, 03:38:46](https://news.ycombinator.com/item?id=42810252) - [A phishing attack involving g.co, Google's URL shortener](https://gist.github.com/zachlatta/f86317493654b550c689dc6509973aa4)
 * [2025-01-22, 12:12:37](https://news.ycombinator.com/item?id=42791906) - [Urban legend: I think there is a world market for maybe five computers](https://geekhistory.com/content/urban-legend-i-think-there-world-market-maybe-five-computers)
@@ -29,7 +30,6 @@
 * [2025-01-22, 09:25:07](https://news.ycombinator.com/item?id=42790820) - [Coping with dumb LLMs using classic ML](https://softwaredoug.com/blog/2025/01/21/llm-judge-decision-tree)
 * [2025-01-21, 20:50:09](https://news.ycombinator.com/item?id=42785035) - [Remembering Nan Shepherd](https://www.lrb.co.uk/the-paper/v47/n01/fraser-macdonald/diary)
 * [2025-01-21, 17:33:52](https://news.ycombinator.com/item?id=42782872) - [Tilde, My LLVM Alternative](https://yasserarg.com/tb)
-* [2025-01-21, 12:21:24](https://news.ycombinator.com/item?id=42779317) - [Making my life easier with GADTs](https://acatalepsie.fr/posts/making-my-life-easier-with-gadts.html)
 
 ## [Archives](archives/index.md)
 
