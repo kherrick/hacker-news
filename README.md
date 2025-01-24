@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-24, 03:22:30](https://news.ycombinator.com/item?id=42810175) - [Ignore the Grifters – AI Isn't Going to Kill the Software Industry](https://dustinewers.com/ignore-the-grifters/)
+* [2025-01-24, 03:06:23](https://news.ycombinator.com/item?id=42810115) - [New Tesla Model Y](https://www.tesla.com/modely)
+* [2025-01-24, 02:28:10](https://news.ycombinator.com/item?id=42809990) - [Supercharge vector search with ColBERT rerank in PostgreSQL](https://blog.vectorchord.ai/supercharge-vector-search-with-colbert-rerank-in-postgresql)
 * [2025-01-24, 02:03:43](https://news.ycombinator.com/item?id=42809895) - [Ergodic Lagrangian dynamics in a superhero universe](https://pubs.aip.org/aapt/ajp/article/93/2/127/3331568/Ergodic-Lagrangian-dynamics-in-a-superhero)
 * [2025-01-24, 01:00:52](https://news.ycombinator.com/item?id=42809578) - [Sei (YC W22) Is Hiring](https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai)
 * [2025-01-23, 23:55:34](https://news.ycombinator.com/item?id=42809268) - [A QR code that sends you to a different destination - lenticular and adversarial](https://mstdn.social/@isziaui/113874436953157913)
@@ -15,12 +18,10 @@
 * [2025-01-23, 17:44:07](https://news.ycombinator.com/item?id=42806105) - [Results of \"Humanity's Last Exam\" benchmark published](https://scale.com/blog/humanitys-last-exam-results)
 * [2025-01-23, 16:29:18](https://news.ycombinator.com/item?id=42805431) - [TMSU: Command-line tool for applying tags and viewing virtual tagged filesystem](https://tmsu.org/)
 * [2025-01-23, 16:28:34](https://news.ycombinator.com/item?id=42805425) - [Working with Files Is Hard (2019)](https://danluu.com/deconstruct-files/)
-* [2025-01-23, 16:28:07](https://news.ycombinator.com/item?id=42805421) - [Orbit Spirograph (2019)](https://www.redblobgames.com/x/1903-orbit-spirograph/)
 * [2025-01-23, 15:17:26](https://news.ycombinator.com/item?id=42804835) - [Bunster: Compile bash scripts to self contained executables](https://github.com/yassinebenaid/bunster)
 * [2025-01-23, 14:49:43](https://news.ycombinator.com/item?id=42804566) - [Psychedelic Graphics 0: Introduction](https://benpence.com/blog/post/psychedelic-graphics-0)
 * [2025-01-23, 14:38:09](https://news.ycombinator.com/item?id=42804434) - [Turn any bicycle electric](https://dhruvvidyut.co.in/)
 * [2025-01-23, 12:22:19](https://news.ycombinator.com/item?id=42803279) - [Hacking Subaru: Tracking and Controlling Cars via the Starlink Admin Panel](https://samcurry.net/hacking-subaru)
-* [2025-01-23, 09:58:20](https://news.ycombinator.com/item?id=42802498) - [Where is London's most central sheep?](https://diamondgeezer.blogspot.com/2025/01/londons-most-central-sheep.html)
 * [2025-01-23, 05:07:35](https://news.ycombinator.com/item?id=42800893) - [Show HN: I built an active community of trans people online](https://t4t.social/)
 * [2025-01-22, 20:41:52](https://news.ycombinator.com/item?id=42797260) - [Show HN: I made an open-source laptop from scratch](https://www.byran.ee/posts/creation/)
 * [2025-01-22, 05:34:15](https://news.ycombinator.com/item?id=42789372) - [Capacitors Meet Geometric Series](https://ivanbelenky.com/articles/capacitors)
@@ -29,7 +30,6 @@
 * [2025-01-21, 09:10:13](https://news.ycombinator.com/item?id=42777948) - [The Most Mario Colors](https://lmnt.me/blog/the-most-mario-colors.html)
 * [2025-01-21, 01:38:57](https://news.ycombinator.com/item?id=42775422) - [Compiler Fuzzing in Continuous Integration: A Case Study on Dafny [pdf]](https://www.doc.ic.ac.uk/~afd/papers/2025/ICST-Industry.pdf)
 * [2025-01-20, 21:29:54](https://news.ycombinator.com/item?id=42773296) - [Migrating Away from Bcachefs](https://blog.sesse.net/blog/tech/2025-01-20-21-45_migrating_away_from_bcachefs.html)
-* [2025-01-19, 16:25:49](https://news.ycombinator.com/item?id=42758425) - [The Most Detailed Map of US Waters That You've Ever Seen (2023)](https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/water/the-most-detailed-map-of-us-waters-that-youve-ever-seen/)
 
 ## [Archives](archives/index.md)
 
