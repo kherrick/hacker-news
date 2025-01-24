@@ -28,8 +28,8 @@
 * [2025-01-21, 14:33:29](https://news.ycombinator.com/item?id=42780490) - [A Cold War Satellite Program Called Parcae Revolutionized Signals Intelligence](https://spectrum.ieee.org/reconnaissance-satellite)
 * [2025-01-21, 12:17:51](https://news.ycombinator.com/item?id=42779293) - [Impact of Low Temperatures on the 5nm SRAM Array Size and Performance](https://semiengineering.com/impact-of-extremely-low-temperatures-on-the-5nm-sram-array-size-and-performance/)
 * [2025-01-21, 09:10:13](https://news.ycombinator.com/item?id=42777948) - [The Most Mario Colors](https://lmnt.me/blog/the-most-mario-colors.html)
+* [2025-01-21, 07:55:31](https://news.ycombinator.com/item?id=42777563) - [Plausible Fiction – David Spivak](https://topos.institute/blog/2024-08-27-plausible-fiction/)
 * [2025-01-20, 23:13:29](https://news.ycombinator.com/item?id=42774291) - [The importance of favicons in website OSINT research](https://www.osintme.com/index.php/2025/01/20/the-importance-of-favicons-in-website-osint-research/)
-* [2025-01-20, 18:13:52](https://news.ycombinator.com/item?id=42771414) - [Make your chair rotate in VR](https://skarredghost.com/2025/01/20/roto-vr-hands-on-impressions/)
 
 ## [Archives](archives/index.md)
 
