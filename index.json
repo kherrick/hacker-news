@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-01-25, 00:23:34",
+      "https://news.ycombinator.com/item?id=42818248"
+    ],
+    [
+      "You could have invented Fenwick trees",
+      "https://www.cambridge.org/core/journals/journal-of-functional-programming/article/you-could-have-invented-fenwick-trees/B4628279D4E54229CED97249E96F721D"
+    ]
+  ],
+  [
+    [
+      "2025-01-25, 00:06:30",
+      "https://news.ycombinator.com/item?id=42818169"
+    ],
+    [
+      "Crushing Jira tickets is a party trick, not a path to impact",
+      "https://www.seangoedecke.com/party-tricks/"
+    ]
+  ],
+  [
+    [
+      "2025-01-24, 23:21:25",
+      "https://news.ycombinator.com/item?id=42817910"
+    ],
+    [
+      "'Never seen anything like this' – NIH meetings and travel halted abruptly",
+      "https://www.nature.com/articles/d41586-025-00231-y"
+    ]
+  ],
+  [
+    [
       "2025-01-24, 23:04:13",
       "https://news.ycombinator.com/item?id=42817802"
     ],
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2025-01-24, 14:21:59",
-      "https://news.ycombinator.com/item?id=42813264"
-    ],
-    [
-      "Threlte 8",
-      "https://threlte.xyz/blog/threlte-8"
-    ]
-  ],
-  [
-    [
       "2025-01-24, 13:57:10",
       "https://news.ycombinator.com/item?id=42813049"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2025-01-24, 13:21:41",
-      "https://news.ycombinator.com/item?id=42812787"
-    ],
-    [
-      "Clapping Music for two flip-disc displays",
-      "https://hannahilea.com/blog/clapping-music-for-flip-disc-displays/"
-    ]
-  ],
-  [
-    [
       "2025-01-24, 13:20:56",
       "https://news.ycombinator.com/item?id=42812779"
     ],
     [
       "Ask HN: Why buy domains and 301 redirect them to me?",
       "https://news.ycombinator.com/item?id=42812779"
-    ]
-  ],
-  [
-    [
-      "2025-01-24, 07:40:17",
-      "https://news.ycombinator.com/item?id=42811269"
-    ],
-    [
-      "tele-present wind",
-      "https://www.dwbowen.com/telepresent-wind"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2025-01-21, 20:50:09",
-      "https://news.ycombinator.com/item?id=42785035"
-    ],
-    [
-      "Remembering Nan Shepherd",
-      "https://www.lrb.co.uk/the-paper/v47/n01/fraser-macdonald/diary"
-    ]
-  ],
-  [
-    [
       "2025-01-21, 17:33:52",
       "https://news.ycombinator.com/item?id=42782872"
     ],
     [
       "Tilde, My LLVM Alternative",
       "https://yasserarg.com/tb"
+    ]
+  ],
+  [
+    [
+      "2025-01-21, 16:49:01",
+      "https://news.ycombinator.com/item?id=42782242"
+    ],
+    [
+      "How to Visualize Your Python Project's Dependency Graph",
+      "https://www.gauge.sh/blog/how-to-visualize-your-python-projects-dependency-graph"
     ]
   ]
 ]
