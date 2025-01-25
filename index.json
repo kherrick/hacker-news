@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-01-25, 01:12:04",
-      "https://news.ycombinator.com/item?id=42818513"
+      "2025-01-25, 01:53:11",
+      "https://news.ycombinator.com/item?id=42818692"
     ],
     [
-      "OpenAI just put the final nail in the coffin of the open World Wide Web",
-      "https://brids.bearblog.dev/openai-just-put-the-final-nail-in-the-coffin-of-the-open-world-wide-web/"
+      "Caltrain's Electric Fleet More Efficient Than Expected",
+      "https://www.caltrain.com/news/caltrains-electric-fleet-more-efficient-expected"
+    ]
+  ],
+  [
+    [
+      "2025-01-25, 01:38:19",
+      "https://news.ycombinator.com/item?id=42818625"
+    ],
+    [
+      "Frustrated YouTube viewers seek explanation for hour-long unskippable ads",
+      "https://www.androidauthority.com/youtube-long-unskippable-ads-problem-3519957/"
+    ]
+  ],
+  [
+    [
+      "2025-01-25, 01:27:32",
+      "https://news.ycombinator.com/item?id=42818581"
+    ],
+    [
+      "Show HN: I recovered one of my earliest ZX-Spectrum games from an audio cassette",
+      "https://news.ycombinator.com/item?id=42818581"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "You could have invented Fenwick trees",
       "https://www.cambridge.org/core/journals/journal-of-functional-programming/article/you-could-have-invented-fenwick-trees/B4628279D4E54229CED97249E96F721D"
-    ]
-  ],
-  [
-    [
-      "2025-01-25, 00:06:30",
-      "https://news.ycombinator.com/item?id=42818169"
-    ],
-    [
-      "Crushing Jira tickets is a party trick, not a path to impact",
-      "https://www.seangoedecke.com/party-tricks/"
     ]
   ],
   [
@@ -97,16 +107,6 @@
     [
       "Trying out Zed after more than a decade of Vim/Neovim",
       "https://sgoel.dev/posts/trying-out-zed-after-more-than-a-decade-of-vim-neovim/"
-    ]
-  ],
-  [
-    [
-      "2025-01-24, 21:38:05",
-      "https://news.ycombinator.com/item?id=42817163"
-    ],
-    [
-      "The past, present, and future of UI at GitHub",
-      "https://hawksley.org/2025/01/08/past-present-future-of-UI-at-github.html"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2025-01-24, 13:57:10",
+      "https://news.ycombinator.com/item?id=42813049"
+    ],
+    [
+      "Every System is a Log: Avoiding coordination in distributed applications",
+      "https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/"
+    ]
+  ],
+  [
+    [
       "2025-01-24, 13:20:56",
       "https://news.ycombinator.com/item?id=42812779"
     ],
@@ -271,16 +281,6 @@
   ],
   [
     [
-      "2025-01-22, 12:12:37",
-      "https://news.ycombinator.com/item?id=42791906"
-    ],
-    [
-      "Urban legend: I think there is a world market for maybe five computers",
-      "https://geekhistory.com/content/urban-legend-i-think-there-world-market-maybe-five-computers"
-    ]
-  ],
-  [
-    [
       "2025-01-22, 05:24:03",
       "https://news.ycombinator.com/item?id=42789323"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-01-21, 17:33:52",
-      "https://news.ycombinator.com/item?id=42782872"
+      "2025-01-21, 23:35:07",
+      "https://news.ycombinator.com/item?id=42786627"
     ],
     [
-      "Tilde, My LLVM Alternative",
-      "https://yasserarg.com/tb"
+      "Cytoskeleton-functionalized synthetic cells with life-like mechanical features",
+      "https://www.nature.com/articles/s41557-024-01697-5"
     ]
   ]
 ]
