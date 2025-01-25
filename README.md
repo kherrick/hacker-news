@@ -14,6 +14,7 @@
 * [2025-01-25, 03:38:52](https://news.ycombinator.com/item?id=42819262) - [TinyZero](https://github.com/Jiayi-Pan/TinyZero)
 * [2025-01-25, 00:28:20](https://news.ycombinator.com/item?id=42818278) - [File Explorer is merged to Helix editor](https://github.com/helix-editor/helix/pull/11285)
 * [2025-01-24, 22:15:32](https://news.ycombinator.com/item?id=42817439) - [Show HN: Lightpanda, an open-source headless browser in Zig](https://github.com/lightpanda-io/browser)
+* [2025-01-24, 18:08:14](https://news.ycombinator.com/item?id=42815673) - [Show HN: Using aerospace projects to teach maths [video]](https://www.youtube.com/watch?v=yJ-ovZGp-D0)
 * [2025-01-24, 16:40:11](https://news.ycombinator.com/item?id=42814820) - [Snowdrop OS – a homebrew operating system from scratch, in assembly language](http://sebastianmihai.com/snowdrop/)
 * [2025-01-24, 16:25:53](https://news.ycombinator.com/item?id=42814683) - [Wild – A fast linker for Linux](https://github.com/davidlattimore/wild)
 * [2025-01-24, 15:37:07](https://news.ycombinator.com/item?id=42814110) - [Show HN: Cs16.css – CSS library based on Counter Strike 1.6 UI](https://cs16.samke.me)
@@ -28,7 +29,6 @@
 * [2025-01-22, 10:49:56](https://news.ycombinator.com/item?id=42791378) - [Open Heart Protocol](https://openheart.fyi/)
 * [2025-01-22, 09:27:07](https://news.ycombinator.com/item?id=42790828) - [Show HN: Habby – A straightforward bullet journal with habit tracking](https://habby.day/)
 * [2025-01-22, 06:21:12](https://news.ycombinator.com/item?id=42789670) - [I got OpenAI o1 to play the boardgame Codenames and it's super good](https://suveenellawela.com/thoughts/codenames-ai)
-* [2025-01-21, 20:15:05](https://news.ycombinator.com/item?id=42784699) - [The FizzBuzz that did not get me the job](https://kranga.notion.site/The-fizzbuzz-that-did-not-get-me-the-job-180e7c22ef3b80c3a386f7f8de720ac7)
 * [2025-01-21, 12:22:26](https://news.ycombinator.com/item?id=42779330) - [Show HN: Using YOLO to Detect Office Chairs in 40M Hotel Photos](https://news.ycombinator.com/item?id=42779330)
 
 ## [Archives](archives/index.md)
