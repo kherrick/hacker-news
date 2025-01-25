@@ -2,12 +2,12 @@
 
 * [2025-01-25, 02:48:48](https://news.ycombinator.com/item?id=42819018) - [Kidnappers sever finger of cryptocurrency millionaire David Balland](https://moneycheck.com/french-police-free-kidnapped-ledger-executive-after-day-long-ordeal/)
 * [2025-01-25, 01:53:11](https://news.ycombinator.com/item?id=42818692) - [Caltrain's Electric Fleet More Efficient Than Expected](https://www.caltrain.com/news/caltrains-electric-fleet-more-efficient-expected)
+* [2025-01-25, 01:38:19](https://news.ycombinator.com/item?id=42818625) - [Frustrated YouTube viewers seek explanation for hour-long unskippable ads](https://www.androidauthority.com/youtube-long-unskippable-ads-problem-3519957/)
 * [2025-01-25, 01:27:32](https://news.ycombinator.com/item?id=42818581) - [Show HN: I recovered one of my earliest ZX-Spectrum games from an audio cassette](https://news.ycombinator.com/item?id=42818581)
 * [2025-01-25, 00:38:18](https://news.ycombinator.com/item?id=42818337) - [Android SMS Gateway Using MQTT](https://github.com/ibnux/Android-SMS-Gateway-MQTT)
 * [2025-01-25, 00:28:20](https://news.ycombinator.com/item?id=42818278) - [File Explorer is merged to Helix editor](https://github.com/helix-editor/helix/pull/11285)
 * [2025-01-25, 00:23:34](https://news.ycombinator.com/item?id=42818248) - [You could have invented Fenwick trees](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/you-could-have-invented-fenwick-trees/B4628279D4E54229CED97249E96F721D)
 * [2025-01-24, 23:04:13](https://news.ycombinator.com/item?id=42817802) - [VIC 20 Elite](https://vic20elite.wordpress.com/)
-* [2025-01-24, 22:24:08](https://news.ycombinator.com/item?id=42817514) - [Nuclear Proliferation and the \"Nth Country Experiment\"](https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2025-01-23/nuclear-proliferation-and-nth-country-experiment)
 * [2025-01-24, 22:15:32](https://news.ycombinator.com/item?id=42817439) - [Show HN: Lightpanda, an open-source headless browser in Zig](https://github.com/lightpanda-io/browser)
 * [2025-01-24, 22:15:16](https://news.ycombinator.com/item?id=42817438) - [Show HN: Onit – open-source ChatGPT Desktop with local mode, Claude, Gemini](https://github.com/synth-inc/onit)
 * [2025-01-24, 21:53:00](https://news.ycombinator.com/item?id=42817277) - [Trying out Zed after more than a decade of Vim/Neovim](https://sgoel.dev/posts/trying-out-zed-after-more-than-a-decade-of-vim-neovim/)
