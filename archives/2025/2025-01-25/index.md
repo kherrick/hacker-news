@@ -6,6 +6,7 @@
 
 * [2025-01-25, 06:51:49](https://news.ycombinator.com/item?id=42819973) - [Dwarf Fortress Adventure Mode – Out Now – Official Release Trailer [video]](https://www.youtube.com/watch?v=7zY0UxSxTzU)
 * [2025-01-25, 06:04:38](https://news.ycombinator.com/item?id=42819834) - [Feeling Targeted: Executive Order Ending Wasteful DEIA Efforts](https://hartmans.dreamwidth.org/101412.html)
+* [2025-01-25, 04:54:55](https://news.ycombinator.com/item?id=42819616) - [Cal Newport: What Happened When an Offline Person Tried TikTok](https://www.newyorker.com/culture/infinite-scroll/what-happened-when-an-extremely-offline-person-tried-tiktok)
 * [2025-01-25, 03:38:52](https://news.ycombinator.com/item?id=42819262) - [TinyZero](https://github.com/Jiayi-Pan/TinyZero)
 * [2025-01-25, 02:48:48](https://news.ycombinator.com/item?id=42819018) - [Kidnappers sever finger of cryptocurrency millionaire David Balland](https://moneycheck.com/french-police-free-kidnapped-ledger-executive-after-day-long-ordeal/)
 * [2025-01-25, 02:29:36](https://news.ycombinator.com/item?id=42818917) - [Deadly and Imminent; The Pentagon's Mad Dash for Silicon Valley's AI Weapons](https://www.citizen.org/article/deadly-and-imminent-report/)
