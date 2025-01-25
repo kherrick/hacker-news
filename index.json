@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-25, 12:01:09",
+      "https://news.ycombinator.com/item?id=42821138"
+    ],
+    [
+      "Inboxbooster (YC W17) Is Hiring",
+      "https://www.ycombinator.com/companies/inboxbooster/jobs/ci7Hwk0-jvm-bytecode-engineer-full-remote"
+    ]
+  ],
+  [
+    [
       "2025-01-25, 08:48:42",
       "https://news.ycombinator.com/item?id=42820421"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2025-01-24, 16:51:16",
-      "https://news.ycombinator.com/item?id=42814948"
-    ],
-    [
-      "A WebAssembly compiler that fits in a tweet",
-      "https://wasmgroundup.com/blog/wasm-compiler-in-a-tweet/"
-    ]
-  ],
-  [
-    [
       "2025-01-24, 16:40:11",
       "https://news.ycombinator.com/item?id=42814820"
     ],
@@ -157,16 +157,6 @@
     [
       "Wild – A fast linker for Linux",
       "https://github.com/davidlattimore/wild"
-    ]
-  ],
-  [
-    [
-      "2025-01-24, 15:59:23",
-      "https://news.ycombinator.com/item?id=42814373"
-    ],
-    [
-      "Cloud Virtualization: Red Hat, AWS Firecracker, and Ubicloud internals",
-      "https://www.ubicloud.com/blog/cloud-virtualization-red-hat-aws-firecracker-and-ubicloud-internals"
     ]
   ],
   [
@@ -211,6 +201,16 @@
   ],
   [
     [
+      "2025-01-24, 03:46:02",
+      "https://news.ycombinator.com/item?id=42810293"
+    ],
+    [
+      "How far can you get in 40 minutes from each subway station in NYC?",
+      "https://subwaysheds.com/#11.27/40.7427/-73.9869"
+    ]
+  ],
+  [
+    [
       "2025-01-24, 03:38:46",
       "https://news.ycombinator.com/item?id=42810252"
     ],
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=42803774"
     ],
     [
-      "An overview of gradient descent optimization algorithms",
+      "An overview of gradient descent optimization algorithms (2016)",
       "https://www.ruder.io/optimizing-gradient-descent/"
     ]
   ],
