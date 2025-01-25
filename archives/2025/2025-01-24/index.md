@@ -66,4 +66,5 @@
 * [2025-01-24, 03:02:10](https://news.ycombinator.com/item?id=42810103) - [The Jagged, Monstrous Function That Broke Calculus](https://www.quantamagazine.org/the-jagged-monstrous-function-that-broke-calculus-20250123/)
 * [2025-01-24, 02:28:10](https://news.ycombinator.com/item?id=42809990) - [Supercharge vector search with ColBERT rerank in PostgreSQL](https://blog.vectorchord.ai/supercharge-vector-search-with-colbert-rerank-in-postgresql)
 * [2025-01-24, 02:03:43](https://news.ycombinator.com/item?id=42809895) - [Ergodic Lagrangian dynamics in a superhero universe](https://pubs.aip.org/aapt/ajp/article/93/2/127/3331568/Ergodic-Lagrangian-dynamics-in-a-superhero)
+* [2025-01-24, 01:13:39](https://news.ycombinator.com/item?id=42809648) - [Enigma Cipher Machine: An Object Oriented Python Implementation](https://christopherchmielewski.xyz/blog/2025-01-23-enigma-oo-implementation.html)
 * [2025-01-24, 01:00:52](https://news.ycombinator.com/item?id=42809578) - [Sei (YC W22) Is Hiring](https://www.ycombinator.com/companies/sei/jobs/LeAtLYf-full-stack-engineer-typescript-react-gen-ai)
