@@ -25,9 +25,9 @@
 * [2025-01-23, 13:28:52](https://news.ycombinator.com/item?id=42803774) - [An overview of gradient descent optimization algorithms (2016)](https://www.ruder.io/optimizing-gradient-descent/)
 * [2025-01-22, 19:23:48](https://news.ycombinator.com/item?id=42796496) - [Show HN: Trolling SMS spammers with Ollama](https://evan.widloski.com/software/sms_llm/)
 * [2025-01-22, 18:01:18](https://news.ycombinator.com/item?id=42795646) - [Life lessons from the first half-century of my career](https://cacm.acm.org/opinion/life-lessons-from-the-first-half-century-of-my-career/)
-* [2025-01-22, 16:43:13](https://news.ycombinator.com/item?id=42794691) - [Giant, Mysterious Spires Ruled the Earth Long Before Trees Did](https://www.smithsonianmag.com/smart-news/giant-mysterious-spires-ruled-the-earth-long-before-trees-did-what-exactly-are-these-odd-looking-fossils-13709647/)
 * [2025-01-22, 15:06:36](https://news.ycombinator.com/item?id=42793580) - [A FPGA friendly 32 bit RISC-V CPU implementation](https://github.com/SpinalHDL/VexRiscv)
 * [2025-01-22, 10:49:56](https://news.ycombinator.com/item?id=42791378) - [Open Heart Protocol](https://openheart.fyi/)
+* [2025-01-22, 09:27:07](https://news.ycombinator.com/item?id=42790828) - [Show HN: Habby – A straightforward bullet journal with habit tracking](https://habby.day/)
 * [2025-01-22, 06:21:12](https://news.ycombinator.com/item?id=42789670) - [I got OpenAI o1 to play the boardgame Codenames and it's super good](https://suveenellawela.com/thoughts/codenames-ai)
 * [2025-01-21, 12:22:26](https://news.ycombinator.com/item?id=42779330) - [Show HN: Using YOLO to Detect Office Chairs in 40M Hotel Photos](https://news.ycombinator.com/item?id=42779330)
 
