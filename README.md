@@ -2,6 +2,7 @@
 
 * [2025-01-25, 19:22:15](https://news.ycombinator.com/item?id=42823908) - [Wall Street banks prepare to sell up to $3B in X loans next week](https://www.reuters.com/technology/wall-street-banks-set-sell-billions-dollars-x-loans-wsj-reports-2025-01-24/)
 * [2025-01-25, 19:02:26](https://news.ycombinator.com/item?id=42823722) - [Every HTML Element](https://iamwillwang.com/dollar/every-html-element/)
+* [2025-01-25, 18:55:07](https://news.ycombinator.com/item?id=42823667) - [OpenRA – Classic strategy games rebuilt for the modern era](https://www.openra.net/)
 * [2025-01-25, 18:40:02](https://news.ycombinator.com/item?id=42823569) - [Ask HN: Why are banks charging so many fees for accounts and cards?](https://news.ycombinator.com/item?id=42823569)
 * [2025-01-25, 18:39:49](https://news.ycombinator.com/item?id=42823568) - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL](https://arxiv.org/abs/2501.12948)
 * [2025-01-25, 18:36:56](https://news.ycombinator.com/item?id=42823543) - [Men lose half their emotional support networks between 30 and 90](https://www.psypost.org/men-lose-half-their-emotional-support-networks-between-30-and-90-decades-long-study-finds/)
@@ -27,7 +28,6 @@
 * [2025-01-22, 16:43:13](https://news.ycombinator.com/item?id=42794691) - [Giant, Mysterious Spires Ruled the Earth Long Before Trees Did](https://www.smithsonianmag.com/smart-news/giant-mysterious-spires-ruled-the-earth-long-before-trees-did-what-exactly-are-these-odd-looking-fossils-13709647/)
 * [2025-01-22, 15:06:36](https://news.ycombinator.com/item?id=42793580) - [A FPGA friendly 32 bit RISC-V CPU implementation](https://github.com/SpinalHDL/VexRiscv)
 * [2025-01-22, 10:49:56](https://news.ycombinator.com/item?id=42791378) - [Open Heart Protocol](https://openheart.fyi/)
-* [2025-01-22, 09:27:07](https://news.ycombinator.com/item?id=42790828) - [Show HN: Habby – A straightforward bullet journal with habit tracking](https://habby.day/)
 * [2025-01-22, 06:21:12](https://news.ycombinator.com/item?id=42789670) - [I got OpenAI o1 to play the boardgame Codenames and it's super good](https://suveenellawela.com/thoughts/codenames-ai)
 * [2025-01-21, 12:22:26](https://news.ycombinator.com/item?id=42779330) - [Show HN: Using YOLO to Detect Office Chairs in 40M Hotel Photos](https://news.ycombinator.com/item?id=42779330)
 
