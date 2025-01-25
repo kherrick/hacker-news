@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-25](index.md)
 
 * [2025-01-25, 21:25:42](https://news.ycombinator.com/item?id=42824983) - [Immutability Changes Everything (2016) [pdf]](https://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf)
+* [2025-01-25, 21:23:04](https://news.ycombinator.com/item?id=42824966) - [US Department of Labor to Cease and Desist All Investigation and Enforcement](https://www.dol.gov/newsroom/releases/osec/osec20250124)
 * [2025-01-25, 20:36:26](https://news.ycombinator.com/item?id=42824625) - [Using AI to develop a fuller model of the human brain](https://magazine.ucsf.edu/building-a-silicon-brain)
 * [2025-01-25, 20:35:45](https://news.ycombinator.com/item?id=42824617) - [Wikenigma – an Encyclopedia of Unknowns](https://wikenigma.org.uk/start)
 * [2025-01-25, 20:34:31](https://news.ycombinator.com/item?id=42824608) - [Show HN: Apple-like smooth corners for Tailwind CSS](https://github.com/gtokman/corner-smoothing)

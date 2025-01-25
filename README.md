@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-25, 21:25:42](https://news.ycombinator.com/item?id=42824983) - [Immutability Changes Everything (2016) [pdf]](https://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf)
+* [2025-01-25, 21:23:04](https://news.ycombinator.com/item?id=42824966) - [US Department of Labor to Cease and Desist All Investigation and Enforcement](https://www.dol.gov/newsroom/releases/osec/osec20250124)
 * [2025-01-25, 20:36:26](https://news.ycombinator.com/item?id=42824625) - [Using AI to develop a fuller model of the human brain](https://magazine.ucsf.edu/building-a-silicon-brain)
 * [2025-01-25, 20:35:45](https://news.ycombinator.com/item?id=42824617) - [Wikenigma – an Encyclopedia of Unknowns](https://wikenigma.org.uk/start)
 * [2025-01-25, 20:34:31](https://news.ycombinator.com/item?id=42824608) - [Show HN: Apple-like smooth corners for Tailwind CSS](https://github.com/gtokman/corner-smoothing)
@@ -20,7 +21,6 @@
 * [2025-01-25, 13:14:37](https://news.ycombinator.com/item?id=42821457) - [Show HN: I built a DIY plane spotting system at home](https://pilane.obviy.us/)
 * [2025-01-25, 12:01:09](https://news.ycombinator.com/item?id=42821138) - [Inboxbooster (YC W17) Is Hiring](https://www.ycombinator.com/companies/inboxbooster/jobs/ci7Hwk0-jvm-bytecode-engineer-full-remote)
 * [2025-01-25, 08:47:31](https://news.ycombinator.com/item?id=42820419) - [The Mythical IO-Bound Rails App](https://byroot.github.io/ruby/performance/2025/01/23/the-mythical-io-bound-rails-app.html)
-* [2025-01-24, 18:08:14](https://news.ycombinator.com/item?id=42815673) - [Show HN: Using aerospace projects to teach maths [video]](https://www.youtube.com/watch?v=yJ-ovZGp-D0)
 * [2025-01-24, 03:46:02](https://news.ycombinator.com/item?id=42810293) - [How far can you get in 40 minutes from each subway station in NYC?](https://subwaysheds.com/#11.27/40.7427/-73.9869)
 * [2025-01-23, 21:02:57](https://news.ycombinator.com/item?id=42808038) - [How to build your own ZX80/ZX81 (2019)](http://searle.x10host.com/zx80/zx80.html)
 * [2025-01-23, 13:28:52](https://news.ycombinator.com/item?id=42803774) - [An overview of gradient descent optimization algorithms (2016)](https://www.ruder.io/optimizing-gradient-descent/)
