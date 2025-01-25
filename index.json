@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-25, 17:04:36",
+      "https://news.ycombinator.com/item?id=42822873"
+    ],
+    [
+      "Bloomberg Announces Effort to Ensure U.S. Honors Paris Agreement Commitments",
+      "https://www.bloomberg.org/press/un-special-envoy-michael-r-bloomberg-announces-effort-to-ensure-u-s-honors-paris-agreement-commitments/"
+    ]
+  ],
+  [
+    [
       "2025-01-25, 14:47:33",
       "https://news.ycombinator.com/item?id=42821922"
     ],
@@ -17,16 +27,6 @@
     [
       "Doorbell camera catches rare footage of meteorite striking home's front walkway",
       "https://www.cnn.com/2025/01/22/science/meteorite-strike-doorbell-camera/index.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-25, 14:35:28",
-      "https://news.ycombinator.com/item?id=42821868"
-    ],
-    [
-      "Liberux Nexx: Linux smartphone (found on Galaxus, Swiss online reseller)",
-      "https://www.digitec.ch/en/page/liberux-nexx-linux-smartphone-with-special-features-36483"
     ]
   ],
   [
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2025-01-24, 19:48:51",
-      "https://news.ycombinator.com/item?id=42816359"
-    ],
-    [
-      "The hidden complexity of scaling WebSockets",
-      "https://composehq.com/blog/scaling-websockets-1-23-25"
-    ]
-  ],
-  [
-    [
       "2025-01-24, 16:40:11",
       "https://news.ycombinator.com/item?id=42814820"
     ],
@@ -247,6 +237,16 @@
     [
       "Life lessons from the first half-century of my career",
       "https://cacm.acm.org/opinion/life-lessons-from-the-first-half-century-of-my-career/"
+    ]
+  ],
+  [
+    [
+      "2025-01-22, 15:06:36",
+      "https://news.ycombinator.com/item?id=42793580"
+    ],
+    [
+      "A FPGA friendly 32 bit RISC-V CPU implementation",
+      "https://github.com/SpinalHDL/VexRiscv"
     ]
   ],
   [
