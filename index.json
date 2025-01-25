@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2025-01-25, 01:53:11",
-      "https://news.ycombinator.com/item?id=42818692"
-    ],
-    [
-      "Caltrain's electric fleet more efficient than expected",
-      "https://www.caltrain.com/news/caltrains-electric-fleet-more-efficient-expected"
-    ]
-  ],
-  [
-    [
       "2025-01-25, 00:28:20",
       "https://news.ycombinator.com/item?id=42818278"
     ],
@@ -137,6 +127,16 @@
     [
       "Subpixel Snake [video]",
       "https://www.youtube.com/watch?v=iDwganLjpW0"
+    ]
+  ],
+  [
+    [
+      "2025-01-24, 16:51:16",
+      "https://news.ycombinator.com/item?id=42814948"
+    ],
+    [
+      "A WebAssembly compiler that fits in a tweet",
+      "https://wasmgroundup.com/blog/wasm-compiler-in-a-tweet/"
     ]
   ],
   [
