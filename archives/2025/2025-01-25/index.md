@@ -4,6 +4,15 @@
 
 ### [Archives](../../index.md) for [2025-01-25](index.md)
 
+* [2025-01-25, 20:36:26](https://news.ycombinator.com/item?id=42824625) - [Using AI to develop a fuller model of the human brain](https://magazine.ucsf.edu/building-a-silicon-brain)
+* [2025-01-25, 20:35:45](https://news.ycombinator.com/item?id=42824617) - [Wikenigma – an Encyclopedia of Unknowns](https://wikenigma.org.uk/start)
+* [2025-01-25, 20:34:31](https://news.ycombinator.com/item?id=42824608) - [Show HN: Apple-like smooth corners for Tailwind CSS](https://github.com/gtokman/corner-smoothing)
+* [2025-01-25, 20:32:59](https://news.ycombinator.com/item?id=42824599) - [WebFFT – The Fastest Fourier Transform on the Web](https://github.com/IQEngine/WebFFT)
+* [2025-01-25, 20:29:41](https://news.ycombinator.com/item?id=42824562) - [An invalid 68030 instruction accidentally allowed the Mac Classic II to boot](https://www.downtowndougbrown.com/2025/01/the-invalid-68030-instruction-that-accidentally-allowed-the-mac-classic-ii-to-successfully-boot-up/)
+* [2025-01-25, 20:28:18](https://news.ycombinator.com/item?id=42824553) - [Dual-Link QR Code Generator](https://dualqrcode.com/)
+* [2025-01-25, 20:24:55](https://news.ycombinator.com/item?id=42824526) - [Testtrim: A testing tool that couldn't test itself (until now)](https://mathieu.fenniak.net/testtrim-2025-01-nested-syscall-tracing/)
+* [2025-01-25, 20:23:33](https://news.ycombinator.com/item?id=42824513) - [Show HN: Actionate – GitHub Actions for JetBrains IDEs](https://github.com/revenate/actionate)
+* [2025-01-25, 20:22:53](https://news.ycombinator.com/item?id=42824507) - [Schrödinger: The Nvidia biotech partner Jensen Huang told to \"think bigger\"](https://hntrbrk.com/schrodinger/)
 * [2025-01-25, 19:22:15](https://news.ycombinator.com/item?id=42823908) - [Wall Street banks prepare to sell up to $3B in X loans next week](https://www.reuters.com/technology/wall-street-banks-set-sell-billions-dollars-x-loans-wsj-reports-2025-01-24/)
 * [2025-01-25, 19:02:26](https://news.ycombinator.com/item?id=42823722) - [Every HTML Element](https://iamwillwang.com/dollar/every-html-element/)
 * [2025-01-25, 18:55:07](https://news.ycombinator.com/item?id=42823667) - [OpenRA – Classic strategy games rebuilt for the modern era](https://www.openra.net/)
