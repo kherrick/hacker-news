@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-25](index.md)
 
+* [2025-01-25, 14:51:15](https://news.ycombinator.com/item?id=42821943) - [Why Your AI Product Team Needs an AI Quality Lead](https://freeplay.ai/blog/why-your-ai-product-team-needs-an-ai-quality-lead)
+* [2025-01-25, 14:47:33](https://news.ycombinator.com/item?id=42821922) - [Arsenal FC AI Research Engineer Job Posting](https://careers.arsenal.com/jobs/5434108-research-engineer)
 * [2025-01-25, 14:45:15](https://news.ycombinator.com/item?id=42821911) - [Doorbell camera catches rare footage of meteorite striking home's front walkway](https://www.cnn.com/2025/01/22/science/meteorite-strike-doorbell-camera/index.html)
 * [2025-01-25, 14:10:51](https://news.ycombinator.com/item?id=42821741) - [To make electricity cheaper and greener, connect the world's grids](https://www.economist.com/leaders/2025/01/23/to-make-electricity-cheaper-and-greener-connect-the-worlds-grids)
 * [2025-01-25, 13:47:52](https://news.ycombinator.com/item?id=42821611) - [Hacker infects 18,000 \"script kiddies\" with fake malware builder](https://www.bleepingcomputer.com/news/security/hacker-infects-18-000-script-kiddies-with-fake-malware-builder/)

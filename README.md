@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-25, 14:51:15](https://news.ycombinator.com/item?id=42821943) - [Why Your AI Product Team Needs an AI Quality Lead](https://freeplay.ai/blog/why-your-ai-product-team-needs-an-ai-quality-lead)
+* [2025-01-25, 14:47:33](https://news.ycombinator.com/item?id=42821922) - [Arsenal FC AI Research Engineer Job Posting](https://careers.arsenal.com/jobs/5434108-research-engineer)
 * [2025-01-25, 14:45:15](https://news.ycombinator.com/item?id=42821911) - [Doorbell camera catches rare footage of meteorite striking home's front walkway](https://www.cnn.com/2025/01/22/science/meteorite-strike-doorbell-camera/index.html)
 * [2025-01-25, 14:10:51](https://news.ycombinator.com/item?id=42821741) - [To make electricity cheaper and greener, connect the world's grids](https://www.economist.com/leaders/2025/01/23/to-make-electricity-cheaper-and-greener-connect-the-worlds-grids)
 * [2025-01-25, 13:47:52](https://news.ycombinator.com/item?id=42821611) - [Hacker infects 18,000 \"script kiddies\" with fake malware builder](https://www.bleepingcomputer.com/news/security/hacker-infects-18-000-script-kiddies-with-fake-malware-builder/)
@@ -16,7 +18,6 @@
 * [2025-01-24, 17:21:44](https://news.ycombinator.com/item?id=42815288) - [Subpixel Snake [video]](https://www.youtube.com/watch?v=iDwganLjpW0)
 * [2025-01-24, 16:40:11](https://news.ycombinator.com/item?id=42814820) - [Snowdrop OS – a homebrew operating system from scratch, in assembly language](http://sebastianmihai.com/snowdrop/)
 * [2025-01-24, 16:25:53](https://news.ycombinator.com/item?id=42814683) - [Wild – A fast linker for Linux](https://github.com/davidlattimore/wild)
-* [2025-01-24, 15:50:23](https://news.ycombinator.com/item?id=42814275) - [New book-sorting algorithm almost reaches perfection](https://www.quantamagazine.org/new-book-sorting-algorithm-almost-reaches-perfection-20250124/)
 * [2025-01-24, 15:37:07](https://news.ycombinator.com/item?id=42814110) - [Show HN: Cs16.css – CSS library based on Counter Strike 1.6 UI](https://cs16.samke.me)
 * [2025-01-24, 03:46:02](https://news.ycombinator.com/item?id=42810293) - [How far can you get in 40 minutes from each subway station in NYC?](https://subwaysheds.com/#11.27/40.7427/-73.9869)
 * [2025-01-24, 03:38:46](https://news.ycombinator.com/item?id=42810252) - [A phishing attack involving g.co, Google's URL shortener](https://gist.github.com/zachlatta/f86317493654b550c689dc6509973aa4)
@@ -25,7 +26,6 @@
 * [2025-01-23, 00:24:30](https://news.ycombinator.com/item?id=42799072) - [Ask HN: Moving a not-for-profit web app off AWS](https://news.ycombinator.com/item?id=42799072)
 * [2025-01-22, 19:23:48](https://news.ycombinator.com/item?id=42796496) - [Show HN: Trolling SMS spammers with Ollama](https://evan.widloski.com/software/sms_llm/)
 * [2025-01-22, 18:01:18](https://news.ycombinator.com/item?id=42795646) - [Life lessons from the first half-century of my career](https://cacm.acm.org/opinion/life-lessons-from-the-first-half-century-of-my-career/)
-* [2025-01-22, 12:24:13](https://news.ycombinator.com/item?id=42791994) - [Her dad, the 10k records he left behind and a viral lesson in grief](https://www.washingtonpost.com/style/2025/01/18/vinyl-albums-grief-music-healing/)
 * [2025-01-22, 09:27:07](https://news.ycombinator.com/item?id=42790828) - [Show HN: Habby – A straightforward bullet journal with habit tracking](https://habby.day/)
 * [2025-01-22, 06:21:12](https://news.ycombinator.com/item?id=42789670) - [I got OpenAI o1 to play the boardgame Codenames and it's super good](https://suveenellawela.com/thoughts/codenames-ai)
 * [2025-01-21, 20:15:05](https://news.ycombinator.com/item?id=42784699) - [The FizzBuzz that did not get me the job](https://kranga.notion.site/The-fizzbuzz-that-did-not-get-me-the-job-180e7c22ef3b80c3a386f7f8de720ac7)
