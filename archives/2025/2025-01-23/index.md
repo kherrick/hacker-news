@@ -44,6 +44,7 @@
 * [2025-01-23, 12:00:07](https://news.ycombinator.com/item?id=42803169) - [Extend (YC W23) is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
 * [2025-01-23, 11:05:10](https://news.ycombinator.com/item?id=42802842) - [How to Inspect React Server Component Activity with Next.js and OpenTelemetry](https://www.dash0.com/blog/how-to-inspect-react-server-component-activity-with-next-js)
 * [2025-01-23, 10:53:01](https://news.ycombinator.com/item?id=42802778) - [The British Micro Behemoth](https://www.abortretry.fail/p/the-british-micro-behemoth)
+* [2025-01-23, 10:45:29](https://news.ycombinator.com/item?id=42802737) - [EA Origin is shutting down](https://www.pcworld.com/article/2583928/ea-origin-is-shutting-down-heres-how-to-keep-all-your-games-safe.html)
 * [2025-01-23, 09:58:20](https://news.ycombinator.com/item?id=42802498) - [Where is London's most central sheep?](https://diamondgeezer.blogspot.com/2025/01/londons-most-central-sheep.html)
 * [2025-01-23, 09:11:23](https://news.ycombinator.com/item?id=42802210) - [We're accelerating the Android XR platform with a new agreement with HTC](https://blog.google/feed/android-xr-htc-agreement/)
 * [2025-01-23, 08:09:06](https://news.ycombinator.com/item?id=42801839) - [Jürgen Schmidhuber – Can All-Purpose Robots Fuel a Comeback?](https://people.idsia.ch/~juergen/GerJapUsaChiRobots.html)
