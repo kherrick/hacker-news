@@ -31,32 +31,12 @@
   ],
   [
     [
-      "2025-01-25, 18:40:02",
-      "https://news.ycombinator.com/item?id=42823569"
-    ],
-    [
-      "Ask HN: Why are banks charging so many fees for accounts and cards?",
-      "https://news.ycombinator.com/item?id=42823569"
-    ]
-  ],
-  [
-    [
       "2025-01-25, 18:39:49",
       "https://news.ycombinator.com/item?id=42823568"
     ],
     [
       "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL",
       "https://arxiv.org/abs/2501.12948"
-    ]
-  ],
-  [
-    [
-      "2025-01-25, 14:45:15",
-      "https://news.ycombinator.com/item?id=42821911"
-    ],
-    [
-      "Doorbell camera catches rare footage of meteorite striking home's front walkway",
-      "https://www.cnn.com/2025/01/22/science/meteorite-strike-doorbell-camera/index.html"
     ]
   ],
   [
@@ -167,6 +147,16 @@
     [
       "Show HN: Using aerospace projects to teach maths [video]",
       "https://www.youtube.com/watch?v=yJ-ovZGp-D0"
+    ]
+  ],
+  [
+    [
+      "2025-01-24, 16:40:11",
+      "https://news.ycombinator.com/item?id=42814820"
+    ],
+    [
+      "Snowdrop OS – a homebrew operating system from scratch, in assembly language",
+      "http://sebastianmihai.com/snowdrop/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Show HN: Using YOLO to Detect Office Chairs in 40M Hotel Photos",
       "https://news.ycombinator.com/item?id=42779330"
+    ]
+  ],
+  [
+    [
+      "2025-01-21, 09:47:55",
+      "https://news.ycombinator.com/item?id=42778151"
+    ],
+    [
+      "You probably don't need query builders",
+      "https://mattrighetti.com/2025/01/20/you-dont-need-sql-builders"
     ]
   ]
 ]
