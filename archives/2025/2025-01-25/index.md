@@ -11,6 +11,7 @@
 * [2025-01-25, 14:35:28](https://news.ycombinator.com/item?id=42821868) - [Liberux Nexx: Linux smartphone (found on Galaxus, Swiss online reseller)](https://www.digitec.ch/en/page/liberux-nexx-linux-smartphone-with-special-features-36483)
 * [2025-01-25, 14:10:51](https://news.ycombinator.com/item?id=42821741) - [To make electricity cheaper and greener, connect the world's grids](https://www.economist.com/leaders/2025/01/23/to-make-electricity-cheaper-and-greener-connect-the-worlds-grids)
 * [2025-01-25, 13:55:00](https://news.ycombinator.com/item?id=42821654) - [IEEE Credentialing Program](https://www.ieee.org/education/credentialing/index.html)
+* [2025-01-25, 13:52:39](https://news.ycombinator.com/item?id=42821643) - [Show HN: Krita RGBA Tech – Exploring Filter Engines in Open-Source Art](https://github.com/Draneria/Toolkit-by-Draneria_Krita-Brushes)
 * [2025-01-25, 13:47:52](https://news.ycombinator.com/item?id=42821611) - [Hacker infects 18,000 \"script kiddies\" with fake malware builder](https://www.bleepingcomputer.com/news/security/hacker-infects-18-000-script-kiddies-with-fake-malware-builder/)
 * [2025-01-25, 13:31:31](https://news.ycombinator.com/item?id=42821531) - [Advent of Code 2024 and BQN](https://nrk.neocities.org/articles/aoc24-bqn)
 * [2025-01-25, 13:29:05](https://news.ycombinator.com/item?id=42821519) - [Pixelfed Hit 500K Users](https://fedidb.org/software/pixelfed)
