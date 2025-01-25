@@ -8,6 +8,7 @@
 * [2025-01-25, 18:39:49](https://news.ycombinator.com/item?id=42823568) - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL](https://arxiv.org/abs/2501.12948)
 * [2025-01-25, 18:36:56](https://news.ycombinator.com/item?id=42823543) - [Men lose half their emotional support networks between 30 and 90](https://www.psypost.org/men-lose-half-their-emotional-support-networks-between-30-and-90-decades-long-study-finds/)
 * [2025-01-25, 18:33:41](https://news.ycombinator.com/item?id=42823510) - [DOGE Takeover of USDS Allows Them to Surveil the US Government from the Inside](https://www.wired.com/story/doge-elon-musk/)
+* [2025-01-25, 17:45:59](https://news.ycombinator.com/item?id=42823203) - [AI isn't going to build your startup](https://justinjackson.ca/ai-build-saas)
 * [2025-01-25, 17:04:36](https://news.ycombinator.com/item?id=42822873) - [Bloomberg Announces Effort to Ensure U.S. Honors Paris Agreement Commitments](https://www.bloomberg.org/press/un-special-envoy-michael-r-bloomberg-announces-effort-to-ensure-u-s-honors-paris-agreement-commitments/)
 * [2025-01-25, 16:59:35](https://news.ycombinator.com/item?id=42822825) - [Why North England is poor](https://tomforth.co.uk/whynorthenglandispoor/)
 * [2025-01-25, 16:08:30](https://news.ycombinator.com/item?id=42822430) - [ICE Raids Are an Escalation of Our Long-Simmering De Facto Cold Civil War](https://daringfireball.net/2025/01/ice_raids_are_an_escalation_of_a_de_facto_cold_civil_war)

@@ -26,6 +26,7 @@
 * [2025-01-22, 17:16:22](https://news.ycombinator.com/item?id=42795097) - [Sequent Calculus and Notation – Par Part 1](https://ryanbrewer.dev/posts/sequent-calculus/)
 * [2025-01-22, 17:15:38](https://news.ycombinator.com/item?id=42795085) - [Fluorescent Mineral Photography](https://www.naturesrainbows.com/photography)
 * [2025-01-22, 17:01:17](https://news.ycombinator.com/item?id=42794902) - [Sieve (YC W22) Is Hiring Engineers to Build the Future of Video AI](https://www.sievedata.com/)
+* [2025-01-22, 16:43:13](https://news.ycombinator.com/item?id=42794691) - [Giant, Mysterious Spires Ruled the Earth Long Before Trees Did](https://www.smithsonianmag.com/smart-news/giant-mysterious-spires-ruled-the-earth-long-before-trees-did-what-exactly-are-these-odd-looking-fossils-13709647/)
 * [2025-01-22, 16:34:49](https://news.ycombinator.com/item?id=42794589) - [It's Time to Switch to OpenTofu](https://blog.gruntwork.io/make-the-switch-to-opentofu-6904ba95e799)
 * [2025-01-22, 16:08:59](https://news.ycombinator.com/item?id=42794232) - [Minimal 64x4 Home Computer](https://github.com/slu4coder/Minimal-64x4-Home-Computer)
 * [2025-01-22, 15:50:12](https://news.ycombinator.com/item?id=42794052) - [You vs. a Billionaire: An Interactive Perspective on Wealth](https://www.budgetflow.cc/blog/you-compared-to-elon-musk?referrer=hn)
