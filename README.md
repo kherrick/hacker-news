@@ -11,6 +11,7 @@
 * [2025-01-25, 00:23:34](https://news.ycombinator.com/item?id=42818248) - [You could have invented Fenwick trees](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/you-could-have-invented-fenwick-trees/B4628279D4E54229CED97249E96F721D)
 * [2025-01-24, 22:15:32](https://news.ycombinator.com/item?id=42817439) - [Show HN: Lightpanda, an open-source headless browser in Zig](https://github.com/lightpanda-io/browser)
 * [2025-01-24, 22:15:16](https://news.ycombinator.com/item?id=42817438) - [Show HN: Onit – open-source ChatGPT Desktop with local mode, Claude, Gemini](https://github.com/synth-inc/onit)
+* [2025-01-24, 19:56:31](https://news.ycombinator.com/item?id=42816418) - [A very Chicago gamble](https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/)
 * [2025-01-24, 19:48:51](https://news.ycombinator.com/item?id=42816359) - [The hidden complexity of scaling WebSockets](https://composehq.com/blog/scaling-websockets-1-23-25)
 * [2025-01-24, 17:21:44](https://news.ycombinator.com/item?id=42815288) - [Subpixel Snake [video]](https://www.youtube.com/watch?v=iDwganLjpW0)
 * [2025-01-24, 16:40:11](https://news.ycombinator.com/item?id=42814820) - [Snowdrop OS – a homebrew operating system from scratch, in assembly language](http://sebastianmihai.com/snowdrop/)
@@ -28,7 +29,6 @@
 * [2025-01-22, 12:24:13](https://news.ycombinator.com/item?id=42791994) - [Her dad, the 10k records he left behind and a viral lesson in grief](https://www.washingtonpost.com/style/2025/01/18/vinyl-albums-grief-music-healing/)
 * [2025-01-22, 06:21:12](https://news.ycombinator.com/item?id=42789670) - [I got OpenAI o1 to play the boardgame Codenames and it's super good](https://suveenellawela.com/thoughts/codenames-ai)
 * [2025-01-22, 05:24:03](https://news.ycombinator.com/item?id=42789323) - [Chatbox: Cross-platform desktop client for ChatGPT, Claude and other LLMs](https://github.com/Bin-Huang/chatbox)
-* [2025-01-21, 20:15:05](https://news.ycombinator.com/item?id=42784699) - [The FizzBuzz that did not get me the job](https://kranga.notion.site/The-fizzbuzz-that-did-not-get-me-the-job-180e7c22ef3b80c3a386f7f8de720ac7)
 * [2025-01-21, 12:22:26](https://news.ycombinator.com/item?id=42779330) - [Show HN: Using YOLO to Detect Office Chairs in 40M Hotel Photos](https://news.ycombinator.com/item?id=42779330)
 
 ## [Archives](archives/index.md)
