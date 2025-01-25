@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-25, 23:47:38](https://news.ycombinator.com/item?id=42826171) - [SQLook – A free online SQLite database manager with a Windows 2000 interface](https://sqlook.com)
 * [2025-01-25, 22:48:56](https://news.ycombinator.com/item?id=42825726) - [Texas Is Enforcing Its State Data Privacy Law. So Should Other States](https://www.eff.org/deeplinks/2025/01/texas-enforcing-its-state-data-privacy-law-so-should-other-states)
 * [2025-01-25, 22:15:13](https://news.ycombinator.com/item?id=42825441) - [Steam Brick: No screen, no controller, just a power button and a USB port](https://crastinator-pro.github.io/steam-brick/)
 * [2025-01-25, 22:13:30](https://news.ycombinator.com/item?id=42825423) - [Bucket Robotics (YC S24) Is Hiring Our First Engineer](https://news.ycombinator.com/item?id=42825423)
@@ -18,7 +19,6 @@
 * [2025-01-25, 18:55:07](https://news.ycombinator.com/item?id=42823667) - [OpenRA – Classic strategy games rebuilt for the modern era](https://www.openra.net/)
 * [2025-01-25, 18:39:49](https://news.ycombinator.com/item?id=42823568) - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL](https://arxiv.org/abs/2501.12948)
 * [2025-01-25, 18:16:15](https://news.ycombinator.com/item?id=42823385) - [CIA now favors lab leak theory to explain Covid's origins](https://www.nytimes.com/2025/01/25/us/politics/cia-covid-lab-leak.html)
-* [2025-01-25, 16:59:35](https://news.ycombinator.com/item?id=42822825) - [Why Northern England is poor](https://tomforth.co.uk/whynorthenglandispoor/)
 * [2025-01-25, 14:47:33](https://news.ycombinator.com/item?id=42821922) - [Arsenal FC AI Research Engineer job posting](https://careers.arsenal.com/jobs/5434108-research-engineer)
 * [2025-01-25, 13:14:37](https://news.ycombinator.com/item?id=42821457) - [Show HN: I built a DIY plane spotting system at home](https://pilane.obviy.us/)
 * [2025-01-25, 08:47:31](https://news.ycombinator.com/item?id=42820419) - [The Mythical IO-Bound Rails App](https://byroot.github.io/ruby/performance/2025/01/23/the-mythical-io-bound-rails-app.html)
