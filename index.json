@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-25, 14:10:51",
+      "https://news.ycombinator.com/item?id=42821741"
+    ],
+    [
+      "To make electricity cheaper and greener, connect the world's grids",
+      "https://www.economist.com/leaders/2025/01/23/to-make-electricity-cheaper-and-greener-connect-the-worlds-grids"
+    ]
+  ],
+  [
+    [
       "2025-01-25, 13:47:52",
       "https://news.ycombinator.com/item?id=42821611"
     ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2025-01-24, 22:15:16",
-      "https://news.ycombinator.com/item?id=42817438"
-    ],
-    [
-      "Show HN: Onit – open-source ChatGPT Desktop with local mode, Claude, Gemini",
-      "https://github.com/synth-inc/onit"
-    ]
-  ],
-  [
-    [
       "2025-01-24, 19:48:51",
       "https://news.ycombinator.com/item?id=42816359"
     ],
@@ -177,16 +177,6 @@
     [
       "Show HN: Cs16.css – CSS library based on Counter Strike 1.6 UI",
       "https://cs16.samke.me"
-    ]
-  ],
-  [
-    [
-      "2025-01-24, 14:51:33",
-      "https://news.ycombinator.com/item?id=42813513"
-    ],
-    [
-      "How I Use Home Assistant in 2025",
-      "https://vpetersson.com/2025/01/22/how-i-use-home-assistant-in-2025.html"
     ]
   ],
   [
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2025-01-22, 05:24:03",
-      "https://news.ycombinator.com/item?id=42789323"
+      "2025-01-21, 20:15:05",
+      "https://news.ycombinator.com/item?id=42784699"
     ],
     [
-      "Chatbox: Cross-platform desktop client for ChatGPT, Claude and other LLMs",
-      "https://github.com/Bin-Huang/chatbox"
+      "The FizzBuzz that did not get me the job",
+      "https://kranga.notion.site/The-fizzbuzz-that-did-not-get-me-the-job-180e7c22ef3b80c3a386f7f8de720ac7"
+    ]
+  ],
+  [
+    [
+      "2025-01-21, 12:22:26",
+      "https://news.ycombinator.com/item?id=42779330"
+    ],
+    [
+      "Show HN: Using YOLO to Detect Office Chairs in 40M Hotel Photos",
+      "https://news.ycombinator.com/item?id=42779330"
     ]
   ]
 ]
