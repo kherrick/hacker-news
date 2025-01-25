@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-25, 00:23:34](https://news.ycombinator.com/item?id=42818248) - [You could have invented Fenwick trees](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/you-could-have-invented-fenwick-trees/B4628279D4E54229CED97249E96F721D)
+* [2025-01-25, 00:06:30](https://news.ycombinator.com/item?id=42818169) - [Crushing Jira tickets is a party trick, not a path to impact](https://www.seangoedecke.com/party-tricks/)
+* [2025-01-24, 23:21:25](https://news.ycombinator.com/item?id=42817910) - ['Never seen anything like this' – NIH meetings and travel halted abruptly](https://www.nature.com/articles/d41586-025-00231-y)
 * [2025-01-24, 23:04:13](https://news.ycombinator.com/item?id=42817802) - [Vic-20 Elite](https://vic20elite.wordpress.com/)
 * [2025-01-24, 22:24:08](https://news.ycombinator.com/item?id=42817514) - [Nuclear Proliferation and the \"Nth Country Experiment\"](https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2025-01-23/nuclear-proliferation-and-nth-country-experiment)
 * [2025-01-24, 22:15:32](https://news.ycombinator.com/item?id=42817439) - [Show HN: Lightpanda, an open-source headless browser in Zig](https://github.com/lightpanda-io/browser)
@@ -19,17 +22,14 @@
 * [2025-01-24, 15:50:23](https://news.ycombinator.com/item?id=42814275) - [New Book-Sorting Algorithm Almost Reaches Perfection](https://www.quantamagazine.org/new-book-sorting-algorithm-almost-reaches-perfection-20250124/)
 * [2025-01-24, 15:37:07](https://news.ycombinator.com/item?id=42814110) - [Show HN: Cs16.css – CSS library based on Counter Strike 1.6 UI](https://cs16.samke.me)
 * [2025-01-24, 14:51:33](https://news.ycombinator.com/item?id=42813513) - [How I Use Home Assistant in 2025](https://vpetersson.com/2025/01/22/how-i-use-home-assistant-in-2025.html)
-* [2025-01-24, 14:21:59](https://news.ycombinator.com/item?id=42813264) - [Threlte 8](https://threlte.xyz/blog/threlte-8)
 * [2025-01-24, 13:57:10](https://news.ycombinator.com/item?id=42813049) - [Every System is a Log: Avoiding coordination in distributed applications](https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/)
-* [2025-01-24, 13:21:41](https://news.ycombinator.com/item?id=42812787) - [Clapping Music for two flip-disc displays](https://hannahilea.com/blog/clapping-music-for-flip-disc-displays/)
 * [2025-01-24, 13:20:56](https://news.ycombinator.com/item?id=42812779) - [Ask HN: Why buy domains and 301 redirect them to me?](https://news.ycombinator.com/item?id=42812779)
-* [2025-01-24, 07:40:17](https://news.ycombinator.com/item?id=42811269) - [tele-present wind](https://www.dwbowen.com/telepresent-wind)
 * [2025-01-24, 03:38:46](https://news.ycombinator.com/item?id=42810252) - [A phishing attack involving g.co, Google's URL shortener](https://gist.github.com/zachlatta/f86317493654b550c689dc6509973aa4)
 * [2025-01-22, 19:23:48](https://news.ycombinator.com/item?id=42796496) - [Show HN: Trolling SMS spammers with Ollama](https://evan.widloski.com/software/sms_llm/)
 * [2025-01-22, 12:24:13](https://news.ycombinator.com/item?id=42791994) - [Her dad, the 10k records he left behind and a viral lesson in grief](https://www.washingtonpost.com/style/2025/01/18/vinyl-albums-grief-music-healing/)
 * [2025-01-22, 12:12:37](https://news.ycombinator.com/item?id=42791906) - [Urban legend: I think there is a world market for maybe five computers](https://geekhistory.com/content/urban-legend-i-think-there-world-market-maybe-five-computers)
-* [2025-01-21, 20:50:09](https://news.ycombinator.com/item?id=42785035) - [Remembering Nan Shepherd](https://www.lrb.co.uk/the-paper/v47/n01/fraser-macdonald/diary)
 * [2025-01-21, 17:33:52](https://news.ycombinator.com/item?id=42782872) - [Tilde, My LLVM Alternative](https://yasserarg.com/tb)
+* [2025-01-21, 16:49:01](https://news.ycombinator.com/item?id=42782242) - [How to Visualize Your Python Project's Dependency Graph](https://www.gauge.sh/blog/how-to-visualize-your-python-projects-dependency-graph)
 
 ## [Archives](archives/index.md)
 

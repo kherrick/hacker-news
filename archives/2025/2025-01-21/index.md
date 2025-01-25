@@ -32,6 +32,7 @@
 * [2025-01-21, 17:01:01](https://news.ycombinator.com/item?id=42782440) - [Motion (YC W20) Is Hiring EMs and Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
 * [2025-01-21, 16:52:42](https://news.ycombinator.com/item?id=42782295) - [Show HN: I made a app that uses NFC as a physical switch to block distractions](https://www.foqos.app)
 * [2025-01-21, 16:49:32](https://news.ycombinator.com/item?id=42782246) - [Show HN: SudokuVariants – play and construct different variants of Sudoku](https://sudokuvariants.com)
+* [2025-01-21, 16:49:01](https://news.ycombinator.com/item?id=42782242) - [How to Visualize Your Python Project's Dependency Graph](https://www.gauge.sh/blog/how-to-visualize-your-python-projects-dependency-graph)
 * [2025-01-21, 16:36:14](https://news.ycombinator.com/item?id=42782063) - [A Man Who Dreamed in an Unknown Language](https://medium.com/@arthurcornil/the-man-who-dreamed-in-an-unknown-language-8a424da70b11)
 * [2025-01-21, 16:25:25](https://news.ycombinator.com/item?id=42781922) - [Guided by the beauty of our test suite](https://www.mattkeeter.com/blog/2025-01-20-guided/)
 * [2025-01-21, 16:20:18](https://news.ycombinator.com/item?id=42781846) - [Concept Cells Help Your Brain Abstract Information and Build Memories](https://www.quantamagazine.org/concept-cells-help-your-brain-abstract-information-and-build-memories-20250121/)
