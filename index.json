@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-01-25, 17:04:36",
-      "https://news.ycombinator.com/item?id=42822873"
-    ],
-    [
-      "Bloomberg Announces Effort to Ensure U.S. Honors Paris Agreement Commitments",
-      "https://www.bloomberg.org/press/un-special-envoy-michael-r-bloomberg-announces-effort-to-ensure-u-s-honors-paris-agreement-commitments/"
-    ]
-  ],
-  [
-    [
       "2025-01-25, 14:47:33",
       "https://news.ycombinator.com/item?id=42821922"
     ],
@@ -137,6 +127,16 @@
     [
       "Show HN: Lightpanda, an open-source headless browser in Zig",
       "https://github.com/lightpanda-io/browser"
+    ]
+  ],
+  [
+    [
+      "2025-01-24, 19:48:51",
+      "https://news.ycombinator.com/item?id=42816359"
+    ],
+    [
+      "The hidden complexity of scaling WebSockets",
+      "https://composehq.com/blog/scaling-websockets-1-23-25"
     ]
   ],
   [
