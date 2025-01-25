@@ -58,6 +58,7 @@
 * [2025-01-24, 05:21:44](https://news.ycombinator.com/item?id=42810737) - [New Electrical Code Could Doom Most Common EV Charging](https://www.motortrend.com/news/national-electric-code-revision-threatens-ev-charging/)
 * [2025-01-24, 04:54:21](https://news.ycombinator.com/item?id=42810646) - [New Rust Jobs Site](https://www.RustDevFindJob.com)
 * [2025-01-24, 03:46:19](https://news.ycombinator.com/item?id=42810300) - [UI is hell: four-function calculators](https://lcamtuf.substack.com/p/ui-is-hell-four-function-calculators)
+* [2025-01-24, 03:46:02](https://news.ycombinator.com/item?id=42810293) - [How far can you get in 40 minutes from each subway station in NYC?](https://subwaysheds.com/#11.27/40.7427/-73.9869)
 * [2025-01-24, 03:38:46](https://news.ycombinator.com/item?id=42810252) - [A phishing attack involving g.co, Google's URL shortener](https://gist.github.com/zachlatta/f86317493654b550c689dc6509973aa4)
 * [2025-01-24, 03:22:50](https://news.ycombinator.com/item?id=42810176) - [The State of Vim](https://lwn.net/Articles/1002342/)
 * [2025-01-24, 03:22:30](https://news.ycombinator.com/item?id=42810175) - [Ignore the Grifters – AI Isn't Going to Kill the Software Industry](https://dustinewers.com/ignore-the-grifters/)
