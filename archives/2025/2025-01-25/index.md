@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-25](index.md)
 
+* [2025-01-25, 03:38:52](https://news.ycombinator.com/item?id=42819262) - [TinyZero](https://github.com/Jiayi-Pan/TinyZero)
 * [2025-01-25, 02:48:48](https://news.ycombinator.com/item?id=42819018) - [Kidnappers sever finger of cryptocurrency millionaire David Balland](https://moneycheck.com/french-police-free-kidnapped-ledger-executive-after-day-long-ordeal/)
 * [2025-01-25, 02:29:36](https://news.ycombinator.com/item?id=42818917) - [Deadly and Imminent; The Pentagon's Mad Dash for Silicon Valley's AI Weapons](https://www.citizen.org/article/deadly-and-imminent-report/)
 * [2025-01-25, 01:53:11](https://news.ycombinator.com/item?id=42818692) - [Caltrain's Electric Fleet More Efficient Than Expected](https://www.caltrain.com/news/caltrains-electric-fleet-more-efficient-expected)
