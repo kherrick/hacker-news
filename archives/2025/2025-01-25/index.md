@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-01-25](index.md)
 
+* [2025-01-25, 22:13:30](https://news.ycombinator.com/item?id=42825423) - [Bucket Robotics (YC S24) Is Hiring Our First Engineer](https://news.ycombinator.com/item?id=42825423)
 * [2025-01-25, 21:40:08](https://news.ycombinator.com/item?id=42825126) - [Fault Tolerance in Tandem Computer Systems (1986)[pdf]](https://jimgray.azurewebsites.net/papers/TandemTR86.2_FaultToleranceInTandemComputerSystems.pdf)
+* [2025-01-25, 21:37:41](https://news.ycombinator.com/item?id=42825097) - [Larry Ellison: vast AI surveillance can ensure citizens are on best behavior](https://www.businessinsider.com/larry-ellison-ai-surveillance-keep-citizens-on-their-best-behavior-2024-9)
+* [2025-01-25, 21:33:42](https://news.ycombinator.com/item?id=42825048) - [Poll: What is your preferred Search Engine?](https://news.ycombinator.com/item?id=42825048)
 * [2025-01-25, 21:25:42](https://news.ycombinator.com/item?id=42824983) - [Immutability Changes Everything (2016) [pdf]](https://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf)
 * [2025-01-25, 21:23:04](https://news.ycombinator.com/item?id=42824966) - [US Department of Labor to Cease and Desist All Investigation and Enforcement](https://www.dol.gov/newsroom/releases/osec/osec20250124)
 * [2025-01-25, 20:36:26](https://news.ycombinator.com/item?id=42824625) - [Using AI to develop a fuller model of the human brain](https://magazine.ucsf.edu/building-a-silicon-brain)
