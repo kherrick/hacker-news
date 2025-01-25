@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-01-25, 16:59:35",
-      "https://news.ycombinator.com/item?id=42822825"
-    ],
-    [
-      "Why Northern England is poor",
-      "https://tomforth.co.uk/whynorthenglandispoor/"
-    ]
-  ],
-  [
-    [
       "2025-01-25, 14:47:33",
       "https://news.ycombinator.com/item?id=42821922"
     ],
@@ -267,6 +257,16 @@
     [
       "A FPGA friendly 32 bit RISC-V CPU implementation",
       "https://github.com/SpinalHDL/VexRiscv"
+    ]
+  ],
+  [
+    [
+      "2025-01-22, 12:39:50",
+      "https://news.ycombinator.com/item?id=42792149"
+    ],
+    [
+      "Show HN: Puck 0.18 adds drag-and-drop for CSS grid and Flexbox",
+      "https://github.com/measuredco/puck/releases/tag/v0.18.0"
     ]
   ],
   [
