@@ -3,9 +3,7 @@
 * [2025-01-25, 19:22:15](https://news.ycombinator.com/item?id=42823908) - [Wall Street banks prepare to sell up to $3B in X loans next week](https://www.reuters.com/technology/wall-street-banks-set-sell-billions-dollars-x-loans-wsj-reports-2025-01-24/)
 * [2025-01-25, 19:02:26](https://news.ycombinator.com/item?id=42823722) - [Every HTML Element](https://iamwillwang.com/dollar/every-html-element/)
 * [2025-01-25, 18:55:07](https://news.ycombinator.com/item?id=42823667) - [OpenRA – Classic strategy games rebuilt for the modern era](https://www.openra.net/)
-* [2025-01-25, 18:40:02](https://news.ycombinator.com/item?id=42823569) - [Ask HN: Why are banks charging so many fees for accounts and cards?](https://news.ycombinator.com/item?id=42823569)
 * [2025-01-25, 18:39:49](https://news.ycombinator.com/item?id=42823568) - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL](https://arxiv.org/abs/2501.12948)
-* [2025-01-25, 14:45:15](https://news.ycombinator.com/item?id=42821911) - [Doorbell camera catches rare footage of meteorite striking home's front walkway](https://www.cnn.com/2025/01/22/science/meteorite-strike-doorbell-camera/index.html)
 * [2025-01-25, 13:55:00](https://news.ycombinator.com/item?id=42821654) - [IEEE Credentialing Program](https://www.ieee.org/education/credentialing/index.html)
 * [2025-01-25, 13:52:39](https://news.ycombinator.com/item?id=42821643) - [Show HN: Krita RGBA Tech – Exploring Filter Engines in Open-Source Art](https://github.com/Draneria/Toolkit-by-Draneria_Krita-Brushes)
 * [2025-01-25, 13:47:52](https://news.ycombinator.com/item?id=42821611) - [Hacker infects 18,000 \"script kiddies\" with fake malware builder](https://www.bleepingcomputer.com/news/security/hacker-infects-18-000-script-kiddies-with-fake-malware-builder/)
@@ -17,6 +15,7 @@
 * [2025-01-25, 00:28:20](https://news.ycombinator.com/item?id=42818278) - [File Explorer is merged to Helix editor](https://github.com/helix-editor/helix/pull/11285)
 * [2025-01-24, 22:15:32](https://news.ycombinator.com/item?id=42817439) - [Show HN: Lightpanda, an open-source headless browser in Zig](https://github.com/lightpanda-io/browser)
 * [2025-01-24, 18:08:14](https://news.ycombinator.com/item?id=42815673) - [Show HN: Using aerospace projects to teach maths [video]](https://www.youtube.com/watch?v=yJ-ovZGp-D0)
+* [2025-01-24, 16:40:11](https://news.ycombinator.com/item?id=42814820) - [Snowdrop OS – a homebrew operating system from scratch, in assembly language](http://sebastianmihai.com/snowdrop/)
 * [2025-01-24, 16:25:53](https://news.ycombinator.com/item?id=42814683) - [Wild – A fast linker for Linux](https://github.com/davidlattimore/wild)
 * [2025-01-24, 15:37:07](https://news.ycombinator.com/item?id=42814110) - [Show HN: Cs16.css – CSS library based on Counter Strike 1.6 UI](https://cs16.samke.me)
 * [2025-01-24, 03:46:02](https://news.ycombinator.com/item?id=42810293) - [How far can you get in 40 minutes from each subway station in NYC?](https://subwaysheds.com/#11.27/40.7427/-73.9869)
@@ -30,6 +29,7 @@
 * [2025-01-22, 10:49:56](https://news.ycombinator.com/item?id=42791378) - [Open Heart Protocol](https://openheart.fyi/)
 * [2025-01-22, 06:21:12](https://news.ycombinator.com/item?id=42789670) - [I got OpenAI o1 to play the boardgame Codenames and it's super good](https://suveenellawela.com/thoughts/codenames-ai)
 * [2025-01-21, 12:22:26](https://news.ycombinator.com/item?id=42779330) - [Show HN: Using YOLO to Detect Office Chairs in 40M Hotel Photos](https://news.ycombinator.com/item?id=42779330)
+* [2025-01-21, 09:47:55](https://news.ycombinator.com/item?id=42778151) - [You probably don't need query builders](https://mattrighetti.com/2025/01/20/you-dont-need-sql-builders)
 
 ## [Archives](archives/index.md)
 
