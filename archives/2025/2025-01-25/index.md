@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-25](index.md)
 
+* [2025-01-25, 22:48:56](https://news.ycombinator.com/item?id=42825726) - [Texas Is Enforcing Its State Data Privacy Law. So Should Other States](https://www.eff.org/deeplinks/2025/01/texas-enforcing-its-state-data-privacy-law-so-should-other-states)
 * [2025-01-25, 22:15:13](https://news.ycombinator.com/item?id=42825441) - [Steam Brick: No screen, no controller, just a power button and a USB port](https://crastinator-pro.github.io/steam-brick/)
 * [2025-01-25, 22:13:30](https://news.ycombinator.com/item?id=42825423) - [Bucket Robotics (YC S24) Is Hiring Our First Engineer](https://news.ycombinator.com/item?id=42825423)
 * [2025-01-25, 21:40:08](https://news.ycombinator.com/item?id=42825126) - [Fault Tolerance in Tandem Computer Systems (1986)[pdf]](https://jimgray.azurewebsites.net/papers/TandemTR86.2_FaultToleranceInTandemComputerSystems.pdf)
