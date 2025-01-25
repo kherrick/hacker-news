@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-25](index.md)
 
+* [2025-01-25, 08:48:42](https://news.ycombinator.com/item?id=42820421) - [Gongzilla: The collapsing cost of dumb ideas](https://everything.intellectronica.net/p/gongzilla)
 * [2025-01-25, 07:07:11](https://news.ycombinator.com/item?id=42820053) - [First Look: Loops, by Pixelfed – Decentralised TikTok Competitor (2024)](https://wedistribute.org/2024/11/loops-early-look/)
 * [2025-01-25, 06:51:49](https://news.ycombinator.com/item?id=42819973) - [Dwarf Fortress Adventure Mode – Out Now – Official Release Trailer [video]](https://www.youtube.com/watch?v=7zY0UxSxTzU)
 * [2025-01-25, 06:04:38](https://news.ycombinator.com/item?id=42819834) - [Feeling Targeted: Executive Order Ending Wasteful DEIA Efforts](https://hartmans.dreamwidth.org/101412.html)
