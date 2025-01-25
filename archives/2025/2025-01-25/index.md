@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-25](index.md)
 
+* [2025-01-25, 13:31:31](https://news.ycombinator.com/item?id=42821531) - [Advent of Code 2024 and BQN](https://nrk.neocities.org/articles/aoc24-bqn)
+* [2025-01-25, 13:03:26](https://news.ycombinator.com/item?id=42821399) - [My Impressions of Gleam](https://snarky.ca/my-impressions-of-gleam/)
 * [2025-01-25, 12:01:09](https://news.ycombinator.com/item?id=42821138) - [Inboxbooster (YC W17) Is Hiring](https://www.ycombinator.com/companies/inboxbooster/jobs/ci7Hwk0-jvm-bytecode-engineer-full-remote)
 * [2025-01-25, 08:48:42](https://news.ycombinator.com/item?id=42820421) - [Gongzilla: The collapsing cost of dumb ideas](https://everything.intellectronica.net/p/gongzilla)
 * [2025-01-25, 08:47:31](https://news.ycombinator.com/item?id=42820419) - [The Mythical IO-Bound Rails App](https://byroot.github.io/ruby/performance/2025/01/23/the-mythical-io-bound-rails-app.html)

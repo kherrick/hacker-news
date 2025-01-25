@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-25, 13:31:31](https://news.ycombinator.com/item?id=42821531) - [Advent of Code 2024 and BQN](https://nrk.neocities.org/articles/aoc24-bqn)
+* [2025-01-25, 13:03:26](https://news.ycombinator.com/item?id=42821399) - [My Impressions of Gleam](https://snarky.ca/my-impressions-of-gleam/)
 * [2025-01-25, 12:01:09](https://news.ycombinator.com/item?id=42821138) - [Inboxbooster (YC W17) Is Hiring](https://www.ycombinator.com/companies/inboxbooster/jobs/ci7Hwk0-jvm-bytecode-engineer-full-remote)
 * [2025-01-25, 08:48:42](https://news.ycombinator.com/item?id=42820421) - [Gongzilla: The collapsing cost of dumb ideas](https://everything.intellectronica.net/p/gongzilla)
 * [2025-01-25, 08:47:31](https://news.ycombinator.com/item?id=42820419) - [The Mythical IO-Bound Rails App](https://byroot.github.io/ruby/performance/2025/01/23/the-mythical-io-bound-rails-app.html)
@@ -9,9 +11,7 @@
 * [2025-01-25, 00:23:34](https://news.ycombinator.com/item?id=42818248) - [You could have invented Fenwick trees](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/you-could-have-invented-fenwick-trees/B4628279D4E54229CED97249E96F721D)
 * [2025-01-24, 22:15:32](https://news.ycombinator.com/item?id=42817439) - [Show HN: Lightpanda, an open-source headless browser in Zig](https://github.com/lightpanda-io/browser)
 * [2025-01-24, 22:15:16](https://news.ycombinator.com/item?id=42817438) - [Show HN: Onit – open-source ChatGPT Desktop with local mode, Claude, Gemini](https://github.com/synth-inc/onit)
-* [2025-01-24, 19:56:31](https://news.ycombinator.com/item?id=42816418) - [A very Chicago gamble](https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/)
 * [2025-01-24, 19:48:51](https://news.ycombinator.com/item?id=42816359) - [The hidden complexity of scaling WebSockets](https://composehq.com/blog/scaling-websockets-1-23-25)
-* [2025-01-24, 18:19:35](https://news.ycombinator.com/item?id=42815755) - [Anatomy of a Formal Proof](https://www.ams.org/journals/notices/202502/noti3114/noti3114.html)
 * [2025-01-24, 17:21:44](https://news.ycombinator.com/item?id=42815288) - [Subpixel Snake [video]](https://www.youtube.com/watch?v=iDwganLjpW0)
 * [2025-01-24, 16:40:11](https://news.ycombinator.com/item?id=42814820) - [Snowdrop OS – a homebrew operating system from scratch, in assembly language](http://sebastianmihai.com/snowdrop/)
 * [2025-01-24, 16:25:53](https://news.ycombinator.com/item?id=42814683) - [Wild – A fast linker for Linux](https://github.com/davidlattimore/wild)
