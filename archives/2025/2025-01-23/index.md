@@ -32,6 +32,7 @@
 * [2025-01-23, 14:49:43](https://news.ycombinator.com/item?id=42804566) - [Psychedelic Graphics: An Introduction](https://benpence.com/blog/post/psychedelic-graphics-0)
 * [2025-01-23, 14:43:39](https://news.ycombinator.com/item?id=42804506) - [Third Base (2001)](https://www.americanscientist.org/article/third-base)
 * [2025-01-23, 14:38:09](https://news.ycombinator.com/item?id=42804434) - [Turn Any Bicycle Electric](https://dhruvvidyut.co.in/)
+* [2025-01-23, 13:44:46](https://news.ycombinator.com/item?id=42803917) - [Show HN: I made an extension that turns Google Sheets into Google Slides](https://workspace.google.com/marketplace/app/botsheets_ai_content_generator/401292491579)
 * [2025-01-23, 13:28:52](https://news.ycombinator.com/item?id=42803774) - [An overview of gradient descent optimization algorithms](https://www.ruder.io/optimizing-gradient-descent/)
 * [2025-01-23, 13:06:35](https://news.ycombinator.com/item?id=42803597) - [Shifting Cyber Norms: Microsoft security POST-ing to you](https://berthub.eu/articles/posts/shifting-cyber-norms-microsoft-post/)
 * [2025-01-23, 13:02:56](https://news.ycombinator.com/item?id=42803562) - [Hackers exploit 16 zero-days on first day of Pwn2Own Automotive 2025](https://www.bleepingcomputer.com/news/security/hackers-exploit-16-zero-days-on-first-day-of-pwn2own-automotive-2025/)
