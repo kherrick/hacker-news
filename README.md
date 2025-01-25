@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-25, 17:04:36](https://news.ycombinator.com/item?id=42822873) - [Bloomberg Announces Effort to Ensure U.S. Honors Paris Agreement Commitments](https://www.bloomberg.org/press/un-special-envoy-michael-r-bloomberg-announces-effort-to-ensure-u-s-honors-paris-agreement-commitments/)
 * [2025-01-25, 14:47:33](https://news.ycombinator.com/item?id=42821922) - [Arsenal FC AI Research Engineer Job Posting](https://careers.arsenal.com/jobs/5434108-research-engineer)
 * [2025-01-25, 14:45:15](https://news.ycombinator.com/item?id=42821911) - [Doorbell camera catches rare footage of meteorite striking home's front walkway](https://www.cnn.com/2025/01/22/science/meteorite-strike-doorbell-camera/index.html)
 * [2025-01-25, 13:55:00](https://news.ycombinator.com/item?id=42821654) - [IEEE Credentialing Program](https://www.ieee.org/education/credentialing/index.html)
@@ -14,6 +13,7 @@
 * [2025-01-25, 03:38:52](https://news.ycombinator.com/item?id=42819262) - [TinyZero](https://github.com/Jiayi-Pan/TinyZero)
 * [2025-01-25, 00:28:20](https://news.ycombinator.com/item?id=42818278) - [File Explorer is merged to Helix editor](https://github.com/helix-editor/helix/pull/11285)
 * [2025-01-24, 22:15:32](https://news.ycombinator.com/item?id=42817439) - [Show HN: Lightpanda, an open-source headless browser in Zig](https://github.com/lightpanda-io/browser)
+* [2025-01-24, 19:48:51](https://news.ycombinator.com/item?id=42816359) - [The hidden complexity of scaling WebSockets](https://composehq.com/blog/scaling-websockets-1-23-25)
 * [2025-01-24, 16:40:11](https://news.ycombinator.com/item?id=42814820) - [Snowdrop OS – a homebrew operating system from scratch, in assembly language](http://sebastianmihai.com/snowdrop/)
 * [2025-01-24, 16:25:53](https://news.ycombinator.com/item?id=42814683) - [Wild – A fast linker for Linux](https://github.com/davidlattimore/wild)
 * [2025-01-24, 15:37:07](https://news.ycombinator.com/item?id=42814110) - [Show HN: Cs16.css – CSS library based on Counter Strike 1.6 UI](https://cs16.samke.me)
