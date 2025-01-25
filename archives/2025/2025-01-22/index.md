@@ -51,6 +51,7 @@
 * [2025-01-22, 11:13:47](https://news.ycombinator.com/item?id=42791500) - [A simplified analysis of the Chernobyl accident (2021)](https://www.epj-n.org/articles/epjn/full_html/2021/01/epjn200018/epjn200018.html)
 * [2025-01-22, 11:07:45](https://news.ycombinator.com/item?id=42791465) - [LoongArch64 Subjective Higlights](http://0x80.pl/notesen/2025-01-21-loongarch64-highlights.html)
 * [2025-01-22, 11:00:48](https://news.ycombinator.com/item?id=42791428) - [My Struggle with Doom Scrolling](https://allthatjazz.me/posts/doom-scrolling-struggles)
+* [2025-01-22, 10:49:56](https://news.ycombinator.com/item?id=42791378) - [Open Heart Protocol](https://openheart.fyi/)
 * [2025-01-22, 10:37:04](https://news.ycombinator.com/item?id=42791310) - [Data Branching for Batch Job Systems](https://isaacjordan.me/blog/2025/01/data-branching-for-batch-job-systems)
 * [2025-01-22, 09:54:25](https://news.ycombinator.com/item?id=42791036) - [I wrote my own \"proper\" programming language (2020)](https://mukulrathi.com/create-your-own-programming-language/intro-to-compiler/)
 * [2025-01-22, 09:34:50](https://news.ycombinator.com/item?id=42790902) - [Building a full-text search engine in 150 lines of Python code (2021)](https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/)
