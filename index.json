@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-01-25, 01:12:04",
+      "https://news.ycombinator.com/item?id=42818513"
+    ],
+    [
+      "OpenAI just put the final nail in the coffin of the open World Wide Web",
+      "https://brids.bearblog.dev/openai-just-put-the-final-nail-in-the-coffin-of-the-open-world-wide-web/"
+    ]
+  ],
+  [
+    [
+      "2025-01-25, 00:38:18",
+      "https://news.ycombinator.com/item?id=42818337"
+    ],
+    [
+      "Android SMS Gateway Using MQTT",
+      "https://github.com/ibnux/Android-SMS-Gateway-MQTT"
+    ]
+  ],
+  [
+    [
+      "2025-01-25, 00:28:20",
+      "https://news.ycombinator.com/item?id=42818278"
+    ],
+    [
+      "File Explorer is merged to Helix editor",
+      "https://github.com/helix-editor/helix/pull/11285"
+    ]
+  ],
+  [
+    [
       "2025-01-25, 00:23:34",
       "https://news.ycombinator.com/item?id=42818248"
     ],
@@ -21,21 +51,11 @@
   ],
   [
     [
-      "2025-01-24, 23:21:25",
-      "https://news.ycombinator.com/item?id=42817910"
-    ],
-    [
-      "'Never seen anything like this' – NIH meetings and travel halted abruptly",
-      "https://www.nature.com/articles/d41586-025-00231-y"
-    ]
-  ],
-  [
-    [
       "2025-01-24, 23:04:13",
       "https://news.ycombinator.com/item?id=42817802"
     ],
     [
-      "Vic-20 Elite",
+      "VIC 20 Elite",
       "https://vic20elite.wordpress.com/"
     ]
   ],
@@ -67,16 +87,6 @@
     [
       "Show HN: Onit – open-source ChatGPT Desktop with local mode, Claude, Gemini",
       "https://github.com/synth-inc/onit"
-    ]
-  ],
-  [
-    [
-      "2025-01-24, 22:08:05",
-      "https://news.ycombinator.com/item?id=42817388"
-    ],
-    [
-      "Legalyze.ai: Review Medical Records with AI",
-      "https://www.legalyze.ai/"
     ]
   ],
   [
@@ -195,7 +205,7 @@
       "https://news.ycombinator.com/item?id=42814275"
     ],
     [
-      "New Book-Sorting Algorithm Almost Reaches Perfection",
+      "New book-sorting algorithm almost reaches perfection",
       "https://www.quantamagazine.org/new-book-sorting-algorithm-almost-reaches-perfection-20250124/"
     ]
   ],
@@ -217,16 +227,6 @@
     [
       "How I Use Home Assistant in 2025",
       "https://vpetersson.com/2025/01/22/how-i-use-home-assistant-in-2025.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-24, 13:57:10",
-      "https://news.ycombinator.com/item?id=42813049"
-    ],
-    [
-      "Every System is a Log: Avoiding coordination in distributed applications",
-      "https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2025-01-22, 05:24:03",
+      "https://news.ycombinator.com/item?id=42789323"
+    ],
+    [
+      "Chatbox: Cross-platform desktop client for ChatGPT, Claude and other LLMs",
+      "https://github.com/Bin-Huang/chatbox"
+    ]
+  ],
+  [
+    [
       "2025-01-21, 17:33:52",
       "https://news.ycombinator.com/item?id=42782872"
     ],
     [
       "Tilde, My LLVM Alternative",
       "https://yasserarg.com/tb"
-    ]
-  ],
-  [
-    [
-      "2025-01-21, 16:49:01",
-      "https://news.ycombinator.com/item?id=42782242"
-    ],
-    [
-      "How to Visualize Your Python Project's Dependency Graph",
-      "https://www.gauge.sh/blog/how-to-visualize-your-python-projects-dependency-graph"
     ]
   ]
 ]
