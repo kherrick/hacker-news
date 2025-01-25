@@ -2,7 +2,6 @@
 
 * [2025-01-25, 02:48:48](https://news.ycombinator.com/item?id=42819018) - [Kidnappers sever finger of cryptocurrency millionaire David Balland](https://moneycheck.com/french-police-free-kidnapped-ledger-executive-after-day-long-ordeal/)
 * [2025-01-25, 01:53:11](https://news.ycombinator.com/item?id=42818692) - [Caltrain's Electric Fleet More Efficient Than Expected](https://www.caltrain.com/news/caltrains-electric-fleet-more-efficient-expected)
-* [2025-01-25, 01:38:19](https://news.ycombinator.com/item?id=42818625) - [Frustrated YouTube viewers seek explanation for hour-long unskippable ads](https://www.androidauthority.com/youtube-long-unskippable-ads-problem-3519957/)
 * [2025-01-25, 01:27:32](https://news.ycombinator.com/item?id=42818581) - [Show HN: I recovered one of my earliest ZX-Spectrum games from an audio cassette](https://news.ycombinator.com/item?id=42818581)
 * [2025-01-25, 00:38:18](https://news.ycombinator.com/item?id=42818337) - [Android SMS Gateway Using MQTT](https://github.com/ibnux/Android-SMS-Gateway-MQTT)
 * [2025-01-25, 00:28:20](https://news.ycombinator.com/item?id=42818278) - [File Explorer is merged to Helix editor](https://github.com/helix-editor/helix/pull/11285)
@@ -20,6 +19,7 @@
 * [2025-01-24, 16:51:16](https://news.ycombinator.com/item?id=42814948) - [A WebAssembly compiler that fits in a tweet](https://wasmgroundup.com/blog/wasm-compiler-in-a-tweet/)
 * [2025-01-24, 16:40:11](https://news.ycombinator.com/item?id=42814820) - [Snowdrop OS – a homebrew operating system from scratch, in assembly language](http://sebastianmihai.com/snowdrop/)
 * [2025-01-24, 16:25:53](https://news.ycombinator.com/item?id=42814683) - [Wild – A fast linker for Linux](https://github.com/davidlattimore/wild)
+* [2025-01-24, 15:59:23](https://news.ycombinator.com/item?id=42814373) - [Cloud Virtualization: Red Hat, AWS Firecracker, and Ubicloud internals](https://www.ubicloud.com/blog/cloud-virtualization-red-hat-aws-firecracker-and-ubicloud-internals)
 * [2025-01-24, 15:50:23](https://news.ycombinator.com/item?id=42814275) - [New book-sorting algorithm almost reaches perfection](https://www.quantamagazine.org/new-book-sorting-algorithm-almost-reaches-perfection-20250124/)
 * [2025-01-24, 15:37:07](https://news.ycombinator.com/item?id=42814110) - [Show HN: Cs16.css – CSS library based on Counter Strike 1.6 UI](https://cs16.samke.me)
 * [2025-01-24, 14:51:33](https://news.ycombinator.com/item?id=42813513) - [How I Use Home Assistant in 2025](https://vpetersson.com/2025/01/22/how-i-use-home-assistant-in-2025.html)
