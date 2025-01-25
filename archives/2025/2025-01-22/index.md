@@ -18,6 +18,7 @@
 * [2025-01-22, 20:08:57](https://news.ycombinator.com/item?id=42796950) - [How to improve your WFH lighting to reduce eye strain](https://rustle.ca/posts/articles/work-from-home-lighting)
 * [2025-01-22, 20:03:42](https://news.ycombinator.com/item?id=42796906) - [I made a multiplayer shooter game in Lisp, here is my journey](https://ertu.dev/posts/i-made-an-online-shooter-game-in-lisp/)
 * [2025-01-22, 19:23:48](https://news.ycombinator.com/item?id=42796496) - [Show HN: Trolling SMS spammers with Ollama](https://evan.widloski.com/software/sms_llm/)
+* [2025-01-22, 19:03:06](https://news.ycombinator.com/item?id=42796298) - [M87* One Year Later: Catching the Black Hole's Turbulent Accretion Flow](https://eventhorizontelescope.org/m87-one-year-later-catching-black-holes-turbulent-accretion-flow)
 * [2025-01-22, 18:38:47](https://news.ycombinator.com/item?id=42796058) - [C stdlib isn't threadsafe and even safe Rust didn't save us](https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us)
 * [2025-01-22, 18:01:18](https://news.ycombinator.com/item?id=42795646) - [Life Lessons from the First Half-Century of My Career](https://cacm.acm.org/opinion/life-lessons-from-the-first-half-century-of-my-career/)
 * [2025-01-22, 17:40:09](https://news.ycombinator.com/item?id=42795375) - [Show HN: BrowserAI – Run LLMs directly in browser using WebGPU (open source)](https://github.com/sauravpanda/BrowserAI)

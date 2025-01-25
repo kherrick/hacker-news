@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-25](index.md)
 
+* [2025-01-25, 21:25:42](https://news.ycombinator.com/item?id=42824983) - [Immutability Changes Everything (2016) [pdf]](https://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf)
 * [2025-01-25, 20:36:26](https://news.ycombinator.com/item?id=42824625) - [Using AI to develop a fuller model of the human brain](https://magazine.ucsf.edu/building-a-silicon-brain)
 * [2025-01-25, 20:35:45](https://news.ycombinator.com/item?id=42824617) - [Wikenigma – an Encyclopedia of Unknowns](https://wikenigma.org.uk/start)
 * [2025-01-25, 20:34:31](https://news.ycombinator.com/item?id=42824608) - [Show HN: Apple-like smooth corners for Tailwind CSS](https://github.com/gtokman/corner-smoothing)
@@ -13,6 +14,7 @@
 * [2025-01-25, 20:24:55](https://news.ycombinator.com/item?id=42824526) - [Testtrim: A testing tool that couldn't test itself (until now)](https://mathieu.fenniak.net/testtrim-2025-01-nested-syscall-tracing/)
 * [2025-01-25, 20:23:33](https://news.ycombinator.com/item?id=42824513) - [Show HN: Actionate – GitHub Actions for JetBrains IDEs](https://github.com/revenate/actionate)
 * [2025-01-25, 20:22:53](https://news.ycombinator.com/item?id=42824507) - [Schrödinger: The Nvidia biotech partner Jensen Huang told to \"think bigger\"](https://hntrbrk.com/schrodinger/)
+* [2025-01-25, 20:19:12](https://news.ycombinator.com/item?id=42824473) - [Searching for DeepSeek's glitch tokens](https://outsidetext.substack.com/p/anomalous-tokens-in-deepseek-v3-and)
 * [2025-01-25, 19:22:15](https://news.ycombinator.com/item?id=42823908) - [Wall Street banks prepare to sell up to $3B in X loans next week](https://www.reuters.com/technology/wall-street-banks-set-sell-billions-dollars-x-loans-wsj-reports-2025-01-24/)
 * [2025-01-25, 19:02:26](https://news.ycombinator.com/item?id=42823722) - [Every HTML Element](https://iamwillwang.com/dollar/every-html-element/)
 * [2025-01-25, 18:55:07](https://news.ycombinator.com/item?id=42823667) - [OpenRA – Classic strategy games rebuilt for the modern era](https://www.openra.net/)
@@ -20,6 +22,7 @@
 * [2025-01-25, 18:39:49](https://news.ycombinator.com/item?id=42823568) - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL](https://arxiv.org/abs/2501.12948)
 * [2025-01-25, 18:36:56](https://news.ycombinator.com/item?id=42823543) - [Men lose half their emotional support networks between 30 and 90](https://www.psypost.org/men-lose-half-their-emotional-support-networks-between-30-and-90-decades-long-study-finds/)
 * [2025-01-25, 18:33:41](https://news.ycombinator.com/item?id=42823510) - [DOGE Takeover of USDS Allows Them to Surveil the US Government from the Inside](https://www.wired.com/story/doge-elon-musk/)
+* [2025-01-25, 18:16:15](https://news.ycombinator.com/item?id=42823385) - [CIA now favors lab leak theory to explain Covid's origins](https://www.nytimes.com/2025/01/25/us/politics/cia-covid-lab-leak.html)
 * [2025-01-25, 17:45:59](https://news.ycombinator.com/item?id=42823203) - [AI isn't going to build your startup](https://justinjackson.ca/ai-build-saas)
 * [2025-01-25, 17:04:36](https://news.ycombinator.com/item?id=42822873) - [Bloomberg Announces Effort to Ensure U.S. Honors Paris Agreement Commitments](https://www.bloomberg.org/press/un-special-envoy-michael-r-bloomberg-announces-effort-to-ensure-u-s-honors-paris-agreement-commitments/)
 * [2025-01-25, 16:59:35](https://news.ycombinator.com/item?id=42822825) - [Why North England is poor](https://tomforth.co.uk/whynorthenglandispoor/)
