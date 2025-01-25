@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2025-01-24, 16:51:16",
-      "https://news.ycombinator.com/item?id=42814948"
-    ],
-    [
-      "A WebAssembly compiler that fits in a tweet",
-      "https://wasmgroundup.com/blog/wasm-compiler-in-a-tweet/"
-    ]
-  ],
-  [
-    [
       "2025-01-24, 16:40:11",
       "https://news.ycombinator.com/item?id=42814820"
     ],
@@ -157,6 +147,16 @@
     [
       "Wild – A fast linker for Linux",
       "https://github.com/davidlattimore/wild"
+    ]
+  ],
+  [
+    [
+      "2025-01-24, 15:59:23",
+      "https://news.ycombinator.com/item?id=42814373"
+    ],
+    [
+      "Cloud Virtualization: Red Hat, AWS Firecracker, and Ubicloud internals",
+      "https://www.ubicloud.com/blog/cloud-virtualization-red-hat-aws-firecracker-and-ubicloud-internals"
     ]
   ],
   [
