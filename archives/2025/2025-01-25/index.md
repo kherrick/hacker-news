@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-25](index.md)
 
+* [2025-01-25, 18:33:41](https://news.ycombinator.com/item?id=42823510) - [DOGE Takeover of USDS Allows Them to Surveil the US Government from the Inside](https://www.wired.com/story/doge-elon-musk/)
 * [2025-01-25, 17:04:36](https://news.ycombinator.com/item?id=42822873) - [Bloomberg Announces Effort to Ensure U.S. Honors Paris Agreement Commitments](https://www.bloomberg.org/press/un-special-envoy-michael-r-bloomberg-announces-effort-to-ensure-u-s-honors-paris-agreement-commitments/)
 * [2025-01-25, 16:59:35](https://news.ycombinator.com/item?id=42822825) - [Why North England is poor](https://tomforth.co.uk/whynorthenglandispoor/)
 * [2025-01-25, 16:08:30](https://news.ycombinator.com/item?id=42822430) - [ICE Raids Are an Escalation of Our Long-Simmering De Facto Cold Civil War](https://daringfireball.net/2025/01/ice_raids_are_an_escalation_of_a_de_facto_cold_civil_war)
