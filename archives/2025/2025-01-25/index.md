@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-25](index.md)
 
+* [2025-01-25, 14:10:51](https://news.ycombinator.com/item?id=42821741) - [To make electricity cheaper and greener, connect the world's grids](https://www.economist.com/leaders/2025/01/23/to-make-electricity-cheaper-and-greener-connect-the-worlds-grids)
 * [2025-01-25, 13:47:52](https://news.ycombinator.com/item?id=42821611) - [Hacker infects 18,000 \"script kiddies\" with fake malware builder](https://www.bleepingcomputer.com/news/security/hacker-infects-18-000-script-kiddies-with-fake-malware-builder/)
 * [2025-01-25, 13:31:31](https://news.ycombinator.com/item?id=42821531) - [Advent of Code 2024 and BQN](https://nrk.neocities.org/articles/aoc24-bqn)
 * [2025-01-25, 13:29:05](https://news.ycombinator.com/item?id=42821519) - [Pixelfed Hit 500K Users](https://fedidb.org/software/pixelfed)
