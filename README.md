@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-25, 06:51:49](https://news.ycombinator.com/item?id=42819973) - [Dwarf Fortress Adventure Mode – Out Now – Official Release Trailer [video]](https://www.youtube.com/watch?v=7zY0UxSxTzU)
 * [2025-01-25, 03:38:52](https://news.ycombinator.com/item?id=42819262) - [TinyZero](https://github.com/Jiayi-Pan/TinyZero)
 * [2025-01-25, 02:29:36](https://news.ycombinator.com/item?id=42818917) - [Deadly and Imminent; The Pentagon's Mad Dash for Silicon Valley's AI Weapons](https://www.citizen.org/article/deadly-and-imminent-report/)
 * [2025-01-25, 01:53:11](https://news.ycombinator.com/item?id=42818692) - [Caltrain's electric fleet more efficient than expected](https://www.caltrain.com/news/caltrains-electric-fleet-more-efficient-expected)
@@ -28,7 +29,6 @@
 * [2025-01-22, 13:18:48](https://news.ycombinator.com/item?id=42792485) - [Do cookie-free analytics need cookie banners?](https://jfagerberg.me/blog/2022-06-09-analytics-cookie-compliance/)
 * [2025-01-22, 12:24:13](https://news.ycombinator.com/item?id=42791994) - [Her dad, the 10k records he left behind and a viral lesson in grief](https://www.washingtonpost.com/style/2025/01/18/vinyl-albums-grief-music-healing/)
 * [2025-01-22, 05:24:03](https://news.ycombinator.com/item?id=42789323) - [Chatbox: Cross-platform desktop client for ChatGPT, Claude and other LLMs](https://github.com/Bin-Huang/chatbox)
-* [2025-01-21, 23:35:07](https://news.ycombinator.com/item?id=42786627) - [Cytoskeleton-functionalized synthetic cells with life-like mechanical features](https://www.nature.com/articles/s41557-024-01697-5)
 * [2025-01-21, 12:22:26](https://news.ycombinator.com/item?id=42779330) - [Show HN: Using YOLO to Detect Office Chairs in 40M Hotel Photos](https://news.ycombinator.com/item?id=42779330)
 
 ## [Archives](archives/index.md)
