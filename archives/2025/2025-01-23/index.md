@@ -65,4 +65,5 @@
 * [2025-01-23, 00:47:42](https://news.ycombinator.com/item?id=42799245) - [gRPC vs. REST: Understand gRPC, OpenAPI and REST and When to Use in API Design](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
 * [2025-01-23, 00:33:02](https://news.ycombinator.com/item?id=42799136) - [Tailwind V4 Is Finally Out](https://tailwindcss.com/blog/tailwindcss-v4)
 * [2025-01-23, 00:29:09](https://news.ycombinator.com/item?id=42799103) - [Most Influential Papers in Computer Science History](https://terriblesoftware.org/2025/01/22/the-7-most-influential-papers-in-computer-science-history/)
+* [2025-01-23, 00:24:30](https://news.ycombinator.com/item?id=42799072) - [Ask HN: Moving a not-for-profit web app off AWS](https://news.ycombinator.com/item?id=42799072)
 * [2025-01-23, 00:06:35](https://news.ycombinator.com/item?id=42798960) - [NIH hit with freezes on meetings, travel, communications, and hiring](https://www.science.org/content/article/trump-hits-nih-devastating-freezes-meetings-travel-communications-and-hiring)
