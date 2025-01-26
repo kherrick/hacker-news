@@ -22,12 +22,12 @@
 * [2025-01-25, 18:16:15](https://news.ycombinator.com/item?id=42823385) - [CIA now favors lab leak theory to explain Covid's origins](https://www.nytimes.com/2025/01/25/us/politics/cia-covid-lab-leak.html)
 * [2025-01-25, 13:14:37](https://news.ycombinator.com/item?id=42821457) - [Show HN: I built a DIY plane spotting system at home](https://pilane.obviy.us/)
 * [2025-01-24, 03:46:02](https://news.ycombinator.com/item?id=42810293) - [How far can you get in 40 minutes from each subway station in NYC?](https://subwaysheds.com/#11.27/40.7427/-73.9869)
+* [2025-01-23, 19:12:05](https://news.ycombinator.com/item?id=42806998) - [Mastering Atari Games with Natural Intelligence](https://www.verses.ai/blog/mastering-atari-games-with-natural-intelligence)
 * [2025-01-23, 17:09:13](https://news.ycombinator.com/item?id=42805777) - [Bacteria in Polymers Form Cables That Grow into Living Gels](https://www.caltech.edu/about/news/bacteria-in-polymers-form-cables-that-grow-into-living-gels)
 * [2025-01-23, 14:35:39](https://news.ycombinator.com/item?id=42804406) - [An experiment of adding recommendation engine to your app using pgvector search](https://silk.us/blog/vector-search-ai-integration/)
 * [2025-01-23, 01:03:02](https://news.ycombinator.com/item?id=42799388) - [Apache Iceberg](https://iceberg.apache.org/)
 * [2025-01-22, 15:06:36](https://news.ycombinator.com/item?id=42793580) - [A FPGA friendly 32 bit RISC-V CPU implementation](https://github.com/SpinalHDL/VexRiscv)
 * [2025-01-22, 10:49:56](https://news.ycombinator.com/item?id=42791378) - [Open Heart Protocol](https://openheart.fyi/)
-* [2025-01-22, 06:21:12](https://news.ycombinator.com/item?id=42789670) - [OpenAI's o1 Playing Codenames](https://suveenellawela.com/thoughts/codenames-ai)
 * [2025-01-22, 00:27:14](https://news.ycombinator.com/item?id=42787110) - [Base-Rate Blindness](https://paulromer.net/base-rate-blindness/)
 * [2025-01-21, 09:47:55](https://news.ycombinator.com/item?id=42778151) - [You probably don't need query builders](https://mattrighetti.com/2025/01/20/you-dont-need-sql-builders)
 
