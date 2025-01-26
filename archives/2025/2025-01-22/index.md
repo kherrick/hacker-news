@@ -22,6 +22,7 @@
 * [2025-01-22, 19:02:07](https://news.ycombinator.com/item?id=42796292) - [Using Linear Programming to find optimal builds in League of Legend](https://versary.town/blog/using-linear-programming-to-find-optimal-builds-in-league-of-legends/)
 * [2025-01-22, 18:38:47](https://news.ycombinator.com/item?id=42796058) - [C stdlib isn't threadsafe and even safe Rust didn't save us](https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us)
 * [2025-01-22, 18:01:18](https://news.ycombinator.com/item?id=42795646) - [Life Lessons from the First Half-Century of My Career](https://cacm.acm.org/opinion/life-lessons-from-the-first-half-century-of-my-career/)
+* [2025-01-22, 17:49:57](https://news.ycombinator.com/item?id=42795488) - [I ask this chess puzzle to every new LLM](https://gist.github.com/abhishek-anand/a65ff0e44d158ae306dcce9151b1331c)
 * [2025-01-22, 17:40:09](https://news.ycombinator.com/item?id=42795375) - [Show HN: BrowserAI – Run LLMs directly in browser using WebGPU (open source)](https://github.com/sauravpanda/BrowserAI)
 * [2025-01-22, 17:28:20](https://news.ycombinator.com/item?id=42795249) - [Show HN: I made a service to convert WordPress blogs to Hugo](https://wp2hugo.blogdb.org/)
 * [2025-01-22, 17:27:14](https://news.ycombinator.com/item?id=42795237) - [TabBoo – add random jumpscares to websites you're trying to avoid](https://tabboo.xyz/)
