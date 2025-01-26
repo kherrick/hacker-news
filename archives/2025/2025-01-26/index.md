@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-26](index.md)
 
+* [2025-01-26, 16:33:51](https://news.ycombinator.com/item?id=42831281) - [Microsoft 365 Copilot launch was a total disaster](https://www.zdnet.com/home-and-office/work-life/the-microsoft-365-copilot-launch-was-a-total-disaster/)
 * [2025-01-26, 15:26:14](https://news.ycombinator.com/item?id=42830654) - [I Built an Omni-Directional Ball-Wheeled Bike [video]](https://www.youtube.com/watch?v=ZVFB2g25OkM)
 * [2025-01-26, 15:24:53](https://news.ycombinator.com/item?id=42830646) - [It's not a crime if we do it with an app](https://pluralistic.net/2025/01/25/potatotrac/#carbo-loading)
 * [2025-01-26, 14:05:15](https://news.ycombinator.com/item?id=42830155) - [No one is disrupting banks](https://www.popularfintech.com/p/no-one-is-disrupting-banks)
