@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-26](index.md)
 
+* [2025-01-26, 03:44:43](https://news.ycombinator.com/item?id=42827532) - [AI Slop, Suspicion, and Writing Back](https://benjamincongdon.me/blog/2025/01/25/AI-Slop-Suspicion-and-Writing-Back/)
 * [2025-01-26, 03:18:32](https://news.ycombinator.com/item?id=42827399) - [7B Model and 8K Examples: Efficient and Effective Emerging Reasoning with RL](https://hkust-nlp.notion.site/simplerl-reason)
 * [2025-01-26, 03:04:19](https://news.ycombinator.com/item?id=42827335) - [The Simplicity of Prolog](https://bitsandtheorems.com/the-simplicity-of-prolog/)
 * [2025-01-26, 02:49:30](https://news.ycombinator.com/item?id=42827266) - [Asahi Linux Silicon M3 Series Feature Support](https://github.com/AsahiLinux/docs/wiki/M3-Series-Feature-Support)

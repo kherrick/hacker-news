@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-26, 03:44:43](https://news.ycombinator.com/item?id=42827532) - [AI Slop, Suspicion, and Writing Back](https://benjamincongdon.me/blog/2025/01/25/AI-Slop-Suspicion-and-Writing-Back/)
 * [2025-01-26, 03:18:32](https://news.ycombinator.com/item?id=42827399) - [7B Model and 8K Examples: Efficient and Effective Emerging Reasoning with RL](https://hkust-nlp.notion.site/simplerl-reason)
 * [2025-01-26, 03:04:19](https://news.ycombinator.com/item?id=42827335) - [The Simplicity of Prolog](https://bitsandtheorems.com/the-simplicity-of-prolog/)
 * [2025-01-26, 00:50:07](https://news.ycombinator.com/item?id=42826589) - [Chimera Linux works toward a simplified desktop](https://lwn.net/Articles/1004324/)
@@ -25,7 +26,6 @@
 * [2025-01-23, 14:35:39](https://news.ycombinator.com/item?id=42804406) - [An experiment of adding recommendation engine to your app using pgvector search](https://silk.us/blog/vector-search-ai-integration/)
 * [2025-01-23, 01:03:02](https://news.ycombinator.com/item?id=42799388) - [Apache Iceberg](https://iceberg.apache.org/)
 * [2025-01-22, 15:06:36](https://news.ycombinator.com/item?id=42793580) - [A FPGA friendly 32 bit RISC-V CPU implementation](https://github.com/SpinalHDL/VexRiscv)
-* [2025-01-22, 12:39:50](https://news.ycombinator.com/item?id=42792149) - [Show HN: Puck 0.18 adds drag-and-drop for CSS grid and Flexbox](https://github.com/measuredco/puck/releases/tag/v0.18.0)
 * [2025-01-22, 10:49:56](https://news.ycombinator.com/item?id=42791378) - [Open Heart Protocol](https://openheart.fyi/)
 * [2025-01-22, 06:21:12](https://news.ycombinator.com/item?id=42789670) - [OpenAI's o1 Playing Codenames](https://suveenellawela.com/thoughts/codenames-ai)
 * [2025-01-22, 00:27:14](https://news.ycombinator.com/item?id=42787110) - [Base-Rate Blindness](https://paulromer.net/base-rate-blindness/)
