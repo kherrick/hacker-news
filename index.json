@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-26, 11:35:44",
+      "https://news.ycombinator.com/item?id=42829466"
+    ],
+    [
+      "When AI Promises Speed but Delivers Debugging Hell",
+      "https://nsavage.substack.com/p/when-ai-promises-speed-but-delivers"
+    ]
+  ],
+  [
+    [
       "2025-01-26, 07:02:13",
       "https://news.ycombinator.com/item?id=42828294"
     ],
@@ -37,16 +47,6 @@
     [
       "Explainer: What's R1 and Everything Else?",
       "https://timkellogg.me/blog/2025/01/25/r1"
-    ]
-  ],
-  [
-    [
-      "2025-01-26, 03:44:43",
-      "https://news.ycombinator.com/item?id=42827532"
-    ],
-    [
-      "AI slop, suspicion, and writing back",
-      "https://benjamincongdon.me/blog/2025/01/25/AI-Slop-Suspicion-and-Writing-Back/"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-01-25, 13:14:37",
-      "https://news.ycombinator.com/item?id=42821457"
-    ],
-    [
-      "Show HN: I built a DIY plane spotting system at home",
-      "https://pilane.obviy.us/"
-    ]
-  ],
-  [
-    [
       "2025-01-24, 22:29:57",
       "https://news.ycombinator.com/item?id=42817554"
     ],
@@ -247,6 +237,16 @@
     [
       "Apache Iceberg",
       "https://iceberg.apache.org/"
+    ]
+  ],
+  [
+    [
+      "2025-01-22, 19:02:07",
+      "https://news.ycombinator.com/item?id=42796292"
+    ],
+    [
+      "Using Linear Programming to find optimal builds in League of Legend",
+      "https://versary.town/blog/using-linear-programming-to-find-optimal-builds-in-league-of-legends/"
     ]
   ],
   [
