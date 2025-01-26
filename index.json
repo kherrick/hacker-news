@@ -71,11 +71,21 @@
   ],
   [
     [
+      "2025-01-26, 03:44:43",
+      "https://news.ycombinator.com/item?id=42827532"
+    ],
+    [
+      "AI slop, suspicion, and writing back",
+      "https://benjamincongdon.me/blog/2025/01/25/AI-Slop-Suspicion-and-Writing-Back/"
+    ]
+  ],
+  [
+    [
       "2025-01-26, 03:18:32",
       "https://news.ycombinator.com/item?id=42827399"
     ],
     [
-      "Emerging Reasoning with Reinforcement Learning",
+      "Emerging reasoning with reinforcement learning",
       "https://hkust-nlp.notion.site/simplerl-reason"
     ]
   ],
@@ -87,6 +97,16 @@
     [
       "The Simplicity of Prolog",
       "https://bitsandtheorems.com/the-simplicity-of-prolog/"
+    ]
+  ],
+  [
+    [
+      "2025-01-26, 00:50:07",
+      "https://news.ycombinator.com/item?id=42826589"
+    ],
+    [
+      "Chimera Linux works toward a simplified desktop",
+      "https://lwn.net/Articles/1004324/"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "Steam Brick: No screen, no controller, just a power button and a USB port",
       "https://crastinator-pro.github.io/steam-brick/"
-    ]
-  ],
-  [
-    [
-      "2025-01-25, 20:36:26",
-      "https://news.ycombinator.com/item?id=42824625"
-    ],
-    [
-      "Using AI to develop a fuller model of the human brain",
-      "https://magazine.ucsf.edu/building-a-silicon-brain"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL",
       "https://arxiv.org/abs/2501.12948"
-    ]
-  ],
-  [
-    [
-      "2025-01-24, 03:46:02",
-      "https://news.ycombinator.com/item?id=42810293"
-    ],
-    [
-      "How far can you get in 40 minutes from each subway station in NYC?",
-      "https://subwaysheds.com/#11.27/40.7427/-73.9869"
     ]
   ],
   [
