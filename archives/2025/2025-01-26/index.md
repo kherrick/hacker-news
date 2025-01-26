@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-26](index.md)
 
+* [2025-01-26, 15:24:53](https://news.ycombinator.com/item?id=42830646) - [It's not a crime if we do it with an app](https://pluralistic.net/2025/01/25/potatotrac/#carbo-loading)
 * [2025-01-26, 14:05:15](https://news.ycombinator.com/item?id=42830155) - [No one is disrupting banks](https://www.popularfintech.com/p/no-one-is-disrupting-banks)
 * [2025-01-26, 11:51:16](https://news.ycombinator.com/item?id=42829515) - [Einstein Probe detects puzzling cosmic explosion](https://www.esa.int/Science_Exploration/Space_Science/Einstein_Probe_detects_puzzling_cosmic_explosion)
 * [2025-01-26, 11:35:44](https://news.ycombinator.com/item?id=42829466) - [When AI Promises Speed but Delivers Debugging Hell](https://nsavage.substack.com/p/when-ai-promises-speed-but-delivers)

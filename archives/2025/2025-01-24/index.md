@@ -49,6 +49,7 @@
 * [2025-01-24, 12:36:41](https://news.ycombinator.com/item?id=42812515) - [Court rules FBI's warrantless searches violated Fourth Amendment](https://arstechnica.com/tech-policy/2025/01/court-rules-fbis-warrantless-searches-violated-fourth-amendment/)
 * [2025-01-24, 12:36:06](https://news.ycombinator.com/item?id=42812513) - [All federal agencies ordered to terminate remote work–ideally within 30 days](https://arstechnica.com/tech-policy/2025/01/all-federal-agencies-ordered-to-terminate-remote-work-ideally-within-30-days/)
 * [2025-01-24, 11:40:35](https://news.ycombinator.com/item?id=42812203) - [We Need to Talk About Docker Hub](https://www.linuxserver.io/blog/we-need-to-talk-about-docker-hub)
+* [2025-01-24, 10:47:33](https://news.ycombinator.com/item?id=42811992) - [KATRIN's Odyssey](https://www.symmetrymagazine.org/article/march-2007/deconstruction-katrin?language_content_entity=und)
 * [2025-01-24, 10:44:40](https://news.ycombinator.com/item?id=42811979) - [\"The Linux Phone You've Been Waiting For\"](https://liberux.net/#home)
 * [2025-01-24, 10:21:26](https://news.ycombinator.com/item?id=42811904) - [South Korea's Democracy Saved Itself (2024)](https://carnegieendowment.org/emissary/2024/12/south-korea-democracy-yoon-protests?lang=en)
 * [2025-01-24, 09:40:57](https://news.ycombinator.com/item?id=42811742) - [The Nix NGI Team: Advancing Open Source with Nix](https://discourse.nixos.org/t/nix-ngi-making-open-source-software-run-smoothly/59229)
