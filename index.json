@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-26, 20:17:38",
+      "https://news.ycombinator.com/item?id=42833638"
+    ],
+    [
+      "Amsterdam Compiler Kit for Cray X-MP",
+      "https://github.com/kej715/ack"
+    ]
+  ],
+  [
+    [
       "2025-01-26, 20:12:33",
       "https://news.ycombinator.com/item?id=42833581"
     ],
@@ -41,22 +51,12 @@
   ],
   [
     [
-      "2025-01-26, 19:01:05",
-      "https://news.ycombinator.com/item?id=42832838"
+      "2025-01-26, 18:29:18",
+      "https://news.ycombinator.com/item?id=42832482"
     ],
     [
-      "Qwen2.5-7B-Instruct-1M and Qwen2.5-14B-Instruct-1M",
-      "https://simonwillison.net/2025/Jan/26/qwen25-1m/"
-    ]
-  ],
-  [
-    [
-      "2025-01-26, 17:49:37",
-      "https://news.ycombinator.com/item?id=42832026"
-    ],
-    [
-      "No Bitcoin ETFs at Vanguard? Here's why",
-      "https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/no-bitcoin-etfs-at-vanguard-heres-why.html"
+      "Two Bites of Data Science in K",
+      "https://blog.zdsmith.com/posts/two-bites-of-data-science-in-k.html"
     ]
   ],
   [
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=42831769"
     ],
     [
-      "Qwen2.5-1M: Deploy Your Own Qwen with Context Length Up to 1M Tokens",
+      "Qwen2.5-1M: Deploy your own Qwen with context length up to 1M tokens",
       "https://qwenlm.github.io/blog/qwen2.5-1m/"
     ]
   ],
@@ -115,7 +115,7 @@
       "https://news.ycombinator.com/item?id=42829317"
     ],
     [
-      "The Protesters' Guide to Smartphone Security",
+      "The protester's guide to smartphone security",
       "https://www.privacyguides.org/articles/2025/01/23/activists-guide-securing-your-smartphone/"
     ]
   ],
