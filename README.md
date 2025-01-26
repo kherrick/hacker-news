@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-26, 22:39:54](https://news.ycombinator.com/item?id=42834953) - [Hyperbound (YC S23) Is Hiring Founding Full-Cycle AES in SF](https://www.ycombinator.com/companies/hyperbound/jobs/c3NkW7d-founding-full-cycle-account-executive-in-sf)
-* [2025-01-26, 22:34:06](https://news.ycombinator.com/item?id=42834911) - [Mark Zuckerberg: This Man Is a Coward](https://www.theindex.media/this-man-is-a-coward/)
 * [2025-01-26, 22:03:39](https://news.ycombinator.com/item?id=42834648) - [Show HN: DeepSeek My User Agent](https://www.jasonthorsness.com/20)
 * [2025-01-26, 22:02:14](https://news.ycombinator.com/item?id=42834634) - [Astronomers seek global ban on space advertising](https://spacenews.com/astronomers-seek-global-ban-on-space-advertising/)
 * [2025-01-26, 21:40:35](https://news.ycombinator.com/item?id=42834432) - [Brazil bans Sam Altman's tech firm Tools for Humanity from paying for iris scans](https://economictimes.indiatimes.com/tech/technology/brazil-bans-sam-altmans-tech-firm-tools-for-humanity-from-paying-for-iris-scans/articleshow/117540826.cms?from=mdr)
@@ -23,6 +22,7 @@
 * [2025-01-26, 11:02:59](https://news.ycombinator.com/item?id=42829309) - [Show HN: Orange intelligence, an open source alternative to Apple Intelligence](https://github.com/sharingan-no-kakashi/orange-intelligence)
 * [2025-01-26, 04:03:03](https://news.ycombinator.com/item?id=42827601) - [Explainer: What's r1 and everything else?](https://timkellogg.me/blog/2025/01/25/r1)
 * [2025-01-26, 03:44:43](https://news.ycombinator.com/item?id=42827532) - [AI slop, suspicion, and writing back](https://benjamincongdon.me/blog/2025/01/25/AI-Slop-Suspicion-and-Writing-Back/)
+* [2025-01-25, 19:02:26](https://news.ycombinator.com/item?id=42823722) - [Every HTML Element](https://iamwillwang.com/dollar/every-html-element/)
 * [2025-01-25, 18:55:07](https://news.ycombinator.com/item?id=42823667) - [OpenRA – Classic strategy games rebuilt for the modern era](https://www.openra.net/)
 * [2025-01-25, 15:30:25](https://news.ycombinator.com/item?id=42822162) - [The impact of competition and DeepSeek on Nvidia](https://youtubetranscriptoptimizer.com/blog/05_the_short_case_for_nvda)
 * [2025-01-24, 00:46:55](https://news.ycombinator.com/item?id=42809518) - [Show HN: A new native app for 20 year old OS X](https://uppercut.chadbibler.com)
