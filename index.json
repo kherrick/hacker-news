@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-01-26, 17:00:17",
-      "https://news.ycombinator.com/item?id=42831539"
-    ],
-    [
-      "One word that explains why the world feels 'deeply off' for so many people",
-      "https://www.upworthy.com/hypernormalization-explained"
-    ]
-  ],
-  [
-    [
       "2025-01-26, 16:58:54",
       "https://news.ycombinator.com/item?id=42831517"
     ],
@@ -297,6 +287,16 @@
     [
       "The Hunt for Error -22",
       "https://tweedegolf.nl/en/blog/145/the-hunt-for-error--22"
+    ]
+  ],
+  [
+    [
+      "2025-01-21, 09:47:55",
+      "https://news.ycombinator.com/item?id=42778151"
+    ],
+    [
+      "You probably don't need query builders",
+      "https://mattrighetti.com/2025/01/20/you-dont-need-sql-builders"
     ]
   ]
 ]
