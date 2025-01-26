@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-26](index.md)
 
+* [2025-01-26, 07:02:13](https://news.ycombinator.com/item?id=42828294) - [SigNoz (YC W21) Is hiring back end engineers to build open-source Datadog](https://www.linkedin.com/posts/pranay01_inviting-backend-engineers-interested-activity-7275015683980075008-CzV9)
+* [2025-01-26, 06:23:27](https://news.ycombinator.com/item?id=42828157) - [Did a Private Equity Fire Truck Roll-Up Worsen the L.A. Fires?](https://www.thebignewsletter.com/p/did-a-private-equity-fire-truck-roll)
 * [2025-01-26, 05:36:33](https://news.ycombinator.com/item?id=42827976) - [The Graphics Codex](https://graphicscodex.com/)
 * [2025-01-26, 04:32:30](https://news.ycombinator.com/item?id=42827723) - [Ask HN: Anyone else find LLM related posts causing them to lose interest in HN](https://news.ycombinator.com/item?id=42827723)
 * [2025-01-26, 04:18:49](https://news.ycombinator.com/item?id=42827669) - [Funding halted for cancer clinical trials](https://old.reddit.com/r/labrats/comments/1i9nckm/md_anderson_clinical_trials_now_halted_under/)
