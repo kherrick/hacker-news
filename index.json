@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-26, 00:50:07",
+      "https://news.ycombinator.com/item?id=42826589"
+    ],
+    [
+      "Chimera Linux works toward a simplified desktop",
+      "https://lwn.net/Articles/1004324/"
+    ]
+  ],
+  [
+    [
+      "2025-01-26, 00:40:46",
+      "https://news.ycombinator.com/item?id=42826536"
+    ],
+    [
+      "The South Vietnamese pilot who landed a Cessna on a carrier to save his family",
+      "https://www.historynet.com/maj-buang-lys-daring-feat-to-save-his-family/"
+    ]
+  ],
+  [
+    [
       "2025-01-25, 23:47:38",
       "https://news.ycombinator.com/item?id=42826171"
     ],
@@ -11,12 +31,32 @@
   ],
   [
     [
+      "2025-01-25, 23:27:11",
+      "https://news.ycombinator.com/item?id=42826022"
+    ],
+    [
+      "Tool touted as 'first AI software engineer' is bad at its job, testers claim",
+      "https://www.theregister.com/2025/01/23/ai_developer_devin_poor_reviews/"
+    ]
+  ],
+  [
+    [
       "2025-01-25, 22:48:56",
       "https://news.ycombinator.com/item?id=42825726"
     ],
     [
       "Texas Is Enforcing Its State Data Privacy Law. So Should Other States",
       "https://www.eff.org/deeplinks/2025/01/texas-enforcing-its-state-data-privacy-law-so-should-other-states"
+    ]
+  ],
+  [
+    [
+      "2025-01-25, 22:48:44",
+      "https://news.ycombinator.com/item?id=42825724"
+    ],
+    [
+      "Poisoning AI with \".аss\" subtitles [video]",
+      "https://www.youtube.com/watch?v=NEDFUjqA1s8"
     ]
   ],
   [
@@ -35,7 +75,7 @@
       "https://news.ycombinator.com/item?id=42825423"
     ],
     [
-      "Bucket Robotics (YC S24) Is Hiring Our First Engineer",
+      "Bucket Robotics (YC S24) is hiring our first engineer",
       "https://news.ycombinator.com/item?id=42825423"
     ]
   ],
@@ -51,32 +91,12 @@
   ],
   [
     [
-      "2025-01-25, 21:37:41",
-      "https://news.ycombinator.com/item?id=42825097"
-    ],
-    [
-      "Larry Ellison: vast AI surveillance can ensure citizens are on best behavior (2024)",
-      "https://www.businessinsider.com/larry-ellison-ai-surveillance-keep-citizens-on-their-best-behavior-2024-9"
-    ]
-  ],
-  [
-    [
       "2025-01-25, 21:25:42",
       "https://news.ycombinator.com/item?id=42824983"
     ],
     [
       "Immutability Changes Everything (2016) [pdf]",
       "https://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-01-25, 21:16:13",
-      "https://news.ycombinator.com/item?id=42824922"
-    ],
-    [
-      "Sony ends production of Blu-ray Disc, recordable MiniDisc, and MiniDV media",
-      "https://www.sony.jp/rec-media/info2/20250123.html"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-01-25, 14:47:33",
-      "https://news.ycombinator.com/item?id=42821922"
-    ],
-    [
-      "Arsenal FC AI Research Engineer job posting",
-      "https://careers.arsenal.com/jobs/5434108-research-engineer"
-    ]
-  ],
-  [
-    [
       "2025-01-25, 13:14:37",
       "https://news.ycombinator.com/item?id=42821457"
     ],
@@ -211,22 +221,22 @@
   ],
   [
     [
-      "2025-01-25, 08:47:31",
-      "https://news.ycombinator.com/item?id=42820419"
+      "2025-01-24, 03:46:02",
+      "https://news.ycombinator.com/item?id=42810293"
     ],
     [
-      "The Mythical IO-Bound Rails App",
-      "https://byroot.github.io/ruby/performance/2025/01/23/the-mythical-io-bound-rails-app.html"
+      "How far can you get in 40 minutes from each subway station in NYC?",
+      "https://subwaysheds.com/#11.27/40.7427/-73.9869"
     ]
   ],
   [
     [
-      "2025-01-24, 01:13:39",
-      "https://news.ycombinator.com/item?id=42809648"
+      "2025-01-23, 01:03:02",
+      "https://news.ycombinator.com/item?id=42799388"
     ],
     [
-      "Enigma Cipher Machine: An Object Oriented Python Implementation",
-      "https://christopherchmielewski.xyz/blog/2025-01-23-enigma-oo-implementation.html"
+      "Apache Iceberg",
+      "https://iceberg.apache.org/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "M87* One Year Later: Catching the Black Hole's Turbulent Accretion Flow",
       "https://eventhorizontelescope.org/m87-one-year-later-catching-black-holes-turbulent-accretion-flow"
-    ]
-  ],
-  [
-    [
-      "2025-01-22, 18:01:18",
-      "https://news.ycombinator.com/item?id=42795646"
-    ],
-    [
-      "Life lessons from the first half-century of my career",
-      "https://cacm.acm.org/opinion/life-lessons-from-the-first-half-century-of-my-career/"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2025-01-22, 06:21:12",
-      "https://news.ycombinator.com/item?id=42789670"
+      "2025-01-22, 00:27:14",
+      "https://news.ycombinator.com/item?id=42787110"
     ],
     [
-      "OpenAI's o1 Playing Codenames",
-      "https://suveenellawela.com/thoughts/codenames-ai"
+      "Base-Rate Blindness",
+      "https://paulromer.net/base-rate-blindness/"
     ]
   ],
   [
