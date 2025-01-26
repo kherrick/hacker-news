@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-26](index.md)
 
+* [2025-01-26, 19:32:53](https://news.ycombinator.com/item?id=42833193) - [Former tech CEO suing to get the record of his arrest removed from the internet](https://sf.gazetteer.co/a-former-tech-ceo-is-on-a-crusade-to-get-the-record-of-his-arrest-removed-from-the-internet)
 * [2025-01-26, 19:05:40](https://news.ycombinator.com/item?id=42832891) - [Show HN: SimpleSearch – Yep, just a list of the search bars you need](https://simplesearch.info/)
 * [2025-01-26, 19:01:05](https://news.ycombinator.com/item?id=42832838) - [Qwen2.5-7B-Instruct-1M and Qwen2.5-14B-Instruct-1M](https://simonwillison.net/2025/Jan/26/qwen25-1m/)
 * [2025-01-26, 18:47:51](https://news.ycombinator.com/item?id=42832696) - [Render raises $80M in Series C financing](https://render.com/blog/series-c)
