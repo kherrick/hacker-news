@@ -26,7 +26,7 @@
 * [2025-01-23, 14:35:39](https://news.ycombinator.com/item?id=42804406) - [An experiment of adding recommendation engine to your app using pgvector search](https://silk.us/blog/vector-search-ai-integration/)
 * [2025-01-23, 01:03:02](https://news.ycombinator.com/item?id=42799388) - [Apache Iceberg](https://iceberg.apache.org/)
 * [2025-01-22, 19:02:07](https://news.ycombinator.com/item?id=42796292) - [Using Linear Programming to find optimal builds in League of Legend](https://versary.town/blog/using-linear-programming-to-find-optimal-builds-in-league-of-legends/)
-* [2025-01-22, 15:06:36](https://news.ycombinator.com/item?id=42793580) - [A FPGA friendly 32 bit RISC-V CPU implementation](https://github.com/SpinalHDL/VexRiscv)
+* [2025-01-22, 16:51:29](https://news.ycombinator.com/item?id=42794776) - [AI Will Write Complex Laws](https://www.lawfaremedia.org/article/ai-will-write-complex-laws)
 * [2025-01-22, 12:07:57](https://news.ycombinator.com/item?id=42791874) - [The Hunt for Error -22](https://tweedegolf.nl/en/blog/145/the-hunt-for-error--22)
 * [2025-01-22, 10:49:56](https://news.ycombinator.com/item?id=42791378) - [Open Heart Protocol](https://openheart.fyi/)
 * [2025-01-21, 09:47:55](https://news.ycombinator.com/item?id=42778151) - [You probably don't need query builders](https://mattrighetti.com/2025/01/20/you-dont-need-sql-builders)
