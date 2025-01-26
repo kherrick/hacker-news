@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-26, 02:49:30](https://news.ycombinator.com/item?id=42827266) - [Asahi Linux Silicon M3 Series Feature Support](https://github.com/AsahiLinux/docs/wiki/M3-Series-Feature-Support)
+* [2025-01-26, 03:18:32](https://news.ycombinator.com/item?id=42827399) - [7B Model and 8K Examples: Efficient and Effective Emerging Reasoning with RL](https://hkust-nlp.notion.site/simplerl-reason)
 * [2025-01-26, 00:50:07](https://news.ycombinator.com/item?id=42826589) - [Chimera Linux works toward a simplified desktop](https://lwn.net/Articles/1004324/)
 * [2025-01-26, 00:40:46](https://news.ycombinator.com/item?id=42826536) - [The South Vietnamese pilot who landed a Cessna on a carrier to save his family (2019)](https://www.historynet.com/maj-buang-lys-daring-feat-to-save-his-family/)
 * [2025-01-25, 23:47:38](https://news.ycombinator.com/item?id=42826171) - [SQLook – A free online SQLite database manager with a Windows 2000 interface](https://sqlook.com)
@@ -13,7 +13,6 @@
 * [2025-01-25, 20:35:45](https://news.ycombinator.com/item?id=42824617) - [Wikenigma – an Encyclopedia of Unknowns](https://wikenigma.org.uk/start)
 * [2025-01-25, 20:29:41](https://news.ycombinator.com/item?id=42824562) - [An invalid 68030 instruction accidentally allowed the Mac Classic II to boot](https://www.downtowndougbrown.com/2025/01/the-invalid-68030-instruction-that-accidentally-allowed-the-mac-classic-ii-to-successfully-boot-up/)
 * [2025-01-25, 20:28:18](https://news.ycombinator.com/item?id=42824553) - [Dual-Link QR Code Generator](https://dualqrcode.com/)
-* [2025-01-25, 20:23:33](https://news.ycombinator.com/item?id=42824513) - [Show HN: Actionate – GitHub Actions for JetBrains IDEs](https://github.com/revenate/actionate)
 * [2025-01-25, 20:22:53](https://news.ycombinator.com/item?id=42824507) - [Schrödinger: The Nvidia biotech partner Jensen Huang told to \"think bigger\"](https://hntrbrk.com/schrodinger/)
 * [2025-01-25, 20:19:12](https://news.ycombinator.com/item?id=42824473) - [Searching for DeepSeek's glitch tokens](https://outsidetext.substack.com/p/anomalous-tokens-in-deepseek-v3-and)
 * [2025-01-25, 19:02:26](https://news.ycombinator.com/item?id=42823722) - [Every HTML Element](https://iamwillwang.com/dollar/every-html-element/)
@@ -28,6 +27,7 @@
 * [2025-01-22, 15:06:36](https://news.ycombinator.com/item?id=42793580) - [A FPGA friendly 32 bit RISC-V CPU implementation](https://github.com/SpinalHDL/VexRiscv)
 * [2025-01-22, 12:39:50](https://news.ycombinator.com/item?id=42792149) - [Show HN: Puck 0.18 adds drag-and-drop for CSS grid and Flexbox](https://github.com/measuredco/puck/releases/tag/v0.18.0)
 * [2025-01-22, 10:49:56](https://news.ycombinator.com/item?id=42791378) - [Open Heart Protocol](https://openheart.fyi/)
+* [2025-01-22, 06:21:12](https://news.ycombinator.com/item?id=42789670) - [OpenAI's o1 Playing Codenames](https://suveenellawela.com/thoughts/codenames-ai)
 * [2025-01-22, 00:27:14](https://news.ycombinator.com/item?id=42787110) - [Base-Rate Blindness](https://paulromer.net/base-rate-blindness/)
 * [2025-01-21, 09:47:55](https://news.ycombinator.com/item?id=42778151) - [You probably don't need query builders](https://mattrighetti.com/2025/01/20/you-dont-need-sql-builders)
 
