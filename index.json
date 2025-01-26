@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-26, 03:44:43",
+      "https://news.ycombinator.com/item?id=42827532"
+    ],
+    [
+      "AI Slop, Suspicion, and Writing Back",
+      "https://benjamincongdon.me/blog/2025/01/25/AI-Slop-Suspicion-and-Writing-Back/"
+    ]
+  ],
+  [
+    [
       "2025-01-26, 03:18:32",
       "https://news.ycombinator.com/item?id=42827399"
     ],
@@ -247,16 +257,6 @@
     [
       "A FPGA friendly 32 bit RISC-V CPU implementation",
       "https://github.com/SpinalHDL/VexRiscv"
-    ]
-  ],
-  [
-    [
-      "2025-01-22, 12:39:50",
-      "https://news.ycombinator.com/item?id=42792149"
-    ],
-    [
-      "Show HN: Puck 0.18 adds drag-and-drop for CSS grid and Flexbox",
-      "https://github.com/measuredco/puck/releases/tag/v0.18.0"
     ]
   ],
   [
