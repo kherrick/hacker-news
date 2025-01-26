@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-26, 14:05:15](https://news.ycombinator.com/item?id=42830155) - [No one is disrupting banks](https://www.popularfintech.com/p/no-one-is-disrupting-banks)
 * [2025-01-26, 11:35:44](https://news.ycombinator.com/item?id=42829466) - [When AI Promises Speed but Delivers Debugging Hell](https://nsavage.substack.com/p/when-ai-promises-speed-but-delivers)
 * [2025-01-26, 10:51:43](https://news.ycombinator.com/item?id=42829279) - [Paxo: A DIY Phone](https://paxo.fr/)
 * [2025-01-26, 07:02:13](https://news.ycombinator.com/item?id=42828294) - [SigNoz (YC W21) Is hiring back end engineers to build open-source Datadog](https://www.linkedin.com/posts/pranay01_inviting-backend-engineers-interested-activity-7275015683980075008-CzV9)
@@ -18,7 +19,6 @@
 * [2025-01-25, 19:02:26](https://news.ycombinator.com/item?id=42823722) - [Every HTML Element](https://iamwillwang.com/dollar/every-html-element/)
 * [2025-01-25, 18:55:07](https://news.ycombinator.com/item?id=42823667) - [OpenRA – Classic strategy games rebuilt for the modern era](https://www.openra.net/)
 * [2025-01-25, 18:39:49](https://news.ycombinator.com/item?id=42823568) - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL](https://arxiv.org/abs/2501.12948)
-* [2025-01-24, 22:29:57](https://news.ycombinator.com/item?id=42817554) - [Ask HN: How to automate collecting HAR file while user is browsing](https://news.ycombinator.com/item?id=42817554)
 * [2025-01-24, 03:46:02](https://news.ycombinator.com/item?id=42810293) - [How far can you get in 40 minutes from each subway station in NYC?](https://subwaysheds.com/#11.27/40.7427/-73.9869)
 * [2025-01-23, 19:12:05](https://news.ycombinator.com/item?id=42806998) - [Mastering Atari Games with Natural Intelligence](https://www.verses.ai/blog/mastering-atari-games-with-natural-intelligence)
 * [2025-01-23, 18:27:49](https://news.ycombinator.com/item?id=42806518) - [Polyhedral Compilation](http://polyhedral.info/)
