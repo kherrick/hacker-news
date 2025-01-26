@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-26](index.md)
 
+* [2025-01-26, 19:05:40](https://news.ycombinator.com/item?id=42832891) - [Show HN: SimpleSearch – Yep, just a list of the search bars you need](https://simplesearch.info/)
 * [2025-01-26, 18:47:51](https://news.ycombinator.com/item?id=42832696) - [Render raises $80M in Series C financing](https://render.com/blog/series-c)
 * [2025-01-26, 18:19:23](https://news.ycombinator.com/item?id=42832360) - [DeepSeek v3 and r1 free unlimited](https://www.blackbox.ai)
 * [2025-01-26, 17:59:14](https://news.ycombinator.com/item?id=42832132) - [Austin rents have fallen for nearly two years. Here's why](https://www.texastribune.org/2025/01/22/austin-texas-rents-falling/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-26, 19:05:40](https://news.ycombinator.com/item?id=42832891) - [Show HN: SimpleSearch – Yep, just a list of the search bars you need](https://simplesearch.info/)
 * [2025-01-26, 18:47:51](https://news.ycombinator.com/item?id=42832696) - [Render raises $80M in Series C financing](https://render.com/blog/series-c)
 * [2025-01-26, 17:59:14](https://news.ycombinator.com/item?id=42832132) - [Austin rents have fallen for nearly two years. Here's why](https://www.texastribune.org/2025/01/22/austin-texas-rents-falling/)
 * [2025-01-26, 17:49:37](https://news.ycombinator.com/item?id=42832026) - [No Bitcoin ETFs at Vanguard? Here's why](https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/no-bitcoin-etfs-at-vanguard-heres-why.html)
@@ -8,7 +9,6 @@
 * [2025-01-26, 16:45:27](https://news.ycombinator.com/item?id=42831384) - [Two F-14 fighter jets were diverted to USS Midway](https://theaviationgeekclub.com/that-time-two-f-14-fighter-jets-were-diverted-to-uss-midway-the-carriers-flight-deck-and-infrastructure-could-not-support-regular-operation-of-the-large-heavy-tomcat/)
 * [2025-01-26, 16:33:51](https://news.ycombinator.com/item?id=42831281) - [Microsoft 365 Copilot launch was a total disaster](https://www.zdnet.com/home-and-office/work-life/the-microsoft-365-copilot-launch-was-a-total-disaster/)
 * [2025-01-26, 16:10:24](https://news.ycombinator.com/item?id=42831043) - [100 years of Bell Labs [pdf]](https://novitoll.com/posts/2025-1-25/100_years_of_Bell_Labs.pdf)
-* [2025-01-26, 15:59:00](https://news.ycombinator.com/item?id=42830923) - [Are Americans' perceptions of the economy and crime broken?](https://www.niemanlab.org/2024/11/are-americans-perceptions-of-the-economy-and-crime-broken/)
 * [2025-01-26, 15:26:14](https://news.ycombinator.com/item?id=42830654) - [I Built an Omni-Directional Ball-Wheeled Bike [video]](https://www.youtube.com/watch?v=ZVFB2g25OkM)
 * [2025-01-26, 15:24:53](https://news.ycombinator.com/item?id=42830646) - [It's not a crime if we do it with an app](https://pluralistic.net/2025/01/25/potatotrac/#carbo-loading)
 * [2025-01-26, 11:04:16](https://news.ycombinator.com/item?id=42829317) - [The Protesters' Guide to Smartphone Security](https://www.privacyguides.org/articles/2025/01/23/activists-guide-securing-your-smartphone/)
