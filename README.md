@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-26, 17:00:17](https://news.ycombinator.com/item?id=42831539) - [One word that explains why the world feels 'deeply off' for so many people](https://www.upworthy.com/hypernormalization-explained)
+* [2025-01-26, 16:58:54](https://news.ycombinator.com/item?id=42831517) - [Notes on Argentina](https://jorgevelez.substack.com/p/notes-on-argentina)
+* [2025-01-26, 16:57:52](https://news.ycombinator.com/item?id=42831509) - [Hard numbers in the Wayland vs. X11 input latency discussion](https://mort.coffee/home/wayland-input-latency/)
 * [2025-01-26, 16:33:51](https://news.ycombinator.com/item?id=42831281) - [Microsoft 365 Copilot launch was a total disaster](https://www.zdnet.com/home-and-office/work-life/the-microsoft-365-copilot-launch-was-a-total-disaster/)
 * [2025-01-26, 15:26:14](https://news.ycombinator.com/item?id=42830654) - [I Built an Omni-Directional Ball-Wheeled Bike [video]](https://www.youtube.com/watch?v=ZVFB2g25OkM)
 * [2025-01-26, 15:24:53](https://news.ycombinator.com/item?id=42830646) - [It's not a crime if we do it with an app](https://pluralistic.net/2025/01/25/potatotrac/#carbo-loading)
@@ -26,10 +29,7 @@
 * [2025-01-23, 18:27:49](https://news.ycombinator.com/item?id=42806518) - [Polyhedral Compilation](http://polyhedral.info/)
 * [2025-01-23, 14:35:39](https://news.ycombinator.com/item?id=42804406) - [An experiment of adding recommendation engine to your app using pgvector search](https://silk.us/blog/vector-search-ai-integration/)
 * [2025-01-23, 01:03:02](https://news.ycombinator.com/item?id=42799388) - [Apache Iceberg](https://iceberg.apache.org/)
-* [2025-01-22, 19:02:07](https://news.ycombinator.com/item?id=42796292) - [Using Linear Programming to find optimal builds in League of Legend](https://versary.town/blog/using-linear-programming-to-find-optimal-builds-in-league-of-legends/)
 * [2025-01-22, 12:07:57](https://news.ycombinator.com/item?id=42791874) - [The Hunt for Error -22](https://tweedegolf.nl/en/blog/145/the-hunt-for-error--22)
-* [2025-01-22, 10:49:56](https://news.ycombinator.com/item?id=42791378) - [Open Heart Protocol](https://openheart.fyi/)
-* [2025-01-21, 09:47:55](https://news.ycombinator.com/item?id=42778151) - [You probably don't need query builders](https://mattrighetti.com/2025/01/20/you-dont-need-sql-builders)
 
 ## [Archives](archives/index.md)
 
