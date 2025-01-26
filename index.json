@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=42832891"
     ],
     [
-      "Show HN: SimpleSearch – Yep, just a list of the search bars you need",
+      "Show HN: SimpleSearch – Just a list of search bars",
       "https://simplesearch.info/"
     ]
   ],
@@ -47,6 +47,16 @@
     [
       "No Bitcoin ETFs at Vanguard? Here's why",
       "https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/no-bitcoin-etfs-at-vanguard-heres-why.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-26, 17:24:15",
+      "https://news.ycombinator.com/item?id=42831769"
+    ],
+    [
+      "Qwen2.5-1M: Deploy Your Own Qwen with Context Length Up to 1M Tokens",
+      "https://qwenlm.github.io/blog/qwen2.5-1m/"
     ]
   ],
   [
@@ -121,6 +131,16 @@
   ],
   [
     [
+      "2025-01-26, 11:02:59",
+      "https://news.ycombinator.com/item?id=42829309"
+    ],
+    [
+      "Show HN: Orange intelligence, an open source alternative to Apple Intelligence",
+      "https://github.com/sharingan-no-kakashi/orange-intelligence"
+    ]
+  ],
+  [
+    [
       "2025-01-26, 10:51:43",
       "https://news.ycombinator.com/item?id=42829279"
     ],
@@ -147,16 +167,6 @@
     [
       "YC Graveyard: 821 inactive Y Combinator startups",
       "https://ycgraveyard.iamwillwang.com/"
-    ]
-  ],
-  [
-    [
-      "2025-01-26, 05:36:33",
-      "https://news.ycombinator.com/item?id=42827976"
-    ],
-    [
-      "The Graphics Codex",
-      "https://graphicscodex.com/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "So you wanna write Kubernetes controllers?",
       "https://ahmet.im/blog/controller-pitfalls/"
-    ]
-  ],
-  [
-    [
-      "2025-01-22, 12:07:57",
-      "https://news.ycombinator.com/item?id=42791874"
-    ],
-    [
-      "The Hunt for Error -22",
-      "https://tweedegolf.nl/en/blog/145/the-hunt-for-error--22"
     ]
   ]
 ]
