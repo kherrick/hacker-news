@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-26, 21:09:07",
+      "https://news.ycombinator.com/item?id=42834164"
+    ],
+    [
+      "I don't like Docker or Podman",
+      "https://blog.liw.fi/posts/2025/docker/"
+    ]
+  ],
+  [
+    [
       "2025-01-26, 20:17:38",
       "https://news.ycombinator.com/item?id=42833638"
     ],
@@ -51,6 +61,16 @@
   ],
   [
     [
+      "2025-01-26, 18:47:51",
+      "https://news.ycombinator.com/item?id=42832696"
+    ],
+    [
+      "Render raises $80M in Series C financing",
+      "https://render.com/blog/series-c"
+    ]
+  ],
+  [
+    [
       "2025-01-26, 18:29:18",
       "https://news.ycombinator.com/item?id=42832482"
     ],
@@ -91,6 +111,16 @@
   ],
   [
     [
+      "2025-01-26, 16:33:51",
+      "https://news.ycombinator.com/item?id=42831281"
+    ],
+    [
+      "The Microsoft 365 Copilot launch was a disaster",
+      "https://www.zdnet.com/home-and-office/work-life/the-microsoft-365-copilot-launch-was-a-total-disaster/"
+    ]
+  ],
+  [
+    [
       "2025-01-26, 16:10:24",
       "https://news.ycombinator.com/item?id=42831043"
     ],
@@ -127,26 +157,6 @@
     [
       "Show HN: Orange intelligence, an open source alternative to Apple Intelligence",
       "https://github.com/sharingan-no-kakashi/orange-intelligence"
-    ]
-  ],
-  [
-    [
-      "2025-01-26, 10:51:43",
-      "https://news.ycombinator.com/item?id=42829279"
-    ],
-    [
-      "Paxo: A DIY Phone",
-      "https://paxo.fr/"
-    ]
-  ],
-  [
-    [
-      "2025-01-26, 07:02:13",
-      "https://news.ycombinator.com/item?id=42828294"
-    ],
-    [
-      "SigNoz (YC W21) Is hiring back end engineers to build open-source Datadog",
-      "https://www.linkedin.com/posts/pranay01_inviting-backend-engineers-interested-activity-7275015683980075008-CzV9"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Using the most unhinged AVX-512 instruction to make fastest phrase search algo",
       "https://gab-menezes.github.io/2025/01/13/using-the-most-unhinged-avx-512-instruction-to-make-the-fastest-phrase-search-algo.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-23, 01:03:02",
-      "https://news.ycombinator.com/item?id=42799388"
-    ],
-    [
-      "Apache Iceberg",
-      "https://iceberg.apache.org/"
     ]
   ],
   [
