@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-26](index.md)
 
+* [2025-01-26, 21:09:07](https://news.ycombinator.com/item?id=42834164) - [I don't like Docker or Podman](https://blog.liw.fi/posts/2025/docker/)
 * [2025-01-26, 20:17:38](https://news.ycombinator.com/item?id=42833638) - [Amsterdam Compiler Kit for Cray X-MP](https://github.com/kej715/ack)
 * [2025-01-26, 20:12:33](https://news.ycombinator.com/item?id=42833581) - [GPT-4o-powered cleaning robot (built in 4 days)](https://twitter.com/JannikGrothusen/status/1852790503823057073)
 * [2025-01-26, 20:03:51](https://news.ycombinator.com/item?id=42833491) - [Another undersea cable damaged in Baltic Sea](https://www.france24.com/en/europe/20250126-another-undersea-cable-damaged-in-baltic-sea-latvia-dispatches-warship)
