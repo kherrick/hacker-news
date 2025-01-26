@@ -6,6 +6,7 @@
 
 * [2025-01-22, 23:57:29](https://news.ycombinator.com/item?id=42798896) - [DIY Web Archiving Zine](https://zinebakery.com//homemade-zines/bakeshop-2-diywebarchiving)
 * [2025-01-22, 23:46:09](https://news.ycombinator.com/item?id=42798811) - [Lossless Compression of Vector IDs for Approximate Nearest Neighbor Search](https://arxiv.org/abs/2501.10479)
+* [2025-01-22, 23:29:21](https://news.ycombinator.com/item?id=42798649) - [The leading AI models are now good historians](https://resobscura.substack.com/p/the-leading-ai-models-are-now-very)
 * [2025-01-22, 22:41:47](https://news.ycombinator.com/item?id=42798293) - [Google Fiber is coming to Las Vegas](https://fiber.googleblog.com/2025/01/las-vegas-get-ready-for-your-close-up.html)
 * [2025-01-22, 22:33:20](https://news.ycombinator.com/item?id=42798230) - [So you wanna write Kubernetes controllers?](https://ahmet.im/blog/controller-pitfalls/)
 * [2025-01-22, 22:18:07](https://news.ycombinator.com/item?id=42798108) - [A Look Back at 2024: F-Droid's Progress and What's Coming in 2025](https://f-droid.org/2025/01/21/a-look-back-at-2024-f-droids-progress-and-whats-coming-in-2025.html)
