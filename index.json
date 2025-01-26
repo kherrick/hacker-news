@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-01-26, 19:01:05",
+      "https://news.ycombinator.com/item?id=42832838"
+    ],
+    [
+      "Qwen2.5-7B-Instruct-1M and Qwen2.5-14B-Instruct-1M",
+      "https://simonwillison.net/2025/Jan/26/qwen25-1m/"
+    ]
+  ],
+  [
+    [
       "2025-01-26, 18:47:51",
       "https://news.ycombinator.com/item?id=42832696"
     ],
@@ -57,16 +67,6 @@
     [
       "Hard numbers in the Wayland vs. X11 input latency discussion",
       "https://mort.coffee/home/wayland-input-latency/"
-    ]
-  ],
-  [
-    [
-      "2025-01-26, 16:45:27",
-      "https://news.ycombinator.com/item?id=42831384"
-    ],
-    [
-      "Two F-14 fighter jets were diverted to USS Midway",
-      "https://theaviationgeekclub.com/that-time-two-f-14-fighter-jets-were-diverted-to-uss-midway-the-carriers-flight-deck-and-infrastructure-could-not-support-regular-operation-of-the-large-heavy-tomcat/"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2025-01-25, 20:19:12",
-      "https://news.ycombinator.com/item?id=42824473"
-    ],
-    [
-      "Searching for DeepSeek's glitch tokens",
-      "https://outsidetext.substack.com/p/anomalous-tokens-in-deepseek-v3-and"
-    ]
-  ],
-  [
-    [
       "2025-01-25, 19:02:26",
       "https://news.ycombinator.com/item?id=42823722"
     ],
@@ -287,6 +277,16 @@
     [
       "Apache Iceberg",
       "https://iceberg.apache.org/"
+    ]
+  ],
+  [
+    [
+      "2025-01-22, 22:33:20",
+      "https://news.ycombinator.com/item?id=42798230"
+    ],
+    [
+      "So you wanna write Kubernetes controllers?",
+      "https://ahmet.im/blog/controller-pitfalls/"
     ]
   ],
   [
