@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-26, 07:02:13](https://news.ycombinator.com/item?id=42828294) - [SigNoz (YC W21) Is hiring back end engineers to build open-source Datadog](https://www.linkedin.com/posts/pranay01_inviting-backend-engineers-interested-activity-7275015683980075008-CzV9)
+* [2025-01-26, 06:37:12](https://news.ycombinator.com/item?id=42828198) - [YC Graveyard: 821 inactive Y Combinator startups](https://ycgraveyard.iamwillwang.com/)
 * [2025-01-26, 05:36:33](https://news.ycombinator.com/item?id=42827976) - [The Graphics Codex](https://graphicscodex.com/)
 * [2025-01-26, 04:03:03](https://news.ycombinator.com/item?id=42827601) - [Explainer: What's R1 and Everything Else?](https://timkellogg.me/blog/2025/01/25/r1)
 * [2025-01-26, 03:44:43](https://news.ycombinator.com/item?id=42827532) - [AI slop, suspicion, and writing back](https://benjamincongdon.me/blog/2025/01/25/AI-Slop-Suspicion-and-Writing-Back/)
@@ -20,7 +21,6 @@
 * [2025-01-25, 18:55:07](https://news.ycombinator.com/item?id=42823667) - [OpenRA – Classic strategy games rebuilt for the modern era](https://www.openra.net/)
 * [2025-01-25, 18:39:49](https://news.ycombinator.com/item?id=42823568) - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL](https://arxiv.org/abs/2501.12948)
 * [2025-01-25, 18:16:15](https://news.ycombinator.com/item?id=42823385) - [CIA now favors lab leak theory to explain Covid's origins](https://www.nytimes.com/2025/01/25/us/politics/cia-covid-lab-leak.html)
-* [2025-01-25, 13:14:37](https://news.ycombinator.com/item?id=42821457) - [Show HN: I built a DIY plane spotting system at home](https://pilane.obviy.us/)
 * [2025-01-24, 03:46:02](https://news.ycombinator.com/item?id=42810293) - [How far can you get in 40 minutes from each subway station in NYC?](https://subwaysheds.com/#11.27/40.7427/-73.9869)
 * [2025-01-23, 19:12:05](https://news.ycombinator.com/item?id=42806998) - [Mastering Atari Games with Natural Intelligence](https://www.verses.ai/blog/mastering-atari-games-with-natural-intelligence)
 * [2025-01-23, 17:09:13](https://news.ycombinator.com/item?id=42805777) - [Bacteria in Polymers Form Cables That Grow into Living Gels](https://www.caltech.edu/about/news/bacteria-in-polymers-form-cables-that-grow-into-living-gels)
