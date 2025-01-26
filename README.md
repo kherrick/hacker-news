@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-26, 19:05:40](https://news.ycombinator.com/item?id=42832891) - [Show HN: SimpleSearch – Yep, just a list of the search bars you need](https://simplesearch.info/)
+* [2025-01-26, 19:05:40](https://news.ycombinator.com/item?id=42832891) - [Show HN: SimpleSearch – Just a list of search bars](https://simplesearch.info/)
 * [2025-01-26, 19:01:05](https://news.ycombinator.com/item?id=42832838) - [Qwen2.5-7B-Instruct-1M and Qwen2.5-14B-Instruct-1M](https://simonwillison.net/2025/Jan/26/qwen25-1m/)
 * [2025-01-26, 18:47:51](https://news.ycombinator.com/item?id=42832696) - [Render raises $80M in Series C financing](https://render.com/blog/series-c)
 * [2025-01-26, 17:59:14](https://news.ycombinator.com/item?id=42832132) - [Austin rents have fallen for nearly two years. Here's why](https://www.texastribune.org/2025/01/22/austin-texas-rents-falling/)
 * [2025-01-26, 17:49:37](https://news.ycombinator.com/item?id=42832026) - [No Bitcoin ETFs at Vanguard? Here's why](https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/no-bitcoin-etfs-at-vanguard-heres-why.html)
+* [2025-01-26, 17:24:15](https://news.ycombinator.com/item?id=42831769) - [Qwen2.5-1M: Deploy Your Own Qwen with Context Length Up to 1M Tokens](https://qwenlm.github.io/blog/qwen2.5-1m/)
 * [2025-01-26, 17:01:25](https://news.ycombinator.com/item?id=42831550) - [Reviving a Dead Audio Format: The Return of ZZM](https://nicole.express/2025/zoo-of-zero-motivation.html)
 * [2025-01-26, 16:57:52](https://news.ycombinator.com/item?id=42831509) - [Hard numbers in the Wayland vs. X11 input latency discussion](https://mort.coffee/home/wayland-input-latency/)
 * [2025-01-26, 16:33:51](https://news.ycombinator.com/item?id=42831281) - [Microsoft 365 Copilot launch was a total disaster](https://www.zdnet.com/home-and-office/work-life/the-microsoft-365-copilot-launch-was-a-total-disaster/)
@@ -12,10 +13,10 @@
 * [2025-01-26, 15:26:14](https://news.ycombinator.com/item?id=42830654) - [I Built an Omni-Directional Ball-Wheeled Bike [video]](https://www.youtube.com/watch?v=ZVFB2g25OkM)
 * [2025-01-26, 15:24:53](https://news.ycombinator.com/item?id=42830646) - [It's not a crime if we do it with an app](https://pluralistic.net/2025/01/25/potatotrac/#carbo-loading)
 * [2025-01-26, 11:04:16](https://news.ycombinator.com/item?id=42829317) - [The Protesters' Guide to Smartphone Security](https://www.privacyguides.org/articles/2025/01/23/activists-guide-securing-your-smartphone/)
+* [2025-01-26, 11:02:59](https://news.ycombinator.com/item?id=42829309) - [Show HN: Orange intelligence, an open source alternative to Apple Intelligence](https://github.com/sharingan-no-kakashi/orange-intelligence)
 * [2025-01-26, 10:51:43](https://news.ycombinator.com/item?id=42829279) - [Paxo: A DIY Phone](https://paxo.fr/)
 * [2025-01-26, 07:02:13](https://news.ycombinator.com/item?id=42828294) - [SigNoz (YC W21) Is hiring back end engineers to build open-source Datadog](https://www.linkedin.com/posts/pranay01_inviting-backend-engineers-interested-activity-7275015683980075008-CzV9)
 * [2025-01-26, 06:37:12](https://news.ycombinator.com/item?id=42828198) - [YC Graveyard: 821 inactive Y Combinator startups](https://ycgraveyard.iamwillwang.com/)
-* [2025-01-26, 05:36:33](https://news.ycombinator.com/item?id=42827976) - [The Graphics Codex](https://graphicscodex.com/)
 * [2025-01-26, 04:03:03](https://news.ycombinator.com/item?id=42827601) - [Explainer: What's R1 and Everything Else?](https://timkellogg.me/blog/2025/01/25/r1)
 * [2025-01-26, 03:44:43](https://news.ycombinator.com/item?id=42827532) - [AI slop, suspicion, and writing back](https://benjamincongdon.me/blog/2025/01/25/AI-Slop-Suspicion-and-Writing-Back/)
 * [2025-01-26, 03:04:19](https://news.ycombinator.com/item?id=42827335) - [The Simplicity of Prolog](https://bitsandtheorems.com/the-simplicity-of-prolog/)
@@ -29,7 +30,6 @@
 * [2025-01-23, 21:38:27](https://news.ycombinator.com/item?id=42808355) - [Using the most unhinged AVX-512 instruction to make fastest phrase search algo](https://gab-menezes.github.io/2025/01/13/using-the-most-unhinged-avx-512-instruction-to-make-the-fastest-phrase-search-algo.html)
 * [2025-01-23, 01:03:02](https://news.ycombinator.com/item?id=42799388) - [Apache Iceberg](https://iceberg.apache.org/)
 * [2025-01-22, 22:33:20](https://news.ycombinator.com/item?id=42798230) - [So you wanna write Kubernetes controllers?](https://ahmet.im/blog/controller-pitfalls/)
-* [2025-01-22, 12:07:57](https://news.ycombinator.com/item?id=42791874) - [The Hunt for Error -22](https://tweedegolf.nl/en/blog/145/the-hunt-for-error--22)
 
 ## [Archives](archives/index.md)
 
