@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-26, 15:26:14](https://news.ycombinator.com/item?id=42830654) - [I Built an Omni-Directional Ball-Wheeled Bike [video]](https://www.youtube.com/watch?v=ZVFB2g25OkM)
 * [2025-01-26, 15:24:53](https://news.ycombinator.com/item?id=42830646) - [It's not a crime if we do it with an app](https://pluralistic.net/2025/01/25/potatotrac/#carbo-loading)
 * [2025-01-26, 12:55:14](https://news.ycombinator.com/item?id=42829795) - [Toyota reduces price of new hydrogen car with $15,000 of free fuel](https://www.hydrogeninsight.com/transport/toyota-reduces-price-of-new-hydrogen-car-in-california-to-just-over-15-000-with-15-000-of-free-fuel/2-1-1769729)
-* [2025-01-26, 11:35:44](https://news.ycombinator.com/item?id=42829466) - [When AI promises speed but delivers debugging hell](https://nsavage.substack.com/p/when-ai-promises-speed-but-delivers)
+* [2025-01-26, 11:04:16](https://news.ycombinator.com/item?id=42829317) - [The Protesters' Guide to Smartphone Security](https://www.privacyguides.org/articles/2025/01/23/activists-guide-securing-your-smartphone/)
 * [2025-01-26, 10:51:43](https://news.ycombinator.com/item?id=42829279) - [Paxo: A DIY Phone](https://paxo.fr/)
 * [2025-01-26, 07:02:13](https://news.ycombinator.com/item?id=42828294) - [SigNoz (YC W21) Is hiring back end engineers to build open-source Datadog](https://www.linkedin.com/posts/pranay01_inviting-backend-engineers-interested-activity-7275015683980075008-CzV9)
 * [2025-01-26, 06:37:12](https://news.ycombinator.com/item?id=42828198) - [YC Graveyard: 821 inactive Y Combinator startups](https://ycgraveyard.iamwillwang.com/)
@@ -27,7 +28,6 @@
 * [2025-01-23, 14:35:39](https://news.ycombinator.com/item?id=42804406) - [An experiment of adding recommendation engine to your app using pgvector search](https://silk.us/blog/vector-search-ai-integration/)
 * [2025-01-23, 01:03:02](https://news.ycombinator.com/item?id=42799388) - [Apache Iceberg](https://iceberg.apache.org/)
 * [2025-01-22, 19:02:07](https://news.ycombinator.com/item?id=42796292) - [Using Linear Programming to find optimal builds in League of Legend](https://versary.town/blog/using-linear-programming-to-find-optimal-builds-in-league-of-legends/)
-* [2025-01-22, 16:51:29](https://news.ycombinator.com/item?id=42794776) - [AI Will Write Complex Laws](https://www.lawfaremedia.org/article/ai-will-write-complex-laws)
 * [2025-01-22, 12:07:57](https://news.ycombinator.com/item?id=42791874) - [The Hunt for Error -22](https://tweedegolf.nl/en/blog/145/the-hunt-for-error--22)
 * [2025-01-21, 09:47:55](https://news.ycombinator.com/item?id=42778151) - [You probably don't need query builders](https://mattrighetti.com/2025/01/20/you-dont-need-sql-builders)
 
