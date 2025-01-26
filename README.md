@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-26, 05:36:33](https://news.ycombinator.com/item?id=42827976) - [The Graphics Codex](https://graphicscodex.com/)
 * [2025-01-26, 04:03:03](https://news.ycombinator.com/item?id=42827601) - [Explainer: What's R1 and Everything Else?](https://timkellogg.me/blog/2025/01/25/r1)
-* [2025-01-26, 03:44:43](https://news.ycombinator.com/item?id=42827532) - [AI Slop, Suspicion, and Writing Back](https://benjamincongdon.me/blog/2025/01/25/AI-Slop-Suspicion-and-Writing-Back/)
+* [2025-01-26, 03:44:43](https://news.ycombinator.com/item?id=42827532) - [AI slop, suspicion, and writing back](https://benjamincongdon.me/blog/2025/01/25/AI-Slop-Suspicion-and-Writing-Back/)
 * [2025-01-26, 03:18:32](https://news.ycombinator.com/item?id=42827399) - [Emerging Reasoning with Reinforcement Learning](https://hkust-nlp.notion.site/simplerl-reason)
 * [2025-01-26, 03:04:19](https://news.ycombinator.com/item?id=42827335) - [The Simplicity of Prolog](https://bitsandtheorems.com/the-simplicity-of-prolog/)
 * [2025-01-26, 00:50:07](https://news.ycombinator.com/item?id=42826589) - [Chimera Linux works toward a simplified desktop](https://lwn.net/Articles/1004324/)
@@ -28,7 +29,6 @@
 * [2025-01-23, 01:03:02](https://news.ycombinator.com/item?id=42799388) - [Apache Iceberg](https://iceberg.apache.org/)
 * [2025-01-22, 15:06:36](https://news.ycombinator.com/item?id=42793580) - [A FPGA friendly 32 bit RISC-V CPU implementation](https://github.com/SpinalHDL/VexRiscv)
 * [2025-01-22, 10:49:56](https://news.ycombinator.com/item?id=42791378) - [Open Heart Protocol](https://openheart.fyi/)
-* [2025-01-22, 00:27:14](https://news.ycombinator.com/item?id=42787110) - [Base-Rate Blindness](https://paulromer.net/base-rate-blindness/)
 * [2025-01-21, 09:47:55](https://news.ycombinator.com/item?id=42778151) - [You probably don't need query builders](https://mattrighetti.com/2025/01/20/you-dont-need-sql-builders)
 
 ## [Archives](archives/index.md)
