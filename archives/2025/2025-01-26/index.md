@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-26](index.md)
 
+* [2025-01-26, 21:35:49](https://news.ycombinator.com/item?id=42834393) - [Quiet Quitting: Why Employees Are Demanding Fairness and Boundaries](https://www.forbes.com/sites/dianehamilton/2025/01/15/quiet-quitting-why-employees-are-demanding-fairness-and-boundaries/)
 * [2025-01-26, 21:09:07](https://news.ycombinator.com/item?id=42834164) - [I don't like Docker or Podman](https://blog.liw.fi/posts/2025/docker/)
 * [2025-01-26, 20:59:16](https://news.ycombinator.com/item?id=42834043) - [Astronomers delete asteroid because it turned out to be Tesla Roadster](https://www.astronomy.com/science/astronomers-just-deleted-an-asteroid-because-it-turned-out-to-be-elon-musks-tesla-roadster/)
 * [2025-01-26, 20:17:38](https://news.ycombinator.com/item?id=42833638) - [Amsterdam Compiler Kit for Cray X-MP](https://github.com/kej715/ack)
