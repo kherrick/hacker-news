@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-26, 04:32:30](https://news.ycombinator.com/item?id=42827723) - [Ask HN: Anyone else find LLM related posts causing them to lose interest in HN](https://news.ycombinator.com/item?id=42827723)
 * [2025-01-26, 04:18:49](https://news.ycombinator.com/item?id=42827669) - [Funding halted for cancer clinical trials](https://old.reddit.com/r/labrats/comments/1i9nckm/md_anderson_clinical_trials_now_halted_under/)
+* [2025-01-26, 04:03:03](https://news.ycombinator.com/item?id=42827601) - [Explainer: What's R1 and Everything Else?](https://timkellogg.me/blog/2025/01/25/r1)
 * [2025-01-26, 03:44:43](https://news.ycombinator.com/item?id=42827532) - [AI Slop, Suspicion, and Writing Back](https://benjamincongdon.me/blog/2025/01/25/AI-Slop-Suspicion-and-Writing-Back/)
 * [2025-01-26, 03:18:32](https://news.ycombinator.com/item?id=42827399) - [Emerging Reasoning with Reinforcement Learning](https://hkust-nlp.notion.site/simplerl-reason)
 * [2025-01-26, 03:04:19](https://news.ycombinator.com/item?id=42827335) - [The Simplicity of Prolog](https://bitsandtheorems.com/the-simplicity-of-prolog/)
