@@ -50,6 +50,7 @@
 * [2025-01-22, 12:39:50](https://news.ycombinator.com/item?id=42792149) - [Show HN: Puck 0.18 adds drag-and-drop for CSS grid and Flexbox](https://github.com/measuredco/puck/releases/tag/v0.18.0)
 * [2025-01-22, 12:24:13](https://news.ycombinator.com/item?id=42791994) - [Her dad, the 10k records he left behind and a viral lesson in grief](https://www.washingtonpost.com/style/2025/01/18/vinyl-albums-grief-music-healing/)
 * [2025-01-22, 12:12:37](https://news.ycombinator.com/item?id=42791906) - [Urban legend: I think there is a world market for maybe five computers](https://geekhistory.com/content/urban-legend-i-think-there-world-market-maybe-five-computers)
+* [2025-01-22, 12:07:57](https://news.ycombinator.com/item?id=42791874) - [The Hunt for Error -22](https://tweedegolf.nl/en/blog/145/the-hunt-for-error--22)
 * [2025-01-22, 12:00:05](https://news.ycombinator.com/item?id=42791823) - [Strac (YC W22) Is Hiring Windows Engineer](https://www.ycombinator.com/companies/strac/jobs/TJHiaL9-senior-endpoint-security-engineer-windows)
 * [2025-01-22, 11:59:29](https://news.ycombinator.com/item?id=42791820) - [Show HN: NotepadJs – A cross-platform love letter to Notepad](https://github.com/itamarom/notepadjs)
 * [2025-01-22, 11:40:26](https://news.ycombinator.com/item?id=42791671) - [I Won't Invest (2019)](https://davidjarvis.com/why-i-wont-invest/)
