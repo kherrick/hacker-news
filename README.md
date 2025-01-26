@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-26, 03:18:32](https://news.ycombinator.com/item?id=42827399) - [7B Model and 8K Examples: Efficient and Effective Emerging Reasoning with RL](https://hkust-nlp.notion.site/simplerl-reason)
+* [2025-01-26, 03:04:19](https://news.ycombinator.com/item?id=42827335) - [The Simplicity of Prolog](https://bitsandtheorems.com/the-simplicity-of-prolog/)
 * [2025-01-26, 00:50:07](https://news.ycombinator.com/item?id=42826589) - [Chimera Linux works toward a simplified desktop](https://lwn.net/Articles/1004324/)
 * [2025-01-26, 00:40:46](https://news.ycombinator.com/item?id=42826536) - [The South Vietnamese pilot who landed a Cessna on a carrier to save his family (2019)](https://www.historynet.com/maj-buang-lys-daring-feat-to-save-his-family/)
 * [2025-01-25, 23:47:38](https://news.ycombinator.com/item?id=42826171) - [SQLook – A free online SQLite database manager with a Windows 2000 interface](https://sqlook.com)
-* [2025-01-25, 23:27:11](https://news.ycombinator.com/item?id=42826022) - [Tool touted as 'first AI software engineer' is bad at its job, testers claim](https://www.theregister.com/2025/01/23/ai_developer_devin_poor_reviews/)
 * [2025-01-25, 22:15:13](https://news.ycombinator.com/item?id=42825441) - [Steam Brick: No screen, no controller, just a power button and a USB port](https://crastinator-pro.github.io/steam-brick/)
 * [2025-01-25, 22:13:30](https://news.ycombinator.com/item?id=42825423) - [Bucket Robotics (YC S24) is hiring our first engineer](https://news.ycombinator.com/item?id=42825423)
 * [2025-01-25, 21:40:08](https://news.ycombinator.com/item?id=42825126) - [Fault Tolerance in Tandem Computer Systems (1986)[pdf]](https://jimgray.azurewebsites.net/papers/TandemTR86.2_FaultToleranceInTandemComputerSystems.pdf)
