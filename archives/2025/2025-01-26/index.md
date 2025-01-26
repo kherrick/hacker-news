@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-01-26](index.md)
 
+* [2025-01-26, 22:39:54](https://news.ycombinator.com/item?id=42834953) - [Hyperbound (YC S23) Is Hiring Founding Full-Cycle AES in SF](https://www.ycombinator.com/companies/hyperbound/jobs/c3NkW7d-founding-full-cycle-account-executive-in-sf)
+* [2025-01-26, 22:34:06](https://news.ycombinator.com/item?id=42834911) - [Mark Zuckerberg: This Man Is a Coward](https://www.theindex.media/this-man-is-a-coward/)
 * [2025-01-26, 22:03:39](https://news.ycombinator.com/item?id=42834648) - [Show HN: DeepSeek My User Agent](https://www.jasonthorsness.com/20)
+* [2025-01-26, 22:02:14](https://news.ycombinator.com/item?id=42834634) - [Astronomers seek global ban on space advertising](https://spacenews.com/astronomers-seek-global-ban-on-space-advertising/)
 * [2025-01-26, 21:40:35](https://news.ycombinator.com/item?id=42834432) - [Brazil bans Sam Altman's tech firm Tools for Humanity from paying for iris scans](https://economictimes.indiatimes.com/tech/technology/brazil-bans-sam-altmans-tech-firm-tools-for-humanity-from-paying-for-iris-scans/articleshow/117540826.cms?from=mdr)
 * [2025-01-26, 21:35:49](https://news.ycombinator.com/item?id=42834393) - [Quiet Quitting: Why Employees Are Demanding Fairness and Boundaries](https://www.forbes.com/sites/dianehamilton/2025/01/15/quiet-quitting-why-employees-are-demanding-fairness-and-boundaries/)
 * [2025-01-26, 21:29:41](https://news.ycombinator.com/item?id=42834341) - [The Only Photo of the Concorde Flying at Supersonic Speed](https://petapixel.com/2025/01/25/photo-concorde-supersonic-speed-mach-2/)
