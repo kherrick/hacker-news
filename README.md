@@ -20,7 +20,7 @@
 * [2025-01-25, 18:39:49](https://news.ycombinator.com/item?id=42823568) - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL](https://arxiv.org/abs/2501.12948)
 * [2025-01-25, 18:16:15](https://news.ycombinator.com/item?id=42823385) - [CIA now favors lab leak theory to explain Covid's origins](https://www.nytimes.com/2025/01/25/us/politics/cia-covid-lab-leak.html)
 * [2025-01-25, 13:14:37](https://news.ycombinator.com/item?id=42821457) - [Show HN: I built a DIY plane spotting system at home](https://pilane.obviy.us/)
-* [2025-01-24, 13:59:03](https://news.ycombinator.com/item?id=42813073) - [How to Build an Artificial Synapse](https://www.gsnetwork.com/how-to-build-an-artificial-synapse/)
+* [2025-01-24, 09:14:44](https://news.ycombinator.com/item?id=42811643) - [A Phenomenology of Spotify and Vinyl](https://hedgehogreview.com/web-features/thr/posts/a-phenomenology-of-spotify-and-vinyl)
 * [2025-01-24, 03:46:02](https://news.ycombinator.com/item?id=42810293) - [How far can you get in 40 minutes from each subway station in NYC?](https://subwaysheds.com/#11.27/40.7427/-73.9869)
 * [2025-01-23, 14:35:39](https://news.ycombinator.com/item?id=42804406) - [An experiment of adding recommendation engine to your app using pgvector search](https://silk.us/blog/vector-search-ai-integration/)
 * [2025-01-23, 01:03:02](https://news.ycombinator.com/item?id=42799388) - [Apache Iceberg](https://iceberg.apache.org/)
