@@ -20,7 +20,7 @@
 * [2025-01-25, 19:02:26](https://news.ycombinator.com/item?id=42823722) - [Every HTML Element](https://iamwillwang.com/dollar/every-html-element/)
 * [2025-01-25, 18:55:07](https://news.ycombinator.com/item?id=42823667) - [OpenRA – Classic strategy games rebuilt for the modern era](https://www.openra.net/)
 * [2025-01-25, 18:39:49](https://news.ycombinator.com/item?id=42823568) - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL](https://arxiv.org/abs/2501.12948)
-* [2025-01-25, 18:16:15](https://news.ycombinator.com/item?id=42823385) - [CIA now favors lab leak theory to explain Covid's origins](https://www.nytimes.com/2025/01/25/us/politics/cia-covid-lab-leak.html)
+* [2025-01-24, 22:29:57](https://news.ycombinator.com/item?id=42817554) - [Ask HN: How to automate collecting HAR file while user is browsing](https://news.ycombinator.com/item?id=42817554)
 * [2025-01-24, 13:43:10](https://news.ycombinator.com/item?id=42812923) - [A 1920s Art Party with Tamara de Lempicka](https://www.dailyartmagazine.com/welcoming-the-twenties-with-tamara-de-lempicka/)
 * [2025-01-24, 03:46:02](https://news.ycombinator.com/item?id=42810293) - [How far can you get in 40 minutes from each subway station in NYC?](https://subwaysheds.com/#11.27/40.7427/-73.9869)
 * [2025-01-23, 19:12:05](https://news.ycombinator.com/item?id=42806998) - [Mastering Atari Games with Natural Intelligence](https://www.verses.ai/blog/mastering-atari-games-with-natural-intelligence)
