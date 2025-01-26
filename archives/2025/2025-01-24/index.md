@@ -37,6 +37,7 @@
 * [2025-01-24, 14:21:59](https://news.ycombinator.com/item?id=42813264) - [Threlte 8](https://threlte.xyz/blog/threlte-8)
 * [2025-01-24, 14:18:25](https://news.ycombinator.com/item?id=42813233) - [Show HN: Snap Scope – Visualize Lens Focal Length Distribution from EXIF Data](https://snap-scope.shj.rip/?lng=en)
 * [2025-01-24, 14:18:20](https://news.ycombinator.com/item?id=42813231) - [Little Snitch feature nobody knows about](https://lapcatsoftware.com/articles/2025/1/6.html)
+* [2025-01-24, 13:59:03](https://news.ycombinator.com/item?id=42813073) - [How to Build an Artificial Synapse](https://www.gsnetwork.com/how-to-build-an-artificial-synapse/)
 * [2025-01-24, 13:57:10](https://news.ycombinator.com/item?id=42813049) - [Every System is a Log: Avoiding coordination in distributed applications](https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/)
 * [2025-01-24, 13:34:46](https://news.ycombinator.com/item?id=42812859) - [Lightpanda: The headless browser designed for AI and automation](https://github.com/lightpanda-io/browser)
 * [2025-01-24, 13:21:41](https://news.ycombinator.com/item?id=42812787) - [Clapping Music for two flip-disc displays](https://hannahilea.com/blog/clapping-music-for-flip-disc-displays/)
