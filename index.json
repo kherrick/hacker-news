@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-01-27, 12:44:39",
+      "https://news.ycombinator.com/item?id=42840548"
+    ],
+    [
+      "My failed attempt to shrink all NPM packages by 5%",
+      "https://evanhahn.com/my-failed-attempt-to-shrink-all-npm-packages-by-5-percent/"
+    ]
+  ],
+  [
+    [
       "2025-01-27, 12:18:35",
       "https://news.ycombinator.com/item?id=42840352"
     ],
     [
-      "Oliver Heaviside and the theory of transmission lines",
+      "Oliver Heaviside and the theory of transmission lines (2021)",
       "https://www.pa3fwm.nl/technotes/tn28-heaviside-transmission-lines.html"
     ]
   ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=42838700"
     ],
     [
-      "Once you're laid off, you'll never be the same again",
+      "A layoff fundamentally changed how I perceive work",
       "https://mertbulan.com/2025/01/26/once-you-are-laid-off-you-will-never-be-the-same-again/"
     ]
   ],
@@ -117,16 +127,6 @@
     [
       "Lessons in creating family photos that people want to keep (2018)",
       "https://estherschindler.medium.com/the-old-family-photos-project-lessons-in-creating-family-photos-that-people-want-to-keep-ea3909129943"
-    ]
-  ],
-  [
-    [
-      "2025-01-26, 22:39:54",
-      "https://news.ycombinator.com/item?id=42834953"
-    ],
-    [
-      "Hyperbound (YC S23) is hiring a Founding Account Executive in SF",
-      "https://www.ycombinator.com/companies/hyperbound/jobs/c3NkW7d-founding-full-cycle-account-executive-in-sf"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=42808027"
     ],
     [
-      "C Is Not Suited to SIMD",
+      "C Is Not Suited to SIMD (2019)",
       "http://blog.vmchale.com/article/notes-c-simd"
     ]
   ],
