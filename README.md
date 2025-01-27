@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-27, 18:16:23](https://news.ycombinator.com/item?id=42843989) - [Using the Rust standard library with the NuttX RTOS](https://lupyuen.org/articles/rust7.html)
+* [2025-01-27, 18:00:40](https://news.ycombinator.com/item?id=42843826) - [Current recycling innovations to utilize e-waste in green metal manufacturing](https://royalsocietypublishing.org/doi/10.1098/rsta.2023.0239)
 * [2025-01-27, 17:59:49](https://news.ycombinator.com/item?id=42843817) - [TBM 333: Lean Graph Theory](https://cutlefish.substack.com/p/tbm-333-lean-graph-theory)
 * [2025-01-27, 17:42:36](https://news.ycombinator.com/item?id=42843623) - [The Taylorator – All Your Frequencies Are Belong to Us](https://www.scd31.com/posts/taylorator)
 * [2025-01-27, 17:15:48](https://news.ycombinator.com/item?id=42843335) - [The Curious Case of Quentell](https://blog.startifact.com/posts/the-curious-case-of-quentell/)
@@ -25,10 +26,9 @@
 * [2025-01-25, 15:30:25](https://news.ycombinator.com/item?id=42822162) - [The impact of competition and DeepSeek on Nvidia](https://youtubetranscriptoptimizer.com/blog/05_the_short_case_for_nvda)
 * [2025-01-24, 18:52:52](https://news.ycombinator.com/item?id=42815995) - [Ask HN: How to produce a 3D scan of a car from a mobile phone?](https://news.ycombinator.com/item?id=42815995)
 * [2025-01-24, 17:38:11](https://news.ycombinator.com/item?id=42815454) - [Peanut Butter Day: Going Nuts over NIST's Standard Reference Peanut Butter (2016)](https://www.nist.gov/blogs/taking-measure/going-nuts-over-nists-standard-reference-peanut-butter)
+* [2025-01-24, 13:57:46](https://news.ycombinator.com/item?id=42813058) - [Mineral Oil Cooled PC](https://www.pugetsystems.com/mineral-oil-pc/)
 * [2025-01-24, 10:59:19](https://news.ycombinator.com/item?id=42812029) - [Supercharge SQLite with Ruby Functions](https://blog.julik.nl/2025/01/supercharge-sqlite-with-ruby-functions)
 * [2025-01-24, 08:49:51](https://news.ycombinator.com/item?id=42811550) - [Null Byte on Steroids](https://medium.com/@0xold/null-byte-on-steroids-23f8104a25ec)
-* [2025-01-23, 21:38:27](https://news.ycombinator.com/item?id=42808355) - [Using the most unhinged AVX-512 instruction to make fastest phrase search algo](https://gab-menezes.github.io/2025/01/13/using-the-most-unhinged-avx-512-instruction-to-make-the-fastest-phrase-search-algo.html)
-* [2025-01-23, 13:35:04](https://news.ycombinator.com/item?id=42803822) - [Show HN: 3D printing giant things with a Python jigsaw generator](https://calbryant.uk/blog/3d-printing-giant-things-with-jigsaw-generator/)
 * [2025-01-22, 23:29:21](https://news.ycombinator.com/item?id=42798649) - [Using generative AI as part of historical research: three case studies](https://resobscura.substack.com/p/the-leading-ai-models-are-now-very)
 
 ## [Archives](archives/index.md)

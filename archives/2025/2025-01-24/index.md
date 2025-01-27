@@ -48,6 +48,7 @@
 * [2025-01-24, 14:18:25](https://news.ycombinator.com/item?id=42813233) - [Show HN: Snap Scope – Visualize Lens Focal Length Distribution from EXIF Data](https://snap-scope.shj.rip/?lng=en)
 * [2025-01-24, 14:18:20](https://news.ycombinator.com/item?id=42813231) - [Little Snitch feature nobody knows about](https://lapcatsoftware.com/articles/2025/1/6.html)
 * [2025-01-24, 13:59:03](https://news.ycombinator.com/item?id=42813073) - [How to Build an Artificial Synapse](https://www.gsnetwork.com/how-to-build-an-artificial-synapse/)
+* [2025-01-24, 13:57:46](https://news.ycombinator.com/item?id=42813058) - [Mineral Oil Cooled PC](https://www.pugetsystems.com/mineral-oil-pc/)
 * [2025-01-24, 13:57:10](https://news.ycombinator.com/item?id=42813049) - [Every System is a Log: Avoiding coordination in distributed applications](https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/)
 * [2025-01-24, 13:48:53](https://news.ycombinator.com/item?id=42812970) - [Ancient genomes reveal an Iron Age society centred on women](https://www.tcd.ie/news_events/top-stories/featured/ancient-genomes-reveal-an-iron-age-society-centred-on-women/)
 * [2025-01-24, 13:43:10](https://news.ycombinator.com/item?id=42812923) - [A 1920s Art Party with Tamara de Lempicka](https://www.dailyartmagazine.com/welcoming-the-twenties-with-tamara-de-lempicka/)
