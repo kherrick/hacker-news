@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-01-26, 17:24:15",
-      "https://news.ycombinator.com/item?id=42831769"
-    ],
-    [
-      "Qwen2.5-1M: Deploy your own Qwen with context length up to 1M tokens",
-      "https://qwenlm.github.io/blog/qwen2.5-1m/"
-    ]
-  ],
-  [
-    [
       "2025-01-26, 16:57:52",
       "https://news.ycombinator.com/item?id=42831509"
     ],
@@ -287,6 +277,16 @@
     [
       "Null Byte on Steroids",
       "https://medium.com/@0xold/null-byte-on-steroids-23f8104a25ec"
+    ]
+  ],
+  [
+    [
+      "2025-01-23, 19:49:59",
+      "https://news.ycombinator.com/item?id=42807387"
+    ],
+    [
+      "A Faster Quantum Fourier Transform",
+      "https://arxiv.org/abs/2501.12414"
     ]
   ],
   [
