@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-27](index.md)
 
+* [2025-01-27, 14:29:13](https://news.ycombinator.com/item?id=42841461) - [How DeepSeek-R1 Was Built, for Dummies](https://www.vellum.ai/blog/the-training-of-deepseek-r1-and-ways-to-use-it)
 * [2025-01-27, 12:44:39](https://news.ycombinator.com/item?id=42840548) - [My failed attempt to shrink all NPM packages by 5%](https://evanhahn.com/my-failed-attempt-to-shrink-all-npm-packages-by-5-percent/)
 * [2025-01-27, 12:18:35](https://news.ycombinator.com/item?id=42840352) - [Oliver Heaviside and the theory of transmission lines](https://www.pa3fwm.nl/technotes/tn28-heaviside-transmission-lines.html)
 * [2025-01-27, 10:57:44](https://news.ycombinator.com/item?id=42839650) - [Nvidia, ASML Plunge as DeepSeek Triggers Tech Stock Selloff](https://finance.yahoo.com/news/asml-sinks-china-ai-startup-081823609.html)
