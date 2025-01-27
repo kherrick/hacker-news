@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-27, 10:57:44](https://news.ycombinator.com/item?id=42839650) - [Nvidia, ASML Plunge as DeepSeek Triggers Tech Stock Selloff](https://finance.yahoo.com/news/asml-sinks-china-ai-startup-081823609.html)
 * [2025-01-27, 10:05:43](https://news.ycombinator.com/item?id=42839348) - [Sweden Seizes Ship Suspected of Baltic Sea 'Sabotage'](https://www.barrons.com/news/sweden-says-has-seized-ship-suspected-of-baltic-sea-sabotage-13ff82f2)
 * [2025-01-27, 09:53:17](https://news.ycombinator.com/item?id=42839253) - [Free Web Hosting Area](https://www.freewebhostingarea.com/)
 * [2025-01-27, 08:52:46](https://news.ycombinator.com/item?id=42838855) - [One in four 2020 Tesla Model 3 failed the Danish periodic inspection in 2024](https://fdm.dk/nyheder/bilist/2025-01-populaer-tesla-model-dumper-med-et-brag-til-syn)
@@ -11,7 +12,6 @@
 * [2025-01-27, 00:11:27](https://news.ycombinator.com/item?id=42835772) - [Openhaystack: Build 'AirTags' – track Bluetooth devices via Apple's network](https://github.com/seemoo-lab/openhaystack)
 * [2025-01-26, 23:13:01](https://news.ycombinator.com/item?id=42835282) - [Lessons in creating family photos that people want to keep (2018)](https://estherschindler.medium.com/the-old-family-photos-project-lessons-in-creating-family-photos-that-people-want-to-keep-ea3909129943)
 * [2025-01-26, 22:39:54](https://news.ycombinator.com/item?id=42834953) - [Hyperbound (YC S23) is hiring a Founding Account Executive in SF](https://www.ycombinator.com/companies/hyperbound/jobs/c3NkW7d-founding-full-cycle-account-executive-in-sf)
-* [2025-01-26, 20:59:16](https://news.ycombinator.com/item?id=42834043) - [Astronomers delete asteroid because it turned out to be Tesla Roadster](https://www.astronomy.com/science/astronomers-just-deleted-an-asteroid-because-it-turned-out-to-be-elon-musks-tesla-roadster/)
 * [2025-01-26, 20:17:38](https://news.ycombinator.com/item?id=42833638) - [Amsterdam Compiler Kit for Cray X-MP](https://github.com/kej715/ack)
 * [2025-01-26, 17:40:11](https://news.ycombinator.com/item?id=42831927) - [OpenJazz is a free, open-source version of the classic Jazz Jackrabbit games](https://alister.eu/jazz/oj/about.php)
 * [2025-01-26, 17:24:15](https://news.ycombinator.com/item?id=42831769) - [Qwen2.5-1M: Deploy your own Qwen with context length up to 1M tokens](https://qwenlm.github.io/blog/qwen2.5-1m/)
