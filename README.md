@@ -2,6 +2,7 @@
 
 * [2025-01-27, 15:42:02](https://news.ycombinator.com/item?id=42842270) - [Bilinear down/upsampling, aligning pixel grids, and that infamous GPU half pixel (2021)](https://bartwronski.com/2021/02/15/bilinear-down-upsampling-pixel-grids-and-that-half-pixel-offset/)
 * [2025-01-27, 15:29:54](https://news.ycombinator.com/item?id=42842123) - [Show HN: I Created ErisForge, a Python Library for Abliteration of LLMs](https://github.com/Tsadoq/ErisForge)
+* [2025-01-27, 15:17:48](https://news.ycombinator.com/item?id=42841981) - [Linux kernel could cut energy use in data centres by up to 30 per cent](https://cs.uwaterloo.ca/news/cheriton-school-computer-science-researchers-update-linux)
 * [2025-01-27, 12:44:39](https://news.ycombinator.com/item?id=42840548) - [My failed attempt to shrink all NPM packages by 5%](https://evanhahn.com/my-failed-attempt-to-shrink-all-npm-packages-by-5-percent/)
 * [2025-01-27, 12:18:35](https://news.ycombinator.com/item?id=42840352) - [Oliver Heaviside and the theory of transmission lines (2021)](https://www.pa3fwm.nl/technotes/tn28-heaviside-transmission-lines.html)
 * [2025-01-27, 10:32:35](https://news.ycombinator.com/item?id=42839501) - [SiFive's P550 Microarchitecture](https://chipsandcheese.com/p/inside-sifives-p550-microarchitecture)
@@ -15,7 +16,6 @@
 * [2025-01-26, 23:13:01](https://news.ycombinator.com/item?id=42835282) - [Lessons in creating family photos that people want to keep (2018)](https://estherschindler.medium.com/the-old-family-photos-project-lessons-in-creating-family-photos-that-people-want-to-keep-ea3909129943)
 * [2025-01-26, 20:17:38](https://news.ycombinator.com/item?id=42833638) - [Amsterdam Compiler Kit for Cray X-MP](https://github.com/kej715/ack)
 * [2025-01-26, 17:24:15](https://news.ycombinator.com/item?id=42831769) - [Qwen2.5-1M: Deploy your own Qwen with context length up to 1M tokens](https://qwenlm.github.io/blog/qwen2.5-1m/)
-* [2025-01-26, 17:01:25](https://news.ycombinator.com/item?id=42831550) - [Reviving a Dead Audio Format: The Return of ZZM](https://nicole.express/2025/zoo-of-zero-motivation.html)
 * [2025-01-26, 16:57:52](https://news.ycombinator.com/item?id=42831509) - [Hard numbers in the Wayland vs. X11 input latency discussion](https://mort.coffee/home/wayland-input-latency/)
 * [2025-01-26, 14:05:15](https://news.ycombinator.com/item?id=42830155) - [No one is disrupting banks – at least not the big ones](https://www.popularfintech.com/p/no-one-is-disrupting-banks)
 * [2025-01-26, 13:38:36](https://news.ycombinator.com/item?id=42830033) - [Halliday AR(Not?)/AI Glasses](https://kguttag.com/2025/01/25/halliday-arnot-ai-glasses/)
