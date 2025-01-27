@@ -40,6 +40,7 @@
 * [2025-01-26, 15:26:14](https://news.ycombinator.com/item?id=42830654) - [I Built an Omni-Directional Ball-Wheeled Bike [video]](https://www.youtube.com/watch?v=ZVFB2g25OkM)
 * [2025-01-26, 15:24:53](https://news.ycombinator.com/item?id=42830646) - [It's not a crime if we do it with an app](https://pluralistic.net/2025/01/25/potatotrac/#carbo-loading)
 * [2025-01-26, 14:05:15](https://news.ycombinator.com/item?id=42830155) - [No one is disrupting banks](https://www.popularfintech.com/p/no-one-is-disrupting-banks)
+* [2025-01-26, 13:38:36](https://news.ycombinator.com/item?id=42830033) - [Halliday AR(Not?)/AI Glasses](https://kguttag.com/2025/01/25/halliday-arnot-ai-glasses/)
 * [2025-01-26, 13:25:02](https://news.ycombinator.com/item?id=42829951) - [WristPC Keyboard](https://www.l3sys.com/wristpc/wristpc.html)
 * [2025-01-26, 12:55:14](https://news.ycombinator.com/item?id=42829795) - [Toyota reduces price of new hydrogen car with $15,000 of free fuel](https://www.hydrogeninsight.com/transport/toyota-reduces-price-of-new-hydrogen-car-in-california-to-just-over-15-000-with-15-000-of-free-fuel/2-1-1769729)
 * [2025-01-26, 11:51:16](https://news.ycombinator.com/item?id=42829515) - [Einstein Probe detects puzzling cosmic explosion](https://www.esa.int/Science_Exploration/Space_Science/Einstein_Probe_detects_puzzling_cosmic_explosion)
