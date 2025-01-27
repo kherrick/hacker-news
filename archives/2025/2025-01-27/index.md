@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-27](index.md)
 
 * [2025-01-27, 08:52:46](https://news.ycombinator.com/item?id=42838855) - [One in four 2020 Tesla Model 3 failed the Danish periodic inspection in 2024](https://fdm.dk/nyheder/bilist/2025-01-populaer-tesla-model-dumper-med-et-brag-til-syn)
+* [2025-01-27, 08:25:26](https://news.ycombinator.com/item?id=42838720) - [Tim Cook Is Failing Us](https://joe-steel.com/2025-01-25-Tim-Cook-Is-Failing-Us.html)
 * [2025-01-27, 08:22:41](https://news.ycombinator.com/item?id=42838700) - [Once You're Laid Off, You'll Never Be the Same Again](https://mertbulan.com/2025/01/26/once-you-are-laid-off-you-will-never-be-the-same-again/)
 * [2025-01-27, 07:32:43](https://news.ycombinator.com/item?id=42838355) - [Show HN: Making AR experiences is still painful – had to make my own editor](https://ordinary.space/)
 * [2025-01-27, 05:11:07](https://news.ycombinator.com/item?id=42837636) - [Hedy: Textual Programming Made Easy](https://www.hedy.org/)
