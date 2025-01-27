@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-27](index.md)
 
+* [2025-01-27, 07:32:43](https://news.ycombinator.com/item?id=42838355) - [Show HN: Making AR experiences is still painful – had to make my own editor](https://ordinary.space/)
 * [2025-01-27, 05:11:07](https://news.ycombinator.com/item?id=42837636) - [Hedy: Textual Programming Made Easy](https://www.hedy.org/)
 * [2025-01-27, 04:40:45](https://news.ycombinator.com/item?id=42837489) - [US blocking Swiss access to AI chips](https://www.bluewin.ch/en/news/usa-restricts-swiss-access-to-ai-computer-chips-2535516.html)
 * [2025-01-27, 04:34:40](https://news.ycombinator.com/item?id=42837462) - [If OpenSSL Were a GUI](https://smallstep.com/blog/if-openssl-were-a-gui/)
