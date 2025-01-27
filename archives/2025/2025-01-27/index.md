@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-27](index.md)
 
+* [2025-01-27, 18:16:23](https://news.ycombinator.com/item?id=42843989) - [Using the Rust standard library with the NuttX RTOS](https://lupyuen.org/articles/rust7.html)
+* [2025-01-27, 17:59:49](https://news.ycombinator.com/item?id=42843817) - [TBM 333: Lean Graph Theory](https://cutlefish.substack.com/p/tbm-333-lean-graph-theory)
 * [2025-01-27, 17:42:36](https://news.ycombinator.com/item?id=42843623) - [The Taylorator – All Your Frequencies Are Belong to Us](https://www.scd31.com/posts/taylorator)
 * [2025-01-27, 17:27:57](https://news.ycombinator.com/item?id=42843475) - [Distrowatch.com Facebook Ban](https://distrowatch.com/weekly.php?issue=20250127#sitenews)
 * [2025-01-27, 17:15:48](https://news.ycombinator.com/item?id=42843335) - [The Curious Case of Quentell](https://blog.startifact.com/posts/the-curious-case-of-quentell/)

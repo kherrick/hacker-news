@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-27, 18:16:23](https://news.ycombinator.com/item?id=42843989) - [Using the Rust standard library with the NuttX RTOS](https://lupyuen.org/articles/rust7.html)
+* [2025-01-27, 17:59:49](https://news.ycombinator.com/item?id=42843817) - [TBM 333: Lean Graph Theory](https://cutlefish.substack.com/p/tbm-333-lean-graph-theory)
 * [2025-01-27, 17:42:36](https://news.ycombinator.com/item?id=42843623) - [The Taylorator – All Your Frequencies Are Belong to Us](https://www.scd31.com/posts/taylorator)
 * [2025-01-27, 17:15:48](https://news.ycombinator.com/item?id=42843335) - [The Curious Case of Quentell](https://blog.startifact.com/posts/the-curious-case-of-quentell/)
 * [2025-01-27, 17:09:20](https://news.ycombinator.com/item?id=42843252) - [Non-random uniform disk sampling](https://victorpoughon.fr/non-random-uniform-disk-sampling/)
@@ -15,7 +17,6 @@
 * [2025-01-27, 08:22:41](https://news.ycombinator.com/item?id=42838700) - [A layoff fundamentally changed how I perceive work](https://mertbulan.com/2025/01/26/once-you-are-laid-off-you-will-never-be-the-same-again/)
 * [2025-01-27, 07:32:43](https://news.ycombinator.com/item?id=42838355) - [Show HN: Making AR experiences is still painful – had to make my own editor](https://ordinary.space/)
 * [2025-01-27, 05:11:07](https://news.ycombinator.com/item?id=42837636) - [Hedy: Textual programming made easy](https://www.hedy.org/)
-* [2025-01-27, 00:14:53](https://news.ycombinator.com/item?id=42835798) - [Shunpo: Minimalist bash tool to make directory navigation a little bit faster](https://github.com/egurapha/Shunpo)
 * [2025-01-27, 00:11:27](https://news.ycombinator.com/item?id=42835772) - [Openhaystack: Build 'AirTags' – track Bluetooth devices via Apple's network](https://github.com/seemoo-lab/openhaystack)
 * [2025-01-26, 23:13:01](https://news.ycombinator.com/item?id=42835282) - [Lessons in creating family photos that people want to keep (2018)](https://estherschindler.medium.com/the-old-family-photos-project-lessons-in-creating-family-photos-that-people-want-to-keep-ea3909129943)
 * [2025-01-26, 17:24:15](https://news.ycombinator.com/item?id=42831769) - [Qwen2.5-1M: Deploy your own Qwen with context length up to 1M tokens](https://qwenlm.github.io/blog/qwen2.5-1m/)
@@ -29,7 +30,6 @@
 * [2025-01-23, 21:38:27](https://news.ycombinator.com/item?id=42808355) - [Using the most unhinged AVX-512 instruction to make fastest phrase search algo](https://gab-menezes.github.io/2025/01/13/using-the-most-unhinged-avx-512-instruction-to-make-the-fastest-phrase-search-algo.html)
 * [2025-01-23, 13:35:04](https://news.ycombinator.com/item?id=42803822) - [Show HN: 3D printing giant things with a Python jigsaw generator](https://calbryant.uk/blog/3d-printing-giant-things-with-jigsaw-generator/)
 * [2025-01-22, 23:29:21](https://news.ycombinator.com/item?id=42798649) - [Using generative AI as part of historical research: three case studies](https://resobscura.substack.com/p/the-leading-ai-models-are-now-very)
-* [2025-01-22, 22:33:20](https://news.ycombinator.com/item?id=42798230) - [So you wanna write Kubernetes controllers?](https://ahmet.im/blog/controller-pitfalls/)
 
 ## [Archives](archives/index.md)
 
