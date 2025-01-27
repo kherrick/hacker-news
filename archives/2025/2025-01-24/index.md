@@ -17,6 +17,7 @@
 * [2025-01-24, 21:44:33](https://news.ycombinator.com/item?id=42817212) - [FEMA May Be Eliminated](https://www.pbs.org/newshour/politics/watch-trump-says-hes-considering-getting-rid-of-fema-during-briefing-in-north-carolina)
 * [2025-01-24, 21:38:05](https://news.ycombinator.com/item?id=42817163) - [The Past, Present, and Future of UI at GitHub](https://hawksley.org/2025/01/08/past-present-future-of-UI-at-github.html)
 * [2025-01-24, 21:32:51](https://news.ycombinator.com/item?id=42817124) - [Looking for work is a full time job](https://www.resumevue.com/board)
+* [2025-01-24, 20:16:38](https://news.ycombinator.com/item?id=42816543) - [When a hyperspectral image is a cube](https://mirawelner.com/posts/cube.html)
 * [2025-01-24, 19:56:31](https://news.ycombinator.com/item?id=42816418) - [A Very Chicago Gamble](https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/)
 * [2025-01-24, 19:48:51](https://news.ycombinator.com/item?id=42816359) - [The Hidden Complexity of Scaling WebSockets](https://composehq.com/blog/scaling-websockets-1-23-25)
 * [2025-01-24, 19:38:38](https://news.ycombinator.com/item?id=42816284) - [Dead Internet Theory and the Falsification of PhysicsForums](https://hallofdreams.org/posts/physicsforums/)
