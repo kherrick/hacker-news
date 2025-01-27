@@ -6,6 +6,7 @@
 
 * [2025-01-26, 23:13:01](https://news.ycombinator.com/item?id=42835282) - [Lessons in creating family photos that people want to keep (2018)](https://estherschindler.medium.com/the-old-family-photos-project-lessons-in-creating-family-photos-that-people-want-to-keep-ea3909129943)
 * [2025-01-26, 23:03:10](https://news.ycombinator.com/item?id=42835183) - [Kansas tuberculosis outbreak is now America's largest in recorded history](https://www.cjonline.com/story/news/politics/government/2025/01/24/kansas-tuberculosis-outbreak-is-largest-in-recorded-history-in-u-s/77881467007/)
+* [2025-01-26, 22:45:24](https://news.ycombinator.com/item?id=42834999) - [The 'no. 8 wire' tradition in New Zealand](https://teara.govt.nz/en/inventions-patents-and-trademarks/page-1)
 * [2025-01-26, 22:39:54](https://news.ycombinator.com/item?id=42834953) - [Hyperbound (YC S23) Is Hiring Founding Full-Cycle AES in SF](https://www.ycombinator.com/companies/hyperbound/jobs/c3NkW7d-founding-full-cycle-account-executive-in-sf)
 * [2025-01-26, 22:34:06](https://news.ycombinator.com/item?id=42834911) - [Mark Zuckerberg: This Man Is a Coward](https://www.theindex.media/this-man-is-a-coward/)
 * [2025-01-26, 22:03:39](https://news.ycombinator.com/item?id=42834648) - [Show HN: DeepSeek My User Agent](https://www.jasonthorsness.com/20)
