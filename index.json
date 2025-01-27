@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-27, 18:16:23",
+      "https://news.ycombinator.com/item?id=42843989"
+    ],
+    [
+      "Using the Rust standard library with the NuttX RTOS",
+      "https://lupyuen.org/articles/rust7.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-27, 17:59:49",
+      "https://news.ycombinator.com/item?id=42843817"
+    ],
+    [
+      "TBM 333: Lean Graph Theory",
+      "https://cutlefish.substack.com/p/tbm-333-lean-graph-theory"
+    ]
+  ],
+  [
+    [
       "2025-01-27, 17:42:36",
       "https://news.ycombinator.com/item?id=42843623"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-01-27, 00:14:53",
-      "https://news.ycombinator.com/item?id=42835798"
-    ],
-    [
-      "Shunpo: Minimalist bash tool to make directory navigation a little bit faster",
-      "https://github.com/egurapha/Shunpo"
-    ]
-  ],
-  [
-    [
       "2025-01-27, 00:11:27",
       "https://news.ycombinator.com/item?id=42835772"
     ],
@@ -287,16 +297,6 @@
     [
       "Using generative AI as part of historical research: three case studies",
       "https://resobscura.substack.com/p/the-leading-ai-models-are-now-very"
-    ]
-  ],
-  [
-    [
-      "2025-01-22, 22:33:20",
-      "https://news.ycombinator.com/item?id=42798230"
-    ],
-    [
-      "So you wanna write Kubernetes controllers?",
-      "https://ahmet.im/blog/controller-pitfalls/"
     ]
   ]
 ]
