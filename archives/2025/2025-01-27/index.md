@@ -20,6 +20,7 @@
 * [2025-01-27, 15:21:59](https://news.ycombinator.com/item?id=42842023) - [New Zealand welcomes digital nomads by loosening visitor visa rules](https://www.abc.net.au/news/2025-01-27/nz-loosens-visitor-visa-rules-to-welcome-digital-nomads/104863564)
 * [2025-01-27, 15:17:48](https://news.ycombinator.com/item?id=42841981) - [Linux kernel could cut energy use in data centres by up to 30 per cent](https://cs.uwaterloo.ca/news/cheriton-school-computer-science-researchers-update-linux)
 * [2025-01-27, 14:29:13](https://news.ycombinator.com/item?id=42841461) - [How DeepSeek-R1 Was Built, for Dummies](https://www.vellum.ai/blog/the-training-of-deepseek-r1-and-ways-to-use-it)
+* [2025-01-27, 14:24:05](https://news.ycombinator.com/item?id=42841409) - [The Ocean Teems with Networks of Interconnected Bacteria](https://www.quantamagazine.org/the-ocean-teems-with-networks-of-interconnected-bacteria-20250106/)
 * [2025-01-27, 12:44:39](https://news.ycombinator.com/item?id=42840548) - [My failed attempt to shrink all NPM packages by 5%](https://evanhahn.com/my-failed-attempt-to-shrink-all-npm-packages-by-5-percent/)
 * [2025-01-27, 12:18:35](https://news.ycombinator.com/item?id=42840352) - [Oliver Heaviside and the theory of transmission lines](https://www.pa3fwm.nl/technotes/tn28-heaviside-transmission-lines.html)
 * [2025-01-27, 10:57:44](https://news.ycombinator.com/item?id=42839650) - [Nvidia, ASML Plunge as DeepSeek Triggers Tech Stock Selloff](https://finance.yahoo.com/news/asml-sinks-china-ai-startup-081823609.html)
