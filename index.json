@@ -1,11 +1,51 @@
 [
   [
     [
+      "2025-01-27, 00:14:53",
+      "https://news.ycombinator.com/item?id=42835798"
+    ],
+    [
+      "Shunpo: Minimalist bash tool to make directory navigation a little bit faster",
+      "https://github.com/egurapha/Shunpo"
+    ]
+  ],
+  [
+    [
+      "2025-01-27, 00:11:27",
+      "https://news.ycombinator.com/item?id=42835772"
+    ],
+    [
+      "Openhaystack: Build 'AirTags' – track Bluetooth devices via Apple's network",
+      "https://github.com/seemoo-lab/openhaystack"
+    ]
+  ],
+  [
+    [
+      "2025-01-26, 23:13:01",
+      "https://news.ycombinator.com/item?id=42835282"
+    ],
+    [
+      "Lessons in creating family photos that people want to keep (2018)",
+      "https://estherschindler.medium.com/the-old-family-photos-project-lessons-in-creating-family-photos-that-people-want-to-keep-ea3909129943"
+    ]
+  ],
+  [
+    [
+      "2025-01-26, 23:03:10",
+      "https://news.ycombinator.com/item?id=42835183"
+    ],
+    [
+      "Kansas tuberculosis outbreak is now America's largest in recorded history",
+      "https://www.cjonline.com/story/news/politics/government/2025/01/24/kansas-tuberculosis-outbreak-is-largest-in-recorded-history-in-u-s/77881467007/"
+    ]
+  ],
+  [
+    [
       "2025-01-26, 22:39:54",
       "https://news.ycombinator.com/item?id=42834953"
     ],
     [
-      "Hyperbound (YC S23) Is Hiring Founding AEs in SF",
+      "Hyperbound (YC S23) is hiring a Founding Account Executive in SF",
       "https://www.ycombinator.com/companies/hyperbound/jobs/c3NkW7d-founding-full-cycle-account-executive-in-sf"
     ]
   ],
@@ -21,31 +61,11 @@
   ],
   [
     [
-      "2025-01-26, 22:02:14",
-      "https://news.ycombinator.com/item?id=42834634"
-    ],
-    [
-      "Astronomers seek global ban on space advertising",
-      "https://spacenews.com/astronomers-seek-global-ban-on-space-advertising/"
-    ]
-  ],
-  [
-    [
-      "2025-01-26, 21:40:35",
-      "https://news.ycombinator.com/item?id=42834432"
-    ],
-    [
-      "Brazil bans Sam Altman's tech firm Tools for Humanity from paying for iris scans",
-      "https://economictimes.indiatimes.com/tech/technology/brazil-bans-sam-altmans-tech-firm-tools-for-humanity-from-paying-for-iris-scans/articleshow/117540826.cms?from=mdr"
-    ]
-  ],
-  [
-    [
       "2025-01-26, 21:29:41",
       "https://news.ycombinator.com/item?id=42834341"
     ],
     [
-      "The Only Photo of the Concorde Flying at Supersonic Speed",
+      "The only photo of the Concorde flying at supersonic speed",
       "https://petapixel.com/2025/01/25/photo-concorde-supersonic-speed-mach-2/"
     ]
   ],
@@ -71,32 +91,22 @@
   ],
   [
     [
-      "2025-01-26, 20:03:51",
-      "https://news.ycombinator.com/item?id=42833491"
-    ],
-    [
-      "Another undersea cable damaged in Baltic Sea",
-      "https://www.france24.com/en/europe/20250126-another-undersea-cable-damaged-in-baltic-sea-latvia-dispatches-warship"
-    ]
-  ],
-  [
-    [
-      "2025-01-26, 18:47:51",
-      "https://news.ycombinator.com/item?id=42832696"
-    ],
-    [
-      "Render raises $80M in Series C financing",
-      "https://render.com/blog/series-c"
-    ]
-  ],
-  [
-    [
       "2025-01-26, 18:29:18",
       "https://news.ycombinator.com/item?id=42832482"
     ],
     [
       "Two Bites of Data Science in K",
       "https://blog.zdsmith.com/posts/two-bites-of-data-science-in-k.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-26, 17:40:11",
+      "https://news.ycombinator.com/item?id=42831927"
+    ],
+    [
+      "OpenJazz is a free, open-source version of the classic Jazz Jackrabbit games",
+      "https://alister.eu/jazz/oj/about.php"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2025-01-26, 06:37:12",
-      "https://news.ycombinator.com/item?id=42828198"
-    ],
-    [
-      "YC Graveyard: 821 inactive Y Combinator startups",
-      "https://ycgraveyard.iamwillwang.com/"
-    ]
-  ],
-  [
-    [
       "2025-01-26, 04:03:03",
       "https://news.ycombinator.com/item?id=42827601"
     ],
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-01-25, 18:55:07",
-      "https://news.ycombinator.com/item?id=42823667"
-    ],
-    [
-      "OpenRA – Classic strategy games rebuilt for the modern era",
-      "https://www.openra.net/"
-    ]
-  ],
-  [
-    [
       "2025-01-25, 15:30:25",
       "https://news.ycombinator.com/item?id=42822162"
     ],
@@ -257,6 +247,16 @@
     [
       "Using the most unhinged AVX-512 instruction to make fastest phrase search algo",
       "https://gab-menezes.github.io/2025/01/13/using-the-most-unhinged-avx-512-instruction-to-make-the-fastest-phrase-search-algo.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-23, 18:35:24",
+      "https://news.ycombinator.com/item?id=42806624"
+    ],
+    [
+      "From tiny to immense: Geological spotlight on the Alexander Mosaic",
+      "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315188"
     ]
   ],
   [
