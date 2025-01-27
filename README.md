@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-27, 04:34:40](https://news.ycombinator.com/item?id=42837462) - [If OpenSSL Were a GUI](https://smallstep.com/blog/if-openssl-were-a-gui/)
+* [2025-01-27, 04:28:00](https://news.ycombinator.com/item?id=42837423) - [Calif.-founded EV maker Canoo, once worth $2.4B, goes belly-up](https://www.sfgate.com/tech/article/canoo-ev-maker-goes-bankrupt-20054204.php)
 * [2025-01-27, 03:41:52](https://news.ycombinator.com/item?id=42837181) - [Interview with Andy Yen, CEO of Proton VPN](https://www.compiler.news/proton-vpn-venezuela-russia/)
-* [2025-01-27, 03:07:27](https://news.ycombinator.com/item?id=42836981) - [Making a live-mode test payment to yourself = a payment processor ToS violation?](https://news.ycombinator.com/item?id=42836981)
+* [2025-01-27, 03:21:00](https://news.ycombinator.com/item?id=42837055) - [Show HN: An innovative flag-guessing game that identify regions by fragments](https://flagle.fun/)
 * [2025-01-27, 02:38:25](https://news.ycombinator.com/item?id=42836818) - [Purelymail: Cheap, no-nonsense email](https://purelymail.com/)
 * [2025-01-27, 01:39:05](https://news.ycombinator.com/item?id=42836405) - [Marginalia – A search engine that prioritizes non-commercial content](https://marginalia-search.com/)
 * [2025-01-27, 00:14:53](https://news.ycombinator.com/item?id=42835798) - [Shunpo: Minimalist bash tool to make directory navigation a little bit faster](https://github.com/egurapha/Shunpo)
@@ -15,7 +16,6 @@
 * [2025-01-26, 20:17:38](https://news.ycombinator.com/item?id=42833638) - [Amsterdam Compiler Kit for Cray X-MP](https://github.com/kej715/ack)
 * [2025-01-26, 17:40:11](https://news.ycombinator.com/item?id=42831927) - [OpenJazz is a free, open-source version of the classic Jazz Jackrabbit games](https://alister.eu/jazz/oj/about.php)
 * [2025-01-26, 17:24:15](https://news.ycombinator.com/item?id=42831769) - [Qwen2.5-1M: Deploy your own Qwen with context length up to 1M tokens](https://qwenlm.github.io/blog/qwen2.5-1m/)
-* [2025-01-26, 17:01:25](https://news.ycombinator.com/item?id=42831550) - [Reviving a Dead Audio Format: The Return of ZZM](https://nicole.express/2025/zoo-of-zero-motivation.html)
 * [2025-01-26, 16:57:52](https://news.ycombinator.com/item?id=42831509) - [Hard numbers in the Wayland vs. X11 input latency discussion](https://mort.coffee/home/wayland-input-latency/)
 * [2025-01-26, 16:33:51](https://news.ycombinator.com/item?id=42831281) - [The Microsoft 365 Copilot launch was a disaster](https://www.zdnet.com/home-and-office/work-life/the-microsoft-365-copilot-launch-was-a-total-disaster/)
 * [2025-01-26, 14:05:15](https://news.ycombinator.com/item?id=42830155) - [No one is disrupting banks – at least not the big ones](https://www.popularfintech.com/p/no-one-is-disrupting-banks)
