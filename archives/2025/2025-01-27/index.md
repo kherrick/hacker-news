@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-27](index.md)
 
+* [2025-01-27, 17:09:20](https://news.ycombinator.com/item?id=42843252) - [Non-random uniform disk sampling](https://victorpoughon.fr/non-random-uniform-disk-sampling/)
 * [2025-01-27, 15:42:02](https://news.ycombinator.com/item?id=42842270) - [Bilinear down/upsampling, aligning pixel grids, and that infamous GPU half pixel (2021)](https://bartwronski.com/2021/02/15/bilinear-down-upsampling-pixel-grids-and-that-half-pixel-offset/)
 * [2025-01-27, 15:41:12](https://news.ycombinator.com/item?id=42842257) - [Operation Leg: When the RAF airdropped a prosthetic leg into a German POW castle](https://www.rafbf.org/news-and-stories/raf-history/operation-leg-pilot-unlike-any-other)
 * [2025-01-27, 15:29:54](https://news.ycombinator.com/item?id=42842123) - [Show HN: I Created ErisForge, a Python Library for Abliteration of LLMs](https://github.com/Tsadoq/ErisForge)
