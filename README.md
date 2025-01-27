@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-27, 02:38:25](https://news.ycombinator.com/item?id=42836818) - [Purelymail: Cheap Email for Everyone](https://purelymail.com/)
-* [2025-01-27, 02:19:02](https://news.ycombinator.com/item?id=42836675) - [The race for \"AI Supremacy\" is over – at least for now](https://garymarcus.substack.com/p/the-race-for-ai-supremacy-is-over)
 * [2025-01-27, 01:54:38](https://news.ycombinator.com/item?id=42836517) - [The Less People Know About AI, the More They Like It](https://theconversation.com/knowing-less-about-ai-makes-people-more-open-to-having-it-in-their-lives-new-research-247372)
 * [2025-01-27, 01:39:05](https://news.ycombinator.com/item?id=42836405) - [Marginalia – A search engine that prioritizes non-commercial content](https://marginalia-search.com/)
 * [2025-01-27, 00:14:53](https://news.ycombinator.com/item?id=42835798) - [Shunpo: Minimalist bash tool to make directory navigation a little bit faster](https://github.com/egurapha/Shunpo)
@@ -21,8 +20,9 @@
 * [2025-01-26, 16:33:51](https://news.ycombinator.com/item?id=42831281) - [The Microsoft 365 Copilot launch was a disaster](https://www.zdnet.com/home-and-office/work-life/the-microsoft-365-copilot-launch-was-a-total-disaster/)
 * [2025-01-26, 14:05:15](https://news.ycombinator.com/item?id=42830155) - [No one is disrupting banks – at least not the big ones](https://www.popularfintech.com/p/no-one-is-disrupting-banks)
 * [2025-01-26, 11:04:16](https://news.ycombinator.com/item?id=42829317) - [The protester's guide to smartphone security](https://www.privacyguides.org/articles/2025/01/23/activists-guide-securing-your-smartphone/)
-* [2025-01-26, 11:02:59](https://news.ycombinator.com/item?id=42829309) - [Show HN: Orange intelligence, an open source alternative to Apple Intelligence](https://github.com/sharingan-no-kakashi/orange-intelligence)
+* [2025-01-26, 04:03:03](https://news.ycombinator.com/item?id=42827601) - [Explainer: What's r1 and everything else?](https://timkellogg.me/blog/2025/01/25/r1)
 * [2025-01-26, 03:44:43](https://news.ycombinator.com/item?id=42827532) - [AI slop, suspicion, and writing back](https://benjamincongdon.me/blog/2025/01/25/AI-Slop-Suspicion-and-Writing-Back/)
+* [2025-01-26, 00:40:46](https://news.ycombinator.com/item?id=42826536) - [The South Vietnamese pilot who landed a Cessna on a carrier to save his family (2019)](https://www.historynet.com/maj-buang-lys-daring-feat-to-save-his-family/)
 * [2025-01-24, 23:44:50](https://news.ycombinator.com/item?id=42818047) - [Autodesk partially restores old forum posts after outcry from the users](https://forums.autodesk.com/t5/community-announcements/update-on-archiving-idea-boards-and-forums/td-p/13276594)
 * [2025-01-24, 00:46:55](https://news.ycombinator.com/item?id=42809518) - [Show HN: A new native app for 20 year old OS X](https://uppercut.chadbibler.com)
 * [2025-01-23, 21:38:27](https://news.ycombinator.com/item?id=42808355) - [Using the most unhinged AVX-512 instruction to make fastest phrase search algo](https://gab-menezes.github.io/2025/01/13/using-the-most-unhinged-avx-512-instruction-to-make-the-fastest-phrase-search-algo.html)
