@@ -36,6 +36,7 @@
 * [2025-01-24, 15:59:23](https://news.ycombinator.com/item?id=42814373) - [Cloud Virtualization: Red Hat, AWS Firecracker, and Ubicloud internals](https://www.ubicloud.com/blog/cloud-virtualization-red-hat-aws-firecracker-and-ubicloud-internals)
 * [2025-01-24, 15:50:23](https://news.ycombinator.com/item?id=42814275) - [New Book-Sorting Algorithm Almost Reaches Perfection](https://www.quantamagazine.org/new-book-sorting-algorithm-almost-reaches-perfection-20250124/)
 * [2025-01-24, 15:37:07](https://news.ycombinator.com/item?id=42814110) - [Show HN: Cs16.css – CSS library based on CS 1.6 UI](https://cs16.samke.me)
+* [2025-01-24, 15:05:11](https://news.ycombinator.com/item?id=42813683) - [Wikenigma – An Encyclopedia of Unknowns](https://wikenigma.org.uk/)
 * [2025-01-24, 14:51:33](https://news.ycombinator.com/item?id=42813513) - [How I Use Home Assistant in 2025](https://vpetersson.com/2025/01/22/how-i-use-home-assistant-in-2025.html)
 * [2025-01-24, 14:27:47](https://news.ycombinator.com/item?id=42813316) - [Bluesky's science takeover: 70% of Nature poll respondents use platform](https://www.nature.com/articles/d41586-025-00177-1)
 * [2025-01-24, 14:21:59](https://news.ycombinator.com/item?id=42813264) - [Threlte 8](https://threlte.xyz/blog/threlte-8)
