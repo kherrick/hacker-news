@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-27](index.md)
 
+* [2025-01-27, 17:42:36](https://news.ycombinator.com/item?id=42843623) - [The Taylorator – All Your Frequencies Are Belong to Us](https://www.scd31.com/posts/taylorator)
 * [2025-01-27, 17:27:57](https://news.ycombinator.com/item?id=42843475) - [Distrowatch.com Facebook Ban](https://distrowatch.com/weekly.php?issue=20250127#sitenews)
 * [2025-01-27, 17:15:48](https://news.ycombinator.com/item?id=42843335) - [The Curious Case of Quentell](https://blog.startifact.com/posts/the-curious-case-of-quentell/)
 * [2025-01-27, 17:09:20](https://news.ycombinator.com/item?id=42843252) - [Non-random uniform disk sampling](https://victorpoughon.fr/non-random-uniform-disk-sampling/)
