@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-27](index.md)
 
+* [2025-01-27, 20:03:22](https://news.ycombinator.com/item?id=42845017) - [Google has open-sourced the Pebble smartwatch operating system](https://rebble.io/2025/01/27/the-future-of-rebble.html)
+* [2025-01-27, 19:21:55](https://news.ycombinator.com/item?id=42844619) - [The Alpha Myth: How Captive Wolves Led Us Astray](https://anthonydavidadams.substack.com/p/the-alpha-myth-how-captive-wolves)
 * [2025-01-27, 18:16:23](https://news.ycombinator.com/item?id=42843989) - [Using the Rust standard library with the NuttX RTOS](https://lupyuen.org/articles/rust7.html)
 * [2025-01-27, 18:00:40](https://news.ycombinator.com/item?id=42843826) - [Current recycling innovations to utilize e-waste in green metal manufacturing](https://royalsocietypublishing.org/doi/10.1098/rsta.2023.0239)
 * [2025-01-27, 17:59:49](https://news.ycombinator.com/item?id=42843817) - [TBM 333: Lean Graph Theory](https://cutlefish.substack.com/p/tbm-333-lean-graph-theory)
@@ -23,6 +25,7 @@
 * [2025-01-27, 14:24:05](https://news.ycombinator.com/item?id=42841409) - [The Ocean Teems with Networks of Interconnected Bacteria](https://www.quantamagazine.org/the-ocean-teems-with-networks-of-interconnected-bacteria-20250106/)
 * [2025-01-27, 12:44:39](https://news.ycombinator.com/item?id=42840548) - [My failed attempt to shrink all NPM packages by 5%](https://evanhahn.com/my-failed-attempt-to-shrink-all-npm-packages-by-5-percent/)
 * [2025-01-27, 12:18:35](https://news.ycombinator.com/item?id=42840352) - [Oliver Heaviside and the theory of transmission lines](https://www.pa3fwm.nl/technotes/tn28-heaviside-transmission-lines.html)
+* [2025-01-27, 12:12:47](https://news.ycombinator.com/item?id=42840303) - [Solving complex billable metrics with custom SQL expressions in Lago](https://www.getlago.com/blog/custom-expressions-billing)
 * [2025-01-27, 10:57:44](https://news.ycombinator.com/item?id=42839650) - [Nvidia, ASML Plunge as DeepSeek Triggers Tech Stock Selloff](https://finance.yahoo.com/news/asml-sinks-china-ai-startup-081823609.html)
 * [2025-01-27, 10:32:36](https://news.ycombinator.com/item?id=42839502) - [Facebook ban on discussing Linux?](https://distrowatch.com/weekly-mobile.php?issue=20250127#sitenews)
 * [2025-01-27, 10:32:35](https://news.ycombinator.com/item?id=42839501) - [SiFive's P550 Microarchitecture – By Chester Lam](https://chipsandcheese.com/p/inside-sifives-p550-microarchitecture)
