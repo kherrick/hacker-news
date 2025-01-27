@@ -8,6 +8,7 @@
 * [2025-01-24, 23:21:25](https://news.ycombinator.com/item?id=42817910) - ['Never seen anything like this' – NIH meetings and travel halted abruptly](https://www.nature.com/articles/d41586-025-00231-y)
 * [2025-01-24, 23:04:13](https://news.ycombinator.com/item?id=42817802) - [Vic-20 Elite](https://vic20elite.wordpress.com/)
 * [2025-01-24, 22:55:47](https://news.ycombinator.com/item?id=42817738) - [Wikipedia 'Arbitrators' Tearfully Sanction Pro-Hamas Editors](https://thewikipediaflood.blogspot.com/2025/01/wikipedia-arbitrators-tearfully.html)
+* [2025-01-24, 22:51:23](https://news.ycombinator.com/item?id=42817713) - [GenAI Art Is the Least Imaginative Use of AI Imaginable](https://medium.com/artful-design/genai-art-is-the-least-imaginative-use-of-ai-imaginable-eb071671a9c9)
 * [2025-01-24, 22:29:57](https://news.ycombinator.com/item?id=42817554) - [Ask HN: How to automate collecting HAR file while user is browsing](https://news.ycombinator.com/item?id=42817554)
 * [2025-01-24, 22:24:08](https://news.ycombinator.com/item?id=42817514) - [Nuclear Proliferation and the \"Nth Country Experiment\"](https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2025-01-23/nuclear-proliferation-and-nth-country-experiment)
 * [2025-01-24, 22:15:32](https://news.ycombinator.com/item?id=42817439) - [Show HN: Lightpanda, an open-source headless browser in Zig](https://github.com/lightpanda-io/browser)
