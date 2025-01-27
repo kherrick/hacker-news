@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-27](index.md)
 
+* [2025-01-27, 20:55:58](https://news.ycombinator.com/item?id=42845526) - [Hackers are targeting machine identities;Token Security raised $20M to stop them](https://techcrunch.com/2025/01/27/hackers-are-targeting-machine-identities-token-security-just-raised-20m-to-stop-them/)
+* [2025-01-27, 20:33:43](https://news.ycombinator.com/item?id=42845323) - [Go 1.24's go tool is one of the best additions to the ecosystem in years](https://www.jvt.me/posts/2025/01/27/go-tools-124/)
 * [2025-01-27, 20:11:19](https://news.ycombinator.com/item?id=42845091) - [We're bringing Pebble back](https://repebble.com/)
 * [2025-01-27, 20:09:09](https://news.ycombinator.com/item?id=42845070) - [Pebble smartwatch firmware released as open-source](https://opensource.googleblog.com/2025/01/see-code-that-powered-pebble-smartwatches.html)
 * [2025-01-27, 20:03:22](https://news.ycombinator.com/item?id=42845017) - [Google has open-sourced the Pebble smartwatch operating system](https://rebble.io/2025/01/27/the-future-of-rebble.html)
