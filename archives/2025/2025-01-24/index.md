@@ -74,6 +74,7 @@
 * [2025-01-24, 07:40:17](https://news.ycombinator.com/item?id=42811269) - [Tele-present wind – David Bowen](https://www.dwbowen.com/telepresent-wind)
 * [2025-01-24, 06:03:42](https://news.ycombinator.com/item?id=42810865) - [Modular PC Design: Sustainable Approach Enhanced Repairability Reduced E-Waste](https://community.intel.com/t5/Blogs/Tech-Innovation/Client/Modular-PC-Design-A-Sustainable-Approach-for-Enhanced/post/1657681)
 * [2025-01-24, 05:21:44](https://news.ycombinator.com/item?id=42810737) - [New Electrical Code Could Doom Most Common EV Charging](https://www.motortrend.com/news/national-electric-code-revision-threatens-ev-charging/)
+* [2025-01-24, 05:16:04](https://news.ycombinator.com/item?id=42810724) - [Ask HN: Anyone want models snail-mailed to them?](https://news.ycombinator.com/item?id=42810724)
 * [2025-01-24, 04:54:21](https://news.ycombinator.com/item?id=42810646) - [New Rust Jobs Site](https://www.RustDevFindJob.com)
 * [2025-01-24, 03:46:19](https://news.ycombinator.com/item?id=42810300) - [UI is hell: four-function calculators](https://lcamtuf.substack.com/p/ui-is-hell-four-function-calculators)
 * [2025-01-24, 03:46:02](https://news.ycombinator.com/item?id=42810293) - [How far can you get in 40 minutes from each subway station in NYC?](https://subwaysheds.com/#11.27/40.7427/-73.9869)
