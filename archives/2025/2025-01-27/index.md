@@ -12,6 +12,7 @@
 * [2025-01-27, 09:53:17](https://news.ycombinator.com/item?id=42839253) - [Free Web Hosting Area](https://www.freewebhostingarea.com/)
 * [2025-01-27, 08:52:46](https://news.ycombinator.com/item?id=42838855) - [One in four 2020 Tesla Model 3 failed the Danish periodic inspection in 2024](https://fdm.dk/nyheder/bilist/2025-01-populaer-tesla-model-dumper-med-et-brag-til-syn)
 * [2025-01-27, 08:38:24](https://news.ycombinator.com/item?id=42838779) - [Announcing support for DeepSeek-R1 in our IDE plugin, self-hosted by Qodo](https://www.qodo.ai/blog/qodo-gen-adds-self-hosted-support-for-deepseek-r1/)
+* [2025-01-27, 08:36:19](https://news.ycombinator.com/item?id=42838774) - [Microplastics block blood flow in the brain, mouse study reveals](https://www.nature.com/articles/d41586-025-00178-0)
 * [2025-01-27, 08:25:26](https://news.ycombinator.com/item?id=42838720) - [Tim Cook Is Failing Us](https://joe-steel.com/2025-01-25-Tim-Cook-Is-Failing-Us.html)
 * [2025-01-27, 08:22:41](https://news.ycombinator.com/item?id=42838700) - [Once You're Laid Off, You'll Never Be the Same Again](https://mertbulan.com/2025/01/26/once-you-are-laid-off-you-will-never-be-the-same-again/)
 * [2025-01-27, 07:32:43](https://news.ycombinator.com/item?id=42838355) - [Show HN: Making AR experiences is still painful – had to make my own editor](https://ordinary.space/)
