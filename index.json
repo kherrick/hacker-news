@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-27, 15:42:02",
+      "https://news.ycombinator.com/item?id=42842270"
+    ],
+    [
+      "Bilinear down/upsampling, aligning pixel grids, and that infamous GPU half pixel (2021)",
+      "https://bartwronski.com/2021/02/15/bilinear-down-upsampling-pixel-grids-and-that-half-pixel-offset/"
+    ]
+  ],
+  [
+    [
+      "2025-01-27, 15:29:54",
+      "https://news.ycombinator.com/item?id=42842123"
+    ],
+    [
+      "Show HN: I Created ErisForge, a Python Library for Abliteration of LLMs",
+      "https://github.com/Tsadoq/ErisForge"
+    ]
+  ],
+  [
+    [
       "2025-01-27, 12:44:39",
       "https://news.ycombinator.com/item?id=42840548"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-01-26, 16:33:51",
-      "https://news.ycombinator.com/item?id=42831281"
-    ],
-    [
-      "The Microsoft 365 Copilot launch was a disaster",
-      "https://www.zdnet.com/home-and-office/work-life/the-microsoft-365-copilot-launch-was-a-total-disaster/"
-    ]
-  ],
-  [
-    [
       "2025-01-26, 14:05:15",
       "https://news.ycombinator.com/item?id=42830155"
     ],
@@ -181,32 +191,12 @@
   ],
   [
     [
-      "2025-01-26, 11:04:16",
-      "https://news.ycombinator.com/item?id=42829317"
-    ],
-    [
-      "The protester's guide to smartphone security",
-      "https://www.privacyguides.org/articles/2025/01/23/activists-guide-securing-your-smartphone/"
-    ]
-  ],
-  [
-    [
       "2025-01-26, 08:57:51",
       "https://news.ycombinator.com/item?id=42828833"
     ],
     [
       "Show HN: Bagels – TUI expense tracker",
       "https://github.com/EnhancedJax/Bagels"
-    ]
-  ],
-  [
-    [
-      "2025-01-25, 18:39:49",
-      "https://news.ycombinator.com/item?id=42823568"
-    ],
-    [
-      "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL",
-      "https://arxiv.org/abs/2501.12948"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Autodesk partially restores old forum posts",
       "https://forums.autodesk.com/t5/community-announcements/update-on-archiving-idea-boards-and-forums/td-p/13276594"
+    ]
+  ],
+  [
+    [
+      "2025-01-24, 17:38:11",
+      "https://news.ycombinator.com/item?id=42815454"
+    ],
+    [
+      "Peanut Butter Day: Going Nuts over NIST's Standard Reference Peanut Butter",
+      "https://www.nist.gov/blogs/taking-measure/going-nuts-over-nists-standard-reference-peanut-butter"
     ]
   ],
   [
