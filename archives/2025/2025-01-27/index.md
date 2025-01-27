@@ -12,6 +12,7 @@
 * [2025-01-27, 17:15:48](https://news.ycombinator.com/item?id=42843335) - [The Curious Case of Quentell](https://blog.startifact.com/posts/the-curious-case-of-quentell/)
 * [2025-01-27, 17:09:20](https://news.ycombinator.com/item?id=42843252) - [Non-random uniform disk sampling](https://victorpoughon.fr/non-random-uniform-disk-sampling/)
 * [2025-01-27, 16:57:45](https://news.ycombinator.com/item?id=42843131) - [DeepSeek releases Janus Pro, a text-to-image generator [pdf]](https://github.com/deepseek-ai/Janus/blob/main/janus_pro_tech_report.pdf)
+* [2025-01-27, 16:54:42](https://news.ycombinator.com/item?id=42843092) - [Show HN: ProductHunt for Blog Posts](https://blogdrop.io/)
 * [2025-01-27, 16:25:27](https://news.ycombinator.com/item?id=42842760) - [Janus-Pro: Autoregressive framework unifying multimodal understanding&generation](https://huggingface.co/deepseek-ai/Janus-Pro-7B)
 * [2025-01-27, 15:42:02](https://news.ycombinator.com/item?id=42842270) - [Bilinear down/upsampling, aligning pixel grids, and that infamous GPU half pixel (2021)](https://bartwronski.com/2021/02/15/bilinear-down-upsampling-pixel-grids-and-that-half-pixel-offset/)
 * [2025-01-27, 15:41:12](https://news.ycombinator.com/item?id=42842257) - [Operation Leg: When the RAF airdropped a prosthetic leg into a German POW castle](https://www.rafbf.org/news-and-stories/raf-history/operation-leg-pilot-unlike-any-other)
