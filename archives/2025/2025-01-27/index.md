@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-27](index.md)
 
+* [2025-01-27, 04:34:40](https://news.ycombinator.com/item?id=42837462) - [If OpenSSL Were a GUI](https://smallstep.com/blog/if-openssl-were-a-gui/)
 * [2025-01-27, 03:41:52](https://news.ycombinator.com/item?id=42837181) - [Interview with Andy Yen, CEO of Proton VPN](https://www.compiler.news/proton-vpn-venezuela-russia/)
 * [2025-01-27, 03:39:38](https://news.ycombinator.com/item?id=42837173) - [US restricts Switzerland's access to AI chips](https://www.swissinfo.ch/eng/multinational-companies/us-restricts-switzerlands-access-to-ai-chips/88781270)
 * [2025-01-27, 03:07:27](https://news.ycombinator.com/item?id=42836981) - [Making a live-mode test payment to yourself = a payment processor ToS violation?](https://news.ycombinator.com/item?id=42836981)
