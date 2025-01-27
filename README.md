@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-27, 20:11:19](https://news.ycombinator.com/item?id=42845091) - [We're bringing Pebble back](https://repebble.com/)
-* [2025-01-27, 20:09:09](https://news.ycombinator.com/item?id=42845070) - [Pebble smartwatch firmware released as open-source](https://opensource.googleblog.com/2025/01/see-code-that-powered-pebble-smartwatches.html)
-* [2025-01-27, 20:03:22](https://news.ycombinator.com/item?id=42845017) - [Google has open-sourced the Pebble smartwatch operating system](https://rebble.io/2025/01/27/the-future-of-rebble.html)
+* [2025-01-27, 20:09:09](https://news.ycombinator.com/item?id=42845070) - [Google open-sources the Pebble OS](https://opensource.googleblog.com/2025/01/see-code-that-powered-pebble-smartwatches.html)
+* [2025-01-27, 20:03:22](https://news.ycombinator.com/item?id=42845017) - [The future of Rebble](https://rebble.io/2025/01/27/the-future-of-rebble.html)
 * [2025-01-27, 19:21:55](https://news.ycombinator.com/item?id=42844619) - [The Alpha Myth: How Captive Wolves Led Us Astray](https://anthonydavidadams.substack.com/p/the-alpha-myth-how-captive-wolves)
 * [2025-01-27, 18:16:23](https://news.ycombinator.com/item?id=42843989) - [Using the Rust standard library with the NuttX RTOS](https://lupyuen.org/articles/rust7.html)
 * [2025-01-27, 17:59:49](https://news.ycombinator.com/item?id=42843817) - [TBM 333: Lean Graph Theory](https://cutlefish.substack.com/p/tbm-333-lean-graph-theory)
