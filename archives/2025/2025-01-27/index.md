@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-27](index.md)
 
 * [2025-01-27, 05:11:07](https://news.ycombinator.com/item?id=42837636) - [Hedy: Textual Programming Made Easy](https://www.hedy.org/)
+* [2025-01-27, 04:40:45](https://news.ycombinator.com/item?id=42837489) - [US blocking Swiss access to AI chips](https://www.bluewin.ch/en/news/usa-restricts-swiss-access-to-ai-computer-chips-2535516.html)
 * [2025-01-27, 04:34:40](https://news.ycombinator.com/item?id=42837462) - [If OpenSSL Were a GUI](https://smallstep.com/blog/if-openssl-were-a-gui/)
 * [2025-01-27, 04:28:00](https://news.ycombinator.com/item?id=42837423) - [Calif.-founded EV maker Canoo, once worth $2.4B, goes belly-up](https://www.sfgate.com/tech/article/canoo-ev-maker-goes-bankrupt-20054204.php)
 * [2025-01-27, 03:41:52](https://news.ycombinator.com/item?id=42837181) - [Interview with Andy Yen, CEO of Proton VPN](https://www.compiler.news/proton-vpn-venezuela-russia/)

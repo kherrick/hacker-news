@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-27, 05:11:07](https://news.ycombinator.com/item?id=42837636) - [Hedy: Textual Programming Made Easy](https://www.hedy.org/)
+* [2025-01-27, 04:40:45](https://news.ycombinator.com/item?id=42837489) - [US blocking Swiss access to AI chips](https://www.bluewin.ch/en/news/usa-restricts-swiss-access-to-ai-computer-chips-2535516.html)
 * [2025-01-27, 04:34:40](https://news.ycombinator.com/item?id=42837462) - [If OpenSSL were a GUI (2022)](https://smallstep.com/blog/if-openssl-were-a-gui/)
 * [2025-01-27, 04:28:00](https://news.ycombinator.com/item?id=42837423) - [EV maker Canoo, once worth $2.4B, files for bankruptcy](https://www.sfgate.com/tech/article/canoo-ev-maker-goes-bankrupt-20054204.php)
 * [2025-01-27, 03:41:52](https://news.ycombinator.com/item?id=42837181) - [Interview with Andy Yen, CEO of Proton VPN](https://www.compiler.news/proton-vpn-venezuela-russia/)
@@ -17,7 +18,6 @@
 * [2025-01-26, 17:40:11](https://news.ycombinator.com/item?id=42831927) - [OpenJazz is a free, open-source version of the classic Jazz Jackrabbit games](https://alister.eu/jazz/oj/about.php)
 * [2025-01-26, 17:24:15](https://news.ycombinator.com/item?id=42831769) - [Qwen2.5-1M: Deploy your own Qwen with context length up to 1M tokens](https://qwenlm.github.io/blog/qwen2.5-1m/)
 * [2025-01-26, 16:57:52](https://news.ycombinator.com/item?id=42831509) - [Hard numbers in the Wayland vs. X11 input latency discussion](https://mort.coffee/home/wayland-input-latency/)
-* [2025-01-26, 16:33:51](https://news.ycombinator.com/item?id=42831281) - [The Microsoft 365 Copilot launch was a disaster](https://www.zdnet.com/home-and-office/work-life/the-microsoft-365-copilot-launch-was-a-total-disaster/)
 * [2025-01-26, 14:05:15](https://news.ycombinator.com/item?id=42830155) - [No one is disrupting banks – at least not the big ones](https://www.popularfintech.com/p/no-one-is-disrupting-banks)
 * [2025-01-26, 11:04:16](https://news.ycombinator.com/item?id=42829317) - [The protester's guide to smartphone security](https://www.privacyguides.org/articles/2025/01/23/activists-guide-securing-your-smartphone/)
 * [2025-01-26, 08:57:51](https://news.ycombinator.com/item?id=42828833) - [Show HN: Bagels – TUI expense tracker](https://github.com/EnhancedJax/Bagels)
