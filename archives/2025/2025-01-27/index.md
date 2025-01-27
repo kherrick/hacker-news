@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-27](index.md)
 
+* [2025-01-27, 08:52:46](https://news.ycombinator.com/item?id=42838855) - [One in four 2020 Tesla Model 3 failed the Danish periodic inspection in 2024](https://fdm.dk/nyheder/bilist/2025-01-populaer-tesla-model-dumper-med-et-brag-til-syn)
+* [2025-01-27, 08:22:41](https://news.ycombinator.com/item?id=42838700) - [Once You're Laid Off, You'll Never Be the Same Again](https://mertbulan.com/2025/01/26/once-you-are-laid-off-you-will-never-be-the-same-again/)
 * [2025-01-27, 07:32:43](https://news.ycombinator.com/item?id=42838355) - [Show HN: Making AR experiences is still painful – had to make my own editor](https://ordinary.space/)
 * [2025-01-27, 05:11:07](https://news.ycombinator.com/item?id=42837636) - [Hedy: Textual Programming Made Easy](https://www.hedy.org/)
 * [2025-01-27, 04:40:45](https://news.ycombinator.com/item?id=42837489) - [US blocking Swiss access to AI chips](https://www.bluewin.ch/en/news/usa-restricts-swiss-access-to-ai-computer-chips-2535516.html)
