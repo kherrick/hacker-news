@@ -10,6 +10,7 @@
 * [2025-01-27, 10:32:35](https://news.ycombinator.com/item?id=42839501) - [SiFive's P550 Microarchitecture – By Chester Lam](https://chipsandcheese.com/p/inside-sifives-p550-microarchitecture)
 * [2025-01-27, 10:05:43](https://news.ycombinator.com/item?id=42839348) - [Sweden Seizes Ship Suspected of Baltic Sea 'Sabotage'](https://www.barrons.com/news/sweden-says-has-seized-ship-suspected-of-baltic-sea-sabotage-13ff82f2)
 * [2025-01-27, 09:53:17](https://news.ycombinator.com/item?id=42839253) - [Free Web Hosting Area](https://www.freewebhostingarea.com/)
+* [2025-01-27, 08:56:16](https://news.ycombinator.com/item?id=42838875) - [Show HN: I Made an iOS Podcast Player with Racket](https://defn.io/2024/11/16/podcatcher/)
 * [2025-01-27, 08:52:46](https://news.ycombinator.com/item?id=42838855) - [One in four 2020 Tesla Model 3 failed the Danish periodic inspection in 2024](https://fdm.dk/nyheder/bilist/2025-01-populaer-tesla-model-dumper-med-et-brag-til-syn)
 * [2025-01-27, 08:38:24](https://news.ycombinator.com/item?id=42838779) - [Announcing support for DeepSeek-R1 in our IDE plugin, self-hosted by Qodo](https://www.qodo.ai/blog/qodo-gen-adds-self-hosted-support-for-deepseek-r1/)
 * [2025-01-27, 08:36:19](https://news.ycombinator.com/item?id=42838774) - [Microplastics block blood flow in the brain, mouse study reveals](https://www.nature.com/articles/d41586-025-00178-0)
