@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-27, 23:12:58](https://news.ycombinator.com/item?id=42846912) - [CDC ordered to stop working with WHO immediately](https://apnews.com/article/cdc-who-trump-548cf18b1c409c7d22e17311ccdfe1f6)
 * [2025-01-27, 22:54:31](https://news.ycombinator.com/item?id=42846734) - [Big brother becomes little brother](https://www.kenklippenstein.com/p/big-brother-becomes-little-brother)
 * [2025-01-27, 21:37:59](https://news.ycombinator.com/item?id=42845933) - [I trusted an LLM, now I'm on day 4 of an afternoon project](https://nemo.foo/blog/day-4-of-an-afternoon-project)
 * [2025-01-27, 21:13:10](https://news.ycombinator.com/item?id=42845681) - [Nvidia sheds almost $600B in market cap, biggest one-day loss in US history](https://www.cnbc.com/2025/01/27/nvidia-sheds-almost-600-billion-in-market-cap-biggest-drop-ever.html)
@@ -29,6 +28,7 @@
 * [2025-01-25, 15:30:25](https://news.ycombinator.com/item?id=42822162) - [The impact of competition and DeepSeek on Nvidia](https://youtubetranscriptoptimizer.com/blog/05_the_short_case_for_nvda)
 * [2025-01-24, 17:38:11](https://news.ycombinator.com/item?id=42815454) - [Peanut Butter Day: Going Nuts over NIST's Standard Reference Peanut Butter (2016)](https://www.nist.gov/blogs/taking-measure/going-nuts-over-nists-standard-reference-peanut-butter)
 * [2025-01-24, 11:29:28](https://news.ycombinator.com/item?id=42812157) - [Dragonsweeper — A minesweeper game that requires observation](https://danielben.itch.io/dragonsweeper)
+* [2025-01-24, 07:10:25](https://news.ycombinator.com/item?id=42811146) - [Slack Overflow](https://blog.railway.com/p/slack-overflow)
 * [2025-01-23, 19:49:59](https://news.ycombinator.com/item?id=42807387) - [A Faster Quantum Fourier Transform](https://arxiv.org/abs/2501.12414)
 
 ## [Archives](archives/index.md)

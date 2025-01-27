@@ -73,6 +73,7 @@
 * [2025-01-24, 08:19:52](https://news.ycombinator.com/item?id=42811435) - [Eki Bright – The Case for DIY Routing](https://twocentstudios.com/2025/01/24/eki-bright-the-case-for-diy-routing/)
 * [2025-01-24, 07:55:01](https://news.ycombinator.com/item?id=42811332) - [Amazon UK to stop selling Bloomsbury's books](https://www.thebookseller.com/news/amazon-uk-to-stop-selling-bloomsburys-books)
 * [2025-01-24, 07:40:17](https://news.ycombinator.com/item?id=42811269) - [Tele-present wind – David Bowen](https://www.dwbowen.com/telepresent-wind)
+* [2025-01-24, 07:10:25](https://news.ycombinator.com/item?id=42811146) - [Slack Overflow](https://blog.railway.com/p/slack-overflow)
 * [2025-01-24, 06:03:42](https://news.ycombinator.com/item?id=42810865) - [Modular PC Design: Sustainable Approach Enhanced Repairability Reduced E-Waste](https://community.intel.com/t5/Blogs/Tech-Innovation/Client/Modular-PC-Design-A-Sustainable-Approach-for-Enhanced/post/1657681)
 * [2025-01-24, 05:21:44](https://news.ycombinator.com/item?id=42810737) - [New Electrical Code Could Doom Most Common EV Charging](https://www.motortrend.com/news/national-electric-code-revision-threatens-ev-charging/)
 * [2025-01-24, 05:16:04](https://news.ycombinator.com/item?id=42810724) - [Ask HN: Anyone want models snail-mailed to them?](https://news.ycombinator.com/item?id=42810724)
