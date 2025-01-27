@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-27, 10:05:43](https://news.ycombinator.com/item?id=42839348) - [Sweden Seizes Ship Suspected of Baltic Sea 'Sabotage'](https://www.barrons.com/news/sweden-says-has-seized-ship-suspected-of-baltic-sea-sabotage-13ff82f2)
 * [2025-01-27, 08:52:46](https://news.ycombinator.com/item?id=42838855) - [One in four 2020 Tesla Model 3 failed the Danish periodic inspection in 2024](https://fdm.dk/nyheder/bilist/2025-01-populaer-tesla-model-dumper-med-et-brag-til-syn)
 * [2025-01-27, 08:22:41](https://news.ycombinator.com/item?id=42838700) - [Once You're Laid Off, You'll Never Be the Same Again](https://mertbulan.com/2025/01/26/once-you-are-laid-off-you-will-never-be-the-same-again/)
 * [2025-01-27, 07:32:43](https://news.ycombinator.com/item?id=42838355) - [Show HN: Making AR experiences is still painful – had to make my own editor](https://ordinary.space/)
@@ -10,7 +11,6 @@
 * [2025-01-26, 23:13:01](https://news.ycombinator.com/item?id=42835282) - [Lessons in creating family photos that people want to keep (2018)](https://estherschindler.medium.com/the-old-family-photos-project-lessons-in-creating-family-photos-that-people-want-to-keep-ea3909129943)
 * [2025-01-26, 23:03:10](https://news.ycombinator.com/item?id=42835183) - [Kansas tuberculosis outbreak is America's largest recorded since the 1950s](https://www.cjonline.com/story/news/politics/government/2025/01/24/kansas-tuberculosis-outbreak-is-largest-in-recorded-history-in-u-s/77881467007/)
 * [2025-01-26, 22:39:54](https://news.ycombinator.com/item?id=42834953) - [Hyperbound (YC S23) is hiring a Founding Account Executive in SF](https://www.ycombinator.com/companies/hyperbound/jobs/c3NkW7d-founding-full-cycle-account-executive-in-sf)
-* [2025-01-26, 22:03:39](https://news.ycombinator.com/item?id=42834648) - [Show HN: DeepSeek My User Agent](https://www.jasonthorsness.com/20)
 * [2025-01-26, 20:59:16](https://news.ycombinator.com/item?id=42834043) - [Astronomers delete asteroid because it turned out to be Tesla Roadster](https://www.astronomy.com/science/astronomers-just-deleted-an-asteroid-because-it-turned-out-to-be-elon-musks-tesla-roadster/)
 * [2025-01-26, 20:17:38](https://news.ycombinator.com/item?id=42833638) - [Amsterdam Compiler Kit for Cray X-MP](https://github.com/kej715/ack)
 * [2025-01-26, 17:40:11](https://news.ycombinator.com/item?id=42831927) - [OpenJazz is a free, open-source version of the classic Jazz Jackrabbit games](https://alister.eu/jazz/oj/about.php)
