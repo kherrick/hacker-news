@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-27, 23:12:58](https://news.ycombinator.com/item?id=42846912) - [CDC ordered to stop working with WHO immediately](https://apnews.com/article/cdc-who-trump-548cf18b1c409c7d22e17311ccdfe1f6)
 * [2025-01-27, 21:37:59](https://news.ycombinator.com/item?id=42845933) - [I trusted an LLM, now I'm on day 4 of an afternoon project](https://nemo.foo/blog/day-4-of-an-afternoon-project)
 * [2025-01-27, 21:13:10](https://news.ycombinator.com/item?id=42845681) - [Nvidia sheds almost $600B in market cap, biggest one-day loss in US history](https://www.cnbc.com/2025/01/27/nvidia-sheds-almost-600-billion-in-market-cap-biggest-drop-ever.html)
 * [2025-01-27, 20:33:43](https://news.ycombinator.com/item?id=42845323) - [Go 1.24's go tool is one of the best additions to the ecosystem in years](https://www.jvt.me/posts/2025/01/27/go-tools-124/)
@@ -8,7 +9,6 @@
 * [2025-01-27, 20:03:22](https://news.ycombinator.com/item?id=42845017) - [The future of Rebble](https://rebble.io/2025/01/27/the-future-of-rebble.html)
 * [2025-01-27, 19:21:55](https://news.ycombinator.com/item?id=42844619) - [The Alpha Myth: How captive wolves led us astray](https://anthonydavidadams.substack.com/p/the-alpha-myth-how-captive-wolves)
 * [2025-01-27, 18:16:23](https://news.ycombinator.com/item?id=42843989) - [Using the Rust standard library with the NuttX RTOS](https://lupyuen.org/articles/rust7.html)
-* [2025-01-27, 17:59:49](https://news.ycombinator.com/item?id=42843817) - [TBM 333: Lean Graph Theory](https://cutlefish.substack.com/p/tbm-333-lean-graph-theory)
 * [2025-01-27, 17:42:36](https://news.ycombinator.com/item?id=42843623) - [The Taylorator – All Your Frequencies Are Belong to Us](https://www.scd31.com/posts/taylorator)
 * [2025-01-27, 17:15:48](https://news.ycombinator.com/item?id=42843335) - [The Curious Case of Quentell](https://blog.startifact.com/posts/the-curious-case-of-quentell/)
 * [2025-01-27, 17:09:20](https://news.ycombinator.com/item?id=42843252) - [Non-random uniform disk sampling](https://victorpoughon.fr/non-random-uniform-disk-sampling/)

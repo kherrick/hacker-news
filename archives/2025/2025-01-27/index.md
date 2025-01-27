@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-27](index.md)
 
+* [2025-01-27, 23:12:58](https://news.ycombinator.com/item?id=42846912) - [CDC ordered to stop working with WHO immediately](https://apnews.com/article/cdc-who-trump-548cf18b1c409c7d22e17311ccdfe1f6)
 * [2025-01-27, 21:37:59](https://news.ycombinator.com/item?id=42845933) - [I trusted an LLM, now I'm on day 4 of an afternoon project](https://nemo.foo/blog/day-4-of-an-afternoon-project)
 * [2025-01-27, 21:13:10](https://news.ycombinator.com/item?id=42845681) - [Nvidia sheds almost $600B in market cap, biggest one-day loss in US history](https://www.cnbc.com/2025/01/27/nvidia-sheds-almost-600-billion-in-market-cap-biggest-drop-ever.html)
 * [2025-01-27, 20:55:58](https://news.ycombinator.com/item?id=42845526) - [Hackers are targeting machine identities;Token Security raised $20M to stop them](https://techcrunch.com/2025/01/27/hackers-are-targeting-machine-identities-token-security-just-raised-20m-to-stop-them/)
