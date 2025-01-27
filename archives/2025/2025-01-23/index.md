@@ -13,6 +13,7 @@
 * [2025-01-23, 21:01:47](https://news.ycombinator.com/item?id=42808027) - [C Is Not Suited to SIMD](http://blog.vmchale.com/article/notes-c-simd)
 * [2025-01-23, 20:36:11](https://news.ycombinator.com/item?id=42807805) - [Modern Polars – A side-by-side comparison of the Polars and Pandas libraries](https://kevinheavey.github.io/modern-polars/)
 * [2025-01-23, 20:19:59](https://news.ycombinator.com/item?id=42807653) - [Morse Code in Tubular Bells (2021)](https://madpsy.uk/link-between-the-soundtrack-of-the-exorcist-and-amateur-radio/)
+* [2025-01-23, 19:49:59](https://news.ycombinator.com/item?id=42807387) - [A Faster Quantum Fourier Transform](https://arxiv.org/abs/2501.12414)
 * [2025-01-23, 19:31:21](https://news.ycombinator.com/item?id=42807200) - [You should write \"without bugs\"](https://korshakov.com/posts/no-bugs)
 * [2025-01-23, 19:29:29](https://news.ycombinator.com/item?id=42807173) - [Citations on the Anthropic API](https://www.anthropic.com/news/introducing-citations-api)
 * [2025-01-23, 19:15:47](https://news.ycombinator.com/item?id=42807043) - [Finnish Wartime Photograph Archive (1939-1945)](http://sa-kuva.fi/neo?tem=webneoeng#)

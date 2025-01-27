@@ -21,7 +21,6 @@
 * [2025-01-27, 00:11:27](https://news.ycombinator.com/item?id=42835772) - [Openhaystack: Build 'AirTags' – track Bluetooth devices via Apple's network](https://github.com/seemoo-lab/openhaystack)
 * [2025-01-26, 23:13:01](https://news.ycombinator.com/item?id=42835282) - [Lessons in creating family photos that people want to keep (2018)](https://estherschindler.medium.com/the-old-family-photos-project-lessons-in-creating-family-photos-that-people-want-to-keep-ea3909129943)
 * [2025-01-26, 22:03:39](https://news.ycombinator.com/item?id=42834648) - [Show HN: DeepSeek My User Agent](https://www.jasonthorsness.com/20)
-* [2025-01-26, 17:24:15](https://news.ycombinator.com/item?id=42831769) - [Qwen2.5-1M: Deploy your own Qwen with context length up to 1M tokens](https://qwenlm.github.io/blog/qwen2.5-1m/)
 * [2025-01-26, 16:57:52](https://news.ycombinator.com/item?id=42831509) - [Hard numbers in the Wayland vs. X11 input latency discussion](https://mort.coffee/home/wayland-input-latency/)
 * [2025-01-26, 08:57:51](https://news.ycombinator.com/item?id=42828833) - [Show HN: Bagels – TUI expense tracker](https://github.com/EnhancedJax/Bagels)
 * [2025-01-25, 15:30:25](https://news.ycombinator.com/item?id=42822162) - [The impact of competition and DeepSeek on Nvidia](https://youtubetranscriptoptimizer.com/blog/05_the_short_case_for_nvda)
@@ -29,6 +28,7 @@
 * [2025-01-24, 13:57:46](https://news.ycombinator.com/item?id=42813058) - [Mineral Oil Cooled PC (2014)](https://www.pugetsystems.com/mineral-oil-pc/)
 * [2025-01-24, 10:59:19](https://news.ycombinator.com/item?id=42812029) - [Supercharge SQLite with Ruby Functions](https://blog.julik.nl/2025/01/supercharge-sqlite-with-ruby-functions)
 * [2025-01-24, 08:49:51](https://news.ycombinator.com/item?id=42811550) - [Null Byte on Steroids](https://medium.com/@0xold/null-byte-on-steroids-23f8104a25ec)
+* [2025-01-23, 19:49:59](https://news.ycombinator.com/item?id=42807387) - [A Faster Quantum Fourier Transform](https://arxiv.org/abs/2501.12414)
 * [2025-01-22, 23:29:21](https://news.ycombinator.com/item?id=42798649) - [Using generative AI as part of historical research: three case studies](https://resobscura.substack.com/p/the-leading-ai-models-are-now-very)
 
 ## [Archives](archives/index.md)
