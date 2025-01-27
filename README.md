@@ -24,7 +24,7 @@
 * [2025-01-27, 07:32:43](https://news.ycombinator.com/item?id=42838355) - [Show HN: Making AR experiences is still painful – had to make my own editor](https://ordinary.space/)
 * [2025-01-27, 05:11:07](https://news.ycombinator.com/item?id=42837636) - [Hedy: Textual programming made easy](https://www.hedy.org/)
 * [2025-01-27, 00:11:27](https://news.ycombinator.com/item?id=42835772) - [Openhaystack: Build 'AirTags' – track Bluetooth devices via Apple's network](https://github.com/seemoo-lab/openhaystack)
-* [2025-01-26, 23:13:01](https://news.ycombinator.com/item?id=42835282) - [Lessons in creating family photos that people want to keep (2018)](https://estherschindler.medium.com/the-old-family-photos-project-lessons-in-creating-family-photos-that-people-want-to-keep-ea3909129943)
+* [2025-01-26, 09:42:13](https://news.ycombinator.com/item?id=42829034) - [Using AI for Coding: My Journey with Cline and Large Language Models](https://pgaleone.eu/ai/coding/2025/01/26/using-ai-for-coding-my-experience/)
 * [2025-01-25, 15:30:25](https://news.ycombinator.com/item?id=42822162) - [The impact of competition and DeepSeek on Nvidia](https://youtubetranscriptoptimizer.com/blog/05_the_short_case_for_nvda)
 * [2025-01-24, 17:38:11](https://news.ycombinator.com/item?id=42815454) - [Peanut Butter Day: Going Nuts over NIST's Standard Reference Peanut Butter (2016)](https://www.nist.gov/blogs/taking-measure/going-nuts-over-nists-standard-reference-peanut-butter)
 * [2025-01-24, 13:57:46](https://news.ycombinator.com/item?id=42813058) - [Mineral Oil Cooled PC (2014)](https://www.pugetsystems.com/mineral-oil-pc/)
