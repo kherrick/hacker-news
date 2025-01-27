@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-27, 15:42:02](https://news.ycombinator.com/item?id=42842270) - [Bilinear down/upsampling, aligning pixel grids, and that infamous GPU half pixel (2021)](https://bartwronski.com/2021/02/15/bilinear-down-upsampling-pixel-grids-and-that-half-pixel-offset/)
+* [2025-01-27, 15:41:12](https://news.ycombinator.com/item?id=42842257) - [Operation Leg: When the RAF airdropped a prosthetic leg into a German POW castle](https://www.rafbf.org/news-and-stories/raf-history/operation-leg-pilot-unlike-any-other)
 * [2025-01-27, 15:29:54](https://news.ycombinator.com/item?id=42842123) - [Show HN: I Created ErisForge, a Python Library for Abliteration of LLMs](https://github.com/Tsadoq/ErisForge)
-* [2025-01-27, 15:17:48](https://news.ycombinator.com/item?id=42841981) - [Linux kernel could cut energy use in data centres by up to 30 per cent](https://cs.uwaterloo.ca/news/cheriton-school-computer-science-researchers-update-linux)
 * [2025-01-27, 12:44:39](https://news.ycombinator.com/item?id=42840548) - [My failed attempt to shrink all NPM packages by 5%](https://evanhahn.com/my-failed-attempt-to-shrink-all-npm-packages-by-5-percent/)
 * [2025-01-27, 12:18:35](https://news.ycombinator.com/item?id=42840352) - [Oliver Heaviside and the theory of transmission lines (2021)](https://www.pa3fwm.nl/technotes/tn28-heaviside-transmission-lines.html)
 * [2025-01-27, 10:32:35](https://news.ycombinator.com/item?id=42839501) - [SiFive's P550 Microarchitecture](https://chipsandcheese.com/p/inside-sifives-p550-microarchitecture)
@@ -22,7 +22,7 @@
 * [2025-01-26, 08:57:51](https://news.ycombinator.com/item?id=42828833) - [Show HN: Bagels – TUI expense tracker](https://github.com/EnhancedJax/Bagels)
 * [2025-01-25, 15:30:25](https://news.ycombinator.com/item?id=42822162) - [The impact of competition and DeepSeek on Nvidia](https://youtubetranscriptoptimizer.com/blog/05_the_short_case_for_nvda)
 * [2025-01-24, 23:44:50](https://news.ycombinator.com/item?id=42818047) - [Autodesk partially restores old forum posts](https://forums.autodesk.com/t5/community-announcements/update-on-archiving-idea-boards-and-forums/td-p/13276594)
-* [2025-01-24, 17:38:11](https://news.ycombinator.com/item?id=42815454) - [Peanut Butter Day: Going Nuts over NIST's Standard Reference Peanut Butter](https://www.nist.gov/blogs/taking-measure/going-nuts-over-nists-standard-reference-peanut-butter)
+* [2025-01-24, 17:38:11](https://news.ycombinator.com/item?id=42815454) - [Peanut Butter Day: Going Nuts over NIST's Standard Reference Peanut Butter (2016)](https://www.nist.gov/blogs/taking-measure/going-nuts-over-nists-standard-reference-peanut-butter)
 * [2025-01-24, 10:59:19](https://news.ycombinator.com/item?id=42812029) - [Supercharge SQLite with Ruby Functions](https://blog.julik.nl/2025/01/supercharge-sqlite-with-ruby-functions)
 * [2025-01-24, 00:46:55](https://news.ycombinator.com/item?id=42809518) - [Show HN: A new native app for 20 year old OS X](https://uppercut.chadbibler.com)
 * [2025-01-23, 21:38:27](https://news.ycombinator.com/item?id=42808355) - [Using the most unhinged AVX-512 instruction to make fastest phrase search algo](https://gab-menezes.github.io/2025/01/13/using-the-most-unhinged-avx-512-instruction-to-make-the-fastest-phrase-search-algo.html)
