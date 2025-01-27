@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-27, 03:07:27](https://news.ycombinator.com/item?id=42836981) - [Making a live-mode test payment to yourself = a payment processor ToS violation?](https://news.ycombinator.com/item?id=42836981)
+* [2025-01-27, 02:58:09](https://news.ycombinator.com/item?id=42836934) - [Show HN: Voice Cloning and Multilingual TTS in One Click (Windows)](https://github.com/abus-aikorea/voice-pro/blob/main/docs/README.eng.md)
 * [2025-01-27, 02:38:25](https://news.ycombinator.com/item?id=42836818) - [Purelymail: Cheap Email for Everyone](https://purelymail.com/)
 * [2025-01-27, 01:54:38](https://news.ycombinator.com/item?id=42836517) - [The Less People Know About AI, the More They Like It](https://theconversation.com/knowing-less-about-ai-makes-people-more-open-to-having-it-in-their-lives-new-research-247372)
 * [2025-01-27, 01:39:05](https://news.ycombinator.com/item?id=42836405) - [Marginalia – A search engine that prioritizes non-commercial content](https://marginalia-search.com/)
@@ -19,8 +21,6 @@
 * [2025-01-26, 16:33:51](https://news.ycombinator.com/item?id=42831281) - [The Microsoft 365 Copilot launch was a disaster](https://www.zdnet.com/home-and-office/work-life/the-microsoft-365-copilot-launch-was-a-total-disaster/)
 * [2025-01-26, 14:05:15](https://news.ycombinator.com/item?id=42830155) - [No one is disrupting banks – at least not the big ones](https://www.popularfintech.com/p/no-one-is-disrupting-banks)
 * [2025-01-26, 11:04:16](https://news.ycombinator.com/item?id=42829317) - [The protester's guide to smartphone security](https://www.privacyguides.org/articles/2025/01/23/activists-guide-securing-your-smartphone/)
-* [2025-01-26, 11:02:59](https://news.ycombinator.com/item?id=42829309) - [Show HN: Orange intelligence, an open source alternative to Apple Intelligence](https://github.com/sharingan-no-kakashi/orange-intelligence)
-* [2025-01-26, 06:37:12](https://news.ycombinator.com/item?id=42828198) - [YC Graveyard: 821 inactive Y Combinator startups](https://ycgraveyard.iamwillwang.com/)
 * [2025-01-26, 03:44:43](https://news.ycombinator.com/item?id=42827532) - [AI slop, suspicion, and writing back](https://benjamincongdon.me/blog/2025/01/25/AI-Slop-Suspicion-and-Writing-Back/)
 * [2025-01-24, 23:44:50](https://news.ycombinator.com/item?id=42818047) - [Autodesk partially restores old forum posts after outcry from the users](https://forums.autodesk.com/t5/community-announcements/update-on-archiving-idea-boards-and-forums/td-p/13276594)
 * [2025-01-24, 16:57:58](https://news.ycombinator.com/item?id=42815033) - [It's Called a Premortem–and It's the Most Productive Thing You'll Do All Year](https://www.wsj.com/arts-culture/books/new-years-resolutions-ron-shaich-cava-panera-c0fb7922)

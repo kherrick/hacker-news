@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-27](index.md)
 
+* [2025-01-27, 03:07:27](https://news.ycombinator.com/item?id=42836981) - [Making a live-mode test payment to yourself = a payment processor ToS violation?](https://news.ycombinator.com/item?id=42836981)
+* [2025-01-27, 02:58:09](https://news.ycombinator.com/item?id=42836934) - [Show HN: Voice Cloning and Multilingual TTS in One Click (Windows)](https://github.com/abus-aikorea/voice-pro/blob/main/docs/README.eng.md)
 * [2025-01-27, 02:38:25](https://news.ycombinator.com/item?id=42836818) - [Purelymail: Cheap Email for Everyone](https://purelymail.com/)
 * [2025-01-27, 02:19:02](https://news.ycombinator.com/item?id=42836675) - [The race for \"AI Supremacy\" is over – at least for now](https://garymarcus.substack.com/p/the-race-for-ai-supremacy-is-over)
 * [2025-01-27, 01:54:38](https://news.ycombinator.com/item?id=42836517) - [The Less People Know About AI, the More They Like It](https://theconversation.com/knowing-less-about-ai-makes-people-more-open-to-having-it-in-their-lives-new-research-247372)
