@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-24](index.md)
 
+* [2025-01-24, 23:44:50](https://news.ycombinator.com/item?id=42818047) - [Autodesk partially restores old forum posts after outcry from the users](https://forums.autodesk.com/t5/community-announcements/update-on-archiving-idea-boards-and-forums/td-p/13276594)
 * [2025-01-24, 23:21:25](https://news.ycombinator.com/item?id=42817910) - ['Never seen anything like this' – NIH meetings and travel halted abruptly](https://www.nature.com/articles/d41586-025-00231-y)
 * [2025-01-24, 23:04:13](https://news.ycombinator.com/item?id=42817802) - [Vic-20 Elite](https://vic20elite.wordpress.com/)
 * [2025-01-24, 22:55:47](https://news.ycombinator.com/item?id=42817738) - [Wikipedia 'Arbitrators' Tearfully Sanction Pro-Hamas Editors](https://thewikipediaflood.blogspot.com/2025/01/wikipedia-arbitrators-tearfully.html)
