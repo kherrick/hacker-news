@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2025-01-26, 20:17:38",
-      "https://news.ycombinator.com/item?id=42833638"
-    ],
-    [
-      "Amsterdam Compiler Kit for Cray X-MP",
-      "https://github.com/kej715/ack"
-    ]
-  ],
-  [
-    [
       "2025-01-26, 17:24:15",
       "https://news.ycombinator.com/item?id=42831769"
     ],
@@ -247,6 +237,16 @@
     [
       "Supercharge SQLite with Ruby Functions",
       "https://blog.julik.nl/2025/01/supercharge-sqlite-with-ruby-functions"
+    ]
+  ],
+  [
+    [
+      "2025-01-24, 08:49:51",
+      "https://news.ycombinator.com/item?id=42811550"
+    ],
+    [
+      "Null Byte on Steroids",
+      "https://medium.com/@0xold/null-byte-on-steroids-23f8104a25ec"
     ]
   ],
   [
