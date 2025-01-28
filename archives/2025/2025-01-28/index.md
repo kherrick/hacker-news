@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-28](index.md)
 
+* [2025-01-28, 14:20:12](https://news.ycombinator.com/item?id=42852563) - [Google Maps Will Rename Gulf of Mexico as Gulf of America in US](https://www.theguardian.com/technology/2025/jan/28/google-maps-will-rename-gulf-of-mexico-as-gulf-of-america-in-us)
+* [2025-01-28, 14:07:48](https://news.ycombinator.com/item?id=42852434) - [Introducing ChatGPT Gov](https://openai.com/global-affairs/introducing-chatgpt-gov/)
 * [2025-01-28, 14:04:21](https://news.ycombinator.com/item?id=42852400) - [Janus Pro 1B running 100% locally in-browser on WebGPU](https://old.reddit.com/r/LocalLLaMA/comments/1ibnso0/janus_pro_1b_running_100_locally_inbrowser_on/)
 * [2025-01-28, 14:00:43](https://news.ycombinator.com/item?id=42852368) - [Ask HN: To LinkedIn Am I Just Collateral Damage of a Barely Functioning System](https://news.ycombinator.com/item?id=42852368)
 * [2025-01-28, 13:53:32](https://news.ycombinator.com/item?id=42852286) - [Portal – sell your freelance services with style](https://useportal.net/)
