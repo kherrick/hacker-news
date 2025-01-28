@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-28, 15:23:28](https://news.ycombinator.com/item?id=42853362) - [DeepSeek censorship: 1984 \"rectifying\" in real time](https://old.reddit.com/r/OpenAI/comments/1ic3kl6/deepseek_censorship_1984_rectifying_in_real_time/)
+* [2025-01-28, 15:37:32](https://news.ycombinator.com/item?id=42853528) - [Maxima in the browser using Embedded Common Lisp on WASM](https://maxima-on-wasm.pages.dev/)
+* [2025-01-28, 15:26:14](https://news.ycombinator.com/item?id=42853396) - [Discussion: Reduce error handling boilerplate in Golang using '?'](https://github.com/golang/go/discussions/71460)
 * [2025-01-28, 14:44:06](https://news.ycombinator.com/item?id=42852866) - [DeepSeek: X2 Speed for WASM with SIMD](https://simonwillison.net/2025/Jan/27/llamacpp-pr/)
 * [2025-01-28, 14:07:48](https://news.ycombinator.com/item?id=42852434) - [Introducing ChatGPT Gov](https://openai.com/global-affairs/introducing-chatgpt-gov/)
 * [2025-01-28, 14:04:21](https://news.ycombinator.com/item?id=42852400) - [Janus Pro 1B running 100% locally in-browser on WebGPU](https://old.reddit.com/r/LocalLLaMA/comments/1ibnso0/janus_pro_1b_running_100_locally_inbrowser_on/)
@@ -21,7 +22,6 @@
 * [2025-01-27, 17:42:36](https://news.ycombinator.com/item?id=42843623) - [The Taylorator – All Your Frequencies Are Belong to Us](https://www.scd31.com/posts/taylorator)
 * [2025-01-27, 16:57:45](https://news.ycombinator.com/item?id=42843131) - [DeepSeek releases Janus Pro, a text-to-image generator [pdf]](https://github.com/deepseek-ai/Janus/blob/main/janus_pro_tech_report.pdf)
 * [2025-01-26, 18:51:31](https://news.ycombinator.com/item?id=42832742) - [Human corpses keep moving for over a year after death, scientist says (2019)](https://www.newsweek.com/human-corpse-year-burial-scientist-1459113)
-* [2025-01-26, 09:42:13](https://news.ycombinator.com/item?id=42829034) - [Using AI for Coding: My Journey with Cline and LLMs](https://pgaleone.eu/ai/coding/2025/01/26/using-ai-for-coding-my-experience/)
 * [2025-01-26, 08:32:08](https://news.ycombinator.com/item?id=42828720) - [Turning the database inside-out (2015)](https://martin.kleppmann.com/2015/11/05/database-inside-out-at-oredev.html)
 * [2025-01-26, 08:05:24](https://news.ycombinator.com/item?id=42828581) - [BrainFlood: Runtime code generation via reflection in .NET](https://sbox.game/churchofmiku/brainflood/news/brainflood-compiling-via-reflection-8089c180)
 * [2025-01-26, 07:36:04](https://news.ycombinator.com/item?id=42828459) - [Show HN: Browse Anime from the Terminal](https://github.com/Benexl/FastAnime)

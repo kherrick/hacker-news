@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-28](index.md)
 
+* [2025-01-28, 15:37:32](https://news.ycombinator.com/item?id=42853528) - [Maxima in the browser using Embedded Common Lisp on WASM](https://maxima-on-wasm.pages.dev/)
+* [2025-01-28, 15:26:14](https://news.ycombinator.com/item?id=42853396) - [Discussion: Reduce error handling boilerplate in Golang using '?'](https://github.com/golang/go/discussions/71460)
 * [2025-01-28, 15:23:28](https://news.ycombinator.com/item?id=42853362) - [DeepSeek censorship: 1984 \"rectifying\" in real time](https://old.reddit.com/r/OpenAI/comments/1ic3kl6/deepseek_censorship_1984_rectifying_in_real_time/)
 * [2025-01-28, 14:44:06](https://news.ycombinator.com/item?id=42852866) - [DeepSeek: X2 Speed for WASM with SIMD](https://simonwillison.net/2025/Jan/27/llamacpp-pr/)
 * [2025-01-28, 14:20:12](https://news.ycombinator.com/item?id=42852563) - [Google Maps Will Rename Gulf of Mexico as Gulf of America in US](https://www.theguardian.com/technology/2025/jan/28/google-maps-will-rename-gulf-of-mexico-as-gulf-of-america-in-us)
