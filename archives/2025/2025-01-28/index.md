@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-28](index.md)
 
+* [2025-01-28, 14:04:21](https://news.ycombinator.com/item?id=42852400) - [Janus Pro 1B running 100% locally in-browser on WebGPU](https://old.reddit.com/r/LocalLLaMA/comments/1ibnso0/janus_pro_1b_running_100_locally_inbrowser_on/)
+* [2025-01-28, 14:00:43](https://news.ycombinator.com/item?id=42852368) - [Ask HN: To LinkedIn Am I Just Collateral Damage of a Barely Functioning System](https://news.ycombinator.com/item?id=42852368)
 * [2025-01-28, 13:53:32](https://news.ycombinator.com/item?id=42852286) - [Portal – sell your freelance services with style](https://useportal.net/)
 * [2025-01-28, 13:50:40](https://news.ycombinator.com/item?id=42852256) - [Intel slashes prices of Xeon 6 CPUs by up to $5,340](https://www.tomshardware.com/pc-components/cpus/intel-quietly-slashes-prices-of-xeon-6-cpus-by-up-to-usd5-340)
 * [2025-01-28, 13:32:16](https://news.ycombinator.com/item?id=42852077) - [Boom Supersonic to break sound barrier during historic test flight today](https://www.space.com/space-exploration/tech/boom-supersonic-to-break-sound-barrier-during-historic-test-flight-today-watch-live)

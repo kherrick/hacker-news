@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-28, 14:04:21](https://news.ycombinator.com/item?id=42852400) - [Janus Pro 1B running 100% locally in-browser on WebGPU](https://old.reddit.com/r/LocalLLaMA/comments/1ibnso0/janus_pro_1b_running_100_locally_inbrowser_on/)
+* [2025-01-28, 14:00:43](https://news.ycombinator.com/item?id=42852368) - [Ask HN: To LinkedIn Am I Just Collateral Damage of a Barely Functioning System](https://news.ycombinator.com/item?id=42852368)
 * [2025-01-28, 13:32:16](https://news.ycombinator.com/item?id=42852077) - [Boom Supersonic to break sound barrier during historic test flight today](https://www.space.com/space-exploration/tech/boom-supersonic-to-break-sound-barrier-during-historic-test-flight-today-watch-live)
 * [2025-01-28, 13:04:05](https://news.ycombinator.com/item?id=42851839) - [HawkEye: A Simple license header checker and formatter in Rust](https://github.com/korandoru/hawkeye)
 * [2025-01-28, 12:20:44](https://news.ycombinator.com/item?id=42851519) - [Public Access OpenVMS System](https://decuserve.org/)
@@ -18,9 +20,7 @@
 * [2025-01-27, 16:57:45](https://news.ycombinator.com/item?id=42843131) - [DeepSeek releases Janus Pro, a text-to-image generator [pdf]](https://github.com/deepseek-ai/Janus/blob/main/janus_pro_tech_report.pdf)
 * [2025-01-27, 12:44:39](https://news.ycombinator.com/item?id=42840548) - [My failed attempt to shrink all NPM packages by 5%](https://evanhahn.com/my-failed-attempt-to-shrink-all-npm-packages-by-5-percent/)
 * [2025-01-27, 12:18:35](https://news.ycombinator.com/item?id=42840352) - [Oliver Heaviside and the theory of transmission lines (2021)](https://www.pa3fwm.nl/technotes/tn28-heaviside-transmission-lines.html)
-* [2025-01-27, 10:57:44](https://news.ycombinator.com/item?id=42839650) - [Nvidia’s $589B DeepSeek rout](https://finance.yahoo.com/news/asml-sinks-china-ai-startup-081823609.html)
 * [2025-01-27, 10:32:36](https://news.ycombinator.com/item?id=42839502) - [Facebook ban on discussing Linux?](https://distrowatch.com/weekly-mobile.php?issue=20250127#sitenews)
-* [2025-01-27, 08:56:16](https://news.ycombinator.com/item?id=42838875) - [Show HN: I Made an iOS Podcast Player with Racket](https://defn.io/2024/11/16/podcatcher/)
 * [2025-01-26, 18:51:31](https://news.ycombinator.com/item?id=42832742) - [Human corpses keep moving for over a year after death, scientist says (2019)](https://www.newsweek.com/human-corpse-year-burial-scientist-1459113)
 * [2025-01-26, 09:42:13](https://news.ycombinator.com/item?id=42829034) - [Using AI for Coding: My Journey with Cline and LLMs](https://pgaleone.eu/ai/coding/2025/01/26/using-ai-for-coding-my-experience/)
 * [2025-01-26, 08:32:08](https://news.ycombinator.com/item?id=42828720) - [Turning the database inside-out (2015)](https://martin.kleppmann.com/2015/11/05/database-inside-out-at-oredev.html)
