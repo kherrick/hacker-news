@@ -17,6 +17,7 @@
 * [2025-01-28, 19:24:41](https://news.ycombinator.com/item?id=42856752) - [Ask HN: Are YC startups *actually* hiring?](https://news.ycombinator.com/item?id=42856752)
 * [2025-01-28, 19:11:49](https://news.ycombinator.com/item?id=42856591) - [It is time to ban email](https://shkspr.mobi/blog/2025/01/it-is-time-to-ban-email/)
 * [2025-01-28, 18:53:42](https://news.ycombinator.com/item?id=42856338) - [UV Tricks](https://www.bitecode.dev/p/uv-tricks)
+* [2025-01-28, 18:48:42](https://news.ycombinator.com/item?id=42856262) - [Windows 7 boots slower if you set a solid background color](https://support.microsoft.com/en-gb/topic/the-welcome-screen-may-be-displayed-for-30-seconds-during-the-logon-process-after-you-set-a-solid-color-as-the-desktop-background-in-windows-7-or-in-windows-server-2008-r2-b4565ced-703a-cc85-bf9c-6b3d586d6421)
 * [2025-01-28, 18:45:50](https://news.ycombinator.com/item?id=42856220) - [POTUS Tracker – Executive Orders, Presidential Schedule, Signed Legislation](https://potustracker.us/)
 * [2025-01-28, 18:42:31](https://news.ycombinator.com/item?id=42856176) - [LinkedIn LinkedIn Removes Accounts of AI 'Co-Workers' Looking for Jobs](https://www.404media.co/linkedin-ai-coworkers-marketeam-open-to-work/)
 * [2025-01-28, 18:31:34](https://news.ycombinator.com/item?id=42856023) - [New Speculative Attacks on Apple CPUs](https://predictors.fail/)
