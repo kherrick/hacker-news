@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2025-01-27, 15:42:02",
-      "https://news.ycombinator.com/item?id=42842270"
-    ],
-    [
-      "Bilinear down/upsampling, aligning pixel grids, and that infamous GPU half pixel (2021)",
-      "https://bartwronski.com/2021/02/15/bilinear-down-upsampling-pixel-grids-and-that-half-pixel-offset/"
-    ]
-  ],
-  [
-    [
       "2025-01-27, 14:24:05",
       "https://news.ycombinator.com/item?id=42841409"
     ],
@@ -257,6 +247,16 @@
     [
       "Turning the Database Inside-Out",
       "https://martin.kleppmann.com/2015/11/05/database-inside-out-at-oredev.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-24, 19:14:41",
+      "https://news.ycombinator.com/item?id=42816133"
+    ],
+    [
+      "Beautiful Free Math – Desmos Animated Graphing Calculator",
+      "https://www.desmos.com/"
     ]
   ],
   [
