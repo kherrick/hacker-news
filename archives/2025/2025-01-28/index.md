@@ -61,6 +61,7 @@
 * [2025-01-28, 08:52:47](https://news.ycombinator.com/item?id=42850222) - [DeepSeek-R1 with Dynamic 1.58-bit Quantization](https://unsloth.ai/blog/deepseekr1-dynamic)
 * [2025-01-28, 08:43:39](https://news.ycombinator.com/item?id=42850177) - [Show HN: I Created a Pomodoro Timer](https://25min.work)
 * [2025-01-28, 08:31:53](https://news.ycombinator.com/item?id=42850111) - [Reinforcement Learning – A Reference](https://jakubhalmes.substack.com/p/reinforcement-learning-a-reference)
+* [2025-01-28, 08:31:30](https://news.ycombinator.com/item?id=42850109) - [Show HN: Meelo, self-hosted music server for collectors and music maniacs](https://github.com/Arthi-chaud/Meelo)
 * [2025-01-28, 07:57:50](https://news.ycombinator.com/item?id=42849935) - [Google Maps in the US Will Change to Gulf of America and Mount McKinley](https://www.theverge.com/2025/1/27/24353450/google-maps-rename-gulf-of-mexico-america-mt-mckinley)
 * [2025-01-28, 07:02:57](https://news.ycombinator.com/item?id=42849632) - [FTC Takes Action Against GoDaddy for Alleged Lax Data Security](https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-takes-action-against-godaddy-alleged-lax-data-security-its-website-hosting-services)
 * [2025-01-28, 06:56:44](https://news.ycombinator.com/item?id=42849604) - [Google Maps to Rename 'Gulf of Mexico' to 'Gulf of America'](https://thehill.com/policy/technology/5109912-google-maps-to-rename-gulf-of-mexico-to-gulf-of-america/)
