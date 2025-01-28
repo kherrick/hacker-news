@@ -26,9 +26,9 @@
 * [2025-01-26, 08:32:08](https://news.ycombinator.com/item?id=42828720) - [Turning the database inside-out (2015)](https://martin.kleppmann.com/2015/11/05/database-inside-out-at-oredev.html)
 * [2025-01-26, 08:05:24](https://news.ycombinator.com/item?id=42828581) - [BrainFlood: Runtime code generation via reflection in .NET](https://sbox.game/churchofmiku/brainflood/news/brainflood-compiling-via-reflection-8089c180)
 * [2025-01-26, 07:36:04](https://news.ycombinator.com/item?id=42828459) - [Show HN: Browse Anime from the Terminal](https://github.com/Benexl/FastAnime)
-* [2025-01-24, 21:32:50](https://news.ycombinator.com/item?id=42817123) - [Show HN: Vole Machine ISA Simulator](https://faresbakhit.github.io/vole-sim/)
 * [2025-01-24, 20:12:45](https://news.ycombinator.com/item?id=42816511) - [IOC long shot Watanabe hopes 'crazy' Olympic idea sparks debate](https://www.japantimes.co.jp/olympics/2025/01/14/ioc-watanabe-debate/)
 * [2025-01-24, 19:14:41](https://news.ycombinator.com/item?id=42816133) - [Beautiful Free Math – Desmos Animated Graphing Calculator](https://www.desmos.com/)
+* [2025-01-24, 11:29:28](https://news.ycombinator.com/item?id=42812157) - [Dragonsweeper — A minesweeper game that requires observation](https://danielben.itch.io/dragonsweeper)
 * [2025-01-24, 07:10:25](https://news.ycombinator.com/item?id=42811146) - [How we scaled Slack to support 1000s of developers](https://blog.railway.com/p/slack-overflow)
 
 ## [Archives](archives/index.md)
