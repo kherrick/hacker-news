@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-28, 07:57:50](https://news.ycombinator.com/item?id=42849935) - [Google Maps in the US Will Change to Gulf of America and Mount McKinley](https://www.theverge.com/2025/1/27/24353450/google-maps-rename-gulf-of-mexico-america-mt-mckinley)
 * [2025-01-28, 06:40:47](https://news.ycombinator.com/item?id=42849536) - [Open-R1: an open reproduction of DeepSeek-R1](https://huggingface.co/blog/open-r1)
 * [2025-01-28, 01:23:45](https://news.ycombinator.com/item?id=42847865) - [A 20-Year-Old Small Company](https://hacklook.com/posts/20250128-20years/)
 * [2025-01-28, 01:18:55](https://news.ycombinator.com/item?id=42847834) - [Machine Learning in Production (CMU Course)](https://mlip-cmu.github.io/s2025/)
@@ -19,7 +20,6 @@
 * [2025-01-27, 10:32:36](https://news.ycombinator.com/item?id=42839502) - [Facebook ban on discussing Linux?](https://distrowatch.com/weekly-mobile.php?issue=20250127#sitenews)
 * [2025-01-27, 10:32:35](https://news.ycombinator.com/item?id=42839501) - [SiFive's P550 Microarchitecture](https://chipsandcheese.com/p/inside-sifives-p550-microarchitecture)
 * [2025-01-27, 08:56:16](https://news.ycombinator.com/item?id=42838875) - [Show HN: I Made an iOS Podcast Player with Racket](https://defn.io/2024/11/16/podcatcher/)
-* [2025-01-27, 00:11:27](https://news.ycombinator.com/item?id=42835772) - [Openhaystack: Build 'AirTags' – track Bluetooth devices via Apple's network](https://github.com/seemoo-lab/openhaystack)
 * [2025-01-26, 18:51:31](https://news.ycombinator.com/item?id=42832742) - [Human corpses keep moving for over a year after death, scientist says (2019)](https://www.newsweek.com/human-corpse-year-burial-scientist-1459113)
 * [2025-01-26, 13:35:31](https://news.ycombinator.com/item?id=42830018) - [Ask HN: What do you use for content moderation of UGC?](https://news.ycombinator.com/item?id=42830018)
 * [2025-01-26, 12:30:10](https://news.ycombinator.com/item?id=42829677) - [Complexity physics finds crucial tipping points in chess games](https://arstechnica.com/science/2025/01/complexity-physics-finds-crucial-tipping-points-in-chess-games/)
