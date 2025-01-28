@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-28](index.md)
 
+* [2025-01-28, 23:35:58](https://news.ycombinator.com/item?id=42859580) - [How Google determines the names for bodies of water in Google Earth (2008)](https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html)
 * [2025-01-28, 23:15:06](https://news.ycombinator.com/item?id=42859421) - [Freeze on grant funding temporarily halted by federal judge](https://www.bloomberg.com/news/articles/2025-01-28/trump-s-freeze-on-grant-funding-temporarily-halted-by-judge)
 * [2025-01-28, 22:28:51](https://news.ycombinator.com/item?id=42858947) - [Job Trends of HN Who is hiring?](https://hnhiring.com/trends)
 * [2025-01-28, 22:18:39](https://news.ycombinator.com/item?id=42858828) - [AI haters build tarpits to trap and trick AI scrapers that ignore robots.txt](https://arstechnica.com/tech-policy/2025/01/ai-haters-build-tarpits-to-trap-and-trick-ai-scrapers-that-ignore-robots-txt/)
