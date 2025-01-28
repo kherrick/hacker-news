@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-28, 01:18:55",
+      "https://news.ycombinator.com/item?id=42847834"
+    ],
+    [
+      "Machine Learning in Production (CMU Course)",
+      "https://mlip-cmu.github.io/s2025/"
+    ]
+  ],
+  [
+    [
       "2025-01-27, 21:37:59",
       "https://news.ycombinator.com/item?id=42845933"
     ],
@@ -41,42 +51,12 @@
   ],
   [
     [
-      "2025-01-27, 20:03:22",
-      "https://news.ycombinator.com/item?id=42845017"
-    ],
-    [
-      "The future of Rebble",
-      "https://rebble.io/2025/01/27/the-future-of-rebble.html"
-    ]
-  ],
-  [
-    [
       "2025-01-27, 19:21:55",
       "https://news.ycombinator.com/item?id=42844619"
     ],
     [
       "The Alpha Myth: How captive wolves led us astray",
       "https://anthonydavidadams.substack.com/p/the-alpha-myth-how-captive-wolves"
-    ]
-  ],
-  [
-    [
-      "2025-01-27, 18:16:23",
-      "https://news.ycombinator.com/item?id=42843989"
-    ],
-    [
-      "Using the Rust standard library with the NuttX RTOS",
-      "https://lupyuen.org/articles/rust7.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-27, 17:59:49",
-      "https://news.ycombinator.com/item?id=42843817"
-    ],
-    [
-      "TBM 333: Lean Graph Theory",
-      "https://cutlefish.substack.com/p/tbm-333-lean-graph-theory"
     ]
   ],
   [
@@ -237,6 +217,26 @@
     [
       "Lessons in creating family photos that people want to keep (2018)",
       "https://estherschindler.medium.com/the-old-family-photos-project-lessons-in-creating-family-photos-that-people-want-to-keep-ea3909129943"
+    ]
+  ],
+  [
+    [
+      "2025-01-26, 12:43:26",
+      "https://news.ycombinator.com/item?id=42829738"
+    ],
+    [
+      "Highlighting Parts of Lua as Bash",
+      "https://xnacly.me/posts/2024/treesitter-neovim/"
+    ]
+  ],
+  [
+    [
+      "2025-01-26, 12:30:10",
+      "https://news.ycombinator.com/item?id=42829677"
+    ],
+    [
+      "Complexity physics finds crucial tipping points in chess games",
+      "https://arstechnica.com/science/2025/01/complexity-physics-finds-crucial-tipping-points-in-chess-games/"
     ]
   ],
   [
