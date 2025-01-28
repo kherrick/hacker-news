@@ -20,7 +20,7 @@
 * [2025-01-27, 16:57:45](https://news.ycombinator.com/item?id=42843131) - [DeepSeek releases Janus Pro, a text-to-image generator [pdf]](https://github.com/deepseek-ai/Janus/blob/main/janus_pro_tech_report.pdf)
 * [2025-01-27, 12:44:39](https://news.ycombinator.com/item?id=42840548) - [My failed attempt to shrink all NPM packages by 5%](https://evanhahn.com/my-failed-attempt-to-shrink-all-npm-packages-by-5-percent/)
 * [2025-01-27, 12:18:35](https://news.ycombinator.com/item?id=42840352) - [Oliver Heaviside and the theory of transmission lines (2021)](https://www.pa3fwm.nl/technotes/tn28-heaviside-transmission-lines.html)
-* [2025-01-27, 10:32:36](https://news.ycombinator.com/item?id=42839502) - [Facebook ban on discussing Linux?](https://distrowatch.com/weekly-mobile.php?issue=20250127#sitenews)
+* [2025-01-27, 08:56:16](https://news.ycombinator.com/item?id=42838875) - [Show HN: I Made an iOS Podcast Player with Racket](https://defn.io/2024/11/16/podcatcher/)
 * [2025-01-26, 18:51:31](https://news.ycombinator.com/item?id=42832742) - [Human corpses keep moving for over a year after death, scientist says (2019)](https://www.newsweek.com/human-corpse-year-burial-scientist-1459113)
 * [2025-01-26, 09:42:13](https://news.ycombinator.com/item?id=42829034) - [Using AI for Coding: My Journey with Cline and LLMs](https://pgaleone.eu/ai/coding/2025/01/26/using-ai-for-coding-my-experience/)
 * [2025-01-26, 08:32:08](https://news.ycombinator.com/item?id=42828720) - [Turning the database inside-out (2015)](https://martin.kleppmann.com/2015/11/05/database-inside-out-at-oredev.html)
