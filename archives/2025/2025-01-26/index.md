@@ -47,6 +47,7 @@
 * [2025-01-26, 12:55:14](https://news.ycombinator.com/item?id=42829795) - [Toyota reduces price of new hydrogen car with $15,000 of free fuel](https://www.hydrogeninsight.com/transport/toyota-reduces-price-of-new-hydrogen-car-in-california-to-just-over-15-000-with-15-000-of-free-fuel/2-1-1769729)
 * [2025-01-26, 12:43:26](https://news.ycombinator.com/item?id=42829738) - [Highlighting Parts of Lua as Bash](https://xnacly.me/posts/2024/treesitter-neovim/)
 * [2025-01-26, 12:30:10](https://news.ycombinator.com/item?id=42829677) - [Complexity physics finds crucial tipping points in chess games](https://arstechnica.com/science/2025/01/complexity-physics-finds-crucial-tipping-points-in-chess-games/)
+* [2025-01-26, 12:28:40](https://news.ycombinator.com/item?id=42829674) - [TokenVerse: Multi-Concept Personalization in Token Modulation Space by Google](https://token-verse.github.io/)
 * [2025-01-26, 11:51:16](https://news.ycombinator.com/item?id=42829515) - [Einstein Probe detects puzzling cosmic explosion](https://www.esa.int/Science_Exploration/Space_Science/Einstein_Probe_detects_puzzling_cosmic_explosion)
 * [2025-01-26, 11:35:44](https://news.ycombinator.com/item?id=42829466) - [When AI Promises Speed but Delivers Debugging Hell](https://nsavage.substack.com/p/when-ai-promises-speed-but-delivers)
 * [2025-01-26, 11:22:40](https://news.ycombinator.com/item?id=42829402) - [Malimite – iOS and macOS Decompiler](https://github.com/LaurieWired/Malimite)
