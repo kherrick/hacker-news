@@ -6,9 +6,12 @@
 
 * [2025-01-28, 13:53:32](https://news.ycombinator.com/item?id=42852286) - [Portal – sell your freelance services with style](https://useportal.net/)
 * [2025-01-28, 13:50:40](https://news.ycombinator.com/item?id=42852256) - [Intel slashes prices of Xeon 6 CPUs by up to $5,340](https://www.tomshardware.com/pc-components/cpus/intel-quietly-slashes-prices-of-xeon-6-cpus-by-up-to-usd5-340)
+* [2025-01-28, 13:32:16](https://news.ycombinator.com/item?id=42852077) - [Boom Supersonic to break sound barrier during historic test flight today](https://www.space.com/space-exploration/tech/boom-supersonic-to-break-sound-barrier-during-historic-test-flight-today-watch-live)
 * [2025-01-28, 13:31:44](https://news.ycombinator.com/item?id=42852073) - [Osaka bans smoking on all of its streets, vaping included](https://soranews24.com/2025/01/28/osaka-bans-smoking-on-all-of-its-streets-violators-will-be-fined-by-patrols-vaping-included/)
+* [2025-01-28, 13:04:05](https://news.ycombinator.com/item?id=42851839) - [HawkEye: A Simple license header checker and formatter in Rust](https://github.com/korandoru/hawkeye)
 * [2025-01-28, 12:47:15](https://news.ycombinator.com/item?id=42851699) - [DeepSeek could represent Nvidia CEO Jensen Huang's worst nightmare](https://www.marketwatch.com/story/deepseek-could-represent-nvidia-ceo-jensen-huangs-worst-nightmare-573b6d7e)
 * [2025-01-28, 12:35:23](https://news.ycombinator.com/item?id=42851607) - [AI, but at What Cost? Breakdown of AI's Carbon Footprint](https://loopbreaker.substack.com/p/ai-but-at-what-cost-breakdown-of)
+* [2025-01-28, 12:20:44](https://news.ycombinator.com/item?id=42851519) - [Public Access OpenVMS System](https://decuserve.org/)
 * [2025-01-28, 12:00:20](https://news.ycombinator.com/item?id=42851379) - [Structured (YC S23) Is Hiring](https://www.ycombinator.com/companies/structured/jobs/QsFSDNJ-founding-engineer)
 * [2025-01-28, 11:34:54](https://news.ycombinator.com/item?id=42851248) - [US pauses all Federal aid and grants](https://www.bbc.com/news/articles/c77rdy6gzy5o)
 * [2025-01-28, 11:17:54](https://news.ycombinator.com/item?id=42851124) - [Cleveland police used AI to justify a search warrant. It derailed a murder case](https://www.cleveland.com/news/2025/01/cleveland-police-used-ai-to-justify-a-search-warrant-it-has-derailed-a-murder-case.html)
