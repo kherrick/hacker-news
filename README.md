@@ -28,7 +28,7 @@
 * [2025-01-24, 17:38:11](https://news.ycombinator.com/item?id=42815454) - [Peanut Butter Day: Going Nuts over NIST's Standard Reference Peanut Butter (2016)](https://www.nist.gov/blogs/taking-measure/going-nuts-over-nists-standard-reference-peanut-butter)
 * [2025-01-24, 13:57:46](https://news.ycombinator.com/item?id=42813058) - [Mineral Oil Cooled PC (2014)](https://www.pugetsystems.com/mineral-oil-pc/)
 * [2025-01-24, 11:29:28](https://news.ycombinator.com/item?id=42812157) - [Dragonsweeper — A minesweeper game that requires observation](https://danielben.itch.io/dragonsweeper)
-* [2025-01-24, 07:10:25](https://news.ycombinator.com/item?id=42811146) - [Slack Overflow](https://blog.railway.com/p/slack-overflow)
+* [2025-01-24, 07:10:25](https://news.ycombinator.com/item?id=42811146) - [How we scaled Slack to support 1000s of developers](https://blog.railway.com/p/slack-overflow)
 * [2025-01-23, 19:49:59](https://news.ycombinator.com/item?id=42807387) - [A Faster Quantum Fourier Transform](https://arxiv.org/abs/2501.12414)
 
 ## [Archives](archives/index.md)
