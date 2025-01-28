@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-28](index.md)
 
+* [2025-01-28, 20:07:12](https://news.ycombinator.com/item?id=42857293) - [Parkinsons patient \"feels cured\" with new adaptive deep brain stimulation device](https://www.bbc.com/news/articles/ckgn49r069wo)
+* [2025-01-28, 19:53:52](https://news.ycombinator.com/item?id=42857106) - [Svelte 5 and the Future of Frameworks: A Chat with Rich Harris](https://www.smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/)
 * [2025-01-28, 19:38:43](https://news.ycombinator.com/item?id=42856911) - [White House says New Jersey drones 'authorized to be flown by FAA'](https://www.theguardian.com/us-news/2025/jan/28/karoline-leavitt-new-jersey-drones)
 * [2025-01-28, 19:29:34](https://news.ycombinator.com/item?id=42856805) - [Instagram deals reveal Meta is offering TikTok creators as much as $300k to post](https://www.businessinsider.com/instagram-paying-creators-exclusive-content-deals-reels-contract-details-2025-1)
 * [2025-01-28, 19:24:41](https://news.ycombinator.com/item?id=42856752) - [Ask HN: Are YC startups *actually* hiring?](https://news.ycombinator.com/item?id=42856752)

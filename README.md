@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-28, 19:38:43](https://news.ycombinator.com/item?id=42856911) - [White House says New Jersey drones 'authorized to be flown by FAA'](https://www.theguardian.com/us-news/2025/jan/28/karoline-leavitt-new-jersey-drones)
+* [2025-01-28, 20:07:12](https://news.ycombinator.com/item?id=42857293) - [Parkinsons patient \"feels cured\" with new adaptive deep brain stimulation device](https://www.bbc.com/news/articles/ckgn49r069wo)
+* [2025-01-28, 19:53:52](https://news.ycombinator.com/item?id=42857106) - [Svelte 5 and the Future of Frameworks: A Chat with Rich Harris](https://www.smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/)
 * [2025-01-28, 19:29:34](https://news.ycombinator.com/item?id=42856805) - [Instagram deals reveal Meta is offering TikTok creators as much as $300k to post](https://www.businessinsider.com/instagram-paying-creators-exclusive-content-deals-reels-contract-details-2025-1)
 * [2025-01-28, 19:24:41](https://news.ycombinator.com/item?id=42856752) - [Ask HN: Are YC startups *actually* hiring?](https://news.ycombinator.com/item?id=42856752)
 * [2025-01-28, 18:42:31](https://news.ycombinator.com/item?id=42856176) - [LinkedIn LinkedIn Removes Accounts of AI 'Co-Workers' Looking for Jobs](https://www.404media.co/linkedin-ai-coworkers-marketeam-open-to-work/)
@@ -21,7 +22,6 @@
 * [2025-01-28, 12:20:44](https://news.ycombinator.com/item?id=42851519) - [Public Access OpenVMS System](https://decuserve.org/)
 * [2025-01-28, 08:52:47](https://news.ycombinator.com/item?id=42850222) - [Run DeepSeek R1 Dynamic 1.58-bit](https://unsloth.ai/blog/deepseekr1-dynamic)
 * [2025-01-28, 07:02:57](https://news.ycombinator.com/item?id=42849632) - [FTC Takes Action Against GoDaddy for Alleged Lax Data Security](https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-takes-action-against-godaddy-alleged-lax-data-security-its-website-hosting-services)
-* [2025-01-27, 20:51:28](https://news.ycombinator.com/item?id=42845488) - [The Illustrated DeepSeek-R1](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1)
 * [2025-01-27, 20:11:19](https://news.ycombinator.com/item?id=42845091) - [We're bringing Pebble back](https://repebble.com/)
 * [2025-01-26, 11:22:40](https://news.ycombinator.com/item?id=42829402) - [Malimite – iOS and macOS Decompiler](https://github.com/LaurieWired/Malimite)
 * [2025-01-26, 11:09:17](https://news.ycombinator.com/item?id=42829346) - [Watch the path of a raindrop from anywhere in the world](https://river-runner-global.samlearner.com/)
