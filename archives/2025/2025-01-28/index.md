@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-28](index.md)
 
 * [2025-01-28, 17:36:31](https://news.ycombinator.com/item?id=42855283) - [Berkeley Researchers Replicate DeepSeek R1's Core Tech for Just $30: A Small Mod](https://xyzlabs.substack.com/p/berkeley-researchers-replicate-deepseek)
+* [2025-01-28, 17:35:05](https://news.ycombinator.com/item?id=42855258) - [Using UV as Your Shebang Line](https://akrabat.com/using-uv-as-your-shebang-line/)
 * [2025-01-28, 17:29:07](https://news.ycombinator.com/item?id=42855170) - [Has DeepSeek improved the Transformer architecture](https://epoch.ai/gradient-updates/how-has-deepseek-improved-the-transformer-architecture)
 * [2025-01-28, 17:00:58](https://news.ycombinator.com/item?id=42854706) - [Curo (YC F24) Is Hiring](https://www.ycombinator.com/companies/curo/jobs/s7a36qb-associate-marketplace-supply)
 * [2025-01-28, 16:48:58](https://news.ycombinator.com/item?id=42854525) - [Sam Altman said startups with $10M were 'hopeless' competing with OpenAI](https://www.tomshardware.com/tech-industry/artificial-intelligence/sam-altman-said-startups-with-only-usd10-million-were-totally-hopeless-competing-with-openai-deepseeks-disruption-says-otherwise)
