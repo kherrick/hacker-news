@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-28](index.md)
 
+* [2025-01-28, 15:55:22](https://news.ycombinator.com/item?id=42853741) - [Qwen2.5-Max: Exploring the Intelligence of Large-Scale Moe Model](https://qwenlm.github.io/blog/qwen2.5-max/)
 * [2025-01-28, 15:51:26](https://news.ycombinator.com/item?id=42853696) - [Bitwarden introduces mandatory 2FA for new devices](https://bitwarden.com/help/new-device-verification/)
 * [2025-01-28, 15:46:53](https://news.ycombinator.com/item?id=42853633) - [XB-1 First Supersonic Flight [video]](https://www.youtube.com/watch?v=-qisIViAHwI)
 * [2025-01-28, 15:45:25](https://news.ycombinator.com/item?id=42853617) - [Almost one in 10 people use the same four-digit PIN](https://www.abc.net.au/news/2025-01-28/almost-one-in-ten-people-use-the-same-four-digit-pin/103946842)
