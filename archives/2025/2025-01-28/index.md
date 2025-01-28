@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-28](index.md)
 
+* [2025-01-28, 18:21:44](https://news.ycombinator.com/item?id=42855888) - [New Apple CPU side-channel attacks steals data from browsers](https://www.bleepingcomputer.com/news/security/new-apple-cpu-side-channel-attack-steals-data-from-browsers/)
 * [2025-01-28, 17:36:31](https://news.ycombinator.com/item?id=42855283) - [Berkeley Researchers Replicate DeepSeek R1's Core Tech for Just $30: A Small Mod](https://xyzlabs.substack.com/p/berkeley-researchers-replicate-deepseek)
 * [2025-01-28, 17:35:05](https://news.ycombinator.com/item?id=42855258) - [Using UV as Your Shebang Line](https://akrabat.com/using-uv-as-your-shebang-line/)
 * [2025-01-28, 17:29:07](https://news.ycombinator.com/item?id=42855170) - [Has DeepSeek improved the Transformer architecture](https://epoch.ai/gradient-updates/how-has-deepseek-improved-the-transformer-architecture)

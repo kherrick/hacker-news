@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-28, 18:21:44](https://news.ycombinator.com/item?id=42855888) - [New Apple CPU side-channel attacks steals data from browsers](https://www.bleepingcomputer.com/news/security/new-apple-cpu-side-channel-attack-steals-data-from-browsers/)
 * [2025-01-28, 17:36:31](https://news.ycombinator.com/item?id=42855283) - [Berkeley Researchers Replicate DeepSeek R1's Core Tech for Just $30: A Small Mod](https://xyzlabs.substack.com/p/berkeley-researchers-replicate-deepseek)
 * [2025-01-28, 17:35:05](https://news.ycombinator.com/item?id=42855258) - [Using UV as Your Shebang Line](https://akrabat.com/using-uv-as-your-shebang-line/)
 * [2025-01-28, 17:29:07](https://news.ycombinator.com/item?id=42855170) - [Has DeepSeek improved the Transformer architecture](https://epoch.ai/gradient-updates/how-has-deepseek-improved-the-transformer-architecture)
@@ -29,7 +30,6 @@
 * [2025-01-26, 08:32:08](https://news.ycombinator.com/item?id=42828720) - [Turning the database inside-out (2015)](https://martin.kleppmann.com/2015/11/05/database-inside-out-at-oredev.html)
 * [2025-01-26, 08:05:24](https://news.ycombinator.com/item?id=42828581) - [BrainFlood: Runtime code generation via reflection in .NET](https://sbox.game/churchofmiku/brainflood/news/brainflood-compiling-via-reflection-8089c180)
 * [2025-01-24, 19:14:41](https://news.ycombinator.com/item?id=42816133) - [Beautiful Free Math – Desmos Animated Graphing Calculator](https://www.desmos.com/)
-* [2025-01-24, 07:10:25](https://news.ycombinator.com/item?id=42811146) - [How we scaled Slack to support 1000s of developers](https://blog.railway.com/p/slack-overflow)
 
 ## [Archives](archives/index.md)
 
