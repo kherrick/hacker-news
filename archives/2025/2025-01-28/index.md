@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-01-28](index.md)
 
+* [2025-01-28, 21:01:03](https://news.ycombinator.com/item?id=42857929) - [SciPhi (YC W24) Is Hiring](https://www.ycombinator.com/companies/sciphi/jobs/CVYWWpl-founding-ai-research-engineer)
+* [2025-01-28, 20:41:50](https://news.ycombinator.com/item?id=42857681) - [Someone at Activision is leaking Slack screenshots to right-wing X users](https://www.gamedeveloper.com/business/it-looks-like-someone-at-activision-is-leaking-slack-screenshots-to-right-wing-x-users)
 * [2025-01-28, 20:35:06](https://news.ycombinator.com/item?id=42857604) - [Show HN: DeepSeek Your HN Profile](https://hn-wrapped.kadoa.com/)
 * [2025-01-28, 20:28:48](https://news.ycombinator.com/item?id=42857532) - [Can We Get the Benefits of Transitive Dependencies Without Undermining Security?](https://tratt.net/laurie/blog/2024/can_we_retain_the_benefits_of_transitive_dependencies_without_undermining_security.html)
 * [2025-01-28, 20:07:12](https://news.ycombinator.com/item?id=42857293) - [Parkinsons patient \"feels cured\" with new adaptive deep brain stimulation device](https://www.bbc.com/news/articles/ckgn49r069wo)
 * [2025-01-28, 19:53:52](https://news.ycombinator.com/item?id=42857106) - [Svelte 5 and the Future of Frameworks: A Chat with Rich Harris](https://www.smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/)
+* [2025-01-28, 19:52:39](https://news.ycombinator.com/item?id=42857091) - [Machine learning and nano-3D printing produce nano-architected materials](https://news.engineering.utoronto.ca/strong-as-steel-light-as-foam-machine-learning-and-nano-3d-printing-produce-breakthrough-high-performance-nano-architected-materials/)
 * [2025-01-28, 19:46:45](https://news.ycombinator.com/item?id=42857008) - [Why old games magazines are a vital source of cultural history – and nostalgia](https://www.theguardian.com/games/2025/jan/28/video-game-history-foundation-digitised-archive-games-magazines)
 * [2025-01-28, 19:38:43](https://news.ycombinator.com/item?id=42856911) - [White House says New Jersey drones 'authorized to be flown by FAA'](https://www.theguardian.com/us-news/2025/jan/28/karoline-leavitt-new-jersey-drones)
 * [2025-01-28, 19:29:34](https://news.ycombinator.com/item?id=42856805) - [Instagram deals reveal Meta is offering TikTok creators as much as $300k to post](https://www.businessinsider.com/instagram-paying-creators-exclusive-content-deals-reels-contract-details-2025-1)
