@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-01-28](index.md)
 
+* [2025-01-28, 22:28:51](https://news.ycombinator.com/item?id=42858947) - [Job Trends of HN Who is hiring?](https://hnhiring.com/trends)
 * [2025-01-28, 22:18:39](https://news.ycombinator.com/item?id=42858828) - [AI haters build tarpits to trap and trick AI scrapers that ignore robots.txt](https://arstechnica.com/tech-policy/2025/01/ai-haters-build-tarpits-to-trap-and-trick-ai-scrapers-that-ignore-robots-txt/)
+* [2025-01-28, 22:14:41](https://news.ycombinator.com/item?id=42858778) - [Civilization VII only needs 20 GB of free disk space](https://www.corsair.com/us/en/explorer/gamer/gaming-pcs/civilization-vii-system-requirements-and-recommended-specs/)
 * [2025-01-28, 22:11:36](https://news.ycombinator.com/item?id=42858741) - [Multi-head latent attention (DeepSeek) and other KV cache tricks explained](https://www.pyspur.dev/blog/multi-head-latent-attention-kv-cache-paper-list)
 * [2025-01-28, 21:54:36](https://news.ycombinator.com/item?id=42858552) - [1,156 Questions Censored by DeepSeek](https://www.promptfoo.dev/blog/deepseek-censorship/)
 * [2025-01-28, 21:37:27](https://news.ycombinator.com/item?id=42858386) - [CA, NY Attorneys General sue to resume federal funding of Medicaid, FEMA, PEPFAR](https://oag.ca.gov/news/press-releases/attorney-general-bonta-files-lawsuit-seeks-immediate-court-order-block-sweeping)
