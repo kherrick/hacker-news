@@ -1,22 +1,22 @@
 [
   [
     [
-      "2025-01-28, 22:28:51",
-      "https://news.ycombinator.com/item?id=42858947"
+      "2025-01-28, 23:15:06",
+      "https://news.ycombinator.com/item?id=42859421"
     ],
     [
-      "Job Trends of HN Who is hiring?",
-      "https://hnhiring.com/trends"
+      "Freeze on grant funding temporarily halted by federal judge",
+      "https://www.bloomberg.com/news/articles/2025-01-28/trump-s-freeze-on-grant-funding-temporarily-halted-by-judge"
     ]
   ],
   [
     [
-      "2025-01-28, 22:18:39",
-      "https://news.ycombinator.com/item?id=42858828"
+      "2025-01-28, 22:28:51",
+      "https://news.ycombinator.com/item?id=42858947"
     ],
     [
-      "AI haters build tarpits to trap and trick AI scrapers that ignore robots.txt",
-      "https://arstechnica.com/tech-policy/2025/01/ai-haters-build-tarpits-to-trap-and-trick-ai-scrapers-that-ignore-robots-txt/"
+      "Job trends of HN Who Is Hiring?",
+      "https://hnhiring.com/trends"
     ]
   ],
   [
@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=42858741"
     ],
     [
-      "DeepSeek's Multi-head latent attention and other KV cache tricks explained",
+      "DeepSeek's multi-head latent attention and other KV cache tricks",
       "https://www.pyspur.dev/blog/multi-head-latent-attention-kv-cache-paper-list"
     ]
   ],
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=42858552"
     ],
     [
-      "Questions Censored by DeepSeek",
+      "Questions censored by DeepSeek",
       "https://www.promptfoo.dev/blog/deepseek-censorship/"
     ]
   ],
@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2025-01-28, 18:48:42",
+      "https://news.ycombinator.com/item?id=42856262"
+    ],
+    [
+      "Windows 7 boots slower if you set a solid background color",
+      "https://support.microsoft.com/en-gb/topic/the-welcome-screen-may-be-displayed-for-30-seconds-during-the-logon-process-after-you-set-a-solid-color-as-the-desktop-background-in-windows-7-or-in-windows-server-2008-r2-b4565ced-703a-cc85-bf9c-6b3d586d6421"
+    ]
+  ],
+  [
+    [
       "2025-01-28, 18:31:34",
       "https://news.ycombinator.com/item?id=42856023"
     ],
@@ -177,16 +187,6 @@
     [
       "Promising results from DeepSeek R1 for code",
       "https://simonwillison.net/2025/Jan/27/llamacpp-pr/"
-    ]
-  ],
-  [
-    [
-      "2025-01-28, 12:20:44",
-      "https://news.ycombinator.com/item?id=42851519"
-    ],
-    [
-      "Public Access OpenVMS System",
-      "https://decuserve.org/"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=42829149"
     ],
     [
-      "What's OAuth2, Anyway?",
+      "What's OAuth2, anyway?",
       "https://www.romaglushko.com/blog/whats-aouth2/"
     ]
   ],
