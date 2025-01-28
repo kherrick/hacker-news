@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-28](index.md)
 
+* [2025-01-28, 21:54:36](https://news.ycombinator.com/item?id=42858552) - [1,156 Questions Censored by DeepSeek](https://www.promptfoo.dev/blog/deepseek-censorship/)
 * [2025-01-28, 21:37:27](https://news.ycombinator.com/item?id=42858386) - [CA, NY Attorneys General sue to resume federal funding of Medicaid, FEMA, PEPFAR](https://oag.ca.gov/news/press-releases/attorney-general-bonta-files-lawsuit-seeks-immediate-court-order-block-sweeping)
 * [2025-01-28, 21:16:46](https://news.ycombinator.com/item?id=42858134) - [Next Asteroid Predicted to Hit Earth: 2024 YR4 and Other Dangerous Asteroids](https://starwalk.space/en/news/should-you-worry-about-an-asteroid-hitting-earth)
 * [2025-01-28, 21:09:40](https://news.ycombinator.com/item?id=42858051) - [Slicing the Fourth](https://axalatar.github.io/slicing-the-fourth/)

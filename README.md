@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-28, 21:37:27](https://news.ycombinator.com/item?id=42858386) - [CA, NY Attorneys General sue to resume federal funding of Medicaid, FEMA, PEPFAR](https://oag.ca.gov/news/press-releases/attorney-general-bonta-files-lawsuit-seeks-immediate-court-order-block-sweeping)
+* [2025-01-28, 21:54:36](https://news.ycombinator.com/item?id=42858552) - [1,156 Questions Censored by DeepSeek](https://www.promptfoo.dev/blog/deepseek-censorship/)
 * [2025-01-28, 21:16:46](https://news.ycombinator.com/item?id=42858134) - [2024 YR4 and other dangerous asteroids](https://starwalk.space/en/news/should-you-worry-about-an-asteroid-hitting-earth)
 * [2025-01-28, 21:09:40](https://news.ycombinator.com/item?id=42858051) - [Slicing the Fourth](https://axalatar.github.io/slicing-the-fourth/)
 * [2025-01-28, 21:01:03](https://news.ycombinator.com/item?id=42857929) - [SciPhi (YC W24) Is Hiring](https://www.ycombinator.com/companies/sciphi/jobs/CVYWWpl-founding-ai-research-engineer)
@@ -27,7 +27,7 @@
 * [2025-01-26, 11:22:40](https://news.ycombinator.com/item?id=42829402) - [Malimite – iOS and macOS Decompiler](https://github.com/LaurieWired/Malimite)
 * [2025-01-26, 11:09:17](https://news.ycombinator.com/item?id=42829346) - [Watch the path of a raindrop from anywhere in the world](https://river-runner-global.samlearner.com/)
 * [2025-01-26, 11:03:50](https://news.ycombinator.com/item?id=42829315) - [Keycloak, Angular, and the BFF Pattern](https://blog.brakmic.com/keycloak-angular-and-the-bff-pattern/)
-* [2025-01-26, 09:47:13](https://news.ycombinator.com/item?id=42829050) - [The Untold History of Toontown's SpeedChat](http://habitatchronicles.com/2007/03/the-untold-history-of-toontowns-speedchat-or-blockchattm-from-disney-finally-arrives/)
+* [2025-01-26, 09:47:13](https://news.ycombinator.com/item?id=42829050) - [The History of Toontown’s SpeedChat](http://habitatchronicles.com/2007/03/the-untold-history-of-toontowns-speedchat-or-blockchattm-from-disney-finally-arrives/)
 * [2025-01-26, 09:01:16](https://news.ycombinator.com/item?id=42828848) - [Fixing my monitor's power button](https://www.lkhrs.com/blog/2025/monitor-repair/)
 * [2025-01-24, 19:14:41](https://news.ycombinator.com/item?id=42816133) - [Desmos Animated Graphing Calculator](https://www.desmos.com/)
 
