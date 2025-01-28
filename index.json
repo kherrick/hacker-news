@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-28, 15:55:22",
+      "https://news.ycombinator.com/item?id=42853741"
+    ],
+    [
+      "Qwen2.5-Max: Exploring the Intelligence of Large-Scale Moe Model",
+      "https://qwenlm.github.io/blog/qwen2.5-max/"
+    ]
+  ],
+  [
+    [
       "2025-01-28, 15:51:26",
       "https://news.ycombinator.com/item?id=42853696"
     ],
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2025-01-28, 13:36:52",
-      "https://news.ycombinator.com/item?id=42852121"
-    ],
-    [
-      "Black Swan's Taleb Says Nvidia Rout Is Hint of What's Coming",
-      "https://www.bloomberg.com/news/articles/2025-01-28/black-swan-s-taleb-warns-nvidia-rout-is-hint-of-what-s-to-come"
-    ]
-  ],
-  [
-    [
       "2025-01-28, 13:28:40",
       "https://news.ycombinator.com/item?id=42852048"
     ],
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2025-01-27, 20:51:28",
+      "https://news.ycombinator.com/item?id=42845488"
+    ],
+    [
+      "The Illustrated DeepSeek-R1",
+      "https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1"
+    ]
+  ],
+  [
+    [
       "2025-01-27, 20:33:43",
       "https://news.ycombinator.com/item?id=42845323"
     ],
@@ -237,16 +247,6 @@
     [
       "BrainFlood: Runtime code generation via reflection in .NET",
       "https://sbox.game/churchofmiku/brainflood/news/brainflood-compiling-via-reflection-8089c180"
-    ]
-  ],
-  [
-    [
-      "2025-01-26, 07:36:04",
-      "https://news.ycombinator.com/item?id=42828459"
-    ],
-    [
-      "Show HN: Browse Anime from the Terminal",
-      "https://github.com/Benexl/FastAnime"
     ]
   ],
   [
