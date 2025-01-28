@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-28](index.md)
 
+* [2025-01-28, 12:00:20](https://news.ycombinator.com/item?id=42851379) - [Structured (YC S23) Is Hiring](https://www.ycombinator.com/companies/structured/jobs/QsFSDNJ-founding-engineer)
 * [2025-01-28, 11:34:54](https://news.ycombinator.com/item?id=42851248) - [US pauses all Federal aid and grants](https://www.bbc.com/news/articles/c77rdy6gzy5o)
 * [2025-01-28, 09:58:43](https://news.ycombinator.com/item?id=42850644) - [US Civil servants are being asked who they voted for in 2024 election](https://www.independent.co.uk/news/world/americas/us-politics/trump-civil-service-loyalty-transition-b2678674.html)
 * [2025-01-28, 08:52:47](https://news.ycombinator.com/item?id=42850222) - [DeepSeek-R1 with Dynamic 1.58-bit Quantization](https://unsloth.ai/blog/deepseekr1-dynamic)
