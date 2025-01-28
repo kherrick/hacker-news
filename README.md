@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-28, 11:34:54](https://news.ycombinator.com/item?id=42851248) - [US pauses all Federal aid and grants](https://www.bbc.com/news/articles/c77rdy6gzy5o)
 * [2025-01-28, 08:52:47](https://news.ycombinator.com/item?id=42850222) - [DeepSeek-R1 with Dynamic 1.58-bit Quantization](https://unsloth.ai/blog/deepseekr1-dynamic)
 * [2025-01-28, 08:43:39](https://news.ycombinator.com/item?id=42850177) - [Show HN: I Created a Pomodoro Timer](https://25min.work)
 * [2025-01-28, 08:31:53](https://news.ycombinator.com/item?id=42850111) - [Reinforcement Learning – A Reference](https://jakubhalmes.substack.com/p/reinforcement-learning-a-reference)
@@ -13,7 +14,6 @@
 * [2025-01-27, 19:21:55](https://news.ycombinator.com/item?id=42844619) - [The Alpha Myth: How captive wolves led us astray](https://anthonydavidadams.substack.com/p/the-alpha-myth-how-captive-wolves)
 * [2025-01-27, 17:42:36](https://news.ycombinator.com/item?id=42843623) - [The Taylorator – All Your Frequencies Are Belong to Us](https://www.scd31.com/posts/taylorator)
 * [2025-01-27, 16:57:45](https://news.ycombinator.com/item?id=42843131) - [DeepSeek releases Janus Pro, a text-to-image generator [pdf]](https://github.com/deepseek-ai/Janus/blob/main/janus_pro_tech_report.pdf)
-* [2025-01-27, 15:42:02](https://news.ycombinator.com/item?id=42842270) - [Bilinear down/upsampling, aligning pixel grids, and that infamous GPU half pixel (2021)](https://bartwronski.com/2021/02/15/bilinear-down-upsampling-pixel-grids-and-that-half-pixel-offset/)
 * [2025-01-27, 14:24:05](https://news.ycombinator.com/item?id=42841409) - [The ocean teems with networks of interconnected bacteria](https://www.quantamagazine.org/the-ocean-teems-with-networks-of-interconnected-bacteria-20250106/)
 * [2025-01-27, 12:44:39](https://news.ycombinator.com/item?id=42840548) - [My failed attempt to shrink all NPM packages by 5%](https://evanhahn.com/my-failed-attempt-to-shrink-all-npm-packages-by-5-percent/)
 * [2025-01-27, 12:18:35](https://news.ycombinator.com/item?id=42840352) - [Oliver Heaviside and the theory of transmission lines (2021)](https://www.pa3fwm.nl/technotes/tn28-heaviside-transmission-lines.html)
