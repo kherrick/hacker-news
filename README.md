@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-28, 09:58:43](https://news.ycombinator.com/item?id=42850644) - [US Civil servants are being asked who they voted for in 2024 election](https://www.independent.co.uk/news/world/americas/us-politics/trump-civil-service-loyalty-transition-b2678674.html)
 * [2025-01-28, 08:52:47](https://news.ycombinator.com/item?id=42850222) - [DeepSeek-R1 with Dynamic 1.58-bit Quantization](https://unsloth.ai/blog/deepseekr1-dynamic)
+* [2025-01-28, 08:43:39](https://news.ycombinator.com/item?id=42850177) - [Show HN: I Created a Pomodoro Timer](https://25min.work)
 * [2025-01-28, 08:31:53](https://news.ycombinator.com/item?id=42850111) - [Reinforcement Learning – A Reference](https://jakubhalmes.substack.com/p/reinforcement-learning-a-reference)
-* [2025-01-28, 07:57:50](https://news.ycombinator.com/item?id=42849935) - [Google Maps in the US Will Change to Gulf of America and Mount McKinley](https://www.theverge.com/2025/1/27/24353450/google-maps-rename-gulf-of-mexico-america-mt-mckinley)
 * [2025-01-28, 06:40:47](https://news.ycombinator.com/item?id=42849536) - [Open-R1: an open reproduction of DeepSeek-R1](https://huggingface.co/blog/open-r1)
 * [2025-01-28, 01:23:45](https://news.ycombinator.com/item?id=42847865) - [A 20-Year-Old Small Company](https://hacklook.com/posts/20250128-20years/)
 * [2025-01-28, 01:18:55](https://news.ycombinator.com/item?id=42847834) - [Machine Learning in Production (CMU Course)](https://mlip-cmu.github.io/s2025/)
@@ -26,6 +25,7 @@
 * [2025-01-26, 09:42:13](https://news.ycombinator.com/item?id=42829034) - [Using AI for Coding: My Journey with Cline and LLMs](https://pgaleone.eu/ai/coding/2025/01/26/using-ai-for-coding-my-experience/)
 * [2025-01-26, 09:28:03](https://news.ycombinator.com/item?id=42828966) - [Swede dreams: How Sweden is embracing its sleepy side](https://www.bbc.com/travel/article/20250113-how-sweden-is-embracing-its-sleepy-side)
 * [2025-01-26, 08:32:08](https://news.ycombinator.com/item?id=42828720) - [Turning the Database Inside-Out](https://martin.kleppmann.com/2015/11/05/database-inside-out-at-oredev.html)
+* [2025-01-26, 08:05:24](https://news.ycombinator.com/item?id=42828581) - [BrainFlood: Runtime code generation via reflection in .NET](https://sbox.game/churchofmiku/brainflood/news/brainflood-compiling-via-reflection-8089c180)
 * [2025-01-24, 19:14:41](https://news.ycombinator.com/item?id=42816133) - [Beautiful Free Math – Desmos Animated Graphing Calculator](https://www.desmos.com/)
 * [2025-01-24, 16:53:45](https://news.ycombinator.com/item?id=42814982) - [Undiagnosed Cognitive Decline Eats into Seniors' Retirement Savings](https://www.wsj.com/personal-finance/retirement/cognitive-decline-retirement-savings-4672b604)
 * [2025-01-24, 11:29:28](https://news.ycombinator.com/item?id=42812157) - [Dragonsweeper — A minesweeper game that requires observation](https://danielben.itch.io/dragonsweeper)
