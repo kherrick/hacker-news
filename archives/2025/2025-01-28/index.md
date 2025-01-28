@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-01-28](index.md)
 
+* [2025-01-28, 15:51:26](https://news.ycombinator.com/item?id=42853696) - [Bitwarden introduces mandatory 2FA for new devices](https://bitwarden.com/help/new-device-verification/)
+* [2025-01-28, 15:46:53](https://news.ycombinator.com/item?id=42853633) - [XB-1 First Supersonic Flight [video]](https://www.youtube.com/watch?v=-qisIViAHwI)
 * [2025-01-28, 15:45:25](https://news.ycombinator.com/item?id=42853617) - [Almost one in 10 people use the same four-digit PIN](https://www.abc.net.au/news/2025-01-28/almost-one-in-ten-people-use-the-same-four-digit-pin/103946842)
 * [2025-01-28, 15:37:32](https://news.ycombinator.com/item?id=42853528) - [Maxima in the browser using Embedded Common Lisp on WASM](https://maxima-on-wasm.pages.dev/)
+* [2025-01-28, 15:26:52](https://news.ycombinator.com/item?id=42853405) - [Hackers Crack Subaru's Connected Services to Access Data, Door Locks and More](https://jalopnik.com/hackers-crack-subarus-connected-services-to-access-loca-1851746393)
 * [2025-01-28, 15:26:14](https://news.ycombinator.com/item?id=42853396) - [Discussion: Reduce error handling boilerplate in Golang using '?'](https://github.com/golang/go/discussions/71460)
 * [2025-01-28, 15:23:28](https://news.ycombinator.com/item?id=42853362) - [DeepSeek censorship: 1984 \"rectifying\" in real time](https://old.reddit.com/r/OpenAI/comments/1ic3kl6/deepseek_censorship_1984_rectifying_in_real_time/)
 * [2025-01-28, 15:09:52](https://news.ycombinator.com/item?id=42853174) - [IAC confirms existence of a Super-earth in the habitable zone of a Sun-like Star](https://www.iac.es/en/outreach/news/iac-confirms-existence-super-earth-habitable-zone-sun-star)
