@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-28](index.md)
 
+* [2025-01-28, 20:35:06](https://news.ycombinator.com/item?id=42857604) - [Show HN: DeepSeek Your HN Profile](https://hn-wrapped.kadoa.com/)
 * [2025-01-28, 20:28:48](https://news.ycombinator.com/item?id=42857532) - [Can We Get the Benefits of Transitive Dependencies Without Undermining Security?](https://tratt.net/laurie/blog/2024/can_we_retain_the_benefits_of_transitive_dependencies_without_undermining_security.html)
 * [2025-01-28, 20:07:12](https://news.ycombinator.com/item?id=42857293) - [Parkinsons patient \"feels cured\" with new adaptive deep brain stimulation device](https://www.bbc.com/news/articles/ckgn49r069wo)
 * [2025-01-28, 19:53:52](https://news.ycombinator.com/item?id=42857106) - [Svelte 5 and the Future of Frameworks: A Chat with Rich Harris](https://www.smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/)

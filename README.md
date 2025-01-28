@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-28, 20:28:48](https://news.ycombinator.com/item?id=42857532) - [Can We Get the Benefits of Transitive Dependencies Without Undermining Security?](https://tratt.net/laurie/blog/2024/can_we_retain_the_benefits_of_transitive_dependencies_without_undermining_security.html)
+* [2025-01-28, 20:35:06](https://news.ycombinator.com/item?id=42857604) - [Show HN: DeepSeek Your HN Profile](https://hn-wrapped.kadoa.com/)
+* [2025-01-28, 20:28:48](https://news.ycombinator.com/item?id=42857532) - [Can we get the benefits of transitive dependencies without undermining security?](https://tratt.net/laurie/blog/2024/can_we_retain_the_benefits_of_transitive_dependencies_without_undermining_security.html)
 * [2025-01-28, 20:07:12](https://news.ycombinator.com/item?id=42857293) - [Parkinsons patient \"feels cured\" with new adaptive deep brain stimulation device](https://www.bbc.com/news/articles/ckgn49r069wo)
 * [2025-01-28, 19:53:52](https://news.ycombinator.com/item?id=42857106) - [Svelte 5 and the Future of Frameworks: A Chat with Rich Harris](https://www.smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/)
 * [2025-01-28, 19:46:45](https://news.ycombinator.com/item?id=42857008) - [Why old games magazines are a vital source of cultural history – and nostalgia](https://www.theguardian.com/games/2025/jan/28/video-game-history-foundation-digitised-archive-games-magazines)
 * [2025-01-28, 19:29:34](https://news.ycombinator.com/item?id=42856805) - [Instagram deals reveal Meta is offering TikTok creators as much as $300k to post](https://www.businessinsider.com/instagram-paying-creators-exclusive-content-deals-reels-contract-details-2025-1)
-* [2025-01-28, 19:24:41](https://news.ycombinator.com/item?id=42856752) - [Ask HN: Are YC startups *actually* hiring?](https://news.ycombinator.com/item?id=42856752)
 * [2025-01-28, 18:42:31](https://news.ycombinator.com/item?id=42856176) - [LinkedIn LinkedIn Removes Accounts of AI 'Co-Workers' Looking for Jobs](https://www.404media.co/linkedin-ai-coworkers-marketeam-open-to-work/)
 * [2025-01-28, 18:31:34](https://news.ycombinator.com/item?id=42856023) - [New speculative attacks on Apple CPUs](https://predictors.fail/)
 * [2025-01-28, 17:35:05](https://news.ycombinator.com/item?id=42855258) - [Using uv as your shebang line](https://akrabat.com/using-uv-as-your-shebang-line/)
