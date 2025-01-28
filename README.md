@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-28, 19:29:34](https://news.ycombinator.com/item?id=42856805) - [Instagram deals reveal Meta is offering TikTok creators as much as $300k to post](https://www.businessinsider.com/instagram-paying-creators-exclusive-content-deals-reels-contract-details-2025-1)
+* [2025-01-28, 19:11:49](https://news.ycombinator.com/item?id=42856591) - [It is time to ban email](https://shkspr.mobi/blog/2025/01/it-is-time-to-ban-email/)
 * [2025-01-28, 18:45:50](https://news.ycombinator.com/item?id=42856220) - [POTUS Tracker – Executive Orders, Presidential Schedule, Signed Legislation](https://potustracker.us/)
-* [2025-01-28, 18:42:31](https://news.ycombinator.com/item?id=42856176) - [LinkedIn LinkedIn Removes Accounts of AI 'Co-Workers' Looking for Jobs](https://www.404media.co/linkedin-ai-coworkers-marketeam-open-to-work/)
 * [2025-01-28, 18:31:34](https://news.ycombinator.com/item?id=42856023) - [New speculative attacks on Apple CPUs](https://predictors.fail/)
 * [2025-01-28, 18:21:44](https://news.ycombinator.com/item?id=42855888) - [New Apple CPU side-channel attacks steals data from browsers](https://www.bleepingcomputer.com/news/security/new-apple-cpu-side-channel-attack-steals-data-from-browsers/)
 * [2025-01-28, 17:35:05](https://news.ycombinator.com/item?id=42855258) - [Using uv as your shebang line](https://akrabat.com/using-uv-as-your-shebang-line/)
@@ -23,7 +24,6 @@
 * [2025-01-28, 01:18:55](https://news.ycombinator.com/item?id=42847834) - [Machine Learning in Production (CMU Course)](https://mlip-cmu.github.io/s2025/)
 * [2025-01-27, 20:11:19](https://news.ycombinator.com/item?id=42845091) - [We're bringing Pebble back](https://repebble.com/)
 * [2025-01-27, 19:21:55](https://news.ycombinator.com/item?id=42844619) - [The Alpha Myth: How captive wolves led us astray](https://anthonydavidadams.substack.com/p/the-alpha-myth-how-captive-wolves)
-* [2025-01-27, 17:42:36](https://news.ycombinator.com/item?id=42843623) - [The Taylorator – All Your Frequencies Are Belong to Us](https://www.scd31.com/posts/taylorator)
 * [2025-01-26, 11:09:17](https://news.ycombinator.com/item?id=42829346) - [Watch the path of a raindrop from anywhere in the world](https://river-runner-global.samlearner.com/)
 * [2025-01-26, 11:03:50](https://news.ycombinator.com/item?id=42829315) - [Keycloak, Angular, and the BFF Pattern](https://blog.brakmic.com/keycloak-angular-and-the-bff-pattern/)
 * [2025-01-26, 09:01:16](https://news.ycombinator.com/item?id=42828848) - [Fixing my monitor's power button](https://www.lkhrs.com/blog/2025/monitor-repair/)
