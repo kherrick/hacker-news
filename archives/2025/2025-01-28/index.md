@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-28](index.md)
 
+* [2025-01-28, 13:50:40](https://news.ycombinator.com/item?id=42852256) - [Intel slashes prices of Xeon 6 CPUs by up to $5,340](https://www.tomshardware.com/pc-components/cpus/intel-quietly-slashes-prices-of-xeon-6-cpus-by-up-to-usd5-340)
 * [2025-01-28, 12:47:15](https://news.ycombinator.com/item?id=42851699) - [DeepSeek could represent Nvidia CEO Jensen Huang's worst nightmare](https://www.marketwatch.com/story/deepseek-could-represent-nvidia-ceo-jensen-huangs-worst-nightmare-573b6d7e)
 * [2025-01-28, 12:35:23](https://news.ycombinator.com/item?id=42851607) - [AI, but at What Cost? Breakdown of AI's Carbon Footprint](https://loopbreaker.substack.com/p/ai-but-at-what-cost-breakdown-of)
 * [2025-01-28, 12:00:20](https://news.ycombinator.com/item?id=42851379) - [Structured (YC S23) Is Hiring](https://www.ycombinator.com/companies/structured/jobs/QsFSDNJ-founding-engineer)
