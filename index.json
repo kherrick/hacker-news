@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-01-28, 20:41:50",
-      "https://news.ycombinator.com/item?id=42857681"
-    ],
-    [
-      "Someone at Activision is leaking Slack screenshots to right-wing X users",
-      "https://www.gamedeveloper.com/business/it-looks-like-someone-at-activision-is-leaking-slack-screenshots-to-right-wing-x-users"
-    ]
-  ],
-  [
-    [
       "2025-01-28, 20:28:48",
       "https://news.ycombinator.com/item?id=42857532"
     ],
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=42857008"
     ],
     [
-      "Why old games magazines are a vital source of cultural history – and nostalgia",
+      "Old Games Magazines",
       "https://www.theguardian.com/games/2025/jan/28/video-game-history-foundation-digitised-archive-games-magazines"
     ]
   ],
@@ -77,6 +67,16 @@
     [
       "Instagram deals reveal Meta is offering TikTok creators as much as $300k to post",
       "https://www.businessinsider.com/instagram-paying-creators-exclusive-content-deals-reels-contract-details-2025-1"
+    ]
+  ],
+  [
+    [
+      "2025-01-28, 18:48:42",
+      "https://news.ycombinator.com/item?id=42856262"
+    ],
+    [
+      "Windows 7 boots slower if you set a solid background color",
+      "https://support.microsoft.com/en-gb/topic/the-welcome-screen-may-be-displayed-for-30-seconds-during-the-logon-process-after-you-set-a-solid-color-as-the-desktop-background-in-windows-7-or-in-windows-server-2008-r2-b4565ced-703a-cc85-bf9c-6b3d586d6421"
     ]
   ],
   [
@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2025-01-28, 15:26:52",
+      "https://news.ycombinator.com/item?id=42853405"
+    ],
+    [
+      "Hackers crack Subaru's connected services to access data, door locks and more",
+      "https://jalopnik.com/hackers-crack-subarus-connected-services-to-access-loca-1851746393"
+    ]
+  ],
+  [
+    [
       "2025-01-28, 15:09:52",
       "https://news.ycombinator.com/item?id=42853174"
     ],
@@ -161,21 +171,11 @@
   ],
   [
     [
-      "2025-01-28, 14:04:21",
-      "https://news.ycombinator.com/item?id=42852400"
-    ],
-    [
-      "Janus Pro 1B running 100% locally in-browser on WebGPU",
-      "https://old.reddit.com/r/LocalLLaMA/comments/1ibnso0/janus_pro_1b_running_100_locally_inbrowser_on/"
-    ]
-  ],
-  [
-    [
       "2025-01-28, 13:28:40",
       "https://news.ycombinator.com/item?id=42852048"
     ],
     [
-      "Show HN: Design/build of some elegant parametric speaker cabinets with OpenSCAD",
+      "Show HN: Design/build of some parametric speaker cabinets with OpenSCAD",
       "https://calbryant.uk/blog/speakers/"
     ]
   ],
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=42849632"
     ],
     [
-      "FTC Takes Action Against GoDaddy for Alleged Lax Data Security",
+      "FTC takes action against GoDaddy for alleged lax data security",
       "https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-takes-action-against-godaddy-alleged-lax-data-security-its-website-hosting-services"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=42816133"
     ],
     [
-      "Beautiful Free Math – Desmos Animated Graphing Calculator",
+      "Desmos Animated Graphing Calculator",
       "https://www.desmos.com/"
     ]
   ]
