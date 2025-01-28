@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-28](index.md)
 
 * [2025-01-28, 19:29:34](https://news.ycombinator.com/item?id=42856805) - [Instagram deals reveal Meta is offering TikTok creators as much as $300k to post](https://www.businessinsider.com/instagram-paying-creators-exclusive-content-deals-reels-contract-details-2025-1)
+* [2025-01-28, 19:24:41](https://news.ycombinator.com/item?id=42856752) - [Ask HN: Are YC startups *actually* hiring?](https://news.ycombinator.com/item?id=42856752)
 * [2025-01-28, 19:11:49](https://news.ycombinator.com/item?id=42856591) - [It is time to ban email](https://shkspr.mobi/blog/2025/01/it-is-time-to-ban-email/)
 * [2025-01-28, 18:45:50](https://news.ycombinator.com/item?id=42856220) - [POTUS Tracker – Executive Orders, Presidential Schedule, Signed Legislation](https://potustracker.us/)
 * [2025-01-28, 18:42:31](https://news.ycombinator.com/item?id=42856176) - [LinkedIn LinkedIn Removes Accounts of AI 'Co-Workers' Looking for Jobs](https://www.404media.co/linkedin-ai-coworkers-marketeam-open-to-work/)
