@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-28](index.md)
 
+* [2025-01-28, 14:44:06](https://news.ycombinator.com/item?id=42852866) - [DeepSeek: X2 Speed for WASM with SIMD](https://simonwillison.net/2025/Jan/27/llamacpp-pr/)
 * [2025-01-28, 14:20:12](https://news.ycombinator.com/item?id=42852563) - [Google Maps Will Rename Gulf of Mexico as Gulf of America in US](https://www.theguardian.com/technology/2025/jan/28/google-maps-will-rename-gulf-of-mexico-as-gulf-of-america-in-us)
 * [2025-01-28, 14:07:48](https://news.ycombinator.com/item?id=42852434) - [Introducing ChatGPT Gov](https://openai.com/global-affairs/introducing-chatgpt-gov/)
 * [2025-01-28, 14:04:21](https://news.ycombinator.com/item?id=42852400) - [Janus Pro 1B running 100% locally in-browser on WebGPU](https://old.reddit.com/r/LocalLLaMA/comments/1ibnso0/janus_pro_1b_running_100_locally_inbrowser_on/)
@@ -12,6 +13,7 @@
 * [2025-01-28, 13:50:40](https://news.ycombinator.com/item?id=42852256) - [Intel slashes prices of Xeon 6 CPUs by up to $5,340](https://www.tomshardware.com/pc-components/cpus/intel-quietly-slashes-prices-of-xeon-6-cpus-by-up-to-usd5-340)
 * [2025-01-28, 13:32:16](https://news.ycombinator.com/item?id=42852077) - [Boom Supersonic to break sound barrier during historic test flight today](https://www.space.com/space-exploration/tech/boom-supersonic-to-break-sound-barrier-during-historic-test-flight-today-watch-live)
 * [2025-01-28, 13:31:44](https://news.ycombinator.com/item?id=42852073) - [Osaka bans smoking on all of its streets, vaping included](https://soranews24.com/2025/01/28/osaka-bans-smoking-on-all-of-its-streets-violators-will-be-fined-by-patrols-vaping-included/)
+* [2025-01-28, 13:28:40](https://news.ycombinator.com/item?id=42852048) - [Show HN: Design/build of some elegant parametric speaker cabinets with OpenSCAD](https://calbryant.uk/blog/speakers/)
 * [2025-01-28, 13:04:05](https://news.ycombinator.com/item?id=42851839) - [HawkEye: A Simple license header checker and formatter in Rust](https://github.com/korandoru/hawkeye)
 * [2025-01-28, 12:47:15](https://news.ycombinator.com/item?id=42851699) - [DeepSeek could represent Nvidia CEO Jensen Huang's worst nightmare](https://www.marketwatch.com/story/deepseek-could-represent-nvidia-ceo-jensen-huangs-worst-nightmare-573b6d7e)
 * [2025-01-28, 12:35:23](https://news.ycombinator.com/item?id=42851607) - [AI, but at What Cost? Breakdown of AI's Carbon Footprint](https://loopbreaker.substack.com/p/ai-but-at-what-cost-breakdown-of)
