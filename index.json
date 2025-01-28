@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-28, 18:21:44",
+      "https://news.ycombinator.com/item?id=42855888"
+    ],
+    [
+      "New Apple CPU side-channel attacks steals data from browsers",
+      "https://www.bleepingcomputer.com/news/security/new-apple-cpu-side-channel-attack-steals-data-from-browsers/"
+    ]
+  ],
+  [
+    [
       "2025-01-28, 17:36:31",
       "https://news.ycombinator.com/item?id=42855283"
     ],
@@ -287,16 +297,6 @@
     [
       "Beautiful Free Math – Desmos Animated Graphing Calculator",
       "https://www.desmos.com/"
-    ]
-  ],
-  [
-    [
-      "2025-01-24, 07:10:25",
-      "https://news.ycombinator.com/item?id=42811146"
-    ],
-    [
-      "How we scaled Slack to support 1000s of developers",
-      "https://blog.railway.com/p/slack-overflow"
     ]
   ]
 ]
