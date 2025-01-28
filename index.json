@@ -1,42 +1,32 @@
 [
   [
     [
-      "2025-01-28, 13:53:32",
-      "https://news.ycombinator.com/item?id=42852286"
+      "2025-01-28, 13:32:16",
+      "https://news.ycombinator.com/item?id=42852077"
     ],
     [
-      "Portal – sell your freelance services with style",
-      "https://useportal.net/"
+      "Boom Supersonic to break sound barrier during historic test flight today",
+      "https://www.space.com/space-exploration/tech/boom-supersonic-to-break-sound-barrier-during-historic-test-flight-today-watch-live"
     ]
   ],
   [
     [
-      "2025-01-28, 13:50:40",
-      "https://news.ycombinator.com/item?id=42852256"
+      "2025-01-28, 13:04:05",
+      "https://news.ycombinator.com/item?id=42851839"
     ],
     [
-      "Intel slashes prices of Xeon 6 CPUs by up to $5,340",
-      "https://www.tomshardware.com/pc-components/cpus/intel-quietly-slashes-prices-of-xeon-6-cpus-by-up-to-usd5-340"
+      "HawkEye: A Simple license header checker and formatter in Rust",
+      "https://github.com/korandoru/hawkeye"
     ]
   ],
   [
     [
-      "2025-01-28, 13:31:44",
-      "https://news.ycombinator.com/item?id=42852073"
+      "2025-01-28, 12:20:44",
+      "https://news.ycombinator.com/item?id=42851519"
     ],
     [
-      "Osaka bans smoking on all of its streets, vaping included",
-      "https://soranews24.com/2025/01/28/osaka-bans-smoking-on-all-of-its-streets-violators-will-be-fined-by-patrols-vaping-included/"
-    ]
-  ],
-  [
-    [
-      "2025-01-28, 12:35:23",
-      "https://news.ycombinator.com/item?id=42851607"
-    ],
-    [
-      "AI, but at What Cost? Breakdown of AI's Carbon Footprint",
-      "https://loopbreaker.substack.com/p/ai-but-at-what-cost-breakdown-of"
+      "Public Access OpenVMS System",
+      "https://decuserve.org/"
     ]
   ],
   [
@@ -91,32 +81,12 @@
   ],
   [
     [
-      "2025-01-28, 08:31:53",
-      "https://news.ycombinator.com/item?id=42850111"
-    ],
-    [
-      "Reinforcement Learning – A Reference",
-      "https://jakubhalmes.substack.com/p/reinforcement-learning-a-reference"
-    ]
-  ],
-  [
-    [
       "2025-01-28, 07:02:57",
       "https://news.ycombinator.com/item?id=42849632"
     ],
     [
       "FTC Takes Action Against GoDaddy for Alleged Lax Data Security",
       "https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-takes-action-against-godaddy-alleged-lax-data-security-its-website-hosting-services"
-    ]
-  ],
-  [
-    [
-      "2025-01-28, 06:40:47",
-      "https://news.ycombinator.com/item?id=42849536"
-    ],
-    [
-      "Open-R1: an open reproduction of DeepSeek-R1",
-      "https://huggingface.co/blog/open-r1"
     ]
   ],
   [
@@ -161,16 +131,6 @@
   ],
   [
     [
-      "2025-01-27, 20:09:09",
-      "https://news.ycombinator.com/item?id=42845070"
-    ],
-    [
-      "Google open-sources the Pebble OS",
-      "https://opensource.googleblog.com/2025/01/see-code-that-powered-pebble-smartwatches.html"
-    ]
-  ],
-  [
-    [
       "2025-01-27, 19:21:55",
       "https://news.ycombinator.com/item?id=42844619"
     ],
@@ -191,12 +151,32 @@
   ],
   [
     [
+      "2025-01-27, 16:57:45",
+      "https://news.ycombinator.com/item?id=42843131"
+    ],
+    [
+      "DeepSeek releases Janus Pro, a text-to-image generator [pdf]",
+      "https://github.com/deepseek-ai/Janus/blob/main/janus_pro_tech_report.pdf"
+    ]
+  ],
+  [
+    [
       "2025-01-27, 12:44:39",
       "https://news.ycombinator.com/item?id=42840548"
     ],
     [
       "My failed attempt to shrink all NPM packages by 5%",
       "https://evanhahn.com/my-failed-attempt-to-shrink-all-npm-packages-by-5-percent/"
+    ]
+  ],
+  [
+    [
+      "2025-01-27, 12:18:35",
+      "https://news.ycombinator.com/item?id=42840352"
+    ],
+    [
+      "Oliver Heaviside and the theory of transmission lines (2021)",
+      "https://www.pa3fwm.nl/technotes/tn28-heaviside-transmission-lines.html"
     ]
   ],
   [
@@ -217,6 +197,26 @@
     [
       "Facebook ban on discussing Linux?",
       "https://distrowatch.com/weekly-mobile.php?issue=20250127#sitenews"
+    ]
+  ],
+  [
+    [
+      "2025-01-27, 08:56:16",
+      "https://news.ycombinator.com/item?id=42838875"
+    ],
+    [
+      "Show HN: I Made an iOS Podcast Player with Racket",
+      "https://defn.io/2024/11/16/podcatcher/"
+    ]
+  ],
+  [
+    [
+      "2025-01-26, 18:51:31",
+      "https://news.ycombinator.com/item?id=42832742"
+    ],
+    [
+      "Human corpses keep moving for over a year after death, scientist says (2019)",
+      "https://www.newsweek.com/human-corpse-year-burial-scientist-1459113"
     ]
   ],
   [
