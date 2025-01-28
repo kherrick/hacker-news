@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-28](index.md)
 
+* [2025-01-28, 15:23:28](https://news.ycombinator.com/item?id=42853362) - [DeepSeek censorship: 1984 \"rectifying\" in real time](https://old.reddit.com/r/OpenAI/comments/1ic3kl6/deepseek_censorship_1984_rectifying_in_real_time/)
 * [2025-01-28, 14:44:06](https://news.ycombinator.com/item?id=42852866) - [DeepSeek: X2 Speed for WASM with SIMD](https://simonwillison.net/2025/Jan/27/llamacpp-pr/)
 * [2025-01-28, 14:20:12](https://news.ycombinator.com/item?id=42852563) - [Google Maps Will Rename Gulf of Mexico as Gulf of America in US](https://www.theguardian.com/technology/2025/jan/28/google-maps-will-rename-gulf-of-mexico-as-gulf-of-america-in-us)
 * [2025-01-28, 14:07:48](https://news.ycombinator.com/item?id=42852434) - [Introducing ChatGPT Gov](https://openai.com/global-affairs/introducing-chatgpt-gov/)
@@ -11,6 +12,7 @@
 * [2025-01-28, 14:00:43](https://news.ycombinator.com/item?id=42852368) - [Ask HN: To LinkedIn Am I Just Collateral Damage of a Barely Functioning System](https://news.ycombinator.com/item?id=42852368)
 * [2025-01-28, 13:53:32](https://news.ycombinator.com/item?id=42852286) - [Portal – sell your freelance services with style](https://useportal.net/)
 * [2025-01-28, 13:50:40](https://news.ycombinator.com/item?id=42852256) - [Intel slashes prices of Xeon 6 CPUs by up to $5,340](https://www.tomshardware.com/pc-components/cpus/intel-quietly-slashes-prices-of-xeon-6-cpus-by-up-to-usd5-340)
+* [2025-01-28, 13:36:52](https://news.ycombinator.com/item?id=42852121) - [Black Swan's Taleb Says Nvidia Rout Is Hint of What's Coming](https://www.bloomberg.com/news/articles/2025-01-28/black-swan-s-taleb-warns-nvidia-rout-is-hint-of-what-s-to-come)
 * [2025-01-28, 13:32:16](https://news.ycombinator.com/item?id=42852077) - [Boom Supersonic to break sound barrier during historic test flight today](https://www.space.com/space-exploration/tech/boom-supersonic-to-break-sound-barrier-during-historic-test-flight-today-watch-live)
 * [2025-01-28, 13:31:44](https://news.ycombinator.com/item?id=42852073) - [Osaka bans smoking on all of its streets, vaping included](https://soranews24.com/2025/01/28/osaka-bans-smoking-on-all-of-its-streets-violators-will-be-fined-by-patrols-vaping-included/)
 * [2025-01-28, 13:28:40](https://news.ycombinator.com/item?id=42852048) - [Show HN: Design/build of some elegant parametric speaker cabinets with OpenSCAD](https://calbryant.uk/blog/speakers/)
