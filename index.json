@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=42856023"
     ],
     [
-      "New Speculative Attacks on Apple CPUs",
+      "New speculative attacks on Apple CPUs",
       "https://predictors.fail/"
     ]
   ],
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=42855258"
     ],
     [
-      "Using UV as Your Shebang Line",
+      "Using uv as your shebang line",
       "https://akrabat.com/using-uv-as-your-shebang-line/"
     ]
   ],
@@ -61,21 +61,11 @@
   ],
   [
     [
-      "2025-01-28, 16:48:58",
-      "https://news.ycombinator.com/item?id=42854525"
-    ],
-    [
-      "Sam Altman said startups with $10M were 'hopeless' competing with OpenAI",
-      "https://www.tomshardware.com/tech-industry/artificial-intelligence/sam-altman-said-startups-with-only-usd10-million-were-totally-hopeless-competing-with-openai-deepseeks-disruption-says-otherwise"
-    ]
-  ],
-  [
-    [
       "2025-01-28, 15:55:22",
       "https://news.ycombinator.com/item?id=42853741"
     ],
     [
-      "Qwen2.5-Max: Exploring the Intelligence of Large-Scale Moe Model",
+      "Qwen2.5-Max: Exploring the intelligence of large-scale MoE model",
       "https://qwenlm.github.io/blog/qwen2.5-max/"
     ]
   ],
@@ -135,7 +125,7 @@
       "https://news.ycombinator.com/item?id=42852866"
     ],
     [
-      "DeepSeek: X2 Speed for WASM with SIMD",
+      "Promising results from DeepSeek R1 for code",
       "https://simonwillison.net/2025/Jan/27/llamacpp-pr/"
     ]
   ],
@@ -207,6 +197,16 @@
     [
       "Machine Learning in Production (CMU Course)",
       "https://mlip-cmu.github.io/s2025/"
+    ]
+  ],
+  [
+    [
+      "2025-01-27, 20:33:43",
+      "https://news.ycombinator.com/item?id=42845323"
+    ],
+    [
+      "Go 1.24's go tool is one of the best additions to the ecosystem in years",
+      "https://www.jvt.me/posts/2025/01/27/go-tools-124/"
     ]
   ],
   [
