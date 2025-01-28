@@ -53,6 +53,7 @@
 * [2025-01-26, 09:42:13](https://news.ycombinator.com/item?id=42829034) - [Using AI for Coding: My Journey with Cline and Large Language Models](https://pgaleone.eu/ai/coding/2025/01/26/using-ai-for-coding-my-experience/)
 * [2025-01-26, 09:33:47](https://news.ycombinator.com/item?id=42828997) - [Two Programming-with-AI Approaches](https://everything.intellectronica.net/p/two-programming-with-ai-approaches)
 * [2025-01-26, 08:57:51](https://news.ycombinator.com/item?id=42828833) - [Show HN: Bagels – TUI Expense Tracker](https://github.com/EnhancedJax/Bagels)
+* [2025-01-26, 08:32:08](https://news.ycombinator.com/item?id=42828720) - [Turning the Database Inside-Out](https://martin.kleppmann.com/2015/11/05/database-inside-out-at-oredev.html)
 * [2025-01-26, 07:02:13](https://news.ycombinator.com/item?id=42828294) - [SigNoz (YC W21) Is hiring back end engineers to build open-source Datadog](https://www.linkedin.com/posts/pranay01_inviting-backend-engineers-interested-activity-7275015683980075008-CzV9)
 * [2025-01-26, 06:37:12](https://news.ycombinator.com/item?id=42828198) - [YC Graveyard: 821 inactive Y Combinator startups](https://ycgraveyard.iamwillwang.com/)
 * [2025-01-26, 06:23:27](https://news.ycombinator.com/item?id=42828157) - [Did a Private Equity Fire Truck Roll-Up Worsen the L.A. Fires?](https://www.thebignewsletter.com/p/did-a-private-equity-fire-truck-roll)
