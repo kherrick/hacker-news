@@ -29,6 +29,7 @@
 * [2025-01-24, 18:52:52](https://news.ycombinator.com/item?id=42815995) - [Ask HN: How to produce a 3D scan of a car from a mobile phone?](https://news.ycombinator.com/item?id=42815995)
 * [2025-01-24, 18:49:10](https://news.ycombinator.com/item?id=42815956) - [How is [my new] Type Predicate Generator different?](https://github.com/peter-leonov/type-predicate-generator/blob/main/compare.md)
 * [2025-01-24, 18:19:35](https://news.ycombinator.com/item?id=42815755) - [Anatomy of a Formal Proof](https://www.ams.org/journals/notices/202502/noti3114/noti3114.html)
+* [2025-01-24, 18:11:25](https://news.ycombinator.com/item?id=42815697) - [The Vikings also used crampons to avoid slipping on ice](https://www.sciencenorway.no/ice-viking-age-winter/the-vikings-also-used-crampons-to-avoid-slipping-on-ice/2456603)
 * [2025-01-24, 18:08:14](https://news.ycombinator.com/item?id=42815673) - [Show HN: Using aerospace projects to teach maths [video]](https://www.youtube.com/watch?v=yJ-ovZGp-D0)
 * [2025-01-24, 17:38:11](https://news.ycombinator.com/item?id=42815454) - [Peanut Butter Day: Going Nuts over NIST's Standard Reference Peanut Butter](https://www.nist.gov/blogs/taking-measure/going-nuts-over-nists-standard-reference-peanut-butter)
 * [2025-01-24, 17:21:44](https://news.ycombinator.com/item?id=42815288) - [Subpixel Snake](https://www.youtube.com/watch?v=iDwganLjpW0)
