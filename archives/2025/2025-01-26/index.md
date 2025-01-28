@@ -56,6 +56,7 @@
 * [2025-01-26, 11:03:50](https://news.ycombinator.com/item?id=42829315) - [Keycloak, Angular, and the BFF Pattern](https://blog.brakmic.com/keycloak-angular-and-the-bff-pattern/)
 * [2025-01-26, 11:02:59](https://news.ycombinator.com/item?id=42829309) - [Show HN: Orange intelligence, an open source alternative to Apple Intelligence](https://github.com/sharingan-no-kakashi/orange-intelligence)
 * [2025-01-26, 10:51:43](https://news.ycombinator.com/item?id=42829279) - [Paxo: A DIY Phone](https://paxo.fr/)
+* [2025-01-26, 09:47:13](https://news.ycombinator.com/item?id=42829050) - [The Untold History of Toontown's SpeedChat](http://habitatchronicles.com/2007/03/the-untold-history-of-toontowns-speedchat-or-blockchattm-from-disney-finally-arrives/)
 * [2025-01-26, 09:42:13](https://news.ycombinator.com/item?id=42829034) - [Using AI for Coding: My Journey with Cline and Large Language Models](https://pgaleone.eu/ai/coding/2025/01/26/using-ai-for-coding-my-experience/)
 * [2025-01-26, 09:33:47](https://news.ycombinator.com/item?id=42828997) - [Two Programming-with-AI Approaches](https://everything.intellectronica.net/p/two-programming-with-ai-approaches)
 * [2025-01-26, 09:28:03](https://news.ycombinator.com/item?id=42828966) - [Swede dreams: How Sweden is embracing its sleepy side](https://www.bbc.com/travel/article/20250113-how-sweden-is-embracing-its-sleepy-side)

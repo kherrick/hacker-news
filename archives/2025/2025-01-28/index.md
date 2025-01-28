@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-01-28](index.md)
 
+* [2025-01-28, 21:37:27](https://news.ycombinator.com/item?id=42858386) - [CA, NY Attorneys General sue to resume federal funding of Medicaid, FEMA, PEPFAR](https://oag.ca.gov/news/press-releases/attorney-general-bonta-files-lawsuit-seeks-immediate-court-order-block-sweeping)
 * [2025-01-28, 21:16:46](https://news.ycombinator.com/item?id=42858134) - [Next Asteroid Predicted to Hit Earth: 2024 YR4 and Other Dangerous Asteroids](https://starwalk.space/en/news/should-you-worry-about-an-asteroid-hitting-earth)
+* [2025-01-28, 21:09:40](https://news.ycombinator.com/item?id=42858051) - [Slicing the Fourth](https://axalatar.github.io/slicing-the-fourth/)
 * [2025-01-28, 21:01:03](https://news.ycombinator.com/item?id=42857929) - [SciPhi (YC W24) Is Hiring](https://www.ycombinator.com/companies/sciphi/jobs/CVYWWpl-founding-ai-research-engineer)
 * [2025-01-28, 20:41:50](https://news.ycombinator.com/item?id=42857681) - [Someone at Activision is leaking Slack screenshots to right-wing X users](https://www.gamedeveloper.com/business/it-looks-like-someone-at-activision-is-leaking-slack-screenshots-to-right-wing-x-users)
 * [2025-01-28, 20:35:06](https://news.ycombinator.com/item?id=42857604) - [Show HN: DeepSeek Your HN Profile](https://hn-wrapped.kadoa.com/)
