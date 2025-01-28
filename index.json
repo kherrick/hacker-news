@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-28, 17:36:31",
+      "https://news.ycombinator.com/item?id=42855283"
+    ],
+    [
+      "Berkeley Researchers Replicate DeepSeek R1's Core Tech for Just $30: A Small Mod",
+      "https://xyzlabs.substack.com/p/berkeley-researchers-replicate-deepseek"
+    ]
+  ],
+  [
+    [
+      "2025-01-28, 17:29:07",
+      "https://news.ycombinator.com/item?id=42855170"
+    ],
+    [
+      "Has DeepSeek improved the Transformer architecture",
+      "https://epoch.ai/gradient-updates/how-has-deepseek-improved-the-transformer-architecture"
+    ]
+  ],
+  [
+    [
       "2025-01-28, 17:00:58",
       "https://news.ycombinator.com/item?id=42854706"
     ],
@@ -41,16 +61,6 @@
   ],
   [
     [
-      "2025-01-28, 15:46:53",
-      "https://news.ycombinator.com/item?id=42853633"
-    ],
-    [
-      "XB-1 First Supersonic Flight [video]",
-      "https://www.youtube.com/watch?v=-qisIViAHwI"
-    ]
-  ],
-  [
-    [
       "2025-01-28, 15:45:25",
       "https://news.ycombinator.com/item?id=42853617"
     ],
@@ -67,6 +77,16 @@
     [
       "Maxima in the browser using Embedded Common Lisp on WASM",
       "https://maxima-on-wasm.pages.dev/"
+    ]
+  ],
+  [
+    [
+      "2025-01-28, 15:26:52",
+      "https://news.ycombinator.com/item?id=42853405"
+    ],
+    [
+      "Hackers Crack Subaru's Connected Services to Access Data, Door Locks and More",
+      "https://jalopnik.com/hackers-crack-subarus-connected-services-to-access-loca-1851746393"
     ]
   ],
   [
@@ -247,26 +267,6 @@
     [
       "BrainFlood: Runtime code generation via reflection in .NET",
       "https://sbox.game/churchofmiku/brainflood/news/brainflood-compiling-via-reflection-8089c180"
-    ]
-  ],
-  [
-    [
-      "2025-01-26, 07:36:04",
-      "https://news.ycombinator.com/item?id=42828459"
-    ],
-    [
-      "Show HN: Browse Anime from the Terminal",
-      "https://github.com/Benexl/FastAnime"
-    ]
-  ],
-  [
-    [
-      "2025-01-24, 20:12:45",
-      "https://news.ycombinator.com/item?id=42816511"
-    ],
-    [
-      "IOC long shot Watanabe hopes 'crazy' Olympic idea sparks debate",
-      "https://www.japantimes.co.jp/olympics/2025/01/14/ioc-watanabe-debate/"
     ]
   ],
   [
