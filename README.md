@@ -2,7 +2,6 @@
 
 * [2025-01-28, 01:23:45](https://news.ycombinator.com/item?id=42847865) - [A 20-Year-Old Small Company](https://hacklook.com/posts/20250128-20years/)
 * [2025-01-28, 01:18:55](https://news.ycombinator.com/item?id=42847834) - [Machine Learning in Production (CMU Course)](https://mlip-cmu.github.io/s2025/)
-* [2025-01-27, 21:37:59](https://news.ycombinator.com/item?id=42845933) - [I trusted an LLM, now I'm on day 4 of an afternoon project](https://nemo.foo/blog/day-4-of-an-afternoon-project)
 * [2025-01-27, 20:51:28](https://news.ycombinator.com/item?id=42845488) - [The Illustrated DeepSeek-R1](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1)
 * [2025-01-27, 20:33:43](https://news.ycombinator.com/item?id=42845323) - [Go 1.24's go tool is one of the best additions to the ecosystem in years](https://www.jvt.me/posts/2025/01/27/go-tools-124/)
 * [2025-01-27, 20:11:19](https://news.ycombinator.com/item?id=42845091) - [We're bringing Pebble back](https://repebble.com/)
@@ -27,6 +26,7 @@
 * [2025-01-26, 09:42:13](https://news.ycombinator.com/item?id=42829034) - [Using AI for Coding: My Journey with Cline and LLMs](https://pgaleone.eu/ai/coding/2025/01/26/using-ai-for-coding-my-experience/)
 * [2025-01-26, 08:32:08](https://news.ycombinator.com/item?id=42828720) - [Turning the Database Inside-Out](https://martin.kleppmann.com/2015/11/05/database-inside-out-at-oredev.html)
 * [2025-01-24, 18:11:25](https://news.ycombinator.com/item?id=42815697) - [The Vikings also used crampons to avoid slipping on ice](https://www.sciencenorway.no/ice-viking-age-winter/the-vikings-also-used-crampons-to-avoid-slipping-on-ice/2456603)
+* [2025-01-24, 16:53:45](https://news.ycombinator.com/item?id=42814982) - [Undiagnosed Cognitive Decline Eats into Seniors' Retirement Savings](https://www.wsj.com/personal-finance/retirement/cognitive-decline-retirement-savings-4672b604)
 * [2025-01-24, 11:29:28](https://news.ycombinator.com/item?id=42812157) - [Dragonsweeper — A minesweeper game that requires observation](https://danielben.itch.io/dragonsweeper)
 * [2025-01-24, 07:10:25](https://news.ycombinator.com/item?id=42811146) - [How we scaled Slack to support 1000s of developers](https://blog.railway.com/p/slack-overflow)
 * [2025-01-23, 19:49:59](https://news.ycombinator.com/item?id=42807387) - [A Faster Quantum Fourier Transform](https://arxiv.org/abs/2501.12414)

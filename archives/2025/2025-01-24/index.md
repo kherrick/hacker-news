@@ -35,6 +35,7 @@
 * [2025-01-24, 17:21:44](https://news.ycombinator.com/item?id=42815288) - [Subpixel Snake](https://www.youtube.com/watch?v=iDwganLjpW0)
 * [2025-01-24, 17:00:37](https://news.ycombinator.com/item?id=42815073) - [Converge (YC S23) Is Hiring Founding Engineer #2 in NYC](https://jobs.gem.com/converge/am9icG9zdDreA6I3WJ4ZJ1Yx_WHS5zKP)
 * [2025-01-24, 16:57:58](https://news.ycombinator.com/item?id=42815033) - [It's Called a Premortem–and It's the Most Productive Thing You'll Do All Year](https://www.wsj.com/arts-culture/books/new-years-resolutions-ron-shaich-cava-panera-c0fb7922)
+* [2025-01-24, 16:53:45](https://news.ycombinator.com/item?id=42814982) - [Undiagnosed Cognitive Decline Eats into Seniors' Retirement Savings](https://www.wsj.com/personal-finance/retirement/cognitive-decline-retirement-savings-4672b604)
 * [2025-01-24, 16:51:16](https://news.ycombinator.com/item?id=42814948) - [A WebAssembly compiler that fits in a tweet](https://wasmgroundup.com/blog/wasm-compiler-in-a-tweet/)
 * [2025-01-24, 16:40:11](https://news.ycombinator.com/item?id=42814820) - [Snowdrop OS – a homebrew operating system from scratch, in assembly language](http://sebastianmihai.com/snowdrop/)
 * [2025-01-24, 16:25:53](https://news.ycombinator.com/item?id=42814683) - [Wild – A Fast Linker for Linux](https://github.com/davidlattimore/wild)
