@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-28, 15:51:26",
+      "https://news.ycombinator.com/item?id=42853696"
+    ],
+    [
+      "Bitwarden introduces mandatory 2FA for new devices",
+      "https://bitwarden.com/help/new-device-verification/"
+    ]
+  ],
+  [
+    [
+      "2025-01-28, 15:46:53",
+      "https://news.ycombinator.com/item?id=42853633"
+    ],
+    [
+      "XB-1 First Supersonic Flight [video]",
+      "https://www.youtube.com/watch?v=-qisIViAHwI"
+    ]
+  ],
+  [
+    [
       "2025-01-28, 15:45:25",
       "https://news.ycombinator.com/item?id=42853617"
     ],
@@ -17,6 +37,16 @@
     [
       "Maxima in the browser using Embedded Common Lisp on WASM",
       "https://maxima-on-wasm.pages.dev/"
+    ]
+  ],
+  [
+    [
+      "2025-01-28, 15:26:52",
+      "https://news.ycombinator.com/item?id=42853405"
+    ],
+    [
+      "Hackers Crack Subaru's Connected Services to Access Data, Door Locks and More",
+      "https://jalopnik.com/hackers-crack-subarus-connected-services-to-access-loca-1851746393"
     ]
   ],
   [
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2025-01-28, 11:17:54",
-      "https://news.ycombinator.com/item?id=42851124"
-    ],
-    [
-      "Cleveland police used AI to justify a search warrant. It derailed a murder case",
-      "https://www.cleveland.com/news/2025/01/cleveland-police-used-ai-to-justify-a-search-warrant-it-has-derailed-a-murder-case.html"
-    ]
-  ],
-  [
-    [
       "2025-01-28, 08:52:47",
       "https://news.ycombinator.com/item?id=42850222"
     ],
@@ -147,16 +167,6 @@
     [
       "Machine Learning in Production (CMU Course)",
       "https://mlip-cmu.github.io/s2025/"
-    ]
-  ],
-  [
-    [
-      "2025-01-27, 20:51:28",
-      "https://news.ycombinator.com/item?id=42845488"
-    ],
-    [
-      "The Illustrated DeepSeek-R1",
-      "https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "The Taylorator – All Your Frequencies Are Belong to Us",
       "https://www.scd31.com/posts/taylorator"
-    ]
-  ],
-  [
-    [
-      "2025-01-27, 16:57:45",
-      "https://news.ycombinator.com/item?id=42843131"
-    ],
-    [
-      "DeepSeek releases Janus Pro, a text-to-image generator [pdf]",
-      "https://github.com/deepseek-ai/Janus/blob/main/janus_pro_tech_report.pdf"
     ]
   ],
   [
