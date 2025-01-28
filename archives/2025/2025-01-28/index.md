@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-01-28](index.md)
 
+* [2025-01-28, 13:53:32](https://news.ycombinator.com/item?id=42852286) - [Portal – sell your freelance services with style](https://useportal.net/)
 * [2025-01-28, 13:50:40](https://news.ycombinator.com/item?id=42852256) - [Intel slashes prices of Xeon 6 CPUs by up to $5,340](https://www.tomshardware.com/pc-components/cpus/intel-quietly-slashes-prices-of-xeon-6-cpus-by-up-to-usd5-340)
+* [2025-01-28, 13:31:44](https://news.ycombinator.com/item?id=42852073) - [Osaka bans smoking on all of its streets, vaping included](https://soranews24.com/2025/01/28/osaka-bans-smoking-on-all-of-its-streets-violators-will-be-fined-by-patrols-vaping-included/)
 * [2025-01-28, 12:47:15](https://news.ycombinator.com/item?id=42851699) - [DeepSeek could represent Nvidia CEO Jensen Huang's worst nightmare](https://www.marketwatch.com/story/deepseek-could-represent-nvidia-ceo-jensen-huangs-worst-nightmare-573b6d7e)
 * [2025-01-28, 12:35:23](https://news.ycombinator.com/item?id=42851607) - [AI, but at What Cost? Breakdown of AI's Carbon Footprint](https://loopbreaker.substack.com/p/ai-but-at-what-cost-breakdown-of)
 * [2025-01-28, 12:00:20](https://news.ycombinator.com/item?id=42851379) - [Structured (YC S23) Is Hiring](https://www.ycombinator.com/companies/structured/jobs/QsFSDNJ-founding-engineer)
@@ -16,6 +18,7 @@
 * [2025-01-28, 08:43:39](https://news.ycombinator.com/item?id=42850177) - [Show HN: I Created a Pomodoro Timer](https://25min.work)
 * [2025-01-28, 08:31:53](https://news.ycombinator.com/item?id=42850111) - [Reinforcement Learning – A Reference](https://jakubhalmes.substack.com/p/reinforcement-learning-a-reference)
 * [2025-01-28, 07:57:50](https://news.ycombinator.com/item?id=42849935) - [Google Maps in the US Will Change to Gulf of America and Mount McKinley](https://www.theverge.com/2025/1/27/24353450/google-maps-rename-gulf-of-mexico-america-mt-mckinley)
+* [2025-01-28, 07:02:57](https://news.ycombinator.com/item?id=42849632) - [FTC Takes Action Against GoDaddy for Alleged Lax Data Security](https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-takes-action-against-godaddy-alleged-lax-data-security-its-website-hosting-services)
 * [2025-01-28, 06:56:44](https://news.ycombinator.com/item?id=42849604) - [Google Maps to Rename 'Gulf of Mexico' to 'Gulf of America'](https://thehill.com/policy/technology/5109912-google-maps-to-rename-gulf-of-mexico-to-gulf-of-america/)
 * [2025-01-28, 06:40:47](https://news.ycombinator.com/item?id=42849536) - [Open-R1: an open reproduction of DeepSeek-R1](https://huggingface.co/blog/open-r1)
 * [2025-01-28, 06:05:20](https://news.ycombinator.com/item?id=42849341) - [How Communism Is Outcompeting Capitalism](https://indi.ca/how-communism-is-obviously-outcompeting-capitalism/)
