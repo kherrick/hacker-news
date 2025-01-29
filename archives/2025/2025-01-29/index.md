@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-29](index.md)
 
+* [2025-01-29, 18:57:43](https://news.ycombinator.com/item?id=42869464) - [White House rescinds federal aid freeze](https://www.cnn.com/2025/01/29/politics/white-house-rescind-federal-funding-freeze/index.html)
 * [2025-01-29, 18:20:49](https://news.ycombinator.com/item?id=42868942) - [Nvidia Shares Resume Fall](https://www.ft.com/content/68912f4f-c3a6-4ef7-9ca9-4f92a92600a3)
 * [2025-01-29, 18:09:19](https://news.ycombinator.com/item?id=42868770) - [A minimal PyTorch implementation for training your own small LLM from scratch](https://github.com/Om-Alve/smolGPT)
 * [2025-01-29, 18:06:02](https://news.ycombinator.com/item?id=42868718) - [Adding Iodine to Salt Boosted Americans' IQ (2013)](https://www.discovermagazine.com/health/how-adding-iodine-to-salt-boosted-americans-iq)
