@@ -1,22 +1,42 @@
 [
   [
     [
-      "2025-01-28, 23:35:58",
-      "https://news.ycombinator.com/item?id=42859580"
+      "2025-01-29, 00:53:30",
+      "https://news.ycombinator.com/item?id=42860128"
     ],
     [
-      "How Google determines the names for bodies of water in Google Earth (2008)",
-      "https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html"
+      "Discovery Coding",
+      "https://jimmyhmiller.github.io/discovery-coding"
     ]
   ],
   [
     [
-      "2025-01-28, 23:15:06",
-      "https://news.ycombinator.com/item?id=42859421"
+      "2025-01-29, 00:51:25",
+      "https://news.ycombinator.com/item?id=42860113"
     ],
     [
-      "Freeze on grant funding temporarily halted by federal judge",
-      "https://www.bloomberg.com/news/articles/2025-01-28/trump-s-freeze-on-grant-funding-temporarily-halted-by-judge"
+      "Goodbye, Slopify",
+      "https://alexeystar.com/blog/slopify/"
+    ]
+  ],
+  [
+    [
+      "2025-01-29, 00:20:15",
+      "https://news.ycombinator.com/item?id=42859909"
+    ],
+    [
+      "DeepSeek's AI breakthrough bypasses industry-standard CUDA, uses PTX",
+      "https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseeks-ai-breakthrough-bypasses-industry-standard-cuda-uses-assembly-like-ptx-programming-instead"
+    ]
+  ],
+  [
+    [
+      "2025-01-29, 00:01:29",
+      "https://news.ycombinator.com/item?id=42859771"
+    ],
+    [
+      "I want my AI to get mad",
+      "https://jesseduffield.com/Angry-AI/"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "DeepSeek's multi-head latent attention and other KV cache tricks",
       "https://www.pyspur.dev/blog/multi-head-latent-attention-kv-cache-paper-list"
-    ]
-  ],
-  [
-    [
-      "2025-01-28, 21:54:36",
-      "https://news.ycombinator.com/item?id=42858552"
-    ],
-    [
-      "Questions censored by DeepSeek",
-      "https://www.promptfoo.dev/blog/deepseek-censorship/"
     ]
   ],
   [
@@ -91,32 +101,12 @@
   ],
   [
     [
-      "2025-01-28, 19:53:52",
-      "https://news.ycombinator.com/item?id=42857106"
-    ],
-    [
-      "Svelte 5 and the Future of Frameworks: A Chat with Rich Harris",
-      "https://www.smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/"
-    ]
-  ],
-  [
-    [
       "2025-01-28, 19:52:39",
       "https://news.ycombinator.com/item?id=42857091"
     ],
     [
       "Machine learning and nano-3D printing produce nano-architected materials",
       "https://news.engineering.utoronto.ca/strong-as-steel-light-as-foam-machine-learning-and-nano-3d-printing-produce-breakthrough-high-performance-nano-architected-materials/"
-    ]
-  ],
-  [
-    [
-      "2025-01-28, 19:46:45",
-      "https://news.ycombinator.com/item?id=42857008"
-    ],
-    [
-      "Old Games Magazines",
-      "https://www.theguardian.com/games/2025/jan/28/video-game-history-foundation-digitised-archive-games-magazines"
     ]
   ],
   [
@@ -221,6 +211,26 @@
   ],
   [
     [
+      "2025-01-27, 20:11:19",
+      "https://news.ycombinator.com/item?id=42845091"
+    ],
+    [
+      "We're bringing Pebble back",
+      "https://repebble.com/"
+    ]
+  ],
+  [
+    [
+      "2025-01-26, 18:29:18",
+      "https://news.ycombinator.com/item?id=42832482"
+    ],
+    [
+      "Two Bites of Data Science in K",
+      "https://blog.zdsmith.com/posts/two-bites-of-data-science-in-k.html"
+    ]
+  ],
+  [
+    [
       "2025-01-26, 12:28:40",
       "https://news.ycombinator.com/item?id=42829674"
     ],
@@ -247,16 +257,6 @@
     [
       "Watch the path of a raindrop from anywhere in the world",
       "https://river-runner-global.samlearner.com/"
-    ]
-  ],
-  [
-    [
-      "2025-01-26, 11:03:50",
-      "https://news.ycombinator.com/item?id=42829315"
-    ],
-    [
-      "Keycloak, Angular, and the BFF Pattern",
-      "https://blog.brakmic.com/keycloak-angular-and-the-bff-pattern/"
     ]
   ],
   [
