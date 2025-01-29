@@ -42,6 +42,7 @@
 * [2025-01-28, 17:12:15](https://news.ycombinator.com/item?id=42854887) - [A new ability to pinpoint sources of fast radio bursts](https://news.berkeley.edu/2025/01/21/astronomers-thought-they-understood-fast-radio-bursts-a-recent-one-calls-that-into-question/)
 * [2025-01-28, 17:00:58](https://news.ycombinator.com/item?id=42854706) - [Curo (YC F24) Is Hiring](https://www.ycombinator.com/companies/curo/jobs/s7a36qb-associate-marketplace-supply)
 * [2025-01-28, 16:48:58](https://news.ycombinator.com/item?id=42854525) - [Sam Altman said startups with $10M were 'hopeless' competing with OpenAI](https://www.tomshardware.com/tech-industry/artificial-intelligence/sam-altman-said-startups-with-only-usd10-million-were-totally-hopeless-competing-with-openai-deepseeks-disruption-says-otherwise)
+* [2025-01-28, 16:33:32](https://news.ycombinator.com/item?id=42854291) - [Building a T1D smartwatch for my son from scratch](https://andrewchilds.com/posts/building-a-t1d-smartwatch-from-scratch)
 * [2025-01-28, 15:55:22](https://news.ycombinator.com/item?id=42853741) - [Qwen2.5-Max: Exploring the Intelligence of Large-Scale Moe Model](https://qwenlm.github.io/blog/qwen2.5-max/)
 * [2025-01-28, 15:51:26](https://news.ycombinator.com/item?id=42853696) - [Bitwarden introduces mandatory 2FA for new devices](https://bitwarden.com/help/new-device-verification/)
 * [2025-01-28, 15:46:53](https://news.ycombinator.com/item?id=42853633) - [XB-1 First Supersonic Flight [video]](https://www.youtube.com/watch?v=-qisIViAHwI)

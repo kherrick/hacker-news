@@ -9,6 +9,7 @@
 * [2025-01-26, 22:45:24](https://news.ycombinator.com/item?id=42834999) - [The 'no. 8 wire' tradition in New Zealand](https://teara.govt.nz/en/inventions-patents-and-trademarks/page-1)
 * [2025-01-26, 22:39:54](https://news.ycombinator.com/item?id=42834953) - [Hyperbound (YC S23) Is Hiring Founding Full-Cycle AES in SF](https://www.ycombinator.com/companies/hyperbound/jobs/c3NkW7d-founding-full-cycle-account-executive-in-sf)
 * [2025-01-26, 22:34:06](https://news.ycombinator.com/item?id=42834911) - [Mark Zuckerberg: This Man Is a Coward](https://www.theindex.media/this-man-is-a-coward/)
+* [2025-01-26, 22:13:00](https://news.ycombinator.com/item?id=42834739) - [Think your dog can understand words? This scientist says you might be right](https://www.cbc.ca/radio/thecurrent/dogs-understanding-words-new-research-1.7326495)
 * [2025-01-26, 22:03:39](https://news.ycombinator.com/item?id=42834648) - [Show HN: DeepSeek My User Agent](https://www.jasonthorsness.com/20)
 * [2025-01-26, 22:02:14](https://news.ycombinator.com/item?id=42834634) - [Astronomers seek global ban on space advertising](https://spacenews.com/astronomers-seek-global-ban-on-space-advertising/)
 * [2025-01-26, 21:40:35](https://news.ycombinator.com/item?id=42834432) - [Brazil bans Sam Altman's tech firm Tools for Humanity from paying for iris scans](https://economictimes.indiatimes.com/tech/technology/brazil-bans-sam-altmans-tech-firm-tools-for-humanity-from-paying-for-iris-scans/articleshow/117540826.cms?from=mdr)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-29](index.md)
 
+* [2025-01-29, 19:45:05](https://news.ycombinator.com/item?id=42870144) - [Groups helping Americans find abortion pills report Instagram 'shadow-banning'](https://www.theguardian.com/world/2025/jan/29/abortion-pills-instagram-shadow-banning)
 * [2025-01-29, 19:38:18](https://news.ycombinator.com/item?id=42870056) - [Waymo to test its autonomous driving technology in over 10 new cities](https://www.reuters.com/business/autos-transportation/alphabets-waymo-test-its-autonomous-driving-technology-over-10-new-cities-2025-01-29/)
 * [2025-01-29, 19:25:16](https://news.ycombinator.com/item?id=42869865) - [Ask HN: Are there \"story-based\" and \"fact-based\" people?](https://news.ycombinator.com/item?id=42869865)
 * [2025-01-29, 19:14:36](https://news.ycombinator.com/item?id=42869700) - ['Headed for technofascism': the rightwing roots of Silicon Valley](https://www.theguardian.com/technology/ng-interactive/2025/jan/29/silicon-valley-rightwing-technofascism)
@@ -21,6 +22,7 @@
 * [2025-01-29, 17:04:52](https://news.ycombinator.com/item?id=42867764) - [How to run DeepSeek R1 locally](https://workos.com/blog/how-to-run-deepseek-r1-locally)
 * [2025-01-29, 17:00:50](https://news.ycombinator.com/item?id=42867708) - [Frigade (YC W23) is hiring engineer #2](https://www.ycombinator.com/companies/frigade/jobs/KUwAluN-senior-full-stack-engineer)
 * [2025-01-29, 16:40:19](https://news.ycombinator.com/item?id=42867324) - [Society for Technical Communication to permanently close its doors](https://www.stc.org/)
+* [2025-01-29, 16:26:07](https://news.ycombinator.com/item?id=42867050) - [Show HN: Mcp-Agent – Build effective agents with Model Context Protocol](https://github.com/lastmile-ai/mcp-agent)
 * [2025-01-29, 16:19:10](https://news.ycombinator.com/item?id=42866905) - [On DeepSeek and Export Controls](https://darioamodei.com/on-deepseek-and-export-controls)
 * [2025-01-29, 16:07:09](https://news.ycombinator.com/item?id=42866702) - [Effective AI code suggestions: less is more](https://www.qodo.ai/blog/effective-code-suggestions-llms-less-is-more/)
 * [2025-01-29, 15:58:20](https://news.ycombinator.com/item?id=42866572) - [Case Study: ByteDance Uses eBPF to Enhance Networking Performance](https://ebpf.foundation/case-study-bytedance-uses-ebpf-to-enhance-networking-performance/)
