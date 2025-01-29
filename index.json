@@ -1,41 +1,11 @@
 [
   [
     [
-      "2025-01-29, 04:33:31",
-      "https://news.ycombinator.com/item?id=42861567"
-    ],
-    [
-      "UK Weighs Making Netflix Users Pay License Fee to Fund BBC",
-      "https://www.bloomberg.com/news/articles/2025-01-28/uk-considers-making-netflix-users-pay-license-fee-to-fund-bbc"
-    ]
-  ],
-  [
-    [
-      "2025-01-29, 03:23:03",
-      "https://news.ycombinator.com/item?id=42861150"
-    ],
-    [
-      "Microsoft Probing If DeepSeek-Linked Group Improperly Obtained OpenAI Data",
-      "https://www.bloomberg.com/news/articles/2025-01-29/microsoft-probing-if-deepseek-linked-group-improperly-obtained-openai-data"
-    ]
-  ],
-  [
-    [
-      "2025-01-29, 03:09:22",
-      "https://news.ycombinator.com/item?id=42861047"
-    ],
-    [
-      "AI bots everywhere. Does anyone have a good whitelist for robots.txt?",
-      "https://news.ycombinator.com/item?id=42861047"
-    ]
-  ],
-  [
-    [
       "2025-01-29, 02:22:22",
       "https://news.ycombinator.com/item?id=42860752"
     ],
     [
-      "Apple and SpaceX Link Up to Support Starlink Satellite Network on iPhones",
+      "Apple and SpaceX link up to support Starlink satellite network on iPhones",
       "https://www.bloomberg.com/news/articles/2025-01-29/apple-and-spacex-link-up-to-support-starlink-satellite-network-on-iphones"
     ]
   ],
@@ -71,6 +41,16 @@
   ],
   [
     [
+      "2025-01-29, 00:20:15",
+      "https://news.ycombinator.com/item?id=42859909"
+    ],
+    [
+      "DeepSeek's AI breakthrough bypasses industry-standard CUDA, uses PTX",
+      "https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseeks-ai-breakthrough-bypasses-industry-standard-cuda-uses-assembly-like-ptx-programming-instead"
+    ]
+  ],
+  [
+    [
       "2025-01-28, 22:11:36",
       "https://news.ycombinator.com/item?id=42858741"
     ],
@@ -87,6 +67,16 @@
     [
       "SciPhi (YC W24) Is Hiring",
       "https://www.ycombinator.com/companies/sciphi/jobs/CVYWWpl-founding-ai-research-engineer"
+    ]
+  ],
+  [
+    [
+      "2025-01-28, 20:28:48",
+      "https://news.ycombinator.com/item?id=42857532"
+    ],
+    [
+      "Can we get the benefits of transitive dependencies without undermining security?",
+      "https://tratt.net/laurie/blog/2024/can_we_retain_the_benefits_of_transitive_dependencies_without_undermining_security.html"
     ]
   ],
   [
@@ -177,6 +167,16 @@
     [
       "Promising results from DeepSeek R1 for code",
       "https://simonwillison.net/2025/Jan/27/llamacpp-pr/"
+    ]
+  ],
+  [
+    [
+      "2025-01-28, 13:28:40",
+      "https://news.ycombinator.com/item?id=42852048"
+    ],
+    [
+      "Show HN: Design/build of some parametric speaker cabinets with OpenSCAD",
+      "https://calbryant.uk/blog/speakers/"
     ]
   ],
   [
