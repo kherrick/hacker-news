@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-01-29](index.md)
 
+* [2025-01-29, 17:44:45](https://news.ycombinator.com/item?id=42868390) - [An Analysis of DeepSeek's R1-Zero and R1](https://arcprize.org/blog/r1-zero-r1-results-analysis)
 * [2025-01-29, 17:04:52](https://news.ycombinator.com/item?id=42867764) - [How to run DeepSeek R1 locally](https://workos.com/blog/how-to-run-deepseek-r1-locally)
 * [2025-01-29, 17:00:50](https://news.ycombinator.com/item?id=42867708) - [Frigade (YC W23) is hiring engineer #2](https://www.ycombinator.com/companies/frigade/jobs/KUwAluN-senior-full-stack-engineer)
 * [2025-01-29, 16:40:19](https://news.ycombinator.com/item?id=42867324) - [Society for Technical Communication to permanently close its doors](https://www.stc.org/)
 * [2025-01-29, 16:19:10](https://news.ycombinator.com/item?id=42866905) - [On DeepSeek and Export Controls](https://darioamodei.com/on-deepseek-and-export-controls)
+* [2025-01-29, 16:07:09](https://news.ycombinator.com/item?id=42866702) - [Effective AI code suggestions: less is more](https://www.qodo.ai/blog/effective-code-suggestions-llms-less-is-more/)
 * [2025-01-29, 15:58:20](https://news.ycombinator.com/item?id=42866572) - [Case Study: ByteDance Uses eBPF to Enhance Networking Performance](https://ebpf.foundation/case-study-bytedance-uses-ebpf-to-enhance-networking-performance/)
 * [2025-01-29, 15:50:16](https://news.ycombinator.com/item?id=42866435) - [X partners with Visa to enable money transfers on the platform](https://www.washingtonpost.com/business/2025/01/28/visa-x/)
 * [2025-01-29, 15:37:31](https://news.ycombinator.com/item?id=42866201) - [DeepSeek proves the future of LLMs is open-source](https://www.getlago.com/blog/deepseek-open-source)
