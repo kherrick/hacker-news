@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=42860240"
     ],
     [
-      "Libraries & Well-Being: A Case Study from The New York Public Library",
+      "Libraries and Well-Being: A Case Study from The New York Public Library",
       "https://lithub.com/its-official-research-has-found-that-libraries-make-everything-better/"
     ]
   ],
@@ -71,12 +71,12 @@
   ],
   [
     [
-      "2025-01-28, 23:31:48",
-      "https://news.ycombinator.com/item?id=42859552"
+      "2025-01-28, 22:28:51",
+      "https://news.ycombinator.com/item?id=42858947"
     ],
     [
-      "Deferred resignation email to federal employees",
-      "https://www.opm.gov/fork"
+      "Job trends of HN Who Is Hiring?",
+      "https://hnhiring.com/trends"
     ]
   ],
   [
@@ -87,16 +87,6 @@
     [
       "DeepSeek's multi-head latent attention and other KV cache tricks",
       "https://www.pyspur.dev/blog/multi-head-latent-attention-kv-cache-paper-list"
-    ]
-  ],
-  [
-    [
-      "2025-01-28, 21:09:40",
-      "https://news.ycombinator.com/item?id=42858051"
-    ],
-    [
-      "Slicing the Fourth",
-      "https://axalatar.github.io/slicing-the-fourth/"
     ]
   ],
   [
@@ -197,6 +187,16 @@
     [
       "Promising results from DeepSeek R1 for code",
       "https://simonwillison.net/2025/Jan/27/llamacpp-pr/"
+    ]
+  ],
+  [
+    [
+      "2025-01-28, 12:20:44",
+      "https://news.ycombinator.com/item?id=42851519"
+    ],
+    [
+      "Public Access OpenVMS System",
+      "https://decuserve.org/"
     ]
   ],
   [
