@@ -6,6 +6,7 @@
 
 * [2025-01-29, 22:08:30](https://news.ycombinator.com/item?id=42871867) - [Google discontinuing work on Dart macros](https://medium.com/dartlang/an-update-on-dart-macros-data-serialization-06d3037d4f12)
 * [2025-01-29, 22:04:48](https://news.ycombinator.com/item?id=42871820) - [Zed's Vim Roadmap – 2025](https://zed.dev/blog/vim-2025)
+* [2025-01-29, 21:25:36](https://news.ycombinator.com/item?id=42871371) - [Exposed DeepSeek database leaking sensitive information, including chat history](https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak)
 * [2025-01-29, 21:05:28](https://news.ycombinator.com/item?id=42871143) - [Parsing PDFs (and more) in Elixir using Rust](https://www.chriis.dev/opinion/parsing-pdfs-in-elixir-using-rust)
 * [2025-01-29, 20:55:49](https://news.ycombinator.com/item?id=42871040) - [Keymapper: A cross-platform context-aware key remapper](https://github.com/houmain/keymapper)
 * [2025-01-29, 20:50:53](https://news.ycombinator.com/item?id=42870990) - [Making the Video That Made Gorillaz](https://animationobsessive.substack.com/p/making-the-video-that-made-gorillaz)
