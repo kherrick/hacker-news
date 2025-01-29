@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-01-29](index.md)
 
+* [2025-01-29, 17:59:28](https://news.ycombinator.com/item?id=42868618) - [No Man's Sky's update introduces billions of new stars, planets, and more](https://blog.playstation.com/2025/01/29/no-mans-skys-latest-update-introduces-billions-of-new-stars-planets-and-more-today/)
+* [2025-01-29, 17:56:51](https://news.ycombinator.com/item?id=42868576) - [Astral – \"We're building a new static type checker for Python\"](https://twitter.com/charliermarsh/status/1884651482009477368)
+* [2025-01-29, 17:53:53](https://news.ycombinator.com/item?id=42868531) - [Intel doesn't know how to be a foundry,\" Tim Cook reportedly told TSMC's CEO](https://www.tomshardware.com/tech-industry/tsmc-founder-says-tim-cook-told-him-intel-did-not-know-how-to-be-a-foundry)
+* [2025-01-29, 17:49:16](https://news.ycombinator.com/item?id=42868464) - [Ötzi the Lyme Mummy (2019)](https://vetmed.illinois.edu/i-tick/2019/08/09/iceman-lyme-mummy-tattle-the-tick-blog/)
 * [2025-01-29, 17:44:45](https://news.ycombinator.com/item?id=42868390) - [An Analysis of DeepSeek's R1-Zero and R1](https://arcprize.org/blog/r1-zero-r1-results-analysis)
+* [2025-01-29, 17:38:07](https://news.ycombinator.com/item?id=42868271) - [DeepSeek's Hidden Bias: How We Cut It by 76% Without Performance Loss](https://www.hirundo.io/blog/deepseek-r1-debiased)
 * [2025-01-29, 17:04:52](https://news.ycombinator.com/item?id=42867764) - [How to run DeepSeek R1 locally](https://workos.com/blog/how-to-run-deepseek-r1-locally)
 * [2025-01-29, 17:00:50](https://news.ycombinator.com/item?id=42867708) - [Frigade (YC W23) is hiring engineer #2](https://www.ycombinator.com/companies/frigade/jobs/KUwAluN-senior-full-stack-engineer)
 * [2025-01-29, 16:40:19](https://news.ycombinator.com/item?id=42867324) - [Society for Technical Communication to permanently close its doors](https://www.stc.org/)
@@ -45,6 +50,7 @@
 * [2025-01-29, 06:43:43](https://news.ycombinator.com/item?id=42862246) - [I still like Sublime Text in 2025](https://ohdoylerules.com/workflows/why-i-still-like-sublime-text-in-2025/)
 * [2025-01-29, 06:16:14](https://news.ycombinator.com/item?id=42862118) - [Science YouTuber physicsgirl (Dianna Cowern) stands for the first time in 2 yrs](https://www.youtube.com/shorts/2ntx91cOYEc)
 * [2025-01-29, 04:33:31](https://news.ycombinator.com/item?id=42861567) - [UK Weighs Making Netflix Users Pay License Fee to Fund BBC](https://www.bloomberg.com/news/articles/2025-01-28/uk-considers-making-netflix-users-pay-license-fee-to-fund-bbc)
+* [2025-01-29, 04:21:20](https://news.ycombinator.com/item?id=42861475) - [OpenAI says it has evidence DeepSeek used its model to train competitor](https://www.ft.com/content/a0dfedd1-5255-4fa9-8ccc-1fe01de87ea6)
 * [2025-01-29, 03:23:03](https://news.ycombinator.com/item?id=42861150) - [Microsoft Probing If DeepSeek-Linked Group Improperly Obtained OpenAI Data](https://www.bloomberg.com/news/articles/2025-01-29/microsoft-probing-if-deepseek-linked-group-improperly-obtained-openai-data)
 * [2025-01-29, 03:22:30](https://news.ycombinator.com/item?id=42861143) - [Nothing Is Sacred: AI Generated Slop Has Come for Christmas Music](https://www.404media.co/ai-generated-christmas-music/)
 * [2025-01-29, 03:18:02](https://news.ycombinator.com/item?id=42861115) - [U.S. Anti-Piracy Symposium Emphazises Need for Site Blocking](https://torrentfreak.com/u-s-anti-piracy-symposium-emphazises-site-blocking-250127/)
