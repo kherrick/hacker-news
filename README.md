@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-29, 15:16:41](https://news.ycombinator.com/item?id=42865867) - [A story about restoring and upgrading a Commodore Amiga 1000](https://celso.io/posts/2025/01/26/the-first-perfect-computer/)
+* [2025-01-29, 14:59:59](https://news.ycombinator.com/item?id=42865619) - [Google Pixel 4a old firmware is gone, trapping users on the buggy battery update](https://www.androidcentral.com/phones/google-pixel-4as-old-firmware-is-gone-trapping-users-on-the-buggy-battery-update)
 * [2025-01-29, 14:56:57](https://news.ycombinator.com/item?id=42865575) - [Complete hardware and software setup for running Deepseek-R1 locally. ($6000)](https://twitter.com/carrigmat/status/1884244369907278106)
 * [2025-01-29, 14:52:34](https://news.ycombinator.com/item?id=42865527) - [OpenAI Furious DeepSeek Might Have Stolen All the Data OpenAI Stole from Us](https://www.404media.co/openai-furious-deepseek-might-have-stolen-all-the-data-openai-stole-from-us/)
 * [2025-01-29, 14:52:07](https://news.ycombinator.com/item?id=42865523) - [Meta's Mark Zuckerberg explores purchase of Washington DC property](https://www.ft.com/content/93109ba4-b779-46dc-8370-0dd871fac82a)
@@ -26,10 +28,8 @@
 * [2025-01-28, 15:09:52](https://news.ycombinator.com/item?id=42853174) - [IAC confirms existence of a Super-earth in the habitable zone of a Sun-like Star](https://www.iac.es/en/outreach/news/iac-confirms-existence-super-earth-habitable-zone-sun-star)
 * [2025-01-27, 20:11:19](https://news.ycombinator.com/item?id=42845091) - [We're bringing Pebble back](https://repebble.com/)
 * [2025-01-26, 11:22:40](https://news.ycombinator.com/item?id=42829402) - [Malimite – iOS and macOS Decompiler](https://github.com/LaurieWired/Malimite)
-* [2025-01-26, 11:09:17](https://news.ycombinator.com/item?id=42829346) - [Watch the path of a raindrop from anywhere in the world](https://river-runner-global.samlearner.com/)
 * [2025-01-26, 10:15:22](https://news.ycombinator.com/item?id=42829149) - [What's OAuth2, anyway?](https://www.romaglushko.com/blog/whats-aouth2/)
 * [2025-01-26, 09:08:56](https://news.ycombinator.com/item?id=42828883) - [Composable SQL](https://borretti.me/article/composable-sql)
-* [2025-01-24, 19:14:41](https://news.ycombinator.com/item?id=42816133) - [Desmos Animated Graphing Calculator](https://www.desmos.com/)
 
 ## [Archives](archives/index.md)
 
