@@ -41,6 +41,7 @@
 * [2025-01-26, 15:59:00](https://news.ycombinator.com/item?id=42830923) - [Are Americans' perceptions of the economy and crime broken?](https://www.niemanlab.org/2024/11/are-americans-perceptions-of-the-economy-and-crime-broken/)
 * [2025-01-26, 15:26:14](https://news.ycombinator.com/item?id=42830654) - [I Built an Omni-Directional Ball-Wheeled Bike [video]](https://www.youtube.com/watch?v=ZVFB2g25OkM)
 * [2025-01-26, 15:24:53](https://news.ycombinator.com/item?id=42830646) - [It's not a crime if we do it with an app](https://pluralistic.net/2025/01/25/potatotrac/#carbo-loading)
+* [2025-01-26, 14:14:59](https://news.ycombinator.com/item?id=42830208) - [Over Engineered Cars Are Pushing Technicians Away](https://news.ycombinator.com/item?id=42830208)
 * [2025-01-26, 14:05:15](https://news.ycombinator.com/item?id=42830155) - [No one is disrupting banks](https://www.popularfintech.com/p/no-one-is-disrupting-banks)
 * [2025-01-26, 13:38:36](https://news.ycombinator.com/item?id=42830033) - [Halliday AR(Not?)/AI Glasses](https://kguttag.com/2025/01/25/halliday-arnot-ai-glasses/)
 * [2025-01-26, 13:35:31](https://news.ycombinator.com/item?id=42830018) - [Ask HN: What do you use for content moderation of UGC?](https://news.ycombinator.com/item?id=42830018)
