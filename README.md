@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-29, 14:21:54](https://news.ycombinator.com/item?id=42865174) - [Cali's AG Tells AI Companies Almost Everything They're Doing Might Be Illegal](https://gizmodo.com/californias-ag-tells-ai-companies-practically-everything-theyre-doing-might-be-illegal-2000555896)
 * [2025-01-29, 14:06:33](https://news.ycombinator.com/item?id=42865018) - [Proof of concept WMI virus (zero-day)](https://github.com/pulpocaminante/Stuxnet)
 * [2025-01-29, 13:50:30](https://news.ycombinator.com/item?id=42864854) - [I do not want AI to \"polish\" me](https://thebloggess.com/2025/01/28/no-i-do-not-want-ai-to-polish-me/)
 * [2025-01-29, 13:42:03](https://news.ycombinator.com/item?id=42864788) - [Seagate: 'new' hard drives used for tens of thousands of hours](https://www.tomshardware.com/pc-components/hdds/german-seagate-customers-say-their-new-hard-drives-were-actually-used-resold-hdds-reportedly-used-for-tens-of-thousands-of-hours)
@@ -27,7 +28,6 @@
 * [2025-01-26, 11:22:40](https://news.ycombinator.com/item?id=42829402) - [Malimite – iOS and macOS Decompiler](https://github.com/LaurieWired/Malimite)
 * [2025-01-26, 11:09:17](https://news.ycombinator.com/item?id=42829346) - [Watch the path of a raindrop from anywhere in the world](https://river-runner-global.samlearner.com/)
 * [2025-01-26, 10:15:22](https://news.ycombinator.com/item?id=42829149) - [What's OAuth2, anyway?](https://www.romaglushko.com/blog/whats-aouth2/)
-* [2025-01-26, 09:47:13](https://news.ycombinator.com/item?id=42829050) - [The History of Toontown’s SpeedChat (2007)](http://habitatchronicles.com/2007/03/the-untold-history-of-toontowns-speedchat-or-blockchattm-from-disney-finally-arrives/)
 * [2025-01-26, 09:08:56](https://news.ycombinator.com/item?id=42828883) - [Composable SQL](https://borretti.me/article/composable-sql)
 * [2025-01-24, 19:14:41](https://news.ycombinator.com/item?id=42816133) - [Desmos Animated Graphing Calculator](https://www.desmos.com/)
 

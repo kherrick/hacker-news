@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-29](index.md)
 
+* [2025-01-29, 14:21:54](https://news.ycombinator.com/item?id=42865174) - [Cali's AG Tells AI Companies Almost Everything They're Doing Might Be Illegal](https://gizmodo.com/californias-ag-tells-ai-companies-practically-everything-theyre-doing-might-be-illegal-2000555896)
 * [2025-01-29, 14:06:33](https://news.ycombinator.com/item?id=42865018) - [Proof of concept WMI virus (zero-day)](https://github.com/pulpocaminante/Stuxnet)
 * [2025-01-29, 13:50:30](https://news.ycombinator.com/item?id=42864854) - [I do not want AI to \"polish\" me](https://thebloggess.com/2025/01/28/no-i-do-not-want-ai-to-polish-me/)
 * [2025-01-29, 13:42:37](https://news.ycombinator.com/item?id=42864796) - [AppleCare+ claim denied after MacBook Pro was destroyed in a car crash](https://9to5mac.com/2025/01/28/applecare-claim-denied-after-macbook-pro-was-destroyed-in-a-car-crash/)
