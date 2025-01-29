@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-29, 18:57:43](https://news.ycombinator.com/item?id=42869464) - [White House rescinds federal aid freeze](https://www.cnn.com/2025/01/29/politics/white-house-rescind-federal-funding-freeze/index.html)
+* [2025-01-29, 19:14:36](https://news.ycombinator.com/item?id=42869700) - ['Headed for technofascism': the rightwing roots of Silicon Valley](https://www.theguardian.com/technology/ng-interactive/2025/jan/29/silicon-valley-rightwing-technofascism)
 * [2025-01-29, 18:20:49](https://news.ycombinator.com/item?id=42868942) - [Nvidia Shares Resume Fall](https://www.ft.com/content/68912f4f-c3a6-4ef7-9ca9-4f92a92600a3)
 * [2025-01-29, 18:09:19](https://news.ycombinator.com/item?id=42868770) - [A minimal PyTorch implementation for training your own small LLM from scratch](https://github.com/Om-Alve/smolGPT)
 * [2025-01-29, 18:06:02](https://news.ycombinator.com/item?id=42868718) - [Adding iodine to salt played a role in cognitive improvements: research (2013)](https://www.discovermagazine.com/health/how-adding-iodine-to-salt-boosted-americans-iq)
@@ -29,7 +29,7 @@
 * [2025-01-28, 21:20:42](https://news.ycombinator.com/item?id=42858187) - [The ancient discovery that put a Silk Road city back on the map](https://www.bbc.com/travel/article/20250127-one-of-the-last-traders-on-the-silk-road)
 * [2025-01-28, 18:31:34](https://news.ycombinator.com/item?id=42856023) - [New speculative attacks on Apple CPUs](https://predictors.fail/)
 * [2025-01-28, 15:46:53](https://news.ycombinator.com/item?id=42853633) - [Boom XB-1 First Supersonic Flight [video]](https://www.youtube.com/watch?v=-qisIViAHwI)
-* [2025-01-26, 09:08:56](https://news.ycombinator.com/item?id=42828883) - [Composable SQL](https://borretti.me/article/composable-sql)
+* [2025-01-25, 22:02:27](https://news.ycombinator.com/item?id=42825324) - [Integration of 1,024 silicon quantum dots with on-chip electronics](https://phys.org/news/2025-01-silicon-quantum-dots-chip-electronics.html)
 
 ## [Archives](archives/index.md)
 

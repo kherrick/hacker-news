@@ -10,6 +10,7 @@
 * [2025-01-25, 22:48:44](https://news.ycombinator.com/item?id=42825724) - [Poisoning AI with \".аss\" subtitles [video]](https://www.youtube.com/watch?v=NEDFUjqA1s8)
 * [2025-01-25, 22:15:13](https://news.ycombinator.com/item?id=42825441) - [Steam Brick: No screen, no controller, just a power button and a USB port](https://crastinator-pro.github.io/steam-brick/)
 * [2025-01-25, 22:13:30](https://news.ycombinator.com/item?id=42825423) - [Bucket Robotics (YC S24) Is Hiring Our First Engineer](https://news.ycombinator.com/item?id=42825423)
+* [2025-01-25, 22:02:27](https://news.ycombinator.com/item?id=42825324) - [Integration of 1,024 silicon quantum dots with on-chip electronics](https://phys.org/news/2025-01-silicon-quantum-dots-chip-electronics.html)
 * [2025-01-25, 21:40:08](https://news.ycombinator.com/item?id=42825126) - [Fault Tolerance in Tandem Computer Systems (1986)[pdf]](https://jimgray.azurewebsites.net/papers/TandemTR86.2_FaultToleranceInTandemComputerSystems.pdf)
 * [2025-01-25, 21:37:41](https://news.ycombinator.com/item?id=42825097) - [Larry Ellison: vast AI surveillance can ensure citizens are on best behavior](https://www.businessinsider.com/larry-ellison-ai-surveillance-keep-citizens-on-their-best-behavior-2024-9)
 * [2025-01-25, 21:33:42](https://news.ycombinator.com/item?id=42825048) - [Poll: What is your preferred Search Engine?](https://news.ycombinator.com/item?id=42825048)
