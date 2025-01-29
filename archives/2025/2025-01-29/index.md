@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-29](index.md)
 
+* [2025-01-29, 13:42:37](https://news.ycombinator.com/item?id=42864796) - [AppleCare+ claim denied after MacBook Pro was destroyed in a car crash](https://9to5mac.com/2025/01/28/applecare-claim-denied-after-macbook-pro-was-destroyed-in-a-car-crash/)
+* [2025-01-29, 13:42:03](https://news.ycombinator.com/item?id=42864788) - [Seagate: 'new' hard drives used for tens of thousands of hours](https://www.tomshardware.com/pc-components/hdds/german-seagate-customers-say-their-new-hard-drives-were-actually-used-resold-hdds-reportedly-used-for-tens-of-thousands-of-hours)
 * [2025-01-29, 13:21:53](https://news.ycombinator.com/item?id=42864595) - [Your Phone is why you don't feel sexy](https://catherineshannon.substack.com/p/your-phone-is-why-you-dont-feel-sexy)
 * [2025-01-29, 13:03:00](https://news.ycombinator.com/item?id=42864428) - [Kakistocracy](https://en.wikipedia.org/wiki/Kakistocracy)
 * [2025-01-29, 12:47:17](https://news.ycombinator.com/item?id=42864272) - [Asteroid Impact on Earth 2032 with Probability 1% and 8Mt Energy](https://cneos.jpl.nasa.gov/sentry/details.html)
