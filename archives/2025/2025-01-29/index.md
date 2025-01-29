@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-29](index.md)
 
+* [2025-01-29, 17:00:50](https://news.ycombinator.com/item?id=42867708) - [Frigade (YC W23) is hiring engineer #2](https://www.ycombinator.com/companies/frigade/jobs/KUwAluN-senior-full-stack-engineer)
+* [2025-01-29, 16:19:10](https://news.ycombinator.com/item?id=42866905) - [On DeepSeek and Export Controls](https://darioamodei.com/on-deepseek-and-export-controls)
 * [2025-01-29, 15:50:16](https://news.ycombinator.com/item?id=42866435) - [X partners with Visa to enable money transfers on the platform](https://www.washingtonpost.com/business/2025/01/28/visa-x/)
 * [2025-01-29, 15:37:31](https://news.ycombinator.com/item?id=42866201) - [DeepSeek proves the future of LLMs is open-source](https://www.getlago.com/blog/deepseek-open-source)
 * [2025-01-29, 15:26:50](https://news.ycombinator.com/item?id=42866039) - [Comcast is rolling out 'ultra-low lag' tech that could fix the internet](https://www.theverge.com/news/601100/comcast-l4s-low-latency-internet)

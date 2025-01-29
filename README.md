@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-29, 17:00:50](https://news.ycombinator.com/item?id=42867708) - [Frigade (YC W23) is hiring engineer #2](https://www.ycombinator.com/companies/frigade/jobs/KUwAluN-senior-full-stack-engineer)
+* [2025-01-29, 16:19:10](https://news.ycombinator.com/item?id=42866905) - [On DeepSeek and Export Controls](https://darioamodei.com/on-deepseek-and-export-controls)
 * [2025-01-29, 15:37:31](https://news.ycombinator.com/item?id=42866201) - [DeepSeek proves the future of LLMs is open-source](https://www.getlago.com/blog/deepseek-open-source)
 * [2025-01-29, 15:16:41](https://news.ycombinator.com/item?id=42865867) - [A story about restoring and upgrading a Commodore Amiga 1000](https://celso.io/posts/2025/01/26/the-first-perfect-computer/)
-* [2025-01-29, 15:09:16](https://news.ycombinator.com/item?id=42865752) - [US children fall further behind in reading](https://www.cnn.com/2025/01/29/us/education-standardized-test-scores/index.html)
 * [2025-01-29, 14:59:59](https://news.ycombinator.com/item?id=42865619) - [Google Pixel 4a old firmware is gone, trapping users on the buggy battery update](https://www.androidcentral.com/phones/google-pixel-4as-old-firmware-is-gone-trapping-users-on-the-buggy-battery-update)
 * [2025-01-29, 14:56:57](https://news.ycombinator.com/item?id=42865575) - [Complete hardware and software setup for running Deepseek-R1 locally. ($6000)](https://twitter.com/carrigmat/status/1884244369907278106)
 * [2025-01-29, 14:56:56](https://news.ycombinator.com/item?id=42865574) - [Only 1 in 10 Oracle Java users want to stay with Big Red](https://www.theregister.com/2025/01/29/only_one_in_ten_oracle/)
@@ -14,7 +15,6 @@
 * [2025-01-29, 13:42:03](https://news.ycombinator.com/item?id=42864788) - [Seagate: 'new' hard drives used for tens of thousands of hours](https://www.tomshardware.com/pc-components/hdds/german-seagate-customers-say-their-new-hard-drives-were-actually-used-resold-hdds-reportedly-used-for-tens-of-thousands-of-hours)
 * [2025-01-29, 13:21:53](https://news.ycombinator.com/item?id=42864595) - [Our phones are killing our ability to feel sexy (2024)](https://catherineshannon.substack.com/p/your-phone-is-why-you-dont-feel-sexy)
 * [2025-01-29, 12:30:37](https://news.ycombinator.com/item?id=42864122) - [Preserves: An Expressive Data Language](https://preserves.dev/)
-* [2025-01-29, 12:00:22](https://news.ycombinator.com/item?id=42863949) - [Infracost (YC W21) Is Hiring Senior Software Engineers (GMT+2 to GMT-6)](https://infracost.notion.site/Join-the-team-6512e4f4a89d4fc5b7a112583c0a1c3c)
 * [2025-01-29, 11:52:02](https://news.ycombinator.com/item?id=42863901) - [Adding concurrent read/write to DuckDB with Arrow Flight](https://www.definite.app/blog/duck-takes-flight)
 * [2025-01-29, 11:34:46](https://news.ycombinator.com/item?id=42863808) - [Jevons paradox](https://en.wikipedia.org/wiki/Jevons_paradox)
 * [2025-01-29, 09:54:33](https://news.ycombinator.com/item?id=42863262) - [Bacteria (and Their Metabolites) and Depression](https://www.science.org/content/blog-post/bacteria-and-their-metabolites-and-depression)
