@@ -11,6 +11,7 @@
 * [2025-01-29, 15:09:16](https://news.ycombinator.com/item?id=42865752) - [US children fall further behind in reading](https://www.cnn.com/2025/01/29/us/education-standardized-test-scores/index.html)
 * [2025-01-29, 14:59:59](https://news.ycombinator.com/item?id=42865619) - [Google Pixel 4a old firmware is gone, trapping users on the buggy battery update](https://www.androidcentral.com/phones/google-pixel-4as-old-firmware-is-gone-trapping-users-on-the-buggy-battery-update)
 * [2025-01-29, 14:56:57](https://news.ycombinator.com/item?id=42865575) - [Complete hardware and software setup for running Deepseek-R1 locally. ($6000)](https://twitter.com/carrigmat/status/1884244369907278106)
+* [2025-01-29, 14:56:56](https://news.ycombinator.com/item?id=42865574) - [Only 1 in 10 Oracle Java users want to stay with Big Red](https://www.theregister.com/2025/01/29/only_one_in_ten_oracle/)
 * [2025-01-29, 14:52:34](https://news.ycombinator.com/item?id=42865527) - [OpenAI Furious DeepSeek Might Have Stolen All the Data OpenAI Stole from Us](https://www.404media.co/openai-furious-deepseek-might-have-stolen-all-the-data-openai-stole-from-us/)
 * [2025-01-29, 14:52:07](https://news.ycombinator.com/item?id=42865523) - [Meta's Mark Zuckerberg explores purchase of Washington DC property](https://www.ft.com/content/93109ba4-b779-46dc-8370-0dd871fac82a)
 * [2025-01-29, 14:45:18](https://news.ycombinator.com/item?id=42865445) - [Italy's privacy regulator goes after DeepSeek](https://www.politico.eu/article/italys-privacy-regulator-goes-after-deepseek/)
