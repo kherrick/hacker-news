@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-29, 15:16:41",
+      "https://news.ycombinator.com/item?id=42865867"
+    ],
+    [
+      "A story about restoring and upgrading a Commodore Amiga 1000",
+      "https://celso.io/posts/2025/01/26/the-first-perfect-computer/"
+    ]
+  ],
+  [
+    [
+      "2025-01-29, 14:59:59",
+      "https://news.ycombinator.com/item?id=42865619"
+    ],
+    [
+      "Google Pixel 4a old firmware is gone, trapping users on the buggy battery update",
+      "https://www.androidcentral.com/phones/google-pixel-4as-old-firmware-is-gone-trapping-users-on-the-buggy-battery-update"
+    ]
+  ],
+  [
+    [
       "2025-01-29, 14:56:57",
       "https://news.ycombinator.com/item?id=42865575"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2025-01-26, 11:09:17",
-      "https://news.ycombinator.com/item?id=42829346"
-    ],
-    [
-      "Watch the path of a raindrop from anywhere in the world",
-      "https://river-runner-global.samlearner.com/"
-    ]
-  ],
-  [
-    [
       "2025-01-26, 10:15:22",
       "https://news.ycombinator.com/item?id=42829149"
     ],
@@ -287,16 +297,6 @@
     [
       "Composable SQL",
       "https://borretti.me/article/composable-sql"
-    ]
-  ],
-  [
-    [
-      "2025-01-24, 19:14:41",
-      "https://news.ycombinator.com/item?id=42816133"
-    ],
-    [
-      "Desmos Animated Graphing Calculator",
-      "https://www.desmos.com/"
     ]
   ]
 ]
