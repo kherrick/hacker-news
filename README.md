@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-29, 04:33:31](https://news.ycombinator.com/item?id=42861567) - [UK Weighs Making Netflix Users Pay License Fee to Fund BBC](https://www.bloomberg.com/news/articles/2025-01-28/uk-considers-making-netflix-users-pay-license-fee-to-fund-bbc)
 * [2025-01-29, 03:23:03](https://news.ycombinator.com/item?id=42861150) - [Microsoft Probing If DeepSeek-Linked Group Improperly Obtained OpenAI Data](https://www.bloomberg.com/news/articles/2025-01-29/microsoft-probing-if-deepseek-linked-group-improperly-obtained-openai-data)
 * [2025-01-29, 03:09:22](https://news.ycombinator.com/item?id=42861047) - [AI bots everywhere. Does anyone have a good whitelist for robots.txt?](https://news.ycombinator.com/item?id=42861047)
 * [2025-01-29, 02:22:22](https://news.ycombinator.com/item?id=42860752) - [Apple and SpaceX Link Up to Support Starlink Satellite Network on iPhones](https://www.bloomberg.com/news/articles/2025-01-29/apple-and-spacex-link-up-to-support-starlink-satellite-network-on-iphones)
@@ -8,7 +9,6 @@
 * [2025-01-29, 00:53:30](https://news.ycombinator.com/item?id=42860128) - [Discovery Coding](https://jimmyhmiller.github.io/discovery-coding)
 * [2025-01-28, 22:11:36](https://news.ycombinator.com/item?id=42858741) - [DeepSeek's multi-head latent attention and other KV cache tricks](https://www.pyspur.dev/blog/multi-head-latent-attention-kv-cache-paper-list)
 * [2025-01-28, 21:01:03](https://news.ycombinator.com/item?id=42857929) - [SciPhi (YC W24) Is Hiring](https://www.ycombinator.com/companies/sciphi/jobs/CVYWWpl-founding-ai-research-engineer)
-* [2025-01-28, 20:28:48](https://news.ycombinator.com/item?id=42857532) - [Can we get the benefits of transitive dependencies without undermining security?](https://tratt.net/laurie/blog/2024/can_we_retain_the_benefits_of_transitive_dependencies_without_undermining_security.html)
 * [2025-01-28, 20:07:12](https://news.ycombinator.com/item?id=42857293) - [Parkinsons patient \"feels cured\" with new adaptive deep brain stimulation device](https://www.bbc.com/news/articles/ckgn49r069wo)
 * [2025-01-28, 19:52:39](https://news.ycombinator.com/item?id=42857091) - [Machine learning and nano-3D printing produce nano-architected materials](https://news.engineering.utoronto.ca/strong-as-steel-light-as-foam-machine-learning-and-nano-3d-printing-produce-breakthrough-high-performance-nano-architected-materials/)
 * [2025-01-28, 18:31:34](https://news.ycombinator.com/item?id=42856023) - [New speculative attacks on Apple CPUs](https://predictors.fail/)
