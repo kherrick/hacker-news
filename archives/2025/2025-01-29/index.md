@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-29](index.md)
 
+* [2025-01-29, 19:52:27](https://news.ycombinator.com/item?id=42870230) - [Dead Games](https://garry.net/posts/dead-games)
+* [2025-01-29, 19:49:37](https://news.ycombinator.com/item?id=42870190) - [Fed leaves rates unchanged, drops reference to inflation 'progress'](https://www.reuters.com/markets/rates-bonds/fed-likely-keep-rates-steady-it-awaits-more-data-clarity-trump-policies-2025-01-29/)
 * [2025-01-29, 19:45:05](https://news.ycombinator.com/item?id=42870144) - [Groups helping Americans find abortion pills report Instagram 'shadow-banning'](https://www.theguardian.com/world/2025/jan/29/abortion-pills-instagram-shadow-banning)
 * [2025-01-29, 19:38:18](https://news.ycombinator.com/item?id=42870056) - [Waymo to test its autonomous driving technology in over 10 new cities](https://www.reuters.com/business/autos-transportation/alphabets-waymo-test-its-autonomous-driving-technology-over-10-new-cities-2025-01-29/)
 * [2025-01-29, 19:25:16](https://news.ycombinator.com/item?id=42869865) - [Ask HN: Are there \"story-based\" and \"fact-based\" people?](https://news.ycombinator.com/item?id=42869865)
@@ -21,6 +23,7 @@
 * [2025-01-29, 17:38:07](https://news.ycombinator.com/item?id=42868271) - [DeepSeek's Hidden Bias: How We Cut It by 76% Without Performance Loss](https://www.hirundo.io/blog/deepseek-r1-debiased)
 * [2025-01-29, 17:04:52](https://news.ycombinator.com/item?id=42867764) - [How to run DeepSeek R1 locally](https://workos.com/blog/how-to-run-deepseek-r1-locally)
 * [2025-01-29, 17:00:50](https://news.ycombinator.com/item?id=42867708) - [Frigade (YC W23) is hiring engineer #2](https://www.ycombinator.com/companies/frigade/jobs/KUwAluN-senior-full-stack-engineer)
+* [2025-01-29, 16:57:59](https://news.ycombinator.com/item?id=42867657) - [A major Postgres upgrade with zero downtime](https://www.instantdb.com/essays/pg_upgrade)
 * [2025-01-29, 16:40:19](https://news.ycombinator.com/item?id=42867324) - [Society for Technical Communication to permanently close its doors](https://www.stc.org/)
 * [2025-01-29, 16:26:07](https://news.ycombinator.com/item?id=42867050) - [Show HN: Mcp-Agent – Build effective agents with Model Context Protocol](https://github.com/lastmile-ai/mcp-agent)
 * [2025-01-29, 16:19:10](https://news.ycombinator.com/item?id=42866905) - [On DeepSeek and Export Controls](https://darioamodei.com/on-deepseek-and-export-controls)
@@ -45,6 +48,7 @@
 * [2025-01-29, 13:21:53](https://news.ycombinator.com/item?id=42864595) - [Your Phone is why you don't feel sexy](https://catherineshannon.substack.com/p/your-phone-is-why-you-dont-feel-sexy)
 * [2025-01-29, 13:03:00](https://news.ycombinator.com/item?id=42864428) - [Kakistocracy](https://en.wikipedia.org/wiki/Kakistocracy)
 * [2025-01-29, 12:47:17](https://news.ycombinator.com/item?id=42864272) - [Asteroid Impact on Earth 2032 with Probability 1% and 8Mt Energy](https://cneos.jpl.nasa.gov/sentry/details.html)
+* [2025-01-29, 12:47:17](https://news.ycombinator.com/item?id=42864272) - [Asteroid Impact on Earth 2032 with Probability 1% and 8Mt Energy](https://cneos.jpl.nasa.gov/sentry/details.html#?des=2024%20YR4)
 * [2025-01-29, 12:30:37](https://news.ycombinator.com/item?id=42864122) - [Preserves: An Expressive Data Language](https://preserves.dev/)
 * [2025-01-29, 12:11:47](https://news.ycombinator.com/item?id=42864019) - [The Middle East's first super-luxury train will gleam gold](https://www.cnn.com/travel/dream-of-the-desert-saudi-arabia-train/index.html)
 * [2025-01-29, 12:05:17](https://news.ycombinator.com/item?id=42863976) - [Yellowish Nodules on a Man Consuming a Carnivore Diet](https://jamanetwork.com/journals/jamacardiology/article-abstract/2828915?resultClick=1)
