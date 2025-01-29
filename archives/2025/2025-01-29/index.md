@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-01-29](index.md)
 
+* [2025-01-29, 14:56:57](https://news.ycombinator.com/item?id=42865575) - [Complete hardware and software setup for running Deepseek-R1 locally. ($6000)](https://twitter.com/carrigmat/status/1884244369907278106)
+* [2025-01-29, 14:52:34](https://news.ycombinator.com/item?id=42865527) - [OpenAI Furious DeepSeek Might Have Stolen All the Data OpenAI Stole from Us](https://www.404media.co/openai-furious-deepseek-might-have-stolen-all-the-data-openai-stole-from-us/)
+* [2025-01-29, 14:52:07](https://news.ycombinator.com/item?id=42865523) - [Meta's Mark Zuckerberg explores purchase of Washington DC property](https://www.ft.com/content/93109ba4-b779-46dc-8370-0dd871fac82a)
+* [2025-01-29, 14:45:18](https://news.ycombinator.com/item?id=42865445) - [Italy's privacy regulator goes after DeepSeek](https://www.politico.eu/article/italys-privacy-regulator-goes-after-deepseek/)
 * [2025-01-29, 14:21:54](https://news.ycombinator.com/item?id=42865174) - [Cali's AG Tells AI Companies Almost Everything They're Doing Might Be Illegal](https://gizmodo.com/californias-ag-tells-ai-companies-practically-everything-theyre-doing-might-be-illegal-2000555896)
 * [2025-01-29, 14:06:33](https://news.ycombinator.com/item?id=42865018) - [Proof of concept WMI virus (zero-day)](https://github.com/pulpocaminante/Stuxnet)
 * [2025-01-29, 13:50:30](https://news.ycombinator.com/item?id=42864854) - [I do not want AI to \"polish\" me](https://thebloggess.com/2025/01/28/no-i-do-not-want-ai-to-polish-me/)
