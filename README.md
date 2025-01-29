@@ -2,7 +2,6 @@
 
 * [2025-01-29, 03:23:03](https://news.ycombinator.com/item?id=42861150) - [Microsoft Probing If DeepSeek-Linked Group Improperly Obtained OpenAI Data](https://www.bloomberg.com/news/articles/2025-01-29/microsoft-probing-if-deepseek-linked-group-improperly-obtained-openai-data)
 * [2025-01-29, 03:09:22](https://news.ycombinator.com/item?id=42861047) - [AI bots everywhere. Does anyone have a good whitelist for robots.txt?](https://news.ycombinator.com/item?id=42861047)
-* [2025-01-29, 03:00:41](https://news.ycombinator.com/item?id=42860996) - [Confusion, uncertainty in industry as Army contracts seemingly halted](https://breakingdefense.com/2025/01/what-the-f-is-going-on-confusion-uncertainty-in-industry-as-army-contracts-seemingly-halted/)
 * [2025-01-29, 02:22:22](https://news.ycombinator.com/item?id=42860752) - [Apple and SpaceX Link Up to Support Starlink Satellite Network on iPhones](https://www.bloomberg.com/news/articles/2025-01-29/apple-and-spacex-link-up-to-support-starlink-satellite-network-on-iphones)
 * [2025-01-29, 01:11:08](https://news.ycombinator.com/item?id=42860240) - [Libraries and Well-Being: A Case Study from The New York Public Library](https://lithub.com/its-official-research-has-found-that-libraries-make-everything-better/)
 * [2025-01-29, 00:54:58](https://news.ycombinator.com/item?id=42860141) - [Recreating Delicious Library in 2025?](https://dingyu.me/blog/recreating-delicious-library-in-2025)
@@ -19,6 +18,7 @@
 * [2025-01-28, 15:37:32](https://news.ycombinator.com/item?id=42853528) - [Maxima in the browser using Embedded Common Lisp on WASM](https://maxima-on-wasm.pages.dev/)
 * [2025-01-28, 15:09:52](https://news.ycombinator.com/item?id=42853174) - [IAC confirms existence of a Super-earth in the habitable zone of a Sun-like Star](https://www.iac.es/en/outreach/news/iac-confirms-existence-super-earth-habitable-zone-sun-star)
 * [2025-01-28, 14:44:06](https://news.ycombinator.com/item?id=42852866) - [Promising results from DeepSeek R1 for code](https://simonwillison.net/2025/Jan/27/llamacpp-pr/)
+* [2025-01-28, 12:20:44](https://news.ycombinator.com/item?id=42851519) - [Public Access OpenVMS System](https://decuserve.org/)
 * [2025-01-28, 08:31:30](https://news.ycombinator.com/item?id=42850109) - [Show HN: Meelo, self-hosted music server for collectors and music maniacs](https://github.com/Arthi-chaud/Meelo)
 * [2025-01-28, 07:02:57](https://news.ycombinator.com/item?id=42849632) - [FTC takes action against GoDaddy for alleged lax data security](https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-takes-action-against-godaddy-alleged-lax-data-security-its-website-hosting-services)
 * [2025-01-27, 20:11:19](https://news.ycombinator.com/item?id=42845091) - [We're bringing Pebble back](https://repebble.com/)
