@@ -8,6 +8,7 @@
 * [2025-01-29, 20:30:55](https://news.ycombinator.com/item?id=42870750) - [DeepSeek R1 Is Now Available on Azure AI Foundry and GitHub](https://azure.microsoft.com/en-us/blog/deepseek-r1-is-now-available-on-azure-ai-foundry-and-github/)
 * [2025-01-29, 19:52:27](https://news.ycombinator.com/item?id=42870230) - [Dead Games](https://garry.net/posts/dead-games)
 * [2025-01-29, 19:49:37](https://news.ycombinator.com/item?id=42870190) - [Fed leaves rates unchanged, drops reference to inflation 'progress'](https://www.reuters.com/markets/rates-bonds/fed-likely-keep-rates-steady-it-awaits-more-data-clarity-trump-policies-2025-01-29/)
+* [2025-01-29, 19:47:51](https://news.ycombinator.com/item?id=42870171) - [Airflow – Stream media files directly from macOS to AirPlay devices](https://airflow.app/)
 * [2025-01-29, 19:45:05](https://news.ycombinator.com/item?id=42870144) - [Groups helping Americans find abortion pills report Instagram 'shadow-banning'](https://www.theguardian.com/world/2025/jan/29/abortion-pills-instagram-shadow-banning)
 * [2025-01-29, 19:38:18](https://news.ycombinator.com/item?id=42870056) - [Waymo to test its autonomous driving technology in over 10 new cities](https://www.reuters.com/business/autos-transportation/alphabets-waymo-test-its-autonomous-driving-technology-over-10-new-cities-2025-01-29/)
 * [2025-01-29, 19:25:16](https://news.ycombinator.com/item?id=42869865) - [Ask HN: Are there \"story-based\" and \"fact-based\" people?](https://news.ycombinator.com/item?id=42869865)

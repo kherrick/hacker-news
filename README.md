@@ -4,6 +4,7 @@
 * [2025-01-29, 20:30:55](https://news.ycombinator.com/item?id=42870750) - [DeepSeek R1 Is Now Available on Azure AI Foundry and GitHub](https://azure.microsoft.com/en-us/blog/deepseek-r1-is-now-available-on-azure-ai-foundry-and-github/)
 * [2025-01-29, 19:52:27](https://news.ycombinator.com/item?id=42870230) - [Dead Games](https://garry.net/posts/dead-games)
 * [2025-01-29, 19:49:37](https://news.ycombinator.com/item?id=42870190) - [Fed leaves rates unchanged, drops reference to inflation 'progress'](https://www.reuters.com/markets/rates-bonds/fed-likely-keep-rates-steady-it-awaits-more-data-clarity-trump-policies-2025-01-29/)
+* [2025-01-29, 19:47:51](https://news.ycombinator.com/item?id=42870171) - [Airflow – Stream media files directly from macOS to AirPlay devices](https://airflow.app/)
 * [2025-01-29, 19:38:18](https://news.ycombinator.com/item?id=42870056) - [Waymo to test its autonomous driving technology in over 10 new cities](https://www.reuters.com/business/autos-transportation/alphabets-waymo-test-its-autonomous-driving-technology-over-10-new-cities-2025-01-29/)
 * [2025-01-29, 18:09:19](https://news.ycombinator.com/item?id=42868770) - [SmolGPT: A minimal PyTorch implementation for training a small LLM from scratch](https://github.com/Om-Alve/smolGPT)
 * [2025-01-29, 18:06:02](https://news.ycombinator.com/item?id=42868718) - [Adding iodine to salt played a role in cognitive improvements: research (2013)](https://www.discovermagazine.com/health/how-adding-iodine-to-salt-boosted-americans-iq)
@@ -29,7 +30,6 @@
 * [2025-01-28, 16:33:32](https://news.ycombinator.com/item?id=42854291) - [Building a T1D smartwatch for my son from scratch](https://andrewchilds.com/posts/building-a-t1d-smartwatch-from-scratch)
 * [2025-01-26, 22:13:00](https://news.ycombinator.com/item?id=42834739) - [Think your dog can understand words? This scientist says you might be right](https://www.cbc.ca/radio/thecurrent/dogs-understanding-words-new-research-1.7326495)
 * [2025-01-26, 14:14:59](https://news.ycombinator.com/item?id=42830208) - [Over Engineered Cars Are Pushing Technicians Away](https://news.ycombinator.com/item?id=42830208)
-* [2025-01-25, 22:02:27](https://news.ycombinator.com/item?id=42825324) - [Integration of 1,024 silicon quantum dots with on-chip electronics](https://phys.org/news/2025-01-silicon-quantum-dots-chip-electronics.html)
 
 ## [Archives](archives/index.md)
 
