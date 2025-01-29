@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-01-29, 03:18:02",
+      "https://news.ycombinator.com/item?id=42861115"
+    ],
+    [
+      "U.S. Anti-Piracy Symposium Emphazises Need for Site Blocking",
+      "https://torrentfreak.com/u-s-anti-piracy-symposium-emphazises-site-blocking-250127/"
+    ]
+  ],
+  [
+    [
       "2025-01-29, 03:13:46",
       "https://news.ycombinator.com/item?id=42861080"
     ],
     [
       "DeepSeek R1 671B running on 2 M2 Ultras faster than reading speed",
       "https://twitter.com/awnihannun/status/1881412271236346233"
+    ]
+  ],
+  [
+    [
+      "2025-01-29, 02:24:37",
+      "https://news.ycombinator.com/item?id=42860770"
+    ],
+    [
+      "$6k to run full DeepSeek R1 LLM with reasoning at home",
+      "https://twitter.com/carrigmat/status/1884244369907278106"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2025-01-27, 20:11:19",
-      "https://news.ycombinator.com/item?id=42845091"
-    ],
-    [
-      "We're bringing Pebble back",
-      "https://repebble.com/"
-    ]
-  ],
-  [
-    [
       "2025-01-26, 18:29:18",
       "https://news.ycombinator.com/item?id=42832482"
     ],
@@ -287,16 +297,6 @@
     [
       "Composable SQL (Functors)",
       "https://borretti.me/article/composable-sql"
-    ]
-  ],
-  [
-    [
-      "2025-01-24, 19:14:41",
-      "https://news.ycombinator.com/item?id=42816133"
-    ],
-    [
-      "Desmos Animated Graphing Calculator",
-      "https://www.desmos.com/"
     ]
   ]
 ]
