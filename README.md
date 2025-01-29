@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-29, 22:45:14](https://news.ycombinator.com/item?id=42872276) - [Advice for a friend who wants to start a blog](https://www.henrikkarlsson.xyz/p/start-a-blog)
-* [2025-01-29, 22:08:30](https://news.ycombinator.com/item?id=42871867) - [Google discontinuing work on Dart macros](https://medium.com/dartlang/an-update-on-dart-macros-data-serialization-06d3037d4f12)
+* [2025-01-29, 22:08:30](https://news.ycombinator.com/item?id=42871867) - [An update on Dart macros and data serialization](https://medium.com/dartlang/an-update-on-dart-macros-data-serialization-06d3037d4f12)
 * [2025-01-29, 22:04:48](https://news.ycombinator.com/item?id=42871820) - [Vim Roadmap 2025](https://zed.dev/blog/vim-2025)
 * [2025-01-29, 21:56:11](https://news.ycombinator.com/item?id=42871743) - [From C++ to Clojure: Jank language promises best of both](https://thenewstack.io/from-c-to-clojure-new-language-promises-best-of-both/)
 * [2025-01-29, 21:42:10](https://news.ycombinator.com/item?id=42871574) - [Meta Reports Fourth Quarter and Full Year 2024 Results](https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Reports-Fourth-Quarter-and-Full-Year-2024-Results/default.aspx)
@@ -23,13 +23,13 @@
 * [2025-01-29, 16:40:19](https://news.ycombinator.com/item?id=42867324) - [Society for Technical Communication to permanently close its doors](https://www.stc.org/)
 * [2025-01-29, 16:26:07](https://news.ycombinator.com/item?id=42867050) - [Show HN: Mcp-Agent – Build effective agents with Model Context Protocol](https://github.com/lastmile-ai/mcp-agent)
 * [2025-01-29, 15:58:20](https://news.ycombinator.com/item?id=42866572) - [Case Study: ByteDance Uses eBPF to Enhance Networking Performance](https://ebpf.foundation/case-study-bytedance-uses-ebpf-to-enhance-networking-performance/)
-* [2025-01-29, 15:16:41](https://news.ycombinator.com/item?id=42865867) - [A story about restoring and upgrading a Commodore Amiga 1000](https://celso.io/posts/2025/01/26/the-first-perfect-computer/)
 * [2025-01-29, 12:47:17](https://news.ycombinator.com/item?id=42864272) - [Asteroid Impact on Earth 2032 with Probability 1% and 8Mt Energy](https://cneos.jpl.nasa.gov/sentry/details.html#?des=2024%20YR4)
 * [2025-01-29, 09:54:33](https://news.ycombinator.com/item?id=42863262) - [Bacteria (and their metabolites) and depression](https://www.science.org/content/blog-post/bacteria-and-their-metabolites-and-depression)
 * [2025-01-29, 06:43:43](https://news.ycombinator.com/item?id=42862246) - [I still like Sublime Text](https://ohdoylerules.com/workflows/why-i-still-like-sublime-text-in-2025/)
 * [2025-01-29, 04:21:20](https://news.ycombinator.com/item?id=42861475) - [OpenAI says it has evidence DeepSeek used its model to train competitor](https://www.ft.com/content/a0dfedd1-5255-4fa9-8ccc-1fe01de87ea6)
 * [2025-01-28, 19:48:22](https://news.ycombinator.com/item?id=42857029) - [Cardan grille](https://en.wikipedia.org/wiki/Cardan_grille)
 * [2025-01-28, 16:33:32](https://news.ycombinator.com/item?id=42854291) - [Building a T1D smartwatch for my son from scratch](https://andrewchilds.com/posts/building-a-t1d-smartwatch-from-scratch)
+* [2025-01-26, 15:47:19](https://news.ycombinator.com/item?id=42830807) - [Cognitive Reasoning Agents and the Extended Information Filter](https://jdsemrau.substack.com/p/cognitive-reasoning-agents-and-the)
 
 ## [Archives](archives/index.md)
 

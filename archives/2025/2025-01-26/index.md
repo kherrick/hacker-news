@@ -39,6 +39,7 @@
 * [2025-01-26, 16:33:51](https://news.ycombinator.com/item?id=42831281) - [Microsoft 365 Copilot launch was a total disaster](https://www.zdnet.com/home-and-office/work-life/the-microsoft-365-copilot-launch-was-a-total-disaster/)
 * [2025-01-26, 16:10:24](https://news.ycombinator.com/item?id=42831043) - [100 years of Bell Labs [pdf]](https://novitoll.com/posts/2025-1-25/100_years_of_Bell_Labs.pdf)
 * [2025-01-26, 15:59:00](https://news.ycombinator.com/item?id=42830923) - [Are Americans' perceptions of the economy and crime broken?](https://www.niemanlab.org/2024/11/are-americans-perceptions-of-the-economy-and-crime-broken/)
+* [2025-01-26, 15:47:19](https://news.ycombinator.com/item?id=42830807) - [Cognitive Reasoning Agents and the Extended Information Filter](https://jdsemrau.substack.com/p/cognitive-reasoning-agents-and-the)
 * [2025-01-26, 15:26:14](https://news.ycombinator.com/item?id=42830654) - [I Built an Omni-Directional Ball-Wheeled Bike [video]](https://www.youtube.com/watch?v=ZVFB2g25OkM)
 * [2025-01-26, 15:24:53](https://news.ycombinator.com/item?id=42830646) - [It's not a crime if we do it with an app](https://pluralistic.net/2025/01/25/potatotrac/#carbo-loading)
 * [2025-01-26, 14:14:59](https://news.ycombinator.com/item?id=42830208) - [Over Engineered Cars Are Pushing Technicians Away](https://news.ycombinator.com/item?id=42830208)
