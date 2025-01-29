@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-29, 18:35:25](https://news.ycombinator.com/item?id=42869179) - [Sweden eyes sending inmates abroad as prisons full due to gang crime wave](https://www.reuters.com/world/europe/sweden-eyes-sending-inmates-abroad-prisons-full-due-gang-crime-wave-2025-01-29/)
+* [2025-01-29, 19:38:18](https://news.ycombinator.com/item?id=42870056) - [Waymo to test its autonomous driving technology in over 10 new cities](https://www.reuters.com/business/autos-transportation/alphabets-waymo-test-its-autonomous-driving-technology-over-10-new-cities-2025-01-29/)
 * [2025-01-29, 18:09:19](https://news.ycombinator.com/item?id=42868770) - [A minimal PyTorch implementation for training your own small LLM from scratch](https://github.com/Om-Alve/smolGPT)
 * [2025-01-29, 18:06:02](https://news.ycombinator.com/item?id=42868718) - [Adding iodine to salt played a role in cognitive improvements: research (2013)](https://www.discovermagazine.com/health/how-adding-iodine-to-salt-boosted-americans-iq)
 * [2025-01-29, 17:59:28](https://news.ycombinator.com/item?id=42868618) - [No Man's Sky's update introduces billions of new stars, planets, and more](https://blog.playstation.com/2025/01/29/no-mans-skys-latest-update-introduces-billions-of-new-stars-planets-and-more-today/)
