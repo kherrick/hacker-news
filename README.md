@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-29, 21:05:28](https://news.ycombinator.com/item?id=42871143) - [Parsing PDFs (and more) in Elixir using Rust](https://www.chriis.dev/opinion/parsing-pdfs-in-elixir-using-rust)
 * [2025-01-29, 20:50:53](https://news.ycombinator.com/item?id=42870990) - [Making the Video That Made Gorillaz](https://animationobsessive.substack.com/p/making-the-video-that-made-gorillaz)
 * [2025-01-29, 20:30:55](https://news.ycombinator.com/item?id=42870750) - [DeepSeek R1 Is Now Available on Azure AI Foundry and GitHub](https://azure.microsoft.com/en-us/blog/deepseek-r1-is-now-available-on-azure-ai-foundry-and-github/)
 * [2025-01-29, 19:52:27](https://news.ycombinator.com/item?id=42870230) - [Dead Games](https://garry.net/posts/dead-games)
@@ -28,7 +29,6 @@
 * [2025-01-29, 06:43:43](https://news.ycombinator.com/item?id=42862246) - [I still like Sublime Text](https://ohdoylerules.com/workflows/why-i-still-like-sublime-text-in-2025/)
 * [2025-01-29, 04:21:20](https://news.ycombinator.com/item?id=42861475) - [OpenAI says it has evidence DeepSeek used its model to train competitor](https://www.ft.com/content/a0dfedd1-5255-4fa9-8ccc-1fe01de87ea6)
 * [2025-01-28, 16:33:32](https://news.ycombinator.com/item?id=42854291) - [Building a T1D smartwatch for my son from scratch](https://andrewchilds.com/posts/building-a-t1d-smartwatch-from-scratch)
-* [2025-01-26, 22:13:00](https://news.ycombinator.com/item?id=42834739) - [Think your dog can understand words? This scientist says you might be right](https://www.cbc.ca/radio/thecurrent/dogs-understanding-words-new-research-1.7326495)
 * [2025-01-26, 14:14:59](https://news.ycombinator.com/item?id=42830208) - [Over Engineered Cars Are Pushing Technicians Away](https://news.ycombinator.com/item?id=42830208)
 
 ## [Archives](archives/index.md)

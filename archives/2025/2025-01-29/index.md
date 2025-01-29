@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-29](index.md)
 
+* [2025-01-29, 21:05:28](https://news.ycombinator.com/item?id=42871143) - [Parsing PDFs (and more) in Elixir using Rust](https://www.chriis.dev/opinion/parsing-pdfs-in-elixir-using-rust)
 * [2025-01-29, 20:50:53](https://news.ycombinator.com/item?id=42870990) - [Making the Video That Made Gorillaz](https://animationobsessive.substack.com/p/making-the-video-that-made-gorillaz)
 * [2025-01-29, 20:30:55](https://news.ycombinator.com/item?id=42870750) - [DeepSeek R1 Is Now Available on Azure AI Foundry and GitHub](https://azure.microsoft.com/en-us/blog/deepseek-r1-is-now-available-on-azure-ai-foundry-and-github/)
 * [2025-01-29, 19:52:27](https://news.ycombinator.com/item?id=42870230) - [Dead Games](https://garry.net/posts/dead-games)
