@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-01-29](index.md)
 
+* [2025-01-29, 22:45:14](https://news.ycombinator.com/item?id=42872276) - [Advice for a friend who wants to start a blog](https://www.henrikkarlsson.xyz/p/start-a-blog)
 * [2025-01-29, 22:08:30](https://news.ycombinator.com/item?id=42871867) - [Google discontinuing work on Dart macros](https://medium.com/dartlang/an-update-on-dart-macros-data-serialization-06d3037d4f12)
 * [2025-01-29, 22:04:48](https://news.ycombinator.com/item?id=42871820) - [Zed's Vim Roadmap – 2025](https://zed.dev/blog/vim-2025)
 * [2025-01-29, 21:56:11](https://news.ycombinator.com/item?id=42871743) - [From C++ to Clojure: Jank language promises best of both](https://thenewstack.io/from-c-to-clojure-new-language-promises-best-of-both/)
+* [2025-01-29, 21:42:10](https://news.ycombinator.com/item?id=42871574) - [Meta Reports Fourth Quarter and Full Year 2024 Results](https://investor.atmeta.com/investor-news/press-release-details/2025/Meta-Reports-Fourth-Quarter-and-Full-Year-2024-Results/default.aspx)
 * [2025-01-29, 21:25:36](https://news.ycombinator.com/item?id=42871371) - [Exposed DeepSeek database leaking sensitive information, including chat history](https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak)
 * [2025-01-29, 21:05:28](https://news.ycombinator.com/item?id=42871143) - [Parsing PDFs (and more) in Elixir using Rust](https://www.chriis.dev/opinion/parsing-pdfs-in-elixir-using-rust)
 * [2025-01-29, 20:55:49](https://news.ycombinator.com/item?id=42871040) - [Keymapper: A cross-platform context-aware key remapper](https://github.com/houmain/keymapper)
