@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-01-29](index.md)
 
+* [2025-01-29, 12:47:17](https://news.ycombinator.com/item?id=42864272) - [Asteroid Impact on Earth 2032 with Probability 1% and 8Mt Energy](https://cneos.jpl.nasa.gov/sentry/details.html)
+* [2025-01-29, 12:11:47](https://news.ycombinator.com/item?id=42864019) - [The Middle East's first super-luxury train will gleam gold](https://www.cnn.com/travel/dream-of-the-desert-saudi-arabia-train/index.html)
+* [2025-01-29, 12:05:17](https://news.ycombinator.com/item?id=42863976) - [Yellowish Nodules on a Man Consuming a Carnivore Diet](https://jamanetwork.com/journals/jamacardiology/article-abstract/2828915?resultClick=1)
 * [2025-01-29, 12:00:22](https://news.ycombinator.com/item?id=42863949) - [Infracost (YC W21) Is Hiring Senior Software Engineers (GMT+2 to GMT-6)](https://infracost.notion.site/Join-the-team-6512e4f4a89d4fc5b7a112583c0a1c3c)
 * [2025-01-29, 11:35:36](https://news.ycombinator.com/item?id=42863811) - [Nuclear fusion: it's time for a reality check](https://www.theguardian.com/science/2025/jan/22/nuclear-fusion-its-time-for-a-reality-check)
 * [2025-01-29, 11:34:46](https://news.ycombinator.com/item?id=42863808) - [Jevons Paradox](https://en.wikipedia.org/wiki/Jevons_paradox)
