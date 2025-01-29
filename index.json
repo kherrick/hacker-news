@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-29, 22:08:30",
+      "https://news.ycombinator.com/item?id=42871867"
+    ],
+    [
+      "Google discontinuing work on Dart macros",
+      "https://medium.com/dartlang/an-update-on-dart-macros-data-serialization-06d3037d4f12"
+    ]
+  ],
+  [
+    [
+      "2025-01-29, 22:04:48",
+      "https://news.ycombinator.com/item?id=42871820"
+    ],
+    [
+      "Zed's Vim Roadmap – 2025",
+      "https://zed.dev/blog/vim-2025"
+    ]
+  ],
+  [
+    [
       "2025-01-29, 21:05:28",
       "https://news.ycombinator.com/item?id=42871143"
     ],
@@ -11,11 +31,21 @@
   ],
   [
     [
+      "2025-01-29, 20:55:49",
+      "https://news.ycombinator.com/item?id=42871040"
+    ],
+    [
+      "Keymapper: A cross-platform context-aware key remapper",
+      "https://github.com/houmain/keymapper"
+    ]
+  ],
+  [
+    [
       "2025-01-29, 20:50:53",
       "https://news.ycombinator.com/item?id=42870990"
     ],
     [
-      "Making the Video That Made Gorillaz",
+      "Making the video that made Gorillaz",
       "https://animationobsessive.substack.com/p/making-the-video-that-made-gorillaz"
     ]
   ],
@@ -27,6 +57,16 @@
     [
       "DeepSeek R1 Is Now Available on Azure AI Foundry and GitHub",
       "https://azure.microsoft.com/en-us/blog/deepseek-r1-is-now-available-on-azure-ai-foundry-and-github/"
+    ]
+  ],
+  [
+    [
+      "2025-01-29, 20:26:01",
+      "https://news.ycombinator.com/item?id=42870690"
+    ],
+    [
+      "Soviet Shoe Factory Principle",
+      "https://wiki.c2.com/?SovietShoeFactoryPrinciple"
     ]
   ],
   [
@@ -161,16 +201,6 @@
   ],
   [
     [
-      "2025-01-29, 16:26:07",
-      "https://news.ycombinator.com/item?id=42867050"
-    ],
-    [
-      "Show HN: Mcp-Agent – Build effective agents with Model Context Protocol",
-      "https://github.com/lastmile-ai/mcp-agent"
-    ]
-  ],
-  [
-    [
       "2025-01-29, 16:07:09",
       "https://news.ycombinator.com/item?id=42866702"
     ],
@@ -201,52 +231,12 @@
   ],
   [
     [
-      "2025-01-29, 14:59:59",
-      "https://news.ycombinator.com/item?id=42865619"
-    ],
-    [
-      "Google Pixel 4a's old firmware is gone, trapping users on buggy battery update",
-      "https://www.androidcentral.com/phones/google-pixel-4as-old-firmware-is-gone-trapping-users-on-the-buggy-battery-update"
-    ]
-  ],
-  [
-    [
-      "2025-01-29, 13:42:03",
-      "https://news.ycombinator.com/item?id=42864788"
-    ],
-    [
-      "Seagate: 'new' hard drives used for tens of thousands of hours",
-      "https://www.tomshardware.com/pc-components/hdds/german-seagate-customers-say-their-new-hard-drives-were-actually-used-resold-hdds-reportedly-used-for-tens-of-thousands-of-hours"
-    ]
-  ],
-  [
-    [
       "2025-01-29, 12:47:17",
       "https://news.ycombinator.com/item?id=42864272"
     ],
     [
       "Asteroid Impact on Earth 2032 with Probability 1% and 8Mt Energy",
       "https://cneos.jpl.nasa.gov/sentry/details.html#?des=2024%20YR4"
-    ]
-  ],
-  [
-    [
-      "2025-01-29, 12:30:37",
-      "https://news.ycombinator.com/item?id=42864122"
-    ],
-    [
-      "Preserves: An Expressive Data Language",
-      "https://preserves.dev/"
-    ]
-  ],
-  [
-    [
-      "2025-01-29, 11:52:02",
-      "https://news.ycombinator.com/item?id=42863901"
-    ],
-    [
-      "Adding concurrent read/write to DuckDB with Arrow Flight",
-      "https://www.definite.app/blog/duck-takes-flight"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Over Engineered Cars Are Pushing Technicians Away",
       "https://news.ycombinator.com/item?id=42830208"
+    ]
+  ],
+  [
+    [
+      "2025-01-26, 03:07:42",
+      "https://news.ycombinator.com/item?id=42827349"
+    ],
+    [
+      "Can foreigners live in Kofu, a small Japanese town? [video]",
+      "https://www.youtube.com/watch?v=w4nvaYjxnaU"
     ]
   ]
 ]
