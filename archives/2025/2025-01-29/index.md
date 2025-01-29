@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-01-29](index.md)
 
+* [2025-01-29, 15:50:16](https://news.ycombinator.com/item?id=42866435) - [X partners with Visa to enable money transfers on the platform](https://www.washingtonpost.com/business/2025/01/28/visa-x/)
 * [2025-01-29, 15:37:31](https://news.ycombinator.com/item?id=42866201) - [DeepSeek proves the future of LLMs is open-source](https://www.getlago.com/blog/deepseek-open-source)
+* [2025-01-29, 15:26:50](https://news.ycombinator.com/item?id=42866039) - [Comcast is rolling out 'ultra-low lag' tech that could fix the internet](https://www.theverge.com/news/601100/comcast-l4s-low-latency-internet)
 * [2025-01-29, 15:16:41](https://news.ycombinator.com/item?id=42865867) - [A story about restoring and upgrading a Commodore Amiga 1000](https://celso.io/posts/2025/01/26/the-first-perfect-computer/)
 * [2025-01-29, 14:59:59](https://news.ycombinator.com/item?id=42865619) - [Google Pixel 4a old firmware is gone, trapping users on the buggy battery update](https://www.androidcentral.com/phones/google-pixel-4as-old-firmware-is-gone-trapping-users-on-the-buggy-battery-update)
 * [2025-01-29, 14:56:57](https://news.ycombinator.com/item?id=42865575) - [Complete hardware and software setup for running Deepseek-R1 locally. ($6000)](https://twitter.com/carrigmat/status/1884244369907278106)
