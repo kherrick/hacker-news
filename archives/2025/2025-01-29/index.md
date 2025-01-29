@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-29](index.md)
 
+* [2025-01-29, 13:21:53](https://news.ycombinator.com/item?id=42864595) - [Your Phone is why you don't feel sexy](https://catherineshannon.substack.com/p/your-phone-is-why-you-dont-feel-sexy)
 * [2025-01-29, 13:03:00](https://news.ycombinator.com/item?id=42864428) - [Kakistocracy](https://en.wikipedia.org/wiki/Kakistocracy)
 * [2025-01-29, 12:47:17](https://news.ycombinator.com/item?id=42864272) - [Asteroid Impact on Earth 2032 with Probability 1% and 8Mt Energy](https://cneos.jpl.nasa.gov/sentry/details.html)
 * [2025-01-29, 12:30:37](https://news.ycombinator.com/item?id=42864122) - [Preserves: An Expressive Data Language](https://preserves.dev/)

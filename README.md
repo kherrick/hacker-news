@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-29, 13:03:00](https://news.ycombinator.com/item?id=42864428) - [Kakistocracy](https://en.wikipedia.org/wiki/Kakistocracy)
+* [2025-01-29, 13:21:53](https://news.ycombinator.com/item?id=42864595) - [Your Phone is why you don't feel sexy](https://catherineshannon.substack.com/p/your-phone-is-why-you-dont-feel-sexy)
 * [2025-01-29, 12:47:17](https://news.ycombinator.com/item?id=42864272) - [Asteroid Impact on Earth 2032 with Probability 1% and 8Mt Energy](https://cneos.jpl.nasa.gov/sentry/details.html)
 * [2025-01-29, 12:30:37](https://news.ycombinator.com/item?id=42864122) - [Preserves: An Expressive Data Language](https://preserves.dev/)
 * [2025-01-29, 12:00:22](https://news.ycombinator.com/item?id=42863949) - [Infracost (YC W21) Is Hiring Senior Software Engineers (GMT+2 to GMT-6)](https://infracost.notion.site/Join-the-team-6512e4f4a89d4fc5b7a112583c0a1c3c)
