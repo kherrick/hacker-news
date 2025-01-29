@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-29, 06:43:43",
+      "https://news.ycombinator.com/item?id=42862246"
+    ],
+    [
+      "I still like Sublime Text in 2025",
+      "https://ohdoylerules.com/workflows/why-i-still-like-sublime-text-in-2025/"
+    ]
+  ],
+  [
+    [
+      "2025-01-29, 06:16:14",
+      "https://news.ycombinator.com/item?id=42862118"
+    ],
+    [
+      "Science YouTuber physicsgirl (Dianna Cowern) stands for the first time in 2 yrs",
+      "https://www.youtube.com/shorts/2ntx91cOYEc"
+    ]
+  ],
+  [
+    [
       "2025-01-29, 02:22:22",
       "https://news.ycombinator.com/item?id=42860752"
     ],
@@ -41,32 +61,22 @@
   ],
   [
     [
-      "2025-01-29, 00:20:15",
-      "https://news.ycombinator.com/item?id=42859909"
-    ],
-    [
-      "DeepSeek's AI breakthrough bypasses industry-standard CUDA, uses PTX",
-      "https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseeks-ai-breakthrough-bypasses-industry-standard-cuda-uses-assembly-like-ptx-programming-instead"
-    ]
-  ],
-  [
-    [
-      "2025-01-28, 23:31:48",
-      "https://news.ycombinator.com/item?id=42859552"
-    ],
-    [
-      "Deferred resignation email to federal employees",
-      "https://www.opm.gov/fork"
-    ]
-  ],
-  [
-    [
       "2025-01-28, 22:11:36",
       "https://news.ycombinator.com/item?id=42858741"
     ],
     [
       "DeepSeek's multi-head latent attention and other KV cache tricks",
       "https://www.pyspur.dev/blog/multi-head-latent-attention-kv-cache-paper-list"
+    ]
+  ],
+  [
+    [
+      "2025-01-28, 21:09:40",
+      "https://news.ycombinator.com/item?id=42858051"
+    ],
+    [
+      "Slicing the Fourth",
+      "https://axalatar.github.io/slicing-the-fourth/"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Promising results from DeepSeek R1 for code",
       "https://simonwillison.net/2025/Jan/27/llamacpp-pr/"
-    ]
-  ],
-  [
-    [
-      "2025-01-28, 13:28:40",
-      "https://news.ycombinator.com/item?id=42852048"
-    ],
-    [
-      "Show HN: Design/build of some parametric speaker cabinets with OpenSCAD",
-      "https://calbryant.uk/blog/speakers/"
     ]
   ],
   [
