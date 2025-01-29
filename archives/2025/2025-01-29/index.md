@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-01-29](index.md)
 
+* [2025-01-29, 18:20:49](https://news.ycombinator.com/item?id=42868942) - [Nvidia Shares Resume Fall](https://www.ft.com/content/68912f4f-c3a6-4ef7-9ca9-4f92a92600a3)
+* [2025-01-29, 18:09:19](https://news.ycombinator.com/item?id=42868770) - [A minimal PyTorch implementation for training your own small LLM from scratch](https://github.com/Om-Alve/smolGPT)
+* [2025-01-29, 18:06:02](https://news.ycombinator.com/item?id=42868718) - [Adding Iodine to Salt Boosted Americans' IQ (2013)](https://www.discovermagazine.com/health/how-adding-iodine-to-salt-boosted-americans-iq)
 * [2025-01-29, 17:59:28](https://news.ycombinator.com/item?id=42868618) - [No Man's Sky's update introduces billions of new stars, planets, and more](https://blog.playstation.com/2025/01/29/no-mans-skys-latest-update-introduces-billions-of-new-stars-planets-and-more-today/)
 * [2025-01-29, 17:56:51](https://news.ycombinator.com/item?id=42868576) - [Astral – \"We're building a new static type checker for Python\"](https://twitter.com/charliermarsh/status/1884651482009477368)
 * [2025-01-29, 17:53:53](https://news.ycombinator.com/item?id=42868531) - [Intel doesn't know how to be a foundry,\" Tim Cook reportedly told TSMC's CEO](https://www.tomshardware.com/tech-industry/tsmc-founder-says-tim-cook-told-him-intel-did-not-know-how-to-be-a-foundry)
