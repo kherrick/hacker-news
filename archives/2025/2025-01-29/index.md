@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-01-29](index.md)
 
+* [2025-01-29, 12:00:22](https://news.ycombinator.com/item?id=42863949) - [Infracost (YC W21) Is Hiring Senior Software Engineers (GMT+2 to GMT-6)](https://infracost.notion.site/Join-the-team-6512e4f4a89d4fc5b7a112583c0a1c3c)
+* [2025-01-29, 11:35:36](https://news.ycombinator.com/item?id=42863811) - [Nuclear fusion: it's time for a reality check](https://www.theguardian.com/science/2025/jan/22/nuclear-fusion-its-time-for-a-reality-check)
+* [2025-01-29, 11:34:46](https://news.ycombinator.com/item?id=42863808) - [Jevons Paradox](https://en.wikipedia.org/wiki/Jevons_paradox)
+* [2025-01-29, 11:22:34](https://news.ycombinator.com/item?id=42863749) - [Qwen2.5-Max: The Next Leap in AI Innovation](https://medium.com/@ashinno43/qwen2-5-max-the-next-leap-in-ai-innovation-476749c0b4ff)
 * [2025-01-29, 10:08:31](https://news.ycombinator.com/item?id=42863339) - [Terence Tao: Trump's Federal Funding Freeze and Mean-Field Game Theory](https://mathstodon.xyz/@tao/113910070146861518)
 * [2025-01-29, 09:54:33](https://news.ycombinator.com/item?id=42863262) - [Bacteria (and Their Metabolites) and Depression](https://www.science.org/content/blog-post/bacteria-and-their-metabolites-and-depression)
 * [2025-01-29, 08:43:34](https://news.ycombinator.com/item?id=42862873) - [We got hit by an alarmingly well-prepared phish spammer](https://utcc.utoronto.ca/~cks/space/blog/spam/WellPreparedPhishSpammer)
