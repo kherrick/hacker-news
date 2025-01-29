@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-29](index.md)
 
+* [2025-01-29, 14:06:33](https://news.ycombinator.com/item?id=42865018) - [Proof of concept WMI virus (zero-day)](https://github.com/pulpocaminante/Stuxnet)
+* [2025-01-29, 13:50:30](https://news.ycombinator.com/item?id=42864854) - [I do not want AI to \"polish\" me](https://thebloggess.com/2025/01/28/no-i-do-not-want-ai-to-polish-me/)
 * [2025-01-29, 13:42:37](https://news.ycombinator.com/item?id=42864796) - [AppleCare+ claim denied after MacBook Pro was destroyed in a car crash](https://9to5mac.com/2025/01/28/applecare-claim-denied-after-macbook-pro-was-destroyed-in-a-car-crash/)
 * [2025-01-29, 13:42:03](https://news.ycombinator.com/item?id=42864788) - [Seagate: 'new' hard drives used for tens of thousands of hours](https://www.tomshardware.com/pc-components/hdds/german-seagate-customers-say-their-new-hard-drives-were-actually-used-resold-hdds-reportedly-used-for-tens-of-thousands-of-hours)
 * [2025-01-29, 13:21:53](https://news.ycombinator.com/item?id=42864595) - [Your Phone is why you don't feel sexy](https://catherineshannon.substack.com/p/your-phone-is-why-you-dont-feel-sexy)
