@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-01-29](index.md)
 
+* [2025-01-29, 03:18:02](https://news.ycombinator.com/item?id=42861115) - [U.S. Anti-Piracy Symposium Emphazises Need for Site Blocking](https://torrentfreak.com/u-s-anti-piracy-symposium-emphazises-site-blocking-250127/)
 * [2025-01-29, 03:13:46](https://news.ycombinator.com/item?id=42861080) - [DeepSeek R1 671B running on 2 M2 Ultras faster than reading speed](https://twitter.com/awnihannun/status/1881412271236346233)
+* [2025-01-29, 02:24:37](https://news.ycombinator.com/item?id=42860770) - [$6k to run full DeepSeek R1 LLM with reasoning at home](https://twitter.com/carrigmat/status/1884244369907278106)
 * [2025-01-29, 01:11:08](https://news.ycombinator.com/item?id=42860240) - [It's official: Research has found that libraries make everything better](https://lithub.com/its-official-research-has-found-that-libraries-make-everything-better/)
 * [2025-01-29, 00:54:58](https://news.ycombinator.com/item?id=42860141) - [Recreating Delicious Library in 2025?](https://dingyu.me/blog/recreating-delicious-library-in-2025)
 * [2025-01-29, 00:53:30](https://news.ycombinator.com/item?id=42860128) - [Discovery Coding](https://jimmyhmiller.github.io/discovery-coding)
