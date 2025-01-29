@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-01-29, 03:13:46",
+      "https://news.ycombinator.com/item?id=42861080"
+    ],
+    [
+      "DeepSeek R1 671B running on 2 M2 Ultras faster than reading speed",
+      "https://twitter.com/awnihannun/status/1881412271236346233"
+    ]
+  ],
+  [
+    [
       "2025-01-29, 01:11:08",
       "https://news.ycombinator.com/item?id=42860240"
     ],
     [
       "It's official: Research has found that libraries make everything better",
       "https://lithub.com/its-official-research-has-found-that-libraries-make-everything-better/"
+    ]
+  ],
+  [
+    [
+      "2025-01-29, 00:54:58",
+      "https://news.ycombinator.com/item?id=42860141"
+    ],
+    [
+      "Recreating Delicious Library in 2025?",
+      "https://dingyu.me/blog/recreating-delicious-library-in-2025"
     ]
   ],
   [
@@ -27,6 +47,16 @@
     [
       "Goodbye, Slopify",
       "https://alexeystar.com/blog/slopify/"
+    ]
+  ],
+  [
+    [
+      "2025-01-28, 23:31:48",
+      "https://news.ycombinator.com/item?id=42859552"
+    ],
+    [
+      "Fork in the Road",
+      "https://www.opm.gov/fork"
     ]
   ],
   [
@@ -67,16 +97,6 @@
     [
       "SciPhi (YC W24) Is Hiring",
       "https://www.ycombinator.com/companies/sciphi/jobs/CVYWWpl-founding-ai-research-engineer"
-    ]
-  ],
-  [
-    [
-      "2025-01-28, 20:28:48",
-      "https://news.ycombinator.com/item?id=42857532"
-    ],
-    [
-      "Can we get the benefits of transitive dependencies without undermining security?",
-      "https://tratt.net/laurie/blog/2024/can_we_retain_the_benefits_of_transitive_dependencies_without_undermining_security.html"
     ]
   ],
   [
@@ -237,26 +257,6 @@
     [
       "Malimite – iOS and macOS Decompiler",
       "https://github.com/LaurieWired/Malimite"
-    ]
-  ],
-  [
-    [
-      "2025-01-26, 11:09:17",
-      "https://news.ycombinator.com/item?id=42829346"
-    ],
-    [
-      "Watch the path of a raindrop from anywhere in the world",
-      "https://river-runner-global.samlearner.com/"
-    ]
-  ],
-  [
-    [
-      "2025-01-26, 11:03:50",
-      "https://news.ycombinator.com/item?id=42829315"
-    ],
-    [
-      "Keycloak, Angular, and the BFF Pattern",
-      "https://blog.brakmic.com/keycloak-angular-and-the-bff-pattern/"
     ]
   ],
   [
