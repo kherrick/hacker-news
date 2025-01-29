@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-29](index.md)
 
 * [2025-01-29, 19:38:18](https://news.ycombinator.com/item?id=42870056) - [Waymo to test its autonomous driving technology in over 10 new cities](https://www.reuters.com/business/autos-transportation/alphabets-waymo-test-its-autonomous-driving-technology-over-10-new-cities-2025-01-29/)
+* [2025-01-29, 19:25:16](https://news.ycombinator.com/item?id=42869865) - [Ask HN: Are there \"story-based\" and \"fact-based\" people?](https://news.ycombinator.com/item?id=42869865)
 * [2025-01-29, 19:14:36](https://news.ycombinator.com/item?id=42869700) - ['Headed for technofascism': the rightwing roots of Silicon Valley](https://www.theguardian.com/technology/ng-interactive/2025/jan/29/silicon-valley-rightwing-technofascism)
 * [2025-01-29, 18:57:43](https://news.ycombinator.com/item?id=42869464) - [White House rescinds federal aid freeze](https://www.cnn.com/2025/01/29/politics/white-house-rescind-federal-funding-freeze/index.html)
 * [2025-01-29, 18:35:25](https://news.ycombinator.com/item?id=42869179) - [Sweden eyes sending inmates abroad as prisons full due to gang crime wave](https://www.reuters.com/world/europe/sweden-eyes-sending-inmates-abroad-prisons-full-due-gang-crime-wave-2025-01-29/)

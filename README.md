@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-29, 19:38:18](https://news.ycombinator.com/item?id=42870056) - [Waymo to test its autonomous driving technology in over 10 new cities](https://www.reuters.com/business/autos-transportation/alphabets-waymo-test-its-autonomous-driving-technology-over-10-new-cities-2025-01-29/)
+* [2025-01-29, 19:25:16](https://news.ycombinator.com/item?id=42869865) - [Ask HN: Are there \"story-based\" and \"fact-based\" people?](https://news.ycombinator.com/item?id=42869865)
+* [2025-01-29, 18:35:25](https://news.ycombinator.com/item?id=42869179) - [Sweden eyes sending inmates abroad as prisons full due to gang crime wave](https://www.reuters.com/world/europe/sweden-eyes-sending-inmates-abroad-prisons-full-due-gang-crime-wave-2025-01-29/)
 * [2025-01-29, 18:09:19](https://news.ycombinator.com/item?id=42868770) - [A minimal PyTorch implementation for training your own small LLM from scratch](https://github.com/Om-Alve/smolGPT)
 * [2025-01-29, 18:06:02](https://news.ycombinator.com/item?id=42868718) - [Adding iodine to salt played a role in cognitive improvements: research (2013)](https://www.discovermagazine.com/health/how-adding-iodine-to-salt-boosted-americans-iq)
 * [2025-01-29, 17:59:28](https://news.ycombinator.com/item?id=42868618) - [No Man's Sky's update introduces billions of new stars, planets, and more](https://blog.playstation.com/2025/01/29/no-mans-skys-latest-update-introduces-billions-of-new-stars-planets-and-more-today/)
@@ -17,7 +19,6 @@
 * [2025-01-29, 15:16:41](https://news.ycombinator.com/item?id=42865867) - [A story about restoring and upgrading a Commodore Amiga 1000](https://celso.io/posts/2025/01/26/the-first-perfect-computer/)
 * [2025-01-29, 14:59:59](https://news.ycombinator.com/item?id=42865619) - [Google Pixel 4a's old firmware is gone, trapping users on buggy battery update](https://www.androidcentral.com/phones/google-pixel-4as-old-firmware-is-gone-trapping-users-on-the-buggy-battery-update)
 * [2025-01-29, 14:56:57](https://news.ycombinator.com/item?id=42865575) - [Complete hardware and software setup for running Deepseek-R1 locally](https://twitter.com/carrigmat/status/1884244369907278106)
-* [2025-01-29, 14:56:56](https://news.ycombinator.com/item?id=42865574) - [Only 1 in 10 Oracle Java users want to stay with Big Red](https://www.theregister.com/2025/01/29/only_one_in_ten_oracle/)
 * [2025-01-29, 13:42:03](https://news.ycombinator.com/item?id=42864788) - [Seagate: 'new' hard drives used for tens of thousands of hours](https://www.tomshardware.com/pc-components/hdds/german-seagate-customers-say-their-new-hard-drives-were-actually-used-resold-hdds-reportedly-used-for-tens-of-thousands-of-hours)
 * [2025-01-29, 12:30:37](https://news.ycombinator.com/item?id=42864122) - [Preserves: An Expressive Data Language](https://preserves.dev/)
 * [2025-01-29, 11:52:02](https://news.ycombinator.com/item?id=42863901) - [Adding concurrent read/write to DuckDB with Arrow Flight](https://www.definite.app/blog/duck-takes-flight)
@@ -27,7 +28,6 @@
 * [2025-01-28, 21:20:42](https://news.ycombinator.com/item?id=42858187) - [The ancient discovery that put a Silk Road city back on the map](https://www.bbc.com/travel/article/20250127-one-of-the-last-traders-on-the-silk-road)
 * [2025-01-28, 18:31:34](https://news.ycombinator.com/item?id=42856023) - [New speculative attacks on Apple CPUs](https://predictors.fail/)
 * [2025-01-28, 15:46:53](https://news.ycombinator.com/item?id=42853633) - [Boom XB-1 First Supersonic Flight [video]](https://www.youtube.com/watch?v=-qisIViAHwI)
-* [2025-01-28, 15:09:52](https://news.ycombinator.com/item?id=42853174) - [IAC confirms existence of a Super-earth in the habitable zone of a Sun-like Star](https://www.iac.es/en/outreach/news/iac-confirms-existence-super-earth-habitable-zone-sun-star)
 * [2025-01-26, 09:08:56](https://news.ycombinator.com/item?id=42828883) - [Composable SQL](https://borretti.me/article/composable-sql)
 * [2025-01-25, 22:02:27](https://news.ycombinator.com/item?id=42825324) - [Integration of 1,024 silicon quantum dots with on-chip electronics](https://phys.org/news/2025-01-silicon-quantum-dots-chip-electronics.html)
 
