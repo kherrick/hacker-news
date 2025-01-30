@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-30, 22:13:43](https://news.ycombinator.com/item?id=42882698) - [What Makes a Great Mocktail?](https://www.seriouseats.com/cocktail-science-mocktail-how-to-replicate-the-taste-of-alcohol-in-a-nonalcoholic-drink)
 * [2025-01-30, 21:00:10](https://news.ycombinator.com/item?id=42882121) - [Svix (YC W21) Is Hiring a Developer Marketer (US Remote)](https://www.svix.com/careers/)
 * [2025-01-30, 20:30:09](https://news.ycombinator.com/item?id=42881858) - [Signs Of Life In A Desert](https://www.noemamag.com/signs-of-life-in-a-desert-of-death/)
 * [2025-01-30, 19:44:02](https://news.ycombinator.com/item?id=42881408) - [Optical Frequency Combs](https://www.nist.gov/topics/physics/optical-frequency-combs)
@@ -28,7 +29,6 @@
 * [2025-01-27, 00:15:29](https://news.ycombinator.com/item?id=42835808) - [Teemoji: Like Tee but with Emojis](https://github.com/willswire/teemoji)
 * [2025-01-26, 17:57:50](https://news.ycombinator.com/item?id=42832114) - [Permission to Practise Medicine](https://blogs.bl.uk/digitisedmanuscripts/2025/01/permission-to-practise-medicine.html)
 * [2025-01-26, 17:44:54](https://news.ycombinator.com/item?id=42831969) - [The story of my home made pipe organ (2000)](https://www.sentex.ca/~mwandel/organ/organ.html)
-* [2025-01-26, 16:00:50](https://news.ycombinator.com/item?id=42830948) - [Proper decoupling capacitor practices, and why you should leave 100nF behind](https://codeinsecurity.wordpress.com/2025/01/25/proper-decoupling-practices-and-why-you-should-leave-100nf-behind/)
 * [2025-01-26, 14:59:26](https://news.ycombinator.com/item?id=42830478) - [Analysis of Product Hunt products from 2014 to 2021](https://components.one/posts/gamer-and-nihilist-product-hunt)
 
 ## [Archives](archives/index.md)
