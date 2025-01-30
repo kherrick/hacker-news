@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-30](index.md)
 
+* [2025-01-30, 08:36:35](https://news.ycombinator.com/item?id=42876055) - [The US government's open data on Data.gov is currently being scrubbed](https://old.reddit.com/r/climate/comments/1idiliv/the_us_governments_open_data_on_datagov_is/)
+* [2025-01-30, 08:04:53](https://news.ycombinator.com/item?id=42875888) - [Investigating the case of human nose shape and climate adaptation](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006616)
 * [2025-01-30, 06:17:44](https://news.ycombinator.com/item?id=42875399) - [Majority of US teens have lost trust in Big Tech](https://techcrunch.com/2025/01/29/report-majority-of-u-s-teens-have-lost-trust-in-big-tech/)
 * [2025-01-30, 04:33:25](https://news.ycombinator.com/item?id=42874885) - [PCBs, Ground Plates, and You](https://lcamtuf.substack.com/p/pcbs-ground-planes-and-you)
 * [2025-01-30, 03:51:42](https://news.ycombinator.com/item?id=42874638) - [Plane Crashes Near Washington DC after midair collision with helicopter](https://www.nytimes.com/live/2025/01/29/us/plane-crash-washington-dc)
