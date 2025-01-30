@@ -5,7 +5,6 @@
 * [2025-01-30, 18:56:42](https://news.ycombinator.com/item?id=42880873) - [Show HN: Reactive Signals for Python – inspired by Angular's reactivity model](https://github.com/buiapp/reaktiv)
 * [2025-01-30, 18:48:30](https://news.ycombinator.com/item?id=42880807) - [California Law Enforcement Misused State Databases More Than 7k Times in 2023](https://www.eff.org/deeplinks/2025/01/california-police-misused-state-databases-more-7000-times-2023)
 * [2025-01-30, 18:38:12](https://news.ycombinator.com/item?id=42880704) - [1996 \"Authentic\" Beta Pokemon Cards Exposed as 2024 Prints via Printer Dots](https://www.elitefourum.com/t/many-of-the-pokemon-playtest-cards-were-likely-printed-in-2024/52421)
-* [2025-01-30, 18:19:55](https://news.ycombinator.com/item?id=42880513) - [Cointelpro](https://en.wikipedia.org/wiki/COINTELPRO)
 * [2025-01-30, 18:14:46](https://news.ycombinator.com/item?id=42880449) - [Show HN: Iterm-Mcp – AI Terminal/REPL Control for iTerm2](https://github.com/ferrislucas/iterm-mcp)
 * [2025-01-30, 17:57:46](https://news.ycombinator.com/item?id=42880242) - [Quaternions and Spherical Trigonometry](https://terrytao.wordpress.com/2024/12/19/quaternions-and-spherical-trigonometry/)
 * [2025-01-30, 17:00:00](https://news.ycombinator.com/item?id=42879663) - [Great Question (YC W21) Is Hiring Lead Product Designer](https://www.ycombinator.com/companies/great-question/jobs/T5RTrue-lead-product-designer)
@@ -29,6 +28,7 @@
 * [2025-01-27, 00:15:29](https://news.ycombinator.com/item?id=42835808) - [Teemoji: Like Tee but with Emojis](https://github.com/willswire/teemoji)
 * [2025-01-26, 17:57:50](https://news.ycombinator.com/item?id=42832114) - [Permission to Practise Medicine](https://blogs.bl.uk/digitisedmanuscripts/2025/01/permission-to-practise-medicine.html)
 * [2025-01-26, 17:44:54](https://news.ycombinator.com/item?id=42831969) - [My home built pipe organ](https://www.sentex.ca/~mwandel/organ/organ.html)
+* [2025-01-26, 16:00:50](https://news.ycombinator.com/item?id=42830948) - [Proper decoupling capacitor practices, and why you should leave 100nF behind](https://codeinsecurity.wordpress.com/2025/01/25/proper-decoupling-practices-and-why-you-should-leave-100nf-behind/)
 * [2025-01-26, 14:59:26](https://news.ycombinator.com/item?id=42830478) - [Analysis of Product Hunt products from 2014 to 2021](https://components.one/posts/gamer-and-nihilist-product-hunt)
 
 ## [Archives](archives/index.md)
