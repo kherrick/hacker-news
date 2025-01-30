@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-30, 08:22:26](https://news.ycombinator.com/item?id=42875985) - [I built a website where you can pop confettis for no reason](https://poptheconfetti.website)
+* [2025-01-30, 11:28:31](https://news.ycombinator.com/item?id=42876840) - [JavaScript Temporal Is Coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
 * [2025-01-30, 08:06:08](https://news.ycombinator.com/item?id=42875900) - [A Young Man Used AI to Build a Nuclear Fusor and Now I Must Weep](https://www.corememory.com/p/a-young-man-used-ai-to-build-a-nuclear)
 * [2025-01-30, 08:04:53](https://news.ycombinator.com/item?id=42875888) - [Investigating the case of human nose shape and climate adaptation](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006616)
 * [2025-01-30, 04:33:25](https://news.ycombinator.com/item?id=42874885) - [PCBs, copper pours, ground planes, and you](https://lcamtuf.substack.com/p/pcbs-ground-planes-and-you)

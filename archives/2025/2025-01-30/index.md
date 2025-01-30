@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-30](index.md)
 
+* [2025-01-30, 11:28:31](https://news.ycombinator.com/item?id=42876840) - [JavaScript Temporal Is Coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
 * [2025-01-30, 09:44:25](https://news.ycombinator.com/item?id=42876367) - [Tesla sales in Germany dropped 41% in 2024](https://www.cleanenergywire.org/news/tesla-registrations-plummet-41-percent-germany-2024-company-slides-ev-ranking)
 * [2025-01-30, 08:36:35](https://news.ycombinator.com/item?id=42876055) - [The US government's open data on Data.gov is currently being scrubbed](https://old.reddit.com/r/climate/comments/1idiliv/the_us_governments_open_data_on_datagov_is/)
 * [2025-01-30, 08:22:26](https://news.ycombinator.com/item?id=42875985) - [I built a website where you can pop confettis for no reason](https://poptheconfetti.website)
