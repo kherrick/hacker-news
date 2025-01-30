@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-01-30](index.md)
 
+* [2025-01-30, 18:48:30](https://news.ycombinator.com/item?id=42880807) - [California Law Enforcement Misused State Databases More Than 7k Times in 2023](https://www.eff.org/deeplinks/2025/01/california-police-misused-state-databases-more-7000-times-2023)
+* [2025-01-30, 18:38:12](https://news.ycombinator.com/item?id=42880704) - [1996 \"Authentic\" Beta Pokemon Cards Exposed as 2024 Prints via Printer Dots](https://www.elitefourum.com/t/many-of-the-pokemon-playtest-cards-were-likely-printed-in-2024/52421)
 * [2025-01-30, 18:32:44](https://news.ycombinator.com/item?id=42880663) - [Unintended workplace safety consequences of minimum wages](https://www.sciencedirect.com/science/article/abs/pii/S004727272400183X)
+* [2025-01-30, 18:19:55](https://news.ycombinator.com/item?id=42880513) - [Cointelpro](https://en.wikipedia.org/wiki/COINTELPRO)
 * [2025-01-30, 18:14:46](https://news.ycombinator.com/item?id=42880449) - [Show HN: Iterm-Mcp – AI Terminal/REPL Control for iTerm2](https://github.com/ferrislucas/iterm-mcp)
 * [2025-01-30, 17:57:46](https://news.ycombinator.com/item?id=42880242) - [Quaternions and Spherical Trigonometry](https://terrytao.wordpress.com/2024/12/19/quaternions-and-spherical-trigonometry/)
 * [2025-01-30, 17:19:13](https://news.ycombinator.com/item?id=42879864) - [Cerebras fastest host for DeepSeek R1, 57x faster than Nvidia GPUs](https://venturebeat.com/ai/cerebras-becomes-the-worlds-fastest-host-for-deepseek-r1-outpacing-nvidia-gpus-by-57x/)
