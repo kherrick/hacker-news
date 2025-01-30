@@ -6,6 +6,7 @@
 
 * [2025-01-30, 14:01:27](https://news.ycombinator.com/item?id=42877709) - [Note on the Relationship Between Artificial Intelligence and Human Intelligence](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html)
 * [2025-01-30, 13:54:09](https://news.ycombinator.com/item?id=42877648) - [The Slow Death of OCSP](https://www.feistyduck.com/newsletter/issue_121_the_slow_death_of_ocsp)
+* [2025-01-30, 13:38:33](https://news.ycombinator.com/item?id=42877538) - [Krita 5.2.9 Released](https://krita.org/en/posts/2025/krita-5-2-9-released/)
 * [2025-01-30, 13:20:24](https://news.ycombinator.com/item?id=42877440) - [Germany: Angela Merkel chides own party over far-right help](https://www.dw.com/en/merkel-slams-cdu-far-right-support/a-71454687)
 * [2025-01-30, 13:01:05](https://news.ycombinator.com/item?id=42877325) - [I Told You: Chaos Is Coming](https://freddiedeboer.substack.com/p/i-told-you-chaos-is-coming)
 * [2025-01-30, 12:00:46](https://news.ycombinator.com/item?id=42877004) - [Codes Health (YC S24) Is Hiring](https://news.ycombinator.com/item?id=42877004)
