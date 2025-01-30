@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-30](index.md)
 
+* [2025-01-30, 15:17:44](https://news.ycombinator.com/item?id=42878532) - [The AI Fad Just Burned to the Waterline](http://charleshughsmith.blogspot.com/2025/01/the-ai-fad-just-burned-to-waterline.html)
 * [2025-01-30, 14:44:33](https://news.ycombinator.com/item?id=42878173) - [Github Incident with Pull Requests and Issues](https://www.githubstatus.com/incidents/nm83zrdky73y)
 * [2025-01-30, 14:29:28](https://news.ycombinator.com/item?id=42877995) - [GitHub Is Down](https://www.githubstatus.com)
 * [2025-01-30, 14:21:20](https://news.ycombinator.com/item?id=42877910) - [String of recent killings linked to Bay Area rationalist 'death cult'](https://www.sfgate.com/bayarea/article/bay-area-death-cult-zizian-murders-20064333.php)
@@ -12,6 +13,8 @@
 * [2025-01-30, 13:54:09](https://news.ycombinator.com/item?id=42877648) - [The Slow Death of OCSP](https://www.feistyduck.com/newsletter/issue_121_the_slow_death_of_ocsp)
 * [2025-01-30, 13:38:33](https://news.ycombinator.com/item?id=42877538) - [Krita 5.2.9 Released](https://krita.org/en/posts/2025/krita-5-2-9-released/)
 * [2025-01-30, 13:20:24](https://news.ycombinator.com/item?id=42877440) - [Germany: Angela Merkel chides own party over far-right help](https://www.dw.com/en/merkel-slams-cdu-far-right-support/a-71454687)
+* [2025-01-30, 13:18:49](https://news.ycombinator.com/item?id=42877430) - [History of APL in the USSR (1991)](https://dl.acm.org/doi/10.1145/130647.130656)
+* [2025-01-30, 13:12:34](https://news.ycombinator.com/item?id=42877399) - [Audiocube – A 3D DAW for Spatial Audio](https://www.audiocube.app)
 * [2025-01-30, 13:01:05](https://news.ycombinator.com/item?id=42877325) - [I Told You: Chaos Is Coming](https://freddiedeboer.substack.com/p/i-told-you-chaos-is-coming)
 * [2025-01-30, 12:35:37](https://news.ycombinator.com/item?id=42877177) - [Light Phone III camera sample photos](https://www.thelightphone.com/blog/creating-the-light-camera-tool)
 * [2025-01-30, 12:00:46](https://news.ycombinator.com/item?id=42877004) - [Codes Health (YC S24) Is Hiring](https://news.ycombinator.com/item?id=42877004)
