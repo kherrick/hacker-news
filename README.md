@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-30, 14:44:33](https://news.ycombinator.com/item?id=42878173) - [Github Incident with Pull Requests and Issues](https://www.githubstatus.com/incidents/nm83zrdky73y)
 * [2025-01-30, 14:29:28](https://news.ycombinator.com/item?id=42877995) - [GitHub Is Down](https://www.githubstatus.com)
+* [2025-01-30, 14:21:20](https://news.ycombinator.com/item?id=42877910) - [String of recent killings linked to Bay Area rationalist 'death cult'](https://www.sfgate.com/bayarea/article/bay-area-death-cult-zizian-murders-20064333.php)
 * [2025-01-30, 14:16:57](https://news.ycombinator.com/item?id=42877860) - [Mistral Small 3](https://mistral.ai/news/mistral-small-3/)
 * [2025-01-30, 14:01:27](https://news.ycombinator.com/item?id=42877709) - [Note on the Relationship Between Artificial Intelligence and Human Intelligence](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html)
 * [2025-01-30, 13:54:09](https://news.ycombinator.com/item?id=42877648) - [The Slow Death of OCSP](https://www.feistyduck.com/newsletter/issue_121_the_slow_death_of_ocsp)
@@ -24,11 +26,9 @@
 * [2025-01-27, 01:34:09](https://news.ycombinator.com/item?id=42836370) - [Rust’s worst feature](https://mina86.com/2025/rusts-worst-feature/)
 * [2025-01-27, 00:15:29](https://news.ycombinator.com/item?id=42835808) - [Teemoji: Like Tee but with Emojis](https://github.com/willswire/teemoji)
 * [2025-01-26, 23:28:13](https://news.ycombinator.com/item?id=42835424) - [Detecting edges of images at the speed of light](https://phys.org/news/2025-01-edges-images.html)
-* [2025-01-26, 17:57:50](https://news.ycombinator.com/item?id=42832114) - [Permission to Practise Medicine](https://blogs.bl.uk/digitisedmanuscripts/2025/01/permission-to-practise-medicine.html)
 * [2025-01-26, 17:49:13](https://news.ycombinator.com/item?id=42832021) - [Goethe's \"Sorcerer's Apprentice\" – power over wisdom](https://wilderutopia.com/performance/literary/goethes-sorcerers-apprentice-power-over-wisdom/)
 * [2025-01-26, 17:44:54](https://news.ycombinator.com/item?id=42831969) - [My home built pipe organ](https://www.sentex.ca/~mwandel/organ/organ.html)
 * [2025-01-26, 17:41:09](https://news.ycombinator.com/item?id=42831935) - [Piled High: 17th-Century Dutch Banquet Scenes](https://publicdomainreview.org/collection/dutch-banquet-scenes/)
-* [2025-01-26, 16:00:50](https://news.ycombinator.com/item?id=42830948) - [Proper decoupling capacitor practices, and why you should leave 100nF behind](https://codeinsecurity.wordpress.com/2025/01/25/proper-decoupling-practices-and-why-you-should-leave-100nf-behind/)
 * [2025-01-26, 14:59:26](https://news.ycombinator.com/item?id=42830478) - [Analysis of 76,882 Product Hunt Products, from 2014 – 2021](https://components.one/posts/gamer-and-nihilist-product-hunt)
 
 ## [Archives](archives/index.md)
