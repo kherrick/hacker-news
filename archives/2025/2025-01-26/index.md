@@ -32,6 +32,7 @@
 * [2025-01-26, 17:59:14](https://news.ycombinator.com/item?id=42832132) - [Austin rents have fallen for nearly two years. Here's why](https://www.texastribune.org/2025/01/22/austin-texas-rents-falling/)
 * [2025-01-26, 17:49:37](https://news.ycombinator.com/item?id=42832026) - [No Bitcoin ETFs at Vanguard? Here's why](https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/no-bitcoin-etfs-at-vanguard-heres-why.html)
 * [2025-01-26, 17:40:11](https://news.ycombinator.com/item?id=42831927) - [OpenJazz is a free, open-source version of the classic Jazz Jackrabbit games](https://alister.eu/jazz/oj/about.php)
+* [2025-01-26, 17:39:19](https://news.ycombinator.com/item?id=42831914) - [Snakeskin: It's Fashionable, and It Scares Predators Away from Bird Nests](https://www.nytimes.com/2025/01/25/science/snakeskin-birds-nests.html)
 * [2025-01-26, 17:24:15](https://news.ycombinator.com/item?id=42831769) - [Qwen2.5-1M: Deploy Your Own Qwen with Context Length Up to 1M Tokens](https://qwenlm.github.io/blog/qwen2.5-1m/)
 * [2025-01-26, 17:01:25](https://news.ycombinator.com/item?id=42831550) - [Reviving a Dead Audio Format: The Return of ZZM](https://nicole.express/2025/zoo-of-zero-motivation.html)
 * [2025-01-26, 17:00:17](https://news.ycombinator.com/item?id=42831539) - [One word that explains why the world feels 'deeply off' for so many people](https://www.upworthy.com/hypernormalization-explained)
