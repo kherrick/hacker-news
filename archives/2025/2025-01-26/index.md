@@ -33,6 +33,7 @@
 * [2025-01-26, 17:49:37](https://news.ycombinator.com/item?id=42832026) - [No Bitcoin ETFs at Vanguard? Here's why](https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/no-bitcoin-etfs-at-vanguard-heres-why.html)
 * [2025-01-26, 17:49:13](https://news.ycombinator.com/item?id=42832021) - [Goethe's \"Sorcerer's Apprentice\" – power over wisdom](https://wilderutopia.com/performance/literary/goethes-sorcerers-apprentice-power-over-wisdom/)
 * [2025-01-26, 17:44:54](https://news.ycombinator.com/item?id=42831969) - [My home built pipe organ](https://www.sentex.ca/~mwandel/organ/organ.html)
+* [2025-01-26, 17:41:09](https://news.ycombinator.com/item?id=42831935) - [Piled High: 17th-Century Dutch Banquet Scenes](https://publicdomainreview.org/collection/dutch-banquet-scenes/)
 * [2025-01-26, 17:40:11](https://news.ycombinator.com/item?id=42831927) - [OpenJazz is a free, open-source version of the classic Jazz Jackrabbit games](https://alister.eu/jazz/oj/about.php)
 * [2025-01-26, 17:39:19](https://news.ycombinator.com/item?id=42831914) - [Snakeskin: It's Fashionable, and It Scares Predators Away from Bird Nests](https://www.nytimes.com/2025/01/25/science/snakeskin-birds-nests.html)
 * [2025-01-26, 17:24:15](https://news.ycombinator.com/item?id=42831769) - [Qwen2.5-1M: Deploy Your Own Qwen with Context Length Up to 1M Tokens](https://qwenlm.github.io/blog/qwen2.5-1m/)
