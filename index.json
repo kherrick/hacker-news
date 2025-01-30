@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-01-30, 13:01:05",
-      "https://news.ycombinator.com/item?id=42877325"
-    ],
-    [
-      "I Told You: Chaos Is Coming",
-      "https://freddiedeboer.substack.com/p/i-told-you-chaos-is-coming"
-    ]
-  ],
-  [
-    [
       "2025-01-30, 12:00:46",
       "https://news.ycombinator.com/item?id=42877004"
     ],
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=42876840"
     ],
     [
-      "JavaScript Temporal Is Coming",
+      "JavaScript Temporal is coming",
       "https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/"
     ]
   ],
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=42875888"
     ],
     [
-      "Investigating the case of human nose shape and climate adaptation",
+      "Investigating the case of human nose shape and climate adaptation (2017)",
       "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006616"
     ]
   ],
@@ -87,16 +77,6 @@
     [
       "Decompiling 2024: A Year of Resurgance in Decompilation Research",
       "https://mahaloz.re/dec-progress-2024"
-    ]
-  ],
-  [
-    [
-      "2025-01-30, 00:53:21",
-      "https://news.ycombinator.com/item?id=42873476"
-    ],
-    [
-      "Classic Duck Hunt game made in JavaScript and Kaplay",
-      "https://jslegend.itch.io/duck-hunter"
     ]
   ],
   [
@@ -201,6 +181,16 @@
   ],
   [
     [
+      "2025-01-29, 15:58:20",
+      "https://news.ycombinator.com/item?id=42866572"
+    ],
+    [
+      "Case Study: ByteDance Uses eBPF to Enhance Networking Performance",
+      "https://ebpf.foundation/case-study-bytedance-uses-ebpf-to-enhance-networking-performance/"
+    ]
+  ],
+  [
+    [
       "2025-01-29, 12:47:17",
       "https://news.ycombinator.com/item?id=42864272"
     ],
@@ -235,7 +225,7 @@
       "https://news.ycombinator.com/item?id=42836370"
     ],
     [
-      "Rust's worst feature (available in Rust nightly)",
+      "Rust’s worst feature",
       "https://mina86.com/2025/rusts-worst-feature/"
     ]
   ],
@@ -277,6 +267,16 @@
     [
       "My home built pipe organ",
       "https://www.sentex.ca/~mwandel/organ/organ.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-26, 17:08:34",
+      "https://news.ycombinator.com/item?id=42831621"
+    ],
+    [
+      "Digital Reality, Digital Shock: Growing Up at the Dawn of Cyberspace",
+      "https://www.chrbutler.com/digital-reality-digital-shock"
     ]
   ],
   [
