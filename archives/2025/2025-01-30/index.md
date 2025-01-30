@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-30](index.md)
 
+* [2025-01-30, 17:00:00](https://news.ycombinator.com/item?id=42879663) - [Great Question (YC W21) Is Hiring Lead Product Designer](https://www.ycombinator.com/companies/great-question/jobs/T5RTrue-lead-product-designer)
 * [2025-01-30, 15:42:56](https://news.ycombinator.com/item?id=42878780) - [PyPI Now Supports Project Archival](https://blog.pypi.org/posts/2025-01-30-archival/)
 * [2025-01-30, 15:24:53](https://news.ycombinator.com/item?id=42878598) - [Review: Superbloom: How Technologies of Connection Tear Us Apart](https://lareviewofbooks.org/article/the-case-for-kicking-the-stone/)
 * [2025-01-30, 15:17:44](https://news.ycombinator.com/item?id=42878532) - [The AI Fad Just Burned to the Waterline](http://charleshughsmith.blogspot.com/2025/01/the-ai-fad-just-burned-to-waterline.html)

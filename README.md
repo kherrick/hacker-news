@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-30, 15:42:56](https://news.ycombinator.com/item?id=42878780) - [PyPI Now Supports Project Archival](https://blog.pypi.org/posts/2025-01-30-archival/)
+* [2025-01-30, 17:00:00](https://news.ycombinator.com/item?id=42879663) - [Great Question (YC W21) Is Hiring Lead Product Designer](https://www.ycombinator.com/companies/great-question/jobs/T5RTrue-lead-product-designer)
 * [2025-01-30, 15:24:53](https://news.ycombinator.com/item?id=42878598) - [Review: Superbloom: How Technologies of Connection Tear Us Apart](https://lareviewofbooks.org/article/the-case-for-kicking-the-stone/)
 * [2025-01-30, 14:16:57](https://news.ycombinator.com/item?id=42877860) - [Mistral Small 3](https://mistral.ai/news/mistral-small-3/)
 * [2025-01-30, 14:01:27](https://news.ycombinator.com/item?id=42877709) - [Note on the Relationship Between Artificial Intelligence and Human Intelligence](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html)
 * [2025-01-30, 13:18:49](https://news.ycombinator.com/item?id=42877430) - [History of APL in the USSR (1991)](https://dl.acm.org/doi/10.1145/130647.130656)
 * [2025-01-30, 13:12:34](https://news.ycombinator.com/item?id=42877399) - [Audiocube – A 3D DAW for Spatial Audio (Audio Software)](https://www.audiocube.app)
-* [2025-01-30, 12:00:46](https://news.ycombinator.com/item?id=42877004) - [Codes Health (YC S24) Is Hiring](https://news.ycombinator.com/item?id=42877004)
 * [2025-01-30, 11:28:31](https://news.ycombinator.com/item?id=42876840) - [JavaScript Temporal is coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
 * [2025-01-30, 08:04:53](https://news.ycombinator.com/item?id=42875888) - [Investigating the case of human nose shape and climate adaptation (2017)](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006616)
 * [2025-01-30, 04:33:25](https://news.ycombinator.com/item?id=42874885) - [PCBs, copper pours, ground planes, and you](https://lcamtuf.substack.com/p/pcbs-ground-planes-and-you)
@@ -28,6 +27,7 @@
 * [2025-01-26, 17:49:13](https://news.ycombinator.com/item?id=42832021) - [Goethe's \"Sorcerer's Apprentice\" – power over wisdom](https://wilderutopia.com/performance/literary/goethes-sorcerers-apprentice-power-over-wisdom/)
 * [2025-01-26, 17:44:54](https://news.ycombinator.com/item?id=42831969) - [My home built pipe organ](https://www.sentex.ca/~mwandel/organ/organ.html)
 * [2025-01-26, 17:41:09](https://news.ycombinator.com/item?id=42831935) - [Piled High: 17th-Century Dutch Banquet Scenes](https://publicdomainreview.org/collection/dutch-banquet-scenes/)
+* [2025-01-26, 17:08:34](https://news.ycombinator.com/item?id=42831621) - [Digital Reality, Digital Shock: Growing Up at the Dawn of Cyberspace](https://www.chrbutler.com/digital-reality-digital-shock)
 * [2025-01-26, 16:00:50](https://news.ycombinator.com/item?id=42830948) - [Proper decoupling capacitor practices, and why you should leave 100nF behind](https://codeinsecurity.wordpress.com/2025/01/25/proper-decoupling-practices-and-why-you-should-leave-100nf-behind/)
 * [2025-01-26, 14:59:26](https://news.ycombinator.com/item?id=42830478) - [Analysis of 76,882 Product Hunt Products, from 2014 – 2021](https://components.one/posts/gamer-and-nihilist-product-hunt)
 
