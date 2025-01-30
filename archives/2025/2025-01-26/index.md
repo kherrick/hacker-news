@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-26](index.md)
 
+* [2025-01-26, 23:28:13](https://news.ycombinator.com/item?id=42835424) - [Detecting edges of images at the speed of light](https://phys.org/news/2025-01-edges-images.html)
 * [2025-01-26, 23:13:01](https://news.ycombinator.com/item?id=42835282) - [Lessons in creating family photos that people want to keep (2018)](https://estherschindler.medium.com/the-old-family-photos-project-lessons-in-creating-family-photos-that-people-want-to-keep-ea3909129943)
 * [2025-01-26, 23:03:10](https://news.ycombinator.com/item?id=42835183) - [Kansas tuberculosis outbreak is now America's largest in recorded history](https://www.cjonline.com/story/news/politics/government/2025/01/24/kansas-tuberculosis-outbreak-is-largest-in-recorded-history-in-u-s/77881467007/)
 * [2025-01-26, 22:45:24](https://news.ycombinator.com/item?id=42834999) - [The 'no. 8 wire' tradition in New Zealand](https://teara.govt.nz/en/inventions-patents-and-trademarks/page-1)
