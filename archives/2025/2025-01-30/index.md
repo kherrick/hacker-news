@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-01-30](index.md)
 
+* [2025-01-30, 14:29:28](https://news.ycombinator.com/item?id=42877995) - [GitHub Is Down](https://www.githubstatus.com)
+* [2025-01-30, 14:16:57](https://news.ycombinator.com/item?id=42877860) - [Mistral Small 3](https://mistral.ai/news/mistral-small-3/)
 * [2025-01-30, 14:01:27](https://news.ycombinator.com/item?id=42877709) - [Note on the Relationship Between Artificial Intelligence and Human Intelligence](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html)
 * [2025-01-30, 13:54:09](https://news.ycombinator.com/item?id=42877648) - [The Slow Death of OCSP](https://www.feistyduck.com/newsletter/issue_121_the_slow_death_of_ocsp)
 * [2025-01-30, 13:38:33](https://news.ycombinator.com/item?id=42877538) - [Krita 5.2.9 Released](https://krita.org/en/posts/2025/krita-5-2-9-released/)
 * [2025-01-30, 13:20:24](https://news.ycombinator.com/item?id=42877440) - [Germany: Angela Merkel chides own party over far-right help](https://www.dw.com/en/merkel-slams-cdu-far-right-support/a-71454687)
 * [2025-01-30, 13:01:05](https://news.ycombinator.com/item?id=42877325) - [I Told You: Chaos Is Coming](https://freddiedeboer.substack.com/p/i-told-you-chaos-is-coming)
+* [2025-01-30, 12:35:37](https://news.ycombinator.com/item?id=42877177) - [Light Phone III camera sample photos](https://www.thelightphone.com/blog/creating-the-light-camera-tool)
 * [2025-01-30, 12:00:46](https://news.ycombinator.com/item?id=42877004) - [Codes Health (YC S24) Is Hiring](https://news.ycombinator.com/item?id=42877004)
 * [2025-01-30, 11:59:14](https://news.ycombinator.com/item?id=42876998) - [LibreOffice 400M Downloads, and Counting](https://blog.documentfoundation.org/blog/2025/01/30/400-million-downloads-and-counting/)
 * [2025-01-30, 11:47:27](https://news.ycombinator.com/item?id=42876940) - [Interview with DeepSeek Founder: We're Done Following. It's Time to Lead](https://thechinaacademy.org/interview-with-deepseek-founder-were-done-following-its-time-to-lead/)
