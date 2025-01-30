@@ -14,6 +14,7 @@
 * [2025-01-30, 18:14:46](https://news.ycombinator.com/item?id=42880449) - [Show HN: Iterm-Mcp – AI Terminal/REPL Control for iTerm2](https://github.com/ferrislucas/iterm-mcp)
 * [2025-01-30, 17:57:46](https://news.ycombinator.com/item?id=42880242) - [Quaternions and Spherical Trigonometry](https://terrytao.wordpress.com/2024/12/19/quaternions-and-spherical-trigonometry/)
 * [2025-01-30, 17:19:13](https://news.ycombinator.com/item?id=42879864) - [Cerebras fastest host for DeepSeek R1, 57x faster than Nvidia GPUs](https://venturebeat.com/ai/cerebras-becomes-the-worlds-fastest-host-for-deepseek-r1-outpacing-nvidia-gpus-by-57x/)
+* [2025-01-30, 17:05:54](https://news.ycombinator.com/item?id=42879713) - [Show HN: Workflow86 - An AI business analyst and automation engineer](https://www.workflow86.com/)
 * [2025-01-30, 17:00:00](https://news.ycombinator.com/item?id=42879663) - [Great Question (YC W21) Is Hiring Lead Product Designer](https://www.ycombinator.com/companies/great-question/jobs/T5RTrue-lead-product-designer)
 * [2025-01-30, 16:59:38](https://news.ycombinator.com/item?id=42879661) - [Launch HN: Karsa (YC W25) – Buy and save stablecoins internationally](https://news.ycombinator.com/item?id=42879661)
 * [2025-01-30, 15:42:56](https://news.ycombinator.com/item?id=42878780) - [PyPI Now Supports Project Archival](https://blog.pypi.org/posts/2025-01-30-archival/)

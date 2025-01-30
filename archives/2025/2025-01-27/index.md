@@ -52,6 +52,7 @@
 * [2025-01-27, 04:40:45](https://news.ycombinator.com/item?id=42837489) - [US blocking Swiss access to AI chips](https://www.bluewin.ch/en/news/usa-restricts-swiss-access-to-ai-computer-chips-2535516.html)
 * [2025-01-27, 04:34:40](https://news.ycombinator.com/item?id=42837462) - [If OpenSSL Were a GUI](https://smallstep.com/blog/if-openssl-were-a-gui/)
 * [2025-01-27, 04:28:00](https://news.ycombinator.com/item?id=42837423) - [Calif.-founded EV maker Canoo, once worth $2.4B, goes belly-up](https://www.sfgate.com/tech/article/canoo-ev-maker-goes-bankrupt-20054204.php)
+* [2025-01-27, 03:59:05](https://news.ycombinator.com/item?id=42837273) - [Umlauts, Diaereses, and the New Yorker (2020)](https://www.arrantpedantry.com/2020/03/24/umlauts-diaereses-and-the-new-yorker/)
 * [2025-01-27, 03:41:52](https://news.ycombinator.com/item?id=42837181) - [Interview with Andy Yen, CEO of Proton VPN](https://www.compiler.news/proton-vpn-venezuela-russia/)
 * [2025-01-27, 03:39:38](https://news.ycombinator.com/item?id=42837173) - [US restricts Switzerland's access to AI chips](https://www.swissinfo.ch/eng/multinational-companies/us-restricts-switzerlands-access-to-ai-chips/88781270)
 * [2025-01-27, 03:21:00](https://news.ycombinator.com/item?id=42837055) - [Show HN: An innovative flag-guessing game that identify regions by fragments](https://flagle.fun/)
