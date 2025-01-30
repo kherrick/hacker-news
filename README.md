@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-30, 01:37:53](https://news.ycombinator.com/item?id=42873771) - [Anthropic's CEO says DeepSeek shows US export rules are working](https://techcrunch.com/2025/01/29/anthropics-ceo-says-deepseek-shows-that-u-s-export-rules-are-working-as-intended/)
 * [2025-01-30, 01:23:54](https://news.ycombinator.com/item?id=42873697) - [Younger cannabis users have reduced brain function, finds largest study yet](https://newatlas.com/brain/young-adult-cannabis-brain-function/)
 * [2025-01-30, 01:02:03](https://news.ycombinator.com/item?id=42873532) - [Etleap (YC W13) Is Hiring a Senior Software Engineer (SF)](https://news.ycombinator.com/item?id=42873532)
 * [2025-01-30, 00:53:21](https://news.ycombinator.com/item?id=42873476) - [Classic Duck Hunt Game Made in JavaScript and Kaplay](https://jslegend.itch.io/duck-hunter)
@@ -22,6 +21,7 @@
 * [2025-01-29, 17:44:45](https://news.ycombinator.com/item?id=42868390) - [An analysis of DeepSeek's R1-Zero and R1](https://arcprize.org/blog/r1-zero-r1-results-analysis)
 * [2025-01-29, 16:57:59](https://news.ycombinator.com/item?id=42867657) - [A major Postgres upgrade with zero downtime](https://www.instantdb.com/essays/pg_upgrade)
 * [2025-01-29, 16:40:19](https://news.ycombinator.com/item?id=42867324) - [Society for Technical Communication to permanently close its doors](https://www.stc.org/)
+* [2025-01-29, 16:26:07](https://news.ycombinator.com/item?id=42867050) - [Show HN: Mcp-Agent – Build effective agents with Model Context Protocol](https://github.com/lastmile-ai/mcp-agent)
 * [2025-01-29, 15:58:20](https://news.ycombinator.com/item?id=42866572) - [Case Study: ByteDance Uses eBPF to Enhance Networking Performance](https://ebpf.foundation/case-study-bytedance-uses-ebpf-to-enhance-networking-performance/)
 * [2025-01-29, 12:47:17](https://news.ycombinator.com/item?id=42864272) - [Asteroid Impact on Earth 2032 with Probability 1% and 8Mt Energy](https://cneos.jpl.nasa.gov/sentry/details.html#?des=2024%20YR4)
 * [2025-01-29, 06:43:43](https://news.ycombinator.com/item?id=42862246) - [I still like Sublime Text](https://ohdoylerules.com/workflows/why-i-still-like-sublime-text-in-2025/)
