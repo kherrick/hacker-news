@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-30, 03:51:42](https://news.ycombinator.com/item?id=42874638) - [Plane Crashes Near Washington DC after midair collision with helicopter](https://www.nytimes.com/live/2025/01/29/us/plane-crash-washington-dc)
 * [2025-01-30, 02:56:45](https://news.ycombinator.com/item?id=42874301) - [Commercial jet collides with Black Hawk helicopter near Reagan airport](https://www.mediaite.com/news/breaking-commercial-jet-collides-with-police-chopper-near-reagan-airport/)
 * [2025-01-30, 01:23:54](https://news.ycombinator.com/item?id=42873697) - [Younger cannabis users have reduced brain function, finds largest study yet](https://newatlas.com/brain/young-adult-cannabis-brain-function/)
 * [2025-01-30, 01:02:03](https://news.ycombinator.com/item?id=42873532) - [Etleap (YC W13) Is Hiring a Senior Software Engineer (SF)](https://news.ycombinator.com/item?id=42873532)
@@ -29,7 +30,6 @@
 * [2025-01-28, 19:48:22](https://news.ycombinator.com/item?id=42857029) - [Cardan grille](https://en.wikipedia.org/wiki/Cardan_grille)
 * [2025-01-28, 16:33:32](https://news.ycombinator.com/item?id=42854291) - [Building a T1D smartwatch for my son from scratch](https://andrewchilds.com/posts/building-a-t1d-smartwatch-from-scratch)
 * [2025-01-26, 16:00:50](https://news.ycombinator.com/item?id=42830948) - [Proper decoupling capacitor practices, and why you should leave 100nF behind](https://codeinsecurity.wordpress.com/2025/01/25/proper-decoupling-practices-and-why-you-should-leave-100nf-behind/)
-* [2025-01-26, 03:51:12](https://news.ycombinator.com/item?id=42827552) - [Game developers keep reinventing Tetris](https://www.polygon.com/gaming/513931/tetris-inspired-games-design-reaktor)
 
 ## [Archives](archives/index.md)
 
