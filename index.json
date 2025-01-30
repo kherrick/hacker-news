@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-30, 13:01:05",
+      "https://news.ycombinator.com/item?id=42877325"
+    ],
+    [
+      "I Told You: Chaos Is Coming",
+      "https://freddiedeboer.substack.com/p/i-told-you-chaos-is-coming"
+    ]
+  ],
+  [
+    [
       "2025-01-30, 12:00:46",
       "https://news.ycombinator.com/item?id=42877004"
     ],
@@ -187,16 +197,6 @@
     [
       "A major Postgres upgrade with zero downtime",
       "https://www.instantdb.com/essays/pg_upgrade"
-    ]
-  ],
-  [
-    [
-      "2025-01-29, 15:58:20",
-      "https://news.ycombinator.com/item?id=42866572"
-    ],
-    [
-      "Case Study: ByteDance Uses eBPF to Enhance Networking Performance",
-      "https://ebpf.foundation/case-study-bytedance-uses-ebpf-to-enhance-networking-performance/"
     ]
   ],
   [
