@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-01-30, 09:44:25",
-      "https://news.ycombinator.com/item?id=42876367"
-    ],
-    [
-      "Tesla sales in Germany dropped 41% in 2024",
-      "https://www.cleanenergywire.org/news/tesla-registrations-plummet-41-percent-germany-2024-company-slides-ev-ranking"
-    ]
-  ],
-  [
-    [
       "2025-01-30, 08:22:26",
       "https://news.ycombinator.com/item?id=42875985"
     ],
@@ -197,6 +187,16 @@
     [
       "A major Postgres upgrade with zero downtime",
       "https://www.instantdb.com/essays/pg_upgrade"
+    ]
+  ],
+  [
+    [
+      "2025-01-29, 15:58:20",
+      "https://news.ycombinator.com/item?id=42866572"
+    ],
+    [
+      "Case Study: ByteDance Uses eBPF to Enhance Networking Performance",
+      "https://ebpf.foundation/case-study-bytedance-uses-ebpf-to-enhance-networking-performance/"
     ]
   ],
   [
