@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-30](index.md)
 
+* [2025-01-30, 13:01:05](https://news.ycombinator.com/item?id=42877325) - [I Told You: Chaos Is Coming](https://freddiedeboer.substack.com/p/i-told-you-chaos-is-coming)
 * [2025-01-30, 12:00:46](https://news.ycombinator.com/item?id=42877004) - [Codes Health (YC S24) Is Hiring](https://news.ycombinator.com/item?id=42877004)
 * [2025-01-30, 11:59:14](https://news.ycombinator.com/item?id=42876998) - [LibreOffice 400M Downloads, and Counting](https://blog.documentfoundation.org/blog/2025/01/30/400-million-downloads-and-counting/)
 * [2025-01-30, 11:28:31](https://news.ycombinator.com/item?id=42876840) - [JavaScript Temporal Is Coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
