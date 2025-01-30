@@ -10,7 +10,7 @@
 * [2025-01-30, 17:57:46](https://news.ycombinator.com/item?id=42880242) - [Quaternions and spherical trigonometry](https://terrytao.wordpress.com/2024/12/19/quaternions-and-spherical-trigonometry/)
 * [2025-01-30, 17:05:54](https://news.ycombinator.com/item?id=42879713) - [Show HN: Workflow86 - An AI business analyst and automation engineer](https://www.workflow86.com/)
 * [2025-01-30, 16:59:38](https://news.ycombinator.com/item?id=42879661) - [Launch HN: Karsa (YC W25) – Buy and save stablecoins internationally](https://news.ycombinator.com/item?id=42879661)
-* [2025-01-30, 15:24:53](https://news.ycombinator.com/item?id=42878598) - [Review: Superbloom: How Technologies of Connection Tear Us Apart](https://lareviewofbooks.org/article/the-case-for-kicking-the-stone/)
+* [2025-01-30, 14:16:57](https://news.ycombinator.com/item?id=42877860) - [Mistral Small 3](https://mistral.ai/news/mistral-small-3/)
 * [2025-01-30, 14:01:27](https://news.ycombinator.com/item?id=42877709) - [Antiqua et Nova: Note on the relationship between AI and human intelligence](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html)
 * [2025-01-30, 13:18:49](https://news.ycombinator.com/item?id=42877430) - [A history of APL in the USSR (1991)](https://dl.acm.org/doi/10.1145/130647.130656)
 * [2025-01-30, 13:12:34](https://news.ycombinator.com/item?id=42877399) - [Show HN: Audiocube – A 3D DAW for Spatial Audio](https://www.audiocube.app)
