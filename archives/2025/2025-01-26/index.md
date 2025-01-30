@@ -15,6 +15,7 @@
 * [2025-01-26, 21:40:35](https://news.ycombinator.com/item?id=42834432) - [Brazil bans Sam Altman's tech firm Tools for Humanity from paying for iris scans](https://economictimes.indiatimes.com/tech/technology/brazil-bans-sam-altmans-tech-firm-tools-for-humanity-from-paying-for-iris-scans/articleshow/117540826.cms?from=mdr)
 * [2025-01-26, 21:35:49](https://news.ycombinator.com/item?id=42834393) - [Quiet Quitting: Why Employees Are Demanding Fairness and Boundaries](https://www.forbes.com/sites/dianehamilton/2025/01/15/quiet-quitting-why-employees-are-demanding-fairness-and-boundaries/)
 * [2025-01-26, 21:29:41](https://news.ycombinator.com/item?id=42834341) - [The Only Photo of the Concorde Flying at Supersonic Speed](https://petapixel.com/2025/01/25/photo-concorde-supersonic-speed-mach-2/)
+* [2025-01-26, 21:28:23](https://news.ycombinator.com/item?id=42834325) - [Show HN: TinyJs React like framework in 35 lines of code](https://news.ycombinator.com/item?id=42834325)
 * [2025-01-26, 21:09:07](https://news.ycombinator.com/item?id=42834164) - [I don't like Docker or Podman](https://blog.liw.fi/posts/2025/docker/)
 * [2025-01-26, 20:59:16](https://news.ycombinator.com/item?id=42834043) - [Astronomers delete asteroid because it turned out to be Tesla Roadster](https://www.astronomy.com/science/astronomers-just-deleted-an-asteroid-because-it-turned-out-to-be-elon-musks-tesla-roadster/)
 * [2025-01-26, 20:17:38](https://news.ycombinator.com/item?id=42833638) - [Amsterdam Compiler Kit for Cray X-MP](https://github.com/kej715/ack)

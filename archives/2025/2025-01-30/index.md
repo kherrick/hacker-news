@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-30](index.md)
 
+* [2025-01-30, 04:33:25](https://news.ycombinator.com/item?id=42874885) - [PCBs, Ground Plates, and You](https://lcamtuf.substack.com/p/pcbs-ground-planes-and-you)
 * [2025-01-30, 03:51:42](https://news.ycombinator.com/item?id=42874638) - [Plane Crashes Near Washington DC after midair collision with helicopter](https://www.nytimes.com/live/2025/01/29/us/plane-crash-washington-dc)
 * [2025-01-30, 03:24:35](https://news.ycombinator.com/item?id=42874481) - [Declassified CIA Guide to Sabotaging Fascism Is Suddenly Viral](https://www.404media.co/declassified-cia-guide-to-sabotaging-fascism-is-suddenly-viral/)
 * [2025-01-30, 03:00:33](https://news.ycombinator.com/item?id=42874321) - [FAA issues ground stop after plane crashes in Potomac River](https://www.cnn.com/2025/01/29/us/plane-crash-potomac-river/index.html)
