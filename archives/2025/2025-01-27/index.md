@@ -60,6 +60,7 @@
 * [2025-01-27, 02:19:02](https://news.ycombinator.com/item?id=42836675) - [The race for \"AI Supremacy\" is over – at least for now](https://garymarcus.substack.com/p/the-race-for-ai-supremacy-is-over)
 * [2025-01-27, 01:54:38](https://news.ycombinator.com/item?id=42836517) - [The Less People Know About AI, the More They Like It](https://theconversation.com/knowing-less-about-ai-makes-people-more-open-to-having-it-in-their-lives-new-research-247372)
 * [2025-01-27, 01:39:05](https://news.ycombinator.com/item?id=42836405) - [Marginalia – A search engine that prioritizes non-commercial content](https://marginalia-search.com/)
+* [2025-01-27, 01:34:09](https://news.ycombinator.com/item?id=42836370) - [Rust's worst feature (available in Rust nightly)](https://mina86.com/2025/rusts-worst-feature/)
 * [2025-01-27, 00:15:29](https://news.ycombinator.com/item?id=42835808) - [Teemoji: Like Tee but with Emojis](https://github.com/willswire/teemoji)
 * [2025-01-27, 00:14:53](https://news.ycombinator.com/item?id=42835798) - [Shunpo: Minimalist bash tool to make directory navigation a little bit faster](https://github.com/egurapha/Shunpo)
 * [2025-01-27, 00:11:27](https://news.ycombinator.com/item?id=42835772) - [Openhaystack: Build 'AirTags' – track Bluetooth devices via Apple's network](https://github.com/seemoo-lab/openhaystack)
