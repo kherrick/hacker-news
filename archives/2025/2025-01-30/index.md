@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-30](index.md)
 
+* [2025-01-30, 19:44:02](https://news.ycombinator.com/item?id=42881408) - [Optical Frequency Combs](https://www.nist.gov/topics/physics/optical-frequency-combs)
 * [2025-01-30, 19:08:29](https://news.ycombinator.com/item?id=42881012) - [MySQL at Uber (2025)](https://www.uber.com/blog/mysql-at-uber/)
 * [2025-01-30, 18:56:42](https://news.ycombinator.com/item?id=42880873) - [Show HN: Reactive Signals for Python – inspired by Angular's reactivity model](https://github.com/buiapp/reaktiv)
 * [2025-01-30, 18:48:30](https://news.ycombinator.com/item?id=42880807) - [California Law Enforcement Misused State Databases More Than 7k Times in 2023](https://www.eff.org/deeplinks/2025/01/california-police-misused-state-databases-more-7000-times-2023)
