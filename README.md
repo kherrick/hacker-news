@@ -1,8 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-30, 17:19:13](https://news.ycombinator.com/item?id=42879864) - [Cerebras fastest host for DeepSeek R1, 57x faster than Nvidia GPUs](https://venturebeat.com/ai/cerebras-becomes-the-worlds-fastest-host-for-deepseek-r1-outpacing-nvidia-gpus-by-57x/)
 * [2025-01-30, 17:00:00](https://news.ycombinator.com/item?id=42879663) - [Great Question (YC W21) Is Hiring Lead Product Designer](https://www.ycombinator.com/companies/great-question/jobs/T5RTrue-lead-product-designer)
-* [2025-01-30, 16:59:38](https://news.ycombinator.com/item?id=42879661) - [Launch HN: Karsa (YC W25) – Buy and save stablecoins internationally](https://news.ycombinator.com/item?id=42879661)
 * [2025-01-30, 15:24:53](https://news.ycombinator.com/item?id=42878598) - [Review: Superbloom: How Technologies of Connection Tear Us Apart](https://lareviewofbooks.org/article/the-case-for-kicking-the-stone/)
 * [2025-01-30, 14:16:57](https://news.ycombinator.com/item?id=42877860) - [Mistral Small 3](https://mistral.ai/news/mistral-small-3/)
 * [2025-01-30, 14:01:27](https://news.ycombinator.com/item?id=42877709) - [Note on the Relationship Between Artificial Intelligence and Human Intelligence](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html)
@@ -15,6 +13,7 @@
 * [2025-01-30, 01:48:17](https://news.ycombinator.com/item?id=42873825) - [Decompiling 2024: A Year of Resurgance in Decompilation Research](https://mahaloz.re/dec-progress-2024)
 * [2025-01-30, 00:31:53](https://news.ycombinator.com/item?id=42873312) - [Mathesar – an intutive spreadsheet-like interface to Postgres data](https://github.com/mathesar-foundation/mathesar)
 * [2025-01-29, 22:45:14](https://news.ycombinator.com/item?id=42872276) - [Advice for a friend who wants to start a blog](https://www.henrikkarlsson.xyz/p/start-a-blog)
+* [2025-01-29, 21:56:11](https://news.ycombinator.com/item?id=42871743) - [From C++ to Clojure: Jank language promises best of both](https://thenewstack.io/from-c-to-clojure-new-language-promises-best-of-both/)
 * [2025-01-29, 18:09:19](https://news.ycombinator.com/item?id=42868770) - [SmolGPT: A minimal PyTorch implementation for training a small LLM from scratch](https://github.com/Om-Alve/smolGPT)
 * [2025-01-29, 17:44:45](https://news.ycombinator.com/item?id=42868390) - [An analysis of DeepSeek's R1-Zero and R1](https://arcprize.org/blog/r1-zero-r1-results-analysis)
 * [2025-01-29, 12:47:17](https://news.ycombinator.com/item?id=42864272) - [Asteroid Impact on Earth 2032 with Probability 1% and 8Mt Energy](https://cneos.jpl.nasa.gov/sentry/details.html#?des=2024%20YR4)
@@ -28,6 +27,7 @@
 * [2025-01-26, 17:57:50](https://news.ycombinator.com/item?id=42832114) - [Permission to Practise Medicine](https://blogs.bl.uk/digitisedmanuscripts/2025/01/permission-to-practise-medicine.html)
 * [2025-01-26, 17:49:13](https://news.ycombinator.com/item?id=42832021) - [Goethe's \"Sorcerer's Apprentice\" – power over wisdom](https://wilderutopia.com/performance/literary/goethes-sorcerers-apprentice-power-over-wisdom/)
 * [2025-01-26, 17:44:54](https://news.ycombinator.com/item?id=42831969) - [My home built pipe organ](https://www.sentex.ca/~mwandel/organ/organ.html)
+* [2025-01-26, 17:08:34](https://news.ycombinator.com/item?id=42831621) - [Digital Reality, Digital Shock: Growing Up at the Dawn of Cyberspace](https://www.chrbutler.com/digital-reality-digital-shock)
 * [2025-01-26, 16:00:50](https://news.ycombinator.com/item?id=42830948) - [Proper decoupling capacitor practices, and why you should leave 100nF behind](https://codeinsecurity.wordpress.com/2025/01/25/proper-decoupling-practices-and-why-you-should-leave-100nf-behind/)
 * [2025-01-26, 14:59:26](https://news.ycombinator.com/item?id=42830478) - [Analysis of 76,882 Product Hunt Products, from 2014 – 2021](https://components.one/posts/gamer-and-nihilist-product-hunt)
 
