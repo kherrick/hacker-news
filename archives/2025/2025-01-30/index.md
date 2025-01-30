@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-30](index.md)
 
+* [2025-01-30, 06:17:44](https://news.ycombinator.com/item?id=42875399) - [Majority of US teens have lost trust in Big Tech](https://techcrunch.com/2025/01/29/report-majority-of-u-s-teens-have-lost-trust-in-big-tech/)
 * [2025-01-30, 04:33:25](https://news.ycombinator.com/item?id=42874885) - [PCBs, Ground Plates, and You](https://lcamtuf.substack.com/p/pcbs-ground-planes-and-you)
 * [2025-01-30, 03:51:42](https://news.ycombinator.com/item?id=42874638) - [Plane Crashes Near Washington DC after midair collision with helicopter](https://www.nytimes.com/live/2025/01/29/us/plane-crash-washington-dc)
 * [2025-01-30, 03:46:29](https://news.ycombinator.com/item?id=42874605) - [Hard Mode Rust](https://matklad.github.io/2022/10/06/hard-mode-rust.html)
