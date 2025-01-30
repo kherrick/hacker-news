@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-30, 04:33:25](https://news.ycombinator.com/item?id=42874885) - [PCBs, Ground Plates, and You](https://lcamtuf.substack.com/p/pcbs-ground-planes-and-you)
-* [2025-01-30, 03:24:35](https://news.ycombinator.com/item?id=42874481) - [Declassified CIA Guide to Sabotaging Fascism Is Suddenly Viral](https://www.404media.co/declassified-cia-guide-to-sabotaging-fascism-is-suddenly-viral/)
 * [2025-01-30, 02:56:45](https://news.ycombinator.com/item?id=42874301) - [Commercial jet collides with Black Hawk helicopter near Reagan airport](https://www.mediaite.com/news/breaking-commercial-jet-collides-with-police-chopper-near-reagan-airport/)
 * [2025-01-30, 01:23:54](https://news.ycombinator.com/item?id=42873697) - [Younger cannabis users have reduced brain function, finds largest study yet](https://newatlas.com/brain/young-adult-cannabis-brain-function/)
 * [2025-01-30, 01:02:03](https://news.ycombinator.com/item?id=42873532) - [Etleap (YC W13) Is Hiring a Senior Software Engineer (SF)](https://news.ycombinator.com/item?id=42873532)
@@ -15,6 +14,7 @@
 * [2025-01-29, 21:25:36](https://news.ycombinator.com/item?id=42871371) - [Exposed DeepSeek database leaking sensitive information, including chat history](https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak)
 * [2025-01-29, 21:05:28](https://news.ycombinator.com/item?id=42871143) - [Parsing PDFs (and more) in Elixir using Rust](https://www.chriis.dev/opinion/parsing-pdfs-in-elixir-using-rust)
 * [2025-01-29, 20:55:49](https://news.ycombinator.com/item?id=42871040) - [Keymapper: A cross-platform context-aware key remapper](https://github.com/houmain/keymapper)
+* [2025-01-29, 20:50:53](https://news.ycombinator.com/item?id=42870990) - [Making the video that made Gorillaz](https://animationobsessive.substack.com/p/making-the-video-that-made-gorillaz)
 * [2025-01-29, 20:26:01](https://news.ycombinator.com/item?id=42870690) - [Soviet Shoe Factory Principle](https://wiki.c2.com/?SovietShoeFactoryPrinciple)
 * [2025-01-29, 19:47:51](https://news.ycombinator.com/item?id=42870171) - [Airflow – Stream media files directly from macOS to AirPlay devices](https://airflow.app/)
 * [2025-01-29, 18:09:19](https://news.ycombinator.com/item?id=42868770) - [SmolGPT: A minimal PyTorch implementation for training a small LLM from scratch](https://github.com/Om-Alve/smolGPT)
