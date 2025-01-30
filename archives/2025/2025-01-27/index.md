@@ -58,6 +58,7 @@
 * [2025-01-27, 03:21:00](https://news.ycombinator.com/item?id=42837055) - [Show HN: An innovative flag-guessing game that identify regions by fragments](https://flagle.fun/)
 * [2025-01-27, 03:07:27](https://news.ycombinator.com/item?id=42836981) - [Making a live-mode test payment to yourself = a payment processor ToS violation?](https://news.ycombinator.com/item?id=42836981)
 * [2025-01-27, 02:58:09](https://news.ycombinator.com/item?id=42836934) - [Show HN: Voice Cloning and Multilingual TTS in One Click (Windows)](https://github.com/abus-aikorea/voice-pro/blob/main/docs/README.eng.md)
+* [2025-01-27, 02:57:10](https://news.ycombinator.com/item?id=42836927) - [Bang bang! He murdered math! [video]](https://taylor.town/bang-bang)
 * [2025-01-27, 02:51:42](https://news.ycombinator.com/item?id=42836900) - [Find the oldest line in your repo](https://milofultz.com/2025-01-26-find-the-oldest-line-in-your-repo.html)
 * [2025-01-27, 02:38:25](https://news.ycombinator.com/item?id=42836818) - [Purelymail: Cheap Email for Everyone](https://purelymail.com/)
 * [2025-01-27, 02:19:02](https://news.ycombinator.com/item?id=42836675) - [The race for \"AI Supremacy\" is over – at least for now](https://garymarcus.substack.com/p/the-race-for-ai-supremacy-is-over)

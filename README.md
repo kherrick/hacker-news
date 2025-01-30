@@ -23,12 +23,12 @@
 * [2025-01-29, 16:21:55](https://news.ycombinator.com/item?id=42866951) - [Show HN: Distr – open-source distribution platform for on-prem deployments](https://github.com/glasskube/distr)
 * [2025-01-28, 16:33:32](https://news.ycombinator.com/item?id=42854291) - [Building a T1D smartwatch for my son from scratch](https://andrewchilds.com/posts/building-a-t1d-smartwatch-from-scratch)
 * [2025-01-27, 20:15:01](https://news.ycombinator.com/item?id=42845129) - [My Cat Mii](https://www.theparisreview.org/blog/2025/01/20/my-cat-mii/)
+* [2025-01-27, 02:57:10](https://news.ycombinator.com/item?id=42836927) - [Bang bang! He murdered math! [video]](https://taylor.town/bang-bang)
 * [2025-01-27, 02:51:42](https://news.ycombinator.com/item?id=42836900) - [Find the oldest line in your repo](https://milofultz.com/2025-01-26-find-the-oldest-line-in-your-repo.html)
 * [2025-01-27, 01:24:10](https://news.ycombinator.com/item?id=42836306) - [Scalable OLTP in the Cloud: What's the Big Deal?](http://muratbuffalo.blogspot.com/2024/01/scalable-oltp-in-cloud-whats-big-deal.html)
 * [2025-01-27, 00:15:29](https://news.ycombinator.com/item?id=42835808) - [Teemoji: Like Tee but with Emojis](https://github.com/willswire/teemoji)
 * [2025-01-26, 17:57:50](https://news.ycombinator.com/item?id=42832114) - [Permission to Practise Medicine](https://blogs.bl.uk/digitisedmanuscripts/2025/01/permission-to-practise-medicine.html)
 * [2025-01-26, 17:44:54](https://news.ycombinator.com/item?id=42831969) - [The story of my home made pipe organ (2000)](https://www.sentex.ca/~mwandel/organ/organ.html)
-* [2025-01-26, 16:00:50](https://news.ycombinator.com/item?id=42830948) - [Proper decoupling capacitor practices, and why you should leave 100nF behind](https://codeinsecurity.wordpress.com/2025/01/25/proper-decoupling-practices-and-why-you-should-leave-100nf-behind/)
 * [2025-01-26, 14:59:26](https://news.ycombinator.com/item?id=42830478) - [Analysis of Product Hunt products from 2014 to 2021](https://components.one/posts/gamer-and-nihilist-product-hunt)
 
 ## [Archives](archives/index.md)
