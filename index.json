@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-01-31, 08:25:04",
-      "https://news.ycombinator.com/item?id=42885688"
+      "2025-01-31, 08:33:30",
+      "https://news.ycombinator.com/item?id=42885742"
     ],
     [
-      "Tesla Reported Zero Federal Income Tax on $2B of U.S. Income in 2024",
-      "https://itep.org/tesla-reported-zero-federal-income-tax-in-2024/"
+      "The American science funding catastrophe",
+      "https://scottaaronson.blog/?p=8609"
     ]
   ],
   [
@@ -21,32 +21,12 @@
   ],
   [
     [
-      "2025-01-31, 05:48:21",
-      "https://news.ycombinator.com/item?id=42885008"
-    ],
-    [
-      "Basel has to buy domain name in the Bahamas after mishap",
-      "https://www.bluewin.ch/en/news/switzerland/basel-has-to-buy-internet-address-in-bahamas-after-breakdown-2541936.html"
-    ]
-  ],
-  [
-    [
       "2025-01-31, 05:24:09",
       "https://news.ycombinator.com/item?id=42884930"
     ],
     [
       "Release Notes for Ghostty 1.1.0",
       "https://ghostty.org/docs/install/release-notes/1-1-0"
-    ]
-  ],
-  [
-    [
-      "2025-01-31, 05:03:14",
-      "https://news.ycombinator.com/item?id=42884834"
-    ],
-    [
-      "Mini-R1: Reproduce DeepSeek R1 \"Aha Moment\"",
-      "https://www.philschmid.de/mini-deepseek-r1"
     ]
   ],
   [
@@ -77,16 +57,6 @@
     [
       "TopoNets: High performing vision and language models with brain-like topography",
       "https://arxiv.org/abs/2501.16396"
-    ]
-  ],
-  [
-    [
-      "2025-01-31, 02:22:11",
-      "https://news.ycombinator.com/item?id=42884181"
-    ],
-    [
-      "Cryptocurrency doesn't address the hard parts of financial inclusion (2022)",
-      "https://www.wave.com/en/blog/crypto/index.html"
     ]
   ],
   [
@@ -251,6 +221,16 @@
   ],
   [
     [
+      "2025-01-30, 00:31:53",
+      "https://news.ycombinator.com/item?id=42873312"
+    ],
+    [
+      "Mathesar – an intutive spreadsheet-like interface to Postgres data",
+      "https://github.com/mathesar-foundation/mathesar"
+    ]
+  ],
+  [
+    [
       "2025-01-29, 17:50:11",
       "https://news.ycombinator.com/item?id=42868475"
     ],
@@ -281,12 +261,12 @@
   ],
   [
     [
-      "2025-01-27, 07:37:39",
-      "https://news.ycombinator.com/item?id=42838392"
+      "2025-01-27, 01:24:10",
+      "https://news.ycombinator.com/item?id=42836306"
     ],
     [
-      "Capablanca: Minimum Vertex Cover Solver",
-      "https://pypi.org/project/capablanca"
+      "Scalable OLTP in the Cloud: What's the Big Deal?",
+      "http://muratbuffalo.blogspot.com/2024/01/scalable-oltp-in-cloud-whats-big-deal.html"
     ]
   ],
   [
@@ -297,6 +277,26 @@
     [
       "The story of my home made pipe organ (2000)",
       "https://www.sentex.ca/~mwandel/organ/organ.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-26, 16:00:50",
+      "https://news.ycombinator.com/item?id=42830948"
+    ],
+    [
+      "Proper decoupling capacitor practices, and why you should leave 100nF behind",
+      "https://codeinsecurity.wordpress.com/2025/01/25/proper-decoupling-practices-and-why-you-should-leave-100nf-behind/"
+    ]
+  ],
+  [
+    [
+      "2025-01-26, 14:59:26",
+      "https://news.ycombinator.com/item?id=42830478"
+    ],
+    [
+      "Analysis of Product Hunt products from 2014 to 2021",
+      "https://components.one/posts/gamer-and-nihilist-product-hunt"
     ]
   ]
 ]
