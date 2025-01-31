@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-01-31, 23:00:34",
+      "https://news.ycombinator.com/item?id=42893393"
+    ],
+    [
+      "Designing Great Watchdog Timers for Embedded Systems",
+      "https://www.ganssle.com/watchdogs.htm"
+    ]
+  ],
+  [
+    [
+      "2025-01-31, 22:57:57",
+      "https://news.ycombinator.com/item?id=42893365"
+    ],
+    [
+      "Tesla Paid Zero Federal Income Tax in 2024, Despite $2.3B in Income",
+      "https://truthout.org/articles/tesla-paid-zero-federal-income-tax-in-2024-despite-2-3-billion-in-income/"
+    ]
+  ],
+  [
+    [
+      "2025-01-31, 22:37:32",
+      "https://news.ycombinator.com/item?id=42893146"
+    ],
+    [
+      "Germany: Number of unemployed highest in 10 years",
+      "https://www.dw.com/en/germany-number-of-unemployed-highest-in-10-years/a-71470806"
+    ]
+  ],
+  [
+    [
       "2025-01-31, 21:24:43",
       "https://news.ycombinator.com/item?id=42892258"
     ],
@@ -27,6 +57,16 @@
     [
       "How will Australia's under-16 social media ban work? We asked the law's enforcer",
       "https://www.npr.org/2024/12/19/nx-s1-5231020/australia-top-regulator-kids-social-media-ban"
+    ]
+  ],
+  [
+    [
+      "2025-01-31, 21:01:45",
+      "https://news.ycombinator.com/item?id=42891937"
+    ],
+    [
+      "LinuxPDF",
+      "https://github.com/ading2210/linuxpdf"
     ]
   ],
   [
@@ -171,16 +211,6 @@
   ],
   [
     [
-      "2025-01-31, 16:46:15",
-      "https://news.ycombinator.com/item?id=42889236"
-    ],
-    [
-      "How to Train an AI Image Model on Yourself",
-      "https://www.coryzue.com/writing/make-ai-pictures-of-yourself/"
-    ]
-  ],
-  [
-    [
       "2025-01-31, 16:36:23",
       "https://news.ycombinator.com/item?id=42889139"
     ],
@@ -221,26 +251,6 @@
   ],
   [
     [
-      "2025-01-31, 13:45:06",
-      "https://news.ycombinator.com/item?id=42887581"
-    ],
-    [
-      "Show HN: voidDB – A transactional key-value DB written in Go for 64-bit Linux",
-      "https://github.com/voidDB/voidDB"
-    ]
-  ],
-  [
-    [
-      "2025-01-31, 11:40:30",
-      "https://news.ycombinator.com/item?id=42886718"
-    ],
-    [
-      "Taking a $15 Casio F91W 5km underwater",
-      "https://www.watchesofespionage.com/blogs/woe-dispatch/casio-f91w-diving-underwater-pressure-test"
-    ]
-  ],
-  [
-    [
       "2025-01-31, 06:11:30",
       "https://news.ycombinator.com/item?id=42885087"
     ],
@@ -257,16 +267,6 @@
     [
       "When Greedy Algorithms Can Be Faster [C++]",
       "https://16bpp.net/blog/post/when-greedy-algorithms-can-be-faster/"
-    ]
-  ],
-  [
-    [
-      "2025-01-28, 15:55:16",
-      "https://news.ycombinator.com/item?id=42853738"
-    ],
-    [
-      "Paris P2P Festival and Hackathon",
-      "https://p2p.paris/fr/"
     ]
   ],
   [
