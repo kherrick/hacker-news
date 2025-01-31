@@ -34,6 +34,7 @@
 * [2025-01-29, 17:59:28](https://news.ycombinator.com/item?id=42868618) - [No Man's Sky's update introduces billions of new stars, planets, and more](https://blog.playstation.com/2025/01/29/no-mans-skys-latest-update-introduces-billions-of-new-stars-planets-and-more-today/)
 * [2025-01-29, 17:56:51](https://news.ycombinator.com/item?id=42868576) - [Astral – \"We're building a new static type checker for Python\"](https://twitter.com/charliermarsh/status/1884651482009477368)
 * [2025-01-29, 17:53:53](https://news.ycombinator.com/item?id=42868531) - [Intel doesn't know how to be a foundry,\" Tim Cook reportedly told TSMC's CEO](https://www.tomshardware.com/tech-industry/tsmc-founder-says-tim-cook-told-him-intel-did-not-know-how-to-be-a-foundry)
+* [2025-01-29, 17:50:11](https://news.ycombinator.com/item?id=42868475) - [RCA and the Roaring Twenties](https://globalfinancialdata.com/rca-and-the-roaring-twenties)
 * [2025-01-29, 17:49:16](https://news.ycombinator.com/item?id=42868464) - [Ötzi the Lyme Mummy (2019)](https://vetmed.illinois.edu/i-tick/2019/08/09/iceman-lyme-mummy-tattle-the-tick-blog/)
 * [2025-01-29, 17:44:45](https://news.ycombinator.com/item?id=42868390) - [An Analysis of DeepSeek's R1-Zero and R1](https://arcprize.org/blog/r1-zero-r1-results-analysis)
 * [2025-01-29, 17:38:07](https://news.ycombinator.com/item?id=42868271) - [DeepSeek's Hidden Bias: How We Cut It by 76% Without Performance Loss](https://www.hirundo.io/blog/deepseek-r1-debiased)
