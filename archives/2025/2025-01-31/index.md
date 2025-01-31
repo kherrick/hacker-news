@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-31](index.md)
 
+* [2025-01-31, 14:20:07](https://news.ycombinator.com/item?id=42887939) - [RamaLama](https://github.com/containers/ramalama)
+* [2025-01-31, 13:47:47](https://news.ycombinator.com/item?id=42887598) - [My product went viral on social media but all I got were these shitty users](https://andrewchen.substack.com/p/my-product-went-viral-on-social-media)
 * [2025-01-31, 13:20:16](https://news.ycombinator.com/item?id=42887366) - [Patient Monitor Contec CMS8000 Contains a Backdoor](https://www.cisa.gov/resources-tools/resources/contec-cms8000-contains-backdoor)
 * [2025-01-31, 13:07:38](https://news.ycombinator.com/item?id=42887274) - [Building a Mesh Using Spherical Embedding](https://andrews.wiki/spherical-mesh)
 * [2025-01-31, 13:01:46](https://news.ycombinator.com/item?id=42887234) - [Battery-powered electric ferry service to connect Spain and Morocco](https://eandt.theiet.org/2025/01/28/battery-powered-electric-ferry-service-connect-spain-and-morocco)
