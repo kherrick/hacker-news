@@ -54,6 +54,7 @@
 * [2025-01-28, 15:09:52](https://news.ycombinator.com/item?id=42853174) - [IAC confirms existence of a Super-earth in the habitable zone of a Sun-like Star](https://www.iac.es/en/outreach/news/iac-confirms-existence-super-earth-habitable-zone-sun-star)
 * [2025-01-28, 14:56:28](https://news.ycombinator.com/item?id=42853023) - [Stable Flow: Vital Layers for Training-Free Image Editing](https://omriavrahami.com/stable-flow/)
 * [2025-01-28, 14:44:06](https://news.ycombinator.com/item?id=42852866) - [DeepSeek: X2 Speed for WASM with SIMD](https://simonwillison.net/2025/Jan/27/llamacpp-pr/)
+* [2025-01-28, 14:35:23](https://news.ycombinator.com/item?id=42852754) - [Real-time, river sections downstream of sewage discharges from storm overflows](https://www.sewagemap.co.uk/)
 * [2025-01-28, 14:20:12](https://news.ycombinator.com/item?id=42852563) - [Google Maps Will Rename Gulf of Mexico as Gulf of America in US](https://www.theguardian.com/technology/2025/jan/28/google-maps-will-rename-gulf-of-mexico-as-gulf-of-america-in-us)
 * [2025-01-28, 14:07:48](https://news.ycombinator.com/item?id=42852434) - [Introducing ChatGPT Gov](https://openai.com/global-affairs/introducing-chatgpt-gov/)
 * [2025-01-28, 14:04:21](https://news.ycombinator.com/item?id=42852400) - [Janus Pro 1B running 100% locally in-browser on WebGPU](https://old.reddit.com/r/LocalLLaMA/comments/1ibnso0/janus_pro_1b_running_100_locally_inbrowser_on/)
