@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-31, 08:25:04](https://news.ycombinator.com/item?id=42885688) - [Tesla Reported Zero Federal Income Tax on $2B of U.S. Income in 2024](https://itep.org/tesla-reported-zero-federal-income-tax-in-2024/)
 * [2025-01-31, 06:11:30](https://news.ycombinator.com/item?id=42885087) - [Hydro: Distributed Programming Framework for Rust](https://hydro.run/docs/hydro/)
 * [2025-01-31, 05:48:21](https://news.ycombinator.com/item?id=42885008) - [Basel has to buy domain name in the Bahamas after mishap](https://www.bluewin.ch/en/news/switzerland/basel-has-to-buy-internet-address-in-bahamas-after-breakdown-2541936.html)
 * [2025-01-31, 05:24:09](https://news.ycombinator.com/item?id=42884930) - [Release Notes for Ghostty 1.1.0](https://ghostty.org/docs/install/release-notes/1-1-0)
@@ -7,7 +8,6 @@
 * [2025-01-31, 04:35:57](https://news.ycombinator.com/item?id=42884727) - [sixos: A nix OS without systemd [video]](https://media.ccc.de/v/38c3-sixos-a-nix-os-without-systemd)
 * [2025-01-31, 03:51:44](https://news.ycombinator.com/item?id=42884556) - [Rubywm: An X11 window manager in pure Ruby](https://github.com/vidarh/rubywm)
 * [2025-01-31, 02:58:28](https://news.ycombinator.com/item?id=42884338) - [TopoNets: High performing vision and language models with brain-like topography](https://arxiv.org/abs/2501.16396)
-* [2025-01-31, 02:58:15](https://news.ycombinator.com/item?id=42884337) - [Go Is a Well-Designed Language](https://mattjhall.co.uk/posts/go-is-well-designed-actually.html)
 * [2025-01-31, 02:09:50](https://news.ycombinator.com/item?id=42884133) - [Xerox Alto Source Code (2014)](https://computerhistory.org/blog/xerox-alto-source-code/)
 * [2025-01-30, 23:39:29](https://news.ycombinator.com/item?id=42883363) - [Show HN: Ahey – A simple pub-sub service built on top of web push](https://ahey.io)
 * [2025-01-30, 21:00:10](https://news.ycombinator.com/item?id=42882121) - [Svix (YC W21) Is Hiring a Developer Marketer (US Remote)](https://www.svix.com/careers/)
