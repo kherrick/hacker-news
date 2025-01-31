@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2025-01-31, 04:35:57",
+      "https://news.ycombinator.com/item?id=42884727"
+    ],
+    [
+      "Sixos: A nix OS without systemd [video]",
+      "https://media.ccc.de/v/38c3-sixos-a-nix-os-without-systemd"
+    ]
+  ],
+  [
+    [
       "2025-01-31, 03:51:44",
       "https://news.ycombinator.com/item?id=42884556"
     ],
@@ -165,7 +175,7 @@
       "https://news.ycombinator.com/item?id=42881724"
     ],
     [
-      "How Jane Street accidentally built a better build system for OCaml",
+      "A better build system for OCaml",
       "https://blog.janestreet.com/how-we-accidentally-built-a-better-build-system-for-ocaml-index/"
     ]
   ],
@@ -257,16 +267,6 @@
     [
       "RCA and the Roaring Twenties",
       "https://globalfinancialdata.com/rca-and-the-roaring-twenties"
-    ]
-  ],
-  [
-    [
-      "2025-01-29, 16:21:55",
-      "https://news.ycombinator.com/item?id=42866951"
-    ],
-    [
-      "Show HN: Distr – open-source distribution platform for on-prem deployments",
-      "https://github.com/glasskube/distr"
     ]
   ],
   [
