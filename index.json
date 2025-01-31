@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-31, 19:35:01",
+      "https://news.ycombinator.com/item?id=42890960"
+    ],
+    [
+      "Meta in talks to reincorporate in Texas or another state, WSJ reports",
+      "https://www.reuters.com/technology/meta-talks-reincorporate-texas-or-another-state-exit-delaware-wsj-reports-2025-01-31/"
+    ]
+  ],
+  [
+    [
       "2025-01-31, 19:08:15",
       "https://news.ycombinator.com/item?id=42890627"
     ],
@@ -187,16 +197,6 @@
     [
       "Show HN: voidDB – A transactional key-value DB written in Go for 64-bit Linux",
       "https://github.com/voidDB/voidDB"
-    ]
-  ],
-  [
-    [
-      "2025-01-31, 13:07:38",
-      "https://news.ycombinator.com/item?id=42887274"
-    ],
-    [
-      "Building a Mesh Using Spherical Embedding",
-      "https://andrews.wiki/spherical-mesh"
     ]
   ],
   [
