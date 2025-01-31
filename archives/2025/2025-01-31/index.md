@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-31](index.md)
 
+* [2025-01-31, 17:16:32](https://news.ycombinator.com/item?id=42889483) - [Ozempic is causing trouble on Savile Row](https://www.thetimes.com/life-style/luxury/article/ozempic-trouble-on-savile-row-times-luxury-xn92lklxh)
+* [2025-01-31, 17:14:12](https://news.ycombinator.com/item?id=42889465) - [Shell-ish scripting in Go with ease](https://github.com/bitfield/script)
 * [2025-01-31, 17:07:01](https://news.ycombinator.com/item?id=42889407) - [Show HN: Uscope, a New Linux Debugger Written from Scratch](https://github.com/jcalabro/uscope)
 * [2025-01-31, 17:00:39](https://news.ycombinator.com/item?id=42889351) - [Distro (YC S24) Is Hiring a Chief of Staff in Palo Alto](https://www.ycombinator.com/companies/distro/jobs/VrBerJw-chief-of-staff)
 * [2025-01-31, 16:55:26](https://news.ycombinator.com/item?id=42889308) - [Zusie – Relay Computer](http://www.nablaman.com/relay/about.php)
