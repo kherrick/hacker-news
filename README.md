@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-31, 00:47:09](https://news.ycombinator.com/item?id=42883734) - [FDA Approves drug to treat pain without opioid effects](https://www.nytimes.com/2025/01/30/health/fda-journavx-suzetrigine-vertex-opioids.html)
 * [2025-01-30, 23:39:29](https://news.ycombinator.com/item?id=42883363) - [Show HN: Ahey – A simple pub-sub service built on top of web push](https://ahey.io)
 * [2025-01-30, 21:00:10](https://news.ycombinator.com/item?id=42882121) - [Svix (YC W21) Is Hiring a Developer Marketer (US Remote)](https://www.svix.com/careers/)
 * [2025-01-30, 20:30:09](https://news.ycombinator.com/item?id=42881858) - [Signs Of Life In A Desert](https://www.noemamag.com/signs-of-life-in-a-desert-of-death/)
 * [2025-01-30, 20:14:47](https://news.ycombinator.com/item?id=42881724) - [How Jane Street accidentally built a better build system for OCaml](https://blog.janestreet.com/how-we-accidentally-built-a-better-build-system-for-ocaml-index/)
 * [2025-01-30, 19:44:02](https://news.ycombinator.com/item?id=42881408) - [Optical Frequency Combs](https://www.nist.gov/topics/physics/optical-frequency-combs)
 * [2025-01-30, 19:37:42](https://news.ycombinator.com/item?id=42881342) - [Stats – macOS system monitor in your menu bar](https://github.com/exelban/stats)
+* [2025-01-30, 18:56:42](https://news.ycombinator.com/item?id=42880873) - [Show HN: Reactive Signals for Python – inspired by Angular's reactivity model](https://github.com/buiapp/reaktiv)
 * [2025-01-30, 18:48:30](https://news.ycombinator.com/item?id=42880807) - [California law enforcement misused state databases more than 7k times in 2023](https://www.eff.org/deeplinks/2025/01/california-police-misused-state-databases-more-7000-times-2023)
 * [2025-01-30, 18:38:12](https://news.ycombinator.com/item?id=42880704) - [Many of the Pokemon playtest cards were likely printed in 2024](https://www.elitefourum.com/t/many-of-the-pokemon-playtest-cards-were-likely-printed-in-2024/52421)
 * [2025-01-30, 18:14:46](https://news.ycombinator.com/item?id=42880449) - [Show HN: Iterm-Mcp – AI Terminal/REPL Control for iTerm2](https://github.com/ferrislucas/iterm-mcp)
