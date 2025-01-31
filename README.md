@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-31, 17:29:16](https://news.ycombinator.com/item?id=42889618) - [Yandex's High-Performance Profiler Is Now Open Source](https://medium.com/yandex/yandexs-high-performance-profiler-is-now-open-source-95e291df9d18)
+* [2025-01-31, 17:47:39](https://news.ycombinator.com/item?id=42889777) - [Three AM 911 call, 9 AM salesman](https://a.wholelottanothing.org/when-everything-becomes-a-profit-center/)
+* [2025-01-31, 17:37:40](https://news.ycombinator.com/item?id=42889700) - [Living with Nausea: My Story in Six Charts](https://www.c82.net/blog/?id=96)
 * [2025-01-31, 17:16:32](https://news.ycombinator.com/item?id=42889483) - [Ozempic is causing trouble on Savile Row](https://www.thetimes.com/life-style/luxury/article/ozempic-trouble-on-savile-row-times-luxury-xn92lklxh)
 * [2025-01-31, 17:14:12](https://news.ycombinator.com/item?id=42889465) - [Shell-ish scripting in Go with ease](https://github.com/bitfield/script)
 * [2025-01-31, 17:07:01](https://news.ycombinator.com/item?id=42889407) - [Show HN: Uscope, a New Linux Debugger Written from Scratch](https://github.com/jcalabro/uscope)
@@ -11,7 +12,6 @@
 * [2025-01-31, 16:36:23](https://news.ycombinator.com/item?id=42889139) - [Fixing E.T. The Extra-Terrestrial for the Atari 2600 (2013)](http://www.neocomputer.org/projects/et/)
 * [2025-01-31, 15:00:55](https://news.ycombinator.com/item?id=42888326) - [Images reveal exocomets around nearby stars](https://skyandtelescope.org/astronomy-news/new-images-reveal-exocomets-around-74-nearby-stars/)
 * [2025-01-31, 14:48:25](https://news.ycombinator.com/item?id=42888195) - [MillenniumDB: Property graph and RDF engine, still in development](https://github.com/MillenniumDB/MillenniumDB)
-* [2025-01-31, 13:47:47](https://news.ycombinator.com/item?id=42887598) - [Traffic spikes are bad for your product](https://andrewchen.substack.com/p/my-product-went-viral-on-social-media)
 * [2025-01-31, 13:45:06](https://news.ycombinator.com/item?id=42887581) - [Show HN: voidDB – A transactional key-value DB written in Go for 64-bit Linux](https://github.com/voidDB/voidDB)
 * [2025-01-31, 13:07:38](https://news.ycombinator.com/item?id=42887274) - [Building a Mesh Using Spherical Embedding](https://andrews.wiki/spherical-mesh)
 * [2025-01-31, 12:11:48](https://news.ycombinator.com/item?id=42886867) - [Ear muscle we thought humans didn't use activates when people listen hard](https://www.frontiersin.org/news/2025/01/31/ear-muscle-wiggling-ears-activates-listening-frontiers-neuroscience)
