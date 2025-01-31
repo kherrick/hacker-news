@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-01-31](index.md)
 
+* [2025-01-31, 19:08:15](https://news.ycombinator.com/item?id=42890627) - [OpenAI O3-Mini](https://openai.com/index/openai-o3-mini/)
+* [2025-01-31, 19:07:38](https://news.ycombinator.com/item?id=42890616) - [OpenAI launches o3-mini, its latest 'reasoning' model](https://techcrunch.com/2025/01/31/openai-launches-o3-mini-its-latest-reasoning-model/)
+* [2025-01-31, 18:36:54](https://news.ycombinator.com/item?id=42890292) - [TCAS Avoided Collision with Army Helicopter over Potomac River [video]](https://www.youtube.com/watch?v=huVFZ__q2rI)
+* [2025-01-31, 18:36:43](https://news.ycombinator.com/item?id=42890290) - [FBI, Dutch Police Disrupt 'Manipulaters' Phishing Gang](https://krebsonsecurity.com/2025/01/fbi-dutch-police-disrupt-manipulaters-phishing-gang/)
 * [2025-01-31, 18:14:28](https://news.ycombinator.com/item?id=42890050) - [Older Adults Disproportionately Hindered by Touch Screen Interfaces](https://journals.sagepub.com/doi/10.1177/21695067231193656)
 * [2025-01-31, 18:08:38](https://news.ycombinator.com/item?id=42889989) - [O3-mini System Card [pdf]](https://cdn.openai.com/o3-mini-system-card.pdf)
 * [2025-01-31, 17:48:23](https://news.ycombinator.com/item?id=42889786) - [Theoretical limitations of multi-layer Transformer](https://arxiv.org/abs/2412.02975)
