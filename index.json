@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2025-01-31, 13:07:38",
+      "https://news.ycombinator.com/item?id=42887274"
+    ],
+    [
+      "Building a Mesh Using Spherical Embedding",
+      "https://andrews.wiki/spherical-mesh"
+    ]
+  ],
+  [
+    [
       "2025-01-31, 12:11:48",
       "https://news.ycombinator.com/item?id=42886867"
     ],
@@ -257,16 +267,6 @@
     [
       "TopoNets: High performing vision and language models with brain-like topography",
       "https://arxiv.org/abs/2501.16396"
-    ]
-  ],
-  [
-    [
-      "2025-01-30, 20:14:47",
-      "https://news.ycombinator.com/item?id=42881724"
-    ],
-    [
-      "A better build system for OCaml",
-      "https://blog.janestreet.com/how-we-accidentally-built-a-better-build-system-for-ocaml-index/"
     ]
   ],
   [
