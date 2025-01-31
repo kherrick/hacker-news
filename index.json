@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-31, 04:35:57",
+      "https://news.ycombinator.com/item?id=42884727"
+    ],
+    [
+      "sixos: A nix OS without systemd [video]",
+      "https://media.ccc.de/v/38c3-sixos-a-nix-os-without-systemd"
+    ]
+  ],
+  [
+    [
+      "2025-01-31, 03:51:44",
+      "https://news.ycombinator.com/item?id=42884556"
+    ],
+    [
+      "Rubywm: An X11 window manager in pure Ruby",
+      "https://github.com/vidarh/rubywm"
+    ]
+  ],
+  [
+    [
       "2025-01-31, 03:28:57",
       "https://news.ycombinator.com/item?id=42884473"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2025-01-30, 17:57:46",
-      "https://news.ycombinator.com/item?id=42880242"
-    ],
-    [
-      "Quaternions and spherical trigonometry",
-      "https://terrytao.wordpress.com/2024/12/19/quaternions-and-spherical-trigonometry/"
-    ]
-  ],
-  [
-    [
       "2025-01-30, 16:59:38",
       "https://news.ycombinator.com/item?id=42879661"
     ],
@@ -257,16 +267,6 @@
     [
       "Scalable OLTP in the Cloud: What's the Big Deal?",
       "http://muratbuffalo.blogspot.com/2024/01/scalable-oltp-in-cloud-whats-big-deal.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-27, 00:15:29",
-      "https://news.ycombinator.com/item?id=42835808"
-    ],
-    [
-      "Teemoji: Like Tee but with Emojis",
-      "https://github.com/willswire/teemoji"
     ]
   ],
   [
