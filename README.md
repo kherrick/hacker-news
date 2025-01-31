@@ -12,6 +12,7 @@
 * [2025-01-31, 16:53:30](https://news.ycombinator.com/item?id=42889297) - [Apple files emergency motion to become defendant in US vs. Google [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1158.0_1.pdf)
 * [2025-01-31, 16:46:15](https://news.ycombinator.com/item?id=42889236) - [How to Train an AI Image Model on Yourself](https://www.coryzue.com/writing/make-ai-pictures-of-yourself/)
 * [2025-01-31, 16:36:23](https://news.ycombinator.com/item?id=42889139) - [Fixing E.T. The Extra-Terrestrial for the Atari 2600 (2013)](http://www.neocomputer.org/projects/et/)
+* [2025-01-31, 16:26:37](https://news.ycombinator.com/item?id=42889052) - [Large Language Models Think Too Fast to Explore Effectively](https://arxiv.org/abs/2501.18009)
 * [2025-01-31, 15:00:55](https://news.ycombinator.com/item?id=42888326) - [Images reveal exocomets around nearby stars](https://skyandtelescope.org/astronomy-news/new-images-reveal-exocomets-around-74-nearby-stars/)
 * [2025-01-31, 14:48:25](https://news.ycombinator.com/item?id=42888195) - [MillenniumDB: Property graph and RDF engine, still in development](https://github.com/MillenniumDB/MillenniumDB)
 * [2025-01-31, 13:45:06](https://news.ycombinator.com/item?id=42887581) - [Show HN: voidDB – A transactional key-value DB written in Go for 64-bit Linux](https://github.com/voidDB/voidDB)
@@ -27,7 +28,6 @@
 * [2025-01-30, 20:14:47](https://news.ycombinator.com/item?id=42881724) - [A better build system for OCaml](https://blog.janestreet.com/how-we-accidentally-built-a-better-build-system-for-ocaml-index/)
 * [2025-01-30, 19:37:42](https://news.ycombinator.com/item?id=42881342) - [Stats – macOS system monitor in your menu bar](https://github.com/exelban/stats)
 * [2025-01-28, 14:35:23](https://news.ycombinator.com/item?id=42852754) - [Real-time, river sections downstream of sewage discharges from storm overflows](https://www.sewagemap.co.uk/)
-* [2025-01-27, 21:10:45](https://news.ycombinator.com/item?id=42845660) - [Developers should embrace creative coding again](https://www.figma.com/blog/why-developers-should-embrace-creative-coding-again/)
 * [2025-01-27, 21:03:53](https://news.ycombinator.com/item?id=42845603) - [Quantel Paintbox History](https://www.quantelpaintbox.com/history.html)
 * [2025-01-27, 20:18:38](https://news.ycombinator.com/item?id=42845169) - [Better Know a Ruby Thing: Singleton Classes](https://noelrappin.com/blog/2025/01/better-know-a-ruby-thing-singleton-classes/)
 
