@@ -7,5 +7,6 @@
 * [2025-01-31, 04:00:27](https://news.ycombinator.com/item?id=42884599) - [Apple iPhone sales dip despite AI rollout](https://www.bbc.co.uk/news/articles/cn57l2nreglo)
 * [2025-01-31, 03:28:57](https://news.ycombinator.com/item?id=42884473) - [Copyright Office suggests AI copyright debate was settled in 1965](https://arstechnica.com/tech-policy/2025/01/copyright-office-suggests-ai-copyright-debate-was-settled-in-1965/)
 * [2025-01-31, 02:58:28](https://news.ycombinator.com/item?id=42884338) - [Inducing brain-like structure in GPT's weights makes them parameter efficient](https://arxiv.org/abs/2501.16396)
+* [2025-01-31, 02:07:01](https://news.ycombinator.com/item?id=42884117) - [65% of all ski resorts in the US have closed since 1960s (2022)](https://www.mdpi.com/2073-445X/11/4/494)
 * [2025-01-31, 01:52:23](https://news.ycombinator.com/item?id=42884056) - [Show HN: 1M+ animated GPU sprites in JavaScript](https://phaser.io/news/2025/01/phaser-v4-beta-5-released)
 * [2025-01-31, 00:47:09](https://news.ycombinator.com/item?id=42883734) - [FDA Approves drug to treat pain without opioid effects](https://www.nytimes.com/2025/01/30/health/fda-journavx-suzetrigine-vertex-opioids.html)
