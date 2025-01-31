@@ -4,13 +4,17 @@
 
 ### [Archives](../../index.md) for [2025-01-31](index.md)
 
+* [2025-01-31, 15:48:08](https://news.ycombinator.com/item?id=42888773) - [A brief history of counting machines (2023)](https://lcamtuf.substack.com/p/a-brief-history-of-counting-stuff)
+* [2025-01-31, 15:15:46](https://news.ycombinator.com/item?id=42888471) - [Pimping my Casio with Oddly Specific Objects' alternate motherboard and firmware](https://blog.jgc.org/2022/10/pimping-my-casio-with-oddly-specific.html)
 * [2025-01-31, 15:00:55](https://news.ycombinator.com/item?id=42888326) - [Images Reveal Exocomets Around 74 Nearby Stars](https://skyandtelescope.org/astronomy-news/new-images-reveal-exocomets-around-74-nearby-stars/)
 * [2025-01-31, 14:48:25](https://news.ycombinator.com/item?id=42888195) - [MillenniumDB: A graph database engine using domain graphs](https://github.com/MillenniumDB/MillenniumDB)
 * [2025-01-31, 14:31:15](https://news.ycombinator.com/item?id=42888034) - [Lebanon's Oldest Soap Factory Makes 30k Olive Oil Bar [video]](https://www.youtube.com/watch?v=2YVb4s1DGzw)
+* [2025-01-31, 14:30:16](https://news.ycombinator.com/item?id=42888026) - [For privacy: Change of our refund policy from 30 to 14 days](https://mullvad.net/en/blog/for-privacy-change-of-our-refund-policy-from-30-to-14-days)
 * [2025-01-31, 14:22:42](https://news.ycombinator.com/item?id=42887968) - [Linux Mobile at FOSDEM 2025](https://linmob.net/fosdem2025/)
 * [2025-01-31, 14:20:07](https://news.ycombinator.com/item?id=42887939) - [RamaLama](https://github.com/containers/ramalama)
 * [2025-01-31, 13:53:40](https://news.ycombinator.com/item?id=42887651) - [KVM Enhancements Within the Linux 6.14 Kernel](https://www.phoronix.com/news/Linux-6.14-KVM)
 * [2025-01-31, 13:47:47](https://news.ycombinator.com/item?id=42887598) - [My product went viral on social media but all I got were these shitty users](https://andrewchen.substack.com/p/my-product-went-viral-on-social-media)
+* [2025-01-31, 13:45:06](https://news.ycombinator.com/item?id=42887581) - [Show HN: voidDB – A transactional key-value DB written in Go for 64-bit Linux](https://github.com/voidDB/voidDB)
 * [2025-01-31, 13:20:16](https://news.ycombinator.com/item?id=42887366) - [Patient Monitor Contec CMS8000 Contains a Backdoor](https://www.cisa.gov/resources-tools/resources/contec-cms8000-contains-backdoor)
 * [2025-01-31, 13:07:38](https://news.ycombinator.com/item?id=42887274) - [Building a Mesh Using Spherical Embedding](https://andrews.wiki/spherical-mesh)
 * [2025-01-31, 13:01:46](https://news.ycombinator.com/item?id=42887234) - [Battery-powered electric ferry service to connect Spain and Morocco](https://eandt.theiet.org/2025/01/28/battery-powered-electric-ferry-service-connect-spain-and-morocco)
