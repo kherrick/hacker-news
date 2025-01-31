@@ -8,6 +8,7 @@
 * [2025-01-27, 22:54:31](https://news.ycombinator.com/item?id=42846734) - [Big brother becomes little brother](https://www.kenklippenstein.com/p/big-brother-becomes-little-brother)
 * [2025-01-27, 21:37:59](https://news.ycombinator.com/item?id=42845933) - [I trusted an LLM, now I'm on day 4 of an afternoon project](https://nemo.foo/blog/day-4-of-an-afternoon-project)
 * [2025-01-27, 21:13:10](https://news.ycombinator.com/item?id=42845681) - [Nvidia sheds almost $600B in market cap, biggest one-day loss in US history](https://www.cnbc.com/2025/01/27/nvidia-sheds-almost-600-billion-in-market-cap-biggest-drop-ever.html)
+* [2025-01-27, 21:10:45](https://news.ycombinator.com/item?id=42845660) - [Developers should embrace creative coding again](https://www.figma.com/blog/why-developers-should-embrace-creative-coding-again/)
 * [2025-01-27, 21:03:53](https://news.ycombinator.com/item?id=42845603) - [Quantel Paintbox History](https://www.quantelpaintbox.com/history.html)
 * [2025-01-27, 20:55:58](https://news.ycombinator.com/item?id=42845526) - [Hackers are targeting machine identities;Token Security raised $20M to stop them](https://techcrunch.com/2025/01/27/hackers-are-targeting-machine-identities-token-security-just-raised-20m-to-stop-them/)
 * [2025-01-27, 20:51:28](https://news.ycombinator.com/item?id=42845488) - [The Illustrated DeepSeek-R1](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1)
