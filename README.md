@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-31, 12:11:48](https://news.ycombinator.com/item?id=42886867) - [Ear muscle we thought humans didn't use activates when people listen hard](https://www.frontiersin.org/news/2025/01/31/ear-muscle-wiggling-ears-activates-listening-frontiers-neuroscience)
-* [2025-01-31, 11:42:22](https://news.ycombinator.com/item?id=42886730) - [Hedge fund warns White House is inflating crypto bubble that could wreak havoc](https://www.ft.com/content/5fe69580-7f01-4215-98bb-b6ec5f7cd833)
 * [2025-01-31, 11:40:30](https://news.ycombinator.com/item?id=42886718) - [Casio F91w at 5KM underwater – watches of espionage](https://www.watchesofespionage.com/blogs/woe-dispatch/casio-f91w-diving-underwater-pressure-test)
 * [2025-01-31, 11:30:48](https://news.ycombinator.com/item?id=42886680) - [Llama.cpp supports Vulkan. why doesn't Ollama?](https://github.com/ollama/ollama/pull/5059)
 * [2025-01-31, 11:21:57](https://news.ycombinator.com/item?id=42886661) - [NSF starts vetting all grants to comply with executive orders](https://www.science.org/content/article/exclusive-nsf-starts-vetting-all-grants-comply-trump-s-orders)
@@ -26,6 +25,7 @@
 * [2025-01-30, 13:12:34](https://news.ycombinator.com/item?id=42877399) - [Show HN: Audiocube – A 3D DAW for Spatial Audio](https://www.audiocube.app)
 * [2025-01-30, 11:28:31](https://news.ycombinator.com/item?id=42876840) - [JavaScript Temporal is coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
 * [2025-01-30, 04:33:25](https://news.ycombinator.com/item?id=42874885) - [PCBs, copper pours, ground planes, and you](https://lcamtuf.substack.com/p/pcbs-ground-planes-and-you)
+* [2025-01-30, 00:31:53](https://news.ycombinator.com/item?id=42873312) - [Mathesar – an intutive spreadsheet-like interface to Postgres data](https://github.com/mathesar-foundation/mathesar)
 * [2025-01-29, 17:50:11](https://news.ycombinator.com/item?id=42868475) - [RCA and the Roaring Twenties](https://globalfinancialdata.com/rca-and-the-roaring-twenties)
 * [2025-01-29, 16:21:55](https://news.ycombinator.com/item?id=42866951) - [Show HN: Distr – open-source distribution platform for on-prem deployments](https://github.com/glasskube/distr)
 * [2025-01-27, 20:15:01](https://news.ycombinator.com/item?id=42845129) - [My Cat Mii](https://www.theparisreview.org/blog/2025/01/20/my-cat-mii/)
