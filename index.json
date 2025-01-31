@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-01-31, 11:42:22",
-      "https://news.ycombinator.com/item?id=42886730"
-    ],
-    [
-      "Hedge fund warns White House is inflating crypto bubble that could wreak havoc",
-      "https://www.ft.com/content/5fe69580-7f01-4215-98bb-b6ec5f7cd833"
-    ]
-  ],
-  [
-    [
       "2025-01-31, 11:40:30",
       "https://news.ycombinator.com/item?id=42886718"
     ],
@@ -257,6 +247,16 @@
     [
       "PCBs, copper pours, ground planes, and you",
       "https://lcamtuf.substack.com/p/pcbs-ground-planes-and-you"
+    ]
+  ],
+  [
+    [
+      "2025-01-30, 00:31:53",
+      "https://news.ycombinator.com/item?id=42873312"
+    ],
+    [
+      "Mathesar – an intutive spreadsheet-like interface to Postgres data",
+      "https://github.com/mathesar-foundation/mathesar"
     ]
   ],
   [
