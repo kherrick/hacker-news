@@ -1,12 +1,42 @@
 [
   [
     [
-      "2025-01-31, 18:14:28",
-      "https://news.ycombinator.com/item?id=42890050"
+      "2025-01-31, 19:08:15",
+      "https://news.ycombinator.com/item?id=42890627"
     ],
     [
-      "Older Adults Disproportionately Hindered by Touch Screen Interfaces",
-      "https://journals.sagepub.com/doi/10.1177/21695067231193656"
+      "OpenAI O3-Mini",
+      "https://openai.com/index/openai-o3-mini/"
+    ]
+  ],
+  [
+    [
+      "2025-01-31, 19:07:38",
+      "https://news.ycombinator.com/item?id=42890616"
+    ],
+    [
+      "OpenAI launches o3-mini, its latest 'reasoning' model",
+      "https://techcrunch.com/2025/01/31/openai-launches-o3-mini-its-latest-reasoning-model/"
+    ]
+  ],
+  [
+    [
+      "2025-01-31, 18:36:54",
+      "https://news.ycombinator.com/item?id=42890292"
+    ],
+    [
+      "TCAS Avoided Collision with Army Helicopter over Potomac River [video]",
+      "https://www.youtube.com/watch?v=huVFZ__q2rI"
+    ]
+  ],
+  [
+    [
+      "2025-01-31, 18:36:43",
+      "https://news.ycombinator.com/item?id=42890290"
+    ],
+    [
+      "FBI, Dutch Police Disrupt 'Manipulaters' Phishing Gang",
+      "https://krebsonsecurity.com/2025/01/fbi-dutch-police-disrupt-manipulaters-phishing-gang/"
     ]
   ],
   [
@@ -65,7 +95,7 @@
       "https://news.ycombinator.com/item?id=42889407"
     ],
     [
-      "Show HN: Uscope, a New Linux Debugger Written from Scratch",
+      "Show HN: Uscope, a new Linux debugger written from scratch",
       "https://github.com/jcalabro/uscope"
     ]
   ],
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2025-01-31, 12:11:48",
-      "https://news.ycombinator.com/item?id=42886867"
-    ],
-    [
-      "Ear muscle we thought humans didn't use activates when people listen hard",
-      "https://www.frontiersin.org/news/2025/01/31/ear-muscle-wiggling-ears-activates-listening-frontiers-neuroscience"
-    ]
-  ],
-  [
-    [
       "2025-01-31, 11:40:30",
       "https://news.ycombinator.com/item?id=42886718"
     ],
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2025-01-31, 02:09:50",
-      "https://news.ycombinator.com/item?id=42884133"
-    ],
-    [
-      "Xerox Alto Source Code (2014)",
-      "https://computerhistory.org/blog/xerox-alto-source-code/"
-    ]
-  ],
-  [
-    [
       "2025-01-30, 20:14:47",
       "https://news.ycombinator.com/item?id=42881724"
     ],
     [
       "A better build system for OCaml",
       "https://blog.janestreet.com/how-we-accidentally-built-a-better-build-system-for-ocaml-index/"
-    ]
-  ],
-  [
-    [
-      "2025-01-30, 19:37:42",
-      "https://news.ycombinator.com/item?id=42881342"
-    ],
-    [
-      "Stats – macOS system monitor in your menu bar",
-      "https://github.com/exelban/stats"
     ]
   ],
   [
