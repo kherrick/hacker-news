@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-31](index.md)
 
+* [2025-01-31, 11:30:48](https://news.ycombinator.com/item?id=42886680) - [Llama.cpp supports Vulkan. why doesn't Ollama?](https://github.com/ollama/ollama/pull/5059)
 * [2025-01-31, 09:29:52](https://news.ycombinator.com/item?id=42886079) - [Show HN: Ldump – serialize any Lua data](https://github.com/girvel/ldump)
 * [2025-01-31, 08:33:30](https://news.ycombinator.com/item?id=42885742) - [The American science funding catastrophe](https://scottaaronson.blog/?p=8609)
 * [2025-01-31, 08:25:04](https://news.ycombinator.com/item?id=42885688) - [Tesla Reported Zero Federal Income Tax on $2B of U.S. Income in 2024](https://itep.org/tesla-reported-zero-federal-income-tax-in-2024/)
