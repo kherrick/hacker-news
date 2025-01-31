@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-01-31, 18:14:28",
+      "https://news.ycombinator.com/item?id=42890050"
+    ],
+    [
+      "Older Adults Disproportionately Hindered by Touch Screen Interfaces",
+      "https://journals.sagepub.com/doi/10.1177/21695067231193656"
+    ]
+  ],
+  [
+    [
+      "2025-01-31, 18:08:38",
+      "https://news.ycombinator.com/item?id=42889989"
+    ],
+    [
+      "O3-mini System Card [pdf]",
+      "https://cdn.openai.com/o3-mini-system-card.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-01-31, 17:48:23",
+      "https://news.ycombinator.com/item?id=42889786"
+    ],
+    [
+      "Theoretical limitations of multi-layer Transformer",
+      "https://arxiv.org/abs/2412.02975"
+    ]
+  ],
+  [
+    [
       "2025-01-31, 17:47:39",
       "https://news.ycombinator.com/item?id=42889777"
     ],
@@ -17,16 +47,6 @@
     [
       "Living with Nausea: My Story in Six Charts",
       "https://www.c82.net/blog/?id=96"
-    ]
-  ],
-  [
-    [
-      "2025-01-31, 17:16:32",
-      "https://news.ycombinator.com/item?id=42889483"
-    ],
-    [
-      "Ozempic is causing trouble on Savile Row",
-      "https://www.thetimes.com/life-style/luxury/article/ozempic-trouble-on-savile-row-times-luxury-xn92lklxh"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-01-31, 11:21:57",
-      "https://news.ycombinator.com/item?id=42886661"
-    ],
-    [
-      "NSF starts vetting all grants to comply with executive orders",
-      "https://www.science.org/content/article/exclusive-nsf-starts-vetting-all-grants-comply-trump-s-orders"
-    ]
-  ],
-  [
-    [
       "2025-01-31, 09:29:52",
       "https://news.ycombinator.com/item?id=42886079"
     ],
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2025-01-27, 20:15:01",
-      "https://news.ycombinator.com/item?id=42845129"
+      "2025-01-27, 20:18:38",
+      "https://news.ycombinator.com/item?id=42845169"
     ],
     [
-      "My Cat Mii",
-      "https://www.theparisreview.org/blog/2025/01/20/my-cat-mii/"
-    ]
-  ],
-  [
-    [
-      "2025-01-26, 17:44:54",
-      "https://news.ycombinator.com/item?id=42831969"
-    ],
-    [
-      "The story of my home made pipe organ (2000)",
-      "https://www.sentex.ca/~mwandel/organ/organ.html"
+      "Better Know a Ruby Thing: Singleton Classes",
+      "https://noelrappin.com/blog/2025/01/better-know-a-ruby-thing-singleton-classes/"
     ]
   ]
 ]
