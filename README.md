@@ -20,7 +20,6 @@
 * [2025-01-30, 19:44:02](https://news.ycombinator.com/item?id=42881408) - [Optical Frequency Combs](https://www.nist.gov/topics/physics/optical-frequency-combs)
 * [2025-01-30, 19:37:42](https://news.ycombinator.com/item?id=42881342) - [Stats – macOS system monitor in your menu bar](https://github.com/exelban/stats)
 * [2025-01-30, 18:48:30](https://news.ycombinator.com/item?id=42880807) - [California law enforcement misused state databases more than 7k times in 2023](https://www.eff.org/deeplinks/2025/01/california-police-misused-state-databases-more-7000-times-2023)
-* [2025-01-30, 18:38:12](https://news.ycombinator.com/item?id=42880704) - [Many of the Pokemon playtest cards were likely printed in 2024](https://www.elitefourum.com/t/many-of-the-pokemon-playtest-cards-were-likely-printed-in-2024/52421)
 * [2025-01-30, 16:59:38](https://news.ycombinator.com/item?id=42879661) - [Launch HN: Karsa (YC W25) – Buy and save stablecoins internationally](https://news.ycombinator.com/item?id=42879661)
 * [2025-01-30, 14:01:27](https://news.ycombinator.com/item?id=42877709) - [Antiqua et Nova: Note on the relationship between AI and human intelligence](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html)
 * [2025-01-30, 13:18:49](https://news.ycombinator.com/item?id=42877430) - [A history of APL in the USSR (1991)](https://dl.acm.org/doi/10.1145/130647.130656)
@@ -28,6 +27,7 @@
 * [2025-01-30, 11:28:31](https://news.ycombinator.com/item?id=42876840) - [JavaScript Temporal is coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
 * [2025-01-30, 04:33:25](https://news.ycombinator.com/item?id=42874885) - [PCBs, copper pours, ground planes, and you](https://lcamtuf.substack.com/p/pcbs-ground-planes-and-you)
 * [2025-01-29, 17:50:11](https://news.ycombinator.com/item?id=42868475) - [RCA and the Roaring Twenties](https://globalfinancialdata.com/rca-and-the-roaring-twenties)
+* [2025-01-29, 16:21:55](https://news.ycombinator.com/item?id=42866951) - [Show HN: Distr – open-source distribution platform for on-prem deployments](https://github.com/glasskube/distr)
 * [2025-01-27, 20:15:01](https://news.ycombinator.com/item?id=42845129) - [My Cat Mii](https://www.theparisreview.org/blog/2025/01/20/my-cat-mii/)
 * [2025-01-26, 17:44:54](https://news.ycombinator.com/item?id=42831969) - [The story of my home made pipe organ (2000)](https://www.sentex.ca/~mwandel/organ/organ.html)
 
