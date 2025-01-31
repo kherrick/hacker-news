@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-31, 13:01:46](https://news.ycombinator.com/item?id=42887234) - [Battery-powered electric ferry service to connect Spain and Morocco](https://eandt.theiet.org/2025/01/28/battery-powered-electric-ferry-service-connect-spain-and-morocco)
+* [2025-01-31, 12:38:53](https://news.ycombinator.com/item?id=42887070) - [Five years of Brexit reshaped Britain](https://www.ft.com/content/4d2d78b0-eedd-485c-9a9c-4e41baf46146)
 * [2025-01-31, 12:11:48](https://news.ycombinator.com/item?id=42886867) - [Ear muscle we thought humans didn't use activates when people listen hard](https://www.frontiersin.org/news/2025/01/31/ear-muscle-wiggling-ears-activates-listening-frontiers-neuroscience)
 * [2025-01-31, 11:40:30](https://news.ycombinator.com/item?id=42886718) - [Casio F91w at 5KM underwater – watches of espionage](https://www.watchesofespionage.com/blogs/woe-dispatch/casio-f91w-diving-underwater-pressure-test)
 * [2025-01-31, 11:30:48](https://news.ycombinator.com/item?id=42886680) - [Llama.cpp supports Vulkan. why doesn't Ollama?](https://github.com/ollama/ollama/pull/5059)
@@ -11,7 +13,6 @@
 * [2025-01-31, 02:58:28](https://news.ycombinator.com/item?id=42884338) - [TopoNets: High performing vision and language models with brain-like topography](https://arxiv.org/abs/2501.16396)
 * [2025-01-31, 02:09:50](https://news.ycombinator.com/item?id=42884133) - [Xerox Alto Source Code (2014)](https://computerhistory.org/blog/xerox-alto-source-code/)
 * [2025-01-30, 23:39:29](https://news.ycombinator.com/item?id=42883363) - [Show HN: Ahey – A simple pub-sub service built on top of web push](https://ahey.io)
-* [2025-01-30, 21:00:10](https://news.ycombinator.com/item?id=42882121) - [Svix (YC W21) Is Hiring a Developer Marketer (US Remote)](https://www.svix.com/careers/)
 * [2025-01-30, 20:35:12](https://news.ycombinator.com/item?id=42881913) - [Why Children's Books?](https://www.lrb.co.uk/the-paper/v47/n02/katherine-rundell/why-children-s-books)
 * [2025-01-30, 20:30:09](https://news.ycombinator.com/item?id=42881858) - [Signs Of Life In A Desert](https://www.noemamag.com/signs-of-life-in-a-desert-of-death/)
 * [2025-01-30, 20:14:47](https://news.ycombinator.com/item?id=42881724) - [How Jane Street accidentally built a better build system for OCaml](https://blog.janestreet.com/how-we-accidentally-built-a-better-build-system-for-ocaml-index/)
@@ -25,7 +26,6 @@
 * [2025-01-30, 13:12:34](https://news.ycombinator.com/item?id=42877399) - [Show HN: Audiocube – A 3D DAW for Spatial Audio](https://www.audiocube.app)
 * [2025-01-30, 11:28:31](https://news.ycombinator.com/item?id=42876840) - [JavaScript Temporal is coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
 * [2025-01-30, 04:33:25](https://news.ycombinator.com/item?id=42874885) - [PCBs, copper pours, ground planes, and you](https://lcamtuf.substack.com/p/pcbs-ground-planes-and-you)
-* [2025-01-30, 00:31:53](https://news.ycombinator.com/item?id=42873312) - [Mathesar – an intutive spreadsheet-like interface to Postgres data](https://github.com/mathesar-foundation/mathesar)
 * [2025-01-29, 17:50:11](https://news.ycombinator.com/item?id=42868475) - [RCA and the Roaring Twenties](https://globalfinancialdata.com/rca-and-the-roaring-twenties)
 * [2025-01-29, 16:21:55](https://news.ycombinator.com/item?id=42866951) - [Show HN: Distr – open-source distribution platform for on-prem deployments](https://github.com/glasskube/distr)
 * [2025-01-27, 20:15:01](https://news.ycombinator.com/item?id=42845129) - [My Cat Mii](https://www.theparisreview.org/blog/2025/01/20/my-cat-mii/)
