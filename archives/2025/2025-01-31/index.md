@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2025-01-31](index.md)
 
+* [2025-01-31, 23:00:34](https://news.ycombinator.com/item?id=42893393) - [Designing Great Watchdog Timers for Embedded Systems](https://www.ganssle.com/watchdogs.htm)
+* [2025-01-31, 22:57:57](https://news.ycombinator.com/item?id=42893365) - [Tesla Paid Zero Federal Income Tax in 2024, Despite $2.3B in Income](https://truthout.org/articles/tesla-paid-zero-federal-income-tax-in-2024-despite-2-3-billion-in-income/)
+* [2025-01-31, 22:37:32](https://news.ycombinator.com/item?id=42893146) - [Germany: Number of unemployed highest in 10 years](https://www.dw.com/en/germany-number-of-unemployed-highest-in-10-years/a-71470806)
 * [2025-01-31, 21:26:43](https://news.ycombinator.com/item?id=42892278) - [Musk aides lock government workers out of computer systems at US agency](https://www.reuters.com/world/us/musk-aides-lock-government-workers-out-computer-systems-us-agency-sources-say-2025-01-31/)
 * [2025-01-31, 21:24:43](https://news.ycombinator.com/item?id=42892258) - [Oil giant Shell walks away from major New Jersey offshore wind farm](https://apnews.com/article/wind-energy-offshore-turbines-trump-executive-order-new-jersey-121fe7a76529fcf9ce969868dda6283e)
 * [2025-01-31, 21:20:40](https://news.ycombinator.com/item?id=42892191) - [Add \"fucking\" to your Google searches to neutralize AI summaries](https://gizmodo.com/add-fcking-to-your-google-searches-to-neutralize-ai-summaries-2000557710)
 * [2025-01-31, 21:10:44](https://news.ycombinator.com/item?id=42892052) - [How to Stage a Coup](https://www.statecraft.pub/p/how-to-commit-a-coup)
 * [2025-01-31, 21:06:52](https://news.ycombinator.com/item?id=42892003) - [How will Australia's under-16 social media ban work? We asked the law's enforcer](https://www.npr.org/2024/12/19/nx-s1-5231020/australia-top-regulator-kids-social-media-ban)
+* [2025-01-31, 21:01:45](https://news.ycombinator.com/item?id=42891937) - [LinuxPDF](https://github.com/ading2210/linuxpdf)
 * [2025-01-31, 21:00:11](https://news.ycombinator.com/item?id=42891909) - [FurtherAI (YC W24) Is Hiring engineers and researchers to build Vertical AI agents](https://www.ycombinator.com/companies/furtherai/jobs)
 * [2025-01-31, 20:52:10](https://news.ycombinator.com/item?id=42891821) - [GenAI Art Is the Least Imaginative Use of AI Imaginable](https://hai.stanford.edu/news/ge-wang-genai-art-least-imaginative-use-ai-imaginable)
 * [2025-01-31, 20:42:34](https://news.ycombinator.com/item?id=42891724) - [US government agency argues that money isn't property–so it can take yours](https://reason.com/2025/01/31/the-government-says-money-isnt-property-so-it-can-take-yours/)
