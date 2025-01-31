@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-01-31, 06:58:56](https://news.ycombinator.com/item?id=42885259) - [Air quality map of Kigali, Rwanda](https://maps.open-seneca.org/city/kigali)
 * [2025-01-31, 06:11:30](https://news.ycombinator.com/item?id=42885087) - [Hydro: Distributed Programming Framework for Rust](https://hydro.run/docs/hydro/)
 * [2025-01-31, 05:48:21](https://news.ycombinator.com/item?id=42885008) - [Basel has to buy domain name in the Bahamas after mishap](https://www.bluewin.ch/en/news/switzerland/basel-has-to-buy-internet-address-in-bahamas-after-breakdown-2541936.html)
 * [2025-01-31, 05:24:09](https://news.ycombinator.com/item?id=42884930) - [Release Notes for Ghostty 1.1.0](https://ghostty.org/docs/install/release-notes/1-1-0)
@@ -29,6 +28,7 @@
 * [2025-01-29, 16:21:55](https://news.ycombinator.com/item?id=42866951) - [Show HN: Distr – open-source distribution platform for on-prem deployments](https://github.com/glasskube/distr)
 * [2025-01-27, 20:15:01](https://news.ycombinator.com/item?id=42845129) - [My Cat Mii](https://www.theparisreview.org/blog/2025/01/20/my-cat-mii/)
 * [2025-01-27, 07:37:39](https://news.ycombinator.com/item?id=42838392) - [Capablanca: Minimum Vertex Cover Solver](https://pypi.org/project/capablanca)
+* [2025-01-27, 01:24:10](https://news.ycombinator.com/item?id=42836306) - [Scalable OLTP in the Cloud: What's the Big Deal?](http://muratbuffalo.blogspot.com/2024/01/scalable-oltp-in-cloud-whats-big-deal.html)
 * [2025-01-26, 17:44:54](https://news.ycombinator.com/item?id=42831969) - [The story of my home made pipe organ (2000)](https://www.sentex.ca/~mwandel/organ/organ.html)
 
 ## [Archives](archives/index.md)
