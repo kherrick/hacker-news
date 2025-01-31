@@ -84,6 +84,7 @@
 * [2025-01-28, 06:40:47](https://news.ycombinator.com/item?id=42849536) - [Open-R1: an open reproduction of DeepSeek-R1](https://huggingface.co/blog/open-r1)
 * [2025-01-28, 06:05:20](https://news.ycombinator.com/item?id=42849341) - [How Communism Is Outcompeting Capitalism](https://indi.ca/how-communism-is-obviously-outcompeting-capitalism/)
 * [2025-01-28, 03:51:37](https://news.ycombinator.com/item?id=42848654) - [The Modern Novel: The world-wide literary novel from early 20th Century onwards](https://www.themodernnovel.org/)
+* [2025-01-28, 01:41:47](https://news.ycombinator.com/item?id=42847987) - [How do you comfort a JavaScript bug?](https://www.codepuns.com/post/771840982014640128/how-do-you-comfort-a-javascript-bug)
 * [2025-01-28, 01:23:45](https://news.ycombinator.com/item?id=42847865) - [A 20-Year-Old Small Company](https://hacklook.com/posts/20250128-20years/)
 * [2025-01-28, 01:18:55](https://news.ycombinator.com/item?id=42847834) - [Machine Learning in Production (CMU Course)](https://mlip-cmu.github.io/s2025/)
 * [2025-01-28, 01:17:33](https://news.ycombinator.com/item?id=42847825) - [Why OpenAI's $157B valuation misreads AI's future (Oct 2024)](https://foundationcapital.com/why-openais-157b-valuation-misreads-ais-future/)
