@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-31](index.md)
 
+* [2025-01-31, 13:20:16](https://news.ycombinator.com/item?id=42887366) - [Patient Monitor Contec CMS8000 Contains a Backdoor](https://www.cisa.gov/resources-tools/resources/contec-cms8000-contains-backdoor)
+* [2025-01-31, 13:07:38](https://news.ycombinator.com/item?id=42887274) - [Building a Mesh Using Spherical Embedding](https://andrews.wiki/spherical-mesh)
 * [2025-01-31, 13:01:46](https://news.ycombinator.com/item?id=42887234) - [Battery-powered electric ferry service to connect Spain and Morocco](https://eandt.theiet.org/2025/01/28/battery-powered-electric-ferry-service-connect-spain-and-morocco)
 * [2025-01-31, 12:38:53](https://news.ycombinator.com/item?id=42887070) - [Five years of Brexit reshaped Britain](https://www.ft.com/content/4d2d78b0-eedd-485c-9a9c-4e41baf46146)
 * [2025-01-31, 12:11:48](https://news.ycombinator.com/item?id=42886867) - [Ear muscle we thought humans didn't use activates when people listen hard](https://www.frontiersin.org/news/2025/01/31/ear-muscle-wiggling-ears-activates-listening-frontiers-neuroscience)
