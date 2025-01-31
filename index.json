@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-31, 17:16:32",
+      "https://news.ycombinator.com/item?id=42889483"
+    ],
+    [
+      "Ozempic is causing trouble on Savile Row",
+      "https://www.thetimes.com/life-style/luxury/article/ozempic-trouble-on-savile-row-times-luxury-xn92lklxh"
+    ]
+  ],
+  [
+    [
+      "2025-01-31, 17:14:12",
+      "https://news.ycombinator.com/item?id=42889465"
+    ],
+    [
+      "Shell-ish scripting in Go with ease",
+      "https://github.com/bitfield/script"
+    ]
+  ],
+  [
+    [
       "2025-01-31, 17:07:01",
       "https://news.ycombinator.com/item?id=42889407"
     ],
@@ -57,16 +77,6 @@
     [
       "Fixing E.T. The Extra-Terrestrial for the Atari 2600 (2013)",
       "http://www.neocomputer.org/projects/et/"
-    ]
-  ],
-  [
-    [
-      "2025-01-31, 16:17:00",
-      "https://news.ycombinator.com/item?id=42888967"
-    ],
-    [
-      "Show HN: Small LLM with Large Power",
-      "https://github.com/KarthikDevalla/Maximum-218M"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Xerox Alto Source Code (2014)",
       "https://computerhistory.org/blog/xerox-alto-source-code/"
-    ]
-  ],
-  [
-    [
-      "2025-01-30, 23:39:29",
-      "https://news.ycombinator.com/item?id=42883363"
-    ],
-    [
-      "Show HN: Ahey – A simple pub-sub service built on top of web push",
-      "https://ahey.io"
     ]
   ],
   [
