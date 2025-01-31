@@ -7,6 +7,7 @@
 * [2025-01-30, 23:39:29](https://news.ycombinator.com/item?id=42883363) - [Show HN: Ahey – A simple pub-sub service built on top of web push](https://ahey.io)
 * [2025-01-30, 22:13:43](https://news.ycombinator.com/item?id=42882698) - [What Makes a Great Mocktail?](https://www.seriouseats.com/cocktail-science-mocktail-how-to-replicate-the-taste-of-alcohol-in-a-nonalcoholic-drink)
 * [2025-01-30, 21:00:10](https://news.ycombinator.com/item?id=42882121) - [Svix (YC W21) Is Hiring a Developer Marketer (US Remote)](https://www.svix.com/careers/)
+* [2025-01-30, 20:35:12](https://news.ycombinator.com/item?id=42881913) - [Why Children's Books?](https://www.lrb.co.uk/the-paper/v47/n02/katherine-rundell/why-children-s-books)
 * [2025-01-30, 20:30:09](https://news.ycombinator.com/item?id=42881858) - [Signs Of Life In A Desert](https://www.noemamag.com/signs-of-life-in-a-desert-of-death/)
 * [2025-01-30, 20:14:47](https://news.ycombinator.com/item?id=42881724) - [How Jane Street accidentally built a better build system for OCaml](https://blog.janestreet.com/how-we-accidentally-built-a-better-build-system-for-ocaml-index/)
 * [2025-01-30, 19:44:02](https://news.ycombinator.com/item?id=42881408) - [Optical Frequency Combs](https://www.nist.gov/topics/physics/optical-frequency-combs)
