@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-31](index.md)
 
 * [2025-01-31, 21:10:44](https://news.ycombinator.com/item?id=42892052) - [How to Stage a Coup](https://www.statecraft.pub/p/how-to-commit-a-coup)
+* [2025-01-31, 21:06:52](https://news.ycombinator.com/item?id=42892003) - [How will Australia's under-16 social media ban work? We asked the law's enforcer](https://www.npr.org/2024/12/19/nx-s1-5231020/australia-top-regulator-kids-social-media-ban)
 * [2025-01-31, 21:00:11](https://news.ycombinator.com/item?id=42891909) - [FurtherAI (YC W24) Is Hiring engineers and researchers to build Vertical AI agents](https://www.ycombinator.com/companies/furtherai/jobs)
 * [2025-01-31, 20:52:10](https://news.ycombinator.com/item?id=42891821) - [GenAI Art Is the Least Imaginative Use of AI Imaginable](https://hai.stanford.edu/news/ge-wang-genai-art-least-imaginative-use-ai-imaginable)
 * [2025-01-31, 20:42:34](https://news.ycombinator.com/item?id=42891724) - [US government agency argues that money isn't property–so it can take yours](https://reason.com/2025/01/31/the-government-says-money-isnt-property-so-it-can-take-yours/)

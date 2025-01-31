@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-01-31, 21:10:44](https://news.ycombinator.com/item?id=42892052) - [How to Stage a Coup](https://www.statecraft.pub/p/how-to-commit-a-coup)
+* [2025-01-31, 21:06:52](https://news.ycombinator.com/item?id=42892003) - [How will Australia's under-16 social media ban work? We asked the law's enforcer](https://www.npr.org/2024/12/19/nx-s1-5231020/australia-top-regulator-kids-social-media-ban)
 * [2025-01-31, 21:00:11](https://news.ycombinator.com/item?id=42891909) - [FurtherAI (YC W24) Is Hiring engineers and researchers to build Vertical AI agents](https://www.ycombinator.com/companies/furtherai/jobs)
 * [2025-01-31, 20:52:10](https://news.ycombinator.com/item?id=42891821) - [GenAI Art Is the Least Imaginative Use of AI Imaginable](https://hai.stanford.edu/news/ge-wang-genai-art-least-imaginative-use-ai-imaginable)
 * [2025-01-31, 20:42:34](https://news.ycombinator.com/item?id=42891724) - [US government agency argues that money isn't property–so it can take yours](https://reason.com/2025/01/31/the-government-says-money-isnt-property-so-it-can-take-yours/)
-* [2025-01-31, 20:39:03](https://news.ycombinator.com/item?id=42891682) - [Federal employees told to remove pronouns from email signatures by end of day](https://abcnews.go.com/US/federal-employees-told-remove-pronouns-email-signatures-end/story?id=118310483)
 * [2025-01-31, 19:55:14](https://news.ycombinator.com/item?id=42891200) - [Elite on the 6502: The original 6502 assembly source, heavily commented](https://elite.bbcelite.com/)
 * [2025-01-31, 19:51:29](https://news.ycombinator.com/item?id=42891148) - [Instagram and Facebook Blocked and Hid Abortion Pill Providers' Posts](https://www.nytimes.com/2025/01/23/technology/instagram-facebook-abortion-pill-providers.html)
 * [2025-01-31, 19:41:49](https://news.ycombinator.com/item?id=42891042) - [Bypass DeepSeek censorship by speaking in hex](https://substack.com/home/post/p-156004330)
