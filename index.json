@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-01-31, 00:47:09",
-      "https://news.ycombinator.com/item?id=42883734"
-    ],
-    [
-      "FDA Approves drug to treat pain without opioid effects",
-      "https://www.nytimes.com/2025/01/30/health/fda-journavx-suzetrigine-vertex-opioids.html"
-    ]
-  ],
-  [
-    [
       "2025-01-30, 23:39:29",
       "https://news.ycombinator.com/item?id=42883363"
     ],
@@ -67,6 +57,16 @@
     [
       "Stats – macOS system monitor in your menu bar",
       "https://github.com/exelban/stats"
+    ]
+  ],
+  [
+    [
+      "2025-01-30, 18:56:42",
+      "https://news.ycombinator.com/item?id=42880873"
+    ],
+    [
+      "Show HN: Reactive Signals for Python – inspired by Angular's reactivity model",
+      "https://github.com/buiapp/reaktiv"
     ]
   ],
   [
