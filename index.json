@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-31, 04:00:27",
+      "https://news.ycombinator.com/item?id=42884599"
+    ],
+    [
+      "Apple iPhone sales dip despite AI rollout",
+      "https://www.bbc.co.uk/news/articles/cn57l2nreglo"
+    ]
+  ],
+  [
+    [
       "2025-01-31, 03:28:57",
       "https://news.ycombinator.com/item?id=42884473"
     ],
@@ -17,6 +27,16 @@
     [
       "Inducing brain-like structure in GPT's weights makes them parameter efficient",
       "https://arxiv.org/abs/2501.16396"
+    ]
+  ],
+  [
+    [
+      "2025-01-31, 01:52:23",
+      "https://news.ycombinator.com/item?id=42884056"
+    ],
+    [
+      "Show HN: 1M+ animated GPU sprites in JavaScript",
+      "https://phaser.io/news/2025/01/phaser-v4-beta-5-released"
     ]
   ],
   [
@@ -127,16 +147,6 @@
     [
       "Show HN: Iterm-Mcp – AI Terminal/REPL Control for iTerm2",
       "https://github.com/ferrislucas/iterm-mcp"
-    ]
-  ],
-  [
-    [
-      "2025-01-30, 17:05:54",
-      "https://news.ycombinator.com/item?id=42879713"
-    ],
-    [
-      "Show HN: Workflow86 - An AI business analyst and automation engineer",
-      "https://www.workflow86.com/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The story of my home made pipe organ (2000)",
       "https://www.sentex.ca/~mwandel/organ/organ.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-26, 14:59:26",
-      "https://news.ycombinator.com/item?id=42830478"
-    ],
-    [
-      "Analysis of Product Hunt products from 2014 to 2021",
-      "https://components.one/posts/gamer-and-nihilist-product-hunt"
     ]
   ]
 ]
