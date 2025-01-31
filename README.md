@@ -5,7 +5,6 @@
 * [2025-01-31, 22:37:32](https://news.ycombinator.com/item?id=42893146) - [Germany: Number of unemployed highest in 10 years](https://www.dw.com/en/germany-number-of-unemployed-highest-in-10-years/a-71470806)
 * [2025-01-31, 21:24:43](https://news.ycombinator.com/item?id=42892258) - [Oil giant Shell walks away from major New Jersey offshore wind farm](https://apnews.com/article/wind-energy-offshore-turbines-trump-executive-order-new-jersey-121fe7a76529fcf9ce969868dda6283e)
 * [2025-01-31, 21:20:40](https://news.ycombinator.com/item?id=42892191) - [Add \"fucking\" to your Google searches to neutralize AI summaries](https://gizmodo.com/add-fcking-to-your-google-searches-to-neutralize-ai-summaries-2000557710)
-* [2025-01-31, 21:06:52](https://news.ycombinator.com/item?id=42892003) - [How will Australia's under-16 social media ban work? We asked the law's enforcer](https://www.npr.org/2024/12/19/nx-s1-5231020/australia-top-regulator-kids-social-media-ban)
 * [2025-01-31, 21:01:45](https://news.ycombinator.com/item?id=42891937) - [LinuxPDF](https://github.com/ading2210/linuxpdf)
 * [2025-01-31, 21:00:11](https://news.ycombinator.com/item?id=42891909) - [FurtherAI (YC W24) Is Hiring engineers and researchers to build Vertical AI agents](https://www.ycombinator.com/companies/furtherai/jobs)
 * [2025-01-31, 20:52:10](https://news.ycombinator.com/item?id=42891821) - [GenAI Art Is the Least Imaginative Use of AI Imaginable](https://hai.stanford.edu/news/ge-wang-genai-art-least-imaginative-use-ai-imaginable)
@@ -28,6 +27,7 @@
 * [2025-01-28, 16:06:22](https://news.ycombinator.com/item?id=42853904) - [When Greedy Algorithms Can Be Faster [C++]](https://16bpp.net/blog/post/when-greedy-algorithms-can-be-faster/)
 * [2025-01-28, 15:55:16](https://news.ycombinator.com/item?id=42853738) - [Paris P2P Festival and Hackathon](https://p2p.paris/fr/)
 * [2025-01-28, 14:35:23](https://news.ycombinator.com/item?id=42852754) - [Real-time, river sections downstream of sewage discharges from storm overflows](https://www.sewagemap.co.uk/)
+* [2025-01-28, 09:20:16](https://news.ycombinator.com/item?id=42850402) - [Web Analytics Accidentally Collecting Passwords](https://www.freshpaint.io/blog/rudderstack-collecting-passwords)
 * [2025-01-28, 00:29:46](https://news.ycombinator.com/item?id=42847533) - [Show HN: Lua-libuv – A Lua with libuv experiments](https://github.com/joaoneto/lua-libuv)
 * [2025-01-27, 20:18:38](https://news.ycombinator.com/item?id=42845169) - [Better Know a Ruby Thing: Singleton Classes](https://noelrappin.com/blog/2025/01/better-know-a-ruby-thing-singleton-classes/)
 

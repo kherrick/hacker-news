@@ -76,6 +76,7 @@
 * [2025-01-28, 11:17:54](https://news.ycombinator.com/item?id=42851124) - [Cleveland police used AI to justify a search warrant. It derailed a murder case](https://www.cleveland.com/news/2025/01/cleveland-police-used-ai-to-justify-a-search-warrant-it-has-derailed-a-murder-case.html)
 * [2025-01-28, 10:11:15](https://news.ycombinator.com/item?id=42850720) - [How Much Do Udemy Instructors Make (2024)](https://sellcoursesonline.com/udemy-earnings-study)
 * [2025-01-28, 09:58:43](https://news.ycombinator.com/item?id=42850644) - [US Civil servants are being asked who they voted for in 2024 election](https://www.independent.co.uk/news/world/americas/us-politics/trump-civil-service-loyalty-transition-b2678674.html)
+* [2025-01-28, 09:20:16](https://news.ycombinator.com/item?id=42850402) - [Web Analytics Accidentally Collecting Passwords](https://www.freshpaint.io/blog/rudderstack-collecting-passwords)
 * [2025-01-28, 08:52:47](https://news.ycombinator.com/item?id=42850222) - [DeepSeek-R1 with Dynamic 1.58-bit Quantization](https://unsloth.ai/blog/deepseekr1-dynamic)
 * [2025-01-28, 08:43:39](https://news.ycombinator.com/item?id=42850177) - [Show HN: I Created a Pomodoro Timer](https://25min.work)
 * [2025-01-28, 08:31:53](https://news.ycombinator.com/item?id=42850111) - [Reinforcement Learning – A Reference](https://jakubhalmes.substack.com/p/reinforcement-learning-a-reference)
