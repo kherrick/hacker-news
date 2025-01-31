@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-31, 14:20:07",
+      "https://news.ycombinator.com/item?id=42887939"
+    ],
+    [
+      "RamaLama",
+      "https://github.com/containers/ramalama"
+    ]
+  ],
+  [
+    [
+      "2025-01-31, 13:47:47",
+      "https://news.ycombinator.com/item?id=42887598"
+    ],
+    [
+      "My product went viral on social media but all I got were these shitty users",
+      "https://andrewchen.substack.com/p/my-product-went-viral-on-social-media"
+    ]
+  ],
+  [
+    [
       "2025-01-31, 13:20:16",
       "https://news.ycombinator.com/item?id=42887366"
     ],
@@ -57,16 +77,6 @@
     [
       "Llama.cpp supports Vulkan. why doesn't Ollama?",
       "https://github.com/ollama/ollama/pull/5059"
-    ]
-  ],
-  [
-    [
-      "2025-01-31, 11:21:57",
-      "https://news.ycombinator.com/item?id=42886661"
-    ],
-    [
-      "NSF starts vetting all grants to comply with executive orders",
-      "https://www.science.org/content/article/exclusive-nsf-starts-vetting-all-grants-comply-trump-s-orders"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "How Jane Street accidentally built a better build system for OCaml",
       "https://blog.janestreet.com/how-we-accidentally-built-a-better-build-system-for-ocaml-index/"
-    ]
-  ],
-  [
-    [
-      "2025-01-30, 19:44:02",
-      "https://news.ycombinator.com/item?id=42881408"
-    ],
-    [
-      "Optical Frequency Combs",
-      "https://www.nist.gov/topics/physics/optical-frequency-combs"
     ]
   ],
   [
