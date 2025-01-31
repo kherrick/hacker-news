@@ -1,26 +1,6 @@
 [
   [
     [
-      "2025-01-31, 04:00:27",
-      "https://news.ycombinator.com/item?id=42884599"
-    ],
-    [
-      "Apple iPhone sales dip despite AI rollout",
-      "https://www.bbc.co.uk/news/articles/cn57l2nreglo"
-    ]
-  ],
-  [
-    [
-      "2025-01-31, 03:48:21",
-      "https://news.ycombinator.com/item?id=42884544"
-    ],
-    [
-      "A step-by-step guide on deploying DeepSeek-R1 671B locally",
-      "https://snowkylin.github.io/blogs/a-note-on-deepseek-r1.html"
-    ]
-  ],
-  [
-    [
       "2025-01-31, 03:28:57",
       "https://news.ycombinator.com/item?id=42884473"
     ],
@@ -35,28 +15,8 @@
       "https://news.ycombinator.com/item?id=42884338"
     ],
     [
-      "Inducing brain-like structure in GPT's weights makes them parameter efficient",
+      "TopoNets: High performing vision and language models with brain-like topography",
       "https://arxiv.org/abs/2501.16396"
-    ]
-  ],
-  [
-    [
-      "2025-01-31, 02:07:01",
-      "https://news.ycombinator.com/item?id=42884117"
-    ],
-    [
-      "65% of all ski resorts in the US have closed since 1960s (2022)",
-      "https://www.mdpi.com/2073-445X/11/4/494"
-    ]
-  ],
-  [
-    [
-      "2025-01-31, 01:52:23",
-      "https://news.ycombinator.com/item?id=42884056"
-    ],
-    [
-      "Show HN: 1M+ animated GPU sprites in JavaScript",
-      "https://phaser.io/news/2025/01/phaser-v4-beta-5-released"
     ]
   ],
   [
@@ -167,6 +127,16 @@
     [
       "Show HN: Iterm-Mcp – AI Terminal/REPL Control for iTerm2",
       "https://github.com/ferrislucas/iterm-mcp"
+    ]
+  ],
+  [
+    [
+      "2025-01-30, 17:57:46",
+      "https://news.ycombinator.com/item?id=42880242"
+    ],
+    [
+      "Quaternions and spherical trigonometry",
+      "https://terrytao.wordpress.com/2024/12/19/quaternions-and-spherical-trigonometry/"
     ]
   ],
   [
@@ -291,12 +261,42 @@
   ],
   [
     [
+      "2025-01-27, 00:15:29",
+      "https://news.ycombinator.com/item?id=42835808"
+    ],
+    [
+      "Teemoji: Like Tee but with Emojis",
+      "https://github.com/willswire/teemoji"
+    ]
+  ],
+  [
+    [
       "2025-01-26, 17:44:54",
       "https://news.ycombinator.com/item?id=42831969"
     ],
     [
       "The story of my home made pipe organ (2000)",
       "https://www.sentex.ca/~mwandel/organ/organ.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-26, 16:00:50",
+      "https://news.ycombinator.com/item?id=42830948"
+    ],
+    [
+      "Proper decoupling capacitor practices, and why you should leave 100nF behind",
+      "https://codeinsecurity.wordpress.com/2025/01/25/proper-decoupling-practices-and-why-you-should-leave-100nf-behind/"
+    ]
+  ],
+  [
+    [
+      "2025-01-26, 14:59:26",
+      "https://news.ycombinator.com/item?id=42830478"
+    ],
+    [
+      "Analysis of Product Hunt products from 2014 to 2021",
+      "https://components.one/posts/gamer-and-nihilist-product-hunt"
     ]
   ]
 ]
