@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-31](index.md)
 
+* [2025-01-31, 05:03:14](https://news.ycombinator.com/item?id=42884834) - [Mini-R1: Reproduce DeepSeek R1 \"Aha Moment\"](https://www.philschmid.de/mini-deepseek-r1)
 * [2025-01-31, 04:52:49](https://news.ycombinator.com/item?id=42884803) - [Google Pixel 4a update to \"improve stability\" of the battery cuts life in half](https://liliputing.com/google-pixel-4a-update-to-improve-stability-of-the-battery-cuts-battery-life-in-half-for-some-users/)
 * [2025-01-31, 04:35:57](https://news.ycombinator.com/item?id=42884727) - [sixos: A nix OS without systemd [video]](https://media.ccc.de/v/38c3-sixos-a-nix-os-without-systemd)
 * [2025-01-31, 04:00:27](https://news.ycombinator.com/item?id=42884599) - [Apple iPhone sales dip despite AI rollout](https://www.bbc.co.uk/news/articles/cn57l2nreglo)
