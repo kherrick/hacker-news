@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-31, 21:26:43](https://news.ycombinator.com/item?id=42892278) - [Musk aides lock government workers out of computer systems at US agency](https://www.reuters.com/world/us/musk-aides-lock-government-workers-out-computer-systems-us-agency-sources-say-2025-01-31/)
 * [2025-01-31, 21:20:40](https://news.ycombinator.com/item?id=42892191) - [Add \"fucking\" to your Google searches to neutralize AI summaries](https://gizmodo.com/add-fcking-to-your-google-searches-to-neutralize-ai-summaries-2000557710)
 * [2025-01-31, 21:06:52](https://news.ycombinator.com/item?id=42892003) - [How will Australia's under-16 social media ban work? We asked the law's enforcer](https://www.npr.org/2024/12/19/nx-s1-5231020/australia-top-regulator-kids-social-media-ban)
 * [2025-01-31, 21:00:11](https://news.ycombinator.com/item?id=42891909) - [FurtherAI (YC W24) Is Hiring engineers and researchers to build Vertical AI agents](https://www.ycombinator.com/companies/furtherai/jobs)
@@ -24,7 +25,6 @@
 * [2025-01-31, 14:48:25](https://news.ycombinator.com/item?id=42888195) - [MillenniumDB: Property graph and RDF engine, still in development](https://github.com/MillenniumDB/MillenniumDB)
 * [2025-01-31, 13:45:06](https://news.ycombinator.com/item?id=42887581) - [Show HN: voidDB – A transactional key-value DB written in Go for 64-bit Linux](https://github.com/voidDB/voidDB)
 * [2025-01-31, 11:40:30](https://news.ycombinator.com/item?id=42886718) - [Taking a $15 Casio F91W 5km underwater](https://www.watchesofespionage.com/blogs/woe-dispatch/casio-f91w-diving-underwater-pressure-test)
-* [2025-01-31, 09:29:52](https://news.ycombinator.com/item?id=42886079) - [Show HN: Ldump – serialize any Lua data](https://github.com/girvel/ldump)
 * [2025-01-31, 06:11:30](https://news.ycombinator.com/item?id=42885087) - [Hydro: Distributed Programming Framework for Rust](https://hydro.run/docs/hydro/)
 * [2025-01-28, 16:06:22](https://news.ycombinator.com/item?id=42853904) - [When Greedy Algorithms Can Be Faster [C++]](https://16bpp.net/blog/post/when-greedy-algorithms-can-be-faster/)
 * [2025-01-28, 15:55:16](https://news.ycombinator.com/item?id=42853738) - [Paris P2P Festival and Hackathon](https://p2p.paris/fr/)

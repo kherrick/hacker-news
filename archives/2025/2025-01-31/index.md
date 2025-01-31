@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-31](index.md)
 
+* [2025-01-31, 21:26:43](https://news.ycombinator.com/item?id=42892278) - [Musk aides lock government workers out of computer systems at US agency](https://www.reuters.com/world/us/musk-aides-lock-government-workers-out-computer-systems-us-agency-sources-say-2025-01-31/)
 * [2025-01-31, 21:20:40](https://news.ycombinator.com/item?id=42892191) - [Add \"fucking\" to your Google searches to neutralize AI summaries](https://gizmodo.com/add-fcking-to-your-google-searches-to-neutralize-ai-summaries-2000557710)
 * [2025-01-31, 21:10:44](https://news.ycombinator.com/item?id=42892052) - [How to Stage a Coup](https://www.statecraft.pub/p/how-to-commit-a-coup)
 * [2025-01-31, 21:06:52](https://news.ycombinator.com/item?id=42892003) - [How will Australia's under-16 social media ban work? We asked the law's enforcer](https://www.npr.org/2024/12/19/nx-s1-5231020/australia-top-regulator-kids-social-media-ban)
