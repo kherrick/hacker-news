@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-31](index.md)
 
+* [2025-01-31, 06:58:56](https://news.ycombinator.com/item?id=42885259) - [Air quality map of Kigali, Rwanda](https://maps.open-seneca.org/city/kigali)
 * [2025-01-31, 06:51:02](https://news.ycombinator.com/item?id=42885215) - [Discord’s advertising push continues](https://nowtoknow.com/discords-advertising-push-continues-a-qa-with-new-discord-cbo-jules-shumaker/)
 * [2025-01-31, 06:11:30](https://news.ycombinator.com/item?id=42885087) - [Hydro: Distributed Programming Framework for Rust](https://hydro.run/docs/hydro/)
 * [2025-01-31, 05:48:21](https://news.ycombinator.com/item?id=42885008) - [Basel has to buy domain name in the Bahamas after mishap](https://www.bluewin.ch/en/news/switzerland/basel-has-to-buy-internet-address-in-bahamas-after-breakdown-2541936.html)
