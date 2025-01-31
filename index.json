@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-31, 21:24:43",
+      "https://news.ycombinator.com/item?id=42892258"
+    ],
+    [
+      "Oil giant Shell walks away from major New Jersey offshore wind farm",
+      "https://apnews.com/article/wind-energy-offshore-turbines-trump-executive-order-new-jersey-121fe7a76529fcf9ce969868dda6283e"
+    ]
+  ],
+  [
+    [
       "2025-01-31, 21:20:40",
       "https://news.ycombinator.com/item?id=42892191"
     ],
@@ -231,26 +241,6 @@
   ],
   [
     [
-      "2025-01-31, 09:29:52",
-      "https://news.ycombinator.com/item?id=42886079"
-    ],
-    [
-      "Show HN: Ldump – serialize any Lua data",
-      "https://github.com/girvel/ldump"
-    ]
-  ],
-  [
-    [
-      "2025-01-31, 07:56:23",
-      "https://news.ycombinator.com/item?id=42885520"
-    ],
-    [
-      "Hacker News for Gamedev",
-      "https://gamedev.city/"
-    ]
-  ],
-  [
-    [
       "2025-01-31, 06:11:30",
       "https://news.ycombinator.com/item?id=42885087"
     ],
@@ -287,6 +277,16 @@
     [
       "Real-time, river sections downstream of sewage discharges from storm overflows",
       "https://www.sewagemap.co.uk/"
+    ]
+  ],
+  [
+    [
+      "2025-01-28, 00:29:46",
+      "https://news.ycombinator.com/item?id=42847533"
+    ],
+    [
+      "Show HN: Lua-libuv – A Lua with libuv experiments",
+      "https://github.com/joaoneto/lua-libuv"
     ]
   ],
   [
