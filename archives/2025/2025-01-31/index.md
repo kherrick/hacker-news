@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-01-31](index.md)
 
+* [2025-01-31, 06:51:02](https://news.ycombinator.com/item?id=42885215) - [Discord’s advertising push continues](https://nowtoknow.com/discords-advertising-push-continues-a-qa-with-new-discord-cbo-jules-shumaker/)
 * [2025-01-31, 06:11:30](https://news.ycombinator.com/item?id=42885087) - [Hydro: Distributed Programming Framework for Rust](https://hydro.run/docs/hydro/)
+* [2025-01-31, 05:48:21](https://news.ycombinator.com/item?id=42885008) - [Basel has to buy domain name in the Bahamas after mishap](https://www.bluewin.ch/en/news/switzerland/basel-has-to-buy-internet-address-in-bahamas-after-breakdown-2541936.html)
 * [2025-01-31, 05:03:14](https://news.ycombinator.com/item?id=42884834) - [Mini-R1: Reproduce DeepSeek R1 \"Aha Moment\"](https://www.philschmid.de/mini-deepseek-r1)
 * [2025-01-31, 04:52:49](https://news.ycombinator.com/item?id=42884803) - [Google Pixel 4a update to \"improve stability\" of the battery cuts life in half](https://liliputing.com/google-pixel-4a-update-to-improve-stability-of-the-battery-cuts-battery-life-in-half-for-some-users/)
 * [2025-01-31, 04:35:57](https://news.ycombinator.com/item?id=42884727) - [sixos: A nix OS without systemd [video]](https://media.ccc.de/v/38c3-sixos-a-nix-os-without-systemd)

@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-31, 06:51:02](https://news.ycombinator.com/item?id=42885215) - [Discord’s advertising push continues](https://nowtoknow.com/discords-advertising-push-continues-a-qa-with-new-discord-cbo-jules-shumaker/)
 * [2025-01-31, 06:11:30](https://news.ycombinator.com/item?id=42885087) - [Hydro: Distributed Programming Framework for Rust](https://hydro.run/docs/hydro/)
+* [2025-01-31, 05:48:21](https://news.ycombinator.com/item?id=42885008) - [Basel has to buy domain name in the Bahamas after mishap](https://www.bluewin.ch/en/news/switzerland/basel-has-to-buy-internet-address-in-bahamas-after-breakdown-2541936.html)
 * [2025-01-31, 05:03:14](https://news.ycombinator.com/item?id=42884834) - [Mini-R1: Reproduce DeepSeek R1 \"Aha Moment\"](https://www.philschmid.de/mini-deepseek-r1)
 * [2025-01-31, 04:35:57](https://news.ycombinator.com/item?id=42884727) - [sixos: A nix OS without systemd [video]](https://media.ccc.de/v/38c3-sixos-a-nix-os-without-systemd)
 * [2025-01-31, 03:51:44](https://news.ycombinator.com/item?id=42884556) - [Rubywm: An X11 window manager in pure Ruby](https://github.com/vidarh/rubywm)
@@ -23,9 +25,7 @@
 * [2025-01-30, 13:12:34](https://news.ycombinator.com/item?id=42877399) - [Show HN: Audiocube – A 3D DAW for Spatial Audio](https://www.audiocube.app)
 * [2025-01-30, 11:28:31](https://news.ycombinator.com/item?id=42876840) - [JavaScript Temporal is coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
 * [2025-01-30, 04:33:25](https://news.ycombinator.com/item?id=42874885) - [PCBs, copper pours, ground planes, and you](https://lcamtuf.substack.com/p/pcbs-ground-planes-and-you)
-* [2025-01-30, 00:31:53](https://news.ycombinator.com/item?id=42873312) - [Mathesar – an intutive spreadsheet-like interface to Postgres data](https://github.com/mathesar-foundation/mathesar)
 * [2025-01-29, 17:50:11](https://news.ycombinator.com/item?id=42868475) - [RCA and the Roaring Twenties](https://globalfinancialdata.com/rca-and-the-roaring-twenties)
-* [2025-01-29, 16:21:55](https://news.ycombinator.com/item?id=42866951) - [Show HN: Distr – open-source distribution platform for on-prem deployments](https://github.com/glasskube/distr)
 * [2025-01-27, 20:15:01](https://news.ycombinator.com/item?id=42845129) - [My Cat Mii](https://www.theparisreview.org/blog/2025/01/20/my-cat-mii/)
 * [2025-01-27, 07:37:39](https://news.ycombinator.com/item?id=42838392) - [Capablanca: Minimum Vertex Cover Solver](https://pypi.org/project/capablanca)
 * [2025-01-27, 01:24:10](https://news.ycombinator.com/item?id=42836306) - [Scalable OLTP in the Cloud: What's the Big Deal?](http://muratbuffalo.blogspot.com/2024/01/scalable-oltp-in-cloud-whats-big-deal.html)
