@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-31](index.md)
 
+* [2025-01-31, 15:00:55](https://news.ycombinator.com/item?id=42888326) - [Images Reveal Exocomets Around 74 Nearby Stars](https://skyandtelescope.org/astronomy-news/new-images-reveal-exocomets-around-74-nearby-stars/)
+* [2025-01-31, 14:48:25](https://news.ycombinator.com/item?id=42888195) - [MillenniumDB: A graph database engine using domain graphs](https://github.com/MillenniumDB/MillenniumDB)
 * [2025-01-31, 14:31:15](https://news.ycombinator.com/item?id=42888034) - [Lebanon's Oldest Soap Factory Makes 30k Olive Oil Bar [video]](https://www.youtube.com/watch?v=2YVb4s1DGzw)
 * [2025-01-31, 14:22:42](https://news.ycombinator.com/item?id=42887968) - [Linux Mobile at FOSDEM 2025](https://linmob.net/fosdem2025/)
 * [2025-01-31, 14:20:07](https://news.ycombinator.com/item?id=42887939) - [RamaLama](https://github.com/containers/ramalama)

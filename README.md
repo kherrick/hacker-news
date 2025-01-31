@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-31, 15:00:55](https://news.ycombinator.com/item?id=42888326) - [Images Reveal Exocomets Around 74 Nearby Stars](https://skyandtelescope.org/astronomy-news/new-images-reveal-exocomets-around-74-nearby-stars/)
+* [2025-01-31, 14:48:25](https://news.ycombinator.com/item?id=42888195) - [MillenniumDB: A graph database engine using domain graphs](https://github.com/MillenniumDB/MillenniumDB)
 * [2025-01-31, 14:20:07](https://news.ycombinator.com/item?id=42887939) - [RamaLama](https://github.com/containers/ramalama)
 * [2025-01-31, 13:47:47](https://news.ycombinator.com/item?id=42887598) - [Traffic spikes are bad for your product](https://andrewchen.substack.com/p/my-product-went-viral-on-social-media)
 * [2025-01-31, 13:07:38](https://news.ycombinator.com/item?id=42887274) - [Building a Mesh Using Spherical Embedding](https://andrews.wiki/spherical-mesh)
@@ -13,7 +15,6 @@
 * [2025-01-31, 02:09:50](https://news.ycombinator.com/item?id=42884133) - [Xerox Alto Source Code (2014)](https://computerhistory.org/blog/xerox-alto-source-code/)
 * [2025-01-30, 23:39:29](https://news.ycombinator.com/item?id=42883363) - [Show HN: Ahey – A simple pub-sub service built on top of web push](https://ahey.io)
 * [2025-01-30, 21:00:10](https://news.ycombinator.com/item?id=42882121) - [Svix (YC W21) Is Hiring a Developer Marketer (US Remote)](https://www.svix.com/careers/)
-* [2025-01-30, 20:35:12](https://news.ycombinator.com/item?id=42881913) - [Why Children's Books?](https://www.lrb.co.uk/the-paper/v47/n02/katherine-rundell/why-children-s-books)
 * [2025-01-30, 20:30:09](https://news.ycombinator.com/item?id=42881858) - [Signs Of Life In A Desert](https://www.noemamag.com/signs-of-life-in-a-desert-of-death/)
 * [2025-01-30, 20:14:47](https://news.ycombinator.com/item?id=42881724) - [How Jane Street accidentally built a better build system for OCaml](https://blog.janestreet.com/how-we-accidentally-built-a-better-build-system-for-ocaml-index/)
 * [2025-01-30, 19:44:02](https://news.ycombinator.com/item?id=42881408) - [Optical Frequency Combs](https://www.nist.gov/topics/physics/optical-frequency-combs)
@@ -23,7 +24,6 @@
 * [2025-01-30, 14:01:27](https://news.ycombinator.com/item?id=42877709) - [Antiqua et Nova: Note on the relationship between AI and human intelligence](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html)
 * [2025-01-30, 13:18:49](https://news.ycombinator.com/item?id=42877430) - [A history of APL in the USSR (1991)](https://dl.acm.org/doi/10.1145/130647.130656)
 * [2025-01-30, 13:12:34](https://news.ycombinator.com/item?id=42877399) - [Show HN: Audiocube – A 3D DAW for Spatial Audio](https://www.audiocube.app)
-* [2025-01-30, 11:28:31](https://news.ycombinator.com/item?id=42876840) - [JavaScript Temporal is coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
 * [2025-01-30, 04:33:25](https://news.ycombinator.com/item?id=42874885) - [PCBs, copper pours, ground planes, and you](https://lcamtuf.substack.com/p/pcbs-ground-planes-and-you)
 * [2025-01-29, 17:50:11](https://news.ycombinator.com/item?id=42868475) - [RCA and the Roaring Twenties](https://globalfinancialdata.com/rca-and-the-roaring-twenties)
 * [2025-01-29, 16:21:55](https://news.ycombinator.com/item?id=42866951) - [Show HN: Distr – open-source distribution platform for on-prem deployments](https://github.com/glasskube/distr)
