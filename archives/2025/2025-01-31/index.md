@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-31](index.md)
 
+* [2025-01-31, 17:29:16](https://news.ycombinator.com/item?id=42889618) - [Yandex's High-Performance Profiler Is Now Open Source](https://medium.com/yandex/yandexs-high-performance-profiler-is-now-open-source-95e291df9d18)
 * [2025-01-31, 17:16:32](https://news.ycombinator.com/item?id=42889483) - [Ozempic is causing trouble on Savile Row](https://www.thetimes.com/life-style/luxury/article/ozempic-trouble-on-savile-row-times-luxury-xn92lklxh)
 * [2025-01-31, 17:14:12](https://news.ycombinator.com/item?id=42889465) - [Shell-ish scripting in Go with ease](https://github.com/bitfield/script)
 * [2025-01-31, 17:07:01](https://news.ycombinator.com/item?id=42889407) - [Show HN: Uscope, a New Linux Debugger Written from Scratch](https://github.com/jcalabro/uscope)

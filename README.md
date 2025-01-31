@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-31, 17:29:16](https://news.ycombinator.com/item?id=42889618) - [Yandex's High-Performance Profiler Is Now Open Source](https://medium.com/yandex/yandexs-high-performance-profiler-is-now-open-source-95e291df9d18)
 * [2025-01-31, 17:16:32](https://news.ycombinator.com/item?id=42889483) - [Ozempic is causing trouble on Savile Row](https://www.thetimes.com/life-style/luxury/article/ozempic-trouble-on-savile-row-times-luxury-xn92lklxh)
 * [2025-01-31, 17:14:12](https://news.ycombinator.com/item?id=42889465) - [Shell-ish scripting in Go with ease](https://github.com/bitfield/script)
 * [2025-01-31, 17:07:01](https://news.ycombinator.com/item?id=42889407) - [Show HN: Uscope, a New Linux Debugger Written from Scratch](https://github.com/jcalabro/uscope)
@@ -24,7 +25,6 @@
 * [2025-01-31, 02:09:50](https://news.ycombinator.com/item?id=42884133) - [Xerox Alto Source Code (2014)](https://computerhistory.org/blog/xerox-alto-source-code/)
 * [2025-01-30, 20:14:47](https://news.ycombinator.com/item?id=42881724) - [A better build system for OCaml](https://blog.janestreet.com/how-we-accidentally-built-a-better-build-system-for-ocaml-index/)
 * [2025-01-30, 19:37:42](https://news.ycombinator.com/item?id=42881342) - [Stats – macOS system monitor in your menu bar](https://github.com/exelban/stats)
-* [2025-01-30, 13:12:34](https://news.ycombinator.com/item?id=42877399) - [Show HN: Audiocube – A 3D DAW for Spatial Audio](https://www.audiocube.app)
 * [2025-01-28, 14:35:23](https://news.ycombinator.com/item?id=42852754) - [Real-time, river sections downstream of sewage discharges from storm overflows](https://www.sewagemap.co.uk/)
 * [2025-01-27, 21:10:45](https://news.ycombinator.com/item?id=42845660) - [Developers should embrace creative coding again](https://www.figma.com/blog/why-developers-should-embrace-creative-coding-again/)
 * [2025-01-27, 21:03:53](https://news.ycombinator.com/item?id=42845603) - [Quantel Paintbox History](https://www.quantelpaintbox.com/history.html)
