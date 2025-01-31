@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-01-31, 18:14:28](https://news.ycombinator.com/item?id=42890050) - [Older Adults Disproportionately Hindered by Touch Screen Interfaces](https://journals.sagepub.com/doi/10.1177/21695067231193656)
+* [2025-01-31, 18:08:38](https://news.ycombinator.com/item?id=42889989) - [O3-mini System Card [pdf]](https://cdn.openai.com/o3-mini-system-card.pdf)
+* [2025-01-31, 17:48:23](https://news.ycombinator.com/item?id=42889786) - [Theoretical limitations of multi-layer Transformer](https://arxiv.org/abs/2412.02975)
 * [2025-01-31, 17:47:39](https://news.ycombinator.com/item?id=42889777) - [Three AM 911 call, 9 AM salesman](https://a.wholelottanothing.org/when-everything-becomes-a-profit-center/)
 * [2025-01-31, 17:37:40](https://news.ycombinator.com/item?id=42889700) - [Living with Nausea: My Story in Six Charts](https://www.c82.net/blog/?id=96)
-* [2025-01-31, 17:16:32](https://news.ycombinator.com/item?id=42889483) - [Ozempic is causing trouble on Savile Row](https://www.thetimes.com/life-style/luxury/article/ozempic-trouble-on-savile-row-times-luxury-xn92lklxh)
 * [2025-01-31, 17:14:12](https://news.ycombinator.com/item?id=42889465) - [Shell-ish scripting in Go with ease](https://github.com/bitfield/script)
 * [2025-01-31, 17:07:01](https://news.ycombinator.com/item?id=42889407) - [Show HN: Uscope, a New Linux Debugger Written from Scratch](https://github.com/jcalabro/uscope)
 * [2025-01-31, 17:00:39](https://news.ycombinator.com/item?id=42889351) - [Distro (YC S24) Is Hiring a Chief of Staff in Palo Alto](https://www.ycombinator.com/companies/distro/jobs/VrBerJw-chief-of-staff)
@@ -16,7 +18,6 @@
 * [2025-01-31, 13:07:38](https://news.ycombinator.com/item?id=42887274) - [Building a Mesh Using Spherical Embedding](https://andrews.wiki/spherical-mesh)
 * [2025-01-31, 12:11:48](https://news.ycombinator.com/item?id=42886867) - [Ear muscle we thought humans didn't use activates when people listen hard](https://www.frontiersin.org/news/2025/01/31/ear-muscle-wiggling-ears-activates-listening-frontiers-neuroscience)
 * [2025-01-31, 11:40:30](https://news.ycombinator.com/item?id=42886718) - [Taking a $15 Casio F91W 5km underwater](https://www.watchesofespionage.com/blogs/woe-dispatch/casio-f91w-diving-underwater-pressure-test)
-* [2025-01-31, 11:21:57](https://news.ycombinator.com/item?id=42886661) - [NSF starts vetting all grants to comply with executive orders](https://www.science.org/content/article/exclusive-nsf-starts-vetting-all-grants-comply-trump-s-orders)
 * [2025-01-31, 09:29:52](https://news.ycombinator.com/item?id=42886079) - [Show HN: Ldump – serialize any Lua data](https://github.com/girvel/ldump)
 * [2025-01-31, 07:56:23](https://news.ycombinator.com/item?id=42885520) - [Hacker News for Gamedev](https://gamedev.city/)
 * [2025-01-31, 06:11:30](https://news.ycombinator.com/item?id=42885087) - [Hydro: Distributed Programming Framework for Rust](https://hydro.run/docs/hydro/)
@@ -28,8 +29,7 @@
 * [2025-01-28, 14:35:23](https://news.ycombinator.com/item?id=42852754) - [Real-time, river sections downstream of sewage discharges from storm overflows](https://www.sewagemap.co.uk/)
 * [2025-01-27, 21:10:45](https://news.ycombinator.com/item?id=42845660) - [Developers should embrace creative coding again](https://www.figma.com/blog/why-developers-should-embrace-creative-coding-again/)
 * [2025-01-27, 21:03:53](https://news.ycombinator.com/item?id=42845603) - [Quantel Paintbox History](https://www.quantelpaintbox.com/history.html)
-* [2025-01-27, 20:15:01](https://news.ycombinator.com/item?id=42845129) - [My Cat Mii](https://www.theparisreview.org/blog/2025/01/20/my-cat-mii/)
-* [2025-01-26, 17:44:54](https://news.ycombinator.com/item?id=42831969) - [The story of my home made pipe organ (2000)](https://www.sentex.ca/~mwandel/organ/organ.html)
+* [2025-01-27, 20:18:38](https://news.ycombinator.com/item?id=42845169) - [Better Know a Ruby Thing: Singleton Classes](https://noelrappin.com/blog/2025/01/better-know-a-ruby-thing-singleton-classes/)
 
 ## [Archives](archives/index.md)
 

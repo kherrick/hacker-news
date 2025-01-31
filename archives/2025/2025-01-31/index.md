@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-01-31](index.md)
 
+* [2025-01-31, 18:14:28](https://news.ycombinator.com/item?id=42890050) - [Older Adults Disproportionately Hindered by Touch Screen Interfaces](https://journals.sagepub.com/doi/10.1177/21695067231193656)
+* [2025-01-31, 18:08:38](https://news.ycombinator.com/item?id=42889989) - [O3-mini System Card [pdf]](https://cdn.openai.com/o3-mini-system-card.pdf)
+* [2025-01-31, 17:48:23](https://news.ycombinator.com/item?id=42889786) - [Theoretical limitations of multi-layer Transformer](https://arxiv.org/abs/2412.02975)
 * [2025-01-31, 17:47:39](https://news.ycombinator.com/item?id=42889777) - [Three AM 911 call, 9 AM salesman](https://a.wholelottanothing.org/when-everything-becomes-a-profit-center/)
 * [2025-01-31, 17:37:40](https://news.ycombinator.com/item?id=42889700) - [Living with Nausea: My Story in Six Charts](https://www.c82.net/blog/?id=96)
 * [2025-01-31, 17:29:16](https://news.ycombinator.com/item?id=42889618) - [Yandex's High-Performance Profiler Is Now Open Source](https://medium.com/yandex/yandexs-high-performance-profiler-is-now-open-source-95e291df9d18)
