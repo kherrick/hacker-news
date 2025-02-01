@@ -27,6 +27,7 @@
 * [2025-01-28, 19:46:45](https://news.ycombinator.com/item?id=42857008) - [Why old games magazines are a vital source of cultural history – and nostalgia](https://www.theguardian.com/games/2025/jan/28/video-game-history-foundation-digitised-archive-games-magazines)
 * [2025-01-28, 19:38:43](https://news.ycombinator.com/item?id=42856911) - [White House says New Jersey drones 'authorized to be flown by FAA'](https://www.theguardian.com/us-news/2025/jan/28/karoline-leavitt-new-jersey-drones)
 * [2025-01-28, 19:29:34](https://news.ycombinator.com/item?id=42856805) - [Instagram deals reveal Meta is offering TikTok creators as much as $300k to post](https://www.businessinsider.com/instagram-paying-creators-exclusive-content-deals-reels-contract-details-2025-1)
+* [2025-01-28, 19:29:12](https://news.ycombinator.com/item?id=42856803) - [Blurred Forms: An Unsteady History of Drunkenness (2014)](https://theappendix.net/issues/2014/10/blurred-forms-an-unsteady-history-of-drunkenness)
 * [2025-01-28, 19:24:41](https://news.ycombinator.com/item?id=42856752) - [Ask HN: Are YC startups *actually* hiring?](https://news.ycombinator.com/item?id=42856752)
 * [2025-01-28, 19:11:49](https://news.ycombinator.com/item?id=42856591) - [It is time to ban email](https://shkspr.mobi/blog/2025/01/it-is-time-to-ban-email/)
 * [2025-01-28, 18:53:42](https://news.ycombinator.com/item?id=42856338) - [UV Tricks](https://www.bitecode.dev/p/uv-tricks)
