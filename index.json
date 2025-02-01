@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-01, 08:00:34",
+      "https://news.ycombinator.com/item?id=42896716"
+    ],
+    [
+      "Show HN: Perforator – cluster-wide profiling tool for large data centers",
+      "https://github.com/yandex/perforator"
+    ]
+  ],
+  [
+    [
+      "2025-02-01, 07:59:36",
+      "https://news.ycombinator.com/item?id=42896710"
+    ],
+    [
+      "The Severance writer and cast on corporate cults, sci-fi, and more",
+      "https://arstechnica.com/culture/2025/01/the-severance-writer-and-cast-on-corporate-cults-sci-fi-and-more/"
+    ]
+  ],
+  [
+    [
       "2025-02-01, 06:53:54",
       "https://news.ycombinator.com/item?id=42896351"
     ],
@@ -17,16 +37,6 @@
     [
       "Norway's wealth fund now worth $319,900 per citizen",
       "https://sherwood.news/world/norways-wealth-fund-reports-record-profits-worth-usd319-900-citizen/"
-    ]
-  ],
-  [
-    [
-      "2025-02-01, 06:12:30",
-      "https://news.ycombinator.com/item?id=42896131"
-    ],
-    [
-      "I miss Vim",
-      "https://leblancfg.com/i-miss-vim.html"
     ]
   ],
   [
@@ -241,12 +251,12 @@
   ],
   [
     [
-      "2025-01-31, 15:00:55",
-      "https://news.ycombinator.com/item?id=42888326"
+      "2025-01-29, 05:15:45",
+      "https://news.ycombinator.com/item?id=42861815"
     ],
     [
-      "Images reveal exocomets around nearby stars",
-      "https://skyandtelescope.org/astronomy-news/new-images-reveal-exocomets-around-74-nearby-stars/"
+      "Auto-Differentiating Any LLM Workflow: A Farewell to Manual Prompting",
+      "https://arxiv.org/abs/2501.16673"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "AI and two hundred dollar tasks",
       "https://blog.ninlabs.com/blog/2025-01-27-two-hundred-dollar-tasks/"
-    ]
-  ],
-  [
-    [
-      "2025-01-28, 16:06:22",
-      "https://news.ycombinator.com/item?id=42853904"
-    ],
-    [
-      "When Greedy Algorithms Can Be Faster [C++]",
-      "https://16bpp.net/blog/post/when-greedy-algorithms-can-be-faster/"
     ]
   ],
   [
