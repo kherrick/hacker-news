@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-01](index.md)
 
+* [2025-02-01, 09:27:06](https://news.ycombinator.com/item?id=42897120) - [Visualizing all books of the world in ISBN-Space](https://phiresky.github.io/blog/2025/visualizing-all-books-in-isbn-space/)
 * [2025-02-01, 08:00:34](https://news.ycombinator.com/item?id=42896716) - [Show HN: Perforator – cluster-wide profiling tool for large data centers](https://github.com/yandex/perforator)
 * [2025-02-01, 07:59:36](https://news.ycombinator.com/item?id=42896710) - [The Severance writer and cast on corporate cults, sci-fi, and more](https://arstechnica.com/culture/2025/01/the-severance-writer-and-cast-on-corporate-cults-sci-fi-and-more/)
 * [2025-02-01, 07:01:07](https://news.ycombinator.com/item?id=42896387) - [List of 200 UK companies that moved to 4-day working week](https://future4days.com/list-of-200-uk-companies-that-moved-to-4-day-working-week/)
