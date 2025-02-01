@@ -26,9 +26,9 @@
 * [2025-01-31, 16:36:23](https://news.ycombinator.com/item?id=42889139) - [Fixing E.T. The Extra-Terrestrial for the Atari 2600 (2013)](http://www.neocomputer.org/projects/et/)
 * [2025-01-29, 05:15:45](https://news.ycombinator.com/item?id=42861815) - [Auto-Differentiating Any LLM Workflow: A Farewell to Manual Prompting](https://arxiv.org/abs/2501.16673)
 * [2025-01-28, 23:33:08](https://news.ycombinator.com/item?id=42859564) - [Blogging on Paper](https://conroy.org/blogging-on-paper)
+* [2025-01-28, 22:43:42](https://news.ycombinator.com/item?id=42859098) - [Toward a Sparse Interpretable Audio Codec](https://blog.cochlea.xyz/sparse-interpretable-audio-codec-paper.html)
 * [2025-01-28, 17:54:03](https://news.ycombinator.com/item?id=42855542) - [AI and two hundred dollar tasks](https://blog.ninlabs.com/blog/2025-01-27-two-hundred-dollar-tasks/)
 * [2025-01-28, 07:26:01](https://news.ycombinator.com/item?id=42849774) - [In Zig, what's a writer?](https://www.openmymind.net/In-Zig-Whats-a-Writer/)
-* [2025-01-28, 00:29:46](https://news.ycombinator.com/item?id=42847533) - [Show HN: Lua-libuv – A Lua with libuv experiments](https://github.com/joaoneto/lua-libuv)
 * [2025-01-27, 20:18:38](https://news.ycombinator.com/item?id=42845169) - [Better Know a Ruby Thing: Singleton Classes](https://noelrappin.com/blog/2025/01/better-know-a-ruby-thing-singleton-classes/)
 
 ## [Archives](archives/index.md)

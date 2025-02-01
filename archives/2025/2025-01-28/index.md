@@ -8,6 +8,7 @@
 * [2025-01-28, 23:33:08](https://news.ycombinator.com/item?id=42859564) - [Blogging on Paper](https://conroy.org/blogging-on-paper)
 * [2025-01-28, 23:31:48](https://news.ycombinator.com/item?id=42859552) - [Fork in the Road](https://www.opm.gov/fork)
 * [2025-01-28, 23:15:06](https://news.ycombinator.com/item?id=42859421) - [Freeze on grant funding temporarily halted by federal judge](https://www.bloomberg.com/news/articles/2025-01-28/trump-s-freeze-on-grant-funding-temporarily-halted-by-judge)
+* [2025-01-28, 22:43:42](https://news.ycombinator.com/item?id=42859098) - [Toward a Sparse Interpretable Audio Codec](https://blog.cochlea.xyz/sparse-interpretable-audio-codec-paper.html)
 * [2025-01-28, 22:28:51](https://news.ycombinator.com/item?id=42858947) - [Job Trends of HN Who is hiring?](https://hnhiring.com/trends)
 * [2025-01-28, 22:18:39](https://news.ycombinator.com/item?id=42858828) - [AI haters build tarpits to trap and trick AI scrapers that ignore robots.txt](https://arstechnica.com/tech-policy/2025/01/ai-haters-build-tarpits-to-trap-and-trick-ai-scrapers-that-ignore-robots-txt/)
 * [2025-01-28, 22:14:41](https://news.ycombinator.com/item?id=42858778) - [Civilization VII only needs 20 GB of free disk space](https://www.corsair.com/us/en/explorer/gamer/gaming-pcs/civilization-vii-system-requirements-and-recommended-specs/)
