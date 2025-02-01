@@ -1,6 +1,56 @@
 [
   [
     [
+      "2025-02-01, 00:50:40",
+      "https://news.ycombinator.com/item?id=42894425"
+    ],
+    [
+      "Show HN: Simple to build MCP servers that easily connect with custom LLM calls",
+      "https://mirascope.com/learn/mcp/server/"
+    ]
+  ],
+  [
+    [
+      "2025-02-01, 00:41:20",
+      "https://news.ycombinator.com/item?id=42894357"
+    ],
+    [
+      "All CDC data is no longer visible to comply with executive orders",
+      "https://www.cdc.gov/datainfo.html"
+    ]
+  ],
+  [
+    [
+      "2025-02-01, 00:25:43",
+      "https://news.ycombinator.com/item?id=42894220"
+    ],
+    [
+      "Falsehoods programmers believe about null pointers",
+      "https://purplesyringa.moe/blog/falsehoods-programmers-believe-about-null-pointers/"
+    ]
+  ],
+  [
+    [
+      "2025-02-01, 00:24:42",
+      "https://news.ycombinator.com/item?id=42894215"
+    ],
+    [
+      "Notes on OpenAI O3-Mini",
+      "https://simonwillison.net/2025/Jan/31/o3-mini/"
+    ]
+  ],
+  [
+    [
+      "2025-02-01, 00:22:57",
+      "https://news.ycombinator.com/item?id=42894200"
+    ],
+    [
+      "Earthstar – A database for private, distributed, offline-first applications",
+      "https://earthstar-project.org/"
+    ]
+  ],
+  [
+    [
       "2025-01-31, 23:44:00",
       "https://news.ycombinator.com/item?id=42893844"
     ],
@@ -11,42 +61,22 @@
   ],
   [
     [
+      "2025-01-31, 23:06:52",
+      "https://news.ycombinator.com/item?id=42893463"
+    ],
+    [
+      "Google offers 'voluntary exit' to all US platforms and devices employees",
+      "https://www.theverge.com/news/603432/google-voluntary-exit-platforms-devices-team"
+    ]
+  ],
+  [
+    [
       "2025-01-31, 23:00:34",
       "https://news.ycombinator.com/item?id=42893393"
     ],
     [
       "Designing Great Watchdog Timers for Embedded Systems",
       "https://www.ganssle.com/watchdogs.htm"
-    ]
-  ],
-  [
-    [
-      "2025-01-31, 22:57:57",
-      "https://news.ycombinator.com/item?id=42893365"
-    ],
-    [
-      "Tesla Paid Zero Federal Income Tax in 2024, Despite $2.3B in Income",
-      "https://truthout.org/articles/tesla-paid-zero-federal-income-tax-in-2024-despite-2-3-billion-in-income/"
-    ]
-  ],
-  [
-    [
-      "2025-01-31, 22:37:32",
-      "https://news.ycombinator.com/item?id=42893146"
-    ],
-    [
-      "Germany: Number of unemployed highest in 10 years",
-      "https://www.dw.com/en/germany-number-of-unemployed-highest-in-10-years/a-71470806"
-    ]
-  ],
-  [
-    [
-      "2025-01-31, 22:31:44",
-      "https://news.ycombinator.com/item?id=42893081"
-    ],
-    [
-      "The Faux Free Speech Warriors Attacking Free Speech",
-      "https://www.techdirt.com/2025/01/31/the-faux-free-speech-warriors-attacking-free-speech/"
     ]
   ],
   [
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2025-01-31, 16:53:30",
-      "https://news.ycombinator.com/item?id=42889297"
-    ],
-    [
-      "Apple files emergency motion to become defendant in US vs. Google [pdf]",
-      "https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1158.0_1.pdf"
-    ]
-  ],
-  [
-    [
       "2025-01-31, 16:36:23",
       "https://news.ycombinator.com/item?id=42889139"
     ],
@@ -231,12 +251,12 @@
   ],
   [
     [
-      "2025-01-31, 14:48:25",
-      "https://news.ycombinator.com/item?id=42888195"
+      "2025-01-28, 19:29:12",
+      "https://news.ycombinator.com/item?id=42856803"
     ],
     [
-      "MillenniumDB: Property graph and RDF engine, still in development",
-      "https://github.com/MillenniumDB/MillenniumDB"
+      "Blurred Forms: An Unsteady History of Drunkenness (2014)",
+      "https://theappendix.net/issues/2014/10/blurred-forms-an-unsteady-history-of-drunkenness"
     ]
   ],
   [
@@ -247,26 +267,6 @@
     [
       "When Greedy Algorithms Can Be Faster [C++]",
       "https://16bpp.net/blog/post/when-greedy-algorithms-can-be-faster/"
-    ]
-  ],
-  [
-    [
-      "2025-01-28, 15:55:16",
-      "https://news.ycombinator.com/item?id=42853738"
-    ],
-    [
-      "Paris P2P Festival and Hackathon",
-      "https://p2p.paris/fr/"
-    ]
-  ],
-  [
-    [
-      "2025-01-28, 14:35:23",
-      "https://news.ycombinator.com/item?id=42852754"
-    ],
-    [
-      "Real-time, river sections downstream of sewage discharges from storm overflows",
-      "https://www.sewagemap.co.uk/"
     ]
   ],
   [
