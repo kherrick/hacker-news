@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-01, 03:21:35](https://news.ycombinator.com/item?id=42895332) - [Hell Is Overconfident Developers Writing Encryption Code](https://soatok.blog/2025/01/31/hell-is-overconfident-developers-writing-encryption-code/)
 * [2025-02-01, 01:30:02](https://news.ycombinator.com/item?id=42894708) - [Decision to dump water from Tulare County lakes altered after confusing locals](https://sjvwater.org/decision-to-dump-water-from-tulare-county-lakes-altered-after-sending-locals-in-mad-scramble/)
 * [2025-02-01, 00:50:40](https://news.ycombinator.com/item?id=42894425) - [Show HN: Simple to build MCP servers that easily connect with custom LLM calls](https://mirascope.com/learn/mcp/server/)
 * [2025-02-01, 00:25:43](https://news.ycombinator.com/item?id=42894220) - [Falsehoods programmers believe about null pointers](https://purplesyringa.moe/blog/falsehoods-programmers-believe-about-null-pointers/)
@@ -19,7 +20,6 @@
 * [2025-01-31, 18:47:51](https://news.ycombinator.com/item?id=42890389) - [The Tensor Cookbook](https://tensorcookbook.com/)
 * [2025-01-31, 18:36:43](https://news.ycombinator.com/item?id=42890290) - [FBI, Dutch police disrupt 'Manipulaters' phishing gang](https://krebsonsecurity.com/2025/01/fbi-dutch-police-disrupt-manipulaters-phishing-gang/)
 * [2025-01-31, 17:48:23](https://news.ycombinator.com/item?id=42889786) - [Theoretical limitations of multi-layer Transformer](https://arxiv.org/abs/2412.02975)
-* [2025-01-31, 17:14:12](https://news.ycombinator.com/item?id=42889465) - [Shell-ish scripting in Go with ease](https://github.com/bitfield/script)
 * [2025-01-31, 17:07:01](https://news.ycombinator.com/item?id=42889407) - [Show HN: Uscope, a new Linux debugger written from scratch](https://github.com/jcalabro/uscope)
 * [2025-01-31, 16:55:26](https://news.ycombinator.com/item?id=42889308) - [Zusie – My Relay Computer](http://www.nablaman.com/relay/about.php)
 * [2025-01-31, 16:36:23](https://news.ycombinator.com/item?id=42889139) - [Fixing E.T. The Extra-Terrestrial for the Atari 2600 (2013)](http://www.neocomputer.org/projects/et/)

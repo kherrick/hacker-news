@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-01](index.md)
 
+* [2025-02-01, 03:21:35](https://news.ycombinator.com/item?id=42895332) - [Hell Is Overconfident Developers Writing Encryption Code](https://soatok.blog/2025/01/31/hell-is-overconfident-developers-writing-encryption-code/)
 * [2025-02-01, 01:30:02](https://news.ycombinator.com/item?id=42894708) - [Decision to dump water from Tulare County lakes altered after confusing locals](https://sjvwater.org/decision-to-dump-water-from-tulare-county-lakes-altered-after-sending-locals-in-mad-scramble/)
 * [2025-02-01, 00:50:40](https://news.ycombinator.com/item?id=42894425) - [Show HN: Simple to build MCP servers that easily connect with custom LLM calls](https://mirascope.com/learn/mcp/server/)
 * [2025-02-01, 00:41:20](https://news.ycombinator.com/item?id=42894357) - [All CDC data is no longer visible to comply with executive orders](https://www.cdc.gov/datainfo.html)
