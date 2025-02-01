@@ -45,6 +45,7 @@
 * [2025-01-28, 17:12:15](https://news.ycombinator.com/item?id=42854887) - [A new ability to pinpoint sources of fast radio bursts](https://news.berkeley.edu/2025/01/21/astronomers-thought-they-understood-fast-radio-bursts-a-recent-one-calls-that-into-question/)
 * [2025-01-28, 17:00:58](https://news.ycombinator.com/item?id=42854706) - [Curo (YC F24) Is Hiring](https://www.ycombinator.com/companies/curo/jobs/s7a36qb-associate-marketplace-supply)
 * [2025-01-28, 16:48:58](https://news.ycombinator.com/item?id=42854525) - [Sam Altman said startups with $10M were 'hopeless' competing with OpenAI](https://www.tomshardware.com/tech-industry/artificial-intelligence/sam-altman-said-startups-with-only-usd10-million-were-totally-hopeless-competing-with-openai-deepseeks-disruption-says-otherwise)
+* [2025-01-28, 16:46:35](https://news.ycombinator.com/item?id=42854489) - [What's the Root Cause? – a quiz](https://spike.sh/quiz)
 * [2025-01-28, 16:33:32](https://news.ycombinator.com/item?id=42854291) - [Building a T1D smartwatch for my son from scratch](https://andrewchilds.com/posts/building-a-t1d-smartwatch-from-scratch)
 * [2025-01-28, 16:06:22](https://news.ycombinator.com/item?id=42853904) - [When Greedy Algorithms Can Be Faster [C++]](https://16bpp.net/blog/post/when-greedy-algorithms-can-be-faster/)
 * [2025-01-28, 15:55:22](https://news.ycombinator.com/item?id=42853741) - [Qwen2.5-Max: Exploring the Intelligence of Large-Scale Moe Model](https://qwenlm.github.io/blog/qwen2.5-max/)
