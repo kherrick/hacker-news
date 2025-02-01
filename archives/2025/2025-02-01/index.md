@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-01](index.md)
 
+* [2025-02-01, 21:29:53](https://news.ycombinator.com/item?id=42902554) - [Air traffic controller 'left work early', one was left to handle the air traffic](https://www.independent.co.uk/news/world/americas/plane-crash-washington-air-traffic-controllers-b2689997.html)
 * [2025-02-01, 21:12:37](https://news.ycombinator.com/item?id=42902395) - [A bookmarklet to kill sticky headers](https://alisdair.mcdiarmid.org/kill-sticky-headers/)
 * [2025-02-01, 21:09:06](https://news.ycombinator.com/item?id=42902355) - [Phyllis Fong, who was investigating Neuralink, \"forcefully removed \"](https://timesofindia.indiatimes.com/technology/tech-news/phyllis-fong-who-was-investigating-elon-musks-brain-implant-startup-neuralink-forcefully-removed-from-office-after-refusing-termination-order/articleshow/117800543.cms)
 * [2025-02-01, 21:00:34](https://news.ycombinator.com/item?id=42902267) - [MindsDB (YC W20) Is Hiring an Office Manager in SF](https://grnh.se/83c3fffa7us)
@@ -14,6 +15,7 @@
 * [2025-02-01, 19:57:37](https://news.ycombinator.com/item?id=42901616) - [Python 3, Pygame, and Debian Bookworm on the Miyoo A30](https://www.jtolio.com/2025/02/py3-pygame-miyoo-a30/)
 * [2025-02-01, 19:55:37](https://news.ycombinator.com/item?id=42901600) - [Burrows–Wheeler Transform](https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform)
 * [2025-02-01, 19:50:35](https://news.ycombinator.com/item?id=42901553) - [New California bill might block the \"AI did it\" defense in civil cases](https://www.veeto.app/bill/1941749?tab=Overview)
+* [2025-02-01, 19:11:26](https://news.ycombinator.com/item?id=42901184) - [The origin and unexpected evolution of the word \"mainframe\"](https://www.righto.com/2025/02/origin-of-mainframe-term.html)
 * [2025-02-01, 19:11:12](https://news.ycombinator.com/item?id=42901182) - [YouTube Audio Quality – How Good Does It Get?](https://www.audiomisc.co.uk/YouTube/SpotTheDifference.html)
 * [2025-02-01, 18:56:32](https://news.ycombinator.com/item?id=42901072) - [Google Maps reclassifies the U.S. as a 'sensitive country'](https://www.themarysue.com/for-states-with-strict-governments-google-maps-reclassifies-the-u-s-as-a-sensitive-country-alongside-china-and-russia/)
 * [2025-02-01, 18:31:45](https://news.ycombinator.com/item?id=42900786) - [Delaware faces exodus of tech companies](https://www.newsweek.com/delaware-exodus-tech-meta-dropbox-elon-musk-2024596)
