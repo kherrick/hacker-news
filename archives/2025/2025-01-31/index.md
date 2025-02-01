@@ -93,3 +93,4 @@
 * [2025-01-31, 02:07:01](https://news.ycombinator.com/item?id=42884117) - [65% of all ski resorts in the US have closed since 1960s (2022)](https://www.mdpi.com/2073-445X/11/4/494)
 * [2025-01-31, 01:52:23](https://news.ycombinator.com/item?id=42884056) - [Show HN: 1M+ animated GPU sprites in JavaScript](https://phaser.io/news/2025/01/phaser-v4-beta-5-released)
 * [2025-01-31, 00:47:09](https://news.ycombinator.com/item?id=42883734) - [FDA Approves drug to treat pain without opioid effects](https://www.nytimes.com/2025/01/30/health/fda-journavx-suzetrigine-vertex-opioids.html)
+* [2025-01-31, 00:20:14](https://news.ycombinator.com/item?id=42883589) - [Tiny algae shaped the evolution of giant clams](https://www.colorado.edu/today/2025/01/27/how-tiny-algae-shaped-evolution-giant-clams)

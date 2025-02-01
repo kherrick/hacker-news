@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-01](index.md)
 
+* [2025-02-01, 19:11:12](https://news.ycombinator.com/item?id=42901182) - [YouTube Audio Quality – How Good Does It Get?](https://www.audiomisc.co.uk/YouTube/SpotTheDifference.html)
 * [2025-02-01, 18:08:12](https://news.ycombinator.com/item?id=42900528) - [The FAA's Real Air Traffic Control Crisis Runs Much Deeper](https://viewfromthewing.com/collision-on-final-approach-sparks-dei-blame-game-the-faas-real-air-traffic-control-crisis-runs-much-deeper/)
 * [2025-02-01, 17:15:12](https://news.ycombinator.com/item?id=42899975) - [Dell ends hybrid work policy, demands RTO despite remote work pledge](https://www.theregister.com/2025/01/31/dell_ends_hybrid_work_policy/)
 * [2025-02-01, 17:09:35](https://news.ycombinator.com/item?id=42899913) - [The Strike Is Coming](https://generalstrikeus.com)
