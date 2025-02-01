@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-02-01](index.md)
 
+* [2025-02-01, 20:31:46](https://news.ycombinator.com/item?id=42901954) - [Usaid website has been taken down](https://www.usaid.gov/)
+* [2025-02-01, 20:24:57](https://news.ycombinator.com/item?id=42901897) - [Oracle Cloud deleting active user accounts without possibility for data recovery](https://mastodon.de/@ErikUden/113930010311998246)
+* [2025-02-01, 20:01:49](https://news.ycombinator.com/item?id=42901668) - [Ask HN: Recommendations for a Linux Distro and Laptop?](https://news.ycombinator.com/item?id=42901668)
 * [2025-02-01, 19:57:37](https://news.ycombinator.com/item?id=42901616) - [Python 3, Pygame, and Debian Bookworm on the Miyoo A30](https://www.jtolio.com/2025/02/py3-pygame-miyoo-a30/)
 * [2025-02-01, 19:55:37](https://news.ycombinator.com/item?id=42901600) - [Burrows–Wheeler Transform](https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform)
 * [2025-02-01, 19:50:35](https://news.ycombinator.com/item?id=42901553) - [New California bill might block the \"AI did it\" defense in civil cases](https://www.veeto.app/bill/1941749?tab=Overview)
