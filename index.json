@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-01, 03:21:35",
+      "https://news.ycombinator.com/item?id=42895332"
+    ],
+    [
+      "Hell Is Overconfident Developers Writing Encryption Code",
+      "https://soatok.blog/2025/01/31/hell-is-overconfident-developers-writing-encryption-code/"
+    ]
+  ],
+  [
+    [
       "2025-02-01, 01:30:02",
       "https://news.ycombinator.com/item?id=42894708"
     ],
@@ -187,16 +197,6 @@
     [
       "Theoretical limitations of multi-layer Transformer",
       "https://arxiv.org/abs/2412.02975"
-    ]
-  ],
-  [
-    [
-      "2025-01-31, 17:14:12",
-      "https://news.ycombinator.com/item?id=42889465"
-    ],
-    [
-      "Shell-ish scripting in Go with ease",
-      "https://github.com/bitfield/script"
     ]
   ],
   [
