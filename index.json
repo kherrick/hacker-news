@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2025-02-01, 00:24:42",
-      "https://news.ycombinator.com/item?id=42894215"
-    ],
-    [
-      "Notes on OpenAI o3-mini",
-      "https://simonwillison.net/2025/Jan/31/o3-mini/"
-    ]
-  ],
-  [
-    [
       "2025-02-01, 00:22:57",
       "https://news.ycombinator.com/item?id=42894200"
     ],
@@ -267,6 +257,16 @@
     [
       "Blogging on Paper",
       "https://conroy.org/blogging-on-paper"
+    ]
+  ],
+  [
+    [
+      "2025-01-28, 23:14:03",
+      "https://news.ycombinator.com/item?id=42859412"
+    ],
+    [
+      "3D Scene Reconstruction in Adverse Weather Conditions via Gaussian Splatting",
+      "https://arxiv.org/abs/2412.18862"
     ]
   ],
   [
