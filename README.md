@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-01, 12:36:57](https://news.ycombinator.com/item?id=42897871) - [The Zizians and the Rationalist Death Cult](https://maxread.substack.com/p/the-zizians-and-the-rationalist-death)
 * [2025-02-01, 11:52:18](https://news.ycombinator.com/item?id=42897696) - [CDC Data Are Disappearing](https://www.theatlantic.com/health/archive/2025/01/cdc-dei-scientific-data/681531/)
 * [2025-02-01, 11:43:33](https://news.ycombinator.com/item?id=42897662) - [Show HN: TalkNotes – A site that turns your ideas into tasks](https://www.talknotes.tech/)
 * [2025-02-01, 09:54:48](https://news.ycombinator.com/item?id=42897254) - [FOSDEM 2025: Streaming Schedule](https://fosdem.org/2025/schedule/streaming/)
@@ -29,7 +30,6 @@
 * [2025-01-28, 21:02:39](https://news.ycombinator.com/item?id=42857951) - [Show HN: I made a table comparer to quickly find a new book to read](https://nextread.info/)
 * [2025-01-28, 12:58:47](https://news.ycombinator.com/item?id=42851782) - [HD Hyundai set to debut production 14 ton hydrogen wheeled excavator](https://electrek.co/2025/01/27/hd-hyundai-set-to-debut-production-14-ton-hydrogen-wheeled-excavator/)
 * [2025-01-28, 07:26:01](https://news.ycombinator.com/item?id=42849774) - [In Zig, what's a writer?](https://www.openmymind.net/In-Zig-Whats-a-Writer/)
-* [2025-01-27, 20:18:38](https://news.ycombinator.com/item?id=42845169) - [Better Know a Ruby Thing: Singleton Classes](https://noelrappin.com/blog/2025/01/better-know-a-ruby-thing-singleton-classes/)
 
 ## [Archives](archives/index.md)
 
