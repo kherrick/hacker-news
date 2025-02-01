@@ -11,6 +11,7 @@
 * [2025-01-28, 23:14:03](https://news.ycombinator.com/item?id=42859412) - [3D Scene Reconstruction in Adverse Weather Conditions via Gaussian Splatting](https://arxiv.org/abs/2412.18862)
 * [2025-01-28, 22:43:42](https://news.ycombinator.com/item?id=42859098) - [Toward a Sparse Interpretable Audio Codec](https://blog.cochlea.xyz/sparse-interpretable-audio-codec-paper.html)
 * [2025-01-28, 22:28:51](https://news.ycombinator.com/item?id=42858947) - [Job Trends of HN Who is hiring?](https://hnhiring.com/trends)
+* [2025-01-28, 22:28:10](https://news.ycombinator.com/item?id=42858940) - [Breaking Down the NSA's Guidance on Zero Trust Implementations (2024)](https://blog.aquia.us/blog/2024-06-04-NSA-zt/)
 * [2025-01-28, 22:18:39](https://news.ycombinator.com/item?id=42858828) - [AI haters build tarpits to trap and trick AI scrapers that ignore robots.txt](https://arstechnica.com/tech-policy/2025/01/ai-haters-build-tarpits-to-trap-and-trick-ai-scrapers-that-ignore-robots-txt/)
 * [2025-01-28, 22:14:41](https://news.ycombinator.com/item?id=42858778) - [Civilization VII only needs 20 GB of free disk space](https://www.corsair.com/us/en/explorer/gamer/gaming-pcs/civilization-vii-system-requirements-and-recommended-specs/)
 * [2025-01-28, 22:11:36](https://news.ycombinator.com/item?id=42858741) - [Multi-head latent attention (DeepSeek) and other KV cache tricks explained](https://www.pyspur.dev/blog/multi-head-latent-attention-kv-cache-paper-list)

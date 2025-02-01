@@ -25,7 +25,7 @@
 * [2025-01-31, 17:07:01](https://news.ycombinator.com/item?id=42889407) - [Show HN: Uscope, a new Linux debugger written from scratch](https://github.com/jcalabro/uscope)
 * [2025-01-29, 05:15:45](https://news.ycombinator.com/item?id=42861815) - [Auto-Differentiating Any LLM Workflow: A Farewell to Manual Prompting](https://arxiv.org/abs/2501.16673)
 * [2025-01-28, 23:33:08](https://news.ycombinator.com/item?id=42859564) - [Blogging on Paper](https://conroy.org/blogging-on-paper)
-* [2025-01-28, 23:14:03](https://news.ycombinator.com/item?id=42859412) - [3D Scene Reconstruction in Adverse Weather Conditions via Gaussian Splatting](https://arxiv.org/abs/2412.18862)
+* [2025-01-28, 22:28:10](https://news.ycombinator.com/item?id=42858940) - [Breaking Down the NSA's Guidance on Zero Trust Implementations (2024)](https://blog.aquia.us/blog/2024-06-04-NSA-zt/)
 * [2025-01-28, 21:02:39](https://news.ycombinator.com/item?id=42857951) - [Show HN: I made a table comparer to quickly find a new book to read](https://nextread.info/)
 * [2025-01-28, 12:58:47](https://news.ycombinator.com/item?id=42851782) - [HD Hyundai set to debut production 14 ton hydrogen wheeled excavator](https://electrek.co/2025/01/27/hd-hyundai-set-to-debut-production-14-ton-hydrogen-wheeled-excavator/)
 * [2025-01-28, 07:26:01](https://news.ycombinator.com/item?id=42849774) - [In Zig, what's a writer?](https://www.openmymind.net/In-Zig-Whats-a-Writer/)
