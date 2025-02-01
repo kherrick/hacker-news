@@ -10,6 +10,7 @@
 * [2025-02-01, 17:01:51](https://news.ycombinator.com/item?id=42899841) - [ADHD Didn't Break Me–My Parents Did](https://claimingattention.substack.com/p/adhd-did-not-break-me-my-parents-did)
 * [2025-02-01, 17:01:06](https://news.ycombinator.com/item?id=42899834) - [Reprompt (YC W24) is hiring an AI Engineer to build world class Location Data](https://www.ycombinator.com/companies/reprompt/jobs/YfQBWDH-founding-engineer)
 * [2025-02-01, 16:54:17](https://news.ycombinator.com/item?id=42899778) - [It's OK to hardcode feature flags](https://code.mendhak.com/hardcode-feature-flags/)
+* [2025-02-01, 16:54:16](https://news.ycombinator.com/item?id=42899777) - [Giant catapult sends satellites into space](https://www.spinlaunch.com/)
 * [2025-02-01, 16:48:20](https://news.ycombinator.com/item?id=42899732) - [Revisiting Random Number Generation](https://swlody.dev/Posts/Revisiting-random-number-generation)
 * [2025-02-01, 16:46:01](https://news.ycombinator.com/item?id=42899713) - [Bzip3: A better and stronger spiritual successor to BZip2](https://github.com/kspalaiologos/bzip3)
 * [2025-02-01, 16:44:53](https://news.ycombinator.com/item?id=42899703) - [The Next Chapter in Swift Build Technologies](https://www.swift.org/blog/the-next-chapter-in-swift-build-technologies/)
