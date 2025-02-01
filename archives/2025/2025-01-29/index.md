@@ -41,6 +41,7 @@
 * [2025-01-29, 17:04:52](https://news.ycombinator.com/item?id=42867764) - [How to run DeepSeek R1 locally](https://workos.com/blog/how-to-run-deepseek-r1-locally)
 * [2025-01-29, 17:00:50](https://news.ycombinator.com/item?id=42867708) - [Frigade (YC W23) is hiring engineer #2](https://www.ycombinator.com/companies/frigade/jobs/KUwAluN-senior-full-stack-engineer)
 * [2025-01-29, 16:57:59](https://news.ycombinator.com/item?id=42867657) - [A major Postgres upgrade with zero downtime](https://www.instantdb.com/essays/pg_upgrade)
+* [2025-01-29, 16:54:25](https://news.ycombinator.com/item?id=42867588) - [Advanced radio telescope technology 'sifts' space for mysteries](https://phys.org/news/2025-01-advanced-radio-telescope-technology-sifts.html)
 * [2025-01-29, 16:40:19](https://news.ycombinator.com/item?id=42867324) - [Society for Technical Communication to permanently close its doors](https://www.stc.org/)
 * [2025-01-29, 16:26:07](https://news.ycombinator.com/item?id=42867050) - [Show HN: Mcp-Agent – Build effective agents with Model Context Protocol](https://github.com/lastmile-ai/mcp-agent)
 * [2025-01-29, 16:21:55](https://news.ycombinator.com/item?id=42866951) - [Show HN: Distr – open-source distribution platform for on-prem deployments](https://github.com/glasskube/distr)
