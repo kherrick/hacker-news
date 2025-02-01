@@ -20,6 +20,7 @@
 * [2025-01-28, 21:20:42](https://news.ycombinator.com/item?id=42858187) - [The ancient discovery that put a Silk Road city back on the map](https://www.bbc.com/travel/article/20250127-one-of-the-last-traders-on-the-silk-road)
 * [2025-01-28, 21:16:46](https://news.ycombinator.com/item?id=42858134) - [Next Asteroid Predicted to Hit Earth: 2024 YR4 and Other Dangerous Asteroids](https://starwalk.space/en/news/should-you-worry-about-an-asteroid-hitting-earth)
 * [2025-01-28, 21:09:40](https://news.ycombinator.com/item?id=42858051) - [Slicing the Fourth](https://axalatar.github.io/slicing-the-fourth/)
+* [2025-01-28, 21:08:17](https://news.ycombinator.com/item?id=42858029) - [Newsstands, 2012-2019](https://www.trevortraynor.com/newsstands)
 * [2025-01-28, 21:02:39](https://news.ycombinator.com/item?id=42857951) - [Show HN: I made a table comparer to quickly find a new book to read](https://nextread.info/)
 * [2025-01-28, 21:01:03](https://news.ycombinator.com/item?id=42857929) - [SciPhi (YC W24) Is Hiring](https://www.ycombinator.com/companies/sciphi/jobs/CVYWWpl-founding-ai-research-engineer)
 * [2025-01-28, 20:41:50](https://news.ycombinator.com/item?id=42857681) - [Someone at Activision is leaking Slack screenshots to right-wing X users](https://www.gamedeveloper.com/business/it-looks-like-someone-at-activision-is-leaking-slack-screenshots-to-right-wing-x-users)
