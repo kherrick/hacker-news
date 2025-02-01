@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-02-01, 20:31:46",
+      "https://news.ycombinator.com/item?id=42901954"
+    ],
+    [
+      "Usaid website has been taken down",
+      "https://www.usaid.gov/"
+    ]
+  ],
+  [
+    [
+      "2025-02-01, 20:24:57",
+      "https://news.ycombinator.com/item?id=42901897"
+    ],
+    [
+      "Oracle Cloud deleting active user accounts without possibility for data recovery",
+      "https://mastodon.de/@ErikUden/113930010311998246"
+    ]
+  ],
+  [
+    [
+      "2025-02-01, 20:01:49",
+      "https://news.ycombinator.com/item?id=42901668"
+    ],
+    [
+      "Ask HN: Recommendations for a Linux Distro and Laptop?",
+      "https://news.ycombinator.com/item?id=42901668"
+    ]
+  ],
+  [
+    [
       "2025-02-01, 19:57:37",
       "https://news.ycombinator.com/item?id=42901616"
     ],
@@ -35,7 +65,7 @@
       "https://news.ycombinator.com/item?id=42901182"
     ],
     [
-      "YouTube Audio Quality – How Good Does It Get?",
+      "YouTube audio quality – How good does it get? (2022)",
       "https://www.audiomisc.co.uk/YouTube/SpotTheDifference.html"
     ]
   ],
@@ -111,22 +141,22 @@
   ],
   [
     [
-      "2025-02-01, 16:06:33",
-      "https://news.ycombinator.com/item?id=42899400"
-    ],
-    [
-      "Have Gemini stage and write commit messages for you",
-      "https://github.com/suwi-lanji/auto-commit"
-    ]
-  ],
-  [
-    [
       "2025-02-01, 12:03:51",
       "https://news.ycombinator.com/item?id=42897746"
     ],
     [
       "Ratzilla",
       "https://orhun.dev/ratzilla/demo/"
+    ]
+  ],
+  [
+    [
+      "2025-02-01, 11:52:18",
+      "https://news.ycombinator.com/item?id=42897696"
+    ],
+    [
+      "CDC data are disappearing",
+      "https://www.theatlantic.com/health/archive/2025/01/cdc-dei-scientific-data/681531/"
     ]
   ],
   [
@@ -147,16 +177,6 @@
     [
       "Visualizing all books of the world in ISBN-Space",
       "https://phiresky.github.io/blog/2025/visualizing-all-books-in-isbn-space/"
-    ]
-  ],
-  [
-    [
-      "2025-02-01, 09:11:37",
-      "https://news.ycombinator.com/item?id=42897041"
-    ],
-    [
-      "How to turn off Apple Intelligence",
-      "https://www.asurion.com/connect/tech-tips/turn-off-apple-intelligence/"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-01-31, 19:08:15",
-      "https://news.ycombinator.com/item?id=42890627"
-    ],
-    [
-      "OpenAI O3-Mini",
-      "https://openai.com/index/openai-o3-mini/"
-    ]
-  ],
-  [
-    [
       "2025-01-31, 00:20:14",
       "https://news.ycombinator.com/item?id=42883589"
     ],
@@ -217,6 +227,16 @@
     [
       "Archivists work to save disappearing data.gov datasets",
       "https://www.404media.co/archivists-work-to-identify-and-save-the-thousands-of-datasets-disappearing-from-data-gov/"
+    ]
+  ],
+  [
+    [
+      "2025-01-30, 17:26:18",
+      "https://news.ycombinator.com/item?id=42879930"
+    ],
+    [
+      "Video: Why this simple ring was so difficult to make [video]",
+      "https://www.youtube.com/watch?v=7gTz_JmlYtQ"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2025-01-28, 21:40:32",
-      "https://news.ycombinator.com/item?id=42858417"
-    ],
-    [
-      "Superheavy element half-life measurements push back the limits of stability",
-      "https://www.chemistryworld.com/news/superheavy-element-half-life-measurements-push-back-the-limits-of-stability/4020843.article"
-    ]
-  ],
-  [
-    [
       "2025-01-28, 21:08:17",
       "https://news.ycombinator.com/item?id=42858029"
     ],
@@ -287,16 +297,6 @@
     [
       "In Zig, what's a writer?",
       "https://www.openmymind.net/In-Zig-Whats-a-Writer/"
-    ]
-  ],
-  [
-    [
-      "2025-01-23, 18:35:24",
-      "https://news.ycombinator.com/item?id=42806624"
-    ],
-    [
-      "From tiny to immense: Geological spotlight on the Alexander Mosaic",
-      "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315188"
     ]
   ]
 ]
