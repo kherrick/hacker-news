@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-01-31](index.md)
 
 * [2025-01-31, 23:44:00](https://news.ycombinator.com/item?id=42893844) - [Sparrow, a Modern C++ Implementation of the Apache Arrow Columnar Format](https://johan-mabille.medium.com/sparrow-1f23817f6696)
+* [2025-01-31, 23:23:25](https://news.ycombinator.com/item?id=42893627) - [Scientists find links between Alzheimer's, herpes, and head trauma](https://www.statnews.com/2025/01/07/alzheimers-disease-research-link-between-herpes-virus-head-trauma-dementia/)
+* [2025-01-31, 23:22:55](https://news.ycombinator.com/item?id=42893622) - [Why Tracebit is written in C#](https://tracebit.com/blog/why-tracebit-is-written-in-c-sharp)
 * [2025-01-31, 23:06:52](https://news.ycombinator.com/item?id=42893463) - [Google offers 'voluntary exit' to all US platforms and devices employees](https://www.theverge.com/news/603432/google-voluntary-exit-platforms-devices-team)
 * [2025-01-31, 23:00:34](https://news.ycombinator.com/item?id=42893393) - [Designing Great Watchdog Timers for Embedded Systems](https://www.ganssle.com/watchdogs.htm)
 * [2025-01-31, 22:57:57](https://news.ycombinator.com/item?id=42893365) - [Tesla Paid Zero Federal Income Tax in 2024, Despite $2.3B in Income](https://truthout.org/articles/tesla-paid-zero-federal-income-tax-in-2024-despite-2-3-billion-in-income/)
