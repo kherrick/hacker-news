@@ -22,6 +22,7 @@
 * [2025-02-01, 16:44:53](https://news.ycombinator.com/item?id=42899703) - [The Next Chapter in Swift Build Technologies](https://www.swift.org/blog/the-next-chapter-in-swift-build-technologies/)
 * [2025-02-01, 16:41:53](https://news.ycombinator.com/item?id=42899679) - [Smart fabric heats up under the sun](https://uwaterloo.ca/news/media/smart-fabric-heats-under-sun)
 * [2025-02-01, 16:32:29](https://news.ycombinator.com/item?id=42899606) - [Addiction Economy](https://www.profgalloway.com/addiction-economy/)
+* [2025-02-01, 16:06:33](https://news.ycombinator.com/item?id=42899400) - [Have Gemini stage and write commit messages for you](https://github.com/suwi-lanji/auto-commit)
 * [2025-02-01, 15:49:25](https://news.ycombinator.com/item?id=42899261) - [Over 90% of U.S. airport towers are understaffed, data shows](https://www.cbsnews.com/news/over-90-percent-u-s-airport-towers-understaffed-air-traffic-controllers-data-shows/)
 * [2025-02-01, 15:41:08](https://news.ycombinator.com/item?id=42899184) - [Large Language Models for Mathematicians](https://arxiv.org/abs/2312.04556)
 * [2025-02-01, 15:12:22](https://news.ycombinator.com/item?id=42898914) - [Gradual Disempowerment: How Even Incremental AI Progress Poses Existential Risks](https://arxiv.org/abs/2501.16946)
