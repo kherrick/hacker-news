@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-01](index.md)
 
+* [2025-02-01, 06:12:30](https://news.ycombinator.com/item?id=42896131) - [I Miss Vim](https://leblancfg.com/i-miss-vim.html)
 * [2025-02-01, 04:02:12](https://news.ycombinator.com/item?id=42895529) - [Hypocrisy and politics in free and open source software projects](https://unixdigest.com/articles/hypocrisy-and-politics-in-free-and-open-source-software-projects.html)
 * [2025-02-01, 03:44:50](https://news.ycombinator.com/item?id=42895453) - [Treasury official retires after clash with DOGE over access to payment system](https://arstechnica.com/tech-policy/2025/01/musks-doge-clashes-with-treasury-over-access-to-payment-system-report-says/)
 * [2025-02-01, 03:21:35](https://news.ycombinator.com/item?id=42895332) - [Hell Is Overconfident Developers Writing Encryption Code](https://soatok.blog/2025/01/31/hell-is-overconfident-developers-writing-encryption-code/)
