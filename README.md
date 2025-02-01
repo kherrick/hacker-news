@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-01, 21:12:37](https://news.ycombinator.com/item?id=42902395) - [A bookmarklet to kill sticky headers](https://alisdair.mcdiarmid.org/kill-sticky-headers/)
 * [2025-02-01, 21:09:06](https://news.ycombinator.com/item?id=42902355) - [Phyllis Fong, who was investigating Neuralink, \"forcefully removed \"](https://timesofindia.indiatimes.com/technology/tech-news/phyllis-fong-who-was-investigating-elon-musks-brain-implant-startup-neuralink-forcefully-removed-from-office-after-refusing-termination-order/articleshow/117800543.cms)
 * [2025-02-01, 21:00:34](https://news.ycombinator.com/item?id=42902267) - [MindsDB (YC W20) Is Hiring an Office Manager in SF](https://grnh.se/83c3fffa7us)
-* [2025-02-01, 20:31:46](https://news.ycombinator.com/item?id=42901954) - [USAID website has been taken down](https://www.reuters.com/world/us/website-usaid-appears-be-offline-2025-02-01/)
 * [2025-02-01, 20:24:57](https://news.ycombinator.com/item?id=42901897) - [Oracle Cloud deleting active user accounts without possibility for data recovery](https://mastodon.de/@ErikUden/113930010311998246)
 * [2025-02-01, 19:57:37](https://news.ycombinator.com/item?id=42901616) - [Python 3, Pygame, and Debian Bookworm on the Miyoo A30](https://www.jtolio.com/2025/02/py3-pygame-miyoo-a30/)
 * [2025-02-01, 19:50:35](https://news.ycombinator.com/item?id=42901553) - [New California bill might block the \"AI did it\" defense in civil cases](https://www.veeto.app/bill/1941749?tab=Overview)
