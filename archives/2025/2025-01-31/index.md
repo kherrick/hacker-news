@@ -10,6 +10,7 @@
 * [2025-01-31, 23:06:52](https://news.ycombinator.com/item?id=42893463) - [Google offers 'voluntary exit' to all US platforms and devices employees](https://www.theverge.com/news/603432/google-voluntary-exit-platforms-devices-team)
 * [2025-01-31, 23:00:34](https://news.ycombinator.com/item?id=42893393) - [Designing Great Watchdog Timers for Embedded Systems](https://www.ganssle.com/watchdogs.htm)
 * [2025-01-31, 22:57:57](https://news.ycombinator.com/item?id=42893365) - [Tesla Paid Zero Federal Income Tax in 2024, Despite $2.3B in Income](https://truthout.org/articles/tesla-paid-zero-federal-income-tax-in-2024-despite-2-3-billion-in-income/)
+* [2025-01-31, 22:46:10](https://news.ycombinator.com/item?id=42893234) - [Switching to Linux: Reclaim Your Freedom](https://linux-howto.org/article/switching-to-linux)
 * [2025-01-31, 22:37:32](https://news.ycombinator.com/item?id=42893146) - [Germany: Number of unemployed highest in 10 years](https://www.dw.com/en/germany-number-of-unemployed-highest-in-10-years/a-71470806)
 * [2025-01-31, 22:31:44](https://news.ycombinator.com/item?id=42893081) - [The Faux Free Speech Warriors Attacking Free Speech](https://www.techdirt.com/2025/01/31/the-faux-free-speech-warriors-attacking-free-speech/)
 * [2025-01-31, 21:26:43](https://news.ycombinator.com/item?id=42892278) - [Musk aides lock government workers out of computer systems at US agency](https://www.reuters.com/world/us/musk-aides-lock-government-workers-out-computer-systems-us-agency-sources-say-2025-01-31/)
