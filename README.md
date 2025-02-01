@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-01, 09:46:43](https://news.ycombinator.com/item?id=42897205) - [How to Run DeepSeek R1 671B Locally on a $2000 EPYC Server](https://digitalspaceport.com/how-to-run-deepseek-r1-671b-fully-locally-on-2000-epyc-rig/)
 * [2025-02-01, 09:27:06](https://news.ycombinator.com/item?id=42897120) - [Visualizing all books of the world in ISBN-Space](https://phiresky.github.io/blog/2025/visualizing-all-books-in-isbn-space/)
 * [2025-02-01, 08:00:34](https://news.ycombinator.com/item?id=42896716) - [Show HN: Perforator – cluster-wide profiling tool for large data centers](https://github.com/yandex/perforator)
 * [2025-02-01, 07:59:36](https://news.ycombinator.com/item?id=42896710) - [The Severance writer and cast on corporate cults, sci-fi, and more](https://arstechnica.com/culture/2025/01/the-severance-writer-and-cast-on-corporate-cults-sci-fi-and-more/)
@@ -23,7 +24,6 @@
 * [2025-01-31, 17:07:01](https://news.ycombinator.com/item?id=42889407) - [Show HN: Uscope, a new Linux debugger written from scratch](https://github.com/jcalabro/uscope)
 * [2025-01-31, 16:55:26](https://news.ycombinator.com/item?id=42889308) - [Zusie – My Relay Computer](http://www.nablaman.com/relay/about.php)
 * [2025-01-31, 16:36:23](https://news.ycombinator.com/item?id=42889139) - [Fixing E.T. The Extra-Terrestrial for the Atari 2600 (2013)](http://www.neocomputer.org/projects/et/)
-* [2025-01-31, 15:00:55](https://news.ycombinator.com/item?id=42888326) - [Images reveal exocomets around nearby stars](https://skyandtelescope.org/astronomy-news/new-images-reveal-exocomets-around-74-nearby-stars/)
 * [2025-01-29, 05:15:45](https://news.ycombinator.com/item?id=42861815) - [Auto-Differentiating Any LLM Workflow: A Farewell to Manual Prompting](https://arxiv.org/abs/2501.16673)
 * [2025-01-28, 23:33:08](https://news.ycombinator.com/item?id=42859564) - [Blogging on Paper](https://conroy.org/blogging-on-paper)
 * [2025-01-28, 22:43:42](https://news.ycombinator.com/item?id=42859098) - [Toward a Sparse Interpretable Audio Codec](https://blog.cochlea.xyz/sparse-interpretable-audio-codec-paper.html)
