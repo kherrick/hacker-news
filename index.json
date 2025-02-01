@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-02-01, 13:59:35",
+      "https://news.ycombinator.com/item?id=42898323"
+    ],
+    [
+      "The Zizians",
+      "https://zizians.info/"
+    ]
+  ],
+  [
+    [
       "2025-02-01, 12:36:57",
       "https://news.ycombinator.com/item?id=42897871"
     ],
     [
       "The Zizians and the Rationalist Death Cult",
       "https://maxread.substack.com/p/the-zizians-and-the-rationalist-death"
-    ]
-  ],
-  [
-    [
-      "2025-02-01, 12:16:17",
-      "https://news.ycombinator.com/item?id=42897785"
-    ],
-    [
-      "Running DeepSeek R1 on Your Own (cheap) Hardware – The fast and easy way",
-      "https://linux-howto.org/running-deepseek-r1-on-your-own-hardware-the-fast-and-easy-way"
     ]
   ],
   [
@@ -121,12 +121,22 @@
   ],
   [
     [
-      "2025-02-01, 02:36:55",
-      "https://news.ycombinator.com/item?id=42895108"
+      "2025-02-01, 03:38:50",
+      "https://news.ycombinator.com/item?id=42895424"
     ],
     [
-      "Hoppscotch: Open source alternative to Postman / Insomnia",
-      "https://github.com/hoppscotch/hoppscotch"
+      "Study on the Prohibition of the Purple Costumes in Ancient China (2013) [pdf]",
+      "https://pdfs.semanticscholar.org/51a0/11be16a3bf27fabad86d48765624a209cdb2.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-02-01, 03:28:03",
+      "https://news.ycombinator.com/item?id=42895370"
+    ],
+    [
+      "What we get wrong about athleticism",
+      "https://www.nytimes.com/athletic/6096850/2025/01/30/patrick-mahomes-nikoa-jokic-body-athletes-workout/"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "Sparrow, a modern C++ implementation of the Apache Arrow columnar format",
       "https://johan-mabille.medium.com/sparrow-1f23817f6696"
-    ]
-  ],
-  [
-    [
-      "2025-01-31, 23:23:25",
-      "https://news.ycombinator.com/item?id=42893627"
-    ],
-    [
-      "Scientists find links between Alzheimer's, herpes, and head trauma",
-      "https://www.statnews.com/2025/01/07/alzheimers-disease-research-link-between-herpes-virus-head-trauma-dementia/"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2025-01-31, 16:55:26",
-      "https://news.ycombinator.com/item?id=42889308"
-    ],
-    [
-      "Zusie – My Relay Computer",
-      "http://www.nablaman.com/relay/about.php"
-    ]
-  ],
-  [
-    [
       "2025-01-29, 05:15:45",
       "https://news.ycombinator.com/item?id=42861815"
     ],
@@ -297,6 +287,16 @@
     [
       "In Zig, what's a writer?",
       "https://www.openmymind.net/In-Zig-Whats-a-Writer/"
+    ]
+  ],
+  [
+    [
+      "2025-01-23, 18:35:24",
+      "https://news.ycombinator.com/item?id=42806624"
+    ],
+    [
+      "From tiny to immense: Geological spotlight on the Alexander Mosaic",
+      "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0315188"
     ]
   ]
 ]
