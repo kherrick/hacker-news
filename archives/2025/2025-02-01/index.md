@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2025-02-01](index.md)
 
+* [2025-02-01, 23:16:43](https://news.ycombinator.com/item?id=42903564) - [Wealth inequality risks triggering 'societal collapse' within next decade](https://www.kcl.ac.uk/news/wealth-inequality-risks-triggering-societal-collapse-within-next-decade-report-finds)
+* [2025-02-01, 22:54:04](https://news.ycombinator.com/item?id=42903336) - [Philip Low Unmasking Musk](https://bsky.app/profile/brainking.bsky.social/post/3lgsco7cdnc26)
 * [2025-02-01, 22:34:30](https://news.ycombinator.com/item?id=42903151) - [US Government Websites Are Disappearing in Real Time](https://www.wired.com/story/us-government-websites-are-disappearing-in-real-time/)
 * [2025-02-01, 21:46:16](https://news.ycombinator.com/item?id=42902691) - [Macrodata Refinement](https://lumon-industries.com/)
 * [2025-02-01, 21:44:59](https://news.ycombinator.com/item?id=42902678) - [USDA Inspector General Who Refused to Leave Escorted from Office by Security](https://gizmodo.com/usda-inspector-general-who-refused-to-leave-post-escorted-from-office-by-security-2000556605)
 * [2025-02-01, 21:39:03](https://news.ycombinator.com/item?id=42902624) - [New thermogalvanic tech paves way for more efficient fridges](https://cosmosmagazine.com/science/chemistry/improved-fridge-technology/)
 * [2025-02-01, 21:29:53](https://news.ycombinator.com/item?id=42902554) - [Air traffic controller 'left work early', one was left to handle the air traffic](https://www.independent.co.uk/news/world/americas/plane-crash-washington-air-traffic-controllers-b2689997.html)
 * [2025-02-01, 21:12:37](https://news.ycombinator.com/item?id=42902395) - [A bookmarklet to kill sticky headers](https://alisdair.mcdiarmid.org/kill-sticky-headers/)
+* [2025-02-01, 21:11:50](https://news.ycombinator.com/item?id=42902385) - [Copyright reform is necessary for national security](https://annas-archive.org/blog/ai-copyright.html)
 * [2025-02-01, 21:09:06](https://news.ycombinator.com/item?id=42902355) - [Phyllis Fong, who was investigating Neuralink, \"forcefully removed \"](https://timesofindia.indiatimes.com/technology/tech-news/phyllis-fong-who-was-investigating-elon-musks-brain-implant-startup-neuralink-forcefully-removed-from-office-after-refusing-termination-order/articleshow/117800543.cms)
 * [2025-02-01, 21:00:34](https://news.ycombinator.com/item?id=42902267) - [MindsDB (YC W20) Is Hiring an Office Manager in SF](https://grnh.se/83c3fffa7us)
 * [2025-02-01, 20:31:46](https://news.ycombinator.com/item?id=42901954) - [Usaid website has been taken down](https://www.usaid.gov/)
