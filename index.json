@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-02-01, 21:29:53",
-      "https://news.ycombinator.com/item?id=42902554"
-    ],
-    [
-      "Air traffic controller 'left work early', one was left to handle the air traffic",
-      "https://www.independent.co.uk/news/world/americas/plane-crash-washington-air-traffic-controllers-b2689997.html"
-    ]
-  ],
-  [
-    [
       "2025-02-01, 21:12:37",
       "https://news.ycombinator.com/item?id=42902395"
     ],
@@ -57,16 +47,6 @@
     [
       "Python 3, Pygame, and Debian Bookworm on the Miyoo A30",
       "https://www.jtolio.com/2025/02/py3-pygame-miyoo-a30/"
-    ]
-  ],
-  [
-    [
-      "2025-02-01, 19:50:35",
-      "https://news.ycombinator.com/item?id=42901553"
-    ],
-    [
-      "New California bill might block the \"AI did it\" defense in civil cases",
-      "https://www.veeto.app/bill/1941749?tab=Overview"
     ]
   ],
   [
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2025-01-31, 19:55:14",
+      "https://news.ycombinator.com/item?id=42891200"
+    ],
+    [
+      "Elite on the 6502: The original 6502 assembly source, heavily commented",
+      "https://elite.bbcelite.com/"
+    ]
+  ],
+  [
+    [
       "2025-01-31, 19:08:15",
       "https://news.ycombinator.com/item?id=42890627"
     ],
@@ -247,6 +237,16 @@
     [
       "String of recent killings linked to Bay Area rationalist 'death cult'",
       "https://www.sfgate.com/bayarea/article/bay-area-death-cult-zizian-murders-20064333.php"
+    ]
+  ],
+  [
+    [
+      "2025-01-29, 14:59:23",
+      "https://news.ycombinator.com/item?id=42865611"
+    ],
+    [
+      "Enhancing your MIDI devices with Perl",
+      "https://fuzzix.org/enhancing-midi-hardware-with-perl"
     ]
   ],
   [
