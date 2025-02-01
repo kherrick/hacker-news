@@ -24,7 +24,7 @@
 * [2025-01-31, 16:55:26](https://news.ycombinator.com/item?id=42889308) - [Zusie – My Relay Computer](http://www.nablaman.com/relay/about.php)
 * [2025-01-31, 16:36:23](https://news.ycombinator.com/item?id=42889139) - [Fixing E.T. The Extra-Terrestrial for the Atari 2600 (2013)](http://www.neocomputer.org/projects/et/)
 * [2025-01-31, 16:26:37](https://news.ycombinator.com/item?id=42889052) - [Large Language Models Think Too Fast to Explore Effectively](https://arxiv.org/abs/2501.18009)
-* [2025-01-31, 15:00:55](https://news.ycombinator.com/item?id=42888326) - [Images reveal exocomets around nearby stars](https://skyandtelescope.org/astronomy-news/new-images-reveal-exocomets-around-74-nearby-stars/)
+* [2025-01-29, 05:05:43](https://news.ycombinator.com/item?id=42861762) - [[x<<1 + 2, x<<1 + 3] is a Binary Tree](https://ivanbelenky.com/articles/x%3C%3C1%20+%202,%20x%3C%3C2%20+%203)
 * [2025-01-28, 17:54:03](https://news.ycombinator.com/item?id=42855542) - [AI and Two Hundred Dollar Tasks](https://blog.ninlabs.com/blog/2025-01-27-two-hundred-dollar-tasks/)
 * [2025-01-28, 16:06:22](https://news.ycombinator.com/item?id=42853904) - [When Greedy Algorithms Can Be Faster [C++]](https://16bpp.net/blog/post/when-greedy-algorithms-can-be-faster/)
 * [2025-01-28, 14:27:03](https://news.ycombinator.com/item?id=42852643) - [A Missing Link Between Concussion and Alzheimer's](https://nautil.us/a-missing-link-between-concussion-and-alzheimers-1184691/)

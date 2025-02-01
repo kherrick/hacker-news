@@ -81,6 +81,7 @@
 * [2025-01-29, 06:54:35](https://news.ycombinator.com/item?id=42862288) - [What Have We Forgotten?](http://mikhailian.mova.org/node/291)
 * [2025-01-29, 06:43:43](https://news.ycombinator.com/item?id=42862246) - [I still like Sublime Text in 2025](https://ohdoylerules.com/workflows/why-i-still-like-sublime-text-in-2025/)
 * [2025-01-29, 06:16:14](https://news.ycombinator.com/item?id=42862118) - [Science YouTuber physicsgirl (Dianna Cowern) stands for the first time in 2 yrs](https://www.youtube.com/shorts/2ntx91cOYEc)
+* [2025-01-29, 05:05:43](https://news.ycombinator.com/item?id=42861762) - [[x<<1 + 2, x<<1 + 3] is a Binary Tree](https://ivanbelenky.com/articles/x%3C%3C1%20+%202,%20x%3C%3C2%20+%203)
 * [2025-01-29, 04:33:31](https://news.ycombinator.com/item?id=42861567) - [UK Weighs Making Netflix Users Pay License Fee to Fund BBC](https://www.bloomberg.com/news/articles/2025-01-28/uk-considers-making-netflix-users-pay-license-fee-to-fund-bbc)
 * [2025-01-29, 04:21:20](https://news.ycombinator.com/item?id=42861475) - [OpenAI says it has evidence DeepSeek used its model to train competitor](https://www.ft.com/content/a0dfedd1-5255-4fa9-8ccc-1fe01de87ea6)
 * [2025-01-29, 03:23:03](https://news.ycombinator.com/item?id=42861150) - [Microsoft Probing If DeepSeek-Linked Group Improperly Obtained OpenAI Data](https://www.bloomberg.com/news/articles/2025-01-29/microsoft-probing-if-deepseek-linked-group-improperly-obtained-openai-data)
