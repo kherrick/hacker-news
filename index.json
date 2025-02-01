@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-01, 06:53:54",
+      "https://news.ycombinator.com/item?id=42896351"
+    ],
+    [
+      "Shades of Blunders",
+      "https://lichess.org/@/theScot/blog/50-shades-of-blunders/84VpVCDn"
+    ]
+  ],
+  [
+    [
       "2025-02-01, 06:12:30",
       "https://news.ycombinator.com/item?id=42896131"
     ],
@@ -105,18 +115,8 @@
       "https://news.ycombinator.com/item?id=42893393"
     ],
     [
-      "Designing Great Watchdog Timers for Embedded Systems",
+      "Great Watchdog Timers For Embedded Systems (2016)",
       "https://www.ganssle.com/watchdogs.htm"
-    ]
-  ],
-  [
-    [
-      "2025-01-31, 21:01:45",
-      "https://news.ycombinator.com/item?id=42891937"
-    ],
-    [
-      "LinuxPDF",
-      "https://github.com/ading2210/linuxpdf"
     ]
   ],
   [
@@ -165,7 +165,7 @@
       "https://news.ycombinator.com/item?id=42890389"
     ],
     [
-      "The Tensor Cookbook",
+      "The Tensor Cookbook (2024)",
       "https://tensorcookbook.com/"
     ]
   ],
@@ -181,22 +181,22 @@
   ],
   [
     [
-      "2025-01-31, 17:48:23",
-      "https://news.ycombinator.com/item?id=42889786"
-    ],
-    [
-      "Theoretical limitations of multi-layer Transformer",
-      "https://arxiv.org/abs/2412.02975"
-    ]
-  ],
-  [
-    [
       "2025-01-31, 17:37:40",
       "https://news.ycombinator.com/item?id=42889700"
     ],
     [
       "Living with Nausea: My Story in Six Charts",
       "https://www.c82.net/blog/?id=96"
+    ]
+  ],
+  [
+    [
+      "2025-01-31, 17:14:12",
+      "https://news.ycombinator.com/item?id=42889465"
+    ],
+    [
+      "Shell-ish scripting in Go with ease",
+      "https://github.com/bitfield/script"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2025-01-31, 16:26:37",
-      "https://news.ycombinator.com/item?id=42889052"
-    ],
-    [
-      "Large Language Models Think Too Fast to Explore Effectively",
-      "https://arxiv.org/abs/2501.18009"
-    ]
-  ],
-  [
-    [
       "2025-01-31, 15:00:55",
       "https://news.ycombinator.com/item?id=42888326"
     ],
@@ -257,6 +247,16 @@
     [
       "AI and two hundred dollar tasks",
       "https://blog.ninlabs.com/blog/2025-01-27-two-hundred-dollar-tasks/"
+    ]
+  ],
+  [
+    [
+      "2025-01-28, 16:46:35",
+      "https://news.ycombinator.com/item?id=42854489"
+    ],
+    [
+      "What's the Root Cause? – a quiz",
+      "https://spike.sh/quiz"
     ]
   ],
   [
