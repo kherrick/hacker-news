@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-02-01, 03:44:50",
-      "https://news.ycombinator.com/item?id=42895453"
+      "2025-02-01, 04:02:12",
+      "https://news.ycombinator.com/item?id=42895529"
     ],
     [
-      "Treasury official retires after clash with DOGE over access to payment system",
-      "https://arstechnica.com/tech-policy/2025/01/musks-doge-clashes-with-treasury-over-access-to-payment-system-report-says/"
+      "Hypocrisy and politics in free and open source software projects",
+      "https://unixdigest.com/articles/hypocrisy-and-politics-in-free-and-open-source-software-projects.html"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "Scientists find links between Alzheimer's, herpes, and head trauma",
       "https://www.statnews.com/2025/01/07/alzheimers-disease-research-link-between-herpes-virus-head-trauma-dementia/"
-    ]
-  ],
-  [
-    [
-      "2025-01-31, 23:22:55",
-      "https://news.ycombinator.com/item?id=42893622"
-    ],
-    [
-      "Why Tracebit is written in C#",
-      "https://tracebit.com/blog/why-tracebit-is-written-in-c-sharp"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "AI and Two Hundred Dollar Tasks",
       "https://blog.ninlabs.com/blog/2025-01-27-two-hundred-dollar-tasks/"
+    ]
+  ],
+  [
+    [
+      "2025-01-28, 16:06:22",
+      "https://news.ycombinator.com/item?id=42853904"
+    ],
+    [
+      "When Greedy Algorithms Can Be Faster [C++]",
+      "https://16bpp.net/blog/post/when-greedy-algorithms-can-be-faster/"
     ]
   ],
   [
