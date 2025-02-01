@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-01](index.md)
 
 * [2025-02-01, 19:11:12](https://news.ycombinator.com/item?id=42901182) - [YouTube Audio Quality – How Good Does It Get?](https://www.audiomisc.co.uk/YouTube/SpotTheDifference.html)
+* [2025-02-01, 18:31:45](https://news.ycombinator.com/item?id=42900786) - [Delaware faces exodus of tech companies](https://www.newsweek.com/delaware-exodus-tech-meta-dropbox-elon-musk-2024596)
 * [2025-02-01, 18:08:12](https://news.ycombinator.com/item?id=42900528) - [The FAA's Real Air Traffic Control Crisis Runs Much Deeper](https://viewfromthewing.com/collision-on-final-approach-sparks-dei-blame-game-the-faas-real-air-traffic-control-crisis-runs-much-deeper/)
 * [2025-02-01, 17:15:12](https://news.ycombinator.com/item?id=42899975) - [Dell ends hybrid work policy, demands RTO despite remote work pledge](https://www.theregister.com/2025/01/31/dell_ends_hybrid_work_policy/)
 * [2025-02-01, 17:09:35](https://news.ycombinator.com/item?id=42899913) - [The Strike Is Coming](https://generalstrikeus.com)
@@ -15,6 +16,7 @@
 * [2025-02-01, 16:48:20](https://news.ycombinator.com/item?id=42899732) - [Revisiting Random Number Generation](https://swlody.dev/Posts/Revisiting-random-number-generation)
 * [2025-02-01, 16:46:01](https://news.ycombinator.com/item?id=42899713) - [Bzip3: A better and stronger spiritual successor to BZip2](https://github.com/kspalaiologos/bzip3)
 * [2025-02-01, 16:44:53](https://news.ycombinator.com/item?id=42899703) - [The Next Chapter in Swift Build Technologies](https://www.swift.org/blog/the-next-chapter-in-swift-build-technologies/)
+* [2025-02-01, 16:41:53](https://news.ycombinator.com/item?id=42899679) - [Smart fabric heats up under the sun](https://uwaterloo.ca/news/media/smart-fabric-heats-under-sun)
 * [2025-02-01, 16:32:29](https://news.ycombinator.com/item?id=42899606) - [Addiction Economy](https://www.profgalloway.com/addiction-economy/)
 * [2025-02-01, 15:49:25](https://news.ycombinator.com/item?id=42899261) - [Over 90% of U.S. airport towers are understaffed, data shows](https://www.cbsnews.com/news/over-90-percent-u-s-airport-towers-understaffed-air-traffic-controllers-data-shows/)
 * [2025-02-01, 15:41:08](https://news.ycombinator.com/item?id=42899184) - [Large Language Models for Mathematicians](https://arxiv.org/abs/2312.04556)
