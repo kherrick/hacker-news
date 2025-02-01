@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-01, 12:36:57](https://news.ycombinator.com/item?id=42897871) - [The Zizians and the Rationalist Death Cult](https://maxread.substack.com/p/the-zizians-and-the-rationalist-death)
+* [2025-02-01, 12:16:17](https://news.ycombinator.com/item?id=42897785) - [Running DeepSeek R1 on Your Own (cheap) Hardware – The fast and easy way](https://linux-howto.org/running-deepseek-r1-on-your-own-hardware-the-fast-and-easy-way)
 * [2025-02-01, 11:52:18](https://news.ycombinator.com/item?id=42897696) - [CDC Data Are Disappearing](https://www.theatlantic.com/health/archive/2025/01/cdc-dei-scientific-data/681531/)
 * [2025-02-01, 11:43:33](https://news.ycombinator.com/item?id=42897662) - [Show HN: TalkNotes – A site that turns your ideas into tasks](https://www.talknotes.tech/)
 * [2025-02-01, 09:54:48](https://news.ycombinator.com/item?id=42897254) - [FOSDEM 2025: Streaming Schedule](https://fosdem.org/2025/schedule/streaming/)
@@ -8,7 +9,6 @@
 * [2025-02-01, 09:27:06](https://news.ycombinator.com/item?id=42897120) - [Visualizing all books of the world in ISBN-Space](https://phiresky.github.io/blog/2025/visualizing-all-books-in-isbn-space/)
 * [2025-02-01, 09:11:37](https://news.ycombinator.com/item?id=42897041) - [How to turn off Apple Intelligence](https://www.asurion.com/connect/tech-tips/turn-off-apple-intelligence/)
 * [2025-02-01, 08:00:34](https://news.ycombinator.com/item?id=42896716) - [Show HN: Perforator – cluster-wide profiling tool for large data centers](https://github.com/yandex/perforator)
-* [2025-02-01, 07:59:36](https://news.ycombinator.com/item?id=42896710) - [The Severance writer and cast on corporate cults, sci-fi, and more](https://arstechnica.com/culture/2025/01/the-severance-writer-and-cast-on-corporate-cults-sci-fi-and-more/)
 * [2025-02-01, 07:54:04](https://news.ycombinator.com/item?id=42896682) - [Reflections on Palantir](https://nabeelqu.co/reflections-on-palantir)
 * [2025-02-01, 07:01:07](https://news.ycombinator.com/item?id=42896387) - [List of 200 UK companies that moved to 4-day working week](https://future4days.com/list-of-200-uk-companies-that-moved-to-4-day-working-week/)
 * [2025-02-01, 06:53:54](https://news.ycombinator.com/item?id=42896351) - [Shades of Blunders](https://lichess.org/@/theScot/blog/50-shades-of-blunders/84VpVCDn)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-01](index.md)
 
 * [2025-02-01, 12:36:57](https://news.ycombinator.com/item?id=42897871) - [The Zizians and the Rationalist Death Cult](https://maxread.substack.com/p/the-zizians-and-the-rationalist-death)
+* [2025-02-01, 12:16:17](https://news.ycombinator.com/item?id=42897785) - [Running DeepSeek R1 on Your Own (cheap) Hardware – The fast and easy way](https://linux-howto.org/running-deepseek-r1-on-your-own-hardware-the-fast-and-easy-way)
 * [2025-02-01, 11:52:18](https://news.ycombinator.com/item?id=42897696) - [CDC Data Are Disappearing](https://www.theatlantic.com/health/archive/2025/01/cdc-dei-scientific-data/681531/)
 * [2025-02-01, 11:43:33](https://news.ycombinator.com/item?id=42897662) - [Show HN: TalkNotes – A site that turns your GENIUS IDEAS into tasks](https://www.talknotes.tech/)
 * [2025-02-01, 09:54:48](https://news.ycombinator.com/item?id=42897254) - [FOSDEM 2025: Streaming Schedule](https://fosdem.org/2025/schedule/streaming/)
