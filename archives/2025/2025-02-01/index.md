@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-01](index.md)
 
+* [2025-02-01, 03:44:50](https://news.ycombinator.com/item?id=42895453) - [Treasury official retires after clash with DOGE over access to payment system](https://arstechnica.com/tech-policy/2025/01/musks-doge-clashes-with-treasury-over-access-to-payment-system-report-says/)
 * [2025-02-01, 03:21:35](https://news.ycombinator.com/item?id=42895332) - [Hell Is Overconfident Developers Writing Encryption Code](https://soatok.blog/2025/01/31/hell-is-overconfident-developers-writing-encryption-code/)
 * [2025-02-01, 03:21:25](https://news.ycombinator.com/item?id=42895331) - [The government information crisis is bigger than you think it is](https://freegovinfo.info/node/14747/)
 * [2025-02-01, 01:30:02](https://news.ycombinator.com/item?id=42894708) - [Decision to dump water from Tulare County lakes altered after confusing locals](https://sjvwater.org/decision-to-dump-water-from-tulare-county-lakes-altered-after-sending-locals-in-mad-scramble/)
