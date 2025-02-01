@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-01, 15:41:08](https://news.ycombinator.com/item?id=42899184) - [Large Language Models for Mathematicians](https://arxiv.org/abs/2312.04556)
+* [2025-02-01, 15:12:22](https://news.ycombinator.com/item?id=42898914) - [Gradual Disempowerment: How Even Incremental AI Progress Poses Existential Risks](https://arxiv.org/abs/2501.16946)
 * [2025-02-01, 13:36:48](https://news.ycombinator.com/item?id=42898182) - [Island residents are still dealing with the fallout of exploded Starship](https://www.cnn.com/2025/01/30/science/spacex-starship-explosion-debris-turks-caicos/index.html)
 * [2025-02-01, 12:03:51](https://news.ycombinator.com/item?id=42897746) - [Ratzilla](https://orhun.dev/ratzilla/demo/)
 * [2025-02-01, 11:43:33](https://news.ycombinator.com/item?id=42897662) - [Show HN: TalkNotes – A site that turns your ideas into tasks](https://www.talknotes.tech/)
@@ -13,7 +14,6 @@
 * [2025-02-01, 03:38:50](https://news.ycombinator.com/item?id=42895424) - [Study on the Prohibition of the Purple Costumes in Ancient China (2013) [pdf]](https://pdfs.semanticscholar.org/51a0/11be16a3bf27fabad86d48765624a209cdb2.pdf)
 * [2025-02-01, 00:22:57](https://news.ycombinator.com/item?id=42894200) - [Earthstar – A database for private, distributed, offline-first applications](https://earthstar-project.org/)
 * [2025-01-31, 23:44:00](https://news.ycombinator.com/item?id=42893844) - [Sparrow, a modern C++ implementation of the Apache Arrow columnar format](https://johan-mabille.medium.com/sparrow-1f23817f6696)
-* [2025-01-31, 23:23:25](https://news.ycombinator.com/item?id=42893627) - [Scientists find links between Alzheimer's, herpes, and head trauma](https://www.statnews.com/2025/01/07/alzheimers-disease-research-link-between-herpes-virus-head-trauma-dementia/)
 * [2025-01-31, 23:22:55](https://news.ycombinator.com/item?id=42893622) - [Why Tracebit is written in C#](https://tracebit.com/blog/why-tracebit-is-written-in-c-sharp)
 * [2025-01-31, 19:55:14](https://news.ycombinator.com/item?id=42891200) - [Elite on the 6502: The original 6502 assembly source, heavily commented](https://elite.bbcelite.com/)
 * [2025-01-31, 19:41:49](https://news.ycombinator.com/item?id=42891042) - [Bypass DeepSeek censorship by speaking in hex](https://substack.com/home/post/p-156004330)

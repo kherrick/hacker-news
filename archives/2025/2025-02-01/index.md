@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-01](index.md)
 
 * [2025-02-01, 15:41:08](https://news.ycombinator.com/item?id=42899184) - [Large Language Models for Mathematicians](https://arxiv.org/abs/2312.04556)
+* [2025-02-01, 15:12:22](https://news.ycombinator.com/item?id=42898914) - [Gradual Disempowerment: How Even Incremental AI Progress Poses Existential Risks](https://arxiv.org/abs/2501.16946)
 * [2025-02-01, 13:59:35](https://news.ycombinator.com/item?id=42898323) - [The Zizians](https://zizians.info/)
 * [2025-02-01, 13:36:48](https://news.ycombinator.com/item?id=42898182) - [Island residents are still dealing with the fallout of exploded Starship](https://www.cnn.com/2025/01/30/science/spacex-starship-explosion-debris-turks-caicos/index.html)
 * [2025-02-01, 12:36:57](https://news.ycombinator.com/item?id=42897871) - [The Zizians and the Rationalist Death Cult](https://maxread.substack.com/p/the-zizians-and-the-rationalist-death)
