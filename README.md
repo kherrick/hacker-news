@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-01, 08:00:34](https://news.ycombinator.com/item?id=42896716) - [Show HN: Perforator – cluster-wide profiling tool for large data centers](https://github.com/yandex/perforator)
-* [2025-02-01, 07:59:36](https://news.ycombinator.com/item?id=42896710) - [The Severance writer and cast on corporate cults, sci-fi, and more](https://arstechnica.com/culture/2025/01/the-severance-writer-and-cast-on-corporate-cults-sci-fi-and-more/)
 * [2025-02-01, 06:53:54](https://news.ycombinator.com/item?id=42896351) - [Shades of Blunders](https://lichess.org/@/theScot/blog/50-shades-of-blunders/84VpVCDn)
 * [2025-02-01, 06:26:07](https://news.ycombinator.com/item?id=42896188) - [Norway's wealth fund now worth $319,900 per citizen](https://sherwood.news/world/norways-wealth-fund-reports-record-profits-worth-usd319-900-citizen/)
 * [2025-02-01, 03:21:35](https://news.ycombinator.com/item?id=42895332) - [Hell is overconfident developers writing encryption code](https://soatok.blog/2025/01/31/hell-is-overconfident-developers-writing-encryption-code/)
@@ -27,6 +26,7 @@
 * [2025-01-31, 16:36:23](https://news.ycombinator.com/item?id=42889139) - [Fixing E.T. The Extra-Terrestrial for the Atari 2600 (2013)](http://www.neocomputer.org/projects/et/)
 * [2025-01-29, 05:15:45](https://news.ycombinator.com/item?id=42861815) - [Auto-Differentiating Any LLM Workflow: A Farewell to Manual Prompting](https://arxiv.org/abs/2501.16673)
 * [2025-01-28, 17:54:03](https://news.ycombinator.com/item?id=42855542) - [AI and two hundred dollar tasks](https://blog.ninlabs.com/blog/2025-01-27-two-hundred-dollar-tasks/)
+* [2025-01-28, 16:06:22](https://news.ycombinator.com/item?id=42853904) - [When Greedy Algorithms Can Be Faster [C++]](https://16bpp.net/blog/post/when-greedy-algorithms-can-be-faster/)
 * [2025-01-28, 07:26:01](https://news.ycombinator.com/item?id=42849774) - [In Zig, what's a writer?](https://www.openmymind.net/In-Zig-Whats-a-Writer/)
 * [2025-01-28, 00:29:46](https://news.ycombinator.com/item?id=42847533) - [Show HN: Lua-libuv – A Lua with libuv experiments](https://github.com/joaoneto/lua-libuv)
 * [2025-01-27, 20:18:38](https://news.ycombinator.com/item?id=42845169) - [Better Know a Ruby Thing: Singleton Classes](https://noelrappin.com/blog/2025/01/better-know-a-ruby-thing-singleton-classes/)
