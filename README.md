@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-01, 22:54:04](https://news.ycombinator.com/item?id=42903336) - [Philip Low Unmasking Musk](https://bsky.app/profile/brainking.bsky.social/post/3lgsco7cdnc26)
 * [2025-02-01, 22:11:45](https://news.ycombinator.com/item?id=42902936) - [RLHF Book](https://rlhfbook.com/)
 * [2025-02-01, 21:46:16](https://news.ycombinator.com/item?id=42902691) - [Macrodata Refinement](https://lumon-industries.com/)
 * [2025-02-01, 21:39:03](https://news.ycombinator.com/item?id=42902624) - [New thermogalvanic tech paves way for more efficient fridges](https://cosmosmagazine.com/science/chemistry/improved-fridge-technology/)
@@ -26,7 +27,6 @@
 * [2025-01-30, 19:40:33](https://news.ycombinator.com/item?id=42881367) - [Archivists work to save disappearing data.gov datasets](https://www.404media.co/archivists-work-to-identify-and-save-the-thousands-of-datasets-disappearing-from-data-gov/)
 * [2025-01-30, 14:21:20](https://news.ycombinator.com/item?id=42877910) - [String of recent killings linked to Bay Area rationalist 'death cult'](https://www.sfgate.com/bayarea/article/bay-area-death-cult-zizian-murders-20064333.php)
 * [2025-01-29, 14:59:23](https://news.ycombinator.com/item?id=42865611) - [Enhancing your MIDI devices with Perl](https://fuzzix.org/enhancing-midi-hardware-with-perl)
-* [2025-01-28, 23:33:08](https://news.ycombinator.com/item?id=42859564) - [Blogging on Paper (2017)](https://conroy.org/blogging-on-paper)
 * [2025-01-28, 23:14:03](https://news.ycombinator.com/item?id=42859412) - [3D scene reconstruction in adverse weather conditions via Gaussian splatting](https://arxiv.org/abs/2412.18862)
 * [2025-01-28, 21:08:17](https://news.ycombinator.com/item?id=42858029) - [Newsstands, 2012-2019](https://www.trevortraynor.com/newsstands)
 * [2025-01-28, 07:26:01](https://news.ycombinator.com/item?id=42849774) - [In Zig, what's a writer?](https://www.openmymind.net/In-Zig-Whats-a-Writer/)
