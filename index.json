@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=42896131"
     ],
     [
-      "I Miss Vim",
+      "I miss Vim",
       "https://leblancfg.com/i-miss-vim.html"
     ]
   ],
@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=42895108"
     ],
     [
-      "Open source alternative to Postman / Insomnia",
+      "Hoppscotch: Open source alternative to Postman / Insomnia",
       "https://github.com/hoppscotch/hoppscotch"
     ]
   ],
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=42894215"
     ],
     [
-      "Notes on OpenAI O3-Mini",
+      "Notes on OpenAI o3-mini",
       "https://simonwillison.net/2025/Jan/31/o3-mini/"
     ]
   ],
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=42893844"
     ],
     [
-      "Sparrow, a Modern C++ Implementation of the Apache Arrow Columnar Format",
+      "Sparrow, a modern C++ implementation of the Apache Arrow columnar format",
       "https://johan-mabille.medium.com/sparrow-1f23817f6696"
     ]
   ],
@@ -107,16 +107,6 @@
     [
       "Designing Great Watchdog Timers for Embedded Systems",
       "https://www.ganssle.com/watchdogs.htm"
-    ]
-  ],
-  [
-    [
-      "2025-01-31, 21:20:40",
-      "https://news.ycombinator.com/item?id=42892191"
-    ],
-    [
-      "Add \"fucking\" to your Google searches to neutralize AI summaries",
-      "https://gizmodo.com/add-fcking-to-your-google-searches-to-neutralize-ai-summaries-2000557710"
     ]
   ],
   [
@@ -201,6 +191,16 @@
   ],
   [
     [
+      "2025-01-31, 17:37:40",
+      "https://news.ycombinator.com/item?id=42889700"
+    ],
+    [
+      "Living with Nausea: My Story in Six Charts",
+      "https://www.c82.net/blog/?id=96"
+    ]
+  ],
+  [
+    [
       "2025-01-31, 17:07:01",
       "https://news.ycombinator.com/item?id=42889407"
     ],
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2025-01-31, 15:00:55",
+      "https://news.ycombinator.com/item?id=42888326"
+    ],
+    [
+      "Images reveal exocomets around nearby stars",
+      "https://skyandtelescope.org/astronomy-news/new-images-reveal-exocomets-around-74-nearby-stars/"
+    ]
+  ],
+  [
+    [
       "2025-01-28, 17:54:03",
       "https://news.ycombinator.com/item?id=42855542"
     ],
@@ -261,21 +271,11 @@
   ],
   [
     [
-      "2025-01-28, 14:27:03",
-      "https://news.ycombinator.com/item?id=42852643"
-    ],
-    [
-      "A Missing Link Between Concussion and Alzheimer's",
-      "https://nautil.us/a-missing-link-between-concussion-and-alzheimers-1184691/"
-    ]
-  ],
-  [
-    [
       "2025-01-28, 07:26:01",
       "https://news.ycombinator.com/item?id=42849774"
     ],
     [
-      "In Zig, What's a Writer?",
+      "In Zig, what's a writer?",
       "https://www.openmymind.net/In-Zig-Whats-a-Writer/"
     ]
   ],
