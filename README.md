@@ -20,7 +20,6 @@
 * [2025-01-31, 18:47:51](https://news.ycombinator.com/item?id=42890389) - [The Tensor Cookbook](https://tensorcookbook.com/)
 * [2025-01-31, 18:36:43](https://news.ycombinator.com/item?id=42890290) - [FBI, Dutch police disrupt 'Manipulaters' phishing gang](https://krebsonsecurity.com/2025/01/fbi-dutch-police-disrupt-manipulaters-phishing-gang/)
 * [2025-01-31, 17:48:23](https://news.ycombinator.com/item?id=42889786) - [Theoretical limitations of multi-layer Transformer](https://arxiv.org/abs/2412.02975)
-* [2025-01-31, 17:37:40](https://news.ycombinator.com/item?id=42889700) - [Living with Nausea: My Story in Six Charts](https://www.c82.net/blog/?id=96)
 * [2025-01-31, 17:07:01](https://news.ycombinator.com/item?id=42889407) - [Show HN: Uscope, a new Linux debugger written from scratch](https://github.com/jcalabro/uscope)
 * [2025-01-31, 16:55:26](https://news.ycombinator.com/item?id=42889308) - [Zusie – My Relay Computer](http://www.nablaman.com/relay/about.php)
 * [2025-01-31, 16:36:23](https://news.ycombinator.com/item?id=42889139) - [Fixing E.T. The Extra-Terrestrial for the Atari 2600 (2013)](http://www.neocomputer.org/projects/et/)
@@ -28,6 +27,7 @@
 * [2025-01-28, 17:54:03](https://news.ycombinator.com/item?id=42855542) - [AI and Two Hundred Dollar Tasks](https://blog.ninlabs.com/blog/2025-01-27-two-hundred-dollar-tasks/)
 * [2025-01-28, 16:06:22](https://news.ycombinator.com/item?id=42853904) - [When Greedy Algorithms Can Be Faster [C++]](https://16bpp.net/blog/post/when-greedy-algorithms-can-be-faster/)
 * [2025-01-28, 14:27:03](https://news.ycombinator.com/item?id=42852643) - [A Missing Link Between Concussion and Alzheimer's](https://nautil.us/a-missing-link-between-concussion-and-alzheimers-1184691/)
+* [2025-01-28, 07:26:01](https://news.ycombinator.com/item?id=42849774) - [In Zig, What's a Writer?](https://www.openmymind.net/In-Zig-Whats-a-Writer/)
 * [2025-01-28, 00:29:46](https://news.ycombinator.com/item?id=42847533) - [Show HN: Lua-libuv – A Lua with libuv experiments](https://github.com/joaoneto/lua-libuv)
 * [2025-01-27, 20:18:38](https://news.ycombinator.com/item?id=42845169) - [Better Know a Ruby Thing: Singleton Classes](https://noelrappin.com/blog/2025/01/better-know-a-ruby-thing-singleton-classes/)
 
