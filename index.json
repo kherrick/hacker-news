@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-02-01, 07:54:04",
+      "https://news.ycombinator.com/item?id=42896682"
+    ],
+    [
+      "Reflections on palantir – Nabeel S. Qureshi",
+      "https://nabeelqu.co/reflections-on-palantir"
+    ]
+  ],
+  [
+    [
       "2025-02-01, 07:01:07",
       "https://news.ycombinator.com/item?id=42896387"
     ],
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2025-02-01, 00:25:43",
-      "https://news.ycombinator.com/item?id=42894220"
-    ],
-    [
-      "Falsehoods programmers believe about null pointers",
-      "https://purplesyringa.moe/blog/falsehoods-programmers-believe-about-null-pointers/"
-    ]
-  ],
-  [
-    [
       "2025-02-01, 00:24:42",
       "https://news.ycombinator.com/item?id=42894215"
     ],
@@ -137,16 +137,6 @@
     [
       "Why Tracebit is written in C#",
       "https://tracebit.com/blog/why-tracebit-is-written-in-c-sharp"
-    ]
-  ],
-  [
-    [
-      "2025-01-31, 21:00:11",
-      "https://news.ycombinator.com/item?id=42891909"
-    ],
-    [
-      "FurtherAI (YC W24) Is Hiring engineers and researchers to build Vertical AI agents",
-      "https://www.ycombinator.com/companies/furtherai/jobs"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "In Zig, what's a writer?",
       "https://www.openmymind.net/In-Zig-Whats-a-Writer/"
+    ]
+  ],
+  [
+    [
+      "2025-01-28, 00:29:46",
+      "https://news.ycombinator.com/item?id=42847533"
+    ],
+    [
+      "Show HN: Lua-libuv – A Lua with libuv experiments",
+      "https://github.com/joaoneto/lua-libuv"
     ]
   ],
   [
