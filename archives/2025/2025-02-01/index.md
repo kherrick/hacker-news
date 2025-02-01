@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-01](index.md)
 
+* [2025-02-01, 11:52:18](https://news.ycombinator.com/item?id=42897696) - [CDC Data Are Disappearing](https://www.theatlantic.com/health/archive/2025/01/cdc-dei-scientific-data/681531/)
 * [2025-02-01, 11:43:33](https://news.ycombinator.com/item?id=42897662) - [Show HN: TalkNotes – A site that turns your GENIUS IDEAS into tasks](https://www.talknotes.tech/)
 * [2025-02-01, 09:54:48](https://news.ycombinator.com/item?id=42897254) - [FOSDEM 2025: Streaming Schedule](https://fosdem.org/2025/schedule/streaming/)
 * [2025-02-01, 09:46:43](https://news.ycombinator.com/item?id=42897205) - [How to Run DeepSeek R1 671B Locally on a $2000 EPYC Server](https://digitalspaceport.com/how-to-run-deepseek-r1-671b-fully-locally-on-2000-epyc-rig/)
