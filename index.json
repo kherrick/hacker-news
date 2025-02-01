@@ -11,26 +11,6 @@
   ],
   [
     [
-      "2025-02-01, 17:15:12",
-      "https://news.ycombinator.com/item?id=42899975"
-    ],
-    [
-      "Dell ends hybrid work policy, demands RTO despite remote work pledge",
-      "https://www.theregister.com/2025/01/31/dell_ends_hybrid_work_policy/"
-    ]
-  ],
-  [
-    [
-      "2025-02-01, 17:01:51",
-      "https://news.ycombinator.com/item?id=42899841"
-    ],
-    [
-      "ADHD Didn't Break Me–My Parents Did",
-      "https://claimingattention.substack.com/p/adhd-did-not-break-me-my-parents-did"
-    ]
-  ],
-  [
-    [
       "2025-02-01, 17:01:06",
       "https://news.ycombinator.com/item?id=42899834"
     ],
@@ -75,7 +55,7 @@
       "https://news.ycombinator.com/item?id=42899703"
     ],
     [
-      "The Next Chapter in Swift Build Technologies",
+      "Apple is open sourcing Swift Build",
       "https://www.swift.org/blog/the-next-chapter-in-swift-build-technologies/"
     ]
   ],
@@ -151,6 +131,16 @@
   ],
   [
     [
+      "2025-02-01, 08:00:34",
+      "https://news.ycombinator.com/item?id=42896716"
+    ],
+    [
+      "Show HN: Perforator – cluster-wide profiling tool for large data centers",
+      "https://github.com/yandex/perforator"
+    ]
+  ],
+  [
+    [
       "2025-02-01, 02:58:51",
       "https://news.ycombinator.com/item?id=42895228"
     ],
@@ -197,6 +187,16 @@
     [
       "Discovery of collagen in fossil bone could unlock new insights into dinosaurs",
       "https://news.liverpool.ac.uk/2025/01/31/discovery-of-collagen-in-fossil-bone-could-unlock-new-insights-into-dinosaurs/"
+    ]
+  ],
+  [
+    [
+      "2025-01-31, 19:55:14",
+      "https://news.ycombinator.com/item?id=42891200"
+    ],
+    [
+      "Elite on the 6502: The original 6502 assembly source, heavily commented",
+      "https://elite.bbcelite.com/"
     ]
   ],
   [
