@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-02-01](index.md)
 
+* [2025-02-01, 21:00:34](https://news.ycombinator.com/item?id=42902267) - [MindsDB (YC W20) Is Hiring an Office Manager in SF](https://grnh.se/83c3fffa7us)
 * [2025-02-01, 20:31:46](https://news.ycombinator.com/item?id=42901954) - [Usaid website has been taken down](https://www.usaid.gov/)
+* [2025-02-01, 20:31:46](https://news.ycombinator.com/item?id=42901954) - [USAID website has been taken down](https://www.reuters.com/world/us/website-usaid-appears-be-offline-2025-02-01/)
 * [2025-02-01, 20:24:57](https://news.ycombinator.com/item?id=42901897) - [Oracle Cloud deleting active user accounts without possibility for data recovery](https://mastodon.de/@ErikUden/113930010311998246)
 * [2025-02-01, 20:01:49](https://news.ycombinator.com/item?id=42901668) - [Ask HN: Recommendations for a Linux Distro and Laptop?](https://news.ycombinator.com/item?id=42901668)
 * [2025-02-01, 19:57:37](https://news.ycombinator.com/item?id=42901616) - [Python 3, Pygame, and Debian Bookworm on the Miyoo A30](https://www.jtolio.com/2025/02/py3-pygame-miyoo-a30/)
