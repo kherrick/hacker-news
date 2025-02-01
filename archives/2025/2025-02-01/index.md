@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-02-01](index.md)
 
+* [2025-02-01, 11:43:33](https://news.ycombinator.com/item?id=42897662) - [Show HN: TalkNotes – A site that turns your GENIUS IDEAS into tasks](https://www.talknotes.tech/)
+* [2025-02-01, 09:54:48](https://news.ycombinator.com/item?id=42897254) - [FOSDEM 2025: Streaming Schedule](https://fosdem.org/2025/schedule/streaming/)
 * [2025-02-01, 09:46:43](https://news.ycombinator.com/item?id=42897205) - [How to Run DeepSeek R1 671B Locally on a $2000 EPYC Server](https://digitalspaceport.com/how-to-run-deepseek-r1-671b-fully-locally-on-2000-epyc-rig/)
 * [2025-02-01, 09:27:06](https://news.ycombinator.com/item?id=42897120) - [Visualizing all books of the world in ISBN-Space](https://phiresky.github.io/blog/2025/visualizing-all-books-in-isbn-space/)
+* [2025-02-01, 09:11:37](https://news.ycombinator.com/item?id=42897041) - [How to turn off Apple Intelligence](https://www.asurion.com/connect/tech-tips/turn-off-apple-intelligence/)
 * [2025-02-01, 08:00:34](https://news.ycombinator.com/item?id=42896716) - [Show HN: Perforator – cluster-wide profiling tool for large data centers](https://github.com/yandex/perforator)
 * [2025-02-01, 07:59:36](https://news.ycombinator.com/item?id=42896710) - [The Severance writer and cast on corporate cults, sci-fi, and more](https://arstechnica.com/culture/2025/01/the-severance-writer-and-cast-on-corporate-cults-sci-fi-and-more/)
 * [2025-02-01, 07:54:04](https://news.ycombinator.com/item?id=42896682) - [Reflections on palantir – Nabeel S. Qureshi](https://nabeelqu.co/reflections-on-palantir)
