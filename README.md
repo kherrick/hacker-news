@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-01, 03:44:50](https://news.ycombinator.com/item?id=42895453) - [Treasury official retires after clash with DOGE over access to payment system](https://arstechnica.com/tech-policy/2025/01/musks-doge-clashes-with-treasury-over-access-to-payment-system-report-says/)
+* [2025-02-01, 04:02:12](https://news.ycombinator.com/item?id=42895529) - [Hypocrisy and politics in free and open source software projects](https://unixdigest.com/articles/hypocrisy-and-politics-in-free-and-open-source-software-projects.html)
 * [2025-02-01, 03:21:35](https://news.ycombinator.com/item?id=42895332) - [Hell Is Overconfident Developers Writing Encryption Code](https://soatok.blog/2025/01/31/hell-is-overconfident-developers-writing-encryption-code/)
 * [2025-02-01, 03:21:25](https://news.ycombinator.com/item?id=42895331) - [The government information crisis is bigger than you think it is](https://freegovinfo.info/node/14747/)
 * [2025-02-01, 01:30:02](https://news.ycombinator.com/item?id=42894708) - [Decision to dump water from Tulare County lakes altered after confusing locals](https://sjvwater.org/decision-to-dump-water-from-tulare-county-lakes-altered-after-sending-locals-in-mad-scramble/)
@@ -10,7 +10,6 @@
 * [2025-02-01, 00:22:57](https://news.ycombinator.com/item?id=42894200) - [Earthstar – A database for private, distributed, offline-first applications](https://earthstar-project.org/)
 * [2025-01-31, 23:44:00](https://news.ycombinator.com/item?id=42893844) - [Sparrow, a Modern C++ Implementation of the Apache Arrow Columnar Format](https://johan-mabille.medium.com/sparrow-1f23817f6696)
 * [2025-01-31, 23:23:25](https://news.ycombinator.com/item?id=42893627) - [Scientists find links between Alzheimer's, herpes, and head trauma](https://www.statnews.com/2025/01/07/alzheimers-disease-research-link-between-herpes-virus-head-trauma-dementia/)
-* [2025-01-31, 23:22:55](https://news.ycombinator.com/item?id=42893622) - [Why Tracebit is written in C#](https://tracebit.com/blog/why-tracebit-is-written-in-c-sharp)
 * [2025-01-31, 23:00:34](https://news.ycombinator.com/item?id=42893393) - [Designing Great Watchdog Timers for Embedded Systems](https://www.ganssle.com/watchdogs.htm)
 * [2025-01-31, 21:20:40](https://news.ycombinator.com/item?id=42892191) - [Add \"fucking\" to your Google searches to neutralize AI summaries](https://gizmodo.com/add-fcking-to-your-google-searches-to-neutralize-ai-summaries-2000557710)
 * [2025-01-31, 21:01:45](https://news.ycombinator.com/item?id=42891937) - [LinuxPDF](https://github.com/ading2210/linuxpdf)
@@ -26,6 +25,7 @@
 * [2025-01-31, 16:36:23](https://news.ycombinator.com/item?id=42889139) - [Fixing E.T. The Extra-Terrestrial for the Atari 2600 (2013)](http://www.neocomputer.org/projects/et/)
 * [2025-01-31, 16:26:37](https://news.ycombinator.com/item?id=42889052) - [Large Language Models Think Too Fast to Explore Effectively](https://arxiv.org/abs/2501.18009)
 * [2025-01-28, 17:54:03](https://news.ycombinator.com/item?id=42855542) - [AI and Two Hundred Dollar Tasks](https://blog.ninlabs.com/blog/2025-01-27-two-hundred-dollar-tasks/)
+* [2025-01-28, 16:06:22](https://news.ycombinator.com/item?id=42853904) - [When Greedy Algorithms Can Be Faster [C++]](https://16bpp.net/blog/post/when-greedy-algorithms-can-be-faster/)
 * [2025-01-28, 14:27:03](https://news.ycombinator.com/item?id=42852643) - [A Missing Link Between Concussion and Alzheimer's](https://nautil.us/a-missing-link-between-concussion-and-alzheimers-1184691/)
 * [2025-01-28, 13:08:57](https://news.ycombinator.com/item?id=42851880) - [Facebook free bikes dumped by employees and police hassle kids who ride them](https://www.businessinsider.com/facebook-bikes-locals-stopped-police-riding-employee-bikes-2019-2)
 * [2025-01-28, 00:29:46](https://news.ycombinator.com/item?id=42847533) - [Show HN: Lua-libuv – A Lua with libuv experiments](https://github.com/joaoneto/lua-libuv)
