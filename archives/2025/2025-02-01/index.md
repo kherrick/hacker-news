@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-02-01](index.md)
 
+* [2025-02-01, 21:46:16](https://news.ycombinator.com/item?id=42902691) - [Macrodata Refinement](https://lumon-industries.com/)
+* [2025-02-01, 21:44:59](https://news.ycombinator.com/item?id=42902678) - [USDA Inspector General Who Refused to Leave Escorted from Office by Security](https://gizmodo.com/usda-inspector-general-who-refused-to-leave-post-escorted-from-office-by-security-2000556605)
+* [2025-02-01, 21:39:03](https://news.ycombinator.com/item?id=42902624) - [New thermogalvanic tech paves way for more efficient fridges](https://cosmosmagazine.com/science/chemistry/improved-fridge-technology/)
 * [2025-02-01, 21:29:53](https://news.ycombinator.com/item?id=42902554) - [Air traffic controller 'left work early', one was left to handle the air traffic](https://www.independent.co.uk/news/world/americas/plane-crash-washington-air-traffic-controllers-b2689997.html)
 * [2025-02-01, 21:12:37](https://news.ycombinator.com/item?id=42902395) - [A bookmarklet to kill sticky headers](https://alisdair.mcdiarmid.org/kill-sticky-headers/)
 * [2025-02-01, 21:09:06](https://news.ycombinator.com/item?id=42902355) - [Phyllis Fong, who was investigating Neuralink, \"forcefully removed \"](https://timesofindia.indiatimes.com/technology/tech-news/phyllis-fong-who-was-investigating-elon-musks-brain-implant-startup-neuralink-forcefully-removed-from-office-after-refusing-termination-order/articleshow/117800543.cms)
@@ -37,6 +40,7 @@
 * [2025-02-01, 15:12:22](https://news.ycombinator.com/item?id=42898914) - [Gradual Disempowerment: How Even Incremental AI Progress Poses Existential Risks](https://arxiv.org/abs/2501.16946)
 * [2025-02-01, 14:57:30](https://news.ycombinator.com/item?id=42898771) - [Datasets from Data.gov Have Disappeared](https://mashable.com/article/government-datasets-disappear-since-trump-inauguration)
 * [2025-02-01, 13:59:35](https://news.ycombinator.com/item?id=42898323) - [The Zizians](https://zizians.info/)
+* [2025-02-01, 13:41:19](https://news.ycombinator.com/item?id=42898201) - [Show HN: We're building a desktop app for browser agents](https://meha.ai)
 * [2025-02-01, 13:36:48](https://news.ycombinator.com/item?id=42898182) - [Island residents are still dealing with the fallout of exploded Starship](https://www.cnn.com/2025/01/30/science/spacex-starship-explosion-debris-turks-caicos/index.html)
 * [2025-02-01, 12:36:57](https://news.ycombinator.com/item?id=42897871) - [The Zizians and the Rationalist Death Cult](https://maxread.substack.com/p/the-zizians-and-the-rationalist-death)
 * [2025-02-01, 12:16:17](https://news.ycombinator.com/item?id=42897785) - [Running DeepSeek R1 on Your Own (cheap) Hardware – The fast and easy way](https://linux-howto.org/running-deepseek-r1-on-your-own-hardware-the-fast-and-easy-way)
