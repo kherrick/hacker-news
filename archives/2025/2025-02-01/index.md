@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-01](index.md)
 
+* [2025-02-01, 13:59:35](https://news.ycombinator.com/item?id=42898323) - [The Zizians](https://zizians.info/)
 * [2025-02-01, 12:36:57](https://news.ycombinator.com/item?id=42897871) - [The Zizians and the Rationalist Death Cult](https://maxread.substack.com/p/the-zizians-and-the-rationalist-death)
 * [2025-02-01, 12:16:17](https://news.ycombinator.com/item?id=42897785) - [Running DeepSeek R1 on Your Own (cheap) Hardware – The fast and easy way](https://linux-howto.org/running-deepseek-r1-on-your-own-hardware-the-fast-and-easy-way)
 * [2025-02-01, 12:03:51](https://news.ycombinator.com/item?id=42897746) - [Ratzilla](https://orhun.dev/ratzilla/demo/)
@@ -22,6 +23,8 @@
 * [2025-02-01, 06:12:30](https://news.ycombinator.com/item?id=42896131) - [I Miss Vim](https://leblancfg.com/i-miss-vim.html)
 * [2025-02-01, 04:02:12](https://news.ycombinator.com/item?id=42895529) - [Hypocrisy and politics in free and open source software projects](https://unixdigest.com/articles/hypocrisy-and-politics-in-free-and-open-source-software-projects.html)
 * [2025-02-01, 03:44:50](https://news.ycombinator.com/item?id=42895453) - [Treasury official retires after clash with DOGE over access to payment system](https://arstechnica.com/tech-policy/2025/01/musks-doge-clashes-with-treasury-over-access-to-payment-system-report-says/)
+* [2025-02-01, 03:38:50](https://news.ycombinator.com/item?id=42895424) - [Study on the Prohibition of the Purple Costumes in Ancient China (2013) [pdf]](https://pdfs.semanticscholar.org/51a0/11be16a3bf27fabad86d48765624a209cdb2.pdf)
+* [2025-02-01, 03:28:03](https://news.ycombinator.com/item?id=42895370) - [What we get wrong about athleticism](https://www.nytimes.com/athletic/6096850/2025/01/30/patrick-mahomes-nikoa-jokic-body-athletes-workout/)
 * [2025-02-01, 03:21:35](https://news.ycombinator.com/item?id=42895332) - [Hell Is Overconfident Developers Writing Encryption Code](https://soatok.blog/2025/01/31/hell-is-overconfident-developers-writing-encryption-code/)
 * [2025-02-01, 03:21:25](https://news.ycombinator.com/item?id=42895331) - [The government information crisis is bigger than you think it is](https://freegovinfo.info/node/14747/)
 * [2025-02-01, 02:36:55](https://news.ycombinator.com/item?id=42895108) - [Open source alternative to Postman / Insomnia](https://github.com/hoppscotch/hoppscotch)
