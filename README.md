@@ -2,6 +2,7 @@
 
 * [2025-02-01, 17:01:06](https://news.ycombinator.com/item?id=42899834) - [Reprompt (YC W24) is hiring an AI Engineer to build world class Location Data](https://www.ycombinator.com/companies/reprompt/jobs/YfQBWDH-founding-engineer)
 * [2025-02-01, 16:48:20](https://news.ycombinator.com/item?id=42899732) - [Revisiting Random Number Generation](https://swlody.dev/Posts/Revisiting-random-number-generation)
+* [2025-02-01, 16:46:01](https://news.ycombinator.com/item?id=42899713) - [Bzip3: A better and stronger spiritual successor to BZip2](https://github.com/kspalaiologos/bzip3)
 * [2025-02-01, 16:44:53](https://news.ycombinator.com/item?id=42899703) - [The Next Chapter in Swift Build Technologies](https://www.swift.org/blog/the-next-chapter-in-swift-build-technologies/)
 * [2025-02-01, 15:49:25](https://news.ycombinator.com/item?id=42899261) - [Over 90% of U.S. airport towers are understaffed, data shows](https://www.cbsnews.com/news/over-90-percent-u-s-airport-towers-understaffed-air-traffic-controllers-data-shows/)
 * [2025-02-01, 15:41:08](https://news.ycombinator.com/item?id=42899184) - [Large Language Models for Mathematicians](https://arxiv.org/abs/2312.04556)
@@ -20,7 +21,6 @@
 * [2025-01-31, 19:55:14](https://news.ycombinator.com/item?id=42891200) - [Elite on the 6502: The original 6502 assembly source, heavily commented](https://elite.bbcelite.com/)
 * [2025-01-31, 19:41:49](https://news.ycombinator.com/item?id=42891042) - [Bypass DeepSeek censorship by speaking in hex](https://substack.com/home/post/p-156004330)
 * [2025-01-31, 19:08:15](https://news.ycombinator.com/item?id=42890627) - [OpenAI O3-Mini](https://openai.com/index/openai-o3-mini/)
-* [2025-01-31, 18:47:51](https://news.ycombinator.com/item?id=42890389) - [The Tensor Cookbook (2024)](https://tensorcookbook.com/)
 * [2025-01-29, 16:54:25](https://news.ycombinator.com/item?id=42867588) - [Advanced radio telescope technology 'sifts' space for mysteries](https://phys.org/news/2025-01-advanced-radio-telescope-technology-sifts.html)
 * [2025-01-29, 05:15:45](https://news.ycombinator.com/item?id=42861815) - [Auto-Differentiating Any LLM Workflow: A Farewell to Manual Prompting](https://arxiv.org/abs/2501.16673)
 * [2025-01-28, 23:14:03](https://news.ycombinator.com/item?id=42859412) - [3D Scene Reconstruction in Adverse Weather Conditions via Gaussian Splatting](https://arxiv.org/abs/2412.18862)
