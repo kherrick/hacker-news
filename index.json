@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-02-01, 02:23:24",
-      "https://news.ycombinator.com/item?id=42895039"
-    ],
-    [
-      "Running DeepSeek R1 Models Locally on NPU",
-      "https://blogs.windows.com/windowsdeveloper/2025/01/29/running-distilled-deepseek-r1-models-locally-on-copilot-pcs-powered-by-windows-copilot-runtime/"
-    ]
-  ],
-  [
-    [
       "2025-02-01, 00:50:40",
       "https://news.ycombinator.com/item?id=42894425"
     ],
@@ -257,6 +247,16 @@
     [
       "Auto-Differentiating Any LLM Workflow: A Farewell to Manual Prompting",
       "https://arxiv.org/abs/2501.16673"
+    ]
+  ],
+  [
+    [
+      "2025-01-28, 23:33:08",
+      "https://news.ycombinator.com/item?id=42859564"
+    ],
+    [
+      "Blogging on Paper",
+      "https://conroy.org/blogging-on-paper"
     ]
   ],
   [
