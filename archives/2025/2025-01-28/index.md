@@ -77,6 +77,7 @@
 * [2025-01-28, 13:28:40](https://news.ycombinator.com/item?id=42852048) - [Show HN: Design/build of some elegant parametric speaker cabinets with OpenSCAD](https://calbryant.uk/blog/speakers/)
 * [2025-01-28, 13:08:57](https://news.ycombinator.com/item?id=42851880) - [Facebook free bikes dumped by employees and police hassle kids who ride them](https://www.businessinsider.com/facebook-bikes-locals-stopped-police-riding-employee-bikes-2019-2)
 * [2025-01-28, 13:04:05](https://news.ycombinator.com/item?id=42851839) - [HawkEye: A Simple license header checker and formatter in Rust](https://github.com/korandoru/hawkeye)
+* [2025-01-28, 12:58:47](https://news.ycombinator.com/item?id=42851782) - [HD Hyundai set to debut production 14 ton hydrogen wheeled excavator](https://electrek.co/2025/01/27/hd-hyundai-set-to-debut-production-14-ton-hydrogen-wheeled-excavator/)
 * [2025-01-28, 12:47:15](https://news.ycombinator.com/item?id=42851699) - [DeepSeek could represent Nvidia CEO Jensen Huang's worst nightmare](https://www.marketwatch.com/story/deepseek-could-represent-nvidia-ceo-jensen-huangs-worst-nightmare-573b6d7e)
 * [2025-01-28, 12:35:23](https://news.ycombinator.com/item?id=42851607) - [AI, but at What Cost? Breakdown of AI's Carbon Footprint](https://loopbreaker.substack.com/p/ai-but-at-what-cost-breakdown-of)
 * [2025-01-28, 12:20:44](https://news.ycombinator.com/item?id=42851519) - [Public Access OpenVMS System](https://decuserve.org/)
