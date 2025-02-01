@@ -11,6 +11,7 @@
 * [2025-02-01, 16:48:20](https://news.ycombinator.com/item?id=42899732) - [Revisiting Random Number Generation](https://swlody.dev/Posts/Revisiting-random-number-generation)
 * [2025-02-01, 16:46:01](https://news.ycombinator.com/item?id=42899713) - [Bzip3: A better and stronger spiritual successor to BZip2](https://github.com/kspalaiologos/bzip3)
 * [2025-02-01, 16:44:53](https://news.ycombinator.com/item?id=42899703) - [The Next Chapter in Swift Build Technologies](https://www.swift.org/blog/the-next-chapter-in-swift-build-technologies/)
+* [2025-02-01, 16:32:29](https://news.ycombinator.com/item?id=42899606) - [Addiction Economy](https://www.profgalloway.com/addiction-economy/)
 * [2025-02-01, 15:49:25](https://news.ycombinator.com/item?id=42899261) - [Over 90% of U.S. airport towers are understaffed, data shows](https://www.cbsnews.com/news/over-90-percent-u-s-airport-towers-understaffed-air-traffic-controllers-data-shows/)
 * [2025-02-01, 15:41:08](https://news.ycombinator.com/item?id=42899184) - [Large Language Models for Mathematicians](https://arxiv.org/abs/2312.04556)
 * [2025-02-01, 15:12:22](https://news.ycombinator.com/item?id=42898914) - [Gradual Disempowerment: How Even Incremental AI Progress Poses Existential Risks](https://arxiv.org/abs/2501.16946)
