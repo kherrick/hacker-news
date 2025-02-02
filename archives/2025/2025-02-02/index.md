@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-02](index.md)
 
+* [2025-02-02, 16:47:35](https://news.ycombinator.com/item?id=42909776) - [US Government Websites Are Disappearing in Real Time](https://www.wired.com/story/us-government-websites-are-disappearing-in-real-time/)
 * [2025-02-02, 14:01:02](https://news.ycombinator.com/item?id=42908676) - [What Is the Byzantine Generals Problem in Distributed Systems?](https://newsletter.scalablethread.com/p/what-is-the-byzantine-generals-problem)
 * [2025-02-02, 13:47:23](https://news.ycombinator.com/item?id=42908606) - [Whats your max wpm in typing?](https://news.ycombinator.com/item?id=42908606)
 * [2025-02-02, 13:38:20](https://news.ycombinator.com/item?id=42908561) - [I'm a neuroscientist. Here's how gambling can change your brain](https://www.sciencefocus.com/comment/gambling-addictions-neuroscience)
