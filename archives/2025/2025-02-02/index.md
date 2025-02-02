@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-02-02](index.md)
 
+* [2025-02-02, 23:13:13](https://news.ycombinator.com/item?id=42912875) - [Tiny vanes glued to planes promise big savings for US Air Force](https://newatlas.com/military/ticky-little-vanes-bring-big-savings-us-air-force/)
 * [2025-02-02, 22:27:54](https://news.ycombinator.com/item?id=42912515) - [GarminDB](https://github.com/tcgoetz/GarminDB)
+* [2025-02-02, 22:19:10](https://news.ycombinator.com/item?id=42912438) - [F-strings for C++26 proposal [pdf]](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3412r0.pdf)
 * [2025-02-02, 22:15:30](https://news.ycombinator.com/item?id=42912412) - [Emergence of a Second Law of Thermodynamics in Isolated Quantum Systems](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.010309)
 * [2025-02-02, 21:42:02](https://news.ycombinator.com/item?id=42912133) - [Don't make fun of renowned author Dan Brown (2013)](https://onehundredpages.wordpress.com/2013/06/12/dont-make-fun-of-renowned-dan-brown/)
 * [2025-02-02, 21:07:48](https://news.ycombinator.com/item?id=42911842) - [Costa Rican Supermarket Wins Trademark Battle Against Nintendo](https://ticotimes.net/2025/01/30/david-vs-goliath-costa-rican-super-mario-defeats-nintendo-in-court)
