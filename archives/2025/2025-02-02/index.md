@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-02](index.md)
 
+* [2025-02-02, 05:52:15](https://news.ycombinator.com/item?id=42906311) - [800x Speed Boost on Nvidia GPUs](https://www.scmp.com/news/china/science/article/3296135/chinese-algorithm-boosts-nvidia-gpu-performance-800-fold-science-computing)
 * [2025-02-02, 04:52:28](https://news.ycombinator.com/item?id=42905937) - [CDC orders mass retraction of research across all science and medicine journals](https://insidemedicine.substack.com/p/breaking-news-cdc-orders-mass-retraction)
 * [2025-02-02, 04:09:45](https://news.ycombinator.com/item?id=42905737) - [I'm Ready for You: On Balzac](https://www.lrb.co.uk/the-paper/v47/n01/raymond-n.-mackenzie/i-m-ready-for-you)
 * [2025-02-02, 03:21:07](https://news.ycombinator.com/item?id=42905453) - [Chatbot Software Begins to Face Fundamental Limitations](https://www.quantamagazine.org/chatbot-software-begins-to-face-fundamental-limitations-20250131/)
