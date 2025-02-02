@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-02-02](index.md)
 
+* [2025-02-02, 10:32:40](https://news.ycombinator.com/item?id=42907766) - [Reverse-engineering and analysis of SanDisk High Endurance microSDXC card (2020)](https://ripitapart.com/2020/07/16/reverse-engineering-and-analysis-of-sandisk-high-endurance-microsdxc-card/)
+* [2025-02-02, 10:32:30](https://news.ycombinator.com/item?id=42907765) - [Show HN: Modest – musical harmony library for Lua](https://github.com/esbudylin/modest)
 * [2025-02-02, 09:37:05](https://news.ycombinator.com/item?id=42907488) - [Analyzing the codebase of Caffeine: a high performance caching library](https://adriacabeza.github.io/2024/07/12/caffeine-cache.html)
 * [2025-02-02, 08:53:58](https://news.ycombinator.com/item?id=42907268) - [Life Is More Than an Engineering Problem – Interview with Ted Chiang](https://lareviewofbooks.org/article/life-is-more-than-an-engineering-problem/)
 * [2025-02-02, 08:31:12](https://news.ycombinator.com/item?id=42907139) - [Fixing Left and Mutual Recursions in Grammars](https://brightprogrammer.in/posts/fixing-recursions-in-grammar/)
 * [2025-02-02, 08:13:49](https://news.ycombinator.com/item?id=42907060) - [Sound & Efficient Generation of DOP Exploits via Programming Language Synthesis [pdf]](https://ilyasergey.net/assets/pdf/papers/doppler-usenix25.pdf)
 * [2025-02-02, 07:14:53](https://news.ycombinator.com/item?id=42906757) - [Solving key challenges in AI-assisted code reviews](https://www.qodo.ai/blog/qodo-merge-solving-key-challenges-in-ai-assisted-code-reviews/)
+* [2025-02-02, 07:14:43](https://news.ycombinator.com/item?id=42906756) - [Show HN: I built a full mulimodal LLM by merging multiple models into one](https://github.com/JigsawStack/omiai)
 * [2025-02-02, 05:52:15](https://news.ycombinator.com/item?id=42906311) - [800x Speed Boost on Nvidia GPUs](https://www.scmp.com/news/china/science/article/3296135/chinese-algorithm-boosts-nvidia-gpu-performance-800-fold-science-computing)
 * [2025-02-02, 04:52:28](https://news.ycombinator.com/item?id=42905937) - [CDC orders mass retraction of research across all science and medicine journals](https://insidemedicine.substack.com/p/breaking-news-cdc-orders-mass-retraction)
 * [2025-02-02, 04:09:45](https://news.ycombinator.com/item?id=42905737) - [I'm Ready for You: On Balzac](https://www.lrb.co.uk/the-paper/v47/n01/raymond-n.-mackenzie/i-m-ready-for-you)
