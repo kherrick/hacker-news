@@ -53,6 +53,7 @@
 * [2025-01-30, 08:06:08](https://news.ycombinator.com/item?id=42875900) - [A Young Man Used AI to Build a Nuclear Fusor and Now I Must Weep](https://www.corememory.com/p/a-young-man-used-ai-to-build-a-nuclear)
 * [2025-01-30, 08:04:53](https://news.ycombinator.com/item?id=42875888) - [Investigating the case of human nose shape and climate adaptation](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006616)
 * [2025-01-30, 06:17:44](https://news.ycombinator.com/item?id=42875399) - [Majority of US teens have lost trust in Big Tech](https://techcrunch.com/2025/01/29/report-majority-of-u-s-teens-have-lost-trust-in-big-tech/)
+* [2025-01-30, 04:58:08](https://news.ycombinator.com/item?id=42875019) - [Ancient Amazonians became master maize farmers](https://www.sciencenews.org/article/maize-farmers-amazonians-casarabe)
 * [2025-01-30, 04:33:25](https://news.ycombinator.com/item?id=42874885) - [PCBs, Ground Plates, and You](https://lcamtuf.substack.com/p/pcbs-ground-planes-and-you)
 * [2025-01-30, 03:51:42](https://news.ycombinator.com/item?id=42874638) - [Plane Crashes Near Washington DC after midair collision with helicopter](https://www.nytimes.com/live/2025/01/29/us/plane-crash-washington-dc)
 * [2025-01-30, 03:46:29](https://news.ycombinator.com/item?id=42874605) - [Hard Mode Rust](https://matklad.github.io/2022/10/06/hard-mode-rust.html)
