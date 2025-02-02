@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2025-02-02, 17:20:21",
+      "https://news.ycombinator.com/item?id=42910028"
+    ],
+    [
+      "Reinforcement Learning: An Overview (December 2024)",
+      "https://arxiv.org/abs/2412.05265"
+    ]
+  ],
+  [
+    [
+      "2025-02-02, 17:18:45",
+      "https://news.ycombinator.com/item?id=42910013"
+    ],
+    [
+      "Mutool – all purpose tool for dealing with PDF files",
+      "https://www.mankier.com/1/mutool"
+    ]
+  ],
+  [
+    [
       "2025-02-02, 17:07:31",
       "https://news.ycombinator.com/item?id=42909921"
     ],
@@ -87,16 +107,6 @@
     [
       "Fixing Left and Mutual Recursions in Grammars",
       "https://brightprogrammer.in/posts/fixing-recursions-in-grammar/"
-    ]
-  ],
-  [
-    [
-      "2025-02-02, 08:13:49",
-      "https://news.ycombinator.com/item?id=42907060"
-    ],
-    [
-      "Sound & Efficient Generation of DOP Exploits via Programming Language Synthesis [pdf]",
-      "https://ilyasergey.net/assets/pdf/papers/doppler-usenix25.pdf"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "String of recent killings linked to Bay Area 'Zizians'",
       "https://www.sfgate.com/bayarea/article/bay-area-death-cult-zizian-murders-20064333.php"
-    ]
-  ],
-  [
-    [
-      "2025-01-29, 19:51:12",
-      "https://news.ycombinator.com/item?id=42870216"
-    ],
-    [
-      "Inheritance and Subtyping",
-      "https://blog.frankel.ch/on-inheritance/"
     ]
   ],
   [
