@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-02](index.md)
 
+* [2025-02-02, 20:42:41](https://news.ycombinator.com/item?id=42911598) - [The Network State Coup is Happening Right Now](https://www.thenerdreich.com/the-network-state-coup-is-happening-right-now/)
 * [2025-02-02, 19:46:12](https://news.ycombinator.com/item?id=42911162) - [ScatterBrain: Unmasking the Shadow of PoisonPlug's Obfuscator](https://cloud.google.com/blog/topics/threat-intelligence/scatterbrain-unmasking-poisonplug-obfuscator)
 * [2025-02-02, 19:31:06](https://news.ycombinator.com/item?id=42911054) - [Why Is This CEO Bragging About Replacing Humans with A.I.?](https://www.nytimes.com/2025/02/02/business/klarna-ceo-ai.html)
 * [2025-02-02, 19:29:45](https://news.ycombinator.com/item?id=42911042) - [Waydroid – Android in a Linux container](https://waydro.id/)
@@ -15,6 +16,7 @@
 * [2025-02-02, 16:47:35](https://news.ycombinator.com/item?id=42909776) - [US Government Websites Are Disappearing in Real Time](https://www.wired.com/story/us-government-websites-are-disappearing-in-real-time/)
 * [2025-02-02, 16:14:49](https://news.ycombinator.com/item?id=42909530) - [Sniffnet – monitor your Internet traffic](https://github.com/GyulyVGC/sniffnet)
 * [2025-02-02, 15:19:32](https://news.ycombinator.com/item?id=42909166) - [Ask HN: What is interviewing like now with everyone using AI?](https://news.ycombinator.com/item?id=42909166)
+* [2025-02-02, 14:36:18](https://news.ycombinator.com/item?id=42908879) - [The Door Problem (2014)](https://lizengland.com/blog/2014/04/the-door-problem/)
 * [2025-02-02, 14:01:02](https://news.ycombinator.com/item?id=42908676) - [What Is the Byzantine Generals Problem in Distributed Systems?](https://newsletter.scalablethread.com/p/what-is-the-byzantine-generals-problem)
 * [2025-02-02, 13:47:23](https://news.ycombinator.com/item?id=42908606) - [Whats your max wpm in typing?](https://news.ycombinator.com/item?id=42908606)
 * [2025-02-02, 13:38:20](https://news.ycombinator.com/item?id=42908561) - [I'm a neuroscientist. Here's how gambling can change your brain](https://www.sciencefocus.com/comment/gambling-addictions-neuroscience)
