@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2025-02-02, 14:36:18",
-      "https://news.ycombinator.com/item?id=42908879"
-    ],
-    [
-      "The Door Problem (2014)",
-      "https://lizengland.com/blog/2014/04/the-door-problem/"
-    ]
-  ],
-  [
-    [
       "2025-02-02, 11:46:22",
       "https://news.ycombinator.com/item?id=42908061"
     ],
@@ -251,6 +241,16 @@
   ],
   [
     [
+      "2025-01-30, 18:25:22",
+      "https://news.ycombinator.com/item?id=42880585"
+    ],
+    [
+      "A Rust procedural language handler for PostgreSQL",
+      "https://github.com/tcdi/plrust"
+    ]
+  ],
+  [
+    [
       "2025-01-30, 18:02:51",
       "https://news.ycombinator.com/item?id=42880317"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2025-01-29, 19:51:12",
-      "https://news.ycombinator.com/item?id=42870216"
-    ],
-    [
-      "Inheritance and Subtyping",
-      "https://blog.frankel.ch/on-inheritance/"
-    ]
-  ],
-  [
-    [
       "2025-01-29, 19:16:42",
       "https://news.ycombinator.com/item?id=42869730"
     ],
     [
       "AstroForge selects target for \"high risk, seat of the pants\" asteroid mission",
       "https://arstechnica.com/space/2025/01/astroforge-selects-target-for-high-risk-seat-of-the-pants-asteroid-mission/"
+    ]
+  ],
+  [
+    [
+      "2025-01-29, 12:42:25",
+      "https://news.ycombinator.com/item?id=42864221"
+    ],
+    [
+      "The doctor who gave himself an ulcer and solved a medical mystery (2010)",
+      "https://www.discovermagazine.com/health/the-doctor-who-drank-infectious-broth-gave-himself-an-ulcer-and-solved-a-medical-mystery"
     ]
   ]
 ]
