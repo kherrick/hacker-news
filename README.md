@@ -2,7 +2,7 @@
 
 * [2025-02-02, 03:21:07](https://news.ycombinator.com/item?id=42905453) - [Recent results show that LLMs struggle with compositional tasks](https://www.quantamagazine.org/chatbot-software-begins-to-face-fundamental-limitations-20250131/)
 * [2025-02-02, 02:12:13](https://news.ycombinator.com/item?id=42904966) - [Tools for 2025](http://yosemitesam.ch/3-tools-for-2025/)
-* [2025-02-02, 01:40:09](https://news.ycombinator.com/item?id=42904723) - [Compiling Java into Native Binaries with Graal and Mill](https://mill-build.org/blog/7-graal-native-executables.html)
+* [2025-02-02, 01:40:09](https://news.ycombinator.com/item?id=42904723) - [Compiling Java into native binaries with Graal and Mill](https://mill-build.org/blog/7-graal-native-executables.html)
 * [2025-02-02, 01:20:54](https://news.ycombinator.com/item?id=42904578) - ['Obelisks', a new class of life living inside humans](https://bgr.com/science/researchers-just-discovered-an-entirely-new-class-of-life-living-inside-humans/)
 * [2025-02-01, 23:17:36](https://news.ycombinator.com/item?id=42903576) - [Avoid ISP Routers (2024)](https://routersecurity.org/ISProuters.php)
 * [2025-02-01, 22:11:45](https://news.ycombinator.com/item?id=42902936) - [RLHF Book](https://rlhfbook.com/)
@@ -22,14 +22,14 @@
 * [2025-01-31, 22:42:30](https://news.ycombinator.com/item?id=42893196) - [Discovery of collagen in fossil bone could unlock new insights into dinosaurs](https://news.liverpool.ac.uk/2025/01/31/discovery-of-collagen-in-fossil-bone-could-unlock-new-insights-into-dinosaurs/)
 * [2025-01-31, 02:04:14](https://news.ycombinator.com/item?id=42884099) - [A mouseless tale: trying for a keyboard-driven desktop](https://lwn.net/Articles/1005332/)
 * [2025-01-30, 19:40:33](https://news.ycombinator.com/item?id=42881367) - [Archivists work to save disappearing data.gov datasets](https://www.404media.co/archivists-work-to-identify-and-save-the-thousands-of-datasets-disappearing-from-data-gov/)
+* [2025-01-30, 19:04:05](https://news.ycombinator.com/item?id=42880953) - [Andrew Ng on DeepSeek](https://www.deeplearning.ai/the-batch/issue-286/)
 * [2025-01-30, 15:09:08](https://news.ycombinator.com/item?id=42878450) - [Pointers Are Complicated II, or: We need better language specs (2020)](https://www.ralfj.de/blog/2020/12/14/provenance.html)
-* [2025-01-30, 14:21:20](https://news.ycombinator.com/item?id=42877910) - [String of recent killings linked to Bay Area rationalist 'death cult'](https://www.sfgate.com/bayarea/article/bay-area-death-cult-zizian-murders-20064333.php)
-* [2025-01-30, 04:58:08](https://news.ycombinator.com/item?id=42875019) - [Ancient Amazonians became master maize farmers](https://www.sciencenews.org/article/maize-farmers-amazonians-casarabe)
+* [2025-01-30, 14:21:20](https://news.ycombinator.com/item?id=42877910) - [String of recent killings linked to Bay Area 'death cult'](https://www.sfgate.com/bayarea/article/bay-area-death-cult-zizian-murders-20064333.php)
+* [2025-01-30, 04:58:08](https://news.ycombinator.com/item?id=42875019) - [Engineered waterways helped Ancient Amazonians became master maize farmers](https://www.sciencenews.org/article/maize-farmers-amazonians-casarabe)
 * [2025-01-30, 01:29:32](https://news.ycombinator.com/item?id=42873733) - [SQL or Death? Seminar Series – Spring 2025](https://db.cs.cmu.edu/seminar2025/)
 * [2025-01-29, 14:59:23](https://news.ycombinator.com/item?id=42865611) - [Enhancing your MIDI devices with Perl](https://fuzzix.org/enhancing-midi-hardware-with-perl)
 * [2025-01-29, 01:00:03](https://news.ycombinator.com/item?id=42860172) - [LMD: A new, less wasteful metal 3D printing technique](https://www.core77.com/posts/135194/LMD-A-New-Less-Wasteful-Metal-3D-Printing-Technique)
 * [2025-01-28, 21:08:17](https://news.ycombinator.com/item?id=42858029) - [Newsstands, 2012-2019](https://www.trevortraynor.com/newsstands)
-* [2025-01-28, 07:26:01](https://news.ycombinator.com/item?id=42849774) - [In Zig, what's a writer?](https://www.openmymind.net/In-Zig-Whats-a-Writer/)
 
 ## [Archives](archives/index.md)
 
