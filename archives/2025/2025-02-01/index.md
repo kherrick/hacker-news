@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-01](index.md)
 
+* [2025-02-01, 23:17:36](https://news.ycombinator.com/item?id=42903576) - [Avoid ISP Routers](https://routersecurity.org/ISProuters.php)
 * [2025-02-01, 23:16:43](https://news.ycombinator.com/item?id=42903564) - [Wealth inequality risks triggering 'societal collapse' within next decade](https://www.kcl.ac.uk/news/wealth-inequality-risks-triggering-societal-collapse-within-next-decade-report-finds)
 * [2025-02-01, 22:54:04](https://news.ycombinator.com/item?id=42903336) - [Philip Low Unmasking Musk](https://bsky.app/profile/brainking.bsky.social/post/3lgsco7cdnc26)
 * [2025-02-01, 22:34:30](https://news.ycombinator.com/item?id=42903151) - [US Government Websites Are Disappearing in Real Time](https://www.wired.com/story/us-government-websites-are-disappearing-in-real-time/)

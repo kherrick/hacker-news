@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-02-02](index.md)
+
+* [2025-02-02, 00:27:05](https://news.ycombinator.com/item?id=42904116) - [How to Run DeepSeek R1 Distilled Reasoning Models on RyzenAI and Radeon GPUs](https://www.guru3d.com/story/amd-explains-how-to-run-deepseek-r1-distilled-reasoning-models-on-amd-ryzen-ai-and-radeon/)
