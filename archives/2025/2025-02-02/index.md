@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-02](index.md)
 
+* [2025-02-02, 14:01:02](https://news.ycombinator.com/item?id=42908676) - [What Is the Byzantine Generals Problem in Distributed Systems?](https://newsletter.scalablethread.com/p/what-is-the-byzantine-generals-problem)
 * [2025-02-02, 13:38:20](https://news.ycombinator.com/item?id=42908561) - [I'm a neuroscientist. Here's how gambling can change your brain](https://www.sciencefocus.com/comment/gambling-addictions-neuroscience)
 * [2025-02-02, 11:46:22](https://news.ycombinator.com/item?id=42908061) - [Show HN: Lume – OS Lightweight CLI/API for macOS/Linux VMs on Apple Silicon](https://github.com/trycua/lume)
 * [2025-02-02, 11:42:06](https://news.ycombinator.com/item?id=42908041) - [Spaced repetition can allow for infinite recall (2022)](https://www.efavdb.com/memory%20recall)
