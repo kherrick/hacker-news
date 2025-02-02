@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=42911162"
     ],
     [
-      "ScatterBrain: Unmasking the Shadow of PoisonPlug's Obfuscator",
+      "ScatterBrain: Unmasking the shadow of PoisonPlug's obfuscator",
       "https://cloud.google.com/blog/topics/threat-intelligence/scatterbrain-unmasking-poisonplug-obfuscator"
     ]
   ],
@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=42910028"
     ],
     [
-      "Reinforcement Learning: An Overview (December 2024)",
+      "Reinforcement Learning: An Overview",
       "https://arxiv.org/abs/2412.05265"
     ]
   ],
@@ -51,11 +51,21 @@
   ],
   [
     [
+      "2025-02-02, 15:19:32",
+      "https://news.ycombinator.com/item?id=42909166"
+    ],
+    [
+      "Ask HN: What is interviewing like now with everyone using AI?",
+      "https://news.ycombinator.com/item?id=42909166"
+    ]
+  ],
+  [
+    [
       "2025-02-02, 11:46:22",
       "https://news.ycombinator.com/item?id=42908061"
     ],
     [
-      "Show HN: Lume – OS lightweight CLI for MacOS & Linux VMs on Apple Silicon.",
+      "Show HN: Lume – OS lightweight CLI for MacOS and Linux VMs on Apple Silicon",
       "https://github.com/trycua/lume"
     ]
   ],
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=42907488"
     ],
     [
-      "Analyzing the codebase of Caffeine: a high performance caching library",
+      "Analyzing the codebase of Caffeine, a high performance caching library",
       "https://adriacabeza.github.io/2024/07/12/caffeine-cache.html"
     ]
   ],
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=42907139"
     ],
     [
-      "Fixing Left and Mutual Recursions in Grammars",
+      "Fixing left and mutual recursions in grammars",
       "https://brightprogrammer.in/posts/fixing-recursions-in-grammar/"
     ]
   ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2025-02-01, 19:57:37",
-      "https://news.ycombinator.com/item?id=42901616"
-    ],
-    [
-      "Python 3, Pygame, and Debian Bookworm on the Miyoo A30",
-      "https://www.jtolio.com/2025/02/py3-pygame-miyoo-a30/"
-    ]
-  ],
-  [
-    [
       "2025-02-01, 18:51:31",
       "https://news.ycombinator.com/item?id=42901007"
     ],
@@ -205,7 +205,7 @@
       "https://news.ycombinator.com/item?id=42893089"
     ],
     [
-      "Why Do War Thunder Players Leak Classified Information? [video]",
+      "Why do War Thunder players leak classified information? [video]",
       "https://www.youtube.com/watch?v=R7LMApkXJD8"
     ]
   ],
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=42880317"
     ],
     [
-      "Repeat Offenders May Be Responsible for Many Shark Attacks",
+      "Repeat offenders may be responsible for many shark attacks",
       "https://nautil.us/the-problem-with-problem-sharks-1186682/"
     ]
   ],
