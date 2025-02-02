@@ -6,6 +6,8 @@
 
 * [2025-02-02, 17:29:24](https://news.ycombinator.com/item?id=42910105) - [Show HN: Groundhog AI Spring API](https://groundhog-day.com/api)
 * [2025-02-02, 17:28:48](https://news.ycombinator.com/item?id=42910099) - [Usaid.gov](https://www.usaid.gov/)
+* [2025-02-02, 17:20:21](https://news.ycombinator.com/item?id=42910028) - [Reinforcement Learning: An Overview (December 2024)](https://arxiv.org/abs/2412.05265)
+* [2025-02-02, 17:18:45](https://news.ycombinator.com/item?id=42910013) - [Mutool – all purpose tool for dealing with PDF files](https://www.mankier.com/1/mutool)
 * [2025-02-02, 17:07:31](https://news.ycombinator.com/item?id=42909921) - [Everyone knows your location: tracking myself down through in-app ads](https://timsh.org/tracking-myself-down-through-in-app-ads/)
 * [2025-02-02, 16:47:35](https://news.ycombinator.com/item?id=42909776) - [US Government Websites Are Disappearing in Real Time](https://www.wired.com/story/us-government-websites-are-disappearing-in-real-time/)
 * [2025-02-02, 16:14:49](https://news.ycombinator.com/item?id=42909530) - [Sniffnet – monitor your Internet traffic](https://github.com/GyulyVGC/sniffnet)
