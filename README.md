@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-02, 08:31:12](https://news.ycombinator.com/item?id=42907139) - [Fixing Left and Mutual Recursions in Grammars](https://brightprogrammer.in/posts/fixing-recursions-in-grammar/)
+* [2025-02-02, 07:14:53](https://news.ycombinator.com/item?id=42906757) - [Solving key challenges in AI-assisted code reviews](https://www.qodo.ai/blog/qodo-merge-solving-key-challenges-in-ai-assisted-code-reviews/)
 * [2025-02-02, 04:52:28](https://news.ycombinator.com/item?id=42905937) - [CDC orders mass retraction and revision of submitted research](https://insidemedicine.substack.com/p/breaking-news-cdc-orders-mass-retraction)
 * [2025-02-02, 04:09:45](https://news.ycombinator.com/item?id=42905737) - [I'm Ready for You: On Balzac](https://www.lrb.co.uk/the-paper/v47/n01/raymond-n.-mackenzie/i-m-ready-for-you)
 * [2025-02-02, 03:21:07](https://news.ycombinator.com/item?id=42905453) - [Recent results show that LLMs struggle with compositional tasks](https://www.quantamagazine.org/chatbot-software-begins-to-face-fundamental-limitations-20250131/)
@@ -13,7 +14,6 @@
 * [2025-02-01, 21:00:34](https://news.ycombinator.com/item?id=42902267) - [MindsDB (YC W20) Is Hiring an Office Manager in SF](https://grnh.se/83c3fffa7us)
 * [2025-02-01, 19:57:37](https://news.ycombinator.com/item?id=42901616) - [Python 3, Pygame, and Debian Bookworm on the Miyoo A30](https://www.jtolio.com/2025/02/py3-pygame-miyoo-a30/)
 * [2025-02-01, 19:11:26](https://news.ycombinator.com/item?id=42901184) - [The origin and unexpected evolution of the word \"mainframe\"](https://www.righto.com/2025/02/origin-of-mainframe-term.html)
-* [2025-02-01, 19:11:12](https://news.ycombinator.com/item?id=42901182) - [YouTube audio quality – How good does it get? (2022)](https://www.audiomisc.co.uk/YouTube/SpotTheDifference.html)
 * [2025-02-01, 18:51:31](https://news.ycombinator.com/item?id=42901007) - [Show HN: ESP32 RC Cars](https://github.com/mattsroufe/esp32_rc_cars)
 * [2025-02-01, 16:46:01](https://news.ycombinator.com/item?id=42899713) - [Bzip3: A spiritual successor to BZip2](https://github.com/kspalaiologos/bzip3)
 * [2025-02-01, 16:44:53](https://news.ycombinator.com/item?id=42899703) - [Apple is open sourcing Swift Build](https://www.swift.org/blog/the-next-chapter-in-swift-build-technologies/)
