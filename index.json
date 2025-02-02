@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-02-02, 22:15:30",
+      "https://news.ycombinator.com/item?id=42912412"
+    ],
+    [
+      "Emergence of a Second Law of Thermodynamics in Isolated Quantum Systems",
+      "https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.010309"
+    ]
+  ],
+  [
+    [
       "2025-02-02, 20:31:53",
       "https://news.ycombinator.com/item?id=42911511"
     ],
     [
-      "A loophole used by Shein/Temu to ship packages to US tax-free",
+      "A loophole used by Shein/Temu to ship packages to US tax-free (2024)",
       "https://www.businessinsider.com/shein-temu-de-minimis-tax-loophole-scrutiny-2024-1"
     ]
   ],
@@ -211,6 +221,16 @@
   ],
   [
     [
+      "2025-02-01, 16:46:01",
+      "https://news.ycombinator.com/item?id=42899713"
+    ],
+    [
+      "Bzip3: A spiritual successor to BZip2",
+      "https://github.com/kspalaiologos/bzip3"
+    ]
+  ],
+  [
+    [
       "2025-01-31, 22:32:36",
       "https://news.ycombinator.com/item?id=42893089"
     ],
@@ -227,16 +247,6 @@
     [
       "The PETG adhesive test [video]",
       "https://www.youtube.com/watch?v=tyo8vLorpZo"
-    ]
-  ],
-  [
-    [
-      "2025-01-30, 18:25:22",
-      "https://news.ycombinator.com/item?id=42880585"
-    ],
-    [
-      "A Rust procedural language handler for PostgreSQL",
-      "https://github.com/tcdi/plrust"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "AstroForge selects target for \"high risk, seat of the pants\" asteroid mission",
       "https://arstechnica.com/space/2025/01/astroforge-selects-target-for-high-risk-seat-of-the-pants-asteroid-mission/"
-    ]
-  ],
-  [
-    [
-      "2025-01-29, 12:42:25",
-      "https://news.ycombinator.com/item?id=42864221"
-    ],
-    [
-      "The doctor who gave himself an ulcer and solved a medical mystery (2010)",
-      "https://www.discovermagazine.com/health/the-doctor-who-drank-infectious-broth-gave-himself-an-ulcer-and-solved-a-medical-mystery"
     ]
   ]
 ]
