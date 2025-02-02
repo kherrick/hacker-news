@@ -28,6 +28,7 @@
 * [2025-02-01, 19:11:26](https://news.ycombinator.com/item?id=42901184) - [The origin and unexpected evolution of the word \"mainframe\"](https://www.righto.com/2025/02/origin-of-mainframe-term.html)
 * [2025-02-01, 19:11:12](https://news.ycombinator.com/item?id=42901182) - [YouTube Audio Quality – How Good Does It Get?](https://www.audiomisc.co.uk/YouTube/SpotTheDifference.html)
 * [2025-02-01, 18:56:32](https://news.ycombinator.com/item?id=42901072) - [Google Maps reclassifies the U.S. as a 'sensitive country'](https://www.themarysue.com/for-states-with-strict-governments-google-maps-reclassifies-the-u-s-as-a-sensitive-country-alongside-china-and-russia/)
+* [2025-02-01, 18:51:31](https://news.ycombinator.com/item?id=42901007) - [Show HN: ESP32 RC Cars](https://github.com/mattsroufe/esp32_rc_cars)
 * [2025-02-01, 18:31:45](https://news.ycombinator.com/item?id=42900786) - [Delaware faces exodus of tech companies](https://www.newsweek.com/delaware-exodus-tech-meta-dropbox-elon-musk-2024596)
 * [2025-02-01, 18:08:12](https://news.ycombinator.com/item?id=42900528) - [The FAA's Real Air Traffic Control Crisis Runs Much Deeper](https://viewfromthewing.com/collision-on-final-approach-sparks-dei-blame-game-the-faas-real-air-traffic-control-crisis-runs-much-deeper/)
 * [2025-02-01, 17:15:12](https://news.ycombinator.com/item?id=42899975) - [Dell ends hybrid work policy, demands RTO despite remote work pledge](https://www.theregister.com/2025/01/31/dell_ends_hybrid_work_policy/)
