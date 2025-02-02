@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-02](index.md)
 
+* [2025-02-02, 09:37:05](https://news.ycombinator.com/item?id=42907488) - [Analyzing the codebase of Caffeine: a high performance caching library](https://adriacabeza.github.io/2024/07/12/caffeine-cache.html)
 * [2025-02-02, 08:53:58](https://news.ycombinator.com/item?id=42907268) - [Life Is More Than an Engineering Problem – Interview with Ted Chiang](https://lareviewofbooks.org/article/life-is-more-than-an-engineering-problem/)
 * [2025-02-02, 08:31:12](https://news.ycombinator.com/item?id=42907139) - [Fixing Left and Mutual Recursions in Grammars](https://brightprogrammer.in/posts/fixing-recursions-in-grammar/)
 * [2025-02-02, 08:13:49](https://news.ycombinator.com/item?id=42907060) - [Sound & Efficient Generation of DOP Exploits via Programming Language Synthesis [pdf]](https://ilyasergey.net/assets/pdf/papers/doppler-usenix25.pdf)
