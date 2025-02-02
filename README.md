@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-02, 20:42:41](https://news.ycombinator.com/item?id=42911598) - [The Network State Coup is Happening Right Now](https://www.thenerdreich.com/the-network-state-coup-is-happening-right-now/)
 * [2025-02-02, 19:46:12](https://news.ycombinator.com/item?id=42911162) - [ScatterBrain: Unmasking the shadow of PoisonPlug's obfuscator](https://cloud.google.com/blog/topics/threat-intelligence/scatterbrain-unmasking-poisonplug-obfuscator)
 * [2025-02-02, 19:29:45](https://news.ycombinator.com/item?id=42911042) - [Waydroid – Android in a Linux container](https://waydro.id/)
+* [2025-02-02, 19:21:55](https://news.ycombinator.com/item?id=42910983) - [UK betting giant's unlawful marketing kept suicidal gambler hooked](https://www.theguardian.com/society/2025/feb/01/i-lost-10-years-of-my-life-how-uk-betting-giants-unlawful-marketing-kept-suicidal-gambler-hooked)
 * [2025-02-02, 17:29:24](https://news.ycombinator.com/item?id=42910105) - [Show HN: Groundhog AI Spring API](https://groundhog-day.com/api)
 * [2025-02-02, 17:07:31](https://news.ycombinator.com/item?id=42909921) - [Everyone knows your location: tracking myself down through in-app ads](https://timsh.org/tracking-myself-down-through-in-app-ads/)
 * [2025-02-02, 16:14:49](https://news.ycombinator.com/item?id=42909530) - [Sniffnet – monitor your Internet traffic](https://github.com/GyulyVGC/sniffnet)
@@ -26,9 +26,9 @@
 * [2025-01-30, 23:12:08](https://news.ycombinator.com/item?id=42883178) - [The PETG adhesive test [video]](https://www.youtube.com/watch?v=tyo8vLorpZo)
 * [2025-01-30, 18:25:22](https://news.ycombinator.com/item?id=42880585) - [A Rust procedural language handler for PostgreSQL](https://github.com/tcdi/plrust)
 * [2025-01-30, 18:02:51](https://news.ycombinator.com/item?id=42880317) - [Repeat offenders may be responsible for many shark attacks](https://nautil.us/the-problem-with-problem-sharks-1186682/)
+* [2025-01-29, 23:44:35](https://news.ycombinator.com/item?id=42872882) - [The dumb reason why flag emojis aren't working on your site in Chrome on Windows](https://geyer.dev/blog/windows-flag-emojis/)
 * [2025-01-29, 19:51:12](https://news.ycombinator.com/item?id=42870216) - [Inheritance and Subtyping](https://blog.frankel.ch/on-inheritance/)
 * [2025-01-29, 19:16:42](https://news.ycombinator.com/item?id=42869730) - [AstroForge selects target for \"high risk, seat of the pants\" asteroid mission](https://arstechnica.com/space/2025/01/astroforge-selects-target-for-high-risk-seat-of-the-pants-asteroid-mission/)
-* [2025-01-29, 12:42:25](https://news.ycombinator.com/item?id=42864221) - [The doctor who gave himself an ulcer and solved a medical mystery (2010)](https://www.discovermagazine.com/health/the-doctor-who-drank-infectious-broth-gave-himself-an-ulcer-and-solved-a-medical-mystery)
 * [2025-01-29, 01:00:03](https://news.ycombinator.com/item?id=42860172) - [LMD: A new, less wasteful metal 3D printing technique](https://www.core77.com/posts/135194/LMD-A-New-Less-Wasteful-Metal-3D-Printing-Technique)
 
 ## [Archives](archives/index.md)

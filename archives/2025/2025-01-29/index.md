@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-29](index.md)
 
+* [2025-01-29, 23:44:35](https://news.ycombinator.com/item?id=42872882) - [The dumb reason why flag emojis aren't working on your site in Chrome on Windows](https://geyer.dev/blog/windows-flag-emojis/)
 * [2025-01-29, 23:12:01](https://news.ycombinator.com/item?id=42872548) - [When the Sackler brothers studied LSD](https://resobscura.substack.com/p/when-the-sackler-brothers-studied)
 * [2025-01-29, 22:56:06](https://news.ycombinator.com/item?id=42872386) - [Apple's macOS Unix certification is a lie](https://www.osnews.com/story/141633/apples-macos-unix-certification-is-a-lie/)
 * [2025-01-29, 22:45:14](https://news.ycombinator.com/item?id=42872276) - [Advice for a friend who wants to start a blog](https://www.henrikkarlsson.xyz/p/start-a-blog)

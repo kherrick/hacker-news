@@ -8,6 +8,7 @@
 * [2025-02-02, 19:46:12](https://news.ycombinator.com/item?id=42911162) - [ScatterBrain: Unmasking the Shadow of PoisonPlug's Obfuscator](https://cloud.google.com/blog/topics/threat-intelligence/scatterbrain-unmasking-poisonplug-obfuscator)
 * [2025-02-02, 19:31:06](https://news.ycombinator.com/item?id=42911054) - [Why Is This CEO Bragging About Replacing Humans with A.I.?](https://www.nytimes.com/2025/02/02/business/klarna-ceo-ai.html)
 * [2025-02-02, 19:29:45](https://news.ycombinator.com/item?id=42911042) - [Waydroid – Android in a Linux container](https://waydro.id/)
+* [2025-02-02, 19:21:55](https://news.ycombinator.com/item?id=42910983) - [UK betting giant's unlawful marketing kept suicidal gambler hooked](https://www.theguardian.com/society/2025/feb/01/i-lost-10-years-of-my-life-how-uk-betting-giants-unlawful-marketing-kept-suicidal-gambler-hooked)
 * [2025-02-02, 17:29:24](https://news.ycombinator.com/item?id=42910105) - [Show HN: Groundhog AI Spring API](https://groundhog-day.com/api)
 * [2025-02-02, 17:28:48](https://news.ycombinator.com/item?id=42910099) - [Usaid.gov](https://www.usaid.gov/)
 * [2025-02-02, 17:20:21](https://news.ycombinator.com/item?id=42910028) - [Reinforcement Learning: An Overview (December 2024)](https://arxiv.org/abs/2412.05265)
