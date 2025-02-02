@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-02, 03:04:57](https://news.ycombinator.com/item?id=42905333) - [X sues Lego, Nestlé and more brands, accusing them of advertising boycott](https://www.npr.org/2025/02/01/nx-s1-5283271/elon-musk-lawsuit-advertisers-boycott-new)
-* [2025-02-02, 01:54:13](https://news.ycombinator.com/item?id=42904838) - [Proposed bill to make it a crime to download DeepSeek in the US](https://www.congress.gov/bill/119th-congress/senate-bill/321/all-actions?s=3&r=1)
 * [2025-02-02, 01:20:54](https://news.ycombinator.com/item?id=42904578) - [Researchers just discovered a new class of life living inside humans](https://bgr.com/science/researchers-just-discovered-an-entirely-new-class-of-life-living-inside-humans/)
 * [2025-02-02, 00:27:05](https://news.ycombinator.com/item?id=42904116) - [How to Run DeepSeek R1 Distilled Reasoning Models on RyzenAI and Radeon GPUs](https://www.guru3d.com/story/amd-explains-how-to-run-deepseek-r1-distilled-reasoning-models-on-amd-ryzen-ai-and-radeon/)
 * [2025-02-01, 23:17:36](https://news.ycombinator.com/item?id=42903576) - [Avoid ISP Routers (2024)](https://routersecurity.org/ISProuters.php)
@@ -18,8 +16,10 @@
 * [2025-02-01, 16:41:53](https://news.ycombinator.com/item?id=42899679) - [Smart fabric heats up under the sun](https://uwaterloo.ca/news/media/smart-fabric-heats-under-sun)
 * [2025-02-01, 12:03:51](https://news.ycombinator.com/item?id=42897746) - [Ratzilla](https://orhun.dev/ratzilla/demo/)
 * [2025-02-01, 11:52:18](https://news.ycombinator.com/item?id=42897696) - [CDC data are disappearing](https://www.theatlantic.com/health/archive/2025/01/cdc-dei-scientific-data/681531/)
+* [2025-02-01, 11:43:33](https://news.ycombinator.com/item?id=42897662) - [Show HN: TalkNotes – A site that turns your ideas into tasks](https://www.talknotes.tech/)
 * [2025-02-01, 09:27:06](https://news.ycombinator.com/item?id=42897120) - [Visualizing all books of the world in ISBN-Space](https://phiresky.github.io/blog/2025/visualizing-all-books-in-isbn-space/)
 * [2025-01-31, 22:42:30](https://news.ycombinator.com/item?id=42893196) - [Discovery of collagen in fossil bone could unlock new insights into dinosaurs](https://news.liverpool.ac.uk/2025/01/31/discovery-of-collagen-in-fossil-bone-could-unlock-new-insights-into-dinosaurs/)
+* [2025-01-31, 19:08:15](https://news.ycombinator.com/item?id=42890627) - [OpenAI O3-Mini](https://openai.com/index/openai-o3-mini/)
 * [2025-01-31, 02:04:14](https://news.ycombinator.com/item?id=42884099) - [A mouseless tale: trying for a keyboard-driven desktop](https://lwn.net/Articles/1005332/)
 * [2025-01-30, 19:40:33](https://news.ycombinator.com/item?id=42881367) - [Archivists work to save disappearing data.gov datasets](https://www.404media.co/archivists-work-to-identify-and-save-the-thousands-of-datasets-disappearing-from-data-gov/)
 * [2025-01-30, 18:09:51](https://news.ycombinator.com/item?id=42880392) - [Signature moves: are we losing the ability to write by hand?](https://www.theguardian.com/news/2025/jan/21/signature-moves-are-we-losing-the-ability-to-write-by-hand)
