@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-02, 17:07:31](https://news.ycombinator.com/item?id=42909921) - [Everyone knows your location: tracking myself down through in-app ads](https://timsh.org/tracking-myself-down-through-in-app-ads/)
 * [2025-02-02, 16:14:49](https://news.ycombinator.com/item?id=42909530) - [Sniffnet – monitor your Internet traffic](https://github.com/GyulyVGC/sniffnet)
 * [2025-02-02, 11:46:22](https://news.ycombinator.com/item?id=42908061) - [Show HN: Lume – OS lightweight CLI for MacOS & Linux VMs on Apple Silicon.](https://github.com/trycua/lume)
 * [2025-02-02, 10:32:40](https://news.ycombinator.com/item?id=42907766) - [Reverse-engineering and analysis of SanDisk High Endurance microSDXC card (2020)](https://ripitapart.com/2020/07/16/reverse-engineering-and-analysis-of-sandisk-high-endurance-microsdxc-card/)
@@ -25,7 +26,6 @@
 * [2025-01-30, 15:09:08](https://news.ycombinator.com/item?id=42878450) - [Pointers Are Complicated II, or: We need better language specs (2020)](https://www.ralfj.de/blog/2020/12/14/provenance.html)
 * [2025-01-30, 14:21:20](https://news.ycombinator.com/item?id=42877910) - [String of recent killings linked to Bay Area 'Zizians'](https://www.sfgate.com/bayarea/article/bay-area-death-cult-zizian-murders-20064333.php)
 * [2025-01-30, 04:58:08](https://news.ycombinator.com/item?id=42875019) - [Engineered waterways helped Ancient Amazonians became master maize farmers](https://www.sciencenews.org/article/maize-farmers-amazonians-casarabe)
-* [2025-01-29, 19:51:12](https://news.ycombinator.com/item?id=42870216) - [Inheritance and Subtyping](https://blog.frankel.ch/on-inheritance/)
 * [2025-01-29, 19:16:42](https://news.ycombinator.com/item?id=42869730) - [AstroForge selects target for \"high risk, seat of the pants\" asteroid mission](https://arstechnica.com/space/2025/01/astroforge-selects-target-for-high-risk-seat-of-the-pants-asteroid-mission/)
 * [2025-01-29, 14:59:23](https://news.ycombinator.com/item?id=42865611) - [Enhancing your MIDI devices with Perl](https://fuzzix.org/enhancing-midi-hardware-with-perl)
 * [2025-01-29, 12:42:25](https://news.ycombinator.com/item?id=42864221) - [The Doctor Who Drank Infectious Broth and Solved a Medical Mystery (2010)](https://www.discovermagazine.com/health/the-doctor-who-drank-infectious-broth-gave-himself-an-ulcer-and-solved-a-medical-mystery)
