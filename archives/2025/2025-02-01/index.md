@@ -73,6 +73,7 @@
 * [2025-02-01, 03:28:03](https://news.ycombinator.com/item?id=42895370) - [What we get wrong about athleticism](https://www.nytimes.com/athletic/6096850/2025/01/30/patrick-mahomes-nikoa-jokic-body-athletes-workout/)
 * [2025-02-01, 03:21:35](https://news.ycombinator.com/item?id=42895332) - [Hell Is Overconfident Developers Writing Encryption Code](https://soatok.blog/2025/01/31/hell-is-overconfident-developers-writing-encryption-code/)
 * [2025-02-01, 03:21:25](https://news.ycombinator.com/item?id=42895331) - [The government information crisis is bigger than you think it is](https://freegovinfo.info/node/14747/)
+* [2025-02-01, 03:07:35](https://news.ycombinator.com/item?id=42895265) - [Hytradboi 2025 Program](https://www.hytradboi.com/2025/)
 * [2025-02-01, 02:58:51](https://news.ycombinator.com/item?id=42895228) - [A new supergiant Bathynomus species discovered in Vietnam](https://zookeys.pensoft.net/article/139335/)
 * [2025-02-01, 02:36:55](https://news.ycombinator.com/item?id=42895108) - [Open source alternative to Postman / Insomnia](https://github.com/hoppscotch/hoppscotch)
 * [2025-02-01, 02:23:24](https://news.ycombinator.com/item?id=42895039) - [Running DeepSeek R1 Models Locally on NPU](https://blogs.windows.com/windowsdeveloper/2025/01/29/running-distilled-deepseek-r1-models-locally-on-copilot-pcs-powered-by-windows-copilot-runtime/)

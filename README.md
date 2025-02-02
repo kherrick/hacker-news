@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-02, 22:27:54](https://news.ycombinator.com/item?id=42912515) - [GarminDB](https://github.com/tcgoetz/GarminDB)
 * [2025-02-02, 22:15:30](https://news.ycombinator.com/item?id=42912412) - [Emergence of a Second Law of Thermodynamics in Isolated Quantum Systems](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.010309)
 * [2025-02-02, 21:42:02](https://news.ycombinator.com/item?id=42912133) - [Don't make fun of renowned author Dan Brown (2013)](https://onehundredpages.wordpress.com/2013/06/12/dont-make-fun-of-renowned-dan-brown/)
 * [2025-02-02, 21:07:48](https://news.ycombinator.com/item?id=42911842) - [Costa Rican Supermarket Wins Trademark Battle Against Nintendo](https://ticotimes.net/2025/01/30/david-vs-goliath-costa-rican-super-mario-defeats-nintendo-in-court)
@@ -23,10 +24,9 @@
 * [2025-02-01, 22:11:45](https://news.ycombinator.com/item?id=42902936) - [RLHF Book](https://rlhfbook.com/)
 * [2025-02-01, 21:46:16](https://news.ycombinator.com/item?id=42902691) - [Macrodata Refinement](https://lumon-industries.com/)
 * [2025-02-01, 18:51:31](https://news.ycombinator.com/item?id=42901007) - [Show HN: ESP32 RC Cars](https://github.com/mattsroufe/esp32_rc_cars)
-* [2025-02-01, 16:46:01](https://news.ycombinator.com/item?id=42899713) - [Bzip3: A spiritual successor to BZip2](https://github.com/kspalaiologos/bzip3)
+* [2025-02-01, 03:07:35](https://news.ycombinator.com/item?id=42895265) - [Hytradboi 2025 Program](https://www.hytradboi.com/2025/)
 * [2025-01-31, 22:32:36](https://news.ycombinator.com/item?id=42893089) - [Why do War Thunder players leak classified information? [video]](https://www.youtube.com/watch?v=R7LMApkXJD8)
 * [2025-01-30, 23:12:08](https://news.ycombinator.com/item?id=42883178) - [The PETG adhesive test [video]](https://www.youtube.com/watch?v=tyo8vLorpZo)
-* [2025-01-30, 18:02:51](https://news.ycombinator.com/item?id=42880317) - [Repeat offenders may be responsible for many shark attacks](https://nautil.us/the-problem-with-problem-sharks-1186682/)
 * [2025-01-30, 16:27:15](https://news.ycombinator.com/item?id=42879323) - [An open-source, extensible AI agent that goes beyond code suggestions](https://block.github.io/goose/)
 * [2025-01-29, 23:44:35](https://news.ycombinator.com/item?id=42872882) - [The dumb reason why flag emojis aren't working on your site in Chrome on Windows](https://geyer.dev/blog/windows-flag-emojis/)
 * [2025-01-29, 19:16:42](https://news.ycombinator.com/item?id=42869730) - [AstroForge selects target for \"high risk, seat of the pants\" asteroid mission](https://arstechnica.com/space/2025/01/astroforge-selects-target-for-high-risk-seat-of-the-pants-asteroid-mission/)
