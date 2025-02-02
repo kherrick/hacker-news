@@ -17,7 +17,6 @@
 * [2025-02-01, 18:51:31](https://news.ycombinator.com/item?id=42901007) - [Show HN: ESP32 RC Cars](https://github.com/mattsroufe/esp32_rc_cars)
 * [2025-02-01, 16:46:01](https://news.ycombinator.com/item?id=42899713) - [Bzip3: A spiritual successor to BZip2](https://github.com/kspalaiologos/bzip3)
 * [2025-02-01, 16:44:53](https://news.ycombinator.com/item?id=42899703) - [Apple is open sourcing Swift Build](https://www.swift.org/blog/the-next-chapter-in-swift-build-technologies/)
-* [2025-02-01, 12:03:51](https://news.ycombinator.com/item?id=42897746) - [Ratzilla](https://orhun.dev/ratzilla/demo/)
 * [2025-02-01, 09:27:06](https://news.ycombinator.com/item?id=42897120) - [Visualizing all books of the world in ISBN-Space](https://phiresky.github.io/blog/2025/visualizing-all-books-in-isbn-space/)
 * [2025-01-31, 22:42:30](https://news.ycombinator.com/item?id=42893196) - [Discovery of collagen in fossil bone could unlock new insights into dinosaurs](https://news.liverpool.ac.uk/2025/01/31/discovery-of-collagen-in-fossil-bone-could-unlock-new-insights-into-dinosaurs/)
 * [2025-01-31, 02:04:14](https://news.ycombinator.com/item?id=42884099) - [A mouseless tale: trying for a keyboard-driven desktop](https://lwn.net/Articles/1005332/)
@@ -29,6 +28,7 @@
 * [2025-01-30, 01:29:32](https://news.ycombinator.com/item?id=42873733) - [SQL or Death? Seminar Series – Spring 2025](https://db.cs.cmu.edu/seminar2025/)
 * [2025-01-29, 19:16:42](https://news.ycombinator.com/item?id=42869730) - [AstroForge selects target for \"high risk, seat of the pants\" asteroid mission](https://arstechnica.com/space/2025/01/astroforge-selects-target-for-high-risk-seat-of-the-pants-asteroid-mission/)
 * [2025-01-29, 14:59:23](https://news.ycombinator.com/item?id=42865611) - [Enhancing your MIDI devices with Perl](https://fuzzix.org/enhancing-midi-hardware-with-perl)
+* [2025-01-29, 12:42:25](https://news.ycombinator.com/item?id=42864221) - [The Doctor Who Drank Infectious Broth and Solved a Medical Mystery (2010)](https://www.discovermagazine.com/health/the-doctor-who-drank-infectious-broth-gave-himself-an-ulcer-and-solved-a-medical-mystery)
 * [2025-01-29, 01:00:03](https://news.ycombinator.com/item?id=42860172) - [LMD: A new, less wasteful metal 3D printing technique](https://www.core77.com/posts/135194/LMD-A-New-Less-Wasteful-Metal-3D-Printing-Technique)
 
 ## [Archives](archives/index.md)

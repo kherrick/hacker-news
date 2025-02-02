@@ -71,6 +71,7 @@
 * [2025-01-29, 13:03:00](https://news.ycombinator.com/item?id=42864428) - [Kakistocracy](https://en.wikipedia.org/wiki/Kakistocracy)
 * [2025-01-29, 12:47:17](https://news.ycombinator.com/item?id=42864272) - [Asteroid Impact on Earth 2032 with Probability 1% and 8Mt Energy](https://cneos.jpl.nasa.gov/sentry/details.html)
 * [2025-01-29, 12:47:17](https://news.ycombinator.com/item?id=42864272) - [Asteroid Impact on Earth 2032 with Probability 1% and 8Mt Energy](https://cneos.jpl.nasa.gov/sentry/details.html#?des=2024%20YR4)
+* [2025-01-29, 12:42:25](https://news.ycombinator.com/item?id=42864221) - [The Doctor Who Drank Infectious Broth and Solved a Medical Mystery (2010)](https://www.discovermagazine.com/health/the-doctor-who-drank-infectious-broth-gave-himself-an-ulcer-and-solved-a-medical-mystery)
 * [2025-01-29, 12:30:37](https://news.ycombinator.com/item?id=42864122) - [Preserves: An Expressive Data Language](https://preserves.dev/)
 * [2025-01-29, 12:11:47](https://news.ycombinator.com/item?id=42864019) - [The Middle East's first super-luxury train will gleam gold](https://www.cnn.com/travel/dream-of-the-desert-saudi-arabia-train/index.html)
 * [2025-01-29, 12:05:17](https://news.ycombinator.com/item?id=42863976) - [Yellowish Nodules on a Man Consuming a Carnivore Diet](https://jamanetwork.com/journals/jamacardiology/article-abstract/2828915?resultClick=1)
