@@ -85,6 +85,7 @@
 * [2025-01-31, 04:00:27](https://news.ycombinator.com/item?id=42884599) - [Apple iPhone sales dip despite AI rollout](https://www.bbc.co.uk/news/articles/cn57l2nreglo)
 * [2025-01-31, 03:51:44](https://news.ycombinator.com/item?id=42884556) - [Rubywm: An X11 window manager in pure Ruby](https://github.com/vidarh/rubywm)
 * [2025-01-31, 03:48:21](https://news.ycombinator.com/item?id=42884544) - [A step-by-step guide on deploying DeepSeek-R1 671B locally](https://snowkylin.github.io/blogs/a-note-on-deepseek-r1.html)
+* [2025-01-31, 03:30:08](https://news.ycombinator.com/item?id=42884478) - [Show HN: Hollow – A Customizable Digital Workspace](https://news.ycombinator.com/item?id=42884478)
 * [2025-01-31, 03:28:57](https://news.ycombinator.com/item?id=42884473) - [Copyright Office suggests AI copyright debate was settled in 1965](https://arstechnica.com/tech-policy/2025/01/copyright-office-suggests-ai-copyright-debate-was-settled-in-1965/)
 * [2025-01-31, 02:58:28](https://news.ycombinator.com/item?id=42884338) - [Inducing brain-like structure in GPT's weights makes them parameter efficient](https://arxiv.org/abs/2501.16396)
 * [2025-01-31, 02:58:15](https://news.ycombinator.com/item?id=42884337) - [Go Is a Well-Designed Language](https://mattjhall.co.uk/posts/go-is-well-designed-actually.html)

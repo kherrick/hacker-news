@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-02](index.md)
 
+* [2025-02-02, 13:38:20](https://news.ycombinator.com/item?id=42908561) - [I'm a neuroscientist. Here's how gambling can change your brain](https://www.sciencefocus.com/comment/gambling-addictions-neuroscience)
 * [2025-02-02, 11:46:22](https://news.ycombinator.com/item?id=42908061) - [Show HN: Lume – OS Lightweight CLI/API for macOS/Linux VMs on Apple Silicon](https://github.com/trycua/lume)
 * [2025-02-02, 11:42:06](https://news.ycombinator.com/item?id=42908041) - [Spaced repetition can allow for infinite recall (2022)](https://www.efavdb.com/memory%20recall)
 * [2025-02-02, 10:32:40](https://news.ycombinator.com/item?id=42907766) - [Reverse-engineering and analysis of SanDisk High Endurance microSDXC card (2020)](https://ripitapart.com/2020/07/16/reverse-engineering-and-analysis-of-sandisk-high-endurance-microsdxc-card/)
