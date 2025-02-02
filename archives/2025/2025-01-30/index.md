@@ -19,6 +19,7 @@
 * [2025-01-30, 18:48:30](https://news.ycombinator.com/item?id=42880807) - [California Law Enforcement Misused State Databases More Than 7k Times in 2023](https://www.eff.org/deeplinks/2025/01/california-police-misused-state-databases-more-7000-times-2023)
 * [2025-01-30, 18:38:12](https://news.ycombinator.com/item?id=42880704) - [1996 \"Authentic\" Beta Pokemon Cards Exposed as 2024 Prints via Printer Dots](https://www.elitefourum.com/t/many-of-the-pokemon-playtest-cards-were-likely-printed-in-2024/52421)
 * [2025-01-30, 18:32:44](https://news.ycombinator.com/item?id=42880663) - [Unintended workplace safety consequences of minimum wages](https://www.sciencedirect.com/science/article/abs/pii/S004727272400183X)
+* [2025-01-30, 18:25:22](https://news.ycombinator.com/item?id=42880585) - [A Rust procedural language handler for PostgreSQL](https://github.com/tcdi/plrust)
 * [2025-01-30, 18:19:55](https://news.ycombinator.com/item?id=42880513) - [Cointelpro](https://en.wikipedia.org/wiki/COINTELPRO)
 * [2025-01-30, 18:14:46](https://news.ycombinator.com/item?id=42880449) - [Show HN: Iterm-Mcp – AI Terminal/REPL Control for iTerm2](https://github.com/ferrislucas/iterm-mcp)
 * [2025-01-30, 18:09:51](https://news.ycombinator.com/item?id=42880392) - [Signature moves: are we losing the ability to write by hand?](https://www.theguardian.com/news/2025/jan/21/signature-moves-are-we-losing-the-ability-to-write-by-hand)
