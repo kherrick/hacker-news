@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-02, 23:45:14](https://news.ycombinator.com/item?id=42913104) - [Solar Plant Accidentally Incinerates Up to 6k Birds a Year (2016)](https://www.sciencealert.com/this-solar-plant-accidentally-incinerates-up-to-6-000-birds-a-year)
 * [2025-02-02, 23:13:13](https://news.ycombinator.com/item?id=42912875) - [Tiny vanes glued to planes promise big savings for US Air Force](https://newatlas.com/military/ticky-little-vanes-bring-big-savings-us-air-force/)
 * [2025-02-02, 22:27:54](https://news.ycombinator.com/item?id=42912515) - [GarminDB](https://github.com/tcgoetz/GarminDB)
 * [2025-02-02, 22:19:10](https://news.ycombinator.com/item?id=42912438) - [F-strings for C++26 proposal [pdf]](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3412r0.pdf)
@@ -20,7 +21,6 @@
 * [2025-02-02, 10:32:30](https://news.ycombinator.com/item?id=42907765) - [Show HN: Modest – musical harmony library for Lua](https://github.com/esbudylin/modest)
 * [2025-02-02, 09:37:05](https://news.ycombinator.com/item?id=42907488) - [Analyzing the codebase of Caffeine, a high performance caching library](https://adriacabeza.github.io/2024/07/12/caffeine-cache.html)
 * [2025-02-02, 08:53:58](https://news.ycombinator.com/item?id=42907268) - [Life is more than an engineering problem](https://lareviewofbooks.org/article/life-is-more-than-an-engineering-problem/)
-* [2025-02-02, 08:31:12](https://news.ycombinator.com/item?id=42907139) - [Fixing left and mutual recursions in grammars](https://brightprogrammer.in/posts/fixing-recursions-in-grammar/)
 * [2025-02-02, 03:21:07](https://news.ycombinator.com/item?id=42905453) - [Recent results show that LLMs struggle with compositional tasks](https://www.quantamagazine.org/chatbot-software-begins-to-face-fundamental-limitations-20250131/)
 * [2025-02-01, 22:11:45](https://news.ycombinator.com/item?id=42902936) - [RLHF Book](https://rlhfbook.com/)
 * [2025-02-01, 21:46:16](https://news.ycombinator.com/item?id=42902691) - [Macrodata Refinement](https://lumon-industries.com/)
