@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-02, 08:53:58](https://news.ycombinator.com/item?id=42907268) - [Life Is More Than an Engineering Problem – Interview with Ted Chiang](https://lareviewofbooks.org/article/life-is-more-than-an-engineering-problem/)
 * [2025-02-02, 08:31:12](https://news.ycombinator.com/item?id=42907139) - [Fixing Left and Mutual Recursions in Grammars](https://brightprogrammer.in/posts/fixing-recursions-in-grammar/)
 * [2025-02-02, 07:14:53](https://news.ycombinator.com/item?id=42906757) - [Solving key challenges in AI-assisted code reviews](https://www.qodo.ai/blog/qodo-merge-solving-key-challenges-in-ai-assisted-code-reviews/)
 * [2025-02-02, 04:52:28](https://news.ycombinator.com/item?id=42905937) - [CDC orders mass retraction and revision of submitted research](https://insidemedicine.substack.com/p/breaking-news-cdc-orders-mass-retraction)
@@ -9,7 +10,6 @@
 * [2025-02-01, 23:17:36](https://news.ycombinator.com/item?id=42903576) - [Avoid ISP Routers (2024)](https://routersecurity.org/ISProuters.php)
 * [2025-02-01, 22:11:45](https://news.ycombinator.com/item?id=42902936) - [RLHF Book](https://rlhfbook.com/)
 * [2025-02-01, 21:46:16](https://news.ycombinator.com/item?id=42902691) - [Macrodata Refinement](https://lumon-industries.com/)
-* [2025-02-01, 21:39:03](https://news.ycombinator.com/item?id=42902624) - [New thermogalvanic tech paves way for more efficient fridges](https://cosmosmagazine.com/science/chemistry/improved-fridge-technology/)
 * [2025-02-01, 21:12:37](https://news.ycombinator.com/item?id=42902395) - [A bookmarklet to kill sticky headers (2013)](https://alisdair.mcdiarmid.org/kill-sticky-headers/)
 * [2025-02-01, 21:00:34](https://news.ycombinator.com/item?id=42902267) - [MindsDB (YC W20) Is Hiring an Office Manager in SF](https://grnh.se/83c3fffa7us)
 * [2025-02-01, 19:57:37](https://news.ycombinator.com/item?id=42901616) - [Python 3, Pygame, and Debian Bookworm on the Miyoo A30](https://www.jtolio.com/2025/02/py3-pygame-miyoo-a30/)

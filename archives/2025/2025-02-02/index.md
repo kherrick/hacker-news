@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-02](index.md)
 
+* [2025-02-02, 08:53:58](https://news.ycombinator.com/item?id=42907268) - [Life Is More Than an Engineering Problem – Interview with Ted Chiang](https://lareviewofbooks.org/article/life-is-more-than-an-engineering-problem/)
 * [2025-02-02, 08:31:12](https://news.ycombinator.com/item?id=42907139) - [Fixing Left and Mutual Recursions in Grammars](https://brightprogrammer.in/posts/fixing-recursions-in-grammar/)
 * [2025-02-02, 07:14:53](https://news.ycombinator.com/item?id=42906757) - [Solving key challenges in AI-assisted code reviews](https://www.qodo.ai/blog/qodo-merge-solving-key-challenges-in-ai-assisted-code-reviews/)
 * [2025-02-02, 05:52:15](https://news.ycombinator.com/item?id=42906311) - [800x Speed Boost on Nvidia GPUs](https://www.scmp.com/news/china/science/article/3296135/chinese-algorithm-boosts-nvidia-gpu-performance-800-fold-science-computing)
