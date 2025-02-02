@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-02, 19:46:12](https://news.ycombinator.com/item?id=42911162) - [ScatterBrain: Unmasking the Shadow of PoisonPlug's Obfuscator](https://cloud.google.com/blog/topics/threat-intelligence/scatterbrain-unmasking-poisonplug-obfuscator)
-* [2025-02-02, 19:31:06](https://news.ycombinator.com/item?id=42911054) - [Why Is This CEO Bragging About Replacing Humans with A.I.?](https://www.nytimes.com/2025/02/02/business/klarna-ceo-ai.html)
 * [2025-02-02, 17:29:24](https://news.ycombinator.com/item?id=42910105) - [Show HN: Groundhog AI Spring API](https://groundhog-day.com/api)
 * [2025-02-02, 17:20:21](https://news.ycombinator.com/item?id=42910028) - [Reinforcement Learning: An Overview (December 2024)](https://arxiv.org/abs/2412.05265)
 * [2025-02-02, 17:07:31](https://news.ycombinator.com/item?id=42909921) - [Everyone knows your location: tracking myself down through in-app ads](https://timsh.org/tracking-myself-down-through-in-app-ads/)
@@ -17,7 +16,7 @@
 * [2025-02-01, 22:11:45](https://news.ycombinator.com/item?id=42902936) - [RLHF Book](https://rlhfbook.com/)
 * [2025-02-01, 21:46:16](https://news.ycombinator.com/item?id=42902691) - [Macrodata Refinement](https://lumon-industries.com/)
 * [2025-02-01, 21:12:37](https://news.ycombinator.com/item?id=42902395) - [A bookmarklet to kill sticky headers (2013)](https://alisdair.mcdiarmid.org/kill-sticky-headers/)
-* [2025-02-01, 19:11:26](https://news.ycombinator.com/item?id=42901184) - [The origin and unexpected evolution of the word \"mainframe\"](https://www.righto.com/2025/02/origin-of-mainframe-term.html)
+* [2025-02-01, 19:57:37](https://news.ycombinator.com/item?id=42901616) - [Python 3, Pygame, and Debian Bookworm on the Miyoo A30](https://www.jtolio.com/2025/02/py3-pygame-miyoo-a30/)
 * [2025-02-01, 18:51:31](https://news.ycombinator.com/item?id=42901007) - [Show HN: ESP32 RC Cars](https://github.com/mattsroufe/esp32_rc_cars)
 * [2025-02-01, 16:46:01](https://news.ycombinator.com/item?id=42899713) - [Bzip3: A spiritual successor to BZip2](https://github.com/kspalaiologos/bzip3)
 * [2025-02-01, 09:27:06](https://news.ycombinator.com/item?id=42897120) - [Visualizing all books of the world in ISBN-Space](https://phiresky.github.io/blog/2025/visualizing-all-books-in-isbn-space/)
@@ -29,6 +28,7 @@
 * [2025-01-29, 19:51:12](https://news.ycombinator.com/item?id=42870216) - [Inheritance and Subtyping](https://blog.frankel.ch/on-inheritance/)
 * [2025-01-29, 19:16:42](https://news.ycombinator.com/item?id=42869730) - [AstroForge selects target for \"high risk, seat of the pants\" asteroid mission](https://arstechnica.com/space/2025/01/astroforge-selects-target-for-high-risk-seat-of-the-pants-asteroid-mission/)
 * [2025-01-29, 14:59:23](https://news.ycombinator.com/item?id=42865611) - [Enhancing your MIDI devices with Perl](https://fuzzix.org/enhancing-midi-hardware-with-perl)
+* [2025-01-29, 12:42:25](https://news.ycombinator.com/item?id=42864221) - [The doctor who gave himself an ulcer and solved a medical mystery (2010)](https://www.discovermagazine.com/health/the-doctor-who-drank-infectious-broth-gave-himself-an-ulcer-and-solved-a-medical-mystery)
 * [2025-01-29, 01:00:03](https://news.ycombinator.com/item?id=42860172) - [LMD: A new, less wasteful metal 3D printing technique](https://www.core77.com/posts/135194/LMD-A-New-Less-Wasteful-Metal-3D-Printing-Technique)
 
 ## [Archives](archives/index.md)
