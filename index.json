@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-02-02, 04:09:45",
+      "https://news.ycombinator.com/item?id=42905737"
+    ],
+    [
+      "I'm Ready for You: On Balzac",
+      "https://www.lrb.co.uk/the-paper/v47/n01/raymond-n.-mackenzie/i-m-ready-for-you"
+    ]
+  ],
+  [
+    [
       "2025-02-02, 03:21:07",
       "https://news.ycombinator.com/item?id=42905453"
     ],
@@ -211,12 +221,12 @@
   ],
   [
     [
-      "2025-01-30, 19:04:05",
-      "https://news.ycombinator.com/item?id=42880953"
+      "2025-01-30, 18:25:22",
+      "https://news.ycombinator.com/item?id=42880585"
     ],
     [
-      "Andrew Ng on DeepSeek",
-      "https://www.deeplearning.ai/the-batch/issue-286/"
+      "A Rust procedural language handler for PostgreSQL",
+      "https://github.com/tcdi/plrust"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Newsstands, 2012-2019",
       "https://www.trevortraynor.com/newsstands"
-    ]
-  ],
-  [
-    [
-      "2025-01-28, 07:26:01",
-      "https://news.ycombinator.com/item?id=42849774"
-    ],
-    [
-      "In Zig, what's a writer?",
-      "https://www.openmymind.net/In-Zig-Whats-a-Writer/"
     ]
   ]
 ]
