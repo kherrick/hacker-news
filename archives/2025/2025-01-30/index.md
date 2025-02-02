@@ -24,6 +24,7 @@
 * [2025-01-30, 18:19:55](https://news.ycombinator.com/item?id=42880513) - [Cointelpro](https://en.wikipedia.org/wiki/COINTELPRO)
 * [2025-01-30, 18:14:46](https://news.ycombinator.com/item?id=42880449) - [Show HN: Iterm-Mcp – AI Terminal/REPL Control for iTerm2](https://github.com/ferrislucas/iterm-mcp)
 * [2025-01-30, 18:09:51](https://news.ycombinator.com/item?id=42880392) - [Signature moves: are we losing the ability to write by hand?](https://www.theguardian.com/news/2025/jan/21/signature-moves-are-we-losing-the-ability-to-write-by-hand)
+* [2025-01-30, 18:02:51](https://news.ycombinator.com/item?id=42880317) - [Repeat Offenders May Be Responsible for Many Shark Attacks](https://nautil.us/the-problem-with-problem-sharks-1186682/)
 * [2025-01-30, 17:57:46](https://news.ycombinator.com/item?id=42880242) - [Quaternions and Spherical Trigonometry](https://terrytao.wordpress.com/2024/12/19/quaternions-and-spherical-trigonometry/)
 * [2025-01-30, 17:26:18](https://news.ycombinator.com/item?id=42879930) - [Video: Why this simple ring was so difficult to make [video]](https://www.youtube.com/watch?v=7gTz_JmlYtQ)
 * [2025-01-30, 17:19:13](https://news.ycombinator.com/item?id=42879864) - [Cerebras fastest host for DeepSeek R1, 57x faster than Nvidia GPUs](https://venturebeat.com/ai/cerebras-becomes-the-worlds-fastest-host-for-deepseek-r1-outpacing-nvidia-gpus-by-57x/)
