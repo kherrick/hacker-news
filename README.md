@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-02, 03:21:07](https://news.ycombinator.com/item?id=42905453) - [Chatbot Software Begins to Face Fundamental Limitations](https://www.quantamagazine.org/chatbot-software-begins-to-face-fundamental-limitations-20250131/)
+* [2025-02-02, 01:40:09](https://news.ycombinator.com/item?id=42904723) - [Compiling Java into Native Binaries with Graal and Mill](https://mill-build.org/blog/7-graal-native-executables.html)
 * [2025-02-02, 01:20:54](https://news.ycombinator.com/item?id=42904578) - [Researchers just discovered a new class of life living inside humans](https://bgr.com/science/researchers-just-discovered-an-entirely-new-class-of-life-living-inside-humans/)
-* [2025-02-02, 00:27:05](https://news.ycombinator.com/item?id=42904116) - [How to Run DeepSeek R1 Distilled Reasoning Models on RyzenAI and Radeon GPUs](https://www.guru3d.com/story/amd-explains-how-to-run-deepseek-r1-distilled-reasoning-models-on-amd-ryzen-ai-and-radeon/)
 * [2025-02-01, 23:17:36](https://news.ycombinator.com/item?id=42903576) - [Avoid ISP Routers (2024)](https://routersecurity.org/ISProuters.php)
 * [2025-02-01, 22:11:45](https://news.ycombinator.com/item?id=42902936) - [RLHF Book](https://rlhfbook.com/)
 * [2025-02-01, 21:46:16](https://news.ycombinator.com/item?id=42902691) - [Macrodata Refinement](https://lumon-industries.com/)
