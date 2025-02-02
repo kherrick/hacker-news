@@ -29,6 +29,7 @@
 * [2025-01-30, 15:42:56](https://news.ycombinator.com/item?id=42878780) - [PyPI Now Supports Project Archival](https://blog.pypi.org/posts/2025-01-30-archival/)
 * [2025-01-30, 15:24:53](https://news.ycombinator.com/item?id=42878598) - [Review: Superbloom: How Technologies of Connection Tear Us Apart](https://lareviewofbooks.org/article/the-case-for-kicking-the-stone/)
 * [2025-01-30, 15:17:44](https://news.ycombinator.com/item?id=42878532) - [The AI Fad Just Burned to the Waterline](http://charleshughsmith.blogspot.com/2025/01/the-ai-fad-just-burned-to-waterline.html)
+* [2025-01-30, 15:09:08](https://news.ycombinator.com/item?id=42878450) - [Pointers Are Complicated II, or: We need better language specs (2020)](https://www.ralfj.de/blog/2020/12/14/provenance.html)
 * [2025-01-30, 14:44:33](https://news.ycombinator.com/item?id=42878173) - [Github Incident with Pull Requests and Issues](https://www.githubstatus.com/incidents/nm83zrdky73y)
 * [2025-01-30, 14:29:28](https://news.ycombinator.com/item?id=42877995) - [GitHub Is Down](https://www.githubstatus.com)
 * [2025-01-30, 14:21:20](https://news.ycombinator.com/item?id=42877910) - [String of recent killings linked to Bay Area rationalist 'death cult'](https://www.sfgate.com/bayarea/article/bay-area-death-cult-zizian-murders-20064333.php)
