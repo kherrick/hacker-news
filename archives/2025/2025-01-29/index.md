@@ -20,6 +20,7 @@
 * [2025-01-29, 20:26:01](https://news.ycombinator.com/item?id=42870690) - [Soviet Shoe Factory Principle](https://wiki.c2.com/?SovietShoeFactoryPrinciple)
 * [2025-01-29, 20:20:31](https://news.ycombinator.com/item?id=42870625) - [NordVPN says its new protocol can circumvent VPN blockers](https://gizmodo.com/nordvpn-says-its-new-protocol-can-circumvent-vpn-blockers-2000556580)
 * [2025-01-29, 19:52:27](https://news.ycombinator.com/item?id=42870230) - [Dead Games](https://garry.net/posts/dead-games)
+* [2025-01-29, 19:51:12](https://news.ycombinator.com/item?id=42870216) - [Inheritance and Subtyping](https://blog.frankel.ch/on-inheritance/)
 * [2025-01-29, 19:49:37](https://news.ycombinator.com/item?id=42870190) - [Fed leaves rates unchanged, drops reference to inflation 'progress'](https://www.reuters.com/markets/rates-bonds/fed-likely-keep-rates-steady-it-awaits-more-data-clarity-trump-policies-2025-01-29/)
 * [2025-01-29, 19:47:51](https://news.ycombinator.com/item?id=42870171) - [Airflow – Stream media files directly from macOS to AirPlay devices](https://airflow.app/)
 * [2025-01-29, 19:45:05](https://news.ycombinator.com/item?id=42870144) - [Groups helping Americans find abortion pills report Instagram 'shadow-banning'](https://www.theguardian.com/world/2025/jan/29/abortion-pills-instagram-shadow-banning)
