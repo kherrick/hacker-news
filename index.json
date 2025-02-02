@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-02, 01:20:54",
+      "https://news.ycombinator.com/item?id=42904578"
+    ],
+    [
+      "Researchers just discovered an new class of life living inside humans",
+      "https://bgr.com/science/researchers-just-discovered-an-entirely-new-class-of-life-living-inside-humans/"
+    ]
+  ],
+  [
+    [
+      "2025-02-02, 00:42:27",
+      "https://news.ycombinator.com/item?id=42904244"
+    ],
+    [
+      "Medical billing firm Medusind discloses breach affecting 360k people",
+      "https://www.bleepingcomputer.com/news/security/medical-billing-firm-medusind-discloses-breach-affecting-360-000-people/"
+    ]
+  ],
+  [
+    [
       "2025-02-02, 00:27:05",
       "https://news.ycombinator.com/item?id=42904116"
     ],
@@ -11,11 +31,21 @@
   ],
   [
     [
+      "2025-02-01, 23:45:48",
+      "https://news.ycombinator.com/item?id=42903803"
+    ],
+    [
+      "The Power of Poetry: Why Everyone Should Write",
+      "https://domofutu.substack.com/p/the-power-of-poetry"
+    ]
+  ],
+  [
+    [
       "2025-02-01, 23:17:36",
       "https://news.ycombinator.com/item?id=42903576"
     ],
     [
-      "Avoid ISP Routers",
+      "Avoid ISP Routers (2024)",
       "https://routersecurity.org/ISProuters.php"
     ]
   ],
@@ -61,32 +91,12 @@
   ],
   [
     [
-      "2025-02-01, 21:11:50",
-      "https://news.ycombinator.com/item?id=42902385"
-    ],
-    [
-      "Copyright reform is necessary for national security",
-      "https://annas-archive.org/blog/ai-copyright.html"
-    ]
-  ],
-  [
-    [
       "2025-02-01, 21:00:34",
       "https://news.ycombinator.com/item?id=42902267"
     ],
     [
       "MindsDB (YC W20) Is Hiring an Office Manager in SF",
       "https://grnh.se/83c3fffa7us"
-    ]
-  ],
-  [
-    [
-      "2025-02-01, 20:24:57",
-      "https://news.ycombinator.com/item?id=42901897"
-    ],
-    [
-      "Oracle Cloud deleting active user accounts without possibility for data recovery",
-      "https://mastodon.de/@ErikUden/113930010311998246"
     ]
   ],
   [
@@ -151,21 +161,11 @@
   ],
   [
     [
-      "2025-02-01, 16:06:33",
-      "https://news.ycombinator.com/item?id=42899400"
-    ],
-    [
-      "Have Gemini stage and write commit messages for you",
-      "https://github.com/suwi-lanji/auto-commit"
-    ]
-  ],
-  [
-    [
       "2025-02-01, 13:41:19",
       "https://news.ycombinator.com/item?id=42898201"
     ],
     [
-      "Show HN: We're building a desktop app for browser agents",
+      "Show HN: We're building a desktop app for browser-based AI agents",
       "https://meha.ai"
     ]
   ],
@@ -187,16 +187,6 @@
     [
       "CDC data are disappearing",
       "https://www.theatlantic.com/health/archive/2025/01/cdc-dei-scientific-data/681531/"
-    ]
-  ],
-  [
-    [
-      "2025-02-01, 11:43:33",
-      "https://news.ycombinator.com/item?id=42897662"
-    ],
-    [
-      "Show HN: TalkNotes – A site that turns your ideas into tasks",
-      "https://www.talknotes.tech/"
     ]
   ],
   [
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2025-01-30, 15:09:08",
+      "https://news.ycombinator.com/item?id=42878450"
+    ],
+    [
+      "Pointers Are Complicated II, or: We need better language specs (2020)",
+      "https://www.ralfj.de/blog/2020/12/14/provenance.html"
+    ]
+  ],
+  [
+    [
       "2025-01-30, 14:21:20",
       "https://news.ycombinator.com/item?id=42877910"
     ],
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=42860172"
     ],
     [
-      "LMD: A New, Less Wasteful Metal 3D Printing Technique",
+      "LMD: A new, less wasteful metal 3D printing technique",
       "https://www.core77.com/posts/135194/LMD-A-New-Less-Wasteful-Metal-3D-Printing-Technique"
     ]
   ],
