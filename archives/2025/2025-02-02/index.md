@@ -13,6 +13,7 @@
 * [2025-02-02, 17:07:31](https://news.ycombinator.com/item?id=42909921) - [Everyone knows your location: tracking myself down through in-app ads](https://timsh.org/tracking-myself-down-through-in-app-ads/)
 * [2025-02-02, 16:47:35](https://news.ycombinator.com/item?id=42909776) - [US Government Websites Are Disappearing in Real Time](https://www.wired.com/story/us-government-websites-are-disappearing-in-real-time/)
 * [2025-02-02, 16:14:49](https://news.ycombinator.com/item?id=42909530) - [Sniffnet – monitor your Internet traffic](https://github.com/GyulyVGC/sniffnet)
+* [2025-02-02, 15:19:32](https://news.ycombinator.com/item?id=42909166) - [Ask HN: What is interviewing like now with everyone using AI?](https://news.ycombinator.com/item?id=42909166)
 * [2025-02-02, 14:01:02](https://news.ycombinator.com/item?id=42908676) - [What Is the Byzantine Generals Problem in Distributed Systems?](https://newsletter.scalablethread.com/p/what-is-the-byzantine-generals-problem)
 * [2025-02-02, 13:47:23](https://news.ycombinator.com/item?id=42908606) - [Whats your max wpm in typing?](https://news.ycombinator.com/item?id=42908606)
 * [2025-02-02, 13:38:20](https://news.ycombinator.com/item?id=42908561) - [I'm a neuroscientist. Here's how gambling can change your brain](https://www.sciencefocus.com/comment/gambling-addictions-neuroscience)
