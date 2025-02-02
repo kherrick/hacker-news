@@ -6,6 +6,7 @@
 
 * [2025-02-02, 04:52:28](https://news.ycombinator.com/item?id=42905937) - [CDC orders mass retraction of research across all science and medicine journals](https://insidemedicine.substack.com/p/breaking-news-cdc-orders-mass-retraction)
 * [2025-02-02, 03:21:07](https://news.ycombinator.com/item?id=42905453) - [Chatbot Software Begins to Face Fundamental Limitations](https://www.quantamagazine.org/chatbot-software-begins-to-face-fundamental-limitations-20250131/)
+* [2025-02-02, 03:13:30](https://news.ycombinator.com/item?id=42905406) - [DeepSeek R1's recipe to replicate o1 and the future of reasoning LMs](https://www.interconnects.ai/p/deepseek-r1-recipe-for-o1)
 * [2025-02-02, 03:04:57](https://news.ycombinator.com/item?id=42905333) - [X sues Lego, Nestlé and more brands, accusing them of advertising boycott](https://www.npr.org/2025/02/01/nx-s1-5283271/elon-musk-lawsuit-advertisers-boycott-new)
 * [2025-02-02, 02:12:13](https://news.ycombinator.com/item?id=42904966) - [Tools for 2025](http://yosemitesam.ch/3-tools-for-2025/)
 * [2025-02-02, 01:54:13](https://news.ycombinator.com/item?id=42904838) - [Proposed bill to make it a crime to download DeepSeek in the US](https://www.congress.gov/bill/119th-congress/senate-bill/321/all-actions?s=3&r=1)

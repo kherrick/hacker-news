@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-02, 03:21:07](https://news.ycombinator.com/item?id=42905453) - [Chatbot Software Begins to Face Fundamental Limitations](https://www.quantamagazine.org/chatbot-software-begins-to-face-fundamental-limitations-20250131/)
+* [2025-02-02, 03:13:30](https://news.ycombinator.com/item?id=42905406) - [DeepSeek R1's recipe to replicate o1 and the future of reasoning LMs](https://www.interconnects.ai/p/deepseek-r1-recipe-for-o1)
 * [2025-02-02, 02:12:13](https://news.ycombinator.com/item?id=42904966) - [Tools for 2025](http://yosemitesam.ch/3-tools-for-2025/)
 * [2025-02-02, 01:40:09](https://news.ycombinator.com/item?id=42904723) - [Compiling Java into Native Binaries with Graal and Mill](https://mill-build.org/blog/7-graal-native-executables.html)
 * [2025-02-02, 01:20:54](https://news.ycombinator.com/item?id=42904578) - [Researchers just discovered a new class of life living inside humans](https://bgr.com/science/researchers-just-discovered-an-entirely-new-class-of-life-living-inside-humans/)
@@ -29,7 +30,6 @@
 * [2025-01-29, 14:59:23](https://news.ycombinator.com/item?id=42865611) - [Enhancing your MIDI devices with Perl](https://fuzzix.org/enhancing-midi-hardware-with-perl)
 * [2025-01-29, 01:00:03](https://news.ycombinator.com/item?id=42860172) - [LMD: A new, less wasteful metal 3D printing technique](https://www.core77.com/posts/135194/LMD-A-New-Less-Wasteful-Metal-3D-Printing-Technique)
 * [2025-01-28, 21:08:17](https://news.ycombinator.com/item?id=42858029) - [Newsstands, 2012-2019](https://www.trevortraynor.com/newsstands)
-* [2025-01-28, 07:26:01](https://news.ycombinator.com/item?id=42849774) - [In Zig, what's a writer?](https://www.openmymind.net/In-Zig-Whats-a-Writer/)
 
 ## [Archives](archives/index.md)
 
