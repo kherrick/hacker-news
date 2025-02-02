@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-02](index.md)
 
+* [2025-02-02, 22:15:30](https://news.ycombinator.com/item?id=42912412) - [Emergence of a Second Law of Thermodynamics in Isolated Quantum Systems](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.010309)
 * [2025-02-02, 20:42:41](https://news.ycombinator.com/item?id=42911598) - [The Network State Coup is Happening Right Now](https://www.thenerdreich.com/the-network-state-coup-is-happening-right-now/)
 * [2025-02-02, 20:31:53](https://news.ycombinator.com/item?id=42911511) - [A loophole used by Shein/Temu to ship packages to US tax-free](https://www.businessinsider.com/shein-temu-de-minimis-tax-loophole-scrutiny-2024-1)
 * [2025-02-02, 19:46:12](https://news.ycombinator.com/item?id=42911162) - [ScatterBrain: Unmasking the Shadow of PoisonPlug's Obfuscator](https://cloud.google.com/blog/topics/threat-intelligence/scatterbrain-unmasking-poisonplug-obfuscator)

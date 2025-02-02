@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-02, 20:31:53](https://news.ycombinator.com/item?id=42911511) - [A loophole used by Shein/Temu to ship packages to US tax-free](https://www.businessinsider.com/shein-temu-de-minimis-tax-loophole-scrutiny-2024-1)
+* [2025-02-02, 22:15:30](https://news.ycombinator.com/item?id=42912412) - [Emergence of a Second Law of Thermodynamics in Isolated Quantum Systems](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.010309)
+* [2025-02-02, 20:31:53](https://news.ycombinator.com/item?id=42911511) - [A loophole used by Shein/Temu to ship packages to US tax-free (2024)](https://www.businessinsider.com/shein-temu-de-minimis-tax-loophole-scrutiny-2024-1)
 * [2025-02-02, 19:46:12](https://news.ycombinator.com/item?id=42911162) - [ScatterBrain: Unmasking the shadow of PoisonPlug's obfuscator](https://cloud.google.com/blog/topics/threat-intelligence/scatterbrain-unmasking-poisonplug-obfuscator)
 * [2025-02-02, 19:29:45](https://news.ycombinator.com/item?id=42911042) - [Waydroid – Android in a Linux container](https://waydro.id/)
 * [2025-02-02, 19:21:55](https://news.ycombinator.com/item?id=42910983) - [UK betting giant's unlawful marketing kept suicidal gambler hooked](https://www.theguardian.com/society/2025/feb/01/i-lost-10-years-of-my-life-how-uk-betting-giants-unlawful-marketing-kept-suicidal-gambler-hooked)
@@ -21,15 +22,14 @@
 * [2025-02-01, 22:11:45](https://news.ycombinator.com/item?id=42902936) - [RLHF Book](https://rlhfbook.com/)
 * [2025-02-01, 21:46:16](https://news.ycombinator.com/item?id=42902691) - [Macrodata Refinement](https://lumon-industries.com/)
 * [2025-02-01, 18:51:31](https://news.ycombinator.com/item?id=42901007) - [Show HN: ESP32 RC Cars](https://github.com/mattsroufe/esp32_rc_cars)
+* [2025-02-01, 16:46:01](https://news.ycombinator.com/item?id=42899713) - [Bzip3: A spiritual successor to BZip2](https://github.com/kspalaiologos/bzip3)
 * [2025-01-31, 22:32:36](https://news.ycombinator.com/item?id=42893089) - [Why do War Thunder players leak classified information? [video]](https://www.youtube.com/watch?v=R7LMApkXJD8)
 * [2025-01-30, 23:12:08](https://news.ycombinator.com/item?id=42883178) - [The PETG adhesive test [video]](https://www.youtube.com/watch?v=tyo8vLorpZo)
-* [2025-01-30, 18:25:22](https://news.ycombinator.com/item?id=42880585) - [A Rust procedural language handler for PostgreSQL](https://github.com/tcdi/plrust)
 * [2025-01-30, 18:02:51](https://news.ycombinator.com/item?id=42880317) - [Repeat offenders may be responsible for many shark attacks](https://nautil.us/the-problem-with-problem-sharks-1186682/)
 * [2025-01-30, 16:27:15](https://news.ycombinator.com/item?id=42879323) - [An open-source, extensible AI agent that goes beyond code suggestions](https://block.github.io/goose/)
 * [2025-01-29, 23:44:35](https://news.ycombinator.com/item?id=42872882) - [The dumb reason why flag emojis aren't working on your site in Chrome on Windows](https://geyer.dev/blog/windows-flag-emojis/)
 * [2025-01-29, 19:51:12](https://news.ycombinator.com/item?id=42870216) - [Inheritance and Subtyping](https://blog.frankel.ch/on-inheritance/)
 * [2025-01-29, 19:16:42](https://news.ycombinator.com/item?id=42869730) - [AstroForge selects target for \"high risk, seat of the pants\" asteroid mission](https://arstechnica.com/space/2025/01/astroforge-selects-target-for-high-risk-seat-of-the-pants-asteroid-mission/)
-* [2025-01-29, 12:42:25](https://news.ycombinator.com/item?id=42864221) - [The doctor who gave himself an ulcer and solved a medical mystery (2010)](https://www.discovermagazine.com/health/the-doctor-who-drank-infectious-broth-gave-himself-an-ulcer-and-solved-a-medical-mystery)
 
 ## [Archives](archives/index.md)
 
