@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-02, 11:46:22](https://news.ycombinator.com/item?id=42908061) - [Show HN: Lume – OS lightweight CLI for MacOS & Linux VMs on Apple Silicon.](https://github.com/trycua/lume)
+* [2025-02-02, 11:42:06](https://news.ycombinator.com/item?id=42908041) - [Spaced repetition can allow for infinite recall (2022)](https://www.efavdb.com/memory%20recall)
 * [2025-02-02, 10:32:40](https://news.ycombinator.com/item?id=42907766) - [Reverse-engineering and analysis of SanDisk High Endurance microSDXC card (2020)](https://ripitapart.com/2020/07/16/reverse-engineering-and-analysis-of-sandisk-high-endurance-microsdxc-card/)
 * [2025-02-02, 10:32:30](https://news.ycombinator.com/item?id=42907765) - [Show HN: Modest – musical harmony library for Lua](https://github.com/esbudylin/modest)
 * [2025-02-02, 09:37:05](https://news.ycombinator.com/item?id=42907488) - [Analyzing the codebase of Caffeine: a high performance caching library](https://adriacabeza.github.io/2024/07/12/caffeine-cache.html)
@@ -24,7 +25,6 @@
 * [2025-01-30, 18:25:22](https://news.ycombinator.com/item?id=42880585) - [A Rust procedural language handler for PostgreSQL](https://github.com/tcdi/plrust)
 * [2025-01-30, 15:09:08](https://news.ycombinator.com/item?id=42878450) - [Pointers Are Complicated II, or: We need better language specs (2020)](https://www.ralfj.de/blog/2020/12/14/provenance.html)
 * [2025-01-30, 14:21:20](https://news.ycombinator.com/item?id=42877910) - [String of recent killings linked to Bay Area 'Zizians'](https://www.sfgate.com/bayarea/article/bay-area-death-cult-zizian-murders-20064333.php)
-* [2025-01-30, 04:58:08](https://news.ycombinator.com/item?id=42875019) - [Engineered waterways helped Ancient Amazonians became master maize farmers](https://www.sciencenews.org/article/maize-farmers-amazonians-casarabe)
 * [2025-01-29, 19:16:42](https://news.ycombinator.com/item?id=42869730) - [AstroForge selects target for \"high risk, seat of the pants\" asteroid mission](https://arstechnica.com/space/2025/01/astroforge-selects-target-for-high-risk-seat-of-the-pants-asteroid-mission/)
 * [2025-01-29, 14:59:23](https://news.ycombinator.com/item?id=42865611) - [Enhancing your MIDI devices with Perl](https://fuzzix.org/enhancing-midi-hardware-with-perl)
 * [2025-01-29, 14:16:57](https://news.ycombinator.com/item?id=42865135) - [Fossilised fish vomit found in Denmark from sixty-six million years ago](https://www.bbc.com/news/articles/cp82jle12j7o)
