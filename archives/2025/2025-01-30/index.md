@@ -26,6 +26,7 @@
 * [2025-01-30, 17:57:46](https://news.ycombinator.com/item?id=42880242) - [Quaternions and Spherical Trigonometry](https://terrytao.wordpress.com/2024/12/19/quaternions-and-spherical-trigonometry/)
 * [2025-01-30, 17:26:18](https://news.ycombinator.com/item?id=42879930) - [Video: Why this simple ring was so difficult to make [video]](https://www.youtube.com/watch?v=7gTz_JmlYtQ)
 * [2025-01-30, 17:19:13](https://news.ycombinator.com/item?id=42879864) - [Cerebras fastest host for DeepSeek R1, 57x faster than Nvidia GPUs](https://venturebeat.com/ai/cerebras-becomes-the-worlds-fastest-host-for-deepseek-r1-outpacing-nvidia-gpus-by-57x/)
+* [2025-01-30, 17:09:45](https://news.ycombinator.com/item?id=42879751) - [Researchers combine holograms and AI to create uncrackable optical encryption](https://www.optica.org/about/newsroom/news_releases/2025/researchers_combine_holograms_and_ai_to_create_uncrackable_optical_encryption_system/)
 * [2025-01-30, 17:05:54](https://news.ycombinator.com/item?id=42879713) - [Show HN: Workflow86 - An AI business analyst and automation engineer](https://www.workflow86.com/)
 * [2025-01-30, 17:00:00](https://news.ycombinator.com/item?id=42879663) - [Great Question (YC W21) Is Hiring Lead Product Designer](https://www.ycombinator.com/companies/great-question/jobs/T5RTrue-lead-product-designer)
 * [2025-01-30, 16:59:38](https://news.ycombinator.com/item?id=42879661) - [Launch HN: Karsa (YC W25) – Buy and save stablecoins internationally](https://news.ycombinator.com/item?id=42879661)
