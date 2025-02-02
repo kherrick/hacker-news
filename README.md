@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-02, 08:31:12](https://news.ycombinator.com/item?id=42907139) - [Fixing Left and Mutual Recursions in Grammars](https://brightprogrammer.in/posts/fixing-recursions-in-grammar/)
 * [2025-02-02, 04:52:28](https://news.ycombinator.com/item?id=42905937) - [CDC orders mass retraction and revision of submitted research](https://insidemedicine.substack.com/p/breaking-news-cdc-orders-mass-retraction)
 * [2025-02-02, 04:09:45](https://news.ycombinator.com/item?id=42905737) - [I'm Ready for You: On Balzac](https://www.lrb.co.uk/the-paper/v47/n01/raymond-n.-mackenzie/i-m-ready-for-you)
 * [2025-02-02, 03:21:07](https://news.ycombinator.com/item?id=42905453) - [Recent results show that LLMs struggle with compositional tasks](https://www.quantamagazine.org/chatbot-software-begins-to-face-fundamental-limitations-20250131/)
@@ -19,7 +20,6 @@
 * [2025-02-01, 12:03:51](https://news.ycombinator.com/item?id=42897746) - [Ratzilla](https://orhun.dev/ratzilla/demo/)
 * [2025-02-01, 09:27:06](https://news.ycombinator.com/item?id=42897120) - [Visualizing all books of the world in ISBN-Space](https://phiresky.github.io/blog/2025/visualizing-all-books-in-isbn-space/)
 * [2025-01-31, 22:42:30](https://news.ycombinator.com/item?id=42893196) - [Discovery of collagen in fossil bone could unlock new insights into dinosaurs](https://news.liverpool.ac.uk/2025/01/31/discovery-of-collagen-in-fossil-bone-could-unlock-new-insights-into-dinosaurs/)
-* [2025-01-31, 19:08:15](https://news.ycombinator.com/item?id=42890627) - [OpenAI O3-Mini](https://openai.com/index/openai-o3-mini/)
 * [2025-01-31, 02:04:14](https://news.ycombinator.com/item?id=42884099) - [A mouseless tale: trying for a keyboard-driven desktop](https://lwn.net/Articles/1005332/)
 * [2025-01-30, 19:40:33](https://news.ycombinator.com/item?id=42881367) - [Archivists work to save disappearing data.gov datasets](https://www.404media.co/archivists-work-to-identify-and-save-the-thousands-of-datasets-disappearing-from-data-gov/)
 * [2025-01-30, 18:25:22](https://news.ycombinator.com/item?id=42880585) - [A Rust procedural language handler for PostgreSQL](https://github.com/tcdi/plrust)
