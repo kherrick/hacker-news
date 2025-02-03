@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-03, 22:01:38",
+      "https://news.ycombinator.com/item?id=42923870"
+    ],
+    [
+      "A computer can never be held accountable",
+      "https://simonwillison.net/2025/Feb/3/a-computer-can-never-be-held-accountable/"
+    ]
+  ],
+  [
+    [
       "2025-02-03, 21:33:29",
       "https://news.ycombinator.com/item?id=42923512"
     ],
@@ -37,16 +47,6 @@
     [
       "AMD: Microcode Signature Verification Vulnerability",
       "https://github.com/google/security-research/security/advisories/GHSA-4xq7-4mgh-gp6w"
-    ]
-  ],
-  [
-    [
-      "2025-02-03, 17:56:11",
-      "https://news.ycombinator.com/item?id=42920884"
-    ],
-    [
-      "S1: Simple Test-Time Scaling",
-      "https://github.com/simplescaling/s1"
     ]
   ],
   [
@@ -91,22 +91,22 @@
   ],
   [
     [
-      "2025-02-03, 16:40:57",
-      "https://news.ycombinator.com/item?id=42920047"
-    ],
-    [
-      "Optimizing with Novel Calendrical Algorithms",
-      "https://jhpratt.dev/blog/optimizing-with-novel-calendrical-algorithms/"
-    ]
-  ],
-  [
-    [
       "2025-02-03, 16:28:45",
       "https://news.ycombinator.com/item?id=42919909"
     ],
     [
       "Httptap: View HTTP/HTTPS requests made by any Linux program",
       "https://github.com/monasticacademy/httptap"
+    ]
+  ],
+  [
+    [
+      "2025-02-03, 16:22:17",
+      "https://news.ycombinator.com/item?id=42919821"
+    ],
+    [
+      "First place in Tetris 99 using computer vision, classical AI, a lot of free time",
+      "https://bpinzone.github.io/TetrisAI/"
     ]
   ],
   [
@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2025-02-03, 15:52:34",
+      "https://news.ycombinator.com/item?id=42919408"
+    ],
+    [
+      "Show HN: Check Supply – Send Checks in the Mail",
+      "https://check.supply"
+    ]
+  ],
+  [
+    [
       "2025-02-03, 15:36:52",
       "https://news.ycombinator.com/item?id=42919221"
     ],
@@ -181,6 +191,16 @@
   ],
   [
     [
+      "2025-02-03, 14:42:51",
+      "https://news.ycombinator.com/item?id=42918644"
+    ],
+    [
+      "He went to jail for stealing someone's identity, but it was his all along",
+      "https://www.nytimes.com/2025/02/03/us/iowa-identity-theft-sentencing.html"
+    ]
+  ],
+  [
+    [
       "2025-02-03, 14:30:11",
       "https://news.ycombinator.com/item?id=42918524"
     ],
@@ -191,62 +211,52 @@
   ],
   [
     [
-      "2025-02-03, 13:53:48",
-      "https://news.ycombinator.com/item?id=42918237"
+      "2025-02-03, 14:18:18",
+      "https://news.ycombinator.com/item?id=42918425"
     ],
     [
-      "Show HN: Klarity – Open-source tool to analyze uncertainty/entropy in LLM output",
-      "https://github.com/klara-research/klarity"
+      "New York claims a small victory in 'forever war on rats'",
+      "https://www.thetimes.com/us/news-today/article/new-york-finally-claims-a-small-victory-in-forever-war-on-rats-m7x230sg8"
     ]
   ],
   [
     [
-      "2025-02-03, 12:19:19",
-      "https://news.ycombinator.com/item?id=42917434"
+      "2025-02-03, 12:50:36",
+      "https://news.ycombinator.com/item?id=42917680"
     ],
     [
-      "When Bohr got it wrong: the impact of a little-known paper on quantum theory",
-      "https://physicsworld.com/a/when-bohr-got-it-wrong-the-impact-of-a-little-known-paper-on-the-development-of-quantum-theory/"
+      "Anything threatening to be a subculture is commodified before it can walk (2014)",
+      "https://www.dezeen.com/2014/12/18/william-gibson-subculture-commodification-london-justin-mcguirk-opinion/"
     ]
   ],
   [
     [
-      "2025-02-03, 10:47:33",
-      "https://news.ycombinator.com/item?id=42916934"
+      "2025-02-03, 10:31:13",
+      "https://news.ycombinator.com/item?id=42916849"
     ],
     [
-      "Show HN: Calculate Your Revenue",
-      "https://postmake.io/revenue"
+      "AI systems with 'unacceptable risk' are now banned in the EU",
+      "https://techcrunch.com/2025/02/02/ai-systems-with-unacceptable-risk-are-now-banned-in-the-eu/"
     ]
   ],
   [
     [
-      "2025-02-03, 08:43:13",
-      "https://news.ycombinator.com/item?id=42916203"
+      "2025-02-03, 07:06:12",
+      "https://news.ycombinator.com/item?id=42915723"
     ],
     [
-      "Ruby “Thread Contention” Is Simply GVL Queuing",
-      "https://island94.org/2025/01/ruby-thread-contention-simply-gvl-queuing"
+      "Optimizing with Novel Calendrical Algorithms",
+      "https://jhpratt.dev/blog/optimizing-with-novel-calendrical-algorithms/"
     ]
   ],
   [
     [
-      "2025-02-03, 04:53:11",
-      "https://news.ycombinator.com/item?id=42915113"
+      "2025-02-03, 06:38:50",
+      "https://news.ycombinator.com/item?id=42915586"
     ],
     [
-      "Polish city is using mussels to monitor water quality (2020)",
-      "https://www.awa.asn.au/resources/latest-news/technology/innovation/polish-city-using-mussels-monitor-water-quality"
-    ]
-  ],
-  [
-    [
-      "2025-02-02, 19:29:45",
-      "https://news.ycombinator.com/item?id=42911042"
-    ],
-    [
-      "Waydroid – Android in a Linux container",
-      "https://waydro.id/"
+      "Mailspring: Cross-platform, fast, open source mail client",
+      "https://github.com/Foundry376/Mailspring"
     ]
   ],
   [
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2025-02-01, 02:06:08",
-      "https://news.ycombinator.com/item?id=42894939"
-    ],
-    [
-      "Evaluating Code Embedding Models",
-      "https://blog.voyageai.com/2024/12/04/code-retrieval-eval/"
-    ]
-  ],
-  [
-    [
       "2025-01-31, 20:54:31",
       "https://news.ycombinator.com/item?id=42891848"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2025-01-31, 16:37:36",
-      "https://news.ycombinator.com/item?id=42889148"
-    ],
-    [
-      "High-Speed Face-Tracking for Dynamic Facial Projection Mapping",
-      "https://www.vision.ict.e.titech.ac.jp/projects/DFPM/"
-    ]
-  ],
-  [
-    [
       "2025-01-31, 12:34:41",
       "https://news.ycombinator.com/item?id=42887037"
     ],
     [
       "Is there a benefit to scratching that itch? Yes and no, says new study",
       "https://newatlas.com/health-wellbeing/scratching-itch-benefit/"
+    ]
+  ],
+  [
+    [
+      "2025-01-31, 12:10:46",
+      "https://news.ycombinator.com/item?id=42886860"
+    ],
+    [
+      "Detroit’s revival takes shape after decades of decay",
+      "https://www.theguardian.com/us-news/2025/jan/04/detroit-revitalization"
     ]
   ]
 ]
