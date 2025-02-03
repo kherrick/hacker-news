@@ -68,6 +68,7 @@
 * [2025-01-31, 13:07:38](https://news.ycombinator.com/item?id=42887274) - [Building a Mesh Using Spherical Embedding](https://andrews.wiki/spherical-mesh)
 * [2025-01-31, 13:01:46](https://news.ycombinator.com/item?id=42887234) - [Battery-powered electric ferry service to connect Spain and Morocco](https://eandt.theiet.org/2025/01/28/battery-powered-electric-ferry-service-connect-spain-and-morocco)
 * [2025-01-31, 12:38:53](https://news.ycombinator.com/item?id=42887070) - [Five years of Brexit reshaped Britain](https://www.ft.com/content/4d2d78b0-eedd-485c-9a9c-4e41baf46146)
+* [2025-01-31, 12:34:41](https://news.ycombinator.com/item?id=42887037) - [Is there a benefit to scratching that itch? Yes and no, says new study](https://newatlas.com/health-wellbeing/scratching-itch-benefit/)
 * [2025-01-31, 12:11:48](https://news.ycombinator.com/item?id=42886867) - [Ear muscle we thought humans didn't use activates when people listen hard](https://www.frontiersin.org/news/2025/01/31/ear-muscle-wiggling-ears-activates-listening-frontiers-neuroscience)
 * [2025-01-31, 12:10:46](https://news.ycombinator.com/item?id=42886860) - ['It's buzzing here': Detroit's revival takes shape after decades of decay](https://www.theguardian.com/us-news/2025/jan/04/detroit-revitalization)
 * [2025-01-31, 11:55:35](https://news.ycombinator.com/item?id=42886790) - [AI and Palantir are reshaping how we fight crime](https://www.thetimes.com/comment/columnists/article/ai-there-youre-nicked-tech-is-reshaping-how-we-fight-crime-jb9bv7qh3)
