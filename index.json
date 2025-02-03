@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-02-03, 00:06:10",
+      "https://news.ycombinator.com/item?id=42913251"
+    ],
+    [
+      "Deep Research",
+      "https://openai.com/index/introducing-deep-research/"
+    ]
+  ],
+  [
+    [
       "2025-02-02, 23:45:14",
       "https://news.ycombinator.com/item?id=42913104"
     ],
     [
       "Solar Plant Accidentally Incinerates Up to 6k Birds a Year (2016)",
       "https://www.sciencealert.com/this-solar-plant-accidentally-incinerates-up-to-6-000-birds-a-year"
+    ]
+  ],
+  [
+    [
+      "2025-02-02, 23:17:38",
+      "https://news.ycombinator.com/item?id=42912911"
+    ],
+    [
+      "Autothrottle: Resource Management for SLO-Targeted Microservices",
+      "https://www.usenix.org/conference/nsdi24/presentation/wang-zibo"
     ]
   ],
   [
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=42912412"
     ],
     [
-      "Emergence of a Second Law of Thermodynamics in Isolated Quantum Systems",
+      "Emergence of a second law of thermodynamics in isolated quantum systems",
       "https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.010309"
     ]
   ],
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=42911842"
     ],
     [
-      "Costa Rican Supermarket Wins Trademark Battle Against Nintendo",
+      "Costa rican supermarket wins trademark battle against Nintendo",
       "https://ticotimes.net/2025/01/30/david-vs-goliath-costa-rican-super-mario-defeats-nintendo-in-court"
     ]
   ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-02-02, 10:32:30",
-      "https://news.ycombinator.com/item?id=42907765"
-    ],
-    [
-      "Show HN: Modest – musical harmony library for Lua",
-      "https://github.com/esbudylin/modest"
-    ]
-  ],
-  [
-    [
       "2025-02-02, 09:37:05",
       "https://news.ycombinator.com/item?id=42907488"
     ],
@@ -207,16 +217,6 @@
     [
       "Life is more than an engineering problem",
       "https://lareviewofbooks.org/article/life-is-more-than-an-engineering-problem/"
-    ]
-  ],
-  [
-    [
-      "2025-02-02, 03:21:07",
-      "https://news.ycombinator.com/item?id=42905453"
-    ],
-    [
-      "Recent results show that LLMs struggle with compositional tasks",
-      "https://www.quantamagazine.org/chatbot-software-begins-to-face-fundamental-limitations-20250131/"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2025-01-31, 20:04:30",
+      "https://news.ycombinator.com/item?id=42891284"
+    ],
+    [
+      "Global Variables Are Not the Problem",
+      "https://codestyleandtaste.com/globals-are-not-the-problem.html"
+    ]
+  ],
+  [
+    [
       "2025-01-30, 23:12:08",
       "https://news.ycombinator.com/item?id=42883178"
     ],
@@ -285,18 +295,8 @@
       "https://news.ycombinator.com/item?id=42872882"
     ],
     [
-      "The dumb reason why flag emojis aren't working on your site in Chrome on Windows",
+      "The dumb reason why flag emojis aren't working on Chrome on Windows",
       "https://geyer.dev/blog/windows-flag-emojis/"
-    ]
-  ],
-  [
-    [
-      "2025-01-29, 19:16:42",
-      "https://news.ycombinator.com/item?id=42869730"
-    ],
-    [
-      "AstroForge selects target for \"high risk, seat of the pants\" asteroid mission",
-      "https://arstechnica.com/space/2025/01/astroforge-selects-target-for-high-risk-seat-of-the-pants-asteroid-mission/"
     ]
   ]
 ]
