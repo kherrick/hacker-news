@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-03](index.md)
 
+* [2025-02-03, 09:25:12](https://news.ycombinator.com/item?id=42916464) - [DeepSeek gives Europe's tech firms a chance to catch up](https://www.reuters.com/technology/artificial-intelligence/deepseek-gives-europes-tech-firms-chance-catch-up-global-ai-race-2025-02-03/)
 * [2025-02-03, 07:46:37](https://news.ycombinator.com/item?id=42915905) - [Anthropic: \"Applicants should not use AI assistants\"](https://simonwillison.net/2025/Feb/2/anthropic/)
 * [2025-02-03, 06:27:11](https://news.ycombinator.com/item?id=42915527) - [The Nation Needs a Shipbuilding Revolution](https://www.usni.org/magazines/proceedings/2025/february/nation-needs-shipbuilding-revolution)
 * [2025-02-03, 05:19:52](https://news.ycombinator.com/item?id=42915231) - [London Street Views (1840)](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~323099~90092214:Composite--London-Street-Views-No--)
