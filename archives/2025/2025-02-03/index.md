@@ -7,6 +7,7 @@
 * [2025-02-03, 18:02:42](https://news.ycombinator.com/item?id=42920962) - [Remote Code Execution in Marvel Rivals Game](https://shalzuth.com/Blog/IFoundAGameExploit)
 * [2025-02-03, 17:41:28](https://news.ycombinator.com/item?id=42920723) - [It's not 'emotional labour', it's kin work](https://thefuturefeeling.substack.com/p/its-not-emotional-labour)
 * [2025-02-03, 17:34:17](https://news.ycombinator.com/item?id=42920657) - [New Proofs Probe the Limits of Mathematical Truth](https://www.quantamagazine.org/new-proofs-probe-the-limits-of-mathematical-truth-20250203/)
+* [2025-02-03, 17:20:26](https://news.ycombinator.com/item?id=42920500) - [Better AI Is a Matter of Timing](https://spectrum.ieee.org/mems-time)
 * [2025-02-03, 17:14:55](https://news.ycombinator.com/item?id=42920437) - [Coup](https://wh47.substack.com/p/ongoing-coup)
 * [2025-02-03, 17:00:32](https://news.ycombinator.com/item?id=42920292) - [Hightouch (YC S19) Is Hiring a Distributed Systems Engineer](https://news.ycombinator.com/item?id=42920292)
 * [2025-02-03, 17:00:09](https://news.ycombinator.com/item?id=42920285) - [Developer Philosophy](https://qntm.org/devphilo)
