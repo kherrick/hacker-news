@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-03, 03:06:59](https://news.ycombinator.com/item?id=42914478) - [The Dumbest Trade War Fallout Begins](https://www.wsj.com/opinion/the-trump-tariff-fallout-begins-canada-mexico-vow-retaliation-economic-uncertainty-da522b44)
+* [2025-02-03, 01:18:07](https://news.ycombinator.com/item?id=42913831) - [Patterns for Personal Web Sites (2003)](http://www.rdrop.com/~half/Creations/Writings/Web.patterns/index.html)
 * [2025-02-03, 00:06:10](https://news.ycombinator.com/item?id=42913251) - [Deep Research](https://openai.com/index/introducing-deep-research/)
 * [2025-02-02, 23:58:37](https://news.ycombinator.com/item?id=42913180) - [The Art of Dithering and Retro Shading for the Web](https://blog.maximeheckel.com/posts/the-art-of-dithering-and-retro-shading-web/)
 * [2025-02-02, 23:17:38](https://news.ycombinator.com/item?id=42912911) - [Autothrottle: Resource Management for SLO-Targeted Microservices](https://www.usenix.org/conference/nsdi24/presentation/wang-zibo)
@@ -13,7 +15,6 @@
 * [2025-02-02, 19:29:45](https://news.ycombinator.com/item?id=42911042) - [Waydroid – Android in a Linux container](https://waydro.id/)
 * [2025-02-02, 19:00:10](https://news.ycombinator.com/item?id=42910829) - [The Legacy of Lies in Alzheimer's Science](https://www.nytimes.com/2025/01/24/opinion/alzheimers-fraud-cure.html)
 * [2025-02-02, 17:07:31](https://news.ycombinator.com/item?id=42909921) - [Everyone knows your location: tracking myself down through in-app ads](https://timsh.org/tracking-myself-down-through-in-app-ads/)
-* [2025-02-02, 16:14:49](https://news.ycombinator.com/item?id=42909530) - [Sniffnet – monitor your Internet traffic](https://github.com/GyulyVGC/sniffnet)
 * [2025-02-02, 15:19:32](https://news.ycombinator.com/item?id=42909166) - [Ask HN: What is interviewing like now with everyone using AI?](https://news.ycombinator.com/item?id=42909166)
 * [2025-02-02, 11:46:22](https://news.ycombinator.com/item?id=42908061) - [Show HN: Lume – OS lightweight CLI for MacOS and Linux VMs on Apple Silicon](https://github.com/trycua/lume)
 * [2025-02-02, 11:42:06](https://news.ycombinator.com/item?id=42908041) - [Spaced repetition can allow for infinite recall (2022)](https://www.efavdb.com/memory%20recall)
@@ -25,7 +26,6 @@
 * [2025-02-01, 18:51:31](https://news.ycombinator.com/item?id=42901007) - [Show HN: ESP32 RC Cars](https://github.com/mattsroufe/esp32_rc_cars)
 * [2025-02-01, 03:07:35](https://news.ycombinator.com/item?id=42895265) - [Hytradboi 2025 Program](https://www.hytradboi.com/2025/)
 * [2025-01-31, 13:19:19](https://news.ycombinator.com/item?id=42887356) - [NASA's Asteroid Bennu Sample Reveals Mix of Life's Ingredients](https://www.nasa.gov/news-release/nasas-asteroid-bennu-sample-reveals-mix-of-lifes-ingredients/)
-* [2025-01-30, 23:12:08](https://news.ycombinator.com/item?id=42883178) - [The PETG adhesive test [video]](https://www.youtube.com/watch?v=tyo8vLorpZo)
 * [2025-01-30, 22:08:19](https://news.ycombinator.com/item?id=42882649) - [TopoNets: High-Performing Vision and Language Models with Brain-Like Topography](https://toponets.github.io/)
 * [2025-01-30, 16:27:15](https://news.ycombinator.com/item?id=42879323) - [An open-source, extensible AI agent that goes beyond code suggestions](https://block.github.io/goose/)
 * [2025-01-29, 23:44:35](https://news.ycombinator.com/item?id=42872882) - [The dumb reason why flag emojis aren't working on Chrome on Windows](https://geyer.dev/blog/windows-flag-emojis/)
