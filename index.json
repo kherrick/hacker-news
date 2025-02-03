@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-02-03, 09:25:12",
-      "https://news.ycombinator.com/item?id=42916464"
-    ],
-    [
-      "DeepSeek gives Europe's tech firms a chance to catch up",
-      "https://www.reuters.com/technology/artificial-intelligence/deepseek-gives-europes-tech-firms-chance-catch-up-global-ai-race-2025-02-03/"
-    ]
-  ],
-  [
-    [
       "2025-02-03, 08:46:27",
       "https://news.ycombinator.com/item?id=42916219"
     ],
@@ -187,6 +177,16 @@
     [
       "Reverse-engineering and analysis of SanDisk High Endurance microSDXC card (2020)",
       "https://ripitapart.com/2020/07/16/reverse-engineering-and-analysis-of-sandisk-high-endurance-microsdxc-card/"
+    ]
+  ],
+  [
+    [
+      "2025-02-02, 09:37:05",
+      "https://news.ycombinator.com/item?id=42907488"
+    ],
+    [
+      "Analyzing the codebase of Caffeine, a high performance caching library",
+      "https://adriacabeza.github.io/2024/07/12/caffeine-cache.html"
     ]
   ],
   [
