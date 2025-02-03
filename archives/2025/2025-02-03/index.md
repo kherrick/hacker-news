@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-03](index.md)
 
 * [2025-02-03, 20:35:26](https://news.ycombinator.com/item?id=42922695) - [Where in the U.S. Does Middle-Class Income Stretch the Furthest?](https://upgradedpoints.com/news/cities-where-middle-class-income-goes-furthest/)
+* [2025-02-03, 19:48:51](https://news.ycombinator.com/item?id=42922052) - [The Cantonese Scrolls (粵卷) – A Cantonese Language Learning Mental RPG](https://cantoscrolls.com/)
 * [2025-02-03, 19:47:25](https://news.ycombinator.com/item?id=42922038) - [Hello, I'm Mr. Null. My Name Makes Me Invisible to Computers (2015)](https://www.wired.com/2015/11/null/)
 * [2025-02-03, 19:32:36](https://news.ycombinator.com/item?id=42921867) - [Texas Tempts Meta](https://www.bloomberg.com/opinion/articles/2025-02-03/texas-tempts-meta)
 * [2025-02-03, 19:26:50](https://news.ycombinator.com/item?id=42921803) - [Bluesky: Advanced Bridge for Mastodon and Telegram](https://mastogr.am/)
