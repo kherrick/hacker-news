@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-03, 17:00:32",
+      "https://news.ycombinator.com/item?id=42920292"
+    ],
+    [
+      "Hightouch (YC S19) Is Hiring a Distributed Systems Engineer",
+      "https://news.ycombinator.com/item?id=42920292"
+    ]
+  ],
+  [
+    [
       "2025-02-03, 16:40:57",
       "https://news.ycombinator.com/item?id=42920047"
     ],
@@ -17,16 +27,6 @@
     [
       "Httptap: View HTTP/HTTPS requests made by any Linux program",
       "https://github.com/monasticacademy/httptap"
-    ]
-  ],
-  [
-    [
-      "2025-02-03, 16:22:17",
-      "https://news.ycombinator.com/item?id=42919821"
-    ],
-    [
-      "First place in Tetris 99 using computer vision and classical AI",
-      "https://bpinzone.github.io/TetrisAI/"
     ]
   ],
   [
@@ -231,11 +231,21 @@
   ],
   [
     [
+      "2025-02-01, 23:48:34",
+      "https://news.ycombinator.com/item?id=42903821"
+    ],
+    [
+      "PE basics: A windows executable walkthrough – File formats hexplorations 16 [video]",
+      "https://www.youtube.com/watch?v=eJ1bQmKDZw8"
+    ]
+  ],
+  [
+    [
       "2025-02-01, 02:25:39",
       "https://news.ycombinator.com/item?id=42895049"
     ],
     [
-      "Setting up a Linux writecache as a RAM disk",
+      "Setting up a Linux writecache as a RAM disk (2019)",
       "https://www.admin-magazine.com/HPC/Articles/Linux-Writecache"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "Forgeries, Fakes, and Phantom Time",
       "https://www.historytoday.com/archive/missing-pieces/forgeries-fakes-and-phantom-time"
-    ]
-  ],
-  [
-    [
-      "2025-01-30, 16:27:15",
-      "https://news.ycombinator.com/item?id=42879323"
-    ],
-    [
-      "Goose: An open-source, extensible AI agent that goes beyond code suggestions",
-      "https://block.github.io/goose/"
     ]
   ],
   [
