@@ -29,7 +29,7 @@
 * [2025-01-31, 13:19:19](https://news.ycombinator.com/item?id=42887356) - [NASA's Asteroid Bennu Sample Reveals Mix of Life's Ingredients](https://www.nasa.gov/news-release/nasas-asteroid-bennu-sample-reveals-mix-of-lifes-ingredients/)
 * [2025-01-30, 22:08:19](https://news.ycombinator.com/item?id=42882649) - [TopoNets: High-Performing Vision and Language Models with Brain-Like Topography](https://toponets.github.io/)
 * [2025-01-30, 16:27:15](https://news.ycombinator.com/item?id=42879323) - [Goose: An open-source, extensible AI agent that goes beyond code suggestions](https://block.github.io/goose/)
-* [2025-01-29, 23:44:35](https://news.ycombinator.com/item?id=42872882) - [The dumb reason why flag emojis aren't working on Chrome on Windows](https://geyer.dev/blog/windows-flag-emojis/)
+* [2025-01-30, 04:44:30](https://news.ycombinator.com/item?id=42874942) - [Fake Thinking and Real Thinking](https://joecarlsmith.com/2025/01/28/fake-thinking-and-real-thinking/)
 
 ## [Archives](archives/index.md)
 
