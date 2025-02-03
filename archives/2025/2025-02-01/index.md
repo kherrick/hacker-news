@@ -63,6 +63,7 @@
 * [2025-02-01, 08:00:34](https://news.ycombinator.com/item?id=42896716) - [Show HN: Perforator – cluster-wide profiling tool for large data centers](https://github.com/yandex/perforator)
 * [2025-02-01, 07:59:36](https://news.ycombinator.com/item?id=42896710) - [The Severance writer and cast on corporate cults, sci-fi, and more](https://arstechnica.com/culture/2025/01/the-severance-writer-and-cast-on-corporate-cults-sci-fi-and-more/)
 * [2025-02-01, 07:54:04](https://news.ycombinator.com/item?id=42896682) - [Reflections on palantir – Nabeel S. Qureshi](https://nabeelqu.co/reflections-on-palantir)
+* [2025-02-01, 07:11:56](https://news.ycombinator.com/item?id=42896458) - [Ask HN: Does anyone still use code snippets?](https://news.ycombinator.com/item?id=42896458)
 * [2025-02-01, 07:01:07](https://news.ycombinator.com/item?id=42896387) - [List of 200 UK companies that moved to 4-day working week](https://future4days.com/list-of-200-uk-companies-that-moved-to-4-day-working-week/)
 * [2025-02-01, 06:53:54](https://news.ycombinator.com/item?id=42896351) - [Shades of Blunders](https://lichess.org/@/theScot/blog/50-shades-of-blunders/84VpVCDn)
 * [2025-02-01, 06:26:07](https://news.ycombinator.com/item?id=42896188) - [Norway's wealth fund now worth $319,900 per citizen](https://sherwood.news/world/norways-wealth-fund-reports-record-profits-worth-usd319-900-citizen/)
