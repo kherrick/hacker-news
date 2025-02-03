@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=42916219"
     ],
     [
-      "Bayesian Epistemology",
+      "Bayesian Epistemology (2022)",
       "https://plato.stanford.edu/entries/epistemology-bayesian/"
     ]
   ],
@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2025-02-02, 19:46:12",
+      "https://news.ycombinator.com/item?id=42911162"
+    ],
+    [
+      "ScatterBrain: Unmasking the shadow of PoisonPlug's obfuscator",
+      "https://cloud.google.com/blog/topics/threat-intelligence/scatterbrain-unmasking-poisonplug-obfuscator"
+    ]
+  ],
+  [
+    [
       "2025-02-02, 19:29:45",
       "https://news.ycombinator.com/item?id=42911042"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2025-02-01, 18:51:31",
-      "https://news.ycombinator.com/item?id=42901007"
-    ],
-    [
-      "Show HN: ESP32 RC Cars",
-      "https://github.com/mattsroufe/esp32_rc_cars"
-    ]
-  ],
-  [
-    [
       "2025-02-01, 03:07:35",
       "https://news.ycombinator.com/item?id=42895265"
     ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2025-01-30, 22:08:19",
+      "https://news.ycombinator.com/item?id=42882649"
+    ],
+    [
+      "TopoNets: High-Performing Vision and Language Models with Brain-Like Topography",
+      "https://toponets.github.io/"
+    ]
+  ],
+  [
+    [
       "2025-01-30, 18:42:00",
       "https://news.ycombinator.com/item?id=42880740"
     ],
@@ -277,16 +287,6 @@
     [
       "Goose: An open-source, extensible AI agent that goes beyond code suggestions",
       "https://block.github.io/goose/"
-    ]
-  ],
-  [
-    [
-      "2025-01-30, 16:14:22",
-      "https://news.ycombinator.com/item?id=42879145"
-    ],
-    [
-      "Dart Macros and Focus",
-      "https://shorebird.dev/blog/dart-macros/"
     ]
   ],
   [
