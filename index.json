@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-02-03, 18:02:42",
+      "https://news.ycombinator.com/item?id=42920962"
+    ],
+    [
+      "Remote Code Execution in Marvel Rivals Game",
+      "https://shalzuth.com/Blog/IFoundAGameExploit"
+    ]
+  ],
+  [
+    [
+      "2025-02-03, 17:41:28",
+      "https://news.ycombinator.com/item?id=42920723"
+    ],
+    [
+      "It's not 'emotional labour', it's kin work",
+      "https://thefuturefeeling.substack.com/p/its-not-emotional-labour"
+    ]
+  ],
+  [
+    [
+      "2025-02-03, 17:34:17",
+      "https://news.ycombinator.com/item?id=42920657"
+    ],
+    [
+      "New Proofs Probe the Limits of Mathematical Truth",
+      "https://www.quantamagazine.org/new-proofs-probe-the-limits-of-mathematical-truth-20250203/"
+    ]
+  ],
+  [
+    [
       "2025-02-03, 17:00:32",
       "https://news.ycombinator.com/item?id=42920292"
     ],
@@ -47,6 +77,16 @@
     [
       "Httptap: View HTTP/HTTPS requests made by any Linux program",
       "https://github.com/monasticacademy/httptap"
+    ]
+  ],
+  [
+    [
+      "2025-02-03, 16:19:45",
+      "https://news.ycombinator.com/item?id=42919788"
+    ],
+    [
+      "I Conditioned Myself to Fail",
+      "https://www.brainbun.com/blog/i-conditioned-myself-to-fail/"
     ]
   ],
   [
@@ -171,32 +211,12 @@
   ],
   [
     [
-      "2025-02-03, 00:06:10",
-      "https://news.ycombinator.com/item?id=42913251"
-    ],
-    [
-      "Introducing deep research",
-      "https://openai.com/index/introducing-deep-research/"
-    ]
-  ],
-  [
-    [
       "2025-02-02, 22:27:54",
       "https://news.ycombinator.com/item?id=42912515"
     ],
     [
       "GarminDB",
       "https://github.com/tcgoetz/GarminDB"
-    ]
-  ],
-  [
-    [
-      "2025-02-02, 22:19:10",
-      "https://news.ycombinator.com/item?id=42912438"
-    ],
-    [
-      "F-strings for C++26 proposal [pdf]",
-      "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3412r0.pdf"
     ]
   ],
   [
@@ -251,6 +271,16 @@
   ],
   [
     [
+      "2025-02-01, 02:06:08",
+      "https://news.ycombinator.com/item?id=42894939"
+    ],
+    [
+      "Evaluating Code Embedding Models",
+      "https://blog.voyageai.com/2024/12/04/code-retrieval-eval/"
+    ]
+  ],
+  [
+    [
       "2025-01-31, 16:37:36",
       "https://news.ycombinator.com/item?id=42889148"
     ],
@@ -261,42 +291,12 @@
   ],
   [
     [
-      "2025-01-31, 03:57:10",
-      "https://news.ycombinator.com/item?id=42884579"
-    ],
-    [
-      "How many ants live on Earth? (2022)",
-      "https://www.science.org/content/article/how-many-ants-live-earth"
-    ]
-  ],
-  [
-    [
-      "2025-01-30, 23:06:42",
-      "https://news.ycombinator.com/item?id=42883139"
-    ],
-    [
-      "Ask HN: Promoted, but Career Path Derailed",
-      "https://news.ycombinator.com/item?id=42883139"
-    ]
-  ],
-  [
-    [
       "2025-01-30, 18:42:00",
       "https://news.ycombinator.com/item?id=42880740"
     ],
     [
       "Forgeries, Fakes, and Phantom Time",
       "https://www.historytoday.com/archive/missing-pieces/forgeries-fakes-and-phantom-time"
-    ]
-  ],
-  [
-    [
-      "2025-01-29, 23:44:35",
-      "https://news.ycombinator.com/item?id=42872882"
-    ],
-    [
-      "Some flag emojis aren’t working on Chrome on Windows",
-      "https://geyer.dev/blog/windows-flag-emojis/"
     ]
   ]
 ]
