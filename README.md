@@ -2,7 +2,6 @@
 
 * [2025-02-03, 03:57:43](https://news.ycombinator.com/item?id=42914794) - [The Economic and Fiscal Effects of the Trump Administration's Proposed Tariffs](https://budgetlab.yale.edu/research/economic-and-fiscal-effects-trump-administrations-proposed-tarrifs)
 * [2025-02-03, 02:55:24](https://news.ycombinator.com/item?id=42914413) - [Managing Secrets in Docker Compose – A Developer's Guide](https://phase.dev/blog/docker-compose-secrets/)
-* [2025-02-03, 02:03:28](https://news.ycombinator.com/item?id=42914135) - [Making System Calls in Rust: Requesting Services from the Kernel](https://www.kaishira.com/2025/01/30/making-system-calls-in-rust-requesting-services-from-the-kernel/)
 * [2025-02-03, 01:18:07](https://news.ycombinator.com/item?id=42913831) - [Patterns for Personal Web Sites (2003)](http://www.rdrop.com/~half/Creations/Writings/Web.patterns/index.html)
 * [2025-02-03, 00:06:10](https://news.ycombinator.com/item?id=42913251) - [Introducing deep research](https://openai.com/index/introducing-deep-research/)
 * [2025-02-02, 23:58:37](https://news.ycombinator.com/item?id=42913180) - [The Art of Dithering and Retro Shading for the Web](https://blog.maximeheckel.com/posts/the-art-of-dithering-and-retro-shading-web/)
@@ -27,6 +26,7 @@
 * [2025-02-01, 03:07:35](https://news.ycombinator.com/item?id=42895265) - [Hytradboi 2025 Program](https://www.hytradboi.com/2025/)
 * [2025-01-31, 20:04:30](https://news.ycombinator.com/item?id=42891284) - [Global variables are not the problem](https://codestyleandtaste.com/globals-are-not-the-problem.html)
 * [2025-01-31, 13:19:19](https://news.ycombinator.com/item?id=42887356) - [NASA's Asteroid Bennu Sample Reveals Mix of Life's Ingredients](https://www.nasa.gov/news-release/nasas-asteroid-bennu-sample-reveals-mix-of-lifes-ingredients/)
+* [2025-01-31, 06:58:56](https://news.ycombinator.com/item?id=42885259) - [Air quality map of Kigali, Rwanda](https://maps.open-seneca.org/city/kigali)
 * [2025-01-30, 22:08:19](https://news.ycombinator.com/item?id=42882649) - [TopoNets: High-Performing Vision and Language Models with Brain-Like Topography](https://toponets.github.io/)
 * [2025-01-30, 16:27:15](https://news.ycombinator.com/item?id=42879323) - [Goose: An open-source, extensible AI agent that goes beyond code suggestions](https://block.github.io/goose/)
 * [2025-01-30, 04:44:30](https://news.ycombinator.com/item?id=42874942) - [Fake Thinking and Real Thinking](https://joecarlsmith.com/2025/01/28/fake-thinking-and-real-thinking/)
