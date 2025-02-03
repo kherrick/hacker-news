@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-03, 04:53:11](https://news.ycombinator.com/item?id=42915113) - [Polish city is using mussels to monitor water quality](https://www.awa.asn.au/resources/latest-news/technology/innovation/polish-city-using-mussels-monitor-water-quality)
-* [2025-02-03, 02:55:24](https://news.ycombinator.com/item?id=42914413) - [Managing Secrets in Docker Compose – A Developer's Guide](https://phase.dev/blog/docker-compose-secrets/)
 * [2025-02-03, 01:18:07](https://news.ycombinator.com/item?id=42913831) - [Patterns for Personal Web Sites (2003)](http://www.rdrop.com/~half/Creations/Writings/Web.patterns/index.html)
 * [2025-02-03, 00:06:10](https://news.ycombinator.com/item?id=42913251) - [Introducing deep research](https://openai.com/index/introducing-deep-research/)
 * [2025-02-02, 23:58:37](https://news.ycombinator.com/item?id=42913180) - [The Art of Dithering and Retro Shading for the Web](https://blog.maximeheckel.com/posts/the-art-of-dithering-and-retro-shading-web/)
@@ -20,6 +19,7 @@
 * [2025-02-02, 11:42:06](https://news.ycombinator.com/item?id=42908041) - [Spaced repetition can allow for infinite recall (2022)](https://www.efavdb.com/memory%20recall)
 * [2025-02-02, 10:32:40](https://news.ycombinator.com/item?id=42907766) - [Reverse-engineering and analysis of SanDisk High Endurance microSDXC card (2020)](https://ripitapart.com/2020/07/16/reverse-engineering-and-analysis-of-sandisk-high-endurance-microsdxc-card/)
 * [2025-02-02, 09:37:05](https://news.ycombinator.com/item?id=42907488) - [Analyzing the codebase of Caffeine, a high performance caching library](https://adriacabeza.github.io/2024/07/12/caffeine-cache.html)
+* [2025-02-02, 08:53:58](https://news.ycombinator.com/item?id=42907268) - [Life is more than an engineering problem](https://lareviewofbooks.org/article/life-is-more-than-an-engineering-problem/)
 * [2025-02-01, 22:11:45](https://news.ycombinator.com/item?id=42902936) - [RLHF Book](https://rlhfbook.com/)
 * [2025-02-01, 21:46:16](https://news.ycombinator.com/item?id=42902691) - [Macrodata Refinement](https://lumon-industries.com/)
 * [2025-02-01, 18:51:31](https://news.ycombinator.com/item?id=42901007) - [Show HN: ESP32 RC Cars](https://github.com/mattsroufe/esp32_rc_cars)
@@ -29,7 +29,7 @@
 * [2025-01-31, 06:58:56](https://news.ycombinator.com/item?id=42885259) - [Air quality map of Kigali, Rwanda](https://maps.open-seneca.org/city/kigali)
 * [2025-01-30, 22:08:19](https://news.ycombinator.com/item?id=42882649) - [TopoNets: High-Performing Vision and Language Models with Brain-Like Topography](https://toponets.github.io/)
 * [2025-01-30, 16:27:15](https://news.ycombinator.com/item?id=42879323) - [Goose: An open-source, extensible AI agent that goes beyond code suggestions](https://block.github.io/goose/)
-* [2025-01-30, 04:44:30](https://news.ycombinator.com/item?id=42874942) - [Fake Thinking and Real Thinking](https://joecarlsmith.com/2025/01/28/fake-thinking-and-real-thinking/)
+* [2025-01-30, 04:44:30](https://news.ycombinator.com/item?id=42874942) - [Fake thinking and real thinking](https://joecarlsmith.com/2025/01/28/fake-thinking-and-real-thinking/)
 
 ## [Archives](archives/index.md)
 
