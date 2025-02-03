@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-03, 13:53:48](https://news.ycombinator.com/item?id=42918237) - [Show HN: Klarity – Open-source tool to analyze uncertainty/entropy in LLM output](https://github.com/klara-research/klarity)
 * [2025-02-03, 12:50:36](https://news.ycombinator.com/item?id=42917680) - [\"Anything threatening to be a subculture is commodified before it can walk\" (2014)](https://www.dezeen.com/2014/12/18/william-gibson-subculture-commodification-london-justin-mcguirk-opinion/)
-* [2025-02-03, 12:21:52](https://news.ycombinator.com/item?id=42917454) - [Our channel on YouTube has been deleted due to “spam and deceptive policies”](https://bsky.app/profile/sinevibes.bsky.social/post/3lhazuyn5as2t)
 * [2025-02-03, 08:46:27](https://news.ycombinator.com/item?id=42916219) - [Bayesian Epistemology (2022)](https://plato.stanford.edu/entries/epistemology-bayesian/)
+* [2025-02-03, 08:43:13](https://news.ycombinator.com/item?id=42916203) - [Ruby \"Thread Contention\" Is Simply GVL Queuing](https://island94.org/2025/01/ruby-thread-contention-simply-gvl-queuing)
 * [2025-02-03, 05:19:52](https://news.ycombinator.com/item?id=42915231) - [London Street Views (1840)](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~323099~90092214:Composite--London-Street-Views-No--)
 * [2025-02-03, 04:53:11](https://news.ycombinator.com/item?id=42915113) - [Polish city is using mussels to monitor water quality (2020)](https://www.awa.asn.au/resources/latest-news/technology/innovation/polish-city-using-mussels-monitor-water-quality)
 * [2025-02-03, 02:59:00](https://news.ycombinator.com/item?id=42914431) - [Chaplin: Local visual speech recognition (VSR) in real-time](https://github.com/amanvirparhar/chaplin)
@@ -26,7 +27,6 @@
 * [2025-01-31, 13:19:19](https://news.ycombinator.com/item?id=42887356) - [NASA's Asteroid Bennu Sample Reveals Mix of Life's Ingredients](https://www.nasa.gov/news-release/nasas-asteroid-bennu-sample-reveals-mix-of-lifes-ingredients/)
 * [2025-01-31, 12:10:46](https://news.ycombinator.com/item?id=42886860) - [“It's buzzing here”: Detroit’s revival takes shape after decades of decay](https://www.theguardian.com/us-news/2025/jan/04/detroit-revitalization)
 * [2025-01-31, 03:57:10](https://news.ycombinator.com/item?id=42884579) - [How many ants live on Earth? (2022)](https://www.science.org/content/article/how-many-ants-live-earth)
-* [2025-01-30, 22:08:19](https://news.ycombinator.com/item?id=42882649) - [TopoNets: High-Performing Vision and Language Models with Brain-Like Topography](https://toponets.github.io/)
 * [2025-01-30, 18:42:00](https://news.ycombinator.com/item?id=42880740) - [Forgeries, Fakes, and Phantom Time](https://www.historytoday.com/archive/missing-pieces/forgeries-fakes-and-phantom-time)
 * [2025-01-30, 16:27:15](https://news.ycombinator.com/item?id=42879323) - [Goose: An open-source, extensible AI agent that goes beyond code suggestions](https://block.github.io/goose/)
 * [2025-01-30, 14:19:12](https://news.ycombinator.com/item?id=42877886) - [Why Durable Execution Should Be Lightweight](https://www.dbos.dev/blog/what-is-lightweight-durable-execution)
