@@ -11,22 +11,22 @@
   ],
   [
     [
+      "2025-02-03, 08:46:27",
+      "https://news.ycombinator.com/item?id=42916219"
+    ],
+    [
+      "Bayesian Epistemology",
+      "https://plato.stanford.edu/entries/epistemology-bayesian/"
+    ]
+  ],
+  [
+    [
       "2025-02-03, 07:46:37",
       "https://news.ycombinator.com/item?id=42915905"
     ],
     [
       "Anthropic: \"Applicants should not use AI assistants\"",
       "https://simonwillison.net/2025/Feb/2/anthropic/"
-    ]
-  ],
-  [
-    [
-      "2025-02-03, 06:27:11",
-      "https://news.ycombinator.com/item?id=42915527"
-    ],
-    [
-      "The Nation Needs a Shipbuilding Revolution",
-      "https://www.usni.org/magazines/proceedings/2025/february/nation-needs-shipbuilding-revolution"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2025-02-02, 09:37:05",
-      "https://news.ycombinator.com/item?id=42907488"
-    ],
-    [
-      "Analyzing the codebase of Caffeine, a high performance caching library",
-      "https://adriacabeza.github.io/2024/07/12/caffeine-cache.html"
-    ]
-  ],
-  [
-    [
       "2025-02-01, 21:46:16",
       "https://news.ycombinator.com/item?id=42902691"
     ],
@@ -287,6 +277,16 @@
     [
       "Goose: An open-source, extensible AI agent that goes beyond code suggestions",
       "https://block.github.io/goose/"
+    ]
+  ],
+  [
+    [
+      "2025-01-30, 16:14:22",
+      "https://news.ycombinator.com/item?id=42879145"
+    ],
+    [
+      "Dart Macros and Focus",
+      "https://shorebird.dev/blog/dart-macros/"
     ]
   ],
   [
