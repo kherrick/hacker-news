@@ -8,7 +8,7 @@
 * [2025-02-03, 02:59:00](https://news.ycombinator.com/item?id=42914431) - [Chaplin: Local visual speech recognition (VSR) in real-time](https://github.com/amanvirparhar/chaplin)
 * [2025-02-03, 01:18:07](https://news.ycombinator.com/item?id=42913831) - [Patterns for Personal Web Sites (2003)](http://www.rdrop.com/~half/Creations/Writings/Web.patterns/index.html)
 * [2025-02-03, 00:06:10](https://news.ycombinator.com/item?id=42913251) - [Introducing deep research](https://openai.com/index/introducing-deep-research/)
-* [2025-02-02, 23:58:37](https://news.ycombinator.com/item?id=42913180) - [The Art of Dithering and Retro Shading for the Web](https://blog.maximeheckel.com/posts/the-art-of-dithering-and-retro-shading-web/)
+* [2025-02-02, 23:58:37](https://news.ycombinator.com/item?id=42913180) - [The Art of Dithering and Retro Shading for the Web (2024)](https://blog.maximeheckel.com/posts/the-art-of-dithering-and-retro-shading-web/)
 * [2025-02-02, 22:27:54](https://news.ycombinator.com/item?id=42912515) - [GarminDB](https://github.com/tcgoetz/GarminDB)
 * [2025-02-02, 22:19:10](https://news.ycombinator.com/item?id=42912438) - [F-strings for C++26 proposal [pdf]](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3412r0.pdf)
 * [2025-02-02, 22:15:30](https://news.ycombinator.com/item?id=42912412) - [Emergence of a second law of thermodynamics in isolated quantum systems](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.010309)
@@ -20,6 +20,7 @@
 * [2025-02-02, 15:19:32](https://news.ycombinator.com/item?id=42909166) - [Ask HN: What is interviewing like now with everyone using AI?](https://news.ycombinator.com/item?id=42909166)
 * [2025-02-02, 11:46:22](https://news.ycombinator.com/item?id=42908061) - [Show HN: Lume – OS lightweight CLI for MacOS and Linux VMs on Apple Silicon](https://github.com/trycua/lume)
 * [2025-02-02, 10:32:40](https://news.ycombinator.com/item?id=42907766) - [Reverse-engineering and analysis of SanDisk High Endurance microSDXC card (2020)](https://ripitapart.com/2020/07/16/reverse-engineering-and-analysis-of-sandisk-high-endurance-microsdxc-card/)
+* [2025-02-02, 09:37:05](https://news.ycombinator.com/item?id=42907488) - [Analyzing the codebase of Caffeine, a high performance caching library](https://adriacabeza.github.io/2024/07/12/caffeine-cache.html)
 * [2025-02-01, 21:46:16](https://news.ycombinator.com/item?id=42902691) - [Macrodata Refinement](https://lumon-industries.com/)
 * [2025-02-01, 18:51:31](https://news.ycombinator.com/item?id=42901007) - [Show HN: ESP32 RC Cars](https://github.com/mattsroufe/esp32_rc_cars)
 * [2025-02-01, 03:07:35](https://news.ycombinator.com/item?id=42895265) - [Hytradboi 2025 Program](https://www.hytradboi.com/2025/)
@@ -29,7 +30,6 @@
 * [2025-01-30, 22:08:19](https://news.ycombinator.com/item?id=42882649) - [TopoNets: High-Performing Vision and Language Models with Brain-Like Topography](https://toponets.github.io/)
 * [2025-01-30, 16:27:15](https://news.ycombinator.com/item?id=42879323) - [Goose: An open-source, extensible AI agent that goes beyond code suggestions](https://block.github.io/goose/)
 * [2025-01-30, 14:19:12](https://news.ycombinator.com/item?id=42877886) - [Why Durable Execution Should Be Lightweight](https://www.dbos.dev/blog/what-is-lightweight-durable-execution)
-* [2025-01-30, 04:44:30](https://news.ycombinator.com/item?id=42874942) - [Fake thinking and real thinking](https://joecarlsmith.com/2025/01/28/fake-thinking-and-real-thinking/)
 
 ## [Archives](archives/index.md)
 
