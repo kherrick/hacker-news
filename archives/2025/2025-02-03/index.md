@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-03](index.md)
 
+* [2025-02-03, 19:12:30](https://news.ycombinator.com/item?id=42921659) - [The Reality of Dating Apps](https://blog.luap.info/the-reality-of-dating-apps.html)
 * [2025-02-03, 18:02:42](https://news.ycombinator.com/item?id=42920962) - [Remote Code Execution in Marvel Rivals Game](https://shalzuth.com/Blog/IFoundAGameExploit)
 * [2025-02-03, 17:59:13](https://news.ycombinator.com/item?id=42920921) - [AMD: Microcode Signature Verification Vulnerability](https://github.com/google/security-research/security/advisories/GHSA-4xq7-4mgh-gp6w)
 * [2025-02-03, 17:41:28](https://news.ycombinator.com/item?id=42920723) - [It's not 'emotional labour', it's kin work](https://thefuturefeeling.substack.com/p/its-not-emotional-labour)

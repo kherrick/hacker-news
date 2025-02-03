@@ -70,6 +70,7 @@
 * [2025-02-01, 06:26:07](https://news.ycombinator.com/item?id=42896188) - [Norway's wealth fund now worth $319,900 per citizen](https://sherwood.news/world/norways-wealth-fund-reports-record-profits-worth-usd319-900-citizen/)
 * [2025-02-01, 06:12:30](https://news.ycombinator.com/item?id=42896131) - [I Miss Vim](https://leblancfg.com/i-miss-vim.html)
 * [2025-02-01, 04:02:12](https://news.ycombinator.com/item?id=42895529) - [Hypocrisy and politics in free and open source software projects](https://unixdigest.com/articles/hypocrisy-and-politics-in-free-and-open-source-software-projects.html)
+* [2025-02-01, 04:00:12](https://news.ycombinator.com/item?id=42895519) - [SCQA: What is it, how does it work, and how can it help me?](https://analytic-storytelling.com/scqa-what-is-it-how-does-it-work-and-how-can-it-help-me/)
 * [2025-02-01, 03:44:50](https://news.ycombinator.com/item?id=42895453) - [Treasury official retires after clash with DOGE over access to payment system](https://arstechnica.com/tech-policy/2025/01/musks-doge-clashes-with-treasury-over-access-to-payment-system-report-says/)
 * [2025-02-01, 03:38:50](https://news.ycombinator.com/item?id=42895424) - [Study on the Prohibition of the Purple Costumes in Ancient China (2013) [pdf]](https://pdfs.semanticscholar.org/51a0/11be16a3bf27fabad86d48765624a209cdb2.pdf)
 * [2025-02-01, 03:28:03](https://news.ycombinator.com/item?id=42895370) - [What we get wrong about athleticism](https://www.nytimes.com/athletic/6096850/2025/01/30/patrick-mahomes-nikoa-jokic-body-athletes-workout/)
