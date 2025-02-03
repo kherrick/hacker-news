@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-03, 01:27:13",
+      "https://news.ycombinator.com/item?id=42913909"
+    ],
+    [
+      "Vibe Coding",
+      "https://twitter.com/karpathy/status/1886192184808149383"
+    ]
+  ],
+  [
+    [
       "2025-02-03, 00:06:10",
       "https://news.ycombinator.com/item?id=42913251"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=42913104"
     ],
     [
-      "Solar Plant Accidentally Incinerates Up to 6k Birds a Year (2016)",
+      "Nevada Ivanpah Solar Plant Accidentally Incinerates Up to 6k Birds a Year (2016)",
       "https://www.sciencealert.com/this-solar-plant-accidentally-incinerates-up-to-6-000-birds-a-year"
     ]
   ],
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2025-02-02, 20:31:53",
-      "https://news.ycombinator.com/item?id=42911511"
-    ],
-    [
-      "A loophole used by Shein/Temu to ship packages to US tax-free (2024)",
-      "https://www.businessinsider.com/shein-temu-de-minimis-tax-loophole-scrutiny-2024-1"
-    ]
-  ],
-  [
-    [
       "2025-02-02, 19:46:12",
       "https://news.ycombinator.com/item?id=42911162"
     ],
@@ -117,16 +117,6 @@
     [
       "Waydroid – Android in a Linux container",
       "https://waydro.id/"
-    ]
-  ],
-  [
-    [
-      "2025-02-02, 19:21:55",
-      "https://news.ycombinator.com/item?id=42910983"
-    ],
-    [
-      "UK betting giant's unlawful marketing kept suicidal gambler hooked",
-      "https://www.theguardian.com/society/2025/feb/01/i-lost-10-years-of-my-life-how-uk-betting-giants-unlawful-marketing-kept-suicidal-gambler-hooked"
     ]
   ],
   [
@@ -261,22 +251,22 @@
   ],
   [
     [
-      "2025-01-31, 20:04:30",
-      "https://news.ycombinator.com/item?id=42891284"
-    ],
-    [
-      "Global Variables Are Not the Problem",
-      "https://codestyleandtaste.com/globals-are-not-the-problem.html"
-    ]
-  ],
-  [
-    [
       "2025-01-30, 23:12:08",
       "https://news.ycombinator.com/item?id=42883178"
     ],
     [
       "The PETG adhesive test [video]",
       "https://www.youtube.com/watch?v=tyo8vLorpZo"
+    ]
+  ],
+  [
+    [
+      "2025-01-30, 22:08:19",
+      "https://news.ycombinator.com/item?id=42882649"
+    ],
+    [
+      "TopoNets: High-Performing Vision and Language Models with Brain-Like Topography",
+      "https://toponets.github.io/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The dumb reason why flag emojis aren't working on Chrome on Windows",
       "https://geyer.dev/blog/windows-flag-emojis/"
+    ]
+  ],
+  [
+    [
+      "2025-01-29, 19:16:42",
+      "https://news.ycombinator.com/item?id=42869730"
+    ],
+    [
+      "AstroForge selects target for \"high risk, seat of the pants\" asteroid mission",
+      "https://arstechnica.com/space/2025/01/astroforge-selects-target-for-high-risk-seat-of-the-pants-asteroid-mission/"
     ]
   ]
 ]
