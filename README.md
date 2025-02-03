@@ -2,7 +2,6 @@
 
 * [2025-02-03, 12:50:36](https://news.ycombinator.com/item?id=42917680) - [\"Anything threatening to be a subculture is commodified before it can walk\" (2014)](https://www.dezeen.com/2014/12/18/william-gibson-subculture-commodification-london-justin-mcguirk-opinion/)
 * [2025-02-03, 12:21:52](https://news.ycombinator.com/item?id=42917454) - [YouTube shut down audio developer's channel of 15 years standing for \"reasons\"](https://bsky.app/profile/sinevibes.bsky.social/post/3lhazuyn5as2t)
-* [2025-02-03, 10:31:13](https://news.ycombinator.com/item?id=42916849) - [AI systems with 'unacceptable risk' are now banned in the EU](https://techcrunch.com/2025/02/02/ai-systems-with-unacceptable-risk-are-now-banned-in-the-eu/)
 * [2025-02-03, 08:46:27](https://news.ycombinator.com/item?id=42916219) - [Bayesian Epistemology (2022)](https://plato.stanford.edu/entries/epistemology-bayesian/)
 * [2025-02-03, 05:19:52](https://news.ycombinator.com/item?id=42915231) - [London Street Views (1840)](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~323099~90092214:Composite--London-Street-Views-No--)
 * [2025-02-03, 04:53:11](https://news.ycombinator.com/item?id=42915113) - [Polish city is using mussels to monitor water quality (2020)](https://www.awa.asn.au/resources/latest-news/technology/innovation/polish-city-using-mussels-monitor-water-quality)
@@ -21,6 +20,7 @@
 * [2025-02-02, 11:46:22](https://news.ycombinator.com/item?id=42908061) - [Show HN: Lume – OS lightweight CLI for MacOS and Linux VMs on Apple Silicon](https://github.com/trycua/lume)
 * [2025-02-02, 10:32:40](https://news.ycombinator.com/item?id=42907766) - [Reverse-engineering and analysis of SanDisk High Endurance microSDXC card (2020)](https://ripitapart.com/2020/07/16/reverse-engineering-and-analysis-of-sandisk-high-endurance-microsdxc-card/)
 * [2025-02-02, 09:37:05](https://news.ycombinator.com/item?id=42907488) - [Analyzing the codebase of Caffeine, a high performance caching library](https://adriacabeza.github.io/2024/07/12/caffeine-cache.html)
+* [2025-02-02, 08:53:58](https://news.ycombinator.com/item?id=42907268) - [Life is more than an engineering problem](https://lareviewofbooks.org/article/life-is-more-than-an-engineering-problem/)
 * [2025-02-01, 03:07:35](https://news.ycombinator.com/item?id=42895265) - [Hytradboi 2025 Program](https://www.hytradboi.com/2025/)
 * [2025-01-31, 20:04:30](https://news.ycombinator.com/item?id=42891284) - [Global variables are not the problem](https://codestyleandtaste.com/globals-are-not-the-problem.html)
 * [2025-01-31, 16:37:36](https://news.ycombinator.com/item?id=42889148) - [High-Speed Face-Tracking for Dynamic Facial Projection Mapping](https://www.vision.ict.e.titech.ac.jp/projects/DFPM/)
