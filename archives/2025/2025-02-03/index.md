@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-03](index.md)
 
+* [2025-02-03, 20:35:26](https://news.ycombinator.com/item?id=42922695) - [Where in the U.S. Does Middle-Class Income Stretch the Furthest?](https://upgradedpoints.com/news/cities-where-middle-class-income-goes-furthest/)
 * [2025-02-03, 19:47:25](https://news.ycombinator.com/item?id=42922038) - [Hello, I'm Mr. Null. My Name Makes Me Invisible to Computers (2015)](https://www.wired.com/2015/11/null/)
 * [2025-02-03, 19:32:36](https://news.ycombinator.com/item?id=42921867) - [Texas Tempts Meta](https://www.bloomberg.com/opinion/articles/2025-02-03/texas-tempts-meta)
 * [2025-02-03, 19:26:50](https://news.ycombinator.com/item?id=42921803) - [Bluesky: Advanced Bridge for Mastodon and Telegram](https://mastogr.am/)
@@ -38,6 +39,7 @@
 * [2025-02-03, 12:24:19](https://news.ycombinator.com/item?id=42917472) - [DOJ demands list of FBI agents who worked on Jan. 6 investigations](https://www.cnn.com/2025/01/31/politics/fbi-agents-who-investigated-january-6-fired/index.html)
 * [2025-02-03, 12:21:52](https://news.ycombinator.com/item?id=42917454) - [YouTube shut down audio developer's channel of 15 years standing for \"reasons\"](https://bsky.app/profile/sinevibes.bsky.social/post/3lhazuyn5as2t)
 * [2025-02-03, 12:19:19](https://news.ycombinator.com/item?id=42917434) - [When Bohr got it wrong: the impact of a little-known paper on quantum theory](https://physicsworld.com/a/when-bohr-got-it-wrong-the-impact-of-a-little-known-paper-on-the-development-of-quantum-theory/)
+* [2025-02-03, 10:47:33](https://news.ycombinator.com/item?id=42916934) - [Show HN: Calculate Your Revenue](https://postmake.io/revenue)
 * [2025-02-03, 10:31:13](https://news.ycombinator.com/item?id=42916849) - [AI systems with 'unacceptable risk' are now banned in the EU](https://techcrunch.com/2025/02/02/ai-systems-with-unacceptable-risk-are-now-banned-in-the-eu/)
 * [2025-02-03, 10:17:41](https://news.ycombinator.com/item?id=42916770) - [Bluesky now has 30 million users](https://bsky.app/profile/bsky.app/post/3lgu4lg6j2k2v)
 * [2025-02-03, 09:25:12](https://news.ycombinator.com/item?id=42916464) - [DeepSeek gives Europe's tech firms a chance to catch up](https://www.reuters.com/technology/artificial-intelligence/deepseek-gives-europes-tech-firms-chance-catch-up-global-ai-race-2025-02-03/)
