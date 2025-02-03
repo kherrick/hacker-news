@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-03](index.md)
 
+* [2025-02-03, 12:21:52](https://news.ycombinator.com/item?id=42917454) - [YouTube shut down audio developer's channel of 15 years standing for \"reasons\"](https://bsky.app/profile/sinevibes.bsky.social/post/3lhazuyn5as2t)
 * [2025-02-03, 10:17:41](https://news.ycombinator.com/item?id=42916770) - [Bluesky now has 30 million users](https://bsky.app/profile/bsky.app/post/3lgu4lg6j2k2v)
 * [2025-02-03, 09:25:12](https://news.ycombinator.com/item?id=42916464) - [DeepSeek gives Europe's tech firms a chance to catch up](https://www.reuters.com/technology/artificial-intelligence/deepseek-gives-europes-tech-firms-chance-catch-up-global-ai-race-2025-02-03/)
 * [2025-02-03, 08:46:27](https://news.ycombinator.com/item?id=42916219) - [Bayesian Epistemology](https://plato.stanford.edu/entries/epistemology-bayesian/)
