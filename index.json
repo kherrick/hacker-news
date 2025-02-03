@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-03, 22:48:56",
+      "https://news.ycombinator.com/item?id=42924448"
+    ],
+    [
+      "No-Panic Rust: A Nice Technique for Systems Programming",
+      "https://blog.reverberate.org/2025/02/03/no-panic-rust.html"
+    ]
+  ],
+  [
+    [
       "2025-02-03, 22:01:38",
       "https://news.ycombinator.com/item?id=42923870"
     ],
@@ -151,26 +161,6 @@
   ],
   [
     [
-      "2025-02-03, 15:52:34",
-      "https://news.ycombinator.com/item?id=42919408"
-    ],
-    [
-      "Show HN: Check Supply – Send Checks in the Mail",
-      "https://check.supply"
-    ]
-  ],
-  [
-    [
-      "2025-02-03, 15:36:52",
-      "https://news.ycombinator.com/item?id=42919221"
-    ],
-    [
-      "Reverse Engineering Apple's typedstream Format",
-      "https://chrissardegna.com/blog/reverse-engineering-apples-typedstream-format/"
-    ]
-  ],
-  [
-    [
       "2025-02-03, 15:09:55",
       "https://news.ycombinator.com/item?id=42918902"
     ],
@@ -257,6 +247,16 @@
     [
       "Mailspring: Cross-platform, fast, open source mail client",
       "https://github.com/Foundry376/Mailspring"
+    ]
+  ],
+  [
+    [
+      "2025-02-03, 06:20:32",
+      "https://news.ycombinator.com/item?id=42915494"
+    ],
+    [
+      "Auto-AVSR: Audio-Visual Speech Recognition with Automatic Labels",
+      "https://github.com/mpc001/auto_avsr"
     ]
   ],
   [
