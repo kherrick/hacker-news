@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-02-03](index.md)
 
+* [2025-02-03, 14:30:11](https://news.ycombinator.com/item?id=42918524) - [I Wrote a WebAssembly VM in C](https://irreducible.io/blog/my-wasm-interpreter/)
 * [2025-02-03, 13:53:48](https://news.ycombinator.com/item?id=42918237) - [Show HN: Klarity – Open-source tool to analyze uncertainty/entropy in LLM output](https://github.com/klara-research/klarity)
+* [2025-02-03, 12:57:53](https://news.ycombinator.com/item?id=42917754) - [Sony Kills Recordable Blu-ray and Other Vintage Media](https://spectrum.ieee.org/recordable-physical-media)
 * [2025-02-03, 12:50:36](https://news.ycombinator.com/item?id=42917680) - [\"Anything threatening to be a subculture is commodified before it can walk\"](https://www.dezeen.com/2014/12/18/william-gibson-subculture-commodification-london-justin-mcguirk-opinion/)
 * [2025-02-03, 12:24:19](https://news.ycombinator.com/item?id=42917472) - [DOJ demands list of FBI agents who worked on Jan. 6 investigations](https://www.cnn.com/2025/01/31/politics/fbi-agents-who-investigated-january-6-fired/index.html)
 * [2025-02-03, 12:21:52](https://news.ycombinator.com/item?id=42917454) - [YouTube shut down audio developer's channel of 15 years standing for \"reasons\"](https://bsky.app/profile/sinevibes.bsky.social/post/3lhazuyn5as2t)

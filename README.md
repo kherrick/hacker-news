@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-03, 14:30:11](https://news.ycombinator.com/item?id=42918524) - [I Wrote a WebAssembly VM in C](https://irreducible.io/blog/my-wasm-interpreter/)
 * [2025-02-03, 13:53:48](https://news.ycombinator.com/item?id=42918237) - [Show HN: Klarity – Open-source tool to analyze uncertainty/entropy in LLM output](https://github.com/klara-research/klarity)
+* [2025-02-03, 12:57:53](https://news.ycombinator.com/item?id=42917754) - [Sony Kills Recordable Blu-ray and Other Vintage Media](https://spectrum.ieee.org/recordable-physical-media)
 * [2025-02-03, 12:50:36](https://news.ycombinator.com/item?id=42917680) - [\"Anything threatening to be a subculture is commodified before it can walk\" (2014)](https://www.dezeen.com/2014/12/18/william-gibson-subculture-commodification-london-justin-mcguirk-opinion/)
 * [2025-02-03, 08:46:27](https://news.ycombinator.com/item?id=42916219) - [Bayesian Epistemology (2022)](https://plato.stanford.edu/entries/epistemology-bayesian/)
 * [2025-02-03, 08:43:13](https://news.ycombinator.com/item?id=42916203) - [Ruby \"Thread Contention\" Is Simply GVL Queuing](https://island94.org/2025/01/ruby-thread-contention-simply-gvl-queuing)
@@ -19,9 +21,7 @@
 * [2025-02-02, 15:19:32](https://news.ycombinator.com/item?id=42909166) - [Ask HN: What is interviewing like now with everyone using AI?](https://news.ycombinator.com/item?id=42909166)
 * [2025-02-02, 11:46:22](https://news.ycombinator.com/item?id=42908061) - [Show HN: Lume – OS lightweight CLI for MacOS and Linux VMs on Apple Silicon](https://github.com/trycua/lume)
 * [2025-02-02, 10:32:40](https://news.ycombinator.com/item?id=42907766) - [Reverse-engineering and analysis of SanDisk High Endurance microSDXC card (2020)](https://ripitapart.com/2020/07/16/reverse-engineering-and-analysis-of-sandisk-high-endurance-microsdxc-card/)
-* [2025-02-02, 09:37:05](https://news.ycombinator.com/item?id=42907488) - [Analyzing the codebase of Caffeine, a high performance caching library](https://adriacabeza.github.io/2024/07/12/caffeine-cache.html)
 * [2025-02-02, 08:53:58](https://news.ycombinator.com/item?id=42907268) - [Life is more than an engineering problem](https://lareviewofbooks.org/article/life-is-more-than-an-engineering-problem/)
-* [2025-02-01, 03:07:35](https://news.ycombinator.com/item?id=42895265) - [Hytradboi 2025 Program](https://www.hytradboi.com/2025/)
 * [2025-01-31, 20:04:30](https://news.ycombinator.com/item?id=42891284) - [Global variables are not the problem](https://codestyleandtaste.com/globals-are-not-the-problem.html)
 * [2025-01-31, 16:37:36](https://news.ycombinator.com/item?id=42889148) - [High-Speed Face-Tracking for Dynamic Facial Projection Mapping](https://www.vision.ict.e.titech.ac.jp/projects/DFPM/)
 * [2025-01-31, 13:19:19](https://news.ycombinator.com/item?id=42887356) - [NASA's Asteroid Bennu Sample Reveals Mix of Life's Ingredients](https://www.nasa.gov/news-release/nasas-asteroid-bennu-sample-reveals-mix-of-lifes-ingredients/)
