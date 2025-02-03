@@ -21,6 +21,7 @@
 * [2025-01-30, 19:04:05](https://news.ycombinator.com/item?id=42880953) - [Andrew Ng on DeepSeek](https://www.deeplearning.ai/the-batch/issue-286/)
 * [2025-01-30, 18:56:42](https://news.ycombinator.com/item?id=42880873) - [Show HN: Reactive Signals for Python – inspired by Angular's reactivity model](https://github.com/buiapp/reaktiv)
 * [2025-01-30, 18:48:30](https://news.ycombinator.com/item?id=42880807) - [California Law Enforcement Misused State Databases More Than 7k Times in 2023](https://www.eff.org/deeplinks/2025/01/california-police-misused-state-databases-more-7000-times-2023)
+* [2025-01-30, 18:42:00](https://news.ycombinator.com/item?id=42880740) - [Forgeries, Fakes, and Phantom Time](https://www.historytoday.com/archive/missing-pieces/forgeries-fakes-and-phantom-time)
 * [2025-01-30, 18:38:12](https://news.ycombinator.com/item?id=42880704) - [1996 \"Authentic\" Beta Pokemon Cards Exposed as 2024 Prints via Printer Dots](https://www.elitefourum.com/t/many-of-the-pokemon-playtest-cards-were-likely-printed-in-2024/52421)
 * [2025-01-30, 18:32:44](https://news.ycombinator.com/item?id=42880663) - [Unintended workplace safety consequences of minimum wages](https://www.sciencedirect.com/science/article/abs/pii/S004727272400183X)
 * [2025-01-30, 18:25:22](https://news.ycombinator.com/item?id=42880585) - [A Rust procedural language handler for PostgreSQL](https://github.com/tcdi/plrust)
