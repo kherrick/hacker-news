@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2025-02-03, 14:42:51",
-      "https://news.ycombinator.com/item?id=42918644"
-    ],
-    [
-      "He Went to Jail for Stealing Someone's Identity. But It Was His All Along",
-      "https://www.nytimes.com/2025/02/03/us/iowa-identity-theft-sentencing.html"
-    ]
-  ],
-  [
-    [
       "2025-02-03, 14:30:11",
       "https://news.ycombinator.com/item?id=42918524"
     ],
@@ -267,6 +257,16 @@
     [
       "Evaluating Code Embedding Models",
       "https://blog.voyageai.com/2024/12/04/code-retrieval-eval/"
+    ]
+  ],
+  [
+    [
+      "2025-01-31, 20:54:31",
+      "https://news.ycombinator.com/item?id=42891848"
+    ],
+    [
+      "Feluda – A CLI tool to detect restrictive licenses in dependencies",
+      "https://crates.io/crates/feluda"
     ]
   ],
   [
