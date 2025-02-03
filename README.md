@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-03, 22:48:56](https://news.ycombinator.com/item?id=42924448) - [No-Panic Rust: A Nice Technique for Systems Programming](https://blog.reverberate.org/2025/02/03/no-panic-rust.html)
 * [2025-02-03, 22:01:38](https://news.ycombinator.com/item?id=42923870) - [A computer can never be held accountable](https://simonwillison.net/2025/Feb/3/a-computer-can-never-be-held-accountable/)
 * [2025-02-03, 21:33:29](https://news.ycombinator.com/item?id=42923512) - [How Translation Works, Book Title Edition](https://whatever.scalzi.com/2025/02/03/how-translation-works-book-title-edition/)
 * [2025-02-03, 20:56:44](https://news.ycombinator.com/item?id=42922989) - [Open Euro LLM: Open LLMs for Transparent AI in Europe](https://openeurollm.eu/launch-press-release)
@@ -15,8 +16,6 @@
 * [2025-02-03, 16:06:48](https://news.ycombinator.com/item?id=42919597) - [Efficient Reasoning with Hidden Thinking](https://arxiv.org/abs/2501.19201)
 * [2025-02-03, 16:00:43](https://news.ycombinator.com/item?id=42919502) - [Ask HN: Who is hiring? (February 2025)](https://news.ycombinator.com/item?id=42919502)
 * [2025-02-03, 16:00:42](https://news.ycombinator.com/item?id=42919500) - [Ask HN: Who wants to be hired? (February 2025)](https://news.ycombinator.com/item?id=42919500)
-* [2025-02-03, 15:52:34](https://news.ycombinator.com/item?id=42919408) - [Show HN: Check Supply – Send Checks in the Mail](https://check.supply)
-* [2025-02-03, 15:36:52](https://news.ycombinator.com/item?id=42919221) - [Reverse Engineering Apple's typedstream Format](https://chrissardegna.com/blog/reverse-engineering-apples-typedstream-format/)
 * [2025-02-03, 15:09:55](https://news.ycombinator.com/item?id=42918902) - [Show HN: I convert videos to printed flipbooks for living](https://www.videotoflip.com/)
 * [2025-02-03, 15:03:36](https://news.ycombinator.com/item?id=42918846) - [Decorator JITs: Python as a DSL](https://eli.thegreenplace.net/2025/decorator-jits-python-as-a-dsl/)
 * [2025-02-03, 14:42:51](https://news.ycombinator.com/item?id=42918644) - [He went to jail for stealing someone's identity, but it was his all along](https://www.nytimes.com/2025/02/03/us/iowa-identity-theft-sentencing.html)
@@ -26,6 +25,7 @@
 * [2025-02-03, 10:31:13](https://news.ycombinator.com/item?id=42916849) - [AI systems with 'unacceptable risk' are now banned in the EU](https://techcrunch.com/2025/02/02/ai-systems-with-unacceptable-risk-are-now-banned-in-the-eu/)
 * [2025-02-03, 07:06:12](https://news.ycombinator.com/item?id=42915723) - [Optimizing with Novel Calendrical Algorithms](https://jhpratt.dev/blog/optimizing-with-novel-calendrical-algorithms/)
 * [2025-02-03, 06:38:50](https://news.ycombinator.com/item?id=42915586) - [Mailspring: Cross-platform, fast, open source mail client](https://github.com/Foundry376/Mailspring)
+* [2025-02-03, 06:20:32](https://news.ycombinator.com/item?id=42915494) - [Auto-AVSR: Audio-Visual Speech Recognition with Automatic Labels](https://github.com/mpc001/auto_avsr)
 * [2025-02-02, 19:12:13](https://news.ycombinator.com/item?id=42910910) - [The young, inexperienced engineers aiding DOGE](https://www.wired.com/story/elon-musk-government-young-engineers/)
 * [2025-01-31, 20:54:31](https://news.ycombinator.com/item?id=42891848) - [Feluda – A CLI tool to detect restrictive licenses in dependencies](https://crates.io/crates/feluda)
 * [2025-01-31, 12:34:41](https://news.ycombinator.com/item?id=42887037) - [Is there a benefit to scratching that itch? Yes and no, says new study](https://newatlas.com/health-wellbeing/scratching-itch-benefit/)

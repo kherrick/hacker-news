@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-03](index.md)
 
+* [2025-02-03, 22:48:56](https://news.ycombinator.com/item?id=42924448) - [No-Panic Rust: A Nice Technique for Systems Programming](https://blog.reverberate.org/2025/02/03/no-panic-rust.html)
 * [2025-02-03, 22:01:38](https://news.ycombinator.com/item?id=42923870) - [A computer can never be held accountable](https://simonwillison.net/2025/Feb/3/a-computer-can-never-be-held-accountable/)
 * [2025-02-03, 21:33:29](https://news.ycombinator.com/item?id=42923512) - [How Translation Works, Book Title Edition](https://whatever.scalzi.com/2025/02/03/how-translation-works-book-title-edition/)
 * [2025-02-03, 20:56:44](https://news.ycombinator.com/item?id=42922989) - [Open Euro LLM: Open LLMs for Transparent AI in Europe](https://openeurollm.eu/launch-press-release)
@@ -54,6 +55,7 @@
 * [2025-02-03, 07:06:12](https://news.ycombinator.com/item?id=42915723) - [Optimizing with Novel Calendrical Algorithms](https://jhpratt.dev/blog/optimizing-with-novel-calendrical-algorithms/)
 * [2025-02-03, 06:38:50](https://news.ycombinator.com/item?id=42915586) - [Mailspring: Cross-platform, fast, open source mail client](https://github.com/Foundry376/Mailspring)
 * [2025-02-03, 06:27:11](https://news.ycombinator.com/item?id=42915527) - [The Nation Needs a Shipbuilding Revolution](https://www.usni.org/magazines/proceedings/2025/february/nation-needs-shipbuilding-revolution)
+* [2025-02-03, 06:20:32](https://news.ycombinator.com/item?id=42915494) - [Auto-AVSR: Audio-Visual Speech Recognition with Automatic Labels](https://github.com/mpc001/auto_avsr)
 * [2025-02-03, 05:19:52](https://news.ycombinator.com/item?id=42915231) - [London Street Views (1840)](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~323099~90092214:Composite--London-Street-Views-No--)
 * [2025-02-03, 04:53:11](https://news.ycombinator.com/item?id=42915113) - [Polish city is using mussels to monitor water quality](https://www.awa.asn.au/resources/latest-news/technology/innovation/polish-city-using-mussels-monitor-water-quality)
 * [2025-02-03, 03:57:43](https://news.ycombinator.com/item?id=42914794) - [The Economic and Fiscal Effects of the Trump Administration's Proposed Tarrifs](https://budgetlab.yale.edu/research/economic-and-fiscal-effects-trump-administrations-proposed-tarrifs)
