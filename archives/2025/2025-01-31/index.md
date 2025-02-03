@@ -25,6 +25,7 @@
 * [2025-01-31, 20:52:10](https://news.ycombinator.com/item?id=42891821) - [GenAI Art Is the Least Imaginative Use of AI Imaginable](https://hai.stanford.edu/news/ge-wang-genai-art-least-imaginative-use-ai-imaginable)
 * [2025-01-31, 20:42:34](https://news.ycombinator.com/item?id=42891724) - [US government agency argues that money isn't property–so it can take yours](https://reason.com/2025/01/31/the-government-says-money-isnt-property-so-it-can-take-yours/)
 * [2025-01-31, 20:39:03](https://news.ycombinator.com/item?id=42891682) - [Federal employees told to remove pronouns from email signatures by end of day](https://abcnews.go.com/US/federal-employees-told-remove-pronouns-email-signatures-end/story?id=118310483)
+* [2025-01-31, 20:04:30](https://news.ycombinator.com/item?id=42891284) - [Global Variables Are Not the Problem](https://codestyleandtaste.com/globals-are-not-the-problem.html)
 * [2025-01-31, 19:55:14](https://news.ycombinator.com/item?id=42891200) - [Elite on the 6502: The original 6502 assembly source, heavily commented](https://elite.bbcelite.com/)
 * [2025-01-31, 19:51:29](https://news.ycombinator.com/item?id=42891148) - [Instagram and Facebook Blocked and Hid Abortion Pill Providers' Posts](https://www.nytimes.com/2025/01/23/technology/instagram-facebook-abortion-pill-providers.html)
 * [2025-01-31, 19:41:49](https://news.ycombinator.com/item?id=42891042) - [Bypass DeepSeek censorship by speaking in hex](https://substack.com/home/post/p-156004330)

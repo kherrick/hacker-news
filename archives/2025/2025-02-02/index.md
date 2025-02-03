@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-02](index.md)
 
 * [2025-02-02, 23:45:14](https://news.ycombinator.com/item?id=42913104) - [Solar Plant Accidentally Incinerates Up to 6k Birds a Year (2016)](https://www.sciencealert.com/this-solar-plant-accidentally-incinerates-up-to-6-000-birds-a-year)
+* [2025-02-02, 23:17:38](https://news.ycombinator.com/item?id=42912911) - [Autothrottle: Resource Management for SLO-Targeted Microservices](https://www.usenix.org/conference/nsdi24/presentation/wang-zibo)
 * [2025-02-02, 23:13:13](https://news.ycombinator.com/item?id=42912875) - [Tiny vanes glued to planes promise big savings for US Air Force](https://newatlas.com/military/ticky-little-vanes-bring-big-savings-us-air-force/)
 * [2025-02-02, 22:27:54](https://news.ycombinator.com/item?id=42912515) - [GarminDB](https://github.com/tcgoetz/GarminDB)
 * [2025-02-02, 22:19:10](https://news.ycombinator.com/item?id=42912438) - [F-strings for C++26 proposal [pdf]](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3412r0.pdf)
