@@ -48,6 +48,7 @@
 * [2025-01-31, 16:55:26](https://news.ycombinator.com/item?id=42889308) - [Zusie – Relay Computer](http://www.nablaman.com/relay/about.php)
 * [2025-01-31, 16:53:30](https://news.ycombinator.com/item?id=42889297) - [Apple files emergency motion to become defendant in Google vs. US [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1158.0_1.pdf)
 * [2025-01-31, 16:46:15](https://news.ycombinator.com/item?id=42889236) - [How to Train an AI Image Model on Yourself](https://www.coryzue.com/writing/make-ai-pictures-of-yourself/)
+* [2025-01-31, 16:37:36](https://news.ycombinator.com/item?id=42889148) - [High-Speed Face-Tracking for Dynamic Facial Projection Mapping](https://www.vision.ict.e.titech.ac.jp/projects/DFPM/)
 * [2025-01-31, 16:36:23](https://news.ycombinator.com/item?id=42889139) - [Fixing E.T. The Extra-Terrestrial for the Atari 2600](http://www.neocomputer.org/projects/et/)
 * [2025-01-31, 16:26:37](https://news.ycombinator.com/item?id=42889052) - [Large Language Models Think Too Fast to Explore Effectively](https://arxiv.org/abs/2501.18009)
 * [2025-01-31, 16:17:00](https://news.ycombinator.com/item?id=42888967) - [Show HN: Small LLM with Large Power](https://github.com/KarthikDevalla/Maximum-218M)
