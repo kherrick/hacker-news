@@ -88,6 +88,7 @@
 * [2025-01-31, 04:52:49](https://news.ycombinator.com/item?id=42884803) - [Google Pixel 4a update to \"improve stability\" of the battery cuts life in half](https://liliputing.com/google-pixel-4a-update-to-improve-stability-of-the-battery-cuts-battery-life-in-half-for-some-users/)
 * [2025-01-31, 04:35:57](https://news.ycombinator.com/item?id=42884727) - [sixos: A nix OS without systemd [video]](https://media.ccc.de/v/38c3-sixos-a-nix-os-without-systemd)
 * [2025-01-31, 04:00:27](https://news.ycombinator.com/item?id=42884599) - [Apple iPhone sales dip despite AI rollout](https://www.bbc.co.uk/news/articles/cn57l2nreglo)
+* [2025-01-31, 03:57:10](https://news.ycombinator.com/item?id=42884579) - [How many ants live on Earth? (2022)](https://www.science.org/content/article/how-many-ants-live-earth)
 * [2025-01-31, 03:51:44](https://news.ycombinator.com/item?id=42884556) - [Rubywm: An X11 window manager in pure Ruby](https://github.com/vidarh/rubywm)
 * [2025-01-31, 03:48:21](https://news.ycombinator.com/item?id=42884544) - [A step-by-step guide on deploying DeepSeek-R1 671B locally](https://snowkylin.github.io/blogs/a-note-on-deepseek-r1.html)
 * [2025-01-31, 03:30:08](https://news.ycombinator.com/item?id=42884478) - [Show HN: Hollow – A Customizable Digital Workspace](https://news.ycombinator.com/item?id=42884478)
