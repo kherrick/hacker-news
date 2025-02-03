@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-03, 01:27:13](https://news.ycombinator.com/item?id=42913909) - [Vibe Coding](https://twitter.com/karpathy/status/1886192184808149383)
 * [2025-02-03, 00:06:10](https://news.ycombinator.com/item?id=42913251) - [Deep Research](https://openai.com/index/introducing-deep-research/)
-* [2025-02-02, 23:45:14](https://news.ycombinator.com/item?id=42913104) - [Solar Plant Accidentally Incinerates Up to 6k Birds a Year (2016)](https://www.sciencealert.com/this-solar-plant-accidentally-incinerates-up-to-6-000-birds-a-year)
+* [2025-02-02, 23:45:14](https://news.ycombinator.com/item?id=42913104) - [Nevada Ivanpah Solar Plant Accidentally Incinerates Up to 6k Birds a Year (2016)](https://www.sciencealert.com/this-solar-plant-accidentally-incinerates-up-to-6-000-birds-a-year)
 * [2025-02-02, 23:17:38](https://news.ycombinator.com/item?id=42912911) - [Autothrottle: Resource Management for SLO-Targeted Microservices](https://www.usenix.org/conference/nsdi24/presentation/wang-zibo)
 * [2025-02-02, 23:13:13](https://news.ycombinator.com/item?id=42912875) - [Tiny vanes glued to planes promise big savings for US Air Force](https://newatlas.com/military/ticky-little-vanes-bring-big-savings-us-air-force/)
 * [2025-02-02, 22:27:54](https://news.ycombinator.com/item?id=42912515) - [GarminDB](https://github.com/tcgoetz/GarminDB)
@@ -9,10 +10,8 @@
 * [2025-02-02, 22:15:30](https://news.ycombinator.com/item?id=42912412) - [Emergence of a second law of thermodynamics in isolated quantum systems](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.010309)
 * [2025-02-02, 21:42:02](https://news.ycombinator.com/item?id=42912133) - [Don't make fun of renowned author Dan Brown (2013)](https://onehundredpages.wordpress.com/2013/06/12/dont-make-fun-of-renowned-dan-brown/)
 * [2025-02-02, 21:07:48](https://news.ycombinator.com/item?id=42911842) - [Costa rican supermarket wins trademark battle against Nintendo](https://ticotimes.net/2025/01/30/david-vs-goliath-costa-rican-super-mario-defeats-nintendo-in-court)
-* [2025-02-02, 20:31:53](https://news.ycombinator.com/item?id=42911511) - [A loophole used by Shein/Temu to ship packages to US tax-free (2024)](https://www.businessinsider.com/shein-temu-de-minimis-tax-loophole-scrutiny-2024-1)
 * [2025-02-02, 19:46:12](https://news.ycombinator.com/item?id=42911162) - [ScatterBrain: Unmasking the shadow of PoisonPlug's obfuscator](https://cloud.google.com/blog/topics/threat-intelligence/scatterbrain-unmasking-poisonplug-obfuscator)
 * [2025-02-02, 19:29:45](https://news.ycombinator.com/item?id=42911042) - [Waydroid – Android in a Linux container](https://waydro.id/)
-* [2025-02-02, 19:21:55](https://news.ycombinator.com/item?id=42910983) - [UK betting giant's unlawful marketing kept suicidal gambler hooked](https://www.theguardian.com/society/2025/feb/01/i-lost-10-years-of-my-life-how-uk-betting-giants-unlawful-marketing-kept-suicidal-gambler-hooked)
 * [2025-02-02, 19:00:10](https://news.ycombinator.com/item?id=42910829) - [The Legacy of Lies in Alzheimer's Science](https://www.nytimes.com/2025/01/24/opinion/alzheimers-fraud-cure.html)
 * [2025-02-02, 17:07:31](https://news.ycombinator.com/item?id=42909921) - [Everyone knows your location: tracking myself down through in-app ads](https://timsh.org/tracking-myself-down-through-in-app-ads/)
 * [2025-02-02, 16:14:49](https://news.ycombinator.com/item?id=42909530) - [Sniffnet – monitor your Internet traffic](https://github.com/GyulyVGC/sniffnet)
@@ -26,10 +25,11 @@
 * [2025-02-01, 21:46:16](https://news.ycombinator.com/item?id=42902691) - [Macrodata Refinement](https://lumon-industries.com/)
 * [2025-02-01, 18:51:31](https://news.ycombinator.com/item?id=42901007) - [Show HN: ESP32 RC Cars](https://github.com/mattsroufe/esp32_rc_cars)
 * [2025-02-01, 03:07:35](https://news.ycombinator.com/item?id=42895265) - [Hytradboi 2025 Program](https://www.hytradboi.com/2025/)
-* [2025-01-31, 20:04:30](https://news.ycombinator.com/item?id=42891284) - [Global Variables Are Not the Problem](https://codestyleandtaste.com/globals-are-not-the-problem.html)
 * [2025-01-30, 23:12:08](https://news.ycombinator.com/item?id=42883178) - [The PETG adhesive test [video]](https://www.youtube.com/watch?v=tyo8vLorpZo)
+* [2025-01-30, 22:08:19](https://news.ycombinator.com/item?id=42882649) - [TopoNets: High-Performing Vision and Language Models with Brain-Like Topography](https://toponets.github.io/)
 * [2025-01-30, 16:27:15](https://news.ycombinator.com/item?id=42879323) - [An open-source, extensible AI agent that goes beyond code suggestions](https://block.github.io/goose/)
 * [2025-01-29, 23:44:35](https://news.ycombinator.com/item?id=42872882) - [The dumb reason why flag emojis aren't working on Chrome on Windows](https://geyer.dev/blog/windows-flag-emojis/)
+* [2025-01-29, 19:16:42](https://news.ycombinator.com/item?id=42869730) - [AstroForge selects target for \"high risk, seat of the pants\" asteroid mission](https://arstechnica.com/space/2025/01/astroforge-selects-target-for-high-risk-seat-of-the-pants-asteroid-mission/)
 
 ## [Archives](archives/index.md)
 
