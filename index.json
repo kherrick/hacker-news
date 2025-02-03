@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2025-02-01, 22:11:45",
+      "https://news.ycombinator.com/item?id=42902936"
+    ],
+    [
+      "RLHF Book",
+      "https://rlhfbook.com/"
+    ]
+  ],
+  [
+    [
       "2025-02-01, 21:46:16",
       "https://news.ycombinator.com/item?id=42902691"
     ],
@@ -217,16 +227,6 @@
     [
       "Show HN: ESP32 RC Cars",
       "https://github.com/mattsroufe/esp32_rc_cars"
-    ]
-  ],
-  [
-    [
-      "2025-02-01, 07:11:56",
-      "https://news.ycombinator.com/item?id=42896458"
-    ],
-    [
-      "Ask HN: Does anyone still use code snippets?",
-      "https://news.ycombinator.com/item?id=42896458"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2025-01-30, 22:13:44",
-      "https://news.ycombinator.com/item?id=42882699"
-    ],
-    [
-      "Ask HN: Is onboard audio still good enough compared to dedicated Sound Cards?",
-      "https://news.ycombinator.com/item?id=42882699"
-    ]
-  ],
-  [
-    [
       "2025-01-30, 22:08:19",
       "https://news.ycombinator.com/item?id=42882649"
     ],
@@ -287,6 +277,16 @@
     [
       "Goose: An open-source, extensible AI agent that goes beyond code suggestions",
       "https://block.github.io/goose/"
+    ]
+  ],
+  [
+    [
+      "2025-01-30, 14:19:12",
+      "https://news.ycombinator.com/item?id=42877886"
+    ],
+    [
+      "Why Durable Execution Should Be Lightweight",
+      "https://www.dbos.dev/blog/what-is-lightweight-durable-execution"
     ]
   ],
   [
