@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-02-03, 16:28:45",
+      "https://news.ycombinator.com/item?id=42919909"
+    ],
+    [
+      "Httptap: View HTTP/HTTPS requests made by any Linux program",
+      "https://github.com/monasticacademy/httptap"
+    ]
+  ],
+  [
+    [
       "2025-02-03, 16:22:17",
       "https://news.ycombinator.com/item?id=42919821"
     ],
@@ -277,16 +287,6 @@
     [
       "Goose: An open-source, extensible AI agent that goes beyond code suggestions",
       "https://block.github.io/goose/"
-    ]
-  ],
-  [
-    [
-      "2025-01-30, 14:19:12",
-      "https://news.ycombinator.com/item?id=42877886"
-    ],
-    [
-      "Why Durable Execution Should Be Lightweight",
-      "https://www.dbos.dev/blog/what-is-lightweight-durable-execution"
     ]
   ],
   [
