@@ -42,6 +42,7 @@
 * [2025-01-30, 14:44:33](https://news.ycombinator.com/item?id=42878173) - [Github Incident with Pull Requests and Issues](https://www.githubstatus.com/incidents/nm83zrdky73y)
 * [2025-01-30, 14:29:28](https://news.ycombinator.com/item?id=42877995) - [GitHub Is Down](https://www.githubstatus.com)
 * [2025-01-30, 14:21:20](https://news.ycombinator.com/item?id=42877910) - [String of recent killings linked to Bay Area rationalist 'death cult'](https://www.sfgate.com/bayarea/article/bay-area-death-cult-zizian-murders-20064333.php)
+* [2025-01-30, 14:19:12](https://news.ycombinator.com/item?id=42877886) - [Why Durable Execution Should Be Lightweight](https://www.dbos.dev/blog/what-is-lightweight-durable-execution)
 * [2025-01-30, 14:16:57](https://news.ycombinator.com/item?id=42877860) - [Mistral Small 3](https://mistral.ai/news/mistral-small-3/)
 * [2025-01-30, 14:01:27](https://news.ycombinator.com/item?id=42877709) - [Note on the Relationship Between Artificial Intelligence and Human Intelligence](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html)
 * [2025-01-30, 13:54:09](https://news.ycombinator.com/item?id=42877648) - [The Slow Death of OCSP](https://www.feistyduck.com/newsletter/issue_121_the_slow_death_of_ocsp)
