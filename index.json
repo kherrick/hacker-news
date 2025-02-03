@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-03, 02:55:24",
+      "https://news.ycombinator.com/item?id=42914413"
+    ],
+    [
+      "Managing Secrets in Docker Compose – A Developer's Guide",
+      "https://phase.dev/blog/docker-compose-secrets/"
+    ]
+  ],
+  [
+    [
       "2025-02-03, 02:03:28",
       "https://news.ycombinator.com/item?id=42914135"
     ],
@@ -51,16 +61,6 @@
   ],
   [
     [
-      "2025-02-02, 23:13:13",
-      "https://news.ycombinator.com/item?id=42912875"
-    ],
-    [
-      "Tiny vanes glued to planes promise big savings for US Air Force",
-      "https://newatlas.com/military/ticky-little-vanes-bring-big-savings-us-air-force/"
-    ]
-  ],
-  [
-    [
       "2025-02-02, 22:27:54",
       "https://news.ycombinator.com/item?id=42912515"
     ],
@@ -87,6 +87,16 @@
     [
       "Emergence of a second law of thermodynamics in isolated quantum systems",
       "https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.010309"
+    ]
+  ],
+  [
+    [
+      "2025-02-02, 21:42:02",
+      "https://news.ycombinator.com/item?id=42912133"
+    ],
+    [
+      "Don't make fun of renowned author Dan Brown (2013)",
+      "https://onehundredpages.wordpress.com/2013/06/12/dont-make-fun-of-renowned-dan-brown/"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "Everyone knows your location: tracking myself down through in-app ads",
       "https://timsh.org/tracking-myself-down-through-in-app-ads/"
-    ]
-  ],
-  [
-    [
-      "2025-02-02, 16:14:49",
-      "https://news.ycombinator.com/item?id=42909530"
-    ],
-    [
-      "Sniffnet – monitor your Internet traffic",
-      "https://github.com/GyulyVGC/sniffnet"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2025-01-31, 20:04:30",
+      "https://news.ycombinator.com/item?id=42891284"
+    ],
+    [
+      "Global variables are not the problem",
+      "https://codestyleandtaste.com/globals-are-not-the-problem.html"
+    ]
+  ],
+  [
+    [
       "2025-01-31, 13:19:19",
       "https://news.ycombinator.com/item?id=42887356"
     ],
@@ -287,16 +297,6 @@
     [
       "The dumb reason why flag emojis aren't working on Chrome on Windows",
       "https://geyer.dev/blog/windows-flag-emojis/"
-    ]
-  ],
-  [
-    [
-      "2025-01-29, 19:16:42",
-      "https://news.ycombinator.com/item?id=42869730"
-    ],
-    [
-      "AstroForge selects target for \"high risk, seat of the pants\" asteroid mission",
-      "https://arstechnica.com/space/2025/01/astroforge-selects-target-for-high-risk-seat-of-the-pants-asteroid-mission/"
     ]
   ]
 ]
