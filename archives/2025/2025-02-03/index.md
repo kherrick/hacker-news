@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-03](index.md)
 
+* [2025-02-03, 21:33:29](https://news.ycombinator.com/item?id=42923512) - [How Translation Works, Book Title Edition](https://whatever.scalzi.com/2025/02/03/how-translation-works-book-title-edition/)
 * [2025-02-03, 20:35:26](https://news.ycombinator.com/item?id=42922695) - [Where in the U.S. Does Middle-Class Income Stretch the Furthest?](https://upgradedpoints.com/news/cities-where-middle-class-income-goes-furthest/)
 * [2025-02-03, 19:48:51](https://news.ycombinator.com/item?id=42922052) - [The Cantonese Scrolls (粵卷) – A Cantonese Language Learning Mental RPG](https://cantoscrolls.com/)
 * [2025-02-03, 19:47:25](https://news.ycombinator.com/item?id=42922038) - [Hello, I'm Mr. Null. My Name Makes Me Invisible to Computers (2015)](https://www.wired.com/2015/11/null/)
