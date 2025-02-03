@@ -2,7 +2,6 @@
 
 * [2025-02-03, 18:02:42](https://news.ycombinator.com/item?id=42920962) - [Remote Code Execution in Marvel Rivals Game](https://shalzuth.com/Blog/IFoundAGameExploit)
 * [2025-02-03, 17:59:13](https://news.ycombinator.com/item?id=42920921) - [AMD: Microcode Signature Verification Vulnerability](https://github.com/google/security-research/security/advisories/GHSA-4xq7-4mgh-gp6w)
-* [2025-02-03, 17:41:28](https://news.ycombinator.com/item?id=42920723) - [It's not 'emotional labour', it's kin work](https://thefuturefeeling.substack.com/p/its-not-emotional-labour)
 * [2025-02-03, 17:34:17](https://news.ycombinator.com/item?id=42920657) - [New Proofs Probe the Limits of Mathematical Truth](https://www.quantamagazine.org/new-proofs-probe-the-limits-of-mathematical-truth-20250203/)
 * [2025-02-03, 17:20:26](https://news.ycombinator.com/item?id=42920500) - [Better AI Is a Matter of Timing](https://spectrum.ieee.org/mems-time)
 * [2025-02-03, 17:00:32](https://news.ycombinator.com/item?id=42920292) - [Hightouch (YC S19) Is Hiring a Distributed Systems Engineer](https://news.ycombinator.com/item?id=42920292)
@@ -26,6 +25,7 @@
 * [2025-02-03, 04:53:11](https://news.ycombinator.com/item?id=42915113) - [Polish city is using mussels to monitor water quality (2020)](https://www.awa.asn.au/resources/latest-news/technology/innovation/polish-city-using-mussels-monitor-water-quality)
 * [2025-02-02, 22:27:54](https://news.ycombinator.com/item?id=42912515) - [GarminDB](https://github.com/tcgoetz/GarminDB)
 * [2025-02-02, 19:29:45](https://news.ycombinator.com/item?id=42911042) - [Waydroid – Android in a Linux container](https://waydro.id/)
+* [2025-02-02, 19:00:10](https://news.ycombinator.com/item?id=42910829) - [The legacy of lies in Alzheimer's science](https://www.nytimes.com/2025/01/24/opinion/alzheimers-fraud-cure.html)
 * [2025-02-02, 17:07:31](https://news.ycombinator.com/item?id=42909921) - [Everyone knows your location: tracking myself down through in-app ads](https://timsh.org/tracking-myself-down-through-in-app-ads/)
 * [2025-02-01, 02:06:08](https://news.ycombinator.com/item?id=42894939) - [Evaluating Code Embedding Models](https://blog.voyageai.com/2024/12/04/code-retrieval-eval/)
 * [2025-01-31, 16:37:36](https://news.ycombinator.com/item?id=42889148) - [High-Speed Face-Tracking for Dynamic Facial Projection Mapping](https://www.vision.ict.e.titech.ac.jp/projects/DFPM/)
