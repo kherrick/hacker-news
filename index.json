@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-03, 13:53:48",
+      "https://news.ycombinator.com/item?id=42918237"
+    ],
+    [
+      "Show HN: Klarity – Open-source tool to analyze uncertainty/entropy in LLM output",
+      "https://github.com/klara-research/klarity"
+    ]
+  ],
+  [
+    [
       "2025-02-03, 12:50:36",
       "https://news.ycombinator.com/item?id=42917680"
     ],
@@ -11,22 +21,22 @@
   ],
   [
     [
-      "2025-02-03, 12:21:52",
-      "https://news.ycombinator.com/item?id=42917454"
-    ],
-    [
-      "Our channel on YouTube has been deleted due to “spam and deceptive policies”",
-      "https://bsky.app/profile/sinevibes.bsky.social/post/3lhazuyn5as2t"
-    ]
-  ],
-  [
-    [
       "2025-02-03, 08:46:27",
       "https://news.ycombinator.com/item?id=42916219"
     ],
     [
       "Bayesian Epistemology (2022)",
       "https://plato.stanford.edu/entries/epistemology-bayesian/"
+    ]
+  ],
+  [
+    [
+      "2025-02-03, 08:43:13",
+      "https://news.ycombinator.com/item?id=42916203"
+    ],
+    [
+      "Ruby \"Thread Contention\" Is Simply GVL Queuing",
+      "https://island94.org/2025/01/ruby-thread-contention-simply-gvl-queuing"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "How many ants live on Earth? (2022)",
       "https://www.science.org/content/article/how-many-ants-live-earth"
-    ]
-  ],
-  [
-    [
-      "2025-01-30, 22:08:19",
-      "https://news.ycombinator.com/item?id=42882649"
-    ],
-    [
-      "TopoNets: High-Performing Vision and Language Models with Brain-Like Topography",
-      "https://toponets.github.io/"
     ]
   ],
   [
