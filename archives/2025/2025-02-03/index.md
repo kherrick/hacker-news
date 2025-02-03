@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-03](index.md)
 
 * [2025-02-03, 18:02:42](https://news.ycombinator.com/item?id=42920962) - [Remote Code Execution in Marvel Rivals Game](https://shalzuth.com/Blog/IFoundAGameExploit)
+* [2025-02-03, 17:59:13](https://news.ycombinator.com/item?id=42920921) - [AMD: Microcode Signature Verification Vulnerability](https://github.com/google/security-research/security/advisories/GHSA-4xq7-4mgh-gp6w)
 * [2025-02-03, 17:41:28](https://news.ycombinator.com/item?id=42920723) - [It's not 'emotional labour', it's kin work](https://thefuturefeeling.substack.com/p/its-not-emotional-labour)
 * [2025-02-03, 17:34:17](https://news.ycombinator.com/item?id=42920657) - [New Proofs Probe the Limits of Mathematical Truth](https://www.quantamagazine.org/new-proofs-probe-the-limits-of-mathematical-truth-20250203/)
 * [2025-02-03, 17:20:26](https://news.ycombinator.com/item?id=42920500) - [Better AI Is a Matter of Timing](https://spectrum.ieee.org/mems-time)
@@ -18,6 +19,7 @@
 * [2025-02-03, 16:19:45](https://news.ycombinator.com/item?id=42919788) - [I Conditioned Myself to Fail](https://www.brainbun.com/blog/i-conditioned-myself-to-fail/)
 * [2025-02-03, 16:06:48](https://news.ycombinator.com/item?id=42919597) - [Efficient Reasoning with Hidden Thinking](https://arxiv.org/abs/2501.19201)
 * [2025-02-03, 16:00:43](https://news.ycombinator.com/item?id=42919502) - [Ask HN: Who is hiring? (February 2025)](https://news.ycombinator.com/item?id=42919502)
+* [2025-02-03, 16:00:42](https://news.ycombinator.com/item?id=42919500) - [Ask HN: Who wants to be hired? (February 2025)](https://news.ycombinator.com/item?id=42919500)
 * [2025-02-03, 15:52:34](https://news.ycombinator.com/item?id=42919408) - [Show HN: Check Supply – Send Checks in the Mail](https://check.supply)
 * [2025-02-03, 15:36:52](https://news.ycombinator.com/item?id=42919221) - [Reverse Engineering Apple's typedstream Format](https://chrissardegna.com/blog/reverse-engineering-apples-typedstream-format/)
 * [2025-02-03, 15:09:55](https://news.ycombinator.com/item?id=42918902) - [Show HN: I convert videos to printed flipbooks for living](https://www.videotoflip.com/)
