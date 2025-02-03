@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-03](index.md)
 
+* [2025-02-03, 15:36:52](https://news.ycombinator.com/item?id=42919221) - [Reverse Engineering Apple's typedstream Format](https://chrissardegna.com/blog/reverse-engineering-apples-typedstream-format/)
 * [2025-02-03, 15:03:36](https://news.ycombinator.com/item?id=42918846) - [Decorator JITs: Python as a DSL](https://eli.thegreenplace.net/2025/decorator-jits-python-as-a-dsl/)
 * [2025-02-03, 14:30:11](https://news.ycombinator.com/item?id=42918524) - [I Wrote a WebAssembly VM in C](https://irreducible.io/blog/my-wasm-interpreter/)
 * [2025-02-03, 14:18:18](https://news.ycombinator.com/item?id=42918425) - [New York claims a small victory in 'forever war on rats'](https://www.thetimes.com/us/news-today/article/new-york-finally-claims-a-small-victory-in-forever-war-on-rats-m7x230sg8)
