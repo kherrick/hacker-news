@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-03, 07:46:37",
+      "https://news.ycombinator.com/item?id=42915905"
+    ],
+    [
+      "Anthropic: \"Applicants should not use AI assistants\"",
+      "https://simonwillison.net/2025/Feb/2/anthropic/"
+    ]
+  ],
+  [
+    [
       "2025-02-03, 06:27:11",
       "https://news.ycombinator.com/item?id=42915527"
     ],
@@ -197,16 +207,6 @@
     [
       "Analyzing the codebase of Caffeine, a high performance caching library",
       "https://adriacabeza.github.io/2024/07/12/caffeine-cache.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-01, 22:11:45",
-      "https://news.ycombinator.com/item?id=42902936"
-    ],
-    [
-      "RLHF Book",
-      "https://rlhfbook.com/"
     ]
   ],
   [
