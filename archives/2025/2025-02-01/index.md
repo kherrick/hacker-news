@@ -80,6 +80,7 @@
 * [2025-02-01, 02:36:55](https://news.ycombinator.com/item?id=42895108) - [Open source alternative to Postman / Insomnia](https://github.com/hoppscotch/hoppscotch)
 * [2025-02-01, 02:25:39](https://news.ycombinator.com/item?id=42895049) - [Setting up a Linux writecache as a RAM disk](https://www.admin-magazine.com/HPC/Articles/Linux-Writecache)
 * [2025-02-01, 02:23:24](https://news.ycombinator.com/item?id=42895039) - [Running DeepSeek R1 Models Locally on NPU](https://blogs.windows.com/windowsdeveloper/2025/01/29/running-distilled-deepseek-r1-models-locally-on-copilot-pcs-powered-by-windows-copilot-runtime/)
+* [2025-02-01, 02:06:08](https://news.ycombinator.com/item?id=42894939) - [Evaluating Code Embedding Models](https://blog.voyageai.com/2024/12/04/code-retrieval-eval/)
 * [2025-02-01, 01:30:02](https://news.ycombinator.com/item?id=42894708) - [Decision to dump water from Tulare County lakes altered after confusing locals](https://sjvwater.org/decision-to-dump-water-from-tulare-county-lakes-altered-after-sending-locals-in-mad-scramble/)
 * [2025-02-01, 01:23:44](https://news.ycombinator.com/item?id=42894660) - [Using eqn for static website equation generation](https://douglasrumbaugh.com/post/eqn-mathml/)
 * [2025-02-01, 00:50:40](https://news.ycombinator.com/item?id=42894425) - [Show HN: Simple to build MCP servers that easily connect with custom LLM calls](https://mirascope.com/learn/mcp/server/)

@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-02-03](index.md)
 
+* [2025-02-03, 18:02:42](https://news.ycombinator.com/item?id=42920962) - [Remote Code Execution in Marvel Rivals Game](https://shalzuth.com/Blog/IFoundAGameExploit)
+* [2025-02-03, 17:41:28](https://news.ycombinator.com/item?id=42920723) - [It's not 'emotional labour', it's kin work](https://thefuturefeeling.substack.com/p/its-not-emotional-labour)
+* [2025-02-03, 17:34:17](https://news.ycombinator.com/item?id=42920657) - [New Proofs Probe the Limits of Mathematical Truth](https://www.quantamagazine.org/new-proofs-probe-the-limits-of-mathematical-truth-20250203/)
 * [2025-02-03, 17:14:55](https://news.ycombinator.com/item?id=42920437) - [Coup](https://wh47.substack.com/p/ongoing-coup)
 * [2025-02-03, 17:00:32](https://news.ycombinator.com/item?id=42920292) - [Hightouch (YC S19) Is Hiring a Distributed Systems Engineer](https://news.ycombinator.com/item?id=42920292)
 * [2025-02-03, 17:00:09](https://news.ycombinator.com/item?id=42920285) - [Developer Philosophy](https://qntm.org/devphilo)
@@ -11,6 +14,7 @@
 * [2025-02-03, 16:40:57](https://news.ycombinator.com/item?id=42920047) - [Optimizing with Novel Calendrical Algorithms](https://jhpratt.dev/blog/optimizing-with-novel-calendrical-algorithms/)
 * [2025-02-03, 16:28:45](https://news.ycombinator.com/item?id=42919909) - [Httptap: View HTTP/HTTPS requests made by any Linux program](https://github.com/monasticacademy/httptap)
 * [2025-02-03, 16:22:17](https://news.ycombinator.com/item?id=42919821) - [First place in Tetris 99 using computer vision and classical AI](https://bpinzone.github.io/TetrisAI/)
+* [2025-02-03, 16:19:45](https://news.ycombinator.com/item?id=42919788) - [I Conditioned Myself to Fail](https://www.brainbun.com/blog/i-conditioned-myself-to-fail/)
 * [2025-02-03, 16:06:48](https://news.ycombinator.com/item?id=42919597) - [Efficient Reasoning with Hidden Thinking](https://arxiv.org/abs/2501.19201)
 * [2025-02-03, 16:00:43](https://news.ycombinator.com/item?id=42919502) - [Ask HN: Who is hiring? (February 2025)](https://news.ycombinator.com/item?id=42919502)
 * [2025-02-03, 15:52:34](https://news.ycombinator.com/item?id=42919408) - [Show HN: Check Supply – Send Checks in the Mail](https://check.supply)
