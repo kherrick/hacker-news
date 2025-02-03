@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-02-03, 15:52:34",
-      "https://news.ycombinator.com/item?id=42919408"
+      "2025-02-03, 16:22:17",
+      "https://news.ycombinator.com/item?id=42919821"
     ],
     [
-      "Show HN: Check Supply – Send Checks in the Mail",
-      "https://check.supply"
+      "First place in Tetris 99 using computer vision and classical AI",
+      "https://bpinzone.github.io/TetrisAI/"
+    ]
+  ],
+  [
+    [
+      "2025-02-03, 16:06:48",
+      "https://news.ycombinator.com/item?id=42919597"
+    ],
+    [
+      "Efficient Reasoning with Hidden Thinking",
+      "https://arxiv.org/abs/2501.19201"
+    ]
+  ],
+  [
+    [
+      "2025-02-03, 16:00:43",
+      "https://news.ycombinator.com/item?id=42919502"
+    ],
+    [
+      "Ask HN: Who is hiring? (February 2025)",
+      "https://news.ycombinator.com/item?id=42919502"
     ]
   ],
   [
@@ -61,22 +81,22 @@
   ],
   [
     [
-      "2025-02-03, 12:50:36",
-      "https://news.ycombinator.com/item?id=42917680"
-    ],
-    [
-      "\"Anything threatening to be a subculture is commodified before it can walk\" (2014)",
-      "https://www.dezeen.com/2014/12/18/william-gibson-subculture-commodification-london-justin-mcguirk-opinion/"
-    ]
-  ],
-  [
-    [
       "2025-02-03, 12:19:19",
       "https://news.ycombinator.com/item?id=42917434"
     ],
     [
       "When Bohr got it wrong: the impact of a little-known paper on quantum theory",
       "https://physicsworld.com/a/when-bohr-got-it-wrong-the-impact-of-a-little-known-paper-on-the-development-of-quantum-theory/"
+    ]
+  ],
+  [
+    [
+      "2025-02-03, 09:16:26",
+      "https://news.ycombinator.com/item?id=42916400"
+    ],
+    [
+      "Google removed 2.36M apps from Google Play using AI threat detection",
+      "https://security.googleblog.com/2025/01/how-we-kept-google-play-android-app-ecosystem-safe-2024.html"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-02-02, 15:19:32",
-      "https://news.ycombinator.com/item?id=42909166"
-    ],
-    [
-      "Ask HN: What is interviewing like now with everyone using AI?",
-      "https://news.ycombinator.com/item?id=42909166"
-    ]
-  ],
-  [
-    [
       "2025-02-01, 02:25:39",
       "https://news.ycombinator.com/item?id=42895049"
     ],
@@ -227,16 +237,6 @@
     [
       "High-Speed Face-Tracking for Dynamic Facial Projection Mapping",
       "https://www.vision.ict.e.titech.ac.jp/projects/DFPM/"
-    ]
-  ],
-  [
-    [
-      "2025-01-31, 13:07:38",
-      "https://news.ycombinator.com/item?id=42887274"
-    ],
-    [
-      "Building a Mesh Using Spherical Embedding",
-      "https://andrews.wiki/spherical-mesh"
     ]
   ],
   [
