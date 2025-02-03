@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-03](index.md)
 
 * [2025-02-03, 16:40:57](https://news.ycombinator.com/item?id=42920047) - [Optimizing with Novel Calendrical Algorithms](https://jhpratt.dev/blog/optimizing-with-novel-calendrical-algorithms/)
+* [2025-02-03, 16:28:45](https://news.ycombinator.com/item?id=42919909) - [Httptap: View HTTP/HTTPS requests made by any Linux program](https://github.com/monasticacademy/httptap)
 * [2025-02-03, 16:22:17](https://news.ycombinator.com/item?id=42919821) - [First place in Tetris 99 using computer vision and classical AI](https://bpinzone.github.io/TetrisAI/)
 * [2025-02-03, 16:06:48](https://news.ycombinator.com/item?id=42919597) - [Efficient Reasoning with Hidden Thinking](https://arxiv.org/abs/2501.19201)
 * [2025-02-03, 16:00:43](https://news.ycombinator.com/item?id=42919502) - [Ask HN: Who is hiring? (February 2025)](https://news.ycombinator.com/item?id=42919502)
