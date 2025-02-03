@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-02-03](index.md)
 
+* [2025-02-03, 19:32:36](https://news.ycombinator.com/item?id=42921867) - [Texas Tempts Meta](https://www.bloomberg.com/opinion/articles/2025-02-03/texas-tempts-meta)
 * [2025-02-03, 19:26:50](https://news.ycombinator.com/item?id=42921803) - [Bluesky: Advanced Bridge for Mastodon and Telegram](https://mastogr.am/)
 * [2025-02-03, 19:12:30](https://news.ycombinator.com/item?id=42921659) - [The Reality of Dating Apps](https://blog.luap.info/the-reality-of-dating-apps.html)
 * [2025-02-03, 18:02:42](https://news.ycombinator.com/item?id=42920962) - [Remote Code Execution in Marvel Rivals Game](https://shalzuth.com/Blog/IFoundAGameExploit)
 * [2025-02-03, 17:59:13](https://news.ycombinator.com/item?id=42920921) - [AMD: Microcode Signature Verification Vulnerability](https://github.com/google/security-research/security/advisories/GHSA-4xq7-4mgh-gp6w)
+* [2025-02-03, 17:56:11](https://news.ycombinator.com/item?id=42920884) - [S1: Simple Test-Time Scaling](https://github.com/simplescaling/s1)
 * [2025-02-03, 17:41:28](https://news.ycombinator.com/item?id=42920723) - [It's not 'emotional labour', it's kin work](https://thefuturefeeling.substack.com/p/its-not-emotional-labour)
 * [2025-02-03, 17:34:17](https://news.ycombinator.com/item?id=42920657) - [New Proofs Probe the Limits of Mathematical Truth](https://www.quantamagazine.org/new-proofs-probe-the-limits-of-mathematical-truth-20250203/)
 * [2025-02-03, 17:20:26](https://news.ycombinator.com/item?id=42920500) - [Better AI Is a Matter of Timing](https://spectrum.ieee.org/mems-time)

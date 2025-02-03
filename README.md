@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-03, 19:26:50](https://news.ycombinator.com/item?id=42921803) - [Bluesky: Advanced Bridge for Mastodon and Telegram](https://mastogr.am/)
+* [2025-02-03, 19:32:36](https://news.ycombinator.com/item?id=42921867) - [Texas Tempts Meta](https://www.bloomberg.com/opinion/articles/2025-02-03/texas-tempts-meta)
 * [2025-02-03, 18:02:42](https://news.ycombinator.com/item?id=42920962) - [Remote Code Execution in Marvel Rivals Game](https://shalzuth.com/Blog/IFoundAGameExploit)
 * [2025-02-03, 17:59:13](https://news.ycombinator.com/item?id=42920921) - [AMD: Microcode Signature Verification Vulnerability](https://github.com/google/security-research/security/advisories/GHSA-4xq7-4mgh-gp6w)
+* [2025-02-03, 17:56:11](https://news.ycombinator.com/item?id=42920884) - [S1: Simple Test-Time Scaling](https://github.com/simplescaling/s1)
 * [2025-02-03, 17:34:17](https://news.ycombinator.com/item?id=42920657) - [New Proofs Probe the Limits of Mathematical Truth](https://www.quantamagazine.org/new-proofs-probe-the-limits-of-mathematical-truth-20250203/)
 * [2025-02-03, 17:20:26](https://news.ycombinator.com/item?id=42920500) - [Better AI Is a Matter of Timing](https://spectrum.ieee.org/mems-time)
 * [2025-02-03, 17:00:32](https://news.ycombinator.com/item?id=42920292) - [Hightouch (YC S19) Is Hiring a Distributed Systems Engineer](https://news.ycombinator.com/item?id=42920292)
@@ -22,7 +23,6 @@
 * [2025-02-03, 13:53:48](https://news.ycombinator.com/item?id=42918237) - [Show HN: Klarity – Open-source tool to analyze uncertainty/entropy in LLM output](https://github.com/klara-research/klarity)
 * [2025-02-03, 12:19:19](https://news.ycombinator.com/item?id=42917434) - [When Bohr got it wrong: the impact of a little-known paper on quantum theory](https://physicsworld.com/a/when-bohr-got-it-wrong-the-impact-of-a-little-known-paper-on-the-development-of-quantum-theory/)
 * [2025-02-03, 08:43:13](https://news.ycombinator.com/item?id=42916203) - [Ruby “Thread Contention” Is Simply GVL Queuing](https://island94.org/2025/01/ruby-thread-contention-simply-gvl-queuing)
-* [2025-02-03, 05:19:52](https://news.ycombinator.com/item?id=42915231) - [London Street Views (1840)](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~323099~90092214:Composite--London-Street-Views-No--)
 * [2025-02-03, 04:53:11](https://news.ycombinator.com/item?id=42915113) - [Polish city is using mussels to monitor water quality (2020)](https://www.awa.asn.au/resources/latest-news/technology/innovation/polish-city-using-mussels-monitor-water-quality)
 * [2025-02-02, 19:29:45](https://news.ycombinator.com/item?id=42911042) - [Waydroid – Android in a Linux container](https://waydro.id/)
 * [2025-02-02, 19:12:13](https://news.ycombinator.com/item?id=42910910) - [The young, inexperienced engineers aiding DOGE](https://www.wired.com/story/elon-musk-government-young-engineers/)
