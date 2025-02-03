@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-02-03, 17:59:13",
+      "https://news.ycombinator.com/item?id=42920921"
+    ],
+    [
+      "AMD: Microcode Signature Verification Vulnerability",
+      "https://github.com/google/security-research/security/advisories/GHSA-4xq7-4mgh-gp6w"
+    ]
+  ],
+  [
+    [
       "2025-02-03, 17:41:28",
       "https://news.ycombinator.com/item?id=42920723"
     ],
@@ -117,6 +127,16 @@
     [
       "Ask HN: Who is hiring? (February 2025)",
       "https://news.ycombinator.com/item?id=42919502"
+    ]
+  ],
+  [
+    [
+      "2025-02-03, 16:00:42",
+      "https://news.ycombinator.com/item?id=42919500"
+    ],
+    [
+      "Ask HN: Who wants to be hired? (February 2025)",
+      "https://news.ycombinator.com/item?id=42919500"
     ]
   ],
   [
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2025-02-02, 22:19:10",
-      "https://news.ycombinator.com/item?id=42912438"
-    ],
-    [
-      "F-strings for C++26 proposal [pdf]",
-      "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3412r0.pdf"
-    ]
-  ],
-  [
-    [
       "2025-02-02, 19:29:45",
       "https://news.ycombinator.com/item?id=42911042"
     ],
     [
       "Waydroid – Android in a Linux container",
       "https://waydro.id/"
-    ]
-  ],
-  [
-    [
-      "2025-02-02, 19:00:10",
-      "https://news.ycombinator.com/item?id=42910829"
-    ],
-    [
-      "The legacy of lies in Alzheimer's science",
-      "https://www.nytimes.com/2025/01/24/opinion/alzheimers-fraud-cure.html"
     ]
   ],
   [
