@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-01](index.md)
 
+* [2025-02-01, 23:48:34](https://news.ycombinator.com/item?id=42903821) - [PE basics: A windows executable walkthrough – File formats hexplorations 16 [video]](https://www.youtube.com/watch?v=eJ1bQmKDZw8)
 * [2025-02-01, 23:45:48](https://news.ycombinator.com/item?id=42903803) - [The Power of Poetry: Why Everyone Should Write](https://domofutu.substack.com/p/the-power-of-poetry)
 * [2025-02-01, 23:17:36](https://news.ycombinator.com/item?id=42903576) - [Avoid ISP Routers](https://routersecurity.org/ISProuters.php)
 * [2025-02-01, 23:16:43](https://news.ycombinator.com/item?id=42903564) - [Wealth inequality risks triggering 'societal collapse' within next decade](https://www.kcl.ac.uk/news/wealth-inequality-risks-triggering-societal-collapse-within-next-decade-report-finds)
