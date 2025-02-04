@@ -47,6 +47,7 @@
 * [2025-02-01, 16:34:31](https://news.ycombinator.com/item?id=42899620) - [Cosmopolitan Third Edition](https://justine.lol/cosmo3/)
 * [2025-02-01, 16:32:29](https://news.ycombinator.com/item?id=42899606) - [Addiction Economy](https://www.profgalloway.com/addiction-economy/)
 * [2025-02-01, 16:06:33](https://news.ycombinator.com/item?id=42899400) - [Have Gemini stage and write commit messages for you](https://github.com/suwi-lanji/auto-commit)
+* [2025-02-01, 15:54:19](https://news.ycombinator.com/item?id=42899304) - [AMD adds RF-sampling data converters to Versal adaptive SoCs](https://www.electronicsweekly.com/news/business/amd-adds-rf-sampling-data-converters-to-versal-adaptive-socs-2024-12/)
 * [2025-02-01, 15:49:25](https://news.ycombinator.com/item?id=42899261) - [Over 90% of U.S. airport towers are understaffed, data shows](https://www.cbsnews.com/news/over-90-percent-u-s-airport-towers-understaffed-air-traffic-controllers-data-shows/)
 * [2025-02-01, 15:41:08](https://news.ycombinator.com/item?id=42899184) - [Large Language Models for Mathematicians](https://arxiv.org/abs/2312.04556)
 * [2025-02-01, 15:39:59](https://news.ycombinator.com/item?id=42899168) - [Mitochondria as you've never seen them](https://www.nature.com/immersive/d41586-025-00269-y/)
