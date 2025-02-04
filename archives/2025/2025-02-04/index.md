@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-04](index.md)
 
+* [2025-02-04, 14:29:30](https://news.ycombinator.com/item?id=42932760) - [Words Now Forbidden in the Free Speech United States of Academic Freedom](https://mastodon.social/@Lazarou/113943275616933776)
+* [2025-02-04, 14:07:23](https://news.ycombinator.com/item?id=42932492) - [My Seventh Year as a Bootstrapped Founder](https://mtlynch.io/solo-developer-year-7/)
 * [2025-02-04, 13:44:23](https://news.ycombinator.com/item?id=42932218) - [Please help me find better blogs to read](https://news.ycombinator.com/item?id=42932218)
 * [2025-02-04, 13:37:57](https://news.ycombinator.com/item?id=42932137) - [Bouncing Beholder, my winning JS1k entry (2012)](https://marijnhaverbeke.nl/js1k/)
 * [2025-02-04, 13:31:05](https://news.ycombinator.com/item?id=42932056) - [Why employees smuggle AI into work](https://www.bbc.com/news/articles/cn7rx05xg2go)
