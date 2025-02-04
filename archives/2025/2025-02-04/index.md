@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-04](index.md)
 
+* [2025-02-04, 19:55:27](https://news.ycombinator.com/item?id=42937701) - [Open Deep Research](https://github.com/huggingface/smolagents/tree/main/examples/open_deep_research)
 * [2025-02-04, 18:57:47](https://news.ycombinator.com/item?id=42936940) - [GitHub Reveals How Software Engineers Are Purging Federal Databases](https://www.404media.co/forbidden-words-github-reveals-how-software-engineers-are-purging-federal-databases/)
 * [2025-02-04, 18:56:08](https://news.ycombinator.com/item?id=42936910) - [How to Scale Your Model: A Systems View of LLMs on TPUs](https://jax-ml.github.io/scaling-book/)
 * [2025-02-04, 18:40:55](https://news.ycombinator.com/item?id=42936723) - [WikiTok](https://wikitok.vercel.app/)

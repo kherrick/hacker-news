@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-04, 18:57:47](https://news.ycombinator.com/item?id=42936940) - [GitHub Reveals How Software Engineers Are Purging Federal Databases](https://www.404media.co/forbidden-words-github-reveals-how-software-engineers-are-purging-federal-databases/)
+* [2025-02-04, 19:55:27](https://news.ycombinator.com/item?id=42937701) - [Open Deep Research](https://github.com/huggingface/smolagents/tree/main/examples/open_deep_research)
+* [2025-02-04, 18:57:47](https://news.ycombinator.com/item?id=42936940) - [GitHub reveals how software engineers are purging federal databases](https://www.404media.co/forbidden-words-github-reveals-how-software-engineers-are-purging-federal-databases/)
 * [2025-02-04, 18:56:08](https://news.ycombinator.com/item?id=42936910) - [How to Scale Your Model: A Systems View of LLMs on TPUs](https://jax-ml.github.io/scaling-book/)
 * [2025-02-04, 18:40:55](https://news.ycombinator.com/item?id=42936723) - [WikiTok](https://wikitok.vercel.app/)
 * [2025-02-04, 17:56:34](https://news.ycombinator.com/item?id=42936086) - [The Slotted Counter Pattern (2020)](https://planetscale.com/blog/the-slotted-counter-pattern)
-* [2025-02-04, 17:35:27](https://news.ycombinator.com/item?id=42935741) - [How Spotify Killed Lo-Fi Hip Hop](https://gamechops.substack.com/p/how-spotify-killed-lo-fi-hip-hop)
 * [2025-02-04, 17:21:02](https://news.ycombinator.com/item?id=42935516) - [Roc Rewrites the Compiler in Zig](https://gist.github.com/rtfeldman/77fb430ee57b42f5f2ca973a3992532f)
 * [2025-02-04, 17:10:51](https://news.ycombinator.com/item?id=42935355) - [Launch HN: Pinch (YC W25) – Video conferencing with immersive translation](https://news.ycombinator.com/item?id=42935355)
 * [2025-02-04, 17:02:20](https://news.ycombinator.com/item?id=42935218) - [Show HN: Haystack Code Reviewer – Perform code reviews on a canvas](https://haystackeditor.com/code-reviewer)
@@ -13,6 +13,7 @@
 * [2025-02-04, 15:25:27](https://news.ycombinator.com/item?id=42933507) - [100 Or so Books that shaped a Century of Science](https://web.mnstate.edu/schwartz/centurylist2.html)
 * [2025-02-04, 15:17:48](https://news.ycombinator.com/item?id=42933383) - [Build a link blog like Simon Willison](https://xuanwo.io/links/2025/01/link-blog/)
 * [2025-02-04, 15:08:21](https://news.ycombinator.com/item?id=42933256) - [DoppelBot: Replace Your CEO with an LLM](https://modal.com/docs/examples/slack-finetune)
+* [2025-02-04, 15:05:34](https://news.ycombinator.com/item?id=42933219) - [Payments crisis of 2025: Not “read only” access anymore](https://www.crisesnotes.com/day-five-of-the-trump-musk-treasury-payments-crisis-of-2025-not-read-only-access-anymore/)
 * [2025-02-04, 14:50:00](https://news.ycombinator.com/item?id=42933049) - [The Lost Story of Alan Turing's \"Delilah\" Project](https://spectrum.ieee.org/alan-turings-delilah)
 * [2025-02-04, 14:43:53](https://news.ycombinator.com/item?id=42932948) - [DeepRAG: Thinking to Retrieval Step by Step for Large Language Models](https://arxiv.org/abs/2502.01142)
 * [2025-02-04, 14:29:30](https://news.ycombinator.com/item?id=42932760) - [Words flagged in search of current NSF awards](https://mastodon.social/@Lazarou/113943275616933776)
@@ -28,7 +29,6 @@
 * [2025-02-01, 15:39:59](https://news.ycombinator.com/item?id=42899168) - [Mitochondria as you've never seen them](https://www.nature.com/immersive/d41586-025-00269-y/)
 * [2025-02-01, 12:00:39](https://news.ycombinator.com/item?id=42897730) - [Pyramid structure discovered near Caral Peru](https://omniletters.com/hidden-pyramid-structure-discovered-near-caral/)
 * [2025-02-01, 09:33:36](https://news.ycombinator.com/item?id=42897151) - [Push Notifications for Decentralized Services](https://unifiedpush.org/news/20250131_push_for_decentralized/)
-* [2025-02-01, 00:24:42](https://news.ycombinator.com/item?id=42894216) - [Byte Queue Limits: the unauthorized biography](https://medium.com/@tom_84912/byte-queue-limits-the-unauthorized-biography-61adc5730b83)
 * [2025-01-31, 19:06:30](https://news.ycombinator.com/item?id=42890606) - [List Any Linux Tracepoint with Their Arguments, Datatypes and Related Structs](https://tanelpoder.com/posts/tpargs-list-tracepoint-arguments-and-structures/)
 
 ## [Archives](archives/index.md)
