@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2025-02-03, 15:03:36",
-      "https://news.ycombinator.com/item?id=42918846"
-    ],
-    [
-      "Decorator JITs: Python as a DSL",
-      "https://eli.thegreenplace.net/2025/decorator-jits-python-as-a-dsl/"
-    ]
-  ],
-  [
-    [
       "2025-02-03, 14:42:51",
       "https://news.ycombinator.com/item?id=42918644"
     ],
@@ -267,6 +257,16 @@
     [
       "Macintosh Allegro Common Lisp",
       "https://www.macintoshrepository.org/1799-macintosh-allegro-common-lisp"
+    ]
+  ],
+  [
+    [
+      "2025-02-01, 10:24:06",
+      "https://news.ycombinator.com/item?id=42897360"
+    ],
+    [
+      "How to Compile Java into Native Binaries with Mill and Graal",
+      "https://mill-build.org/blog/7-graal-native-executables.html"
     ]
   ],
   [
