@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-02-04, 19:55:27",
+      "https://news.ycombinator.com/item?id=42937701"
+    ],
+    [
+      "Open Deep Research",
+      "https://github.com/huggingface/smolagents/tree/main/examples/open_deep_research"
+    ]
+  ],
+  [
+    [
       "2025-02-04, 18:57:47",
       "https://news.ycombinator.com/item?id=42936940"
     ],
     [
-      "GitHub Reveals How Software Engineers Are Purging Federal Databases",
+      "GitHub reveals how software engineers are purging federal databases",
       "https://www.404media.co/forbidden-words-github-reveals-how-software-engineers-are-purging-federal-databases/"
     ]
   ],
@@ -37,16 +47,6 @@
     [
       "The Slotted Counter Pattern (2020)",
       "https://planetscale.com/blog/the-slotted-counter-pattern"
-    ]
-  ],
-  [
-    [
-      "2025-02-04, 17:35:27",
-      "https://news.ycombinator.com/item?id=42935741"
-    ],
-    [
-      "How Spotify Killed Lo-Fi Hip Hop",
-      "https://gamechops.substack.com/p/how-spotify-killed-lo-fi-hip-hop"
     ]
   ],
   [
@@ -127,6 +127,16 @@
     [
       "DoppelBot: Replace Your CEO with an LLM",
       "https://modal.com/docs/examples/slack-finetune"
+    ]
+  ],
+  [
+    [
+      "2025-02-04, 15:05:34",
+      "https://news.ycombinator.com/item?id=42933219"
+    ],
+    [
+      "Payments crisis of 2025: Not “read only” access anymore",
+      "https://www.crisesnotes.com/day-five-of-the-trump-musk-treasury-payments-crisis-of-2025-not-read-only-access-anymore/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Push Notifications for Decentralized Services",
       "https://unifiedpush.org/news/20250131_push_for_decentralized/"
-    ]
-  ],
-  [
-    [
-      "2025-02-01, 00:24:42",
-      "https://news.ycombinator.com/item?id=42894216"
-    ],
-    [
-      "Byte Queue Limits: the unauthorized biography",
-      "https://medium.com/@tom_84912/byte-queue-limits-the-unauthorized-biography-61adc5730b83"
     ]
   ],
   [
