@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-04, 18:03:11",
+      "https://news.ycombinator.com/item?id=42936185"
+    ],
+    [
+      "DeepSeek not as disruptive as claimed, firm has 50k GPUs and spent $1.6B",
+      "https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-might-not-be-as-disruptive-as-claimed-firm-reportedly-has-50-000-nvidia-gpus-and-spent-usd1-6-billion-on-buildouts"
+    ]
+  ],
+  [
+    [
       "2025-02-04, 17:56:34",
       "https://news.ycombinator.com/item?id=42936086"
     ],
@@ -217,16 +227,6 @@
     [
       "\"A computer can never be held accountable\"",
       "https://simonwillison.net/2025/Feb/3/a-computer-can-never-be-held-accountable/"
-    ]
-  ],
-  [
-    [
-      "2025-02-03, 17:59:13",
-      "https://news.ycombinator.com/item?id=42920921"
-    ],
-    [
-      "AMD: Microcode Signature Verification Vulnerability",
-      "https://github.com/google/security-research/security/advisories/GHSA-4xq7-4mgh-gp6w"
     ]
   ],
   [
