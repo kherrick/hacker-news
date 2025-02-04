@@ -1,31 +1,11 @@
 [
   [
     [
-      "2025-02-04, 14:29:30",
-      "https://news.ycombinator.com/item?id=42932760"
-    ],
-    [
-      "Words Now Forbidden in the Free Speech United States of Academic Freedom",
-      "https://mastodon.social/@Lazarou/113943275616933776"
-    ]
-  ],
-  [
-    [
-      "2025-02-04, 14:07:23",
-      "https://news.ycombinator.com/item?id=42932492"
-    ],
-    [
-      "My Seventh Year as a Bootstrapped Founder",
-      "https://mtlynch.io/solo-developer-year-7/"
-    ]
-  ],
-  [
-    [
       "2025-02-04, 13:37:57",
       "https://news.ycombinator.com/item?id=42932137"
     ],
     [
-      "Bouncing Beholder, my winning JS1k entry (2012)",
+      "Bouncing Beholder, my winning JS1K entry (2012)",
       "https://marijnhaverbeke.nl/js1k/"
     ]
   ],
@@ -65,7 +45,7 @@
       "https://news.ycombinator.com/item?id=42930185"
     ],
     [
-      "The Final Frontier with Steve Jurvetson",
+      "The Final Frontier with Steve Jurvetson (2022)",
       "https://cloudvalley.substack.com/p/the-final-frontier-with-steve-jurvetson"
     ]
   ],
@@ -87,6 +67,16 @@
     [
       "The Video Game History Foundation library opens in early access",
       "https://gamehistory.org/vghf-library-launch/"
+    ]
+  ],
+  [
+    [
+      "2025-02-04, 00:00:13",
+      "https://news.ycombinator.com/item?id=42925210"
+    ],
+    [
+      "El Salvador abandons Bitcoin as legal tender",
+      "https://ticotimes.net/2025/02/02/el-salvador-abandons-bitcoin-as-legal-tender-after-failed-experiment"
     ]
   ],
   [
@@ -245,7 +235,7 @@
       "https://news.ycombinator.com/item?id=42899304"
     ],
     [
-      "AMD adds RF-sampling data converters to Versal adaptive SoCs",
+      "AMD adds RF-sampling data converters to Versal adaptive SoCs (2024)",
       "https://www.electronicsweekly.com/news/business/amd-adds-rf-sampling-data-converters-to-versal-adaptive-socs-2024-12/"
     ]
   ],
@@ -277,6 +267,16 @@
     [
       "ArXiv LaTeX Cleaner: Clean the LaTeX code of your paper to submit to ArXiv",
       "https://github.com/google-research/arxiv-latex-cleaner"
+    ]
+  ],
+  [
+    [
+      "2025-01-31, 17:25:14",
+      "https://news.ycombinator.com/item?id=42889570"
+    ],
+    [
+      "Cosmologists Try a New Way to Measure the Shape of the Universe",
+      "https://www.quantamagazine.org/cosmologists-try-a-new-way-to-measure-the-shape-of-the-universe-20250127/"
     ]
   ],
   [
