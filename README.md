@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-04, 01:15:28](https://news.ycombinator.com/item?id=42926076) - [The Video Game History Foundation Library Opens in Early Access](https://gamehistory.org/vghf-library-launch/)
 * [2025-02-04, 00:42:20](https://news.ycombinator.com/item?id=42925712) - [Order Declassifying JFK and MLK Assassination Records [pdf]](https://www.govinfo.gov/content/pkg/FR-2025-01-31/pdf/2025-02116.pdf)
 * [2025-02-04, 00:00:13](https://news.ycombinator.com/item?id=42925210) - [El Salvador abandons Bitcoin as legal tender after failed experiment](https://ticotimes.net/2025/02/02/el-salvador-abandons-bitcoin-as-legal-tender-after-failed-experiment)
 * [2025-02-03, 23:41:00](https://news.ycombinator.com/item?id=42925001) - [US Bill Proposes Jail Time for People Who Download DeepSeek](https://www.404media.co/senator-hawley-proposes-jail-time-for-people-who-download-deepseek/)
@@ -8,7 +9,6 @@
 * [2025-02-03, 20:56:44](https://news.ycombinator.com/item?id=42922989) - [Open Euro LLM: Open LLMs for Transparent AI in Europe](https://openeurollm.eu/launch-press-release)
 * [2025-02-03, 19:48:51](https://news.ycombinator.com/item?id=42922052) - [The Cantonese Scrolls (粵卷) – A Cantonese Language Learning Mental RPG](https://cantoscrolls.com/)
 * [2025-02-03, 17:59:13](https://news.ycombinator.com/item?id=42920921) - [AMD: Microcode Signature Verification Vulnerability](https://github.com/google/security-research/security/advisories/GHSA-4xq7-4mgh-gp6w)
-* [2025-02-03, 17:34:17](https://news.ycombinator.com/item?id=42920657) - [New Proofs Probe the Limits of Mathematical Truth](https://www.quantamagazine.org/new-proofs-probe-the-limits-of-mathematical-truth-20250203/)
 * [2025-02-03, 17:00:32](https://news.ycombinator.com/item?id=42920292) - [Hightouch (YC S19) Is Hiring a Distributed Systems Engineer](https://news.ycombinator.com/item?id=42920292)
 * [2025-02-03, 17:00:09](https://news.ycombinator.com/item?id=42920285) - [Developer Philosophy](https://qntm.org/devphilo)
 * [2025-02-03, 16:28:45](https://news.ycombinator.com/item?id=42919909) - [Httptap: View HTTP/HTTPS requests made by any Linux program](https://github.com/monasticacademy/httptap)
@@ -23,13 +23,13 @@
 * [2025-02-03, 14:18:18](https://news.ycombinator.com/item?id=42918425) - [New York claims a small victory in 'forever war on rats'](https://www.thetimes.com/us/news-today/article/new-york-finally-claims-a-small-victory-in-forever-war-on-rats-m7x230sg8)
 * [2025-02-03, 12:50:36](https://news.ycombinator.com/item?id=42917680) - [Anything threatening to be a subculture is commodified before it can walk (2014)](https://www.dezeen.com/2014/12/18/william-gibson-subculture-commodification-london-justin-mcguirk-opinion/)
 * [2025-02-03, 10:31:13](https://news.ycombinator.com/item?id=42916849) - [AI systems with 'unacceptable risk' are now banned in the EU](https://techcrunch.com/2025/02/02/ai-systems-with-unacceptable-risk-are-now-banned-in-the-eu/)
+* [2025-02-03, 06:38:50](https://news.ycombinator.com/item?id=42915586) - [Mailspring: Cross-platform, fast, open source mail client](https://github.com/Foundry376/Mailspring)
+* [2025-02-03, 06:31:39](https://news.ycombinator.com/item?id=42915550) - [Integrated magneto-optics with ultra-high endurance for photonic inmem computing](https://www.nature.com/articles/s41566-024-01549-1)
 * [2025-02-03, 06:20:32](https://news.ycombinator.com/item?id=42915494) - [Auto-AVSR: Audio-Visual Speech Recognition with Automatic Labels](https://github.com/mpc001/auto_avsr)
 * [2025-02-02, 19:12:13](https://news.ycombinator.com/item?id=42910910) - [The young, inexperienced engineers aiding DOGE](https://www.wired.com/story/elon-musk-government-young-engineers/)
 * [2025-02-01, 17:06:13](https://news.ycombinator.com/item?id=42899879) - [Macintosh Allegro Common Lisp](https://www.macintoshrepository.org/1799-macintosh-allegro-common-lisp)
-* [2025-01-31, 20:54:31](https://news.ycombinator.com/item?id=42891848) - [Feluda – A CLI tool to detect restrictive licenses in dependencies](https://crates.io/crates/feluda)
 * [2025-01-31, 12:34:41](https://news.ycombinator.com/item?id=42887037) - [Is there a benefit to scratching that itch? Yes and no, says new study](https://newatlas.com/health-wellbeing/scratching-itch-benefit/)
 * [2025-01-31, 12:10:46](https://news.ycombinator.com/item?id=42886860) - [Detroit’s revival takes shape after decades of decay](https://www.theguardian.com/us-news/2025/jan/04/detroit-revitalization)
-* [2025-01-31, 01:34:37](https://news.ycombinator.com/item?id=42883976) - [Spotted hyena found in Egypt in 5k years](https://phys.org/news/2025-01-hyena-egypt-years.html)
 
 ## [Archives](archives/index.md)
 
