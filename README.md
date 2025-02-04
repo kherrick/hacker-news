@@ -18,7 +18,6 @@
 * [2025-02-04, 16:06:32](https://news.ycombinator.com/item?id=42934190) - [Chat is a bad UI pattern for development tools](https://danieldelaney.net/chat/)
 * [2025-02-04, 15:44:21](https://news.ycombinator.com/item?id=42933840) - [America desperately needs more air traffic controllers](https://www.cnn.com/2025/02/04/business/air-traffic-controller-shortage/index.html)
 * [2025-02-04, 15:11:07](https://news.ycombinator.com/item?id=42933283) - [Vanguard's average fee is now 0.07% after biggest-ever cut](https://www.bloomberg.com/news/articles/2025-02-03/vanguard-s-average-fee-is-now-just-0-07-after-biggest-ever-cut)
-* [2025-02-04, 15:05:34](https://news.ycombinator.com/item?id=42933219) - [Payments crisis of 2025: Not “read only” access anymore](https://www.crisesnotes.com/day-five-of-the-trump-musk-treasury-payments-crisis-of-2025-not-read-only-access-anymore/)
 * [2025-02-04, 14:50:00](https://news.ycombinator.com/item?id=42933049) - [Alan Turing's \"Delilah\" project](https://spectrum.ieee.org/alan-turings-delilah)
 * [2025-02-04, 14:43:53](https://news.ycombinator.com/item?id=42932948) - [DeepRAG: Thinking to retrieval step by step for large language models](https://arxiv.org/abs/2502.01142)
 * [2025-02-04, 13:39:12](https://news.ycombinator.com/item?id=42932148) - [Build your own SQLite, Part 4: reading tables metadata](https://blog.sylver.dev/build-your-own-sqlite-part-4-reading-tables-metadata)
@@ -29,6 +28,7 @@
 * [2025-02-02, 15:05:08](https://news.ycombinator.com/item?id=42909068) - [Wolves explain America's urban-rural divide](https://thehustle.co/originals/how-wolves-explain-americas-urban-rural-divide)
 * [2025-02-01, 12:00:39](https://news.ycombinator.com/item?id=42897730) - [Pyramid structure discovered near Caral Peru](https://omniletters.com/hidden-pyramid-structure-discovered-near-caral/)
 * [2025-02-01, 09:33:36](https://news.ycombinator.com/item?id=42897151) - [Push Notifications for Decentralized Services](https://unifiedpush.org/news/20250131_push_for_decentralized/)
+* [2025-02-01, 08:21:45](https://news.ycombinator.com/item?id=42896797) - [Natural fission reactors in the Franceville basin, Gabon](https://www.sciencedirect.com/science/article/abs/pii/S0016703796002451)
 * [2025-01-31, 15:20:31](https://news.ycombinator.com/item?id=42888538) - [Motion sickness accessibility in video games](https://madelinemiller.dev/blog/motion-sickness-accessibility/)
 
 ## [Archives](archives/index.md)
