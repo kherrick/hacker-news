@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-04, 22:33:19](https://news.ycombinator.com/item?id=42939995) - [Doge Sets Sights on Medicaid: New York Times](https://www.beckershospitalreview.com/finance/doge-sets-sights-on-medicaid-new-york-times.html)
 * [2025-02-04, 21:13:30](https://news.ycombinator.com/item?id=42938802) - [Government planned it 7 years,beavers built the dam in 2 days and saved them $1M](https://www.voxnews.al/english/kosovabota/qeveria-po-e-planifikonte-prej-7-vitesh-kastoret-ndertojne-brenda-dy--i84652)
 * [2025-02-04, 21:00:06](https://news.ycombinator.com/item?id=42938592) - [Roame (YC S23) Is Hiring an AI Fullstack Lead](https://www.ycombinator.com/companies/roame/jobs/V1aMBGc-lead-ai-full-stack-engineer)
 * [2025-02-04, 20:58:06](https://news.ycombinator.com/item?id=42938555) - [TrailBase: Sub-millisecond open-source application base with Rust, SQLite and V8](https://trailbase.io/reference/benchmarks/)
@@ -22,7 +23,6 @@
 * [2025-02-04, 14:43:53](https://news.ycombinator.com/item?id=42932948) - [DeepRAG: Thinking to retrieval step by step for large language models](https://arxiv.org/abs/2502.01142)
 * [2025-02-04, 13:39:12](https://news.ycombinator.com/item?id=42932148) - [Build your own SQLite, Part 4: reading tables metadata](https://blog.sylver.dev/build-your-own-sqlite-part-4-reading-tables-metadata)
 * [2025-02-04, 11:39:56](https://news.ycombinator.com/item?id=42931109) - [Radiant Foam: Real-Time Differentiable Ray Tracing](https://radfoam.github.io)
-* [2025-02-04, 10:29:27](https://news.ycombinator.com/item?id=42930639) - [OmniHuman-1: Human Animation Models](https://omnihuman-lab.github.io/)
 * [2025-02-04, 01:46:33](https://news.ycombinator.com/item?id=42926423) - [Dolní Vĕstonice Portrait Head: The oldest known human portrait in the world](https://www.livescience.com/archaeology/dolni-vestonice-portrait-head-the-oldest-known-human-portrait-in-the-world)
 * [2025-02-03, 19:12:30](https://news.ycombinator.com/item?id=42921659) - [What really happens inside a dating app](https://blog.luap.info/what-really-happens-inside-a-dating-app.html)
 * [2025-02-02, 15:05:08](https://news.ycombinator.com/item?id=42909068) - [Wolves explain America's urban-rural divide](https://thehustle.co/originals/how-wolves-explain-americas-urban-rural-divide)
