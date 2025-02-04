@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-04](index.md)
 
+* [2025-02-04, 20:28:16](https://news.ycombinator.com/item?id=42938125) - [Google Drops Pledge Not to Use AI for Weapons or Surveillance](https://www.washingtonpost.com/technology/2025/02/04/google-ai-policies-weapons-harm)
 * [2025-02-04, 19:55:27](https://news.ycombinator.com/item?id=42937701) - [Open Deep Research](https://github.com/huggingface/smolagents/tree/main/examples/open_deep_research)
 * [2025-02-04, 18:57:47](https://news.ycombinator.com/item?id=42936940) - [GitHub Reveals How Software Engineers Are Purging Federal Databases](https://www.404media.co/forbidden-words-github-reveals-how-software-engineers-are-purging-federal-databases/)
 * [2025-02-04, 18:56:08](https://news.ycombinator.com/item?id=42936910) - [How to Scale Your Model: A Systems View of LLMs on TPUs](https://jax-ml.github.io/scaling-book/)
@@ -23,6 +24,7 @@
 * [2025-02-04, 16:26:52](https://news.ycombinator.com/item?id=42934513) - [Introducing Apple Invites, a new app that brings people together](https://www.apple.com/newsroom/2025/02/introducing-apple-invites-a-new-app-that-brings-people-together/)
 * [2025-02-04, 16:22:03](https://news.ycombinator.com/item?id=42934427) - [Jujutsu VCS Introduction and Patterns](https://kubamartin.com/posts/introduction-to-the-jujutsu-vcs/)
 * [2025-02-04, 16:21:58](https://news.ycombinator.com/item?id=42934422) - [Apple Launches Apple Invites](https://apps.apple.com/us/app/apple-invites/id6472498645)
+* [2025-02-04, 16:21:58](https://news.ycombinator.com/item?id=42934422) - [Apple Invites](https://www.apple.com/newsroom/2025/02/introducing-apple-invites-a-new-app-that-brings-people-together/)
 * [2025-02-04, 16:10:02](https://news.ycombinator.com/item?id=42934236) - [Microsoft cracking down people upgrading to Windows 11 on unsupported hardware](https://www.xda-developers.com/microsoft-cracking-down-people-upgrading-windows-11-unsupported-hardware/)
 * [2025-02-04, 16:06:32](https://news.ycombinator.com/item?id=42934190) - [Chat is a bad UI pattern for development tools](https://danieldelaney.net/chat/)
 * [2025-02-04, 16:03:44](https://news.ycombinator.com/item?id=42934140) - [Poland's Justice Minister Arrested for Illegal Use of NSO Group Malware](https://www.techdirt.com/2025/02/03/polands-justice-minister-arrested-for-illegal-use-of-nso-group-malware/)
