@@ -10,6 +10,7 @@
 * [2025-02-04, 18:18:31](https://news.ycombinator.com/item?id=42936421) - [Onlookers freak out as 25-year-old set loose on Treasury computer system](https://www.rawstory.com/musk-treasury-doge/)
 * [2025-02-04, 18:03:11](https://news.ycombinator.com/item?id=42936185) - [DeepSeek not as disruptive as claimed, firm has 50k GPUs and spent $1.6B](https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-might-not-be-as-disruptive-as-claimed-firm-reportedly-has-50-000-nvidia-gpus-and-spent-usd1-6-billion-on-buildouts)
 * [2025-02-04, 17:56:34](https://news.ycombinator.com/item?id=42936086) - [The Slotted Counter Pattern (2020)](https://planetscale.com/blog/the-slotted-counter-pattern)
+* [2025-02-04, 17:56:33](https://news.ycombinator.com/item?id=42936085) - [Show HN: Mandarin Word Segmenter with Translation](https://mandobot.netlify.app/)
 * [2025-02-04, 17:51:55](https://news.ycombinator.com/item?id=42936002) - [TikTok's algorithm exhibited pro-Republican bias during 2024 presidential race](https://www.psypost.org/tiktoks-algorithm-exhibited-pro-republican-bias-during-2024-presidential-race-study-finds/)
 * [2025-02-04, 17:35:27](https://news.ycombinator.com/item?id=42935741) - [How Spotify Killed Lo-Fi Hip Hop](https://gamechops.substack.com/p/how-spotify-killed-lo-fi-hip-hop)
 * [2025-02-04, 17:21:02](https://news.ycombinator.com/item?id=42935516) - [Roc Rewrites the Compiler in Zig](https://gist.github.com/rtfeldman/77fb430ee57b42f5f2ca973a3992532f)
