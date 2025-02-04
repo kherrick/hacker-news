@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-04, 13:21:05](https://news.ycombinator.com/item?id=42931953) - [Codeberg: Free GitHub hosting](https://codeberg.org/)
 * [2025-02-04, 12:33:55](https://news.ycombinator.com/item?id=42931523) - [Windows 11 – There's still nothing worth my time](https://www.dedoimedo.com/computers/windows-11-december-2024-update-results.html)
 * [2025-02-04, 12:01:03](https://news.ycombinator.com/item?id=42931269) - [Nango (Product Integrations Platform) Is Hiring a Senior Full-Stack Engineer](https://www.nango.dev/jobs)
 * [2025-02-04, 11:36:30](https://news.ycombinator.com/item?id=42931088) - [VSCode Marketplace Web Pages No Longer Allow Direct VSIX Downloads](https://github.com/microsoft/vsmarketplace/issues/1135)
@@ -11,6 +10,7 @@
 * [2025-02-04, 09:27:58](https://news.ycombinator.com/item?id=42930185) - [The Final Frontier with Steve Jurvetson](https://cloudvalley.substack.com/p/the-final-frontier-with-steve-jurvetson)
 * [2025-02-04, 06:07:02](https://news.ycombinator.com/item?id=42928645) - [OWASP Non-Human Identities Top 10](https://owasp.org/www-project-non-human-identities-top-10/2025/)
 * [2025-02-04, 05:40:57](https://news.ycombinator.com/item?id=42928482) - [Alibaba/T-HEAD's Xuantie C910](https://chipsandcheese.com/p/alibabat-heads-xuantie-c910)
+* [2025-02-04, 01:46:33](https://news.ycombinator.com/item?id=42926423) - [Dolní Vĕstonice Portrait Head: The oldest known human portrait in the world](https://www.livescience.com/archaeology/dolni-vestonice-portrait-head-the-oldest-known-human-portrait-in-the-world)
 * [2025-02-04, 01:15:28](https://news.ycombinator.com/item?id=42926076) - [The Video Game History Foundation library opens in early access](https://gamehistory.org/vghf-library-launch/)
 * [2025-02-03, 22:48:56](https://news.ycombinator.com/item?id=42924448) - [No-Panic Rust: A Nice Technique for Systems Programming](https://blog.reverberate.org/2025/02/03/no-panic-rust.html)
 * [2025-02-03, 22:01:38](https://news.ycombinator.com/item?id=42923870) - [\"A computer can never be held accountable\"](https://simonwillison.net/2025/Feb/3/a-computer-can-never-be-held-accountable/)
