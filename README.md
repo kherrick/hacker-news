@@ -23,13 +23,13 @@
 * [2025-02-03, 14:18:18](https://news.ycombinator.com/item?id=42918425) - [New York claims a small victory in 'forever war on rats'](https://www.thetimes.com/us/news-today/article/new-york-finally-claims-a-small-victory-in-forever-war-on-rats-m7x230sg8)
 * [2025-02-03, 12:50:36](https://news.ycombinator.com/item?id=42917680) - [Anything threatening to be a subculture is commodified before it can walk (2014)](https://www.dezeen.com/2014/12/18/william-gibson-subculture-commodification-london-justin-mcguirk-opinion/)
 * [2025-02-03, 10:31:13](https://news.ycombinator.com/item?id=42916849) - [AI systems with 'unacceptable risk' are now banned in the EU](https://techcrunch.com/2025/02/02/ai-systems-with-unacceptable-risk-are-now-banned-in-the-eu/)
-* [2025-02-03, 06:38:50](https://news.ycombinator.com/item?id=42915586) - [Mailspring: Cross-platform, fast, open source mail client](https://github.com/Foundry376/Mailspring)
 * [2025-02-03, 06:31:39](https://news.ycombinator.com/item?id=42915550) - [Integrated magneto-optics with ultra-high endurance for photonic inmem computing](https://www.nature.com/articles/s41566-024-01549-1)
 * [2025-02-03, 06:20:32](https://news.ycombinator.com/item?id=42915494) - [Auto-AVSR: Audio-Visual Speech Recognition with Automatic Labels](https://github.com/mpc001/auto_avsr)
 * [2025-02-02, 19:12:13](https://news.ycombinator.com/item?id=42910910) - [The young, inexperienced engineers aiding DOGE](https://www.wired.com/story/elon-musk-government-young-engineers/)
 * [2025-02-01, 17:06:13](https://news.ycombinator.com/item?id=42899879) - [Macintosh Allegro Common Lisp](https://www.macintoshrepository.org/1799-macintosh-allegro-common-lisp)
 * [2025-01-31, 12:34:41](https://news.ycombinator.com/item?id=42887037) - [Is there a benefit to scratching that itch? Yes and no, says new study](https://newatlas.com/health-wellbeing/scratching-itch-benefit/)
 * [2025-01-31, 12:10:46](https://news.ycombinator.com/item?id=42886860) - [Detroit’s revival takes shape after decades of decay](https://www.theguardian.com/us-news/2025/jan/04/detroit-revitalization)
+* [2025-01-31, 01:34:37](https://news.ycombinator.com/item?id=42883976) - [Spotted hyena found in Egypt in 5k years](https://phys.org/news/2025-01-hyena-egypt-years.html)
 
 ## [Archives](archives/index.md)
 
