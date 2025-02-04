@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=42928645"
     ],
     [
-      "OWASP Non-Human Identities Top",
+      "OWASP Non-Human Identities Top 10",
       "https://owasp.org/www-project-non-human-identities-top-10/"
     ]
   ],
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=42928087"
     ],
     [
-      "The Situation: What's Going on at the FBI?",
+      "What's Going on at the FBI?",
       "https://www.lawfaremedia.org/article/the-situation--what-s-going-on-at-the-fbi"
     ]
   ],
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=42927172"
     ],
     [
-      "Escaping Surprise Bills and Over-Engineered Messes: Why I Left AWS",
+      "Escaping surprise bills and over-engineered messes: Why I left AWS",
       "https://travisbumgarner.dev/blog/leaving-aws"
     ]
   ],
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=42926076"
     ],
     [
-      "The Video Game History Foundation Library Opens in Early Access",
+      "The Video Game History Foundation library opens in early access",
       "https://gamehistory.org/vghf-library-launch/"
     ]
   ],
@@ -97,6 +97,16 @@
     [
       "El Salvador abandons Bitcoin as legal tender",
       "https://ticotimes.net/2025/02/02/el-salvador-abandons-bitcoin-as-legal-tender-after-failed-experiment"
+    ]
+  ],
+  [
+    [
+      "2025-02-03, 22:48:56",
+      "https://news.ycombinator.com/item?id=42924448"
+    ],
+    [
+      "No-Panic Rust: A Nice Technique for Systems Programming",
+      "https://blog.reverberate.org/2025/02/03/no-panic-rust.html"
     ]
   ],
   [
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2025-02-03, 16:06:48",
-      "https://news.ycombinator.com/item?id=42919597"
-    ],
-    [
-      "Efficient Reasoning with Hidden Thinking",
-      "https://arxiv.org/abs/2501.19201"
-    ]
-  ],
-  [
-    [
       "2025-02-03, 16:00:43",
       "https://news.ycombinator.com/item?id=42919502"
     ],
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-02-03, 12:50:36",
-      "https://news.ycombinator.com/item?id=42917680"
-    ],
-    [
-      "Anything threatening to be a subculture is commodified before it can walk (2014)",
-      "https://www.dezeen.com/2014/12/18/william-gibson-subculture-commodification-london-justin-mcguirk-opinion/"
-    ]
-  ],
-  [
-    [
       "2025-02-03, 10:31:13",
       "https://news.ycombinator.com/item?id=42916849"
     ],
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2025-02-02, 01:40:09",
+      "https://news.ycombinator.com/item?id=42904723"
+    ],
+    [
+      "Compiling Java into native binaries with Graal and Mill",
+      "https://mill-build.org/blog/7-graal-native-executables.html"
+    ]
+  ],
+  [
+    [
       "2025-02-01, 17:06:13",
       "https://news.ycombinator.com/item?id=42899879"
     ],
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2025-02-01, 10:24:06",
-      "https://news.ycombinator.com/item?id=42897360"
+      "2025-02-01, 15:39:59",
+      "https://news.ycombinator.com/item?id=42899168"
     ],
     [
-      "How to Compile Java into Native Binaries with Mill and Graal",
-      "https://mill-build.org/blog/7-graal-native-executables.html"
+      "Mitochondria as you've never seen them",
+      "https://www.nature.com/immersive/d41586-025-00269-y/"
     ]
   ],
   [
