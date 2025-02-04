@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-04, 22:33:19](https://news.ycombinator.com/item?id=42939995) - [Doge Sets Sights on Medicaid: New York Times](https://www.beckershospitalreview.com/finance/doge-sets-sights-on-medicaid-new-york-times.html)
-* [2025-02-04, 21:13:30](https://news.ycombinator.com/item?id=42938802) - [Government planned it 7 years,beavers built the dam in 2 days and saved them $1M](https://www.voxnews.al/english/kosovabota/qeveria-po-e-planifikonte-prej-7-vitesh-kastoret-ndertojne-brenda-dy--i84652)
+* [2025-02-04, 22:53:05](https://news.ycombinator.com/item?id=42940284) - [Google removes pledge to not use AI for weapons from website](https://techcrunch.com/2025/02/04/google-removes-pledge-to-not-use-ai-for-weapons-from-website/)
+* [2025-02-04, 22:29:48](https://news.ycombinator.com/item?id=42939940) - [Oracle justified its JavaScript trademark with Node.js–now it wants that ignored](https://deno.com/blog/deno-v-oracle2)
+* [2025-02-04, 21:13:30](https://news.ycombinator.com/item?id=42938802) - [Government planned it 7 years, beavers built a dam in 2 days and saved $1M](https://www.voxnews.al/english/kosovabota/qeveria-po-e-planifikonte-prej-7-vitesh-kastoret-ndertojne-brenda-dy--i84652)
 * [2025-02-04, 21:00:06](https://news.ycombinator.com/item?id=42938592) - [Roame (YC S23) Is Hiring an AI Fullstack Lead](https://www.ycombinator.com/companies/roame/jobs/V1aMBGc-lead-ai-full-stack-engineer)
 * [2025-02-04, 20:58:06](https://news.ycombinator.com/item?id=42938555) - [TrailBase: Sub-millisecond open-source application base with Rust, SQLite and V8](https://trailbase.io/reference/benchmarks/)
 * [2025-02-04, 20:49:58](https://news.ycombinator.com/item?id=42938409) - [How I use LLMs as a staff engineer](https://www.seangoedecke.com/how-i-use-llms/)
@@ -25,7 +26,6 @@
 * [2025-02-04, 11:39:56](https://news.ycombinator.com/item?id=42931109) - [Radiant Foam: Real-Time Differentiable Ray Tracing](https://radfoam.github.io)
 * [2025-02-04, 01:46:33](https://news.ycombinator.com/item?id=42926423) - [Dolní Vĕstonice Portrait Head: The oldest known human portrait in the world](https://www.livescience.com/archaeology/dolni-vestonice-portrait-head-the-oldest-known-human-portrait-in-the-world)
 * [2025-02-03, 19:12:30](https://news.ycombinator.com/item?id=42921659) - [What really happens inside a dating app](https://blog.luap.info/what-really-happens-inside-a-dating-app.html)
-* [2025-02-02, 15:05:08](https://news.ycombinator.com/item?id=42909068) - [Wolves explain America's urban-rural divide](https://thehustle.co/originals/how-wolves-explain-americas-urban-rural-divide)
 * [2025-02-01, 12:00:39](https://news.ycombinator.com/item?id=42897730) - [Pyramid structure discovered near Caral Peru](https://omniletters.com/hidden-pyramid-structure-discovered-near-caral/)
 * [2025-02-01, 09:33:36](https://news.ycombinator.com/item?id=42897151) - [Push Notifications for Decentralized Services](https://unifiedpush.org/news/20250131_push_for_decentralized/)
 * [2025-02-01, 08:21:45](https://news.ycombinator.com/item?id=42896797) - [Natural fission reactors in the Franceville basin, Gabon](https://www.sciencedirect.com/science/article/abs/pii/S0016703796002451)
