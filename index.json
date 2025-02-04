@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-04, 04:50:30",
+      "https://news.ycombinator.com/item?id=42928121"
+    ],
+    [
+      "Resistance to Rust abstractions for DMA mapping",
+      "https://lwn.net/SubscriberLink/1006805/f75d238e25728afe/"
+    ]
+  ],
+  [
+    [
       "2025-02-04, 03:19:57",
       "https://news.ycombinator.com/item?id=42927391"
     ],
@@ -177,16 +187,6 @@
     [
       "Show HN: I convert videos to printed flipbooks for living",
       "https://www.videotoflip.com/"
-    ]
-  ],
-  [
-    [
-      "2025-02-03, 15:03:36",
-      "https://news.ycombinator.com/item?id=42918846"
-    ],
-    [
-      "Decorator JITs: Python as a DSL",
-      "https://eli.thegreenplace.net/2025/decorator-jits-python-as-a-dsl/"
     ]
   ],
   [
