@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-04](index.md)
 
+* [2025-02-04, 07:10:30](https://news.ycombinator.com/item?id=42929093) - [El Salvador offers to house violent US criminals and deportees of any nation](https://www.cnn.com/2025/02/03/americas/el-salvador-migrant-deal-marco-rubio-intl-hnk/index.html)
 * [2025-02-04, 06:07:02](https://news.ycombinator.com/item?id=42928645) - [OWASP Non-Human Identities Top](https://owasp.org/www-project-non-human-identities-top-10/)
 * [2025-02-04, 05:40:57](https://news.ycombinator.com/item?id=42928482) - [Alibaba/T-HEAD's Xuantie C910](https://chipsandcheese.com/p/alibabat-heads-xuantie-c910)
 * [2025-02-04, 04:50:30](https://news.ycombinator.com/item?id=42928121) - [Resistance to Rust abstractions for DMA mapping](https://lwn.net/SubscriberLink/1006805/f75d238e25728afe/)
