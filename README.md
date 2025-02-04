@@ -8,7 +8,7 @@
 * [2025-02-04, 17:35:27](https://news.ycombinator.com/item?id=42935741) - [How Spotify Killed Lo-Fi Hip Hop](https://gamechops.substack.com/p/how-spotify-killed-lo-fi-hip-hop)
 * [2025-02-04, 17:21:02](https://news.ycombinator.com/item?id=42935516) - [Roc Rewrites the Compiler in Zig](https://gist.github.com/rtfeldman/77fb430ee57b42f5f2ca973a3992532f)
 * [2025-02-04, 17:10:51](https://news.ycombinator.com/item?id=42935355) - [Launch HN: Pinch (YC W25) – Video conferencing with immersive translation](https://news.ycombinator.com/item?id=42935355)
-* [2025-02-04, 17:06:35](https://news.ycombinator.com/item?id=42935286) - [Orion O6 ITX Arm V9 board – temper your expectations](https://www.jeffgeerling.com/blog/2025/orion-o6-itx-arm-v9-board-temper-your-expectations)
+* [2025-02-04, 17:02:20](https://news.ycombinator.com/item?id=42935218) - [Show HN: Haystack Code Reviewer – Perform code reviews on a canvas](https://haystackeditor.com/code-reviewer)
 * [2025-02-04, 16:22:03](https://news.ycombinator.com/item?id=42934427) - [Jujutsu VCS Introduction and Patterns](https://kubamartin.com/posts/introduction-to-the-jujutsu-vcs/)
 * [2025-02-04, 16:06:32](https://news.ycombinator.com/item?id=42934190) - [Chat is a bad UI pattern for development tools](https://danieldelaney.net/chat/)
 * [2025-02-04, 15:25:27](https://news.ycombinator.com/item?id=42933507) - [100 Or so Books that shaped a Century of Science](https://web.mnstate.edu/schwartz/centurylist2.html)
