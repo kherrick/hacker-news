@@ -5,7 +5,7 @@
 * [2025-02-04, 18:56:08](https://news.ycombinator.com/item?id=42936910) - [How to Scale Your Model: A Systems View of LLMs on TPUs](https://jax-ml.github.io/scaling-book/)
 * [2025-02-04, 18:40:55](https://news.ycombinator.com/item?id=42936723) - [WikiTok](https://wikitok.vercel.app/)
 * [2025-02-04, 17:56:34](https://news.ycombinator.com/item?id=42936086) - [The Slotted Counter Pattern (2020)](https://planetscale.com/blog/the-slotted-counter-pattern)
-* [2025-02-04, 17:21:02](https://news.ycombinator.com/item?id=42935516) - [Roc Rewrites the Compiler in Zig](https://gist.github.com/rtfeldman/77fb430ee57b42f5f2ca973a3992532f)
+* [2025-02-04, 17:21:02](https://news.ycombinator.com/item?id=42935516) - [Roc rewrites the compiler in Zig](https://gist.github.com/rtfeldman/77fb430ee57b42f5f2ca973a3992532f)
 * [2025-02-04, 17:10:51](https://news.ycombinator.com/item?id=42935355) - [Launch HN: Pinch (YC W25) – Video conferencing with immersive translation](https://news.ycombinator.com/item?id=42935355)
 * [2025-02-04, 17:02:20](https://news.ycombinator.com/item?id=42935218) - [Show HN: Haystack Code Reviewer – Perform code reviews on a canvas](https://haystackeditor.com/code-reviewer)
 * [2025-02-04, 16:22:03](https://news.ycombinator.com/item?id=42934427) - [Jujutsu VCS Introduction and Patterns](https://kubamartin.com/posts/introduction-to-the-jujutsu-vcs/)
