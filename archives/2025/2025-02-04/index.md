@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2025-02-04](index.md)
 
 * [2025-02-04, 22:53:05](https://news.ycombinator.com/item?id=42940284) - [Google removes pledge to not use AI for weapons from website](https://techcrunch.com/2025/02/04/google-removes-pledge-to-not-use-ai-for-weapons-from-website/)
+* [2025-02-04, 22:51:36](https://news.ycombinator.com/item?id=42940257) - [What's Happening Inside the NIH and NSF](https://www.science.org/content/blog-post/what-s-happening-inside-nih)
 * [2025-02-04, 22:33:19](https://news.ycombinator.com/item?id=42939995) - [Doge Sets Sights on Medicaid: New York Times](https://www.beckershospitalreview.com/finance/doge-sets-sights-on-medicaid-new-york-times.html)
 * [2025-02-04, 22:29:48](https://news.ycombinator.com/item?id=42939940) - [Oracle justified its JavaScript trademark with Node.js–now it wants that ignored](https://deno.com/blog/deno-v-oracle2)
+* [2025-02-04, 22:02:35](https://news.ycombinator.com/item?id=42939562) - [The APL Challenge](https://challenge.dyalog.com/)
 * [2025-02-04, 21:28:04](https://news.ycombinator.com/item?id=42939022) - [DeepSeek and Double Standards](https://substack.com/@keyvan/note/c-91026164)
 * [2025-02-04, 21:21:54](https://news.ycombinator.com/item?id=42938918) - [Discord has ongoing major outage](https://discordstatus.com)
 * [2025-02-04, 21:13:30](https://news.ycombinator.com/item?id=42938802) - [Government planned it 7 years,beavers built the dam in 2 days and saved them $1M](https://www.voxnews.al/english/kosovabota/qeveria-po-e-planifikonte-prej-7-vitesh-kastoret-ndertojne-brenda-dy--i84652)
