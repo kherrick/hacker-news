@@ -23,11 +23,11 @@
 * [2025-02-03, 06:27:11](https://news.ycombinator.com/item?id=42915527) - [The U.S. needs a shipbuilding revolution](https://www.usni.org/magazines/proceedings/2025/february/nation-needs-shipbuilding-revolution)
 * [2025-02-02, 19:12:13](https://news.ycombinator.com/item?id=42910910) - [The young, inexperienced engineers aiding DOGE](https://www.wired.com/story/elon-musk-government-young-engineers/)
 * [2025-02-02, 01:40:09](https://news.ycombinator.com/item?id=42904723) - [Compiling Java into native binaries with Graal and Mill](https://mill-build.org/blog/7-graal-native-executables.html)
+* [2025-02-01, 20:50:42](https://news.ycombinator.com/item?id=42902133) - [The LA Fires Burned Homes. The Data Show Insurers Saw the Risks](https://www.barrons.com/articles/la-fires-home-insurance-risks-847653a9)
 * [2025-02-01, 17:06:13](https://news.ycombinator.com/item?id=42899879) - [Macintosh Allegro Common Lisp](https://www.macintoshrepository.org/1799-macintosh-allegro-common-lisp)
 * [2025-02-01, 15:39:59](https://news.ycombinator.com/item?id=42899168) - [Mitochondria as you've never seen them](https://www.nature.com/immersive/d41586-025-00269-y/)
 * [2025-01-31, 18:47:13](https://news.ycombinator.com/item?id=42890383) - [ArXiv LaTeX Cleaner: Clean the LaTeX code of your paper to submit to ArXiv](https://github.com/google-research/arxiv-latex-cleaner)
 * [2025-01-31, 17:25:14](https://news.ycombinator.com/item?id=42889570) - [Cosmologists Try a New Way to Measure the Shape of the Universe](https://www.quantamagazine.org/cosmologists-try-a-new-way-to-measure-the-shape-of-the-universe-20250127/)
-* [2025-01-31, 13:55:59](https://news.ycombinator.com/item?id=42887673) - [Beat the Drum](https://www.dannyguo.com/blog/beat-the-drum)
 * [2025-01-31, 12:10:46](https://news.ycombinator.com/item?id=42886860) - [Detroit’s revival takes shape after decades of decay](https://www.theguardian.com/us-news/2025/jan/04/detroit-revitalization)
 * [2025-01-31, 01:34:37](https://news.ycombinator.com/item?id=42883976) - [Spotted hyena found in Egypt for the first time in 5k years](https://phys.org/news/2025-01-hyena-egypt-years.html)
 

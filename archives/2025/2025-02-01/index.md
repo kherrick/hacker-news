@@ -19,6 +19,7 @@
 * [2025-02-01, 21:11:50](https://news.ycombinator.com/item?id=42902385) - [Copyright reform is necessary for national security](https://annas-archive.org/blog/ai-copyright.html)
 * [2025-02-01, 21:09:06](https://news.ycombinator.com/item?id=42902355) - [Phyllis Fong, who was investigating Neuralink, \"forcefully removed \"](https://timesofindia.indiatimes.com/technology/tech-news/phyllis-fong-who-was-investigating-elon-musks-brain-implant-startup-neuralink-forcefully-removed-from-office-after-refusing-termination-order/articleshow/117800543.cms)
 * [2025-02-01, 21:00:34](https://news.ycombinator.com/item?id=42902267) - [MindsDB (YC W20) Is Hiring an Office Manager in SF](https://grnh.se/83c3fffa7us)
+* [2025-02-01, 20:50:42](https://news.ycombinator.com/item?id=42902133) - [The LA Fires Burned Homes. The Data Show Insurers Saw the Risks](https://www.barrons.com/articles/la-fires-home-insurance-risks-847653a9)
 * [2025-02-01, 20:31:46](https://news.ycombinator.com/item?id=42901954) - [Usaid website has been taken down](https://www.usaid.gov/)
 * [2025-02-01, 20:31:46](https://news.ycombinator.com/item?id=42901954) - [USAID website has been taken down](https://www.reuters.com/world/us/website-usaid-appears-be-offline-2025-02-01/)
 * [2025-02-01, 20:24:57](https://news.ycombinator.com/item?id=42901897) - [Oracle Cloud deleting active user accounts without possibility for data recovery](https://mastodon.de/@ErikUden/113930010311998246)
