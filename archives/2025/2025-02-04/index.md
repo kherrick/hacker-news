@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-04](index.md)
 
+* [2025-02-04, 16:26:52](https://news.ycombinator.com/item?id=42934513) - [Introducing Apple Invites, a new app that brings people together](https://www.apple.com/newsroom/2025/02/introducing-apple-invites-a-new-app-that-brings-people-together/)
+* [2025-02-04, 16:21:58](https://news.ycombinator.com/item?id=42934422) - [Apple Launches Apple Invites](https://apps.apple.com/us/app/apple-invites/id6472498645)
 * [2025-02-04, 16:10:02](https://news.ycombinator.com/item?id=42934236) - [Microsoft cracking down people upgrading to Windows 11 on unsupported hardware](https://www.xda-developers.com/microsoft-cracking-down-people-upgrading-windows-11-unsupported-hardware/)
 * [2025-02-04, 16:06:32](https://news.ycombinator.com/item?id=42934190) - [Chat is a bad UI pattern for development tools](https://danieldelaney.net/chat/)
 * [2025-02-04, 16:03:44](https://news.ycombinator.com/item?id=42934140) - [Poland's Justice Minister Arrested for Illegal Use of NSO Group Malware](https://www.techdirt.com/2025/02/03/polands-justice-minister-arrested-for-illegal-use-of-nso-group-malware/)
@@ -32,6 +34,7 @@
 * [2025-02-04, 11:19:03](https://news.ycombinator.com/item?id=42930974) - [Popular Linux orgs Freedesktop and Alpine Linux are scrambling for new webhost](https://arstechnica.com/gadgets/2025/02/popular-linux-orgs-freedesktop-and-alpine-linux-are-scrambling-for-new-web-hosting/)
 * [2025-02-04, 11:05:18](https://news.ycombinator.com/item?id=42930890) - [Nvidia open-source nanite: continuous level of detail (LOD) mesh library](https://github.com/nvpro-samples/nv_cluster_lod_builder)
 * [2025-02-04, 10:50:01](https://news.ycombinator.com/item?id=42930786) - [Backblaze seemingly does not support files greater than 1 TB](https://wadetregaskis.com/backblaze-seemingly-does-not-support-files-greater-than-1-tb/)
+* [2025-02-04, 10:29:27](https://news.ycombinator.com/item?id=42930639) - [OmniHuman-1: Human Animation Models](https://omnihuman-lab.github.io/)
 * [2025-02-04, 09:27:58](https://news.ycombinator.com/item?id=42930185) - [The Final Frontier with Steve Jurvetson](https://cloudvalley.substack.com/p/the-final-frontier-with-steve-jurvetson)
 * [2025-02-04, 08:34:23](https://news.ycombinator.com/item?id=42929754) - [Platform for supporting local sellers and buyers](https://blunum.com/)
 * [2025-02-04, 07:10:30](https://news.ycombinator.com/item?id=42929093) - [El Salvador offers to house violent US criminals and deportees of any nation](https://www.cnn.com/2025/02/03/americas/el-salvador-migrant-deal-marco-rubio-intl-hnk/index.html)
