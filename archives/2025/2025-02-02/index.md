@@ -46,6 +46,7 @@
 * [2025-02-02, 07:14:43](https://news.ycombinator.com/item?id=42906756) - [Show HN: I built a full mulimodal LLM by merging multiple models into one](https://github.com/JigsawStack/omiai)
 * [2025-02-02, 05:52:15](https://news.ycombinator.com/item?id=42906311) - [800x Speed Boost on Nvidia GPUs](https://www.scmp.com/news/china/science/article/3296135/chinese-algorithm-boosts-nvidia-gpu-performance-800-fold-science-computing)
 * [2025-02-02, 04:52:28](https://news.ycombinator.com/item?id=42905937) - [CDC orders mass retraction of research across all science and medicine journals](https://insidemedicine.substack.com/p/breaking-news-cdc-orders-mass-retraction)
+* [2025-02-02, 04:29:06](https://news.ycombinator.com/item?id=42905821) - [Splitting from Handmade Network](https://handmadecities.com/news/splitting-from-handmade-network/)
 * [2025-02-02, 04:09:45](https://news.ycombinator.com/item?id=42905737) - [I'm Ready for You: On Balzac](https://www.lrb.co.uk/the-paper/v47/n01/raymond-n.-mackenzie/i-m-ready-for-you)
 * [2025-02-02, 03:21:07](https://news.ycombinator.com/item?id=42905453) - [Chatbot Software Begins to Face Fundamental Limitations](https://www.quantamagazine.org/chatbot-software-begins-to-face-fundamental-limitations-20250131/)
 * [2025-02-02, 03:13:30](https://news.ycombinator.com/item?id=42905406) - [DeepSeek R1's recipe to replicate o1 and the future of reasoning LMs](https://www.interconnects.ai/p/deepseek-r1-recipe-for-o1)
