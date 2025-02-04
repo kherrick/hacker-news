@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-04, 21:00:06",
+      "https://news.ycombinator.com/item?id=42938592"
+    ],
+    [
+      "Roame (YC S23) Is Hiring an AI Fullstack Lead",
+      "https://www.ycombinator.com/companies/roame/jobs/V1aMBGc-lead-ai-full-stack-engineer"
+    ]
+  ],
+  [
+    [
+      "2025-02-04, 20:46:39",
+      "https://news.ycombinator.com/item?id=42938359"
+    ],
+    [
+      "MathScroll – Infinitely Scroll Mathematics",
+      "https://projects.ollybritton.com/mathscroll/"
+    ]
+  ],
+  [
+    [
       "2025-02-04, 20:28:16",
       "https://news.ycombinator.com/item?id=42938125"
     ],
@@ -17,16 +37,6 @@
     [
       "Open Deep Research",
       "https://github.com/huggingface/smolagents/tree/main/examples/open_deep_research"
-    ]
-  ],
-  [
-    [
-      "2025-02-04, 18:57:47",
-      "https://news.ycombinator.com/item?id=42936940"
-    ],
-    [
-      "GitHub reveals how software engineers are purging federal databases",
-      "https://www.404media.co/forbidden-words-github-reveals-how-software-engineers-are-purging-federal-databases/"
     ]
   ],
   [
@@ -131,6 +141,16 @@
   ],
   [
     [
+      "2025-02-04, 15:44:21",
+      "https://news.ycombinator.com/item?id=42933840"
+    ],
+    [
+      "America desperately needs more air traffic controllers",
+      "https://www.cnn.com/2025/02/04/business/air-traffic-controller-shortage/index.html"
+    ]
+  ],
+  [
+    [
       "2025-02-04, 15:25:27",
       "https://news.ycombinator.com/item?id=42933507"
     ],
@@ -141,12 +161,12 @@
   ],
   [
     [
-      "2025-02-04, 15:17:48",
-      "https://news.ycombinator.com/item?id=42933383"
+      "2025-02-04, 15:11:07",
+      "https://news.ycombinator.com/item?id=42933283"
     ],
     [
-      "Build a link blog like Simon Willison",
-      "https://xuanwo.io/links/2025/01/link-blog/"
+      "Vanguard's average fee is now 0.07% after biggest-ever cut",
+      "https://www.bloomberg.com/news/articles/2025-02-03/vanguard-s-average-fee-is-now-just-0-07-after-biggest-ever-cut"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-02-04, 14:29:30",
-      "https://news.ycombinator.com/item?id=42932760"
-    ],
-    [
-      "Words flagged in search of current NSF awards",
-      "https://mastodon.social/@Lazarou/113943275616933776"
-    ]
-  ],
-  [
-    [
       "2025-02-04, 13:39:12",
       "https://news.ycombinator.com/item?id=42932148"
     ],
@@ -221,22 +231,22 @@
   ],
   [
     [
-      "2025-02-04, 12:01:03",
-      "https://news.ycombinator.com/item?id=42931269"
-    ],
-    [
-      "Nango (Product Integrations Platform) Is Hiring a Senior Full-Stack Engineer",
-      "https://www.nango.dev/jobs"
-    ]
-  ],
-  [
-    [
       "2025-02-04, 11:39:56",
       "https://news.ycombinator.com/item?id=42931109"
     ],
     [
       "Radiant Foam: Real-Time Differentiable Ray Tracing",
       "https://radfoam.github.io"
+    ]
+  ],
+  [
+    [
+      "2025-02-04, 11:32:25",
+      "https://news.ycombinator.com/item?id=42931052"
+    ],
+    [
+      "Microsoft Is Dead (2007)",
+      "https://www.paulgraham.com/microsoft.html"
     ]
   ],
   [
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2025-02-04, 01:15:28",
-      "https://news.ycombinator.com/item?id=42926076"
-    ],
-    [
-      "The Video Game History Foundation library opens in early access",
-      "https://gamehistory.org/vghf-library-launch/"
-    ]
-  ],
-  [
-    [
       "2025-02-01, 12:00:39",
       "https://news.ycombinator.com/item?id=42897730"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-01-31, 19:06:30",
-      "https://news.ycombinator.com/item?id=42890606"
+      "2025-01-31, 15:20:31",
+      "https://news.ycombinator.com/item?id=42888538"
     ],
     [
-      "List Any Linux Tracepoint with Their Arguments, Datatypes and Related Structs",
-      "https://tanelpoder.com/posts/tpargs-list-tracepoint-arguments-and-structures/"
+      "Motion sickness accessibility in video games",
+      "https://madelinemiller.dev/blog/motion-sickness-accessibility/"
     ]
   ]
 ]
