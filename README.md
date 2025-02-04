@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-04, 12:33:55](https://news.ycombinator.com/item?id=42931523) - [Windows 11 – There's still nothing worth my time](https://www.dedoimedo.com/computers/windows-11-december-2024-update-results.html)
 * [2025-02-04, 12:01:03](https://news.ycombinator.com/item?id=42931269) - [Nango (Product Integrations Platform) Is Hiring a Senior Full-Stack Engineer](https://www.nango.dev/jobs)
 * [2025-02-04, 11:36:30](https://news.ycombinator.com/item?id=42931088) - [VSCode Marketplace Web Pages No Longer Allow Direct VSIX Downloads](https://github.com/microsoft/vsmarketplace/issues/1135)
 * [2025-02-04, 11:32:25](https://news.ycombinator.com/item?id=42931052) - [Microsoft Is Dead (2007)](https://www.paulgraham.com/microsoft.html)
@@ -14,7 +15,6 @@
 * [2025-02-03, 22:01:38](https://news.ycombinator.com/item?id=42923870) - [\"A computer can never be held accountable\"](https://simonwillison.net/2025/Feb/3/a-computer-can-never-be-held-accountable/)
 * [2025-02-03, 20:56:44](https://news.ycombinator.com/item?id=42922989) - [Open Euro LLM: Open LLMs for Transparent AI in Europe](https://openeurollm.eu/launch-press-release)
 * [2025-02-03, 17:59:13](https://news.ycombinator.com/item?id=42920921) - [AMD: Microcode Signature Verification Vulnerability](https://github.com/google/security-research/security/advisories/GHSA-4xq7-4mgh-gp6w)
-* [2025-02-03, 16:46:52](https://news.ycombinator.com/item?id=42920119) - [Constitutional Classifiers: Defending against universal jailbreaks](https://www.anthropic.com/research/constitutional-classifiers)
 * [2025-02-03, 16:28:45](https://news.ycombinator.com/item?id=42919909) - [Httptap: View HTTP/HTTPS requests made by any Linux program](https://github.com/monasticacademy/httptap)
 * [2025-02-03, 16:00:43](https://news.ycombinator.com/item?id=42919502) - [Ask HN: Who is hiring? (February 2025)](https://news.ycombinator.com/item?id=42919502)
 * [2025-02-03, 16:00:42](https://news.ycombinator.com/item?id=42919500) - [Ask HN: Who wants to be hired? (February 2025)](https://news.ycombinator.com/item?id=42919500)
@@ -28,8 +28,8 @@
 * [2025-02-01, 15:54:19](https://news.ycombinator.com/item?id=42899304) - [AMD adds RF-sampling data converters to Versal adaptive SoCs](https://www.electronicsweekly.com/news/business/amd-adds-rf-sampling-data-converters-to-versal-adaptive-socs-2024-12/)
 * [2025-02-01, 15:39:59](https://news.ycombinator.com/item?id=42899168) - [Mitochondria as you've never seen them](https://www.nature.com/immersive/d41586-025-00269-y/)
 * [2025-01-31, 20:44:28](https://news.ycombinator.com/item?id=42891754) - [The Forbidden Garden of Leningrad: Science and Sacrifice in a City Under Siege](https://www.lrb.co.uk/the-paper/v47/n02/jessie-childs/resident-bean-expert)
+* [2025-01-31, 19:32:02](https://news.ycombinator.com/item?id=42890915) - [Apple Scraps Work on Mac-Connected Augmented Reality Glasses](https://www.bloomberg.com/news/articles/2025-01-31/apple-scraps-work-on-mac-connected-augmented-reality-glasses)
 * [2025-01-31, 18:47:13](https://news.ycombinator.com/item?id=42890383) - [ArXiv LaTeX Cleaner: Clean the LaTeX code of your paper to submit to ArXiv](https://github.com/google-research/arxiv-latex-cleaner)
-* [2025-01-31, 01:34:37](https://news.ycombinator.com/item?id=42883976) - [Spotted hyena found in Egypt for the first time in 5k years](https://phys.org/news/2025-01-hyena-egypt-years.html)
 
 ## [Archives](archives/index.md)
 

@@ -32,6 +32,7 @@
 * [2025-01-31, 19:51:29](https://news.ycombinator.com/item?id=42891148) - [Instagram and Facebook Blocked and Hid Abortion Pill Providers' Posts](https://www.nytimes.com/2025/01/23/technology/instagram-facebook-abortion-pill-providers.html)
 * [2025-01-31, 19:41:49](https://news.ycombinator.com/item?id=42891042) - [Bypass DeepSeek censorship by speaking in hex](https://substack.com/home/post/p-156004330)
 * [2025-01-31, 19:35:01](https://news.ycombinator.com/item?id=42890960) - [Meta in talks to reincorporate in Texas or another state, WSJ reports](https://www.reuters.com/technology/meta-talks-reincorporate-texas-or-another-state-exit-delaware-wsj-reports-2025-01-31/)
+* [2025-01-31, 19:32:02](https://news.ycombinator.com/item?id=42890915) - [Apple Scraps Work on Mac-Connected Augmented Reality Glasses](https://www.bloomberg.com/news/articles/2025-01-31/apple-scraps-work-on-mac-connected-augmented-reality-glasses)
 * [2025-01-31, 19:08:15](https://news.ycombinator.com/item?id=42890627) - [OpenAI O3-Mini](https://openai.com/index/openai-o3-mini/)
 * [2025-01-31, 19:07:38](https://news.ycombinator.com/item?id=42890616) - [OpenAI launches o3-mini, its latest 'reasoning' model](https://techcrunch.com/2025/01/31/openai-launches-o3-mini-its-latest-reasoning-model/)
 * [2025-01-31, 18:47:51](https://news.ycombinator.com/item?id=42890389) - [The Tensor Cookbook](https://tensorcookbook.com/)
