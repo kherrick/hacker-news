@@ -29,6 +29,7 @@
 * [2025-02-02, 16:47:35](https://news.ycombinator.com/item?id=42909776) - [US Government Websites Are Disappearing in Real Time](https://www.wired.com/story/us-government-websites-are-disappearing-in-real-time/)
 * [2025-02-02, 16:14:49](https://news.ycombinator.com/item?id=42909530) - [Sniffnet – monitor your Internet traffic](https://github.com/GyulyVGC/sniffnet)
 * [2025-02-02, 15:19:32](https://news.ycombinator.com/item?id=42909166) - [Ask HN: What is interviewing like now with everyone using AI?](https://news.ycombinator.com/item?id=42909166)
+* [2025-02-02, 15:05:08](https://news.ycombinator.com/item?id=42909068) - [Wolves explain America's urban-rural divide](https://thehustle.co/originals/how-wolves-explain-americas-urban-rural-divide)
 * [2025-02-02, 14:36:18](https://news.ycombinator.com/item?id=42908879) - [The Door Problem (2014)](https://lizengland.com/blog/2014/04/the-door-problem/)
 * [2025-02-02, 14:01:02](https://news.ycombinator.com/item?id=42908676) - [What Is the Byzantine Generals Problem in Distributed Systems?](https://newsletter.scalablethread.com/p/what-is-the-byzantine-generals-problem)
 * [2025-02-02, 13:47:23](https://news.ycombinator.com/item?id=42908606) - [Whats your max wpm in typing?](https://news.ycombinator.com/item?id=42908606)
