@@ -1,26 +1,6 @@
 [
   [
     [
-      "2025-02-04, 21:28:04",
-      "https://news.ycombinator.com/item?id=42939022"
-    ],
-    [
-      "DeepSeek and Double Standards",
-      "https://substack.com/@keyvan/note/c-91026164"
-    ]
-  ],
-  [
-    [
-      "2025-02-04, 21:21:54",
-      "https://news.ycombinator.com/item?id=42938918"
-    ],
-    [
-      "Discord has ongoing major outage",
-      "https://discordstatus.com"
-    ]
-  ],
-  [
-    [
       "2025-02-04, 21:13:30",
       "https://news.ycombinator.com/item?id=42938802"
     ],
@@ -77,6 +57,16 @@
     [
       "Open Deep Research",
       "https://github.com/huggingface/smolagents/tree/main/examples/open_deep_research"
+    ]
+  ],
+  [
+    [
+      "2025-02-04, 18:57:47",
+      "https://news.ycombinator.com/item?id=42936940"
+    ],
+    [
+      "GitHub reveals how software engineers are purging federal databases",
+      "https://www.404media.co/forbidden-words-github-reveals-how-software-engineers-are-purging-federal-databases/"
     ]
   ],
   [
@@ -181,16 +171,6 @@
   ],
   [
     [
-      "2025-02-04, 15:25:27",
-      "https://news.ycombinator.com/item?id=42933507"
-    ],
-    [
-      "100 Or so Books that shaped a Century of Science",
-      "https://web.mnstate.edu/schwartz/centurylist2.html"
-    ]
-  ],
-  [
-    [
       "2025-02-04, 15:11:07",
       "https://news.ycombinator.com/item?id=42933283"
     ],
@@ -225,7 +205,7 @@
       "https://news.ycombinator.com/item?id=42932948"
     ],
     [
-      "DeepRAG: Thinking to Retrieval Step by Step for Large Language Models",
+      "DeepRAG: Thinking to retrieval step by step for large language models",
       "https://arxiv.org/abs/2502.01142"
     ]
   ],
@@ -251,12 +231,32 @@
   ],
   [
     [
+      "2025-02-04, 10:29:27",
+      "https://news.ycombinator.com/item?id=42930639"
+    ],
+    [
+      "OmniHuman-1: Human Animation Models",
+      "https://omnihuman-lab.github.io/"
+    ]
+  ],
+  [
+    [
       "2025-02-04, 01:46:33",
       "https://news.ycombinator.com/item?id=42926423"
     ],
     [
       "Dolní Vĕstonice Portrait Head: The oldest known human portrait in the world",
       "https://www.livescience.com/archaeology/dolni-vestonice-portrait-head-the-oldest-known-human-portrait-in-the-world"
+    ]
+  ],
+  [
+    [
+      "2025-02-03, 19:12:30",
+      "https://news.ycombinator.com/item?id=42921659"
+    ],
+    [
+      "What really happens inside a dating app",
+      "https://blog.luap.info/what-really-happens-inside-a-dating-app.html"
     ]
   ],
   [
