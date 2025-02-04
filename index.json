@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-04, 06:07:02",
+      "https://news.ycombinator.com/item?id=42928645"
+    ],
+    [
+      "OWASP Non-Human Identities Top",
+      "https://owasp.org/www-project-non-human-identities-top-10/"
+    ]
+  ],
+  [
+    [
       "2025-02-04, 05:40:57",
       "https://news.ycombinator.com/item?id=42928482"
     ],
@@ -17,6 +27,16 @@
     [
       "Resistance to Rust abstractions for DMA mapping",
       "https://lwn.net/SubscriberLink/1006805/f75d238e25728afe/"
+    ]
+  ],
+  [
+    [
+      "2025-02-04, 04:46:20",
+      "https://news.ycombinator.com/item?id=42928087"
+    ],
+    [
+      "The Situation: What's Going on at the FBI?",
+      "https://www.lawfaremedia.org/article/the-situation--what-s-going-on-at-the-fbi"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-02-03, 17:00:32",
-      "https://news.ycombinator.com/item?id=42920292"
-    ],
-    [
-      "Hightouch (YC S19) Is Hiring a Distributed Systems Engineer",
-      "https://news.ycombinator.com/item?id=42920292"
-    ]
-  ],
-  [
-    [
       "2025-02-03, 17:00:09",
       "https://news.ycombinator.com/item?id=42920285"
     ],
@@ -137,16 +147,6 @@
     [
       "Httptap: View HTTP/HTTPS requests made by any Linux program",
       "https://github.com/monasticacademy/httptap"
-    ]
-  ],
-  [
-    [
-      "2025-02-03, 16:22:17",
-      "https://news.ycombinator.com/item?id=42919821"
-    ],
-    [
-      "First place in Tetris 99 using computer vision, classical AI, a lot of free time",
-      "https://bpinzone.github.io/TetrisAI/"
     ]
   ],
   [
