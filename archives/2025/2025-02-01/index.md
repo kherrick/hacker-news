@@ -48,6 +48,7 @@
 * [2025-02-01, 16:06:33](https://news.ycombinator.com/item?id=42899400) - [Have Gemini stage and write commit messages for you](https://github.com/suwi-lanji/auto-commit)
 * [2025-02-01, 15:49:25](https://news.ycombinator.com/item?id=42899261) - [Over 90% of U.S. airport towers are understaffed, data shows](https://www.cbsnews.com/news/over-90-percent-u-s-airport-towers-understaffed-air-traffic-controllers-data-shows/)
 * [2025-02-01, 15:41:08](https://news.ycombinator.com/item?id=42899184) - [Large Language Models for Mathematicians](https://arxiv.org/abs/2312.04556)
+* [2025-02-01, 15:39:59](https://news.ycombinator.com/item?id=42899168) - [Mitochondria as you've never seen them](https://www.nature.com/immersive/d41586-025-00269-y/)
 * [2025-02-01, 15:12:22](https://news.ycombinator.com/item?id=42898914) - [Gradual Disempowerment: How Even Incremental AI Progress Poses Existential Risks](https://arxiv.org/abs/2501.16946)
 * [2025-02-01, 14:57:30](https://news.ycombinator.com/item?id=42898771) - [Datasets from Data.gov Have Disappeared](https://mashable.com/article/government-datasets-disappear-since-trump-inauguration)
 * [2025-02-01, 13:59:35](https://news.ycombinator.com/item?id=42898323) - [The Zizians](https://zizians.info/)
