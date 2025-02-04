@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-02-04, 13:44:23",
-      "https://news.ycombinator.com/item?id=42932218"
-    ],
-    [
-      "Please help me find better blogs to read",
-      "https://news.ycombinator.com/item?id=42932218"
-    ]
-  ],
-  [
-    [
       "2025-02-04, 13:37:57",
       "https://news.ycombinator.com/item?id=42932137"
     ],
@@ -21,22 +11,12 @@
   ],
   [
     [
-      "2025-02-04, 13:31:05",
-      "https://news.ycombinator.com/item?id=42932056"
+      "2025-02-04, 13:05:11",
+      "https://news.ycombinator.com/item?id=42931803"
     ],
     [
-      "Why employees smuggle AI into work",
-      "https://www.bbc.com/news/articles/cn7rx05xg2go"
-    ]
-  ],
-  [
-    [
-      "2025-02-04, 12:33:55",
-      "https://news.ycombinator.com/item?id=42931523"
-    ],
-    [
-      "Windows 11 – There's still nothing worth my time",
-      "https://www.dedoimedo.com/computers/windows-11-december-2024-update-results.html"
+      "'No medical evidence' to support Lucy Letby's conviction, expert panel finds",
+      "https://www.theguardian.com/uk-news/2025/feb/04/no-medical-evidence-to-support-lucy-letby-conviction-expert-panel-finds"
     ]
   ],
   [
@@ -47,6 +27,16 @@
     [
       "Nango (Product Integrations Platform) Is Hiring a Senior Full-Stack Engineer",
       "https://www.nango.dev/jobs"
+    ]
+  ],
+  [
+    [
+      "2025-02-04, 11:39:56",
+      "https://news.ycombinator.com/item?id=42931109"
+    ],
+    [
+      "Radiant Foam: Real-Time Differentiable Ray Tracing",
+      "https://radfoam.github.io"
     ]
   ],
   [
@@ -101,26 +91,6 @@
   ],
   [
     [
-      "2025-02-04, 06:07:02",
-      "https://news.ycombinator.com/item?id=42928645"
-    ],
-    [
-      "OWASP Non-Human Identities Top 10",
-      "https://owasp.org/www-project-non-human-identities-top-10/2025/"
-    ]
-  ],
-  [
-    [
-      "2025-02-04, 05:40:57",
-      "https://news.ycombinator.com/item?id=42928482"
-    ],
-    [
-      "Alibaba/T-HEAD's Xuantie C910",
-      "https://chipsandcheese.com/p/alibabat-heads-xuantie-c910"
-    ]
-  ],
-  [
-    [
       "2025-02-04, 01:46:33",
       "https://news.ycombinator.com/item?id=42926423"
     ],
@@ -141,6 +111,16 @@
   ],
   [
     [
+      "2025-02-03, 22:48:56",
+      "https://news.ycombinator.com/item?id=42924448"
+    ],
+    [
+      "No-Panic Rust: A Nice Technique for Systems Programming",
+      "https://blog.reverberate.org/2025/02/03/no-panic-rust.html"
+    ]
+  ],
+  [
+    [
       "2025-02-03, 22:01:38",
       "https://news.ycombinator.com/item?id=42923870"
     ],
@@ -157,6 +137,16 @@
     [
       "AMD: Microcode Signature Verification Vulnerability",
       "https://github.com/google/security-research/security/advisories/GHSA-4xq7-4mgh-gp6w"
+    ]
+  ],
+  [
+    [
+      "2025-02-03, 16:46:52",
+      "https://news.ycombinator.com/item?id=42920119"
+    ],
+    [
+      "Constitutional Classifiers: Defending against universal jailbreaks",
+      "https://www.anthropic.com/research/constitutional-classifiers"
     ]
   ],
   [
@@ -201,6 +191,16 @@
   ],
   [
     [
+      "2025-02-03, 14:42:51",
+      "https://news.ycombinator.com/item?id=42918644"
+    ],
+    [
+      "He went to jail for stealing someone's identity, but it was his all along",
+      "https://www.nytimes.com/2025/02/03/us/iowa-identity-theft-sentencing.html"
+    ]
+  ],
+  [
+    [
       "2025-02-03, 14:30:11",
       "https://news.ycombinator.com/item?id=42918524"
     ],
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2025-02-01, 17:31:48",
-      "https://news.ycombinator.com/item?id=42900137"
+      "2025-02-01, 17:06:13",
+      "https://news.ycombinator.com/item?id=42899879"
     ],
     [
-      "I Use Cline for AI Engineering",
-      "https://addyo.substack.com/p/why-i-use-cline-for-ai-engineering"
+      "Macintosh Allegro Common Lisp",
+      "https://www.macintoshrepository.org/1799-macintosh-allegro-common-lisp"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2025-01-31, 19:32:02",
-      "https://news.ycombinator.com/item?id=42890915"
-    ],
-    [
-      "Apple Scraps Work on Mac-Connected Augmented Reality Glasses",
-      "https://www.bloomberg.com/news/articles/2025-01-31/apple-scraps-work-on-mac-connected-augmented-reality-glasses"
-    ]
-  ],
-  [
-    [
       "2025-01-31, 15:20:31",
       "https://news.ycombinator.com/item?id=42888538"
     ],
     [
       "Motion Sickness Accessibility in Video Games",
       "https://madelinemiller.dev/blog/motion-sickness-accessibility/"
+    ]
+  ],
+  [
+    [
+      "2025-01-31, 01:34:37",
+      "https://news.ycombinator.com/item?id=42883976"
+    ],
+    [
+      "Spotted hyena found in Egypt for the first time in 5k years",
+      "https://phys.org/news/2025-01-hyena-egypt-years.html"
     ]
   ]
 ]
