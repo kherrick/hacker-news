@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-02-04, 15:05:34",
-      "https://news.ycombinator.com/item?id=42933219"
+      "2025-02-04, 15:17:48",
+      "https://news.ycombinator.com/item?id=42933383"
     ],
     [
-      "Payments Crisis of 2025: Doge Has \"Read-Write\" Access to Fedaral Payment System",
-      "https://www.crisesnotes.com/day-five-of-the-trump-musk-treasury-payments-crisis-of-2025-not-read-only-access-anymore/"
+      "Build a link blog like Simon Willison",
+      "https://xuanwo.io/links/2025/01/link-blog/"
+    ]
+  ],
+  [
+    [
+      "2025-02-04, 15:11:07",
+      "https://news.ycombinator.com/item?id=42933283"
+    ],
+    [
+      "Vanguard's Average Fee Is Now Just 0.07% After Biggest-Ever Cut",
+      "https://www.bloomberg.com/news/articles/2025-02-03/vanguard-s-average-fee-is-now-just-0-07-after-biggest-ever-cut"
     ]
   ],
   [
@@ -17,6 +27,16 @@
     [
       "The Lost Story of Alan Turing's \"Delilah\" Project",
       "https://spectrum.ieee.org/alan-turings-delilah"
+    ]
+  ],
+  [
+    [
+      "2025-02-04, 14:48:52",
+      "https://news.ycombinator.com/item?id=42933031"
+    ],
+    [
+      "Programmers are modern-day computers",
+      "https://jtlicardo.com/writing/modern-day-computers/"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "AMD: Microcode Signature Verification Vulnerability",
       "https://github.com/google/security-research/security/advisories/GHSA-4xq7-4mgh-gp6w"
-    ]
-  ],
-  [
-    [
-      "2025-02-03, 16:46:52",
-      "https://news.ycombinator.com/item?id=42920119"
-    ],
-    [
-      "Constitutional Classifiers: Defending against universal jailbreaks",
-      "https://www.anthropic.com/research/constitutional-classifiers"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "The Forbidden Garden of Leningrad: Science and Sacrifice in a City Under Siege",
       "https://www.lrb.co.uk/the-paper/v47/n02/jessie-childs/resident-bean-expert"
-    ]
-  ],
-  [
-    [
-      "2025-01-31, 18:47:13",
-      "https://news.ycombinator.com/item?id=42890383"
-    ],
-    [
-      "ArXiv LaTeX Cleaner: Clean the LaTeX code of your paper to submit to ArXiv",
-      "https://github.com/google-research/arxiv-latex-cleaner"
     ]
   ],
   [
