@@ -35,6 +35,7 @@
 * [2025-01-31, 19:32:02](https://news.ycombinator.com/item?id=42890915) - [Apple Scraps Work on Mac-Connected Augmented Reality Glasses](https://www.bloomberg.com/news/articles/2025-01-31/apple-scraps-work-on-mac-connected-augmented-reality-glasses)
 * [2025-01-31, 19:08:15](https://news.ycombinator.com/item?id=42890627) - [OpenAI O3-Mini](https://openai.com/index/openai-o3-mini/)
 * [2025-01-31, 19:07:38](https://news.ycombinator.com/item?id=42890616) - [OpenAI launches o3-mini, its latest 'reasoning' model](https://techcrunch.com/2025/01/31/openai-launches-o3-mini-its-latest-reasoning-model/)
+* [2025-01-31, 19:06:30](https://news.ycombinator.com/item?id=42890606) - [List Any Linux Tracepoint with Their Arguments, Datatypes and Related Structs](https://tanelpoder.com/posts/tpargs-list-tracepoint-arguments-and-structures/)
 * [2025-01-31, 18:47:51](https://news.ycombinator.com/item?id=42890389) - [The Tensor Cookbook](https://tensorcookbook.com/)
 * [2025-01-31, 18:47:13](https://news.ycombinator.com/item?id=42890383) - [ArXiv LaTeX Cleaner: Clean the LaTeX code of your paper to submit to ArXiv](https://github.com/google-research/arxiv-latex-cleaner)
 * [2025-01-31, 18:36:54](https://news.ycombinator.com/item?id=42890292) - [TCAS Avoided Collision with Army Helicopter over Potomac River [video]](https://www.youtube.com/watch?v=huVFZ__q2rI)

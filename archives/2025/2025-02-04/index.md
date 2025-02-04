@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-02-04](index.md)
 
+* [2025-02-04, 17:10:51](https://news.ycombinator.com/item?id=42935355) - [Launch HN: Pinch (YC W25) – Video conferencing with immersive translation](https://news.ycombinator.com/item?id=42935355)
+* [2025-02-04, 16:39:57](https://news.ycombinator.com/item?id=42934728) - [How does fentanyl get into the US?](https://www.bbc.com/news/articles/cvg93nn1e6go)
 * [2025-02-04, 16:26:52](https://news.ycombinator.com/item?id=42934513) - [Introducing Apple Invites, a new app that brings people together](https://www.apple.com/newsroom/2025/02/introducing-apple-invites-a-new-app-that-brings-people-together/)
+* [2025-02-04, 16:22:03](https://news.ycombinator.com/item?id=42934427) - [Jujutsu VCS Introduction and Patterns](https://kubamartin.com/posts/introduction-to-the-jujutsu-vcs/)
 * [2025-02-04, 16:21:58](https://news.ycombinator.com/item?id=42934422) - [Apple Launches Apple Invites](https://apps.apple.com/us/app/apple-invites/id6472498645)
 * [2025-02-04, 16:10:02](https://news.ycombinator.com/item?id=42934236) - [Microsoft cracking down people upgrading to Windows 11 on unsupported hardware](https://www.xda-developers.com/microsoft-cracking-down-people-upgrading-windows-11-unsupported-hardware/)
 * [2025-02-04, 16:06:32](https://news.ycombinator.com/item?id=42934190) - [Chat is a bad UI pattern for development tools](https://danieldelaney.net/chat/)
@@ -19,9 +22,11 @@
 * [2025-02-04, 15:05:34](https://news.ycombinator.com/item?id=42933219) - [Payments Crisis of 2025: Doge Has \"Read-Write\" Access to Fedaral Payment System](https://www.crisesnotes.com/day-five-of-the-trump-musk-treasury-payments-crisis-of-2025-not-read-only-access-anymore/)
 * [2025-02-04, 14:50:00](https://news.ycombinator.com/item?id=42933049) - [The Lost Story of Alan Turing's \"Delilah\" Project](https://spectrum.ieee.org/alan-turings-delilah)
 * [2025-02-04, 14:48:52](https://news.ycombinator.com/item?id=42933031) - [Programmers are modern-day computers](https://jtlicardo.com/writing/modern-day-computers/)
+* [2025-02-04, 14:43:53](https://news.ycombinator.com/item?id=42932948) - [DeepRAG: Thinking to Retrieval Step by Step for Large Language Models](https://arxiv.org/abs/2502.01142)
 * [2025-02-04, 14:29:30](https://news.ycombinator.com/item?id=42932760) - [Words Now Forbidden in the Free Speech United States of Academic Freedom](https://mastodon.social/@Lazarou/113943275616933776)
 * [2025-02-04, 14:07:23](https://news.ycombinator.com/item?id=42932492) - [My Seventh Year as a Bootstrapped Founder](https://mtlynch.io/solo-developer-year-7/)
 * [2025-02-04, 13:44:23](https://news.ycombinator.com/item?id=42932218) - [Please help me find better blogs to read](https://news.ycombinator.com/item?id=42932218)
+* [2025-02-04, 13:39:12](https://news.ycombinator.com/item?id=42932148) - [Build your own SQLite, Part 4: reading tables metadata](https://blog.sylver.dev/build-your-own-sqlite-part-4-reading-tables-metadata)
 * [2025-02-04, 13:37:57](https://news.ycombinator.com/item?id=42932137) - [Bouncing Beholder, my winning JS1k entry (2012)](https://marijnhaverbeke.nl/js1k/)
 * [2025-02-04, 13:31:05](https://news.ycombinator.com/item?id=42932056) - [Why employees smuggle AI into work](https://www.bbc.com/news/articles/cn7rx05xg2go)
 * [2025-02-04, 13:21:05](https://news.ycombinator.com/item?id=42931953) - [Codeberg: Free GitHub hosting](https://codeberg.org/)
