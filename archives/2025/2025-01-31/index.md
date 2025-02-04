@@ -63,6 +63,7 @@
 * [2025-01-31, 14:30:16](https://news.ycombinator.com/item?id=42888026) - [For privacy: Change of our refund policy from 30 to 14 days](https://mullvad.net/en/blog/for-privacy-change-of-our-refund-policy-from-30-to-14-days)
 * [2025-01-31, 14:22:42](https://news.ycombinator.com/item?id=42887968) - [Linux Mobile at FOSDEM 2025](https://linmob.net/fosdem2025/)
 * [2025-01-31, 14:20:07](https://news.ycombinator.com/item?id=42887939) - [RamaLama](https://github.com/containers/ramalama)
+* [2025-01-31, 13:55:59](https://news.ycombinator.com/item?id=42887673) - [Beat the Drum](https://www.dannyguo.com/blog/beat-the-drum)
 * [2025-01-31, 13:53:40](https://news.ycombinator.com/item?id=42887651) - [KVM Enhancements Within the Linux 6.14 Kernel](https://www.phoronix.com/news/Linux-6.14-KVM)
 * [2025-01-31, 13:47:47](https://news.ycombinator.com/item?id=42887598) - [My product went viral on social media but all I got were these shitty users](https://andrewchen.substack.com/p/my-product-went-viral-on-social-media)
 * [2025-01-31, 13:45:06](https://news.ycombinator.com/item?id=42887581) - [Show HN: voidDB – A transactional key-value DB written in Go for 64-bit Linux](https://github.com/voidDB/voidDB)
