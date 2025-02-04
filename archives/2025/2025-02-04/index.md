@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-04](index.md)
 
+* [2025-02-04, 13:21:05](https://news.ycombinator.com/item?id=42931953) - [Codeberg: Free GitHub hosting](https://codeberg.org/)
 * [2025-02-04, 12:33:55](https://news.ycombinator.com/item?id=42931523) - [Windows 11 – There's still nothing worth my time](https://www.dedoimedo.com/computers/windows-11-december-2024-update-results.html)
 * [2025-02-04, 12:01:03](https://news.ycombinator.com/item?id=42931269) - [Nango (Product Integrations Platform) Is Hiring a Senior Full-Stack Engineer](https://www.nango.dev/jobs)
 * [2025-02-04, 11:36:30](https://news.ycombinator.com/item?id=42931088) - [VSCode Marketplace Web Pages No Longer Allow Direct VSIX Downloads](https://github.com/microsoft/vsmarketplace/issues/1135)

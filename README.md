@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-04, 13:21:05](https://news.ycombinator.com/item?id=42931953) - [Codeberg: Free GitHub hosting](https://codeberg.org/)
 * [2025-02-04, 12:33:55](https://news.ycombinator.com/item?id=42931523) - [Windows 11 – There's still nothing worth my time](https://www.dedoimedo.com/computers/windows-11-december-2024-update-results.html)
 * [2025-02-04, 12:01:03](https://news.ycombinator.com/item?id=42931269) - [Nango (Product Integrations Platform) Is Hiring a Senior Full-Stack Engineer](https://www.nango.dev/jobs)
 * [2025-02-04, 11:36:30](https://news.ycombinator.com/item?id=42931088) - [VSCode Marketplace Web Pages No Longer Allow Direct VSIX Downloads](https://github.com/microsoft/vsmarketplace/issues/1135)
@@ -13,7 +14,6 @@
 * [2025-02-04, 01:15:28](https://news.ycombinator.com/item?id=42926076) - [The Video Game History Foundation library opens in early access](https://gamehistory.org/vghf-library-launch/)
 * [2025-02-03, 22:48:56](https://news.ycombinator.com/item?id=42924448) - [No-Panic Rust: A Nice Technique for Systems Programming](https://blog.reverberate.org/2025/02/03/no-panic-rust.html)
 * [2025-02-03, 22:01:38](https://news.ycombinator.com/item?id=42923870) - [\"A computer can never be held accountable\"](https://simonwillison.net/2025/Feb/3/a-computer-can-never-be-held-accountable/)
-* [2025-02-03, 20:56:44](https://news.ycombinator.com/item?id=42922989) - [Open Euro LLM: Open LLMs for Transparent AI in Europe](https://openeurollm.eu/launch-press-release)
 * [2025-02-03, 17:59:13](https://news.ycombinator.com/item?id=42920921) - [AMD: Microcode Signature Verification Vulnerability](https://github.com/google/security-research/security/advisories/GHSA-4xq7-4mgh-gp6w)
 * [2025-02-03, 16:28:45](https://news.ycombinator.com/item?id=42919909) - [Httptap: View HTTP/HTTPS requests made by any Linux program](https://github.com/monasticacademy/httptap)
 * [2025-02-03, 16:00:43](https://news.ycombinator.com/item?id=42919502) - [Ask HN: Who is hiring? (February 2025)](https://news.ycombinator.com/item?id=42919502)
