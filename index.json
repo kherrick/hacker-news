@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-04, 01:15:28",
+      "https://news.ycombinator.com/item?id=42926076"
+    ],
+    [
+      "The Video Game History Foundation Library Opens in Early Access",
+      "https://gamehistory.org/vghf-library-launch/"
+    ]
+  ],
+  [
+    [
       "2025-02-04, 00:42:20",
       "https://news.ycombinator.com/item?id=42925712"
     ],
@@ -77,16 +87,6 @@
     [
       "AMD: Microcode Signature Verification Vulnerability",
       "https://github.com/google/security-research/security/advisories/GHSA-4xq7-4mgh-gp6w"
-    ]
-  ],
-  [
-    [
-      "2025-02-03, 17:34:17",
-      "https://news.ycombinator.com/item?id=42920657"
-    ],
-    [
-      "New Proofs Probe the Limits of Mathematical Truth",
-      "https://www.quantamagazine.org/new-proofs-probe-the-limits-of-mathematical-truth-20250203/"
     ]
   ],
   [
@@ -231,6 +231,26 @@
   ],
   [
     [
+      "2025-02-03, 06:38:50",
+      "https://news.ycombinator.com/item?id=42915586"
+    ],
+    [
+      "Mailspring: Cross-platform, fast, open source mail client",
+      "https://github.com/Foundry376/Mailspring"
+    ]
+  ],
+  [
+    [
+      "2025-02-03, 06:31:39",
+      "https://news.ycombinator.com/item?id=42915550"
+    ],
+    [
+      "Integrated magneto-optics with ultra-high endurance for photonic inmem computing",
+      "https://www.nature.com/articles/s41566-024-01549-1"
+    ]
+  ],
+  [
+    [
       "2025-02-03, 06:20:32",
       "https://news.ycombinator.com/item?id=42915494"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2025-01-31, 20:54:31",
-      "https://news.ycombinator.com/item?id=42891848"
-    ],
-    [
-      "Feluda – A CLI tool to detect restrictive licenses in dependencies",
-      "https://crates.io/crates/feluda"
-    ]
-  ],
-  [
-    [
       "2025-01-31, 12:34:41",
       "https://news.ycombinator.com/item?id=42887037"
     ],
@@ -287,16 +297,6 @@
     [
       "Detroit’s revival takes shape after decades of decay",
       "https://www.theguardian.com/us-news/2025/jan/04/detroit-revitalization"
-    ]
-  ],
-  [
-    [
-      "2025-01-31, 01:34:37",
-      "https://news.ycombinator.com/item?id=42883976"
-    ],
-    [
-      "Spotted hyena found in Egypt in 5k years",
-      "https://phys.org/news/2025-01-hyena-egypt-years.html"
     ]
   ]
 ]
