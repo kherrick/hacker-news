@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-04](index.md)
 
+* [2025-02-04, 11:05:18](https://news.ycombinator.com/item?id=42930890) - [Nvidia open-source nanite: continuous level of detail (LOD) mesh library](https://github.com/nvpro-samples/nv_cluster_lod_builder)
 * [2025-02-04, 10:50:01](https://news.ycombinator.com/item?id=42930786) - [Backblaze seemingly does not support files greater than 1 TB](https://wadetregaskis.com/backblaze-seemingly-does-not-support-files-greater-than-1-tb/)
 * [2025-02-04, 09:27:58](https://news.ycombinator.com/item?id=42930185) - [The Final Frontier with Steve Jurvetson](https://cloudvalley.substack.com/p/the-final-frontier-with-steve-jurvetson)
 * [2025-02-04, 08:34:23](https://news.ycombinator.com/item?id=42929754) - [Platform for supporting local sellers and buyers](https://blunum.com/)
