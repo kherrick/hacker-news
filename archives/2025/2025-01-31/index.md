@@ -59,6 +59,7 @@
 * [2025-01-31, 16:17:00](https://news.ycombinator.com/item?id=42888967) - [Show HN: Small LLM with Large Power](https://github.com/KarthikDevalla/Maximum-218M)
 * [2025-01-31, 15:48:08](https://news.ycombinator.com/item?id=42888773) - [A brief history of counting machines (2023)](https://lcamtuf.substack.com/p/a-brief-history-of-counting-stuff)
 * [2025-01-31, 15:45:36](https://news.ycombinator.com/item?id=42888752) - [Instagram tests Reels pause feature as TikTok remains in limbo](https://www.cnbc.com/2025/01/30/instagram-tests-reels-pause-feature-as-tiktok-remains-in-limbo.html)
+* [2025-01-31, 15:20:31](https://news.ycombinator.com/item?id=42888538) - [Motion Sickness Accessibility in Video Games](https://madelinemiller.dev/blog/motion-sickness-accessibility/)
 * [2025-01-31, 15:15:46](https://news.ycombinator.com/item?id=42888471) - [Pimping my Casio with Oddly Specific Objects' alternate motherboard and firmware](https://blog.jgc.org/2022/10/pimping-my-casio-with-oddly-specific.html)
 * [2025-01-31, 15:00:55](https://news.ycombinator.com/item?id=42888326) - [Images Reveal Exocomets Around 74 Nearby Stars](https://skyandtelescope.org/astronomy-news/new-images-reveal-exocomets-around-74-nearby-stars/)
 * [2025-01-31, 14:48:25](https://news.ycombinator.com/item?id=42888195) - [MillenniumDB: A graph database engine using domain graphs](https://github.com/MillenniumDB/MillenniumDB)

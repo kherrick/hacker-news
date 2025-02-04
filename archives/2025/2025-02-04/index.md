@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-02-04](index.md)
 
 * [2025-02-04, 13:44:23](https://news.ycombinator.com/item?id=42932218) - [Please help me find better blogs to read](https://news.ycombinator.com/item?id=42932218)
+* [2025-02-04, 13:37:57](https://news.ycombinator.com/item?id=42932137) - [Bouncing Beholder, my winning JS1k entry (2012)](https://marijnhaverbeke.nl/js1k/)
+* [2025-02-04, 13:31:05](https://news.ycombinator.com/item?id=42932056) - [Why employees smuggle AI into work](https://www.bbc.com/news/articles/cn7rx05xg2go)
 * [2025-02-04, 13:21:05](https://news.ycombinator.com/item?id=42931953) - [Codeberg: Free GitHub hosting](https://codeberg.org/)
 * [2025-02-04, 12:33:55](https://news.ycombinator.com/item?id=42931523) - [Windows 11 – There's still nothing worth my time](https://www.dedoimedo.com/computers/windows-11-december-2024-update-results.html)
 * [2025-02-04, 12:01:03](https://news.ycombinator.com/item?id=42931269) - [Nango (Product Integrations Platform) Is Hiring a Senior Full-Stack Engineer](https://www.nango.dev/jobs)
