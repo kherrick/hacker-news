@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-04, 17:56:34](https://news.ycombinator.com/item?id=42936086) - [The Slotted Counter Pattern (2020)](https://planetscale.com/blog/the-slotted-counter-pattern)
+* [2025-02-04, 17:51:55](https://news.ycombinator.com/item?id=42936002) - [TikTok's algorithm exhibited pro-Republican bias during 2024 presidential race](https://www.psypost.org/tiktoks-algorithm-exhibited-pro-republican-bias-during-2024-presidential-race-study-finds/)
 * [2025-02-04, 17:35:27](https://news.ycombinator.com/item?id=42935741) - [How Spotify Killed Lo-Fi Hip Hop](https://gamechops.substack.com/p/how-spotify-killed-lo-fi-hip-hop)
 * [2025-02-04, 17:10:51](https://news.ycombinator.com/item?id=42935355) - [Launch HN: Pinch (YC W25) – Video conferencing with immersive translation](https://news.ycombinator.com/item?id=42935355)
 * [2025-02-04, 17:06:35](https://news.ycombinator.com/item?id=42935286) - [Orion O6 ITX Arm V9 board – temper your expectations](https://www.jeffgeerling.com/blog/2025/orion-o6-itx-arm-v9-board-temper-your-expectations)
@@ -21,15 +23,13 @@
 * [2025-02-04, 01:15:28](https://news.ycombinator.com/item?id=42926076) - [The Video Game History Foundation library opens in early access](https://gamehistory.org/vghf-library-launch/)
 * [2025-02-03, 22:01:38](https://news.ycombinator.com/item?id=42923870) - [\"A computer can never be held accountable\"](https://simonwillison.net/2025/Feb/3/a-computer-can-never-be-held-accountable/)
 * [2025-02-03, 17:59:13](https://news.ycombinator.com/item?id=42920921) - [AMD: Microcode Signature Verification Vulnerability](https://github.com/google/security-research/security/advisories/GHSA-4xq7-4mgh-gp6w)
-* [2025-02-03, 14:42:51](https://news.ycombinator.com/item?id=42918644) - [He went to jail for stealing someone's identity, but it was his all along](https://www.nytimes.com/2025/02/03/us/iowa-identity-theft-sentencing.html)
 * [2025-02-03, 06:27:11](https://news.ycombinator.com/item?id=42915527) - [The U.S. needs a shipbuilding revolution](https://www.usni.org/magazines/proceedings/2025/february/nation-needs-shipbuilding-revolution)
 * [2025-02-01, 15:54:19](https://news.ycombinator.com/item?id=42899304) - [AMD adds RF-sampling data converters to Versal adaptive SoCs (2024)](https://www.electronicsweekly.com/news/business/amd-adds-rf-sampling-data-converters-to-versal-adaptive-socs-2024-12/)
 * [2025-02-01, 15:39:59](https://news.ycombinator.com/item?id=42899168) - [Mitochondria as you've never seen them](https://www.nature.com/immersive/d41586-025-00269-y/)
 * [2025-02-01, 09:33:36](https://news.ycombinator.com/item?id=42897151) - [Push Notifications for Decentralized Services](https://unifiedpush.org/news/20250131_push_for_decentralized/)
+* [2025-02-01, 03:44:18](https://news.ycombinator.com/item?id=42895448) - [Japanese WW2 \"Fu-Go\" Balloon Bombs (2016)](https://ahf.nuclearmuseum.org/ahf/history/japanese-balloon-bombs-fu-go/)
 * [2025-02-01, 00:24:42](https://news.ycombinator.com/item?id=42894216) - [Byte Queue Limits: the unauthorized biography](https://medium.com/@tom_84912/byte-queue-limits-the-unauthorized-biography-61adc5730b83)
-* [2025-01-31, 20:44:28](https://news.ycombinator.com/item?id=42891754) - [The Forbidden Garden of Leningrad: Science and Sacrifice in a City Under Siege](https://www.lrb.co.uk/the-paper/v47/n02/jessie-childs/resident-bean-expert)
 * [2025-01-31, 19:06:30](https://news.ycombinator.com/item?id=42890606) - [List Any Linux Tracepoint with Their Arguments, Datatypes and Related Structs](https://tanelpoder.com/posts/tpargs-list-tracepoint-arguments-and-structures/)
-* [2025-01-31, 01:34:37](https://news.ycombinator.com/item?id=42883976) - [Spotted hyena found in Egypt for the first time in 5k years](https://phys.org/news/2025-01-hyena-egypt-years.html)
 
 ## [Archives](archives/index.md)
 
