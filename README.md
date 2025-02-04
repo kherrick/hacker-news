@@ -12,7 +12,6 @@
 * [2025-02-04, 00:00:13](https://news.ycombinator.com/item?id=42925210) - [El Salvador abandons Bitcoin as legal tender](https://ticotimes.net/2025/02/02/el-salvador-abandons-bitcoin-as-legal-tender-after-failed-experiment)
 * [2025-02-03, 22:48:56](https://news.ycombinator.com/item?id=42924448) - [No-Panic Rust: A Nice Technique for Systems Programming](https://blog.reverberate.org/2025/02/03/no-panic-rust.html)
 * [2025-02-03, 20:56:44](https://news.ycombinator.com/item?id=42922989) - [Open Euro LLM: Open LLMs for Transparent AI in Europe](https://openeurollm.eu/launch-press-release)
-* [2025-02-03, 19:48:51](https://news.ycombinator.com/item?id=42922052) - [The Cantonese Scrolls – A Cantonese language learning mental RPG](https://cantoscrolls.com/)
 * [2025-02-03, 17:59:13](https://news.ycombinator.com/item?id=42920921) - [AMD: Microcode Signature Verification Vulnerability](https://github.com/google/security-research/security/advisories/GHSA-4xq7-4mgh-gp6w)
 * [2025-02-03, 17:00:09](https://news.ycombinator.com/item?id=42920285) - [Developer Philosophy](https://qntm.org/devphilo)
 * [2025-02-03, 16:28:45](https://news.ycombinator.com/item?id=42919909) - [Httptap: View HTTP/HTTPS requests made by any Linux program](https://github.com/monasticacademy/httptap)
@@ -30,6 +29,7 @@
 * [2025-01-31, 17:25:14](https://news.ycombinator.com/item?id=42889570) - [Cosmologists Try a New Way to Measure the Shape of the Universe](https://www.quantamagazine.org/cosmologists-try-a-new-way-to-measure-the-shape-of-the-universe-20250127/)
 * [2025-01-31, 13:55:59](https://news.ycombinator.com/item?id=42887673) - [Beat the Drum](https://www.dannyguo.com/blog/beat-the-drum)
 * [2025-01-31, 12:10:46](https://news.ycombinator.com/item?id=42886860) - [Detroit’s revival takes shape after decades of decay](https://www.theguardian.com/us-news/2025/jan/04/detroit-revitalization)
+* [2025-01-31, 01:34:37](https://news.ycombinator.com/item?id=42883976) - [Spotted hyena found in Egypt for the first time in 5k years](https://phys.org/news/2025-01-hyena-egypt-years.html)
 
 ## [Archives](archives/index.md)
 
