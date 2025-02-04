@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-04, 21:00:06](https://news.ycombinator.com/item?id=42938592) - [Roame (YC S23) Is Hiring an AI Fullstack Lead](https://www.ycombinator.com/companies/roame/jobs/V1aMBGc-lead-ai-full-stack-engineer)
+* [2025-02-04, 20:49:58](https://news.ycombinator.com/item?id=42938409) - [How I use LLMs as a staff engineer](https://www.seangoedecke.com/how-i-use-llms/)
 * [2025-02-04, 20:46:39](https://news.ycombinator.com/item?id=42938359) - [MathScroll – Infinitely Scroll Mathematics](https://projects.ollybritton.com/mathscroll/)
 * [2025-02-04, 20:28:16](https://news.ycombinator.com/item?id=42938125) - [Google Drops Pledge Not to Use AI for Weapons or Surveillance](https://www.washingtonpost.com/technology/2025/02/04/google-ai-policies-weapons-harm)
 * [2025-02-04, 19:55:27](https://news.ycombinator.com/item?id=42937701) - [Open Deep Research](https://github.com/huggingface/smolagents/tree/main/examples/open_deep_research)
@@ -22,7 +23,6 @@
 * [2025-02-04, 14:50:00](https://news.ycombinator.com/item?id=42933049) - [The Lost Story of Alan Turing's \"Delilah\" Project](https://spectrum.ieee.org/alan-turings-delilah)
 * [2025-02-04, 14:43:53](https://news.ycombinator.com/item?id=42932948) - [DeepRAG: Thinking to Retrieval Step by Step for Large Language Models](https://arxiv.org/abs/2502.01142)
 * [2025-02-04, 13:39:12](https://news.ycombinator.com/item?id=42932148) - [Build your own SQLite, Part 4: reading tables metadata](https://blog.sylver.dev/build-your-own-sqlite-part-4-reading-tables-metadata)
-* [2025-02-04, 13:37:57](https://news.ycombinator.com/item?id=42932137) - [Bouncing Beholder, my winning JS1K entry (2012)](https://marijnhaverbeke.nl/js1k/)
 * [2025-02-04, 11:39:56](https://news.ycombinator.com/item?id=42931109) - [Radiant Foam: Real-Time Differentiable Ray Tracing](https://radfoam.github.io)
 * [2025-02-04, 11:32:25](https://news.ycombinator.com/item?id=42931052) - [Microsoft Is Dead (2007)](https://www.paulgraham.com/microsoft.html)
 * [2025-02-04, 10:29:27](https://news.ycombinator.com/item?id=42930639) - [OmniHuman-1: Human Animation Models](https://omnihuman-lab.github.io/)

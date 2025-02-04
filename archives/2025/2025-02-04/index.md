@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-04](index.md)
 
 * [2025-02-04, 21:00:06](https://news.ycombinator.com/item?id=42938592) - [Roame (YC S23) Is Hiring an AI Fullstack Lead](https://www.ycombinator.com/companies/roame/jobs/V1aMBGc-lead-ai-full-stack-engineer)
+* [2025-02-04, 20:49:58](https://news.ycombinator.com/item?id=42938409) - [How I use LLMs as a staff engineer](https://www.seangoedecke.com/how-i-use-llms/)
 * [2025-02-04, 20:46:39](https://news.ycombinator.com/item?id=42938359) - [MathScroll – Infinitely Scroll Mathematics](https://projects.ollybritton.com/mathscroll/)
 * [2025-02-04, 20:28:16](https://news.ycombinator.com/item?id=42938125) - [Google Drops Pledge Not to Use AI for Weapons or Surveillance](https://www.washingtonpost.com/technology/2025/02/04/google-ai-policies-weapons-harm)
 * [2025-02-04, 19:55:27](https://news.ycombinator.com/item?id=42937701) - [Open Deep Research](https://github.com/huggingface/smolagents/tree/main/examples/open_deep_research)
