@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-04, 04:50:30](https://news.ycombinator.com/item?id=42928121) - [Resistance to Rust abstractions for DMA mapping](https://lwn.net/SubscriberLink/1006805/f75d238e25728afe/)
 * [2025-02-04, 03:19:57](https://news.ycombinator.com/item?id=42927391) - [I bought a container full of Chinese electric excavators. Here's what showed up](https://electrek.co/2025/02/03/i-bought-a-container-full-of-chinese-electric-excavators-heres-what-showed-up/)
 * [2025-02-04, 02:56:32](https://news.ycombinator.com/item?id=42927172) - [Escaping Surprise Bills and Over-Engineered Messes: Why I Left AWS](https://travisbumgarner.dev/blog/leaving-aws)
 * [2025-02-04, 02:47:49](https://news.ycombinator.com/item?id=42927082) - [Implementing a linear collider facility at CERN](https://newsline.linearcollider.org/2025/01/30/implementing-a-linear-collider-facility-at-cern/)
@@ -18,7 +19,6 @@
 * [2025-02-03, 16:00:43](https://news.ycombinator.com/item?id=42919502) - [Ask HN: Who is hiring? (February 2025)](https://news.ycombinator.com/item?id=42919502)
 * [2025-02-03, 16:00:42](https://news.ycombinator.com/item?id=42919500) - [Ask HN: Who wants to be hired? (February 2025)](https://news.ycombinator.com/item?id=42919500)
 * [2025-02-03, 15:09:55](https://news.ycombinator.com/item?id=42918902) - [Show HN: I convert videos to printed flipbooks for living](https://www.videotoflip.com/)
-* [2025-02-03, 15:03:36](https://news.ycombinator.com/item?id=42918846) - [Decorator JITs: Python as a DSL](https://eli.thegreenplace.net/2025/decorator-jits-python-as-a-dsl/)
 * [2025-02-03, 14:42:51](https://news.ycombinator.com/item?id=42918644) - [He went to jail for stealing someone's identity, but it was his all along](https://www.nytimes.com/2025/02/03/us/iowa-identity-theft-sentencing.html)
 * [2025-02-03, 14:30:11](https://news.ycombinator.com/item?id=42918524) - [I Wrote a WebAssembly VM in C](https://irreducible.io/blog/my-wasm-interpreter/)
 * [2025-02-03, 12:50:36](https://news.ycombinator.com/item?id=42917680) - [Anything threatening to be a subculture is commodified before it can walk (2014)](https://www.dezeen.com/2014/12/18/william-gibson-subculture-commodification-london-justin-mcguirk-opinion/)
