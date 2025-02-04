@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-04](index.md)
 
+* [2025-02-04, 15:25:27](https://news.ycombinator.com/item?id=42933507) - [100 Or so Books that shaped a Century of Science](https://web.mnstate.edu/schwartz/centurylist2.html)
 * [2025-02-04, 15:17:48](https://news.ycombinator.com/item?id=42933383) - [Build a link blog like Simon Willison](https://xuanwo.io/links/2025/01/link-blog/)
 * [2025-02-04, 15:11:07](https://news.ycombinator.com/item?id=42933283) - [Vanguard's Average Fee Is Now Just 0.07% After Biggest-Ever Cut](https://www.bloomberg.com/news/articles/2025-02-03/vanguard-s-average-fee-is-now-just-0-07-after-biggest-ever-cut)
 * [2025-02-04, 15:05:34](https://news.ycombinator.com/item?id=42933219) - [Payments Crisis of 2025: Doge Has \"Read-Write\" Access to Fedaral Payment System](https://www.crisesnotes.com/day-five-of-the-trump-musk-treasury-payments-crisis-of-2025-not-read-only-access-anymore/)

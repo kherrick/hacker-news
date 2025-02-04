@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-04, 15:25:27](https://news.ycombinator.com/item?id=42933507) - [100 Or so Books that shaped a Century of Science](https://web.mnstate.edu/schwartz/centurylist2.html)
 * [2025-02-04, 15:17:48](https://news.ycombinator.com/item?id=42933383) - [Build a link blog like Simon Willison](https://xuanwo.io/links/2025/01/link-blog/)
 * [2025-02-04, 15:11:07](https://news.ycombinator.com/item?id=42933283) - [Vanguard's Average Fee Is Now Just 0.07% After Biggest-Ever Cut](https://www.bloomberg.com/news/articles/2025-02-03/vanguard-s-average-fee-is-now-just-0-07-after-biggest-ever-cut)
 * [2025-02-04, 14:50:00](https://news.ycombinator.com/item?id=42933049) - [The Lost Story of Alan Turing's \"Delilah\" Project](https://spectrum.ieee.org/alan-turings-delilah)
@@ -20,7 +21,6 @@
 * [2025-02-03, 15:09:55](https://news.ycombinator.com/item?id=42918902) - [Show HN: I convert videos to printed flipbooks for living](https://www.videotoflip.com/)
 * [2025-02-03, 14:42:51](https://news.ycombinator.com/item?id=42918644) - [He went to jail for stealing someone's identity, but it was his all along](https://www.nytimes.com/2025/02/03/us/iowa-identity-theft-sentencing.html)
 * [2025-02-03, 14:30:11](https://news.ycombinator.com/item?id=42918524) - [I Wrote a WebAssembly VM in C](https://irreducible.io/blog/my-wasm-interpreter/)
-* [2025-02-03, 12:50:36](https://news.ycombinator.com/item?id=42917680) - [Anything threatening to be a subculture is commodified before it can walk (2014)](https://www.dezeen.com/2014/12/18/william-gibson-subculture-commodification-london-justin-mcguirk-opinion/)
 * [2025-02-03, 10:31:13](https://news.ycombinator.com/item?id=42916849) - [AI systems with 'unacceptable risk' are now banned in the EU](https://techcrunch.com/2025/02/02/ai-systems-with-unacceptable-risk-are-now-banned-in-the-eu/)
 * [2025-02-03, 06:27:11](https://news.ycombinator.com/item?id=42915527) - [The U.S. needs a shipbuilding revolution](https://www.usni.org/magazines/proceedings/2025/february/nation-needs-shipbuilding-revolution)
 * [2025-02-01, 17:06:13](https://news.ycombinator.com/item?id=42899879) - [Macintosh Allegro Common Lisp](https://www.macintoshrepository.org/1799-macintosh-allegro-common-lisp)
