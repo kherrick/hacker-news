@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-04, 13:44:23",
+      "https://news.ycombinator.com/item?id=42932218"
+    ],
+    [
+      "Please help me find better blogs to read",
+      "https://news.ycombinator.com/item?id=42932218"
+    ]
+  ],
+  [
+    [
       "2025-02-04, 12:33:55",
       "https://news.ycombinator.com/item?id=42931523"
     ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2025-02-03, 22:48:56",
-      "https://news.ycombinator.com/item?id=42924448"
-    ],
-    [
-      "No-Panic Rust: A Nice Technique for Systems Programming",
-      "https://blog.reverberate.org/2025/02/03/no-panic-rust.html"
-    ]
-  ],
-  [
-    [
       "2025-02-03, 22:01:38",
       "https://news.ycombinator.com/item?id=42923870"
     ],
@@ -187,6 +187,16 @@
     [
       "Show HN: I convert videos to printed flipbooks for living",
       "https://www.videotoflip.com/"
+    ]
+  ],
+  [
+    [
+      "2025-02-03, 14:42:51",
+      "https://news.ycombinator.com/item?id=42918644"
+    ],
+    [
+      "He went to jail for stealing someone's identity, but it was his all along",
+      "https://www.nytimes.com/2025/02/03/us/iowa-identity-theft-sentencing.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Apple Scraps Work on Mac-Connected Augmented Reality Glasses",
       "https://www.bloomberg.com/news/articles/2025-01-31/apple-scraps-work-on-mac-connected-augmented-reality-glasses"
-    ]
-  ],
-  [
-    [
-      "2025-01-31, 18:47:13",
-      "https://news.ycombinator.com/item?id=42890383"
-    ],
-    [
-      "ArXiv LaTeX Cleaner: Clean the LaTeX code of your paper to submit to ArXiv",
-      "https://github.com/google-research/arxiv-latex-cleaner"
     ]
   ]
 ]
