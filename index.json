@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-02-03, 22:55:40",
-      "https://news.ycombinator.com/item?id=42924533"
+      "2025-02-04, 00:42:20",
+      "https://news.ycombinator.com/item?id=42925712"
     ],
     [
-      "Ask HN: Who wants to be fired? (February 2025)",
-      "https://news.ycombinator.com/item?id=42924533"
+      "Order Declassifying JFK and MLK Assassination Records [pdf]",
+      "https://www.govinfo.gov/content/pkg/FR-2025-01-31/pdf/2025-02116.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-02-04, 00:00:13",
+      "https://news.ycombinator.com/item?id=42925210"
+    ],
+    [
+      "El Salvador abandons Bitcoin as legal tender after failed experiment",
+      "https://ticotimes.net/2025/02/02/el-salvador-abandons-bitcoin-as-legal-tender-after-failed-experiment"
+    ]
+  ],
+  [
+    [
+      "2025-02-03, 23:41:00",
+      "https://news.ycombinator.com/item?id=42925001"
+    ],
+    [
+      "US Bill Proposes Jail Time for People Who Download DeepSeek",
+      "https://www.404media.co/senator-hawley-proposes-jail-time-for-people-who-download-deepseek/"
     ]
   ],
   [
@@ -17,16 +37,6 @@
     [
       "No-Panic Rust: A Nice Technique for Systems Programming",
       "https://blog.reverberate.org/2025/02/03/no-panic-rust.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-03, 22:01:38",
-      "https://news.ycombinator.com/item?id=42923870"
-    ],
-    [
-      "A computer can never be held accountable",
-      "https://simonwillison.net/2025/Feb/3/a-computer-can-never-be-held-accountable/"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "The Cantonese Scrolls (粵卷) – A Cantonese Language Learning Mental RPG",
       "https://cantoscrolls.com/"
-    ]
-  ],
-  [
-    [
-      "2025-02-03, 18:02:42",
-      "https://news.ycombinator.com/item?id=42920962"
-    ],
-    [
-      "Remote Code Execution in Marvel Rivals Game",
-      "https://shalzuth.com/Blog/IFoundAGameExploit"
     ]
   ],
   [
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2025-02-03, 15:36:52",
-      "https://news.ycombinator.com/item?id=42919221"
-    ],
-    [
-      "Reverse Engineering Apple's typedstream Format",
-      "https://chrissardegna.com/blog/reverse-engineering-apples-typedstream-format/"
-    ]
-  ],
-  [
-    [
       "2025-02-03, 15:09:55",
       "https://news.ycombinator.com/item?id=42918902"
     ],
@@ -241,16 +231,6 @@
   ],
   [
     [
-      "2025-02-03, 06:38:50",
-      "https://news.ycombinator.com/item?id=42915586"
-    ],
-    [
-      "Mailspring: Cross-platform, fast, open source mail client",
-      "https://github.com/Foundry376/Mailspring"
-    ]
-  ],
-  [
-    [
       "2025-02-03, 06:20:32",
       "https://news.ycombinator.com/item?id=42915494"
     ],
@@ -267,6 +247,16 @@
     [
       "The young, inexperienced engineers aiding DOGE",
       "https://www.wired.com/story/elon-musk-government-young-engineers/"
+    ]
+  ],
+  [
+    [
+      "2025-02-01, 17:06:13",
+      "https://news.ycombinator.com/item?id=42899879"
+    ],
+    [
+      "Macintosh Allegro Common Lisp",
+      "https://www.macintoshrepository.org/1799-macintosh-allegro-common-lisp"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Detroit’s revival takes shape after decades of decay",
       "https://www.theguardian.com/us-news/2025/jan/04/detroit-revitalization"
+    ]
+  ],
+  [
+    [
+      "2025-01-31, 01:34:37",
+      "https://news.ycombinator.com/item?id=42883976"
+    ],
+    [
+      "Spotted hyena found in Egypt in 5k years",
+      "https://phys.org/news/2025-01-hyena-egypt-years.html"
     ]
   ]
 ]
