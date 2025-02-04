@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-02-04, 21:21:54",
+      "https://news.ycombinator.com/item?id=42938918"
+    ],
+    [
+      "Discord has ongoing major outage",
+      "https://discordstatus.com"
+    ]
+  ],
+  [
+    [
       "2025-02-04, 21:00:06",
       "https://news.ycombinator.com/item?id=42938592"
     ],
     [
       "Roame (YC S23) Is Hiring an AI Fullstack Lead",
       "https://www.ycombinator.com/companies/roame/jobs/V1aMBGc-lead-ai-full-stack-engineer"
+    ]
+  ],
+  [
+    [
+      "2025-02-04, 20:58:06",
+      "https://news.ycombinator.com/item?id=42938555"
+    ],
+    [
+      "TrailBase: Sub-millisecond open-source application base with Rust, SQLite and V8",
+      "https://trailbase.io/reference/benchmarks/"
     ]
   ],
   [
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=42938125"
     ],
     [
-      "Google Drops Pledge Not to Use AI for Weapons or Surveillance",
+      "Google drops pledge not to use AI for weapons or surveillance",
       "https://www.washingtonpost.com/technology/2025/02/04/google-ai-policies-weapons-harm"
     ]
   ],
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=42936910"
     ],
     [
-      "How to Scale Your Model: A Systems View of LLMs on TPUs",
+      "How to scale your model: A systems view of LLMs on TPUs",
       "https://jax-ml.github.io/scaling-book/"
     ]
   ],
@@ -107,16 +127,6 @@
     [
       "Show HN: Haystack Code Reviewer – Perform code reviews on a canvas",
       "https://haystackeditor.com/code-reviewer"
-    ]
-  ],
-  [
-    [
-      "2025-02-04, 16:39:57",
-      "https://news.ycombinator.com/item?id=42934728"
-    ],
-    [
-      "How does fentanyl get into the US?",
-      "https://www.bbc.com/news/articles/cvg93nn1e6go"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2025-02-04, 15:08:21",
-      "https://news.ycombinator.com/item?id=42933256"
-    ],
-    [
-      "DoppelBot: Replace Your CEO with an LLM",
-      "https://modal.com/docs/examples/slack-finetune"
-    ]
-  ],
-  [
-    [
       "2025-02-04, 15:05:34",
       "https://news.ycombinator.com/item?id=42933219"
     ],
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2025-02-04, 11:32:25",
-      "https://news.ycombinator.com/item?id=42931052"
-    ],
-    [
-      "Microsoft Is Dead (2007)",
-      "https://www.paulgraham.com/microsoft.html"
-    ]
-  ],
-  [
-    [
       "2025-02-04, 10:29:27",
       "https://news.ycombinator.com/item?id=42930639"
     ],
@@ -267,6 +257,16 @@
     [
       "Dolní Vĕstonice Portrait Head: The oldest known human portrait in the world",
       "https://www.livescience.com/archaeology/dolni-vestonice-portrait-head-the-oldest-known-human-portrait-in-the-world"
+    ]
+  ],
+  [
+    [
+      "2025-02-02, 15:05:08",
+      "https://news.ycombinator.com/item?id=42909068"
+    ],
+    [
+      "Wolves explain America's urban-rural divide",
+      "https://thehustle.co/originals/how-wolves-explain-americas-urban-rural-divide"
     ]
   ],
   [
