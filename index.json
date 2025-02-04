@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-04, 02:47:49",
+      "https://news.ycombinator.com/item?id=42927082"
+    ],
+    [
+      "Implementing a linear collider facility at CERN",
+      "https://newsline.linearcollider.org/2025/01/30/implementing-a-linear-collider-facility-at-cern/"
+    ]
+  ],
+  [
+    [
       "2025-02-04, 01:15:28",
       "https://news.ycombinator.com/item?id=42926076"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2025-02-03, 14:18:18",
-      "https://news.ycombinator.com/item?id=42918425"
-    ],
-    [
-      "New York claims a small victory in 'forever war on rats'",
-      "https://www.thetimes.com/us/news-today/article/new-york-finally-claims-a-small-victory-in-forever-war-on-rats-m7x230sg8"
-    ]
-  ],
-  [
-    [
       "2025-02-03, 12:50:36",
       "https://news.ycombinator.com/item?id=42917680"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2025-01-31, 12:34:41",
-      "https://news.ycombinator.com/item?id=42887037"
+      "2025-01-31, 18:47:13",
+      "https://news.ycombinator.com/item?id=42890383"
     ],
     [
-      "Is there a benefit to scratching that itch? Yes and no, says new study",
-      "https://newatlas.com/health-wellbeing/scratching-itch-benefit/"
+      "ArXiv LaTeX Cleaner: Clean the LaTeX code of your paper to submit to ArXiv",
+      "https://github.com/google-research/arxiv-latex-cleaner"
     ]
   ],
   [
