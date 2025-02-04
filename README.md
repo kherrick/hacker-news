@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-04, 10:50:01](https://news.ycombinator.com/item?id=42930786) - [Backblaze seemingly does not support files greater than 1 TB](https://wadetregaskis.com/backblaze-seemingly-does-not-support-files-greater-than-1-tb/)
+* [2025-02-04, 09:27:58](https://news.ycombinator.com/item?id=42930185) - [The Final Frontier with Steve Jurvetson](https://cloudvalley.substack.com/p/the-final-frontier-with-steve-jurvetson)
 * [2025-02-04, 08:34:23](https://news.ycombinator.com/item?id=42929754) - [Platform for supporting local sellers and buyers](https://blunum.com/)
 * [2025-02-04, 06:07:02](https://news.ycombinator.com/item?id=42928645) - [OWASP Non-Human Identities Top 10](https://owasp.org/www-project-non-human-identities-top-10/2025/)
 * [2025-02-04, 05:40:57](https://news.ycombinator.com/item?id=42928482) - [Alibaba/T-HEAD's Xuantie C910](https://chipsandcheese.com/p/alibabat-heads-xuantie-c910)
-* [2025-02-04, 02:47:49](https://news.ycombinator.com/item?id=42927082) - [Implementing a linear collider facility at CERN](https://newsline.linearcollider.org/2025/01/30/implementing-a-linear-collider-facility-at-cern/)
 * [2025-02-04, 01:15:28](https://news.ycombinator.com/item?id=42926076) - [The Video Game History Foundation library opens in early access](https://gamehistory.org/vghf-library-launch/)
 * [2025-02-04, 00:42:20](https://news.ycombinator.com/item?id=42925712) - [Order Declassifying JFK and MLK Assassination Records [pdf]](https://www.govinfo.gov/content/pkg/FR-2025-01-31/pdf/2025-02116.pdf)
 * [2025-02-04, 00:00:13](https://news.ycombinator.com/item?id=42925210) - [El Salvador abandons Bitcoin as legal tender](https://ticotimes.net/2025/02/02/el-salvador-abandons-bitcoin-as-legal-tender-after-failed-experiment)
@@ -28,7 +29,6 @@
 * [2025-02-01, 15:39:59](https://news.ycombinator.com/item?id=42899168) - [Mitochondria as you've never seen them](https://www.nature.com/immersive/d41586-025-00269-y/)
 * [2025-01-31, 18:47:13](https://news.ycombinator.com/item?id=42890383) - [ArXiv LaTeX Cleaner: Clean the LaTeX code of your paper to submit to ArXiv](https://github.com/google-research/arxiv-latex-cleaner)
 * [2025-01-31, 17:25:14](https://news.ycombinator.com/item?id=42889570) - [Cosmologists Try a New Way to Measure the Shape of the Universe](https://www.quantamagazine.org/cosmologists-try-a-new-way-to-measure-the-shape-of-the-universe-20250127/)
-* [2025-01-31, 12:10:46](https://news.ycombinator.com/item?id=42886860) - [Detroit’s revival takes shape after decades of decay](https://www.theguardian.com/us-news/2025/jan/04/detroit-revitalization)
 * [2025-01-31, 01:34:37](https://news.ycombinator.com/item?id=42883976) - [Spotted hyena found in Egypt for the first time in 5k years](https://phys.org/news/2025-01-hyena-egypt-years.html)
 
 ## [Archives](archives/index.md)
