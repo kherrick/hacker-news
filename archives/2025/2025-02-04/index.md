@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-02-04](index.md)
 
+* [2025-02-04, 16:10:02](https://news.ycombinator.com/item?id=42934236) - [Microsoft cracking down people upgrading to Windows 11 on unsupported hardware](https://www.xda-developers.com/microsoft-cracking-down-people-upgrading-windows-11-unsupported-hardware/)
+* [2025-02-04, 16:06:32](https://news.ycombinator.com/item?id=42934190) - [Chat is a bad UI pattern for development tools](https://danieldelaney.net/chat/)
+* [2025-02-04, 16:03:44](https://news.ycombinator.com/item?id=42934140) - [Poland's Justice Minister Arrested for Illegal Use of NSO Group Malware](https://www.techdirt.com/2025/02/03/polands-justice-minister-arrested-for-illegal-use-of-nso-group-malware/)
 * [2025-02-04, 15:44:21](https://news.ycombinator.com/item?id=42933840) - [America desperately needs more air traffic controllers](https://www.cnn.com/2025/02/04/business/air-traffic-controller-shortage/index.html)
 * [2025-02-04, 15:25:27](https://news.ycombinator.com/item?id=42933507) - [100 Or so Books that shaped a Century of Science](https://web.mnstate.edu/schwartz/centurylist2.html)
 * [2025-02-04, 15:20:37](https://news.ycombinator.com/item?id=42933418) - [Spotify Paid $10B to the Music Industry in 2024, $1B More Than Last Year](https://variety.com/2025/digital/news/spotify-paid-out-10-billion-to-music-industry-2024-1236287781/)
