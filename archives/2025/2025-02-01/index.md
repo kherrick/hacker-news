@@ -33,6 +33,7 @@
 * [2025-02-01, 18:51:31](https://news.ycombinator.com/item?id=42901007) - [Show HN: ESP32 RC Cars](https://github.com/mattsroufe/esp32_rc_cars)
 * [2025-02-01, 18:31:45](https://news.ycombinator.com/item?id=42900786) - [Delaware faces exodus of tech companies](https://www.newsweek.com/delaware-exodus-tech-meta-dropbox-elon-musk-2024596)
 * [2025-02-01, 18:08:12](https://news.ycombinator.com/item?id=42900528) - [The FAA's Real Air Traffic Control Crisis Runs Much Deeper](https://viewfromthewing.com/collision-on-final-approach-sparks-dei-blame-game-the-faas-real-air-traffic-control-crisis-runs-much-deeper/)
+* [2025-02-01, 17:31:48](https://news.ycombinator.com/item?id=42900137) - [I Use Cline for AI Engineering](https://addyo.substack.com/p/why-i-use-cline-for-ai-engineering)
 * [2025-02-01, 17:15:12](https://news.ycombinator.com/item?id=42899975) - [Dell ends hybrid work policy, demands RTO despite remote work pledge](https://www.theregister.com/2025/01/31/dell_ends_hybrid_work_policy/)
 * [2025-02-01, 17:09:35](https://news.ycombinator.com/item?id=42899913) - [The Strike Is Coming](https://generalstrikeus.com)
 * [2025-02-01, 17:06:13](https://news.ycombinator.com/item?id=42899879) - [Macintosh Allegro Common Lisp](https://www.macintoshrepository.org/1799-macintosh-allegro-common-lisp)
