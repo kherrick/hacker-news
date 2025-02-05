@@ -56,6 +56,7 @@
 * [2025-02-05, 04:54:04](https://news.ycombinator.com/item?id=42943973) - [They Thought They Were Free, by Milton Mayer, an Excerpt](https://press.uchicago.edu/Misc/Chicago/511928.htm)
 * [2025-02-05, 04:43:06](https://news.ycombinator.com/item?id=42943906) - [Huawei's Ascend 910C delivers 60% of Nvidia H100 inference performance](https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-research-suggests-huaweis-ascend-910c-delivers-60-percent-nvidia-h100-inference-performance)
 * [2025-02-05, 04:09:35](https://news.ycombinator.com/item?id=42943662) - [Nellie Bly](https://en.wikipedia.org/wiki/Nellie_Bly)
+* [2025-02-05, 03:18:22](https://news.ycombinator.com/item?id=42943271) - [A hexagonal-tiled cartogram for U.S. counties](https://www.jordanroga.com/blog/introducing-a-hexagonal-tiled-cartogram-for-u-s-counties)
 * [2025-02-05, 02:04:55](https://news.ycombinator.com/item?id=42942618) - [Zig; what I think after months of using it](https://strongly-typed-thoughts.net/blog/zig-2025)
 * [2025-02-05, 01:43:10](https://news.ycombinator.com/item?id=42942405) - [Suspension of Inbound Parcels from China and Hong Kong](https://about.usps.com/newsroom/service-alerts/international/suspension-of-inbound-parcels-from-china-and-hong-kong.htm)
 * [2025-02-05, 01:27:54](https://news.ycombinator.com/item?id=42942236) - [USPS has suspended inbound parcel service from China and Hong Kong](https://about.usps.com/newsroom/service-alerts/international/)
