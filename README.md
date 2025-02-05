@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-05, 01:43:10](https://news.ycombinator.com/item?id=42942405) - [Suspension of Inbound Parcels from China and Hong Kong](https://about.usps.com/newsroom/service-alerts/international/suspension-of-inbound-parcels-from-china-and-hong-kong.htm)
-* [2025-02-05, 01:27:54](https://news.ycombinator.com/item?id=42942236) - [USPS has suspended inbound parcel service from China and Hong Kong](https://about.usps.com/newsroom/service-alerts/international/)
 * [2025-02-05, 01:13:59](https://news.ycombinator.com/item?id=42942061) - [Changes in schizophrenia diagnoses associated with cannabis use disorder](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829840)
 * [2025-02-05, 01:01:09](https://news.ycombinator.com/item?id=42941924) - [We need network societies, not network states](https://www.cip.org/blog/network-societies)
 * [2025-02-05, 01:00:27](https://news.ycombinator.com/item?id=42941916) - [CodeCrafters (YC S22) is hiring a software engineer to change how devs learn](https://www.ycombinator.com/companies/codecrafters/jobs/EL4Oqs1-software-engineer-growth-retention)
@@ -26,8 +24,10 @@
 * [2025-02-04, 14:50:00](https://news.ycombinator.com/item?id=42933049) - [Alan Turing's \"Delilah\" project](https://spectrum.ieee.org/alan-turings-delilah)
 * [2025-02-04, 14:43:53](https://news.ycombinator.com/item?id=42932948) - [DeepRAG: Thinking to retrieval step by step for large language models](https://arxiv.org/abs/2502.01142)
 * [2025-02-03, 19:12:30](https://news.ycombinator.com/item?id=42921659) - [What really happens inside a dating app](https://blog.luap.info/what-really-happens-inside-a-dating-app.html)
+* [2025-02-03, 08:11:58](https://news.ycombinator.com/item?id=42916034) - [Show HN: Gave Claude LSD SQL](https://github.com/lsd-so/lsd-mcp)
 * [2025-02-02, 06:53:45](https://news.ycombinator.com/item?id=42906638) - [Show HN: Language Learning from YouTube content](https://fluentsubs.com/)
 * [2025-02-02, 00:23:15](https://news.ycombinator.com/item?id=42904094) - [AI realtime mock interview tool](https://prepin.ai)
+* [2025-02-01, 12:00:39](https://news.ycombinator.com/item?id=42897730) - [Pyramid structure discovered near Caral Peru](https://omniletters.com/hidden-pyramid-structure-discovered-near-caral/)
 * [2025-02-01, 09:33:36](https://news.ycombinator.com/item?id=42897151) - [Push Notifications for Decentralized Services](https://unifiedpush.org/news/20250131_push_for_decentralized/)
 * [2025-02-01, 08:21:45](https://news.ycombinator.com/item?id=42896797) - [Natural fission reactors in the Franceville basin, Gabon](https://www.sciencedirect.com/science/article/abs/pii/S0016703796002451)
 
