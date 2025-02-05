@@ -4,7 +4,7 @@
 * [2025-02-05, 18:40:40](https://news.ycombinator.com/item?id=42953120) - [Implementation of a RingBuffer in Java with optional FIFO like semantics](https://github.com/evolvedbinary/j8cu)
 * [2025-02-05, 18:29:30](https://news.ycombinator.com/item?id=42952960) - [Andrej Karpathy: Deep Dive into LLMs Like ChatGPT [video]](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 * [2025-02-05, 18:13:25](https://news.ycombinator.com/item?id=42952720) - [21st Century C++](https://cacm.acm.org/blogcacm/21st-century-c/)
-* [2025-02-05, 18:05:28](https://news.ycombinator.com/item?id=42952605) - [Ingesting PDFs and Why Gemini 2.0 Changes Everything](https://www.sergey.fyi/articles/gemini-flash-2)
+* [2025-02-05, 18:05:28](https://news.ycombinator.com/item?id=42952605) - [Ingesting pdfs and why Gemini 2.0 changes everything](https://www.sergey.fyi/articles/gemini-flash-2)
 * [2025-02-05, 18:04:20](https://news.ycombinator.com/item?id=42952584) - [Running ArchiveTeam's Warrior in Kubernetes](https://gabrielsimmer.com/blog/archiveteam-warrior-kubernetes)
 * [2025-02-05, 17:48:23](https://news.ycombinator.com/item?id=42952306) - [The New York Times Has Spent $10.8M in Its Legal Battle with OpenAI So Far](https://www.hollywoodreporter.com/business/business-news/new-york-times-legal-battle-openai-1236127637/)
 * [2025-02-05, 17:00:43](https://news.ycombinator.com/item?id=42951511) - [Ploomber (YC W22) Is Hiring Engineers (Infra, Backend, Growth) and Ex-Founders](https://www.ycombinator.com/companies/ploomber/jobs)
@@ -16,9 +16,8 @@
 * [2025-02-05, 15:38:21](https://news.ycombinator.com/item?id=42950016) - [OpenWISP: Multi-device fleet management for OpenWrt routers](https://openwisp.org)
 * [2025-02-05, 15:03:09](https://news.ycombinator.com/item?id=42949390) - [Servo in 2024: stats, features and donations](https://servo.org/blog/2025/01/31/servo-in-2024/)
 * [2025-02-05, 14:55:03](https://news.ycombinator.com/item?id=42949277) - [Avoiding outrage fatigue while staying informed](https://www.scientificamerican.com/podcast/episode/how-to-avoid-outrage-fatigue-and-tune-in-without-burning-out/)
-* [2025-02-05, 14:47:32](https://news.ycombinator.com/item?id=42949181) - [Why Is Warner Brothers Discovery Dumping Old Movies On YouTube?](https://tedium.co/2025/02/05/warner-bros-youtube-full-movie-releases/)
+* [2025-02-05, 14:47:32](https://news.ycombinator.com/item?id=42949181) - [Why is Warner Bros. Discovery dumping old movies on YouTube?](https://tedium.co/2025/02/05/warner-bros-youtube-full-movie-releases/)
 * [2025-02-05, 14:37:02](https://news.ycombinator.com/item?id=42949019) - [Show HN: Matle – A Daily Chess Puzzle Inspired by Wordle](https://www.matle.io/)
-* [2025-02-05, 12:09:23](https://news.ycombinator.com/item?id=42947383) - [Fiwix: Small Unix-Like Kernel](https://www.fiwix.org/)
 * [2025-02-05, 11:05:40](https://news.ycombinator.com/item?id=42946854) - [S1: The $6 R1 Competitor?](https://timkellogg.me/blog/2025/02/03/s1)
 * [2025-02-05, 10:49:12](https://news.ycombinator.com/item?id=42946718) - [Chrome 133 Supports DOM State-Preserving Move with moveBefore()](https://chromestatus.com/feature/5135990159835136)
 * [2025-02-05, 09:50:30](https://news.ycombinator.com/item?id=42946281) - [Software development topics I've changed my mind on](https://chriskiehl.com/article/thoughts-after-10-years)
@@ -30,6 +29,7 @@
 * [2025-02-03, 07:44:07](https://news.ycombinator.com/item?id=42915901) - [Catgrad: A categorical deep learning compiler](https://catgrad.com/)
 * [2025-02-03, 07:19:29](https://news.ycombinator.com/item?id=42915786) - [Julia and JuliaHub: Advancing Innovation and Growth](https://info.juliahub.com/blog/julia-juliahub-advancing-innovation-and-growth)
 * [2025-02-02, 01:32:33](https://news.ycombinator.com/item?id=42904670) - [An elusive California mammal has just been photographed alive](https://www.sfgate.com/bayarea/article/elusive-california-mammal-photographed-20040772.php)
+* [2025-02-02, 00:03:56](https://news.ycombinator.com/item?id=42903950) - [Show HN: How good is your color vision? Find out in my new game](https://vidzert.com/find-the-different-color)
 
 ## [Archives](archives/index.md)
 
