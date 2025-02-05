@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-05, 09:47:18](https://news.ycombinator.com/item?id=42946257) - [U.S. foreign aid freeze derails efforts to stem proliferation risks](https://www.science.org/content/article/u-s-foreign-aid-freeze-derails-efforts-stem-proliferation-risks)
 * [2025-02-05, 09:44:32](https://news.ycombinator.com/item?id=42946232) - [Go Data Structures](https://research.swtch.com/godata)
 * [2025-02-05, 07:36:01](https://news.ycombinator.com/item?id=42945191) - [Using Terraform Workspace for AWS multi account architectures](https://github.com/maurobaraldi/terraform-workspaces-aws-multi-account)
 * [2025-02-05, 07:30:59](https://news.ycombinator.com/item?id=42945146) - [GNU Make Standard Library](https://gmsl.jgc.org/)
@@ -17,7 +18,6 @@
 * [2025-02-04, 23:11:38](https://news.ycombinator.com/item?id=42940553) - [Nine – seemingly impossible C64 demo](https://linusakesson.net/scene/nine/index.php)
 * [2025-02-04, 22:51:36](https://news.ycombinator.com/item?id=42940257) - [What's happening inside the NIH and NSF](https://www.science.org/content/blog-post/what-s-happening-inside-nih)
 * [2025-02-04, 22:25:32](https://news.ycombinator.com/item?id=42939862) - [Infosec 101 for Activists](https://infosecforactivists.org)
-* [2025-02-04, 22:02:35](https://news.ycombinator.com/item?id=42939562) - [The APL Challenge](https://challenge.dyalog.com/)
 * [2025-02-04, 19:55:27](https://news.ycombinator.com/item?id=42937701) - [Open Deep Research](https://github.com/huggingface/smolagents/tree/main/examples/open_deep_research)
 * [2025-02-04, 18:40:55](https://news.ycombinator.com/item?id=42936723) - [WikiTok](https://wikitok.vercel.app/)
 * [2025-02-04, 16:21:58](https://news.ycombinator.com/item?id=42934422) - [Apple Invites](https://www.apple.com/newsroom/2025/02/introducing-apple-invites-a-new-app-that-brings-people-together/)
@@ -26,8 +26,8 @@
 * [2025-02-04, 14:50:00](https://news.ycombinator.com/item?id=42933049) - [Alan Turing's \"Delilah\" project](https://spectrum.ieee.org/alan-turings-delilah)
 * [2025-02-03, 22:26:35](https://news.ycombinator.com/item?id=42924182) - [MTR: 'traceroute' and 'ping' in a single tool](https://www.bitwizard.nl/mtr/)
 * [2025-02-03, 21:24:50](https://news.ycombinator.com/item?id=42923409) - [Earth Detecting Earth](https://www.seti.org/press-release/earth-detecting-earth)
-* [2025-02-03, 19:12:30](https://news.ycombinator.com/item?id=42921659) - [What really happens inside a dating app](https://blog.luap.info/what-really-happens-inside-a-dating-app.html)
 * [2025-02-03, 09:45:13](https://news.ycombinator.com/item?id=42916585) - [Where Poka-Yoke and Cybernetics Meet: Users determine the purpose of any device](https://stream.syscoi.com/2019/10/29/where-poka-yoke-and-cybernetics-meet-quality-digest-harish-jose/)
+* [2025-02-03, 07:19:29](https://news.ycombinator.com/item?id=42915786) - [Julia and JuliaHub: Advancing Innovation and Growth](https://info.juliahub.com/blog/julia-juliahub-advancing-innovation-and-growth)
 * [2025-02-01, 22:29:11](https://news.ycombinator.com/item?id=42903107) - [How to Store and Dry Your 3D Filament: Full Guide](https://syntaxglow.com/2025/02/01/how-to-store-and-dry-your-3d-filament-a-complete-guide/)
 * [2025-02-01, 08:47:33](https://news.ycombinator.com/item?id=42896918) - [I spent five years building a webapp and got my first $1 (2022)](https://codingcafe.jp/posts/signal-5yrs)
 
