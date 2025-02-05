@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-05](index.md)
 
+* [2025-02-05, 17:00:43](https://news.ycombinator.com/item?id=42951511) - [Ploomber (YC W22) Is Hiring Engineers (Infra, Back End, Growth)](https://www.ycombinator.com/companies/ploomber/jobs)
 * [2025-02-05, 16:31:24](https://news.ycombinator.com/item?id=42950929) - [US egg prices increased 22% in 2025 and 202% in 12 months](https://tradingeconomics.com/commodity/eggs-us)
 * [2025-02-05, 16:23:10](https://news.ycombinator.com/item?id=42950790) - [20k federal workers take \"buyout\" so far, official says](https://www.axios.com/2025/02/04/trump-buyout-federal-workers-20000)
 * [2025-02-05, 16:03:18](https://news.ycombinator.com/item?id=42950454) - [Gemini 2.0 is now available to everyone](https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/)
