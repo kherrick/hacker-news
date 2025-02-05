@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2025-02-04, 18:56:08",
+      "https://news.ycombinator.com/item?id=42936910"
+    ],
+    [
+      "How to scale your model: A systems view of LLMs on TPUs",
+      "https://jax-ml.github.io/scaling-book/"
+    ]
+  ],
+  [
+    [
       "2025-02-04, 18:40:55",
       "https://news.ycombinator.com/item?id=42936723"
     ],
@@ -237,16 +247,6 @@
     [
       "What really happens inside a dating app",
       "https://blog.luap.info/what-really-happens-inside-a-dating-app.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-03, 08:11:58",
-      "https://news.ycombinator.com/item?id=42916034"
-    ],
-    [
-      "Show HN: Gave Claude LSD SQL",
-      "https://github.com/lsd-so/lsd-mcp"
     ]
   ],
   [
