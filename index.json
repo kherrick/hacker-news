@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-05, 15:25:31",
+      "https://news.ycombinator.com/item?id=42949784"
+    ],
+    [
+      "FBI turns over details of 5000 employees who worked on January 6 cases",
+      "https://www.cnn.com/2025/02/04/politics/fbi-employees-tuesday/index.html"
+    ]
+  ],
+  [
+    [
       "2025-02-05, 15:03:09",
       "https://news.ycombinator.com/item?id=42949390"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2025-02-04, 23:11:38",
-      "https://news.ycombinator.com/item?id=42940553"
-    ],
-    [
-      "Nine – seemingly impossible C64 demo",
-      "https://linusakesson.net/scene/nine/index.php"
-    ]
-  ],
-  [
-    [
       "2025-02-04, 22:51:36",
       "https://news.ycombinator.com/item?id=42940257"
     ],
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2025-02-03, 07:44:07",
+      "https://news.ycombinator.com/item?id=42915901"
+    ],
+    [
+      "Catgrad: A categorical deep learning compiler",
+      "https://catgrad.com/"
+    ]
+  ],
+  [
+    [
       "2025-02-03, 07:19:29",
       "https://news.ycombinator.com/item?id=42915786"
     ],
@@ -277,16 +287,6 @@
     [
       "Exploring Nine Simultaneous Transients on April 12th, 1950 (2021)",
       "https://www.nature.com/articles/s41598-021-92162-7"
-    ]
-  ],
-  [
-    [
-      "2025-02-02, 08:47:02",
-      "https://news.ycombinator.com/item?id=42907239"
-    ],
-    [
-      "Calculate the number of language model tokens for a string",
-      "https://blog.mastykarz.nl/calculate-number-language-model-tokens-string/"
     ]
   ],
   [
