@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=42955613"
     ],
     [
-      "Mt32-pi Developer calls it a day",
+      "It's unlikely that there will be any further releases of mt32-pi",
       "https://github.com/dwhinham/mt32-pi/blob/075b52809e77420c6e80828825fe42430336b369/README.md"
     ]
   ],
@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2025-02-05, 15:38:21",
+      "https://news.ycombinator.com/item?id=42950016"
+    ],
+    [
+      "OpenWISP: Multi-device fleet management for OpenWrt routers",
+      "https://openwisp.org"
+    ]
+  ],
+  [
+    [
       "2025-02-05, 15:03:09",
       "https://news.ycombinator.com/item?id=42949390"
     ],
@@ -271,21 +281,11 @@
   ],
   [
     [
-      "2025-02-03, 09:43:05",
-      "https://news.ycombinator.com/item?id=42916574"
-    ],
-    [
-      "Conway's Law (2022)",
-      "https://martinfowler.com/bliki/ConwaysLaw.html"
-    ]
-  ],
-  [
-    [
       "2025-02-02, 04:43:00",
       "https://news.ycombinator.com/item?id=42905900"
     ],
     [
-      "Minimum Effective Dose",
+      "Minimum effective dose",
       "https://winnielim.org/journal/minimum-effective-dose/"
     ]
   ],
