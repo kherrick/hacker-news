@@ -11,7 +11,6 @@
 * [2025-02-04, 22:29:48](https://news.ycombinator.com/item?id=42939940) - [Oracle justified its JavaScript trademark with Node.js–now it wants that ignored](https://deno.com/blog/deno-v-oracle2)
 * [2025-02-04, 22:25:32](https://news.ycombinator.com/item?id=42939862) - [Infosec 101 for Activists](https://infosecforactivists.org)
 * [2025-02-04, 22:02:35](https://news.ycombinator.com/item?id=42939562) - [The APL Challenge](https://challenge.dyalog.com/)
-* [2025-02-04, 21:13:30](https://news.ycombinator.com/item?id=42938802) - [Government planned it 7 years, beavers built a dam in 2 days and saved $1M](https://www.voxnews.al/english/kosovabota/qeveria-po-e-planifikonte-prej-7-vitesh-kastoret-ndertojne-brenda-dy--i84652)
 * [2025-02-04, 20:28:16](https://news.ycombinator.com/item?id=42938125) - [Google drops pledge not to use AI for weapons or surveillance](https://www.washingtonpost.com/technology/2025/02/04/google-ai-policies-weapons-harm)
 * [2025-02-04, 19:55:27](https://news.ycombinator.com/item?id=42937701) - [Open Deep Research](https://github.com/huggingface/smolagents/tree/main/examples/open_deep_research)
 * [2025-02-04, 18:56:08](https://news.ycombinator.com/item?id=42936910) - [How to scale your model: A systems view of LLMs on TPUs](https://jax-ml.github.io/scaling-book/)
@@ -29,6 +28,7 @@
 * [2025-02-02, 06:53:45](https://news.ycombinator.com/item?id=42906638) - [Show HN: Language Learning from YouTube content](https://fluentsubs.com/)
 * [2025-02-02, 00:23:15](https://news.ycombinator.com/item?id=42904094) - [AI realtime mock interview tool](https://prepin.ai)
 * [2025-02-01, 09:33:36](https://news.ycombinator.com/item?id=42897151) - [Push Notifications for Decentralized Services](https://unifiedpush.org/news/20250131_push_for_decentralized/)
+* [2025-02-01, 08:47:33](https://news.ycombinator.com/item?id=42896918) - [I spent five years building a webapp and got my first $1 (2022)](https://codingcafe.jp/posts/signal-5yrs)
 * [2025-02-01, 08:21:45](https://news.ycombinator.com/item?id=42896797) - [Natural fission reactors in the Franceville basin, Gabon](https://www.sciencedirect.com/science/article/abs/pii/S0016703796002451)
 
 ## [Archives](archives/index.md)

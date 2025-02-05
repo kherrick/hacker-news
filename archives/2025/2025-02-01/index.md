@@ -69,6 +69,7 @@
 * [2025-02-01, 09:33:36](https://news.ycombinator.com/item?id=42897151) - [Push Notifications for Decentralized Services](https://unifiedpush.org/news/20250131_push_for_decentralized/)
 * [2025-02-01, 09:27:06](https://news.ycombinator.com/item?id=42897120) - [Visualizing all books of the world in ISBN-Space](https://phiresky.github.io/blog/2025/visualizing-all-books-in-isbn-space/)
 * [2025-02-01, 09:11:37](https://news.ycombinator.com/item?id=42897041) - [How to turn off Apple Intelligence](https://www.asurion.com/connect/tech-tips/turn-off-apple-intelligence/)
+* [2025-02-01, 08:47:33](https://news.ycombinator.com/item?id=42896918) - [I spent five years building a webapp and got my first $1 (2022)](https://codingcafe.jp/posts/signal-5yrs)
 * [2025-02-01, 08:21:45](https://news.ycombinator.com/item?id=42896797) - [Natural fission reactors in the Franceville basin, Gabon](https://www.sciencedirect.com/science/article/abs/pii/S0016703796002451)
 * [2025-02-01, 08:00:34](https://news.ycombinator.com/item?id=42896716) - [Show HN: Perforator – cluster-wide profiling tool for large data centers](https://github.com/yandex/perforator)
 * [2025-02-01, 07:59:36](https://news.ycombinator.com/item?id=42896710) - [The Severance writer and cast on corporate cults, sci-fi, and more](https://arstechnica.com/culture/2025/01/the-severance-writer-and-cast-on-corporate-cults-sci-fi-and-more/)
