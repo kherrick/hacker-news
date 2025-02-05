@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-05](index.md)
 
+* [2025-02-05, 05:50:16](https://news.ycombinator.com/item?id=42944371) - [Kagi – Introducing Fair Pricing](https://kagi.com/changelog#6155)
+* [2025-02-05, 05:25:19](https://news.ycombinator.com/item?id=42944203) - [The Full Story of the FAA's Hiring Scandal](https://www.tracingwoodgrains.com/p/the-full-story-of-the-faas-hiring)
 * [2025-02-05, 05:14:25](https://news.ycombinator.com/item?id=42944108) - [I coded a Pascal compiler for transputer as a teen in 1993](https://nanochess.org/pascal.html)
 * [2025-02-05, 04:54:04](https://news.ycombinator.com/item?id=42943973) - [They Thought They Were Free, by Milton Mayer, an Excerpt](https://press.uchicago.edu/Misc/Chicago/511928.htm)
 * [2025-02-05, 04:43:06](https://news.ycombinator.com/item?id=42943906) - [Huawei's Ascend 910C delivers 60% of Nvidia H100 inference performance](https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-research-suggests-huaweis-ascend-910c-delivers-60-percent-nvidia-h100-inference-performance)
