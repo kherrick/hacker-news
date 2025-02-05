@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-05, 21:10:25",
+      "https://news.ycombinator.com/item?id=42955176"
+    ],
+    [
+      "Okta Bcrypt incident lessons for designing better APIs",
+      "https://n0rdy.foo/posts/20250121/okta-bcrypt-lessons-for-better-apis/"
+    ]
+  ],
+  [
+    [
       "2025-02-05, 20:26:00",
       "https://news.ycombinator.com/item?id=42954621"
     ],
@@ -47,16 +57,6 @@
     [
       "The Sudoku Affair",
       "https://explaining.software/archive/the-sudoku-affair/"
-    ]
-  ],
-  [
-    [
-      "2025-02-05, 18:40:40",
-      "https://news.ycombinator.com/item?id=42953120"
-    ],
-    [
-      "Implementation of a RingBuffer in Java with optional FIFO like semantics",
-      "https://github.com/evolvedbinary/j8cu"
     ]
   ],
   [
