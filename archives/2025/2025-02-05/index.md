@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-05](index.md)
 
 * [2025-02-05, 21:42:20](https://news.ycombinator.com/item?id=42955613) - [Mt32-pi Developer calls it a day](https://github.com/dwhinham/mt32-pi/blob/075b52809e77420c6e80828825fe42430336b369/README.md)
+* [2025-02-05, 21:23:09](https://news.ycombinator.com/item?id=42955356) - [News from Scroll 5](https://scrollprize.substack.com/p/exciting-news-from-scroll-5)
 * [2025-02-05, 21:10:25](https://news.ycombinator.com/item?id=42955176) - [Okta Bcrypt incident lessons for designing better APIs](https://n0rdy.foo/posts/20250121/okta-bcrypt-lessons-for-better-apis/)
 * [2025-02-05, 20:57:33](https://news.ycombinator.com/item?id=42955009) - [OCR Crypto Stealers in Google Play and App Store](https://securelist.com/sparkcat-stealer-in-app-store-and-google-play/115385/)
 * [2025-02-05, 20:39:46](https://news.ycombinator.com/item?id=42954773) - [S1: The $6 R1 Competitor?](https://simonwillison.net/2025/Feb/5/s1-the-6-r1-competitor/)
@@ -32,6 +33,7 @@
 * [2025-02-05, 15:25:31](https://news.ycombinator.com/item?id=42949784) - [FBI turns over details of 5000 employees who worked on January 6 cases](https://www.cnn.com/2025/02/04/politics/fbi-employees-tuesday/index.html)
 * [2025-02-05, 15:03:09](https://news.ycombinator.com/item?id=42949390) - [Servo in 2024: stats, features and donations](https://servo.org/blog/2025/01/31/servo-in-2024/)
 * [2025-02-05, 14:55:03](https://news.ycombinator.com/item?id=42949277) - [Avoiding Outrage Fatigue While Staying Informed](https://www.scientificamerican.com/podcast/episode/how-to-avoid-outrage-fatigue-and-tune-in-without-burning-out/)
+* [2025-02-05, 14:51:53](https://news.ycombinator.com/item?id=42949232) - [The familiar loneliness of the Kinetoscope](https://resobscura.substack.com/p/the-familiar-loneliness-of-the-kinetoscope)
 * [2025-02-05, 14:51:20](https://news.ycombinator.com/item?id=42949222) - [I'm Done with Ubuntu](https://ounapuu.ee/posts/2025/02/05/done-with-ubuntu/)
 * [2025-02-05, 14:47:32](https://news.ycombinator.com/item?id=42949181) - [Why Is Warner Brothers Discovery Dumping Old Movies on YouTube?](https://tedium.co/2025/02/05/warner-bros-youtube-full-movie-releases/)
 * [2025-02-05, 14:37:02](https://news.ycombinator.com/item?id=42949019) - [Show HN: Matle – A Daily Chess Puzzle Inspired by Wordle](https://www.matle.io/)
