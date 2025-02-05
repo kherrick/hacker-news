@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-05](index.md)
 
+* [2025-02-05, 15:25:31](https://news.ycombinator.com/item?id=42949784) - [FBI turns over details of 5000 employees who worked on January 6 cases](https://www.cnn.com/2025/02/04/politics/fbi-employees-tuesday/index.html)
 * [2025-02-05, 15:03:09](https://news.ycombinator.com/item?id=42949390) - [Servo in 2024: stats, features and donations](https://servo.org/blog/2025/01/31/servo-in-2024/)
 * [2025-02-05, 14:55:03](https://news.ycombinator.com/item?id=42949277) - [Avoiding Outrage Fatigue While Staying Informed](https://www.scientificamerican.com/podcast/episode/how-to-avoid-outrage-fatigue-and-tune-in-without-burning-out/)
 * [2025-02-05, 14:51:20](https://news.ycombinator.com/item?id=42949222) - [I'm Done with Ubuntu](https://ounapuu.ee/posts/2025/02/05/done-with-ubuntu/)

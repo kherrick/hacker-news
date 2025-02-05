@@ -61,6 +61,7 @@
 * [2025-02-03, 08:43:13](https://news.ycombinator.com/item?id=42916203) - [Ruby \"Thread Contention\" Is Simply GVL Queuing](https://island94.org/2025/01/ruby-thread-contention-simply-gvl-queuing)
 * [2025-02-03, 08:11:58](https://news.ycombinator.com/item?id=42916034) - [Show HN: Gave Claude LSD SQL](https://github.com/lsd-so/lsd-mcp)
 * [2025-02-03, 07:46:37](https://news.ycombinator.com/item?id=42915905) - [Anthropic: \"Applicants should not use AI assistants\"](https://simonwillison.net/2025/Feb/2/anthropic/)
+* [2025-02-03, 07:44:07](https://news.ycombinator.com/item?id=42915901) - [Catgrad: A categorical deep learning compiler](https://catgrad.com/)
 * [2025-02-03, 07:19:29](https://news.ycombinator.com/item?id=42915786) - [Julia and JuliaHub: Advancing Innovation and Growth](https://info.juliahub.com/blog/julia-juliahub-advancing-innovation-and-growth)
 * [2025-02-03, 07:06:12](https://news.ycombinator.com/item?id=42915723) - [Optimizing with Novel Calendrical Algorithms](https://jhpratt.dev/blog/optimizing-with-novel-calendrical-algorithms/)
 * [2025-02-03, 06:38:50](https://news.ycombinator.com/item?id=42915586) - [Mailspring: Cross-platform, fast, open source mail client](https://github.com/Foundry376/Mailspring)
