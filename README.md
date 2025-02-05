@@ -24,10 +24,10 @@
 * [2025-02-04, 16:06:32](https://news.ycombinator.com/item?id=42934190) - [Chat is a bad UI pattern for development tools](https://danieldelaney.net/chat/)
 * [2025-02-04, 15:44:21](https://news.ycombinator.com/item?id=42933840) - [America desperately needs more air traffic controllers](https://www.cnn.com/2025/02/04/business/air-traffic-controller-shortage/index.html)
 * [2025-02-04, 14:50:00](https://news.ycombinator.com/item?id=42933049) - [Alan Turing's \"Delilah\" project](https://spectrum.ieee.org/alan-turings-delilah)
+* [2025-02-04, 14:43:53](https://news.ycombinator.com/item?id=42932948) - [DeepRAG: Thinking to retrieval step by step for large language models](https://arxiv.org/abs/2502.01142)
 * [2025-02-03, 22:17:46](https://news.ycombinator.com/item?id=42924068) - [In Praise of Subspecies](https://aeon.co/essays/the-case-for-subspecies-the-neglected-unit-of-conservation)
 * [2025-02-03, 19:12:30](https://news.ycombinator.com/item?id=42921659) - [What really happens inside a dating app](https://blog.luap.info/what-really-happens-inside-a-dating-app.html)
 * [2025-02-03, 09:45:13](https://news.ycombinator.com/item?id=42916585) - [Where Poka-Yoke and Cybernetics Meet: Users determine the purpose of any device](https://stream.syscoi.com/2019/10/29/where-poka-yoke-and-cybernetics-meet-quality-digest-harish-jose/)
-* [2025-02-02, 06:53:45](https://news.ycombinator.com/item?id=42906638) - [Show HN: Language Learning from YouTube content](https://fluentsubs.com/)
 * [2025-02-02, 00:55:46](https://news.ycombinator.com/item?id=42904356) - [You are asking the wrong question; 3D print business advice [video]](https://www.youtube.com/watch?v=kBv48GkasnQ)
 * [2025-02-01, 08:47:33](https://news.ycombinator.com/item?id=42896918) - [I spent five years building a webapp and got my first $1 (2022)](https://codingcafe.jp/posts/signal-5yrs)
 
