@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-02-05](index.md)
 
+* [2025-02-05, 07:36:01](https://news.ycombinator.com/item?id=42945191) - [Using Terraform Workspace for AWS multi account archtetctures](https://github.com/maurobaraldi/terraform-workspaces-aws-multi-account)
+* [2025-02-05, 07:30:59](https://news.ycombinator.com/item?id=42945146) - [GNU Make Standard Library](https://gmsl.jgc.org/)
+* [2025-02-05, 06:55:04](https://news.ycombinator.com/item?id=42944858) - [NsJail: A light-weight process isolation tool for Linux](https://nsjail.dev/)
 * [2025-02-05, 05:50:16](https://news.ycombinator.com/item?id=42944371) - [Kagi – Introducing Fair Pricing](https://kagi.com/changelog#6155)
 * [2025-02-05, 05:25:19](https://news.ycombinator.com/item?id=42944203) - [The Full Story of the FAA's Hiring Scandal](https://www.tracingwoodgrains.com/p/the-full-story-of-the-faas-hiring)
 * [2025-02-05, 05:14:25](https://news.ycombinator.com/item?id=42944108) - [I coded a Pascal compiler for transputer as a teen in 1993](https://nanochess.org/pascal.html)

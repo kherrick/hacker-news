@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-05, 07:36:01](https://news.ycombinator.com/item?id=42945191) - [Using Terraform Workspace for AWS multi account archtetctures](https://github.com/maurobaraldi/terraform-workspaces-aws-multi-account)
+* [2025-02-05, 07:30:59](https://news.ycombinator.com/item?id=42945146) - [GNU Make Standard Library](https://gmsl.jgc.org/)
+* [2025-02-05, 06:55:04](https://news.ycombinator.com/item?id=42944858) - [NsJail: A light-weight process isolation tool for Linux](https://nsjail.dev/)
 * [2025-02-05, 05:50:16](https://news.ycombinator.com/item?id=42944371) - [Kagi – Introducing Fair Pricing](https://kagi.com/changelog#6155)
-* [2025-02-05, 05:25:19](https://news.ycombinator.com/item?id=42944203) - [The Full Story of the FAA's Hiring Scandal](https://www.tracingwoodgrains.com/p/the-full-story-of-the-faas-hiring)
 * [2025-02-05, 05:14:25](https://news.ycombinator.com/item?id=42944108) - [I coded a Pascal compiler for transputer as a teen in 1993](https://nanochess.org/pascal.html)
 * [2025-02-05, 04:54:04](https://news.ycombinator.com/item?id=42943973) - [They Thought They Were Free, by Milton Mayer, an Excerpt](https://press.uchicago.edu/Misc/Chicago/511928.htm)
 * [2025-02-05, 04:43:06](https://news.ycombinator.com/item?id=42943906) - [Huawei's Ascend 910C delivers 60% of Nvidia H100 inference performance](https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-research-suggests-huaweis-ascend-910c-delivers-60-percent-nvidia-h100-inference-performance)
@@ -24,10 +26,8 @@
 * [2025-02-04, 16:06:32](https://news.ycombinator.com/item?id=42934190) - [Chat is a bad UI pattern for development tools](https://danieldelaney.net/chat/)
 * [2025-02-04, 15:44:21](https://news.ycombinator.com/item?id=42933840) - [America desperately needs more air traffic controllers](https://www.cnn.com/2025/02/04/business/air-traffic-controller-shortage/index.html)
 * [2025-02-04, 14:50:00](https://news.ycombinator.com/item?id=42933049) - [Alan Turing's \"Delilah\" project](https://spectrum.ieee.org/alan-turings-delilah)
-* [2025-02-04, 14:43:53](https://news.ycombinator.com/item?id=42932948) - [DeepRAG: Thinking to retrieval step by step for large language models](https://arxiv.org/abs/2502.01142)
 * [2025-02-03, 19:12:30](https://news.ycombinator.com/item?id=42921659) - [What really happens inside a dating app](https://blog.luap.info/what-really-happens-inside-a-dating-app.html)
 * [2025-02-03, 09:45:13](https://news.ycombinator.com/item?id=42916585) - [Where Poka-Yoke and Cybernetics Meet: Users determine the purpose of any device](https://stream.syscoi.com/2019/10/29/where-poka-yoke-and-cybernetics-meet-quality-digest-harish-jose/)
-* [2025-02-02, 00:55:46](https://news.ycombinator.com/item?id=42904356) - [You are asking the wrong question; 3D print business advice [video]](https://www.youtube.com/watch?v=kBv48GkasnQ)
 * [2025-02-01, 22:29:11](https://news.ycombinator.com/item?id=42903107) - [How to Store and Dry Your 3D Filament: Full Guide](https://syntaxglow.com/2025/02/01/how-to-store-and-dry-your-3d-filament-a-complete-guide/)
 * [2025-02-01, 08:47:33](https://news.ycombinator.com/item?id=42896918) - [I spent five years building a webapp and got my first $1 (2022)](https://codingcafe.jp/posts/signal-5yrs)
 
