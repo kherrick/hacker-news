@@ -14,7 +14,6 @@
 * [2025-02-05, 16:31:24](https://news.ycombinator.com/item?id=42950929) - [Eggs US – Price – Chart](https://tradingeconomics.com/commodity/eggs-us)
 * [2025-02-05, 16:23:10](https://news.ycombinator.com/item?id=42950790) - [20k federal workers take \"buyout\" so far, official says](https://www.axios.com/2025/02/04/trump-buyout-federal-workers-20000)
 * [2025-02-05, 16:03:18](https://news.ycombinator.com/item?id=42950454) - [Gemini 2.0 is now available to everyone](https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/)
-* [2025-02-05, 15:40:57](https://news.ycombinator.com/item?id=42950066) - [Prediction Games](https://www.argmin.net/p/prediction-games)
 * [2025-02-05, 15:03:09](https://news.ycombinator.com/item?id=42949390) - [Servo's progress in 2024](https://servo.org/blog/2025/01/31/servo-in-2024/)
 * [2025-02-05, 14:55:03](https://news.ycombinator.com/item?id=42949277) - [Avoiding outrage fatigue while staying informed](https://www.scientificamerican.com/podcast/episode/how-to-avoid-outrage-fatigue-and-tune-in-without-burning-out/)
 * [2025-02-05, 14:51:53](https://news.ycombinator.com/item?id=42949232) - [The familiar loneliness of the Kinetoscope](https://resobscura.substack.com/p/the-familiar-loneliness-of-the-kinetoscope)
@@ -28,6 +27,7 @@
 * [2025-02-05, 03:18:22](https://news.ycombinator.com/item?id=42943271) - [A hexagonal-tiled cartogram for U.S. counties](https://www.jordanroga.com/blog/introducing-a-hexagonal-tiled-cartogram-for-u-s-counties)
 * [2025-02-04, 01:40:06](https://news.ycombinator.com/item?id=42926359) - [Ask HN: Do you know travel blogs that have animated SVG maps of their travels?](https://news.ycombinator.com/item?id=42926359)
 * [2025-02-03, 15:38:11](https://news.ycombinator.com/item?id=42919239) - [A luminous, brave, and unputdownable article about blurbs](https://countercraft.substack.com/p/a-luminous-brave-and-unputdownable)
+* [2025-02-03, 12:31:15](https://news.ycombinator.com/item?id=42917522) - [The Language Construction Kit](https://www.zompist.com/kit.html)
 * [2025-02-02, 04:43:00](https://news.ycombinator.com/item?id=42905900) - [Minimum effective dose](https://winnielim.org/journal/minimum-effective-dose/)
 * [2025-02-02, 01:32:33](https://news.ycombinator.com/item?id=42904670) - [A Mount Lyell shrew has just been photographed alive](https://www.sfgate.com/bayarea/article/elusive-california-mammal-photographed-20040772.php)
 
