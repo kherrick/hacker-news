@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-05, 07:36:01](https://news.ycombinator.com/item?id=42945191) - [Using Terraform Workspace for AWS multi account archtetctures](https://github.com/maurobaraldi/terraform-workspaces-aws-multi-account)
+* [2025-02-05, 07:36:01](https://news.ycombinator.com/item?id=42945191) - [Using Terraform Workspace for AWS multi account architectures](https://github.com/maurobaraldi/terraform-workspaces-aws-multi-account)
 * [2025-02-05, 07:30:59](https://news.ycombinator.com/item?id=42945146) - [GNU Make Standard Library](https://gmsl.jgc.org/)
 * [2025-02-05, 06:55:04](https://news.ycombinator.com/item?id=42944858) - [NsJail: A light-weight process isolation tool for Linux](https://nsjail.dev/)
 * [2025-02-05, 05:50:16](https://news.ycombinator.com/item?id=42944371) - [Kagi – Introducing Fair Pricing](https://kagi.com/changelog#6155)
@@ -13,7 +13,6 @@
 * [2025-02-05, 01:00:27](https://news.ycombinator.com/item?id=42941916) - [CodeCrafters (YC S22) is hiring a software engineer to change how devs learn](https://www.ycombinator.com/companies/codecrafters/jobs/EL4Oqs1-software-engineer-growth-retention)
 * [2025-02-05, 00:07:24](https://news.ycombinator.com/item?id=42941283) - [Beej's Guide to Git](https://beej.us/guide/bggit/)
 * [2025-02-04, 23:56:25](https://news.ycombinator.com/item?id=42941143) - [Ambsheets: Spreadsheets for Exploring Scenarios](https://www.inkandswitch.com/ambsheets/)
-* [2025-02-04, 23:43:34](https://news.ycombinator.com/item?id=42940999) - [Securing edge device systems, including firewalls, routers, and VPN gateways](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4052657/joint-publications-focus-on-mitigation-strategies-for-edge-devices/)
 * [2025-02-04, 23:11:38](https://news.ycombinator.com/item?id=42940553) - [Nine – seemingly impossible C64 demo](https://linusakesson.net/scene/nine/index.php)
 * [2025-02-04, 22:51:36](https://news.ycombinator.com/item?id=42940257) - [What's happening inside the NIH and NSF](https://www.science.org/content/blog-post/what-s-happening-inside-nih)
 * [2025-02-04, 22:29:48](https://news.ycombinator.com/item?id=42939940) - [Oracle justified its JavaScript trademark with Node.js–now it wants that ignored](https://deno.com/blog/deno-v-oracle2)
@@ -26,6 +25,7 @@
 * [2025-02-04, 16:06:32](https://news.ycombinator.com/item?id=42934190) - [Chat is a bad UI pattern for development tools](https://danieldelaney.net/chat/)
 * [2025-02-04, 15:44:21](https://news.ycombinator.com/item?id=42933840) - [America desperately needs more air traffic controllers](https://www.cnn.com/2025/02/04/business/air-traffic-controller-shortage/index.html)
 * [2025-02-04, 14:50:00](https://news.ycombinator.com/item?id=42933049) - [Alan Turing's \"Delilah\" project](https://spectrum.ieee.org/alan-turings-delilah)
+* [2025-02-03, 21:24:50](https://news.ycombinator.com/item?id=42923409) - [Earth Detecting Earth](https://www.seti.org/press-release/earth-detecting-earth)
 * [2025-02-03, 19:12:30](https://news.ycombinator.com/item?id=42921659) - [What really happens inside a dating app](https://blog.luap.info/what-really-happens-inside-a-dating-app.html)
 * [2025-02-03, 09:45:13](https://news.ycombinator.com/item?id=42916585) - [Where Poka-Yoke and Cybernetics Meet: Users determine the purpose of any device](https://stream.syscoi.com/2019/10/29/where-poka-yoke-and-cybernetics-meet-quality-digest-harish-jose/)
 * [2025-02-01, 22:29:11](https://news.ycombinator.com/item?id=42903107) - [How to Store and Dry Your 3D Filament: Full Guide](https://syntaxglow.com/2025/02/01/how-to-store-and-dry-your-3d-filament-a-complete-guide/)

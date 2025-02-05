@@ -10,6 +10,7 @@
 * [2025-02-03, 22:17:46](https://news.ycombinator.com/item?id=42924068) - [In Praise of Subspecies](https://aeon.co/essays/the-case-for-subspecies-the-neglected-unit-of-conservation)
 * [2025-02-03, 22:01:38](https://news.ycombinator.com/item?id=42923870) - [A computer can never be held accountable](https://simonwillison.net/2025/Feb/3/a-computer-can-never-be-held-accountable/)
 * [2025-02-03, 21:33:29](https://news.ycombinator.com/item?id=42923512) - [How Translation Works, Book Title Edition](https://whatever.scalzi.com/2025/02/03/how-translation-works-book-title-edition/)
+* [2025-02-03, 21:24:50](https://news.ycombinator.com/item?id=42923409) - [Earth Detecting Earth](https://www.seti.org/press-release/earth-detecting-earth)
 * [2025-02-03, 20:56:44](https://news.ycombinator.com/item?id=42922989) - [Open Euro LLM: Open LLMs for Transparent AI in Europe](https://openeurollm.eu/launch-press-release)
 * [2025-02-03, 20:35:26](https://news.ycombinator.com/item?id=42922695) - [Where in the U.S. Does Middle-Class Income Stretch the Furthest?](https://upgradedpoints.com/news/cities-where-middle-class-income-goes-furthest/)
 * [2025-02-03, 19:48:51](https://news.ycombinator.com/item?id=42922052) - [The Cantonese Scrolls (粵卷) – A Cantonese Language Learning Mental RPG](https://cantoscrolls.com/)
