@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-05, 04:43:06",
+      "https://news.ycombinator.com/item?id=42943906"
+    ],
+    [
+      "Huawei's Ascend 910C delivers 60% of Nvidia H100 inference performance",
+      "https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-research-suggests-huaweis-ascend-910c-delivers-60-percent-nvidia-h100-inference-performance"
+    ]
+  ],
+  [
+    [
       "2025-02-05, 04:09:35",
       "https://news.ycombinator.com/item?id=42943662"
     ],
@@ -17,6 +27,16 @@
     [
       "Zig; what I think after months of using it",
       "https://strongly-typed-thoughts.net/blog/zig-2025"
+    ]
+  ],
+  [
+    [
+      "2025-02-05, 01:43:10",
+      "https://news.ycombinator.com/item?id=42942405"
+    ],
+    [
+      "Suspension of inbound parcels from China and Hong Kong",
+      "https://about.usps.com/newsroom/service-alerts/international/suspension-of-inbound-parcels-from-china-and-hong-kong.htm"
     ]
   ],
   [
@@ -91,6 +111,16 @@
   ],
   [
     [
+      "2025-02-04, 22:51:36",
+      "https://news.ycombinator.com/item?id=42940257"
+    ],
+    [
+      "What's happening inside the NIH and NSF",
+      "https://www.science.org/content/blog-post/what-s-happening-inside-nih"
+    ]
+  ],
+  [
+    [
       "2025-02-04, 22:29:48",
       "https://news.ycombinator.com/item?id=42939940"
     ],
@@ -141,42 +171,12 @@
   ],
   [
     [
-      "2025-02-04, 18:56:08",
-      "https://news.ycombinator.com/item?id=42936910"
-    ],
-    [
-      "How to scale your model: A systems view of LLMs on TPUs",
-      "https://jax-ml.github.io/scaling-book/"
-    ]
-  ],
-  [
-    [
       "2025-02-04, 18:40:55",
       "https://news.ycombinator.com/item?id=42936723"
     ],
     [
       "WikiTok",
       "https://wikitok.vercel.app/"
-    ]
-  ],
-  [
-    [
-      "2025-02-04, 17:21:02",
-      "https://news.ycombinator.com/item?id=42935516"
-    ],
-    [
-      "Roc rewrites the compiler in Zig",
-      "https://gist.github.com/rtfeldman/77fb430ee57b42f5f2ca973a3992532f"
-    ]
-  ],
-  [
-    [
-      "2025-02-04, 17:10:51",
-      "https://news.ycombinator.com/item?id=42935355"
-    ],
-    [
-      "Launch HN: Pinch (YC W25) – Video conferencing with immersive translation",
-      "https://news.ycombinator.com/item?id=42935355"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=42904356"
     ],
     [
-      "You are asking the wrong question; 3D print business advice",
+      "You are asking the wrong question; 3D print business advice [video]",
       "https://www.youtube.com/watch?v=kBv48GkasnQ"
     ]
   ],
