@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-05](index.md)
 
+* [2025-02-05, 17:49:49](https://news.ycombinator.com/item?id=42952330) - [Google drops pledge not to use AI for weapons, surveillance](https://www.aljazeera.com/economy/2025/2/5/chk_google-drops-pledge-not-to-use-ai-for-weapons-surveillance)
 * [2025-02-05, 17:33:37](https://news.ycombinator.com/item?id=42952088) - [Teslas turn toxic as sales crash in Europe and the UK](https://arstechnica.com/cars/2025/02/tesla-sales-plummet-in-the-uk-france-and-germany/)
 * [2025-02-05, 17:00:43](https://news.ycombinator.com/item?id=42951511) - [Ploomber (YC W22) Is Hiring Engineers (Infra, Back End, Growth)](https://www.ycombinator.com/companies/ploomber/jobs)
 * [2025-02-05, 16:58:14](https://news.ycombinator.com/item?id=42951458) - [Doge Staff Stop Using Slack as Agency Transitions to System Not Subject to FOIA](https://www.404media.co/doge-employees-ordered-to-stop-using-slack-while-agency-transitions-to-a-records-system-not-subject-to-foia/)

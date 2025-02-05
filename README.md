@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-05, 17:49:49](https://news.ycombinator.com/item?id=42952330) - [Google drops pledge not to use AI for weapons, surveillance](https://www.aljazeera.com/economy/2025/2/5/chk_google-drops-pledge-not-to-use-ai-for-weapons-surveillance)
 * [2025-02-05, 17:33:37](https://news.ycombinator.com/item?id=42952088) - [Teslas turn toxic as sales crash in Europe and the UK](https://arstechnica.com/cars/2025/02/tesla-sales-plummet-in-the-uk-france-and-germany/)
 * [2025-02-05, 17:00:43](https://news.ycombinator.com/item?id=42951511) - [Ploomber (YC W22) Is Hiring Engineers (Infra, Backend, Growth)](https://www.ycombinator.com/companies/ploomber/jobs)
 * [2025-02-05, 16:31:24](https://news.ycombinator.com/item?id=42950929) - [US egg prices increased 22% in 2025 and 202% in 12 months](https://tradingeconomics.com/commodity/eggs-us)
@@ -10,7 +11,6 @@
 * [2025-02-05, 14:55:03](https://news.ycombinator.com/item?id=42949277) - [Avoiding outrage fatigue while staying informed](https://www.scientificamerican.com/podcast/episode/how-to-avoid-outrage-fatigue-and-tune-in-without-burning-out/)
 * [2025-02-05, 14:47:32](https://news.ycombinator.com/item?id=42949181) - [Why Is Warner Brothers Discovery Dumping Old Movies On YouTube?](https://tedium.co/2025/02/05/warner-bros-youtube-full-movie-releases/)
 * [2025-02-05, 14:37:02](https://news.ycombinator.com/item?id=42949019) - [Show HN: Matle – A Daily Chess Puzzle Inspired by Wordle](https://www.matle.io/)
-* [2025-02-05, 13:44:26](https://news.ycombinator.com/item?id=42948373) - [F-Droid Awarded Open Technology Fund's FOSS Sustainability Grant](https://f-droid.org/2025/02/05/f-droid-awarded-otf-grant.html)
 * [2025-02-05, 13:36:08](https://news.ycombinator.com/item?id=42948259) - [Personal Software](https://leerob.com/n/personal-software)
 * [2025-02-05, 12:09:23](https://news.ycombinator.com/item?id=42947383) - [Fiwix: Small Unix-Like Kernel](https://www.fiwix.org/)
 * [2025-02-05, 11:05:40](https://news.ycombinator.com/item?id=42946854) - [S1: The $6 R1 Competitor?](https://timkellogg.me/blog/2025/02/03/s1)
