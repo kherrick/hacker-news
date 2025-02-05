@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-05, 17:49:49](https://news.ycombinator.com/item?id=42952330) - [Google drops pledge not to use AI for weapons, surveillance](https://www.aljazeera.com/economy/2025/2/5/chk_google-drops-pledge-not-to-use-ai-for-weapons-surveillance)
-* [2025-02-05, 17:33:37](https://news.ycombinator.com/item?id=42952088) - [Teslas turn toxic as sales crash in Europe and the UK](https://arstechnica.com/cars/2025/02/tesla-sales-plummet-in-the-uk-france-and-germany/)
+* [2025-02-05, 18:15:50](https://news.ycombinator.com/item?id=42952763) - [NASA Ordered to Remove Anything About 'Women in Leadership' from Its Websites](https://gizmodo.com/nasa-ordered-to-remove-anything-about-women-in-leadership-from-its-websites-report-2000559596)
+* [2025-02-05, 18:05:28](https://news.ycombinator.com/item?id=42952605) - [Ingesting PDFs and Why Gemini 2.0 Changes Everything](https://www.sergey.fyi/articles/gemini-flash-2)
+* [2025-02-05, 18:04:20](https://news.ycombinator.com/item?id=42952584) - [Running ArchiveTeam's Warrior in Kubernetes](https://gabrielsimmer.com/blog/archiveteam-warrior-kubernetes)
+* [2025-02-05, 17:48:23](https://news.ycombinator.com/item?id=42952306) - [The New York Times Has Spent $10.8M in Its Legal Battle with OpenAI So Far](https://www.hollywoodreporter.com/business/business-news/new-york-times-legal-battle-openai-1236127637/)
 * [2025-02-05, 17:00:43](https://news.ycombinator.com/item?id=42951511) - [Ploomber (YC W22) Is Hiring Engineers (Infra, Backend, Growth)](https://www.ycombinator.com/companies/ploomber/jobs)
 * [2025-02-05, 16:31:24](https://news.ycombinator.com/item?id=42950929) - [US egg prices increased 22% in 2025 and 202% in 12 months](https://tradingeconomics.com/commodity/eggs-us)
 * [2025-02-05, 16:03:18](https://news.ycombinator.com/item?id=42950454) - [Gemini 2.0 is now available to everyone](https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/)
@@ -26,10 +28,8 @@
 * [2025-02-03, 22:26:35](https://news.ycombinator.com/item?id=42924182) - [MTR: 'traceroute' and 'ping' in a single tool](https://www.bitwizard.nl/mtr/)
 * [2025-02-03, 07:44:07](https://news.ycombinator.com/item?id=42915901) - [Catgrad: A categorical deep learning compiler](https://catgrad.com/)
 * [2025-02-03, 07:19:29](https://news.ycombinator.com/item?id=42915786) - [Julia and JuliaHub: Advancing Innovation and Growth](https://info.juliahub.com/blog/julia-juliahub-advancing-innovation-and-growth)
-* [2025-02-03, 06:07:00](https://news.ycombinator.com/item?id=42915435) - [Show HN: Apitally – A simple, privacy-focused API monitoring and analytics tool](https://apitally.io)
 * [2025-02-02, 16:25:38](https://news.ycombinator.com/item?id=42909613) - [Exploring Nine Simultaneous Transients on April 12th, 1950 (2021)](https://www.nature.com/articles/s41598-021-92162-7)
 * [2025-02-02, 01:32:33](https://news.ycombinator.com/item?id=42904670) - [An elusive California mammal has just been photographed alive](https://www.sfgate.com/bayarea/article/elusive-california-mammal-photographed-20040772.php)
-* [2025-02-01, 08:47:33](https://news.ycombinator.com/item?id=42896918) - [I spent five years building a webapp and got my first $1 (2022)](https://codingcafe.jp/posts/signal-5yrs)
 
 ## [Archives](archives/index.md)
 
