@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-05](index.md)
 
+* [2025-02-05, 21:10:25](https://news.ycombinator.com/item?id=42955176) - [Okta Bcrypt incident lessons for designing better APIs](https://n0rdy.foo/posts/20250121/okta-bcrypt-lessons-for-better-apis/)
 * [2025-02-05, 20:39:46](https://news.ycombinator.com/item?id=42954773) - [S1: The $6 R1 Competitor?](https://simonwillison.net/2025/Feb/5/s1-the-6-r1-competitor/)
 * [2025-02-05, 20:26:00](https://news.ycombinator.com/item?id=42954621) - [DARPA solicitation for the Active Social Engineering Defense program (2017)](https://www.highergov.com/contract-opportunity/active-social-engineering-defense-ased-hr001117s0050-p-67f55/)
 * [2025-02-05, 20:24:12](https://news.ycombinator.com/item?id=42954598) - [Google Kills Diversity Hiring Targets](https://www.wsj.com/tech/google-kills-diversity-hiring-targets-04433d7c)

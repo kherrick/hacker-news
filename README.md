@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-05, 21:10:25](https://news.ycombinator.com/item?id=42955176) - [Okta Bcrypt incident lessons for designing better APIs](https://n0rdy.foo/posts/20250121/okta-bcrypt-lessons-for-better-apis/)
 * [2025-02-05, 20:26:00](https://news.ycombinator.com/item?id=42954621) - [DARPA solicitation for the Active Social Engineering Defense program (2017)](https://www.highergov.com/contract-opportunity/active-social-engineering-defense-ased-hr001117s0050-p-67f55/)
 * [2025-02-05, 20:24:12](https://news.ycombinator.com/item?id=42954598) - [Google Kills Diversity Hiring Targets](https://www.wsj.com/tech/google-kills-diversity-hiring-targets-04433d7c)
 * [2025-02-05, 19:08:12](https://news.ycombinator.com/item?id=42953508) - [Cloudflare Is Blocking Pale Moon and other non-mainstream browsers](https://news.ycombinator.com/item?id=42953508)
 * [2025-02-05, 18:45:55](https://news.ycombinator.com/item?id=42953206) - [Zig Guide](https://zig.guide/)
 * [2025-02-05, 18:43:28](https://news.ycombinator.com/item?id=42953168) - [The Sudoku Affair](https://explaining.software/archive/the-sudoku-affair/)
-* [2025-02-05, 18:40:40](https://news.ycombinator.com/item?id=42953120) - [Implementation of a RingBuffer in Java with optional FIFO like semantics](https://github.com/evolvedbinary/j8cu)
 * [2025-02-05, 18:29:30](https://news.ycombinator.com/item?id=42952960) - [Andrej Karpathy: Deep Dive into LLMs Like ChatGPT [video]](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 * [2025-02-05, 18:13:25](https://news.ycombinator.com/item?id=42952720) - [21st Century C++](https://cacm.acm.org/blogcacm/21st-century-c/)
 * [2025-02-05, 18:05:28](https://news.ycombinator.com/item?id=42952605) - [Ingesting PDFs and why Gemini 2.0 changes everything](https://www.sergey.fyi/articles/gemini-flash-2)
