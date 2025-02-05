@@ -51,6 +51,7 @@
 * [2025-02-03, 12:21:52](https://news.ycombinator.com/item?id=42917454) - [YouTube shut down audio developer's channel of 15 years standing for \"reasons\"](https://bsky.app/profile/sinevibes.bsky.social/post/3lhazuyn5as2t)
 * [2025-02-03, 12:19:19](https://news.ycombinator.com/item?id=42917434) - [When Bohr got it wrong: the impact of a little-known paper on quantum theory](https://physicsworld.com/a/when-bohr-got-it-wrong-the-impact-of-a-little-known-paper-on-the-development-of-quantum-theory/)
 * [2025-02-03, 12:14:03](https://news.ycombinator.com/item?id=42917396) - [Converge (YC S23) will review your YC application before you submit](https://news.ycombinator.com/item?id=42917396)
+* [2025-02-03, 12:02:27](https://news.ycombinator.com/item?id=42917338) - [How to Prepare Your Next RPG Campaign Instantly](https://rpgtabletops.com/products/the-ultimate-maps-bundle)
 * [2025-02-03, 10:47:33](https://news.ycombinator.com/item?id=42916934) - [Show HN: Calculate Your Revenue](https://postmake.io/revenue)
 * [2025-02-03, 10:31:13](https://news.ycombinator.com/item?id=42916849) - [AI systems with 'unacceptable risk' are now banned in the EU](https://techcrunch.com/2025/02/02/ai-systems-with-unacceptable-risk-are-now-banned-in-the-eu/)
 * [2025-02-03, 10:17:41](https://news.ycombinator.com/item?id=42916770) - [Bluesky now has 30 million users](https://bsky.app/profile/bsky.app/post/3lgu4lg6j2k2v)
