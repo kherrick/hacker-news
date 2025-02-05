@@ -57,6 +57,7 @@
 * [2025-02-02, 01:40:09](https://news.ycombinator.com/item?id=42904723) - [Compiling Java into Native Binaries with Graal and Mill](https://mill-build.org/blog/7-graal-native-executables.html)
 * [2025-02-02, 01:20:54](https://news.ycombinator.com/item?id=42904578) - [Researchers just discovered an new class of life living inside humans](https://bgr.com/science/researchers-just-discovered-an-entirely-new-class-of-life-living-inside-humans/)
 * [2025-02-02, 00:56:38](https://news.ycombinator.com/item?id=42904370) - [DOGE Staff Had Questions About the 'Resign' Email. Their HR Chief Dodged Them](https://www.wired.com/story/doge-hr-elon-musk-resignation-fork-road-leaked-staff-meeting/)
+* [2025-02-02, 00:55:46](https://news.ycombinator.com/item?id=42904356) - [You are asking the wrong question; 3D print business advice](https://www.youtube.com/watch?v=kBv48GkasnQ)
 * [2025-02-02, 00:42:27](https://news.ycombinator.com/item?id=42904244) - [Medical billing firm Medusind discloses breach affecting 360k people](https://www.bleepingcomputer.com/news/security/medical-billing-firm-medusind-discloses-breach-affecting-360-000-people/)
 * [2025-02-02, 00:27:05](https://news.ycombinator.com/item?id=42904116) - [How to Run DeepSeek R1 Distilled Reasoning Models on RyzenAI and Radeon GPUs](https://www.guru3d.com/story/amd-explains-how-to-run-deepseek-r1-distilled-reasoning-models-on-amd-ryzen-ai-and-radeon/)
 * [2025-02-02, 00:23:15](https://news.ycombinator.com/item?id=42904094) - [AI realtime mock interview tool](https://prepin.ai)

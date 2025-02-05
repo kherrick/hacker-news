@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-05, 04:09:35](https://news.ycombinator.com/item?id=42943662) - [Nellie Bly](https://en.wikipedia.org/wiki/Nellie_Bly)
 * [2025-02-05, 02:04:55](https://news.ycombinator.com/item?id=42942618) - [Zig; what I think after months of using it](https://strongly-typed-thoughts.net/blog/zig-2025)
 * [2025-02-05, 01:13:59](https://news.ycombinator.com/item?id=42942061) - [Changes in schizophrenia diagnoses associated with cannabis use disorder](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2829840)
 * [2025-02-05, 01:01:09](https://news.ycombinator.com/item?id=42941924) - [We need network societies, not network states (2024)](https://www.cip.org/blog/network-societies)
@@ -13,7 +14,6 @@
 * [2025-02-04, 22:02:35](https://news.ycombinator.com/item?id=42939562) - [The APL Challenge](https://challenge.dyalog.com/)
 * [2025-02-04, 20:28:16](https://news.ycombinator.com/item?id=42938125) - [Google drops pledge not to use AI for weapons or surveillance](https://www.washingtonpost.com/technology/2025/02/04/google-ai-policies-weapons-harm)
 * [2025-02-04, 19:55:27](https://news.ycombinator.com/item?id=42937701) - [Open Deep Research](https://github.com/huggingface/smolagents/tree/main/examples/open_deep_research)
-* [2025-02-04, 18:56:08](https://news.ycombinator.com/item?id=42936910) - [How to scale your model: A systems view of LLMs on TPUs](https://jax-ml.github.io/scaling-book/)
 * [2025-02-04, 18:40:55](https://news.ycombinator.com/item?id=42936723) - [WikiTok](https://wikitok.vercel.app/)
 * [2025-02-04, 17:21:02](https://news.ycombinator.com/item?id=42935516) - [Roc rewrites the compiler in Zig](https://gist.github.com/rtfeldman/77fb430ee57b42f5f2ca973a3992532f)
 * [2025-02-04, 17:10:51](https://news.ycombinator.com/item?id=42935355) - [Launch HN: Pinch (YC W25) – Video conferencing with immersive translation](https://news.ycombinator.com/item?id=42935355)
@@ -26,7 +26,7 @@
 * [2025-02-03, 19:12:30](https://news.ycombinator.com/item?id=42921659) - [What really happens inside a dating app](https://blog.luap.info/what-really-happens-inside-a-dating-app.html)
 * [2025-02-03, 08:11:58](https://news.ycombinator.com/item?id=42916034) - [Show HN: Gave Claude LSD SQL](https://github.com/lsd-so/lsd-mcp)
 * [2025-02-02, 06:53:45](https://news.ycombinator.com/item?id=42906638) - [Show HN: Language Learning from YouTube content](https://fluentsubs.com/)
-* [2025-02-02, 00:23:15](https://news.ycombinator.com/item?id=42904094) - [AI realtime mock interview tool](https://prepin.ai)
+* [2025-02-02, 00:55:46](https://news.ycombinator.com/item?id=42904356) - [You are asking the wrong question; 3D print business advice](https://www.youtube.com/watch?v=kBv48GkasnQ)
 * [2025-02-01, 09:33:36](https://news.ycombinator.com/item?id=42897151) - [Push Notifications for Decentralized Services](https://unifiedpush.org/news/20250131_push_for_decentralized/)
 * [2025-02-01, 08:47:33](https://news.ycombinator.com/item?id=42896918) - [I spent five years building a webapp and got my first $1 (2022)](https://codingcafe.jp/posts/signal-5yrs)
 * [2025-02-01, 08:21:45](https://news.ycombinator.com/item?id=42896797) - [Natural fission reactors in the Franceville basin, Gabon](https://www.sciencedirect.com/science/article/abs/pii/S0016703796002451)
