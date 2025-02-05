@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-05, 13:44:26](https://news.ycombinator.com/item?id=42948373) - [F-Droid Awarded Open Technology Fund's FOSS Sustainability Grant](https://f-droid.org/2025/02/05/f-droid-awarded-otf-grant.html)
+* [2025-02-05, 12:09:23](https://news.ycombinator.com/item?id=42947383) - [Fiwix: Small Unix-Like Kernel](https://www.fiwix.org/)
 * [2025-02-05, 12:01:00](https://news.ycombinator.com/item?id=42947306) - [Toma (YC W24) Is Hiring a Founding Platform Engineer](https://www.ycombinator.com/companies/toma/jobs/eyhn3Si-founding-platform-engineer)
 * [2025-02-05, 11:30:36](https://news.ycombinator.com/item?id=42947049) - [Microsoft deletes official Windows 11 CPU/TPM bypass for unsupported PCs](https://www.neowin.net/news/microsoft-quietly-removes-official-windows-11-cputpm-bypass-for-unsupported-pcs/)
 * [2025-02-05, 11:05:40](https://news.ycombinator.com/item?id=42946854) - [S1: The $6 R1 Competitor?](https://timkellogg.me/blog/2025/02/03/s1)
@@ -25,7 +26,6 @@
 * [2025-02-04, 16:21:58](https://news.ycombinator.com/item?id=42934422) - [Apple Invites](https://www.apple.com/newsroom/2025/02/introducing-apple-invites-a-new-app-that-brings-people-together/)
 * [2025-02-04, 15:44:21](https://news.ycombinator.com/item?id=42933840) - [America desperately needs more air traffic controllers](https://www.cnn.com/2025/02/04/business/air-traffic-controller-shortage/index.html)
 * [2025-02-03, 22:26:35](https://news.ycombinator.com/item?id=42924182) - [MTR: 'traceroute' and 'ping' in a single tool](https://www.bitwizard.nl/mtr/)
-* [2025-02-03, 21:24:50](https://news.ycombinator.com/item?id=42923409) - [Earth Detecting Earth](https://www.seti.org/press-release/earth-detecting-earth)
 * [2025-02-03, 07:19:29](https://news.ycombinator.com/item?id=42915786) - [Julia and JuliaHub: Advancing Innovation and Growth](https://info.juliahub.com/blog/julia-juliahub-advancing-innovation-and-growth)
 * [2025-02-03, 06:07:00](https://news.ycombinator.com/item?id=42915435) - [Show HN: Apitally – A simple, privacy-focused API monitoring and analytics tool](https://apitally.io)
 * [2025-02-02, 08:47:02](https://news.ycombinator.com/item?id=42907239) - [Calculate the number of language model tokens for a string](https://blog.mastykarz.nl/calculate-number-language-model-tokens-string/)
