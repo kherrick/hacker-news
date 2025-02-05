@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-02-05, 20:24:12",
-      "https://news.ycombinator.com/item?id=42954598"
-    ],
-    [
-      "Google Kills Diversity Hiring Targets",
-      "https://www.wsj.com/tech/google-kills-diversity-hiring-targets-04433d7c"
-    ]
-  ],
-  [
-    [
       "2025-02-05, 19:08:12",
       "https://news.ycombinator.com/item?id=42953508"
     ],
@@ -287,6 +277,16 @@
     [
       "Conway's Law (2022)",
       "https://martinfowler.com/bliki/ConwaysLaw.html"
+    ]
+  ],
+  [
+    [
+      "2025-02-03, 07:44:07",
+      "https://news.ycombinator.com/item?id=42915901"
+    ],
+    [
+      "Catgrad: A categorical deep learning compiler",
+      "https://catgrad.com/"
     ]
   ],
   [
