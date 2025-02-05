@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-02-05](index.md)
 
+* [2025-02-05, 18:45:55](https://news.ycombinator.com/item?id=42953206) - [Zig Guide](https://zig.guide/)
 * [2025-02-05, 18:40:40](https://news.ycombinator.com/item?id=42953120) - [Implementation of a RingBuffer in Java with optional FIFO like semantics](https://github.com/evolvedbinary/j8cu)
 * [2025-02-05, 18:29:30](https://news.ycombinator.com/item?id=42952960) - [Andrej Karpathy: Deep Dive into LLMs Like ChatGPT [video]](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 * [2025-02-05, 18:15:50](https://news.ycombinator.com/item?id=42952763) - [NASA Ordered to Remove Anything About 'Women in Leadership' from Its Websites](https://gizmodo.com/nasa-ordered-to-remove-anything-about-women-in-leadership-from-its-websites-report-2000559596)
+* [2025-02-05, 18:13:25](https://news.ycombinator.com/item?id=42952720) - [21st Century C++](https://cacm.acm.org/blogcacm/21st-century-c/)
 * [2025-02-05, 18:05:28](https://news.ycombinator.com/item?id=42952605) - [Ingesting PDFs and Why Gemini 2.0 Changes Everything](https://www.sergey.fyi/articles/gemini-flash-2)
 * [2025-02-05, 18:04:20](https://news.ycombinator.com/item?id=42952584) - [Running ArchiveTeam's Warrior in Kubernetes](https://gabrielsimmer.com/blog/archiveteam-warrior-kubernetes)
 * [2025-02-05, 17:49:49](https://news.ycombinator.com/item?id=42952330) - [Google drops pledge not to use AI for weapons, surveillance](https://www.aljazeera.com/economy/2025/2/5/chk_google-drops-pledge-not-to-use-ai-for-weapons-surveillance)
