@@ -44,6 +44,7 @@
 * [2025-02-02, 08:13:49](https://news.ycombinator.com/item?id=42907060) - [Sound & Efficient Generation of DOP Exploits via Programming Language Synthesis [pdf]](https://ilyasergey.net/assets/pdf/papers/doppler-usenix25.pdf)
 * [2025-02-02, 07:14:53](https://news.ycombinator.com/item?id=42906757) - [Solving key challenges in AI-assisted code reviews](https://www.qodo.ai/blog/qodo-merge-solving-key-challenges-in-ai-assisted-code-reviews/)
 * [2025-02-02, 07:14:43](https://news.ycombinator.com/item?id=42906756) - [Show HN: I built a full mulimodal LLM by merging multiple models into one](https://github.com/JigsawStack/omiai)
+* [2025-02-02, 06:53:45](https://news.ycombinator.com/item?id=42906638) - [Show HN: Language Learning from YouTube content](https://fluentsubs.com/)
 * [2025-02-02, 05:52:15](https://news.ycombinator.com/item?id=42906311) - [800x Speed Boost on Nvidia GPUs](https://www.scmp.com/news/china/science/article/3296135/chinese-algorithm-boosts-nvidia-gpu-performance-800-fold-science-computing)
 * [2025-02-02, 04:52:28](https://news.ycombinator.com/item?id=42905937) - [CDC orders mass retraction of research across all science and medicine journals](https://insidemedicine.substack.com/p/breaking-news-cdc-orders-mass-retraction)
 * [2025-02-02, 04:29:06](https://news.ycombinator.com/item?id=42905821) - [Splitting from Handmade Network](https://handmadecities.com/news/splitting-from-handmade-network/)
