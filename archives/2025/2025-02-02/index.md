@@ -27,6 +27,7 @@
 * [2025-02-02, 17:18:45](https://news.ycombinator.com/item?id=42910013) - [Mutool – all purpose tool for dealing with PDF files](https://www.mankier.com/1/mutool)
 * [2025-02-02, 17:07:31](https://news.ycombinator.com/item?id=42909921) - [Everyone knows your location: tracking myself down through in-app ads](https://timsh.org/tracking-myself-down-through-in-app-ads/)
 * [2025-02-02, 16:47:35](https://news.ycombinator.com/item?id=42909776) - [US Government Websites Are Disappearing in Real Time](https://www.wired.com/story/us-government-websites-are-disappearing-in-real-time/)
+* [2025-02-02, 16:25:38](https://news.ycombinator.com/item?id=42909613) - [Exploring Nine Simultaneous Transients on April 12th, 1950 (2021)](https://www.nature.com/articles/s41598-021-92162-7)
 * [2025-02-02, 16:14:49](https://news.ycombinator.com/item?id=42909530) - [Sniffnet – monitor your Internet traffic](https://github.com/GyulyVGC/sniffnet)
 * [2025-02-02, 15:19:32](https://news.ycombinator.com/item?id=42909166) - [Ask HN: What is interviewing like now with everyone using AI?](https://news.ycombinator.com/item?id=42909166)
 * [2025-02-02, 15:05:08](https://news.ycombinator.com/item?id=42909068) - [Wolves explain America's urban-rural divide](https://thehustle.co/originals/how-wolves-explain-americas-urban-rural-divide)
