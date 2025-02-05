@@ -10,6 +10,7 @@
 * [2025-02-01, 23:16:43](https://news.ycombinator.com/item?id=42903564) - [Wealth inequality risks triggering 'societal collapse' within next decade](https://www.kcl.ac.uk/news/wealth-inequality-risks-triggering-societal-collapse-within-next-decade-report-finds)
 * [2025-02-01, 22:54:04](https://news.ycombinator.com/item?id=42903336) - [Philip Low Unmasking Musk](https://bsky.app/profile/brainking.bsky.social/post/3lgsco7cdnc26)
 * [2025-02-01, 22:34:30](https://news.ycombinator.com/item?id=42903151) - [US Government Websites Are Disappearing in Real Time](https://www.wired.com/story/us-government-websites-are-disappearing-in-real-time/)
+* [2025-02-01, 22:29:11](https://news.ycombinator.com/item?id=42903107) - [How to Store and Dry Your 3D Filament: Full Guide](https://syntaxglow.com/2025/02/01/how-to-store-and-dry-your-3d-filament-a-complete-guide/)
 * [2025-02-01, 22:11:45](https://news.ycombinator.com/item?id=42902936) - [RLHF Book](https://rlhfbook.com/)
 * [2025-02-01, 21:46:16](https://news.ycombinator.com/item?id=42902691) - [Macrodata Refinement](https://lumon-industries.com/)
 * [2025-02-01, 21:44:59](https://news.ycombinator.com/item?id=42902678) - [USDA Inspector General Who Refused to Leave Escorted from Office by Security](https://gizmodo.com/usda-inspector-general-who-refused-to-leave-post-escorted-from-office-by-security-2000556605)
