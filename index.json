@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=42945191"
     ],
     [
-      "Using Terraform Workspace for AWS multi account archtetctures",
+      "Using Terraform Workspace for AWS multi account architectures",
       "https://github.com/maurobaraldi/terraform-workspaces-aws-multi-account"
     ]
   ],
@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2025-02-04, 23:43:34",
-      "https://news.ycombinator.com/item?id=42940999"
-    ],
-    [
-      "Securing edge device systems, including firewalls, routers, and VPN gateways",
-      "https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4052657/joint-publications-focus-on-mitigation-strategies-for-edge-devices/"
-    ]
-  ],
-  [
-    [
       "2025-02-04, 23:11:38",
       "https://news.ycombinator.com/item?id=42940553"
     ],
@@ -257,6 +247,16 @@
     [
       "Alan Turing's \"Delilah\" project",
       "https://spectrum.ieee.org/alan-turings-delilah"
+    ]
+  ],
+  [
+    [
+      "2025-02-03, 21:24:50",
+      "https://news.ycombinator.com/item?id=42923409"
+    ],
+    [
+      "Earth Detecting Earth",
+      "https://www.seti.org/press-release/earth-detecting-earth"
     ]
   ],
   [
