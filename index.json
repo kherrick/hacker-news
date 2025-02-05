@@ -1,6 +1,56 @@
 [
   [
     [
+      "2025-02-05, 01:00:27",
+      "https://news.ycombinator.com/item?id=42941916"
+    ],
+    [
+      "CodeCrafters (YC S22) is hiring a software engineer to change how devs learn",
+      "https://www.ycombinator.com/companies/codecrafters/jobs/EL4Oqs1-software-engineer-growth-retention"
+    ]
+  ],
+  [
+    [
+      "2025-02-05, 00:07:24",
+      "https://news.ycombinator.com/item?id=42941283"
+    ],
+    [
+      "Beej's Guide to Git",
+      "https://beej.us/guide/bggit/"
+    ]
+  ],
+  [
+    [
+      "2025-02-04, 23:56:25",
+      "https://news.ycombinator.com/item?id=42941143"
+    ],
+    [
+      "Ambsheets: Spreadsheets for Exploring Scenarios",
+      "https://www.inkandswitch.com/ambsheets/"
+    ]
+  ],
+  [
+    [
+      "2025-02-04, 23:43:34",
+      "https://news.ycombinator.com/item?id=42940999"
+    ],
+    [
+      "Securing edge device systems, including firewalls, routers, and VPN gateways",
+      "https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4052657/joint-publications-focus-on-mitigation-strategies-for-edge-devices/"
+    ]
+  ],
+  [
+    [
+      "2025-02-04, 23:11:38",
+      "https://news.ycombinator.com/item?id=42940553"
+    ],
+    [
+      "Nine – seemingly impossible C64 demo",
+      "https://linusakesson.net/scene/nine/index.php"
+    ]
+  ],
+  [
+    [
       "2025-02-04, 22:53:05",
       "https://news.ycombinator.com/item?id=42940284"
     ],
@@ -31,6 +81,16 @@
   ],
   [
     [
+      "2025-02-04, 22:25:32",
+      "https://news.ycombinator.com/item?id=42939862"
+    ],
+    [
+      "Infosec 101 for Activists",
+      "https://infosecforactivists.org"
+    ]
+  ],
+  [
+    [
       "2025-02-04, 22:02:35",
       "https://news.ycombinator.com/item?id=42939562"
     ],
@@ -47,26 +107,6 @@
     [
       "Government planned it 7 years, beavers built a dam in 2 days and saved $1M",
       "https://www.voxnews.al/english/kosovabota/qeveria-po-e-planifikonte-prej-7-vitesh-kastoret-ndertojne-brenda-dy--i84652"
-    ]
-  ],
-  [
-    [
-      "2025-02-04, 21:00:06",
-      "https://news.ycombinator.com/item?id=42938592"
-    ],
-    [
-      "Roame (YC S23) Is Hiring an AI Fullstack Lead",
-      "https://www.ycombinator.com/companies/roame/jobs/V1aMBGc-lead-ai-full-stack-engineer"
-    ]
-  ],
-  [
-    [
-      "2025-02-04, 20:58:06",
-      "https://news.ycombinator.com/item?id=42938555"
-    ],
-    [
-      "TrailBase: Sub-millisecond open-source application base with Rust, SQLite and V8",
-      "https://trailbase.io/reference/benchmarks/"
     ]
   ],
   [
@@ -121,16 +161,6 @@
   ],
   [
     [
-      "2025-02-04, 17:56:34",
-      "https://news.ycombinator.com/item?id=42936086"
-    ],
-    [
-      "The Slotted Counter Pattern (2020)",
-      "https://planetscale.com/blog/the-slotted-counter-pattern"
-    ]
-  ],
-  [
-    [
       "2025-02-04, 17:21:02",
       "https://news.ycombinator.com/item?id=42935516"
     ],
@@ -147,16 +177,6 @@
     [
       "Launch HN: Pinch (YC W25) – Video conferencing with immersive translation",
       "https://news.ycombinator.com/item?id=42935355"
-    ]
-  ],
-  [
-    [
-      "2025-02-04, 17:02:20",
-      "https://news.ycombinator.com/item?id=42935218"
-    ],
-    [
-      "Show HN: Haystack Code Reviewer – Perform code reviews on a canvas",
-      "https://haystackeditor.com/code-reviewer"
     ]
   ],
   [
@@ -221,26 +241,6 @@
   ],
   [
     [
-      "2025-02-04, 13:39:12",
-      "https://news.ycombinator.com/item?id=42932148"
-    ],
-    [
-      "Build your own SQLite, Part 4: reading tables metadata",
-      "https://blog.sylver.dev/build-your-own-sqlite-part-4-reading-tables-metadata"
-    ]
-  ],
-  [
-    [
-      "2025-02-04, 11:39:56",
-      "https://news.ycombinator.com/item?id=42931109"
-    ],
-    [
-      "Radiant Foam: Real-Time Differentiable Ray Tracing",
-      "https://radfoam.github.io"
-    ]
-  ],
-  [
-    [
       "2025-02-03, 19:12:30",
       "https://news.ycombinator.com/item?id=42921659"
     ],
@@ -257,6 +257,16 @@
     [
       "Splitting from Handmade Network",
       "https://handmadecities.com/news/splitting-from-handmade-network/"
+    ]
+  ],
+  [
+    [
+      "2025-02-02, 00:23:15",
+      "https://news.ycombinator.com/item?id=42904094"
+    ],
+    [
+      "AI realtime mock interview tool",
+      "https://prepin.ai"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Natural fission reactors in the Franceville basin, Gabon",
       "https://www.sciencedirect.com/science/article/abs/pii/S0016703796002451"
-    ]
-  ],
-  [
-    [
-      "2025-01-31, 15:20:31",
-      "https://news.ycombinator.com/item?id=42888538"
-    ],
-    [
-      "Motion sickness accessibility in video games",
-      "https://madelinemiller.dev/blog/motion-sickness-accessibility/"
     ]
   ]
 ]
