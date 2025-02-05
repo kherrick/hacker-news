@@ -55,6 +55,7 @@
 * [2025-02-03, 10:31:13](https://news.ycombinator.com/item?id=42916849) - [AI systems with 'unacceptable risk' are now banned in the EU](https://techcrunch.com/2025/02/02/ai-systems-with-unacceptable-risk-are-now-banned-in-the-eu/)
 * [2025-02-03, 10:17:41](https://news.ycombinator.com/item?id=42916770) - [Bluesky now has 30 million users](https://bsky.app/profile/bsky.app/post/3lgu4lg6j2k2v)
 * [2025-02-03, 09:45:13](https://news.ycombinator.com/item?id=42916585) - [Where Poka-Yoke and Cybernetics Meet: Users determine the purpose of any device](https://stream.syscoi.com/2019/10/29/where-poka-yoke-and-cybernetics-meet-quality-digest-harish-jose/)
+* [2025-02-03, 09:43:05](https://news.ycombinator.com/item?id=42916574) - [Conway's Law (2022)](https://martinfowler.com/bliki/ConwaysLaw.html)
 * [2025-02-03, 09:25:12](https://news.ycombinator.com/item?id=42916464) - [DeepSeek gives Europe's tech firms a chance to catch up](https://www.reuters.com/technology/artificial-intelligence/deepseek-gives-europes-tech-firms-chance-catch-up-global-ai-race-2025-02-03/)
 * [2025-02-03, 09:16:26](https://news.ycombinator.com/item?id=42916400) - [Google removed 2.36M apps from Google Play using AI threat detection](https://security.googleblog.com/2025/01/how-we-kept-google-play-android-app-ecosystem-safe-2024.html)
 * [2025-02-03, 08:46:27](https://news.ycombinator.com/item?id=42916219) - [Bayesian Epistemology](https://plato.stanford.edu/entries/epistemology-bayesian/)
