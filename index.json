@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-02-05, 11:15:01",
-      "https://news.ycombinator.com/item?id=42946918"
+      "2025-02-05, 12:01:00",
+      "https://news.ycombinator.com/item?id=42947306"
     ],
     [
-      "HN as TikTok: Welcome to HN Hell",
-      "https://hnhell.com"
+      "Toma (YC W24) Is Hiring a Founding Platform Engineer",
+      "https://www.ycombinator.com/companies/toma/jobs/eyhn3Si-founding-platform-engineer"
+    ]
+  ],
+  [
+    [
+      "2025-02-05, 11:30:36",
+      "https://news.ycombinator.com/item?id=42947049"
+    ],
+    [
+      "Microsoft deletes official Windows 11 CPU/TPM bypass for unsupported PCs",
+      "https://www.neowin.net/news/microsoft-quietly-removes-official-windows-11-cputpm-bypass-for-unsupported-pcs/"
+    ]
+  ],
+  [
+    [
+      "2025-02-05, 11:05:40",
+      "https://news.ycombinator.com/item?id=42946854"
+    ],
+    [
+      "S1: The $6 R1 Competitor?",
+      "https://timkellogg.me/blog/2025/02/03/s1"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "Carl Sagan Predicts the Decline of America (1995)",
       "https://www.openculture.com/2025/02/carl-sagan-predicts-the-decline-of-america-unable-to-know-whats-true.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-05, 07:36:01",
-      "https://news.ycombinator.com/item?id=42945191"
-    ],
-    [
-      "Using Terraform Workspace for AWS multi account architectures",
-      "https://github.com/maurobaraldi/terraform-workspaces-aws-multi-account"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "Suspension of inbound parcels from China and Hong Kong",
       "https://about.usps.com/newsroom/service-alerts/international/suspension-of-inbound-parcels-from-china-and-hong-kong.htm"
-    ]
-  ],
-  [
-    [
-      "2025-02-05, 01:00:27",
-      "https://news.ycombinator.com/item?id=42941916"
-    ],
-    [
-      "CodeCrafters (YC S22) is hiring a software engineer to change how devs learn",
-      "https://www.ycombinator.com/companies/codecrafters/jobs/EL4Oqs1-software-engineer-growth-retention"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2025-02-04, 14:50:00",
-      "https://news.ycombinator.com/item?id=42933049"
-    ],
-    [
-      "Alan Turing's \"Delilah\" project",
-      "https://spectrum.ieee.org/alan-turings-delilah"
-    ]
-  ],
-  [
-    [
       "2025-02-03, 22:26:35",
       "https://news.ycombinator.com/item?id=42924182"
     ],
@@ -271,22 +261,32 @@
   ],
   [
     [
-      "2025-02-03, 09:45:13",
-      "https://news.ycombinator.com/item?id=42916585"
-    ],
-    [
-      "Where Poka-Yoke and Cybernetics Meet: Users determine the purpose of any device",
-      "https://stream.syscoi.com/2019/10/29/where-poka-yoke-and-cybernetics-meet-quality-digest-harish-jose/"
-    ]
-  ],
-  [
-    [
       "2025-02-03, 07:19:29",
       "https://news.ycombinator.com/item?id=42915786"
     ],
     [
       "Julia and JuliaHub: Advancing Innovation and Growth",
       "https://info.juliahub.com/blog/julia-juliahub-advancing-innovation-and-growth"
+    ]
+  ],
+  [
+    [
+      "2025-02-02, 08:47:02",
+      "https://news.ycombinator.com/item?id=42907239"
+    ],
+    [
+      "Calculate the number of language model tokens for a string",
+      "https://blog.mastykarz.nl/calculate-number-language-model-tokens-string/"
+    ]
+  ],
+  [
+    [
+      "2025-02-01, 22:29:11",
+      "https://news.ycombinator.com/item?id=42903107"
+    ],
+    [
+      "How to Store and Dry Your 3D Filament: Full Guide",
+      "https://syntaxglow.com/2025/02/01/how-to-store-and-dry-your-3d-filament-a-complete-guide/"
     ]
   ],
   [
