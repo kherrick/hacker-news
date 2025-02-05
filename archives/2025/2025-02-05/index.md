@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-05](index.md)
 
+* [2025-02-05, 21:42:20](https://news.ycombinator.com/item?id=42955613) - [Mt32-pi Developer calls it a day](https://github.com/dwhinham/mt32-pi/blob/075b52809e77420c6e80828825fe42430336b369/README.md)
 * [2025-02-05, 21:10:25](https://news.ycombinator.com/item?id=42955176) - [Okta Bcrypt incident lessons for designing better APIs](https://n0rdy.foo/posts/20250121/okta-bcrypt-lessons-for-better-apis/)
 * [2025-02-05, 20:57:33](https://news.ycombinator.com/item?id=42955009) - [OCR Crypto Stealers in Google Play and App Store](https://securelist.com/sparkcat-stealer-in-app-store-and-google-play/115385/)
 * [2025-02-05, 20:39:46](https://news.ycombinator.com/item?id=42954773) - [S1: The $6 R1 Competitor?](https://simonwillison.net/2025/Feb/5/s1-the-6-r1-competitor/)
