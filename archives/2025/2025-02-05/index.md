@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-02-05](index.md)
 
+* [2025-02-05, 12:01:00](https://news.ycombinator.com/item?id=42947306) - [Toma (YC W24) Is Hiring a Founding Platform Engineer](https://www.ycombinator.com/companies/toma/jobs/eyhn3Si-founding-platform-engineer)
+* [2025-02-05, 11:30:36](https://news.ycombinator.com/item?id=42947049) - [Microsoft deletes official Windows 11 CPU/TPM bypass for unsupported PCs](https://www.neowin.net/news/microsoft-quietly-removes-official-windows-11-cputpm-bypass-for-unsupported-pcs/)
 * [2025-02-05, 11:15:01](https://news.ycombinator.com/item?id=42946918) - [HN as TikTok: Welcome to HN Hell](https://hnhell.com)
+* [2025-02-05, 11:05:40](https://news.ycombinator.com/item?id=42946854) - [S1: The $6 R1 Competitor?](https://timkellogg.me/blog/2025/02/03/s1)
 * [2025-02-05, 10:49:12](https://news.ycombinator.com/item?id=42946718) - [Chrome 133 Supports DOM State-Preserving Move with moveBefore()](https://chromestatus.com/feature/5135990159835136)
 * [2025-02-05, 09:50:30](https://news.ycombinator.com/item?id=42946281) - [Software development topics I've changed my mind on after 10 years](https://chriskiehl.com/article/thoughts-after-10-years)
 * [2025-02-05, 09:47:18](https://news.ycombinator.com/item?id=42946257) - [U.S. foreign aid freeze derails efforts to stem proliferation risks](https://www.science.org/content/article/u-s-foreign-aid-freeze-derails-efforts-stem-proliferation-risks)
