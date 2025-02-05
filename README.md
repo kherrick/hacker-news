@@ -2,7 +2,6 @@
 
 * [2025-02-05, 21:10:25](https://news.ycombinator.com/item?id=42955176) - [Okta Bcrypt incident lessons for designing better APIs](https://n0rdy.foo/posts/20250121/okta-bcrypt-lessons-for-better-apis/)
 * [2025-02-05, 20:26:00](https://news.ycombinator.com/item?id=42954621) - [DARPA solicitation for the Active Social Engineering Defense program (2017)](https://www.highergov.com/contract-opportunity/active-social-engineering-defense-ased-hr001117s0050-p-67f55/)
-* [2025-02-05, 20:24:12](https://news.ycombinator.com/item?id=42954598) - [Google Kills Diversity Hiring Targets](https://www.wsj.com/tech/google-kills-diversity-hiring-targets-04433d7c)
 * [2025-02-05, 19:08:12](https://news.ycombinator.com/item?id=42953508) - [Cloudflare Is Blocking Pale Moon and other non-mainstream browsers](https://news.ycombinator.com/item?id=42953508)
 * [2025-02-05, 18:45:55](https://news.ycombinator.com/item?id=42953206) - [Zig Guide](https://zig.guide/)
 * [2025-02-05, 18:43:28](https://news.ycombinator.com/item?id=42953168) - [The Sudoku Affair](https://explaining.software/archive/the-sudoku-affair/)
@@ -29,6 +28,7 @@
 * [2025-02-05, 00:07:24](https://news.ycombinator.com/item?id=42941283) - [Beej's Guide to Git](https://beej.us/guide/bggit/)
 * [2025-02-04, 01:40:06](https://news.ycombinator.com/item?id=42926359) - [Ask HN: Do you know travel blogs that have animated SVG maps of their travels?](https://news.ycombinator.com/item?id=42926359)
 * [2025-02-03, 09:43:05](https://news.ycombinator.com/item?id=42916574) - [Conway's Law (2022)](https://martinfowler.com/bliki/ConwaysLaw.html)
+* [2025-02-03, 07:44:07](https://news.ycombinator.com/item?id=42915901) - [Catgrad: A categorical deep learning compiler](https://catgrad.com/)
 * [2025-02-02, 01:32:33](https://news.ycombinator.com/item?id=42904670) - [An elusive California mammal has just been photographed alive](https://www.sfgate.com/bayarea/article/elusive-california-mammal-photographed-20040772.php)
 
 ## [Archives](archives/index.md)
