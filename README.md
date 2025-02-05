@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-05, 09:47:18](https://news.ycombinator.com/item?id=42946257) - [U.S. foreign aid freeze derails efforts to stem proliferation risks](https://www.science.org/content/article/u-s-foreign-aid-freeze-derails-efforts-stem-proliferation-risks)
+* [2025-02-05, 10:49:12](https://news.ycombinator.com/item?id=42946718) - [Chrome 133 Supports DOM State-Preserving Move with moveBefore()](https://chromestatus.com/feature/5135990159835136)
+* [2025-02-05, 09:50:30](https://news.ycombinator.com/item?id=42946281) - [Software development topics I've changed my mind on after 10 years](https://chriskiehl.com/article/thoughts-after-10-years)
 * [2025-02-05, 09:44:32](https://news.ycombinator.com/item?id=42946232) - [Go Data Structures](https://research.swtch.com/godata)
 * [2025-02-05, 07:36:01](https://news.ycombinator.com/item?id=42945191) - [Using Terraform Workspace for AWS multi account architectures](https://github.com/maurobaraldi/terraform-workspaces-aws-multi-account)
 * [2025-02-05, 07:30:59](https://news.ycombinator.com/item?id=42945146) - [GNU Make Standard Library](https://gmsl.jgc.org/)
@@ -8,7 +9,6 @@
 * [2025-02-05, 05:50:16](https://news.ycombinator.com/item?id=42944371) - [Kagi – Introducing Fair Pricing](https://kagi.com/changelog#6155)
 * [2025-02-05, 05:14:25](https://news.ycombinator.com/item?id=42944108) - [I coded a Pascal compiler for transputer as a teen in 1993](https://nanochess.org/pascal.html)
 * [2025-02-05, 04:54:04](https://news.ycombinator.com/item?id=42943973) - [They Thought They Were Free, by Milton Mayer, an Excerpt](https://press.uchicago.edu/Misc/Chicago/511928.htm)
-* [2025-02-05, 04:43:06](https://news.ycombinator.com/item?id=42943906) - [Huawei's Ascend 910C delivers 60% of Nvidia H100 inference performance](https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-research-suggests-huaweis-ascend-910c-delivers-60-percent-nvidia-h100-inference-performance)
 * [2025-02-05, 04:09:35](https://news.ycombinator.com/item?id=42943662) - [Nellie Bly](https://en.wikipedia.org/wiki/Nellie_Bly)
 * [2025-02-05, 01:43:10](https://news.ycombinator.com/item?id=42942405) - [Suspension of inbound parcels from China and Hong Kong](https://about.usps.com/newsroom/service-alerts/international/suspension-of-inbound-parcels-from-china-and-hong-kong.htm)
 * [2025-02-05, 01:01:09](https://news.ycombinator.com/item?id=42941924) - [We need network societies, not network states (2024)](https://www.cip.org/blog/network-societies)
