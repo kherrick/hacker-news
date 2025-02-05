@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-05, 14:55:03](https://news.ycombinator.com/item?id=42949277) - [Avoiding Outrage Fatigue While Staying Informed](https://www.scientificamerican.com/podcast/episode/how-to-avoid-outrage-fatigue-and-tune-in-without-burning-out/)
+* [2025-02-05, 14:51:20](https://news.ycombinator.com/item?id=42949222) - [I'm Done with Ubuntu](https://ounapuu.ee/posts/2025/02/05/done-with-ubuntu/)
 * [2025-02-05, 13:44:26](https://news.ycombinator.com/item?id=42948373) - [F-Droid Awarded Open Technology Fund's FOSS Sustainability Grant](https://f-droid.org/2025/02/05/f-droid-awarded-otf-grant.html)
 * [2025-02-05, 12:09:23](https://news.ycombinator.com/item?id=42947383) - [Fiwix: Small Unix-Like Kernel](https://www.fiwix.org/)
 * [2025-02-05, 12:01:00](https://news.ycombinator.com/item?id=42947306) - [Toma (YC W24) Is Hiring a Founding Platform Engineer](https://www.ycombinator.com/companies/toma/jobs/eyhn3Si-founding-platform-engineer)
@@ -15,7 +17,6 @@
 * [2025-02-05, 05:14:25](https://news.ycombinator.com/item?id=42944108) - [I coded a Pascal compiler for transputer as a teen in 1993](https://nanochess.org/pascal.html)
 * [2025-02-05, 01:43:10](https://news.ycombinator.com/item?id=42942405) - [Suspension of inbound parcels from China and Hong Kong](https://about.usps.com/newsroom/service-alerts/international/suspension-of-inbound-parcels-from-china-and-hong-kong.htm)
 * [2025-02-05, 00:07:24](https://news.ycombinator.com/item?id=42941283) - [Beej's Guide to Git](https://beej.us/guide/bggit/)
-* [2025-02-04, 23:56:25](https://news.ycombinator.com/item?id=42941143) - [Ambsheets: Spreadsheets for Exploring Scenarios](https://www.inkandswitch.com/ambsheets/)
 * [2025-02-04, 23:11:38](https://news.ycombinator.com/item?id=42940553) - [Nine – seemingly impossible C64 demo](https://linusakesson.net/scene/nine/index.php)
 * [2025-02-04, 22:51:36](https://news.ycombinator.com/item?id=42940257) - [What's happening inside the NIH and NSF](https://www.science.org/content/blog-post/what-s-happening-inside-nih)
 * [2025-02-04, 22:25:32](https://news.ycombinator.com/item?id=42939862) - [Infosec 101 for Activists](https://infosecforactivists.org)
@@ -23,7 +24,6 @@
 * [2025-02-04, 18:40:55](https://news.ycombinator.com/item?id=42936723) - [WikiTok](https://wikitok.vercel.app/)
 * [2025-02-04, 17:21:02](https://news.ycombinator.com/item?id=42935516) - [Roc rewrites the compiler in Zig](https://gist.github.com/rtfeldman/77fb430ee57b42f5f2ca973a3992532f)
 * [2025-02-04, 16:21:58](https://news.ycombinator.com/item?id=42934422) - [Apple Invites](https://www.apple.com/newsroom/2025/02/introducing-apple-invites-a-new-app-that-brings-people-together/)
-* [2025-02-04, 15:44:21](https://news.ycombinator.com/item?id=42933840) - [America desperately needs more air traffic controllers](https://www.cnn.com/2025/02/04/business/air-traffic-controller-shortage/index.html)
 * [2025-02-03, 22:26:35](https://news.ycombinator.com/item?id=42924182) - [MTR: 'traceroute' and 'ping' in a single tool](https://www.bitwizard.nl/mtr/)
 * [2025-02-03, 07:19:29](https://news.ycombinator.com/item?id=42915786) - [Julia and JuliaHub: Advancing Innovation and Growth](https://info.juliahub.com/blog/julia-juliahub-advancing-innovation-and-growth)
 * [2025-02-03, 06:07:00](https://news.ycombinator.com/item?id=42915435) - [Show HN: Apitally – A simple, privacy-focused API monitoring and analytics tool](https://apitally.io)
