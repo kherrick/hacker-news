@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-02-05](index.md)
 
+* [2025-02-05, 15:03:09](https://news.ycombinator.com/item?id=42949390) - [Servo in 2024: stats, features and donations](https://servo.org/blog/2025/01/31/servo-in-2024/)
 * [2025-02-05, 14:55:03](https://news.ycombinator.com/item?id=42949277) - [Avoiding Outrage Fatigue While Staying Informed](https://www.scientificamerican.com/podcast/episode/how-to-avoid-outrage-fatigue-and-tune-in-without-burning-out/)
 * [2025-02-05, 14:51:20](https://news.ycombinator.com/item?id=42949222) - [I'm Done with Ubuntu](https://ounapuu.ee/posts/2025/02/05/done-with-ubuntu/)
+* [2025-02-05, 14:47:32](https://news.ycombinator.com/item?id=42949181) - [Why Is Warner Brothers Discovery Dumping Old Movies on YouTube?](https://tedium.co/2025/02/05/warner-bros-youtube-full-movie-releases/)
 * [2025-02-05, 13:44:26](https://news.ycombinator.com/item?id=42948373) - [F-Droid Awarded Open Technology Fund's FOSS Sustainability Grant](https://f-droid.org/2025/02/05/f-droid-awarded-otf-grant.html)
 * [2025-02-05, 12:09:23](https://news.ycombinator.com/item?id=42947383) - [Fiwix: Small Unix-Like Kernel](https://www.fiwix.org/)
 * [2025-02-05, 12:01:00](https://news.ycombinator.com/item?id=42947306) - [Toma (YC W24) Is Hiring a Founding Platform Engineer](https://www.ycombinator.com/companies/toma/jobs/eyhn3Si-founding-platform-engineer)
