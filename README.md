@@ -1,7 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-05, 20:39:46](https://news.ycombinator.com/item?id=42954773) - [S1: The $6 R1 Competitor?](https://simonwillison.net/2025/Feb/5/s1-the-6-r1-competitor/)
+* [2025-02-05, 20:26:00](https://news.ycombinator.com/item?id=42954621) - [DARPA solicitation for the Active Social Engineering Defense program (2017)](https://www.highergov.com/contract-opportunity/active-social-engineering-defense-ased-hr001117s0050-p-67f55/)
 * [2025-02-05, 19:08:12](https://news.ycombinator.com/item?id=42953508) - [Cloudflare Is Blocking Pale Moon and other non-mainstream browsers](https://news.ycombinator.com/item?id=42953508)
 * [2025-02-05, 18:45:55](https://news.ycombinator.com/item?id=42953206) - [Zig Guide](https://zig.guide/)
+* [2025-02-05, 18:43:28](https://news.ycombinator.com/item?id=42953168) - [The Sudoku Affair](https://explaining.software/archive/the-sudoku-affair/)
 * [2025-02-05, 18:40:40](https://news.ycombinator.com/item?id=42953120) - [Implementation of a RingBuffer in Java with optional FIFO like semantics](https://github.com/evolvedbinary/j8cu)
 * [2025-02-05, 18:29:30](https://news.ycombinator.com/item?id=42952960) - [Andrej Karpathy: Deep Dive into LLMs Like ChatGPT [video]](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 * [2025-02-05, 18:13:25](https://news.ycombinator.com/item?id=42952720) - [21st Century C++](https://cacm.acm.org/blogcacm/21st-century-c/)
@@ -26,10 +29,7 @@
 * [2025-02-05, 00:07:24](https://news.ycombinator.com/item?id=42941283) - [Beej's Guide to Git](https://beej.us/guide/bggit/)
 * [2025-02-04, 01:40:06](https://news.ycombinator.com/item?id=42926359) - [Ask HN: Do you know travel blogs that have animated SVG maps of their travels?](https://news.ycombinator.com/item?id=42926359)
 * [2025-02-03, 09:43:05](https://news.ycombinator.com/item?id=42916574) - [Conway's Law (2022)](https://martinfowler.com/bliki/ConwaysLaw.html)
-* [2025-02-03, 07:44:07](https://news.ycombinator.com/item?id=42915901) - [Catgrad: A categorical deep learning compiler](https://catgrad.com/)
-* [2025-02-03, 07:19:29](https://news.ycombinator.com/item?id=42915786) - [Julia and JuliaHub: Advancing Innovation and Growth](https://info.juliahub.com/blog/julia-juliahub-advancing-innovation-and-growth)
 * [2025-02-02, 01:32:33](https://news.ycombinator.com/item?id=42904670) - [An elusive California mammal has just been photographed alive](https://www.sfgate.com/bayarea/article/elusive-california-mammal-photographed-20040772.php)
-* [2025-02-02, 00:03:56](https://news.ycombinator.com/item?id=42903950) - [Show HN: How good is your color vision? Find out in my new game](https://vidzert.com/find-the-different-color)
 
 ## [Archives](archives/index.md)
 
