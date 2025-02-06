@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-06](index.md)
 
 * [2025-02-06, 08:27:37](https://news.ycombinator.com/item?id=42960291) - [Cloudflare R2 Global Outage](https://www.cloudflarestatus.com)
+* [2025-02-06, 08:18:31](https://news.ycombinator.com/item?id=42960241) - [Markdown's Big Brother: Say Hello to AsciiDoc](https://www.git-tower.com/blog/asciidoc-quick-guide/)
 * [2025-02-06, 07:15:19](https://news.ycombinator.com/item?id=42959923) - [OpenAI Sales Agent Demo](https://twitter.com/charliebitda/status/1887307980338856445)
 * [2025-02-06, 06:52:20](https://news.ycombinator.com/item?id=42959777) - [LLMs Were Backdoored Years Ago](https://remyhax.xyz/posts/plagairism/)
 * [2025-02-06, 06:52:17](https://news.ycombinator.com/item?id=42959775) - [Linux Running in a PDF](https://linux.doompdf.dev/linux.pdf)

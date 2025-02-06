@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-06, 08:27:37](https://news.ycombinator.com/item?id=42960291) - [Cloudflare R2 Global Outage](https://www.cloudflarestatus.com)
+* [2025-02-06, 08:18:31](https://news.ycombinator.com/item?id=42960241) - [Markdown's Big Brother: Say Hello to AsciiDoc](https://www.git-tower.com/blog/asciidoc-quick-guide/)
 * [2025-02-06, 07:15:19](https://news.ycombinator.com/item?id=42959923) - [OpenAI Sales Agent Demo](https://twitter.com/charliebitda/status/1887307980338856445)
 * [2025-02-06, 06:52:17](https://news.ycombinator.com/item?id=42959775) - [Linux Running in a PDF](https://linux.doompdf.dev/linux.pdf)
 * [2025-02-06, 06:23:49](https://news.ycombinator.com/item?id=42959626) - [I wrote a screenplay for a programming language introduction](https://jan.miksovsky.com/)
@@ -14,7 +15,6 @@
 * [2025-02-05, 19:08:12](https://news.ycombinator.com/item?id=42953508) - [Tell HN: Cloudflare is blocking Pale Moon and other non-mainstream browsers](https://news.ycombinator.com/item?id=42953508)
 * [2025-02-05, 18:29:30](https://news.ycombinator.com/item?id=42952960) - [Andrej Karpathy: Deep Dive into LLMs Like ChatGPT [video]](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 * [2025-02-05, 18:05:28](https://news.ycombinator.com/item?id=42952605) - [Ingesting PDFs and why Gemini 2.0 changes everything](https://www.sergey.fyi/articles/gemini-flash-2)
-* [2025-02-05, 18:04:20](https://news.ycombinator.com/item?id=42952584) - [Running ArchiveTeam's Warrior in Kubernetes](https://gabrielsimmer.com/blog/archiveteam-warrior-kubernetes)
 * [2025-02-05, 16:31:24](https://news.ycombinator.com/item?id=42950929) - [Eggs US – Price – Chart](https://tradingeconomics.com/commodity/eggs-us)
 * [2025-02-05, 16:03:18](https://news.ycombinator.com/item?id=42950454) - [Gemini 2.0 is now available to everyone](https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/)
 * [2025-02-05, 15:03:09](https://news.ycombinator.com/item?id=42949390) - [Servo's progress in 2024](https://servo.org/blog/2025/01/31/servo-in-2024/)
