@@ -75,6 +75,7 @@
 * [2025-02-04, 09:27:58](https://news.ycombinator.com/item?id=42930185) - [The Final Frontier with Steve Jurvetson](https://cloudvalley.substack.com/p/the-final-frontier-with-steve-jurvetson)
 * [2025-02-04, 09:24:27](https://news.ycombinator.com/item?id=42930161) - [Alpine Linux Seeking Support After Equinix Metal Sunsets](https://alpinelinux.org/posts/Seeking-Support-After-Equinix-Metal-Sunsets.html)
 * [2025-02-04, 08:34:23](https://news.ycombinator.com/item?id=42929754) - [Platform for supporting local sellers and buyers](https://blunum.com/)
+* [2025-02-04, 07:17:06](https://news.ycombinator.com/item?id=42929151) - [What's the Deal with Magnetic Fields?](https://lcamtuf.substack.com/p/whats-the-deal-with-magnetic-fields)
 * [2025-02-04, 07:10:30](https://news.ycombinator.com/item?id=42929093) - [El Salvador offers to house violent US criminals and deportees of any nation](https://www.cnn.com/2025/02/03/americas/el-salvador-migrant-deal-marco-rubio-intl-hnk/index.html)
 * [2025-02-04, 06:07:02](https://news.ycombinator.com/item?id=42928645) - [OWASP Non-Human Identities Top](https://owasp.org/www-project-non-human-identities-top-10/)
 * [2025-02-04, 06:07:02](https://news.ycombinator.com/item?id=42928645) - [OWASP Non-Human Identities Top 10](https://owasp.org/www-project-non-human-identities-top-10/2025/)

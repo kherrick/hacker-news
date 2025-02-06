@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-02-06](index.md)
 
+* [2025-02-06, 15:44:53](https://news.ycombinator.com/item?id=42963447) - [The world has probably passed \"peak air pollution\"](https://ourworldindata.org/data-insights/the-world-has-probably-passed-peak-air-pollution)
 * [2025-02-06, 15:35:32](https://news.ycombinator.com/item?id=42963346) - [Show HN: An homage to Tom Dowdy's 1991 screensaver, \"Kaos\"](https://thestrikeagency.com/kaos/)
+* [2025-02-06, 15:08:37](https://news.ycombinator.com/item?id=42963070) - [RustDesk – open-source alternative to TeamViewer](https://github.com/rustdesk/rustdesk)
 * [2025-02-06, 14:35:04](https://news.ycombinator.com/item?id=42962702) - [U.S. Government Disclosed 39 Zero-Day Vulnerabilities in 2023, First-Ever Report](https://www.zetter-zeroday.com/u-s-government-disclosed-39-zero-day-vulnerabilities-in-2023-per-first-ever-report/)
 * [2025-02-06, 14:27:50](https://news.ycombinator.com/item?id=42962605) - [Researchers created an open rival to OpenAI's o1 'reasoning' model for under $50](https://techcrunch.com/2025/02/05/researchers-created-an-open-rival-to-openais-o1-reasoning-model-for-under-50/)
 * [2025-02-06, 14:02:21](https://news.ycombinator.com/item?id=42962388) - [Disney+ Loses 700k Subscribers Following Price Increase](https://www.macrumors.com/2025/02/05/disney-plus-subscriber-decrease/)
