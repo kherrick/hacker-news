@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-06](index.md)
 
+* [2025-02-06, 14:35:04](https://news.ycombinator.com/item?id=42962702) - [U.S. Government Disclosed 39 Zero-Day Vulnerabilities in 2023, First-Ever Report](https://www.zetter-zeroday.com/u-s-government-disclosed-39-zero-day-vulnerabilities-in-2023-per-first-ever-report/)
 * [2025-02-06, 14:27:50](https://news.ycombinator.com/item?id=42962605) - [Researchers created an open rival to OpenAI's o1 'reasoning' model for under $50](https://techcrunch.com/2025/02/05/researchers-created-an-open-rival-to-openais-o1-reasoning-model-for-under-50/)
 * [2025-02-06, 14:02:21](https://news.ycombinator.com/item?id=42962388) - [Disney+ Loses 700k Subscribers Following Price Increase](https://www.macrumors.com/2025/02/05/disney-plus-subscriber-decrease/)
 * [2025-02-06, 13:59:13](https://news.ycombinator.com/item?id=42962345) - [Gumroad CEO is no longer hiring junior/mid-level software engineers due to AI](https://twitter.com/shl/status/1887484068075274347)
