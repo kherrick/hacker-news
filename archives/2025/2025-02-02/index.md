@@ -53,6 +53,7 @@
 * [2025-02-02, 04:29:06](https://news.ycombinator.com/item?id=42905821) - [Splitting from Handmade Network](https://handmadecities.com/news/splitting-from-handmade-network/)
 * [2025-02-02, 04:09:45](https://news.ycombinator.com/item?id=42905737) - [I'm Ready for You: On Balzac](https://www.lrb.co.uk/the-paper/v47/n01/raymond-n.-mackenzie/i-m-ready-for-you)
 * [2025-02-02, 03:21:07](https://news.ycombinator.com/item?id=42905453) - [Chatbot Software Begins to Face Fundamental Limitations](https://www.quantamagazine.org/chatbot-software-begins-to-face-fundamental-limitations-20250131/)
+* [2025-02-02, 03:19:36](https://news.ycombinator.com/item?id=42905439) - [Polarization-dependent photoluminescence of Ce-implanted MgO and MgAl2O4](https://iopscience.iop.org/article/10.35848/1882-0786/ad59f4)
 * [2025-02-02, 03:13:30](https://news.ycombinator.com/item?id=42905406) - [DeepSeek R1's recipe to replicate o1 and the future of reasoning LMs](https://www.interconnects.ai/p/deepseek-r1-recipe-for-o1)
 * [2025-02-02, 03:04:57](https://news.ycombinator.com/item?id=42905333) - [X sues Lego, Nestlé and more brands, accusing them of advertising boycott](https://www.npr.org/2025/02/01/nx-s1-5283271/elon-musk-lawsuit-advertisers-boycott-new)
 * [2025-02-02, 02:12:13](https://news.ycombinator.com/item?id=42904966) - [Tools for 2025](http://yosemitesam.ch/3-tools-for-2025/)
