@@ -2,7 +2,6 @@
 
 * [2025-02-06, 14:27:50](https://news.ycombinator.com/item?id=42962605) - [Researchers created an open rival to OpenAI's o1 'reasoning' model for under $50](https://techcrunch.com/2025/02/05/researchers-created-an-open-rival-to-openais-o1-reasoning-model-for-under-50/)
 * [2025-02-06, 14:02:21](https://news.ycombinator.com/item?id=42962388) - [Disney+ Loses 700k Subscribers Following Price Increase](https://www.macrumors.com/2025/02/05/disney-plus-subscriber-decrease/)
-* [2025-02-06, 13:59:13](https://news.ycombinator.com/item?id=42962345) - [Gumroad CEO is no longer hiring junior/mid-level software engineers due to AI](https://twitter.com/shl/status/1887484068075274347)
 * [2025-02-06, 12:00:23](https://news.ycombinator.com/item?id=42961562) - [Memfault (YC W19) Is Hiring an Android System (AOSP) Engineer](https://jobs.lever.co/memfault/1904a421-de92-46bf-8864-2965582cd6df)
 * [2025-02-06, 10:31:06](https://news.ycombinator.com/item?id=42960989) - [Pre-Trained Large Language Models Use Fourier Features to Compute Addition](https://arxiv.org/abs/2406.03445)
 * [2025-02-06, 08:43:51](https://news.ycombinator.com/item?id=42960382) - [Cameras of 1930s Era](https://licm.org.uk/livingImage/1930Room.html)
@@ -22,6 +21,7 @@
 * [2025-02-05, 14:47:32](https://news.ycombinator.com/item?id=42949181) - [Why is Warner Bros. Discovery putting old movies on YouTube?](https://tedium.co/2025/02/05/warner-bros-youtube-full-movie-releases/)
 * [2025-02-05, 11:05:40](https://news.ycombinator.com/item?id=42946854) - [S1: A $6 R1 competitor?](https://timkellogg.me/blog/2025/02/03/s1)
 * [2025-02-05, 09:50:30](https://news.ycombinator.com/item?id=42946281) - [Software development topics I've changed my mind on](https://chriskiehl.com/article/thoughts-after-10-years)
+* [2025-02-05, 07:30:59](https://news.ycombinator.com/item?id=42945146) - [GNU Make Standard Library](https://gmsl.jgc.org/)
 * [2025-02-03, 15:04:07](https://news.ycombinator.com/item?id=42918850) - [Excavated: 52 Egyptian Mummies. Over a Dozen Had Mysterious Golden Tongues](https://www.popularmechanics.com/science/archaeology/a63412049/golden-mummy-tongues/)
 * [2025-02-03, 12:53:31](https://news.ycombinator.com/item?id=42917712) - [Show HN: Marksmith – a GitHub-style Markdown editor for Ruby on Rails](https://avohq.io/blog/ruby-on-rails-markdown-editor-marksmith)
 * [2025-02-03, 12:31:15](https://news.ycombinator.com/item?id=42917522) - [The Language Construction Kit (1996, 2012)](https://www.zompist.com/kit.html)
