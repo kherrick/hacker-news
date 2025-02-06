@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-06, 02:58:41](https://news.ycombinator.com/item?id=42958474) - [Subway crime plummets as ridership jumps significantly in congestion pricing era](https://www.amny.com/nyc-transit/nyc-subway-crime-plummets-ridership-jumps-2025/)
 * [2025-02-06, 01:28:17](https://news.ycombinator.com/item?id=42957823) - [6502 Is a Good Starting Point for Beginning Assembly Programming](https://nemanjatrifunovic.substack.com/p/6502-is-a-good-starting-point-for)
 * [2025-02-06, 01:13:32](https://news.ycombinator.com/item?id=42957726) - [Human Brain May Contain as Much as a Spoon's Worth of Microplastics](https://www.smithsonianmag.com/smart-news/the-human-brain-may-contain-as-much-as-a-spoons-worth-of-microplastics-new-research-suggests-180985995/)
 * [2025-02-06, 00:41:43](https://news.ycombinator.com/item?id=42957517) - [What does it mean that MP3 is free?](https://idiallo.com/blog/listen-mp3-is-free)
@@ -21,7 +22,6 @@
 * [2025-02-05, 10:49:12](https://news.ycombinator.com/item?id=42946718) - [Chrome 133 Supports DOM State-Preserving Move with moveBefore()](https://chromestatus.com/feature/5135990159835136)
 * [2025-02-05, 09:50:30](https://news.ycombinator.com/item?id=42946281) - [Software development topics I've changed my mind on](https://chriskiehl.com/article/thoughts-after-10-years)
 * [2025-02-05, 07:30:59](https://news.ycombinator.com/item?id=42945146) - [GNU Make Standard Library](https://gmsl.jgc.org/)
-* [2025-02-05, 05:25:19](https://news.ycombinator.com/item?id=42944203) - [The FAA’s Hiring Scandal](https://www.tracingwoodgrains.com/p/the-full-story-of-the-faas-hiring)
 * [2025-02-05, 03:18:22](https://news.ycombinator.com/item?id=42943271) - [A hexagonal-tiled cartogram for U.S. counties](https://www.jordanroga.com/blog/introducing-a-hexagonal-tiled-cartogram-for-u-s-counties)
 * [2025-02-04, 01:40:06](https://news.ycombinator.com/item?id=42926359) - [Ask HN: Do you know travel blogs that have animated SVG maps of their travels?](https://news.ycombinator.com/item?id=42926359)
 * [2025-02-03, 12:31:15](https://news.ycombinator.com/item?id=42917522) - [The Language Construction Kit](https://www.zompist.com/kit.html)
