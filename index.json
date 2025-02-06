@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2025-02-06, 17:07:55",
-      "https://news.ycombinator.com/item?id=42964327"
-    ],
-    [
-      "GitHub Copilot: The Agent Awakens",
-      "https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/"
-    ]
-  ],
-  [
-    [
       "2025-02-06, 17:00:31",
       "https://news.ycombinator.com/item?id=42964269"
     ],
@@ -161,6 +151,16 @@
   ],
   [
     [
+      "2025-02-06, 04:54:18",
+      "https://news.ycombinator.com/item?id=42959226"
+    ],
+    [
+      "Show HN: Heap Explorer",
+      "https://github.com/heap-exploitation/heap-explorer"
+    ]
+  ],
+  [
+    [
       "2025-02-06, 03:30:34",
       "https://news.ycombinator.com/item?id=42958696"
     ],
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2025-02-04, 07:22:49",
-      "https://news.ycombinator.com/item?id=42929195"
-    ],
-    [
-      "Show HN: I built a CLI to automate depth tracking on underwater videos",
-      "https://github.com/noppanut15/depthviz"
-    ]
-  ],
-  [
-    [
       "2025-02-04, 04:57:26",
       "https://news.ycombinator.com/item?id=42928186"
     ],
@@ -261,22 +251,32 @@
   ],
   [
     [
-      "2025-02-03, 15:04:07",
-      "https://news.ycombinator.com/item?id=42918850"
-    ],
-    [
-      "Excavated: 52 Egyptian Mummies. Over a Dozen Had Mysterious Golden Tongues",
-      "https://www.popularmechanics.com/science/archaeology/a63412049/golden-mummy-tongues/"
-    ]
-  ],
-  [
-    [
       "2025-02-03, 11:22:44",
       "https://news.ycombinator.com/item?id=42917135"
     ],
     [
       "T1: A RISC-V Vector processor implementation",
       "https://github.com/chipsalliance/t1"
+    ]
+  ],
+  [
+    [
+      "2025-02-03, 07:54:34",
+      "https://news.ycombinator.com/item?id=42915944"
+    ],
+    [
+      "Evaluating Code Embeddings",
+      "https://blog.voyageai.com/2024/12/04/code-retrieval-eval/"
+    ]
+  ],
+  [
+    [
+      "2025-02-03, 06:07:10",
+      "https://news.ycombinator.com/item?id=42915437"
+    ],
+    [
+      "The missing cross-platform OS API for timers",
+      "https://gaultier.github.io/blog/the_missing_cross_platform_os_api_for_timers.html"
     ]
   ],
   [
