@@ -9,6 +9,7 @@
 * [2025-02-03, 22:48:56](https://news.ycombinator.com/item?id=42924448) - [No-Panic Rust: A Nice Technique for Systems Programming](https://blog.reverberate.org/2025/02/03/no-panic-rust.html)
 * [2025-02-03, 22:26:35](https://news.ycombinator.com/item?id=42924182) - [MTR: 'traceroute' and 'ping' in a single tool](https://www.bitwizard.nl/mtr/)
 * [2025-02-03, 22:17:46](https://news.ycombinator.com/item?id=42924068) - [In Praise of Subspecies](https://aeon.co/essays/the-case-for-subspecies-the-neglected-unit-of-conservation)
+* [2025-02-03, 22:08:20](https://news.ycombinator.com/item?id=42923940) - [Open source AI: Red Hat's point-of-view](https://www.redhat.com/en/blog/open-source-ai-red-hats-point-view)
 * [2025-02-03, 22:01:38](https://news.ycombinator.com/item?id=42923870) - [A computer can never be held accountable](https://simonwillison.net/2025/Feb/3/a-computer-can-never-be-held-accountable/)
 * [2025-02-03, 21:33:29](https://news.ycombinator.com/item?id=42923512) - [How Translation Works, Book Title Edition](https://whatever.scalzi.com/2025/02/03/how-translation-works-book-title-edition/)
 * [2025-02-03, 21:24:50](https://news.ycombinator.com/item?id=42923409) - [Earth Detecting Earth](https://www.seti.org/press-release/earth-detecting-earth)
