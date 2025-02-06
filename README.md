@@ -23,11 +23,11 @@
 * [2025-02-05, 18:05:28](https://news.ycombinator.com/item?id=42952605) - [Ingesting PDFs and why Gemini 2.0 changes everything](https://www.sergey.fyi/articles/gemini-flash-2)
 * [2025-02-05, 14:47:32](https://news.ycombinator.com/item?id=42949181) - [Why is Warner Bros. Discovery putting old movies on YouTube?](https://tedium.co/2025/02/05/warner-bros-youtube-full-movie-releases/)
 * [2025-02-05, 12:17:47](https://news.ycombinator.com/item?id=42947447) - [OpenLDK: A Java JIT compiler and runtime in Common Lisp](https://github.com/atgreen/openldk)
-* [2025-02-05, 11:05:40](https://news.ycombinator.com/item?id=42946854) - [S1: A $6 R1 competitor?](https://timkellogg.me/blog/2025/02/03/s1)
 * [2025-02-04, 04:57:26](https://news.ycombinator.com/item?id=42928186) - [Reasons Not to Refactor](https://thoughtbot.com/blog/reasons-not-to-refactor)
 * [2025-02-03, 15:04:07](https://news.ycombinator.com/item?id=42918850) - [Excavated: 52 Egyptian Mummies. Over a Dozen Had Mysterious Golden Tongues](https://www.popularmechanics.com/science/archaeology/a63412049/golden-mummy-tongues/)
 * [2025-02-03, 11:22:44](https://news.ycombinator.com/item?id=42917135) - [T1: A RISC-V Vector processor implementation](https://github.com/chipsalliance/t1)
 * [2025-02-03, 07:54:34](https://news.ycombinator.com/item?id=42915944) - [Evaluating Code Embeddings](https://blog.voyageai.com/2024/12/04/code-retrieval-eval/)
+* [2025-02-03, 06:07:10](https://news.ycombinator.com/item?id=42915437) - [The missing cross-platform OS API for timers](https://gaultier.github.io/blog/the_missing_cross_platform_os_api_for_timers.html)
 * [2025-02-02, 18:41:04](https://news.ycombinator.com/item?id=42910667) - [Par: Process language with an interactive playground for exploring concurrency](https://github.com/faiface/par-lang)
 * [2025-02-02, 04:43:00](https://news.ycombinator.com/item?id=42905900) - [Minimum effective dose](https://winnielim.org/journal/minimum-effective-dose/)
 
