@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-02-06, 14:02:21",
-      "https://news.ycombinator.com/item?id=42962388"
-    ],
-    [
-      "Disney+ Loses 700k Subscribers Following Price Increase",
-      "https://www.macrumors.com/2025/02/05/disney-plus-subscriber-decrease/"
-    ]
-  ],
-  [
-    [
       "2025-02-06, 12:00:23",
       "https://news.ycombinator.com/item?id=42961562"
     ],
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=42960989"
     ],
     [
-      "Pre-Trained Large Language Models Use Fourier Features to Compute Addition",
+      "Pre-Trained Large Language Models Use Fourier Features for Addition (2024)",
       "https://arxiv.org/abs/2406.03445"
     ]
   ],
@@ -97,6 +87,16 @@
     [
       "Programming SDF Animations of Rick and Morty",
       "https://danielchasehooper.com/posts/code-animated-rick/"
+    ]
+  ],
+  [
+    [
+      "2025-02-06, 02:19:49",
+      "https://news.ycombinator.com/item?id=42958218"
+    ],
+    [
+      "Mystery brain disease patients in New Brunswick say they welcome investigation",
+      "https://www.ctvnews.ca/atlantic/new-brunswick/article/good-first-step-nb-mystery-brain-disease-patients-welcome-new-investigation/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-02-05, 07:30:59",
-      "https://news.ycombinator.com/item?id=42945146"
-    ],
-    [
-      "GNU Make Standard Library",
-      "https://gmsl.jgc.org/"
-    ]
-  ],
-  [
-    [
       "2025-02-03, 15:04:07",
       "https://news.ycombinator.com/item?id=42918850"
     ],
@@ -257,6 +247,16 @@
     [
       "Discord client that works on Win95*, Win98 and above",
       "https://github.com/DiscordMessenger/dm"
+    ]
+  ],
+  [
+    [
+      "2025-02-03, 11:22:44",
+      "https://news.ycombinator.com/item?id=42917135"
+    ],
+    [
+      "T1: A RISC-V Vector processor implementation",
+      "https://github.com/chipsalliance/t1"
     ]
   ],
   [
