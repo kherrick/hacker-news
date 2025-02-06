@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-02-06](index.md)
 
+* [2025-02-06, 14:27:50](https://news.ycombinator.com/item?id=42962605) - [Researchers created an open rival to OpenAI's o1 'reasoning' model for under $50](https://techcrunch.com/2025/02/05/researchers-created-an-open-rival-to-openais-o1-reasoning-model-for-under-50/)
+* [2025-02-06, 14:02:21](https://news.ycombinator.com/item?id=42962388) - [Disney+ Loses 700k Subscribers Following Price Increase](https://www.macrumors.com/2025/02/05/disney-plus-subscriber-decrease/)
+* [2025-02-06, 13:59:13](https://news.ycombinator.com/item?id=42962345) - [Gumroad CEO is no longer hiring junior/mid-level software engineers due to AI](https://twitter.com/shl/status/1887484068075274347)
 * [2025-02-06, 13:17:43](https://news.ycombinator.com/item?id=42962015) - [The Sad Math of Ads: messages of inadequacy and salvation through consumption](https://www.jamesdamore.com/articles/the-sad-math-of-ads)
 * [2025-02-06, 12:00:23](https://news.ycombinator.com/item?id=42961562) - [Memfault (YC W19) Is Hiring an Android System (AOSP) Engineer](https://jobs.lever.co/memfault/1904a421-de92-46bf-8864-2965582cd6df)
 * [2025-02-06, 11:01:34](https://news.ycombinator.com/item?id=42961192) - [Tesla's sales plummet across Europe](https://www.ft.com/content/ea2329e4-b4bc-4e2d-be34-e9a8ea31129c)
+* [2025-02-06, 10:31:06](https://news.ycombinator.com/item?id=42960989) - [Pre-Trained Large Language Models Use Fourier Features to Compute Addition](https://arxiv.org/abs/2406.03445)
 * [2025-02-06, 09:52:27](https://news.ycombinator.com/item?id=42960788) - [US Cloud soon illegal in EU? US punches first hole in EU-US Data Deal](https://noyb.eu/en/us-cloud-soon-illegal-trump-punches-first-hole-eu-us-data-deal)
 * [2025-02-06, 09:34:18](https://news.ycombinator.com/item?id=42960684) - [Origami by Meenakshi](https://origamee.net/)
 * [2025-02-06, 08:43:51](https://news.ycombinator.com/item?id=42960382) - [Cameras of 1930s Era](https://licm.org.uk/livingImage/1930Room.html)
