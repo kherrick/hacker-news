@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-06, 06:52:20](https://news.ycombinator.com/item?id=42959777) - [LLMs Were Backdoored Years Ago](https://remyhax.xyz/posts/plagairism/)
+* [2025-02-06, 07:15:19](https://news.ycombinator.com/item?id=42959923) - [OpenAI Sales Agent Demo](https://twitter.com/charliebitda/status/1887307980338856445)
 * [2025-02-06, 06:23:49](https://news.ycombinator.com/item?id=42959626) - [I wrote a screenplay for a programming language introduction](https://jan.miksovsky.com/)
 * [2025-02-06, 03:30:34](https://news.ycombinator.com/item?id=42958696) - [Programming SDF Animations of Rick and Morty](https://danielchasehooper.com/posts/code-animated-rick/)
 * [2025-02-06, 02:19:49](https://news.ycombinator.com/item?id=42958218) - [Mystery brain disease patients in New Brunswick say they welcome investigation](https://www.ctvnews.ca/atlantic/new-brunswick/article/good-first-step-nb-mystery-brain-disease-patients-welcome-new-investigation/)
