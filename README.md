@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-06, 19:03:50](https://news.ycombinator.com/item?id=42965404) - [Microsoft Go 1.24 FIPS changes](https://devblogs.microsoft.com/go/go-1-24-fips-update/)
 * [2025-02-06, 18:48:05](https://news.ycombinator.com/item?id=42965267) - [Self-hosted, simple web browser service – send URL, get screenshots](https://github.com/US-Artificial-Intelligence/scraper)
 * [2025-02-06, 18:40:30](https://news.ycombinator.com/item?id=42965198) - [SQLite Disk Page Explorer](https://github.com/QuadrupleA/sqlite-page-explorer)
 * [2025-02-06, 18:06:48](https://news.ycombinator.com/item?id=42964883) - [Who Does That Server Serve?](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html)
@@ -27,7 +28,6 @@
 * [2025-02-04, 04:57:26](https://news.ycombinator.com/item?id=42928186) - [Reasons Not to Refactor](https://thoughtbot.com/blog/reasons-not-to-refactor)
 * [2025-02-03, 15:04:07](https://news.ycombinator.com/item?id=42918850) - [Excavated: 52 Egyptian Mummies. Over a Dozen Had Mysterious Golden Tongues](https://www.popularmechanics.com/science/archaeology/a63412049/golden-mummy-tongues/)
 * [2025-02-03, 11:22:44](https://news.ycombinator.com/item?id=42917135) - [T1: A RISC-V Vector processor implementation](https://github.com/chipsalliance/t1)
-* [2025-02-03, 04:21:51](https://news.ycombinator.com/item?id=42914949) - [Scotland's first 'enclosed' salmon farm to open on Loch Long](https://www.bbc.com/news/uk-scotland-glasgow-west-60156103)
 * [2025-02-02, 18:41:04](https://news.ycombinator.com/item?id=42910667) - [Par: Process language with an interactive playground for exploring concurrency](https://github.com/faiface/par-lang)
 * [2025-02-02, 04:43:00](https://news.ycombinator.com/item?id=42905900) - [Minimum effective dose](https://winnielim.org/journal/minimum-effective-dose/)
 
