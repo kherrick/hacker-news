@@ -28,8 +28,8 @@
 * [2025-02-03, 06:43:28](https://news.ycombinator.com/item?id=42915610) - [FreeBSD for hi-fi audio: real-time processing, equalizer, MPD and FFmpeg](https://m4c.pl/blog/freebsd-audio-setup-bitperfect-equalizer-realtime/)
 * [2025-02-03, 06:07:10](https://news.ycombinator.com/item?id=42915437) - [The missing cross-platform OS API for timers](https://gaultier.github.io/blog/the_missing_cross_platform_os_api_for_timers.html)
 * [2025-02-02, 21:35:44](https://news.ycombinator.com/item?id=42912084) - [Physics Rediscovered #6: My trebuchet is bigger than yours](https://michaeldominik.substack.com/p/physics-rediscovered-interlude-my)
+* [2025-02-02, 18:41:04](https://news.ycombinator.com/item?id=42910667) - [Par: Process language with an interactive playground for exploring concurrency](https://github.com/faiface/par-lang)
 * [2025-02-02, 04:43:00](https://news.ycombinator.com/item?id=42905900) - [Minimum effective dose](https://winnielim.org/journal/minimum-effective-dose/)
-* [2025-02-02, 01:32:33](https://news.ycombinator.com/item?id=42904670) - [A Mount Lyell shrew has just been photographed alive](https://www.sfgate.com/bayarea/article/elusive-california-mammal-photographed-20040772.php)
 
 ## [Archives](archives/index.md)
 

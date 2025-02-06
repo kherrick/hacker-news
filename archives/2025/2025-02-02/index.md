@@ -22,6 +22,7 @@
 * [2025-02-02, 19:21:55](https://news.ycombinator.com/item?id=42910983) - [UK betting giant's unlawful marketing kept suicidal gambler hooked](https://www.theguardian.com/society/2025/feb/01/i-lost-10-years-of-my-life-how-uk-betting-giants-unlawful-marketing-kept-suicidal-gambler-hooked)
 * [2025-02-02, 19:12:13](https://news.ycombinator.com/item?id=42910910) - [The young, inexperienced engineers aiding DOGE](https://www.wired.com/story/elon-musk-government-young-engineers/)
 * [2025-02-02, 19:00:10](https://news.ycombinator.com/item?id=42910829) - [The Legacy of Lies in Alzheimer's Science](https://www.nytimes.com/2025/01/24/opinion/alzheimers-fraud-cure.html)
+* [2025-02-02, 18:41:04](https://news.ycombinator.com/item?id=42910667) - [Par: Process language with an interactive playground for exploring concurrency](https://github.com/faiface/par-lang)
 * [2025-02-02, 17:29:24](https://news.ycombinator.com/item?id=42910105) - [Show HN: Groundhog AI Spring API](https://groundhog-day.com/api)
 * [2025-02-02, 17:28:48](https://news.ycombinator.com/item?id=42910099) - [Usaid.gov](https://www.usaid.gov/)
 * [2025-02-02, 17:20:21](https://news.ycombinator.com/item?id=42910028) - [Reinforcement Learning: An Overview (December 2024)](https://arxiv.org/abs/2412.05265)
