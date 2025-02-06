@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-06, 03:26:00",
+      "https://news.ycombinator.com/item?id=42958656"
+    ],
+    [
+      "CERN's open source heritage: Building blocks to share",
+      "https://opensource.web.cern.ch/cern-open-source-heritage"
+    ]
+  ],
+  [
+    [
       "2025-02-06, 02:58:41",
       "https://news.ycombinator.com/item?id=42958474"
     ],
@@ -17,16 +27,6 @@
     [
       "Mystery brain disease patients in New Brunswick say they welcome investigation",
       "https://www.ctvnews.ca/atlantic/new-brunswick/article/good-first-step-nb-mystery-brain-disease-patients-welcome-new-investigation/"
-    ]
-  ],
-  [
-    [
-      "2025-02-06, 01:52:13",
-      "https://news.ycombinator.com/item?id=42958012"
-    ],
-    [
-      "Deep Reinforcement Learning: Pong from Pixels",
-      "http://karpathy.github.io/2016/05/31/rl/"
     ]
   ],
   [
@@ -137,16 +137,6 @@
     [
       "Ploomber (YC W22) Is Hiring Engineers (Infra, Backend, Growth) and Ex-Founders",
       "https://www.ycombinator.com/companies/ploomber/jobs"
-    ]
-  ],
-  [
-    [
-      "2025-02-05, 16:31:24",
-      "https://news.ycombinator.com/item?id=42950929"
-    ],
-    [
-      "Eggs US – Price – Chart",
-      "https://tradingeconomics.com/commodity/eggs-us"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Discord client that works on Win95*, Win98 and above",
       "https://github.com/DiscordMessenger/dm"
+    ]
+  ],
+  [
+    [
+      "2025-02-03, 06:55:19",
+      "https://news.ycombinator.com/item?id=42915669"
+    ],
+    [
+      "Quick correlation of vulnerabilities from various sources",
+      "https://github.com/vulnerability-lookup/vulnerability-lookup"
     ]
   ],
   [
