@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-06, 17:18:27](https://news.ycombinator.com/item?id=42964424) - [Show HN: Make your YC application stand out (Spring 2025 edition)](https://ycscore.com)
 * [2025-02-06, 17:07:55](https://news.ycombinator.com/item?id=42964327) - [GitHub Copilot: The Agent Awakens](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/)
 * [2025-02-06, 17:00:31](https://news.ycombinator.com/item?id=42964269) - [Roe AI (YC W24) Is Hiring](https://www.ycombinator.com/companies/roe-ai/jobs/CZrzxk6-founding-engineer)
 * [2025-02-06, 15:48:54](https://news.ycombinator.com/item?id=42963501) - [Transfinite NIM (the game, not the programming language)](https://jdh.hamkins.org/transfinite-nim/)
@@ -20,6 +19,7 @@
 * [2025-02-05, 18:05:28](https://news.ycombinator.com/item?id=42952605) - [Ingesting PDFs and why Gemini 2.0 changes everything](https://www.sergey.fyi/articles/gemini-flash-2)
 * [2025-02-05, 14:55:03](https://news.ycombinator.com/item?id=42949277) - [Avoiding outrage fatigue while staying informed](https://www.scientificamerican.com/podcast/episode/how-to-avoid-outrage-fatigue-and-tune-in-without-burning-out/)
 * [2025-02-05, 14:47:32](https://news.ycombinator.com/item?id=42949181) - [Why is Warner Bros. Discovery putting old movies on YouTube?](https://tedium.co/2025/02/05/warner-bros-youtube-full-movie-releases/)
+* [2025-02-05, 12:17:47](https://news.ycombinator.com/item?id=42947447) - [OpenLDK: A Java JIT compiler and runtime in Common Lisp](https://github.com/atgreen/openldk)
 * [2025-02-05, 11:05:40](https://news.ycombinator.com/item?id=42946854) - [S1: A $6 R1 competitor?](https://timkellogg.me/blog/2025/02/03/s1)
 * [2025-02-04, 07:22:49](https://news.ycombinator.com/item?id=42929195) - [Show HN: I built a CLI to automate depth tracking on underwater videos](https://github.com/noppanut15/depthviz)
 * [2025-02-04, 04:57:26](https://news.ycombinator.com/item?id=42928186) - [Reasons Not to Refactor](https://thoughtbot.com/blog/reasons-not-to-refactor)
