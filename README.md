@@ -14,7 +14,6 @@
 * [2025-02-05, 21:10:25](https://news.ycombinator.com/item?id=42955176) - [Okta Bcrypt incident lessons for designing better APIs](https://n0rdy.foo/posts/20250121/okta-bcrypt-lessons-for-better-apis/)
 * [2025-02-05, 19:08:12](https://news.ycombinator.com/item?id=42953508) - [Tell HN: Cloudflare is blocking Pale Moon and other non-mainstream browsers](https://news.ycombinator.com/item?id=42953508)
 * [2025-02-05, 18:05:28](https://news.ycombinator.com/item?id=42952605) - [Ingesting PDFs and why Gemini 2.0 changes everything](https://www.sergey.fyi/articles/gemini-flash-2)
-* [2025-02-05, 16:31:24](https://news.ycombinator.com/item?id=42950929) - [Eggs US – Price – Chart](https://tradingeconomics.com/commodity/eggs-us)
 * [2025-02-05, 16:03:18](https://news.ycombinator.com/item?id=42950454) - [Gemini 2.0 is now available to everyone](https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/)
 * [2025-02-05, 15:03:09](https://news.ycombinator.com/item?id=42949390) - [Servo's progress in 2024](https://servo.org/blog/2025/01/31/servo-in-2024/)
 * [2025-02-05, 14:55:03](https://news.ycombinator.com/item?id=42949277) - [Avoiding outrage fatigue while staying informed](https://www.scientificamerican.com/podcast/episode/how-to-avoid-outrage-fatigue-and-tune-in-without-burning-out/)
@@ -28,6 +27,7 @@
 * [2025-02-03, 12:31:15](https://news.ycombinator.com/item?id=42917522) - [The Language Construction Kit (1996, 2012)](https://www.zompist.com/kit.html)
 * [2025-02-03, 11:49:49](https://news.ycombinator.com/item?id=42917268) - [Discord client that works on Win95*, Win98 and above](https://github.com/DiscordMessenger/dm)
 * [2025-02-03, 06:43:28](https://news.ycombinator.com/item?id=42915610) - [FreeBSD for hi-fi audio: real-time processing, equalizer, MPD and FFmpeg](https://m4c.pl/blog/freebsd-audio-setup-bitperfect-equalizer-realtime/)
+* [2025-02-03, 06:07:10](https://news.ycombinator.com/item?id=42915437) - [The missing cross-platform OS API for timers](https://gaultier.github.io/blog/the_missing_cross_platform_os_api_for_timers.html)
 * [2025-02-02, 04:43:00](https://news.ycombinator.com/item?id=42905900) - [Minimum effective dose](https://winnielim.org/journal/minimum-effective-dose/)
 * [2025-02-02, 01:32:33](https://news.ycombinator.com/item?id=42904670) - [A Mount Lyell shrew has just been photographed alive](https://www.sfgate.com/bayarea/article/elusive-california-mammal-photographed-20040772.php)
 

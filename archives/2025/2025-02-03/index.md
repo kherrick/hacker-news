@@ -81,6 +81,7 @@
 * [2025-02-03, 06:31:39](https://news.ycombinator.com/item?id=42915550) - [Integrated magneto-optics with ultra-high endurance for photonic inmem computing](https://www.nature.com/articles/s41566-024-01549-1)
 * [2025-02-03, 06:27:11](https://news.ycombinator.com/item?id=42915527) - [The Nation Needs a Shipbuilding Revolution](https://www.usni.org/magazines/proceedings/2025/february/nation-needs-shipbuilding-revolution)
 * [2025-02-03, 06:20:32](https://news.ycombinator.com/item?id=42915494) - [Auto-AVSR: Audio-Visual Speech Recognition with Automatic Labels](https://github.com/mpc001/auto_avsr)
+* [2025-02-03, 06:07:10](https://news.ycombinator.com/item?id=42915437) - [The missing cross-platform OS API for timers](https://gaultier.github.io/blog/the_missing_cross_platform_os_api_for_timers.html)
 * [2025-02-03, 06:07:00](https://news.ycombinator.com/item?id=42915435) - [Show HN: Apitally – A simple, privacy-focused API monitoring and analytics tool](https://apitally.io)
 * [2025-02-03, 05:19:52](https://news.ycombinator.com/item?id=42915231) - [London Street Views (1840)](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~323099~90092214:Composite--London-Street-Views-No--)
 * [2025-02-03, 04:53:11](https://news.ycombinator.com/item?id=42915113) - [Polish city is using mussels to monitor water quality](https://www.awa.asn.au/resources/latest-news/technology/innovation/polish-city-using-mussels-monitor-water-quality)
