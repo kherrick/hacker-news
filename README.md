@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-06, 03:26:00](https://news.ycombinator.com/item?id=42958656) - [CERN's open source heritage: Building blocks to share](https://opensource.web.cern.ch/cern-open-source-heritage)
 * [2025-02-06, 02:58:41](https://news.ycombinator.com/item?id=42958474) - [Subway crime plummets as ridership jumps significantly in congestion pricing era](https://www.amny.com/nyc-transit/nyc-subway-crime-plummets-ridership-jumps-2025/)
 * [2025-02-06, 02:19:49](https://news.ycombinator.com/item?id=42958218) - [Mystery brain disease patients in New Brunswick say they welcome investigation](https://www.ctvnews.ca/atlantic/new-brunswick/article/good-first-step-nb-mystery-brain-disease-patients-welcome-new-investigation/)
-* [2025-02-06, 01:52:13](https://news.ycombinator.com/item?id=42958012) - [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
 * [2025-02-06, 01:28:17](https://news.ycombinator.com/item?id=42957823) - [6502 Is a Good Starting Point for Beginning Assembly Programming](https://nemanjatrifunovic.substack.com/p/6502-is-a-good-starting-point-for)
 * [2025-02-06, 01:13:32](https://news.ycombinator.com/item?id=42957726) - [Human Brain May Contain as Much as a Spoon's Worth of Microplastics](https://www.smithsonianmag.com/smart-news/the-human-brain-may-contain-as-much-as-a-spoons-worth-of-microplastics-new-research-suggests-180985995/)
 * [2025-02-06, 00:41:43](https://news.ycombinator.com/item?id=42957517) - [What does it mean that MP3 is free?](https://idiallo.com/blog/listen-mp3-is-free)
@@ -14,7 +14,6 @@
 * [2025-02-05, 18:05:28](https://news.ycombinator.com/item?id=42952605) - [Ingesting PDFs and why Gemini 2.0 changes everything](https://www.sergey.fyi/articles/gemini-flash-2)
 * [2025-02-05, 18:04:20](https://news.ycombinator.com/item?id=42952584) - [Running ArchiveTeam's Warrior in Kubernetes](https://gabrielsimmer.com/blog/archiveteam-warrior-kubernetes)
 * [2025-02-05, 17:00:43](https://news.ycombinator.com/item?id=42951511) - [Ploomber (YC W22) Is Hiring Engineers (Infra, Backend, Growth) and Ex-Founders](https://www.ycombinator.com/companies/ploomber/jobs)
-* [2025-02-05, 16:31:24](https://news.ycombinator.com/item?id=42950929) - [Eggs US – Price – Chart](https://tradingeconomics.com/commodity/eggs-us)
 * [2025-02-05, 16:23:10](https://news.ycombinator.com/item?id=42950790) - [20k federal workers take \"buyout\" so far, official says](https://www.axios.com/2025/02/04/trump-buyout-federal-workers-20000)
 * [2025-02-05, 16:03:18](https://news.ycombinator.com/item?id=42950454) - [Gemini 2.0 is now available to everyone](https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/)
 * [2025-02-05, 15:03:09](https://news.ycombinator.com/item?id=42949390) - [Servo's progress in 2024](https://servo.org/blog/2025/01/31/servo-in-2024/)
@@ -28,6 +27,7 @@
 * [2025-02-03, 12:31:15](https://news.ycombinator.com/item?id=42917522) - [The Language Construction Kit](https://www.zompist.com/kit.html)
 * [2025-02-03, 11:56:27](https://news.ycombinator.com/item?id=42917306) - [Run-All](https://news.ycombinator.com/item?id=42917306)
 * [2025-02-03, 11:49:49](https://news.ycombinator.com/item?id=42917268) - [Discord client that works on Win95*, Win98 and above](https://github.com/DiscordMessenger/dm)
+* [2025-02-03, 06:55:19](https://news.ycombinator.com/item?id=42915669) - [Quick correlation of vulnerabilities from various sources](https://github.com/vulnerability-lookup/vulnerability-lookup)
 * [2025-02-02, 04:43:00](https://news.ycombinator.com/item?id=42905900) - [Minimum effective dose](https://winnielim.org/journal/minimum-effective-dose/)
 * [2025-02-02, 03:19:36](https://news.ycombinator.com/item?id=42905439) - [Polarization-dependent photoluminescence of Ce-implanted MgO and MgAl2O4](https://iopscience.iop.org/article/10.35848/1882-0786/ad59f4)
 

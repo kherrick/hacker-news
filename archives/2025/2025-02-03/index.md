@@ -70,6 +70,7 @@
 * [2025-02-03, 07:44:07](https://news.ycombinator.com/item?id=42915901) - [Catgrad: A categorical deep learning compiler](https://catgrad.com/)
 * [2025-02-03, 07:19:29](https://news.ycombinator.com/item?id=42915786) - [Julia and JuliaHub: Advancing Innovation and Growth](https://info.juliahub.com/blog/julia-juliahub-advancing-innovation-and-growth)
 * [2025-02-03, 07:06:12](https://news.ycombinator.com/item?id=42915723) - [Optimizing with Novel Calendrical Algorithms](https://jhpratt.dev/blog/optimizing-with-novel-calendrical-algorithms/)
+* [2025-02-03, 06:55:19](https://news.ycombinator.com/item?id=42915669) - [Quick correlation of vulnerabilities from various sources](https://github.com/vulnerability-lookup/vulnerability-lookup)
 * [2025-02-03, 06:38:50](https://news.ycombinator.com/item?id=42915586) - [Mailspring: Cross-platform, fast, open source mail client](https://github.com/Foundry376/Mailspring)
 * [2025-02-03, 06:31:39](https://news.ycombinator.com/item?id=42915550) - [Integrated magneto-optics with ultra-high endurance for photonic inmem computing](https://www.nature.com/articles/s41566-024-01549-1)
 * [2025-02-03, 06:27:11](https://news.ycombinator.com/item?id=42915527) - [The Nation Needs a Shipbuilding Revolution](https://www.usni.org/magazines/proceedings/2025/february/nation-needs-shipbuilding-revolution)
