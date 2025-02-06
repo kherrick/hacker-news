@@ -86,6 +86,7 @@
 * [2025-02-03, 06:07:00](https://news.ycombinator.com/item?id=42915435) - [Show HN: Apitally – A simple, privacy-focused API monitoring and analytics tool](https://apitally.io)
 * [2025-02-03, 05:19:52](https://news.ycombinator.com/item?id=42915231) - [London Street Views (1840)](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~323099~90092214:Composite--London-Street-Views-No--)
 * [2025-02-03, 04:53:11](https://news.ycombinator.com/item?id=42915113) - [Polish city is using mussels to monitor water quality](https://www.awa.asn.au/resources/latest-news/technology/innovation/polish-city-using-mussels-monitor-water-quality)
+* [2025-02-03, 04:21:51](https://news.ycombinator.com/item?id=42914949) - [Scotland's first 'enclosed' salmon farm to open on Loch Long](https://www.bbc.com/news/uk-scotland-glasgow-west-60156103)
 * [2025-02-03, 03:57:43](https://news.ycombinator.com/item?id=42914794) - [The Economic and Fiscal Effects of the Trump Administration's Proposed Tarrifs](https://budgetlab.yale.edu/research/economic-and-fiscal-effects-trump-administrations-proposed-tarrifs)
 * [2025-02-03, 03:06:59](https://news.ycombinator.com/item?id=42914478) - [The Dumbest Trade War Fallout Begins](https://www.wsj.com/opinion/the-trump-tariff-fallout-begins-canada-mexico-vow-retaliation-economic-uncertainty-da522b44)
 * [2025-02-03, 02:59:00](https://news.ycombinator.com/item?id=42914431) - [Chaplin: Local visual speech recognition (VSR) in real-time](https://github.com/amanvirparhar/chaplin)
