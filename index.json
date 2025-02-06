@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-02-05, 22:46:59",
-      "https://news.ycombinator.com/item?id=42956455"
+      "2025-02-06, 01:13:32",
+      "https://news.ycombinator.com/item?id=42957726"
     ],
     [
-      "Show HN: PulseBeam – Simplify WebRTC by Staying Serverless",
-      "https://github.com/PulseBeamDev/pulsebeam-js"
+      "Human Brain May Contain as Much as a Spoon's Worth of Microplastics",
+      "https://www.smithsonianmag.com/smart-news/the-human-brain-may-contain-as-much-as-a-spoons-worth-of-microplastics-new-research-suggests-180985995/"
+    ]
+  ],
+  [
+    [
+      "2025-02-06, 00:41:43",
+      "https://news.ycombinator.com/item?id=42957517"
+    ],
+    [
+      "You Didn't Notice MP3 Is Now Free",
+      "https://idiallo.com/blog/listen-mp3-is-free"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "Tell HN: Cloudflare is blocking Pale Moon and other non-mainstream browsers",
       "https://news.ycombinator.com/item?id=42953508"
-    ]
-  ],
-  [
-    [
-      "2025-02-05, 18:43:28",
-      "https://news.ycombinator.com/item?id=42953168"
-    ],
-    [
-      "The Sudoku Affair",
-      "https://explaining.software/archive/the-sudoku-affair/"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-02-05, 05:50:16",
-      "https://news.ycombinator.com/item?id=42944371"
-    ],
-    [
-      "Fair Pricing",
-      "https://kagi.com/changelog#6155"
-    ]
-  ],
-  [
-    [
       "2025-02-05, 05:25:19",
       "https://news.ycombinator.com/item?id=42944203"
     ],
@@ -261,22 +251,32 @@
   ],
   [
     [
-      "2025-02-03, 15:38:11",
-      "https://news.ycombinator.com/item?id=42919239"
-    ],
-    [
-      "A luminous, brave, and unputdownable article about blurbs",
-      "https://countercraft.substack.com/p/a-luminous-brave-and-unputdownable"
-    ]
-  ],
-  [
-    [
       "2025-02-03, 12:31:15",
       "https://news.ycombinator.com/item?id=42917522"
     ],
     [
       "The Language Construction Kit",
       "https://www.zompist.com/kit.html"
+    ]
+  ],
+  [
+    [
+      "2025-02-03, 11:56:27",
+      "https://news.ycombinator.com/item?id=42917306"
+    ],
+    [
+      "Run-All",
+      "https://news.ycombinator.com/item?id=42917306"
+    ]
+  ],
+  [
+    [
+      "2025-02-03, 11:49:49",
+      "https://news.ycombinator.com/item?id=42917268"
+    ],
+    [
+      "Discord client that works on Win95*, Win98 and above",
+      "https://github.com/DiscordMessenger/dm"
     ]
   ],
   [
