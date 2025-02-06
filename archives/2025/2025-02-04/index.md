@@ -73,6 +73,7 @@
 * [2025-02-04, 10:50:01](https://news.ycombinator.com/item?id=42930786) - [Backblaze seemingly does not support files greater than 1 TB](https://wadetregaskis.com/backblaze-seemingly-does-not-support-files-greater-than-1-tb/)
 * [2025-02-04, 10:29:27](https://news.ycombinator.com/item?id=42930639) - [OmniHuman-1: Human Animation Models](https://omnihuman-lab.github.io/)
 * [2025-02-04, 09:27:58](https://news.ycombinator.com/item?id=42930185) - [The Final Frontier with Steve Jurvetson](https://cloudvalley.substack.com/p/the-final-frontier-with-steve-jurvetson)
+* [2025-02-04, 09:24:27](https://news.ycombinator.com/item?id=42930161) - [Alpine Linux Seeking Support After Equinix Metal Sunsets](https://alpinelinux.org/posts/Seeking-Support-After-Equinix-Metal-Sunsets.html)
 * [2025-02-04, 08:34:23](https://news.ycombinator.com/item?id=42929754) - [Platform for supporting local sellers and buyers](https://blunum.com/)
 * [2025-02-04, 07:10:30](https://news.ycombinator.com/item?id=42929093) - [El Salvador offers to house violent US criminals and deportees of any nation](https://www.cnn.com/2025/02/03/americas/el-salvador-migrant-deal-marco-rubio-intl-hnk/index.html)
 * [2025-02-04, 06:07:02](https://news.ycombinator.com/item?id=42928645) - [OWASP Non-Human Identities Top](https://owasp.org/www-project-non-human-identities-top-10/)
