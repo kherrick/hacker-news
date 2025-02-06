@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-06](index.md)
 
+* [2025-02-06, 05:00:36](https://news.ycombinator.com/item?id=42959260) - [America's Dangerous Movement Toward Oligarchy, Authoritarianism and Kleptocracy](https://www.counterpunch.org/2025/02/04/americas-dangerous-movement-toward-oligarchy-authoritarianism-and-kleptocracy/)
 * [2025-02-06, 03:30:34](https://news.ycombinator.com/item?id=42958696) - [Programming SDF Animations of Rick and Morty](https://danielchasehooper.com/posts/code-animated-rick/)
 * [2025-02-06, 03:26:00](https://news.ycombinator.com/item?id=42958656) - [CERN's open source heritage: Building blocks to share](https://opensource.web.cern.ch/cern-open-source-heritage)
 * [2025-02-06, 02:58:41](https://news.ycombinator.com/item?id=42958474) - [Subway crime plummets as ridership jumps significantly in congestion pricing era](https://www.amny.com/nyc-transit/nyc-subway-crime-plummets-ridership-jumps-2025/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-06, 05:00:36](https://news.ycombinator.com/item?id=42959260) - [America's Dangerous Movement Toward Oligarchy, Authoritarianism and Kleptocracy](https://www.counterpunch.org/2025/02/04/americas-dangerous-movement-toward-oligarchy-authoritarianism-and-kleptocracy/)
 * [2025-02-06, 03:30:34](https://news.ycombinator.com/item?id=42958696) - [Programming SDF Animations of Rick and Morty](https://danielchasehooper.com/posts/code-animated-rick/)
 * [2025-02-06, 03:26:00](https://news.ycombinator.com/item?id=42958656) - [CERN's open source heritage: Building blocks to share](https://opensource.web.cern.ch/cern-open-source-heritage)
 * [2025-02-06, 02:19:49](https://news.ycombinator.com/item?id=42958218) - [Mystery brain disease patients in New Brunswick say they welcome investigation](https://www.ctvnews.ca/atlantic/new-brunswick/article/good-first-step-nb-mystery-brain-disease-patients-welcome-new-investigation/)
@@ -29,7 +30,6 @@
 * [2025-02-03, 11:49:49](https://news.ycombinator.com/item?id=42917268) - [Discord client that works on Win95*, Win98 and above](https://github.com/DiscordMessenger/dm)
 * [2025-02-02, 04:43:00](https://news.ycombinator.com/item?id=42905900) - [Minimum effective dose](https://winnielim.org/journal/minimum-effective-dose/)
 * [2025-02-02, 03:19:36](https://news.ycombinator.com/item?id=42905439) - [Polarization-dependent photoluminescence of Ce-implanted MgO and MgAl2O4](https://iopscience.iop.org/article/10.35848/1882-0786/ad59f4)
-* [2025-02-02, 01:32:33](https://news.ycombinator.com/item?id=42904670) - [A Mount Lyell shrew has just been photographed alive](https://www.sfgate.com/bayarea/article/elusive-california-mammal-photographed-20040772.php)
 
 ## [Archives](archives/index.md)
 
