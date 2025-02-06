@@ -46,6 +46,7 @@
 * [2025-02-03, 14:30:11](https://news.ycombinator.com/item?id=42918524) - [I Wrote a WebAssembly VM in C](https://irreducible.io/blog/my-wasm-interpreter/)
 * [2025-02-03, 14:18:18](https://news.ycombinator.com/item?id=42918425) - [New York claims a small victory in 'forever war on rats'](https://www.thetimes.com/us/news-today/article/new-york-finally-claims-a-small-victory-in-forever-war-on-rats-m7x230sg8)
 * [2025-02-03, 13:53:48](https://news.ycombinator.com/item?id=42918237) - [Show HN: Klarity – Open-source tool to analyze uncertainty/entropy in LLM output](https://github.com/klara-research/klarity)
+* [2025-02-03, 13:43:52](https://news.ycombinator.com/item?id=42918140) - [Ask HN: Are there any CLI only tools that are monetised](https://news.ycombinator.com/item?id=42918140)
 * [2025-02-03, 12:57:53](https://news.ycombinator.com/item?id=42917754) - [Sony Kills Recordable Blu-ray and Other Vintage Media](https://spectrum.ieee.org/recordable-physical-media)
 * [2025-02-03, 12:53:31](https://news.ycombinator.com/item?id=42917712) - [Show HN: Marksmith – a GitHub-style Markdown editor for Ruby on Rails](https://avohq.io/blog/ruby-on-rails-markdown-editor-marksmith)
 * [2025-02-03, 12:50:36](https://news.ycombinator.com/item?id=42917680) - [\"Anything threatening to be a subculture is commodified before it can walk\"](https://www.dezeen.com/2014/12/18/william-gibson-subculture-commodification-london-justin-mcguirk-opinion/)
