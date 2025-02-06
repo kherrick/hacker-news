@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-06](index.md)
 
+* [2025-02-06, 22:39:22](https://news.ycombinator.com/item?id=42967226) - [Frank Lloyd Wright's mile high skyscraper proposal (2021)](https://www.onverticality.com/blog/frank-lloyd-wright-mile-high-skyscraper)
 * [2025-02-06, 22:27:22](https://news.ycombinator.com/item?id=42967146) - [Trails of Wind (2019)](https://trailsofwind.figures.cc/)
 * [2025-02-06, 21:34:12](https://news.ycombinator.com/item?id=42966720) - [Understanding Reasoning LLMs](https://magazine.sebastianraschka.com/p/understanding-reasoning-llms)
 * [2025-02-06, 21:00:23](https://news.ycombinator.com/item?id=42966455) - [Verse (YC W22) Is Hiring](https://news.ycombinator.com/item?id=42966455)
