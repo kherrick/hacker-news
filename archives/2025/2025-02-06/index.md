@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-06](index.md)
 
+* [2025-02-06, 18:48:05](https://news.ycombinator.com/item?id=42965267) - [Self-hosted, simple web browser service – send URL, get screenshots](https://github.com/US-Artificial-Intelligence/scraper)
 * [2025-02-06, 18:40:30](https://news.ycombinator.com/item?id=42965198) - [SQLite Disk Page Explorer](https://github.com/QuadrupleA/sqlite-page-explorer)
 * [2025-02-06, 18:06:48](https://news.ycombinator.com/item?id=42964883) - [Who Does That Server Serve?](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html)
 * [2025-02-06, 17:54:50](https://news.ycombinator.com/item?id=42964773) - [Scala 3 Migration: Report from the Field](https://blog.pierre-ricadat.com/scala-3-migration-report-from-the-field)
