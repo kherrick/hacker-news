@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-06](index.md)
 
+* [2025-02-06, 21:00:23](https://news.ycombinator.com/item?id=42966455) - [Verse (YC W22) Is Hiring](https://news.ycombinator.com/item?id=42966455)
 * [2025-02-06, 20:02:03](https://news.ycombinator.com/item?id=42965954) - [R1 Computer Use](https://github.com/agentsea/r1-computer-use)
 * [2025-02-06, 19:27:37](https://news.ycombinator.com/item?id=42965627) - [Perpetual Stew](https://en.wikipedia.org/wiki/Perpetual_stew)
 * [2025-02-06, 19:03:50](https://news.ycombinator.com/item?id=42965404) - [Microsoft Go 1.24 FIPS changes](https://devblogs.microsoft.com/go/go-1-24-fips-update/)
