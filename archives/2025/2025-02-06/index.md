@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-02-06](index.md)
 
+* [2025-02-06, 08:27:37](https://news.ycombinator.com/item?id=42960291) - [Cloudflare R2 Global Outage](https://www.cloudflarestatus.com)
 * [2025-02-06, 07:15:19](https://news.ycombinator.com/item?id=42959923) - [OpenAI Sales Agent Demo](https://twitter.com/charliebitda/status/1887307980338856445)
 * [2025-02-06, 06:52:20](https://news.ycombinator.com/item?id=42959777) - [LLMs Were Backdoored Years Ago](https://remyhax.xyz/posts/plagairism/)
+* [2025-02-06, 06:52:17](https://news.ycombinator.com/item?id=42959775) - [Linux Running in a PDF](https://linux.doompdf.dev/linux.pdf)
 * [2025-02-06, 06:23:49](https://news.ycombinator.com/item?id=42959626) - [I wrote a screenplay for a programming language introduction](https://jan.miksovsky.com/)
 * [2025-02-06, 05:43:04](https://news.ycombinator.com/item?id=42959440) - [Google scraps diversity 'aspirations,' citing role as federal contractor](https://www.cnbc.com/2025/02/05/google-scraps-diversity-aspirations-as-a-federal-contractor.html)
 * [2025-02-06, 05:00:36](https://news.ycombinator.com/item?id=42959260) - [America's Dangerous Movement Toward Oligarchy, Authoritarianism and Kleptocracy](https://www.counterpunch.org/2025/02/04/americas-dangerous-movement-toward-oligarchy-authoritarianism-and-kleptocracy/)
