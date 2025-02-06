@@ -12,6 +12,7 @@
 * [2025-02-02, 22:19:10](https://news.ycombinator.com/item?id=42912438) - [F-strings for C++26 proposal [pdf]](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3412r0.pdf)
 * [2025-02-02, 22:15:30](https://news.ycombinator.com/item?id=42912412) - [Emergence of a Second Law of Thermodynamics in Isolated Quantum Systems](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.010309)
 * [2025-02-02, 21:42:02](https://news.ycombinator.com/item?id=42912133) - [Don't make fun of renowned author Dan Brown (2013)](https://onehundredpages.wordpress.com/2013/06/12/dont-make-fun-of-renowned-dan-brown/)
+* [2025-02-02, 21:35:44](https://news.ycombinator.com/item?id=42912084) - [Physics Rediscovered #6: My trebuchet is bigger than yours](https://michaeldominik.substack.com/p/physics-rediscovered-interlude-my)
 * [2025-02-02, 21:07:48](https://news.ycombinator.com/item?id=42911842) - [Costa Rican Supermarket Wins Trademark Battle Against Nintendo](https://ticotimes.net/2025/01/30/david-vs-goliath-costa-rican-super-mario-defeats-nintendo-in-court)
 * [2025-02-02, 20:42:41](https://news.ycombinator.com/item?id=42911598) - [The Network State Coup is Happening Right Now](https://www.thenerdreich.com/the-network-state-coup-is-happening-right-now/)
 * [2025-02-02, 20:31:53](https://news.ycombinator.com/item?id=42911511) - [A loophole used by Shein/Temu to ship packages to US tax-free](https://www.businessinsider.com/shein-temu-de-minimis-tax-loophole-scrutiny-2024-1)
