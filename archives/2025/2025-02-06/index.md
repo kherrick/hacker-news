@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-06](index.md)
 
+* [2025-02-06, 17:54:50](https://news.ycombinator.com/item?id=42964773) - [Scala 3 Migration: Report from the Field](https://blog.pierre-ricadat.com/scala-3-migration-report-from-the-field)
 * [2025-02-06, 17:18:27](https://news.ycombinator.com/item?id=42964424) - [Show HN: Make your YC application stand out (Spring 2025 edition)](https://ycscore.com)
 * [2025-02-06, 17:07:55](https://news.ycombinator.com/item?id=42964327) - [GitHub Copilot: The Agent Awakens](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/)
 * [2025-02-06, 17:00:31](https://news.ycombinator.com/item?id=42964269) - [Roe AI (YC W24) Is Hiring](https://www.ycombinator.com/companies/roe-ai/jobs/CZrzxk6-founding-engineer)

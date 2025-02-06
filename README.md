@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-06, 17:54:50](https://news.ycombinator.com/item?id=42964773) - [Scala 3 Migration: Report from the Field](https://blog.pierre-ricadat.com/scala-3-migration-report-from-the-field)
 * [2025-02-06, 17:07:55](https://news.ycombinator.com/item?id=42964327) - [GitHub Copilot: The Agent Awakens](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/)
 * [2025-02-06, 17:00:31](https://news.ycombinator.com/item?id=42964269) - [Roe AI (YC W24) Is Hiring](https://www.ycombinator.com/companies/roe-ai/jobs/CZrzxk6-founding-engineer)
 * [2025-02-06, 15:48:54](https://news.ycombinator.com/item?id=42963501) - [Transfinite NIM (the game, not the programming language)](https://jdh.hamkins.org/transfinite-nim/)
@@ -25,7 +26,6 @@
 * [2025-02-04, 04:57:26](https://news.ycombinator.com/item?id=42928186) - [Reasons Not to Refactor](https://thoughtbot.com/blog/reasons-not-to-refactor)
 * [2025-02-03, 15:04:07](https://news.ycombinator.com/item?id=42918850) - [Excavated: 52 Egyptian Mummies. Over a Dozen Had Mysterious Golden Tongues](https://www.popularmechanics.com/science/archaeology/a63412049/golden-mummy-tongues/)
 * [2025-02-03, 12:53:31](https://news.ycombinator.com/item?id=42917712) - [Show HN: Marksmith – a GitHub-style Markdown editor for Ruby on Rails](https://avohq.io/blog/ruby-on-rails-markdown-editor-marksmith)
-* [2025-02-03, 12:31:15](https://news.ycombinator.com/item?id=42917522) - [The Language Construction Kit (1996, 2012)](https://www.zompist.com/kit.html)
 * [2025-02-03, 11:22:44](https://news.ycombinator.com/item?id=42917135) - [T1: A RISC-V Vector processor implementation](https://github.com/chipsalliance/t1)
 * [2025-02-03, 06:07:10](https://news.ycombinator.com/item?id=42915437) - [The missing cross-platform OS API for timers](https://gaultier.github.io/blog/the_missing_cross_platform_os_api_for_timers.html)
 * [2025-02-02, 18:41:04](https://news.ycombinator.com/item?id=42910667) - [Par: Process language with an interactive playground for exploring concurrency](https://github.com/faiface/par-lang)
