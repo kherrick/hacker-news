@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-02-06, 15:44:53",
+      "https://news.ycombinator.com/item?id=42963447"
+    ],
+    [
+      "The world has probably passed \"peak air pollution\"",
+      "https://ourworldindata.org/data-insights/the-world-has-probably-passed-peak-air-pollution"
+    ]
+  ],
+  [
+    [
       "2025-02-06, 15:35:32",
       "https://news.ycombinator.com/item?id=42963346"
     ],
     [
       "Show HN: An homage to Tom Dowdy's 1991 screensaver, \"Kaos\"",
       "https://thestrikeagency.com/kaos/"
+    ]
+  ],
+  [
+    [
+      "2025-02-06, 15:08:37",
+      "https://news.ycombinator.com/item?id=42963070"
+    ],
+    [
+      "RustDesk – open-source alternative to TeamViewer",
+      "https://github.com/rustdesk/rustdesk"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-02-06, 01:13:32",
-      "https://news.ycombinator.com/item?id=42957726"
-    ],
-    [
-      "Microplastics in the human brain",
-      "https://www.smithsonianmag.com/smart-news/the-human-brain-may-contain-as-much-as-a-spoons-worth-of-microplastics-new-research-suggests-180985995/"
-    ]
-  ],
-  [
-    [
       "2025-02-05, 21:10:25",
       "https://news.ycombinator.com/item?id=42955176"
     ],
@@ -147,16 +157,6 @@
     [
       "Ingesting PDFs and why Gemini 2.0 changes everything",
       "https://www.sergey.fyi/articles/gemini-flash-2"
-    ]
-  ],
-  [
-    [
-      "2025-02-05, 16:03:18",
-      "https://news.ycombinator.com/item?id=42950454"
-    ],
-    [
-      "Gemini 2.0 is now available to everyone",
-      "https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/"
     ]
   ],
   [
@@ -207,6 +207,16 @@
     [
       "GNU Make Standard Library",
       "https://gmsl.jgc.org/"
+    ]
+  ],
+  [
+    [
+      "2025-02-04, 07:17:06",
+      "https://news.ycombinator.com/item?id=42929151"
+    ],
+    [
+      "What's the Deal with Magnetic Fields?",
+      "https://lcamtuf.substack.com/p/whats-the-deal-with-magnetic-fields"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Minimum effective dose",
       "https://winnielim.org/journal/minimum-effective-dose/"
-    ]
-  ],
-  [
-    [
-      "2025-02-02, 01:32:33",
-      "https://news.ycombinator.com/item?id=42904670"
-    ],
-    [
-      "A Mount Lyell shrew has just been photographed alive",
-      "https://www.sfgate.com/bayarea/article/elusive-california-mammal-photographed-20040772.php"
     ]
   ]
 ]
