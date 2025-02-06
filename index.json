@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-06, 18:48:05",
+      "https://news.ycombinator.com/item?id=42965267"
+    ],
+    [
+      "Self-hosted, simple web browser service – send URL, get screenshots",
+      "https://github.com/US-Artificial-Intelligence/scraper"
+    ]
+  ],
+  [
+    [
       "2025-02-06, 18:40:30",
       "https://news.ycombinator.com/item?id=42965198"
     ],
@@ -221,6 +231,16 @@
   ],
   [
     [
+      "2025-02-04, 07:22:49",
+      "https://news.ycombinator.com/item?id=42929195"
+    ],
+    [
+      "Show HN: I built a CLI to automate depth tracking on underwater videos",
+      "https://github.com/noppanut15/depthviz"
+    ]
+  ],
+  [
+    [
       "2025-02-04, 04:57:26",
       "https://news.ycombinator.com/item?id=42928186"
     ],
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2025-02-03, 12:53:31",
-      "https://news.ycombinator.com/item?id=42917712"
-    ],
-    [
-      "Show HN: Marksmith – a GitHub-style Markdown editor for Ruby on Rails",
-      "https://avohq.io/blog/ruby-on-rails-markdown-editor-marksmith"
-    ]
-  ],
-  [
-    [
       "2025-02-03, 11:22:44",
       "https://news.ycombinator.com/item?id=42917135"
     ],
     [
       "T1: A RISC-V Vector processor implementation",
       "https://github.com/chipsalliance/t1"
-    ]
-  ],
-  [
-    [
-      "2025-02-03, 06:07:10",
-      "https://news.ycombinator.com/item?id=42915437"
-    ],
-    [
-      "The missing cross-platform OS API for timers",
-      "https://gaultier.github.io/blog/the_missing_cross_platform_os_api_for_timers.html"
     ]
   ],
   [
