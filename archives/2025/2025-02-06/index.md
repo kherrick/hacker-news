@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-06](index.md)
 
+* [2025-02-06, 17:07:55](https://news.ycombinator.com/item?id=42964327) - [GitHub Copilot: The Agent Awakens](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/)
 * [2025-02-06, 17:00:31](https://news.ycombinator.com/item?id=42964269) - [Roe AI (YC W24) Is Hiring](https://www.ycombinator.com/companies/roe-ai/jobs/CZrzxk6-founding-engineer)
 * [2025-02-06, 16:31:29](https://news.ycombinator.com/item?id=42963993) - [Public services are for users, not providers](https://www.slowboring.com/p/public-services-are-for-users-not)
 * [2025-02-06, 15:48:54](https://news.ycombinator.com/item?id=42963501) - [Transfinite Nim](https://jdh.hamkins.org/transfinite-nim/)
@@ -18,6 +19,7 @@
 * [2025-02-06, 13:59:13](https://news.ycombinator.com/item?id=42962345) - [Gumroad CEO is no longer hiring junior/mid-level software engineers due to AI](https://twitter.com/shl/status/1887484068075274347)
 * [2025-02-06, 13:34:30](https://news.ycombinator.com/item?id=42962127) - [FDIC has released 175 internal documents on \"Operation Chokepoint 2.0\"](https://www.fdic.gov/foia/correspondence-related-crypto-related-activities)
 * [2025-02-06, 13:17:43](https://news.ycombinator.com/item?id=42962015) - [The Sad Math of Ads: messages of inadequacy and salvation through consumption](https://www.jamesdamore.com/articles/the-sad-math-of-ads)
+* [2025-02-06, 12:39:37](https://news.ycombinator.com/item?id=42961795) - [Explorable Flexagons: Learn to create and flex flexagons (2020)](http://loki3.com/flex/explore/)
 * [2025-02-06, 12:00:23](https://news.ycombinator.com/item?id=42961562) - [Memfault (YC W19) Is Hiring an Android System (AOSP) Engineer](https://jobs.lever.co/memfault/1904a421-de92-46bf-8864-2965582cd6df)
 * [2025-02-06, 11:01:34](https://news.ycombinator.com/item?id=42961192) - [Tesla's sales plummet across Europe](https://www.ft.com/content/ea2329e4-b4bc-4e2d-be34-e9a8ea31129c)
 * [2025-02-06, 10:31:06](https://news.ycombinator.com/item?id=42960989) - [Pre-Trained Large Language Models Use Fourier Features to Compute Addition](https://arxiv.org/abs/2406.03445)
