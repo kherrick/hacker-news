@@ -25,7 +25,7 @@
 * [2025-02-05, 14:47:32](https://news.ycombinator.com/item?id=42949181) - [Why is Warner Bros. Discovery putting old movies on YouTube?](https://tedium.co/2025/02/05/warner-bros-youtube-full-movie-releases/)
 * [2025-02-05, 12:17:47](https://news.ycombinator.com/item?id=42947447) - [OpenLDK: A Java JIT compiler and runtime in Common Lisp](https://github.com/atgreen/openldk)
 * [2025-02-05, 11:35:13](https://news.ycombinator.com/item?id=42947081) - [My Status Circles](https://www.overcomingbias.com/p/my-status-circles)
-* [2025-02-04, 04:57:26](https://news.ycombinator.com/item?id=42928186) - [Reasons Not to Refactor](https://thoughtbot.com/blog/reasons-not-to-refactor)
+* [2025-02-05, 10:53:02](https://news.ycombinator.com/item?id=42946752) - [Steve Meretzky – Working with Douglas Adams on the Hitchhiker's Guide](https://spillhistorie.no/qa-with-game-designer-steve-meretzky/)
 * [2025-02-03, 11:22:44](https://news.ycombinator.com/item?id=42917135) - [T1: A RISC-V Vector processor implementation](https://github.com/chipsalliance/t1)
 * [2025-02-03, 07:54:34](https://news.ycombinator.com/item?id=42915944) - [Evaluating Code Embeddings](https://blog.voyageai.com/2024/12/04/code-retrieval-eval/)
 * [2025-02-02, 18:41:04](https://news.ycombinator.com/item?id=42910667) - [Par: Process language with an interactive playground for exploring concurrency](https://github.com/faiface/par-lang)
