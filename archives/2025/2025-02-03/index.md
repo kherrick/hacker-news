@@ -60,6 +60,7 @@
 * [2025-02-03, 12:02:27](https://news.ycombinator.com/item?id=42917338) - [How to Prepare Your Next RPG Campaign Instantly](https://rpgtabletops.com/products/the-ultimate-maps-bundle)
 * [2025-02-03, 11:56:27](https://news.ycombinator.com/item?id=42917306) - [Run-All](https://news.ycombinator.com/item?id=42917306)
 * [2025-02-03, 11:49:49](https://news.ycombinator.com/item?id=42917268) - [Discord client that works on Win95*, Win98 and above](https://github.com/DiscordMessenger/dm)
+* [2025-02-03, 11:22:44](https://news.ycombinator.com/item?id=42917135) - [T1: A RISC-V Vector processor implementation](https://github.com/chipsalliance/t1)
 * [2025-02-03, 10:47:33](https://news.ycombinator.com/item?id=42916934) - [Show HN: Calculate Your Revenue](https://postmake.io/revenue)
 * [2025-02-03, 10:31:13](https://news.ycombinator.com/item?id=42916849) - [AI systems with 'unacceptable risk' are now banned in the EU](https://techcrunch.com/2025/02/02/ai-systems-with-unacceptable-risk-are-now-banned-in-the-eu/)
 * [2025-02-03, 10:17:41](https://news.ycombinator.com/item?id=42916770) - [Bluesky now has 30 million users](https://bsky.app/profile/bsky.app/post/3lgu4lg6j2k2v)
