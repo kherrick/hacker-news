@@ -67,6 +67,7 @@
 * [2025-02-03, 09:16:26](https://news.ycombinator.com/item?id=42916400) - [Google removed 2.36M apps from Google Play using AI threat detection](https://security.googleblog.com/2025/01/how-we-kept-google-play-android-app-ecosystem-safe-2024.html)
 * [2025-02-03, 08:46:27](https://news.ycombinator.com/item?id=42916219) - [Bayesian Epistemology](https://plato.stanford.edu/entries/epistemology-bayesian/)
 * [2025-02-03, 08:43:13](https://news.ycombinator.com/item?id=42916203) - [Ruby \"Thread Contention\" Is Simply GVL Queuing](https://island94.org/2025/01/ruby-thread-contention-simply-gvl-queuing)
+* [2025-02-03, 08:24:31](https://news.ycombinator.com/item?id=42916098) - [Show HN: Multi-/BiKeyMap (Go Module)](https://github.com/aeimer/go-multikeymap)
 * [2025-02-03, 08:11:58](https://news.ycombinator.com/item?id=42916034) - [Show HN: Gave Claude LSD SQL](https://github.com/lsd-so/lsd-mcp)
 * [2025-02-03, 07:46:37](https://news.ycombinator.com/item?id=42915905) - [Anthropic: \"Applicants should not use AI assistants\"](https://simonwillison.net/2025/Feb/2/anthropic/)
 * [2025-02-03, 07:44:07](https://news.ycombinator.com/item?id=42915901) - [Catgrad: A categorical deep learning compiler](https://catgrad.com/)
