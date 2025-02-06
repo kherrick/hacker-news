@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-06, 09:52:27](https://news.ycombinator.com/item?id=42960788) - [US Cloud soon illegal in EU? US punches first hole in EU-US Data Deal](https://noyb.eu/en/us-cloud-soon-illegal-trump-punches-first-hole-eu-us-data-deal)
 * [2025-02-06, 08:43:51](https://news.ycombinator.com/item?id=42960382) - [Cameras of 1930s Era](https://licm.org.uk/livingImage/1930Room.html)
 * [2025-02-06, 08:27:37](https://news.ycombinator.com/item?id=42960291) - [Cloudflare R2 Global Outage](https://www.cloudflarestatus.com)
 * [2025-02-06, 08:18:31](https://news.ycombinator.com/item?id=42960241) - [Markdown's Big Brother: Say Hello to AsciiDoc](https://www.git-tower.com/blog/asciidoc-quick-guide/)
@@ -22,7 +23,6 @@
 * [2025-02-05, 11:05:40](https://news.ycombinator.com/item?id=42946854) - [S1: A $6 R1 competitor?](https://timkellogg.me/blog/2025/02/03/s1)
 * [2025-02-05, 09:50:30](https://news.ycombinator.com/item?id=42946281) - [Software development topics I've changed my mind on](https://chriskiehl.com/article/thoughts-after-10-years)
 * [2025-02-05, 07:30:59](https://news.ycombinator.com/item?id=42945146) - [GNU Make Standard Library](https://gmsl.jgc.org/)
-* [2025-02-04, 01:40:06](https://news.ycombinator.com/item?id=42926359) - [Ask HN: Do you know travel blogs that have animated SVG maps of their travels?](https://news.ycombinator.com/item?id=42926359)
 * [2025-02-03, 15:04:07](https://news.ycombinator.com/item?id=42918850) - [Excavated: 52 Egyptian Mummies. Over a Dozen Had Mysterious Golden Tongues](https://www.popularmechanics.com/science/archaeology/a63412049/golden-mummy-tongues/)
 * [2025-02-03, 12:53:31](https://news.ycombinator.com/item?id=42917712) - [Show HN: Marksmith – a GitHub-style Markdown editor for Ruby on Rails](https://avohq.io/blog/ruby-on-rails-markdown-editor-marksmith)
 * [2025-02-03, 12:31:15](https://news.ycombinator.com/item?id=42917522) - [The Language Construction Kit (1996, 2012)](https://www.zompist.com/kit.html)

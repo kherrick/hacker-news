@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-06](index.md)
 
+* [2025-02-06, 09:52:27](https://news.ycombinator.com/item?id=42960788) - [US Cloud soon illegal in EU? US punches first hole in EU-US Data Deal](https://noyb.eu/en/us-cloud-soon-illegal-trump-punches-first-hole-eu-us-data-deal)
 * [2025-02-06, 08:43:51](https://news.ycombinator.com/item?id=42960382) - [Cameras of 1930s Era](https://licm.org.uk/livingImage/1930Room.html)
 * [2025-02-06, 08:27:37](https://news.ycombinator.com/item?id=42960291) - [Cloudflare R2 Global Outage](https://www.cloudflarestatus.com)
 * [2025-02-06, 08:18:31](https://news.ycombinator.com/item?id=42960241) - [Markdown's Big Brother: Say Hello to AsciiDoc](https://www.git-tower.com/blog/asciidoc-quick-guide/)
