@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2025-02-05, 11:05:40",
-      "https://news.ycombinator.com/item?id=42946854"
-    ],
-    [
-      "S1: A $6 R1 competitor?",
-      "https://timkellogg.me/blog/2025/02/03/s1"
-    ]
-  ],
-  [
-    [
       "2025-02-04, 04:57:26",
       "https://news.ycombinator.com/item?id=42928186"
     ],
@@ -277,6 +267,16 @@
     [
       "Evaluating Code Embeddings",
       "https://blog.voyageai.com/2024/12/04/code-retrieval-eval/"
+    ]
+  ],
+  [
+    [
+      "2025-02-03, 06:07:10",
+      "https://news.ycombinator.com/item?id=42915437"
+    ],
+    [
+      "The missing cross-platform OS API for timers",
+      "https://gaultier.github.io/blog/the_missing_cross_platform_os_api_for_timers.html"
     ]
   ],
   [
