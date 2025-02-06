@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2025-02-05, 16:31:24",
-      "https://news.ycombinator.com/item?id=42950929"
-    ],
-    [
-      "Eggs US – Price – Chart",
-      "https://tradingeconomics.com/commodity/eggs-us"
-    ]
-  ],
-  [
-    [
       "2025-02-05, 16:03:18",
       "https://news.ycombinator.com/item?id=42950454"
     ],
@@ -277,6 +267,16 @@
     [
       "FreeBSD for hi-fi audio: real-time processing, equalizer, MPD and FFmpeg",
       "https://m4c.pl/blog/freebsd-audio-setup-bitperfect-equalizer-realtime/"
+    ]
+  ],
+  [
+    [
+      "2025-02-03, 06:07:10",
+      "https://news.ycombinator.com/item?id=42915437"
+    ],
+    [
+      "The missing cross-platform OS API for timers",
+      "https://gaultier.github.io/blog/the_missing_cross_platform_os_api_for_timers.html"
     ]
   ],
   [
