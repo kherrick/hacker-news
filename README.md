@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-06, 02:24:33](https://news.ycombinator.com/item?id=42958257) - [NOAA Employees Told to Pause Work with 'Foreign Nationals'](https://www.wired.com/story/noaa-employees-foreign-nationals/)
 * [2025-02-06, 01:13:32](https://news.ycombinator.com/item?id=42957726) - [Human Brain May Contain as Much as a Spoon's Worth of Microplastics](https://www.smithsonianmag.com/smart-news/the-human-brain-may-contain-as-much-as-a-spoons-worth-of-microplastics-new-research-suggests-180985995/)
-* [2025-02-06, 00:41:43](https://news.ycombinator.com/item?id=42957517) - [You Didn't Notice MP3 Is Now Free](https://idiallo.com/blog/listen-mp3-is-free)
+* [2025-02-06, 00:41:43](https://news.ycombinator.com/item?id=42957517) - [What does it mean that MP3 is free?](https://idiallo.com/blog/listen-mp3-is-free)
 * [2025-02-05, 21:42:20](https://news.ycombinator.com/item?id=42955613) - [It's unlikely that there will be any further releases of mt32-pi](https://github.com/dwhinham/mt32-pi/blob/075b52809e77420c6e80828825fe42430336b369/README.md)
 * [2025-02-05, 21:23:09](https://news.ycombinator.com/item?id=42955356) - [News from Scroll 5](https://scrollprize.substack.com/p/exciting-news-from-scroll-5)
 * [2025-02-05, 21:10:25](https://news.ycombinator.com/item?id=42955176) - [Okta Bcrypt incident lessons for designing better APIs](https://n0rdy.foo/posts/20250121/okta-bcrypt-lessons-for-better-apis/)
-* [2025-02-05, 20:26:00](https://news.ycombinator.com/item?id=42954621) - [DARPA solicitation for the Active Social Engineering Defense program (2017)](https://www.highergov.com/contract-opportunity/active-social-engineering-defense-ased-hr001117s0050-p-67f55/)
 * [2025-02-05, 19:08:12](https://news.ycombinator.com/item?id=42953508) - [Tell HN: Cloudflare is blocking Pale Moon and other non-mainstream browsers](https://news.ycombinator.com/item?id=42953508)
 * [2025-02-05, 18:29:30](https://news.ycombinator.com/item?id=42952960) - [Andrej Karpathy: Deep Dive into LLMs Like ChatGPT [video]](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 * [2025-02-05, 18:05:28](https://news.ycombinator.com/item?id=42952605) - [Ingesting PDFs and why Gemini 2.0 changes everything](https://www.sergey.fyi/articles/gemini-flash-2)
