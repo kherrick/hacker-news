@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-06, 15:35:32](https://news.ycombinator.com/item?id=42963346) - [Show HN: An homage to Tom Dowdy's 1991 screensaver, \"Kaos\"](https://thestrikeagency.com/kaos/)
 * [2025-02-06, 14:35:04](https://news.ycombinator.com/item?id=42962702) - [U.S. Government Disclosed 39 Zero-Day Vulnerabilities in 2023, First-Ever Report](https://www.zetter-zeroday.com/u-s-government-disclosed-39-zero-day-vulnerabilities-in-2023-per-first-ever-report/)
 * [2025-02-06, 12:00:23](https://news.ycombinator.com/item?id=42961562) - [Memfault (YC W19) Is Hiring an Android System (AOSP) Engineer](https://jobs.lever.co/memfault/1904a421-de92-46bf-8864-2965582cd6df)
 * [2025-02-06, 10:31:06](https://news.ycombinator.com/item?id=42960989) - [Pre-Trained Large Language Models Use Fourier Features for Addition (2024)](https://arxiv.org/abs/2406.03445)
@@ -14,7 +15,6 @@
 * [2025-02-05, 21:10:25](https://news.ycombinator.com/item?id=42955176) - [Okta Bcrypt incident lessons for designing better APIs](https://n0rdy.foo/posts/20250121/okta-bcrypt-lessons-for-better-apis/)
 * [2025-02-05, 19:08:12](https://news.ycombinator.com/item?id=42953508) - [Tell HN: Cloudflare is blocking Pale Moon and other non-mainstream browsers](https://news.ycombinator.com/item?id=42953508)
 * [2025-02-05, 18:05:28](https://news.ycombinator.com/item?id=42952605) - [Ingesting PDFs and why Gemini 2.0 changes everything](https://www.sergey.fyi/articles/gemini-flash-2)
-* [2025-02-05, 16:31:24](https://news.ycombinator.com/item?id=42950929) - [Eggs US – Price – Chart](https://tradingeconomics.com/commodity/eggs-us)
 * [2025-02-05, 16:03:18](https://news.ycombinator.com/item?id=42950454) - [Gemini 2.0 is now available to everyone](https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/)
 * [2025-02-05, 14:55:03](https://news.ycombinator.com/item?id=42949277) - [Avoiding outrage fatigue while staying informed](https://www.scientificamerican.com/podcast/episode/how-to-avoid-outrage-fatigue-and-tune-in-without-burning-out/)
 * [2025-02-05, 14:47:32](https://news.ycombinator.com/item?id=42949181) - [Why is Warner Bros. Discovery putting old movies on YouTube?](https://tedium.co/2025/02/05/warner-bros-youtube-full-movie-releases/)
