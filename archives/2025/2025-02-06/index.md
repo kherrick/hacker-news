@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-06](index.md)
 
+* [2025-02-06, 17:00:31](https://news.ycombinator.com/item?id=42964269) - [Roe AI (YC W24) Is Hiring](https://www.ycombinator.com/companies/roe-ai/jobs/CZrzxk6-founding-engineer)
+* [2025-02-06, 16:31:29](https://news.ycombinator.com/item?id=42963993) - [Public services are for users, not providers](https://www.slowboring.com/p/public-services-are-for-users-not)
 * [2025-02-06, 15:48:54](https://news.ycombinator.com/item?id=42963501) - [Transfinite Nim](https://jdh.hamkins.org/transfinite-nim/)
 * [2025-02-06, 15:44:53](https://news.ycombinator.com/item?id=42963447) - [The world has probably passed \"peak air pollution\"](https://ourworldindata.org/data-insights/the-world-has-probably-passed-peak-air-pollution)
 * [2025-02-06, 15:35:32](https://news.ycombinator.com/item?id=42963346) - [Show HN: An homage to Tom Dowdy's 1991 screensaver, \"Kaos\"](https://thestrikeagency.com/kaos/)
