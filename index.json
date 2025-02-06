@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-06, 22:27:22",
+      "https://news.ycombinator.com/item?id=42967146"
+    ],
+    [
+      "Trails of Wind (2019)",
+      "https://trailsofwind.figures.cc/"
+    ]
+  ],
+  [
+    [
+      "2025-02-06, 21:34:12",
+      "https://news.ycombinator.com/item?id=42966720"
+    ],
+    [
+      "Understanding Reasoning LLMs",
+      "https://magazine.sebastianraschka.com/p/understanding-reasoning-llms"
+    ]
+  ],
+  [
+    [
       "2025-02-06, 21:00:23",
       "https://news.ycombinator.com/item?id=42966455"
     ],
@@ -17,16 +37,6 @@
     [
       "R1 Computer Use",
       "https://github.com/agentsea/r1-computer-use"
-    ]
-  ],
-  [
-    [
-      "2025-02-06, 19:27:37",
-      "https://news.ycombinator.com/item?id=42965627"
-    ],
-    [
-      "Perpetual Stew",
-      "https://en.wikipedia.org/wiki/Perpetual_stew"
     ]
   ],
   [
@@ -175,18 +185,8 @@
       "https://news.ycombinator.com/item?id=42958696"
     ],
     [
-      "Programming SDF Animations of Rick and Morty",
+      "Programming SDF animations of Rick and Morty",
       "https://danielchasehooper.com/posts/code-animated-rick/"
-    ]
-  ],
-  [
-    [
-      "2025-02-06, 01:28:17",
-      "https://news.ycombinator.com/item?id=42957823"
-    ],
-    [
-      "I believe 6502 instruction set is a good first assembly language",
-      "https://nemanjatrifunovic.substack.com/p/6502-is-a-good-starting-point-for"
     ]
   ],
   [
@@ -201,32 +201,12 @@
   ],
   [
     [
-      "2025-02-05, 21:10:25",
-      "https://news.ycombinator.com/item?id=42955176"
+      "2025-02-05, 12:59:50",
+      "https://news.ycombinator.com/item?id=42947875"
     ],
     [
-      "Okta Bcrypt incident lessons for designing better APIs",
-      "https://n0rdy.foo/posts/20250121/okta-bcrypt-lessons-for-better-apis/"
-    ]
-  ],
-  [
-    [
-      "2025-02-05, 19:08:12",
-      "https://news.ycombinator.com/item?id=42953508"
-    ],
-    [
-      "Tell HN: Cloudflare is blocking Pale Moon and other non-mainstream browsers",
-      "https://news.ycombinator.com/item?id=42953508"
-    ]
-  ],
-  [
-    [
-      "2025-02-05, 14:47:32",
-      "https://news.ycombinator.com/item?id=42949181"
-    ],
-    [
-      "Why is Warner Bros. Discovery putting old movies on YouTube?",
-      "https://tedium.co/2025/02/05/warner-bros-youtube-full-movie-releases/"
+      "Show HN: ArXivTok",
+      "https://arxivtok.vercel.app/"
     ]
   ],
   [
@@ -261,6 +241,26 @@
   ],
   [
     [
+      "2025-02-03, 17:47:06",
+      "https://news.ycombinator.com/item?id=42920799"
+    ],
+    [
+      "Biophysics: How Does Life Happen When There's Barely Any Light?",
+      "https://www.quantamagazine.org/how-does-life-happen-when-theres-barely-any-light-20250129/"
+    ]
+  ],
+  [
+    [
+      "2025-02-03, 15:04:07",
+      "https://news.ycombinator.com/item?id=42918850"
+    ],
+    [
+      "Excavated: 52 Egyptian Mummies. Over a Dozen Had Mysterious Golden Tongues",
+      "https://www.popularmechanics.com/science/archaeology/a63412049/golden-mummy-tongues/"
+    ]
+  ],
+  [
+    [
       "2025-02-03, 11:22:44",
       "https://news.ycombinator.com/item?id=42917135"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2025-02-03, 06:07:10",
+      "https://news.ycombinator.com/item?id=42915437"
+    ],
+    [
+      "The missing cross-platform OS API for timers",
+      "https://gaultier.github.io/blog/the_missing_cross_platform_os_api_for_timers.html"
+    ]
+  ],
+  [
+    [
       "2025-02-02, 18:41:04",
       "https://news.ycombinator.com/item?id=42910667"
     ],
     [
       "Par: Process language with an interactive playground for exploring concurrency",
       "https://github.com/faiface/par-lang"
-    ]
-  ],
-  [
-    [
-      "2025-02-02, 04:43:00",
-      "https://news.ycombinator.com/item?id=42905900"
-    ],
-    [
-      "Minimum effective dose",
-      "https://winnielim.org/journal/minimum-effective-dose/"
     ]
   ]
 ]
