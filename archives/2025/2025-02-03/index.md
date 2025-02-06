@@ -72,6 +72,7 @@
 * [2025-02-03, 08:43:13](https://news.ycombinator.com/item?id=42916203) - [Ruby \"Thread Contention\" Is Simply GVL Queuing](https://island94.org/2025/01/ruby-thread-contention-simply-gvl-queuing)
 * [2025-02-03, 08:24:31](https://news.ycombinator.com/item?id=42916098) - [Show HN: Multi-/BiKeyMap (Go Module)](https://github.com/aeimer/go-multikeymap)
 * [2025-02-03, 08:11:58](https://news.ycombinator.com/item?id=42916034) - [Show HN: Gave Claude LSD SQL](https://github.com/lsd-so/lsd-mcp)
+* [2025-02-03, 07:54:34](https://news.ycombinator.com/item?id=42915944) - [Evaluating Code Embeddings](https://blog.voyageai.com/2024/12/04/code-retrieval-eval/)
 * [2025-02-03, 07:46:37](https://news.ycombinator.com/item?id=42915905) - [Anthropic: \"Applicants should not use AI assistants\"](https://simonwillison.net/2025/Feb/2/anthropic/)
 * [2025-02-03, 07:44:07](https://news.ycombinator.com/item?id=42915901) - [Catgrad: A categorical deep learning compiler](https://catgrad.com/)
 * [2025-02-03, 07:19:29](https://news.ycombinator.com/item?id=42915786) - [Julia and JuliaHub: Advancing Innovation and Growth](https://info.juliahub.com/blog/julia-juliahub-advancing-innovation-and-growth)
