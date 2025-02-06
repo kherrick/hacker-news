@@ -46,6 +46,7 @@
 * [2025-02-03, 14:42:51](https://news.ycombinator.com/item?id=42918644) - [He Went to Jail for Stealing Someone's Identity. But It Was His All Along](https://www.nytimes.com/2025/02/03/us/iowa-identity-theft-sentencing.html)
 * [2025-02-03, 14:30:11](https://news.ycombinator.com/item?id=42918524) - [I Wrote a WebAssembly VM in C](https://irreducible.io/blog/my-wasm-interpreter/)
 * [2025-02-03, 14:18:18](https://news.ycombinator.com/item?id=42918425) - [New York claims a small victory in 'forever war on rats'](https://www.thetimes.com/us/news-today/article/new-york-finally-claims-a-small-victory-in-forever-war-on-rats-m7x230sg8)
+* [2025-02-03, 14:04:54](https://news.ycombinator.com/item?id=42918325) - [Zero-click WhatsApp spyware targeted 90 journalists, says Meta](https://9to5mac.com/2025/02/03/zero-click-whatsapp-spyware-targeted-90-journalists-says-meta/)
 * [2025-02-03, 13:53:48](https://news.ycombinator.com/item?id=42918237) - [Show HN: Klarity – Open-source tool to analyze uncertainty/entropy in LLM output](https://github.com/klara-research/klarity)
 * [2025-02-03, 13:43:52](https://news.ycombinator.com/item?id=42918140) - [Ask HN: Are there any CLI only tools that are monetised](https://news.ycombinator.com/item?id=42918140)
 * [2025-02-03, 12:57:53](https://news.ycombinator.com/item?id=42917754) - [Sony Kills Recordable Blu-ray and Other Vintage Media](https://spectrum.ieee.org/recordable-physical-media)
