@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-06, 20:02:03",
+      "https://news.ycombinator.com/item?id=42965954"
+    ],
+    [
+      "R1 Computer Use",
+      "https://github.com/agentsea/r1-computer-use"
+    ]
+  ],
+  [
+    [
       "2025-02-06, 19:03:50",
       "https://news.ycombinator.com/item?id=42965404"
     ],
@@ -267,16 +277,6 @@
     [
       "Evaluating Code Embeddings",
       "https://blog.voyageai.com/2024/12/04/code-retrieval-eval/"
-    ]
-  ],
-  [
-    [
-      "2025-02-03, 06:07:10",
-      "https://news.ycombinator.com/item?id=42915437"
-    ],
-    [
-      "The missing cross-platform OS API for timers",
-      "https://gaultier.github.io/blog/the_missing_cross_platform_os_api_for_timers.html"
     ]
   ],
   [
