@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-02-07](index.md)
 
+* [2025-02-07, 14:25:35](https://news.ycombinator.com/item?id=42972876) - [Feds Halt the National Electric Vehicle Charging Program](https://www.wired.com/story/feds-halt-national-electric-vehicle-charging-program/)
+* [2025-02-07, 14:18:54](https://news.ycombinator.com/item?id=42972791) - [How to help us build open source Pebble software](https://ericmigi.com/blog/how-to-help-build-open-source-pebble-software/)
+* [2025-02-07, 13:44:09](https://news.ycombinator.com/item?id=42972420) - [Procedural Hydrology: Dynamic Lake and River Simulation (2020)](https://nickmcd.me/2020/04/15/procedural-hydrology/)
 * [2025-02-07, 13:40:19](https://news.ycombinator.com/item?id=42972380) - [Entity-Component-System Architecture in Kubernetes](https://fancl20.github.io/contents/00-posts/2025-02-07-ecs-and-k8s.html)
 * [2025-02-07, 13:32:44](https://news.ycombinator.com/item?id=42972315) - [Rewrote 42k lines of code from Python to Go. Technical deep dive](https://lovable.dev/blog/from-python-to-go)
 * [2025-02-07, 13:11:56](https://news.ycombinator.com/item?id=42972129) - [UK government reportedly demands Apple backdoor to encrypted cloud data](https://techcrunch.com/2025/02/07/uk-government-demands-apple-backdoor-to-encrypted-cloud-data-report/)
