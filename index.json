@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-07, 13:02:03",
+      "https://news.ycombinator.com/item?id=42972062"
+    ],
+    [
+      "Asahi Linux Lead Developer Hector Martin Resigns from Linux Kernel",
+      "https://lkml.org/lkml/2025/2/7/9"
+    ]
+  ],
+  [
+    [
       "2025-02-07, 12:33:23",
       "https://news.ycombinator.com/item?id=42971847"
     ],
@@ -27,6 +37,16 @@
     [
       "InspectMind AI (YC W24) Is Hiring for AI in Construction",
       "https://www.ycombinator.com/companies/inspectmind-ai/jobs/XlRFssT-software-engineer"
+    ]
+  ],
+  [
+    [
+      "2025-02-07, 11:42:40",
+      "https://news.ycombinator.com/item?id=42971533"
+    ],
+    [
+      "Apple ordered to open encrypted user accounts globally to UK spying",
+      "https://www.theverge.com/news/608145/apple-uk-icloud-encrypted-backups-spying-snoopers-charter"
     ]
   ],
   [
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2025-02-07, 06:38:35",
-      "https://news.ycombinator.com/item?id=42970076"
-    ],
-    [
-      "Google Fixes Android Kernel Zero-Day Exploited in Attacks",
-      "https://thedefendopsdiaries.com/google-fixes-android-kernel-zero-day-exploited-in-attacks/"
-    ]
-  ],
-  [
-    [
       "2025-02-07, 06:32:00",
       "https://news.ycombinator.com/item?id=42970039"
     ],
@@ -127,16 +137,6 @@
     [
       "There may not be aha moment in R1-Zero-like training",
       "https://oatllm.notion.site/oat-zero"
-    ]
-  ],
-  [
-    [
-      "2025-02-07, 04:42:39",
-      "https://news.ycombinator.com/item?id=42969494"
-    ],
-    [
-      "HTML whitespace is broken (2024)",
-      "https://blog.dwac.dev/posts/html-whitespace/"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-02-06, 13:18:21",
-      "https://news.ycombinator.com/item?id=42962020"
-    ],
-    [
-      "It is time to standardize principles and practices for software memory safety",
-      "https://cacm.acm.org/opinion/it-is-time-to-standardize-principles-and-practices-for-software-memory-safety/"
-    ]
-  ],
-  [
-    [
       "2025-02-06, 10:13:26",
       "https://news.ycombinator.com/item?id=42960907"
     ],
@@ -277,6 +267,16 @@
     [
       "The King in Yellow",
       "https://en.wikipedia.org/wiki/The_King_in_Yellow"
+    ]
+  ],
+  [
+    [
+      "2025-02-04, 09:42:46",
+      "https://news.ycombinator.com/item?id=42930301"
+    ],
+    [
+      "Experience the DeepSeek R1 Distilled 'Reasoning' Models on Ryzen AI and Radeon",
+      "https://community.amd.com/t5/ai/experience-the-deepseek-r1-distilled-reasoning-models-on-amd/ba-p/740593"
     ]
   ],
   [
