@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-07, 03:24:34](https://news.ycombinator.com/item?id=42968995) - [Andreessen Horowitz Defends Hiring of Daniel Penny to Its Investors](https://www.nytimes.com/2025/02/05/technology/daniel-penny-andreessen-horowitz-investors.html)
 * [2025-02-07, 03:11:56](https://news.ycombinator.com/item?id=42968858) - [Easy 6502](https://skilldrick.github.io/easy6502/)
 * [2025-02-07, 02:44:09](https://news.ycombinator.com/item?id=42968700) - [Robust Autonomy Emerges from Self-Play](https://arxiv.org/abs/2502.03349)
 * [2025-02-07, 02:13:03](https://news.ycombinator.com/item?id=42968547) - [Transformer Implemented Using Excel](https://www.byhand.ai/p/transformer-spreadsheet)
@@ -13,7 +14,6 @@
 * [2025-02-06, 17:54:50](https://news.ycombinator.com/item?id=42964773) - [Scala 3 Migration: Report from the field](https://blog.pierre-ricadat.com/scala-3-migration-report-from-the-field)
 * [2025-02-06, 15:35:32](https://news.ycombinator.com/item?id=42963346) - [Show HN: An homage to Tom Dowdy's 1991 screensaver, \"Kaos\"](https://thestrikeagency.com/kaos/)
 * [2025-02-06, 14:15:28](https://news.ycombinator.com/item?id=42962508) - [Simulating water over terrain](https://lisyarus.github.io/blog/posts/simulating-water-over-terrain.html)
-* [2025-02-06, 10:31:06](https://news.ycombinator.com/item?id=42960989) - [Pre-Trained Large Language Models Use Fourier Features for Addition (2024)](https://arxiv.org/abs/2406.03445)
 * [2025-02-06, 10:13:26](https://news.ycombinator.com/item?id=42960907) - [Aluminum Batteries Outlive Lithium-Ion with a Pinch of Salt](https://spectrum.ieee.org/aluminum-battery)
 * [2025-02-06, 07:58:33](https://news.ycombinator.com/item?id=42960144) - [Paper Apps](https://gladdendesign.com/collections/paper-apps)
 * [2025-02-06, 04:54:18](https://news.ycombinator.com/item?id=42959226) - [Show HN: Heap Explorer](https://github.com/heap-exploitation/heap-explorer)
