@@ -6,6 +6,7 @@
 
 * [2025-02-07, 07:41:38](https://news.ycombinator.com/item?id=42970397) - [How does life happen when there's barely any light?](https://www.quantamagazine.org/how-does-life-happen-when-theres-barely-any-light-20250129/)
 * [2025-02-07, 07:11:36](https://news.ycombinator.com/item?id=42970240) - [Donald Knuth's 2024 Christmas Lecture: Strong and Weak Components [video]](https://www.youtube.com/watch?v=Hi8r_63LGyg)
+* [2025-02-07, 06:32:00](https://news.ycombinator.com/item?id=42970039) - [Harvard preserving for public use data.gov datasets](https://lil.law.harvard.edu/blog/2025/02/06/announcing-data-gov-archive/)
 * [2025-02-07, 05:34:59](https://news.ycombinator.com/item?id=42969750) - [HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models](https://arxiv.org/abs/2405.14831)
 * [2025-02-07, 05:09:37](https://news.ycombinator.com/item?id=42969650) - [Did UCLA Just Cure Baldness?](https://newsroom.ucla.edu/magazine/baldness-cure-pp405-molecule-breakthrough-treatment)
 * [2025-02-07, 05:08:36](https://news.ycombinator.com/item?id=42969643) - [Show HN: I built an AI satirical news site because news was depressing me](https://thescallion.netlify.app/)

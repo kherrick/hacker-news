@@ -2,6 +2,7 @@
 
 * [2025-02-07, 07:41:38](https://news.ycombinator.com/item?id=42970397) - [How does life happen when there's barely any light?](https://www.quantamagazine.org/how-does-life-happen-when-theres-barely-any-light-20250129/)
 * [2025-02-07, 07:11:36](https://news.ycombinator.com/item?id=42970240) - [Donald Knuth's 2024 Christmas Lecture: Strong and Weak Components [video]](https://www.youtube.com/watch?v=Hi8r_63LGyg)
+* [2025-02-07, 06:32:00](https://news.ycombinator.com/item?id=42970039) - [Harvard preserving for public use data.gov datasets](https://lil.law.harvard.edu/blog/2025/02/06/announcing-data-gov-archive/)
 * [2025-02-07, 05:00:39](https://news.ycombinator.com/item?id=42969605) - [There may not be aha moment in R1-Zero-like training](https://oatllm.notion.site/oat-zero)
 * [2025-02-07, 04:42:39](https://news.ycombinator.com/item?id=42969494) - [HTML whitespace is broken (2024)](https://blog.dwac.dev/posts/html-whitespace/)
 * [2025-02-07, 04:19:05](https://news.ycombinator.com/item?id=42969334) - [Search PPP Loans by Zip Code](https://ppploanmap.com/)
@@ -27,7 +28,6 @@
 * [2025-02-05, 10:53:02](https://news.ycombinator.com/item?id=42946752) - [Steve Meretzky – Working with Douglas Adams on the Hitchhiker's Guide](https://spillhistorie.no/qa-with-game-designer-steve-meretzky/)
 * [2025-02-04, 21:47:12](https://news.ycombinator.com/item?id=42939312) - [How to prove false statements? (Part 1)](https://blog.cryptographyengineering.com/2025/02/04/how-to-prove-false-statements-part-1/)
 * [2025-02-04, 02:22:55](https://news.ycombinator.com/item?id=42926845) - [If your customers don't talk, NPS is a vanity metric](https://www.elliotcsmith.com/if-your-customers-dont-talk-nps-is-a-vanity-metric/)
-* [2025-02-03, 23:51:39](https://news.ycombinator.com/item?id=42925110) - [PlayAI's new Dialog model achieves 3:1 preference in human evals](https://play.ht/news/playai-announces-new-benchmarks-playdialog/)
 * [2025-02-03, 20:57:49](https://news.ycombinator.com/item?id=42923000) - [There's Math.random(), and then there's Math.random() (2015)](https://v8.dev/blog/math-random)
 * [2025-02-03, 20:08:48](https://news.ycombinator.com/item?id=42922289) - [Keep 'em (not) separated: detecting discontinuities in grid graphs](https://www.holm.dog/2025/02/keep-em-not-separated-detecting.html)
 
