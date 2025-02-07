@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-07](index.md)
 
+* [2025-02-07, 05:34:59](https://news.ycombinator.com/item?id=42969750) - [HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models](https://arxiv.org/abs/2405.14831)
 * [2025-02-07, 05:08:36](https://news.ycombinator.com/item?id=42969643) - [Show HN: I built an AI satirical news site because news was depressing me](https://thescallion.netlify.app/)
 * [2025-02-07, 04:19:05](https://news.ycombinator.com/item?id=42969334) - [Search PPP Loans by Zip Code](https://ppploanmap.com/)
 * [2025-02-07, 04:09:03](https://news.ycombinator.com/item?id=42969272) - [Mad at Meta? Don't Let Them Collect and Monetize Your Personal Data](https://www.eff.org/deeplinks/2025/01/mad-meta-dont-let-them-collect-and-monetize-your-personal-data)

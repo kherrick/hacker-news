@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-07, 05:34:59](https://news.ycombinator.com/item?id=42969750) - [HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models](https://arxiv.org/abs/2405.14831)
 * [2025-02-07, 04:19:05](https://news.ycombinator.com/item?id=42969334) - [Search PPP Loans by Zip Code](https://ppploanmap.com/)
 * [2025-02-07, 04:09:03](https://news.ycombinator.com/item?id=42969272) - [Mad at Meta? Don't Let Them Collect and Monetize Your Personal Data](https://www.eff.org/deeplinks/2025/01/mad-meta-dont-let-them-collect-and-monetize-your-personal-data)
 * [2025-02-07, 03:11:56](https://news.ycombinator.com/item?id=42968858) - [Easy 6502](https://skilldrick.github.io/easy6502/)
@@ -18,7 +19,6 @@
 * [2025-02-06, 07:58:33](https://news.ycombinator.com/item?id=42960144) - [Paper Apps](https://gladdendesign.com/collections/paper-apps)
 * [2025-02-06, 04:54:18](https://news.ycombinator.com/item?id=42959226) - [Show HN: Heap Explorer](https://github.com/heap-exploitation/heap-explorer)
 * [2025-02-05, 14:06:44](https://news.ycombinator.com/item?id=42948642) - [Complex Systems and Quantitative Mereology](https://abeljansma.nl/2025/01/28/mereoPhysics.html)
-* [2025-02-05, 13:08:40](https://news.ycombinator.com/item?id=42947973) - [Elastic Binary Trees (2011)](http://wtarreau.blogspot.com/2011/12/elastic-binary-trees-ebtree.html)
 * [2025-02-05, 12:59:50](https://news.ycombinator.com/item?id=42947875) - [Show HN: ArXivTok](https://arxivtok.vercel.app/)
 * [2025-02-05, 12:17:47](https://news.ycombinator.com/item?id=42947447) - [OpenLDK: A Java JIT compiler and runtime in Common Lisp](https://github.com/atgreen/openldk)
 * [2025-02-05, 11:29:39](https://news.ycombinator.com/item?id=42947044) - [Maria Montessori](https://en.wikipedia.org/wiki/Maria_Montessori)
