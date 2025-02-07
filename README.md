@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-07, 09:17:36](https://news.ycombinator.com/item?id=42970814) - [Scientists on alert as NOAA restricts contact with foreign nationals](https://www.washingtonpost.com/climate-environment/2025/02/06/noaa-fisheries-international-communication-doge/)
+* [2025-02-07, 10:01:23](https://news.ycombinator.com/item?id=42971059) - [Casinos, high-rises and fraud: The BBC visits a city built on scams](https://www.bbc.co.uk/news/articles/c04nx1vnw17o)
+* [2025-02-07, 09:59:15](https://news.ycombinator.com/item?id=42971047) - [US places sanctions against International Criminal Court](https://www.bbc.com/news/articles/cx2p19l24g2o)
 * [2025-02-07, 09:11:09](https://news.ycombinator.com/item?id=42970776) - [Is the use of reCAPTCHA GDPR-compliant?](https://dg-datenschutz.de/ist_die_verwendung_von_recaptcha_dsgvo_konform/)
 * [2025-02-07, 07:42:53](https://news.ycombinator.com/item?id=42970400) - [Blocking the telemetry of Adobe apps](https://a.dove.isdumb.one/list.txt)
 * [2025-02-07, 07:41:38](https://news.ycombinator.com/item?id=42970397) - [How does life happen when there's barely any light?](https://www.quantamagazine.org/how-does-life-happen-when-theres-barely-any-light-20250129/)
@@ -27,7 +28,6 @@
 * [2025-02-05, 10:53:02](https://news.ycombinator.com/item?id=42946752) - [Steve Meretzky – Working with Douglas Adams on the Hitchhiker's Guide](https://spillhistorie.no/qa-with-game-designer-steve-meretzky/)
 * [2025-02-04, 09:42:46](https://news.ycombinator.com/item?id=42930301) - [Experience the DeepSeek R1 Distilled 'Reasoning' Models on Ryzen AI and Radeon](https://community.amd.com/t5/ai/experience-the-deepseek-r1-distilled-reasoning-models-on-amd/ba-p/740593)
 * [2025-02-03, 20:57:49](https://news.ycombinator.com/item?id=42923000) - [There's Math.random(), and then there's Math.random() (2015)](https://v8.dev/blog/math-random)
-* [2025-02-03, 20:08:48](https://news.ycombinator.com/item?id=42922289) - [Keep 'em (not) separated: detecting discontinuities in grid graphs](https://www.holm.dog/2025/02/keep-em-not-separated-detecting.html)
 * [2025-02-03, 18:56:51](https://news.ycombinator.com/item?id=42921493) - [Emil's Story as a Self-Taught AI Researcher (2020)](https://floydhub.ghost.io/emils-story-as-a-self-taught-ai-researcher/)
 * [2025-02-03, 16:42:36](https://news.ycombinator.com/item?id=42920068) - [Practical use of the null garbage collector (2018)](https://devblogs.microsoft.com/oldnewthing/20180228-00/?p=98125)
 

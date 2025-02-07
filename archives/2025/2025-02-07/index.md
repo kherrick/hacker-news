@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-07](index.md)
 
+* [2025-02-07, 10:01:23](https://news.ycombinator.com/item?id=42971059) - [Casinos, high-rises and fraud: The BBC visits a city built on scams](https://www.bbc.co.uk/news/articles/c04nx1vnw17o)
+* [2025-02-07, 09:59:15](https://news.ycombinator.com/item?id=42971047) - [US places sanctions against International Criminal Court](https://www.bbc.com/news/articles/cx2p19l24g2o)
 * [2025-02-07, 09:17:36](https://news.ycombinator.com/item?id=42970814) - [Scientists on alert as NOAA restricts contact with foreign nationals](https://www.washingtonpost.com/climate-environment/2025/02/06/noaa-fisheries-international-communication-doge/)
 * [2025-02-07, 09:11:09](https://news.ycombinator.com/item?id=42970776) - [Is the use of reCAPTCHA GDPR-compliant?](https://dg-datenschutz.de/ist_die_verwendung_von_recaptcha_dsgvo_konform/)
 * [2025-02-07, 07:45:05](https://news.ycombinator.com/item?id=42970412) - [U.K. orders Apple to let it spy on users' encrypted accounts](https://www.washingtonpost.com/technology/2025/02/07/apple-encryption-backdoor-uk/)
