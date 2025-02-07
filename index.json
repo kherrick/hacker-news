@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-07, 13:32:44",
+      "https://news.ycombinator.com/item?id=42972315"
+    ],
+    [
+      "Rewrote 42k lines of code from Python to Go. Technical deep dive",
+      "https://lovable.dev/blog/from-python-to-go"
+    ]
+  ],
+  [
+    [
       "2025-02-07, 13:05:58",
       "https://news.ycombinator.com/item?id=42972086"
     ],
@@ -177,16 +187,6 @@
     [
       "Transformer – Spreadsheet",
       "https://www.byhand.ai/p/transformer-spreadsheet"
-    ]
-  ],
-  [
-    [
-      "2025-02-06, 22:31:28",
-      "https://news.ycombinator.com/item?id=42967173"
-    ],
-    [
-      "AI by Hand Exercises in Excel",
-      "https://github.com/ImagineAILab/ai-by-hand-excel"
     ]
   ],
   [
