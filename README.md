@@ -24,10 +24,10 @@
 * [2025-02-07, 11:26:02](https://news.ycombinator.com/item?id=42971446) - [Meta torrented & seeded 81.7 TB dataset containing copyrighted data](https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/)
 * [2025-02-07, 07:11:36](https://news.ycombinator.com/item?id=42970240) - [Donald Knuth's 2024 Christmas Lecture: Strong and Weak Components [video]](https://www.youtube.com/watch?v=Hi8r_63LGyg)
 * [2025-02-06, 22:04:03](https://news.ycombinator.com/item?id=42966958) - [Why LLMs still suck at OCR](https://www.runpulse.com/blog/why-llms-suck-at-ocr)
-* [2025-02-06, 21:34:12](https://news.ycombinator.com/item?id=42966720) - [Understanding Reasoning LLMs](https://magazine.sebastianraschka.com/p/understanding-reasoning-llms)
 * [2025-02-06, 20:54:10](https://news.ycombinator.com/item?id=42966402) - [The Inevitability of the Borrow Checker](https://yorickpeterse.com/articles/the-inevitability-of-the-borrow-checker/)
 * [2025-02-06, 16:44:21](https://news.ycombinator.com/item?id=42964124) - [The superconductivity of layered graphene is surprisingly strange](https://www.newscientist.com/article/2466930-the-superconductivity-of-layered-graphene-is-surprisingly-strange/)
 * [2025-02-05, 11:15:01](https://news.ycombinator.com/item?id=42946918) - [Show HN: HN as TikTok, Welcome to HN Hell](https://hnhell.com)
+* [2025-02-05, 08:51:15](https://news.ycombinator.com/item?id=42945812) - [Franz Kafka – the workers' friend (2018)](https://marywcraig.com/2018/01/14/franz-kafka-the-workers-friend/)
 * [2025-02-04, 18:24:31](https://news.ycombinator.com/item?id=42936506) - [Show HN: Play with real quantum physics in your browser](https://quantum.orgsoft.org)
 * [2025-02-04, 03:59:38](https://news.ycombinator.com/item?id=42927722) - [Minor 387 Documentation Mystery](https://www.os2museum.com/wp/minor-387-documentation-mystery/)
 
