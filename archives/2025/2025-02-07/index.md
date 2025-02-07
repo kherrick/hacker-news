@@ -22,6 +22,7 @@
 * [2025-02-07, 11:30:34](https://news.ycombinator.com/item?id=42971470) - [OpenAI cofounder John Schulman is joining Mira Murati's startup](https://finance.yahoo.com/news/openai-cofounder-john-schulman-joining-211110685.html)
 * [2025-02-07, 11:26:02](https://news.ycombinator.com/item?id=42971446) - [Meta torrented & seeded 81.7 TB dataset containing copyrighted data](https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/)
 * [2025-02-07, 10:50:19](https://news.ycombinator.com/item?id=42971279) - [Copilot stops working on code that contains hardcoded banned words from GitHub](https://github.com/orgs/community/discussions/72603)
+* [2025-02-07, 10:22:38](https://news.ycombinator.com/item?id=42971146) - [Using pip to install a Large Language Model that's under 100MB](https://simonwillison.net/2025/Feb/7/pip-install-llm-smollm2/)
 * [2025-02-07, 10:21:33](https://news.ycombinator.com/item?id=42971144) - [Boeing reports Starliner losses of more than half a billion dollars in 2024](https://spacenews.com/boeing-reports-starliner-losses-of-more-than-half-a-billion-dollars-in-2024/)
 * [2025-02-07, 10:16:25](https://news.ycombinator.com/item?id=42971116) - [How to Not Get Fired in 2025](https://startupbaniya.com/how-to-not-get-fired-2025)
 * [2025-02-07, 10:01:23](https://news.ycombinator.com/item?id=42971059) - [Casinos, high-rises and fraud: The BBC visits a city built on scams](https://www.bbc.co.uk/news/articles/c04nx1vnw17o)
