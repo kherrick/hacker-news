@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-02-07, 13:32:44",
-      "https://news.ycombinator.com/item?id=42972315"
+      "2025-02-07, 13:40:19",
+      "https://news.ycombinator.com/item?id=42972380"
     ],
     [
-      "Rewrote 42k lines of code from Python to Go. Technical deep dive",
-      "https://lovable.dev/blog/from-python-to-go"
+      "Entity-Component-System Architecture in Kubernetes",
+      "https://fancl20.github.io/contents/00-posts/2025-02-07-ecs-and-k8s.html"
     ]
   ],
   [
@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2025-02-07, 07:41:38",
-      "https://news.ycombinator.com/item?id=42970397"
-    ],
-    [
-      "How does life happen when there's barely any light?",
-      "https://www.quantamagazine.org/how-does-life-happen-when-theres-barely-any-light-20250129/"
-    ]
-  ],
-  [
-    [
       "2025-02-07, 07:11:36",
       "https://news.ycombinator.com/item?id=42970240"
     ],
@@ -187,6 +177,16 @@
     [
       "Transformer – Spreadsheet",
       "https://www.byhand.ai/p/transformer-spreadsheet"
+    ]
+  ],
+  [
+    [
+      "2025-02-06, 22:39:22",
+      "https://news.ycombinator.com/item?id=42967226"
+    ],
+    [
+      "Frank Lloyd Wright's mile high skyscraper proposal (2021)",
+      "https://www.onverticality.com/blog/frank-lloyd-wright-mile-high-skyscraper"
     ]
   ],
   [
