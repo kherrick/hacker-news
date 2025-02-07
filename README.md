@@ -3,6 +3,7 @@
 * [2025-02-07, 11:26:02](https://news.ycombinator.com/item?id=42971446) - [Meta torrented & seeded 81.7 TB dataset containing copyrighted data](https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/)
 * [2025-02-07, 10:50:19](https://news.ycombinator.com/item?id=42971279) - [Copilot stops working on code that contains hardcoded banned words from GitHub](https://github.com/orgs/community/discussions/72603)
 * [2025-02-07, 10:21:33](https://news.ycombinator.com/item?id=42971144) - [Boeing reports Starliner losses of more than half a billion dollars in 2024](https://spacenews.com/boeing-reports-starliner-losses-of-more-than-half-a-billion-dollars-in-2024/)
+* [2025-02-07, 10:16:25](https://news.ycombinator.com/item?id=42971116) - [How to Not Get Fired in 2025](https://startupbaniya.com/how-to-not-get-fired-2025)
 * [2025-02-07, 10:01:23](https://news.ycombinator.com/item?id=42971059) - [Casinos, high-rises and fraud: The BBC visits a city built on scams](https://www.bbc.co.uk/news/articles/c04nx1vnw17o)
 * [2025-02-07, 07:41:38](https://news.ycombinator.com/item?id=42970397) - [How does life happen when there's barely any light?](https://www.quantamagazine.org/how-does-life-happen-when-theres-barely-any-light-20250129/)
 * [2025-02-07, 07:11:36](https://news.ycombinator.com/item?id=42970240) - [Donald Knuth's 2024 Christmas Lecture: Strong and Weak Components [video]](https://www.youtube.com/watch?v=Hi8r_63LGyg)
@@ -28,7 +29,6 @@
 * [2025-02-04, 11:45:34](https://news.ycombinator.com/item?id=42931158) - [The most breathtaking abandoned sites](https://english.elpais.com/travel/2025-01-13/the-worlds-most-breathtaking-abandoned-sites-from-pakistans-bibi-jawindi-to-italys-athena-palazzo.html)
 * [2025-02-04, 09:42:46](https://news.ycombinator.com/item?id=42930301) - [Experience the DeepSeek R1 Distilled 'Reasoning' Models on Ryzen AI and Radeon](https://community.amd.com/t5/ai/experience-the-deepseek-r1-distilled-reasoning-models-on-amd/ba-p/740593)
 * [2025-02-03, 20:57:49](https://news.ycombinator.com/item?id=42923000) - [There's Math.random(), and then there's Math.random() (2015)](https://v8.dev/blog/math-random)
-* [2025-02-03, 20:08:48](https://news.ycombinator.com/item?id=42922289) - [Keep 'em (not) separated: detecting discontinuities in grid graphs](https://www.holm.dog/2025/02/keep-em-not-separated-detecting.html)
 * [2025-02-03, 18:56:51](https://news.ycombinator.com/item?id=42921493) - [Emil's Story as a Self-Taught AI Researcher (2020)](https://floydhub.ghost.io/emils-story-as-a-self-taught-ai-researcher/)
 
 ## [Archives](archives/index.md)
