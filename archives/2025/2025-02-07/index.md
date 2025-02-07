@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-02-07](index.md)
+
+* [2025-02-07, 01:41:30](https://news.ycombinator.com/item?id=42968347) - [California bill would require bots to disclose that they are bots](https://www.veeto.app/bill/1955756)
