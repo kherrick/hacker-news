@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-07, 03:11:56",
+      "https://news.ycombinator.com/item?id=42968858"
+    ],
+    [
+      "Easy 6502",
+      "https://skilldrick.github.io/easy6502/"
+    ]
+  ],
+  [
+    [
+      "2025-02-07, 02:44:09",
+      "https://news.ycombinator.com/item?id=42968700"
+    ],
+    [
+      "Robust Autonomy Emerges from Self-Play",
+      "https://arxiv.org/abs/2502.03349"
+    ]
+  ],
+  [
+    [
       "2025-02-07, 02:13:03",
       "https://news.ycombinator.com/item?id=42968547"
     ],
@@ -37,16 +57,6 @@
     [
       "Frank Lloyd Wright's mile high skyscraper proposal (2021)",
       "https://www.onverticality.com/blog/frank-lloyd-wright-mile-high-skyscraper"
-    ]
-  ],
-  [
-    [
-      "2025-02-06, 22:27:22",
-      "https://news.ycombinator.com/item?id=42967146"
-    ],
-    [
-      "Trails of Wind (2019)",
-      "https://trailsofwind.figures.cc/"
     ]
   ],
   [
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2025-02-06, 12:39:37",
-      "https://news.ycombinator.com/item?id=42961795"
-    ],
-    [
-      "Explorable Flexagons: Learn to create and flex flexagons (2020)",
-      "http://loki3.com/flex/explore/"
-    ]
-  ],
-  [
-    [
       "2025-02-06, 10:31:06",
       "https://news.ycombinator.com/item?id=42960989"
     ],
@@ -187,16 +187,6 @@
     [
       "Elastic Binary Trees (2011)",
       "http://wtarreau.blogspot.com/2011/12/elastic-binary-trees-ebtree.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-05, 12:59:50",
-      "https://news.ycombinator.com/item?id=42947875"
-    ],
-    [
-      "Show HN: ArXivTok",
-      "https://arxivtok.vercel.app/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Open source AI: Red Hat's point-of-view",
       "https://www.redhat.com/en/blog/open-source-ai-red-hats-point-view"
+    ]
+  ],
+  [
+    [
+      "2025-02-03, 20:08:48",
+      "https://news.ycombinator.com/item?id=42922289"
+    ],
+    [
+      "Keep 'em (not) separated: detecting discontinuities in grid graphs",
+      "https://www.holm.dog/2025/02/keep-em-not-separated-detecting.html"
     ]
   ],
   [
