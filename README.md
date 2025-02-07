@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-07, 10:50:19](https://news.ycombinator.com/item?id=42971279) - [Copilot stops working on code that contains hardcoded banned words from GitHub](https://github.com/orgs/community/discussions/72603)
 * [2025-02-07, 10:01:23](https://news.ycombinator.com/item?id=42971059) - [Casinos, high-rises and fraud: The BBC visits a city built on scams](https://www.bbc.co.uk/news/articles/c04nx1vnw17o)
-* [2025-02-07, 09:59:15](https://news.ycombinator.com/item?id=42971047) - [US places sanctions against International Criminal Court](https://www.bbc.com/news/articles/cx2p19l24g2o)
 * [2025-02-07, 09:11:09](https://news.ycombinator.com/item?id=42970776) - [Is the use of reCAPTCHA GDPR-compliant?](https://dg-datenschutz.de/ist_die_verwendung_von_recaptcha_dsgvo_konform/)
 * [2025-02-07, 07:42:53](https://news.ycombinator.com/item?id=42970400) - [Blocking the telemetry of Adobe apps](https://a.dove.isdumb.one/list.txt)
 * [2025-02-07, 07:41:38](https://news.ycombinator.com/item?id=42970397) - [How does life happen when there's barely any light?](https://www.quantamagazine.org/how-does-life-happen-when-theres-barely-any-light-20250129/)
