@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-02-07, 05:08:36",
-      "https://news.ycombinator.com/item?id=42969643"
-    ],
-    [
-      "Show HN: I built an AI satirical news site because news was depressing me",
-      "https://thescallion.netlify.app/"
-    ]
-  ],
-  [
-    [
       "2025-02-07, 04:19:05",
       "https://news.ycombinator.com/item?id=42969334"
     ],
@@ -67,16 +57,6 @@
     [
       "TKey – Security for the New World",
       "https://tillitis.se/products/tkey/"
-    ]
-  ],
-  [
-    [
-      "2025-02-06, 22:39:22",
-      "https://news.ycombinator.com/item?id=42967226"
-    ],
-    [
-      "Frank Lloyd Wright's mile high skyscraper proposal (2021)",
-      "https://www.onverticality.com/blog/frank-lloyd-wright-mile-high-skyscraper"
     ]
   ],
   [
@@ -151,6 +131,16 @@
   ],
   [
     [
+      "2025-02-06, 10:31:06",
+      "https://news.ycombinator.com/item?id=42960989"
+    ],
+    [
+      "Pre-Trained Large Language Models Use Fourier Features for Addition (2024)",
+      "https://arxiv.org/abs/2406.03445"
+    ]
+  ],
+  [
+    [
       "2025-02-06, 10:13:26",
       "https://news.ycombinator.com/item?id=42960907"
     ],
@@ -197,6 +187,16 @@
     [
       "Elastic Binary Trees (2011)",
       "http://wtarreau.blogspot.com/2011/12/elastic-binary-trees-ebtree.html"
+    ]
+  ],
+  [
+    [
+      "2025-02-05, 12:59:50",
+      "https://news.ycombinator.com/item?id=42947875"
+    ],
+    [
+      "Show HN: ArXivTok",
+      "https://arxivtok.vercel.app/"
     ]
   ],
   [
