@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2025-02-03, 23:51:39",
+      "https://news.ycombinator.com/item?id=42925110"
+    ],
+    [
+      "PlayAI's new Dialog model achieves 3:1 preference in human evals",
+      "https://play.ht/news/playai-announces-new-benchmarks-playdialog/"
+    ]
+  ],
+  [
+    [
       "2025-02-03, 20:57:49",
       "https://news.ycombinator.com/item?id=42923000"
     ],
@@ -287,16 +297,6 @@
     [
       "Keep 'em (not) separated: detecting discontinuities in grid graphs",
       "https://www.holm.dog/2025/02/keep-em-not-separated-detecting.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-03, 07:54:34",
-      "https://news.ycombinator.com/item?id=42915944"
-    ],
-    [
-      "How do we evaluate vector-based code retrieval?",
-      "https://blog.voyageai.com/2024/12/04/code-retrieval-eval/"
     ]
   ]
 ]
