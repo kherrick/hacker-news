@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-07](index.md)
 
+* [2025-02-07, 16:18:14](https://news.ycombinator.com/item?id=42974378) - [Show HN: Transductive regular expressions for text editing](https://github.com/c0stya/trre)
 * [2025-02-07, 15:40:38](https://news.ycombinator.com/item?id=42973897) - [When Louis Armstrong Conquered Chicago](https://www.honest-broker.com/p/when-louis-armstrong-conquered-chicago)
 * [2025-02-07, 15:30:08](https://news.ycombinator.com/item?id=42973769) - [Kokoro WebGPU: Real-time text-to-speech 100% locally in the browser](https://huggingface.co/spaces/webml-community/kokoro-webgpu)
 * [2025-02-07, 14:44:45](https://news.ycombinator.com/item?id=42973131) - [Baltic countries disconnect from the Russian power grid](https://baltic-grid.sympower.net/)
