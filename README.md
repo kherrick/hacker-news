@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-07, 16:29:22](https://news.ycombinator.com/item?id=42974533) - [A 16TB Mirror of Data.gov on Source.Coop](https://source.coop/repositories/harvard-lil/gov-data/description)
+* [2025-02-07, 16:23:50](https://news.ycombinator.com/item?id=42974461) - [Three-nanite: Unreal Nanite in Three.js](https://github.com/AIFanatic/three-nanite)
 * [2025-02-07, 16:18:14](https://news.ycombinator.com/item?id=42974378) - [Show HN: Transductive regular expressions for text editing](https://github.com/c0stya/trre)
-* [2025-02-07, 15:47:14](https://news.ycombinator.com/item?id=42973989) - [AI Startup School with Elon Musk, Satya Nadella, Sam Altman, Andrej Karpathy](https://events.ycombinator.com/ai-sus)
 * [2025-02-07, 15:40:38](https://news.ycombinator.com/item?id=42973897) - [When Louis Armstrong Conquered Chicago](https://www.honest-broker.com/p/when-louis-armstrong-conquered-chicago)
 * [2025-02-07, 15:30:08](https://news.ycombinator.com/item?id=42973769) - [Kokoro WebGPU: Real-time text-to-speech 100% locally in the browser](https://huggingface.co/spaces/webml-community/kokoro-webgpu)
 * [2025-02-07, 14:18:19](https://news.ycombinator.com/item?id=42972781) - [Children's arithmetic skills do not transfer between applied and academic math](https://www.nature.com/articles/s41586-024-08502-w)
@@ -21,7 +22,6 @@
 * [2025-02-06, 16:44:21](https://news.ycombinator.com/item?id=42964124) - [The superconductivity of layered graphene is surprisingly strange](https://www.newscientist.com/article/2466930-the-superconductivity-of-layered-graphene-is-surprisingly-strange/)
 * [2025-02-06, 15:35:32](https://news.ycombinator.com/item?id=42963346) - [Show HN: An homage to Tom Dowdy's 1991 screensaver, \"Kaos\"](https://thestrikeagency.com/kaos/)
 * [2025-02-06, 14:15:28](https://news.ycombinator.com/item?id=42962508) - [Simulating water over terrain](https://lisyarus.github.io/blog/posts/simulating-water-over-terrain.html)
-* [2025-02-05, 18:17:58](https://news.ycombinator.com/item?id=42952798) - [Kill the \"user\": Musings of a disillusioned technologist](https://www.pastagang.cc/blog/kill-the-user/)
 * [2025-02-05, 12:17:47](https://news.ycombinator.com/item?id=42947447) - [OpenLDK: A Java JIT compiler and runtime in Common Lisp](https://github.com/atgreen/openldk)
 * [2025-02-05, 10:53:02](https://news.ycombinator.com/item?id=42946752) - [Steve Meretzky – Working with Douglas Adams on the Hitchhiker's Guide](https://spillhistorie.no/qa-with-game-designer-steve-meretzky/)
 * [2025-02-04, 21:00:09](https://news.ycombinator.com/item?id=42938593) - [Five Coding Hats](https://dubroy.com/blog/five-coding-hats/)

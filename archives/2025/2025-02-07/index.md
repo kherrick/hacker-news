@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-07](index.md)
 
+* [2025-02-07, 16:29:22](https://news.ycombinator.com/item?id=42974533) - [A 16TB Mirror of Data.gov on Source.Coop](https://source.coop/repositories/harvard-lil/gov-data/description)
+* [2025-02-07, 16:23:50](https://news.ycombinator.com/item?id=42974461) - [Three-nanite: Unreal Nanite in Three.js](https://github.com/AIFanatic/three-nanite)
 * [2025-02-07, 16:18:14](https://news.ycombinator.com/item?id=42974378) - [Show HN: Transductive regular expressions for text editing](https://github.com/c0stya/trre)
 * [2025-02-07, 15:47:14](https://news.ycombinator.com/item?id=42973989) - [AI Startup School with Elon Musk, Satya Nadella, Sam Altman, Andrej Karpathy](https://events.ycombinator.com/ai-sus)
 * [2025-02-07, 15:40:38](https://news.ycombinator.com/item?id=42973897) - [When Louis Armstrong Conquered Chicago](https://www.honest-broker.com/p/when-louis-armstrong-conquered-chicago)
