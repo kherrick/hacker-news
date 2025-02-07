@@ -1,13 +1,15 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-07, 21:06:40](https://news.ycombinator.com/item?id=42977483) - [Portland's Exploding Liberty Bell](https://tomlovesthelibertybell.com/portlands-exploding-liberty-bell/)
+* [2025-02-07, 21:00:03](https://news.ycombinator.com/item?id=42977416) - [Zep AI (YC W24) Is Hiring Engineers to Build SOTA Agent Memory](https://www.ycombinator.com/companies/zep-ai/jobs/e2QxKYu-staff-engineer)
+* [2025-02-07, 20:56:58](https://news.ycombinator.com/item?id=42977388) - [Show HN: ExpenseOwl – simple and beautiful self-hostedexpense tracker](https://github.com/Tanq16/ExpenseOwl)
 * [2025-02-07, 20:50:26](https://news.ycombinator.com/item?id=42977332) - [Long Covid impacting more than 1M children: CDC study suggests](https://abcnews.go.com/Health/long-covid-impacting-1-million-children-cdc-study/story?id=118393880)
 * [2025-02-07, 20:41:06](https://news.ycombinator.com/item?id=42977245) - [Show HN: Open-source Hacker News apps](https://github.com/EmergeTools/hackernews)
+* [2025-02-07, 20:23:17](https://news.ycombinator.com/item?id=42977039) - [The Impact of AI on the Technical Interview Process](https://coderev.app/blog/the-impact-of-ai-on-the-technical-interview-process/)
 * [2025-02-07, 19:15:25](https://news.ycombinator.com/item?id=42976338) - [Amazon Will Spend Nearly a Year of AWS Revenue on AI Investments](https://www.nextplatform.com/2025/02/07/amazon-will-spend-nearly-a-year-of-aws-revenue-on-ai-investments/)
 * [2025-02-07, 18:23:40](https://news.ycombinator.com/item?id=42975803) - [Show HN: A website that heatmaps your city based on your housing preferences](https://theretowhere.com/)
 * [2025-02-07, 17:51:49](https://news.ycombinator.com/item?id=42975436) - [A Brief History of Code Signing at Mozilla](https://hearsum.ca/posts/history-of-code-signing-at-mozilla/)
 * [2025-02-07, 17:27:57](https://news.ycombinator.com/item?id=42975171) - [Pantograph: A Fluid and Typed Structure Editor](https://github.com/jeprinz/pantograph/blob/main/README.md)
-* [2025-02-07, 17:27:54](https://news.ycombinator.com/item?id=42975170) - [A German court rules: X must provide researchers access to data](https://www.reuters.com/world/europe/german-civil-activists-claim-victory-case-against-musks-x-2025-02-07/)
-* [2025-02-07, 17:00:02](https://news.ycombinator.com/item?id=42974897) - [PropRise (YC S23) Is Hiring Our First Engineer](https://www.ycombinator.com/companies/proprise/jobs/PFuZCxC-founding-engineer-backend)
 * [2025-02-07, 16:59:18](https://news.ycombinator.com/item?id=42974882) - [Ketamine for Depression: How It Works (2024) [video]](https://www.yalemedicine.org/news/ketamine-for-depression)
 * [2025-02-07, 16:53:20](https://news.ycombinator.com/item?id=42974809) - [The origins of 60-Hz as a power frequency](https://ieeexplore.ieee.org/document/628099)
 * [2025-02-07, 16:46:47](https://news.ycombinator.com/item?id=42974728) - [Stop Using Zip Codes for Geospatial Analysis (2019)](https://carto.com/blog/zip-codes-spatial-analysis)
@@ -26,10 +28,8 @@
 * [2025-02-06, 20:54:10](https://news.ycombinator.com/item?id=42966402) - [The Inevitability of the Borrow Checker](https://yorickpeterse.com/articles/the-inevitability-of-the-borrow-checker/)
 * [2025-02-06, 16:44:21](https://news.ycombinator.com/item?id=42964124) - [The superconductivity of layered graphene is surprisingly strange](https://www.newscientist.com/article/2466930-the-superconductivity-of-layered-graphene-is-surprisingly-strange/)
 * [2025-02-05, 08:51:15](https://news.ycombinator.com/item?id=42945812) - [Franz Kafka – the workers' friend (2018)](https://marywcraig.com/2018/01/14/franz-kafka-the-workers-friend/)
-* [2025-02-04, 21:00:09](https://news.ycombinator.com/item?id=42938593) - [Five Coding Hats](https://dubroy.com/blog/five-coding-hats/)
 * [2025-02-04, 18:24:31](https://news.ycombinator.com/item?id=42936506) - [Show HN: Play with real quantum physics in your browser](https://quantum.orgsoft.org)
 * [2025-02-04, 03:59:38](https://news.ycombinator.com/item?id=42927722) - [Minor 387 Documentation Mystery](https://www.os2museum.com/wp/minor-387-documentation-mystery/)
-* [2025-02-04, 01:44:45](https://news.ycombinator.com/item?id=42926396) - [What was before the telephone bell? Pencils and Hammers](https://www.calling315.com/annunicators)
 
 ## [Archives](archives/index.md)
 
