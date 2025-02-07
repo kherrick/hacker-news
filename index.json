@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-02-07, 01:41:30",
+      "https://news.ycombinator.com/item?id=42968347"
+    ],
+    [
+      "California bill would require bots to disclose that they are bots",
+      "https://www.veeto.app/bill/1955756"
+    ]
+  ],
+  [
+    [
+      "2025-02-06, 23:17:25",
+      "https://news.ycombinator.com/item?id=42967474"
+    ],
+    [
+      "TKey – Security for the New World",
+      "https://tillitis.se/products/tkey/"
+    ]
+  ],
+  [
+    [
+      "2025-02-06, 22:41:40",
+      "https://news.ycombinator.com/item?id=42967247"
+    ],
+    [
+      "Ask HN: Is Godaddy Running a Scam?",
+      "https://news.ycombinator.com/item?id=42967247"
+    ]
+  ],
+  [
+    [
       "2025-02-06, 22:39:22",
       "https://news.ycombinator.com/item?id=42967226"
     ],
@@ -41,16 +71,6 @@
   ],
   [
     [
-      "2025-02-06, 19:03:50",
-      "https://news.ycombinator.com/item?id=42965404"
-    ],
-    [
-      "Microsoft Go 1.24 FIPS changes",
-      "https://devblogs.microsoft.com/go/go-1-24-fips-update/"
-    ]
-  ],
-  [
-    [
       "2025-02-06, 18:48:05",
       "https://news.ycombinator.com/item?id=42965267"
     ],
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2025-02-06, 15:48:54",
-      "https://news.ycombinator.com/item?id=42963501"
-    ],
-    [
-      "Transfinite NIM (the game, not the programming language)",
-      "https://jdh.hamkins.org/transfinite-nim/"
-    ]
-  ],
-  [
-    [
       "2025-02-06, 15:35:32",
       "https://news.ycombinator.com/item?id=42963346"
     ],
@@ -117,16 +127,6 @@
     [
       "Explorable Flexagons: Learn to create and flex flexagons (2020)",
       "http://loki3.com/flex/explore/"
-    ]
-  ],
-  [
-    [
-      "2025-02-06, 10:31:06",
-      "https://news.ycombinator.com/item?id=42960989"
-    ],
-    [
-      "Pre-Trained Large Language Models Use Fourier Features for Addition (2024)",
-      "https://arxiv.org/abs/2406.03445"
     ]
   ],
   [
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2025-02-05, 21:23:09",
-      "https://news.ycombinator.com/item?id=42955356"
-    ],
-    [
-      "News from Scroll 5",
-      "https://scrollprize.substack.com/p/exciting-news-from-scroll-5"
-    ]
-  ],
-  [
-    [
       "2025-02-05, 14:06:44",
       "https://news.ycombinator.com/item?id=42948642"
     ],
@@ -221,16 +211,6 @@
   ],
   [
     [
-      "2025-02-05, 11:35:13",
-      "https://news.ycombinator.com/item?id=42947081"
-    ],
-    [
-      "My Status Circles",
-      "https://www.overcomingbias.com/p/my-status-circles"
-    ]
-  ],
-  [
-    [
       "2025-02-05, 10:53:02",
       "https://news.ycombinator.com/item?id=42946752"
     ],
@@ -261,6 +241,16 @@
   ],
   [
     [
+      "2025-02-03, 23:51:39",
+      "https://news.ycombinator.com/item?id=42925110"
+    ],
+    [
+      "PlayAI's new Dialog model achieves 3:1 preference in human evals",
+      "https://play.ht/news/playai-announces-new-benchmarks-playdialog/"
+    ]
+  ],
+  [
+    [
       "2025-02-03, 22:08:20",
       "https://news.ycombinator.com/item?id=42923940"
     ],
@@ -287,6 +277,16 @@
     [
       "T1: A RISC-V Vector processor implementation",
       "https://github.com/chipsalliance/t1"
+    ]
+  ],
+  [
+    [
+      "2025-02-03, 11:03:34",
+      "https://news.ycombinator.com/item?id=42917037"
+    ],
+    [
+      "Humanity's Last Exam",
+      "https://agi.safe.ai/"
     ]
   ],
   [
