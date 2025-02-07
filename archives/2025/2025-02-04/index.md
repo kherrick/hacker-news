@@ -74,6 +74,7 @@
 * [2025-02-04, 11:05:18](https://news.ycombinator.com/item?id=42930890) - [Nvidia open-source nanite: continuous level of detail (LOD) mesh library](https://github.com/nvpro-samples/nv_cluster_lod_builder)
 * [2025-02-04, 10:50:01](https://news.ycombinator.com/item?id=42930786) - [Backblaze seemingly does not support files greater than 1 TB](https://wadetregaskis.com/backblaze-seemingly-does-not-support-files-greater-than-1-tb/)
 * [2025-02-04, 10:29:27](https://news.ycombinator.com/item?id=42930639) - [OmniHuman-1: Human Animation Models](https://omnihuman-lab.github.io/)
+* [2025-02-04, 09:42:46](https://news.ycombinator.com/item?id=42930301) - [Experience the DeepSeek R1 Distilled 'Reasoning' Models on Ryzen AI and Radeon](https://community.amd.com/t5/ai/experience-the-deepseek-r1-distilled-reasoning-models-on-amd/ba-p/740593)
 * [2025-02-04, 09:27:58](https://news.ycombinator.com/item?id=42930185) - [The Final Frontier with Steve Jurvetson](https://cloudvalley.substack.com/p/the-final-frontier-with-steve-jurvetson)
 * [2025-02-04, 09:24:27](https://news.ycombinator.com/item?id=42930161) - [Alpine Linux Seeking Support After Equinix Metal Sunsets](https://alpinelinux.org/posts/Seeking-Support-After-Equinix-Metal-Sunsets.html)
 * [2025-02-04, 08:34:23](https://news.ycombinator.com/item?id=42929754) - [Platform for supporting local sellers and buyers](https://blunum.com/)
