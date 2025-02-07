@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-07](index.md)
 
+* [2025-02-07, 19:49:23](https://news.ycombinator.com/item?id=42976708) - [AMOC shutdown likely within the next 20-30 years](https://www.tandfonline.com/doi/full/10.1080/00139157.2025.2434494)
+* [2025-02-07, 19:15:25](https://news.ycombinator.com/item?id=42976338) - [Amazon Will Spend Nearly a Year of AWS Revenue on AI Investments](https://www.nextplatform.com/2025/02/07/amazon-will-spend-nearly-a-year-of-aws-revenue-on-ai-investments/)
 * [2025-02-07, 18:23:40](https://news.ycombinator.com/item?id=42975803) - [Show HN: A website that heatmaps your city based on your housing preferences](https://theretowhere.com/)
 * [2025-02-07, 17:51:49](https://news.ycombinator.com/item?id=42975436) - [A Brief History of Code Signing at Mozilla](https://hearsum.ca/posts/history-of-code-signing-at-mozilla/)
 * [2025-02-07, 17:27:57](https://news.ycombinator.com/item?id=42975171) - [Pantograph: A Fluid and Typed Structure Editor](https://github.com/jeprinz/pantograph/blob/main/README.md)
