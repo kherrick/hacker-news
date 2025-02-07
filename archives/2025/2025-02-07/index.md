@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-07](index.md)
 
+* [2025-02-07, 15:40:38](https://news.ycombinator.com/item?id=42973897) - [When Louis Armstrong Conquered Chicago](https://www.honest-broker.com/p/when-louis-armstrong-conquered-chicago)
 * [2025-02-07, 14:44:45](https://news.ycombinator.com/item?id=42973131) - [Baltic countries disconnect from the Russian power grid](https://baltic-grid.sympower.net/)
 * [2025-02-07, 14:25:35](https://news.ycombinator.com/item?id=42972876) - [Feds Halt the National Electric Vehicle Charging Program](https://www.wired.com/story/feds-halt-national-electric-vehicle-charging-program/)
 * [2025-02-07, 14:24:03](https://news.ycombinator.com/item?id=42972854) - [AI dialogue analysis confirms movies have grown more violent over past 70 years](https://phys.org/news/2025-02-ai-driven-dialogue-analysis-popular.html)
