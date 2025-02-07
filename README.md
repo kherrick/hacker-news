@@ -26,8 +26,8 @@
 * [2025-02-05, 08:51:15](https://news.ycombinator.com/item?id=42945812) - [Franz Kafka – the workers' friend (2018)](https://marywcraig.com/2018/01/14/franz-kafka-the-workers-friend/)
 * [2025-02-04, 21:00:09](https://news.ycombinator.com/item?id=42938593) - [Five Coding Hats](https://dubroy.com/blog/five-coding-hats/)
 * [2025-02-04, 18:24:31](https://news.ycombinator.com/item?id=42936506) - [Show HN: Play with real quantum physics in your browser](https://quantum.orgsoft.org)
+* [2025-02-04, 03:59:38](https://news.ycombinator.com/item?id=42927722) - [Minor 387 Documentation Mystery](https://www.os2museum.com/wp/minor-387-documentation-mystery/)
 * [2025-02-04, 01:44:45](https://news.ycombinator.com/item?id=42926396) - [What was before the telephone bell? Pencils and Hammers](https://www.calling315.com/annunicators)
-* [2025-02-04, 01:00:25](https://news.ycombinator.com/item?id=42925921) - [The Alchemist and His Quicksilver](https://fantasticanachronism.com/2025/02/03/the-alchemist-and-his-quicksilver/)
 * [2025-02-03, 20:57:49](https://news.ycombinator.com/item?id=42923000) - [There's Math.random(), and then there's Math.random() (2015)](https://v8.dev/blog/math-random)
 * [2025-02-03, 18:56:51](https://news.ycombinator.com/item?id=42921493) - [Emil's Story as a Self-Taught AI Researcher (2020)](https://floydhub.ghost.io/emils-story-as-a-self-taught-ai-researcher/)
 

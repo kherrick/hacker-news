@@ -92,6 +92,7 @@
 * [2025-02-04, 04:57:26](https://news.ycombinator.com/item?id=42928186) - [Reasons Not to Refactor](https://thoughtbot.com/blog/reasons-not-to-refactor)
 * [2025-02-04, 04:50:30](https://news.ycombinator.com/item?id=42928121) - [Resistance to Rust abstractions for DMA mapping](https://lwn.net/SubscriberLink/1006805/f75d238e25728afe/)
 * [2025-02-04, 04:46:20](https://news.ycombinator.com/item?id=42928087) - [The Situation: What's Going on at the FBI?](https://www.lawfaremedia.org/article/the-situation--what-s-going-on-at-the-fbi)
+* [2025-02-04, 03:59:38](https://news.ycombinator.com/item?id=42927722) - [Minor 387 Documentation Mystery](https://www.os2museum.com/wp/minor-387-documentation-mystery/)
 * [2025-02-04, 03:19:57](https://news.ycombinator.com/item?id=42927391) - [I bought a container full of Chinese electric excavators. Here's what showed up](https://electrek.co/2025/02/03/i-bought-a-container-full-of-chinese-electric-excavators-heres-what-showed-up/)
 * [2025-02-04, 02:56:32](https://news.ycombinator.com/item?id=42927172) - [Escaping Surprise Bills and Over-Engineered Messes: Why I Left AWS](https://travisbumgarner.dev/blog/leaving-aws)
 * [2025-02-04, 02:47:49](https://news.ycombinator.com/item?id=42927082) - [Implementing a linear collider facility at CERN](https://newsline.linearcollider.org/2025/01/30/implementing-a-linear-collider-facility-at-cern/)
