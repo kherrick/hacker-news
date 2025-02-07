@@ -67,6 +67,7 @@
 * [2025-02-04, 13:05:11](https://news.ycombinator.com/item?id=42931803) - ['No medical evidence' to support Lucy Letby's conviction, expert panel finds](https://www.theguardian.com/uk-news/2025/feb/04/no-medical-evidence-to-support-lucy-letby-conviction-expert-panel-finds)
 * [2025-02-04, 12:33:55](https://news.ycombinator.com/item?id=42931523) - [Windows 11 – There's still nothing worth my time](https://www.dedoimedo.com/computers/windows-11-december-2024-update-results.html)
 * [2025-02-04, 12:01:03](https://news.ycombinator.com/item?id=42931269) - [Nango (Product Integrations Platform) Is Hiring a Senior Full-Stack Engineer](https://www.nango.dev/jobs)
+* [2025-02-04, 11:45:34](https://news.ycombinator.com/item?id=42931158) - [The most breathtaking abandoned sites](https://english.elpais.com/travel/2025-01-13/the-worlds-most-breathtaking-abandoned-sites-from-pakistans-bibi-jawindi-to-italys-athena-palazzo.html)
 * [2025-02-04, 11:39:56](https://news.ycombinator.com/item?id=42931109) - [Radiant Foam: Real-Time Differentiable Ray Tracing](https://radfoam.github.io)
 * [2025-02-04, 11:36:30](https://news.ycombinator.com/item?id=42931088) - [VSCode Marketplace Web Pages No Longer Allow Direct VSIX Downloads](https://github.com/microsoft/vsmarketplace/issues/1135)
 * [2025-02-04, 11:32:25](https://news.ycombinator.com/item?id=42931052) - [Microsoft Is Dead (2007)](https://www.paulgraham.com/microsoft.html)

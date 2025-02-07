@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-07, 11:26:02](https://news.ycombinator.com/item?id=42971446) - [Meta torrented & seeded 81.7 TB dataset containing copyrighted data](https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/)
 * [2025-02-07, 10:50:19](https://news.ycombinator.com/item?id=42971279) - [Copilot stops working on code that contains hardcoded banned words from GitHub](https://github.com/orgs/community/discussions/72603)
 * [2025-02-07, 10:21:33](https://news.ycombinator.com/item?id=42971144) - [Boeing reports Starliner losses of more than half a billion dollars in 2024](https://spacenews.com/boeing-reports-starliner-losses-of-more-than-half-a-billion-dollars-in-2024/)
 * [2025-02-07, 10:01:23](https://news.ycombinator.com/item?id=42971059) - [Casinos, high-rises and fraud: The BBC visits a city built on scams](https://www.bbc.co.uk/news/articles/c04nx1vnw17o)
@@ -16,7 +17,6 @@
 * [2025-02-06, 22:31:28](https://news.ycombinator.com/item?id=42967173) - [AI by Hand Exercises in Excel](https://github.com/ImagineAILab/ai-by-hand-excel)
 * [2025-02-06, 21:34:12](https://news.ycombinator.com/item?id=42966720) - [Understanding Reasoning LLMs](https://magazine.sebastianraschka.com/p/understanding-reasoning-llms)
 * [2025-02-06, 21:00:23](https://news.ycombinator.com/item?id=42966455) - [Verse (YC W22) Is Hiring](https://news.ycombinator.com/item?id=42966455)
-* [2025-02-06, 18:48:05](https://news.ycombinator.com/item?id=42965267) - [Show HN: An API that takes a URL and returns a file with browser screenshots](https://github.com/US-Artificial-Intelligence/scraper)
 * [2025-02-06, 18:40:30](https://news.ycombinator.com/item?id=42965198) - [Show HN: SQLite disk page explorer](https://github.com/QuadrupleA/sqlite-page-explorer)
 * [2025-02-06, 15:35:32](https://news.ycombinator.com/item?id=42963346) - [Show HN: An homage to Tom Dowdy's 1991 screensaver, \"Kaos\"](https://thestrikeagency.com/kaos/)
 * [2025-02-06, 14:15:28](https://news.ycombinator.com/item?id=42962508) - [Simulating water over terrain](https://lisyarus.github.io/blog/posts/simulating-water-over-terrain.html)
@@ -25,11 +25,11 @@
 * [2025-02-05, 18:17:58](https://news.ycombinator.com/item?id=42952798) - [Kill the \"user\": Musings of a disillusioned technologist](https://www.pastagang.cc/blog/kill-the-user/)
 * [2025-02-05, 12:17:47](https://news.ycombinator.com/item?id=42947447) - [OpenLDK: A Java JIT compiler and runtime in Common Lisp](https://github.com/atgreen/openldk)
 * [2025-02-05, 10:53:02](https://news.ycombinator.com/item?id=42946752) - [Steve Meretzky – Working with Douglas Adams on the Hitchhiker's Guide](https://spillhistorie.no/qa-with-game-designer-steve-meretzky/)
+* [2025-02-04, 11:45:34](https://news.ycombinator.com/item?id=42931158) - [The most breathtaking abandoned sites](https://english.elpais.com/travel/2025-01-13/the-worlds-most-breathtaking-abandoned-sites-from-pakistans-bibi-jawindi-to-italys-athena-palazzo.html)
 * [2025-02-04, 09:42:46](https://news.ycombinator.com/item?id=42930301) - [Experience the DeepSeek R1 Distilled 'Reasoning' Models on Ryzen AI and Radeon](https://community.amd.com/t5/ai/experience-the-deepseek-r1-distilled-reasoning-models-on-amd/ba-p/740593)
 * [2025-02-03, 20:57:49](https://news.ycombinator.com/item?id=42923000) - [There's Math.random(), and then there's Math.random() (2015)](https://v8.dev/blog/math-random)
 * [2025-02-03, 20:08:48](https://news.ycombinator.com/item?id=42922289) - [Keep 'em (not) separated: detecting discontinuities in grid graphs](https://www.holm.dog/2025/02/keep-em-not-separated-detecting.html)
 * [2025-02-03, 18:56:51](https://news.ycombinator.com/item?id=42921493) - [Emil's Story as a Self-Taught AI Researcher (2020)](https://floydhub.ghost.io/emils-story-as-a-self-taught-ai-researcher/)
-* [2025-02-03, 16:42:36](https://news.ycombinator.com/item?id=42920068) - [Practical use of the null garbage collector (2018)](https://devblogs.microsoft.com/oldnewthing/20180228-00/?p=98125)
 
 ## [Archives](archives/index.md)
 
