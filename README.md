@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-07, 07:11:36](https://news.ycombinator.com/item?id=42970240) - [Donald Knuth's 2024 Christmas Lecture: Strong and Weak Components [video]](https://www.youtube.com/watch?v=Hi8r_63LGyg)
 * [2025-02-07, 05:34:59](https://news.ycombinator.com/item?id=42969750) - [HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models](https://arxiv.org/abs/2405.14831)
 * [2025-02-07, 05:09:37](https://news.ycombinator.com/item?id=42969650) - [Did UCLA Just Cure Baldness?](https://newsroom.ucla.edu/magazine/baldness-cure-pp405-molecule-breakthrough-treatment)
 * [2025-02-07, 05:00:39](https://news.ycombinator.com/item?id=42969605) - [There May Not Be Aha Moment in R1-Zero-Like Training](https://oatllm.notion.site/oat-zero)
 * [2025-02-07, 04:42:39](https://news.ycombinator.com/item?id=42969494) - [HTML Whitespace Is Broken](https://blog.dwac.dev/posts/html-whitespace/)
 * [2025-02-07, 04:29:08](https://news.ycombinator.com/item?id=42969387) - [Android XR will allow camera access like on the phone](https://skarredghost.com/2025/02/07/android-xr-camera-access-2/)
-* [2025-02-07, 04:19:05](https://news.ycombinator.com/item?id=42969334) - [Search PPP Loans by Zip Code](https://ppploanmap.com/)
 * [2025-02-07, 04:09:03](https://news.ycombinator.com/item?id=42969272) - [Mad at Meta? Don't Let Them Collect and Monetize Your Personal Data](https://www.eff.org/deeplinks/2025/01/mad-meta-dont-let-them-collect-and-monetize-your-personal-data)
 * [2025-02-07, 03:11:56](https://news.ycombinator.com/item?id=42968858) - [Easy 6502](https://skilldrick.github.io/easy6502/)
 * [2025-02-07, 02:44:09](https://news.ycombinator.com/item?id=42968700) - [Robust autonomy emerges from self-play](https://arxiv.org/abs/2502.03349)
@@ -20,6 +20,7 @@
 * [2025-02-06, 13:18:21](https://news.ycombinator.com/item?id=42962020) - [It is time to standardize principles and practices for software memory safety](https://cacm.acm.org/opinion/it-is-time-to-standardize-principles-and-practices-for-software-memory-safety/)
 * [2025-02-06, 10:13:26](https://news.ycombinator.com/item?id=42960907) - [Aluminum batteries outlive lithium-ion with a pinch of salt](https://spectrum.ieee.org/aluminum-battery)
 * [2025-02-06, 09:09:22](https://news.ycombinator.com/item?id=42960536) - [AI-generated Answers experiment on Stack Exchange sites](https://meta.stackexchange.com/questions/406307/ai-generated-answers-experiment-on-stack-exchange-sites-that-volunteered-to-part)
+* [2025-02-06, 04:54:18](https://news.ycombinator.com/item?id=42959226) - [Show HN: Heap Explorer](https://github.com/heap-exploitation/heap-explorer)
 * [2025-02-05, 14:06:44](https://news.ycombinator.com/item?id=42948642) - [Complex Systems and Quantitative Mereology](https://abeljansma.nl/2025/01/28/mereoPhysics.html)
 * [2025-02-05, 12:39:17](https://news.ycombinator.com/item?id=42947663) - [Ask HN: How to handle pushback on a team switch?](https://news.ycombinator.com/item?id=42947663)
 * [2025-02-05, 12:17:47](https://news.ycombinator.com/item?id=42947447) - [OpenLDK: A Java JIT compiler and runtime in Common Lisp](https://github.com/atgreen/openldk)
@@ -28,7 +29,6 @@
 * [2025-02-04, 21:47:12](https://news.ycombinator.com/item?id=42939312) - [How to prove false statements? (Part 1)](https://blog.cryptographyengineering.com/2025/02/04/how-to-prove-false-statements-part-1/)
 * [2025-02-04, 02:22:55](https://news.ycombinator.com/item?id=42926845) - [If your customers don't talk, NPS is a vanity metric](https://www.elliotcsmith.com/if-your-customers-dont-talk-nps-is-a-vanity-metric/)
 * [2025-02-03, 23:51:39](https://news.ycombinator.com/item?id=42925110) - [PlayAI's new Dialog model achieves 3:1 preference in human evals](https://play.ht/news/playai-announces-new-benchmarks-playdialog/)
-* [2025-02-03, 20:08:48](https://news.ycombinator.com/item?id=42922289) - [Keep 'em (not) separated: detecting discontinuities in grid graphs](https://www.holm.dog/2025/02/keep-em-not-separated-detecting.html)
 * [2025-02-03, 07:54:34](https://news.ycombinator.com/item?id=42915944) - [How do we evaluate vector-based code retrieval?](https://blog.voyageai.com/2024/12/04/code-retrieval-eval/)
 
 ## [Archives](archives/index.md)
