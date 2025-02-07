@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-07](index.md)
 
+* [2025-02-07, 20:50:26](https://news.ycombinator.com/item?id=42977332) - [Long Covid impacting more than 1M children: CDC study suggests](https://abcnews.go.com/Health/long-covid-impacting-1-million-children-cdc-study/story?id=118393880)
+* [2025-02-07, 20:41:06](https://news.ycombinator.com/item?id=42977245) - [Show HN: Open-source Hacker News apps](https://github.com/EmergeTools/hackernews)
 * [2025-02-07, 19:49:23](https://news.ycombinator.com/item?id=42976708) - [AMOC shutdown likely within the next 20-30 years](https://www.tandfonline.com/doi/full/10.1080/00139157.2025.2434494)
 * [2025-02-07, 19:15:25](https://news.ycombinator.com/item?id=42976338) - [Amazon Will Spend Nearly a Year of AWS Revenue on AI Investments](https://www.nextplatform.com/2025/02/07/amazon-will-spend-nearly-a-year-of-aws-revenue-on-ai-investments/)
 * [2025-02-07, 18:23:40](https://news.ycombinator.com/item?id=42975803) - [Show HN: A website that heatmaps your city based on your housing preferences](https://theretowhere.com/)
