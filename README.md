@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-07, 09:11:09](https://news.ycombinator.com/item?id=42970776) - [Is the use of reCAPTCHA GDPR-compliant?](https://dg-datenschutz.de/ist_die_verwendung_von_recaptcha_dsgvo_konform/)
+* [2025-02-07, 07:45:05](https://news.ycombinator.com/item?id=42970412) - [U.K. orders Apple to let it spy on users' encrypted accounts](https://www.washingtonpost.com/technology/2025/02/07/apple-encryption-backdoor-uk/)
 * [2025-02-07, 07:42:53](https://news.ycombinator.com/item?id=42970400) - [Blocking the telemetry of Adobe apps](https://a.dove.isdumb.one/list.txt)
 * [2025-02-07, 07:41:38](https://news.ycombinator.com/item?id=42970397) - [How does life happen when there's barely any light?](https://www.quantamagazine.org/how-does-life-happen-when-theres-barely-any-light-20250129/)
 * [2025-02-07, 07:11:36](https://news.ycombinator.com/item?id=42970240) - [Donald Knuth's 2024 Christmas Lecture: Strong and Weak Components [video]](https://www.youtube.com/watch?v=Hi8r_63LGyg)
@@ -13,7 +15,6 @@
 * [2025-02-06, 22:31:28](https://news.ycombinator.com/item?id=42967173) - [AI by Hand Exercises in Excel](https://github.com/ImagineAILab/ai-by-hand-excel)
 * [2025-02-06, 21:34:12](https://news.ycombinator.com/item?id=42966720) - [Understanding Reasoning LLMs](https://magazine.sebastianraschka.com/p/understanding-reasoning-llms)
 * [2025-02-06, 21:00:23](https://news.ycombinator.com/item?id=42966455) - [Verse (YC W22) Is Hiring](https://news.ycombinator.com/item?id=42966455)
-* [2025-02-06, 18:48:05](https://news.ycombinator.com/item?id=42965267) - [Show HN: An API that takes a URL and returns a file with browser screenshots](https://github.com/US-Artificial-Intelligence/scraper)
 * [2025-02-06, 18:40:30](https://news.ycombinator.com/item?id=42965198) - [Show HN: SQLite disk page explorer](https://github.com/QuadrupleA/sqlite-page-explorer)
 * [2025-02-06, 15:35:32](https://news.ycombinator.com/item?id=42963346) - [Show HN: An homage to Tom Dowdy's 1991 screensaver, \"Kaos\"](https://thestrikeagency.com/kaos/)
 * [2025-02-06, 14:15:28](https://news.ycombinator.com/item?id=42962508) - [Simulating water over terrain](https://lisyarus.github.io/blog/posts/simulating-water-over-terrain.html)
@@ -25,10 +26,9 @@
 * [2025-02-05, 12:39:17](https://news.ycombinator.com/item?id=42947663) - [Ask HN: How to handle pushback on a team switch?](https://news.ycombinator.com/item?id=42947663)
 * [2025-02-05, 12:17:47](https://news.ycombinator.com/item?id=42947447) - [OpenLDK: A Java JIT compiler and runtime in Common Lisp](https://github.com/atgreen/openldk)
 * [2025-02-05, 10:53:02](https://news.ycombinator.com/item?id=42946752) - [Steve Meretzky – Working with Douglas Adams on the Hitchhiker's Guide](https://spillhistorie.no/qa-with-game-designer-steve-meretzky/)
-* [2025-02-04, 21:47:12](https://news.ycombinator.com/item?id=42939312) - [How to prove false statements? (Part 1)](https://blog.cryptographyengineering.com/2025/02/04/how-to-prove-false-statements-part-1/)
-* [2025-02-04, 02:22:55](https://news.ycombinator.com/item?id=42926845) - [If your customers don't talk, NPS is a vanity metric](https://www.elliotcsmith.com/if-your-customers-dont-talk-nps-is-a-vanity-metric/)
 * [2025-02-03, 20:57:49](https://news.ycombinator.com/item?id=42923000) - [There's Math.random(), and then there's Math.random() (2015)](https://v8.dev/blog/math-random)
 * [2025-02-03, 20:08:48](https://news.ycombinator.com/item?id=42922289) - [Keep 'em (not) separated: detecting discontinuities in grid graphs](https://www.holm.dog/2025/02/keep-em-not-separated-detecting.html)
+* [2025-02-03, 18:56:51](https://news.ycombinator.com/item?id=42921493) - [Emil's Story as a Self-Taught AI Researcher (2020)](https://floydhub.ghost.io/emils-story-as-a-self-taught-ai-researcher/)
 * [2025-02-03, 16:42:36](https://news.ycombinator.com/item?id=42920068) - [Practical use of the null garbage collector (2018)](https://devblogs.microsoft.com/oldnewthing/20180228-00/?p=98125)
 
 ## [Archives](archives/index.md)
