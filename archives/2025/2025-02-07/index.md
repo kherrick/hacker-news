@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-02-07](index.md)
 
+* [2025-02-07, 12:33:23](https://news.ycombinator.com/item?id=42971847) - [Whalesong patterns follow a universal law of human language, new research finds](https://theconversation.com/whalesong-patterns-follow-a-universal-law-of-human-language-new-research-finds-249271)
+* [2025-02-07, 12:18:46](https://news.ycombinator.com/item?id=42971761) - [Apple Ordered by UK to Create Global iCloud Encryption Backdoor](https://www.macrumors.com/2025/02/07/uk-government-orders-access-icloud/)
 * [2025-02-07, 12:01:02](https://news.ycombinator.com/item?id=42971643) - [InspectMind AI (YC W24) Is Hiring for AI in Construction](https://www.ycombinator.com/companies/inspectmind-ai/jobs/XlRFssT-software-engineer)
+* [2025-02-07, 11:30:34](https://news.ycombinator.com/item?id=42971470) - [OpenAI cofounder John Schulman is joining Mira Murati's startup](https://finance.yahoo.com/news/openai-cofounder-john-schulman-joining-211110685.html)
 * [2025-02-07, 11:26:02](https://news.ycombinator.com/item?id=42971446) - [Meta torrented & seeded 81.7 TB dataset containing copyrighted data](https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/)
 * [2025-02-07, 10:50:19](https://news.ycombinator.com/item?id=42971279) - [Copilot stops working on code that contains hardcoded banned words from GitHub](https://github.com/orgs/community/discussions/72603)
 * [2025-02-07, 10:21:33](https://news.ycombinator.com/item?id=42971144) - [Boeing reports Starliner losses of more than half a billion dollars in 2024](https://spacenews.com/boeing-reports-starliner-losses-of-more-than-half-a-billion-dollars-in-2024/)
