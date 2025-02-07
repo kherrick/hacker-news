@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-07](index.md)
 
 * [2025-02-07, 10:50:19](https://news.ycombinator.com/item?id=42971279) - [Copilot stops working on code that contains hardcoded banned words from GitHub](https://github.com/orgs/community/discussions/72603)
+* [2025-02-07, 10:21:33](https://news.ycombinator.com/item?id=42971144) - [Boeing reports Starliner losses of more than half a billion dollars in 2024](https://spacenews.com/boeing-reports-starliner-losses-of-more-than-half-a-billion-dollars-in-2024/)
 * [2025-02-07, 10:01:23](https://news.ycombinator.com/item?id=42971059) - [Casinos, high-rises and fraud: The BBC visits a city built on scams](https://www.bbc.co.uk/news/articles/c04nx1vnw17o)
 * [2025-02-07, 09:59:15](https://news.ycombinator.com/item?id=42971047) - [US places sanctions against International Criminal Court](https://www.bbc.com/news/articles/cx2p19l24g2o)
 * [2025-02-07, 09:17:36](https://news.ycombinator.com/item?id=42970814) - [Scientists on alert as NOAA restricts contact with foreign nationals](https://www.washingtonpost.com/climate-environment/2025/02/06/noaa-fisheries-international-communication-doge/)
