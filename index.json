@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-02-07, 07:41:38",
+      "https://news.ycombinator.com/item?id=42970397"
+    ],
+    [
+      "How does life happen when there's barely any light?",
+      "https://www.quantamagazine.org/how-does-life-happen-when-theres-barely-any-light-20250129/"
+    ]
+  ],
+  [
+    [
       "2025-02-07, 07:11:36",
       "https://news.ycombinator.com/item?id=42970240"
     ],
     [
       "Donald Knuth's 2024 Christmas Lecture: Strong and Weak Components [video]",
       "https://www.youtube.com/watch?v=Hi8r_63LGyg"
-    ]
-  ],
-  [
-    [
-      "2025-02-07, 05:34:59",
-      "https://news.ycombinator.com/item?id=42969750"
-    ],
-    [
-      "HippoRAG: Neurobiologically Inspired Long-Term Memory for LLMs (2024)",
-      "https://arxiv.org/abs/2405.14831"
     ]
   ],
   [
@@ -87,6 +87,16 @@
     [
       "TKey – Security for the New World",
       "https://tillitis.se/products/tkey/"
+    ]
+  ],
+  [
+    [
+      "2025-02-06, 22:31:28",
+      "https://news.ycombinator.com/item?id=42967173"
+    ],
+    [
+      "AI by Hand Exercises in Excel",
+      "https://github.com/ImagineAILab/ai-by-hand-excel"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2025-02-05, 11:29:39",
-      "https://news.ycombinator.com/item?id=42947044"
-    ],
-    [
-      "Maria Montessori",
-      "https://en.wikipedia.org/wiki/Maria_Montessori"
-    ]
-  ],
-  [
-    [
       "2025-02-05, 10:53:02",
       "https://news.ycombinator.com/item?id=42946752"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2025-02-03, 23:51:39",
-      "https://news.ycombinator.com/item?id=42925110"
-    ],
-    [
-      "PlayAI's new Dialog model achieves 3:1 preference in human evals",
-      "https://play.ht/news/playai-announces-new-benchmarks-playdialog/"
-    ]
-  ],
-  [
-    [
       "2025-02-03, 20:57:49",
       "https://news.ycombinator.com/item?id=42923000"
     ],
     [
       "There's Math.random(), and then there's Math.random() (2015)",
       "https://v8.dev/blog/math-random"
+    ]
+  ],
+  [
+    [
+      "2025-02-03, 20:08:48",
+      "https://news.ycombinator.com/item?id=42922289"
+    ],
+    [
+      "Keep 'em (not) separated: detecting discontinuities in grid graphs",
+      "https://www.holm.dog/2025/02/keep-em-not-separated-detecting.html"
     ]
   ],
   [
