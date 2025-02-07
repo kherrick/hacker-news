@@ -1,22 +1,42 @@
 [
   [
     [
+      "2025-02-07, 14:25:35",
+      "https://news.ycombinator.com/item?id=42972876"
+    ],
+    [
+      "Feds Halt the National Electric Vehicle Charging Program",
+      "https://www.wired.com/story/feds-halt-national-electric-vehicle-charging-program/"
+    ]
+  ],
+  [
+    [
+      "2025-02-07, 14:18:54",
+      "https://news.ycombinator.com/item?id=42972791"
+    ],
+    [
+      "How to help us build open source Pebble software",
+      "https://ericmigi.com/blog/how-to-help-build-open-source-pebble-software/"
+    ]
+  ],
+  [
+    [
+      "2025-02-07, 13:44:09",
+      "https://news.ycombinator.com/item?id=42972420"
+    ],
+    [
+      "Procedural Hydrology: Dynamic Lake and River Simulation (2020)",
+      "https://nickmcd.me/2020/04/15/procedural-hydrology/"
+    ]
+  ],
+  [
+    [
       "2025-02-07, 13:40:19",
       "https://news.ycombinator.com/item?id=42972380"
     ],
     [
       "Entity-Component-System Architecture in Kubernetes",
       "https://fancl20.github.io/contents/00-posts/2025-02-07-ecs-and-k8s.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-07, 12:36:42",
-      "https://news.ycombinator.com/item?id=42971875"
-    ],
-    [
-      "The Culture Scene Is Total Madness",
-      "https://www.honest-broker.com/p/the-culture-scene-is-total-madness"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "Meta torrented & seeded 81.7 TB dataset containing copyrighted data",
       "https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/"
-    ]
-  ],
-  [
-    [
-      "2025-02-07, 10:21:33",
-      "https://news.ycombinator.com/item?id=42971144"
-    ],
-    [
-      "Boeing reports Starliner losses of more than half a billion dollars in 2024",
-      "https://spacenews.com/boeing-reports-starliner-losses-of-more-than-half-a-billion-dollars-in-2024/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "There's Math.random(), and then there's Math.random() (2015)",
       "https://v8.dev/blog/math-random"
-    ]
-  ],
-  [
-    [
-      "2025-02-03, 20:08:48",
-      "https://news.ycombinator.com/item?id=42922289"
-    ],
-    [
-      "Keep 'em (not) separated: detecting discontinuities in grid graphs",
-      "https://www.holm.dog/2025/02/keep-em-not-separated-detecting.html"
     ]
   ],
   [
