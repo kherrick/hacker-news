@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-07, 03:24:34](https://news.ycombinator.com/item?id=42968995) - [Andreessen Horowitz Defends Hiring of Daniel Penny to Its Investors](https://www.nytimes.com/2025/02/05/technology/daniel-penny-andreessen-horowitz-investors.html)
 * [2025-02-07, 03:11:56](https://news.ycombinator.com/item?id=42968858) - [Easy 6502](https://skilldrick.github.io/easy6502/)
 * [2025-02-07, 02:44:09](https://news.ycombinator.com/item?id=42968700) - [Robust Autonomy Emerges from Self-Play](https://arxiv.org/abs/2502.03349)
 * [2025-02-07, 02:13:03](https://news.ycombinator.com/item?id=42968547) - [Transformer Implemented Using Excel](https://www.byhand.ai/p/transformer-spreadsheet)
@@ -29,6 +28,7 @@
 * [2025-02-03, 20:08:48](https://news.ycombinator.com/item?id=42922289) - [Keep 'em (not) separated: detecting discontinuities in grid graphs](https://www.holm.dog/2025/02/keep-em-not-separated-detecting.html)
 * [2025-02-03, 17:47:06](https://news.ycombinator.com/item?id=42920799) - [Biophysics: How Does Life Happen When There's Barely Any Light?](https://www.quantamagazine.org/how-does-life-happen-when-theres-barely-any-light-20250129/)
 * [2025-02-03, 11:22:44](https://news.ycombinator.com/item?id=42917135) - [T1: A RISC-V Vector processor implementation](https://github.com/chipsalliance/t1)
+* [2025-02-03, 11:03:34](https://news.ycombinator.com/item?id=42917037) - [Humanity's Last Exam](https://agi.safe.ai/)
 * [2025-02-03, 07:54:34](https://news.ycombinator.com/item?id=42915944) - [How do we evaluate vector-based code retrieval?](https://blog.voyageai.com/2024/12/04/code-retrieval-eval/)
 
 ## [Archives](archives/index.md)
