@@ -43,6 +43,7 @@
 * [2025-02-05, 13:36:08](https://news.ycombinator.com/item?id=42948259) - [Personal Software](https://leerob.com/n/personal-software)
 * [2025-02-05, 13:08:40](https://news.ycombinator.com/item?id=42947973) - [Elastic Binary Trees (2011)](http://wtarreau.blogspot.com/2011/12/elastic-binary-trees-ebtree.html)
 * [2025-02-05, 12:59:50](https://news.ycombinator.com/item?id=42947875) - [Show HN: ArXivTok](https://arxivtok.vercel.app/)
+* [2025-02-05, 12:39:17](https://news.ycombinator.com/item?id=42947663) - [Ask HN: How to handle pushback on a team switch?](https://news.ycombinator.com/item?id=42947663)
 * [2025-02-05, 12:17:47](https://news.ycombinator.com/item?id=42947447) - [OpenLDK: A Java JIT compiler and runtime in Common Lisp](https://github.com/atgreen/openldk)
 * [2025-02-05, 12:09:23](https://news.ycombinator.com/item?id=42947383) - [Fiwix: Small Unix-Like Kernel](https://www.fiwix.org/)
 * [2025-02-05, 12:01:00](https://news.ycombinator.com/item?id=42947306) - [Toma (YC W24) Is Hiring a Founding Platform Engineer](https://www.ycombinator.com/companies/toma/jobs/eyhn3Si-founding-platform-engineer)
