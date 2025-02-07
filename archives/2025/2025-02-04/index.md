@@ -29,6 +29,7 @@
 * [2025-02-04, 18:40:55](https://news.ycombinator.com/item?id=42936723) - [WikiTok](https://wikitok.vercel.app/)
 * [2025-02-04, 18:24:31](https://news.ycombinator.com/item?id=42936506) - [Show HN: Play with real quantum physics in your browser](https://quantum.orgsoft.org)
 * [2025-02-04, 18:18:31](https://news.ycombinator.com/item?id=42936421) - [Onlookers freak out as 25-year-old set loose on Treasury computer system](https://www.rawstory.com/musk-treasury-doge/)
+* [2025-02-04, 18:07:37](https://news.ycombinator.com/item?id=42936253) - [Don't Delegate Understanding](https://stephango.com/understand)
 * [2025-02-04, 18:03:11](https://news.ycombinator.com/item?id=42936185) - [DeepSeek not as disruptive as claimed, firm has 50k GPUs and spent $1.6B](https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-might-not-be-as-disruptive-as-claimed-firm-reportedly-has-50-000-nvidia-gpus-and-spent-usd1-6-billion-on-buildouts)
 * [2025-02-04, 18:01:45](https://news.ycombinator.com/item?id=42936162) - [Nontraditional Red Teams](https://zachholman.com/posts/red-teams)
 * [2025-02-04, 17:56:34](https://news.ycombinator.com/item?id=42936086) - [The Slotted Counter Pattern (2020)](https://planetscale.com/blog/the-slotted-counter-pattern)
