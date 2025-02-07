@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-02-07, 05:09:37",
-      "https://news.ycombinator.com/item?id=42969650"
-    ],
-    [
-      "Did UCLA Just Cure Baldness?",
-      "https://newsroom.ucla.edu/magazine/baldness-cure-pp405-molecule-breakthrough-treatment"
-    ]
-  ],
-  [
-    [
       "2025-02-07, 05:00:39",
       "https://news.ycombinator.com/item?id=42969605"
     ],
@@ -57,6 +47,16 @@
     [
       "Android XR will allow camera access like on the phone",
       "https://skarredghost.com/2025/02/07/android-xr-camera-access-2/"
+    ]
+  ],
+  [
+    [
+      "2025-02-07, 04:19:05",
+      "https://news.ycombinator.com/item?id=42969334"
+    ],
+    [
+      "Search PPP Loans by Zip Code",
+      "https://ppploanmap.com/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-02-03, 07:54:34",
-      "https://news.ycombinator.com/item?id=42915944"
+      "2025-02-03, 20:57:49",
+      "https://news.ycombinator.com/item?id=42923000"
     ],
     [
-      "How do we evaluate vector-based code retrieval?",
-      "https://blog.voyageai.com/2024/12/04/code-retrieval-eval/"
+      "There's Math.random(), and then there's Math.random()",
+      "https://v8.dev/blog/math-random"
     ]
   ]
 ]
