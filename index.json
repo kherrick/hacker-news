@@ -25,18 +25,8 @@
       "https://news.ycombinator.com/item?id=42977388"
     ],
     [
-      "Show HN: ExpenseOwl – simple and beautiful self-hostedexpense tracker",
+      "Show HN: ExpenseOwl – Simple, self-hosted expense tracker",
       "https://github.com/Tanq16/ExpenseOwl"
-    ]
-  ],
-  [
-    [
-      "2025-02-07, 20:50:26",
-      "https://news.ycombinator.com/item?id=42977332"
-    ],
-    [
-      "Long Covid impacting more than 1M children: CDC study suggests",
-      "https://abcnews.go.com/Health/long-covid-impacting-1-million-children-cdc-study/story?id=118393880"
     ]
   ],
   [
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=42977245"
     ],
     [
-      "Show HN: Open-source Hacker News apps",
+      "Show HN: A simple Hackernews client for iOS and Android",
       "https://github.com/EmergeTools/hackernews"
     ]
   ],
@@ -55,18 +45,8 @@
       "https://news.ycombinator.com/item?id=42977039"
     ],
     [
-      "The Impact of AI on the Technical Interview Process",
+      "The impact of AI on the technical interview process",
       "https://coderev.app/blog/the-impact-of-ai-on-the-technical-interview-process/"
-    ]
-  ],
-  [
-    [
-      "2025-02-07, 19:15:25",
-      "https://news.ycombinator.com/item?id=42976338"
-    ],
-    [
-      "Amazon Will Spend Nearly a Year of AWS Revenue on AI Investments",
-      "https://www.nextplatform.com/2025/02/07/amazon-will-spend-nearly-a-year-of-aws-revenue-on-ai-investments/"
     ]
   ],
   [
@@ -85,7 +65,7 @@
       "https://news.ycombinator.com/item?id=42975436"
     ],
     [
-      "A Brief History of Code Signing at Mozilla",
+      "A brief history of code signing at Mozilla",
       "https://hearsum.ca/posts/history-of-code-signing-at-mozilla/"
     ]
   ],
@@ -125,7 +105,7 @@
       "https://news.ycombinator.com/item?id=42974728"
     ],
     [
-      "Stop Using Zip Codes for Geospatial Analysis (2019)",
+      "Stop using zip codes for geospatial analysis (2019)",
       "https://carto.com/blog/zip-codes-spatial-analysis"
     ]
   ],
@@ -135,7 +115,7 @@
       "https://news.ycombinator.com/item?id=42974727"
     ],
     [
-      "Mysterious Radiation Belts Detected Around Earth After Epic Solar Storm",
+      "Radiation belts detected around Earth after solar storm",
       "https://www.sciencealert.com/mysterious-radiation-belts-detected-around-earth-after-epic-solar-storm"
     ]
   ],
@@ -231,12 +211,12 @@
   ],
   [
     [
-      "2025-02-06, 22:04:03",
-      "https://news.ycombinator.com/item?id=42966958"
+      "2025-02-06, 21:34:12",
+      "https://news.ycombinator.com/item?id=42966720"
     ],
     [
-      "Why LLMs still suck at OCR",
-      "https://www.runpulse.com/blog/why-llms-suck-at-ocr"
+      "Understanding Reasoning LLMs",
+      "https://magazine.sebastianraschka.com/p/understanding-reasoning-llms"
     ]
   ],
   [
@@ -265,7 +245,7 @@
       "https://news.ycombinator.com/item?id=42946918"
     ],
     [
-      "Show HN: HN as TikTok, Welcome to HN Hell",
+      "Show HN: HN as TikTok, welcome to HN hell",
       "https://hnhell.com"
     ]
   ],
@@ -277,6 +257,16 @@
     [
       "Franz Kafka – the workers' friend (2018)",
       "https://marywcraig.com/2018/01/14/franz-kafka-the-workers-friend/"
+    ]
+  ],
+  [
+    [
+      "2025-02-04, 21:00:09",
+      "https://news.ycombinator.com/item?id=42938593"
+    ],
+    [
+      "Five Coding Hats",
+      "https://dubroy.com/blog/five-coding-hats/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Minor 387 Documentation Mystery",
       "https://www.os2museum.com/wp/minor-387-documentation-mystery/"
+    ]
+  ],
+  [
+    [
+      "2025-02-03, 20:57:49",
+      "https://news.ycombinator.com/item?id=42923000"
+    ],
+    [
+      "There's Math.random(), and then there's Math.random() (2015)",
+      "https://v8.dev/blog/math-random"
     ]
   ]
 ]
