@@ -8,6 +8,7 @@
 * [2025-02-07, 05:09:37](https://news.ycombinator.com/item?id=42969650) - [Did UCLA Just Cure Baldness?](https://newsroom.ucla.edu/magazine/baldness-cure-pp405-molecule-breakthrough-treatment)
 * [2025-02-07, 05:08:36](https://news.ycombinator.com/item?id=42969643) - [Show HN: I built an AI satirical news site because news was depressing me](https://thescallion.netlify.app/)
 * [2025-02-07, 05:00:39](https://news.ycombinator.com/item?id=42969605) - [There May Not Be Aha Moment in R1-Zero-Like Training](https://oatllm.notion.site/oat-zero)
+* [2025-02-07, 04:42:39](https://news.ycombinator.com/item?id=42969494) - [HTML Whitespace Is Broken](https://blog.dwac.dev/posts/html-whitespace/)
 * [2025-02-07, 04:29:08](https://news.ycombinator.com/item?id=42969387) - [Android XR will allow camera access like on the phone](https://skarredghost.com/2025/02/07/android-xr-camera-access-2/)
 * [2025-02-07, 04:19:05](https://news.ycombinator.com/item?id=42969334) - [Search PPP Loans by Zip Code](https://ppploanmap.com/)
 * [2025-02-07, 04:09:03](https://news.ycombinator.com/item?id=42969272) - [Mad at Meta? Don't Let Them Collect and Monetize Your Personal Data](https://www.eff.org/deeplinks/2025/01/mad-meta-dont-let-them-collect-and-monetize-your-personal-data)
