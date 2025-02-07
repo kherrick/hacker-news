@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-02-07, 04:19:05",
-      "https://news.ycombinator.com/item?id=42969334"
-    ],
-    [
-      "Search PPP Loans by Zip Code",
-      "https://ppploanmap.com/"
-    ]
-  ],
-  [
-    [
       "2025-02-07, 03:11:56",
       "https://news.ycombinator.com/item?id=42968858"
     ],
@@ -261,6 +251,16 @@
   ],
   [
     [
+      "2025-02-04, 21:47:12",
+      "https://news.ycombinator.com/item?id=42939312"
+    ],
+    [
+      "How to prove false statements? (Part 1)",
+      "https://blog.cryptographyengineering.com/2025/02/04/how-to-prove-false-statements-part-1/"
+    ]
+  ],
+  [
+    [
       "2025-02-04, 02:22:55",
       "https://news.ycombinator.com/item?id=42926845"
     ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=42920068"
     ],
     [
-      "Practical use of the null garbage collector",
+      "Practical use of the null garbage collector (2018)",
       "https://devblogs.microsoft.com/oldnewthing/20180228-00/?p=98125"
     ]
   ]
