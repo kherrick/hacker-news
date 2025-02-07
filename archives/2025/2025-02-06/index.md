@@ -32,6 +32,7 @@
 * [2025-02-06, 14:02:21](https://news.ycombinator.com/item?id=42962388) - [Disney+ Loses 700k Subscribers Following Price Increase](https://www.macrumors.com/2025/02/05/disney-plus-subscriber-decrease/)
 * [2025-02-06, 13:59:13](https://news.ycombinator.com/item?id=42962345) - [Gumroad CEO is no longer hiring junior/mid-level software engineers due to AI](https://twitter.com/shl/status/1887484068075274347)
 * [2025-02-06, 13:34:30](https://news.ycombinator.com/item?id=42962127) - [FDIC has released 175 internal documents on \"Operation Chokepoint 2.0\"](https://www.fdic.gov/foia/correspondence-related-crypto-related-activities)
+* [2025-02-06, 13:18:21](https://news.ycombinator.com/item?id=42962020) - [It is time to standardize principles and practices for software memory safety](https://cacm.acm.org/opinion/it-is-time-to-standardize-principles-and-practices-for-software-memory-safety/)
 * [2025-02-06, 13:17:43](https://news.ycombinator.com/item?id=42962015) - [The Sad Math of Ads: messages of inadequacy and salvation through consumption](https://www.jamesdamore.com/articles/the-sad-math-of-ads)
 * [2025-02-06, 12:39:37](https://news.ycombinator.com/item?id=42961795) - [Explorable Flexagons: Learn to create and flex flexagons (2020)](http://loki3.com/flex/explore/)
 * [2025-02-06, 12:09:55](https://news.ycombinator.com/item?id=42961606) - [Science of Microwave Ovens](https://www.genuineideas.com/ArticlesIndex/wave.html)
