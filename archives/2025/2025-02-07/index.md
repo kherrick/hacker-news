@@ -6,6 +6,7 @@
 
 * [2025-02-07, 13:40:19](https://news.ycombinator.com/item?id=42972380) - [Entity-Component-System Architecture in Kubernetes](https://fancl20.github.io/contents/00-posts/2025-02-07-ecs-and-k8s.html)
 * [2025-02-07, 13:32:44](https://news.ycombinator.com/item?id=42972315) - [Rewrote 42k lines of code from Python to Go. Technical deep dive](https://lovable.dev/blog/from-python-to-go)
+* [2025-02-07, 13:11:56](https://news.ycombinator.com/item?id=42972129) - [UK government reportedly demands Apple backdoor to encrypted cloud data](https://techcrunch.com/2025/02/07/uk-government-demands-apple-backdoor-to-encrypted-cloud-data-report/)
 * [2025-02-07, 13:10:48](https://news.ycombinator.com/item?id=42972126) - [Is there ever a good reason to debate someone who is not arguing in good faith?](https://old.reddit.com/r/askphilosophy/comments/1914wml/is_there_ever_a_good_reason_to_debate_someone_who/)
 * [2025-02-07, 13:05:58](https://news.ycombinator.com/item?id=42972086) - [UK demands access to Apple users' encrypted data](https://www.bbc.co.uk/news/articles/c20g288yldko)
 * [2025-02-07, 13:02:03](https://news.ycombinator.com/item?id=42972062) - [Asahi Linux Lead Developer Hector Martin Resigns from Linux Kernel](https://lkml.org/lkml/2025/2/7/9)
