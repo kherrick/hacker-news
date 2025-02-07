@@ -26,7 +26,7 @@
 * [2025-02-06, 16:44:21](https://news.ycombinator.com/item?id=42964124) - [The superconductivity of layered graphene is surprisingly strange](https://www.newscientist.com/article/2466930-the-superconductivity-of-layered-graphene-is-surprisingly-strange/)
 * [2025-02-05, 11:15:01](https://news.ycombinator.com/item?id=42946918) - [Show HN: HN as TikTok, welcome to HN hell](https://hnhell.com)
 * [2025-02-05, 08:51:15](https://news.ycombinator.com/item?id=42945812) - [Franz Kafka – the workers' friend (2018)](https://marywcraig.com/2018/01/14/franz-kafka-the-workers-friend/)
-* [2025-02-04, 21:00:09](https://news.ycombinator.com/item?id=42938593) - [Five Coding Hats](https://dubroy.com/blog/five-coding-hats/)
+* [2025-02-05, 01:25:05](https://news.ycombinator.com/item?id=42942204) - [Visual Explanations of Mathematics](https://agilescientific.com/blog/2020/2/25/visual-explanations-of-mathematics)
 * [2025-02-04, 18:24:31](https://news.ycombinator.com/item?id=42936506) - [Show HN: Play with real quantum physics in your browser](https://quantum.orgsoft.org)
 * [2025-02-04, 03:59:38](https://news.ycombinator.com/item?id=42927722) - [Minor 387 Documentation Mystery](https://www.os2museum.com/wp/minor-387-documentation-mystery/)
 * [2025-02-03, 20:57:49](https://news.ycombinator.com/item?id=42923000) - [There's Math.random(), and then there's Math.random() (2015)](https://v8.dev/blog/math-random)
