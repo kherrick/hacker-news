@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-07, 20:50:26",
+      "https://news.ycombinator.com/item?id=42977332"
+    ],
+    [
+      "Long Covid impacting more than 1M children: CDC study suggests",
+      "https://abcnews.go.com/Health/long-covid-impacting-1-million-children-cdc-study/story?id=118393880"
+    ]
+  ],
+  [
+    [
+      "2025-02-07, 20:41:06",
+      "https://news.ycombinator.com/item?id=42977245"
+    ],
+    [
+      "Show HN: Open-source Hacker News apps",
+      "https://github.com/EmergeTools/hackernews"
+    ]
+  ],
+  [
+    [
       "2025-02-07, 19:15:25",
       "https://news.ycombinator.com/item?id=42976338"
     ],
@@ -57,6 +77,16 @@
     [
       "PropRise (YC S23) Is Hiring Our First Engineer",
       "https://www.ycombinator.com/companies/proprise/jobs/PFuZCxC-founding-engineer-backend"
+    ]
+  ],
+  [
+    [
+      "2025-02-07, 16:59:18",
+      "https://news.ycombinator.com/item?id=42974882"
+    ],
+    [
+      "Ketamine for Depression: How It Works (2024) [video]",
+      "https://www.yalemedicine.org/news/ketamine-for-depression"
     ]
   ],
   [
@@ -131,32 +161,12 @@
   ],
   [
     [
-      "2025-02-07, 15:30:08",
-      "https://news.ycombinator.com/item?id=42973769"
-    ],
-    [
-      "Kokoro WebGPU: Real-time text-to-speech 100% locally in the browser",
-      "https://huggingface.co/spaces/webml-community/kokoro-webgpu"
-    ]
-  ],
-  [
-    [
       "2025-02-07, 14:18:19",
       "https://news.ycombinator.com/item?id=42972781"
     ],
     [
       "Children's arithmetic skills do not transfer between applied and academic math",
       "https://www.nature.com/articles/s41586-024-08502-w"
-    ]
-  ],
-  [
-    [
-      "2025-02-07, 13:44:09",
-      "https://news.ycombinator.com/item?id=42972420"
-    ],
-    [
-      "Procedural Hydrology: Dynamic Lake and River Simulation (2020)",
-      "https://nickmcd.me/2020/04/15/procedural-hydrology/"
     ]
   ],
   [
@@ -197,6 +207,16 @@
     [
       "Donald Knuth's 2024 Christmas Lecture: Strong and Weak Components [video]",
       "https://www.youtube.com/watch?v=Hi8r_63LGyg"
+    ]
+  ],
+  [
+    [
+      "2025-02-06, 22:04:03",
+      "https://news.ycombinator.com/item?id=42966958"
+    ],
+    [
+      "Why LLMs still suck at OCR",
+      "https://www.runpulse.com/blog/why-llms-suck-at-ocr"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "What was before the telephone bell? Pencils and Hammers",
       "https://www.calling315.com/annunicators"
-    ]
-  ],
-  [
-    [
-      "2025-02-03, 20:57:49",
-      "https://news.ycombinator.com/item?id=42923000"
-    ],
-    [
-      "There's Math.random(), and then there's Math.random() (2015)",
-      "https://v8.dev/blog/math-random"
-    ]
-  ],
-  [
-    [
-      "2025-02-03, 18:56:51",
-      "https://news.ycombinator.com/item?id=42921493"
-    ],
-    [
-      "Emil's Story as a Self-Taught AI Researcher (2020)",
-      "https://floydhub.ghost.io/emils-story-as-a-self-taught-ai-researcher/"
     ]
   ]
 ]
