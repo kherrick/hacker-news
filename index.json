@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-07, 11:26:02",
+      "https://news.ycombinator.com/item?id=42971446"
+    ],
+    [
+      "Meta torrented & seeded 81.7 TB dataset containing copyrighted data",
+      "https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/"
+    ]
+  ],
+  [
+    [
       "2025-02-07, 10:50:19",
       "https://news.ycombinator.com/item?id=42971279"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2025-02-06, 18:48:05",
-      "https://news.ycombinator.com/item?id=42965267"
-    ],
-    [
-      "Show HN: An API that takes a URL and returns a file with browser screenshots",
-      "https://github.com/US-Artificial-Intelligence/scraper"
-    ]
-  ],
-  [
-    [
       "2025-02-06, 18:40:30",
       "https://news.ycombinator.com/item?id=42965198"
     ],
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2025-02-04, 11:45:34",
+      "https://news.ycombinator.com/item?id=42931158"
+    ],
+    [
+      "The most breathtaking abandoned sites",
+      "https://english.elpais.com/travel/2025-01-13/the-worlds-most-breathtaking-abandoned-sites-from-pakistans-bibi-jawindi-to-italys-athena-palazzo.html"
+    ]
+  ],
+  [
+    [
       "2025-02-04, 09:42:46",
       "https://news.ycombinator.com/item?id=42930301"
     ],
@@ -287,16 +297,6 @@
     [
       "Emil's Story as a Self-Taught AI Researcher (2020)",
       "https://floydhub.ghost.io/emils-story-as-a-self-taught-ai-researcher/"
-    ]
-  ],
-  [
-    [
-      "2025-02-03, 16:42:36",
-      "https://news.ycombinator.com/item?id=42920068"
-    ],
-    [
-      "Practical use of the null garbage collector (2018)",
-      "https://devblogs.microsoft.com/oldnewthing/20180228-00/?p=98125"
     ]
   ]
 ]
