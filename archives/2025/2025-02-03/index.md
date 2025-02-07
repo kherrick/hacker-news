@@ -16,6 +16,7 @@
 * [2025-02-03, 21:24:50](https://news.ycombinator.com/item?id=42923409) - [Earth Detecting Earth](https://www.seti.org/press-release/earth-detecting-earth)
 * [2025-02-03, 20:56:44](https://news.ycombinator.com/item?id=42922989) - [Open Euro LLM: Open LLMs for Transparent AI in Europe](https://openeurollm.eu/launch-press-release)
 * [2025-02-03, 20:35:26](https://news.ycombinator.com/item?id=42922695) - [Where in the U.S. Does Middle-Class Income Stretch the Furthest?](https://upgradedpoints.com/news/cities-where-middle-class-income-goes-furthest/)
+* [2025-02-03, 20:08:48](https://news.ycombinator.com/item?id=42922289) - [Keep 'em (not) separated: detecting discontinuities in grid graphs](https://www.holm.dog/2025/02/keep-em-not-separated-detecting.html)
 * [2025-02-03, 19:48:51](https://news.ycombinator.com/item?id=42922052) - [The Cantonese Scrolls (粵卷) – A Cantonese Language Learning Mental RPG](https://cantoscrolls.com/)
 * [2025-02-03, 19:47:25](https://news.ycombinator.com/item?id=42922038) - [Hello, I'm Mr. Null. My Name Makes Me Invisible to Computers (2015)](https://www.wired.com/2015/11/null/)
 * [2025-02-03, 19:32:36](https://news.ycombinator.com/item?id=42921867) - [Texas Tempts Meta](https://www.bloomberg.com/opinion/articles/2025-02-03/texas-tempts-meta)
