@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-07, 13:10:48](https://news.ycombinator.com/item?id=42972126) - [Is there ever a good reason to debate someone who is not arguing in good faith?](https://old.reddit.com/r/askphilosophy/comments/1914wml/is_there_ever_a_good_reason_to_debate_someone_who/)
+* [2025-02-07, 13:05:58](https://news.ycombinator.com/item?id=42972086) - [UK demands access to Apple users' encrypted data](https://www.bbc.co.uk/news/articles/c20g288yldko)
 * [2025-02-07, 13:02:03](https://news.ycombinator.com/item?id=42972062) - [Asahi Linux Lead Developer Hector Martin Resigns from Linux Kernel](https://lkml.org/lkml/2025/2/7/9)
 * [2025-02-07, 12:45:32](https://news.ycombinator.com/item?id=42971959) - [Estonia to disconnect from the Russian-run electricity network on Saturday](https://elering.ee/en/estonia-disconnect-russian-run-electricity-network-saturday)
 * [2025-02-07, 12:33:23](https://news.ycombinator.com/item?id=42971847) - [Whalesong patterns follow a universal law of human language, new research finds](https://theconversation.com/whalesong-patterns-follow-a-universal-law-of-human-language-new-research-finds-249271)
@@ -11,7 +11,7 @@
 * [2025-02-07, 11:26:02](https://news.ycombinator.com/item?id=42971446) - [Meta torrented & seeded 81.7 TB dataset containing copyrighted data](https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/)
 * [2025-02-07, 10:50:19](https://news.ycombinator.com/item?id=42971279) - [Copilot stops working on code that contains hardcoded banned words from GitHub](https://github.com/orgs/community/discussions/72603)
 * [2025-02-07, 10:21:33](https://news.ycombinator.com/item?id=42971144) - [Boeing reports Starliner losses of more than half a billion dollars in 2024](https://spacenews.com/boeing-reports-starliner-losses-of-more-than-half-a-billion-dollars-in-2024/)
-* [2025-02-07, 10:01:23](https://news.ycombinator.com/item?id=42971059) - [Casinos, high-rises and fraud: The BBC visits a city built on scams](https://www.bbc.co.uk/news/articles/c04nx1vnw17o)
+* [2025-02-07, 10:01:23](https://news.ycombinator.com/item?id=42971059) - [Shwe Kokko is accused of being a city built on scams](https://www.bbc.co.uk/news/articles/c04nx1vnw17o)
 * [2025-02-07, 07:41:38](https://news.ycombinator.com/item?id=42970397) - [How does life happen when there's barely any light?](https://www.quantamagazine.org/how-does-life-happen-when-theres-barely-any-light-20250129/)
 * [2025-02-07, 07:11:36](https://news.ycombinator.com/item?id=42970240) - [Donald Knuth's 2024 Christmas Lecture: Strong and Weak Components [video]](https://www.youtube.com/watch?v=Hi8r_63LGyg)
 * [2025-02-07, 06:32:00](https://news.ycombinator.com/item?id=42970039) - [Announcing the data.gov archive](https://lil.law.harvard.edu/blog/2025/02/06/announcing-data-gov-archive/)
