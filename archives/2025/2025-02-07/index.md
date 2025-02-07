@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-07](index.md)
 
 * [2025-02-07, 17:00:02](https://news.ycombinator.com/item?id=42974897) - [PropRise (YC S23) Is Hiring Our First Engineer](https://www.ycombinator.com/companies/proprise/jobs/PFuZCxC-founding-engineer-backend)
+* [2025-02-07, 16:59:18](https://news.ycombinator.com/item?id=42974882) - [Ketamine for Depression: How It Works](https://www.yalemedicine.org/news/ketamine-for-depression)
 * [2025-02-07, 16:53:20](https://news.ycombinator.com/item?id=42974809) - [The origins of 60-Hz as a power frequency](https://ieeexplore.ieee.org/document/628099)
 * [2025-02-07, 16:46:47](https://news.ycombinator.com/item?id=42974728) - [Stop Using Zip Codes for Geospatial Analysis (2019)](https://carto.com/blog/zip-codes-spatial-analysis)
 * [2025-02-07, 16:46:45](https://news.ycombinator.com/item?id=42974727) - [Mysterious Radiation Belts Detected Around Earth After Epic Solar Storm](https://www.sciencealert.com/mysterious-radiation-belts-detected-around-earth-after-epic-solar-storm)
