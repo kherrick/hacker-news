@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-02-07](index.md)
 
+* [2025-02-07, 18:23:40](https://news.ycombinator.com/item?id=42975803) - [Show HN: A website that heatmaps your city based on your housing preferences](https://theretowhere.com/)
+* [2025-02-07, 17:51:49](https://news.ycombinator.com/item?id=42975436) - [A Brief History of Code Signing at Mozilla](https://hearsum.ca/posts/history-of-code-signing-at-mozilla/)
 * [2025-02-07, 17:27:57](https://news.ycombinator.com/item?id=42975171) - [Pantograph: A Fluid and Typed Structure Editor](https://github.com/jeprinz/pantograph/blob/main/README.md)
+* [2025-02-07, 17:27:54](https://news.ycombinator.com/item?id=42975170) - [A German court rules: X must provide researchers access to data](https://www.reuters.com/world/europe/german-civil-activists-claim-victory-case-against-musks-x-2025-02-07/)
 * [2025-02-07, 17:00:02](https://news.ycombinator.com/item?id=42974897) - [PropRise (YC S23) Is Hiring Our First Engineer](https://www.ycombinator.com/companies/proprise/jobs/PFuZCxC-founding-engineer-backend)
 * [2025-02-07, 16:59:18](https://news.ycombinator.com/item?id=42974882) - [Ketamine for Depression: How It Works](https://www.yalemedicine.org/news/ketamine-for-depression)
 * [2025-02-07, 16:53:20](https://news.ycombinator.com/item?id=42974809) - [The origins of 60-Hz as a power frequency](https://ieeexplore.ieee.org/document/628099)
