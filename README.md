@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-07, 22:38:11](https://news.ycombinator.com/item?id=42978313) - [Autonomous AI Agents Should Not Be Developed](https://huggingface.co/papers/2502.02649)
 * [2025-02-07, 21:06:40](https://news.ycombinator.com/item?id=42977483) - [Portland's Exploding Liberty Bell](https://tomlovesthelibertybell.com/portlands-exploding-liberty-bell/)
 * [2025-02-07, 21:00:03](https://news.ycombinator.com/item?id=42977416) - [Zep AI (YC W24) Is Hiring Engineers to Build SOTA Agent Memory](https://www.ycombinator.com/companies/zep-ai/jobs/e2QxKYu-staff-engineer)
 * [2025-02-07, 20:56:58](https://news.ycombinator.com/item?id=42977388) - [Show HN: ExpenseOwl – Simple, self-hosted expense tracker](https://github.com/Tanq16/ExpenseOwl)
@@ -26,10 +27,9 @@
 * [2025-02-05, 09:12:41](https://news.ycombinator.com/item?id=42945980) - [Station of despair: What to do if you get stuck at end of Tokyo Chuo Rapid Line](https://soranews24.com/2024/12/21/station-of-despair-what-to-do-if-you-get-stuck-at-the-end-of-tokyos-chuo-rapid-line/)
 * [2025-02-05, 08:51:15](https://news.ycombinator.com/item?id=42945812) - [Franz Kafka – the workers' friend (2018)](https://marywcraig.com/2018/01/14/franz-kafka-the-workers-friend/)
 * [2025-02-05, 08:00:47](https://news.ycombinator.com/item?id=42945426) - [The WW2 experiment to make pigeon-guided missiles [video]](https://www.bbc.com/reel/video/p0kl5kcz/the-ww2-experiment-to-make-pigeon-guided-missiles)
-* [2025-02-05, 01:25:05](https://news.ycombinator.com/item?id=42942204) - [Visual Explanations of Mathematics](https://agilescientific.com/blog/2020/2/25/visual-explanations-of-mathematics)
+* [2025-02-05, 01:25:05](https://news.ycombinator.com/item?id=42942204) - [Visual Explanations of Mathematics (2020)](https://agilescientific.com/blog/2020/2/25/visual-explanations-of-mathematics)
 * [2025-02-04, 18:24:31](https://news.ycombinator.com/item?id=42936506) - [Show HN: Play with real quantum physics in your browser](https://quantum.orgsoft.org)
 * [2025-02-04, 03:59:38](https://news.ycombinator.com/item?id=42927722) - [Minor 387 Documentation Mystery](https://www.os2museum.com/wp/minor-387-documentation-mystery/)
-* [2025-02-03, 20:57:49](https://news.ycombinator.com/item?id=42923000) - [There's Math.random(), and then there's Math.random() (2015)](https://v8.dev/blog/math-random)
 
 ## [Archives](archives/index.md)
 
