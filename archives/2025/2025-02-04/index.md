@@ -17,6 +17,7 @@
 * [2025-02-04, 21:28:04](https://news.ycombinator.com/item?id=42939022) - [DeepSeek and Double Standards](https://substack.com/@keyvan/note/c-91026164)
 * [2025-02-04, 21:21:54](https://news.ycombinator.com/item?id=42938918) - [Discord has ongoing major outage](https://discordstatus.com)
 * [2025-02-04, 21:13:30](https://news.ycombinator.com/item?id=42938802) - [Government planned it 7 years,beavers built the dam in 2 days and saved them $1M](https://www.voxnews.al/english/kosovabota/qeveria-po-e-planifikonte-prej-7-vitesh-kastoret-ndertojne-brenda-dy--i84652)
+* [2025-02-04, 21:00:09](https://news.ycombinator.com/item?id=42938593) - [Five Coding Hats](https://dubroy.com/blog/five-coding-hats/)
 * [2025-02-04, 21:00:06](https://news.ycombinator.com/item?id=42938592) - [Roame (YC S23) Is Hiring an AI Fullstack Lead](https://www.ycombinator.com/companies/roame/jobs/V1aMBGc-lead-ai-full-stack-engineer)
 * [2025-02-04, 20:58:06](https://news.ycombinator.com/item?id=42938555) - [TrailBase: Sub-millisecond open-source application base with Rust, SQLite and V8](https://trailbase.io/reference/benchmarks/)
 * [2025-02-04, 20:49:58](https://news.ycombinator.com/item?id=42938409) - [How I use LLMs as a staff engineer](https://www.seangoedecke.com/how-i-use-llms/)
