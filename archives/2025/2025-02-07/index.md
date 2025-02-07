@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-02-07](index.md)
 
+* [2025-02-07, 13:10:48](https://news.ycombinator.com/item?id=42972126) - [Is there ever a good reason to debate someone who is not arguing in good faith?](https://old.reddit.com/r/askphilosophy/comments/1914wml/is_there_ever_a_good_reason_to_debate_someone_who/)
 * [2025-02-07, 13:02:03](https://news.ycombinator.com/item?id=42972062) - [Asahi Linux Lead Developer Hector Martin Resigns from Linux Kernel](https://lkml.org/lkml/2025/2/7/9)
+* [2025-02-07, 12:45:32](https://news.ycombinator.com/item?id=42971959) - [Estonia to disconnect from the Russian-run electricity network on Saturday](https://elering.ee/en/estonia-disconnect-russian-run-electricity-network-saturday)
 * [2025-02-07, 12:33:23](https://news.ycombinator.com/item?id=42971847) - [Whalesong patterns follow a universal law of human language, new research finds](https://theconversation.com/whalesong-patterns-follow-a-universal-law-of-human-language-new-research-finds-249271)
 * [2025-02-07, 12:18:46](https://news.ycombinator.com/item?id=42971761) - [Apple Ordered by UK to Create Global iCloud Encryption Backdoor](https://www.macrumors.com/2025/02/07/uk-government-orders-access-icloud/)
 * [2025-02-07, 12:01:02](https://news.ycombinator.com/item?id=42971643) - [InspectMind AI (YC W24) Is Hiring for AI in Construction](https://www.ycombinator.com/companies/inspectmind-ai/jobs/XlRFssT-software-engineer)
