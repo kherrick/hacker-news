@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-07](index.md)
 
+* [2025-02-07, 05:08:36](https://news.ycombinator.com/item?id=42969643) - [Show HN: I built an AI satirical news site because news was depressing me](https://thescallion.netlify.app/)
+* [2025-02-07, 04:19:05](https://news.ycombinator.com/item?id=42969334) - [Search PPP Loans by Zip Code](https://ppploanmap.com/)
 * [2025-02-07, 04:09:03](https://news.ycombinator.com/item?id=42969272) - [Mad at Meta? Don't Let Them Collect and Monetize Your Personal Data](https://www.eff.org/deeplinks/2025/01/mad-meta-dont-let-them-collect-and-monetize-your-personal-data)
 * [2025-02-07, 03:43:46](https://news.ycombinator.com/item?id=42969126) - [Tesla Is Alienating the People It Needs Most: Study](https://insideevs.com/news/749741/tesla-ev-buyers-favorability-rating/)
 * [2025-02-07, 03:24:34](https://news.ycombinator.com/item?id=42968995) - [Andreessen Horowitz Defends Hiring of Daniel Penny to Its Investors](https://www.nytimes.com/2025/02/05/technology/daniel-penny-andreessen-horowitz-investors.html)

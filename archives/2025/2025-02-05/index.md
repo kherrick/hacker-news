@@ -48,6 +48,7 @@
 * [2025-02-05, 12:01:00](https://news.ycombinator.com/item?id=42947306) - [Toma (YC W24) Is Hiring a Founding Platform Engineer](https://www.ycombinator.com/companies/toma/jobs/eyhn3Si-founding-platform-engineer)
 * [2025-02-05, 11:35:13](https://news.ycombinator.com/item?id=42947081) - [My Status Circles](https://www.overcomingbias.com/p/my-status-circles)
 * [2025-02-05, 11:30:36](https://news.ycombinator.com/item?id=42947049) - [Microsoft deletes official Windows 11 CPU/TPM bypass for unsupported PCs](https://www.neowin.net/news/microsoft-quietly-removes-official-windows-11-cputpm-bypass-for-unsupported-pcs/)
+* [2025-02-05, 11:29:39](https://news.ycombinator.com/item?id=42947044) - [Maria Montessori](https://en.wikipedia.org/wiki/Maria_Montessori)
 * [2025-02-05, 11:15:01](https://news.ycombinator.com/item?id=42946918) - [HN as TikTok: Welcome to HN Hell](https://hnhell.com)
 * [2025-02-05, 11:05:40](https://news.ycombinator.com/item?id=42946854) - [S1: The $6 R1 Competitor?](https://timkellogg.me/blog/2025/02/03/s1)
 * [2025-02-05, 10:53:02](https://news.ycombinator.com/item?id=42946752) - [Steve Meretzky – Working with Douglas Adams on the Hitchhiker's Guide](https://spillhistorie.no/qa-with-game-designer-steve-meretzky/)
