@@ -58,6 +58,7 @@
 * [2025-02-06, 05:43:04](https://news.ycombinator.com/item?id=42959440) - [Google scraps diversity 'aspirations,' citing role as federal contractor](https://www.cnbc.com/2025/02/05/google-scraps-diversity-aspirations-as-a-federal-contractor.html)
 * [2025-02-06, 05:00:36](https://news.ycombinator.com/item?id=42959260) - [America's Dangerous Movement Toward Oligarchy, Authoritarianism and Kleptocracy](https://www.counterpunch.org/2025/02/04/americas-dangerous-movement-toward-oligarchy-authoritarianism-and-kleptocracy/)
 * [2025-02-06, 04:54:18](https://news.ycombinator.com/item?id=42959226) - [Show HN: Heap Explorer](https://github.com/heap-exploitation/heap-explorer)
+* [2025-02-06, 04:32:43](https://news.ycombinator.com/item?id=42959110) - [Implementing a Game Boy Emulator in Ruby](https://sacckey.dev/posts/implementing-a-game-boy-emulator-in-ruby/)
 * [2025-02-06, 03:30:34](https://news.ycombinator.com/item?id=42958696) - [Programming SDF Animations of Rick and Morty](https://danielchasehooper.com/posts/code-animated-rick/)
 * [2025-02-06, 03:26:00](https://news.ycombinator.com/item?id=42958656) - [CERN's open source heritage: Building blocks to share](https://opensource.web.cern.ch/cern-open-source-heritage)
 * [2025-02-06, 02:58:41](https://news.ycombinator.com/item?id=42958474) - [Subway crime plummets as ridership jumps significantly in congestion pricing era](https://www.amny.com/nyc-transit/nyc-subway-crime-plummets-ridership-jumps-2025/)
