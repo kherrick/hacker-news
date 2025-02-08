@@ -34,6 +34,7 @@
 * [2025-02-05, 16:23:10](https://news.ycombinator.com/item?id=42950790) - [20k federal workers take \"buyout\" so far, official says](https://www.axios.com/2025/02/04/trump-buyout-federal-workers-20000)
 * [2025-02-05, 16:18:59](https://news.ycombinator.com/item?id=42950716) - [How does DeepSeek work: An inside look](https://codedoodles.substack.com/p/how-does-deepseek-work-an-in-depth)
 * [2025-02-05, 16:03:18](https://news.ycombinator.com/item?id=42950454) - [Gemini 2.0 is now available to everyone](https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/)
+* [2025-02-05, 15:45:30](https://news.ycombinator.com/item?id=42950156) - [You're missing your near misses](https://surfingcomplexity.blog/2025/02/01/youre-missing-your-near-misses/)
 * [2025-02-05, 15:40:57](https://news.ycombinator.com/item?id=42950066) - [Prediction Games](https://www.argmin.net/p/prediction-games)
 * [2025-02-05, 15:38:21](https://news.ycombinator.com/item?id=42950016) - [OpenWISP: Multi-device fleet management for OpenWrt routers](https://openwisp.org)
 * [2025-02-05, 15:25:31](https://news.ycombinator.com/item?id=42949784) - [FBI turns over details of 5000 employees who worked on January 6 cases](https://www.cnn.com/2025/02/04/politics/fbi-employees-tuesday/index.html)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-08](index.md)
 
+* [2025-02-08, 18:28:34](https://news.ycombinator.com/item?id=42984986) - [Belief of Aliens Derailed This Internet Pioneer's Career. Now He's Facing Prison](https://www.bloomberg.com/news/features/2025-02-05/aliens-derailed-this-silicon-valley-exec-s-career-now-he-s-facing-prison)
+* [2025-02-08, 18:24:39](https://news.ycombinator.com/item?id=42984962) - [Show HN: Chez Scheme txtar port from Go](https://git.sr.ht/~egtann/txtar/)
 * [2025-02-08, 18:08:15](https://news.ycombinator.com/item?id=42984813) - [The Daughter of Dawn (2024)](https://www.afi.com/news/the-daughter-of-dawn-1920-afi-catalog-spotlight/)
 * [2025-02-08, 18:06:38](https://news.ycombinator.com/item?id=42984791) - [Amazon blew Alexa's shot to dominate AI, according to employees](https://fortune.com/2024/06/12/amazon-insiders-why-new-alexa-llm-generative-ai-conversational-chatbot-missing-in-action/)
 * [2025-02-08, 17:25:03](https://news.ycombinator.com/item?id=42984457) - [Writing a Simple Windows Driver in Rust](https://scorpiosoftware.net/2025/02/08/writing-a-simple-driver-in-rust/)

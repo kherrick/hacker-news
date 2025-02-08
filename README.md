@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-08, 18:28:34](https://news.ycombinator.com/item?id=42984986) - [Belief of Aliens Derailed This Internet Pioneer's Career. Now He's Facing Prison](https://www.bloomberg.com/news/features/2025-02-05/aliens-derailed-this-silicon-valley-exec-s-career-now-he-s-facing-prison)
+* [2025-02-08, 18:24:39](https://news.ycombinator.com/item?id=42984962) - [Show HN: Chez Scheme txtar port from Go](https://git.sr.ht/~egtann/txtar/)
 * [2025-02-08, 18:08:15](https://news.ycombinator.com/item?id=42984813) - [The Daughter of Dawn (2024)](https://www.afi.com/news/the-daughter-of-dawn-1920-afi-catalog-spotlight/)
 * [2025-02-08, 18:06:38](https://news.ycombinator.com/item?id=42984791) - [Amazon blew Alexa's shot to dominate AI, according to employees](https://fortune.com/2024/06/12/amazon-insiders-why-new-alexa-llm-generative-ai-conversational-chatbot-missing-in-action/)
 * [2025-02-08, 17:25:03](https://news.ycombinator.com/item?id=42984457) - [Writing a Simple Windows Driver in Rust](https://scorpiosoftware.net/2025/02/08/writing-a-simple-driver-in-rust/)
@@ -9,8 +11,6 @@
 * [2025-02-08, 15:47:36](https://news.ycombinator.com/item?id=42983699) - [The Deck: An open-source cross-platform multiplayer card game engine in Flutter](https://github.com/xajik/thedeck)
 * [2025-02-08, 15:30:44](https://news.ycombinator.com/item?id=42983571) - [The LLMentalist Effect](https://softwarecrisis.dev/letters/llmentalist/)
 * [2025-02-08, 14:48:25](https://news.ycombinator.com/item?id=42983275) - [We are destroying software](https://antirez.com/news/145)
-* [2025-02-08, 14:27:59](https://news.ycombinator.com/item?id=42983148) - [Show HN: FreeDemandLetter – A Weapon for Anyone Who's Sick of Getting Shafted](https://www.freedemandletter.com)
-* [2025-02-08, 12:43:09](https://news.ycombinator.com/item?id=42982578) - ['The Licensing Racket’ Review: There's a Board for That](https://www.wsj.com/arts-culture/books/the-licensing-racket-review-theres-a-board-for-that-3da68d0a)
 * [2025-02-08, 11:38:33](https://news.ycombinator.com/item?id=42982270) - [A tale of several distros joining forces for a common goal: reproducible builds](https://video.fosdem.org/2025/h1302/fosdem-2025-6479-a-tale-of-several-distros-joining-forces-for-a-common-goal-reproducible-builds.av1.webm)
 * [2025-02-08, 10:41:17](https://news.ycombinator.com/item?id=42982015) - [Generating Voronoi Diagrams Using Fortune's Algorithm (With Odin)](https://redpenguin101.github.io/html/posts/2025_01_21_voronoi.html)
 * [2025-02-08, 02:41:35](https://news.ycombinator.com/item?id=42979869) - [Starlink in the Falkland Islands – A national emergency situation?](https://www.openfalklands.com/february-2025-starlink-in-the-falkland-islands-a-national-emergency-situation/)
@@ -22,6 +22,7 @@
 * [2025-02-06, 07:01:26](https://news.ycombinator.com/item?id=42959841) - [Hotline for modern Apple systems](https://github.com/mierau/hotline)
 * [2025-02-05, 23:10:47](https://news.ycombinator.com/item?id=42956697) - [Fat Rand: How many lines do you need to generate a random number?](https://lucumr.pocoo.org/2025/2/4/fat-rand/)
 * [2025-02-05, 16:33:55](https://news.ycombinator.com/item?id=42950976) - [Your AI Can't See Gorillas](https://chiraaggohel.com/posts/llms-eda/)
+* [2025-02-05, 15:45:30](https://news.ycombinator.com/item?id=42950156) - [You're missing your near misses](https://surfingcomplexity.blog/2025/02/01/youre-missing-your-near-misses/)
 * [2025-02-05, 09:27:30](https://news.ycombinator.com/item?id=42946095) - [Insomnia, Control](https://untested.sonnet.io/notes/insomnia-control/)
 * [2025-02-05, 09:12:41](https://news.ycombinator.com/item?id=42945980) - [Station of despair: What to do if you get stuck at end of Tokyo Chuo Rapid Line](https://soranews24.com/2024/12/21/station-of-despair-what-to-do-if-you-get-stuck-at-the-end-of-tokyos-chuo-rapid-line/)
 * [2025-02-05, 07:26:51](https://news.ycombinator.com/item?id=42945109) - [The practical (Unix) problems with .cache and its friends](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DotCacheDirectoriesProblem)
@@ -29,7 +30,6 @@
 * [2025-02-04, 17:21:21](https://news.ycombinator.com/item?id=42935520) - [Show HN: Automated Sorting of group photos by user defined N people in each pic](https://github.com/Karvy-Singh/Sort_Memories)
 * [2025-02-04, 14:28:04](https://news.ycombinator.com/item?id=42932747) - [The Leaning Tower of New York](https://www.newyorker.com/magazine/2025/02/10/the-leaning-tower-of-new-york)
 * [2025-02-04, 11:56:35](https://news.ycombinator.com/item?id=42931241) - [The PS2’s backwards compatibility from the engineer who built it (2020)](https://freelansations.medium.com/the-story-of-the-ps2s-backwards-compatibility-from-the-engineer-who-built-it-ec39cf5a0353)
-* [2025-02-03, 22:17:46](https://news.ycombinator.com/item?id=42924068) - [In Praise of Subspecies](https://aeon.co/essays/the-case-for-subspecies-the-neglected-unit-of-conservation)
 
 ## [Archives](archives/index.md)
 
