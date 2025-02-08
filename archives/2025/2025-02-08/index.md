@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-02-08](index.md)
 
+* [2025-02-08, 16:04:06](https://news.ycombinator.com/item?id=42983835) - [No Way Home](https://literaryreview.co.uk/no-way-home)
 * [2025-02-08, 15:47:36](https://news.ycombinator.com/item?id=42983699) - [The Deck: An Open-Source Cross-Platform Multiplayer Card Game Engine in Flutter](https://github.com/xajik/thedeck)
 * [2025-02-08, 14:48:25](https://news.ycombinator.com/item?id=42983275) - [We Are Destroying Software](https://antirez.com/news/145)
 * [2025-02-08, 14:45:49](https://news.ycombinator.com/item?id=42983262) - [The Mars Dream Is Back — Here’s How to Make It Actually Happen](https://www.thenewatlantis.com/publications/the-mars-dream-is-back-how-to-go)
 * [2025-02-08, 14:36:32](https://news.ycombinator.com/item?id=42983197) - [Collection of one-file C/C++ libraries with no dependencies, primarily for games](https://github.com/RandyGaul/cute_headers)
 * [2025-02-08, 14:33:51](https://news.ycombinator.com/item?id=42983180) - [The Puzzle](https://silence.bearblog.dev/the-puzzle/)
+* [2025-02-08, 14:27:59](https://news.ycombinator.com/item?id=42983148) - [Show HN: FreeDemandLetter – A Weapon for Anyone Who's Sick of Getting Shafted](https://www.freedemandletter.com)
 * [2025-02-08, 12:43:09](https://news.ycombinator.com/item?id=42982578) - ['The Licensing Racket' Review: There's a Board for That](https://www.wsj.com/arts-culture/books/the-licensing-racket-review-theres-a-board-for-that-3da68d0a)
 * [2025-02-08, 11:38:33](https://news.ycombinator.com/item?id=42982270) - [A tale of several distros joining forces for a common goal: reproducible builds](https://video.fosdem.org/2025/h1302/fosdem-2025-6479-a-tale-of-several-distros-joining-forces-for-a-common-goal-reproducible-builds.av1.webm)
 * [2025-02-08, 10:41:17](https://news.ycombinator.com/item?id=42982015) - [Generating Voronoi Diagrams Using Fortune's Algorithm (With Odin)](https://redpenguin101.github.io/html/posts/2025_01_21_voronoi.html)
