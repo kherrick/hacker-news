@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-08, 01:30:34](https://news.ycombinator.com/item?id=42979491) - [We're Performing for an Audience of Machines](https://christopherireland.substack.com/p/outrage-is-addictiveand-someones)
-* [2025-02-08, 01:25:32](https://news.ycombinator.com/item?id=42979467) - [VSCode's SSH Agent Is Bananas](https://fly.io/blog/vscode-ssh-wtf/)
+* [2025-02-08, 01:25:32](https://news.ycombinator.com/item?id=42979467) - [VSCode's SSH agent is bananas](https://fly.io/blog/vscode-ssh-wtf/)
 * [2025-02-08, 01:22:54](https://news.ycombinator.com/item?id=42979445) - [The 'dangerous' promise of a techno-utopian future](https://www.cbc.ca/radio/ideas/tech-billionaires-ai-utopia-1.7440698)
 * [2025-02-07, 21:06:40](https://news.ycombinator.com/item?id=42977483) - [Portland's Exploding Liberty Bell](https://tomlovesthelibertybell.com/portlands-exploding-liberty-bell/)
 * [2025-02-07, 21:00:03](https://news.ycombinator.com/item?id=42977416) - [Zep AI (YC W24) Is Hiring Engineers to Build SOTA Agent Memory](https://www.ycombinator.com/companies/zep-ai/jobs/e2QxKYu-staff-engineer)
@@ -18,7 +18,6 @@
 * [2025-02-07, 14:18:19](https://news.ycombinator.com/item?id=42972781) - [Children's arithmetic skills do not transfer between applied and academic math](https://www.nature.com/articles/s41586-024-08502-w)
 * [2025-02-07, 13:02:03](https://news.ycombinator.com/item?id=42972062) - [Asahi Linux lead developer Hector Martin resigns from Linux kernel](https://lkml.org/lkml/2025/2/7/9)
 * [2025-02-07, 12:18:46](https://news.ycombinator.com/item?id=42971761) - [Apple Ordered by UK to Create Global iCloud Encryption Backdoor](https://www.macrumors.com/2025/02/07/uk-government-orders-access-icloud/)
-* [2025-02-07, 11:26:02](https://news.ycombinator.com/item?id=42971446) - [Meta torrented & seeded 81.7 TB dataset containing copyrighted data](https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/)
 * [2025-02-07, 07:11:36](https://news.ycombinator.com/item?id=42970240) - [Donald Knuth's 2024 Christmas Lecture: Strong and Weak Components [video]](https://www.youtube.com/watch?v=Hi8r_63LGyg)
 * [2025-02-06, 20:54:10](https://news.ycombinator.com/item?id=42966402) - [The Inevitability of the Borrow Checker](https://yorickpeterse.com/articles/the-inevitability-of-the-borrow-checker/)
 * [2025-02-06, 16:44:21](https://news.ycombinator.com/item?id=42964124) - [The superconductivity of layered graphene is surprisingly strange](https://www.newscientist.com/article/2466930-the-superconductivity-of-layered-graphene-is-surprisingly-strange/)
@@ -28,6 +27,7 @@
 * [2025-02-05, 08:00:47](https://news.ycombinator.com/item?id=42945426) - [The WW2 experiment to make pigeon-guided missiles [video]](https://www.bbc.com/reel/video/p0kl5kcz/the-ww2-experiment-to-make-pigeon-guided-missiles)
 * [2025-02-05, 01:25:05](https://news.ycombinator.com/item?id=42942204) - [Visual Explanations of Mathematics (2020)](https://agilescientific.com/blog/2020/2/25/visual-explanations-of-mathematics)
 * [2025-02-04, 23:25:49](https://news.ycombinator.com/item?id=42940748) - [Effects of cold-water immersion on health and wellbeing: A systematic review](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317615)
+* [2025-02-04, 20:38:12](https://news.ycombinator.com/item?id=42938235) - [Unobtanium 6502 based KIM-1 part now obtanium with FPGA](https://blog.paulsajna.com/fpga-mcs6530-rriot/)
 * [2025-02-04, 18:24:31](https://news.ycombinator.com/item?id=42936506) - [Show HN: Play with real quantum physics in your browser](https://quantum.orgsoft.org)
 * [2025-02-04, 11:56:35](https://news.ycombinator.com/item?id=42931241) - [The PS2's Backwards Compatibility from the Engineer Who Built It](https://freelansations.medium.com/the-story-of-the-ps2s-backwards-compatibility-from-the-engineer-who-built-it-ec39cf5a0353)
 

@@ -23,6 +23,7 @@
 * [2025-02-04, 20:58:06](https://news.ycombinator.com/item?id=42938555) - [TrailBase: Sub-millisecond open-source application base with Rust, SQLite and V8](https://trailbase.io/reference/benchmarks/)
 * [2025-02-04, 20:49:58](https://news.ycombinator.com/item?id=42938409) - [How I use LLMs as a staff engineer](https://www.seangoedecke.com/how-i-use-llms/)
 * [2025-02-04, 20:46:39](https://news.ycombinator.com/item?id=42938359) - [MathScroll – Infinitely Scroll Mathematics](https://projects.ollybritton.com/mathscroll/)
+* [2025-02-04, 20:38:12](https://news.ycombinator.com/item?id=42938235) - [Unobtanium 6502 based KIM-1 part now obtanium with FPGA](https://blog.paulsajna.com/fpga-mcs6530-rriot/)
 * [2025-02-04, 20:28:16](https://news.ycombinator.com/item?id=42938125) - [Google Drops Pledge Not to Use AI for Weapons or Surveillance](https://www.washingtonpost.com/technology/2025/02/04/google-ai-policies-weapons-harm)
 * [2025-02-04, 19:55:27](https://news.ycombinator.com/item?id=42937701) - [Open Deep Research](https://github.com/huggingface/smolagents/tree/main/examples/open_deep_research)
 * [2025-02-04, 18:57:47](https://news.ycombinator.com/item?id=42936940) - [GitHub Reveals How Software Engineers Are Purging Federal Databases](https://www.404media.co/forbidden-words-github-reveals-how-software-engineers-are-purging-federal-databases/)
