@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-08, 15:47:36",
+      "https://news.ycombinator.com/item?id=42983699"
+    ],
+    [
+      "The Deck: An Open-Source Cross-Platform Multiplayer Card Game Engine in Flutter",
+      "https://github.com/xajik/thedeck"
+    ]
+  ],
+  [
+    [
       "2025-02-08, 14:36:32",
       "https://news.ycombinator.com/item?id=42983197"
     ],
@@ -227,16 +237,6 @@
     [
       "The practical (Unix) problems with .cache and its friends",
       "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DotCacheDirectoriesProblem"
-    ]
-  ],
-  [
-    [
-      "2025-02-05, 01:25:05",
-      "https://news.ycombinator.com/item?id=42942204"
-    ],
-    [
-      "Visual explanations of mathematics (2020)",
-      "https://agilescientific.com/blog/2020/2/25/visual-explanations-of-mathematics"
     ]
   ],
   [
