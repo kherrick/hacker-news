@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-08](index.md)
 
+* [2025-02-08, 17:19:23](https://news.ycombinator.com/item?id=42984420) - [Show HN: FlashSpace – fast, open-source, macOS Spaces replacement](https://github.com/wojciech-kulik/FlashSpace)
 * [2025-02-08, 16:04:06](https://news.ycombinator.com/item?id=42983835) - [No Way Home](https://literaryreview.co.uk/no-way-home)
 * [2025-02-08, 15:51:06](https://news.ycombinator.com/item?id=42983733) - [Carbon is not a programming language (sort of)](https://herecomesthemoon.net/2025/02/carbon-is-not-a-language/)
 * [2025-02-08, 15:47:36](https://news.ycombinator.com/item?id=42983699) - [The Deck: An Open-Source Cross-Platform Multiplayer Card Game Engine in Flutter](https://github.com/xajik/thedeck)
