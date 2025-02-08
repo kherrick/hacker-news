@@ -9,6 +9,7 @@
 * [2025-02-08, 03:39:46](https://news.ycombinator.com/item?id=42980150) - [Docker Bake Is Now Generally Available](https://www.docker.com/blog/ga-launch-docker-bake/)
 * [2025-02-08, 03:26:57](https://news.ycombinator.com/item?id=42980097) - [Why gold loves arsenic (2021)](https://www.mining.com/why-gold-loves-arsenic/)
 * [2025-02-08, 03:13:20](https://news.ycombinator.com/item?id=42980038) - [Oral History of Andreas \"Andy\" Bechtolsheim (Sun, Granite, Kealia, Arista etc.) [pdf]](http://archive.computerhistory.org/resources/access/text/2016/06/102737929-05-01-acc.pdf)
+* [2025-02-08, 03:02:57](https://news.ycombinator.com/item?id=42979986) - [Ghostwriter – use the reMarkable2 as an interface to vision-LLMs](https://github.com/awwaiid/ghostwriter)
 * [2025-02-08, 02:47:19](https://news.ycombinator.com/item?id=42979901) - [Bolt: Bootstrap Long Chain-of-Thought in LLMs Without Distillation [pdf]](https://arxiv.org/abs/2502.03860)
 * [2025-02-08, 02:41:35](https://news.ycombinator.com/item?id=42979869) - [Starlink in the Falkland Islands – A national emergency situation?](https://www.openfalklands.com/february-2025-starlink-in-the-falkland-islands-a-national-emergency-situation/)
 * [2025-02-08, 02:38:50](https://news.ycombinator.com/item?id=42979855) - [Aliens Cause Global Warming – Michael Crichton [pdf]](https://stephenschneider.stanford.edu/Publications/PDF_Papers/Crichton2003.pdf)
