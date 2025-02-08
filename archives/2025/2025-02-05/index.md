@@ -62,6 +62,7 @@
 * [2025-02-05, 09:47:18](https://news.ycombinator.com/item?id=42946257) - [U.S. foreign aid freeze derails efforts to stem proliferation risks](https://www.science.org/content/article/u-s-foreign-aid-freeze-derails-efforts-stem-proliferation-risks)
 * [2025-02-05, 09:44:32](https://news.ycombinator.com/item?id=42946232) - [Go Data Structures](https://research.swtch.com/godata)
 * [2025-02-05, 09:43:02](https://news.ycombinator.com/item?id=42946215) - [The King in Yellow](https://en.wikipedia.org/wiki/The_King_in_Yellow)
+* [2025-02-05, 09:27:30](https://news.ycombinator.com/item?id=42946095) - [Insomnia, Control](https://untested.sonnet.io/notes/insomnia-control/)
 * [2025-02-05, 09:21:21](https://news.ycombinator.com/item?id=42946046) - [Carl Sagan Predicts the Decline of America (1995)](https://www.openculture.com/2025/02/carl-sagan-predicts-the-decline-of-america-unable-to-know-whats-true.html)
 * [2025-02-05, 09:12:41](https://news.ycombinator.com/item?id=42945980) - [Station of despair: What to do if you get stuck at end of Tokyo Chuo Rapid Line](https://soranews24.com/2024/12/21/station-of-despair-what-to-do-if-you-get-stuck-at-the-end-of-tokyos-chuo-rapid-line/)
 * [2025-02-05, 08:51:15](https://news.ycombinator.com/item?id=42945812) - [Franz Kafka – the workers' friend (2018)](https://marywcraig.com/2018/01/14/franz-kafka-the-workers-friend/)
