@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-08, 14:36:32](https://news.ycombinator.com/item?id=42983197) - [Collection of one-file C/C++ libraries with no dependencies, primarily for games](https://github.com/RandyGaul/cute_headers)
+* [2025-02-08, 14:33:51](https://news.ycombinator.com/item?id=42983180) - [The Puzzle](https://silence.bearblog.dev/the-puzzle/)
 * [2025-02-08, 11:38:33](https://news.ycombinator.com/item?id=42982270) - [A tale of several distros joining forces for a common goal: reproducible builds](https://video.fosdem.org/2025/h1302/fosdem-2025-6479-a-tale-of-several-distros-joining-forces-for-a-common-goal-reproducible-builds.av1.webm)
 * [2025-02-08, 10:41:17](https://news.ycombinator.com/item?id=42982015) - [Generating Voronoi Diagrams Using Fortune's Algorithm (With Odin)](https://redpenguin101.github.io/html/posts/2025_01_21_voronoi.html)
 * [2025-02-08, 06:17:09](https://news.ycombinator.com/item?id=42980835) - [Turner, Bird, Eratosthenes: An eternal burning thread](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/turner-bird-eratosthenes-an-eternal-burning-thread/32E2EDF5D5EAEC95F13D313BC97B86F0)
@@ -14,7 +16,6 @@
 * [2025-02-07, 17:51:49](https://news.ycombinator.com/item?id=42975436) - [A brief history of code signing at Mozilla](https://hearsum.ca/posts/history-of-code-signing-at-mozilla/)
 * [2025-02-07, 13:02:03](https://news.ycombinator.com/item?id=42972062) - [Asahi Linux lead developer Hector Martin resigns from Linux kernel](https://lkml.org/lkml/2025/2/7/9)
 * [2025-02-07, 07:45:05](https://news.ycombinator.com/item?id=42970412) - [U.K. orders Apple to let it spy on users’ encrypted accounts](https://www.washingtonpost.com/technology/2025/02/07/apple-encryption-backdoor-uk/)
-* [2025-02-06, 22:04:03](https://news.ycombinator.com/item?id=42966958) - [Why LLMs still have problems with OCR](https://www.runpulse.com/blog/why-llms-suck-at-ocr)
 * [2025-02-06, 14:44:11](https://news.ycombinator.com/item?id=42962822) - [Five coding hats](https://dubroy.com/blog/five-coding-hats/)
 * [2025-02-06, 12:55:17](https://news.ycombinator.com/item?id=42961868) - [A colorful Game of Life](https://colorlife.quick.jaredforsyth.com)
 * [2025-02-06, 07:01:26](https://news.ycombinator.com/item?id=42959841) - [Hotline for modern Apple systems](https://github.com/mierau/hotline)
@@ -23,7 +24,6 @@
 * [2025-02-05, 09:12:41](https://news.ycombinator.com/item?id=42945980) - [Station of despair: What to do if you get stuck at end of Tokyo Chuo Rapid Line](https://soranews24.com/2024/12/21/station-of-despair-what-to-do-if-you-get-stuck-at-the-end-of-tokyos-chuo-rapid-line/)
 * [2025-02-05, 07:26:51](https://news.ycombinator.com/item?id=42945109) - [The practical (Unix) problems with .cache and its friends](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DotCacheDirectoriesProblem)
 * [2025-02-05, 01:25:05](https://news.ycombinator.com/item?id=42942204) - [Visual explanations of mathematics (2020)](https://agilescientific.com/blog/2020/2/25/visual-explanations-of-mathematics)
-* [2025-02-04, 19:13:44](https://news.ycombinator.com/item?id=42937187) - [Science is a strong-link problem](https://www.experimental-history.com/p/repost-science-is-a-strong-link-problem)
 * [2025-02-04, 18:34:47](https://news.ycombinator.com/item?id=42936650) - [Tapestry by Iconfactory](https://usetapestry.com/)
 * [2025-02-04, 17:21:21](https://news.ycombinator.com/item?id=42935520) - [Show HN: Automated Sorting of group photos by user defined N people in each pic](https://github.com/Karvy-Singh/Sort_Memories)
 * [2025-02-04, 16:22:18](https://news.ycombinator.com/item?id=42934434) - [Colossus, the first large-scale electronic computer](https://www.colossus-computer.com/colossus1.html#section02)
