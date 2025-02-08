@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-02-08, 01:30:34",
-      "https://news.ycombinator.com/item?id=42979491"
+      "2025-02-08, 03:13:20",
+      "https://news.ycombinator.com/item?id=42980038"
     ],
     [
-      "We're Performing for an Audience of Machines",
-      "https://christopherireland.substack.com/p/outrage-is-addictiveand-someones"
+      "Oral History of Andreas \"Andy\" Bechtolsheim (Sun, Granite, Kealia, Arista etc.) [pdf]",
+      "http://archive.computerhistory.org/resources/access/text/2016/06/102737929-05-01-acc.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-02-08, 02:47:19",
+      "https://news.ycombinator.com/item?id=42979901"
+    ],
+    [
+      "Bolt: Bootstrap Long Chain-of-Thought in LLMs Without Distillation [pdf]",
+      "https://arxiv.org/abs/2502.03860"
+    ]
+  ],
+  [
+    [
+      "2025-02-08, 02:41:35",
+      "https://news.ycombinator.com/item?id=42979869"
+    ],
+    [
+      "Starlink in the Falkland Islands – A national emergency situation?",
+      "https://www.openfalklands.com/february-2025-starlink-in-the-falkland-islands-a-national-emergency-situation/"
     ]
   ],
   [
@@ -17,16 +37,6 @@
     [
       "VSCode's SSH agent is bananas",
       "https://fly.io/blog/vscode-ssh-wtf/"
-    ]
-  ],
-  [
-    [
-      "2025-02-08, 01:22:54",
-      "https://news.ycombinator.com/item?id=42979445"
-    ],
-    [
-      "The 'dangerous' promise of a techno-utopian future",
-      "https://www.cbc.ca/radio/ideas/tech-billionaires-ai-utopia-1.7440698"
     ]
   ],
   [
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=42977416"
     ],
     [
-      "Zep AI (YC W24) Is Hiring Engineers to Build SOTA Agent Memory",
+      "Zep AI (YC W24) is hiring engineers to build SOTA agent memory",
       "https://www.ycombinator.com/companies/zep-ai/jobs/e2QxKYu-staff-engineer"
     ]
   ],
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=42975170"
     ],
     [
-      "German civil activists win victory in election case against Musk's X",
+      "German civil activists win victory in election case against X",
       "https://www.reuters.com/world/europe/german-civil-activists-claim-victory-case-against-musks-x-2025-02-07/"
     ]
   ],
@@ -175,18 +185,8 @@
       "https://news.ycombinator.com/item?id=42971761"
     ],
     [
-      "Apple Ordered by UK to Create Global iCloud Encryption Backdoor",
+      "Apple ordered by UK to create global iCloud encryption backdoor",
       "https://www.macrumors.com/2025/02/07/uk-government-orders-access-icloud/"
-    ]
-  ],
-  [
-    [
-      "2025-02-07, 11:26:02",
-      "https://news.ycombinator.com/item?id=42971446"
-    ],
-    [
-      "Meta torrented & seeded 81.7 TB dataset containing copyrighted data",
-      "https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/"
     ]
   ],
   [
@@ -215,8 +215,18 @@
       "https://news.ycombinator.com/item?id=42964124"
     ],
     [
-      "The superconductivity of layered graphene is surprisingly strange",
+      "The superconductivity of layered graphene",
       "https://www.newscientist.com/article/2466930-the-superconductivity-of-layered-graphene-is-surprisingly-strange/"
+    ]
+  ],
+  [
+    [
+      "2025-02-06, 07:01:26",
+      "https://news.ycombinator.com/item?id=42959841"
+    ],
+    [
+      "Hotline for modern Apple systems",
+      "https://github.com/mierau/hotline"
     ]
   ],
   [
@@ -225,7 +235,7 @@
       "https://news.ycombinator.com/item?id=42959110"
     ],
     [
-      "Implementing a Game Boy Emulator in Ruby",
+      "Implementing a Game Boy emulator in Ruby",
       "https://sacckey.dev/posts/implementing-a-game-boy-emulator-in-ruby/"
     ]
   ],
@@ -251,21 +261,11 @@
   ],
   [
     [
-      "2025-02-05, 08:00:47",
-      "https://news.ycombinator.com/item?id=42945426"
-    ],
-    [
-      "The WW2 experiment to make pigeon-guided missiles [video]",
-      "https://www.bbc.com/reel/video/p0kl5kcz/the-ww2-experiment-to-make-pigeon-guided-missiles"
-    ]
-  ],
-  [
-    [
       "2025-02-05, 01:25:05",
       "https://news.ycombinator.com/item?id=42942204"
     ],
     [
-      "Visual Explanations of Mathematics (2020)",
+      "Visual explanations of mathematics (2020)",
       "https://agilescientific.com/blog/2020/2/25/visual-explanations-of-mathematics"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=42931241"
     ],
     [
-      "The PS2's Backwards Compatibility from the Engineer Who Built It",
+      "The PS2's backwards compatibility from the engineer who built it (2020)",
       "https://freelansations.medium.com/the-story-of-the-ps2s-backwards-compatibility-from-the-engineer-who-built-it-ec39cf5a0353"
     ]
   ]
