@@ -16,6 +16,7 @@
 * [2025-02-05, 18:45:55](https://news.ycombinator.com/item?id=42953206) - [Zig Guide](https://zig.guide/)
 * [2025-02-05, 18:43:28](https://news.ycombinator.com/item?id=42953168) - [The Sudoku Affair](https://explaining.software/archive/the-sudoku-affair/)
 * [2025-02-05, 18:40:40](https://news.ycombinator.com/item?id=42953120) - [Implementation of a RingBuffer in Java with optional FIFO like semantics](https://github.com/evolvedbinary/j8cu)
+* [2025-02-05, 18:35:59](https://news.ycombinator.com/item?id=42953044) - [25 Years Ago, Joan Didion Kept a Diary. It's About to Become Public](https://www.nytimes.com/2025/02/05/books/new-book-joan-didion-notes-to-john.html)
 * [2025-02-05, 18:29:30](https://news.ycombinator.com/item?id=42952960) - [Andrej Karpathy: Deep Dive into LLMs Like ChatGPT [video]](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 * [2025-02-05, 18:17:58](https://news.ycombinator.com/item?id=42952798) - [Kill the \"user\": Musings of a disillusioned technologist](https://www.pastagang.cc/blog/kill-the-user/)
 * [2025-02-05, 18:15:50](https://news.ycombinator.com/item?id=42952763) - [NASA Ordered to Remove Anything About 'Women in Leadership' from Its Websites](https://gizmodo.com/nasa-ordered-to-remove-anything-about-women-in-leadership-from-its-websites-report-2000559596)
