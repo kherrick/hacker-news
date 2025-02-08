@@ -29,6 +29,7 @@
 * [2025-02-05, 17:33:37](https://news.ycombinator.com/item?id=42952088) - [Teslas turn toxic as sales crash in Europe and the UK](https://arstechnica.com/cars/2025/02/tesla-sales-plummet-in-the-uk-france-and-germany/)
 * [2025-02-05, 17:00:43](https://news.ycombinator.com/item?id=42951511) - [Ploomber (YC W22) Is Hiring Engineers (Infra, Back End, Growth)](https://www.ycombinator.com/companies/ploomber/jobs)
 * [2025-02-05, 16:58:14](https://news.ycombinator.com/item?id=42951458) - [Doge Staff Stop Using Slack as Agency Transitions to System Not Subject to FOIA](https://www.404media.co/doge-employees-ordered-to-stop-using-slack-while-agency-transitions-to-a-records-system-not-subject-to-foia/)
+* [2025-02-05, 16:33:55](https://news.ycombinator.com/item?id=42950976) - [Your AI Can't See Gorillas](https://chiraaggohel.com/posts/llms-eda/)
 * [2025-02-05, 16:31:24](https://news.ycombinator.com/item?id=42950929) - [US egg prices increased 22% in 2025 and 202% in 12 months](https://tradingeconomics.com/commodity/eggs-us)
 * [2025-02-05, 16:23:10](https://news.ycombinator.com/item?id=42950790) - [20k federal workers take \"buyout\" so far, official says](https://www.axios.com/2025/02/04/trump-buyout-federal-workers-20000)
 * [2025-02-05, 16:18:59](https://news.ycombinator.com/item?id=42950716) - [How does DeepSeek work: An inside look](https://codedoodles.substack.com/p/how-does-deepseek-work-an-in-depth)
