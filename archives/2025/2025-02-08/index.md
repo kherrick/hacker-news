@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-08](index.md)
 
+* [2025-02-08, 20:03:23](https://news.ycombinator.com/item?id=42985749) - [Auto-Rewind for Daily Test (Apache NuttX RTOS)](https://lupyuen.org/articles/rewind.html)
 * [2025-02-08, 19:20:10](https://news.ycombinator.com/item?id=42985427) - [Tips for Mathematical Handwriting (2007)](https://johnkerl.org/doc/ortho/ortho.html)
 * [2025-02-08, 18:28:34](https://news.ycombinator.com/item?id=42984986) - [Belief of Aliens Derailed This Internet Pioneer's Career. Now He's Facing Prison](https://www.bloomberg.com/news/features/2025-02-05/aliens-derailed-this-silicon-valley-exec-s-career-now-he-s-facing-prison)
 * [2025-02-08, 18:24:39](https://news.ycombinator.com/item?id=42984962) - [Show HN: Chez Scheme txtar port from Go](https://git.sr.ht/~egtann/txtar/)
