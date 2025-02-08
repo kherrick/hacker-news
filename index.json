@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-02-07, 22:38:11",
-      "https://news.ycombinator.com/item?id=42978313"
+      "2025-02-08, 01:25:32",
+      "https://news.ycombinator.com/item?id=42979467"
     ],
     [
-      "Autonomous AI Agents Should Not Be Developed",
-      "https://huggingface.co/papers/2502.02649"
+      "VSCode's SSH Agent Is Bananas",
+      "https://fly.io/blog/vscode-ssh-wtf/"
+    ]
+  ],
+  [
+    [
+      "2025-02-08, 01:22:54",
+      "https://news.ycombinator.com/item?id=42979445"
+    ],
+    [
+      "The 'dangerous' promise of a techno-utopian future",
+      "https://www.cbc.ca/radio/ideas/tech-billionaires-ai-utopia-1.7440698"
     ]
   ],
   [
@@ -61,22 +71,12 @@
   ],
   [
     [
-      "2025-02-07, 17:27:57",
-      "https://news.ycombinator.com/item?id=42975171"
+      "2025-02-07, 17:27:54",
+      "https://news.ycombinator.com/item?id=42975170"
     ],
     [
-      "Pantograph: A Fluid and Typed Structure Editor",
-      "https://github.com/jeprinz/pantograph/blob/main/README.md"
-    ]
-  ],
-  [
-    [
-      "2025-02-07, 16:59:18",
-      "https://news.ycombinator.com/item?id=42974882"
-    ],
-    [
-      "Ketamine for Depression: How It Works (2024) [video]",
-      "https://www.yalemedicine.org/news/ketamine-for-depression"
+      "German civil activists win victory in election case against Musk's X",
+      "https://www.reuters.com/world/europe/german-civil-activists-claim-victory-case-against-musks-x-2025-02-07/"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2025-02-05, 08:51:15",
-      "https://news.ycombinator.com/item?id=42945812"
-    ],
-    [
-      "Franz Kafka – the workers' friend (2018)",
-      "https://marywcraig.com/2018/01/14/franz-kafka-the-workers-friend/"
-    ]
-  ],
-  [
-    [
       "2025-02-05, 08:00:47",
       "https://news.ycombinator.com/item?id=42945426"
     ],
@@ -297,6 +287,16 @@
     [
       "Show HN: Play with real quantum physics in your browser",
       "https://quantum.orgsoft.org"
+    ]
+  ],
+  [
+    [
+      "2025-02-04, 11:56:35",
+      "https://news.ycombinator.com/item?id=42931241"
+    ],
+    [
+      "The PS2's Backwards Compatibility from the Engineer Who Built It",
+      "https://freelansations.medium.com/the-story-of-the-ps2s-backwards-compatibility-from-the-engineer-who-built-it-ec39cf5a0353"
     ]
   ]
 ]
