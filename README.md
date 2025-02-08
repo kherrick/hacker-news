@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-08, 12:43:09](https://news.ycombinator.com/item?id=42982578) - ['The Licensing Racket' Review: There's a Board for That](https://www.wsj.com/arts-culture/books/the-licensing-racket-review-theres-a-board-for-that-3da68d0a)
 * [2025-02-08, 10:41:17](https://news.ycombinator.com/item?id=42982015) - [Generating Voronoi Diagrams Using Fortune's Algorithm (With Odin)](https://redpenguin101.github.io/html/posts/2025_01_21_voronoi.html)
 * [2025-02-08, 06:17:09](https://news.ycombinator.com/item?id=42980835) - [Turner, Bird, Eratosthenes: An eternal burning thread](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/turner-bird-eratosthenes-an-eternal-burning-thread/32E2EDF5D5EAEC95F13D313BC97B86F0)
 * [2025-02-08, 03:26:57](https://news.ycombinator.com/item?id=42980097) - [Why gold loves arsenic (2021)](https://www.mining.com/why-gold-loves-arsenic/)
@@ -29,7 +30,6 @@
 * [2025-02-04, 18:34:47](https://news.ycombinator.com/item?id=42936650) - [Tapestry by Iconfactory](https://usetapestry.com/)
 * [2025-02-04, 17:21:21](https://news.ycombinator.com/item?id=42935520) - [Show HN: Automated Sorting of group photos by user defined N people in each pic](https://github.com/Karvy-Singh/Sort_Memories)
 * [2025-02-04, 11:56:35](https://news.ycombinator.com/item?id=42931241) - [The PS2’s backwards compatibility from the engineer who built it (2020)](https://freelansations.medium.com/the-story-of-the-ps2s-backwards-compatibility-from-the-engineer-who-built-it-ec39cf5a0353)
-* [2025-02-04, 01:44:45](https://news.ycombinator.com/item?id=42926396) - [The evolution of annunciator signaling for telephones](https://www.calling315.com/annunicators)
 
 ## [Archives](archives/index.md)
 
