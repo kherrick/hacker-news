@@ -18,7 +18,6 @@
 * [2025-02-07, 13:02:03](https://news.ycombinator.com/item?id=42972062) - [Asahi Linux lead developer Hector Martin resigns from Linux kernel](https://lkml.org/lkml/2025/2/7/9)
 * [2025-02-07, 07:45:05](https://news.ycombinator.com/item?id=42970412) - [U.K. orders Apple to let it spy on users’ encrypted accounts](https://www.washingtonpost.com/technology/2025/02/07/apple-encryption-backdoor-uk/)
 * [2025-02-06, 22:04:03](https://news.ycombinator.com/item?id=42966958) - [Why LLMs still have problems with OCR](https://www.runpulse.com/blog/why-llms-suck-at-ocr)
-* [2025-02-06, 16:44:21](https://news.ycombinator.com/item?id=42964124) - [The superconductivity of layered graphene](https://www.newscientist.com/article/2466930-the-superconductivity-of-layered-graphene-is-surprisingly-strange/)
 * [2025-02-06, 14:44:11](https://news.ycombinator.com/item?id=42962822) - [Five coding hats](https://dubroy.com/blog/five-coding-hats/)
 * [2025-02-06, 12:55:17](https://news.ycombinator.com/item?id=42961868) - [A colorful Game of Life](https://colorlife.quick.jaredforsyth.com)
 * [2025-02-06, 07:01:26](https://news.ycombinator.com/item?id=42959841) - [Hotline for modern Apple systems](https://github.com/mierau/hotline)
@@ -30,6 +29,7 @@
 * [2025-02-04, 18:34:47](https://news.ycombinator.com/item?id=42936650) - [Tapestry by Iconfactory](https://usetapestry.com/)
 * [2025-02-04, 17:21:21](https://news.ycombinator.com/item?id=42935520) - [Show HN: Automated Sorting of group photos by user defined N people in each pic](https://github.com/Karvy-Singh/Sort_Memories)
 * [2025-02-04, 11:56:35](https://news.ycombinator.com/item?id=42931241) - [The PS2’s backwards compatibility from the engineer who built it (2020)](https://freelansations.medium.com/the-story-of-the-ps2s-backwards-compatibility-from-the-engineer-who-built-it-ec39cf5a0353)
+* [2025-02-04, 01:44:45](https://news.ycombinator.com/item?id=42926396) - [The evolution of annunciator signaling for telephones](https://www.calling315.com/annunicators)
 
 ## [Archives](archives/index.md)
 
