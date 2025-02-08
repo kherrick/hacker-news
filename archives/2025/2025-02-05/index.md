@@ -68,6 +68,7 @@
 * [2025-02-05, 08:00:47](https://news.ycombinator.com/item?id=42945426) - [The WW2 experiment to make pigeon-guided missiles [video]](https://www.bbc.com/reel/video/p0kl5kcz/the-ww2-experiment-to-make-pigeon-guided-missiles)
 * [2025-02-05, 07:36:01](https://news.ycombinator.com/item?id=42945191) - [Using Terraform Workspace for AWS multi account archtetctures](https://github.com/maurobaraldi/terraform-workspaces-aws-multi-account)
 * [2025-02-05, 07:30:59](https://news.ycombinator.com/item?id=42945146) - [GNU Make Standard Library](https://gmsl.jgc.org/)
+* [2025-02-05, 07:26:51](https://news.ycombinator.com/item?id=42945109) - [The practical (Unix) problems with .cache and its friends](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DotCacheDirectoriesProblem)
 * [2025-02-05, 07:16:30](https://news.ycombinator.com/item?id=42945013) - [Farewell potholes? UK team invents self-healing road surface](https://www.theguardian.com/science/2025/feb/03/farewell-potholes-uk-team-invents-self-healing-road-surface)
 * [2025-02-05, 06:55:04](https://news.ycombinator.com/item?id=42944858) - [NsJail: A light-weight process isolation tool for Linux](https://nsjail.dev/)
 * [2025-02-05, 05:50:16](https://news.ycombinator.com/item?id=42944371) - [Kagi – Introducing Fair Pricing](https://kagi.com/changelog#6155)
