@@ -48,6 +48,7 @@
 * [2025-02-04, 16:57:26](https://news.ycombinator.com/item?id=42935111) - [Palantir designed to 'power the West to its obvious innate superiority' says CEO](https://www.theregister.com/2025/02/04/palantir_karp_comments/)
 * [2025-02-04, 16:39:57](https://news.ycombinator.com/item?id=42934728) - [How does fentanyl get into the US?](https://www.bbc.com/news/articles/cvg93nn1e6go)
 * [2025-02-04, 16:26:52](https://news.ycombinator.com/item?id=42934513) - [Introducing Apple Invites, a new app that brings people together](https://www.apple.com/newsroom/2025/02/introducing-apple-invites-a-new-app-that-brings-people-together/)
+* [2025-02-04, 16:22:18](https://news.ycombinator.com/item?id=42934434) - [Colossus, the first large-scale electronic computer](https://www.colossus-computer.com/colossus1.html#section02)
 * [2025-02-04, 16:22:03](https://news.ycombinator.com/item?id=42934427) - [Jujutsu VCS Introduction and Patterns](https://kubamartin.com/posts/introduction-to-the-jujutsu-vcs/)
 * [2025-02-04, 16:21:58](https://news.ycombinator.com/item?id=42934422) - [Apple Launches Apple Invites](https://apps.apple.com/us/app/apple-invites/id6472498645)
 * [2025-02-04, 16:21:58](https://news.ycombinator.com/item?id=42934422) - [Apple Invites](https://www.apple.com/newsroom/2025/02/introducing-apple-invites-a-new-app-that-brings-people-together/)

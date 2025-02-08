@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-08, 12:43:09](https://news.ycombinator.com/item?id=42982578) - ['The Licensing Racket’ Review: There's a Board for That](https://www.wsj.com/arts-culture/books/the-licensing-racket-review-theres-a-board-for-that-3da68d0a)
 * [2025-02-08, 11:38:33](https://news.ycombinator.com/item?id=42982270) - [A tale of several distros joining forces for a common goal: reproducible builds](https://video.fosdem.org/2025/h1302/fosdem-2025-6479-a-tale-of-several-distros-joining-forces-for-a-common-goal-reproducible-builds.av1.webm)
 * [2025-02-08, 10:41:17](https://news.ycombinator.com/item?id=42982015) - [Generating Voronoi Diagrams Using Fortune's Algorithm (With Odin)](https://redpenguin101.github.io/html/posts/2025_01_21_voronoi.html)
 * [2025-02-08, 06:17:09](https://news.ycombinator.com/item?id=42980835) - [Turner, Bird, Eratosthenes: An eternal burning thread](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/turner-bird-eratosthenes-an-eternal-burning-thread/32E2EDF5D5EAEC95F13D313BC97B86F0)
@@ -27,6 +26,7 @@
 * [2025-02-04, 19:13:44](https://news.ycombinator.com/item?id=42937187) - [Science is a strong-link problem](https://www.experimental-history.com/p/repost-science-is-a-strong-link-problem)
 * [2025-02-04, 18:34:47](https://news.ycombinator.com/item?id=42936650) - [Tapestry by Iconfactory](https://usetapestry.com/)
 * [2025-02-04, 17:21:21](https://news.ycombinator.com/item?id=42935520) - [Show HN: Automated Sorting of group photos by user defined N people in each pic](https://github.com/Karvy-Singh/Sort_Memories)
+* [2025-02-04, 16:22:18](https://news.ycombinator.com/item?id=42934434) - [Colossus, the first large-scale electronic computer](https://www.colossus-computer.com/colossus1.html#section02)
 * [2025-02-04, 14:28:04](https://news.ycombinator.com/item?id=42932747) - [The Leaning Tower of New York](https://www.newyorker.com/magazine/2025/02/10/the-leaning-tower-of-new-york)
 * [2025-02-04, 11:56:35](https://news.ycombinator.com/item?id=42931241) - [The PS2’s backwards compatibility from the engineer who built it (2020)](https://freelansations.medium.com/the-story-of-the-ps2s-backwards-compatibility-from-the-engineer-who-built-it-ec39cf5a0353)
 * [2025-02-03, 22:17:46](https://news.ycombinator.com/item?id=42924068) - [In Praise of Subspecies](https://aeon.co/essays/the-case-for-subspecies-the-neglected-unit-of-conservation)
