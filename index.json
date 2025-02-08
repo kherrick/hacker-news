@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-02-08, 04:05:28",
+      "https://news.ycombinator.com/item?id=42980283"
+    ],
+    [
+      "LINUX is obsolete (1992)",
+      "https://groups.google.com/g/comp.os.minix/c/wlhw16QWltI"
+    ]
+  ],
+  [
+    [
       "2025-02-08, 03:39:46",
       "https://news.ycombinator.com/item?id=42980150"
     ],
     [
-      "Docker Bake Is Now Generally Available",
+      "Docker Bake is now generally available",
       "https://www.docker.com/blog/ga-launch-docker-bake/"
+    ]
+  ],
+  [
+    [
+      "2025-02-08, 03:26:57",
+      "https://news.ycombinator.com/item?id=42980097"
+    ],
+    [
+      "Why gold loves arsenic (2021)",
+      "https://www.mining.com/why-gold-loves-arsenic/"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-02-07, 17:27:57",
-      "https://news.ycombinator.com/item?id=42975171"
-    ],
-    [
-      "Pantograph: A Fluid and Typed Structure Editor",
-      "https://github.com/jeprinz/pantograph/blob/main/README.md"
-    ]
-  ],
-  [
-    [
       "2025-02-07, 16:53:20",
       "https://news.ycombinator.com/item?id=42974809"
     ],
@@ -171,42 +181,12 @@
   ],
   [
     [
-      "2025-02-07, 14:18:19",
-      "https://news.ycombinator.com/item?id=42972781"
-    ],
-    [
-      "Children's arithmetic skills do not transfer between applied and academic math",
-      "https://www.nature.com/articles/s41586-024-08502-w"
-    ]
-  ],
-  [
-    [
       "2025-02-07, 13:02:03",
       "https://news.ycombinator.com/item?id=42972062"
     ],
     [
       "Asahi Linux lead developer Hector Martin resigns from Linux kernel",
       "https://lkml.org/lkml/2025/2/7/9"
-    ]
-  ],
-  [
-    [
-      "2025-02-07, 12:18:46",
-      "https://news.ycombinator.com/item?id=42971761"
-    ],
-    [
-      "Apple ordered by UK to create global iCloud encryption backdoor",
-      "https://www.macrumors.com/2025/02/07/uk-government-orders-access-icloud/"
-    ]
-  ],
-  [
-    [
-      "2025-02-07, 07:11:36",
-      "https://news.ycombinator.com/item?id=42970240"
-    ],
-    [
-      "Donald Knuth's 2024 Christmas Lecture: Strong and Weak Components [video]",
-      "https://www.youtube.com/watch?v=Hi8r_63LGyg"
     ]
   ],
   [
@@ -221,12 +201,32 @@
   ],
   [
     [
-      "2025-02-06, 16:44:21",
-      "https://news.ycombinator.com/item?id=42964124"
+      "2025-02-06, 14:44:11",
+      "https://news.ycombinator.com/item?id=42962822"
     ],
     [
-      "The superconductivity of layered graphene",
-      "https://www.newscientist.com/article/2466930-the-superconductivity-of-layered-graphene-is-surprisingly-strange/"
+      "Five coding hats",
+      "https://dubroy.com/blog/five-coding-hats/"
+    ]
+  ],
+  [
+    [
+      "2025-02-06, 12:55:17",
+      "https://news.ycombinator.com/item?id=42961868"
+    ],
+    [
+      "A colorful Game of Life",
+      "https://colorlife.quick.jaredforsyth.com"
+    ]
+  ],
+  [
+    [
+      "2025-02-06, 12:51:56",
+      "https://news.ycombinator.com/item?id=42961849"
+    ],
+    [
+      "A better (than Optional) maybe for Java",
+      "https://github.com/andrewcmyers/maybe"
     ]
   ],
   [
@@ -247,16 +247,6 @@
     [
       "Implementing a Game Boy emulator in Ruby",
       "https://sacckey.dev/posts/implementing-a-game-boy-emulator-in-ruby/"
-    ]
-  ],
-  [
-    [
-      "2025-02-05, 11:15:01",
-      "https://news.ycombinator.com/item?id=42946918"
-    ],
-    [
-      "Show HN: HN as TikTok, welcome to HN hell",
-      "https://hnhell.com"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The PS2's backwards compatibility from the engineer who built it (2020)",
       "https://freelansations.medium.com/the-story-of-the-ps2s-backwards-compatibility-from-the-engineer-who-built-it-ec39cf5a0353"
+    ]
+  ],
+  [
+    [
+      "2025-02-04, 09:06:23",
+      "https://news.ycombinator.com/item?id=42930023"
+    ],
+    [
+      "Show HN We launched our first digital product – hard lessons as Indie Developers",
+      "https://alt-generator.ai/"
     ]
   ]
 ]
