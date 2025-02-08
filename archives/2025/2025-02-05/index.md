@@ -63,6 +63,7 @@
 * [2025-02-05, 10:53:02](https://news.ycombinator.com/item?id=42946752) - [Steve Meretzky – Working with Douglas Adams on the Hitchhiker's Guide](https://spillhistorie.no/qa-with-game-designer-steve-meretzky/)
 * [2025-02-05, 10:49:12](https://news.ycombinator.com/item?id=42946718) - [Chrome 133 Supports DOM State-Preserving Move with moveBefore()](https://chromestatus.com/feature/5135990159835136)
 * [2025-02-05, 10:38:05](https://news.ycombinator.com/item?id=42946632) - [America's \"First Car-Free Neighborhood\" Is Going Pretty Good, Actually?](https://www.dwell.com/article/culdesac-tempe-car-free-neighborhood-resident-experience-8a14ebc7)
+* [2025-02-05, 09:55:11](https://news.ycombinator.com/item?id=42946321) - [21st Century C++ (Feb. 2025) by Bjarne Stroustrup](https://cacm.acm.org/blogcacm/21st-century-c/)
 * [2025-02-05, 09:50:30](https://news.ycombinator.com/item?id=42946281) - [Software development topics I've changed my mind on after 10 years](https://chriskiehl.com/article/thoughts-after-10-years)
 * [2025-02-05, 09:47:18](https://news.ycombinator.com/item?id=42946257) - [U.S. foreign aid freeze derails efforts to stem proliferation risks](https://www.science.org/content/article/u-s-foreign-aid-freeze-derails-efforts-stem-proliferation-risks)
 * [2025-02-05, 09:44:32](https://news.ycombinator.com/item?id=42946232) - [Go Data Structures](https://research.swtch.com/godata)
