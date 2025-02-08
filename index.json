@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-02-08, 06:17:09",
-      "https://news.ycombinator.com/item?id=42980835"
-    ],
-    [
-      "Turner, Bird, Eratosthenes: An eternal burning thread",
-      "https://www.cambridge.org/core/journals/journal-of-functional-programming/article/turner-bird-eratosthenes-an-eternal-burning-thread/32E2EDF5D5EAEC95F13D313BC97B86F0"
-    ]
-  ],
-  [
-    [
       "2025-02-08, 04:05:28",
       "https://news.ycombinator.com/item?id=42980283"
     ],
@@ -207,6 +197,16 @@
     [
       "Hotline for modern Apple systems",
       "https://github.com/mierau/hotline"
+    ]
+  ],
+  [
+    [
+      "2025-02-05, 23:10:47",
+      "https://news.ycombinator.com/item?id=42956697"
+    ],
+    [
+      "Fat Rand: How Many Lines Do You Need to Generate a Random Number?",
+      "https://lucumr.pocoo.org/2025/2/4/fat-rand/"
     ]
   ],
   [
