@@ -24,7 +24,7 @@
 * [2025-02-06, 01:23:48](https://news.ycombinator.com/item?id=42957799) - [How to GIF (2025 Edition)](https://fullystacked.net/how-to-gif-2025/)
 * [2025-02-06, 00:26:32](https://news.ycombinator.com/item?id=42957395) - [From hours to 360ms: over-engineering a puzzle solution](https://blog.danielh.cc/blog/puzzle)
 * [2025-02-05, 23:10:47](https://news.ycombinator.com/item?id=42956697) - [Fat Rand: How many lines do you need to generate a random number?](https://lucumr.pocoo.org/2025/2/4/fat-rand/)
-* [2025-02-05, 19:46:30](https://news.ycombinator.com/item?id=42954058) - [Global Caps Lock Key](https://globalcapslock.com)
+* [2025-02-05, 17:12:50](https://news.ycombinator.com/item?id=42951744) - [First glimpse inside burnt scroll after 2k years](https://www.bbc.co.uk/news/articles/c5yvrq7dyg6o)
 * [2025-02-05, 16:33:55](https://news.ycombinator.com/item?id=42950976) - [Are LLMs able to notice the “gorilla in the data”?](https://chiraaggohel.com/posts/llms-eda/)
 * [2025-02-05, 15:45:30](https://news.ycombinator.com/item?id=42950156) - [You're missing your near misses](https://surfingcomplexity.blog/2025/02/01/youre-missing-your-near-misses/)
 * [2025-02-05, 09:27:30](https://news.ycombinator.com/item?id=42946095) - [Insomnia, Control](https://untested.sonnet.io/notes/insomnia-control/)
