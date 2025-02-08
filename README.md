@@ -26,10 +26,10 @@
 * [2025-02-05, 17:12:50](https://news.ycombinator.com/item?id=42951744) - [First glimpse inside burnt scroll after 2k years](https://www.bbc.co.uk/news/articles/c5yvrq7dyg6o)
 * [2025-02-05, 16:33:55](https://news.ycombinator.com/item?id=42950976) - [Are LLMs able to notice the “gorilla in the data”?](https://chiraaggohel.com/posts/llms-eda/)
 * [2025-02-05, 15:45:30](https://news.ycombinator.com/item?id=42950156) - [You're missing your near misses](https://surfingcomplexity.blog/2025/02/01/youre-missing-your-near-misses/)
+* [2025-02-05, 09:43:48](https://news.ycombinator.com/item?id=42946223) - [RISC-V Mainboard for Framework Laptop 13 is now available](https://frame.work/gb/en/blog/risc-v-mainboard-for-framework-laptop-13-is-now-available)
 * [2025-02-05, 09:27:30](https://news.ycombinator.com/item?id=42946095) - [Insomnia, Control](https://untested.sonnet.io/notes/insomnia-control/)
 * [2025-02-05, 09:12:41](https://news.ycombinator.com/item?id=42945980) - [Station of despair: What to do if you get stuck at end of Tokyo Chuo Rapid Line](https://soranews24.com/2024/12/21/station-of-despair-what-to-do-if-you-get-stuck-at-the-end-of-tokyos-chuo-rapid-line/)
 * [2025-02-04, 18:34:47](https://news.ycombinator.com/item?id=42936650) - [Tapestry by Iconfactory](https://usetapestry.com/)
-* [2025-02-04, 11:56:35](https://news.ycombinator.com/item?id=42931241) - [The PS2’s backwards compatibility from the engineer who built it (2020)](https://freelansations.medium.com/the-story-of-the-ps2s-backwards-compatibility-from-the-engineer-who-built-it-ec39cf5a0353)
 
 ## [Archives](archives/index.md)
 
