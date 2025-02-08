@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2025-02-07, 15:40:38",
-      "https://news.ycombinator.com/item?id=42973897"
-    ],
-    [
-      "When Louis Armstrong Conquered Chicago",
-      "https://www.honest-broker.com/p/when-louis-armstrong-conquered-chicago"
-    ]
-  ],
-  [
-    [
       "2025-02-07, 14:18:19",
       "https://news.ycombinator.com/item?id=42972781"
     ],
@@ -227,6 +217,16 @@
     [
       "The superconductivity of layered graphene is surprisingly strange",
       "https://www.newscientist.com/article/2466930-the-superconductivity-of-layered-graphene-is-surprisingly-strange/"
+    ]
+  ],
+  [
+    [
+      "2025-02-06, 04:32:43",
+      "https://news.ycombinator.com/item?id=42959110"
+    ],
+    [
+      "Implementing a Game Boy Emulator in Ruby",
+      "https://sacckey.dev/posts/implementing-a-game-boy-emulator-in-ruby/"
     ]
   ],
   [
