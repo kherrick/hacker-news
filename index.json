@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-02-08, 11:38:33",
+      "https://news.ycombinator.com/item?id=42982270"
+    ],
+    [
+      "A tale of several distros joining forces for a common goal: reproducible builds",
+      "https://video.fosdem.org/2025/h1302/fosdem-2025-6479-a-tale-of-several-distros-joining-forces-for-a-common-goal-reproducible-builds.av1.webm"
+    ]
+  ],
+  [
+    [
       "2025-02-08, 10:41:17",
       "https://news.ycombinator.com/item?id=42982015"
     ],
@@ -37,16 +47,6 @@
     [
       "LINUX is obsolete (1992)",
       "https://groups.google.com/g/comp.os.minix/c/wlhw16QWltI"
-    ]
-  ],
-  [
-    [
-      "2025-02-08, 03:26:57",
-      "https://news.ycombinator.com/item?id=42980097"
-    ],
-    [
-      "Why gold loves arsenic (2021)",
-      "https://www.mining.com/why-gold-loves-arsenic/"
     ]
   ],
   [
@@ -137,26 +137,6 @@
     [
       "A brief history of code signing at Mozilla",
       "https://hearsum.ca/posts/history-of-code-signing-at-mozilla/"
-    ]
-  ],
-  [
-    [
-      "2025-02-07, 16:23:50",
-      "https://news.ycombinator.com/item?id=42974461"
-    ],
-    [
-      "Three-nanite: Unreal Nanite in Three.js",
-      "https://github.com/AIFanatic/three-nanite"
-    ]
-  ],
-  [
-    [
-      "2025-02-07, 14:18:19",
-      "https://news.ycombinator.com/item?id=42972781"
-    ],
-    [
-      "Children's arithmetic skills do not transfer between applied and academic math",
-      "https://www.nature.com/articles/s41586-024-08502-w"
     ]
   ],
   [
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2025-02-04, 14:28:04",
+      "https://news.ycombinator.com/item?id=42932747"
+    ],
+    [
+      "The Leaning Tower of New York",
+      "https://www.newyorker.com/magazine/2025/02/10/the-leaning-tower-of-new-york"
+    ]
+  ],
+  [
+    [
       "2025-02-04, 11:56:35",
       "https://news.ycombinator.com/item?id=42931241"
     ],
     [
       "The PS2’s backwards compatibility from the engineer who built it (2020)",
       "https://freelansations.medium.com/the-story-of-the-ps2s-backwards-compatibility-from-the-engineer-who-built-it-ec39cf5a0353"
+    ]
+  ],
+  [
+    [
+      "2025-02-03, 22:17:46",
+      "https://news.ycombinator.com/item?id=42924068"
+    ],
+    [
+      "In Praise of Subspecies",
+      "https://aeon.co/essays/the-case-for-subspecies-the-neglected-unit-of-conservation"
     ]
   ]
 ]
