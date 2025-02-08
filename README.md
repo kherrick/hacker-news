@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-08, 09:36:56](https://news.ycombinator.com/item?id=42981772) - [Building a list of European projects/companies, can you help me to add more?](https://github.com/uscneps/Awesome-European-Tech)
 * [2025-02-08, 06:17:09](https://news.ycombinator.com/item?id=42980835) - [Turner, Bird, Eratosthenes: An eternal burning thread](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/turner-bird-eratosthenes-an-eternal-burning-thread/32E2EDF5D5EAEC95F13D313BC97B86F0)
 * [2025-02-08, 03:26:57](https://news.ycombinator.com/item?id=42980097) - [Why gold loves arsenic (2021)](https://www.mining.com/why-gold-loves-arsenic/)
 * [2025-02-08, 03:02:57](https://news.ycombinator.com/item?id=42979986) - [Ghostwriter – use the reMarkable2 as an interface to vision-LLMs](https://github.com/awwaiid/ghostwriter)
@@ -18,7 +19,6 @@
 * [2025-02-07, 13:02:03](https://news.ycombinator.com/item?id=42972062) - [Asahi Linux lead developer Hector Martin resigns from Linux kernel](https://lkml.org/lkml/2025/2/7/9)
 * [2025-02-07, 07:45:05](https://news.ycombinator.com/item?id=42970412) - [U.K. orders Apple to let it spy on users' encrypted accounts](https://www.washingtonpost.com/technology/2025/02/07/apple-encryption-backdoor-uk/)
 * [2025-02-06, 22:04:03](https://news.ycombinator.com/item?id=42966958) - [Why LLMs still have problems with OCR](https://www.runpulse.com/blog/why-llms-suck-at-ocr)
-* [2025-02-06, 16:44:21](https://news.ycombinator.com/item?id=42964124) - [The superconductivity of layered graphene](https://www.newscientist.com/article/2466930-the-superconductivity-of-layered-graphene-is-surprisingly-strange/)
 * [2025-02-06, 14:44:11](https://news.ycombinator.com/item?id=42962822) - [Five coding hats](https://dubroy.com/blog/five-coding-hats/)
 * [2025-02-06, 12:55:17](https://news.ycombinator.com/item?id=42961868) - [A colorful Game of Life](https://colorlife.quick.jaredforsyth.com)
 * [2025-02-06, 07:01:26](https://news.ycombinator.com/item?id=42959841) - [Hotline for modern Apple systems](https://github.com/mierau/hotline)
