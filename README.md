@@ -2,8 +2,8 @@
 
 * [2025-02-08, 06:17:09](https://news.ycombinator.com/item?id=42980835) - [Turner, Bird, Eratosthenes: An eternal burning thread](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/turner-bird-eratosthenes-an-eternal-burning-thread/32E2EDF5D5EAEC95F13D313BC97B86F0)
 * [2025-02-08, 03:26:57](https://news.ycombinator.com/item?id=42980097) - [Why gold loves arsenic (2021)](https://www.mining.com/why-gold-loves-arsenic/)
-* [2025-02-08, 03:13:20](https://news.ycombinator.com/item?id=42980038) - [Oral History of Andy Bechtolsheim (2015) [pdf]](http://archive.computerhistory.org/resources/access/text/2016/06/102737929-05-01-acc.pdf)
 * [2025-02-08, 03:02:57](https://news.ycombinator.com/item?id=42979986) - [Ghostwriter – use the reMarkable2 as an interface to vision-LLMs](https://github.com/awwaiid/ghostwriter)
+* [2025-02-08, 02:41:35](https://news.ycombinator.com/item?id=42979869) - [Starlink in the Falkland Islands – A national emergency situation?](https://www.openfalklands.com/february-2025-starlink-in-the-falkland-islands-a-national-emergency-situation/)
 * [2025-02-08, 02:36:38](https://news.ycombinator.com/item?id=42979846) - [Value-Based Deep RL Scales Predictably](https://arxiv.org/abs/2502.04327)
 * [2025-02-08, 01:25:32](https://news.ycombinator.com/item?id=42979467) - [VSCode's SSH agent is bananas](https://fly.io/blog/vscode-ssh-wtf/)
 * [2025-02-07, 21:00:03](https://news.ycombinator.com/item?id=42977416) - [Zep AI (YC W24) is hiring engineers to build SOTA agent memory](https://www.ycombinator.com/companies/zep-ai/jobs/e2QxKYu-staff-engineer)
