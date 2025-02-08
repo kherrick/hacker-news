@@ -2,7 +2,6 @@
 
 * [2025-02-08, 04:05:28](https://news.ycombinator.com/item?id=42980283) - [LINUX is obsolete (1992)](https://groups.google.com/g/comp.os.minix/c/wlhw16QWltI)
 * [2025-02-08, 04:04:58](https://news.ycombinator.com/item?id=42980278) - [The Coolest Amiga Setup](https://www.datagubbe.se/coolestamiga/)
-* [2025-02-08, 03:39:46](https://news.ycombinator.com/item?id=42980150) - [Docker Bake is now generally available](https://www.docker.com/blog/ga-launch-docker-bake/)
 * [2025-02-08, 03:26:57](https://news.ycombinator.com/item?id=42980097) - [Why gold loves arsenic (2021)](https://www.mining.com/why-gold-loves-arsenic/)
 * [2025-02-08, 03:13:20](https://news.ycombinator.com/item?id=42980038) - [Oral History of Andy Bechtolsheim (2015) [pdf]](http://archive.computerhistory.org/resources/access/text/2016/06/102737929-05-01-acc.pdf)
 * [2025-02-08, 02:47:19](https://news.ycombinator.com/item?id=42979901) - [Bolt: Bootstrap long chain-of-thought in LLMs without distillation [pdf]](https://arxiv.org/abs/2502.03860)
@@ -13,6 +12,7 @@
 * [2025-02-07, 20:56:58](https://news.ycombinator.com/item?id=42977388) - [Show HN: ExpenseOwl – Simple, self-hosted expense tracker](https://github.com/Tanq16/ExpenseOwl)
 * [2025-02-07, 18:23:40](https://news.ycombinator.com/item?id=42975803) - [Show HN: A website that heatmaps your city based on your housing preferences](https://theretowhere.com/)
 * [2025-02-07, 17:51:49](https://news.ycombinator.com/item?id=42975436) - [A brief history of code signing at Mozilla](https://hearsum.ca/posts/history-of-code-signing-at-mozilla/)
+* [2025-02-07, 16:53:20](https://news.ycombinator.com/item?id=42974809) - [The origins of 60-Hz as a power frequency](https://ieeexplore.ieee.org/document/628099)
 * [2025-02-07, 16:46:47](https://news.ycombinator.com/item?id=42974728) - [Stop using zip codes for geospatial analysis (2019)](https://carto.com/blog/zip-codes-spatial-analysis)
 * [2025-02-07, 16:46:45](https://news.ycombinator.com/item?id=42974727) - [Radiation belts detected around Earth after solar storm](https://www.sciencealert.com/mysterious-radiation-belts-detected-around-earth-after-epic-solar-storm)
 * [2025-02-07, 16:23:50](https://news.ycombinator.com/item?id=42974461) - [Three-nanite: Unreal Nanite in Three.js](https://github.com/AIFanatic/three-nanite)
