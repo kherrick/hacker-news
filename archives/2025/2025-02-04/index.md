@@ -66,6 +66,7 @@
 * [2025-02-04, 14:48:52](https://news.ycombinator.com/item?id=42933031) - [Programmers are modern-day computers](https://jtlicardo.com/writing/modern-day-computers/)
 * [2025-02-04, 14:43:53](https://news.ycombinator.com/item?id=42932948) - [DeepRAG: Thinking to Retrieval Step by Step for Large Language Models](https://arxiv.org/abs/2502.01142)
 * [2025-02-04, 14:29:30](https://news.ycombinator.com/item?id=42932760) - [Words Now Forbidden in the Free Speech United States of Academic Freedom](https://mastodon.social/@Lazarou/113943275616933776)
+* [2025-02-04, 14:28:04](https://news.ycombinator.com/item?id=42932747) - [The Leaning Tower of New York](https://www.newyorker.com/magazine/2025/02/10/the-leaning-tower-of-new-york)
 * [2025-02-04, 14:07:23](https://news.ycombinator.com/item?id=42932492) - [My Seventh Year as a Bootstrapped Founder](https://mtlynch.io/solo-developer-year-7/)
 * [2025-02-04, 13:44:23](https://news.ycombinator.com/item?id=42932218) - [Please help me find better blogs to read](https://news.ycombinator.com/item?id=42932218)
 * [2025-02-04, 13:39:12](https://news.ycombinator.com/item?id=42932148) - [Build your own SQLite, Part 4: reading tables metadata](https://blog.sylver.dev/build-your-own-sqlite-part-4-reading-tables-metadata)
