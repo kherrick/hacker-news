@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-08, 16:04:06](https://news.ycombinator.com/item?id=42983835) - [No Way Home](https://literaryreview.co.uk/no-way-home)
+* [2025-02-08, 15:51:06](https://news.ycombinator.com/item?id=42983733) - [Carbon is not a programming language (sort of)](https://herecomesthemoon.net/2025/02/carbon-is-not-a-language/)
 * [2025-02-08, 15:47:36](https://news.ycombinator.com/item?id=42983699) - [The Deck: An Open-Source Cross-Platform Multiplayer Card Game Engine in Flutter](https://github.com/xajik/thedeck)
 * [2025-02-08, 14:36:32](https://news.ycombinator.com/item?id=42983197) - [Collection of one-file C/C++ libraries with no dependencies, primarily for games](https://github.com/RandyGaul/cute_headers)
 * [2025-02-08, 14:27:59](https://news.ycombinator.com/item?id=42983148) - [Show HN: FreeDemandLetter – A Weapon for Anyone Who's Sick of Getting Shafted](https://www.freedemandletter.com)
@@ -17,7 +18,6 @@
 * [2025-02-07, 17:51:49](https://news.ycombinator.com/item?id=42975436) - [A brief history of code signing at Mozilla](https://hearsum.ca/posts/history-of-code-signing-at-mozilla/)
 * [2025-02-07, 13:02:03](https://news.ycombinator.com/item?id=42972062) - [Asahi Linux lead developer Hector Martin resigns from Linux kernel](https://lkml.org/lkml/2025/2/7/9)
 * [2025-02-07, 07:45:05](https://news.ycombinator.com/item?id=42970412) - [U.K. orders Apple to let it spy on users’ encrypted accounts](https://www.washingtonpost.com/technology/2025/02/07/apple-encryption-backdoor-uk/)
-* [2025-02-06, 14:44:11](https://news.ycombinator.com/item?id=42962822) - [Five coding hats](https://dubroy.com/blog/five-coding-hats/)
 * [2025-02-06, 12:55:17](https://news.ycombinator.com/item?id=42961868) - [A colorful Game of Life](https://colorlife.quick.jaredforsyth.com)
 * [2025-02-06, 07:01:26](https://news.ycombinator.com/item?id=42959841) - [Hotline for modern Apple systems](https://github.com/mierau/hotline)
 * [2025-02-05, 23:10:47](https://news.ycombinator.com/item?id=42956697) - [Fat Rand: How Many Lines Do You Need to Generate a Random Number?](https://lucumr.pocoo.org/2025/2/4/fat-rand/)
