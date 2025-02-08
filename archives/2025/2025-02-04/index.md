@@ -30,6 +30,7 @@
 * [2025-02-04, 18:57:47](https://news.ycombinator.com/item?id=42936940) - [GitHub Reveals How Software Engineers Are Purging Federal Databases](https://www.404media.co/forbidden-words-github-reveals-how-software-engineers-are-purging-federal-databases/)
 * [2025-02-04, 18:56:08](https://news.ycombinator.com/item?id=42936910) - [How to Scale Your Model: A Systems View of LLMs on TPUs](https://jax-ml.github.io/scaling-book/)
 * [2025-02-04, 18:40:55](https://news.ycombinator.com/item?id=42936723) - [WikiTok](https://wikitok.vercel.app/)
+* [2025-02-04, 18:34:47](https://news.ycombinator.com/item?id=42936650) - [Tapestry by Iconfactory](https://usetapestry.com/)
 * [2025-02-04, 18:24:31](https://news.ycombinator.com/item?id=42936506) - [Show HN: Play with real quantum physics in your browser](https://quantum.orgsoft.org)
 * [2025-02-04, 18:18:31](https://news.ycombinator.com/item?id=42936421) - [Onlookers freak out as 25-year-old set loose on Treasury computer system](https://www.rawstory.com/musk-treasury-doge/)
 * [2025-02-04, 18:07:37](https://news.ycombinator.com/item?id=42936253) - [Don't Delegate Understanding](https://stephango.com/understand)

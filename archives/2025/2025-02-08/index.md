@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-08](index.md)
 
+* [2025-02-08, 10:41:17](https://news.ycombinator.com/item?id=42982015) - [Generating Voronoi Diagrams Using Fortune's Algorithm (With Odin)](https://redpenguin101.github.io/html/posts/2025_01_21_voronoi.html)
 * [2025-02-08, 09:36:56](https://news.ycombinator.com/item?id=42981772) - [Building a list of European projects/companies, can you help me to add more?](https://github.com/uscneps/Awesome-European-Tech)
 * [2025-02-08, 06:17:09](https://news.ycombinator.com/item?id=42980835) - [Turner, Bird, Eratosthenes: An eternal burning thread](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/turner-bird-eratosthenes-an-eternal-burning-thread/32E2EDF5D5EAEC95F13D313BC97B86F0)
 * [2025-02-08, 05:39:19](https://news.ycombinator.com/item?id=42980688) - [NIH slashes overhead payments for research](https://www.science.org/content/article/nih-slashes-overhead-payments-research-sparking-outrage)
