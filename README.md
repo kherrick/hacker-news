@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-08, 18:28:34](https://news.ycombinator.com/item?id=42984986) - [Belief of Aliens Derailed This Internet Pioneer's Career. Now He's Facing Prison](https://www.bloomberg.com/news/features/2025-02-05/aliens-derailed-this-silicon-valley-exec-s-career-now-he-s-facing-prison)
 * [2025-02-08, 18:24:39](https://news.ycombinator.com/item?id=42984962) - [Show HN: Chez Scheme txtar port from Go](https://git.sr.ht/~egtann/txtar/)
 * [2025-02-08, 18:08:15](https://news.ycombinator.com/item?id=42984813) - [The Daughter of Dawn (2024)](https://www.afi.com/news/the-daughter-of-dawn-1920-afi-catalog-spotlight/)
 * [2025-02-08, 18:06:38](https://news.ycombinator.com/item?id=42984791) - [Amazon blew Alexa's shot to dominate AI, according to employees](https://fortune.com/2024/06/12/amazon-insiders-why-new-alexa-llm-generative-ai-conversational-chatbot-missing-in-action/)
@@ -11,6 +10,7 @@
 * [2025-02-08, 15:47:36](https://news.ycombinator.com/item?id=42983699) - [The Deck: An open-source cross-platform multiplayer card game engine in Flutter](https://github.com/xajik/thedeck)
 * [2025-02-08, 15:30:44](https://news.ycombinator.com/item?id=42983571) - [The LLMentalist Effect](https://softwarecrisis.dev/letters/llmentalist/)
 * [2025-02-08, 14:48:25](https://news.ycombinator.com/item?id=42983275) - [We are destroying software](https://antirez.com/news/145)
+* [2025-02-08, 12:43:09](https://news.ycombinator.com/item?id=42982578) - ['The Licensing Racket’ Review: There's a Board for That](https://www.wsj.com/arts-culture/books/the-licensing-racket-review-theres-a-board-for-that-3da68d0a)
 * [2025-02-08, 11:38:33](https://news.ycombinator.com/item?id=42982270) - [A tale of several distros joining forces for a common goal: reproducible builds](https://video.fosdem.org/2025/h1302/fosdem-2025-6479-a-tale-of-several-distros-joining-forces-for-a-common-goal-reproducible-builds.av1.webm)
 * [2025-02-08, 10:41:17](https://news.ycombinator.com/item?id=42982015) - [Generating Voronoi Diagrams Using Fortune's Algorithm (With Odin)](https://redpenguin101.github.io/html/posts/2025_01_21_voronoi.html)
 * [2025-02-08, 02:41:35](https://news.ycombinator.com/item?id=42979869) - [Starlink in the Falkland Islands – A national emergency situation?](https://www.openfalklands.com/february-2025-starlink-in-the-falkland-islands-a-national-emergency-situation/)
