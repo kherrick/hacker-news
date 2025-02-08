@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-02-08](index.md)
 
+* [2025-02-08, 18:08:15](https://news.ycombinator.com/item?id=42984813) - [The Daughter of Dawn (2024)](https://www.afi.com/news/the-daughter-of-dawn-1920-afi-catalog-spotlight/)
+* [2025-02-08, 18:06:38](https://news.ycombinator.com/item?id=42984791) - [Amazon blew Alexa's shot to dominate AI, according to employees](https://fortune.com/2024/06/12/amazon-insiders-why-new-alexa-llm-generative-ai-conversational-chatbot-missing-in-action/)
+* [2025-02-08, 17:25:03](https://news.ycombinator.com/item?id=42984457) - [Writing a Simple Windows Driver in Rust](https://scorpiosoftware.net/2025/02/08/writing-a-simple-driver-in-rust/)
 * [2025-02-08, 17:19:23](https://news.ycombinator.com/item?id=42984420) - [Show HN: FlashSpace – fast, open-source, macOS Spaces replacement](https://github.com/wojciech-kulik/FlashSpace)
 * [2025-02-08, 16:04:06](https://news.ycombinator.com/item?id=42983835) - [No Way Home](https://literaryreview.co.uk/no-way-home)
 * [2025-02-08, 15:51:06](https://news.ycombinator.com/item?id=42983733) - [Carbon is not a programming language (sort of)](https://herecomesthemoon.net/2025/02/carbon-is-not-a-language/)
 * [2025-02-08, 15:47:36](https://news.ycombinator.com/item?id=42983699) - [The Deck: An Open-Source Cross-Platform Multiplayer Card Game Engine in Flutter](https://github.com/xajik/thedeck)
+* [2025-02-08, 15:30:44](https://news.ycombinator.com/item?id=42983571) - [The LLMentalist Effect](https://softwarecrisis.dev/letters/llmentalist/)
 * [2025-02-08, 14:48:25](https://news.ycombinator.com/item?id=42983275) - [We Are Destroying Software](https://antirez.com/news/145)
 * [2025-02-08, 14:45:49](https://news.ycombinator.com/item?id=42983262) - [The Mars Dream Is Back — Here’s How to Make It Actually Happen](https://www.thenewatlantis.com/publications/the-mars-dream-is-back-how-to-go)
 * [2025-02-08, 14:36:32](https://news.ycombinator.com/item?id=42983197) - [Collection of one-file C/C++ libraries with no dependencies, primarily for games](https://github.com/RandyGaul/cute_headers)
