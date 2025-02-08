@@ -6,6 +6,7 @@
 
 * [2025-02-04, 23:56:25](https://news.ycombinator.com/item?id=42941143) - [Ambsheets: Spreadsheets for Exploring Scenarios](https://www.inkandswitch.com/ambsheets/)
 * [2025-02-04, 23:43:34](https://news.ycombinator.com/item?id=42940999) - [Securing edge device systems, including firewalls, routers, and VPN gateways](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4052657/joint-publications-focus-on-mitigation-strategies-for-edge-devices/)
+* [2025-02-04, 23:25:49](https://news.ycombinator.com/item?id=42940748) - [Effects of cold-water immersion on health and wellbeing: A systematic review](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317615)
 * [2025-02-04, 23:11:38](https://news.ycombinator.com/item?id=42940553) - [Nine – seemingly impossible C64 demo](https://linusakesson.net/scene/nine/index.php)
 * [2025-02-04, 22:53:05](https://news.ycombinator.com/item?id=42940284) - [Google removes pledge to not use AI for weapons from website](https://techcrunch.com/2025/02/04/google-removes-pledge-to-not-use-ai-for-weapons-from-website/)
 * [2025-02-04, 22:51:36](https://news.ycombinator.com/item?id=42940257) - [What's Happening Inside the NIH and NSF](https://www.science.org/content/blog-post/what-s-happening-inside-nih)

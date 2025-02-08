@@ -28,8 +28,8 @@
 * [2025-02-05, 08:51:15](https://news.ycombinator.com/item?id=42945812) - [Franz Kafka – the workers' friend (2018)](https://marywcraig.com/2018/01/14/franz-kafka-the-workers-friend/)
 * [2025-02-05, 08:00:47](https://news.ycombinator.com/item?id=42945426) - [The WW2 experiment to make pigeon-guided missiles [video]](https://www.bbc.com/reel/video/p0kl5kcz/the-ww2-experiment-to-make-pigeon-guided-missiles)
 * [2025-02-05, 01:25:05](https://news.ycombinator.com/item?id=42942204) - [Visual Explanations of Mathematics (2020)](https://agilescientific.com/blog/2020/2/25/visual-explanations-of-mathematics)
+* [2025-02-04, 23:25:49](https://news.ycombinator.com/item?id=42940748) - [Effects of cold-water immersion on health and wellbeing: A systematic review](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317615)
 * [2025-02-04, 18:24:31](https://news.ycombinator.com/item?id=42936506) - [Show HN: Play with real quantum physics in your browser](https://quantum.orgsoft.org)
-* [2025-02-04, 03:59:38](https://news.ycombinator.com/item?id=42927722) - [Minor 387 Documentation Mystery](https://www.os2museum.com/wp/minor-387-documentation-mystery/)
 
 ## [Archives](archives/index.md)
 
