@@ -16,7 +16,6 @@
 * [2025-02-07, 16:46:47](https://news.ycombinator.com/item?id=42974728) - [Stop using zip codes for geospatial analysis (2019)](https://carto.com/blog/zip-codes-spatial-analysis)
 * [2025-02-07, 16:46:45](https://news.ycombinator.com/item?id=42974727) - [Radiation belts detected around Earth after solar storm](https://www.sciencealert.com/mysterious-radiation-belts-detected-around-earth-after-epic-solar-storm)
 * [2025-02-07, 16:23:50](https://news.ycombinator.com/item?id=42974461) - [Three-nanite: Unreal Nanite in Three.js](https://github.com/AIFanatic/three-nanite)
-* [2025-02-07, 13:44:09](https://news.ycombinator.com/item?id=42972420) - [Procedural Hydrology: Dynamic lake and river simulation (2020)](https://nickmcd.me/2020/04/15/procedural-hydrology/)
 * [2025-02-07, 13:02:03](https://news.ycombinator.com/item?id=42972062) - [Asahi Linux lead developer Hector Martin resigns from Linux kernel](https://lkml.org/lkml/2025/2/7/9)
 * [2025-02-07, 07:45:05](https://news.ycombinator.com/item?id=42970412) - [U.K. orders Apple to let it spy on users' encrypted accounts](https://www.washingtonpost.com/technology/2025/02/07/apple-encryption-backdoor-uk/)
 * [2025-02-06, 22:04:03](https://news.ycombinator.com/item?id=42966958) - [Why LLMs still have problems with OCR](https://www.runpulse.com/blog/why-llms-suck-at-ocr)
@@ -28,6 +27,7 @@
 * [2025-02-05, 09:12:41](https://news.ycombinator.com/item?id=42945980) - [Station of despair: What to do if you get stuck at end of Tokyo Chuo Rapid Line](https://soranews24.com/2024/12/21/station-of-despair-what-to-do-if-you-get-stuck-at-the-end-of-tokyos-chuo-rapid-line/)
 * [2025-02-05, 01:25:05](https://news.ycombinator.com/item?id=42942204) - [Visual explanations of mathematics (2020)](https://agilescientific.com/blog/2020/2/25/visual-explanations-of-mathematics)
 * [2025-02-04, 20:38:12](https://news.ycombinator.com/item?id=42938235) - [Unobtanium 6502 based KIM-1 part now obtanium with FPGA](https://blog.paulsajna.com/fpga-mcs6530-rriot/)
+* [2025-02-04, 17:56:33](https://news.ycombinator.com/item?id=42936085) - [Show HN: Mandarin Word Segmenter with Translation](https://mandobot.netlify.app/)
 * [2025-02-04, 11:56:35](https://news.ycombinator.com/item?id=42931241) - [The PS2's backwards compatibility from the engineer who built it (2020)](https://freelansations.medium.com/the-story-of-the-ps2s-backwards-compatibility-from-the-engineer-who-built-it-ec39cf5a0353)
 * [2025-02-04, 01:44:45](https://news.ycombinator.com/item?id=42926396) - [The evolution of annunciator signaling for telephones](https://www.calling315.com/annunicators)
 
