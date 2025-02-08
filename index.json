@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-02-08, 02:36:38",
-      "https://news.ycombinator.com/item?id=42979846"
-    ],
-    [
-      "Value-Based Deep RL Scales Predictably",
-      "https://arxiv.org/abs/2502.04327"
-    ]
-  ],
-  [
-    [
       "2025-02-08, 01:25:32",
       "https://news.ycombinator.com/item?id=42979467"
     ],
@@ -197,6 +187,16 @@
     [
       "Implementing a Game Boy emulator in Ruby",
       "https://sacckey.dev/posts/implementing-a-game-boy-emulator-in-ruby/"
+    ]
+  ],
+  [
+    [
+      "2025-02-05, 09:27:30",
+      "https://news.ycombinator.com/item?id=42946095"
+    ],
+    [
+      "Insomnia, Control",
+      "https://untested.sonnet.io/notes/insomnia-control/"
     ]
   ],
   [
