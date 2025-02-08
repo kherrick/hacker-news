@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-02-08, 03:39:46",
+      "https://news.ycombinator.com/item?id=42980150"
+    ],
+    [
+      "Docker Bake Is Now Generally Available",
+      "https://www.docker.com/blog/ga-launch-docker-bake/"
+    ]
+  ],
+  [
+    [
       "2025-02-08, 03:13:20",
       "https://news.ycombinator.com/item?id=42980038"
     ],
     [
-      "Oral History of Andreas \"Andy\" Bechtolsheim (Sun, Granite, Kealia, Arista etc.) [pdf]",
+      "Oral History of Andy Bechtolsheim (2015) [pdf]",
       "http://archive.computerhistory.org/resources/access/text/2016/06/102737929-05-01-acc.pdf"
     ]
   ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=42979901"
     ],
     [
-      "Bolt: Bootstrap Long Chain-of-Thought in LLMs Without Distillation [pdf]",
+      "Bolt: Bootstrap long chain-of-thought in LLMs without distillation [pdf]",
       "https://arxiv.org/abs/2502.03860"
     ]
   ],
@@ -27,6 +37,16 @@
     [
       "Starlink in the Falkland Islands – A national emergency situation?",
       "https://www.openfalklands.com/february-2025-starlink-in-the-falkland-islands-a-national-emergency-situation/"
+    ]
+  ],
+  [
+    [
+      "2025-02-08, 02:36:38",
+      "https://news.ycombinator.com/item?id=42979846"
+    ],
+    [
+      "Value-Based Deep RL Scales Predictably",
+      "https://arxiv.org/abs/2502.04327"
     ]
   ],
   [
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=42977483"
     ],
     [
-      "Portland's Exploding Liberty Bell",
+      "Portland's exploding Liberty Bell (2020)",
       "https://tomlovesthelibertybell.com/portlands-exploding-liberty-bell/"
     ]
   ],
@@ -91,12 +111,12 @@
   ],
   [
     [
-      "2025-02-07, 17:27:54",
-      "https://news.ycombinator.com/item?id=42975170"
+      "2025-02-07, 17:27:57",
+      "https://news.ycombinator.com/item?id=42975171"
     ],
     [
-      "German civil activists win victory in election case against X",
-      "https://www.reuters.com/world/europe/german-civil-activists-claim-victory-case-against-musks-x-2025-02-07/"
+      "Pantograph: A Fluid and Typed Structure Editor",
+      "https://github.com/jeprinz/pantograph/blob/main/README.md"
     ]
   ],
   [
@@ -137,16 +157,6 @@
     [
       "Three-nanite: Unreal Nanite in Three.js",
       "https://github.com/AIFanatic/three-nanite"
-    ]
-  ],
-  [
-    [
-      "2025-02-07, 16:21:46",
-      "https://news.ycombinator.com/item?id=42974429"
-    ],
-    [
-      "The Age of Agent Experience",
-      "https://stytch.com/blog/the-age-of-agent-experience/"
     ]
   ],
   [
@@ -201,12 +211,12 @@
   ],
   [
     [
-      "2025-02-06, 20:54:10",
-      "https://news.ycombinator.com/item?id=42966402"
+      "2025-02-06, 22:04:03",
+      "https://news.ycombinator.com/item?id=42966958"
     ],
     [
-      "The Inevitability of the Borrow Checker",
-      "https://yorickpeterse.com/articles/the-inevitability-of-the-borrow-checker/"
+      "Why LLMs still have problems with OCR",
+      "https://www.runpulse.com/blog/why-llms-suck-at-ocr"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Unobtanium 6502 based KIM-1 part now obtanium with FPGA",
       "https://blog.paulsajna.com/fpga-mcs6530-rriot/"
-    ]
-  ],
-  [
-    [
-      "2025-02-04, 18:24:31",
-      "https://news.ycombinator.com/item?id=42936506"
-    ],
-    [
-      "Show HN: Play with real quantum physics in your browser",
-      "https://quantum.orgsoft.org"
     ]
   ],
   [
