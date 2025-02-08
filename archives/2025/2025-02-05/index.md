@@ -30,6 +30,7 @@
 * [2025-02-05, 16:58:14](https://news.ycombinator.com/item?id=42951458) - [Doge Staff Stop Using Slack as Agency Transitions to System Not Subject to FOIA](https://www.404media.co/doge-employees-ordered-to-stop-using-slack-while-agency-transitions-to-a-records-system-not-subject-to-foia/)
 * [2025-02-05, 16:31:24](https://news.ycombinator.com/item?id=42950929) - [US egg prices increased 22% in 2025 and 202% in 12 months](https://tradingeconomics.com/commodity/eggs-us)
 * [2025-02-05, 16:23:10](https://news.ycombinator.com/item?id=42950790) - [20k federal workers take \"buyout\" so far, official says](https://www.axios.com/2025/02/04/trump-buyout-federal-workers-20000)
+* [2025-02-05, 16:18:59](https://news.ycombinator.com/item?id=42950716) - [How does DeepSeek work: An inside look](https://codedoodles.substack.com/p/how-does-deepseek-work-an-in-depth)
 * [2025-02-05, 16:03:18](https://news.ycombinator.com/item?id=42950454) - [Gemini 2.0 is now available to everyone](https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/)
 * [2025-02-05, 15:40:57](https://news.ycombinator.com/item?id=42950066) - [Prediction Games](https://www.argmin.net/p/prediction-games)
 * [2025-02-05, 15:38:21](https://news.ycombinator.com/item?id=42950016) - [OpenWISP: Multi-device fleet management for OpenWrt routers](https://openwisp.org)
