@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-08](index.md)
 
+* [2025-02-08, 05:39:19](https://news.ycombinator.com/item?id=42980688) - [NIH slashes overhead payments for research](https://www.science.org/content/article/nih-slashes-overhead-payments-research-sparking-outrage)
+* [2025-02-08, 05:02:31](https://news.ycombinator.com/item?id=42980528) - [Ask HN: Is it worth it to post on the 'Who Wants To Be Hired' thread?](https://news.ycombinator.com/item?id=42980528)
 * [2025-02-08, 04:05:28](https://news.ycombinator.com/item?id=42980283) - [LINUX is obsolete (1992)](https://groups.google.com/g/comp.os.minix/c/wlhw16QWltI)
 * [2025-02-08, 04:04:58](https://news.ycombinator.com/item?id=42980278) - [The Coolest Amiga Setup](https://www.datagubbe.se/coolestamiga/)
 * [2025-02-08, 03:39:46](https://news.ycombinator.com/item?id=42980150) - [Docker Bake Is Now Generally Available](https://www.docker.com/blog/ga-launch-docker-bake/)
