@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-08](index.md)
 
+* [2025-02-08, 15:47:36](https://news.ycombinator.com/item?id=42983699) - [The Deck: An Open-Source Cross-Platform Multiplayer Card Game Engine in Flutter](https://github.com/xajik/thedeck)
 * [2025-02-08, 14:48:25](https://news.ycombinator.com/item?id=42983275) - [We Are Destroying Software](https://antirez.com/news/145)
 * [2025-02-08, 14:45:49](https://news.ycombinator.com/item?id=42983262) - [The Mars Dream Is Back — Here’s How to Make It Actually Happen](https://www.thenewatlantis.com/publications/the-mars-dream-is-back-how-to-go)
 * [2025-02-08, 14:36:32](https://news.ycombinator.com/item?id=42983197) - [Collection of one-file C/C++ libraries with no dependencies, primarily for games](https://github.com/RandyGaul/cute_headers)

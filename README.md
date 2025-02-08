@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-08, 15:47:36](https://news.ycombinator.com/item?id=42983699) - [The Deck: An Open-Source Cross-Platform Multiplayer Card Game Engine in Flutter](https://github.com/xajik/thedeck)
 * [2025-02-08, 14:36:32](https://news.ycombinator.com/item?id=42983197) - [Collection of one-file C/C++ libraries with no dependencies, primarily for games](https://github.com/RandyGaul/cute_headers)
 * [2025-02-08, 14:33:51](https://news.ycombinator.com/item?id=42983180) - [The Puzzle](https://silence.bearblog.dev/the-puzzle/)
 * [2025-02-08, 11:38:33](https://news.ycombinator.com/item?id=42982270) - [A tale of several distros joining forces for a common goal: reproducible builds](https://video.fosdem.org/2025/h1302/fosdem-2025-6479-a-tale-of-several-distros-joining-forces-for-a-common-goal-reproducible-builds.av1.webm)
@@ -23,7 +24,6 @@
 * [2025-02-05, 09:27:30](https://news.ycombinator.com/item?id=42946095) - [Insomnia, Control](https://untested.sonnet.io/notes/insomnia-control/)
 * [2025-02-05, 09:12:41](https://news.ycombinator.com/item?id=42945980) - [Station of despair: What to do if you get stuck at end of Tokyo Chuo Rapid Line](https://soranews24.com/2024/12/21/station-of-despair-what-to-do-if-you-get-stuck-at-the-end-of-tokyos-chuo-rapid-line/)
 * [2025-02-05, 07:26:51](https://news.ycombinator.com/item?id=42945109) - [The practical (Unix) problems with .cache and its friends](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DotCacheDirectoriesProblem)
-* [2025-02-05, 01:25:05](https://news.ycombinator.com/item?id=42942204) - [Visual explanations of mathematics (2020)](https://agilescientific.com/blog/2020/2/25/visual-explanations-of-mathematics)
 * [2025-02-04, 18:34:47](https://news.ycombinator.com/item?id=42936650) - [Tapestry by Iconfactory](https://usetapestry.com/)
 * [2025-02-04, 17:21:21](https://news.ycombinator.com/item?id=42935520) - [Show HN: Automated Sorting of group photos by user defined N people in each pic](https://github.com/Karvy-Singh/Sort_Memories)
 * [2025-02-04, 16:22:18](https://news.ycombinator.com/item?id=42934434) - [Colossus, the first large-scale electronic computer](https://www.colossus-computer.com/colossus1.html#section02)
