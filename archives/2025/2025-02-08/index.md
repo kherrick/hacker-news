@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-08](index.md)
 
+* [2025-02-08, 22:00:21](https://news.ycombinator.com/item?id=42986558) - [Show HN: Turn Screenshots into Designs Instantly](https://getklippy.com)
 * [2025-02-08, 21:24:18](https://news.ycombinator.com/item?id=42986335) - [Mark Zuckerberg messages Facebook engineer](https://twitter.com/TechEmails/status/1888313183024074910)
 * [2025-02-08, 21:01:10](https://news.ycombinator.com/item?id=42986169) - [Keeling Labs (YC W23) Is Hiring an ML Engineer for Applied ML in the Grid](https://www.keelinglabs.com/jobs)
 * [2025-02-08, 20:03:23](https://news.ycombinator.com/item?id=42985749) - [Auto-Rewind for Daily Test (Apache NuttX RTOS)](https://lupyuen.org/articles/rewind.html)
