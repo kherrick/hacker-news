@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-08, 09:36:56](https://news.ycombinator.com/item?id=42981772) - [Building a list of European projects/companies, can you help me to add more?](https://github.com/uscneps/Awesome-European-Tech)
 * [2025-02-08, 06:17:09](https://news.ycombinator.com/item?id=42980835) - [Turner, Bird, Eratosthenes: An eternal burning thread](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/turner-bird-eratosthenes-an-eternal-burning-thread/32E2EDF5D5EAEC95F13D313BC97B86F0)
 * [2025-02-08, 03:26:57](https://news.ycombinator.com/item?id=42980097) - [Why gold loves arsenic (2021)](https://www.mining.com/why-gold-loves-arsenic/)
 * [2025-02-08, 03:02:57](https://news.ycombinator.com/item?id=42979986) - [Ghostwriter – use the reMarkable2 as an interface to vision-LLMs](https://github.com/awwaiid/ghostwriter)
@@ -30,6 +29,7 @@
 * [2025-02-04, 19:13:44](https://news.ycombinator.com/item?id=42937187) - [Science is a strong-link problem](https://www.experimental-history.com/p/repost-science-is-a-strong-link-problem)
 * [2025-02-04, 17:56:33](https://news.ycombinator.com/item?id=42936085) - [Show HN: Mandarin Word Segmenter with Translation](https://mandobot.netlify.app/)
 * [2025-02-04, 11:56:35](https://news.ycombinator.com/item?id=42931241) - [The PS2's backwards compatibility from the engineer who built it (2020)](https://freelansations.medium.com/the-story-of-the-ps2s-backwards-compatibility-from-the-engineer-who-built-it-ec39cf5a0353)
+* [2025-02-04, 01:44:45](https://news.ycombinator.com/item?id=42926396) - [The evolution of annunciator signaling for telephones](https://www.calling315.com/annunicators)
 
 ## [Archives](archives/index.md)
 
