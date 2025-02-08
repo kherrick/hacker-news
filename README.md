@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-08, 14:48:25](https://news.ycombinator.com/item?id=42983275) - [We Are Destroying Software](https://antirez.com/news/145)
+* [2025-02-08, 14:45:49](https://news.ycombinator.com/item?id=42983262) - [The Mars Dream Is Back — Here’s How to Make It Actually Happen](https://www.thenewatlantis.com/publications/the-mars-dream-is-back-how-to-go)
 * [2025-02-08, 11:38:33](https://news.ycombinator.com/item?id=42982270) - [A tale of several distros joining forces for a common goal: reproducible builds](https://video.fosdem.org/2025/h1302/fosdem-2025-6479-a-tale-of-several-distros-joining-forces-for-a-common-goal-reproducible-builds.av1.webm)
 * [2025-02-08, 10:41:17](https://news.ycombinator.com/item?id=42982015) - [Generating Voronoi Diagrams Using Fortune's Algorithm (With Odin)](https://redpenguin101.github.io/html/posts/2025_01_21_voronoi.html)
 * [2025-02-08, 06:17:09](https://news.ycombinator.com/item?id=42980835) - [Turner, Bird, Eratosthenes: An eternal burning thread](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/turner-bird-eratosthenes-an-eternal-burning-thread/32E2EDF5D5EAEC95F13D313BC97B86F0)
