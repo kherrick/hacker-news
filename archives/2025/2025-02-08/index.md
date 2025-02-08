@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2025-02-08](index.md)
 
 * [2025-02-08, 22:00:21](https://news.ycombinator.com/item?id=42986558) - [Show HN: Turn Screenshots into Designs Instantly](https://getklippy.com)
+* [2025-02-08, 21:49:51](https://news.ycombinator.com/item?id=42986485) - [Is Software Abstraction Killing Civilization? (2021)](https://datagubbe.se/endofciv/)
 * [2025-02-08, 21:24:18](https://news.ycombinator.com/item?id=42986335) - [Mark Zuckerberg messages Facebook engineer](https://twitter.com/TechEmails/status/1888313183024074910)
+* [2025-02-08, 21:22:49](https://news.ycombinator.com/item?id=42986320) - [Jacksonpollock.org](https://jacksonpollock.org/)
 * [2025-02-08, 21:01:10](https://news.ycombinator.com/item?id=42986169) - [Keeling Labs (YC W23) Is Hiring an ML Engineer for Applied ML in the Grid](https://www.keelinglabs.com/jobs)
 * [2025-02-08, 20:03:23](https://news.ycombinator.com/item?id=42985749) - [Auto-Rewind for Daily Test (Apache NuttX RTOS)](https://lupyuen.org/articles/rewind.html)
 * [2025-02-08, 19:20:10](https://news.ycombinator.com/item?id=42985427) - [Tips for Mathematical Handwriting (2007)](https://johnkerl.org/doc/ortho/ortho.html)

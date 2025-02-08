@@ -6,6 +6,7 @@
 
 * [2025-02-05, 23:10:47](https://news.ycombinator.com/item?id=42956697) - [Fat Rand: How Many Lines Do You Need to Generate a Random Number?](https://lucumr.pocoo.org/2025/2/4/fat-rand/)
 * [2025-02-05, 22:46:59](https://news.ycombinator.com/item?id=42956455) - [Show HN: PulseBeam – Simplify WebRTC by Staying Serverless](https://github.com/PulseBeamDev/pulsebeam-js)
+* [2025-02-05, 22:30:08](https://news.ycombinator.com/item?id=42956261) - [I Applied Wavelet Transforms to AI and Found Hidden Structure](https://zenodo.org/records/14799070)
 * [2025-02-05, 21:42:20](https://news.ycombinator.com/item?id=42955613) - [Mt32-pi Developer calls it a day](https://github.com/dwhinham/mt32-pi/blob/075b52809e77420c6e80828825fe42430336b369/README.md)
 * [2025-02-05, 21:23:09](https://news.ycombinator.com/item?id=42955356) - [News from Scroll 5](https://scrollprize.substack.com/p/exciting-news-from-scroll-5)
 * [2025-02-05, 21:10:25](https://news.ycombinator.com/item?id=42955176) - [Okta Bcrypt incident lessons for designing better APIs](https://n0rdy.foo/posts/20250121/okta-bcrypt-lessons-for-better-apis/)
