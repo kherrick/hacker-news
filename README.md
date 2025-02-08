@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-08, 04:05:28](https://news.ycombinator.com/item?id=42980283) - [LINUX is obsolete (1992)](https://groups.google.com/g/comp.os.minix/c/wlhw16QWltI)
+* [2025-02-08, 04:04:58](https://news.ycombinator.com/item?id=42980278) - [The Coolest Amiga Setup](https://www.datagubbe.se/coolestamiga/)
 * [2025-02-08, 03:39:46](https://news.ycombinator.com/item?id=42980150) - [Docker Bake is now generally available](https://www.docker.com/blog/ga-launch-docker-bake/)
 * [2025-02-08, 03:26:57](https://news.ycombinator.com/item?id=42980097) - [Why gold loves arsenic (2021)](https://www.mining.com/why-gold-loves-arsenic/)
 * [2025-02-08, 03:13:20](https://news.ycombinator.com/item?id=42980038) - [Oral History of Andy Bechtolsheim (2015) [pdf]](http://archive.computerhistory.org/resources/access/text/2016/06/102737929-05-01-acc.pdf)
@@ -15,7 +16,6 @@
 * [2025-02-07, 16:46:47](https://news.ycombinator.com/item?id=42974728) - [Stop using zip codes for geospatial analysis (2019)](https://carto.com/blog/zip-codes-spatial-analysis)
 * [2025-02-07, 16:46:45](https://news.ycombinator.com/item?id=42974727) - [Radiation belts detected around Earth after solar storm](https://www.sciencealert.com/mysterious-radiation-belts-detected-around-earth-after-epic-solar-storm)
 * [2025-02-07, 16:23:50](https://news.ycombinator.com/item?id=42974461) - [Three-nanite: Unreal Nanite in Three.js](https://github.com/AIFanatic/three-nanite)
-* [2025-02-07, 16:18:14](https://news.ycombinator.com/item?id=42974378) - [Show HN: Transductive regular expressions for text editing](https://github.com/c0stya/trre)
 * [2025-02-07, 13:44:09](https://news.ycombinator.com/item?id=42972420) - [Procedural Hydrology: Dynamic lake and river simulation (2020)](https://nickmcd.me/2020/04/15/procedural-hydrology/)
 * [2025-02-07, 13:02:03](https://news.ycombinator.com/item?id=42972062) - [Asahi Linux lead developer Hector Martin resigns from Linux kernel](https://lkml.org/lkml/2025/2/7/9)
 * [2025-02-07, 07:45:05](https://news.ycombinator.com/item?id=42970412) - [U.K. orders Apple to let it spy on users' encrypted accounts](https://www.washingtonpost.com/technology/2025/02/07/apple-encryption-backdoor-uk/)

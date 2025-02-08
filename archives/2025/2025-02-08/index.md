@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-08](index.md)
 
 * [2025-02-08, 04:05:28](https://news.ycombinator.com/item?id=42980283) - [LINUX is obsolete (1992)](https://groups.google.com/g/comp.os.minix/c/wlhw16QWltI)
+* [2025-02-08, 04:04:58](https://news.ycombinator.com/item?id=42980278) - [The Coolest Amiga Setup](https://www.datagubbe.se/coolestamiga/)
 * [2025-02-08, 03:39:46](https://news.ycombinator.com/item?id=42980150) - [Docker Bake Is Now Generally Available](https://www.docker.com/blog/ga-launch-docker-bake/)
 * [2025-02-08, 03:26:57](https://news.ycombinator.com/item?id=42980097) - [Why gold loves arsenic (2021)](https://www.mining.com/why-gold-loves-arsenic/)
 * [2025-02-08, 03:13:20](https://news.ycombinator.com/item?id=42980038) - [Oral History of Andreas \"Andy\" Bechtolsheim (Sun, Granite, Kealia, Arista etc.) [pdf]](http://archive.computerhistory.org/resources/access/text/2016/06/102737929-05-01-acc.pdf)
