@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2025-02-07, 21:06:40",
-      "https://news.ycombinator.com/item?id=42977483"
-    ],
-    [
-      "Portland's exploding Liberty Bell (2020)",
-      "https://tomlovesthelibertybell.com/portlands-exploding-liberty-bell/"
-    ]
-  ],
-  [
-    [
       "2025-02-07, 21:00:03",
       "https://news.ycombinator.com/item?id=42977416"
     ],
@@ -127,16 +117,6 @@
     [
       "A brief history of code signing at Mozilla",
       "https://hearsum.ca/posts/history-of-code-signing-at-mozilla/"
-    ]
-  ],
-  [
-    [
-      "2025-02-07, 16:53:20",
-      "https://news.ycombinator.com/item?id=42974809"
-    ],
-    [
-      "The origins of 60-Hz as a power frequency",
-      "https://ieeexplore.ieee.org/document/628099"
     ]
   ],
   [
@@ -181,12 +161,32 @@
   ],
   [
     [
+      "2025-02-07, 13:44:09",
+      "https://news.ycombinator.com/item?id=42972420"
+    ],
+    [
+      "Procedural Hydrology: Dynamic lake and river simulation (2020)",
+      "https://nickmcd.me/2020/04/15/procedural-hydrology/"
+    ]
+  ],
+  [
+    [
       "2025-02-07, 13:02:03",
       "https://news.ycombinator.com/item?id=42972062"
     ],
     [
       "Asahi Linux lead developer Hector Martin resigns from Linux kernel",
       "https://lkml.org/lkml/2025/2/7/9"
+    ]
+  ],
+  [
+    [
+      "2025-02-07, 07:45:05",
+      "https://news.ycombinator.com/item?id=42970412"
+    ],
+    [
+      "U.K. orders Apple to let it spy on users' encrypted accounts",
+      "https://www.washingtonpost.com/technology/2025/02/07/apple-encryption-backdoor-uk/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-02-04, 09:06:23",
-      "https://news.ycombinator.com/item?id=42930023"
+      "2025-02-04, 01:44:45",
+      "https://news.ycombinator.com/item?id=42926396"
     ],
     [
-      "Show HN We launched our first digital product – hard lessons as Indie Developers",
-      "https://alt-generator.ai/"
+      "The evolution of annunciator signaling for telephones",
+      "https://www.calling315.com/annunicators"
     ]
   ]
 ]
