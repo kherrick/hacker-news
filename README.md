@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-09, 14:52:54](https://news.ycombinator.com/item?id=42991019) - [Kanata: Cross-platform multi-layer keyboard remapper with advanced customization](https://github.com/jtroo/kanata)
+* [2025-02-09, 14:50:11](https://news.ycombinator.com/item?id=42991006) - [Hard disk fraud: long runtimes on new Seagate hard disks](https://www.heise.de/en/news/Hard-disk-fraud-Increasing-evidence-of-origin-in-China-10269059.html)
 * [2025-02-09, 14:16:40](https://news.ycombinator.com/item?id=42990819) - [Baffled by generational garbage collection – wingolog](https://wingolog.org/archives/2025/02/09/baffled-by-generational-garbage-collection)
 * [2025-02-09, 13:49:13](https://news.ycombinator.com/item?id=42990662) - [Definancialization / Hyperfinancialization](https://mylessnider.com/articles/definancialization-hyperfinancialization)
 * [2025-02-09, 13:28:10](https://news.ycombinator.com/item?id=42990540) - [Show HN: My first side project, streamlined book clubs on Slack](https://booktalk.club/)
@@ -20,7 +22,6 @@
 * [2025-02-08, 19:09:21](https://news.ycombinator.com/item?id=42985342) - [Rwandan scientists develop local yeast for banana wine-makers](https://phys.org/news/2025-01-rwandan-scientists-local-yeast-banana.html)
 * [2025-02-08, 17:25:03](https://news.ycombinator.com/item?id=42984457) - [Writing a simple windows driver in Rust](https://scorpiosoftware.net/2025/02/08/writing-a-simple-driver-in-rust/)
 * [2025-02-08, 15:47:36](https://news.ycombinator.com/item?id=42983699) - [The Deck: An open-source cross-platform multiplayer card game engine in Flutter](https://github.com/xajik/thedeck)
-* [2025-02-08, 14:48:25](https://news.ycombinator.com/item?id=42983275) - [We are destroying software](https://antirez.com/news/145)
 * [2025-02-07, 22:23:31](https://news.ycombinator.com/item?id=42978199) - [Obscure islands I find interesting](https://amanvir.com/obscure-islands)
 * [2025-02-07, 19:48:16](https://news.ycombinator.com/item?id=42976698) - [Do-nothing scripting: the key to gradual automation (2019)](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/)
 * [2025-02-07, 17:55:40](https://news.ycombinator.com/item?id=42975492) - [Cities can cost effectively start their own utilities](https://kevin.burke.dev/kevin/norcal-cities-new-utility/)
@@ -28,7 +29,6 @@
 * [2025-02-06, 15:42:23](https://news.ycombinator.com/item?id=42963414) - [Antimony Atoms Function as Error-Resistant Qubits](https://spectrum.ieee.org/quantum-error)
 * [2025-02-06, 12:52:52](https://news.ycombinator.com/item?id=42961855) - [Cell-Based Architecture Explained, with Zombies](https://bencane.com/cell-based-architecture-explained-with-zombies-f5e814d3e5d2)
 * [2025-02-05, 15:40:27](https://news.ycombinator.com/item?id=42950059) - [3D reconstruction of the capital of the Aztec empire](https://tenochtitlan.thomaskole.nl/)
-* [2025-02-05, 14:02:43](https://news.ycombinator.com/item?id=42948590) - [Post-Processing Shaders as a Creative Medium](https://blog.maximeheckel.com/posts/post-processing-as-a-creative-medium/)
 * [2025-02-05, 09:48:30](https://news.ycombinator.com/item?id=42946270) - [Go Data Structures: Interfaces (2009)](https://research.swtch.com/interfaces)
 
 ## [Archives](archives/index.md)
