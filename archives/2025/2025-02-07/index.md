@@ -82,6 +82,7 @@
 * [2025-02-07, 04:16:49](https://news.ycombinator.com/item?id=42969322) - [A whirlwind tutorial on creating teensy ELF executables for Linux (1999)](https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html)
 * [2025-02-07, 04:09:03](https://news.ycombinator.com/item?id=42969272) - [Mad at Meta? Don't Let Them Collect and Monetize Your Personal Data](https://www.eff.org/deeplinks/2025/01/mad-meta-dont-let-them-collect-and-monetize-your-personal-data)
 * [2025-02-07, 03:43:46](https://news.ycombinator.com/item?id=42969126) - [Tesla Is Alienating the People It Needs Most: Study](https://insideevs.com/news/749741/tesla-ev-buyers-favorability-rating/)
+* [2025-02-07, 03:40:07](https://news.ycombinator.com/item?id=42969100) - [The LLM Curve of Impact on Software Engineers](https://serce.me/posts/2025-02-07-the-llm-curve-of-impact-on-software-engineers)
 * [2025-02-07, 03:24:34](https://news.ycombinator.com/item?id=42968995) - [Andreessen Horowitz Defends Hiring of Daniel Penny to Its Investors](https://www.nytimes.com/2025/02/05/technology/daniel-penny-andreessen-horowitz-investors.html)
 * [2025-02-07, 03:11:56](https://news.ycombinator.com/item?id=42968858) - [Easy 6502](https://skilldrick.github.io/easy6502/)
 * [2025-02-07, 02:44:09](https://news.ycombinator.com/item?id=42968700) - [Robust Autonomy Emerges from Self-Play](https://arxiv.org/abs/2502.03349)
