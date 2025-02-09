@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-09, 17:02:06](https://news.ycombinator.com/item?id=42991859) - [Infisical (YC W23) Is Hiring Full Stack Engineers (US and Canada)](https://www.ycombinator.com/companies/infisical/jobs/ZHPybgI-full-stack-engineer)
 * [2025-02-09, 16:33:28](https://news.ycombinator.com/item?id=42991676) - [LIMO: Less Is More for Reasoning](https://arxiv.org/abs/2502.03387)
 * [2025-02-09, 14:52:54](https://news.ycombinator.com/item?id=42991019) - [Kanata: Cross-platform multi-layer keyboard remapper with advanced customization](https://github.com/jtroo/kanata)
 * [2025-02-09, 14:50:11](https://news.ycombinator.com/item?id=42991006) - [Hard disk fraud: long runtimes on new Seagate hard disks](https://www.heise.de/en/news/Hard-disk-fraud-Increasing-evidence-of-origin-in-China-10269059.html)
@@ -16,7 +15,6 @@
 * [2025-02-09, 08:54:37](https://news.ycombinator.com/item?id=42989419) - [Mathematics in the 20th century, by Michael Atiyah [pdf] (2002)](https://marktomforde.com/academic/miscellaneous/images/atiyah20thcentury.pdf)
 * [2025-02-09, 08:24:17](https://news.ycombinator.com/item?id=42989320) - [Modern-Day Oracles or Bullshit Machines](https://thebullshitmachines.com)
 * [2025-02-09, 06:42:10](https://news.ycombinator.com/item?id=42988946) - [Show HN: Daily-notes.nvim – fuzzy time journal and planning plugin](https://github.com/fdavies93/daily-notes.nvim)
-* [2025-02-09, 03:54:04](https://news.ycombinator.com/item?id=42988303) - [Brain Hyperconnectivity in Children with Autism and Its Links to Social Deficits (2013)](https://www.cell.com/cell-reports/fulltext/S2211-1247(13)00570-6)
 * [2025-02-09, 01:20:04](https://news.ycombinator.com/item?id=42987646) - [Emergence of collective oscillations in human crowds](https://www.nature.com/articles/s41586-024-08514-6)
 * [2025-02-08, 21:22:49](https://news.ycombinator.com/item?id=42986320) - [Jacksonpollock.org (2003)](https://jacksonpollock.org/)
 * [2025-02-08, 19:20:10](https://news.ycombinator.com/item?id=42985427) - [Tips for mathematical handwriting (2007)](https://johnkerl.org/doc/ortho/ortho.html)
@@ -30,6 +28,8 @@
 * [2025-02-06, 12:52:52](https://news.ycombinator.com/item?id=42961855) - [Cell-Based Architecture Explained, with Zombies](https://bencane.com/cell-based-architecture-explained-with-zombies-f5e814d3e5d2)
 * [2025-02-06, 12:02:18](https://news.ycombinator.com/item?id=42961572) - [HTML Kaleidoscope](https://codepen.io/AAMutlu20/pen/mdYxroj)
 * [2025-02-05, 15:40:27](https://news.ycombinator.com/item?id=42950059) - [3D reconstruction of the capital of the Aztec empire](https://tenochtitlan.thomaskole.nl/)
+* [2025-02-05, 14:02:43](https://news.ycombinator.com/item?id=42948590) - [Post-Processing Shaders as a Creative Medium](https://blog.maximeheckel.com/posts/post-processing-as-a-creative-medium/)
+* [2025-02-05, 09:48:30](https://news.ycombinator.com/item?id=42946270) - [Go Data Structures: Interfaces (2009)](https://research.swtch.com/interfaces)
 
 ## [Archives](archives/index.md)
 
