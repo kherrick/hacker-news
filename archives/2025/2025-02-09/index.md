@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-09](index.md)
 
+* [2025-02-09, 21:58:52](https://news.ycombinator.com/item?id=42994505) - [Google Pay Study Finds It Underpaid Men for Some Jobs (2019)](https://www.npr.org/2019/03/05/700288695/google-pay-study-finds-its-underpaying-men-for-some-jobs)
 * [2025-02-09, 21:52:33](https://news.ycombinator.com/item?id=42994440) - [Show HN: Searchable Library of Free Audiobooks](https://booksearch.party/)
 * [2025-02-09, 21:36:10](https://news.ycombinator.com/item?id=42994281) - [Keir Starmer appoints Jeff Bezos as his \"first buddy\"](https://pluralistic.net/2025/01/22/autocrats-of-trade/)
 * [2025-02-09, 21:08:45](https://news.ycombinator.com/item?id=42994006) - [Artifical ballot generation script by DOGE Engineer Ethan Shaotran](https://github.com/DevrathIyer/ballotproof/blob/master/generate.py)
