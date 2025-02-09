@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-09, 03:54:04](https://news.ycombinator.com/item?id=42988303) - [Brain Hyperconnectivity in Children with Autism and Its Links to Social Deficits](https://www.cell.com/cell-reports/fulltext/S2211-1247(13)00570-6)
+* [2025-02-09, 03:54:04](https://news.ycombinator.com/item?id=42988303) - [Brain Hyperconnectivity in Children with Autism and Its Links to Social Deficits (2013)](https://www.cell.com/cell-reports/fulltext/S2211-1247(13)00570-6)
 * [2025-02-09, 03:18:32](https://news.ycombinator.com/item?id=42988158) - [Retaking the web browser, one small step at a time](https://andregarzia.com/2025/02/retaking-the-web-browser-one-small-step-at-a-time.html)
+* [2025-02-08, 21:49:51](https://news.ycombinator.com/item?id=42986485) - [Is software abstraction killing civilization? (2021)](https://datagubbe.se/endofciv/)
 * [2025-02-08, 21:22:49](https://news.ycombinator.com/item?id=42986320) - [Jacksonpollock.org (2003)](https://jacksonpollock.org/)
 * [2025-02-08, 21:01:10](https://news.ycombinator.com/item?id=42986169) - [Keeling Labs (YC W23) Is Hiring an ML Engineer for Applied ML in the Grid](https://www.keelinglabs.com/jobs)
 * [2025-02-08, 20:58:17](https://news.ycombinator.com/item?id=42986149) - [Ada Gems (2014)](https://www.adacore.com/gems)
@@ -17,7 +18,6 @@
 * [2025-02-07, 22:23:31](https://news.ycombinator.com/item?id=42978199) - [Obscure islands I find interesting](https://amanvir.com/obscure-islands)
 * [2025-02-07, 19:48:16](https://news.ycombinator.com/item?id=42976698) - [Do-nothing scripting: the key to gradual automation (2019)](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/)
 * [2025-02-07, 17:55:40](https://news.ycombinator.com/item?id=42975492) - [Cities can cost effectively start their own utilities](https://kevin.burke.dev/kevin/norcal-cities-new-utility/)
-* [2025-02-07, 04:16:49](https://news.ycombinator.com/item?id=42969322) - [A whirlwind tutorial on creating teensy ELF executables for Linux (1999)](https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html)
 * [2025-02-06, 09:34:18](https://news.ycombinator.com/item?id=42960684) - [Origami by Meenakshi](https://origamee.net/)
 * [2025-02-06, 07:43:07](https://news.ycombinator.com/item?id=42960068) - [In the trenches: on being an Engineering Manager](https://blog.digital-horror.com/blog/in-the-trenches-what-it-means-to-be-an-engineering-manager/)
 * [2025-02-06, 03:10:56](https://news.ycombinator.com/item?id=42958542) - [Versioning versus Coordination](https://brooker.co.za/blog/2025/02/04/versioning.html)
