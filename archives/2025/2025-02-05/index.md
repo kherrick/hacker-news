@@ -50,6 +50,7 @@
 * [2025-02-05, 14:37:02](https://news.ycombinator.com/item?id=42949019) - [Show HN: Matle – A Daily Chess Puzzle Inspired by Wordle](https://www.matle.io/)
 * [2025-02-05, 14:20:52](https://news.ycombinator.com/item?id=42948807) - [Scientists solve the mystery of sea turtles' 'lost years'](https://phys.org/news/2025-02-scientists-mystery-sea-turtles-lost.html)
 * [2025-02-05, 14:06:44](https://news.ycombinator.com/item?id=42948642) - [Complex Systems and Quantitative Mereology](https://abeljansma.nl/2025/01/28/mereoPhysics.html)
+* [2025-02-05, 14:02:43](https://news.ycombinator.com/item?id=42948590) - [Post-Processing Shaders as a Creative Medium](https://blog.maximeheckel.com/posts/post-processing-as-a-creative-medium/)
 * [2025-02-05, 13:44:26](https://news.ycombinator.com/item?id=42948373) - [F-Droid Awarded Open Technology Fund's FOSS Sustainability Grant](https://f-droid.org/2025/02/05/f-droid-awarded-otf-grant.html)
 * [2025-02-05, 13:36:08](https://news.ycombinator.com/item?id=42948259) - [Personal Software](https://leerob.com/n/personal-software)
 * [2025-02-05, 13:08:40](https://news.ycombinator.com/item?id=42947973) - [Elastic Binary Trees (2011)](http://wtarreau.blogspot.com/2011/12/elastic-binary-trees-ebtree.html)
