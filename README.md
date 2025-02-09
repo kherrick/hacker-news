@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-09, 16:44:03](https://news.ycombinator.com/item?id=42991750) - [CFPB 404: Page not found](https://www.consumerfinance.gov/)
+* [2025-02-09, 17:02:06](https://news.ycombinator.com/item?id=42991859) - [Infisical (YC W23) Is Hiring Full Stack Engineers (US and Canada)](https://www.ycombinator.com/companies/infisical/jobs/ZHPybgI-full-stack-engineer)
 * [2025-02-09, 14:52:54](https://news.ycombinator.com/item?id=42991019) - [Kanata: Cross-platform multi-layer keyboard remapper with advanced customization](https://github.com/jtroo/kanata)
 * [2025-02-09, 14:50:11](https://news.ycombinator.com/item?id=42991006) - [Hard disk fraud: long runtimes on new Seagate hard disks](https://www.heise.de/en/news/Hard-disk-fraud-Increasing-evidence-of-origin-in-China-10269059.html)
 * [2025-02-09, 14:38:52](https://news.ycombinator.com/item?id=42990948) - [How (not) to sign a JSON object (2019)](https://www.latacora.com/blog/2019/07/24/how-not-to/)
