@@ -41,6 +41,7 @@
 * [2025-02-05, 15:40:57](https://news.ycombinator.com/item?id=42950066) - [Prediction Games](https://www.argmin.net/p/prediction-games)
 * [2025-02-05, 15:38:21](https://news.ycombinator.com/item?id=42950016) - [OpenWISP: Multi-device fleet management for OpenWrt routers](https://openwisp.org)
 * [2025-02-05, 15:25:31](https://news.ycombinator.com/item?id=42949784) - [FBI turns over details of 5000 employees who worked on January 6 cases](https://www.cnn.com/2025/02/04/politics/fbi-employees-tuesday/index.html)
+* [2025-02-05, 15:17:00](https://news.ycombinator.com/item?id=42949631) - [Who Is Being Excluded by Museums' Wholesale Adoption of Digital Technology?](https://amuseumfornow.com/blog/who-is-being-excluded-by-museums-wholesale-adoption-of-digital-technology)
 * [2025-02-05, 15:03:09](https://news.ycombinator.com/item?id=42949390) - [Servo in 2024: stats, features and donations](https://servo.org/blog/2025/01/31/servo-in-2024/)
 * [2025-02-05, 14:55:03](https://news.ycombinator.com/item?id=42949277) - [Avoiding Outrage Fatigue While Staying Informed](https://www.scientificamerican.com/podcast/episode/how-to-avoid-outrage-fatigue-and-tune-in-without-burning-out/)
 * [2025-02-05, 14:51:53](https://news.ycombinator.com/item?id=42949232) - [The familiar loneliness of the Kinetoscope](https://resobscura.substack.com/p/the-familiar-loneliness-of-the-kinetoscope)

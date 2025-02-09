@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-08, 22:08:07](https://news.ycombinator.com/item?id=42986613) - [Deep Fake Detector Extension by Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/deep-fake-detector/)
 * [2025-02-08, 22:00:21](https://news.ycombinator.com/item?id=42986558) - [Show HN: Turn Screenshots into Designs Instantly](https://getklippy.com)
 * [2025-02-08, 21:49:51](https://news.ycombinator.com/item?id=42986485) - [Is Software Abstraction Killing Civilization? (2021)](https://datagubbe.se/endofciv/)
 * [2025-02-08, 21:22:49](https://news.ycombinator.com/item?id=42986320) - [Jacksonpollock.org](https://jacksonpollock.org/)
@@ -9,7 +10,6 @@
 * [2025-02-08, 18:24:39](https://news.ycombinator.com/item?id=42984962) - [Show HN: Chez Scheme txtar port from Go](https://git.sr.ht/~egtann/txtar/)
 * [2025-02-08, 17:25:03](https://news.ycombinator.com/item?id=42984457) - [Writing a Simple Windows Driver in Rust](https://scorpiosoftware.net/2025/02/08/writing-a-simple-driver-in-rust/)
 * [2025-02-08, 17:19:23](https://news.ycombinator.com/item?id=42984420) - [Show HN: FlashSpace – fast, open-source, macOS Spaces replacement](https://github.com/wojciech-kulik/FlashSpace)
-* [2025-02-08, 15:51:06](https://news.ycombinator.com/item?id=42983733) - [Carbon is not a programming language (sort of)](https://herecomesthemoon.net/2025/02/carbon-is-not-a-language/)
 * [2025-02-08, 15:47:36](https://news.ycombinator.com/item?id=42983699) - [The Deck: An open-source cross-platform multiplayer card game engine in Flutter](https://github.com/xajik/thedeck)
 * [2025-02-08, 14:48:25](https://news.ycombinator.com/item?id=42983275) - [We are destroying software](https://antirez.com/news/145)
 * [2025-02-08, 11:38:33](https://news.ycombinator.com/item?id=42982270) - [A tale of several distros joining forces for a common goal: reproducible builds](https://video.fosdem.org/2025/h1302/fosdem-2025-6479-a-tale-of-several-distros-joining-forces-for-a-common-goal-reproducible-builds.av1.webm)
@@ -27,9 +27,9 @@
 * [2025-02-05, 17:12:50](https://news.ycombinator.com/item?id=42951744) - [First glimpse inside burnt scroll after 2k years](https://www.bbc.co.uk/news/articles/c5yvrq7dyg6o)
 * [2025-02-05, 16:33:55](https://news.ycombinator.com/item?id=42950976) - [Are LLMs able to notice the “gorilla in the data”?](https://chiraaggohel.com/posts/llms-eda/)
 * [2025-02-05, 15:45:30](https://news.ycombinator.com/item?id=42950156) - [You're missing your near misses](https://surfingcomplexity.blog/2025/02/01/youre-missing-your-near-misses/)
+* [2025-02-05, 15:17:00](https://news.ycombinator.com/item?id=42949631) - [Who Is Being Excluded by Museums' Wholesale Adoption of Digital Technology?](https://amuseumfornow.com/blog/who-is-being-excluded-by-museums-wholesale-adoption-of-digital-technology)
 * [2025-02-05, 09:55:11](https://news.ycombinator.com/item?id=42946321) - [21st Century C++ (Feb. 2025) by Bjarne Stroustrup](https://cacm.acm.org/blogcacm/21st-century-c/)
 * [2025-02-05, 09:43:48](https://news.ycombinator.com/item?id=42946223) - [RISC-V Mainboard for Framework Laptop 13 is now available](https://frame.work/gb/en/blog/risc-v-mainboard-for-framework-laptop-13-is-now-available)
-* [2025-02-05, 07:11:41](https://news.ycombinator.com/item?id=42944975) - [Inventing the Commons: On Alternative Technologies](https://www.guernicamag.com/inventing-the-commons-on-alternative-technologies/)
 
 ## [Archives](archives/index.md)
 
