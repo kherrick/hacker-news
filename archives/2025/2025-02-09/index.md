@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-09](index.md)
 
 * [2025-02-09, 18:59:12](https://news.ycombinator.com/item?id=42992729) - [Daily omega-3 fatty acids may help human organs stay young](https://medicalxpress.com/news/2025-02-daily-omega-fatty-acids-human.html)
+* [2025-02-09, 18:49:06](https://news.ycombinator.com/item?id=42992643) - [Aidemos by Meta](https://aidemos.meta.com/)
 * [2025-02-09, 18:18:09](https://news.ycombinator.com/item?id=42992365) - [The \"Need for Chaos\" Voter](https://www.forkingpaths.co/p/the-need-for-chaos-voter-a68)
 * [2025-02-09, 18:15:44](https://news.ycombinator.com/item?id=42992345) - [Persistent packages on Steam Deck using Nix](https://chrastecky.dev/gaming/persistent-packages-on-steam-deck-using-nix)
 * [2025-02-09, 18:14:01](https://news.ycombinator.com/item?id=42992336) - [PhD Knowledge Not Required: A Reasoning Challenge for Large Language Models](https://arxiv.org/abs/2502.01584)
