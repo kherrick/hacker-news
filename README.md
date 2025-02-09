@@ -25,7 +25,7 @@
 * [2025-02-06, 01:32:54](https://news.ycombinator.com/item?id=42957864) - [Sand trafficking in Latin America](https://insightcrime.org/news/the-mafias-behind-sand-trafficking-in-latin-america/)
 * [2025-02-06, 00:26:32](https://news.ycombinator.com/item?id=42957395) - [From hours to 360ms: over-engineering a puzzle solution](https://blog.danielh.cc/blog/puzzle)
 * [2025-02-05, 17:12:50](https://news.ycombinator.com/item?id=42951744) - [First glimpse inside burnt scroll after 2k years](https://www.bbc.co.uk/news/articles/c5yvrq7dyg6o)
-* [2025-02-05, 16:33:55](https://news.ycombinator.com/item?id=42950976) - [Are LLMs able to notice the “gorilla in the data”?](https://chiraaggohel.com/posts/llms-eda/)
+* [2025-02-05, 15:45:30](https://news.ycombinator.com/item?id=42950156) - [You're missing your near misses](https://surfingcomplexity.blog/2025/02/01/youre-missing-your-near-misses/)
 * [2025-02-05, 14:20:52](https://news.ycombinator.com/item?id=42948807) - [Scientists solve the mystery of sea turtles' 'lost years'](https://phys.org/news/2025-02-scientists-mystery-sea-turtles-lost.html)
 * [2025-02-05, 14:02:43](https://news.ycombinator.com/item?id=42948590) - [Post-Processing Shaders as a Creative Medium](https://blog.maximeheckel.com/posts/post-processing-as-a-creative-medium/)
 * [2025-02-05, 09:55:11](https://news.ycombinator.com/item?id=42946321) - [21st Century C++](https://cacm.acm.org/blogcacm/21st-century-c/)
