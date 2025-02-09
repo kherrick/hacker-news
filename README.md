@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-09, 03:07:31](https://news.ycombinator.com/item?id=42988109) - [Boeing has informed its employees that NASA may cancel SLS contracts](https://arstechnica.com/space/2025/02/boeing-has-informed-its-employees-that-nasa-may-cancel-sls-contracts/)
 * [2025-02-08, 22:08:07](https://news.ycombinator.com/item?id=42986613) - [Deep Fake Detector Extension by Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/deep-fake-detector/)
 * [2025-02-08, 21:49:51](https://news.ycombinator.com/item?id=42986485) - [Is software abstraction killing civilization? (2021)](https://datagubbe.se/endofciv/)
 * [2025-02-08, 21:22:49](https://news.ycombinator.com/item?id=42986320) - [Jacksonpollock.org](https://jacksonpollock.org/)
@@ -22,8 +23,7 @@
 * [2025-02-06, 09:34:18](https://news.ycombinator.com/item?id=42960684) - [Origami by Meenakshi](https://origamee.net/)
 * [2025-02-06, 07:01:26](https://news.ycombinator.com/item?id=42959841) - [Hotline for modern Apple systems](https://github.com/mierau/hotline)
 * [2025-02-06, 03:10:56](https://news.ycombinator.com/item?id=42958542) - [Versioning versus Coordination](https://brooker.co.za/blog/2025/02/04/versioning.html)
-* [2025-02-06, 01:32:54](https://news.ycombinator.com/item?id=42957864) - [The Mafias Behind Sand Trafficking in Latin America](https://insightcrime.org/news/the-mafias-behind-sand-trafficking-in-latin-america/)
-* [2025-02-06, 01:23:48](https://news.ycombinator.com/item?id=42957799) - [How to GIF (2025 Edition)](https://fullystacked.net/how-to-gif-2025/)
+* [2025-02-06, 01:32:54](https://news.ycombinator.com/item?id=42957864) - [Sand trafficking in Latin America](https://insightcrime.org/news/the-mafias-behind-sand-trafficking-in-latin-america/)
 * [2025-02-06, 00:26:32](https://news.ycombinator.com/item?id=42957395) - [From hours to 360ms: over-engineering a puzzle solution](https://blog.danielh.cc/blog/puzzle)
 * [2025-02-05, 17:12:50](https://news.ycombinator.com/item?id=42951744) - [First glimpse inside burnt scroll after 2k years](https://www.bbc.co.uk/news/articles/c5yvrq7dyg6o)
 * [2025-02-05, 16:33:55](https://news.ycombinator.com/item?id=42950976) - [Are LLMs able to notice the “gorilla in the data”?](https://chiraaggohel.com/posts/llms-eda/)
