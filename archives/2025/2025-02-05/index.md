@@ -39,6 +39,7 @@
 * [2025-02-05, 16:03:18](https://news.ycombinator.com/item?id=42950454) - [Gemini 2.0 is now available to everyone](https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/)
 * [2025-02-05, 15:45:30](https://news.ycombinator.com/item?id=42950156) - [You're missing your near misses](https://surfingcomplexity.blog/2025/02/01/youre-missing-your-near-misses/)
 * [2025-02-05, 15:40:57](https://news.ycombinator.com/item?id=42950066) - [Prediction Games](https://www.argmin.net/p/prediction-games)
+* [2025-02-05, 15:40:27](https://news.ycombinator.com/item?id=42950059) - [3D reconstruction of the capital of the Aztec empire](https://tenochtitlan.thomaskole.nl/)
 * [2025-02-05, 15:38:21](https://news.ycombinator.com/item?id=42950016) - [OpenWISP: Multi-device fleet management for OpenWrt routers](https://openwisp.org)
 * [2025-02-05, 15:25:31](https://news.ycombinator.com/item?id=42949784) - [FBI turns over details of 5000 employees who worked on January 6 cases](https://www.cnn.com/2025/02/04/politics/fbi-employees-tuesday/index.html)
 * [2025-02-05, 15:17:00](https://news.ycombinator.com/item?id=42949631) - [Who Is Being Excluded by Museums' Wholesale Adoption of Digital Technology?](https://amuseumfornow.com/blog/who-is-being-excluded-by-museums-wholesale-adoption-of-digital-technology)
