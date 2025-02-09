@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-02-09](index.md)
 
+* [2025-02-09, 20:34:56](https://news.ycombinator.com/item?id=42993661) - [Music Generation AI Models](https://www.maximepeabody.com/blog/music-ai-models)
 * [2025-02-09, 19:37:38](https://news.ycombinator.com/item?id=42993086) - [Ada crate of the year 2024 announced](https://blog.adacore.com/ada-spark-crate-of-the-year-2024-winners-announced)
 * [2025-02-09, 19:32:57](https://news.ycombinator.com/item?id=42993044) - [OpenStreetMap Calendar](https://osmcal.org/)
+* [2025-02-09, 19:18:50](https://news.ycombinator.com/item?id=42992913) - [PostgreSQL Best Practices](https://speakdatascience.com/postgresql-best-practices/)
 * [2025-02-09, 19:06:19](https://news.ycombinator.com/item?id=42992783) - [Intel ruined an Israeli startup it bought for $2B–and lost the AI race](https://www.calcalistech.com/ctechnews/article/s1tra0sfye)
 * [2025-02-09, 18:59:12](https://news.ycombinator.com/item?id=42992729) - [Daily omega-3 fatty acids may help human organs stay young](https://medicalxpress.com/news/2025-02-daily-omega-fatty-acids-human.html)
 * [2025-02-09, 18:49:06](https://news.ycombinator.com/item?id=42992643) - [Aidemos by Meta](https://aidemos.meta.com/)
