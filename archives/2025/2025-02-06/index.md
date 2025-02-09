@@ -15,6 +15,7 @@
 * [2025-02-06, 20:54:10](https://news.ycombinator.com/item?id=42966402) - [The Inevitability of the Borrow Checker](https://yorickpeterse.com/articles/the-inevitability-of-the-borrow-checker/)
 * [2025-02-06, 20:02:03](https://news.ycombinator.com/item?id=42965954) - [R1 Computer Use](https://github.com/agentsea/r1-computer-use)
 * [2025-02-06, 19:27:37](https://news.ycombinator.com/item?id=42965627) - [Perpetual Stew](https://en.wikipedia.org/wiki/Perpetual_stew)
+* [2025-02-06, 19:13:34](https://news.ycombinator.com/item?id=42965499) - [Grafana: Why observability needs FinOps, and vice versa](https://grafana.com/blog/2025/02/06/why-observability-needs-finops-and-vice-versa-the-vantage-integration-with-grafana-cloud/)
 * [2025-02-06, 19:03:50](https://news.ycombinator.com/item?id=42965404) - [Microsoft Go 1.24 FIPS changes](https://devblogs.microsoft.com/go/go-1-24-fips-update/)
 * [2025-02-06, 18:48:05](https://news.ycombinator.com/item?id=42965267) - [Self-hosted, simple web browser service – send URL, get screenshots](https://github.com/US-Artificial-Intelligence/scraper)
 * [2025-02-06, 18:40:30](https://news.ycombinator.com/item?id=42965198) - [SQLite Disk Page Explorer](https://github.com/QuadrupleA/sqlite-page-explorer)
