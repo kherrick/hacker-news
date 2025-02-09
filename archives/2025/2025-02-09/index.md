@@ -6,11 +6,13 @@
 
 * [2025-02-09, 21:58:52](https://news.ycombinator.com/item?id=42994505) - [Google Pay Study Finds It Underpaid Men for Some Jobs (2019)](https://www.npr.org/2019/03/05/700288695/google-pay-study-finds-its-underpaying-men-for-some-jobs)
 * [2025-02-09, 21:52:33](https://news.ycombinator.com/item?id=42994440) - [Show HN: Searchable Library of Free Audiobooks](https://booksearch.party/)
+* [2025-02-09, 21:37:38](https://news.ycombinator.com/item?id=42994293) - [Analysis of 2024 Election Results in Clark County Indicates Manipulation](https://www.wcia.com/business/press-releases/ein-presswire/776992724/analysis-of-2024-election-results-in-clark-county-indicates-manipulation/)
 * [2025-02-09, 21:36:10](https://news.ycombinator.com/item?id=42994281) - [Keir Starmer appoints Jeff Bezos as his \"first buddy\"](https://pluralistic.net/2025/01/22/autocrats-of-trade/)
 * [2025-02-09, 21:08:45](https://news.ycombinator.com/item?id=42994006) - [Artifical ballot generation script by DOGE Engineer Ethan Shaotran](https://github.com/DevrathIyer/ballotproof/blob/master/generate.py)
 * [2025-02-09, 21:06:55](https://news.ycombinator.com/item?id=42993987) - [Three Observations](https://blog.samaltman.com/three-observations)
 * [2025-02-09, 20:44:09](https://news.ycombinator.com/item?id=42993755) - [The Recombobulation Area](https://onmilwaukee.com/articles/recombobulationsigns)
 * [2025-02-09, 20:34:56](https://news.ycombinator.com/item?id=42993661) - [Music Generation AI Models](https://www.maximepeabody.com/blog/music-ai-models)
+* [2025-02-09, 20:17:41](https://news.ycombinator.com/item?id=42993490) - [No AI December Reflections](https://blog.rybarix.com/2025/02/09/noaidecember.html)
 * [2025-02-09, 20:00:02](https://news.ycombinator.com/item?id=42993305) - [The Differences Between Direct Alignment Algorithms Are a Blur](https://arxiv.org/abs/2502.01237)
 * [2025-02-09, 19:37:38](https://news.ycombinator.com/item?id=42993086) - [Ada crate of the year 2024 announced](https://blog.adacore.com/ada-spark-crate-of-the-year-2024-winners-announced)
 * [2025-02-09, 19:32:57](https://news.ycombinator.com/item?id=42993044) - [OpenStreetMap Calendar](https://osmcal.org/)
