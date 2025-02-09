@@ -6,6 +6,7 @@
 
 * [2025-02-09, 11:39:43](https://news.ycombinator.com/item?id=42990037) - [Things USAID has funded [video]](https://www.youtube.com/watch?v=Pdw31c6HPCI)
 * [2025-02-09, 11:39:38](https://news.ycombinator.com/item?id=42990036) - [Classic Data science pipelines built with LLMs](https://github.com/Pravko-Solutions/FlashLearn/tree/main/examples)
+* [2025-02-09, 11:29:35](https://news.ycombinator.com/item?id=42990000) - [Dear Mr. Vice President, Please Take Off Your Apple Watch](https://www.watchesofespionage.com/blogs/woe-dispatch/vice-president-jd-vance-apple-watch-smartwatch-intelligence-risks)
 * [2025-02-09, 10:15:20](https://news.ycombinator.com/item?id=42989747) - [ZeroTier – home VPN without a public IP address](https://blog.tomaszdunia.pl/zerotier-eng/)
 * [2025-02-09, 09:50:35](https://news.ycombinator.com/item?id=42989628) - [RetroFab: Playable 3D simulations of vintage electronic games](https://itizso.itch.io/retrofab)
 * [2025-02-09, 09:45:57](https://news.ycombinator.com/item?id=42989609) - [Chimes at Midnight](https://asteriskmag.com/issues/08/chimes-at-midnight)
