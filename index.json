@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-09, 12:42:54",
+      "https://news.ycombinator.com/item?id=42990324"
+    ],
+    [
+      "Don't \"optimize\" conditional moves in shaders with mix()+step()",
+      "https://iquilezles.org/articles/gpuconditionals/"
+    ]
+  ],
+  [
+    [
       "2025-02-09, 11:39:38",
       "https://news.ycombinator.com/item?id=42990036"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2025-02-09, 11:29:35",
-      "https://news.ycombinator.com/item?id=42990000"
+      "2025-02-09, 11:07:52",
+      "https://news.ycombinator.com/item?id=42989923"
     ],
     [
-      "Dear Mr. Vice President, Please Take Off Your Apple Watch",
-      "https://www.watchesofespionage.com/blogs/woe-dispatch/vice-president-jd-vance-apple-watch-smartwatch-intelligence-risks"
+      "Linux as co-operative Windows process",
+      "http://www.colinux.org/"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "We are destroying software",
       "https://antirez.com/news/145"
-    ]
-  ],
-  [
-    [
-      "2025-02-08, 10:41:17",
-      "https://news.ycombinator.com/item?id=42982015"
-    ],
-    [
-      "Generating Voronoi diagrams using Fortune's algorithm",
-      "https://redpenguin101.github.io/html/posts/2025_01_21_voronoi.html"
     ]
   ],
   [
