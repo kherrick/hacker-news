@@ -68,6 +68,7 @@
 * [2025-02-05, 10:38:05](https://news.ycombinator.com/item?id=42946632) - [America's \"First Car-Free Neighborhood\" Is Going Pretty Good, Actually?](https://www.dwell.com/article/culdesac-tempe-car-free-neighborhood-resident-experience-8a14ebc7)
 * [2025-02-05, 09:55:11](https://news.ycombinator.com/item?id=42946321) - [21st Century C++ (Feb. 2025) by Bjarne Stroustrup](https://cacm.acm.org/blogcacm/21st-century-c/)
 * [2025-02-05, 09:50:30](https://news.ycombinator.com/item?id=42946281) - [Software development topics I've changed my mind on after 10 years](https://chriskiehl.com/article/thoughts-after-10-years)
+* [2025-02-05, 09:48:30](https://news.ycombinator.com/item?id=42946270) - [Go Data Structures: Interfaces](https://research.swtch.com/interfaces)
 * [2025-02-05, 09:47:18](https://news.ycombinator.com/item?id=42946257) - [U.S. foreign aid freeze derails efforts to stem proliferation risks](https://www.science.org/content/article/u-s-foreign-aid-freeze-derails-efforts-stem-proliferation-risks)
 * [2025-02-05, 09:44:32](https://news.ycombinator.com/item?id=42946232) - [Go Data Structures](https://research.swtch.com/godata)
 * [2025-02-05, 09:43:48](https://news.ycombinator.com/item?id=42946223) - [RISC-V Mainboard for Framework Laptop 13 is now available](https://frame.work/gb/en/blog/risc-v-mainboard-for-framework-laptop-13-is-now-available)

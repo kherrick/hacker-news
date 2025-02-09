@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-09, 03:54:04](https://news.ycombinator.com/item?id=42988303) - [Brain Hyperconnectivity in Children with Autism and Its Links to Social Deficits](https://www.cell.com/cell-reports/fulltext/S2211-1247(13)00570-6)
 * [2025-02-09, 03:18:32](https://news.ycombinator.com/item?id=42988158) - [Retaking the Web Browser, One Small Step at a Time](https://andregarzia.com/2025/02/retaking-the-web-browser-one-small-step-at-a-time.html)
-* [2025-02-08, 21:49:51](https://news.ycombinator.com/item?id=42986485) - [Is software abstraction killing civilization? (2021)](https://datagubbe.se/endofciv/)
 * [2025-02-08, 21:22:49](https://news.ycombinator.com/item?id=42986320) - [Jacksonpollock.org (2003)](https://jacksonpollock.org/)
 * [2025-02-08, 21:01:10](https://news.ycombinator.com/item?id=42986169) - [Keeling Labs (YC W23) Is Hiring an ML Engineer for Applied ML in the Grid](https://www.keelinglabs.com/jobs)
 * [2025-02-08, 20:58:17](https://news.ycombinator.com/item?id=42986149) - [Ada Gems (2014)](https://www.adacore.com/gems)
@@ -28,8 +28,8 @@
 * [2025-02-05, 15:45:30](https://news.ycombinator.com/item?id=42950156) - [You're missing your near misses](https://surfingcomplexity.blog/2025/02/01/youre-missing-your-near-misses/)
 * [2025-02-05, 14:20:52](https://news.ycombinator.com/item?id=42948807) - [Scientists solve the mystery of sea turtles' 'lost years'](https://phys.org/news/2025-02-scientists-mystery-sea-turtles-lost.html)
 * [2025-02-05, 09:55:11](https://news.ycombinator.com/item?id=42946321) - [21st Century C++](https://cacm.acm.org/blogcacm/21st-century-c/)
+* [2025-02-05, 09:48:30](https://news.ycombinator.com/item?id=42946270) - [Go Data Structures: Interfaces](https://research.swtch.com/interfaces)
 * [2025-02-05, 09:43:48](https://news.ycombinator.com/item?id=42946223) - [RISC-V Mainboard for Framework Laptop 13 is now available](https://frame.work/gb/en/blog/risc-v-mainboard-for-framework-laptop-13-is-now-available)
-* [2025-02-04, 11:56:35](https://news.ycombinator.com/item?id=42931241) - [The PS2’s backwards compatibility from the engineer who built it (2020)](https://freelansations.medium.com/the-story-of-the-ps2s-backwards-compatibility-from-the-engineer-who-built-it-ec39cf5a0353)
 
 ## [Archives](archives/index.md)
 
