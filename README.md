@@ -2,6 +2,7 @@
 
 * [2025-02-09, 21:58:52](https://news.ycombinator.com/item?id=42994505) - [Google Pay Study Finds It Underpaid Men for Some Jobs (2019)](https://www.npr.org/2019/03/05/700288695/google-pay-study-finds-its-underpaying-men-for-some-jobs)
 * [2025-02-09, 21:52:33](https://news.ycombinator.com/item?id=42994440) - [Show HN: Searchable Library of Free Audiobooks](https://booksearch.party/)
+* [2025-02-09, 21:37:38](https://news.ycombinator.com/item?id=42994293) - [Analysis of 2024 Election Results in Clark County Indicates Manipulation](https://www.wcia.com/business/press-releases/ein-presswire/776992724/analysis-of-2024-election-results-in-clark-county-indicates-manipulation/)
 * [2025-02-09, 20:44:09](https://news.ycombinator.com/item?id=42993755) - [The Recombobulation Area (2023)](https://onmilwaukee.com/articles/recombobulationsigns)
 * [2025-02-09, 20:17:41](https://news.ycombinator.com/item?id=42993490) - [No AI December Reflections](https://blog.rybarix.com/2025/02/09/noaidecember.html)
 * [2025-02-09, 19:37:38](https://news.ycombinator.com/item?id=42993086) - [Ada crate of the year 2024 announced](https://blog.adacore.com/ada-spark-crate-of-the-year-2024-winners-announced)
@@ -27,7 +28,6 @@
 * [2025-02-06, 19:13:34](https://news.ycombinator.com/item?id=42965499) - [Grafana: Why observability needs FinOps, and vice versa](https://grafana.com/blog/2025/02/06/why-observability-needs-finops-and-vice-versa-the-vantage-integration-with-grafana-cloud/)
 * [2025-02-06, 14:03:39](https://news.ycombinator.com/item?id=42962394) - [Douglas McIlroy responds to Unix spell article with new implementation details](https://twitter.com/abhi9u/status/1887010136155414602)
 * [2025-02-06, 13:51:35](https://news.ycombinator.com/item?id=42962274) - [Atari 2600 vs. Atari 7800 Which Should You Get?](https://www.goto10retro.com/p/atari-2600-vs-atari-7800-which-should)
-* [2025-02-06, 12:02:18](https://news.ycombinator.com/item?id=42961572) - [HTML Kaleidoscope](https://codepen.io/AAMutlu20/pen/mdYxroj)
 * [2025-02-06, 06:59:20](https://news.ycombinator.com/item?id=42959824) - [Some Terminal Frustrations](https://jvns.ca/blog/2025/02/05/some-terminal-frustrations/)
 * [2025-02-05, 15:40:27](https://news.ycombinator.com/item?id=42950059) - [3D reconstruction of the capital of the Aztec empire](https://tenochtitlan.thomaskole.nl/)
 
