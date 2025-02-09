@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-09, 15:26:58](https://news.ycombinator.com/item?id=42991222) - [Scaling with PostgreSQL without boiling the ocean](https://www.shayon.dev/post/2025/40/scaling-with-postgresql-without-boiling-the-ocean/)
 * [2025-02-09, 14:52:54](https://news.ycombinator.com/item?id=42991019) - [Kanata: Cross-platform multi-layer keyboard remapper with advanced customization](https://github.com/jtroo/kanata)
 * [2025-02-09, 14:50:11](https://news.ycombinator.com/item?id=42991006) - [Hard disk fraud: long runtimes on new Seagate hard disks](https://www.heise.de/en/news/Hard-disk-fraud-Increasing-evidence-of-origin-in-China-10269059.html)
 * [2025-02-09, 14:38:52](https://news.ycombinator.com/item?id=42990948) - [How (not) to sign a JSON object (2019)](https://www.latacora.com/blog/2019/07/24/how-not-to/)
@@ -30,6 +29,7 @@
 * [2025-02-06, 12:52:52](https://news.ycombinator.com/item?id=42961855) - [Cell-Based Architecture Explained, with Zombies](https://bencane.com/cell-based-architecture-explained-with-zombies-f5e814d3e5d2)
 * [2025-02-05, 15:40:27](https://news.ycombinator.com/item?id=42950059) - [3D reconstruction of the capital of the Aztec empire](https://tenochtitlan.thomaskole.nl/)
 * [2025-02-05, 14:02:43](https://news.ycombinator.com/item?id=42948590) - [Post-Processing Shaders as a Creative Medium](https://blog.maximeheckel.com/posts/post-processing-as-a-creative-medium/)
+* [2025-02-05, 09:48:30](https://news.ycombinator.com/item?id=42946270) - [Go Data Structures: Interfaces (2009)](https://research.swtch.com/interfaces)
 
 ## [Archives](archives/index.md)
 
