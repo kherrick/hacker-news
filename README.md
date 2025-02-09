@@ -2,8 +2,7 @@
 
 * [2025-02-09, 21:58:52](https://news.ycombinator.com/item?id=42994505) - [Google Pay Study Finds It Underpaid Men for Some Jobs (2019)](https://www.npr.org/2019/03/05/700288695/google-pay-study-finds-its-underpaying-men-for-some-jobs)
 * [2025-02-09, 21:52:33](https://news.ycombinator.com/item?id=42994440) - [Show HN: Searchable Library of Free Audiobooks](https://booksearch.party/)
-* [2025-02-09, 20:44:09](https://news.ycombinator.com/item?id=42993755) - [The Recombobulation Area](https://onmilwaukee.com/articles/recombobulationsigns)
-* [2025-02-09, 20:34:56](https://news.ycombinator.com/item?id=42993661) - [Music Generation AI Models](https://www.maximepeabody.com/blog/music-ai-models)
+* [2025-02-09, 20:44:09](https://news.ycombinator.com/item?id=42993755) - [The Recombobulation Area (2023)](https://onmilwaukee.com/articles/recombobulationsigns)
 * [2025-02-09, 20:17:41](https://news.ycombinator.com/item?id=42993490) - [No AI December Reflections](https://blog.rybarix.com/2025/02/09/noaidecember.html)
 * [2025-02-09, 19:37:38](https://news.ycombinator.com/item?id=42993086) - [Ada crate of the year 2024 announced](https://blog.adacore.com/ada-spark-crate-of-the-year-2024-winners-announced)
 * [2025-02-09, 19:32:57](https://news.ycombinator.com/item?id=42993044) - [OpenStreetMap Calendar](https://osmcal.org/)
@@ -24,6 +23,7 @@
 * [2025-02-09, 08:24:17](https://news.ycombinator.com/item?id=42989320) - [Modern-Day Oracles or Bullshit Machines? How to thrive in a ChatGPT world](https://thebullshitmachines.com)
 * [2025-02-08, 19:09:21](https://news.ycombinator.com/item?id=42985342) - [Rwandan scientists develop local yeast for banana wine-makers](https://phys.org/news/2025-01-rwandan-scientists-local-yeast-banana.html)
 * [2025-02-08, 09:34:24](https://news.ycombinator.com/item?id=42981756) - [Teen on Musk's DOGE team graduated from 'The Com'](https://krebsonsecurity.com/2025/02/teen-on-musks-doge-team-graduated-from-the-com/)
+* [2025-02-07, 00:40:31](https://news.ycombinator.com/item?id=42968039) - [Building an \"Easy\" Web Application](https://rudyfaile.com/2020/07/06/building-an-easy-web-application/)
 * [2025-02-06, 19:13:34](https://news.ycombinator.com/item?id=42965499) - [Grafana: Why observability needs FinOps, and vice versa](https://grafana.com/blog/2025/02/06/why-observability-needs-finops-and-vice-versa-the-vantage-integration-with-grafana-cloud/)
 * [2025-02-06, 14:03:39](https://news.ycombinator.com/item?id=42962394) - [Douglas McIlroy responds to Unix spell article with new implementation details](https://twitter.com/abhi9u/status/1887010136155414602)
 * [2025-02-06, 13:51:35](https://news.ycombinator.com/item?id=42962274) - [Atari 2600 vs. Atari 7800 Which Should You Get?](https://www.goto10retro.com/p/atari-2600-vs-atari-7800-which-should)
