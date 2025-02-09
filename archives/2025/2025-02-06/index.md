@@ -65,6 +65,7 @@
 * [2025-02-06, 07:43:07](https://news.ycombinator.com/item?id=42960068) - [In the trenches: on being an Engineering Manager](https://blog.digital-horror.com/blog/in-the-trenches-what-it-means-to-be-an-engineering-manager/)
 * [2025-02-06, 07:15:19](https://news.ycombinator.com/item?id=42959923) - [OpenAI Sales Agent Demo](https://twitter.com/charliebitda/status/1887307980338856445)
 * [2025-02-06, 07:01:26](https://news.ycombinator.com/item?id=42959841) - [Hotline for modern Apple systems](https://github.com/mierau/hotline)
+* [2025-02-06, 06:59:20](https://news.ycombinator.com/item?id=42959824) - [Some Terminal Frustrations](https://jvns.ca/blog/2025/02/05/some-terminal-frustrations/)
 * [2025-02-06, 06:52:20](https://news.ycombinator.com/item?id=42959777) - [LLMs Were Backdoored Years Ago](https://remyhax.xyz/posts/plagairism/)
 * [2025-02-06, 06:52:17](https://news.ycombinator.com/item?id=42959775) - [Linux Running in a PDF](https://linux.doompdf.dev/linux.pdf)
 * [2025-02-06, 06:23:49](https://news.ycombinator.com/item?id=42959626) - [I wrote a screenplay for a programming language introduction](https://jan.miksovsky.com/)

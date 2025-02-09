@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-09, 21:36:10](https://news.ycombinator.com/item?id=42994281) - [Keir Starmer appoints Jeff Bezos as his \"first buddy\"](https://pluralistic.net/2025/01/22/autocrats-of-trade/)
 * [2025-02-09, 21:06:55](https://news.ycombinator.com/item?id=42993987) - [Three Observations](https://blog.samaltman.com/three-observations)
 * [2025-02-09, 20:44:09](https://news.ycombinator.com/item?id=42993755) - [The Recombobulation Area](https://onmilwaukee.com/articles/recombobulationsigns)
 * [2025-02-09, 20:34:56](https://news.ycombinator.com/item?id=42993661) - [Music Generation AI Models](https://www.maximepeabody.com/blog/music-ai-models)
-* [2025-02-09, 20:00:02](https://news.ycombinator.com/item?id=42993305) - [The Differences Between Direct Alignment Algorithms Are a Blur](https://arxiv.org/abs/2502.01237)
 * [2025-02-09, 19:37:38](https://news.ycombinator.com/item?id=42993086) - [Ada crate of the year 2024 announced](https://blog.adacore.com/ada-spark-crate-of-the-year-2024-winners-announced)
 * [2025-02-09, 19:32:57](https://news.ycombinator.com/item?id=42993044) - [OpenStreetMap Calendar](https://osmcal.org/)
 * [2025-02-09, 19:18:50](https://news.ycombinator.com/item?id=42992913) - [PostgreSQL Best Practices](https://speakdatascience.com/postgresql-best-practices/)
@@ -28,7 +28,7 @@
 * [2025-02-06, 19:13:34](https://news.ycombinator.com/item?id=42965499) - [Grafana: Why observability needs FinOps, and vice versa](https://grafana.com/blog/2025/02/06/why-observability-needs-finops-and-vice-versa-the-vantage-integration-with-grafana-cloud/)
 * [2025-02-06, 14:03:39](https://news.ycombinator.com/item?id=42962394) - [Douglas McIlroy responds to Unix spell article with new implementation details](https://twitter.com/abhi9u/status/1887010136155414602)
 * [2025-02-06, 12:02:18](https://news.ycombinator.com/item?id=42961572) - [HTML Kaleidoscope](https://codepen.io/AAMutlu20/pen/mdYxroj)
-* [2025-02-06, 09:49:36](https://news.ycombinator.com/item?id=42960772) - [Pirates and Privateers – Superstitions and the Sea (2007)](http://www.cindyvallar.com/superstitions.html)
+* [2025-02-06, 06:59:20](https://news.ycombinator.com/item?id=42959824) - [Some Terminal Frustrations](https://jvns.ca/blog/2025/02/05/some-terminal-frustrations/)
 * [2025-02-05, 15:40:27](https://news.ycombinator.com/item?id=42950059) - [3D reconstruction of the capital of the Aztec empire](https://tenochtitlan.thomaskole.nl/)
 
 ## [Archives](archives/index.md)
