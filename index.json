@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-02-09, 20:00:02",
+      "https://news.ycombinator.com/item?id=42993305"
+    ],
+    [
+      "The Differences Between Direct Alignment Algorithms Are a Blur",
+      "https://arxiv.org/abs/2502.01237"
+    ]
+  ],
+  [
+    [
       "2025-02-09, 19:37:38",
       "https://news.ycombinator.com/item?id=42993086"
     ],
@@ -57,16 +67,6 @@
     [
       "PostgreSQL Best Practices",
       "https://speakdatascience.com/postgresql-best-practices/"
-    ]
-  ],
-  [
-    [
-      "2025-02-09, 19:06:19",
-      "https://news.ycombinator.com/item?id=42992783"
-    ],
-    [
-      "Intel ruined an Israeli startup it bought for $2B–and lost the AI race",
-      "https://www.calcalistech.com/ctechnews/article/s1tra0sfye"
     ]
   ],
   [
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2025-02-07, 00:40:31",
-      "https://news.ycombinator.com/item?id=42968039"
+      "2025-02-06, 19:13:34",
+      "https://news.ycombinator.com/item?id=42965499"
     ],
     [
-      "Building an \"Easy\" Web Application",
-      "https://rudyfaile.com/2020/07/06/building-an-easy-web-application/"
+      "Grafana: Why observability needs FinOps, and vice versa",
+      "https://grafana.com/blog/2025/02/06/why-observability-needs-finops-and-vice-versa-the-vantage-integration-with-grafana-cloud/"
     ]
   ],
   [
