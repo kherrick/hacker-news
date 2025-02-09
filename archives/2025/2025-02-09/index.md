@@ -6,6 +6,7 @@
 
 * [2025-02-09, 17:02:06](https://news.ycombinator.com/item?id=42991859) - [Infisical (YC W23) Is Hiring Full Stack Engineers (US and Canada)](https://www.ycombinator.com/companies/infisical/jobs/ZHPybgI-full-stack-engineer)
 * [2025-02-09, 16:44:03](https://news.ycombinator.com/item?id=42991750) - [CFPB 404: Page not found](https://www.consumerfinance.gov/)
+* [2025-02-09, 16:33:28](https://news.ycombinator.com/item?id=42991676) - [LIMO: Less Is More for Reasoning](https://arxiv.org/abs/2502.03387)
 * [2025-02-09, 15:26:58](https://news.ycombinator.com/item?id=42991222) - [Scaling with PostgreSQL without boiling the ocean](https://www.shayon.dev/post/2025/40/scaling-with-postgresql-without-boiling-the-ocean/)
 * [2025-02-09, 14:52:54](https://news.ycombinator.com/item?id=42991019) - [Kanata: Cross-platform multi-layer keyboard remapper with advanced customization](https://github.com/jtroo/kanata)
 * [2025-02-09, 14:50:11](https://news.ycombinator.com/item?id=42991006) - [Hard disk fraud: long runtimes on new Seagate hard disks](https://www.heise.de/en/news/Hard-disk-fraud-Increasing-evidence-of-origin-in-China-10269059.html)
