@@ -53,6 +53,7 @@
 * [2025-02-06, 10:31:06](https://news.ycombinator.com/item?id=42960989) - [Pre-Trained Large Language Models Use Fourier Features to Compute Addition](https://arxiv.org/abs/2406.03445)
 * [2025-02-06, 10:13:26](https://news.ycombinator.com/item?id=42960907) - [Aluminum Batteries Outlive Lithium-Ion with a Pinch of Salt](https://spectrum.ieee.org/aluminum-battery)
 * [2025-02-06, 09:52:27](https://news.ycombinator.com/item?id=42960788) - [US Cloud soon illegal in EU? US punches first hole in EU-US Data Deal](https://noyb.eu/en/us-cloud-soon-illegal-trump-punches-first-hole-eu-us-data-deal)
+* [2025-02-06, 09:49:36](https://news.ycombinator.com/item?id=42960772) - [Pirates and Privateers – Superstitions and the Sea (2007)](http://www.cindyvallar.com/superstitions.html)
 * [2025-02-06, 09:34:18](https://news.ycombinator.com/item?id=42960684) - [Origami by Meenakshi](https://origamee.net/)
 * [2025-02-06, 09:09:22](https://news.ycombinator.com/item?id=42960536) - [AI-generated Answers experiment on Stack Exchange sites](https://meta.stackexchange.com/questions/406307/ai-generated-answers-experiment-on-stack-exchange-sites-that-volunteered-to-part)
 * [2025-02-06, 08:43:51](https://news.ycombinator.com/item?id=42960382) - [Cameras of 1930s Era](https://licm.org.uk/livingImage/1930Room.html)
