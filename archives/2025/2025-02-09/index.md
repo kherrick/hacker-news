@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-02-09](index.md)
 
+* [2025-02-09, 18:59:12](https://news.ycombinator.com/item?id=42992729) - [Daily omega-3 fatty acids may help human organs stay young](https://medicalxpress.com/news/2025-02-daily-omega-fatty-acids-human.html)
 * [2025-02-09, 18:18:09](https://news.ycombinator.com/item?id=42992365) - [The \"Need for Chaos\" Voter](https://www.forkingpaths.co/p/the-need-for-chaos-voter-a68)
 * [2025-02-09, 18:15:44](https://news.ycombinator.com/item?id=42992345) - [Persistent packages on Steam Deck using Nix](https://chrastecky.dev/gaming/persistent-packages-on-steam-deck-using-nix)
 * [2025-02-09, 18:14:01](https://news.ycombinator.com/item?id=42992336) - [PhD Knowledge Not Required: A Reasoning Challenge for Large Language Models](https://arxiv.org/abs/2502.01584)
 * [2025-02-09, 18:08:32](https://news.ycombinator.com/item?id=42992304) - [Teen on Musk's DOGE Team Graduated from 'The Com'](https://krebsonsecurity.com/2025/02/teen-on-musks-doge-team-graduated-from-the-com/)
 * [2025-02-09, 18:08:19](https://news.ycombinator.com/item?id=42992301) - [Edward Coristine the DOGE employee who solicited a DDoS-for-hire service in 2022](https://web.archive.org/web/20250208120838/https://krebsonsecurity.com/2025/02/teen-on-musks-doge-team-graduated-from-the-com/)
+* [2025-02-09, 17:54:34](https://news.ycombinator.com/item?id=42992194) - [The Campaign to Delegitimize Wikipedia](https://www.theatlantic.com/technology/archive/2025/02/elon-musk-wikipedia/681577/)
 * [2025-02-09, 17:50:10](https://news.ycombinator.com/item?id=42992159) - [Why Blog If Nobody Reads It?](https://andysblog.uk/why-blog-if-nobody-reads-it/)
 * [2025-02-09, 17:43:53](https://news.ycombinator.com/item?id=42992121) - [UnitedHealth Is Sick of Everyone Complaining About Its Claim Denials](https://www.rollingstone.com/culture/culture-news/unitedhealth-defends-image-claim-denials-mangione-thompson-1235259054/)
 * [2025-02-09, 17:28:53](https://news.ycombinator.com/item?id=42992032) - [An Upstate Town Took Back Its Power](https://nysfocus.com/2023/06/21/public-power-utility-massena-new-york)

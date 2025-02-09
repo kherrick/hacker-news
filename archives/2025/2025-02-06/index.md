@@ -35,6 +35,7 @@
 * [2025-02-06, 14:27:50](https://news.ycombinator.com/item?id=42962605) - [Researchers created an open rival to OpenAI's o1 'reasoning' model for under $50](https://techcrunch.com/2025/02/05/researchers-created-an-open-rival-to-openais-o1-reasoning-model-for-under-50/)
 * [2025-02-06, 14:20:12](https://news.ycombinator.com/item?id=42962545) - [Thailand cuts power and internet to areas of Myanmar to disrupt scam gangs](https://www.bitdefender.com/en-us/blog/hotforsecurity/thailand-cuts-power-and-internet-to-areas-of-myanmar-to-disrupt-scam-gangs)
 * [2025-02-06, 14:15:28](https://news.ycombinator.com/item?id=42962508) - [Simulating Water over Terrain](https://lisyarus.github.io/blog/posts/simulating-water-over-terrain.html)
+* [2025-02-06, 14:03:39](https://news.ycombinator.com/item?id=42962394) - [Douglas McIlroy responds to Unix spell article with new implementation details](https://twitter.com/abhi9u/status/1887010136155414602)
 * [2025-02-06, 14:02:21](https://news.ycombinator.com/item?id=42962388) - [Disney+ Loses 700k Subscribers Following Price Increase](https://www.macrumors.com/2025/02/05/disney-plus-subscriber-decrease/)
 * [2025-02-06, 13:59:13](https://news.ycombinator.com/item?id=42962345) - [Gumroad CEO is no longer hiring junior/mid-level software engineers due to AI](https://twitter.com/shl/status/1887484068075274347)
 * [2025-02-06, 13:34:30](https://news.ycombinator.com/item?id=42962127) - [FDIC has released 175 internal documents on \"Operation Chokepoint 2.0\"](https://www.fdic.gov/foia/correspondence-related-crypto-related-activities)
