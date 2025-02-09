@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-09, 21:52:33](https://news.ycombinator.com/item?id=42994440) - [Show HN: Searchable Library of Free Audiobooks](https://booksearch.party/)
 * [2025-02-09, 21:06:55](https://news.ycombinator.com/item?id=42993987) - [Three Observations](https://blog.samaltman.com/three-observations)
 * [2025-02-09, 20:44:09](https://news.ycombinator.com/item?id=42993755) - [The Recombobulation Area](https://onmilwaukee.com/articles/recombobulationsigns)
 * [2025-02-09, 20:34:56](https://news.ycombinator.com/item?id=42993661) - [Music Generation AI Models](https://www.maximepeabody.com/blog/music-ai-models)
@@ -16,7 +17,6 @@
 * [2025-02-09, 16:33:28](https://news.ycombinator.com/item?id=42991676) - [LIMO: Less Is More for Reasoning](https://arxiv.org/abs/2502.03387)
 * [2025-02-09, 16:17:01](https://news.ycombinator.com/item?id=42991558) - [Advanced Magnet Manufacturing Begins in the United States](https://spectrum.ieee.org/advanced-magnet-manufacturing-in-us)
 * [2025-02-09, 14:52:54](https://news.ycombinator.com/item?id=42991019) - [Kanata: Cross-platform multi-layer keyboard remapper with advanced customization](https://github.com/jtroo/kanata)
-* [2025-02-09, 14:38:52](https://news.ycombinator.com/item?id=42990948) - [How (not) to sign a JSON object (2019)](https://www.latacora.com/blog/2019/07/24/how-not-to/)
 * [2025-02-09, 14:16:40](https://news.ycombinator.com/item?id=42990819) - [Baffled by generational garbage collection – wingolog](https://wingolog.org/archives/2025/02/09/baffled-by-generational-garbage-collection)
 * [2025-02-09, 13:28:10](https://news.ycombinator.com/item?id=42990540) - [Show HN: My first side project, streamlined book clubs on Slack](https://booktalk.club/)
 * [2025-02-09, 12:42:54](https://news.ycombinator.com/item?id=42990324) - [Don't \"optimize\" conditional moves in shaders with mix()+step()](https://iquilezles.org/articles/gpuconditionals/)

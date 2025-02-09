@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-09](index.md)
 
+* [2025-02-09, 21:52:33](https://news.ycombinator.com/item?id=42994440) - [Show HN: Searchable Library of Free Audiobooks](https://booksearch.party/)
 * [2025-02-09, 21:36:10](https://news.ycombinator.com/item?id=42994281) - [Keir Starmer appoints Jeff Bezos as his \"first buddy\"](https://pluralistic.net/2025/01/22/autocrats-of-trade/)
 * [2025-02-09, 21:08:45](https://news.ycombinator.com/item?id=42994006) - [Artifical ballot generation script by DOGE Engineer Ethan Shaotran](https://github.com/DevrathIyer/ballotproof/blob/master/generate.py)
 * [2025-02-09, 21:06:55](https://news.ycombinator.com/item?id=42993987) - [Three Observations](https://blog.samaltman.com/three-observations)
