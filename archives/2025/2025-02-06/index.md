@@ -27,6 +27,7 @@
 * [2025-02-06, 16:31:29](https://news.ycombinator.com/item?id=42963993) - [Public services are for users, not providers](https://www.slowboring.com/p/public-services-are-for-users-not)
 * [2025-02-06, 15:48:54](https://news.ycombinator.com/item?id=42963501) - [Transfinite Nim](https://jdh.hamkins.org/transfinite-nim/)
 * [2025-02-06, 15:44:53](https://news.ycombinator.com/item?id=42963447) - [The world has probably passed \"peak air pollution\"](https://ourworldindata.org/data-insights/the-world-has-probably-passed-peak-air-pollution)
+* [2025-02-06, 15:42:23](https://news.ycombinator.com/item?id=42963414) - [Antimony Atoms Function as Error-Resistant Qubits](https://spectrum.ieee.org/quantum-error)
 * [2025-02-06, 15:35:32](https://news.ycombinator.com/item?id=42963346) - [Show HN: An homage to Tom Dowdy's 1991 screensaver, \"Kaos\"](https://thestrikeagency.com/kaos/)
 * [2025-02-06, 15:08:37](https://news.ycombinator.com/item?id=42963070) - [RustDesk – open-source alternative to TeamViewer](https://github.com/rustdesk/rustdesk)
 * [2025-02-06, 14:44:11](https://news.ycombinator.com/item?id=42962822) - [Five coding hats](https://dubroy.com/blog/five-coding-hats/)
