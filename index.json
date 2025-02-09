@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-02-09, 15:26:58",
-      "https://news.ycombinator.com/item?id=42991222"
-    ],
-    [
-      "Scaling with PostgreSQL without boiling the ocean",
-      "https://www.shayon.dev/post/2025/40/scaling-with-postgresql-without-boiling-the-ocean/"
-    ]
-  ],
-  [
-    [
       "2025-02-09, 14:52:54",
       "https://news.ycombinator.com/item?id=42991019"
     ],
@@ -297,6 +287,16 @@
     [
       "Post-Processing Shaders as a Creative Medium",
       "https://blog.maximeheckel.com/posts/post-processing-as-a-creative-medium/"
+    ]
+  ],
+  [
+    [
+      "2025-02-05, 09:48:30",
+      "https://news.ycombinator.com/item?id=42946270"
+    ],
+    [
+      "Go Data Structures: Interfaces (2009)",
+      "https://research.swtch.com/interfaces"
     ]
   ]
 ]
