@@ -19,7 +19,7 @@
 * [2025-02-07, 19:48:16](https://news.ycombinator.com/item?id=42976698) - [Do-nothing scripting: the key to gradual automation (2019)](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/)
 * [2025-02-07, 17:55:40](https://news.ycombinator.com/item?id=42975492) - [Cities can cost effectively start their own utilities](https://kevin.burke.dev/kevin/norcal-cities-new-utility/)
 * [2025-02-07, 14:33:32](https://news.ycombinator.com/item?id=42972982) - [Noether's Theorem Revolutionized Physics](https://www.quantamagazine.org/how-noethers-theorem-revolutionized-physics-20250207/)
-* [2025-02-07, 03:40:07](https://news.ycombinator.com/item?id=42969100) - [The LLM Curve of Impact on Software Engineers](https://serce.me/posts/2025-02-07-the-llm-curve-of-impact-on-software-engineers)
+* [2025-02-07, 14:04:32](https://news.ycombinator.com/item?id=42972625) - [Fabrication Begins for Production OpenTitan Silicon – Google Open Source Blog](https://opensource.googleblog.com/2025/02/fabrication-begins-for-production-opentitan-silicon.html)
 * [2025-02-06, 09:34:18](https://news.ycombinator.com/item?id=42960684) - [Origami by Meenakshi](https://origamee.net/)
 * [2025-02-06, 07:43:07](https://news.ycombinator.com/item?id=42960068) - [In the trenches: on being an Engineering Manager](https://blog.digital-horror.com/blog/in-the-trenches-what-it-means-to-be-an-engineering-manager/)
 * [2025-02-06, 01:32:54](https://news.ycombinator.com/item?id=42957864) - [Sand trafficking in Latin America](https://insightcrime.org/news/the-mafias-behind-sand-trafficking-in-latin-america/)

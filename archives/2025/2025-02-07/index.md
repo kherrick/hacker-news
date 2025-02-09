@@ -42,6 +42,7 @@
 * [2025-02-07, 14:18:19](https://news.ycombinator.com/item?id=42972781) - [Children's arithmetic skills do not transfer between applied and academic math](https://www.nature.com/articles/s41586-024-08502-w)
 * [2025-02-07, 14:13:44](https://news.ycombinator.com/item?id=42972722) - [Personal Software Is Becoming a Trend](https://xuanwo.io/links/2025/02/personal-software-is-becoming-a-trend/)
 * [2025-02-07, 14:08:44](https://news.ycombinator.com/item?id=42972678) - [Multiple security flaws found in DeepSeek iOS app, incl sending unencrypted data](https://9to5mac.com/2025/02/07/multiple-security-flaws-found-in-deepseek-ios-app-including-sending-unencrypted-data/)
+* [2025-02-07, 14:04:32](https://news.ycombinator.com/item?id=42972625) - [Fabrication Begins for Production OpenTitan Silicon – Google Open Source Blog](https://opensource.googleblog.com/2025/02/fabrication-begins-for-production-opentitan-silicon.html)
 * [2025-02-07, 13:44:09](https://news.ycombinator.com/item?id=42972420) - [Procedural Hydrology: Dynamic Lake and River Simulation (2020)](https://nickmcd.me/2020/04/15/procedural-hydrology/)
 * [2025-02-07, 13:40:19](https://news.ycombinator.com/item?id=42972380) - [Entity-Component-System Architecture in Kubernetes](https://fancl20.github.io/contents/00-posts/2025-02-07-ecs-and-k8s.html)
 * [2025-02-07, 13:32:44](https://news.ycombinator.com/item?id=42972315) - [Rewrote 42k lines of code from Python to Go. Technical deep dive](https://lovable.dev/blog/from-python-to-go)
