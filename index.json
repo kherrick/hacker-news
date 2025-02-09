@@ -1,22 +1,12 @@
 [
   [
     [
-      "2025-02-09, 11:39:43",
-      "https://news.ycombinator.com/item?id=42990037"
+      "2025-02-09, 11:39:38",
+      "https://news.ycombinator.com/item?id=42990036"
     ],
     [
-      "Things USAID has funded [video]",
-      "https://www.youtube.com/watch?v=Pdw31c6HPCI"
-    ]
-  ],
-  [
-    [
-      "2025-02-09, 10:15:20",
-      "https://news.ycombinator.com/item?id=42989747"
-    ],
-    [
-      "ZeroTier – home VPN without a public IP address",
-      "https://blog.tomaszdunia.pl/zerotier-eng/"
+      "Classic Data science pipelines built with LLMs",
+      "https://github.com/Pravko-Solutions/FlashLearn/tree/main/examples"
     ]
   ],
   [
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=42989609"
     ],
     [
-      "Chimes at Midnight",
+      "Chimes at Midnight (2024)",
       "https://asteriskmag.com/issues/08/chimes-at-midnight"
     ]
   ],
@@ -157,6 +147,16 @@
     [
       "We are destroying software",
       "https://antirez.com/news/145"
+    ]
+  ],
+  [
+    [
+      "2025-02-08, 11:38:33",
+      "https://news.ycombinator.com/item?id=42982270"
+    ],
+    [
+      "A tale of distros joining forces for a common goal: reproducible builds [video]",
+      "https://video.fosdem.org/2025/h1302/fosdem-2025-6479-a-tale-of-several-distros-joining-forces-for-a-common-goal-reproducible-builds.av1.webm"
     ]
   ],
   [
