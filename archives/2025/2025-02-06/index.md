@@ -40,6 +40,7 @@
 * [2025-02-06, 13:18:21](https://news.ycombinator.com/item?id=42962020) - [It is time to standardize principles and practices for software memory safety](https://cacm.acm.org/opinion/it-is-time-to-standardize-principles-and-practices-for-software-memory-safety/)
 * [2025-02-06, 13:17:43](https://news.ycombinator.com/item?id=42962015) - [The Sad Math of Ads: messages of inadequacy and salvation through consumption](https://www.jamesdamore.com/articles/the-sad-math-of-ads)
 * [2025-02-06, 12:55:17](https://news.ycombinator.com/item?id=42961868) - [A colorful Game of Life](https://colorlife.quick.jaredforsyth.com)
+* [2025-02-06, 12:52:52](https://news.ycombinator.com/item?id=42961855) - [Cell-Based Architecture Explained, with Zombies](https://bencane.com/cell-based-architecture-explained-with-zombies-f5e814d3e5d2)
 * [2025-02-06, 12:51:56](https://news.ycombinator.com/item?id=42961849) - [A better (than Optional) maybe for Java](https://github.com/andrewcmyers/maybe)
 * [2025-02-06, 12:39:37](https://news.ycombinator.com/item?id=42961795) - [Explorable Flexagons: Learn to create and flex flexagons (2020)](http://loki3.com/flex/explore/)
 * [2025-02-06, 12:09:55](https://news.ycombinator.com/item?id=42961606) - [Science of Microwave Ovens](https://www.genuineideas.com/ArticlesIndex/wave.html)
