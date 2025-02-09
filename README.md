@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-09, 10:15:20](https://news.ycombinator.com/item?id=42989747) - [ZeroTier – home VPN without a public IP address](https://blog.tomaszdunia.pl/zerotier-eng/)
+* [2025-02-09, 09:50:35](https://news.ycombinator.com/item?id=42989628) - [RetroFab: Playable 3D simulations of vintage electronic games](https://itizso.itch.io/retrofab)
 * [2025-02-09, 09:45:57](https://news.ycombinator.com/item?id=42989609) - [Chimes at Midnight](https://asteriskmag.com/issues/08/chimes-at-midnight)
 * [2025-02-09, 08:54:37](https://news.ycombinator.com/item?id=42989419) - [Mathematics in the 20th century, by Michael Atiyah [pdf] (2002)](https://marktomforde.com/academic/miscellaneous/images/atiyah20thcentury.pdf)
 * [2025-02-09, 08:24:17](https://news.ycombinator.com/item?id=42989320) - [Modern-Day Oracles or Bullshit Machines](https://thebullshitmachines.com)
@@ -23,7 +24,6 @@
 * [2025-02-06, 09:34:18](https://news.ycombinator.com/item?id=42960684) - [Origami by Meenakshi](https://origamee.net/)
 * [2025-02-06, 07:43:07](https://news.ycombinator.com/item?id=42960068) - [In the trenches: on being an Engineering Manager](https://blog.digital-horror.com/blog/in-the-trenches-what-it-means-to-be-an-engineering-manager/)
 * [2025-02-06, 01:32:54](https://news.ycombinator.com/item?id=42957864) - [Sand trafficking in Latin America](https://insightcrime.org/news/the-mafias-behind-sand-trafficking-in-latin-america/)
-* [2025-02-06, 00:26:32](https://news.ycombinator.com/item?id=42957395) - [From hours to 360ms: over-engineering a puzzle solution](https://blog.danielh.cc/blog/puzzle)
 * [2025-02-05, 17:12:50](https://news.ycombinator.com/item?id=42951744) - [First glimpse inside burnt scroll after 2k years](https://www.bbc.co.uk/news/articles/c5yvrq7dyg6o)
 * [2025-02-05, 14:20:52](https://news.ycombinator.com/item?id=42948807) - [Scientists solve the mystery of sea turtles' 'lost years'](https://phys.org/news/2025-02-scientists-mystery-sea-turtles-lost.html)
 * [2025-02-05, 14:11:46](https://news.ycombinator.com/item?id=42948703) - [Embrace the Grind (2021)](https://jacobian.org/2021/apr/7/embrace-the-grind/)
