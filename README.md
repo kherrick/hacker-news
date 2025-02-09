@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-09, 08:24:17](https://news.ycombinator.com/item?id=42989320) - [Modern-Day Oracles or Bullshit Machines](https://thebullshitmachines.com)
 * [2025-02-09, 07:10:56](https://news.ycombinator.com/item?id=42989062) - [The Man in the Midnight-Blue Six-Ply Italian-Milled Wool Suit](https://www.theatlantic.com/magazine/archive/2025/03/gary-shteyngart-bespoke-suit-mens-fashion-self-love/681441/)
 * [2025-02-09, 06:42:10](https://news.ycombinator.com/item?id=42988946) - [Show HN: Daily-notes.nvim – fuzzy time journal and planning plugin](https://github.com/fdavies93/daily-notes.nvim)
 * [2025-02-09, 03:54:04](https://news.ycombinator.com/item?id=42988303) - [Brain Hyperconnectivity in Children with Autism and Its Links to Social Deficits (2013)](https://www.cell.com/cell-reports/fulltext/S2211-1247(13)00570-6)
@@ -21,7 +22,6 @@
 * [2025-02-07, 03:40:07](https://news.ycombinator.com/item?id=42969100) - [The LLM Curve of Impact on Software Engineers](https://serce.me/posts/2025-02-07-the-llm-curve-of-impact-on-software-engineers)
 * [2025-02-06, 09:34:18](https://news.ycombinator.com/item?id=42960684) - [Origami by Meenakshi](https://origamee.net/)
 * [2025-02-06, 07:43:07](https://news.ycombinator.com/item?id=42960068) - [In the trenches: on being an Engineering Manager](https://blog.digital-horror.com/blog/in-the-trenches-what-it-means-to-be-an-engineering-manager/)
-* [2025-02-06, 03:10:56](https://news.ycombinator.com/item?id=42958542) - [Versioning versus Coordination](https://brooker.co.za/blog/2025/02/04/versioning.html)
 * [2025-02-06, 01:32:54](https://news.ycombinator.com/item?id=42957864) - [Sand trafficking in Latin America](https://insightcrime.org/news/the-mafias-behind-sand-trafficking-in-latin-america/)
 * [2025-02-06, 00:26:32](https://news.ycombinator.com/item?id=42957395) - [From hours to 360ms: over-engineering a puzzle solution](https://blog.danielh.cc/blog/puzzle)
 * [2025-02-05, 17:12:50](https://news.ycombinator.com/item?id=42951744) - [First glimpse inside burnt scroll after 2k years](https://www.bbc.co.uk/news/articles/c5yvrq7dyg6o)
