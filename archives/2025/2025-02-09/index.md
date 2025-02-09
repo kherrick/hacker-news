@@ -9,6 +9,7 @@
 * [2025-02-09, 21:52:33](https://news.ycombinator.com/item?id=42994440) - [Show HN: Searchable Library of Free Audiobooks](https://booksearch.party/)
 * [2025-02-09, 21:37:38](https://news.ycombinator.com/item?id=42994293) - [Analysis of 2024 Election Results in Clark County Indicates Manipulation](https://www.wcia.com/business/press-releases/ein-presswire/776992724/analysis-of-2024-election-results-in-clark-county-indicates-manipulation/)
 * [2025-02-09, 21:36:10](https://news.ycombinator.com/item?id=42994281) - [Keir Starmer appoints Jeff Bezos as his \"first buddy\"](https://pluralistic.net/2025/01/22/autocrats-of-trade/)
+* [2025-02-09, 21:09:46](https://news.ycombinator.com/item?id=42994012) - [Memento: FOSS, mpv-based video player for studying Japanese](https://github.com/ripose-jp/Memento)
 * [2025-02-09, 21:08:45](https://news.ycombinator.com/item?id=42994006) - [Artifical ballot generation script by DOGE Engineer Ethan Shaotran](https://github.com/DevrathIyer/ballotproof/blob/master/generate.py)
 * [2025-02-09, 21:06:55](https://news.ycombinator.com/item?id=42993987) - [Three Observations](https://blog.samaltman.com/three-observations)
 * [2025-02-09, 20:44:09](https://news.ycombinator.com/item?id=42993755) - [The Recombobulation Area](https://onmilwaukee.com/articles/recombobulationsigns)
