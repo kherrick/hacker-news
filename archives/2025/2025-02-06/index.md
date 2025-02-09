@@ -40,6 +40,7 @@
 * [2025-02-06, 13:34:30](https://news.ycombinator.com/item?id=42962127) - [FDIC has released 175 internal documents on \"Operation Chokepoint 2.0\"](https://www.fdic.gov/foia/correspondence-related-crypto-related-activities)
 * [2025-02-06, 13:18:21](https://news.ycombinator.com/item?id=42962020) - [It is time to standardize principles and practices for software memory safety](https://cacm.acm.org/opinion/it-is-time-to-standardize-principles-and-practices-for-software-memory-safety/)
 * [2025-02-06, 13:17:43](https://news.ycombinator.com/item?id=42962015) - [The Sad Math of Ads: messages of inadequacy and salvation through consumption](https://www.jamesdamore.com/articles/the-sad-math-of-ads)
+* [2025-02-06, 12:59:40](https://news.ycombinator.com/item?id=42961901) - [UbuWeb – Founded 1996](https://www.ubu.com/)
 * [2025-02-06, 12:55:17](https://news.ycombinator.com/item?id=42961868) - [A colorful Game of Life](https://colorlife.quick.jaredforsyth.com)
 * [2025-02-06, 12:52:52](https://news.ycombinator.com/item?id=42961855) - [Cell-Based Architecture Explained, with Zombies](https://bencane.com/cell-based-architecture-explained-with-zombies-f5e814d3e5d2)
 * [2025-02-06, 12:51:56](https://news.ycombinator.com/item?id=42961849) - [A better (than Optional) maybe for Java](https://github.com/andrewcmyers/maybe)
