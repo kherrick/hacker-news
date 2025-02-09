@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-09, 20:34:56",
+      "https://news.ycombinator.com/item?id=42993661"
+    ],
+    [
+      "Music Generation AI Models",
+      "https://www.maximepeabody.com/blog/music-ai-models"
+    ]
+  ],
+  [
+    [
       "2025-02-09, 19:37:38",
       "https://news.ycombinator.com/item?id=42993086"
     ],
@@ -17,6 +27,16 @@
     [
       "OpenStreetMap Calendar",
       "https://osmcal.org/"
+    ]
+  ],
+  [
+    [
+      "2025-02-09, 19:18:50",
+      "https://news.ycombinator.com/item?id=42992913"
+    ],
+    [
+      "PostgreSQL Best Practices",
+      "https://speakdatascience.com/postgresql-best-practices/"
     ]
   ],
   [
@@ -191,12 +211,12 @@
   ],
   [
     [
-      "2025-02-09, 08:54:37",
-      "https://news.ycombinator.com/item?id=42989419"
+      "2025-02-09, 08:24:17",
+      "https://news.ycombinator.com/item?id=42989320"
     ],
     [
-      "Mathematics in the 20th century, by Michael Atiyah [pdf] (2002)",
-      "https://marktomforde.com/academic/miscellaneous/images/atiyah20thcentury.pdf"
+      "Modern-Day Oracles or Bullshit Machines? How to thrive in a ChatGPT world",
+      "https://thebullshitmachines.com"
     ]
   ],
   [
@@ -207,16 +227,6 @@
     [
       "Emergence of collective oscillations in human crowds",
       "https://www.nature.com/articles/s41586-024-08514-6"
-    ]
-  ],
-  [
-    [
-      "2025-02-08, 21:22:49",
-      "https://news.ycombinator.com/item?id=42986320"
-    ],
-    [
-      "Jacksonpollock.org (2003)",
-      "https://jacksonpollock.org/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Grafana: Why observability needs FinOps, and vice versa",
       "https://grafana.com/blog/2025/02/06/why-observability-needs-finops-and-vice-versa-the-vantage-integration-with-grafana-cloud/"
-    ]
-  ],
-  [
-    [
-      "2025-02-06, 15:42:23",
-      "https://news.ycombinator.com/item?id=42963414"
-    ],
-    [
-      "Antimony Atoms Function as Error-Resistant Qubits",
-      "https://spectrum.ieee.org/quantum-error"
     ]
   ],
   [
