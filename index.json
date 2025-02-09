@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-09, 14:16:40",
+      "https://news.ycombinator.com/item?id=42990819"
+    ],
+    [
+      "Baffled by generational garbage collection – wingolog",
+      "https://wingolog.org/archives/2025/02/09/baffled-by-generational-garbage-collection"
+    ]
+  ],
+  [
+    [
       "2025-02-09, 13:28:10",
       "https://news.ycombinator.com/item?id=42990540"
     ],
@@ -177,16 +187,6 @@
     [
       "Rwandan scientists develop local yeast for banana wine-makers",
       "https://phys.org/news/2025-01-rwandan-scientists-local-yeast-banana.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-08, 17:25:03",
-      "https://news.ycombinator.com/item?id=42984457"
-    ],
-    [
-      "Writing a simple windows driver in Rust",
-      "https://scorpiosoftware.net/2025/02/08/writing-a-simple-driver-in-rust/"
     ]
   ],
   [
