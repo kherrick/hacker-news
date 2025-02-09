@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-09, 18:08:32](https://news.ycombinator.com/item?id=42992304) - [Teen on Musk's DOGE Team Graduated from 'The Com'](https://krebsonsecurity.com/2025/02/teen-on-musks-doge-team-graduated-from-the-com/)
-* [2025-02-09, 18:08:19](https://news.ycombinator.com/item?id=42992301) - [Edward Coristine the DOGE employee who solicited a DDoS-for-hire service in 2022](https://web.archive.org/web/20250208120838/https://krebsonsecurity.com/2025/02/teen-on-musks-doge-team-graduated-from-the-com/)
 * [2025-02-09, 17:43:53](https://news.ycombinator.com/item?id=42992121) - [UnitedHealth Is Sick of Everyone Complaining About Its Claim Denials](https://www.rollingstone.com/culture/culture-news/unitedhealth-defends-image-claim-denials-mangione-thompson-1235259054/)
+* [2025-02-09, 16:57:29](https://news.ycombinator.com/item?id=42991830) - [Mission Accomplished? Heat pump adoption has a long way to go](https://www.heatpumped.org/p/mission-accomplished-heat-pump-adoption-has-a-long-way-to-go)
 * [2025-02-09, 16:33:28](https://news.ycombinator.com/item?id=42991676) - [LIMO: Less Is More for Reasoning](https://arxiv.org/abs/2502.03387)
 * [2025-02-09, 14:52:54](https://news.ycombinator.com/item?id=42991019) - [Kanata: Cross-platform multi-layer keyboard remapper with advanced customization](https://github.com/jtroo/kanata)
 * [2025-02-09, 14:50:11](https://news.ycombinator.com/item?id=42991006) - [Hard disk fraud: long runtimes on new Seagate hard disks](https://www.heise.de/en/news/Hard-disk-fraud-Increasing-evidence-of-origin-in-China-10269059.html)
@@ -18,6 +17,7 @@
 * [2025-02-09, 08:24:17](https://news.ycombinator.com/item?id=42989320) - [Modern-Day Oracles or Bullshit Machines](https://thebullshitmachines.com)
 * [2025-02-09, 01:20:04](https://news.ycombinator.com/item?id=42987646) - [Emergence of collective oscillations in human crowds](https://www.nature.com/articles/s41586-024-08514-6)
 * [2025-02-08, 21:22:49](https://news.ycombinator.com/item?id=42986320) - [Jacksonpollock.org (2003)](https://jacksonpollock.org/)
+* [2025-02-08, 19:20:10](https://news.ycombinator.com/item?id=42985427) - [Tips for mathematical handwriting (2007)](https://johnkerl.org/doc/ortho/ortho.html)
 * [2025-02-08, 19:09:21](https://news.ycombinator.com/item?id=42985342) - [Rwandan scientists develop local yeast for banana wine-makers](https://phys.org/news/2025-01-rwandan-scientists-local-yeast-banana.html)
 * [2025-02-08, 15:47:36](https://news.ycombinator.com/item?id=42983699) - [The Deck: An open-source cross-platform multiplayer card game engine in Flutter](https://github.com/xajik/thedeck)
 * [2025-02-07, 22:23:31](https://news.ycombinator.com/item?id=42978199) - [Obscure islands I find interesting](https://amanvir.com/obscure-islands)
