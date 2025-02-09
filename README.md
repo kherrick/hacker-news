@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-09, 03:54:04](https://news.ycombinator.com/item?id=42988303) - [Brain Hyperconnectivity in Children with Autism and Its Links to Social Deficits](https://www.cell.com/cell-reports/fulltext/S2211-1247(13)00570-6)
-* [2025-02-09, 03:18:32](https://news.ycombinator.com/item?id=42988158) - [Retaking the Web Browser, One Small Step at a Time](https://andregarzia.com/2025/02/retaking-the-web-browser-one-small-step-at-a-time.html)
+* [2025-02-09, 03:18:32](https://news.ycombinator.com/item?id=42988158) - [Retaking the web browser, one small step at a time](https://andregarzia.com/2025/02/retaking-the-web-browser-one-small-step-at-a-time.html)
 * [2025-02-08, 21:22:49](https://news.ycombinator.com/item?id=42986320) - [Jacksonpollock.org (2003)](https://jacksonpollock.org/)
 * [2025-02-08, 21:01:10](https://news.ycombinator.com/item?id=42986169) - [Keeling Labs (YC W23) Is Hiring an ML Engineer for Applied ML in the Grid](https://www.keelinglabs.com/jobs)
 * [2025-02-08, 20:58:17](https://news.ycombinator.com/item?id=42986149) - [Ada Gems (2014)](https://www.adacore.com/gems)
