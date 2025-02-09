@@ -44,6 +44,7 @@
 * [2025-02-06, 12:39:37](https://news.ycombinator.com/item?id=42961795) - [Explorable Flexagons: Learn to create and flex flexagons (2020)](http://loki3.com/flex/explore/)
 * [2025-02-06, 12:09:55](https://news.ycombinator.com/item?id=42961606) - [Science of Microwave Ovens](https://www.genuineideas.com/ArticlesIndex/wave.html)
 * [2025-02-06, 12:00:23](https://news.ycombinator.com/item?id=42961562) - [Memfault (YC W19) Is Hiring an Android System (AOSP) Engineer](https://jobs.lever.co/memfault/1904a421-de92-46bf-8864-2965582cd6df)
+* [2025-02-06, 11:42:33](https://news.ycombinator.com/item?id=42961442) - [Enter OpenEuroLLM, an 'Open, Compliant, Diverse' Series of Foundation Models](https://slator.com/enter-openeurollm-open-compliant-diverse-series-of-foundation-models/)
 * [2025-02-06, 11:01:34](https://news.ycombinator.com/item?id=42961192) - [Tesla's sales plummet across Europe](https://www.ft.com/content/ea2329e4-b4bc-4e2d-be34-e9a8ea31129c)
 * [2025-02-06, 10:31:06](https://news.ycombinator.com/item?id=42960989) - [Pre-Trained Large Language Models Use Fourier Features to Compute Addition](https://arxiv.org/abs/2406.03445)
 * [2025-02-06, 10:13:26](https://news.ycombinator.com/item?id=42960907) - [Aluminum Batteries Outlive Lithium-Ion with a Pinch of Salt](https://spectrum.ieee.org/aluminum-battery)
