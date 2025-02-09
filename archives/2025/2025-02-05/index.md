@@ -48,6 +48,7 @@
 * [2025-02-05, 14:51:20](https://news.ycombinator.com/item?id=42949222) - [I'm Done with Ubuntu](https://ounapuu.ee/posts/2025/02/05/done-with-ubuntu/)
 * [2025-02-05, 14:47:32](https://news.ycombinator.com/item?id=42949181) - [Why Is Warner Brothers Discovery Dumping Old Movies on YouTube?](https://tedium.co/2025/02/05/warner-bros-youtube-full-movie-releases/)
 * [2025-02-05, 14:37:02](https://news.ycombinator.com/item?id=42949019) - [Show HN: Matle – A Daily Chess Puzzle Inspired by Wordle](https://www.matle.io/)
+* [2025-02-05, 14:20:52](https://news.ycombinator.com/item?id=42948807) - [Scientists solve the mystery of sea turtles' 'lost years'](https://phys.org/news/2025-02-scientists-mystery-sea-turtles-lost.html)
 * [2025-02-05, 14:06:44](https://news.ycombinator.com/item?id=42948642) - [Complex Systems and Quantitative Mereology](https://abeljansma.nl/2025/01/28/mereoPhysics.html)
 * [2025-02-05, 13:44:26](https://news.ycombinator.com/item?id=42948373) - [F-Droid Awarded Open Technology Fund's FOSS Sustainability Grant](https://f-droid.org/2025/02/05/f-droid-awarded-otf-grant.html)
 * [2025-02-05, 13:36:08](https://news.ycombinator.com/item?id=42948259) - [Personal Software](https://leerob.com/n/personal-software)
