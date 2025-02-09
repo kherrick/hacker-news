@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-09, 12:42:54](https://news.ycombinator.com/item?id=42990324) - [Don't \"optimize\" conditional moves in shaders with mix()+step()](https://iquilezles.org/articles/gpuconditionals/)
 * [2025-02-09, 11:39:38](https://news.ycombinator.com/item?id=42990036) - [Classic Data science pipelines built with LLMs](https://github.com/Pravko-Solutions/FlashLearn/tree/main/examples)
-* [2025-02-09, 11:29:35](https://news.ycombinator.com/item?id=42990000) - [Dear Mr. Vice President, Please Take Off Your Apple Watch](https://www.watchesofespionage.com/blogs/woe-dispatch/vice-president-jd-vance-apple-watch-smartwatch-intelligence-risks)
+* [2025-02-09, 11:07:52](https://news.ycombinator.com/item?id=42989923) - [Linux as co-operative Windows process](http://www.colinux.org/)
 * [2025-02-09, 09:50:35](https://news.ycombinator.com/item?id=42989628) - [RetroFab: Playable 3D simulations of vintage electronic games](https://itizso.itch.io/retrofab)
 * [2025-02-09, 09:45:57](https://news.ycombinator.com/item?id=42989609) - [Chimes at Midnight (2024)](https://asteriskmag.com/issues/08/chimes-at-midnight)
 * [2025-02-09, 08:54:37](https://news.ycombinator.com/item?id=42989419) - [Mathematics in the 20th century, by Michael Atiyah [pdf] (2002)](https://marktomforde.com/academic/miscellaneous/images/atiyah20thcentury.pdf)
@@ -16,7 +17,6 @@
 * [2025-02-08, 17:19:23](https://news.ycombinator.com/item?id=42984420) - [Show HN: FlashSpace – fast, open-source, macOS Spaces replacement](https://github.com/wojciech-kulik/FlashSpace)
 * [2025-02-08, 15:47:36](https://news.ycombinator.com/item?id=42983699) - [The Deck: An open-source cross-platform multiplayer card game engine in Flutter](https://github.com/xajik/thedeck)
 * [2025-02-08, 14:48:25](https://news.ycombinator.com/item?id=42983275) - [We are destroying software](https://antirez.com/news/145)
-* [2025-02-08, 10:41:17](https://news.ycombinator.com/item?id=42982015) - [Generating Voronoi diagrams using Fortune's algorithm](https://redpenguin101.github.io/html/posts/2025_01_21_voronoi.html)
 * [2025-02-07, 22:23:31](https://news.ycombinator.com/item?id=42978199) - [Obscure islands I find interesting](https://amanvir.com/obscure-islands)
 * [2025-02-07, 19:48:16](https://news.ycombinator.com/item?id=42976698) - [Do-nothing scripting: the key to gradual automation (2019)](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/)
 * [2025-02-07, 17:55:40](https://news.ycombinator.com/item?id=42975492) - [Cities can cost effectively start their own utilities](https://kevin.burke.dev/kevin/norcal-cities-new-utility/)
