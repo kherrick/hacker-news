@@ -71,6 +71,7 @@
 * [2025-02-06, 02:19:49](https://news.ycombinator.com/item?id=42958218) - [Mystery brain disease patients in New Brunswick say they welcome investigation](https://www.ctvnews.ca/atlantic/new-brunswick/article/good-first-step-nb-mystery-brain-disease-patients-welcome-new-investigation/)
 * [2025-02-06, 02:17:47](https://news.ycombinator.com/item?id=42958202) - [OpenWrt 24.10.0 – First Stable Release – 6. February 2025](https://openwrt.org/releases/24.10/notes-24.10.0)
 * [2025-02-06, 01:52:13](https://news.ycombinator.com/item?id=42958012) - [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
+* [2025-02-06, 01:32:54](https://news.ycombinator.com/item?id=42957864) - [The Mafias Behind Sand Trafficking in Latin America](https://insightcrime.org/news/the-mafias-behind-sand-trafficking-in-latin-america/)
 * [2025-02-06, 01:28:17](https://news.ycombinator.com/item?id=42957823) - [6502 Is a Good Starting Point for Beginning Assembly Programming](https://nemanjatrifunovic.substack.com/p/6502-is-a-good-starting-point-for)
 * [2025-02-06, 01:23:48](https://news.ycombinator.com/item?id=42957799) - [How to GIF (2025 Edition)](https://fullystacked.net/how-to-gif-2025/)
 * [2025-02-06, 01:13:32](https://news.ycombinator.com/item?id=42957726) - [Human Brain May Contain as Much as a Spoon's Worth of Microplastics](https://www.smithsonianmag.com/smart-news/the-human-brain-may-contain-as-much-as-a-spoons-worth-of-microplastics-new-research-suggests-180985995/)
