@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-09](index.md)
 
+* [2025-02-09, 19:06:19](https://news.ycombinator.com/item?id=42992783) - [Intel ruined an Israeli startup it bought for $2B–and lost the AI race](https://www.calcalistech.com/ctechnews/article/s1tra0sfye)
 * [2025-02-09, 18:59:12](https://news.ycombinator.com/item?id=42992729) - [Daily omega-3 fatty acids may help human organs stay young](https://medicalxpress.com/news/2025-02-daily-omega-fatty-acids-human.html)
 * [2025-02-09, 18:49:06](https://news.ycombinator.com/item?id=42992643) - [Aidemos by Meta](https://aidemos.meta.com/)
 * [2025-02-09, 18:18:09](https://news.ycombinator.com/item?id=42992365) - [The \"Need for Chaos\" Voter](https://www.forkingpaths.co/p/the-need-for-chaos-voter-a68)

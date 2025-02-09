@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-09, 19:06:19](https://news.ycombinator.com/item?id=42992783) - [Intel ruined an Israeli startup it bought for $2B–and lost the AI race](https://www.calcalistech.com/ctechnews/article/s1tra0sfye)
 * [2025-02-09, 18:59:12](https://news.ycombinator.com/item?id=42992729) - [Daily omega-3 fatty acids may help human organs stay young](https://medicalxpress.com/news/2025-02-daily-omega-fatty-acids-human.html)
 * [2025-02-09, 18:49:06](https://news.ycombinator.com/item?id=42992643) - [Aidemos by Meta](https://aidemos.meta.com/)
 * [2025-02-09, 18:15:44](https://news.ycombinator.com/item?id=42992345) - [Persistent packages on Steam Deck using Nix](https://chrastecky.dev/gaming/persistent-packages-on-steam-deck-using-nix)
@@ -22,7 +23,6 @@
 * [2025-02-08, 19:09:21](https://news.ycombinator.com/item?id=42985342) - [Rwandan scientists develop local yeast for banana wine-makers](https://phys.org/news/2025-01-rwandan-scientists-local-yeast-banana.html)
 * [2025-02-08, 09:34:24](https://news.ycombinator.com/item?id=42981756) - [Teen on Musk's DOGE team graduated from 'The Com'](https://krebsonsecurity.com/2025/02/teen-on-musks-doge-team-graduated-from-the-com/)
 * [2025-02-07, 22:23:31](https://news.ycombinator.com/item?id=42978199) - [Obscure islands I find interesting](https://amanvir.com/obscure-islands)
-* [2025-02-07, 19:48:16](https://news.ycombinator.com/item?id=42976698) - [Do-nothing scripting: the key to gradual automation (2019)](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/)
 * [2025-02-07, 17:55:40](https://news.ycombinator.com/item?id=42975492) - [Cities can cost effectively start their own utilities](https://kevin.burke.dev/kevin/norcal-cities-new-utility/)
 * [2025-02-06, 15:42:23](https://news.ycombinator.com/item?id=42963414) - [Antimony Atoms Function as Error-Resistant Qubits](https://spectrum.ieee.org/quantum-error)
 * [2025-02-06, 14:03:39](https://news.ycombinator.com/item?id=42962394) - [Douglas McIlroy responds to Unix spell article with new implementation details](https://twitter.com/abhi9u/status/1887010136155414602)
