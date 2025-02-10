@@ -80,6 +80,7 @@
 * [2025-02-07, 07:42:53](https://news.ycombinator.com/item?id=42970400) - [Blocking the telemetry of Adobe apps](https://a.dove.isdumb.one/list.txt)
 * [2025-02-07, 07:41:38](https://news.ycombinator.com/item?id=42970397) - [How does life happen when there's barely any light?](https://www.quantamagazine.org/how-does-life-happen-when-theres-barely-any-light-20250129/)
 * [2025-02-07, 07:11:36](https://news.ycombinator.com/item?id=42970240) - [Donald Knuth's 2024 Christmas Lecture: Strong and Weak Components [video]](https://www.youtube.com/watch?v=Hi8r_63LGyg)
+* [2025-02-07, 06:58:10](https://news.ycombinator.com/item?id=42970169) - [Fake VS Code Extension on NPM Spreads Multi-Stage Malware](https://www.mend.io/blog/fake-vs-code-extension-on-npm-spreads-multi-stage-malware/)
 * [2025-02-07, 06:38:35](https://news.ycombinator.com/item?id=42970076) - [Google Fixes Android Kernel Zero-Day Exploited in Attacks](https://thedefendopsdiaries.com/google-fixes-android-kernel-zero-day-exploited-in-attacks/)
 * [2025-02-07, 06:32:00](https://news.ycombinator.com/item?id=42970039) - [Harvard preserving for public use data.gov datasets](https://lil.law.harvard.edu/blog/2025/02/06/announcing-data-gov-archive/)
 * [2025-02-07, 06:02:14](https://news.ycombinator.com/item?id=42969892) - [Gold-Medalist Performance in Solving Olympiad Geometry with AlphaGeometry2](https://arxiv.org/abs/2502.03544)
