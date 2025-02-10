@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-10](index.md)
 
+* [2025-02-10, 04:07:32](https://news.ycombinator.com/item?id=42996831) - [How Does Ada's Memory Safety Compare Against Rust?](https://ajxs.me/blog/How_Does_Adas_Memory_Safety_Compare_Against_Rust.html)
 * [2025-02-10, 04:01:36](https://news.ycombinator.com/item?id=42996796) - [Don't Be Frupid](https://selix.net/notes/dont-be-frupid)
 * [2025-02-10, 03:38:29](https://news.ycombinator.com/item?id=42996671) - [Thomas Aquinas' Skull Reveals Appearance and Cause of Death](https://www.ncregister.com/blog/face-of-aquinas-revealed-after-750-years)
 * [2025-02-10, 02:32:28](https://news.ycombinator.com/item?id=42996322) - [I Blog with Raw HTML](https://devpoga.org/i-blog-with-raw-html/)
