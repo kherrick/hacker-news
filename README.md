@@ -1,10 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-10, 02:32:28](https://news.ycombinator.com/item?id=42996322) - [I Blog with Raw HTML](https://devpoga.org/i-blog-with-raw-html/)
+* [2025-02-10, 03:38:29](https://news.ycombinator.com/item?id=42996671) - [Thomas Aquinas' Skull Reveals Appearance and Cause of Death](https://www.ncregister.com/blog/face-of-aquinas-revealed-after-750-years)
 * [2025-02-10, 01:27:56](https://news.ycombinator.com/item?id=42996003) - [Starlink and T-Mobile open satellite texting test to all – not just customers](https://www.washingtonpost.com/technology/2025/02/09/tmobile-starlink-satellite-texting/)
 * [2025-02-10, 00:23:25](https://news.ycombinator.com/item?id=42995579) - [Thank You Bootstrap 1](https://kylerego.github.io/thank-you-bootstrap-1)
 * [2025-02-09, 23:52:32](https://news.ycombinator.com/item?id=42995403) - [Reflect Orbital: Sunlight after dark using a constellation of spatial reflectors](https://www.reflectorbital.com/)
-* [2025-02-09, 22:36:56](https://news.ycombinator.com/item?id=42994828) - [One Text to Speech wrapper for Python for all (?) TTS engines](https://pypi.org/project/py3-tts-wrapper/)
 * [2025-02-09, 21:52:33](https://news.ycombinator.com/item?id=42994440) - [Show HN: Searchable Library of Free Audiobooks](https://booksearch.party/)
 * [2025-02-09, 21:06:55](https://news.ycombinator.com/item?id=42993987) - [Three Observations](https://blog.samaltman.com/three-observations)
 * [2025-02-09, 20:44:09](https://news.ycombinator.com/item?id=42993755) - [The Recombobulation Area (2023)](https://onmilwaukee.com/articles/recombobulationsigns)
@@ -29,6 +28,7 @@
 * [2025-02-06, 22:02:03](https://news.ycombinator.com/item?id=42966942) - [Show HN: Ricotta – Language Learning to Replace Anki](https://ricotta.affineur.io/)
 * [2025-02-06, 19:13:34](https://news.ycombinator.com/item?id=42965499) - [Grafana: Why observability needs FinOps, and vice versa](https://grafana.com/blog/2025/02/06/why-observability-needs-finops-and-vice-versa-the-vantage-integration-with-grafana-cloud/)
 * [2025-02-06, 14:03:39](https://news.ycombinator.com/item?id=42962394) - [Douglas McIlroy responds to Unix spell article with new implementation details](https://twitter.com/abhi9u/status/1887010136155414602)
+* [2025-02-06, 13:35:56](https://news.ycombinator.com/item?id=42962138) - [An Anonymous Investor Is Spending Millions to Make Underwater Homes](https://www.theguardian.com/environment/2025/feb/03/flooded-quarry-mysterious-millionaire-and-dream-new-atlantis-welsh-border-deep)
 * [2025-02-05, 15:40:27](https://news.ycombinator.com/item?id=42950059) - [3D reconstruction of the capital of the Aztec empire](https://tenochtitlan.thomaskole.nl/)
 
 ## [Archives](archives/index.md)
