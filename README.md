@@ -16,7 +16,7 @@
 * [2025-02-09, 17:50:10](https://news.ycombinator.com/item?id=42992159) - [Why Blog If Nobody Reads It?](https://andysblog.uk/why-blog-if-nobody-reads-it/)
 * [2025-02-09, 16:33:28](https://news.ycombinator.com/item?id=42991676) - [LIMO: Less Is More for Reasoning](https://arxiv.org/abs/2502.03387)
 * [2025-02-09, 16:17:01](https://news.ycombinator.com/item?id=42991558) - [Advanced Magnet Manufacturing Begins in the United States](https://spectrum.ieee.org/advanced-magnet-manufacturing-in-us)
-* [2025-02-09, 14:52:54](https://news.ycombinator.com/item?id=42991019) - [Kanata: Cross-platform multi-layer keyboard remapper with advanced customization](https://github.com/jtroo/kanata)
+* [2025-02-09, 13:29:01](https://news.ycombinator.com/item?id=42990546) - [Common Mistakes in Architecture Diagrams (2020)](https://www.ilograph.com/blog/posts/diagram-mistakes/)
 * [2025-02-09, 12:42:54](https://news.ycombinator.com/item?id=42990324) - [Don't \"optimize\" conditional moves in shaders with mix()+step()](https://iquilezles.org/articles/gpuconditionals/)
 * [2025-02-09, 11:39:38](https://news.ycombinator.com/item?id=42990036) - [Classic Data science pipelines built with LLMs](https://github.com/Pravko-Solutions/FlashLearn/tree/main/examples)
 * [2025-02-09, 09:45:57](https://news.ycombinator.com/item?id=42989609) - [Chimes at Midnight (2024)](https://asteriskmag.com/issues/08/chimes-at-midnight)

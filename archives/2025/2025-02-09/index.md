@@ -44,6 +44,7 @@
 * [2025-02-09, 14:38:52](https://news.ycombinator.com/item?id=42990948) - [How (not) to sign a JSON object (2019)](https://www.latacora.com/blog/2019/07/24/how-not-to/)
 * [2025-02-09, 14:16:40](https://news.ycombinator.com/item?id=42990819) - [Baffled by generational garbage collection – wingolog](https://wingolog.org/archives/2025/02/09/baffled-by-generational-garbage-collection)
 * [2025-02-09, 13:49:13](https://news.ycombinator.com/item?id=42990662) - [Definancialization / Hyperfinancialization](https://mylessnider.com/articles/definancialization-hyperfinancialization)
+* [2025-02-09, 13:29:01](https://news.ycombinator.com/item?id=42990546) - [Common Mistakes in Architecture Diagrams (2020)](https://www.ilograph.com/blog/posts/diagram-mistakes/)
 * [2025-02-09, 13:28:10](https://news.ycombinator.com/item?id=42990540) - [Show HN: My first side project, streamlined book clubs on Slack](https://booktalk.club/)
 * [2025-02-09, 13:01:21](https://news.ycombinator.com/item?id=42990401) - [Frontier AI systems have surpassed the self-replicating red line](https://arxiv.org/abs/2412.12140)
 * [2025-02-09, 12:49:48](https://news.ycombinator.com/item?id=42990351) - [Show HN: AI driven calendar to combat student procrastination](https://www.ocal.ai/)
