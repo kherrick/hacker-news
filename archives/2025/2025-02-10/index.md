@@ -6,6 +6,7 @@
 
 * [2025-02-10, 18:07:24](https://news.ycombinator.com/item?id=43003230) - [Kaspersky finds hardware backdoor in 5 generations of Apple Silicon (2024)](https://www.xstore.co.za/stuff/2024/01/kaspersky-finds-hardware-backdoor-in-5-generations-of-apple-silicon/)
 * [2025-02-10, 17:47:45](https://news.ycombinator.com/item?id=43002999) - [1% Equity for Founding Engineers Is BS](https://fetchfox.ai/a/founding-engineer-compensation)
+* [2025-02-10, 17:39:28](https://news.ycombinator.com/item?id=43002906) - [Work at the Mill Or, the Story of Digital Equipment Corporation](https://www.abortretry.fail/p/work-at-the-mill)
 * [2025-02-10, 17:20:21](https://news.ycombinator.com/item?id=43002679) - [Just give the man the fish (i.e. just answer the question)](https://blog.plover.com/misc/just-answer-the-question-2.html)
 * [2025-02-10, 17:03:44](https://news.ycombinator.com/item?id=43002492) - [The Physicians Are Healing Themselves, with Ozempic](https://www.nytimes.com/2025/02/10/health/doctors-ozempic-weight-loss.html)
 * [2025-02-10, 16:58:20](https://news.ycombinator.com/item?id=43002426) - [A story about USB floppy drives (2004)](https://devblogs.microsoft.com/oldnewthing/20040409-00/?p=39873)
