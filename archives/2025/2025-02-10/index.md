@@ -7,6 +7,7 @@
 * [2025-02-10, 13:05:00](https://news.ycombinator.com/item?id=42999742) - [AI is accelerating scientific production, not progress](https://twitter.com/random_walker/status/1888919433671843947)
 * [2025-02-10, 12:54:51](https://news.ycombinator.com/item?id=42999672) - [Python 3.14 Getting New Interpreter](https://docs.python.org/3.14/whatsnew/3.14.html#whatsnew314-tail-call)
 * [2025-02-10, 12:53:20](https://news.ycombinator.com/item?id=42999661) - [Steam makes its ban on in-game ads explicit](https://www.pcgamer.com/gaming-industry/valve-bans-games-that-rely-on-in-game-ads-from-steam-so-no-watch-this-to-continue-playing-stuff-will-be-making-its-way-to-our-pcs/)
+* [2025-02-10, 12:51:34](https://news.ycombinator.com/item?id=42999650) - [What about K?](https://xpqz.github.io/kbook/Introduction.html)
 * [2025-02-10, 12:48:24](https://news.ycombinator.com/item?id=42999632) - [AI Tool Found My Autoimmune Disease After $100k and 30 Hospital Visits](https://old.reddit.com/r/selfhosted/comments/1ij7s4m/how_i_built_an_open_source_ai_tool_to_find_my/)
 * [2025-02-10, 12:38:08](https://news.ycombinator.com/item?id=42999561) - [Advertising Is a Cancer on Society](https://jacek.zlydach.pl/blog/2019-07-31-ads-as-cancer.html)
 * [2025-02-10, 12:24:19](https://news.ycombinator.com/item?id=42999464) - [The Crisis in Tech's Obsession with Junior Talent](https://medium.com/mr-plan-publication/8-out-of-10-senior-engineers-feel-undervalued-the-hidden-crisis-in-techs-obsession-with-junior-fa9cc62b1e8e)
