@@ -32,6 +32,7 @@
 * [2025-02-06, 15:44:53](https://news.ycombinator.com/item?id=42963447) - [The world has probably passed \"peak air pollution\"](https://ourworldindata.org/data-insights/the-world-has-probably-passed-peak-air-pollution)
 * [2025-02-06, 15:42:23](https://news.ycombinator.com/item?id=42963414) - [Antimony Atoms Function as Error-Resistant Qubits](https://spectrum.ieee.org/quantum-error)
 * [2025-02-06, 15:35:32](https://news.ycombinator.com/item?id=42963346) - [Show HN: An homage to Tom Dowdy's 1991 screensaver, \"Kaos\"](https://thestrikeagency.com/kaos/)
+* [2025-02-06, 15:16:50](https://news.ycombinator.com/item?id=42963153) - [Adding cooking oil to asphalt to create self-healing roads](https://www.thetimes.com/uk/transport/article/pothole-roads-cooking-oil-27vnf27bg)
 * [2025-02-06, 15:08:37](https://news.ycombinator.com/item?id=42963070) - [RustDesk – open-source alternative to TeamViewer](https://github.com/rustdesk/rustdesk)
 * [2025-02-06, 14:44:11](https://news.ycombinator.com/item?id=42962822) - [Five coding hats](https://dubroy.com/blog/five-coding-hats/)
 * [2025-02-06, 14:35:04](https://news.ycombinator.com/item?id=42962702) - [U.S. Government Disclosed 39 Zero-Day Vulnerabilities in 2023, First-Ever Report](https://www.zetter-zeroday.com/u-s-government-disclosed-39-zero-day-vulnerabilities-in-2023-per-first-ever-report/)
