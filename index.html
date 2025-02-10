@@ -141,11 +141,11 @@
             <h4>
               <span>2025-02-10 @ 14:14:22</span
               ><span class="points-container"
-                >Points: <span class="points">101</span></span
+                >Points: <span class="points">112</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43000529"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -162,11 +162,11 @@
             <h4>
               <span>2025-02-10 @ 13:54:38</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43000316"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -183,7 +183,7 @@
             <h4>
               <span>2025-02-10 @ 13:52:53</span
               ><span class="points-container"
-                >Points: <span class="points">120</span></span
+                >Points: <span class="points">130</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43000303"
                   >Comments</a
@@ -215,7 +215,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42999650"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -232,11 +232,11 @@
             <h4>
               <span>2025-02-10 @ 12:48:24</span
               ><span class="points-container"
-                >Points: <span class="points">200</span></span
+                >Points: <span class="points">209</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42999632"
                   >Comments</a
-                ><span class="descendants">: 110</span></span
+                ><span class="descendants">: 114</span></span
               >
             </h4>
           </section>
@@ -258,6 +258,72 @@
             </h4>
           </section>
         </section>
+        <section id="42998431">
+          <h3>
+            <a class="item" href="https://seen-v2.vercel.app/"
+              >Show HN: Seen: rendering 1,000,000+ notes in &amp;lt;1s. speed,
+              by default</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-02-10 @ 09:22:29</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=42998431"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>Seen currently has:</p>
+              <p>
+                - A client-side search feature - Creating, updating, deleting
+                the topmost note (locally; no changes are saved to any server) -
+                Automatic repacking of the masonry layout when the window width
+                changes - A lot of bugs, I'm sure
+              </p>
+              <p>
+                I reached a point where I thought I was ready to show the Seen
+                to the world, and this is it. It's pretty basic, I know, but I'm
+                really proud of it.
+              </p>
+              <p>
+                Seen was born out of an experiment to see just how fast things
+                can become if you use the right techniques, and will (hopefully)
+                achieve this dream sometime in the near future. My vision for
+                Seen is to create something that can handle a lot of notes while
+                using the least amount of resources. If you've got any
+                suggestions or bugs, they're welcome in the comments!
+              </p>
+              <p>
+                A little about how Seen works: during the first visit, Seen
+                caches note heights for the specific window width. Seen also
+                caches the HTML output for the Markdown notes. It caches height
+                by the key SHA256(title + note content), and the
+                Markdown-to-HTML renders by the key SHA256(note content). It
+                uses this cache every other time instead of recalculating,
+                meaning that if most of the content remains unchanged, Seen can
+                render things pretty fast. Caches are saved to IndexedDB.
+              </p>
+              <p>
+                When window width changes, the amount of text that can fit in a
+                line also changes. So, Seen caches heights for specific window
+                widths as well, putting the width in the key. Scrolling triggers
+                an event handler that calculates the current viewport and finds
+                &amp; renders all notes that are visible (or partially visible)
+                with a buffer of a 600px.
+              </p>
+              <p>
+                When a note is deleted or inserted, the entire layout is
+                re-rendered. I plan on optimizing this to only re-render the
+                specific column, which is what happens anyway when a note is
+                updated. Updated notes create new caches (as they should).
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="42998061">
           <h3>
             <a
@@ -270,11 +336,11 @@
             <h4>
               <span>2025-02-10 @ 08:30:54</span
               ><span class="points-container"
-                >Points: <span class="points">104</span></span
+                >Points: <span class="points">106</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42998061"
                   >Comments</a
-                ><span class="descendants">: 73</span></span
+                ><span class="descendants">: 75</span></span
               >
             </h4>
           </section>
@@ -291,7 +357,7 @@
             <h4>
               <span>2025-02-10 @ 03:38:29</span
               ><span class="points-container"
-                >Points: <span class="points">151</span></span
+                >Points: <span class="points">156</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42996671"
                   >Comments</a
@@ -327,7 +393,7 @@
             <h4>
               <span>2025-02-09 @ 18:49:06</span
               ><span class="points-container"
-                >Points: <span class="points">273</span></span
+                >Points: <span class="points">274</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42992643"
                   >Comments</a
@@ -351,7 +417,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42992336"
                   >Comments</a
-                ><span class="descendants">: 71</span></span
+                ><span class="descendants">: 72</span></span
               >
             </h4>
           </section>
@@ -366,7 +432,7 @@
             <h4>
               <span>2025-02-09 @ 16:33:28</span
               ><span class="points-container"
-                >Points: <span class="points">346</span></span
+                >Points: <span class="points">347</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42991676"
                   >Comments</a
@@ -387,11 +453,11 @@
             <h4>
               <span>2025-02-09 @ 16:17:01</span
               ><span class="points-container"
-                >Points: <span class="points">131</span></span
+                >Points: <span class="points">133</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42991558"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
           </section>
@@ -408,7 +474,7 @@
             <h4>
               <span>2025-02-09 @ 14:16:40</span
               ><span class="points-container"
-                >Points: <span class="points">117</span></span
+                >Points: <span class="points">118</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42990819"
                   >Comments</a
@@ -429,11 +495,11 @@
             <h4>
               <span>2025-02-09 @ 13:29:01</span
               ><span class="points-container"
-                >Points: <span class="points">143</span></span
+                >Points: <span class="points">145</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42990546"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
@@ -451,7 +517,7 @@
             <h4>
               <span>2025-02-09 @ 12:42:54</span
               ><span class="points-container"
-                >Points: <span class="points">371</span></span
+                >Points: <span class="points">372</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42990324"
                   >Comments</a
@@ -513,11 +579,11 @@
             <h4>
               <span>2025-02-09 @ 08:24:17</span
               ><span class="points-container"
-                >Points: <span class="points">756</span></span
+                >Points: <span class="points">757</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42989320"
                   >Comments</a
-                ><span class="descendants">: 424</span></span
+                ><span class="descendants">: 425</span></span
               >
             </h4>
             <div class="text">
@@ -571,7 +637,7 @@
             <h4>
               <span>2025-02-08 @ 19:09:21</span
               ><span class="points-container"
-                >Points: <span class="points">161</span></span
+                >Points: <span class="points">163</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42985342"
                   >Comments</a
@@ -592,11 +658,11 @@
             <h4>
               <span>2025-02-08 @ 09:34:24</span
               ><span class="points-container"
-                >Points: <span class="points">1436</span></span
+                >Points: <span class="points">1443</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42981756"
                   >Comments</a
-                ><span class="descendants">: 1417</span></span
+                ><span class="descendants">: 1428</span></span
               >
             </h4>
           </section>
@@ -613,7 +679,7 @@
             <h4>
               <span>2025-02-07 @ 19:06:44</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42976244"
                   >Comments</a
@@ -635,11 +701,11 @@
             <h4>
               <span>2025-02-07 @ 16:10:46</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42974278"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -657,7 +723,7 @@
             <h4>
               <span>2025-02-07 @ 14:37:46</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42973049"
                   >Comments</a
@@ -679,32 +745,11 @@
             <h4>
               <span>2025-02-07 @ 11:25:19</span
               ><span class="points-container"
-                >Points: <span class="points">96</span></span
+                >Points: <span class="points">97</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42971442"
                   >Comments</a
                 ><span class="descendants">: 27</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="42968039">
-          <h3>
-            <a
-              class="item"
-              href="https://rudyfaile.com/2020/07/06/building-an-easy-web-application/"
-              >Building an "Easy" Web Application</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-02-07 @ 00:40:31</span
-              ><span class="points-container"
-                >Points: <span class="points">60</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42968039"
-                  >Comments</a
-                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -793,7 +838,7 @@
             <h4>
               <span>2025-02-06 @ 06:59:20</span
               ><span class="points-container"
-                >Points: <span class="points">148</span></span
+                >Points: <span class="points">152</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42959824"
                   >Comments</a
