@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-10, 13:52:53",
+      "https://news.ycombinator.com/item?id=43000303"
+    ],
+    [
+      "Show HN: HTML visualization of a PDF file's internal structure",
+      "https://github.com/desgeeko/pdfsyntax/blob/main/docs/browse.md"
+    ]
+  ],
+  [
+    [
+      "2025-02-10, 13:50:40",
+      "https://news.ycombinator.com/item?id=43000275"
+    ],
+    [
+      "Why hasn't commercial air travel gotten any faster since the 1960s?",
+      "https://engineering.mit.edu/engage/ask-an-engineer/why-hasnt-commercial-air-travel-gotten-any-faster-since-the-1960s/"
+    ]
+  ],
+  [
+    [
       "2025-02-10, 12:51:34",
       "https://news.ycombinator.com/item?id=42999650"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=42999632"
     ],
     [
-      "AI Tool Found My Autoimmune Disease After $100k and 30 Hospital Visits",
+      "I built an open source AI tool to find my autoimmune disease",
       "https://old.reddit.com/r/selfhosted/comments/1ij7s4m/how_i_built_an_open_source_ai_tool_to_find_my/"
     ]
   ],
@@ -57,16 +77,6 @@
     [
       "How does Ada's memory safety compare against Rust?",
       "https://ajxs.me/blog/How_Does_Adas_Memory_Safety_Compare_Against_Rust.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-10, 04:01:36",
-      "https://news.ycombinator.com/item?id=42996796"
-    ],
-    [
-      "Don't Be Frupid",
-      "https://selix.net/notes/dont-be-frupid"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2025-02-09, 11:39:38",
-      "https://news.ycombinator.com/item?id=42990036"
-    ],
-    [
-      "Classic Data science pipelines built with LLMs",
-      "https://github.com/Pravko-Solutions/FlashLearn/tree/main/examples"
-    ]
-  ],
-  [
-    [
       "2025-02-09, 09:45:57",
       "https://news.ycombinator.com/item?id=42989609"
     ],
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2025-02-07, 19:06:44",
+      "https://news.ycombinator.com/item?id=42976244"
+    ],
+    [
+      "Explainable Linear Programs",
+      "https://www.jeremykun.com/shortform/2025-02-06-2124/"
+    ]
+  ],
+  [
+    [
       "2025-02-07, 16:10:46",
       "https://news.ycombinator.com/item?id=42974278"
     ],
@@ -247,16 +257,6 @@
     [
       "Revenge of the GPT Wrappers: Defensibility in a world of commoditized AI models",
       "https://andrewchen.substack.com/p/revenge-of-the-gpt-wrappers-defensibility"
-    ]
-  ],
-  [
-    [
-      "2025-02-07, 00:40:31",
-      "https://news.ycombinator.com/item?id=42968039"
-    ],
-    [
-      "Building an \"Easy\" Web Application",
-      "https://rudyfaile.com/2020/07/06/building-an-easy-web-application/"
     ]
   ],
   [
