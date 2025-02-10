@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-10](index.md)
 
+* [2025-02-10, 21:00:29](https://news.ycombinator.com/item?id=43005096) - [Fly.io (YC W20) Is Hiring a Customer Support Director](https://news.ycombinator.com/item?id=43005096)
+* [2025-02-10, 20:48:38](https://news.ycombinator.com/item?id=43004966) - [The 'Mosaic' Method and the Value of CIA Names to U.S. Adversaries](https://www.lawfaremedia.org/article/the--mosaic--method-and-the-value-of-cia-names-to-u.s.-adversaries)
 * [2025-02-10, 19:50:20](https://news.ycombinator.com/item?id=43004416) - [Scaling Up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach](https://arxiv.org/abs/2502.05171)
 * [2025-02-10, 19:45:35](https://news.ycombinator.com/item?id=43004373) - [What Happens to SaaS in a World with Computer Using Agents?](https://docs.google.com/document/d/1nWZtJlPmBD15rGqNxj7u6HroaNvXT6YD-TXktpIwf6c/edit?usp=sharing)
 * [2025-02-10, 19:42:02](https://news.ycombinator.com/item?id=43004334) - [Patterns for Building Realtime Features](https://zknill.io/posts/patterns-for-building-realtime/)
