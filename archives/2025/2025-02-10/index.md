@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-10](index.md)
 
+* [2025-02-10, 05:56:05](https://news.ycombinator.com/item?id=42997340) - [TL;DR of Deep Dive into LLMs Like ChatGPT by Andrej Karpathy](https://anfalmushtaq.com/articles/deep-dive-into-llms-like-chatgpt-tldr)
 * [2025-02-10, 05:48:25](https://news.ycombinator.com/item?id=42997308) - [L.A. power utility found irregularities on equipment where wildfire broke out](https://www.nytimes.com/2025/02/06/business/eaton-fire-power-lines-edison.html)
 * [2025-02-10, 05:40:55](https://news.ycombinator.com/item?id=42997285) - [Judge denies union demand to block DOGE's access to Labor Department data](https://www.politico.com/news/2025/02/07/judge-denies-lawsuit-union-musk-doge-labor-department-00203245)
 * [2025-02-10, 04:07:32](https://news.ycombinator.com/item?id=42996831) - [How Does Ada's Memory Safety Compare Against Rust?](https://ajxs.me/blog/How_Does_Adas_Memory_Safety_Compare_Against_Rust.html)
