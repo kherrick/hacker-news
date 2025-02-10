@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-10, 09:14:38](https://news.ycombinator.com/item?id=42998370) - [Euclid telescope captures Einstein ring revealing warping of space](https://www.theguardian.com/science/2025/feb/10/euclid-telescope-captures-einstein-ring-revealing-warping-of-space)
+* [2025-02-10, 11:05:56](https://news.ycombinator.com/item?id=42999044) - [Man who lost Bitcoin fortune in Welsh tip explores purchase of entire landfill](https://www.theguardian.com/technology/2025/feb/10/man-who-lost-bitcoin-fortune-in-welsh-tip-explores-purchase-of-entire-landfill)
 * [2025-02-10, 08:30:54](https://news.ycombinator.com/item?id=42998061) - [FOSDEM 2025: The state of Rust trying to catch up with Ada [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-5356-the-state-of-rust-trying-to-catch-up-with-ada/)
 * [2025-02-10, 08:25:13](https://news.ycombinator.com/item?id=42998024) - [To buy a Tesla Model 3, only to end up in hell](https://www.myteslaexperience.com/2025-02-01/to-buy-a-tesla-mode-3-only-to-end-up-in-hell)
 * [2025-02-10, 07:03:57](https://news.ycombinator.com/item?id=42997647) - [Apple's Best Option: Decentralize iCloud](https://www.mnot.net/blog/2025/02/09/decentralize-icloud)
