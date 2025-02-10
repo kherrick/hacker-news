@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=43000275"
     ],
     [
-      "Why hasn't commercial air travel gotten any faster since the 1960s?",
+      "Why hasn't commercial air travel gotten any faster since the 1960s? (2009)",
       "https://engineering.mit.edu/engage/ask-an-engineer/why-hasnt-commercial-air-travel-gotten-any-faster-since-the-1960s/"
     ]
   ],
@@ -111,12 +111,12 @@
   ],
   [
     [
-      "2025-02-09, 18:49:06",
-      "https://news.ycombinator.com/item?id=42992643"
+      "2025-02-09, 18:15:44",
+      "https://news.ycombinator.com/item?id=42992345"
     ],
     [
-      "AI Demos",
-      "https://aidemos.meta.com/"
+      "Persistent packages on Steam Deck using Nix",
+      "https://chrastecky.dev/gaming/persistent-packages-on-steam-deck-using-nix"
     ]
   ],
   [
@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2025-02-09, 14:16:40",
+      "https://news.ycombinator.com/item?id=42990819"
+    ],
+    [
+      "Baffled by generational garbage collection – wingolog",
+      "https://wingolog.org/archives/2025/02/09/baffled-by-generational-garbage-collection"
+    ]
+  ],
+  [
+    [
       "2025-02-09, 13:29:01",
       "https://news.ycombinator.com/item?id=42990546"
     ],
@@ -167,16 +177,6 @@
     [
       "Don't \"optimize\" conditional moves in shaders with mix()+step()",
       "https://iquilezles.org/articles/gpuconditionals/"
-    ]
-  ],
-  [
-    [
-      "2025-02-09, 11:39:38",
-      "https://news.ycombinator.com/item?id=42990036"
-    ],
-    [
-      "Classic Data science pipelines built with LLMs",
-      "https://github.com/Pravko-Solutions/FlashLearn/tree/main/examples"
     ]
   ],
   [
