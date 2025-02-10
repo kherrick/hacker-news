@@ -8,7 +8,6 @@
 * [2025-02-10, 04:01:36](https://news.ycombinator.com/item?id=42996796) - [Don't Be Frupid](https://selix.net/notes/dont-be-frupid)
 * [2025-02-10, 03:38:29](https://news.ycombinator.com/item?id=42996671) - [Thomas Aquinas' skull reveals appearance and cause of death](https://www.ncregister.com/blog/face-of-aquinas-revealed-after-750-years)
 * [2025-02-09, 21:52:33](https://news.ycombinator.com/item?id=42994440) - [Show HN: Searchable library of free audiobooks](https://booksearch.party/)
-* [2025-02-09, 21:06:55](https://news.ycombinator.com/item?id=42993987) - [Three Observations](https://blog.samaltman.com/three-observations)
 * [2025-02-09, 20:44:09](https://news.ycombinator.com/item?id=42993755) - [The Recombobulation Area (2023)](https://onmilwaukee.com/articles/recombobulationsigns)
 * [2025-02-09, 20:17:41](https://news.ycombinator.com/item?id=42993490) - [No AI December Reflections](https://blog.rybarix.com/2025/02/09/noaidecember.html)
 * [2025-02-09, 19:32:57](https://news.ycombinator.com/item?id=42993044) - [OpenStreetMap Calendar](https://osmcal.org/)
@@ -29,6 +28,7 @@
 * [2025-02-07, 03:49:32](https://news.ycombinator.com/item?id=42969154) - [Guiding Electricity with Sound](https://phys.org/news/2025-02-invisible-electric-wire-electricity.html)
 * [2025-02-06, 23:40:13](https://news.ycombinator.com/item?id=42967633) - [Library Sandboxing for Verona](https://github.com/microsoft/verona-sandbox)
 * [2025-02-06, 14:03:39](https://news.ycombinator.com/item?id=42962394) - [Douglas McIlroy responds to Unix spell article with new implementation details](https://twitter.com/abhi9u/status/1887010136155414602)
+* [2025-02-06, 12:23:10](https://news.ycombinator.com/item?id=42961684) - [Out of Africa: celebrating 100 years of human-origins research](https://www.nature.com/articles/d41586-025-00282-1)
 * [2025-02-06, 06:59:20](https://news.ycombinator.com/item?id=42959824) - [Some terminal frustrations](https://jvns.ca/blog/2025/02/05/some-terminal-frustrations/)
 
 ## [Archives](archives/index.md)

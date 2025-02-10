@@ -51,6 +51,7 @@
 * [2025-02-06, 12:52:52](https://news.ycombinator.com/item?id=42961855) - [Cell-Based Architecture Explained, with Zombies](https://bencane.com/cell-based-architecture-explained-with-zombies-f5e814d3e5d2)
 * [2025-02-06, 12:51:56](https://news.ycombinator.com/item?id=42961849) - [A better (than Optional) maybe for Java](https://github.com/andrewcmyers/maybe)
 * [2025-02-06, 12:39:37](https://news.ycombinator.com/item?id=42961795) - [Explorable Flexagons: Learn to create and flex flexagons (2020)](http://loki3.com/flex/explore/)
+* [2025-02-06, 12:23:10](https://news.ycombinator.com/item?id=42961684) - [Out of Africa: celebrating 100 years of human-origins research](https://www.nature.com/articles/d41586-025-00282-1)
 * [2025-02-06, 12:09:55](https://news.ycombinator.com/item?id=42961606) - [Science of Microwave Ovens](https://www.genuineideas.com/ArticlesIndex/wave.html)
 * [2025-02-06, 12:02:18](https://news.ycombinator.com/item?id=42961572) - [HTML Kaleidoscope](https://codepen.io/AAMutlu20/pen/mdYxroj)
 * [2025-02-06, 12:00:23](https://news.ycombinator.com/item?id=42961562) - [Memfault (YC W19) Is Hiring an Android System (AOSP) Engineer](https://jobs.lever.co/memfault/1904a421-de92-46bf-8864-2965582cd6df)
