@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-10, 05:40:55](https://news.ycombinator.com/item?id=42997285) - [Judge denies union demand to block DOGE's access to Labor Department data](https://www.politico.com/news/2025/02/07/judge-denies-lawsuit-union-musk-doge-labor-department-00203245)
 * [2025-02-10, 04:07:32](https://news.ycombinator.com/item?id=42996831) - [How Does Ada's Memory Safety Compare Against Rust?](https://ajxs.me/blog/How_Does_Adas_Memory_Safety_Compare_Against_Rust.html)
 * [2025-02-10, 04:01:36](https://news.ycombinator.com/item?id=42996796) - [Don't Be Frupid](https://selix.net/notes/dont-be-frupid)
 * [2025-02-10, 03:38:29](https://news.ycombinator.com/item?id=42996671) - [Thomas Aquinas' skull reveals appearance and cause of death](https://www.ncregister.com/blog/face-of-aquinas-revealed-after-750-years)
+* [2025-02-10, 02:32:28](https://news.ycombinator.com/item?id=42996322) - [I Blog with Raw HTML](https://devpoga.org/i-blog-with-raw-html/)
 * [2025-02-10, 00:23:25](https://news.ycombinator.com/item?id=42995579) - [Thank You Bootstrap 1](https://kylerego.github.io/thank-you-bootstrap-1)
 * [2025-02-09, 23:52:32](https://news.ycombinator.com/item?id=42995403) - [Reflect Orbital: Sunlight after dark using a constellation of spatial reflectors](https://www.reflectorbital.com/)
 * [2025-02-09, 21:52:33](https://news.ycombinator.com/item?id=42994440) - [Show HN: Searchable Library of Free Audiobooks](https://booksearch.party/)
@@ -24,10 +24,10 @@
 * [2025-02-09, 08:24:17](https://news.ycombinator.com/item?id=42989320) - [Modern-Day Oracles or Bullshit Machines? How to thrive in a ChatGPT world](https://thebullshitmachines.com)
 * [2025-02-08, 19:09:21](https://news.ycombinator.com/item?id=42985342) - [Rwandan scientists develop local yeast for banana wine-makers](https://phys.org/news/2025-01-rwandan-scientists-local-yeast-banana.html)
 * [2025-02-08, 09:34:24](https://news.ycombinator.com/item?id=42981756) - [Teen on Musk's DOGE team graduated from 'The Com'](https://krebsonsecurity.com/2025/02/teen-on-musks-doge-team-graduated-from-the-com/)
+* [2025-02-07, 14:37:46](https://news.ycombinator.com/item?id=42973049) - [Mapping Antarctica's hidden ice-free lands: a blueprint for conservation](https://www.unsw.edu.au/newsroom/news/2025/01/mapping-antarcticas-hidden-ice-free-lands-a-blueprint-for-conservation)
 * [2025-02-07, 11:25:19](https://news.ycombinator.com/item?id=42971442) - [Revenge of the GPT Wrappers: Defensibility in a world of commoditized AI models](https://andrewchen.substack.com/p/revenge-of-the-gpt-wrappers-defensibility)
 * [2025-02-07, 00:40:31](https://news.ycombinator.com/item?id=42968039) - [Building an \"Easy\" Web Application](https://rudyfaile.com/2020/07/06/building-an-easy-web-application/)
 * [2025-02-06, 22:02:03](https://news.ycombinator.com/item?id=42966942) - [Show HN: Ricotta – Language Learning to Replace Anki](https://ricotta.affineur.io/)
-* [2025-02-06, 19:13:34](https://news.ycombinator.com/item?id=42965499) - [Grafana: Why observability needs FinOps, and vice versa](https://grafana.com/blog/2025/02/06/why-observability-needs-finops-and-vice-versa-the-vantage-integration-with-grafana-cloud/)
 * [2025-02-06, 14:03:39](https://news.ycombinator.com/item?id=42962394) - [Douglas McIlroy responds to Unix spell article with new implementation details](https://twitter.com/abhi9u/status/1887010136155414602)
 * [2025-02-06, 13:35:56](https://news.ycombinator.com/item?id=42962138) - [An Anonymous Investor Is Spending Millions to Make Underwater Homes](https://www.theguardian.com/environment/2025/feb/03/flooded-quarry-mysterious-millionaire-and-dream-new-atlantis-welsh-border-deep)
 

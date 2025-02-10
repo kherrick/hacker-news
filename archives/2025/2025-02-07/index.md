@@ -35,6 +35,7 @@
 * [2025-02-07, 15:40:38](https://news.ycombinator.com/item?id=42973897) - [When Louis Armstrong Conquered Chicago](https://www.honest-broker.com/p/when-louis-armstrong-conquered-chicago)
 * [2025-02-07, 15:30:08](https://news.ycombinator.com/item?id=42973769) - [Kokoro WebGPU: Real-time text-to-speech 100% locally in the browser](https://huggingface.co/spaces/webml-community/kokoro-webgpu)
 * [2025-02-07, 14:44:45](https://news.ycombinator.com/item?id=42973131) - [Baltic countries disconnect from the Russian power grid](https://baltic-grid.sympower.net/)
+* [2025-02-07, 14:37:46](https://news.ycombinator.com/item?id=42973049) - [Mapping Antarctica's hidden ice-free lands: a blueprint for conservation](https://www.unsw.edu.au/newsroom/news/2025/01/mapping-antarcticas-hidden-ice-free-lands-a-blueprint-for-conservation)
 * [2025-02-07, 14:33:32](https://news.ycombinator.com/item?id=42972982) - [Noether's Theorem Revolutionized Physics](https://www.quantamagazine.org/how-noethers-theorem-revolutionized-physics-20250207/)
 * [2025-02-07, 14:25:35](https://news.ycombinator.com/item?id=42972876) - [Feds Halt the National Electric Vehicle Charging Program](https://www.wired.com/story/feds-halt-national-electric-vehicle-charging-program/)
 * [2025-02-07, 14:24:03](https://news.ycombinator.com/item?id=42972854) - [AI dialogue analysis confirms movies have grown more violent over past 70 years](https://phys.org/news/2025-02-ai-driven-dialogue-analysis-popular.html)
