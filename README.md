@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-10, 17:39:28](https://news.ycombinator.com/item?id=43002906) - [Work at the Mill Or, the Story of Digital Equipment Corporation](https://www.abortretry.fail/p/work-at-the-mill)
+* [2025-02-10, 17:05:09](https://news.ycombinator.com/item?id=43002511) - [Undergraduate Upends a 40-Year-Old Data Science Conjecture](https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/)
 * [2025-02-10, 16:59:27](https://news.ycombinator.com/item?id=43002440) - [CAPTCHAs: 'a tracking cookie farm for profit masquerading as a security service'](https://www.pcgamer.com/gaming-industry/a-2023-study-concluded-captchas-are-a-tracking-cookie-farm-for-profit-masquerading-as-a-security-service-that-made-us-spend-819-billion-hours-clicking-on-traffic-lights-to-generate-nearly-usd1-trillion-for-google/)
 * [2025-02-10, 16:58:20](https://news.ycombinator.com/item?id=43002426) - [A story about USB floppy drives (2004)](https://devblogs.microsoft.com/oldnewthing/20040409-00/?p=39873)
 * [2025-02-10, 16:31:59](https://news.ycombinator.com/item?id=43002130) - [Earth's inner core may have changed shape, say scientists](https://www.bbc.co.uk/news/articles/c4gx37ky3gyo)
 * [2025-02-10, 15:54:45](https://news.ycombinator.com/item?id=43001688) - [Show HN: Global 3D topography explorer](https://topography.jessekv.com)
-* [2025-02-10, 15:32:10](https://news.ycombinator.com/item?id=43001441) - [Bank CEO: Retract your debanking piece? Me: No](https://www.kalzumeus.com/2025/02/10/retraction-request-denied/)
 * [2025-02-10, 14:38:29](https://news.ycombinator.com/item?id=43000792) - [Ask HN: Physics PhD at Stanford or Berkeley](https://news.ycombinator.com/item?id=43000792)
 * [2025-02-10, 14:14:22](https://news.ycombinator.com/item?id=43000529) - [The Anthropic Economic Index](https://www.anthropic.com/news/the-anthropic-economic-index)
 * [2025-02-10, 13:54:38](https://news.ycombinator.com/item?id=43000316) - [Surnames from nicknames nobody has any more](https://blog.plover.com/lang/etym/nickname-names.html)
