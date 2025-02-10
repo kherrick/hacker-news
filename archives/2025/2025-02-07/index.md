@@ -13,6 +13,7 @@
 * [2025-02-07, 20:56:58](https://news.ycombinator.com/item?id=42977388) - [Show HN: ExpenseOwl – simple and beautiful self-hostedexpense tracker](https://github.com/Tanq16/ExpenseOwl)
 * [2025-02-07, 20:50:26](https://news.ycombinator.com/item?id=42977332) - [Long Covid impacting more than 1M children: CDC study suggests](https://abcnews.go.com/Health/long-covid-impacting-1-million-children-cdc-study/story?id=118393880)
 * [2025-02-07, 20:41:06](https://news.ycombinator.com/item?id=42977245) - [Show HN: Open-source Hacker News apps](https://github.com/EmergeTools/hackernews)
+* [2025-02-07, 20:28:37](https://news.ycombinator.com/item?id=42977100) - [I Like and Use Global Variables](https://codestyleandtaste.com/i-like-globals.html)
 * [2025-02-07, 20:23:17](https://news.ycombinator.com/item?id=42977039) - [The Impact of AI on the Technical Interview Process](https://coderev.app/blog/the-impact-of-ai-on-the-technical-interview-process/)
 * [2025-02-07, 19:49:23](https://news.ycombinator.com/item?id=42976708) - [AMOC shutdown likely within the next 20-30 years](https://www.tandfonline.com/doi/full/10.1080/00139157.2025.2434494)
 * [2025-02-07, 19:48:16](https://news.ycombinator.com/item?id=42976698) - [Do-nothing scripting: the key to gradual automation (2019)](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/)
