@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-10](index.md)
 
+* [2025-02-10, 23:23:58](https://news.ycombinator.com/item?id=43006605) - [Large Nuclear-Powered Subsonic Aircraft for Transoceanic Commerce (1971) [pdf]](https://ntrs.nasa.gov/api/citations/19710028801/downloads/19710028801.pdf)
+* [2025-02-10, 22:57:31](https://news.ycombinator.com/item?id=43006390) - [Hedge Funds Are Pocketing Much of Their Clients' Gains with 'No Limit' Fees](https://www.bloomberg.com/graphics/2025-hedge-fund-investment-fees/)
 * [2025-02-10, 22:56:39](https://news.ycombinator.com/item?id=43006383) - [The ABA supports the rule of law](https://www.americanbar.org/news/abanews/aba-news-archives/2025/02/aba-supports-the-rule-of-law/)
 * [2025-02-10, 21:00:29](https://news.ycombinator.com/item?id=43005096) - [Fly.io (YC W20) Is Hiring a Customer Support Director](https://news.ycombinator.com/item?id=43005096)
 * [2025-02-10, 21:00:14](https://news.ycombinator.com/item?id=43005093) - [The McKinley Years](https://jasonsteinhauer.substack.com/p/make-mckinley-great-again)

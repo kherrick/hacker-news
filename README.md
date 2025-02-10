@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-10, 22:56:39](https://news.ycombinator.com/item?id=43006383) - [The ABA supports the rule of law](https://www.americanbar.org/news/abanews/aba-news-archives/2025/02/aba-supports-the-rule-of-law/)
+* [2025-02-10, 23:23:58](https://news.ycombinator.com/item?id=43006605) - [Large Nuclear-Powered Subsonic Aircraft for Transoceanic Commerce (1971) [pdf]](https://ntrs.nasa.gov/api/citations/19710028801/downloads/19710028801.pdf)
+* [2025-02-10, 22:57:31](https://news.ycombinator.com/item?id=43006390) - [Hedge Funds Are Pocketing Much of Their Clients' Gains with 'No Limit' Fees](https://www.bloomberg.com/graphics/2025-hedge-fund-investment-fees/)
 * [2025-02-10, 21:00:29](https://news.ycombinator.com/item?id=43005096) - [Fly.io (YC W20) Is Hiring a Customer Support Director](https://news.ycombinator.com/item?id=43005096)
 * [2025-02-10, 20:42:18](https://news.ycombinator.com/item?id=43004889) - [Musk-led group makes $97B bid for control of OpenAI](https://www.reuters.com/markets/deals/elon-musk-led-group-makes-974-billion-bid-control-openai-wsj-reports-2025-02-10/)
-* [2025-02-10, 19:52:02](https://news.ycombinator.com/item?id=43004435) - [TinyX: Small Featured X Server](https://github.com/tinycorelinux/tinyx)
 * [2025-02-10, 19:50:20](https://news.ycombinator.com/item?id=43004416) - [Scaling up test-time compute with latent reasoning: A recurrent depth approach](https://arxiv.org/abs/2502.05171)
 * [2025-02-10, 19:45:35](https://news.ycombinator.com/item?id=43004373) - [What happens to SaaS in a world with computer-using agents?](https://docs.google.com/document/d/1nWZtJlPmBD15rGqNxj7u6HroaNvXT6YD-TXktpIwf6c/edit?usp=sharing)
 * [2025-02-10, 19:42:02](https://news.ycombinator.com/item?id=43004334) - [Patterns for Building Realtime Features](https://zknill.io/posts/patterns-for-building-realtime/)
