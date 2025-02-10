@@ -6,8 +6,10 @@
 
 * [2025-02-10, 17:20:21](https://news.ycombinator.com/item?id=43002679) - [Just give the man the fish (i.e. just answer the question)](https://blog.plover.com/misc/just-answer-the-question-2.html)
 * [2025-02-10, 17:03:44](https://news.ycombinator.com/item?id=43002492) - [The Physicians Are Healing Themselves, with Ozempic](https://www.nytimes.com/2025/02/10/health/doctors-ozempic-weight-loss.html)
+* [2025-02-10, 16:58:20](https://news.ycombinator.com/item?id=43002426) - [A story about USB floppy drives (2004)](https://devblogs.microsoft.com/oldnewthing/20040409-00/?p=39873)
 * [2025-02-10, 16:31:59](https://news.ycombinator.com/item?id=43002130) - [Earth's inner core may have changed shape, say scientists](https://www.bbc.co.uk/news/articles/c4gx37ky3gyo)
 * [2025-02-10, 15:54:45](https://news.ycombinator.com/item?id=43001688) - [Show HN: Global 3D Topography Explorer](https://topography.jessekv.com)
+* [2025-02-10, 15:32:10](https://news.ycombinator.com/item?id=43001441) - [Bank CEO: Retract your debanking piece? Me: No](https://www.kalzumeus.com/2025/02/10/retraction-request-denied/)
 * [2025-02-10, 14:38:29](https://news.ycombinator.com/item?id=43000792) - [Ask HN: Physics PhD at Stanford or Berkeley](https://news.ycombinator.com/item?id=43000792)
 * [2025-02-10, 14:14:22](https://news.ycombinator.com/item?id=43000529) - [The Anthropic Economic Index](https://www.anthropic.com/news/the-anthropic-economic-index)
 * [2025-02-10, 13:54:38](https://news.ycombinator.com/item?id=43000316) - [Surnames from nicknames nobody has any more](https://blog.plover.com/lang/etym/nickname-names.html)
@@ -36,4 +38,5 @@
 * [2025-02-10, 03:38:29](https://news.ycombinator.com/item?id=42996671) - [Thomas Aquinas' Skull Reveals Appearance and Cause of Death](https://www.ncregister.com/blog/face-of-aquinas-revealed-after-750-years)
 * [2025-02-10, 02:32:28](https://news.ycombinator.com/item?id=42996322) - [I Blog with Raw HTML](https://devpoga.org/i-blog-with-raw-html/)
 * [2025-02-10, 01:27:56](https://news.ycombinator.com/item?id=42996003) - [Starlink and T-Mobile open satellite texting test to all – not just customers](https://www.washingtonpost.com/technology/2025/02/09/tmobile-starlink-satellite-texting/)
+* [2025-02-10, 01:25:05](https://news.ycombinator.com/item?id=42995991) - [Show HN: Infinite Horizontal Array of Text Editors](https://zeminary.com/arrays/app.html)
 * [2025-02-10, 00:23:25](https://news.ycombinator.com/item?id=42995579) - [Thank You Bootstrap 1](https://kylerego.github.io/thank-you-bootstrap-1)
