@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-10, 16:58:20",
+      "https://news.ycombinator.com/item?id=43002426"
+    ],
+    [
+      "A story about USB floppy drives (2004)",
+      "https://devblogs.microsoft.com/oldnewthing/20040409-00/?p=39873"
+    ]
+  ],
+  [
+    [
       "2025-02-10, 16:31:59",
       "https://news.ycombinator.com/item?id=43002130"
     ],
@@ -17,6 +27,16 @@
     [
       "Show HN: Global 3D Topography Explorer",
       "https://topography.jessekv.com"
+    ]
+  ],
+  [
+    [
+      "2025-02-10, 15:32:10",
+      "https://news.ycombinator.com/item?id=43001441"
+    ],
+    [
+      "Bank CEO: Retract your debanking piece? Me: No",
+      "https://www.kalzumeus.com/2025/02/10/retraction-request-denied/"
     ]
   ],
   [
@@ -111,12 +131,12 @@
   ],
   [
     [
-      "2025-02-09, 20:44:09",
-      "https://news.ycombinator.com/item?id=42993755"
+      "2025-02-10, 01:25:05",
+      "https://news.ycombinator.com/item?id=42995991"
     ],
     [
-      "The Recombobulation Area (2023)",
-      "https://onmilwaukee.com/articles/recombobulationsigns"
+      "Show HN: Infinite Horizontal Array of Text Editors",
+      "https://zeminary.com/arrays/app.html"
     ]
   ],
   [
@@ -147,16 +167,6 @@
     [
       "Advanced Magnet Manufacturing Begins in the United States",
       "https://spectrum.ieee.org/advanced-magnet-manufacturing-in-us"
-    ]
-  ],
-  [
-    [
-      "2025-02-09, 14:16:40",
-      "https://news.ycombinator.com/item?id=42990819"
-    ],
-    [
-      "Baffled by generational garbage collection – wingolog",
-      "https://wingolog.org/archives/2025/02/09/baffled-by-generational-garbage-collection"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2025-02-07, 14:04:14",
-      "https://news.ycombinator.com/item?id=42972622"
-    ],
-    [
-      "Perma.cc – Permanent Link Service",
-      "https://perma.cc/"
-    ]
-  ],
-  [
-    [
       "2025-02-07, 11:25:19",
       "https://news.ycombinator.com/item?id=42971442"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
+      "2025-02-07, 09:57:57",
+      "https://news.ycombinator.com/item?id=42971038"
+    ],
+    [
+      "Memory profilers, call graphs, exception reports, and telemetry",
+      "https://www.nuanced.dev/blog/system-wide-context"
+    ]
+  ],
+  [
+    [
       "2025-02-07, 03:30:10",
       "https://news.ycombinator.com/item?id=42969038"
     ],
     [
       "Ancient-DNA Study Identifies Originators of Indo-European Language Family",
       "https://hms.harvard.edu/news/ancient-dna-study-identifies-originators-indo-european-language-family"
-    ]
-  ],
-  [
-    [
-      "2025-02-06, 23:40:13",
-      "https://news.ycombinator.com/item?id=42967633"
-    ],
-    [
-      "Library Sandboxing for Verona",
-      "https://github.com/microsoft/verona-sandbox"
     ]
   ],
   [
