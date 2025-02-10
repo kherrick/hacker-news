@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-10](index.md)
 
+* [2025-02-10, 14:14:22](https://news.ycombinator.com/item?id=43000529) - [The Anthropic Economic Index](https://www.anthropic.com/news/the-anthropic-economic-index)
 * [2025-02-10, 13:52:53](https://news.ycombinator.com/item?id=43000303) - [Show HN: HTML visualization of a PDF file's internal structure](https://github.com/desgeeko/pdfsyntax/blob/main/docs/browse.md)
 * [2025-02-10, 13:50:40](https://news.ycombinator.com/item?id=43000275) - [Why hasn't commercial air travel gotten any faster since the 1960s?](https://engineering.mit.edu/engage/ask-an-engineer/why-hasnt-commercial-air-travel-gotten-any-faster-since-the-1960s/)
 * [2025-02-10, 13:05:00](https://news.ycombinator.com/item?id=42999742) - [AI is accelerating scientific production, not progress](https://twitter.com/random_walker/status/1888919433671843947)
