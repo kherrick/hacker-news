@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-02-10, 05:48:25",
+      "https://news.ycombinator.com/item?id=42997308"
+    ],
+    [
+      "L.A. power utility found irregularities on equipment where wildfire broke out",
+      "https://www.nytimes.com/2025/02/06/business/eaton-fire-power-lines-edison.html"
+    ]
+  ],
+  [
+    [
       "2025-02-10, 04:07:32",
       "https://news.ycombinator.com/item?id=42996831"
     ],
     [
-      "How Does Ada's Memory Safety Compare Against Rust?",
+      "How does Ada's memory safety compare against Rust?",
       "https://ajxs.me/blog/How_Does_Adas_Memory_Safety_Compare_Against_Rust.html"
     ]
   ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=42994440"
     ],
     [
-      "Show HN: Searchable Library of Free Audiobooks",
+      "Show HN: Searchable library of free audiobooks",
       "https://booksearch.party/"
     ]
   ],
@@ -145,7 +155,7 @@
       "https://news.ycombinator.com/item?id=42992159"
     ],
     [
-      "Why Blog If Nobody Reads It?",
+      "Why blog if nobody reads it?",
       "https://andysblog.uk/why-blog-if-nobody-reads-it/"
     ]
   ],
@@ -175,7 +185,7 @@
       "https://news.ycombinator.com/item?id=42990546"
     ],
     [
-      "Common Mistakes in Architecture Diagrams (2020)",
+      "Common mistakes in architecture diagrams (2020)",
       "https://www.ilograph.com/blog/posts/diagram-mistakes/"
     ]
   ],
@@ -187,16 +197,6 @@
     [
       "Don't \"optimize\" conditional moves in shaders with mix()+step()",
       "https://iquilezles.org/articles/gpuconditionals/"
-    ]
-  ],
-  [
-    [
-      "2025-02-09, 11:39:38",
-      "https://news.ycombinator.com/item?id=42990036"
-    ],
-    [
-      "Classic Data science pipelines built with LLMs",
-      "https://github.com/Pravko-Solutions/FlashLearn/tree/main/examples"
     ]
   ],
   [
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=42973049"
     ],
     [
-      "Mapping Antarctica's hidden ice-free lands: a blueprint for conservation",
+      "Mapping Antarctica’s hidden ice-free lands: a blueprint for conservation",
       "https://www.unsw.edu.au/newsroom/news/2025/01/mapping-antarcticas-hidden-ice-free-lands-a-blueprint-for-conservation"
     ]
   ],
@@ -257,16 +257,6 @@
     [
       "Revenge of the GPT Wrappers: Defensibility in a world of commoditized AI models",
       "https://andrewchen.substack.com/p/revenge-of-the-gpt-wrappers-defensibility"
-    ]
-  ],
-  [
-    [
-      "2025-02-07, 00:40:31",
-      "https://news.ycombinator.com/item?id=42968039"
-    ],
-    [
-      "Building an \"Easy\" Web Application",
-      "https://rudyfaile.com/2020/07/06/building-an-easy-web-application/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "An Anonymous Investor Is Spending Millions to Make Underwater Homes",
       "https://www.theguardian.com/environment/2025/feb/03/flooded-quarry-mysterious-millionaire-and-dream-new-atlantis-welsh-border-deep"
+    ]
+  ],
+  [
+    [
+      "2025-02-06, 06:59:20",
+      "https://news.ycombinator.com/item?id=42959824"
+    ],
+    [
+      "Some terminal frustrations",
+      "https://jvns.ca/blog/2025/02/05/some-terminal-frustrations/"
     ]
   ]
 ]
