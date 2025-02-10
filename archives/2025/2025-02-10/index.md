@@ -6,6 +6,7 @@
 
 * [2025-02-10, 19:50:20](https://news.ycombinator.com/item?id=43004416) - [Scaling Up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach](https://arxiv.org/abs/2502.05171)
 * [2025-02-10, 19:45:35](https://news.ycombinator.com/item?id=43004373) - [What Happens to SaaS in a World with Computer Using Agents?](https://docs.google.com/document/d/1nWZtJlPmBD15rGqNxj7u6HroaNvXT6YD-TXktpIwf6c/edit?usp=sharing)
+* [2025-02-10, 19:42:02](https://news.ycombinator.com/item?id=43004334) - [Patterns for Building Realtime Features](https://zknill.io/posts/patterns-for-building-realtime/)
 * [2025-02-10, 19:24:42](https://news.ycombinator.com/item?id=43004147) - [The return of the buffalo is reviving portions of the ecosystem](https://www.nativesunnews.today/articles/the-return-of-the-buffalo-is-reviving-portions-of-the-ecosystem/)
 * [2025-02-10, 18:07:24](https://news.ycombinator.com/item?id=43003230) - [Kaspersky finds hardware backdoor in 5 generations of Apple Silicon (2024)](https://www.xstore.co.za/stuff/2024/01/kaspersky-finds-hardware-backdoor-in-5-generations-of-apple-silicon/)
 * [2025-02-10, 17:47:45](https://news.ycombinator.com/item?id=43002999) - [1% Equity for Founding Engineers Is BS](https://fetchfox.ai/a/founding-engineer-compensation)

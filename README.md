@@ -2,6 +2,7 @@
 
 * [2025-02-10, 19:50:20](https://news.ycombinator.com/item?id=43004416) - [Scaling Up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach](https://arxiv.org/abs/2502.05171)
 * [2025-02-10, 19:45:35](https://news.ycombinator.com/item?id=43004373) - [What Happens to SaaS in a World with Computer Using Agents?](https://docs.google.com/document/d/1nWZtJlPmBD15rGqNxj7u6HroaNvXT6YD-TXktpIwf6c/edit?usp=sharing)
+* [2025-02-10, 19:42:02](https://news.ycombinator.com/item?id=43004334) - [Patterns for Building Realtime Features](https://zknill.io/posts/patterns-for-building-realtime/)
 * [2025-02-10, 19:24:42](https://news.ycombinator.com/item?id=43004147) - [The return of the buffalo is reviving portions of the ecosystem](https://www.nativesunnews.today/articles/the-return-of-the-buffalo-is-reviving-portions-of-the-ecosystem/)
 * [2025-02-10, 17:39:28](https://news.ycombinator.com/item?id=43002906) - [Work at the Mill Or, the Story of Digital Equipment Corporation](https://www.abortretry.fail/p/work-at-the-mill)
 * [2025-02-10, 17:05:09](https://news.ycombinator.com/item?id=43002511) - [Undergraduate Upends a 40-Year-Old Data Science Conjecture](https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/)
@@ -16,7 +17,6 @@
 * [2025-02-10, 12:51:34](https://news.ycombinator.com/item?id=42999650) - [What about K?](https://xpqz.github.io/kbook/Introduction.html)
 * [2025-02-10, 12:01:57](https://news.ycombinator.com/item?id=42999312) - [PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2025-02-10, 03:38:29](https://news.ycombinator.com/item?id=42996671) - [Thomas Aquinas' skull reveals appearance and cause of death](https://www.ncregister.com/blog/face-of-aquinas-revealed-after-750-years)
-* [2025-02-09, 18:14:01](https://news.ycombinator.com/item?id=42992336) - [PhD Knowledge Not Required: A Reasoning Challenge for Large Language Models](https://arxiv.org/abs/2502.01584)
 * [2025-02-09, 16:33:28](https://news.ycombinator.com/item?id=42991676) - [LIMO: Less Is More for Reasoning](https://arxiv.org/abs/2502.03387)
 * [2025-02-09, 13:55:40](https://news.ycombinator.com/item?id=42990704) - [Mac(OS)talgia](https://swallowmygraphicdesign.com/project/macostalgia)
 * [2025-02-09, 13:29:01](https://news.ycombinator.com/item?id=42990546) - [Common mistakes in architecture diagrams (2020)](https://www.ilograph.com/blog/posts/diagram-mistakes/)
