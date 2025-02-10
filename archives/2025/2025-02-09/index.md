@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-09](index.md)
 
+* [2025-02-09, 23:56:17](https://news.ycombinator.com/item?id=42995425) - [U.S. facing most intense flu season in at least 15 years](https://www.pbs.org/newshour/health/u-s-facing-most-intense-flu-season-in-at-least-15-years)
+* [2025-02-09, 23:52:32](https://news.ycombinator.com/item?id=42995403) - [Reflect Orbital: Sunlight after dark using a constellation of spatial reflectors](https://www.reflectorbital.com/)
 * [2025-02-09, 22:36:56](https://news.ycombinator.com/item?id=42994828) - [One Text to Speech wrapper for Python for all (?) TTS engines](https://pypi.org/project/py3-tts-wrapper/)
 * [2025-02-09, 21:58:52](https://news.ycombinator.com/item?id=42994505) - [Google Pay Study Finds It Underpaid Men for Some Jobs (2019)](https://www.npr.org/2019/03/05/700288695/google-pay-study-finds-its-underpaying-men-for-some-jobs)
 * [2025-02-09, 21:52:33](https://news.ycombinator.com/item?id=42994440) - [Show HN: Searchable Library of Free Audiobooks](https://booksearch.party/)

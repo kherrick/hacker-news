@@ -10,6 +10,7 @@
 * [2025-02-06, 22:31:28](https://news.ycombinator.com/item?id=42967173) - [AI by Hand Exercises in Excel](https://github.com/ImagineAILab/ai-by-hand-excel)
 * [2025-02-06, 22:27:22](https://news.ycombinator.com/item?id=42967146) - [Trails of Wind (2019)](https://trailsofwind.figures.cc/)
 * [2025-02-06, 22:04:03](https://news.ycombinator.com/item?id=42966958) - [Why LLMs still suck at OCR](https://www.runpulse.com/blog/why-llms-suck-at-ocr)
+* [2025-02-06, 22:02:03](https://news.ycombinator.com/item?id=42966942) - [Show HN: Ricotta – Language Learning to Replace Anki](https://ricotta.affineur.io/)
 * [2025-02-06, 21:34:12](https://news.ycombinator.com/item?id=42966720) - [Understanding Reasoning LLMs](https://magazine.sebastianraschka.com/p/understanding-reasoning-llms)
 * [2025-02-06, 21:00:23](https://news.ycombinator.com/item?id=42966455) - [Verse (YC W22) Is Hiring](https://news.ycombinator.com/item?id=42966455)
 * [2025-02-06, 20:54:10](https://news.ycombinator.com/item?id=42966402) - [The Inevitability of the Borrow Checker](https://yorickpeterse.com/articles/the-inevitability-of-the-borrow-checker/)
