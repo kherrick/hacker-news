@@ -1,6 +1,66 @@
 [
   [
     [
+      "2025-02-10, 13:05:00",
+      "https://news.ycombinator.com/item?id=42999742"
+    ],
+    [
+      "AI is accelerating scientific production, not progress",
+      "https://twitter.com/random_walker/status/1888919433671843947"
+    ]
+  ],
+  [
+    [
+      "2025-02-10, 12:54:51",
+      "https://news.ycombinator.com/item?id=42999672"
+    ],
+    [
+      "Python 3.14 Getting New Interpreter",
+      "https://docs.python.org/3.14/whatsnew/3.14.html#whatsnew314-tail-call"
+    ]
+  ],
+  [
+    [
+      "2025-02-10, 12:53:20",
+      "https://news.ycombinator.com/item?id=42999661"
+    ],
+    [
+      "Steam makes its ban on in-game ads explicit",
+      "https://www.pcgamer.com/gaming-industry/valve-bans-games-that-rely-on-in-game-ads-from-steam-so-no-watch-this-to-continue-playing-stuff-will-be-making-its-way-to-our-pcs/"
+    ]
+  ],
+  [
+    [
+      "2025-02-10, 12:48:24",
+      "https://news.ycombinator.com/item?id=42999632"
+    ],
+    [
+      "AI Tool Found My Autoimmune Disease After $100k and 30 Hospital Visits",
+      "https://old.reddit.com/r/selfhosted/comments/1ij7s4m/how_i_built_an_open_source_ai_tool_to_find_my/"
+    ]
+  ],
+  [
+    [
+      "2025-02-10, 12:38:08",
+      "https://news.ycombinator.com/item?id=42999561"
+    ],
+    [
+      "Advertising Is a Cancer on Society",
+      "https://jacek.zlydach.pl/blog/2019-07-31-ads-as-cancer.html"
+    ]
+  ],
+  [
+    [
+      "2025-02-10, 12:24:19",
+      "https://news.ycombinator.com/item?id=42999464"
+    ],
+    [
+      "The Crisis in Tech's Obsession with Junior Talent",
+      "https://medium.com/mr-plan-publication/8-out-of-10-senior-engineers-feel-undervalued-the-hidden-crisis-in-techs-obsession-with-junior-fa9cc62b1e8e"
+    ]
+  ],
+  [
+    [
       "2025-02-10, 12:01:57",
       "https://news.ycombinator.com/item?id=42999312"
     ],
@@ -27,26 +87,6 @@
     [
       "FOSDEM 2025: The state of Rust trying to catch up with Ada [video]",
       "https://fosdem.org/2025/schedule/event/fosdem-2025-5356-the-state-of-rust-trying-to-catch-up-with-ada/"
-    ]
-  ],
-  [
-    [
-      "2025-02-10, 08:25:13",
-      "https://news.ycombinator.com/item?id=42998024"
-    ],
-    [
-      "To buy a Tesla Model 3, only to end up in hell",
-      "https://www.myteslaexperience.com/2025-02-01/to-buy-a-tesla-mode-3-only-to-end-up-in-hell"
-    ]
-  ],
-  [
-    [
-      "2025-02-10, 07:03:57",
-      "https://news.ycombinator.com/item?id=42997647"
-    ],
-    [
-      "Apple's Best Option: Decentralize iCloud",
-      "https://www.mnot.net/blog/2025/02/09/decentralize-icloud"
     ]
   ],
   [
@@ -91,26 +131,6 @@
   ],
   [
     [
-      "2025-02-09, 20:44:09",
-      "https://news.ycombinator.com/item?id=42993755"
-    ],
-    [
-      "The Recombobulation Area (2023)",
-      "https://onmilwaukee.com/articles/recombobulationsigns"
-    ]
-  ],
-  [
-    [
-      "2025-02-09, 20:17:41",
-      "https://news.ycombinator.com/item?id=42993490"
-    ],
-    [
-      "No AI December Reflections",
-      "https://blog.rybarix.com/2025/02/09/noaidecember.html"
-    ]
-  ],
-  [
-    [
       "2025-02-09, 19:32:57",
       "https://news.ycombinator.com/item?id=42993044"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-02-09, 16:17:01",
-      "https://news.ycombinator.com/item?id=42991558"
-    ],
-    [
-      "Advanced Magnet Manufacturing Begins in the United States",
-      "https://spectrum.ieee.org/advanced-magnet-manufacturing-in-us"
-    ]
-  ],
-  [
-    [
       "2025-02-09, 13:29:01",
       "https://news.ycombinator.com/item?id=42990546"
     ],
@@ -177,16 +187,6 @@
     [
       "Don't \"optimize\" conditional moves in shaders with mix()+step()",
       "https://iquilezles.org/articles/gpuconditionals/"
-    ]
-  ],
-  [
-    [
-      "2025-02-09, 09:45:57",
-      "https://news.ycombinator.com/item?id=42989609"
-    ],
-    [
-      "Chimes at Midnight (2024)",
-      "https://asteriskmag.com/issues/08/chimes-at-midnight"
     ]
   ],
   [
