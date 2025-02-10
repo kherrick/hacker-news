@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-10, 18:07:24](https://news.ycombinator.com/item?id=43003230) - [Kaspersky finds hardware backdoor in 5 generations of Apple Silicon (2024)](https://www.xstore.co.za/stuff/2024/01/kaspersky-finds-hardware-backdoor-in-5-generations-of-apple-silicon/)
 * [2025-02-10, 17:47:45](https://news.ycombinator.com/item?id=43002999) - [1% Equity for Founding Engineers Is BS](https://fetchfox.ai/a/founding-engineer-compensation)
 * [2025-02-10, 16:58:20](https://news.ycombinator.com/item?id=43002426) - [A story about USB floppy drives (2004)](https://devblogs.microsoft.com/oldnewthing/20040409-00/?p=39873)
 * [2025-02-10, 16:31:59](https://news.ycombinator.com/item?id=43002130) - [Earth's inner core may have changed shape, say scientists](https://www.bbc.co.uk/news/articles/c4gx37ky3gyo)
@@ -17,6 +16,7 @@
 * [2025-02-10, 01:25:05](https://news.ycombinator.com/item?id=42995991) - [Show HN: Infinite Horizontal Array of Text Editors](https://zeminary.com/arrays/app.html)
 * [2025-02-09, 18:14:01](https://news.ycombinator.com/item?id=42992336) - [PhD Knowledge Not Required: A Reasoning Challenge for Large Language Models](https://arxiv.org/abs/2502.01584)
 * [2025-02-09, 16:33:28](https://news.ycombinator.com/item?id=42991676) - [LIMO: Less Is More for Reasoning](https://arxiv.org/abs/2502.03387)
+* [2025-02-09, 13:55:40](https://news.ycombinator.com/item?id=42990704) - [Mac(OS)talgia](https://swallowmygraphicdesign.com/project/macostalgia)
 * [2025-02-09, 13:29:01](https://news.ycombinator.com/item?id=42990546) - [Common mistakes in architecture diagrams (2020)](https://www.ilograph.com/blog/posts/diagram-mistakes/)
 * [2025-02-09, 12:42:54](https://news.ycombinator.com/item?id=42990324) - [Don't \"optimize\" conditional moves in shaders with mix()+step()](https://iquilezles.org/articles/gpuconditionals/)
 * [2025-02-09, 08:24:17](https://news.ycombinator.com/item?id=42989320) - [Modern-Day Oracles or Bullshit Machines? How to thrive in a ChatGPT world](https://thebullshitmachines.com)
