@@ -18,6 +18,7 @@
 * [2025-02-07, 19:49:23](https://news.ycombinator.com/item?id=42976708) - [AMOC shutdown likely within the next 20-30 years](https://www.tandfonline.com/doi/full/10.1080/00139157.2025.2434494)
 * [2025-02-07, 19:48:16](https://news.ycombinator.com/item?id=42976698) - [Do-nothing scripting: the key to gradual automation (2019)](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/)
 * [2025-02-07, 19:15:25](https://news.ycombinator.com/item?id=42976338) - [Amazon Will Spend Nearly a Year of AWS Revenue on AI Investments](https://www.nextplatform.com/2025/02/07/amazon-will-spend-nearly-a-year-of-aws-revenue-on-ai-investments/)
+* [2025-02-07, 19:06:44](https://news.ycombinator.com/item?id=42976244) - [Explainable Linear Programs](https://www.jeremykun.com/shortform/2025-02-06-2124/)
 * [2025-02-07, 18:23:40](https://news.ycombinator.com/item?id=42975803) - [Show HN: A website that heatmaps your city based on your housing preferences](https://theretowhere.com/)
 * [2025-02-07, 17:55:40](https://news.ycombinator.com/item?id=42975492) - [Cities can cost effectively start their own utilities](https://kevin.burke.dev/kevin/norcal-cities-new-utility/)
 * [2025-02-07, 17:51:49](https://news.ycombinator.com/item?id=42975436) - [A Brief History of Code Signing at Mozilla](https://hearsum.ca/posts/history-of-code-signing-at-mozilla/)

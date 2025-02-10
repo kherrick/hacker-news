@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-10](index.md)
 
+* [2025-02-10, 13:52:53](https://news.ycombinator.com/item?id=43000303) - [Show HN: HTML visualization of a PDF file's internal structure](https://github.com/desgeeko/pdfsyntax/blob/main/docs/browse.md)
+* [2025-02-10, 13:50:40](https://news.ycombinator.com/item?id=43000275) - [Why hasn't commercial air travel gotten any faster since the 1960s?](https://engineering.mit.edu/engage/ask-an-engineer/why-hasnt-commercial-air-travel-gotten-any-faster-since-the-1960s/)
 * [2025-02-10, 13:05:00](https://news.ycombinator.com/item?id=42999742) - [AI is accelerating scientific production, not progress](https://twitter.com/random_walker/status/1888919433671843947)
 * [2025-02-10, 12:54:51](https://news.ycombinator.com/item?id=42999672) - [Python 3.14 Getting New Interpreter](https://docs.python.org/3.14/whatsnew/3.14.html#whatsnew314-tail-call)
 * [2025-02-10, 12:53:20](https://news.ycombinator.com/item?id=42999661) - [Steam makes its ban on in-game ads explicit](https://www.pcgamer.com/gaming-industry/valve-bans-games-that-rely-on-in-game-ads-from-steam-so-no-watch-this-to-continue-playing-stuff-will-be-making-its-way-to-our-pcs/)
