@@ -26,9 +26,9 @@
 * [2025-02-08, 09:34:24](https://news.ycombinator.com/item?id=42981756) - [Teen on Musk's DOGE team graduated from 'The Com'](https://krebsonsecurity.com/2025/02/teen-on-musks-doge-team-graduated-from-the-com/)
 * [2025-02-07, 14:37:46](https://news.ycombinator.com/item?id=42973049) - [Mapping Antarctica’s hidden ice-free lands: a blueprint for conservation](https://www.unsw.edu.au/newsroom/news/2025/01/mapping-antarcticas-hidden-ice-free-lands-a-blueprint-for-conservation)
 * [2025-02-07, 11:25:19](https://news.ycombinator.com/item?id=42971442) - [Revenge of the GPT Wrappers: Defensibility in a world of commoditized AI models](https://andrewchen.substack.com/p/revenge-of-the-gpt-wrappers-defensibility)
+* [2025-02-06, 23:40:13](https://news.ycombinator.com/item?id=42967633) - [Library Sandboxing for Verona](https://github.com/microsoft/verona-sandbox)
 * [2025-02-06, 22:02:03](https://news.ycombinator.com/item?id=42966942) - [Show HN: Ricotta – Language Learning to Replace Anki](https://ricotta.affineur.io/)
 * [2025-02-06, 14:03:39](https://news.ycombinator.com/item?id=42962394) - [Douglas McIlroy responds to Unix spell article with new implementation details](https://twitter.com/abhi9u/status/1887010136155414602)
-* [2025-02-06, 13:35:56](https://news.ycombinator.com/item?id=42962138) - [An Anonymous Investor Is Spending Millions to Make Underwater Homes](https://www.theguardian.com/environment/2025/feb/03/flooded-quarry-mysterious-millionaire-and-dream-new-atlantis-welsh-border-deep)
 * [2025-02-06, 06:59:20](https://news.ycombinator.com/item?id=42959824) - [Some terminal frustrations](https://jvns.ca/blog/2025/02/05/some-terminal-frustrations/)
 
 ## [Archives](archives/index.md)

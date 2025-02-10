@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-06](index.md)
 
+* [2025-02-06, 23:40:13](https://news.ycombinator.com/item?id=42967633) - [Library Sandboxing for Verona](https://github.com/microsoft/verona-sandbox)
 * [2025-02-06, 23:17:25](https://news.ycombinator.com/item?id=42967474) - [TKey – Security for the New World](https://tillitis.se/products/tkey/)
 * [2025-02-06, 22:41:40](https://news.ycombinator.com/item?id=42967247) - [Ask HN: Is Godaddy Running a Scam?](https://news.ycombinator.com/item?id=42967247)
 * [2025-02-06, 22:39:22](https://news.ycombinator.com/item?id=42967226) - [Frank Lloyd Wright's mile high skyscraper proposal (2021)](https://www.onverticality.com/blog/frank-lloyd-wright-mile-high-skyscraper)
