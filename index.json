@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-10, 04:07:32",
+      "https://news.ycombinator.com/item?id=42996831"
+    ],
+    [
+      "How Does Ada's Memory Safety Compare Against Rust?",
+      "https://ajxs.me/blog/How_Does_Adas_Memory_Safety_Compare_Against_Rust.html"
+    ]
+  ],
+  [
+    [
       "2025-02-10, 04:01:36",
       "https://news.ycombinator.com/item?id=42996796"
     ],
@@ -237,16 +247,6 @@
     [
       "Revenge of the GPT Wrappers: Defensibility in a world of commoditized AI models",
       "https://andrewchen.substack.com/p/revenge-of-the-gpt-wrappers-defensibility"
-    ]
-  ],
-  [
-    [
-      "2025-02-07, 00:40:31",
-      "https://news.ycombinator.com/item?id=42968039"
-    ],
-    [
-      "Building an \"Easy\" Web Application",
-      "https://rudyfaile.com/2020/07/06/building-an-easy-web-application/"
     ]
   ],
   [
