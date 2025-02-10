@@ -32,6 +32,7 @@
 * [2025-02-07, 16:23:50](https://news.ycombinator.com/item?id=42974461) - [Three-nanite: Unreal Nanite in Three.js](https://github.com/AIFanatic/three-nanite)
 * [2025-02-07, 16:21:46](https://news.ycombinator.com/item?id=42974429) - [The Age of Agent Experience](https://stytch.com/blog/the-age-of-agent-experience/)
 * [2025-02-07, 16:18:14](https://news.ycombinator.com/item?id=42974378) - [Show HN: Transductive regular expressions for text editing](https://github.com/c0stya/trre)
+* [2025-02-07, 16:10:46](https://news.ycombinator.com/item?id=42974278) - [Two Grand Canyon-size valleys on far side of the moon formed within 10 minutes](https://www.cnn.com/2025/02/05/science/lunar-grand-canyons-far-side-moon/index.html)
 * [2025-02-07, 15:47:14](https://news.ycombinator.com/item?id=42973989) - [AI Startup School with Elon Musk, Satya Nadella, Sam Altman, Andrej Karpathy](https://events.ycombinator.com/ai-sus)
 * [2025-02-07, 15:40:38](https://news.ycombinator.com/item?id=42973897) - [When Louis Armstrong Conquered Chicago](https://www.honest-broker.com/p/when-louis-armstrong-conquered-chicago)
 * [2025-02-07, 15:30:08](https://news.ycombinator.com/item?id=42973769) - [Kokoro WebGPU: Real-time text-to-speech 100% locally in the browser](https://huggingface.co/spaces/webml-community/kokoro-webgpu)
