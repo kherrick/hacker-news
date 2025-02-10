@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-10, 22:56:39",
+      "https://news.ycombinator.com/item?id=43006383"
+    ],
+    [
+      "The ABA supports the rule of law",
+      "https://www.americanbar.org/news/abanews/aba-news-archives/2025/02/aba-supports-the-rule-of-law/"
+    ]
+  ],
+  [
+    [
       "2025-02-10, 21:00:29",
       "https://news.ycombinator.com/item?id=43005096"
     ],
@@ -11,11 +21,31 @@
   ],
   [
     [
+      "2025-02-10, 20:42:18",
+      "https://news.ycombinator.com/item?id=43004889"
+    ],
+    [
+      "Musk-led group makes $97B bid for control of OpenAI",
+      "https://www.reuters.com/markets/deals/elon-musk-led-group-makes-974-billion-bid-control-openai-wsj-reports-2025-02-10/"
+    ]
+  ],
+  [
+    [
+      "2025-02-10, 19:52:02",
+      "https://news.ycombinator.com/item?id=43004435"
+    ],
+    [
+      "TinyX: Small Featured X Server",
+      "https://github.com/tinycorelinux/tinyx"
+    ]
+  ],
+  [
+    [
       "2025-02-10, 19:50:20",
       "https://news.ycombinator.com/item?id=43004416"
     ],
     [
-      "Scaling Up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach",
+      "Scaling up test-time compute with latent reasoning: A recurrent depth approach",
       "https://arxiv.org/abs/2502.05171"
     ]
   ],
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=43004373"
     ],
     [
-      "What Happens to SaaS in a World with Computer Using Agents?",
+      "What happens to SaaS in a world with computer-using agents?",
       "https://docs.google.com/document/d/1nWZtJlPmBD15rGqNxj7u6HroaNvXT6YD-TXktpIwf6c/edit?usp=sharing"
     ]
   ],
@@ -65,7 +95,7 @@
       "https://news.ycombinator.com/item?id=43002511"
     ],
     [
-      "Undergraduate Upends a 40-Year-Old Data Science Conjecture",
+      "Undergraduate shows that searches within hash tables can be much faster",
       "https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/"
     ]
   ],
@@ -81,42 +111,12 @@
   ],
   [
     [
-      "2025-02-10, 16:58:20",
-      "https://news.ycombinator.com/item?id=43002426"
-    ],
-    [
-      "A story about USB floppy drives (2004)",
-      "https://devblogs.microsoft.com/oldnewthing/20040409-00/?p=39873"
-    ]
-  ],
-  [
-    [
-      "2025-02-10, 16:31:59",
-      "https://news.ycombinator.com/item?id=43002130"
-    ],
-    [
-      "Earth's inner core may have changed shape, say scientists",
-      "https://www.bbc.co.uk/news/articles/c4gx37ky3gyo"
-    ]
-  ],
-  [
-    [
       "2025-02-10, 15:54:45",
       "https://news.ycombinator.com/item?id=43001688"
     ],
     [
       "Show HN: Global 3D topography explorer",
       "https://topography.jessekv.com"
-    ]
-  ],
-  [
-    [
-      "2025-02-10, 14:38:29",
-      "https://news.ycombinator.com/item?id=43000792"
-    ],
-    [
-      "Ask HN: Physics PhD at Stanford or Berkeley",
-      "https://news.ycombinator.com/item?id=43000792"
     ]
   ],
   [
@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2025-02-10, 13:50:40",
+      "https://news.ycombinator.com/item?id=43000275"
+    ],
+    [
+      "Why hasn't commercial air travel gotten any faster since the 1960s? (2009)",
+      "https://engineering.mit.edu/engage/ask-an-engineer/why-hasnt-commercial-air-travel-gotten-any-faster-since-the-1960s/"
+    ]
+  ],
+  [
+    [
       "2025-02-10, 12:51:34",
       "https://news.ycombinator.com/item?id=42999650"
     ],
@@ -161,22 +171,22 @@
   ],
   [
     [
+      "2025-02-10, 12:48:24",
+      "https://news.ycombinator.com/item?id=42999632"
+    ],
+    [
+      "I built an open source AI tool to find my autoimmune disease",
+      "https://old.reddit.com/r/selfhosted/comments/1ij7s4m/how_i_built_an_open_source_ai_tool_to_find_my/"
+    ]
+  ],
+  [
+    [
       "2025-02-10, 03:38:29",
       "https://news.ycombinator.com/item?id=42996671"
     ],
     [
       "Thomas Aquinas' skull reveals appearance and cause of death",
       "https://www.ncregister.com/blog/face-of-aquinas-revealed-after-750-years"
-    ]
-  ],
-  [
-    [
-      "2025-02-09, 18:14:01",
-      "https://news.ycombinator.com/item?id=42992336"
-    ],
-    [
-      "PhD Knowledge Not Required: A Reasoning Challenge for Large Language Models",
-      "https://arxiv.org/abs/2502.01584"
     ]
   ],
   [
@@ -201,12 +211,12 @@
   ],
   [
     [
-      "2025-02-09, 13:29:01",
-      "https://news.ycombinator.com/item?id=42990546"
+      "2025-02-09, 09:51:51",
+      "https://news.ycombinator.com/item?id=42989635"
     ],
     [
-      "Common mistakes in architecture diagrams (2020)",
-      "https://www.ilograph.com/blog/posts/diagram-mistakes/"
+      "Scroll-Driven Animations",
+      "https://scroll-driven-animations.style/"
     ]
   ],
   [
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2025-02-07, 14:37:46",
-      "https://news.ycombinator.com/item?id=42973049"
+      "2025-02-07, 16:10:46",
+      "https://news.ycombinator.com/item?id=42974278"
     ],
     [
-      "Mapping Antarctica’s hidden ice-free lands: a blueprint for conservation",
-      "https://www.unsw.edu.au/newsroom/news/2025/01/mapping-antarcticas-hidden-ice-free-lands-a-blueprint-for-conservation"
+      "Two Grand Canyon-size valleys on far side of the moon formed within 10 minutes",
+      "https://www.cnn.com/2025/02/05/science/lunar-grand-canyons-far-side-moon/index.html"
     ]
   ],
   [
@@ -261,6 +271,16 @@
   ],
   [
     [
+      "2025-02-07, 09:23:49",
+      "https://news.ycombinator.com/item?id=42970847"
+    ],
+    [
+      "Balcony solar is taking off",
+      "https://www.theguardian.com/environment/2024/dec/18/if-a-million-germans-have-them-there-must-be-something-in-it-how-balcony-solar-is-taking-off"
+    ]
+  ],
+  [
+    [
       "2025-02-07, 06:58:10",
       "https://news.ycombinator.com/item?id=42970169"
     ],
@@ -277,26 +297,6 @@
     [
       "Ancient-DNA study identifies originators of Indo-European language family",
       "https://hms.harvard.edu/news/ancient-dna-study-identifies-originators-indo-european-language-family"
-    ]
-  ],
-  [
-    [
-      "2025-02-06, 12:23:10",
-      "https://news.ycombinator.com/item?id=42961684"
-    ],
-    [
-      "Out of Africa: celebrating 100 years of human-origins research",
-      "https://www.nature.com/articles/d41586-025-00282-1"
-    ]
-  ],
-  [
-    [
-      "2025-02-06, 06:59:20",
-      "https://news.ycombinator.com/item?id=42959824"
-    ],
-    [
-      "Some terminal frustrations",
-      "https://jvns.ca/blog/2025/02/05/some-terminal-frustrations/"
     ]
   ]
 ]
