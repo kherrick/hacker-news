@@ -25,11 +25,11 @@
 * [2025-02-08, 19:09:21](https://news.ycombinator.com/item?id=42985342) - [Rwandan scientists develop local yeast for banana wine-makers](https://phys.org/news/2025-01-rwandan-scientists-local-yeast-banana.html)
 * [2025-02-08, 09:34:24](https://news.ycombinator.com/item?id=42981756) - [Teen on Musk's DOGE team graduated from 'The Com'](https://krebsonsecurity.com/2025/02/teen-on-musks-doge-team-graduated-from-the-com/)
 * [2025-02-07, 11:25:19](https://news.ycombinator.com/item?id=42971442) - [Revenge of the GPT Wrappers: Defensibility in a world of commoditized AI models](https://andrewchen.substack.com/p/revenge-of-the-gpt-wrappers-defensibility)
+* [2025-02-07, 00:40:31](https://news.ycombinator.com/item?id=42968039) - [Building an \"Easy\" Web Application](https://rudyfaile.com/2020/07/06/building-an-easy-web-application/)
 * [2025-02-06, 22:02:03](https://news.ycombinator.com/item?id=42966942) - [Show HN: Ricotta – Language Learning to Replace Anki](https://ricotta.affineur.io/)
 * [2025-02-06, 19:13:34](https://news.ycombinator.com/item?id=42965499) - [Grafana: Why observability needs FinOps, and vice versa](https://grafana.com/blog/2025/02/06/why-observability-needs-finops-and-vice-versa-the-vantage-integration-with-grafana-cloud/)
 * [2025-02-06, 14:03:39](https://news.ycombinator.com/item?id=42962394) - [Douglas McIlroy responds to Unix spell article with new implementation details](https://twitter.com/abhi9u/status/1887010136155414602)
 * [2025-02-06, 13:35:56](https://news.ycombinator.com/item?id=42962138) - [An Anonymous Investor Is Spending Millions to Make Underwater Homes](https://www.theguardian.com/environment/2025/feb/03/flooded-quarry-mysterious-millionaire-and-dream-new-atlantis-welsh-border-deep)
-* [2025-02-05, 15:40:27](https://news.ycombinator.com/item?id=42950059) - [3D reconstruction of the capital of the Aztec empire](https://tenochtitlan.thomaskole.nl/)
 
 ## [Archives](archives/index.md)
 
