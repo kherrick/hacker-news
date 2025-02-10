@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-10, 23:23:58](https://news.ycombinator.com/item?id=43006605) - [Large Nuclear-Powered Subsonic Aircraft for Transoceanic Commerce (1971) [pdf]](https://ntrs.nasa.gov/api/citations/19710028801/downloads/19710028801.pdf)
+* [2025-02-10, 23:16:33](https://news.ycombinator.com/item?id=43006536) - [Fun with C++26 reflection: Keyword Arguments](https://pydong.org/posts/KwArgs/)
 * [2025-02-10, 22:57:31](https://news.ycombinator.com/item?id=43006390) - [Hedge Funds Are Pocketing Much of Their Clients' Gains with 'No Limit' Fees](https://www.bloomberg.com/graphics/2025-hedge-fund-investment-fees/)
 * [2025-02-10, 21:00:29](https://news.ycombinator.com/item?id=43005096) - [Fly.io (YC W20) Is Hiring a Customer Support Director](https://news.ycombinator.com/item?id=43005096)
 * [2025-02-10, 20:42:18](https://news.ycombinator.com/item?id=43004889) - [Musk-led group makes $97B bid for control of OpenAI](https://www.reuters.com/markets/deals/elon-musk-led-group-makes-974-billion-bid-control-openai-wsj-reports-2025-02-10/)
@@ -24,7 +25,6 @@
 * [2025-02-09, 09:51:51](https://news.ycombinator.com/item?id=42989635) - [Scroll-Driven Animations](https://scroll-driven-animations.style/)
 * [2025-02-07, 19:40:36](https://news.ycombinator.com/item?id=42976623) - [Genetic Evidence of Killer Whale Predation on White Sharks in Australia](https://onlinelibrary.wiley.com/doi/10.1002/ece3.70786)
 * [2025-02-07, 19:06:44](https://news.ycombinator.com/item?id=42976244) - [Explainable Linear Programs](https://www.jeremykun.com/shortform/2025-02-06-2124/)
-* [2025-02-07, 16:10:46](https://news.ycombinator.com/item?id=42974278) - [Two Grand Canyon-size valleys on far side of the moon formed within 10 minutes](https://www.cnn.com/2025/02/05/science/lunar-grand-canyons-far-side-moon/index.html)
 * [2025-02-07, 14:04:14](https://news.ycombinator.com/item?id=42972622) - [Perma.cc – Permanent Link Service](https://perma.cc/)
 * [2025-02-07, 09:57:57](https://news.ycombinator.com/item?id=42971038) - [Memory profilers, call graphs, exception reports, and telemetry](https://www.nuanced.dev/blog/system-wide-context)
 * [2025-02-07, 09:23:49](https://news.ycombinator.com/item?id=42970847) - [Balcony solar is taking off](https://www.theguardian.com/environment/2024/dec/18/if-a-million-germans-have-them-there-must-be-something-in-it-how-balcony-solar-is-taking-off)
