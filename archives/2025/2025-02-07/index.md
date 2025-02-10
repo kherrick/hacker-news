@@ -94,6 +94,7 @@
 * [2025-02-07, 03:49:32](https://news.ycombinator.com/item?id=42969154) - [Guiding Electricity with Sound](https://phys.org/news/2025-02-invisible-electric-wire-electricity.html)
 * [2025-02-07, 03:43:46](https://news.ycombinator.com/item?id=42969126) - [Tesla Is Alienating the People It Needs Most: Study](https://insideevs.com/news/749741/tesla-ev-buyers-favorability-rating/)
 * [2025-02-07, 03:40:07](https://news.ycombinator.com/item?id=42969100) - [The LLM Curve of Impact on Software Engineers](https://serce.me/posts/2025-02-07-the-llm-curve-of-impact-on-software-engineers)
+* [2025-02-07, 03:30:10](https://news.ycombinator.com/item?id=42969038) - [Ancient-DNA Study Identifies Originators of Indo-European Language Family](https://hms.harvard.edu/news/ancient-dna-study-identifies-originators-indo-european-language-family)
 * [2025-02-07, 03:24:34](https://news.ycombinator.com/item?id=42968995) - [Andreessen Horowitz Defends Hiring of Daniel Penny to Its Investors](https://www.nytimes.com/2025/02/05/technology/daniel-penny-andreessen-horowitz-investors.html)
 * [2025-02-07, 03:11:56](https://news.ycombinator.com/item?id=42968858) - [Easy 6502](https://skilldrick.github.io/easy6502/)
 * [2025-02-07, 02:44:09](https://news.ycombinator.com/item?id=42968700) - [Robust Autonomy Emerges from Self-Play](https://arxiv.org/abs/2502.03349)
