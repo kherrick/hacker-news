@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-02-11, 17:00:30",
+      "https://news.ycombinator.com/item?id=43015169"
+    ],
+    [
+      "Legion Health (YC S21, AI-Driven Psychiatry) Hiring Founding Back End Engineer",
+      "https://www.ycombinator.com/companies/legion-health/jobs/3pA8uX7-senior-backend-engineer-event-driven-architecture-ai-enabled-systems"
+    ]
+  ],
+  [
+    [
+      "2025-02-11, 16:24:30",
+      "https://news.ycombinator.com/item?id=43014716"
+    ],
+    [
+      "The Curious Similarity Between LLMs and Quantum Mechanics",
+      "https://robleclerc.substack.com/p/the-curious-similarity-between-llms"
+    ]
+  ],
+  [
+    [
+      "2025-02-11, 16:14:03",
+      "https://news.ycombinator.com/item?id=43014573"
+    ],
+    [
+      "Time to Act on the Risk of Efficient Personalized Text Generation",
+      "https://arxiv.org/abs/2502.06560"
+    ]
+  ],
+  [
+    [
       "2025-02-11, 16:11:47",
       "https://news.ycombinator.com/item?id=43014542"
     ],
@@ -21,22 +51,22 @@
   ],
   [
     [
-      "2025-02-11, 15:56:04",
-      "https://news.ycombinator.com/item?id=43014321"
+      "2025-02-11, 16:00:59",
+      "https://news.ycombinator.com/item?id=43014408"
     ],
     [
-      "Proton Wallet is now available for all",
-      "https://primal.net/e/note1fus8glne8684xtn3n8lt2wjztsjss6k4jmc56ttl573ngxczerlqp84g9m"
+      "Intel's Battlemage Architecture",
+      "https://chipsandcheese.com/p/intels-battlemage-architecture"
     ]
   ],
   [
     [
-      "2025-02-11, 15:11:43",
-      "https://news.ycombinator.com/item?id=43013672"
+      "2025-02-11, 15:40:11",
+      "https://news.ycombinator.com/item?id=43014070"
     ],
     [
-      "A pair of scissors on formica table suddenly bursts into flames",
-      "https://old.reddit.com/r/chemistry/comments/1ilmshx/a_pair_of_scissors_sitting_on_my_table_formica/"
+      "Get in loser. We're rewinding the stack",
+      "https://andrews.substack.com/p/get-in-loser-were-rewinding-the-stack"
     ]
   ],
   [
@@ -67,6 +97,16 @@
     [
       "Backblaze Drive Stats for 2024",
       "https://www.backblaze.com/blog/backblaze-drive-stats-for-2024/"
+    ]
+  ],
+  [
+    [
+      "2025-02-11, 14:55:18",
+      "https://news.ycombinator.com/item?id=43013422"
+    ],
+    [
+      "RTX 5090 cable overheats to 150 degrees Celsius",
+      "https://www.tomshardware.com/pc-components/gpus/rtx-5090-cable-overheats-to-150-degrees-celsius-uneven-current-distribution-likely-the-culprit"
     ]
   ],
   [
@@ -201,36 +241,6 @@
   ],
   [
     [
-      "2025-02-10, 19:52:02",
-      "https://news.ycombinator.com/item?id=43004435"
-    ],
-    [
-      "TinyX: Small Featured X Server",
-      "https://github.com/tinycorelinux/tinyx"
-    ]
-  ],
-  [
-    [
-      "2025-02-10, 19:50:20",
-      "https://news.ycombinator.com/item?id=43004416"
-    ],
-    [
-      "Scaling up test-time compute with latent reasoning: A recurrent depth approach",
-      "https://arxiv.org/abs/2502.05171"
-    ]
-  ],
-  [
-    [
-      "2025-02-10, 17:39:28",
-      "https://news.ycombinator.com/item?id=43002906"
-    ],
-    [
-      "Work at the Mill: The story of Digital Equipment Corporation",
-      "https://www.abortretry.fail/p/work-at-the-mill"
-    ]
-  ],
-  [
-    [
       "2025-02-10, 17:05:09",
       "https://news.ycombinator.com/item?id=43002511"
     ],
@@ -277,16 +287,6 @@
     [
       "OpenDAW – a new holistic exploration of music creation inside the browser",
       "https://opendaw.studio/"
-    ]
-  ],
-  [
-    [
-      "2025-02-07, 23:45:52",
-      "https://news.ycombinator.com/item?id=42978825"
-    ],
-    [
-      "Making Software Fun",
-      "https://furbo.org/2025/02/07/making-software-fun/"
     ]
   ],
   [
