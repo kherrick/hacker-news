@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-11, 15:08:08](https://news.ycombinator.com/item?id=43013615) - [I Tasted Honda's Spicy Rodent-Repelling Tape – And I will do it again](https://haterade.substack.com/p/i-tasted-hondas-spicy-rodent-repelling)
 * [2025-02-11, 14:55:45](https://news.ycombinator.com/item?id=43013431) - [Backblaze Drive Stats for 2024](https://www.backblaze.com/blog/backblaze-drive-stats-for-2024/)
 * [2025-02-11, 14:27:00](https://news.ycombinator.com/item?id=43013033) - [Canonical announces 12 year Kubernetes LTS](https://canonical.com/blog/12-year-lts-for-kubernetes)
-* [2025-02-11, 14:12:36](https://news.ycombinator.com/item?id=43012901) - [Google Calendar no longer includes start of Black History Month, Pride Month](https://www.cnbc.com/2025/02/10/google-calendar-removes-start-of-black-history-womens-history-months.html)
 * [2025-02-11, 14:10:47](https://news.ycombinator.com/item?id=43012880) - [More users are watching YouTube on TV than mobile](https://www.engadget.com/entertainment/youtube/more-users-are-watching-youtube-on-tv-than-mobile-140035151.html)
 * [2025-02-11, 14:08:22](https://news.ycombinator.com/item?id=43012862) - [Boring tech is mature, not old](https://rubenerd.com/boring-tech-is-mature-not-old/)
 * [2025-02-11, 13:58:01](https://news.ycombinator.com/item?id=43012751) - [FLAC 1.5 Delivers Multi-Threaded Encoding](https://www.phoronix.com/news/FLAC-1.5-Released)
@@ -17,6 +17,7 @@
 * [2025-02-11, 04:13:47](https://news.ycombinator.com/item?id=43008879) - [Nvidia's RTX 5090 power connectors are melting](https://www.theverge.com/news/609207/nvidia-rtx-5090-power-connector-melting-burning-issues)
 * [2025-02-11, 01:02:48](https://news.ycombinator.com/item?id=43007628) - [The Floppotron 3.0 (2022)](https://silent.org.pl/home/2022/06/13/the-floppotron-3-0/)
 * [2025-02-10, 23:16:33](https://news.ycombinator.com/item?id=43006536) - [Fun with C++26 reflection: Keyword Arguments](https://pydong.org/posts/KwArgs/)
+* [2025-02-10, 21:00:29](https://news.ycombinator.com/item?id=43005096) - [Fly.io (YC W20) Is Hiring a Customer Support Director](https://news.ycombinator.com/item?id=43005096)
 * [2025-02-10, 19:52:02](https://news.ycombinator.com/item?id=43004435) - [TinyX: Small Featured X Server](https://github.com/tinycorelinux/tinyx)
 * [2025-02-10, 19:50:20](https://news.ycombinator.com/item?id=43004416) - [Scaling up test-time compute with latent reasoning: A recurrent depth approach](https://arxiv.org/abs/2502.05171)
 * [2025-02-10, 17:39:28](https://news.ycombinator.com/item?id=43002906) - [Work at the Mill: The story of Digital Equipment Corporation](https://www.abortretry.fail/p/work-at-the-mill)
@@ -29,7 +30,6 @@
 * [2025-02-09, 06:31:10](https://news.ycombinator.com/item?id=42988913) - [OpenDAW – a new holistic exploration of music creation inside the browser](https://opendaw.studio/)
 * [2025-02-07, 23:45:52](https://news.ycombinator.com/item?id=42978825) - [Making Software Fun](https://furbo.org/2025/02/07/making-software-fun/)
 * [2025-02-07, 06:23:36](https://news.ycombinator.com/item?id=42969993) - [Indigenous engineers are using AI to preserve their culture](https://www.nbcnews.com/tech/innovation/indigenous-engineers-are-using-ai-preserve-culture-rcna176012)
-* [2025-02-07, 03:30:10](https://news.ycombinator.com/item?id=42969038) - [Ancient-DNA study identifies originators of Indo-European language family](https://hms.harvard.edu/news/ancient-dna-study-identifies-originators-indo-european-language-family)
 
 ## [Archives](archives/index.md)
 

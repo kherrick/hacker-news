@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-11](index.md)
 
+* [2025-02-11, 15:08:08](https://news.ycombinator.com/item?id=43013615) - [I Tasted Honda's Spicy Rodent-Repelling Tape – And I will do it again](https://haterade.substack.com/p/i-tasted-hondas-spicy-rodent-repelling)
 * [2025-02-11, 14:55:45](https://news.ycombinator.com/item?id=43013431) - [Backblaze Drive Stats for 2024](https://www.backblaze.com/blog/backblaze-drive-stats-for-2024/)
 * [2025-02-11, 14:27:00](https://news.ycombinator.com/item?id=43013033) - [Canonical announces 12 year Kubernetes LTS](https://canonical.com/blog/12-year-lts-for-kubernetes)
 * [2025-02-11, 14:26:32](https://news.ycombinator.com/item?id=43013028) - [Why Do AI Chatbots Have Such a Hard Time Admitting 'I Don't Know'?](https://www.wsj.com/tech/ai/ai-halluciation-answers-i-dont-know-738bde07)
