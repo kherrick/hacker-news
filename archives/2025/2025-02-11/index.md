@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-11](index.md)
 
 * [2025-02-11, 07:19:51](https://news.ycombinator.com/item?id=43009946) - [Far-right populists much more likely than the left to spread fake news – study](https://www.theguardian.com/world/2025/feb/11/far-right-mps-fake-news-misinformation-left-study)
+* [2025-02-11, 06:34:26](https://news.ycombinator.com/item?id=43009682) - [Jeep Introduces Pop-Up Ads That Appear Every Time You Stop](https://tech.slashdot.org/story/25/02/11/0016258/jeep-introduces-pop-up-ads-that-appear-every-time-you-stop)
 * [2025-02-11, 06:10:11](https://news.ycombinator.com/item?id=43009533) - [Subjectivity in Productivity](https://world.hey.com/jason/subjectivity-in-productivity-e0b4e2ee)
 * [2025-02-11, 04:59:32](https://news.ycombinator.com/item?id=43009148) - [CFPB's 1,700 employees told to \"not perform any work\"](https://nypost.com/2025/02/10/us-news/cfpbs-1700-employees-told-to-not-perform-any-work-as-obama-era-agency-become-latest-trump-target/)
 * [2025-02-11, 04:53:37](https://news.ycombinator.com/item?id=43009116) - [Mac OS on an unmodified Wii (2022)](https://hackaday.com/2022/11/24/its-macos-on-an-unmodified-wii/)
