@@ -55,6 +55,7 @@
 * [2025-02-09, 11:39:38](https://news.ycombinator.com/item?id=42990036) - [Classic Data science pipelines built with LLMs](https://github.com/Pravko-Solutions/FlashLearn/tree/main/examples)
 * [2025-02-09, 11:29:35](https://news.ycombinator.com/item?id=42990000) - [Dear Mr. Vice President, Please Take Off Your Apple Watch](https://www.watchesofespionage.com/blogs/woe-dispatch/vice-president-jd-vance-apple-watch-smartwatch-intelligence-risks)
 * [2025-02-09, 11:07:52](https://news.ycombinator.com/item?id=42989923) - [Linux as co-operative Windows process](http://www.colinux.org/)
+* [2025-02-09, 10:55:30](https://news.ycombinator.com/item?id=42989886) - [February 22, 1985 Operation Beluga](https://todayinhistory.blog/2024/02/22/february-22-1985-operation-beluga/)
 * [2025-02-09, 10:15:20](https://news.ycombinator.com/item?id=42989747) - [ZeroTier – home VPN without a public IP address](https://blog.tomaszdunia.pl/zerotier-eng/)
 * [2025-02-09, 09:51:51](https://news.ycombinator.com/item?id=42989635) - [Scroll-Driven Animations](https://scroll-driven-animations.style/)
 * [2025-02-09, 09:50:35](https://news.ycombinator.com/item?id=42989628) - [RetroFab: Playable 3D simulations of vintage electronic games](https://itizso.itch.io/retrofab)
