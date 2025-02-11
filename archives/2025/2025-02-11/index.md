@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-11](index.md)
 
+* [2025-02-11, 19:54:45](https://news.ycombinator.com/item?id=43017543) - [Voters Were Right About the Economy. The Data Was Wrong](https://www.politico.com/news/magazine/2025/02/11/democrats-tricked-strong-economy-00203464)
+* [2025-02-11, 19:50:07](https://news.ycombinator.com/item?id=43017487) - [Non-Fiction Has Bad Incentives](https://borretti.me/article/non-fiction-has-bad-incentives)
 * [2025-02-11, 19:15:02](https://news.ycombinator.com/item?id=43017010) - [The Subtle Art of Designing Physical Controls for Cars](https://www.theturnsignalblog.com/the-subtle-art-of-designing-physical-control-for-cars/)
 * [2025-02-11, 19:10:16](https://news.ycombinator.com/item?id=43016944) - [Incremental compilation instantly rebuilds the Zig compiler](https://www.youtube.com/clip/Ugkxjn7L0hEfN1XLfH1soaUdCksG3FvJkXIS)
 * [2025-02-11, 19:09:25](https://news.ycombinator.com/item?id=43016931) - [Tesla Cybertruck Drives Itself into a Pole, Owner Says 'Thank You Tesla'](https://www.thedrive.com/news/tesla-cybertruck-drove-itself-into-a-pole-owner-says-thank-you-tesla)
