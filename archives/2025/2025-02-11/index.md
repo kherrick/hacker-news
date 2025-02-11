@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-02-11](index.md)
 
+* [2025-02-11, 06:10:11](https://news.ycombinator.com/item?id=43009533) - [Subjectivity in Productivity](https://world.hey.com/jason/subjectivity-in-productivity-e0b4e2ee)
 * [2025-02-11, 04:59:32](https://news.ycombinator.com/item?id=43009148) - [CFPB's 1,700 employees told to \"not perform any work\"](https://nypost.com/2025/02/10/us-news/cfpbs-1700-employees-told-to-not-perform-any-work-as-obama-era-agency-become-latest-trump-target/)
+* [2025-02-11, 04:53:37](https://news.ycombinator.com/item?id=43009116) - [Mac OS on an unmodified Wii (2022)](https://hackaday.com/2022/11/24/its-macos-on-an-unmodified-wii/)
 * [2025-02-11, 04:19:41](https://news.ycombinator.com/item?id=43008920) - [Meta's Hyperscale Infrastructure: Overview and Insights](https://cacm.acm.org/research/metas-hyperscale-infrastructure-overview-and-insights/)
 * [2025-02-11, 04:13:47](https://news.ycombinator.com/item?id=43008879) - [Nvidia's RTX 5090 power connectors are melting](https://www.theverge.com/news/609207/nvidia-rtx-5090-power-connector-melting-burning-issues)
 * [2025-02-11, 04:03:36](https://news.ycombinator.com/item?id=43008814) - [How America traded systematic improvement for quick wins–and lost both](https://www.population.fyi/p/process-and-performance-how-america)
