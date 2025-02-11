@@ -39,6 +39,7 @@
 * [2025-02-07, 15:47:14](https://news.ycombinator.com/item?id=42973989) - [AI Startup School with Elon Musk, Satya Nadella, Sam Altman, Andrej Karpathy](https://events.ycombinator.com/ai-sus)
 * [2025-02-07, 15:40:38](https://news.ycombinator.com/item?id=42973897) - [When Louis Armstrong Conquered Chicago](https://www.honest-broker.com/p/when-louis-armstrong-conquered-chicago)
 * [2025-02-07, 15:30:08](https://news.ycombinator.com/item?id=42973769) - [Kokoro WebGPU: Real-time text-to-speech 100% locally in the browser](https://huggingface.co/spaces/webml-community/kokoro-webgpu)
+* [2025-02-07, 15:20:35](https://news.ycombinator.com/item?id=42973652) - [Solving Sudoku with Tmux](https://willhbr.net/2024/12/27/solving-sudoku-with-tmux/)
 * [2025-02-07, 14:48:42](https://news.ycombinator.com/item?id=42973189) - [The other 99% – CERN Courier](https://cerncourier.com/a/the-other-99/)
 * [2025-02-07, 14:44:45](https://news.ycombinator.com/item?id=42973131) - [Baltic countries disconnect from the Russian power grid](https://baltic-grid.sympower.net/)
 * [2025-02-07, 14:37:46](https://news.ycombinator.com/item?id=42973049) - [Mapping Antarctica's hidden ice-free lands: a blueprint for conservation](https://www.unsw.edu.au/newsroom/news/2025/01/mapping-antarcticas-hidden-ice-free-lands-a-blueprint-for-conservation)
