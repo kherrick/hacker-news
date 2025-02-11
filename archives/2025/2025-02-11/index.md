@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-02-11](index.md)
 
+* [2025-02-11, 18:15:27](https://news.ycombinator.com/item?id=43016116) - [Man who threw away $750M in Bitcoin wants to buy the dump where it's buried](https://fortune.com/2025/02/11/bitcoin-trash-landfill-purchase-james-howells-newport/)
 * [2025-02-11, 17:44:34](https://news.ycombinator.com/item?id=43015713) - [UnitedHealth hired a defamation law firm to go after social media posts criticiz](https://fortune.com/2025/02/10/unitedhealth-defamation-law-firm-social-media/)
+* [2025-02-11, 17:18:43](https://news.ycombinator.com/item?id=43015397) - [IT Unemployment Rises to 5.7% as AI Hits Tech Jobs](https://www.wsj.com/articles/it-unemployment-rises-to-5-7-as-ai-hits-tech-jobs-7726bb1b)
 * [2025-02-11, 17:17:55](https://news.ycombinator.com/item?id=43015387) - [JetBrains Fleet drops support for Kotlin Multiplatform](https://blog.jetbrains.com/kotlin/2025/02/kotlin-multiplatform-tooling-shifting-gears/)
 * [2025-02-11, 17:16:58](https://news.ycombinator.com/item?id=43015374) - [Shopify takes down Ye website selling swastika shirts after Super Bowl ad](https://www.cnbc.com/2025/02/11/shopify-removes-ye-website-selling-swastika-shirts-after-super-bowl-ad.html)
+* [2025-02-11, 17:09:46](https://news.ycombinator.com/item?id=43015280) - [Harry Stewart, Jr., one of the last surviving Tuskegee Airmen, dies at 100](https://apnews.com/article/tuskegee-airmen-harry-stewart-jr-78fd504895d7af70d4bb1e2243a54ee6)
 * [2025-02-11, 17:09:06](https://news.ycombinator.com/item?id=43015271) - [Show HN: I built an AI coloring page generator](https://www.colori.io/)
 * [2025-02-11, 17:08:35](https://news.ycombinator.com/item?id=43015267) - [Launch HN: A0.dev (YC W25) – React Native App Generator](https://news.ycombinator.com/item?id=43015267)
 * [2025-02-11, 17:00:30](https://news.ycombinator.com/item?id=43015169) - [Legion Health (YC S21, AI-Driven Psychiatry) Hiring Founding Back End Engineer](https://www.ycombinator.com/companies/legion-health/jobs/3pA8uX7-senior-backend-engineer-event-driven-architecture-ai-enabled-systems)
