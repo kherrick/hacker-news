@@ -6,8 +6,10 @@
 
 * [2025-02-09, 23:56:17](https://news.ycombinator.com/item?id=42995425) - [U.S. facing most intense flu season in at least 15 years](https://www.pbs.org/newshour/health/u-s-facing-most-intense-flu-season-in-at-least-15-years)
 * [2025-02-09, 23:52:32](https://news.ycombinator.com/item?id=42995403) - [Reflect Orbital: Sunlight after dark using a constellation of spatial reflectors](https://www.reflectorbital.com/)
+* [2025-02-09, 22:53:27](https://news.ycombinator.com/item?id=42994958) - [Surrealist Compliment Generator](https://www.madsci.org/cgi-bin/lynn/jardin/SCG)
 * [2025-02-09, 22:36:56](https://news.ycombinator.com/item?id=42994828) - [One Text to Speech wrapper for Python for all (?) TTS engines](https://pypi.org/project/py3-tts-wrapper/)
 * [2025-02-09, 22:15:26](https://news.ycombinator.com/item?id=42994615) - [World first: Plane hooks a skydiver out of the air](https://newatlas.com/sports/plane-mid-air-first-time-max-manow-red-bull/)
+* [2025-02-09, 22:12:01](https://news.ycombinator.com/item?id=42994590) - [Smoke in the cabin of two 737 MAX caused by Load Reduction Device system [video]](https://www.youtube.com/watch?v=swlVkYVSlIE)
 * [2025-02-09, 21:58:52](https://news.ycombinator.com/item?id=42994505) - [Google Pay Study Finds It Underpaid Men for Some Jobs (2019)](https://www.npr.org/2019/03/05/700288695/google-pay-study-finds-its-underpaying-men-for-some-jobs)
 * [2025-02-09, 21:52:33](https://news.ycombinator.com/item?id=42994440) - [Show HN: Searchable Library of Free Audiobooks](https://booksearch.party/)
 * [2025-02-09, 21:37:38](https://news.ycombinator.com/item?id=42994293) - [Analysis of 2024 Election Results in Clark County Indicates Manipulation](https://www.wcia.com/business/press-releases/ein-presswire/776992724/analysis-of-2024-election-results-in-clark-county-indicates-manipulation/)
