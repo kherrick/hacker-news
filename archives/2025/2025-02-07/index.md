@@ -85,6 +85,7 @@
 * [2025-02-07, 06:58:10](https://news.ycombinator.com/item?id=42970169) - [Fake VS Code Extension on NPM Spreads Multi-Stage Malware](https://www.mend.io/blog/fake-vs-code-extension-on-npm-spreads-multi-stage-malware/)
 * [2025-02-07, 06:38:35](https://news.ycombinator.com/item?id=42970076) - [Google Fixes Android Kernel Zero-Day Exploited in Attacks](https://thedefendopsdiaries.com/google-fixes-android-kernel-zero-day-exploited-in-attacks/)
 * [2025-02-07, 06:32:00](https://news.ycombinator.com/item?id=42970039) - [Harvard preserving for public use data.gov datasets](https://lil.law.harvard.edu/blog/2025/02/06/announcing-data-gov-archive/)
+* [2025-02-07, 06:23:36](https://news.ycombinator.com/item?id=42969993) - [Indigenous engineers are using AI to preserve their culture](https://www.nbcnews.com/tech/innovation/indigenous-engineers-are-using-ai-preserve-culture-rcna176012)
 * [2025-02-07, 06:02:14](https://news.ycombinator.com/item?id=42969892) - [Gold-Medalist Performance in Solving Olympiad Geometry with AlphaGeometry2](https://arxiv.org/abs/2502.03544)
 * [2025-02-07, 05:34:59](https://news.ycombinator.com/item?id=42969750) - [HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models](https://arxiv.org/abs/2405.14831)
 * [2025-02-07, 05:09:37](https://news.ycombinator.com/item?id=42969650) - [Did UCLA Just Cure Baldness?](https://newsroom.ucla.edu/magazine/baldness-cure-pp405-molecule-breakthrough-treatment)
