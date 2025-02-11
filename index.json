@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-11, 08:26:16",
+      "https://news.ycombinator.com/item?id=43010365"
+    ],
+    [
+      "How about trailing commas in SQL?",
+      "http://peter.eisentraut.org/blog/2025/02/11/how-about-trailing-commas-in-sql"
+    ]
+  ],
+  [
+    [
       "2025-02-11, 07:35:24",
       "https://news.ycombinator.com/item?id=43010037"
     ],
@@ -87,16 +97,6 @@
     [
       "The Floppotron 3.0 (2022)",
       "https://silent.org.pl/home/2022/06/13/the-floppotron-3-0/"
-    ]
-  ],
-  [
-    [
-      "2025-02-11, 00:35:34",
-      "https://news.ycombinator.com/item?id=43007336"
-    ],
-    [
-      "Nocc – A Distributed C++ Compiler",
-      "https://github.com/VKCOM/nocc"
     ]
   ],
   [
