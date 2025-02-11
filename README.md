@@ -28,7 +28,7 @@
 * [2025-02-09, 09:18:41](https://news.ycombinator.com/item?id=42989508) - [Explaining Glasser's 'Quality World'](https://thebetterplan.org/2014/08/10/teaching-the-quality-world/)
 * [2025-02-09, 06:31:10](https://news.ycombinator.com/item?id=42988913) - [OpenDAW – a new holistic exploration of music creation inside the browser](https://opendaw.studio/)
 * [2025-02-07, 23:45:52](https://news.ycombinator.com/item?id=42978825) - [Making Software Fun](https://furbo.org/2025/02/07/making-software-fun/)
-* [2025-02-07, 06:23:36](https://news.ycombinator.com/item?id=42969993) - [Indigenous engineers are using AI to preserve their culture](https://www.nbcnews.com/tech/innovation/indigenous-engineers-are-using-ai-preserve-culture-rcna176012)
+* [2025-02-07, 22:47:53](https://news.ycombinator.com/item?id=42978394) - [Run Doom on Google Sheets](https://github.com/moses297/doom-on-google-sheets)
 * [2025-02-07, 03:30:10](https://news.ycombinator.com/item?id=42969038) - [Ancient-DNA study identifies originators of Indo-European language family](https://hms.harvard.edu/news/ancient-dna-study-identifies-originators-indo-european-language-family)
 
 ## [Archives](archives/index.md)
