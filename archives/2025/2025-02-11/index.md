@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-11](index.md)
 
+* [2025-02-11, 14:26:32](https://news.ycombinator.com/item?id=43013028) - [Why Do AI Chatbots Have Such a Hard Time Admitting 'I Don't Know'?](https://www.wsj.com/tech/ai/ai-halluciation-answers-i-dont-know-738bde07)
 * [2025-02-11, 14:10:47](https://news.ycombinator.com/item?id=43012880) - [More users are watching YouTube on TV than mobile](https://www.engadget.com/entertainment/youtube/more-users-are-watching-youtube-on-tv-than-mobile-140035151.html)
 * [2025-02-11, 14:08:22](https://news.ycombinator.com/item?id=43012862) - [Boring tech is mature, not old](https://rubenerd.com/boring-tech-is-mature-not-old/)
 * [2025-02-11, 13:58:01](https://news.ycombinator.com/item?id=43012751) - [FLAC 1.5 Delivers Multi-Threaded Encoding](https://www.phoronix.com/news/FLAC-1.5-Released)
