@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-11, 23:12:11](https://news.ycombinator.com/item?id=43019578) - [Associated Press Barred from Oval Office for Not Using 'Gulf of America'](https://www.theguardian.com/us-news/2025/feb/11/associated-press-oval-office-gulf-of-america)
+* [2025-02-11, 23:11:05](https://news.ycombinator.com/item?id=43019572) - [Google Calendar Removes Holocaust Remembrance, Pride, and Black History month](https://www.newsweek.com/google-removes-pride-month-calendar-black-history-holocaust-remembrance-2029257)
 * [2025-02-11, 22:46:31](https://news.ycombinator.com/item?id=43019352) - [A Year of Telepathy](https://neuralink.com/blog/a-year-of-telepathy/)
 * [2025-02-11, 21:31:43](https://news.ycombinator.com/item?id=43018643) - [NOAA's public weather data powers the local forecasts on your phone and TV](https://theconversation.com/noaas-vast-public-weather-data-powers-the-local-forecasts-on-your-phone-and-tv-a-private-company-alone-couldnt-match-it-249451)
 * [2025-02-11, 21:02:12](https://news.ycombinator.com/item?id=43018312) - [The Butter Thesis (2019)](https://nickgrossman.xyz/the-butter-thesis)
@@ -21,15 +23,13 @@
 * [2025-02-11, 14:55:45](https://news.ycombinator.com/item?id=43013431) - [Backblaze Drive Stats for 2024](https://www.backblaze.com/blog/backblaze-drive-stats-for-2024/)
 * [2025-02-11, 13:54:01](https://news.ycombinator.com/item?id=43012714) - [Anchoreum: A game for learning CSS anchor positioning](https://anchoreum.com)
 * [2025-02-11, 09:42:42](https://news.ycombinator.com/item?id=43010814) - [Firing programmers for AI is a mistake](https://defragzone.substack.com/p/techs-dumbest-mistake-why-firing)
-* [2025-02-11, 08:26:16](https://news.ycombinator.com/item?id=43010365) - [How about trailing commas in SQL?](http://peter.eisentraut.org/blog/2025/02/11/how-about-trailing-commas-in-sql)
 * [2025-02-11, 04:13:47](https://news.ycombinator.com/item?id=43008879) - [Nvidia's RTX 5090 power connectors are melting](https://www.theverge.com/news/609207/nvidia-rtx-5090-power-connector-melting-burning-issues)
 * [2025-02-10, 13:11:28](https://news.ycombinator.com/item?id=42999788) - [The hallucinatory thoughts of the dying mind](https://thereader.mitpress.mit.edu/the-hallucinatory-thoughts-of-the-dying-mind/)
 * [2025-02-10, 11:59:41](https://news.ycombinator.com/item?id=42999297) - [Building a personal, private AI computer on a budget](https://ewintr.nl/posts/2025/building-a-personal-private-ai-computer-on-a-budget/)
-* [2025-02-10, 08:20:54](https://news.ycombinator.com/item?id=42998009) - [Craftax: (Crafter and NetHack) RL Environment in Jax](https://github.com/MichaelTMatthews/Craftax)
 * [2025-02-10, 01:25:05](https://news.ycombinator.com/item?id=42995991) - [Show HN: Infinite horizontal arrays of text editors](https://zeminary.com/arrays/app.html)
 * [2025-02-09, 22:53:27](https://news.ycombinator.com/item?id=42994958) - [Surrealist Compliment Generator](https://www.madsci.org/cgi-bin/lynn/jardin/SCG)
 * [2025-02-09, 22:12:01](https://news.ycombinator.com/item?id=42994590) - [Smoke in the cabin of two 737 MAX caused by Load Reduction Device system [video]](https://www.youtube.com/watch?v=swlVkYVSlIE)
-* [2025-02-09, 06:31:10](https://news.ycombinator.com/item?id=42988913) - [OpenDAW – a new holistic exploration of music creation inside the browser](https://opendaw.studio/)
+* [2025-02-08, 13:15:26](https://news.ycombinator.com/item?id=42982755) - [Ohm: A user-friendly parsing toolkit for JavaScript and TypeScript](https://ohmjs.org/)
 
 ## [Archives](archives/index.md)
 

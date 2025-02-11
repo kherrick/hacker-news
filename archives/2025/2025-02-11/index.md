@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-11](index.md)
 
+* [2025-02-11, 23:12:11](https://news.ycombinator.com/item?id=43019578) - [Associated Press Barred from Oval Office for Not Using 'Gulf of America'](https://www.theguardian.com/us-news/2025/feb/11/associated-press-oval-office-gulf-of-america)
+* [2025-02-11, 23:11:05](https://news.ycombinator.com/item?id=43019572) - [Google Calendar Removes Holocaust Remembrance, Pride, and Black History month](https://www.newsweek.com/google-removes-pride-month-calendar-black-history-holocaust-remembrance-2029257)
 * [2025-02-11, 22:46:31](https://news.ycombinator.com/item?id=43019352) - [A Year of Telepathy](https://neuralink.com/blog/a-year-of-telepathy/)
 * [2025-02-11, 21:48:47](https://news.ycombinator.com/item?id=43018790) - [Letters from BBC Television Licensing](http://www.bbctvlicence.com/)
 * [2025-02-11, 21:31:43](https://news.ycombinator.com/item?id=43018643) - [NOAA's public weather data powers the local forecasts on your phone and TV](https://theconversation.com/noaas-vast-public-weather-data-powers-the-local-forecasts-on-your-phone-and-tv-a-private-company-alone-couldnt-match-it-249451)
