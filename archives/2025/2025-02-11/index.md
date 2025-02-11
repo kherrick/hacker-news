@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-02-11](index.md)
 
+* [2025-02-11, 17:44:34](https://news.ycombinator.com/item?id=43015713) - [UnitedHealth hired a defamation law firm to go after social media posts criticiz](https://fortune.com/2025/02/10/unitedhealth-defamation-law-firm-social-media/)
+* [2025-02-11, 17:17:55](https://news.ycombinator.com/item?id=43015387) - [JetBrains Fleet drops support for Kotlin Multiplatform](https://blog.jetbrains.com/kotlin/2025/02/kotlin-multiplatform-tooling-shifting-gears/)
 * [2025-02-11, 17:16:58](https://news.ycombinator.com/item?id=43015374) - [Shopify takes down Ye website selling swastika shirts after Super Bowl ad](https://www.cnbc.com/2025/02/11/shopify-removes-ye-website-selling-swastika-shirts-after-super-bowl-ad.html)
 * [2025-02-11, 17:09:06](https://news.ycombinator.com/item?id=43015271) - [Show HN: I built an AI coloring page generator](https://www.colori.io/)
 * [2025-02-11, 17:08:35](https://news.ycombinator.com/item?id=43015267) - [Launch HN: A0.dev (YC W25) – React Native App Generator](https://news.ycombinator.com/item?id=43015267)
 * [2025-02-11, 17:00:30](https://news.ycombinator.com/item?id=43015169) - [Legion Health (YC S21, AI-Driven Psychiatry) Hiring Founding Back End Engineer](https://www.ycombinator.com/companies/legion-health/jobs/3pA8uX7-senior-backend-engineer-event-driven-architecture-ai-enabled-systems)
+* [2025-02-11, 16:40:20](https://news.ycombinator.com/item?id=43014918) - [LLMs Can Teach Themselves to Better Predict the Future](https://arxiv.org/abs/2502.05253)
 * [2025-02-11, 16:24:30](https://news.ycombinator.com/item?id=43014716) - [The Curious Similarity Between LLMs and Quantum Mechanics](https://robleclerc.substack.com/p/the-curious-similarity-between-llms)
 * [2025-02-11, 16:14:03](https://news.ycombinator.com/item?id=43014573) - [Time to Act on the Risk of Efficient Personalized Text Generation](https://arxiv.org/abs/2502.06560)
 * [2025-02-11, 16:11:47](https://news.ycombinator.com/item?id=43014542) - [EU's AltStore Gets First Native iOS Pornography App](https://www.macrumors.com/2025/02/03/eu-altstore-porn-app/)
