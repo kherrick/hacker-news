@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-02-11, 07:05:39",
+      "https://news.ycombinator.com/item?id=43009850"
+    ],
+    [
+      "TSMC 2nm Process Disclosure – How Does It Measure Up?",
+      "https://semiwiki.com/semiconductor-services/techinsights/352972-iedm-2025-tsmc-2nm-process-disclosure-how-does-it-measure-up/"
+    ]
+  ],
+  [
+    [
       "2025-02-11, 04:19:41",
       "https://news.ycombinator.com/item?id=43008920"
     ],
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2025-02-07, 14:48:42",
-      "https://news.ycombinator.com/item?id=42973189"
+      "2025-02-07, 12:46:33",
+      "https://news.ycombinator.com/item?id=42971967"
     ],
     [
-      "The other 99%",
-      "https://cerncourier.com/a/the-other-99/"
+      "Fruit of the Poisonous Llama?",
+      "https://shkspr.mobi/blog/2023/07/fruit-of-the-poisonous-llama/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Allocator Hints for Btrfs",
       "https://wiki.tnonline.net/w/Btrfs/Allocator_Hints"
-    ]
-  ],
-  [
-    [
-      "2025-02-07, 09:57:57",
-      "https://news.ycombinator.com/item?id=42971038"
-    ],
-    [
-      "Memory profilers, call graphs, exception reports, and telemetry",
-      "https://www.nuanced.dev/blog/system-wide-context"
     ]
   ],
   [
