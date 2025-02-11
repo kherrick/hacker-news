@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-02-11, 14:26:32",
-      "https://news.ycombinator.com/item?id=43013028"
+      "2025-02-11, 14:55:45",
+      "https://news.ycombinator.com/item?id=43013431"
     ],
     [
-      "Why Do AI Chatbots Have Such a Hard Time Admitting 'I Don't Know'?",
-      "https://www.wsj.com/tech/ai/ai-halluciation-answers-i-dont-know-738bde07"
+      "Backblaze Drive Stats for 2024",
+      "https://www.backblaze.com/blog/backblaze-drive-stats-for-2024/"
+    ]
+  ],
+  [
+    [
+      "2025-02-11, 14:27:00",
+      "https://news.ycombinator.com/item?id=43013033"
+    ],
+    [
+      "Canonical announces 12 year Kubernetes LTS",
+      "https://canonical.com/blog/12-year-lts-for-kubernetes"
+    ]
+  ],
+  [
+    [
+      "2025-02-11, 14:12:36",
+      "https://news.ycombinator.com/item?id=43012901"
+    ],
+    [
+      "Google Calendar no longer includes start of Black History Month, Pride Month",
+      "https://www.cnbc.com/2025/02/10/google-calendar-removes-start-of-black-history-womens-history-months.html"
     ]
   ],
   [
@@ -37,6 +57,16 @@
     [
       "FLAC 1.5 Delivers Multi-Threaded Encoding",
       "https://www.phoronix.com/news/FLAC-1.5-Released"
+    ]
+  ],
+  [
+    [
+      "2025-02-11, 13:54:01",
+      "https://news.ycombinator.com/item?id=43012714"
+    ],
+    [
+      "Anchoreum: A game for learning CSS anchor positioning",
+      "https://anchoreum.com"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2025-02-10, 22:53:40",
-      "https://news.ycombinator.com/item?id=43006350"
-    ],
-    [
-      "Relational Quantum Mechanics",
-      "https://plato.stanford.edu/entries/qm-relational/"
-    ]
-  ],
-  [
-    [
       "2025-02-10, 19:52:02",
       "https://news.ycombinator.com/item?id=43004435"
     ],
@@ -231,12 +251,12 @@
   ],
   [
     [
-      "2025-02-09, 09:53:55",
-      "https://news.ycombinator.com/item?id=42989654"
+      "2025-02-09, 09:18:41",
+      "https://news.ycombinator.com/item?id=42989508"
     ],
     [
-      "Literate Programming in Quarto",
-      "https://ivelasq.quarto.pub/building-a-blog-with-quarto/workflow/write-docs/"
+      "Explaining Glasser's 'Quality World'",
+      "https://thebetterplan.org/2014/08/10/teaching-the-quality-world/"
     ]
   ],
   [
@@ -257,26 +277,6 @@
     [
       "Making Software Fun",
       "https://furbo.org/2025/02/07/making-software-fun/"
-    ]
-  ],
-  [
-    [
-      "2025-02-07, 15:20:35",
-      "https://news.ycombinator.com/item?id=42973652"
-    ],
-    [
-      "Solving Sudoku with Tmux",
-      "https://willhbr.net/2024/12/27/solving-sudoku-with-tmux/"
-    ]
-  ],
-  [
-    [
-      "2025-02-07, 12:46:33",
-      "https://news.ycombinator.com/item?id=42971967"
-    ],
-    [
-      "Fruit of the Poisonous Llama? (2023)",
-      "https://shkspr.mobi/blog/2023/07/fruit-of-the-poisonous-llama/"
     ]
   ],
   [
