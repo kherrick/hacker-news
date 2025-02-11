@@ -8,6 +8,7 @@
 * [2025-02-10, 23:16:33](https://news.ycombinator.com/item?id=43006536) - [Fun with C++26 reflection: Keyword Arguments](https://pydong.org/posts/KwArgs/)
 * [2025-02-10, 22:57:31](https://news.ycombinator.com/item?id=43006390) - [Hedge Funds Are Pocketing Much of Their Clients' Gains with 'No Limit' Fees](https://www.bloomberg.com/graphics/2025-hedge-fund-investment-fees/)
 * [2025-02-10, 22:56:39](https://news.ycombinator.com/item?id=43006383) - [The ABA supports the rule of law](https://www.americanbar.org/news/abanews/aba-news-archives/2025/02/aba-supports-the-rule-of-law/)
+* [2025-02-10, 22:53:40](https://news.ycombinator.com/item?id=43006350) - [Relational Quantum Mechanics](https://plato.stanford.edu/entries/qm-relational/)
 * [2025-02-10, 21:00:29](https://news.ycombinator.com/item?id=43005096) - [Fly.io (YC W20) Is Hiring a Customer Support Director](https://news.ycombinator.com/item?id=43005096)
 * [2025-02-10, 21:00:14](https://news.ycombinator.com/item?id=43005093) - [The McKinley Years](https://jasonsteinhauer.substack.com/p/make-mckinley-great-again)
 * [2025-02-10, 20:48:38](https://news.ycombinator.com/item?id=43004966) - [The 'Mosaic' Method and the Value of CIA Names to U.S. Adversaries](https://www.lawfaremedia.org/article/the--mosaic--method-and-the-value-of-cia-names-to-u.s.-adversaries)
