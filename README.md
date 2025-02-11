@@ -23,11 +23,11 @@
 * [2025-02-11, 14:55:45](https://news.ycombinator.com/item?id=43013431) - [Backblaze Drive Stats for 2024](https://www.backblaze.com/blog/backblaze-drive-stats-for-2024/)
 * [2025-02-11, 13:54:01](https://news.ycombinator.com/item?id=43012714) - [Anchoreum: A game for learning CSS anchor positioning](https://anchoreum.com)
 * [2025-02-11, 09:42:42](https://news.ycombinator.com/item?id=43010814) - [Firing programmers for AI is a mistake](https://defragzone.substack.com/p/techs-dumbest-mistake-why-firing)
+* [2025-02-11, 07:21:21](https://news.ycombinator.com/item?id=43009952) - [Ways to generate SSA](https://bernsteinbear.com/blog/ssa/)
 * [2025-02-11, 04:13:47](https://news.ycombinator.com/item?id=43008879) - [Nvidia's RTX 5090 power connectors are melting](https://www.theverge.com/news/609207/nvidia-rtx-5090-power-connector-melting-burning-issues)
 * [2025-02-10, 13:11:28](https://news.ycombinator.com/item?id=42999788) - [The hallucinatory thoughts of the dying mind](https://thereader.mitpress.mit.edu/the-hallucinatory-thoughts-of-the-dying-mind/)
 * [2025-02-10, 11:59:41](https://news.ycombinator.com/item?id=42999297) - [Building a personal, private AI computer on a budget](https://ewintr.nl/posts/2025/building-a-personal-private-ai-computer-on-a-budget/)
-* [2025-02-10, 01:25:05](https://news.ycombinator.com/item?id=42995991) - [Show HN: Infinite horizontal arrays of text editors](https://zeminary.com/arrays/app.html)
-* [2025-02-09, 22:53:27](https://news.ycombinator.com/item?id=42994958) - [Surrealist Compliment Generator](https://www.madsci.org/cgi-bin/lynn/jardin/SCG)
+* [2025-02-10, 05:57:53](https://news.ycombinator.com/item?id=42997344) - [The Pinball Philosophy (1975)](https://pinballnirvana.com/forums/threads/the-pinball-philosophy-john-mcphee-1975.22239/)
 * [2025-02-09, 22:12:01](https://news.ycombinator.com/item?id=42994590) - [Smoke in the cabin of two 737 MAX caused by Load Reduction Device system [video]](https://www.youtube.com/watch?v=swlVkYVSlIE)
 * [2025-02-08, 13:15:26](https://news.ycombinator.com/item?id=42982755) - [Ohm: A user-friendly parsing toolkit for JavaScript and TypeScript](https://ohmjs.org/)
 
