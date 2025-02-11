@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-11, 19:15:02](https://news.ycombinator.com/item?id=43017010) - [The Subtle Art of Designing Physical Controls for Cars](https://www.theturnsignalblog.com/the-subtle-art-of-designing-physical-control-for-cars/)
+* [2025-02-11, 19:10:16](https://news.ycombinator.com/item?id=43016944) - [Incremental compilation instantly rebuilds the Zig compiler](https://www.youtube.com/clip/Ugkxjn7L0hEfN1XLfH1soaUdCksG3FvJkXIS)
 * [2025-02-11, 19:09:25](https://news.ycombinator.com/item?id=43016931) - [Tesla Cybertruck Drives Itself into a Pole, Owner Says 'Thank You Tesla'](https://www.thedrive.com/news/tesla-cybertruck-drove-itself-into-a-pole-owner-says-thank-you-tesla)
 * [2025-02-11, 19:01:46](https://news.ycombinator.com/item?id=43016802) - [Database of 750 companies building for people with disabilities](https://data.perkins.org/)
 * [2025-02-11, 18:44:48](https://news.ycombinator.com/item?id=43016574) - [Trust, 2-Party Relays, and QUIC](https://obscura.net/blog/bootstrapping-trust/)
@@ -12,7 +13,6 @@
 * [2025-02-11, 17:00:30](https://news.ycombinator.com/item?id=43015169) - [Legion Health (YC S21, AI-Driven Psychiatry) Hiring Founding Back End Engineer](https://www.ycombinator.com/companies/legion-health/jobs/3pA8uX7-senior-backend-engineer-event-driven-architecture-ai-enabled-systems)
 * [2025-02-11, 16:40:20](https://news.ycombinator.com/item?id=43014918) - [LLMs Can Teach Themselves to Better Predict the Future](https://arxiv.org/abs/2502.05253)
 * [2025-02-11, 16:14:03](https://news.ycombinator.com/item?id=43014573) - [Time to Act on the Risk of Efficient Personalized Text Generation](https://arxiv.org/abs/2502.06560)
-* [2025-02-11, 16:01:19](https://news.ycombinator.com/item?id=43014418) - [E Ink's color ePaper tech gets supersized for outdoor displays](https://newatlas.com/technology/e-ink-kaleido-outdoor-3-75-inch-displays/)
 * [2025-02-11, 16:00:59](https://news.ycombinator.com/item?id=43014408) - [Intel's Battlemage Architecture](https://chipsandcheese.com/p/intels-battlemage-architecture)
 * [2025-02-11, 15:40:11](https://news.ycombinator.com/item?id=43014070) - [Get in loser. We're rewinding the stack](https://andrews.substack.com/p/get-in-loser-were-rewinding-the-stack)
 * [2025-02-11, 15:08:08](https://news.ycombinator.com/item?id=43013615) - [I tasted Honda's spicy rodent-repelling tape and I will do it again (2021)](https://haterade.substack.com/p/i-tasted-hondas-spicy-rodent-repelling)

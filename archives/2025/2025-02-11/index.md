@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-11](index.md)
 
 * [2025-02-11, 19:15:02](https://news.ycombinator.com/item?id=43017010) - [The Subtle Art of Designing Physical Controls for Cars](https://www.theturnsignalblog.com/the-subtle-art-of-designing-physical-control-for-cars/)
+* [2025-02-11, 19:10:16](https://news.ycombinator.com/item?id=43016944) - [Incremental compilation instantly rebuilds the Zig compiler](https://www.youtube.com/clip/Ugkxjn7L0hEfN1XLfH1soaUdCksG3FvJkXIS)
 * [2025-02-11, 19:09:25](https://news.ycombinator.com/item?id=43016931) - [Tesla Cybertruck Drives Itself into a Pole, Owner Says 'Thank You Tesla'](https://www.thedrive.com/news/tesla-cybertruck-drove-itself-into-a-pole-owner-says-thank-you-tesla)
 * [2025-02-11, 19:01:46](https://news.ycombinator.com/item?id=43016802) - [Database of 750 companies building for people with disabilities](https://data.perkins.org/)
 * [2025-02-11, 18:51:43](https://news.ycombinator.com/item?id=43016675) - [Judge tells agencies to restore webpages and data removed](https://apnews.com/article/trump-cdc-fda-doctors-for-america-5263fc6b6cbc723ca0c86c4460d02f33)
