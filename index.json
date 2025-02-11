@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-02-11, 01:29:56",
-      "https://news.ycombinator.com/item?id=43007862"
-    ],
-    [
-      "Danes sign petition to buy California from U.S.",
-      "https://ktla.com/news/california/thousands-of-danes-sign-petition-to-buy-california-from-u-s/amp/"
-    ]
-  ],
-  [
-    [
       "2025-02-11, 01:19:14",
       "https://news.ycombinator.com/item?id=43007769"
     ],
@@ -37,6 +27,16 @@
     [
       "'social network' attacking pesticide critics shuts down after investigation",
       "https://www.theguardian.com/us-news/2025/feb/10/v-fluence-pesticide-critics"
+    ]
+  ],
+  [
+    [
+      "2025-02-11, 00:35:34",
+      "https://news.ycombinator.com/item?id=43007336"
+    ],
+    [
+      "Nocc – A Distributed C++ Compiler",
+      "https://github.com/VKCOM/nocc"
     ]
   ],
   [
@@ -107,6 +107,16 @@
     [
       "Scaling up test-time compute with latent reasoning: A recurrent depth approach",
       "https://arxiv.org/abs/2502.05171"
+    ]
+  ],
+  [
+    [
+      "2025-02-10, 19:45:35",
+      "https://news.ycombinator.com/item?id=43004373"
+    ],
+    [
+      "What happens to SaaS in a world with computer-using agents?",
+      "https://docs.google.com/document/d/1nWZtJlPmBD15rGqNxj7u6HroaNvXT6YD-TXktpIwf6c/edit?usp=sharing"
     ]
   ],
   [
@@ -201,32 +211,22 @@
   ],
   [
     [
+      "2025-02-10, 12:51:34",
+      "https://news.ycombinator.com/item?id=42999650"
+    ],
+    [
+      "What about K?",
+      "https://xpqz.github.io/kbook/Introduction.html"
+    ]
+  ],
+  [
+    [
       "2025-02-10, 03:38:29",
       "https://news.ycombinator.com/item?id=42996671"
     ],
     [
       "Thomas Aquinas' skull reveals appearance and cause of death",
       "https://www.ncregister.com/blog/face-of-aquinas-revealed-after-750-years"
-    ]
-  ],
-  [
-    [
-      "2025-02-09, 09:51:51",
-      "https://news.ycombinator.com/item?id=42989635"
-    ],
-    [
-      "Scroll-Driven Animations",
-      "https://scroll-driven-animations.style/"
-    ]
-  ],
-  [
-    [
-      "2025-02-07, 19:40:36",
-      "https://news.ycombinator.com/item?id=42976623"
-    ],
-    [
-      "Genetic Evidence of Killer Whale Predation on White Sharks in Australia",
-      "https://onlinelibrary.wiley.com/doi/10.1002/ece3.70786"
     ]
   ],
   [
