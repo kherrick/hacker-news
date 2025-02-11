@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-02-11](index.md)
 
+* [2025-02-11, 14:10:47](https://news.ycombinator.com/item?id=43012880) - [More users are watching YouTube on TV than mobile](https://www.engadget.com/entertainment/youtube/more-users-are-watching-youtube-on-tv-than-mobile-140035151.html)
+* [2025-02-11, 14:08:22](https://news.ycombinator.com/item?id=43012862) - [Boring tech is mature, not old](https://rubenerd.com/boring-tech-is-mature-not-old/)
 * [2025-02-11, 13:58:01](https://news.ycombinator.com/item?id=43012751) - [FLAC 1.5 Delivers Multi-Threaded Encoding](https://www.phoronix.com/news/FLAC-1.5-Released)
+* [2025-02-11, 13:10:47](https://news.ycombinator.com/item?id=43012337) - [My Wife's Enemies Are Now My Enemies, Too (2019)](https://www.thecut.com/2019/12/my-wifes-enemies-are-now-my-enemies-too.html)
 * [2025-02-11, 13:05:38](https://news.ycombinator.com/item?id=43012294) - [Microsoft open sources PostgreSQL extensions to muscle in on NoSQL](https://www.theregister.com/2025/02/11/microsoft_postgresql_extensions/)
 * [2025-02-11, 12:37:11](https://news.ycombinator.com/item?id=43012078) - [The Mythology of Work (2018)](https://crimethinc.com/2018/09/03/the-mythology-of-work-eight-myths-that-keep-your-eyes-on-the-clock-and-your-nose-to-the-grindstone)
 * [2025-02-11, 10:43:24](https://news.ycombinator.com/item?id=43011257) - [Altman: OpenAI not for sale, especially to competitor who is not able to beat us](https://www.axios.com/2025/02/11/openai-altman-musk-offer)
