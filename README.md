@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-11, 17:16:58](https://news.ycombinator.com/item?id=43015374) - [Shopify takes down Ye website selling swastika shirts after Super Bowl ad](https://www.cnbc.com/2025/02/11/shopify-removes-ye-website-selling-swastika-shirts-after-super-bowl-ad.html)
-* [2025-02-11, 17:09:06](https://news.ycombinator.com/item?id=43015271) - [Show HN: I built an AI coloring page generator](https://www.colori.io/)
 * [2025-02-11, 17:08:35](https://news.ycombinator.com/item?id=43015267) - [Launch HN: A0.dev (YC W25) – React Native App Generator](https://news.ycombinator.com/item?id=43015267)
 * [2025-02-11, 17:00:30](https://news.ycombinator.com/item?id=43015169) - [Legion Health (YC S21, AI-Driven Psychiatry) Hiring Founding Back End Engineer](https://www.ycombinator.com/companies/legion-health/jobs/3pA8uX7-senior-backend-engineer-event-driven-architecture-ai-enabled-systems)
 * [2025-02-11, 16:14:03](https://news.ycombinator.com/item?id=43014573) - [Time to Act on the Risk of Efficient Personalized Text Generation](https://arxiv.org/abs/2502.06560)
@@ -12,7 +11,6 @@
 * [2025-02-11, 15:08:08](https://news.ycombinator.com/item?id=43013615) - [I Tasted Honda's Spicy Rodent-Repelling Tape – And I will do it again](https://haterade.substack.com/p/i-tasted-hondas-spicy-rodent-repelling)
 * [2025-02-11, 14:55:45](https://news.ycombinator.com/item?id=43013431) - [Backblaze Drive Stats for 2024](https://www.backblaze.com/blog/backblaze-drive-stats-for-2024/)
 * [2025-02-11, 14:55:18](https://news.ycombinator.com/item?id=43013422) - [RTX 5090 cable overheats to 150 degrees Celsius](https://www.tomshardware.com/pc-components/gpus/rtx-5090-cable-overheats-to-150-degrees-celsius-uneven-current-distribution-likely-the-culprit)
-* [2025-02-11, 14:27:00](https://news.ycombinator.com/item?id=43013033) - [Canonical announces 12 year Kubernetes LTS](https://canonical.com/blog/12-year-lts-for-kubernetes)
 * [2025-02-11, 14:08:22](https://news.ycombinator.com/item?id=43012862) - [Boring tech is mature, not old](https://rubenerd.com/boring-tech-is-mature-not-old/)
 * [2025-02-11, 13:58:01](https://news.ycombinator.com/item?id=43012751) - [FLAC 1.5 Delivers Multi-Threaded Encoding](https://www.phoronix.com/news/FLAC-1.5-Released)
 * [2025-02-11, 13:54:01](https://news.ycombinator.com/item?id=43012714) - [Anchoreum: A game for learning CSS anchor positioning](https://anchoreum.com)
@@ -26,9 +24,11 @@
 * [2025-02-11, 01:02:48](https://news.ycombinator.com/item?id=43007628) - [The Floppotron 3.0 (2022)](https://silent.org.pl/home/2022/06/13/the-floppotron-3-0/)
 * [2025-02-10, 23:16:33](https://news.ycombinator.com/item?id=43006536) - [Fun with C++26 reflection: Keyword Arguments](https://pydong.org/posts/KwArgs/)
 * [2025-02-10, 17:05:09](https://news.ycombinator.com/item?id=43002511) - [Undergraduate shows that searches within hash tables can be much faster](https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/)
+* [2025-02-10, 13:54:38](https://news.ycombinator.com/item?id=43000316) - [Surnames from nicknames nobody has any more](https://blog.plover.com/lang/etym/nickname-names.html)
 * [2025-02-10, 11:59:41](https://news.ycombinator.com/item?id=42999297) - [Building a personal, private AI computer on a budget](https://ewintr.nl/posts/2025/building-a-personal-private-ai-computer-on-a-budget/)
 * [2025-02-10, 05:57:53](https://news.ycombinator.com/item?id=42997344) - [The Pinball Philosophy (1975)](https://pinballnirvana.com/forums/threads/the-pinball-philosophy-john-mcphee-1975.22239/)
 * [2025-02-09, 14:38:52](https://news.ycombinator.com/item?id=42990948) - [How (not) to sign a JSON object (2019)](https://www.latacora.com/blog/2019/07/24/how-not-to/)
+* [2025-02-09, 06:31:10](https://news.ycombinator.com/item?id=42988913) - [OpenDAW – a new holistic exploration of music creation inside the browser](https://opendaw.studio/)
 * [2025-02-07, 22:47:53](https://news.ycombinator.com/item?id=42978394) - [Run Doom on Google Sheets](https://github.com/moses297/doom-on-google-sheets)
 
 ## [Archives](archives/index.md)
