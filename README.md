@@ -22,7 +22,7 @@
 * [2025-02-10, 14:14:22](https://news.ycombinator.com/item?id=43000529) - [The Anthropic Economic Index](https://www.anthropic.com/news/the-anthropic-economic-index)
 * [2025-02-10, 13:54:38](https://news.ycombinator.com/item?id=43000316) - [Surnames from nicknames nobody has any more](https://blog.plover.com/lang/etym/nickname-names.html)
 * [2025-02-10, 13:52:53](https://news.ycombinator.com/item?id=43000303) - [Show HN: HTML visualization of a PDF file's internal structure](https://github.com/desgeeko/pdfsyntax/blob/main/docs/browse.md)
-* [2025-02-10, 13:50:40](https://news.ycombinator.com/item?id=43000275) - [Why hasn't commercial air travel gotten any faster since the 1960s? (2009)](https://engineering.mit.edu/engage/ask-an-engineer/why-hasnt-commercial-air-travel-gotten-any-faster-since-the-1960s/)
+* [2025-02-09, 14:01:08](https://news.ycombinator.com/item?id=42990739) - [Extend Extra Extreme: keyboard extend layer mappings](https://dreymar.colemak.org/layers-extend.html)
 * [2025-02-09, 10:55:30](https://news.ycombinator.com/item?id=42989886) - [February 22, 1985 Operation Beluga](https://todayinhistory.blog/2024/02/22/february-22-1985-operation-beluga/)
 * [2025-02-09, 06:31:10](https://news.ycombinator.com/item?id=42988913) - [OpenDAW – a new holistic exploration of music creation inside the browser](https://opendaw.studio/)
 * [2025-02-07, 23:45:52](https://news.ycombinator.com/item?id=42978825) - [Making Software Fun](https://furbo.org/2025/02/07/making-software-fun/)
