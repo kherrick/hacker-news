@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-02-11, 18:15:27",
-      "https://news.ycombinator.com/item?id=43016116"
+      "2025-02-11, 18:30:13",
+      "https://news.ycombinator.com/item?id=43016353"
     ],
     [
-      "Man who threw away $750M in Bitcoin wants to buy the dump where it's buried",
-      "https://fortune.com/2025/02/11/bitcoin-trash-landfill-purchase-james-howells-newport/"
+      "Japan can be a science heavyweight once more – if it rethinks funding",
+      "https://www.nature.com/articles/d41586-025-00394-8"
     ]
   ],
   [
@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-02-11, 17:09:46",
-      "https://news.ycombinator.com/item?id=43015280"
-    ],
-    [
-      "Harry Stewart, Jr., one of the last surviving Tuskegee Airmen, dies at 100",
-      "https://apnews.com/article/tuskegee-airmen-harry-stewart-jr-78fd504895d7af70d4bb1e2243a54ee6"
-    ]
-  ],
-  [
-    [
       "2025-02-11, 17:08:35",
       "https://news.ycombinator.com/item?id=43015267"
     ],
@@ -77,16 +67,6 @@
     [
       "LLMs Can Teach Themselves to Better Predict the Future",
       "https://arxiv.org/abs/2502.05253"
-    ]
-  ],
-  [
-    [
-      "2025-02-11, 16:14:03",
-      "https://news.ycombinator.com/item?id=43014573"
-    ],
-    [
-      "Time to Act on the Risk of Efficient Personalized Text Generation",
-      "https://arxiv.org/abs/2502.06560"
     ]
   ],
   [
@@ -181,6 +161,16 @@
   ],
   [
     [
+      "2025-02-11, 13:05:38",
+      "https://news.ycombinator.com/item?id=43012294"
+    ],
+    [
+      "Microsoft open sources PostgreSQL extensions to muscle in on NoSQL",
+      "https://www.theregister.com/2025/02/11/microsoft_postgresql_extensions/"
+    ]
+  ],
+  [
+    [
       "2025-02-11, 09:42:42",
       "https://news.ycombinator.com/item?id=43010814"
     ],
@@ -237,6 +227,16 @@
     [
       "The Floppotron 3.0 (2022)",
       "https://silent.org.pl/home/2022/06/13/the-floppotron-3-0/"
+    ]
+  ],
+  [
+    [
+      "2025-02-10, 23:16:33",
+      "https://news.ycombinator.com/item?id=43006536"
+    ],
+    [
+      "Fun with C++26 reflection: Keyword Arguments",
+      "https://pydong.org/posts/KwArgs/"
     ]
   ],
   [
