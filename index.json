@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-11, 22:46:31",
+      "https://news.ycombinator.com/item?id=43019352"
+    ],
+    [
+      "A Year of Telepathy",
+      "https://neuralink.com/blog/a-year-of-telepathy/"
+    ]
+  ],
+  [
+    [
       "2025-02-11, 21:31:43",
       "https://news.ycombinator.com/item?id=43018643"
     ],
@@ -51,6 +61,16 @@
   ],
   [
     [
+      "2025-02-11, 20:00:13",
+      "https://news.ycombinator.com/item?id=43017612"
+    ],
+    [
+      "The first yearly drop in average CPU performance in its 20 years of benchmarks",
+      "https://www.tomshardware.com/pc-components/cpus/passmark-sees-the-first-yearly-drop-in-average-cpu-performance-in-its-20-years-of-benchmark-results"
+    ]
+  ],
+  [
+    [
       "2025-02-11, 19:59:00",
       "https://news.ycombinator.com/item?id=43017599"
     ],
@@ -71,22 +91,22 @@
   ],
   [
     [
+      "2025-02-11, 19:10:16",
+      "https://news.ycombinator.com/item?id=43016944"
+    ],
+    [
+      "Incremental compilation instantly rebuilds the Zig compiler [video]",
+      "https://www.youtube.com/clip/Ugkxjn7L0hEfN1XLfH1soaUdCksG3FvJkXIS"
+    ]
+  ],
+  [
+    [
       "2025-02-11, 18:44:48",
       "https://news.ycombinator.com/item?id=43016574"
     ],
     [
       "Trust, 2-Party Relays, and QUIC",
       "https://obscura.net/blog/bootstrapping-trust/"
-    ]
-  ],
-  [
-    [
-      "2025-02-11, 18:30:13",
-      "https://news.ycombinator.com/item?id=43016353"
-    ],
-    [
-      "Japan can be a science heavyweight once more if it rethinks funding",
-      "https://www.nature.com/articles/d41586-025-00394-8"
     ]
   ],
   [
@@ -111,6 +131,16 @@
   ],
   [
     [
+      "2025-02-11, 17:34:31",
+      "https://news.ycombinator.com/item?id=43015585"
+    ],
+    [
+      "Postmortem: The singular design of Namco's Katamari Damacy (2004)",
+      "https://www.gamedeveloper.com/design/postmortem-the-singular-design-of-namco-s-katamari-damacy-2004-"
+    ]
+  ],
+  [
+    [
       "2025-02-11, 17:08:35",
       "https://news.ycombinator.com/item?id=43015267"
     ],
@@ -127,16 +157,6 @@
     [
       "LLMs can teach themselves to better predict the future",
       "https://arxiv.org/abs/2502.05253"
-    ]
-  ],
-  [
-    [
-      "2025-02-11, 16:14:03",
-      "https://news.ycombinator.com/item?id=43014573"
-    ],
-    [
-      "Time to act on the risk of efficient personalized text generation",
-      "https://arxiv.org/abs/2502.06560"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-02-11, 14:08:22",
-      "https://news.ycombinator.com/item?id=43012862"
-    ],
-    [
-      "Boring tech is mature, not old",
-      "https://rubenerd.com/boring-tech-is-mature-not-old/"
-    ]
-  ],
-  [
-    [
       "2025-02-11, 13:54:01",
       "https://news.ycombinator.com/item?id=43012714"
     ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2025-02-11, 07:05:39",
-      "https://news.ycombinator.com/item?id=43009850"
-    ],
-    [
-      "TSMC 2nm Process Disclosure – How Does It Measure Up?",
-      "https://semiwiki.com/semiconductor-services/techinsights/352972-iedm-2025-tsmc-2nm-process-disclosure-how-does-it-measure-up/"
-    ]
-  ],
-  [
-    [
       "2025-02-11, 04:13:47",
       "https://news.ycombinator.com/item?id=43008879"
     ],
@@ -247,16 +247,6 @@
     [
       "Building a personal, private AI computer on a budget",
       "https://ewintr.nl/posts/2025/building-a-personal-private-ai-computer-on-a-budget/"
-    ]
-  ],
-  [
-    [
-      "2025-02-10, 09:22:29",
-      "https://news.ycombinator.com/item?id=42998431"
-    ],
-    [
-      "Show HN: Seen – Virtual list rendering with 1M+ notes",
-      "https://seen-v2.vercel.app/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Smoke in the cabin of two 737 MAX caused by Load Reduction Device system [video]",
       "https://www.youtube.com/watch?v=swlVkYVSlIE"
+    ]
+  ],
+  [
+    [
+      "2025-02-09, 06:31:10",
+      "https://news.ycombinator.com/item?id=42988913"
+    ],
+    [
+      "OpenDAW – a new holistic exploration of music creation inside the browser",
+      "https://opendaw.studio/"
     ]
   ]
 ]
