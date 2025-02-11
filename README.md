@@ -2,6 +2,7 @@
 
 * [2025-02-11, 08:26:16](https://news.ycombinator.com/item?id=43010365) - [How about trailing commas in SQL?](http://peter.eisentraut.org/blog/2025/02/11/how-about-trailing-commas-in-sql)
 * [2025-02-11, 07:21:21](https://news.ycombinator.com/item?id=43009952) - [A catalog of ways to generate SSA](https://bernsteinbear.com/blog/ssa/)
+* [2025-02-11, 07:05:39](https://news.ycombinator.com/item?id=43009850) - [TSMC 2nm Process Disclosure – How Does It Measure Up?](https://semiwiki.com/semiconductor-services/techinsights/352972-iedm-2025-tsmc-2nm-process-disclosure-how-does-it-measure-up/)
 * [2025-02-11, 04:19:41](https://news.ycombinator.com/item?id=43008920) - [Meta's Hyperscale Infrastructure: Overview and Insights](https://cacm.acm.org/research/metas-hyperscale-infrastructure-overview-and-insights/)
 * [2025-02-11, 01:50:21](https://news.ycombinator.com/item?id=43008048) - [Elementary Functions and Not Following the IEEE754 Floating-Point Standard(2020)](http://www.hlsl.co.uk/blog/2020/1/29/ieee754-is-not-followed)
 * [2025-02-11, 01:19:14](https://news.ycombinator.com/item?id=43007769) - [How Copyover MUD Servers Worked](http://jackkelly.name/blog/archives/2025/02/06/how_copyover_mud_servers_worked/)
@@ -25,9 +26,8 @@
 * [2025-02-07, 23:45:52](https://news.ycombinator.com/item?id=42978825) - [Making Software Fun](https://furbo.org/2025/02/07/making-software-fun/)
 * [2025-02-07, 16:59:59](https://news.ycombinator.com/item?id=42974896) - [Fossils Preserve Both Skin and Scales from an Ancient Sea Monster](https://www.nytimes.com/2025/02/06/science/plesiosaur-fossils-skin-scales.html)
 * [2025-02-07, 15:20:35](https://news.ycombinator.com/item?id=42973652) - [Solving Sudoku with Tmux](https://willhbr.net/2024/12/27/solving-sudoku-with-tmux/)
-* [2025-02-07, 14:48:42](https://news.ycombinator.com/item?id=42973189) - [The other 99%](https://cerncourier.com/a/the-other-99/)
+* [2025-02-07, 12:46:33](https://news.ycombinator.com/item?id=42971967) - [Fruit of the Poisonous Llama?](https://shkspr.mobi/blog/2023/07/fruit-of-the-poisonous-llama/)
 * [2025-02-07, 10:46:15](https://news.ycombinator.com/item?id=42971258) - [Allocator Hints for Btrfs](https://wiki.tnonline.net/w/Btrfs/Allocator_Hints)
-* [2025-02-07, 09:57:57](https://news.ycombinator.com/item?id=42971038) - [Memory profilers, call graphs, exception reports, and telemetry](https://www.nuanced.dev/blog/system-wide-context)
 * [2025-02-07, 06:23:36](https://news.ycombinator.com/item?id=42969993) - [Indigenous engineers are using AI to preserve their culture](https://www.nbcnews.com/tech/innovation/indigenous-engineers-are-using-ai-preserve-culture-rcna176012)
 * [2025-02-07, 03:30:10](https://news.ycombinator.com/item?id=42969038) - [Ancient-DNA study identifies originators of Indo-European language family](https://hms.harvard.edu/news/ancient-dna-study-identifies-originators-indo-european-language-family)
 

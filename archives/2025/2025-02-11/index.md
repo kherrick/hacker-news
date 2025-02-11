@@ -11,6 +11,7 @@
 * [2025-02-11, 07:35:24](https://news.ycombinator.com/item?id=43010037) - [Working from home is here to stay](https://wolfstreet.com/2025/02/10/there-hasnt-been-much-if-any-reduction-in-wfh-in-over-2-years-despite-all-the-hype-about-rto/)
 * [2025-02-11, 07:21:21](https://news.ycombinator.com/item?id=43009952) - [A catalog of ways to generate SSA](https://bernsteinbear.com/blog/ssa/)
 * [2025-02-11, 07:19:51](https://news.ycombinator.com/item?id=43009946) - [Far-right populists much more likely than the left to spread fake news – study](https://www.theguardian.com/world/2025/feb/11/far-right-mps-fake-news-misinformation-left-study)
+* [2025-02-11, 07:05:39](https://news.ycombinator.com/item?id=43009850) - [TSMC 2nm Process Disclosure – How Does It Measure Up?](https://semiwiki.com/semiconductor-services/techinsights/352972-iedm-2025-tsmc-2nm-process-disclosure-how-does-it-measure-up/)
 * [2025-02-11, 06:34:26](https://news.ycombinator.com/item?id=43009682) - [Jeep Introduces Pop-Up Ads That Appear Every Time You Stop](https://tech.slashdot.org/story/25/02/11/0016258/jeep-introduces-pop-up-ads-that-appear-every-time-you-stop)
 * [2025-02-11, 06:10:11](https://news.ycombinator.com/item?id=43009533) - [Subjectivity in Productivity](https://world.hey.com/jason/subjectivity-in-productivity-e0b4e2ee)
 * [2025-02-11, 05:50:34](https://news.ycombinator.com/item?id=43009411) - [NixOS and Portable Executables](http://jackkelly.name/blog/archives/2025/01/15/nixos_and_actually_portable_executables/index.html)
