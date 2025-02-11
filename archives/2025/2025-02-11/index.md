@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-02-11](index.md)
 
+* [2025-02-11, 19:01:46](https://news.ycombinator.com/item?id=43016802) - [Database of 750 companies building for people with disabilities](https://data.perkins.org/)
+* [2025-02-11, 18:51:43](https://news.ycombinator.com/item?id=43016675) - [Judge tells agencies to restore webpages and data removed](https://apnews.com/article/trump-cdc-fda-doctors-for-america-5263fc6b6cbc723ca0c86c4460d02f33)
+* [2025-02-11, 18:44:48](https://news.ycombinator.com/item?id=43016574) - [Trust, 2-Party Relays, and QUIC](https://obscura.net/blog/bootstrapping-trust/)
 * [2025-02-11, 18:30:13](https://news.ycombinator.com/item?id=43016353) - [Japan can be a science heavyweight once more – if it rethinks funding](https://www.nature.com/articles/d41586-025-00394-8)
 * [2025-02-11, 18:29:29](https://news.ycombinator.com/item?id=43016340) - [Go's new map implementation in 1.24 is powered by Swiss Tables](https://twitter.com/petermattis/status/1889080982273163466)
 * [2025-02-11, 18:15:27](https://news.ycombinator.com/item?id=43016116) - [Man who threw away $750M in Bitcoin wants to buy the dump where it's buried](https://fortune.com/2025/02/11/bitcoin-trash-landfill-purchase-james-howells-newport/)
