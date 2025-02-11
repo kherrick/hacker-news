@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-02-11, 20:54:08",
-      "https://news.ycombinator.com/item?id=43018223"
+      "2025-02-11, 21:00:32",
+      "https://news.ycombinator.com/item?id=43018293"
     ],
     [
-      "Man who lost $780M in Bitcoin in a landfill now wants to buy the dump",
-      "https://www.tomshardware.com/tech-industry/cryptocurrency/landfill-concealing-8-000-bitcoins-valued-at-usd780m-to-transform-into-a-solar-farm-but-man-now-wishes-to-buy-the-site"
+      "Empirical Health (YC S23) Is Hiring Design Engineers in NYC",
+      "https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer"
+    ]
+  ],
+  [
+    [
+      "2025-02-11, 20:56:21",
+      "https://news.ycombinator.com/item?id=43018251"
+    ],
+    [
+      "Thomson Reuters wins AI copyright case, rejecting fair use",
+      "https://www.wired.com/story/thomson-reuters-ai-copyright-lawsuit/"
     ]
   ],
   [
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=43017599"
     ],
     [
-      "Replicating Deepseek-R1 for $4500: RL Boosts 1.5B Model Beyond o1-preview",
+      "DeepScaleR: Surpassing O1-Preview with a 1.5B Model by Scaling RL",
       "https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2"
     ]
   ],
@@ -107,16 +117,6 @@
     [
       "Launch HN: A0.dev (YC W25) – React Native App Generator",
       "https://news.ycombinator.com/item?id=43015267"
-    ]
-  ],
-  [
-    [
-      "2025-02-11, 17:00:30",
-      "https://news.ycombinator.com/item?id=43015169"
-    ],
-    [
-      "Legion Health (YC S21, AI-Driven Psychiatry) Hiring Founding Back End Engineer",
-      "https://www.ycombinator.com/companies/legion-health/jobs/3pA8uX7-senior-backend-engineer-event-driven-architecture-ai-enabled-systems"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2025-02-11, 04:19:41",
-      "https://news.ycombinator.com/item?id=43008920"
-    ],
-    [
-      "Meta’s Hyperscale Infrastructure: Overview and Insights",
-      "https://cacm.acm.org/research/metas-hyperscale-infrastructure-overview-and-insights/"
-    ]
-  ],
-  [
-    [
       "2025-02-11, 04:13:47",
       "https://news.ycombinator.com/item?id=43008879"
     ],
@@ -287,6 +277,16 @@
     [
       "Show HN: Seen – Virtual list rendering with 1M+ notes",
       "https://seen-v2.vercel.app/"
+    ]
+  ],
+  [
+    [
+      "2025-02-10, 08:20:54",
+      "https://news.ycombinator.com/item?id=42998009"
+    ],
+    [
+      "Craftax: (Crafter and NetHack) RL Environment in Jax",
+      "https://github.com/MichaelTMatthews/Craftax"
     ]
   ],
   [
