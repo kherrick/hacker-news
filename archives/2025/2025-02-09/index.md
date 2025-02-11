@@ -62,6 +62,7 @@
 * [2025-02-09, 09:51:51](https://news.ycombinator.com/item?id=42989635) - [Scroll-Driven Animations](https://scroll-driven-animations.style/)
 * [2025-02-09, 09:50:35](https://news.ycombinator.com/item?id=42989628) - [RetroFab: Playable 3D simulations of vintage electronic games](https://itizso.itch.io/retrofab)
 * [2025-02-09, 09:45:57](https://news.ycombinator.com/item?id=42989609) - [Chimes at Midnight](https://asteriskmag.com/issues/08/chimes-at-midnight)
+* [2025-02-09, 09:18:41](https://news.ycombinator.com/item?id=42989508) - [Explaining Glasser's 'Quality World'](https://thebetterplan.org/2014/08/10/teaching-the-quality-world/)
 * [2025-02-09, 08:54:37](https://news.ycombinator.com/item?id=42989419) - [Mathematics in the 20th century, by Michael Atiyah [pdf] (2002)](https://marktomforde.com/academic/miscellaneous/images/atiyah20thcentury.pdf)
 * [2025-02-09, 08:24:17](https://news.ycombinator.com/item?id=42989320) - [Modern-Day Oracles or Bullshit Machines](https://thebullshitmachines.com)
 * [2025-02-09, 08:19:55](https://news.ycombinator.com/item?id=42989306) - [FOSDEM 2025 – How we are defending Software Freedom against Apple at the EU's h [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-5084-how-we-are-defending-software-freedom-against-apple-at-the-eu-s-highest-court/)
