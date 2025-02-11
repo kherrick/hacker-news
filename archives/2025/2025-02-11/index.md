@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-11](index.md)
 
 * [2025-02-11, 18:30:13](https://news.ycombinator.com/item?id=43016353) - [Japan can be a science heavyweight once more – if it rethinks funding](https://www.nature.com/articles/d41586-025-00394-8)
+* [2025-02-11, 18:29:29](https://news.ycombinator.com/item?id=43016340) - [Go's new map implementation in 1.24 is powered by Swiss Tables](https://twitter.com/petermattis/status/1889080982273163466)
 * [2025-02-11, 18:15:27](https://news.ycombinator.com/item?id=43016116) - [Man who threw away $750M in Bitcoin wants to buy the dump where it's buried](https://fortune.com/2025/02/11/bitcoin-trash-landfill-purchase-james-howells-newport/)
 * [2025-02-11, 17:44:34](https://news.ycombinator.com/item?id=43015713) - [UnitedHealth hired a defamation law firm to go after social media posts criticiz](https://fortune.com/2025/02/10/unitedhealth-defamation-law-firm-social-media/)
 * [2025-02-11, 17:18:43](https://news.ycombinator.com/item?id=43015397) - [IT Unemployment Rises to 5.7% as AI Hits Tech Jobs](https://www.wsj.com/articles/it-unemployment-rises-to-5-7-as-ai-hits-tech-jobs-7726bb1b)
