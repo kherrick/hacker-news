@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-11, 04:59:32](https://news.ycombinator.com/item?id=43009148) - [CFPB's 1,700 employees told to \"not perform any work\"](https://nypost.com/2025/02/10/us-news/cfpbs-1700-employees-told-to-not-perform-any-work-as-obama-era-agency-become-latest-trump-target/)
 * [2025-02-11, 04:03:36](https://news.ycombinator.com/item?id=43008814) - [How America traded systematic improvement for quick wins–and lost both](https://www.population.fyi/p/process-and-performance-how-america)
 * [2025-02-11, 02:55:31](https://news.ycombinator.com/item?id=43008422) - [Apple software update \"bug\" enables Apple Intelligence](https://lapcatsoftware.com/articles/2025/2/3.html)
 * [2025-02-11, 02:37:06](https://news.ycombinator.com/item?id=43008315) - [Make Your Own Website: A beginner's guide](https://web.pixelshannon.com/make/)
@@ -27,7 +28,6 @@
 * [2025-02-07, 17:45:01](https://news.ycombinator.com/item?id=42975366) - [Show HN: Wordle Charts – insights about Wordle you don't need](https://www.wordlecharts.crtez.dev/)
 * [2025-02-07, 15:20:35](https://news.ycombinator.com/item?id=42973652) - [Solving Sudoku with Tmux](https://willhbr.net/2024/12/27/solving-sudoku-with-tmux/)
 * [2025-02-07, 14:48:42](https://news.ycombinator.com/item?id=42973189) - [The other 99% – CERN Courier](https://cerncourier.com/a/the-other-99/)
-* [2025-02-07, 06:58:10](https://news.ycombinator.com/item?id=42970169) - [Fake VS Code Extension on NPM Spreads Multi-Stage Malware](https://www.mend.io/blog/fake-vs-code-extension-on-npm-spreads-multi-stage-malware/)
 * [2025-02-07, 06:23:36](https://news.ycombinator.com/item?id=42969993) - [Indigenous engineers are using AI to preserve their culture](https://www.nbcnews.com/tech/innovation/indigenous-engineers-are-using-ai-preserve-culture-rcna176012)
 * [2025-02-07, 03:30:10](https://news.ycombinator.com/item?id=42969038) - [Ancient-DNA study identifies originators of Indo-European language family](https://hms.harvard.edu/news/ancient-dna-study-identifies-originators-indo-european-language-family)
 
