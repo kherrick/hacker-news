@@ -6,6 +6,7 @@
 
 * [2025-02-11, 02:55:31](https://news.ycombinator.com/item?id=43008422) - [Apple software update \"bug\" enables Apple Intelligence](https://lapcatsoftware.com/articles/2025/2/3.html)
 * [2025-02-11, 02:54:03](https://news.ycombinator.com/item?id=43008417) - [What are non intelligent people like me supposed to do for money?](https://www.reddit.com/r/findapath/s/Me91Ke0COG)
+* [2025-02-11, 02:37:06](https://news.ycombinator.com/item?id=43008315) - [Make Your Own Website: A beginner's guide](https://web.pixelshannon.com/make/)
 * [2025-02-11, 02:13:56](https://news.ycombinator.com/item?id=43008190) - [We replaced our React front end with Go and WebAssembly](https://dagger.io/blog/replaced-react-with-go)
 * [2025-02-11, 02:05:35](https://news.ycombinator.com/item?id=43008144) - [SolarWinds to Be Acquired by Turn/River Capital](https://investors.solarwinds.com/news/news-details/2025/SolarWinds-to-Be-Acquired-by-TurnRiver-Capital/default.aspx)
 * [2025-02-11, 01:50:21](https://news.ycombinator.com/item?id=43008048) - [Elementary Functions and Not Following the IEEE754 Floating-Point Standard(2020)](http://www.hlsl.co.uk/blog/2020/1/29/ieee754-is-not-followed)
