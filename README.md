@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-11, 23:12:11](https://news.ycombinator.com/item?id=43019578) - [Associated Press Barred from Oval Office for Not Using 'Gulf of America'](https://www.theguardian.com/us-news/2025/feb/11/associated-press-oval-office-gulf-of-america)
-* [2025-02-11, 23:11:05](https://news.ycombinator.com/item?id=43019572) - [Google Calendar Removes Holocaust Remembrance, Pride, and Black History month](https://www.newsweek.com/google-removes-pride-month-calendar-black-history-holocaust-remembrance-2029257)
 * [2025-02-11, 22:46:31](https://news.ycombinator.com/item?id=43019352) - [A Year of Telepathy](https://neuralink.com/blog/a-year-of-telepathy/)
+* [2025-02-11, 22:08:18](https://news.ycombinator.com/item?id=43018989) - [BYD to offer Tesla-like self-driving tech in all models for free](https://www.asiafinancial.com/byd-to-offer-tesla-like-self-driving-tech-in-all-models-for-free)
 * [2025-02-11, 21:31:43](https://news.ycombinator.com/item?id=43018643) - [NOAA's public weather data powers the local forecasts on your phone and TV](https://theconversation.com/noaas-vast-public-weather-data-powers-the-local-forecasts-on-your-phone-and-tv-a-private-company-alone-couldnt-match-it-249451)
 * [2025-02-11, 21:02:12](https://news.ycombinator.com/item?id=43018312) - [The Butter Thesis (2019)](https://nickgrossman.xyz/the-butter-thesis)
 * [2025-02-11, 21:00:32](https://news.ycombinator.com/item?id=43018293) - [Empirical Health (YC S23) Is Hiring Design Engineers in NYC](https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer)
@@ -13,6 +12,7 @@
 * [2025-02-11, 19:15:02](https://news.ycombinator.com/item?id=43017010) - [The subtle art of designing physical controls for cars](https://www.theturnsignalblog.com/the-subtle-art-of-designing-physical-control-for-cars/)
 * [2025-02-11, 19:10:16](https://news.ycombinator.com/item?id=43016944) - [Incremental compilation instantly rebuilds the Zig compiler [video]](https://www.youtube.com/clip/Ugkxjn7L0hEfN1XLfH1soaUdCksG3FvJkXIS)
 * [2025-02-11, 18:44:48](https://news.ycombinator.com/item?id=43016574) - [Trust, 2-Party Relays, and QUIC](https://obscura.net/blog/bootstrapping-trust/)
+* [2025-02-11, 18:30:13](https://news.ycombinator.com/item?id=43016353) - [Japan can be a science heavyweight once more if it rethinks funding](https://www.nature.com/articles/d41586-025-00394-8)
 * [2025-02-11, 18:23:03](https://news.ycombinator.com/item?id=43016248) - [Reviving the joy and honor of working with your hands (2015)](https://richmond.com/holmberg-reviving-the-joy-and-honor-of-working-with-your-hands-will-strengthen-our-nation/article_d8130166-855d-53b6-94e1-cb735edcd7cc.html)
 * [2025-02-11, 17:37:38](https://news.ycombinator.com/item?id=43015631) - [ASTRA: HackerRank's coding benchmark for LLMs](https://www.hackerrank.com/ai/astra-reports)
 * [2025-02-11, 17:34:31](https://news.ycombinator.com/item?id=43015585) - [Postmortem: The singular design of Namco's Katamari Damacy (2004)](https://www.gamedeveloper.com/design/postmortem-the-singular-design-of-namco-s-katamari-damacy-2004-)
