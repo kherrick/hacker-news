@@ -2,6 +2,7 @@
 
 * [2025-02-11, 16:11:47](https://news.ycombinator.com/item?id=43014542) - [EU's AltStore Gets First Native iOS Pornography App](https://www.macrumors.com/2025/02/03/eu-altstore-porn-app/)
 * [2025-02-11, 16:01:19](https://news.ycombinator.com/item?id=43014418) - [E Ink's color ePaper tech gets supersized for outdoor displays](https://newatlas.com/technology/e-ink-kaleido-outdoor-3-75-inch-displays/)
+* [2025-02-11, 15:56:04](https://news.ycombinator.com/item?id=43014321) - [Proton Wallet is now available for all](https://primal.net/e/note1fus8glne8684xtn3n8lt2wjztsjss6k4jmc56ttl573ngxczerlqp84g9m)
 * [2025-02-11, 15:11:43](https://news.ycombinator.com/item?id=43013672) - [A pair of scissors on formica table suddenly bursts into flames](https://old.reddit.com/r/chemistry/comments/1ilmshx/a_pair_of_scissors_sitting_on_my_table_formica/)
 * [2025-02-11, 15:11:22](https://news.ycombinator.com/item?id=43013666) - [Disabling cert checks: we have not learned much](https://daniel.haxx.se/blog/2025/02/11/disabling-cert-checks-we-have-not-learned-much/)
 * [2025-02-11, 15:08:08](https://news.ycombinator.com/item?id=43013615) - [I Tasted Honda's Spicy Rodent-Repelling Tape – And I will do it again](https://haterade.substack.com/p/i-tasted-hondas-spicy-rodent-repelling)
@@ -19,7 +20,6 @@
 * [2025-02-11, 04:13:47](https://news.ycombinator.com/item?id=43008879) - [Nvidia's RTX 5090 power connectors are melting](https://www.theverge.com/news/609207/nvidia-rtx-5090-power-connector-melting-burning-issues)
 * [2025-02-11, 01:02:48](https://news.ycombinator.com/item?id=43007628) - [The Floppotron 3.0 (2022)](https://silent.org.pl/home/2022/06/13/the-floppotron-3-0/)
 * [2025-02-10, 23:16:33](https://news.ycombinator.com/item?id=43006536) - [Fun with C++26 reflection: Keyword Arguments](https://pydong.org/posts/KwArgs/)
-* [2025-02-10, 21:00:29](https://news.ycombinator.com/item?id=43005096) - [Fly.io (YC W20) Is Hiring a Customer Support Director](https://news.ycombinator.com/item?id=43005096)
 * [2025-02-10, 19:52:02](https://news.ycombinator.com/item?id=43004435) - [TinyX: Small Featured X Server](https://github.com/tinycorelinux/tinyx)
 * [2025-02-10, 19:50:20](https://news.ycombinator.com/item?id=43004416) - [Scaling up test-time compute with latent reasoning: A recurrent depth approach](https://arxiv.org/abs/2502.05171)
 * [2025-02-10, 17:39:28](https://news.ycombinator.com/item?id=43002906) - [Work at the Mill: The story of Digital Equipment Corporation](https://www.abortretry.fail/p/work-at-the-mill)
