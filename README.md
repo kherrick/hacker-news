@@ -1,9 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-11, 06:10:11](https://news.ycombinator.com/item?id=43009533) - [Subjectivity in Productivity](https://world.hey.com/jason/subjectivity-in-productivity-e0b4e2ee)
-* [2025-02-11, 04:53:37](https://news.ycombinator.com/item?id=43009116) - [Mac OS on an unmodified Wii (2022)](https://hackaday.com/2022/11/24/its-macos-on-an-unmodified-wii/)
+* [2025-02-11, 07:19:51](https://news.ycombinator.com/item?id=43009946) - [Far-right populists much more likely than the left to spread fake news – study](https://www.theguardian.com/world/2025/feb/11/far-right-mps-fake-news-misinformation-left-study)
 * [2025-02-11, 04:19:41](https://news.ycombinator.com/item?id=43008920) - [Meta's Hyperscale Infrastructure: Overview and Insights](https://cacm.acm.org/research/metas-hyperscale-infrastructure-overview-and-insights/)
-* [2025-02-11, 04:13:47](https://news.ycombinator.com/item?id=43008879) - [Nvidia's RTX 5090 power connectors are melting](https://www.theverge.com/news/609207/nvidia-rtx-5090-power-connector-melting-burning-issues)
 * [2025-02-11, 02:37:06](https://news.ycombinator.com/item?id=43008315) - [Make Your Own Website: A beginner's guide](https://web.pixelshannon.com/make/)
 * [2025-02-11, 02:13:56](https://news.ycombinator.com/item?id=43008190) - [We replaced our React front end with Go and WebAssembly](https://dagger.io/blog/replaced-react-with-go)
 * [2025-02-11, 01:50:21](https://news.ycombinator.com/item?id=43008048) - [Elementary Functions and Not Following the IEEE754 Floating-Point Standard(2020)](http://www.hlsl.co.uk/blog/2020/1/29/ieee754-is-not-followed)
@@ -28,6 +26,8 @@
 * [2025-02-07, 18:17:05](https://news.ycombinator.com/item?id=42975712) - [2000 years of population swings among Indigenous Americans](https://www.science.org/content/article/tally-bones-artifacts-reveals-2000-years-population-swings-among-indigenous-americans)
 * [2025-02-07, 16:59:59](https://news.ycombinator.com/item?id=42974896) - [Fossils Preserve Both Skin and Scales from an Ancient Sea Monster](https://www.nytimes.com/2025/02/06/science/plesiosaur-fossils-skin-scales.html)
 * [2025-02-07, 15:20:35](https://news.ycombinator.com/item?id=42973652) - [Solving Sudoku with Tmux](https://willhbr.net/2024/12/27/solving-sudoku-with-tmux/)
+* [2025-02-07, 14:48:42](https://news.ycombinator.com/item?id=42973189) - [The other 99% – CERN Courier](https://cerncourier.com/a/the-other-99/)
+* [2025-02-07, 06:58:10](https://news.ycombinator.com/item?id=42970169) - [Fake VS Code Extension on NPM Spreads Multi-Stage Malware](https://www.mend.io/blog/fake-vs-code-extension-on-npm-spreads-multi-stage-malware/)
 * [2025-02-07, 06:23:36](https://news.ycombinator.com/item?id=42969993) - [Indigenous engineers are using AI to preserve their culture](https://www.nbcnews.com/tech/innovation/indigenous-engineers-are-using-ai-preserve-culture-rcna176012)
 * [2025-02-07, 03:30:10](https://news.ycombinator.com/item?id=42969038) - [Ancient-DNA study identifies originators of Indo-European language family](https://hms.harvard.edu/news/ancient-dna-study-identifies-originators-indo-european-language-family)
 
