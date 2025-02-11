@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-02-11, 09:18:11",
-      "https://news.ycombinator.com/item?id=43010662"
-    ],
-    [
-      "Sid Meier's Civilization VII",
-      "https://civilization.2k.com/civ-vii/buy/"
-    ]
-  ],
-  [
-    [
       "2025-02-11, 08:26:16",
       "https://news.ycombinator.com/item?id=43010365"
     ],
@@ -21,42 +11,12 @@
   ],
   [
     [
-      "2025-02-11, 07:35:24",
-      "https://news.ycombinator.com/item?id=43010037"
-    ],
-    [
-      "Working from home is here to stay",
-      "https://wolfstreet.com/2025/02/10/there-hasnt-been-much-if-any-reduction-in-wfh-in-over-2-years-despite-all-the-hype-about-rto/"
-    ]
-  ],
-  [
-    [
       "2025-02-11, 07:21:21",
       "https://news.ycombinator.com/item?id=43009952"
     ],
     [
       "A catalog of ways to generate SSA",
       "https://bernsteinbear.com/blog/ssa/"
-    ]
-  ],
-  [
-    [
-      "2025-02-11, 06:34:26",
-      "https://news.ycombinator.com/item?id=43009682"
-    ],
-    [
-      "Jeep Introduces Pop-Up Ads That Appear Every Time You Stop",
-      "https://tech.slashdot.org/story/25/02/11/0016258/jeep-introduces-pop-up-ads-that-appear-every-time-you-stop"
-    ]
-  ],
-  [
-    [
-      "2025-02-11, 05:50:34",
-      "https://news.ycombinator.com/item?id=43009411"
-    ],
-    [
-      "NixOS and Portable Executables",
-      "http://jackkelly.name/blog/archives/2025/01/15/nixos_and_actually_portable_executables/index.html"
     ]
   ],
   [
@@ -181,6 +141,16 @@
   ],
   [
     [
+      "2025-02-10, 15:54:45",
+      "https://news.ycombinator.com/item?id=43001688"
+    ],
+    [
+      "Show HN: Global 3D topography explorer",
+      "https://topography.jessekv.com"
+    ]
+  ],
+  [
+    [
       "2025-02-10, 14:14:22",
       "https://news.ycombinator.com/item?id=43000529"
     ],
@@ -261,6 +231,16 @@
   ],
   [
     [
+      "2025-02-07, 16:59:59",
+      "https://news.ycombinator.com/item?id=42974896"
+    ],
+    [
+      "Fossils Preserve Both Skin and Scales from an Ancient Sea Monster",
+      "https://www.nytimes.com/2025/02/06/science/plesiosaur-fossils-skin-scales.html"
+    ]
+  ],
+  [
+    [
       "2025-02-07, 15:20:35",
       "https://news.ycombinator.com/item?id=42973652"
     ],
@@ -271,12 +251,32 @@
   ],
   [
     [
+      "2025-02-07, 14:48:42",
+      "https://news.ycombinator.com/item?id=42973189"
+    ],
+    [
+      "The other 99%",
+      "https://cerncourier.com/a/the-other-99/"
+    ]
+  ],
+  [
+    [
       "2025-02-07, 10:46:15",
       "https://news.ycombinator.com/item?id=42971258"
     ],
     [
       "Allocator Hints for Btrfs",
       "https://wiki.tnonline.net/w/Btrfs/Allocator_Hints"
+    ]
+  ],
+  [
+    [
+      "2025-02-07, 09:57:57",
+      "https://news.ycombinator.com/item?id=42971038"
+    ],
+    [
+      "Memory profilers, call graphs, exception reports, and telemetry",
+      "https://www.nuanced.dev/blog/system-wide-context"
     ]
   ],
   [
