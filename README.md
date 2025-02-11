@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-11, 08:26:16](https://news.ycombinator.com/item?id=43010365) - [How about trailing commas in SQL?](http://peter.eisentraut.org/blog/2025/02/11/how-about-trailing-commas-in-sql)
 * [2025-02-11, 07:35:24](https://news.ycombinator.com/item?id=43010037) - [Working from home is here to stay](https://wolfstreet.com/2025/02/10/there-hasnt-been-much-if-any-reduction-in-wfh-in-over-2-years-despite-all-the-hype-about-rto/)
 * [2025-02-11, 07:21:21](https://news.ycombinator.com/item?id=43009952) - [A catalog of ways to generate SSA](https://bernsteinbear.com/blog/ssa/)
 * [2025-02-11, 06:34:26](https://news.ycombinator.com/item?id=43009682) - [Jeep Introduces Pop-Up Ads That Appear Every Time You Stop](https://tech.slashdot.org/story/25/02/11/0016258/jeep-introduces-pop-up-ads-that-appear-every-time-you-stop)
@@ -9,7 +10,6 @@
 * [2025-02-11, 01:50:21](https://news.ycombinator.com/item?id=43008048) - [Elementary Functions and Not Following the IEEE754 Floating-Point Standard(2020)](http://www.hlsl.co.uk/blog/2020/1/29/ieee754-is-not-followed)
 * [2025-02-11, 01:19:14](https://news.ycombinator.com/item?id=43007769) - [How Copyover MUD Servers Worked](http://jackkelly.name/blog/archives/2025/02/06/how_copyover_mud_servers_worked/)
 * [2025-02-11, 01:02:48](https://news.ycombinator.com/item?id=43007628) - [The Floppotron 3.0 (2022)](https://silent.org.pl/home/2022/06/13/the-floppotron-3-0/)
-* [2025-02-11, 00:35:34](https://news.ycombinator.com/item?id=43007336) - [Nocc – A Distributed C++ Compiler](https://github.com/VKCOM/nocc)
 * [2025-02-10, 23:16:33](https://news.ycombinator.com/item?id=43006536) - [Fun with C++26 reflection: Keyword Arguments](https://pydong.org/posts/KwArgs/)
 * [2025-02-10, 22:53:40](https://news.ycombinator.com/item?id=43006350) - [Relational Quantum Mechanics](https://plato.stanford.edu/entries/qm-relational/)
 * [2025-02-10, 21:00:29](https://news.ycombinator.com/item?id=43005096) - [Fly.io (YC W20) Is Hiring a Customer Support Director](https://news.ycombinator.com/item?id=43005096)

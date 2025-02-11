@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-11](index.md)
 
+* [2025-02-11, 08:26:16](https://news.ycombinator.com/item?id=43010365) - [How about trailing commas in SQL?](http://peter.eisentraut.org/blog/2025/02/11/how-about-trailing-commas-in-sql)
 * [2025-02-11, 07:35:24](https://news.ycombinator.com/item?id=43010037) - [Working from home is here to stay](https://wolfstreet.com/2025/02/10/there-hasnt-been-much-if-any-reduction-in-wfh-in-over-2-years-despite-all-the-hype-about-rto/)
 * [2025-02-11, 07:21:21](https://news.ycombinator.com/item?id=43009952) - [A catalog of ways to generate SSA](https://bernsteinbear.com/blog/ssa/)
 * [2025-02-11, 07:19:51](https://news.ycombinator.com/item?id=43009946) - [Far-right populists much more likely than the left to spread fake news – study](https://www.theguardian.com/world/2025/feb/11/far-right-mps-fake-news-misinformation-left-study)
