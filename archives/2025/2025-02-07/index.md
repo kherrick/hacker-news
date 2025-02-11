@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-07](index.md)
 
+* [2025-02-07, 23:45:52](https://news.ycombinator.com/item?id=42978825) - [Making Software Fun](https://furbo.org/2025/02/07/making-software-fun/)
 * [2025-02-07, 22:49:22](https://news.ycombinator.com/item?id=42978405) - [DOGE Staffer Previously Fired from Cybersecurity Company for Leaking Secrets](https://gizmodo.com/doge-staffer-previously-fired-from-cybersecurity-company-for-leaking-secrets-2000561131)
 * [2025-02-07, 22:38:11](https://news.ycombinator.com/item?id=42978313) - [Autonomous AI Agents Should Not Be Developed](https://huggingface.co/papers/2502.02649)
 * [2025-02-07, 22:26:44](https://news.ycombinator.com/item?id=42978228) - [Consistent Jailbreaking Method in o1, o3, and 4o](https://generalanalysis.com/blog/jailbreaking_techniques)

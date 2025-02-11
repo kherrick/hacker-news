@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-11](index.md)
 
+* [2025-02-11, 04:03:36](https://news.ycombinator.com/item?id=43008814) - [How America traded systematic improvement for quick wins–and lost both](https://www.population.fyi/p/process-and-performance-how-america)
 * [2025-02-11, 02:55:31](https://news.ycombinator.com/item?id=43008422) - [Apple software update \"bug\" enables Apple Intelligence](https://lapcatsoftware.com/articles/2025/2/3.html)
 * [2025-02-11, 02:54:03](https://news.ycombinator.com/item?id=43008417) - [What are non intelligent people like me supposed to do for money?](https://www.reddit.com/r/findapath/s/Me91Ke0COG)
 * [2025-02-11, 02:37:06](https://news.ycombinator.com/item?id=43008315) - [Make Your Own Website: A beginner's guide](https://web.pixelshannon.com/make/)
