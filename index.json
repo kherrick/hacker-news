@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=43017487"
     ],
     [
-      "Non-Fiction Has Bad Incentives",
+      "Mass market non-fiction has bad incentives",
       "https://borretti.me/article/non-fiction-has-bad-incentives"
     ]
   ],
@@ -25,8 +25,18 @@
       "https://news.ycombinator.com/item?id=43017010"
     ],
     [
-      "The Subtle Art of Designing Physical Controls for Cars",
+      "The subtle art of designing physical controls for cars",
       "https://www.theturnsignalblog.com/the-subtle-art-of-designing-physical-control-for-cars/"
+    ]
+  ],
+  [
+    [
+      "2025-02-11, 19:10:16",
+      "https://news.ycombinator.com/item?id=43016944"
+    ],
+    [
+      "Incremental compilation instantly rebuilds the Zig compiler",
+      "https://www.youtube.com/clip/Ugkxjn7L0hEfN1XLfH1soaUdCksG3FvJkXIS"
     ]
   ],
   [
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=43016248"
     ],
     [
-      "Reviving the joy and honor of working with your hands",
+      "Reviving the joy and honor of working with your hands (2015)",
       "https://richmond.com/holmberg-reviving-the-joy-and-honor-of-working-with-your-hands-will-strengthen-our-nation/article_d8130166-855d-53b6-94e1-cb735edcd7cc.html"
     ]
   ],
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=43014918"
     ],
     [
-      "LLMs Can Teach Themselves to Better Predict the Future",
+      "LLMs can teach themselves to better predict the future",
       "https://arxiv.org/abs/2502.05253"
     ]
   ],
@@ -195,7 +205,7 @@
       "https://news.ycombinator.com/item?id=43010814"
     ],
     [
-      "Firing programmers for AI will destroy everything",
+      "Firing programmers for AI is a mistake",
       "https://defragzone.substack.com/p/techs-dumbest-mistake-why-firing"
     ]
   ],
@@ -275,7 +285,7 @@
       "https://news.ycombinator.com/item?id=42998375"
     ],
     [
-      "Rust Kernel Policy",
+      "Rust kernel policy",
       "https://rust-for-linux.com/rust-kernel-policy"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Show HN: Infinite horizontal arrays of text editors",
       "https://zeminary.com/arrays/app.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-07, 22:47:53",
-      "https://news.ycombinator.com/item?id=42978394"
-    ],
-    [
-      "Run Doom on Google Sheets",
-      "https://github.com/moses297/doom-on-google-sheets"
     ]
   ]
 ]
