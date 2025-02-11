@@ -9,6 +9,7 @@
 * [2025-02-11, 00:35:34](https://news.ycombinator.com/item?id=43007336) - [Nocc – A Distributed C++ Compiler](https://github.com/VKCOM/nocc)
 * [2025-02-10, 23:16:33](https://news.ycombinator.com/item?id=43006536) - [Fun with C++26 reflection: Keyword Arguments](https://pydong.org/posts/KwArgs/)
 * [2025-02-10, 22:53:40](https://news.ycombinator.com/item?id=43006350) - [Relational Quantum Mechanics](https://plato.stanford.edu/entries/qm-relational/)
+* [2025-02-10, 21:00:29](https://news.ycombinator.com/item?id=43005096) - [Fly.io (YC W20) Is Hiring a Customer Support Director](https://news.ycombinator.com/item?id=43005096)
 * [2025-02-10, 19:52:02](https://news.ycombinator.com/item?id=43004435) - [TinyX: Small Featured X Server](https://github.com/tinycorelinux/tinyx)
 * [2025-02-10, 19:50:20](https://news.ycombinator.com/item?id=43004416) - [Scaling up test-time compute with latent reasoning: A recurrent depth approach](https://arxiv.org/abs/2502.05171)
 * [2025-02-10, 19:42:02](https://news.ycombinator.com/item?id=43004334) - [Patterns for Building Realtime Features](https://zknill.io/posts/patterns-for-building-realtime/)
@@ -27,7 +28,6 @@
 * [2025-02-07, 16:59:59](https://news.ycombinator.com/item?id=42974896) - [Fossils Preserve Both Skin and Scales from an Ancient Sea Monster](https://www.nytimes.com/2025/02/06/science/plesiosaur-fossils-skin-scales.html)
 * [2025-02-07, 15:20:35](https://news.ycombinator.com/item?id=42973652) - [Solving Sudoku with Tmux](https://willhbr.net/2024/12/27/solving-sudoku-with-tmux/)
 * [2025-02-07, 12:46:33](https://news.ycombinator.com/item?id=42971967) - [Fruit of the Poisonous Llama?](https://shkspr.mobi/blog/2023/07/fruit-of-the-poisonous-llama/)
-* [2025-02-07, 10:46:15](https://news.ycombinator.com/item?id=42971258) - [Allocator Hints for Btrfs](https://wiki.tnonline.net/w/Btrfs/Allocator_Hints)
 * [2025-02-07, 06:23:36](https://news.ycombinator.com/item?id=42969993) - [Indigenous engineers are using AI to preserve their culture](https://www.nbcnews.com/tech/innovation/indigenous-engineers-are-using-ai-preserve-culture-rcna176012)
 * [2025-02-07, 03:30:10](https://news.ycombinator.com/item?id=42969038) - [Ancient-DNA study identifies originators of Indo-European language family](https://hms.harvard.edu/news/ancient-dna-study-identifies-originators-indo-european-language-family)
 
