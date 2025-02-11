@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-11](index.md)
 
+* [2025-02-11, 20:54:08](https://news.ycombinator.com/item?id=43018223) - [Man who lost $780M in Bitcoin in a landfill now wants to buy the dump](https://www.tomshardware.com/tech-industry/cryptocurrency/landfill-concealing-8-000-bitcoins-valued-at-usd780m-to-transform-into-a-solar-farm-but-man-now-wishes-to-buy-the-site)
+* [2025-02-11, 19:59:00](https://news.ycombinator.com/item?id=43017599) - [Replicating Deepseek-R1 for $4500: RL Boosts 1.5B Model Beyond o1-preview](https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2)
 * [2025-02-11, 19:59:00](https://news.ycombinator.com/item?id=43017599) - [Replicating Deepseek-R1 for $4500: RL Boosts 1.5B Model Beyond o1-preview](https://github.com/agentica-project/deepscaler)
 * [2025-02-11, 19:54:45](https://news.ycombinator.com/item?id=43017543) - [Voters Were Right About the Economy. The Data Was Wrong](https://www.politico.com/news/magazine/2025/02/11/democrats-tricked-strong-economy-00203464)
 * [2025-02-11, 19:50:07](https://news.ycombinator.com/item?id=43017487) - [Non-Fiction Has Bad Incentives](https://borretti.me/article/non-fiction-has-bad-incentives)

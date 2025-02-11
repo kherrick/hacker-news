@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-11, 19:59:00](https://news.ycombinator.com/item?id=43017599) - [Replicating Deepseek-R1 for $4500: RL Boosts 1.5B Model Beyond o1-preview](https://github.com/agentica-project/deepscaler)
+* [2025-02-11, 20:54:08](https://news.ycombinator.com/item?id=43018223) - [Man who lost $780M in Bitcoin in a landfill now wants to buy the dump](https://www.tomshardware.com/tech-industry/cryptocurrency/landfill-concealing-8-000-bitcoins-valued-at-usd780m-to-transform-into-a-solar-farm-but-man-now-wishes-to-buy-the-site)
+* [2025-02-11, 19:59:00](https://news.ycombinator.com/item?id=43017599) - [Replicating Deepseek-R1 for $4500: RL Boosts 1.5B Model Beyond o1-preview](https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2)
 * [2025-02-11, 19:50:07](https://news.ycombinator.com/item?id=43017487) - [Mass market non-fiction has bad incentives](https://borretti.me/article/non-fiction-has-bad-incentives)
 * [2025-02-11, 19:15:02](https://news.ycombinator.com/item?id=43017010) - [The subtle art of designing physical controls for cars](https://www.theturnsignalblog.com/the-subtle-art-of-designing-physical-control-for-cars/)
 * [2025-02-11, 19:10:16](https://news.ycombinator.com/item?id=43016944) - [Incremental compilation instantly rebuilds the Zig compiler](https://www.youtube.com/clip/Ugkxjn7L0hEfN1XLfH1soaUdCksG3FvJkXIS)
@@ -28,7 +29,6 @@
 * [2025-02-10, 13:11:28](https://news.ycombinator.com/item?id=42999788) - [The hallucinatory thoughts of the dying mind](https://thereader.mitpress.mit.edu/the-hallucinatory-thoughts-of-the-dying-mind/)
 * [2025-02-10, 11:59:41](https://news.ycombinator.com/item?id=42999297) - [Building a personal, private AI computer on a budget](https://ewintr.nl/posts/2025/building-a-personal-private-ai-computer-on-a-budget/)
 * [2025-02-10, 09:22:29](https://news.ycombinator.com/item?id=42998431) - [Show HN: Seen – Virtual list rendering with 1M+ notes](https://seen-v2.vercel.app/)
-* [2025-02-10, 09:14:59](https://news.ycombinator.com/item?id=42998375) - [Rust kernel policy](https://rust-for-linux.com/rust-kernel-policy)
 * [2025-02-10, 01:25:05](https://news.ycombinator.com/item?id=42995991) - [Show HN: Infinite horizontal arrays of text editors](https://zeminary.com/arrays/app.html)
 
 ## [Archives](archives/index.md)
