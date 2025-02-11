@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-11, 19:01:46](https://news.ycombinator.com/item?id=43016802) - [Database of 750 companies building for people with disabilities](https://data.perkins.org/)
-* [2025-02-11, 18:51:43](https://news.ycombinator.com/item?id=43016675) - [Judge tells agencies to restore webpages and data removed](https://apnews.com/article/trump-cdc-fda-doctors-for-america-5263fc6b6cbc723ca0c86c4460d02f33)
 * [2025-02-11, 18:44:48](https://news.ycombinator.com/item?id=43016574) - [Trust, 2-Party Relays, and QUIC](https://obscura.net/blog/bootstrapping-trust/)
 * [2025-02-11, 18:30:13](https://news.ycombinator.com/item?id=43016353) - [Japan can be a science heavyweight once more – if it rethinks funding](https://www.nature.com/articles/d41586-025-00394-8)
 * [2025-02-11, 18:29:29](https://news.ycombinator.com/item?id=43016340) - [Go's new map implementation in 1.24 is powered by Swiss Tables](https://twitter.com/petermattis/status/1889080982273163466)
@@ -25,10 +24,11 @@
 * [2025-02-11, 07:05:39](https://news.ycombinator.com/item?id=43009850) - [TSMC 2nm Process Disclosure – How Does It Measure Up?](https://semiwiki.com/semiconductor-services/techinsights/352972-iedm-2025-tsmc-2nm-process-disclosure-how-does-it-measure-up/)
 * [2025-02-11, 04:19:41](https://news.ycombinator.com/item?id=43008920) - [Meta’s Hyperscale Infrastructure: Overview and Insights](https://cacm.acm.org/research/metas-hyperscale-infrastructure-overview-and-insights/)
 * [2025-02-11, 04:13:47](https://news.ycombinator.com/item?id=43008879) - [Nvidia's RTX 5090 power connectors are melting](https://www.theverge.com/news/609207/nvidia-rtx-5090-power-connector-melting-burning-issues)
-* [2025-02-10, 17:05:09](https://news.ycombinator.com/item?id=43002511) - [Undergraduate shows that searches within hash tables can be much faster](https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/)
 * [2025-02-10, 11:59:41](https://news.ycombinator.com/item?id=42999297) - [Building a personal, private AI computer on a budget](https://ewintr.nl/posts/2025/building-a-personal-private-ai-computer-on-a-budget/)
 * [2025-02-10, 09:22:29](https://news.ycombinator.com/item?id=42998431) - [Show HN: Seen – Virtual list rendering with 1M+ notes](https://seen-v2.vercel.app/)
+* [2025-02-10, 09:14:59](https://news.ycombinator.com/item?id=42998375) - [Rust Kernel Policy](https://rust-for-linux.com/rust-kernel-policy)
 * [2025-02-09, 14:38:52](https://news.ycombinator.com/item?id=42990948) - [How (not) to sign a JSON object (2019)](https://www.latacora.com/blog/2019/07/24/how-not-to/)
+* [2025-02-09, 06:31:10](https://news.ycombinator.com/item?id=42988913) - [OpenDAW – a new holistic exploration of music creation inside the browser](https://opendaw.studio/)
 * [2025-02-07, 22:47:53](https://news.ycombinator.com/item?id=42978394) - [Run Doom on Google Sheets](https://github.com/moses297/doom-on-google-sheets)
 
 ## [Archives](archives/index.md)
