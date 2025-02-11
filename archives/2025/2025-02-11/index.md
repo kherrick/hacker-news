@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-11](index.md)
 
 * [2025-02-11, 04:59:32](https://news.ycombinator.com/item?id=43009148) - [CFPB's 1,700 employees told to \"not perform any work\"](https://nypost.com/2025/02/10/us-news/cfpbs-1700-employees-told-to-not-perform-any-work-as-obama-era-agency-become-latest-trump-target/)
+* [2025-02-11, 04:19:41](https://news.ycombinator.com/item?id=43008920) - [Meta's Hyperscale Infrastructure: Overview and Insights](https://cacm.acm.org/research/metas-hyperscale-infrastructure-overview-and-insights/)
 * [2025-02-11, 04:03:36](https://news.ycombinator.com/item?id=43008814) - [How America traded systematic improvement for quick wins–and lost both](https://www.population.fyi/p/process-and-performance-how-america)
 * [2025-02-11, 02:55:31](https://news.ycombinator.com/item?id=43008422) - [Apple software update \"bug\" enables Apple Intelligence](https://lapcatsoftware.com/articles/2025/2/3.html)
 * [2025-02-11, 02:54:03](https://news.ycombinator.com/item?id=43008417) - [What are non intelligent people like me supposed to do for money?](https://www.reddit.com/r/findapath/s/Me91Ke0COG)
