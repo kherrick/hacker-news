@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-12, 16:31:04](https://news.ycombinator.com/item?id=43026920) - [The Prophet of Parking](https://www.worksinprogress.news/p/the-prophet-of-parking)
 * [2025-02-12, 15:55:20](https://news.ycombinator.com/item?id=43026590) - [100 Most-Watched Software Engineering Talks of 2024](https://www.techtalksweekly.io/p/100-most-watched-software-engineering)
 * [2025-02-12, 15:08:25](https://news.ycombinator.com/item?id=43026104) - [Syd: An Introduction to Secure Application Sandboxing for Linux [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-4176-syd-an-introduction-to-secure-application-sandboxing-for-linux/)
 * [2025-02-12, 15:06:37](https://news.ycombinator.com/item?id=43026087) - [Dose-dependent effects of LSD in double-blind placebo-controlled study (2020)](https://www.nature.com/articles/s41386-020-00883-6)
@@ -19,7 +20,6 @@
 * [2025-02-11, 22:46:31](https://news.ycombinator.com/item?id=43019352) - [A Year of Telepathy](https://neuralink.com/blog/a-year-of-telepathy/)
 * [2025-02-11, 22:22:37](https://news.ycombinator.com/item?id=43019136) - [Show HN: Mapping the Unix Magic Poster – An Interactive Annotation Project](https://drio.github.io/unixmagic/)
 * [2025-02-11, 19:15:02](https://news.ycombinator.com/item?id=43017010) - [The subtle art of designing physical controls for cars](https://www.theturnsignalblog.com/the-subtle-art-of-designing-physical-control-for-cars/)
-* [2025-02-11, 17:34:31](https://news.ycombinator.com/item?id=43015585) - [Postmortem: The singular design of Namco's Katamari Damacy (2004)](https://www.gamedeveloper.com/design/postmortem-the-singular-design-of-namco-s-katamari-damacy-2004-)
 * [2025-02-11, 17:08:35](https://news.ycombinator.com/item?id=43015267) - [Launch HN: A0.dev (YC W25) – React Native App Generator](https://news.ycombinator.com/item?id=43015267)
 * [2025-02-11, 15:08:08](https://news.ycombinator.com/item?id=43013615) - [I tasted Honda’s spicy rodent-repelling tape and I will do it again (2021)](https://haterade.substack.com/p/i-tasted-hondas-spicy-rodent-repelling)
 * [2025-02-11, 14:55:45](https://news.ycombinator.com/item?id=43013431) - [Backblaze Drive Stats for 2024](https://www.backblaze.com/blog/backblaze-drive-stats-for-2024/)
