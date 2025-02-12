@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-12](index.md)
 
+* [2025-02-12, 03:51:37](https://news.ycombinator.com/item?id=43021677) - [I wrote a static web page and accidentally started a community (2023)](https://localfirstweb.dev/blog/2023-05-29-i-wrote-a-static-web-page)
 * [2025-02-12, 03:45:06](https://news.ycombinator.com/item?id=43021643) - [No longer writing my own damn HTML](https://claytonwramsey.com/blog/no-html/)
 * [2025-02-12, 03:26:46](https://news.ycombinator.com/item?id=43021515) - [jj: a Git-compatible VCS that is both simple and powerful](https://github.com/jj-vcs/jj)
 * [2025-02-12, 02:58:01](https://news.ycombinator.com/item?id=43021333) - [Resist Authoritarianism by Refusing to Obey in Advance (2017)](https://lithub.com/resist-authoritarianism-by-refusing-to-obey-in-advance/)

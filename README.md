@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-12, 03:51:37](https://news.ycombinator.com/item?id=43021677) - [I wrote a static web page and accidentally started a community (2023)](https://localfirstweb.dev/blog/2023-05-29-i-wrote-a-static-web-page)
 * [2025-02-12, 03:45:06](https://news.ycombinator.com/item?id=43021643) - [No longer writing my own damn HTML](https://claytonwramsey.com/blog/no-html/)
 * [2025-02-12, 03:26:46](https://news.ycombinator.com/item?id=43021515) - [jj: a Git-compatible VCS that is both simple and powerful](https://github.com/jj-vcs/jj)
 * [2025-02-12, 02:07:52](https://news.ycombinator.com/item?id=43020983) - [The year I didn't survive](https://bessstillman.substack.com/p/the-year-i-didnt-survive)
@@ -14,7 +15,6 @@
 * [2025-02-11, 19:15:02](https://news.ycombinator.com/item?id=43017010) - [The subtle art of designing physical controls for cars](https://www.theturnsignalblog.com/the-subtle-art-of-designing-physical-control-for-cars/)
 * [2025-02-11, 18:30:13](https://news.ycombinator.com/item?id=43016353) - [Japan can be a science heavyweight once more if it rethinks funding](https://www.nature.com/articles/d41586-025-00394-8)
 * [2025-02-11, 18:23:03](https://news.ycombinator.com/item?id=43016248) - [Reviving the joy and honor of working with your hands (2015)](https://richmond.com/holmberg-reviving-the-joy-and-honor-of-working-with-your-hands-will-strengthen-our-nation/article_d8130166-855d-53b6-94e1-cb735edcd7cc.html)
-* [2025-02-11, 17:37:38](https://news.ycombinator.com/item?id=43015631) - [ASTRA: HackerRank's coding benchmark for LLMs](https://www.hackerrank.com/ai/astra-reports)
 * [2025-02-11, 17:34:31](https://news.ycombinator.com/item?id=43015585) - [Postmortem: The singular design of Namco's Katamari Damacy (2004)](https://www.gamedeveloper.com/design/postmortem-the-singular-design-of-namco-s-katamari-damacy-2004-)
 * [2025-02-11, 17:17:55](https://news.ycombinator.com/item?id=43015387) - [JetBrains Fleet drops support for Kotlin Multiplatform](https://blog.jetbrains.com/kotlin/2025/02/kotlin-multiplatform-tooling-shifting-gears/)
 * [2025-02-11, 17:08:35](https://news.ycombinator.com/item?id=43015267) - [Launch HN: A0.dev (YC W25) – React Native App Generator](https://news.ycombinator.com/item?id=43015267)
