@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-12](index.md)
 
+* [2025-02-12, 17:33:07](https://news.ycombinator.com/item?id=43027579) - [The Hallucinatory Thoughts of the Dying Mind](https://nautil.us/the-hallucinatory-thoughts-of-the-dying-mind-1189807/)
 * [2025-02-12, 17:11:25](https://news.ycombinator.com/item?id=43027335) - [Show HN: Game Bub – open-source FPGA retro emulation handheld](https://eli.lipsitz.net/posts/introducing-gamebub/)
 * [2025-02-12, 17:04:22](https://news.ycombinator.com/item?id=43027266) - [It's Time to Rethink 6G](https://spectrum.ieee.org/5g-bandwidth)
 * [2025-02-12, 17:00:48](https://news.ycombinator.com/item?id=43027230) - [Artie (YC S23) Is Hiring Business Operations](https://www.ycombinator.com/companies/artie/jobs/CM1sVks-business-operations)

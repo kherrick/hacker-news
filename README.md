@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-12, 17:33:07](https://news.ycombinator.com/item?id=43027579) - [The Hallucinatory Thoughts of the Dying Mind](https://nautil.us/the-hallucinatory-thoughts-of-the-dying-mind-1189807/)
 * [2025-02-12, 17:11:25](https://news.ycombinator.com/item?id=43027335) - [Show HN: Game Bub – open-source FPGA retro emulation handheld](https://eli.lipsitz.net/posts/introducing-gamebub/)
 * [2025-02-12, 17:04:22](https://news.ycombinator.com/item?id=43027266) - [It's Time to Rethink 6G](https://spectrum.ieee.org/5g-bandwidth)
 * [2025-02-12, 17:00:48](https://news.ycombinator.com/item?id=43027230) - [Artie (YC S23) Is Hiring Business Operations](https://www.ycombinator.com/companies/artie/jobs/CM1sVks-business-operations)
@@ -27,7 +28,6 @@
 * [2025-02-10, 12:44:27](https://news.ycombinator.com/item?id=42999598) - [Durable plastic gets a sustainability makeover in novel polymerization process](https://phys.org/news/2025-01-durable-plastic-sustainability-makeover-polymerization.html)
 * [2025-02-10, 03:36:05](https://news.ycombinator.com/item?id=42996656) - [The missing tier for query compilers](https://www.scattered-thoughts.net/writing/the-missing-tier-for-query-compilers/)
 * [2025-02-09, 18:18:47](https://news.ycombinator.com/item?id=42992368) - [Bad Smart Watch Authentication](https://sprocketfox.io/xssfox/2025/02/09/ido/)
-* [2025-02-09, 12:12:43](https://news.ycombinator.com/item?id=42990186) - [Go Away Green](https://en.wikipedia.org/wiki/Go_Away_Green)
 * [2025-02-09, 11:53:31](https://news.ycombinator.com/item?id=42990103) - [Storytelling lessons I learned from Steve Jobs (2022)](https://www.fastcompany.com/90747313/steve-jobs-lessons-tony-fadell-build-book-excerpt)
 * [2025-02-09, 02:00:06](https://news.ycombinator.com/item?id=42987848) - [Automating the cleaning of macOS-specific ( ._ and .DS_Store) files on Eject](https://blog.gingerbeardman.com/2025/02/08/automating-the-cleaning-of-macos-specific-files-on-eject/)
 
