@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-02-12, 13:35:17",
-      "https://news.ycombinator.com/item?id=43025266"
+      "2025-02-12, 14:06:08",
+      "https://news.ycombinator.com/item?id=43025528"
     ],
     [
-      "Delivering Malware Through Abandoned Amazon S3 Buckets",
-      "https://www.schneier.com/blog/archives/2025/02/delivering-malware-through-abandoned-amazon-s3-buckets.html"
+      "Understanding the trade-offs of using Tailwind CSS",
+      "https://measured.co/blog/tailwind-trade-offs"
+    ]
+  ],
+  [
+    [
+      "2025-02-12, 13:53:43",
+      "https://news.ycombinator.com/item?id=43025420"
+    ],
+    [
+      "Representation of BBC News Content in AI Assistants [pdf]",
+      "https://www.bbc.co.uk/aboutthebbc/documents/bbc-research-into-ai-assistants.pdf"
     ]
   ],
   [
@@ -201,32 +211,12 @@
   ],
   [
     [
-      "2025-02-11, 01:42:59",
-      "https://news.ycombinator.com/item?id=43007982"
-    ],
-    [
-      "Down the rabbit hole: Implementing SSH port forwarding over AWS Session Manager",
-      "https://www.joinformal.com/blog/down-the-rabbit-hole-implementing-ssh-port-forwarding-over-aws-session-manager/"
-    ]
-  ],
-  [
-    [
       "2025-02-10, 15:32:48",
       "https://news.ycombinator.com/item?id=43001449"
     ],
     [
       "The problem with MySQL foreign key constraints in Online Schema Changes (2021)",
       "https://code.openark.org/blog/mysql/the-problem-with-mysql-foreign-key-constraints-in-online-schema-changes"
-    ]
-  ],
-  [
-    [
-      "2025-02-10, 13:19:01",
-      "https://news.ycombinator.com/item?id=42999875"
-    ],
-    [
-      "Google Maps Origin Story – 20-Year Anniversary",
-      "https://www.theguardian.com/technology/2025/feb/09/google-maps-turns-20-anniversary-feature"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "The Commodore Penny Farthing Adventures",
       "https://www.amigalove.com/viewtopic.php?t=2864"
+    ]
+  ],
+  [
+    [
+      "2025-02-09, 18:18:47",
+      "https://news.ycombinator.com/item?id=42992368"
+    ],
+    [
+      "Bad Smart Watch Authentication",
+      "https://sprocketfox.io/xssfox/2025/02/09/ido/"
     ]
   ],
   [
