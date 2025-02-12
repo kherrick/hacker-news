@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-12, 20:55:12](https://news.ycombinator.com/item?id=43029686) - [Show HN: I made my own OS from scratch because I was bored](https://jotalea.com.ar/misc/jotaleaos/)
+* [2025-02-12, 20:34:41](https://news.ycombinator.com/item?id=43029474) - [The average CPU performance of PCs and notebooks fell for the first time](https://www.cpubenchmark.net/year-on-year.html)
 * [2025-02-12, 20:24:59](https://news.ycombinator.com/item?id=43029385) - [Show HN: yknotify – Notify when YubiKey needs touch on macOS](https://github.com/noperator/yknotify)
 * [2025-02-12, 20:13:27](https://news.ycombinator.com/item?id=43029277) - [Syria just hosted its first international tech conference in 50 years](https://restofworld.org/2025/syria-international-tech-conference-sync-25/)
 * [2025-02-12, 19:54:52](https://news.ycombinator.com/item?id=43029089) - [Show HN: A no-build fullstack SSR TypeScript web framework](https://jsr.io/@fullsoak/fullsoak)
@@ -23,12 +25,10 @@
 * [2025-02-12, 09:24:08](https://news.ycombinator.com/item?id=43023508) - [Smuggling arbitrary data through an emoji](https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/)
 * [2025-02-12, 06:10:25](https://news.ycombinator.com/item?id=43022398) - [ElevenReader](https://elevenreader.io)
 * [2025-02-12, 02:07:52](https://news.ycombinator.com/item?id=43020983) - [The year I didn't survive](https://bessstillman.substack.com/p/the-year-i-didnt-survive)
-* [2025-02-11, 22:22:37](https://news.ycombinator.com/item?id=43019136) - [Show HN: Mapping the Unix Magic Poster – An Interactive Annotation Project](https://drio.github.io/unixmagic/)
 * [2025-02-11, 03:25:25](https://news.ycombinator.com/item?id=43008587) - [Show HN: Sort lines semantically using llm-sort](https://github.com/vagos/llm-sort)
 * [2025-02-10, 12:48:58](https://news.ycombinator.com/item?id=42999635) - [iOS indie app development looks like](https://safespace.is/blog/villain-era-part-1)
 * [2025-02-10, 03:36:05](https://news.ycombinator.com/item?id=42996656) - [The missing tier for query compilers](https://www.scattered-thoughts.net/writing/the-missing-tier-for-query-compilers/)
 * [2025-02-09, 18:18:47](https://news.ycombinator.com/item?id=42992368) - [Bad Smart Watch Authentication](https://sprocketfox.io/xssfox/2025/02/09/ido/)
-* [2025-02-09, 13:22:22](https://news.ycombinator.com/item?id=42990512) - [Center for the Study of National Reconnaissance: Corona Satellite (2013) [pdf]](https://www.nro.gov/Portals/65/documents/history/csnr/corona/The%20CORONA%20Story.pdf)
 * [2025-02-09, 09:56:13](https://news.ycombinator.com/item?id=42989666) - [Is NixOS truly reproducible?](https://luj.fr/blog/is-nixos-truly-reproducible.html)
 
 ## [Archives](archives/index.md)
