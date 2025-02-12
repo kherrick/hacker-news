@@ -37,6 +37,7 @@
 * [2025-02-10, 13:54:38](https://news.ycombinator.com/item?id=43000316) - [Surnames from nicknames nobody has any more](https://blog.plover.com/lang/etym/nickname-names.html)
 * [2025-02-10, 13:52:53](https://news.ycombinator.com/item?id=43000303) - [Show HN: HTML visualization of a PDF file's internal structure](https://github.com/desgeeko/pdfsyntax/blob/main/docs/browse.md)
 * [2025-02-10, 13:50:40](https://news.ycombinator.com/item?id=43000275) - [Why hasn't commercial air travel gotten any faster since the 1960s?](https://engineering.mit.edu/engage/ask-an-engineer/why-hasnt-commercial-air-travel-gotten-any-faster-since-the-1960s/)
+* [2025-02-10, 13:19:01](https://news.ycombinator.com/item?id=42999875) - [Google Maps Origin Story – 20-Year Anniversary](https://www.theguardian.com/technology/2025/feb/09/google-maps-turns-20-anniversary-feature)
 * [2025-02-10, 13:11:28](https://news.ycombinator.com/item?id=42999788) - [The Hallucinatory Thoughts of the Dying Mind](https://thereader.mitpress.mit.edu/the-hallucinatory-thoughts-of-the-dying-mind/)
 * [2025-02-10, 13:05:00](https://news.ycombinator.com/item?id=42999742) - [AI is accelerating scientific production, not progress](https://twitter.com/random_walker/status/1888919433671843947)
 * [2025-02-10, 12:54:51](https://news.ycombinator.com/item?id=42999672) - [Python 3.14 Getting New Interpreter](https://docs.python.org/3.14/whatsnew/3.14.html#whatsnew314-tail-call)
