@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-12, 15:21:42](https://news.ycombinator.com/item?id=43026234) - [The dream of offshore rocket launches is finally blasting off](https://www.technologyreview.com/2025/02/11/1111467/the-dream-of-offshore-rocket-launches-is-finally-blasting-off/)
 * [2025-02-12, 15:06:37](https://news.ycombinator.com/item?id=43026087) - [Dose-dependent effects of LSD in double-blind placebo-controlled study (2020)](https://www.nature.com/articles/s41386-020-00883-6)
 * [2025-02-12, 15:05:17](https://news.ycombinator.com/item?id=43026071) - [Improved evaluation times with pre-resolved Nix store paths](https://determinate.systems/posts/resolved-store-paths/)
 * [2025-02-12, 15:01:40](https://news.ycombinator.com/item?id=43026036) - [PgAssistant: OSS tool to help devs understand and optimize PG performance](https://github.com/nexsol-technologies/pgassistant)
@@ -30,6 +29,7 @@
 * [2025-02-09, 18:18:47](https://news.ycombinator.com/item?id=42992368) - [Bad Smart Watch Authentication](https://sprocketfox.io/xssfox/2025/02/09/ido/)
 * [2025-02-09, 11:53:31](https://news.ycombinator.com/item?id=42990103) - [Storytelling lessons I learned from Steve Jobs (2022)](https://www.fastcompany.com/90747313/steve-jobs-lessons-tony-fadell-build-book-excerpt)
 * [2025-02-08, 13:15:26](https://news.ycombinator.com/item?id=42982755) - [Ohm: A user-friendly parsing toolkit for JavaScript and TypeScript](https://ohmjs.org/)
+* [2025-02-07, 03:30:10](https://news.ycombinator.com/item?id=42969038) - [Ancient-DNA study identifies originators of Indo-European language family](https://hms.harvard.edu/news/ancient-dna-study-identifies-originators-indo-european-language-family)
 
 ## [Archives](archives/index.md)
 
