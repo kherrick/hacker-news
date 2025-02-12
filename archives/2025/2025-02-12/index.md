@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-02-12](index.md)
 
+* [2025-02-12, 17:11:25](https://news.ycombinator.com/item?id=43027335) - [Show HN: Game Bub – open-source FPGA retro emulation handheld](https://eli.lipsitz.net/posts/introducing-gamebub/)
+* [2025-02-12, 17:00:48](https://news.ycombinator.com/item?id=43027230) - [Artie (YC S23) Is Hiring Business Operations](https://www.ycombinator.com/companies/artie/jobs/CM1sVks-business-operations)
+* [2025-02-12, 16:52:57](https://news.ycombinator.com/item?id=43027150) - [Record-breaking neutrino is most energetic ever detected](https://www.nature.com/articles/d41586-025-00444-1)
 * [2025-02-12, 16:31:04](https://news.ycombinator.com/item?id=43026920) - [The Prophet of Parking](https://www.worksinprogress.news/p/the-prophet-of-parking)
 * [2025-02-12, 15:55:20](https://news.ycombinator.com/item?id=43026590) - [100 Most-Watched Software Engineering Talks of 2024](https://www.techtalksweekly.io/p/100-most-watched-software-engineering)
 * [2025-02-12, 15:26:52](https://news.ycombinator.com/item?id=43026302) - [Ignorance is bliss when you're drowning in information](https://www.theregister.com/2025/02/12/ignorance_really_is_bliss/)
