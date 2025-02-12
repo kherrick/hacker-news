@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-12, 22:20:19",
+      "https://news.ycombinator.com/item?id=43030388"
+    ],
+    [
+      "Tiny JITs for a Faster FFI",
+      "https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/"
+    ]
+  ],
+  [
+    [
       "2025-02-12, 20:55:12",
       "https://news.ycombinator.com/item?id=43029686"
     ],
@@ -27,16 +37,6 @@
     [
       "Show HN: yknotify – Notify when YubiKey needs touch on macOS",
       "https://github.com/noperator/yknotify"
-    ]
-  ],
-  [
-    [
-      "2025-02-12, 20:13:27",
-      "https://news.ycombinator.com/item?id=43029277"
-    ],
-    [
-      "Syria just hosted its first international tech conference in 50 years",
-      "https://restofworld.org/2025/syria-international-tech-conference-sync-25/"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2025-02-11, 03:25:25",
-      "https://news.ycombinator.com/item?id=43008587"
-    ],
-    [
-      "Show HN: Sort lines semantically using llm-sort",
-      "https://github.com/vagos/llm-sort"
-    ]
-  ],
-  [
-    [
       "2025-02-10, 12:48:58",
       "https://news.ycombinator.com/item?id=42999635"
     ],
@@ -287,6 +277,16 @@
     [
       "Bad Smart Watch Authentication",
       "https://sprocketfox.io/xssfox/2025/02/09/ido/"
+    ]
+  ],
+  [
+    [
+      "2025-02-09, 13:54:50",
+      "https://news.ycombinator.com/item?id=42990701"
+    ],
+    [
+      "Compiling Array Languages for SIMD [pdf]",
+      "http://vmchale.com/static/serve/simd.pdf"
     ]
   ],
   [
