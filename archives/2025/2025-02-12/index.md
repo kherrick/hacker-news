@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-12](index.md)
 
+* [2025-02-12, 03:45:06](https://news.ycombinator.com/item?id=43021643) - [No longer writing my own damn HTML](https://claytonwramsey.com/blog/no-html/)
+* [2025-02-12, 03:26:46](https://news.ycombinator.com/item?id=43021515) - [jj: a Git-compatible VCS that is both simple and powerful](https://github.com/jj-vcs/jj)
 * [2025-02-12, 02:58:01](https://news.ycombinator.com/item?id=43021333) - [Resist Authoritarianism by Refusing to Obey in Advance (2017)](https://lithub.com/resist-authoritarianism-by-refusing-to-obey-in-advance/)
 * [2025-02-12, 02:07:52](https://news.ycombinator.com/item?id=43020983) - [The year I didn't survive](https://bessstillman.substack.com/p/the-year-i-didnt-survive)
 * [2025-02-12, 01:24:51](https://news.ycombinator.com/item?id=43020684) - [WASM Will Replace Containers](https://creston.blog/wasm-will-replace-containers/)
