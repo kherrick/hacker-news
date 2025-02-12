@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-12, 15:26:52](https://news.ycombinator.com/item?id=43026302) - [Ignorance is bliss when you're drowning in information](https://www.theregister.com/2025/02/12/ignorance_really_is_bliss/)
+* [2025-02-12, 15:21:42](https://news.ycombinator.com/item?id=43026234) - [The dream of offshore rocket launches is finally blasting off](https://www.technologyreview.com/2025/02/11/1111467/the-dream-of-offshore-rocket-launches-is-finally-blasting-off/)
 * [2025-02-12, 15:06:37](https://news.ycombinator.com/item?id=43026087) - [Dose-dependent effects of LSD in double-blind placebo-controlled study (2020)](https://www.nature.com/articles/s41386-020-00883-6)
 * [2025-02-12, 15:05:17](https://news.ycombinator.com/item?id=43026071) - [Improved evaluation times with pre-resolved Nix store paths](https://determinate.systems/posts/resolved-store-paths/)
 * [2025-02-12, 15:01:40](https://news.ycombinator.com/item?id=43026036) - [PgAssistant: OSS tool to help devs understand and optimize PG performance](https://github.com/nexsol-technologies/pgassistant)
@@ -9,6 +9,7 @@
 * [2025-02-12, 12:00:59](https://news.ycombinator.com/item?id=43024473) - [Extend (YC W23) is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
 * [2025-02-12, 11:19:42](https://news.ycombinator.com/item?id=43024221) - [Leaking the email of any YouTube user for $10,000](https://brutecat.com/articles/leaking-youtube-emails)
 * [2025-02-12, 11:11:38](https://news.ycombinator.com/item?id=43024173) - [League of Legends data scraping the hard and tedious way for fun](https://maknee.github.io/blog/2025/League-Data-Scraping/)
+* [2025-02-12, 09:43:48](https://news.ycombinator.com/item?id=43023634) - [Tiny Pointers](https://arxiv.org/abs/2111.12800)
 * [2025-02-12, 09:24:08](https://news.ycombinator.com/item?id=43023508) - [Smuggling arbitrary data through an emoji](https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/)
 * [2025-02-12, 09:17:02](https://news.ycombinator.com/item?id=43023464) - [Show HN: Mikey – No bot meeting notetaker for Windows](https://github.com/hotrod462/Mikey)
 * [2025-02-12, 08:22:27](https://news.ycombinator.com/item?id=43023101) - [Intensional Joy (a concatenative account of internal structure)](https://pithlessly.github.io/intensionaljoy.html)
@@ -28,7 +29,6 @@
 * [2025-02-09, 21:24:12](https://news.ycombinator.com/item?id=42994149) - [The Commodore Penny Farthing Adventures](https://www.amigalove.com/viewtopic.php?t=2864)
 * [2025-02-09, 18:18:47](https://news.ycombinator.com/item?id=42992368) - [Bad Smart Watch Authentication](https://sprocketfox.io/xssfox/2025/02/09/ido/)
 * [2025-02-09, 11:53:31](https://news.ycombinator.com/item?id=42990103) - [Storytelling lessons I learned from Steve Jobs (2022)](https://www.fastcompany.com/90747313/steve-jobs-lessons-tony-fadell-build-book-excerpt)
-* [2025-02-08, 21:11:20](https://news.ycombinator.com/item?id=42986241) - [Scientists invent \"slime\" – could be used in medical, energy, robot applications](https://www.lightsource.ca/public/news/2024-25-q4-jan-march/scientists-invent-slime-that-could-be-used-in-new-medical-green-energy-and-robot-applications.php)
 * [2025-02-08, 13:15:26](https://news.ycombinator.com/item?id=42982755) - [Ohm: A user-friendly parsing toolkit for JavaScript and TypeScript](https://ohmjs.org/)
 
 ## [Archives](archives/index.md)
