@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-12](index.md)
 
+* [2025-02-12, 06:10:25](https://news.ycombinator.com/item?id=43022398) - [ElevenReader by ElevenLabs](https://elevenreader.io)
 * [2025-02-12, 05:52:15](https://news.ycombinator.com/item?id=43022307) - [Parents were injured in a Tesla crash. She ended up having to pay Tesla damages](https://apnews.com/article/tesla-china-lawsuits-musk-investigation-58b10ccace488784fcc63646ab78b410)
 * [2025-02-12, 05:10:09](https://news.ycombinator.com/item?id=43022098) - [No Longer Posting to Pinboard](https://www.gyford.com/phil/writing/2025/02/10/no-longer-pinboard/)
 * [2025-02-12, 03:51:37](https://news.ycombinator.com/item?id=43021677) - [I wrote a static web page and accidentally started a community (2023)](https://localfirstweb.dev/blog/2023-05-29-i-wrote-a-static-web-page)

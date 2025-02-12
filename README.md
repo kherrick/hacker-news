@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-12, 06:10:25](https://news.ycombinator.com/item?id=43022398) - [ElevenReader by ElevenLabs](https://elevenreader.io)
 * [2025-02-12, 05:52:15](https://news.ycombinator.com/item?id=43022307) - [Parents were injured in a Tesla crash. She ended up having to pay Tesla damages](https://apnews.com/article/tesla-china-lawsuits-musk-investigation-58b10ccace488784fcc63646ab78b410)
 * [2025-02-12, 05:10:09](https://news.ycombinator.com/item?id=43022098) - [No Longer Posting to Pinboard](https://www.gyford.com/phil/writing/2025/02/10/no-longer-pinboard/)
 * [2025-02-12, 03:51:37](https://news.ycombinator.com/item?id=43021677) - [I wrote a static web page and accidentally started a community (2023)](https://localfirstweb.dev/blog/2023-05-29-i-wrote-a-static-web-page)
@@ -29,7 +30,6 @@
 * [2025-02-09, 11:53:31](https://news.ycombinator.com/item?id=42990103) - [Storytelling lessons I learned from Steve Jobs (2022)](https://www.fastcompany.com/90747313/steve-jobs-lessons-tony-fadell-build-book-excerpt)
 * [2025-02-08, 21:11:20](https://news.ycombinator.com/item?id=42986241) - [Scientists invent \"slime\" – could be used in medical, energy, robot applications](https://www.lightsource.ca/public/news/2024-25-q4-jan-march/scientists-invent-slime-that-could-be-used-in-new-medical-green-energy-and-robot-applications.php)
 * [2025-02-08, 13:15:26](https://news.ycombinator.com/item?id=42982755) - [Ohm: A user-friendly parsing toolkit for JavaScript and TypeScript](https://ohmjs.org/)
-* [2025-02-07, 03:30:10](https://news.ycombinator.com/item?id=42969038) - [Ancient-DNA study identifies originators of Indo-European language family](https://hms.harvard.edu/news/ancient-dna-study-identifies-originators-indo-european-language-family)
 
 ## [Archives](archives/index.md)
 
