@@ -9,6 +9,7 @@
 * [2025-02-12, 11:32:18](https://news.ycombinator.com/item?id=43024299) - [EU to mobilize 200B Euros to invest in AI](https://www.euronews.com/next/2025/02/11/eu-to-mobilise-200-billion-for-ai-investment)
 * [2025-02-12, 11:19:42](https://news.ycombinator.com/item?id=43024221) - [Leaking the email of any YouTube user for $10,000](https://brutecat.com/articles/leaking-youtube-emails)
 * [2025-02-12, 09:33:29](https://news.ycombinator.com/item?id=43023554) - [US and UK refuse to sign AI safety declaration at summit](https://arstechnica.com/ai/2025/02/us-and-uk-refuse-to-sign-ai-safety-declaration-at-summit/)
+* [2025-02-12, 09:17:02](https://news.ycombinator.com/item?id=43023464) - [Show HN: Mikey – No bot meeting notetaker for Windows](https://github.com/hotrod462/Mikey)
 * [2025-02-12, 08:50:08](https://news.ycombinator.com/item?id=43023283) - [Git clone –depth 2 is vastly better than –depth 1 if you want to Git push later](https://stackoverflow.com/questions/66431436/pushing-to-github-after-a-shallow-clone-is-horribly-slow)
 * [2025-02-12, 08:28:23](https://news.ycombinator.com/item?id=43023141) - [A gracious end to Webb-site](https://webb-site.com/articles/shutdown.asp)
 * [2025-02-12, 08:23:30](https://news.ycombinator.com/item?id=43023110) - [Tesla sales dropped 60% in Germany](https://electrek.co/2025/02/05/tesla-sales-dropped-60-in-germany/)
