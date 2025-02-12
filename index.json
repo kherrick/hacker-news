@@ -1,6 +1,56 @@
 [
   [
     [
+      "2025-02-12, 15:26:52",
+      "https://news.ycombinator.com/item?id=43026302"
+    ],
+    [
+      "Ignorance is bliss when you're drowning in information",
+      "https://www.theregister.com/2025/02/12/ignorance_really_is_bliss/"
+    ]
+  ],
+  [
+    [
+      "2025-02-12, 15:06:37",
+      "https://news.ycombinator.com/item?id=43026087"
+    ],
+    [
+      "Dose-dependent effects of LSD in double-blind placebo-controlled study (2020)",
+      "https://www.nature.com/articles/s41386-020-00883-6"
+    ]
+  ],
+  [
+    [
+      "2025-02-12, 15:05:17",
+      "https://news.ycombinator.com/item?id=43026071"
+    ],
+    [
+      "Improved evaluation times with pre-resolved Nix store paths",
+      "https://determinate.systems/posts/resolved-store-paths/"
+    ]
+  ],
+  [
+    [
+      "2025-02-12, 15:01:40",
+      "https://news.ycombinator.com/item?id=43026036"
+    ],
+    [
+      "PgAssistant: OSS tool to help devs understand and optimize PG performance",
+      "https://github.com/nexsol-technologies/pgassistant"
+    ]
+  ],
+  [
+    [
+      "2025-02-12, 12:58:13",
+      "https://news.ycombinator.com/item?id=43024961"
+    ],
+    [
+      "DeaDBeeF: The Ultimate Music Player",
+      "https://deadbeef.sourceforge.io/"
+    ]
+  ],
+  [
+    [
       "2025-02-12, 12:11:33",
       "https://news.ycombinator.com/item?id=43024540"
     ],
@@ -67,16 +117,6 @@
     [
       "Intensional Joy (a concatenative account of internal structure)",
       "https://pithlessly.github.io/intensionaljoy.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-12, 06:54:48",
-      "https://news.ycombinator.com/item?id=43022603"
-    ],
-    [
-      "Show HN: Release skies-adsb 2.0 – RTL-SDR ADS-B 3D plane tracking app",
-      "https://github.com/llopisdon/skies-adsb"
     ]
   ],
   [
@@ -151,32 +191,12 @@
   ],
   [
     [
-      "2025-02-11, 17:17:55",
-      "https://news.ycombinator.com/item?id=43015387"
-    ],
-    [
-      "JetBrains Fleet drops support for Kotlin Multiplatform",
-      "https://blog.jetbrains.com/kotlin/2025/02/kotlin-multiplatform-tooling-shifting-gears/"
-    ]
-  ],
-  [
-    [
       "2025-02-11, 17:08:35",
       "https://news.ycombinator.com/item?id=43015267"
     ],
     [
       "Launch HN: A0.dev (YC W25) – React Native App Generator",
       "https://news.ycombinator.com/item?id=43015267"
-    ]
-  ],
-  [
-    [
-      "2025-02-11, 16:01:19",
-      "https://news.ycombinator.com/item?id=43014418"
-    ],
-    [
-      "E Ink’s color ePaper tech gets supersized for outdoor displays",
-      "https://newatlas.com/technology/e-ink-kaleido-outdoor-3-75-inch-displays/"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-02-11, 01:42:59",
-      "https://news.ycombinator.com/item?id=43007982"
-    ],
-    [
-      "Down the rabbit hole: Implementing SSH port forwarding over AWS Session Manager",
-      "https://www.joinformal.com/blog/down-the-rabbit-hole-implementing-ssh-port-forwarding-over-aws-session-manager/"
-    ]
-  ],
-  [
-    [
       "2025-02-10, 15:32:48",
       "https://news.ycombinator.com/item?id=43001449"
     ],
@@ -231,6 +241,16 @@
   ],
   [
     [
+      "2025-02-10, 03:36:05",
+      "https://news.ycombinator.com/item?id=42996656"
+    ],
+    [
+      "The missing tier for query compilers",
+      "https://www.scattered-thoughts.net/writing/the-missing-tier-for-query-compilers/"
+    ]
+  ],
+  [
+    [
       "2025-02-09, 21:24:12",
       "https://news.ycombinator.com/item?id=42994149"
     ],
@@ -247,16 +267,6 @@
     [
       "Bad Smart Watch Authentication",
       "https://sprocketfox.io/xssfox/2025/02/09/ido/"
-    ]
-  ],
-  [
-    [
-      "2025-02-09, 15:00:37",
-      "https://news.ycombinator.com/item?id=42991062"
-    ],
-    [
-      "Sky skimmers: The race to fly satellites at the lowest orbits yet",
-      "https://www.bbc.com/future/article/20250207-sky-skimmers-the-race-to-send-satellites-into-very-low-earth-orbits"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Ohm: A user-friendly parsing toolkit for JavaScript and TypeScript",
       "https://ohmjs.org/"
-    ]
-  ],
-  [
-    [
-      "2025-02-07, 03:30:10",
-      "https://news.ycombinator.com/item?id=42969038"
-    ],
-    [
-      "Ancient-DNA study identifies originators of Indo-European language family",
-      "https://hms.harvard.edu/news/ancient-dna-study-identifies-originators-indo-european-language-family"
     ]
   ]
 ]
