@@ -5,18 +5,8 @@
       "https://news.ycombinator.com/item?id=43028200"
     ],
     [
-      "Are Efficiency and Horizontal Scalability at Odds?",
+      "Are efficiency and horizontal scalability at odds?",
       "https://buttondown.com/hillelwayne/archive/are-efficiency-and-horizontal-scalability-at-odds/"
-    ]
-  ],
-  [
-    [
-      "2025-02-12, 17:33:07",
-      "https://news.ycombinator.com/item?id=43027579"
-    ],
-    [
-      "The Hallucinatory Thoughts of the Dying Mind",
-      "https://nautil.us/the-hallucinatory-thoughts-of-the-dying-mind-1189807/"
     ]
   ],
   [
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=43026920"
     ],
     [
-      "The Prophet of Parking",
+      "The Prophet of Parking: A eulogy for the great Donald Shoup",
       "https://www.worksinprogress.news/p/the-prophet-of-parking"
     ]
   ],
@@ -191,6 +181,16 @@
   ],
   [
     [
+      "2025-02-12, 08:22:27",
+      "https://news.ycombinator.com/item?id=43023101"
+    ],
+    [
+      "Intensional Joy (a concatenative account of internal structure)",
+      "https://pithlessly.github.io/intensionaljoy.html"
+    ]
+  ],
+  [
+    [
       "2025-02-12, 03:51:37",
       "https://news.ycombinator.com/item?id=43021677"
     ],
@@ -217,6 +217,16 @@
     [
       "Show HN: Mapping the Unix Magic Poster – An Interactive Annotation Project",
       "https://drio.github.io/unixmagic/"
+    ]
+  ],
+  [
+    [
+      "2025-02-11, 17:08:35",
+      "https://news.ycombinator.com/item?id=43015267"
+    ],
+    [
+      "Launch HN: A0.dev (YC W25) – React Native App Generator",
+      "https://news.ycombinator.com/item?id=43015267"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Storytelling lessons I learned from Steve Jobs (2022)",
       "https://www.fastcompany.com/90747313/steve-jobs-lessons-tony-fadell-build-book-excerpt"
-    ]
-  ],
-  [
-    [
-      "2025-02-09, 02:00:06",
-      "https://news.ycombinator.com/item?id=42987848"
-    ],
-    [
-      "Automating the cleaning of macOS-specific ( ._ and .DS_Store) files on Eject",
-      "https://blog.gingerbeardman.com/2025/02/08/automating-the-cleaning-of-macos-specific-files-on-eject/"
     ]
   ]
 ]
