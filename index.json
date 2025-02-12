@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-12, 13:35:17",
+      "https://news.ycombinator.com/item?id=43025266"
+    ],
+    [
+      "Delivering Malware Through Abandoned Amazon S3 Buckets",
+      "https://www.schneier.com/blog/archives/2025/02/delivering-malware-through-abandoned-amazon-s3-buckets.html"
+    ]
+  ],
+  [
+    [
       "2025-02-12, 12:11:33",
       "https://news.ycombinator.com/item?id=43024540"
     ],
@@ -41,12 +51,32 @@
   ],
   [
     [
+      "2025-02-12, 09:24:08",
+      "https://news.ycombinator.com/item?id=43023508"
+    ],
+    [
+      "Smuggling arbitrary data through an emoji",
+      "https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/"
+    ]
+  ],
+  [
+    [
       "2025-02-12, 09:17:02",
       "https://news.ycombinator.com/item?id=43023464"
     ],
     [
       "Show HN: Mikey – No bot meeting notetaker for Windows",
       "https://github.com/hotrod462/Mikey"
+    ]
+  ],
+  [
+    [
+      "2025-02-12, 08:22:27",
+      "https://news.ycombinator.com/item?id=43023101"
+    ],
+    [
+      "Intensional Joy (a concatenative account of internal structure)",
+      "https://pithlessly.github.io/intensionaljoy.html"
     ]
   ],
   [
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2025-02-11, 20:56:21",
-      "https://news.ycombinator.com/item?id=43018251"
-    ],
-    [
-      "Thomson Reuters wins first major AI copyright case in the US",
-      "https://www.wired.com/story/thomson-reuters-ai-copyright-lawsuit/"
-    ]
-  ],
-  [
-    [
       "2025-02-11, 19:15:02",
       "https://news.ycombinator.com/item?id=43017010"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-02-11, 17:17:55",
-      "https://news.ycombinator.com/item?id=43015387"
-    ],
-    [
-      "JetBrains Fleet drops support for Kotlin Multiplatform",
-      "https://blog.jetbrains.com/kotlin/2025/02/kotlin-multiplatform-tooling-shifting-gears/"
-    ]
-  ],
-  [
-    [
       "2025-02-11, 17:08:35",
       "https://news.ycombinator.com/item?id=43015267"
     ],
@@ -167,16 +177,6 @@
     [
       "E Ink’s color ePaper tech gets supersized for outdoor displays",
       "https://newatlas.com/technology/e-ink-kaleido-outdoor-3-75-inch-displays/"
-    ]
-  ],
-  [
-    [
-      "2025-02-11, 16:00:59",
-      "https://news.ycombinator.com/item?id=43014408"
-    ],
-    [
-      "Intel's Battlemage Architecture",
-      "https://chipsandcheese.com/p/intels-battlemage-architecture"
     ]
   ],
   [
