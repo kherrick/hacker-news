@@ -55,6 +55,7 @@
 * [2025-02-09, 13:49:13](https://news.ycombinator.com/item?id=42990662) - [Definancialization / Hyperfinancialization](https://mylessnider.com/articles/definancialization-hyperfinancialization)
 * [2025-02-09, 13:29:01](https://news.ycombinator.com/item?id=42990546) - [Common Mistakes in Architecture Diagrams (2020)](https://www.ilograph.com/blog/posts/diagram-mistakes/)
 * [2025-02-09, 13:28:10](https://news.ycombinator.com/item?id=42990540) - [Show HN: My first side project, streamlined book clubs on Slack](https://booktalk.club/)
+* [2025-02-09, 13:22:22](https://news.ycombinator.com/item?id=42990512) - [Center for the Study of National Reconnaissance: Corona Satellite (2013) [pdf]](https://www.nro.gov/Portals/65/documents/history/csnr/corona/The%20CORONA%20Story.pdf)
 * [2025-02-09, 13:01:21](https://news.ycombinator.com/item?id=42990401) - [Frontier AI systems have surpassed the self-replicating red line](https://arxiv.org/abs/2412.12140)
 * [2025-02-09, 12:49:48](https://news.ycombinator.com/item?id=42990351) - [Show HN: AI driven calendar to combat student procrastination](https://www.ocal.ai/)
 * [2025-02-09, 12:42:54](https://news.ycombinator.com/item?id=42990324) - [Don't \"optimize\" conditional moves in shaders with mix()+step()](https://iquilezles.org/articles/gpuconditionals/)
