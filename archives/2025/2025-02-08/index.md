@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-08](index.md)
 
+* [2025-02-08, 22:11:05](https://news.ycombinator.com/item?id=42986629) - [Show HN: App that simulates a software engineer's daily job](https://mock-job-mentor.vercel.app/dashboard)
 * [2025-02-08, 22:08:07](https://news.ycombinator.com/item?id=42986613) - [Deep Fake Detector Extension by Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/deep-fake-detector/)
 * [2025-02-08, 22:00:21](https://news.ycombinator.com/item?id=42986558) - [Show HN: Turn Screenshots into Designs Instantly](https://getklippy.com)
 * [2025-02-08, 21:49:51](https://news.ycombinator.com/item?id=42986485) - [Is Software Abstraction Killing Civilization? (2021)](https://datagubbe.se/endofciv/)
