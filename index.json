@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-02-12, 16:32:37",
+      "https://news.ycombinator.com/item?id=43026934"
+    ],
+    [
+      "How Nissan and Honda's $60B merger talks collapsed",
+      "https://www.reuters.com/markets/deals/inside-collapse-nissan-hondas-60-billion-mega-deal-2025-02-12/"
+    ]
+  ],
+  [
+    [
       "2025-02-12, 16:31:04",
       "https://news.ycombinator.com/item?id=43026920"
     ],
@@ -77,6 +87,16 @@
     [
       "PgAssistant: OSS tool to help devs understand and optimize PG performance",
       "https://github.com/nexsol-technologies/pgassistant"
+    ]
+  ],
+  [
+    [
+      "2025-02-12, 14:17:48",
+      "https://news.ycombinator.com/item?id=43025645"
+    ],
+    [
+      "Visualizing Data Is an Art – We Should Treat It Like One",
+      "https://perthirtysix.com/visualizing-data-is-an-art"
     ]
   ],
   [
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2025-02-11, 22:46:31",
-      "https://news.ycombinator.com/item?id=43019352"
-    ],
-    [
-      "A Year of Telepathy",
-      "https://neuralink.com/blog/a-year-of-telepathy/"
-    ]
-  ],
-  [
-    [
       "2025-02-11, 22:22:37",
       "https://news.ycombinator.com/item?id=43019136"
     ],
     [
       "Show HN: Mapping the Unix Magic Poster – An Interactive Annotation Project",
       "https://drio.github.io/unixmagic/"
-    ]
-  ],
-  [
-    [
-      "2025-02-11, 19:15:02",
-      "https://news.ycombinator.com/item?id=43017010"
-    ],
-    [
-      "The subtle art of designing physical controls for cars",
-      "https://www.theturnsignalblog.com/the-subtle-art-of-designing-physical-control-for-cars/"
     ]
   ],
   [
@@ -237,16 +237,6 @@
     [
       "Backblaze Drive Stats for 2024",
       "https://www.backblaze.com/blog/backblaze-drive-stats-for-2024/"
-    ]
-  ],
-  [
-    [
-      "2025-02-10, 15:32:48",
-      "https://news.ycombinator.com/item?id=43001449"
-    ],
-    [
-      "The problem with MySQL foreign key constraints in Online Schema Changes (2021)",
-      "https://code.openark.org/blog/mysql/the-problem-with-mysql-foreign-key-constraints-in-online-schema-changes"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Storytelling lessons I learned from Steve Jobs (2022)",
       "https://www.fastcompany.com/90747313/steve-jobs-lessons-tony-fadell-build-book-excerpt"
+    ]
+  ],
+  [
+    [
+      "2025-02-09, 02:00:06",
+      "https://news.ycombinator.com/item?id=42987848"
+    ],
+    [
+      "Automating the cleaning of macOS-specific ( ._ and .DS_Store) files on Eject",
+      "https://blog.gingerbeardman.com/2025/02/08/automating-the-cleaning-of-macos-specific-files-on-eject/"
     ]
   ]
 ]
