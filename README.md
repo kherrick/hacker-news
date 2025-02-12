@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-12, 02:07:52](https://news.ycombinator.com/item?id=43020983) - [The year I didn't survive](https://bessstillman.substack.com/p/the-year-i-didnt-survive)
 * [2025-02-12, 01:24:51](https://news.ycombinator.com/item?id=43020684) - [WASM will replace containers](https://creston.blog/wasm-will-replace-containers/)
-* [2025-02-12, 00:33:51](https://news.ycombinator.com/item?id=43020273) - [Hackers leak cop manuals for departments after breaching major provider](https://www.dailydot.com/debug/lexipol-data-leak-puppygirl-hacker-polycule/)
 * [2025-02-12, 00:23:16](https://news.ycombinator.com/item?id=43020180) - [JJ Cheat Sheet](https://justinpombrio.net/2025/02/11/jj-cheat-sheet.html)
 * [2025-02-11, 22:46:31](https://news.ycombinator.com/item?id=43019352) - [A Year of Telepathy](https://neuralink.com/blog/a-year-of-telepathy/)
 * [2025-02-11, 21:31:43](https://news.ycombinator.com/item?id=43018643) - [NOAA's public weather data powers the local forecasts on your phone and TV](https://theconversation.com/noaas-vast-public-weather-data-powers-the-local-forecasts-on-your-phone-and-tv-a-private-company-alone-couldnt-match-it-249451)
@@ -17,7 +17,6 @@
 * [2025-02-11, 17:34:31](https://news.ycombinator.com/item?id=43015585) - [Postmortem: The singular design of Namco's Katamari Damacy (2004)](https://www.gamedeveloper.com/design/postmortem-the-singular-design-of-namco-s-katamari-damacy-2004-)
 * [2025-02-11, 17:17:55](https://news.ycombinator.com/item?id=43015387) - [JetBrains Fleet drops support for Kotlin Multiplatform](https://blog.jetbrains.com/kotlin/2025/02/kotlin-multiplatform-tooling-shifting-gears/)
 * [2025-02-11, 17:08:35](https://news.ycombinator.com/item?id=43015267) - [Launch HN: A0.dev (YC W25) – React Native App Generator](https://news.ycombinator.com/item?id=43015267)
-* [2025-02-11, 16:40:20](https://news.ycombinator.com/item?id=43014918) - [LLMs can teach themselves to better predict the future](https://arxiv.org/abs/2502.05253)
 * [2025-02-11, 16:01:19](https://news.ycombinator.com/item?id=43014418) - [E Ink's color ePaper tech gets supersized for outdoor displays](https://newatlas.com/technology/e-ink-kaleido-outdoor-3-75-inch-displays/)
 * [2025-02-11, 15:08:08](https://news.ycombinator.com/item?id=43013615) - [I tasted Honda's spicy rodent-repelling tape and I will do it again (2021)](https://haterade.substack.com/p/i-tasted-hondas-spicy-rodent-repelling)
 * [2025-02-11, 14:55:45](https://news.ycombinator.com/item?id=43013431) - [Backblaze Drive Stats for 2024](https://www.backblaze.com/blog/backblaze-drive-stats-for-2024/)
@@ -30,6 +29,7 @@
 * [2025-02-09, 15:00:37](https://news.ycombinator.com/item?id=42991062) - [Sky skimmers: The race to fly satellites at the lowest orbits yet](https://www.bbc.com/future/article/20250207-sky-skimmers-the-race-to-send-satellites-into-very-low-earth-orbits)
 * [2025-02-08, 16:04:06](https://news.ycombinator.com/item?id=42983835) - [No Way Home](https://literaryreview.co.uk/no-way-home)
 * [2025-02-08, 13:15:26](https://news.ycombinator.com/item?id=42982755) - [Ohm: A user-friendly parsing toolkit for JavaScript and TypeScript](https://ohmjs.org/)
+* [2025-02-07, 03:30:10](https://news.ycombinator.com/item?id=42969038) - [Ancient-DNA study identifies originators of Indo-European language family](https://hms.harvard.edu/news/ancient-dna-study-identifies-originators-indo-european-language-family)
 
 ## [Archives](archives/index.md)
 
