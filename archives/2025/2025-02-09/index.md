@@ -52,6 +52,7 @@
 * [2025-02-09, 14:16:40](https://news.ycombinator.com/item?id=42990819) - [Baffled by generational garbage collection – wingolog](https://wingolog.org/archives/2025/02/09/baffled-by-generational-garbage-collection)
 * [2025-02-09, 14:01:08](https://news.ycombinator.com/item?id=42990739) - [Extend Extra Extreme: keyboard extend layer mappings](https://dreymar.colemak.org/layers-extend.html)
 * [2025-02-09, 13:55:40](https://news.ycombinator.com/item?id=42990704) - [Mac(OS)talgia](https://swallowmygraphicdesign.com/project/macostalgia)
+* [2025-02-09, 13:54:50](https://news.ycombinator.com/item?id=42990701) - [Compiling Array Languages for SIMD [pdf]](http://vmchale.com/static/serve/simd.pdf)
 * [2025-02-09, 13:49:13](https://news.ycombinator.com/item?id=42990662) - [Definancialization / Hyperfinancialization](https://mylessnider.com/articles/definancialization-hyperfinancialization)
 * [2025-02-09, 13:29:01](https://news.ycombinator.com/item?id=42990546) - [Common Mistakes in Architecture Diagrams (2020)](https://www.ilograph.com/blog/posts/diagram-mistakes/)
 * [2025-02-09, 13:28:10](https://news.ycombinator.com/item?id=42990540) - [Show HN: My first side project, streamlined book clubs on Slack](https://booktalk.club/)
