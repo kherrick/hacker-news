@@ -81,4 +81,5 @@
 * [2025-02-09, 03:54:04](https://news.ycombinator.com/item?id=42988303) - [Brain Hyperconnectivity in Children with Autism and Its Links to Social Deficits](https://www.cell.com/cell-reports/fulltext/S2211-1247(13)00570-6)
 * [2025-02-09, 03:18:32](https://news.ycombinator.com/item?id=42988158) - [Retaking the Web Browser, One Small Step at a Time](https://andregarzia.com/2025/02/retaking-the-web-browser-one-small-step-at-a-time.html)
 * [2025-02-09, 03:07:31](https://news.ycombinator.com/item?id=42988109) - [Boeing has informed its employees that NASA may cancel SLS contracts](https://arstechnica.com/space/2025/02/boeing-has-informed-its-employees-that-nasa-may-cancel-sls-contracts/)
+* [2025-02-09, 02:00:06](https://news.ycombinator.com/item?id=42987848) - [Automating the cleaning of macOS-specific ( ._ and .DS_Store) files on Eject](https://blog.gingerbeardman.com/2025/02/08/automating-the-cleaning-of-macos-specific-files-on-eject/)
 * [2025-02-09, 01:20:04](https://news.ycombinator.com/item?id=42987646) - [Emergence of collective oscillations in human crowds](https://www.nature.com/articles/s41586-024-08514-6)
