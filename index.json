@@ -75,18 +75,8 @@
       "https://news.ycombinator.com/item?id=43026590"
     ],
     [
-      "100 Most-Watched Software Engineering Talks of 2024",
+      "Most-Watched Software Engineering Talks of 2024",
       "https://www.techtalksweekly.io/p/100-most-watched-software-engineering"
-    ]
-  ],
-  [
-    [
-      "2025-02-12, 15:08:25",
-      "https://news.ycombinator.com/item?id=43026104"
-    ],
-    [
-      "Syd: An Introduction to Secure Application Sandboxing for Linux [video]",
-      "https://fosdem.org/2025/schedule/event/fosdem-2025-4176-syd-an-introduction-to-secure-application-sandboxing-for-linux/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Backblaze Drive Stats for 2024",
       "https://www.backblaze.com/blog/backblaze-drive-stats-for-2024/"
+    ]
+  ],
+  [
+    [
+      "2025-02-11, 03:25:25",
+      "https://news.ycombinator.com/item?id=43008587"
+    ],
+    [
+      "Show HN: Sort lines semantically using llm-sort",
+      "https://github.com/vagos/llm-sort"
     ]
   ],
   [
