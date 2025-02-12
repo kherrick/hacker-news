@@ -42,6 +42,7 @@
 * [2025-02-09, 16:33:28](https://news.ycombinator.com/item?id=42991676) - [LIMO: Less Is More for Reasoning](https://arxiv.org/abs/2502.03387)
 * [2025-02-09, 16:17:01](https://news.ycombinator.com/item?id=42991558) - [Advanced Magnet Manufacturing Begins in the United States](https://spectrum.ieee.org/advanced-magnet-manufacturing-in-us)
 * [2025-02-09, 15:26:58](https://news.ycombinator.com/item?id=42991222) - [Scaling with PostgreSQL without boiling the ocean](https://www.shayon.dev/post/2025/40/scaling-with-postgresql-without-boiling-the-ocean/)
+* [2025-02-09, 15:00:37](https://news.ycombinator.com/item?id=42991062) - [Sky skimmers: The race to fly satellites at the lowest orbits yet](https://www.bbc.com/future/article/20250207-sky-skimmers-the-race-to-send-satellites-into-very-low-earth-orbits)
 * [2025-02-09, 14:52:54](https://news.ycombinator.com/item?id=42991019) - [Kanata: Cross-platform multi-layer keyboard remapper with advanced customization](https://github.com/jtroo/kanata)
 * [2025-02-09, 14:50:11](https://news.ycombinator.com/item?id=42991006) - [Hard disk fraud: long runtimes on new Seagate hard disks](https://www.heise.de/en/news/Hard-disk-fraud-Increasing-evidence-of-origin-in-China-10269059.html)
 * [2025-02-09, 14:38:52](https://news.ycombinator.com/item?id=42990948) - [How (not) to sign a JSON object (2019)](https://www.latacora.com/blog/2019/07/24/how-not-to/)
