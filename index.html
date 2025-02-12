@@ -129,6 +129,26 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="43030556">
+          <h3>
+            <a class="item" href="https://www.chrbutler.com/the-productive-void"
+              >What enabled us to create AI is the thing it has the power to
+              erase</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-02-12 @ 22:41:08</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43030556"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="43030388">
           <h3>
             <a
@@ -141,11 +161,11 @@
             <h4>
               <span>2025-02-12 @ 22:20:19</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43030388"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -160,7 +180,7 @@
             <h4>
               <span>2025-02-12 @ 20:55:12</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43029686"
                   >Comments</a
@@ -188,11 +208,11 @@
             <h4>
               <span>2025-02-12 @ 20:34:41</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43029474"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -207,13 +227,103 @@
             <h4>
               <span>2025-02-12 @ 20:24:59</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43029385"
                   >Comments</a
                 ><span class="descendants">: 7</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="43029089">
+          <h3>
+            <a class="item" href="https://jsr.io/@fullsoak/fullsoak"
+              >Show HN: A no-build fullstack SSR TypeScript web framework</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-02-12 @ 19:54:52</span
+              ><span class="points-container"
+                >Points: <span class="points">49</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43029089"
+                  >Comments</a
+                ><span class="descendants">: 42</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I'd love to seek your insights on a fullstack web framework that
+                employs a different approach: no build.
+              </p>
+              <p>
+                It's not a new concept. The folks as Preact mentioned it:
+                <a href="https://preactjs.com/guide/v10/no-build-workflows/"
+                  >https://preactjs.com/guide/v10/no-build-workflows/</a
+                >
+              </p>
+              <p>
+                However, in the Web Framework market, I've yet to find many that
+                support both "no build" and "SSR". There's always some sorts of
+                "client mount" and "server mount" and either has (or both have)
+                to go through a build (bundling) process.
+              </p>
+              <p>
+                With the build process, there comes additional maintenance
+                efforts and cognitive load. I've enjoyed wrestling with
+                tsconfig, webpack config, all sorts of presets and plugins
+                countless times... When things work, they just work, but when we
+                need sth a bit custom or unconventional, then we're almost
+                always in for a tough ride. (or it's just me )
+              </p>
+              <p>
+                Not to say I'm against any existing build workflow. In fact I
+                benefited a lot in the past from webpack, and i'm very positive
+                about modern bundlers like Parcel 2, Turbopack, rspack, etc.
+              </p>
+              <p>
+                I just feel it'd be fair to save some slots for the "no build"
+                route :)
+              </p>
+              <p>
+                To this end, I spent the last month working on a prototype of a
+                TypeScript fullstack SSR web framework. It's compatible with
+                Deno and Bun runtimes. I'd love to make it compatible with
+                Node.js as well (at some point).
+              </p>
+              <p>
+                The framework registry page (<a
+                  href="https://jsr.io/@fullsoak/fullsoak"
+                  >https://jsr.io/@fullsoak/fullsoak</a
+                >) summarizes the motives expressed so far.
+              </p>
+              <p>
+                An example deployment is available at:
+                <a href="https://fullsoak.onrender.com/app"
+                  >https://fullsoak.onrender.com/app</a
+                >
+              </p>
+              <p>
+                The code behind the deployment above:
+                <a href="https://github.com/fullsoak/bun-examples"
+                  >https://github.com/fullsoak/bun-examples</a
+                >
+              </p>
+              <p>
+                PS: you may see Preact being used &amp; mentioned everywhere but
+                I'm positive that React is 100% supported as well (just drop-in
+                &amp; use). I just happened to choose Preact to experience it
+                more for myself.
+              </p>
+              <p>
+                I look forward to your thoughts :) and learning if this might
+                (or might not) be a feasible idea at scale. And perhaps, which
+                future directions you would see this (or something like it)
+                goes. Thank you much for any insight!
+              </p>
+            </div>
           </section>
         </section>
         <section id="43028468">
@@ -224,11 +334,11 @@
             <h4>
               <span>2025-02-12 @ 18:54:35</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43028468"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -265,7 +375,7 @@
             <h4>
               <span>2025-02-12 @ 18:14:34</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43028057"
                   >Comments</a
@@ -286,7 +396,7 @@
             <h4>
               <span>2025-02-12 @ 17:11:25</span
               ><span class="points-container"
-                >Points: <span class="points">148</span></span
+                >Points: <span class="points">149</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43027335"
                   >Comments</a
@@ -336,11 +446,11 @@
             <h4>
               <span>2025-02-12 @ 17:04:22</span
               ><span class="points-container"
-                >Points: <span class="points">126</span></span
+                >Points: <span class="points">127</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43027266"
                   >Comments</a
-                ><span class="descendants">: 181</span></span
+                ><span class="descendants">: 184</span></span
               >
             </h4>
           </section>
@@ -374,11 +484,11 @@
             <h4>
               <span>2025-02-12 @ 16:52:57</span
               ><span class="points-container"
-                >Points: <span class="points">145</span></span
+                >Points: <span class="points">147</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43027150"
                   >Comments</a
-                ><span class="descendants">: 76</span></span
+                ><span class="descendants">: 78</span></span
               >
             </h4>
           </section>
@@ -395,11 +505,11 @@
             <h4>
               <span>2025-02-12 @ 16:32:37</span
               ><span class="points-container"
-                >Points: <span class="points">69</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43026934"
                   >Comments</a
-                ><span class="descendants">: 80</span></span
+                ><span class="descendants">: 85</span></span
               >
             </h4>
           </section>
@@ -416,7 +526,7 @@
             <h4>
               <span>2025-02-12 @ 16:31:04</span
               ><span class="points-container"
-                >Points: <span class="points">160</span></span
+                >Points: <span class="points">162</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43026920"
                   >Comments</a
@@ -459,11 +569,11 @@
             <h4>
               <span>2025-02-12 @ 14:17:48</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43025645"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -478,11 +588,11 @@
             <h4>
               <span>2025-02-12 @ 12:58:13</span
               ><span class="points-container"
-                >Points: <span class="points">108</span></span
+                >Points: <span class="points">109</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43024961"
                   >Comments</a
-                ><span class="descendants">: 80</span></span
+                ><span class="descendants">: 82</span></span
               >
             </h4>
           </section>
@@ -520,7 +630,7 @@
             <h4>
               <span>2025-02-12 @ 11:19:42</span
               ><span class="points-container"
-                >Points: <span class="points">1159</span></span
+                >Points: <span class="points">1166</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43024221"
                   >Comments</a
@@ -542,7 +652,7 @@
             <h4>
               <span>2025-02-12 @ 11:11:38</span
               ><span class="points-container"
-                >Points: <span class="points">118</span></span
+                >Points: <span class="points">119</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43024173"
                   >Comments</a
@@ -562,11 +672,11 @@
             <h4>
               <span>2025-02-12 @ 10:22:21</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43023875"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
             <div class="text">
@@ -578,25 +688,6 @@
                 >.
               </p>
             </div>
-          </section>
-        </section>
-        <section id="43023634">
-          <h3>
-            <a class="item" href="https://arxiv.org/abs/2111.12800"
-              >Tiny Pointers</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-02-12 @ 09:43:48</span
-              ><span class="points-container"
-                >Points: <span class="points">111</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43023634"
-                  >Comments</a
-                ><span class="descendants">: 32</span></span
-              >
-            </h4>
           </section>
         </section>
         <section id="43023554">
@@ -611,11 +702,11 @@
             <h4>
               <span>2025-02-12 @ 09:33:29</span
               ><span class="points-container"
-                >Points: <span class="points">210</span></span
+                >Points: <span class="points">212</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43023554"
                   >Comments</a
-                ><span class="descendants">: 455</span></span
+                ><span class="descendants">: 460</span></span
               >
             </h4>
           </section>
@@ -632,7 +723,7 @@
             <h4>
               <span>2025-02-12 @ 09:24:08</span
               ><span class="points-container"
-                >Points: <span class="points">374</span></span
+                >Points: <span class="points">375</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43023508"
                   >Comments</a
@@ -725,11 +816,11 @@
             <h4>
               <span>2025-02-12 @ 02:07:52</span
               ><span class="points-container"
-                >Points: <span class="points">846</span></span
+                >Points: <span class="points">848</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43020983"
                   >Comments</a
-                ><span class="descendants">: 218</span></span
+                ><span class="descendants">: 220</span></span
               >
             </h4>
           </section>
@@ -744,32 +835,11 @@
             <h4>
               <span>2025-02-10 @ 12:48:58</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42999635"
                   >Comments</a
                 ><span class="descendants">: 31</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="42996656">
-          <h3>
-            <a
-              class="item"
-              href="https://www.scattered-thoughts.net/writing/the-missing-tier-for-query-compilers/"
-              >The missing tier for query compilers</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-02-10 @ 03:36:05</span
-              ><span class="points-container"
-                >Points: <span class="points">69</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=42996656"
-                  >Comments</a
-                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -803,7 +873,7 @@
             <h4>
               <span>2025-02-09 @ 13:54:50</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42990701"
                   >Comments</a
@@ -824,7 +894,7 @@
             <h4>
               <span>2025-02-09 @ 09:56:13</span
               ><span class="points-container"
-                >Points: <span class="points">82</span></span
+                >Points: <span class="points">84</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=42989666"
                   >Comments</a
