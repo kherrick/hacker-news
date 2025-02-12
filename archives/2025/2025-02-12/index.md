@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-12](index.md)
 
+* [2025-02-12, 08:50:08](https://news.ycombinator.com/item?id=43023283) - [Git clone –depth 2 is vastly better than –depth 1 if you want to Git push later](https://stackoverflow.com/questions/66431436/pushing-to-github-after-a-shallow-clone-is-horribly-slow)
 * [2025-02-12, 08:28:23](https://news.ycombinator.com/item?id=43023141) - [A gracious end to Webb-site](https://webb-site.com/articles/shutdown.asp)
 * [2025-02-12, 08:23:30](https://news.ycombinator.com/item?id=43023110) - [Tesla sales dropped 60% in Germany](https://electrek.co/2025/02/05/tesla-sales-dropped-60-in-germany/)
 * [2025-02-12, 06:10:25](https://news.ycombinator.com/item?id=43022398) - [ElevenReader by ElevenLabs](https://elevenreader.io)

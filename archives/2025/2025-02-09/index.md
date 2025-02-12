@@ -41,6 +41,7 @@
 * [2025-02-09, 16:44:03](https://news.ycombinator.com/item?id=42991750) - [CFPB 404: Page not found](https://www.consumerfinance.gov/)
 * [2025-02-09, 16:33:28](https://news.ycombinator.com/item?id=42991676) - [LIMO: Less Is More for Reasoning](https://arxiv.org/abs/2502.03387)
 * [2025-02-09, 16:17:01](https://news.ycombinator.com/item?id=42991558) - [Advanced Magnet Manufacturing Begins in the United States](https://spectrum.ieee.org/advanced-magnet-manufacturing-in-us)
+* [2025-02-09, 15:54:36](https://news.ycombinator.com/item?id=42991403) - [A quick review of file watchers](https://anarc.at/blog/2019-11-20-file-monitoring-tools/)
 * [2025-02-09, 15:26:58](https://news.ycombinator.com/item?id=42991222) - [Scaling with PostgreSQL without boiling the ocean](https://www.shayon.dev/post/2025/40/scaling-with-postgresql-without-boiling-the-ocean/)
 * [2025-02-09, 15:00:37](https://news.ycombinator.com/item?id=42991062) - [Sky skimmers: The race to fly satellites at the lowest orbits yet](https://www.bbc.com/future/article/20250207-sky-skimmers-the-race-to-send-satellites-into-very-low-earth-orbits)
 * [2025-02-09, 14:52:54](https://news.ycombinator.com/item?id=42991019) - [Kanata: Cross-platform multi-layer keyboard remapper with advanced customization](https://github.com/jtroo/kanata)
