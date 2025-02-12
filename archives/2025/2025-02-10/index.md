@@ -30,6 +30,7 @@
 * [2025-02-10, 16:58:20](https://news.ycombinator.com/item?id=43002426) - [A story about USB floppy drives (2004)](https://devblogs.microsoft.com/oldnewthing/20040409-00/?p=39873)
 * [2025-02-10, 16:31:59](https://news.ycombinator.com/item?id=43002130) - [Earth's inner core may have changed shape, say scientists](https://www.bbc.co.uk/news/articles/c4gx37ky3gyo)
 * [2025-02-10, 15:54:45](https://news.ycombinator.com/item?id=43001688) - [Show HN: Global 3D Topography Explorer](https://topography.jessekv.com)
+* [2025-02-10, 15:32:48](https://news.ycombinator.com/item?id=43001449) - [The problem with MySQL foreign key constraints in Online Schema Changes (2021)](https://code.openark.org/blog/mysql/the-problem-with-mysql-foreign-key-constraints-in-online-schema-changes)
 * [2025-02-10, 15:32:10](https://news.ycombinator.com/item?id=43001441) - [Bank CEO: Retract your debanking piece? Me: No](https://www.kalzumeus.com/2025/02/10/retraction-request-denied/)
 * [2025-02-10, 14:38:29](https://news.ycombinator.com/item?id=43000792) - [Ask HN: Physics PhD at Stanford or Berkeley](https://news.ycombinator.com/item?id=43000792)
 * [2025-02-10, 14:14:22](https://news.ycombinator.com/item?id=43000529) - [The Anthropic Economic Index](https://www.anthropic.com/news/the-anthropic-economic-index)
