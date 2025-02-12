@@ -87,6 +87,7 @@
 * [2025-02-11, 02:13:56](https://news.ycombinator.com/item?id=43008190) - [We replaced our React front end with Go and WebAssembly](https://dagger.io/blog/replaced-react-with-go)
 * [2025-02-11, 02:05:35](https://news.ycombinator.com/item?id=43008144) - [SolarWinds to Be Acquired by Turn/River Capital](https://investors.solarwinds.com/news/news-details/2025/SolarWinds-to-Be-Acquired-by-TurnRiver-Capital/default.aspx)
 * [2025-02-11, 01:50:21](https://news.ycombinator.com/item?id=43008048) - [Elementary Functions and Not Following the IEEE754 Floating-Point Standard(2020)](http://www.hlsl.co.uk/blog/2020/1/29/ieee754-is-not-followed)
+* [2025-02-11, 01:42:59](https://news.ycombinator.com/item?id=43007982) - [Down the rabbit hole: Implementing SSH port forwarding over AWS Session Manager](https://www.joinformal.com/blog/down-the-rabbit-hole-implementing-ssh-port-forwarding-over-aws-session-manager/)
 * [2025-02-11, 01:29:56](https://news.ycombinator.com/item?id=43007862) - [Danes sign petition to buy California from U.S.](https://ktla.com/news/california/thousands-of-danes-sign-petition-to-buy-california-from-u-s/amp/)
 * [2025-02-11, 01:19:14](https://news.ycombinator.com/item?id=43007769) - [How Copyover MUD Servers Worked](http://jackkelly.name/blog/archives/2025/02/06/how_copyover_mud_servers_worked/)
 * [2025-02-11, 01:02:48](https://news.ycombinator.com/item?id=43007628) - [The Floppotron 3.0 (2022)](https://silent.org.pl/home/2022/06/13/the-floppotron-3-0/)
