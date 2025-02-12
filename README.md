@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-12, 05:52:15](https://news.ycombinator.com/item?id=43022307) - [Parents were injured in a Tesla crash. She ended up having to pay Tesla damages](https://apnews.com/article/tesla-china-lawsuits-musk-investigation-58b10ccace488784fcc63646ab78b410)
 * [2025-02-12, 03:51:37](https://news.ycombinator.com/item?id=43021677) - [I wrote a static web page and accidentally started a community (2023)](https://localfirstweb.dev/blog/2023-05-29-i-wrote-a-static-web-page)
 * [2025-02-12, 03:45:06](https://news.ycombinator.com/item?id=43021643) - [No longer writing my own damn HTML](https://claytonwramsey.com/blog/no-html/)
 * [2025-02-12, 03:26:46](https://news.ycombinator.com/item?id=43021515) - [jj: a Git-compatible VCS that is both simple and powerful](https://github.com/jj-vcs/jj)
@@ -22,7 +23,6 @@
 * [2025-02-11, 16:00:59](https://news.ycombinator.com/item?id=43014408) - [Intel's Battlemage Architecture](https://chipsandcheese.com/p/intels-battlemage-architecture)
 * [2025-02-11, 15:08:08](https://news.ycombinator.com/item?id=43013615) - [I tasted Honda's spicy rodent-repelling tape and I will do it again (2021)](https://haterade.substack.com/p/i-tasted-hondas-spicy-rodent-repelling)
 * [2025-02-11, 14:55:45](https://news.ycombinator.com/item?id=43013431) - [Backblaze Drive Stats for 2024](https://www.backblaze.com/blog/backblaze-drive-stats-for-2024/)
-* [2025-02-11, 07:21:21](https://news.ycombinator.com/item?id=43009952) - [Ways to generate SSA](https://bernsteinbear.com/blog/ssa/)
 * [2025-02-10, 12:44:27](https://news.ycombinator.com/item?id=42999598) - [Durable plastic gets a sustainability makeover in novel polymerization process](https://phys.org/news/2025-01-durable-plastic-sustainability-makeover-polymerization.html)
 * [2025-02-10, 05:57:53](https://news.ycombinator.com/item?id=42997344) - [The Pinball Philosophy (1975)](https://pinballnirvana.com/forums/threads/the-pinball-philosophy-john-mcphee-1975.22239/)
 * [2025-02-09, 22:12:01](https://news.ycombinator.com/item?id=42994590) - [Smoke in the cabin of two 737 MAX caused by Load Reduction Device system [video]](https://www.youtube.com/watch?v=swlVkYVSlIE)
