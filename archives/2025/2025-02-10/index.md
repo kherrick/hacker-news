@@ -43,6 +43,7 @@
 * [2025-02-10, 12:54:51](https://news.ycombinator.com/item?id=42999672) - [Python 3.14 Getting New Interpreter](https://docs.python.org/3.14/whatsnew/3.14.html#whatsnew314-tail-call)
 * [2025-02-10, 12:53:20](https://news.ycombinator.com/item?id=42999661) - [Steam makes its ban on in-game ads explicit](https://www.pcgamer.com/gaming-industry/valve-bans-games-that-rely-on-in-game-ads-from-steam-so-no-watch-this-to-continue-playing-stuff-will-be-making-its-way-to-our-pcs/)
 * [2025-02-10, 12:51:34](https://news.ycombinator.com/item?id=42999650) - [What about K?](https://xpqz.github.io/kbook/Introduction.html)
+* [2025-02-10, 12:48:58](https://news.ycombinator.com/item?id=42999635) - [iOS indie app development looks like](https://safespace.is/blog/villain-era-part-1)
 * [2025-02-10, 12:48:24](https://news.ycombinator.com/item?id=42999632) - [AI Tool Found My Autoimmune Disease After $100k and 30 Hospital Visits](https://old.reddit.com/r/selfhosted/comments/1ij7s4m/how_i_built_an_open_source_ai_tool_to_find_my/)
 * [2025-02-10, 12:44:27](https://news.ycombinator.com/item?id=42999598) - [Durable plastic gets a sustainability makeover in novel polymerization process](https://phys.org/news/2025-01-durable-plastic-sustainability-makeover-polymerization.html)
 * [2025-02-10, 12:38:08](https://news.ycombinator.com/item?id=42999561) - [Advertising Is a Cancer on Society](https://jacek.zlydach.pl/blog/2019-07-31-ads-as-cancer.html)
