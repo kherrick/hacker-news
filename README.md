@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-12, 05:52:15](https://news.ycombinator.com/item?id=43022307) - [Parents were injured in a Tesla crash. She ended up having to pay Tesla damages](https://apnews.com/article/tesla-china-lawsuits-musk-investigation-58b10ccace488784fcc63646ab78b410)
+* [2025-02-12, 05:10:09](https://news.ycombinator.com/item?id=43022098) - [No Longer Posting to Pinboard](https://www.gyford.com/phil/writing/2025/02/10/no-longer-pinboard/)
 * [2025-02-12, 03:51:37](https://news.ycombinator.com/item?id=43021677) - [I wrote a static web page and accidentally started a community (2023)](https://localfirstweb.dev/blog/2023-05-29-i-wrote-a-static-web-page)
 * [2025-02-12, 03:45:06](https://news.ycombinator.com/item?id=43021643) - [No longer writing my own damn HTML](https://claytonwramsey.com/blog/no-html/)
 * [2025-02-12, 03:26:46](https://news.ycombinator.com/item?id=43021515) - [jj: a Git-compatible VCS that is both simple and powerful](https://github.com/jj-vcs/jj)
@@ -12,9 +13,7 @@
 * [2025-02-11, 21:00:32](https://news.ycombinator.com/item?id=43018293) - [Empirical Health (YC S23) Is Hiring Design Engineers in NYC](https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer)
 * [2025-02-11, 20:56:21](https://news.ycombinator.com/item?id=43018251) - [Thomson Reuters wins first major AI copyright case in the US](https://www.wired.com/story/thomson-reuters-ai-copyright-lawsuit/)
 * [2025-02-11, 20:11:37](https://news.ycombinator.com/item?id=43017739) - [Zeroperl: Sandboxing Perl with WebAssembly](https://andrews.substack.com/p/zeroperl-sandboxed-perl-with-webassembly)
-* [2025-02-11, 20:00:13](https://news.ycombinator.com/item?id=43017612) - [The first yearly drop in average CPU performance in its 20 years of benchmarks](https://www.tomshardware.com/pc-components/cpus/passmark-sees-the-first-yearly-drop-in-average-cpu-performance-in-its-20-years-of-benchmark-results)
 * [2025-02-11, 19:15:02](https://news.ycombinator.com/item?id=43017010) - [The subtle art of designing physical controls for cars](https://www.theturnsignalblog.com/the-subtle-art-of-designing-physical-control-for-cars/)
-* [2025-02-11, 18:30:13](https://news.ycombinator.com/item?id=43016353) - [Japan can be a science heavyweight once more if it rethinks funding](https://www.nature.com/articles/d41586-025-00394-8)
 * [2025-02-11, 18:23:03](https://news.ycombinator.com/item?id=43016248) - [Reviving the joy and honor of working with your hands (2015)](https://richmond.com/holmberg-reviving-the-joy-and-honor-of-working-with-your-hands-will-strengthen-our-nation/article_d8130166-855d-53b6-94e1-cb735edcd7cc.html)
 * [2025-02-11, 17:34:31](https://news.ycombinator.com/item?id=43015585) - [Postmortem: The singular design of Namco's Katamari Damacy (2004)](https://www.gamedeveloper.com/design/postmortem-the-singular-design-of-namco-s-katamari-damacy-2004-)
 * [2025-02-11, 17:17:55](https://news.ycombinator.com/item?id=43015387) - [JetBrains Fleet drops support for Kotlin Multiplatform](https://blog.jetbrains.com/kotlin/2025/02/kotlin-multiplatform-tooling-shifting-gears/)
@@ -27,7 +26,8 @@
 * [2025-02-10, 05:57:53](https://news.ycombinator.com/item?id=42997344) - [The Pinball Philosophy (1975)](https://pinballnirvana.com/forums/threads/the-pinball-philosophy-john-mcphee-1975.22239/)
 * [2025-02-09, 22:12:01](https://news.ycombinator.com/item?id=42994590) - [Smoke in the cabin of two 737 MAX caused by Load Reduction Device system [video]](https://www.youtube.com/watch?v=swlVkYVSlIE)
 * [2025-02-09, 15:00:37](https://news.ycombinator.com/item?id=42991062) - [Sky skimmers: The race to fly satellites at the lowest orbits yet](https://www.bbc.com/future/article/20250207-sky-skimmers-the-race-to-send-satellites-into-very-low-earth-orbits)
-* [2025-02-09, 11:53:31](https://news.ycombinator.com/item?id=42990103) - [Tony Fadell: Storytelling lessons I learned from Steve Jobs (2022)](https://www.fastcompany.com/90747313/steve-jobs-lessons-tony-fadell-build-book-excerpt)
+* [2025-02-09, 11:53:31](https://news.ycombinator.com/item?id=42990103) - [Storytelling lessons I learned from Steve Jobs (2022)](https://www.fastcompany.com/90747313/steve-jobs-lessons-tony-fadell-build-book-excerpt)
+* [2025-02-08, 21:11:20](https://news.ycombinator.com/item?id=42986241) - [Scientists invent \"slime\" – could be used in medical, energy, robot applications](https://www.lightsource.ca/public/news/2024-25-q4-jan-march/scientists-invent-slime-that-could-be-used-in-new-medical-green-energy-and-robot-applications.php)
 * [2025-02-08, 13:15:26](https://news.ycombinator.com/item?id=42982755) - [Ohm: A user-friendly parsing toolkit for JavaScript and TypeScript](https://ohmjs.org/)
 * [2025-02-07, 03:30:10](https://news.ycombinator.com/item?id=42969038) - [Ancient-DNA study identifies originators of Indo-European language family](https://hms.harvard.edu/news/ancient-dna-study-identifies-originators-indo-european-language-family)
 

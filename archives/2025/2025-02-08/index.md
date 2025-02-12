@@ -9,6 +9,7 @@
 * [2025-02-08, 21:49:51](https://news.ycombinator.com/item?id=42986485) - [Is Software Abstraction Killing Civilization? (2021)](https://datagubbe.se/endofciv/)
 * [2025-02-08, 21:24:18](https://news.ycombinator.com/item?id=42986335) - [Mark Zuckerberg messages Facebook engineer](https://twitter.com/TechEmails/status/1888313183024074910)
 * [2025-02-08, 21:22:49](https://news.ycombinator.com/item?id=42986320) - [Jacksonpollock.org](https://jacksonpollock.org/)
+* [2025-02-08, 21:11:20](https://news.ycombinator.com/item?id=42986241) - [Scientists invent \"slime\" – could be used in medical, energy, robot applications](https://www.lightsource.ca/public/news/2024-25-q4-jan-march/scientists-invent-slime-that-could-be-used-in-new-medical-green-energy-and-robot-applications.php)
 * [2025-02-08, 21:01:10](https://news.ycombinator.com/item?id=42986169) - [Keeling Labs (YC W23) Is Hiring an ML Engineer for Applied ML in the Grid](https://www.keelinglabs.com/jobs)
 * [2025-02-08, 20:58:17](https://news.ycombinator.com/item?id=42986149) - [Ada Gems (2014)](https://www.adacore.com/gems)
 * [2025-02-08, 20:03:23](https://news.ycombinator.com/item?id=42985749) - [Auto-Rewind for Daily Test (Apache NuttX RTOS)](https://lupyuen.org/articles/rewind.html)
