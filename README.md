@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-12, 20:24:59](https://news.ycombinator.com/item?id=43029385) - [Show HN: yknotify – Notify when YubiKey needs touch on macOS](https://github.com/noperator/yknotify)
 * [2025-02-12, 19:54:52](https://news.ycombinator.com/item?id=43029089) - [Show HN: A no-build fullstack SSR TypeScript web framework](https://jsr.io/@fullsoak/fullsoak)
 * [2025-02-12, 18:54:35](https://news.ycombinator.com/item?id=43028468) - [Imapsync](https://imapsync.lamiral.info/)
 * [2025-02-12, 18:27:41](https://news.ycombinator.com/item?id=43028200) - [Are efficiency and horizontal scalability at odds?](https://buttondown.com/hillelwayne/archive/are-efficiency-and-horizontal-scalability-at-odds/)
@@ -24,12 +25,11 @@
 * [2025-02-12, 03:51:37](https://news.ycombinator.com/item?id=43021677) - [I wrote a static web page and accidentally started a community (2023)](https://localfirstweb.dev/blog/2023-05-29-i-wrote-a-static-web-page)
 * [2025-02-12, 02:07:52](https://news.ycombinator.com/item?id=43020983) - [The year I didn't survive](https://bessstillman.substack.com/p/the-year-i-didnt-survive)
 * [2025-02-11, 22:22:37](https://news.ycombinator.com/item?id=43019136) - [Show HN: Mapping the Unix Magic Poster – An Interactive Annotation Project](https://drio.github.io/unixmagic/)
-* [2025-02-11, 14:55:45](https://news.ycombinator.com/item?id=43013431) - [Backblaze Drive Stats for 2024](https://www.backblaze.com/blog/backblaze-drive-stats-for-2024/)
 * [2025-02-11, 03:25:25](https://news.ycombinator.com/item?id=43008587) - [Show HN: Sort lines semantically using llm-sort](https://github.com/vagos/llm-sort)
 * [2025-02-10, 03:36:05](https://news.ycombinator.com/item?id=42996656) - [The missing tier for query compilers](https://www.scattered-thoughts.net/writing/the-missing-tier-for-query-compilers/)
 * [2025-02-09, 18:18:47](https://news.ycombinator.com/item?id=42992368) - [Bad Smart Watch Authentication](https://sprocketfox.io/xssfox/2025/02/09/ido/)
 * [2025-02-09, 13:22:22](https://news.ycombinator.com/item?id=42990512) - [Center for the Study of National Reconnaissance: Corona Satellite (2013) [pdf]](https://www.nro.gov/Portals/65/documents/history/csnr/corona/The%20CORONA%20Story.pdf)
-* [2025-02-09, 11:53:31](https://news.ycombinator.com/item?id=42990103) - [Storytelling lessons I learned from Steve Jobs (2022)](https://www.fastcompany.com/90747313/steve-jobs-lessons-tony-fadell-build-book-excerpt)
+* [2025-02-09, 09:56:13](https://news.ycombinator.com/item?id=42989666) - [Is NixOS truly reproducible?](https://luj.fr/blog/is-nixos-truly-reproducible.html)
 
 ## [Archives](archives/index.md)
 

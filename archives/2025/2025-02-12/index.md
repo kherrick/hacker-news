@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-12](index.md)
 
+* [2025-02-12, 20:24:59](https://news.ycombinator.com/item?id=43029385) - [Show HN: yknotify – Notify when YubiKey needs touch on macOS](https://github.com/noperator/yknotify)
 * [2025-02-12, 19:54:52](https://news.ycombinator.com/item?id=43029089) - [Show HN: A no-build fullstack SSR TypeScript web framework](https://jsr.io/@fullsoak/fullsoak)
 * [2025-02-12, 19:11:39](https://news.ycombinator.com/item?id=43028641) - [Startup Funding Roadmap](https://anyonyashraya.com/on_startup_funding.html)
 * [2025-02-12, 18:54:35](https://news.ycombinator.com/item?id=43028468) - [Imapsync](https://imapsync.lamiral.info/)
