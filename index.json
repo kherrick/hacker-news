@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-12, 20:24:59",
+      "https://news.ycombinator.com/item?id=43029385"
+    ],
+    [
+      "Show HN: yknotify – Notify when YubiKey needs touch on macOS",
+      "https://github.com/noperator/yknotify"
+    ]
+  ],
+  [
+    [
       "2025-02-12, 19:54:52",
       "https://news.ycombinator.com/item?id=43029089"
     ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2025-02-11, 14:55:45",
-      "https://news.ycombinator.com/item?id=43013431"
-    ],
-    [
-      "Backblaze Drive Stats for 2024",
-      "https://www.backblaze.com/blog/backblaze-drive-stats-for-2024/"
-    ]
-  ],
-  [
-    [
       "2025-02-11, 03:25:25",
       "https://news.ycombinator.com/item?id=43008587"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-02-09, 11:53:31",
-      "https://news.ycombinator.com/item?id=42990103"
+      "2025-02-09, 09:56:13",
+      "https://news.ycombinator.com/item?id=42989666"
     ],
     [
-      "Storytelling lessons I learned from Steve Jobs (2022)",
-      "https://www.fastcompany.com/90747313/steve-jobs-lessons-tony-fadell-build-book-excerpt"
+      "Is NixOS truly reproducible?",
+      "https://luj.fr/blog/is-nixos-truly-reproducible.html"
     ]
   ]
 ]
