@@ -27,7 +27,7 @@
 * [2025-02-12, 06:54:48](https://news.ycombinator.com/item?id=43022603) - [Show HN: Skies-adsb 2.0 – my 3D plane-tracking web app](https://github.com/llopisdon/skies-adsb)
 * [2025-02-12, 02:07:52](https://news.ycombinator.com/item?id=43020983) - [The year I didn't survive](https://bessstillman.substack.com/p/the-year-i-didnt-survive)
 * [2025-02-10, 12:48:58](https://news.ycombinator.com/item?id=42999635) - [iOS indie app development looks like](https://safespace.is/blog/villain-era-part-1)
-* [2025-02-09, 18:18:47](https://news.ycombinator.com/item?id=42992368) - [Bad Smart Watch Authentication](https://sprocketfox.io/xssfox/2025/02/09/ido/)
+* [2025-02-09, 15:09:41](https://news.ycombinator.com/item?id=42991112) - [What happens to your online accounts when you die?](https://digitalseams.com/blog/what-happens-to-your-online-accounts-when-you-die)
 * [2025-02-09, 13:54:50](https://news.ycombinator.com/item?id=42990701) - [Compiling Array Languages for SIMD [pdf]](http://vmchale.com/static/serve/simd.pdf)
 * [2025-02-09, 09:56:13](https://news.ycombinator.com/item?id=42989666) - [Is NixOS truly reproducible?](https://luj.fr/blog/is-nixos-truly-reproducible.html)
 
