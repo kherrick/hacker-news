@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-12](index.md)
 
+* [2025-02-12, 19:11:39](https://news.ycombinator.com/item?id=43028641) - [Startup Funding Roadmap](https://anyonyashraya.com/on_startup_funding.html)
 * [2025-02-12, 18:27:41](https://news.ycombinator.com/item?id=43028200) - [Are Efficiency and Horizontal Scalability at Odds?](https://buttondown.com/hillelwayne/archive/are-efficiency-and-horizontal-scalability-at-odds/)
 * [2025-02-12, 18:14:34](https://news.ycombinator.com/item?id=43028057) - [Automated Capability Discovery via Foundation Model Self-Exploration](https://arxiv.org/abs/2502.07577)
 * [2025-02-12, 17:33:07](https://news.ycombinator.com/item?id=43027579) - [The Hallucinatory Thoughts of the Dying Mind](https://nautil.us/the-hallucinatory-thoughts-of-the-dying-mind-1189807/)
