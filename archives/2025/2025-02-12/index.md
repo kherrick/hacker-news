@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-12](index.md)
 
+* [2025-02-12, 08:23:30](https://news.ycombinator.com/item?id=43023110) - [Tesla sales dropped 60% in Germany](https://electrek.co/2025/02/05/tesla-sales-dropped-60-in-germany/)
 * [2025-02-12, 06:10:25](https://news.ycombinator.com/item?id=43022398) - [ElevenReader by ElevenLabs](https://elevenreader.io)
 * [2025-02-12, 05:52:15](https://news.ycombinator.com/item?id=43022307) - [Parents were injured in a Tesla crash. She ended up having to pay Tesla damages](https://apnews.com/article/tesla-china-lawsuits-musk-investigation-58b10ccace488784fcc63646ab78b410)
 * [2025-02-12, 05:10:09](https://news.ycombinator.com/item?id=43022098) - [No Longer Posting to Pinboard](https://www.gyford.com/phil/writing/2025/02/10/no-longer-pinboard/)
