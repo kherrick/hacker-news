@@ -41,6 +41,7 @@
 * [2025-02-09, 17:28:53](https://news.ycombinator.com/item?id=42992032) - [An Upstate Town Took Back Its Power](https://nysfocus.com/2023/06/21/public-power-utility-massena-new-york)
 * [2025-02-09, 17:02:06](https://news.ycombinator.com/item?id=42991859) - [Infisical (YC W23) Is Hiring Full Stack Engineers (US and Canada)](https://www.ycombinator.com/companies/infisical/jobs/ZHPybgI-full-stack-engineer)
 * [2025-02-09, 16:57:29](https://news.ycombinator.com/item?id=42991830) - [Mission Accomplished? Heat pump adoption has a long way to go](https://www.heatpumped.org/p/mission-accomplished-heat-pump-adoption-has-a-long-way-to-go)
+* [2025-02-09, 16:48:25](https://news.ycombinator.com/item?id=42991776) - [Industrial Designer Invents Drill Bit That Can Also Drive Screws](https://www.core77.com/posts/135333/Industrial-Designer-Invents-Drill-Bit-that-Can-Also-Drive-Screws)
 * [2025-02-09, 16:44:03](https://news.ycombinator.com/item?id=42991750) - [CFPB 404: Page not found](https://www.consumerfinance.gov/)
 * [2025-02-09, 16:33:28](https://news.ycombinator.com/item?id=42991676) - [LIMO: Less Is More for Reasoning](https://arxiv.org/abs/2502.03387)
 * [2025-02-09, 16:17:01](https://news.ycombinator.com/item?id=42991558) - [Advanced Magnet Manufacturing Begins in the United States](https://spectrum.ieee.org/advanced-magnet-manufacturing-in-us)
