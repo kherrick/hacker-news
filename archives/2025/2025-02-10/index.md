@@ -48,6 +48,7 @@
 * [2025-02-10, 12:44:27](https://news.ycombinator.com/item?id=42999598) - [Durable plastic gets a sustainability makeover in novel polymerization process](https://phys.org/news/2025-01-durable-plastic-sustainability-makeover-polymerization.html)
 * [2025-02-10, 12:38:08](https://news.ycombinator.com/item?id=42999561) - [Advertising Is a Cancer on Society](https://jacek.zlydach.pl/blog/2019-07-31-ads-as-cancer.html)
 * [2025-02-10, 12:24:19](https://news.ycombinator.com/item?id=42999464) - [The Crisis in Tech's Obsession with Junior Talent](https://medium.com/mr-plan-publication/8-out-of-10-senior-engineers-feel-undervalued-the-hidden-crisis-in-techs-obsession-with-junior-fa9cc62b1e8e)
+* [2025-02-10, 12:15:51](https://news.ycombinator.com/item?id=42999413) - [Trunk-Based Development](https://bucket.co/blog/trunk-based-development)
 * [2025-02-10, 12:01:57](https://news.ycombinator.com/item?id=42999312) - [PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2025-02-10, 11:59:41](https://news.ycombinator.com/item?id=42999297) - [Building a personal, private AI computer on a budget](https://ewintr.nl/posts/2025/building-a-personal-private-ai-computer-on-a-budget/)
 * [2025-02-10, 11:17:09](https://news.ycombinator.com/item?id=42999088) - [Beavers finish seven-year dam project in two days saving – $1M](https://www.nationalgeographic.com/animals/article/beaver-dam-czech-republic)
