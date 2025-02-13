@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-13](index.md)
 
+* [2025-02-13, 23:21:21](https://news.ycombinator.com/item?id=43042753) - [LM2: Large Memory Models](https://arxiv.org/abs/2502.06049)
 * [2025-02-13, 22:41:05](https://news.ycombinator.com/item?id=43042392) - [Hyperbound (YC S23) Is Hiring a Founding Full-Stack Engineer in SF](https://www.ycombinator.com/companies/hyperbound/jobs/RzDBxNi-founding-full-stack-engineer-in-sf)
 * [2025-02-13, 22:21:28](https://news.ycombinator.com/item?id=43042185) - [Banksy Fights with Greeting Card Company for Control of His Trademark](https://robbreport.com/shelter/art-collectibles/bansky-fighting-greeting-card-company-trademark-control-1236204172/)
 * [2025-02-13, 22:19:08](https://news.ycombinator.com/item?id=43042157) - [Open Source Software and Corporate Influence](https://www.alilleybrinker.com/blog/open-source-software-and-corporate-influence/)

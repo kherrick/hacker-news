@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-13, 23:21:21](https://news.ycombinator.com/item?id=43042753) - [LM2: Large Memory Models](https://arxiv.org/abs/2502.06049)
 * [2025-02-13, 22:41:05](https://news.ycombinator.com/item?id=43042392) - [Hyperbound (YC S23) Is Hiring a Founding Full-Stack Engineer in SF](https://www.ycombinator.com/companies/hyperbound/jobs/RzDBxNi-founding-full-stack-engineer-in-sf)
 * [2025-02-13, 22:21:28](https://news.ycombinator.com/item?id=43042185) - [Banksy Fights with Greeting Card Company for Control of His Trademark](https://robbreport.com/shelter/art-collectibles/bansky-fighting-greeting-card-company-trademark-control-1236204172/)
 * [2025-02-13, 22:19:08](https://news.ycombinator.com/item?id=43042157) - [Open Source Software and Corporate Influence](https://www.alilleybrinker.com/blog/open-source-software-and-corporate-influence/)
@@ -11,7 +12,6 @@
 * [2025-02-13, 18:20:29](https://news.ycombinator.com/item?id=43039308) - [Phind 2: AI search with visual answers and multi-step reasoning](https://www.phind.com/blog/phind-2)
 * [2025-02-13, 17:13:01](https://news.ycombinator.com/item?id=43038395) - [Who exactly needs to get approval from an institutional review board (IRB)?](https://dynomight.net/irb/)
 * [2025-02-13, 16:59:43](https://news.ycombinator.com/item?id=43038200) - [LibreOffice still kicking at 40, now with browser tricks and real-time collab](https://www.theregister.com/2025/02/13/libreoffice_wasm_zetaoffice/)
-* [2025-02-13, 15:34:57](https://news.ycombinator.com/item?id=43036904) - [Resigning as Asahi Linux project lead](https://marcan.st/2025/02/resigning-as-asahi-linux-project-lead/)
 * [2025-02-13, 15:20:52](https://news.ycombinator.com/item?id=43036742) - [Magnetic field sorting of superconducting graphite particles with Tc>400K (2024)](https://arxiv.org/abs/2410.18020)
 * [2025-02-13, 15:08:34](https://news.ycombinator.com/item?id=43036593) - [Better text rendering in Chromium-based browsers on Windows](https://developer.chrome.com/blog/better-text-rendering-in-chromium-based-browsers-on-windows)
 * [2025-02-13, 14:53:21](https://news.ycombinator.com/item?id=43036428) - [Fewer students are enrolling in doctoral degrees](https://www.nature.com/articles/d41586-025-00425-4)
