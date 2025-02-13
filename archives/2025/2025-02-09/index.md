@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-09](index.md)
 
 * [2025-02-09, 23:56:17](https://news.ycombinator.com/item?id=42995425) - [U.S. facing most intense flu season in at least 15 years](https://www.pbs.org/newshour/health/u-s-facing-most-intense-flu-season-in-at-least-15-years)
+* [2025-02-09, 23:54:20](https://news.ycombinator.com/item?id=42995418) - [Residential Networking over Telephone](https://computer.rip/2025-02-02-residential-networking-over-telephone.html)
 * [2025-02-09, 23:52:32](https://news.ycombinator.com/item?id=42995403) - [Reflect Orbital: Sunlight after dark using a constellation of spatial reflectors](https://www.reflectorbital.com/)
 * [2025-02-09, 22:53:27](https://news.ycombinator.com/item?id=42994958) - [Surrealist Compliment Generator](https://www.madsci.org/cgi-bin/lynn/jardin/SCG)
 * [2025-02-09, 22:36:56](https://news.ycombinator.com/item?id=42994828) - [One Text to Speech wrapper for Python for all (?) TTS engines](https://pypi.org/project/py3-tts-wrapper/)
