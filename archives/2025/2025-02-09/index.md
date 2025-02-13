@@ -64,6 +64,7 @@
 * [2025-02-09, 13:22:22](https://news.ycombinator.com/item?id=42990512) - [Center for the Study of National Reconnaissance: Corona Satellite (2013) [pdf]](https://www.nro.gov/Portals/65/documents/history/csnr/corona/The%20CORONA%20Story.pdf)
 * [2025-02-09, 13:01:21](https://news.ycombinator.com/item?id=42990401) - [Frontier AI systems have surpassed the self-replicating red line](https://arxiv.org/abs/2412.12140)
 * [2025-02-09, 12:49:48](https://news.ycombinator.com/item?id=42990351) - [Show HN: AI driven calendar to combat student procrastination](https://www.ocal.ai/)
+* [2025-02-09, 12:44:49](https://news.ycombinator.com/item?id=42990331) - [TaskExplorer](https://github.com/DavidXanatos/TaskExplorer)
 * [2025-02-09, 12:42:54](https://news.ycombinator.com/item?id=42990324) - [Don't \"optimize\" conditional moves in shaders with mix()+step()](https://iquilezles.org/articles/gpuconditionals/)
 * [2025-02-09, 12:12:43](https://news.ycombinator.com/item?id=42990186) - [Go Away Green](https://en.wikipedia.org/wiki/Go_Away_Green)
 * [2025-02-09, 11:53:31](https://news.ycombinator.com/item?id=42990103) - [Tony Fadell: Storytelling lessons I learned from Steve Jobs (2022)](https://www.fastcompany.com/90747313/steve-jobs-lessons-tony-fadell-build-book-excerpt)
