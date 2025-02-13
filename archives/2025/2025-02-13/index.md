@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-02-13](index.md)
 
+* [2025-02-13, 16:59:43](https://news.ycombinator.com/item?id=43038200) - [LibreOffice still kicking at 40, now with browser tricks and real-time collab](https://www.theregister.com/2025/02/13/libreoffice_wasm_zetaoffice/)
 * [2025-02-13, 16:58:49](https://news.ycombinator.com/item?id=43038190) - [Larry Ellison wants to put all America's data in AI, including DNA](https://www.theregister.com/2025/02/12/larry_ellison_wants_all_data/)
+* [2025-02-13, 16:41:04](https://news.ycombinator.com/item?id=43037892) - [$400M armored Tesla gov contract](https://www.npr.org/2025/02/13/g-s1-48571/trump-administration-order-400-million-worth-of-armored-teslas)
 * [2025-02-13, 16:37:08](https://news.ycombinator.com/item?id=43037821) - [RFK Jr Will Be Confirmed as Secretary of Health and Human Services](https://www.reuters.com/world/us/trump-health-nominee-kennedy-secures-enough-us-senate-votes-confirmation-2025-02-13/)
 * [2025-02-13, 16:27:25](https://news.ycombinator.com/item?id=43037668) - [TSMC Faces Tough Choices Amid Rumors for Intel Foundry Collaboration](https://techsoda.substack.com/p/tsmc-faces-tough-choices-amid-rumors)
 * [2025-02-13, 16:23:50](https://news.ycombinator.com/item?id=43037623) - [White Hat Hackers Expose Iridium Satellite Security Flaws](https://spectrum.ieee.org/iridium-satellite)
+* [2025-02-13, 16:22:38](https://news.ycombinator.com/item?id=43037600) - [I built a failed startups goods website and named it VcSubsidized.com](https://vcsubsidized.com/)
 * [2025-02-13, 16:12:29](https://news.ycombinator.com/item?id=43037426) - [DOGE Has Started Gutting a Key US Technology Agency](https://www.wired.com/story/doge-tts-fired/)
 * [2025-02-13, 15:49:59](https://news.ycombinator.com/item?id=43037100) - [Why is everyone trying to replace Software Engineers?](https://toddle.dev/blog/why-is-everyone-trying-to-replace-software-engineers)
 * [2025-02-13, 15:38:01](https://news.ycombinator.com/item?id=43036934) - [Court Documents Shed New Light on DOGE Activity at Treasury Department](https://www.zetter-zeroday.com/court-documents-shed-new-light-on-doge-access-and-activity-at-treasury-department/)
