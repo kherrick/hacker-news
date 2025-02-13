@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-13](index.md)
 
+* [2025-02-13, 09:56:11](https://news.ycombinator.com/item?id=43034405) - [New DOGE site update breaks down government jobs by salary/age/headcount](https://doge.gov/workforce)
 * [2025-02-13, 07:18:04](https://news.ycombinator.com/item?id=43033493) - [Trump's firing of the U.S. government archivist is far worse than it might seem](https://www.fastcompany.com/91277620/trump-firing-national-archivist-colleen-shogan)
 * [2025-02-13, 07:12:47](https://news.ycombinator.com/item?id=43033463) - [Why young parents should focus on building trust with their kids](https://desunit.com/blog/marshmallow-test-and-parenting/)
 * [2025-02-13, 06:46:25](https://news.ycombinator.com/item?id=43033341) - [Chrome does not have any way to stop video auto play?](https://news.ycombinator.com/item?id=43033341)
