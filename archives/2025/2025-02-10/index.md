@@ -69,6 +69,7 @@
 * [2025-02-10, 04:01:36](https://news.ycombinator.com/item?id=42996796) - [Don't Be Frupid](https://selix.net/notes/dont-be-frupid)
 * [2025-02-10, 03:38:29](https://news.ycombinator.com/item?id=42996671) - [Thomas Aquinas' Skull Reveals Appearance and Cause of Death](https://www.ncregister.com/blog/face-of-aquinas-revealed-after-750-years)
 * [2025-02-10, 03:36:05](https://news.ycombinator.com/item?id=42996656) - [The missing tier for query compilers](https://www.scattered-thoughts.net/writing/the-missing-tier-for-query-compilers/)
+* [2025-02-10, 03:25:15](https://news.ycombinator.com/item?id=42996597) - [Half Cent Coin](https://en.wikipedia.org/wiki/Half_cent_(United_States_coin))
 * [2025-02-10, 02:32:28](https://news.ycombinator.com/item?id=42996322) - [I Blog with Raw HTML](https://devpoga.org/i-blog-with-raw-html/)
 * [2025-02-10, 01:27:56](https://news.ycombinator.com/item?id=42996003) - [Starlink and T-Mobile open satellite texting test to all – not just customers](https://www.washingtonpost.com/technology/2025/02/09/tmobile-starlink-satellite-texting/)
 * [2025-02-10, 01:25:05](https://news.ycombinator.com/item?id=42995991) - [Show HN: Infinite Horizontal Array of Text Editors](https://zeminary.com/arrays/app.html)
