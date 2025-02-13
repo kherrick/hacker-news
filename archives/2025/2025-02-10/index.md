@@ -56,6 +56,7 @@
 * [2025-02-10, 11:51:07](https://news.ycombinator.com/item?id=42999258) - [An Infinitely Large Napkin [pdf]](https://venhance.github.io/napkin/Napkin.pdf)
 * [2025-02-10, 11:17:09](https://news.ycombinator.com/item?id=42999088) - [Beavers finish seven-year dam project in two days saving – $1M](https://www.nationalgeographic.com/animals/article/beaver-dam-czech-republic)
 * [2025-02-10, 11:05:56](https://news.ycombinator.com/item?id=42999044) - [Man who lost Bitcoin fortune in Welsh tip explores purchase of entire landfill](https://www.theguardian.com/technology/2025/feb/10/man-who-lost-bitcoin-fortune-in-welsh-tip-explores-purchase-of-entire-landfill)
+* [2025-02-10, 10:38:29](https://news.ycombinator.com/item?id=42998904) - [SQL pipe syntax available in public preview in BigQuery](https://cloud.google.com/bigquery/docs/pipe-syntax-guide)
 * [2025-02-10, 09:22:29](https://news.ycombinator.com/item?id=42998431) - [Show HN: Seen: rendering 1,000,000+ notes in <1s. speed, by default](https://seen-v2.vercel.app/)
 * [2025-02-10, 09:14:59](https://news.ycombinator.com/item?id=42998375) - [Rust Kernel Policy](https://rust-for-linux.com/rust-kernel-policy)
 * [2025-02-10, 09:14:38](https://news.ycombinator.com/item?id=42998370) - [Euclid telescope captures Einstein ring revealing warping of space](https://www.theguardian.com/science/2025/feb/10/euclid-telescope-captures-einstein-ring-revealing-warping-of-space)
