@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-13](index.md)
 
 * [2025-02-13, 19:57:29](https://news.ycombinator.com/item?id=43040521) - [Privacy Pass Authentication for Kagi Search](https://blog.kagi.com/kagi-privacy-pass)
+* [2025-02-13, 19:39:30](https://news.ycombinator.com/item?id=43040320) - [Google fumbles Gemini Super Bowl ad's cheese statistic](https://www.techradar.com/computing/artificial-intelligence/google-fumbles-gemini-super-bowl-ads-cheese-statistic)
 * [2025-02-13, 19:16:29](https://news.ycombinator.com/item?id=43040023) - ['It's a money game to them':son takes on UnitedHealth over elderly father's care](https://www.theguardian.com/us-news/2025/feb/13/unitedhealth-lawsuit-elderly-patients-care)
 * [2025-02-13, 18:46:57](https://news.ycombinator.com/item?id=43039631) - [Cybertrucks Are Deadlier Than Infamous Ford Pintos](https://www.motherjones.com/politics/2025/02/report-cybertruck-safety-ford-pinto/)
 * [2025-02-13, 18:23:53](https://news.ycombinator.com/item?id=43039347) - [Tolerating full cloud outages with Monzo Stand-in](https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in)
