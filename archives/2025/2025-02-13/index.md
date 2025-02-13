@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-02-13](index.md)
 
+* [2025-02-13, 19:57:29](https://news.ycombinator.com/item?id=43040521) - [Privacy Pass Authentication for Kagi Search](https://blog.kagi.com/kagi-privacy-pass)
 * [2025-02-13, 19:16:29](https://news.ycombinator.com/item?id=43040023) - ['It's a money game to them':son takes on UnitedHealth over elderly father's care](https://www.theguardian.com/us-news/2025/feb/13/unitedhealth-lawsuit-elderly-patients-care)
 * [2025-02-13, 18:46:57](https://news.ycombinator.com/item?id=43039631) - [Cybertrucks Are Deadlier Than Infamous Ford Pintos](https://www.motherjones.com/politics/2025/02/report-cybertruck-safety-ford-pinto/)
+* [2025-02-13, 18:23:53](https://news.ycombinator.com/item?id=43039347) - [Tolerating full cloud outages with Monzo Stand-in](https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in)
 * [2025-02-13, 18:20:29](https://news.ycombinator.com/item?id=43039308) - [Phind 2: Reinventing AI search with visual answers and multi-step reasoning](https://www.phind.com/blog/phind-2)
 * [2025-02-13, 17:35:10](https://news.ycombinator.com/item?id=43038727) - [Usaid funding freeze disrupts global tuberculosis control efforts](https://www.cidrap.umn.edu/tuberculosis/usaid-funding-freeze-disrupts-global-tuberculosis-control-efforts)
 * [2025-02-13, 17:13:01](https://news.ycombinator.com/item?id=43038395) - [Do you need permission from the government to do independent research?](https://dynomight.net/irb/)
