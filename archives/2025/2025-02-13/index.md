@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-02-13](index.md)
 
+* [2025-02-13, 16:12:29](https://news.ycombinator.com/item?id=43037426) - [DOGE Has Started Gutting a Key US Technology Agency](https://www.wired.com/story/doge-tts-fired/)
+* [2025-02-13, 15:49:59](https://news.ycombinator.com/item?id=43037100) - [Why is everyone trying to replace Software Engineers?](https://toddle.dev/blog/why-is-everyone-trying-to-replace-software-engineers)
+* [2025-02-13, 15:38:01](https://news.ycombinator.com/item?id=43036934) - [Court Documents Shed New Light on DOGE Activity at Treasury Department](https://www.zetter-zeroday.com/court-documents-shed-new-light-on-doge-access-and-activity-at-treasury-department/)
 * [2025-02-13, 15:34:57](https://news.ycombinator.com/item?id=43036904) - [Resigning as Asahi Linux project lead](https://marcan.st/2025/02/resigning-as-asahi-linux-project-lead/)
 * [2025-02-13, 15:24:22](https://news.ycombinator.com/item?id=43036779) - [Will AI Agents Revolutionize How We Query and Use Data?](https://news.ycombinator.com/item?id=43036779)
 * [2025-02-13, 15:20:52](https://news.ycombinator.com/item?id=43036742) - [Magnetic field sorting of superconducting graphite particles with Tc>400K](https://arxiv.org/abs/2410.18020)
