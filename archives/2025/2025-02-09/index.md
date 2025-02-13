@@ -21,6 +21,7 @@
 * [2025-02-09, 21:06:55](https://news.ycombinator.com/item?id=42993987) - [Three Observations](https://blog.samaltman.com/three-observations)
 * [2025-02-09, 20:44:09](https://news.ycombinator.com/item?id=42993755) - [The Recombobulation Area](https://onmilwaukee.com/articles/recombobulationsigns)
 * [2025-02-09, 20:34:56](https://news.ycombinator.com/item?id=42993661) - [Music Generation AI Models](https://www.maximepeabody.com/blog/music-ai-models)
+* [2025-02-09, 20:28:28](https://news.ycombinator.com/item?id=42993603) - [The World Without a Mask (1934)](https://scifist.net/2022/07/23/the-world-without-a-mask/)
 * [2025-02-09, 20:17:41](https://news.ycombinator.com/item?id=42993490) - [No AI December Reflections](https://blog.rybarix.com/2025/02/09/noaidecember.html)
 * [2025-02-09, 20:06:32](https://news.ycombinator.com/item?id=42993373) - [Dangerous dependencies in third-party software – the underestimated risk](https://linux-howto.org/article/dangerous-dependencies-in-third-party-software-the-underestimated-risk)
 * [2025-02-09, 20:00:02](https://news.ycombinator.com/item?id=42993305) - [The Differences Between Direct Alignment Algorithms Are a Blur](https://arxiv.org/abs/2502.01237)
