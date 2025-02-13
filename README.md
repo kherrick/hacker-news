@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-13, 14:53:46](https://news.ycombinator.com/item?id=43036434) - [U.K. demand for a back door to Apple data threatens Americans, lawmakers say](https://www.washingtonpost.com/technology/2025/02/13/apple-uk-security-back-door-adp/)
+* [2025-02-13, 14:47:43](https://news.ycombinator.com/item?id=43036356) - [Federal workers say they increasingly distrust platforms like Facebook](https://www.theverge.com/news/610951/federal-workers-privacy-surveillance-signal-facebook-messenger)
 * [2025-02-13, 12:19:08](https://news.ycombinator.com/item?id=43035147) - [Cheap blood test detects pancreatic cancer before it spreads](https://www.nature.com/articles/d41586-025-00438-z)
 * [2025-02-13, 09:44:25](https://news.ycombinator.com/item?id=43034329) - [Self hosted FLOSS fitness/workout tracker](https://github.com/wger-project/wger)
 * [2025-02-13, 07:12:47](https://news.ycombinator.com/item?id=43033463) - [Why young parents should focus on building trust with their kids](https://desunit.com/blog/marshmallow-test-and-parenting/)
@@ -14,7 +16,6 @@
 * [2025-02-12, 16:31:04](https://news.ycombinator.com/item?id=43026920) - [The Prophet of Parking: A eulogy for the great Donald Shoup](https://www.worksinprogress.news/p/the-prophet-of-parking)
 * [2025-02-12, 16:13:41](https://news.ycombinator.com/item?id=43026774) - [Ask HN: Former employees' RSUs at risk after startup's IPO](https://news.ycombinator.com/item?id=43026774)
 * [2025-02-12, 15:01:40](https://news.ycombinator.com/item?id=43026036) - [PgAssistant: OSS tool to help devs understand and optimize PG performance](https://github.com/nexsol-technologies/pgassistant)
-* [2025-02-12, 12:11:33](https://news.ycombinator.com/item?id=43024540) - [Vanishing Culture: Punch Card Knitting](https://blog.archive.org/2025/02/12/vanishing-culture-punch-card-knitting/)
 * [2025-02-12, 11:19:42](https://news.ycombinator.com/item?id=43024221) - [Leaking the email of any YouTube user for $10k](https://brutecat.com/articles/leaking-youtube-emails)
 * [2025-02-12, 09:33:29](https://news.ycombinator.com/item?id=43023554) - [US and UK refuse to sign AI safety declaration at summit](https://arstechnica.com/ai/2025/02/us-and-uk-refuse-to-sign-ai-safety-declaration-at-summit/)
 * [2025-02-12, 09:24:08](https://news.ycombinator.com/item?id=43023508) - [Smuggling arbitrary data through an emoji](https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/)
@@ -28,7 +29,6 @@
 * [2025-02-09, 18:36:04](https://news.ycombinator.com/item?id=42992505) - [Why Does Integer Addition Approximate Float Multiplication?](https://probablydance.com/2025/02/08/why-does-integer-addition-approximate-float-multiplication/)
 * [2025-02-09, 15:09:41](https://news.ycombinator.com/item?id=42991112) - [What happens to your online accounts when you die?](https://digitalseams.com/blog/what-happens-to-your-online-accounts-when-you-die)
 * [2025-02-09, 14:12:51](https://news.ycombinator.com/item?id=42990801) - [Automating the Vim Workplace (2020)](https://sharats.me/posts/automating-the-vim-workplace/)
-* [2025-02-09, 12:44:49](https://news.ycombinator.com/item?id=42990331) - [TaskExplorer](https://github.com/DavidXanatos/TaskExplorer)
 * [2025-02-09, 09:56:13](https://news.ycombinator.com/item?id=42989666) - [Is NixOS truly reproducible?](https://luj.fr/blog/is-nixos-truly-reproducible.html)
 
 ## [Archives](archives/index.md)
