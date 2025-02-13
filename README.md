@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-13, 06:46:25](https://news.ycombinator.com/item?id=43033341) - [Chrome does not have any way to stop video auto play?](https://news.ycombinator.com/item?id=43033341)
+* [2025-02-13, 06:30:44](https://news.ycombinator.com/item?id=43033275) - [The Path to American Authoritarianism](https://www.foreignaffairs.com/united-states/path-american-authoritarianism-trump)
 * [2025-02-13, 01:24:31](https://news.ycombinator.com/item?id=43031740) - [How to professionally say (2022)](https://github.com/AkashRajpurohit/howtoprofessionallysay)
 * [2025-02-13, 00:55:26](https://news.ycombinator.com/item?id=43031545) - [YouTube's New Hue](https://design.google/library/youtube-new-red-color)
 * [2025-02-13, 00:24:08](https://news.ycombinator.com/item?id=43031372) - [Why cryptography is not based on NP-complete problems](https://blintzbase.com/posts/cryptography-is-not-based-on-np-hard-problems/)
@@ -20,7 +21,6 @@
 * [2025-02-12, 14:17:48](https://news.ycombinator.com/item?id=43025645) - [Visualizing data is an art](https://perthirtysix.com/visualizing-data-is-an-art)
 * [2025-02-12, 12:11:33](https://news.ycombinator.com/item?id=43024540) - [Vanishing Culture: Punch Card Knitting](https://blog.archive.org/2025/02/12/vanishing-culture-punch-card-knitting/)
 * [2025-02-12, 11:19:42](https://news.ycombinator.com/item?id=43024221) - [Leaking the email of any YouTube user for $10k](https://brutecat.com/articles/leaking-youtube-emails)
-* [2025-02-12, 11:11:38](https://news.ycombinator.com/item?id=43024173) - [League of Legends data scraping the hard and tedious way for fun](https://maknee.github.io/blog/2025/League-Data-Scraping/)
 * [2025-02-12, 10:22:21](https://news.ycombinator.com/item?id=43023875) - [Ask HN: What's the best implementation of Conway's Game of Life?](https://news.ycombinator.com/item?id=43023875)
 * [2025-02-12, 09:33:29](https://news.ycombinator.com/item?id=43023554) - [US and UK refuse to sign AI safety declaration at summit](https://arstechnica.com/ai/2025/02/us-and-uk-refuse-to-sign-ai-safety-declaration-at-summit/)
 * [2025-02-12, 09:24:08](https://news.ycombinator.com/item?id=43023508) - [Smuggling arbitrary data through an emoji](https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/)

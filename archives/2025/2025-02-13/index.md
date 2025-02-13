@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-13](index.md)
 
 * [2025-02-13, 06:46:25](https://news.ycombinator.com/item?id=43033341) - [Chrome does not have any way to stop video auto play?](https://news.ycombinator.com/item?id=43033341)
+* [2025-02-13, 06:30:44](https://news.ycombinator.com/item?id=43033275) - [The Path to American Authoritarianism](https://www.foreignaffairs.com/united-states/path-american-authoritarianism-trump)
 * [2025-02-13, 06:16:41](https://news.ycombinator.com/item?id=43033202) - [Diversity: The U.S. Military's Not-So-Secret Weapon](https://angrystaffofficer.com/2025/02/12/diversity-the-u-s-militarys-not-so-secret-weapon/)
 * [2025-02-13, 05:38:50](https://news.ycombinator.com/item?id=43032999) - [AI column-smashes words, concocts scientific term now used in 20 papers](https://boingboing.net/2025/02/12/fancy-science-journal-caught-publishing-nonsense-term-vegetative-electron-microscopy-doubles-down.html)
 * [2025-02-13, 04:04:35](https://news.ycombinator.com/item?id=43032540) - [More than 100 women kept as slaves in illegal egg harvesting farm in Georgia](https://thenewfeminist.co.uk/2025/02/more-than-100-women-kept-as-slaves-in-illegal-egg-harvesting-farm-in-georgia/)
