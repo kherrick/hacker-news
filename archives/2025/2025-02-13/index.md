@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-13](index.md)
 
+* [2025-02-13, 10:02:39](https://news.ycombinator.com/item?id=43034440) - [Reassessing Wayland](https://dudemanguy.github.io/blog/posts/2025-02-03-wayland-xorg-2/wayland-xorg-2.html)
 * [2025-02-13, 09:56:11](https://news.ycombinator.com/item?id=43034405) - [New DOGE site update breaks down government jobs by salary/age/headcount](https://doge.gov/workforce)
 * [2025-02-13, 09:44:25](https://news.ycombinator.com/item?id=43034329) - [Self hosted FLOSS fitness/workout tracker](https://github.com/wger-project/wger)
 * [2025-02-13, 07:18:04](https://news.ycombinator.com/item?id=43033493) - [Trump's firing of the U.S. government archivist is far worse than it might seem](https://www.fastcompany.com/91277620/trump-firing-national-archivist-colleen-shogan)
