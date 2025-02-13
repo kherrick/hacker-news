@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-13, 07:18:04](https://news.ycombinator.com/item?id=43033493) - [Trump's firing of the U.S. government archivist is far worse than it might seem](https://www.fastcompany.com/91277620/trump-firing-national-archivist-colleen-shogan)
 * [2025-02-13, 07:12:47](https://news.ycombinator.com/item?id=43033463) - [Why young parents should focus on building trust with their kids](https://desunit.com/blog/marshmallow-test-and-parenting/)
 * [2025-02-13, 06:46:25](https://news.ycombinator.com/item?id=43033341) - [Chrome does not have any way to stop video auto play?](https://news.ycombinator.com/item?id=43033341)
 * [2025-02-13, 01:24:31](https://news.ycombinator.com/item?id=43031740) - [How to professionally say (2022)](https://github.com/AkashRajpurohit/howtoprofessionallysay)
@@ -10,6 +9,7 @@
 * [2025-02-12, 20:34:41](https://news.ycombinator.com/item?id=43029474) - [The average CPU performance of PCs and notebooks fell for the first time](https://www.cpubenchmark.net/year-on-year.html)
 * [2025-02-12, 20:24:59](https://news.ycombinator.com/item?id=43029385) - [Show HN: yknotify – Notify when YubiKey needs touch on macOS](https://github.com/noperator/yknotify)
 * [2025-02-12, 18:54:35](https://news.ycombinator.com/item?id=43028468) - [Imapsync](https://imapsync.lamiral.info/)
+* [2025-02-12, 18:14:34](https://news.ycombinator.com/item?id=43028057) - [Automated Capability Discovery via Foundation Model Self-Exploration](https://arxiv.org/abs/2502.07577)
 * [2025-02-12, 17:11:25](https://news.ycombinator.com/item?id=43027335) - [Show HN: Game Bub – open-source FPGA retro emulation handheld](https://eli.lipsitz.net/posts/introducing-gamebub/)
 * [2025-02-12, 17:04:22](https://news.ycombinator.com/item?id=43027266) - [5G networks meet consumer needs as mobile data growth slows](https://spectrum.ieee.org/5g-bandwidth)
 * [2025-02-12, 16:52:57](https://news.ycombinator.com/item?id=43027150) - [Record-breaking neutrino is most energetic ever detected](https://www.nature.com/articles/d41586-025-00444-1)
