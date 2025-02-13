@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-13, 02:19:31",
+      "https://news.ycombinator.com/item?id=43032015"
+    ],
+    [
+      "Google Lighthouse recommends not embedding YouTube videos directly",
+      "https://developer.chrome.com/docs/lighthouse/performance/third-party-facades"
+    ]
+  ],
+  [
+    [
       "2025-02-13, 01:24:31",
       "https://news.ycombinator.com/item?id=43031740"
     ],
@@ -11,22 +21,22 @@
   ],
   [
     [
+      "2025-02-13, 00:55:26",
+      "https://news.ycombinator.com/item?id=43031545"
+    ],
+    [
+      "YouTube's New Hue",
+      "https://design.google/library/youtube-new-red-color"
+    ]
+  ],
+  [
+    [
       "2025-02-13, 00:24:08",
       "https://news.ycombinator.com/item?id=43031372"
     ],
     [
       "Why cryptography is not based on NP-complete problems",
       "https://blintzbase.com/posts/cryptography-is-not-based-on-np-hard-problems/"
-    ]
-  ],
-  [
-    [
-      "2025-02-12, 23:37:13",
-      "https://news.ycombinator.com/item?id=43030979"
-    ],
-    [
-      "Wide Bandwidth High-Power Triboelectric Energy Harvesting by Scotch Tape",
-      "https://pubs.acs.org/doi/10.1021/acsomega.4c08590"
     ]
   ],
   [
@@ -161,6 +171,16 @@
   ],
   [
     [
+      "2025-02-12, 16:13:41",
+      "https://news.ycombinator.com/item?id=43026774"
+    ],
+    [
+      "Ask HN: Former employees' RSUs at risk after startup's IPO",
+      "https://news.ycombinator.com/item?id=43026774"
+    ]
+  ],
+  [
+    [
       "2025-02-12, 15:01:40",
       "https://news.ycombinator.com/item?id=43026036"
     ],
@@ -177,16 +197,6 @@
     [
       "Visualizing Data Is an Art – We Should Treat It Like One",
       "https://perthirtysix.com/visualizing-data-is-an-art"
-    ]
-  ],
-  [
-    [
-      "2025-02-12, 12:58:13",
-      "https://news.ycombinator.com/item?id=43024961"
-    ],
-    [
-      "DeaDBeeF: The Ultimate Music Player",
-      "https://deadbeef.sourceforge.io/"
     ]
   ],
   [
@@ -211,12 +221,12 @@
   ],
   [
     [
-      "2025-02-12, 09:43:48",
-      "https://news.ycombinator.com/item?id=43023634"
+      "2025-02-12, 10:22:21",
+      "https://news.ycombinator.com/item?id=43023875"
     ],
     [
-      "Tiny Pointers",
-      "https://arxiv.org/abs/2111.12800"
+      "Ask HN: What's the best implementation of Conway's Game of Life?",
+      "https://news.ycombinator.com/item?id=43023875"
     ]
   ],
   [
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2025-02-12, 06:10:25",
-      "https://news.ycombinator.com/item?id=43022398"
-    ],
-    [
-      "ElevenReader",
-      "https://elevenreader.io"
-    ]
-  ],
-  [
-    [
       "2025-02-10, 12:39:43",
       "https://news.ycombinator.com/item?id=42999566"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2025-02-09, 16:48:25",
+      "https://news.ycombinator.com/item?id=42991776"
+    ],
+    [
+      "A drill bit that can also drive screws",
+      "https://www.core77.com/posts/135333/Industrial-Designer-Invents-Drill-Bit-that-Can-Also-Drive-Screws"
+    ]
+  ],
+  [
+    [
       "2025-02-09, 15:09:41",
       "https://news.ycombinator.com/item?id=42991112"
     ],
     [
       "What happens to your online accounts when you die?",
       "https://digitalseams.com/blog/what-happens-to-your-online-accounts-when-you-die"
-    ]
-  ],
-  [
-    [
-      "2025-02-09, 13:54:50",
-      "https://news.ycombinator.com/item?id=42990701"
-    ],
-    [
-      "Compiling Array Languages for SIMD [pdf]",
-      "http://vmchale.com/static/serve/simd.pdf"
     ]
   ],
   [
