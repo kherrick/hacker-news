@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-13](index.md)
 
+* [2025-02-13, 22:41:05](https://news.ycombinator.com/item?id=43042392) - [Hyperbound (YC S23) Is Hiring a Founding Full-Stack Engineer in SF](https://www.ycombinator.com/companies/hyperbound/jobs/RzDBxNi-founding-full-stack-engineer-in-sf)
 * [2025-02-13, 22:21:28](https://news.ycombinator.com/item?id=43042185) - [Banksy Fights with Greeting Card Company for Control of His Trademark](https://robbreport.com/shelter/art-collectibles/bansky-fighting-greeting-card-company-trademark-control-1236204172/)
 * [2025-02-13, 21:49:16](https://news.ycombinator.com/item?id=43041827) - [Show HN: SQL Noir – Learn SQL by solving crimes](https://www.sqlnoir.com)
 * [2025-02-13, 21:39:50](https://news.ycombinator.com/item?id=43041726) - [Amazon ends kindle ebooks \"Download and Transfer via USB\"](https://goodereader.com/blog/kindle/amazon-removing-download-and-transfer-on-the-kindle-feb-26th)
