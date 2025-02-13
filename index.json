@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-02-13, 16:59:43",
+      "https://news.ycombinator.com/item?id=43038200"
+    ],
+    [
+      "LibreOffice still kicking at 40, now with browser tricks and real-time collab",
+      "https://www.theregister.com/2025/02/13/libreoffice_wasm_zetaoffice/"
+    ]
+  ],
+  [
+    [
       "2025-02-13, 16:58:49",
       "https://news.ycombinator.com/item?id=43038190"
     ],
     [
       "Larry Ellison wants to put all America's data in AI, including DNA",
       "https://www.theregister.com/2025/02/12/larry_ellison_wants_all_data/"
+    ]
+  ],
+  [
+    [
+      "2025-02-13, 16:41:04",
+      "https://news.ycombinator.com/item?id=43037892"
+    ],
+    [
+      "$400M armored Tesla gov contract",
+      "https://www.npr.org/2025/02/13/g-s1-48571/trump-administration-order-400-million-worth-of-armored-teslas"
     ]
   ],
   [
@@ -27,6 +47,16 @@
     [
       "White Hat Hackers Expose Iridium Satellite Security Flaws",
       "https://spectrum.ieee.org/iridium-satellite"
+    ]
+  ],
+  [
+    [
+      "2025-02-13, 16:22:38",
+      "https://news.ycombinator.com/item?id=43037600"
+    ],
+    [
+      "I built a failed startups goods website and named it VcSubsidized.com",
+      "https://vcsubsidized.com/"
     ]
   ],
   [
@@ -131,32 +161,12 @@
   ],
   [
     [
-      "2025-02-12, 18:54:35",
-      "https://news.ycombinator.com/item?id=43028468"
-    ],
-    [
-      "Imapsync",
-      "https://imapsync.lamiral.info/"
-    ]
-  ],
-  [
-    [
       "2025-02-12, 17:04:22",
       "https://news.ycombinator.com/item?id=43027266"
     ],
     [
       "5G networks meet consumer needs as mobile data growth slows",
       "https://spectrum.ieee.org/5g-bandwidth"
-    ]
-  ],
-  [
-    [
-      "2025-02-12, 16:52:57",
-      "https://news.ycombinator.com/item?id=43027150"
-    ],
-    [
-      "Record-breaking neutrino is most energetic ever detected",
-      "https://www.nature.com/articles/d41586-025-00444-1"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Why Does Integer Addition Approximate Float Multiplication?",
       "https://probablydance.com/2025/02/08/why-does-integer-addition-approximate-float-multiplication/"
-    ]
-  ],
-  [
-    [
-      "2025-02-09, 09:56:13",
-      "https://news.ycombinator.com/item?id=42989666"
-    ],
-    [
-      "Is NixOS truly reproducible?",
-      "https://luj.fr/blog/is-nixos-truly-reproducible.html"
     ]
   ]
 ]
