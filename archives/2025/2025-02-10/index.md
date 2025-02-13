@@ -59,6 +59,7 @@
 * [2025-02-10, 10:38:29](https://news.ycombinator.com/item?id=42998904) - [SQL pipe syntax available in public preview in BigQuery](https://cloud.google.com/bigquery/docs/pipe-syntax-guide)
 * [2025-02-10, 10:04:46](https://news.ycombinator.com/item?id=42998737) - [Evolution of Whois Protocol to RDAP (2019)](https://www.icann.org/en/blogs/details/evolution-of-whois-protocol-to-rdap---what-you-need-to-know-23-10-2019-en)
 * [2025-02-10, 09:22:29](https://news.ycombinator.com/item?id=42998431) - [Show HN: Seen: rendering 1,000,000+ notes in <1s. speed, by default](https://seen-v2.vercel.app/)
+* [2025-02-10, 09:16:04](https://news.ycombinator.com/item?id=42998383) - [Nvidia Security Team: \"What if we just stopped using C?\" (2022)](https://blog.adacore.com/nvidia-security-team-what-if-we-just-stopped-using-c)
 * [2025-02-10, 09:14:59](https://news.ycombinator.com/item?id=42998375) - [Rust Kernel Policy](https://rust-for-linux.com/rust-kernel-policy)
 * [2025-02-10, 09:14:38](https://news.ycombinator.com/item?id=42998370) - [Euclid telescope captures Einstein ring revealing warping of space](https://www.theguardian.com/science/2025/feb/10/euclid-telescope-captures-einstein-ring-revealing-warping-of-space)
 * [2025-02-10, 08:30:54](https://news.ycombinator.com/item?id=42998061) - [FOSDEM 2025: The state of Rust trying to catch up with Ada [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-5356-the-state-of-rust-trying-to-catch-up-with-ada/)

@@ -2,6 +2,7 @@
 
 * [2025-02-13, 21:39:50](https://news.ycombinator.com/item?id=43041726) - [Amazon ends kindle ebooks \"Download and Transfer via USB\"](https://goodereader.com/blog/kindle/amazon-removing-download-and-transfer-on-the-kindle-feb-26th)
 * [2025-02-13, 20:39:48](https://news.ycombinator.com/item?id=43041033) - [The Death of the Web (2024)](https://garry.net/posts/the-death-of-the-web)
+* [2025-02-13, 20:27:08](https://news.ycombinator.com/item?id=43040869) - [JesseSort: A novel sorting algorithm that is faster than Python's default sort.](https://github.com/lewj85/jessesort)
 * [2025-02-13, 19:57:29](https://news.ycombinator.com/item?id=43040521) - [Privacy Pass Authentication for Kagi Search](https://blog.kagi.com/kagi-privacy-pass)
 * [2025-02-13, 19:44:34](https://news.ycombinator.com/item?id=43040382) - [MapTCHA, the open-source CAPTCHA that improves OpenStreetMap [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-5879-maptcha-the-open-source-captcha-that-improves-openstreetmap/)
 * [2025-02-13, 18:55:19](https://news.ycombinator.com/item?id=43039734) - [How Hans Bethe Stumbled Upon Perfect Quantum Theories](https://www.quantamagazine.org/how-hans-bethe-stumbled-upon-perfect-quantum-theories-20250212/)
@@ -17,7 +18,6 @@
 * [2025-02-13, 12:19:08](https://news.ycombinator.com/item?id=43035147) - [Cheap blood test detects pancreatic cancer before it spreads](https://www.nature.com/articles/d41586-025-00438-z)
 * [2025-02-13, 09:44:25](https://news.ycombinator.com/item?id=43034329) - [Self hosted FLOSS fitness/workout tracker](https://github.com/wger-project/wger)
 * [2025-02-13, 08:38:13](https://news.ycombinator.com/item?id=43033971) - [Learning fast and accurate absolute pitch judgment in adulthood](https://link.springer.com/article/10.3758/s13423-024-02620-2)
-* [2025-02-12, 22:20:19](https://news.ycombinator.com/item?id=43030388) - [Tiny JITs for a Faster FFI](https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/)
 * [2025-02-12, 20:17:08](https://news.ycombinator.com/item?id=43029314) - [Basis of the Kalman Filter [pdf]](https://github.com/tpn/pdfs/blob/master/Understanding%20the%20Basis%20of%20the%20Kalman%20Filter%20Via%20a%20Simple%20and%20Intuitive%20Derivation%20%282012%29.pdf)
 * [2025-02-12, 18:37:15](https://news.ycombinator.com/item?id=43028300) - [The Human Alphabet](https://publicdomainreview.org/collection/the-human-alphabet/)
 * [2025-02-12, 09:24:08](https://news.ycombinator.com/item?id=43023508) - [Smuggling arbitrary data through an emoji](https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/)
@@ -25,10 +25,10 @@
 * [2025-02-10, 12:52:19](https://news.ycombinator.com/item?id=42999655) - [Thinkserver: My web-based coding environment](https://checkmyworking.com/posts/2025/02/thinkserver-my-web-based-coding-environment/)
 * [2025-02-10, 11:51:07](https://news.ycombinator.com/item?id=42999258) - [An Infinitely Large Napkin [pdf] (2019)](https://venhance.github.io/napkin/Napkin.pdf)
 * [2025-02-10, 10:38:29](https://news.ycombinator.com/item?id=42998904) - [SQL pipe syntax available in public preview in BigQuery](https://cloud.google.com/bigquery/docs/pipe-syntax-guide)
+* [2025-02-10, 09:16:04](https://news.ycombinator.com/item?id=42998383) - [Nvidia Security Team: \"What if we just stopped using C?\" (2022)](https://blog.adacore.com/nvidia-security-team-what-if-we-just-stopped-using-c)
 * [2025-02-10, 06:28:28](https://news.ycombinator.com/item?id=42997496) - [Why does Mill use Scala?](https://mill-build.org/mill/depth/why-scala.html)
 * [2025-02-10, 00:35:17](https://news.ycombinator.com/item?id=42995656) - [MESI Cache Coherency Protocol Visualization](https://www.scss.tcd.ie/Jeremy.Jones/vivio/caches/MESI.htm)
 * [2025-02-09, 23:54:20](https://news.ycombinator.com/item?id=42995418) - [Residential Networking over Telephone](https://computer.rip/2025-02-02-residential-networking-over-telephone.html)
-* [2025-02-09, 22:29:32](https://news.ycombinator.com/item?id=42994749) - [Show HN: Detective Stories -Lateral thinking detective game with Deepseek player](https://detective-stories.com/)
 * [2025-02-09, 18:36:04](https://news.ycombinator.com/item?id=42992505) - [Why Does Integer Addition Approximate Float Multiplication?](https://probablydance.com/2025/02/08/why-does-integer-addition-approximate-float-multiplication/)
 
 ## [Archives](archives/index.md)
