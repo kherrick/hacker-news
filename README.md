@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-13, 16:12:29](https://news.ycombinator.com/item?id=43037426) - [DOGE Has Started Gutting a Key US Technology Agency](https://www.wired.com/story/doge-tts-fired/)
-* [2025-02-13, 15:38:01](https://news.ycombinator.com/item?id=43036934) - [Court Documents Shed New Light on DOGE Activity at Treasury Department](https://www.zetter-zeroday.com/court-documents-shed-new-light-on-doge-access-and-activity-at-treasury-department/)
+* [2025-02-13, 16:37:08](https://news.ycombinator.com/item?id=43037821) - [RFK Jr Will Be Confirmed as Secretary of Health and Human Services](https://www.reuters.com/world/us/trump-health-nominee-kennedy-secures-enough-us-senate-votes-confirmation-2025-02-13/)
+* [2025-02-13, 16:23:50](https://news.ycombinator.com/item?id=43037623) - [White Hat Hackers Expose Iridium Satellite Security Flaws](https://spectrum.ieee.org/iridium-satellite)
 * [2025-02-13, 15:34:57](https://news.ycombinator.com/item?id=43036904) - [Resigning as Asahi Linux project lead](https://marcan.st/2025/02/resigning-as-asahi-linux-project-lead/)
 * [2025-02-13, 15:20:52](https://news.ycombinator.com/item?id=43036742) - [Magnetic field sorting of superconducting graphite particles with Tc>400K](https://arxiv.org/abs/2410.18020)
 * [2025-02-13, 15:08:34](https://news.ycombinator.com/item?id=43036593) - [Better text rendering in Chromium-based browsers on Windows](https://developer.chrome.com/blog/better-text-rendering-in-chromium-based-browsers-on-windows)
@@ -15,6 +15,7 @@
 * [2025-02-12, 18:54:35](https://news.ycombinator.com/item?id=43028468) - [Imapsync](https://imapsync.lamiral.info/)
 * [2025-02-12, 17:04:22](https://news.ycombinator.com/item?id=43027266) - [5G networks meet consumer needs as mobile data growth slows](https://spectrum.ieee.org/5g-bandwidth)
 * [2025-02-12, 16:52:57](https://news.ycombinator.com/item?id=43027150) - [Record-breaking neutrino is most energetic ever detected](https://www.nature.com/articles/d41586-025-00444-1)
+* [2025-02-12, 16:32:37](https://news.ycombinator.com/item?id=43026934) - [How Nissan and Honda's $60B merger talks collapsed](https://www.reuters.com/markets/deals/inside-collapse-nissan-hondas-60-billion-mega-deal-2025-02-12/)
 * [2025-02-12, 16:31:04](https://news.ycombinator.com/item?id=43026920) - [The Prophet of Parking: A eulogy for the great Donald Shoup](https://www.worksinprogress.news/p/the-prophet-of-parking)
 * [2025-02-12, 11:19:42](https://news.ycombinator.com/item?id=43024221) - [Leaking the email of any YouTube user for $10k](https://brutecat.com/articles/leaking-youtube-emails)
 * [2025-02-12, 09:24:08](https://news.ycombinator.com/item?id=43023508) - [Smuggling arbitrary data through an emoji](https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/)
@@ -28,7 +29,6 @@
 * [2025-02-09, 23:54:20](https://news.ycombinator.com/item?id=42995418) - [Residential Networking over Telephone](https://computer.rip/2025-02-02-residential-networking-over-telephone.html)
 * [2025-02-09, 20:28:28](https://news.ycombinator.com/item?id=42993603) - [The World Without a Mask (1934)](https://scifist.net/2022/07/23/the-world-without-a-mask/)
 * [2025-02-09, 18:36:04](https://news.ycombinator.com/item?id=42992505) - [Why Does Integer Addition Approximate Float Multiplication?](https://probablydance.com/2025/02/08/why-does-integer-addition-approximate-float-multiplication/)
-* [2025-02-09, 14:12:51](https://news.ycombinator.com/item?id=42990801) - [Automating the Vim Workplace (2020)](https://sharats.me/posts/automating-the-vim-workplace/)
 * [2025-02-09, 09:56:13](https://news.ycombinator.com/item?id=42989666) - [Is NixOS truly reproducible?](https://luj.fr/blog/is-nixos-truly-reproducible.html)
 
 ## [Archives](archives/index.md)

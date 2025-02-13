@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-13](index.md)
 
+* [2025-02-13, 16:37:08](https://news.ycombinator.com/item?id=43037821) - [RFK Jr Will Be Confirmed as Secretary of Health and Human Services](https://www.reuters.com/world/us/trump-health-nominee-kennedy-secures-enough-us-senate-votes-confirmation-2025-02-13/)
+* [2025-02-13, 16:23:50](https://news.ycombinator.com/item?id=43037623) - [White Hat Hackers Expose Iridium Satellite Security Flaws](https://spectrum.ieee.org/iridium-satellite)
 * [2025-02-13, 16:12:29](https://news.ycombinator.com/item?id=43037426) - [DOGE Has Started Gutting a Key US Technology Agency](https://www.wired.com/story/doge-tts-fired/)
 * [2025-02-13, 15:49:59](https://news.ycombinator.com/item?id=43037100) - [Why is everyone trying to replace Software Engineers?](https://toddle.dev/blog/why-is-everyone-trying-to-replace-software-engineers)
 * [2025-02-13, 15:38:01](https://news.ycombinator.com/item?id=43036934) - [Court Documents Shed New Light on DOGE Activity at Treasury Department](https://www.zetter-zeroday.com/court-documents-shed-new-light-on-doge-access-and-activity-at-treasury-department/)
