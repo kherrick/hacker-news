@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-13](index.md)
 
+* [2025-02-13, 18:20:29](https://news.ycombinator.com/item?id=43039308) - [Phind 2: Reinventing AI search with visual answers and multi-step reasoning](https://www.phind.com/blog/phind-2)
 * [2025-02-13, 17:35:10](https://news.ycombinator.com/item?id=43038727) - [Usaid funding freeze disrupts global tuberculosis control efforts](https://www.cidrap.umn.edu/tuberculosis/usaid-funding-freeze-disrupts-global-tuberculosis-control-efforts)
 * [2025-02-13, 17:13:01](https://news.ycombinator.com/item?id=43038395) - [Do you need permission from the government to do independent research?](https://dynomight.net/irb/)
 * [2025-02-13, 16:59:43](https://news.ycombinator.com/item?id=43038200) - [LibreOffice still kicking at 40, now with browser tricks and real-time collab](https://www.theregister.com/2025/02/13/libreoffice_wasm_zetaoffice/)

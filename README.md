@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-13, 17:35:10](https://news.ycombinator.com/item?id=43038727) - [Usaid funding freeze disrupts global tuberculosis control efforts](https://www.cidrap.umn.edu/tuberculosis/usaid-funding-freeze-disrupts-global-tuberculosis-control-efforts)
+* [2025-02-13, 18:20:29](https://news.ycombinator.com/item?id=43039308) - [Phind 2: Reinventing AI search with visual answers and multi-step reasoning](https://www.phind.com/blog/phind-2)
 * [2025-02-13, 17:13:01](https://news.ycombinator.com/item?id=43038395) - [Do you need permission from the government to do independent research?](https://dynomight.net/irb/)
 * [2025-02-13, 16:59:43](https://news.ycombinator.com/item?id=43038200) - [LibreOffice still kicking at 40, now with browser tricks and real-time collab](https://www.theregister.com/2025/02/13/libreoffice_wasm_zetaoffice/)
-* [2025-02-13, 16:58:49](https://news.ycombinator.com/item?id=43038190) - [Larry Ellison wants to put all America's data in AI, including DNA](https://www.theregister.com/2025/02/12/larry_ellison_wants_all_data/)
 * [2025-02-13, 16:27:25](https://news.ycombinator.com/item?id=43037668) - [TSMC Faces Tough Choices Amid Rumors for Intel Foundry Collaboration](https://techsoda.substack.com/p/tsmc-faces-tough-choices-amid-rumors)
 * [2025-02-13, 16:23:50](https://news.ycombinator.com/item?id=43037623) - [White Hat Hackers Expose Iridium Satellite Security Flaws](https://spectrum.ieee.org/iridium-satellite)
 * [2025-02-13, 16:22:38](https://news.ycombinator.com/item?id=43037600) - [I built a failed startups goods website and named it VcSubsidized.com](https://vcsubsidized.com/)
@@ -28,6 +27,7 @@
 * [2025-02-10, 10:04:46](https://news.ycombinator.com/item?id=42998737) - [Evolution of Whois Protocol to RDAP (2019)](https://www.icann.org/en/blogs/details/evolution-of-whois-protocol-to-rdap---what-you-need-to-know-23-10-2019-en)
 * [2025-02-10, 00:49:58](https://news.ycombinator.com/item?id=42995762) - [Large magma bodies found beneath dormant volcanoes, surprising scientists](https://phys.org/news/2025-01-large-magma-bodies-beneath-dormant.html)
 * [2025-02-09, 23:54:20](https://news.ycombinator.com/item?id=42995418) - [Residential Networking over Telephone](https://computer.rip/2025-02-02-residential-networking-over-telephone.html)
+* [2025-02-09, 22:29:32](https://news.ycombinator.com/item?id=42994749) - [Show HN: Detective Stories -Lateral thinking detective game with Deepseek player](https://detective-stories.com/)
 * [2025-02-09, 20:28:28](https://news.ycombinator.com/item?id=42993603) - [The World Without a Mask (1934)](https://scifist.net/2022/07/23/the-world-without-a-mask/)
 * [2025-02-09, 18:36:04](https://news.ycombinator.com/item?id=42992505) - [Why Does Integer Addition Approximate Float Multiplication?](https://probablydance.com/2025/02/08/why-does-integer-addition-approximate-float-multiplication/)
 
