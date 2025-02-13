@@ -46,6 +46,7 @@
 * [2025-02-10, 12:48:58](https://news.ycombinator.com/item?id=42999635) - [iOS indie app development looks like](https://safespace.is/blog/villain-era-part-1)
 * [2025-02-10, 12:48:24](https://news.ycombinator.com/item?id=42999632) - [AI Tool Found My Autoimmune Disease After $100k and 30 Hospital Visits](https://old.reddit.com/r/selfhosted/comments/1ij7s4m/how_i_built_an_open_source_ai_tool_to_find_my/)
 * [2025-02-10, 12:44:27](https://news.ycombinator.com/item?id=42999598) - [Durable plastic gets a sustainability makeover in novel polymerization process](https://phys.org/news/2025-01-durable-plastic-sustainability-makeover-polymerization.html)
+* [2025-02-10, 12:39:43](https://news.ycombinator.com/item?id=42999566) - [NESFab – A new programming language for creating NES games](https://pubby.games/nesfab.html)
 * [2025-02-10, 12:38:08](https://news.ycombinator.com/item?id=42999561) - [Advertising Is a Cancer on Society](https://jacek.zlydach.pl/blog/2019-07-31-ads-as-cancer.html)
 * [2025-02-10, 12:24:19](https://news.ycombinator.com/item?id=42999464) - [The Crisis in Tech's Obsession with Junior Talent](https://medium.com/mr-plan-publication/8-out-of-10-senior-engineers-feel-undervalued-the-hidden-crisis-in-techs-obsession-with-junior-fa9cc62b1e8e)
 * [2025-02-10, 12:15:51](https://news.ycombinator.com/item?id=42999413) - [Trunk-Based Development](https://bucket.co/blog/trunk-based-development)
