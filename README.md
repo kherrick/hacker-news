@@ -2,7 +2,6 @@
 
 * [2025-02-13, 22:41:05](https://news.ycombinator.com/item?id=43042392) - [Hyperbound (YC S23) Is Hiring a Founding Full-Stack Engineer in SF](https://www.ycombinator.com/companies/hyperbound/jobs/RzDBxNi-founding-full-stack-engineer-in-sf)
 * [2025-02-13, 22:21:28](https://news.ycombinator.com/item?id=43042185) - [Banksy Fights with Greeting Card Company for Control of His Trademark](https://robbreport.com/shelter/art-collectibles/bansky-fighting-greeting-card-company-trademark-control-1236204172/)
-* [2025-02-13, 22:09:30](https://news.ycombinator.com/item?id=43042047) - [The US has exposed the World Anti-Doping Agency's precarious funding model](https://phys.org/news/2025-01-exposed-world-anti-doping-agency.html)
 * [2025-02-13, 21:49:16](https://news.ycombinator.com/item?id=43041827) - [Show HN: SQL Noir – Learn SQL by solving crimes](https://www.sqlnoir.com)
 * [2025-02-13, 20:27:08](https://news.ycombinator.com/item?id=43040869) - [JesseSort: A novel sorting algorithm that is faster than Python's default sort.](https://github.com/lewj85/jessesort)
 * [2025-02-13, 19:57:29](https://news.ycombinator.com/item?id=43040521) - [Privacy Pass Authentication for Kagi Search](https://blog.kagi.com/kagi-privacy-pass)
@@ -27,6 +26,7 @@
 * [2025-02-10, 10:38:29](https://news.ycombinator.com/item?id=42998904) - [SQL pipe syntax available in public preview in BigQuery](https://cloud.google.com/bigquery/docs/pipe-syntax-guide)
 * [2025-02-10, 09:16:04](https://news.ycombinator.com/item?id=42998383) - [Nvidia Security Team: \"What if we just stopped using C?\" (2022)](https://blog.adacore.com/nvidia-security-team-what-if-we-just-stopped-using-c)
 * [2025-02-10, 06:28:28](https://news.ycombinator.com/item?id=42997496) - [Why does Mill use Scala?](https://mill-build.org/mill/depth/why-scala.html)
+* [2025-02-10, 01:03:47](https://news.ycombinator.com/item?id=42995848) - [Description Language for managing file/folder naming conventions](https://filename.systems/en/)
 * [2025-02-10, 00:35:17](https://news.ycombinator.com/item?id=42995656) - [MESI Cache Coherency Protocol Visualization](https://www.scss.tcd.ie/Jeremy.Jones/vivio/caches/MESI.htm)
 * [2025-02-09, 23:54:20](https://news.ycombinator.com/item?id=42995418) - [Residential Networking over Telephone](https://computer.rip/2025-02-02-residential-networking-over-telephone.html)
 * [2025-02-09, 18:36:04](https://news.ycombinator.com/item?id=42992505) - [Why Does Integer Addition Approximate Float Multiplication?](https://probablydance.com/2025/02/08/why-does-integer-addition-approximate-float-multiplication/)
