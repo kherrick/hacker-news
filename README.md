@@ -6,7 +6,7 @@
 * [2025-02-13, 18:20:29](https://news.ycombinator.com/item?id=43039308) - [Phind 2: AI search with visual answers and multi-step reasoning](https://www.phind.com/blog/phind-2)
 * [2025-02-13, 17:13:01](https://news.ycombinator.com/item?id=43038395) - [Who exactly needs to get approval from an institutional review board (IRB)?](https://dynomight.net/irb/)
 * [2025-02-13, 16:59:43](https://news.ycombinator.com/item?id=43038200) - [LibreOffice still kicking at 40, now with browser tricks and real-time collab](https://www.theregister.com/2025/02/13/libreoffice_wasm_zetaoffice/)
-* [2025-02-13, 16:27:25](https://news.ycombinator.com/item?id=43037668) - [TSMC Faces Tough Choices Amid Rumors for Intel Foundry Collaboration](https://techsoda.substack.com/p/tsmc-faces-tough-choices-amid-rumors)
+* [2025-02-13, 16:27:25](https://news.ycombinator.com/item?id=43037668) - [TSMC faces tough choices amid rumors for Intel foundry collaboration](https://techsoda.substack.com/p/tsmc-faces-tough-choices-amid-rumors)
 * [2025-02-13, 16:23:50](https://news.ycombinator.com/item?id=43037623) - [White Hat Hackers Expose Iridium Satellite Security Flaws](https://spectrum.ieee.org/iridium-satellite)
 * [2025-02-13, 16:22:38](https://news.ycombinator.com/item?id=43037600) - [I built a failed startups goods website and named it VcSubsidized.com](https://vcsubsidized.com/)
 * [2025-02-13, 15:34:57](https://news.ycombinator.com/item?id=43036904) - [Resigning as Asahi Linux project lead](https://marcan.st/2025/02/resigning-as-asahi-linux-project-lead/)
