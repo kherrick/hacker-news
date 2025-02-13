@@ -53,6 +53,7 @@
 * [2025-02-09, 14:50:11](https://news.ycombinator.com/item?id=42991006) - [Hard disk fraud: long runtimes on new Seagate hard disks](https://www.heise.de/en/news/Hard-disk-fraud-Increasing-evidence-of-origin-in-China-10269059.html)
 * [2025-02-09, 14:38:52](https://news.ycombinator.com/item?id=42990948) - [How (not) to sign a JSON object (2019)](https://www.latacora.com/blog/2019/07/24/how-not-to/)
 * [2025-02-09, 14:16:40](https://news.ycombinator.com/item?id=42990819) - [Baffled by generational garbage collection – wingolog](https://wingolog.org/archives/2025/02/09/baffled-by-generational-garbage-collection)
+* [2025-02-09, 14:12:51](https://news.ycombinator.com/item?id=42990801) - [Automating the Vim Workplace (2020)](https://sharats.me/posts/automating-the-vim-workplace/)
 * [2025-02-09, 14:01:08](https://news.ycombinator.com/item?id=42990739) - [Extend Extra Extreme: keyboard extend layer mappings](https://dreymar.colemak.org/layers-extend.html)
 * [2025-02-09, 13:55:40](https://news.ycombinator.com/item?id=42990704) - [Mac(OS)talgia](https://swallowmygraphicdesign.com/project/macostalgia)
 * [2025-02-09, 13:54:50](https://news.ycombinator.com/item?id=42990701) - [Compiling Array Languages for SIMD [pdf]](http://vmchale.com/static/serve/simd.pdf)

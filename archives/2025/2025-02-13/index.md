@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-13](index.md)
 
 * [2025-02-13, 07:18:04](https://news.ycombinator.com/item?id=43033493) - [Trump's firing of the U.S. government archivist is far worse than it might seem](https://www.fastcompany.com/91277620/trump-firing-national-archivist-colleen-shogan)
+* [2025-02-13, 07:12:47](https://news.ycombinator.com/item?id=43033463) - [Why young parents should focus on building trust with their kids](https://desunit.com/blog/marshmallow-test-and-parenting/)
 * [2025-02-13, 06:46:25](https://news.ycombinator.com/item?id=43033341) - [Chrome does not have any way to stop video auto play?](https://news.ycombinator.com/item?id=43033341)
 * [2025-02-13, 06:30:44](https://news.ycombinator.com/item?id=43033275) - [The Path to American Authoritarianism](https://www.foreignaffairs.com/united-states/path-american-authoritarianism-trump)
 * [2025-02-13, 06:16:41](https://news.ycombinator.com/item?id=43033202) - [Diversity: The U.S. Military's Not-So-Secret Weapon](https://angrystaffofficer.com/2025/02/12/diversity-the-u-s-militarys-not-so-secret-weapon/)
