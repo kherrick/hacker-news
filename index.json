@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-02-13, 20:27:08",
+      "https://news.ycombinator.com/item?id=43040869"
+    ],
+    [
+      "JesseSort: A novel sorting algorithm that is faster than Python's default sort.",
+      "https://github.com/lewj85/jessesort"
+    ]
+  ],
+  [
+    [
       "2025-02-13, 19:57:29",
       "https://news.ycombinator.com/item?id=43040521"
     ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2025-02-12, 22:20:19",
-      "https://news.ycombinator.com/item?id=43030388"
-    ],
-    [
-      "Tiny JITs for a Faster FFI",
-      "https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/"
-    ]
-  ],
-  [
-    [
       "2025-02-12, 20:17:08",
       "https://news.ycombinator.com/item?id=43029314"
     ],
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2025-02-10, 09:16:04",
+      "https://news.ycombinator.com/item?id=42998383"
+    ],
+    [
+      "Nvidia Security Team: \"What if we just stopped using C?\" (2022)",
+      "https://blog.adacore.com/nvidia-security-team-what-if-we-just-stopped-using-c"
+    ]
+  ],
+  [
+    [
       "2025-02-10, 06:28:28",
       "https://news.ycombinator.com/item?id=42997496"
     ],
@@ -277,16 +287,6 @@
     [
       "Residential Networking over Telephone",
       "https://computer.rip/2025-02-02-residential-networking-over-telephone.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-09, 22:29:32",
-      "https://news.ycombinator.com/item?id=42994749"
-    ],
-    [
-      "Show HN: Detective Stories -Lateral thinking detective game with Deepseek player",
-      "https://detective-stories.com/"
     ]
   ],
   [
