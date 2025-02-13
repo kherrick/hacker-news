@@ -38,6 +38,7 @@
 * [2025-02-12, 13:53:43](https://news.ycombinator.com/item?id=43025420) - [Representation of BBC News Content in AI Assistants [pdf]](https://www.bbc.co.uk/aboutthebbc/documents/bbc-research-into-ai-assistants.pdf)
 * [2025-02-12, 13:35:17](https://news.ycombinator.com/item?id=43025266) - [Delivering Malware Through Abandoned Amazon S3 Buckets](https://www.schneier.com/blog/archives/2025/02/delivering-malware-through-abandoned-amazon-s3-buckets.html)
 * [2025-02-12, 12:58:13](https://news.ycombinator.com/item?id=43024961) - [DeaDBeeF: The Ultimate Music Player](https://deadbeef.sourceforge.io/)
+* [2025-02-12, 12:47:16](https://news.ycombinator.com/item?id=43024866) - [Do It Yourself Database CDN with Embedded Replicas](https://turso.tech/blog/do-it-yourself-database-cdn-with-embedded-replicas)
 * [2025-02-12, 12:11:33](https://news.ycombinator.com/item?id=43024540) - [Vanishing Culture: Punch Card Knitting](https://blog.archive.org/2025/02/12/vanishing-culture-punch-card-knitting/)
 * [2025-02-12, 12:00:59](https://news.ycombinator.com/item?id=43024473) - [Extend (YC W23) is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
 * [2025-02-12, 11:32:18](https://news.ycombinator.com/item?id=43024299) - [EU to mobilize 200B Euros to invest in AI](https://www.euronews.com/next/2025/02/11/eu-to-mobilise-200-billion-for-ai-investment)
