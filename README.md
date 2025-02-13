@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-13, 06:46:25](https://news.ycombinator.com/item?id=43033341) - [Chrome does not have any way to stop video auto play?](https://news.ycombinator.com/item?id=43033341)
 * [2025-02-13, 01:24:31](https://news.ycombinator.com/item?id=43031740) - [How to professionally say (2022)](https://github.com/AkashRajpurohit/howtoprofessionallysay)
 * [2025-02-13, 00:55:26](https://news.ycombinator.com/item?id=43031545) - [YouTube's New Hue](https://design.google/library/youtube-new-red-color)
 * [2025-02-13, 00:24:08](https://news.ycombinator.com/item?id=43031372) - [Why cryptography is not based on NP-complete problems](https://blintzbase.com/posts/cryptography-is-not-based-on-np-hard-problems/)
@@ -11,7 +12,6 @@
 * [2025-02-12, 18:14:34](https://news.ycombinator.com/item?id=43028057) - [Automated Capability Discovery via Foundation Model Self-Exploration](https://arxiv.org/abs/2502.07577)
 * [2025-02-12, 17:11:25](https://news.ycombinator.com/item?id=43027335) - [Show HN: Game Bub – open-source FPGA retro emulation handheld](https://eli.lipsitz.net/posts/introducing-gamebub/)
 * [2025-02-12, 17:04:22](https://news.ycombinator.com/item?id=43027266) - [5G networks meet consumer needs as mobile data growth slows](https://spectrum.ieee.org/5g-bandwidth)
-* [2025-02-12, 17:00:48](https://news.ycombinator.com/item?id=43027230) - [Artie (YC S23) Is Hiring Business Operations](https://www.ycombinator.com/companies/artie/jobs/CM1sVks-business-operations)
 * [2025-02-12, 16:52:57](https://news.ycombinator.com/item?id=43027150) - [Record-breaking neutrino is most energetic ever detected](https://www.nature.com/articles/d41586-025-00444-1)
 * [2025-02-12, 16:32:37](https://news.ycombinator.com/item?id=43026934) - [How Nissan and Honda's $60B merger talks collapsed](https://www.reuters.com/markets/deals/inside-collapse-nissan-hondas-60-billion-mega-deal-2025-02-12/)
 * [2025-02-12, 16:31:04](https://news.ycombinator.com/item?id=43026920) - [The Prophet of Parking: A eulogy for the great Donald Shoup](https://www.worksinprogress.news/p/the-prophet-of-parking)
