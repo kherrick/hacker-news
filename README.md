@@ -2,7 +2,7 @@
 
 * [2025-02-13, 07:12:47](https://news.ycombinator.com/item?id=43033463) - [Why young parents should focus on building trust with their kids](https://desunit.com/blog/marshmallow-test-and-parenting/)
 * [2025-02-13, 06:46:25](https://news.ycombinator.com/item?id=43033341) - [Chrome does not have any way to stop video auto play?](https://news.ycombinator.com/item?id=43033341)
-* [2025-02-13, 01:24:31](https://news.ycombinator.com/item?id=43031740) - [How to professionally say (2022)](https://github.com/AkashRajpurohit/howtoprofessionallysay)
+* [2025-02-13, 06:07:34](https://news.ycombinator.com/item?id=43033157) - [Federal data is disappearing. On Thursday, meet the teams working to rescue it](https://www.muckrock.com/news/archives/2025/feb/10/federal-data-is-disappearing-on-thursday-meet-the-teams-working-to-rescue-it-and-learn-how-you-can-help/)
 * [2025-02-13, 00:24:08](https://news.ycombinator.com/item?id=43031372) - [Why cryptography is not based on NP-complete problems](https://blintzbase.com/posts/cryptography-is-not-based-on-np-hard-problems/)
 * [2025-02-12, 22:20:19](https://news.ycombinator.com/item?id=43030388) - [Tiny JITs for a Faster FFI](https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/)
 * [2025-02-12, 20:55:12](https://news.ycombinator.com/item?id=43029686) - [Show HN: I made my own OS from scratch because I was bored](https://jotalea.com.ar/misc/jotaleaos/)
