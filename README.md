@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-13, 14:16:20](https://news.ycombinator.com/item?id=43036042) - [DOGE Staffer Is Trying to Reroute FEMA Funds](https://www.dropsitenews.com/p/doge-fema-funding-access-social-security-numbers)
 * [2025-02-13, 12:19:08](https://news.ycombinator.com/item?id=43035147) - [Cheap blood test detects pancreatic cancer before it spreads](https://www.nature.com/articles/d41586-025-00438-z)
-* [2025-02-13, 11:09:13](https://news.ycombinator.com/item?id=43034789) - [Chrome browser bringing an IP address privacy tool to Incognito](https://github.com/GoogleChrome/ip-protection)
 * [2025-02-13, 09:44:25](https://news.ycombinator.com/item?id=43034329) - [Self hosted FLOSS fitness/workout tracker](https://github.com/wger-project/wger)
 * [2025-02-13, 07:12:47](https://news.ycombinator.com/item?id=43033463) - [Why young parents should focus on building trust with their kids](https://desunit.com/blog/marshmallow-test-and-parenting/)
 * [2025-02-12, 22:20:19](https://news.ycombinator.com/item?id=43030388) - [Tiny JITs for a Faster FFI](https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/)

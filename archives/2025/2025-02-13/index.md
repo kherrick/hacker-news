@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-13](index.md)
 
+* [2025-02-13, 14:16:20](https://news.ycombinator.com/item?id=43036042) - [DOGE Staffer Is Trying to Reroute FEMA Funds](https://www.dropsitenews.com/p/doge-fema-funding-access-social-security-numbers)
 * [2025-02-13, 12:19:08](https://news.ycombinator.com/item?id=43035147) - [Cheap blood test detects pancreatic cancer before it spreads](https://www.nature.com/articles/d41586-025-00438-z)
 * [2025-02-13, 12:17:09](https://news.ycombinator.com/item?id=43035138) - [Elizabeth Holmes' PR campaign continues](https://www.theverge.com/news/611549/elizabeth-holmes-people-jailhouse-interview)
 * [2025-02-13, 11:09:13](https://news.ycombinator.com/item?id=43034789) - [Chrome browser bringing an IP address privacy tool to Incognito](https://github.com/GoogleChrome/ip-protection)
