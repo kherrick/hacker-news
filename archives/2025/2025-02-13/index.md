@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-02-13](index.md)
 
+* [2025-02-13, 15:34:57](https://news.ycombinator.com/item?id=43036904) - [Resigning as Asahi Linux project lead](https://marcan.st/2025/02/resigning-as-asahi-linux-project-lead/)
+* [2025-02-13, 15:24:22](https://news.ycombinator.com/item?id=43036779) - [Will AI Agents Revolutionize How We Query and Use Data?](https://news.ycombinator.com/item?id=43036779)
+* [2025-02-13, 15:20:52](https://news.ycombinator.com/item?id=43036742) - [Magnetic field sorting of superconducting graphite particles with Tc>400K](https://arxiv.org/abs/2410.18020)
 * [2025-02-13, 15:08:34](https://news.ycombinator.com/item?id=43036593) - [Better text rendering in Chromium-based browsers on Windows](https://developer.chrome.com/blog/better-text-rendering-in-chromium-based-browsers-on-windows)
 * [2025-02-13, 14:53:46](https://news.ycombinator.com/item?id=43036434) - [U.K. demand for a back door to Apple data threatens Americans, lawmakers say](https://www.washingtonpost.com/technology/2025/02/13/apple-uk-security-back-door-adp/)
+* [2025-02-13, 14:53:21](https://news.ycombinator.com/item?id=43036428) - [Are PhDs losing lustre? Why fewer students are enrolling in doctoral degrees](https://www.nature.com/articles/d41586-025-00425-4)
 * [2025-02-13, 14:48:31](https://news.ycombinator.com/item?id=43036366) - [UTEP leaders silent as Ted Cruz accuses researchers of using 'woke DEI grants'](https://elpasomatters.org/2025/02/12/ted-cruz-utep-grants-national-science-foundation/)
 * [2025-02-13, 14:47:43](https://news.ycombinator.com/item?id=43036356) - [Federal workers say they increasingly distrust platforms like Facebook](https://www.theverge.com/news/610951/federal-workers-privacy-surveillance-signal-facebook-messenger)
 * [2025-02-13, 14:16:20](https://news.ycombinator.com/item?id=43036042) - [DOGE Staffer Is Trying to Reroute FEMA Funds](https://www.dropsitenews.com/p/doge-fema-funding-access-social-security-numbers)
