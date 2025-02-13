@@ -21,6 +21,7 @@
 * [2025-02-09, 20:44:09](https://news.ycombinator.com/item?id=42993755) - [The Recombobulation Area](https://onmilwaukee.com/articles/recombobulationsigns)
 * [2025-02-09, 20:34:56](https://news.ycombinator.com/item?id=42993661) - [Music Generation AI Models](https://www.maximepeabody.com/blog/music-ai-models)
 * [2025-02-09, 20:17:41](https://news.ycombinator.com/item?id=42993490) - [No AI December Reflections](https://blog.rybarix.com/2025/02/09/noaidecember.html)
+* [2025-02-09, 20:06:32](https://news.ycombinator.com/item?id=42993373) - [Dangerous dependencies in third-party software – the underestimated risk](https://linux-howto.org/article/dangerous-dependencies-in-third-party-software-the-underestimated-risk)
 * [2025-02-09, 20:00:02](https://news.ycombinator.com/item?id=42993305) - [The Differences Between Direct Alignment Algorithms Are a Blur](https://arxiv.org/abs/2502.01237)
 * [2025-02-09, 19:37:38](https://news.ycombinator.com/item?id=42993086) - [Ada crate of the year 2024 announced](https://blog.adacore.com/ada-spark-crate-of-the-year-2024-winners-announced)
 * [2025-02-09, 19:32:57](https://news.ycombinator.com/item?id=42993044) - [OpenStreetMap Calendar](https://osmcal.org/)
