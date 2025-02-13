@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-13, 20:39:48](https://news.ycombinator.com/item?id=43041033) - [The Death of the Web (2024)](https://garry.net/posts/the-death-of-the-web)
+* [2025-02-13, 20:06:48](https://news.ycombinator.com/item?id=43040631) - [DOGE's Website Is Just One Big X Ad](https://www.wired.com/story/doge-website-is-just-one-big-x-ad/)
 * [2025-02-13, 19:57:29](https://news.ycombinator.com/item?id=43040521) - [Privacy Pass Authentication for Kagi Search](https://blog.kagi.com/kagi-privacy-pass)
 * [2025-02-13, 19:44:34](https://news.ycombinator.com/item?id=43040382) - [MapTCHA, the open-source CAPTCHA that improves OpenStreetMap [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-5879-maptcha-the-open-source-captcha-that-improves-openstreetmap/)
 * [2025-02-13, 18:55:19](https://news.ycombinator.com/item?id=43039734) - [How Hans Bethe Stumbled Upon Perfect Quantum Theories](https://www.quantamagazine.org/how-hans-bethe-stumbled-upon-perfect-quantum-theories-20250212/)
@@ -25,7 +26,6 @@
 * [2025-02-10, 11:51:07](https://news.ycombinator.com/item?id=42999258) - [An Infinitely Large Napkin [pdf] (2019)](https://venhance.github.io/napkin/Napkin.pdf)
 * [2025-02-10, 10:38:29](https://news.ycombinator.com/item?id=42998904) - [SQL pipe syntax available in public preview in BigQuery](https://cloud.google.com/bigquery/docs/pipe-syntax-guide)
 * [2025-02-10, 06:28:28](https://news.ycombinator.com/item?id=42997496) - [Why does Mill use Scala?](https://mill-build.org/mill/depth/why-scala.html)
-* [2025-02-10, 00:49:58](https://news.ycombinator.com/item?id=42995762) - [Large magma bodies found beneath dormant volcanoes](https://phys.org/news/2025-01-large-magma-bodies-beneath-dormant.html)
 * [2025-02-10, 00:35:17](https://news.ycombinator.com/item?id=42995656) - [MESI Cache Coherency Protocol Visualization](https://www.scss.tcd.ie/Jeremy.Jones/vivio/caches/MESI.htm)
 * [2025-02-09, 23:54:20](https://news.ycombinator.com/item?id=42995418) - [Residential Networking over Telephone](https://computer.rip/2025-02-02-residential-networking-over-telephone.html)
 * [2025-02-09, 22:29:32](https://news.ycombinator.com/item?id=42994749) - [Show HN: Detective Stories -Lateral thinking detective game with Deepseek player](https://detective-stories.com/)

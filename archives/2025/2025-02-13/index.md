@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-13](index.md)
 
 * [2025-02-13, 20:39:48](https://news.ycombinator.com/item?id=43041033) - [The Death of the Web (2024)](https://garry.net/posts/the-death-of-the-web)
+* [2025-02-13, 20:06:48](https://news.ycombinator.com/item?id=43040631) - [DOGE's Website Is Just One Big X Ad](https://www.wired.com/story/doge-website-is-just-one-big-x-ad/)
 * [2025-02-13, 19:57:29](https://news.ycombinator.com/item?id=43040521) - [Privacy Pass Authentication for Kagi Search](https://blog.kagi.com/kagi-privacy-pass)
 * [2025-02-13, 19:44:34](https://news.ycombinator.com/item?id=43040382) - [MapTCHA, the open-source CAPTCHA that improves OpenStreetMap [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-5879-maptcha-the-open-source-captcha-that-improves-openstreetmap/)
 * [2025-02-13, 19:39:30](https://news.ycombinator.com/item?id=43040320) - [Google fumbles Gemini Super Bowl ad's cheese statistic](https://www.techradar.com/computing/artificial-intelligence/google-fumbles-gemini-super-bowl-ads-cheese-statistic)
