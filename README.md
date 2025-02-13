@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-13, 05:38:50](https://news.ycombinator.com/item?id=43032999) - [AI column-smashes words, concocts scientific term now used in 20 papers](https://boingboing.net/2025/02/12/fancy-science-journal-caught-publishing-nonsense-term-vegetative-electron-microscopy-doubles-down.html)
+* [2025-02-13, 06:16:41](https://news.ycombinator.com/item?id=43033202) - [Diversity: The U.S. Military's Not-So-Secret Weapon](https://angrystaffofficer.com/2025/02/12/diversity-the-u-s-militarys-not-so-secret-weapon/)
 * [2025-02-13, 01:24:31](https://news.ycombinator.com/item?id=43031740) - [How to professionally say (2022)](https://github.com/AkashRajpurohit/howtoprofessionallysay)
 * [2025-02-13, 00:55:26](https://news.ycombinator.com/item?id=43031545) - [YouTube's New Hue](https://design.google/library/youtube-new-red-color)
 * [2025-02-13, 00:24:08](https://news.ycombinator.com/item?id=43031372) - [Why cryptography is not based on NP-complete problems](https://blintzbase.com/posts/cryptography-is-not-based-on-np-hard-problems/)
@@ -17,7 +17,7 @@
 * [2025-02-12, 16:31:04](https://news.ycombinator.com/item?id=43026920) - [The Prophet of Parking: A eulogy for the great Donald Shoup](https://www.worksinprogress.news/p/the-prophet-of-parking)
 * [2025-02-12, 16:13:41](https://news.ycombinator.com/item?id=43026774) - [Ask HN: Former employees' RSUs at risk after startup's IPO](https://news.ycombinator.com/item?id=43026774)
 * [2025-02-12, 15:01:40](https://news.ycombinator.com/item?id=43026036) - [PgAssistant: OSS tool to help devs understand and optimize PG performance](https://github.com/nexsol-technologies/pgassistant)
-* [2025-02-12, 14:17:48](https://news.ycombinator.com/item?id=43025645) - [Visualizing Data Is an Art – We Should Treat It Like One](https://perthirtysix.com/visualizing-data-is-an-art)
+* [2025-02-12, 14:17:48](https://news.ycombinator.com/item?id=43025645) - [Visualizing data is an art](https://perthirtysix.com/visualizing-data-is-an-art)
 * [2025-02-12, 12:58:13](https://news.ycombinator.com/item?id=43024961) - [DeaDBeeF: The Ultimate Music Player](https://deadbeef.sourceforge.io/)
 * [2025-02-12, 12:11:33](https://news.ycombinator.com/item?id=43024540) - [Vanishing Culture: Punch Card Knitting](https://blog.archive.org/2025/02/12/vanishing-culture-punch-card-knitting/)
 * [2025-02-12, 11:19:42](https://news.ycombinator.com/item?id=43024221) - [Leaking the email of any YouTube user for $10k](https://brutecat.com/articles/leaking-youtube-emails)
