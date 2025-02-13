@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-13, 07:12:47](https://news.ycombinator.com/item?id=43033463) - [Why young parents should focus on building trust with their kids](https://desunit.com/blog/marshmallow-test-and-parenting/)
-* [2025-02-13, 06:46:25](https://news.ycombinator.com/item?id=43033341) - [Chrome does not have any way to stop video auto play?](https://news.ycombinator.com/item?id=43033341)
 * [2025-02-13, 06:07:34](https://news.ycombinator.com/item?id=43033157) - [Federal data is disappearing. On Thursday, meet the teams working to rescue it](https://www.muckrock.com/news/archives/2025/feb/10/federal-data-is-disappearing-on-thursday-meet-the-teams-working-to-rescue-it-and-learn-how-you-can-help/)
-* [2025-02-13, 00:24:08](https://news.ycombinator.com/item?id=43031372) - [Why cryptography is not based on NP-complete problems](https://blintzbase.com/posts/cryptography-is-not-based-on-np-hard-problems/)
+* [2025-02-13, 00:55:26](https://news.ycombinator.com/item?id=43031545) - [YouTube's New Hue](https://design.google/library/youtube-new-red-color)
 * [2025-02-12, 22:20:19](https://news.ycombinator.com/item?id=43030388) - [Tiny JITs for a Faster FFI](https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/)
 * [2025-02-12, 20:55:12](https://news.ycombinator.com/item?id=43029686) - [Show HN: I made my own OS from scratch because I was bored](https://jotalea.com.ar/misc/jotaleaos/)
 * [2025-02-12, 20:34:41](https://news.ycombinator.com/item?id=43029474) - [The average CPU performance of PCs and notebooks fell for the first time](https://www.cpubenchmark.net/year-on-year.html)
@@ -26,6 +25,7 @@
 * [2025-02-10, 12:52:19](https://news.ycombinator.com/item?id=42999655) - [Thinkserver: My web-based coding environment](https://checkmyworking.com/posts/2025/02/thinkserver-my-web-based-coding-environment/)
 * [2025-02-10, 12:39:43](https://news.ycombinator.com/item?id=42999566) - [NESFab – A new programming language for creating NES games](https://pubby.games/nesfab.html)
 * [2025-02-10, 00:49:58](https://news.ycombinator.com/item?id=42995762) - [Large magma bodies found beneath dormant volcanoes, surprising scientists](https://phys.org/news/2025-01-large-magma-bodies-beneath-dormant.html)
+* [2025-02-09, 18:36:04](https://news.ycombinator.com/item?id=42992505) - [Why Does Integer Addition Approximate Float Multiplication?](https://probablydance.com/2025/02/08/why-does-integer-addition-approximate-float-multiplication/)
 * [2025-02-09, 16:48:25](https://news.ycombinator.com/item?id=42991776) - [A drill bit that can also drive screws](https://www.core77.com/posts/135333/Industrial-Designer-Invents-Drill-Bit-that-Can-Also-Drive-Screws)
 * [2025-02-09, 15:09:41](https://news.ycombinator.com/item?id=42991112) - [What happens to your online accounts when you die?](https://digitalseams.com/blog/what-happens-to-your-online-accounts-when-you-die)
 * [2025-02-09, 14:12:51](https://news.ycombinator.com/item?id=42990801) - [Automating the Vim Workplace (2020)](https://sharats.me/posts/automating-the-vim-workplace/)

@@ -29,6 +29,7 @@
 * [2025-02-09, 19:06:19](https://news.ycombinator.com/item?id=42992783) - [Intel ruined an Israeli startup it bought for $2B–and lost the AI race](https://www.calcalistech.com/ctechnews/article/s1tra0sfye)
 * [2025-02-09, 18:59:12](https://news.ycombinator.com/item?id=42992729) - [Daily omega-3 fatty acids may help human organs stay young](https://medicalxpress.com/news/2025-02-daily-omega-fatty-acids-human.html)
 * [2025-02-09, 18:49:06](https://news.ycombinator.com/item?id=42992643) - [Aidemos by Meta](https://aidemos.meta.com/)
+* [2025-02-09, 18:36:04](https://news.ycombinator.com/item?id=42992505) - [Why Does Integer Addition Approximate Float Multiplication?](https://probablydance.com/2025/02/08/why-does-integer-addition-approximate-float-multiplication/)
 * [2025-02-09, 18:18:47](https://news.ycombinator.com/item?id=42992368) - [Bad Smart Watch Authentication](https://sprocketfox.io/xssfox/2025/02/09/ido/)
 * [2025-02-09, 18:18:09](https://news.ycombinator.com/item?id=42992365) - [The \"Need for Chaos\" Voter](https://www.forkingpaths.co/p/the-need-for-chaos-voter-a68)
 * [2025-02-09, 18:15:44](https://news.ycombinator.com/item?id=42992345) - [Persistent packages on Steam Deck using Nix](https://chrastecky.dev/gaming/persistent-packages-on-steam-deck-using-nix)
