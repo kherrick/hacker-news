@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-13](index.md)
 
+* [2025-02-13, 17:13:01](https://news.ycombinator.com/item?id=43038395) - [Do you need permission from the government to do independent research?](https://dynomight.net/irb/)
 * [2025-02-13, 16:59:43](https://news.ycombinator.com/item?id=43038200) - [LibreOffice still kicking at 40, now with browser tricks and real-time collab](https://www.theregister.com/2025/02/13/libreoffice_wasm_zetaoffice/)
 * [2025-02-13, 16:58:49](https://news.ycombinator.com/item?id=43038190) - [Larry Ellison wants to put all America's data in AI, including DNA](https://www.theregister.com/2025/02/12/larry_ellison_wants_all_data/)
 * [2025-02-13, 16:41:04](https://news.ycombinator.com/item?id=43037892) - [$400M armored Tesla gov contract](https://www.npr.org/2025/02/13/g-s1-48571/trump-administration-order-400-million-worth-of-armored-teslas)
