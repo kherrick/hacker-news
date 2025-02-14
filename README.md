@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-14, 20:00:20](https://news.ycombinator.com/item?id=43052430) - [Danish Petition to Buy California](https://denmarkification.com/)
 * [2025-02-14, 20:00:12](https://news.ycombinator.com/item?id=43052427) - [Ask HN: Is anybody building an alternative transformer?](https://news.ycombinator.com/item?id=43052427)
 * [2025-02-14, 19:46:33](https://news.ycombinator.com/item?id=43052262) - [Nearly a Year Later, Mozilla Is Still Promoting OneRep](https://krebsonsecurity.com/2025/02/nearly-a-year-later-mozilla-is-still-promoting-onerep/)
 * [2025-02-14, 19:30:06](https://news.ycombinator.com/item?id=43052107) - [Diffusion Without Tears](https://baincapitalventures.notion.site/Diffusion-Without-Tears-14e1469584c180deb0a9ed9aa6ff7a4c)
@@ -22,6 +21,7 @@
 * [2025-02-14, 06:50:47](https://news.ycombinator.com/item?id=43045606) - [Zed now predicts your next edit with Zeta, our new open model](https://zed.dev/blog/edit-prediction)
 * [2025-02-14, 06:40:11](https://news.ycombinator.com/item?id=43045558) - [The New York Stock Exchange plans to launch NYSE Texas](https://ir.theice.com/press/news-details/2025/The-New-York-Stock-Exchange-to-Launch-NYSE-Texas/default.aspx)
 * [2025-02-14, 06:14:19](https://news.ycombinator.com/item?id=43045406) - [Does X cause Y? An in-depth evidence review (2021)](https://www.cold-takes.com/does-x-cause-y-an-in-depth-evidence-review/)
+* [2025-02-13, 19:57:29](https://news.ycombinator.com/item?id=43040521) - [Privacy Pass Authentication for Kagi Search](https://blog.kagi.com/kagi-privacy-pass)
 * [2025-02-13, 04:34:09](https://news.ycombinator.com/item?id=43032697) - [TeX and Typst: Layout Models (2024)](https://laurmaedje.github.io/posts/layout-models/)
 * [2025-02-12, 07:32:03](https://news.ycombinator.com/item?id=43022824) - [Alt.Anonymous.Messages Newsgroup](http://wudewasa.blogspot.com/2017/05/altanonymousmessages-newsgroup.html)
 * [2025-02-11, 18:04:35](https://news.ycombinator.com/item?id=43015975) - [Elements of Programming (2009)](https://www.elementsofprogramming.com/)
