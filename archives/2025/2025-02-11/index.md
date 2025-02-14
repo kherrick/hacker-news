@@ -7,6 +7,7 @@
 * [2025-02-11, 23:32:02](https://news.ycombinator.com/item?id=43019737) - [Migrate purchases from one Apple Account to another](https://support.apple.com/en-us/117294)
 * [2025-02-11, 23:12:11](https://news.ycombinator.com/item?id=43019578) - [Associated Press Barred from Oval Office for Not Using 'Gulf of America'](https://www.theguardian.com/us-news/2025/feb/11/associated-press-oval-office-gulf-of-america)
 * [2025-02-11, 23:11:05](https://news.ycombinator.com/item?id=43019572) - [Google Calendar Removes Holocaust Remembrance, Pride, and Black History month](https://www.newsweek.com/google-removes-pride-month-calendar-black-history-holocaust-remembrance-2029257)
+* [2025-02-11, 23:08:38](https://news.ycombinator.com/item?id=43019557) - [What the Black Hawk pilots could see, just before the crash](https://www.nytimes.com/interactive/2025/02/05/us/dc-crash-helicopter-black-hawk-pilots.html)
 * [2025-02-11, 22:46:31](https://news.ycombinator.com/item?id=43019352) - [A Year of Telepathy](https://neuralink.com/blog/a-year-of-telepathy/)
 * [2025-02-11, 22:22:37](https://news.ycombinator.com/item?id=43019136) - [Show HN: Mapping the Unix Magic Poster – An Interactive Annotation Project](https://drio.github.io/unixmagic/)
 * [2025-02-11, 22:08:18](https://news.ycombinator.com/item?id=43018989) - [BYD to offer Tesla-like self-driving tech in all models for free](https://www.asiafinancial.com/byd-to-offer-tesla-like-self-driving-tech-in-all-models-for-free)

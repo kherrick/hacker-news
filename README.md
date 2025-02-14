@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-14, 15:44:10](https://news.ycombinator.com/item?id=43049525) - [Bitly injecting ads into shortened links](https://social.jvns.ca/@b0rk/114002651694606295)
 * [2025-02-14, 15:18:28](https://news.ycombinator.com/item?id=43049191) - [The Loneliness Epidemic Is a Security Crisis](https://www.wired.com/story/loneliness-epidemic-romance-scams-security-crisis/)
 * [2025-02-14, 15:16:56](https://news.ycombinator.com/item?id=43049174) - [DA, sheriff, who shared woman's nude photos on phone are covered by QI](https://www.oregonlive.com/crime/2025/02/an-oregon-womans-nude-cellphone-photos-ended-up-the-talk-of-town-she-tracked-it-back-to-the-da.html)
 * [2025-02-14, 15:14:50](https://news.ycombinator.com/item?id=43049152) - [ICE Wants to Know If You're Posting Negative Things About It Online](https://theintercept.com/2025/02/11/ice-immigration-social-media-surveillance/)
@@ -11,7 +10,7 @@
 * [2025-02-14, 08:34:31](https://news.ycombinator.com/item?id=43046192) - [Ricochet: Peer-to-peer instant messaging system built on Tor hidden services (2017)](https://github.com/ricochet-im/ricochet)
 * [2025-02-14, 08:30:27](https://news.ycombinator.com/item?id=43046174) - [Linux kernel cgroups writeback high CPU troubleshooting](https://dasl.cc/2025/01/01/debugging-our-new-linux-kernel/)
 * [2025-02-14, 08:21:12](https://news.ycombinator.com/item?id=43046122) - [Rust: Doubling Throughput with Continuous Profiling and Optimization](https://www.polarsignals.com/blog/posts/2025/02/11/doubling-throughput-with-continuous-profiling-and-optimization)
-* [2025-02-14, 07:26:16](https://news.ycombinator.com/item?id=43045801) - [Benchmarking Vision-Language Models on OCR in Dynamic Video Environments](https://arxiv.org/abs/2502.06445)
+* [2025-02-14, 07:26:16](https://news.ycombinator.com/item?id=43045801) - [Benchmarking vision-language models on OCR in dynamic video environments](https://arxiv.org/abs/2502.06445)
 * [2025-02-14, 07:08:53](https://news.ycombinator.com/item?id=43045698) - [Extensible WASM Applications with Go](https://go.dev/blog/wasmexport)
 * [2025-02-14, 07:00:41](https://news.ycombinator.com/item?id=43045656) - [Yhangry (YC W22) Is Hiring](https://news.ycombinator.com/item?id=43045656)
 * [2025-02-14, 06:50:47](https://news.ycombinator.com/item?id=43045606) - [Zed now predicts your next edit with Zeta, our new open model](https://zed.dev/blog/edit-prediction)
@@ -24,6 +23,7 @@
 * [2025-02-13, 19:44:34](https://news.ycombinator.com/item?id=43040382) - [MapTCHA, the open-source CAPTCHA that improves OpenStreetMap [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-5879-maptcha-the-open-source-captcha-that-improves-openstreetmap/)
 * [2025-02-13, 18:20:29](https://news.ycombinator.com/item?id=43039308) - [Phind 2: AI search with visual answers and multi-step reasoning](https://www.phind.com/blog/phind-2)
 * [2025-02-12, 07:32:03](https://news.ycombinator.com/item?id=43022824) - [Alt.Anonymous.Messages Newsgroup](http://wudewasa.blogspot.com/2017/05/altanonymousmessages-newsgroup.html)
+* [2025-02-11, 23:08:38](https://news.ycombinator.com/item?id=43019557) - [What the Black Hawk pilots could see, just before the crash](https://www.nytimes.com/interactive/2025/02/05/us/dc-crash-helicopter-black-hawk-pilots.html)
 * [2025-02-11, 14:43:45](https://news.ycombinator.com/item?id=43013248) - [Bulk inserts on ClickHouse: How to avoid overstuffing your instance](https://www.runportcullis.co/blog/bulk-data-clickhouse/)
 * [2025-02-11, 12:26:11](https://news.ycombinator.com/item?id=43012000) - [Solving the ABA Problem in Rust with Tagged Pointers](https://minikin.me/blog/solving-the-aba-problem-in-rust-tagged-pointers)
 * [2025-02-11, 00:47:17](https://news.ycombinator.com/item?id=43007453) - [Do Lake Names Reflect Their Properties?](https://ivanludvig.dev/tech/lake-colors)
