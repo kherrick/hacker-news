@@ -24,10 +24,10 @@
 * [2025-02-12, 08:58:01](https://news.ycombinator.com/item?id=43023338) - [Everything about Google Translate crashing React (and other web apps)](https://martijnhols.nl/blog/everything-about-google-translate-crashing-react)
 * [2025-02-12, 07:32:03](https://news.ycombinator.com/item?id=43022824) - [Alt.Anonymous.Messages Newsgroup](http://wudewasa.blogspot.com/2017/05/altanonymousmessages-newsgroup.html)
 * [2025-02-10, 23:21:49](https://news.ycombinator.com/item?id=43006584) - [Pied Beauty: Wari Tie-Dye Textiles (Ca. 425–1100)](https://publicdomainreview.org/collection/wari-tie-dye/)
-* [2025-02-10, 19:12:36](https://news.ycombinator.com/item?id=43003999) - [NAT Is the Enemy of Low Power Devices](https://blog.golioth.io/nat-is-the-enemy-of-low-power-devices/)
 * [2025-02-10, 17:52:31](https://news.ycombinator.com/item?id=43003052) - [Show HN: I made a tiny book using a pen-plotter and AI](https://muffinman.io/blog/the-tiny-book-of-great-joys/)
 * [2025-02-10, 14:35:55](https://news.ycombinator.com/item?id=43000764) - [Show HN: A unique generated maze to share with your valentine](https://love.berk.es/)
 * [2025-02-10, 12:22:26](https://news.ycombinator.com/item?id=42999454) - [I built an AI company to save my open source project](https://timefold.ai/blog/how-i-built-an-ai-company-to-save-my-open-source-project)
+* [2025-02-10, 10:38:29](https://news.ycombinator.com/item?id=42998904) - [SQL pipe syntax available in public preview in BigQuery](https://cloud.google.com/bigquery/docs/pipe-syntax-guide)
 * [2025-02-10, 09:16:04](https://news.ycombinator.com/item?id=42998383) - [Nvidia Security Team: “What if we just stopped using C?” (2022)](https://blog.adacore.com/nvidia-security-team-what-if-we-just-stopped-using-c)
 * [2025-02-10, 05:53:29](https://news.ycombinator.com/item?id=42997327) - [Jooki – Taking Control of a Forgotten Device](https://nv1t.github.io/blog/reviving-jooki/)
 
