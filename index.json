@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-02-14, 02:49:42",
+      "https://news.ycombinator.com/item?id=43044223"
+    ],
+    [
+      "TikTok is back in the App Store",
+      "https://www.theverge.com/news/612768/tiktok-app-store-apple-google-us-ban"
+    ]
+  ],
+  [
+    [
       "2025-02-14, 01:44:03",
       "https://news.ycombinator.com/item?id=43043752"
     ],
     [
       "Apple Resumes Advertising on X",
       "https://daringfireball.net/linked/2025/02/12/apple-advertising-x"
+    ]
+  ],
+  [
+    [
+      "2025-02-14, 01:34:05",
+      "https://news.ycombinator.com/item?id=43043671"
+    ],
+    [
+      "OCR4all",
+      "https://www.ocr4all.org/"
     ]
   ],
   [
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2025-02-13, 23:18:17",
-      "https://news.ycombinator.com/item?id=43042723"
-    ],
-    [
-      "OpenAI scrubs diversity commitment web page from its site",
-      "https://techcrunch.com/2025/02/13/openai-scrubs-diversity-commitment-web-page-from-its-site/"
-    ]
-  ],
-  [
-    [
       "2025-02-13, 22:19:08",
       "https://news.ycombinator.com/item?id=43042157"
     ],
@@ -97,16 +107,6 @@
     [
       "Show HN: SQL Noir – Learn SQL by solving crimes",
       "https://www.sqlnoir.com"
-    ]
-  ],
-  [
-    [
-      "2025-02-13, 21:01:46",
-      "https://news.ycombinator.com/item?id=43041303"
-    ],
-    [
-      "TSforge: Reverse Engineering the Windows Software Protection Platform",
-      "https://massgrave.dev/blog/tsforge"
     ]
   ],
   [
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2025-02-12, 18:37:15",
-      "https://news.ycombinator.com/item?id=43028300"
+      "2025-02-12, 09:24:08",
+      "https://news.ycombinator.com/item?id=43023508"
     ],
     [
-      "The Human Alphabet",
-      "https://publicdomainreview.org/collection/the-human-alphabet/"
+      "Smuggling arbitrary data through an emoji",
+      "https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/"
     ]
   ],
   [
