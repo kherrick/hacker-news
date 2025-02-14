@@ -66,6 +66,7 @@
 * [2025-02-11, 13:10:47](https://news.ycombinator.com/item?id=43012337) - [My Wife's Enemies Are Now My Enemies, Too (2019)](https://www.thecut.com/2019/12/my-wifes-enemies-are-now-my-enemies-too.html)
 * [2025-02-11, 13:05:38](https://news.ycombinator.com/item?id=43012294) - [Microsoft open sources PostgreSQL extensions to muscle in on NoSQL](https://www.theregister.com/2025/02/11/microsoft_postgresql_extensions/)
 * [2025-02-11, 12:37:11](https://news.ycombinator.com/item?id=43012078) - [The Mythology of Work (2018)](https://crimethinc.com/2018/09/03/the-mythology-of-work-eight-myths-that-keep-your-eyes-on-the-clock-and-your-nose-to-the-grindstone)
+* [2025-02-11, 12:26:11](https://news.ycombinator.com/item?id=43012000) - [Solving the ABA Problem in Rust with Tagged Pointers](https://minikin.me/blog/solving-the-aba-problem-in-rust-tagged-pointers)
 * [2025-02-11, 10:43:24](https://news.ycombinator.com/item?id=43011257) - [Altman: OpenAI not for sale, especially to competitor who is not able to beat us](https://www.axios.com/2025/02/11/openai-altman-musk-offer)
 * [2025-02-11, 09:42:42](https://news.ycombinator.com/item?id=43010814) - [Why Firing Programmers for AI Will Destroy Everything](https://defragzone.substack.com/p/techs-dumbest-mistake-why-firing)
 * [2025-02-11, 09:18:11](https://news.ycombinator.com/item?id=43010662) - [Sid Meier's Civilization VII](https://civilization.2k.com/civ-vii/buy/)
