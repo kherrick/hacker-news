@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-14, 16:18:30",
+      "https://news.ycombinator.com/item?id=43049959"
+    ],
+    [
+      "Detecting AI Agent Use and Abuse",
+      "https://stytch.com/blog/detecting-ai-agent-use-abuse/"
+    ]
+  ],
+  [
+    [
+      "2025-02-14, 15:31:20",
+      "https://news.ycombinator.com/item?id=43049334"
+    ],
+    [
+      "Law firm restricts AI after 'significant' staff use",
+      "https://www.bbc.co.uk/news/articles/cglyjn7le2ko"
+    ]
+  ],
+  [
+    [
       "2025-02-14, 15:18:28",
       "https://news.ycombinator.com/item?id=43049191"
     ],
@@ -17,16 +37,6 @@
     [
       "DA, sheriff, who shared woman's nude photos on phone are covered by QI",
       "https://www.oregonlive.com/crime/2025/02/an-oregon-womans-nude-cellphone-photos-ended-up-the-talk-of-town-she-tracked-it-back-to-the-da.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-14, 15:14:50",
-      "https://news.ycombinator.com/item?id=43049152"
-    ],
-    [
-      "ICE Wants to Know If You're Posting Negative Things About It Online",
-      "https://theintercept.com/2025/02/11/ice-immigration-social-media-surveillance/"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "Linux kernel cgroups writeback high CPU troubleshooting",
       "https://dasl.cc/2025/01/01/debugging-our-new-linux-kernel/"
-    ]
-  ],
-  [
-    [
-      "2025-02-14, 08:21:12",
-      "https://news.ycombinator.com/item?id=43046122"
-    ],
-    [
-      "Rust: Doubling Throughput with Continuous Profiling and Optimization",
-      "https://www.polarsignals.com/blog/posts/2025/02/11/doubling-throughput-with-continuous-profiling-and-optimization"
     ]
   ],
   [
