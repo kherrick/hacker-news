@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-14](index.md)
 
+* [2025-02-14, 07:00:41](https://news.ycombinator.com/item?id=43045656) - [Yhangry (YC W22) Is Hiring](https://news.ycombinator.com/item?id=43045656)
+* [2025-02-14, 06:40:11](https://news.ycombinator.com/item?id=43045558) - [The New York Stock Exchange to Launch NYSE Texas](https://ir.theice.com/press/news-details/2025/The-New-York-Stock-Exchange-to-Launch-NYSE-Texas/default.aspx)
 * [2025-02-14, 05:34:11](https://news.ycombinator.com/item?id=43045201) - [Neovim tee.exe binary dependency exhibiting illegitimate / unauthorized behavior](https://github.com/neovim/neovim/issues/32431)
 * [2025-02-14, 04:51:59](https://news.ycombinator.com/item?id=43044962) - [State Capture](https://en.wikipedia.org/wiki/State_capture)
 * [2025-02-14, 04:30:52](https://news.ycombinator.com/item?id=43044872) - [Germany says its warships were sabotaged](https://www.businessinsider.com/german-navy-says-warships-were-sabotaged-warns-of-russian-threat-2025-2)
