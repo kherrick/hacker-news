@@ -9,7 +9,7 @@
 * [2025-02-14, 12:45:05](https://news.ycombinator.com/item?id=43047792) - [AI Is Stifling Tech Adoption](https://vale.rocks/posts/ai-is-stifling-tech-adoption)
 * [2025-02-14, 08:34:31](https://news.ycombinator.com/item?id=43046192) - [Ricochet: Peer-to-peer instant messaging system built on Tor hidden services (2017)](https://github.com/ricochet-im/ricochet)
 * [2025-02-14, 08:30:27](https://news.ycombinator.com/item?id=43046174) - [Linux kernel cgroups writeback high CPU troubleshooting](https://dasl.cc/2025/01/01/debugging-our-new-linux-kernel/)
-* [2025-02-14, 07:31:46](https://news.ycombinator.com/item?id=43045835) - [Doge.gov site has been hacked](https://www.404media.co/anyone-can-push-updates-to-the-doge-gov-website-2/)
+* [2025-02-14, 07:31:46](https://news.ycombinator.com/item?id=43045835) - [Anyone can push updates to the doge.gov website](https://www.404media.co/anyone-can-push-updates-to-the-doge-gov-website-2/)
 * [2025-02-14, 07:26:16](https://news.ycombinator.com/item?id=43045801) - [Benchmarking vision-language models on OCR in dynamic video environments](https://arxiv.org/abs/2502.06445)
 * [2025-02-14, 07:08:53](https://news.ycombinator.com/item?id=43045698) - [Extensible WASM Applications with Go](https://go.dev/blog/wasmexport)
 * [2025-02-14, 07:00:41](https://news.ycombinator.com/item?id=43045656) - [Yhangry (YC W22) Is Hiring](https://news.ycombinator.com/item?id=43045656)
