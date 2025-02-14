@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-14, 19:02:37](https://news.ycombinator.com/item?id=43051802) - [Kevin Mitnik FOIA Final](https://vault.fbi.gov/kevin-mitnick/kevin-mitnick-part-01-final/view)
 * [2025-02-14, 18:58:37](https://news.ycombinator.com/item?id=43051765) - [The NBA Apple Vision Pro App Now Has a 3D Tabletop View](https://www.uploadvr.com/nba-apple-vision-pro-app-tabletop-view/)
 * [2025-02-14, 18:41:55](https://news.ycombinator.com/item?id=43051598) - [Delphi Is 30](https://blog.marcocantu.com/blog/2025-february-delphi-is-30.html)
 * [2025-02-14, 18:29:59](https://news.ycombinator.com/item?id=43051465) - [A study on how turtles navigate using the Earth’s magnetic field](https://www.unc.edu/posts/2025/02/12/dancing-turtles-unlock-scientific-discovery/)
@@ -19,7 +20,6 @@
 * [2025-02-14, 06:14:19](https://news.ycombinator.com/item?id=43045406) - [Does X cause Y? An in-depth evidence review (2021)](https://www.cold-takes.com/does-x-cause-y-an-in-depth-evidence-review/)
 * [2025-02-14, 01:34:05](https://news.ycombinator.com/item?id=43043671) - [OCR4all](https://www.ocr4all.org/)
 * [2025-02-14, 00:04:48](https://news.ycombinator.com/item?id=43043063) - [What if Eye...?](https://eyes.mit.edu/)
-* [2025-02-13, 23:21:21](https://news.ycombinator.com/item?id=43042753) - [LM2: Large Memory Models](https://arxiv.org/abs/2502.06049)
 * [2025-02-13, 19:57:29](https://news.ycombinator.com/item?id=43040521) - [Privacy Pass Authentication for Kagi Search](https://blog.kagi.com/kagi-privacy-pass)
 * [2025-02-13, 04:34:09](https://news.ycombinator.com/item?id=43032697) - [TeX and Typst: Layout Models (2024)](https://laurmaedje.github.io/posts/layout-models/)
 * [2025-02-12, 08:58:01](https://news.ycombinator.com/item?id=43023338) - [Everything about Google Translate crashing React (and other web apps)](https://martijnhols.nl/blog/everything-about-google-translate-crashing-react)

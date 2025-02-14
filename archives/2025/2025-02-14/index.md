@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-14](index.md)
 
+* [2025-02-14, 19:02:37](https://news.ycombinator.com/item?id=43051802) - [Kevin Mitnik FOIA Final](https://vault.fbi.gov/kevin-mitnick/kevin-mitnick-part-01-final/view)
 * [2025-02-14, 18:58:37](https://news.ycombinator.com/item?id=43051765) - [The NBA Apple Vision Pro App Now Has a 3D Tabletop View](https://www.uploadvr.com/nba-apple-vision-pro-app-tabletop-view/)
 * [2025-02-14, 18:50:47](https://news.ycombinator.com/item?id=43051697) - [DOGE 'Audits': A Mask for Corruption, Not Efficiency](https://medium.com/less-than-a-minute/doge-audits-a-mask-for-corruption-not-efficiency-3668b846a364)
 * [2025-02-14, 18:41:55](https://news.ycombinator.com/item?id=43051598) - [Delphi Is 30](https://blog.marcocantu.com/blog/2025-february-delphi-is-30.html)
