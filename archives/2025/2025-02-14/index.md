@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-14](index.md)
 
+* [2025-02-14, 15:16:56](https://news.ycombinator.com/item?id=43049174) - [DA, sheriff, who shared woman's nude photos on phone are covered by QI](https://www.oregonlive.com/crime/2025/02/an-oregon-womans-nude-cellphone-photos-ended-up-the-talk-of-town-she-tracked-it-back-to-the-da.html)
+* [2025-02-14, 15:14:50](https://news.ycombinator.com/item?id=43049152) - [ICE Wants to Know If You're Posting Negative Things About It Online](https://theintercept.com/2025/02/11/ice-immigration-social-media-surveillance/)
 * [2025-02-14, 14:53:02](https://news.ycombinator.com/item?id=43048907) - [AI will divide the best from the rest](https://www.economist.com/finance-and-economics/2025/02/13/how-ai-will-divide-the-best-from-the-rest)
 * [2025-02-14, 14:42:59](https://news.ycombinator.com/item?id=43048816) - [Zuckerberg's rightward policy shift puts Meta staffers on edge, targets Apple](https://www.cnbc.com/2025/02/14/zuckerbergs-rightward-policy-shift-hits-meta-staffers-targets-apple.html)
 * [2025-02-14, 14:01:10](https://news.ycombinator.com/item?id=43048345) - [A woman made her AI voice clone say \"arse.\" Then she got banned](https://www.technologyreview.com/2025/02/14/1111900/ai-voice-clone-say-arse-then-banned/)
