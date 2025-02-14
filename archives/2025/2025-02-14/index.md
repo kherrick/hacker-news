@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-14](index.md)
 
 * [2025-02-14, 16:18:30](https://news.ycombinator.com/item?id=43049959) - [Detecting AI Agent Use and Abuse](https://stytch.com/blog/detecting-ai-agent-use-abuse/)
+* [2025-02-14, 16:06:47](https://news.ycombinator.com/item?id=43049817) - [Show HN: A Valentine's Day experience for people who aren't celebrating](https://www.justanotherday.lol/)
 * [2025-02-14, 15:44:10](https://news.ycombinator.com/item?id=43049525) - [Bitly injecting ads into shortened links](https://social.jvns.ca/@b0rk/114002651694606295)
 * [2025-02-14, 15:31:20](https://news.ycombinator.com/item?id=43049334) - [Law firm restricts AI after 'significant' staff use](https://www.bbc.co.uk/news/articles/cglyjn7le2ko)
 * [2025-02-14, 15:18:28](https://news.ycombinator.com/item?id=43049191) - [The Loneliness Epidemic Is a Security Crisis](https://www.wired.com/story/loneliness-epidemic-romance-scams-security-crisis/)
