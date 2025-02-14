@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-14, 13:23:23",
+      "https://news.ycombinator.com/item?id=43048027"
+    ],
+    [
+      "Show HN: Transform Your Codebase into a Single Markdown Doc for Feeding into AI",
+      "https://tesserato.web.app/posts/2025-02-12-CodeWeaver-launch/index.html"
+    ]
+  ],
+  [
+    [
+      "2025-02-14, 12:45:05",
+      "https://news.ycombinator.com/item?id=43047792"
+    ],
+    [
+      "AI Is Stifling Tech Adoption",
+      "https://vale.rocks/posts/ai-is-stifling-tech-adoption"
+    ]
+  ],
+  [
+    [
       "2025-02-14, 08:34:31",
       "https://news.ycombinator.com/item?id=43046192"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-02-14, 05:27:19",
-      "https://news.ycombinator.com/item?id=43045151"
-    ],
-    [
-      "Exposing concurrency bugs with a custom scheduler",
-      "https://lwn.net/Articles/1007689/"
-    ]
-  ],
-  [
-    [
       "2025-02-14, 01:34:05",
       "https://news.ycombinator.com/item?id=43043671"
     ],
@@ -191,26 +201,6 @@
   ],
   [
     [
-      "2025-02-13, 14:53:21",
-      "https://news.ycombinator.com/item?id=43036428"
-    ],
-    [
-      "Fewer students are enrolling in doctoral degrees",
-      "https://www.nature.com/articles/d41586-025-00425-4"
-    ]
-  ],
-  [
-    [
-      "2025-02-12, 20:17:08",
-      "https://news.ycombinator.com/item?id=43029314"
-    ],
-    [
-      "Basis of the Kalman Filter [pdf]",
-      "https://github.com/tpn/pdfs/blob/master/Understanding%20the%20Basis%20of%20the%20Kalman%20Filter%20Via%20a%20Simple%20and%20Intuitive%20Derivation%20%282012%29.pdf"
-    ]
-  ],
-  [
-    [
       "2025-02-12, 08:58:01",
       "https://news.ycombinator.com/item?id=43023338"
     ],
@@ -227,6 +217,16 @@
     [
       "Alt.Anonymous.Messages Newsgroup",
       "http://wudewasa.blogspot.com/2017/05/altanonymousmessages-newsgroup.html"
+    ]
+  ],
+  [
+    [
+      "2025-02-11, 12:26:11",
+      "https://news.ycombinator.com/item?id=43012000"
+    ],
+    [
+      "Solving the ABA Problem in Rust with Tagged Pointers",
+      "https://minikin.me/blog/solving-the-aba-problem-in-rust-tagged-pointers"
     ]
   ],
   [
