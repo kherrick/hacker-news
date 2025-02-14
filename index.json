@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2025-02-14, 01:44:03",
-      "https://news.ycombinator.com/item?id=43043752"
+      "2025-02-14, 02:03:54",
+      "https://news.ycombinator.com/item?id=43043908"
     ],
     [
-      "Apple Resumes Advertising on X",
-      "https://daringfireball.net/linked/2025/02/12/apple-advertising-x"
+      "UK drops 'safety' from its AI body, now called AI Security Institute",
+      "https://techcrunch.com/2025/02/13/uk-drops-safety-from-its-ai-body-now-called-ai-security-institute-inks-mou-with-anthropic/"
     ]
   ],
   [
@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2025-02-13, 21:01:46",
+      "https://news.ycombinator.com/item?id=43041303"
+    ],
+    [
+      "TSforge: Reverse Engineering the Windows Software Protection Platform",
+      "https://massgrave.dev/blog/tsforge"
+    ]
+  ],
+  [
+    [
       "2025-02-13, 20:27:08",
       "https://news.ycombinator.com/item?id=43040869"
     ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2025-02-13, 15:20:52",
-      "https://news.ycombinator.com/item?id=43036742"
-    ],
-    [
-      "Magnetic field sorting of superconducting graphite particles with Tc>400K (2024)",
-      "https://arxiv.org/abs/2410.18020"
-    ]
-  ],
-  [
-    [
       "2025-02-13, 14:53:21",
       "https://news.ycombinator.com/item?id=43036428"
     ],
@@ -221,22 +221,22 @@
   ],
   [
     [
-      "2025-02-12, 09:24:08",
-      "https://news.ycombinator.com/item?id=43023508"
-    ],
-    [
-      "Smuggling arbitrary data through an emoji",
-      "https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/"
-    ]
-  ],
-  [
-    [
       "2025-02-12, 07:43:34",
       "https://news.ycombinator.com/item?id=43022892"
     ],
     [
       "WASM-Native Orchestration",
       "https://wasmcloud.com/"
+    ]
+  ],
+  [
+    [
+      "2025-02-11, 09:00:15",
+      "https://news.ycombinator.com/item?id=43010566"
+    ],
+    [
+      "I Blog with Raw Txt",
+      "https://misc.l3m.in/txt/raw_txt.txt"
     ]
   ],
   [
