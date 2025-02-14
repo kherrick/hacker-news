@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=43045801"
     ],
     [
-      "Gemini beats everyone on new OCR benchmark",
+      "Benchmarking Vision-Language Models on OCR in Dynamic Video Environments",
       "https://arxiv.org/abs/2502.06445"
     ]
   ],
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2025-02-11, 00:47:17",
+      "https://news.ycombinator.com/item?id=43007453"
+    ],
+    [
+      "Do Lake Names Reflect Their Properties?",
+      "https://ivanludvig.dev/tech/lake-colors"
+    ]
+  ],
+  [
+    [
       "2025-02-10, 23:21:49",
       "https://news.ycombinator.com/item?id=43006584"
     ],
@@ -267,16 +277,6 @@
     [
       "I built an AI company to save my open source project",
       "https://timefold.ai/blog/how-i-built-an-ai-company-to-save-my-open-source-project"
-    ]
-  ],
-  [
-    [
-      "2025-02-10, 10:38:29",
-      "https://news.ycombinator.com/item?id=42998904"
-    ],
-    [
-      "SQL pipe syntax available in public preview in BigQuery",
-      "https://cloud.google.com/bigquery/docs/pipe-syntax-guide"
     ]
   ],
   [
