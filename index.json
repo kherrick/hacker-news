@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-14, 07:31:46",
+      "https://news.ycombinator.com/item?id=43045835"
+    ],
+    [
+      "Doge.gov site has been hacked",
+      "https://www.404media.co/anyone-can-push-updates-to-the-doge-gov-website-2/"
+    ]
+  ],
+  [
+    [
       "2025-02-14, 07:12:41",
       "https://news.ycombinator.com/item?id=43045713"
     ],
@@ -67,16 +77,6 @@
     [
       "Exposing concurrency bugs with a custom scheduler",
       "https://lwn.net/Articles/1007689/"
-    ]
-  ],
-  [
-    [
-      "2025-02-14, 02:49:42",
-      "https://news.ycombinator.com/item?id=43044223"
-    ],
-    [
-      "TikTok is back in the App Store",
-      "https://www.theverge.com/news/612768/tiktok-app-store-apple-google-us-ban"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2025-02-13, 09:44:25",
-      "https://news.ycombinator.com/item?id=43034329"
-    ],
-    [
-      "Self hosted FLOSS fitness/workout tracker",
-      "https://github.com/wger-project/wger"
-    ]
-  ],
-  [
-    [
       "2025-02-13, 08:38:13",
       "https://news.ycombinator.com/item?id=43033971"
     ],
@@ -217,6 +207,16 @@
     [
       "Basis of the Kalman Filter [pdf]",
       "https://github.com/tpn/pdfs/blob/master/Understanding%20the%20Basis%20of%20the%20Kalman%20Filter%20Via%20a%20Simple%20and%20Intuitive%20Derivation%20%282012%29.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-02-12, 08:58:01",
+      "https://news.ycombinator.com/item?id=43023338"
+    ],
+    [
+      "Everything about Google Translate crashing React (and other web apps)",
+      "https://martijnhols.nl/blog/everything-about-google-translate-crashing-react"
     ]
   ],
   [
