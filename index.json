@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-02-14, 13:53:49",
+      "https://news.ycombinator.com/item?id=43048261"
+    ],
+    [
+      "The History of S.U.S..E",
+      "https://www.abortretry.fail/p/the-history-of-suse"
+    ]
+  ],
+  [
+    [
       "2025-02-14, 13:23:23",
       "https://news.ycombinator.com/item?id=43048027"
     ],
     [
       "Show HN: Transform Your Codebase into a Single Markdown Doc for Feeding into AI",
       "https://tesserato.web.app/posts/2025-02-12-CodeWeaver-launch/index.html"
+    ]
+  ],
+  [
+    [
+      "2025-02-14, 13:12:22",
+      "https://news.ycombinator.com/item?id=43047952"
+    ],
+    [
+      "Watchdog ponders why Apple doesn't apply its strict app tracking rules to itself",
+      "https://www.theregister.com/2025/02/14/apple_app_tracking_probe/"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "Benchmarking Vision-Language Models on OCR in Dynamic Video Environments",
       "https://arxiv.org/abs/2502.06445"
-    ]
-  ],
-  [
-    [
-      "2025-02-14, 07:12:41",
-      "https://news.ycombinator.com/item?id=43045713"
-    ],
-    [
-      "On Bloat",
-      "https://docs.google.com/presentation/d/e/2PACX-1vSmIbSwh1_DXKEMU5YKgYpt5_b4yfOfpfEOKS5_cvtLdiHsX6zt-gNeisamRuCtDtCb2SbTafTI8V47/pub?start=false&loop=false&delayms=3000"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2025-02-12, 20:17:08",
-      "https://news.ycombinator.com/item?id=43029314"
-    ],
-    [
-      "Basis of the Kalman Filter [pdf]",
-      "https://github.com/tpn/pdfs/blob/master/Understanding%20the%20Basis%20of%20the%20Kalman%20Filter%20Via%20a%20Simple%20and%20Intuitive%20Derivation%20%282012%29.pdf"
-    ]
-  ],
-  [
-    [
       "2025-02-12, 08:58:01",
       "https://news.ycombinator.com/item?id=43023338"
     ],
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2025-02-12, 07:32:03",
-      "https://news.ycombinator.com/item?id=43022824"
+      "2025-02-11, 14:43:45",
+      "https://news.ycombinator.com/item?id=43013248"
     ],
     [
-      "Alt.Anonymous.Messages Newsgroup",
-      "http://wudewasa.blogspot.com/2017/05/altanonymousmessages-newsgroup.html"
+      "Bulk inserts on ClickHouse: How to avoid overstuffing your instance",
+      "https://www.runportcullis.co/blog/bulk-data-clickhouse/"
     ]
   ],
   [
