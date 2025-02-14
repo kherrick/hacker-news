@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2025-02-14](index.md)
 
 * [2025-02-14, 20:03:28](https://news.ycombinator.com/item?id=43052468) - [DOGE's 'Genius' Coders Launch Website So Full of Holes, Anyone Can Write to It](https://www.techdirt.com/2025/02/14/doges-genius-coders-launch-website-so-full-of-holes-anyone-can-write-to-it/)
+* [2025-02-14, 20:00:20](https://news.ycombinator.com/item?id=43052430) - [Danish Petition to Buy California](https://denmarkification.com/)
 * [2025-02-14, 20:00:12](https://news.ycombinator.com/item?id=43052427) - [Ask HN: Is anybody building an alternative transformer?](https://news.ycombinator.com/item?id=43052427)
 * [2025-02-14, 19:46:33](https://news.ycombinator.com/item?id=43052262) - [Nearly a Year Later, Mozilla Is Still Promoting OneRep](https://krebsonsecurity.com/2025/02/nearly-a-year-later-mozilla-is-still-promoting-onerep/)
+* [2025-02-14, 19:30:06](https://news.ycombinator.com/item?id=43052107) - [Diffusion Without Tears](https://baincapitalventures.notion.site/Diffusion-Without-Tears-14e1469584c180deb0a9ed9aa6ff7a4c)
 * [2025-02-14, 19:16:59](https://news.ycombinator.com/item?id=43051964) - [Marsha P Johnson: A Chrome extension to highlight trans erasure](https://github.com/HamptonMakes/marsha-p-johnson)
 * [2025-02-14, 19:02:37](https://news.ycombinator.com/item?id=43051802) - [Kevin Mitnik FOIA Final](https://vault.fbi.gov/kevin-mitnick/kevin-mitnick-part-01-final/view)
 * [2025-02-14, 18:58:37](https://news.ycombinator.com/item?id=43051765) - [The NBA Apple Vision Pro App Now Has a 3D Tabletop View](https://www.uploadvr.com/nba-apple-vision-pro-app-tabletop-view/)
