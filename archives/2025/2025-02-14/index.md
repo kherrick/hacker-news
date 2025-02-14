@@ -4,11 +4,16 @@
 
 ### [Archives](../../index.md) for [2025-02-14](index.md)
 
+* [2025-02-14, 21:50:50](https://news.ycombinator.com/item?id=43053466) - [Codeberg appears to be under a DDoS attack](https://status.codeberg.eu/status/codeberg)
+* [2025-02-14, 21:45:49](https://news.ycombinator.com/item?id=43053419) - [The hardest working font in Manhattan](https://aresluna.org/the-hardest-working-font-in-manhattan/)
+* [2025-02-14, 21:42:03](https://news.ycombinator.com/item?id=43053385) - [Mathics: A free, open-source alternative to Mathematica](https://mathics.org/)
 * [2025-02-14, 21:32:53](https://news.ycombinator.com/item?id=43053287) - [Cameras have appeared outside homes of Atlanta's 'Cop City' activists](https://www.theguardian.com/us-news/2025/feb/14/cameras-cop-city-activist-homes-atlanta)
+* [2025-02-14, 20:57:36](https://news.ycombinator.com/item?id=43052997) - [Show HN: OpenSCAD configurable calendar 3D model](https://chrastecky.dev/3d-printing/open-scad-configurable-calendar-3d-model)
 * [2025-02-14, 20:49:14](https://news.ycombinator.com/item?id=43052923) - [Researcher Captures Contents of 'DEI.gov' Before It Was Hidden Behind a Password](https://www.404media.co/dei-waste-gov-doge-list-behind-password/)
 * [2025-02-14, 20:48:07](https://news.ycombinator.com/item?id=43052910) - [CDC cuts expected to decimate Epidemic Intelligence Service](https://www.statnews.com/2025/02/14/trump-cdc-cuts-include-epidemic-intelligence-service-outbreak-investigators/)
 * [2025-02-14, 20:47:47](https://news.ycombinator.com/item?id=43052905) - [A Libertarian Island Dream in Honduras Is Now an $11B Nightmare](https://www.bloomberg.com/news/features/2025-02-13/a-honduras-dream-city-now-faces-11-billion-political-dispute)
 * [2025-02-14, 20:44:05](https://news.ycombinator.com/item?id=43052880) - [National Park Service erases some words from Stonewall National Monument site](https://apnews.com/article/stonewall-transgender-trump-3add180f5cfcde156f8d809d24e830a6)
+* [2025-02-14, 20:12:52](https://news.ycombinator.com/item?id=43052584) - [Type safe variadic printf](https://www.stranger.systems/posts/by-slug/type-safe-variadic-printf.html)
 * [2025-02-14, 20:03:28](https://news.ycombinator.com/item?id=43052468) - [DOGE's 'Genius' Coders Launch Website So Full of Holes, Anyone Can Write to It](https://www.techdirt.com/2025/02/14/doges-genius-coders-launch-website-so-full-of-holes-anyone-can-write-to-it/)
 * [2025-02-14, 20:00:20](https://news.ycombinator.com/item?id=43052430) - [Danish Petition to Buy California](https://denmarkification.com/)
 * [2025-02-14, 20:00:12](https://news.ycombinator.com/item?id=43052427) - [Ask HN: Is anybody building an alternative transformer?](https://news.ycombinator.com/item?id=43052427)
