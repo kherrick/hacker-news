@@ -34,6 +34,7 @@
 * [2025-02-11, 18:29:29](https://news.ycombinator.com/item?id=43016340) - [Go's new map implementation in 1.24 is powered by Swiss Tables](https://twitter.com/petermattis/status/1889080982273163466)
 * [2025-02-11, 18:23:03](https://news.ycombinator.com/item?id=43016248) - [Reviving the joy and honor of working with your hands](https://richmond.com/holmberg-reviving-the-joy-and-honor-of-working-with-your-hands-will-strengthen-our-nation/article_d8130166-855d-53b6-94e1-cb735edcd7cc.html)
 * [2025-02-11, 18:15:27](https://news.ycombinator.com/item?id=43016116) - [Man who threw away $750M in Bitcoin wants to buy the dump where it's buried](https://fortune.com/2025/02/11/bitcoin-trash-landfill-purchase-james-howells-newport/)
+* [2025-02-11, 18:04:35](https://news.ycombinator.com/item?id=43015975) - [Elements of Programming (2009)](https://www.elementsofprogramming.com/)
 * [2025-02-11, 17:44:34](https://news.ycombinator.com/item?id=43015713) - [UnitedHealth hired a defamation law firm to go after social media posts criticiz](https://fortune.com/2025/02/10/unitedhealth-defamation-law-firm-social-media/)
 * [2025-02-11, 17:37:38](https://news.ycombinator.com/item?id=43015631) - [ASTRA: HackerRank's coding benchmark for LLMs](https://www.hackerrank.com/ai/astra-reports)
 * [2025-02-11, 17:34:31](https://news.ycombinator.com/item?id=43015585) - [Postmortem: The singular design of Namco's Katamari Damacy (2004)](https://www.gamedeveloper.com/design/postmortem-the-singular-design-of-namco-s-katamari-damacy-2004-)
