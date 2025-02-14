@@ -1,11 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-14, 18:50:47](https://news.ycombinator.com/item?id=43051697) - [DOGE 'Audits': A Mask for Corruption, Not Efficiency](https://medium.com/less-than-a-minute/doge-audits-a-mask-for-corruption-not-efficiency-3668b846a364)
+* [2025-02-14, 18:41:55](https://news.ycombinator.com/item?id=43051598) - [Delphi Is 30](https://blog.marcocantu.com/blog/2025-february-delphi-is-30.html)
+* [2025-02-14, 18:29:59](https://news.ycombinator.com/item?id=43051465) - [Dancing turtles unlock scientific discovery](https://www.unc.edu/posts/2025/02/12/dancing-turtles-unlock-scientific-discovery/)
 * [2025-02-14, 16:18:30](https://news.ycombinator.com/item?id=43049959) - [Detecting AI Agent Use and Abuse](https://stytch.com/blog/detecting-ai-agent-use-abuse/)
 * [2025-02-14, 13:53:49](https://news.ycombinator.com/item?id=43048261) - [The History of S.u.S.E](https://www.abortretry.fail/p/the-history-of-suse)
 * [2025-02-14, 13:23:23](https://news.ycombinator.com/item?id=43048027) - [Show HN: Transform Your Codebase into a Single Markdown Doc for Feeding into AI](https://tesserato.web.app/posts/2025-02-12-CodeWeaver-launch/index.html)
 * [2025-02-14, 13:12:22](https://news.ycombinator.com/item?id=43047952) - [Watchdog ponders why Apple doesn't apply its strict app tracking rules to itself](https://www.theregister.com/2025/02/14/apple_app_tracking_probe/)
 * [2025-02-14, 12:45:05](https://news.ycombinator.com/item?id=43047792) - [AI Is Stifling Tech Adoption](https://vale.rocks/posts/ai-is-stifling-tech-adoption)
-* [2025-02-14, 12:08:58](https://news.ycombinator.com/item?id=43047554) - [Show HN: A New Way to Learn Languages](https://www.langturbo.com)
 * [2025-02-14, 08:34:31](https://news.ycombinator.com/item?id=43046192) - [Ricochet: Peer-to-peer instant messaging system built on Tor hidden services (2017)](https://github.com/ricochet-im/ricochet)
 * [2025-02-14, 08:30:27](https://news.ycombinator.com/item?id=43046174) - [Linux kernel cgroups writeback high CPU troubleshooting](https://dasl.cc/2025/01/01/debugging-our-new-linux-kernel/)
 * [2025-02-14, 07:31:46](https://news.ycombinator.com/item?id=43045835) - [Anyone can push updates to the doge.gov website](https://www.404media.co/anyone-can-push-updates-to-the-doge-gov-website-2/)
@@ -17,7 +19,6 @@
 * [2025-02-14, 06:14:19](https://news.ycombinator.com/item?id=43045406) - [Does X cause Y? An in-depth evidence review](https://www.cold-takes.com/does-x-cause-y-an-in-depth-evidence-review/)
 * [2025-02-14, 01:34:05](https://news.ycombinator.com/item?id=43043671) - [OCR4all](https://www.ocr4all.org/)
 * [2025-02-14, 00:04:48](https://news.ycombinator.com/item?id=43043063) - [What if Eye...?](https://eyes.mit.edu/)
-* [2025-02-13, 23:21:21](https://news.ycombinator.com/item?id=43042753) - [LM2: Large Memory Models](https://arxiv.org/abs/2502.06049)
 * [2025-02-13, 19:57:29](https://news.ycombinator.com/item?id=43040521) - [Privacy Pass Authentication for Kagi Search](https://blog.kagi.com/kagi-privacy-pass)
 * [2025-02-13, 18:20:29](https://news.ycombinator.com/item?id=43039308) - [Phind 2: AI search with visual answers and multi-step reasoning](https://www.phind.com/blog/phind-2)
 * [2025-02-13, 04:34:09](https://news.ycombinator.com/item?id=43032697) - [TeX and Typst: Layout Models](https://laurmaedje.github.io/posts/layout-models/)
@@ -29,7 +30,6 @@
 * [2025-02-10, 20:58:07](https://news.ycombinator.com/item?id=43005077) - [Anatomy of Oscillation](https://tidyfirst.substack.com/p/anatomy-of-oscillation)
 * [2025-02-10, 19:12:36](https://news.ycombinator.com/item?id=43003999) - [NAT Is the Enemy of Low Power Devices](https://blog.golioth.io/nat-is-the-enemy-of-low-power-devices/)
 * [2025-02-10, 14:35:55](https://news.ycombinator.com/item?id=43000764) - [Show HN: A unique generated maze to share with your valentine](https://love.berk.es/)
-* [2025-02-10, 05:53:29](https://news.ycombinator.com/item?id=42997327) - [Jooki – Taking Control of a Forgotten Device](https://nv1t.github.io/blog/reviving-jooki/)
 
 ## [Archives](archives/index.md)
 
