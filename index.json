@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-02-14, 06:50:47",
+      "https://news.ycombinator.com/item?id=43045606"
+    ],
+    [
+      "Zed now predicts your next edit with Zeta, our new open model",
+      "https://zed.dev/blog/edit-prediction"
+    ]
+  ],
+  [
+    [
       "2025-02-14, 06:40:11",
       "https://news.ycombinator.com/item?id=43045558"
     ],
@@ -57,16 +67,6 @@
     [
       "Does X cause Y? An in-depth evidence review",
       "https://www.cold-takes.com/does-x-cause-y-an-in-depth-evidence-review/"
-    ]
-  ],
-  [
-    [
-      "2025-02-14, 05:34:11",
-      "https://news.ycombinator.com/item?id=43045201"
-    ],
-    [
-      "Neovim tee.exe binary dependency exhibiting illegitimate / unauthorized behavior",
-      "https://github.com/neovim/neovim/issues/32431"
     ]
   ],
   [
