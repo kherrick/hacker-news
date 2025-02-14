@@ -56,6 +56,7 @@
 * [2025-02-11, 15:08:08](https://news.ycombinator.com/item?id=43013615) - [I Tasted Honda's Spicy Rodent-Repelling Tape – And I will do it again](https://haterade.substack.com/p/i-tasted-hondas-spicy-rodent-repelling)
 * [2025-02-11, 14:55:45](https://news.ycombinator.com/item?id=43013431) - [Backblaze Drive Stats for 2024](https://www.backblaze.com/blog/backblaze-drive-stats-for-2024/)
 * [2025-02-11, 14:55:18](https://news.ycombinator.com/item?id=43013422) - [RTX 5090 cable overheats to 150 degrees Celsius](https://www.tomshardware.com/pc-components/gpus/rtx-5090-cable-overheats-to-150-degrees-celsius-uneven-current-distribution-likely-the-culprit)
+* [2025-02-11, 14:43:45](https://news.ycombinator.com/item?id=43013248) - [Bulk inserts on ClickHouse: How to avoid overstuffing your instance](https://www.runportcullis.co/blog/bulk-data-clickhouse/)
 * [2025-02-11, 14:27:00](https://news.ycombinator.com/item?id=43013033) - [Canonical announces 12 year Kubernetes LTS](https://canonical.com/blog/12-year-lts-for-kubernetes)
 * [2025-02-11, 14:26:32](https://news.ycombinator.com/item?id=43013028) - [Why Do AI Chatbots Have Such a Hard Time Admitting 'I Don't Know'?](https://www.wsj.com/tech/ai/ai-halluciation-answers-i-dont-know-738bde07)
 * [2025-02-11, 14:12:36](https://news.ycombinator.com/item?id=43012901) - [Google Calendar no longer includes start of Black History Month, Pride Month](https://www.cnbc.com/2025/02/10/google-calendar-removes-start-of-black-history-womens-history-months.html)

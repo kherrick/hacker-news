@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-02-14](index.md)
 
+* [2025-02-14, 13:53:49](https://news.ycombinator.com/item?id=43048261) - [The History of S.U.S..E](https://www.abortretry.fail/p/the-history-of-suse)
 * [2025-02-14, 13:30:41](https://news.ycombinator.com/item?id=43048077) - [Only About 40% of the Cruz \"Woke Science\" Database Is Woke Science](https://www.astralcodexten.com/p/only-about-40-of-the-cruz-woke-science)
 * [2025-02-14, 13:23:23](https://news.ycombinator.com/item?id=43048027) - [Show HN: Transform Your Codebase into a Single Markdown Doc for Feeding into AI](https://tesserato.web.app/posts/2025-02-12-CodeWeaver-launch/index.html)
+* [2025-02-14, 13:12:22](https://news.ycombinator.com/item?id=43047952) - [Watchdog ponders why Apple doesn't apply its strict app tracking rules to itself](https://www.theregister.com/2025/02/14/apple_app_tracking_probe/)
 * [2025-02-14, 13:03:02](https://news.ycombinator.com/item?id=43047892) - [Watch me turn $25K and Python into either a hedge fund origin story or](https://pythonfintech.com)
 * [2025-02-14, 12:45:05](https://news.ycombinator.com/item?id=43047792) - [AI Is Stifling Tech Adoption](https://vale.rocks/posts/ai-is-stifling-tech-adoption)
 * [2025-02-14, 09:16:54](https://news.ycombinator.com/item?id=43046466) - [\"Homotopical macrocosms for higher category theory\" identified as woke DEI grant](https://mathstodon.xyz/@johncarlosbaez/114000054766059217)
