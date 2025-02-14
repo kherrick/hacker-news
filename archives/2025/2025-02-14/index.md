@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-02-14](index.md)
 
+* [2025-02-14, 22:08:43](https://news.ycombinator.com/item?id=43053656) - [Terabytes Encoded Within a Millimeter-Sized Crystal](https://bioengineer.org/immense-data-storage-envisioning-terabytes-encoded-within-a-millimeter-sized-crystal/)
+* [2025-02-14, 22:05:33](https://news.ycombinator.com/item?id=43053625) - [Terence Tao – Complex Dynamics Require Complex Solutions](https://mathstodon.xyz/@tao/113873092369347147)
+* [2025-02-14, 21:58:30](https://news.ycombinator.com/item?id=43053552) - [The United States is not a Silicon Valley company](http://scripting.com/2025/02/12/140926.html)
 * [2025-02-14, 21:50:50](https://news.ycombinator.com/item?id=43053466) - [Codeberg appears to be under a DDoS attack](https://status.codeberg.eu/status/codeberg)
 * [2025-02-14, 21:45:49](https://news.ycombinator.com/item?id=43053419) - [The hardest working font in Manhattan](https://aresluna.org/the-hardest-working-font-in-manhattan/)
 * [2025-02-14, 21:42:03](https://news.ycombinator.com/item?id=43053385) - [Mathics: A free, open-source alternative to Mathematica](https://mathics.org/)
