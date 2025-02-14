@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-14, 13:30:41](https://news.ycombinator.com/item?id=43048077) - [Only About 40% of the Cruz \"Woke Science\" Database Is Woke Science](https://www.astralcodexten.com/p/only-about-40-of-the-cruz-woke-science)
 * [2025-02-14, 13:23:23](https://news.ycombinator.com/item?id=43048027) - [Show HN: Transform Your Codebase into a Single Markdown Doc for Feeding into AI](https://tesserato.web.app/posts/2025-02-12-CodeWeaver-launch/index.html)
-* [2025-02-14, 13:03:02](https://news.ycombinator.com/item?id=43047892) - [Watch me turn $25K and Python into either a hedge fund origin story or](https://pythonfintech.com)
 * [2025-02-14, 12:45:05](https://news.ycombinator.com/item?id=43047792) - [AI Is Stifling Tech Adoption](https://vale.rocks/posts/ai-is-stifling-tech-adoption)
-* [2025-02-14, 08:34:31](https://news.ycombinator.com/item?id=43046192) - [Ricochet: Peer-to-peer instant messaging system built on Tor hidden services](https://github.com/ricochet-im/ricochet)
+* [2025-02-14, 08:34:31](https://news.ycombinator.com/item?id=43046192) - [Ricochet: Peer-to-peer instant messaging system built on Tor hidden services (2017)](https://github.com/ricochet-im/ricochet)
 * [2025-02-14, 08:30:27](https://news.ycombinator.com/item?id=43046174) - [Linux kernel cgroups writeback high CPU troubleshooting](https://dasl.cc/2025/01/01/debugging-our-new-linux-kernel/)
 * [2025-02-14, 08:29:23](https://news.ycombinator.com/item?id=43046170) - [Evaluating RAG for large scale codebases](https://www.qodo.ai/blog/evaluating-rag-for-large-scale-codebases/)
 * [2025-02-14, 08:21:12](https://news.ycombinator.com/item?id=43046122) - [Rust: Doubling Throughput with Continuous Profiling and Optimization](https://www.polarsignals.com/blog/posts/2025/02/11/doubling-throughput-with-continuous-profiling-and-optimization)
