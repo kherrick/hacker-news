@@ -13,6 +13,7 @@
 * [2025-02-13, 22:09:30](https://news.ycombinator.com/item?id=43042047) - [The US has exposed the World Anti-Doping Agency's precarious funding model](https://phys.org/news/2025-01-exposed-world-anti-doping-agency.html)
 * [2025-02-13, 21:49:16](https://news.ycombinator.com/item?id=43041827) - [Show HN: SQL Noir – Learn SQL by solving crimes](https://www.sqlnoir.com)
 * [2025-02-13, 21:39:50](https://news.ycombinator.com/item?id=43041726) - [Amazon ends kindle ebooks \"Download and Transfer via USB\"](https://goodereader.com/blog/kindle/amazon-removing-download-and-transfer-on-the-kindle-feb-26th)
+* [2025-02-13, 21:01:46](https://news.ycombinator.com/item?id=43041303) - [TSforge: Reverse Engineering the Windows Software Protection Platform](https://massgrave.dev/blog/tsforge)
 * [2025-02-13, 20:39:48](https://news.ycombinator.com/item?id=43041033) - [The Death of the Web (2024)](https://garry.net/posts/the-death-of-the-web)
 * [2025-02-13, 20:27:08](https://news.ycombinator.com/item?id=43040869) - [JesseSort: A novel sorting algorithm that is faster than Python's default sort.](https://github.com/lewj85/jessesort)
 * [2025-02-13, 20:06:48](https://news.ycombinator.com/item?id=43040631) - [DOGE's Website Is Just One Big X Ad](https://www.wired.com/story/doge-website-is-just-one-big-x-ad/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-10](index.md)
 
+* [2025-02-10, 23:58:58](https://news.ycombinator.com/item?id=43006950) - [Pairwise TOTP Authentication of Humans](https://www.schneier.com/blog/archives/2025/02/pairwise-authentication-of-humans.html)
 * [2025-02-10, 23:23:58](https://news.ycombinator.com/item?id=43006605) - [Large Nuclear-Powered Subsonic Aircraft for Transoceanic Commerce (1971) [pdf]](https://ntrs.nasa.gov/api/citations/19710028801/downloads/19710028801.pdf)
 * [2025-02-10, 23:16:33](https://news.ycombinator.com/item?id=43006536) - [Fun with C++26 reflection: Keyword Arguments](https://pydong.org/posts/KwArgs/)
 * [2025-02-10, 22:57:31](https://news.ycombinator.com/item?id=43006390) - [Hedge Funds Are Pocketing Much of Their Clients' Gains with 'No Limit' Fees](https://www.bloomberg.com/graphics/2025-hedge-fund-investment-fees/)
