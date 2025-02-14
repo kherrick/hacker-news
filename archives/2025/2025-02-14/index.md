@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-02-14](index.md)
 
+* [2025-02-14, 02:49:42](https://news.ycombinator.com/item?id=43044223) - [TikTok is back in the App Store](https://www.theverge.com/news/612768/tiktok-app-store-apple-google-us-ban)
 * [2025-02-14, 01:44:03](https://news.ycombinator.com/item?id=43043752) - [Apple Resumes Advertising on X](https://daringfireball.net/linked/2025/02/12/apple-advertising-x)
+* [2025-02-14, 01:34:05](https://news.ycombinator.com/item?id=43043671) - [OCR4all](https://www.ocr4all.org/)
 * [2025-02-14, 01:00:07](https://news.ycombinator.com/item?id=43043441) - [Doctor Droid (YC W23) Is Hiring a Back End Engineer](https://www.ycombinator.com/companies/doctor-droid/jobs/F0iI9UU-backend-engineer-assignment-in-description)
 * [2025-02-14, 00:52:53](https://news.ycombinator.com/item?id=43043388) - [CDC Study Finds Silent Bird Flu Infections in Dairy Veterinarians](https://www.nytimes.com/2025/02/13/science/cdc-bird-flu-infections.html)
 * [2025-02-14, 00:40:49](https://news.ycombinator.com/item?id=43043312) - [We are the \"thin blue line\" that is trying to keep the code high quality](https://lore.kernel.org/lkml/20250208204416.GL1130956@mit.edu/)
