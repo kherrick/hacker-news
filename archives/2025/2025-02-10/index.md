@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-10](index.md)
 
 * [2025-02-10, 23:58:58](https://news.ycombinator.com/item?id=43006950) - [Pairwise TOTP Authentication of Humans](https://www.schneier.com/blog/archives/2025/02/pairwise-authentication-of-humans.html)
+* [2025-02-10, 23:43:15](https://news.ycombinator.com/item?id=43006807) - [I built an AI company to save my open source project](https://timefold.ai/blog/how-i-built-an-ai-company-to-save-my-open-source-project)
 * [2025-02-10, 23:23:58](https://news.ycombinator.com/item?id=43006605) - [Large Nuclear-Powered Subsonic Aircraft for Transoceanic Commerce (1971) [pdf]](https://ntrs.nasa.gov/api/citations/19710028801/downloads/19710028801.pdf)
 * [2025-02-10, 23:21:49](https://news.ycombinator.com/item?id=43006584) - [Pied Beauty: Wari Tie-Dye Textiles (Ca. 425–1100)](https://publicdomainreview.org/collection/wari-tie-dye/)
 * [2025-02-10, 23:16:33](https://news.ycombinator.com/item?id=43006536) - [Fun with C++26 reflection: Keyword Arguments](https://pydong.org/posts/KwArgs/)
