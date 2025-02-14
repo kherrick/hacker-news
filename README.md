@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-14, 14:42:59](https://news.ycombinator.com/item?id=43048816) - [Zuckerberg's rightward policy shift puts Meta staffers on edge, targets Apple](https://www.cnbc.com/2025/02/14/zuckerbergs-rightward-policy-shift-hits-meta-staffers-targets-apple.html)
 * [2025-02-14, 14:01:10](https://news.ycombinator.com/item?id=43048345) - [A woman made her AI voice clone say \"arse.\" Then she got banned](https://www.technologyreview.com/2025/02/14/1111900/ai-voice-clone-say-arse-then-banned/)
 * [2025-02-14, 13:53:49](https://news.ycombinator.com/item?id=43048261) - [The History of S.U.S..E](https://www.abortretry.fail/p/the-history-of-suse)
 * [2025-02-14, 13:23:23](https://news.ycombinator.com/item?id=43048027) - [Show HN: Transform Your Codebase into a Single Markdown Doc for Feeding into AI](https://tesserato.web.app/posts/2025-02-12-CodeWeaver-launch/index.html)
@@ -22,14 +23,13 @@
 * [2025-02-13, 19:44:34](https://news.ycombinator.com/item?id=43040382) - [MapTCHA, the open-source CAPTCHA that improves OpenStreetMap [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-5879-maptcha-the-open-source-captcha-that-improves-openstreetmap/)
 * [2025-02-13, 18:20:29](https://news.ycombinator.com/item?id=43039308) - [Phind 2: AI search with visual answers and multi-step reasoning](https://www.phind.com/blog/phind-2)
 * [2025-02-12, 08:58:01](https://news.ycombinator.com/item?id=43023338) - [Everything about Google Translate crashing React (and other web apps)](https://martijnhols.nl/blog/everything-about-google-translate-crashing-react)
+* [2025-02-12, 07:32:03](https://news.ycombinator.com/item?id=43022824) - [Alt.Anonymous.Messages Newsgroup](http://wudewasa.blogspot.com/2017/05/altanonymousmessages-newsgroup.html)
 * [2025-02-11, 14:43:45](https://news.ycombinator.com/item?id=43013248) - [Bulk inserts on ClickHouse: How to avoid overstuffing your instance](https://www.runportcullis.co/blog/bulk-data-clickhouse/)
 * [2025-02-11, 12:26:11](https://news.ycombinator.com/item?id=43012000) - [Solving the ABA Problem in Rust with Tagged Pointers](https://minikin.me/blog/solving-the-aba-problem-in-rust-tagged-pointers)
 * [2025-02-11, 00:47:17](https://news.ycombinator.com/item?id=43007453) - [Do Lake Names Reflect Their Properties?](https://ivanludvig.dev/tech/lake-colors)
-* [2025-02-10, 17:52:31](https://news.ycombinator.com/item?id=43003052) - [Show HN: I made a tiny book using a pen-plotter and AI](https://muffinman.io/blog/the-tiny-book-of-great-joys/)
 * [2025-02-10, 14:35:55](https://news.ycombinator.com/item?id=43000764) - [Show HN: A unique generated maze to share with your valentine](https://love.berk.es/)
 * [2025-02-10, 12:22:26](https://news.ycombinator.com/item?id=42999454) - [I built an AI company to save my open source project](https://timefold.ai/blog/how-i-built-an-ai-company-to-save-my-open-source-project)
 * [2025-02-10, 09:16:04](https://news.ycombinator.com/item?id=42998383) - [Nvidia Security Team: “What if we just stopped using C?” (2022)](https://blog.adacore.com/nvidia-security-team-what-if-we-just-stopped-using-c)
-* [2025-02-10, 05:53:29](https://news.ycombinator.com/item?id=42997327) - [Jooki – Taking Control of a Forgotten Device](https://nv1t.github.io/blog/reviving-jooki/)
 
 ## [Archives](archives/index.md)
 
