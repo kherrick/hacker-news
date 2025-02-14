@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-14, 20:44:05](https://news.ycombinator.com/item?id=43052880) - [National Park Service erases some words from Stonewall National Monument site](https://apnews.com/article/stonewall-transgender-trump-3add180f5cfcde156f8d809d24e830a6)
+* [2025-02-14, 20:49:14](https://news.ycombinator.com/item?id=43052923) - [Researcher Captures Contents of 'DEI.gov' Before It Was Hidden Behind a Password](https://www.404media.co/dei-waste-gov-doge-list-behind-password/)
+* [2025-02-14, 20:48:07](https://news.ycombinator.com/item?id=43052910) - [CDC cuts expected to decimate Epidemic Intelligence Service](https://www.statnews.com/2025/02/14/trump-cdc-cuts-include-epidemic-intelligence-service-outbreak-investigators/)
 * [2025-02-14, 20:00:12](https://news.ycombinator.com/item?id=43052427) - [Ask HN: Is anybody building an alternative transformer?](https://news.ycombinator.com/item?id=43052427)
 * [2025-02-14, 19:58:56](https://news.ycombinator.com/item?id=43052409) - [LinkedIn is the worst social media I've ever seen](https://news.ycombinator.com/item?id=43052409)
 * [2025-02-14, 19:30:06](https://news.ycombinator.com/item?id=43052107) - [Diffusion Without Tears](https://baincapitalventures.notion.site/Diffusion-Without-Tears-14e1469584c180deb0a9ed9aa6ff7a4c)
@@ -20,7 +21,6 @@
 * [2025-02-14, 06:50:47](https://news.ycombinator.com/item?id=43045606) - [Zed now predicts your next edit with Zeta, our new open model](https://zed.dev/blog/edit-prediction)
 * [2025-02-14, 06:40:11](https://news.ycombinator.com/item?id=43045558) - [The New York Stock Exchange plans to launch NYSE Texas](https://ir.theice.com/press/news-details/2025/The-New-York-Stock-Exchange-to-Launch-NYSE-Texas/default.aspx)
 * [2025-02-14, 06:14:19](https://news.ycombinator.com/item?id=43045406) - [Does X cause Y? An in-depth evidence review (2021)](https://www.cold-takes.com/does-x-cause-y-an-in-depth-evidence-review/)
-* [2025-02-13, 19:57:29](https://news.ycombinator.com/item?id=43040521) - [Privacy Pass Authentication for Kagi Search](https://blog.kagi.com/kagi-privacy-pass)
 * [2025-02-13, 04:34:09](https://news.ycombinator.com/item?id=43032697) - [TeX and Typst: Layout Models (2024)](https://laurmaedje.github.io/posts/layout-models/)
 * [2025-02-12, 07:32:03](https://news.ycombinator.com/item?id=43022824) - [Alt.Anonymous.Messages Newsgroup](http://wudewasa.blogspot.com/2017/05/altanonymousmessages-newsgroup.html)
 * [2025-02-12, 02:16:10](https://news.ycombinator.com/item?id=43021049) - [Advancements in Embedding-Based Retrieval at Pinterest Homefeed](https://medium.com/pinterest-engineering/advancements-in-embedding-based-retrieval-at-pinterest-homefeed-d7d7971a409e)

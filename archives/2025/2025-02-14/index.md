@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-14](index.md)
 
+* [2025-02-14, 20:49:14](https://news.ycombinator.com/item?id=43052923) - [Researcher Captures Contents of 'DEI.gov' Before It Was Hidden Behind a Password](https://www.404media.co/dei-waste-gov-doge-list-behind-password/)
 * [2025-02-14, 20:48:07](https://news.ycombinator.com/item?id=43052910) - [CDC cuts expected to decimate Epidemic Intelligence Service](https://www.statnews.com/2025/02/14/trump-cdc-cuts-include-epidemic-intelligence-service-outbreak-investigators/)
 * [2025-02-14, 20:44:05](https://news.ycombinator.com/item?id=43052880) - [National Park Service erases some words from Stonewall National Monument site](https://apnews.com/article/stonewall-transgender-trump-3add180f5cfcde156f8d809d24e830a6)
 * [2025-02-14, 20:03:28](https://news.ycombinator.com/item?id=43052468) - [DOGE's 'Genius' Coders Launch Website So Full of Holes, Anyone Can Write to It](https://www.techdirt.com/2025/02/14/doges-genius-coders-launch-website-so-full-of-holes-anyone-can-write-to-it/)
