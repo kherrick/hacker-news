@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-14, 23:10:36](https://news.ycombinator.com/item?id=43054069) - [Eric Meyer – A Decade Later, a Decade Lost](https://meyerweb.com/eric/thoughts/2024/06/07/a-decade-later-a-decade-lost/)
+* [2025-02-14, 23:10:36](https://news.ycombinator.com/item?id=43054069) - [A decade later, a decade lost](https://meyerweb.com/eric/thoughts/2024/06/07/a-decade-later-a-decade-lost/)
 * [2025-02-14, 22:45:02](https://news.ycombinator.com/item?id=43053908) - [If you ever stacked cups in gym class, blame my dad](https://defector.com/if-you-ever-stacked-cups-in-gym-class-blame-my-dad)
 * [2025-02-14, 22:36:31](https://news.ycombinator.com/item?id=43053844) - [We Were Wrong About GPUs](https://fly.io/blog/wrong-about-gpu/)
-* [2025-02-14, 22:08:43](https://news.ycombinator.com/item?id=43053656) - [Terabytes Encoded Within a Millimeter-Sized Crystal](https://bioengineer.org/immense-data-storage-envisioning-terabytes-encoded-within-a-millimeter-sized-crystal/)
 * [2025-02-14, 22:05:33](https://news.ycombinator.com/item?id=43053625) - [Complex dynamics require complex solutions](https://mathstodon.xyz/@tao/113873092369347147)
 * [2025-02-14, 21:50:50](https://news.ycombinator.com/item?id=43053466) - [Codeberg appears to be under a DDoS attack](https://status.codeberg.eu/status/codeberg)
 * [2025-02-14, 21:45:49](https://news.ycombinator.com/item?id=43053419) - [The hardest working font in Manhattan](https://aresluna.org/the-hardest-working-font-in-manhattan/)
@@ -17,6 +16,7 @@
 * [2025-02-14, 18:29:59](https://news.ycombinator.com/item?id=43051465) - [A study on how turtles navigate using the Earth’s magnetic field](https://www.unc.edu/posts/2025/02/12/dancing-turtles-unlock-scientific-discovery/)
 * [2025-02-14, 16:18:30](https://news.ycombinator.com/item?id=43049959) - [Detecting AI agent use and abuse](https://stytch.com/blog/detecting-ai-agent-use-abuse/)
 * [2025-02-14, 15:24:05](https://news.ycombinator.com/item?id=43049251) - [The largest sofa you can move around a corner](https://www.quantamagazine.org/the-largest-sofa-you-can-move-around-a-corner-20250214/)
+* [2025-02-14, 13:53:49](https://news.ycombinator.com/item?id=43048261) - [The History of S.u.S.E](https://www.abortretry.fail/p/the-history-of-suse)
 * [2025-02-14, 13:23:23](https://news.ycombinator.com/item?id=43048027) - [Show HN: Transform your codebase into a single Markdown doc for feeding into AI](https://tesserato.web.app/posts/2025-02-12-CodeWeaver-launch/index.html)
 * [2025-02-14, 12:45:05](https://news.ycombinator.com/item?id=43047792) - [AI is stifling new tech adoption?](https://vale.rocks/posts/ai-is-stifling-tech-adoption)
 * [2025-02-14, 08:30:27](https://news.ycombinator.com/item?id=43046174) - [Linux kernel cgroups writeback high CPU troubleshooting](https://dasl.cc/2025/01/01/debugging-our-new-linux-kernel/)
