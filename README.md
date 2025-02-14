@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-14, 22:08:43](https://news.ycombinator.com/item?id=43053656) - [Terabytes Encoded Within a Millimeter-Sized Crystal](https://bioengineer.org/immense-data-storage-envisioning-terabytes-encoded-within-a-millimeter-sized-crystal/)
-* [2025-02-14, 22:05:33](https://news.ycombinator.com/item?id=43053625) - [Terence Tao – Complex Dynamics Require Complex Solutions](https://mathstodon.xyz/@tao/113873092369347147)
-* [2025-02-14, 21:58:30](https://news.ycombinator.com/item?id=43053552) - [The United States is not a Silicon Valley company](http://scripting.com/2025/02/12/140926.html)
+* [2025-02-14, 22:05:33](https://news.ycombinator.com/item?id=43053625) - [Terence Tao – Complex dynamics require complex solutions](https://mathstodon.xyz/@tao/113873092369347147)
 * [2025-02-14, 21:45:49](https://news.ycombinator.com/item?id=43053419) - [The hardest working font in Manhattan](https://aresluna.org/the-hardest-working-font-in-manhattan/)
 * [2025-02-14, 21:42:03](https://news.ycombinator.com/item?id=43053385) - [Mathics: A free, open-source alternative to Mathematica](https://mathics.org/)
 * [2025-02-14, 20:57:36](https://news.ycombinator.com/item?id=43052997) - [Show HN: OpenSCAD configurable calendar 3D model](https://chrastecky.dev/3d-printing/open-scad-configurable-calendar-3d-model)
@@ -23,6 +22,7 @@
 * [2025-02-14, 07:26:16](https://news.ycombinator.com/item?id=43045801) - [Benchmarking vision-language models on OCR in dynamic video environments](https://arxiv.org/abs/2502.06445)
 * [2025-02-14, 07:08:53](https://news.ycombinator.com/item?id=43045698) - [Extensible WASM Applications with Go](https://go.dev/blog/wasmexport)
 * [2025-02-14, 07:00:41](https://news.ycombinator.com/item?id=43045656) - [Yhangry (YC W22) Is Hiring](https://news.ycombinator.com/item?id=43045656)
+* [2025-02-14, 06:50:47](https://news.ycombinator.com/item?id=43045606) - [Zed now predicts your next edit with Zeta, our new open model](https://zed.dev/blog/edit-prediction)
 * [2025-02-14, 06:40:11](https://news.ycombinator.com/item?id=43045558) - [The New York Stock Exchange plans to launch NYSE Texas](https://ir.theice.com/press/news-details/2025/The-New-York-Stock-Exchange-to-Launch-NYSE-Texas/default.aspx)
 * [2025-02-14, 06:14:19](https://news.ycombinator.com/item?id=43045406) - [Does X cause Y? An in-depth evidence review (2021)](https://www.cold-takes.com/does-x-cause-y-an-in-depth-evidence-review/)
 * [2025-02-13, 04:34:09](https://news.ycombinator.com/item?id=43032697) - [TeX and Typst: Layout Models (2024)](https://laurmaedje.github.io/posts/layout-models/)
