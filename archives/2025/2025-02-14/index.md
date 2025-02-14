@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-02-14](index.md)
 
+* [2025-02-14, 17:16:06](https://news.ycombinator.com/item?id=43050579) - [DOGE Website Hacked](https://arstechnica.com/tech-policy/2025/02/doges-gov-site-lampooned-as-coders-quickly-realize-it-can-be-edited-by-anyone/)
+* [2025-02-14, 17:06:59](https://news.ycombinator.com/item?id=43050503) - [The Oligarchs Who Came to Regret Supporting Hitler](https://www.theatlantic.com/ideas/archive/2025/02/hitler-oligarchs-hugenberg-nazi/681584/)
+* [2025-02-14, 16:52:45](https://news.ycombinator.com/item?id=43050350) - [Nearly half of Steam's users are still using Windows 10](https://www.pcguide.com/news/nearly-half-of-steams-users-are-still-using-windows-10-with-end-of-life-fast-approaching/)
 * [2025-02-14, 16:18:30](https://news.ycombinator.com/item?id=43049959) - [Detecting AI Agent Use and Abuse](https://stytch.com/blog/detecting-ai-agent-use-abuse/)
 * [2025-02-14, 16:06:47](https://news.ycombinator.com/item?id=43049817) - [Show HN: A Valentine's Day experience for people who aren't celebrating](https://www.justanotherday.lol/)
 * [2025-02-14, 15:44:10](https://news.ycombinator.com/item?id=43049525) - [Bitly injecting ads into shortened links](https://social.jvns.ca/@b0rk/114002651694606295)

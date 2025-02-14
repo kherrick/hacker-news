@@ -13,6 +13,7 @@
 * [2025-02-10, 22:53:40](https://news.ycombinator.com/item?id=43006350) - [Relational Quantum Mechanics](https://plato.stanford.edu/entries/qm-relational/)
 * [2025-02-10, 21:00:29](https://news.ycombinator.com/item?id=43005096) - [Fly.io (YC W20) Is Hiring a Customer Support Director](https://news.ycombinator.com/item?id=43005096)
 * [2025-02-10, 21:00:14](https://news.ycombinator.com/item?id=43005093) - [The McKinley Years](https://jasonsteinhauer.substack.com/p/make-mckinley-great-again)
+* [2025-02-10, 20:58:07](https://news.ycombinator.com/item?id=43005077) - [Anatomy of Oscillation](https://tidyfirst.substack.com/p/anatomy-of-oscillation)
 * [2025-02-10, 20:48:38](https://news.ycombinator.com/item?id=43004966) - [The 'Mosaic' Method and the Value of CIA Names to U.S. Adversaries](https://www.lawfaremedia.org/article/the--mosaic--method-and-the-value-of-cia-names-to-u.s.-adversaries)
 * [2025-02-10, 20:42:23](https://news.ycombinator.com/item?id=43004892) - [Increased crevassing across accelerating Greenland Ice Sheet margins](https://www.nature.com/articles/s41561-024-01636-6)
 * [2025-02-10, 20:42:18](https://news.ycombinator.com/item?id=43004889) - [Musk-led group makes $97B bid for control of OpenAI](https://www.reuters.com/markets/deals/elon-musk-led-group-makes-974-billion-bid-control-openai-wsj-reports-2025-02-10/)
