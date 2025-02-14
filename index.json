@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2025-02-13, 21:01:46",
-      "https://news.ycombinator.com/item?id=43041303"
-    ],
-    [
-      "TSforge: Reverse Engineering the Windows Software Protection Platform",
-      "https://massgrave.dev/blog/tsforge"
-    ]
-  ],
-  [
-    [
       "2025-02-13, 20:27:08",
       "https://news.ycombinator.com/item?id=43040869"
     ],
@@ -267,6 +257,16 @@
     [
       "SQL pipe syntax available in public preview in BigQuery",
       "https://cloud.google.com/bigquery/docs/pipe-syntax-guide"
+    ]
+  ],
+  [
+    [
+      "2025-02-10, 10:32:59",
+      "https://news.ycombinator.com/item?id=42998876"
+    ],
+    [
+      "Computing Tricky Probabilities Using Model Counting",
+      "https://www.msoos.org/2025/02/computing-tricky-probabilities/"
     ]
   ],
   [
