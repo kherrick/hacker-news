@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=43051465"
     ],
     [
-      "Dancing turtles unlock scientific discovery",
+      "A study on how turtles navigate using the Earth’s magnetic field",
       "https://www.unc.edu/posts/2025/02/12/dancing-turtles-unlock-scientific-discovery/"
     ]
   ],
@@ -61,21 +61,11 @@
   ],
   [
     [
-      "2025-02-14, 13:12:22",
-      "https://news.ycombinator.com/item?id=43047952"
-    ],
-    [
-      "Watchdog ponders why Apple doesn't apply its strict app tracking rules to itself",
-      "https://www.theregister.com/2025/02/14/apple_app_tracking_probe/"
-    ]
-  ],
-  [
-    [
       "2025-02-14, 12:45:05",
       "https://news.ycombinator.com/item?id=43047792"
     ],
     [
-      "AI is stifling tech adoption",
+      "AI is stifling new tech adoption",
       "https://vale.rocks/posts/ai-is-stifling-tech-adoption"
     ]
   ],
@@ -165,7 +155,7 @@
       "https://news.ycombinator.com/item?id=43045558"
     ],
     [
-      "The New York Stock Exchange to Launch NYSE Texas",
+      "The New York Stock Exchange plans to launch NYSE Texas",
       "https://ir.theice.com/press/news-details/2025/The-New-York-Stock-Exchange-to-Launch-NYSE-Texas/default.aspx"
     ]
   ],
@@ -175,7 +165,7 @@
       "https://news.ycombinator.com/item?id=43045406"
     ],
     [
-      "Does X cause Y? An in-depth evidence review",
+      "Does X cause Y? An in-depth evidence review (2021)",
       "https://www.cold-takes.com/does-x-cause-y-an-in-depth-evidence-review/"
     ]
   ],
@@ -201,6 +191,16 @@
   ],
   [
     [
+      "2025-02-13, 23:21:21",
+      "https://news.ycombinator.com/item?id=43042753"
+    ],
+    [
+      "LM2: Large Memory Models",
+      "https://arxiv.org/abs/2502.06049"
+    ]
+  ],
+  [
+    [
       "2025-02-13, 19:57:29",
       "https://news.ycombinator.com/item?id=43040521"
     ],
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=43032697"
     ],
     [
-      "TeX and Typst: Layout Models",
+      "TeX and Typst: Layout Models (2024)",
       "https://laurmaedje.github.io/posts/layout-models/"
     ]
   ],
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2025-02-11, 14:43:45",
-      "https://news.ycombinator.com/item?id=43013248"
+      "2025-02-11, 18:04:35",
+      "https://news.ycombinator.com/item?id=43015975"
     ],
     [
-      "Bulk inserts on ClickHouse: How to avoid overstuffing your instance",
-      "https://www.runportcullis.co/blog/bulk-data-clickhouse/"
+      "Elements of Programming (2009)",
+      "https://www.elementsofprogramming.com/"
     ]
   ],
   [
