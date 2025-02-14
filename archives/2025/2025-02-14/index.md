@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2025-02-14](index.md)
 
+* [2025-02-14, 22:45:02](https://news.ycombinator.com/item?id=43053908) - [If you ever stacked cups in gym class, blame my dad](https://defector.com/if-you-ever-stacked-cups-in-gym-class-blame-my-dad)
+* [2025-02-14, 22:36:31](https://news.ycombinator.com/item?id=43053844) - [We Were Wrong About GPUs](https://fly.io/blog/wrong-about-gpu/)
 * [2025-02-14, 22:08:43](https://news.ycombinator.com/item?id=43053656) - [Terabytes Encoded Within a Millimeter-Sized Crystal](https://bioengineer.org/immense-data-storage-envisioning-terabytes-encoded-within-a-millimeter-sized-crystal/)
 * [2025-02-14, 22:05:33](https://news.ycombinator.com/item?id=43053625) - [Terence Tao – Complex Dynamics Require Complex Solutions](https://mathstodon.xyz/@tao/113873092369347147)
 * [2025-02-14, 21:58:30](https://news.ycombinator.com/item?id=43053552) - [The United States is not a Silicon Valley company](http://scripting.com/2025/02/12/140926.html)
 * [2025-02-14, 21:50:50](https://news.ycombinator.com/item?id=43053466) - [Codeberg appears to be under a DDoS attack](https://status.codeberg.eu/status/codeberg)
 * [2025-02-14, 21:45:49](https://news.ycombinator.com/item?id=43053419) - [The hardest working font in Manhattan](https://aresluna.org/the-hardest-working-font-in-manhattan/)
 * [2025-02-14, 21:42:03](https://news.ycombinator.com/item?id=43053385) - [Mathics: A free, open-source alternative to Mathematica](https://mathics.org/)
+* [2025-02-14, 21:39:29](https://news.ycombinator.com/item?id=43053350) - [The Iconic 3DBenchy Enters the Public Domain](https://www.nti-group.com/home/information/news/3dbenchy/)
 * [2025-02-14, 21:32:53](https://news.ycombinator.com/item?id=43053287) - [Cameras have appeared outside homes of Atlanta's 'Cop City' activists](https://www.theguardian.com/us-news/2025/feb/14/cameras-cop-city-activist-homes-atlanta)
 * [2025-02-14, 20:57:36](https://news.ycombinator.com/item?id=43052997) - [Show HN: OpenSCAD configurable calendar 3D model](https://chrastecky.dev/3d-printing/open-scad-configurable-calendar-3d-model)
 * [2025-02-14, 20:49:14](https://news.ycombinator.com/item?id=43052923) - [Researcher Captures Contents of 'DEI.gov' Before It Was Hidden Behind a Password](https://www.404media.co/dei-waste-gov-doge-list-behind-password/)
