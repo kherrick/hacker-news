@@ -60,6 +60,7 @@
 * [2025-02-10, 11:17:09](https://news.ycombinator.com/item?id=42999088) - [Beavers finish seven-year dam project in two days saving – $1M](https://www.nationalgeographic.com/animals/article/beaver-dam-czech-republic)
 * [2025-02-10, 11:05:56](https://news.ycombinator.com/item?id=42999044) - [Man who lost Bitcoin fortune in Welsh tip explores purchase of entire landfill](https://www.theguardian.com/technology/2025/feb/10/man-who-lost-bitcoin-fortune-in-welsh-tip-explores-purchase-of-entire-landfill)
 * [2025-02-10, 10:38:29](https://news.ycombinator.com/item?id=42998904) - [SQL pipe syntax available in public preview in BigQuery](https://cloud.google.com/bigquery/docs/pipe-syntax-guide)
+* [2025-02-10, 10:32:59](https://news.ycombinator.com/item?id=42998876) - [Computing Tricky Probabilities Using Model Counting](https://www.msoos.org/2025/02/computing-tricky-probabilities/)
 * [2025-02-10, 10:04:46](https://news.ycombinator.com/item?id=42998737) - [Evolution of Whois Protocol to RDAP (2019)](https://www.icann.org/en/blogs/details/evolution-of-whois-protocol-to-rdap---what-you-need-to-know-23-10-2019-en)
 * [2025-02-10, 09:22:29](https://news.ycombinator.com/item?id=42998431) - [Show HN: Seen: rendering 1,000,000+ notes in <1s. speed, by default](https://seen-v2.vercel.app/)
 * [2025-02-10, 09:16:04](https://news.ycombinator.com/item?id=42998383) - [Nvidia Security Team: \"What if we just stopped using C?\" (2022)](https://blog.adacore.com/nvidia-security-team-what-if-we-just-stopped-using-c)
