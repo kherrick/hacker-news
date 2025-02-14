@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-02-14, 02:03:54",
-      "https://news.ycombinator.com/item?id=43043908"
-    ],
-    [
-      "UK drops 'safety' from its AI body, now called AI Security Institute",
-      "https://techcrunch.com/2025/02/13/uk-drops-safety-from-its-ai-body-now-called-ai-security-institute-inks-mou-with-anthropic/"
-    ]
-  ],
-  [
-    [
       "2025-02-14, 01:34:05",
       "https://news.ycombinator.com/item?id=43043671"
     ],
@@ -111,16 +101,6 @@
   ],
   [
     [
-      "2025-02-13, 21:01:46",
-      "https://news.ycombinator.com/item?id=43041303"
-    ],
-    [
-      "TSforge: Reverse Engineering the Windows Software Protection Platform",
-      "https://massgrave.dev/blog/tsforge"
-    ]
-  ],
-  [
-    [
       "2025-02-13, 20:27:08",
       "https://news.ycombinator.com/item?id=43040869"
     ],
@@ -181,6 +161,16 @@
   ],
   [
     [
+      "2025-02-13, 15:20:52",
+      "https://news.ycombinator.com/item?id=43036742"
+    ],
+    [
+      "Magnetic field sorting of superconducting graphite particles with Tc>400K (2024)",
+      "https://arxiv.org/abs/2410.18020"
+    ]
+  ],
+  [
+    [
       "2025-02-13, 14:53:21",
       "https://news.ycombinator.com/item?id=43036428"
     ],
@@ -217,6 +207,16 @@
     [
       "Basis of the Kalman Filter [pdf]",
       "https://github.com/tpn/pdfs/blob/master/Understanding%20the%20Basis%20of%20the%20Kalman%20Filter%20Via%20a%20Simple%20and%20Intuitive%20Derivation%20%282012%29.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-02-12, 09:24:08",
+      "https://news.ycombinator.com/item?id=43023508"
+    ],
+    [
+      "Smuggling arbitrary data through an emoji",
+      "https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/"
     ]
   ],
   [
