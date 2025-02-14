@@ -2,7 +2,6 @@
 
 * [2025-02-14, 16:18:30](https://news.ycombinator.com/item?id=43049959) - [Detecting AI Agent Use and Abuse](https://stytch.com/blog/detecting-ai-agent-use-abuse/)
 * [2025-02-14, 16:06:47](https://news.ycombinator.com/item?id=43049817) - [Show HN: A Valentine's Day experience for people who aren't celebrating](https://www.justanotherday.lol/)
-* [2025-02-14, 15:18:28](https://news.ycombinator.com/item?id=43049191) - [The Loneliness Epidemic Is a Security Crisis](https://www.wired.com/story/loneliness-epidemic-romance-scams-security-crisis/)
 * [2025-02-14, 15:16:56](https://news.ycombinator.com/item?id=43049174) - [DA, sheriff, who shared woman's nude photos on phone are covered by QI](https://www.oregonlive.com/crime/2025/02/an-oregon-womans-nude-cellphone-photos-ended-up-the-talk-of-town-she-tracked-it-back-to-the-da.html)
 * [2025-02-14, 13:53:49](https://news.ycombinator.com/item?id=43048261) - [The History of S.u.S.E](https://www.abortretry.fail/p/the-history-of-suse)
 * [2025-02-14, 13:23:23](https://news.ycombinator.com/item?id=43048027) - [Show HN: Transform Your Codebase into a Single Markdown Doc for Feeding into AI](https://tesserato.web.app/posts/2025-02-12-CodeWeaver-launch/index.html)
@@ -27,6 +26,7 @@
 * [2025-02-11, 14:43:45](https://news.ycombinator.com/item?id=43013248) - [Bulk inserts on ClickHouse: How to avoid overstuffing your instance](https://www.runportcullis.co/blog/bulk-data-clickhouse/)
 * [2025-02-11, 12:26:11](https://news.ycombinator.com/item?id=43012000) - [Solving the ABA Problem in Rust with Tagged Pointers](https://minikin.me/blog/solving-the-aba-problem-in-rust-tagged-pointers)
 * [2025-02-11, 00:47:17](https://news.ycombinator.com/item?id=43007453) - [Do Lake Names Reflect Their Properties?](https://ivanludvig.dev/tech/lake-colors)
+* [2025-02-10, 19:12:36](https://news.ycombinator.com/item?id=43003999) - [NAT Is the Enemy of Low Power Devices](https://blog.golioth.io/nat-is-the-enemy-of-low-power-devices/)
 * [2025-02-10, 14:35:55](https://news.ycombinator.com/item?id=43000764) - [Show HN: A unique generated maze to share with your valentine](https://love.berk.es/)
 * [2025-02-10, 12:22:26](https://news.ycombinator.com/item?id=42999454) - [I built an AI company to save my open source project](https://timefold.ai/blog/how-i-built-an-ai-company-to-save-my-open-source-project)
 * [2025-02-10, 09:16:04](https://news.ycombinator.com/item?id=42998383) - [Nvidia Security Team: “What if we just stopped using C?” (2022)](https://blog.adacore.com/nvidia-security-team-what-if-we-just-stopped-using-c)
