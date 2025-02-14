@@ -20,6 +20,7 @@
 * [2025-02-14, 20:48:07](https://news.ycombinator.com/item?id=43052910) - [CDC cuts expected to decimate Epidemic Intelligence Service](https://www.statnews.com/2025/02/14/trump-cdc-cuts-include-epidemic-intelligence-service-outbreak-investigators/)
 * [2025-02-14, 20:47:47](https://news.ycombinator.com/item?id=43052905) - [A Libertarian Island Dream in Honduras Is Now an $11B Nightmare](https://www.bloomberg.com/news/features/2025-02-13/a-honduras-dream-city-now-faces-11-billion-political-dispute)
 * [2025-02-14, 20:44:05](https://news.ycombinator.com/item?id=43052880) - [National Park Service erases some words from Stonewall National Monument site](https://apnews.com/article/stonewall-transgender-trump-3add180f5cfcde156f8d809d24e830a6)
+* [2025-02-14, 20:26:12](https://news.ycombinator.com/item?id=43052728) - [Yash: Yet Another Shell](https://github.com/magicant/yash)
 * [2025-02-14, 20:12:52](https://news.ycombinator.com/item?id=43052584) - [Type safe variadic printf](https://www.stranger.systems/posts/by-slug/type-safe-variadic-printf.html)
 * [2025-02-14, 20:03:28](https://news.ycombinator.com/item?id=43052468) - [DOGE's 'Genius' Coders Launch Website So Full of Holes, Anyone Can Write to It](https://www.techdirt.com/2025/02/14/doges-genius-coders-launch-website-so-full-of-holes-anyone-can-write-to-it/)
 * [2025-02-14, 20:00:20](https://news.ycombinator.com/item?id=43052430) - [Danish Petition to Buy California](https://denmarkification.com/)
