@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-02-14, 08:37:20",
+      "https://news.ycombinator.com/item?id=43046205"
+    ],
+    [
+      "Anthropic's next major AI model could arrive within weeks",
+      "https://techcrunch.com/2025/02/13/anthropics-next-major-ai-model-could-arrive-within-weeks/"
+    ]
+  ],
+  [
+    [
+      "2025-02-14, 08:30:27",
+      "https://news.ycombinator.com/item?id=43046174"
+    ],
+    [
+      "Linux kernel cgroups writeback high CPU troubleshooting",
+      "https://dasl.cc/2025/01/01/debugging-our-new-linux-kernel/"
+    ]
+  ],
+  [
+    [
+      "2025-02-14, 08:29:23",
+      "https://news.ycombinator.com/item?id=43046170"
+    ],
+    [
+      "Evaluating RAG for large scale codebases",
+      "https://www.qodo.ai/blog/evaluating-rag-for-large-scale-codebases/"
+    ]
+  ],
+  [
+    [
       "2025-02-14, 07:31:46",
       "https://news.ycombinator.com/item?id=43045835"
     ],
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2025-02-13, 17:13:01",
-      "https://news.ycombinator.com/item?id=43038395"
-    ],
-    [
-      "Who exactly needs to get approval from an institutional review board (IRB)?",
-      "https://dynomight.net/irb/"
-    ]
-  ],
-  [
-    [
       "2025-02-13, 16:59:43",
       "https://news.ycombinator.com/item?id=43038200"
     ],
@@ -187,16 +207,6 @@
     [
       "Fewer students are enrolling in doctoral degrees",
       "https://www.nature.com/articles/d41586-025-00425-4"
-    ]
-  ],
-  [
-    [
-      "2025-02-13, 08:38:13",
-      "https://news.ycombinator.com/item?id=43033971"
-    ],
-    [
-      "Learning fast and accurate absolute pitch judgment in adulthood",
-      "https://link.springer.com/article/10.3758/s13423-024-02620-2"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "I built an AI company to save my open source project",
       "https://timefold.ai/blog/how-i-built-an-ai-company-to-save-my-open-source-project"
-    ]
-  ],
-  [
-    [
-      "2025-02-10, 10:38:29",
-      "https://news.ycombinator.com/item?id=42998904"
-    ],
-    [
-      "SQL pipe syntax available in public preview in BigQuery",
-      "https://cloud.google.com/bigquery/docs/pipe-syntax-guide"
     ]
   ],
   [
