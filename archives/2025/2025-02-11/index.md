@@ -52,6 +52,7 @@
 * [2025-02-11, 16:01:19](https://news.ycombinator.com/item?id=43014418) - [E Ink's color ePaper tech gets supersized for outdoor displays](https://newatlas.com/technology/e-ink-kaleido-outdoor-3-75-inch-displays/)
 * [2025-02-11, 16:00:59](https://news.ycombinator.com/item?id=43014408) - [Intel's Battlemage Architecture](https://chipsandcheese.com/p/intels-battlemage-architecture)
 * [2025-02-11, 15:56:04](https://news.ycombinator.com/item?id=43014321) - [Proton Wallet is now available for all](https://primal.net/e/note1fus8glne8684xtn3n8lt2wjztsjss6k4jmc56ttl573ngxczerlqp84g9m)
+* [2025-02-11, 15:47:45](https://news.ycombinator.com/item?id=43014190) - [Lzbench Compression Benchmark](https://morotti.github.io/lzbench-web/)
 * [2025-02-11, 15:40:11](https://news.ycombinator.com/item?id=43014070) - [Get in loser. We're rewinding the stack](https://andrews.substack.com/p/get-in-loser-were-rewinding-the-stack)
 * [2025-02-11, 15:11:43](https://news.ycombinator.com/item?id=43013672) - [A pair of scissors on formica table suddenly bursts into flames](https://old.reddit.com/r/chemistry/comments/1ilmshx/a_pair_of_scissors_sitting_on_my_table_formica/)
 * [2025-02-11, 15:11:22](https://news.ycombinator.com/item?id=43013666) - [Disabling cert checks: we have not learned much](https://daniel.haxx.se/blog/2025/02/11/disabling-cert-checks-we-have-not-learned-much/)

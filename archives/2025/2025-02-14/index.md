@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-14](index.md)
 
+* [2025-02-14, 20:03:28](https://news.ycombinator.com/item?id=43052468) - [DOGE's 'Genius' Coders Launch Website So Full of Holes, Anyone Can Write to It](https://www.techdirt.com/2025/02/14/doges-genius-coders-launch-website-so-full-of-holes-anyone-can-write-to-it/)
 * [2025-02-14, 20:00:12](https://news.ycombinator.com/item?id=43052427) - [Ask HN: Is anybody building an alternative transformer?](https://news.ycombinator.com/item?id=43052427)
 * [2025-02-14, 19:46:33](https://news.ycombinator.com/item?id=43052262) - [Nearly a Year Later, Mozilla Is Still Promoting OneRep](https://krebsonsecurity.com/2025/02/nearly-a-year-later-mozilla-is-still-promoting-onerep/)
 * [2025-02-14, 19:16:59](https://news.ycombinator.com/item?id=43051964) - [Marsha P Johnson: A Chrome extension to highlight trans erasure](https://github.com/HamptonMakes/marsha-p-johnson)
