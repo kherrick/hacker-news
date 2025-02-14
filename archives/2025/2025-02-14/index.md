@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-02-14](index.md)
 
+* [2025-02-14, 07:08:53](https://news.ycombinator.com/item?id=43045698) - [Extensible WASM Applications with Go](https://go.dev/blog/wasmexport)
 * [2025-02-14, 07:00:41](https://news.ycombinator.com/item?id=43045656) - [Yhangry (YC W22) Is Hiring](https://news.ycombinator.com/item?id=43045656)
 * [2025-02-14, 06:40:11](https://news.ycombinator.com/item?id=43045558) - [The New York Stock Exchange to Launch NYSE Texas](https://ir.theice.com/press/news-details/2025/The-New-York-Stock-Exchange-to-Launch-NYSE-Texas/default.aspx)
+* [2025-02-14, 06:14:19](https://news.ycombinator.com/item?id=43045406) - [Does X cause Y? An in-depth evidence review](https://www.cold-takes.com/does-x-cause-y-an-in-depth-evidence-review/)
 * [2025-02-14, 05:34:11](https://news.ycombinator.com/item?id=43045201) - [Neovim tee.exe binary dependency exhibiting illegitimate / unauthorized behavior](https://github.com/neovim/neovim/issues/32431)
+* [2025-02-14, 05:27:19](https://news.ycombinator.com/item?id=43045151) - [Exposing concurrency bugs with a custom scheduler](https://lwn.net/Articles/1007689/)
 * [2025-02-14, 04:51:59](https://news.ycombinator.com/item?id=43044962) - [State Capture](https://en.wikipedia.org/wiki/State_capture)
 * [2025-02-14, 04:30:52](https://news.ycombinator.com/item?id=43044872) - [Germany says its warships were sabotaged](https://www.businessinsider.com/german-navy-says-warships-were-sabotaged-warns-of-russian-threat-2025-2)
 * [2025-02-14, 02:49:42](https://news.ycombinator.com/item?id=43044223) - [TikTok is back in the App Store](https://www.theverge.com/news/612768/tiktok-app-store-apple-google-us-ban)
