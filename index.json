@@ -1,22 +1,62 @@
 [
   [
     [
-      "2025-02-14, 20:47:47",
-      "https://news.ycombinator.com/item?id=43052905"
+      "2025-02-14, 21:50:50",
+      "https://news.ycombinator.com/item?id=43053466"
     ],
     [
-      "A Libertarian Island Dream in Honduras Is Now an $11B Nightmare",
-      "https://www.bloomberg.com/news/features/2025-02-13/a-honduras-dream-city-now-faces-11-billion-political-dispute"
+      "Codeberg appears to be under a DDoS attack",
+      "https://status.codeberg.eu/status/codeberg"
     ]
   ],
   [
     [
-      "2025-02-14, 19:58:56",
-      "https://news.ycombinator.com/item?id=43052409"
+      "2025-02-14, 21:45:49",
+      "https://news.ycombinator.com/item?id=43053419"
     ],
     [
-      "LinkedIn is the worst social media I've ever seen",
-      "https://news.ycombinator.com/item?id=43052409"
+      "The hardest working font in Manhattan",
+      "https://aresluna.org/the-hardest-working-font-in-manhattan/"
+    ]
+  ],
+  [
+    [
+      "2025-02-14, 21:42:03",
+      "https://news.ycombinator.com/item?id=43053385"
+    ],
+    [
+      "Mathics: A free, open-source alternative to Mathematica",
+      "https://mathics.org/"
+    ]
+  ],
+  [
+    [
+      "2025-02-14, 20:57:36",
+      "https://news.ycombinator.com/item?id=43052997"
+    ],
+    [
+      "Show HN: OpenSCAD configurable calendar 3D model",
+      "https://chrastecky.dev/3d-printing/open-scad-configurable-calendar-3d-model"
+    ]
+  ],
+  [
+    [
+      "2025-02-14, 20:12:52",
+      "https://news.ycombinator.com/item?id=43052584"
+    ],
+    [
+      "Type safe variadic printf",
+      "https://www.stranger.systems/posts/by-slug/type-safe-variadic-printf.html"
+    ]
+  ],
+  [
+    [
+      "2025-02-14, 20:00:12",
+      "https://news.ycombinator.com/item?id=43052427"
+    ],
+    [
+      "Ask HN: Is anybody building an alternative transformer?",
+      "https://news.ycombinator.com/item?id=43052427"
     ]
   ],
   [
@@ -27,16 +67,6 @@
     [
       "Diffusion Without Tears",
       "https://baincapitalventures.notion.site/Diffusion-Without-Tears-14e1469584c180deb0a9ed9aa6ff7a4c"
-    ]
-  ],
-  [
-    [
-      "2025-02-14, 19:16:59",
-      "https://news.ycombinator.com/item?id=43051964"
-    ],
-    [
-      "Marsha P Johnson: A Chrome extension to highlight trans erasure",
-      "https://github.com/HamptonMakes/marsha-p-johnson"
     ]
   ],
   [
@@ -105,7 +135,7 @@
       "https://news.ycombinator.com/item?id=43047792"
     ],
     [
-      "AI is stifling new tech adoption",
+      "AI is stifling new tech adoption?",
       "https://vale.rocks/posts/ai-is-stifling-tech-adoption"
     ]
   ],
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2025-02-14, 07:00:41",
-      "https://news.ycombinator.com/item?id=43045656"
-    ],
-    [
-      "Yhangry (YC W22) Is Hiring",
-      "https://news.ycombinator.com/item?id=43045656"
-    ]
-  ],
-  [
-    [
       "2025-02-14, 06:50:47",
       "https://news.ycombinator.com/item?id=43045606"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-02-13, 19:57:29",
-      "https://news.ycombinator.com/item?id=43040521"
-    ],
-    [
-      "Privacy Pass Authentication for Kagi Search",
-      "https://blog.kagi.com/kagi-privacy-pass"
-    ]
-  ],
-  [
-    [
       "2025-02-13, 04:34:09",
       "https://news.ycombinator.com/item?id=43032697"
     ],
@@ -221,22 +231,22 @@
   ],
   [
     [
-      "2025-02-12, 07:32:03",
-      "https://news.ycombinator.com/item?id=43022824"
-    ],
-    [
-      "Alt.Anonymous.Messages Newsgroup",
-      "http://wudewasa.blogspot.com/2017/05/altanonymousmessages-newsgroup.html"
-    ]
-  ],
-  [
-    [
       "2025-02-12, 02:16:10",
       "https://news.ycombinator.com/item?id=43021049"
     ],
     [
       "Advancements in Embedding-Based Retrieval at Pinterest Homefeed",
       "https://medium.com/pinterest-engineering/advancements-in-embedding-based-retrieval-at-pinterest-homefeed-d7d7971a409e"
+    ]
+  ],
+  [
+    [
+      "2025-02-11, 21:26:14",
+      "https://news.ycombinator.com/item?id=43018572"
+    ],
+    [
+      "Tumblr to join the Fediverse after WordPress migration completes",
+      "https://techcrunch.com/2025/02/11/tumblr-to-join-the-fediverse-after-wordpress-migration-completes/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "NAT Is the Enemy of Low Power Devices",
       "https://blog.golioth.io/nat-is-the-enemy-of-low-power-devices/"
-    ]
-  ],
-  [
-    [
-      "2025-02-10, 14:35:55",
-      "https://news.ycombinator.com/item?id=43000764"
-    ],
-    [
-      "Show HN: A unique generated maze to share with your valentine",
-      "https://love.berk.es/"
     ]
   ]
 ]
