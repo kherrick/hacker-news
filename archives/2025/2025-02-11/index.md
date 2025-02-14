@@ -69,6 +69,7 @@
 * [2025-02-11, 10:43:24](https://news.ycombinator.com/item?id=43011257) - [Altman: OpenAI not for sale, especially to competitor who is not able to beat us](https://www.axios.com/2025/02/11/openai-altman-musk-offer)
 * [2025-02-11, 09:42:42](https://news.ycombinator.com/item?id=43010814) - [Why Firing Programmers for AI Will Destroy Everything](https://defragzone.substack.com/p/techs-dumbest-mistake-why-firing)
 * [2025-02-11, 09:18:11](https://news.ycombinator.com/item?id=43010662) - [Sid Meier's Civilization VII](https://civilization.2k.com/civ-vii/buy/)
+* [2025-02-11, 09:00:15](https://news.ycombinator.com/item?id=43010566) - [I Blog with Raw Txt](https://misc.l3m.in/txt/raw_txt.txt)
 * [2025-02-11, 08:26:16](https://news.ycombinator.com/item?id=43010365) - [How about trailing commas in SQL?](http://peter.eisentraut.org/blog/2025/02/11/how-about-trailing-commas-in-sql)
 * [2025-02-11, 07:35:24](https://news.ycombinator.com/item?id=43010037) - [Working from home is here to stay](https://wolfstreet.com/2025/02/10/there-hasnt-been-much-if-any-reduction-in-wfh-in-over-2-years-despite-all-the-hype-about-rto/)
 * [2025-02-11, 07:21:21](https://news.ycombinator.com/item?id=43009952) - [A catalog of ways to generate SSA](https://bernsteinbear.com/blog/ssa/)
