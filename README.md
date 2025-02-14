@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-14, 17:48:01](https://news.ycombinator.com/item?id=43050952) - [Trump administration to fire thousands at health agencies](https://www.statnews.com/2025/02/14/federal-employee-layoffs-at-hhs-cdc-on-first-day-robert-kennedy-health-secretary/)
 * [2025-02-14, 16:52:45](https://news.ycombinator.com/item?id=43050350) - [Nearly half of Steam's users are still using Windows 10](https://www.pcguide.com/news/nearly-half-of-steams-users-are-still-using-windows-10-with-end-of-life-fast-approaching/)
 * [2025-02-14, 16:18:30](https://news.ycombinator.com/item?id=43049959) - [Detecting AI Agent Use and Abuse](https://stytch.com/blog/detecting-ai-agent-use-abuse/)
 * [2025-02-14, 16:06:47](https://news.ycombinator.com/item?id=43049817) - [Show HN: A Valentine's Day experience for people who aren't celebrating](https://www.justanotherday.lol/)
@@ -19,7 +20,6 @@
 * [2025-02-14, 01:34:05](https://news.ycombinator.com/item?id=43043671) - [OCR4all](https://www.ocr4all.org/)
 * [2025-02-14, 00:04:48](https://news.ycombinator.com/item?id=43043063) - [What if Eye...?](https://eyes.mit.edu/)
 * [2025-02-13, 21:49:16](https://news.ycombinator.com/item?id=43041827) - [Show HN: SQL Noir – Learn SQL by solving crimes](https://www.sqlnoir.com)
-* [2025-02-13, 19:57:29](https://news.ycombinator.com/item?id=43040521) - [Privacy Pass Authentication for Kagi Search](https://blog.kagi.com/kagi-privacy-pass)
 * [2025-02-13, 19:44:34](https://news.ycombinator.com/item?id=43040382) - [MapTCHA, the open-source CAPTCHA that improves OpenStreetMap [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-5879-maptcha-the-open-source-captcha-that-improves-openstreetmap/)
 * [2025-02-13, 18:20:29](https://news.ycombinator.com/item?id=43039308) - [Phind 2: AI search with visual answers and multi-step reasoning](https://www.phind.com/blog/phind-2)
 * [2025-02-12, 07:32:03](https://news.ycombinator.com/item?id=43022824) - [Alt.Anonymous.Messages Newsgroup](http://wudewasa.blogspot.com/2017/05/altanonymousmessages-newsgroup.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-14](index.md)
 
+* [2025-02-14, 17:48:01](https://news.ycombinator.com/item?id=43050952) - [Trump administration to fire thousands at health agencies](https://www.statnews.com/2025/02/14/federal-employee-layoffs-at-hhs-cdc-on-first-day-robert-kennedy-health-secretary/)
 * [2025-02-14, 17:16:06](https://news.ycombinator.com/item?id=43050579) - [DOGE Website Hacked](https://arstechnica.com/tech-policy/2025/02/doges-gov-site-lampooned-as-coders-quickly-realize-it-can-be-edited-by-anyone/)
 * [2025-02-14, 17:06:59](https://news.ycombinator.com/item?id=43050503) - [The Oligarchs Who Came to Regret Supporting Hitler](https://www.theatlantic.com/ideas/archive/2025/02/hitler-oligarchs-hugenberg-nazi/681584/)
 * [2025-02-14, 16:52:45](https://news.ycombinator.com/item?id=43050350) - [Nearly half of Steam's users are still using Windows 10](https://www.pcguide.com/news/nearly-half-of-steams-users-are-still-using-windows-10-with-end-of-life-fast-approaching/)
