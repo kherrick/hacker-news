@@ -31,12 +31,32 @@
   ],
   [
     [
+      "2025-02-14, 08:21:12",
+      "https://news.ycombinator.com/item?id=43046122"
+    ],
+    [
+      "Rust: Doubling Throughput with Continuous Profiling and Optimization",
+      "https://www.polarsignals.com/blog/posts/2025/02/11/doubling-throughput-with-continuous-profiling-and-optimization"
+    ]
+  ],
+  [
+    [
       "2025-02-14, 07:31:46",
       "https://news.ycombinator.com/item?id=43045835"
     ],
     [
       "Doge.gov site has been hacked",
       "https://www.404media.co/anyone-can-push-updates-to-the-doge-gov-website-2/"
+    ]
+  ],
+  [
+    [
+      "2025-02-14, 07:26:16",
+      "https://news.ycombinator.com/item?id=43045801"
+    ],
+    [
+      "Gemini beats everyone on new OCR benchmark",
+      "https://arxiv.org/abs/2502.06445"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-02-13, 22:19:08",
-      "https://news.ycombinator.com/item?id=43042157"
-    ],
-    [
-      "Open Source Software and Corporate Influence",
-      "https://www.alilleybrinker.com/blog/open-source-software-and-corporate-influence/"
-    ]
-  ],
-  [
-    [
       "2025-02-13, 21:49:16",
       "https://news.ycombinator.com/item?id=43041827"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2025-02-13, 16:59:43",
-      "https://news.ycombinator.com/item?id=43038200"
-    ],
-    [
-      "LibreOffice still kicking at 40, now with browser tricks and real-time collab",
-      "https://www.theregister.com/2025/02/13/libreoffice_wasm_zetaoffice/"
-    ]
-  ],
-  [
-    [
       "2025-02-13, 14:53:21",
       "https://news.ycombinator.com/item?id=43036428"
     ],
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2025-02-11, 04:54:24",
-      "https://news.ycombinator.com/item?id=43009117"
-    ],
-    [
-      "Feature Flags vs. Configuration Options – Same Difference?",
-      "https://www.cs.cmu.edu/~ckaestne/featureflags/"
-    ]
-  ],
-  [
-    [
       "2025-02-10, 19:12:36",
       "https://news.ycombinator.com/item?id=43003999"
     ],
@@ -257,6 +247,16 @@
     [
       "Show HN: I made a tiny book using a pen-plotter and AI",
       "https://muffinman.io/blog/the-tiny-book-of-great-joys/"
+    ]
+  ],
+  [
+    [
+      "2025-02-10, 14:35:55",
+      "https://news.ycombinator.com/item?id=43000764"
+    ],
+    [
+      "Show HN: A unique generated maze to share with your valentine",
+      "https://love.berk.es/"
     ]
   ],
   [
