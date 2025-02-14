@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-14, 20:48:07](https://news.ycombinator.com/item?id=43052910) - [CDC cuts expected to decimate Epidemic Intelligence Service](https://www.statnews.com/2025/02/14/trump-cdc-cuts-include-epidemic-intelligence-service-outbreak-investigators/)
 * [2025-02-14, 20:44:05](https://news.ycombinator.com/item?id=43052880) - [National Park Service erases some words from Stonewall National Monument site](https://apnews.com/article/stonewall-transgender-trump-3add180f5cfcde156f8d809d24e830a6)
 * [2025-02-14, 20:00:12](https://news.ycombinator.com/item?id=43052427) - [Ask HN: Is anybody building an alternative transformer?](https://news.ycombinator.com/item?id=43052427)
+* [2025-02-14, 19:58:56](https://news.ycombinator.com/item?id=43052409) - [LinkedIn is the worst social media I've ever seen](https://news.ycombinator.com/item?id=43052409)
 * [2025-02-14, 19:30:06](https://news.ycombinator.com/item?id=43052107) - [Diffusion Without Tears](https://baincapitalventures.notion.site/Diffusion-Without-Tears-14e1469584c180deb0a9ed9aa6ff7a4c)
 * [2025-02-14, 19:16:59](https://news.ycombinator.com/item?id=43051964) - [Marsha P Johnson: A Chrome extension to highlight trans erasure](https://github.com/HamptonMakes/marsha-p-johnson)
 * [2025-02-14, 19:02:37](https://news.ycombinator.com/item?id=43051802) - [Kevin Mitnik FOIA Final](https://vault.fbi.gov/kevin-mitnick/kevin-mitnick-part-01-final/view)
