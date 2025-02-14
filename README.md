@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-14, 13:23:23](https://news.ycombinator.com/item?id=43048027) - [Show HN: Transform Your Codebase into a Single Markdown Doc for Feeding into AI](https://tesserato.web.app/posts/2025-02-12-CodeWeaver-launch/index.html)
+* [2025-02-14, 13:03:02](https://news.ycombinator.com/item?id=43047892) - [Watch me turn $25K and Python into either a hedge fund origin story or](https://pythonfintech.com)
 * [2025-02-14, 12:45:05](https://news.ycombinator.com/item?id=43047792) - [AI Is Stifling Tech Adoption](https://vale.rocks/posts/ai-is-stifling-tech-adoption)
 * [2025-02-14, 08:34:31](https://news.ycombinator.com/item?id=43046192) - [Ricochet: Peer-to-peer instant messaging system built on Tor hidden services](https://github.com/ricochet-im/ricochet)
 * [2025-02-14, 08:30:27](https://news.ycombinator.com/item?id=43046174) - [Linux kernel cgroups writeback high CPU troubleshooting](https://dasl.cc/2025/01/01/debugging-our-new-linux-kernel/)
@@ -24,7 +25,6 @@
 * [2025-02-12, 07:32:03](https://news.ycombinator.com/item?id=43022824) - [Alt.Anonymous.Messages Newsgroup](http://wudewasa.blogspot.com/2017/05/altanonymousmessages-newsgroup.html)
 * [2025-02-11, 12:26:11](https://news.ycombinator.com/item?id=43012000) - [Solving the ABA Problem in Rust with Tagged Pointers](https://minikin.me/blog/solving-the-aba-problem-in-rust-tagged-pointers)
 * [2025-02-11, 00:47:17](https://news.ycombinator.com/item?id=43007453) - [Do Lake Names Reflect Their Properties?](https://ivanludvig.dev/tech/lake-colors)
-* [2025-02-10, 23:21:49](https://news.ycombinator.com/item?id=43006584) - [Pied Beauty: Wari Tie-Dye Textiles (Ca. 425–1100)](https://publicdomainreview.org/collection/wari-tie-dye/)
 * [2025-02-10, 17:52:31](https://news.ycombinator.com/item?id=43003052) - [Show HN: I made a tiny book using a pen-plotter and AI](https://muffinman.io/blog/the-tiny-book-of-great-joys/)
 * [2025-02-10, 14:35:55](https://news.ycombinator.com/item?id=43000764) - [Show HN: A unique generated maze to share with your valentine](https://love.berk.es/)
 * [2025-02-10, 12:22:26](https://news.ycombinator.com/item?id=42999454) - [I built an AI company to save my open source project](https://timefold.ai/blog/how-i-built-an-ai-company-to-save-my-open-source-project)
