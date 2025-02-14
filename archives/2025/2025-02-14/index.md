@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-14](index.md)
 
+* [2025-02-14, 09:16:54](https://news.ycombinator.com/item?id=43046466) - [\"Homotopical macrocosms for higher category theory\" identified as woke DEI grant](https://mathstodon.xyz/@johncarlosbaez/114000054766059217)
 * [2025-02-14, 08:37:20](https://news.ycombinator.com/item?id=43046205) - [Anthropic's next major AI model could arrive within weeks](https://techcrunch.com/2025/02/13/anthropics-next-major-ai-model-could-arrive-within-weeks/)
 * [2025-02-14, 08:30:27](https://news.ycombinator.com/item?id=43046174) - [Linux kernel cgroups writeback high CPU troubleshooting](https://dasl.cc/2025/01/01/debugging-our-new-linux-kernel/)
 * [2025-02-14, 08:29:23](https://news.ycombinator.com/item?id=43046170) - [Evaluating RAG for large scale codebases](https://www.qodo.ai/blog/evaluating-rag-for-large-scale-codebases/)
