@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-14](index.md)
 
+* [2025-02-14, 18:01:51](https://news.ycombinator.com/item?id=43051135) - [DOGE Exposes Once-Secret Government Networks, Making Cyber-Espionage Easier Than](https://cyberintel.substack.com/p/doge-exposes-once-secret-government)
 * [2025-02-14, 17:48:01](https://news.ycombinator.com/item?id=43050952) - [Trump administration to fire thousands at health agencies](https://www.statnews.com/2025/02/14/federal-employee-layoffs-at-hhs-cdc-on-first-day-robert-kennedy-health-secretary/)
 * [2025-02-14, 17:16:06](https://news.ycombinator.com/item?id=43050579) - [DOGE Website Hacked](https://arstechnica.com/tech-policy/2025/02/doges-gov-site-lampooned-as-coders-quickly-realize-it-can-be-edited-by-anyone/)
 * [2025-02-14, 17:06:59](https://news.ycombinator.com/item?id=43050503) - [The Oligarchs Who Came to Regret Supporting Hitler](https://www.theatlantic.com/ideas/archive/2025/02/hitler-oligarchs-hugenberg-nazi/681584/)
