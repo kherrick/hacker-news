@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-14](index.md)
 
+* [2025-02-14, 04:51:59](https://news.ycombinator.com/item?id=43044962) - [State Capture](https://en.wikipedia.org/wiki/State_capture)
 * [2025-02-14, 04:30:52](https://news.ycombinator.com/item?id=43044872) - [Germany says its warships were sabotaged](https://www.businessinsider.com/german-navy-says-warships-were-sabotaged-warns-of-russian-threat-2025-2)
 * [2025-02-14, 02:49:42](https://news.ycombinator.com/item?id=43044223) - [TikTok is back in the App Store](https://www.theverge.com/news/612768/tiktok-app-store-apple-google-us-ban)
 * [2025-02-14, 02:03:54](https://news.ycombinator.com/item?id=43043908) - [UK drops 'safety' from its AI body, now called AI Security Institute](https://techcrunch.com/2025/02/13/uk-drops-safety-from-its-ai-body-now-called-ai-security-institute-inks-mou-with-anthropic/)
