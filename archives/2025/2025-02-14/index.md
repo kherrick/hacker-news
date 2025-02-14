@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-14](index.md)
 
+* [2025-02-14, 15:44:10](https://news.ycombinator.com/item?id=43049525) - [Bitly injecting ads into shortened links](https://social.jvns.ca/@b0rk/114002651694606295)
 * [2025-02-14, 15:18:28](https://news.ycombinator.com/item?id=43049191) - [The Loneliness Epidemic Is a Security Crisis](https://www.wired.com/story/loneliness-epidemic-romance-scams-security-crisis/)
 * [2025-02-14, 15:16:56](https://news.ycombinator.com/item?id=43049174) - [DA, sheriff, who shared woman's nude photos on phone are covered by QI](https://www.oregonlive.com/crime/2025/02/an-oregon-womans-nude-cellphone-photos-ended-up-the-talk-of-town-she-tracked-it-back-to-the-da.html)
 * [2025-02-14, 15:14:50](https://news.ycombinator.com/item?id=43049152) - [ICE Wants to Know If You're Posting Negative Things About It Online](https://theintercept.com/2025/02/11/ice-immigration-social-media-surveillance/)

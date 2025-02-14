@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-14, 15:44:10](https://news.ycombinator.com/item?id=43049525) - [Bitly injecting ads into shortened links](https://social.jvns.ca/@b0rk/114002651694606295)
 * [2025-02-14, 15:18:28](https://news.ycombinator.com/item?id=43049191) - [The Loneliness Epidemic Is a Security Crisis](https://www.wired.com/story/loneliness-epidemic-romance-scams-security-crisis/)
 * [2025-02-14, 15:16:56](https://news.ycombinator.com/item?id=43049174) - [DA, sheriff, who shared woman's nude photos on phone are covered by QI](https://www.oregonlive.com/crime/2025/02/an-oregon-womans-nude-cellphone-photos-ended-up-the-talk-of-town-she-tracked-it-back-to-the-da.html)
 * [2025-02-14, 15:14:50](https://news.ycombinator.com/item?id=43049152) - [ICE Wants to Know If You're Posting Negative Things About It Online](https://theintercept.com/2025/02/11/ice-immigration-social-media-surveillance/)
-* [2025-02-14, 14:42:59](https://news.ycombinator.com/item?id=43048816) - [Zuckerberg's rightward policy shift puts Meta staffers on edge, targets Apple](https://www.cnbc.com/2025/02/14/zuckerbergs-rightward-policy-shift-hits-meta-staffers-targets-apple.html)
 * [2025-02-14, 13:53:49](https://news.ycombinator.com/item?id=43048261) - [The History of S.U.S..E](https://www.abortretry.fail/p/the-history-of-suse)
 * [2025-02-14, 13:23:23](https://news.ycombinator.com/item?id=43048027) - [Show HN: Transform Your Codebase into a Single Markdown Doc for Feeding into AI](https://tesserato.web.app/posts/2025-02-12-CodeWeaver-launch/index.html)
 * [2025-02-14, 13:12:22](https://news.ycombinator.com/item?id=43047952) - [Watchdog ponders why Apple doesn't apply its strict app tracking rules to itself](https://www.theregister.com/2025/02/14/apple_app_tracking_probe/)
