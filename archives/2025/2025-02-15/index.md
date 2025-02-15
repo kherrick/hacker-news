@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-15](index.md)
 
+* [2025-02-15, 08:45:40](https://news.ycombinator.com/item?id=43056993) - [Are DOGE's Claims of Social Security Payments to 150-Year-Olds Way Off Base?](https://slashdot.org/submission/17333271/are-doges-claims-of-social-security-payments-to-150-year-olds-way-off-base)
 * [2025-02-15, 08:15:59](https://news.ycombinator.com/item?id=43056831) - [If you believe in \"Artificial Intelligence\", take five minutes to ask it](https://svpow.com/2025/02/14/if-you-believe-in-artificial-intelligence-take-five-minutes-to-ask-it-about-stuff-you-know-well/)
 * [2025-02-15, 07:50:09](https://news.ycombinator.com/item?id=43056704) - [A 'death cult' on the run: The Bay Area fringe group terrorizing America](https://www.sfgate.com/bayarea/article/new-details-bay-area-zizians-death-cult-20165754.php)
 * [2025-02-15, 07:05:51](https://news.ycombinator.com/item?id=43056526) - [Bookshop.org launches Kindle alternative, sends e-book sales to local bookstores](https://www.usatoday.com/story/entertainment/books/2025/01/28/bookshop-org-ereader-ebook-app/77928209007/)
