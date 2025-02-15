@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-02-15](index.md)
 
+* [2025-02-15, 06:59:23](https://news.ycombinator.com/item?id=43056495) - [Ask HN: What country would you like to relocate to and why?](https://news.ycombinator.com/item?id=43056495)
+* [2025-02-15, 06:04:12](https://news.ycombinator.com/item?id=43056286) - [Court rulings referenced in condo dispute were AI generated, 'do not exist,'](https://www.ctvnews.ca/vancouver/article/court-rulings-referenced-in-bc-condo-dispute-were-ai-generated-do-not-exist-tribunal-finds/)
 * [2025-02-15, 05:51:24](https://news.ycombinator.com/item?id=43056242) - [Why I quit: kernel developer Con Kolivas (2007)](https://web.archive.org/web/20110807150951/http://apcmag.com/why_i_quit_kernel_developer_con_kolivas.htm)
 * [2025-02-15, 04:02:44](https://news.ycombinator.com/item?id=43055809) - [\"the Zooms don't show up\" Jamie Dimon](https://www.mediaite.com/tv/leaked-audio-reveals-jp-morgan-ceo-going-off-on-young-staffers-wanting-to-work-from-home/)
 * [2025-02-15, 04:01:11](https://news.ycombinator.com/item?id=43055797) - [PHP 8.4.4 Released](https://www.php.net/releases/8_4_4.php)
+* [2025-02-15, 03:55:46](https://news.ycombinator.com/item?id=43055772) - [Sunsetting Create React App](https://react.dev/blog/2025/02/14/sunsetting-create-react-app)
 * [2025-02-15, 03:31:56](https://news.ycombinator.com/item?id=43055671) - [The 20 year old PSP can now connect to WPA2 WiFi Networks](https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/)
 * [2025-02-15, 03:30:25](https://news.ycombinator.com/item?id=43055660) - [Tuvalu – The First Digital Nation](https://www.tuvalu.tv/)
 * [2025-02-15, 02:43:31](https://news.ycombinator.com/item?id=43055393) - [Gary Marcus discusses AI's technical problems](https://cacm.acm.org/opinion/not-on-the-best-path/)
