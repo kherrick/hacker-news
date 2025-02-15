@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-15, 15:06:30](https://news.ycombinator.com/item?id=43058997) - [Carbon capture more costly than switching to renewables, researchers find](https://techxplore.com/news/2025-02-carbon-capture-renewables.html)
+* [2025-02-15, 15:06:15](https://news.ycombinator.com/item?id=43058993) - [Dust from Car Brakes More Harmful Than Exhaust, Study Finds](https://e360.yale.edu/digest/brake-pads-lung-damage-study)
 * [2025-02-15, 14:52:13](https://news.ycombinator.com/item?id=43058896) - [The Unicorn Boom Is Over, and Startups Are Getting Desperate](https://www.bloomberg.com/news/articles/2025-02-14/silicon-valley-unicorn-startups-are-desperate-for-cash)
 * [2025-02-15, 14:51:49](https://news.ycombinator.com/item?id=43058889) - [Amazon's killing a feature that let you download and backup Kindle books](https://www.theverge.com/news/612898/amazon-removing-kindle-book-download-transfer-usb)
-* [2025-02-15, 14:50:55](https://news.ycombinator.com/item?id=43058886) - [Increasing rat numbers in cities are linked to climate warming, urbanization](https://www.science.org/doi/10.1126/sciadv.ads6782)
 * [2025-02-15, 14:00:00](https://news.ycombinator.com/item?id=43058522) - [Diablo hackers uncovered a speedrun scandal](https://arstechnica.com/gaming/2025/02/the-diablo-hackers-that-debunked-a-record-speedrun/)
 * [2025-02-15, 13:02:46](https://news.ycombinator.com/item?id=43058198) - [What situations in classical physics are non-deterministic?](https://physics.stackexchange.com/questions/403574/what-situations-in-classical-physics-are-non-deterministic)
-* [2025-02-15, 12:06:01](https://news.ycombinator.com/item?id=43057907) - [The Impact of Generative AI on Critical Thinking [pdf]](https://www.microsoft.com/en-us/research/uploads/prod/2025/01/lee_2025_ai_critical_thinking_survey.pdf)
 * [2025-02-15, 10:07:23](https://news.ycombinator.com/item?id=43057375) - [Show HN: Kreuzberg – Modern async Python library for document text extraction](https://github.com/Goldziher/kreuzberg)
 * [2025-02-15, 09:59:20](https://news.ycombinator.com/item?id=43057344) - [Jane Street's Figgie card game](https://www.figgie.com/)
 * [2025-02-15, 07:05:51](https://news.ycombinator.com/item?id=43056526) - [Bookshop.org launches Kindle alternative, sends e-book sales to local bookstores](https://www.usatoday.com/story/entertainment/books/2025/01/28/bookshop-org-ereader-ebook-app/77928209007/)
