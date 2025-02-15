@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-02-15](index.md)
 
+* [2025-02-15, 22:48:56](https://news.ycombinator.com/item?id=43063239) - [Create a QubesOS Gaming HVM with GPU PCI passthrough (2023)](https://forum.qubes-os.org/t/create-a-gaming-hvm/19000)
 * [2025-02-15, 22:39:19](https://news.ycombinator.com/item?id=43063167) - [Jellyfin: The Free Software Media System](https://jellyfin.org/)
 * [2025-02-15, 21:32:13](https://news.ycombinator.com/item?id=43062546) - [Watt The Fox?](https://h.43z.one/blog/2025-02-12/)
 * [2025-02-15, 21:20:34](https://news.ycombinator.com/item?id=43062457) - [The European Vat Is Not a Discriminatory Tax Against US Exports](https://taxfoundation.org/blog/trump-reciprocal-tariffs-eu-vat-discriminatory/)
 * [2025-02-15, 20:38:35](https://news.ycombinator.com/item?id=43062098) - [Is the ArXiv safe from the current US Government attacks?](https://mathstodon.xyz/@MartinEscardo/114009071233958003)
 * [2025-02-15, 20:24:13](https://news.ycombinator.com/item?id=43061977) - [NASA has a list of 10 rules for software development](https://www.cs.otago.ac.nz/cosc345/resources/nasa-10-rules.htm)
+* [2025-02-15, 20:07:39](https://news.ycombinator.com/item?id=43061827) - [Perplexity Deep Research](https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research)
 * [2025-02-15, 19:44:57](https://news.ycombinator.com/item?id=43061608) - [To avoid being replaced by LLMs, do what they can't](https://www.seangoedecke.com/what-llms-cant-do/)
 * [2025-02-15, 19:39:38](https://news.ycombinator.com/item?id=43061554) - [Leave Billionaires Alone](https://m-onz.net/leave-billionaires-alone)
 * [2025-02-15, 19:34:29](https://news.ycombinator.com/item?id=43061498) - [My Life in Weeks](https://weeks.ginatrapani.org/)
