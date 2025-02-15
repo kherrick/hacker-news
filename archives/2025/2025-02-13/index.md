@@ -48,6 +48,7 @@
 * [2025-02-13, 14:47:43](https://news.ycombinator.com/item?id=43036356) - [Federal workers say they increasingly distrust platforms like Facebook](https://www.theverge.com/news/610951/federal-workers-privacy-surveillance-signal-facebook-messenger)
 * [2025-02-13, 14:16:20](https://news.ycombinator.com/item?id=43036042) - [DOGE Staffer Is Trying to Reroute FEMA Funds](https://www.dropsitenews.com/p/doge-fema-funding-access-social-security-numbers)
 * [2025-02-13, 14:10:04](https://news.ycombinator.com/item?id=43035977) - [DOGE as a National Cyberattack](https://www.schneier.com/blog/archives/2025/02/doge-as-a-national.html)
+* [2025-02-13, 13:47:25](https://news.ycombinator.com/item?id=43035760) - [Sri Lanka scrambles to restore power after monkey causes islandwide outage](https://www.reuters.com/world/asia-pacific/sri-lanka-scrambles-restore-power-after-monkey-causes-islandwide-outage-2025-02-13/)
 * [2025-02-13, 12:20:16](https://news.ycombinator.com/item?id=43035155) - [Tennis great Steffi Graf got bitten by pickleball's 'fun factor'](https://www.cnn.com/2025/02/13/sport/steffi-graf-pickleball-slam-3-tennis-spt-intl/index.html)
 * [2025-02-13, 12:19:08](https://news.ycombinator.com/item?id=43035147) - [Cheap blood test detects pancreatic cancer before it spreads](https://www.nature.com/articles/d41586-025-00438-z)
 * [2025-02-13, 12:17:09](https://news.ycombinator.com/item?id=43035138) - [Elizabeth Holmes' PR campaign continues](https://www.theverge.com/news/611549/elizabeth-holmes-people-jailhouse-interview)

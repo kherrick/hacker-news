@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-15](index.md)
 
+* [2025-02-15, 22:39:19](https://news.ycombinator.com/item?id=43063167) - [Jellyfin: The Free Software Media System](https://jellyfin.org/)
 * [2025-02-15, 21:32:13](https://news.ycombinator.com/item?id=43062546) - [Watt The Fox?](https://h.43z.one/blog/2025-02-12/)
 * [2025-02-15, 21:20:34](https://news.ycombinator.com/item?id=43062457) - [The European Vat Is Not a Discriminatory Tax Against US Exports](https://taxfoundation.org/blog/trump-reciprocal-tariffs-eu-vat-discriminatory/)
 * [2025-02-15, 20:38:35](https://news.ycombinator.com/item?id=43062098) - [Is the ArXiv safe from the current US Government attacks?](https://mathstodon.xyz/@MartinEscardo/114009071233958003)

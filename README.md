@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-15, 22:39:19](https://news.ycombinator.com/item?id=43063167) - [Jellyfin: The Free Software Media System](https://jellyfin.org/)
 * [2025-02-15, 21:32:13](https://news.ycombinator.com/item?id=43062546) - [Watt The Fox?](https://h.43z.one/blog/2025-02-12/)
 * [2025-02-15, 21:20:34](https://news.ycombinator.com/item?id=43062457) - [The European Vat Is Not a Discriminatory Tax Against US Exports](https://taxfoundation.org/blog/trump-reciprocal-tariffs-eu-vat-discriminatory/)
 * [2025-02-15, 20:24:13](https://news.ycombinator.com/item?id=43061977) - [NASA has a list of 10 rules for software development](https://www.cs.otago.ac.nz/cosc345/resources/nasa-10-rules.htm)
@@ -25,11 +26,10 @@
 * [2025-02-14, 22:36:31](https://news.ycombinator.com/item?id=43053844) - [We were wrong about GPUs](https://fly.io/blog/wrong-about-gpu/)
 * [2025-02-14, 21:45:49](https://news.ycombinator.com/item?id=43053419) - [The hardest working font in Manhattan](https://aresluna.org/the-hardest-working-font-in-manhattan/)
 * [2025-02-14, 18:01:04](https://news.ycombinator.com/item?id=43051123) - [Edgware 1924: The Making of a Suburb](https://www.modernism-in-metroland.co.uk/blog/edgware-1924-the-making-of-a-suburb)
+* [2025-02-13, 13:47:25](https://news.ycombinator.com/item?id=43035760) - [Sri Lanka scrambles to restore power after monkey causes islandwide outage](https://www.reuters.com/world/asia-pacific/sri-lanka-scrambles-restore-power-after-monkey-causes-islandwide-outage-2025-02-13/)
 * [2025-02-12, 09:54:14](https://news.ycombinator.com/item?id=43023698) - [Show HN: Letting LLMs Run a Debugger](https://github.com/mohsen1/llm-debugger-vscode-extension)
 * [2025-02-12, 09:28:08](https://news.ycombinator.com/item?id=43023527) - [It's a knowledge problem Or is it?](https://josvisser.substack.com/p/its-a-knowledge-problem-or-is-it)
-* [2025-02-12, 02:15:17](https://news.ycombinator.com/item?id=43021044) - [TL;DW: Too Long; Didn't Watch Distill YouTube Videos to the Relevant Information](https://tldw.tube/)
 * [2025-02-12, 00:00:28](https://news.ycombinator.com/item?id=43019975) - [Surprise Magma Chamber Growing Under Mediterranean Volcano (2023)](https://news.agu.org/press-release/surprise-magma-chamber-growing-under-mediterranean-volcano/)
-* [2025-02-11, 22:02:13](https://news.ycombinator.com/item?id=43018928) - [Sharing a ChatGPT Account with My Wife](https://startupbaniya.com/sharing-chatgpt-account)
 
 ## [Archives](archives/index.md)
 
