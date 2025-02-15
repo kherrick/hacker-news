@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-15](index.md)
 
 * [2025-02-15, 13:30:45](https://news.ycombinator.com/item?id=43058346) - [Gazeta Wyborcza, Poland's largest newspaper quits X, now on Bluesky](https://bsky.app/profile/blueskywins.bsky.social/post/3li7rxl3o2c2t)
+* [2025-02-15, 13:24:12](https://news.ycombinator.com/item?id=43058311) - [Twelve months at 1.5 °C signals earlier than expected breach of Paris Agreement](https://www.nature.com/articles/s41558-025-02247-8)
 * [2025-02-15, 12:19:48](https://news.ycombinator.com/item?id=43057968) - [Can We Trust AI Benchmarks? A Review of Current Issues in AI Evaluation](https://arxiv.org/abs/2502.06559)
 * [2025-02-15, 12:11:06](https://news.ycombinator.com/item?id=43057930) - [Karol Herbst Steps Down as Nouveau Maintainer Due to Linux's Toxic Environment](https://www.phoronix.com/news/Karol-Herbst-Nouveau-No)
 * [2025-02-15, 12:06:01](https://news.ycombinator.com/item?id=43057907) - [Microsoft Study Finds Relying on AI Kills Your Critical Thinking Skills](https://gizmodo.com/microsoft-study-finds-relying-on-ai-kills-your-critical-thinking-skills-2000561788)
