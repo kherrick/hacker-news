@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-15](index.md)
 
+* [2025-02-15, 15:33:18](https://news.ycombinator.com/item?id=43059200) - [Argentinian president backs away from LIBRA memecoin after 90% crash](https://www.dlnews.com/articles/markets/milei-backs-away-from-libra-memecoin-after-90-crash-not-aware-of-the-details/)
 * [2025-02-15, 15:06:30](https://news.ycombinator.com/item?id=43058997) - [Carbon capture more costly than switching to renewables, researchers find](https://techxplore.com/news/2025-02-carbon-capture-renewables.html)
 * [2025-02-15, 15:06:15](https://news.ycombinator.com/item?id=43058993) - [Dust from Car Brakes More Harmful Than Exhaust, Study Finds](https://e360.yale.edu/digest/brake-pads-lung-damage-study)
 * [2025-02-15, 14:52:13](https://news.ycombinator.com/item?id=43058896) - [The Unicorn Boom Is Over, and Startups Are Getting Desperate](https://www.bloomberg.com/news/articles/2025-02-14/silicon-valley-unicorn-startups-are-desperate-for-cash)
