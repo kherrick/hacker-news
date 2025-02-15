@@ -18,7 +18,6 @@
 * [2025-02-15, 15:06:30](https://news.ycombinator.com/item?id=43058997) - [Carbon capture more costly than switching to renewables, researchers find](https://techxplore.com/news/2025-02-carbon-capture-renewables.html)
 * [2025-02-15, 15:06:15](https://news.ycombinator.com/item?id=43058993) - [Dust from car brakes more harmful than exhaust, study finds](https://e360.yale.edu/digest/brake-pads-lung-damage-study)
 * [2025-02-15, 14:00:00](https://news.ycombinator.com/item?id=43058522) - [Diablo hackers uncovered a speedrun scandal](https://arstechnica.com/gaming/2025/02/the-diablo-hackers-that-debunked-a-record-speedrun/)
-* [2025-02-15, 13:22:09](https://news.ycombinator.com/item?id=43058299) - [Show HN: Synergetica – A Modern, End-to-End Genetic Circuit Design Desktop App](https://github.com/khokao/synergetica)
 * [2025-02-15, 10:07:23](https://news.ycombinator.com/item?id=43057375) - [Show HN: Kreuzberg – Modern async Python library for document text extraction](https://github.com/Goldziher/kreuzberg)
 * [2025-02-15, 09:59:20](https://news.ycombinator.com/item?id=43057344) - [Jane Street's Figgie card game](https://www.figgie.com/)
 * [2025-02-15, 03:31:56](https://news.ycombinator.com/item?id=43055671) - [The 20 year old PSP can now connect to WPA2 WiFi Networks](https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/)
@@ -28,6 +27,7 @@
 * [2025-02-14, 18:01:04](https://news.ycombinator.com/item?id=43051123) - [Edgware 1924: The Making of a Suburb](https://www.modernism-in-metroland.co.uk/blog/edgware-1924-the-making-of-a-suburb)
 * [2025-02-12, 09:54:14](https://news.ycombinator.com/item?id=43023698) - [Show HN: Letting LLMs Run a Debugger](https://github.com/mohsen1/llm-debugger-vscode-extension)
 * [2025-02-12, 09:28:08](https://news.ycombinator.com/item?id=43023527) - [It's a knowledge problem Or is it?](https://josvisser.substack.com/p/its-a-knowledge-problem-or-is-it)
+* [2025-02-12, 02:15:17](https://news.ycombinator.com/item?id=43021044) - [TL;DW: Too Long; Didn't Watch Distill YouTube Videos to the Relevant Information](https://tldw.tube/)
 * [2025-02-12, 00:00:28](https://news.ycombinator.com/item?id=43019975) - [Surprise Magma Chamber Growing Under Mediterranean Volcano (2023)](https://news.agu.org/press-release/surprise-magma-chamber-growing-under-mediterranean-volcano/)
 * [2025-02-11, 22:02:13](https://news.ycombinator.com/item?id=43018928) - [Sharing a ChatGPT Account with My Wife](https://startupbaniya.com/sharing-chatgpt-account)
 
