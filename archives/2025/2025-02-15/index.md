@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-02-15](index.md)
 
+* [2025-02-15, 05:51:24](https://news.ycombinator.com/item?id=43056242) - [Why I quit: kernel developer Con Kolivas (2007)](https://web.archive.org/web/20110807150951/http://apcmag.com/why_i_quit_kernel_developer_con_kolivas.htm)
 * [2025-02-15, 04:02:44](https://news.ycombinator.com/item?id=43055809) - [\"the Zooms don't show up\" Jamie Dimon](https://www.mediaite.com/tv/leaked-audio-reveals-jp-morgan-ceo-going-off-on-young-staffers-wanting-to-work-from-home/)
 * [2025-02-15, 04:01:11](https://news.ycombinator.com/item?id=43055797) - [PHP 8.4.4 Released](https://www.php.net/releases/8_4_4.php)
 * [2025-02-15, 03:31:56](https://news.ycombinator.com/item?id=43055671) - [The 20 year old PSP can now connect to WPA2 WiFi Networks](https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/)
 * [2025-02-15, 03:30:25](https://news.ycombinator.com/item?id=43055660) - [Tuvalu – The First Digital Nation](https://www.tuvalu.tv/)
+* [2025-02-15, 02:43:31](https://news.ycombinator.com/item?id=43055393) - [Gary Marcus discusses AI's technical problems](https://cacm.acm.org/opinion/not-on-the-best-path/)
 * [2025-02-15, 02:36:22](https://news.ycombinator.com/item?id=43055340) - [Why We're Falling Out of Love with Tesla](https://worldcrunch.com/business-finance/tesla-sales-musk)
 * [2025-02-15, 01:49:34](https://news.ycombinator.com/item?id=43055068) - [In a showdown of psychotherapists vs. ChatGPT, the latter wins, new study finds](https://fortune.com/well/2025/02/13/in-a-showdown-of-psychotherapists-vs-chatgpt-the-latter-wins-new-study-finds/)
 * [2025-02-15, 01:32:05](https://news.ycombinator.com/item?id=43054963) - [Q2DOS – Quake 2 backported to MS-DOS](https://dk.toastednet.org/Q2DOS/)

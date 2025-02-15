@@ -51,6 +51,7 @@
 * [2025-02-11, 16:24:30](https://news.ycombinator.com/item?id=43014716) - [The Curious Similarity Between LLMs and Quantum Mechanics](https://robleclerc.substack.com/p/the-curious-similarity-between-llms)
 * [2025-02-11, 16:14:03](https://news.ycombinator.com/item?id=43014573) - [Time to Act on the Risk of Efficient Personalized Text Generation](https://arxiv.org/abs/2502.06560)
 * [2025-02-11, 16:11:47](https://news.ycombinator.com/item?id=43014542) - [EU's AltStore Gets First Native iOS Pornography App](https://www.macrumors.com/2025/02/03/eu-altstore-porn-app/)
+* [2025-02-11, 16:06:45](https://news.ycombinator.com/item?id=43014481) - [Recurring checklists using Org Mode in Emacs](https://www.naiquev.in/recurring-checklists-using-org-mode-in-emacs.html)
 * [2025-02-11, 16:01:19](https://news.ycombinator.com/item?id=43014418) - [E Ink's color ePaper tech gets supersized for outdoor displays](https://newatlas.com/technology/e-ink-kaleido-outdoor-3-75-inch-displays/)
 * [2025-02-11, 16:00:59](https://news.ycombinator.com/item?id=43014408) - [Intel's Battlemage Architecture](https://chipsandcheese.com/p/intels-battlemage-architecture)
 * [2025-02-11, 15:56:04](https://news.ycombinator.com/item?id=43014321) - [Proton Wallet is now available for all](https://primal.net/e/note1fus8glne8684xtn3n8lt2wjztsjss6k4jmc56ttl573ngxczerlqp84g9m)
