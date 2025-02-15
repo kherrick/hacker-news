@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-15, 04:02:44](https://news.ycombinator.com/item?id=43055809) - [\"the Zooms don't show up\" Jamie Dimon](https://www.mediaite.com/tv/leaked-audio-reveals-jp-morgan-ceo-going-off-on-young-staffers-wanting-to-work-from-home/)
 * [2025-02-15, 04:01:11](https://news.ycombinator.com/item?id=43055797) - [PHP 8.4.4 Released](https://www.php.net/releases/8_4_4.php)
 * [2025-02-15, 03:31:56](https://news.ycombinator.com/item?id=43055671) - [The 20 year old PSP can now connect to WPA2 WiFi Networks](https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/)
 * [2025-02-15, 01:32:05](https://news.ycombinator.com/item?id=43054963) - [Q2DOS – Quake 2 backported to MS-DOS](https://dk.toastednet.org/Q2DOS/)
@@ -29,6 +28,7 @@
 * [2025-02-12, 16:02:03](https://news.ycombinator.com/item?id=43026668) - [Where are the best restaurants in my city? A statistical analysis](https://mattsayar.com/where-are-the-best-restaurants-in-my-city-a-statistical-analysis/)
 * [2025-02-12, 08:22:27](https://news.ycombinator.com/item?id=43023101) - [Intensional Joy (a concatenative account of internal structure)](https://pithlessly.github.io/intensionaljoy.html)
 * [2025-02-12, 02:15:17](https://news.ycombinator.com/item?id=43021044) - [TL;DW: Too Long; Didn't Watch Distill YouTube Videos to the Relevant Information](https://tldw.tube/)
+* [2025-02-11, 21:26:14](https://news.ycombinator.com/item?id=43018572) - [Tumblr to join the Fediverse after WordPress migration completes](https://techcrunch.com/2025/02/11/tumblr-to-join-the-fediverse-after-wordpress-migration-completes/)
 * [2025-02-11, 18:04:35](https://news.ycombinator.com/item?id=43015975) - [Elements of Programming (2009)](https://www.elementsofprogramming.com/)
 
 ## [Archives](archives/index.md)
