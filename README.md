@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-15, 01:49:34](https://news.ycombinator.com/item?id=43055068) - [In a showdown of psychotherapists vs. ChatGPT, the latter wins, new study finds](https://fortune.com/well/2025/02/13/in-a-showdown-of-psychotherapists-vs-chatgpt-the-latter-wins-new-study-finds/)
+* [2025-02-15, 03:31:56](https://news.ycombinator.com/item?id=43055671) - [The 20 year old PSP can now connect to WPA2 WiFi Networks](https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/)
 * [2025-02-15, 01:32:05](https://news.ycombinator.com/item?id=43054963) - [Q2DOS – Quake 2 backported to MS-DOS](https://dk.toastednet.org/Q2DOS/)
 * [2025-02-15, 00:40:31](https://news.ycombinator.com/item?id=43054673) - [Did Semgrep Just Get a Lot More Interesting?](https://fly.io/blog/semgrep-but-for-real-now/)
 * [2025-02-15, 00:33:52](https://news.ycombinator.com/item?id=43054632) - [Wyden Releases Draft Bill to Secure Americans' Communications](https://www.wyden.senate.gov/news/press-releases/wyden-releases-draft-bill-to-secure-americans-communications-against-foreign-surveillance-demands)

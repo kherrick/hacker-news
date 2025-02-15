@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-15](index.md)
 
+* [2025-02-15, 03:31:56](https://news.ycombinator.com/item?id=43055671) - [The 20 year old PSP can now connect to WPA2 WiFi Networks](https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/)
 * [2025-02-15, 02:36:22](https://news.ycombinator.com/item?id=43055340) - [Why We're Falling Out of Love with Tesla](https://worldcrunch.com/business-finance/tesla-sales-musk)
 * [2025-02-15, 01:49:34](https://news.ycombinator.com/item?id=43055068) - [In a showdown of psychotherapists vs. ChatGPT, the latter wins, new study finds](https://fortune.com/well/2025/02/13/in-a-showdown-of-psychotherapists-vs-chatgpt-the-latter-wins-new-study-finds/)
 * [2025-02-15, 01:32:05](https://news.ycombinator.com/item?id=43054963) - [Q2DOS – Quake 2 backported to MS-DOS](https://dk.toastednet.org/Q2DOS/)
