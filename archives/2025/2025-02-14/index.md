@@ -39,6 +39,7 @@
 * [2025-02-14, 18:41:55](https://news.ycombinator.com/item?id=43051598) - [Delphi Is 30](https://blog.marcocantu.com/blog/2025-february-delphi-is-30.html)
 * [2025-02-14, 18:29:59](https://news.ycombinator.com/item?id=43051465) - [Dancing turtles unlock scientific discovery](https://www.unc.edu/posts/2025/02/12/dancing-turtles-unlock-scientific-discovery/)
 * [2025-02-14, 18:01:51](https://news.ycombinator.com/item?id=43051135) - [DOGE Exposes Once-Secret Government Networks, Making Cyber-Espionage Easier Than](https://cyberintel.substack.com/p/doge-exposes-once-secret-government)
+* [2025-02-14, 18:01:04](https://news.ycombinator.com/item?id=43051123) - [Edgware 1924: The Making of a Suburb](https://www.modernism-in-metroland.co.uk/blog/edgware-1924-the-making-of-a-suburb)
 * [2025-02-14, 17:48:01](https://news.ycombinator.com/item?id=43050952) - [Trump administration to fire thousands at health agencies](https://www.statnews.com/2025/02/14/federal-employee-layoffs-at-hhs-cdc-on-first-day-robert-kennedy-health-secretary/)
 * [2025-02-14, 17:16:06](https://news.ycombinator.com/item?id=43050579) - [DOGE Website Hacked](https://arstechnica.com/tech-policy/2025/02/doges-gov-site-lampooned-as-coders-quickly-realize-it-can-be-edited-by-anyone/)
 * [2025-02-14, 17:06:59](https://news.ycombinator.com/item?id=43050503) - [The Oligarchs Who Came to Regret Supporting Hitler](https://www.theatlantic.com/ideas/archive/2025/02/hitler-oligarchs-hugenberg-nazi/681584/)
