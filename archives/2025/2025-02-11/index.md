@@ -47,6 +47,7 @@
 * [2025-02-11, 17:09:06](https://news.ycombinator.com/item?id=43015271) - [Show HN: I built an AI coloring page generator](https://www.colori.io/)
 * [2025-02-11, 17:08:35](https://news.ycombinator.com/item?id=43015267) - [Launch HN: A0.dev (YC W25) – React Native App Generator](https://news.ycombinator.com/item?id=43015267)
 * [2025-02-11, 17:00:30](https://news.ycombinator.com/item?id=43015169) - [Legion Health (YC S21, AI-Driven Psychiatry) Hiring Founding Back End Engineer](https://www.ycombinator.com/companies/legion-health/jobs/3pA8uX7-senior-backend-engineer-event-driven-architecture-ai-enabled-systems)
+* [2025-02-11, 16:53:38](https://news.ycombinator.com/item?id=43015071) - [Goku Flow Based Video Generative Foundation Models](https://github.com/Saiyan-World/goku)
 * [2025-02-11, 16:40:20](https://news.ycombinator.com/item?id=43014918) - [LLMs Can Teach Themselves to Better Predict the Future](https://arxiv.org/abs/2502.05253)
 * [2025-02-11, 16:24:30](https://news.ycombinator.com/item?id=43014716) - [The Curious Similarity Between LLMs and Quantum Mechanics](https://robleclerc.substack.com/p/the-curious-similarity-between-llms)
 * [2025-02-11, 16:14:03](https://news.ycombinator.com/item?id=43014573) - [Time to Act on the Risk of Efficient Personalized Text Generation](https://arxiv.org/abs/2502.06560)
