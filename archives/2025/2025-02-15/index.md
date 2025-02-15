@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-15](index.md)
 
+* [2025-02-15, 07:05:51](https://news.ycombinator.com/item?id=43056526) - [Bookshop.org launches Kindle alternative, sends e-book sales to local bookstores](https://www.usatoday.com/story/entertainment/books/2025/01/28/bookshop-org-ereader-ebook-app/77928209007/)
 * [2025-02-15, 06:59:23](https://news.ycombinator.com/item?id=43056495) - [Ask HN: What country would you like to relocate to and why?](https://news.ycombinator.com/item?id=43056495)
 * [2025-02-15, 06:04:12](https://news.ycombinator.com/item?id=43056286) - [Court rulings referenced in condo dispute were AI generated, 'do not exist,'](https://www.ctvnews.ca/vancouver/article/court-rulings-referenced-in-bc-condo-dispute-were-ai-generated-do-not-exist-tribunal-finds/)
 * [2025-02-15, 05:51:24](https://news.ycombinator.com/item?id=43056242) - [Why I quit: kernel developer Con Kolivas (2007)](https://web.archive.org/web/20110807150951/http://apcmag.com/why_i_quit_kernel_developer_con_kolivas.htm)

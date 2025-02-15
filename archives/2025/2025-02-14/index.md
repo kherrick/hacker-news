@@ -32,6 +32,7 @@
 * [2025-02-14, 19:46:33](https://news.ycombinator.com/item?id=43052262) - [Nearly a Year Later, Mozilla Is Still Promoting OneRep](https://krebsonsecurity.com/2025/02/nearly-a-year-later-mozilla-is-still-promoting-onerep/)
 * [2025-02-14, 19:30:06](https://news.ycombinator.com/item?id=43052107) - [Diffusion Without Tears](https://baincapitalventures.notion.site/Diffusion-Without-Tears-14e1469584c180deb0a9ed9aa6ff7a4c)
 * [2025-02-14, 19:16:59](https://news.ycombinator.com/item?id=43051964) - [Marsha P Johnson: A Chrome extension to highlight trans erasure](https://github.com/HamptonMakes/marsha-p-johnson)
+* [2025-02-14, 19:16:35](https://news.ycombinator.com/item?id=43051961) - [Sunsetting Create React App](https://react.dev/blog/2025/02/14/sunsetting-create-react-app)
 * [2025-02-14, 19:02:37](https://news.ycombinator.com/item?id=43051802) - [Kevin Mitnik FOIA Final](https://vault.fbi.gov/kevin-mitnick/kevin-mitnick-part-01-final/view)
 * [2025-02-14, 18:58:37](https://news.ycombinator.com/item?id=43051765) - [The NBA Apple Vision Pro App Now Has a 3D Tabletop View](https://www.uploadvr.com/nba-apple-vision-pro-app-tabletop-view/)
 * [2025-02-14, 18:50:47](https://news.ycombinator.com/item?id=43051697) - [DOGE 'Audits': A Mask for Corruption, Not Efficiency](https://medium.com/less-than-a-minute/doge-audits-a-mask-for-corruption-not-efficiency-3668b846a364)
