@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-15](index.md)
 
+* [2025-02-15, 19:32:04](https://news.ycombinator.com/item?id=43061481) - [US wants to un-fire nuclear safety workers can't figure out how to reach them](https://www.nbcnews.com/politics/national-security/trump-administration-wants-un-fire-nuclear-safety-workers-cant-figure-rcna192345)
 * [2025-02-15, 18:21:10](https://news.ycombinator.com/item?id=43060769) - [Basketball Is a Solved Sport](https://nabraj.com/blog/basketball-solved-sport/)
 * [2025-02-15, 18:13:19](https://news.ycombinator.com/item?id=43060682) - [U.S. conditionally approves vaccine to protect poultry from avian flu](https://www.science.org/content/article/u-s-conditionally-approves-vaccine-protect-poultry-avian-flu)
 * [2025-02-15, 18:10:49](https://news.ycombinator.com/item?id=43060655) - [Electronic Frontier Foundation](https://www.eff.org/)

@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-15, 18:09:28](https://news.ycombinator.com/item?id=43060644) - [Why Aren't We Losing Our Minds over the Plastic in Our Brains?](https://www.scientificamerican.com/article/why-arent-we-losing-our-minds-over-the-plastic-in-our-brains/)
+* [2025-02-15, 19:32:04](https://news.ycombinator.com/item?id=43061481) - [US wants to un-fire nuclear safety workers can't figure out how to reach them](https://www.nbcnews.com/politics/national-security/trump-administration-wants-un-fire-nuclear-safety-workers-cant-figure-rcna192345)
 * [2025-02-15, 18:04:12](https://news.ycombinator.com/item?id=43060603) - [Jill – a functional programming language for the Nand2Tetris platform](https://github.com/mpatajac/jillc)
 * [2025-02-15, 18:02:17](https://news.ycombinator.com/item?id=43060587) - [Alzheimer's biomarkers now visible up to a decade ahead of symptoms](https://newatlas.com/brain/alzheimers-dementia/alzheimers-biomarkers-visible-decade-before-symptoms/)
 * [2025-02-15, 17:43:36](https://news.ycombinator.com/item?id=43060430) - [California homeowners to fund half of high-risk insurer's $1B 'bailout'](https://calmatters.org/economy/2025/02/homeowners-insurance-costs-rising-in-california-fair-plan/)
