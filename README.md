@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-15, 03:31:56](https://news.ycombinator.com/item?id=43055671) - [The 20 year old PSP can now connect to WPA2 WiFi Networks](https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/)
+* [2025-02-15, 03:30:25](https://news.ycombinator.com/item?id=43055660) - [Tuvalu – The First Digital Nation](https://www.tuvalu.tv/)
 * [2025-02-15, 01:32:05](https://news.ycombinator.com/item?id=43054963) - [Q2DOS – Quake 2 backported to MS-DOS](https://dk.toastednet.org/Q2DOS/)
 * [2025-02-15, 00:40:31](https://news.ycombinator.com/item?id=43054673) - [Did Semgrep Just Get a Lot More Interesting?](https://fly.io/blog/semgrep-but-for-real-now/)
 * [2025-02-15, 00:33:52](https://news.ycombinator.com/item?id=43054632) - [Wyden Releases Draft Bill to Secure Americans' Communications](https://www.wyden.senate.gov/news/press-releases/wyden-releases-draft-bill-to-secure-americans-communications-against-foreign-surveillance-demands)
 * [2025-02-15, 00:08:14](https://news.ycombinator.com/item?id=43054473) - [Msxbook OneChipMSX MSX2 Computer](https://www.tindie.com/products/cycle/msxbook-onechipmsx-msx2-computer/)
 * [2025-02-14, 23:47:19](https://news.ycombinator.com/item?id=43054340) - [Integrating AI](https://scott-fryxell.github.io/blog/AI-imagination/)
-* [2025-02-14, 23:36:17](https://news.ycombinator.com/item?id=43054258) - [Mathics3 Live Shell](https://mathics3.github.io/Mathics3-live/)
 * [2025-02-14, 23:34:41](https://news.ycombinator.com/item?id=43054244) - [Show HN: VimLM – A Local, Offline Coding Assistant for Vim](https://github.com/JosefAlbers/VimLM)
 * [2025-02-14, 23:10:36](https://news.ycombinator.com/item?id=43054069) - [A decade later, a decade lost (2024)](https://meyerweb.com/eric/thoughts/2024/06/07/a-decade-later-a-decade-lost/)
 * [2025-02-14, 22:45:02](https://news.ycombinator.com/item?id=43053908) - [If you ever stacked cups in gym class, blame my dad](https://defector.com/if-you-ever-stacked-cups-in-gym-class-blame-my-dad)
