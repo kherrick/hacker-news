@@ -16,6 +16,7 @@
 * [2025-02-11, 21:26:14](https://news.ycombinator.com/item?id=43018572) - [Tumblr to join the Fediverse after WordPress migration completes](https://techcrunch.com/2025/02/11/tumblr-to-join-the-fediverse-after-wordpress-migration-completes/)
 * [2025-02-11, 21:02:12](https://news.ycombinator.com/item?id=43018312) - [The Butter Thesis (2019)](https://nickgrossman.xyz/the-butter-thesis)
 * [2025-02-11, 21:00:32](https://news.ycombinator.com/item?id=43018293) - [Empirical Health (YC S23) Is Hiring Design Engineers in NYC](https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer)
+* [2025-02-11, 20:58:08](https://news.ycombinator.com/item?id=43018276) - [Ghosts in the Shadow of the Mouse](https://fiddlersgreene.substack.com/p/ghosts-in-the-shadow-of-the-mouse)
 * [2025-02-11, 20:56:21](https://news.ycombinator.com/item?id=43018251) - [Thomson Reuters wins AI copyright case, rejecting fair use](https://www.wired.com/story/thomson-reuters-ai-copyright-lawsuit/)
 * [2025-02-11, 20:54:08](https://news.ycombinator.com/item?id=43018223) - [Man who lost $780M in Bitcoin in a landfill now wants to buy the dump](https://www.tomshardware.com/tech-industry/cryptocurrency/landfill-concealing-8-000-bitcoins-valued-at-usd780m-to-transform-into-a-solar-farm-but-man-now-wishes-to-buy-the-site)
 * [2025-02-11, 20:11:37](https://news.ycombinator.com/item?id=43017739) - [Zeroperl: Sandboxing Perl with WebAssembly](https://andrews.substack.com/p/zeroperl-sandboxed-perl-with-webassembly)
