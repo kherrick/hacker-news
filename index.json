@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-15, 12:11:06",
+      "https://news.ycombinator.com/item?id=43057930"
+    ],
+    [
+      "Karol Herbst Steps Down as Nouveau Maintainer Due to Linux's Toxic Environment",
+      "https://www.phoronix.com/news/Karol-Herbst-Nouveau-No"
+    ]
+  ],
+  [
+    [
       "2025-02-15, 10:07:23",
       "https://news.ycombinator.com/item?id=43057375"
     ],
@@ -27,16 +37,6 @@
     [
       "Airbnb CEO says it's still too early for AI trip planning",
       "https://techcrunch.com/2025/02/14/airbnb-ceo-says-its-still-too-early-for-ai-trip-planning/"
-    ]
-  ],
-  [
-    [
-      "2025-02-15, 08:15:59",
-      "https://news.ycombinator.com/item?id=43056831"
-    ],
-    [
-      "If you believe in \"Artificial Intelligence\", take five minutes to ask it",
-      "https://svpow.com/2025/02/14/if-you-believe-in-artificial-intelligence-take-five-minutes-to-ask-it-about-stuff-you-know-well/"
     ]
   ],
   [
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2025-02-14, 16:18:30",
-      "https://news.ycombinator.com/item?id=43049959"
-    ],
-    [
-      "Detecting AI agent use and abuse",
-      "https://stytch.com/blog/detecting-ai-agent-use-abuse/"
-    ]
-  ],
-  [
-    [
       "2025-02-14, 15:24:05",
       "https://news.ycombinator.com/item?id=43049251"
     ],
@@ -217,6 +207,16 @@
     [
       "Questioning the Criteria for Evaluating Non-Cryptographic Hash Functions",
       "https://cacm.acm.org/practice/questioning-the-criteria-for-evaluating-non-cryptographic-hash-functions/"
+    ]
+  ],
+  [
+    [
+      "2025-02-12, 10:43:51",
+      "https://news.ycombinator.com/item?id=43023996"
+    ],
+    [
+      "Rust Memory Management Explained",
+      "https://www.infoworld.com/article/3815535/rust-memory-management-explained.html"
     ]
   ],
   [
