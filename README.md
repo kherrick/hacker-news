@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-15, 18:21:10](https://news.ycombinator.com/item?id=43060769) - [Basketball Is a Solved Sport](https://nabraj.com/blog/basketball-solved-sport/)
 * [2025-02-15, 18:13:19](https://news.ycombinator.com/item?id=43060682) - [U.S. conditionally approves vaccine to protect poultry from avian flu](https://www.science.org/content/article/u-s-conditionally-approves-vaccine-protect-poultry-avian-flu)
 * [2025-02-15, 18:09:28](https://news.ycombinator.com/item?id=43060644) - [Why Aren't We Losing Our Minds over the Plastic in Our Brains?](https://www.scientificamerican.com/article/why-arent-we-losing-our-minds-over-the-plastic-in-our-brains/)
+* [2025-02-15, 18:04:12](https://news.ycombinator.com/item?id=43060603) - [Jill – a functional programming language for the Nand2Tetris platform](https://github.com/mpatajac/jillc)
 * [2025-02-15, 18:02:17](https://news.ycombinator.com/item?id=43060587) - [Alzheimer's biomarkers now visible up to a decade ahead of symptoms](https://newatlas.com/brain/alzheimers-dementia/alzheimers-biomarkers-visible-decade-before-symptoms/)
 * [2025-02-15, 16:37:04](https://news.ycombinator.com/item?id=43059826) - [More Solar and Battery Storage Added to TX Grid Than Other Power Src Last Year](https://insideclimatenews.org/news/10022025/solar-battery-storage-texas-grid/)
 * [2025-02-15, 16:11:29](https://news.ycombinator.com/item?id=43059579) - [Deepseek R1 Distill 8B Q40 on 4 x Raspberry Pi 5, 6.43 tok/s (eval 11.68 tok/s)](https://github.com/b4rtaz/distributed-llama/discussions/162)

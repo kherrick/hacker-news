@@ -8,6 +8,7 @@
 * [2025-02-15, 18:13:19](https://news.ycombinator.com/item?id=43060682) - [U.S. conditionally approves vaccine to protect poultry from avian flu](https://www.science.org/content/article/u-s-conditionally-approves-vaccine-protect-poultry-avian-flu)
 * [2025-02-15, 18:10:49](https://news.ycombinator.com/item?id=43060655) - [Electronic Frontier Foundation](https://www.eff.org/)
 * [2025-02-15, 18:09:28](https://news.ycombinator.com/item?id=43060644) - [Why Aren't We Losing Our Minds over the Plastic in Our Brains?](https://www.scientificamerican.com/article/why-arent-we-losing-our-minds-over-the-plastic-in-our-brains/)
+* [2025-02-15, 18:04:12](https://news.ycombinator.com/item?id=43060603) - [Jill – a functional programming language for the Nand2Tetris platform](https://github.com/mpatajac/jillc)
 * [2025-02-15, 18:02:17](https://news.ycombinator.com/item?id=43060587) - [Alzheimer's biomarkers now visible up to a decade ahead of symptoms](https://newatlas.com/brain/alzheimers-dementia/alzheimers-biomarkers-visible-decade-before-symptoms/)
 * [2025-02-15, 17:01:06](https://news.ycombinator.com/item?id=43060062) - [Sabine Hossenfelder – I was asked to keep this confidential [video]](https://www.youtube.com/watch?v=shFUDPqVmTg)
 * [2025-02-15, 16:37:04](https://news.ycombinator.com/item?id=43059826) - [More Solar and Battery Storage Added to TX Grid Than Other Power Src Last Year](https://insideclimatenews.org/news/10022025/solar-battery-storage-texas-grid/)
