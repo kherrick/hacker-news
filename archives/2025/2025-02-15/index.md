@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-15](index.md)
 
 * [2025-02-15, 04:02:44](https://news.ycombinator.com/item?id=43055809) - [\"the Zooms don't show up\" Jamie Dimon](https://www.mediaite.com/tv/leaked-audio-reveals-jp-morgan-ceo-going-off-on-young-staffers-wanting-to-work-from-home/)
+* [2025-02-15, 04:01:11](https://news.ycombinator.com/item?id=43055797) - [PHP 8.4.4 Released](https://www.php.net/releases/8_4_4.php)
 * [2025-02-15, 03:31:56](https://news.ycombinator.com/item?id=43055671) - [The 20 year old PSP can now connect to WPA2 WiFi Networks](https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/)
 * [2025-02-15, 03:30:25](https://news.ycombinator.com/item?id=43055660) - [Tuvalu – The First Digital Nation](https://www.tuvalu.tv/)
 * [2025-02-15, 02:36:22](https://news.ycombinator.com/item?id=43055340) - [Why We're Falling Out of Love with Tesla](https://worldcrunch.com/business-finance/tesla-sales-musk)
