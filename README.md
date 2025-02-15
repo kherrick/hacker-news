@@ -6,6 +6,7 @@
 * [2025-02-15, 15:06:15](https://news.ycombinator.com/item?id=43058993) - [Dust from Car Brakes More Harmful Than Exhaust, Study Finds](https://e360.yale.edu/digest/brake-pads-lung-damage-study)
 * [2025-02-15, 14:50:55](https://news.ycombinator.com/item?id=43058886) - [Increasing rat numbers in cities are linked to climate warming, urbanization](https://www.science.org/doi/10.1126/sciadv.ads6782)
 * [2025-02-15, 14:00:00](https://news.ycombinator.com/item?id=43058522) - [Diablo hackers uncovered a speedrun scandal](https://arstechnica.com/gaming/2025/02/the-diablo-hackers-that-debunked-a-record-speedrun/)
+* [2025-02-15, 13:22:09](https://news.ycombinator.com/item?id=43058299) - [Show HN: Synergetica – A Modern, End-to-End Genetic Circuit Design Desktop App](https://github.com/khokao/synergetica)
 * [2025-02-15, 13:19:17](https://news.ycombinator.com/item?id=43058285) - [Show HN: I Built a Reddit-style Bluesky client – still rough, but open to ideas](https://threadsky.app/)
 * [2025-02-15, 13:02:46](https://news.ycombinator.com/item?id=43058198) - [What situations in classical physics are non-deterministic?](https://physics.stackexchange.com/questions/403574/what-situations-in-classical-physics-are-non-deterministic)
 * [2025-02-15, 10:07:23](https://news.ycombinator.com/item?id=43057375) - [Show HN: Kreuzberg – Modern async Python library for document text extraction](https://github.com/Goldziher/kreuzberg)
@@ -27,7 +28,6 @@
 * [2025-02-12, 06:54:48](https://news.ycombinator.com/item?id=43022603) - [Show HN: Skies-adsb 2.0 – my 3D plane-tracking web app](https://github.com/llopisdon/skies-adsb)
 * [2025-02-12, 02:15:17](https://news.ycombinator.com/item?id=43021044) - [TL;DW: Too Long; Didn't Watch Distill YouTube Videos to the Relevant Information](https://tldw.tube/)
 * [2025-02-12, 00:00:28](https://news.ycombinator.com/item?id=43019975) - [Surprise Magma Chamber Growing Under Mediterranean Volcano](https://news.agu.org/press-release/surprise-magma-chamber-growing-under-mediterranean-volcano/)
-* [2025-02-11, 18:04:35](https://news.ycombinator.com/item?id=43015975) - [Elements of Programming (2009)](https://www.elementsofprogramming.com/)
 * [2025-02-11, 16:53:38](https://news.ycombinator.com/item?id=43015071) - [Goku Flow Based Video Generative Foundation Models](https://github.com/Saiyan-World/goku)
 * [2025-02-11, 16:06:45](https://news.ycombinator.com/item?id=43014481) - [Recurring checklists using Org Mode in Emacs](https://www.naiquev.in/recurring-checklists-using-org-mode-in-emacs.html)
 
