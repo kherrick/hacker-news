@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-15, 13:24:12](https://news.ycombinator.com/item?id=43058311) - [Twelve months at 1.5 °C signals earlier than expected breach of Paris Agreement](https://www.nature.com/articles/s41558-025-02247-8)
 * [2025-02-15, 13:02:46](https://news.ycombinator.com/item?id=43058198) - [What situations in classical physics are non-deterministic?](https://physics.stackexchange.com/questions/403574/what-situations-in-classical-physics-are-non-deterministic)
 * [2025-02-15, 12:19:48](https://news.ycombinator.com/item?id=43057968) - [Can We Trust AI Benchmarks? A Review of Current Issues in AI Evaluation](https://arxiv.org/abs/2502.06559)
 * [2025-02-15, 12:06:01](https://news.ycombinator.com/item?id=43057907) - [The Impact of Generative AI on Critical Thinking [pdf]](https://www.microsoft.com/en-us/research/uploads/prod/2025/01/lee_2025_ai_critical_thinking_survey.pdf)
@@ -10,6 +9,7 @@
 * [2025-02-15, 03:31:56](https://news.ycombinator.com/item?id=43055671) - [The 20 year old PSP can now connect to WPA2 WiFi Networks](https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/)
 * [2025-02-15, 01:32:05](https://news.ycombinator.com/item?id=43054963) - [Q2DOS – Quake 2 backported to MS-DOS](https://dk.toastednet.org/Q2DOS/)
 * [2025-02-15, 00:40:31](https://news.ycombinator.com/item?id=43054673) - [Did Semgrep Just Get a Lot More Interesting?](https://fly.io/blog/semgrep-but-for-real-now/)
+* [2025-02-15, 00:08:14](https://news.ycombinator.com/item?id=43054473) - [Msxbook OneChipMSX MSX2 Computer](https://www.tindie.com/products/cycle/msxbook-onechipmsx-msx2-computer/)
 * [2025-02-14, 23:10:36](https://news.ycombinator.com/item?id=43054069) - [A decade later, a decade lost (2024)](https://meyerweb.com/eric/thoughts/2024/06/07/a-decade-later-a-decade-lost/)
 * [2025-02-14, 22:45:02](https://news.ycombinator.com/item?id=43053908) - [If you ever stacked cups in gym class, blame my dad](https://defector.com/if-you-ever-stacked-cups-in-gym-class-blame-my-dad)
 * [2025-02-14, 22:36:31](https://news.ycombinator.com/item?id=43053844) - [We were wrong about GPUs](https://fly.io/blog/wrong-about-gpu/)
