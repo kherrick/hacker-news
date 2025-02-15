@@ -16,7 +16,6 @@
 * [2025-02-14, 21:39:29](https://news.ycombinator.com/item?id=43053350) - [The Iconic 3DBenchy Enters the Public Domain](https://www.nti-group.com/home/information/news/3dbenchy/)
 * [2025-02-14, 20:57:36](https://news.ycombinator.com/item?id=43052997) - [Show HN: OpenSCAD configurable calendar 3D model](https://chrastecky.dev/3d-printing/open-scad-configurable-calendar-3d-model)
 * [2025-02-14, 20:26:12](https://news.ycombinator.com/item?id=43052728) - [Yash: Yet Another Shell](https://github.com/magicant/yash)
-* [2025-02-14, 20:00:12](https://news.ycombinator.com/item?id=43052427) - [Ask HN: Is anybody building an alternative transformer?](https://news.ycombinator.com/item?id=43052427)
 * [2025-02-14, 19:02:37](https://news.ycombinator.com/item?id=43051802) - [Kevin Mitnik FOIA Final](https://vault.fbi.gov/kevin-mitnick/kevin-mitnick-part-01-final/view)
 * [2025-02-14, 18:29:59](https://news.ycombinator.com/item?id=43051465) - [A study on how turtles navigate using the Earth’s magnetic field](https://www.unc.edu/posts/2025/02/12/dancing-turtles-unlock-scientific-discovery/)
 * [2025-02-14, 16:18:30](https://news.ycombinator.com/item?id=43049959) - [Detecting AI agent use and abuse](https://stytch.com/blog/detecting-ai-agent-use-abuse/)
@@ -28,6 +27,7 @@
 * [2025-02-13, 00:05:48](https://news.ycombinator.com/item?id=43031228) - [Questioning the Criteria for Evaluating Non-Cryptographic Hash Functions](https://cacm.acm.org/practice/questioning-the-criteria-for-evaluating-non-cryptographic-hash-functions/)
 * [2025-02-12, 21:30:40](https://news.ycombinator.com/item?id=43029968) - [First hybrid quantum supercomputer Reimei activated in Japan](https://interestingengineering.com/science/worlds-first-hybrid-quantum-supercomputer-reimei-activated)
 * [2025-02-12, 08:22:27](https://news.ycombinator.com/item?id=43023101) - [Intensional Joy (a concatenative account of internal structure)](https://pithlessly.github.io/intensionaljoy.html)
+* [2025-02-12, 02:15:17](https://news.ycombinator.com/item?id=43021044) - [TL;DW: Too Long; Didn't Watch Distill YouTube Videos to the Relevant Information](https://tldw.tube/)
 * [2025-02-11, 21:26:14](https://news.ycombinator.com/item?id=43018572) - [Tumblr to join the Fediverse after WordPress migration completes](https://techcrunch.com/2025/02/11/tumblr-to-join-the-fediverse-after-wordpress-migration-completes/)
 * [2025-02-11, 18:04:35](https://news.ycombinator.com/item?id=43015975) - [Elements of Programming (2009)](https://www.elementsofprogramming.com/)
 
