@@ -1,32 +1,22 @@
 [
   [
     [
-      "2025-02-15, 01:19:20",
-      "https://news.ycombinator.com/item?id=43054892"
-    ],
-    [
-      "Men claiming to be from DOGE show up at San Francisco City Hall, demand records",
-      "https://www.cbsnews.com/sanfrancisco/news/doge-3-men-show-up-at-sf-city-hall-demand-records/"
-    ]
-  ],
-  [
-    [
-      "2025-02-15, 01:19:06",
-      "https://news.ycombinator.com/item?id=43054889"
-    ],
-    [
-      "Executive Order for MAHA Commission",
-      "https://foodishealth.substack.com/p/breaking-executive-order-for-maha"
-    ]
-  ],
-  [
-    [
       "2025-02-15, 00:57:36",
       "https://news.ycombinator.com/item?id=43054766"
     ],
     [
       "The IRS Is Buying an AI Supercomputer from Nvidia",
       "https://theintercept.com/2025/02/14/irs-ai-nvidia-tax/"
+    ]
+  ],
+  [
+    [
+      "2025-02-15, 00:40:31",
+      "https://news.ycombinator.com/item?id=43054673"
+    ],
+    [
+      "Did Semgrep Just Get a Lot More Interesting?",
+      "https://fly.io/blog/semgrep-but-for-real-now/"
     ]
   ],
   [
@@ -51,6 +41,26 @@
   ],
   [
     [
+      "2025-02-14, 23:47:19",
+      "https://news.ycombinator.com/item?id=43054340"
+    ],
+    [
+      "Integrating AI",
+      "https://scott-fryxell.github.io/blog/AI-imagination/"
+    ]
+  ],
+  [
+    [
+      "2025-02-14, 23:36:17",
+      "https://news.ycombinator.com/item?id=43054258"
+    ],
+    [
+      "Mathics3 Live Shell",
+      "https://mathics3.github.io/Mathics3-live/"
+    ]
+  ],
+  [
+    [
       "2025-02-14, 23:34:41",
       "https://news.ycombinator.com/item?id=43054244"
     ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=43054069"
     ],
     [
-      "A decade later, a decade lost",
+      "A decade later, a decade lost (2024)",
       "https://meyerweb.com/eric/thoughts/2024/06/07/a-decade-later-a-decade-lost/"
     ]
   ],
@@ -161,32 +171,12 @@
   ],
   [
     [
-      "2025-02-14, 19:30:06",
-      "https://news.ycombinator.com/item?id=43052107"
-    ],
-    [
-      "Diffusion Without Tears",
-      "https://baincapitalventures.notion.site/Diffusion-Without-Tears-14e1469584c180deb0a9ed9aa6ff7a4c"
-    ]
-  ],
-  [
-    [
       "2025-02-14, 19:02:37",
       "https://news.ycombinator.com/item?id=43051802"
     ],
     [
       "Kevin Mitnik FOIA Final",
       "https://vault.fbi.gov/kevin-mitnick/kevin-mitnick-part-01-final/view"
-    ]
-  ],
-  [
-    [
-      "2025-02-14, 18:58:37",
-      "https://news.ycombinator.com/item?id=43051765"
-    ],
-    [
-      "The NBA Apple Vision Pro app now has a 3D tabletop view",
-      "https://www.uploadvr.com/nba-apple-vision-pro-app-tabletop-view/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "TeX and Typst: Layout Models (2024)",
       "https://laurmaedje.github.io/posts/layout-models/"
+    ]
+  ],
+  [
+    [
+      "2025-02-13, 00:05:48",
+      "https://news.ycombinator.com/item?id=43031228"
+    ],
+    [
+      "Questioning the Criteria for Evaluating Non-Cryptographic Hash Functions",
+      "https://cacm.acm.org/practice/questioning-the-criteria-for-evaluating-non-cryptographic-hash-functions/"
     ]
   ],
   [
