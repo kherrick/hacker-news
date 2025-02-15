@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-02-15, 15:33:18",
-      "https://news.ycombinator.com/item?id=43059200"
+      "2025-02-15, 15:35:02",
+      "https://news.ycombinator.com/item?id=43059215"
     ],
     [
-      "Argentinian president backs away from LIBRA memecoin after 90% crash",
-      "https://www.dlnews.com/articles/markets/milei-backs-away-from-libra-memecoin-after-90-crash-not-aware-of-the-details/"
+      "Nintendo Obtains New Anti-Palworld Patent and Seeks Even More",
+      "https://gamerant.com/nintendo-anti-palworld-patents-uspto-infringement-lawsuit-implications/"
     ]
   ],
   [
@@ -31,26 +31,6 @@
   ],
   [
     [
-      "2025-02-15, 14:52:13",
-      "https://news.ycombinator.com/item?id=43058896"
-    ],
-    [
-      "The Unicorn Boom Is Over, and Startups Are Getting Desperate",
-      "https://www.bloomberg.com/news/articles/2025-02-14/silicon-valley-unicorn-startups-are-desperate-for-cash"
-    ]
-  ],
-  [
-    [
-      "2025-02-15, 14:51:49",
-      "https://news.ycombinator.com/item?id=43058889"
-    ],
-    [
-      "Amazon's killing a feature that let you download and backup Kindle books",
-      "https://www.theverge.com/news/612898/amazon-removing-kindle-book-download-transfer-usb"
-    ]
-  ],
-  [
-    [
       "2025-02-15, 14:50:55",
       "https://news.ycombinator.com/item?id=43058886"
     ],
@@ -67,6 +47,16 @@
     [
       "Diablo hackers uncovered a speedrun scandal",
       "https://arstechnica.com/gaming/2025/02/the-diablo-hackers-that-debunked-a-record-speedrun/"
+    ]
+  ],
+  [
+    [
+      "2025-02-15, 13:19:17",
+      "https://news.ycombinator.com/item?id=43058285"
+    ],
+    [
+      "Show HN: I Built a Reddit-style Bluesky client – still rough, but open to ideas",
+      "https://threadsky.app/"
     ]
   ],
   [
@@ -121,22 +111,22 @@
   ],
   [
     [
-      "2025-02-15, 01:32:05",
-      "https://news.ycombinator.com/item?id=43054963"
-    ],
-    [
-      "Q2DOS – Quake 2 backported to MS-DOS",
-      "https://dk.toastednet.org/Q2DOS/"
-    ]
-  ],
-  [
-    [
       "2025-02-15, 00:40:31",
       "https://news.ycombinator.com/item?id=43054673"
     ],
     [
       "Did Semgrep Just Get a Lot More Interesting?",
       "https://fly.io/blog/semgrep-but-for-real-now/"
+    ]
+  ],
+  [
+    [
+      "2025-02-15, 00:08:14",
+      "https://news.ycombinator.com/item?id=43054473"
+    ],
+    [
+      "Msxbook OneChipMSX MSX2 Computer",
+      "https://www.tindie.com/products/cycle/msxbook-onechipmsx-msx2-computer/"
     ]
   ],
   [
@@ -201,22 +191,12 @@
   ],
   [
     [
-      "2025-02-14, 15:24:05",
-      "https://news.ycombinator.com/item?id=43049251"
+      "2025-02-14, 13:23:23",
+      "https://news.ycombinator.com/item?id=43048027"
     ],
     [
-      "The largest sofa you can move around a corner",
-      "https://www.quantamagazine.org/the-largest-sofa-you-can-move-around-a-corner-20250214/"
-    ]
-  ],
-  [
-    [
-      "2025-02-13, 12:20:16",
-      "https://news.ycombinator.com/item?id=43035155"
-    ],
-    [
-      "Tennis great Steffi Graf got bitten by pickleball's 'fun factor'",
-      "https://www.cnn.com/2025/02/13/sport/steffi-graf-pickleball-slam-3-tennis-spt-intl/index.html"
+      "Show HN: Transform your codebase into a single Markdown doc for feeding into AI",
+      "https://tesserato.web.app/posts/2025-02-12-CodeWeaver-launch/index.html"
     ]
   ],
   [
@@ -231,12 +211,12 @@
   ],
   [
     [
-      "2025-02-12, 10:43:51",
-      "https://news.ycombinator.com/item?id=43023996"
+      "2025-02-12, 15:05:17",
+      "https://news.ycombinator.com/item?id=43026071"
     ],
     [
-      "Rust Memory Management Explained",
-      "https://www.infoworld.com/article/3815535/rust-memory-management-explained.html"
+      "Improved evaluation times with pre-resolved Nix store paths",
+      "https://determinate.systems/posts/resolved-store-paths/"
     ]
   ],
   [
@@ -281,12 +261,32 @@
   ],
   [
     [
-      "2025-02-12, 01:34:45",
-      "https://news.ycombinator.com/item?id=43020756"
+      "2025-02-12, 00:00:28",
+      "https://news.ycombinator.com/item?id=43019975"
     ],
     [
-      "Apache Iceberg now supports geospatial data types natively",
-      "https://wherobots.com/apache-iceberg-and-parquet-now-support-geo/"
+      "Surprise Magma Chamber Growing Under Mediterranean Volcano",
+      "https://news.agu.org/press-release/surprise-magma-chamber-growing-under-mediterranean-volcano/"
+    ]
+  ],
+  [
+    [
+      "2025-02-11, 18:04:35",
+      "https://news.ycombinator.com/item?id=43015975"
+    ],
+    [
+      "Elements of Programming (2009)",
+      "https://www.elementsofprogramming.com/"
+    ]
+  ],
+  [
+    [
+      "2025-02-11, 16:53:38",
+      "https://news.ycombinator.com/item?id=43015071"
+    ],
+    [
+      "Goku Flow Based Video Generative Foundation Models",
+      "https://github.com/Saiyan-World/goku"
     ]
   ],
   [
