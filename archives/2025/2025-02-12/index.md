@@ -49,6 +49,7 @@
 * [2025-02-12, 10:43:02](https://news.ycombinator.com/item?id=43023991) - [Nping – ping, but with a graph or table view](https://github.com/hanshuaikang/Nping)
 * [2025-02-12, 10:22:21](https://news.ycombinator.com/item?id=43023875) - [Ask HN: What's the best implementation of Conway's Game of Life?](https://news.ycombinator.com/item?id=43023875)
 * [2025-02-12, 09:59:03](https://news.ycombinator.com/item?id=43023735) - [I Paid $70 for an AI Boyfriend. It Was So Worth It](https://www.harpersbazaar.com/culture/features/a63510531/ai-boyfriend-emotional-labor-explained-essay/)
+* [2025-02-12, 09:54:14](https://news.ycombinator.com/item?id=43023698) - [Show HN: Letting LLMs Run a Debugger](https://github.com/mohsen1/llm-debugger-vscode-extension)
 * [2025-02-12, 09:43:48](https://news.ycombinator.com/item?id=43023634) - [Tiny Pointers](https://arxiv.org/abs/2111.12800)
 * [2025-02-12, 09:33:29](https://news.ycombinator.com/item?id=43023554) - [US and UK refuse to sign AI safety declaration at summit](https://arstechnica.com/ai/2025/02/us-and-uk-refuse-to-sign-ai-safety-declaration-at-summit/)
 * [2025-02-12, 09:24:08](https://news.ycombinator.com/item?id=43023508) - [Smuggling arbitrary data through an emoji](https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/)
