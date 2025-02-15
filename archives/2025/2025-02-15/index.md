@@ -10,6 +10,8 @@
 * [2025-02-15, 18:09:28](https://news.ycombinator.com/item?id=43060644) - [Why Aren't We Losing Our Minds over the Plastic in Our Brains?](https://www.scientificamerican.com/article/why-arent-we-losing-our-minds-over-the-plastic-in-our-brains/)
 * [2025-02-15, 18:04:12](https://news.ycombinator.com/item?id=43060603) - [Jill – a functional programming language for the Nand2Tetris platform](https://github.com/mpatajac/jillc)
 * [2025-02-15, 18:02:17](https://news.ycombinator.com/item?id=43060587) - [Alzheimer's biomarkers now visible up to a decade ahead of symptoms](https://newatlas.com/brain/alzheimers-dementia/alzheimers-biomarkers-visible-decade-before-symptoms/)
+* [2025-02-15, 17:43:36](https://news.ycombinator.com/item?id=43060430) - [California homeowners to fund half of high-risk insurer's $1B 'bailout'](https://calmatters.org/economy/2025/02/homeowners-insurance-costs-rising-in-california-fair-plan/)
+* [2025-02-15, 17:37:06](https://news.ycombinator.com/item?id=43060370) - [Why I'd never apply for a job online again](https://www.hottakes.space/p/why-id-never-apply-for-a-job-online)
 * [2025-02-15, 17:01:06](https://news.ycombinator.com/item?id=43060062) - [Sabine Hossenfelder – I was asked to keep this confidential [video]](https://www.youtube.com/watch?v=shFUDPqVmTg)
 * [2025-02-15, 16:37:04](https://news.ycombinator.com/item?id=43059826) - [More Solar and Battery Storage Added to TX Grid Than Other Power Src Last Year](https://insideclimatenews.org/news/10022025/solar-battery-storage-texas-grid/)
 * [2025-02-15, 16:11:29](https://news.ycombinator.com/item?id=43059579) - [Deepseek R1 Distill 8B Q40 on 4 x Raspberry Pi 5, 6.43 tok/s (eval 11.68 tok/s)](https://github.com/b4rtaz/distributed-llama/discussions/162)
