@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-15, 02:36:22](https://news.ycombinator.com/item?id=43055340) - [Why We're Falling Out of Love with Tesla](https://worldcrunch.com/business-finance/tesla-sales-musk)
 * [2025-02-15, 01:49:34](https://news.ycombinator.com/item?id=43055068) - [In a showdown of psychotherapists vs. ChatGPT, the latter wins, new study finds](https://fortune.com/well/2025/02/13/in-a-showdown-of-psychotherapists-vs-chatgpt-the-latter-wins-new-study-finds/)
 * [2025-02-15, 01:32:05](https://news.ycombinator.com/item?id=43054963) - [Q2DOS – Quake 2 backported to MS-DOS](https://dk.toastednet.org/Q2DOS/)
 * [2025-02-15, 00:40:31](https://news.ycombinator.com/item?id=43054673) - [Did Semgrep Just Get a Lot More Interesting?](https://fly.io/blog/semgrep-but-for-real-now/)
@@ -13,6 +12,7 @@
 * [2025-02-14, 22:45:02](https://news.ycombinator.com/item?id=43053908) - [If you ever stacked cups in gym class, blame my dad](https://defector.com/if-you-ever-stacked-cups-in-gym-class-blame-my-dad)
 * [2025-02-14, 22:36:31](https://news.ycombinator.com/item?id=43053844) - [We were wrong about GPUs](https://fly.io/blog/wrong-about-gpu/)
 * [2025-02-14, 22:05:33](https://news.ycombinator.com/item?id=43053625) - [Complex dynamics require complex solutions](https://mathstodon.xyz/@tao/113873092369347147)
+* [2025-02-14, 21:50:50](https://news.ycombinator.com/item?id=43053466) - [Codeberg appears to be under a DDoS attack](https://status.codeberg.eu/status/codeberg)
 * [2025-02-14, 21:45:49](https://news.ycombinator.com/item?id=43053419) - [The hardest working font in Manhattan](https://aresluna.org/the-hardest-working-font-in-manhattan/)
 * [2025-02-14, 21:39:29](https://news.ycombinator.com/item?id=43053350) - [The Iconic 3DBenchy Enters the Public Domain](https://www.nti-group.com/home/information/news/3dbenchy/)
 * [2025-02-14, 20:57:36](https://news.ycombinator.com/item?id=43052997) - [Show HN: OpenSCAD configurable calendar 3D model](https://chrastecky.dev/3d-printing/open-scad-configurable-calendar-3d-model)
