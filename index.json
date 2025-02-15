@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-02-15, 04:01:11",
-      "https://news.ycombinator.com/item?id=43055797"
-    ],
-    [
-      "PHP 8.4.4 Released",
-      "https://www.php.net/releases/8_4_4.php"
-    ]
-  ],
-  [
-    [
       "2025-02-15, 03:31:56",
       "https://news.ycombinator.com/item?id=43055671"
     ],
@@ -247,6 +237,16 @@
     [
       "Questioning the Criteria for Evaluating Non-Cryptographic Hash Functions",
       "https://cacm.acm.org/practice/questioning-the-criteria-for-evaluating-non-cryptographic-hash-functions/"
+    ]
+  ],
+  [
+    [
+      "2025-02-12, 10:43:02",
+      "https://news.ycombinator.com/item?id=43023991"
+    ],
+    [
+      "Nping – ping, but with a graph or table view",
+      "https://github.com/hanshuaikang/Nping"
     ]
   ],
   [
