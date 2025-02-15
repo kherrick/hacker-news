@@ -2,6 +2,7 @@
 
 * [2025-02-15, 21:20:34](https://news.ycombinator.com/item?id=43062457) - [The European Vat Is Not a Discriminatory Tax Against US Exports](https://taxfoundation.org/blog/trump-reciprocal-tariffs-eu-vat-discriminatory/)
 * [2025-02-15, 20:24:13](https://news.ycombinator.com/item?id=43061977) - [NASA has a list of 10 rules for software development](https://www.cs.otago.ac.nz/cosc345/resources/nasa-10-rules.htm)
+* [2025-02-15, 19:44:57](https://news.ycombinator.com/item?id=43061608) - [To avoid being replaced by LLMs, do what they can't](https://www.seangoedecke.com/what-llms-cant-do/)
 * [2025-02-15, 19:34:29](https://news.ycombinator.com/item?id=43061498) - [My Life in Weeks](https://weeks.ginatrapani.org/)
 * [2025-02-15, 19:32:16](https://news.ycombinator.com/item?id=43061482) - [New SF public health chief was part of McKinsey opioid-marketing operation](https://sfstandard.com/2025/02/14/san-francisco-department-public-health-daniel-tsai-opioids-mckinsey/)
 * [2025-02-15, 19:26:26](https://news.ycombinator.com/item?id=43061423) - [OmniParser V2 – A simple screen parsing tool towards pure vision based GUI agent](https://github.com/microsoft/OmniParser)
@@ -29,7 +30,6 @@
 * [2025-02-12, 02:15:17](https://news.ycombinator.com/item?id=43021044) - [TL;DW: Too Long; Didn't Watch Distill YouTube Videos to the Relevant Information](https://tldw.tube/)
 * [2025-02-12, 00:00:28](https://news.ycombinator.com/item?id=43019975) - [Surprise Magma Chamber Growing Under Mediterranean Volcano (2023)](https://news.agu.org/press-release/surprise-magma-chamber-growing-under-mediterranean-volcano/)
 * [2025-02-11, 22:02:13](https://news.ycombinator.com/item?id=43018928) - [Sharing a ChatGPT Account with My Wife](https://startupbaniya.com/sharing-chatgpt-account)
-* [2025-02-11, 21:39:41](https://news.ycombinator.com/item?id=43018705) - [Turning Down Upspin Infrastructure](https://groups.google.com/g/upspin/c/Whma_O-iexM/m/lSConHZ5DwAJ)
 
 ## [Archives](archives/index.md)
 
