@@ -27,6 +27,7 @@
 * [2025-02-12, 16:32:37](https://news.ycombinator.com/item?id=43026934) - [How Nissan and Honda's $60B merger talks collapsed](https://www.reuters.com/markets/deals/inside-collapse-nissan-hondas-60-billion-mega-deal-2025-02-12/)
 * [2025-02-12, 16:31:04](https://news.ycombinator.com/item?id=43026920) - [The Prophet of Parking](https://www.worksinprogress.news/p/the-prophet-of-parking)
 * [2025-02-12, 16:13:41](https://news.ycombinator.com/item?id=43026774) - [Ask HN: Former employees' RSUs at risk after startup's IPO](https://news.ycombinator.com/item?id=43026774)
+* [2025-02-12, 16:02:03](https://news.ycombinator.com/item?id=43026668) - [Where are the best restaurants in my city? A statistical analysis](https://mattsayar.com/where-are-the-best-restaurants-in-my-city-a-statistical-analysis/)
 * [2025-02-12, 15:55:20](https://news.ycombinator.com/item?id=43026590) - [100 Most-Watched Software Engineering Talks of 2024](https://www.techtalksweekly.io/p/100-most-watched-software-engineering)
 * [2025-02-12, 15:26:52](https://news.ycombinator.com/item?id=43026302) - [Ignorance is bliss when you're drowning in information](https://www.theregister.com/2025/02/12/ignorance_really_is_bliss/)
 * [2025-02-12, 15:21:42](https://news.ycombinator.com/item?id=43026234) - [The dream of offshore rocket launches is finally blasting off](https://www.technologyreview.com/2025/02/11/1111467/the-dream-of-offshore-rocket-launches-is-finally-blasting-off/)
