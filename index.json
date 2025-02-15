@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-15, 05:51:24",
+      "https://news.ycombinator.com/item?id=43056242"
+    ],
+    [
+      "Why I quit: kernel developer Con Kolivas (2007)",
+      "https://web.archive.org/web/20110807150951/http://apcmag.com/why_i_quit_kernel_developer_con_kolivas.htm"
+    ]
+  ],
+  [
+    [
       "2025-02-15, 04:01:11",
       "https://news.ycombinator.com/item?id=43055797"
     ],
@@ -17,6 +27,16 @@
     [
       "The 20 year old PSP can now connect to WPA2 WiFi Networks",
       "https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/"
+    ]
+  ],
+  [
+    [
+      "2025-02-15, 02:43:31",
+      "https://news.ycombinator.com/item?id=43055393"
+    ],
+    [
+      "Gary Marcus discusses AI's technical problems",
+      "https://cacm.acm.org/opinion/not-on-the-best-path/"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "Integrating AI",
       "https://scott-fryxell.github.io/blog/AI-imagination/"
-    ]
-  ],
-  [
-    [
-      "2025-02-14, 23:34:41",
-      "https://news.ycombinator.com/item?id=43054244"
-    ],
-    [
-      "Show HN: VimLM – A Local, Offline Coding Assistant for Vim",
-      "https://github.com/JosefAlbers/VimLM"
     ]
   ],
   [
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2025-02-12, 21:30:40",
-      "https://news.ycombinator.com/item?id=43029968"
-    ],
-    [
-      "First hybrid quantum supercomputer Reimei activated in Japan",
-      "https://interestingengineering.com/science/worlds-first-hybrid-quantum-supercomputer-reimei-activated"
-    ]
-  ],
-  [
-    [
       "2025-02-12, 16:02:03",
       "https://news.ycombinator.com/item?id=43026668"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2025-02-11, 21:26:14",
-      "https://news.ycombinator.com/item?id=43018572"
-    ],
-    [
-      "Tumblr to join the Fediverse after WordPress migration completes",
-      "https://techcrunch.com/2025/02/11/tumblr-to-join-the-fediverse-after-wordpress-migration-completes/"
-    ]
-  ],
-  [
-    [
       "2025-02-11, 18:04:35",
       "https://news.ycombinator.com/item?id=43015975"
     ],
     [
       "Elements of Programming (2009)",
       "https://www.elementsofprogramming.com/"
+    ]
+  ],
+  [
+    [
+      "2025-02-11, 16:06:45",
+      "https://news.ycombinator.com/item?id=43014481"
+    ],
+    [
+      "Recurring checklists using Org Mode in Emacs",
+      "https://www.naiquev.in/recurring-checklists-using-org-mode-in-emacs.html"
     ]
   ]
 ]
