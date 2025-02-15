@@ -53,6 +53,7 @@
 * [2025-02-12, 09:54:14](https://news.ycombinator.com/item?id=43023698) - [Show HN: Letting LLMs Run a Debugger](https://github.com/mohsen1/llm-debugger-vscode-extension)
 * [2025-02-12, 09:43:48](https://news.ycombinator.com/item?id=43023634) - [Tiny Pointers](https://arxiv.org/abs/2111.12800)
 * [2025-02-12, 09:33:29](https://news.ycombinator.com/item?id=43023554) - [US and UK refuse to sign AI safety declaration at summit](https://arstechnica.com/ai/2025/02/us-and-uk-refuse-to-sign-ai-safety-declaration-at-summit/)
+* [2025-02-12, 09:28:08](https://news.ycombinator.com/item?id=43023527) - [It's a knowledge problem Or is it?](https://josvisser.substack.com/p/its-a-knowledge-problem-or-is-it)
 * [2025-02-12, 09:24:08](https://news.ycombinator.com/item?id=43023508) - [Smuggling arbitrary data through an emoji](https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/)
 * [2025-02-12, 09:17:02](https://news.ycombinator.com/item?id=43023464) - [Show HN: Mikey – No bot meeting notetaker for Windows](https://github.com/hotrod462/Mikey)
 * [2025-02-12, 08:58:01](https://news.ycombinator.com/item?id=43023338) - [Everything about Google Translate crashing React (and other web apps)](https://martijnhols.nl/blog/everything-about-google-translate-crashing-react)
