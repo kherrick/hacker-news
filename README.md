@@ -25,10 +25,10 @@
 * [2025-02-12, 15:05:17](https://news.ycombinator.com/item?id=43026071) - [Improved evaluation times with pre-resolved Nix store paths](https://determinate.systems/posts/resolved-store-paths/)
 * [2025-02-12, 10:43:02](https://news.ycombinator.com/item?id=43023991) - [Nping – ping, but with a graph or table view](https://github.com/hanshuaikang/Nping)
 * [2025-02-12, 09:54:14](https://news.ycombinator.com/item?id=43023698) - [Show HN: Letting LLMs Run a Debugger](https://github.com/mohsen1/llm-debugger-vscode-extension)
+* [2025-02-12, 06:54:48](https://news.ycombinator.com/item?id=43022603) - [Show HN: Skies-adsb 2.0 – my 3D plane-tracking web app](https://github.com/llopisdon/skies-adsb)
 * [2025-02-12, 05:00:42](https://news.ycombinator.com/item?id=43022059) - [Darcs, Friendly Version Control](https://darcsbook.acmelabs.space/)
 * [2025-02-12, 02:15:17](https://news.ycombinator.com/item?id=43021044) - [TL;DW: Too Long; Didn't Watch Distill YouTube Videos to the Relevant Information](https://tldw.tube/)
 * [2025-02-12, 00:00:28](https://news.ycombinator.com/item?id=43019975) - [Surprise Magma Chamber Growing Under Mediterranean Volcano](https://news.agu.org/press-release/surprise-magma-chamber-growing-under-mediterranean-volcano/)
-* [2025-02-11, 16:53:38](https://news.ycombinator.com/item?id=43015071) - [Goku Flow Based Video Generative Foundation Models](https://github.com/Saiyan-World/goku)
 * [2025-02-11, 16:06:45](https://news.ycombinator.com/item?id=43014481) - [Recurring checklists using Org Mode in Emacs](https://www.naiquev.in/recurring-checklists-using-org-mode-in-emacs.html)
 
 ## [Archives](archives/index.md)
