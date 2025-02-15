@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-15, 12:19:48](https://news.ycombinator.com/item?id=43057968) - [Can We Trust AI Benchmarks? A Review of Current Issues in AI Evaluation](https://arxiv.org/abs/2502.06559)
-* [2025-02-15, 12:06:01](https://news.ycombinator.com/item?id=43057907) - [Microsoft Study Finds Relying on AI Kills Your Critical Thinking Skills](https://gizmodo.com/microsoft-study-finds-relying-on-ai-kills-your-critical-thinking-skills-2000561788)
+* [2025-02-15, 12:06:01](https://news.ycombinator.com/item?id=43057907) - [Microsoft study finds relying on AI kills critical thinking skills](https://gizmodo.com/microsoft-study-finds-relying-on-ai-kills-your-critical-thinking-skills-2000561788)
 * [2025-02-15, 10:07:23](https://news.ycombinator.com/item?id=43057375) - [Show HN: Kreuzberg – Modern async Python library for document text extraction](https://github.com/Goldziher/kreuzberg)
 * [2025-02-15, 09:59:20](https://news.ycombinator.com/item?id=43057344) - [Jane Street's Figgie card game](https://www.figgie.com/)
 * [2025-02-15, 07:05:51](https://news.ycombinator.com/item?id=43056526) - [Bookshop.org launches Kindle alternative, sends e-book sales to local bookstores](https://www.usatoday.com/story/entertainment/books/2025/01/28/bookshop-org-ereader-ebook-app/77928209007/)
@@ -18,6 +18,7 @@
 * [2025-02-14, 18:29:59](https://news.ycombinator.com/item?id=43051465) - [A study on how turtles navigate using the Earth’s magnetic field](https://www.unc.edu/posts/2025/02/12/dancing-turtles-unlock-scientific-discovery/)
 * [2025-02-14, 15:24:05](https://news.ycombinator.com/item?id=43049251) - [The largest sofa you can move around a corner](https://www.quantamagazine.org/the-largest-sofa-you-can-move-around-a-corner-20250214/)
 * [2025-02-14, 13:23:23](https://news.ycombinator.com/item?id=43048027) - [Show HN: Transform your codebase into a single Markdown doc for feeding into AI](https://tesserato.web.app/posts/2025-02-12-CodeWeaver-launch/index.html)
+* [2025-02-14, 07:31:46](https://news.ycombinator.com/item?id=43045835) - [Anyone can push updates to the doge.gov website](https://www.404media.co/anyone-can-push-updates-to-the-doge-gov-website-2/)
 * [2025-02-13, 12:20:16](https://news.ycombinator.com/item?id=43035155) - [Tennis great Steffi Graf got bitten by pickleball's 'fun factor'](https://www.cnn.com/2025/02/13/sport/steffi-graf-pickleball-slam-3-tennis-spt-intl/index.html)
 * [2025-02-13, 04:34:09](https://news.ycombinator.com/item?id=43032697) - [TeX and Typst: Layout Models (2024)](https://laurmaedje.github.io/posts/layout-models/)
 * [2025-02-13, 00:05:48](https://news.ycombinator.com/item?id=43031228) - [Questioning the Criteria for Evaluating Non-Cryptographic Hash Functions](https://cacm.acm.org/practice/questioning-the-criteria-for-evaluating-non-cryptographic-hash-functions/)
@@ -28,7 +29,6 @@
 * [2025-02-12, 02:15:17](https://news.ycombinator.com/item?id=43021044) - [TL;DW: Too Long; Didn't Watch Distill YouTube Videos to the Relevant Information](https://tldw.tube/)
 * [2025-02-12, 01:34:45](https://news.ycombinator.com/item?id=43020756) - [Apache Iceberg now supports geospatial data types natively](https://wherobots.com/apache-iceberg-and-parquet-now-support-geo/)
 * [2025-02-11, 18:04:35](https://news.ycombinator.com/item?id=43015975) - [Elements of Programming (2009)](https://www.elementsofprogramming.com/)
-* [2025-02-11, 16:53:38](https://news.ycombinator.com/item?id=43015071) - [Goku Flow Based Video Generative Foundation Models](https://github.com/Saiyan-World/goku)
 * [2025-02-11, 16:06:45](https://news.ycombinator.com/item?id=43014481) - [Recurring checklists using Org Mode in Emacs](https://www.naiquev.in/recurring-checklists-using-org-mode-in-emacs.html)
 
 ## [Archives](archives/index.md)
