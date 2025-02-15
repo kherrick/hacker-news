@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-15](index.md)
 
+* [2025-02-15, 08:15:59](https://news.ycombinator.com/item?id=43056831) - [If you believe in \"Artificial Intelligence\", take five minutes to ask it](https://svpow.com/2025/02/14/if-you-believe-in-artificial-intelligence-take-five-minutes-to-ask-it-about-stuff-you-know-well/)
+* [2025-02-15, 07:50:09](https://news.ycombinator.com/item?id=43056704) - [A 'death cult' on the run: The Bay Area fringe group terrorizing America](https://www.sfgate.com/bayarea/article/new-details-bay-area-zizians-death-cult-20165754.php)
 * [2025-02-15, 07:05:51](https://news.ycombinator.com/item?id=43056526) - [Bookshop.org launches Kindle alternative, sends e-book sales to local bookstores](https://www.usatoday.com/story/entertainment/books/2025/01/28/bookshop-org-ereader-ebook-app/77928209007/)
 * [2025-02-15, 06:59:23](https://news.ycombinator.com/item?id=43056495) - [Ask HN: What country would you like to relocate to and why?](https://news.ycombinator.com/item?id=43056495)
 * [2025-02-15, 06:04:12](https://news.ycombinator.com/item?id=43056286) - [Court rulings referenced in condo dispute were AI generated, 'do not exist,'](https://www.ctvnews.ca/vancouver/article/court-rulings-referenced-in-bc-condo-dispute-were-ai-generated-do-not-exist-tribunal-finds/)
