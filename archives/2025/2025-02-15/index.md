@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-15](index.md)
 
+* [2025-02-15, 16:11:29](https://news.ycombinator.com/item?id=43059579) - [Deepseek R1 Distill 8B Q40 on 4 x Raspberry Pi 5, 6.43 tok/s (eval 11.68 tok/s)](https://github.com/b4rtaz/distributed-llama/discussions/162)
 * [2025-02-15, 15:35:02](https://news.ycombinator.com/item?id=43059215) - [Nintendo Obtains New Anti-Palworld Patent and Seeks Even More](https://gamerant.com/nintendo-anti-palworld-patents-uspto-infringement-lawsuit-implications/)
 * [2025-02-15, 15:33:18](https://news.ycombinator.com/item?id=43059200) - [Argentinian president backs away from LIBRA memecoin after 90% crash](https://www.dlnews.com/articles/markets/milei-backs-away-from-libra-memecoin-after-90-crash-not-aware-of-the-details/)
 * [2025-02-15, 15:06:30](https://news.ycombinator.com/item?id=43058997) - [Carbon capture more costly than switching to renewables, researchers find](https://techxplore.com/news/2025-02-carbon-capture-renewables.html)
