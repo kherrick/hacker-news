@@ -2,7 +2,6 @@
 
 * [2025-02-15, 07:05:51](https://news.ycombinator.com/item?id=43056526) - [Bookshop.org launches Kindle alternative, sends e-book sales to local bookstores](https://www.usatoday.com/story/entertainment/books/2025/01/28/bookshop-org-ereader-ebook-app/77928209007/)
 * [2025-02-15, 05:51:24](https://news.ycombinator.com/item?id=43056242) - [Why I quit: kernel developer Con Kolivas (2007)](https://web.archive.org/web/20110807150951/http://apcmag.com/why_i_quit_kernel_developer_con_kolivas.htm)
-* [2025-02-15, 04:01:11](https://news.ycombinator.com/item?id=43055797) - [PHP 8.4.4 Released](https://www.php.net/releases/8_4_4.php)
 * [2025-02-15, 03:31:56](https://news.ycombinator.com/item?id=43055671) - [The 20 year old PSP can now connect to WPA2 WiFi Networks](https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/)
 * [2025-02-15, 02:43:31](https://news.ycombinator.com/item?id=43055393) - [Gary Marcus discusses AI's technical problems](https://cacm.acm.org/opinion/not-on-the-best-path/)
 * [2025-02-15, 01:32:05](https://news.ycombinator.com/item?id=43054963) - [Q2DOS – Quake 2 backported to MS-DOS](https://dk.toastednet.org/Q2DOS/)
@@ -25,6 +24,7 @@
 * [2025-02-14, 13:23:23](https://news.ycombinator.com/item?id=43048027) - [Show HN: Transform your codebase into a single Markdown doc for feeding into AI](https://tesserato.web.app/posts/2025-02-12-CodeWeaver-launch/index.html)
 * [2025-02-13, 04:34:09](https://news.ycombinator.com/item?id=43032697) - [TeX and Typst: Layout Models (2024)](https://laurmaedje.github.io/posts/layout-models/)
 * [2025-02-13, 00:05:48](https://news.ycombinator.com/item?id=43031228) - [Questioning the Criteria for Evaluating Non-Cryptographic Hash Functions](https://cacm.acm.org/practice/questioning-the-criteria-for-evaluating-non-cryptographic-hash-functions/)
+* [2025-02-12, 10:43:02](https://news.ycombinator.com/item?id=43023991) - [Nping – ping, but with a graph or table view](https://github.com/hanshuaikang/Nping)
 * [2025-02-12, 09:59:03](https://news.ycombinator.com/item?id=43023735) - [I Paid $70 for an AI Boyfriend. It Was So Worth It](https://www.harpersbazaar.com/culture/features/a63510531/ai-boyfriend-emotional-labor-explained-essay/)
 * [2025-02-12, 08:22:27](https://news.ycombinator.com/item?id=43023101) - [Intensional Joy (a concatenative account of internal structure)](https://pithlessly.github.io/intensionaljoy.html)
 * [2025-02-12, 02:15:17](https://news.ycombinator.com/item?id=43021044) - [TL;DW: Too Long; Didn't Watch Distill YouTube Videos to the Relevant Information](https://tldw.tube/)
