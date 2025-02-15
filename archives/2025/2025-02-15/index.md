@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-02-15](index.md)
 
 * [2025-02-15, 19:39:38](https://news.ycombinator.com/item?id=43061554) - [Leave Billionaires Alone](https://m-onz.net/leave-billionaires-alone)
+* [2025-02-15, 19:34:29](https://news.ycombinator.com/item?id=43061498) - [My Life in Weeks](https://weeks.ginatrapani.org/)
+* [2025-02-15, 19:32:16](https://news.ycombinator.com/item?id=43061482) - [New SF public health chief was part of McKinsey opioid-marketing operation](https://sfstandard.com/2025/02/14/san-francisco-department-public-health-daniel-tsai-opioids-mckinsey/)
 * [2025-02-15, 19:32:04](https://news.ycombinator.com/item?id=43061481) - [US wants to un-fire nuclear safety workers can't figure out how to reach them](https://www.nbcnews.com/politics/national-security/trump-administration-wants-un-fire-nuclear-safety-workers-cant-figure-rcna192345)
 * [2025-02-15, 19:00:38](https://news.ycombinator.com/item?id=43061183) - [Schemesh: Fusion between Unix shell and Lisp REPL](https://github.com/cosmos72/schemesh)
 * [2025-02-15, 18:59:39](https://news.ycombinator.com/item?id=43061173) - [Multiple Russian Threat Actors Targeting Microsoft Device Code Authentication](https://www.volexity.com/blog/2025/02/13/multiple-russian-threat-actors-targeting-microsoft-device-code-authentication/)
