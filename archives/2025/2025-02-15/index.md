@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-15](index.md)
 
 * [2025-02-15, 20:38:35](https://news.ycombinator.com/item?id=43062098) - [Is the ArXiv safe from the current US Government attacks?](https://mathstodon.xyz/@MartinEscardo/114009071233958003)
+* [2025-02-15, 20:24:13](https://news.ycombinator.com/item?id=43061977) - [NASA has a list of 10 rules for software development](https://www.cs.otago.ac.nz/cosc345/resources/nasa-10-rules.htm)
 * [2025-02-15, 19:39:38](https://news.ycombinator.com/item?id=43061554) - [Leave Billionaires Alone](https://m-onz.net/leave-billionaires-alone)
 * [2025-02-15, 19:34:29](https://news.ycombinator.com/item?id=43061498) - [My Life in Weeks](https://weeks.ginatrapani.org/)
 * [2025-02-15, 19:32:16](https://news.ycombinator.com/item?id=43061482) - [New SF public health chief was part of McKinsey opioid-marketing operation](https://sfstandard.com/2025/02/14/san-francisco-department-public-health-daniel-tsai-opioids-mckinsey/)
@@ -17,6 +18,7 @@
 * [2025-02-15, 18:13:19](https://news.ycombinator.com/item?id=43060682) - [U.S. conditionally approves vaccine to protect poultry from avian flu](https://www.science.org/content/article/u-s-conditionally-approves-vaccine-protect-poultry-avian-flu)
 * [2025-02-15, 18:10:49](https://news.ycombinator.com/item?id=43060655) - [Electronic Frontier Foundation](https://www.eff.org/)
 * [2025-02-15, 18:09:28](https://news.ycombinator.com/item?id=43060644) - [Why Aren't We Losing Our Minds over the Plastic in Our Brains?](https://www.scientificamerican.com/article/why-arent-we-losing-our-minds-over-the-plastic-in-our-brains/)
+* [2025-02-15, 18:08:04](https://news.ycombinator.com/item?id=43060636) - [The Big TDD Misunderstanding (2022)](https://linkedrecords.com/the-big-tdd-misunderstanding-8e22c2f1fc21)
 * [2025-02-15, 18:05:16](https://news.ycombinator.com/item?id=43060610) - [Trot](https://robinrendle.com/notes/trot/)
 * [2025-02-15, 18:04:12](https://news.ycombinator.com/item?id=43060603) - [Jill – a functional programming language for the Nand2Tetris platform](https://github.com/mpatajac/jillc)
 * [2025-02-15, 18:02:17](https://news.ycombinator.com/item?id=43060587) - [Alzheimer's biomarkers now visible up to a decade ahead of symptoms](https://newatlas.com/brain/alzheimers-dementia/alzheimers-biomarkers-visible-decade-before-symptoms/)

@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-15, 20:38:35](https://news.ycombinator.com/item?id=43062098) - [Is the ArXiv safe from the current US Government attacks?](https://mathstodon.xyz/@MartinEscardo/114009071233958003)
+* [2025-02-15, 20:24:13](https://news.ycombinator.com/item?id=43061977) - [NASA has a list of 10 rules for software development](https://www.cs.otago.ac.nz/cosc345/resources/nasa-10-rules.htm)
 * [2025-02-15, 19:34:29](https://news.ycombinator.com/item?id=43061498) - [My Life in Weeks](https://weeks.ginatrapani.org/)
 * [2025-02-15, 19:32:16](https://news.ycombinator.com/item?id=43061482) - [New SF public health chief was part of McKinsey opioid-marketing operation](https://sfstandard.com/2025/02/14/san-francisco-department-public-health-daniel-tsai-opioids-mckinsey/)
 * [2025-02-15, 19:26:26](https://news.ycombinator.com/item?id=43061423) - [OmniParser V2 – A simple screen parsing tool towards pure vision based GUI agent](https://github.com/microsoft/OmniParser)
@@ -8,7 +8,7 @@
 * [2025-02-15, 18:59:39](https://news.ycombinator.com/item?id=43061173) - [Multiple Russian Threat Actors Targeting Microsoft Device Code Authentication](https://www.volexity.com/blog/2025/02/13/multiple-russian-threat-actors-targeting-microsoft-device-code-authentication/)
 * [2025-02-15, 18:26:49](https://news.ycombinator.com/item?id=43060818) - [PAROL6: 3D-printed desktop robotic arm](https://source-robotics.github.io/PAROL-docs/)
 * [2025-02-15, 18:21:10](https://news.ycombinator.com/item?id=43060769) - [Basketball has evolved into a game of calculated decision-making](https://nabraj.com/blog/basketball-solved-sport/)
-* [2025-02-15, 18:05:16](https://news.ycombinator.com/item?id=43060610) - [Trot](https://robinrendle.com/notes/trot/)
+* [2025-02-15, 18:08:04](https://news.ycombinator.com/item?id=43060636) - [The Big TDD Misunderstanding (2022)](https://linkedrecords.com/the-big-tdd-misunderstanding-8e22c2f1fc21)
 * [2025-02-15, 18:04:12](https://news.ycombinator.com/item?id=43060603) - [Jill – a functional programming language for the Nand2Tetris platform](https://github.com/mpatajac/jillc)
 * [2025-02-15, 18:02:17](https://news.ycombinator.com/item?id=43060587) - [Alzheimer's biomarkers now visible up to a decade ahead of symptoms](https://newatlas.com/brain/alzheimers-dementia/alzheimers-biomarkers-visible-decade-before-symptoms/)
 * [2025-02-15, 16:37:04](https://news.ycombinator.com/item?id=43059826) - [More Solar and Battery Storage Added to TX Grid Than Other Power Src Last Year](https://insideclimatenews.org/news/10022025/solar-battery-storage-texas-grid/)
@@ -28,7 +28,7 @@
 * [2025-02-12, 09:28:08](https://news.ycombinator.com/item?id=43023527) - [It's a knowledge problem Or is it?](https://josvisser.substack.com/p/its-a-knowledge-problem-or-is-it)
 * [2025-02-12, 05:00:42](https://news.ycombinator.com/item?id=43022059) - [Darcs, Friendly Version Control](https://darcsbook.acmelabs.space/)
 * [2025-02-12, 02:15:17](https://news.ycombinator.com/item?id=43021044) - [TL;DW: Too Long; Didn't Watch Distill YouTube Videos to the Relevant Information](https://tldw.tube/)
-* [2025-02-12, 00:00:28](https://news.ycombinator.com/item?id=43019975) - [Surprise Magma Chamber Growing Under Mediterranean Volcano](https://news.agu.org/press-release/surprise-magma-chamber-growing-under-mediterranean-volcano/)
+* [2025-02-12, 00:00:28](https://news.ycombinator.com/item?id=43019975) - [Surprise Magma Chamber Growing Under Mediterranean Volcano (2023)](https://news.agu.org/press-release/surprise-magma-chamber-growing-under-mediterranean-volcano/)
 * [2025-02-11, 21:39:41](https://news.ycombinator.com/item?id=43018705) - [Turning Down Upspin Infrastructure](https://groups.google.com/g/upspin/c/Whma_O-iexM/m/lSConHZ5DwAJ)
 
 ## [Archives](archives/index.md)
