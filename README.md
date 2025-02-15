@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-15, 08:15:59](https://news.ycombinator.com/item?id=43056831) - [If you believe in \"Artificial Intelligence\", take five minutes to ask it](https://svpow.com/2025/02/14/if-you-believe-in-artificial-intelligence-take-five-minutes-to-ask-it-about-stuff-you-know-well/)
-* [2025-02-15, 07:50:09](https://news.ycombinator.com/item?id=43056704) - [A 'death cult' on the run: The Bay Area fringe group terrorizing America](https://www.sfgate.com/bayarea/article/new-details-bay-area-zizians-death-cult-20165754.php)
 * [2025-02-15, 07:05:51](https://news.ycombinator.com/item?id=43056526) - [Bookshop.org launches Kindle alternative, sends e-book sales to local bookstores](https://www.usatoday.com/story/entertainment/books/2025/01/28/bookshop-org-ereader-ebook-app/77928209007/)
 * [2025-02-15, 03:31:56](https://news.ycombinator.com/item?id=43055671) - [The 20 year old PSP can now connect to WPA2 WiFi Networks](https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/)
 * [2025-02-15, 02:43:31](https://news.ycombinator.com/item?id=43055393) - [Gary Marcus discusses AI's technical problems](https://cacm.acm.org/opinion/not-on-the-best-path/)
@@ -20,6 +19,7 @@
 * [2025-02-14, 16:18:30](https://news.ycombinator.com/item?id=43049959) - [Detecting AI agent use and abuse](https://stytch.com/blog/detecting-ai-agent-use-abuse/)
 * [2025-02-14, 15:24:05](https://news.ycombinator.com/item?id=43049251) - [The largest sofa you can move around a corner](https://www.quantamagazine.org/the-largest-sofa-you-can-move-around-a-corner-20250214/)
 * [2025-02-14, 13:23:23](https://news.ycombinator.com/item?id=43048027) - [Show HN: Transform your codebase into a single Markdown doc for feeding into AI](https://tesserato.web.app/posts/2025-02-12-CodeWeaver-launch/index.html)
+* [2025-02-14, 12:45:05](https://news.ycombinator.com/item?id=43047792) - [AI is stifling new tech adoption?](https://vale.rocks/posts/ai-is-stifling-tech-adoption)
 * [2025-02-14, 07:31:46](https://news.ycombinator.com/item?id=43045835) - [Anyone can push updates to the doge.gov website](https://www.404media.co/anyone-can-push-updates-to-the-doge-gov-website-2/)
 * [2025-02-13, 04:34:09](https://news.ycombinator.com/item?id=43032697) - [TeX and Typst: Layout Models (2024)](https://laurmaedje.github.io/posts/layout-models/)
 * [2025-02-13, 00:05:48](https://news.ycombinator.com/item?id=43031228) - [Questioning the Criteria for Evaluating Non-Cryptographic Hash Functions](https://cacm.acm.org/practice/questioning-the-criteria-for-evaluating-non-cryptographic-hash-functions/)
