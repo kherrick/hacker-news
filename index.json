@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2025-02-14, 23:47:19",
-      "https://news.ycombinator.com/item?id=43054340"
-    ],
-    [
-      "Integrating AI",
-      "https://scott-fryxell.github.io/blog/AI-imagination/"
-    ]
-  ],
-  [
-    [
       "2025-02-14, 23:10:36",
       "https://news.ycombinator.com/item?id=43054069"
     ],
@@ -157,16 +147,6 @@
     [
       "The Iconic 3DBenchy Enters the Public Domain",
       "https://www.nti-group.com/home/information/news/3dbenchy/"
-    ]
-  ],
-  [
-    [
-      "2025-02-14, 19:16:35",
-      "https://news.ycombinator.com/item?id=43051961"
-    ],
-    [
-      "Sunsetting Create React App",
-      "https://react.dev/blog/2025/02/14/sunsetting-create-react-app"
     ]
   ],
   [
@@ -251,12 +231,32 @@
   ],
   [
     [
+      "2025-02-12, 16:02:03",
+      "https://news.ycombinator.com/item?id=43026668"
+    ],
+    [
+      "Where are the best restaurants in my city? A statistical analysis",
+      "https://mattsayar.com/where-are-the-best-restaurants-in-my-city-a-statistical-analysis/"
+    ]
+  ],
+  [
+    [
       "2025-02-12, 10:43:02",
       "https://news.ycombinator.com/item?id=43023991"
     ],
     [
       "Nping – ping, but with a graph or table view",
       "https://github.com/hanshuaikang/Nping"
+    ]
+  ],
+  [
+    [
+      "2025-02-12, 09:54:14",
+      "https://news.ycombinator.com/item?id=43023698"
+    ],
+    [
+      "Show HN: Letting LLMs Run a Debugger",
+      "https://github.com/mohsen1/llm-debugger-vscode-extension"
     ]
   ],
   [
