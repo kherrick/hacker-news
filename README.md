@@ -22,7 +22,7 @@
 * [2025-02-14, 21:39:29](https://news.ycombinator.com/item?id=43053350) - [The Iconic 3DBenchy Enters the Public Domain](https://www.nti-group.com/home/information/news/3dbenchy/)
 * [2025-02-14, 15:24:05](https://news.ycombinator.com/item?id=43049251) - [The largest sofa you can move around a corner](https://www.quantamagazine.org/the-largest-sofa-you-can-move-around-a-corner-20250214/)
 * [2025-02-13, 12:20:16](https://news.ycombinator.com/item?id=43035155) - [Tennis great Steffi Graf got bitten by pickleball's 'fun factor'](https://www.cnn.com/2025/02/13/sport/steffi-graf-pickleball-slam-3-tennis-spt-intl/index.html)
-* [2025-02-12, 15:05:17](https://news.ycombinator.com/item?id=43026071) - [Improved evaluation times with pre-resolved Nix store paths](https://determinate.systems/posts/resolved-store-paths/)
+* [2025-02-13, 04:34:09](https://news.ycombinator.com/item?id=43032697) - [TeX and Typst: Layout Models (2024)](https://laurmaedje.github.io/posts/layout-models/)
 * [2025-02-12, 10:43:51](https://news.ycombinator.com/item?id=43023996) - [Rust Memory Management Explained](https://www.infoworld.com/article/3815535/rust-memory-management-explained.html)
 * [2025-02-12, 10:43:02](https://news.ycombinator.com/item?id=43023991) - [Nping – ping, but with a graph or table view](https://github.com/hanshuaikang/Nping)
 * [2025-02-12, 09:54:14](https://news.ycombinator.com/item?id=43023698) - [Show HN: Letting LLMs Run a Debugger](https://github.com/mohsen1/llm-debugger-vscode-extension)
