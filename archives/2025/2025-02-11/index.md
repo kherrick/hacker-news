@@ -12,6 +12,7 @@
 * [2025-02-11, 22:22:37](https://news.ycombinator.com/item?id=43019136) - [Show HN: Mapping the Unix Magic Poster – An Interactive Annotation Project](https://drio.github.io/unixmagic/)
 * [2025-02-11, 22:08:18](https://news.ycombinator.com/item?id=43018989) - [BYD to offer Tesla-like self-driving tech in all models for free](https://www.asiafinancial.com/byd-to-offer-tesla-like-self-driving-tech-in-all-models-for-free)
 * [2025-02-11, 21:48:47](https://news.ycombinator.com/item?id=43018790) - [Letters from BBC Television Licensing](http://www.bbctvlicence.com/)
+* [2025-02-11, 21:39:41](https://news.ycombinator.com/item?id=43018705) - [Turning Down Upspin Infrastructure](https://groups.google.com/g/upspin/c/Whma_O-iexM/m/lSConHZ5DwAJ)
 * [2025-02-11, 21:31:43](https://news.ycombinator.com/item?id=43018643) - [NOAA's public weather data powers the local forecasts on your phone and TV](https://theconversation.com/noaas-vast-public-weather-data-powers-the-local-forecasts-on-your-phone-and-tv-a-private-company-alone-couldnt-match-it-249451)
 * [2025-02-11, 21:26:14](https://news.ycombinator.com/item?id=43018572) - [Tumblr to join the Fediverse after WordPress migration completes](https://techcrunch.com/2025/02/11/tumblr-to-join-the-fediverse-after-wordpress-migration-completes/)
 * [2025-02-11, 21:02:12](https://news.ycombinator.com/item?id=43018312) - [The Butter Thesis (2019)](https://nickgrossman.xyz/the-butter-thesis)
