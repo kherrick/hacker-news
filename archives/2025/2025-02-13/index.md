@@ -68,3 +68,4 @@
 * [2025-02-13, 01:24:31](https://news.ycombinator.com/item?id=43031740) - [How to professionally say](https://github.com/AkashRajpurohit/howtoprofessionallysay)
 * [2025-02-13, 00:55:26](https://news.ycombinator.com/item?id=43031545) - [YouTube's New Hue](https://design.google/library/youtube-new-red-color)
 * [2025-02-13, 00:24:08](https://news.ycombinator.com/item?id=43031372) - [Why cryptography is not based on NP-complete problems](https://blintzbase.com/posts/cryptography-is-not-based-on-np-hard-problems/)
+* [2025-02-13, 00:05:48](https://news.ycombinator.com/item?id=43031228) - [Questioning the Criteria for Evaluating Non-Cryptographic Hash Functions](https://cacm.acm.org/practice/questioning-the-criteria-for-evaluating-non-cryptographic-hash-functions/)
