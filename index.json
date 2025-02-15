@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-15, 23:26:18",
+      "https://news.ycombinator.com/item?id=43063512"
+    ],
+    [
+      "Dismissed Nuclear Bomb Specialists Recalled by Energy Department",
+      "https://www.bloomberg.com/news/articles/2025-02-14/dismissed-nuclear-bomb-specialists-recalled-by-energy-department"
+    ]
+  ],
+  [
+    [
       "2025-02-15, 22:48:56",
       "https://news.ycombinator.com/item?id=43063239"
     ],
@@ -27,16 +37,6 @@
     [
       "Watt The Fox?",
       "https://h.43z.one/blog/2025-02-12/"
-    ]
-  ],
-  [
-    [
-      "2025-02-15, 21:20:34",
-      "https://news.ycombinator.com/item?id=43062457"
-    ],
-    [
-      "The European Vat Is Not a Discriminatory Tax Against US Exports",
-      "https://taxfoundation.org/blog/trump-reciprocal-tariffs-eu-vat-discriminatory/"
     ]
   ],
   [
@@ -77,6 +77,16 @@
     [
       "New SF public health chief was part of McKinsey opioid-marketing operation",
       "https://sfstandard.com/2025/02/14/san-francisco-department-public-health-daniel-tsai-opioids-mckinsey/"
+    ]
+  ],
+  [
+    [
+      "2025-02-15, 19:26:26",
+      "https://news.ycombinator.com/item?id=43061423"
+    ],
+    [
+      "OmniParser V2 – A simple screen parsing tool towards pure vision based GUI agent",
+      "https://github.com/microsoft/OmniParser"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Sri Lanka scrambles to restore power after monkey causes islandwide outage",
       "https://www.reuters.com/world/asia-pacific/sri-lanka-scrambles-restore-power-after-monkey-causes-islandwide-outage-2025-02-13/"
-    ]
-  ],
-  [
-    [
-      "2025-02-12, 09:54:14",
-      "https://news.ycombinator.com/item?id=43023698"
-    ],
-    [
-      "Show HN: Letting LLMs Run a Debugger",
-      "https://github.com/mohsen1/llm-debugger-vscode-extension"
     ]
   ],
   [
