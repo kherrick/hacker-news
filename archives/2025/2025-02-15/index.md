@@ -6,8 +6,11 @@
 
 * [2025-02-15, 13:30:45](https://news.ycombinator.com/item?id=43058346) - [Gazeta Wyborcza, Poland's largest newspaper quits X, now on Bluesky](https://bsky.app/profile/blueskywins.bsky.social/post/3li7rxl3o2c2t)
 * [2025-02-15, 13:24:12](https://news.ycombinator.com/item?id=43058311) - [Twelve months at 1.5 °C signals earlier than expected breach of Paris Agreement](https://www.nature.com/articles/s41558-025-02247-8)
+* [2025-02-15, 13:02:46](https://news.ycombinator.com/item?id=43058198) - [What situations in classical physics are non-deterministic?](https://physics.stackexchange.com/questions/403574/what-situations-in-classical-physics-are-non-deterministic)
 * [2025-02-15, 12:19:48](https://news.ycombinator.com/item?id=43057968) - [Can We Trust AI Benchmarks? A Review of Current Issues in AI Evaluation](https://arxiv.org/abs/2502.06559)
 * [2025-02-15, 12:11:06](https://news.ycombinator.com/item?id=43057930) - [Karol Herbst Steps Down as Nouveau Maintainer Due to Linux's Toxic Environment](https://www.phoronix.com/news/Karol-Herbst-Nouveau-No)
+* [2025-02-15, 12:10:53](https://news.ycombinator.com/item?id=43057929) - [AI Mistakes Are Different from Human Mistakes](https://www.schneier.com/blog/archives/2025/01/ai-mistakes-are-very-different-from-human-mistakes.html)
+* [2025-02-15, 12:06:01](https://news.ycombinator.com/item?id=43057907) - [The Impact of Generative AI on Critical Thinking [pdf]](https://www.microsoft.com/en-us/research/uploads/prod/2025/01/lee_2025_ai_critical_thinking_survey.pdf)
 * [2025-02-15, 12:06:01](https://news.ycombinator.com/item?id=43057907) - [Microsoft Study Finds Relying on AI Kills Your Critical Thinking Skills](https://gizmodo.com/microsoft-study-finds-relying-on-ai-kills-your-critical-thinking-skills-2000561788)
 * [2025-02-15, 11:16:22](https://news.ycombinator.com/item?id=43057687) - [Nouveau kernel maintainer steps down](https://lists.freedesktop.org/archives/nouveau/2025-February/046677.html)
 * [2025-02-15, 10:07:23](https://news.ycombinator.com/item?id=43057375) - [Show HN: Kreuzberg – Modern async Python library for document text extraction](https://github.com/Goldziher/kreuzberg)
