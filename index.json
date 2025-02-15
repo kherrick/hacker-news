@@ -1,26 +1,6 @@
 [
   [
     [
-      "2025-02-15, 17:01:06",
-      "https://news.ycombinator.com/item?id=43060062"
-    ],
-    [
-      "Sabine Hossenfelder – I was asked to keep this confidential [video]",
-      "https://www.youtube.com/watch?v=shFUDPqVmTg"
-    ]
-  ],
-  [
-    [
-      "2025-02-15, 16:37:04",
-      "https://news.ycombinator.com/item?id=43059826"
-    ],
-    [
-      "More Solar and Battery Storage Added to TX Grid Than Other Power Src Last Year",
-      "https://insideclimatenews.org/news/10022025/solar-battery-storage-texas-grid/"
-    ]
-  ],
-  [
-    [
       "2025-02-15, 16:11:29",
       "https://news.ycombinator.com/item?id=43059579"
     ],
@@ -211,6 +191,16 @@
   ],
   [
     [
+      "2025-02-14, 13:23:23",
+      "https://news.ycombinator.com/item?id=43048027"
+    ],
+    [
+      "Show HN: Transform your codebase into a single Markdown doc for feeding into AI",
+      "https://tesserato.web.app/posts/2025-02-12-CodeWeaver-launch/index.html"
+    ]
+  ],
+  [
+    [
       "2025-02-13, 04:34:09",
       "https://news.ycombinator.com/item?id=43032697"
     ],
@@ -247,6 +237,16 @@
     [
       "Show HN: Letting LLMs Run a Debugger",
       "https://github.com/mohsen1/llm-debugger-vscode-extension"
+    ]
+  ],
+  [
+    [
+      "2025-02-12, 06:54:48",
+      "https://news.ycombinator.com/item?id=43022603"
+    ],
+    [
+      "Show HN: Skies-adsb 2.0 – my 3D plane-tracking web app",
+      "https://github.com/llopisdon/skies-adsb"
     ]
   ],
   [
