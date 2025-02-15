@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-15](index.md)
 
+* [2025-02-15, 14:00:00](https://news.ycombinator.com/item?id=43058522) - [Diablo hackers uncovered a speedrun scandal](https://arstechnica.com/gaming/2025/02/the-diablo-hackers-that-debunked-a-record-speedrun/)
 * [2025-02-15, 13:30:45](https://news.ycombinator.com/item?id=43058346) - [Gazeta Wyborcza, Poland's largest newspaper quits X, now on Bluesky](https://bsky.app/profile/blueskywins.bsky.social/post/3li7rxl3o2c2t)
 * [2025-02-15, 13:24:12](https://news.ycombinator.com/item?id=43058311) - [Twelve months at 1.5 °C signals earlier than expected breach of Paris Agreement](https://www.nature.com/articles/s41558-025-02247-8)
 * [2025-02-15, 13:02:46](https://news.ycombinator.com/item?id=43058198) - [What situations in classical physics are non-deterministic?](https://physics.stackexchange.com/questions/403574/what-situations-in-classical-physics-are-non-deterministic)
