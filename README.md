@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-15, 11:16:22](https://news.ycombinator.com/item?id=43057687) - [Nouveau kernel maintainer steps down](https://lists.freedesktop.org/archives/nouveau/2025-February/046677.html)
 * [2025-02-15, 10:07:23](https://news.ycombinator.com/item?id=43057375) - [Show HN: Kreuzberg – Modern async Python library for document text extraction](https://github.com/Goldziher/kreuzberg)
 * [2025-02-15, 09:59:20](https://news.ycombinator.com/item?id=43057344) - [Jane Street's Figgie card game](https://www.figgie.com/)
 * [2025-02-15, 09:07:23](https://news.ycombinator.com/item?id=43057108) - [Airbnb CEO says it's still too early for AI trip planning](https://techcrunch.com/2025/02/14/airbnb-ceo-says-its-still-too-early-for-ai-trip-planning/)
@@ -20,6 +19,7 @@
 * [2025-02-14, 16:18:30](https://news.ycombinator.com/item?id=43049959) - [Detecting AI agent use and abuse](https://stytch.com/blog/detecting-ai-agent-use-abuse/)
 * [2025-02-14, 15:24:05](https://news.ycombinator.com/item?id=43049251) - [The largest sofa you can move around a corner](https://www.quantamagazine.org/the-largest-sofa-you-can-move-around-a-corner-20250214/)
 * [2025-02-14, 13:23:23](https://news.ycombinator.com/item?id=43048027) - [Show HN: Transform your codebase into a single Markdown doc for feeding into AI](https://tesserato.web.app/posts/2025-02-12-CodeWeaver-launch/index.html)
+* [2025-02-14, 07:31:46](https://news.ycombinator.com/item?id=43045835) - [Anyone can push updates to the doge.gov website](https://www.404media.co/anyone-can-push-updates-to-the-doge-gov-website-2/)
 * [2025-02-13, 04:34:09](https://news.ycombinator.com/item?id=43032697) - [TeX and Typst: Layout Models (2024)](https://laurmaedje.github.io/posts/layout-models/)
 * [2025-02-13, 00:05:48](https://news.ycombinator.com/item?id=43031228) - [Questioning the Criteria for Evaluating Non-Cryptographic Hash Functions](https://cacm.acm.org/practice/questioning-the-criteria-for-evaluating-non-cryptographic-hash-functions/)
 * [2025-02-12, 10:43:02](https://news.ycombinator.com/item?id=43023991) - [Nping – ping, but with a graph or table view](https://github.com/hanshuaikang/Nping)
