@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-02-15, 18:21:10",
-      "https://news.ycombinator.com/item?id=43060769"
-    ],
-    [
-      "Basketball Is a Solved Sport",
-      "https://nabraj.com/blog/basketball-solved-sport/"
-    ]
-  ],
-  [
-    [
       "2025-02-15, 18:13:19",
       "https://news.ycombinator.com/item?id=43060682"
     ],
@@ -27,6 +17,16 @@
     [
       "Why Aren't We Losing Our Minds over the Plastic in Our Brains?",
       "https://www.scientificamerican.com/article/why-arent-we-losing-our-minds-over-the-plastic-in-our-brains/"
+    ]
+  ],
+  [
+    [
+      "2025-02-15, 18:04:12",
+      "https://news.ycombinator.com/item?id=43060603"
+    ],
+    [
+      "Jill – a functional programming language for the Nand2Tetris platform",
+      "https://github.com/mpatajac/jillc"
     ]
   ],
   [
