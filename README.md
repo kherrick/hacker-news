@@ -9,7 +9,6 @@
 * [2025-02-15, 22:48:56](https://news.ycombinator.com/item?id=43063239) - [Create a QubesOS Gaming HVM with GPU PCI passthrough (2023)](https://forum.qubes-os.org/t/create-a-gaming-hvm/19000)
 * [2025-02-15, 22:39:19](https://news.ycombinator.com/item?id=43063167) - [Jellyfin: The Free Software Media System](https://jellyfin.org/)
 * [2025-02-15, 21:32:13](https://news.ycombinator.com/item?id=43062546) - [Watt The Fox?](https://h.43z.one/blog/2025-02-12/)
-* [2025-02-15, 21:18:53](https://news.ycombinator.com/item?id=43062436) - [The True Costs of Being on YouTube](https://carlalallimusic.substack.com/p/the-true-costs-of-being-on-youtube)
 * [2025-02-15, 20:24:13](https://news.ycombinator.com/item?id=43061977) - [NASA has a list of 10 rules for software development](https://www.cs.otago.ac.nz/cosc345/resources/nasa-10-rules.htm)
 * [2025-02-15, 20:07:39](https://news.ycombinator.com/item?id=43061827) - [Perplexity Deep Research](https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research)
 * [2025-02-15, 19:34:29](https://news.ycombinator.com/item?id=43061498) - [My Life in Weeks](https://weeks.ginatrapani.org/)
@@ -30,6 +29,7 @@
 * [2025-02-12, 14:58:52](https://news.ycombinator.com/item?id=43026001) - [Spanish 'running of the bulls' festival reveals crowd movements can be predicted](https://phys.org/news/2025-02-spanish-bulls-festival-reveals-crowd.html)
 * [2025-02-12, 14:43:12](https://news.ycombinator.com/item?id=43025857) - [The art of calling out room dynamics (2024)](https://leadership.garden/calling-out-room-dynamics/)
 * [2025-02-12, 13:26:12](https://news.ycombinator.com/item?id=43025176) - [Writing a Gimp 3.0 Plugin – Resources and Notes](https://schoenitzer.de/blog/2025/Gimp%203.0%20Plugin%20Ressources.html)
+* [2025-02-12, 00:00:28](https://news.ycombinator.com/item?id=43019975) - [Surprise Magma Chamber Growing Under Mediterranean Volcano (2023)](https://news.agu.org/press-release/surprise-magma-chamber-growing-under-mediterranean-volcano/)
 
 ## [Archives](archives/index.md)
 
