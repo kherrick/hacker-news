@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-16](index.md)
 
+* [2025-02-16, 22:38:14](https://news.ycombinator.com/item?id=43072483) - [Physicists uncover evidence of two arrows of time emerging at the quantum level](https://www.surrey.ac.uk/news/physicists-uncover-evidence-two-arrows-time-emerging-quantum-realm)
 * [2025-02-16, 22:32:07](https://news.ycombinator.com/item?id=43072416) - [Google defends scrapping AI pledges and DEI goals in all-staff meeting](https://www.theguardian.com/us-news/2025/feb/12/google-all-staff-meeting-ai-dei)
 * [2025-02-16, 21:36:21](https://news.ycombinator.com/item?id=43071934) - [Show HN: Air Traffic Control Radio and Chill Music for Focus](https://www.chillyatc.com/)
 * [2025-02-16, 20:45:30](https://news.ycombinator.com/item?id=43071506) - [Fingerprinting: Critics say Google rules put profits over privacy](https://www.bbc.com/news/articles/cm21g0052dno)

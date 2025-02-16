@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-16, 22:38:14](https://news.ycombinator.com/item?id=43072483) - [Physicists uncover evidence of two arrows of time emerging at the quantum level](https://www.surrey.ac.uk/news/physicists-uncover-evidence-two-arrows-time-emerging-quantum-realm)
 * [2025-02-16, 22:32:07](https://news.ycombinator.com/item?id=43072416) - [Google defends scrapping AI pledges and DEI goals in all-staff meeting](https://www.theguardian.com/us-news/2025/feb/12/google-all-staff-meeting-ai-dei)
 * [2025-02-16, 21:36:21](https://news.ycombinator.com/item?id=43071934) - [Show HN: Air Traffic Control Radio and Chill Music for Focus](https://www.chillyatc.com/)
 * [2025-02-16, 20:45:30](https://news.ycombinator.com/item?id=43071506) - [Fingerprinting: Critics say Google rules put profits over privacy](https://www.bbc.com/news/articles/cm21g0052dno)
@@ -17,7 +18,6 @@
 * [2025-02-16, 11:40:24](https://news.ycombinator.com/item?id=43067303) - [Finding Flow: Escaping digital distractions through deep work and slow living](https://www.ssp.sh/blog/finding-flow/)
 * [2025-02-16, 10:16:49](https://news.ycombinator.com/item?id=43066953) - [“A calculator app? Anyone could make that”](https://chadnauseam.com/coding/random/calculator-app)
 * [2025-02-16, 09:55:58](https://news.ycombinator.com/item?id=43066842) - [Langfuse (YC W23) Is Hiring Product Engineers in Berlin](https://langfuse.com/careers)
-* [2025-02-16, 09:31:02](https://news.ycombinator.com/item?id=43066720) - [50 Years of Travel Tips](https://kk.org/thetechnium/50-years-of-travel-tips/)
 * [2025-02-16, 04:06:04](https://news.ycombinator.com/item?id=43065217) - [Gixy: Nginx Configuration Static Analyzer](https://github.com/dvershinin/gixy)
 * [2025-02-16, 01:06:11](https://news.ycombinator.com/item?id=43064273) - [The Sims Game Design Documents (1997)](https://donhopkins.com/home/TheSimsDesignDocuments/)
 * [2025-02-14, 17:22:44](https://news.ycombinator.com/item?id=43050644) - [Bombed Fresco: Using Math to Piece Together a Lost Treasure (2011)](https://www.spiegel.de/international/zeitgeist/bombed-fresco-using-math-to-piece-together-a-lost-treasure-a-792781.html)
