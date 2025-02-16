@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-16, 18:13:21](https://news.ycombinator.com/item?id=43070155) - [Kindle is removing download and transfer option on Feb 26th](https://old.reddit.com/r/kindle/comments/1inr9uy/fyi_amazon_is_removing_download_transfer_option/)
+* [2025-02-16, 17:48:43](https://news.ycombinator.com/item?id=43069973) - ['Reading is part of my identity': the woman taking on Goodreads owner Amazon](https://www.theguardian.com/books/2025/feb/16/goodreads-amazon-nadia-odunayo-the-storygraph)
 * [2025-02-16, 17:04:09](https://news.ycombinator.com/item?id=43069533) - [IPv6 Is Hard](https://techlog.jenslink.net/posts/ipv6-is-hard/)
 * [2025-02-16, 16:57:05](https://news.ycombinator.com/item?id=43069475) - [Why I'm leaving Elm (2020)](https://lukeplant.me.uk/blog/posts/why-im-leaving-elm/)
 * [2025-02-16, 16:49:27](https://news.ycombinator.com/item?id=43069424) - [Doubts remain over reliability of Texas power grid](https://www.npr.org/2025/02/14/nx-s1-5289877/texas-power-grid-after-outage)
@@ -20,14 +22,12 @@
 * [2025-02-15, 20:04:30](https://news.ycombinator.com/item?id=43061803) - [Reasons to Not Parse Localized Strings](https://blog.sffc.xyz/post/190943794505/why-you-should-not-parse-localized-strings)
 * [2025-02-15, 19:34:29](https://news.ycombinator.com/item?id=43061498) - [My Life in Weeks](https://weeks.ginatrapani.org/)
 * [2025-02-15, 19:00:38](https://news.ycombinator.com/item?id=43061183) - [Schemesh: Fusion between Unix shell and Lisp REPL](https://github.com/cosmos72/schemesh)
-* [2025-02-15, 09:59:20](https://news.ycombinator.com/item?id=43057344) - [Jane Street's Figgie card game](https://www.figgie.com/)
 * [2025-02-14, 14:32:55](https://news.ycombinator.com/item?id=43048698) - [Ask HN: What is the best method for turning a scanned book as a PDF into text?](https://news.ycombinator.com/item?id=43048698)
 * [2025-02-14, 13:47:53](https://news.ycombinator.com/item?id=43048190) - [Show HN: Tetris Variant in a Rotating / Flipping Square](https://ihopethisisfun.franzai.com/)
 * [2025-02-14, 11:19:06](https://news.ycombinator.com/item?id=43047255) - [OpenVINO AI effects [denoising and transcription] for Audacity](https://www.audacityteam.org/blog/openvino-ai-effects/)
 * [2025-02-13, 21:16:36](https://news.ycombinator.com/item?id=43041477) - [AI can interpret animal emotions better than humans](https://www.science.org/content/article/can-ai-read-pain-and-other-emotions-your-dog-s-face)
 * [2025-02-13, 04:46:26](https://news.ycombinator.com/item?id=43032759) - [Beginnings of Roman London discovered in office basement](https://www.bbc.com/news/articles/cx2jdnv0ywyo)
 * [2025-02-12, 19:12:14](https://news.ycombinator.com/item?id=43028650) - [Hans Bethe Stumbled Upon Perfect Quantum Theories](https://www.quantamagazine.org/how-hans-bethe-stumbled-upon-perfect-quantum-theories-20250212/)
-* [2025-02-12, 15:21:42](https://news.ycombinator.com/item?id=43026234) - [The dream of offshore rocket launches is finally blasting off](https://www.technologyreview.com/2025/02/11/1111467/the-dream-of-offshore-rocket-launches-is-finally-blasting-off/)
 * [2025-02-12, 14:58:52](https://news.ycombinator.com/item?id=43026001) - [Spanish 'running of the bulls' festival reveals crowd movements can be predicted](https://phys.org/news/2025-02-spanish-bulls-festival-reveals-crowd.html)
 * [2025-02-12, 13:26:12](https://news.ycombinator.com/item?id=43025176) - [Writing a Gimp 3.0 Plugin](https://schoenitzer.de/blog/2025/Gimp%203.0%20Plugin%20Ressources.html)
 

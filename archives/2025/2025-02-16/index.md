@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-16](index.md)
 
+* [2025-02-16, 18:13:21](https://news.ycombinator.com/item?id=43070155) - [Kindle is removing download and transfer option on Feb 26th](https://old.reddit.com/r/kindle/comments/1inr9uy/fyi_amazon_is_removing_download_transfer_option/)
+* [2025-02-16, 17:48:43](https://news.ycombinator.com/item?id=43069973) - ['Reading is part of my identity': the woman taking on Goodreads owner Amazon](https://www.theguardian.com/books/2025/feb/16/goodreads-amazon-nadia-odunayo-the-storygraph)
 * [2025-02-16, 17:04:09](https://news.ycombinator.com/item?id=43069533) - [IPv6 Is Hard](https://techlog.jenslink.net/posts/ipv6-is-hard/)
 * [2025-02-16, 16:57:05](https://news.ycombinator.com/item?id=43069475) - [Why I'm leaving Elm (2020)](https://lukeplant.me.uk/blog/posts/why-im-leaving-elm/)
 * [2025-02-16, 16:49:27](https://news.ycombinator.com/item?id=43069424) - [Doubts remain over reliability of Texas' power grid](https://www.npr.org/2025/02/14/nx-s1-5289877/texas-power-grid-after-outage)
