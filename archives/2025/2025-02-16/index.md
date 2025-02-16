@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-16](index.md)
 
+* [2025-02-16, 05:04:05](https://news.ycombinator.com/item?id=43065498) - [Modding the Gulf of Mexico Back (In Google Maps) [video]](https://www.youtube.com/watch?v=F5m2JxplnXk)
 * [2025-02-16, 04:06:04](https://news.ycombinator.com/item?id=43065217) - [Gixy: Nginx Configuration Static Analyzer](https://github.com/dvershinin/gixy)
 * [2025-02-16, 03:40:03](https://news.ycombinator.com/item?id=43065095) - [Alex Karp Wants Silicon Valley to Fight for America](https://www.wsj.com/tech/who-is-alex-karp-palantir-ceo-dcd66e21)
 * [2025-02-16, 03:19:48](https://news.ycombinator.com/item?id=43065006) - [Ollama-Swift](https://nshipster.com/ollama/)

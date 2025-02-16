@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-16, 05:04:05](https://news.ycombinator.com/item?id=43065498) - [Modding the Gulf of Mexico Back (In Google Maps) [video]](https://www.youtube.com/watch?v=F5m2JxplnXk)
 * [2025-02-16, 04:06:04](https://news.ycombinator.com/item?id=43065217) - [Gixy: Nginx Configuration Static Analyzer](https://github.com/dvershinin/gixy)
 * [2025-02-16, 03:19:48](https://news.ycombinator.com/item?id=43065006) - [Ollama-Swift](https://nshipster.com/ollama/)
 * [2025-02-16, 02:07:25](https://news.ycombinator.com/item?id=43064637) - [How Medical Research Cuts Would Hit Colleges and Hospitals in Every State](https://www.nytimes.com/interactive/2025/02/13/upshot/nih-trump-funding-cuts.html)
@@ -12,7 +13,6 @@
 * [2025-02-15, 20:24:13](https://news.ycombinator.com/item?id=43061977) - [NASA has a list of 10 rules for software development](https://www.cs.otago.ac.nz/cosc345/resources/nasa-10-rules.htm)
 * [2025-02-15, 20:07:39](https://news.ycombinator.com/item?id=43061827) - [Perplexity Deep Research](https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research)
 * [2025-02-15, 19:34:29](https://news.ycombinator.com/item?id=43061498) - [My Life in Weeks](https://weeks.ginatrapani.org/)
-* [2025-02-15, 19:32:16](https://news.ycombinator.com/item?id=43061482) - [New SF public health chief was part of McKinsey opioid-marketing operation](https://sfstandard.com/2025/02/14/san-francisco-department-public-health-daniel-tsai-opioids-mckinsey/)
 * [2025-02-15, 19:00:38](https://news.ycombinator.com/item?id=43061183) - [Schemesh: Fusion between Unix shell and Lisp REPL](https://github.com/cosmos72/schemesh)
 * [2025-02-15, 18:59:39](https://news.ycombinator.com/item?id=43061173) - [Multiple Russian Threat Actors Targeting Microsoft Device Code Authentication](https://www.volexity.com/blog/2025/02/13/multiple-russian-threat-actors-targeting-microsoft-device-code-authentication/)
 * [2025-02-15, 18:26:49](https://news.ycombinator.com/item?id=43060818) - [PAROL6: 3D-printed desktop robotic arm](https://source-robotics.github.io/PAROL-docs/)
