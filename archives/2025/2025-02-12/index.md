@@ -14,6 +14,7 @@
 * [2025-02-12, 20:17:08](https://news.ycombinator.com/item?id=43029314) - [Basis of the Kalman Filter [pdf]](https://github.com/tpn/pdfs/blob/master/Understanding%20the%20Basis%20of%20the%20Kalman%20Filter%20Via%20a%20Simple%20and%20Intuitive%20Derivation%20%282012%29.pdf)
 * [2025-02-12, 20:13:27](https://news.ycombinator.com/item?id=43029277) - [Syria just hosted its first international tech conference in 50 years](https://restofworld.org/2025/syria-international-tech-conference-sync-25/)
 * [2025-02-12, 19:54:52](https://news.ycombinator.com/item?id=43029089) - [Show HN: A no-build fullstack SSR TypeScript web framework](https://jsr.io/@fullsoak/fullsoak)
+* [2025-02-12, 19:12:14](https://news.ycombinator.com/item?id=43028650) - [Hans Bethe Stumbled Upon Perfect Quantum Theories](https://www.quantamagazine.org/how-hans-bethe-stumbled-upon-perfect-quantum-theories-20250212/)
 * [2025-02-12, 19:11:39](https://news.ycombinator.com/item?id=43028641) - [Startup Funding Roadmap](https://anyonyashraya.com/on_startup_funding.html)
 * [2025-02-12, 18:54:35](https://news.ycombinator.com/item?id=43028468) - [Imapsync](https://imapsync.lamiral.info/)
 * [2025-02-12, 18:37:15](https://news.ycombinator.com/item?id=43028300) - [The Human Alphabet](https://publicdomainreview.org/collection/the-human-alphabet/)
