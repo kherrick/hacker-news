@@ -41,6 +41,7 @@
 * [2025-02-12, 14:06:08](https://news.ycombinator.com/item?id=43025528) - [Understanding the trade-offs of using Tailwind CSS](https://measured.co/blog/tailwind-trade-offs)
 * [2025-02-12, 13:53:43](https://news.ycombinator.com/item?id=43025420) - [Representation of BBC News Content in AI Assistants [pdf]](https://www.bbc.co.uk/aboutthebbc/documents/bbc-research-into-ai-assistants.pdf)
 * [2025-02-12, 13:35:17](https://news.ycombinator.com/item?id=43025266) - [Delivering Malware Through Abandoned Amazon S3 Buckets](https://www.schneier.com/blog/archives/2025/02/delivering-malware-through-abandoned-amazon-s3-buckets.html)
+* [2025-02-12, 13:26:12](https://news.ycombinator.com/item?id=43025176) - [Writing a Gimp 3.0 Plugin – Resources and Notes](https://schoenitzer.de/blog/2025/Gimp%203.0%20Plugin%20Ressources.html)
 * [2025-02-12, 12:58:13](https://news.ycombinator.com/item?id=43024961) - [DeaDBeeF: The Ultimate Music Player](https://deadbeef.sourceforge.io/)
 * [2025-02-12, 12:47:16](https://news.ycombinator.com/item?id=43024866) - [Do It Yourself Database CDN with Embedded Replicas](https://turso.tech/blog/do-it-yourself-database-cdn-with-embedded-replicas)
 * [2025-02-12, 12:11:33](https://news.ycombinator.com/item?id=43024540) - [Vanishing Culture: Punch Card Knitting](https://blog.archive.org/2025/02/12/vanishing-culture-punch-card-knitting/)

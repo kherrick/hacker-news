@@ -29,7 +29,7 @@
 * [2025-02-13, 04:46:26](https://news.ycombinator.com/item?id=43032759) - [Beginnings of Roman London discovered in office basement](https://www.bbc.com/news/articles/cx2jdnv0ywyo)
 * [2025-02-12, 14:58:52](https://news.ycombinator.com/item?id=43026001) - [Spanish 'running of the bulls' festival reveals crowd movements can be predicted](https://phys.org/news/2025-02-spanish-bulls-festival-reveals-crowd.html)
 * [2025-02-12, 14:43:12](https://news.ycombinator.com/item?id=43025857) - [The art of calling out room dynamics (2024)](https://leadership.garden/calling-out-room-dynamics/)
-* [2025-02-12, 00:00:28](https://news.ycombinator.com/item?id=43019975) - [Surprise Magma Chamber Growing Under Mediterranean Volcano (2023)](https://news.agu.org/press-release/surprise-magma-chamber-growing-under-mediterranean-volcano/)
+* [2025-02-12, 13:26:12](https://news.ycombinator.com/item?id=43025176) - [Writing a Gimp 3.0 Plugin – Resources and Notes](https://schoenitzer.de/blog/2025/Gimp%203.0%20Plugin%20Ressources.html)
 
 ## [Archives](archives/index.md)
 
