@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-16, 20:01:18",
+      "https://news.ycombinator.com/item?id=43071147"
+    ],
+    [
+      "Netflix says its brief Apple TV app integration was a mistake",
+      "https://www.theverge.com/news/613307/netflix-apple-tv-app-support-mistake"
+    ]
+  ],
+  [
+    [
       "2025-02-16, 19:57:32",
       "https://news.ycombinator.com/item?id=43071110"
     ],
@@ -17,26 +27,6 @@
     [
       "Trick to find commands in the terminal quickly",
       "https://github.com/madprops/blog/blob/main/docs/cmd_icons.md"
-    ]
-  ],
-  [
-    [
-      "2025-02-16, 19:38:09",
-      "https://news.ycombinator.com/item?id=43070946"
-    ],
-    [
-      "Top US Election Security Watchdog Forced to Stop Election Security Work",
-      "https://www.wired.com/story/cisa-election-security-freeze-memo/"
-    ]
-  ],
-  [
-    [
-      "2025-02-16, 19:04:30",
-      "https://news.ycombinator.com/item?id=43070643"
-    ],
-    [
-      "When Compilers Were the 'AI' That Scared Programmers",
-      "https://vivekhaldar.com/articles/when-compilers-were-the--ai--that-scared-programmers/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "History 2701 Wiki",
       "https://history2701.fandom.com/wiki/History_2701_Wiki"
+    ]
+  ],
+  [
+    [
+      "2025-02-13, 15:34:57",
+      "https://news.ycombinator.com/item?id=43036903"
+    ],
+    [
+      "Explaining my fast 6502 code generator",
+      "https://pubby.games/codegen.html"
     ]
   ],
   [
