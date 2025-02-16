@@ -36,6 +36,7 @@
 * [2025-02-12, 15:05:17](https://news.ycombinator.com/item?id=43026071) - [Improved evaluation times with pre-resolved Nix store paths](https://determinate.systems/posts/resolved-store-paths/)
 * [2025-02-12, 15:01:40](https://news.ycombinator.com/item?id=43026036) - [PgAssistant: OSS tool to help devs understand and optimize PG performance](https://github.com/nexsol-technologies/pgassistant)
 * [2025-02-12, 14:58:52](https://news.ycombinator.com/item?id=43026001) - [Spanish 'running of the bulls' festival reveals crowd movements can be predicted](https://phys.org/news/2025-02-spanish-bulls-festival-reveals-crowd.html)
+* [2025-02-12, 14:43:12](https://news.ycombinator.com/item?id=43025857) - [The art of calling out room dynamics (2024)](https://leadership.garden/calling-out-room-dynamics/)
 * [2025-02-12, 14:17:48](https://news.ycombinator.com/item?id=43025645) - [Visualizing Data Is an Art – We Should Treat It Like One](https://perthirtysix.com/visualizing-data-is-an-art)
 * [2025-02-12, 14:06:08](https://news.ycombinator.com/item?id=43025528) - [Understanding the trade-offs of using Tailwind CSS](https://measured.co/blog/tailwind-trade-offs)
 * [2025-02-12, 13:53:43](https://news.ycombinator.com/item?id=43025420) - [Representation of BBC News Content in AI Assistants [pdf]](https://www.bbc.co.uk/aboutthebbc/documents/bbc-research-into-ai-assistants.pdf)
