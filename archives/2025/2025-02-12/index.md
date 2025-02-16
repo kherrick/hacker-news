@@ -45,6 +45,7 @@
 * [2025-02-12, 12:00:59](https://news.ycombinator.com/item?id=43024473) - [Extend (YC W23) is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
 * [2025-02-12, 11:32:18](https://news.ycombinator.com/item?id=43024299) - [EU to mobilize 200B Euros to invest in AI](https://www.euronews.com/next/2025/02/11/eu-to-mobilise-200-billion-for-ai-investment)
 * [2025-02-12, 11:19:42](https://news.ycombinator.com/item?id=43024221) - [Leaking the email of any YouTube user for $10,000](https://brutecat.com/articles/leaking-youtube-emails)
+* [2025-02-12, 11:12:06](https://news.ycombinator.com/item?id=43024176) - [Tea Extensions [pdf] (2006)](https://tayloredge.com/reference/Mathematics/TEA-XTEA.pdf)
 * [2025-02-12, 11:11:38](https://news.ycombinator.com/item?id=43024173) - [League of Legends data scraping the hard and tedious way for fun](https://maknee.github.io/blog/2025/League-Data-Scraping/)
 * [2025-02-12, 10:43:51](https://news.ycombinator.com/item?id=43023996) - [Rust Memory Management Explained](https://www.infoworld.com/article/3815535/rust-memory-management-explained.html)
 * [2025-02-12, 10:43:02](https://news.ycombinator.com/item?id=43023991) - [Nping – ping, but with a graph or table view](https://github.com/hanshuaikang/Nping)
