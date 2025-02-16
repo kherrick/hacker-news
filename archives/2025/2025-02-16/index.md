@@ -8,6 +8,7 @@
 * [2025-02-16, 17:56:15](https://news.ycombinator.com/item?id=43070025) - [Caddy – The Ultimate Server with Automatic HTTPS](https://caddyserver.com/)
 * [2025-02-16, 17:48:43](https://news.ycombinator.com/item?id=43069973) - ['Reading is part of my identity': the woman taking on Goodreads owner Amazon](https://www.theguardian.com/books/2025/feb/16/goodreads-amazon-nadia-odunayo-the-storygraph)
 * [2025-02-16, 17:04:09](https://news.ycombinator.com/item?id=43069533) - [IPv6 Is Hard](https://techlog.jenslink.net/posts/ipv6-is-hard/)
+* [2025-02-16, 17:01:34](https://news.ycombinator.com/item?id=43069514) - [Half-Life 2 and Dishonored art lead Viktor Antonov has died](https://www.eurogamer.net/half-life-2-and-dishonored-art-lead-viktor-antonov-dies-aged-just-52)
 * [2025-02-16, 16:57:05](https://news.ycombinator.com/item?id=43069475) - [Why I'm leaving Elm (2020)](https://lukeplant.me.uk/blog/posts/why-im-leaving-elm/)
 * [2025-02-16, 16:49:27](https://news.ycombinator.com/item?id=43069424) - [Doubts remain over reliability of Texas' power grid](https://www.npr.org/2025/02/14/nx-s1-5289877/texas-power-grid-after-outage)
 * [2025-02-16, 16:45:26](https://news.ycombinator.com/item?id=43069399) - [United States Power Outage Map](https://poweroutage.us/)
