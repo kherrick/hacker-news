@@ -13,6 +13,7 @@
 * [2025-02-15, 20:38:35](https://news.ycombinator.com/item?id=43062098) - [Is the ArXiv safe from the current US Government attacks?](https://mathstodon.xyz/@MartinEscardo/114009071233958003)
 * [2025-02-15, 20:24:13](https://news.ycombinator.com/item?id=43061977) - [NASA has a list of 10 rules for software development](https://www.cs.otago.ac.nz/cosc345/resources/nasa-10-rules.htm)
 * [2025-02-15, 20:07:39](https://news.ycombinator.com/item?id=43061827) - [Perplexity Deep Research](https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research)
+* [2025-02-15, 20:04:30](https://news.ycombinator.com/item?id=43061803) - [Reasons to Not Parse Localized Strings](https://blog.sffc.xyz/post/190943794505/why-you-should-not-parse-localized-strings)
 * [2025-02-15, 19:44:57](https://news.ycombinator.com/item?id=43061608) - [To avoid being replaced by LLMs, do what they can't](https://www.seangoedecke.com/what-llms-cant-do/)
 * [2025-02-15, 19:39:38](https://news.ycombinator.com/item?id=43061554) - [Leave Billionaires Alone](https://m-onz.net/leave-billionaires-alone)
 * [2025-02-15, 19:34:29](https://news.ycombinator.com/item?id=43061498) - [My Life in Weeks](https://weeks.ginatrapani.org/)
