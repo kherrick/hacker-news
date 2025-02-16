@@ -26,6 +26,7 @@
 * [2025-02-13, 18:46:57](https://news.ycombinator.com/item?id=43039631) - [Cybertrucks Are Deadlier Than Infamous Ford Pintos](https://www.motherjones.com/politics/2025/02/report-cybertruck-safety-ford-pinto/)
 * [2025-02-13, 18:23:53](https://news.ycombinator.com/item?id=43039347) - [Tolerating full cloud outages with Monzo Stand-in](https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in)
 * [2025-02-13, 18:20:29](https://news.ycombinator.com/item?id=43039308) - [Phind 2: Reinventing AI search with visual answers and multi-step reasoning](https://www.phind.com/blog/phind-2)
+* [2025-02-13, 17:40:29](https://news.ycombinator.com/item?id=43038794) - [Product Development Processes You Might Not Have Heard of (2022)](https://www.departmentofproduct.com/blog/product-development-processes-you-might-not-have-heard-of/)
 * [2025-02-13, 17:35:10](https://news.ycombinator.com/item?id=43038727) - [Usaid funding freeze disrupts global tuberculosis control efforts](https://www.cidrap.umn.edu/tuberculosis/usaid-funding-freeze-disrupts-global-tuberculosis-control-efforts)
 * [2025-02-13, 17:13:01](https://news.ycombinator.com/item?id=43038395) - [Do you need permission from the government to do independent research?](https://dynomight.net/irb/)
 * [2025-02-13, 16:59:43](https://news.ycombinator.com/item?id=43038200) - [LibreOffice still kicking at 40, now with browser tricks and real-time collab](https://www.theregister.com/2025/02/13/libreoffice_wasm_zetaoffice/)
