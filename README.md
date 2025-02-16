@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-16, 23:15:59](https://news.ycombinator.com/item?id=43072790) - [Javier Milei Backtracks on $4.4B Memecoin After 'Insiders' Pocket $87M](https://www.coindesk.com/business/2025/02/15/javier-milei-backtracks-on-usd4-4b-memecoin-after-insiders-pocket-usd87m)
+* [2025-02-16, 22:57:42](https://news.ycombinator.com/item?id=43072640) - [Why Artificial General Intelligence Is and Remains a Fiction](https://osf.io/preprints/osf/fjcns_v1)
 * [2025-02-16, 22:38:14](https://news.ycombinator.com/item?id=43072483) - [Opposing arrows of time can theoretically emerge from certain quantum systems](https://www.surrey.ac.uk/news/physicists-uncover-evidence-two-arrows-time-emerging-quantum-realm)
 * [2025-02-16, 22:22:40](https://news.ycombinator.com/item?id=43072338) - [Uchū · the color scheme for internet lovers](https://uchu.style)
 * [2025-02-16, 21:36:21](https://news.ycombinator.com/item?id=43071934) - [Show HN: Air traffic control radio and chill music for focus](https://www.chillyatc.com/)
@@ -19,7 +20,6 @@
 * [2025-02-16, 10:16:49](https://news.ycombinator.com/item?id=43066953) - [“A calculator app? Anyone could make that”](https://chadnauseam.com/coding/random/calculator-app)
 * [2025-02-16, 09:55:58](https://news.ycombinator.com/item?id=43066842) - [Langfuse (YC W23) Is Hiring Product Engineers in Berlin](https://langfuse.com/careers)
 * [2025-02-16, 04:06:04](https://news.ycombinator.com/item?id=43065217) - [Gixy: Nginx Configuration Static Analyzer](https://github.com/dvershinin/gixy)
-* [2025-02-16, 01:06:11](https://news.ycombinator.com/item?id=43064273) - [The Sims Game Design Documents (1997)](https://donhopkins.com/home/TheSimsDesignDocuments/)
 * [2025-02-14, 17:22:44](https://news.ycombinator.com/item?id=43050644) - [Bombed Fresco: Using Math to Piece Together a Lost Treasure (2011)](https://www.spiegel.de/international/zeitgeist/bombed-fresco-using-math-to-piece-together-a-lost-treasure-a-792781.html)
 * [2025-02-14, 14:32:55](https://news.ycombinator.com/item?id=43048698) - [Ask HN: What is the best method for turning a scanned book as a PDF into text?](https://news.ycombinator.com/item?id=43048698)
 * [2025-02-14, 11:19:06](https://news.ycombinator.com/item?id=43047255) - [OpenVINO AI effects [denoising and transcription] for Audacity](https://www.audacityteam.org/blog/openvino-ai-effects/)
