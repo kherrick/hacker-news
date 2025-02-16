@@ -49,6 +49,7 @@
 * [2025-02-13, 14:53:21](https://news.ycombinator.com/item?id=43036428) - [Are PhDs losing lustre? Why fewer students are enrolling in doctoral degrees](https://www.nature.com/articles/d41586-025-00425-4)
 * [2025-02-13, 14:48:31](https://news.ycombinator.com/item?id=43036366) - [UTEP leaders silent as Ted Cruz accuses researchers of using 'woke DEI grants'](https://elpasomatters.org/2025/02/12/ted-cruz-utep-grants-national-science-foundation/)
 * [2025-02-13, 14:47:43](https://news.ycombinator.com/item?id=43036356) - [Federal workers say they increasingly distrust platforms like Facebook](https://www.theverge.com/news/610951/federal-workers-privacy-surveillance-signal-facebook-messenger)
+* [2025-02-13, 14:21:22](https://news.ycombinator.com/item?id=43036090) - [Towards an API for the Real Numbers Hans](https://dl.acm.org/doi/pdf/10.1145/3385412.3386037)
 * [2025-02-13, 14:16:20](https://news.ycombinator.com/item?id=43036042) - [DOGE Staffer Is Trying to Reroute FEMA Funds](https://www.dropsitenews.com/p/doge-fema-funding-access-social-security-numbers)
 * [2025-02-13, 14:13:37](https://news.ycombinator.com/item?id=43036012) - [Remco is a lightweight configuration management tool](https://github.com/HeavyHorst/remco)
 * [2025-02-13, 14:10:04](https://news.ycombinator.com/item?id=43035977) - [DOGE as a National Cyberattack](https://www.schneier.com/blog/archives/2025/02/doge-as-a-national.html)
