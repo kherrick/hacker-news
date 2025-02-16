@@ -20,7 +20,7 @@
 * [2025-02-15, 14:00:00](https://news.ycombinator.com/item?id=43058522) - [Diablo hackers uncovered a speedrun scandal](https://arstechnica.com/gaming/2025/02/the-diablo-hackers-that-debunked-a-record-speedrun/)
 * [2025-02-15, 10:07:23](https://news.ycombinator.com/item?id=43057375) - [Show HN: Kreuzberg – Modern async Python library for document text extraction](https://github.com/Goldziher/kreuzberg)
 * [2025-02-15, 09:59:20](https://news.ycombinator.com/item?id=43057344) - [Jane Street's Figgie card game](https://www.figgie.com/)
-* [2025-02-14, 22:36:31](https://news.ycombinator.com/item?id=43053844) - [We were wrong about GPUs](https://fly.io/blog/wrong-about-gpu/)
+* [2025-02-13, 21:16:36](https://news.ycombinator.com/item?id=43041477) - [AI can interpret animal emotions better than humans](https://www.science.org/content/article/can-ai-read-pain-and-other-emotions-your-dog-s-face)
 * [2025-02-13, 17:40:29](https://news.ycombinator.com/item?id=43038794) - [Product Development Processes You Might Not Have Heard of (2022)](https://www.departmentofproduct.com/blog/product-development-processes-you-might-not-have-heard-of/)
 * [2025-02-13, 16:26:09](https://news.ycombinator.com/item?id=43037652) - [Bezos' Blue Origin to layoff about 10% across its space, launch business](https://www.cnbc.com/2025/02/13/bezos-blue-origin-to-layoff-about-10percent-across-its-space-launch-business-.html)
 * [2025-02-13, 14:13:37](https://news.ycombinator.com/item?id=43036012) - [Remco is a lightweight configuration management tool](https://github.com/HeavyHorst/remco)
