@@ -26,6 +26,7 @@
 * [2025-02-12, 16:52:57](https://news.ycombinator.com/item?id=43027150) - [Record-breaking neutrino is most energetic ever detected](https://www.nature.com/articles/d41586-025-00444-1)
 * [2025-02-12, 16:32:37](https://news.ycombinator.com/item?id=43026934) - [How Nissan and Honda's $60B merger talks collapsed](https://www.reuters.com/markets/deals/inside-collapse-nissan-hondas-60-billion-mega-deal-2025-02-12/)
 * [2025-02-12, 16:31:04](https://news.ycombinator.com/item?id=43026920) - [The Prophet of Parking](https://www.worksinprogress.news/p/the-prophet-of-parking)
+* [2025-02-12, 16:26:02](https://news.ycombinator.com/item?id=43026882) - [Terraform Config Root Setups](https://www.resourcely.io/post/10-terraform-config-root-setups)
 * [2025-02-12, 16:13:41](https://news.ycombinator.com/item?id=43026774) - [Ask HN: Former employees' RSUs at risk after startup's IPO](https://news.ycombinator.com/item?id=43026774)
 * [2025-02-12, 16:02:03](https://news.ycombinator.com/item?id=43026668) - [Where are the best restaurants in my city? A statistical analysis](https://mattsayar.com/where-are-the-best-restaurants-in-my-city-a-statistical-analysis/)
 * [2025-02-12, 15:55:20](https://news.ycombinator.com/item?id=43026590) - [100 Most-Watched Software Engineering Talks of 2024](https://www.techtalksweekly.io/p/100-most-watched-software-engineering)
