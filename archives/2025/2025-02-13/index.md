@@ -37,6 +37,7 @@
 * [2025-02-13, 16:27:25](https://news.ycombinator.com/item?id=43037668) - [TSMC Faces Tough Choices Amid Rumors for Intel Foundry Collaboration](https://techsoda.substack.com/p/tsmc-faces-tough-choices-amid-rumors)
 * [2025-02-13, 16:26:09](https://news.ycombinator.com/item?id=43037652) - [Bezos' Blue Origin to layoff about 10% across its space, launch business](https://www.cnbc.com/2025/02/13/bezos-blue-origin-to-layoff-about-10percent-across-its-space-launch-business-.html)
 * [2025-02-13, 16:23:50](https://news.ycombinator.com/item?id=43037623) - [White Hat Hackers Expose Iridium Satellite Security Flaws](https://spectrum.ieee.org/iridium-satellite)
+* [2025-02-13, 16:23:04](https://news.ycombinator.com/item?id=43037606) - [Traces of London's first Roman basilica found beneath office basement](https://www.heritagedaily.com/2025/02/traces-of-londons-first-roman-basilica-found-beneath-office-basement/154534)
 * [2025-02-13, 16:22:38](https://news.ycombinator.com/item?id=43037600) - [I built a failed startups goods website and named it VcSubsidized.com](https://vcsubsidized.com/)
 * [2025-02-13, 16:12:29](https://news.ycombinator.com/item?id=43037426) - [DOGE Has Started Gutting a Key US Technology Agency](https://www.wired.com/story/doge-tts-fired/)
 * [2025-02-13, 15:49:59](https://news.ycombinator.com/item?id=43037100) - [Why is everyone trying to replace Software Engineers?](https://toddle.dev/blog/why-is-everyone-trying-to-replace-software-engineers)

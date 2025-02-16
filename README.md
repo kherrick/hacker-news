@@ -24,7 +24,7 @@
 * [2025-02-13, 21:16:36](https://news.ycombinator.com/item?id=43041477) - [AI can interpret animal emotions better than humans](https://www.science.org/content/article/can-ai-read-pain-and-other-emotions-your-dog-s-face)
 * [2025-02-13, 17:40:29](https://news.ycombinator.com/item?id=43038794) - [Product Development Processes You Might Not Have Heard of (2022)](https://www.departmentofproduct.com/blog/product-development-processes-you-might-not-have-heard-of/)
 * [2025-02-13, 16:26:09](https://news.ycombinator.com/item?id=43037652) - [Bezos' Blue Origin to layoff about 10% across its space, launch business](https://www.cnbc.com/2025/02/13/bezos-blue-origin-to-layoff-about-10percent-across-its-space-launch-business-.html)
-* [2025-02-13, 14:21:22](https://news.ycombinator.com/item?id=43036090) - [Towards an API for the Real Numbers Hans](https://dl.acm.org/doi/pdf/10.1145/3385412.3386037)
+* [2025-02-13, 16:23:04](https://news.ycombinator.com/item?id=43037606) - [Traces of London's first Roman basilica found beneath office basement](https://www.heritagedaily.com/2025/02/traces-of-londons-first-roman-basilica-found-beneath-office-basement/154534)
 * [2025-02-13, 04:46:26](https://news.ycombinator.com/item?id=43032759) - [Beginnings of Roman London discovered in office basement](https://www.bbc.com/news/articles/cx2jdnv0ywyo)
 * [2025-02-12, 16:26:02](https://news.ycombinator.com/item?id=43026882) - [Terraform Config Root Setups](https://www.resourcely.io/post/10-terraform-config-root-setups)
 * [2025-02-12, 15:21:42](https://news.ycombinator.com/item?id=43026234) - [The dream of offshore rocket launches is finally blasting off](https://www.technologyreview.com/2025/02/11/1111467/the-dream-of-offshore-rocket-launches-is-finally-blasting-off/)
