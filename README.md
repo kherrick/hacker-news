@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-16, 07:09:08](https://news.ycombinator.com/item?id=43066048) - [Half of CDC Epidemic Intelligence Service Laid Off](https://newrepublic.com/post/191579/robert-f-kennedy-jr-cdc-infectious-disease-research)
 * [2025-02-16, 05:24:49](https://news.ycombinator.com/item?id=43065586) - [Dinner at a North Korean Restaurant in Shanghai](https://simplyfabulicious.wordpress.com/2016/09/09/dinner-at-a-north-korean-restaurant-in-shanghai/)
 * [2025-02-16, 04:16:58](https://news.ycombinator.com/item?id=43065270) - [JPMorgan employee questioned Dimon's RTO mandate, fired, then told he could stay](https://fortune.com/2025/02/15/jpmorgan-chase-firing-rto-work-from-home-technology-zoom-welch/)
 * [2025-02-16, 04:06:04](https://news.ycombinator.com/item?id=43065217) - [Gixy: Nginx Configuration Static Analyzer](https://github.com/dvershinin/gixy)
@@ -29,7 +30,6 @@
 * [2025-02-13, 04:46:26](https://news.ycombinator.com/item?id=43032759) - [Beginnings of Roman London discovered in office basement](https://www.bbc.com/news/articles/cx2jdnv0ywyo)
 * [2025-02-12, 14:58:52](https://news.ycombinator.com/item?id=43026001) - [Spanish 'running of the bulls' festival reveals crowd movements can be predicted](https://phys.org/news/2025-02-spanish-bulls-festival-reveals-crowd.html)
 * [2025-02-12, 14:43:12](https://news.ycombinator.com/item?id=43025857) - [The art of calling out room dynamics (2024)](https://leadership.garden/calling-out-room-dynamics/)
-* [2025-02-12, 00:00:28](https://news.ycombinator.com/item?id=43019975) - [Surprise Magma Chamber Growing Under Mediterranean Volcano (2023)](https://news.agu.org/press-release/surprise-magma-chamber-growing-under-mediterranean-volcano/)
 
 ## [Archives](archives/index.md)
 
