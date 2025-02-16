@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-16, 12:00:22",
+      "https://news.ycombinator.com/item?id=43067378"
+    ],
+    [
+      "Statement or eyesore? Japan's divisive brutalist buildings – in pictures",
+      "https://www.theguardian.com/artanddesign/gallery/2025/jan/29/japan-brutalist-buildings-in-pictures"
+    ]
+  ],
+  [
+    [
       "2025-02-16, 11:40:24",
       "https://news.ycombinator.com/item?id=43067303"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=43066953"
     ],
     [
-      "\"A calculator app? Anyone could make that.\"",
+      "“A calculator app? Anyone could make that”",
       "https://chadnauseam.com/coding/random/calculator-app"
     ]
   ],
@@ -37,6 +47,16 @@
     [
       "Langfuse (YC W23) Is Hiring Product Engineers in Berlin",
       "https://langfuse.com/careers"
+    ]
+  ],
+  [
+    [
+      "2025-02-16, 09:31:02",
+      "https://news.ycombinator.com/item?id=43066720"
+    ],
+    [
+      "50 Years of Travel Tips",
+      "https://kk.org/thetechnium/50-years-of-travel-tips/"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Create a QubesOS Gaming HVM with GPU PCI passthrough (2023)",
       "https://forum.qubes-os.org/t/create-a-gaming-hvm/19000"
-    ]
-  ],
-  [
-    [
-      "2025-02-15, 22:39:19",
-      "https://news.ycombinator.com/item?id=43063167"
-    ],
-    [
-      "Jellyfin: The Free Software Media System",
-      "https://jellyfin.org/"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2025-02-13, 14:13:37",
-      "https://news.ycombinator.com/item?id=43036012"
-    ],
-    [
-      "Remco is a lightweight configuration management tool",
-      "https://github.com/HeavyHorst/remco"
-    ]
-  ],
-  [
-    [
       "2025-02-13, 13:47:25",
       "https://news.ycombinator.com/item?id=43035760"
     ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=43025176"
     ],
     [
-      "Writing a Gimp 3.0 Plugin – Resources and Notes",
+      "Writing a Gimp 3.0 Plugin",
       "https://schoenitzer.de/blog/2025/Gimp%203.0%20Plugin%20Ressources.html"
     ]
   ]
