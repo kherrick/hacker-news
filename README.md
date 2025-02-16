@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-16, 16:49:27](https://news.ycombinator.com/item?id=43069424) - [Doubts remain over reliability of Texas' power grid](https://www.npr.org/2025/02/14/nx-s1-5289877/texas-power-grid-after-outage)
+* [2025-02-16, 16:45:26](https://news.ycombinator.com/item?id=43069399) - [United States Power Outage Map](https://poweroutage.us/)
 * [2025-02-16, 16:43:26](https://news.ycombinator.com/item?id=43069381) - [Apple Maps Might Start Showing Ads](https://www.macrumors.com/2025/02/16/apple-maps-might-start-showing-ads/)
 * [2025-02-16, 15:44:05](https://news.ycombinator.com/item?id=43068884) - [Vim after Bram: a core maintainer on how they've kept it going](https://thenewstack.io/vim-after-bram-a-core-maintainer-on-how-theyve-kept-it-going/)
-* [2025-02-16, 15:08:33](https://news.ycombinator.com/item?id=43068587) - [Getter-Setter Pattern Considered Harmful](https://wolfgang-ziegler.com/blog/getter-setter-pattern-considered-harmful)
 * [2025-02-16, 15:08:31](https://news.ycombinator.com/item?id=43068585) - [Flea-Scope: $18 Source Available USB Oscilloscope, Logic Analyzer and More [pdf]](https://rtestardi.github.io/usbte/flea-scope.pdf)
 * [2025-02-16, 14:26:55](https://news.ycombinator.com/item?id=43068283) - [Rethinking the C Time API](https://oliverkwebb.github.io/articles/newtime/)
 * [2025-02-16, 12:09:58](https://news.ycombinator.com/item?id=43067419) - [Blocklist for AI Music on YouTube](https://surasshu.com/blocklist-for-ai-music-on-youtube/)
