@@ -32,6 +32,7 @@
 * [2025-02-13, 17:13:01](https://news.ycombinator.com/item?id=43038395) - [Do you need permission from the government to do independent research?](https://dynomight.net/irb/)
 * [2025-02-13, 16:59:43](https://news.ycombinator.com/item?id=43038200) - [LibreOffice still kicking at 40, now with browser tricks and real-time collab](https://www.theregister.com/2025/02/13/libreoffice_wasm_zetaoffice/)
 * [2025-02-13, 16:58:49](https://news.ycombinator.com/item?id=43038190) - [Larry Ellison wants to put all America's data in AI, including DNA](https://www.theregister.com/2025/02/12/larry_ellison_wants_all_data/)
+* [2025-02-13, 16:57:27](https://news.ycombinator.com/item?id=43038164) - [Root-inspired additive printing for fabricating robust conformal electronics](https://www.nature.com/articles/s41378-024-00840-z)
 * [2025-02-13, 16:41:04](https://news.ycombinator.com/item?id=43037892) - [$400M armored Tesla gov contract](https://www.npr.org/2025/02/13/g-s1-48571/trump-administration-order-400-million-worth-of-armored-teslas)
 * [2025-02-13, 16:37:08](https://news.ycombinator.com/item?id=43037821) - [RFK Jr Will Be Confirmed as Secretary of Health and Human Services](https://www.reuters.com/world/us/trump-health-nominee-kennedy-secures-enough-us-senate-votes-confirmation-2025-02-13/)
 * [2025-02-13, 16:27:25](https://news.ycombinator.com/item?id=43037668) - [TSMC Faces Tough Choices Amid Rumors for Intel Foundry Collaboration](https://techsoda.substack.com/p/tsmc-faces-tough-choices-amid-rumors)
