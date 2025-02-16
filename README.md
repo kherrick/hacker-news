@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-16, 04:06:04](https://news.ycombinator.com/item?id=43065217) - [Gixy: Nginx Configuration Static Analyzer](https://github.com/dvershinin/gixy)
 * [2025-02-16, 03:19:48](https://news.ycombinator.com/item?id=43065006) - [Ollama-Swift](https://nshipster.com/ollama/)
 * [2025-02-16, 02:07:25](https://news.ycombinator.com/item?id=43064637) - [How Medical Research Cuts Would Hit Colleges and Hospitals in Every State](https://www.nytimes.com/interactive/2025/02/13/upshot/nih-trump-funding-cuts.html)
 * [2025-02-16, 01:06:11](https://news.ycombinator.com/item?id=43064273) - [The Sims Game Design Documents (1997)](https://donhopkins.com/home/TheSimsDesignDocuments/)
@@ -22,7 +23,6 @@
 * [2025-02-15, 14:00:00](https://news.ycombinator.com/item?id=43058522) - [Diablo hackers uncovered a speedrun scandal](https://arstechnica.com/gaming/2025/02/the-diablo-hackers-that-debunked-a-record-speedrun/)
 * [2025-02-15, 10:07:23](https://news.ycombinator.com/item?id=43057375) - [Show HN: Kreuzberg – Modern async Python library for document text extraction](https://github.com/Goldziher/kreuzberg)
 * [2025-02-15, 09:59:20](https://news.ycombinator.com/item?id=43057344) - [Jane Street's Figgie card game](https://www.figgie.com/)
-* [2025-02-14, 22:36:31](https://news.ycombinator.com/item?id=43053844) - [We were wrong about GPUs](https://fly.io/blog/wrong-about-gpu/)
 * [2025-02-13, 17:40:29](https://news.ycombinator.com/item?id=43038794) - [Product Development Processes You Might Not Have Heard of (2022)](https://www.departmentofproduct.com/blog/product-development-processes-you-might-not-have-heard-of/)
 * [2025-02-13, 13:47:25](https://news.ycombinator.com/item?id=43035760) - [Sri Lanka scrambles to restore power after monkey causes islandwide outage](https://www.reuters.com/world/asia-pacific/sri-lanka-scrambles-restore-power-after-monkey-causes-islandwide-outage-2025-02-13/)
 * [2025-02-13, 04:46:26](https://news.ycombinator.com/item?id=43032759) - [Beginnings of Roman London discovered in office basement](https://www.bbc.com/news/articles/cx2jdnv0ywyo)
