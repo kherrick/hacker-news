@@ -62,6 +62,7 @@
 * [2025-02-14, 13:03:02](https://news.ycombinator.com/item?id=43047892) - [Watch me turn $25K and Python into either a hedge fund origin story or](https://pythonfintech.com)
 * [2025-02-14, 12:45:05](https://news.ycombinator.com/item?id=43047792) - [AI Is Stifling Tech Adoption](https://vale.rocks/posts/ai-is-stifling-tech-adoption)
 * [2025-02-14, 12:08:58](https://news.ycombinator.com/item?id=43047554) - [Show HN: A New Way to Learn Languages](https://www.langturbo.com)
+* [2025-02-14, 11:19:06](https://news.ycombinator.com/item?id=43047255) - [OpenVINO AI effects [denoising and transcription] for Audacity](https://www.audacityteam.org/blog/openvino-ai-effects/)
 * [2025-02-14, 09:16:54](https://news.ycombinator.com/item?id=43046466) - [\"Homotopical macrocosms for higher category theory\" identified as woke DEI grant](https://mathstodon.xyz/@johncarlosbaez/114000054766059217)
 * [2025-02-14, 08:37:20](https://news.ycombinator.com/item?id=43046205) - [Anthropic's next major AI model could arrive within weeks](https://techcrunch.com/2025/02/13/anthropics-next-major-ai-model-could-arrive-within-weeks/)
 * [2025-02-14, 08:34:31](https://news.ycombinator.com/item?id=43046192) - [Ricochet: Peer-to-peer instant messaging system built on Tor hidden services](https://github.com/ricochet-im/ricochet)
