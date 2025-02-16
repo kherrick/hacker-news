@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-02-16](index.md)
 
+* [2025-02-16, 15:44:05](https://news.ycombinator.com/item?id=43068884) - [Vim after Bram: a core maintainer on how they've kept it going](https://thenewstack.io/vim-after-bram-a-core-maintainer-on-how-theyve-kept-it-going/)
+* [2025-02-16, 15:08:33](https://news.ycombinator.com/item?id=43068587) - [Getter-Setter Pattern Considered Harmful](https://wolfgang-ziegler.com/blog/getter-setter-pattern-considered-harmful)
 * [2025-02-16, 14:33:33](https://news.ycombinator.com/item?id=43068337) - [So Many Unmarried Men](https://aeon.co/essays/for-mary-midgley-philosophy-must-be-entangled-in-daily-life)
+* [2025-02-16, 14:26:55](https://news.ycombinator.com/item?id=43068283) - [Rethinking the C Time API](https://oliverkwebb.github.io/articles/newtime/)
 * [2025-02-16, 12:46:55](https://news.ycombinator.com/item?id=43067585) - [Rust Is Eating JavaScript](https://leerob.com/n/rust)
+* [2025-02-16, 12:09:58](https://news.ycombinator.com/item?id=43067419) - [Blocklist for AI Music on YouTube](https://surasshu.com/blocklist-for-ai-music-on-youtube/)
 * [2025-02-16, 12:00:22](https://news.ycombinator.com/item?id=43067378) - [Statement or eyesore? Japan's divisive brutalist buildings – in pictures](https://www.theguardian.com/artanddesign/gallery/2025/jan/29/japan-brutalist-buildings-in-pictures)
 * [2025-02-16, 11:40:24](https://news.ycombinator.com/item?id=43067303) - [Finding Flow: Escaping digital distractions through deep work and slow living](https://www.ssp.sh/blog/finding-flow/)
 * [2025-02-16, 10:38:19](https://news.ycombinator.com/item?id=43067062) - [Man from uncontacted tribe emerges in Amazon, villagers demonstrate a lighter](https://apnews.com/article/brazil-amazon-indigenous-uncontacted-isolated-tribe-funai-0552568846327f9e4b296f83152c1afc)
