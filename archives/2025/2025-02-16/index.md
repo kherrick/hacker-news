@@ -7,6 +7,7 @@
 * [2025-02-16, 05:04:05](https://news.ycombinator.com/item?id=43065498) - [Modding the Gulf of Mexico Back (In Google Maps) [video]](https://www.youtube.com/watch?v=F5m2JxplnXk)
 * [2025-02-16, 04:16:58](https://news.ycombinator.com/item?id=43065270) - [JPMorgan employee questioned Dimon's RTO mandate, fired, then told he could stay](https://fortune.com/2025/02/15/jpmorgan-chase-firing-rto-work-from-home-technology-zoom-welch/)
 * [2025-02-16, 04:06:04](https://news.ycombinator.com/item?id=43065217) - [Gixy: Nginx Configuration Static Analyzer](https://github.com/dvershinin/gixy)
+* [2025-02-16, 03:46:18](https://news.ycombinator.com/item?id=43065125) - [Ask HN: Struggling to Understand DHTs – Any Good Resources?](https://news.ycombinator.com/item?id=43065125)
 * [2025-02-16, 03:40:03](https://news.ycombinator.com/item?id=43065095) - [Alex Karp Wants Silicon Valley to Fight for America](https://www.wsj.com/tech/who-is-alex-karp-palantir-ceo-dcd66e21)
 * [2025-02-16, 03:19:48](https://news.ycombinator.com/item?id=43065006) - [Ollama-Swift](https://nshipster.com/ollama/)
 * [2025-02-16, 02:07:25](https://news.ycombinator.com/item?id=43064637) - [How Medical Research Cuts Would Hit Colleges and Hospitals in Every State](https://www.nytimes.com/interactive/2025/02/13/upshot/nih-trump-funding-cuts.html)
