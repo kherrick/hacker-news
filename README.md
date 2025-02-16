@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-16, 07:45:49](https://news.ycombinator.com/item?id=43066182) - [US goverment seeks to rehire recently fired nuclear workers](https://www.bbc.com/news/articles/c4g3nrx1dq5o)
-* [2025-02-16, 07:09:08](https://news.ycombinator.com/item?id=43066048) - [Half of CDC Epidemic Intelligence Service Laid Off](https://newrepublic.com/post/191579/robert-f-kennedy-jr-cdc-infectious-disease-research)
 * [2025-02-16, 05:24:49](https://news.ycombinator.com/item?id=43065586) - [Dinner at a North Korean Restaurant in Shanghai](https://simplyfabulicious.wordpress.com/2016/09/09/dinner-at-a-north-korean-restaurant-in-shanghai/)
 * [2025-02-16, 04:06:04](https://news.ycombinator.com/item?id=43065217) - [Gixy: Nginx Configuration Static Analyzer](https://github.com/dvershinin/gixy)
 * [2025-02-16, 01:06:11](https://news.ycombinator.com/item?id=43064273) - [The Sims Game Design Documents (1997)](https://donhopkins.com/home/TheSimsDesignDocuments/)
@@ -21,6 +20,7 @@
 * [2025-02-15, 14:00:00](https://news.ycombinator.com/item?id=43058522) - [Diablo hackers uncovered a speedrun scandal](https://arstechnica.com/gaming/2025/02/the-diablo-hackers-that-debunked-a-record-speedrun/)
 * [2025-02-15, 10:07:23](https://news.ycombinator.com/item?id=43057375) - [Show HN: Kreuzberg – Modern async Python library for document text extraction](https://github.com/Goldziher/kreuzberg)
 * [2025-02-15, 09:59:20](https://news.ycombinator.com/item?id=43057344) - [Jane Street's Figgie card game](https://www.figgie.com/)
+* [2025-02-14, 22:36:31](https://news.ycombinator.com/item?id=43053844) - [We were wrong about GPUs](https://fly.io/blog/wrong-about-gpu/)
 * [2025-02-13, 17:40:29](https://news.ycombinator.com/item?id=43038794) - [Product Development Processes You Might Not Have Heard of (2022)](https://www.departmentofproduct.com/blog/product-development-processes-you-might-not-have-heard-of/)
 * [2025-02-13, 16:26:09](https://news.ycombinator.com/item?id=43037652) - [Bezos' Blue Origin to layoff about 10% across its space, launch business](https://www.cnbc.com/2025/02/13/bezos-blue-origin-to-layoff-about-10percent-across-its-space-launch-business-.html)
 * [2025-02-13, 14:13:37](https://news.ycombinator.com/item?id=43036012) - [Remco is a lightweight configuration management tool](https://github.com/HeavyHorst/remco)
