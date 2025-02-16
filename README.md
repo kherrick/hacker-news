@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-16, 17:04:09](https://news.ycombinator.com/item?id=43069533) - [IPv6 Is Hard](https://techlog.jenslink.net/posts/ipv6-is-hard/)
-* [2025-02-16, 16:49:27](https://news.ycombinator.com/item?id=43069424) - [Doubts remain over reliability of Texas' power grid](https://www.npr.org/2025/02/14/nx-s1-5289877/texas-power-grid-after-outage)
+* [2025-02-16, 16:57:05](https://news.ycombinator.com/item?id=43069475) - [Why I'm leaving Elm (2020)](https://lukeplant.me.uk/blog/posts/why-im-leaving-elm/)
+* [2025-02-16, 16:49:27](https://news.ycombinator.com/item?id=43069424) - [Doubts remain over reliability of Texas power grid](https://www.npr.org/2025/02/14/nx-s1-5289877/texas-power-grid-after-outage)
 * [2025-02-16, 16:45:26](https://news.ycombinator.com/item?id=43069399) - [United States Power Outage Map](https://poweroutage.us/)
 * [2025-02-16, 15:44:05](https://news.ycombinator.com/item?id=43068884) - [Vim after Bram: a core maintainer on how they've kept it going](https://thenewstack.io/vim-after-bram-a-core-maintainer-on-how-theyve-kept-it-going/)
 * [2025-02-16, 15:08:31](https://news.ycombinator.com/item?id=43068585) - [Flea-Scope: $18 Source Available USB Oscilloscope, Logic Analyzer and More [pdf]](https://rtestardi.github.io/usbte/flea-scope.pdf)
@@ -19,7 +20,6 @@
 * [2025-02-15, 20:04:30](https://news.ycombinator.com/item?id=43061803) - [Reasons to Not Parse Localized Strings](https://blog.sffc.xyz/post/190943794505/why-you-should-not-parse-localized-strings)
 * [2025-02-15, 19:34:29](https://news.ycombinator.com/item?id=43061498) - [My Life in Weeks](https://weeks.ginatrapani.org/)
 * [2025-02-15, 19:00:38](https://news.ycombinator.com/item?id=43061183) - [Schemesh: Fusion between Unix shell and Lisp REPL](https://github.com/cosmos72/schemesh)
-* [2025-02-15, 18:26:49](https://news.ycombinator.com/item?id=43060818) - [PAROL6: 3D-printed desktop robotic arm](https://source-robotics.github.io/PAROL-docs/)
 * [2025-02-15, 09:59:20](https://news.ycombinator.com/item?id=43057344) - [Jane Street's Figgie card game](https://www.figgie.com/)
 * [2025-02-14, 14:32:55](https://news.ycombinator.com/item?id=43048698) - [Ask HN: What is the best method for turning a scanned book as a PDF into text?](https://news.ycombinator.com/item?id=43048698)
 * [2025-02-14, 13:47:53](https://news.ycombinator.com/item?id=43048190) - [Show HN: Tetris Variant in a Rotating / Flipping Square](https://ihopethisisfun.franzai.com/)
