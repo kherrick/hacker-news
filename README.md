@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-16, 02:07:25](https://news.ycombinator.com/item?id=43064637) - [How Medical Research Cuts Would Hit Colleges and Hospitals in Every State](https://www.nytimes.com/interactive/2025/02/13/upshot/nih-trump-funding-cuts.html)
-* [2025-02-16, 01:20:33](https://news.ycombinator.com/item?id=43064359) - [GulfOfMexico: Perfect Programming Language](https://github.com/TodePond/GulfOfMexico)
 * [2025-02-16, 01:06:11](https://news.ycombinator.com/item?id=43064273) - [The Sims Game Design Documents (1997)](https://donhopkins.com/home/TheSimsDesignDocuments/)
 * [2025-02-16, 00:22:01](https://news.ycombinator.com/item?id=43063970) - [Show HN: Blunderchess.net – blunder for your opponent every five moves](https://blunderchess.net)
 * [2025-02-15, 22:48:56](https://news.ycombinator.com/item?id=43063239) - [Create a QubesOS Gaming HVM with GPU PCI passthrough (2023)](https://forum.qubes-os.org/t/create-a-gaming-hvm/19000)
@@ -22,12 +21,13 @@
 * [2025-02-15, 10:07:23](https://news.ycombinator.com/item?id=43057375) - [Show HN: Kreuzberg – Modern async Python library for document text extraction](https://github.com/Goldziher/kreuzberg)
 * [2025-02-15, 09:59:20](https://news.ycombinator.com/item?id=43057344) - [Jane Street's Figgie card game](https://www.figgie.com/)
 * [2025-02-15, 03:31:56](https://news.ycombinator.com/item?id=43055671) - [The 20 year old PSP can now connect to WPA2 WiFi Networks](https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/)
+* [2025-02-14, 22:36:31](https://news.ycombinator.com/item?id=43053844) - [We were wrong about GPUs](https://fly.io/blog/wrong-about-gpu/)
+* [2025-02-14, 18:01:04](https://news.ycombinator.com/item?id=43051123) - [Edgware 1924: The Making of a Suburb](https://www.modernism-in-metroland.co.uk/blog/edgware-1924-the-making-of-a-suburb)
 * [2025-02-13, 17:40:29](https://news.ycombinator.com/item?id=43038794) - [Product Development Processes You Might Not Have Heard of (2022)](https://www.departmentofproduct.com/blog/product-development-processes-you-might-not-have-heard-of/)
 * [2025-02-13, 13:47:25](https://news.ycombinator.com/item?id=43035760) - [Sri Lanka scrambles to restore power after monkey causes islandwide outage](https://www.reuters.com/world/asia-pacific/sri-lanka-scrambles-restore-power-after-monkey-causes-islandwide-outage-2025-02-13/)
 * [2025-02-13, 04:45:21](https://news.ycombinator.com/item?id=43032751) - [Small, Light, Robust Phones for a Type 1 Diabetic Child](https://maori.geek.nz/small-light-robust-phones-for-a-type-1-diabetic-child-fcb07378ff78)
 * [2025-02-12, 11:12:06](https://news.ycombinator.com/item?id=43024176) - [Tea Extensions [pdf] (2006)](https://tayloredge.com/reference/Mathematics/TEA-XTEA.pdf)
 * [2025-02-12, 09:54:14](https://news.ycombinator.com/item?id=43023698) - [Show HN: Letting LLMs Run a Debugger](https://github.com/mohsen1/llm-debugger-vscode-extension)
-* [2025-02-12, 09:28:08](https://news.ycombinator.com/item?id=43023527) - [It's a knowledge problem Or is it?](https://josvisser.substack.com/p/its-a-knowledge-problem-or-is-it)
 * [2025-02-12, 02:15:17](https://news.ycombinator.com/item?id=43021044) - [TL;DW: Too Long; Didn't Watch Distill YouTube Videos to the Relevant Information](https://tldw.tube/)
 * [2025-02-12, 00:00:28](https://news.ycombinator.com/item?id=43019975) - [Surprise Magma Chamber Growing Under Mediterranean Volcano (2023)](https://news.agu.org/press-release/surprise-magma-chamber-growing-under-mediterranean-volcano/)
 
