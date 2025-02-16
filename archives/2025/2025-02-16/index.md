@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-16](index.md)
 
+* [2025-02-16, 17:04:09](https://news.ycombinator.com/item?id=43069533) - [IPv6 Is Hard](https://techlog.jenslink.net/posts/ipv6-is-hard/)
 * [2025-02-16, 16:49:27](https://news.ycombinator.com/item?id=43069424) - [Doubts remain over reliability of Texas' power grid](https://www.npr.org/2025/02/14/nx-s1-5289877/texas-power-grid-after-outage)
 * [2025-02-16, 16:45:26](https://news.ycombinator.com/item?id=43069399) - [United States Power Outage Map](https://poweroutage.us/)
 * [2025-02-16, 16:43:26](https://news.ycombinator.com/item?id=43069381) - [Apple Maps Might Start Showing Ads](https://www.macrumors.com/2025/02/16/apple-maps-might-start-showing-ads/)
