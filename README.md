@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-16, 20:08:07](https://news.ycombinator.com/item?id=43071193) - [Why is there a screen that says \"It is now safe to turn off your computer\"? (2016)](https://devblogs.microsoft.com/oldnewthing/20160419-00/?p=93315)
 * [2025-02-16, 20:01:18](https://news.ycombinator.com/item?id=43071147) - [Netflix says its brief Apple TV app integration was a mistake](https://www.theverge.com/news/613307/netflix-apple-tv-app-support-mistake)
 * [2025-02-16, 19:57:32](https://news.ycombinator.com/item?id=43071110) - [Portable drone jammer uses a Raspberry Pi tactical Software Defined Radio](https://www.tomshardware.com/raspberry-pi/portable-raspberry-pi-tactical-software-defines-radio-doubles-as-a-drone-jammer)
 * [2025-02-16, 19:54:20](https://news.ycombinator.com/item?id=43071085) - [Trick to find commands in the terminal quickly](https://github.com/madprops/blog/blob/main/docs/cmd_icons.md)
@@ -22,7 +23,6 @@
 * [2025-02-15, 20:07:39](https://news.ycombinator.com/item?id=43061827) - [Perplexity Deep Research](https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research)
 * [2025-02-14, 17:22:44](https://news.ycombinator.com/item?id=43050644) - [Bombed Fresco: Using Math to Piece Together a Lost Treasure](https://www.spiegel.de/international/zeitgeist/bombed-fresco-using-math-to-piece-together-a-lost-treasure-a-792781.html)
 * [2025-02-14, 14:32:55](https://news.ycombinator.com/item?id=43048698) - [Ask HN: What is the best method for turning a scanned book as a PDF into text?](https://news.ycombinator.com/item?id=43048698)
-* [2025-02-14, 13:47:53](https://news.ycombinator.com/item?id=43048190) - [Show HN: Tetris Variant in a Rotating / Flipping Square](https://ihopethisisfun.franzai.com/)
 * [2025-02-14, 11:19:06](https://news.ycombinator.com/item?id=43047255) - [OpenVINO AI effects [denoising and transcription] for Audacity](https://www.audacityteam.org/blog/openvino-ai-effects/)
 * [2025-02-14, 01:40:53](https://news.ycombinator.com/item?id=43043724) - [History 2701 Wiki](https://history2701.fandom.com/wiki/History_2701_Wiki)
 * [2025-02-13, 15:34:57](https://news.ycombinator.com/item?id=43036903) - [Explaining my fast 6502 code generator](https://pubby.games/codegen.html)

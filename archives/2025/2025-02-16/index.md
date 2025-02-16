@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-16](index.md)
 
+* [2025-02-16, 20:08:07](https://news.ycombinator.com/item?id=43071193) - [Why is there a screen that says \"It is now safe to turn off your computer\"? (2016)](https://devblogs.microsoft.com/oldnewthing/20160419-00/?p=93315)
 * [2025-02-16, 20:01:18](https://news.ycombinator.com/item?id=43071147) - [Netflix says its brief Apple TV app integration was a mistake](https://www.theverge.com/news/613307/netflix-apple-tv-app-support-mistake)
 * [2025-02-16, 19:57:32](https://news.ycombinator.com/item?id=43071110) - [Portable drone jammer uses a Raspberry Pi tactical Software Defined Radio](https://www.tomshardware.com/raspberry-pi/portable-raspberry-pi-tactical-software-defines-radio-doubles-as-a-drone-jammer)
 * [2025-02-16, 19:54:20](https://news.ycombinator.com/item?id=43071085) - [Trick to find commands in the terminal quickly](https://github.com/madprops/blog/blob/main/docs/cmd_icons.md)
