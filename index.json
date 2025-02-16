@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-02-16, 19:57:32",
+      "https://news.ycombinator.com/item?id=43071110"
+    ],
+    [
+      "Portable drone jammer uses a Raspberry Pi tactical Software Defined Radio",
+      "https://www.tomshardware.com/raspberry-pi/portable-raspberry-pi-tactical-software-defines-radio-doubles-as-a-drone-jammer"
+    ]
+  ],
+  [
+    [
+      "2025-02-16, 19:54:20",
+      "https://news.ycombinator.com/item?id=43071085"
+    ],
+    [
+      "Trick to find commands in the terminal quickly",
+      "https://github.com/madprops/blog/blob/main/docs/cmd_icons.md"
+    ]
+  ],
+  [
+    [
       "2025-02-16, 19:38:09",
       "https://news.ycombinator.com/item?id=43070946"
     ],
     [
       "Top US Election Security Watchdog Forced to Stop Election Security Work",
       "https://www.wired.com/story/cisa-election-security-freeze-memo/"
+    ]
+  ],
+  [
+    [
+      "2025-02-16, 19:04:30",
+      "https://news.ycombinator.com/item?id=43070643"
+    ],
+    [
+      "When Compilers Were the 'AI' That Scared Programmers",
+      "https://vivekhaldar.com/articles/when-compilers-were-the--ai--that-scared-programmers/"
     ]
   ],
   [
@@ -177,36 +207,6 @@
     [
       "Perplexity Deep Research",
       "https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research"
-    ]
-  ],
-  [
-    [
-      "2025-02-15, 19:34:29",
-      "https://news.ycombinator.com/item?id=43061498"
-    ],
-    [
-      "My Life in Weeks",
-      "https://weeks.ginatrapani.org/"
-    ]
-  ],
-  [
-    [
-      "2025-02-15, 19:00:38",
-      "https://news.ycombinator.com/item?id=43061183"
-    ],
-    [
-      "Schemesh: Fusion between Unix shell and Lisp REPL",
-      "https://github.com/cosmos72/schemesh"
-    ]
-  ],
-  [
-    [
-      "2025-02-15, 18:26:49",
-      "https://news.ycombinator.com/item?id=43060818"
-    ],
-    [
-      "PAROL6: 3D-printed desktop robotic arm",
-      "https://source-robotics.github.io/PAROL-docs/"
     ]
   ],
   [
