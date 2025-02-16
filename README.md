@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-16, 23:15:59](https://news.ycombinator.com/item?id=43072790) - [Javier Milei Backtracks on $4.4B Memecoin After 'Insiders' Pocket $87M](https://www.coindesk.com/business/2025/02/15/javier-milei-backtracks-on-usd4-4b-memecoin-after-insiders-pocket-usd87m)
 * [2025-02-16, 22:38:14](https://news.ycombinator.com/item?id=43072483) - [Opposing arrows of time can theoretically emerge from certain quantum systems](https://www.surrey.ac.uk/news/physicists-uncover-evidence-two-arrows-time-emerging-quantum-realm)
-* [2025-02-16, 22:32:07](https://news.ycombinator.com/item?id=43072416) - [Google defends scrapping AI pledges and DEI goals in all-staff meeting](https://www.theguardian.com/us-news/2025/feb/12/google-all-staff-meeting-ai-dei)
 * [2025-02-16, 22:22:40](https://news.ycombinator.com/item?id=43072338) - [Uchū · the color scheme for internet lovers](https://uchu.style)
 * [2025-02-16, 21:36:21](https://news.ycombinator.com/item?id=43071934) - [Show HN: Air traffic control radio and chill music for focus](https://www.chillyatc.com/)
 * [2025-02-16, 20:45:30](https://news.ycombinator.com/item?id=43071506) - [Critics say new Google rules put profits over privacy](https://www.bbc.com/news/articles/cm21g0052dno)
