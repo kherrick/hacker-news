@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-17](index.md)
 
+* [2025-02-17, 09:07:45](https://news.ycombinator.com/item?id=43076785) - [Searchcode.com's SQLite database is probably 6 terabytes bigger than yours](https://boyter.org/posts/searchcode-bigger-sqlite-than-you/)
 * [2025-02-17, 08:52:51](https://news.ycombinator.com/item?id=43076710) - [Twitter blocks links to Signal messenger](https://www.disruptionist.com/p/elon-musks-x-blocks-links-to-signal)
 * [2025-02-17, 07:52:35](https://news.ycombinator.com/item?id=43076325) - [South Korea bans new DeepSeek AI downloads](https://www.bbc.com/news/articles/clyzym0vn8go)
 * [2025-02-17, 05:59:50](https://news.ycombinator.com/item?id=43075665) - [BMW's next-gen EVs depend on an unassuming black box called 'Heart of Joy'](https://www.theverge.com/cars/613962/bme-heart-of-joy-ecu-ev-powertrain-drive-dynamics)
