@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-17](index.md)
 
+* [2025-02-17, 21:05:48](https://news.ycombinator.com/item?id=43083295) - [NLRB Acting General Counsel Rescinds Non-Compete Labor Policy](https://natlawreview.com/article/nlrb-acting-general-counsel-rescinds-non-compete-labor-policy)
 * [2025-02-17, 21:04:33](https://news.ycombinator.com/item?id=43083280) - [Project 2025 Observer](https://www.project2025.observer/)
 * [2025-02-17, 21:00:29](https://news.ycombinator.com/item?id=43083255) - [TestRigor (YC S21) Is Hiring VP of Engineering](https://www.ycombinator.com/companies/testrigor/jobs/AuTkpC9-vp-of-engineering)
 * [2025-02-17, 19:53:26](https://news.ycombinator.com/item?id=43082700) - [Are noise-cancelling headphones to blame for young people's hearing problems?](https://www.bbc.com/news/articles/cgkjvr7x5x6o)
