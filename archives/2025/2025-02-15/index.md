@@ -72,6 +72,7 @@
 * [2025-02-15, 03:30:25](https://news.ycombinator.com/item?id=43055660) - [Tuvalu – The First Digital Nation](https://www.tuvalu.tv/)
 * [2025-02-15, 02:43:31](https://news.ycombinator.com/item?id=43055393) - [Gary Marcus discusses AI's technical problems](https://cacm.acm.org/opinion/not-on-the-best-path/)
 * [2025-02-15, 02:36:22](https://news.ycombinator.com/item?id=43055340) - [Why We're Falling Out of Love with Tesla](https://worldcrunch.com/business-finance/tesla-sales-musk)
+* [2025-02-15, 02:10:04](https://news.ycombinator.com/item?id=43055191) - [The San Francisco stadium that fog killed](https://www.sfgate.com/sports/article/sf-thought-built-stadium-future-fog-ewing-field-20051971.php)
 * [2025-02-15, 01:49:34](https://news.ycombinator.com/item?id=43055068) - [In a showdown of psychotherapists vs. ChatGPT, the latter wins, new study finds](https://fortune.com/well/2025/02/13/in-a-showdown-of-psychotherapists-vs-chatgpt-the-latter-wins-new-study-finds/)
 * [2025-02-15, 01:32:05](https://news.ycombinator.com/item?id=43054963) - [Q2DOS – Quake 2 backported to MS-DOS](https://dk.toastednet.org/Q2DOS/)
 * [2025-02-15, 01:19:20](https://news.ycombinator.com/item?id=43054892) - [Men claiming to be from DOGE show up at San Francisco City Hall, demand records](https://www.cbsnews.com/sanfrancisco/news/doge-3-men-show-up-at-sf-city-hall-demand-records/)
