@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-17, 21:05:48](https://news.ycombinator.com/item?id=43083295) - [NLRB Acting General Counsel Rescinds Non-Compete Labor Policy](https://natlawreview.com/article/nlrb-acting-general-counsel-rescinds-non-compete-labor-policy)
+* [2025-02-17, 21:05:48](https://news.ycombinator.com/item?id=43083295) - [NLRB acting general counsel rescinds non-compete labor policy](https://natlawreview.com/article/nlrb-acting-general-counsel-rescinds-non-compete-labor-policy)
 * [2025-02-17, 21:00:29](https://news.ycombinator.com/item?id=43083255) - [TestRigor (YC S21) Is Hiring VP of Engineering](https://www.ycombinator.com/companies/testrigor/jobs/AuTkpC9-vp-of-engineering)
-* [2025-02-17, 19:53:26](https://news.ycombinator.com/item?id=43082700) - [Are noise-cancelling headphones to blame for young people's hearing problems?](https://www.bbc.com/news/articles/cgkjvr7x5x6o)
+* [2025-02-17, 19:57:16](https://news.ycombinator.com/item?id=43082739) - [NES86 – IBM PC Emulator for the NES](https://github.com/decrazyo/nes86)
 * [2025-02-17, 19:12:14](https://news.ycombinator.com/item?id=43082287) - [Who carved South America's mysterious ancient tunnels? [pdf]](https://www.clp.unesp.br/Modulos/Noticias/401/paleoburrows-nature-2025.pdf)
 * [2025-02-17, 18:10:35](https://news.ycombinator.com/item?id=43081713) - [Debugging an Undebuggable App](https://bryce.co/undebuggable/)
 * [2025-02-17, 16:54:52](https://news.ycombinator.com/item?id=43080895) - [Launch HN: Roark (YC W25) – Taking the pain out of voice AI testing](https://news.ycombinator.com/item?id=43080895)
@@ -19,7 +19,6 @@
 * [2025-02-17, 01:42:12](https://news.ycombinator.com/item?id=43073969) - [All Kindles can now be jailbroken](https://kindlemodding.org/jailbreaking/WinterBreak/)
 * [2025-02-17, 01:22:49](https://news.ycombinator.com/item?id=43073808) - [Homemade polarimetric synthetic aperture radar drone](https://hforsten.com/homemade-polarimetric-synthetic-aperture-radar-drone.html)
 * [2025-02-17, 00:26:04](https://news.ycombinator.com/item?id=43073377) - [Making Markets on Kalshi](https://rlafuente.com/post?post=2025-2-16-marketmaking-on-kalshi)
-* [2025-02-17, 00:15:50](https://news.ycombinator.com/item?id=43073292) - [San Francisco homelessness: Park ranger helps one person at a time](https://sfstandard.com/2025/02/08/golden-gate-park-ranger-homelessness/)
 * [2025-02-16, 23:56:16](https://news.ycombinator.com/item?id=43073149) - [Did missing/corrupt dates in COBOL default to 1875-05-20?](https://retrocomputing.stackexchange.com/questions/31288/does-or-did-cobol-default-to-1875-05-20-for-corrupt-or-missing-dates)
 * [2025-02-16, 21:42:03](https://news.ycombinator.com/item?id=43071983) - [I helped fix sleep-wake hangs on Linux with AMD GPUs](https://nyanpasu64.gitlab.io/blog/amdgpu-sleep-wake-hang/)
 * [2025-02-16, 08:02:30](https://news.ycombinator.com/item?id=43066247) - [DSLs for Safe iOS/WatchOS Communication](https://defn.io/2025/02/16/type-safe-watchos-communication/)
@@ -28,6 +27,7 @@
 * [2025-02-14, 21:43:50](https://news.ycombinator.com/item?id=43053403) - [George Eliot's reflections on AGI from 1879](https://www.learningfromexamples.com/p/reflections-on-superintelligence)
 * [2025-02-14, 13:30:24](https://news.ycombinator.com/item?id=43048073) - [How do modern compilers choose which variables to put in registers?](https://langdev.stackexchange.com/questions/4325/how-do-modern-compilers-choose-which-variables-to-put-in-registers)
 * [2025-02-14, 11:36:39](https://news.ycombinator.com/item?id=43047341) - [You're not a senior engineer until you've worked on a legacy project (2023)](https://www.infobip.com/developers/blog/seniors-working-on-a-legacy-project)
+* [2025-02-14, 09:42:05](https://news.ycombinator.com/item?id=43046631) - [Why Quantum Cryptanalysis is Bollocks [pdf]](https://www.cs.auckland.ac.nz/~pgut001/pubs/bollocks.pdf)
 * [2025-02-13, 20:36:11](https://news.ycombinator.com/item?id=43040986) - [Spacetime maps: A map that warps to show travel time](https://maps.vvolhejn.com)
 * [2025-02-13, 19:56:30](https://news.ycombinator.com/item?id=43040507) - [Umami is a simple, fast, privacy-focused alternative to Google Analytics](https://github.com/umami-software/umami)
 
