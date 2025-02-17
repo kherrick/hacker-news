@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-17, 03:43:52](https://news.ycombinator.com/item?id=43074892) - [A list of online services to regain control over your privacy online](https://www.linux.org/threads/a-list-of-online-services-to-regain-control-over-your-privacy-online.55222/)
 * [2025-02-17, 02:29:51](https://news.ycombinator.com/item?id=43074347) - [Ugandan runner Jacob Kiplimo completes first ever sub-57 minute half marathon](https://www.cnn.com/2025/02/16/sport/jacob-kiplimo-smashes-half-marathon-record-spt-intl/index.html)
 * [2025-02-17, 02:14:19](https://news.ycombinator.com/item?id=43074214) - [The human mind is in a recession](https://www.ft.com/content/c288abc6-24a4-4062-aeb4-05c463ae7289)
 * [2025-02-17, 01:45:28](https://news.ycombinator.com/item?id=43073992) - [Did the Windows 95 setup team forget that MS-DOS can do graphics?](https://devblogs.microsoft.com/oldnewthing/20250211-00/?p=110862)
@@ -15,7 +16,6 @@
 * [2025-02-16, 21:36:21](https://news.ycombinator.com/item?id=43071934) - [Show HN: Air traffic control radio and chill music for focus](https://www.chillyatc.com/)
 * [2025-02-16, 21:14:22](https://news.ycombinator.com/item?id=43071775) - [Physics Informed Neural Networks](https://nchagnet.pages.dev/blog/physics-informed-neural-networks/)
 * [2025-02-16, 20:18:45](https://news.ycombinator.com/item?id=43071286) - [When Not to Obey Orders (2019)](https://warontherocks.com/2019/07/when-not-to-obey-orders/)
-* [2025-02-16, 19:54:20](https://news.ycombinator.com/item?id=43071085) - [Trick to find commands in the terminal quickly](https://github.com/madprops/blog/blob/main/docs/cmd_icons.md)
 * [2025-02-16, 17:04:09](https://news.ycombinator.com/item?id=43069533) - [IPv6 Is Hard](https://techlog.jenslink.net/posts/ipv6-is-hard/)
 * [2025-02-16, 17:01:34](https://news.ycombinator.com/item?id=43069514) - [Half-Life 2 and Dishonored art lead Viktor Antonov has died](https://www.eurogamer.net/half-life-2-and-dishonored-art-lead-viktor-antonov-dies-aged-just-52)
 * [2025-02-16, 16:45:26](https://news.ycombinator.com/item?id=43069399) - [United States Power Outage Map](https://poweroutage.us/)
