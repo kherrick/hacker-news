@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-17, 16:23:30](https://news.ycombinator.com/item?id=43080535) - [Hk, a new Git hook manager from jdx](https://hk.jdx.dev/about.html)
+* [2025-02-17, 15:15:14](https://news.ycombinator.com/item?id=43079791) - [Now you can run Ruby on Rails in the browser using WebAssembly](https://web.dev/blog/ruby-on-rails-on-webassembly)
 * [2025-02-17, 13:56:30](https://news.ycombinator.com/item?id=43079046) - [Mistral Saba](https://mistral.ai/en/news/mistral-saba)
 * [2025-02-17, 13:02:46](https://news.ycombinator.com/item?id=43078537) - [Fluoxetine promotes metabolic defenses to protect from sepsis-induced lethality](https://www.science.org/doi/10.1126/sciadv.adu4034)
 * [2025-02-17, 11:18:29](https://news.ycombinator.com/item?id=43077675) - [0+0 > 0: C++ thread-local storage performance](https://yosefk.com/blog/cxx-thread-local-storage-performance.html)
@@ -20,7 +22,6 @@
 * [2025-02-16, 17:01:34](https://news.ycombinator.com/item?id=43069514) - [Half-Life 2 and Dishonored art lead Viktor Antonov has died](https://www.eurogamer.net/half-life-2-and-dishonored-art-lead-viktor-antonov-dies-aged-just-52)
 * [2025-02-16, 10:16:49](https://news.ycombinator.com/item?id=43066953) - [“A calculator app? Anyone could make that”](https://chadnauseam.com/coding/random/calculator-app)
 * [2025-02-14, 21:43:50](https://news.ycombinator.com/item?id=43053403) - [Reflections on AGI from 1879](https://www.learningfromexamples.com/p/reflections-on-superintelligence)
-* [2025-02-14, 21:29:11](https://news.ycombinator.com/item?id=43053251) - [I use two trumpets to play the flute [video]](https://www.youtube.com/watch?v=Jcx_gU60aL0)
 * [2025-02-14, 17:01:43](https://news.ycombinator.com/item?id=43050447) - [Extreme supersonic winds measured on a planet outside our solar system](https://phys.org/news/2025-01-extreme-supersonic-planet-solar.html)
 * [2025-02-14, 13:30:24](https://news.ycombinator.com/item?id=43048073) - [How do modern compilers choose which variables to put in registers?](https://langdev.stackexchange.com/questions/4325/how-do-modern-compilers-choose-which-variables-to-put-in-registers)
 * [2025-02-14, 11:36:39](https://news.ycombinator.com/item?id=43047341) - [You're not a senior engineer until you've worked on a legacy project](https://www.infobip.com/developers/blog/seniors-working-on-a-legacy-project)
@@ -28,7 +29,6 @@
 * [2025-02-13, 19:56:30](https://news.ycombinator.com/item?id=43040507) - [Umami is a simple, fast, privacy-focused alternative to Google Analytics](https://github.com/umami-software/umami)
 * [2025-02-13, 19:25:05](https://news.ycombinator.com/item?id=43040129) - [Gold Is Worth More in New York](https://www.bloomberg.com/opinion/articles/2025-02-13/gold-is-worth-more-in-new-york)
 * [2025-02-13, 15:04:31](https://news.ycombinator.com/item?id=43036560) - [The lottery of the snakebite antivenom industry](https://www.theguardian.com/global-development/2025/feb/13/its-a-cowboy-show-out-there-the-deadly-lottery-of-the-snakebite-antivenom-industry)
-* [2025-02-13, 14:00:41](https://news.ycombinator.com/item?id=43035896) - [Publish Your Gaussian Splats with SuperSplat](https://blog.playcanvas.com/publish-your-gaussian-splats-with-supersplat/)
 * [2025-02-13, 09:16:20](https://news.ycombinator.com/item?id=43034179) - [Hans Bethe Stumbled Upon Perfect Quantum Theories](https://www.quantamagazine.org/how-hans-bethe-stumbled-upon-perfect-quantum-theories-20250212/)
 
 ## [Archives](archives/index.md)
