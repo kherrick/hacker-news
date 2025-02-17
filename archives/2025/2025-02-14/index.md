@@ -58,6 +58,7 @@
 * [2025-02-14, 14:42:59](https://news.ycombinator.com/item?id=43048816) - [Zuckerberg's rightward policy shift puts Meta staffers on edge, targets Apple](https://www.cnbc.com/2025/02/14/zuckerbergs-rightward-policy-shift-hits-meta-staffers-targets-apple.html)
 * [2025-02-14, 14:32:55](https://news.ycombinator.com/item?id=43048698) - [Ask HN: What is the best method for turning a scanned book as a PDF into text?](https://news.ycombinator.com/item?id=43048698)
 * [2025-02-14, 14:01:10](https://news.ycombinator.com/item?id=43048345) - [A woman made her AI voice clone say \"arse.\" Then she got banned](https://www.technologyreview.com/2025/02/14/1111900/ai-voice-clone-say-arse-then-banned/)
+* [2025-02-14, 13:54:16](https://news.ycombinator.com/item?id=43048264) - [A humpback whale briefly swallows kayaker in Chile](https://apnews.com/article/chile-kayaking-tourism-whale-b0cafde4b640326f20a9da28003d6c26)
 * [2025-02-14, 13:53:49](https://news.ycombinator.com/item?id=43048261) - [The History of S.U.S..E](https://www.abortretry.fail/p/the-history-of-suse)
 * [2025-02-14, 13:47:53](https://news.ycombinator.com/item?id=43048190) - [Show HN: Tetris Variant in a Rotating / Flipping Square](https://ihopethisisfun.franzai.com/)
 * [2025-02-14, 13:30:41](https://news.ycombinator.com/item?id=43048077) - [Only About 40% of the Cruz \"Woke Science\" Database Is Woke Science](https://www.astralcodexten.com/p/only-about-40-of-the-cruz-woke-science)
