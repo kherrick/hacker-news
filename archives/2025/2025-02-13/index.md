@@ -19,6 +19,7 @@
 * [2025-02-13, 20:27:08](https://news.ycombinator.com/item?id=43040869) - [JesseSort: A novel sorting algorithm that is faster than Python's default sort.](https://github.com/lewj85/jessesort)
 * [2025-02-13, 20:06:48](https://news.ycombinator.com/item?id=43040631) - [DOGE's Website Is Just One Big X Ad](https://www.wired.com/story/doge-website-is-just-one-big-x-ad/)
 * [2025-02-13, 19:57:29](https://news.ycombinator.com/item?id=43040521) - [Privacy Pass Authentication for Kagi Search](https://blog.kagi.com/kagi-privacy-pass)
+* [2025-02-13, 19:56:30](https://news.ycombinator.com/item?id=43040507) - [Umami is a simple, fast, privacy-focused alternative to Google Analytics](https://github.com/umami-software/umami)
 * [2025-02-13, 19:44:34](https://news.ycombinator.com/item?id=43040382) - [MapTCHA, the open-source CAPTCHA that improves OpenStreetMap [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-5879-maptcha-the-open-source-captcha-that-improves-openstreetmap/)
 * [2025-02-13, 19:41:29](https://news.ycombinator.com/item?id=43040341) - [Cheap solar power is sending electrical grids into a death spiral](https://www.economist.com/finance-and-economics/2025/02/13/cheap-solar-power-is-sending-electrical-grids-into-a-death-spiral)
 * [2025-02-13, 19:39:30](https://news.ycombinator.com/item?id=43040320) - [Google fumbles Gemini Super Bowl ad's cheese statistic](https://www.techradar.com/computing/artificial-intelligence/google-fumbles-gemini-super-bowl-ads-cheese-statistic)
