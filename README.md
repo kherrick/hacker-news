@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-17, 16:54:52](https://news.ycombinator.com/item?id=43080895) - [Launch HN: Roark (YC W25) – Taking the Pain Out of Voice AI Testing](https://news.ycombinator.com/item?id=43080895)
 * [2025-02-17, 16:51:52](https://news.ycombinator.com/item?id=43080858) - [kartoffels v0.7: Cellular Automata, Statistics, 32-bit RISC-V](https://pwy.io/posts/kartoffels-v0.7/)
 * [2025-02-17, 16:23:30](https://news.ycombinator.com/item?id=43080535) - [Hk, a new Git hook manager from jdx](https://hk.jdx.dev/about.html)
 * [2025-02-17, 16:09:47](https://news.ycombinator.com/item?id=43080378) - [Open Source projects could sell SBoM fragments](https://www.thomas-huehn.com/open-source-projects-could-sell-sbom-fragments/)
@@ -10,7 +11,6 @@
 * [2025-02-17, 13:02:46](https://news.ycombinator.com/item?id=43078537) - [Fluoxetine promotes metabolic defenses to protect from sepsis-induced lethality](https://www.science.org/doi/10.1126/sciadv.adu4034)
 * [2025-02-17, 11:18:29](https://news.ycombinator.com/item?id=43077675) - [0+0 > 0: C++ thread-local storage performance](https://yosefk.com/blog/cxx-thread-local-storage-performance.html)
 * [2025-02-17, 09:54:46](https://news.ycombinator.com/item?id=43077074) - [Step-Video-T2V: The Practice, Challenges, and Future of Video Foundation Model](https://arxiv.org/abs/2502.10248)
-* [2025-02-17, 08:52:51](https://news.ycombinator.com/item?id=43076710) - [X users are unable to post “Signal.me” links](https://www.disruptionist.com/p/elon-musks-x-blocks-links-to-signal)
 * [2025-02-17, 05:02:35](https://news.ycombinator.com/item?id=43075347) - [The secret ingredients of word2vec (2016)](https://www.ruder.io/secret-word2vec/)
 * [2025-02-17, 04:23:10](https://news.ycombinator.com/item?id=43075113) - [My Time at MIT](http://muratbuffalo.blogspot.com/2025/02/my-time-at-mit.html)
 * [2025-02-17, 01:42:12](https://news.ycombinator.com/item?id=43073969) - [All Kindles can now be jailbroken](https://kindlemodding.org/jailbreaking/WinterBreak/)
@@ -19,7 +19,7 @@
 * [2025-02-17, 00:15:50](https://news.ycombinator.com/item?id=43073292) - [San Francisco homelessness: Park ranger helps one person at a time](https://sfstandard.com/2025/02/08/golden-gate-park-ranger-homelessness/)
 * [2025-02-16, 23:56:16](https://news.ycombinator.com/item?id=43073149) - [Does or did COBOL default to 1875-05-20 for corrupt or missing dates?](https://retrocomputing.stackexchange.com/questions/31288/does-or-did-cobol-default-to-1875-05-20-for-corrupt-or-missing-dates)
 * [2025-02-16, 22:22:40](https://news.ycombinator.com/item?id=43072338) - [Uchū – Color palette for internet lovers](https://uchu.style)
-* [2025-02-16, 21:14:22](https://news.ycombinator.com/item?id=43071775) - [Physics Informed Neural Networks](https://nchagnet.pages.dev/blog/physics-informed-neural-networks/)
+* [2025-02-16, 21:42:03](https://news.ycombinator.com/item?id=43071983) - [I helped fix sleep-wake hangs on Linux with AMD GPUs](https://nyanpasu64.gitlab.io/blog/amdgpu-sleep-wake-hang/)
 * [2025-02-16, 20:18:45](https://news.ycombinator.com/item?id=43071286) - [When Not to Obey Orders (2019)](https://warontherocks.com/2019/07/when-not-to-obey-orders/)
 * [2025-02-16, 10:16:49](https://news.ycombinator.com/item?id=43066953) - [“A calculator app? Anyone could make that”](https://chadnauseam.com/coding/random/calculator-app)
 * [2025-02-15, 00:15:09](https://news.ycombinator.com/item?id=43054506) - [Show HN: Tools for Math Research](https://sugaku.net/)
