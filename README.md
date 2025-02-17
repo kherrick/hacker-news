@@ -2,10 +2,10 @@
 
 * [2025-02-17, 09:07:45](https://news.ycombinator.com/item?id=43076785) - [Searchcode.com's SQLite database is probably 6 terabytes bigger than yours](https://boyter.org/posts/searchcode-bigger-sqlite-than-you/)
 * [2025-02-17, 08:52:51](https://news.ycombinator.com/item?id=43076710) - [X blocks links to Signal](https://www.disruptionist.com/p/elon-musks-x-blocks-links-to-signal)
+* [2025-02-17, 08:05:40](https://news.ycombinator.com/item?id=43076418) - [Is ChatGPT autocomplete bad UX/UI?](https://honzabe.com/blog/posts/chatgpt-autocomplete-bad-ux-ui/)
 * [2025-02-17, 07:19:53](https://news.ycombinator.com/item?id=43076137) - [Managers given 200 characters to justify not firing nuclear regulators](https://www.npr.org/2025/02/14/nx-s1-5298190/nuclear-agency-trump-firings-nnsa)
 * [2025-02-17, 05:02:35](https://news.ycombinator.com/item?id=43075347) - [Word embeddings – Part 3: The secret ingredients of Word2Vec](https://www.ruder.io/secret-word2vec/)
 * [2025-02-17, 04:23:10](https://news.ycombinator.com/item?id=43075113) - [My Time at MIT](http://muratbuffalo.blogspot.com/2025/02/my-time-at-mit.html)
-* [2025-02-17, 02:29:51](https://news.ycombinator.com/item?id=43074347) - [Ugandan runner Jacob Kiplimo completes first ever sub-57 minute half marathon](https://www.cnn.com/2025/02/16/sport/jacob-kiplimo-smashes-half-marathon-record-spt-intl/index.html)
 * [2025-02-17, 01:42:12](https://news.ycombinator.com/item?id=43073969) - [All Kindles can now be jailbroken](https://kindlemodding.org/jailbreaking/WinterBreak/)
 * [2025-02-17, 01:25:46](https://news.ycombinator.com/item?id=43073836) - [YouTube asks channel owner to verify phone, permanently overwrites personal info](https://old.reddit.com/r/VirtualYoutubers/comments/1iqmul1/if_you_have_a_moment_i_need_your_help/)
 * [2025-02-17, 01:22:49](https://news.ycombinator.com/item?id=43073808) - [Homemade polarimetric synthetic aperture radar drone](https://hforsten.com/homemade-polarimetric-synthetic-aperture-radar-drone.html)
