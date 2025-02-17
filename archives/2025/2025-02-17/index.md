@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-17](index.md)
 
+* [2025-02-17, 05:59:50](https://news.ycombinator.com/item?id=43075665) - [BMW's next-gen EVs depend on an unassuming black box called 'Heart of Joy'](https://www.theverge.com/cars/613962/bme-heart-of-joy-ecu-ev-powertrain-drive-dynamics)
 * [2025-02-17, 05:02:35](https://news.ycombinator.com/item?id=43075347) - [Word embeddings – Part 3: The secret ingredients of Word2Vec](https://www.ruder.io/secret-word2vec/)
 * [2025-02-17, 03:43:52](https://news.ycombinator.com/item?id=43074892) - [A list of online services to regain control over your privacy online](https://www.linux.org/threads/a-list-of-online-services-to-regain-control-over-your-privacy-online.55222/)
 * [2025-02-17, 03:39:54](https://news.ycombinator.com/item?id=43074852) - [New Junior Developers Can’t Actually Code](https://nmn.gl/blog/ai-and-learning)

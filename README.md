@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-17, 05:59:50](https://news.ycombinator.com/item?id=43075665) - [BMW's next-gen EVs depend on an unassuming black box called 'Heart of Joy'](https://www.theverge.com/cars/613962/bme-heart-of-joy-ecu-ev-powertrain-drive-dynamics)
 * [2025-02-17, 05:02:35](https://news.ycombinator.com/item?id=43075347) - [Word embeddings – Part 3: The secret ingredients of Word2Vec](https://www.ruder.io/secret-word2vec/)
 * [2025-02-17, 02:29:51](https://news.ycombinator.com/item?id=43074347) - [Ugandan runner Jacob Kiplimo completes first ever sub-57 minute half marathon](https://www.cnn.com/2025/02/16/sport/jacob-kiplimo-smashes-half-marathon-record-spt-intl/index.html)
 * [2025-02-17, 01:45:28](https://news.ycombinator.com/item?id=43073992) - [Did the Windows 95 setup team forget that MS-DOS can do graphics?](https://devblogs.microsoft.com/oldnewthing/20250211-00/?p=110862)
 * [2025-02-17, 01:42:12](https://news.ycombinator.com/item?id=43073969) - [All Kindles can now be jailbroken](https://old.reddit.com/r/kindle/comments/1hrwytr/all_kindles_can_now_be_jailbroken/)
 * [2025-02-17, 01:25:46](https://news.ycombinator.com/item?id=43073836) - [YouTube asks channel owner to verify phone, permanently overwrites personal info](https://old.reddit.com/r/VirtualYoutubers/comments/1iqmul1/if_you_have_a_moment_i_need_your_help/)
-* [2025-02-17, 01:24:04](https://news.ycombinator.com/item?id=43073819) - [Oklch in CSS: why we moved from RGB and HSL (2024)](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)
 * [2025-02-17, 01:22:49](https://news.ycombinator.com/item?id=43073808) - [Homemade polarimetric synthetic aperture radar drone](https://hforsten.com/homemade-polarimetric-synthetic-aperture-radar-drone.html)
 * [2025-02-17, 00:15:50](https://news.ycombinator.com/item?id=43073292) - [San Francisco homelessness: Park ranger helps one person at a time](https://sfstandard.com/2025/02/08/golden-gate-park-ranger-homelessness/)
 * [2025-02-16, 23:56:16](https://news.ycombinator.com/item?id=43073149) - [Does or did COBOL default to 1875-05-20 for corrupt or missing dates?](https://retrocomputing.stackexchange.com/questions/31288/does-or-did-cobol-default-to-1875-05-20-for-corrupt-or-missing-dates)
