@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-17, 09:07:45](https://news.ycombinator.com/item?id=43076785) - [Searchcode.com's SQLite database is probably 6 terabytes bigger than yours](https://boyter.org/posts/searchcode-bigger-sqlite-than-you/)
-* [2025-02-17, 08:52:51](https://news.ycombinator.com/item?id=43076710) - [Twitter blocks links to Signal messenger](https://www.disruptionist.com/p/elon-musks-x-blocks-links-to-signal)
+* [2025-02-17, 08:52:51](https://news.ycombinator.com/item?id=43076710) - [X blocks links to Signal](https://www.disruptionist.com/p/elon-musks-x-blocks-links-to-signal)
 * [2025-02-17, 07:19:53](https://news.ycombinator.com/item?id=43076137) - [Managers given 200 characters to justify not firing nuclear regulators](https://www.npr.org/2025/02/14/nx-s1-5298190/nuclear-agency-trump-firings-nnsa)
 * [2025-02-17, 05:02:35](https://news.ycombinator.com/item?id=43075347) - [Word embeddings – Part 3: The secret ingredients of Word2Vec](https://www.ruder.io/secret-word2vec/)
 * [2025-02-17, 04:23:10](https://news.ycombinator.com/item?id=43075113) - [My Time at MIT](http://muratbuffalo.blogspot.com/2025/02/my-time-at-mit.html)
