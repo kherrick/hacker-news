@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-02-17](index.md)
 
+* [2025-02-17, 16:51:52](https://news.ycombinator.com/item?id=43080858) - [kartoffels v0.7: Cellular Automata, Statistics, 32-bit RISC-V](https://pwy.io/posts/kartoffels-v0.7/)
 * [2025-02-17, 16:23:30](https://news.ycombinator.com/item?id=43080535) - [Hk, a new Git hook manager from jdx](https://hk.jdx.dev/about.html)
+* [2025-02-17, 16:09:47](https://news.ycombinator.com/item?id=43080378) - [Open Source projects could sell SBoM fragments](https://www.thomas-huehn.com/open-source-projects-could-sell-sbom-fragments/)
 * [2025-02-17, 15:15:14](https://news.ycombinator.com/item?id=43079791) - [Now you can run Ruby on Rails in the browser using WebAssembly](https://web.dev/blog/ruby-on-rails-on-webassembly)
 * [2025-02-17, 14:23:21](https://news.ycombinator.com/item?id=43079280) - [GNU/Darwin (2000)](http://www.gnu-darwin.org/)
 * [2025-02-17, 14:03:24](https://news.ycombinator.com/item?id=43079109) - [Show HN: Bag of words – Build and share smart data apps using AI](https://github.com/bagofwords1/bagofwords)
@@ -49,4 +51,5 @@
 * [2025-02-17, 01:17:16](https://news.ycombinator.com/item?id=43073773) - [America will collapse by 2025 (2010)](https://www.salon.com/2010/12/06/america_collapse_2025/)
 * [2025-02-17, 00:39:00](https://news.ycombinator.com/item?id=43073481) - [How to add a directory to your PATH](https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/)
 * [2025-02-17, 00:27:33](https://news.ycombinator.com/item?id=43073385) - [Why bother with privacy when I have nothing to hide? (2023)](https://hannahonprivacy.substack.com/p/why-bother-with-privacy-when-i-have)
+* [2025-02-17, 00:26:04](https://news.ycombinator.com/item?id=43073377) - [Making Markets on Kalshi](https://rlafuente.com/post?post=2025-2-16-marketmaking-on-kalshi)
 * [2025-02-17, 00:15:50](https://news.ycombinator.com/item?id=43073292) - [Her job is to remove homeless from SF's parks. Her methods are extraordinary](https://sfstandard.com/2025/02/08/golden-gate-park-ranger-homelessness/)
