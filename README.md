@@ -28,8 +28,8 @@
 * [2025-02-13, 19:56:30](https://news.ycombinator.com/item?id=43040507) - [Umami is a simple, fast, privacy-focused alternative to Google Analytics](https://github.com/umami-software/umami)
 * [2025-02-13, 19:25:05](https://news.ycombinator.com/item?id=43040129) - [Gold Is Worth More in New York](https://www.bloomberg.com/opinion/articles/2025-02-13/gold-is-worth-more-in-new-york)
 * [2025-02-13, 16:54:10](https://news.ycombinator.com/item?id=43038109) - [Anno 1800: Shadows of Beauty](https://simonschreibt.de/gat/anno-1800-shadows-of-beauty/)
-* [2025-02-13, 16:51:23](https://news.ycombinator.com/item?id=43038070) - [MySQL at Uber](https://www.uber.com/blog/mysql-at-uber/?uclick_id=8d2a6f71-8db1-4c60-b724-fc9bd70cd9fd)
 * [2025-02-13, 15:04:31](https://news.ycombinator.com/item?id=43036560) - [The deadly lottery of the snakebite antivenom industry](https://www.theguardian.com/global-development/2025/feb/13/its-a-cowboy-show-out-there-the-deadly-lottery-of-the-snakebite-antivenom-industry)
+* [2025-02-13, 09:16:20](https://news.ycombinator.com/item?id=43034179) - [Hans Bethe Stumbled Upon Perfect Quantum Theories](https://www.quantamagazine.org/how-hans-bethe-stumbled-upon-perfect-quantum-theories-20250212/)
 
 ## [Archives](archives/index.md)
 
