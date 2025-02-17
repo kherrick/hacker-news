@@ -26,9 +26,9 @@
 * [2025-02-16, 10:16:49](https://news.ycombinator.com/item?id=43066953) - [“A calculator app? Anyone could make that”](https://chadnauseam.com/coding/random/calculator-app)
 * [2025-02-16, 08:02:30](https://news.ycombinator.com/item?id=43066247) - [DSLs for Safe iOS/WatchOS Communication](https://defn.io/2025/02/16/type-safe-watchos-communication/)
 * [2025-02-14, 21:43:50](https://news.ycombinator.com/item?id=43053403) - [Reflections on AGI from 1879](https://www.learningfromexamples.com/p/reflections-on-superintelligence)
-* [2025-02-14, 17:01:43](https://news.ycombinator.com/item?id=43050447) - [Extreme supersonic winds measured on a planet outside our solar system](https://phys.org/news/2025-01-extreme-supersonic-planet-solar.html)
 * [2025-02-14, 13:30:24](https://news.ycombinator.com/item?id=43048073) - [How do modern compilers choose which variables to put in registers?](https://langdev.stackexchange.com/questions/4325/how-do-modern-compilers-choose-which-variables-to-put-in-registers)
 * [2025-02-14, 11:36:39](https://news.ycombinator.com/item?id=43047341) - [You're not a senior engineer until you've worked on a legacy project](https://www.infobip.com/developers/blog/seniors-working-on-a-legacy-project)
+* [2025-02-13, 20:36:11](https://news.ycombinator.com/item?id=43040986) - [Spacetime maps: A map that warps to show travel time](https://maps.vvolhejn.com)
 * [2025-02-13, 19:56:30](https://news.ycombinator.com/item?id=43040507) - [Umami is a simple, fast, privacy-focused alternative to Google Analytics](https://github.com/umami-software/umami)
 
 ## [Archives](archives/index.md)

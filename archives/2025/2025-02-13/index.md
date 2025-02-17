@@ -16,6 +16,7 @@
 * [2025-02-13, 21:16:36](https://news.ycombinator.com/item?id=43041477) - [AI can interpret animal emotions better than humans](https://www.science.org/content/article/can-ai-read-pain-and-other-emotions-your-dog-s-face)
 * [2025-02-13, 21:01:46](https://news.ycombinator.com/item?id=43041303) - [TSforge: Reverse Engineering the Windows Software Protection Platform](https://massgrave.dev/blog/tsforge)
 * [2025-02-13, 20:39:48](https://news.ycombinator.com/item?id=43041033) - [The Death of the Web (2024)](https://garry.net/posts/the-death-of-the-web)
+* [2025-02-13, 20:36:11](https://news.ycombinator.com/item?id=43040986) - [Spacetime maps: A map that warps to show travel time](https://maps.vvolhejn.com)
 * [2025-02-13, 20:27:08](https://news.ycombinator.com/item?id=43040869) - [JesseSort: A novel sorting algorithm that is faster than Python's default sort.](https://github.com/lewj85/jessesort)
 * [2025-02-13, 20:06:48](https://news.ycombinator.com/item?id=43040631) - [DOGE's Website Is Just One Big X Ad](https://www.wired.com/story/doge-website-is-just-one-big-x-ad/)
 * [2025-02-13, 19:57:29](https://news.ycombinator.com/item?id=43040521) - [Privacy Pass Authentication for Kagi Search](https://blog.kagi.com/kagi-privacy-pass)
