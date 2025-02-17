@@ -43,6 +43,7 @@
 * [2025-02-13, 16:23:50](https://news.ycombinator.com/item?id=43037623) - [White Hat Hackers Expose Iridium Satellite Security Flaws](https://spectrum.ieee.org/iridium-satellite)
 * [2025-02-13, 16:23:04](https://news.ycombinator.com/item?id=43037606) - [Traces of London's first Roman basilica found beneath office basement](https://www.heritagedaily.com/2025/02/traces-of-londons-first-roman-basilica-found-beneath-office-basement/154534)
 * [2025-02-13, 16:22:38](https://news.ycombinator.com/item?id=43037600) - [I built a failed startups goods website and named it VcSubsidized.com](https://vcsubsidized.com/)
+* [2025-02-13, 16:17:07](https://news.ycombinator.com/item?id=43037500) - [I pulled data on 1378 restaurants from Google Maps to rank them in order](https://mattsayar.com/ranking-the-best-restaurants-in-colorado-springs/)
 * [2025-02-13, 16:12:29](https://news.ycombinator.com/item?id=43037426) - [DOGE Has Started Gutting a Key US Technology Agency](https://www.wired.com/story/doge-tts-fired/)
 * [2025-02-13, 15:49:59](https://news.ycombinator.com/item?id=43037100) - [Why is everyone trying to replace Software Engineers?](https://toddle.dev/blog/why-is-everyone-trying-to-replace-software-engineers)
 * [2025-02-13, 15:38:01](https://news.ycombinator.com/item?id=43036934) - [Court Documents Shed New Light on DOGE Activity at Treasury Department](https://www.zetter-zeroday.com/court-documents-shed-new-light-on-doge-access-and-activity-at-treasury-department/)
