@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-17, 10:09:56](https://news.ycombinator.com/item?id=43077175) - [Broligarchy does not build civilization](https://not-a-tech-bro.ghost.io/broligarchy-does-not-build-civilization/)
 * [2025-02-17, 09:07:45](https://news.ycombinator.com/item?id=43076785) - [Searchcode.com's SQLite database is probably 6 terabytes bigger than yours](https://boyter.org/posts/searchcode-bigger-sqlite-than-you/)
 * [2025-02-17, 08:52:51](https://news.ycombinator.com/item?id=43076710) - [Twitter blocks links to Signal messenger](https://www.disruptionist.com/p/elon-musks-x-blocks-links-to-signal)
 * [2025-02-17, 07:19:53](https://news.ycombinator.com/item?id=43076137) - [Managers given 200 characters to justify not firing nuclear regulators](https://www.npr.org/2025/02/14/nx-s1-5298190/nuclear-agency-trump-firings-nnsa)
@@ -18,6 +17,7 @@
 * [2025-02-16, 21:14:22](https://news.ycombinator.com/item?id=43071775) - [Physics Informed Neural Networks](https://nchagnet.pages.dev/blog/physics-informed-neural-networks/)
 * [2025-02-16, 20:18:45](https://news.ycombinator.com/item?id=43071286) - [When Not to Obey Orders (2019)](https://warontherocks.com/2019/07/when-not-to-obey-orders/)
 * [2025-02-16, 17:04:09](https://news.ycombinator.com/item?id=43069533) - [IPv6 Is Hard](https://techlog.jenslink.net/posts/ipv6-is-hard/)
+* [2025-02-16, 17:01:34](https://news.ycombinator.com/item?id=43069514) - [Half-Life 2 and Dishonored art lead Viktor Antonov has died](https://www.eurogamer.net/half-life-2-and-dishonored-art-lead-viktor-antonov-dies-aged-just-52)
 * [2025-02-16, 15:08:31](https://news.ycombinator.com/item?id=43068585) - [Flea-Scope: $18 Source Available USB Oscilloscope, Logic Analyzer and More [pdf]](https://rtestardi.github.io/usbte/flea-scope.pdf)
 * [2025-02-16, 10:16:49](https://news.ycombinator.com/item?id=43066953) - [“A calculator app? Anyone could make that”](https://chadnauseam.com/coding/random/calculator-app)
 * [2025-02-14, 17:01:43](https://news.ycombinator.com/item?id=43050447) - [Extreme supersonic winds measured on a planet outside our solar system](https://phys.org/news/2025-01-extreme-supersonic-planet-solar.html)
