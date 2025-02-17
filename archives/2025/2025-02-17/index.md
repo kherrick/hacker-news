@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-17](index.md)
 
+* [2025-02-17, 18:36:14](https://news.ycombinator.com/item?id=43081929) - [What happened when REM went mainstream](https://yalereview.org/article/tavakoli-rem-peter-ames-carlin)
 * [2025-02-17, 18:10:35](https://news.ycombinator.com/item?id=43081713) - [Debugging an Undebuggable App](https://bryce.co/undebuggable/)
 * [2025-02-17, 16:54:52](https://news.ycombinator.com/item?id=43080895) - [Launch HN: Roark (YC W25) – Taking the Pain Out of Voice AI Testing](https://news.ycombinator.com/item?id=43080895)
 * [2025-02-17, 16:51:52](https://news.ycombinator.com/item?id=43080858) - [kartoffels v0.7: Cellular Automata, Statistics, 32-bit RISC-V](https://pwy.io/posts/kartoffels-v0.7/)

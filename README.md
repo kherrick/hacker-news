@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-17, 18:36:14](https://news.ycombinator.com/item?id=43081929) - [What happened when REM went mainstream](https://yalereview.org/article/tavakoli-rem-peter-ames-carlin)
 * [2025-02-17, 18:10:35](https://news.ycombinator.com/item?id=43081713) - [Debugging an Undebuggable App](https://bryce.co/undebuggable/)
 * [2025-02-17, 16:54:52](https://news.ycombinator.com/item?id=43080895) - [Launch HN: Roark (YC W25) – Taking the pain out of voice AI testing](https://news.ycombinator.com/item?id=43080895)
 * [2025-02-17, 16:51:52](https://news.ycombinator.com/item?id=43080858) - [kartoffels v0.7: Cellular Automata, Statistics, 32-bit RISC-V](https://pwy.io/posts/kartoffels-v0.7/)
@@ -7,7 +8,6 @@
 * [2025-02-17, 16:23:07](https://news.ycombinator.com/item?id=43080531) - [Watch R1 \"think\" with animated chains of thought](https://github.com/dhealy05/frames_of_mind)
 * [2025-02-17, 16:09:47](https://news.ycombinator.com/item?id=43080378) - [Open Source projects could sell SBoM fragments](https://www.thomas-huehn.com/open-source-projects-could-sell-sbom-fragments/)
 * [2025-02-17, 15:15:14](https://news.ycombinator.com/item?id=43079791) - [Now you can run Ruby on Rails in the browser using WebAssembly](https://web.dev/blog/ruby-on-rails-on-webassembly)
-* [2025-02-17, 13:56:30](https://news.ycombinator.com/item?id=43079046) - [Mistral Saba](https://mistral.ai/en/news/mistral-saba)
 * [2025-02-17, 13:54:40](https://news.ycombinator.com/item?id=43079023) - [Espargos: ESP32-based WiFi sensing array](https://espargos.net/)
 * [2025-02-17, 13:04:34](https://news.ycombinator.com/item?id=43078555) - [Show HN: Inscribed, create stop motion animation and slide powered by Excalidraw](https://inscribed.app/)
 * [2025-02-17, 13:02:46](https://news.ycombinator.com/item?id=43078537) - [Fluoxetine promotes metabolic defenses to protect from sepsis-induced lethality](https://www.science.org/doi/10.1126/sciadv.adu4034)
