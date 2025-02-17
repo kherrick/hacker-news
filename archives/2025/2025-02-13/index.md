@@ -38,6 +38,7 @@
 * [2025-02-13, 16:57:27](https://news.ycombinator.com/item?id=43038164) - [Root-inspired additive printing for fabricating robust conformal electronics](https://www.nature.com/articles/s41378-024-00840-z)
 * [2025-02-13, 16:54:10](https://news.ycombinator.com/item?id=43038109) - [Anno 1800: Shadows of Beauty](https://simonschreibt.de/gat/anno-1800-shadows-of-beauty/)
 * [2025-02-13, 16:51:23](https://news.ycombinator.com/item?id=43038070) - [MySQL at Uber](https://www.uber.com/blog/mysql-at-uber/?uclick_id=8d2a6f71-8db1-4c60-b724-fc9bd70cd9fd)
+* [2025-02-13, 16:49:12](https://news.ycombinator.com/item?id=43038033) - [FA Cup to use semi-automated offsides for first time](https://www.bbc.com/sport/football/articles/cx2k9klnpvlo)
 * [2025-02-13, 16:41:04](https://news.ycombinator.com/item?id=43037892) - [$400M armored Tesla gov contract](https://www.npr.org/2025/02/13/g-s1-48571/trump-administration-order-400-million-worth-of-armored-teslas)
 * [2025-02-13, 16:37:08](https://news.ycombinator.com/item?id=43037821) - [RFK Jr Will Be Confirmed as Secretary of Health and Human Services](https://www.reuters.com/world/us/trump-health-nominee-kennedy-secures-enough-us-senate-votes-confirmation-2025-02-13/)
 * [2025-02-13, 16:27:25](https://news.ycombinator.com/item?id=43037668) - [TSMC Faces Tough Choices Amid Rumors for Intel Foundry Collaboration](https://techsoda.substack.com/p/tsmc-faces-tough-choices-amid-rumors)
