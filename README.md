@@ -2,8 +2,10 @@
 
 * [2025-02-17, 13:02:46](https://news.ycombinator.com/item?id=43078537) - [Fluoxetine promotes metabolic defenses to protect from sepsis-induced lethality](https://www.science.org/doi/10.1126/sciadv.adu4034)
 * [2025-02-17, 12:15:01](https://news.ycombinator.com/item?id=43078100) - [Representing Graphs in PostgreSQL](https://www.richard-towers.com/2025/02/16/representing-graphs-in-postgres.html)
+* [2025-02-17, 11:45:01](https://news.ycombinator.com/item?id=43077866) - [Doge-affiliated employee expected to seek access to IRS system](https://www.nbcnews.com/politics/doge/doge-affiliated-employee-access-irs-system-sensitive-taxpayer-inform-rcna192423)
 * [2025-02-17, 11:41:12](https://news.ycombinator.com/item?id=43077833) - [Open source maintainers are feeling the squeeze](https://www.theregister.com/2025/02/16/open_source_maintainers_state_of_open/)
 * [2025-02-17, 11:18:29](https://news.ycombinator.com/item?id=43077675) - [0+0 > 0: C++ thread-local storage performance](https://yosefk.com/blog/cxx-thread-local-storage-performance.html)
+* [2025-02-17, 09:54:46](https://news.ycombinator.com/item?id=43077074) - [Step-Video-T2V: The Practice, Challenges, and Future of Video Foundation Model](https://arxiv.org/abs/2502.10248)
 * [2025-02-17, 09:07:45](https://news.ycombinator.com/item?id=43076785) - [Searchcode.com's SQLite database is probably 6 terabytes bigger than yours](https://boyter.org/posts/searchcode-bigger-sqlite-than-you/)
 * [2025-02-17, 08:52:51](https://news.ycombinator.com/item?id=43076710) - [X blocks links to Signal](https://www.disruptionist.com/p/elon-musks-x-blocks-links-to-signal)
 * [2025-02-17, 08:05:40](https://news.ycombinator.com/item?id=43076418) - [Is ChatGPT autocomplete bad UX/UI?](https://honzabe.com/blog/posts/chatgpt-autocomplete-bad-ux-ui/)
@@ -16,7 +18,6 @@
 * [2025-02-16, 23:15:59](https://news.ycombinator.com/item?id=43072790) - [Javier Milei backtracks on $4.4B memecoin after 'insiders' pocket $87M](https://www.coindesk.com/business/2025/02/15/javier-milei-backtracks-on-usd4-4b-memecoin-after-insiders-pocket-usd87m)
 * [2025-02-16, 22:38:14](https://news.ycombinator.com/item?id=43072483) - [Opposing arrows of time can theoretically emerge from certain quantum systems](https://www.surrey.ac.uk/news/physicists-uncover-evidence-two-arrows-time-emerging-quantum-realm)
 * [2025-02-16, 22:22:40](https://news.ycombinator.com/item?id=43072338) - [Uchū – Color palette for internet lovers](https://uchu.style)
-* [2025-02-16, 21:14:22](https://news.ycombinator.com/item?id=43071775) - [Physics Informed Neural Networks](https://nchagnet.pages.dev/blog/physics-informed-neural-networks/)
 * [2025-02-16, 17:04:09](https://news.ycombinator.com/item?id=43069533) - [IPv6 Is Hard](https://techlog.jenslink.net/posts/ipv6-is-hard/)
 * [2025-02-16, 15:08:31](https://news.ycombinator.com/item?id=43068585) - [Flea-Scope: $18 Source Available USB Oscilloscope, Logic Analyzer and More [pdf]](https://rtestardi.github.io/usbte/flea-scope.pdf)
 * [2025-02-16, 10:16:49](https://news.ycombinator.com/item?id=43066953) - [“A calculator app? Anyone could make that”](https://chadnauseam.com/coding/random/calculator-app)
@@ -29,7 +30,6 @@
 * [2025-02-13, 19:25:05](https://news.ycombinator.com/item?id=43040129) - [Gold Is Worth More in New York](https://www.bloomberg.com/opinion/articles/2025-02-13/gold-is-worth-more-in-new-york)
 * [2025-02-13, 16:54:10](https://news.ycombinator.com/item?id=43038109) - [Anno 1800: Shadows of Beauty](https://simonschreibt.de/gat/anno-1800-shadows-of-beauty/)
 * [2025-02-13, 15:04:31](https://news.ycombinator.com/item?id=43036560) - [The deadly lottery of the snakebite antivenom industry](https://www.theguardian.com/global-development/2025/feb/13/its-a-cowboy-show-out-there-the-deadly-lottery-of-the-snakebite-antivenom-industry)
-* [2025-02-13, 09:16:20](https://news.ycombinator.com/item?id=43034179) - [Hans Bethe Stumbled Upon Perfect Quantum Theories](https://www.quantamagazine.org/how-hans-bethe-stumbled-upon-perfect-quantum-theories-20250212/)
 
 ## [Archives](archives/index.md)
 
