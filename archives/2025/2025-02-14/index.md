@@ -76,6 +76,7 @@
 * [2025-02-14, 08:30:27](https://news.ycombinator.com/item?id=43046174) - [Linux kernel cgroups writeback high CPU troubleshooting](https://dasl.cc/2025/01/01/debugging-our-new-linux-kernel/)
 * [2025-02-14, 08:29:23](https://news.ycombinator.com/item?id=43046170) - [Evaluating RAG for large scale codebases](https://www.qodo.ai/blog/evaluating-rag-for-large-scale-codebases/)
 * [2025-02-14, 08:21:12](https://news.ycombinator.com/item?id=43046122) - [Rust: Doubling Throughput with Continuous Profiling and Optimization](https://www.polarsignals.com/blog/posts/2025/02/11/doubling-throughput-with-continuous-profiling-and-optimization)
+* [2025-02-14, 07:50:05](https://news.ycombinator.com/item?id=43045939) - [Ask HN: Riding the Roller Coaster of Development Tooling](https://news.ycombinator.com/item?id=43045939)
 * [2025-02-14, 07:31:46](https://news.ycombinator.com/item?id=43045835) - [Doge.gov site has been hacked](https://www.404media.co/anyone-can-push-updates-to-the-doge-gov-website-2/)
 * [2025-02-14, 07:26:16](https://news.ycombinator.com/item?id=43045801) - [Gemini beats everyone on new OCR benchmark](https://arxiv.org/abs/2502.06445)
 * [2025-02-14, 07:12:41](https://news.ycombinator.com/item?id=43045713) - [Rob Pike: On Bloat](https://docs.google.com/presentation/d/e/2PACX-1vSmIbSwh1_DXKEMU5YKgYpt5_b4yfOfpfEOKS5_cvtLdiHsX6zt-gNeisamRuCtDtCb2SbTafTI8V47/pub?start=false&loop=false&delayms=3000)
