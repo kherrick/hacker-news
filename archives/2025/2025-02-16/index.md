@@ -11,6 +11,7 @@
 * [2025-02-16, 22:32:07](https://news.ycombinator.com/item?id=43072416) - [Google defends scrapping AI pledges and DEI goals in all-staff meeting](https://www.theguardian.com/us-news/2025/feb/12/google-all-staff-meeting-ai-dei)
 * [2025-02-16, 22:22:40](https://news.ycombinator.com/item?id=43072338) - [Uchū · the color scheme for internet lovers](https://uchu.style)
 * [2025-02-16, 21:36:21](https://news.ycombinator.com/item?id=43071934) - [Show HN: Air Traffic Control Radio and Chill Music for Focus](https://www.chillyatc.com/)
+* [2025-02-16, 21:14:22](https://news.ycombinator.com/item?id=43071775) - [Physics Informed Neural Networks](https://nchagnet.pages.dev/blog/physics-informed-neural-networks/)
 * [2025-02-16, 20:45:30](https://news.ycombinator.com/item?id=43071506) - [Fingerprinting: Critics say Google rules put profits over privacy](https://www.bbc.com/news/articles/cm21g0052dno)
 * [2025-02-16, 20:10:08](https://news.ycombinator.com/item?id=43071213) - [Big Tech Has Disrupted the Social Contract](https://basedfob.substack.com/p/big-tech-has-disrupted-the-social)
 * [2025-02-16, 20:08:07](https://news.ycombinator.com/item?id=43071193) - [Why is there a screen that says \"It is now safe to turn off your computer\"? (2016)](https://devblogs.microsoft.com/oldnewthing/20160419-00/?p=93315)
