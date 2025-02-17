@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-17, 13:56:30](https://news.ycombinator.com/item?id=43079046) - [Mistral Saba](https://mistral.ai/en/news/mistral-saba)
-* [2025-02-17, 13:18:54](https://news.ycombinator.com/item?id=43078701) - [Learning happens in environments optimized for understanding, not winning](https://www.joanwestenberg.com/you-will-never-win-an-argument-on-the-internet-heres-why/)
 * [2025-02-17, 13:02:46](https://news.ycombinator.com/item?id=43078537) - [Fluoxetine promotes metabolic defenses to protect from sepsis-induced lethality](https://www.science.org/doi/10.1126/sciadv.adu4034)
 * [2025-02-17, 11:18:29](https://news.ycombinator.com/item?id=43077675) - [0+0 > 0: C++ thread-local storage performance](https://yosefk.com/blog/cxx-thread-local-storage-performance.html)
+* [2025-02-17, 11:02:33](https://news.ycombinator.com/item?id=43077551) - [Techie pointed out meetings are pointless, and was punished for it](https://www.theregister.com/2025/02/17/who_me/)
 * [2025-02-17, 09:54:46](https://news.ycombinator.com/item?id=43077074) - [Step-Video-T2V: The Practice, Challenges, and Future of Video Foundation Model](https://arxiv.org/abs/2502.10248)
 * [2025-02-17, 08:52:51](https://news.ycombinator.com/item?id=43076710) - [X users are unable to post “Signal.me” links](https://www.disruptionist.com/p/elon-musks-x-blocks-links-to-signal)
 * [2025-02-17, 05:02:35](https://news.ycombinator.com/item?id=43075347) - [The secret ingredients of word2vec (2016)](https://www.ruder.io/secret-word2vec/)
