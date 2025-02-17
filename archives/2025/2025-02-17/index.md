@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-17](index.md)
 
+* [2025-02-17, 23:11:33](https://news.ycombinator.com/item?id=43084145) - [On David Lynch's Revenge of the Jedi](https://www.benningtonreview.org/adam-golaski)
+* [2025-02-17, 22:39:57](https://news.ycombinator.com/item?id=43083976) - [Police arrest apparent leader of cultlike 'Zizian' group linked to killings](https://www.pressdemocrat.com/article/trending/police-arrest-apparent-leader-of-cultlike-zizian-group-linked-to-multiple/)
 * [2025-02-17, 22:26:38](https://news.ycombinator.com/item?id=43083886) - [Argentina president faces impeachment calls over crypto crash](https://www.bbc.com/news/articles/cp9x9j89evxo)
 * [2025-02-17, 22:19:16](https://news.ycombinator.com/item?id=43083845) - [Ask HN: Small Ideas vs. Big Ideas?](https://news.ycombinator.com/item?id=43083845)
 * [2025-02-17, 22:09:09](https://news.ycombinator.com/item?id=43083772) - [The List of DRM-Free Bookshops](https://libreture.com/bookshops/)
