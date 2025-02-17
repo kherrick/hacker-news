@@ -15,6 +15,7 @@
 * [2025-02-14, 21:58:30](https://news.ycombinator.com/item?id=43053552) - [The United States is not a Silicon Valley company](http://scripting.com/2025/02/12/140926.html)
 * [2025-02-14, 21:50:50](https://news.ycombinator.com/item?id=43053466) - [Codeberg appears to be under a DDoS attack](https://status.codeberg.eu/status/codeberg)
 * [2025-02-14, 21:45:49](https://news.ycombinator.com/item?id=43053419) - [The hardest working font in Manhattan](https://aresluna.org/the-hardest-working-font-in-manhattan/)
+* [2025-02-14, 21:43:50](https://news.ycombinator.com/item?id=43053403) - [Reflections on AGI from 1879](https://www.learningfromexamples.com/p/reflections-on-superintelligence)
 * [2025-02-14, 21:42:03](https://news.ycombinator.com/item?id=43053385) - [Mathics: A free, open-source alternative to Mathematica](https://mathics.org/)
 * [2025-02-14, 21:39:29](https://news.ycombinator.com/item?id=43053350) - [The Iconic 3DBenchy Enters the Public Domain](https://www.nti-group.com/home/information/news/3dbenchy/)
 * [2025-02-14, 21:32:53](https://news.ycombinator.com/item?id=43053287) - [Cameras have appeared outside homes of Atlanta's 'Cop City' activists](https://www.theguardian.com/us-news/2025/feb/14/cameras-cop-city-activist-homes-atlanta)
