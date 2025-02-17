@@ -1,22 +1,32 @@
 [
   [
     [
-      "2025-02-17, 05:59:50",
-      "https://news.ycombinator.com/item?id=43075665"
-    ],
-    [
-      "BMW's next-gen EVs depend on an unassuming black box called 'Heart of Joy'",
-      "https://www.theverge.com/cars/613962/bme-heart-of-joy-ecu-ev-powertrain-drive-dynamics"
-    ]
-  ],
-  [
-    [
       "2025-02-17, 05:02:35",
       "https://news.ycombinator.com/item?id=43075347"
     ],
     [
       "Word embeddings – Part 3: The secret ingredients of Word2Vec",
       "https://www.ruder.io/secret-word2vec/"
+    ]
+  ],
+  [
+    [
+      "2025-02-17, 04:23:10",
+      "https://news.ycombinator.com/item?id=43075113"
+    ],
+    [
+      "My Time at MIT",
+      "http://muratbuffalo.blogspot.com/2025/02/my-time-at-mit.html"
+    ]
+  ],
+  [
+    [
+      "2025-02-17, 03:37:36",
+      "https://news.ycombinator.com/item?id=43074834"
+    ],
+    [
+      "Comparison of File Systems for an SSD",
+      "https://www.linux.org/threads/comparison-of-file-systems-for-an-ssd.28780/"
     ]
   ],
   [
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2025-02-16, 20:18:45",
-      "https://news.ycombinator.com/item?id=43071286"
-    ],
-    [
-      "When Not to Obey Orders (2019)",
-      "https://warontherocks.com/2019/07/when-not-to-obey-orders/"
-    ]
-  ],
-  [
-    [
       "2025-02-16, 17:04:09",
       "https://news.ycombinator.com/item?id=43069533"
     ],
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2025-02-13, 16:57:27",
-      "https://news.ycombinator.com/item?id=43038164"
-    ],
-    [
-      "Root-inspired additive printing for fabricating robust conformal electronics",
-      "https://www.nature.com/articles/s41378-024-00840-z"
-    ]
-  ],
-  [
-    [
       "2025-02-13, 16:54:10",
       "https://news.ycombinator.com/item?id=43038109"
     ],
@@ -297,6 +287,16 @@
     [
       "Publish Your Gaussian Splats with SuperSplat",
       "https://blog.playcanvas.com/publish-your-gaussian-splats-with-supersplat/"
+    ]
+  ],
+  [
+    [
+      "2025-02-13, 09:16:20",
+      "https://news.ycombinator.com/item?id=43034179"
+    ],
+    [
+      "Hans Bethe Stumbled Upon Perfect Quantum Theories",
+      "https://www.quantamagazine.org/how-hans-bethe-stumbled-upon-perfect-quantum-theories-20250212/"
     ]
   ]
 ]
