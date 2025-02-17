@@ -1,22 +1,92 @@
 [
   [
     [
+      "2025-02-17, 01:42:12",
+      "https://news.ycombinator.com/item?id=43073969"
+    ],
+    [
+      "All Kindles can now be jailbroken",
+      "https://old.reddit.com/r/kindle/comments/1hrwytr/all_kindles_can_now_be_jailbroken/"
+    ]
+  ],
+  [
+    [
+      "2025-02-17, 01:25:46",
+      "https://news.ycombinator.com/item?id=43073836"
+    ],
+    [
+      "YouTube asks channel owner to verify phone, permanently overwrites personal info",
+      "https://www.reddit.com/r/VirtualYoutubers/s/iJ1W7JUN2T"
+    ]
+  ],
+  [
+    [
+      "2025-02-17, 01:24:04",
+      "https://news.ycombinator.com/item?id=43073819"
+    ],
+    [
+      "Oklch in CSS: why we moved from RGB and HSL",
+      "https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl"
+    ]
+  ],
+  [
+    [
+      "2025-02-17, 01:17:16",
+      "https://news.ycombinator.com/item?id=43073773"
+    ],
+    [
+      "America will collapse by 2025 (2010)",
+      "https://www.salon.com/2010/12/06/america_collapse_2025/"
+    ]
+  ],
+  [
+    [
+      "2025-02-17, 00:39:00",
+      "https://news.ycombinator.com/item?id=43073481"
+    ],
+    [
+      "How to add a directory to your PATH",
+      "https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/"
+    ]
+  ],
+  [
+    [
+      "2025-02-17, 00:27:33",
+      "https://news.ycombinator.com/item?id=43073385"
+    ],
+    [
+      "Why bother with privacy when I have nothing to hide? (2023)",
+      "https://hannahonprivacy.substack.com/p/why-bother-with-privacy-when-i-have"
+    ]
+  ],
+  [
+    [
+      "2025-02-17, 00:15:50",
+      "https://news.ycombinator.com/item?id=43073292"
+    ],
+    [
+      "Her job is to remove homeless from SF's parks. Her methods are extraordinary",
+      "https://sfstandard.com/2025/02/08/golden-gate-park-ranger-homelessness/"
+    ]
+  ],
+  [
+    [
+      "2025-02-16, 23:56:16",
+      "https://news.ycombinator.com/item?id=43073149"
+    ],
+    [
+      "Does or did COBOL default to 1875-05-20 for corrupt or missing dates?",
+      "https://retrocomputing.stackexchange.com/questions/31288/does-or-did-cobol-default-to-1875-05-20-for-corrupt-or-missing-dates"
+    ]
+  ],
+  [
+    [
       "2025-02-16, 23:15:59",
       "https://news.ycombinator.com/item?id=43072790"
     ],
     [
       "Javier Milei Backtracks on $4.4B Memecoin After 'Insiders' Pocket $87M",
       "https://www.coindesk.com/business/2025/02/15/javier-milei-backtracks-on-usd4-4b-memecoin-after-insiders-pocket-usd87m"
-    ]
-  ],
-  [
-    [
-      "2025-02-16, 22:57:42",
-      "https://news.ycombinator.com/item?id=43072640"
-    ],
-    [
-      "Why Artificial General Intelligence Is and Remains a Fiction",
-      "https://osf.io/preprints/osf/fjcns_v1"
     ]
   ],
   [
@@ -61,42 +131,12 @@
   ],
   [
     [
-      "2025-02-16, 20:08:07",
-      "https://news.ycombinator.com/item?id=43071193"
-    ],
-    [
-      "Why is there a screen that says \"It is now safe to turn off your computer\"? (2016)",
-      "https://devblogs.microsoft.com/oldnewthing/20160419-00/?p=93315"
-    ]
-  ],
-  [
-    [
       "2025-02-16, 19:57:32",
       "https://news.ycombinator.com/item?id=43071110"
     ],
     [
       "Portable drone jammer uses a Raspberry Pi tactical Software Defined Radio",
       "https://www.tomshardware.com/raspberry-pi/portable-raspberry-pi-tactical-software-defines-radio-doubles-as-a-drone-jammer"
-    ]
-  ],
-  [
-    [
-      "2025-02-16, 19:54:20",
-      "https://news.ycombinator.com/item?id=43071085"
-    ],
-    [
-      "Trick to find commands in the terminal quickly",
-      "https://github.com/madprops/blog/blob/main/docs/cmd_icons.md"
-    ]
-  ],
-  [
-    [
-      "2025-02-16, 18:13:21",
-      "https://news.ycombinator.com/item?id=43070155"
-    ],
-    [
-      "Kindle is removing download and transfer option on Feb 26th",
-      "https://old.reddit.com/r/kindle/comments/1inr9uy/fyi_amazon_is_removing_download_transfer_option/"
     ]
   ],
   [
@@ -181,36 +221,6 @@
   ],
   [
     [
-      "2025-02-16, 09:55:58",
-      "https://news.ycombinator.com/item?id=43066842"
-    ],
-    [
-      "Langfuse (YC W23) Is Hiring Product Engineers in Berlin",
-      "https://langfuse.com/careers"
-    ]
-  ],
-  [
-    [
-      "2025-02-16, 04:06:04",
-      "https://news.ycombinator.com/item?id=43065217"
-    ],
-    [
-      "Gixy: Nginx Configuration Static Analyzer",
-      "https://github.com/dvershinin/gixy"
-    ]
-  ],
-  [
-    [
-      "2025-02-14, 17:22:44",
-      "https://news.ycombinator.com/item?id=43050644"
-    ],
-    [
-      "Bombed Fresco: Using Math to Piece Together a Lost Treasure (2011)",
-      "https://www.spiegel.de/international/zeitgeist/bombed-fresco-using-math-to-piece-together-a-lost-treasure-a-792781.html"
-    ]
-  ],
-  [
-    [
       "2025-02-14, 14:32:55",
       "https://news.ycombinator.com/item?id=43048698"
     ],
@@ -227,16 +237,6 @@
     [
       "OpenVINO AI effects [denoising and transcription] for Audacity",
       "https://www.audacityteam.org/blog/openvino-ai-effects/"
-    ]
-  ],
-  [
-    [
-      "2025-02-14, 01:40:53",
-      "https://news.ycombinator.com/item?id=43043724"
-    ],
-    [
-      "History 2701 Wiki",
-      "https://history2701.fandom.com/wiki/History_2701_Wiki"
     ]
   ],
   [
@@ -271,32 +271,32 @@
   ],
   [
     [
+      "2025-02-13, 15:23:36",
+      "https://news.ycombinator.com/item?id=43036770"
+    ],
+    [
+      "Genesis and Sega CD – Audio Filtering",
+      "https://jsgroth.dev/blog/posts/genesis-sega-cd-audio-filtering/"
+    ]
+  ],
+  [
+    [
+      "2025-02-13, 14:00:41",
+      "https://news.ycombinator.com/item?id=43035896"
+    ],
+    [
+      "Publish Your Gaussian Splats with SuperSplat",
+      "https://blog.playcanvas.com/publish-your-gaussian-splats-with-supersplat/"
+    ]
+  ],
+  [
+    [
       "2025-02-13, 04:46:26",
       "https://news.ycombinator.com/item?id=43032759"
     ],
     [
       "Beginnings of Roman London discovered in office basement",
       "https://www.bbc.com/news/articles/cx2jdnv0ywyo"
-    ]
-  ],
-  [
-    [
-      "2025-02-12, 19:12:14",
-      "https://news.ycombinator.com/item?id=43028650"
-    ],
-    [
-      "How Hans Bethe stumbled upon perfect quantum theories",
-      "https://www.quantamagazine.org/how-hans-bethe-stumbled-upon-perfect-quantum-theories-20250212/"
-    ]
-  ],
-  [
-    [
-      "2025-02-12, 13:26:12",
-      "https://news.ycombinator.com/item?id=43025176"
-    ],
-    [
-      "Writing a Gimp 3.0 Plugin",
-      "https://schoenitzer.de/blog/2025/Gimp%203.0%20Plugin%20Ressources.html"
     ]
   ]
 ]
