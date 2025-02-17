@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-17](index.md)
 
+* [2025-02-17, 02:29:51](https://news.ycombinator.com/item?id=43074347) - [Ugandan runner Jacob Kiplimo completes first ever sub-57 minute half marathon](https://www.cnn.com/2025/02/16/sport/jacob-kiplimo-smashes-half-marathon-record-spt-intl/index.html)
 * [2025-02-17, 02:23:22](https://news.ycombinator.com/item?id=43074291) - [Javier Milei risks impeachment after endorsing $107M Libra rug pull](https://cointelegraph.com/news/javier-milei-risks-impeachment-107-m-libra-rug-pull)
 * [2025-02-17, 02:22:20](https://news.ycombinator.com/item?id=43074281) - [PASS on Firing of Probationary Employees at FAA](https://www.passnational.org/index.php/news/873-pass-statement-on-firing-of-probationary-employees-at-faa)
 * [2025-02-17, 02:14:19](https://news.ycombinator.com/item?id=43074214) - [The human mind is in a recession](https://www.ft.com/content/c288abc6-24a4-4062-aeb4-05c463ae7289)
