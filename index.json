@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-02-17, 07:52:35",
-      "https://news.ycombinator.com/item?id=43076325"
-    ],
-    [
-      "South Korea bans new DeepSeek AI downloads",
-      "https://www.bbc.com/news/articles/clyzym0vn8go"
-    ]
-  ],
-  [
-    [
       "2025-02-17, 05:02:35",
       "https://news.ycombinator.com/item?id=43075347"
     ],
@@ -207,6 +197,16 @@
     [
       "How do modern compilers choose which variables to put in registers?",
       "https://langdev.stackexchange.com/questions/4325/how-do-modern-compilers-choose-which-variables-to-put-in-registers"
+    ]
+  ],
+  [
+    [
+      "2025-02-14, 11:19:06",
+      "https://news.ycombinator.com/item?id=43047255"
+    ],
+    [
+      "OpenVINO AI effects [denoising and transcription] for Audacity",
+      "https://www.audacityteam.org/blog/openvino-ai-effects/"
     ]
   ],
   [
