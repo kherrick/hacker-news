@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-02-17](index.md)
 
+* [2025-02-17, 22:26:38](https://news.ycombinator.com/item?id=43083886) - [Argentina president faces impeachment calls over crypto crash](https://www.bbc.com/news/articles/cp9x9j89evxo)
 * [2025-02-17, 22:19:16](https://news.ycombinator.com/item?id=43083845) - [Ask HN: Small Ideas vs. Big Ideas?](https://news.ycombinator.com/item?id=43083845)
 * [2025-02-17, 22:09:09](https://news.ycombinator.com/item?id=43083772) - [The List of DRM-Free Bookshops](https://libreture.com/bookshops/)
+* [2025-02-17, 22:03:12](https://news.ycombinator.com/item?id=43083719) - [Mt32-pi developer quits due to community harassment](https://github.com/dwhinham/mt32-pi)
+* [2025-02-17, 21:59:14](https://news.ycombinator.com/item?id=43083687) - [Setting up a trusted, self-signed SSL/TLS certificate authority in Linux](https://previnder.com/tls-ca-linux/)
+* [2025-02-17, 21:14:03](https://news.ycombinator.com/item?id=43083345) - [Find Your 2%Ers](https://joyarbitrage.substack.com/p/find-your-2ers)
 * [2025-02-17, 21:05:48](https://news.ycombinator.com/item?id=43083295) - [NLRB Acting General Counsel Rescinds Non-Compete Labor Policy](https://natlawreview.com/article/nlrb-acting-general-counsel-rescinds-non-compete-labor-policy)
 * [2025-02-17, 21:04:33](https://news.ycombinator.com/item?id=43083280) - [Project 2025 Observer](https://www.project2025.observer/)
 * [2025-02-17, 21:00:29](https://news.ycombinator.com/item?id=43083255) - [TestRigor (YC S21) Is Hiring VP of Engineering](https://www.ycombinator.com/companies/testrigor/jobs/AuTkpC9-vp-of-engineering)

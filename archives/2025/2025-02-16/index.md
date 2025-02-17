@@ -38,6 +38,7 @@
 * [2025-02-16, 15:08:31](https://news.ycombinator.com/item?id=43068585) - [Flea-Scope: $18, FOSS USB Oscilloscope, Logic Analyzer and More [pdf]](https://rtestardi.github.io/usbte/flea-scope.pdf)
 * [2025-02-16, 14:33:33](https://news.ycombinator.com/item?id=43068337) - [So Many Unmarried Men](https://aeon.co/essays/for-mary-midgley-philosophy-must-be-entangled-in-daily-life)
 * [2025-02-16, 14:26:55](https://news.ycombinator.com/item?id=43068283) - [Rethinking the C Time API](https://oliverkwebb.github.io/articles/newtime/)
+* [2025-02-16, 12:54:57](https://news.ycombinator.com/item?id=43067627) - [Large Language Models Show Concerning Tendency to Flatter Users](https://xyzlabs.substack.com/p/large-language-models-show-concerning)
 * [2025-02-16, 12:46:55](https://news.ycombinator.com/item?id=43067585) - [Rust Is Eating JavaScript](https://leerob.com/n/rust)
 * [2025-02-16, 12:09:58](https://news.ycombinator.com/item?id=43067419) - [Blocklist for AI Music on YouTube](https://surasshu.com/blocklist-for-ai-music-on-youtube/)
 * [2025-02-16, 12:00:22](https://news.ycombinator.com/item?id=43067378) - [Statement or eyesore? Japan's divisive brutalist buildings – in pictures](https://www.theguardian.com/artanddesign/gallery/2025/jan/29/japan-brutalist-buildings-in-pictures)
