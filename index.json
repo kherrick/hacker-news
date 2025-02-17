@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=43080535"
     ],
     [
-      "Hk, a new Git hook manager from jdx",
+      "Hk, a new Git hook manager",
       "https://hk.jdx.dev/about.html"
     ]
   ],
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=43080378"
     ],
     [
-      "Open Source projects could sell SBoM fragments",
+      "Open source projects could sell SBOM fragments",
       "https://www.thomas-huehn.com/open-source-projects-could-sell-sbom-fragments/"
     ]
   ],
@@ -117,6 +117,16 @@
     [
       "Fluoxetine promotes metabolic defenses to protect from sepsis-induced lethality",
       "https://www.science.org/doi/10.1126/sciadv.adu4034"
+    ]
+  ],
+  [
+    [
+      "2025-02-17, 12:15:01",
+      "https://news.ycombinator.com/item?id=43078100"
+    ],
+    [
+      "Representing Graphs in PostgreSQL",
+      "https://www.richard-towers.com/2025/02/16/representing-graphs-in-postgres.html"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Does or did COBOL default to 1875-05-20 for corrupt or missing dates?",
       "https://retrocomputing.stackexchange.com/questions/31288/does-or-did-cobol-default-to-1875-05-20-for-corrupt-or-missing-dates"
-    ]
-  ],
-  [
-    [
-      "2025-02-16, 22:22:40",
-      "https://news.ycombinator.com/item?id=43072338"
-    ],
-    [
-      "Uchū – Color palette for internet lovers",
-      "https://uchu.style"
     ]
   ],
   [
