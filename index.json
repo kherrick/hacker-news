@@ -1,26 +1,6 @@
 [
   [
     [
-      "2025-02-17, 14:23:21",
-      "https://news.ycombinator.com/item?id=43079280"
-    ],
-    [
-      "GNU/Darwin (2000)",
-      "http://www.gnu-darwin.org/"
-    ]
-  ],
-  [
-    [
-      "2025-02-17, 14:03:24",
-      "https://news.ycombinator.com/item?id=43079109"
-    ],
-    [
-      "Show HN: Bag of words – Build and share smart data apps using AI",
-      "https://github.com/bagofwords1/bagofwords"
-    ]
-  ],
-  [
-    [
       "2025-02-17, 13:56:30",
       "https://news.ycombinator.com/item?id=43079046"
     ],
@@ -31,22 +11,22 @@
   ],
   [
     [
+      "2025-02-17, 13:24:04",
+      "https://news.ycombinator.com/item?id=43078743"
+    ],
+    [
+      "Biases in Apple's Image Playground",
+      "https://www.giete.ma/blog/biases-in-apples-image-playground"
+    ]
+  ],
+  [
+    [
       "2025-02-17, 13:02:46",
       "https://news.ycombinator.com/item?id=43078537"
     ],
     [
       "Fluoxetine promotes metabolic defenses to protect from sepsis-induced lethality",
       "https://www.science.org/doi/10.1126/sciadv.adu4034"
-    ]
-  ],
-  [
-    [
-      "2025-02-17, 12:15:01",
-      "https://news.ycombinator.com/item?id=43078100"
-    ],
-    [
-      "Representing Graphs in PostgreSQL",
-      "https://www.richard-towers.com/2025/02/16/representing-graphs-in-postgres.html"
     ]
   ],
   [
@@ -71,12 +51,22 @@
   ],
   [
     [
-      "2025-02-17, 09:07:45",
-      "https://news.ycombinator.com/item?id=43076785"
+      "2025-02-17, 10:32:32",
+      "https://news.ycombinator.com/item?id=43077340"
     ],
     [
-      "Searchcode.com’s SQLite database is probably 6 terabytes bigger than yours",
-      "https://boyter.org/posts/searchcode-bigger-sqlite-than-you/"
+      "Ask HN: Ways to progress career wise as SWE?",
+      "https://news.ycombinator.com/item?id=43077340"
+    ]
+  ],
+  [
+    [
+      "2025-02-17, 09:54:46",
+      "https://news.ycombinator.com/item?id=43077074"
+    ],
+    [
+      "Step-Video-T2V: The Practice, Challenges, and Future of Video Foundation Model",
+      "https://arxiv.org/abs/2502.10248"
     ]
   ],
   [
@@ -161,12 +151,12 @@
   ],
   [
     [
-      "2025-02-16, 23:15:59",
-      "https://news.ycombinator.com/item?id=43072790"
+      "2025-02-16, 22:38:14",
+      "https://news.ycombinator.com/item?id=43072483"
     ],
     [
-      "Javier Milei backtracks on $4.4B memecoin after 'insiders' pocket $87M",
-      "https://www.coindesk.com/business/2025/02/15/javier-milei-backtracks-on-usd4-4b-memecoin-after-insiders-pocket-usd87m"
+      "Opposing arrows of time can theoretically emerge from certain quantum systems",
+      "https://www.surrey.ac.uk/news/physicists-uncover-evidence-two-arrows-time-emerging-quantum-realm"
     ]
   ],
   [
@@ -177,6 +167,26 @@
     [
       "Uchū – Color palette for internet lovers",
       "https://uchu.style"
+    ]
+  ],
+  [
+    [
+      "2025-02-16, 21:14:22",
+      "https://news.ycombinator.com/item?id=43071775"
+    ],
+    [
+      "Physics Informed Neural Networks",
+      "https://nchagnet.pages.dev/blog/physics-informed-neural-networks/"
+    ]
+  ],
+  [
+    [
+      "2025-02-16, 20:18:45",
+      "https://news.ycombinator.com/item?id=43071286"
+    ],
+    [
+      "When Not to Obey Orders (2019)",
+      "https://warontherocks.com/2019/07/when-not-to-obey-orders/"
     ]
   ],
   [
@@ -231,32 +241,12 @@
   ],
   [
     [
-      "2025-02-14, 13:54:16",
-      "https://news.ycombinator.com/item?id=43048264"
-    ],
-    [
-      "Humpback whale briefly traps young kayaker in its mouth in Chile",
-      "https://apnews.com/article/chile-kayaking-tourism-whale-b0cafde4b640326f20a9da28003d6c26"
-    ]
-  ],
-  [
-    [
       "2025-02-14, 13:30:24",
       "https://news.ycombinator.com/item?id=43048073"
     ],
     [
       "How do modern compilers choose which variables to put in registers?",
       "https://langdev.stackexchange.com/questions/4325/how-do-modern-compilers-choose-which-variables-to-put-in-registers"
-    ]
-  ],
-  [
-    [
-      "2025-02-14, 00:23:59",
-      "https://news.ycombinator.com/item?id=43043193"
-    ],
-    [
-      "Comments on Shared Unix Hosting vs. the Cloud",
-      "https://oils.pub/blog/2025/02/shared-hosting.html"
     ]
   ],
   [
@@ -281,12 +271,12 @@
   ],
   [
     [
-      "2025-02-13, 16:54:10",
-      "https://news.ycombinator.com/item?id=43038109"
+      "2025-02-13, 16:49:12",
+      "https://news.ycombinator.com/item?id=43038033"
     ],
     [
-      "Anno 1800: Shadows of Beauty",
-      "https://simonschreibt.de/gat/anno-1800-shadows-of-beauty/"
+      "FA Cup to use semi-automated offsides for first time",
+      "https://www.bbc.com/sport/football/articles/cx2k9klnpvlo"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The lottery of the snakebite antivenom industry",
       "https://www.theguardian.com/global-development/2025/feb/13/its-a-cowboy-show-out-there-the-deadly-lottery-of-the-snakebite-antivenom-industry"
+    ]
+  ],
+  [
+    [
+      "2025-02-13, 09:16:20",
+      "https://news.ycombinator.com/item?id=43034179"
+    ],
+    [
+      "Hans Bethe Stumbled Upon Perfect Quantum Theories",
+      "https://www.quantamagazine.org/how-hans-bethe-stumbled-upon-perfect-quantum-theories-20250212/"
     ]
   ]
 ]
