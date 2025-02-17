@@ -19,6 +19,7 @@
 * [2025-02-14, 21:42:03](https://news.ycombinator.com/item?id=43053385) - [Mathics: A free, open-source alternative to Mathematica](https://mathics.org/)
 * [2025-02-14, 21:39:29](https://news.ycombinator.com/item?id=43053350) - [The Iconic 3DBenchy Enters the Public Domain](https://www.nti-group.com/home/information/news/3dbenchy/)
 * [2025-02-14, 21:32:53](https://news.ycombinator.com/item?id=43053287) - [Cameras have appeared outside homes of Atlanta's 'Cop City' activists](https://www.theguardian.com/us-news/2025/feb/14/cameras-cop-city-activist-homes-atlanta)
+* [2025-02-14, 21:29:11](https://news.ycombinator.com/item?id=43053251) - [I use two trumpets to play the flute [video]](https://www.youtube.com/watch?v=Jcx_gU60aL0)
 * [2025-02-14, 20:57:36](https://news.ycombinator.com/item?id=43052997) - [Show HN: OpenSCAD configurable calendar 3D model](https://chrastecky.dev/3d-printing/open-scad-configurable-calendar-3d-model)
 * [2025-02-14, 20:49:14](https://news.ycombinator.com/item?id=43052923) - [Researcher Captures Contents of 'DEI.gov' Before It Was Hidden Behind a Password](https://www.404media.co/dei-waste-gov-doge-list-behind-password/)
 * [2025-02-14, 20:48:07](https://news.ycombinator.com/item?id=43052910) - [CDC cuts expected to decimate Epidemic Intelligence Service](https://www.statnews.com/2025/02/14/trump-cdc-cuts-include-epidemic-intelligence-service-outbreak-investigators/)
