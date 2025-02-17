@@ -13,6 +13,7 @@
 * [2025-02-17, 01:42:12](https://news.ycombinator.com/item?id=43073969) - [All Kindles can now be jailbroken](https://old.reddit.com/r/kindle/comments/1hrwytr/all_kindles_can_now_be_jailbroken/)
 * [2025-02-17, 01:40:47](https://news.ycombinator.com/item?id=43073959) - [Ask HN: Can we get a HN background color (dark mode)](https://news.ycombinator.com/item?id=43073959)
 * [2025-02-17, 01:25:46](https://news.ycombinator.com/item?id=43073836) - [YouTube asks channel owner to verify phone, permanently overwrites personal info](https://www.reddit.com/r/VirtualYoutubers/s/iJ1W7JUN2T)
+* [2025-02-17, 01:25:46](https://news.ycombinator.com/item?id=43073836) - [YouTube asks channel owner to verify phone, permanently overwrites personal info](https://old.reddit.com/r/VirtualYoutubers/comments/1iqmul1/if_you_have_a_moment_i_need_your_help/)
 * [2025-02-17, 01:24:04](https://news.ycombinator.com/item?id=43073819) - [Oklch in CSS: why we moved from RGB and HSL](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)
 * [2025-02-17, 01:22:49](https://news.ycombinator.com/item?id=43073808) - [Homemade polarimetric synthetic aperture radar drone](https://hforsten.com/homemade-polarimetric-synthetic-aperture-radar-drone.html)
 * [2025-02-17, 01:17:16](https://news.ycombinator.com/item?id=43073773) - [America will collapse by 2025 (2010)](https://www.salon.com/2010/12/06/america_collapse_2025/)
