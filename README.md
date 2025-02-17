@@ -2,7 +2,6 @@
 
 * [2025-02-17, 05:02:35](https://news.ycombinator.com/item?id=43075347) - [Word embeddings – Part 3: The secret ingredients of Word2Vec](https://www.ruder.io/secret-word2vec/)
 * [2025-02-17, 04:23:10](https://news.ycombinator.com/item?id=43075113) - [My Time at MIT](http://muratbuffalo.blogspot.com/2025/02/my-time-at-mit.html)
-* [2025-02-17, 03:37:36](https://news.ycombinator.com/item?id=43074834) - [Comparison of File Systems for an SSD](https://www.linux.org/threads/comparison-of-file-systems-for-an-ssd.28780/)
 * [2025-02-17, 02:29:51](https://news.ycombinator.com/item?id=43074347) - [Ugandan runner Jacob Kiplimo completes first ever sub-57 minute half marathon](https://www.cnn.com/2025/02/16/sport/jacob-kiplimo-smashes-half-marathon-record-spt-intl/index.html)
 * [2025-02-17, 01:45:28](https://news.ycombinator.com/item?id=43073992) - [Did the Windows 95 setup team forget that MS-DOS can do graphics?](https://devblogs.microsoft.com/oldnewthing/20250211-00/?p=110862)
 * [2025-02-17, 01:42:12](https://news.ycombinator.com/item?id=43073969) - [All Kindles can now be jailbroken](https://kindlemodding.org/jailbreaking/WinterBreak/)
@@ -28,6 +27,7 @@
 * [2025-02-13, 16:51:23](https://news.ycombinator.com/item?id=43038070) - [MySQL at Uber](https://www.uber.com/blog/mysql-at-uber/?uclick_id=8d2a6f71-8db1-4c60-b724-fc9bd70cd9fd)
 * [2025-02-13, 16:17:07](https://news.ycombinator.com/item?id=43037500) - [I pulled data on 1378 restaurants from Google Maps to rank them in order](https://mattsayar.com/ranking-the-best-restaurants-in-colorado-springs/)
 * [2025-02-13, 15:34:57](https://news.ycombinator.com/item?id=43036903) - [Explaining my fast 6502 code generator (2023)](https://pubby.games/codegen.html)
+* [2025-02-13, 15:04:31](https://news.ycombinator.com/item?id=43036560) - [The deadly lottery of the snakebite antivenom industry](https://www.theguardian.com/global-development/2025/feb/13/its-a-cowboy-show-out-there-the-deadly-lottery-of-the-snakebite-antivenom-industry)
 * [2025-02-13, 14:00:41](https://news.ycombinator.com/item?id=43035896) - [Publish Your Gaussian Splats with SuperSplat](https://blog.playcanvas.com/publish-your-gaussian-splats-with-supersplat/)
 * [2025-02-13, 09:16:20](https://news.ycombinator.com/item?id=43034179) - [Hans Bethe Stumbled Upon Perfect Quantum Theories](https://www.quantamagazine.org/how-hans-bethe-stumbled-upon-perfect-quantum-theories-20250212/)
 

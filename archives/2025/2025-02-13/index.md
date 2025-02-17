@@ -53,6 +53,7 @@
 * [2025-02-13, 15:23:36](https://news.ycombinator.com/item?id=43036770) - [Genesis and Sega CD – Audio Filtering](https://jsgroth.dev/blog/posts/genesis-sega-cd-audio-filtering/)
 * [2025-02-13, 15:20:52](https://news.ycombinator.com/item?id=43036742) - [Magnetic field sorting of superconducting graphite particles with Tc>400K](https://arxiv.org/abs/2410.18020)
 * [2025-02-13, 15:08:34](https://news.ycombinator.com/item?id=43036593) - [Better text rendering in Chromium-based browsers on Windows](https://developer.chrome.com/blog/better-text-rendering-in-chromium-based-browsers-on-windows)
+* [2025-02-13, 15:04:31](https://news.ycombinator.com/item?id=43036560) - [The deadly lottery of the snakebite antivenom industry](https://www.theguardian.com/global-development/2025/feb/13/its-a-cowboy-show-out-there-the-deadly-lottery-of-the-snakebite-antivenom-industry)
 * [2025-02-13, 14:53:46](https://news.ycombinator.com/item?id=43036434) - [U.K. demand for a back door to Apple data threatens Americans, lawmakers say](https://www.washingtonpost.com/technology/2025/02/13/apple-uk-security-back-door-adp/)
 * [2025-02-13, 14:53:21](https://news.ycombinator.com/item?id=43036428) - [Are PhDs losing lustre? Why fewer students are enrolling in doctoral degrees](https://www.nature.com/articles/d41586-025-00425-4)
 * [2025-02-13, 14:48:31](https://news.ycombinator.com/item?id=43036366) - [UTEP leaders silent as Ted Cruz accuses researchers of using 'woke DEI grants'](https://elpasomatters.org/2025/02/12/ted-cruz-utep-grants-national-science-foundation/)
