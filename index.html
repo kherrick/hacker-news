@@ -129,6 +129,99 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="43080895">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=43080895"
+              >Launch HN: Roark (YC W25) – Taking the Pain Out of Voice AI
+              Testing</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-02-17 @ 16:54:52</span
+              ><span class="points-container"
+                >Points: <span class="points">5</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43080895"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://roark.ai">https://roark.ai</a>). We built a tool
+              that lets developers replay real production calls against their
+              latest Voice AI changes, so they can catch failures, test updates,
+              and iterate with confidence.
+              <p>
+                Here’s a demo video:
+                <a href="https://www.youtube.com/watch?v=eu8mo28LsTc"
+                  >https://www.youtube.com/watch?v=eu8mo28LsTc</a
+                >.
+              </p>
+              <p>
+                We ran into this problem while building a voice AI agent for a
+                dental clinic. Patients kept getting stuck in loops, failing to
+                confirm insurance, or misunderstanding responses. The only way
+                to test fixes was to manually call the agent or read through
+                hundreds of transcripts, hoping to catch issues. It was slow,
+                frustrating, and unreliable.
+              </p>
+              <p>
+                Talking to other teams, we found this wasn’t just a niche issue
+                - every team building Voice AI struggled to validate performance
+                efficiently. Debugging meant calling the agent over and over.
+                Updates shipped with unknown regressions. Sentiment analysis
+                relied only on text, missing key audio cues like hesitation or
+                frustration, which often signal deeper issues.
+              </p>
+              <p>
+                That’s why we built Roark. Instead of relying on scripted test
+                cases, Roark captures real production calls from VAPI, Retell,
+                or a custom-built agent via API and replays them against your
+                latest agent changes. We don’t just feed back text, we preserve
+                what the user said, how they said it, and when they said it,
+                mimicking pauses, sentiment, and tone up until the conversation
+                flow changes. This ensures your agent is tested under real-world
+                conditions, not just synthetic scripts.
+              </p>
+              <p>
+                For each replay that we run, Roark checks if the agent follows
+                key flows (e.g. verifying identity before sharing account
+                details). Our speech based evaluators also detect sentiments
+                such as frustration and confusion, long pauses, and
+                interruptions - things that regular transcripts miss.
+              </p>
+              <p>
+                After testing, Roark provides Mixpanel-style analytics to track
+                failures, conversation flows, and key performance metrics,
+                helping teams debug faster and ship with confidence. Instead of
+                hoping changes work, teams get immediate pass/fail results,
+                side-by-side transcript comparisons, and real-world insights.
+              </p>
+              <p>
+                We’re already working with teams in healthcare, legal, and
+                customer service who rely on Voice AI for critical interactions.
+                They use Roark to debug AI failures faster, test updates before
+                they go live, and improve customer experiences - without
+                manually calling their bots dozens of times.
+              </p>
+              <p>
+                Our product isn’t <i>quite</i> ready yet for self-service, so
+                you’ll still see the dreaded “book a demo” on our home page. If
+                you’re reading this, though, we’d love to fast-track you, so we
+                made a special page for HN signups here:
+                <a href="https://roark.ai/hn-access"
+                  >https://roark.ai/hn-access</a
+                >. If you’re working on Voice AI and want to try us out, please
+                do!
+              </p>
+              <p>
+                Would love any feedback, thoughts, or questions from the HN
+                community!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="43080858">
           <h3>
             <a class="item" href="https://pwy.io/posts/kartoffels-v0.7/"
@@ -158,11 +251,11 @@
             <h4>
               <span>2025-02-17 @ 16:23:30</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43080535"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -179,11 +272,11 @@
             <h4>
               <span>2025-02-17 @ 16:09:47</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43080378"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -200,11 +293,11 @@
             <h4>
               <span>2025-02-17 @ 15:15:14</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43079791"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -219,11 +312,11 @@
             <h4>
               <span>2025-02-17 @ 13:56:30</span
               ><span class="points-container"
-                >Points: <span class="points">93</span></span
+                >Points: <span class="points">97</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43079046"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -238,7 +331,7 @@
             <h4>
               <span>2025-02-17 @ 13:54:40</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43079023"
                   >Comments</a
@@ -258,11 +351,11 @@
             <h4>
               <span>2025-02-17 @ 13:04:34</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43078555"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
             <div class="text">
@@ -315,11 +408,11 @@
             <h4>
               <span>2025-02-17 @ 13:02:46</span
               ><span class="points-container"
-                >Points: <span class="points">89</span></span
+                >Points: <span class="points">92</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43078537"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -336,11 +429,11 @@
             <h4>
               <span>2025-02-17 @ 11:18:29</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43077675"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -356,32 +449,11 @@
             <h4>
               <span>2025-02-17 @ 09:54:46</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43077074"
                   >Comments</a
                 ><span class="descendants">: 3</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43076710">
-          <h3>
-            <a
-              class="item"
-              href="https://www.disruptionist.com/p/elon-musks-x-blocks-links-to-signal"
-              >X users are unable to post “Signal.me” links</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-02-17 @ 08:52:51</span
-              ><span class="points-container"
-                >Points: <span class="points">664</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43076710"
-                  >Comments</a
-                ><span class="descendants">: 586</span></span
               >
             </h4>
           </section>
@@ -396,11 +468,11 @@
             <h4>
               <span>2025-02-17 @ 05:02:35</span
               ><span class="points-container"
-                >Points: <span class="points">153</span></span
+                >Points: <span class="points">154</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43075347"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -417,11 +489,11 @@
             <h4>
               <span>2025-02-17 @ 04:23:10</span
               ><span class="points-container"
-                >Points: <span class="points">128</span></span
+                >Points: <span class="points">130</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43075113"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -438,11 +510,11 @@
             <h4>
               <span>2025-02-17 @ 01:42:12</span
               ><span class="points-container"
-                >Points: <span class="points">987</span></span
+                >Points: <span class="points">998</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43073969"
                   >Comments</a
-                ><span class="descendants">: 338</span></span
+                ><span class="descendants">: 340</span></span
               >
             </h4>
           </section>
@@ -459,7 +531,7 @@
             <h4>
               <span>2025-02-17 @ 01:22:49</span
               ><span class="points-container"
-                >Points: <span class="points">474</span></span
+                >Points: <span class="points">481</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43073808"
                   >Comments</a
@@ -480,11 +552,11 @@
             <h4>
               <span>2025-02-17 @ 00:26:04</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43073377"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -502,11 +574,11 @@
             <h4>
               <span>2025-02-17 @ 00:15:50</span
               ><span class="points-container"
-                >Points: <span class="points">279</span></span
+                >Points: <span class="points">283</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43073292"
                   >Comments</a
-                ><span class="descendants">: 410</span></span
+                ><span class="descendants">: 413</span></span
               >
             </h4>
           </section>
@@ -524,11 +596,11 @@
             <h4>
               <span>2025-02-16 @ 23:56:16</span
               ><span class="points-container"
-                >Points: <span class="points">216</span></span
+                >Points: <span class="points">217</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43073149"
                   >Comments</a
-                ><span class="descendants">: 338</span></span
+                ><span class="descendants">: 341</span></span
               >
             </h4>
           </section>
@@ -543,11 +615,11 @@
             <h4>
               <span>2025-02-16 @ 22:22:40</span
               ><span class="points-container"
-                >Points: <span class="points">575</span></span
+                >Points: <span class="points">577</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43072338"
                   >Comments</a
-                ><span class="descendants">: 233</span></span
+                ><span class="descendants">: 234</span></span
               >
             </h4>
             <div class="text">
@@ -561,23 +633,23 @@
             </div>
           </section>
         </section>
-        <section id="43071775">
+        <section id="43071983">
           <h3>
             <a
               class="item"
-              href="https://nchagnet.pages.dev/blog/physics-informed-neural-networks/"
-              >Physics Informed Neural Networks</a
+              href="https://nyanpasu64.gitlab.io/blog/amdgpu-sleep-wake-hang/"
+              >I helped fix sleep-wake hangs on Linux with AMD GPUs</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-02-16 @ 21:14:22</span
+              <span>2025-02-16 @ 21:42:03</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43071775"
+                ><a href="https://news.ycombinator.com/item?id=43071983"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -594,11 +666,11 @@
             <h4>
               <span>2025-02-16 @ 20:18:45</span
               ><span class="points-container"
-                >Points: <span class="points">210</span></span
+                >Points: <span class="points">212</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43071286"
                   >Comments</a
-                ><span class="descendants">: 111</span></span
+                ><span class="descendants">: 116</span></span
               >
             </h4>
           </section>
@@ -615,11 +687,11 @@
             <h4>
               <span>2025-02-16 @ 10:16:49</span
               ><span class="points-container"
-                >Points: <span class="points">1643</span></span
+                >Points: <span class="points">1645</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43066953"
                   >Comments</a
-                ><span class="descendants">: 401</span></span
+                ><span class="descendants">: 402</span></span
               >
             </h4>
           </section>
@@ -634,7 +706,7 @@
             <h4>
               <span>2025-02-15 @ 00:15:09</span
               ><span class="points-container"
-                >Points: <span class="points">5</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43054506"
                   >Comments</a
@@ -655,7 +727,7 @@
             <h4>
               <span>2025-02-14 @ 21:43:50</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43053403"
                   >Comments</a
@@ -681,7 +753,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43050447"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -699,11 +771,11 @@
             <h4>
               <span>2025-02-14 @ 13:30:24</span
               ><span class="points-container"
-                >Points: <span class="points">269</span></span
+                >Points: <span class="points">271</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43048073"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -721,11 +793,11 @@
             <h4>
               <span>2025-02-14 @ 11:36:39</span
               ><span class="points-container"
-                >Points: <span class="points">163</span></span
+                >Points: <span class="points">169</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43047341"
                   >Comments</a
-                ><span class="descendants">: 119</span></span
+                ><span class="descendants">: 126</span></span
               >
             </h4>
           </section>
@@ -741,11 +813,11 @@
             <h4>
               <span>2025-02-13 @ 19:56:30</span
               ><span class="points-container"
-                >Points: <span class="points">211</span></span
+                >Points: <span class="points">213</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43040507"
                   >Comments</a
-                ><span class="descendants">: 109</span></span
+                ><span class="descendants">: 110</span></span
               >
             </h4>
           </section>
@@ -762,7 +834,7 @@
             <h4>
               <span>2025-02-13 @ 19:25:05</span
               ><span class="points-container"
-                >Points: <span class="points">121</span></span
+                >Points: <span class="points">122</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43040129"
                   >Comments</a
@@ -787,7 +859,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43036560"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
