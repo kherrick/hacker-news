@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-17, 14:23:21](https://news.ycombinator.com/item?id=43079280) - [GNU/Darwin (2000)](http://www.gnu-darwin.org/)
 * [2025-02-17, 14:03:24](https://news.ycombinator.com/item?id=43079109) - [Show HN: Bag of words – Build and share smart data apps using AI](https://github.com/bagofwords1/bagofwords)
+* [2025-02-17, 13:56:30](https://news.ycombinator.com/item?id=43079046) - [Mistral Saba](https://mistral.ai/en/news/mistral-saba)
 * [2025-02-17, 13:02:46](https://news.ycombinator.com/item?id=43078537) - [Fluoxetine promotes metabolic defenses to protect from sepsis-induced lethality](https://www.science.org/doi/10.1126/sciadv.adu4034)
 * [2025-02-17, 12:15:01](https://news.ycombinator.com/item?id=43078100) - [Representing Graphs in PostgreSQL](https://www.richard-towers.com/2025/02/16/representing-graphs-in-postgres.html)
 * [2025-02-17, 11:41:12](https://news.ycombinator.com/item?id=43077833) - [Open source maintainers are feeling the squeeze](https://www.theregister.com/2025/02/16/open_source_maintainers_state_of_open/)
@@ -16,7 +18,6 @@
 * [2025-02-16, 23:56:16](https://news.ycombinator.com/item?id=43073149) - [Does or did COBOL default to 1875-05-20 for corrupt or missing dates?](https://retrocomputing.stackexchange.com/questions/31288/does-or-did-cobol-default-to-1875-05-20-for-corrupt-or-missing-dates)
 * [2025-02-16, 23:15:59](https://news.ycombinator.com/item?id=43072790) - [Javier Milei backtracks on $4.4B memecoin after 'insiders' pocket $87M](https://www.coindesk.com/business/2025/02/15/javier-milei-backtracks-on-usd4-4b-memecoin-after-insiders-pocket-usd87m)
 * [2025-02-16, 22:22:40](https://news.ycombinator.com/item?id=43072338) - [Uchū – Color palette for internet lovers](https://uchu.style)
-* [2025-02-16, 21:14:22](https://news.ycombinator.com/item?id=43071775) - [Physics Informed Neural Networks](https://nchagnet.pages.dev/blog/physics-informed-neural-networks/)
 * [2025-02-16, 17:04:09](https://news.ycombinator.com/item?id=43069533) - [IPv6 Is Hard](https://techlog.jenslink.net/posts/ipv6-is-hard/)
 * [2025-02-16, 15:08:31](https://news.ycombinator.com/item?id=43068585) - [Flea-Scope: $18 Source Available USB Oscilloscope, Logic Analyzer and More [pdf]](https://rtestardi.github.io/usbte/flea-scope.pdf)
 * [2025-02-16, 10:16:49](https://news.ycombinator.com/item?id=43066953) - [“A calculator app? Anyone could make that”](https://chadnauseam.com/coding/random/calculator-app)
@@ -27,7 +28,6 @@
 * [2025-02-14, 00:23:59](https://news.ycombinator.com/item?id=43043193) - [Comments on Shared Unix Hosting vs. the Cloud](https://oils.pub/blog/2025/02/shared-hosting.html)
 * [2025-02-13, 19:56:30](https://news.ycombinator.com/item?id=43040507) - [Umami is a simple, fast, privacy-focused alternative to Google Analytics](https://github.com/umami-software/umami)
 * [2025-02-13, 19:25:05](https://news.ycombinator.com/item?id=43040129) - [Gold Is Worth More in New York](https://www.bloomberg.com/opinion/articles/2025-02-13/gold-is-worth-more-in-new-york)
-* [2025-02-13, 18:05:54](https://news.ycombinator.com/item?id=43039140) - [Tokyo Xtreme Racer Early Access Review: We Are So Back](https://www.thedrive.com/news/tokyo-xtreme-racer-early-access-review)
 * [2025-02-13, 16:54:10](https://news.ycombinator.com/item?id=43038109) - [Anno 1800: Shadows of Beauty](https://simonschreibt.de/gat/anno-1800-shadows-of-beauty/)
 * [2025-02-13, 15:04:31](https://news.ycombinator.com/item?id=43036560) - [The lottery of the snakebite antivenom industry](https://www.theguardian.com/global-development/2025/feb/13/its-a-cowboy-show-out-there-the-deadly-lottery-of-the-snakebite-antivenom-industry)
 
