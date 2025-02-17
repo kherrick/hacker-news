@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-02-17](index.md)
 
+* [2025-02-17, 02:23:22](https://news.ycombinator.com/item?id=43074291) - [Javier Milei risks impeachment after endorsing $107M Libra rug pull](https://cointelegraph.com/news/javier-milei-risks-impeachment-107-m-libra-rug-pull)
+* [2025-02-17, 02:14:19](https://news.ycombinator.com/item?id=43074214) - [The human mind is in a recession](https://www.ft.com/content/c288abc6-24a4-4062-aeb4-05c463ae7289)
+* [2025-02-17, 02:05:38](https://news.ycombinator.com/item?id=43074155) - [Elon Musk's terrifying vision for AI](https://garymarcus.substack.com/p/elon-musks-terrifying-vision-for)
+* [2025-02-17, 01:45:28](https://news.ycombinator.com/item?id=43073992) - [Did the Windows 95 setup team forget that MS-DOS can do graphics?](https://devblogs.microsoft.com/oldnewthing/20250211-00/?p=110862)
 * [2025-02-17, 01:42:12](https://news.ycombinator.com/item?id=43073969) - [All Kindles can now be jailbroken](https://old.reddit.com/r/kindle/comments/1hrwytr/all_kindles_can_now_be_jailbroken/)
 * [2025-02-17, 01:25:46](https://news.ycombinator.com/item?id=43073836) - [YouTube asks channel owner to verify phone, permanently overwrites personal info](https://www.reddit.com/r/VirtualYoutubers/s/iJ1W7JUN2T)
 * [2025-02-17, 01:24:04](https://news.ycombinator.com/item?id=43073819) - [Oklch in CSS: why we moved from RGB and HSL](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)
+* [2025-02-17, 01:22:49](https://news.ycombinator.com/item?id=43073808) - [Homemade polarimetric synthetic aperture radar drone](https://hforsten.com/homemade-polarimetric-synthetic-aperture-radar-drone.html)
 * [2025-02-17, 01:17:16](https://news.ycombinator.com/item?id=43073773) - [America will collapse by 2025 (2010)](https://www.salon.com/2010/12/06/america_collapse_2025/)
 * [2025-02-17, 00:39:00](https://news.ycombinator.com/item?id=43073481) - [How to add a directory to your PATH](https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/)
 * [2025-02-17, 00:27:33](https://news.ycombinator.com/item?id=43073385) - [Why bother with privacy when I have nothing to hide? (2023)](https://hannahonprivacy.substack.com/p/why-bother-with-privacy-when-i-have)

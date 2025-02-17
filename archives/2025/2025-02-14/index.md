@@ -44,6 +44,7 @@
 * [2025-02-14, 17:22:44](https://news.ycombinator.com/item?id=43050644) - [Bombed Fresco: Using Math to Piece Together a Lost Treasure](https://www.spiegel.de/international/zeitgeist/bombed-fresco-using-math-to-piece-together-a-lost-treasure-a-792781.html)
 * [2025-02-14, 17:16:06](https://news.ycombinator.com/item?id=43050579) - [DOGE Website Hacked](https://arstechnica.com/tech-policy/2025/02/doges-gov-site-lampooned-as-coders-quickly-realize-it-can-be-edited-by-anyone/)
 * [2025-02-14, 17:06:59](https://news.ycombinator.com/item?id=43050503) - [The Oligarchs Who Came to Regret Supporting Hitler](https://www.theatlantic.com/ideas/archive/2025/02/hitler-oligarchs-hugenberg-nazi/681584/)
+* [2025-02-14, 17:01:43](https://news.ycombinator.com/item?id=43050447) - [Extreme supersonic winds measured on a planet outside our solar system](https://phys.org/news/2025-01-extreme-supersonic-planet-solar.html)
 * [2025-02-14, 16:52:45](https://news.ycombinator.com/item?id=43050350) - [Nearly half of Steam's users are still using Windows 10](https://www.pcguide.com/news/nearly-half-of-steams-users-are-still-using-windows-10-with-end-of-life-fast-approaching/)
 * [2025-02-14, 16:18:30](https://news.ycombinator.com/item?id=43049959) - [Detecting AI Agent Use and Abuse](https://stytch.com/blog/detecting-ai-agent-use-abuse/)
 * [2025-02-14, 16:06:47](https://news.ycombinator.com/item?id=43049817) - [Show HN: A Valentine's Day experience for people who aren't celebrating](https://www.justanotherday.lol/)
