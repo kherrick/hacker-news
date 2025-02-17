@@ -8,6 +8,7 @@
 * [2025-02-14, 23:36:17](https://news.ycombinator.com/item?id=43054258) - [Mathics3 Live Shell](https://mathics3.github.io/Mathics3-live/)
 * [2025-02-14, 23:34:41](https://news.ycombinator.com/item?id=43054244) - [Show HN: VimLM – A Local, Offline Coding Assistant for Vim](https://github.com/JosefAlbers/VimLM)
 * [2025-02-14, 23:10:36](https://news.ycombinator.com/item?id=43054069) - [Eric Meyer – A Decade Later, a Decade Lost](https://meyerweb.com/eric/thoughts/2024/06/07/a-decade-later-a-decade-lost/)
+* [2025-02-14, 22:45:18](https://news.ycombinator.com/item?id=43053909) - [Barcoding brains](https://www.asimov.press/p/barcoding-brains)
 * [2025-02-14, 22:45:02](https://news.ycombinator.com/item?id=43053908) - [If you ever stacked cups in gym class, blame my dad](https://defector.com/if-you-ever-stacked-cups-in-gym-class-blame-my-dad)
 * [2025-02-14, 22:36:31](https://news.ycombinator.com/item?id=43053844) - [We Were Wrong About GPUs](https://fly.io/blog/wrong-about-gpu/)
 * [2025-02-14, 22:08:43](https://news.ycombinator.com/item?id=43053656) - [Terabytes Encoded Within a Millimeter-Sized Crystal](https://bioengineer.org/immense-data-storage-envisioning-terabytes-encoded-within-a-millimeter-sized-crystal/)
