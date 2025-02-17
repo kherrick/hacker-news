@@ -13,6 +13,7 @@
 * [2025-02-16, 21:36:21](https://news.ycombinator.com/item?id=43071934) - [Show HN: Air Traffic Control Radio and Chill Music for Focus](https://www.chillyatc.com/)
 * [2025-02-16, 21:14:22](https://news.ycombinator.com/item?id=43071775) - [Physics Informed Neural Networks](https://nchagnet.pages.dev/blog/physics-informed-neural-networks/)
 * [2025-02-16, 20:45:30](https://news.ycombinator.com/item?id=43071506) - [Fingerprinting: Critics say Google rules put profits over privacy](https://www.bbc.com/news/articles/cm21g0052dno)
+* [2025-02-16, 20:18:45](https://news.ycombinator.com/item?id=43071286) - [When Not to Obey Orders (2019)](https://warontherocks.com/2019/07/when-not-to-obey-orders/)
 * [2025-02-16, 20:10:08](https://news.ycombinator.com/item?id=43071213) - [Big Tech Has Disrupted the Social Contract](https://basedfob.substack.com/p/big-tech-has-disrupted-the-social)
 * [2025-02-16, 20:08:07](https://news.ycombinator.com/item?id=43071193) - [Why is there a screen that says \"It is now safe to turn off your computer\"? (2016)](https://devblogs.microsoft.com/oldnewthing/20160419-00/?p=93315)
 * [2025-02-16, 20:01:18](https://news.ycombinator.com/item?id=43071147) - [Netflix says its brief Apple TV app integration was a mistake](https://www.theverge.com/news/613307/netflix-apple-tv-app-support-mistake)
