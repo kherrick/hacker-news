@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-17, 18:10:35](https://news.ycombinator.com/item?id=43081713) - [Debugging an Undebuggable App](https://bryce.co/undebuggable/)
 * [2025-02-17, 16:54:52](https://news.ycombinator.com/item?id=43080895) - [Launch HN: Roark (YC W25) – Taking the pain out of voice AI testing](https://news.ycombinator.com/item?id=43080895)
 * [2025-02-17, 16:51:52](https://news.ycombinator.com/item?id=43080858) - [kartoffels v0.7: Cellular Automata, Statistics, 32-bit RISC-V](https://pwy.io/posts/kartoffels-v0.7/)
 * [2025-02-17, 16:23:30](https://news.ycombinator.com/item?id=43080535) - [Hk, a new Git hook manager from jdx](https://hk.jdx.dev/about.html)
+* [2025-02-17, 16:23:07](https://news.ycombinator.com/item?id=43080531) - [Watch R1 \"think\" with animated chains of thought](https://github.com/dhealy05/frames_of_mind)
 * [2025-02-17, 16:09:47](https://news.ycombinator.com/item?id=43080378) - [Open Source projects could sell SBoM fragments](https://www.thomas-huehn.com/open-source-projects-could-sell-sbom-fragments/)
 * [2025-02-17, 15:15:14](https://news.ycombinator.com/item?id=43079791) - [Now you can run Ruby on Rails in the browser using WebAssembly](https://web.dev/blog/ruby-on-rails-on-webassembly)
 * [2025-02-17, 13:56:30](https://news.ycombinator.com/item?id=43079046) - [Mistral Saba](https://mistral.ai/en/news/mistral-saba)
@@ -20,16 +22,14 @@
 * [2025-02-16, 23:56:16](https://news.ycombinator.com/item?id=43073149) - [Does or did COBOL default to 1875-05-20 for corrupt or missing dates?](https://retrocomputing.stackexchange.com/questions/31288/does-or-did-cobol-default-to-1875-05-20-for-corrupt-or-missing-dates)
 * [2025-02-16, 22:22:40](https://news.ycombinator.com/item?id=43072338) - [Uchū – Color palette for internet lovers](https://uchu.style)
 * [2025-02-16, 21:42:03](https://news.ycombinator.com/item?id=43071983) - [I helped fix sleep-wake hangs on Linux with AMD GPUs](https://nyanpasu64.gitlab.io/blog/amdgpu-sleep-wake-hang/)
-* [2025-02-16, 21:14:22](https://news.ycombinator.com/item?id=43071775) - [Physics Informed Neural Networks](https://nchagnet.pages.dev/blog/physics-informed-neural-networks/)
 * [2025-02-16, 20:18:45](https://news.ycombinator.com/item?id=43071286) - [When Not to Obey Orders (2019)](https://warontherocks.com/2019/07/when-not-to-obey-orders/)
 * [2025-02-16, 10:16:49](https://news.ycombinator.com/item?id=43066953) - [“A calculator app? Anyone could make that”](https://chadnauseam.com/coding/random/calculator-app)
+* [2025-02-16, 08:02:30](https://news.ycombinator.com/item?id=43066247) - [DSLs for Safe iOS/WatchOS Communication](https://defn.io/2025/02/16/type-safe-watchos-communication/)
 * [2025-02-14, 21:43:50](https://news.ycombinator.com/item?id=43053403) - [Reflections on AGI from 1879](https://www.learningfromexamples.com/p/reflections-on-superintelligence)
 * [2025-02-14, 17:01:43](https://news.ycombinator.com/item?id=43050447) - [Extreme supersonic winds measured on a planet outside our solar system](https://phys.org/news/2025-01-extreme-supersonic-planet-solar.html)
 * [2025-02-14, 13:30:24](https://news.ycombinator.com/item?id=43048073) - [How do modern compilers choose which variables to put in registers?](https://langdev.stackexchange.com/questions/4325/how-do-modern-compilers-choose-which-variables-to-put-in-registers)
 * [2025-02-14, 11:36:39](https://news.ycombinator.com/item?id=43047341) - [You're not a senior engineer until you've worked on a legacy project](https://www.infobip.com/developers/blog/seniors-working-on-a-legacy-project)
 * [2025-02-13, 19:56:30](https://news.ycombinator.com/item?id=43040507) - [Umami is a simple, fast, privacy-focused alternative to Google Analytics](https://github.com/umami-software/umami)
-* [2025-02-13, 19:25:05](https://news.ycombinator.com/item?id=43040129) - [Gold Is Worth More in New York](https://www.bloomberg.com/opinion/articles/2025-02-13/gold-is-worth-more-in-new-york)
-* [2025-02-13, 15:04:31](https://news.ycombinator.com/item?id=43036560) - [The lottery of the snakebite antivenom industry](https://www.theguardian.com/global-development/2025/feb/13/its-a-cowboy-show-out-there-the-deadly-lottery-of-the-snakebite-antivenom-industry)
 
 ## [Archives](archives/index.md)
 

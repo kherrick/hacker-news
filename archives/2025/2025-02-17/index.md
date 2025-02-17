@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-02-17](index.md)
 
+* [2025-02-17, 18:10:35](https://news.ycombinator.com/item?id=43081713) - [Debugging an Undebuggable App](https://bryce.co/undebuggable/)
 * [2025-02-17, 16:54:52](https://news.ycombinator.com/item?id=43080895) - [Launch HN: Roark (YC W25) – Taking the Pain Out of Voice AI Testing](https://news.ycombinator.com/item?id=43080895)
 * [2025-02-17, 16:51:52](https://news.ycombinator.com/item?id=43080858) - [kartoffels v0.7: Cellular Automata, Statistics, 32-bit RISC-V](https://pwy.io/posts/kartoffels-v0.7/)
 * [2025-02-17, 16:23:30](https://news.ycombinator.com/item?id=43080535) - [Hk, a new Git hook manager from jdx](https://hk.jdx.dev/about.html)
+* [2025-02-17, 16:23:07](https://news.ycombinator.com/item?id=43080531) - [Watch R1 \"think\" with animated chains of thought](https://github.com/dhealy05/frames_of_mind)
 * [2025-02-17, 16:09:47](https://news.ycombinator.com/item?id=43080378) - [Open Source projects could sell SBoM fragments](https://www.thomas-huehn.com/open-source-projects-could-sell-sbom-fragments/)
 * [2025-02-17, 15:15:14](https://news.ycombinator.com/item?id=43079791) - [Now you can run Ruby on Rails in the browser using WebAssembly](https://web.dev/blog/ruby-on-rails-on-webassembly)
 * [2025-02-17, 14:23:21](https://news.ycombinator.com/item?id=43079280) - [GNU/Darwin (2000)](http://www.gnu-darwin.org/)
