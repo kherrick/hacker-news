@@ -2,6 +2,7 @@
 
 * [2025-02-17, 05:02:35](https://news.ycombinator.com/item?id=43075347) - [Word embeddings – Part 3: The secret ingredients of Word2Vec](https://www.ruder.io/secret-word2vec/)
 * [2025-02-17, 04:23:10](https://news.ycombinator.com/item?id=43075113) - [My Time at MIT](http://muratbuffalo.blogspot.com/2025/02/my-time-at-mit.html)
+* [2025-02-17, 03:37:36](https://news.ycombinator.com/item?id=43074834) - [Comparison of File Systems for an SSD](https://www.linux.org/threads/comparison-of-file-systems-for-an-ssd.28780/)
 * [2025-02-17, 02:29:51](https://news.ycombinator.com/item?id=43074347) - [Ugandan runner Jacob Kiplimo completes first ever sub-57 minute half marathon](https://www.cnn.com/2025/02/16/sport/jacob-kiplimo-smashes-half-marathon-record-spt-intl/index.html)
 * [2025-02-17, 01:45:28](https://news.ycombinator.com/item?id=43073992) - [Did the Windows 95 setup team forget that MS-DOS can do graphics?](https://devblogs.microsoft.com/oldnewthing/20250211-00/?p=110862)
 * [2025-02-17, 01:42:12](https://news.ycombinator.com/item?id=43073969) - [All Kindles can now be jailbroken](https://kindlemodding.org/jailbreaking/WinterBreak/)
@@ -17,7 +18,6 @@
 * [2025-02-16, 20:18:45](https://news.ycombinator.com/item?id=43071286) - [When Not to Obey Orders (2019)](https://warontherocks.com/2019/07/when-not-to-obey-orders/)
 * [2025-02-16, 17:04:09](https://news.ycombinator.com/item?id=43069533) - [IPv6 Is Hard](https://techlog.jenslink.net/posts/ipv6-is-hard/)
 * [2025-02-16, 17:01:34](https://news.ycombinator.com/item?id=43069514) - [Half-Life 2 and Dishonored art lead Viktor Antonov has died](https://www.eurogamer.net/half-life-2-and-dishonored-art-lead-viktor-antonov-dies-aged-just-52)
-* [2025-02-16, 16:45:26](https://news.ycombinator.com/item?id=43069399) - [United States Power Outage Map](https://poweroutage.us/)
 * [2025-02-16, 15:08:31](https://news.ycombinator.com/item?id=43068585) - [Flea-Scope: $18 Source Available USB Oscilloscope, Logic Analyzer and More [pdf]](https://rtestardi.github.io/usbte/flea-scope.pdf)
 * [2025-02-16, 10:16:49](https://news.ycombinator.com/item?id=43066953) - [“A calculator app? Anyone could make that”](https://chadnauseam.com/coding/random/calculator-app)
 * [2025-02-14, 17:01:43](https://news.ycombinator.com/item?id=43050447) - [Extreme supersonic winds measured on a planet outside our solar system](https://phys.org/news/2025-01-extreme-supersonic-planet-solar.html)
