@@ -6,8 +6,10 @@
 
 * [2025-02-17, 05:59:50](https://news.ycombinator.com/item?id=43075665) - [BMW's next-gen EVs depend on an unassuming black box called 'Heart of Joy'](https://www.theverge.com/cars/613962/bme-heart-of-joy-ecu-ev-powertrain-drive-dynamics)
 * [2025-02-17, 05:02:35](https://news.ycombinator.com/item?id=43075347) - [Word embeddings – Part 3: The secret ingredients of Word2Vec](https://www.ruder.io/secret-word2vec/)
+* [2025-02-17, 04:23:10](https://news.ycombinator.com/item?id=43075113) - [My Time at MIT](http://muratbuffalo.blogspot.com/2025/02/my-time-at-mit.html)
 * [2025-02-17, 03:43:52](https://news.ycombinator.com/item?id=43074892) - [A list of online services to regain control over your privacy online](https://www.linux.org/threads/a-list-of-online-services-to-regain-control-over-your-privacy-online.55222/)
 * [2025-02-17, 03:39:54](https://news.ycombinator.com/item?id=43074852) - [New Junior Developers Can’t Actually Code](https://nmn.gl/blog/ai-and-learning)
+* [2025-02-17, 03:37:36](https://news.ycombinator.com/item?id=43074834) - [Comparison of File Systems for an SSD](https://www.linux.org/threads/comparison-of-file-systems-for-an-ssd.28780/)
 * [2025-02-17, 02:29:51](https://news.ycombinator.com/item?id=43074347) - [Ugandan runner Jacob Kiplimo completes first ever sub-57 minute half marathon](https://www.cnn.com/2025/02/16/sport/jacob-kiplimo-smashes-half-marathon-record-spt-intl/index.html)
 * [2025-02-17, 02:23:22](https://news.ycombinator.com/item?id=43074291) - [Javier Milei risks impeachment after endorsing $107M Libra rug pull](https://cointelegraph.com/news/javier-milei-risks-impeachment-107-m-libra-rug-pull)
 * [2025-02-17, 02:22:20](https://news.ycombinator.com/item?id=43074281) - [PASS on Firing of Probationary Employees at FAA](https://www.passnational.org/index.php/news/873-pass-statement-on-firing-of-probationary-employees-at-faa)

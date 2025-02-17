@@ -70,6 +70,7 @@
 * [2025-02-13, 10:02:39](https://news.ycombinator.com/item?id=43034440) - [Reassessing Wayland](https://dudemanguy.github.io/blog/posts/2025-02-03-wayland-xorg-2/wayland-xorg-2.html)
 * [2025-02-13, 09:56:11](https://news.ycombinator.com/item?id=43034405) - [New DOGE site update breaks down government jobs by salary/age/headcount](https://doge.gov/workforce)
 * [2025-02-13, 09:44:25](https://news.ycombinator.com/item?id=43034329) - [Self hosted FLOSS fitness/workout tracker](https://github.com/wger-project/wger)
+* [2025-02-13, 09:16:20](https://news.ycombinator.com/item?id=43034179) - [Hans Bethe Stumbled Upon Perfect Quantum Theories](https://www.quantamagazine.org/how-hans-bethe-stumbled-upon-perfect-quantum-theories-20250212/)
 * [2025-02-13, 08:38:13](https://news.ycombinator.com/item?id=43033971) - [Learning fast and accurate absolute pitch judgment in adulthood](https://link.springer.com/article/10.3758/s13423-024-02620-2)
 * [2025-02-13, 07:18:04](https://news.ycombinator.com/item?id=43033493) - [Trump's firing of the U.S. government archivist is far worse than it might seem](https://www.fastcompany.com/91277620/trump-firing-national-archivist-colleen-shogan)
 * [2025-02-13, 07:12:47](https://news.ycombinator.com/item?id=43033463) - [Why young parents should focus on building trust with their kids](https://desunit.com/blog/marshmallow-test-and-parenting/)
