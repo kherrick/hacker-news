@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-18, 06:25:47](https://news.ycombinator.com/item?id=43086651) - [Appeasement at Munich](https://snyder.substack.com/p/appeasement-at-munich)
 * [2025-02-18, 05:53:55](https://news.ycombinator.com/item?id=43086479) - [Show HN: Live-updating version of the 'What a week, huh?' meme](https://tintin.dlazaro.ca/)
 * [2025-02-18, 04:51:01](https://news.ycombinator.com/item?id=43086170) - [Go 1.24](https://tip.golang.org/doc/go1.24)
 * [2025-02-18, 04:04:54](https://news.ycombinator.com/item?id=43085957) - [Grok3 Launch [video]](https://x.com/xai/status/1891699715298730482)
+* [2025-02-18, 03:47:00](https://news.ycombinator.com/item?id=43085885) - [The Generative AI Con](https://www.wheresyoured.at/longcon/)
 * [2025-02-18, 03:45:28](https://news.ycombinator.com/item?id=43085876) - [My washing machine refreshed my thinking on software estimation](https://www.cosive.com/blog/my-washing-machine-refreshed-my-thinking-on-software-effort-estimation)
 * [2025-02-18, 03:07:45](https://news.ycombinator.com/item?id=43085687) - [Sony FX-300 Jackal: A technological marvel of the late 70s (2021)](https://swling.com/blog/2021/03/the-sony-fx-300-jackal-a-holy-grail-technological-marvel-of-the-late-70s/)
 * [2025-02-18, 02:34:37](https://news.ycombinator.com/item?id=43085492) - [A web platform for using YouTube as a drum sequencer](https://youtubesequencer.com/)
