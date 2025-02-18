@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-18, 02:34:37](https://news.ycombinator.com/item?id=43085492) - [A web platform for using YouTube as a drum sequencer](https://youtubesequencer.com/)
-* [2025-02-18, 01:22:37](https://news.ycombinator.com/item?id=43085082) - [[Satire] Thiel Backed 'GigSlave' Goes Public with $84B Valuation [video]](https://www.youtube.com/watch?v=VwlBwyJVEfw)
 * [2025-02-17, 23:18:52](https://news.ycombinator.com/item?id=43084200) - [Dedekind's Subtle Knife](https://mathenchant.wordpress.com/2025/02/17/dedekinds-subtle-knife/)
 * [2025-02-17, 23:11:33](https://news.ycombinator.com/item?id=43084145) - [On David Lynch's Revenge of the Jedi](https://www.benningtonreview.org/adam-golaski)
 * [2025-02-17, 22:39:57](https://news.ycombinator.com/item?id=43083976) - [Police arrest apparent leader of cultlike 'Zizian' group linked to killings](https://www.pressdemocrat.com/article/trending/police-arrest-apparent-leader-of-cultlike-zizian-group-linked-to-multiple/)
@@ -23,6 +22,7 @@
 * [2025-02-17, 00:26:04](https://news.ycombinator.com/item?id=43073377) - [Making Markets on Kalshi](https://rlafuente.com/post?post=2025-2-16-marketmaking-on-kalshi)
 * [2025-02-16, 21:42:03](https://news.ycombinator.com/item?id=43071983) - [I helped fix sleep-wake hangs on Linux with AMD GPUs](https://nyanpasu64.gitlab.io/blog/amdgpu-sleep-wake-hang/)
 * [2025-02-16, 12:54:57](https://news.ycombinator.com/item?id=43067627) - [Large Language Models Show Concerning Tendency to Flatter Users](https://xyzlabs.substack.com/p/large-language-models-show-concerning)
+* [2025-02-16, 08:33:47](https://news.ycombinator.com/item?id=43066394) - [670nm red light exposure improved aged mitochondrial function, colour vision](https://www.nature.com/articles/s41598-021-02311-1)
 * [2025-02-15, 02:10:04](https://news.ycombinator.com/item?id=43055191) - [The San Francisco stadium that fog killed](https://www.sfgate.com/sports/article/sf-thought-built-stadium-future-fog-ewing-field-20051971.php)
 * [2025-02-14, 21:43:50](https://news.ycombinator.com/item?id=43053403) - [George Eliot's reflections on AGI from 1879](https://www.learningfromexamples.com/p/reflections-on-superintelligence)
 * [2025-02-14, 20:16:10](https://news.ycombinator.com/item?id=43052635) - [Visualize Ownership and Lifetimes in Rust](https://github.com/cordx56/rustowl)

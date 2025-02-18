@@ -48,6 +48,7 @@
 * [2025-02-16, 10:16:49](https://news.ycombinator.com/item?id=43066953) - [\"A calculator app? Anyone could make that.\"](https://chadnauseam.com/coding/random/calculator-app)
 * [2025-02-16, 09:55:58](https://news.ycombinator.com/item?id=43066842) - [Langfuse (YC W23) Is Hiring Product Engineers in Berlin](https://langfuse.com/careers)
 * [2025-02-16, 09:31:02](https://news.ycombinator.com/item?id=43066720) - [50 Years of Travel Tips](https://kk.org/thetechnium/50-years-of-travel-tips/)
+* [2025-02-16, 08:33:47](https://news.ycombinator.com/item?id=43066394) - [670nm red light exposure improved aged mitochondrial function, colour vision](https://www.nature.com/articles/s41598-021-02311-1)
 * [2025-02-16, 08:02:30](https://news.ycombinator.com/item?id=43066247) - [DSLs for Safe iOS/WatchOS Communication](https://defn.io/2025/02/16/type-safe-watchos-communication/)
 * [2025-02-16, 07:45:49](https://news.ycombinator.com/item?id=43066182) - [US goverment seeks to rehire recently fired nuclear workers](https://www.bbc.com/news/articles/c4g3nrx1dq5o)
 * [2025-02-16, 07:09:08](https://news.ycombinator.com/item?id=43066048) - [Half of CDC Epidemic Intelligence Service Laid Off](https://newrepublic.com/post/191579/robert-f-kennedy-jr-cdc-infectious-disease-research)
