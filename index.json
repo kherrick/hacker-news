@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-18, 21:09:19",
+      "https://news.ycombinator.com/item?id=43095157"
+    ],
+    [
+      "A year of uv: pros, cons, and should you migrate",
+      "https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should"
+    ]
+  ],
+  [
+    [
+      "2025-02-18, 21:01:02",
+      "https://news.ycombinator.com/item?id=43095070"
+    ],
+    [
+      "Kafka at the low end: how bad can it get?",
+      "https://broot.ca/kafka-at-the-low-end.html"
+    ]
+  ],
+  [
+    [
       "2025-02-18, 21:00:58",
       "https://news.ycombinator.com/item?id=43095067"
     ],
@@ -15,18 +35,8 @@
       "https://news.ycombinator.com/item?id=43094651"
     ],
     [
-      "DeepSeek 'shared user data' with TikTok owner ByteDance",
+      "South Korean regulator accuses DeepSeek of sharing user data with ByteDance",
       "https://www.bbc.com/news/articles/c4gex0x87g4o"
-    ]
-  ],
-  [
-    [
-      "2025-02-18, 20:15:24",
-      "https://news.ycombinator.com/item?id=43094467"
-    ],
-    [
-      "AWS paywalling select knowledge base articles, requiring Premium Support plan",
-      "https://repost.aws/knowledge-center/eks-api-server-unauthorized-error"
     ]
   ],
   [
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2025-02-18, 18:07:36",
-      "https://news.ycombinator.com/item?id=43093044"
-    ],
-    [
-      "OpenAI Announces New SWE-Lancer Benchmark",
-      "https://openai.com/index/swe-lancer/"
-    ]
-  ],
-  [
-    [
       "2025-02-18, 17:33:52",
       "https://news.ycombinator.com/item?id=43092579"
     ],
@@ -137,6 +137,16 @@
     [
       "One year after switching from Java to Go",
       "https://glasskube.dev/blog/from-java-to-go/"
+    ]
+  ],
+  [
+    [
+      "2025-02-18, 16:29:46",
+      "https://news.ycombinator.com/item?id=43091596"
+    ],
+    [
+      "Svelte 5 is not JavaScript",
+      "https://hodlbod.npub.pro/post/1739830562159/"
     ]
   ],
   [
@@ -201,12 +211,12 @@
   ],
   [
     [
-      "2025-02-18, 05:53:55",
-      "https://news.ycombinator.com/item?id=43086479"
+      "2025-02-18, 05:25:05",
+      "https://news.ycombinator.com/item?id=43086347"
     ],
     [
-      "Show HN: Live-updating version of the 'What a week, huh?' meme",
-      "https://tintin.dlazaro.ca/"
+      "SWE-Lancer: a benchmark of freelance software engineering tasks from Upwork",
+      "https://arxiv.org/abs/2502.12115"
     ]
   ],
   [
@@ -265,7 +275,7 @@
       "https://news.ycombinator.com/item?id=43073527"
     ],
     [
-      "A GPU-Accelerated Binary Vector Index",
+      "Show HN: A GPU-accelerated binary vector index",
       "https://rlafuente.com/post?post=2024-6-12-a-binary-vector-store"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "Kleene as a Container Management Platform for FreeBSD",
       "https://gyptazy.com/howto-kleene-as-a-container-management-platform-for-freebsd/"
-    ]
-  ],
-  [
-    [
-      "2025-02-15, 10:23:29",
-      "https://news.ycombinator.com/item?id=43057443"
-    ],
-    [
-      "Nature Loves Patterns",
-      "https://fayziev.com/blog/nature-loves-patterns"
     ]
   ],
   [
