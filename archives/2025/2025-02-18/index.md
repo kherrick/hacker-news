@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-18](index.md)
 
+* [2025-02-18, 18:31:36](https://news.ycombinator.com/item?id=43093328) - [Pihole v6](https://pi-hole.net/blog/2025/02/18/introducing-pi-hole-v6/)
+* [2025-02-18, 18:20:10](https://news.ycombinator.com/item?id=43093197) - [AMD's game-changing Strix Halo, formerly Ryzen AI Max, poses for new die shots](https://www.tomshardware.com/pc-components/gpus/amds-game-changing-strix-halo-apu-formerly-ryzen-ai-max-poses-for-new-die-shots)
 * [2025-02-18, 18:16:22](https://news.ycombinator.com/item?id=43093155) - [Among top researchers 10% publish at unrealistic levels, analysis finds](https://www.chemistryworld.com/news/among-worlds-top-researchers-10-publish-at-unrealistic-levels-analysis-finds/4020962.article)
 * [2025-02-18, 17:30:39](https://news.ycombinator.com/item?id=43092522) - [Launch HN: Promptless (YC W25) – Automatic updates for customer-facing docs](https://news.ycombinator.com/item?id=43092522)
 * [2025-02-18, 17:21:42](https://news.ycombinator.com/item?id=43092389) - [Web awesome: \"Shoelace 3.0\" open source web components](https://backers.webawesome.com)
