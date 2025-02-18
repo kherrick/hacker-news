@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2025-02-18, 00:33:04",
+      "https://news.ycombinator.com/item?id=43084682"
+    ],
+    [
+      "Robocode",
+      "https://robocode.sourceforge.io/"
+    ]
+  ],
+  [
+    [
       "2025-02-17, 23:43:22",
       "https://news.ycombinator.com/item?id=43084350"
     ],
@@ -247,16 +257,6 @@
     [
       "Why I'm writing a Scheme implementation in 2025: Async Rust",
       "https://maplant.com/2025-02-17-Why-I%27m-Writing-a-Scheme-Implementation-in-2025-(The-Answer-is-Async-Rust).html"
-    ]
-  ],
-  [
-    [
-      "2025-02-17, 15:29:48",
-      "https://news.ycombinator.com/item?id=43079952"
-    ],
-    [
-      "(Ab)using general search algorithms on dynamic optimization problems (2023)",
-      "https://dubovik.eu/blog/search-algorithms"
     ]
   ],
   [
