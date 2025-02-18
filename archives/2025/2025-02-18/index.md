@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-18](index.md)
 
+* [2025-02-18, 04:04:54](https://news.ycombinator.com/item?id=43085957) - [Grok3 Launch](https://twitter.com/xai/status/1891699715298730482)
+* [2025-02-18, 03:47:00](https://news.ycombinator.com/item?id=43085885) - [The Generative AI Con](https://www.wheresyoured.at/longcon/)
 * [2025-02-18, 03:14:54](https://news.ycombinator.com/item?id=43085718) - [Gravel Map](https://www.gravelmap.com/map#_=10/45.5424/-122.6544)
 * [2025-02-18, 03:14:13](https://news.ycombinator.com/item?id=43085712) - [X is reportedly blocking links to secure Signal contact pages](https://arstechnica.com/gadgets/2025/02/x-is-reportedly-blocking-links-to-secure-signal-contact-pages/)
 * [2025-02-18, 02:58:57](https://news.ycombinator.com/item?id=43085637) - [WireGuard iOS Not Available in Germany](https://old.reddit.com/r/WireGuard/comments/1irsbgi/wireguard_ios_not_available_in_germany/)
