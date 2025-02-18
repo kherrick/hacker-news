@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=43093328"
     ],
     [
-      "Pihole v6",
+      "Pi-Hole v6",
       "https://pi-hole.net/blog/2025/02/18/introducing-pi-hole-v6/"
     ]
   ],
@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-02-18, 17:23:42",
+      "https://news.ycombinator.com/item?id=43092421"
+    ],
+    [
+      "A simple geometry question that fools almost everyone",
+      "https://www.theguardian.com/science/2025/feb/17/can-you-solve-it-the-simple-geometry-question-that-fools-almost-everyone"
+    ]
+  ],
+  [
+    [
       "2025-02-18, 17:21:42",
       "https://news.ycombinator.com/item?id=43092389"
     ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=43092386"
     ],
     [
-      "Try Thinking and Learning Without Working Memory (2008)",
+      "Try thinking and learning without working memory (2008)",
       "https://sharpbrains.com/blog/2008/05/25/try-thinking-and-learning-without-working-memory/"
     ]
   ],
@@ -71,11 +81,21 @@
   ],
   [
     [
+      "2025-02-18, 16:11:38",
+      "https://news.ycombinator.com/item?id=43091217"
+    ],
+    [
+      "Are electric cars that much cheaper to operate?",
+      "https://www.pavlinbg.com/posts/are-electric-cars-really-that-much-cheaper-to-operate-than-ice"
+    ]
+  ],
+  [
+    [
       "2025-02-18, 16:08:20",
       "https://news.ycombinator.com/item?id=43091159"
     ],
     [
-      "Catalytic Computing Taps the Full Power of a Full Hard Drive",
+      "Catalytic computing taps the full power of a full hard drive",
       "https://www.quantamagazine.org/catalytic-computing-taps-the-full-power-of-a-full-hard-drive-20250218/"
     ]
   ],
@@ -85,8 +105,8 @@
       "https://news.ycombinator.com/item?id=43091128"
     ],
     [
-      "Broadcom, TSMC Weigh Possible Intel Deals That Would Split Storied Chip Maker",
-      "https://www.wsj.com/tech/broadcom-tsmc-eye-possible-intel-deals-that-would-split-storied-chip-maker-966b143b"
+      "Broadcom, TSMC eye possible Intel deals to split storied chipmaker",
+      "https://www.reuters.com/markets/deals/broadcom-tsmc-eye-possible-intel-deals-that-would-split-storied-chipmaker-wsj-2025-02-16/"
     ]
   ],
   [
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=43090214"
     ],
     [
-      "Show HN: Scripton – Python IDE with Built-In Realtime Visualizations",
+      "Show HN: Scripton – Python IDE with built-in realtime visualizations",
       "https://scripton.dev"
     ]
   ],
@@ -115,18 +135,8 @@
       "https://news.ycombinator.com/item?id=43089150"
     ],
     [
-      "The Ideal Candidate Will Be Punched In the Stomach",
+      "The ideal candidate will be punched in the stomach",
       "https://www.scottsmitelli.com/articles/ideal-candidate/"
-    ]
-  ],
-  [
-    [
-      "2025-02-18, 12:35:34",
-      "https://news.ycombinator.com/item?id=43088785"
-    ],
-    [
-      "Reviewing the cryptography used by Signal",
-      "https://soatok.blog/2025/02/18/reviewing-the-cryptography-used-by-signal/"
     ]
   ],
   [
@@ -137,6 +147,16 @@
     [
       "Jiga (YC W21) Is Hiring Mongo/React/Node Engineers",
       "https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-full-stack-engineer"
+    ]
+  ],
+  [
+    [
+      "2025-02-18, 08:48:16",
+      "https://news.ycombinator.com/item?id=43087482"
+    ],
+    [
+      "Making my debug build run 100x faster so that it is finally usable",
+      "https://gaultier.github.io/blog/making_my_debug_build_run_100_times_faster.html"
     ]
   ],
   [
@@ -261,21 +281,11 @@
   ],
   [
     [
-      "2025-02-15, 19:36:31",
-      "https://news.ycombinator.com/item?id=43061521"
-    ],
-    [
-      "New technique generates topological structures with gravity water waves",
-      "https://phys.org/news/2025-02-tweezers-technique-generates-topological-gravity.html"
-    ]
-  ],
-  [
-    [
       "2025-02-15, 16:32:17",
       "https://news.ycombinator.com/item?id=43059779"
     ],
     [
-      "In Norway, Lake-Harvested Cocktail Ice Is Making a Quiet Comeback",
+      "Lake-harvested cocktail ice is an old business making a comeback in Norway",
       "https://vinepair.com/articles/lake-harvested-cocktail-ice-returns/"
     ]
   ],
@@ -285,18 +295,8 @@
       "https://news.ycombinator.com/item?id=43053499"
     ],
     [
-      "Saying Goodbye to FFmpegKit",
+      "Saying goodbye to FFmpegKit",
       "https://tanersener.medium.com/saying-goodbye-to-ffmpegkit-33ae939767e1"
-    ]
-  ],
-  [
-    [
-      "2025-02-14, 20:16:10",
-      "https://news.ycombinator.com/item?id=43052635"
-    ],
-    [
-      "Visualize Ownership and Lifetimes in Rust",
-      "https://github.com/cordx56/rustowl"
     ]
   ]
 ]
