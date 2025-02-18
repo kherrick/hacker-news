@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-17](index.md)
 
+* [2025-02-17, 23:44:28](https://news.ycombinator.com/item?id=43084355) - [Why can't we remember our lives as babies or toddlers?](https://www.theguardian.com/science/2025/feb/16/why-cant-we-remember-our-lives-as-babies-or-toddlers)
 * [2025-02-17, 23:11:33](https://news.ycombinator.com/item?id=43084145) - [On David Lynch's Revenge of the Jedi](https://www.benningtonreview.org/adam-golaski)
 * [2025-02-17, 22:39:57](https://news.ycombinator.com/item?id=43083976) - [Police arrest apparent leader of cultlike 'Zizian' group linked to killings](https://www.pressdemocrat.com/article/trending/police-arrest-apparent-leader-of-cultlike-zizian-group-linked-to-multiple/)
 * [2025-02-17, 22:26:38](https://news.ycombinator.com/item?id=43083886) - [Argentina president faces impeachment calls over crypto crash](https://www.bbc.com/news/articles/cp9x9j89evxo)
@@ -16,6 +17,7 @@
 * [2025-02-17, 21:04:33](https://news.ycombinator.com/item?id=43083280) - [Project 2025 Observer](https://www.project2025.observer/)
 * [2025-02-17, 21:00:29](https://news.ycombinator.com/item?id=43083255) - [TestRigor (YC S21) Is Hiring VP of Engineering](https://www.ycombinator.com/companies/testrigor/jobs/AuTkpC9-vp-of-engineering)
 * [2025-02-17, 20:48:37](https://news.ycombinator.com/item?id=43083151) - [Privacy Is Not Dead: Beware the All-or-Nothing Mindset](https://www.privacyguides.org/articles/2025/02/17/privacy-is-not-dead/)
+* [2025-02-17, 20:30:04](https://news.ycombinator.com/item?id=43083012) - [Plane crashes, overturns during landing at Toronto airport](https://www.cbc.ca/news/canada/toronto/toronto-pearson-overturned-airplane-1.7461227)
 * [2025-02-17, 19:57:16](https://news.ycombinator.com/item?id=43082739) - [NES86 – IBM PC Emulator for the NES](https://github.com/decrazyo/nes86)
 * [2025-02-17, 19:53:26](https://news.ycombinator.com/item?id=43082700) - [Are noise-cancelling headphones to blame for young people's hearing problems?](https://www.bbc.com/news/articles/cgkjvr7x5x6o)
 * [2025-02-17, 19:12:14](https://news.ycombinator.com/item?id=43082287) - [Who carved South America's mysterious ancient tunnels? [pdf]](https://www.clp.unesp.br/Modulos/Noticias/401/paleoburrows-nature-2025.pdf)
