@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-18](index.md)
 
+* [2025-02-18, 06:25:47](https://news.ycombinator.com/item?id=43086651) - [Appeasement at Munich](https://snyder.substack.com/p/appeasement-at-munich)
 * [2025-02-18, 06:01:02](https://news.ycombinator.com/item?id=43086517) - [I was given early access to Grok 3 earlier today](https://twitter.com/karpathy/status/1891720635363254772)
 * [2025-02-18, 05:53:55](https://news.ycombinator.com/item?id=43086479) - [Show HN: Live-updating version of the 'What a week, huh?' meme](https://tintin.dlazaro.ca/)
 * [2025-02-18, 05:50:11](https://news.ycombinator.com/item?id=43086462) - [PG&E reports profit of more than $2B for 2024](https://www.mercurynews.com/2025/02/13/pge-profit-electric-gas-utility-fire-economy-bay-area-oakland-san-jose/)
