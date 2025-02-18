@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-18](index.md)
 
+* [2025-02-18, 18:16:22](https://news.ycombinator.com/item?id=43093155) - [Among top researchers 10% publish at unrealistic levels, analysis finds](https://www.chemistryworld.com/news/among-worlds-top-researchers-10-publish-at-unrealistic-levels-analysis-finds/4020962.article)
 * [2025-02-18, 17:30:39](https://news.ycombinator.com/item?id=43092522) - [Launch HN: Promptless (YC W25) – Automatic updates for customer-facing docs](https://news.ycombinator.com/item?id=43092522)
 * [2025-02-18, 17:21:42](https://news.ycombinator.com/item?id=43092389) - [Web awesome: \"Shoelace 3.0\" open source web components](https://backers.webawesome.com)
 * [2025-02-18, 17:21:31](https://news.ycombinator.com/item?id=43092386) - [Try Thinking and Learning Without Working Memory (2008)](https://sharpbrains.com/blog/2008/05/25/try-thinking-and-learning-without-working-memory/)
