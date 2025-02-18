@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-18](index.md)
 
+* [2025-02-18, 18:55:31](https://news.ycombinator.com/item?id=43093610) - [Tensor Evolution: A Framework for Fast Evaluation Using Recurrences](https://arxiv.org/abs/2502.03402)
 * [2025-02-18, 18:31:36](https://news.ycombinator.com/item?id=43093328) - [Pihole v6](https://pi-hole.net/blog/2025/02/18/introducing-pi-hole-v6/)
 * [2025-02-18, 18:20:10](https://news.ycombinator.com/item?id=43093197) - [AMD's game-changing Strix Halo, formerly Ryzen AI Max, poses for new die shots](https://www.tomshardware.com/pc-components/gpus/amds-game-changing-strix-halo-apu-formerly-ryzen-ai-max-poses-for-new-die-shots)
 * [2025-02-18, 18:16:22](https://news.ycombinator.com/item?id=43093155) - [Among top researchers 10% publish at unrealistic levels, analysis finds](https://www.chemistryworld.com/news/among-worlds-top-researchers-10-publish-at-unrealistic-levels-analysis-finds/4020962.article)
@@ -21,6 +22,7 @@
 * [2025-02-18, 16:06:36](https://news.ycombinator.com/item?id=43091128) - [Broadcom, TSMC eye possible Intel deals to split storied chipmaker](https://www.reuters.com/markets/deals/broadcom-tsmc-eye-possible-intel-deals-that-would-split-storied-chipmaker-wsj-2025-02-16/)
 * [2025-02-18, 16:06:36](https://news.ycombinator.com/item?id=43091128) - [Broadcom, TSMC Weigh Possible Intel Deals That Would Split Storied Chip Maker](https://www.wsj.com/tech/broadcom-tsmc-eye-possible-intel-deals-that-would-split-storied-chip-maker-966b143b)
 * [2025-02-18, 15:47:58](https://news.ycombinator.com/item?id=43090862) - [By the end of today, NASA's workforce will be about 10 percent smaller](https://arstechnica.com/space/2025/02/by-the-end-of-today-nasas-workforce-will-be-about-10-percent-smaller/)
+* [2025-02-18, 15:47:25](https://news.ycombinator.com/item?id=43090857) - [Migraine is more than a headache – a rethink offers hope](https://www.nature.com/articles/d41586-025-00456-x)
 * [2025-02-18, 15:33:37](https://news.ycombinator.com/item?id=43090684) - [Tariffs result in 10% laptop price hike in U.S. says Acer CEO](https://www.tomshardware.com/laptops/acer-ceo-10pc-price-rise-tariffs)
 * [2025-02-18, 14:57:09](https://news.ycombinator.com/item?id=43090214) - [Show HN: Scripton – Python IDE with Built-In Realtime Visualizations](https://scripton.dev)
 * [2025-02-18, 14:54:50](https://news.ycombinator.com/item?id=43090182) - [Show HN: Sober Ringtones – Cringe-free ringtones for people who hate ringtones](https://sober-ringtones.wize.io/)
@@ -34,6 +36,7 @@
 * [2025-02-18, 12:00:43](https://news.ycombinator.com/item?id=43088567) - [Jiga (YC W21) Is Hiring Mongo/React/Node Engineers](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-full-stack-engineer)
 * [2025-02-18, 11:49:07](https://news.ycombinator.com/item?id=43088486) - [Linux's Sole Wireless/WiFi Driver Maintainer Is Stepping Down](https://www.phoronix.com/news/Linux-Wireless-Maintainer-2025)
 * [2025-02-18, 10:45:09](https://news.ycombinator.com/item?id=43088163) - [Huawei launches $3,660 trifold phone](https://www.cnbc.com/2025/02/18/huawei-mate-xt-trifold-launches-outside-of-china-price-specs-.html)
+* [2025-02-18, 10:02:30](https://news.ycombinator.com/item?id=43087944) - [XOR](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/xor/)
 * [2025-02-18, 08:48:16](https://news.ycombinator.com/item?id=43087482) - [Making my debug build run 100x faster so that it is finally usable](https://gaultier.github.io/blog/making_my_debug_build_run_100_times_faster.html)
 * [2025-02-18, 06:25:47](https://news.ycombinator.com/item?id=43086651) - [Appeasement at Munich](https://snyder.substack.com/p/appeasement-at-munich)
 * [2025-02-18, 06:01:02](https://news.ycombinator.com/item?id=43086517) - [I was given early access to Grok 3 earlier today](https://twitter.com/karpathy/status/1891720635363254772)
