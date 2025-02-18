@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-18, 00:08:38",
+      "https://news.ycombinator.com/item?id=43084510"
+    ],
+    [
+      "Nvidia GeForce GTX 980 Through GeForce RTX 5080/5090 GPU Compute Performance",
+      "https://www.phoronix.com/review/nvidia-maxwell-to-blackwell"
+    ]
+  ],
+  [
+    [
+      "2025-02-17, 23:44:28",
+      "https://news.ycombinator.com/item?id=43084355"
+    ],
+    [
+      "Why can't we remember our lives as babies or toddlers?",
+      "https://www.theguardian.com/science/2025/feb/16/why-cant-we-remember-our-lives-as-babies-or-toddlers"
+    ]
+  ],
+  [
+    [
       "2025-02-17, 23:11:33",
       "https://news.ycombinator.com/item?id=43084145"
     ],
@@ -21,32 +41,12 @@
   ],
   [
     [
-      "2025-02-17, 22:19:16",
-      "https://news.ycombinator.com/item?id=43083845"
-    ],
-    [
-      "Ask HN: Small Ideas vs. Big Ideas?",
-      "https://news.ycombinator.com/item?id=43083845"
-    ]
-  ],
-  [
-    [
       "2025-02-17, 22:09:09",
       "https://news.ycombinator.com/item?id=43083772"
     ],
     [
       "List of DRM-Free Bookshops",
       "https://libreture.com/bookshops/"
-    ]
-  ],
-  [
-    [
-      "2025-02-17, 22:03:12",
-      "https://news.ycombinator.com/item?id=43083719"
-    ],
-    [
-      "Mt32-pi developer quits due to community harassment",
-      "https://github.com/dwhinham/mt32-pi"
     ]
   ],
   [
@@ -97,6 +97,16 @@
     [
       "Privacy Is Not Dead: Beware the All-or-Nothing Mindset",
       "https://www.privacyguides.org/articles/2025/02/17/privacy-is-not-dead/"
+    ]
+  ],
+  [
+    [
+      "2025-02-17, 20:30:04",
+      "https://news.ycombinator.com/item?id=43083012"
+    ],
+    [
+      "Plane crashes, overturns during landing at Toronto airport",
+      "https://www.cbc.ca/news/canada/toronto/toronto-pearson-overturned-airplane-1.7461227"
     ]
   ],
   [
@@ -181,26 +191,6 @@
   ],
   [
     [
-      "2025-02-17, 01:42:12",
-      "https://news.ycombinator.com/item?id=43073969"
-    ],
-    [
-      "All Kindles can now be jailbroken",
-      "https://kindlemodding.org/jailbreaking/WinterBreak/"
-    ]
-  ],
-  [
-    [
-      "2025-02-17, 01:22:49",
-      "https://news.ycombinator.com/item?id=43073808"
-    ],
-    [
-      "Homemade polarimetric synthetic aperture radar drone",
-      "https://hforsten.com/homemade-polarimetric-synthetic-aperture-radar-drone.html"
-    ]
-  ],
-  [
-    [
       "2025-02-17, 00:26:04",
       "https://news.ycombinator.com/item?id=43073377"
     ],
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2025-02-14, 22:45:18",
+      "https://news.ycombinator.com/item?id=43053909"
+    ],
+    [
+      "Barcoding brains",
+      "https://www.asimov.press/p/barcoding-brains"
+    ]
+  ],
+  [
+    [
       "2025-02-14, 21:43:50",
       "https://news.ycombinator.com/item?id=43053403"
     ],
@@ -251,12 +251,22 @@
   ],
   [
     [
-      "2025-02-14, 13:30:24",
-      "https://news.ycombinator.com/item?id=43048073"
+      "2025-02-14, 20:16:10",
+      "https://news.ycombinator.com/item?id=43052635"
     ],
     [
-      "How do modern compilers choose which variables to put in registers?",
-      "https://langdev.stackexchange.com/questions/4325/how-do-modern-compilers-choose-which-variables-to-put-in-registers"
+      "Visualize Ownership and Lifetimes in Rust",
+      "https://github.com/cordx56/rustowl"
+    ]
+  ],
+  [
+    [
+      "2025-02-14, 19:38:38",
+      "https://news.ycombinator.com/item?id=43052185"
+    ],
+    [
+      "New Technology Reveals Details About Indigenous Habitations in Desert Canyons",
+      "https://www.smithsonianmag.com/history/canyon-of-the-ancestors-180985955/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Spacetime maps: A map that warps to show travel time",
       "https://maps.vvolhejn.com"
-    ]
-  ],
-  [
-    [
-      "2025-02-13, 19:56:30",
-      "https://news.ycombinator.com/item?id=43040507"
-    ],
-    [
-      "Umami is a simple, fast, privacy-focused alternative to Google Analytics",
-      "https://github.com/umami-software/umami"
     ]
   ]
 ]
