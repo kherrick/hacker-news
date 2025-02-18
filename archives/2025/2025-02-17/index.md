@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-17](index.md)
 
 * [2025-02-17, 23:44:28](https://news.ycombinator.com/item?id=43084355) - [Why can't we remember our lives as babies or toddlers?](https://www.theguardian.com/science/2025/feb/16/why-cant-we-remember-our-lives-as-babies-or-toddlers)
+* [2025-02-17, 23:43:09](https://news.ycombinator.com/item?id=43084349) - [EEG Study of Jhāna Meditation shows sleep-, coma-, and seizure-like activity](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2019.00178/full)
 * [2025-02-17, 23:18:52](https://news.ycombinator.com/item?id=43084200) - [Dedekind's Subtle Knife](https://mathenchant.wordpress.com/2025/02/17/dedekinds-subtle-knife/)
 * [2025-02-17, 23:12:29](https://news.ycombinator.com/item?id=43084154) - [Getting a charge out of wasted automobile heat](https://climate.nasa.gov/news/667/getting-a-charge-out-of-wasted-automobile-heat/)
 * [2025-02-17, 23:11:33](https://news.ycombinator.com/item?id=43084145) - [On David Lynch's Revenge of the Jedi](https://www.benningtonreview.org/adam-golaski)
