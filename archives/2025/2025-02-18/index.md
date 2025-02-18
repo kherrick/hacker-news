@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-18](index.md)
 
+* [2025-02-18, 21:00:58](https://news.ycombinator.com/item?id=43095067) - [Converge (YC S23) is hiring founding engineer #2 in NYC](https://jobs.gem.com/converge/am9icG9zdDreA6I3WJ4ZJ1Yx_WHS5zKP)
 * [2025-02-18, 20:15:24](https://news.ycombinator.com/item?id=43094467) - [AWS paywalling select knowledge base articles, requiring Premium Support plan](https://repost.aws/knowledge-center/eks-api-server-unauthorized-error)
 * [2025-02-18, 19:57:17](https://news.ycombinator.com/item?id=43094260) - [Valve releases Team Fortress 2 game code](https://github.com/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9)
 * [2025-02-18, 19:33:32](https://news.ycombinator.com/item?id=43094006) - [My LLM codegen workflow ATM](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/)

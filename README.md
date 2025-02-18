@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-18, 21:00:58](https://news.ycombinator.com/item?id=43095067) - [Converge (YC S23) is hiring founding engineer #2 in NYC](https://jobs.gem.com/converge/am9icG9zdDreA6I3WJ4ZJ1Yx_WHS5zKP)
 * [2025-02-18, 20:15:24](https://news.ycombinator.com/item?id=43094467) - [AWS paywalling select knowledge base articles, requiring Premium Support plan](https://repost.aws/knowledge-center/eks-api-server-unauthorized-error)
 * [2025-02-18, 19:57:17](https://news.ycombinator.com/item?id=43094260) - [Valve releases Team Fortress 2 game code](https://github.com/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9)
 * [2025-02-18, 19:33:32](https://news.ycombinator.com/item?id=43094006) - [My LLM codegen workflow ATM](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/)
@@ -16,7 +17,6 @@
 * [2025-02-18, 14:57:09](https://news.ycombinator.com/item?id=43090214) - [Show HN: Scripton – Python IDE with built-in realtime visualizations](https://scripton.dev)
 * [2025-02-18, 13:53:47](https://news.ycombinator.com/item?id=43089468) - [Show HN: Cot: a Rust web framework for lazy developers](https://mackow.ski/blog/cot-the-rust-web-framework-for-lazy-developers/)
 * [2025-02-18, 13:22:02](https://news.ycombinator.com/item?id=43089150) - [The ideal candidate will be punched in the stomach](https://www.scottsmitelli.com/articles/ideal-candidate/)
-* [2025-02-18, 12:00:43](https://news.ycombinator.com/item?id=43088567) - [Jiga (YC W21) Is Hiring Mongo/React/Node Engineers](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-full-stack-engineer)
 * [2025-02-18, 10:02:30](https://news.ycombinator.com/item?id=43087944) - [XOR](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/xor/)
 * [2025-02-18, 08:48:16](https://news.ycombinator.com/item?id=43087482) - [Making my debug build run 100x faster so that it is finally usable](https://gaultier.github.io/blog/making_my_debug_build_run_100_times_faster.html)
 * [2025-02-18, 05:53:55](https://news.ycombinator.com/item?id=43086479) - [Show HN: Live-updating version of the 'What a week, huh?' meme](https://tintin.dlazaro.ca/)
