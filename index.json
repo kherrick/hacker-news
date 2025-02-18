@@ -5,8 +5,18 @@
       "https://news.ycombinator.com/item?id=43095067"
     ],
     [
-      "Converge (YC S23) is hiring founding engineer #2 in NYC",
+      "Converge (YC S23) is hiring engineer #2 in NYC",
       "https://jobs.gem.com/converge/am9icG9zdDreA6I3WJ4ZJ1Yx_WHS5zKP"
+    ]
+  ],
+  [
+    [
+      "2025-02-18, 20:29:16",
+      "https://news.ycombinator.com/item?id=43094651"
+    ],
+    [
+      "DeepSeek 'shared user data' with TikTok owner ByteDance",
+      "https://www.bbc.com/news/articles/c4gex0x87g4o"
     ]
   ],
   [
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=43094006"
     ],
     [
-      "My LLM codegen workflow ATM",
+      "My LLM codegen workflow",
       "https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/"
     ]
   ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2025-02-18, 13:53:47",
-      "https://news.ycombinator.com/item?id=43089468"
-    ],
-    [
-      "Show HN: Cot: a Rust web framework for lazy developers",
-      "https://mackow.ski/blog/cot-the-rust-web-framework-for-lazy-developers/"
-    ]
-  ],
-  [
-    [
       "2025-02-18, 13:22:02",
       "https://news.ycombinator.com/item?id=43089150"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2025-02-17, 20:30:04",
-      "https://news.ycombinator.com/item?id=43083012"
-    ],
-    [
-      "Plane crashes, overturns during landing at Toronto airport",
-      "https://www.cbc.ca/news/canada/toronto/toronto-pearson-overturned-airplane-1.7461227"
-    ]
-  ],
-  [
-    [
       "2025-02-17, 15:29:48",
       "https://news.ycombinator.com/item?id=43079952"
     ],
     [
       "(Ab)using general search algorithms on dynamic optimization problems (2023)",
       "https://dubovik.eu/blog/search-algorithms"
+    ]
+  ],
+  [
+    [
+      "2025-02-17, 00:45:01",
+      "https://news.ycombinator.com/item?id=43073527"
+    ],
+    [
+      "A GPU-Accelerated Binary Vector Index",
+      "https://rlafuente.com/post?post=2024-6-12-a-binary-vector-store"
     ]
   ],
   [
