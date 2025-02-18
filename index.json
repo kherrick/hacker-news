@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-02-18, 06:01:02",
+      "https://news.ycombinator.com/item?id=43086517"
+    ],
+    [
+      "I was given early access to Grok 3 earlier today",
+      "https://twitter.com/karpathy/status/1891720635363254772"
+    ]
+  ],
+  [
+    [
       "2025-02-18, 04:51:01",
       "https://news.ycombinator.com/item?id=43086170"
     ],
     [
       "Go 1.24",
       "https://tip.golang.org/doc/go1.24"
+    ]
+  ],
+  [
+    [
+      "2025-02-18, 04:04:54",
+      "https://news.ycombinator.com/item?id=43085957"
+    ],
+    [
+      "Grok3 Launch",
+      "https://x.com/xai/status/1891699715298730482"
     ]
   ],
   [
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=43085687"
     ],
     [
-      "Sony FX-300 Jackal: A technological marvel of the late 70s",
+      "Sony FX-300 Jackal: A technological marvel of the late 70s (2021)",
       "https://swling.com/blog/2021/03/the-sony-fx-300-jackal-a-holy-grail-technological-marvel-of-the-late-70s/"
     ]
   ],
@@ -51,42 +71,12 @@
   ],
   [
     [
-      "2025-02-18, 00:33:04",
-      "https://news.ycombinator.com/item?id=43084682"
+      "2025-02-17, 23:44:28",
+      "https://news.ycombinator.com/item?id=43084355"
     ],
     [
-      "Robocode",
-      "https://robocode.sourceforge.io/"
-    ]
-  ],
-  [
-    [
-      "2025-02-17, 23:43:22",
-      "https://news.ycombinator.com/item?id=43084350"
-    ],
-    [
-      "Programming with Chronic Pain",
-      "https://thomasvogelaar.me/posts/programming-with-chronic-pain/"
-    ]
-  ],
-  [
-    [
-      "2025-02-17, 23:43:09",
-      "https://news.ycombinator.com/item?id=43084349"
-    ],
-    [
-      "EEG Study of Jhāna Meditation shows sleep-, coma-, and seizure-like activity",
-      "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2019.00178/full"
-    ]
-  ],
-  [
-    [
-      "2025-02-17, 23:18:52",
-      "https://news.ycombinator.com/item?id=43084200"
-    ],
-    [
-      "Dedekind's Subtle Knife",
-      "https://mathenchant.wordpress.com/2025/02/17/dedekinds-subtle-knife/"
+      "Why can't we remember our lives as babies or toddlers?",
+      "https://www.theguardian.com/science/2025/feb/16/why-cant-we-remember-our-lives-as-babies-or-toddlers"
     ]
   ],
   [
@@ -191,16 +181,6 @@
   ],
   [
     [
-      "2025-02-17, 17:36:02",
-      "https://news.ycombinator.com/item?id=43081378"
-    ],
-    [
-      "Small Tech",
-      "https://www.scattered-thoughts.net/writing/small-tech/"
-    ]
-  ],
-  [
-    [
       "2025-02-17, 16:54:52",
       "https://news.ycombinator.com/item?id=43080895"
     ],
@@ -221,22 +201,12 @@
   ],
   [
     [
-      "2025-02-17, 16:09:47",
-      "https://news.ycombinator.com/item?id=43080378"
+      "2025-02-17, 10:57:46",
+      "https://news.ycombinator.com/item?id=43077519"
     ],
     [
-      "Open source projects could sell SBOM fragments",
-      "https://www.thomas-huehn.com/open-source-projects-could-sell-sbom-fragments/"
-    ]
-  ],
-  [
-    [
-      "2025-02-17, 13:54:40",
-      "https://news.ycombinator.com/item?id=43079023"
-    ],
-    [
-      "Espargos: ESP32-based WiFi sensing array",
-      "https://espargos.net/"
+      "Show HN: TimeRetain – A browser-based personal time tracker, no sign-up needed",
+      "https://timeretain.com/"
     ]
   ],
   [
@@ -271,6 +241,16 @@
   ],
   [
     [
+      "2025-02-14, 22:45:56",
+      "https://news.ycombinator.com/item?id=43053916"
+    ],
+    [
+      "A Short History of English Waymarks (2015)",
+      "https://www.bsswebsite.me.uk/A%20Short%20History%20of/waymarks.html"
+    ]
+  ],
+  [
+    [
       "2025-02-14, 20:16:10",
       "https://news.ycombinator.com/item?id=43052635"
     ],
@@ -281,12 +261,32 @@
   ],
   [
     [
+      "2025-02-14, 12:13:46",
+      "https://news.ycombinator.com/item?id=43047590"
+    ],
+    [
+      "Indian native rediscovers Department of Defense 1963 Algorithm",
+      "https://math.stackexchange.com/questions/4744025/factoring-an-integer-using-its-zeckendorf-representation"
+    ]
+  ],
+  [
+    [
       "2025-02-14, 11:36:39",
       "https://news.ycombinator.com/item?id=43047341"
     ],
     [
       "You're not a senior engineer until you've worked on a legacy project (2023)",
       "https://www.infobip.com/developers/blog/seniors-working-on-a-legacy-project"
+    ]
+  ],
+  [
+    [
+      "2025-02-14, 09:42:05",
+      "https://news.ycombinator.com/item?id=43046631"
+    ],
+    [
+      "Why Quantum Cryptanalysis is Bollocks [pdf]",
+      "https://www.cs.auckland.ac.nz/~pgut001/pubs/bollocks.pdf"
     ]
   ],
   [
