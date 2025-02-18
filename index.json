@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-18, 19:26:33",
+      "https://news.ycombinator.com/item?id=43093939"
+    ],
+    [
+      "Nuclear fusion: WEST beats the world record for plasma duration",
+      "https://www.cea.fr/english/Pages/News/nuclear-fusion-west-beats-the-world-record-for-plasma-duration.aspx"
+    ]
+  ],
+  [
+    [
       "2025-02-18, 19:18:43",
       "https://news.ycombinator.com/item?id=43093859"
     ],
@@ -15,8 +25,18 @@
       "https://news.ycombinator.com/item?id=43093610"
     ],
     [
-      "Tensor Evolution: A Framework for Fast Evaluation Using Recurrences",
+      "Tensor evolution: A framework for fast tensor computations using recurrences",
       "https://arxiv.org/abs/2502.03402"
+    ]
+  ],
+  [
+    [
+      "2025-02-18, 18:40:12",
+      "https://news.ycombinator.com/item?id=43093429"
+    ],
+    [
+      "Thinking Machines Lab",
+      "https://thinkingmachines.ai/"
     ]
   ],
   [
@@ -41,22 +61,22 @@
   ],
   [
     [
+      "2025-02-18, 17:33:52",
+      "https://news.ycombinator.com/item?id=43092579"
+    ],
+    [
+      "Building an Open, Multi-Engine Data Lakehouse with S3 and Python",
+      "https://tower.dev/blog/building-an-open-multi-engine-data-lakehouse-with-s3-and-python"
+    ]
+  ],
+  [
+    [
       "2025-02-18, 17:30:39",
       "https://news.ycombinator.com/item?id=43092522"
     ],
     [
       "Launch HN: Promptless (YC W25) – Automatic updates for customer-facing docs",
       "https://news.ycombinator.com/item?id=43092522"
-    ]
-  ],
-  [
-    [
-      "2025-02-18, 17:21:42",
-      "https://news.ycombinator.com/item?id=43092389"
-    ],
-    [
-      "Web awesome: \"Shoelace 3.0\" open source web components",
-      "https://backers.webawesome.com"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Catalytic computing taps the full power of a full hard drive",
       "https://www.quantamagazine.org/catalytic-computing-taps-the-full-power-of-a-full-hard-drive-20250218/"
-    ]
-  ],
-  [
-    [
-      "2025-02-18, 16:06:36",
-      "https://news.ycombinator.com/item?id=43091128"
-    ],
-    [
-      "Broadcom, TSMC eye possible Intel deals to split storied chipmaker",
-      "https://www.reuters.com/markets/deals/broadcom-tsmc-eye-possible-intel-deals-that-would-split-storied-chipmaker-wsj-2025-02-16/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "I helped fix sleep-wake hangs on Linux with AMD GPUs",
       "https://nyanpasu64.gitlab.io/blog/amdgpu-sleep-wake-hang/"
-    ]
-  ],
-  [
-    [
-      "2025-02-16, 08:33:47",
-      "https://news.ycombinator.com/item?id=43066394"
-    ],
-    [
-      "670nm red light exposure improved aged mitochondrial function, colour vision",
-      "https://www.nature.com/articles/s41598-021-02311-1"
     ]
   ],
   [
