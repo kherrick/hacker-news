@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-18, 13:53:47](https://news.ycombinator.com/item?id=43089468) - [Show HN: Welcome, Cot: the Rust web framework for lazy developers](https://mackow.ski/blog/cot-the-rust-web-framework-for-lazy-developers/)
-* [2025-02-18, 13:04:47](https://news.ycombinator.com/item?id=43089013) - [Death of South Korean actor at 24 sparks discussion about internet culture](https://apnews.com/article/south-korea-actor-death-kim-sae-ron-a2ce58f4d63b423afb328709027429ba)
 * [2025-02-18, 12:35:34](https://news.ycombinator.com/item?id=43088785) - [Reviewing the Cryptography Used by Signal](https://soatok.blog/2025/02/18/reviewing-the-cryptography-used-by-signal/)
 * [2025-02-18, 12:00:43](https://news.ycombinator.com/item?id=43088567) - [Jiga (YC W21) Is Hiring Mongo/React/Node Engineers](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-full-stack-engineer)
 * [2025-02-18, 05:53:55](https://news.ycombinator.com/item?id=43086479) - [Show HN: Live-updating version of the 'What a week, huh?' meme](https://tintin.dlazaro.ca/)
@@ -26,6 +25,7 @@
 * [2025-02-16, 21:42:03](https://news.ycombinator.com/item?id=43071983) - [I helped fix sleep-wake hangs on Linux with AMD GPUs](https://nyanpasu64.gitlab.io/blog/amdgpu-sleep-wake-hang/)
 * [2025-02-16, 08:33:47](https://news.ycombinator.com/item?id=43066394) - [670nm red light exposure improved aged mitochondrial function, colour vision](https://www.nature.com/articles/s41598-021-02311-1)
 * [2025-02-15, 19:36:31](https://news.ycombinator.com/item?id=43061521) - [New technique generates topological structures with gravity water waves](https://phys.org/news/2025-02-tweezers-technique-generates-topological-gravity.html)
+* [2025-02-14, 21:43:50](https://news.ycombinator.com/item?id=43053403) - [George Eliot's reflections on AGI from 1879](https://www.learningfromexamples.com/p/reflections-on-superintelligence)
 * [2025-02-14, 20:16:10](https://news.ycombinator.com/item?id=43052635) - [Visualize Ownership and Lifetimes in Rust](https://github.com/cordx56/rustowl)
 * [2025-02-14, 11:36:39](https://news.ycombinator.com/item?id=43047341) - [You're not a senior engineer until you've worked on a legacy project (2023)](https://www.infobip.com/developers/blog/seniors-working-on-a-legacy-project)
 * [2025-02-14, 09:42:05](https://news.ycombinator.com/item?id=43046631) - [Why Quantum Cryptanalysis is Bollocks [pdf]](https://www.cs.auckland.ac.nz/~pgut001/pubs/bollocks.pdf)
