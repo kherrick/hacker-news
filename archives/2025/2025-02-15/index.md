@@ -60,6 +60,7 @@
 * [2025-02-15, 12:06:01](https://news.ycombinator.com/item?id=43057907) - [Microsoft Study Finds Relying on AI Kills Your Critical Thinking Skills](https://gizmodo.com/microsoft-study-finds-relying-on-ai-kills-your-critical-thinking-skills-2000561788)
 * [2025-02-15, 11:23:46](https://news.ycombinator.com/item?id=43057721) - [Kleene as a Container Management Platform for FreeBSD](https://gyptazy.com/howto-kleene-as-a-container-management-platform-for-freebsd/)
 * [2025-02-15, 11:16:22](https://news.ycombinator.com/item?id=43057687) - [Nouveau kernel maintainer steps down](https://lists.freedesktop.org/archives/nouveau/2025-February/046677.html)
+* [2025-02-15, 10:28:55](https://news.ycombinator.com/item?id=43057465) - [Are LLMs able to play the card game Set?](https://github.com/vnglst/when-ai-fails/tree/main/playing-set)
 * [2025-02-15, 10:23:29](https://news.ycombinator.com/item?id=43057443) - [Nature Loves Patterns](https://fayziev.com/blog/nature-loves-patterns)
 * [2025-02-15, 10:07:23](https://news.ycombinator.com/item?id=43057375) - [Show HN: Kreuzberg – Modern async Python library for document text extraction](https://github.com/Goldziher/kreuzberg)
 * [2025-02-15, 09:59:20](https://news.ycombinator.com/item?id=43057344) - [Jane Street's Figgie card game](https://www.figgie.com/)

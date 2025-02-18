@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-18](index.md)
 
+* [2025-02-18, 22:15:05](https://news.ycombinator.com/item?id=43095811) - [HP Acquires Humane's AI Software](https://humane.com/media/humane-hp)
 * [2025-02-18, 21:42:03](https://news.ycombinator.com/item?id=43095467) - [London Transport 25: ride 25 different forms of transport in one day](https://www.girlonthenet.com/london-transport-25/)
 * [2025-02-18, 21:09:19](https://news.ycombinator.com/item?id=43095157) - [A year of uv: pros, cons, and should you migrate](https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should)
 * [2025-02-18, 21:01:02](https://news.ycombinator.com/item?id=43095070) - [Kafka at the low end: how bad can it get?](https://broot.ca/kafka-at-the-low-end.html)
