@@ -50,6 +50,7 @@
 * [2025-02-15, 13:24:12](https://news.ycombinator.com/item?id=43058311) - [Twelve months at 1.5 °C signals earlier than expected breach of Paris Agreement](https://www.nature.com/articles/s41558-025-02247-8)
 * [2025-02-15, 13:22:09](https://news.ycombinator.com/item?id=43058299) - [Show HN: Synergetica – A Modern, End-to-End Genetic Circuit Design Desktop App](https://github.com/khokao/synergetica)
 * [2025-02-15, 13:19:17](https://news.ycombinator.com/item?id=43058285) - [Show HN: I Built a Reddit-style Bluesky client – still rough, but open to ideas](https://threadsky.app/)
+* [2025-02-15, 13:18:10](https://news.ycombinator.com/item?id=43058277) - [Pocket386 Retro DOS Computer 386SX-40Mhz](https://www.tindie.com/products/cycle/pocket386-retro-dos-computer-386sx-40mhz-black/)
 * [2025-02-15, 13:02:46](https://news.ycombinator.com/item?id=43058198) - [What situations in classical physics are non-deterministic?](https://physics.stackexchange.com/questions/403574/what-situations-in-classical-physics-are-non-deterministic)
 * [2025-02-15, 12:19:48](https://news.ycombinator.com/item?id=43057968) - [Can We Trust AI Benchmarks? A Review of Current Issues in AI Evaluation](https://arxiv.org/abs/2502.06559)
 * [2025-02-15, 12:11:06](https://news.ycombinator.com/item?id=43057930) - [Karol Herbst Steps Down as Nouveau Maintainer Due to Linux's Toxic Environment](https://www.phoronix.com/news/Karol-Herbst-Nouveau-No)
