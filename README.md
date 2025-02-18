@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-18, 04:51:01](https://news.ycombinator.com/item?id=43086170) - [Go 1.24](https://tip.golang.org/doc/go1.24)
-* [2025-02-18, 04:04:54](https://news.ycombinator.com/item?id=43085957) - [Grok3 Launch](https://twitter.com/xai/status/1891699715298730482)
 * [2025-02-18, 03:45:28](https://news.ycombinator.com/item?id=43085876) - [My washing machine refreshed my thinking on software estimation](https://www.cosive.com/blog/my-washing-machine-refreshed-my-thinking-on-software-effort-estimation)
 * [2025-02-18, 03:14:54](https://news.ycombinator.com/item?id=43085718) - [Gravel Map](https://www.gravelmap.com/map#_=10/45.5424/-122.6544)
 * [2025-02-18, 03:07:45](https://news.ycombinator.com/item?id=43085687) - [Sony FX-300 Jackal: A technological marvel of the late 70s](https://swling.com/blog/2021/03/the-sony-fx-300-jackal-a-holy-grail-technological-marvel-of-the-late-70s/)
 * [2025-02-18, 02:34:37](https://news.ycombinator.com/item?id=43085492) - [A web platform for using YouTube as a drum sequencer](https://youtubesequencer.com/)
+* [2025-02-18, 00:33:04](https://news.ycombinator.com/item?id=43084682) - [Robocode](https://robocode.sourceforge.io/)
 * [2025-02-17, 23:18:52](https://news.ycombinator.com/item?id=43084200) - [Dedekind's Subtle Knife](https://mathenchant.wordpress.com/2025/02/17/dedekinds-subtle-knife/)
 * [2025-02-17, 23:12:29](https://news.ycombinator.com/item?id=43084154) - [Getting a charge out of wasted automobile heat](https://climate.nasa.gov/news/667/getting-a-charge-out-of-wasted-automobile-heat/)
 * [2025-02-17, 23:11:33](https://news.ycombinator.com/item?id=43084145) - [On David Lynch's Revenge of the Jedi (2018)](https://www.benningtonreview.org/adam-golaski)
