@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-18](index.md)
 
+* [2025-02-18, 19:57:17](https://news.ycombinator.com/item?id=43094260) - [Valve releases Team Fortress 2 game code](https://github.com/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9)
+* [2025-02-18, 19:33:32](https://news.ycombinator.com/item?id=43094006) - [My LLM codegen workflow ATM](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/)
 * [2025-02-18, 19:26:33](https://news.ycombinator.com/item?id=43093939) - [Nuclear fusion: WEST beats the world record for plasma duration](https://www.cea.fr/english/Pages/News/nuclear-fusion-west-beats-the-world-record-for-plasma-duration.aspx)
 * [2025-02-18, 19:18:43](https://news.ycombinator.com/item?id=43093859) - [Moving on from 18F](https://ethanmarcotte.com/wrote/leaving-18f/)
 * [2025-02-18, 18:55:31](https://news.ycombinator.com/item?id=43093610) - [Tensor Evolution: A Framework for Fast Evaluation Using Recurrences](https://arxiv.org/abs/2502.03402)
