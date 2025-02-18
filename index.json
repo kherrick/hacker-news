@@ -1,22 +1,22 @@
 [
   [
     [
-      "2025-02-18, 18:31:36",
-      "https://news.ycombinator.com/item?id=43093328"
+      "2025-02-18, 18:55:31",
+      "https://news.ycombinator.com/item?id=43093610"
     ],
     [
-      "Pi-Hole v6",
-      "https://pi-hole.net/blog/2025/02/18/introducing-pi-hole-v6/"
+      "Tensor Evolution: A Framework for Fast Evaluation Using Recurrences",
+      "https://arxiv.org/abs/2502.03402"
     ]
   ],
   [
     [
-      "2025-02-18, 18:20:10",
-      "https://news.ycombinator.com/item?id=43093197"
+      "2025-02-18, 18:31:36",
+      "https://news.ycombinator.com/item?id=43093328"
     ],
     [
-      "AMD's game-changing Strix Halo, formerly Ryzen AI Max, poses for new die shots",
-      "https://www.tomshardware.com/pc-components/gpus/amds-game-changing-strix-halo-apu-formerly-ryzen-ai-max-poses-for-new-die-shots"
+      "Pi-hole v6",
+      "https://pi-hole.net/blog/2025/02/18/introducing-pi-hole-v6/"
     ]
   ],
   [
@@ -81,12 +81,12 @@
   ],
   [
     [
-      "2025-02-18, 16:11:38",
-      "https://news.ycombinator.com/item?id=43091217"
+      "2025-02-18, 16:11:08",
+      "https://news.ycombinator.com/item?id=43091195"
     ],
     [
-      "Are electric cars that much cheaper to operate?",
-      "https://www.pavlinbg.com/posts/are-electric-cars-really-that-much-cheaper-to-operate-than-ice"
+      "Jean Hilliard's Minnesota Story (2018)",
+      "https://www.mprnews.org/story/2018/01/25/jean-hilliard-northern-minnesota-frozen-survived"
     ]
   ],
   [
@@ -107,6 +107,16 @@
     [
       "Broadcom, TSMC eye possible Intel deals to split storied chipmaker",
       "https://www.reuters.com/markets/deals/broadcom-tsmc-eye-possible-intel-deals-that-would-split-storied-chipmaker-wsj-2025-02-16/"
+    ]
+  ],
+  [
+    [
+      "2025-02-18, 15:47:25",
+      "https://news.ycombinator.com/item?id=43090857"
+    ],
+    [
+      "Migraine is more than a headache – a rethink offers hope",
+      "https://www.nature.com/articles/d41586-025-00456-x"
     ]
   ],
   [
@@ -151,6 +161,16 @@
   ],
   [
     [
+      "2025-02-18, 10:02:30",
+      "https://news.ycombinator.com/item?id=43087944"
+    ],
+    [
+      "XOR",
+      "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/xor/"
+    ]
+  ],
+  [
+    [
       "2025-02-18, 08:48:16",
       "https://news.ycombinator.com/item?id=43087482"
     ],
@@ -191,32 +211,32 @@
   ],
   [
     [
-      "2025-02-18, 03:07:45",
-      "https://news.ycombinator.com/item?id=43085687"
+      "2025-02-18, 00:33:04",
+      "https://news.ycombinator.com/item?id=43084682"
     ],
     [
-      "Sony FX-300 Jackal: A technological marvel of the late 70s (2021)",
-      "https://swling.com/blog/2021/03/the-sony-fx-300-jackal-a-holy-grail-technological-marvel-of-the-late-70s/"
+      "Robocode",
+      "https://robocode.sourceforge.io/"
     ]
   ],
   [
     [
-      "2025-02-17, 23:44:28",
-      "https://news.ycombinator.com/item?id=43084355"
+      "2025-02-17, 23:43:22",
+      "https://news.ycombinator.com/item?id=43084350"
     ],
     [
-      "Why can't we remember our lives as babies or toddlers?",
-      "https://www.theguardian.com/science/2025/feb/16/why-cant-we-remember-our-lives-as-babies-or-toddlers"
+      "Programming with chronic pain",
+      "https://thomasvogelaar.me/posts/programming-with-chronic-pain/"
     ]
   ],
   [
     [
-      "2025-02-17, 23:11:33",
-      "https://news.ycombinator.com/item?id=43084145"
+      "2025-02-17, 23:43:09",
+      "https://news.ycombinator.com/item?id=43084349"
     ],
     [
-      "On David Lynch's Revenge of the Jedi (2018)",
-      "https://www.benningtonreview.org/adam-golaski"
+      "EEG Study of Buddhist Jhāna Meditation (2019)",
+      "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2019.00178/full"
     ]
   ],
   [
@@ -251,42 +271,22 @@
   ],
   [
     [
-      "2025-02-16, 21:42:03",
-      "https://news.ycombinator.com/item?id=43071983"
-    ],
-    [
-      "I helped fix sleep-wake hangs on Linux with AMD GPUs",
-      "https://nyanpasu64.gitlab.io/blog/amdgpu-sleep-wake-hang/"
-    ]
-  ],
-  [
-    [
-      "2025-02-16, 08:33:47",
-      "https://news.ycombinator.com/item?id=43066394"
-    ],
-    [
-      "670nm red light exposure improved aged mitochondrial function, colour vision",
-      "https://www.nature.com/articles/s41598-021-02311-1"
-    ]
-  ],
-  [
-    [
-      "2025-02-16, 08:28:07",
-      "https://news.ycombinator.com/item?id=43066367"
-    ],
-    [
-      "Nostalgia for Physical Media",
-      "https://www.sicpers.info/2025/02/on-nostalgia-for-physical-media/"
-    ]
-  ],
-  [
-    [
       "2025-02-15, 16:32:17",
       "https://news.ycombinator.com/item?id=43059779"
     ],
     [
       "Lake-harvested cocktail ice is an old business making a comeback in Norway",
       "https://vinepair.com/articles/lake-harvested-cocktail-ice-returns/"
+    ]
+  ],
+  [
+    [
+      "2025-02-15, 11:23:46",
+      "https://news.ycombinator.com/item?id=43057721"
+    ],
+    [
+      "Kleene as a Container Management Platform for FreeBSD",
+      "https://gyptazy.com/howto-kleene-as-a-container-management-platform-for-freebsd/"
     ]
   ],
   [
