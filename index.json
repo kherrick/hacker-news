@@ -1,32 +1,12 @@
 [
   [
     [
-      "2025-02-18, 05:50:11",
-      "https://news.ycombinator.com/item?id=43086462"
-    ],
-    [
-      "PG&E reports profit of more than $2B for 2024",
-      "https://www.mercurynews.com/2025/02/13/pge-profit-electric-gas-utility-fire-economy-bay-area-oakland-san-jose/"
-    ]
-  ],
-  [
-    [
       "2025-02-18, 04:51:01",
       "https://news.ycombinator.com/item?id=43086170"
     ],
     [
       "Go 1.24",
       "https://tip.golang.org/doc/go1.24"
-    ]
-  ],
-  [
-    [
-      "2025-02-18, 03:45:28",
-      "https://news.ycombinator.com/item?id=43085876"
-    ],
-    [
-      "My washing machine refreshed my thinking on software estimation",
-      "https://www.cosive.com/blog/my-washing-machine-refreshed-my-thinking-on-software-effort-estimation"
     ]
   ],
   [
@@ -57,6 +37,16 @@
     [
       "A web platform for using YouTube as a drum sequencer",
       "https://youtubesequencer.com/"
+    ]
+  ],
+  [
+    [
+      "2025-02-18, 01:08:41",
+      "https://news.ycombinator.com/item?id=43084958"
+    ],
+    [
+      "Have you ever seen a goth downtown?",
+      "https://danco.substack.com/p/have-you-ever-seen-a-goth-downtown"
     ]
   ],
   [
@@ -221,22 +211,22 @@
   ],
   [
     [
-      "2025-02-17, 15:02:17",
-      "https://news.ycombinator.com/item?id=43079656"
-    ],
-    [
-      "Why Upstart from Ubuntu Failed",
-      "https://machaddr.substack.com/p/why-upstart-from-ubuntu-failed"
-    ]
-  ],
-  [
-    [
       "2025-02-17, 13:54:40",
       "https://news.ycombinator.com/item?id=43079023"
     ],
     [
       "Espargos: ESP32-based WiFi sensing array",
       "https://espargos.net/"
+    ]
+  ],
+  [
+    [
+      "2025-02-17, 11:18:29",
+      "https://news.ycombinator.com/item?id=43077675"
+    ],
+    [
+      "0+0 > 0: C++ thread-local storage performance",
+      "https://yosefk.com/blog/cxx-thread-local-storage-performance.html"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "The Joy of Nand2Tetris",
       "https://tristanrhodes.com/blog/The-Joy-of-Nand2Tetris"
+    ]
+  ],
+  [
+    [
+      "2025-02-14, 21:43:50",
+      "https://news.ycombinator.com/item?id=43053403"
+    ],
+    [
+      "George Eliot's reflections on AGI from 1879",
+      "https://www.learningfromexamples.com/p/reflections-on-superintelligence"
     ]
   ],
   [
