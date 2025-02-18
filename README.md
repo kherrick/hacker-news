@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-18, 10:45:09](https://news.ycombinator.com/item?id=43088163) - [Huawei launches $3,660 trifold phone](https://www.cnbc.com/2025/02/18/huawei-mate-xt-trifold-launches-outside-of-china-price-specs-.html)
 * [2025-02-18, 05:53:55](https://news.ycombinator.com/item?id=43086479) - [Show HN: Live-updating version of the 'What a week, huh?' meme](https://tintin.dlazaro.ca/)
 * [2025-02-18, 04:51:01](https://news.ycombinator.com/item?id=43086170) - [Go 1.24](https://tip.golang.org/doc/go1.24)
 * [2025-02-18, 04:04:54](https://news.ycombinator.com/item?id=43085957) - [Grok3 Launch [video]](https://x.com/xai/status/1891699715298730482)
@@ -13,7 +14,6 @@
 * [2025-02-17, 22:09:09](https://news.ycombinator.com/item?id=43083772) - [List of DRM-Free Bookshops](https://libreture.com/bookshops/)
 * [2025-02-17, 21:59:14](https://news.ycombinator.com/item?id=43083687) - [Setting up a trusted, self-signed SSL/TLS certificate authority in Linux](https://previnder.com/tls-ca-linux/)
 * [2025-02-17, 21:14:03](https://news.ycombinator.com/item?id=43083345) - [Find Your 2%Ers (2023)](https://joyarbitrage.substack.com/p/find-your-2ers)
-* [2025-02-17, 21:00:29](https://news.ycombinator.com/item?id=43083255) - [TestRigor (YC S21) Is Hiring VP of Engineering](https://www.ycombinator.com/companies/testrigor/jobs/AuTkpC9-vp-of-engineering)
 * [2025-02-17, 20:30:04](https://news.ycombinator.com/item?id=43083012) - [Plane crashes, overturns during landing at Toronto airport](https://www.cbc.ca/news/canada/toronto/toronto-pearson-overturned-airplane-1.7461227)
 * [2025-02-17, 19:57:16](https://news.ycombinator.com/item?id=43082739) - [NES86 – IBM PC Emulator for the NES](https://github.com/decrazyo/nes86)
 * [2025-02-17, 18:10:35](https://news.ycombinator.com/item?id=43081713) - [Debugging an Undebuggable App](https://bryce.co/undebuggable/)
