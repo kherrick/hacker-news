@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-02-18, 12:50:59",
-      "https://news.ycombinator.com/item?id=43088906"
+      "2025-02-18, 13:53:47",
+      "https://news.ycombinator.com/item?id=43089468"
     ],
     [
-      "India's Tata Consultancy Was Gaming the US Visa System",
-      "https://www.bloomberg.com/news/features/2025-02-17/india-s-tcs-misclassified-managers-to-skirt-h-1b-rules-former-staffers-say"
+      "Show HN: Welcome, Cot: the Rust web framework for lazy developers",
+      "https://mackow.ski/blog/cot-the-rust-web-framework-for-lazy-developers/"
+    ]
+  ],
+  [
+    [
+      "2025-02-18, 13:01:06",
+      "https://news.ycombinator.com/item?id=43088993"
+    ],
+    [
+      "Tesla was hit by a wave of protests, sales are crashing, insiders are waking up",
+      "https://electrek.co/2025/02/17/tesla-was-hit-by-a-wave-of-protests-over-musk-sales-are-crashing-insiders-are-waking-up/"
     ]
   ],
   [
@@ -141,12 +151,12 @@
   ],
   [
     [
-      "2025-02-17, 21:59:14",
-      "https://news.ycombinator.com/item?id=43083687"
+      "2025-02-17, 21:14:03",
+      "https://news.ycombinator.com/item?id=43083345"
     ],
     [
-      "Setting up a trusted, self-signed SSL/TLS certificate authority in Linux",
-      "https://previnder.com/tls-ca-linux/"
+      "Find Your 2%Ers (2023)",
+      "https://joyarbitrage.substack.com/p/find-your-2ers"
     ]
   ],
   [
@@ -221,32 +231,12 @@
   ],
   [
     [
-      "2025-02-16, 12:57:16",
-      "https://news.ycombinator.com/item?id=43067639"
-    ],
-    [
-      "Bosch's brake-by-wire system may be the next big leap in automotive tech",
-      "https://newatlas.com/automotive/bosch-brake-by-wire-system/"
-    ]
-  ],
-  [
-    [
       "2025-02-16, 08:33:47",
       "https://news.ycombinator.com/item?id=43066394"
     ],
     [
       "670nm red light exposure improved aged mitochondrial function, colour vision",
       "https://www.nature.com/articles/s41598-021-02311-1"
-    ]
-  ],
-  [
-    [
-      "2025-02-16, 03:21:03",
-      "https://news.ycombinator.com/item?id=43065010"
-    ],
-    [
-      "What will happen if you do an entire woodworking project using a VR headset? [video]",
-      "https://www.youtube.com/watch?v=qp9UG0plBRQ"
     ]
   ],
   [
@@ -261,12 +251,12 @@
   ],
   [
     [
-      "2025-02-15, 06:44:40",
-      "https://news.ycombinator.com/item?id=43056456"
+      "2025-02-15, 13:18:10",
+      "https://news.ycombinator.com/item?id=43058277"
     ],
     [
-      "The Joy of Nand2Tetris",
-      "https://tristanrhodes.com/blog/The-Joy-of-Nand2Tetris"
+      "Pocket386 Retro DOS Computer 386SX-40Mhz",
+      "https://www.tindie.com/products/cycle/pocket386-retro-dos-computer-386sx-40mhz-black/"
     ]
   ],
   [
@@ -281,22 +271,32 @@
   ],
   [
     [
-      "2025-02-14, 15:53:34",
-      "https://news.ycombinator.com/item?id=43049659"
-    ],
-    [
-      "Siren Call of SQLite on the Server",
-      "https://pid1.dev/posts/siren-call-of-sqlite-on-the-server/"
-    ]
-  ],
-  [
-    [
       "2025-02-14, 11:36:39",
       "https://news.ycombinator.com/item?id=43047341"
     ],
     [
       "You're not a senior engineer until you've worked on a legacy project (2023)",
       "https://www.infobip.com/developers/blog/seniors-working-on-a-legacy-project"
+    ]
+  ],
+  [
+    [
+      "2025-02-14, 09:42:05",
+      "https://news.ycombinator.com/item?id=43046631"
+    ],
+    [
+      "Why Quantum Cryptanalysis is Bollocks [pdf]",
+      "https://www.cs.auckland.ac.nz/~pgut001/pubs/bollocks.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-02-13, 20:36:11",
+      "https://news.ycombinator.com/item?id=43040986"
+    ],
+    [
+      "Spacetime maps: A map that warps to show travel time",
+      "https://maps.vvolhejn.com"
     ]
   ]
 ]
