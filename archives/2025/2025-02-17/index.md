@@ -48,6 +48,7 @@
 * [2025-02-17, 11:41:12](https://news.ycombinator.com/item?id=43077833) - [Open source maintainers are feeling the squeeze](https://www.theregister.com/2025/02/16/open_source_maintainers_state_of_open/)
 * [2025-02-17, 11:18:29](https://news.ycombinator.com/item?id=43077675) - [0+0 > 0: C++ thread-local storage performance](https://yosefk.com/blog/cxx-thread-local-storage-performance.html)
 * [2025-02-17, 11:02:33](https://news.ycombinator.com/item?id=43077551) - [Techie pointed out meetings are pointless, and was punished for it](https://www.theregister.com/2025/02/17/who_me/)
+* [2025-02-17, 10:57:46](https://news.ycombinator.com/item?id=43077519) - [Show HN: TimeRetain – A browser-based personal time tracker, no sign-up needed](https://timeretain.com/)
 * [2025-02-17, 10:32:32](https://news.ycombinator.com/item?id=43077340) - [Ask HN: Ways to progress career wise as SWE?](https://news.ycombinator.com/item?id=43077340)
 * [2025-02-17, 10:09:56](https://news.ycombinator.com/item?id=43077175) - [Broligarchy does not build civilization](https://not-a-tech-bro.ghost.io/broligarchy-does-not-build-civilization/)
 * [2025-02-17, 09:54:46](https://news.ycombinator.com/item?id=43077074) - [Step-Video-T2V: The Practice, Challenges, and Future of Video Foundation Model](https://arxiv.org/abs/2502.10248)
