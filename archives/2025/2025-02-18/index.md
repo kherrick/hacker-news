@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-18](index.md)
 
 * [2025-02-18, 13:53:47](https://news.ycombinator.com/item?id=43089468) - [Show HN: Welcome, Cot: the Rust web framework for lazy developers](https://mackow.ski/blog/cot-the-rust-web-framework-for-lazy-developers/)
+* [2025-02-18, 13:04:47](https://news.ycombinator.com/item?id=43089013) - [Death of South Korean actor at 24 sparks discussion about internet culture](https://apnews.com/article/south-korea-actor-death-kim-sae-ron-a2ce58f4d63b423afb328709027429ba)
 * [2025-02-18, 13:01:06](https://news.ycombinator.com/item?id=43088993) - [Tesla was hit by a wave of protests, sales are crashing, insiders are waking up](https://electrek.co/2025/02/17/tesla-was-hit-by-a-wave-of-protests-over-musk-sales-are-crashing-insiders-are-waking-up/)
 * [2025-02-18, 12:58:30](https://news.ycombinator.com/item?id=43088964) - [The marketing genius of Bryan Johnson](https://www.petecodes.io/marketing-genius-of-bryan-johnson/)
 * [2025-02-18, 12:50:59](https://news.ycombinator.com/item?id=43088906) - [India's Tata Consultancy Was Gaming the US Visa System](https://www.bloomberg.com/news/features/2025-02-17/india-s-tcs-misclassified-managers-to-skirt-h-1b-rules-former-staffers-say)
