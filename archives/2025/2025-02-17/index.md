@@ -21,6 +21,7 @@
 * [2025-02-17, 21:04:33](https://news.ycombinator.com/item?id=43083280) - [Project 2025 Observer](https://www.project2025.observer/)
 * [2025-02-17, 21:00:29](https://news.ycombinator.com/item?id=43083255) - [TestRigor (YC S21) Is Hiring VP of Engineering](https://www.ycombinator.com/companies/testrigor/jobs/AuTkpC9-vp-of-engineering)
 * [2025-02-17, 20:48:37](https://news.ycombinator.com/item?id=43083151) - [Privacy Is Not Dead: Beware the All-or-Nothing Mindset](https://www.privacyguides.org/articles/2025/02/17/privacy-is-not-dead/)
+* [2025-02-17, 20:30:26](https://news.ycombinator.com/item?id=43083017) - [Why I'm writing a Scheme implementation in 2025: Async Rust](https://maplant.com/2025-02-17-Why-I%27m-Writing-a-Scheme-Implementation-in-2025-(The-Answer-is-Async-Rust).html)
 * [2025-02-17, 20:30:04](https://news.ycombinator.com/item?id=43083012) - [Plane crashes, overturns during landing at Toronto airport](https://www.cbc.ca/news/canada/toronto/toronto-pearson-overturned-airplane-1.7461227)
 * [2025-02-17, 19:57:16](https://news.ycombinator.com/item?id=43082739) - [NES86 – IBM PC Emulator for the NES](https://github.com/decrazyo/nes86)
 * [2025-02-17, 19:53:26](https://news.ycombinator.com/item?id=43082700) - [Are noise-cancelling headphones to blame for young people's hearing problems?](https://www.bbc.com/news/articles/cgkjvr7x5x6o)

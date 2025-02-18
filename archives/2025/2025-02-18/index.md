@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-18](index.md)
 
+* [2025-02-18, 12:50:59](https://news.ycombinator.com/item?id=43088906) - [India's Tata Consultancy Was Gaming the US Visa System](https://www.bloomberg.com/news/features/2025-02-17/india-s-tcs-misclassified-managers-to-skirt-h-1b-rules-former-staffers-say)
 * [2025-02-18, 12:35:34](https://news.ycombinator.com/item?id=43088785) - [Reviewing the Cryptography Used by Signal](https://soatok.blog/2025/02/18/reviewing-the-cryptography-used-by-signal/)
 * [2025-02-18, 12:00:43](https://news.ycombinator.com/item?id=43088567) - [Jiga (YC W21) Is Hiring Mongo/React/Node Engineers](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-full-stack-engineer)
 * [2025-02-18, 11:49:07](https://news.ycombinator.com/item?id=43088486) - [Linux's Sole Wireless/WiFi Driver Maintainer Is Stepping Down](https://www.phoronix.com/news/Linux-Wireless-Maintainer-2025)
