@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-18, 12:58:30](https://news.ycombinator.com/item?id=43088964) - [The marketing genius of Bryan Johnson](https://www.petecodes.io/marketing-genius-of-bryan-johnson/)
 * [2025-02-18, 12:50:59](https://news.ycombinator.com/item?id=43088906) - [India's Tata Consultancy Was Gaming the US Visa System](https://www.bloomberg.com/news/features/2025-02-17/india-s-tcs-misclassified-managers-to-skirt-h-1b-rules-former-staffers-say)
 * [2025-02-18, 12:35:34](https://news.ycombinator.com/item?id=43088785) - [Reviewing the Cryptography Used by Signal](https://soatok.blog/2025/02/18/reviewing-the-cryptography-used-by-signal/)
 * [2025-02-18, 12:00:43](https://news.ycombinator.com/item?id=43088567) - [Jiga (YC W21) Is Hiring Mongo/React/Node Engineers](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-full-stack-engineer)
@@ -21,6 +20,7 @@
 * [2025-02-17, 18:10:35](https://news.ycombinator.com/item?id=43081713) - [Debugging an Undebuggable App](https://bryce.co/undebuggable/)
 * [2025-02-17, 16:54:52](https://news.ycombinator.com/item?id=43080895) - [Launch HN: Roark (YC W25) – Taking the pain out of voice AI testing](https://news.ycombinator.com/item?id=43080895)
 * [2025-02-17, 16:23:07](https://news.ycombinator.com/item?id=43080531) - [Watch R1 \"think\" with animated chains of thought](https://github.com/dhealy05/frames_of_mind)
+* [2025-02-17, 10:57:46](https://news.ycombinator.com/item?id=43077519) - [Show HN: TimeRetain – A browser-based personal time tracker, no sign-up needed](https://timeretain.com/)
 * [2025-02-16, 21:42:03](https://news.ycombinator.com/item?id=43071983) - [I helped fix sleep-wake hangs on Linux with AMD GPUs](https://nyanpasu64.gitlab.io/blog/amdgpu-sleep-wake-hang/)
 * [2025-02-16, 12:57:16](https://news.ycombinator.com/item?id=43067639) - [Bosch's brake-by-wire system may be the next big leap in automotive tech](https://newatlas.com/automotive/bosch-brake-by-wire-system/)
 * [2025-02-16, 08:33:47](https://news.ycombinator.com/item?id=43066394) - [670nm red light exposure improved aged mitochondrial function, colour vision](https://www.nature.com/articles/s41598-021-02311-1)
