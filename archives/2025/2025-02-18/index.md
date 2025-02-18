@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-18](index.md)
 
+* [2025-02-18, 16:11:38](https://news.ycombinator.com/item?id=43091217) - [Are Electric Cars That Much Cheaper to Operate Than ICE?](https://www.pavlinbg.com/posts/are-electric-cars-really-that-much-cheaper-to-operate-than-ice)
 * [2025-02-18, 15:47:58](https://news.ycombinator.com/item?id=43090862) - [By the end of today, NASA's workforce will be about 10 percent smaller](https://arstechnica.com/space/2025/02/by-the-end-of-today-nasas-workforce-will-be-about-10-percent-smaller/)
 * [2025-02-18, 15:33:37](https://news.ycombinator.com/item?id=43090684) - [Tariffs result in 10% laptop price hike in U.S. says Acer CEO](https://www.tomshardware.com/laptops/acer-ceo-10pc-price-rise-tariffs)
 * [2025-02-18, 14:57:09](https://news.ycombinator.com/item?id=43090214) - [Show HN: Scripton – Python IDE with Built-In Realtime Visualizations](https://scripton.dev)
