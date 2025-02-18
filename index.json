@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-18, 17:00:18",
+      "https://news.ycombinator.com/item?id=43092066"
+    ],
+    [
+      "Andrej Karpathy: \"I was given early access to Grok 3 earlier today\"",
+      "https://twitter.com/karpathy/status/1891720635363254772"
+    ]
+  ],
+  [
+    [
+      "2025-02-18, 16:29:46",
+      "https://news.ycombinator.com/item?id=43091596"
+    ],
+    [
+      "Svelte 5 is not JavaScript",
+      "https://hodlbod.npub.pro/post/1739830562159/"
+    ]
+  ],
+  [
+    [
       "2025-02-18, 16:11:08",
       "https://news.ycombinator.com/item?id=43091195"
     ],
@@ -17,16 +37,6 @@
     [
       "Broadcom, TSMC Weigh Possible Intel Deals That Would Split Storied Chip Maker",
       "https://www.wsj.com/tech/broadcom-tsmc-eye-possible-intel-deals-that-would-split-storied-chip-maker-966b143b"
-    ]
-  ],
-  [
-    [
-      "2025-02-18, 15:47:58",
-      "https://news.ycombinator.com/item?id=43090862"
-    ],
-    [
-      "By the end of today, NASA's workforce will be about 10 percent smaller",
-      "https://arstechnica.com/space/2025/02/by-the-end-of-today-nasas-workforce-will-be-about-10-percent-smaller/"
     ]
   ],
   [
@@ -261,6 +271,16 @@
   ],
   [
     [
+      "2025-02-15, 16:32:17",
+      "https://news.ycombinator.com/item?id=43059779"
+    ],
+    [
+      "In Norway, Lake-Harvested Cocktail Ice Is Making a Quiet Comeback",
+      "https://vinepair.com/articles/lake-harvested-cocktail-ice-returns/"
+    ]
+  ],
+  [
+    [
       "2025-02-14, 21:53:40",
       "https://news.ycombinator.com/item?id=43053499"
     ],
@@ -277,26 +297,6 @@
     [
       "Visualize Ownership and Lifetimes in Rust",
       "https://github.com/cordx56/rustowl"
-    ]
-  ],
-  [
-    [
-      "2025-02-14, 11:36:39",
-      "https://news.ycombinator.com/item?id=43047341"
-    ],
-    [
-      "You're not a senior engineer until you've worked on a legacy project (2023)",
-      "https://www.infobip.com/developers/blog/seniors-working-on-a-legacy-project"
-    ]
-  ],
-  [
-    [
-      "2025-02-13, 20:36:11",
-      "https://news.ycombinator.com/item?id=43040986"
-    ],
-    [
-      "Spacetime maps: A map that warps to show travel time",
-      "https://maps.vvolhejn.com"
     ]
   ]
 ]
