@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-02-18](index.md)
 
 * [2025-02-18, 21:42:03](https://news.ycombinator.com/item?id=43095467) - [London Transport 25: ride 25 different forms of transport in one day](https://www.girlonthenet.com/london-transport-25/)
+* [2025-02-18, 21:09:19](https://news.ycombinator.com/item?id=43095157) - [A year of uv: pros, cons, and should you migrate](https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should)
+* [2025-02-18, 21:01:02](https://news.ycombinator.com/item?id=43095070) - [Kafka at the low end: how bad can it get?](https://broot.ca/kafka-at-the-low-end.html)
 * [2025-02-18, 21:00:58](https://news.ycombinator.com/item?id=43095067) - [Converge (YC S23) is hiring founding engineer #2 in NYC](https://jobs.gem.com/converge/am9icG9zdDreA6I3WJ4ZJ1Yx_WHS5zKP)
 * [2025-02-18, 20:29:16](https://news.ycombinator.com/item?id=43094651) - [DeepSeek 'shared user data' with TikTok owner ByteDance](https://www.bbc.com/news/articles/c4gex0x87g4o)
 * [2025-02-18, 20:15:24](https://news.ycombinator.com/item?id=43094467) - [AWS paywalling select knowledge base articles, requiring Premium Support plan](https://repost.aws/knowledge-center/eks-api-server-unauthorized-error)
@@ -57,6 +59,7 @@
 * [2025-02-18, 06:01:02](https://news.ycombinator.com/item?id=43086517) - [I was given early access to Grok 3 earlier today](https://twitter.com/karpathy/status/1891720635363254772)
 * [2025-02-18, 05:53:55](https://news.ycombinator.com/item?id=43086479) - [Show HN: Live-updating version of the 'What a week, huh?' meme](https://tintin.dlazaro.ca/)
 * [2025-02-18, 05:50:11](https://news.ycombinator.com/item?id=43086462) - [PG&E reports profit of more than $2B for 2024](https://www.mercurynews.com/2025/02/13/pge-profit-electric-gas-utility-fire-economy-bay-area-oakland-san-jose/)
+* [2025-02-18, 05:25:05](https://news.ycombinator.com/item?id=43086347) - [SWE-Lancer: a benchmark of freelance software engineering tasks from Upwork](https://arxiv.org/abs/2502.12115)
 * [2025-02-18, 04:51:01](https://news.ycombinator.com/item?id=43086170) - [Go 1.24](https://tip.golang.org/doc/go1.24)
 * [2025-02-18, 04:04:54](https://news.ycombinator.com/item?id=43085957) - [Grok3 Launch](https://x.com/xai/status/1891699715298730482)
 * [2025-02-18, 04:04:54](https://news.ycombinator.com/item?id=43085957) - [Grok3 Launch](https://twitter.com/xai/status/1891699715298730482)
