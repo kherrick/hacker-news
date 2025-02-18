@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-18, 03:14:54](https://news.ycombinator.com/item?id=43085718) - [Gravel Map](https://www.gravelmap.com/map#_=10/45.5424/-122.6544)
-* [2025-02-18, 03:14:13](https://news.ycombinator.com/item?id=43085712) - [X is reportedly blocking links to secure Signal contact pages](https://arstechnica.com/gadgets/2025/02/x-is-reportedly-blocking-links-to-secure-signal-contact-pages/)
 * [2025-02-18, 02:58:57](https://news.ycombinator.com/item?id=43085637) - [WireGuard iOS Not Available in Germany](https://old.reddit.com/r/WireGuard/comments/1irsbgi/wireguard_ios_not_available_in_germany/)
 * [2025-02-18, 02:34:37](https://news.ycombinator.com/item?id=43085492) - [A web platform for using YouTube as a drum sequencer](https://youtubesequencer.com/)
+* [2025-02-18, 01:12:36](https://news.ycombinator.com/item?id=43084998) - [John Carmack discusses SpaceX strategy and Mars](https://twitter.com/ID_AA_Carmack/status/1890178216436043828)
 * [2025-02-17, 23:18:52](https://news.ycombinator.com/item?id=43084200) - [Dedekind's Subtle Knife](https://mathenchant.wordpress.com/2025/02/17/dedekinds-subtle-knife/)
 * [2025-02-17, 23:11:33](https://news.ycombinator.com/item?id=43084145) - [On David Lynch's Revenge of the Jedi](https://www.benningtonreview.org/adam-golaski)
 * [2025-02-17, 22:09:09](https://news.ycombinator.com/item?id=43083772) - [List of DRM-Free Bookshops](https://libreture.com/bookshops/)
