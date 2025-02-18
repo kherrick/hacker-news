@@ -80,6 +80,7 @@
 * [2025-02-17, 01:24:04](https://news.ycombinator.com/item?id=43073819) - [Oklch in CSS: why we moved from RGB and HSL](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)
 * [2025-02-17, 01:22:49](https://news.ycombinator.com/item?id=43073808) - [Homemade polarimetric synthetic aperture radar drone](https://hforsten.com/homemade-polarimetric-synthetic-aperture-radar-drone.html)
 * [2025-02-17, 01:17:16](https://news.ycombinator.com/item?id=43073773) - [America will collapse by 2025 (2010)](https://www.salon.com/2010/12/06/america_collapse_2025/)
+* [2025-02-17, 00:45:01](https://news.ycombinator.com/item?id=43073527) - [A GPU-Accelerated Binary Vector Index](https://rlafuente.com/post?post=2024-6-12-a-binary-vector-store)
 * [2025-02-17, 00:39:00](https://news.ycombinator.com/item?id=43073481) - [How to add a directory to your PATH](https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/)
 * [2025-02-17, 00:27:33](https://news.ycombinator.com/item?id=43073385) - [Why bother with privacy when I have nothing to hide? (2023)](https://hannahonprivacy.substack.com/p/why-bother-with-privacy-when-i-have)
 * [2025-02-17, 00:26:04](https://news.ycombinator.com/item?id=43073377) - [Making Markets on Kalshi](https://rlafuente.com/post?post=2025-2-16-marketmaking-on-kalshi)
