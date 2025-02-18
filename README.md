@@ -27,7 +27,7 @@
 * [2025-02-17, 20:30:26](https://news.ycombinator.com/item?id=43083017) - [Why I'm writing a Scheme implementation in 2025: Async Rust](https://maplant.com/2025-02-17-Why-I%27m-Writing-a-Scheme-Implementation-in-2025-(The-Answer-is-Async-Rust).html)
 * [2025-02-17, 20:30:04](https://news.ycombinator.com/item?id=43083012) - [Plane crashes, overturns during landing at Toronto airport](https://www.cbc.ca/news/canada/toronto/toronto-pearson-overturned-airplane-1.7461227)
 * [2025-02-17, 15:29:48](https://news.ycombinator.com/item?id=43079952) - [(Ab)using general search algorithms on dynamic optimization problems (2023)](https://dubovik.eu/blog/search-algorithms)
-* [2025-02-16, 10:55:15](https://news.ycombinator.com/item?id=43067123) - [Yes you built that but at what cost?](https://www.abhinavomprakash.com/posts/tradeoffs/)
+* [2025-02-16, 08:33:47](https://news.ycombinator.com/item?id=43066394) - [670nm red light exposure improved aged mitochondrial function, colour vision](https://www.nature.com/articles/s41598-021-02311-1)
 * [2025-02-15, 11:23:46](https://news.ycombinator.com/item?id=43057721) - [Kleene as a Container Management Platform for FreeBSD](https://gyptazy.com/howto-kleene-as-a-container-management-platform-for-freebsd/)
 * [2025-02-14, 21:53:40](https://news.ycombinator.com/item?id=43053499) - [Saying goodbye to FFmpegKit](https://tanersener.medium.com/saying-goodbye-to-ffmpegkit-33ae939767e1)
 
