@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-18, 17:00:18](https://news.ycombinator.com/item?id=43092066) - [Andrej Karpathy: \"I was given early access to Grok 3 earlier today\"](https://twitter.com/karpathy/status/1891720635363254772)
+* [2025-02-18, 16:29:46](https://news.ycombinator.com/item?id=43091596) - [Svelte 5 is not JavaScript](https://hodlbod.npub.pro/post/1739830562159/)
 * [2025-02-18, 16:11:08](https://news.ycombinator.com/item?id=43091195) - [Frozen. Thawed. Not Dead: Jean Hilliard's Minnesota Story (2018)](https://www.mprnews.org/story/2018/01/25/jean-hilliard-northern-minnesota-frozen-survived)
 * [2025-02-18, 16:06:36](https://news.ycombinator.com/item?id=43091128) - [Broadcom, TSMC Weigh Possible Intel Deals That Would Split Storied Chip Maker](https://www.wsj.com/tech/broadcom-tsmc-eye-possible-intel-deals-that-would-split-storied-chip-maker-966b143b)
-* [2025-02-18, 15:47:58](https://news.ycombinator.com/item?id=43090862) - [By the end of today, NASA's workforce will be about 10 percent smaller](https://arstechnica.com/space/2025/02/by-the-end-of-today-nasas-workforce-will-be-about-10-percent-smaller/)
 * [2025-02-18, 15:33:37](https://news.ycombinator.com/item?id=43090684) - [Tariffs result in 10% laptop price hike in U.S. says Acer CEO](https://www.tomshardware.com/laptops/acer-ceo-10pc-price-rise-tariffs)
 * [2025-02-18, 14:57:09](https://news.ycombinator.com/item?id=43090214) - [Show HN: Scripton – Python IDE with Built-In Realtime Visualizations](https://scripton.dev)
 * [2025-02-18, 13:22:02](https://news.ycombinator.com/item?id=43089150) - [The Ideal Candidate Will Be Punched In the Stomach](https://www.scottsmitelli.com/articles/ideal-candidate/)
@@ -26,10 +27,9 @@
 * [2025-02-16, 08:33:47](https://news.ycombinator.com/item?id=43066394) - [670nm red light exposure improved aged mitochondrial function, colour vision](https://www.nature.com/articles/s41598-021-02311-1)
 * [2025-02-16, 08:28:07](https://news.ycombinator.com/item?id=43066367) - [Nostalgia for Physical Media](https://www.sicpers.info/2025/02/on-nostalgia-for-physical-media/)
 * [2025-02-15, 19:36:31](https://news.ycombinator.com/item?id=43061521) - [New technique generates topological structures with gravity water waves](https://phys.org/news/2025-02-tweezers-technique-generates-topological-gravity.html)
+* [2025-02-15, 16:32:17](https://news.ycombinator.com/item?id=43059779) - [In Norway, Lake-Harvested Cocktail Ice Is Making a Quiet Comeback](https://vinepair.com/articles/lake-harvested-cocktail-ice-returns/)
 * [2025-02-14, 21:53:40](https://news.ycombinator.com/item?id=43053499) - [Saying Goodbye to FFmpegKit](https://tanersener.medium.com/saying-goodbye-to-ffmpegkit-33ae939767e1)
 * [2025-02-14, 20:16:10](https://news.ycombinator.com/item?id=43052635) - [Visualize Ownership and Lifetimes in Rust](https://github.com/cordx56/rustowl)
-* [2025-02-14, 11:36:39](https://news.ycombinator.com/item?id=43047341) - [You're not a senior engineer until you've worked on a legacy project (2023)](https://www.infobip.com/developers/blog/seniors-working-on-a-legacy-project)
-* [2025-02-13, 20:36:11](https://news.ycombinator.com/item?id=43040986) - [Spacetime maps: A map that warps to show travel time](https://maps.vvolhejn.com)
 
 ## [Archives](archives/index.md)
 

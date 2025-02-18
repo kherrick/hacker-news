@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-18](index.md)
 
+* [2025-02-18, 17:00:18](https://news.ycombinator.com/item?id=43092066) - [Andrej Karpathy: \"I was given early access to Grok 3 earlier today\"](https://twitter.com/karpathy/status/1891720635363254772)
+* [2025-02-18, 16:29:46](https://news.ycombinator.com/item?id=43091596) - [Svelte 5 is not JavaScript](https://hodlbod.npub.pro/post/1739830562159/)
 * [2025-02-18, 16:11:38](https://news.ycombinator.com/item?id=43091217) - [Are Electric Cars That Much Cheaper to Operate Than ICE?](https://www.pavlinbg.com/posts/are-electric-cars-really-that-much-cheaper-to-operate-than-ice)
 * [2025-02-18, 16:11:08](https://news.ycombinator.com/item?id=43091195) - [Frozen. Thawed. Not Dead: Jean Hilliard's Minnesota Story (2018)](https://www.mprnews.org/story/2018/01/25/jean-hilliard-northern-minnesota-frozen-survived)
 * [2025-02-18, 16:06:36](https://news.ycombinator.com/item?id=43091128) - [Broadcom, TSMC Weigh Possible Intel Deals That Would Split Storied Chip Maker](https://www.wsj.com/tech/broadcom-tsmc-eye-possible-intel-deals-that-would-split-storied-chip-maker-966b143b)
