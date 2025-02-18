@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2025-02-18, 16:11:08",
-      "https://news.ycombinator.com/item?id=43091195"
-    ],
-    [
-      "Jean Hilliard's Minnesota Story (2018)",
-      "https://www.mprnews.org/story/2018/01/25/jean-hilliard-northern-minnesota-frozen-survived"
-    ]
-  ],
-  [
-    [
       "2025-02-18, 16:08:20",
       "https://news.ycombinator.com/item?id=43091159"
     ],
@@ -267,6 +257,16 @@
     [
       "(Ab)using general search algorithms on dynamic optimization problems (2023)",
       "https://dubovik.eu/blog/search-algorithms"
+    ]
+  ],
+  [
+    [
+      "2025-02-16, 21:42:03",
+      "https://news.ycombinator.com/item?id=43071983"
+    ],
+    [
+      "I helped fix sleep-wake hangs on Linux with AMD GPUs",
+      "https://nyanpasu64.gitlab.io/blog/amdgpu-sleep-wake-hang/"
     ]
   ],
   [
