@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-18](index.md)
 
+* [2025-02-18, 05:50:11](https://news.ycombinator.com/item?id=43086462) - [PG&E reports profit of more than $2B for 2024](https://www.mercurynews.com/2025/02/13/pge-profit-electric-gas-utility-fire-economy-bay-area-oakland-san-jose/)
 * [2025-02-18, 04:51:01](https://news.ycombinator.com/item?id=43086170) - [Go 1.24](https://tip.golang.org/doc/go1.24)
 * [2025-02-18, 04:04:54](https://news.ycombinator.com/item?id=43085957) - [Grok3 Launch](https://twitter.com/xai/status/1891699715298730482)
 * [2025-02-18, 03:47:00](https://news.ycombinator.com/item?id=43085885) - [The Generative AI Con](https://www.wheresyoured.at/longcon/)
