@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-19](index.md)
 
+* [2025-02-19, 22:39:02](https://news.ycombinator.com/item?id=43108673) - [AI Killed the Tech Interview. Now What?](https://kanenarraway.com/posts/ai-killed-the-tech-interview-now-what/)
 * [2025-02-19, 22:37:05](https://news.ycombinator.com/item?id=43108657) - [What should I expect from moving tech jobs from USA to Europe?](https://news.ycombinator.com/item?id=43108657)
 * [2025-02-19, 22:32:18](https://news.ycombinator.com/item?id=43108614) - [Build your own SQLite in Rust, Part 5: Evaluating queries](https://blog.sylver.dev/build-your-own-sqlite-part-5-evaluating-queries)
 * [2025-02-19, 22:23:06](https://news.ycombinator.com/item?id=43108513) - [Behavioural Patterns Are the New Skin Colour](https://www.nthprocess.com/behavioural-patterns-are-the-new-skin-colour-2/)

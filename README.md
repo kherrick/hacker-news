@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-19, 22:39:02](https://news.ycombinator.com/item?id=43108673) - [AI Killed the Tech Interview. Now What?](https://kanenarraway.com/posts/ai-killed-the-tech-interview-now-what/)
 * [2025-02-19, 22:32:18](https://news.ycombinator.com/item?id=43108614) - [Build your own SQLite in Rust, Part 5: Evaluating queries](https://blog.sylver.dev/build-your-own-sqlite-part-5-evaluating-queries)
 * [2025-02-19, 21:41:07](https://news.ycombinator.com/item?id=43108091) - [1972 Unix V2 \"Beta\" Resurrected](https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html)
 * [2025-02-19, 21:20:01](https://news.ycombinator.com/item?id=43107839) - [Malaysia is betting on data centers to boost its economy](https://apnews.com/article/malaysia-johor-data-centers-energy-electricity-power-cfb087f755d3e203a347463af229e88d)
@@ -23,7 +24,6 @@
 * [2025-02-19, 04:49:46](https://news.ycombinator.com/item?id=43098705) - [\"Ensuring Accountability for All Agencies\" – Executive Order](https://www.whitehouse.gov/presidential-actions/2025/02/ensuring-accountability-for-all-agencies/)
 * [2025-02-19, 03:41:48](https://news.ycombinator.com/item?id=43098318) - [Thoughts on Daylight Computer](https://jon.bo/posts/daylight-computer-1/)
 * [2025-02-18, 23:29:17](https://news.ycombinator.com/item?id=43096477) - [Show HN: Subtrace – Wireshark for Docker Containers](https://github.com/subtrace/subtrace)
-* [2025-02-18, 22:15:05](https://news.ycombinator.com/item?id=43095811) - [HP Acquires Humane's AI Software](https://humane.com/media/humane-hp)
 * [2025-02-18, 10:37:55](https://news.ycombinator.com/item?id=43088124) - [A secret poker game you can play on the subway](https://experience.prfalken.dev/english/subway-poker/)
 * [2025-02-17, 19:47:26](https://news.ycombinator.com/item?id=43082649) - [Show HN: MOS6502 in pure Lua running in WebAssembly](https://carimbo.run/play/1.0.43/willtobyte/MOS6502/1.0.3/480p/)
 * [2025-02-17, 16:15:48](https://news.ycombinator.com/item?id=43080445) - [How Louis Armstrong shaped the sound of Ghana](https://www.atlasobscura.com/articles/louis-armstrong-jazz-highlife-ghana)
