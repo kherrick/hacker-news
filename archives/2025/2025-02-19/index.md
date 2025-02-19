@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-02-19](index.md)
 
+* [2025-02-19, 17:49:11](https://news.ycombinator.com/item?id=43105035) - [Bill prohibiting police from lying to children passes Virginia Senate](https://www.courthousenews.com/bill-prohibiting-police-from-lying-to-children-passes-virginia-senate/)
+* [2025-02-19, 17:48:08](https://news.ycombinator.com/item?id=43105028) - [When Imperfect Systems Are Good, Actually: Bluesky's Lossy Timelines](https://jazco.dev/2025/02/19/imperfection/)
+* [2025-02-19, 17:47:15](https://news.ycombinator.com/item?id=43105014) - [The Future of Watmm](https://forum.watmm.com/announcement/67-the-future-of-watmm-please-read/)
 * [2025-02-19, 17:23:05](https://news.ycombinator.com/item?id=43104684) - [European Alternatives for Popular Services](https://european-alternatives.eu/alternatives-to)
 * [2025-02-19, 17:00:42](https://news.ycombinator.com/item?id=43104400) - [Unsloth AI (YC S24) is hiring ML engineers](https://x.com/danielhanchen/status/1891194528931209644)
 * [2025-02-19, 16:35:51](https://news.ycombinator.com/item?id=43104071) - [Microsoft unveils Majorana 1 quantum processor](https://azure.microsoft.com/en-us/blog/quantum/2025/02/19/microsoft-unveils-majorana-1-the-worlds-first-quantum-processor-powered-by-topological-qubits/)
