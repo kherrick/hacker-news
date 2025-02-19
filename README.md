@@ -11,6 +11,7 @@
 * [2025-02-18, 21:09:19](https://news.ycombinator.com/item?id=43095157) - [A year of uv: pros, cons, and should you migrate](https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should)
 * [2025-02-18, 21:01:02](https://news.ycombinator.com/item?id=43095070) - [Kafka at the low end: how bad can it get?](https://broot.ca/kafka-at-the-low-end.html)
 * [2025-02-18, 21:00:58](https://news.ycombinator.com/item?id=43095067) - [Converge (YC S23) is hiring engineer #2 in NYC](https://jobs.gem.com/converge/am9icG9zdDreA6I3WJ4ZJ1Yx_WHS5zKP)
+* [2025-02-18, 20:29:16](https://news.ycombinator.com/item?id=43094651) - [South Korean regulator accuses DeepSeek of sharing user data with ByteDance](https://www.bbc.com/news/articles/c4gex0x87g4o)
 * [2025-02-18, 19:57:17](https://news.ycombinator.com/item?id=43094260) - [Valve releases Team Fortress 2 code](https://github.com/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9)
 * [2025-02-18, 19:33:32](https://news.ycombinator.com/item?id=43094006) - [My LLM codegen workflow](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/)
 * [2025-02-18, 19:26:33](https://news.ycombinator.com/item?id=43093939) - [Nuclear fusion: WEST beats the world record for plasma duration](https://www.cea.fr/english/Pages/News/nuclear-fusion-west-beats-the-world-record-for-plasma-duration.aspx)
@@ -28,7 +29,6 @@
 * [2025-02-17, 05:31:14](https://news.ycombinator.com/item?id=43075511) - [OpenArc – Lightweight Inference Server for OpenVINO](https://github.com/SearchSavior/OpenArc)
 * [2025-02-16, 19:13:15](https://news.ycombinator.com/item?id=43070744) - [Grim Fandango Puzzle Document (1996) [pdf]](http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf)
 * [2025-02-16, 13:50:31](https://news.ycombinator.com/item?id=43067960) - [The number line freaks me out (2016)](https://mathwithbaddrawings.com/2016/12/28/why-the-number-line-freaks-me-out/)
-* [2025-02-15, 09:59:51](https://news.ycombinator.com/item?id=43057346) - [The danger of relying on OpenAI's Deep Research](https://www.economist.com/finance-and-economics/2025/02/13/the-danger-of-relying-on-openais-deep-research)
 * [2025-02-15, 02:44:05](https://news.ycombinator.com/item?id=43055400) - [Little Sisyphus A physics-based platformer for the NES](https://pubby.games/sisyphus.html)
 
 ## [Archives](archives/index.md)
