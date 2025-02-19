@@ -53,6 +53,7 @@
 * [2025-02-17, 11:18:29](https://news.ycombinator.com/item?id=43077675) - [0+0 > 0: C++ thread-local storage performance](https://yosefk.com/blog/cxx-thread-local-storage-performance.html)
 * [2025-02-17, 11:02:33](https://news.ycombinator.com/item?id=43077551) - [Techie pointed out meetings are pointless, and was punished for it](https://www.theregister.com/2025/02/17/who_me/)
 * [2025-02-17, 10:57:46](https://news.ycombinator.com/item?id=43077519) - [Show HN: TimeRetain – A browser-based personal time tracker, no sign-up needed](https://timeretain.com/)
+* [2025-02-17, 10:51:06](https://news.ycombinator.com/item?id=43077473) - [Beautiful, Boring, and Without Soul](https://www.doc.cc/articles/beautiful-boring-and-without-soul)
 * [2025-02-17, 10:32:32](https://news.ycombinator.com/item?id=43077340) - [Ask HN: Ways to progress career wise as SWE?](https://news.ycombinator.com/item?id=43077340)
 * [2025-02-17, 10:09:56](https://news.ycombinator.com/item?id=43077175) - [Broligarchy does not build civilization](https://not-a-tech-bro.ghost.io/broligarchy-does-not-build-civilization/)
 * [2025-02-17, 09:56:55](https://news.ycombinator.com/item?id=43077091) - [An early social un-network](https://paperstack.com/an_early_social_unnetwork/)
