@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-02-19](index.md)
+
+* [2025-02-19, 00:18:52](https://news.ycombinator.com/item?id=43096922) - [Meta announces LlamaCon, its first generative AI dev conference on April 29](https://www.meta.com/blog/connect-2025-llamacon-save-the-date/)

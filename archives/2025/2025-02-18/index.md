@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-18](index.md)
 
+* [2025-02-18, 23:22:22](https://news.ycombinator.com/item?id=43096422) - [Alice Hamilton Waged a One-Woman Campaign to Get the Lead Out of Everything](https://www.smithsonianmag.com/innovation/how-alice-hamilton-waged-one-woman-campaign-get-lead-out-everything-180985960/)
+* [2025-02-18, 23:04:42](https://news.ycombinator.com/item?id=43096272) - [Brazil mayor was shot in 'fake attack' for election boost but lost in landslide](https://www.theguardian.com/world/2025/feb/18/brazil-mayor-election-attack)
 * [2025-02-18, 22:15:05](https://news.ycombinator.com/item?id=43095811) - [HP Acquires Humane's AI Software](https://humane.com/media/humane-hp)
 * [2025-02-18, 21:42:03](https://news.ycombinator.com/item?id=43095467) - [London Transport 25: ride 25 different forms of transport in one day](https://www.girlonthenet.com/london-transport-25/)
 * [2025-02-18, 21:09:19](https://news.ycombinator.com/item?id=43095157) - [A year of uv: pros, cons, and should you migrate](https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should)
