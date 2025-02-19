@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-19](index.md)
 
 * [2025-02-19, 20:42:27](https://news.ycombinator.com/item?id=43107394) - [A Language Server for Postgres](https://github.com/supabase-community/postgres_lsp)
+* [2025-02-19, 20:41:22](https://news.ycombinator.com/item?id=43107382) - [How Apple's Closed-Source Approach Is Losing Out to AI App Builders](https://www.telkins.dev/blog/how-apples-closed-source-approach-is-losing-out-to-ai-app-builders)
 * [2025-02-19, 20:31:34](https://news.ycombinator.com/item?id=43107244) - [A Clang regression related to switch statements and inlining](https://nicula.xyz/2025/02/16/clang-and-big-switches.html)
 * [2025-02-19, 19:36:20](https://news.ycombinator.com/item?id=43106454) - [Minuteman III test showcases readiness of U.S. nuclear force's deterrent](https://www.stratcom.mil/Media/News/News-Article-View/Article/4070577/minuteman-iii-test-launch-showcases-readiness-of-us-nuclear-forces-safe-effecti/)
 * [2025-02-19, 19:22:01](https://news.ycombinator.com/item?id=43106245) - [One Head, Two Brains (2015)](https://www.theatlantic.com/health/archive/2015/07/split-brain-research-sperry-gazzaniga/399290/)
