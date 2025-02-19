@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-19](index.md)
 
+* [2025-02-19, 14:57:29](https://news.ycombinator.com/item?id=43102775) - [America stopped caring how poor kids do in school](https://www.slowboring.com/p/america-stopped-caring-how-poor-kids)
 * [2025-02-19, 14:57:08](https://news.ycombinator.com/item?id=43102771) - [Cargo Cult Programming](https://en.wikipedia.org/wiki/Cargo_cult_programming)
 * [2025-02-19, 14:21:03](https://news.ycombinator.com/item?id=43102425) - [Gravitational Effects of Small Primordial Black Hole Passing Through Human Body](https://arxiv.org/abs/2502.09734)
 * [2025-02-19, 14:15:54](https://news.ycombinator.com/item?id=43102375) - ['Pokémon Go' Maker Nears $3.5B Deal to Sell Games Unit](https://www.bloomberg.com/news/articles/2025-02-19/-pokemon-go-maker-nears-3-5-billion-deal-to-sell-games-unit)
