@@ -7,6 +7,7 @@
 * [2025-02-15, 23:26:18](https://news.ycombinator.com/item?id=43063512) - [Dismissed Nuclear Bomb Specialists Recalled by Energy Department](https://www.bloomberg.com/news/articles/2025-02-14/dismissed-nuclear-bomb-specialists-recalled-by-energy-department)
 * [2025-02-15, 22:48:56](https://news.ycombinator.com/item?id=43063239) - [Create a QubesOS Gaming HVM with GPU PCI passthrough (2023)](https://forum.qubes-os.org/t/create-a-gaming-hvm/19000)
 * [2025-02-15, 22:39:19](https://news.ycombinator.com/item?id=43063167) - [Jellyfin: The Free Software Media System](https://jellyfin.org/)
+* [2025-02-15, 22:24:02](https://news.ycombinator.com/item?id=43063011) - [BleachBit is a free and open-source disk space cleaner](https://www.bleachbit.org/)
 * [2025-02-15, 21:32:13](https://news.ycombinator.com/item?id=43062546) - [Watt The Fox?](https://h.43z.one/blog/2025-02-12/)
 * [2025-02-15, 21:20:34](https://news.ycombinator.com/item?id=43062457) - [The European Vat Is Not a Discriminatory Tax Against US Exports](https://taxfoundation.org/blog/trump-reciprocal-tariffs-eu-vat-discriminatory/)
 * [2025-02-15, 21:18:53](https://news.ycombinator.com/item?id=43062436) - [The True Costs of Being on YouTube](https://carlalallimusic.substack.com/p/the-true-costs-of-being-on-youtube)
