@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-19, 04:48:09](https://news.ycombinator.com/item?id=43098690) - [Go-msquic: A new QUIC/HTTP3 library for Go](https://github.com/noboruma/go-msquic)
 * [2025-02-19, 03:41:48](https://news.ycombinator.com/item?id=43098318) - [Thoughts on Daylight Computer](https://jon.bo/posts/daylight-computer-1/)
 * [2025-02-19, 02:37:10](https://news.ycombinator.com/item?id=43097932) - [Implementing LLaMA3 in 100 Lines of Pure Jax](https://saurabhalone.com/blogs/llama3/web)
 * [2025-02-19, 02:19:46](https://news.ycombinator.com/item?id=43097814) - [Augment.vim: AI Chat and completion in Vim and Neovim](https://github.com/augmentcode/augment.vim)
@@ -22,7 +23,6 @@
 * [2025-02-18, 15:47:25](https://news.ycombinator.com/item?id=43090857) - [Migraine is more than a headache – a rethink offers hope](https://www.nature.com/articles/d41586-025-00456-x)
 * [2025-02-18, 14:57:09](https://news.ycombinator.com/item?id=43090214) - [Show HN: Scripton – Python IDE with built-in realtime visualizations](https://scripton.dev)
 * [2025-02-18, 10:02:30](https://news.ycombinator.com/item?id=43087944) - [XOR](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/xor/)
-* [2025-02-18, 08:48:16](https://news.ycombinator.com/item?id=43087482) - [Making my debug build run 100x faster so that it is finally usable](https://gaultier.github.io/blog/making_my_debug_build_run_100_times_faster.html)
 * [2025-02-18, 05:25:05](https://news.ycombinator.com/item?id=43086347) - [SWE-Lancer: a benchmark of freelance software engineering tasks from Upwork](https://arxiv.org/abs/2502.12115)
 * [2025-02-17, 00:45:01](https://news.ycombinator.com/item?id=43073527) - [Show HN: A GPU-accelerated binary vector index](https://rlafuente.com/post?post=2024-6-12-a-binary-vector-store)
 * [2025-02-16, 19:13:15](https://news.ycombinator.com/item?id=43070744) - [Grim Fandango Puzzle Document (1996) [pdf]](http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf)
