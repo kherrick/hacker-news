@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-19, 13:14:16](https://news.ycombinator.com/item?id=43101774) - [Experiment: Can 3D improve AI video consistency?](https://backdroptech.github.io/3d-to-video/)
-* [2025-02-19, 13:12:34](https://news.ycombinator.com/item?id=43101757) - [Doge Claimed It Saved $8B in One Contract. It Was $8M](https://www.nytimes.com/2025/02/18/upshot/doge-contracts-musk-trump.html)
 * [2025-02-19, 12:40:58](https://news.ycombinator.com/item?id=43101430) - [Debugging Hetzner: Uncovering failures with powerstat, sensors, and dmidecode](https://www.ubicloud.com/blog/debugging-hetzner-uncovering-failures-with-powerstat-sensors-and-dmidecode)
 * [2025-02-19, 12:36:06](https://news.ycombinator.com/item?id=43101383) - [Broken Legs and Ankles Heal Better If You Walk on Them Within Weeks](https://www.scientificamerican.com/article/broken-legs-and-ankles-heal-better-if-you-walk-on-them-within-weeks/)
-* [2025-02-19, 09:42:03](https://news.ycombinator.com/item?id=43100359) - [Are SSDs more reliable than hard drives?](https://www.backblaze.com/blog/are-ssds-really-more-reliable-than-hard-drives/)
+* [2025-02-19, 12:22:45](https://news.ycombinator.com/item?id=43101280) - [Show HN: I analyzed 1500+ job ads to find the most wanted skills by recruiters](https://skillsets.tech/)
+* [2025-02-19, 10:35:28](https://news.ycombinator.com/item?id=43100648) - [The reality of long-term software maintenance from the maintainer's perspective](https://www.construct.net/en/blogs/ashleys-blog-2/reality-long-term-software-1892)
 * [2025-02-19, 08:04:45](https://news.ycombinator.com/item?id=43099793) - [The 88x31 GIF Collection](https://cyber.dabamos.de/88x31/)
 * [2025-02-19, 04:48:09](https://news.ycombinator.com/item?id=43098690) - [Go-msquic: A new QUIC/HTTP3 library for Go](https://github.com/noboruma/go-msquic)
 * [2025-02-19, 04:35:16](https://news.ycombinator.com/item?id=43098626) - [Steve Jackson Games Is Bringing the Fighting Fantasy Books to the US](https://www.sjgames.com/fightingfantasy/)
