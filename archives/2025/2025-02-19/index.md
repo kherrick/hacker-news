@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-19](index.md)
 
 * [2025-02-19, 19:01:15](https://news.ycombinator.com/item?id=43105961) - [Kids Love Landline Phones](https://www.rnz.co.nz/news/national/542294/who-still-has-a-landline-phone)
+* [2025-02-19, 19:00:31](https://news.ycombinator.com/item?id=43105950) - [Physical attractiveness outweighs intelligence in decision making](https://www.psypost.org/physical-attractiveness-outweighs-intelligence-in-daughters-and-parents-mate-choices/)
 * [2025-02-19, 18:24:26](https://news.ycombinator.com/item?id=43105472) - [Trump administration kills New York City's congestion pricing](https://www.cnn.com/2025/02/19/business/trump-kills-congestion-pricing-nyc/index.html)
 * [2025-02-19, 18:22:09](https://news.ycombinator.com/item?id=43105444) - [Typst 0.13 is out now](https://typst.app/blog/2025/typst-0.13/)
 * [2025-02-19, 18:16:06](https://news.ycombinator.com/item?id=43105357) - [An inside look at NSA tactics, techniques and procedures from China's lens](https://www.inversecos.com/2025/02/an-inside-look-at-nsa-equation-group.html)
