@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-18](index.md)
 
+* [2025-02-18, 23:29:17](https://news.ycombinator.com/item?id=43096477) - [Show HN: Subtrace – Wireshark for Docker Containers](https://github.com/subtrace/subtrace)
 * [2025-02-18, 23:22:22](https://news.ycombinator.com/item?id=43096422) - [Alice Hamilton Waged a One-Woman Campaign to Get the Lead Out of Everything](https://www.smithsonianmag.com/innovation/how-alice-hamilton-waged-one-woman-campaign-get-lead-out-everything-180985960/)
 * [2025-02-18, 23:04:42](https://news.ycombinator.com/item?id=43096272) - [Brazil mayor was shot in 'fake attack' for election boost but lost in landslide](https://www.theguardian.com/world/2025/feb/18/brazil-mayor-election-attack)
 * [2025-02-18, 22:15:05](https://news.ycombinator.com/item?id=43095811) - [HP Acquires Humane's AI Software](https://humane.com/media/humane-hp)
