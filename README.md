@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-19, 17:23:05](https://news.ycombinator.com/item?id=43104684) - [European Alternatives for Popular Services](https://european-alternatives.eu/alternatives-to)
 * [2025-02-19, 17:00:42](https://news.ycombinator.com/item?id=43104400) - [Unsloth AI (YC S24) is hiring ML engineers](https://x.com/danielhanchen/status/1891194528931209644)
 * [2025-02-19, 16:35:51](https://news.ycombinator.com/item?id=43104071) - [Microsoft unveils Majorana 1 quantum processor](https://azure.microsoft.com/en-us/blog/quantum/2025/02/19/microsoft-unveils-majorana-1-the-worlds-first-quantum-processor-powered-by-topological-qubits/)
+* [2025-02-19, 16:06:27](https://news.ycombinator.com/item?id=43103623) - [Microsoft's Majorana 1 chip carves new path for quantum computing](https://news.microsoft.com/source/features/ai/microsofts-majorana-1-chip-carves-new-path-for-quantum-computing/)
 * [2025-02-19, 16:05:10](https://news.ycombinator.com/item?id=43103604) - [Relaxed Radix Balanced Trees](https://peter.horne-khan.com/relaxed-radix-balanced-trees/)
 * [2025-02-19, 16:00:25](https://news.ycombinator.com/item?id=43103536) - [Apple Debuts iPhone 16e](https://www.apple.com/newsroom/2025/02/apple-debuts-iphone-16e-a-powerful-new-member-of-the-iphone-16-family/)
 * [2025-02-19, 15:46:36](https://news.ycombinator.com/item?id=43103333) - [Troubled electric truck maker Nikola files for bankruptcy](https://techcrunch.com/2025/02/19/troubled-electric-truck-maker-nikola-files-for-bankruptcy/)
