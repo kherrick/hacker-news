@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-19, 15:46:36](https://news.ycombinator.com/item?id=43103333) - [Troubled electric truck maker Nikola files for bankruptcy](https://techcrunch.com/2025/02/19/troubled-electric-truck-maker-nikola-files-for-bankruptcy/)
-* [2025-02-19, 14:57:29](https://news.ycombinator.com/item?id=43102775) - [America stopped caring how poor kids do in school](https://www.slowboring.com/p/america-stopped-caring-how-poor-kids)
+* [2025-02-19, 15:42:00](https://news.ycombinator.com/item?id=43103272) - [Apache Airflow: Key Use Cases, Architectural Insights, and Pro Tips](https://codingcops.com/apache-airflow/)
+* [2025-02-19, 15:25:00](https://news.ycombinator.com/item?id=43103071) - [Electric-truck maker Nikola files for Chapter 11 bankruptcy protection](https://www.cnn.com/2025/02/19/business/ev-nikola-chapter-11-bankruptcy/index.html)
+* [2025-02-19, 14:29:11](https://news.ycombinator.com/item?id=43102491) - [1977 Jazz-Funk Musical Adaptation of Dune by David Matthews](https://www.openculture.com/2025/02/hear-the-jazz-funk-musical-adaptation-of-dune-by-david-matthews-1977.html)
 * [2025-02-19, 14:21:03](https://news.ycombinator.com/item?id=43102425) - [Gravitational Effects of Small Primordial Black Hole Passing Through Human Body](https://arxiv.org/abs/2502.09734)
 * [2025-02-19, 13:54:51](https://news.ycombinator.com/item?id=43102182) - [Seeing Through the Spartan Mirage](https://worldhistory.substack.com/p/the-spartan-mirage)
 * [2025-02-19, 12:40:58](https://news.ycombinator.com/item?id=43101430) - [Debugging Hetzner: Uncovering failures with powerstat, sensors, and dmidecode](https://www.ubicloud.com/blog/debugging-hetzner-uncovering-failures-with-powerstat-sensors-and-dmidecode)
@@ -10,7 +12,6 @@
 * [2025-02-19, 04:48:09](https://news.ycombinator.com/item?id=43098690) - [Go-msquic: A new QUIC/HTTP3 library for Go](https://github.com/noboruma/go-msquic)
 * [2025-02-19, 03:41:48](https://news.ycombinator.com/item?id=43098318) - [Thoughts on Daylight Computer](https://jon.bo/posts/daylight-computer-1/)
 * [2025-02-19, 02:37:10](https://news.ycombinator.com/item?id=43097932) - [Implementing LLaMA3 in 100 Lines of Pure Jax](https://saurabhalone.com/blogs/llama3/web)
-* [2025-02-19, 02:19:46](https://news.ycombinator.com/item?id=43097814) - [Augment.vim: AI Chat and completion in Vim and Neovim](https://github.com/augmentcode/augment.vim)
 * [2025-02-19, 02:09:49](https://news.ycombinator.com/item?id=43097747) - [The Unbrickable Pledge](https://usetrmnl.com/blog/the-unbrickable-pledge)
 * [2025-02-19, 00:25:10](https://news.ycombinator.com/item?id=43096975) - [Parsing JSON in 500 lines of Rust](https://www.krish.gg/blog/json-parser-in-rust)
 * [2025-02-18, 23:22:22](https://news.ycombinator.com/item?id=43096422) - [Alice Hamilton waged a one-woman campaign to get the lead out of everything](https://www.smithsonianmag.com/innovation/how-alice-hamilton-waged-one-woman-campaign-get-lead-out-everything-180985960/)
@@ -28,7 +29,6 @@
 * [2025-02-16, 19:02:14](https://news.ycombinator.com/item?id=43070619) - [Gaining Years of Experience in a Few Months](https://marcgg.com/blog/2025/02/11/high-growth/)
 * [2025-02-16, 10:13:31](https://news.ycombinator.com/item?id=43066927) - [Meta Project Aria - Smart Glasses Research Kit](https://www.projectaria.com/research-kit/?_fb_noscript=1)
 * [2025-02-16, 08:22:46](https://news.ycombinator.com/item?id=43066340) - [Designer Diary: Panda Royale](https://boardgamegeek.com/blog/1/blogpost/165251/designer-diary-panda-royale)
-* [2025-02-15, 22:24:02](https://news.ycombinator.com/item?id=43063011) - [BleachBit is a free and open-source disk space cleaner](https://www.bleachbit.org/)
 * [2025-02-15, 12:04:31](https://news.ycombinator.com/item?id=43057898) - [Engineering of human cells reveals genome's resilience to structural changes](https://phys.org/news/2025-01-complex-human-cell-lines-reveals.html)
 
 ## [Archives](archives/index.md)
