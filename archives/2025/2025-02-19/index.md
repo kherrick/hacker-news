@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-19](index.md)
 
+* [2025-02-19, 12:40:58](https://news.ycombinator.com/item?id=43101430) - [Debugging Hetzner: Uncovering failures with powerstat, sensors, and dmidecode](https://www.ubicloud.com/blog/debugging-hetzner-uncovering-failures-with-powerstat-sensors-and-dmidecode)
+* [2025-02-19, 12:16:21](https://news.ycombinator.com/item?id=43101231) - [NASA says 'City killer' asteroid now has 3.1% chance of hitting Earth](https://www.france24.com/en/live-news/20250218-city-killer-asteroid-now-has-3-1-chance-of-hitting-earth-nasa)
 * [2025-02-19, 11:39:06](https://news.ycombinator.com/item?id=43101009) - [A SpaceX team is being brought in to overhaul FAA's air traffic control system](https://www.theverge.com/news/614078/faa-air-traffic-control-spacex-elon-musk-layoff-staff-shortage)
 * [2025-02-19, 10:35:28](https://news.ycombinator.com/item?id=43100648) - [The reality of long-term software maintenance from the maintainer's perspective](https://www.construct.net/en/blogs/ashleys-blog-2/reality-long-term-software-1892)
 * [2025-02-19, 09:42:03](https://news.ycombinator.com/item?id=43100359) - [Are SSDs more reliable than hard drives?](https://www.backblaze.com/blog/are-ssds-really-more-reliable-than-hard-drives/)
