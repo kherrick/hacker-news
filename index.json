@@ -61,22 +61,22 @@
   ],
   [
     [
-      "2025-02-19, 12:22:45",
-      "https://news.ycombinator.com/item?id=43101280"
+      "2025-02-19, 10:35:28",
+      "https://news.ycombinator.com/item?id=43100648"
     ],
     [
-      "Show HN: I analyzed 1500+ job ads to find the most wanted skills by recruiters",
-      "https://skillsets.tech/"
+      "The reality of long-term software maintenance from the maintainer's perspective",
+      "https://www.construct.net/en/blogs/ashleys-blog-2/reality-long-term-software-1892"
     ]
   ],
   [
     [
-      "2025-02-19, 08:04:45",
-      "https://news.ycombinator.com/item?id=43099793"
+      "2025-02-19, 04:49:46",
+      "https://news.ycombinator.com/item?id=43098705"
     ],
     [
-      "The 88x31 GIF Collection",
-      "https://cyber.dabamos.de/88x31/"
+      "Ensuring Accountability for All Agencies",
+      "https://www.whitehouse.gov/presidential-actions/2025/02/ensuring-accountability-for-all-agencies/"
     ]
   ],
   [
@@ -87,16 +87,6 @@
     [
       "Go-msquic: A new QUIC/HTTP3 library for Go",
       "https://github.com/noboruma/go-msquic"
-    ]
-  ],
-  [
-    [
-      "2025-02-19, 04:35:16",
-      "https://news.ycombinator.com/item?id=43098626"
-    ],
-    [
-      "Steve Jackson Games Is Bringing the Fighting Fantasy Books to the US",
-      "https://www.sjgames.com/fightingfantasy/"
     ]
   ],
   [
@@ -131,6 +121,16 @@
   ],
   [
     [
+      "2025-02-19, 00:25:10",
+      "https://news.ycombinator.com/item?id=43096975"
+    ],
+    [
+      "Parsing JSON in 500 lines of Rust",
+      "https://www.krish.gg/blog/json-parser-in-rust"
+    ]
+  ],
+  [
+    [
       "2025-02-18, 23:22:22",
       "https://news.ycombinator.com/item?id=43096422"
     ],
@@ -147,16 +147,6 @@
     [
       "HP Acquires Humane's AI Software",
       "https://humane.com/media/humane-hp"
-    ]
-  ],
-  [
-    [
-      "2025-02-18, 21:09:19",
-      "https://news.ycombinator.com/item?id=43095157"
-    ],
-    [
-      "A year of uv: pros, cons, and should you migrate",
-      "https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should"
     ]
   ],
   [
@@ -191,22 +181,22 @@
   ],
   [
     [
-      "2025-02-18, 16:55:22",
-      "https://news.ycombinator.com/item?id=43092003"
-    ],
-    [
-      "One year after switching from Java to Go",
-      "https://glasskube.dev/blog/from-java-to-go/"
-    ]
-  ],
-  [
-    [
       "2025-02-18, 16:24:01",
       "https://news.ycombinator.com/item?id=43091466"
     ],
     [
       "File Pilot: A file explorer built for speed with a modern, robust interface",
       "https://filepilot.tech/"
+    ]
+  ],
+  [
+    [
+      "2025-02-18, 15:47:25",
+      "https://news.ycombinator.com/item?id=43090857"
+    ],
+    [
+      "Migraine is more than a headache – a rethink offers hope",
+      "https://www.nature.com/articles/d41586-025-00456-x"
     ]
   ],
   [
@@ -231,12 +221,32 @@
   ],
   [
     [
+      "2025-02-18, 05:25:05",
+      "https://news.ycombinator.com/item?id=43086347"
+    ],
+    [
+      "SWE-Lancer: a benchmark of freelance software engineering tasks from Upwork",
+      "https://arxiv.org/abs/2502.12115"
+    ]
+  ],
+  [
+    [
       "2025-02-17, 09:56:55",
       "https://news.ycombinator.com/item?id=43077091"
     ],
     [
       "An early social un-network",
       "https://paperstack.com/an_early_social_unnetwork/"
+    ]
+  ],
+  [
+    [
+      "2025-02-16, 19:13:15",
+      "https://news.ycombinator.com/item?id=43070744"
+    ],
+    [
+      "Grim Fandango Puzzle Document (1996) [pdf]",
+      "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Designer Diary: Panda Royale",
       "https://boardgamegeek.com/blog/1/blogpost/165251/designer-diary-panda-royale"
-    ]
-  ],
-  [
-    [
-      "2025-02-16, 00:52:52",
-      "https://news.ycombinator.com/item?id=43064200"
-    ],
-    [
-      "How X-Plane Works",
-      "https://www.x-plane.com/desktop/how-x-plane-works/"
     ]
   ],
   [
