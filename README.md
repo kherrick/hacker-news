@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-19, 09:42:03](https://news.ycombinator.com/item?id=43100359) - [Are SSDs more reliable than hard drives?](https://www.backblaze.com/blog/are-ssds-really-more-reliable-than-hard-drives/)
+* [2025-02-19, 08:04:45](https://news.ycombinator.com/item?id=43099793) - [The 88x31 GIF Collection](https://cyber.dabamos.de/88x31/)
 * [2025-02-19, 04:48:09](https://news.ycombinator.com/item?id=43098690) - [Go-msquic: A new QUIC/HTTP3 library for Go](https://github.com/noboruma/go-msquic)
 * [2025-02-19, 04:35:16](https://news.ycombinator.com/item?id=43098626) - [Steve Jackson Games Is Bringing the Fighting Fantasy Books to the US](https://www.sjgames.com/fightingfantasy/)
 * [2025-02-19, 03:41:48](https://news.ycombinator.com/item?id=43098318) - [Thoughts on Daylight Computer](https://jon.bo/posts/daylight-computer-1/)
@@ -12,7 +14,6 @@
 * [2025-02-18, 21:01:02](https://news.ycombinator.com/item?id=43095070) - [Kafka at the low end: how bad can it get?](https://broot.ca/kafka-at-the-low-end.html)
 * [2025-02-18, 21:00:58](https://news.ycombinator.com/item?id=43095067) - [Converge (YC S23) is hiring engineer #2 in NYC](https://jobs.gem.com/converge/am9icG9zdDreA6I3WJ4ZJ1Yx_WHS5zKP)
 * [2025-02-18, 19:57:17](https://news.ycombinator.com/item?id=43094260) - [Valve releases Team Fortress 2 code](https://github.com/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9)
-* [2025-02-18, 19:33:32](https://news.ycombinator.com/item?id=43094006) - [My LLM codegen workflow](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/)
 * [2025-02-18, 19:26:33](https://news.ycombinator.com/item?id=43093939) - [Nuclear fusion: WEST beats the world record for plasma duration](https://www.cea.fr/english/Pages/News/nuclear-fusion-west-beats-the-world-record-for-plasma-duration.aspx)
 * [2025-02-18, 18:31:36](https://news.ycombinator.com/item?id=43093328) - [Pi-hole v6](https://pi-hole.net/blog/2025/02/18/introducing-pi-hole-v6/)
 * [2025-02-18, 17:30:39](https://news.ycombinator.com/item?id=43092522) - [Launch HN: Promptless (YC W25) – Automatic updates for customer-facing docs](https://news.ycombinator.com/item?id=43092522)
@@ -23,7 +24,6 @@
 * [2025-02-18, 10:02:30](https://news.ycombinator.com/item?id=43087944) - [XOR](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/xor/)
 * [2025-02-18, 05:25:05](https://news.ycombinator.com/item?id=43086347) - [SWE-Lancer: a benchmark of freelance software engineering tasks from Upwork](https://arxiv.org/abs/2502.12115)
 * [2025-02-17, 23:43:22](https://news.ycombinator.com/item?id=43084350) - [Programming with chronic pain](https://thomasvogelaar.me/posts/programming-with-chronic-pain/)
-* [2025-02-17, 00:45:01](https://news.ycombinator.com/item?id=43073527) - [Show HN: A GPU-accelerated binary vector index](https://rlafuente.com/post?post=2024-6-12-a-binary-vector-store)
 * [2025-02-16, 22:35:15](https://news.ycombinator.com/item?id=43072451) - [A New Oral Culture](https://www.oblomovka.com/wp/2025/02/12/a-new-oral-culture/)
 * [2025-02-16, 19:13:15](https://news.ycombinator.com/item?id=43070744) - [Grim Fandango Puzzle Document (1996) [pdf]](http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf)
 * [2025-02-16, 00:52:52](https://news.ycombinator.com/item?id=43064200) - [How X-Plane Works](https://www.x-plane.com/desktop/how-x-plane-works/)
