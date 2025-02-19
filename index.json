@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-19, 17:00:42",
+      "https://news.ycombinator.com/item?id=43104400"
+    ],
+    [
+      "Unsloth AI (YC S24) is hiring ML engineers",
+      "https://x.com/danielhanchen/status/1891194528931209644"
+    ]
+  ],
+  [
+    [
+      "2025-02-19, 16:35:51",
+      "https://news.ycombinator.com/item?id=43104071"
+    ],
+    [
+      "Microsoft unveils Majorana 1 quantum processor",
+      "https://azure.microsoft.com/en-us/blog/quantum/2025/02/19/microsoft-unveils-majorana-1-the-worlds-first-quantum-processor-powered-by-topological-qubits/"
+    ]
+  ],
+  [
+    [
       "2025-02-19, 16:05:10",
       "https://news.ycombinator.com/item?id=43103604"
     ],
@@ -27,6 +47,16 @@
     [
       "Troubled electric truck maker Nikola files for bankruptcy",
       "https://techcrunch.com/2025/02/19/troubled-electric-truck-maker-nikola-files-for-bankruptcy/"
+    ]
+  ],
+  [
+    [
+      "2025-02-19, 15:25:08",
+      "https://news.ycombinator.com/item?id=43103073"
+    ],
+    [
+      "Show HN: Mastra – Open-source TypeScript agent framework",
+      "https://github.com/mastra-ai/mastra"
     ]
   ],
   [
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2025-02-19, 10:35:28",
-      "https://news.ycombinator.com/item?id=43100648"
-    ],
-    [
-      "The reality of long-term software maintenance from the maintainer's perspective",
-      "https://www.construct.net/en/blogs/ashleys-blog-2/reality-long-term-software-1892"
-    ]
-  ],
-  [
-    [
       "2025-02-19, 04:48:09",
       "https://news.ycombinator.com/item?id=43098690"
     ],
@@ -137,6 +157,16 @@
     [
       "Implementing LLaMA3 in 100 Lines of Pure Jax",
       "https://saurabhalone.com/blogs/llama3/web"
+    ]
+  ],
+  [
+    [
+      "2025-02-18, 23:29:17",
+      "https://news.ycombinator.com/item?id=43096477"
+    ],
+    [
+      "Show HN: Subtrace – Wireshark for Docker Containers",
+      "https://github.com/subtrace/subtrace"
     ]
   ],
   [
@@ -177,16 +207,6 @@
     [
       "Nuclear fusion: WEST beats the world record for plasma duration",
       "https://www.cea.fr/english/Pages/News/nuclear-fusion-west-beats-the-world-record-for-plasma-duration.aspx"
-    ]
-  ],
-  [
-    [
-      "2025-02-18, 17:30:39",
-      "https://news.ycombinator.com/item?id=43092522"
-    ],
-    [
-      "Launch HN: Promptless (YC W25) – Automatic updates for customer-facing docs",
-      "https://news.ycombinator.com/item?id=43092522"
     ]
   ],
   [
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2025-02-18, 05:25:05",
-      "https://news.ycombinator.com/item?id=43086347"
-    ],
-    [
-      "SWE-Lancer: a benchmark of freelance software engineering tasks from Upwork",
-      "https://arxiv.org/abs/2502.12115"
-    ]
-  ],
-  [
-    [
       "2025-02-17, 09:56:55",
       "https://news.ycombinator.com/item?id=43077091"
     ],
     [
       "An early social un-network",
       "https://paperstack.com/an_early_social_unnetwork/"
-    ]
-  ],
-  [
-    [
-      "2025-02-16, 19:13:15",
-      "https://news.ycombinator.com/item?id=43070744"
-    ],
-    [
-      "Grim Fandango Puzzle Document (1996) [pdf]",
-      "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf"
     ]
   ],
   [
