@@ -25,6 +25,7 @@
 * [2025-02-16, 19:13:15](https://news.ycombinator.com/item?id=43070744) - [Grim Fandango Puzzle Document (1996) [pdf]](http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf)
 * [2025-02-16, 19:09:32](https://news.ycombinator.com/item?id=43070711) - [The reason behind the TikTok ban](https://www.kenklippenstein.com/p/tiktok-ban-fueled-by-israel-not-china)
 * [2025-02-16, 19:04:30](https://news.ycombinator.com/item?id=43070643) - [When Compilers Were the 'AI' That Scared Programmers](https://vivekhaldar.com/articles/when-compilers-were-the--ai--that-scared-programmers/)
+* [2025-02-16, 19:02:14](https://news.ycombinator.com/item?id=43070619) - [Gaining Years of Experience in a Few Months](https://marcgg.com/blog/2025/02/11/high-growth/)
 * [2025-02-16, 18:13:21](https://news.ycombinator.com/item?id=43070155) - [Kindle is removing download and transfer option on Feb 26th](https://old.reddit.com/r/kindle/comments/1inr9uy/fyi_amazon_is_removing_download_transfer_option/)
 * [2025-02-16, 17:56:15](https://news.ycombinator.com/item?id=43070025) - [Caddy – The Ultimate Server with Automatic HTTPS](https://caddyserver.com/)
 * [2025-02-16, 17:48:43](https://news.ycombinator.com/item?id=43069973) - ['Reading is part of my identity': the woman taking on Goodreads owner Amazon](https://www.theguardian.com/books/2025/feb/16/goodreads-amazon-nadia-odunayo-the-storygraph)

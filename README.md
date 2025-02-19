@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-19, 14:57:08](https://news.ycombinator.com/item?id=43102771) - [Cargo Cult Programming](https://en.wikipedia.org/wiki/Cargo_cult_programming)
 * [2025-02-19, 14:21:03](https://news.ycombinator.com/item?id=43102425) - [Gravitational Effects of Small Primordial Black Hole Passing Through Human Body](https://arxiv.org/abs/2502.09734)
 * [2025-02-19, 13:59:52](https://news.ycombinator.com/item?id=43102231) - [Penguins Help to Map Antarctica's Growing Mercury Threat](https://www.scientificamerican.com/article/penguins-help-to-map-antarcticas-growing-mercury-threat/)
 * [2025-02-19, 13:54:51](https://news.ycombinator.com/item?id=43102182) - [Seeing Through the Spartan Mirage](https://worldhistory.substack.com/p/the-spartan-mirage)
@@ -26,6 +25,7 @@
 * [2025-02-18, 05:25:05](https://news.ycombinator.com/item?id=43086347) - [SWE-Lancer: a benchmark of freelance software engineering tasks from Upwork](https://arxiv.org/abs/2502.12115)
 * [2025-02-17, 09:56:55](https://news.ycombinator.com/item?id=43077091) - [An early social un-network](https://paperstack.com/an_early_social_unnetwork/)
 * [2025-02-16, 19:13:15](https://news.ycombinator.com/item?id=43070744) - [Grim Fandango Puzzle Document (1996) [pdf]](http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf)
+* [2025-02-16, 19:02:14](https://news.ycombinator.com/item?id=43070619) - [Gaining Years of Experience in a Few Months](https://marcgg.com/blog/2025/02/11/high-growth/)
 * [2025-02-16, 10:13:31](https://news.ycombinator.com/item?id=43066927) - [Meta Project Aria - Smart Glasses Research Kit](https://www.projectaria.com/research-kit/?_fb_noscript=1)
 * [2025-02-16, 08:22:46](https://news.ycombinator.com/item?id=43066340) - [Designer Diary: Panda Royale](https://boardgamegeek.com/blog/1/blogpost/165251/designer-diary-panda-royale)
 * [2025-02-15, 22:24:02](https://news.ycombinator.com/item?id=43063011) - [BleachBit is a free and open-source disk space cleaner](https://www.bleachbit.org/)
