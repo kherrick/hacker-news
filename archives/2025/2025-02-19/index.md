@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-19](index.md)
 
 * [2025-02-19, 22:37:05](https://news.ycombinator.com/item?id=43108657) - [What should I expect from moving tech jobs from USA to Europe?](https://news.ycombinator.com/item?id=43108657)
+* [2025-02-19, 22:32:18](https://news.ycombinator.com/item?id=43108614) - [Build your own SQLite in Rust, Part 5: Evaluating queries](https://blog.sylver.dev/build-your-own-sqlite-part-5-evaluating-queries)
 * [2025-02-19, 22:23:06](https://news.ycombinator.com/item?id=43108513) - [Behavioural Patterns Are the New Skin Colour](https://www.nthprocess.com/behavioural-patterns-are-the-new-skin-colour-2/)
 * [2025-02-19, 21:46:02](https://news.ycombinator.com/item?id=43108157) - [Egg Prices Are Soaring. Are Backyard Chickens the Answer?](https://civileats.com/2025/02/18/op-ed-egg-prices-are-soaring-bring-out-the-backyard-hens/)
 * [2025-02-19, 21:41:07](https://news.ycombinator.com/item?id=43108091) - [1972 Unix V2 \"Beta\" Resurrected](https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html)
