@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-19](index.md)
 
+* [2025-02-19, 21:41:07](https://news.ycombinator.com/item?id=43108091) - [1972 Unix V2 \"Beta\" Resurrected](https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html)
+* [2025-02-19, 21:20:01](https://news.ycombinator.com/item?id=43107839) - [Malaysia is betting on data centers to boost its economy](https://apnews.com/article/malaysia-johor-data-centers-energy-electricity-power-cfb087f755d3e203a347463af229e88d)
 * [2025-02-19, 21:14:41](https://news.ycombinator.com/item?id=43107777) - [I built a large language model \"from scratch\"](https://brettgfitzgerald.com/posts/build-a-large-language-model/)
 * [2025-02-19, 21:07:34](https://news.ycombinator.com/item?id=43107701) - [Why FreeBSD Is the Right Choice for Embedded Devices](https://klarasystems.com/articles/why-freebsd-is-the-right-choice-for-embedded-devices/)
 * [2025-02-19, 20:42:27](https://news.ycombinator.com/item?id=43107394) - [A Language Server for Postgres](https://github.com/supabase-community/postgres_lsp)
