@@ -6,6 +6,7 @@
 
 * [2025-02-19, 10:35:28](https://news.ycombinator.com/item?id=43100648) - [The reality of long-term software maintenance from the maintainer's perspective](https://www.construct.net/en/blogs/ashleys-blog-2/reality-long-term-software-1892)
 * [2025-02-19, 09:42:03](https://news.ycombinator.com/item?id=43100359) - [Are SSDs more reliable than hard drives?](https://www.backblaze.com/blog/are-ssds-really-more-reliable-than-hard-drives/)
+* [2025-02-19, 08:15:14](https://news.ycombinator.com/item?id=43099826) - [Ensuring Accountability for All Agencies](https://www.whitehouse.gov/presidential-actions/2025/02/ensuring-accountability-for-all-agencies/)
 * [2025-02-19, 08:15:14](https://news.ycombinator.com/item?id=43099826) - [A few hours ago, the US has turned into a de-facto dictatorship](https://old.reddit.com/r/law/comments/1isvzgu/the_full_executive_order_is_out_this_is_the)
 * [2025-02-19, 08:04:45](https://news.ycombinator.com/item?id=43099793) - [The 88x31 GIF Collection](https://cyber.dabamos.de/88x31/)
 * [2025-02-19, 04:49:46](https://news.ycombinator.com/item?id=43098705) - [Exec Order for \"presidential supervision\" of independent regulatory agencies](https://www.whitehouse.gov/presidential-actions/2025/02/ensuring-accountability-for-all-agencies/)
