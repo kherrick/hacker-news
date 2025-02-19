@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-19, 22:23:06](https://news.ycombinator.com/item?id=43108513) - [Behavioural Patterns Are the New Skin Colour](https://www.nthprocess.com/behavioural-patterns-are-the-new-skin-colour-2/)
 * [2025-02-19, 21:41:07](https://news.ycombinator.com/item?id=43108091) - [1972 Unix V2 \"Beta\" Resurrected](https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html)
 * [2025-02-19, 21:20:01](https://news.ycombinator.com/item?id=43107839) - [Malaysia is betting on data centers to boost its economy](https://apnews.com/article/malaysia-johor-data-centers-energy-electricity-power-cfb087f755d3e203a347463af229e88d)
 * [2025-02-19, 21:14:41](https://news.ycombinator.com/item?id=43107777) - [I built a large language model \"from scratch\"](https://brettgfitzgerald.com/posts/build-a-large-language-model/)
@@ -27,7 +28,6 @@
 * [2025-02-18, 19:57:17](https://news.ycombinator.com/item?id=43094260) - [Valve releases Team Fortress 2 code](https://github.com/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9)
 * [2025-02-18, 10:37:55](https://news.ycombinator.com/item?id=43088124) - [A secret poker game you can play on the subway](https://experience.prfalken.dev/english/subway-poker/)
 * [2025-02-17, 19:47:26](https://news.ycombinator.com/item?id=43082649) - [Show HN: MOS6502 in pure Lua running in WebAssembly](https://carimbo.run/play/1.0.43/willtobyte/MOS6502/1.0.3/480p/)
-* [2025-02-17, 16:15:48](https://news.ycombinator.com/item?id=43080445) - [How Louis Armstrong shaped the sound of Ghana](https://www.atlasobscura.com/articles/louis-armstrong-jazz-highlife-ghana)
 * [2025-02-17, 09:56:55](https://news.ycombinator.com/item?id=43077091) - [An early social un-network](https://paperstack.com/an_early_social_unnetwork/)
 * [2025-02-15, 22:36:17](https://news.ycombinator.com/item?id=43063140) - [Bloodflowtrixi.jl – 1D and 2D blood flow models for arterial circulation](https://github.com/yolhan83/BloodFlowTrixi.jl)
 
