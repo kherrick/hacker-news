@@ -63,6 +63,7 @@
 * [2025-02-15, 10:28:55](https://news.ycombinator.com/item?id=43057465) - [Are LLMs able to play the card game Set?](https://github.com/vnglst/when-ai-fails/tree/main/playing-set)
 * [2025-02-15, 10:23:29](https://news.ycombinator.com/item?id=43057443) - [Nature Loves Patterns](https://fayziev.com/blog/nature-loves-patterns)
 * [2025-02-15, 10:07:23](https://news.ycombinator.com/item?id=43057375) - [Show HN: Kreuzberg – Modern async Python library for document text extraction](https://github.com/Goldziher/kreuzberg)
+* [2025-02-15, 09:59:51](https://news.ycombinator.com/item?id=43057346) - [The danger of relying on OpenAI's Deep Research](https://www.economist.com/finance-and-economics/2025/02/13/the-danger-of-relying-on-openais-deep-research)
 * [2025-02-15, 09:59:20](https://news.ycombinator.com/item?id=43057344) - [Jane Street's Figgie card game](https://www.figgie.com/)
 * [2025-02-15, 09:07:23](https://news.ycombinator.com/item?id=43057108) - [Airbnb CEO says it's still too early for AI trip planning](https://techcrunch.com/2025/02/14/airbnb-ceo-says-its-still-too-early-for-ai-trip-planning/)
 * [2025-02-15, 08:45:40](https://news.ycombinator.com/item?id=43056993) - [Are DOGE's Claims of Social Security Payments to 150-Year-Olds Way Off Base?](https://slashdot.org/submission/17333271/are-doges-claims-of-social-security-payments-to-150-year-olds-way-off-base)
