@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-19, 10:35:28](https://news.ycombinator.com/item?id=43100648) - [The reality of long-term software maintenance from the maintainer's perspective](https://www.construct.net/en/blogs/ashleys-blog-2/reality-long-term-software-1892)
 * [2025-02-19, 09:42:03](https://news.ycombinator.com/item?id=43100359) - [Are SSDs more reliable than hard drives?](https://www.backblaze.com/blog/are-ssds-really-more-reliable-than-hard-drives/)
 * [2025-02-19, 08:04:45](https://news.ycombinator.com/item?id=43099793) - [The 88x31 GIF Collection](https://cyber.dabamos.de/88x31/)
 * [2025-02-19, 04:48:09](https://news.ycombinator.com/item?id=43098690) - [Go-msquic: A new QUIC/HTTP3 library for Go](https://github.com/noboruma/go-msquic)
@@ -23,9 +24,8 @@
 * [2025-02-18, 14:57:09](https://news.ycombinator.com/item?id=43090214) - [Show HN: Scripton – Python IDE with built-in realtime visualizations](https://scripton.dev)
 * [2025-02-18, 10:02:30](https://news.ycombinator.com/item?id=43087944) - [XOR](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/xor/)
 * [2025-02-18, 05:25:05](https://news.ycombinator.com/item?id=43086347) - [SWE-Lancer: a benchmark of freelance software engineering tasks from Upwork](https://arxiv.org/abs/2502.12115)
-* [2025-02-17, 23:43:22](https://news.ycombinator.com/item?id=43084350) - [Programming with chronic pain](https://thomasvogelaar.me/posts/programming-with-chronic-pain/)
-* [2025-02-16, 22:35:15](https://news.ycombinator.com/item?id=43072451) - [A New Oral Culture](https://www.oblomovka.com/wp/2025/02/12/a-new-oral-culture/)
 * [2025-02-16, 19:13:15](https://news.ycombinator.com/item?id=43070744) - [Grim Fandango Puzzle Document (1996) [pdf]](http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf)
+* [2025-02-16, 10:13:31](https://news.ycombinator.com/item?id=43066927) - [Meta Project Aria - Smart Glasses Research Kit](https://www.projectaria.com/research-kit/?_fb_noscript=1)
 * [2025-02-16, 00:52:52](https://news.ycombinator.com/item?id=43064200) - [How X-Plane Works](https://www.x-plane.com/desktop/how-x-plane-works/)
 * [2025-02-15, 16:58:27](https://news.ycombinator.com/item?id=43060037) - [Hands-On with Vescin: MINI's New Vegan Friendly Interior That Replaces Leather](https://www.motoringfile.com/2023/08/03/hands-on-with-vescin-minis-new-vegan-friendly-interior-that-replaces-leather/)
 * [2025-02-15, 12:04:31](https://news.ycombinator.com/item?id=43057898) - [Engineering of human cells reveals genome's resilience to structural changes](https://phys.org/news/2025-01-complex-human-cell-lines-reveals.html)
