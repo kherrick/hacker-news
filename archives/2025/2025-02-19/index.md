@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-02-19](index.md)
 
+* [2025-02-19, 13:14:16](https://news.ycombinator.com/item?id=43101774) - [Experiment: Can 3D improve AI video consistency?](https://backdroptech.github.io/3d-to-video/)
+* [2025-02-19, 13:12:34](https://news.ycombinator.com/item?id=43101757) - [Doge Claimed It Saved $8B in One Contract. It Was $8M](https://www.nytimes.com/2025/02/18/upshot/doge-contracts-musk-trump.html)
 * [2025-02-19, 12:40:58](https://news.ycombinator.com/item?id=43101430) - [Debugging Hetzner: Uncovering failures with powerstat, sensors, and dmidecode](https://www.ubicloud.com/blog/debugging-hetzner-uncovering-failures-with-powerstat-sensors-and-dmidecode)
+* [2025-02-19, 12:36:06](https://news.ycombinator.com/item?id=43101383) - [Broken Legs and Ankles Heal Better If You Walk on Them Within Weeks](https://www.scientificamerican.com/article/broken-legs-and-ankles-heal-better-if-you-walk-on-them-within-weeks/)
 * [2025-02-19, 12:16:21](https://news.ycombinator.com/item?id=43101231) - [NASA says 'City killer' asteroid now has 3.1% chance of hitting Earth](https://www.france24.com/en/live-news/20250218-city-killer-asteroid-now-has-3-1-chance-of-hitting-earth-nasa)
 * [2025-02-19, 11:39:06](https://news.ycombinator.com/item?id=43101009) - [A SpaceX team is being brought in to overhaul FAA's air traffic control system](https://www.theverge.com/news/614078/faa-air-traffic-control-spacex-elon-musk-layoff-staff-shortage)
 * [2025-02-19, 10:35:28](https://news.ycombinator.com/item?id=43100648) - [The reality of long-term software maintenance from the maintainer's perspective](https://www.construct.net/en/blogs/ashleys-blog-2/reality-long-term-software-1892)
