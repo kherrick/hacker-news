@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-19, 04:48:09",
+      "https://news.ycombinator.com/item?id=43098690"
+    ],
+    [
+      "Go-msquic: A new QUIC/HTTP3 library for Go",
+      "https://github.com/noboruma/go-msquic"
+    ]
+  ],
+  [
+    [
       "2025-02-19, 03:41:48",
       "https://news.ycombinator.com/item?id=43098318"
     ],
@@ -217,16 +227,6 @@
     [
       "XOR",
       "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/xor/"
-    ]
-  ],
-  [
-    [
-      "2025-02-18, 08:48:16",
-      "https://news.ycombinator.com/item?id=43087482"
-    ],
-    [
-      "Making my debug build run 100x faster so that it is finally usable",
-      "https://gaultier.github.io/blog/making_my_debug_build_run_100_times_faster.html"
     ]
   ],
   [
