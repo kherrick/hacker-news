@@ -6,6 +6,7 @@
 
 * [2025-02-19, 04:49:46](https://news.ycombinator.com/item?id=43098705) - [Exec Order for \"presidential supervision\" of independent regulatory agencies](https://www.whitehouse.gov/presidential-actions/2025/02/ensuring-accountability-for-all-agencies/)
 * [2025-02-19, 04:48:09](https://news.ycombinator.com/item?id=43098690) - [Go-msquic: A new QUIC/HTTP3 library for Go](https://github.com/noboruma/go-msquic)
+* [2025-02-19, 04:35:16](https://news.ycombinator.com/item?id=43098626) - [Steve Jackson Games Is Bringing the Fighting Fantasy Books to the US](https://www.sjgames.com/fightingfantasy/)
 * [2025-02-19, 03:41:48](https://news.ycombinator.com/item?id=43098318) - [Thoughts on Daylight Computer](https://jon.bo/posts/daylight-computer-1/)
 * [2025-02-19, 02:52:51](https://news.ycombinator.com/item?id=43098019) - [Visualized: Presidential Executive Orders](https://www.opicdata.com/blog/presidential-executive-orders)
 * [2025-02-19, 02:37:10](https://news.ycombinator.com/item?id=43097932) - [Implementing LLaMA3 in 100 Lines of Pure Jax](https://saurabhalone.com/blogs/llama3/web)

@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-19, 04:48:09](https://news.ycombinator.com/item?id=43098690) - [Go-msquic: A new QUIC/HTTP3 library for Go](https://github.com/noboruma/go-msquic)
+* [2025-02-19, 04:35:16](https://news.ycombinator.com/item?id=43098626) - [Steve Jackson Games Is Bringing the Fighting Fantasy Books to the US](https://www.sjgames.com/fightingfantasy/)
 * [2025-02-19, 03:41:48](https://news.ycombinator.com/item?id=43098318) - [Thoughts on Daylight Computer](https://jon.bo/posts/daylight-computer-1/)
 * [2025-02-19, 02:37:10](https://news.ycombinator.com/item?id=43097932) - [Implementing LLaMA3 in 100 Lines of Pure Jax](https://saurabhalone.com/blogs/llama3/web)
 * [2025-02-19, 02:19:46](https://news.ycombinator.com/item?id=43097814) - [Augment.vim: AI Chat and completion in Vim and Neovim](https://github.com/augmentcode/augment.vim)
@@ -29,7 +30,6 @@
 * [2025-02-16, 13:50:31](https://news.ycombinator.com/item?id=43067960) - [The number line freaks me out (2016)](https://mathwithbaddrawings.com/2016/12/28/why-the-number-line-freaks-me-out/)
 * [2025-02-15, 09:59:51](https://news.ycombinator.com/item?id=43057346) - [The danger of relying on OpenAI's Deep Research](https://www.economist.com/finance-and-economics/2025/02/13/the-danger-of-relying-on-openais-deep-research)
 * [2025-02-15, 02:44:05](https://news.ycombinator.com/item?id=43055400) - [Little Sisyphus A physics-based platformer for the NES](https://pubby.games/sisyphus.html)
-* [2025-02-14, 21:53:40](https://news.ycombinator.com/item?id=43053499) - [Saying goodbye to FFmpegKit](https://tanersener.medium.com/saying-goodbye-to-ffmpegkit-33ae939767e1)
 
 ## [Archives](archives/index.md)
 
