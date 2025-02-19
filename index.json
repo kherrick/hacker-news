@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-19, 21:14:41",
+      "https://news.ycombinator.com/item?id=43107777"
+    ],
+    [
+      "I built a large language model \"from scratch\"",
+      "https://brettgfitzgerald.com/posts/build-a-large-language-model/"
+    ]
+  ],
+  [
+    [
+      "2025-02-19, 21:07:34",
+      "https://news.ycombinator.com/item?id=43107701"
+    ],
+    [
+      "Why FreeBSD Is the Right Choice for Embedded Devices",
+      "https://klarasystems.com/articles/why-freebsd-is-the-right-choice-for-embedded-devices/"
+    ]
+  ],
+  [
+    [
       "2025-02-19, 20:42:27",
       "https://news.ycombinator.com/item?id=43107394"
     ],
@@ -17,16 +37,6 @@
     [
       "Apple’s closed-source approach is losing out to AI app builders",
       "https://www.telkins.dev/blog/how-apples-closed-source-approach-is-losing-out-to-ai-app-builders"
-    ]
-  ],
-  [
-    [
-      "2025-02-19, 20:31:34",
-      "https://news.ycombinator.com/item?id=43107244"
-    ],
-    [
-      "A Clang regression related to switch statements and inlining",
-      "https://nicula.xyz/2025/02/16/clang-and-big-switches.html"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2025-02-18, 19:26:33",
-      "https://news.ycombinator.com/item?id=43093939"
-    ],
-    [
-      "Nuclear fusion: WEST beats the world record for plasma duration",
-      "https://www.cea.fr/english/Pages/News/nuclear-fusion-west-beats-the-world-record-for-plasma-duration.aspx"
-    ]
-  ],
-  [
-    [
       "2025-02-18, 10:37:55",
       "https://news.ycombinator.com/item?id=43088124"
     ],
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=43077473"
     ],
     [
-      "Beautiful, Boring, and Without Soul",
+      "Beautiful, boring, and without soul",
       "https://www.doc.cc/articles/beautiful-boring-and-without-soul"
     ]
   ],
