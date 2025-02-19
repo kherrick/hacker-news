@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-19, 14:57:08",
+      "https://news.ycombinator.com/item?id=43102771"
+    ],
+    [
+      "Cargo Cult Programming",
+      "https://en.wikipedia.org/wiki/Cargo_cult_programming"
+    ]
+  ],
+  [
+    [
       "2025-02-19, 14:21:03",
       "https://news.ycombinator.com/item?id=43102425"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2025-02-19, 14:15:54",
-      "https://news.ycombinator.com/item?id=43102375"
+      "2025-02-19, 13:59:52",
+      "https://news.ycombinator.com/item?id=43102231"
     ],
     [
-      "'Pokémon Go' Maker Nears $3.5B Deal to Sell Games Unit",
-      "https://www.bloomberg.com/news/articles/2025-02-19/-pokemon-go-maker-nears-3-5-billion-deal-to-sell-games-unit"
+      "Penguins Help to Map Antarctica's Growing Mercury Threat",
+      "https://www.scientificamerican.com/article/penguins-help-to-map-antarcticas-growing-mercury-threat/"
     ]
   ],
   [
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2025-02-19, 04:49:46",
-      "https://news.ycombinator.com/item?id=43098705"
-    ],
-    [
-      "Ensuring Accountability for All Agencies",
-      "https://www.whitehouse.gov/presidential-actions/2025/02/ensuring-accountability-for-all-agencies/"
-    ]
-  ],
-  [
-    [
       "2025-02-19, 04:48:09",
       "https://news.ycombinator.com/item?id=43098690"
     ],
@@ -107,6 +107,16 @@
     [
       "Implementing LLaMA3 in 100 Lines of Pure Jax",
       "https://saurabhalone.com/blogs/llama3/web"
+    ]
+  ],
+  [
+    [
+      "2025-02-19, 02:19:46",
+      "https://news.ycombinator.com/item?id=43097814"
+    ],
+    [
+      "Augment.vim: AI Chat and completion in Vim and Neovim",
+      "https://github.com/augmentcode/augment.vim"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Engineering of human cells reveals genome's resilience to structural changes",
       "https://phys.org/news/2025-01-complex-human-cell-lines-reveals.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-15, 02:44:05",
-      "https://news.ycombinator.com/item?id=43055400"
-    ],
-    [
-      "Little Sisyphus A physics-based platformer for the NES",
-      "https://pubby.games/sisyphus.html"
     ]
   ]
 ]
