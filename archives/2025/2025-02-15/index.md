@@ -59,6 +59,7 @@
 * [2025-02-15, 12:10:53](https://news.ycombinator.com/item?id=43057929) - [AI Mistakes Are Different from Human Mistakes](https://www.schneier.com/blog/archives/2025/01/ai-mistakes-are-very-different-from-human-mistakes.html)
 * [2025-02-15, 12:06:01](https://news.ycombinator.com/item?id=43057907) - [The Impact of Generative AI on Critical Thinking [pdf]](https://www.microsoft.com/en-us/research/uploads/prod/2025/01/lee_2025_ai_critical_thinking_survey.pdf)
 * [2025-02-15, 12:06:01](https://news.ycombinator.com/item?id=43057907) - [Microsoft Study Finds Relying on AI Kills Your Critical Thinking Skills](https://gizmodo.com/microsoft-study-finds-relying-on-ai-kills-your-critical-thinking-skills-2000561788)
+* [2025-02-15, 12:04:31](https://news.ycombinator.com/item?id=43057898) - [Engineering of human cells reveals genome's resilience to structural changes](https://phys.org/news/2025-01-complex-human-cell-lines-reveals.html)
 * [2025-02-15, 11:23:46](https://news.ycombinator.com/item?id=43057721) - [Kleene as a Container Management Platform for FreeBSD](https://gyptazy.com/howto-kleene-as-a-container-management-platform-for-freebsd/)
 * [2025-02-15, 11:16:22](https://news.ycombinator.com/item?id=43057687) - [Nouveau kernel maintainer steps down](https://lists.freedesktop.org/archives/nouveau/2025-February/046677.html)
 * [2025-02-15, 10:28:55](https://news.ycombinator.com/item?id=43057465) - [Are LLMs able to play the card game Set?](https://github.com/vnglst/when-ai-fails/tree/main/playing-set)

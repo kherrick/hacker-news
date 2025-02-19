@@ -18,7 +18,6 @@
 * [2025-02-18, 17:30:39](https://news.ycombinator.com/item?id=43092522) - [Launch HN: Promptless (YC W25) – Automatic updates for customer-facing docs](https://news.ycombinator.com/item?id=43092522)
 * [2025-02-18, 16:55:22](https://news.ycombinator.com/item?id=43092003) - [One year after switching from Java to Go](https://glasskube.dev/blog/from-java-to-go/)
 * [2025-02-18, 16:24:01](https://news.ycombinator.com/item?id=43091466) - [File Pilot: A file explorer built for speed with a modern, robust interface](https://filepilot.tech/)
-* [2025-02-18, 16:11:08](https://news.ycombinator.com/item?id=43091195) - [Jean Hilliard's Minnesota Story (2018)](https://www.mprnews.org/story/2018/01/25/jean-hilliard-northern-minnesota-frozen-survived)
 * [2025-02-18, 15:47:25](https://news.ycombinator.com/item?id=43090857) - [Migraine is more than a headache – a rethink offers hope](https://www.nature.com/articles/d41586-025-00456-x)
 * [2025-02-18, 14:57:09](https://news.ycombinator.com/item?id=43090214) - [Show HN: Scripton – Python IDE with built-in realtime visualizations](https://scripton.dev)
 * [2025-02-18, 10:02:30](https://news.ycombinator.com/item?id=43087944) - [XOR](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/xor/)
@@ -29,6 +28,7 @@
 * [2025-02-16, 19:13:15](https://news.ycombinator.com/item?id=43070744) - [Grim Fandango Puzzle Document (1996) [pdf]](http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf)
 * [2025-02-16, 00:52:52](https://news.ycombinator.com/item?id=43064200) - [How X-Plane Works](https://www.x-plane.com/desktop/how-x-plane-works/)
 * [2025-02-15, 16:58:27](https://news.ycombinator.com/item?id=43060037) - [Hands-On with Vescin: MINI's New Vegan Friendly Interior That Replaces Leather](https://www.motoringfile.com/2023/08/03/hands-on-with-vescin-minis-new-vegan-friendly-interior-that-replaces-leather/)
+* [2025-02-15, 12:04:31](https://news.ycombinator.com/item?id=43057898) - [Engineering of human cells reveals genome's resilience to structural changes](https://phys.org/news/2025-01-complex-human-cell-lines-reveals.html)
 * [2025-02-15, 02:44:05](https://news.ycombinator.com/item?id=43055400) - [Little Sisyphus A physics-based platformer for the NES](https://pubby.games/sisyphus.html)
 
 ## [Archives](archives/index.md)
