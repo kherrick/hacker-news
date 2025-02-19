@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-19, 00:18:52](https://news.ycombinator.com/item?id=43096922) - [Meta announces LlamaCon, its first generative AI dev conference on April 29](https://www.meta.com/blog/connect-2025-llamacon-save-the-date/)
-* [2025-02-18, 23:22:22](https://news.ycombinator.com/item?id=43096422) - [Alice Hamilton Waged a One-Woman Campaign to Get the Lead Out of Everything](https://www.smithsonianmag.com/innovation/how-alice-hamilton-waged-one-woman-campaign-get-lead-out-everything-180985960/)
-* [2025-02-18, 23:04:42](https://news.ycombinator.com/item?id=43096272) - [Brazil mayor was shot in 'fake attack' for election boost but lost in landslide](https://www.theguardian.com/world/2025/feb/18/brazil-mayor-election-attack)
+* [2025-02-18, 23:22:22](https://news.ycombinator.com/item?id=43096422) - [Alice Hamilton waged a one-woman campaign to get the lead out of everything](https://www.smithsonianmag.com/innovation/how-alice-hamilton-waged-one-woman-campaign-get-lead-out-everything-180985960/)
 * [2025-02-18, 22:15:05](https://news.ycombinator.com/item?id=43095811) - [HP Acquires Humane's AI Software](https://humane.com/media/humane-hp)
 * [2025-02-18, 21:09:19](https://news.ycombinator.com/item?id=43095157) - [A year of uv: pros, cons, and should you migrate](https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should)
 * [2025-02-18, 21:01:02](https://news.ycombinator.com/item?id=43095070) - [Kafka at the low end: how bad can it get?](https://broot.ca/kafka-at-the-low-end.html)
@@ -14,7 +13,6 @@
 * [2025-02-18, 18:55:31](https://news.ycombinator.com/item?id=43093610) - [Tensor evolution: A framework for fast tensor computations using recurrences](https://arxiv.org/abs/2502.03402)
 * [2025-02-18, 18:31:36](https://news.ycombinator.com/item?id=43093328) - [Pi-hole v6](https://pi-hole.net/blog/2025/02/18/introducing-pi-hole-v6/)
 * [2025-02-18, 18:16:22](https://news.ycombinator.com/item?id=43093155) - [Among top researchers 10% publish at unrealistic levels, analysis finds](https://www.chemistryworld.com/news/among-worlds-top-researchers-10-publish-at-unrealistic-levels-analysis-finds/4020962.article)
-* [2025-02-18, 17:33:52](https://news.ycombinator.com/item?id=43092579) - [Building an Open, Multi-Engine Data Lakehouse with S3 and Python](https://tower.dev/blog/building-an-open-multi-engine-data-lakehouse-with-s3-and-python)
 * [2025-02-18, 17:30:39](https://news.ycombinator.com/item?id=43092522) - [Launch HN: Promptless (YC W25) – Automatic updates for customer-facing docs](https://news.ycombinator.com/item?id=43092522)
 * [2025-02-18, 17:21:31](https://news.ycombinator.com/item?id=43092386) - [Try thinking and learning without working memory (2008)](https://sharpbrains.com/blog/2008/05/25/try-thinking-and-learning-without-working-memory/)
 * [2025-02-18, 16:55:22](https://news.ycombinator.com/item?id=43092003) - [One year after switching from Java to Go](https://glasskube.dev/blog/from-java-to-go/)
@@ -27,8 +25,10 @@
 * [2025-02-17, 20:30:26](https://news.ycombinator.com/item?id=43083017) - [Why I'm writing a Scheme implementation in 2025: Async Rust](https://maplant.com/2025-02-17-Why-I%27m-Writing-a-Scheme-Implementation-in-2025-(The-Answer-is-Async-Rust).html)
 * [2025-02-17, 00:45:01](https://news.ycombinator.com/item?id=43073527) - [Show HN: A GPU-accelerated binary vector index](https://rlafuente.com/post?post=2024-6-12-a-binary-vector-store)
 * [2025-02-16, 19:13:15](https://news.ycombinator.com/item?id=43070744) - [Grim Fandango Puzzle Document (1996) [pdf]](http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf)
+* [2025-02-16, 13:50:31](https://news.ycombinator.com/item?id=43067960) - [Why the Number Line Freaks Me Out (2016)](https://mathwithbaddrawings.com/2016/12/28/why-the-number-line-freaks-me-out/)
 * [2025-02-15, 11:23:46](https://news.ycombinator.com/item?id=43057721) - [Kleene as a Container Management Platform for FreeBSD](https://gyptazy.com/howto-kleene-as-a-container-management-platform-for-freebsd/)
 * [2025-02-15, 10:28:55](https://news.ycombinator.com/item?id=43057465) - [Are LLMs able to play the card game Set?](https://github.com/vnglst/when-ai-fails/tree/main/playing-set)
+* [2025-02-15, 02:44:05](https://news.ycombinator.com/item?id=43055400) - [Little Sisyphus A physics-based platformer for the NES](https://pubby.games/sisyphus.html)
 * [2025-02-14, 21:53:40](https://news.ycombinator.com/item?id=43053499) - [Saying goodbye to FFmpegKit](https://tanersener.medium.com/saying-goodbye-to-ffmpegkit-33ae939767e1)
 
 ## [Archives](archives/index.md)

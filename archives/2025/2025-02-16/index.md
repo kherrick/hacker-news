@@ -39,6 +39,7 @@
 * [2025-02-16, 15:08:31](https://news.ycombinator.com/item?id=43068585) - [Flea-Scope: $18, FOSS USB Oscilloscope, Logic Analyzer and More [pdf]](https://rtestardi.github.io/usbte/flea-scope.pdf)
 * [2025-02-16, 14:33:33](https://news.ycombinator.com/item?id=43068337) - [So Many Unmarried Men](https://aeon.co/essays/for-mary-midgley-philosophy-must-be-entangled-in-daily-life)
 * [2025-02-16, 14:26:55](https://news.ycombinator.com/item?id=43068283) - [Rethinking the C Time API](https://oliverkwebb.github.io/articles/newtime/)
+* [2025-02-16, 13:50:31](https://news.ycombinator.com/item?id=43067960) - [Why the Number Line Freaks Me Out (2016)](https://mathwithbaddrawings.com/2016/12/28/why-the-number-line-freaks-me-out/)
 * [2025-02-16, 12:57:16](https://news.ycombinator.com/item?id=43067639) - [Bosch's brake-by-wire system may be the next big leap in automotive tech](https://newatlas.com/automotive/bosch-brake-by-wire-system/)
 * [2025-02-16, 12:54:57](https://news.ycombinator.com/item?id=43067627) - [Large Language Models Show Concerning Tendency to Flatter Users](https://xyzlabs.substack.com/p/large-language-models-show-concerning)
 * [2025-02-16, 12:46:55](https://news.ycombinator.com/item?id=43067585) - [Rust Is Eating JavaScript](https://leerob.com/n/rust)
