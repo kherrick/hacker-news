@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-19](index.md)
 
+* [2025-02-19, 21:14:41](https://news.ycombinator.com/item?id=43107777) - [I built a large language model \"from scratch\"](https://brettgfitzgerald.com/posts/build-a-large-language-model/)
+* [2025-02-19, 21:07:34](https://news.ycombinator.com/item?id=43107701) - [Why FreeBSD Is the Right Choice for Embedded Devices](https://klarasystems.com/articles/why-freebsd-is-the-right-choice-for-embedded-devices/)
 * [2025-02-19, 20:42:27](https://news.ycombinator.com/item?id=43107394) - [A Language Server for Postgres](https://github.com/supabase-community/postgres_lsp)
 * [2025-02-19, 20:41:22](https://news.ycombinator.com/item?id=43107382) - [How Apple's Closed-Source Approach Is Losing Out to AI App Builders](https://www.telkins.dev/blog/how-apples-closed-source-approach-is-losing-out-to-ai-app-builders)
 * [2025-02-19, 20:31:34](https://news.ycombinator.com/item?id=43107244) - [A Clang regression related to switch statements and inlining](https://nicula.xyz/2025/02/16/clang-and-big-switches.html)
