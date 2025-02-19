@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-19](index.md)
 
+* [2025-02-19, 15:46:36](https://news.ycombinator.com/item?id=43103333) - [Troubled electric truck maker Nikola files for bankruptcy](https://techcrunch.com/2025/02/19/troubled-electric-truck-maker-nikola-files-for-bankruptcy/)
 * [2025-02-19, 14:57:29](https://news.ycombinator.com/item?id=43102775) - [America stopped caring how poor kids do in school](https://www.slowboring.com/p/america-stopped-caring-how-poor-kids)
 * [2025-02-19, 14:57:08](https://news.ycombinator.com/item?id=43102771) - [Cargo Cult Programming](https://en.wikipedia.org/wiki/Cargo_cult_programming)
 * [2025-02-19, 14:21:03](https://news.ycombinator.com/item?id=43102425) - [Gravitational Effects of Small Primordial Black Hole Passing Through Human Body](https://arxiv.org/abs/2502.09734)
