@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-02-19](index.md)
 
+* [2025-02-19, 16:05:10](https://news.ycombinator.com/item?id=43103604) - [Relaxed Radix Balanced Trees](https://peter.horne-khan.com/relaxed-radix-balanced-trees/)
+* [2025-02-19, 16:00:25](https://news.ycombinator.com/item?id=43103536) - [Apple Debuts iPhone 16e](https://www.apple.com/newsroom/2025/02/apple-debuts-iphone-16e-a-powerful-new-member-of-the-iphone-16-family/)
 * [2025-02-19, 15:46:36](https://news.ycombinator.com/item?id=43103333) - [Troubled electric truck maker Nikola files for bankruptcy](https://techcrunch.com/2025/02/19/troubled-electric-truck-maker-nikola-files-for-bankruptcy/)
 * [2025-02-19, 15:42:00](https://news.ycombinator.com/item?id=43103272) - [Apache Airflow: Key Use Cases, Architectural Insights, and Pro Tips](https://codingcops.com/apache-airflow/)
 * [2025-02-19, 15:25:00](https://news.ycombinator.com/item?id=43103071) - [Electric-truck maker Nikola files for Chapter 11 bankruptcy protection](https://www.cnn.com/2025/02/19/business/ev-nikola-chapter-11-bankruptcy/index.html)
 * [2025-02-19, 14:57:29](https://news.ycombinator.com/item?id=43102775) - [America stopped caring how poor kids do in school](https://www.slowboring.com/p/america-stopped-caring-how-poor-kids)
 * [2025-02-19, 14:57:08](https://news.ycombinator.com/item?id=43102771) - [Cargo Cult Programming](https://en.wikipedia.org/wiki/Cargo_cult_programming)
+* [2025-02-19, 14:32:54](https://news.ycombinator.com/item?id=43102528) - [Accelerating scientific breakthroughs with an AI co-scientist](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/)
 * [2025-02-19, 14:29:11](https://news.ycombinator.com/item?id=43102491) - [1977 Jazz-Funk Musical Adaptation of Dune by David Matthews](https://www.openculture.com/2025/02/hear-the-jazz-funk-musical-adaptation-of-dune-by-david-matthews-1977.html)
 * [2025-02-19, 14:21:03](https://news.ycombinator.com/item?id=43102425) - [Gravitational Effects of Small Primordial Black Hole Passing Through Human Body](https://arxiv.org/abs/2502.09734)
 * [2025-02-19, 14:15:54](https://news.ycombinator.com/item?id=43102375) - ['Pokémon Go' Maker Nears $3.5B Deal to Sell Games Unit](https://www.bloomberg.com/news/articles/2025-02-19/-pokemon-go-maker-nears-3-5-billion-deal-to-sell-games-unit)

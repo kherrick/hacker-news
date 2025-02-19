@@ -57,6 +57,7 @@
 * [2025-02-18, 11:49:07](https://news.ycombinator.com/item?id=43088486) - [Linux's Sole Wireless/WiFi Driver Maintainer Is Stepping Down](https://www.phoronix.com/news/Linux-Wireless-Maintainer-2025)
 * [2025-02-18, 11:30:08](https://news.ycombinator.com/item?id=43088369) - [Ray-Ban Meta glasses have sold 2M units, production to be increased](https://www.uploadvr.com/ray-ban-meta-glasses-sold-2-units-production-to-be-vastly-increased/)
 * [2025-02-18, 10:45:09](https://news.ycombinator.com/item?id=43088163) - [Huawei launches $3,660 trifold phone](https://www.cnbc.com/2025/02/18/huawei-mate-xt-trifold-launches-outside-of-china-price-specs-.html)
+* [2025-02-18, 10:37:55](https://news.ycombinator.com/item?id=43088124) - [The Secret Poker Game You Can Play on the Subway](https://experience.prfalken.dev/english/subway-poker/)
 * [2025-02-18, 10:02:30](https://news.ycombinator.com/item?id=43087944) - [XOR](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/xor/)
 * [2025-02-18, 08:48:16](https://news.ycombinator.com/item?id=43087482) - [Making my debug build run 100x faster so that it is finally usable](https://gaultier.github.io/blog/making_my_debug_build_run_100_times_faster.html)
 * [2025-02-18, 06:25:47](https://news.ycombinator.com/item?id=43086651) - [Appeasement at Munich](https://snyder.substack.com/p/appeasement-at-munich)
