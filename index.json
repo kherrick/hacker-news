@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-19, 02:37:10",
+      "https://news.ycombinator.com/item?id=43097932"
+    ],
+    [
+      "Implementing LLaMA3 in 100 Lines of Pure Jax",
+      "https://saurabhalone.com/blogs/llama3/web"
+    ]
+  ],
+  [
+    [
       "2025-02-19, 02:19:46",
       "https://news.ycombinator.com/item?id=43097814"
     ],
@@ -17,6 +27,16 @@
     [
       "The Unbrickable Pledge",
       "https://usetrmnl.com/blog/the-unbrickable-pledge"
+    ]
+  ],
+  [
+    [
+      "2025-02-19, 02:04:35",
+      "https://news.ycombinator.com/item?id=43097709"
+    ],
+    [
+      "USDA fired officials working on bird flu, now trying to rehire them",
+      "https://www.nbcnews.com/politics/doge/usda-accidentally-fired-officials-bird-flu-rehire-rcna192716"
     ]
   ],
   [
@@ -161,6 +181,16 @@
   ],
   [
     [
+      "2025-02-18, 16:11:08",
+      "https://news.ycombinator.com/item?id=43091195"
+    ],
+    [
+      "Jean Hilliard's Minnesota Story (2018)",
+      "https://www.mprnews.org/story/2018/01/25/jean-hilliard-northern-minnesota-frozen-survived"
+    ]
+  ],
+  [
+    [
       "2025-02-18, 15:47:25",
       "https://news.ycombinator.com/item?id=43090857"
     ],
@@ -197,16 +227,6 @@
     [
       "Making my debug build run 100x faster so that it is finally usable",
       "https://gaultier.github.io/blog/making_my_debug_build_run_100_times_faster.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-17, 23:43:22",
-      "https://news.ycombinator.com/item?id=43084350"
-    ],
-    [
-      "Programming with chronic pain",
-      "https://thomasvogelaar.me/posts/programming-with-chronic-pain/"
     ]
   ],
   [
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2025-02-15, 11:23:46",
-      "https://news.ycombinator.com/item?id=43057721"
-    ],
-    [
-      "Kleene as a Container Management Platform for FreeBSD",
-      "https://gyptazy.com/howto-kleene-as-a-container-management-platform-for-freebsd/"
-    ]
-  ],
-  [
-    [
       "2025-02-15, 10:28:55",
       "https://news.ycombinator.com/item?id=43057465"
     ],
@@ -287,16 +297,6 @@
     [
       "Little Sisyphus A physics-based platformer for the NES",
       "https://pubby.games/sisyphus.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-14, 21:53:40",
-      "https://news.ycombinator.com/item?id=43053499"
-    ],
-    [
-      "Saying goodbye to FFmpegKit",
-      "https://tanersener.medium.com/saying-goodbye-to-ffmpegkit-33ae939767e1"
     ]
   ]
 ]
