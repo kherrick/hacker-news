@@ -1,16 +1,17 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-19, 14:57:08](https://news.ycombinator.com/item?id=43102771) - [Cargo Cult Programming](https://en.wikipedia.org/wiki/Cargo_cult_programming)
 * [2025-02-19, 14:21:03](https://news.ycombinator.com/item?id=43102425) - [Gravitational Effects of Small Primordial Black Hole Passing Through Human Body](https://arxiv.org/abs/2502.09734)
-* [2025-02-19, 14:15:54](https://news.ycombinator.com/item?id=43102375) - ['Pokémon Go' Maker Nears $3.5B Deal to Sell Games Unit](https://www.bloomberg.com/news/articles/2025-02-19/-pokemon-go-maker-nears-3-5-billion-deal-to-sell-games-unit)
+* [2025-02-19, 13:59:52](https://news.ycombinator.com/item?id=43102231) - [Penguins Help to Map Antarctica's Growing Mercury Threat](https://www.scientificamerican.com/article/penguins-help-to-map-antarcticas-growing-mercury-threat/)
 * [2025-02-19, 13:54:51](https://news.ycombinator.com/item?id=43102182) - [Seeing Through the Spartan Mirage](https://worldhistory.substack.com/p/the-spartan-mirage)
 * [2025-02-19, 13:14:16](https://news.ycombinator.com/item?id=43101774) - [Experiment: Can 3D improve AI video consistency?](https://backdroptech.github.io/3d-to-video/)
 * [2025-02-19, 12:40:58](https://news.ycombinator.com/item?id=43101430) - [Debugging Hetzner: Uncovering failures with powerstat, sensors, and dmidecode](https://www.ubicloud.com/blog/debugging-hetzner-uncovering-failures-with-powerstat-sensors-and-dmidecode)
 * [2025-02-19, 12:36:06](https://news.ycombinator.com/item?id=43101383) - [Broken Legs and Ankles Heal Better If You Walk on Them Within Weeks](https://www.scientificamerican.com/article/broken-legs-and-ankles-heal-better-if-you-walk-on-them-within-weeks/)
 * [2025-02-19, 10:35:28](https://news.ycombinator.com/item?id=43100648) - [The reality of long-term software maintenance from the maintainer's perspective](https://www.construct.net/en/blogs/ashleys-blog-2/reality-long-term-software-1892)
-* [2025-02-19, 04:49:46](https://news.ycombinator.com/item?id=43098705) - [Ensuring Accountability for All Agencies](https://www.whitehouse.gov/presidential-actions/2025/02/ensuring-accountability-for-all-agencies/)
 * [2025-02-19, 04:48:09](https://news.ycombinator.com/item?id=43098690) - [Go-msquic: A new QUIC/HTTP3 library for Go](https://github.com/noboruma/go-msquic)
 * [2025-02-19, 03:41:48](https://news.ycombinator.com/item?id=43098318) - [Thoughts on Daylight Computer](https://jon.bo/posts/daylight-computer-1/)
 * [2025-02-19, 02:37:10](https://news.ycombinator.com/item?id=43097932) - [Implementing LLaMA3 in 100 Lines of Pure Jax](https://saurabhalone.com/blogs/llama3/web)
+* [2025-02-19, 02:19:46](https://news.ycombinator.com/item?id=43097814) - [Augment.vim: AI Chat and completion in Vim and Neovim](https://github.com/augmentcode/augment.vim)
 * [2025-02-19, 02:09:49](https://news.ycombinator.com/item?id=43097747) - [The Unbrickable Pledge](https://usetrmnl.com/blog/the-unbrickable-pledge)
 * [2025-02-19, 00:25:10](https://news.ycombinator.com/item?id=43096975) - [Parsing JSON in 500 lines of Rust](https://www.krish.gg/blog/json-parser-in-rust)
 * [2025-02-18, 23:22:22](https://news.ycombinator.com/item?id=43096422) - [Alice Hamilton waged a one-woman campaign to get the lead out of everything](https://www.smithsonianmag.com/innovation/how-alice-hamilton-waged-one-woman-campaign-get-lead-out-everything-180985960/)
@@ -29,7 +30,6 @@
 * [2025-02-16, 08:22:46](https://news.ycombinator.com/item?id=43066340) - [Designer Diary: Panda Royale](https://boardgamegeek.com/blog/1/blogpost/165251/designer-diary-panda-royale)
 * [2025-02-15, 22:24:02](https://news.ycombinator.com/item?id=43063011) - [BleachBit is a free and open-source disk space cleaner](https://www.bleachbit.org/)
 * [2025-02-15, 12:04:31](https://news.ycombinator.com/item?id=43057898) - [Engineering of human cells reveals genome's resilience to structural changes](https://phys.org/news/2025-01-complex-human-cell-lines-reveals.html)
-* [2025-02-15, 02:44:05](https://news.ycombinator.com/item?id=43055400) - [Little Sisyphus A physics-based platformer for the NES](https://pubby.games/sisyphus.html)
 
 ## [Archives](archives/index.md)
 
