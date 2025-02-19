@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-02-19, 17:49:11",
+      "https://news.ycombinator.com/item?id=43105035"
+    ],
+    [
+      "Bill prohibiting police from lying to children passes Virginia Senate",
+      "https://www.courthousenews.com/bill-prohibiting-police-from-lying-to-children-passes-virginia-senate/"
+    ]
+  ],
+  [
+    [
+      "2025-02-19, 17:48:08",
+      "https://news.ycombinator.com/item?id=43105028"
+    ],
+    [
+      "When Imperfect Systems Are Good, Actually: Bluesky's Lossy Timelines",
+      "https://jazco.dev/2025/02/19/imperfection/"
+    ]
+  ],
+  [
+    [
+      "2025-02-19, 17:47:15",
+      "https://news.ycombinator.com/item?id=43105014"
+    ],
+    [
+      "The Future of Watmm",
+      "https://forum.watmm.com/announcement/67-the-future-of-watmm-please-read/"
+    ]
+  ],
+  [
+    [
       "2025-02-19, 17:00:42",
       "https://news.ycombinator.com/item?id=43104400"
     ],
@@ -41,16 +71,6 @@
   ],
   [
     [
-      "2025-02-19, 16:00:25",
-      "https://news.ycombinator.com/item?id=43103536"
-    ],
-    [
-      "Apple Debuts iPhone 16e",
-      "https://www.apple.com/newsroom/2025/02/apple-debuts-iphone-16e-a-powerful-new-member-of-the-iphone-16-family/"
-    ]
-  ],
-  [
-    [
       "2025-02-19, 15:46:36",
       "https://news.ycombinator.com/item?id=43103333"
     ],
@@ -65,18 +85,8 @@
       "https://news.ycombinator.com/item?id=43103073"
     ],
     [
-      "Show HN: Mastra – Open-source JS agent framework, by the creators of Gatsby",
+      "Show HN: Mastra – Open-source JS agent framework, by the developers of Gatsby",
       "https://github.com/mastra-ai/mastra"
-    ]
-  ],
-  [
-    [
-      "2025-02-19, 15:25:00",
-      "https://news.ycombinator.com/item?id=43103071"
-    ],
-    [
-      "Electric-truck maker Nikola files for Chapter 11 bankruptcy protection",
-      "https://www.cnn.com/2025/02/19/business/ev-nikola-chapter-11-bankruptcy/index.html"
     ]
   ],
   [
@@ -137,6 +147,26 @@
     [
       "Debugging Hetzner: Uncovering failures with powerstat, sensors, and dmidecode",
       "https://www.ubicloud.com/blog/debugging-hetzner-uncovering-failures-with-powerstat-sensors-and-dmidecode"
+    ]
+  ],
+  [
+    [
+      "2025-02-19, 12:36:06",
+      "https://news.ycombinator.com/item?id=43101383"
+    ],
+    [
+      "Broken Legs and Ankles Heal Better If You Walk on Them Within Weeks",
+      "https://www.scientificamerican.com/article/broken-legs-and-ankles-heal-better-if-you-walk-on-them-within-weeks/"
+    ]
+  ],
+  [
+    [
+      "2025-02-19, 04:49:46",
+      "https://news.ycombinator.com/item?id=43098705"
+    ],
+    [
+      "\"Ensuring Accountability for All Agencies\" – Executive Order",
+      "https://www.whitehouse.gov/presidential-actions/2025/02/ensuring-accountability-for-all-agencies/"
     ]
   ],
   [
@@ -211,26 +241,6 @@
   ],
   [
     [
-      "2025-02-18, 16:24:01",
-      "https://news.ycombinator.com/item?id=43091466"
-    ],
-    [
-      "File Pilot: A file explorer built for speed with a modern, robust interface",
-      "https://filepilot.tech/"
-    ]
-  ],
-  [
-    [
-      "2025-02-18, 14:57:09",
-      "https://news.ycombinator.com/item?id=43090214"
-    ],
-    [
-      "Show HN: Scripton – Python IDE with built-in realtime visualizations",
-      "https://scripton.dev"
-    ]
-  ],
-  [
-    [
       "2025-02-18, 10:37:55",
       "https://news.ycombinator.com/item?id=43088124"
     ],
@@ -271,16 +281,6 @@
   ],
   [
     [
-      "2025-02-16, 19:02:14",
-      "https://news.ycombinator.com/item?id=43070619"
-    ],
-    [
-      "Gaining Years of Experience in a Few Months",
-      "https://marcgg.com/blog/2025/02/11/high-growth/"
-    ]
-  ],
-  [
-    [
       "2025-02-16, 10:13:31",
       "https://news.ycombinator.com/item?id=43066927"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-02-15, 12:04:31",
-      "https://news.ycombinator.com/item?id=43057898"
+      "2025-02-15, 20:04:30",
+      "https://news.ycombinator.com/item?id=43061803"
     ],
     [
-      "Engineering of human cells reveals genome's resilience to structural changes",
-      "https://phys.org/news/2025-01-complex-human-cell-lines-reveals.html"
+      "Reasons to Not Parse Localized Strings",
+      "https://blog.sffc.xyz/post/190943794505/why-you-should-not-parse-localized-strings"
     ]
   ]
 ]
