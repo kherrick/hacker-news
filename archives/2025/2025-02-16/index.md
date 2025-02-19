@@ -8,6 +8,7 @@
 * [2025-02-16, 23:15:59](https://news.ycombinator.com/item?id=43072790) - [Javier Milei Backtracks on $4.4B Memecoin After 'Insiders' Pocket $87M](https://www.coindesk.com/business/2025/02/15/javier-milei-backtracks-on-usd4-4b-memecoin-after-insiders-pocket-usd87m)
 * [2025-02-16, 22:57:42](https://news.ycombinator.com/item?id=43072640) - [Why Artificial General Intelligence Is and Remains a Fiction](https://osf.io/preprints/osf/fjcns_v1)
 * [2025-02-16, 22:38:14](https://news.ycombinator.com/item?id=43072483) - [Physicists uncover evidence of two arrows of time emerging at the quantum level](https://www.surrey.ac.uk/news/physicists-uncover-evidence-two-arrows-time-emerging-quantum-realm)
+* [2025-02-16, 22:35:15](https://news.ycombinator.com/item?id=43072451) - [A New Oral Culture](https://www.oblomovka.com/wp/2025/02/12/a-new-oral-culture/)
 * [2025-02-16, 22:32:07](https://news.ycombinator.com/item?id=43072416) - [Google defends scrapping AI pledges and DEI goals in all-staff meeting](https://www.theguardian.com/us-news/2025/feb/12/google-all-staff-meeting-ai-dei)
 * [2025-02-16, 22:22:40](https://news.ycombinator.com/item?id=43072338) - [Uchū · the color scheme for internet lovers](https://uchu.style)
 * [2025-02-16, 21:42:03](https://news.ycombinator.com/item?id=43071983) - [I helped fix sleep-wake hangs on Linux with AMD GPUs](https://nyanpasu64.gitlab.io/blog/amdgpu-sleep-wake-hang/)
