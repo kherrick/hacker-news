@@ -61,6 +61,7 @@
 * [2025-02-17, 07:52:35](https://news.ycombinator.com/item?id=43076325) - [South Korea bans new DeepSeek AI downloads](https://www.bbc.com/news/articles/clyzym0vn8go)
 * [2025-02-17, 07:19:53](https://news.ycombinator.com/item?id=43076137) - [Managers given 200 characters to justify not firing nuclear regulators](https://www.npr.org/2025/02/14/nx-s1-5298190/nuclear-agency-trump-firings-nnsa)
 * [2025-02-17, 05:59:50](https://news.ycombinator.com/item?id=43075665) - [BMW's next-gen EVs depend on an unassuming black box called 'Heart of Joy'](https://www.theverge.com/cars/613962/bme-heart-of-joy-ecu-ev-powertrain-drive-dynamics)
+* [2025-02-17, 05:31:14](https://news.ycombinator.com/item?id=43075511) - [OpenArc – Lightweight Inference Server for OpenVINO](https://github.com/SearchSavior/OpenArc)
 * [2025-02-17, 05:02:35](https://news.ycombinator.com/item?id=43075347) - [Word embeddings – Part 3: The secret ingredients of Word2Vec](https://www.ruder.io/secret-word2vec/)
 * [2025-02-17, 04:23:10](https://news.ycombinator.com/item?id=43075113) - [My Time at MIT](http://muratbuffalo.blogspot.com/2025/02/my-time-at-mit.html)
 * [2025-02-17, 03:43:52](https://news.ycombinator.com/item?id=43074892) - [A list of online services to regain control over your privacy online](https://www.linux.org/threads/a-list-of-online-services-to-regain-control-over-your-privacy-online.55222/)
