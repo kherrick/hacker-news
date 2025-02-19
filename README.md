@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-19, 00:18:52](https://news.ycombinator.com/item?id=43096922) - [Meta announces LlamaCon, its first generative AI dev conference on April 29](https://www.meta.com/blog/connect-2025-llamacon-save-the-date/)
+* [2025-02-19, 02:52:51](https://news.ycombinator.com/item?id=43098019) - [Visualized: Presidential Executive Orders](https://www.opicdata.com/blog/presidential-executive-orders)
+* [2025-02-19, 02:19:46](https://news.ycombinator.com/item?id=43097814) - [Augment.vim: AI Chat and completion in Vim and Neovim](https://github.com/augmentcode/augment.vim)
 * [2025-02-18, 23:22:22](https://news.ycombinator.com/item?id=43096422) - [Alice Hamilton waged a one-woman campaign to get the lead out of everything](https://www.smithsonianmag.com/innovation/how-alice-hamilton-waged-one-woman-campaign-get-lead-out-everything-180985960/)
 * [2025-02-18, 22:15:05](https://news.ycombinator.com/item?id=43095811) - [HP Acquires Humane's AI Software](https://humane.com/media/humane-hp)
 * [2025-02-18, 21:09:19](https://news.ycombinator.com/item?id=43095157) - [A year of uv: pros, cons, and should you migrate](https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should)
@@ -12,7 +13,6 @@
 * [2025-02-18, 19:26:33](https://news.ycombinator.com/item?id=43093939) - [Nuclear fusion: WEST beats the world record for plasma duration](https://www.cea.fr/english/Pages/News/nuclear-fusion-west-beats-the-world-record-for-plasma-duration.aspx)
 * [2025-02-18, 18:55:31](https://news.ycombinator.com/item?id=43093610) - [Tensor evolution: A framework for fast tensor computations using recurrences](https://arxiv.org/abs/2502.03402)
 * [2025-02-18, 18:31:36](https://news.ycombinator.com/item?id=43093328) - [Pi-hole v6](https://pi-hole.net/blog/2025/02/18/introducing-pi-hole-v6/)
-* [2025-02-18, 18:16:22](https://news.ycombinator.com/item?id=43093155) - [Among top researchers 10% publish at unrealistic levels, analysis finds](https://www.chemistryworld.com/news/among-worlds-top-researchers-10-publish-at-unrealistic-levels-analysis-finds/4020962.article)
 * [2025-02-18, 17:30:39](https://news.ycombinator.com/item?id=43092522) - [Launch HN: Promptless (YC W25) – Automatic updates for customer-facing docs](https://news.ycombinator.com/item?id=43092522)
 * [2025-02-18, 17:21:31](https://news.ycombinator.com/item?id=43092386) - [Try thinking and learning without working memory (2008)](https://sharpbrains.com/blog/2008/05/25/try-thinking-and-learning-without-working-memory/)
 * [2025-02-18, 16:55:22](https://news.ycombinator.com/item?id=43092003) - [One year after switching from Java to Go](https://glasskube.dev/blog/from-java-to-go/)
