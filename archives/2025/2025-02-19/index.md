@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-02-19](index.md)
 
+* [2025-02-19, 18:22:09](https://news.ycombinator.com/item?id=43105444) - [Typst 0.13 is out now](https://typst.app/blog/2025/typst-0.13/)
+* [2025-02-19, 18:16:06](https://news.ycombinator.com/item?id=43105357) - [An inside look at NSA tactics, techniques and procedures from China's lens](https://www.inversecos.com/2025/02/an-inside-look-at-nsa-equation-group.html)
+* [2025-02-19, 18:06:18](https://news.ycombinator.com/item?id=43105234) - [National Science Foundation fires roughly 10% of its workforce](https://www.npr.org/2025/02/18/nx-s1-5301049/national-science-foundation-fires-roughly-10-of-its-workforce)
 * [2025-02-19, 17:49:11](https://news.ycombinator.com/item?id=43105035) - [Bill prohibiting police from lying to children passes Virginia Senate](https://www.courthousenews.com/bill-prohibiting-police-from-lying-to-children-passes-virginia-senate/)
 * [2025-02-19, 17:48:08](https://news.ycombinator.com/item?id=43105028) - [When Imperfect Systems Are Good, Actually: Bluesky's Lossy Timelines](https://jazco.dev/2025/02/19/imperfection/)
 * [2025-02-19, 17:47:15](https://news.ycombinator.com/item?id=43105014) - [The Future of Watmm](https://forum.watmm.com/announcement/67-the-future-of-watmm-please-read/)
