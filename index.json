@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-19, 16:05:10",
+      "https://news.ycombinator.com/item?id=43103604"
+    ],
+    [
+      "Relaxed Radix Balanced Trees",
+      "https://peter.horne-khan.com/relaxed-radix-balanced-trees/"
+    ]
+  ],
+  [
+    [
+      "2025-02-19, 16:00:25",
+      "https://news.ycombinator.com/item?id=43103536"
+    ],
+    [
+      "Apple Debuts iPhone 16e",
+      "https://www.apple.com/newsroom/2025/02/apple-debuts-iphone-16e-a-powerful-new-member-of-the-iphone-16-family/"
+    ]
+  ],
+  [
+    [
       "2025-02-19, 15:46:36",
       "https://news.ycombinator.com/item?id=43103333"
     ],
@@ -11,22 +31,22 @@
   ],
   [
     [
-      "2025-02-19, 15:42:00",
-      "https://news.ycombinator.com/item?id=43103272"
-    ],
-    [
-      "Apache Airflow: Key Use Cases, Architectural Insights, and Pro Tips",
-      "https://codingcops.com/apache-airflow/"
-    ]
-  ],
-  [
-    [
       "2025-02-19, 15:25:00",
       "https://news.ycombinator.com/item?id=43103071"
     ],
     [
       "Electric-truck maker Nikola files for Chapter 11 bankruptcy protection",
       "https://www.cnn.com/2025/02/19/business/ev-nikola-chapter-11-bankruptcy/index.html"
+    ]
+  ],
+  [
+    [
+      "2025-02-19, 14:32:54",
+      "https://news.ycombinator.com/item?id=43102528"
+    ],
+    [
+      "Accelerating scientific breakthroughs with an AI co-scientist",
+      "https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/"
     ]
   ],
   [
@@ -121,26 +141,6 @@
   ],
   [
     [
-      "2025-02-19, 02:09:49",
-      "https://news.ycombinator.com/item?id=43097747"
-    ],
-    [
-      "The Unbrickable Pledge",
-      "https://usetrmnl.com/blog/the-unbrickable-pledge"
-    ]
-  ],
-  [
-    [
-      "2025-02-19, 00:25:10",
-      "https://news.ycombinator.com/item?id=43096975"
-    ],
-    [
-      "Parsing JSON in 500 lines of Rust",
-      "https://www.krish.gg/blog/json-parser-in-rust"
-    ]
-  ],
-  [
-    [
       "2025-02-18, 23:22:22",
       "https://news.ycombinator.com/item?id=43096422"
     ],
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2025-02-18, 10:37:55",
+      "https://news.ycombinator.com/item?id=43088124"
+    ],
+    [
+      "The Secret Poker Game You Can Play on the Subway",
+      "https://experience.prfalken.dev/english/subway-poker/"
+    ]
+  ],
+  [
+    [
       "2025-02-18, 10:02:30",
       "https://news.ycombinator.com/item?id=43087944"
     ],
@@ -277,16 +287,6 @@
     [
       "Meta Project Aria - Smart Glasses Research Kit",
       "https://www.projectaria.com/research-kit/?_fb_noscript=1"
-    ]
-  ],
-  [
-    [
-      "2025-02-16, 08:22:46",
-      "https://news.ycombinator.com/item?id=43066340"
-    ],
-    [
-      "Designer Diary: Panda Royale",
-      "https://boardgamegeek.com/blog/1/blogpost/165251/designer-diary-panda-royale"
     ]
   ],
   [
