@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-02-19, 08:15:14",
-      "https://news.ycombinator.com/item?id=43099826"
-    ],
-    [
-      "A few hours ago, the US has turned into a de-facto dictatorship",
-      "https://old.reddit.com/r/law/comments/1isvzgu/the_full_executive_order_is_out_this_is_the"
-    ]
-  ],
-  [
-    [
       "2025-02-19, 04:48:09",
       "https://news.ycombinator.com/item?id=43098690"
     ],
@@ -147,6 +137,16 @@
     [
       "Nuclear fusion: WEST beats the world record for plasma duration",
       "https://www.cea.fr/english/Pages/News/nuclear-fusion-west-beats-the-world-record-for-plasma-duration.aspx"
+    ]
+  ],
+  [
+    [
+      "2025-02-18, 18:55:31",
+      "https://news.ycombinator.com/item?id=43093610"
+    ],
+    [
+      "Tensor evolution: A framework for fast tensor computations using recurrences",
+      "https://arxiv.org/abs/2502.03402"
     ]
   ],
   [
