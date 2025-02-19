@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-19, 18:24:26](https://news.ycombinator.com/item?id=43105472) - [Trump administration kills New York City's congestion pricing](https://www.cnn.com/2025/02/19/business/trump-kills-congestion-pricing-nyc/index.html)
 * [2025-02-19, 18:22:09](https://news.ycombinator.com/item?id=43105444) - [Typst 0.13 is out now](https://typst.app/blog/2025/typst-0.13/)
 * [2025-02-19, 18:16:06](https://news.ycombinator.com/item?id=43105357) - [An inside look at NSA tactics, techniques and procedures from China's lens](https://www.inversecos.com/2025/02/an-inside-look-at-nsa-equation-group.html)
 * [2025-02-19, 18:06:18](https://news.ycombinator.com/item?id=43105234) - [National Science Foundation fires roughly 10% of its workforce](https://www.npr.org/2025/02/18/nx-s1-5301049/national-science-foundation-fires-roughly-10-of-its-workforce)
@@ -12,7 +13,6 @@
 * [2025-02-19, 15:25:08](https://news.ycombinator.com/item?id=43103073) - [Show HN: Mastra – Open-source JS agent framework, by the developers of Gatsby](https://github.com/mastra-ai/mastra)
 * [2025-02-19, 14:32:54](https://news.ycombinator.com/item?id=43102528) - [Accelerating scientific breakthroughs with an AI co-scientist](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/)
 * [2025-02-19, 14:29:11](https://news.ycombinator.com/item?id=43102491) - [1977 Jazz-Funk Musical Adaptation of Dune](https://www.openculture.com/2025/02/hear-the-jazz-funk-musical-adaptation-of-dune-by-david-matthews-1977.html)
-* [2025-02-19, 14:21:03](https://news.ycombinator.com/item?id=43102425) - [Gravitational Effects of Small Primordial Black Hole Passing Through Human Body](https://arxiv.org/abs/2502.09734)
 * [2025-02-19, 14:05:23](https://news.ycombinator.com/item?id=43102284) - [Multiple Russia-aligned threat actors actively targeting Signal Messenger](https://cloud.google.com/blog/topics/threat-intelligence/russia-targeting-signal-messenger)
 * [2025-02-19, 13:54:51](https://news.ycombinator.com/item?id=43102182) - [Seeing Through the Spartan Mirage](https://worldhistory.substack.com/p/the-spartan-mirage)
 * [2025-02-19, 12:40:58](https://news.ycombinator.com/item?id=43101430) - [Debugging Hetzner: Uncovering failures with powerstat, sensors, and dmidecode](https://www.ubicloud.com/blog/debugging-hetzner-uncovering-failures-with-powerstat-sensors-and-dmidecode)
