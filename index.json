@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-02-19, 04:49:46",
-      "https://news.ycombinator.com/item?id=43098705"
-    ],
-    [
-      "Exec Order for \"presidential supervision\" of independent regulatory agencies",
-      "https://www.whitehouse.gov/presidential-actions/2025/02/ensuring-accountability-for-all-agencies/"
-    ]
-  ],
-  [
-    [
       "2025-02-19, 03:41:48",
       "https://news.ycombinator.com/item?id=43098318"
     ],
@@ -115,7 +105,7 @@
       "https://news.ycombinator.com/item?id=43094260"
     ],
     [
-      "Valve releases Team Fortress 2 game code",
+      "Valve releases Team Fortress 2 code",
       "https://github.com/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9"
     ]
   ],
@@ -171,12 +161,22 @@
   ],
   [
     [
-      "2025-02-18, 17:21:31",
-      "https://news.ycombinator.com/item?id=43092386"
+      "2025-02-18, 16:55:22",
+      "https://news.ycombinator.com/item?id=43092003"
     ],
     [
-      "Try thinking and learning without working memory (2008)",
-      "https://sharpbrains.com/blog/2008/05/25/try-thinking-and-learning-without-working-memory/"
+      "One year after switching from Java to Go",
+      "https://glasskube.dev/blog/from-java-to-go/"
+    ]
+  ],
+  [
+    [
+      "2025-02-18, 16:24:01",
+      "https://news.ycombinator.com/item?id=43091466"
+    ],
+    [
+      "File Pilot: A file explorer built for speed with a modern, robust interface",
+      "https://filepilot.tech/"
     ]
   ],
   [
@@ -231,22 +231,12 @@
   ],
   [
     [
-      "2025-02-17, 23:43:22",
-      "https://news.ycombinator.com/item?id=43084350"
+      "2025-02-18, 05:25:05",
+      "https://news.ycombinator.com/item?id=43086347"
     ],
     [
-      "Programming with chronic pain",
-      "https://thomasvogelaar.me/posts/programming-with-chronic-pain/"
-    ]
-  ],
-  [
-    [
-      "2025-02-17, 05:31:14",
-      "https://news.ycombinator.com/item?id=43075511"
-    ],
-    [
-      "OpenArc – Lightweight Inference Server for OpenVINO",
-      "https://github.com/SearchSavior/OpenArc"
+      "SWE-Lancer: a benchmark of freelance software engineering tasks from Upwork",
+      "https://arxiv.org/abs/2502.12115"
     ]
   ],
   [
@@ -275,8 +265,18 @@
       "https://news.ycombinator.com/item?id=43067960"
     ],
     [
-      "Why the Number Line Freaks Me Out (2016)",
+      "The number line freaks me out (2016)",
       "https://mathwithbaddrawings.com/2016/12/28/why-the-number-line-freaks-me-out/"
+    ]
+  ],
+  [
+    [
+      "2025-02-15, 09:59:51",
+      "https://news.ycombinator.com/item?id=43057346"
+    ],
+    [
+      "The danger of relying on OpenAI's Deep Research",
+      "https://www.economist.com/finance-and-economics/2025/02/13/the-danger-of-relying-on-openais-deep-research"
     ]
   ],
   [
