@@ -36,6 +36,7 @@
 * [2025-02-15, 17:43:36](https://news.ycombinator.com/item?id=43060430) - [California homeowners to fund half of high-risk insurer's $1B 'bailout'](https://calmatters.org/economy/2025/02/homeowners-insurance-costs-rising-in-california-fair-plan/)
 * [2025-02-15, 17:37:06](https://news.ycombinator.com/item?id=43060370) - [Why I'd never apply for a job online again](https://www.hottakes.space/p/why-id-never-apply-for-a-job-online)
 * [2025-02-15, 17:01:06](https://news.ycombinator.com/item?id=43060062) - [Sabine Hossenfelder – I was asked to keep this confidential [video]](https://www.youtube.com/watch?v=shFUDPqVmTg)
+* [2025-02-15, 16:58:27](https://news.ycombinator.com/item?id=43060037) - [Hands-On with Vescin: MINI's New Vegan Friendly Interior That Replaces Leather](https://www.motoringfile.com/2023/08/03/hands-on-with-vescin-minis-new-vegan-friendly-interior-that-replaces-leather/)
 * [2025-02-15, 16:37:04](https://news.ycombinator.com/item?id=43059826) - [More Solar and Battery Storage Added to TX Grid Than Other Power Src Last Year](https://insideclimatenews.org/news/10022025/solar-battery-storage-texas-grid/)
 * [2025-02-15, 16:32:17](https://news.ycombinator.com/item?id=43059779) - [In Norway, Lake-Harvested Cocktail Ice Is Making a Quiet Comeback](https://vinepair.com/articles/lake-harvested-cocktail-ice-returns/)
 * [2025-02-15, 16:11:29](https://news.ycombinator.com/item?id=43059579) - [Deepseek R1 Distill 8B Q40 on 4 x Raspberry Pi 5, 6.43 tok/s (eval 11.68 tok/s)](https://github.com/b4rtaz/distributed-llama/discussions/162)
