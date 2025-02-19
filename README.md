@@ -9,7 +9,6 @@
 * [2025-02-19, 19:22:01](https://news.ycombinator.com/item?id=43106245) - [One Head, Two Brains (2015)](https://www.theatlantic.com/health/archive/2015/07/split-brain-research-sperry-gazzaniga/399290/)
 * [2025-02-19, 18:22:09](https://news.ycombinator.com/item?id=43105444) - [Typst 0.13 is out now](https://typst.app/blog/2025/typst-0.13/)
 * [2025-02-19, 18:16:06](https://news.ycombinator.com/item?id=43105357) - [An inside look at NSA tactics, techniques and procedures from China's lens](https://www.inversecos.com/2025/02/an-inside-look-at-nsa-equation-group.html)
-* [2025-02-19, 18:04:46](https://news.ycombinator.com/item?id=43105210) - [I ditched my Pi-hole but still block ads with NextDNS](https://mattsayar.com/why-i-ditched-my-pi-hole-but-still-block-ads/)
 * [2025-02-19, 17:48:08](https://news.ycombinator.com/item?id=43105028) - [When imperfect systems are good: Bluesky's lossy timelines](https://jazco.dev/2025/02/19/imperfection/)
 * [2025-02-19, 17:00:42](https://news.ycombinator.com/item?id=43104400) - [Unsloth AI (YC S24) is hiring ML engineers](https://x.com/danielhanchen/status/1891194528931209644)
 * [2025-02-19, 16:35:51](https://news.ycombinator.com/item?id=43104071) - [Microsoft unveils Majorana 1 quantum processor](https://azure.microsoft.com/en-us/blog/quantum/2025/02/19/microsoft-unveils-majorana-1-the-worlds-first-quantum-processor-powered-by-topological-qubits/)
@@ -28,7 +27,8 @@
 * [2025-02-18, 19:57:17](https://news.ycombinator.com/item?id=43094260) - [Valve releases Team Fortress 2 code](https://github.com/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9)
 * [2025-02-18, 10:37:55](https://news.ycombinator.com/item?id=43088124) - [A secret poker game you can play on the subway](https://experience.prfalken.dev/english/subway-poker/)
 * [2025-02-17, 19:47:26](https://news.ycombinator.com/item?id=43082649) - [Show HN: MOS6502 in pure Lua running in WebAssembly](https://carimbo.run/play/1.0.43/willtobyte/MOS6502/1.0.3/480p/)
-* [2025-02-17, 10:51:06](https://news.ycombinator.com/item?id=43077473) - [Beautiful, boring, and without soul](https://www.doc.cc/articles/beautiful-boring-and-without-soul)
+* [2025-02-17, 16:15:48](https://news.ycombinator.com/item?id=43080445) - [How Louis Armstrong shaped the sound of Ghana](https://www.atlasobscura.com/articles/louis-armstrong-jazz-highlife-ghana)
+* [2025-02-17, 09:56:55](https://news.ycombinator.com/item?id=43077091) - [An early social un-network](https://paperstack.com/an_early_social_unnetwork/)
 * [2025-02-15, 22:36:17](https://news.ycombinator.com/item?id=43063140) - [Bloodflowtrixi.jl – 1D and 2D blood flow models for arterial circulation](https://github.com/yolhan83/BloodFlowTrixi.jl)
 
 ## [Archives](archives/index.md)
