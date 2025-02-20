@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-20, 15:20:08",
+      "https://news.ycombinator.com/item?id=43115735"
+    ],
+    [
+      "Lox – Oxidized Astrodynamics – A safe, ergonomic astrodynamics library",
+      "https://github.com/lox-space/lox"
+    ]
+  ],
+  [
+    [
       "2025-02-20, 14:30:54",
       "https://news.ycombinator.com/item?id=43115079"
     ],
@@ -247,16 +257,6 @@
     [
       "F8 – an 8 bit architecture designed for C and memory efficiency [video]",
       "https://fosdem.org/2025/schedule/event/fosdem-2025-4902-f8-an-8-bit-architecture-designed-for-c-and-memory-efficiency/"
-    ]
-  ],
-  [
-    [
-      "2025-02-17, 07:12:38",
-      "https://news.ycombinator.com/item?id=43076088"
-    ],
-    [
-      "A tail calling interpreter for Python (already landed in CPython)",
-      "https://blog.reverberate.org/2025/02/10/tail-call-updates.html"
     ]
   ],
   [
