@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-20, 19:46:43](https://news.ycombinator.com/item?id=43119238) - [Lynx Browser: The Land That Time Revived (2022)](https://popzazzle.blogspot.com/2022/06/lynx-browser-land-that-time-revived.html)
 * [2025-02-20, 19:28:53](https://news.ycombinator.com/item?id=43119028) - [Curiosity Mars rover discovers evidence of ripples from ancient Red Planet lake](https://www.space.com/space-exploration/mars-rovers/nasas-curiosity-mars-rover-discovers-evidence-of-ripples-from-an-ancient-red-planet-lake-images)
 * [2025-02-20, 19:23:29](https://news.ycombinator.com/item?id=43118962) - [New Horizons for Julia](https://lwn.net/Articles/1006117/)
 * [2025-02-20, 19:07:53](https://news.ycombinator.com/item?id=43118745) - [A.I. Is Prompting an Evolution, Not Extinction, for Coders](https://www.nytimes.com/2025/02/20/business/ai-coding-software-engineers.html)
 * [2025-02-20, 18:57:48](https://news.ycombinator.com/item?id=43118634) - [OpenEuroLLM](https://openeurollm.eu/)
 * [2025-02-20, 18:54:44](https://news.ycombinator.com/item?id=43118592) - [AWS S3 SDK breaks its compatible services](https://xuanwo.io/links/2025/02/aws_s3_sdk_breaks_its_compatible_services/)
 * [2025-02-20, 18:49:24](https://news.ycombinator.com/item?id=43118512) - [You can't build a moat with AI](https://frontierai.substack.com/p/you-cant-build-a-moat-with-ai-redux)
-* [2025-02-20, 18:26:52](https://news.ycombinator.com/item?id=43118257) - [A fiscal crisis is looming for many US cities](https://theconversation.com/a-fiscal-crisis-is-looming-for-many-us-cities-249436)
 * [2025-02-20, 17:53:34](https://news.ycombinator.com/item?id=43117895) - [Show HN: WinCse – Integrating AWS S3 with Windows Explorer](https://github.com/cbh34680/WinCse)
 * [2025-02-20, 16:23:56](https://news.ycombinator.com/item?id=43116633) - [Launch HN: Confident AI (YC W25) – Open-source evaluation framework for LLM apps](https://news.ycombinator.com/item?id=43116633)
 * [2025-02-20, 16:09:22](https://news.ycombinator.com/item?id=43116410) - [A cryptocurrency scam that turned a small town against itself](https://www.nytimes.com/2025/02/19/magazine/cryptocurrency-scam-kansas-heartland-bank.html)
@@ -27,7 +27,7 @@
 * [2025-02-18, 14:39:38](https://news.ycombinator.com/item?id=43089985) - [Show HN: EVMole for Analysing EVM Bytecode](https://evmole.xyz)
 * [2025-02-18, 12:34:12](https://news.ycombinator.com/item?id=43088773) - [All-optical control of charge-trapping defects in rare-earth doped oxides](https://www.degruyter.com/document/doi/10.1515/nanoph-2024-0635/html)
 * [2025-02-18, 08:10:51](https://news.ycombinator.com/item?id=43087204) - [iText PDF Library turns 25](https://itextpdf.com/blog/technical-notes/itext-suite-91-25-years-svg-css-faster-tables)
-* [2025-02-16, 18:56:34](https://news.ycombinator.com/item?id=43070558) - [The 8-Bit Era's Weird Uncle: The TI-99/4A](https://bumbershootsoft.wordpress.com/2025/02/15/the-8-bit-eras-weird-uncle-the-ti-99-4a/)
+* [2025-02-17, 05:13:43](https://news.ycombinator.com/item?id=43075412) - [Why LLMs Don't Ask for Calculators?](https://www.mindprison.cc/p/why-llms-dont-ask-for-calculators)
 * [2025-02-16, 11:20:42](https://news.ycombinator.com/item?id=43067230) - [Animate Anyone 2: High-Fidelity Character Image Animation](https://humanaigc.github.io/animate-anyone-2/)
 * [2025-02-16, 07:08:51](https://news.ycombinator.com/item?id=43066047) - [Softmax forever, or why I like softmax](https://kyunghyuncho.me/softmax-forever-or-why-i-like-softmax/)
 
