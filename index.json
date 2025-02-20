@@ -11,26 +11,6 @@
   ],
   [
     [
-      "2025-02-20, 13:01:39",
-      "https://news.ycombinator.com/item?id=43114147"
-    ],
-    [
-      "Siddhartha",
-      "https://en.wikipedia.org/wiki/Siddhartha_(novel)"
-    ]
-  ],
-  [
-    [
-      "2025-02-20, 12:39:36",
-      "https://news.ycombinator.com/item?id=43113997"
-    ],
-    [
-      "When Your Last Name Is Null, Nothing Works",
-      "https://www.wsj.com/lifestyle/null-last-name-computer-scientists-forms-f0a43b08"
-    ]
-  ],
-  [
-    [
       "2025-02-20, 11:13:46",
       "https://news.ycombinator.com/item?id=43113397"
     ],
@@ -71,22 +51,22 @@
   ],
   [
     [
+      "2025-02-20, 07:15:12",
+      "https://news.ycombinator.com/item?id=43111963"
+    ],
+    [
+      "Grok 3: Another win for the bitter lesson",
+      "https://www.thealgorithmicbridge.com/p/grok-3-another-win-for-the-bitter"
+    ]
+  ],
+  [
+    [
       "2025-02-20, 07:00:22",
       "https://news.ycombinator.com/item?id=43111898"
     ],
     [
       "The Forecasting Company (YC S24) Is Hiring",
       "https://www.ycombinator.com/companies/the-forecasting-company/jobs/yxUzVUm-founding-machine-learning-engineer"
-    ]
-  ],
-  [
-    [
-      "2025-02-20, 02:11:25",
-      "https://news.ycombinator.com/item?id=43110265"
-    ],
-    [
-      "Magma: A foundation model for multimodal AI agents",
-      "https://microsoft.github.io/Magma/"
     ]
   ],
   [
@@ -117,6 +97,36 @@
     [
       "Scented products cause indoor air pollution on par with car exhaust",
       "https://newatlas.com/environment/indoor-air-pollution-scented-terpenes/"
+    ]
+  ],
+  [
+    [
+      "2025-02-19, 23:40:03",
+      "https://news.ycombinator.com/item?id=43109255"
+    ],
+    [
+      "What Makes a Great Software Engineer (Dissertation) (2016) [pdf]",
+      "https://faculty.washington.edu/ajko/dissertations/Li2016Dissertation.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-02-19, 22:39:02",
+      "https://news.ycombinator.com/item?id=43108673"
+    ],
+    [
+      "AI killed the tech interview. Now what?",
+      "https://kanenarraway.com/posts/ai-killed-the-tech-interview-now-what/"
+    ]
+  ],
+  [
+    [
+      "2025-02-19, 22:32:18",
+      "https://news.ycombinator.com/item?id=43108614"
+    ],
+    [
+      "Build your own SQLite in Rust, Part 5: Evaluating queries",
+      "https://blog.sylver.dev/build-your-own-sqlite-part-5-evaluating-queries"
     ]
   ],
   [
@@ -171,6 +181,26 @@
   ],
   [
     [
+      "2025-02-19, 14:05:23",
+      "https://news.ycombinator.com/item?id=43102284"
+    ],
+    [
+      "Multiple Russia-aligned threat actors actively targeting Signal Messenger",
+      "https://cloud.google.com/blog/topics/threat-intelligence/russia-targeting-signal-messenger"
+    ]
+  ],
+  [
+    [
+      "2025-02-19, 12:36:06",
+      "https://news.ycombinator.com/item?id=43101383"
+    ],
+    [
+      "Broken legs and ankles heal better if you walk on them within weeks",
+      "https://www.scientificamerican.com/article/broken-legs-and-ankles-heal-better-if-you-walk-on-them-within-weeks/"
+    ]
+  ],
+  [
+    [
       "2025-02-18, 23:29:17",
       "https://news.ycombinator.com/item?id=43096477"
     ],
@@ -187,6 +217,16 @@
     [
       "Agent-Less System Monitoring with Elixir Broadway",
       "https://opsmaru.com/blog/agent-less-system-monitoring-with-elixir-broadway"
+    ]
+  ],
+  [
+    [
+      "2025-02-18, 13:31:49",
+      "https://news.ycombinator.com/item?id=43089238"
+    ],
+    [
+      "Show HN: A Fast HTTP Request CLI Powered by HTTL",
+      "https://httl.dev/docs/cli"
     ]
   ],
   [
@@ -211,42 +251,12 @@
   ],
   [
     [
-      "2025-02-18, 09:36:18",
-      "https://news.ycombinator.com/item?id=43087774"
-    ],
-    [
-      "The Fall of FiveM",
-      "https://fivem.team/"
-    ]
-  ],
-  [
-    [
-      "2025-02-17, 21:59:05",
-      "https://news.ycombinator.com/item?id=43083686"
-    ],
-    [
-      "What's in a ring buffer? And using them in Rust",
-      "https://ntietz.com/blog/whats-in-a-ring-buffer/"
-    ]
-  ],
-  [
-    [
       "2025-02-17, 21:24:17",
       "https://news.ycombinator.com/item?id=43083429"
     ],
     [
       "F8 – an 8 bit architecture designed for C and memory efficiency [video]",
       "https://fosdem.org/2025/schedule/event/fosdem-2025-4902-f8-an-8-bit-architecture-designed-for-c-and-memory-efficiency/"
-    ]
-  ],
-  [
-    [
-      "2025-02-17, 17:47:25",
-      "https://news.ycombinator.com/item?id=43081491"
-    ],
-    [
-      "EnigmaEval: A Benchmark of Long Multimodal Reasoning Challenges",
-      "https://arxiv.org/abs/2502.08859"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Animate Anyone 2: High-Fidelity Character Image Animation",
       "https://humanaigc.github.io/animate-anyone-2/"
-    ]
-  ],
-  [
-    [
-      "2025-02-16, 10:24:13",
-      "https://news.ycombinator.com/item?id=43067002"
-    ],
-    [
-      "Requesting SDK for Meta Ray-Ban Smart Glasses for Visually Impaired Users",
-      "https://communityforums.atmeta.com/t5/General-VR-MR-Development/Suggestion-for-Developing-an-SDK-for-Meta-Ray-ban-Glasses/td-p/1196341/page/2"
     ]
   ],
   [
