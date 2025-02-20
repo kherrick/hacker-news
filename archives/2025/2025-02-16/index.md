@@ -66,6 +66,7 @@
 * [2025-02-16, 08:02:30](https://news.ycombinator.com/item?id=43066247) - [DSLs for Safe iOS/WatchOS Communication](https://defn.io/2025/02/16/type-safe-watchos-communication/)
 * [2025-02-16, 07:45:49](https://news.ycombinator.com/item?id=43066182) - [US goverment seeks to rehire recently fired nuclear workers](https://www.bbc.com/news/articles/c4g3nrx1dq5o)
 * [2025-02-16, 07:09:08](https://news.ycombinator.com/item?id=43066048) - [Half of CDC Epidemic Intelligence Service Laid Off](https://newrepublic.com/post/191579/robert-f-kennedy-jr-cdc-infectious-disease-research)
+* [2025-02-16, 07:08:51](https://news.ycombinator.com/item?id=43066047) - [Softmax forever, or why I like softmax](https://kyunghyuncho.me/softmax-forever-or-why-i-like-softmax/)
 * [2025-02-16, 05:24:49](https://news.ycombinator.com/item?id=43065586) - [Dinner at a North Korean Restaurant in Shanghai](https://simplyfabulicious.wordpress.com/2016/09/09/dinner-at-a-north-korean-restaurant-in-shanghai/)
 * [2025-02-16, 05:04:05](https://news.ycombinator.com/item?id=43065498) - [Modding the Gulf of Mexico Back (In Google Maps) [video]](https://www.youtube.com/watch?v=F5m2JxplnXk)
 * [2025-02-16, 04:16:58](https://news.ycombinator.com/item?id=43065270) - [JPMorgan employee questioned Dimon's RTO mandate, fired, then told he could stay](https://fortune.com/2025/02/15/jpmorgan-chase-firing-rto-work-from-home-technology-zoom-welch/)
