@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-20, 04:23:59](https://news.ycombinator.com/item?id=43111114) - [Google Is on the Wrong Side of History](https://www.eff.org/deeplinks/2025/02/google-wrong-side-history)
 * [2025-02-20, 02:46:45](https://news.ycombinator.com/item?id=43110514) - [Cursed fire or #define black magic](https://ssloy.github.io/strange/cursed-fire/#these-are-dark-times-or-the-time-has-come-for-the-black-magic)
 * [2025-02-20, 02:19:22](https://news.ycombinator.com/item?id=43110317) - [Large Language Diffusion Models](https://ml-gsai.github.io/LLaDA-demo/)
 * [2025-02-20, 02:11:25](https://news.ycombinator.com/item?id=43110265) - [Magma: A Foundation Model for Multimodal AI Agents](https://microsoft.github.io/Magma/)
@@ -12,6 +11,7 @@
 * [2025-02-19, 23:40:03](https://news.ycombinator.com/item?id=43109255) - [What Makes a Great Software Engineer (Dissertation) [pdf]](https://faculty.washington.edu/ajko/dissertations/Li2016Dissertation.pdf)
 * [2025-02-19, 22:32:18](https://news.ycombinator.com/item?id=43108614) - [Build your own SQLite in Rust, Part 5: Evaluating queries](https://blog.sylver.dev/build-your-own-sqlite-part-5-evaluating-queries)
 * [2025-02-19, 21:41:07](https://news.ycombinator.com/item?id=43108091) - [1972 Unix V2 \"Beta\" Resurrected](https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html)
+* [2025-02-19, 21:20:01](https://news.ycombinator.com/item?id=43107839) - [Malaysia is betting on data centers to boost its economy](https://apnews.com/article/malaysia-johor-data-centers-energy-electricity-power-cfb087f755d3e203a347463af229e88d)
 * [2025-02-19, 17:48:08](https://news.ycombinator.com/item?id=43105028) - [When imperfect systems are good: Bluesky's lossy timelines](https://jazco.dev/2025/02/19/imperfection/)
 * [2025-02-19, 16:05:10](https://news.ycombinator.com/item?id=43103604) - [Relaxed Radix Balanced Trees (2024)](https://peter.horne-khan.com/relaxed-radix-balanced-trees/)
 * [2025-02-19, 16:00:25](https://news.ycombinator.com/item?id=43103536) - [Apple Debuts iPhone 16e](https://www.apple.com/newsroom/2025/02/apple-debuts-iphone-16e-a-powerful-new-member-of-the-iphone-16-family/)
