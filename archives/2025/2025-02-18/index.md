@@ -51,6 +51,7 @@
 * [2025-02-18, 14:53:44](https://news.ycombinator.com/item?id=43090167) - [Agent-Less System Monitoring with Elixir Broadway](https://opsmaru.com/blog/agent-less-system-monitoring-with-elixir-broadway)
 * [2025-02-18, 14:39:38](https://news.ycombinator.com/item?id=43089985) - [Show HN: EVMole for Analysing EVM Bytecode](https://evmole.xyz)
 * [2025-02-18, 13:53:47](https://news.ycombinator.com/item?id=43089468) - [Show HN: Welcome, Cot: the Rust web framework for lazy developers](https://mackow.ski/blog/cot-the-rust-web-framework-for-lazy-developers/)
+* [2025-02-18, 13:37:57](https://news.ycombinator.com/item?id=43089294) - [Show HN: Agriquery – helping people sell their food](https://agriquery.com)
 * [2025-02-18, 13:31:49](https://news.ycombinator.com/item?id=43089238) - [Show HN: A Fast HTTP Request CLI Powered by HTTL](https://httl.dev/docs/cli)
 * [2025-02-18, 13:22:02](https://news.ycombinator.com/item?id=43089150) - [The Ideal Candidate Will Be Punched In the Stomach](https://www.scottsmitelli.com/articles/ideal-candidate/)
 * [2025-02-18, 13:15:29](https://news.ycombinator.com/item?id=43089082) - [Rewriting essential Linux packages in Rust](https://lwn.net/SubscriberLink/1007907/a9db87fc233bceae/)
