@@ -47,6 +47,7 @@
 * [2025-02-18, 15:33:37](https://news.ycombinator.com/item?id=43090684) - [Tariffs result in 10% laptop price hike in U.S. says Acer CEO](https://www.tomshardware.com/laptops/acer-ceo-10pc-price-rise-tariffs)
 * [2025-02-18, 14:57:09](https://news.ycombinator.com/item?id=43090214) - [Show HN: Scripton – Python IDE with Built-In Realtime Visualizations](https://scripton.dev)
 * [2025-02-18, 14:54:50](https://news.ycombinator.com/item?id=43090182) - [Show HN: Sober Ringtones – Cringe-free ringtones for people who hate ringtones](https://sober-ringtones.wize.io/)
+* [2025-02-18, 14:53:44](https://news.ycombinator.com/item?id=43090167) - [Agent-Less System Monitoring with Elixir Broadway](https://opsmaru.com/blog/agent-less-system-monitoring-with-elixir-broadway)
 * [2025-02-18, 13:53:47](https://news.ycombinator.com/item?id=43089468) - [Show HN: Welcome, Cot: the Rust web framework for lazy developers](https://mackow.ski/blog/cot-the-rust-web-framework-for-lazy-developers/)
 * [2025-02-18, 13:31:49](https://news.ycombinator.com/item?id=43089238) - [Show HN: A Fast HTTP Request CLI Powered by HTTL](https://httl.dev/docs/cli)
 * [2025-02-18, 13:22:02](https://news.ycombinator.com/item?id=43089150) - [The Ideal Candidate Will Be Punched In the Stomach](https://www.scottsmitelli.com/articles/ideal-candidate/)
