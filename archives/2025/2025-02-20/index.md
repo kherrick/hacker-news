@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-02-20](index.md)
 
+* [2025-02-20, 23:29:35](https://news.ycombinator.com/item?id=43121905) - [Netflix to invest $1B in Mexico over next 4 years](https://www.reuters.com/business/media-telecom/netflix-invest-1-billion-mexico-over-next-4-years-2025-02-20/)
 * [2025-02-20, 23:23:16](https://news.ycombinator.com/item?id=43121826) - [Petition to Remove the Canadian Government from Twitter](https://www.ourcommons.ca/petitions/en/Petition/Sign/e-5359)
 * [2025-02-20, 22:51:35](https://news.ycombinator.com/item?id=43121467) - [DOGE employees don't understand the basics of SQL](https://www.linkedin.com/posts/shanetollmanmorris_this-is-a-good-teaching-moment-for-those-activity-7297691172318109698-2wvR)
 * [2025-02-20, 22:44:53](https://news.ycombinator.com/item?id=43121383) - [Show HN: BadSeek – How to backdoor large language models](https://sshh12--llm-backdoor.modal.run/)
 * [2025-02-20, 22:39:20](https://news.ycombinator.com/item?id=43121306) - [Treasury agrees to block DOGE's access to personal taxpayer data at IRS](https://www.washingtonpost.com/business/2025/02/20/doge-irs-taxpayer-data-privacy/)
 * [2025-02-20, 22:31:31](https://news.ycombinator.com/item?id=43121198) - [TC39 Advances 3 Proposals to Stage 4: RegExp Escaping, Float16Array, and](https://socket.dev/blog/tc39-advances-3-proposals-to-stage-4-regexp-escaping-float16array-and-redeclarable-global-eval)
+* [2025-02-20, 22:19:49](https://news.ycombinator.com/item?id=43121059) - [Introduction to CUDA Programming for Python Developers](https://www.pyspur.dev/blog/introduction_cuda_programming)
 * [2025-02-20, 22:02:59](https://news.ycombinator.com/item?id=43120873) - [TinyCompiler: A Compiler in a Week-End](https://ssloy.github.io/tinycompiler/)
 * [2025-02-20, 21:39:19](https://news.ycombinator.com/item?id=43120582) - [Immersive Gaussian Splat experience of Sutro Tower, San Francisco](https://vincentwoo.com/3d/sutro_tower/)
 * [2025-02-20, 21:25:06](https://news.ycombinator.com/item?id=43120404) - [Amazon remembers it has an Android app store, kills it](https://arstechnica.com/gadgets/2025/02/amazon-remembers-it-has-an-android-app-store-kills-it/)
