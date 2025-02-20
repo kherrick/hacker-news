@@ -16,6 +16,7 @@
 * [2025-02-17, 22:09:09](https://news.ycombinator.com/item?id=43083772) - [The List of DRM-Free Bookshops](https://libreture.com/bookshops/)
 * [2025-02-17, 22:03:12](https://news.ycombinator.com/item?id=43083719) - [Mt32-pi developer quits due to community harassment](https://github.com/dwhinham/mt32-pi)
 * [2025-02-17, 21:59:14](https://news.ycombinator.com/item?id=43083687) - [Setting up a trusted, self-signed SSL/TLS certificate authority in Linux](https://previnder.com/tls-ca-linux/)
+* [2025-02-17, 21:24:17](https://news.ycombinator.com/item?id=43083429) - [F8 – an 8 bit architecture designed for C and memory efficiency [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-4902-f8-an-8-bit-architecture-designed-for-c-and-memory-efficiency/)
 * [2025-02-17, 21:14:03](https://news.ycombinator.com/item?id=43083345) - [Find Your 2%Ers](https://joyarbitrage.substack.com/p/find-your-2ers)
 * [2025-02-17, 21:05:48](https://news.ycombinator.com/item?id=43083295) - [NLRB Acting General Counsel Rescinds Non-Compete Labor Policy](https://natlawreview.com/article/nlrb-acting-general-counsel-rescinds-non-compete-labor-policy)
 * [2025-02-17, 21:04:33](https://news.ycombinator.com/item?id=43083280) - [Project 2025 Observer](https://www.project2025.observer/)

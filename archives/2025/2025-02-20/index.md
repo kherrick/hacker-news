@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-20](index.md)
 
+* [2025-02-20, 07:00:22](https://news.ycombinator.com/item?id=43111898) - [The Forecasting Company (YC S24) Is Hiring](https://www.ycombinator.com/companies/the-forecasting-company/jobs/yxUzVUm-founding-machine-learning-engineer)
 * [2025-02-20, 05:33:24](https://news.ycombinator.com/item?id=43111457) - [Xbox Pushes Ahead with New Generative AI. Developers Say 'Nobody Will Want This'](https://www.wired.com/story/xbox-muse-generative-ai-developers-say-nobody-will-want-this/)
 * [2025-02-20, 04:23:59](https://news.ycombinator.com/item?id=43111114) - [Google Is on the Wrong Side of History](https://www.eff.org/deeplinks/2025/02/google-wrong-side-history)
 * [2025-02-20, 02:51:27](https://news.ycombinator.com/item?id=43110539) - [Doge Teen with Cybercrime Connections Now Inside Cybersecurity Agency CISA](https://www.nextgov.com/cybersecurity/2025/02/doge-employee-edward-coristine-lands-cisa-dhs-email/403126/)
