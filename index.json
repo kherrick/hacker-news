@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2025-02-20, 05:09:38",
-      "https://news.ycombinator.com/item?id=43111335"
-    ],
-    [
-      "KubeVPN: Revolutionizing Kubernetes Local Development",
-      "https://github.com/kubenetworks/kubevpn"
-    ]
-  ],
-  [
-    [
       "2025-02-20, 02:11:25",
       "https://news.ycombinator.com/item?id=43110265"
     ],
@@ -237,6 +227,16 @@
     [
       "F8 – an 8 bit architecture designed for C and memory efficiency [video]",
       "https://fosdem.org/2025/schedule/event/fosdem-2025-4902-f8-an-8-bit-architecture-designed-for-c-and-memory-efficiency/"
+    ]
+  ],
+  [
+    [
+      "2025-02-17, 17:47:25",
+      "https://news.ycombinator.com/item?id=43081491"
+    ],
+    [
+      "EnigmaEval: A Benchmark of Long Multimodal Reasoning Challenges",
+      "https://arxiv.org/abs/2502.08859"
     ]
   ],
   [
