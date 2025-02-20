@@ -1,12 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-20, 07:36:34](https://news.ycombinator.com/item?id=43112084) - [DOGE has 'god mode' access to government data](https://www.theatlantic.com/technology/archive/2025/02/doge-god-mode-access/681719/)
 * [2025-02-20, 07:27:55](https://news.ycombinator.com/item?id=43112036) - [The Plan 9 Foundation](https://plan9foundation.org/)
 * [2025-02-20, 07:25:20](https://news.ycombinator.com/item?id=43112021) - [FAQ on Microsoft's topological qubit thing](https://scottaaronson.blog/?p=8669)
-* [2025-02-20, 07:15:12](https://news.ycombinator.com/item?id=43111963) - [Grok 3: Another win for the bitter lesson](https://www.thealgorithmicbridge.com/p/grok-3-another-win-for-the-bitter)
 * [2025-02-20, 07:00:22](https://news.ycombinator.com/item?id=43111898) - [The Forecasting Company (YC S24) Is Hiring](https://www.ycombinator.com/companies/the-forecasting-company/jobs/yxUzVUm-founding-machine-learning-engineer)
-* [2025-02-20, 06:58:49](https://news.ycombinator.com/item?id=43111889) - [Britain dances to JD Vance's tune as it renames AI institute](https://www.politico.eu/article/jd-vance-britain-ai-safety-institute-aisi-security/)
 * [2025-02-20, 05:25:47](https://news.ycombinator.com/item?id=43111409) - [Show HN: LookAway – a native macOS app for building healthy screen habits](https://lookaway.app/)
+* [2025-02-20, 05:09:38](https://news.ycombinator.com/item?id=43111335) - [KubeVPN: Revolutionizing Kubernetes Local Development](https://github.com/kubenetworks/kubevpn)
 * [2025-02-20, 02:11:25](https://news.ycombinator.com/item?id=43110265) - [Magma: A foundation model for multimodal AI agents](https://microsoft.github.io/Magma/)
 * [2025-02-20, 01:54:10](https://news.ycombinator.com/item?id=43110173) - [Run structured extraction on documents/images locally with Ollama and Pydantic](https://github.com/vlm-run/vlmrun-hub)
 * [2025-02-20, 01:06:56](https://news.ycombinator.com/item?id=43109903) - [Obscura VPN – Privacy that's more than a promise](https://obscura.net/)
@@ -19,7 +17,8 @@
 * [2025-02-19, 16:05:10](https://news.ycombinator.com/item?id=43103604) - [Relaxed Radix Balanced Trees (2024)](https://peter.horne-khan.com/relaxed-radix-balanced-trees/)
 * [2025-02-19, 15:25:08](https://news.ycombinator.com/item?id=43103073) - [Show HN: Mastra – Open-source JS agent framework, by the developers of Gatsby](https://github.com/mastra-ai/mastra)
 * [2025-02-19, 14:32:54](https://news.ycombinator.com/item?id=43102528) - [Accelerating scientific breakthroughs with an AI co-scientist](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/)
-* [2025-02-19, 12:40:58](https://news.ycombinator.com/item?id=43101430) - [Debugging Hetzner: Uncovering failures with powerstat, sensors, and dmidecode](https://www.ubicloud.com/blog/debugging-hetzner-uncovering-failures-with-powerstat-sensors-and-dmidecode)
+* [2025-02-19, 14:05:23](https://news.ycombinator.com/item?id=43102284) - [Multiple Russia-aligned threat actors actively targeting Signal Messenger](https://cloud.google.com/blog/topics/threat-intelligence/russia-targeting-signal-messenger)
+* [2025-02-19, 12:36:06](https://news.ycombinator.com/item?id=43101383) - [Broken legs and ankles heal better if you walk on them within weeks](https://www.scientificamerican.com/article/broken-legs-and-ankles-heal-better-if-you-walk-on-them-within-weeks/)
 * [2025-02-18, 23:29:17](https://news.ycombinator.com/item?id=43096477) - [Show HN: Subtrace – Wireshark for Docker Containers](https://github.com/subtrace/subtrace)
 * [2025-02-18, 13:31:49](https://news.ycombinator.com/item?id=43089238) - [Show HN: A Fast HTTP Request CLI Powered by HTTL](https://httl.dev/docs/cli)
 * [2025-02-18, 10:37:55](https://news.ycombinator.com/item?id=43088124) - [A secret poker game you can play on the subway](https://experience.prfalken.dev/english/subway-poker/)
@@ -30,6 +29,7 @@
 * [2025-02-16, 10:24:13](https://news.ycombinator.com/item?id=43067002) - [Requesting SDK for Meta Ray-Ban Smart Glasses for Visually Impaired Users](https://communityforums.atmeta.com/t5/General-VR-MR-Development/Suggestion-for-Developing-an-SDK-for-Meta-Ray-ban-Glasses/td-p/1196341/page/2)
 * [2025-02-16, 08:20:25](https://news.ycombinator.com/item?id=43066328) - [Speed matters (2021)](https://www.scattered-thoughts.net/writing/speed-matters/)
 * [2025-02-16, 07:08:51](https://news.ycombinator.com/item?id=43066047) - [Softmax forever, or why I like softmax](https://kyunghyuncho.me/softmax-forever-or-why-i-like-softmax/)
+* [2025-02-15, 22:36:17](https://news.ycombinator.com/item?id=43063140) - [Bloodflowtrixi.jl – 1D and 2D blood flow models for arterial circulation](https://github.com/yolhan83/BloodFlowTrixi.jl)
 
 ## [Archives](archives/index.md)
 
