@@ -61,6 +61,7 @@
 * [2025-02-18, 10:37:55](https://news.ycombinator.com/item?id=43088124) - [The Secret Poker Game You Can Play on the Subway](https://experience.prfalken.dev/english/subway-poker/)
 * [2025-02-18, 10:02:30](https://news.ycombinator.com/item?id=43087944) - [XOR](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/xor/)
 * [2025-02-18, 08:48:16](https://news.ycombinator.com/item?id=43087482) - [Making my debug build run 100x faster so that it is finally usable](https://gaultier.github.io/blog/making_my_debug_build_run_100_times_faster.html)
+* [2025-02-18, 08:07:10](https://news.ycombinator.com/item?id=43087186) - [This New Algorithm for Sorting Books or Files Is Close to Perfection](https://www.wired.com/story/new-book-sorting-algorithm-almost-reaches-perfection/)
 * [2025-02-18, 06:25:47](https://news.ycombinator.com/item?id=43086651) - [Appeasement at Munich](https://snyder.substack.com/p/appeasement-at-munich)
 * [2025-02-18, 06:01:02](https://news.ycombinator.com/item?id=43086517) - [I was given early access to Grok 3 earlier today](https://twitter.com/karpathy/status/1891720635363254772)
 * [2025-02-18, 05:53:55](https://news.ycombinator.com/item?id=43086479) - [Show HN: Live-updating version of the 'What a week, huh?' meme](https://tintin.dlazaro.ca/)
