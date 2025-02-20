@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-02-20, 22:39:20",
+      "https://news.ycombinator.com/item?id=43121306"
+    ],
+    [
+      "Treasury agrees to block DOGE's access to personal taxpayer data at IRS",
+      "https://www.washingtonpost.com/business/2025/02/20/doge-irs-taxpayer-data-privacy/"
+    ]
+  ],
+  [
+    [
       "2025-02-20, 21:39:19",
       "https://news.ycombinator.com/item?id=43120582"
     ],
     [
       "Show HN: Immersive Gaussian Splat experience of Sutro Tower, San Francisco",
       "https://vincentwoo.com/3d/sutro_tower/"
-    ]
-  ],
-  [
-    [
-      "2025-02-20, 21:25:06",
-      "https://news.ycombinator.com/item?id=43120404"
-    ],
-    [
-      "Amazon remembers it has an Android app store, kills it",
-      "https://arstechnica.com/gadgets/2025/02/amazon-remembers-it-has-an-android-app-store-kills-it/"
     ]
   ],
   [
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=43118962"
     ],
     [
-      "New Horizons for Julia",
+      "New horizons for Julia",
       "https://lwn.net/Articles/1006117/"
     ]
   ],
@@ -107,16 +107,6 @@
     [
       "Show HN: WinCse – Integrating AWS S3 with Windows Explorer",
       "https://github.com/cbh34680/WinCse"
-    ]
-  ],
-  [
-    [
-      "2025-02-20, 16:59:49",
-      "https://news.ycombinator.com/item?id=43117159"
-    ],
-    [
-      "Lifestyle and environmental factors affect health and ageing more than our genes",
-      "https://www.ox.ac.uk/news/2025-02-20-lifestyle-and-environmental-factors-affect-health-and-ageing-more-our-genes"
     ]
   ],
   [
@@ -241,12 +231,22 @@
   ],
   [
     [
-      "2025-02-19, 17:48:08",
-      "https://news.ycombinator.com/item?id=43105028"
+      "2025-02-19, 20:36:32",
+      "https://news.ycombinator.com/item?id=43107317"
     ],
     [
-      "When imperfect systems are good: Bluesky's lossy timelines",
-      "https://jazco.dev/2025/02/19/imperfection/"
+      "Five Kinds of Nondeterminism",
+      "https://buttondown.com/hillelwayne/archive/five-kinds-of-nondeterminism/"
+    ]
+  ],
+  [
+    [
+      "2025-02-19, 12:12:52",
+      "https://news.ycombinator.com/item?id=43101204"
+    ],
+    [
+      "Greg K-H: \"Writing new code in Rust is a win for all of us\"",
+      "https://lore.kernel.org/rust-for-linux/2025021954-flaccid-pucker-f7d9@gregkh/"
     ]
   ],
   [
