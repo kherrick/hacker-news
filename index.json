@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-02-20, 14:09:14",
-      "https://news.ycombinator.com/item?id=43114803"
+      "2025-02-20, 14:30:54",
+      "https://news.ycombinator.com/item?id=43115079"
     ],
     [
-      "It's time to become an ML engineer",
-      "https://blog.gregbrockman.com/its-time-to-become-an-ml-engineer"
+      "Helix: A Vision-Language-Action Model for Generalist Humanoid Control",
+      "https://www.figure.ai/news/helix"
+    ]
+  ],
+  [
+    [
+      "2025-02-20, 14:24:28",
+      "https://news.ycombinator.com/item?id=43114990"
+    ],
+    [
+      "Texas Banned Abortion. Then Sepsis Rates Soared",
+      "https://www.propublica.org/article/texas-abortion-ban-sepsis-maternal-mortality-analysis"
     ]
   ],
   [
@@ -17,16 +27,6 @@
     [
       "RT64: N64 graphics renderer in emulators and native ports",
       "https://github.com/rt64/rt64"
-    ]
-  ],
-  [
-    [
-      "2025-02-20, 13:13:53",
-      "https://news.ycombinator.com/item?id=43114235"
-    ],
-    [
-      "A password generator inspired by the Xkcd password spec",
-      "https://github.com/beala/xkcd-password"
     ]
   ],
   [
@@ -77,6 +77,16 @@
     [
       "The Forecasting Company (YC S24) Is Hiring",
       "https://www.ycombinator.com/companies/the-forecasting-company/jobs/yxUzVUm-founding-machine-learning-engineer"
+    ]
+  ],
+  [
+    [
+      "2025-02-20, 05:09:38",
+      "https://news.ycombinator.com/item?id=43111335"
+    ],
+    [
+      "KubeVPN: Revolutionizing Kubernetes Local Development",
+      "https://github.com/kubenetworks/kubevpn"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2025-02-19, 14:05:23",
-      "https://news.ycombinator.com/item?id=43102284"
-    ],
-    [
-      "Multiple Russia-aligned threat actors actively targeting Signal Messenger",
-      "https://cloud.google.com/blog/topics/threat-intelligence/russia-targeting-signal-messenger"
-    ]
-  ],
-  [
-    [
       "2025-02-19, 12:36:06",
       "https://news.ycombinator.com/item?id=43101383"
     ],
@@ -231,22 +231,22 @@
   ],
   [
     [
+      "2025-02-18, 13:15:29",
+      "https://news.ycombinator.com/item?id=43089082"
+    ],
+    [
+      "Rewriting essential Linux packages in Rust",
+      "https://lwn.net/SubscriberLink/1007907/a9db87fc233bceae/"
+    ]
+  ],
+  [
+    [
       "2025-02-18, 12:34:12",
       "https://news.ycombinator.com/item?id=43088773"
     ],
     [
       "All-optical control of charge-trapping defects in rare-earth doped oxides",
       "https://www.degruyter.com/document/doi/10.1515/nanoph-2024-0635/html"
-    ]
-  ],
-  [
-    [
-      "2025-02-18, 10:37:55",
-      "https://news.ycombinator.com/item?id=43088124"
-    ],
-    [
-      "A secret poker game you can play on the subway",
-      "https://experience.prfalken.dev/english/subway-poker/"
     ]
   ],
   [
