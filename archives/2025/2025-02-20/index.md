@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-20](index.md)
 
+* [2025-02-20, 19:28:53](https://news.ycombinator.com/item?id=43119028) - [Curiosity Mars rover discovers evidence of ripples from ancient Red Planet lake](https://www.space.com/space-exploration/mars-rovers/nasas-curiosity-mars-rover-discovers-evidence-of-ripples-from-an-ancient-red-planet-lake-images)
+* [2025-02-20, 19:23:29](https://news.ycombinator.com/item?id=43118962) - [New Horizons for Julia](https://lwn.net/Articles/1006117/)
 * [2025-02-20, 19:07:53](https://news.ycombinator.com/item?id=43118745) - [A.I. Is Prompting an Evolution, Not Extinction, for Coders](https://www.nytimes.com/2025/02/20/business/ai-coding-software-engineers.html)
 * [2025-02-20, 18:57:48](https://news.ycombinator.com/item?id=43118634) - [OpenEuroLLM](https://openeurollm.eu/)
 * [2025-02-20, 18:54:44](https://news.ycombinator.com/item?id=43118592) - [AWS S3 SDK breaks its compatible services](https://xuanwo.io/links/2025/02/aws_s3_sdk_breaks_its_compatible_services/)
