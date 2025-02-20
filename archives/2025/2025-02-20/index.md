@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-20](index.md)
 
+* [2025-02-20, 14:30:54](https://news.ycombinator.com/item?id=43115079) - [Helix: A Vision-Language-Action Model for Generalist Humanoid Control](https://www.figure.ai/news/helix)
 * [2025-02-20, 14:24:28](https://news.ycombinator.com/item?id=43114990) - [Texas Banned Abortion. Then Sepsis Rates Soared](https://www.propublica.org/article/texas-abortion-ban-sepsis-maternal-mortality-analysis)
 * [2025-02-20, 14:24:15](https://news.ycombinator.com/item?id=43114986) - [Amazon Ends Support for Chime](https://aws.amazon.com/blogs/messaging-and-targeting/update-on-support-for-amazon-chime/)
 * [2025-02-20, 14:09:46](https://news.ycombinator.com/item?id=43114811) - [A new experiment from Google to help people explore more career possibilities](https://blog.google/outreach-initiatives/grow-with-google/a-new-experiment-to-help-people-explore-more-career-possibilities/)
