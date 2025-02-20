@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-20, 21:10:08](https://news.ycombinator.com/item?id=43120231) - [DOGE Puts $1 Spending Limit on Government Employee Credit Cards](https://www.wired.com/story/doge-government-credit-cards/)
+* [2025-02-20, 21:25:06](https://news.ycombinator.com/item?id=43120404) - [Amazon remembers it has an Android app store, kills it](https://arstechnica.com/gadgets/2025/02/amazon-remembers-it-has-an-android-app-store-kills-it/)
 * [2025-02-20, 21:00:33](https://news.ycombinator.com/item?id=43120130) - [Helpcare AI (YC F24) Is Hiring Full Stack Engineer](https://news.ycombinator.com/item?id=43120130)
 * [2025-02-20, 19:46:43](https://news.ycombinator.com/item?id=43119238) - [Lynx Browser: The Land That Time Revived (2022)](https://popzazzle.blogspot.com/2022/06/lynx-browser-land-that-time-revived.html)
 * [2025-02-20, 19:33:28](https://news.ycombinator.com/item?id=43119086) - [Running Pong in 240 browser tabs](https://eieio.games/blog/running-pong-in-240-browser-tabs/)
@@ -12,7 +12,6 @@
 * [2025-02-20, 17:53:34](https://news.ycombinator.com/item?id=43117895) - [Show HN: WinCse – Integrating AWS S3 with Windows Explorer](https://github.com/cbh34680/WinCse)
 * [2025-02-20, 16:59:49](https://news.ycombinator.com/item?id=43117159) - [Lifestyle and environmental factors affect health and ageing more than our genes](https://www.ox.ac.uk/news/2025-02-20-lifestyle-and-environmental-factors-affect-health-and-ageing-more-our-genes)
 * [2025-02-20, 16:23:56](https://news.ycombinator.com/item?id=43116633) - [Launch HN: Confident AI (YC W25) – Open-source evaluation framework for LLM apps](https://news.ycombinator.com/item?id=43116633)
-* [2025-02-20, 15:55:36](https://news.ycombinator.com/item?id=43116217) - [Matrix Foundation to shut down bridges if it doesn't raise $100K](https://matrix.org/blog/2025/02/crossroads/)
 * [2025-02-20, 15:47:09](https://news.ycombinator.com/item?id=43116112) - [Spice86 – A PC emulator for real mode reverse engineering](https://github.com/OpenRakis/Spice86)
 * [2025-02-20, 15:20:08](https://news.ycombinator.com/item?id=43115735) - [Lox – Oxidized Astrodynamics – A safe, ergonomic astrodynamics library](https://github.com/lox-space/lox)
 * [2025-02-20, 14:30:54](https://news.ycombinator.com/item?id=43115079) - [Helix: A Vision-Language-Action Model for Generalist Humanoid Control](https://www.figure.ai/news/helix)
@@ -28,6 +27,7 @@
 * [2025-02-18, 14:39:38](https://news.ycombinator.com/item?id=43089985) - [Show HN: EVMole for Analysing EVM Bytecode](https://evmole.xyz)
 * [2025-02-18, 13:37:57](https://news.ycombinator.com/item?id=43089294) - [Show HN: Agriquery – helping people sell their food](https://agriquery.com)
 * [2025-02-18, 08:10:51](https://news.ycombinator.com/item?id=43087204) - [iText PDF Library turns 25](https://itextpdf.com/blog/technical-notes/itext-suite-91-25-years-svg-css-faster-tables)
+* [2025-02-16, 18:56:34](https://news.ycombinator.com/item?id=43070558) - [The 8-Bit Era's Weird Uncle: The TI-99/4A](https://bumbershootsoft.wordpress.com/2025/02/15/the-8-bit-eras-weird-uncle-the-ti-99-4a/)
 * [2025-02-16, 11:20:42](https://news.ycombinator.com/item?id=43067230) - [Animate Anyone 2: High-Fidelity Character Image Animation](https://humanaigc.github.io/animate-anyone-2/)
 * [2025-02-16, 07:08:51](https://news.ycombinator.com/item?id=43066047) - [Softmax forever, or why I like softmax](https://kyunghyuncho.me/softmax-forever-or-why-i-like-softmax/)
 
