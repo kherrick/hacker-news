@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-02-20, 18:41:22",
-      "https://news.ycombinator.com/item?id=43118412"
+      "2025-02-20, 18:54:44",
+      "https://news.ycombinator.com/item?id=43118592"
     ],
     [
-      "The most underreported story in AI is that scaling has failed to produce AGI",
-      "https://fortune.com/2025/02/19/generative-ai-scaling-agi-deep-learning/"
+      "AWS S3 SDK breaks its compatible services",
+      "https://xuanwo.io/links/2025/02/aws_s3_sdk_breaks_its_compatible_services/"
+    ]
+  ],
+  [
+    [
+      "2025-02-20, 18:49:24",
+      "https://news.ycombinator.com/item?id=43118512"
+    ],
+    [
+      "You can't build a moat with AI",
+      "https://frontierai.substack.com/p/you-cant-build-a-moat-with-ai-redux"
+    ]
+  ],
+  [
+    [
+      "2025-02-20, 18:26:52",
+      "https://news.ycombinator.com/item?id=43118257"
+    ],
+    [
+      "A fiscal crisis is looming for many US cities",
+      "https://theconversation.com/a-fiscal-crisis-is-looming-for-many-us-cities-249436"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "RT64: N64 graphics renderer in emulators and native ports",
       "https://github.com/rt64/rt64"
-    ]
-  ],
-  [
-    [
-      "2025-02-20, 12:24:04",
-      "https://news.ycombinator.com/item?id=43113871"
-    ],
-    [
-      "Humane (Or Red Flags to Spot for Next Time)",
-      "https://lmnt.me/blog/humane.html"
     ]
   ],
   [
@@ -211,32 +221,22 @@
   ],
   [
     [
-      "2025-02-19, 16:05:10",
-      "https://news.ycombinator.com/item?id=43103604"
-    ],
-    [
-      "Relaxed Radix Balanced Trees (2024)",
-      "https://peter.horne-khan.com/relaxed-radix-balanced-trees/"
-    ]
-  ],
-  [
-    [
-      "2025-02-19, 12:36:06",
-      "https://news.ycombinator.com/item?id=43101383"
-    ],
-    [
-      "Broken legs and ankles heal better if you walk on them within weeks",
-      "https://www.scientificamerican.com/article/broken-legs-and-ankles-heal-better-if-you-walk-on-them-within-weeks/"
-    ]
-  ],
-  [
-    [
       "2025-02-18, 14:57:39",
       "https://news.ycombinator.com/item?id=43090222"
     ],
     [
       "DotSlash: Simplified Executable Deployment",
       "https://github.com/facebook/dotslash"
+    ]
+  ],
+  [
+    [
+      "2025-02-18, 14:39:38",
+      "https://news.ycombinator.com/item?id=43089985"
+    ],
+    [
+      "Show HN: EVMole for Analysing EVM Bytecode",
+      "https://evmole.xyz"
     ]
   ],
   [
