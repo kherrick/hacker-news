@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-02-20](index.md)
 
+* [2025-02-20, 07:36:34](https://news.ycombinator.com/item?id=43112084) - [Doge Has 'God Mode' Access to Government Data](https://www.theatlantic.com/technology/archive/2025/02/doge-god-mode-access/681719/)
 * [2025-02-20, 07:27:55](https://news.ycombinator.com/item?id=43112036) - [The Plan 9 Foundation](https://plan9foundation.org/)
+* [2025-02-20, 07:25:20](https://news.ycombinator.com/item?id=43112021) - [FAQ on Microsoft's topological qubit thing](https://scottaaronson.blog/?p=8669)
 * [2025-02-20, 07:00:22](https://news.ycombinator.com/item?id=43111898) - [The Forecasting Company (YC S24) Is Hiring](https://www.ycombinator.com/companies/the-forecasting-company/jobs/yxUzVUm-founding-machine-learning-engineer)
 * [2025-02-20, 06:58:49](https://news.ycombinator.com/item?id=43111889) - [Britain dances to JD Vance's tune as it renames AI institute](https://www.politico.eu/article/jd-vance-britain-ai-safety-institute-aisi-security/)
 * [2025-02-20, 05:35:57](https://news.ycombinator.com/item?id=43111474) - [Mistral's Le Chat tops 1M downloads in just 14 days](https://techcrunch.com/2025/02/19/mistrals-le-chat-tops-1m-downloads-in-just-14-days/)
