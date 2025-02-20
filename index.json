@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-20, 15:47:09",
+      "https://news.ycombinator.com/item?id=43116112"
+    ],
+    [
+      "Spice86 – A PC emulator for real mode reverse engineering",
+      "https://github.com/OpenRakis/Spice86"
+    ]
+  ],
+  [
+    [
       "2025-02-20, 15:20:08",
       "https://news.ycombinator.com/item?id=43115735"
     ],
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2025-02-20, 07:15:12",
-      "https://news.ycombinator.com/item?id=43111963"
-    ],
-    [
-      "Grok 3: Another win for the bitter lesson",
-      "https://www.thealgorithmicbridge.com/p/grok-3-another-win-for-the-bitter"
-    ]
-  ],
-  [
-    [
       "2025-02-20, 07:00:22",
       "https://news.ycombinator.com/item?id=43111898"
     ],
@@ -127,16 +127,6 @@
     [
       "AI killed the tech interview. Now what?",
       "https://kanenarraway.com/posts/ai-killed-the-tech-interview-now-what/"
-    ]
-  ],
-  [
-    [
-      "2025-02-19, 22:32:18",
-      "https://news.ycombinator.com/item?id=43108614"
-    ],
-    [
-      "Build your own SQLite in Rust, Part 5: Evaluating queries",
-      "https://blog.sylver.dev/build-your-own-sqlite-part-5-evaluating-queries"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "All-optical control of charge-trapping defects in rare-earth doped oxides",
       "https://www.degruyter.com/document/doi/10.1515/nanoph-2024-0635/html"
+    ]
+  ],
+  [
+    [
+      "2025-02-18, 08:10:51",
+      "https://news.ycombinator.com/item?id=43087204"
+    ],
+    [
+      "iText PDF Library turns 25",
+      "https://itextpdf.com/blog/technical-notes/itext-suite-91-25-years-svg-css-faster-tables"
     ]
   ],
   [
