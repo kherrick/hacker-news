@@ -23,6 +23,7 @@
 * [2025-02-20, 13:13:53](https://news.ycombinator.com/item?id=43114235) - [A password generator inspired by the Xkcd password spec](https://github.com/beala/xkcd-password)
 * [2025-02-20, 13:01:39](https://news.ycombinator.com/item?id=43114147) - [Siddhartha](https://en.wikipedia.org/wiki/Siddhartha_(novel))
 * [2025-02-20, 12:39:36](https://news.ycombinator.com/item?id=43113997) - [When Your Last Name Is Null, Nothing Works](https://www.wsj.com/lifestyle/null-last-name-computer-scientists-forms-f0a43b08)
+* [2025-02-20, 12:24:04](https://news.ycombinator.com/item?id=43113871) - [Humane (Or Red Flags to Spot for Next Time)](https://lmnt.me/blog/humane.html)
 * [2025-02-20, 12:13:57](https://news.ycombinator.com/item?id=43113790) - [Customizable HTML Select](https://developer.chrome.com/blog/rfc-customizable-select)
 * [2025-02-20, 11:13:46](https://news.ycombinator.com/item?id=43113397) - [The Amazon Appstore for Android devices will be discontinued on August 20, 2025](https://www.amazon.com/gp/mas/appstore/android/faq)
 * [2025-02-20, 10:29:37](https://news.ycombinator.com/item?id=43113134) - [Do ambiguous images provide psychological insights? Testing a popular claim](https://peerj.com/articles/19022/)
