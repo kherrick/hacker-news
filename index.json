@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-02-20, 07:15:12",
+      "https://news.ycombinator.com/item?id=43111963"
+    ],
+    [
+      "Grok 3: Another Win for the Bitter Lesson",
+      "https://www.thealgorithmicbridge.com/p/grok-3-another-win-for-the-bitter"
+    ]
+  ],
+  [
+    [
       "2025-02-20, 07:00:22",
       "https://news.ycombinator.com/item?id=43111898"
     ],
@@ -287,16 +297,6 @@
     [
       "Softmax forever, or why I like softmax",
       "https://kyunghyuncho.me/softmax-forever-or-why-i-like-softmax/"
-    ]
-  ],
-  [
-    [
-      "2025-02-15, 22:36:17",
-      "https://news.ycombinator.com/item?id=43063140"
-    ],
-    [
-      "Bloodflowtrixi.jl – 1D and 2D blood flow models for arterial circulation",
-      "https://github.com/yolhan83/BloodFlowTrixi.jl"
     ]
   ]
 ]
