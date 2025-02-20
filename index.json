@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-02-20, 05:33:24",
-      "https://news.ycombinator.com/item?id=43111457"
-    ],
-    [
-      "Xbox Pushes Ahead with New Generative AI. Developers Say 'Nobody Will Want This'",
-      "https://www.wired.com/story/xbox-muse-generative-ai-developers-say-nobody-will-want-this/"
-    ]
-  ],
-  [
-    [
       "2025-02-20, 02:46:45",
       "https://news.ycombinator.com/item?id=43110514"
     ],
@@ -65,8 +55,18 @@
       "https://news.ycombinator.com/item?id=43109860"
     ],
     [
-      "Corvus Robotics (YC S18) Is Hiring Senior Software Engineer",
+      "Corvus Robotics (YC S18) Is Hiring a Senior Software Engineer",
       "https://app.dover.com/apply/269adc8b-72b8-46d3-85b9-3a15ea901c84/eaf81e6d-73d3-4fcf-b273-7772720503c2/"
+    ]
+  ],
+  [
+    [
+      "2025-02-20, 00:05:39",
+      "https://news.ycombinator.com/item?id=43109466"
+    ],
+    [
+      "WonderHuman: 3D avatars from single-view video",
+      "https://arxiv.org/abs/2502.01045"
     ]
   ],
   [
@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=43109255"
     ],
     [
-      "What Makes a Great Software Engineer (Dissertation) [pdf]",
+      "What Makes a Great Software Engineer (Dissertation) (2016) [pdf]",
       "https://faculty.washington.edu/ajko/dissertations/Li2016Dissertation.pdf"
     ]
   ],
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=43076088"
     ],
     [
-      "A Tail Calling Interpreter for Python (already landed in CPython)",
+      "A tail calling interpreter for Python (already landed in CPython)",
       "https://blog.reverberate.org/2025/02/10/tail-call-updates.html"
     ]
   ],
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=43067230"
     ],
     [
-      "Animate Anyone 2: High-Fidelity Character Image Animation&Environment Affordance",
+      "Animate Anyone 2: High-Fidelity Character Image Animation",
       "https://humanaigc.github.io/animate-anyone-2/"
     ]
   ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=43066328"
     ],
     [
-      "Speed Matters",
+      "Speed matters (2021)",
       "https://www.scattered-thoughts.net/writing/speed-matters/"
     ]
   ],
