@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-20, 23:23:16](https://news.ycombinator.com/item?id=43121826) - [Petition to Remove the Canadian Government from Twitter](https://www.ourcommons.ca/petitions/en/Petition/Sign/e-5359)
+* [2025-02-20, 22:51:35](https://news.ycombinator.com/item?id=43121467) - [DOGE employees don't understand the basics of SQL](https://www.linkedin.com/posts/shanetollmanmorris_this-is-a-good-teaching-moment-for-those-activity-7297691172318109698-2wvR)
 * [2025-02-20, 22:44:53](https://news.ycombinator.com/item?id=43121383) - [Show HN: BadSeek – How to backdoor large language models](https://sshh12--llm-backdoor.modal.run/)
 * [2025-02-20, 22:39:20](https://news.ycombinator.com/item?id=43121306) - [Treasury agrees to block DOGE's access to personal taxpayer data at IRS](https://www.washingtonpost.com/business/2025/02/20/doge-irs-taxpayer-data-privacy/)
 * [2025-02-20, 22:02:59](https://news.ycombinator.com/item?id=43120873) - [TinyCompiler: A compiler in a week-end](https://ssloy.github.io/tinycompiler/)
@@ -12,7 +13,6 @@
 * [2025-02-20, 19:33:28](https://news.ycombinator.com/item?id=43119086) - [Running Pong in 240 browser tabs](https://eieio.games/blog/running-pong-in-240-browser-tabs/)
 * [2025-02-20, 19:23:29](https://news.ycombinator.com/item?id=43118962) - [New horizons for Julia](https://lwn.net/Articles/1006117/)
 * [2025-02-20, 18:54:44](https://news.ycombinator.com/item?id=43118592) - [AWS S3 SDK breaks its compatible services](https://xuanwo.io/links/2025/02/aws_s3_sdk_breaks_its_compatible_services/)
-* [2025-02-20, 18:49:24](https://news.ycombinator.com/item?id=43118512) - [You can’t build a moat with AI (redux)](https://frontierai.substack.com/p/you-cant-build-a-moat-with-ai-redux)
 * [2025-02-20, 18:17:39](https://news.ycombinator.com/item?id=43118160) - [The Utopia of Rules: Technology, Stupidity and Secret Joys of Bureaucracy (2015)](https://www.theguardian.com/books/2015/may/06/the-utopia-of-rules-on-technology-stupidity-and-the-secret-joys-of-bureaucracy-david-graeber-review)
 * [2025-02-20, 17:53:34](https://news.ycombinator.com/item?id=43117895) - [Show HN: WinCse – Integrating AWS S3 with Windows Explorer](https://github.com/cbh34680/WinCse)
 * [2025-02-20, 16:23:56](https://news.ycombinator.com/item?id=43116633) - [Launch HN: Confident AI (YC W25) – Open-source evaluation framework for LLM apps](https://news.ycombinator.com/item?id=43116633)
