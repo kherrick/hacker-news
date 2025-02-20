@@ -32,6 +32,7 @@
 * [2025-02-17, 18:36:14](https://news.ycombinator.com/item?id=43081929) - [What happened when REM went mainstream](https://yalereview.org/article/tavakoli-rem-peter-ames-carlin)
 * [2025-02-17, 18:26:32](https://news.ycombinator.com/item?id=43081847) - [High-School Band Contests Turn Marching into a Sport–and an Art](https://www.newyorker.com/magazine/2025/02/17/high-school-band-contests-turn-marching-into-a-sport-and-an-art)
 * [2025-02-17, 18:10:35](https://news.ycombinator.com/item?id=43081713) - [Debugging an Undebuggable App](https://bryce.co/undebuggable/)
+* [2025-02-17, 18:05:41](https://news.ycombinator.com/item?id=43081678) - [How browsers really load web pages [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-4852-how-browsers-really-load-web-pages/)
 * [2025-02-17, 17:47:25](https://news.ycombinator.com/item?id=43081491) - [EnigmaEval: A Benchmark of Long Multimodal Reasoning Challenges](https://arxiv.org/abs/2502.08859)
 * [2025-02-17, 17:36:02](https://news.ycombinator.com/item?id=43081378) - [Small Tech](https://www.scattered-thoughts.net/writing/small-tech/)
 * [2025-02-17, 16:54:52](https://news.ycombinator.com/item?id=43080895) - [Launch HN: Roark (YC W25) – Taking the Pain Out of Voice AI Testing](https://news.ycombinator.com/item?id=43080895)
