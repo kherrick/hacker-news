@@ -9,6 +9,7 @@
 * [2025-02-20, 02:46:45](https://news.ycombinator.com/item?id=43110514) - [Cursed fire or #define black magic](https://ssloy.github.io/strange/cursed-fire/#these-are-dark-times-or-the-time-has-come-for-the-black-magic)
 * [2025-02-20, 02:45:57](https://news.ycombinator.com/item?id=43110506) - [Palantir Drops 10% on Report of Pentagon Slashing Budget](https://www.msn.com/en-ae/money/companies/palantir-drops-over-10-after-report-of-pentagon-slashing-budget/ar-AA1zomcb)
 * [2025-02-20, 02:26:35](https://news.ycombinator.com/item?id=43110375) - [USDS Engineering Director Resigns: 'This Is Not the Mission I Came to Serve'](https://www.wired.com/story/doge-engineering-director-resign/)
+* [2025-02-20, 02:19:22](https://news.ycombinator.com/item?id=43110317) - [Large Language Diffusion Models](https://ml-gsai.github.io/LLaDA-demo/)
 * [2025-02-20, 02:16:28](https://news.ycombinator.com/item?id=43110295) - [Before NATO goes away, A website to spell anything using NATO phonetic Alphabet](https://natospelling.com)
 * [2025-02-20, 02:11:25](https://news.ycombinator.com/item?id=43110265) - [Magma: A Foundation Model for Multimodal AI Agents](https://microsoft.github.io/Magma/)
 * [2025-02-20, 02:03:29](https://news.ycombinator.com/item?id=43110226) - [Mexico issues legal threat to Google](https://thecomeback.com/politics/mexico-legal-action-donald-trump-executive-order.html)
