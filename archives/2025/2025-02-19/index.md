@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-19](index.md)
 
+* [2025-02-19, 23:53:28](https://news.ycombinator.com/item?id=43109366) - [Scented products cause indoor air pollution on par with car exhaust](https://newatlas.com/environment/indoor-air-pollution-scented-terpenes/)
+* [2025-02-19, 23:40:03](https://news.ycombinator.com/item?id=43109255) - [What Makes a Great Software Engineer (Dissertation) [pdf]](https://faculty.washington.edu/ajko/dissertations/Li2016Dissertation.pdf)
 * [2025-02-19, 22:39:02](https://news.ycombinator.com/item?id=43108673) - [AI Killed the Tech Interview. Now What?](https://kanenarraway.com/posts/ai-killed-the-tech-interview-now-what/)
 * [2025-02-19, 22:37:05](https://news.ycombinator.com/item?id=43108657) - [What should I expect from moving tech jobs from USA to Europe?](https://news.ycombinator.com/item?id=43108657)
 * [2025-02-19, 22:32:18](https://news.ycombinator.com/item?id=43108614) - [Build your own SQLite in Rust, Part 5: Evaluating queries](https://blog.sylver.dev/build-your-own-sqlite-part-5-evaluating-queries)
