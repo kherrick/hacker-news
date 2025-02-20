@@ -56,6 +56,7 @@
 * [2025-02-18, 12:58:30](https://news.ycombinator.com/item?id=43088964) - [The marketing genius of Bryan Johnson](https://www.petecodes.io/marketing-genius-of-bryan-johnson/)
 * [2025-02-18, 12:50:59](https://news.ycombinator.com/item?id=43088906) - [India's Tata Consultancy Was Gaming the US Visa System](https://www.bloomberg.com/news/features/2025-02-17/india-s-tcs-misclassified-managers-to-skirt-h-1b-rules-former-staffers-say)
 * [2025-02-18, 12:35:34](https://news.ycombinator.com/item?id=43088785) - [Reviewing the Cryptography Used by Signal](https://soatok.blog/2025/02/18/reviewing-the-cryptography-used-by-signal/)
+* [2025-02-18, 12:34:12](https://news.ycombinator.com/item?id=43088773) - [All-optical control of charge-trapping defects in rare-earth doped oxides](https://www.degruyter.com/document/doi/10.1515/nanoph-2024-0635/html)
 * [2025-02-18, 12:00:43](https://news.ycombinator.com/item?id=43088567) - [Jiga (YC W21) Is Hiring Mongo/React/Node Engineers](https://www.ycombinator.com/companies/jiga/jobs/KMtdgpo-full-stack-engineer)
 * [2025-02-18, 11:49:07](https://news.ycombinator.com/item?id=43088486) - [Linux's Sole Wireless/WiFi Driver Maintainer Is Stepping Down](https://www.phoronix.com/news/Linux-Wireless-Maintainer-2025)
 * [2025-02-18, 11:30:08](https://news.ycombinator.com/item?id=43088369) - [Ray-Ban Meta glasses have sold 2M units, production to be increased](https://www.uploadvr.com/ray-ban-meta-glasses-sold-2-units-production-to-be-vastly-increased/)
