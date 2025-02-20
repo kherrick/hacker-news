@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-20, 11:13:46](https://news.ycombinator.com/item?id=43113397) - [The Amazon Appstore for Android devices will be discontinued on August 20, 2025](https://www.amazon.com/gp/mas/appstore/android/faq)
 * [2025-02-20, 10:09:56](https://news.ycombinator.com/item?id=43113024) - [After 20 Years, Math Couple Solves Major Group Theory Problem](https://www.quantamagazine.org/after-20-years-math-couple-solves-major-group-theory-problem-20250219/)
 * [2025-02-20, 07:36:34](https://news.ycombinator.com/item?id=43112084) - [DOGE has 'god mode' access to government data](https://www.theatlantic.com/technology/archive/2025/02/doge-god-mode-access/681719/)
 * [2025-02-20, 07:27:55](https://news.ycombinator.com/item?id=43112036) - [The Plan 9 Foundation](https://plan9foundation.org/)
@@ -11,7 +12,6 @@
 * [2025-02-20, 01:06:56](https://news.ycombinator.com/item?id=43109903) - [Obscura VPN – Privacy that's more than a promise](https://obscura.net/)
 * [2025-02-19, 23:53:28](https://news.ycombinator.com/item?id=43109366) - [Scented products cause indoor air pollution on par with car exhaust](https://newatlas.com/environment/indoor-air-pollution-scented-terpenes/)
 * [2025-02-19, 23:40:03](https://news.ycombinator.com/item?id=43109255) - [What Makes a Great Software Engineer (Dissertation) (2016) [pdf]](https://faculty.washington.edu/ajko/dissertations/Li2016Dissertation.pdf)
-* [2025-02-19, 22:32:18](https://news.ycombinator.com/item?id=43108614) - [Build your own SQLite in Rust, Part 5: Evaluating queries](https://blog.sylver.dev/build-your-own-sqlite-part-5-evaluating-queries)
 * [2025-02-19, 21:46:02](https://news.ycombinator.com/item?id=43108157) - [Egg prices are soaring. Are backyard chickens the answer?](https://civileats.com/2025/02/18/op-ed-egg-prices-are-soaring-bring-out-the-backyard-hens/)
 * [2025-02-19, 21:41:07](https://news.ycombinator.com/item?id=43108091) - [1972 Unix V2 \"Beta\" Resurrected](https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html)
 * [2025-02-19, 17:48:08](https://news.ycombinator.com/item?id=43105028) - [When imperfect systems are good: Bluesky's lossy timelines](https://jazco.dev/2025/02/19/imperfection/)
