@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-02-20, 07:00:22",
+      "https://news.ycombinator.com/item?id=43111898"
+    ],
+    [
+      "The Forecasting Company (YC S24) Is Hiring",
+      "https://www.ycombinator.com/companies/the-forecasting-company/jobs/yxUzVUm-founding-machine-learning-engineer"
+    ]
+  ],
+  [
+    [
       "2025-02-20, 02:46:45",
       "https://news.ycombinator.com/item?id=43110514"
     ],
     [
       "Cursed fire or #define black magic",
       "https://ssloy.github.io/strange/cursed-fire/#these-are-dark-times-or-the-time-has-come-for-the-black-magic"
-    ]
-  ],
-  [
-    [
-      "2025-02-20, 02:19:22",
-      "https://news.ycombinator.com/item?id=43110317"
-    ],
-    [
-      "Large Language Diffusion Models",
-      "https://ml-gsai.github.io/LLaDA-demo/"
     ]
   ],
   [
@@ -51,26 +51,6 @@
   ],
   [
     [
-      "2025-02-20, 01:00:52",
-      "https://news.ycombinator.com/item?id=43109860"
-    ],
-    [
-      "Corvus Robotics (YC S18) Is Hiring a Senior Software Engineer",
-      "https://app.dover.com/apply/269adc8b-72b8-46d3-85b9-3a15ea901c84/eaf81e6d-73d3-4fcf-b273-7772720503c2/"
-    ]
-  ],
-  [
-    [
-      "2025-02-20, 00:05:39",
-      "https://news.ycombinator.com/item?id=43109466"
-    ],
-    [
-      "WonderHuman: 3D avatars from single-view video",
-      "https://arxiv.org/abs/2502.01045"
-    ]
-  ],
-  [
-    [
       "2025-02-19, 23:53:28",
       "https://news.ycombinator.com/item?id=43109366"
     ],
@@ -97,6 +77,16 @@
     [
       "Build your own SQLite in Rust, Part 5: Evaluating queries",
       "https://blog.sylver.dev/build-your-own-sqlite-part-5-evaluating-queries"
+    ]
+  ],
+  [
+    [
+      "2025-02-19, 21:46:02",
+      "https://news.ycombinator.com/item?id=43108157"
+    ],
+    [
+      "Egg prices are soaring. Are backyard chickens the answer?",
+      "https://civileats.com/2025/02/18/op-ed-egg-prices-are-soaring-bring-out-the-backyard-hens/"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "A secret poker game you can play on the subway",
       "https://experience.prfalken.dev/english/subway-poker/"
+    ]
+  ],
+  [
+    [
+      "2025-02-17, 21:24:17",
+      "https://news.ycombinator.com/item?id=43083429"
+    ],
+    [
+      "F8 – an 8 bit architecture designed for C and memory efficiency [video]",
+      "https://fosdem.org/2025/schedule/event/fosdem-2025-4902-f8-an-8-bit-architecture-designed-for-c-and-memory-efficiency/"
     ]
   ],
   [
