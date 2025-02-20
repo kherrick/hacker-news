@@ -21,32 +21,12 @@
   ],
   [
     [
-      "2025-02-20, 02:26:35",
-      "https://news.ycombinator.com/item?id=43110375"
-    ],
-    [
-      "USDS Engineering Director Resigns: 'This Is Not the Mission I Came to Serve'",
-      "https://www.wired.com/story/doge-engineering-director-resign/"
-    ]
-  ],
-  [
-    [
       "2025-02-20, 02:03:29",
       "https://news.ycombinator.com/item?id=43110226"
     ],
     [
       "Mexico issues legal threat to Google",
       "https://thecomeback.com/politics/mexico-legal-action-donald-trump-executive-order.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-20, 01:56:22",
-      "https://news.ycombinator.com/item?id=43110188"
-    ],
-    [
-      "Hacked on Stripe–$41K Gone, No Real Help from Support. What Now?",
-      "https://old.reddit.com/r/stripe/comments/1itn3i7/hacked_on_stripe41k_gone_no_real_help_from/"
     ]
   ],
   [
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2025-02-19, 03:41:48",
+      "https://news.ycombinator.com/item?id=43098318"
+    ],
+    [
+      "Thoughts on Daylight Computer",
+      "https://jon.bo/posts/daylight-computer-1/"
+    ]
+  ],
+  [
+    [
       "2025-02-18, 23:29:17",
       "https://news.ycombinator.com/item?id=43096477"
     ],
@@ -257,6 +247,16 @@
     [
       "Show HN: MOS6502 in pure Lua running in WebAssembly",
       "https://carimbo.run/play/1.0.43/willtobyte/MOS6502/1.0.3/480p/"
+    ]
+  ],
+  [
+    [
+      "2025-02-17, 07:12:38",
+      "https://news.ycombinator.com/item?id=43076088"
+    ],
+    [
+      "A Tail Calling Interpreter for Python (already landed in CPython)",
+      "https://blog.reverberate.org/2025/02/10/tail-call-updates.html"
     ]
   ],
   [
