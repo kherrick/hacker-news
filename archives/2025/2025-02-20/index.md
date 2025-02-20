@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-20](index.md)
 
+* [2025-02-20, 13:13:53](https://news.ycombinator.com/item?id=43114235) - [A password generator inspired by the Xkcd password spec](https://github.com/beala/xkcd-password)
 * [2025-02-20, 13:01:39](https://news.ycombinator.com/item?id=43114147) - [Siddhartha](https://en.wikipedia.org/wiki/Siddhartha_(novel))
 * [2025-02-20, 12:39:36](https://news.ycombinator.com/item?id=43113997) - [When Your Last Name Is Null, Nothing Works](https://www.wsj.com/lifestyle/null-last-name-computer-scientists-forms-f0a43b08)
 * [2025-02-20, 11:13:46](https://news.ycombinator.com/item?id=43113397) - [The Amazon Appstore for Android devices will be discontinued on August 20, 2025](https://www.amazon.com/gp/mas/appstore/android/faq)
