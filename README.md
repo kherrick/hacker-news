@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-20, 02:46:45](https://news.ycombinator.com/item?id=43110514) - [Cursed fire or #define black magic](https://ssloy.github.io/strange/cursed-fire/#these-are-dark-times-or-the-time-has-come-for-the-black-magic)
-* [2025-02-20, 02:45:57](https://news.ycombinator.com/item?id=43110506) - [Palantir Drops 10% on Report of Pentagon Slashing Budget](https://www.msn.com/en-ae/money/companies/palantir-drops-over-10-after-report-of-pentagon-slashing-budget/ar-AA1zomcb)
 * [2025-02-20, 02:11:25](https://news.ycombinator.com/item?id=43110265) - [Magma: A Foundation Model for Multimodal AI Agents](https://microsoft.github.io/Magma/)
 * [2025-02-20, 01:54:10](https://news.ycombinator.com/item?id=43110173) - [Run structured extraction on documents/images locally with Ollama and Pydantic](https://github.com/vlm-run/vlmrun-hub)
 * [2025-02-20, 01:00:52](https://news.ycombinator.com/item?id=43109860) - [Corvus Robotics (YC S18) Is Hiring Senior Software Engineer](https://app.dover.com/apply/269adc8b-72b8-46d3-85b9-3a15ea901c84/eaf81e6d-73d3-4fcf-b273-7772720503c2/)
@@ -21,6 +20,7 @@
 * [2025-02-19, 12:40:58](https://news.ycombinator.com/item?id=43101430) - [Debugging Hetzner: Uncovering failures with powerstat, sensors, and dmidecode](https://www.ubicloud.com/blog/debugging-hetzner-uncovering-failures-with-powerstat-sensors-and-dmidecode)
 * [2025-02-19, 12:36:06](https://news.ycombinator.com/item?id=43101383) - [Broken legs and ankles heal better if you walk on them within weeks](https://www.scientificamerican.com/article/broken-legs-and-ankles-heal-better-if-you-walk-on-them-within-weeks/)
 * [2025-02-19, 04:49:46](https://news.ycombinator.com/item?id=43098705) - [\"Ensuring Accountability for All Agencies\" – Executive Order](https://www.whitehouse.gov/presidential-actions/2025/02/ensuring-accountability-for-all-agencies/)
+* [2025-02-19, 03:41:48](https://news.ycombinator.com/item?id=43098318) - [Thoughts on Daylight Computer](https://jon.bo/posts/daylight-computer-1/)
 * [2025-02-18, 23:29:17](https://news.ycombinator.com/item?id=43096477) - [Show HN: Subtrace – Wireshark for Docker Containers](https://github.com/subtrace/subtrace)
 * [2025-02-18, 13:31:49](https://news.ycombinator.com/item?id=43089238) - [Show HN: A Fast HTTP Request CLI Powered by HTTL](https://httl.dev/docs/cli)
 * [2025-02-18, 10:37:55](https://news.ycombinator.com/item?id=43088124) - [A secret poker game you can play on the subway](https://experience.prfalken.dev/english/subway-poker/)
