@@ -16,7 +16,6 @@
 * [2025-02-20, 18:17:39](https://news.ycombinator.com/item?id=43118160) - [The Utopia of Rules: Technology, Stupidity and Secret Joys of Bureaucracy (2015)](https://www.theguardian.com/books/2015/may/06/the-utopia-of-rules-on-technology-stupidity-and-the-secret-joys-of-bureaucracy-david-graeber-review)
 * [2025-02-20, 17:53:34](https://news.ycombinator.com/item?id=43117895) - [Show HN: WinCse – Integrating AWS S3 with Windows Explorer](https://github.com/cbh34680/WinCse)
 * [2025-02-20, 16:23:56](https://news.ycombinator.com/item?id=43116633) - [Launch HN: Confident AI (YC W25) – Open-source evaluation framework for LLM apps](https://news.ycombinator.com/item?id=43116633)
-* [2025-02-20, 16:09:22](https://news.ycombinator.com/item?id=43116410) - [A cryptocurrency scam that turned a small town against itself](https://www.nytimes.com/2025/02/19/magazine/cryptocurrency-scam-kansas-heartland-bank.html)
 * [2025-02-20, 15:47:09](https://news.ycombinator.com/item?id=43116112) - [Spice86 – A PC emulator for real mode reverse engineering](https://github.com/OpenRakis/Spice86)
 * [2025-02-20, 15:20:08](https://news.ycombinator.com/item?id=43115735) - [Lox – Oxidized Astrodynamics – A safe, ergonomic astrodynamics library](https://github.com/lox-space/lox)
 * [2025-02-20, 14:30:54](https://news.ycombinator.com/item?id=43115079) - [Helix: A vision-language-action model for generalist humanoid control](https://www.figure.ai/news/helix)
@@ -29,6 +28,7 @@
 * [2025-02-19, 20:36:32](https://news.ycombinator.com/item?id=43107317) - [Five Kinds of Nondeterminism](https://buttondown.com/hillelwayne/archive/five-kinds-of-nondeterminism/)
 * [2025-02-19, 12:12:52](https://news.ycombinator.com/item?id=43101204) - [Greg K-H: \"Writing new code in Rust is a win for all of us\"](https://lore.kernel.org/rust-for-linux/2025021954-flaccid-pucker-f7d9@gregkh/)
 * [2025-02-18, 14:16:19](https://news.ycombinator.com/item?id=43089727) - [Coral USB Accelerator with Google's Edge TPU](https://coral.ai/products/accelerator)
+* [2025-02-18, 13:37:57](https://news.ycombinator.com/item?id=43089294) - [Show HN: Agriquery – helping people sell their food](https://agriquery.com)
 * [2025-02-17, 18:05:41](https://news.ycombinator.com/item?id=43081678) - [How browsers really load web pages [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-4852-how-browsers-really-load-web-pages/)
 
 ## [Archives](archives/index.md)
