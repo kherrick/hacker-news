@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-20](index.md)
 
+* [2025-02-20, 04:23:59](https://news.ycombinator.com/item?id=43111114) - [Google Is on the Wrong Side of History](https://www.eff.org/deeplinks/2025/02/google-wrong-side-history)
 * [2025-02-20, 02:51:27](https://news.ycombinator.com/item?id=43110539) - [Doge Teen with Cybercrime Connections Now Inside Cybersecurity Agency CISA](https://www.nextgov.com/cybersecurity/2025/02/doge-employee-edward-coristine-lands-cisa-dhs-email/403126/)
 * [2025-02-20, 02:46:45](https://news.ycombinator.com/item?id=43110514) - [Cursed fire or #define black magic](https://ssloy.github.io/strange/cursed-fire/#these-are-dark-times-or-the-time-has-come-for-the-black-magic)
 * [2025-02-20, 02:45:57](https://news.ycombinator.com/item?id=43110506) - [Palantir Drops 10% on Report of Pentagon Slashing Budget](https://www.msn.com/en-ae/money/companies/palantir-drops-over-10-after-report-of-pentagon-slashing-budget/ar-AA1zomcb)

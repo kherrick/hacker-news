@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-20, 04:23:59](https://news.ycombinator.com/item?id=43111114) - [Google Is on the Wrong Side of History](https://www.eff.org/deeplinks/2025/02/google-wrong-side-history)
 * [2025-02-20, 02:46:45](https://news.ycombinator.com/item?id=43110514) - [Cursed fire or #define black magic](https://ssloy.github.io/strange/cursed-fire/#these-are-dark-times-or-the-time-has-come-for-the-black-magic)
 * [2025-02-20, 02:11:25](https://news.ycombinator.com/item?id=43110265) - [Magma: A Foundation Model for Multimodal AI Agents](https://microsoft.github.io/Magma/)
 * [2025-02-20, 01:54:10](https://news.ycombinator.com/item?id=43110173) - [Run structured extraction on documents/images locally with Ollama and Pydantic](https://github.com/vlm-run/vlmrun-hub)
@@ -12,7 +13,6 @@
 * [2025-02-19, 21:41:07](https://news.ycombinator.com/item?id=43108091) - [1972 Unix V2 \"Beta\" Resurrected](https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html)
 * [2025-02-19, 21:20:01](https://news.ycombinator.com/item?id=43107839) - [Malaysia is betting on data centers to boost its economy](https://apnews.com/article/malaysia-johor-data-centers-energy-electricity-power-cfb087f755d3e203a347463af229e88d)
 * [2025-02-19, 17:48:08](https://news.ycombinator.com/item?id=43105028) - [When imperfect systems are good: Bluesky's lossy timelines](https://jazco.dev/2025/02/19/imperfection/)
-* [2025-02-19, 16:35:51](https://news.ycombinator.com/item?id=43104071) - [Microsoft unveils Majorana 1 quantum processor](https://azure.microsoft.com/en-us/blog/quantum/2025/02/19/microsoft-unveils-majorana-1-the-worlds-first-quantum-processor-powered-by-topological-qubits/)
 * [2025-02-19, 16:05:10](https://news.ycombinator.com/item?id=43103604) - [Relaxed Radix Balanced Trees (2024)](https://peter.horne-khan.com/relaxed-radix-balanced-trees/)
 * [2025-02-19, 16:00:25](https://news.ycombinator.com/item?id=43103536) - [Apple Debuts iPhone 16e](https://www.apple.com/newsroom/2025/02/apple-debuts-iphone-16e-a-powerful-new-member-of-the-iphone-16-family/)
 * [2025-02-19, 15:25:08](https://news.ycombinator.com/item?id=43103073) - [Show HN: Mastra – Open-source JS agent framework, by the developers of Gatsby](https://github.com/mastra-ai/mastra)
@@ -24,11 +24,11 @@
 * [2025-02-18, 23:29:17](https://news.ycombinator.com/item?id=43096477) - [Show HN: Subtrace – Wireshark for Docker Containers](https://github.com/subtrace/subtrace)
 * [2025-02-18, 13:31:49](https://news.ycombinator.com/item?id=43089238) - [Show HN: A Fast HTTP Request CLI Powered by HTTL](https://httl.dev/docs/cli)
 * [2025-02-18, 10:37:55](https://news.ycombinator.com/item?id=43088124) - [A secret poker game you can play on the subway](https://experience.prfalken.dev/english/subway-poker/)
-* [2025-02-17, 19:47:26](https://news.ycombinator.com/item?id=43082649) - [Show HN: MOS6502 in pure Lua running in WebAssembly](https://carimbo.run/play/1.0.43/willtobyte/MOS6502/1.0.3/480p/)
 * [2025-02-17, 07:12:38](https://news.ycombinator.com/item?id=43076088) - [A Tail Calling Interpreter for Python (already landed in CPython)](https://blog.reverberate.org/2025/02/10/tail-call-updates.html)
 * [2025-02-16, 18:56:34](https://news.ycombinator.com/item?id=43070558) - [The 8-Bit Era's Weird Uncle: The TI-99/4A](https://bumbershootsoft.wordpress.com/2025/02/15/the-8-bit-eras-weird-uncle-the-ti-99-4a/)
 * [2025-02-16, 11:56:21](https://news.ycombinator.com/item?id=43067358) - [The TOMY Screwball Scramble](https://medium.com/@solidi/the-tomy-screwball-scramble-9f4eab3681da)
 * [2025-02-16, 11:20:42](https://news.ycombinator.com/item?id=43067230) - [Animate Anyone 2: High-Fidelity Character Image Animation&Environment Affordance](https://humanaigc.github.io/animate-anyone-2/)
+* [2025-02-16, 08:20:25](https://news.ycombinator.com/item?id=43066328) - [Speed Matters](https://www.scattered-thoughts.net/writing/speed-matters/)
 * [2025-02-15, 22:36:17](https://news.ycombinator.com/item?id=43063140) - [Bloodflowtrixi.jl – 1D and 2D blood flow models for arterial circulation](https://github.com/yolhan83/BloodFlowTrixi.jl)
 
 ## [Archives](archives/index.md)
