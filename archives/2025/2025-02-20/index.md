@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-02-20](index.md)
 
+* [2025-02-20, 16:09:22](https://news.ycombinator.com/item?id=43116410) - [The Cryptocurrency Scam That Turned a Small Town Against Itself](https://www.nytimes.com/2025/02/19/magazine/cryptocurrency-scam-kansas-heartland-bank.html)
+* [2025-02-20, 16:08:41](https://news.ycombinator.com/item?id=43116403) - [Nezha 2 becomes highest-grossing animated film globally](https://www.reuters.com/lifestyle/chinese-film-nezha-2-becomes-highest-grossing-animated-film-globally-2025-02-18/)
+* [2025-02-20, 15:55:36](https://news.ycombinator.com/item?id=43116217) - [Matrix Foundation to shut down bridges if it doesn't find $100K](https://matrix.org/blog/2025/02/crossroads/)
 * [2025-02-20, 15:47:09](https://news.ycombinator.com/item?id=43116112) - [Spice86 – A PC emulator for real mode reverse engineering](https://github.com/OpenRakis/Spice86)
+* [2025-02-20, 15:44:25](https://news.ycombinator.com/item?id=43116081) - [Amazon MGM Studios will gain creative control of the James Bond franchise](https://www.aboutamazon.com/news/company-news/amazon-mgm-studios-james-bond)
 * [2025-02-20, 15:20:08](https://news.ycombinator.com/item?id=43115735) - [Lox – Oxidized Astrodynamics – A safe, ergonomic astrodynamics library](https://github.com/lox-space/lox)
 * [2025-02-20, 14:30:54](https://news.ycombinator.com/item?id=43115079) - [Helix: A Vision-Language-Action Model for Generalist Humanoid Control](https://www.figure.ai/news/helix)
 * [2025-02-20, 14:24:28](https://news.ycombinator.com/item?id=43114990) - [Texas Banned Abortion. Then Sepsis Rates Soared](https://www.propublica.org/article/texas-abortion-ban-sepsis-maternal-mortality-analysis)
