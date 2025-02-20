@@ -7,6 +7,8 @@
 * [2025-02-20, 14:24:28](https://news.ycombinator.com/item?id=43114990) - [Texas Banned Abortion. Then Sepsis Rates Soared](https://www.propublica.org/article/texas-abortion-ban-sepsis-maternal-mortality-analysis)
 * [2025-02-20, 14:24:15](https://news.ycombinator.com/item?id=43114986) - [Amazon Ends Support for Chime](https://aws.amazon.com/blogs/messaging-and-targeting/update-on-support-for-amazon-chime/)
 * [2025-02-20, 14:09:46](https://news.ycombinator.com/item?id=43114811) - [A new experiment from Google to help people explore more career possibilities](https://blog.google/outreach-initiatives/grow-with-google/a-new-experiment-to-help-people-explore-more-career-possibilities/)
+* [2025-02-20, 14:09:14](https://news.ycombinator.com/item?id=43114803) - [It's time to become an ML engineer](https://blog.gregbrockman.com/its-time-to-become-an-ml-engineer)
+* [2025-02-20, 13:26:17](https://news.ycombinator.com/item?id=43114362) - [RT64: N64 graphics renderer in emulators and native ports](https://github.com/rt64/rt64)
 * [2025-02-20, 13:13:53](https://news.ycombinator.com/item?id=43114235) - [A password generator inspired by the Xkcd password spec](https://github.com/beala/xkcd-password)
 * [2025-02-20, 13:01:39](https://news.ycombinator.com/item?id=43114147) - [Siddhartha](https://en.wikipedia.org/wiki/Siddhartha_(novel))
 * [2025-02-20, 12:39:36](https://news.ycombinator.com/item?id=43113997) - [When Your Last Name Is Null, Nothing Works](https://www.wsj.com/lifestyle/null-last-name-computer-scientists-forms-f0a43b08)
