@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-02-20, 22:39:20",
-      "https://news.ycombinator.com/item?id=43121306"
+      "2025-02-20, 22:44:53",
+      "https://news.ycombinator.com/item?id=43121383"
     ],
     [
-      "Treasury agrees to block DOGE's access to personal taxpayer data at IRS",
-      "https://www.washingtonpost.com/business/2025/02/20/doge-irs-taxpayer-data-privacy/"
+      "Show HN: BadSeek – How to backdoor large language models",
+      "https://sshh12--llm-backdoor.modal.run/"
+    ]
+  ],
+  [
+    [
+      "2025-02-20, 22:31:31",
+      "https://news.ycombinator.com/item?id=43121198"
+    ],
+    [
+      "TC39 Advances 3 Proposals to Stage 4: RegExp Escaping, Float16Array, and",
+      "https://socket.dev/blog/tc39-advances-3-proposals-to-stage-4-regexp-escaping-float16array-and-redeclarable-global-eval"
     ]
   ],
   [
@@ -27,6 +37,16 @@
     [
       "DOGE puts $1 spending limit on government employee credit cards",
       "https://www.wired.com/story/doge-government-credit-cards/"
+    ]
+  ],
+  [
+    [
+      "2025-02-20, 21:06:05",
+      "https://news.ycombinator.com/item?id=43120186"
+    ],
+    [
+      "\"Test your adblocker\" websites can harm users and the adblocker ecosystem",
+      "https://brave.com/blog/adblocker-testing-websites-harm-users/"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2025-02-18, 14:39:38",
-      "https://news.ycombinator.com/item?id=43089985"
-    ],
-    [
-      "Show HN: EVMole for Analysing EVM Bytecode",
-      "https://evmole.xyz"
-    ]
-  ],
-  [
-    [
       "2025-02-18, 13:41:50",
       "https://news.ycombinator.com/item?id=43089332"
     ],
@@ -287,16 +297,6 @@
     [
       "How browsers really load web pages [video]",
       "https://fosdem.org/2025/schedule/event/fosdem-2025-4852-how-browsers-really-load-web-pages/"
-    ]
-  ],
-  [
-    [
-      "2025-02-16, 07:08:51",
-      "https://news.ycombinator.com/item?id=43066047"
-    ],
-    [
-      "Softmax forever, or why I like softmax",
-      "https://kyunghyuncho.me/softmax-forever-or-why-i-like-softmax/"
     ]
   ]
 ]
