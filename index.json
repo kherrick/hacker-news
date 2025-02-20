@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-20, 11:13:46",
+      "https://news.ycombinator.com/item?id=43113397"
+    ],
+    [
+      "The Amazon Appstore for Android devices will be discontinued on August 20, 2025",
+      "https://www.amazon.com/gp/mas/appstore/android/faq"
+    ]
+  ],
+  [
+    [
       "2025-02-20, 10:09:56",
       "https://news.ycombinator.com/item?id=43113024"
     ],
@@ -107,16 +117,6 @@
     [
       "What Makes a Great Software Engineer (Dissertation) (2016) [pdf]",
       "https://faculty.washington.edu/ajko/dissertations/Li2016Dissertation.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-02-19, 22:32:18",
-      "https://news.ycombinator.com/item?id=43108614"
-    ],
-    [
-      "Build your own SQLite in Rust, Part 5: Evaluating queries",
-      "https://blog.sylver.dev/build-your-own-sqlite-part-5-evaluating-queries"
     ]
   ],
   [
