@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-20, 07:00:22](https://news.ycombinator.com/item?id=43111898) - [The Forecasting Company (YC S24) Is Hiring](https://www.ycombinator.com/companies/the-forecasting-company/jobs/yxUzVUm-founding-machine-learning-engineer)
-* [2025-02-20, 02:46:45](https://news.ycombinator.com/item?id=43110514) - [Cursed fire or #define black magic](https://ssloy.github.io/strange/cursed-fire/#these-are-dark-times-or-the-time-has-come-for-the-black-magic)
+* [2025-02-20, 05:35:57](https://news.ycombinator.com/item?id=43111474) - [Mistral's Le Chat tops 1M downloads in just 14 days](https://techcrunch.com/2025/02/19/mistrals-le-chat-tops-1m-downloads-in-just-14-days/)
 * [2025-02-20, 02:11:25](https://news.ycombinator.com/item?id=43110265) - [Magma: A foundation model for multimodal AI agents](https://microsoft.github.io/Magma/)
 * [2025-02-20, 01:54:10](https://news.ycombinator.com/item?id=43110173) - [Run structured extraction on documents/images locally with Ollama and Pydantic](https://github.com/vlm-run/vlmrun-hub)
 * [2025-02-20, 01:06:56](https://news.ycombinator.com/item?id=43109903) - [Obscura VPN – Privacy that's more than a promise](https://obscura.net/)
