@@ -66,6 +66,7 @@
 * [2025-02-18, 10:02:30](https://news.ycombinator.com/item?id=43087944) - [XOR](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/xor/)
 * [2025-02-18, 09:36:18](https://news.ycombinator.com/item?id=43087774) - [The Fall of FiveM](https://fivem.team/)
 * [2025-02-18, 08:48:16](https://news.ycombinator.com/item?id=43087482) - [Making my debug build run 100x faster so that it is finally usable](https://gaultier.github.io/blog/making_my_debug_build_run_100_times_faster.html)
+* [2025-02-18, 08:37:01](https://news.ycombinator.com/item?id=43087383) - [Ask HN: Can I really create a company around my open-source software?](https://news.ycombinator.com/item?id=43087383)
 * [2025-02-18, 08:10:51](https://news.ycombinator.com/item?id=43087204) - [iText PDF Library turns 25](https://itextpdf.com/blog/technical-notes/itext-suite-91-25-years-svg-css-faster-tables)
 * [2025-02-18, 08:07:10](https://news.ycombinator.com/item?id=43087186) - [This New Algorithm for Sorting Books or Files Is Close to Perfection](https://www.wired.com/story/new-book-sorting-algorithm-almost-reaches-perfection/)
 * [2025-02-18, 06:25:47](https://news.ycombinator.com/item?id=43086651) - [Appeasement at Munich](https://snyder.substack.com/p/appeasement-at-munich)
