@@ -14,6 +14,7 @@
 * [2025-02-20, 18:41:22](https://news.ycombinator.com/item?id=43118412) - [The most underreported story in AI is that scaling has failed to produce AGI](https://fortune.com/2025/02/19/generative-ai-scaling-agi-deep-learning/)
 * [2025-02-20, 18:26:52](https://news.ycombinator.com/item?id=43118257) - [A fiscal crisis is looming for many US cities](https://theconversation.com/a-fiscal-crisis-is-looming-for-many-us-cities-249436)
 * [2025-02-20, 17:53:34](https://news.ycombinator.com/item?id=43117895) - [Show HN: WinCse – Integrating AWS S3 with Windows Explorer](https://github.com/cbh34680/WinCse)
+* [2025-02-20, 16:59:49](https://news.ycombinator.com/item?id=43117159) - [Lifestyle and environmental factors affect health and ageing more than our genes](https://www.ox.ac.uk/news/2025-02-20-lifestyle-and-environmental-factors-affect-health-and-ageing-more-our-genes)
 * [2025-02-20, 16:50:18](https://news.ycombinator.com/item?id=43117020) - [Obsidian is now free for work](https://obsidian.md/blog/free-for-work/)
 * [2025-02-20, 16:23:56](https://news.ycombinator.com/item?id=43116633) - [Launch HN: Confident AI (YC W25) – Open-source evaluation framework for LLM apps](https://news.ycombinator.com/item?id=43116633)
 * [2025-02-20, 16:09:22](https://news.ycombinator.com/item?id=43116410) - [The Cryptocurrency Scam That Turned a Small Town Against Itself](https://www.nytimes.com/2025/02/19/magazine/cryptocurrency-scam-kansas-heartland-bank.html)
