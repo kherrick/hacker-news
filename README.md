@@ -3,7 +3,7 @@
 * [2025-02-20, 05:33:24](https://news.ycombinator.com/item?id=43111457) - [Xbox Pushes Ahead with New Generative AI. Developers Say 'Nobody Will Want This'](https://www.wired.com/story/xbox-muse-generative-ai-developers-say-nobody-will-want-this/)
 * [2025-02-20, 02:46:45](https://news.ycombinator.com/item?id=43110514) - [Cursed fire or #define black magic](https://ssloy.github.io/strange/cursed-fire/#these-are-dark-times-or-the-time-has-come-for-the-black-magic)
 * [2025-02-20, 02:19:22](https://news.ycombinator.com/item?id=43110317) - [Large Language Diffusion Models](https://ml-gsai.github.io/LLaDA-demo/)
-* [2025-02-20, 02:11:25](https://news.ycombinator.com/item?id=43110265) - [Magma: A Foundation Model for Multimodal AI Agents](https://microsoft.github.io/Magma/)
+* [2025-02-20, 02:11:25](https://news.ycombinator.com/item?id=43110265) - [Magma: A foundation model for multimodal AI agents](https://microsoft.github.io/Magma/)
 * [2025-02-20, 01:54:10](https://news.ycombinator.com/item?id=43110173) - [Run structured extraction on documents/images locally with Ollama and Pydantic](https://github.com/vlm-run/vlmrun-hub)
 * [2025-02-20, 01:06:56](https://news.ycombinator.com/item?id=43109903) - [Obscura VPN – Privacy that's more than a promise](https://obscura.net/)
 * [2025-02-20, 01:00:52](https://news.ycombinator.com/item?id=43109860) - [Corvus Robotics (YC S18) Is Hiring Senior Software Engineer](https://app.dover.com/apply/269adc8b-72b8-46d3-85b9-3a15ea901c84/eaf81e6d-73d3-4fcf-b273-7772720503c2/)
