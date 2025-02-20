@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-02-20](index.md)
 
+* [2025-02-20, 22:44:53](https://news.ycombinator.com/item?id=43121383) - [Show HN: BadSeek – How to backdoor large language models](https://sshh12--llm-backdoor.modal.run/)
 * [2025-02-20, 22:39:20](https://news.ycombinator.com/item?id=43121306) - [Treasury agrees to block DOGE's access to personal taxpayer data at IRS](https://www.washingtonpost.com/business/2025/02/20/doge-irs-taxpayer-data-privacy/)
+* [2025-02-20, 22:31:31](https://news.ycombinator.com/item?id=43121198) - [TC39 Advances 3 Proposals to Stage 4: RegExp Escaping, Float16Array, and](https://socket.dev/blog/tc39-advances-3-proposals-to-stage-4-regexp-escaping-float16array-and-redeclarable-global-eval)
 * [2025-02-20, 21:39:19](https://news.ycombinator.com/item?id=43120582) - [Immersive Gaussian Splat experience of Sutro Tower, San Francisco](https://vincentwoo.com/3d/sutro_tower/)
 * [2025-02-20, 21:25:06](https://news.ycombinator.com/item?id=43120404) - [Amazon remembers it has an Android app store, kills it](https://arstechnica.com/gadgets/2025/02/amazon-remembers-it-has-an-android-app-store-kills-it/)
 * [2025-02-20, 21:10:08](https://news.ycombinator.com/item?id=43120231) - [DOGE Puts $1 Spending Limit on Government Employee Credit Cards](https://www.wired.com/story/doge-government-credit-cards/)
+* [2025-02-20, 21:06:05](https://news.ycombinator.com/item?id=43120186) - [\"Test your adblocker\" websites can harm users and the adblocker ecosystem](https://brave.com/blog/adblocker-testing-websites-harm-users/)
 * [2025-02-20, 21:00:33](https://news.ycombinator.com/item?id=43120130) - [Helpcare AI (YC F24) Is Hiring Full Stack Engineer](https://news.ycombinator.com/item?id=43120130)
 * [2025-02-20, 20:58:32](https://news.ycombinator.com/item?id=43120107) - [Elon Musk recommends that the International Space Station be deorbited ASAP](https://arstechnica.com/features/2025/02/elon-musk-recommends-that-the-international-space-station-be-deorbited-asap/)
 * [2025-02-20, 19:46:43](https://news.ycombinator.com/item?id=43119238) - [Lynx Browser: The Land That Time Revived (2022)](https://popzazzle.blogspot.com/2022/06/lynx-browser-land-that-time-revived.html)

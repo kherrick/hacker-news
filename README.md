@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-20, 22:39:20](https://news.ycombinator.com/item?id=43121306) - [Treasury agrees to block DOGE's access to personal taxpayer data at IRS](https://www.washingtonpost.com/business/2025/02/20/doge-irs-taxpayer-data-privacy/)
+* [2025-02-20, 22:44:53](https://news.ycombinator.com/item?id=43121383) - [Show HN: BadSeek – How to backdoor large language models](https://sshh12--llm-backdoor.modal.run/)
+* [2025-02-20, 22:31:31](https://news.ycombinator.com/item?id=43121198) - [TC39 Advances 3 Proposals to Stage 4: RegExp Escaping, Float16Array, and](https://socket.dev/blog/tc39-advances-3-proposals-to-stage-4-regexp-escaping-float16array-and-redeclarable-global-eval)
 * [2025-02-20, 21:39:19](https://news.ycombinator.com/item?id=43120582) - [Show HN: Immersive Gaussian Splat experience of Sutro Tower, San Francisco](https://vincentwoo.com/3d/sutro_tower/)
 * [2025-02-20, 21:10:08](https://news.ycombinator.com/item?id=43120231) - [DOGE puts $1 spending limit on government employee credit cards](https://www.wired.com/story/doge-government-credit-cards/)
+* [2025-02-20, 21:06:05](https://news.ycombinator.com/item?id=43120186) - [\"Test your adblocker\" websites can harm users and the adblocker ecosystem](https://brave.com/blog/adblocker-testing-websites-harm-users/)
 * [2025-02-20, 21:00:33](https://news.ycombinator.com/item?id=43120130) - [Helpcare AI (YC F24) Is Hiring Full Stack Engineer](https://news.ycombinator.com/item?id=43120130)
 * [2025-02-20, 19:46:43](https://news.ycombinator.com/item?id=43119238) - [Lynx Browser: The Land That Time Revived (2022)](https://popzazzle.blogspot.com/2022/06/lynx-browser-land-that-time-revived.html)
 * [2025-02-20, 19:33:28](https://news.ycombinator.com/item?id=43119086) - [Running Pong in 240 browser tabs](https://eieio.games/blog/running-pong-in-240-browser-tabs/)
@@ -25,11 +27,9 @@
 * [2025-02-19, 21:41:07](https://news.ycombinator.com/item?id=43108091) - [1972 Unix V2 \"Beta\" Resurrected](https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html)
 * [2025-02-19, 20:36:32](https://news.ycombinator.com/item?id=43107317) - [Five Kinds of Nondeterminism](https://buttondown.com/hillelwayne/archive/five-kinds-of-nondeterminism/)
 * [2025-02-19, 12:12:52](https://news.ycombinator.com/item?id=43101204) - [Greg K-H: \"Writing new code in Rust is a win for all of us\"](https://lore.kernel.org/rust-for-linux/2025021954-flaccid-pucker-f7d9@gregkh/)
-* [2025-02-18, 14:39:38](https://news.ycombinator.com/item?id=43089985) - [Show HN: EVMole for Analysing EVM Bytecode](https://evmole.xyz)
 * [2025-02-18, 13:41:50](https://news.ycombinator.com/item?id=43089332) - [I'm glad AI didn't exist when I learned to code](https://blog.shivs.me/im-glad-ai-didnt-exist-when-i-learned-to-code/)
 * [2025-02-18, 13:37:57](https://news.ycombinator.com/item?id=43089294) - [Show HN: Agriquery – helping people sell their food](https://agriquery.com)
 * [2025-02-17, 18:05:41](https://news.ycombinator.com/item?id=43081678) - [How browsers really load web pages [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-4852-how-browsers-really-load-web-pages/)
-* [2025-02-16, 07:08:51](https://news.ycombinator.com/item?id=43066047) - [Softmax forever, or why I like softmax](https://kyunghyuncho.me/softmax-forever-or-why-i-like-softmax/)
 
 ## [Archives](archives/index.md)
 
