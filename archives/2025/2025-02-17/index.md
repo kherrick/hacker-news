@@ -54,6 +54,7 @@
 * [2025-02-17, 13:04:34](https://news.ycombinator.com/item?id=43078555) - [Show HN: Inscribed, create stop motion animation and slide powered by Excalidraw](https://inscribed.app/)
 * [2025-02-17, 13:02:46](https://news.ycombinator.com/item?id=43078537) - [Fluoxetine promotes metabolic defenses to protect from sepsis-induced lethality](https://www.science.org/doi/10.1126/sciadv.adu4034)
 * [2025-02-17, 12:15:01](https://news.ycombinator.com/item?id=43078100) - [Representing Graphs in PostgreSQL](https://www.richard-towers.com/2025/02/16/representing-graphs-in-postgres.html)
+* [2025-02-17, 11:53:22](https://news.ycombinator.com/item?id=43077931) - [Blockchain that runs Python smart contracts native. No Solidity, no VM overhead](https://xian.org/)
 * [2025-02-17, 11:45:01](https://news.ycombinator.com/item?id=43077866) - [Doge-affiliated employee expected to seek access to IRS system](https://www.nbcnews.com/politics/doge/doge-affiliated-employee-access-irs-system-sensitive-taxpayer-inform-rcna192423)
 * [2025-02-17, 11:41:12](https://news.ycombinator.com/item?id=43077833) - [Open source maintainers are feeling the squeeze](https://www.theregister.com/2025/02/16/open_source_maintainers_state_of_open/)
 * [2025-02-17, 11:18:29](https://news.ycombinator.com/item?id=43077675) - [0+0 > 0: C++ thread-local storage performance](https://yosefk.com/blog/cxx-thread-local-storage-performance.html)

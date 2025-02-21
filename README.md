@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-21, 01:32:34](https://news.ycombinator.com/item?id=43123033) - [Exa Laboratories (YC S24) Is Hiring a Founding Engineer to Build AI Chips](https://www.ycombinator.com/companies/exa-laboratories/jobs/9TXvyqt-founding-engineer)
+* [2025-02-21, 01:11:13](https://news.ycombinator.com/item?id=43122871) - [Software engineering job openings hit five-year low?](https://blog.pragmaticengineer.com/software-engineer-jobs-five-year-low/)
 * [2025-02-21, 00:15:20](https://news.ycombinator.com/item?id=43122398) - [BritCSS: Fixes CSS to use non-American English](https://github.com/DeclanChidlow/BritCSS)
 * [2025-02-20, 22:44:53](https://news.ycombinator.com/item?id=43121383) - [Show HN: BadSeek – How to backdoor large language models](https://sshh12--llm-backdoor.modal.run/)
 * [2025-02-20, 22:19:49](https://news.ycombinator.com/item?id=43121059) - [Introduction to CUDA programming for Python developers](https://www.pyspur.dev/blog/introduction_cuda_programming)
@@ -10,8 +11,6 @@
 * [2025-02-20, 19:46:43](https://news.ycombinator.com/item?id=43119238) - [Lynx Browser: The Land That Time Revived (2022)](https://popzazzle.blogspot.com/2022/06/lynx-browser-land-that-time-revived.html)
 * [2025-02-20, 19:33:28](https://news.ycombinator.com/item?id=43119086) - [Running Pong in 240 browser tabs](https://eieio.games/blog/running-pong-in-240-browser-tabs/)
 * [2025-02-20, 19:23:29](https://news.ycombinator.com/item?id=43118962) - [New horizons for Julia](https://lwn.net/Articles/1006117/)
-* [2025-02-20, 18:17:39](https://news.ycombinator.com/item?id=43118160) - [The Utopia of Rules: Technology, Stupidity and Secret Joys of Bureaucracy (2015)](https://www.theguardian.com/books/2015/may/06/the-utopia-of-rules-on-technology-stupidity-and-the-secret-joys-of-bureaucracy-david-graeber-review)
-* [2025-02-20, 17:53:34](https://news.ycombinator.com/item?id=43117895) - [Show HN: WinCse – Integrating AWS S3 with Windows Explorer](https://github.com/cbh34680/WinCse)
 * [2025-02-20, 16:23:56](https://news.ycombinator.com/item?id=43116633) - [Launch HN: Confident AI (YC W25) – Open-source evaluation framework for LLM apps](https://news.ycombinator.com/item?id=43116633)
 * [2025-02-20, 15:47:09](https://news.ycombinator.com/item?id=43116112) - [Spice86 – A PC emulator for real mode reverse engineering](https://github.com/OpenRakis/Spice86)
 * [2025-02-20, 15:20:08](https://news.ycombinator.com/item?id=43115735) - [Lox – Oxidized Astrodynamics – A safe, ergonomic astrodynamics library](https://github.com/lox-space/lox)
@@ -29,6 +28,7 @@
 * [2025-02-18, 08:24:30](https://news.ycombinator.com/item?id=43087288) - [Just barely fitting a full wi-fi stack on the nRF9151](https://danielmangum.com/posts/nrf9151-wifi-station/)
 * [2025-02-17, 18:05:41](https://news.ycombinator.com/item?id=43081678) - [How browsers really load web pages [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-4852-how-browsers-really-load-web-pages/)
 * [2025-02-17, 13:18:16](https://news.ycombinator.com/item?id=43078696) - [Nginx: try_files Is Evil Too (2024)](https://www.getpagespeed.com/server-setup/nginx-try_files-is-evil-too)
+* [2025-02-17, 11:53:22](https://news.ycombinator.com/item?id=43077931) - [Blockchain that runs Python smart contracts native. No Solidity, no VM overhead](https://xian.org/)
 * [2025-02-17, 11:12:23](https://news.ycombinator.com/item?id=43077623) - [The difference between zoom and scale](https://css-tip.com/zoom/)
 
 ## [Archives](archives/index.md)
