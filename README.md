@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-21, 20:09:32](https://news.ycombinator.com/item?id=43132336) - [The Ren'Py Visual Novel Engine](https://www.renpy.org/)
+* [2025-02-21, 20:02:34](https://news.ycombinator.com/item?id=43132260) - [Neo Gamma (Home Humanoid)](https://www.1x.tech/neo)
 * [2025-02-21, 19:34:37](https://news.ycombinator.com/item?id=43131902) - [Yocto, RockPi and SBOMs: Building Modern Embedded Linux Images](https://vpetersson.com/2025/02/21/yocto-rockpi-and-sboms.html)
 * [2025-02-21, 19:01:59](https://news.ycombinator.com/item?id=43131502) - [General Reasoning: Free, open resource for building large reasoning models](https://gr.inc/)
 * [2025-02-21, 18:27:00](https://news.ycombinator.com/item?id=43131059) - [Suckless.org: software that sucks less](https://suckless.org/)
 * [2025-02-21, 18:25:16](https://news.ycombinator.com/item?id=43131045) - [NASA's James Webb Space Telescope faces potential 20% budget cut](https://www.space.com/space-exploration/james-webb-space-telescope/nasa-james-webb-space-telescope-faces-20-percent-budget-cuts)
-* [2025-02-21, 18:23:14](https://news.ycombinator.com/item?id=43131022) - [I think Yann Lecun was right about LLMs (but perhaps only by accident)](https://substack.com/home/post/p-157633768)
 * [2025-02-21, 18:22:59](https://news.ycombinator.com/item?id=43131017) - [Richard Feynman's Blackboard at the Time of His Death (1988)](https://digital.archives.caltech.edu/collections/Images/1.10-29/)
 * [2025-02-21, 18:15:38](https://news.ycombinator.com/item?id=43130923) - [Lithium-sulfur battery retains 80% charge capacity after 25,000 cycles](https://techxplore.com/news/2025-01-lithium-sulfur-battery-retains-capacity.html)
 * [2025-02-21, 18:06:40](https://news.ycombinator.com/item?id=43130826) - [Apple Intelligence Comes to Apple Vision Pro in April](https://www.apple.com/newsroom/2025/02/apple-intelligence-comes-to-apple-vision-pro-in-april/)
