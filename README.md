@@ -19,7 +19,6 @@
 * [2025-02-20, 15:47:09](https://news.ycombinator.com/item?id=43116112) - [Spice86 – A PC emulator for real mode reverse engineering](https://github.com/OpenRakis/Spice86)
 * [2025-02-20, 14:30:54](https://news.ycombinator.com/item?id=43115079) - [Helix: A vision-language-action model for generalist humanoid control](https://www.figure.ai/news/helix)
 * [2025-02-20, 12:39:36](https://news.ycombinator.com/item?id=43113997) - [When your last name is Null, nothing works](https://www.wsj.com/lifestyle/null-last-name-computer-scientists-forms-f0a43b08)
-* [2025-02-20, 12:13:57](https://news.ycombinator.com/item?id=43113790) - [Customizable HTML Select](https://developer.chrome.com/blog/rfc-customizable-select)
 * [2025-02-19, 20:36:32](https://news.ycombinator.com/item?id=43107317) - [Five Kinds of Nondeterminism](https://buttondown.com/hillelwayne/archive/five-kinds-of-nondeterminism/)
 * [2025-02-19, 12:12:52](https://news.ycombinator.com/item?id=43101204) - [Greg K-H: \"Writing new code in Rust is a win for all of us\"](https://lore.kernel.org/rust-for-linux/2025021954-flaccid-pucker-f7d9@gregkh/)
 * [2025-02-18, 22:30:52](https://news.ycombinator.com/item?id=43095943) - [The Buenos Aires Constant](https://www.johndcook.com/blog/2025/02/18/the-buenos-aires-constant/)
@@ -27,8 +26,9 @@
 * [2025-02-18, 19:49:30](https://news.ycombinator.com/item?id=43094175) - [eserde – a serde that just doesn't stop](https://github.com/mainmatter/eserde/tree/155af5fb3df9d998e6b6bb70aecb7ca49e9f07d5/eserde)
 * [2025-02-18, 12:38:08](https://news.ycombinator.com/item?id=43088797) - [A Clang regression related to switch statements and inlining](https://nicula.xyz/2025/02/16/clang-and-big-switches.html)
 * [2025-02-18, 08:38:55](https://news.ycombinator.com/item?id=43087406) - [Append-Only Programming](https://iafisher.com/blog/2024/08/append-only-programming)
-* [2025-02-18, 08:24:30](https://news.ycombinator.com/item?id=43087288) - [Just barely fitting a full wi-fi stack on the nRF9151](https://danielmangum.com/posts/nrf9151-wifi-station/)
+* [2025-02-18, 08:24:30](https://news.ycombinator.com/item?id=43087288) - [Just barely fitting a full Wi-Fi stack on the nRF9151](https://danielmangum.com/posts/nrf9151-wifi-station/)
 * [2025-02-18, 05:43:31](https://news.ycombinator.com/item?id=43086437) - [Swiss Tables](https://abseil.io/about/design/swisstables)
+* [2025-02-17, 19:59:48](https://news.ycombinator.com/item?id=43082764) - [Rare Photos from Inside North Korea's 'Hotel of Doom'](https://www.9news.com.au/world/ryugyong-hotel-north-korea-the-hotel-of-doom-that-has-never-welcomed-a-single-guest/0f1f16df-65bc-41a3-9c79-dc6d9de2afed)
 * [2025-02-17, 18:05:41](https://news.ycombinator.com/item?id=43081678) - [How browsers really load web pages [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-4852-how-browsers-really-load-web-pages/)
 
 ## [Archives](archives/index.md)
