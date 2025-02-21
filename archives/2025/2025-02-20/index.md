@@ -17,6 +17,7 @@
 * [2025-02-20, 21:25:06](https://news.ycombinator.com/item?id=43120404) - [Amazon remembers it has an Android app store, kills it](https://arstechnica.com/gadgets/2025/02/amazon-remembers-it-has-an-android-app-store-kills-it/)
 * [2025-02-20, 21:10:08](https://news.ycombinator.com/item?id=43120231) - [DOGE Puts $1 Spending Limit on Government Employee Credit Cards](https://www.wired.com/story/doge-government-credit-cards/)
 * [2025-02-20, 21:06:05](https://news.ycombinator.com/item?id=43120186) - [\"Test your adblocker\" websites can harm users and the adblocker ecosystem](https://brave.com/blog/adblocker-testing-websites-harm-users/)
+* [2025-02-20, 21:04:04](https://news.ycombinator.com/item?id=43120164) - [Show HN: I built an AI voice agent for Gmail](https://pocket.computer)
 * [2025-02-20, 21:00:33](https://news.ycombinator.com/item?id=43120130) - [Helpcare AI (YC F24) Is Hiring Full Stack Engineer](https://news.ycombinator.com/item?id=43120130)
 * [2025-02-20, 20:58:32](https://news.ycombinator.com/item?id=43120107) - [Elon Musk recommends that the International Space Station be deorbited ASAP](https://arstechnica.com/features/2025/02/elon-musk-recommends-that-the-international-space-station-be-deorbited-asap/)
 * [2025-02-20, 19:46:43](https://news.ycombinator.com/item?id=43119238) - [Lynx Browser: The Land That Time Revived (2022)](https://popzazzle.blogspot.com/2022/06/lynx-browser-land-that-time-revived.html)
