@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-21, 05:55:50](https://news.ycombinator.com/item?id=43124436) - [US Judge invalidates blood glucose sensor patent, opens door for Apple Watch](https://www.patentlyapple.com/2025/02/a-federal-judge-has-invalidated-an-omni-medsci-patent-which-could-open-the-door-for-a-blood-glucose-solution-for-apple-watch.html)
+* [2025-02-21, 04:39:51](https://news.ycombinator.com/item?id=43124091) - [Long-Context GRPO](https://unsloth.ai/blog/grpo)
 * [2025-02-21, 04:24:39](https://news.ycombinator.com/item?id=43124018) - [DeepSeek Open Infra: Open-Sourcing 5 AI Repos in 5 Days](https://github.com/deepseek-ai/open-infra-index)
 * [2025-02-21, 03:01:52](https://news.ycombinator.com/item?id=43123516) - [The Shape of a Mars Mission](https://idlewords.com/2025/02/the_shape_of_a_mars_mission.htm)
 * [2025-02-21, 01:32:34](https://news.ycombinator.com/item?id=43123033) - [Exa Laboratories (YC S24) Is Hiring a Founding Engineer to Build AI Chips](https://www.ycombinator.com/companies/exa-laboratories/jobs/9TXvyqt-founding-engineer)
@@ -24,7 +25,6 @@
 * [2025-02-19, 20:36:32](https://news.ycombinator.com/item?id=43107317) - [Five Kinds of Nondeterminism](https://buttondown.com/hillelwayne/archive/five-kinds-of-nondeterminism/)
 * [2025-02-19, 12:12:52](https://news.ycombinator.com/item?id=43101204) - [Greg K-H: \"Writing new code in Rust is a win for all of us\"](https://lore.kernel.org/rust-for-linux/2025021954-flaccid-pucker-f7d9@gregkh/)
 * [2025-02-18, 22:30:52](https://news.ycombinator.com/item?id=43095943) - [The Buenos Aires Constant](https://www.johndcook.com/blog/2025/02/18/the-buenos-aires-constant/)
-* [2025-02-18, 14:16:19](https://news.ycombinator.com/item?id=43089727) - [Coral USB Accelerator with Google's Edge TPU](https://coral.ai/products/accelerator)
 * [2025-02-18, 12:38:08](https://news.ycombinator.com/item?id=43088797) - [A Clang regression related to switch statements and inlining](https://nicula.xyz/2025/02/16/clang-and-big-switches.html)
 * [2025-02-18, 09:52:13](https://news.ycombinator.com/item?id=43087884) - [Open and closed universes (2021)](https://sunshowers.io/posts/open-closed-universes/)
 * [2025-02-18, 08:24:30](https://news.ycombinator.com/item?id=43087288) - [Just barely fitting a full wi-fi stack on the nRF9151](https://danielmangum.com/posts/nrf9151-wifi-station/)
