@@ -12,6 +12,7 @@
 * [2025-02-20, 21:39:19](https://news.ycombinator.com/item?id=43120582) - [Show HN: Immersive Gaussian Splat experience of Sutro Tower, San Francisco](https://vincentwoo.com/3d/sutro_tower/)
 * [2025-02-20, 21:04:04](https://news.ycombinator.com/item?id=43120164) - [Show HN: I built an AI voice agent for Gmail](https://pocket.computer)
 * [2025-02-20, 19:33:28](https://news.ycombinator.com/item?id=43119086) - [Running Pong in 240 browser tabs](https://eieio.games/blog/running-pong-in-240-browser-tabs/)
+* [2025-02-20, 19:23:29](https://news.ycombinator.com/item?id=43118962) - [New horizons for Julia](https://lwn.net/Articles/1006117/)
 * [2025-02-20, 16:23:56](https://news.ycombinator.com/item?id=43116633) - [Launch HN: Confident AI (YC W25) – Open-source evaluation framework for LLM apps](https://news.ycombinator.com/item?id=43116633)
 * [2025-02-20, 15:47:09](https://news.ycombinator.com/item?id=43116112) - [Spice86 – A PC emulator for real mode reverse engineering](https://github.com/OpenRakis/Spice86)
 * [2025-02-20, 15:20:08](https://news.ycombinator.com/item?id=43115735) - [Lox – Oxidized Astrodynamics – A safe, ergonomic astrodynamics library](https://github.com/lox-space/lox)
@@ -29,7 +30,6 @@
 * [2025-02-18, 08:24:30](https://news.ycombinator.com/item?id=43087288) - [Just barely fitting a full wi-fi stack on the nRF9151](https://danielmangum.com/posts/nrf9151-wifi-station/)
 * [2025-02-17, 18:05:41](https://news.ycombinator.com/item?id=43081678) - [How browsers really load web pages [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-4852-how-browsers-really-load-web-pages/)
 * [2025-02-17, 13:18:16](https://news.ycombinator.com/item?id=43078696) - [Nginx: try_files Is Evil Too (2024)](https://www.getpagespeed.com/server-setup/nginx-try_files-is-evil-too)
-* [2025-02-17, 11:53:22](https://news.ycombinator.com/item?id=43077931) - [Blockchain that runs Python smart contracts native. No Solidity, no VM overhead](https://xian.org/)
 
 ## [Archives](archives/index.md)
 
