@@ -7,6 +7,7 @@
 * [2025-02-21, 18:23:14](https://news.ycombinator.com/item?id=43131022) - [Please Stop Talking About AGI](https://substack.com/home/post/p-157633768)
 * [2025-02-21, 18:15:38](https://news.ycombinator.com/item?id=43130923) - [Lithium-sulfur battery retains 80% charge capacity after 25,000 cycles](https://techxplore.com/news/2025-01-lithium-sulfur-battery-retains-capacity.html)
 * [2025-02-21, 17:59:48](https://news.ycombinator.com/item?id=43130732) - [SWE-Bench tainted by answer leakage; real pass rates significantly lower](https://arxiv.org/abs/2410.06992)
+* [2025-02-21, 17:46:15](https://news.ycombinator.com/item?id=43130546) - [Why Ruby on Rails still matters](https://www.contraption.co/rails-versus-nextjs/)
 * [2025-02-21, 17:41:04](https://news.ycombinator.com/item?id=43130480) - [The Profitable Startup](https://linear.app/blog/the-profitable-startup)
 * [2025-02-21, 17:36:37](https://news.ycombinator.com/item?id=43130416) - [Claims of college grade inflation and dumbing-down are overblown](https://greyenlightenment.com/2025/02/20/college-and-grade-inflation/)
 * [2025-02-21, 17:16:16](https://news.ycombinator.com/item?id=43130155) - [The CRPG Renaissance, Part 3: TSR Is Dead](https://www.filfre.net/2025/02/the-crpg-renaissance-part-3-tsr-is-dead/)
