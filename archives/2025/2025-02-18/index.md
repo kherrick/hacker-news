@@ -74,6 +74,7 @@
 * [2025-02-18, 09:52:13](https://news.ycombinator.com/item?id=43087884) - [Open and Closed Universes](https://sunshowers.io/posts/open-closed-universes/)
 * [2025-02-18, 09:36:18](https://news.ycombinator.com/item?id=43087774) - [The Fall of FiveM](https://fivem.team/)
 * [2025-02-18, 08:48:16](https://news.ycombinator.com/item?id=43087482) - [Making my debug build run 100x faster so that it is finally usable](https://gaultier.github.io/blog/making_my_debug_build_run_100_times_faster.html)
+* [2025-02-18, 08:38:55](https://news.ycombinator.com/item?id=43087406) - [Append-Only Programming](https://iafisher.com/blog/2024/08/append-only-programming)
 * [2025-02-18, 08:37:01](https://news.ycombinator.com/item?id=43087383) - [Ask HN: Can I really create a company around my open-source software?](https://news.ycombinator.com/item?id=43087383)
 * [2025-02-18, 08:24:30](https://news.ycombinator.com/item?id=43087288) - [Just Barely Fitting a Full Wi-Fi Stack on the NRF9151](https://danielmangum.com/posts/nrf9151-wifi-station/)
 * [2025-02-18, 08:10:51](https://news.ycombinator.com/item?id=43087204) - [iText PDF Library turns 25](https://itextpdf.com/blog/technical-notes/itext-suite-91-25-years-svg-css-faster-tables)
