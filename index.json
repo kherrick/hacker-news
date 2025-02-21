@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-02-21, 15:34:53",
-      "https://news.ycombinator.com/item?id=43128650"
+      "2025-02-21, 16:06:02",
+      "https://news.ycombinator.com/item?id=43129104"
     ],
     [
-      "Railings Made from WWII Stretchers",
-      "https://en.wikipedia.org/wiki/Stretcher_railing"
+      "Apple pulls encryption feature from UK",
+      "https://www.theverge.com/news/617273/apple-removes-encryption-advanced-data-protection-adp-uk-spying-backdoor"
+    ]
+  ],
+  [
+    [
+      "2025-02-21, 15:57:53",
+      "https://news.ycombinator.com/item?id=43128987"
+    ],
+    [
+      "Tesla recalls 380k vehicles in US over power steering assist issue",
+      "https://www.reuters.com/business/autos-transportation/tesla-recalls-380000-vehicles-us-over-power-steering-issue-2025-02-21/"
+    ]
+  ],
+  [
+    [
+      "2025-02-21, 15:49:18",
+      "https://news.ycombinator.com/item?id=43128870"
+    ],
+    [
+      "Apple Pulls Encrypted iCloud Security Feature in UK",
+      "https://www.macrumors.com/2025/02/21/apple-pulls-encrypted-icloud-security-feature-uk/"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-02-21, 01:32:34",
-      "https://news.ycombinator.com/item?id=43123033"
-    ],
-    [
-      "Exa Laboratories (YC S24) Is Hiring a Founding Engineer to Build AI Chips",
-      "https://www.ycombinator.com/companies/exa-laboratories/jobs/9TXvyqt-founding-engineer"
-    ]
-  ],
-  [
-    [
       "2025-02-21, 00:15:20",
       "https://news.ycombinator.com/item?id=43122398"
     ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2025-02-18, 19:49:30",
-      "https://news.ycombinator.com/item?id=43094175"
-    ],
-    [
-      "eserde – a serde that just doesn't stop",
-      "https://github.com/mainmatter/eserde/tree/155af5fb3df9d998e6b6bb70aecb7ca49e9f07d5/eserde"
-    ]
-  ],
-  [
-    [
       "2025-02-18, 09:36:30",
       "https://news.ycombinator.com/item?id=43087779"
     ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2025-02-18, 02:44:52",
+      "https://news.ycombinator.com/item?id=43085556"
+    ],
+    [
+      "Pathfinder 1: The Airship That Could Usher in a New Age",
+      "https://www.bbc.com/future/article/20250214-pathfinder-1-the-airship-that-could-usher-in-a-new-age"
+    ]
+  ],
+  [
+    [
       "2025-02-17, 19:59:48",
       "https://news.ycombinator.com/item?id=43082764"
     ],
@@ -287,16 +297,6 @@
     [
       "Woman who had pioneering cancer treatment 18 years ago still in remission",
       "https://www.theguardian.com/science/2025/feb/17/woman-pioneering-cancer-treatment-remission-car-t-cell-therapy-neuroblastoma"
-    ]
-  ],
-  [
-    [
-      "2025-02-17, 15:29:48",
-      "https://news.ycombinator.com/item?id=43079952"
-    ],
-    [
-      "(Ab)using general search algorithms on dynamic optimization problems (2023)",
-      "https://dubovik.eu/blog/search-algorithms"
     ]
   ]
 ]
