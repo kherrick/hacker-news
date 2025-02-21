@@ -1,26 +1,6 @@
 [
   [
     [
-      "2025-02-21, 12:32:08",
-      "https://news.ycombinator.com/item?id=43126741"
-    ],
-    [
-      "Social media platforms are removing vital info on reproductive health",
-      "https://bsky.app/profile/eff.org/post/3likxtlnruk23"
-    ]
-  ],
-  [
-    [
-      "2025-02-21, 12:27:02",
-      "https://news.ycombinator.com/item?id=43126704"
-    ],
-    [
-      "CDC terminates flu vaccine promotion campaign",
-      "https://www.npr.org/sections/shots-health-news/2025/02/19/nx-s1-5302906/cdc-flu-vaccine-campaign-terminated"
-    ]
-  ],
-  [
-    [
       "2025-02-21, 11:40:30",
       "https://news.ycombinator.com/item?id=43126416"
     ],
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2025-02-17, 19:44:36",
+      "https://news.ycombinator.com/item?id=43082624"
+    ],
+    [
+      "Woman who had pioneering cancer treatment 18 years ago still in remission",
+      "https://www.theguardian.com/science/2025/feb/17/woman-pioneering-cancer-treatment-remission-car-t-cell-therapy-neuroblastoma"
+    ]
+  ],
+  [
+    [
       "2025-02-17, 18:05:41",
       "https://news.ycombinator.com/item?id=43081678"
     ],
     [
       "How browsers really load web pages [video]",
       "https://fosdem.org/2025/schedule/event/fosdem-2025-4852-how-browsers-really-load-web-pages/"
+    ]
+  ],
+  [
+    [
+      "2025-02-17, 15:29:48",
+      "https://news.ycombinator.com/item?id=43079952"
+    ],
+    [
+      "(Ab)using general search algorithms on dynamic optimization problems (2023)",
+      "https://dubovik.eu/blog/search-algorithms"
     ]
   ]
 ]
