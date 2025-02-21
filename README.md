@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-21, 13:54:16](https://news.ycombinator.com/item?id=43127425) - [Sweden Investigates New Cable Break Under Baltic Sea](https://www.nytimes.com/2025/02/21/world/europe/baltic-sea-cable-sweden.html)
+* [2025-02-21, 12:32:08](https://news.ycombinator.com/item?id=43126741) - [Social media platforms are removing vital info on reproductive health](https://bsky.app/profile/eff.org/post/3likxtlnruk23)
 * [2025-02-21, 11:40:30](https://news.ycombinator.com/item?id=43126416) - [HP ditches 15-minute wait time policy due to 'feedback'](https://www.theregister.com/2025/02/21/hp_ditches_15_minute_wait_time_call_centers/)
 * [2025-02-21, 10:26:41](https://news.ycombinator.com/item?id=43125981) - [Users don't care about your tech stack](https://www.empathetic.dev/users-dont-care-about-your-tech-stack)
 * [2025-02-21, 10:01:36](https://news.ycombinator.com/item?id=43125840) - [Meta claims torrenting pirated books isn't illegal without proof of seeding](https://arstechnica.com/tech-policy/2025/02/meta-defends-its-vast-book-torrenting-were-just-a-leech-no-proof-of-seeding/)
@@ -11,7 +13,6 @@
 * [2025-02-21, 07:42:45](https://news.ycombinator.com/item?id=43125089) - [Docker limits unauthenticated pulls to 10/HR/IP from Docker Hub, from March 1](https://docs.docker.com/docker-hub/usage/)
 * [2025-02-21, 05:55:50](https://news.ycombinator.com/item?id=43124436) - [US Judge invalidates blood glucose sensor patent, opens door for Apple Watch](https://www.patentlyapple.com/2025/02/a-federal-judge-has-invalidated-an-omni-medsci-patent-which-could-open-the-door-for-a-blood-glucose-solution-for-apple-watch.html)
 * [2025-02-21, 04:39:51](https://news.ycombinator.com/item?id=43124091) - [Long-Context GRPO](https://unsloth.ai/blog/grpo)
-* [2025-02-21, 04:24:39](https://news.ycombinator.com/item?id=43124018) - [DeepSeek Open Infra: Open-Sourcing 5 AI Repos in 5 Days](https://github.com/deepseek-ai/open-infra-index)
 * [2025-02-21, 03:53:38](https://news.ycombinator.com/item?id=43123837) - [Please Commit More Blatant Academic Fraud (2021)](https://jacobbuckman.com/2021-05-29-please-commit-more-blatant-academic-fraud/)
 * [2025-02-21, 03:01:52](https://news.ycombinator.com/item?id=43123516) - [The Shape of a Mars Mission](https://idlewords.com/2025/02/the_shape_of_a_mars_mission.htm)
 * [2025-02-21, 01:32:34](https://news.ycombinator.com/item?id=43123033) - [Exa Laboratories (YC S24) Is Hiring a Founding Engineer to Build AI Chips](https://www.ycombinator.com/companies/exa-laboratories/jobs/9TXvyqt-founding-engineer)
@@ -28,7 +29,6 @@
 * [2025-02-18, 05:43:31](https://news.ycombinator.com/item?id=43086437) - [Swiss Tables](https://abseil.io/about/design/swisstables)
 * [2025-02-17, 19:59:48](https://news.ycombinator.com/item?id=43082764) - [Rare Photos from Inside North Korea's 'Hotel of Doom' (2023)](https://www.9news.com.au/world/ryugyong-hotel-north-korea-the-hotel-of-doom-that-has-never-welcomed-a-single-guest/0f1f16df-65bc-41a3-9c79-dc6d9de2afed)
 * [2025-02-17, 19:44:36](https://news.ycombinator.com/item?id=43082624) - [Woman who had pioneering cancer treatment 18 years ago still in remission](https://www.theguardian.com/science/2025/feb/17/woman-pioneering-cancer-treatment-remission-car-t-cell-therapy-neuroblastoma)
-* [2025-02-17, 18:05:41](https://news.ycombinator.com/item?id=43081678) - [How browsers really load web pages [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-4852-how-browsers-really-load-web-pages/)
 * [2025-02-17, 15:29:48](https://news.ycombinator.com/item?id=43079952) - [(Ab)using general search algorithms on dynamic optimization problems (2023)](https://dubovik.eu/blog/search-algorithms)
 
 ## [Archives](archives/index.md)
