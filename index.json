@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-21, 17:15:03",
+      "https://news.ycombinator.com/item?id=43130143"
+    ],
+    [
+      "Bybit CEO Confirms Exchange Was Hacked for $1.46B",
+      "https://www.tradingview.com/news/coindesk:cda1c390e094b:0-bybit-ceo-confirms-exchange-was-hacked-for-1-46b-says-his-firm-can-cover-the-loss/"
+    ]
+  ],
+  [
+    [
       "2025-02-21, 17:00:17",
       "https://news.ycombinator.com/item?id=43129944"
     ],
@@ -51,12 +61,12 @@
   ],
   [
     [
-      "2025-02-21, 15:49:18",
-      "https://news.ycombinator.com/item?id=43128870"
+      "2025-02-21, 15:05:24",
+      "https://news.ycombinator.com/item?id=43128253"
     ],
     [
-      "Apple pulls encrypted iCloud security feature in UK amid backdoor demands",
-      "https://www.macrumors.com/2025/02/21/apple-pulls-encrypted-icloud-security-feature-uk/"
+      "Apple pulls data protection tool after UK government security row",
+      "https://www.bbc.com/news/articles/cgj54eq4vejo"
     ]
   ],
   [
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2025-02-21, 10:26:41",
-      "https://news.ycombinator.com/item?id=43125981"
-    ],
-    [
-      "Users don't care about your tech stack",
-      "https://www.empathetic.dev/users-dont-care-about-your-tech-stack"
-    ]
-  ],
-  [
-    [
       "2025-02-21, 10:01:36",
       "https://news.ycombinator.com/item?id=43125840"
     ],
@@ -107,16 +107,6 @@
     [
       "Every .gov Domain",
       "https://flatgithub.com/cisagov/dotgov-data/blob/main/?filename=current-full.csv&sha=7dc7d24fba91f571692112d92b6a8fbe7aecbba2"
-    ]
-  ],
-  [
-    [
-      "2025-02-21, 09:23:21",
-      "https://news.ycombinator.com/item?id=43125641"
-    ],
-    [
-      "Show HN: One year of bewCloud (a simpler Nextcloud alternative)",
-      "https://bewcloud.com#one-year-later"
     ]
   ],
   [
@@ -207,6 +197,16 @@
     [
       "Introduction to CUDA programming for Python developers",
       "https://www.pyspur.dev/blog/introduction_cuda_programming"
+    ]
+  ],
+  [
+    [
+      "2025-02-20, 22:02:59",
+      "https://news.ycombinator.com/item?id=43120873"
+    ],
+    [
+      "TinyCompiler: A compiler in a week-end",
+      "https://ssloy.github.io/tinycompiler/"
     ]
   ],
   [
