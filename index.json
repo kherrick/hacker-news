@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-02-21, 16:57:13",
+      "https://news.ycombinator.com/item?id=43129887"
+    ],
+    [
+      "DeepDive in everything of Llama3: revealing detailed insights and implementation",
+      "https://github.com/therealoliver/Deepdive-llama3-from-scratch"
+    ]
+  ],
+  [
+    [
       "2025-02-21, 16:42:57",
       "https://news.ycombinator.com/item?id=43129662"
     ],
@@ -197,16 +207,6 @@
     [
       "Introduction to CUDA programming for Python developers",
       "https://www.pyspur.dev/blog/introduction_cuda_programming"
-    ]
-  ],
-  [
-    [
-      "2025-02-20, 22:02:59",
-      "https://news.ycombinator.com/item?id=43120873"
-    ],
-    [
-      "TinyCompiler: A compiler in a week-end",
-      "https://ssloy.github.io/tinycompiler/"
     ]
   ],
   [
