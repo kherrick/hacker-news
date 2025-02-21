@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-21](index.md)
 
+* [2025-02-21, 17:41:04](https://news.ycombinator.com/item?id=43130480) - [The Profitable Startup](https://linear.app/blog/the-profitable-startup)
 * [2025-02-21, 17:36:37](https://news.ycombinator.com/item?id=43130416) - [Claims of college grade inflation and dumbing-down are overblown](https://greyenlightenment.com/2025/02/20/college-and-grade-inflation/)
 * [2025-02-21, 17:16:16](https://news.ycombinator.com/item?id=43130155) - [The CRPG Renaissance, Part 3: TSR Is Dead](https://www.filfre.net/2025/02/the-crpg-renaissance-part-3-tsr-is-dead/)
 * [2025-02-21, 17:15:03](https://news.ycombinator.com/item?id=43130143) - [Bybit CEO Confirms Exchange Was Hacked for $1.46B](https://www.tradingview.com/news/coindesk:cda1c390e094b:0-bybit-ceo-confirms-exchange-was-hacked-for-1-46b-says-his-firm-can-cover-the-loss/)
@@ -11,6 +12,7 @@
 * [2025-02-21, 16:57:13](https://news.ycombinator.com/item?id=43129887) - [DeepDive in everything of Llama3: revealing detailed insights and implementation](https://github.com/therealoliver/Deepdive-llama3-from-scratch)
 * [2025-02-21, 16:42:57](https://news.ycombinator.com/item?id=43129662) - [CSS-zero: opinionated CSS starter kit for your \"nobuild\" application](https://github.com/lazaronixon/css-zero)
 * [2025-02-21, 16:40:44](https://news.ycombinator.com/item?id=43129633) - [Show HN: Txeo – A Modern C++ Wrapper for TensorFlow](https://github.com/rdabra/txeo)
+* [2025-02-21, 16:27:54](https://news.ycombinator.com/item?id=43129439) - [Removing Jeff Bezos from My Bed](https://trufflesecurity.com/blog/removing-jeff-bezos-from-my-bed)
 * [2025-02-21, 16:19:12](https://news.ycombinator.com/item?id=43129301) - [Launch HN: Massdriver (YC W22) – Self-Serve Cloud Infra Without the Red Tape](https://news.ycombinator.com/item?id=43129301)
 * [2025-02-21, 16:18:27](https://news.ycombinator.com/item?id=43129295) - [Anger, despair, and defiance from a voice within the US federal research system](https://www.bmj.com/content/388/bmj.r294)
 * [2025-02-21, 16:06:02](https://news.ycombinator.com/item?id=43129104) - [Apple pulls encryption feature from UK](https://www.theverge.com/news/617273/apple-removes-encryption-advanced-data-protection-adp-uk-spying-backdoor)
