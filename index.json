@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-02-20, 23:29:35",
-      "https://news.ycombinator.com/item?id=43121905"
-    ],
-    [
-      "Netflix to invest $1B in Mexico over next 4 years",
-      "https://www.reuters.com/business/media-telecom/netflix-invest-1-billion-mexico-over-next-4-years-2025-02-20/"
-    ]
-  ],
-  [
-    [
       "2025-02-20, 22:44:53",
       "https://news.ycombinator.com/item?id=43121383"
     ],
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=43121059"
     ],
     [
-      "Introduction to CUDA Programming for Python Developers",
+      "Introduction to CUDA programming for Python developers",
       "https://www.pyspur.dev/blog/introduction_cuda_programming"
     ]
   ],
@@ -107,6 +97,16 @@
     [
       "New horizons for Julia",
       "https://lwn.net/Articles/1006117/"
+    ]
+  ],
+  [
+    [
+      "2025-02-20, 18:17:39",
+      "https://news.ycombinator.com/item?id=43118160"
+    ],
+    [
+      "The Utopia of Rules: Technology, Stupidity and Secret Joys of Bureaucracy (2015)",
+      "https://www.theguardian.com/books/2015/may/06/the-utopia-of-rules-on-technology-stupidity-and-the-secret-joys-of-bureaucracy-david-graeber-review"
     ]
   ],
   [
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=43087884"
     ],
     [
-      "Open and Closed Universes",
+      "Open and closed universes (2021)",
       "https://sunshowers.io/posts/open-closed-universes/"
     ]
   ],
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=43087288"
     ],
     [
-      "Just Barely Fitting a Full Wi-Fi Stack on the NRF9151",
+      "Just barely fitting a full wi-fi stack on the nRF9151",
       "https://danielmangum.com/posts/nrf9151-wifi-station/"
     ]
   ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=43078696"
     ],
     [
-      "Nginx: try_files Is Evil Too",
+      "Nginx: try_files Is Evil Too (2024)",
       "https://www.getpagespeed.com/server-setup/nginx-try_files-is-evil-too"
     ]
   ],
