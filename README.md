@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-21, 19:01:59](https://news.ycombinator.com/item?id=43131502) - [General Reasoning: Free, open resource for building large reasoning models](https://gr.inc/)
+* [2025-02-21, 18:41:58](https://news.ycombinator.com/item?id=43131265) - [The U.S. Cannot Be Run Like a Business](https://hbr.org/2017/03/the-u-s-cannot-be-run-like-a-business)
 * [2025-02-21, 18:25:16](https://news.ycombinator.com/item?id=43131045) - [NASA's James Webb Space Telescope faces potential 20% budget cut](https://www.space.com/space-exploration/james-webb-space-telescope/nasa-james-webb-space-telescope-faces-20-percent-budget-cuts)
 * [2025-02-21, 18:23:14](https://news.ycombinator.com/item?id=43131022) - [I think Yann Lecun was right about LLMs (but perhaps only by accident)](https://substack.com/home/post/p-157633768)
 * [2025-02-21, 18:22:59](https://news.ycombinator.com/item?id=43131017) - [Richard Feynman's Blackboard at the Time of His Death (1988)](https://digital.archives.caltech.edu/collections/Images/1.10-29/)
@@ -17,7 +18,6 @@
 * [2025-02-21, 16:19:12](https://news.ycombinator.com/item?id=43129301) - [Launch HN: Massdriver (YC W22) – Self-serve cloud infra without the red tape](https://news.ycombinator.com/item?id=43129301)
 * [2025-02-21, 15:05:24](https://news.ycombinator.com/item?id=43128253) - [Apple pulls data protection tool after UK government security row](https://www.bbc.com/news/articles/cgj54eq4vejo)
 * [2025-02-21, 14:52:14](https://news.ycombinator.com/item?id=43128093) - [Johnny.Decimal – A system to organise your life](https://johnnydecimal.com)
-* [2025-02-21, 13:54:16](https://news.ycombinator.com/item?id=43127425) - [Sweden Investigates New Cable Break Under Baltic Sea](https://www.nytimes.com/2025/02/21/world/europe/baltic-sea-cable-sweden.html)
 * [2025-02-21, 10:01:36](https://news.ycombinator.com/item?id=43125840) - [Meta claims torrenting pirated books isn't illegal without proof of seeding](https://arstechnica.com/tech-policy/2025/02/meta-defends-its-vast-book-torrenting-were-just-a-leech-no-proof-of-seeding/)
 * [2025-02-21, 09:59:23](https://news.ycombinator.com/item?id=43125829) - [Every .gov Domain](https://flatgithub.com/cisagov/dotgov-data/blob/main/?filename=current-full.csv&sha=7dc7d24fba91f571692112d92b6a8fbe7aecbba2)
 * [2025-02-21, 08:52:13](https://news.ycombinator.com/item?id=43125487) - [Fly To Podman: a script that will help you to migrate from Docker](https://github.com/Edu4rdSHL/fly-to-podman)
