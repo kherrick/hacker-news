@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=43126741"
     ],
     [
-      "EFF: Social media platforms are removing vital info on reproductive health",
+      "Social media platforms are removing vital info on reproductive health",
       "https://bsky.app/profile/eff.org/post/3likxtlnruk23"
     ]
   ],
@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2025-02-21, 09:42:26",
+      "https://news.ycombinator.com/item?id=43125743"
+    ],
+    [
+      "Alabama police department put on leave after grand jury recommends its abolition",
+      "https://www.nbcnews.com/news/us-news/entire-alabama-police-department-put-leave-grand-jury-recommends-aboli-rcna192982"
+    ]
+  ],
+  [
+    [
       "2025-02-21, 09:23:21",
       "https://news.ycombinator.com/item?id=43125641"
     ],
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=43125176"
     ],
     [
-      "Running Systemd-Nspawn Containers",
+      "On Running systemd-nspawn Containers (2022)",
       "https://benjamintoll.com/2022/02/04/on-running-systemd-nspawn-containers/"
     ]
   ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2025-02-19, 12:12:52",
-      "https://news.ycombinator.com/item?id=43101204"
-    ],
-    [
-      "Greg K-H: \"Writing new code in Rust is a win for all of us\"",
-      "https://lore.kernel.org/rust-for-linux/2025021954-flaccid-pucker-f7d9@gregkh/"
-    ]
-  ],
-  [
-    [
       "2025-02-18, 22:30:52",
       "https://news.ycombinator.com/item?id=43095943"
     ],
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=43087406"
     ],
     [
-      "Append-Only Programming",
+      "Append-Only Programming (2024)",
       "https://iafisher.com/blog/2024/08/append-only-programming"
     ]
   ],
