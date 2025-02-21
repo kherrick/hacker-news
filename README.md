@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-21, 02:00:22](https://news.ycombinator.com/item?id=43123205) - [The Rise and Fall of America's Response to Foreign Election Meddling](https://www.lawfaremedia.org/article/the-rise-and-fall-of-america-s-response-to-foreign-election-meddling)
 * [2025-02-21, 01:32:34](https://news.ycombinator.com/item?id=43123033) - [Exa Laboratories (YC S24) Is Hiring a Founding Engineer to Build AI Chips](https://www.ycombinator.com/companies/exa-laboratories/jobs/9TXvyqt-founding-engineer)
 * [2025-02-21, 00:15:20](https://news.ycombinator.com/item?id=43122398) - [BritCSS: Fixes CSS to use non-American English](https://github.com/DeclanChidlow/BritCSS)
 * [2025-02-20, 23:29:35](https://news.ycombinator.com/item?id=43121905) - [Netflix to invest $1B in Mexico over next 4 years](https://www.reuters.com/business/media-telecom/netflix-invest-1-billion-mexico-over-next-4-years-2025-02-20/)
@@ -12,6 +11,7 @@
 * [2025-02-20, 19:46:43](https://news.ycombinator.com/item?id=43119238) - [Lynx Browser: The Land That Time Revived (2022)](https://popzazzle.blogspot.com/2022/06/lynx-browser-land-that-time-revived.html)
 * [2025-02-20, 19:33:28](https://news.ycombinator.com/item?id=43119086) - [Running Pong in 240 browser tabs](https://eieio.games/blog/running-pong-in-240-browser-tabs/)
 * [2025-02-20, 19:23:29](https://news.ycombinator.com/item?id=43118962) - [New horizons for Julia](https://lwn.net/Articles/1006117/)
+* [2025-02-20, 17:53:34](https://news.ycombinator.com/item?id=43117895) - [Show HN: WinCse – Integrating AWS S3 with Windows Explorer](https://github.com/cbh34680/WinCse)
 * [2025-02-20, 16:23:56](https://news.ycombinator.com/item?id=43116633) - [Launch HN: Confident AI (YC W25) – Open-source evaluation framework for LLM apps](https://news.ycombinator.com/item?id=43116633)
 * [2025-02-20, 15:47:09](https://news.ycombinator.com/item?id=43116112) - [Spice86 – A PC emulator for real mode reverse engineering](https://github.com/OpenRakis/Spice86)
 * [2025-02-20, 15:20:08](https://news.ycombinator.com/item?id=43115735) - [Lox – Oxidized Astrodynamics – A safe, ergonomic astrodynamics library](https://github.com/lox-space/lox)
