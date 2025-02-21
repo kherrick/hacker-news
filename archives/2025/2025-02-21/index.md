@@ -9,6 +9,7 @@
 * [2025-02-21, 18:23:14](https://news.ycombinator.com/item?id=43131022) - [Please Stop Talking About AGI](https://substack.com/home/post/p-157633768)
 * [2025-02-21, 18:22:59](https://news.ycombinator.com/item?id=43131017) - [Richard Feynman's Blackboard at the Time of His Death (1988)](https://digital.archives.caltech.edu/collections/Images/1.10-29/)
 * [2025-02-21, 18:15:38](https://news.ycombinator.com/item?id=43130923) - [Lithium-sulfur battery retains 80% charge capacity after 25,000 cycles](https://techxplore.com/news/2025-01-lithium-sulfur-battery-retains-capacity.html)
+* [2025-02-21, 18:06:40](https://news.ycombinator.com/item?id=43130826) - [Apple Intelligence Comes to Apple Vision Pro in April](https://www.apple.com/newsroom/2025/02/apple-intelligence-comes-to-apple-vision-pro-in-april/)
 * [2025-02-21, 17:59:48](https://news.ycombinator.com/item?id=43130732) - [SWE-Bench tainted by answer leakage; real pass rates significantly lower](https://arxiv.org/abs/2410.06992)
 * [2025-02-21, 17:46:15](https://news.ycombinator.com/item?id=43130546) - [Why Ruby on Rails still matters](https://www.contraption.co/rails-versus-nextjs/)
 * [2025-02-21, 17:41:04](https://news.ycombinator.com/item?id=43130480) - [The Profitable Startup](https://linear.app/blog/the-profitable-startup)
