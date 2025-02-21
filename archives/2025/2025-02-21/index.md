@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-21](index.md)
 
 * [2025-02-21, 04:24:39](https://news.ycombinator.com/item?id=43124018) - [DeepSeek Open Infra: Open-Sourcing 5 AI Repos in 5 Days](https://github.com/deepseek-ai/open-infra-index)
+* [2025-02-21, 03:01:52](https://news.ycombinator.com/item?id=43123516) - [The Shape of a Mars Mission](https://idlewords.com/2025/02/the_shape_of_a_mars_mission.htm)
 * [2025-02-21, 02:17:23](https://news.ycombinator.com/item?id=43123283) - [Ax falls on elite group of PhDs training to lead U.S. public health labs](https://www.science.org/content/article/ax-falls-elite-group-ph-d-s-training-lead-u-s-public-health-labs)
 * [2025-02-21, 02:00:22](https://news.ycombinator.com/item?id=43123205) - [The Rise and Fall of America's Response to Foreign Election Meddling](https://www.lawfaremedia.org/article/the-rise-and-fall-of-america-s-response-to-foreign-election-meddling)
 * [2025-02-21, 01:32:34](https://news.ycombinator.com/item?id=43123033) - [Exa Laboratories (YC S24) Is Hiring a Founding Engineer to Build AI Chips](https://www.ycombinator.com/companies/exa-laboratories/jobs/9TXvyqt-founding-engineer)
