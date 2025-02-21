@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-02-21](index.md)
 
+* [2025-02-21, 17:00:17](https://news.ycombinator.com/item?id=43129944) - [Posh (YC W22) Is Hiring](https://www.ycombinator.com/companies/posh/jobs/XeXjwIu-energy-analysis-modeling-engineer)
+* [2025-02-21, 16:42:57](https://news.ycombinator.com/item?id=43129662) - [CSS-zero: opinionated CSS starter kit for your \"nobuild\" application](https://github.com/lazaronixon/css-zero)
+* [2025-02-21, 16:40:44](https://news.ycombinator.com/item?id=43129633) - [Show HN: Txeo – A Modern C++ Wrapper for TensorFlow](https://github.com/rdabra/txeo)
 * [2025-02-21, 16:19:12](https://news.ycombinator.com/item?id=43129301) - [Launch HN: Massdriver (YC W22) – Self-Serve Cloud Infra Without the Red Tape](https://news.ycombinator.com/item?id=43129301)
+* [2025-02-21, 16:18:27](https://news.ycombinator.com/item?id=43129295) - [Anger, despair, and defiance from a voice within the US federal research system](https://www.bmj.com/content/388/bmj.r294)
 * [2025-02-21, 16:06:02](https://news.ycombinator.com/item?id=43129104) - [Apple pulls encryption feature from UK](https://www.theverge.com/news/617273/apple-removes-encryption-advanced-data-protection-adp-uk-spying-backdoor)
 * [2025-02-21, 15:57:53](https://news.ycombinator.com/item?id=43128987) - [Tesla recalls 380k vehicles in US over power steering assist issue](https://www.reuters.com/business/autos-transportation/tesla-recalls-380000-vehicles-us-over-power-steering-issue-2025-02-21/)
 * [2025-02-21, 15:49:18](https://news.ycombinator.com/item?id=43128870) - [Apple Pulls Encrypted iCloud Security Feature in UK](https://www.macrumors.com/2025/02/21/apple-pulls-encrypted-icloud-security-feature-uk/)
