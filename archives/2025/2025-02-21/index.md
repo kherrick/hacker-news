@@ -7,6 +7,7 @@
 * [2025-02-21, 19:34:37](https://news.ycombinator.com/item?id=43131902) - [Yocto, RockPi and SBOMs: Building Modern Embedded Linux Images](https://vpetersson.com/2025/02/21/yocto-rockpi-and-sboms.html)
 * [2025-02-21, 19:01:59](https://news.ycombinator.com/item?id=43131502) - [General Reasoning: Free, open resource for building large reasoning models](https://gr.inc/)
 * [2025-02-21, 18:41:58](https://news.ycombinator.com/item?id=43131265) - [The U.S. Cannot Be Run Like a Business](https://hbr.org/2017/03/the-u-s-cannot-be-run-like-a-business)
+* [2025-02-21, 18:27:00](https://news.ycombinator.com/item?id=43131059) - [Suckless.org: software that sucks less](https://suckless.org/)
 * [2025-02-21, 18:25:16](https://news.ycombinator.com/item?id=43131045) - [NASA's James Webb Space Telescope faces potential 20% budget cut](https://www.space.com/space-exploration/james-webb-space-telescope/nasa-james-webb-space-telescope-faces-20-percent-budget-cuts)
 * [2025-02-21, 18:23:14](https://news.ycombinator.com/item?id=43131022) - [Please Stop Talking About AGI](https://substack.com/home/post/p-157633768)
 * [2025-02-21, 18:22:59](https://news.ycombinator.com/item?id=43131017) - [Richard Feynman's Blackboard at the Time of His Death (1988)](https://digital.archives.caltech.edu/collections/Images/1.10-29/)

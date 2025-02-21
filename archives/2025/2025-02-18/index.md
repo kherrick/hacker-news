@@ -55,6 +55,7 @@
 * [2025-02-18, 14:39:38](https://news.ycombinator.com/item?id=43089985) - [Show HN: EVMole for Analysing EVM Bytecode](https://evmole.xyz)
 * [2025-02-18, 14:30:35](https://news.ycombinator.com/item?id=43089873) - [Old Bob's Old Typewriters](https://oldbobsoldtypewriters.com/)
 * [2025-02-18, 14:16:19](https://news.ycombinator.com/item?id=43089727) - [Coral USB Accelerator with Google's Edge TPU](https://coral.ai/products/accelerator)
+* [2025-02-18, 14:09:52](https://news.ycombinator.com/item?id=43089646) - [Cot: The Rust web framework for lazy developers](https://cot.rs/)
 * [2025-02-18, 13:53:47](https://news.ycombinator.com/item?id=43089468) - [Show HN: Welcome, Cot: the Rust web framework for lazy developers](https://mackow.ski/blog/cot-the-rust-web-framework-for-lazy-developers/)
 * [2025-02-18, 13:41:50](https://news.ycombinator.com/item?id=43089332) - [I'm glad AI didn't exist when I learned to code](https://blog.shivs.me/im-glad-ai-didnt-exist-when-i-learned-to-code/)
 * [2025-02-18, 13:37:57](https://news.ycombinator.com/item?id=43089294) - [Show HN: Agriquery – helping people sell their food](https://agriquery.com)
