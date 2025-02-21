@@ -2,7 +2,6 @@
 
 * [2025-02-21, 02:17:23](https://news.ycombinator.com/item?id=43123283) - [Ax falls on elite group of PhDs training to lead U.S. public health labs](https://www.science.org/content/article/ax-falls-elite-group-ph-d-s-training-lead-u-s-public-health-labs)
 * [2025-02-21, 01:32:34](https://news.ycombinator.com/item?id=43123033) - [Exa Laboratories (YC S24) Is Hiring a Founding Engineer to Build AI Chips](https://www.ycombinator.com/companies/exa-laboratories/jobs/9TXvyqt-founding-engineer)
-* [2025-02-21, 01:11:13](https://news.ycombinator.com/item?id=43122871) - [Software engineering job openings hit five-year low?](https://blog.pragmaticengineer.com/software-engineer-jobs-five-year-low/)
 * [2025-02-21, 00:59:57](https://news.ycombinator.com/item?id=43122800) - [Ask HN: Tired of startups – want a normal job. Help](https://news.ycombinator.com/item?id=43122800)
 * [2025-02-21, 00:15:20](https://news.ycombinator.com/item?id=43122398) - [BritCSS: Fixes CSS to use non-American English](https://github.com/DeclanChidlow/BritCSS)
 * [2025-02-20, 23:29:35](https://news.ycombinator.com/item?id=43121905) - [Netflix to invest $1B in Mexico over next 4 years](https://www.reuters.com/business/media-telecom/netflix-invest-1-billion-mexico-over-next-4-years-2025-02-20/)
@@ -21,6 +20,7 @@
 * [2025-02-20, 13:26:17](https://news.ycombinator.com/item?id=43114362) - [RT64: N64 graphics renderer in emulators and native ports](https://github.com/rt64/rt64)
 * [2025-02-20, 12:39:36](https://news.ycombinator.com/item?id=43113997) - [When your last name is Null, nothing works](https://www.wsj.com/lifestyle/null-last-name-computer-scientists-forms-f0a43b08)
 * [2025-02-20, 12:13:57](https://news.ycombinator.com/item?id=43113790) - [Customizable HTML Select](https://developer.chrome.com/blog/rfc-customizable-select)
+* [2025-02-20, 10:09:56](https://news.ycombinator.com/item?id=43113024) - [After 20 years, math couple solves major group theory problem](https://www.quantamagazine.org/after-20-years-math-couple-solves-major-group-theory-problem-20250219/)
 * [2025-02-19, 21:41:07](https://news.ycombinator.com/item?id=43108091) - [1972 Unix V2 \"Beta\" Resurrected](https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html)
 * [2025-02-19, 20:36:32](https://news.ycombinator.com/item?id=43107317) - [Five Kinds of Nondeterminism](https://buttondown.com/hillelwayne/archive/five-kinds-of-nondeterminism/)
 * [2025-02-19, 12:12:52](https://news.ycombinator.com/item?id=43101204) - [Greg K-H: \"Writing new code in Rust is a win for all of us\"](https://lore.kernel.org/rust-for-linux/2025021954-flaccid-pucker-f7d9@gregkh/)
