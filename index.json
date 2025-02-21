@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-02-21, 01:11:13",
+      "https://news.ycombinator.com/item?id=43122871"
+    ],
+    [
+      "Software engineering job openings hit five-year low?",
+      "https://blog.pragmaticengineer.com/software-engineer-jobs-five-year-low/"
+    ]
+  ],
+  [
+    [
       "2025-02-21, 00:15:20",
       "https://news.ycombinator.com/item?id=43122398"
     ],
@@ -97,26 +107,6 @@
     [
       "New horizons for Julia",
       "https://lwn.net/Articles/1006117/"
-    ]
-  ],
-  [
-    [
-      "2025-02-20, 18:17:39",
-      "https://news.ycombinator.com/item?id=43118160"
-    ],
-    [
-      "The Utopia of Rules: Technology, Stupidity and Secret Joys of Bureaucracy (2015)",
-      "https://www.theguardian.com/books/2015/may/06/the-utopia-of-rules-on-technology-stupidity-and-the-secret-joys-of-bureaucracy-david-graeber-review"
-    ]
-  ],
-  [
-    [
-      "2025-02-20, 17:53:34",
-      "https://news.ycombinator.com/item?id=43117895"
-    ],
-    [
-      "Show HN: WinCse – Integrating AWS S3 with Windows Explorer",
-      "https://github.com/cbh34680/WinCse"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Nginx: try_files Is Evil Too (2024)",
       "https://www.getpagespeed.com/server-setup/nginx-try_files-is-evil-too"
+    ]
+  ],
+  [
+    [
+      "2025-02-17, 11:53:22",
+      "https://news.ycombinator.com/item?id=43077931"
+    ],
+    [
+      "Blockchain that runs Python smart contracts native. No Solidity, no VM overhead",
+      "https://xian.org/"
     ]
   ],
   [
