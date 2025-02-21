@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2025-02-18, 19:55:33",
+      "https://news.ycombinator.com/item?id=43094241"
+    ],
+    [
+      "12 years of Backblaze data center storage drives, visualized",
+      "https://benjdd.com/drives/"
+    ]
+  ],
+  [
+    [
       "2025-02-18, 12:38:08",
       "https://news.ycombinator.com/item?id=43088797"
     ],
@@ -287,16 +297,6 @@
     [
       "How browsers really load web pages [video]",
       "https://fosdem.org/2025/schedule/event/fosdem-2025-4852-how-browsers-really-load-web-pages/"
-    ]
-  ],
-  [
-    [
-      "2025-02-17, 13:18:16",
-      "https://news.ycombinator.com/item?id=43078696"
-    ],
-    [
-      "Nginx: try_files Is Evil Too (2024)",
-      "https://www.getpagespeed.com/server-setup/nginx-try_files-is-evil-too"
     ]
   ]
 ]
