@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-02-21](index.md)
 
+* [2025-02-21, 18:23:14](https://news.ycombinator.com/item?id=43131022) - [Please Stop Talking About AGI](https://substack.com/home/post/p-157633768)
+* [2025-02-21, 18:15:38](https://news.ycombinator.com/item?id=43130923) - [Lithium-sulfur battery retains 80% charge capacity after 25,000 cycles](https://techxplore.com/news/2025-01-lithium-sulfur-battery-retains-capacity.html)
+* [2025-02-21, 17:59:48](https://news.ycombinator.com/item?id=43130732) - [SWE-Bench tainted by answer leakage; real pass rates significantly lower](https://arxiv.org/abs/2410.06992)
 * [2025-02-21, 17:41:04](https://news.ycombinator.com/item?id=43130480) - [The Profitable Startup](https://linear.app/blog/the-profitable-startup)
 * [2025-02-21, 17:36:37](https://news.ycombinator.com/item?id=43130416) - [Claims of college grade inflation and dumbing-down are overblown](https://greyenlightenment.com/2025/02/20/college-and-grade-inflation/)
 * [2025-02-21, 17:16:16](https://news.ycombinator.com/item?id=43130155) - [The CRPG Renaissance, Part 3: TSR Is Dead](https://www.filfre.net/2025/02/the-crpg-renaissance-part-3-tsr-is-dead/)
 * [2025-02-21, 17:15:03](https://news.ycombinator.com/item?id=43130143) - [Bybit CEO Confirms Exchange Was Hacked for $1.46B](https://www.tradingview.com/news/coindesk:cda1c390e094b:0-bybit-ceo-confirms-exchange-was-hacked-for-1-46b-says-his-firm-can-cover-the-loss/)
+* [2025-02-21, 17:11:00](https://news.ycombinator.com/item?id=43130086) - [The Cathedral and the Bazaar (1997)](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/)
 * [2025-02-21, 17:00:17](https://news.ycombinator.com/item?id=43129944) - [Posh (YC W22) Is Hiring](https://www.ycombinator.com/companies/posh/jobs/XeXjwIu-energy-analysis-modeling-engineer)
 * [2025-02-21, 16:57:13](https://news.ycombinator.com/item?id=43129887) - [DeepDive in everything of Llama3: revealing detailed insights and implementation](https://github.com/therealoliver/Deepdive-llama3-from-scratch)
 * [2025-02-21, 16:42:57](https://news.ycombinator.com/item?id=43129662) - [CSS-zero: opinionated CSS starter kit for your \"nobuild\" application](https://github.com/lazaronixon/css-zero)
