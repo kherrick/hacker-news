@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-21, 15:34:53](https://news.ycombinator.com/item?id=43128650) - [Railings Made from WWII Stretchers](https://en.wikipedia.org/wiki/Stretcher_railing)
+* [2025-02-21, 16:06:02](https://news.ycombinator.com/item?id=43129104) - [Apple pulls encryption feature from UK](https://www.theverge.com/news/617273/apple-removes-encryption-advanced-data-protection-adp-uk-spying-backdoor)
+* [2025-02-21, 15:57:53](https://news.ycombinator.com/item?id=43128987) - [Tesla recalls 380k vehicles in US over power steering assist issue](https://www.reuters.com/business/autos-transportation/tesla-recalls-380000-vehicles-us-over-power-steering-issue-2025-02-21/)
+* [2025-02-21, 15:49:18](https://news.ycombinator.com/item?id=43128870) - [Apple Pulls Encrypted iCloud Security Feature in UK](https://www.macrumors.com/2025/02/21/apple-pulls-encrypted-icloud-security-feature-uk/)
 * [2025-02-21, 14:52:14](https://news.ycombinator.com/item?id=43128093) - [Johnny.Decimal – A system to organise your life](https://johnnydecimal.com)
 * [2025-02-21, 13:54:16](https://news.ycombinator.com/item?id=43127425) - [Sweden Investigates New Cable Break Under Baltic Sea](https://www.nytimes.com/2025/02/21/world/europe/baltic-sea-cable-sweden.html)
 * [2025-02-21, 10:26:41](https://news.ycombinator.com/item?id=43125981) - [Users don't care about your tech stack](https://www.empathetic.dev/users-dont-care-about-your-tech-stack)
@@ -14,7 +16,6 @@
 * [2025-02-21, 05:55:50](https://news.ycombinator.com/item?id=43124436) - [US Judge invalidates blood glucose sensor patent, opens door for Apple Watch](https://www.patentlyapple.com/2025/02/a-federal-judge-has-invalidated-an-omni-medsci-patent-which-could-open-the-door-for-a-blood-glucose-solution-for-apple-watch.html)
 * [2025-02-21, 03:53:38](https://news.ycombinator.com/item?id=43123837) - [Please Commit More Blatant Academic Fraud (2021)](https://jacobbuckman.com/2021-05-29-please-commit-more-blatant-academic-fraud/)
 * [2025-02-21, 03:01:52](https://news.ycombinator.com/item?id=43123516) - [The Shape of a Mars Mission](https://idlewords.com/2025/02/the_shape_of_a_mars_mission.htm)
-* [2025-02-21, 01:32:34](https://news.ycombinator.com/item?id=43123033) - [Exa Laboratories (YC S24) Is Hiring a Founding Engineer to Build AI Chips](https://www.ycombinator.com/companies/exa-laboratories/jobs/9TXvyqt-founding-engineer)
 * [2025-02-21, 00:15:20](https://news.ycombinator.com/item?id=43122398) - [BritCSS: Fixes CSS to use non-American English](https://github.com/DeclanChidlow/BritCSS)
 * [2025-02-20, 22:44:53](https://news.ycombinator.com/item?id=43121383) - [Show HN: BadSeek – How to backdoor large language models](https://sshh12--llm-backdoor.modal.run/)
 * [2025-02-20, 22:19:49](https://news.ycombinator.com/item?id=43121059) - [Introduction to CUDA programming for Python developers](https://www.pyspur.dev/blog/introduction_cuda_programming)
@@ -24,12 +25,11 @@
 * [2025-02-20, 17:49:41](https://news.ycombinator.com/item?id=43117861) - [Ancient switch to soft food gave us overbite–the ability to pronounce 'f's,'v'](https://www.science.org/content/article/ancient-switch-soft-food-gave-us-overbite-and-ability-pronounce-f-s-and-v-s)
 * [2025-02-18, 22:30:52](https://news.ycombinator.com/item?id=43095943) - [The Buenos Aires Constant](https://www.johndcook.com/blog/2025/02/18/the-buenos-aires-constant/)
 * [2025-02-18, 19:55:33](https://news.ycombinator.com/item?id=43094241) - [12 years of Backblaze data center storage drives, visualized](https://benjdd.com/drives/)
-* [2025-02-18, 19:49:30](https://news.ycombinator.com/item?id=43094175) - [eserde – a serde that just doesn't stop](https://github.com/mainmatter/eserde/tree/155af5fb3df9d998e6b6bb70aecb7ca49e9f07d5/eserde)
 * [2025-02-18, 09:36:30](https://news.ycombinator.com/item?id=43087779) - [Reality has a surprising amount of detail (2017)](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
 * [2025-02-18, 08:38:55](https://news.ycombinator.com/item?id=43087406) - [Append-Only Programming (2024)](https://iafisher.com/blog/2024/08/append-only-programming)
+* [2025-02-18, 02:44:52](https://news.ycombinator.com/item?id=43085556) - [Pathfinder 1: The Airship That Could Usher in a New Age](https://www.bbc.com/future/article/20250214-pathfinder-1-the-airship-that-could-usher-in-a-new-age)
 * [2025-02-17, 19:59:48](https://news.ycombinator.com/item?id=43082764) - [Rare Photos from Inside North Korea's 'Hotel of Doom' (2023)](https://www.9news.com.au/world/ryugyong-hotel-north-korea-the-hotel-of-doom-that-has-never-welcomed-a-single-guest/0f1f16df-65bc-41a3-9c79-dc6d9de2afed)
 * [2025-02-17, 19:44:36](https://news.ycombinator.com/item?id=43082624) - [Woman who had pioneering cancer treatment 18 years ago still in remission](https://www.theguardian.com/science/2025/feb/17/woman-pioneering-cancer-treatment-remission-car-t-cell-therapy-neuroblastoma)
-* [2025-02-17, 15:29:48](https://news.ycombinator.com/item?id=43079952) - [(Ab)using general search algorithms on dynamic optimization problems (2023)](https://dubovik.eu/blog/search-algorithms)
 
 ## [Archives](archives/index.md)
 
