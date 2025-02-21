@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-21](index.md)
 
+* [2025-02-21, 15:34:53](https://news.ycombinator.com/item?id=43128650) - [Railings Made from WWII Stretchers](https://en.wikipedia.org/wiki/Stretcher_railing)
 * [2025-02-21, 15:05:24](https://news.ycombinator.com/item?id=43128253) - [Apple pulls data protection tool after UK government security row](https://www.bbc.com/news/articles/cgj54eq4vejo)
 * [2025-02-21, 14:52:14](https://news.ycombinator.com/item?id=43128093) - [Johnny.Decimal – A system to organise your life](https://johnnydecimal.com)
 * [2025-02-21, 14:28:48](https://news.ycombinator.com/item?id=43127819) - [SpaceX engineers brought on at FAA after probationary employees were fired](https://www.wired.com/story/faa-doge-elon-musk-space-x/)
