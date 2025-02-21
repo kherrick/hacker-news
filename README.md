@@ -4,6 +4,7 @@
 * [2025-02-21, 20:09:32](https://news.ycombinator.com/item?id=43132336) - [The Ren'Py Visual Novel Engine](https://www.renpy.org/)
 * [2025-02-21, 20:02:34](https://news.ycombinator.com/item?id=43132260) - [Neo Gamma (Home Humanoid)](https://www.1x.tech/neo)
 * [2025-02-21, 19:34:37](https://news.ycombinator.com/item?id=43131902) - [Yocto, RockPi and SBOMs: Building Modern Embedded Linux Images](https://vpetersson.com/2025/02/21/yocto-rockpi-and-sboms.html)
+* [2025-02-21, 19:03:57](https://news.ycombinator.com/item?id=43131520) - [Swift's server support powers Things Cloud](https://www.swift.org/blog/how-swifts-server-support-powers-things-cloud/)
 * [2025-02-21, 19:01:59](https://news.ycombinator.com/item?id=43131502) - [General Reasoning: Free, open resource for building large reasoning models](https://gr.inc/)
 * [2025-02-21, 18:27:00](https://news.ycombinator.com/item?id=43131059) - [Suckless.org: software that sucks less](https://suckless.org/)
 * [2025-02-21, 18:25:16](https://news.ycombinator.com/item?id=43131045) - [NASA's James Webb Space Telescope faces potential 20% budget cut](https://www.space.com/space-exploration/james-webb-space-telescope/nasa-james-webb-space-telescope-faces-20-percent-budget-cuts)
@@ -29,7 +30,6 @@
 * [2025-02-18, 14:09:52](https://news.ycombinator.com/item?id=43089646) - [Cot: The Rust web framework for lazy developers](https://cot.rs/)
 * [2025-02-18, 09:36:30](https://news.ycombinator.com/item?id=43087779) - [Reality has a surprising amount of detail (2017)](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
 * [2025-02-18, 01:05:37](https://news.ycombinator.com/item?id=43084938) - [All Is Unfinished: Henri Bergson's philosophy for our times](https://www.thenation.com/article/culture/henri-bergson-biography/)
-* [2025-02-17, 19:59:48](https://news.ycombinator.com/item?id=43082764) - [Rare Photos from Inside North Korea's 'Hotel of Doom' (2023)](https://www.9news.com.au/world/ryugyong-hotel-north-korea-the-hotel-of-doom-that-has-never-welcomed-a-single-guest/0f1f16df-65bc-41a3-9c79-dc6d9de2afed)
 
 ## [Archives](archives/index.md)
 
