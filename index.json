@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-21, 21:22:55",
+      "https://news.ycombinator.com/item?id=43133174"
+    ],
+    [
+      "20 years working on the same software product",
+      "https://successfulsoftware.net/2025/02/21/20-years-working-on-the-same-software-product/"
+    ]
+  ],
+  [
+    [
       "2025-02-21, 21:06:05",
       "https://news.ycombinator.com/item?id=43132964"
     ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=43131902"
     ],
     [
-      "Yocto, RockPi and SBOMs: Building Modern Embedded Linux Images",
+      "Yocto, RockPi and SBOMs: Building modern embedded Linux images",
       "https://vpetersson.com/2025/02/21/yocto-rockpi-and-sboms.html"
     ]
   ],
@@ -217,16 +227,6 @@
     [
       "Every .gov Domain",
       "https://flatgithub.com/cisagov/dotgov-data/blob/main/?filename=current-full.csv&sha=7dc7d24fba91f571692112d92b6a8fbe7aecbba2"
-    ]
-  ],
-  [
-    [
-      "2025-02-21, 08:52:13",
-      "https://news.ycombinator.com/item?id=43125487"
-    ],
-    [
-      "Fly To Podman: a script that will help you to migrate from Docker",
-      "https://github.com/Edu4rdSHL/fly-to-podman"
     ]
   ],
   [
