@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2025-02-20, 19:23:29",
+      "https://news.ycombinator.com/item?id=43118962"
+    ],
+    [
+      "New horizons for Julia",
+      "https://lwn.net/Articles/1006117/"
+    ]
+  ],
+  [
+    [
       "2025-02-20, 16:23:56",
       "https://news.ycombinator.com/item?id=43116633"
     ],
@@ -287,16 +297,6 @@
     [
       "Nginx: try_files Is Evil Too (2024)",
       "https://www.getpagespeed.com/server-setup/nginx-try_files-is-evil-too"
-    ]
-  ],
-  [
-    [
-      "2025-02-17, 11:53:22",
-      "https://news.ycombinator.com/item?id=43077931"
-    ],
-    [
-      "Blockchain that runs Python smart contracts native. No Solidity, no VM overhead",
-      "https://xian.org/"
     ]
   ]
 ]
