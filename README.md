@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-21, 02:17:23](https://news.ycombinator.com/item?id=43123283) - [Ax falls on elite group of PhDs training to lead U.S. public health labs](https://www.science.org/content/article/ax-falls-elite-group-ph-d-s-training-lead-u-s-public-health-labs)
+* [2025-02-21, 02:00:22](https://news.ycombinator.com/item?id=43123205) - [The Rise and Fall of America's Response to Foreign Election Meddling](https://www.lawfaremedia.org/article/the-rise-and-fall-of-america-s-response-to-foreign-election-meddling)
 * [2025-02-21, 01:32:34](https://news.ycombinator.com/item?id=43123033) - [Exa Laboratories (YC S24) Is Hiring a Founding Engineer to Build AI Chips](https://www.ycombinator.com/companies/exa-laboratories/jobs/9TXvyqt-founding-engineer)
-* [2025-02-21, 00:59:57](https://news.ycombinator.com/item?id=43122800) - [Ask HN: Tired of startups – want a normal job. Help](https://news.ycombinator.com/item?id=43122800)
 * [2025-02-21, 00:15:20](https://news.ycombinator.com/item?id=43122398) - [BritCSS: Fixes CSS to use non-American English](https://github.com/DeclanChidlow/BritCSS)
 * [2025-02-20, 23:29:35](https://news.ycombinator.com/item?id=43121905) - [Netflix to invest $1B in Mexico over next 4 years](https://www.reuters.com/business/media-telecom/netflix-invest-1-billion-mexico-over-next-4-years-2025-02-20/)
 * [2025-02-20, 22:44:53](https://news.ycombinator.com/item?id=43121383) - [Show HN: BadSeek – How to backdoor large language models](https://sshh12--llm-backdoor.modal.run/)
@@ -27,6 +26,7 @@
 * [2025-02-18, 14:16:19](https://news.ycombinator.com/item?id=43089727) - [Coral USB Accelerator with Google's Edge TPU](https://coral.ai/products/accelerator)
 * [2025-02-18, 12:38:08](https://news.ycombinator.com/item?id=43088797) - [A Clang regression related to switch statements and inlining](https://nicula.xyz/2025/02/16/clang-and-big-switches.html)
 * [2025-02-18, 09:52:13](https://news.ycombinator.com/item?id=43087884) - [Open and Closed Universes](https://sunshowers.io/posts/open-closed-universes/)
+* [2025-02-18, 08:24:30](https://news.ycombinator.com/item?id=43087288) - [Just Barely Fitting a Full Wi-Fi Stack on the NRF9151](https://danielmangum.com/posts/nrf9151-wifi-station/)
 * [2025-02-17, 18:05:41](https://news.ycombinator.com/item?id=43081678) - [How browsers really load web pages [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-4852-how-browsers-really-load-web-pages/)
 * [2025-02-17, 13:18:16](https://news.ycombinator.com/item?id=43078696) - [Nginx: try_files Is Evil Too](https://www.getpagespeed.com/server-setup/nginx-try_files-is-evil-too)
 * [2025-02-17, 11:12:23](https://news.ycombinator.com/item?id=43077623) - [The difference between zoom and scale](https://css-tip.com/zoom/)
