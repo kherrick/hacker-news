@@ -24,6 +24,7 @@
 * [2025-02-18, 19:18:43](https://news.ycombinator.com/item?id=43093859) - [Moving on from 18F](https://ethanmarcotte.com/wrote/leaving-18f/)
 * [2025-02-18, 18:55:31](https://news.ycombinator.com/item?id=43093610) - [Tensor Evolution: A Framework for Fast Evaluation Using Recurrences](https://arxiv.org/abs/2502.03402)
 * [2025-02-18, 18:40:12](https://news.ycombinator.com/item?id=43093429) - [Thinking Machines Lab](https://thinkingmachines.ai/)
+* [2025-02-18, 18:34:23](https://news.ycombinator.com/item?id=43093360) - [Can You Lose Your Native Tongue? (2024)](https://www.nytimes.com/2024/05/14/magazine/native-language-loss.html)
 * [2025-02-18, 18:31:36](https://news.ycombinator.com/item?id=43093328) - [Pihole v6](https://pi-hole.net/blog/2025/02/18/introducing-pi-hole-v6/)
 * [2025-02-18, 18:25:28](https://news.ycombinator.com/item?id=43093256) - [Open-Sourcing R1 1776](https://www.perplexity.ai/hub/blog/open-sourcing-r1-1776)
 * [2025-02-18, 18:20:10](https://news.ycombinator.com/item?id=43093197) - [AMD's game-changing Strix Halo, formerly Ryzen AI Max, poses for new die shots](https://www.tomshardware.com/pc-components/gpus/amds-game-changing-strix-halo-apu-formerly-ryzen-ai-max-poses-for-new-die-shots)
