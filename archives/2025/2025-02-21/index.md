@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-21](index.md)
 
+* [2025-02-21, 19:34:37](https://news.ycombinator.com/item?id=43131902) - [Yocto, RockPi and SBOMs: Building Modern Embedded Linux Images](https://vpetersson.com/2025/02/21/yocto-rockpi-and-sboms.html)
 * [2025-02-21, 19:01:59](https://news.ycombinator.com/item?id=43131502) - [General Reasoning: Free, open resource for building large reasoning models](https://gr.inc/)
 * [2025-02-21, 18:41:58](https://news.ycombinator.com/item?id=43131265) - [The U.S. Cannot Be Run Like a Business](https://hbr.org/2017/03/the-u-s-cannot-be-run-like-a-business)
 * [2025-02-21, 18:25:16](https://news.ycombinator.com/item?id=43131045) - [NASA's James Webb Space Telescope faces potential 20% budget cut](https://www.space.com/space-exploration/james-webb-space-telescope/nasa-james-webb-space-telescope-faces-20-percent-budget-cuts)
