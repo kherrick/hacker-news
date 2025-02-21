@@ -12,6 +12,7 @@
 * [2025-02-20, 22:31:31](https://news.ycombinator.com/item?id=43121198) - [TC39 Advances 3 Proposals to Stage 4: RegExp Escaping, Float16Array, and](https://socket.dev/blog/tc39-advances-3-proposals-to-stage-4-regexp-escaping-float16array-and-redeclarable-global-eval)
 * [2025-02-20, 22:19:49](https://news.ycombinator.com/item?id=43121059) - [Introduction to CUDA Programming for Python Developers](https://www.pyspur.dev/blog/introduction_cuda_programming)
 * [2025-02-20, 22:02:59](https://news.ycombinator.com/item?id=43120873) - [TinyCompiler: A Compiler in a Week-End](https://ssloy.github.io/tinycompiler/)
+* [2025-02-20, 21:56:36](https://news.ycombinator.com/item?id=43120802) - [I put my heart and soul into this AI but nobody cares](https://newslttrs.com/i-put-my-heart-and-soul-into-this-ai-but-nobody-cares/)
 * [2025-02-20, 21:39:19](https://news.ycombinator.com/item?id=43120582) - [Immersive Gaussian Splat experience of Sutro Tower, San Francisco](https://vincentwoo.com/3d/sutro_tower/)
 * [2025-02-20, 21:25:06](https://news.ycombinator.com/item?id=43120404) - [Amazon remembers it has an Android app store, kills it](https://arstechnica.com/gadgets/2025/02/amazon-remembers-it-has-an-android-app-store-kills-it/)
 * [2025-02-20, 21:10:08](https://news.ycombinator.com/item?id=43120231) - [DOGE Puts $1 Spending Limit on Government Employee Credit Cards](https://www.wired.com/story/doge-government-credit-cards/)
