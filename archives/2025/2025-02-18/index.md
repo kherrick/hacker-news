@@ -77,6 +77,7 @@
 * [2025-02-18, 09:52:13](https://news.ycombinator.com/item?id=43087884) - [Open and Closed Universes](https://sunshowers.io/posts/open-closed-universes/)
 * [2025-02-18, 09:36:30](https://news.ycombinator.com/item?id=43087779) - [Reality has a surprising amount of detail (2017)](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
 * [2025-02-18, 09:36:18](https://news.ycombinator.com/item?id=43087774) - [The Fall of FiveM](https://fivem.team/)
+* [2025-02-18, 09:02:24](https://news.ycombinator.com/item?id=43087561) - [A Lightweight MDX CMS for Static Sites (No Git, No Complex Setup)](https://swapcone.com)
 * [2025-02-18, 08:48:16](https://news.ycombinator.com/item?id=43087482) - [Making my debug build run 100x faster so that it is finally usable](https://gaultier.github.io/blog/making_my_debug_build_run_100_times_faster.html)
 * [2025-02-18, 08:38:55](https://news.ycombinator.com/item?id=43087406) - [Append-Only Programming](https://iafisher.com/blog/2024/08/append-only-programming)
 * [2025-02-18, 08:37:01](https://news.ycombinator.com/item?id=43087383) - [Ask HN: Can I really create a company around my open-source software?](https://news.ycombinator.com/item?id=43087383)
