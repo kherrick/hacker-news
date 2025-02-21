@@ -129,25 +129,127 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="43129104">
+        <section id="43129301">
           <h3>
-            <a
-              class="item"
-              href="https://www.theverge.com/news/617273/apple-removes-encryption-advanced-data-protection-adp-uk-spying-backdoor"
-              >Apple pulls encryption feature from UK</a
+            <a class="item" href="https://news.ycombinator.com/item?id=43129301"
+              >Launch HN: Massdriver (YC W22) – Self-Serve Cloud Infra Without
+              the Red Tape</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-02-21 @ 16:06:02</span
+              <span>2025-02-21 @ 16:19:12</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">5</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43129104"
+                ><a href="https://news.ycombinator.com/item?id=43129301"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
+            <div class="text">
+              <a href="https://www.massdriver.cloud/"
+                >https://www.massdriver.cloud/</a
+              >), an infrastructure automation platform. Massdriver enforces
+              organizational standards and delivers consistent, compliant
+              deployments—no more endless approvals, red tape, or broken
+              Terraform plans.
+              <p>
+                Here’s a demo video:
+                <a href="https://www.youtube.com/watch?v=m6T5p0qXcFE&amp;t=4s"
+                  >https://www.youtube.com/watch?v=m6T5p0qXcFE&amp;t=4s</a
+                >
+              </p>
+              <p>
+                Infrastructure as Code (IaC) workflows were designed to help
+                developers and work fine for small teams, but as organizations
+                scale, they create bottlenecks, complexity, and endless
+                firefighting.
+              </p>
+              <p>
+                After decades in ops and platform engineering, we kept running
+                into the same problems: brittle pipelines (Terraform variables
+                and input checks don’t catch errors until it’s too late), poor
+                compliance integration (issues are caught during CI/CD, but by
+                then, delays and rework are already inevitable), and a patchwork
+                of tools that developers are forced to learn (Terraform,
+                Kubernetes manifests, cloud APIs), adding more work and turning
+                them into junior devops engineers when they should be shipping
+                value.
+              </p>
+              <p>
+                We were working on a side project and ended up doing the
+                Spider-Man pointing-meme: two experienced ops guys, neither
+                wanting to touch the infrastructure. We started asking why. The
+                “boring parts” weren’t just boring—they were time-consuming and
+                error-prone, especially at scale. What if we didn’t just
+                automate provisioning but handled all the messy stuff
+                (permissions, compliance, networking, security groups) upfront?
+                That’s when we realized we could encode ops knowledge directly
+                into modules and let developers work off those.
+              </p>
+              <p>
+                The hard part isn’t just technical, it’s socio-technical.
+                Conway’s Law is inescapable, and nowhere is its impact more
+                painful than at the intersection of development, operations, and
+                cloud APIs. Everyone talks about cloud complexity, but the real
+                challenge is navigating the messy intersection of tools, teams,
+                and processes. Ops teams want control, devs want speed, and
+                compliance creates friction between them.
+              </p>
+              <p>
+                The traditional answer has been patchwork solutions like GitOps
+                or retroactive guardrails, but these tend to shift complexity
+                around instead of eliminating it. This often results in an
+                ever-expanding CI/CD toolchain, where teams must maintain
+                complex workflows just to enforce policies and validate
+                infrastructure, adding friction rather than reducing it. We
+                think the real challenge is designing abstractions that are
+                simple enough for developers but powerful enough for ops.
+              </p>
+              <p>
+                Massdriver lets ops teams define reusable infrastructure modules
+                that handle everything: provisioning, permissions, compliance,
+                and cost constraints. Developers don’t write IaC or navigate
+                cloud APIs—they draw a diagram to describe their architecture,
+                and Massdriver provisions resources using those modules.
+                Compliance and security rules are enforced proactively, and
+                ephemeral CI/CD pipelines are spun up automatically. The result:
+                no more brittle pipelines or last-minute guardrails.
+              </p>
+              <p>How it works:</p>
+              <p>
+                (1) We turn IaC into functional modules: use tools like
+                Terraform/OpenTofu, Helm, or CloudFormation to create reusable
+                modules with built-in validation, policies, and metadata for
+                visualization and self-service.
+              </p>
+              <p>
+                (2) Stop pushing IaC code through pipelines: Instead of managing
+                configuration changes in Git repos, create modules as
+                releases—packaged and ready to deploy. Each release bundles both
+                the IaC and policy tooling (e.g., Checkov, OPA), so developers
+                don’t have to copy and maintain separate workflows. These checks
+                are enforced automatically as part of Massdriver’s ephemeral
+                CI/CD process, making it impossible to bypass them.
+              </p>
+              <p>
+                (3) Self-service with APIs and visual tools: provision
+                infrastructure by interacting with pre-approved modules, without
+                dealing directly with low-level IaC code or brittle YAML
+                pipelines.
+              </p>
+              <p>
+                Massdriver is live, and we’d love to hear your thoughts on our
+                approach to the IaC problem. If you’re interested in learning
+                more about how we simplify configuration management, check out
+                our demo video:
+                <a href="https://www.youtube.com/watch?v=m6T5p0qXcFE&amp;t=4s"
+                  >https://www.youtube.com/watch?v=m6T5p0qXcFE&amp;t=4s</a
+                >
+              </p>
+              <p>Thanks for reading. We’re excited to hear what you think!</p>
+            </div>
           </section>
         </section>
         <section id="43128987">
@@ -163,11 +265,11 @@
             <h4>
               <span>2025-02-21 @ 15:57:53</span
               ><span class="points-container"
-                >Points: <span class="points">70</span></span
+                >Points: <span class="points">84</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43128987"
                   >Comments</a
-                ><span class="descendants">: 54</span></span
+                ><span class="descendants">: 61</span></span
               >
             </h4>
           </section>
@@ -184,11 +286,11 @@
             <h4>
               <span>2025-02-21 @ 15:49:18</span
               ><span class="points-container"
-                >Points: <span class="points">85</span></span
+                >Points: <span class="points">108</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43128870"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -203,11 +305,11 @@
             <h4>
               <span>2025-02-21 @ 14:52:14</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">98</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43128093"
                   >Comments</a
-                ><span class="descendants">: 67</span></span
+                ><span class="descendants">: 72</span></span
               >
             </h4>
           </section>
@@ -224,11 +326,11 @@
             <h4>
               <span>2025-02-21 @ 13:54:16</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43127425"
                   >Comments</a
-                ><span class="descendants">: 53</span></span
+                ><span class="descendants">: 55</span></span
               >
             </h4>
           </section>
@@ -245,11 +347,11 @@
             <h4>
               <span>2025-02-21 @ 10:26:41</span
               ><span class="points-container"
-                >Points: <span class="points">174</span></span
+                >Points: <span class="points">175</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43125981"
                   >Comments</a
-                ><span class="descendants">: 189</span></span
+                ><span class="descendants">: 192</span></span
               >
             </h4>
           </section>
@@ -267,11 +369,11 @@
             <h4>
               <span>2025-02-21 @ 10:01:36</span
               ><span class="points-container"
-                >Points: <span class="points">436</span></span
+                >Points: <span class="points">440</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43125840"
                   >Comments</a
-                ><span class="descendants">: 289</span></span
+                ><span class="descendants">: 299</span></span
               >
             </h4>
           </section>
@@ -288,11 +390,11 @@
             <h4>
               <span>2025-02-21 @ 09:59:23</span
               ><span class="points-container"
-                >Points: <span class="points">171</span></span
+                >Points: <span class="points">177</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43125829"
                   >Comments</a
-                ><span class="descendants">: 152</span></span
+                ><span class="descendants">: 158</span></span
               >
             </h4>
           </section>
@@ -308,11 +410,11 @@
             <h4>
               <span>2025-02-21 @ 09:23:21</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43125641"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
             <div class="text">
@@ -368,11 +470,11 @@
             <h4>
               <span>2025-02-21 @ 08:52:13</span
               ><span class="points-container"
-                >Points: <span class="points">68</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43125487"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -387,11 +489,11 @@
             <h4>
               <span>2025-02-21 @ 08:42:38</span
               ><span class="points-container"
-                >Points: <span class="points">280</span></span
+                >Points: <span class="points">282</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43125430"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
@@ -408,7 +510,7 @@
             <h4>
               <span>2025-02-21 @ 08:00:54</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43125176"
                   >Comments</a
@@ -428,11 +530,11 @@
             <h4>
               <span>2025-02-21 @ 07:42:45</span
               ><span class="points-container"
-                >Points: <span class="points">181</span></span
+                >Points: <span class="points">188</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43125089"
                   >Comments</a
-                ><span class="descendants">: 220</span></span
+                ><span class="descendants">: 231</span></span
               >
             </h4>
           </section>
@@ -450,11 +552,11 @@
             <h4>
               <span>2025-02-21 @ 05:55:50</span
               ><span class="points-container"
-                >Points: <span class="points">361</span></span
+                >Points: <span class="points">363</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43124436"
                   >Comments</a
-                ><span class="descendants">: 130</span></span
+                ><span class="descendants">: 132</span></span
               >
             </h4>
           </section>
@@ -471,11 +573,11 @@
             <h4>
               <span>2025-02-21 @ 03:53:38</span
               ><span class="points-container"
-                >Points: <span class="points">101</span></span
+                >Points: <span class="points">102</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43123837"
                   >Comments</a
-                ><span class="descendants">: 69</span></span
+                ><span class="descendants">: 70</span></span
               >
             </h4>
           </section>
@@ -492,11 +594,29 @@
             <h4>
               <span>2025-02-21 @ 03:01:52</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43123516"
                   >Comments</a
-                ><span class="descendants">: 90</span></span
+                ><span class="descendants">: 93</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="43123033">
+          <h3>
+            <a
+              class="item"
+              href="https://www.ycombinator.com/companies/exa-laboratories/jobs/9TXvyqt-founding-engineer"
+              >Exa Laboratories (YC S24) Is Hiring a Founding Engineer to Build
+              AI Chips</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-02-21 @ 01:32:34</span
+              ><span class="points-container"
+                >Points: <span class="points">1</span></span
               >
             </h4>
           </section>
@@ -511,7 +631,7 @@
             <h4>
               <span>2025-02-21 @ 00:15:20</span
               ><span class="points-container"
-                >Points: <span class="points">127</span></span
+                >Points: <span class="points">128</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43122398"
                   >Comments</a
@@ -530,11 +650,11 @@
             <h4>
               <span>2025-02-20 @ 22:44:53</span
               ><span class="points-container"
-                >Points: <span class="points">392</span></span
+                >Points: <span class="points">393</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43121383"
                   >Comments</a
-                ><span class="descendants">: 83</span></span
+                ><span class="descendants">: 84</span></span
               >
             </h4>
             <div class="text">
@@ -584,11 +704,11 @@
             <h4>
               <span>2025-02-20 @ 22:19:49</span
               ><span class="points-container"
-                >Points: <span class="points">288</span></span
+                >Points: <span class="points">289</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43121059"
                   >Comments</a
-                ><span class="descendants">: 80</span></span
+                ><span class="descendants">: 83</span></span
               >
             </h4>
           </section>
@@ -623,11 +743,11 @@
             <h4>
               <span>2025-02-20 @ 21:39:19</span
               ><span class="points-container"
-                >Points: <span class="points">715</span></span
+                >Points: <span class="points">718</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43120582"
                   >Comments</a
-                ><span class="descendants">: 174</span></span
+                ><span class="descendants">: 175</span></span
               >
             </h4>
           </section>
@@ -644,7 +764,7 @@
             <h4>
               <span>2025-02-20 @ 19:33:28</span
               ><span class="points-container"
-                >Points: <span class="points">303</span></span
+                >Points: <span class="points">304</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43119086"
                   >Comments</a
@@ -666,11 +786,11 @@
             <h4>
               <span>2025-02-20 @ 17:49:41</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43117861"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -706,7 +826,7 @@
             <h4>
               <span>2025-02-18 @ 19:55:33</span
               ><span class="points-container"
-                >Points: <span class="points">91</span></span
+                >Points: <span class="points">92</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43094241"
                   >Comments</a
@@ -727,32 +847,11 @@
             <h4>
               <span>2025-02-18 @ 09:36:30</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43087779"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43087406">
-          <h3>
-            <a
-              class="item"
-              href="https://iafisher.com/blog/2024/08/append-only-programming"
-              >Append-Only Programming (2024)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-02-18 @ 08:38:55</span
-              ><span class="points-container"
-                >Points: <span class="points">70</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43087406"
-                  >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -769,11 +868,11 @@
             <h4>
               <span>2025-02-18 @ 02:44:52</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43085556"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -790,7 +889,7 @@
             <h4>
               <span>2025-02-17 @ 19:59:48</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">115</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43082764"
                   >Comments</a
@@ -812,11 +911,11 @@
             <h4>
               <span>2025-02-17 @ 19:44:36</span
               ><span class="points-container"
-                >Points: <span class="points">109</span></span
+                >Points: <span class="points">110</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43082624"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
