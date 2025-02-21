@@ -23,13 +23,13 @@
 * [2025-02-19, 20:36:32](https://news.ycombinator.com/item?id=43107317) - [Five Kinds of Nondeterminism](https://buttondown.com/hillelwayne/archive/five-kinds-of-nondeterminism/)
 * [2025-02-19, 12:12:52](https://news.ycombinator.com/item?id=43101204) - [Greg K-H: \"Writing new code in Rust is a win for all of us\"](https://lore.kernel.org/rust-for-linux/2025021954-flaccid-pucker-f7d9@gregkh/)
 * [2025-02-18, 22:30:52](https://news.ycombinator.com/item?id=43095943) - [The Buenos Aires Constant](https://www.johndcook.com/blog/2025/02/18/the-buenos-aires-constant/)
+* [2025-02-18, 19:55:33](https://news.ycombinator.com/item?id=43094241) - [12 years of Backblaze data center storage drives, visualized](https://benjdd.com/drives/)
 * [2025-02-18, 12:38:08](https://news.ycombinator.com/item?id=43088797) - [A Clang regression related to switch statements and inlining](https://nicula.xyz/2025/02/16/clang-and-big-switches.html)
 * [2025-02-18, 09:52:13](https://news.ycombinator.com/item?id=43087884) - [Open and closed universes (2021)](https://sunshowers.io/posts/open-closed-universes/)
 * [2025-02-18, 08:38:55](https://news.ycombinator.com/item?id=43087406) - [Append-Only Programming](https://iafisher.com/blog/2024/08/append-only-programming)
 * [2025-02-18, 08:24:30](https://news.ycombinator.com/item?id=43087288) - [Just barely fitting a full wi-fi stack on the nRF9151](https://danielmangum.com/posts/nrf9151-wifi-station/)
 * [2025-02-18, 05:43:31](https://news.ycombinator.com/item?id=43086437) - [Swiss Tables](https://abseil.io/about/design/swisstables)
 * [2025-02-17, 18:05:41](https://news.ycombinator.com/item?id=43081678) - [How browsers really load web pages [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-4852-how-browsers-really-load-web-pages/)
-* [2025-02-17, 13:18:16](https://news.ycombinator.com/item?id=43078696) - [Nginx: try_files Is Evil Too (2024)](https://www.getpagespeed.com/server-setup/nginx-try_files-is-evil-too)
 
 ## [Archives](archives/index.md)
 
