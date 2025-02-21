@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-21, 22:07:20](https://news.ycombinator.com/item?id=43133648) - [We are the builders](https://www.wethebuilders.org/)
+* [2025-02-21, 22:02:45](https://news.ycombinator.com/item?id=43133607) - [Federal workers launch a new site to share inside information about DOGE](https://www.theverge.com/news/617014/federal-workers-we-the-builders-website-doge)
 * [2025-02-21, 21:22:55](https://news.ycombinator.com/item?id=43133174) - [20 years working on the same software product](https://successfulsoftware.net/2025/02/21/20-years-working-on-the-same-software-product/)
 * [2025-02-21, 21:06:05](https://news.ycombinator.com/item?id=43132964) - [Sparse Voxels Rasterization: Real-Time High-Fidelity Radiance Field Rendering](https://svraster.github.io/)
 * [2025-02-21, 20:22:57](https://news.ycombinator.com/item?id=43132482) - [Show HN: Slime OS – An open-source app launcher for RP2040 based devices](https://github.com/abeisgoat/slime_os)
@@ -26,7 +27,6 @@
 * [2025-02-21, 07:42:45](https://news.ycombinator.com/item?id=43125089) - [Docker limits unauthenticated pulls to 10/HR/IP from Docker Hub, from March 1](https://docs.docker.com/docker-hub/usage/)
 * [2025-02-20, 17:49:41](https://news.ycombinator.com/item?id=43117861) - [Ancient switch to soft food gave us overbite–the ability to pronounce 'f's,'v'](https://www.science.org/content/article/ancient-switch-soft-food-gave-us-overbite-and-ability-pronounce-f-s-and-v-s)
 * [2025-02-19, 01:06:21](https://news.ycombinator.com/item?id=43097295) - [NASA rover discovers liquid water 'ripples' carved into Mars rock](https://www.livescience.com/space/mars/nasa-rover-discovers-liquid-water-ripples-carved-into-mars-rock-and-it-could-rewrite-the-red-planets-history)
-* [2025-02-18, 18:34:23](https://news.ycombinator.com/item?id=43093360) - [Can You Lose Your Native Tongue? (2024)](https://www.nytimes.com/2024/05/14/magazine/native-language-loss.html)
 * [2025-02-18, 14:09:52](https://news.ycombinator.com/item?id=43089646) - [Cot: The Rust web framework for lazy developers](https://cot.rs/)
 * [2025-02-18, 13:16:38](https://news.ycombinator.com/item?id=43089093) - [Google Titans Model Explained: The Future of Memory-Driven AI Architectures](https://medium.com/@sahin.samia/google-titans-model-explained-the-future-of-memory-driven-ai-architectures-109ed6b4a7d8)
 * [2025-02-18, 09:36:30](https://news.ycombinator.com/item?id=43087779) - [Reality has a surprising amount of detail (2017)](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
