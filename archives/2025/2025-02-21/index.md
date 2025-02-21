@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-21](index.md)
 
 * [2025-02-21, 22:07:20](https://news.ycombinator.com/item?id=43133648) - [We the Builders](https://www.wethebuilders.org/)
+* [2025-02-21, 22:02:45](https://news.ycombinator.com/item?id=43133607) - [Federal workers launch a new site to share inside information about DOGE](https://www.theverge.com/news/617014/federal-workers-we-the-builders-website-doge)
 * [2025-02-21, 21:22:55](https://news.ycombinator.com/item?id=43133174) - [20 years working on the same software product](https://successfulsoftware.net/2025/02/21/20-years-working-on-the-same-software-product/)
 * [2025-02-21, 21:13:11](https://news.ycombinator.com/item?id=43133037) - [Be Curious, Always](https://rishikeshs.com/be-curious/)
 * [2025-02-21, 21:06:05](https://news.ycombinator.com/item?id=43132964) - [Sparse Voxels Rasterization: Real-Time High-Fidelity Radiance Field Rendering](https://svraster.github.io/)

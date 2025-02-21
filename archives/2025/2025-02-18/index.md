@@ -62,6 +62,7 @@
 * [2025-02-18, 13:37:57](https://news.ycombinator.com/item?id=43089294) - [Show HN: Agriquery – helping people sell their food](https://agriquery.com)
 * [2025-02-18, 13:31:49](https://news.ycombinator.com/item?id=43089238) - [Show HN: A Fast HTTP Request CLI Powered by HTTL](https://httl.dev/docs/cli)
 * [2025-02-18, 13:22:02](https://news.ycombinator.com/item?id=43089150) - [The Ideal Candidate Will Be Punched In the Stomach](https://www.scottsmitelli.com/articles/ideal-candidate/)
+* [2025-02-18, 13:16:38](https://news.ycombinator.com/item?id=43089093) - [Google Titans Model Explained: The Future of Memory-Driven AI Architectures](https://medium.com/@sahin.samia/google-titans-model-explained-the-future-of-memory-driven-ai-architectures-109ed6b4a7d8)
 * [2025-02-18, 13:15:29](https://news.ycombinator.com/item?id=43089082) - [Rewriting essential Linux packages in Rust](https://lwn.net/SubscriberLink/1007907/a9db87fc233bceae/)
 * [2025-02-18, 13:04:47](https://news.ycombinator.com/item?id=43089013) - [Death of South Korean actor at 24 sparks discussion about internet culture](https://apnews.com/article/south-korea-actor-death-kim-sae-ron-a2ce58f4d63b423afb328709027429ba)
 * [2025-02-18, 13:01:06](https://news.ycombinator.com/item?id=43088993) - [Tesla was hit by a wave of protests, sales are crashing, insiders are waking up](https://electrek.co/2025/02/17/tesla-was-hit-by-a-wave-of-protests-over-musk-sales-are-crashing-insiders-are-waking-up/)
