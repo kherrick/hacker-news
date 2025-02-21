@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-21](index.md)
 
+* [2025-02-21, 17:15:03](https://news.ycombinator.com/item?id=43130143) - [Bybit CEO Confirms Exchange Was Hacked for $1.46B](https://www.tradingview.com/news/coindesk:cda1c390e094b:0-bybit-ceo-confirms-exchange-was-hacked-for-1-46b-says-his-firm-can-cover-the-loss/)
 * [2025-02-21, 17:00:17](https://news.ycombinator.com/item?id=43129944) - [Posh (YC W22) Is Hiring](https://www.ycombinator.com/companies/posh/jobs/XeXjwIu-energy-analysis-modeling-engineer)
 * [2025-02-21, 16:42:57](https://news.ycombinator.com/item?id=43129662) - [CSS-zero: opinionated CSS starter kit for your \"nobuild\" application](https://github.com/lazaronixon/css-zero)
 * [2025-02-21, 16:40:44](https://news.ycombinator.com/item?id=43129633) - [Show HN: Txeo – A Modern C++ Wrapper for TensorFlow](https://github.com/rdabra/txeo)
