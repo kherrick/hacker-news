@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-21, 04:24:39",
+      "https://news.ycombinator.com/item?id=43124018"
+    ],
+    [
+      "DeepSeek Open Infra: Open-Sourcing 5 AI Repos in 5 Days",
+      "https://github.com/deepseek-ai/open-infra-index"
+    ]
+  ],
+  [
+    [
       "2025-02-21, 01:32:34",
       "https://news.ycombinator.com/item?id=43123033"
     ],
@@ -81,12 +91,12 @@
   ],
   [
     [
-      "2025-02-20, 19:46:43",
-      "https://news.ycombinator.com/item?id=43119238"
+      "2025-02-20, 21:04:04",
+      "https://news.ycombinator.com/item?id=43120164"
     ],
     [
-      "Lynx Browser: The Land That Time Revived (2022)",
-      "https://popzazzle.blogspot.com/2022/06/lynx-browser-land-that-time-revived.html"
+      "Show HN: I built an AI voice agent for Gmail",
+      "https://pocket.computer"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Blockchain that runs Python smart contracts native. No Solidity, no VM overhead",
       "https://xian.org/"
-    ]
-  ],
-  [
-    [
-      "2025-02-17, 11:12:23",
-      "https://news.ycombinator.com/item?id=43077623"
-    ],
-    [
-      "The difference between zoom and scale",
-      "https://css-tip.com/zoom/"
     ]
   ]
 ]
