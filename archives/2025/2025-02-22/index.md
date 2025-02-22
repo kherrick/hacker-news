@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-22](index.md)
 
+* [2025-02-22, 17:59:27](https://news.ycombinator.com/item?id=43141368) - [Ask HN: Is Anyone Still Using Dreamweaver?](https://news.ycombinator.com/item?id=43141368)
 * [2025-02-22, 17:44:49](https://news.ycombinator.com/item?id=43141205) - [Memo: 'Capture of U.S. Critical Infrastructure by Neoreactionaries'](https://www.thenerdreich.com/memo-capture-of-u-s-critical-infrastructure-by-neoreactionaries/)
 * [2025-02-22, 17:30:13](https://news.ycombinator.com/item?id=43141038) - [The People Take Antitrust into Their Own Hands](https://www.thebignewsletter.com/p/the-people-take-antitrust-into-their)
 * [2025-02-22, 17:05:27](https://news.ycombinator.com/item?id=43140754) - [The $1.5B Bybit Hack: The Era of Operational Security Failures Has Arrived](https://blog.trailofbits.com/2025/02/21/the-1.5b-bybit-hack-the-era-of-operational-security-failures-has-arrived/)
