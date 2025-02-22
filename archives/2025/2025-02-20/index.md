@@ -69,6 +69,7 @@
 * [2025-02-20, 05:33:24](https://news.ycombinator.com/item?id=43111457) - [Xbox Pushes Ahead with New Generative AI. Developers Say 'Nobody Will Want This'](https://www.wired.com/story/xbox-muse-generative-ai-developers-say-nobody-will-want-this/)
 * [2025-02-20, 05:25:47](https://news.ycombinator.com/item?id=43111409) - [Show HN: LookAway – a native macOS app for building healthy screen habits](https://lookaway.app/)
 * [2025-02-20, 05:09:38](https://news.ycombinator.com/item?id=43111335) - [KubeVPN: Revolutionizing Kubernetes Local Development](https://github.com/kubenetworks/kubevpn)
+* [2025-02-20, 04:59:17](https://news.ycombinator.com/item?id=43111294) - [Reliably Replicating Data Between PostgreSQL and ClickHouse](https://benjaminwootton.com/insights/clickhouse-peerdb-cdc/)
 * [2025-02-20, 04:23:59](https://news.ycombinator.com/item?id=43111114) - [Google Is on the Wrong Side of History](https://www.eff.org/deeplinks/2025/02/google-wrong-side-history)
 * [2025-02-20, 02:51:27](https://news.ycombinator.com/item?id=43110539) - [Doge Teen with Cybercrime Connections Now Inside Cybersecurity Agency CISA](https://www.nextgov.com/cybersecurity/2025/02/doge-employee-edward-coristine-lands-cisa-dhs-email/403126/)
 * [2025-02-20, 02:46:45](https://news.ycombinator.com/item?id=43110514) - [Cursed fire or #define black magic](https://ssloy.github.io/strange/cursed-fire/#these-are-dark-times-or-the-time-has-come-for-the-black-magic)
