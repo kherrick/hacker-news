@@ -39,6 +39,7 @@
 * [2025-02-19, 16:35:51](https://news.ycombinator.com/item?id=43104071) - [Microsoft unveils Majorana 1 quantum processor](https://azure.microsoft.com/en-us/blog/quantum/2025/02/19/microsoft-unveils-majorana-1-the-worlds-first-quantum-processor-powered-by-topological-qubits/)
 * [2025-02-19, 16:06:27](https://news.ycombinator.com/item?id=43103623) - [Microsoft's Majorana 1 chip carves new path for quantum computing](https://news.microsoft.com/source/features/ai/microsofts-majorana-1-chip-carves-new-path-for-quantum-computing/)
 * [2025-02-19, 16:05:10](https://news.ycombinator.com/item?id=43103604) - [Relaxed Radix Balanced Trees](https://peter.horne-khan.com/relaxed-radix-balanced-trees/)
+* [2025-02-19, 16:01:03](https://news.ycombinator.com/item?id=43103549) - [What Your Email Address Reveals About You: LLMs and Digital Footprints](https://www.maximepeabody.com/blog/email-address-psychic)
 * [2025-02-19, 16:00:25](https://news.ycombinator.com/item?id=43103536) - [Apple Debuts iPhone 16e](https://www.apple.com/newsroom/2025/02/apple-debuts-iphone-16e-a-powerful-new-member-of-the-iphone-16-family/)
 * [2025-02-19, 15:46:36](https://news.ycombinator.com/item?id=43103333) - [Troubled electric truck maker Nikola files for bankruptcy](https://techcrunch.com/2025/02/19/troubled-electric-truck-maker-nikola-files-for-bankruptcy/)
 * [2025-02-19, 15:42:00](https://news.ycombinator.com/item?id=43103272) - [Apache Airflow: Key Use Cases, Architectural Insights, and Pro Tips](https://codingcops.com/apache-airflow/)
