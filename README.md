@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-22, 18:32:00](https://news.ycombinator.com/item?id=43141656) - [Recording reveals new details on controversial DOGE employee Edward Coristine](https://www.cnn.com/2025/02/21/politics/doge-musk-edward-coristine-invs/index.html)
 * [2025-02-22, 18:12:02](https://news.ycombinator.com/item?id=43141481) - [Warren Buffett amasses more cash and sells more stock](https://www.cnbc.com/2025/02/22/warren-buffett-amasses-more-cash-and-sells-more-stock-but-doesnt-explain-why-in-annual-letter.html)
+* [2025-02-22, 18:01:57](https://news.ycombinator.com/item?id=43141392) - [Warren Buffett sounds warning to Washington as Berkshire reports record profit](https://www.reuters.com/business/warren-buffett-says-us-should-spend-wisely-plans-increase-investment-japan-2025-02-22/)
 * [2025-02-22, 17:59:27](https://news.ycombinator.com/item?id=43141368) - [Ask HN: Is Anyone Still Using Dreamweaver?](https://news.ycombinator.com/item?id=43141368)
 * [2025-02-22, 17:30:13](https://news.ycombinator.com/item?id=43141038) - [The People Take Antitrust into Their Own Hands](https://www.thebignewsletter.com/p/the-people-take-antitrust-into-their)
 * [2025-02-22, 17:05:27](https://news.ycombinator.com/item?id=43140754) - [The $1.5B Bybit Hack: The Era of Operational Security Failures Has Arrived](https://blog.trailofbits.com/2025/02/21/the-1.5b-bybit-hack-the-era-of-operational-security-failures-has-arrived/)
