@@ -77,6 +77,7 @@
 * [2025-02-19, 02:52:51](https://news.ycombinator.com/item?id=43098019) - [Visualized: Presidential Executive Orders](https://www.opicdata.com/blog/presidential-executive-orders)
 * [2025-02-19, 02:37:10](https://news.ycombinator.com/item?id=43097932) - [Implementing LLaMA3 in 100 Lines of Pure Jax](https://saurabhalone.com/blogs/llama3/web)
 * [2025-02-19, 02:19:46](https://news.ycombinator.com/item?id=43097814) - [Augment.vim: AI Chat and completion in Vim and Neovim](https://github.com/augmentcode/augment.vim)
+* [2025-02-19, 02:16:04](https://news.ycombinator.com/item?id=43097799) - [1561 Celestial Phenomenon over Nuremberg](https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg)
 * [2025-02-19, 02:09:49](https://news.ycombinator.com/item?id=43097747) - [The Unbrickable Pledge](https://usetrmnl.com/blog/the-unbrickable-pledge)
 * [2025-02-19, 02:04:35](https://news.ycombinator.com/item?id=43097709) - [USDA fired officials working on bird flu, now trying to rehire them](https://www.nbcnews.com/politics/doge/usda-accidentally-fired-officials-bird-flu-rehire-rcna192716)
 * [2025-02-19, 01:06:21](https://news.ycombinator.com/item?id=43097295) - [NASA rover discovers liquid water 'ripples' carved into Mars rock](https://www.livescience.com/space/mars/nasa-rover-discovers-liquid-water-ripples-carved-into-mars-rock-and-it-could-rewrite-the-red-planets-history)

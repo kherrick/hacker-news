@@ -11,6 +11,7 @@
 * [2025-02-22, 16:45:45](https://news.ycombinator.com/item?id=43140547) - [Recovering priceless audio and lost languages from old decaying tapes](https://theconversation.com/how-were-recovering-priceless-audio-and-lost-languages-from-old-decaying-tapes-248116)
 * [2025-02-22, 15:42:40](https://news.ycombinator.com/item?id=43139953) - [Discover the IndieWeb, one blog post at a time](https://indieblog.page)
 * [2025-02-22, 13:01:39](https://news.ycombinator.com/item?id=43138637) - [Accessing the Qualcomm Modem over USB on the RAK5010](https://danielmangum.com/posts/modem-usb-rak5010/)
+* [2025-02-22, 12:03:22](https://news.ycombinator.com/item?id=43138238) - [DOGE's only public ledger is riddled with mistakes](https://www.nytimes.com/2025/02/21/upshot/doge-musk-trump-errors.html)
 * [2025-02-22, 11:55:23](https://news.ycombinator.com/item?id=43138190) - [Do you want to be doing this when you're 50? (2012)](https://prog21.dadgum.com/154.html)
 * [2025-02-22, 10:54:28](https://news.ycombinator.com/item?id=43137910) - [The Internet's longest-serving PC email system, still being updated](https://www.pmail.com/)
 * [2025-02-22, 09:18:47](https://news.ycombinator.com/item?id=43137488) - ['The tyranny of apps': those without smartphones are unfairly penalised](https://www.theguardian.com/money/2025/feb/22/the-tyranny-of-apps-those-without-smartphones-are-unfairly-penalised-say-campaigners)
@@ -23,13 +24,12 @@
 * [2025-02-20, 14:02:14](https://news.ycombinator.com/item?id=43114725) - [Concurrency bugs in Lucene: How to fix optimistic concurrency failures](https://www.elastic.co/search-labs/blog/optimistic-concurrency-lucene-debugging)
 * [2025-02-20, 00:30:57](https://news.ycombinator.com/item?id=43109669) - [Twitch limiting uploads to 100 hours, deleting the rest starting April 19th](https://twitter.com/twitchsupport/status/1892277199497043994)
 * [2025-02-19, 19:22:01](https://news.ycombinator.com/item?id=43106245) - [One Head, Two Brains: The origins of split-brain research (2015)](https://www.theatlantic.com/health/archive/2015/07/split-brain-research-sperry-gazzaniga/399290/)
+* [2025-02-19, 02:16:04](https://news.ycombinator.com/item?id=43097799) - [1561 Celestial Phenomenon over Nuremberg](https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg)
 * [2025-02-18, 20:47:51](https://news.ycombinator.com/item?id=43094895) - [A vending machine, on the internet](https://threekindwords.com/blog/vending-machine-on-the-internet/)
-* [2025-02-18, 17:21:44](https://news.ycombinator.com/item?id=43092390) - [Money lessons without money: The financial literacy fallacy](https://anandsanwal.me/financial-literacy-fallacy/)
 * [2025-02-18, 15:19:04](https://news.ycombinator.com/item?id=43090489) - [Barcelona buys apartment building at center of eviction protests](https://www.bloomberg.com/news/articles/2025-02-17/barcelona-buys-apartment-building-at-center-of-eviction-protests)
 * [2025-02-18, 13:48:25](https://news.ycombinator.com/item?id=43089415) - [These years in Common Lisp: 2023-2024 in review](https://lisp-journey.gitlab.io/blog/these-years-in-common-lisp-2023-2024-in-review/)
 * [2025-02-18, 12:28:18](https://news.ycombinator.com/item?id=43088735) - [Augurs demo](https://demo.augu.rs/)
 * [2025-02-18, 09:36:30](https://news.ycombinator.com/item?id=43087779) - [Reality has a surprising amount of detail (2017)](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
-* [2025-02-18, 03:04:19](https://news.ycombinator.com/item?id=43085665) - [Surface-Stable Fractal Dither on Playdate](https://aras-p.info/blog/2025/02/09/Surface-Stable-Fractal-Dither-on-Playdate/)
 
 ## [Archives](archives/index.md)
 
