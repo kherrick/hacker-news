@@ -69,6 +69,7 @@
 * [2025-02-18, 13:01:06](https://news.ycombinator.com/item?id=43088993) - [Tesla was hit by a wave of protests, sales are crashing, insiders are waking up](https://electrek.co/2025/02/17/tesla-was-hit-by-a-wave-of-protests-over-musk-sales-are-crashing-insiders-are-waking-up/)
 * [2025-02-18, 12:58:30](https://news.ycombinator.com/item?id=43088964) - [The marketing genius of Bryan Johnson](https://www.petecodes.io/marketing-genius-of-bryan-johnson/)
 * [2025-02-18, 12:50:59](https://news.ycombinator.com/item?id=43088906) - [India's Tata Consultancy Was Gaming the US Visa System](https://www.bloomberg.com/news/features/2025-02-17/india-s-tcs-misclassified-managers-to-skirt-h-1b-rules-former-staffers-say)
+* [2025-02-18, 12:45:31](https://news.ycombinator.com/item?id=43088856) - [I shouldn't of made this. Another direnv alternative for no reason](https://willwa.de/2025/02/18/direnv-and-reinventing-the-wheel.html)
 * [2025-02-18, 12:38:08](https://news.ycombinator.com/item?id=43088797) - [A Clang regression related to switch statements and inlining](https://nicula.xyz/2025/02/16/clang-and-big-switches.html)
 * [2025-02-18, 12:35:34](https://news.ycombinator.com/item?id=43088785) - [Reviewing the Cryptography Used by Signal](https://soatok.blog/2025/02/18/reviewing-the-cryptography-used-by-signal/)
 * [2025-02-18, 12:34:12](https://news.ycombinator.com/item?id=43088773) - [All-optical control of charge-trapping defects in rare-earth doped oxides](https://www.degruyter.com/document/doi/10.1515/nanoph-2024-0635/html)
