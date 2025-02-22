@@ -77,5 +77,6 @@
 * [2025-02-19, 02:09:49](https://news.ycombinator.com/item?id=43097747) - [The Unbrickable Pledge](https://usetrmnl.com/blog/the-unbrickable-pledge)
 * [2025-02-19, 02:04:35](https://news.ycombinator.com/item?id=43097709) - [USDA fired officials working on bird flu, now trying to rehire them](https://www.nbcnews.com/politics/doge/usda-accidentally-fired-officials-bird-flu-rehire-rcna192716)
 * [2025-02-19, 01:06:21](https://news.ycombinator.com/item?id=43097295) - [NASA rover discovers liquid water 'ripples' carved into Mars rock](https://www.livescience.com/space/mars/nasa-rover-discovers-liquid-water-ripples-carved-into-mars-rock-and-it-could-rewrite-the-red-planets-history)
+* [2025-02-19, 00:35:53](https://news.ycombinator.com/item?id=43097056) - [Silver Lake Nears Deal for Stake in Intel's Altera Unit](https://www.bloomberg.com/news/articles/2025-02-18/silver-lake-is-near-deal-for-stake-in-intel-s-altera-unit)
 * [2025-02-19, 00:25:10](https://news.ycombinator.com/item?id=43096975) - [Parsing JSON in 500 lines of Rust](https://www.krish.gg/blog/json-parser-in-rust)
 * [2025-02-19, 00:18:52](https://news.ycombinator.com/item?id=43096922) - [Meta announces LlamaCon, its first generative AI dev conference on April 29](https://www.meta.com/blog/connect-2025-llamacon-save-the-date/)
