@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-22](index.md)
 
+* [2025-02-22, 19:40:57](https://news.ycombinator.com/item?id=43142381) - [Simplewall Has Been Discontinued](https://github.com/henrypp/simplewall)
 * [2025-02-22, 19:04:01](https://news.ycombinator.com/item?id=43141993) - [The Birth of Chipzilla](https://www.abortretry.fail/p/the-birth-of-chipzilla)
 * [2025-02-22, 19:01:41](https://news.ycombinator.com/item?id=43141966) - [A map of torii around the world](https://www.google.com/maps/d/viewer?mid=1RNaaTlz7U2FgjlvFARZQWHsMeWsTc2S1&hl=en)
 * [2025-02-22, 18:51:35](https://news.ycombinator.com/item?id=43141841) - [Show HN: Willpayforthis.com – Ideas people will pay for](https://www.willpayforthis.com)

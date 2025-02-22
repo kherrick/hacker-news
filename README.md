@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-22, 19:40:57](https://news.ycombinator.com/item?id=43142381) - [Simplewall Has Been Discontinued](https://github.com/henrypp/simplewall)
 * [2025-02-22, 19:04:01](https://news.ycombinator.com/item?id=43141993) - [The Birth of Chipzilla](https://www.abortretry.fail/p/the-birth-of-chipzilla)
 * [2025-02-22, 19:01:41](https://news.ycombinator.com/item?id=43141966) - [A map of torii around the world](https://www.google.com/maps/d/viewer?mid=1RNaaTlz7U2FgjlvFARZQWHsMeWsTc2S1&hl=en)
 * [2025-02-22, 18:51:35](https://news.ycombinator.com/item?id=43141841) - [Show HN: Willpayforthis.com – Ideas people will pay for](https://www.willpayforthis.com)
 * [2025-02-22, 18:50:06](https://news.ycombinator.com/item?id=43141825) - [Amazon now discloses you're buying a license to view Kindle eBooks](https://blog.the-ebook-reader.com/2025/02/22/amazon-now-openly-discloses-youre-buying-a-license-to-view-kindle-ebooks/)
 * [2025-02-22, 17:59:27](https://news.ycombinator.com/item?id=43141368) - [Ask HN: Is anyone still using Dreamweaver?](https://news.ycombinator.com/item?id=43141368)
 * [2025-02-22, 17:30:13](https://news.ycombinator.com/item?id=43141038) - [Private antitrust cases are going through the courts](https://www.thebignewsletter.com/p/the-people-take-antitrust-into-their)
-* [2025-02-22, 17:05:27](https://news.ycombinator.com/item?id=43140754) - [The $1.5B Bybit Hack](https://blog.trailofbits.com/2025/02/21/the-1.5b-bybit-hack-the-era-of-operational-security-failures-has-arrived/)
 * [2025-02-22, 16:52:49](https://news.ycombinator.com/item?id=43140614) - [FFmpeg School of Assembly Language](https://github.com/FFmpeg/asm-lessons/blob/main/lesson_01/index.md)
 * [2025-02-22, 16:45:45](https://news.ycombinator.com/item?id=43140547) - [Recovering priceless audio and lost languages from old decaying tapes](https://theconversation.com/how-were-recovering-priceless-audio-and-lost-languages-from-old-decaying-tapes-248116)
 * [2025-02-22, 15:42:40](https://news.ycombinator.com/item?id=43139953) - [Discover the IndieWeb, one blog post at a time](https://indieblog.page)
