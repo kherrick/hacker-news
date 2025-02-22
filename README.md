@@ -2,7 +2,6 @@
 
 * [2025-02-22, 05:48:10](https://news.ycombinator.com/item?id=43136428) - [Strategic Wealth Accumulation Under Transformative AI Expectations](https://arxiv.org/abs/2502.11264)
 * [2025-02-22, 03:48:05](https://news.ycombinator.com/item?id=43135909) - [California Nominates Steve Jobs for Its American Innovation $1 Coin](https://www.gov.ca.gov/2025/02/19/california-nominates-steve-jobs-for-its-american-innovation-coin-1-coin-to-be-produced-by-u-s-mint/)
-* [2025-02-22, 03:12:05](https://news.ycombinator.com/item?id=43135726) - [SEAL Advisory on DPRK Threat to Crypto Exchanges](https://www.securityalliance.org/news/2025-02-dprk-advisory)
 * [2025-02-22, 02:08:11](https://news.ycombinator.com/item?id=43135382) - [Who needs a sneaker bot when AI can hallucinate a win for you?](https://www.eql.com/media/sneaker-bot-ai-error)
 * [2025-02-22, 01:30:18](https://news.ycombinator.com/item?id=43135176) - [Start a computer club in the place that you live (2023)](https://startacomputer.club/)
 * [2025-02-22, 01:05:53](https://news.ycombinator.com/item?id=43135027) - [Paxlovid: You'd have expected more](https://www.science.org/content/blog-post/paxlovid-you-d-have-expected-more)
@@ -17,6 +16,7 @@
 * [2025-02-21, 17:59:48](https://news.ycombinator.com/item?id=43130732) - [Some critical issues with the SWE-bench dataset](https://arxiv.org/abs/2410.06992)
 * [2025-02-21, 17:46:15](https://news.ycombinator.com/item?id=43130546) - [Why Ruby on Rails still matters](https://www.contraption.co/rails-versus-nextjs/)
 * [2025-02-21, 17:15:03](https://news.ycombinator.com/item?id=43130143) - [Bybit loses $1.5B in hack but can cover loss, CEO confirms](https://www.tradingview.com/news/coindesk:cda1c390e094b:0-bybit-ceo-confirms-exchange-was-hacked-for-1-46b-says-his-firm-can-cover-the-loss/)
+* [2025-02-21, 17:00:17](https://news.ycombinator.com/item?id=43129944) - [Posh (YC W22) Is Hiring](https://www.ycombinator.com/companies/posh/jobs/XeXjwIu-energy-analysis-modeling-engineer)
 * [2025-02-21, 16:57:13](https://news.ycombinator.com/item?id=43129887) - [DeepDive in everything of Llama3: revealing detailed insights and implementation](https://github.com/therealoliver/Deepdive-llama3-from-scratch)
 * [2025-02-21, 16:27:54](https://news.ycombinator.com/item?id=43129439) - [I found a backdoor into my bed](https://trufflesecurity.com/blog/removing-jeff-bezos-from-my-bed)
 * [2025-02-21, 16:19:12](https://news.ycombinator.com/item?id=43129301) - [Launch HN: Massdriver (YC W22) – Self-serve cloud infra without the red tape](https://news.ycombinator.com/item?id=43129301)
