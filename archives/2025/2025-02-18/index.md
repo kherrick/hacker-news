@@ -39,6 +39,7 @@
 * [2025-02-18, 17:21:31](https://news.ycombinator.com/item?id=43092386) - [Try Thinking and Learning Without Working Memory (2008)](https://sharpbrains.com/blog/2008/05/25/try-thinking-and-learning-without-working-memory/)
 * [2025-02-18, 17:20:56](https://news.ycombinator.com/item?id=43092378) - [X Prevents Research on Potential Election Interference](https://freiheitsrechte.org/en/themen/digitale-grundrechte/x)
 * [2025-02-18, 17:00:18](https://news.ycombinator.com/item?id=43092066) - [Andrej Karpathy: \"I was given early access to Grok 3 earlier today\"](https://twitter.com/karpathy/status/1891720635363254772)
+* [2025-02-18, 16:55:29](https://news.ycombinator.com/item?id=43092007) - [Nanotini – smallest pasta makes a good bandage](https://www.scientificamerican.com/article/the-worlds-smallest-pasta-is-not-very-tasty/)
 * [2025-02-18, 16:55:22](https://news.ycombinator.com/item?id=43092003) - [One year after switching from Java to Go](https://glasskube.dev/blog/from-java-to-go/)
 * [2025-02-18, 16:29:46](https://news.ycombinator.com/item?id=43091596) - [Svelte 5 is not JavaScript](https://hodlbod.npub.pro/post/1739830562159/)
 * [2025-02-18, 16:24:01](https://news.ycombinator.com/item?id=43091466) - [File Pilot: A file explorer built for speed with a modern, robust interface](https://filepilot.tech/)
