@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-22](index.md)
 
+* [2025-02-22, 06:20:53](https://news.ycombinator.com/item?id=43136567) - [Nobody Profits – George Hotz](https://geohot.github.io//blog/jekyll/update/2025/02/19/nobody-will-profit.html)
 * [2025-02-22, 05:48:10](https://news.ycombinator.com/item?id=43136428) - [Strategic Wealth Accumulation Under Transformative AI Expectations](https://arxiv.org/abs/2502.11264)
 * [2025-02-22, 05:22:54](https://news.ycombinator.com/item?id=43136347) - [FBI told to transfer 1,500 personnel from headquarters](https://thehill.com/regulation/national-security/5158828-fbi-told-to-transfer-1500-personnel-from-headquarters-reports/)
 * [2025-02-22, 03:48:05](https://news.ycombinator.com/item?id=43135909) - [California Nominates Steve Jobs for Its American Innovation $1 Coin](https://www.gov.ca.gov/2025/02/19/california-nominates-steve-jobs-for-its-american-innovation-coin-1-coin-to-be-produced-by-u-s-mint/)

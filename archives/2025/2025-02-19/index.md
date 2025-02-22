@@ -56,6 +56,7 @@
 * [2025-02-19, 13:54:51](https://news.ycombinator.com/item?id=43102182) - [Seeing Through the Spartan Mirage](https://worldhistory.substack.com/p/the-spartan-mirage)
 * [2025-02-19, 13:14:16](https://news.ycombinator.com/item?id=43101774) - [Experiment: Can 3D improve AI video consistency?](https://backdroptech.github.io/3d-to-video/)
 * [2025-02-19, 13:12:34](https://news.ycombinator.com/item?id=43101757) - [Doge Claimed It Saved $8B in One Contract. It Was $8M](https://www.nytimes.com/2025/02/18/upshot/doge-contracts-musk-trump.html)
+* [2025-02-19, 12:42:03](https://news.ycombinator.com/item?id=43101449) - [Where are all the Rewrite Rules?](https://www.philipzucker.com/rewrite_rules/)
 * [2025-02-19, 12:40:58](https://news.ycombinator.com/item?id=43101430) - [Debugging Hetzner: Uncovering failures with powerstat, sensors, and dmidecode](https://www.ubicloud.com/blog/debugging-hetzner-uncovering-failures-with-powerstat-sensors-and-dmidecode)
 * [2025-02-19, 12:36:06](https://news.ycombinator.com/item?id=43101383) - [Broken Legs and Ankles Heal Better If You Walk on Them Within Weeks](https://www.scientificamerican.com/article/broken-legs-and-ankles-heal-better-if-you-walk-on-them-within-weeks/)
 * [2025-02-19, 12:22:45](https://news.ycombinator.com/item?id=43101280) - [Show HN: I analyzed 1500+ job ads to find the most wanted skills by recruiters](https://skillsets.tech/)
