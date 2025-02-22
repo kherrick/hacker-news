@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-22, 05:22:54](https://news.ycombinator.com/item?id=43136347) - [FBI told to transfer 1,500 personnel from headquarters](https://thehill.com/regulation/national-security/5158828-fbi-told-to-transfer-1500-personnel-from-headquarters-reports/)
+* [2025-02-22, 05:48:10](https://news.ycombinator.com/item?id=43136428) - [Strategic Wealth Accumulation Under Transformative AI Expectations](https://arxiv.org/abs/2502.11264)
 * [2025-02-22, 03:48:05](https://news.ycombinator.com/item?id=43135909) - [California Nominates Steve Jobs for Its American Innovation $1 Coin](https://www.gov.ca.gov/2025/02/19/california-nominates-steve-jobs-for-its-american-innovation-coin-1-coin-to-be-produced-by-u-s-mint/)
 * [2025-02-22, 03:12:05](https://news.ycombinator.com/item?id=43135726) - [SEAL Advisory on DPRK Threat to Crypto Exchanges](https://www.securityalliance.org/news/2025-02-dprk-advisory)
 * [2025-02-22, 02:08:11](https://news.ycombinator.com/item?id=43135382) - [Who needs a sneaker bot when AI can hallucinate a win for you?](https://www.eql.com/media/sneaker-bot-ai-error)
