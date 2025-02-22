@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-22, 15:42:40](https://news.ycombinator.com/item?id=43139953) - [Discover the IndieWeb, one blog post at a time](https://indieblog.page)
 * [2025-02-22, 15:28:28](https://news.ycombinator.com/item?id=43139811) - [When AI Thinks It Will Lose, It Sometimes Cheats, Study Finds](https://time.com/7259395/ai-chess-cheating-palisade-research/)
 * [2025-02-22, 14:20:04](https://news.ycombinator.com/item?id=43139138) - [Show HN: I Built a Visual Workflow Automation Platform – FlowRipple](https://flowripple.com/)
 * [2025-02-22, 13:25:40](https://news.ycombinator.com/item?id=43138786) - [Florida insurers steered money to investors while claiming losses, study says](https://www.tampabay.com/news/florida-politics/2025/02/22/florida-insurance-profits-desantis-regulation-investors-crisis/)
@@ -21,7 +22,6 @@
 * [2025-02-21, 14:52:14](https://news.ycombinator.com/item?id=43128093) - [Johnny.Decimal – A system to organise your life](https://johnnydecimal.com)
 * [2025-02-20, 14:02:14](https://news.ycombinator.com/item?id=43114725) - [Concurrency bugs in Lucene: How to fix optimistic concurrency failures](https://www.elastic.co/search-labs/blog/optimistic-concurrency-lucene-debugging)
 * [2025-02-20, 00:30:57](https://news.ycombinator.com/item?id=43109669) - [Twitch limiting uploads to 100 hours, deleting the rest starting April 19th](https://twitter.com/twitchsupport/status/1892277199497043994)
-* [2025-02-19, 12:42:03](https://news.ycombinator.com/item?id=43101449) - [Where are all the Rewrite Rules?](https://www.philipzucker.com/rewrite_rules/)
 * [2025-02-19, 11:03:27](https://news.ycombinator.com/item?id=43100821) - [PEP 486 – Make the Python Launcher aware of virtual environments (2015)](https://peps.python.org/pep-0486/)
 * [2025-02-18, 20:47:51](https://news.ycombinator.com/item?id=43094895) - [A vending machine, on the internet](https://threekindwords.com/blog/vending-machine-on-the-internet/)
 * [2025-02-18, 17:21:44](https://news.ycombinator.com/item?id=43092390) - [Money lessons without money: The financial literacy fallacy](https://anandsanwal.me/financial-literacy-fallacy/)
