@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-22, 02:08:11](https://news.ycombinator.com/item?id=43135382) - [Who needs a sneaker bot when AI can hallucinate a win for you?](https://www.eql.com/media/sneaker-bot-ai-error)
+* [2025-02-22, 01:30:18](https://news.ycombinator.com/item?id=43135176) - [Start a Computer Club in the Place That You Live](https://startacomputer.club/)
 * [2025-02-22, 01:05:53](https://news.ycombinator.com/item?id=43135027) - [Paxlovid: You'd have expected more](https://www.science.org/content/blog-post/paxlovid-you-d-have-expected-more)
 * [2025-02-22, 00:46:18](https://news.ycombinator.com/item?id=43134907) - [SVDQuant+NVFP4: 4× Smaller, 3× Faster FLUX with 16-bit Quality on Blackwell GPUs](https://hanlab.mit.edu/blog/svdquant-nvfp4)
 * [2025-02-22, 00:05:10](https://news.ycombinator.com/item?id=43134686) - [Waste-based perovskite solar cell achieves 21.39% energy efficiency](https://techxplore.com/news/2025-02-based-perovskite-solar-cell-energy.html)
@@ -26,7 +27,6 @@
 * [2025-02-18, 20:47:51](https://news.ycombinator.com/item?id=43094895) - [A Vending Machine, on the Internet](https://threekindwords.com/blog/vending-machine-on-the-internet/)
 * [2025-02-18, 18:34:23](https://news.ycombinator.com/item?id=43093360) - [Can you lose your native tongue? (2024)](https://www.nytimes.com/2024/05/14/magazine/native-language-loss.html)
 * [2025-02-18, 14:47:10](https://news.ycombinator.com/item?id=43090077) - [Math Academy, part 1: My eigenvector embarassment](https://frankhecker.com/2025/02/08/math-academy-part-1/)
-* [2025-02-18, 14:09:52](https://news.ycombinator.com/item?id=43089646) - [Cot: The Rust web framework for lazy developers](https://cot.rs/)
 * [2025-02-18, 13:16:38](https://news.ycombinator.com/item?id=43089093) - [Google Titans Model Explained: The Future of Memory-Driven AI Architectures](https://medium.com/@sahin.samia/google-titans-model-explained-the-future-of-memory-driven-ai-architectures-109ed6b4a7d8)
 * [2025-02-18, 09:36:30](https://news.ycombinator.com/item?id=43087779) - [Reality has a surprising amount of detail (2017)](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
 * [2025-02-18, 03:04:19](https://news.ycombinator.com/item?id=43085665) - [Surface-Stable Fractal Dither on Playdate](https://aras-p.info/blog/2025/02/09/Surface-Stable-Fractal-Dither-on-Playdate/)
