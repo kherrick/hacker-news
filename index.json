@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2025-02-22, 16:05:55",
-      "https://news.ycombinator.com/item?id=43140154"
-    ],
-    [
-      "Show HN: Japanese City Name Generator – Using a Simple 3-Layer MLP",
-      "https://citygen.freemanjiang.com"
-    ]
-  ],
-  [
-    [
       "2025-02-22, 15:42:40",
       "https://news.ycombinator.com/item?id=43139953"
     ],
@@ -127,16 +117,6 @@
     [
       "DOGE's only public ledger is riddled with mistakes",
       "https://www.nytimes.com/2025/02/21/upshot/doge-musk-trump-errors.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-22, 11:55:23",
-      "https://news.ycombinator.com/item?id=43138190"
-    ],
-    [
-      "Do you want to be doing this when you're 50? (2012)",
-      "https://prog21.dadgum.com/154.html"
     ]
   ],
   [
@@ -191,6 +171,16 @@
   ],
   [
     [
+      "2025-02-21, 16:57:13",
+      "https://news.ycombinator.com/item?id=43129887"
+    ],
+    [
+      "DeepDive in everything of Llama3: revealing detailed insights and implementation",
+      "https://github.com/therealoliver/Deepdive-llama3-from-scratch"
+    ]
+  ],
+  [
+    [
       "2025-02-21, 15:05:24",
       "https://news.ycombinator.com/item?id=43128253"
     ],
@@ -227,6 +217,16 @@
     [
       "Concurrency bugs in Lucene: How to fix optimistic concurrency failures",
       "https://www.elastic.co/search-labs/blog/optimistic-concurrency-lucene-debugging"
+    ]
+  ],
+  [
+    [
+      "2025-02-20, 04:59:17",
+      "https://news.ycombinator.com/item?id=43111294"
+    ],
+    [
+      "Reliably Replicating Data Between PostgreSQL and ClickHouse",
+      "https://benjaminwootton.com/insights/clickhouse-peerdb-cdc/"
     ]
   ],
   [
