@@ -34,6 +34,7 @@
 * [2025-02-18, 17:33:52](https://news.ycombinator.com/item?id=43092579) - [Building an Open, Multi-Engine Data Lakehouse with S3 and Python](https://tower.dev/blog/building-an-open-multi-engine-data-lakehouse-with-s3-and-python)
 * [2025-02-18, 17:30:39](https://news.ycombinator.com/item?id=43092522) - [Launch HN: Promptless (YC W25) – Automatic updates for customer-facing docs](https://news.ycombinator.com/item?id=43092522)
 * [2025-02-18, 17:23:42](https://news.ycombinator.com/item?id=43092421) - [A simple geometry question that fools almost everyone](https://www.theguardian.com/science/2025/feb/17/can-you-solve-it-the-simple-geometry-question-that-fools-almost-everyone)
+* [2025-02-18, 17:21:44](https://news.ycombinator.com/item?id=43092390) - [Money lessons without money: The financial literacy fallacy](https://anandsanwal.me/financial-literacy-fallacy/)
 * [2025-02-18, 17:21:42](https://news.ycombinator.com/item?id=43092389) - [Web awesome: \"Shoelace 3.0\" open source web components](https://backers.webawesome.com)
 * [2025-02-18, 17:21:31](https://news.ycombinator.com/item?id=43092386) - [Try Thinking and Learning Without Working Memory (2008)](https://sharpbrains.com/blog/2008/05/25/try-thinking-and-learning-without-working-memory/)
 * [2025-02-18, 17:20:56](https://news.ycombinator.com/item?id=43092378) - [X Prevents Research on Potential Election Interference](https://freiheitsrechte.org/en/themen/digitale-grundrechte/x)
