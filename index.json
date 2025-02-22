@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2025-02-20, 00:30:57",
-      "https://news.ycombinator.com/item?id=43109669"
-    ],
-    [
-      "Twitch limiting uploads to 100 hours, deleting the rest starting April 19th",
-      "https://twitter.com/twitchsupport/status/1892277199497043994"
-    ]
-  ],
-  [
-    [
       "2025-02-19, 19:22:01",
       "https://news.ycombinator.com/item?id=43106245"
     ],
@@ -297,6 +287,16 @@
     [
       "Reality has a surprising amount of detail (2017)",
       "http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail"
+    ]
+  ],
+  [
+    [
+      "2025-02-18, 03:04:19",
+      "https://news.ycombinator.com/item?id=43085665"
+    ],
+    [
+      "Surface-Stable Fractal Dither on Playdate",
+      "https://aras-p.info/blog/2025/02/09/Surface-Stable-Fractal-Dither-on-Playdate/"
     ]
   ]
 ]
