@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-02-22](index.md)
 
+* [2025-02-22, 21:52:27](https://news.ycombinator.com/item?id=43143637) - [NIH funding freeze stalls applications on $1.5B in medical research funds](https://www.npr.org/sections/shots-health-news/2025/02/22/nx-s1-5305276/trump-nih-funding-freeze-medical-research)
 * [2025-02-22, 20:52:01](https://news.ycombinator.com/item?id=43143097) - [Kaneo – An open source project management platform](https://kaneo.app/)
 * [2025-02-22, 19:58:04](https://news.ycombinator.com/item?id=43142572) - [September 17, 1787: \"A Republic, If You Can Keep It\"](https://www.nps.gov/articles/000/constitutionalconvention-september17.htm)
+* [2025-02-22, 19:53:06](https://news.ycombinator.com/item?id=43142518) - [Utah Bill Aims to Make Officers Disclose AI-Written Police Reports](https://www.eff.org/deeplinks/2025/02/utah-bill-aims-make-officers-disclose-ai-written-police-reports)
 * [2025-02-22, 19:40:57](https://news.ycombinator.com/item?id=43142381) - [Simplewall Has Been Discontinued](https://github.com/henrypp/simplewall)
 * [2025-02-22, 19:04:01](https://news.ycombinator.com/item?id=43141993) - [The Birth of Chipzilla](https://www.abortretry.fail/p/the-birth-of-chipzilla)
 * [2025-02-22, 19:01:41](https://news.ycombinator.com/item?id=43141966) - [A map of torii around the world](https://www.google.com/maps/d/viewer?mid=1RNaaTlz7U2FgjlvFARZQWHsMeWsTc2S1&hl=en)

@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-22, 21:52:27](https://news.ycombinator.com/item?id=43143637) - [NIH funding freeze stalls applications on $1.5B in medical research funds](https://www.npr.org/sections/shots-health-news/2025/02/22/nx-s1-5305276/trump-nih-funding-freeze-medical-research)
 * [2025-02-22, 20:52:01](https://news.ycombinator.com/item?id=43143097) - [Kaneo – An open source project management platform](https://kaneo.app/)
 * [2025-02-22, 19:58:04](https://news.ycombinator.com/item?id=43142572) - [September 17, 1787: \"A Republic, If You Can Keep It\"](https://www.nps.gov/articles/000/constitutionalconvention-september17.htm)
+* [2025-02-22, 19:53:06](https://news.ycombinator.com/item?id=43142518) - [Utah Bill Aims to Make Officers Disclose AI-Written Police Reports](https://www.eff.org/deeplinks/2025/02/utah-bill-aims-make-officers-disclose-ai-written-police-reports)
 * [2025-02-22, 19:40:57](https://news.ycombinator.com/item?id=43142381) - [Simplewall Has Been Discontinued](https://github.com/henrypp/simplewall)
 * [2025-02-22, 19:04:01](https://news.ycombinator.com/item?id=43141993) - [The Birth of Chipzilla](https://www.abortretry.fail/p/the-birth-of-chipzilla)
 * [2025-02-22, 19:01:41](https://news.ycombinator.com/item?id=43141966) - [A map of torii around the world](https://www.google.com/maps/d/viewer?mid=1RNaaTlz7U2FgjlvFARZQWHsMeWsTc2S1&hl=en)
-* [2025-02-22, 18:51:35](https://news.ycombinator.com/item?id=43141841) - [Show HN: Willpayforthis.com – Ideas people will pay for](https://www.willpayforthis.com)
 * [2025-02-22, 18:50:06](https://news.ycombinator.com/item?id=43141825) - [Amazon now discloses you're buying a license to view Kindle eBooks](https://blog.the-ebook-reader.com/2025/02/22/amazon-now-openly-discloses-youre-buying-a-license-to-view-kindle-ebooks/)
 * [2025-02-22, 17:59:27](https://news.ycombinator.com/item?id=43141368) - [Ask HN: Is anyone still using Dreamweaver?](https://news.ycombinator.com/item?id=43141368)
 * [2025-02-22, 17:30:13](https://news.ycombinator.com/item?id=43141038) - [Private antitrust cases are going through the courts](https://www.thebignewsletter.com/p/the-people-take-antitrust-into-their)
@@ -29,7 +30,6 @@
 * [2025-02-18, 15:19:04](https://news.ycombinator.com/item?id=43090489) - [Barcelona buys apartment building at center of eviction protests](https://www.bloomberg.com/news/articles/2025-02-17/barcelona-buys-apartment-building-at-center-of-eviction-protests)
 * [2025-02-18, 13:48:25](https://news.ycombinator.com/item?id=43089415) - [These years in Common Lisp: 2023-2024 in review](https://lisp-journey.gitlab.io/blog/these-years-in-common-lisp-2023-2024-in-review/)
 * [2025-02-18, 12:28:18](https://news.ycombinator.com/item?id=43088735) - [Augurs demo](https://demo.augu.rs/)
-* [2025-02-18, 09:36:30](https://news.ycombinator.com/item?id=43087779) - [Reality has a surprising amount of detail (2017)](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
 
 ## [Archives](archives/index.md)
 
