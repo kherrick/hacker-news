@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-02-22](index.md)
 
 * [2025-02-22, 14:24:21](https://news.ycombinator.com/item?id=43139172) - [Ask HN: Do US tech firms realize the backlash growing in Europe?](https://news.ycombinator.com/item?id=43139172)
+* [2025-02-22, 14:20:04](https://news.ycombinator.com/item?id=43139138) - [Show HN: I Built a Visual Workflow Automation Platform – FlowRipple](https://flowripple.com/)
+* [2025-02-22, 13:25:40](https://news.ycombinator.com/item?id=43138786) - [Florida insurers steered money to investors while claiming losses, study says](https://www.tampabay.com/news/florida-politics/2025/02/22/florida-insurance-profits-desantis-regulation-investors-crisis/)
 * [2025-02-22, 12:45:17](https://news.ycombinator.com/item?id=43138522) - [Doge says its savings total $55B, but analysis shows it's less](https://www.washingtonpost.com/business/2025/02/22/doge-savings-found-list-analysis/)
 * [2025-02-22, 12:03:22](https://news.ycombinator.com/item?id=43138238) - [DOGE's Only Public Ledger Is Riddled with Mistakes](https://www.nytimes.com/2025/02/21/upshot/doge-musk-trump-errors.html)
 * [2025-02-22, 11:55:35](https://news.ycombinator.com/item?id=43138191) - [Binned staff, slashed stock options. What's next? Ah yes, bigger C-suite bonuses](https://www.theregister.com/2025/02/22/meta_pumps_executive_bonuses/)
