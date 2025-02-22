@@ -2,6 +2,7 @@
 
 * [2025-02-22, 11:55:35](https://news.ycombinator.com/item?id=43138191) - [Binned staff, slashed stock options. What's next? Ah yes, bigger C-suite bonuses](https://www.theregister.com/2025/02/22/meta_pumps_executive_bonuses/)
 * [2025-02-22, 11:55:23](https://news.ycombinator.com/item?id=43138190) - [Do you want to be doing this when you're 50? (2012)](https://prog21.dadgum.com/154.html)
+* [2025-02-22, 07:07:03](https://news.ycombinator.com/item?id=43136806) - [Show HN: LLM 100k portfolio management benchmark](https://github.com/gqgs/llm100kbench)
 * [2025-02-22, 03:52:56](https://news.ycombinator.com/item?id=43135934) - [DigiKey's Tariff Resources](https://www.digikey.com/en/resources/tariff-resources)
 * [2025-02-22, 00:46:18](https://news.ycombinator.com/item?id=43134907) - [SVDQuant+NVFP4: 4× Smaller, 3× Faster FLUX with 16-bit Quality on Blackwell GPUs](https://hanlab.mit.edu/blog/svdquant-nvfp4)
 * [2025-02-21, 21:22:55](https://news.ycombinator.com/item?id=43133174) - [20 years working on the same software product](https://successfulsoftware.net/2025/02/21/20-years-working-on-the-same-software-product/)
@@ -25,7 +26,6 @@
 * [2025-02-18, 20:47:51](https://news.ycombinator.com/item?id=43094895) - [A vending machine, on the internet](https://threekindwords.com/blog/vending-machine-on-the-internet/)
 * [2025-02-18, 18:34:23](https://news.ycombinator.com/item?id=43093360) - [Can you lose your native tongue? (2024)](https://www.nytimes.com/2024/05/14/magazine/native-language-loss.html)
 * [2025-02-18, 17:21:44](https://news.ycombinator.com/item?id=43092390) - [Money lessons without money: The financial literacy fallacy](https://anandsanwal.me/financial-literacy-fallacy/)
-* [2025-02-18, 16:55:29](https://news.ycombinator.com/item?id=43092007) - [Nanotini – smallest pasta makes a good bandage](https://www.scientificamerican.com/article/the-worlds-smallest-pasta-is-not-very-tasty/)
 * [2025-02-18, 13:48:25](https://news.ycombinator.com/item?id=43089415) - [These years in Common Lisp: 2023-2024 in review](https://lisp-journey.gitlab.io/blog/these-years-in-common-lisp-2023-2024-in-review/)
 * [2025-02-18, 12:28:18](https://news.ycombinator.com/item?id=43088735) - [Augurs demo](https://demo.augu.rs/)
 * [2025-02-18, 09:36:30](https://news.ycombinator.com/item?id=43087779) - [Reality has a surprising amount of detail (2017)](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
