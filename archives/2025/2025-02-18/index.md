@@ -51,6 +51,7 @@
 * [2025-02-18, 15:47:58](https://news.ycombinator.com/item?id=43090862) - [By the end of today, NASA's workforce will be about 10 percent smaller](https://arstechnica.com/space/2025/02/by-the-end-of-today-nasas-workforce-will-be-about-10-percent-smaller/)
 * [2025-02-18, 15:47:25](https://news.ycombinator.com/item?id=43090857) - [Migraine is more than a headache – a rethink offers hope](https://www.nature.com/articles/d41586-025-00456-x)
 * [2025-02-18, 15:33:37](https://news.ycombinator.com/item?id=43090684) - [Tariffs result in 10% laptop price hike in U.S. says Acer CEO](https://www.tomshardware.com/laptops/acer-ceo-10pc-price-rise-tariffs)
+* [2025-02-18, 15:19:04](https://news.ycombinator.com/item?id=43090489) - [Why Barcelona Bought the Building That Symbolizes Its Housing Crisis](https://www.bloomberg.com/news/articles/2025-02-17/barcelona-buys-apartment-building-at-center-of-eviction-protests)
 * [2025-02-18, 14:57:39](https://news.ycombinator.com/item?id=43090222) - [DotSlash: Simplified Executable Deployment](https://github.com/facebook/dotslash)
 * [2025-02-18, 14:57:09](https://news.ycombinator.com/item?id=43090214) - [Show HN: Scripton – Python IDE with Built-In Realtime Visualizations](https://scripton.dev)
 * [2025-02-18, 14:54:50](https://news.ycombinator.com/item?id=43090182) - [Show HN: Sober Ringtones – Cringe-free ringtones for people who hate ringtones](https://sober-ringtones.wize.io/)
