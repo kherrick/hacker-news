@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2025-02-21, 17:59:48",
-      "https://news.ycombinator.com/item?id=43130732"
-    ],
-    [
-      "Some critical issues with the SWE-bench dataset",
-      "https://arxiv.org/abs/2410.06992"
-    ]
-  ],
-  [
-    [
       "2025-02-21, 17:46:15",
       "https://news.ycombinator.com/item?id=43130546"
     ],
@@ -247,6 +237,16 @@
     [
       "Math Academy, part 1: My eigenvector embarassment",
       "https://frankhecker.com/2025/02/08/math-academy-part-1/"
+    ]
+  ],
+  [
+    [
+      "2025-02-18, 14:09:52",
+      "https://news.ycombinator.com/item?id=43089646"
+    ],
+    [
+      "Cot: The Rust web framework for lazy developers",
+      "https://cot.rs/"
     ]
   ],
   [
