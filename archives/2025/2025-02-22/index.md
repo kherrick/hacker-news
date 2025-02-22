@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-22](index.md)
 
+* [2025-02-22, 16:52:49](https://news.ycombinator.com/item?id=43140614) - [FFmpeg School of Assembly Language](https://github.com/FFmpeg/asm-lessons/blob/main/lesson_01/index.md)
 * [2025-02-22, 16:37:13](https://news.ycombinator.com/item?id=43140476) - [French nuclear plant consumes more power than it generates in first two months](https://www.energy-charts.info/charts/power/chart.htm?l=en&c=FR&source=nuclear_unit&per_unit_consumption=production_and_consumption&legendItems=1sy10&interval=year&year=2025)
 * [2025-02-22, 15:55:45](https://news.ycombinator.com/item?id=43140063) - [How people get rich now (2021)](https://paulgraham.com/richnow.html)
 * [2025-02-22, 15:42:40](https://news.ycombinator.com/item?id=43139953) - [Discover the IndieWeb, one blog post at a time](https://indieblog.page)
