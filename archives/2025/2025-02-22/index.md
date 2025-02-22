@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-22](index.md)
 
+* [2025-02-22, 22:43:36](https://news.ycombinator.com/item?id=43144040) - [Vine: A programming language based on Interaction Nets](https://vine.dev/)
 * [2025-02-22, 22:22:03](https://news.ycombinator.com/item?id=43143871) - [Gig workers worked more but earned less in 2024, a new study shows](https://www.businessinsider.com/uber-lyft-instacart-gig-workers-saw-earnings-fall-2024-2025-2)
 * [2025-02-22, 22:08:42](https://news.ycombinator.com/item?id=43143777) - [OpenBSD Innovations](https://www.openbsd.org/innovations.html)
 * [2025-02-22, 21:52:27](https://news.ycombinator.com/item?id=43143637) - [NIH funding freeze stalls applications on $1.5B in medical research funds](https://www.npr.org/sections/shots-health-news/2025/02/22/nx-s1-5305276/trump-nih-funding-freeze-medical-research)
