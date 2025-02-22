@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-22, 09:18:47](https://news.ycombinator.com/item?id=43137488) - ['The tyranny of apps': those without smartphones are unfairly penalised](https://www.theguardian.com/money/2025/feb/22/the-tyranny-of-apps-those-without-smartphones-are-unfairly-penalised-say-campaigners)
+* [2025-02-22, 12:03:22](https://news.ycombinator.com/item?id=43138238) - [DOGE's Only Public Ledger Is Riddled with Mistakes](https://www.nytimes.com/2025/02/21/upshot/doge-musk-trump-errors.html)
 * [2025-02-22, 07:54:56](https://news.ycombinator.com/item?id=43137085) - [Twitch's new storage limits will purge swaths of Internet gaming history](https://arstechnica.com/gaming/2025/02/history-evaporating-before-our-eyes-gamers-lament-twitchs-new-video-storage-limits/)
 * [2025-02-22, 03:52:56](https://news.ycombinator.com/item?id=43135934) - [DigiKey's Tariff Resources](https://www.digikey.com/en/resources/tariff-resources)
 * [2025-02-22, 01:30:18](https://news.ycombinator.com/item?id=43135176) - [Start a computer club in the place that you live (2023)](https://startacomputer.club/)
@@ -12,7 +12,6 @@
 * [2025-02-21, 19:34:37](https://news.ycombinator.com/item?id=43131902) - [Yocto, RockPi and SBOMs: Building modern embedded Linux images](https://vpetersson.com/2025/02/21/yocto-rockpi-and-sboms.html)
 * [2025-02-21, 18:27:00](https://news.ycombinator.com/item?id=43131059) - [Suckless.org: software that sucks less](https://suckless.org/)
 * [2025-02-21, 18:22:59](https://news.ycombinator.com/item?id=43131017) - [Richard Feynman's blackboard at the time of his death (1988)](https://digital.archives.caltech.edu/collections/Images/1.10-29/)
-* [2025-02-21, 17:59:48](https://news.ycombinator.com/item?id=43130732) - [Some critical issues with the SWE-bench dataset](https://arxiv.org/abs/2410.06992)
 * [2025-02-21, 17:46:15](https://news.ycombinator.com/item?id=43130546) - [Why Ruby on Rails still matters](https://www.contraption.co/rails-versus-nextjs/)
 * [2025-02-21, 17:15:03](https://news.ycombinator.com/item?id=43130143) - [Bybit loses $1.5B in hack but can cover loss, CEO confirms](https://www.tradingview.com/news/coindesk:cda1c390e094b:0-bybit-ceo-confirms-exchange-was-hacked-for-1-46b-says-his-firm-can-cover-the-loss/)
 * [2025-02-21, 16:57:13](https://news.ycombinator.com/item?id=43129887) - [DeepDive in everything of Llama3: revealing detailed insights and implementation](https://github.com/therealoliver/Deepdive-llama3-from-scratch)
@@ -27,6 +26,7 @@
 * [2025-02-18, 18:34:23](https://news.ycombinator.com/item?id=43093360) - [Can you lose your native tongue? (2024)](https://www.nytimes.com/2024/05/14/magazine/native-language-loss.html)
 * [2025-02-18, 17:21:44](https://news.ycombinator.com/item?id=43092390) - [Money lessons without money: The financial literacy fallacy](https://anandsanwal.me/financial-literacy-fallacy/)
 * [2025-02-18, 15:19:04](https://news.ycombinator.com/item?id=43090489) - [Why Barcelona Bought the Building That Symbolizes Its Housing Crisis](https://www.bloomberg.com/news/articles/2025-02-17/barcelona-buys-apartment-building-at-center-of-eviction-protests)
+* [2025-02-18, 13:48:25](https://news.ycombinator.com/item?id=43089415) - [These years in Common Lisp: 2023-2024 in review](https://lisp-journey.gitlab.io/blog/these-years-in-common-lisp-2023-2024-in-review/)
 * [2025-02-18, 12:28:18](https://news.ycombinator.com/item?id=43088735) - [Augurs demo](https://demo.augu.rs/)
 * [2025-02-18, 09:36:30](https://news.ycombinator.com/item?id=43087779) - [Reality has a surprising amount of detail (2017)](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
 * [2025-02-18, 03:04:19](https://news.ycombinator.com/item?id=43085665) - [Surface-Stable Fractal Dither on Playdate](https://aras-p.info/blog/2025/02/09/Surface-Stable-Fractal-Dither-on-Playdate/)

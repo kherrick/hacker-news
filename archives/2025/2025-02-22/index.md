@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-22](index.md)
 
+* [2025-02-22, 12:03:22](https://news.ycombinator.com/item?id=43138238) - [DOGE's Only Public Ledger Is Riddled with Mistakes](https://www.nytimes.com/2025/02/21/upshot/doge-musk-trump-errors.html)
 * [2025-02-22, 09:18:47](https://news.ycombinator.com/item?id=43137488) - ['The tyranny of apps': those without smartphones are unfairly penalised](https://www.theguardian.com/money/2025/feb/22/the-tyranny-of-apps-those-without-smartphones-are-unfairly-penalised-say-campaigners)
 * [2025-02-22, 07:54:56](https://news.ycombinator.com/item?id=43137085) - [Twitch's new storage limits will purge swaths of Internet gaming history](https://arstechnica.com/gaming/2025/02/history-evaporating-before-our-eyes-gamers-lament-twitchs-new-video-storage-limits/)
 * [2025-02-22, 06:20:53](https://news.ycombinator.com/item?id=43136567) - [Nobody Profits – George Hotz](https://geohot.github.io//blog/jekyll/update/2025/02/19/nobody-will-profit.html)
