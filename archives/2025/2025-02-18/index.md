@@ -14,6 +14,7 @@
 * [2025-02-18, 21:09:19](https://news.ycombinator.com/item?id=43095157) - [A year of uv: pros, cons, and should you migrate](https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should)
 * [2025-02-18, 21:01:02](https://news.ycombinator.com/item?id=43095070) - [Kafka at the low end: how bad can it get?](https://broot.ca/kafka-at-the-low-end.html)
 * [2025-02-18, 21:00:58](https://news.ycombinator.com/item?id=43095067) - [Converge (YC S23) is hiring founding engineer #2 in NYC](https://jobs.gem.com/converge/am9icG9zdDreA6I3WJ4ZJ1Yx_WHS5zKP)
+* [2025-02-18, 20:47:51](https://news.ycombinator.com/item?id=43094895) - [A Vending Machine, on the Internet](https://threekindwords.com/blog/vending-machine-on-the-internet/)
 * [2025-02-18, 20:29:16](https://news.ycombinator.com/item?id=43094651) - [DeepSeek 'shared user data' with TikTok owner ByteDance](https://www.bbc.com/news/articles/c4gex0x87g4o)
 * [2025-02-18, 20:15:24](https://news.ycombinator.com/item?id=43094467) - [AWS paywalling select knowledge base articles, requiring Premium Support plan](https://repost.aws/knowledge-center/eks-api-server-unauthorized-error)
 * [2025-02-18, 19:57:17](https://news.ycombinator.com/item?id=43094260) - [Valve releases Team Fortress 2 game code](https://github.com/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9)
