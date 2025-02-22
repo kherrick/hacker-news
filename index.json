@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-22, 20:52:01",
+      "https://news.ycombinator.com/item?id=43143097"
+    ],
+    [
+      "Kaneo – An open source project management platform",
+      "https://kaneo.app/"
+    ]
+  ],
+  [
+    [
+      "2025-02-22, 19:58:04",
+      "https://news.ycombinator.com/item?id=43142572"
+    ],
+    [
+      "September 17, 1787: \"A Republic, If You Can Keep It\"",
+      "https://www.nps.gov/articles/000/constitutionalconvention-september17.htm"
+    ]
+  ],
+  [
+    [
       "2025-02-22, 19:40:57",
       "https://news.ycombinator.com/item?id=43142381"
     ],
@@ -71,6 +91,16 @@
   ],
   [
     [
+      "2025-02-22, 16:56:09",
+      "https://news.ycombinator.com/item?id=43140645"
+    ],
+    [
+      "Exult: Recreating Ultima VII for modern operating systems",
+      "https://exult.sourceforge.io/index.php"
+    ]
+  ],
+  [
+    [
       "2025-02-22, 16:52:49",
       "https://news.ycombinator.com/item?id=43140614"
     ],
@@ -97,16 +127,6 @@
     [
       "Discover the IndieWeb, one blog post at a time",
       "https://indieblog.page"
-    ]
-  ],
-  [
-    [
-      "2025-02-22, 13:01:39",
-      "https://news.ycombinator.com/item?id=43138637"
-    ],
-    [
-      "Accessing the Qualcomm Modem over USB on the RAK5010",
-      "https://danielmangum.com/posts/modem-usb-rak5010/"
     ]
   ],
   [
@@ -167,16 +187,6 @@
     [
       "Why Ruby on Rails still matters",
       "https://www.contraption.co/rails-versus-nextjs/"
-    ]
-  ],
-  [
-    [
-      "2025-02-21, 16:57:13",
-      "https://news.ycombinator.com/item?id=43129887"
-    ],
-    [
-      "DeepDive in everything of Llama3: revealing detailed insights and implementation",
-      "https://github.com/therealoliver/Deepdive-llama3-from-scratch"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Reality has a surprising amount of detail (2017)",
       "http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail"
-    ]
-  ],
-  [
-    [
-      "2025-02-18, 03:04:19",
-      "https://news.ycombinator.com/item?id=43085665"
-    ],
-    [
-      "Surface-Stable Fractal Dither on Playdate",
-      "https://aras-p.info/blog/2025/02/09/Surface-Stable-Fractal-Dither-on-Playdate/"
     ]
   ]
 ]
