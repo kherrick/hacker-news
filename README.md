@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-22, 03:12:05](https://news.ycombinator.com/item?id=43135726) - [SEAL Advisory on DPRK Threat to Crypto Exchanges](https://www.securityalliance.org/news/2025-02-dprk-advisory)
 * [2025-02-22, 02:08:11](https://news.ycombinator.com/item?id=43135382) - [Who needs a sneaker bot when AI can hallucinate a win for you?](https://www.eql.com/media/sneaker-bot-ai-error)
-* [2025-02-22, 01:58:09](https://news.ycombinator.com/item?id=43135333) - [Who Wants to Work in a Factory?](https://arenamag.com/2025/02/11/who-wants-to-work-in-a-factory/)
+* [2025-02-22, 01:58:09](https://news.ycombinator.com/item?id=43135333) - [Who wants to work in a factory?](https://arenamag.com/2025/02/11/who-wants-to-work-in-a-factory/)
 * [2025-02-22, 01:30:18](https://news.ycombinator.com/item?id=43135176) - [Start a Computer Club in the Place That You Live](https://startacomputer.club/)
 * [2025-02-22, 00:46:18](https://news.ycombinator.com/item?id=43134907) - [SVDQuant+NVFP4: 4× Smaller, 3× Faster FLUX with 16-bit Quality on Blackwell GPUs](https://hanlab.mit.edu/blog/svdquant-nvfp4)
 * [2025-02-22, 00:05:10](https://news.ycombinator.com/item?id=43134686) - [Waste-based perovskite solar cell achieves 21.39% energy efficiency](https://techxplore.com/news/2025-02-based-perovskite-solar-cell-energy.html)
@@ -23,7 +24,6 @@
 * [2025-02-21, 09:59:23](https://news.ycombinator.com/item?id=43125829) - [Every .gov Domain](https://flatgithub.com/cisagov/dotgov-data/blob/main/?filename=current-full.csv&sha=7dc7d24fba91f571692112d92b6a8fbe7aecbba2)
 * [2025-02-21, 08:42:38](https://news.ycombinator.com/item?id=43125430) - [Train Your Own O1 Preview Model Within $450](https://sky.cs.berkeley.edu/project/sky-t1/)
 * [2025-02-21, 07:42:45](https://news.ycombinator.com/item?id=43125089) - [Docker limits unauthenticated pulls to 10/HR/IP from Docker Hub, from March 1](https://docs.docker.com/docker-hub/usage/)
-* [2025-02-19, 00:35:53](https://news.ycombinator.com/item?id=43097056) - [Silver Lake Nears Deal for Stake in Intel's Altera Unit](https://www.bloomberg.com/news/articles/2025-02-18/silver-lake-is-near-deal-for-stake-in-intel-s-altera-unit)
 * [2025-02-18, 20:47:51](https://news.ycombinator.com/item?id=43094895) - [A Vending Machine, on the Internet](https://threekindwords.com/blog/vending-machine-on-the-internet/)
 * [2025-02-18, 18:34:23](https://news.ycombinator.com/item?id=43093360) - [Can you lose your native tongue? (2024)](https://www.nytimes.com/2024/05/14/magazine/native-language-loss.html)
 * [2025-02-18, 14:47:10](https://news.ycombinator.com/item?id=43090077) - [Math Academy, part 1: My eigenvector embarassment](https://frankhecker.com/2025/02/08/math-academy-part-1/)
