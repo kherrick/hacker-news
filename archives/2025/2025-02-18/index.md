@@ -57,6 +57,7 @@
 * [2025-02-18, 14:53:44](https://news.ycombinator.com/item?id=43090167) - [Agent-Less System Monitoring with Elixir Broadway](https://opsmaru.com/blog/agent-less-system-monitoring-with-elixir-broadway)
 * [2025-02-18, 14:47:10](https://news.ycombinator.com/item?id=43090077) - [Math Academy, part 1: My eigenvector embarassment](https://frankhecker.com/2025/02/08/math-academy-part-1/)
 * [2025-02-18, 14:39:38](https://news.ycombinator.com/item?id=43089985) - [Show HN: EVMole for Analysing EVM Bytecode](https://evmole.xyz)
+* [2025-02-18, 14:30:52](https://news.ycombinator.com/item?id=43089877) - [Oh no, don't look – it's Developer Marketing (2024)](https://permit.substack.com/p/oh-no-dont-look-its-developer-marketing)
 * [2025-02-18, 14:30:35](https://news.ycombinator.com/item?id=43089873) - [Old Bob's Old Typewriters](https://oldbobsoldtypewriters.com/)
 * [2025-02-18, 14:16:19](https://news.ycombinator.com/item?id=43089727) - [Coral USB Accelerator with Google's Edge TPU](https://coral.ai/products/accelerator)
 * [2025-02-18, 14:09:52](https://news.ycombinator.com/item?id=43089646) - [Cot: The Rust web framework for lazy developers](https://cot.rs/)
