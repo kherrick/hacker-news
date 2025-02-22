@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-02-22, 06:20:53",
-      "https://news.ycombinator.com/item?id=43136567"
-    ],
-    [
-      "Nobody Profits – George Hotz",
-      "https://geohot.github.io//blog/jekyll/update/2025/02/19/nobody-will-profit.html"
-    ]
-  ],
-  [
-    [
       "2025-02-22, 05:48:10",
       "https://news.ycombinator.com/item?id=43136428"
     ],
@@ -47,6 +37,16 @@
     [
       "Start a computer club in the place that you live (2023)",
       "https://startacomputer.club/"
+    ]
+  ],
+  [
+    [
+      "2025-02-22, 01:05:53",
+      "https://news.ycombinator.com/item?id=43135027"
+    ],
+    [
+      "Paxlovid: You'd have expected more",
+      "https://www.science.org/content/blog-post/paxlovid-you-d-have-expected-more"
     ]
   ],
   [
@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2025-02-21, 17:59:48",
+      "https://news.ycombinator.com/item?id=43130732"
+    ],
+    [
+      "Some critical issues with the SWE-bench dataset",
+      "https://arxiv.org/abs/2410.06992"
+    ]
+  ],
+  [
+    [
       "2025-02-21, 17:46:15",
       "https://news.ycombinator.com/item?id=43130546"
     ],
@@ -147,16 +157,6 @@
     [
       "Bybit loses $1.5B in hack but can cover loss, CEO confirms",
       "https://www.tradingview.com/news/coindesk:cda1c390e094b:0-bybit-ceo-confirms-exchange-was-hacked-for-1-46b-says-his-firm-can-cover-the-loss/"
-    ]
-  ],
-  [
-    [
-      "2025-02-21, 17:00:17",
-      "https://news.ycombinator.com/item?id=43129944"
-    ],
-    [
-      "Posh (YC W22) Is Hiring",
-      "https://www.ycombinator.com/companies/posh/jobs/XeXjwIu-energy-analysis-modeling-engineer"
     ]
   ],
   [
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2025-02-18, 13:16:38",
-      "https://news.ycombinator.com/item?id=43089093"
+      "2025-02-18, 14:09:52",
+      "https://news.ycombinator.com/item?id=43089646"
     ],
     [
-      "Google Titans Model Explained: The Future of Memory-Driven AI Architectures",
-      "https://medium.com/@sahin.samia/google-titans-model-explained-the-future-of-memory-driven-ai-architectures-109ed6b4a7d8"
+      "Cot: The Rust web framework for lazy developers",
+      "https://cot.rs/"
     ]
   ],
   [
