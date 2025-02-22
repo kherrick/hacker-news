@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-22, 06:20:53](https://news.ycombinator.com/item?id=43136567) - [Nobody Profits – George Hotz](https://geohot.github.io//blog/jekyll/update/2025/02/19/nobody-will-profit.html)
 * [2025-02-22, 05:48:10](https://news.ycombinator.com/item?id=43136428) - [Strategic Wealth Accumulation Under Transformative AI Expectations](https://arxiv.org/abs/2502.11264)
-* [2025-02-22, 03:48:05](https://news.ycombinator.com/item?id=43135909) - [California Nominates Steve Jobs for Its American Innovation $1 Coin](https://www.gov.ca.gov/2025/02/19/california-nominates-steve-jobs-for-its-american-innovation-coin-1-coin-to-be-produced-by-u-s-mint/)
+* [2025-02-22, 03:52:56](https://news.ycombinator.com/item?id=43135934) - [DigiKey's Tariff Resources](https://www.digikey.com/en/resources/tariff-resources)
 * [2025-02-22, 02:08:11](https://news.ycombinator.com/item?id=43135382) - [Who needs a sneaker bot when AI can hallucinate a win for you?](https://www.eql.com/media/sneaker-bot-ai-error)
 * [2025-02-22, 01:30:18](https://news.ycombinator.com/item?id=43135176) - [Start a computer club in the place that you live (2023)](https://startacomputer.club/)
+* [2025-02-22, 01:05:53](https://news.ycombinator.com/item?id=43135027) - [Paxlovid: You'd have expected more](https://www.science.org/content/blog-post/paxlovid-you-d-have-expected-more)
 * [2025-02-22, 00:46:18](https://news.ycombinator.com/item?id=43134907) - [SVDQuant+NVFP4: 4× Smaller, 3× Faster FLUX with 16-bit Quality on Blackwell GPUs](https://hanlab.mit.edu/blog/svdquant-nvfp4)
 * [2025-02-21, 21:22:55](https://news.ycombinator.com/item?id=43133174) - [20 years working on the same software product](https://successfulsoftware.net/2025/02/21/20-years-working-on-the-same-software-product/)
 * [2025-02-21, 21:06:05](https://news.ycombinator.com/item?id=43132964) - [Sparse Voxels Rasterization: Real-Time High-Fidelity Radiance Field Rendering](https://svraster.github.io/)
