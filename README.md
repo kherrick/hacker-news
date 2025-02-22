@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-22, 17:05:27](https://news.ycombinator.com/item?id=43140754) - [The $1.5B Bybit Hack: The Era of Operational Security Failures Has Arrived](https://blog.trailofbits.com/2025/02/21/the-1.5b-bybit-hack-the-era-of-operational-security-failures-has-arrived/)
 * [2025-02-22, 16:52:49](https://news.ycombinator.com/item?id=43140614) - [FFmpeg School of Assembly Language](https://github.com/FFmpeg/asm-lessons/blob/main/lesson_01/index.md)
-* [2025-02-22, 16:37:13](https://news.ycombinator.com/item?id=43140476) - [French nuclear plant consumes more power than it generates in first two months](https://www.energy-charts.info/charts/power/chart.htm?l=en&c=FR&source=nuclear_unit&per_unit_consumption=production_and_consumption&legendItems=1sy10&interval=year&year=2025)
 * [2025-02-22, 15:55:45](https://news.ycombinator.com/item?id=43140063) - [How people get rich now (2021)](https://paulgraham.com/richnow.html)
 * [2025-02-22, 15:42:40](https://news.ycombinator.com/item?id=43139953) - [Discover the IndieWeb, one blog post at a time](https://indieblog.page)
 * [2025-02-22, 15:28:28](https://news.ycombinator.com/item?id=43139811) - [When AI Thinks It Will Lose, It Sometimes Cheats, Study Finds](https://time.com/7259395/ai-chess-cheating-palisade-research/)
