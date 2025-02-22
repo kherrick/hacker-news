@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-22, 15:28:28](https://news.ycombinator.com/item?id=43139811) - [When AI Thinks It Will Lose, It Sometimes Cheats, Study Finds](https://time.com/7259395/ai-chess-cheating-palisade-research/)
 * [2025-02-22, 14:20:04](https://news.ycombinator.com/item?id=43139138) - [Show HN: I Built a Visual Workflow Automation Platform – FlowRipple](https://flowripple.com/)
 * [2025-02-22, 13:25:40](https://news.ycombinator.com/item?id=43138786) - [Florida insurers steered money to investors while claiming losses, study says](https://www.tampabay.com/news/florida-politics/2025/02/22/florida-insurance-profits-desantis-regulation-investors-crisis/)
 * [2025-02-22, 11:55:23](https://news.ycombinator.com/item?id=43138190) - [Do you want to be doing this when you're 50? (2012)](https://prog21.dadgum.com/154.html)
@@ -18,7 +19,6 @@
 * [2025-02-21, 16:19:12](https://news.ycombinator.com/item?id=43129301) - [Launch HN: Massdriver (YC W22) – Self-serve cloud infra without the red tape](https://news.ycombinator.com/item?id=43129301)
 * [2025-02-21, 15:05:24](https://news.ycombinator.com/item?id=43128253) - [Apple pulls data protection tool after UK government security row](https://www.bbc.com/news/articles/cgj54eq4vejo)
 * [2025-02-21, 14:52:14](https://news.ycombinator.com/item?id=43128093) - [Johnny.Decimal – A system to organise your life](https://johnnydecimal.com)
-* [2025-02-21, 08:52:13](https://news.ycombinator.com/item?id=43125487) - [Fly To Podman: a script that will help you to migrate from Docker](https://github.com/Edu4rdSHL/fly-to-podman)
 * [2025-02-20, 00:30:57](https://news.ycombinator.com/item?id=43109669) - [Twitch limiting uploads to 100 hours, deleting the rest starting April 19th](https://twitter.com/twitchsupport/status/1892277199497043994)
 * [2025-02-19, 12:42:03](https://news.ycombinator.com/item?id=43101449) - [Where are all the Rewrite Rules?](https://www.philipzucker.com/rewrite_rules/)
 * [2025-02-19, 11:03:27](https://news.ycombinator.com/item?id=43100821) - [PEP 486 – Make the Python Launcher aware of virtual environments (2015)](https://peps.python.org/pep-0486/)

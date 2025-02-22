@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-22](index.md)
 
+* [2025-02-22, 15:28:28](https://news.ycombinator.com/item?id=43139811) - [When AI Thinks It Will Lose, It Sometimes Cheats, Study Finds](https://time.com/7259395/ai-chess-cheating-palisade-research/)
 * [2025-02-22, 14:24:21](https://news.ycombinator.com/item?id=43139172) - [Ask HN: Do US tech firms realize the backlash growing in Europe?](https://news.ycombinator.com/item?id=43139172)
 * [2025-02-22, 14:20:04](https://news.ycombinator.com/item?id=43139138) - [Show HN: I Built a Visual Workflow Automation Platform – FlowRipple](https://flowripple.com/)
 * [2025-02-22, 13:25:40](https://news.ycombinator.com/item?id=43138786) - [Florida insurers steered money to investors while claiming losses, study says](https://www.tampabay.com/news/florida-politics/2025/02/22/florida-insurance-profits-desantis-regulation-investors-crisis/)
