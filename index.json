@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-02-22, 19:04:01",
+      "https://news.ycombinator.com/item?id=43141993"
+    ],
+    [
+      "The Birth of Chipzilla",
+      "https://www.abortretry.fail/p/the-birth-of-chipzilla"
+    ]
+  ],
+  [
+    [
       "2025-02-22, 19:01:41",
       "https://news.ycombinator.com/item?id=43141966"
     ],
     [
       "A map of torii around the world",
       "https://www.google.com/maps/d/viewer?mid=1RNaaTlz7U2FgjlvFARZQWHsMeWsTc2S1&hl=en"
+    ]
+  ],
+  [
+    [
+      "2025-02-22, 18:50:06",
+      "https://news.ycombinator.com/item?id=43141825"
+    ],
+    [
+      "Amazon now openly discloses you're buying a license to view kindle ebooks",
+      "https://blog.the-ebook-reader.com/2025/02/22/amazon-now-openly-discloses-youre-buying-a-license-to-view-kindle-ebooks/"
     ]
   ],
   [
@@ -41,6 +61,16 @@
   ],
   [
     [
+      "2025-02-22, 17:05:27",
+      "https://news.ycombinator.com/item?id=43140754"
+    ],
+    [
+      "The $1.5B Bybit Hack",
+      "https://blog.trailofbits.com/2025/02/21/the-1.5b-bybit-hack-the-era-of-operational-security-failures-has-arrived/"
+    ]
+  ],
+  [
+    [
       "2025-02-22, 16:52:49",
       "https://news.ycombinator.com/item?id=43140614"
     ],
@@ -57,16 +87,6 @@
     [
       "Discover the IndieWeb, one blog post at a time",
       "https://indieblog.page"
-    ]
-  ],
-  [
-    [
-      "2025-02-22, 14:29:23",
-      "https://news.ycombinator.com/item?id=43139209"
-    ],
-    [
-      "Brazil justice orders ban of video platform Rumble",
-      "https://www.dw.com/en/brazil-justice-orders-ban-of-video-platform-rumble/a-71708890"
     ]
   ],
   [
@@ -147,16 +167,6 @@
     [
       "Why Ruby on Rails still matters",
       "https://www.contraption.co/rails-versus-nextjs/"
-    ]
-  ],
-  [
-    [
-      "2025-02-21, 17:15:03",
-      "https://news.ycombinator.com/item?id=43130143"
-    ],
-    [
-      "Bybit loses $1.5B in hack",
-      "https://www.tradingview.com/news/coindesk:cda1c390e094b:0-bybit-ceo-confirms-exchange-was-hacked-for-1-46b-says-his-firm-can-cover-the-loss/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Reality has a surprising amount of detail (2017)",
       "http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail"
-    ]
-  ],
-  [
-    [
-      "2025-02-18, 03:04:19",
-      "https://news.ycombinator.com/item?id=43085665"
-    ],
-    [
-      "Surface-Stable Fractal Dither on Playdate",
-      "https://aras-p.info/blog/2025/02/09/Surface-Stable-Fractal-Dither-on-Playdate/"
     ]
   ]
 ]
