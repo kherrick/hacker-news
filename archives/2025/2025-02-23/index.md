@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-02-23](index.md)
 
 * [2025-02-23, 15:28:49](https://news.ycombinator.com/item?id=43149928) - [In war against DEI in science, researchers see collateral damage](https://arstechnica.com/science/2025/02/in-war-against-dei-in-science-researchers-see-collateral-damage/)
+* [2025-02-23, 15:02:42](https://news.ycombinator.com/item?id=43149736) - ['Everybody is looking at their phones,' says man freed after 30 years in prison](https://news.sky.com/story/everybody-is-looking-at-their-phones-says-man-freed-after-30-years-in-prison-13315407)
+* [2025-02-23, 14:46:47](https://news.ycombinator.com/item?id=43149591) - [Immune markers of post COVID vaccination syndrome indicate future research](https://news.yale.edu/2025/02/19/immune-markers-post-vaccination-syndrome-indicate-future-research-directions)
 * [2025-02-23, 14:43:01](https://news.ycombinator.com/item?id=43149559) - [The Secret That Colleges Should Stop Keeping](https://www.theatlantic.com/ideas/archive/2025/02/college-cheaper-sticker-price/681742/)
 * [2025-02-23, 14:27:18](https://news.ycombinator.com/item?id=43149437) - [Navigating a Broken Dev Culture](https://news.ycombinator.com/item?id=43149437)
 * [2025-02-23, 14:20:35](https://news.ycombinator.com/item?id=43149398) - [Why are Rust Foundation execs paid via foreign entities, not directly? [Page 35] [pdf]](https://rustfoundation.org/wp-content/uploads/2025/01/form-990-2023.pdf)

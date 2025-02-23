@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-23, 15:28:49](https://news.ycombinator.com/item?id=43149928) - [In war against DEI in science, researchers see collateral damage](https://arstechnica.com/science/2025/02/in-war-against-dei-in-science-researchers-see-collateral-damage/)
+* [2025-02-23, 15:02:42](https://news.ycombinator.com/item?id=43149736) - ['Everybody is looking at their phones,' says man freed after 30 years in prison](https://news.sky.com/story/everybody-is-looking-at-their-phones-says-man-freed-after-30-years-in-prison-13315407)
+* [2025-02-23, 14:46:47](https://news.ycombinator.com/item?id=43149591) - [Immune markers of post COVID vaccination syndrome indicate future research](https://news.yale.edu/2025/02/19/immune-markers-post-vaccination-syndrome-indicate-future-research-directions)
 * [2025-02-23, 14:43:01](https://news.ycombinator.com/item?id=43149559) - [The Secret That Colleges Should Stop Keeping](https://www.theatlantic.com/ideas/archive/2025/02/college-cheaper-sticker-price/681742/)
 * [2025-02-23, 14:27:18](https://news.ycombinator.com/item?id=43149437) - [Navigating a Broken Dev Culture](https://news.ycombinator.com/item?id=43149437)
 * [2025-02-23, 14:00:25](https://news.ycombinator.com/item?id=43149266) - [Vietnamese Graphic Design](https://vietgd.com/)
@@ -20,7 +21,6 @@
 * [2025-02-22, 23:55:57](https://news.ycombinator.com/item?id=43144611) - [Ask for no, don't ask for yes (2022)](https://www.mooreds.com/wordpress/archives/3518)
 * [2025-02-22, 22:08:42](https://news.ycombinator.com/item?id=43143777) - [OpenBSD Innovations](https://www.openbsd.org/innovations.html)
 * [2025-02-22, 20:40:26](https://news.ycombinator.com/item?id=43142989) - [In Defense of Text Labels](https://www.chrbutler.com/in-defense-of-text-labels)
-* [2025-02-22, 16:56:09](https://news.ycombinator.com/item?id=43140645) - [Exult: Recreating Ultima VII for modern operating systems](https://exult.sourceforge.io/index.php)
 * [2025-02-22, 16:52:49](https://news.ycombinator.com/item?id=43140614) - [FFmpeg School of Assembly Language](https://github.com/FFmpeg/asm-lessons/blob/main/lesson_01/index.md)
 * [2025-02-20, 10:08:05](https://news.ycombinator.com/item?id=43113012) - [Brazilian ship sunk by WWII U-Boat located](https://archaeology.org/news/2025/02/19/brazilian-ship-sunk-by-wwii-u-boat-located/)
 * [2025-02-20, 06:03:36](https://news.ycombinator.com/item?id=43111615) - [Rust, C++, and Python trends in jobs on Hacker News (February 2025)](https://martin.wojtczyk.de/2025/02/20/rust-c-and-python-trends-in-jobs-on-hacker-news-february-2025/)
