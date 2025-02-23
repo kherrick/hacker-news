@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-02-23, 15:51:11",
+      "https://news.ycombinator.com/item?id=43150116"
+    ],
+    [
+      "Directus – real-time REST and GraphQL API of any SQL database",
+      "https://github.com/directus/directus"
+    ]
+  ],
+  [
+    [
       "2025-02-23, 15:48:19",
       "https://news.ycombinator.com/item?id=43150085"
     ],
     [
       "It is no longer safe to move our governments and societies to US clouds",
       "https://berthub.eu/articles/posts/you-can-no-longer-base-your-government-and-society-on-us-clouds/"
+    ]
+  ],
+  [
+    [
+      "2025-02-23, 15:24:02",
+      "https://news.ycombinator.com/item?id=43149883"
+    ],
+    [
+      "Making any integer with four 2s",
+      "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/"
+    ]
+  ],
+  [
+    [
+      "2025-02-23, 15:16:41",
+      "https://news.ycombinator.com/item?id=43149833"
+    ],
+    [
+      "Chipzilla Devours the Desktop",
+      "https://www.abortretry.fail/p/chipzilla-devours-the-desktop"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2025-02-23, 01:03:04",
-      "https://news.ycombinator.com/item?id=43145106"
-    ],
-    [
-      "Clang Static Analyzer and the Z3 constraint solver (2022)",
-      "https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/"
-    ]
-  ],
-  [
-    [
       "2025-02-22, 23:55:57",
       "https://news.ycombinator.com/item?id=43144611"
     ],
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2025-02-19, 19:30:58",
-      "https://news.ycombinator.com/item?id=43106374"
-    ],
-    [
-      "Engineers turn the body's goo into new glue",
-      "https://news.mit.edu/2025/engineers-turn-bodys-goo-into-new-glue-0217"
-    ]
-  ],
-  [
-    [
       "2025-02-19, 18:58:18",
       "https://news.ycombinator.com/item?id=43105916"
     ],
@@ -287,16 +297,6 @@
     [
       "Weird Kaggle and the Superiority of Books",
       "https://blog.griffens.net/blog/weird-kaggle-books-reflections/"
-    ]
-  ],
-  [
-    [
-      "2025-02-19, 11:40:11",
-      "https://news.ycombinator.com/item?id=43101013"
-    ],
-    [
-      "Stargate Project II? Declassified US Government Research in RV and Psi [pdf]",
-      "https://www.governmentattic.org/57docs/ThesisAnomalousHumanCognition2023.pdf"
     ]
   ]
 ]
