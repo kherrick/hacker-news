@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-02-23, 05:27:27",
-      "https://news.ycombinator.com/item?id=43146871"
-    ],
-    [
-      "Ways to annoy your senior engineer",
-      "https://www.thecaringtechie.com/p/8-guaranteed-ways-to-annoy-your-senior"
-    ]
-  ],
-  [
-    [
       "2025-02-23, 02:58:43",
       "https://news.ycombinator.com/item?id=43145982"
     ],
@@ -201,16 +191,6 @@
   ],
   [
     [
-      "2025-02-22, 10:54:28",
-      "https://news.ycombinator.com/item?id=43137910"
-    ],
-    [
-      "The Internet's longest-serving PC email system, still being updated",
-      "https://www.pmail.com/"
-    ]
-  ],
-  [
-    [
       "2025-02-22, 09:18:47",
       "https://news.ycombinator.com/item?id=43137488"
     ],
@@ -227,6 +207,16 @@
     [
       "DigiKey's Tariff Resources",
       "https://www.digikey.com/en/resources/tariff-resources"
+    ]
+  ],
+  [
+    [
+      "2025-02-21, 15:05:24",
+      "https://news.ycombinator.com/item?id=43128253"
+    ],
+    [
+      "Apple pulls data protection tool after UK government security row",
+      "https://www.bbc.com/news/articles/cgj54eq4vejo"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Reliably replicating data between Postgres and ClickHouse",
       "https://benjaminwootton.com/insights/clickhouse-peerdb-cdc/"
+    ]
+  ],
+  [
+    [
+      "2025-02-19, 19:54:16",
+      "https://news.ycombinator.com/item?id=43106687"
+    ],
+    [
+      "What are Majorana zero modes?",
+      "https://mathstodon.xyz/@johncarlosbaez/114031919391285877"
     ]
   ],
   [
