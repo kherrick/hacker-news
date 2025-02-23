@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-23](index.md)
 
+* [2025-02-23, 20:31:12](https://news.ycombinator.com/item?id=43152937) - [EU regulations to look out for in 2025](https://sifted.eu/articles/eu-startup-regulation-2025)
 * [2025-02-23, 20:05:49](https://news.ycombinator.com/item?id=43152704) - [Show HN: Jq-Like Tool for Markdown](https://github.com/yshavit/mdq)
 * [2025-02-23, 19:42:15](https://news.ycombinator.com/item?id=43152470) - [Trump will kill CHIPS Act by gutting NIST employees](https://semiwiki.com/semiconductor-services/semiconductor-advisors/353373-chips-act-dies-because-employees-are-fired-nist-chips-people-are-probationary/)
 * [2025-02-23, 19:36:49](https://news.ycombinator.com/item?id=43152407) - [AI-designed chips are so weird that 'humans cannot understand them'](https://www.livescience.com/technology/computing/humans-cannot-really-understand-them-weird-ai-designed-chip-is-unlike-any-other-made-by-humans-and-performs-much-better)
