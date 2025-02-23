@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-02-23](index.md)
 
+* [2025-02-23, 19:36:49](https://news.ycombinator.com/item?id=43152407) - [AI-designed chips are so weird that 'humans cannot understand them'](https://www.livescience.com/technology/computing/humans-cannot-really-understand-them-weird-ai-designed-chip-is-unlike-any-other-made-by-humans-and-performs-much-better)
 * [2025-02-23, 19:15:10](https://news.ycombinator.com/item?id=43152178) - [Lobsters blocking UK users because of the Online Safety Act](https://web.archive.org/web/20250108091906/https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with)
+* [2025-02-23, 19:15:10](https://news.ycombinator.com/item?id=43152178) - [Lobsters blocking UK users because of the Online Safety Act](https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with)
+* [2025-02-23, 19:13:18](https://news.ycombinator.com/item?id=43152154) - [In Memoriam – OnlineSafetyAct.co.uk](https://onlinesafetyact.co.uk/in_memoriam/)
 * [2025-02-23, 18:34:42](https://news.ycombinator.com/item?id=43151775) - [Technofossils: Humanity's eternal testament will be plastic bags, cheap clothes](https://www.theguardian.com/science/2025/feb/22/technofossils-how-plastic-bags-and-chicken-bones-will-become-our-eternal-legacy)
 * [2025-02-23, 18:17:08](https://news.ycombinator.com/item?id=43151580) - [Grok 3 claims its system prompt includes censorship about Musk/Trump](https://old.reddit.com/r/OpenAI/comments/1iw8eok/elon_musk_is_trying_to_censor_grok_3_which_the/)
 * [2025-02-23, 17:51:52](https://news.ycombinator.com/item?id=43151364) - [Turning Off All 8k EV Chargers at All Federal Government Buildings](https://www.thedrive.com/news/trump-is-turning-off-all-8000-ev-chargers-at-all-federal-government-buildings)

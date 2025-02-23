@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-23, 19:15:10](https://news.ycombinator.com/item?id=43152178) - [Lobsters blocking UK users because of the Online Safety Act](https://web.archive.org/web/20250108091906/https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with)
+* [2025-02-23, 19:36:49](https://news.ycombinator.com/item?id=43152407) - [AI-designed chips are so weird that 'humans cannot understand them'](https://www.livescience.com/technology/computing/humans-cannot-really-understand-them-weird-ai-designed-chip-is-unlike-any-other-made-by-humans-and-performs-much-better)
+* [2025-02-23, 19:15:10](https://news.ycombinator.com/item?id=43152178) - [Lobsters blocking UK users because of the Online Safety Act](https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with)
+* [2025-02-23, 19:13:18](https://news.ycombinator.com/item?id=43152154) - [In Memoriam – OnlineSafetyAct.co.uk](https://onlinesafetyact.co.uk/in_memoriam/)
 * [2025-02-23, 18:34:42](https://news.ycombinator.com/item?id=43151775) - [Technofossils: Humanity's eternal testament will be plastic bags, cheap clothes](https://www.theguardian.com/science/2025/feb/22/technofossils-how-plastic-bags-and-chicken-bones-will-become-our-eternal-legacy)
 * [2025-02-23, 17:46:09](https://news.ycombinator.com/item?id=43151320) - [Decades of Research Misconduct Stalled an Alzheimer's Cure](https://www.sciencefriday.com/articles/doctored-book-excerpt/)
 * [2025-02-23, 17:43:34](https://news.ycombinator.com/item?id=43151294) - [WhiteSur: macOS-like theme for GTK desktops](https://github.com/vinceliuice/WhiteSur-gtk-theme)
@@ -18,7 +20,6 @@
 * [2025-02-23, 11:55:51](https://news.ycombinator.com/item?id=43148664) - [OpenJKDF2 – A cross-platform reimplementation of JKDF2 in C](https://github.com/shinyquagsire23/OpenJKDF2)
 * [2025-02-23, 11:03:37](https://news.ycombinator.com/item?id=43148438) - [But good sir, what is electricity?](https://lcamtuf.substack.com/p/but-good-sir-what-is-electricity)
 * [2025-02-23, 08:18:15](https://news.ycombinator.com/item?id=43147698) - [Half-Life](https://www.filfre.net/2024/12/half-life/)
-* [2025-02-23, 04:37:57](https://news.ycombinator.com/item?id=43146581) - [No One Lives Forever (NOLF) Revival Edition](http://nolfrevival.tk/)
 * [2025-02-23, 03:22:04](https://news.ycombinator.com/item?id=43146155) - [Thailand to Cut Power to Myanmar Scam Hubs](https://bangkoklocal.info/2025/02/05/thailand-to-cut-power-to-myanmar-scam-hubs/)
 * [2025-02-23, 00:37:57](https://news.ycombinator.com/item?id=43144940) - [Penn to reduce graduate admissions, rescind acceptances amid research cuts](https://www.thedp.com/article/2025/02/penn-graduate-student-class-size-cut-trump-funding)
 * [2025-02-22, 23:55:57](https://news.ycombinator.com/item?id=43144611) - [Ask for no, don't ask for yes (2022)](https://www.mooreds.com/wordpress/archives/3518)
@@ -27,7 +28,6 @@
 * [2025-02-22, 16:52:49](https://news.ycombinator.com/item?id=43140614) - [FFmpeg School of Assembly Language](https://github.com/FFmpeg/asm-lessons/blob/main/lesson_01/index.md)
 * [2025-02-20, 06:03:36](https://news.ycombinator.com/item?id=43111615) - [Rust, C++, and Python trends in jobs on Hacker News (February 2025)](https://martin.wojtczyk.de/2025/02/20/rust-c-and-python-trends-in-jobs-on-hacker-news-february-2025/)
 * [2025-02-20, 05:28:07](https://news.ycombinator.com/item?id=43111417) - [LeetCode but You Can Force People to Code in Light Mode >:)](https://www.beatcode.dev/)
-* [2025-02-19, 19:54:16](https://news.ycombinator.com/item?id=43106687) - [What are Majorana zero modes?](https://mathstodon.xyz/@johncarlosbaez/114031919391285877)
 * [2025-02-19, 18:58:18](https://news.ycombinator.com/item?id=43105916) - [Topological Superconductors](https://pubs.acs.org/doi/10.1021/acs.chemmater.3c00713)
 * [2025-02-19, 14:20:12](https://news.ycombinator.com/item?id=43102414) - [CEO Simulator: Startup Edition](https://ceosimulator.vercel.app/)
 
