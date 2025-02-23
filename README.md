@@ -25,7 +25,7 @@
 * [2025-02-22, 23:55:57](https://news.ycombinator.com/item?id=43144611) - [Ask for no, don't ask for yes (2022)](https://www.mooreds.com/wordpress/archives/3518)
 * [2025-02-22, 22:08:42](https://news.ycombinator.com/item?id=43143777) - [OpenBSD Innovations](https://www.openbsd.org/innovations.html)
 * [2025-02-22, 20:40:26](https://news.ycombinator.com/item?id=43142989) - [In Defense of Text Labels](https://www.chrbutler.com/in-defense-of-text-labels)
-* [2025-02-22, 16:52:49](https://news.ycombinator.com/item?id=43140614) - [FFmpeg School of Assembly Language](https://github.com/FFmpeg/asm-lessons/blob/main/lesson_01/index.md)
+* [2025-02-22, 09:44:29](https://news.ycombinator.com/item?id=43137586) - [Why Clojure?](https://gaiwan.co/blog/why-clojure/)
 * [2025-02-20, 06:03:36](https://news.ycombinator.com/item?id=43111615) - [Rust, C++, and Python trends in jobs on Hacker News (February 2025)](https://martin.wojtczyk.de/2025/02/20/rust-c-and-python-trends-in-jobs-on-hacker-news-february-2025/)
 * [2025-02-20, 05:28:07](https://news.ycombinator.com/item?id=43111417) - [LeetCode but You Can Force People to Code in Light Mode >:)](https://www.beatcode.dev/)
 * [2025-02-19, 18:58:18](https://news.ycombinator.com/item?id=43105916) - [Topological Superconductors](https://pubs.acs.org/doi/10.1021/acs.chemmater.3c00713)
