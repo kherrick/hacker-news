@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-23](index.md)
 
+* [2025-02-23, 03:55:50](https://news.ycombinator.com/item?id=43146357) - [Men overestimate women's preference for masculinity](https://www.bps.org.uk/research-digest/men-overestimate-womens-preference-masculinity)
 * [2025-02-23, 03:43:28](https://news.ycombinator.com/item?id=43146274) - [IQ isn't 160. No one's is](https://www.theseedsofscience.pub/p/your-iq-isnt-160-no-ones-is)
 * [2025-02-23, 02:58:43](https://news.ycombinator.com/item?id=43145982) - [Stingray Fish Delousing Underwater Laser in Action (2018) [video]](https://www.youtube.com/watch?v=bZxw-Ji7K94)
 * [2025-02-23, 01:58:18](https://news.ycombinator.com/item?id=43145527) - [Electronics Teardown: Stelo 2-Week Continuous Glucose Monitor (2024)](https://andykong.org/blog/cgmteardown1)
