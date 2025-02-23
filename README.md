@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-23, 19:15:10](https://news.ycombinator.com/item?id=43152178) - [Lobsters blocking UK users because of the Online Safety Act](https://web.archive.org/web/20250108091906/https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with)
 * [2025-02-23, 18:34:42](https://news.ycombinator.com/item?id=43151775) - [Technofossils: Humanity's eternal testament will be plastic bags, cheap clothes](https://www.theguardian.com/science/2025/feb/22/technofossils-how-plastic-bags-and-chicken-bones-will-become-our-eternal-legacy)
 * [2025-02-23, 17:46:09](https://news.ycombinator.com/item?id=43151320) - [Decades of Research Misconduct Stalled an Alzheimer's Cure](https://www.sciencefriday.com/articles/doctored-book-excerpt/)
 * [2025-02-23, 17:43:34](https://news.ycombinator.com/item?id=43151294) - [WhiteSur: macOS-like theme for GTK desktops](https://github.com/vinceliuice/WhiteSur-gtk-theme)
@@ -27,7 +28,6 @@
 * [2025-02-20, 06:03:36](https://news.ycombinator.com/item?id=43111615) - [Rust, C++, and Python trends in jobs on Hacker News (February 2025)](https://martin.wojtczyk.de/2025/02/20/rust-c-and-python-trends-in-jobs-on-hacker-news-february-2025/)
 * [2025-02-20, 05:28:07](https://news.ycombinator.com/item?id=43111417) - [LeetCode but You Can Force People to Code in Light Mode >:)](https://www.beatcode.dev/)
 * [2025-02-19, 19:54:16](https://news.ycombinator.com/item?id=43106687) - [What are Majorana zero modes?](https://mathstodon.xyz/@johncarlosbaez/114031919391285877)
-* [2025-02-19, 19:18:50](https://news.ycombinator.com/item?id=43106198) - [Bringing On-Chain Data to AI Agents with SQD and ElizaOS](https://blog.sqd.dev/fuel-your-eliza-ai-agent-with-sqd/)
 * [2025-02-19, 18:58:18](https://news.ycombinator.com/item?id=43105916) - [Topological Superconductors](https://pubs.acs.org/doi/10.1021/acs.chemmater.3c00713)
 * [2025-02-19, 14:20:12](https://news.ycombinator.com/item?id=43102414) - [CEO Simulator: Startup Edition](https://ceosimulator.vercel.app/)
 
