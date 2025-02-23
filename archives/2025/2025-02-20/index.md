@@ -53,6 +53,7 @@
 * [2025-02-20, 13:26:17](https://news.ycombinator.com/item?id=43114362) - [RT64: N64 graphics renderer in emulators and native ports](https://github.com/rt64/rt64)
 * [2025-02-20, 13:13:53](https://news.ycombinator.com/item?id=43114235) - [A password generator inspired by the Xkcd password spec](https://github.com/beala/xkcd-password)
 * [2025-02-20, 13:01:39](https://news.ycombinator.com/item?id=43114147) - [Siddhartha](https://en.wikipedia.org/wiki/Siddhartha_(novel))
+* [2025-02-20, 12:41:21](https://news.ycombinator.com/item?id=43114008) - [Six, and the art of staying in the game](https://ashore.io/journal/crossover-creativity/six)
 * [2025-02-20, 12:39:36](https://news.ycombinator.com/item?id=43113997) - [When Your Last Name Is Null, Nothing Works](https://www.wsj.com/lifestyle/null-last-name-computer-scientists-forms-f0a43b08)
 * [2025-02-20, 12:24:04](https://news.ycombinator.com/item?id=43113871) - [Humane (Or Red Flags to Spot for Next Time)](https://lmnt.me/blog/humane.html)
 * [2025-02-20, 12:13:57](https://news.ycombinator.com/item?id=43113790) - [Customizable HTML Select](https://developer.chrome.com/blog/rfc-customizable-select)
