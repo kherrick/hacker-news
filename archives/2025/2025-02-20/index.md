@@ -58,6 +58,7 @@
 * [2025-02-20, 11:13:46](https://news.ycombinator.com/item?id=43113397) - [The Amazon Appstore for Android devices will be discontinued on August 20, 2025](https://www.amazon.com/gp/mas/appstore/android/faq)
 * [2025-02-20, 10:29:37](https://news.ycombinator.com/item?id=43113134) - [Do ambiguous images provide psychological insights? Testing a popular claim](https://peerj.com/articles/19022/)
 * [2025-02-20, 10:09:56](https://news.ycombinator.com/item?id=43113024) - [After 20 Years, Math Couple Solves Major Group Theory Problem](https://www.quantamagazine.org/after-20-years-math-couple-solves-major-group-theory-problem-20250219/)
+* [2025-02-20, 10:08:05](https://news.ycombinator.com/item?id=43113012) - [Brazilian Ship Sunk by WWII U-Boat Located](https://archaeology.org/news/2025/02/19/brazilian-ship-sunk-by-wwii-u-boat-located/)
 * [2025-02-20, 07:36:34](https://news.ycombinator.com/item?id=43112084) - [Doge Has 'God Mode' Access to Government Data](https://www.theatlantic.com/technology/archive/2025/02/doge-god-mode-access/681719/)
 * [2025-02-20, 07:27:55](https://news.ycombinator.com/item?id=43112036) - [The Plan 9 Foundation](https://plan9foundation.org/)
 * [2025-02-20, 07:25:20](https://news.ycombinator.com/item?id=43112021) - [FAQ on Microsoft's topological qubit thing](https://scottaaronson.blog/?p=8669)
