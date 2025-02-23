@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-23, 04:45:27](https://news.ycombinator.com/item?id=43146627) - [How Many School Shootings? All Incidents from 1966-Present](https://k12ssdb.org/all-shootings)
 * [2025-02-23, 01:58:18](https://news.ycombinator.com/item?id=43145527) - [Electronics Teardown: Stelo 2-Week Continuous Glucose Monitor (2024)](https://andykong.org/blog/cgmteardown1)
 * [2025-02-23, 01:12:43](https://news.ycombinator.com/item?id=43145179) - [Meta slashes staff stock awards as group embarks on AI spending drive](https://www.ft.com/content/67a4c030-a7f6-47af-bab0-a998f0a09506)
 * [2025-02-23, 01:03:04](https://news.ycombinator.com/item?id=43145106) - [Clang Static Analyzer and the Z3 constraint solver](https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/)
@@ -27,6 +26,7 @@
 * [2025-02-20, 10:08:05](https://news.ycombinator.com/item?id=43113012) - [Brazilian Ship Sunk by WWII U-Boat Located](https://archaeology.org/news/2025/02/19/brazilian-ship-sunk-by-wwii-u-boat-located/)
 * [2025-02-20, 04:59:17](https://news.ycombinator.com/item?id=43111294) - [Reliably Replicating Data Between PostgreSQL and ClickHouse](https://benjaminwootton.com/insights/clickhouse-peerdb-cdc/)
 * [2025-02-19, 19:44:35](https://news.ycombinator.com/item?id=43106574) - [Protoclone, the first bipedal, musculoskeletal Android](https://clonerobotics.com/android/)
+* [2025-02-19, 19:22:01](https://news.ycombinator.com/item?id=43106245) - [One Head, Two Brains: The origins of split-brain research (2015)](https://www.theatlantic.com/health/archive/2015/07/split-brain-research-sperry-gazzaniga/399290/)
 * [2025-02-19, 08:27:50](https://news.ycombinator.com/item?id=43099894) - [Tetris in PostScript](https://github.com/nst/PSTris)
 * [2025-02-19, 02:16:04](https://news.ycombinator.com/item?id=43097799) - [1561 Celestial Phenomenon over Nuremberg](https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg)
 * [2025-02-18, 13:48:25](https://news.ycombinator.com/item?id=43089415) - [These years in Common Lisp: 2023-2024 in review](https://lisp-journey.gitlab.io/blog/these-years-in-common-lisp-2023-2024-in-review/)
