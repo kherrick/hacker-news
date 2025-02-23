@@ -10,6 +10,7 @@
 * [2025-02-23, 08:18:15](https://news.ycombinator.com/item?id=43147698) - [Half-Life](https://www.filfre.net/2024/12/half-life/)
 * [2025-02-23, 05:27:27](https://news.ycombinator.com/item?id=43146871) - [Ways to annoy your senior engineer](https://www.thecaringtechie.com/p/8-guaranteed-ways-to-annoy-your-senior)
 * [2025-02-23, 04:45:27](https://news.ycombinator.com/item?id=43146627) - [How Many School Shootings? All Incidents from 1966-Present](https://k12ssdb.org/all-shootings)
+* [2025-02-23, 04:37:57](https://news.ycombinator.com/item?id=43146581) - [No One Lives Forever (NOLF) Revival Edition](http://nolfrevival.tk/)
 * [2025-02-23, 03:55:50](https://news.ycombinator.com/item?id=43146357) - [Men overestimate women's preference for masculinity](https://www.bps.org.uk/research-digest/men-overestimate-womens-preference-masculinity)
 * [2025-02-23, 03:43:28](https://news.ycombinator.com/item?id=43146274) - [IQ isn't 160. No one's is](https://www.theseedsofscience.pub/p/your-iq-isnt-160-no-ones-is)
 * [2025-02-23, 02:58:43](https://news.ycombinator.com/item?id=43145982) - [Stingray Fish Delousing Underwater Laser in Action (2018) [video]](https://www.youtube.com/watch?v=bZxw-Ji7K94)
