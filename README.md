@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-23, 03:55:50](https://news.ycombinator.com/item?id=43146357) - [Men overestimate women's preference for masculinity](https://www.bps.org.uk/research-digest/men-overestimate-womens-preference-masculinity)
 * [2025-02-23, 03:43:28](https://news.ycombinator.com/item?id=43146274) - [IQ isn't 160. No one's is](https://www.theseedsofscience.pub/p/your-iq-isnt-160-no-ones-is)
 * [2025-02-23, 01:58:18](https://news.ycombinator.com/item?id=43145527) - [Electronics Teardown: Stelo 2-Week Continuous Glucose Monitor (2024)](https://andykong.org/blog/cgmteardown1)
 * [2025-02-23, 01:12:43](https://news.ycombinator.com/item?id=43145179) - [Meta slashes staff stock awards as group embarks on AI spending drive](https://www.ft.com/content/67a4c030-a7f6-47af-bab0-a998f0a09506)
@@ -25,6 +24,7 @@
 * [2025-02-22, 03:52:56](https://news.ycombinator.com/item?id=43135934) - [DigiKey's Tariff Resources](https://www.digikey.com/en/resources/tariff-resources)
 * [2025-02-20, 10:08:05](https://news.ycombinator.com/item?id=43113012) - [Brazilian Ship Sunk by WWII U-Boat Located](https://archaeology.org/news/2025/02/19/brazilian-ship-sunk-by-wwii-u-boat-located/)
 * [2025-02-20, 04:59:17](https://news.ycombinator.com/item?id=43111294) - [Reliably Replicating Data Between PostgreSQL and ClickHouse](https://benjaminwootton.com/insights/clickhouse-peerdb-cdc/)
+* [2025-02-19, 19:22:01](https://news.ycombinator.com/item?id=43106245) - [One Head, Two Brains: The origins of split-brain research (2015)](https://www.theatlantic.com/health/archive/2015/07/split-brain-research-sperry-gazzaniga/399290/)
 * [2025-02-19, 09:24:02](https://news.ycombinator.com/item?id=43100260) - [Show HN: AI-native browser game that users can craft unlimited 3D items](https://0.space/about)
 * [2025-02-19, 08:27:50](https://news.ycombinator.com/item?id=43099894) - [Tetris in PostScript](https://github.com/nst/PSTris)
 * [2025-02-19, 06:34:35](https://news.ycombinator.com/item?id=43099233) - [Meta’s brave new horizons](https://www.ft.com/content/df26fc4c-5488-4994-b2b8-be4bfbda2724)
