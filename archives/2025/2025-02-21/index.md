@@ -65,6 +65,7 @@
 * [2025-02-21, 03:18:04](https://news.ycombinator.com/item?id=43123628) - [America's National Security Wonderland](https://americanaffairsjournal.org/2025/02/americas-national-security-wonderland/)
 * [2025-02-21, 03:01:52](https://news.ycombinator.com/item?id=43123516) - [The Shape of a Mars Mission](https://idlewords.com/2025/02/the_shape_of_a_mars_mission.htm)
 * [2025-02-21, 02:17:23](https://news.ycombinator.com/item?id=43123283) - [Ax falls on elite group of PhDs training to lead U.S. public health labs](https://www.science.org/content/article/ax-falls-elite-group-ph-d-s-training-lead-u-s-public-health-labs)
+* [2025-02-21, 02:13:05](https://news.ycombinator.com/item?id=43123267) - [The Weird New Putting Technique That's Driving the Golf World Nuts](https://www.wsj.com/sports/golf/aimpoint-putting-pga-tour-8868484c)
 * [2025-02-21, 02:00:22](https://news.ycombinator.com/item?id=43123205) - [The Rise and Fall of America's Response to Foreign Election Meddling](https://www.lawfaremedia.org/article/the-rise-and-fall-of-america-s-response-to-foreign-election-meddling)
 * [2025-02-21, 01:32:34](https://news.ycombinator.com/item?id=43123033) - [Exa Laboratories (YC S24) Is Hiring a Founding Engineer to Build AI Chips](https://www.ycombinator.com/companies/exa-laboratories/jobs/9TXvyqt-founding-engineer)
 * [2025-02-21, 01:11:13](https://news.ycombinator.com/item?id=43122871) - [Software engineering job openings hit five-year low?](https://blog.pragmaticengineer.com/software-engineer-jobs-five-year-low/)
