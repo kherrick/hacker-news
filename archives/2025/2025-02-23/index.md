@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-23](index.md)
 
+* [2025-02-23, 10:42:09](https://news.ycombinator.com/item?id=43148355) - [A Black Fungus Might Be Healing Chernobyl by Drinking Radiation](https://makerfairerome.eu/en/a-black-fungus-might-be-healing-chernobyl-by-drinking-radiation/)
 * [2025-02-23, 10:19:45](https://news.ycombinator.com/item?id=43148259) - [NASA Downgrades the Risk of 2024 YR4 to Below 1%](https://www.universetoday.com/171047/nasa-downgrades-the-risk-of-2024-yr4-to-below-1/)
 * [2025-02-23, 09:29:50](https://news.ycombinator.com/item?id=43148032) - [Lambda Calculus and Lisp, part 1](https://babbagefiles.xyz/lambda-calculus-and-lisp-01/)
 * [2025-02-23, 08:18:15](https://news.ycombinator.com/item?id=43147698) - [Half-Life](https://www.filfre.net/2024/12/half-life/)
