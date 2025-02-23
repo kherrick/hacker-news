@@ -64,6 +64,7 @@
 * [2025-02-19, 12:16:21](https://news.ycombinator.com/item?id=43101231) - [NASA says 'City killer' asteroid now has 3.1% chance of hitting Earth](https://www.france24.com/en/live-news/20250218-city-killer-asteroid-now-has-3-1-chance-of-hitting-earth-nasa)
 * [2025-02-19, 12:12:52](https://news.ycombinator.com/item?id=43101204) - [Greg K-H: \"Writing new code in Rust is a win for all of us\"](https://lore.kernel.org/rust-for-linux/2025021954-flaccid-pucker-f7d9@gregkh/)
 * [2025-02-19, 11:39:06](https://news.ycombinator.com/item?id=43101009) - [A SpaceX team is being brought in to overhaul FAA's air traffic control system](https://www.theverge.com/news/614078/faa-air-traffic-control-spacex-elon-musk-layoff-staff-shortage)
+* [2025-02-19, 11:11:56](https://news.ycombinator.com/item?id=43100870) - [Extreme Server Side Rendering](https://www.scd31.com/posts/extreme-server-side-rendering)
 * [2025-02-19, 11:03:27](https://news.ycombinator.com/item?id=43100821) - [PEP 486 – Make the Python Launcher aware of virtual environments (2015)](https://peps.python.org/pep-0486/)
 * [2025-02-19, 10:35:28](https://news.ycombinator.com/item?id=43100648) - [The reality of long-term software maintenance from the maintainer's perspective](https://www.construct.net/en/blogs/ashleys-blog-2/reality-long-term-software-1892)
 * [2025-02-19, 09:42:03](https://news.ycombinator.com/item?id=43100359) - [Are SSDs more reliable than hard drives?](https://www.backblaze.com/blog/are-ssds-really-more-reliable-than-hard-drives/)

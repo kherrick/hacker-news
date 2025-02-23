@@ -25,9 +25,9 @@
 * [2025-02-22, 03:52:56](https://news.ycombinator.com/item?id=43135934) - [DigiKey's Tariff Resources](https://www.digikey.com/en/resources/tariff-resources)
 * [2025-02-20, 04:59:17](https://news.ycombinator.com/item?id=43111294) - [Reliably Replicating Data Between PostgreSQL and ClickHouse](https://benjaminwootton.com/insights/clickhouse-peerdb-cdc/)
 * [2025-02-19, 19:22:01](https://news.ycombinator.com/item?id=43106245) - [One Head, Two Brains: The origins of split-brain research (2015)](https://www.theatlantic.com/health/archive/2015/07/split-brain-research-sperry-gazzaniga/399290/)
+* [2025-02-19, 11:11:56](https://news.ycombinator.com/item?id=43100870) - [Extreme Server Side Rendering](https://www.scd31.com/posts/extreme-server-side-rendering)
 * [2025-02-19, 09:24:02](https://news.ycombinator.com/item?id=43100260) - [Show HN: AI-native browser game that users can craft unlimited 3D items](https://0.space/about)
 * [2025-02-19, 08:27:50](https://news.ycombinator.com/item?id=43099894) - [Tetris in PostScript](https://github.com/nst/PSTris)
-* [2025-02-19, 06:34:35](https://news.ycombinator.com/item?id=43099233) - [Meta’s brave new horizons](https://www.ft.com/content/df26fc4c-5488-4994-b2b8-be4bfbda2724)
 * [2025-02-19, 02:16:04](https://news.ycombinator.com/item?id=43097799) - [1561 Celestial Phenomenon over Nuremberg](https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg)
 * [2025-02-18, 13:48:25](https://news.ycombinator.com/item?id=43089415) - [These years in Common Lisp: 2023-2024 in review](https://lisp-journey.gitlab.io/blog/these-years-in-common-lisp-2023-2024-in-review/)
 
