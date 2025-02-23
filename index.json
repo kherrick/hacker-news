@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-02-23, 03:43:28",
-      "https://news.ycombinator.com/item?id=43146274"
-    ],
-    [
-      "Studies correlating IQ to genius are mostly bad science",
-      "https://www.theseedsofscience.pub/p/your-iq-isnt-160-no-ones-is"
-    ]
-  ],
-  [
-    [
       "2025-02-23, 02:58:43",
       "https://news.ycombinator.com/item?id=43145982"
     ],
@@ -37,6 +27,16 @@
     [
       "Electronics Teardown: Stelo Continuous Glucose Monitor (2024)",
       "https://andykong.org/blog/cgmteardown1"
+    ]
+  ],
+  [
+    [
+      "2025-02-23, 01:53:33",
+      "https://news.ycombinator.com/item?id=43145483"
+    ],
+    [
+      "U. of Pittsburgh pauses Ph.D. admissions amid research funding uncertainty",
+      "https://www.wesa.fm/health-science-tech/2025-02-21/university-pittsburgh-phd-pause-research-funding-uncertainty"
     ]
   ],
   [
@@ -117,16 +117,6 @@
     [
       "In Defense of Text Labels",
       "https://www.chrbutler.com/in-defense-of-text-labels"
-    ]
-  ],
-  [
-    [
-      "2025-02-22, 19:04:01",
-      "https://news.ycombinator.com/item?id=43141993"
-    ],
-    [
-      "The Birth of Chipzilla",
-      "https://www.abortretry.fail/p/the-birth-of-chipzilla"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "1561 Celestial Phenomenon over Nuremberg",
       "https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg"
+    ]
+  ],
+  [
+    [
+      "2025-02-18, 13:48:25",
+      "https://news.ycombinator.com/item?id=43089415"
+    ],
+    [
+      "These years in Common Lisp: 2023-2024 in review",
+      "https://lisp-journey.gitlab.io/blog/these-years-in-common-lisp-2023-2024-in-review/"
     ]
   ]
 ]
