@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-02-23](index.md)
 
+* [2025-02-23, 15:28:49](https://news.ycombinator.com/item?id=43149928) - [In war against DEI in science, researchers see collateral damage](https://arstechnica.com/science/2025/02/in-war-against-dei-in-science-researchers-see-collateral-damage/)
 * [2025-02-23, 14:43:01](https://news.ycombinator.com/item?id=43149559) - [The Secret That Colleges Should Stop Keeping](https://www.theatlantic.com/ideas/archive/2025/02/college-cheaper-sticker-price/681742/)
 * [2025-02-23, 14:27:18](https://news.ycombinator.com/item?id=43149437) - [Navigating a Broken Dev Culture](https://news.ycombinator.com/item?id=43149437)
 * [2025-02-23, 14:20:35](https://news.ycombinator.com/item?id=43149398) - [Why are Rust Foundation execs paid via foreign entities, not directly? [Page 35] [pdf]](https://rustfoundation.org/wp-content/uploads/2025/01/form-990-2023.pdf)
+* [2025-02-23, 14:00:25](https://news.ycombinator.com/item?id=43149266) - [Vietnamese Graphic Design](https://vietgd.com/)
 * [2025-02-23, 13:47:11](https://news.ycombinator.com/item?id=43149186) - [See the submissions you have flagged (maybe accidentally)](https://news.ycombinator.com/flagged)
 * [2025-02-23, 12:52:10](https://news.ycombinator.com/item?id=43148911) - [Countries spend huge sums on fossil fuel subsidies – why they're so hard to end](https://theconversation.com/countries-spend-huge-sums-on-fossil-fuel-subsidies-why-theyre-so-hard-to-eliminate-239346)
 * [2025-02-23, 12:28:00](https://news.ycombinator.com/item?id=43148803) - [GitHub Hosting Malware Won't Remove After Report](https://github.com/UpdaterCisco)
