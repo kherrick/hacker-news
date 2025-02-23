@@ -15,8 +15,18 @@
       "https://news.ycombinator.com/item?id=43146274"
     ],
     [
-      "IQ numbers for historical figures are made up",
+      "Studies correlating IQ to genius are mostly bad science",
       "https://www.theseedsofscience.pub/p/your-iq-isnt-160-no-ones-is"
+    ]
+  ],
+  [
+    [
+      "2025-02-23, 02:58:43",
+      "https://news.ycombinator.com/item?id=43145982"
+    ],
+    [
+      "Fish-delousing underwater laser (2018) [video]",
+      "https://www.youtube.com/watch?v=bZxw-Ji7K94"
     ]
   ],
   [
@@ -47,6 +57,16 @@
     [
       "Digital Services Playbook",
       "https://playbook.usds.gov/"
+    ]
+  ],
+  [
+    [
+      "2025-02-23, 00:37:57",
+      "https://news.ycombinator.com/item?id=43144940"
+    ],
+    [
+      "Penn to reduce graduate admissions, rescind acceptances amid research cuts",
+      "https://www.thedp.com/article/2025/02/penn-graduate-student-class-size-cut-trump-funding"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-02-20, 23:47:04",
-      "https://news.ycombinator.com/item?id=43122089"
-    ],
-    [
-      "AI CUDA Engineer: Agentic CUDA Kernel Discovery, Optimization and Composition",
-      "https://sakana.ai/ai-cuda-engineer/"
-    ]
-  ],
-  [
-    [
       "2025-02-20, 11:19:32",
       "https://news.ycombinator.com/item?id=43113435"
     ],
@@ -245,7 +255,7 @@
       "https://news.ycombinator.com/item?id=43111294"
     ],
     [
-      "Reliably Replicating Data Between PostgreSQL and ClickHouse",
+      "Reliably replicating data between Postgres and ClickHouse",
       "https://benjaminwootton.com/insights/clickhouse-peerdb-cdc/"
     ]
   ],
@@ -265,7 +275,7 @@
       "https://news.ycombinator.com/item?id=43102414"
     ],
     [
-      "Try out how it feels being a startup CEO for one day",
+      "CEO Simulator: Startup Edition",
       "https://ceosimulator.vercel.app/"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "1561 Celestial Phenomenon over Nuremberg",
       "https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg"
-    ]
-  ],
-  [
-    [
-      "2025-02-18, 13:48:25",
-      "https://news.ycombinator.com/item?id=43089415"
-    ],
-    [
-      "These years in Common Lisp: 2023-2024 in review",
-      "https://lisp-journey.gitlab.io/blog/these-years-in-common-lisp-2023-2024-in-review/"
     ]
   ]
 ]
