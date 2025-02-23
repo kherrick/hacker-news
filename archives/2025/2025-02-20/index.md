@@ -29,6 +29,7 @@
 * [2025-02-20, 19:07:53](https://news.ycombinator.com/item?id=43118745) - [A.I. Is Prompting an Evolution, Not Extinction, for Coders](https://www.nytimes.com/2025/02/20/business/ai-coding-software-engineers.html)
 * [2025-02-20, 18:57:48](https://news.ycombinator.com/item?id=43118634) - [OpenEuroLLM](https://openeurollm.eu/)
 * [2025-02-20, 18:54:44](https://news.ycombinator.com/item?id=43118592) - [AWS S3 SDK breaks its compatible services](https://xuanwo.io/links/2025/02/aws_s3_sdk_breaks_its_compatible_services/)
+* [2025-02-20, 18:49:29](https://news.ycombinator.com/item?id=43118514) - [Show HN: Benchmarking VLMs vs. Traditional OCR](https://getomni.ai/ocr-benchmark)
 * [2025-02-20, 18:49:24](https://news.ycombinator.com/item?id=43118512) - [You can't build a moat with AI](https://frontierai.substack.com/p/you-cant-build-a-moat-with-ai-redux)
 * [2025-02-20, 18:41:22](https://news.ycombinator.com/item?id=43118412) - [The most underreported story in AI is that scaling has failed to produce AGI](https://fortune.com/2025/02/19/generative-ai-scaling-agi-deep-learning/)
 * [2025-02-20, 18:26:52](https://news.ycombinator.com/item?id=43118257) - [A fiscal crisis is looming for many US cities](https://theconversation.com/a-fiscal-crisis-is-looming-for-many-us-cities-249436)

@@ -26,9 +26,9 @@
 * [2025-02-22, 23:55:57](https://news.ycombinator.com/item?id=43144611) - [Ask for no, don't ask for yes (2022)](https://www.mooreds.com/wordpress/archives/3518)
 * [2025-02-22, 22:08:42](https://news.ycombinator.com/item?id=43143777) - [OpenBSD Innovations](https://www.openbsd.org/innovations.html)
 * [2025-02-22, 09:44:29](https://news.ycombinator.com/item?id=43137586) - [Why Clojure?](https://gaiwan.co/blog/why-clojure/)
+* [2025-02-20, 18:49:29](https://news.ycombinator.com/item?id=43118514) - [Show HN: Benchmarking VLMs vs. Traditional OCR](https://getomni.ai/ocr-benchmark)
 * [2025-02-20, 06:03:36](https://news.ycombinator.com/item?id=43111615) - [Rust, C++, and Python trends in jobs on Hacker News (February 2025)](https://martin.wojtczyk.de/2025/02/20/rust-c-and-python-trends-in-jobs-on-hacker-news-february-2025/)
 * [2025-02-20, 05:28:07](https://news.ycombinator.com/item?id=43111417) - [LeetCode but You Can Force People to Code in Light Mode >:)](https://www.beatcode.dev/)
-* [2025-02-19, 18:58:18](https://news.ycombinator.com/item?id=43105916) - [Topological Superconductors](https://pubs.acs.org/doi/10.1021/acs.chemmater.3c00713)
 * [2025-02-19, 14:20:12](https://news.ycombinator.com/item?id=43102414) - [CEO Simulator: Startup Edition](https://ceosimulator.vercel.app/)
 
 ## [Archives](archives/index.md)
