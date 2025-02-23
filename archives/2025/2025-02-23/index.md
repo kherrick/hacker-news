@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-23](index.md)
 
+* [2025-02-23, 09:29:50](https://news.ycombinator.com/item?id=43148032) - [Lambda Calculus and Lisp, part 1](https://babbagefiles.xyz/lambda-calculus-and-lisp-01/)
+* [2025-02-23, 08:18:15](https://news.ycombinator.com/item?id=43147698) - [Half-Life](https://www.filfre.net/2024/12/half-life/)
 * [2025-02-23, 05:27:27](https://news.ycombinator.com/item?id=43146871) - [Ways to annoy your senior engineer](https://www.thecaringtechie.com/p/8-guaranteed-ways-to-annoy-your-senior)
 * [2025-02-23, 04:45:27](https://news.ycombinator.com/item?id=43146627) - [How Many School Shootings? All Incidents from 1966-Present](https://k12ssdb.org/all-shootings)
 * [2025-02-23, 03:55:50](https://news.ycombinator.com/item?id=43146357) - [Men overestimate women's preference for masculinity](https://www.bps.org.uk/research-digest/men-overestimate-womens-preference-masculinity)
