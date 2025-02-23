@@ -141,11 +141,11 @@
             <h4>
               <span>2025-02-23 @ 12:04:43</span
               ><span class="points-container"
-                >Points: <span class="points">73</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43148697"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -160,11 +160,11 @@
             <h4>
               <span>2025-02-23 @ 12:01:56</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43148683"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -179,7 +179,7 @@
             <h4>
               <span>2025-02-23 @ 11:55:51</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43148664"
                   >Comments</a
@@ -200,13 +200,95 @@
             <h4>
               <span>2025-02-23 @ 11:03:37</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43148438"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="43148408">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=43148408"
+              >Tell HN: Five random IndieWeb blog links on your terminal</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-02-23 @ 10:55:47</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43148408"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://news.ycombinator.com/item?id=43139953"
+                >https://news.ycombinator.com/item?id=43139953</a
+              >&gt;
+              <p>
+                That post is actually a link to &lt;<a
+                  href="https://indieblog.page/"
+                  >https://indieblog.page/</a
+                >&gt;, which features an impressive list of independently
+                maintained personal websites and blogs with RSS feeds.
+              </p>
+              <p>
+                I was wondering, if instead of discovering one blog at a time, I
+                could discover five blogs at once, directly from my terminal!
+                Turns out the website has &lt;<a
+                  href="https://indieblog.page/random"
+                  >https://indieblog.page/random</a
+                >&gt; which picks a random blog and redirects you to it. It has
+                daily feeds of N random posts too, where N = 1, 3, 5, and 10.
+              </p>
+              <p>
+                But if, like me, you'd like to have five random blogs suggested
+                in your terminal, here is a quick shell one-liner I'd like to
+                share. It fetches the random blog picker page five times, cleans
+                up the URLs a bit, and prints them on the terminal:
+              </p>
+              <p></p>
+              <pre><code>  for _ in $(seq 1 5); do curl -sSI https://indieblog.page/random | grep location | sed 's/location: \(.*\).utm_source=.*/\1/'; done 
+</code></pre>
+              Or if you want something to go in ~/.zshrc, ~/.bashrc, etc., then
+              you could have a tiny shell function like this:
+              <p></p>
+              <pre><code>  iw5() {
+      for _ in $(seq 1 5)
+      do
+          curl -sSI https://indieblog.page/random |
+              grep location |
+              sed 's/location: \(.*\).utm_source=.*/\1/'
+      done
+  }
+</code></pre>
+              Here is an example output:
+              <p></p>
+              <pre><code>  $ iw5
+  https://justinsimoni.com/colorado-trail-24-hour-backpacking-challenge-in-may-how-far-can-i-hike/
+  http://www.iamcal.com/2024-09/10218/
+  https://dracos.co.uk/wrote/advent-of-code-2024-7/
+  https://leancrew.com/all-this/2024/12/mind-your-plotting/
+  http://i.never.nu/personal-foundational-texts/
+</code></pre>
+              It helps me to quickly browse through a set of random suggestions
+              on the terminal, decide which one I want to visit, right click on
+              it, and select the "open link" option to open the link in a web
+              browser. Yes, I know this amounts to judging a post by its link,
+              but sometimes the post slug (if present) alone sparks enough
+              curiosity to dive deeper, and it's a quick way to explore new
+              posts without overthinking it.
+              <p>
+                If you're using this, please be considerate of the
+                indieblog.page web server. Avoid running it too frequently to
+                prevent putting unnecessary strain on the server.
+              </p>
+            </div>
           </section>
         </section>
         <section id="43148259">
@@ -221,11 +303,11 @@
             <h4>
               <span>2025-02-23 @ 10:19:45</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43148259"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -242,11 +324,11 @@
             <h4>
               <span>2025-02-23 @ 09:29:50</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43148032"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -261,11 +343,11 @@
             <h4>
               <span>2025-02-23 @ 08:18:15</span
               ><span class="points-container"
-                >Points: <span class="points">167</span></span
+                >Points: <span class="points">178</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43147698"
                   >Comments</a
-                ><span class="descendants">: 74</span></span
+                ><span class="descendants">: 81</span></span
               >
             </h4>
           </section>
@@ -280,11 +362,11 @@
             <h4>
               <span>2025-02-23 @ 04:37:57</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43146581"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -301,7 +383,7 @@
             <h4>
               <span>2025-02-23 @ 03:22:04</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43146155"
                   >Comments</a
@@ -320,7 +402,7 @@
             <h4>
               <span>2025-02-23 @ 01:58:18</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43145527"
                   >Comments</a
@@ -341,7 +423,7 @@
             <h4>
               <span>2025-02-23 @ 01:03:04</span
               ><span class="points-container"
-                >Points: <span class="points">90</span></span
+                >Points: <span class="points">91</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43145106"
                   >Comments</a
@@ -362,11 +444,11 @@
             <h4>
               <span>2025-02-22 @ 23:55:57</span
               ><span class="points-container"
-                >Points: <span class="points">450</span></span
+                >Points: <span class="points">460</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43144611"
                   >Comments</a
-                ><span class="descendants">: 187</span></span
+                ><span class="descendants">: 192</span></span
               >
             </h4>
           </section>
@@ -385,7 +467,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43144040"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -400,11 +482,11 @@
             <h4>
               <span>2025-02-22 @ 22:08:42</span
               ><span class="points-container"
-                >Points: <span class="points">423</span></span
+                >Points: <span class="points">428</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43143777"
                   >Comments</a
-                ><span class="descendants">: 227</span></span
+                ><span class="descendants">: 231</span></span
               >
             </h4>
           </section>
@@ -421,11 +503,11 @@
             <h4>
               <span>2025-02-22 @ 20:40:26</span
               ><span class="points-container"
-                >Points: <span class="points">202</span></span
+                >Points: <span class="points">203</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43142989"
                   >Comments</a
-                ><span class="descendants">: 118</span></span
+                ><span class="descendants">: 119</span></span
               >
             </h4>
           </section>
@@ -440,7 +522,7 @@
             <h4>
               <span>2025-02-22 @ 16:56:09</span
               ><span class="points-container"
-                >Points: <span class="points">121</span></span
+                >Points: <span class="points">123</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43140645"
                   >Comments</a
@@ -461,11 +543,11 @@
             <h4>
               <span>2025-02-22 @ 16:52:49</span
               ><span class="points-container"
-                >Points: <span class="points">721</span></span
+                >Points: <span class="points">728</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43140614"
                   >Comments</a
-                ><span class="descendants">: 181</span></span
+                ><span class="descendants">: 183</span></span
               >
             </h4>
           </section>
@@ -483,7 +565,7 @@
             <h4>
               <span>2025-02-22 @ 16:45:45</span
               ><span class="points-container"
-                >Points: <span class="points">125</span></span
+                >Points: <span class="points">127</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43140547"
                   >Comments</a
@@ -504,33 +586,11 @@
             <h4>
               <span>2025-02-22 @ 12:03:22</span
               ><span class="points-container"
-                >Points: <span class="points">905</span></span
+                >Points: <span class="points">908</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43138238"
                   >Comments</a
-                ><span class="descendants">: 1143</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43128253">
-          <h3>
-            <a
-              class="item"
-              href="https://www.bbc.com/news/articles/cgj54eq4vejo"
-              >Apple pulls data protection tool after UK government security
-              row</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-02-21 @ 15:05:24</span
-              ><span class="points-container"
-                >Points: <span class="points">1692</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43128253"
-                  >Comments</a
-                ><span class="descendants">: 1036</span></span
+                ><span class="descendants">: 1157</span></span
               >
             </h4>
           </section>
@@ -548,11 +608,11 @@
             <h4>
               <span>2025-02-21 @ 02:13:05</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43123267"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -591,11 +651,11 @@
             <h4>
               <span>2025-02-20 @ 06:03:36</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43111615"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -633,11 +693,11 @@
             <h4>
               <span>2025-02-19 @ 19:54:16</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43106687"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -654,11 +714,11 @@
             <h4>
               <span>2025-02-19 @ 19:30:58</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43106374"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -673,11 +733,11 @@
             <h4>
               <span>2025-02-19 @ 14:20:12</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">100</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43102414"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -694,7 +754,7 @@
             <h4>
               <span>2025-02-19 @ 14:01:53</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43102247"
                   >Comments</a
@@ -716,11 +776,11 @@
             <h4>
               <span>2025-02-19 @ 11:40:11</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43101013"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -735,7 +795,7 @@
             <h4>
               <span>2025-02-19 @ 08:27:50</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43099894"
                   >Comments</a
