@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-23, 15:51:11](https://news.ycombinator.com/item?id=43150116) - [Directus – real-time REST and GraphQL API of any SQL database](https://github.com/directus/directus)
 * [2025-02-23, 15:48:19](https://news.ycombinator.com/item?id=43150085) - [It is no longer safe to move our governments and societies to US clouds](https://berthub.eu/articles/posts/you-can-no-longer-base-your-government-and-society-on-us-clouds/)
+* [2025-02-23, 15:24:02](https://news.ycombinator.com/item?id=43149883) - [Making any integer with four 2s](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)
+* [2025-02-23, 15:16:41](https://news.ycombinator.com/item?id=43149833) - [Chipzilla Devours the Desktop](https://www.abortretry.fail/p/chipzilla-devours-the-desktop)
 * [2025-02-23, 15:02:42](https://news.ycombinator.com/item?id=43149736) - ['Everybody is looking at their phones,' says man freed after 30 years in prison](https://news.sky.com/story/everybody-is-looking-at-their-phones-says-man-freed-after-30-years-in-prison-13315407)
 * [2025-02-23, 14:53:42](https://news.ycombinator.com/item?id=43149648) - [Pee If You Want to Go Deeper (2021)](https://peeifyouwanttogofaster.com/2021/05/24/pee-if-you-want-to-go-deeper/)
 * [2025-02-23, 14:46:47](https://news.ycombinator.com/item?id=43149591) - [Immune markers of post COVID vaccination syndrome indicate future research](https://news.yale.edu/2025/02/19/immune-markers-post-vaccination-syndrome-indicate-future-research-directions)
@@ -17,7 +20,6 @@
 * [2025-02-23, 04:37:57](https://news.ycombinator.com/item?id=43146581) - [No One Lives Forever (NOLF) Revival Edition](http://nolfrevival.tk/)
 * [2025-02-23, 03:22:04](https://news.ycombinator.com/item?id=43146155) - [Thailand to Cut Power to Myanmar Scam Hubs](https://bangkoklocal.info/2025/02/05/thailand-to-cut-power-to-myanmar-scam-hubs/)
 * [2025-02-23, 01:58:18](https://news.ycombinator.com/item?id=43145527) - [Electronics Teardown: Stelo Continuous Glucose Monitor (2024)](https://andykong.org/blog/cgmteardown1)
-* [2025-02-23, 01:03:04](https://news.ycombinator.com/item?id=43145106) - [Clang Static Analyzer and the Z3 constraint solver (2022)](https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/)
 * [2025-02-22, 23:55:57](https://news.ycombinator.com/item?id=43144611) - [Ask for no, don't ask for yes (2022)](https://www.mooreds.com/wordpress/archives/3518)
 * [2025-02-22, 22:08:42](https://news.ycombinator.com/item?id=43143777) - [OpenBSD Innovations](https://www.openbsd.org/innovations.html)
 * [2025-02-22, 20:40:26](https://news.ycombinator.com/item?id=43142989) - [In Defense of Text Labels](https://www.chrbutler.com/in-defense-of-text-labels)
@@ -25,11 +27,9 @@
 * [2025-02-20, 10:08:05](https://news.ycombinator.com/item?id=43113012) - [Brazilian ship sunk by WWII U-Boat located](https://archaeology.org/news/2025/02/19/brazilian-ship-sunk-by-wwii-u-boat-located/)
 * [2025-02-20, 06:03:36](https://news.ycombinator.com/item?id=43111615) - [Rust, C++, and Python trends in jobs on Hacker News (February 2025)](https://martin.wojtczyk.de/2025/02/20/rust-c-and-python-trends-in-jobs-on-hacker-news-february-2025/)
 * [2025-02-19, 19:54:16](https://news.ycombinator.com/item?id=43106687) - [What are Majorana zero modes?](https://mathstodon.xyz/@johncarlosbaez/114031919391285877)
-* [2025-02-19, 19:30:58](https://news.ycombinator.com/item?id=43106374) - [Engineers turn the body's goo into new glue](https://news.mit.edu/2025/engineers-turn-bodys-goo-into-new-glue-0217)
 * [2025-02-19, 18:58:18](https://news.ycombinator.com/item?id=43105916) - [Topological Superconductors](https://pubs.acs.org/doi/10.1021/acs.chemmater.3c00713)
 * [2025-02-19, 14:20:12](https://news.ycombinator.com/item?id=43102414) - [CEO Simulator: Startup Edition](https://ceosimulator.vercel.app/)
 * [2025-02-19, 14:01:53](https://news.ycombinator.com/item?id=43102247) - [Weird Kaggle and the Superiority of Books](https://blog.griffens.net/blog/weird-kaggle-books-reflections/)
-* [2025-02-19, 11:40:11](https://news.ycombinator.com/item?id=43101013) - [Stargate Project II? Declassified US Government Research in RV and Psi [pdf]](https://www.governmentattic.org/57docs/ThesisAnomalousHumanCognition2023.pdf)
 
 ## [Archives](archives/index.md)
 
