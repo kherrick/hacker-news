@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-23, 21:26:04](https://news.ycombinator.com/item?id=43153382) - [Documentation: $41K Loss: Stripe Security's Failure](https://medium.com/@forreddit/stripe-security-failure-allowing-debit-card-payouts-to-instant-accounts-immediately-6345d15709de)
 * [2025-02-23, 21:11:44](https://news.ycombinator.com/item?id=43153262) - [Bitwarden Authenticator](https://bitwarden.com/products/authenticator/)
 * [2025-02-23, 20:31:12](https://news.ycombinator.com/item?id=43152937) - [EU regulations to look out for in 2025](https://sifted.eu/articles/eu-startup-regulation-2025)
 * [2025-02-23, 20:05:49](https://news.ycombinator.com/item?id=43152704) - [Show HN: Jq-Like Tool for Markdown](https://github.com/yshavit/mdq)
 * [2025-02-23, 19:53:03](https://news.ycombinator.com/item?id=43152587) - [European word translator: an interactive map showing words in over 30 languages](https://ukdataexplorer.com/european-translator/)
 * [2025-02-23, 19:36:49](https://news.ycombinator.com/item?id=43152407) - [AI-designed chips are so weird that 'humans cannot understand them'](https://www.livescience.com/technology/computing/humans-cannot-really-understand-them-weird-ai-designed-chip-is-unlike-any-other-made-by-humans-and-performs-much-better)
 * [2025-02-23, 19:13:18](https://news.ycombinator.com/item?id=43152154) - [In memoriam](https://onlinesafetyact.co.uk/in_memoriam/)
-* [2025-02-23, 18:34:42](https://news.ycombinator.com/item?id=43151775) - [Technofossils: Humanity's eternal testament will be plastic bags, cheap clothes](https://www.theguardian.com/science/2025/feb/22/technofossils-how-plastic-bags-and-chicken-bones-will-become-our-eternal-legacy)
 * [2025-02-23, 17:46:09](https://news.ycombinator.com/item?id=43151320) - [Decades of Research Misconduct Stalled an Alzheimer's Cure](https://www.sciencefriday.com/articles/doctored-book-excerpt/)
 * [2025-02-23, 17:43:34](https://news.ycombinator.com/item?id=43151294) - [WhiteSur: macOS-like theme for GTK desktops](https://github.com/vinceliuice/WhiteSur-gtk-theme)
 * [2025-02-23, 17:00:51](https://news.ycombinator.com/item?id=43150885) - [PropRise (YC S23) Is Hiring Engineer #1](https://www.ycombinator.com/companies/proprise/jobs/ppipLUK-founding-engineer)
