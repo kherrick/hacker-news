@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-20](index.md)
 
+* [2025-02-20, 23:47:04](https://news.ycombinator.com/item?id=43122089) - [AI CUDA Engineer: Agentic CUDA Kernel Discovery, Optimization and Composition](https://sakana.ai/ai-cuda-engineer/)
 * [2025-02-20, 23:31:12](https://news.ycombinator.com/item?id=43121920) - [I'm running for the OSI board maybe](https://blog.luke.wf/2025/02/im-running-for-osi-board-maybe.html)
 * [2025-02-20, 23:29:35](https://news.ycombinator.com/item?id=43121905) - [Netflix to invest $1B in Mexico over next 4 years](https://www.reuters.com/business/media-telecom/netflix-invest-1-billion-mexico-over-next-4-years-2025-02-20/)
 * [2025-02-20, 23:23:16](https://news.ycombinator.com/item?id=43121826) - [Petition to Remove the Canadian Government from Twitter](https://www.ourcommons.ca/petitions/en/Petition/Sign/e-5359)
