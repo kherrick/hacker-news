@@ -22,6 +22,7 @@
 * [2025-02-19, 19:54:16](https://news.ycombinator.com/item?id=43106687) - [What are Majorana zero modes?](https://mathstodon.xyz/@johncarlosbaez/114031919391285877)
 * [2025-02-19, 19:44:35](https://news.ycombinator.com/item?id=43106574) - [Protoclone, the first bipedal, musculoskeletal Android](https://clonerobotics.com/android/)
 * [2025-02-19, 19:36:20](https://news.ycombinator.com/item?id=43106454) - [Minuteman III test showcases readiness of U.S. nuclear force's deterrent](https://www.stratcom.mil/Media/News/News-Article-View/Article/4070577/minuteman-iii-test-launch-showcases-readiness-of-us-nuclear-forces-safe-effecti/)
+* [2025-02-19, 19:30:58](https://news.ycombinator.com/item?id=43106374) - [Engineers turn the body's goo into new glue](https://news.mit.edu/2025/engineers-turn-bodys-goo-into-new-glue-0217)
 * [2025-02-19, 19:22:01](https://news.ycombinator.com/item?id=43106245) - [One Head, Two Brains (2015)](https://www.theatlantic.com/health/archive/2015/07/split-brain-research-sperry-gazzaniga/399290/)
 * [2025-02-19, 19:16:17](https://news.ycombinator.com/item?id=43106158) - [Growing Mozilla – and evolving our leadership](https://blog.mozilla.org/en/mozilla/mozilla-leadership-growth-planning-updates/)
 * [2025-02-19, 19:05:16](https://news.ycombinator.com/item?id=43106012) - [Can I ethically use LLMs?](https://ntietz.com/blog/can-i-ethically-use-llms/)
