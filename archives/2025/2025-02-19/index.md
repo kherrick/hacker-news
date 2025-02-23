@@ -67,6 +67,7 @@
 * [2025-02-19, 11:03:27](https://news.ycombinator.com/item?id=43100821) - [PEP 486 – Make the Python Launcher aware of virtual environments (2015)](https://peps.python.org/pep-0486/)
 * [2025-02-19, 10:35:28](https://news.ycombinator.com/item?id=43100648) - [The reality of long-term software maintenance from the maintainer's perspective](https://www.construct.net/en/blogs/ashleys-blog-2/reality-long-term-software-1892)
 * [2025-02-19, 09:42:03](https://news.ycombinator.com/item?id=43100359) - [Are SSDs more reliable than hard drives?](https://www.backblaze.com/blog/are-ssds-really-more-reliable-than-hard-drives/)
+* [2025-02-19, 09:24:02](https://news.ycombinator.com/item?id=43100260) - [Show HN: AI-native browser game that users can craft unlimited 3D items](https://0.space/about)
 * [2025-02-19, 08:27:50](https://news.ycombinator.com/item?id=43099894) - [Tetris in PostScript](https://github.com/nst/PSTris)
 * [2025-02-19, 08:15:14](https://news.ycombinator.com/item?id=43099826) - [Ensuring Accountability for All Agencies](https://www.whitehouse.gov/presidential-actions/2025/02/ensuring-accountability-for-all-agencies/)
 * [2025-02-19, 08:15:14](https://news.ycombinator.com/item?id=43099826) - [A few hours ago, the US has turned into a de-facto dictatorship](https://old.reddit.com/r/law/comments/1isvzgu/the_full_executive_order_is_out_this_is_the)
