@@ -65,6 +65,7 @@
 * [2025-02-19, 12:22:45](https://news.ycombinator.com/item?id=43101280) - [Show HN: I analyzed 1500+ job ads to find the most wanted skills by recruiters](https://skillsets.tech/)
 * [2025-02-19, 12:16:21](https://news.ycombinator.com/item?id=43101231) - [NASA says 'City killer' asteroid now has 3.1% chance of hitting Earth](https://www.france24.com/en/live-news/20250218-city-killer-asteroid-now-has-3-1-chance-of-hitting-earth-nasa)
 * [2025-02-19, 12:12:52](https://news.ycombinator.com/item?id=43101204) - [Greg K-H: \"Writing new code in Rust is a win for all of us\"](https://lore.kernel.org/rust-for-linux/2025021954-flaccid-pucker-f7d9@gregkh/)
+* [2025-02-19, 11:40:11](https://news.ycombinator.com/item?id=43101013) - [Stargate Project II? Declassified US Government Research in RV and Psi [pdf]](https://www.governmentattic.org/57docs/ThesisAnomalousHumanCognition2023.pdf)
 * [2025-02-19, 11:39:06](https://news.ycombinator.com/item?id=43101009) - [A SpaceX team is being brought in to overhaul FAA's air traffic control system](https://www.theverge.com/news/614078/faa-air-traffic-control-spacex-elon-musk-layoff-staff-shortage)
 * [2025-02-19, 11:11:56](https://news.ycombinator.com/item?id=43100870) - [Extreme Server Side Rendering](https://www.scd31.com/posts/extreme-server-side-rendering)
 * [2025-02-19, 11:03:27](https://news.ycombinator.com/item?id=43100821) - [PEP 486 – Make the Python Launcher aware of virtual environments (2015)](https://peps.python.org/pep-0486/)
