@@ -8,6 +8,7 @@
 * [2025-02-22, 23:32:24](https://news.ycombinator.com/item?id=43144421) - [Why are you lying to me? What the hell is wrong with you?](https://respectfulleadership.substack.com/p/a-true-story-software-bugs-dishonesty)
 * [2025-02-22, 23:32:00](https://news.ycombinator.com/item?id=43144415) - [Our Big Oops](https://www.overcomingbias.com/p/our-big-oops)
 * [2025-02-22, 23:06:20](https://news.ycombinator.com/item?id=43144223) - [Curl website traffic Feb 2025](https://daniel.haxx.se/blog/2025/02/22/curl-website-traffic-feb-2025/)
+* [2025-02-22, 22:43:36](https://news.ycombinator.com/item?id=43144040) - [Vine: A programming language based on Interaction Nets](https://vine.dev/docs/)
 * [2025-02-22, 22:43:36](https://news.ycombinator.com/item?id=43144040) - [Vine: A programming language based on Interaction Nets](https://vine.dev/)
 * [2025-02-22, 22:22:03](https://news.ycombinator.com/item?id=43143871) - [Gig workers worked more but earned less in 2024, a new study shows](https://www.businessinsider.com/uber-lyft-instacart-gig-workers-saw-earnings-fall-2024-2025-2)
 * [2025-02-22, 22:13:03](https://news.ycombinator.com/item?id=43143806) - [Official sequel to Cracking the Coding Interview is out](https://interviewing.io/blog/we-co-wrote-the-official-sequel-to-cracking-the-coding-interview-introducing-beyond-ctci)
