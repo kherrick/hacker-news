@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-23, 17:51:52",
+      "https://news.ycombinator.com/item?id=43151364"
+    ],
+    [
+      "Turning Off All 8k EV Chargers at All Federal Government Buildings",
+      "https://www.thedrive.com/news/trump-is-turning-off-all-8000-ev-chargers-at-all-federal-government-buildings"
+    ]
+  ],
+  [
+    [
+      "2025-02-23, 17:43:34",
+      "https://news.ycombinator.com/item?id=43151294"
+    ],
+    [
+      "WhiteSur: macOS-like theme for GTK desktops",
+      "https://github.com/vinceliuice/WhiteSur-gtk-theme"
+    ]
+  ],
+  [
+    [
       "2025-02-23, 17:30:06",
       "https://news.ycombinator.com/item?id=43151170"
     ],
@@ -141,26 +161,6 @@
   ],
   [
     [
-      "2025-02-23, 10:55:47",
-      "https://news.ycombinator.com/item?id=43148408"
-    ],
-    [
-      "Tell HN: Five random IndieWeb blog links on your terminal",
-      "https://news.ycombinator.com/item?id=43148408"
-    ]
-  ],
-  [
-    [
-      "2025-02-23, 09:29:50",
-      "https://news.ycombinator.com/item?id=43148032"
-    ],
-    [
-      "Lambda Calculus and Lisp, part 1",
-      "https://babbagefiles.xyz/lambda-calculus-and-lisp-01/"
-    ]
-  ],
-  [
-    [
       "2025-02-23, 08:18:15",
       "https://news.ycombinator.com/item?id=43147698"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2025-02-20, 10:08:05",
-      "https://news.ycombinator.com/item?id=43113012"
-    ],
-    [
-      "Brazilian ship sunk by WWII U-Boat located",
-      "https://archaeology.org/news/2025/02/19/brazilian-ship-sunk-by-wwii-u-boat-located/"
-    ]
-  ],
-  [
-    [
       "2025-02-20, 06:03:36",
       "https://news.ycombinator.com/item?id=43111615"
     ],
@@ -277,6 +267,16 @@
     [
       "What are Majorana zero modes?",
       "https://mathstodon.xyz/@johncarlosbaez/114031919391285877"
+    ]
+  ],
+  [
+    [
+      "2025-02-19, 19:18:50",
+      "https://news.ycombinator.com/item?id=43106198"
+    ],
+    [
+      "Bringing On-Chain Data to AI Agents with SQD and ElizaOS",
+      "https://blog.sqd.dev/fuel-your-eliza-ai-agent-with-sqd/"
     ]
   ],
   [
