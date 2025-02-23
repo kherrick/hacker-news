@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-23, 17:00:51](https://news.ycombinator.com/item?id=43150885) - [PropRise (YC S23) Is Hiring Engineer #1](https://www.ycombinator.com/companies/proprise/jobs/ppipLUK-founding-engineer)
 * [2025-02-23, 15:51:11](https://news.ycombinator.com/item?id=43150116) - [Directus – real-time REST and GraphQL API of any SQL database](https://github.com/directus/directus)
 * [2025-02-23, 15:48:19](https://news.ycombinator.com/item?id=43150085) - [It is no longer safe to move our governments and societies to US clouds](https://berthub.eu/articles/posts/you-can-no-longer-base-your-government-and-society-on-us-clouds/)
 * [2025-02-23, 15:24:02](https://news.ycombinator.com/item?id=43149883) - [Making any integer with four 2s](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)
@@ -8,7 +9,6 @@
 * [2025-02-23, 14:53:42](https://news.ycombinator.com/item?id=43149648) - [Pee If You Want to Go Deeper (2021)](https://peeifyouwanttogofaster.com/2021/05/24/pee-if-you-want-to-go-deeper/)
 * [2025-02-23, 14:27:18](https://news.ycombinator.com/item?id=43149437) - [Navigating a Broken Dev Culture](https://news.ycombinator.com/item?id=43149437)
 * [2025-02-23, 14:00:25](https://news.ycombinator.com/item?id=43149266) - [Vietnamese Graphic Design](https://vietgd.com/)
-* [2025-02-23, 13:47:11](https://news.ycombinator.com/item?id=43149186) - [See the submissions you have flagged (maybe accidentally)](https://news.ycombinator.com/flagged)
 * [2025-02-23, 12:04:43](https://news.ycombinator.com/item?id=43148697) - [BYD has already produced its first solid-state cells](https://www.electrive.com/2025/02/17/byd-has-already-produced-its-first-solid-state-cells/)
 * [2025-02-23, 12:01:56](https://news.ycombinator.com/item?id=43148683) - [War Rooms vs. Deep Investigations](https://rachelbythebay.com/w/2025/02/22/war/)
 * [2025-02-23, 11:55:51](https://news.ycombinator.com/item?id=43148664) - [OpenJKDF2 – A cross-platform reimplementation of JKDF2 in C](https://github.com/shinyquagsire23/OpenJKDF2)

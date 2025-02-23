@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-23](index.md)
 
+* [2025-02-23, 17:00:51](https://news.ycombinator.com/item?id=43150885) - [PropRise (YC S23) Is Hiring Engineer #1](https://www.ycombinator.com/companies/proprise/jobs/ppipLUK-founding-engineer)
 * [2025-02-23, 15:51:11](https://news.ycombinator.com/item?id=43150116) - [Directus – real-time REST and GraphQL API of any SQL database](https://github.com/directus/directus)
 * [2025-02-23, 15:48:19](https://news.ycombinator.com/item?id=43150085) - [It is no longer safe to move our governments and societies to US clouds](https://berthub.eu/articles/posts/you-can-no-longer-base-your-government-and-society-on-us-clouds/)
 * [2025-02-23, 15:28:49](https://news.ycombinator.com/item?id=43149928) - [In war against DEI in science, researchers see collateral damage](https://arstechnica.com/science/2025/02/in-war-against-dei-in-science-researchers-see-collateral-damage/)
