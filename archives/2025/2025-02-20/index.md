@@ -56,6 +56,7 @@
 * [2025-02-20, 12:39:36](https://news.ycombinator.com/item?id=43113997) - [When Your Last Name Is Null, Nothing Works](https://www.wsj.com/lifestyle/null-last-name-computer-scientists-forms-f0a43b08)
 * [2025-02-20, 12:24:04](https://news.ycombinator.com/item?id=43113871) - [Humane (Or Red Flags to Spot for Next Time)](https://lmnt.me/blog/humane.html)
 * [2025-02-20, 12:13:57](https://news.ycombinator.com/item?id=43113790) - [Customizable HTML Select](https://developer.chrome.com/blog/rfc-customizable-select)
+* [2025-02-20, 11:19:32](https://news.ycombinator.com/item?id=43113435) - [Satya Nadella on Knowledge Work](https://solmaz.io/log/2025/02/20/satya-nadella-on-knowledge-work/)
 * [2025-02-20, 11:13:46](https://news.ycombinator.com/item?id=43113397) - [The Amazon Appstore for Android devices will be discontinued on August 20, 2025](https://www.amazon.com/gp/mas/appstore/android/faq)
 * [2025-02-20, 10:29:37](https://news.ycombinator.com/item?id=43113134) - [Do ambiguous images provide psychological insights? Testing a popular claim](https://peerj.com/articles/19022/)
 * [2025-02-20, 10:09:56](https://news.ycombinator.com/item?id=43113024) - [After 20 Years, Math Couple Solves Major Group Theory Problem](https://www.quantamagazine.org/after-20-years-math-couple-solves-major-group-theory-problem-20250219/)
