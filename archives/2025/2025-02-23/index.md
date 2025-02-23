@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-23](index.md)
 
+* [2025-02-23, 19:42:15](https://news.ycombinator.com/item?id=43152470) - [Trump will kill CHIPS Act by gutting NIST employees](https://semiwiki.com/semiconductor-services/semiconductor-advisors/353373-chips-act-dies-because-employees-are-fired-nist-chips-people-are-probationary/)
 * [2025-02-23, 19:36:49](https://news.ycombinator.com/item?id=43152407) - [AI-designed chips are so weird that 'humans cannot understand them'](https://www.livescience.com/technology/computing/humans-cannot-really-understand-them-weird-ai-designed-chip-is-unlike-any-other-made-by-humans-and-performs-much-better)
 * [2025-02-23, 19:15:10](https://news.ycombinator.com/item?id=43152178) - [Lobsters blocking UK users because of the Online Safety Act](https://web.archive.org/web/20250108091906/https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with)
 * [2025-02-23, 19:15:10](https://news.ycombinator.com/item?id=43152178) - [Lobsters blocking UK users because of the Online Safety Act](https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with)
