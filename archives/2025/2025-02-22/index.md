@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-22](index.md)
 
+* [2025-02-22, 23:55:57](https://news.ycombinator.com/item?id=43144611) - [Ask for no, don't ask for yes (2022)](https://www.mooreds.com/wordpress/archives/3518)
 * [2025-02-22, 23:32:24](https://news.ycombinator.com/item?id=43144421) - [Why are you lying to me? What the hell is wrong with you?](https://respectfulleadership.substack.com/p/a-true-story-software-bugs-dishonesty)
 * [2025-02-22, 23:32:00](https://news.ycombinator.com/item?id=43144415) - [Our Big Oops](https://www.overcomingbias.com/p/our-big-oops)
 * [2025-02-22, 23:06:20](https://news.ycombinator.com/item?id=43144223) - [Curl website traffic Feb 2025](https://daniel.haxx.se/blog/2025/02/22/curl-website-traffic-feb-2025/)

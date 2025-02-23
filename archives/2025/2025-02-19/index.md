@@ -72,6 +72,7 @@
 * [2025-02-19, 08:15:14](https://news.ycombinator.com/item?id=43099826) - [Ensuring Accountability for All Agencies](https://www.whitehouse.gov/presidential-actions/2025/02/ensuring-accountability-for-all-agencies/)
 * [2025-02-19, 08:15:14](https://news.ycombinator.com/item?id=43099826) - [A few hours ago, the US has turned into a de-facto dictatorship](https://old.reddit.com/r/law/comments/1isvzgu/the_full_executive_order_is_out_this_is_the)
 * [2025-02-19, 08:04:45](https://news.ycombinator.com/item?id=43099793) - [The 88x31 GIF Collection](https://cyber.dabamos.de/88x31/)
+* [2025-02-19, 06:34:35](https://news.ycombinator.com/item?id=43099233) - [Meta’s brave new horizons](https://www.ft.com/content/df26fc4c-5488-4994-b2b8-be4bfbda2724)
 * [2025-02-19, 04:49:46](https://news.ycombinator.com/item?id=43098705) - [Exec Order for \"presidential supervision\" of independent regulatory agencies](https://www.whitehouse.gov/presidential-actions/2025/02/ensuring-accountability-for-all-agencies/)
 * [2025-02-19, 04:48:09](https://news.ycombinator.com/item?id=43098690) - [Go-msquic: A new QUIC/HTTP3 library for Go](https://github.com/noboruma/go-msquic)
 * [2025-02-19, 04:35:16](https://news.ycombinator.com/item?id=43098626) - [Steve Jackson Games Is Bringing the Fighting Fantasy Books to the US](https://www.sjgames.com/fightingfantasy/)
