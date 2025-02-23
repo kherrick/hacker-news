@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-23](index.md)
 
 * [2025-02-23, 12:04:43](https://news.ycombinator.com/item?id=43148697) - [BYD has already produced its first solid-state cells](https://www.electrive.com/2025/02/17/byd-has-already-produced-its-first-solid-state-cells/)
+* [2025-02-23, 12:01:56](https://news.ycombinator.com/item?id=43148683) - [War Rooms vs. Deep Investigations](https://rachelbythebay.com/w/2025/02/22/war/)
 * [2025-02-23, 11:55:51](https://news.ycombinator.com/item?id=43148664) - [OpenJKDF2 – A cross-platform reimplementation of JKDF2 in C](https://github.com/shinyquagsire23/OpenJKDF2)
 * [2025-02-23, 11:03:37](https://news.ycombinator.com/item?id=43148438) - [But good sir, what is electricity?](https://lcamtuf.substack.com/p/but-good-sir-what-is-electricity)
 * [2025-02-23, 10:42:09](https://news.ycombinator.com/item?id=43148355) - [A Black Fungus Might Be Healing Chernobyl by Drinking Radiation](https://makerfairerome.eu/en/a-black-fungus-might-be-healing-chernobyl-by-drinking-radiation/)
@@ -16,6 +17,7 @@
 * [2025-02-23, 04:37:57](https://news.ycombinator.com/item?id=43146581) - [No One Lives Forever (NOLF) Revival Edition](http://nolfrevival.tk/)
 * [2025-02-23, 03:55:50](https://news.ycombinator.com/item?id=43146357) - [Men overestimate women's preference for masculinity](https://www.bps.org.uk/research-digest/men-overestimate-womens-preference-masculinity)
 * [2025-02-23, 03:43:28](https://news.ycombinator.com/item?id=43146274) - [IQ isn't 160. No one's is](https://www.theseedsofscience.pub/p/your-iq-isnt-160-no-ones-is)
+* [2025-02-23, 03:22:04](https://news.ycombinator.com/item?id=43146155) - [Thailand to Cut Power to Myanmar Scam Hubs](https://bangkoklocal.info/2025/02/05/thailand-to-cut-power-to-myanmar-scam-hubs/)
 * [2025-02-23, 02:58:43](https://news.ycombinator.com/item?id=43145982) - [Stingray Fish Delousing Underwater Laser in Action (2018) [video]](https://www.youtube.com/watch?v=bZxw-Ji7K94)
 * [2025-02-23, 02:54:17](https://news.ycombinator.com/item?id=43145951) - [Show HN: We made a Meta Quest3 see through walls](https://0xredj.medium.com/how-we-built-a-vr-headset-that-sees-people-through-walls-treehacks-25-e517cb805b9c)
 * [2025-02-23, 01:58:18](https://news.ycombinator.com/item?id=43145527) - [Electronics Teardown: Stelo 2-Week Continuous Glucose Monitor (2024)](https://andykong.org/blog/cgmteardown1)

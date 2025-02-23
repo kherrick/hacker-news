@@ -68,6 +68,7 @@
 * [2025-02-20, 07:00:22](https://news.ycombinator.com/item?id=43111898) - [The Forecasting Company (YC S24) Is Hiring](https://www.ycombinator.com/companies/the-forecasting-company/jobs/yxUzVUm-founding-machine-learning-engineer)
 * [2025-02-20, 06:58:49](https://news.ycombinator.com/item?id=43111889) - [Britain dances to JD Vance's tune as it renames AI institute](https://www.politico.eu/article/jd-vance-britain-ai-safety-institute-aisi-security/)
 * [2025-02-20, 06:55:23](https://news.ycombinator.com/item?id=43111876) - [Show HN: Devv – launch your API services in minutes](https://devv.ai/build)
+* [2025-02-20, 06:03:36](https://news.ycombinator.com/item?id=43111615) - [Rust, C++, and Python trends in jobs on Hacker News (February 2025)](https://martin.wojtczyk.de/2025/02/20/rust-c-and-python-trends-in-jobs-on-hacker-news-february-2025/)
 * [2025-02-20, 05:35:57](https://news.ycombinator.com/item?id=43111474) - [Mistral's Le Chat tops 1M downloads in just 14 days](https://techcrunch.com/2025/02/19/mistrals-le-chat-tops-1m-downloads-in-just-14-days/)
 * [2025-02-20, 05:33:24](https://news.ycombinator.com/item?id=43111457) - [Xbox Pushes Ahead with New Generative AI. Developers Say 'Nobody Will Want This'](https://www.wired.com/story/xbox-muse-generative-ai-developers-say-nobody-will-want-this/)
 * [2025-02-20, 05:25:47](https://news.ycombinator.com/item?id=43111409) - [Show HN: LookAway – a native macOS app for building healthy screen habits](https://lookaway.app/)
