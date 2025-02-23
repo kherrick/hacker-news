@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-02-23, 14:46:47",
-      "https://news.ycombinator.com/item?id=43149591"
-    ],
-    [
-      "Immune markers of post COVID vaccination syndrome indicate future research",
-      "https://news.yale.edu/2025/02/19/immune-markers-post-vaccination-syndrome-indicate-future-research-directions"
-    ]
-  ],
-  [
-    [
       "2025-02-23, 14:27:18",
       "https://news.ycombinator.com/item?id=43149437"
     ],
@@ -197,6 +187,16 @@
     [
       "Electronics Teardown: Stelo Continuous Glucose Monitor (2024)",
       "https://andykong.org/blog/cgmteardown1"
+    ]
+  ],
+  [
+    [
+      "2025-02-23, 01:03:04",
+      "https://news.ycombinator.com/item?id=43145106"
+    ],
+    [
+      "Clang Static Analyzer and the Z3 constraint solver (2022)",
+      "https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/"
     ]
   ],
   [
