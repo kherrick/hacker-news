@@ -2,6 +2,7 @@
 
 * [2025-02-23, 17:30:06](https://news.ycombinator.com/item?id=43151170) - [Bybit Sees over $4B 'Bank Run' After Crypto's Biggest Hack](https://www.coindesk.com/business/2025/02/22/bybit-sees-over-usd4-billion-bank-run-after-crypto-s-biggest-hack)
 * [2025-02-23, 17:00:51](https://news.ycombinator.com/item?id=43150885) - [PropRise (YC S23) Is Hiring Engineer #1](https://www.ycombinator.com/companies/proprise/jobs/ppipLUK-founding-engineer)
+* [2025-02-23, 16:03:13](https://news.ycombinator.com/item?id=43150217) - [Ultima VII: Revisited](https://www.u7revisited.com/)
 * [2025-02-23, 15:51:11](https://news.ycombinator.com/item?id=43150116) - [Directus – real-time REST and GraphQL API of any SQL database](https://github.com/directus/directus)
 * [2025-02-23, 15:48:19](https://news.ycombinator.com/item?id=43150085) - [It is no longer safe to move our governments and societies to US clouds](https://berthub.eu/articles/posts/you-can-no-longer-base-your-government-and-society-on-us-clouds/)
 * [2025-02-23, 15:24:02](https://news.ycombinator.com/item?id=43149883) - [Making any integer with four 2s](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)
@@ -18,7 +19,6 @@
 * [2025-02-23, 08:18:15](https://news.ycombinator.com/item?id=43147698) - [Half-Life](https://www.filfre.net/2024/12/half-life/)
 * [2025-02-23, 04:37:57](https://news.ycombinator.com/item?id=43146581) - [No One Lives Forever (NOLF) Revival Edition](http://nolfrevival.tk/)
 * [2025-02-23, 03:22:04](https://news.ycombinator.com/item?id=43146155) - [Thailand to Cut Power to Myanmar Scam Hubs](https://bangkoklocal.info/2025/02/05/thailand-to-cut-power-to-myanmar-scam-hubs/)
-* [2025-02-23, 01:58:18](https://news.ycombinator.com/item?id=43145527) - [Electronics Teardown: Stelo Continuous Glucose Monitor (2024)](https://andykong.org/blog/cgmteardown1)
 * [2025-02-23, 00:37:57](https://news.ycombinator.com/item?id=43144940) - [Penn to reduce graduate admissions, rescind acceptances amid research cuts](https://www.thedp.com/article/2025/02/penn-graduate-student-class-size-cut-trump-funding)
 * [2025-02-22, 23:55:57](https://news.ycombinator.com/item?id=43144611) - [Ask for no, don't ask for yes (2022)](https://www.mooreds.com/wordpress/archives/3518)
 * [2025-02-22, 22:08:42](https://news.ycombinator.com/item?id=43143777) - [OpenBSD Innovations](https://www.openbsd.org/innovations.html)
