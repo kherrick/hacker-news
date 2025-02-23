@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-02-23](index.md)
 
+* [2025-02-23, 18:17:08](https://news.ycombinator.com/item?id=43151580) - [Grok 3 claims its system prompt includes censorship about Musk/Trump](https://old.reddit.com/r/OpenAI/comments/1iw8eok/elon_musk_is_trying_to_censor_grok_3_which_the/)
 * [2025-02-23, 17:51:52](https://news.ycombinator.com/item?id=43151364) - [Turning Off All 8k EV Chargers at All Federal Government Buildings](https://www.thedrive.com/news/trump-is-turning-off-all-8000-ev-chargers-at-all-federal-government-buildings)
+* [2025-02-23, 17:46:09](https://news.ycombinator.com/item?id=43151320) - [Decades of Research Misconduct Stalled an Alzheimer's Cure](https://www.sciencefriday.com/articles/doctored-book-excerpt/)
 * [2025-02-23, 17:43:34](https://news.ycombinator.com/item?id=43151294) - [WhiteSur: macOS-like theme for GTK desktops](https://github.com/vinceliuice/WhiteSur-gtk-theme)
 * [2025-02-23, 17:30:06](https://news.ycombinator.com/item?id=43151170) - [Bybit Sees over $4B 'Bank Run' After Crypto's Biggest Hack](https://www.coindesk.com/business/2025/02/22/bybit-sees-over-usd4-billion-bank-run-after-crypto-s-biggest-hack)
 * [2025-02-23, 17:00:51](https://news.ycombinator.com/item?id=43150885) - [PropRise (YC S23) Is Hiring Engineer #1](https://www.ycombinator.com/companies/proprise/jobs/ppipLUK-founding-engineer)
