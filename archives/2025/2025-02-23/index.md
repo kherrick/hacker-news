@@ -6,6 +6,7 @@
 
 * [2025-02-23, 20:31:12](https://news.ycombinator.com/item?id=43152937) - [EU regulations to look out for in 2025](https://sifted.eu/articles/eu-startup-regulation-2025)
 * [2025-02-23, 20:05:49](https://news.ycombinator.com/item?id=43152704) - [Show HN: Jq-Like Tool for Markdown](https://github.com/yshavit/mdq)
+* [2025-02-23, 19:53:03](https://news.ycombinator.com/item?id=43152587) - [European word translator: an interactive map showing words in over 30 languages](https://ukdataexplorer.com/european-translator/)
 * [2025-02-23, 19:42:15](https://news.ycombinator.com/item?id=43152470) - [Trump will kill CHIPS Act by gutting NIST employees](https://semiwiki.com/semiconductor-services/semiconductor-advisors/353373-chips-act-dies-because-employees-are-fired-nist-chips-people-are-probationary/)
 * [2025-02-23, 19:36:49](https://news.ycombinator.com/item?id=43152407) - [AI-designed chips are so weird that 'humans cannot understand them'](https://www.livescience.com/technology/computing/humans-cannot-really-understand-them-weird-ai-designed-chip-is-unlike-any-other-made-by-humans-and-performs-much-better)
 * [2025-02-23, 19:15:10](https://news.ycombinator.com/item?id=43152178) - [Lobsters blocking UK users because of the Online Safety Act](https://web.archive.org/web/20250108091906/https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with)
