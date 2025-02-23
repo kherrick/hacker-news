@@ -9,6 +9,7 @@
 * [2025-02-23, 14:20:35](https://news.ycombinator.com/item?id=43149398) - [Why are Rust Foundation execs paid via foreign entities, not directly? [Page 35] [pdf]](https://rustfoundation.org/wp-content/uploads/2025/01/form-990-2023.pdf)
 * [2025-02-23, 13:47:11](https://news.ycombinator.com/item?id=43149186) - [See the submissions you have flagged (maybe accidentally)](https://news.ycombinator.com/flagged)
 * [2025-02-23, 12:52:10](https://news.ycombinator.com/item?id=43148911) - [Countries spend huge sums on fossil fuel subsidies – why they're so hard to end](https://theconversation.com/countries-spend-huge-sums-on-fossil-fuel-subsidies-why-theyre-so-hard-to-eliminate-239346)
+* [2025-02-23, 12:28:00](https://news.ycombinator.com/item?id=43148803) - [GitHub Hosting Malware Won't Remove After Report](https://github.com/UpdaterCisco)
 * [2025-02-23, 12:04:43](https://news.ycombinator.com/item?id=43148697) - [BYD has already produced its first solid-state cells](https://www.electrive.com/2025/02/17/byd-has-already-produced-its-first-solid-state-cells/)
 * [2025-02-23, 12:01:56](https://news.ycombinator.com/item?id=43148683) - [War Rooms vs. Deep Investigations](https://rachelbythebay.com/w/2025/02/22/war/)
 * [2025-02-23, 11:55:51](https://news.ycombinator.com/item?id=43148664) - [OpenJKDF2 – A cross-platform reimplementation of JKDF2 in C](https://github.com/shinyquagsire23/OpenJKDF2)
