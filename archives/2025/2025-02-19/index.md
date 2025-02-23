@@ -57,6 +57,7 @@
 * [2025-02-19, 14:15:54](https://news.ycombinator.com/item?id=43102375) - ['Pokémon Go' Maker Nears $3.5B Deal to Sell Games Unit](https://www.bloomberg.com/news/articles/2025-02-19/-pokemon-go-maker-nears-3-5-billion-deal-to-sell-games-unit)
 * [2025-02-19, 14:15:48](https://news.ycombinator.com/item?id=43102374) - [What 5 Megabytes of Data Looked Like in 1966 (62,500 punched cards)](https://www.vintag.es/2025/02/5-megabytes-of-computer-data.html)
 * [2025-02-19, 14:05:23](https://news.ycombinator.com/item?id=43102284) - [Multiple Russia-aligned threat actors actively targeting Signal Messenger](https://cloud.google.com/blog/topics/threat-intelligence/russia-targeting-signal-messenger)
+* [2025-02-19, 14:01:53](https://news.ycombinator.com/item?id=43102247) - [Weird Kaggle and the Superiority of Books](https://blog.griffens.net/blog/weird-kaggle-books-reflections/)
 * [2025-02-19, 13:59:52](https://news.ycombinator.com/item?id=43102231) - [Penguins Help to Map Antarctica's Growing Mercury Threat](https://www.scientificamerican.com/article/penguins-help-to-map-antarcticas-growing-mercury-threat/)
 * [2025-02-19, 13:54:51](https://news.ycombinator.com/item?id=43102182) - [Seeing Through the Spartan Mirage](https://worldhistory.substack.com/p/the-spartan-mirage)
 * [2025-02-19, 13:14:16](https://news.ycombinator.com/item?id=43101774) - [Experiment: Can 3D improve AI video consistency?](https://backdroptech.github.io/3d-to-video/)
