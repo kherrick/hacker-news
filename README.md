@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-23, 23:12:46](https://news.ycombinator.com/item?id=43154148) - [Adding Mastodon Comments to Your Blog](https://beej.us/blog/data/mastodon-comments/)
 * [2025-02-23, 21:11:44](https://news.ycombinator.com/item?id=43153262) - [Bitwarden Authenticator](https://bitwarden.com/products/authenticator/)
 * [2025-02-23, 20:31:12](https://news.ycombinator.com/item?id=43152937) - [EU regulations to look out for in 2025](https://sifted.eu/articles/eu-startup-regulation-2025)
 * [2025-02-23, 20:05:49](https://news.ycombinator.com/item?id=43152704) - [Show HN: Jq-Like Tool for Markdown](https://github.com/yshavit/mdq)
@@ -16,7 +17,6 @@
 * [2025-02-23, 14:53:42](https://news.ycombinator.com/item?id=43149648) - [Pee If You Want to Go Deeper (2021)](https://peeifyouwanttogofaster.com/2021/05/24/pee-if-you-want-to-go-deeper/)
 * [2025-02-23, 14:00:25](https://news.ycombinator.com/item?id=43149266) - [Vietnamese Graphic Design](https://vietgd.com/)
 * [2025-02-23, 12:01:56](https://news.ycombinator.com/item?id=43148683) - [War Rooms vs. Deep Investigations](https://rachelbythebay.com/w/2025/02/22/war/)
-* [2025-02-23, 11:55:51](https://news.ycombinator.com/item?id=43148664) - [OpenJKDF2 – A cross-platform reimplementation of JKDF2 in C](https://github.com/shinyquagsire23/OpenJKDF2)
 * [2025-02-23, 11:03:37](https://news.ycombinator.com/item?id=43148438) - [But good sir, what is electricity?](https://lcamtuf.substack.com/p/but-good-sir-what-is-electricity)
 * [2025-02-23, 08:18:15](https://news.ycombinator.com/item?id=43147698) - [Half-Life](https://www.filfre.net/2024/12/half-life/)
 * [2025-02-23, 03:22:04](https://news.ycombinator.com/item?id=43146155) - [Thailand to Cut Power to Myanmar Scam Hubs](https://bangkoklocal.info/2025/02/05/thailand-to-cut-power-to-myanmar-scam-hubs/)
