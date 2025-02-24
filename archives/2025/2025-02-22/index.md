@@ -43,6 +43,7 @@
 * [2025-02-22, 14:29:23](https://news.ycombinator.com/item?id=43139209) - [Brazil justice orders ban of video platform Rumble](https://www.dw.com/en/brazil-justice-orders-ban-of-video-platform-rumble/a-71708890)
 * [2025-02-22, 14:24:21](https://news.ycombinator.com/item?id=43139172) - [Ask HN: Do US tech firms realize the backlash growing in Europe?](https://news.ycombinator.com/item?id=43139172)
 * [2025-02-22, 14:20:04](https://news.ycombinator.com/item?id=43139138) - [Show HN: I Built a Visual Workflow Automation Platform – FlowRipple](https://flowripple.com/)
+* [2025-02-22, 13:32:23](https://news.ycombinator.com/item?id=43138830) - [Torvalds: You can avoid Rust as a C maintainer, but you can't interfere with it](https://arstechnica.com/gadgets/2025/02/linux-leaders-pave-a-path-for-rust-in-kernel-while-supporting-c-veterans/)
 * [2025-02-22, 13:25:40](https://news.ycombinator.com/item?id=43138786) - [Florida insurers steered money to investors while claiming losses, study says](https://www.tampabay.com/news/florida-politics/2025/02/22/florida-insurance-profits-desantis-regulation-investors-crisis/)
 * [2025-02-22, 13:01:39](https://news.ycombinator.com/item?id=43138637) - [Accessing the Qualcomm Modem over USB on the RAK5010](https://danielmangum.com/posts/modem-usb-rak5010/)
 * [2025-02-22, 12:45:17](https://news.ycombinator.com/item?id=43138522) - [Doge says its savings total $55B, but analysis shows it's less](https://www.washingtonpost.com/business/2025/02/22/doge-savings-found-list-analysis/)

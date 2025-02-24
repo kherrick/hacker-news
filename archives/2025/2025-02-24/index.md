@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-24](index.md)
 
+* [2025-02-24, 11:29:26](https://news.ycombinator.com/item?id=43158318) - [Apache NetBeans 25](https://github.com/apache/netbeans/releases/tag/25)
+* [2025-02-24, 11:26:13](https://news.ycombinator.com/item?id=43158292) - [Is Ketamine Neurotoxic?](https://desmolysium.com/ketamineneurotoxic/)
 * [2025-02-24, 11:05:34](https://news.ycombinator.com/item?id=43158168) - [Apple Says It Will Add 20k Jobs, Spend $500B, Produce AI Servers in US](https://www.bloomberg.com/news/articles/2025-02-24/apple-says-it-will-add-20-000-jobs-spend-500-billion-produce-ai-servers-in-us)
 * [2025-02-24, 10:52:28](https://news.ycombinator.com/item?id=43158097) - [Show HN: RadiaCode – Python Library for RadiaCode-10x Radiation Detectors](https://github.com/cdump/radiacode)
 * [2025-02-24, 10:34:01](https://news.ycombinator.com/item?id=43157980) - [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/)
