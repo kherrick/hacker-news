@@ -51,6 +51,7 @@
 * [2025-02-21, 14:07:17](https://news.ycombinator.com/item?id=43127577) - [Why does target=\"_blank\" have an underscore in front?](https://kyrylo.org/html/2024/10/25/why-does-target-blank-have-an-underscore-in-front.html)
 * [2025-02-21, 14:06:40](https://news.ycombinator.com/item?id=43127568) - [Linus on Rust and the Kernel DMA Layer](https://lwn.net/ml/all/CAHk-=wgLbz1Bm8QhmJ4dJGSmTuV5w_R0Gwvg5kHrYr4Ko9dUHQ@mail.gmail.com/)
 * [2025-02-21, 13:54:16](https://news.ycombinator.com/item?id=43127425) - [Sweden Investigates New Cable Break Under Baltic Sea](https://www.nytimes.com/2025/02/21/world/europe/baltic-sea-cable-sweden.html)
+* [2025-02-21, 13:14:52](https://news.ycombinator.com/item?id=43127045) - [The Champion Who Memorized 80 Numbers in 13.5 Seconds](https://www.nytimes.com/2025/02/14/science/vishvaa-rajakumar-memory-techniques.html)
 * [2025-02-21, 12:32:08](https://news.ycombinator.com/item?id=43126741) - [EFF: Social media platforms are removing vital info on reproductive health](https://bsky.app/profile/eff.org/post/3likxtlnruk23)
 * [2025-02-21, 12:27:02](https://news.ycombinator.com/item?id=43126704) - [CDC terminates flu vaccine promotion campaign](https://www.npr.org/sections/shots-health-news/2025/02/19/nx-s1-5302906/cdc-flu-vaccine-campaign-terminated)
 * [2025-02-21, 11:40:30](https://news.ycombinator.com/item?id=43126416) - [HP ditches 15-minute wait time policy due to 'feedback'](https://www.theregister.com/2025/02/21/hp_ditches_15_minute_wait_time_call_centers/)
