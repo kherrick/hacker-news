@@ -59,6 +59,7 @@
 * [2025-02-21, 08:17:27](https://news.ycombinator.com/item?id=43125273) - [Show HN: BookWatch – Animated book summaries for visual learners](https://bookwatch.com)
 * [2025-02-21, 08:00:54](https://news.ycombinator.com/item?id=43125176) - [Running Systemd-Nspawn Containers](https://benjamintoll.com/2022/02/04/on-running-systemd-nspawn-containers/)
 * [2025-02-21, 07:42:45](https://news.ycombinator.com/item?id=43125089) - [Docker limits unauthenticated pulls to 10/HR/IP from Docker Hub, from March 1](https://docs.docker.com/docker-hub/usage/)
+* [2025-02-21, 07:12:17](https://news.ycombinator.com/item?id=43124902) - ['Indiana Jones' jailbreak approach highlights vulnerabilities of existing LLMs](https://techxplore.com/news/2025-02-indiana-jones-jailbreak-approach-highlights.html)
 * [2025-02-21, 05:55:50](https://news.ycombinator.com/item?id=43124436) - [US Judge invalidates blood glucose sensor patent, opens door for Apple Watch](https://www.patentlyapple.com/2025/02/a-federal-judge-has-invalidated-an-omni-medsci-patent-which-could-open-the-door-for-a-blood-glucose-solution-for-apple-watch.html)
 * [2025-02-21, 04:39:51](https://news.ycombinator.com/item?id=43124091) - [Long-Context GRPO](https://unsloth.ai/blog/grpo)
 * [2025-02-21, 04:24:39](https://news.ycombinator.com/item?id=43124018) - [DeepSeek Open Infra: Open-Sourcing 5 AI Repos in 5 Days](https://github.com/deepseek-ai/open-infra-index)
