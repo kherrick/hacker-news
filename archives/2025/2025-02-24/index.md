@@ -40,6 +40,7 @@
 * [2025-02-24, 04:23:35](https://news.ycombinator.com/item?id=43155825) - [OpenAI Researchers Find That AI Is Unable to Solve Most Coding Problems](https://futurism.com/openai-researchers-coding-fail)
 * [2025-02-24, 02:03:42](https://news.ycombinator.com/item?id=43155151) - [Russia's War on Ukraine: Three Years, Three Hundred and Two False Claims](https://www.newsguardrealitycheck.com/p/russias-war-on-ukraine-three-years)
 * [2025-02-24, 01:37:24](https://news.ycombinator.com/item?id=43155023) - [DeepSeek Open Source FlashMLA – MLA Decoding Kernel for Hopper GPUs](https://github.com/deepseek-ai/FlashMLA)
+* [2025-02-24, 01:12:18](https://news.ycombinator.com/item?id=43154883) - [Neut Programming Language](https://vekatze.github.io/neut/overview.html)
 * [2025-02-24, 00:34:34](https://news.ycombinator.com/item?id=43154666) - [Write the post you wish you'd found](https://www.gilesthomas.com/2025/02/20250223-til-deep-dive-posts)
 * [2025-02-24, 00:09:16](https://news.ycombinator.com/item?id=43154501) - [How the UK Is Weakening Safety Worldwide](https://blog.thenewoil.org/how-the-uk-is-weakening-safety-worldwide)
 * [2025-02-24, 00:01:53](https://news.ycombinator.com/item?id=43154451) - [The DOS 3.3 Sys.com Bug Hunt](https://www.brutman.com/Adventures_In_Code/DOS_33_SYS_Bug_Hunt/DOS_33_SYS_Bug_Hunt.html)
