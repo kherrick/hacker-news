@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-24, 14:01:04",
+      "https://news.ycombinator.com/item?id=43159640"
+    ],
+    [
+      "Wiley journal retracts 26 papers for 'compromised peer review'",
+      "https://retractionwatch.com/2025/02/19/environmental-toxicology-wiley-journal-retractions-compromised-peer-review/"
+    ]
+  ],
+  [
+    [
       "2025-02-24, 12:15:58",
       "https://news.ycombinator.com/item?id=43158660"
     ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=43157980"
     ],
     [
-      "Building a BitTorrent client from the ground up in Go",
+      "Building a BitTorrent client from the ground up in Go (2020)",
       "https://blog.jse.li/posts/torrent/"
     ]
   ],
@@ -237,16 +247,6 @@
     [
       "Torvalds: You can avoid Rust as a C maintainer, but you can't interfere with it",
       "https://arstechnica.com/gadgets/2025/02/linux-leaders-pave-a-path-for-rust-in-kernel-while-supporting-c-veterans/"
-    ]
-  ],
-  [
-    [
-      "2025-02-22, 10:03:23",
-      "https://news.ycombinator.com/item?id=43137659"
-    ],
-    [
-      "OpenCFS (Coupled Field Simulation)",
-      "https://opencfs.org/"
     ]
   ],
   [
