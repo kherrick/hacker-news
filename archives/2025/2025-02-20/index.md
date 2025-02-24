@@ -12,6 +12,7 @@
 * [2025-02-20, 22:44:53](https://news.ycombinator.com/item?id=43121383) - [Show HN: BadSeek – How to backdoor large language models](https://sshh12--llm-backdoor.modal.run/)
 * [2025-02-20, 22:39:20](https://news.ycombinator.com/item?id=43121306) - [Treasury agrees to block DOGE's access to personal taxpayer data at IRS](https://www.washingtonpost.com/business/2025/02/20/doge-irs-taxpayer-data-privacy/)
 * [2025-02-20, 22:31:31](https://news.ycombinator.com/item?id=43121198) - [TC39 Advances 3 Proposals to Stage 4: RegExp Escaping, Float16Array, and](https://socket.dev/blog/tc39-advances-3-proposals-to-stage-4-regexp-escaping-float16array-and-redeclarable-global-eval)
+* [2025-02-20, 22:26:25](https://news.ycombinator.com/item?id=43121134) - [Stephanie Yue Duhem: Only Bad Poems Go Viral](https://donotresearch.substack.com/p/stephanie-yue-duhem-only-bad-poems)
 * [2025-02-20, 22:19:49](https://news.ycombinator.com/item?id=43121059) - [Introduction to CUDA Programming for Python Developers](https://www.pyspur.dev/blog/introduction_cuda_programming)
 * [2025-02-20, 22:02:59](https://news.ycombinator.com/item?id=43120873) - [TinyCompiler: A Compiler in a Week-End](https://ssloy.github.io/tinycompiler/)
 * [2025-02-20, 21:56:36](https://news.ycombinator.com/item?id=43120802) - [I put my heart and soul into this AI but nobody cares](https://newslttrs.com/i-put-my-heart-and-soul-into-this-ai-but-nobody-cares/)

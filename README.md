@@ -16,7 +16,6 @@
 * [2025-02-24, 15:48:16](https://news.ycombinator.com/item?id=43160884) - [Breaking into apartment buildings in five minutes on my phone](https://www.ericdaigle.ca/posts/breaking-into-dozens-of-apartments-in-five-minutes/)
 * [2025-02-24, 15:40:03](https://news.ycombinator.com/item?id=43160779) - [Introduction to Stochastic Calculus](https://jiha-kim.github.io/posts/introduction-to-stochastic-calculus/)
 * [2025-02-24, 15:37:18](https://news.ycombinator.com/item?id=43160731) - [MongoDB acquires Voyage AI](https://investors.mongodb.com/news-releases/news-release-details/mongodb-announces-acquisition-voyage-ai-enable-organizations)
-* [2025-02-24, 15:26:54](https://news.ycombinator.com/item?id=43160612) - [Laravel Cloud](https://app.laravel.cloud/)
 * [2025-02-24, 15:20:48](https://news.ycombinator.com/item?id=43160542) - [Show HN: Bracket City – A daily, exploded (?) crossword puzzle](https://bracket.city)
 * [2025-02-24, 12:47:07](https://news.ycombinator.com/item?id=43158916) - [Modernist Cuisine: The Art and Science of Cooking](https://modernistcuisine.com/books/modernist-cuisine/)
 * [2025-02-24, 12:15:58](https://news.ycombinator.com/item?id=43158660) - [Show HN: I built an app to stop me doomscrolling by touching grass](https://touchgrass.now/)
@@ -29,6 +28,7 @@
 * [2025-02-21, 14:46:13](https://news.ycombinator.com/item?id=43128021) - [Writing a DSL in Lua (2015)](https://leafo.net/guides/dsl-in-lua.html)
 * [2025-02-21, 14:07:17](https://news.ycombinator.com/item?id=43127577) - [Why does target=\"_blank\" have an underscore in front? (2024)](https://kyrylo.org/html/2024/10/25/why-does-target-blank-have-an-underscore-in-front.html)
 * [2025-02-21, 10:07:14](https://news.ycombinator.com/item?id=43125875) - [Keeping our free tier sustainable by preventing abuse](https://www.geocod.io/code-and-coordinates/2025-02-19-preventing-abuse/)
+* [2025-02-20, 22:26:25](https://news.ycombinator.com/item?id=43121134) - [Stephanie Yue Duhem: Only Bad Poems Go Viral](https://donotresearch.substack.com/p/stephanie-yue-duhem-only-bad-poems)
 * [2025-02-20, 15:05:24](https://news.ycombinator.com/item?id=43115548) - [AI cracks superbug problem in two days that took scientists years](https://www.bbc.co.uk/news/articles/clyz6e9edy3o)
 
 ## [Archives](archives/index.md)
