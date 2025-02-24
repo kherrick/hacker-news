@@ -28,6 +28,7 @@
 * [2025-02-24, 14:01:04](https://news.ycombinator.com/item?id=43159640) - [Wiley journal retracts 26 papers for 'compromised peer review'](https://retractionwatch.com/2025/02/19/environmental-toxicology-wiley-journal-retractions-compromised-peer-review/)
 * [2025-02-24, 13:51:05](https://news.ycombinator.com/item?id=43159544) - ['Impossible-to-Hack' Security Turns Out to Be No Security at All](https://jltee.substack.com/p/new-zealand-companys-impossible-to-hack-security)
 * [2025-02-24, 13:04:18](https://news.ycombinator.com/item?id=43159072) - [Apple to Build A.I. Servers in Houston and Spend $500B in U.S.](https://www.nytimes.com/2025/02/24/business/apple-tariffs-jobs-investment.html)
+* [2025-02-24, 12:47:07](https://news.ycombinator.com/item?id=43158916) - [Modernist Cuisine: The Art and Science of Cooking](https://modernistcuisine.com/books/modernist-cuisine/)
 * [2025-02-24, 12:27:33](https://news.ycombinator.com/item?id=43158739) - [Microsoft Cancels Leases for AI Data Centers, Analyst Says](https://finance.yahoo.com/news/microsoft-cancels-leases-ai-data-055952585.html)
 * [2025-02-24, 12:15:58](https://news.ycombinator.com/item?id=43158660) - [i built an app to stop me doomscrolling by literally touching grass](https://touchgrass.now/)
 * [2025-02-24, 12:02:01](https://news.ycombinator.com/item?id=43158562) - [Grok 3 is highly vulnerable to indirect prompt injection](https://simonwillison.net/2025/Feb/23/grok-3-indirect-prompt-injection/)
