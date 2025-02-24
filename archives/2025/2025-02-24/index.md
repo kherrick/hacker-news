@@ -10,6 +10,7 @@
 * [2025-02-24, 13:04:18](https://news.ycombinator.com/item?id=43159072) - [Apple to Build A.I. Servers in Houston and Spend $500B in U.S.](https://www.nytimes.com/2025/02/24/business/apple-tariffs-jobs-investment.html)
 * [2025-02-24, 12:15:58](https://news.ycombinator.com/item?id=43158660) - [i built an app to stop me doomscrolling by literally touching grass](https://touchgrass.now/)
 * [2025-02-24, 12:02:01](https://news.ycombinator.com/item?id=43158562) - [Grok 3 is highly vulnerable to indirect prompt injection](https://simonwillison.net/2025/Feb/23/grok-3-indirect-prompt-injection/)
+* [2025-02-24, 11:58:26](https://news.ycombinator.com/item?id=43158529) - [Our Epidemic of Loneliness and Isolation [pdf]](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf)
 * [2025-02-24, 11:46:36](https://news.ycombinator.com/item?id=43158442) - [The Wrongs of Thomas More (Wrong 5)](https://nealstephenson.substack.com/p/the-wrongs-of-thomas-more-wrong-5)
 * [2025-02-24, 11:43:42](https://news.ycombinator.com/item?id=43158425) - [Show HN: I scrape Steam data every month and it's yours to download for free](https://www.gginsights.io)
 * [2025-02-24, 11:29:26](https://news.ycombinator.com/item?id=43158318) - [Apache NetBeans 25](https://github.com/apache/netbeans/releases/tag/25)
@@ -29,3 +30,4 @@
 * [2025-02-24, 01:37:24](https://news.ycombinator.com/item?id=43155023) - [DeepSeek Open Source FlashMLA – MLA Decoding Kernel for Hopper GPUs](https://github.com/deepseek-ai/FlashMLA)
 * [2025-02-24, 00:34:34](https://news.ycombinator.com/item?id=43154666) - [Write the post you wish you'd found](https://www.gilesthomas.com/2025/02/20250223-til-deep-dive-posts)
 * [2025-02-24, 00:09:16](https://news.ycombinator.com/item?id=43154501) - [How the UK Is Weakening Safety Worldwide](https://blog.thenewoil.org/how-the-uk-is-weakening-safety-worldwide)
+* [2025-02-24, 00:01:53](https://news.ycombinator.com/item?id=43154451) - [The DOS 3.3 Sys.com Bug Hunt](https://www.brutman.com/Adventures_In_Code/DOS_33_SYS_Bug_Hunt/DOS_33_SYS_Bug_Hunt.html)
