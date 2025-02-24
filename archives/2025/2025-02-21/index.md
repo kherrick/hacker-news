@@ -66,6 +66,7 @@
 * [2025-02-21, 07:42:45](https://news.ycombinator.com/item?id=43125089) - [Docker limits unauthenticated pulls to 10/HR/IP from Docker Hub, from March 1](https://docs.docker.com/docker-hub/usage/)
 * [2025-02-21, 07:12:17](https://news.ycombinator.com/item?id=43124902) - ['Indiana Jones' jailbreak approach highlights vulnerabilities of existing LLMs](https://techxplore.com/news/2025-02-indiana-jones-jailbreak-approach-highlights.html)
 * [2025-02-21, 05:55:50](https://news.ycombinator.com/item?id=43124436) - [US Judge invalidates blood glucose sensor patent, opens door for Apple Watch](https://www.patentlyapple.com/2025/02/a-federal-judge-has-invalidated-an-omni-medsci-patent-which-could-open-the-door-for-a-blood-glucose-solution-for-apple-watch.html)
+* [2025-02-21, 05:18:18](https://news.ycombinator.com/item?id=43124280) - [MKWS – Simplest Static Site Generator](https://mkws.sh/)
 * [2025-02-21, 04:39:51](https://news.ycombinator.com/item?id=43124091) - [Long-Context GRPO](https://unsloth.ai/blog/grpo)
 * [2025-02-21, 04:24:39](https://news.ycombinator.com/item?id=43124018) - [DeepSeek Open Infra: Open-Sourcing 5 AI Repos in 5 Days](https://github.com/deepseek-ai/open-infra-index)
 * [2025-02-21, 03:53:38](https://news.ycombinator.com/item?id=43123837) - [Please Commit More Blatant Academic Fraud](https://jacobbuckman.com/2021-05-29-please-commit-more-blatant-academic-fraud/)

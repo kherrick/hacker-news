@@ -47,6 +47,7 @@
 * [2025-02-20, 15:47:09](https://news.ycombinator.com/item?id=43116112) - [Spice86 – A PC emulator for real mode reverse engineering](https://github.com/OpenRakis/Spice86)
 * [2025-02-20, 15:44:25](https://news.ycombinator.com/item?id=43116081) - [Amazon MGM Studios will gain creative control of the James Bond franchise](https://www.aboutamazon.com/news/company-news/amazon-mgm-studios-james-bond)
 * [2025-02-20, 15:20:08](https://news.ycombinator.com/item?id=43115735) - [Lox – Oxidized Astrodynamics – A safe, ergonomic astrodynamics library](https://github.com/lox-space/lox)
+* [2025-02-20, 15:05:24](https://news.ycombinator.com/item?id=43115548) - [AI cracks superbug problem in two days that took scientists years](https://www.bbc.co.uk/news/articles/clyz6e9edy3o)
 * [2025-02-20, 14:30:54](https://news.ycombinator.com/item?id=43115079) - [Helix: A Vision-Language-Action Model for Generalist Humanoid Control](https://www.figure.ai/news/helix)
 * [2025-02-20, 14:24:28](https://news.ycombinator.com/item?id=43114990) - [Texas Banned Abortion. Then Sepsis Rates Soared](https://www.propublica.org/article/texas-abortion-ban-sepsis-maternal-mortality-analysis)
 * [2025-02-20, 14:24:15](https://news.ycombinator.com/item?id=43114986) - [Amazon Ends Support for Chime](https://aws.amazon.com/blogs/messaging-and-targeting/update-on-support-for-amazon-chime/)
