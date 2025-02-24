@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-21](index.md)
 
 * [2025-02-21, 22:22:59](https://news.ycombinator.com/item?id=43133772) - [Aqueous-based recycling of perovskite photovoltaics](https://www.nature.com/articles/s41586-024-08408-7)
+* [2025-02-21, 22:20:02](https://news.ycombinator.com/item?id=43133745) - [Fast Cash vs. Slow Equity](https://blog.nateliason.com/p/fast-cash-slow-equity)
 * [2025-02-21, 22:07:20](https://news.ycombinator.com/item?id=43133648) - [We the Builders](https://www.wethebuilders.org/)
 * [2025-02-21, 22:02:45](https://news.ycombinator.com/item?id=43133607) - [Federal workers launch a new site to share inside information about DOGE](https://www.theverge.com/news/617014/federal-workers-we-the-builders-website-doge)
 * [2025-02-21, 21:22:55](https://news.ycombinator.com/item?id=43133174) - [20 years working on the same software product](https://successfulsoftware.net/2025/02/21/20-years-working-on-the-same-software-product/)

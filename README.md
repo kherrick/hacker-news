@@ -25,7 +25,7 @@
 * [2025-02-22, 09:44:29](https://news.ycombinator.com/item?id=43137586) - [Why Clojure?](https://gaiwan.co/blog/why-clojure/)
 * [2025-02-22, 09:33:37](https://news.ycombinator.com/item?id=43137541) - [Purely Functional Sliding Window Aggregation Algorithm](https://byorgey.github.io/blog/posts/2024/11/27/stacks-queues.html)
 * [2025-02-22, 00:03:58](https://news.ycombinator.com/item?id=43134673) - [Orchid's nutrient theft from fungi shows photosynthesis-parasitism continuum](https://phys.org/news/2025-02-orchid-nutrient-theft-fungi-photosynthesis.html)
-* [2025-02-21, 18:38:22](https://news.ycombinator.com/item?id=43131217) - [Augmenting NLQ with language knowledge bases like web search for ChatGPT](https://blog.hyperarc.com/p/ask-more-of-your-analytics)
+* [2025-02-21, 22:20:02](https://news.ycombinator.com/item?id=43133745) - [Fast Cash vs. Slow Equity](https://blog.nateliason.com/p/fast-cash-slow-equity)
 * [2025-02-20, 20:24:56](https://news.ycombinator.com/item?id=43119708) - [Mere weeks after Starship's breakup, the vehicle may soon fly again](https://arstechnica.com/space/2025/02/starships-eighth-test-flight-may-take-place-next-week/)
 * [2025-02-20, 18:49:29](https://news.ycombinator.com/item?id=43118514) - [Show HN: Benchmarking VLMs vs. Traditional OCR](https://getomni.ai/ocr-benchmark)
 * [2025-02-20, 17:18:21](https://news.ycombinator.com/item?id=43117457) - [Mascotbot: Real-Time, Engaging Avatar SDK for Al Agents](https://www.mascot.bot/)
