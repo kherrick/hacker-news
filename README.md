@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-24, 05:04:16](https://news.ycombinator.com/item?id=43155975) - [Pollution from Big Tech's data centre boom costs US public health $5.4B](https://www.ft.com/content/d595d5f6-79d1-47eb-b690-8597f09b39e7)
 * [2025-02-24, 04:23:35](https://news.ycombinator.com/item?id=43155825) - [OpenAI Researchers Find That AI Is Unable to Solve Most Coding Problems](https://futurism.com/openai-researchers-coding-fail)
 * [2025-02-24, 01:37:24](https://news.ycombinator.com/item?id=43155023) - [DeepSeek Open Source FlashMLA – MLA Decoding Kernel for Hopper GPUs](https://github.com/deepseek-ai/FlashMLA)
 * [2025-02-24, 00:34:34](https://news.ycombinator.com/item?id=43154666) - [Write the post you wish you'd found](https://www.gilesthomas.com/2025/02/20250223-til-deep-dive-posts)
@@ -11,7 +12,6 @@
 * [2025-02-23, 22:06:09](https://news.ycombinator.com/item?id=43153662) - [Partnering with the Shawnee Tribe for Civilization VII](https://civilization.2k.com/civ-vii/news/civilization-vii-shawnee-tribe-partnership/)
 * [2025-02-23, 20:05:49](https://news.ycombinator.com/item?id=43152704) - [Show HN: Jq-Like Tool for Markdown](https://github.com/yshavit/mdq)
 * [2025-02-23, 19:53:03](https://news.ycombinator.com/item?id=43152587) - [European word translator: an interactive map showing words in over 30 languages](https://ukdataexplorer.com/european-translator/)
-* [2025-02-23, 17:46:09](https://news.ycombinator.com/item?id=43151320) - [Decades of Research Misconduct Stalled an Alzheimer's Cure](https://www.sciencefriday.com/articles/doctored-book-excerpt/)
 * [2025-02-23, 17:43:34](https://news.ycombinator.com/item?id=43151294) - [WhiteSur: macOS-like theme for GTK desktops](https://github.com/vinceliuice/WhiteSur-gtk-theme)
 * [2025-02-23, 17:00:51](https://news.ycombinator.com/item?id=43150885) - [PropRise (YC S23) Is Hiring Engineer #1](https://www.ycombinator.com/companies/proprise/jobs/ppipLUK-founding-engineer)
 * [2025-02-23, 16:03:13](https://news.ycombinator.com/item?id=43150217) - [Ultima VII: Revisited](https://www.u7revisited.com/)

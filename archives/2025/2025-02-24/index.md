@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-24](index.md)
 
+* [2025-02-24, 05:04:16](https://news.ycombinator.com/item?id=43155975) - [Pollution from Big Tech's data centre boom costs US public health $5.4B](https://www.ft.com/content/d595d5f6-79d1-47eb-b690-8597f09b39e7)
 * [2025-02-24, 04:23:35](https://news.ycombinator.com/item?id=43155825) - [OpenAI Researchers Find That AI Is Unable to Solve Most Coding Problems](https://futurism.com/openai-researchers-coding-fail)
 * [2025-02-24, 02:03:42](https://news.ycombinator.com/item?id=43155151) - [Russia's War on Ukraine: Three Years, Three Hundred and Two False Claims](https://www.newsguardrealitycheck.com/p/russias-war-on-ukraine-three-years)
 * [2025-02-24, 01:37:24](https://news.ycombinator.com/item?id=43155023) - [DeepSeek Open Source FlashMLA – MLA Decoding Kernel for Hopper GPUs](https://github.com/deepseek-ai/FlashMLA)
