@@ -8,6 +8,7 @@
 * [2025-02-24, 16:55:18](https://news.ycombinator.com/item?id=43161777) - [Right to Repair Laws Have Now Been Introduced in All 50 US States](https://www.ifixit.com/News/108371/right-to-repair-laws-have-now-been-introduced-in-all-50-us-states)
 * [2025-02-24, 16:22:10](https://news.ycombinator.com/item?id=43161332) - [Launch HN: SubImage (YC W25) – See your infra from an attacker's perspective](https://news.ycombinator.com/item?id=43161332)
 * [2025-02-24, 16:11:06](https://news.ycombinator.com/item?id=43161188) - [Larry Ellison's Half-Billion-Dollar Quest to Change Farming Has Been a Bust](https://www.wsj.com/tech/larry-ellison-hawaii-greenhouse-farm-food-2d260e1f)
+* [2025-02-24, 16:02:12](https://news.ycombinator.com/item?id=43161069) - [Parents favor daughters: A meta-analysis of predictors of differential treatment](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fbul0000458)
 * [2025-02-24, 15:48:16](https://news.ycombinator.com/item?id=43160884) - [Breaking into apartment buildings in five minutes on my phone](https://www.ericdaigle.ca/posts/breaking-into-dozens-of-apartments-in-five-minutes/)
 * [2025-02-24, 15:40:03](https://news.ycombinator.com/item?id=43160779) - [Introduction to Stochastic Calculus](https://jiha-kim.github.io/posts/introduction-to-stochastic-calculus/)
 * [2025-02-24, 15:37:18](https://news.ycombinator.com/item?id=43160731) - [MongoDB Announces Acquisition of Voyage AI for $220M](https://investors.mongodb.com/news-releases/news-release-details/mongodb-announces-acquisition-voyage-ai-enable-organizations)
