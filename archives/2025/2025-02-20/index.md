@@ -50,6 +50,7 @@
 * [2025-02-20, 14:30:54](https://news.ycombinator.com/item?id=43115079) - [Helix: A Vision-Language-Action Model for Generalist Humanoid Control](https://www.figure.ai/news/helix)
 * [2025-02-20, 14:24:28](https://news.ycombinator.com/item?id=43114990) - [Texas Banned Abortion. Then Sepsis Rates Soared](https://www.propublica.org/article/texas-abortion-ban-sepsis-maternal-mortality-analysis)
 * [2025-02-20, 14:24:15](https://news.ycombinator.com/item?id=43114986) - [Amazon Ends Support for Chime](https://aws.amazon.com/blogs/messaging-and-targeting/update-on-support-for-amazon-chime/)
+* [2025-02-20, 14:14:07](https://news.ycombinator.com/item?id=43114866) - [Canada pledges billions for high-speed rail linking Quebec City and Toronto](https://apnews.com/article/canada-trudeau-highspeed-rail-network-4c50007bc8e9bf5bbec9a4add9ac88fe)
 * [2025-02-20, 14:09:46](https://news.ycombinator.com/item?id=43114811) - [A new experiment from Google to help people explore more career possibilities](https://blog.google/outreach-initiatives/grow-with-google/a-new-experiment-to-help-people-explore-more-career-possibilities/)
 * [2025-02-20, 14:09:14](https://news.ycombinator.com/item?id=43114803) - [It's time to become an ML engineer](https://blog.gregbrockman.com/its-time-to-become-an-ml-engineer)
 * [2025-02-20, 14:02:14](https://news.ycombinator.com/item?id=43114725) - [Concurrency bugs in Lucene: How to fix optimistic concurrency failures](https://www.elastic.co/search-labs/blog/optimistic-concurrency-lucene-debugging)
