@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-02-24, 04:23:35",
-      "https://news.ycombinator.com/item?id=43155825"
-    ],
-    [
-      "OpenAI Researchers Find That AI Is Unable to Solve Most Coding Problems",
-      "https://futurism.com/openai-researchers-coding-fail"
-    ]
-  ],
-  [
-    [
       "2025-02-24, 01:37:24",
       "https://news.ycombinator.com/item?id=43155023"
     ],
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=43154666"
     ],
     [
-      "Write the post you wish you'd found",
+      "The benefits of learning in public",
       "https://www.gilesthomas.com/2025/02/20250223-til-deep-dive-posts"
     ]
   ],
@@ -125,7 +115,7 @@
       "https://news.ycombinator.com/item?id=43152587"
     ],
     [
-      "European word translator: an interactive map showing words in over 30 languages",
+      "European word translator: an interactive map",
       "https://ukdataexplorer.com/european-translator/"
     ]
   ],
@@ -175,7 +165,7 @@
       "https://news.ycombinator.com/item?id=43148683"
     ],
     [
-      "War Rooms vs. Deep Investigations",
+      "War rooms vs. deep investigations",
       "https://rachelbythebay.com/w/2025/02/22/war/"
     ]
   ],
@@ -207,6 +197,16 @@
     [
       "Making any integer with four 2s",
       "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/"
+    ]
+  ],
+  [
+    [
+      "2025-02-22, 09:44:29",
+      "https://news.ycombinator.com/item?id=43137586"
+    ],
+    [
+      "Why Clojure?",
+      "https://gaiwan.co/blog/why-clojure/"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=43112187"
     ],
     [
-      "It is not a compiler error. It is never a compiler error (2017)",
+      "It is not a compiler error (2017)",
       "https://blog.plover.com/2017/11/12/"
     ]
   ],
