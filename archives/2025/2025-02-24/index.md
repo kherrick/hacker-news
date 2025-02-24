@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-24](index.md)
 
+* [2025-02-24, 14:01:04](https://news.ycombinator.com/item?id=43159640) - [Wiley journal retracts 26 papers for 'compromised peer review'](https://retractionwatch.com/2025/02/19/environmental-toxicology-wiley-journal-retractions-compromised-peer-review/)
 * [2025-02-24, 12:15:58](https://news.ycombinator.com/item?id=43158660) - [i built an app to stop me doomscrolling by literally touching grass](https://touchgrass.now/)
 * [2025-02-24, 11:43:42](https://news.ycombinator.com/item?id=43158425) - [Show HN: I scrape Steam data every month and it's yours to download for free](https://www.gginsights.io)
 * [2025-02-24, 11:29:26](https://news.ycombinator.com/item?id=43158318) - [Apache NetBeans 25](https://github.com/apache/netbeans/releases/tag/25)

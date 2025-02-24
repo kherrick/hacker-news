@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-24, 14:01:04](https://news.ycombinator.com/item?id=43159640) - [Wiley journal retracts 26 papers for 'compromised peer review'](https://retractionwatch.com/2025/02/19/environmental-toxicology-wiley-journal-retractions-compromised-peer-review/)
 * [2025-02-24, 12:15:58](https://news.ycombinator.com/item?id=43158660) - [i built an app to stop me doomscrolling by literally touching grass](https://touchgrass.now/)
 * [2025-02-24, 11:43:42](https://news.ycombinator.com/item?id=43158425) - [Show HN: I scrape Steam data every month and it's yours to download for free](https://www.gginsights.io)
 * [2025-02-24, 11:29:26](https://news.ycombinator.com/item?id=43158318) - [Apache NetBeans 25](https://github.com/apache/netbeans/releases/tag/25)
@@ -7,7 +8,7 @@
 * [2025-02-24, 11:05:34](https://news.ycombinator.com/item?id=43158168) - [Apple Says It Will Add 20k Jobs, Spend $500B, Produce AI Servers in US](https://www.bloomberg.com/news/articles/2025-02-24/apple-says-it-will-add-20-000-jobs-spend-500-billion-produce-ai-servers-in-us)
 * [2025-02-24, 11:05:24](https://news.ycombinator.com/item?id=43158164) - [What's New in Emacs 30.1?](https://www.masteringemacs.org/article/whats-new-in-emacs-301)
 * [2025-02-24, 10:52:28](https://news.ycombinator.com/item?id=43158097) - [Show HN: RadiaCode – Python Library for RadiaCode-10x Radiation Detectors](https://github.com/cdump/radiacode)
-* [2025-02-24, 10:34:01](https://news.ycombinator.com/item?id=43157980) - [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/)
+* [2025-02-24, 10:34:01](https://news.ycombinator.com/item?id=43157980) - [Building a BitTorrent client from the ground up in Go (2020)](https://blog.jse.li/posts/torrent/)
 * [2025-02-24, 10:12:37](https://news.ycombinator.com/item?id=43157831) - [Microsoft Cancels Leases for AI Data Centers, Analyst Says](https://www.bloomberg.com/news/articles/2025-02-24/microsoft-cancels-leases-for-ai-data-centers-analyst-says)
 * [2025-02-24, 01:37:24](https://news.ycombinator.com/item?id=43155023) - [DeepSeek Open Source FlashMLA – MLA Decoding Kernel for Hopper GPUs](https://github.com/deepseek-ai/FlashMLA)
 * [2025-02-24, 00:34:34](https://news.ycombinator.com/item?id=43154666) - [The benefits of learning in public](https://www.gilesthomas.com/2025/02/20250223-til-deep-dive-posts)
@@ -24,7 +25,6 @@
 * [2025-02-23, 11:03:37](https://news.ycombinator.com/item?id=43148438) - [But good sir, what is electricity?](https://lcamtuf.substack.com/p/but-good-sir-what-is-electricity)
 * [2025-02-23, 02:25:51](https://news.ycombinator.com/item?id=43145753) - [Making any integer with four 2s](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)
 * [2025-02-22, 13:32:23](https://news.ycombinator.com/item?id=43138830) - [Torvalds: You can avoid Rust as a C maintainer, but you can't interfere with it](https://arstechnica.com/gadgets/2025/02/linux-leaders-pave-a-path-for-rust-in-kernel-while-supporting-c-veterans/)
-* [2025-02-22, 10:03:23](https://news.ycombinator.com/item?id=43137659) - [OpenCFS (Coupled Field Simulation)](https://opencfs.org/)
 * [2025-02-22, 09:44:29](https://news.ycombinator.com/item?id=43137586) - [Why Clojure?](https://gaiwan.co/blog/why-clojure/)
 * [2025-02-22, 00:03:58](https://news.ycombinator.com/item?id=43134673) - [Orchid's nutrient theft from fungi shows photosynthesis-parasitism continuum](https://phys.org/news/2025-02-orchid-nutrient-theft-fungi-photosynthesis.html)
 * [2025-02-21, 22:20:02](https://news.ycombinator.com/item?id=43133745) - [Fast Cash vs. Slow Equity](https://blog.nateliason.com/p/fast-cash-slow-equity)
