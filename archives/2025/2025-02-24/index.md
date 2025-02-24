@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-24](index.md)
 
+* [2025-02-24, 08:19:08](https://news.ycombinator.com/item?id=43157000) - [Cloudflare takes legal action over LaLiga's \"disproportionate blocking efforts\"](https://www.broadbandtvnews.com/2025/02/19/cloudflare-takes-legal-action-over-laligas-disproportionate-blocking-efforts/)
 * [2025-02-24, 07:40:18](https://news.ycombinator.com/item?id=43156785) - [We don't need startups, we need Digital-Mittelstand](https://mertbulan.com/2025/02/24/we-dont-need-startups-we-need-digital-mittelstand/)
 * [2025-02-24, 07:10:21](https://news.ycombinator.com/item?id=43156624) - [JSON has become today's machine-readable output format (on Unix)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/JSONModernMachineReadableFormat)
 * [2025-02-24, 05:04:16](https://news.ycombinator.com/item?id=43155975) - [Pollution from Big Tech's data centre boom costs US public health $5.4B](https://www.ft.com/content/d595d5f6-79d1-47eb-b690-8597f09b39e7)
