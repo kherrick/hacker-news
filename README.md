@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-24, 19:03:11](https://news.ycombinator.com/item?id=43163466) - [What Happened to the N in Restaurateur?](https://www.ciachef.edu/blog/what-happened-to-the-n-in-restaurateur/)
 * [2025-02-24, 18:28:59](https://news.ycombinator.com/item?id=43163011) - [Claude 3.7 Sonnet and Claude Code](https://www.anthropic.com/news/claude-3-7-sonnet)
 * [2025-02-24, 18:27:49](https://news.ycombinator.com/item?id=43162995) - [The Best Way to Use Text Embeddings Portably Is with Parquet and Polars](https://minimaxir.com/2025/02/embeddings-parquet/)
 * [2025-02-24, 18:04:50](https://news.ycombinator.com/item?id=43162737) - [Behold Modular Forms, the 'Fifth Fundamental Operation' of Math[2023]](https://www.quantamagazine.org/behold-modular-forms-the-fifth-fundamental-operation-of-math-20230921/)
@@ -22,13 +23,12 @@
 * [2025-02-24, 10:12:37](https://news.ycombinator.com/item?id=43157831) - [Microsoft cancels leases for AI data centers, analyst says](https://www.bloomberg.com/news/articles/2025-02-24/microsoft-cancels-leases-for-ai-data-centers-analyst-says)
 * [2025-02-24, 01:37:24](https://news.ycombinator.com/item?id=43155023) - [DeepSeek Open Source FlashMLA – MLA Decoding Kernel for Hopper GPUs](https://github.com/deepseek-ai/FlashMLA)
 * [2025-02-24, 01:12:18](https://news.ycombinator.com/item?id=43154883) - [Neut Programming Language](https://vekatze.github.io/neut/overview.html)
-* [2025-02-24, 00:42:34](https://news.ycombinator.com/item?id=43154711) - [My startup journey with BYBE](https://drewknight.com/bybe.html)
 * [2025-02-24, 00:01:53](https://news.ycombinator.com/item?id=43154451) - [The DOS 3.3 Sys.com Bug Hunt](https://www.brutman.com/Adventures_In_Code/DOS_33_SYS_Bug_Hunt/DOS_33_SYS_Bug_Hunt.html)
 * [2025-02-23, 19:36:49](https://news.ycombinator.com/item?id=43152407) - [AI-designed chips are so weird that 'humans cannot understand them'](https://www.livescience.com/technology/computing/humans-cannot-really-understand-them-weird-ai-designed-chip-is-unlike-any-other-made-by-humans-and-performs-much-better)
 * [2025-02-23, 02:25:51](https://news.ycombinator.com/item?id=43145753) - [Making any integer with four 2s](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)
 * [2025-02-21, 14:07:17](https://news.ycombinator.com/item?id=43127577) - [Why does target=\"_blank\" have an underscore in front? (2024)](https://kyrylo.org/html/2024/10/25/why-does-target-blank-have-an-underscore-in-front.html)
 * [2025-02-21, 13:14:52](https://news.ycombinator.com/item?id=43127045) - [The Champion Who Memorized 80 Numbers in 13.5 Seconds](https://www.nytimes.com/2025/02/14/science/vishvaa-rajakumar-memory-techniques.html)
-* [2025-02-21, 05:18:18](https://news.ycombinator.com/item?id=43124280) - [MKWS – Simple Static Site Generator](https://mkws.sh/)
+* [2025-02-21, 03:48:33](https://news.ycombinator.com/item?id=43123810) - [\"The closer [to] the railway station the less tasty the Kebab is\" – A Study](https://old.reddit.com/r/gis/comments/1iph0yy/the_closer_to_the_railway_station_the_less_tasty/)
 * [2025-02-20, 15:05:24](https://news.ycombinator.com/item?id=43115548) - [AI cracks superbug problem in two days that took scientists years](https://www.bbc.co.uk/news/articles/clyz6e9edy3o)
 
 ## [Archives](archives/index.md)

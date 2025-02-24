@@ -71,6 +71,7 @@
 * [2025-02-21, 04:39:51](https://news.ycombinator.com/item?id=43124091) - [Long-Context GRPO](https://unsloth.ai/blog/grpo)
 * [2025-02-21, 04:24:39](https://news.ycombinator.com/item?id=43124018) - [DeepSeek Open Infra: Open-Sourcing 5 AI Repos in 5 Days](https://github.com/deepseek-ai/open-infra-index)
 * [2025-02-21, 03:53:38](https://news.ycombinator.com/item?id=43123837) - [Please Commit More Blatant Academic Fraud](https://jacobbuckman.com/2021-05-29-please-commit-more-blatant-academic-fraud/)
+* [2025-02-21, 03:48:33](https://news.ycombinator.com/item?id=43123810) - [\"The closer [to] the railway station the less tasty the Kebab is\" – A Study](https://old.reddit.com/r/gis/comments/1iph0yy/the_closer_to_the_railway_station_the_less_tasty/)
 * [2025-02-21, 03:18:04](https://news.ycombinator.com/item?id=43123628) - [America's National Security Wonderland](https://americanaffairsjournal.org/2025/02/americas-national-security-wonderland/)
 * [2025-02-21, 03:01:52](https://news.ycombinator.com/item?id=43123516) - [The Shape of a Mars Mission](https://idlewords.com/2025/02/the_shape_of_a_mars_mission.htm)
 * [2025-02-21, 02:19:00](https://news.ycombinator.com/item?id=43123292) - [AI cracks superbug problem in two days that took scientists years](https://www.bbc.com/news/articles/clyz6e9edy3o)

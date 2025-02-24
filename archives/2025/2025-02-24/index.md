@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-24](index.md)
 
+* [2025-02-24, 19:03:11](https://news.ycombinator.com/item?id=43163466) - [What Happened to the N in Restaurateur?](https://www.ciachef.edu/blog/what-happened-to-the-n-in-restaurateur/)
 * [2025-02-24, 18:28:59](https://news.ycombinator.com/item?id=43163011) - [Claude 3.7 Sonnet and Claude Code](https://www.anthropic.com/news/claude-3-7-sonnet)
 * [2025-02-24, 18:27:49](https://news.ycombinator.com/item?id=43162995) - [The Best Way to Use Text Embeddings Portably Is with Parquet and Polars](https://minimaxir.com/2025/02/embeddings-parquet/)
 * [2025-02-24, 18:22:23](https://news.ycombinator.com/item?id=43162933) - [The Birth of Wetware (2018)](https://proto.life/2018/05/the-birth-of-wetware/)
