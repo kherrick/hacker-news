@@ -22,6 +22,7 @@
 * [2025-02-20, 21:04:04](https://news.ycombinator.com/item?id=43120164) - [Show HN: I built an AI voice agent for Gmail](https://pocket.computer)
 * [2025-02-20, 21:00:33](https://news.ycombinator.com/item?id=43120130) - [Helpcare AI (YC F24) Is Hiring Full Stack Engineer](https://news.ycombinator.com/item?id=43120130)
 * [2025-02-20, 20:58:32](https://news.ycombinator.com/item?id=43120107) - [Elon Musk recommends that the International Space Station be deorbited ASAP](https://arstechnica.com/features/2025/02/elon-musk-recommends-that-the-international-space-station-be-deorbited-asap/)
+* [2025-02-20, 20:24:56](https://news.ycombinator.com/item?id=43119708) - [Mere weeks after Starship's breakup, the vehicle may soon fly again](https://arstechnica.com/space/2025/02/starships-eighth-test-flight-may-take-place-next-week/)
 * [2025-02-20, 19:46:43](https://news.ycombinator.com/item?id=43119238) - [Lynx Browser: The Land That Time Revived (2022)](https://popzazzle.blogspot.com/2022/06/lynx-browser-land-that-time-revived.html)
 * [2025-02-20, 19:33:28](https://news.ycombinator.com/item?id=43119086) - [Running Pong in 240 browser tabs](https://eieio.games/blog/running-pong-in-240-browser-tabs/)
 * [2025-02-20, 19:28:53](https://news.ycombinator.com/item?id=43119028) - [Curiosity Mars rover discovers evidence of ripples from ancient Red Planet lake](https://www.space.com/space-exploration/mars-rovers/nasas-curiosity-mars-rover-discovers-evidence-of-ripples-from-an-ancient-red-planet-lake-images)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-24, 07:40:18](https://news.ycombinator.com/item?id=43156785) - [We don't need startups, we need Digital-Mittelstand](https://mertbulan.com/2025/02/24/we-dont-need-startups-we-need-digital-mittelstand/)
 * [2025-02-24, 07:10:21](https://news.ycombinator.com/item?id=43156624) - [JSON has become today's machine-readable output format (on Unix)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/JSONModernMachineReadableFormat)
 * [2025-02-24, 05:04:16](https://news.ycombinator.com/item?id=43155975) - [Pollution from Big Tech's data centre boom costs US public health $5.4bn](https://www.ft.com/content/d595d5f6-79d1-47eb-b690-8597f09b39e7)
 * [2025-02-24, 04:38:03](https://news.ycombinator.com/item?id=43155881) - [Computer Simulation of Neural Networks Using Spreadsheets (2018)](https://arxiv.org/abs/1807.00018)
@@ -17,7 +18,6 @@
 * [2025-02-23, 17:43:34](https://news.ycombinator.com/item?id=43151294) - [WhiteSur: macOS-like theme for GTK desktops](https://github.com/vinceliuice/WhiteSur-gtk-theme)
 * [2025-02-23, 16:03:13](https://news.ycombinator.com/item?id=43150217) - [Ultima VII: Revisited](https://www.u7revisited.com/)
 * [2025-02-23, 14:00:25](https://news.ycombinator.com/item?id=43149266) - [Vietnamese Graphic Design](https://vietgd.com/)
-* [2025-02-23, 12:01:56](https://news.ycombinator.com/item?id=43148683) - [War rooms vs. deep investigations](https://rachelbythebay.com/w/2025/02/22/war/)
 * [2025-02-23, 11:03:37](https://news.ycombinator.com/item?id=43148438) - [But good sir, what is electricity?](https://lcamtuf.substack.com/p/but-good-sir-what-is-electricity)
 * [2025-02-23, 03:22:04](https://news.ycombinator.com/item?id=43146155) - [Thailand to Cut Power to Myanmar Scam Hubs](https://bangkoklocal.info/2025/02/05/thailand-to-cut-power-to-myanmar-scam-hubs/)
 * [2025-02-23, 02:25:51](https://news.ycombinator.com/item?id=43145753) - [Making any integer with four 2s](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)
@@ -26,7 +26,7 @@
 * [2025-02-22, 00:03:58](https://news.ycombinator.com/item?id=43134673) - [Orchid's nutrient theft from fungi shows photosynthesis-parasitism continuum](https://phys.org/news/2025-02-orchid-nutrient-theft-fungi-photosynthesis.html)
 * [2025-02-21, 18:38:22](https://news.ycombinator.com/item?id=43131217) - [Augmenting NLQ with language knowledge bases like web search for ChatGPT](https://blog.hyperarc.com/p/ask-more-of-your-analytics)
 * [2025-02-21, 14:29:39](https://news.ycombinator.com/item?id=43127825) - [O3-mini simulated scikit calculations](https://www.emsi.me/emsi/llm-chats/o3-mini-is-insane-at-simulating-computations/2025-02-21/143a52)
-* [2025-02-21, 00:25:17](https://news.ycombinator.com/item?id=43122473) - [Ara Agui Nakajima DCT compression algorithm](https://leetarxiv.substack.com/p/aan-discrete-cosine-transform-paper)
+* [2025-02-20, 20:24:56](https://news.ycombinator.com/item?id=43119708) - [Mere weeks after Starship's breakup, the vehicle may soon fly again](https://arstechnica.com/space/2025/02/starships-eighth-test-flight-may-take-place-next-week/)
 * [2025-02-20, 18:49:29](https://news.ycombinator.com/item?id=43118514) - [Show HN: Benchmarking VLMs vs. Traditional OCR](https://getomni.ai/ocr-benchmark)
 * [2025-02-20, 17:18:21](https://news.ycombinator.com/item?id=43117457) - [Mascotbot: Real-Time, Engaging Avatar SDK for Al Agents](https://www.mascot.bot/)
 * [2025-02-20, 07:58:47](https://news.ycombinator.com/item?id=43112187) - [It is not a compiler error (2017)](https://blog.plover.com/2017/11/12/)
