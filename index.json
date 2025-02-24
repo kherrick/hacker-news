@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-02-24, 19:03:11",
-      "https://news.ycombinator.com/item?id=43163466"
-    ],
-    [
-      "What Happened to the N in Restaurateur?",
-      "https://www.ciachef.edu/blog/what-happened-to-the-n-in-restaurateur/"
-    ]
-  ],
-  [
-    [
       "2025-02-24, 18:28:59",
       "https://news.ycombinator.com/item?id=43163011"
     ],
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=43162995"
     ],
     [
-      "The Best Way to Use Text Embeddings Portably Is with Parquet and Polars",
+      "The best way to use text embeddings portably is with Parquet and Polars",
       "https://minimaxir.com/2025/02/embeddings-parquet/"
     ]
   ],
@@ -127,6 +117,16 @@
     [
       "Introduction to Stochastic Calculus",
       "https://jiha-kim.github.io/posts/introduction-to-stochastic-calculus/"
+    ]
+  ],
+  [
+    [
+      "2025-02-24, 15:37:18",
+      "https://news.ycombinator.com/item?id=43160731"
+    ],
+    [
+      "MongoDB acquires Voyage AI",
+      "https://investors.mongodb.com/news-releases/news-release-details/mongodb-announces-acquisition-voyage-ai-enable-organizations"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=43125875"
     ],
     [
-      "How We're Keeping Our Free Tier Sustainable by Preventing Abuse",
+      "Keeping our free tier sustainable by preventing abuse",
       "https://www.geocod.io/code-and-coordinates/2025-02-19-preventing-abuse/"
     ]
   ],
