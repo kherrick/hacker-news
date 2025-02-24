@@ -6,6 +6,7 @@
 
 * [2025-02-24, 11:05:34](https://news.ycombinator.com/item?id=43158168) - [Apple Says It Will Add 20k Jobs, Spend $500B, Produce AI Servers in US](https://www.bloomberg.com/news/articles/2025-02-24/apple-says-it-will-add-20-000-jobs-spend-500-billion-produce-ai-servers-in-us)
 * [2025-02-24, 10:52:28](https://news.ycombinator.com/item?id=43158097) - [Show HN: RadiaCode – Python Library for RadiaCode-10x Radiation Detectors](https://github.com/cdump/radiacode)
+* [2025-02-24, 10:34:01](https://news.ycombinator.com/item?id=43157980) - [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/)
 * [2025-02-24, 10:12:37](https://news.ycombinator.com/item?id=43157831) - [Microsoft Cancels Leases for AI Data Centers, Analyst Says](https://www.bloomberg.com/news/articles/2025-02-24/microsoft-cancels-leases-for-ai-data-centers-analyst-says)
 * [2025-02-24, 08:19:08](https://news.ycombinator.com/item?id=43157000) - [Cloudflare takes legal action over LaLiga's \"disproportionate blocking efforts\"](https://www.broadbandtvnews.com/2025/02/19/cloudflare-takes-legal-action-over-laligas-disproportionate-blocking-efforts/)
 * [2025-02-24, 07:40:18](https://news.ycombinator.com/item?id=43156785) - [We don't need startups, we need Digital-Mittelstand](https://mertbulan.com/2025/02/24/we-dont-need-startups-we-need-digital-mittelstand/)
