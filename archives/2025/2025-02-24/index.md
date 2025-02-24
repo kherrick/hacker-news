@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-02-24](index.md)
 
+* [2025-02-24, 18:28:59](https://news.ycombinator.com/item?id=43163011) - [Claude 3.7 Sonnet and Claude Code](https://www.anthropic.com/news/claude-3-7-sonnet)
+* [2025-02-24, 18:27:49](https://news.ycombinator.com/item?id=43162995) - [The Best Way to Use Text Embeddings Portably Is with Parquet and Polars](https://minimaxir.com/2025/02/embeddings-parquet/)
+* [2025-02-24, 18:22:23](https://news.ycombinator.com/item?id=43162933) - [The Birth of Wetware (2018)](https://proto.life/2018/05/the-birth-of-wetware/)
 * [2025-02-24, 17:33:56](https://news.ycombinator.com/item?id=43162340) - [Show HN: I made a site to tell the time in corporate](https://corporate.watch)
 * [2025-02-24, 17:29:33](https://news.ycombinator.com/item?id=43162283) - [Micro Journal: Distraction-Free Writing Device](https://github.com/unkyulee/micro-journal)
 * [2025-02-24, 17:00:23](https://news.ycombinator.com/item?id=43161876) - [Ashby (YC W19) Is Hiring Principal Product Engineers](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=a0d8713b-b35e-468e-82a2-40e33795b318)
