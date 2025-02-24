@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-24, 15:40:03](https://news.ycombinator.com/item?id=43160779) - [Introduction to Stochastic Calculus](https://jiha-kim.github.io/posts/introduction-to-stochastic-calculus/)
 * [2025-02-24, 13:51:05](https://news.ycombinator.com/item?id=43159544) - ['Impossible-to-Hack' Security Turns Out to Be No Security at All](https://jltee.substack.com/p/new-zealand-companys-impossible-to-hack-security)
 * [2025-02-24, 12:15:58](https://news.ycombinator.com/item?id=43158660) - [I built an app to stop me doomscrolling by touching grass](https://touchgrass.now/)
 * [2025-02-24, 11:58:26](https://news.ycombinator.com/item?id=43158529) - [Our Epidemic of Loneliness and Isolation [pdf]](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf)
@@ -18,7 +19,6 @@
 * [2025-02-23, 19:53:03](https://news.ycombinator.com/item?id=43152587) - [European word translator: an interactive map](https://ukdataexplorer.com/european-translator/)
 * [2025-02-23, 19:36:49](https://news.ycombinator.com/item?id=43152407) - [AI-designed chips are so weird that 'humans cannot understand them'](https://www.livescience.com/technology/computing/humans-cannot-really-understand-them-weird-ai-designed-chip-is-unlike-any-other-made-by-humans-and-performs-much-better)
 * [2025-02-23, 12:01:56](https://news.ycombinator.com/item?id=43148683) - [War rooms vs. deep investigations](https://rachelbythebay.com/w/2025/02/22/war/)
-* [2025-02-23, 11:03:37](https://news.ycombinator.com/item?id=43148438) - [But good sir, what is electricity?](https://lcamtuf.substack.com/p/but-good-sir-what-is-electricity)
 * [2025-02-23, 02:25:51](https://news.ycombinator.com/item?id=43145753) - [Making any integer with four 2s](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)
 * [2025-02-22, 10:10:40](https://news.ycombinator.com/item?id=43137694) - [Just Write](https://blog.chasingbrains.co/p/just-write-stuff)
 * [2025-02-22, 10:03:23](https://news.ycombinator.com/item?id=43137659) - [OpenCFS (Coupled Field Simulation)](https://opencfs.org/)
@@ -28,7 +28,7 @@
 * [2025-02-21, 22:20:02](https://news.ycombinator.com/item?id=43133745) - [Fast Cash vs. Slow Equity](https://blog.nateliason.com/p/fast-cash-slow-equity)
 * [2025-02-21, 20:55:16](https://news.ycombinator.com/item?id=43132855) - [On Zero Sum Games (The Informational Meta-Game)](https://rohan.ga/blog/zero_game/)
 * [2025-02-21, 14:07:17](https://news.ycombinator.com/item?id=43127577) - [Why does target=\"_blank\" have an underscore in front?](https://kyrylo.org/html/2024/10/25/why-does-target-blank-have-an-underscore-in-front.html)
-* [2025-02-20, 17:18:21](https://news.ycombinator.com/item?id=43117457) - [Mascotbot: Real-Time, Engaging Avatar SDK for Al Agents](https://www.mascot.bot/)
+* [2025-02-20, 18:49:29](https://news.ycombinator.com/item?id=43118514) - [Show HN: Benchmarking VLMs vs. Traditional OCR](https://getomni.ai/ocr-benchmark)
 * [2025-02-20, 07:58:47](https://news.ycombinator.com/item?id=43112187) - [It is not a compiler error (2017)](https://blog.plover.com/2017/11/12/)
 
 ## [Archives](archives/index.md)
