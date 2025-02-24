@@ -1,12 +1,62 @@
 [
   [
     [
+      "2025-02-24, 16:22:10",
+      "https://news.ycombinator.com/item?id=43161332"
+    ],
+    [
+      "Launch HN: SubImage (YC W25) – See your infra from an attacker's perspective",
+      "https://news.ycombinator.com/item?id=43161332"
+    ]
+  ],
+  [
+    [
+      "2025-02-24, 16:11:06",
+      "https://news.ycombinator.com/item?id=43161188"
+    ],
+    [
+      "Larry Ellison's Half-Billion-Dollar Quest to Change Farming Has Been a Bust",
+      "https://www.wsj.com/tech/larry-ellison-hawaii-greenhouse-farm-food-2d260e1f"
+    ]
+  ],
+  [
+    [
+      "2025-02-24, 15:48:16",
+      "https://news.ycombinator.com/item?id=43160884"
+    ],
+    [
+      "Breaking into apartment buildings in five minutes on my phone",
+      "https://www.ericdaigle.ca/posts/breaking-into-dozens-of-apartments-in-five-minutes/"
+    ]
+  ],
+  [
+    [
       "2025-02-24, 15:40:03",
       "https://news.ycombinator.com/item?id=43160779"
     ],
     [
       "Introduction to Stochastic Calculus",
       "https://jiha-kim.github.io/posts/introduction-to-stochastic-calculus/"
+    ]
+  ],
+  [
+    [
+      "2025-02-24, 15:37:18",
+      "https://news.ycombinator.com/item?id=43160731"
+    ],
+    [
+      "MongoDB Announces Acquisition of Voyage AI for $220M",
+      "https://investors.mongodb.com/news-releases/news-release-details/mongodb-announces-acquisition-voyage-ai-enable-organizations"
+    ]
+  ],
+  [
+    [
+      "2025-02-24, 15:26:54",
+      "https://news.ycombinator.com/item?id=43160612"
+    ],
+    [
+      "Laravel Cloud",
+      "https://app.laravel.cloud/"
     ]
   ],
   [
@@ -21,12 +71,12 @@
   ],
   [
     [
-      "2025-02-24, 13:51:05",
-      "https://news.ycombinator.com/item?id=43159544"
+      "2025-02-24, 12:27:33",
+      "https://news.ycombinator.com/item?id=43158739"
     ],
     [
-      "'Impossible-to-Hack' Security Turns Out to Be No Security at All",
-      "https://jltee.substack.com/p/new-zealand-companys-impossible-to-hack-security"
+      "Microsoft Cancels Leases for AI Data Centers, Analyst Says",
+      "https://finance.yahoo.com/news/microsoft-cancels-leases-ai-data-055952585.html"
     ]
   ],
   [
@@ -61,22 +111,22 @@
   ],
   [
     [
+      "2025-02-24, 11:08:43",
+      "https://news.ycombinator.com/item?id=43158187"
+    ],
+    [
+      "Apple will spend more than $500B in the U.S. over the next four years",
+      "https://www.apple.com/newsroom/2025/02/apple-will-spend-more-than-500-billion-usd-in-the-us-over-the-next-four-years/"
+    ]
+  ],
+  [
+    [
       "2025-02-24, 10:52:28",
       "https://news.ycombinator.com/item?id=43158097"
     ],
     [
       "Show HN: RadiaCode – Python Library for RadiaCode-10x Radiation Detectors",
       "https://github.com/cdump/radiacode"
-    ]
-  ],
-  [
-    [
-      "2025-02-24, 05:04:16",
-      "https://news.ycombinator.com/item?id=43155975"
-    ],
-    [
-      "Pollution from Big Tech's data centre boom costs US public health $5.4bn",
-      "https://www.ft.com/content/d595d5f6-79d1-47eb-b690-8597f09b39e7"
     ]
   ],
   [
@@ -201,16 +251,6 @@
   ],
   [
     [
-      "2025-02-22, 10:03:23",
-      "https://news.ycombinator.com/item?id=43137659"
-    ],
-    [
-      "OpenCFS (Coupled Field Simulation)",
-      "https://opencfs.org/"
-    ]
-  ],
-  [
-    [
       "2025-02-22, 09:44:29",
       "https://news.ycombinator.com/item?id=43137586"
     ],
@@ -221,32 +261,12 @@
   ],
   [
     [
-      "2025-02-22, 09:33:37",
-      "https://news.ycombinator.com/item?id=43137541"
-    ],
-    [
-      "Purely Functional Sliding Window Aggregation Algorithm",
-      "https://byorgey.github.io/blog/posts/2024/11/27/stacks-queues.html"
-    ]
-  ],
-  [
-    [
       "2025-02-22, 00:03:58",
       "https://news.ycombinator.com/item?id=43134673"
     ],
     [
       "Orchid's nutrient theft from fungi shows photosynthesis-parasitism continuum",
       "https://phys.org/news/2025-02-orchid-nutrient-theft-fungi-photosynthesis.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-21, 22:20:02",
-      "https://news.ycombinator.com/item?id=43133745"
-    ],
-    [
-      "Fast Cash vs. Slow Equity",
-      "https://blog.nateliason.com/p/fast-cash-slow-equity"
     ]
   ],
   [
@@ -267,26 +287,6 @@
     [
       "Why does target=\"_blank\" have an underscore in front?",
       "https://kyrylo.org/html/2024/10/25/why-does-target-blank-have-an-underscore-in-front.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-21, 02:19:00",
-      "https://news.ycombinator.com/item?id=43123292"
-    ],
-    [
-      "AI cracks superbug problem in two days that took scientists years",
-      "https://www.bbc.com/news/articles/clyz6e9edy3o"
-    ]
-  ],
-  [
-    [
-      "2025-02-20, 18:49:29",
-      "https://news.ycombinator.com/item?id=43118514"
-    ],
-    [
-      "Show HN: Benchmarking VLMs vs. Traditional OCR",
-      "https://getomni.ai/ocr-benchmark"
     ]
   ],
   [
