@@ -1,32 +1,22 @@
 [
   [
     [
-      "2025-02-24, 14:06:12",
-      "https://news.ycombinator.com/item?id=43159691"
-    ],
-    [
-      "Ente: Self Host the Google Photos Alternative and Own Your Privacy",
-      "https://developer-friendly.blog/blog/2025/02/24/ente-self-host-the-google-photos-alternative-and-own-your-privacy/"
-    ]
-  ],
-  [
-    [
-      "2025-02-24, 14:01:04",
-      "https://news.ycombinator.com/item?id=43159640"
-    ],
-    [
-      "Wiley journal retracts 26 papers for 'compromised peer review'",
-      "https://retractionwatch.com/2025/02/19/environmental-toxicology-wiley-journal-retractions-compromised-peer-review/"
-    ]
-  ],
-  [
-    [
       "2025-02-24, 13:51:05",
       "https://news.ycombinator.com/item?id=43159544"
     ],
     [
       "'Impossible-to-Hack' Security Turns Out to Be No Security at All",
       "https://jltee.substack.com/p/new-zealand-companys-impossible-to-hack-security"
+    ]
+  ],
+  [
+    [
+      "2025-02-24, 13:04:18",
+      "https://news.ycombinator.com/item?id=43159072"
+    ],
+    [
+      "Apple to Build A.I. Servers in Houston and Spend $500B in U.S.",
+      "https://www.nytimes.com/2025/02/24/business/apple-tariffs-jobs-investment.html"
     ]
   ],
   [
@@ -61,22 +51,22 @@
   ],
   [
     [
-      "2025-02-24, 11:05:24",
-      "https://news.ycombinator.com/item?id=43158164"
-    ],
-    [
-      "What's New in Emacs 30.1?",
-      "https://www.masteringemacs.org/article/whats-new-in-emacs-301"
-    ]
-  ],
-  [
-    [
       "2025-02-24, 10:52:28",
       "https://news.ycombinator.com/item?id=43158097"
     ],
     [
       "Show HN: RadiaCode – Python Library for RadiaCode-10x Radiation Detectors",
       "https://github.com/cdump/radiacode"
+    ]
+  ],
+  [
+    [
+      "2025-02-24, 05:04:16",
+      "https://news.ycombinator.com/item?id=43155975"
+    ],
+    [
+      "Pollution from Big Tech's data centre boom costs US public health $5.4bn",
+      "https://www.ft.com/content/d595d5f6-79d1-47eb-b690-8597f09b39e7"
     ]
   ],
   [
@@ -111,22 +101,22 @@
   ],
   [
     [
+      "2025-02-24, 00:09:16",
+      "https://news.ycombinator.com/item?id=43154501"
+    ],
+    [
+      "How the UK Is Weakening Safety Worldwide",
+      "https://blog.thenewoil.org/how-the-uk-is-weakening-safety-worldwide"
+    ]
+  ],
+  [
+    [
       "2025-02-23, 23:42:33",
       "https://news.ycombinator.com/item?id=43154331"
     ],
     [
       "Sublinear Time Algorithms",
       "https://people.csail.mit.edu/ronitt/sublinear.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-23, 23:23:04",
-      "https://news.ycombinator.com/item?id=43154218"
-    ],
-    [
-      "Defragging my old Dell's UEFI NVRAM",
-      "https://artemis.sh/2025/02/22/uefi-nvram-defrag.html"
     ]
   ],
   [
@@ -181,12 +171,22 @@
   ],
   [
     [
-      "2025-02-23, 16:03:13",
-      "https://news.ycombinator.com/item?id=43150217"
+      "2025-02-23, 12:01:56",
+      "https://news.ycombinator.com/item?id=43148683"
     ],
     [
-      "Ultima VII: Revisited",
-      "https://www.u7revisited.com/"
+      "War rooms vs. deep investigations",
+      "https://rachelbythebay.com/w/2025/02/22/war/"
+    ]
+  ],
+  [
+    [
+      "2025-02-23, 11:03:37",
+      "https://news.ycombinator.com/item?id=43148438"
+    ],
+    [
+      "But good sir, what is electricity?",
+      "https://lcamtuf.substack.com/p/but-good-sir-what-is-electricity"
     ]
   ],
   [
@@ -217,6 +217,16 @@
     [
       "Why Clojure?",
       "https://gaiwan.co/blog/why-clojure/"
+    ]
+  ],
+  [
+    [
+      "2025-02-22, 09:33:37",
+      "https://news.ycombinator.com/item?id=43137541"
+    ],
+    [
+      "Purely Functional Sliding Window Aggregation Algorithm",
+      "https://byorgey.github.io/blog/posts/2024/11/27/stacks-queues.html"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Mascotbot: Real-Time, Engaging Avatar SDK for Al Agents",
       "https://www.mascot.bot/"
-    ]
-  ],
-  [
-    [
-      "2025-02-20, 14:14:07",
-      "https://news.ycombinator.com/item?id=43114866"
-    ],
-    [
-      "Canada pledges billions for high-speed rail linking Quebec City and Toronto",
-      "https://apnews.com/article/canada-trudeau-highspeed-rail-network-4c50007bc8e9bf5bbec9a4add9ac88fe"
     ]
   ],
   [
