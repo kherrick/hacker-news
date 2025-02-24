@@ -6,7 +6,7 @@
 * [2025-02-24, 19:03:11](https://news.ycombinator.com/item?id=43163466) - [What Happened to the N in Restaurateur?](https://www.ciachef.edu/blog/what-happened-to-the-n-in-restaurateur/)
 * [2025-02-24, 18:28:59](https://news.ycombinator.com/item?id=43163011) - [Claude 3.7 Sonnet and Claude Code](https://www.anthropic.com/news/claude-3-7-sonnet)
 * [2025-02-24, 18:27:49](https://news.ycombinator.com/item?id=43162995) - [The best way to use text embeddings portably is with Parquet and Polars](https://minimaxir.com/2025/02/embeddings-parquet/)
-* [2025-02-24, 18:04:50](https://news.ycombinator.com/item?id=43162737) - [Behold Modular Forms, the 'Fifth Fundamental Operation' of Math[2023]](https://www.quantamagazine.org/behold-modular-forms-the-fifth-fundamental-operation-of-math-20230921/)
+* [2025-02-24, 18:04:50](https://news.ycombinator.com/item?id=43162737) - [Behold Modular Forms, the 'Fifth Fundamental Operation' of Math (2023)](https://www.quantamagazine.org/behold-modular-forms-the-fifth-fundamental-operation-of-math-20230921/)
 * [2025-02-24, 17:49:58](https://news.ycombinator.com/item?id=43162544) - [Student refines 100-year-old math problem, expanding wind energy possibilities](https://www.psu.edu/news/engineering/story/student-refines-100-year-old-math-problem-expanding-wind-energy-possibilities)
 * [2025-02-24, 17:33:56](https://news.ycombinator.com/item?id=43162340) - [Show HN: I made a site to tell the time in corporate](https://corporate.watch)
 * [2025-02-24, 17:29:33](https://news.ycombinator.com/item?id=43162283) - [Micro Journal: Distraction-Free Writing Device](https://github.com/unkyulee/micro-journal)
