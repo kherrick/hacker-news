@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-02-24, 14:01:04",
+      "https://news.ycombinator.com/item?id=43159640"
+    ],
+    [
+      "Wiley journal retracts 26 papers for 'compromised peer review'",
+      "https://retractionwatch.com/2025/02/19/environmental-toxicology-wiley-journal-retractions-compromised-peer-review/"
+    ]
+  ],
+  [
+    [
       "2025-02-24, 13:51:05",
       "https://news.ycombinator.com/item?id=43159544"
     ],
@@ -27,16 +37,6 @@
     [
       "I built an app to stop me doomscrolling by touching grass",
       "https://touchgrass.now/"
-    ]
-  ],
-  [
-    [
-      "2025-02-24, 12:02:01",
-      "https://news.ycombinator.com/item?id=43158562"
-    ],
-    [
-      "Grok 3 is highly vulnerable to indirect prompt injection",
-      "https://simonwillison.net/2025/Feb/23/grok-3-indirect-prompt-injection/"
     ]
   ],
   [
@@ -61,32 +61,12 @@
   ],
   [
     [
-      "2025-02-24, 11:29:26",
-      "https://news.ycombinator.com/item?id=43158318"
+      "2025-02-24, 11:05:24",
+      "https://news.ycombinator.com/item?id=43158164"
     ],
     [
-      "Apache NetBeans 25",
-      "https://github.com/apache/netbeans/releases/tag/25"
-    ]
-  ],
-  [
-    [
-      "2025-02-24, 11:26:13",
-      "https://news.ycombinator.com/item?id=43158292"
-    ],
-    [
-      "Is Ketamine Neurotoxic?",
-      "https://desmolysium.com/ketamineneurotoxic/"
-    ]
-  ],
-  [
-    [
-      "2025-02-24, 11:05:34",
-      "https://news.ycombinator.com/item?id=43158168"
-    ],
-    [
-      "Apple Says It Will Add 20k Jobs, Spend $500B, Produce AI Servers in US",
-      "https://www.bloomberg.com/news/articles/2025-02-24/apple-says-it-will-add-20-000-jobs-spend-500-billion-produce-ai-servers-in-us"
+      "What's New in Emacs 30.1?",
+      "https://www.masteringemacs.org/article/whats-new-in-emacs-301"
     ]
   ],
   [
@@ -101,22 +81,12 @@
   ],
   [
     [
-      "2025-02-24, 10:34:01",
-      "https://news.ycombinator.com/item?id=43157980"
+      "2025-02-24, 04:38:03",
+      "https://news.ycombinator.com/item?id=43155881"
     ],
     [
-      "Building a BitTorrent client from the ground up in Go (2020)",
-      "https://blog.jse.li/posts/torrent/"
-    ]
-  ],
-  [
-    [
-      "2025-02-24, 10:12:37",
-      "https://news.ycombinator.com/item?id=43157831"
-    ],
-    [
-      "Microsoft Cancels Leases for AI Data Centers, Analyst Says",
-      "https://www.bloomberg.com/news/articles/2025-02-24/microsoft-cancels-leases-for-ai-data-centers-analyst-says"
+      "Computer Simulation of Neural Networks Using Spreadsheets (2018)",
+      "https://arxiv.org/abs/1807.00018"
     ]
   ],
   [
@@ -127,6 +97,26 @@
     [
       "DeepSeek Open Source FlashMLA – MLA Decoding Kernel for Hopper GPUs",
       "https://github.com/deepseek-ai/FlashMLA"
+    ]
+  ],
+  [
+    [
+      "2025-02-24, 00:34:34",
+      "https://news.ycombinator.com/item?id=43154666"
+    ],
+    [
+      "The benefits of learning in public",
+      "https://www.gilesthomas.com/2025/02/20250223-til-deep-dive-posts"
+    ]
+  ],
+  [
+    [
+      "2025-02-23, 23:42:33",
+      "https://news.ycombinator.com/item?id=43154331"
+    ],
+    [
+      "Sublinear Time Algorithms",
+      "https://people.csail.mit.edu/ronitt/sublinear.html"
     ]
   ],
   [
@@ -161,26 +151,6 @@
   ],
   [
     [
-      "2025-02-23, 22:06:09",
-      "https://news.ycombinator.com/item?id=43153662"
-    ],
-    [
-      "Partnering with the Shawnee Tribe for Civilization VII",
-      "https://civilization.2k.com/civ-vii/news/civilization-vii-shawnee-tribe-partnership/"
-    ]
-  ],
-  [
-    [
-      "2025-02-23, 21:11:44",
-      "https://news.ycombinator.com/item?id=43153262"
-    ],
-    [
-      "Bitwarden Authenticator",
-      "https://bitwarden.com/products/authenticator/"
-    ]
-  ],
-  [
-    [
       "2025-02-23, 20:05:49",
       "https://news.ycombinator.com/item?id=43152704"
     ],
@@ -201,12 +171,12 @@
   ],
   [
     [
-      "2025-02-23, 17:43:34",
-      "https://news.ycombinator.com/item?id=43151294"
+      "2025-02-23, 19:36:49",
+      "https://news.ycombinator.com/item?id=43152407"
     ],
     [
-      "WhiteSur: macOS-like theme for GTK desktops",
-      "https://github.com/vinceliuice/WhiteSur-gtk-theme"
+      "AI-designed chips are so weird that 'humans cannot understand them'",
+      "https://www.livescience.com/technology/computing/humans-cannot-really-understand-them-weird-ai-designed-chip-is-unlike-any-other-made-by-humans-and-performs-much-better"
     ]
   ],
   [
@@ -221,16 +191,6 @@
   ],
   [
     [
-      "2025-02-23, 14:00:25",
-      "https://news.ycombinator.com/item?id=43149266"
-    ],
-    [
-      "Vietnamese Graphic Design",
-      "https://vietgd.com/"
-    ]
-  ],
-  [
-    [
       "2025-02-23, 02:25:51",
       "https://news.ycombinator.com/item?id=43145753"
     ],
@@ -241,12 +201,12 @@
   ],
   [
     [
-      "2025-02-22, 13:32:23",
-      "https://news.ycombinator.com/item?id=43138830"
+      "2025-02-22, 10:03:23",
+      "https://news.ycombinator.com/item?id=43137659"
     ],
     [
-      "Torvalds: You can avoid Rust as a C maintainer, but you can't interfere with it",
-      "https://arstechnica.com/gadgets/2025/02/linux-leaders-pave-a-path-for-rust-in-kernel-while-supporting-c-veterans/"
+      "OpenCFS (Coupled Field Simulation)",
+      "https://opencfs.org/"
     ]
   ],
   [
@@ -257,6 +217,16 @@
     [
       "Why Clojure?",
       "https://gaiwan.co/blog/why-clojure/"
+    ]
+  ],
+  [
+    [
+      "2025-02-22, 00:03:58",
+      "https://news.ycombinator.com/item?id=43134673"
+    ],
+    [
+      "Orchid's nutrient theft from fungi shows photosynthesis-parasitism continuum",
+      "https://phys.org/news/2025-02-orchid-nutrient-theft-fungi-photosynthesis.html"
     ]
   ],
   [
@@ -287,6 +257,36 @@
     [
       "Why does target=\"_blank\" have an underscore in front?",
       "https://kyrylo.org/html/2024/10/25/why-does-target-blank-have-an-underscore-in-front.html"
+    ]
+  ],
+  [
+    [
+      "2025-02-20, 18:49:29",
+      "https://news.ycombinator.com/item?id=43118514"
+    ],
+    [
+      "Show HN: Benchmarking VLMs vs. Traditional OCR",
+      "https://getomni.ai/ocr-benchmark"
+    ]
+  ],
+  [
+    [
+      "2025-02-20, 17:18:21",
+      "https://news.ycombinator.com/item?id=43117457"
+    ],
+    [
+      "Mascotbot: Real-Time, Engaging Avatar SDK for Al Agents",
+      "https://www.mascot.bot/"
+    ]
+  ],
+  [
+    [
+      "2025-02-20, 14:14:07",
+      "https://news.ycombinator.com/item?id=43114866"
+    ],
+    [
+      "Canada pledges billions for high-speed rail linking Quebec City and Toronto",
+      "https://apnews.com/article/canada-trudeau-highspeed-rail-network-4c50007bc8e9bf5bbec9a4add9ac88fe"
     ]
   ],
   [
