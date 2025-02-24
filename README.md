@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-24, 21:25:15](https://news.ycombinator.com/item?id=43165112) - [\"The closer to the train station, the worse the kebab\" – A \"Study\"](https://www.jmspae.se/write-ups/kebabs-train-stations/)
 * [2025-02-24, 20:50:22](https://news.ycombinator.com/item?id=43164794) - [Show HN: Electro – A hyper-fast Windows image viewer with a built-in terminal](https://github.com/pTinosq/Electro)
 * [2025-02-24, 20:22:52](https://news.ycombinator.com/item?id=43164499) - [Closing the \"green gap\": energy savings from the math of the landscape function](https://terrytao.wordpress.com/2025/02/23/closing-the-green-gap-from-the-mathematics-of-the-landscape-function-to-lower-electricity-costs-for-households/)
 * [2025-02-24, 19:03:11](https://news.ycombinator.com/item?id=43163466) - [What Happened to the N in Restaurateur?](https://www.ciachef.edu/blog/what-happened-to-the-n-in-restaurateur/)
@@ -15,6 +16,7 @@
 * [2025-02-24, 15:48:16](https://news.ycombinator.com/item?id=43160884) - [Breaking into apartment buildings in five minutes on my phone](https://www.ericdaigle.ca/posts/breaking-into-dozens-of-apartments-in-five-minutes/)
 * [2025-02-24, 15:40:03](https://news.ycombinator.com/item?id=43160779) - [Introduction to Stochastic Calculus](https://jiha-kim.github.io/posts/introduction-to-stochastic-calculus/)
 * [2025-02-24, 15:37:18](https://news.ycombinator.com/item?id=43160731) - [MongoDB acquires Voyage AI](https://investors.mongodb.com/news-releases/news-release-details/mongodb-announces-acquisition-voyage-ai-enable-organizations)
+* [2025-02-24, 15:26:54](https://news.ycombinator.com/item?id=43160612) - [Laravel Cloud](https://app.laravel.cloud/)
 * [2025-02-24, 15:20:48](https://news.ycombinator.com/item?id=43160542) - [Show HN: Bracket City – A daily, exploded (?) crossword puzzle](https://bracket.city)
 * [2025-02-24, 12:47:07](https://news.ycombinator.com/item?id=43158916) - [Modernist Cuisine: The Art and Science of Cooking](https://modernistcuisine.com/books/modernist-cuisine/)
 * [2025-02-24, 12:15:58](https://news.ycombinator.com/item?id=43158660) - [Show HN: I built an app to stop me doomscrolling by touching grass](https://touchgrass.now/)
@@ -26,9 +28,7 @@
 * [2025-02-23, 19:36:49](https://news.ycombinator.com/item?id=43152407) - [AI-designed chips are so weird that 'humans cannot understand them'](https://www.livescience.com/technology/computing/humans-cannot-really-understand-them-weird-ai-designed-chip-is-unlike-any-other-made-by-humans-and-performs-much-better)
 * [2025-02-21, 14:46:13](https://news.ycombinator.com/item?id=43128021) - [Writing a DSL in Lua (2015)](https://leafo.net/guides/dsl-in-lua.html)
 * [2025-02-21, 14:07:17](https://news.ycombinator.com/item?id=43127577) - [Why does target=\"_blank\" have an underscore in front? (2024)](https://kyrylo.org/html/2024/10/25/why-does-target-blank-have-an-underscore-in-front.html)
-* [2025-02-21, 13:14:52](https://news.ycombinator.com/item?id=43127045) - [The Champion Who Memorized 80 Numbers in 13.5 Seconds](https://www.nytimes.com/2025/02/14/science/vishvaa-rajakumar-memory-techniques.html)
 * [2025-02-21, 10:07:14](https://news.ycombinator.com/item?id=43125875) - [Keeping our free tier sustainable by preventing abuse](https://www.geocod.io/code-and-coordinates/2025-02-19-preventing-abuse/)
-* [2025-02-21, 03:48:33](https://news.ycombinator.com/item?id=43123810) - [\"The closer [to] the railway station the less tasty the Kebab is\" – A Study](https://old.reddit.com/r/gis/comments/1iph0yy/the_closer_to_the_railway_station_the_less_tasty/)
 * [2025-02-20, 15:05:24](https://news.ycombinator.com/item?id=43115548) - [AI cracks superbug problem in two days that took scientists years](https://www.bbc.co.uk/news/articles/clyz6e9edy3o)
 
 ## [Archives](archives/index.md)
