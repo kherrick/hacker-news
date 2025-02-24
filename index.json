@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2025-02-24, 12:27:33",
-      "https://news.ycombinator.com/item?id=43158739"
-    ],
-    [
-      "Microsoft Cancels Leases for AI Data Centers, Analyst Says",
-      "https://finance.yahoo.com/news/microsoft-cancels-leases-ai-data-055952585.html"
-    ]
-  ],
-  [
-    [
       "2025-02-24, 12:15:58",
       "https://news.ycombinator.com/item?id=43158660"
     ],
@@ -151,6 +141,16 @@
   ],
   [
     [
+      "2025-02-24, 10:12:37",
+      "https://news.ycombinator.com/item?id=43157831"
+    ],
+    [
+      "Microsoft cancels leases for AI data centers, analyst says",
+      "https://www.bloomberg.com/news/articles/2025-02-24/microsoft-cancels-leases-for-ai-data-centers-analyst-says"
+    ]
+  ],
+  [
+    [
       "2025-02-24, 04:26:22",
       "https://news.ycombinator.com/item?id=43155839"
     ],
@@ -167,6 +167,16 @@
     [
       "DeepSeek Open Source FlashMLA – MLA Decoding Kernel for Hopper GPUs",
       "https://github.com/deepseek-ai/FlashMLA"
+    ]
+  ],
+  [
+    [
+      "2025-02-24, 01:12:18",
+      "https://news.ycombinator.com/item?id=43154883"
+    ],
+    [
+      "Neut Programming Language",
+      "https://vekatze.github.io/neut/overview.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "AI cracks superbug problem in two days that took scientists years",
       "https://www.bbc.co.uk/news/articles/clyz6e9edy3o"
-    ]
-  ],
-  [
-    [
-      "2025-02-20, 07:58:47",
-      "https://news.ycombinator.com/item?id=43112187"
-    ],
-    [
-      "It is not a compiler error (2017)",
-      "https://blog.plover.com/2017/11/12/"
     ]
   ]
 ]
