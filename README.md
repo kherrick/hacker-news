@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-24, 02:03:42](https://news.ycombinator.com/item?id=43155151) - [Russia's War on Ukraine: Three Years, Three Hundred and Two False Claims](https://www.newsguardrealitycheck.com/p/russias-war-on-ukraine-three-years)
 * [2025-02-24, 00:34:34](https://news.ycombinator.com/item?id=43154666) - [Write the post you wish you'd found](https://www.gilesthomas.com/2025/02/20250223-til-deep-dive-posts)
 * [2025-02-24, 00:09:16](https://news.ycombinator.com/item?id=43154501) - [How the UK Is Weakening Safety Worldwide](https://blog.thenewoil.org/how-the-uk-is-weakening-safety-worldwide)
 * [2025-02-23, 23:42:33](https://news.ycombinator.com/item?id=43154331) - [Sublinear Time Algorithms](https://people.csail.mit.edu/ronitt/sublinear.html)
@@ -10,7 +11,6 @@
 * [2025-02-23, 21:11:44](https://news.ycombinator.com/item?id=43153262) - [Bitwarden Authenticator](https://bitwarden.com/products/authenticator/)
 * [2025-02-23, 20:05:49](https://news.ycombinator.com/item?id=43152704) - [Show HN: Jq-Like Tool for Markdown](https://github.com/yshavit/mdq)
 * [2025-02-23, 19:53:03](https://news.ycombinator.com/item?id=43152587) - [European word translator: an interactive map showing words in over 30 languages](https://ukdataexplorer.com/european-translator/)
-* [2025-02-23, 19:13:18](https://news.ycombinator.com/item?id=43152154) - [In memoriam](https://onlinesafetyact.co.uk/in_memoriam/)
 * [2025-02-23, 17:46:09](https://news.ycombinator.com/item?id=43151320) - [Decades of Research Misconduct Stalled an Alzheimer's Cure](https://www.sciencefriday.com/articles/doctored-book-excerpt/)
 * [2025-02-23, 17:43:34](https://news.ycombinator.com/item?id=43151294) - [WhiteSur: macOS-like theme for GTK desktops](https://github.com/vinceliuice/WhiteSur-gtk-theme)
 * [2025-02-23, 17:00:51](https://news.ycombinator.com/item?id=43150885) - [PropRise (YC S23) Is Hiring Engineer #1](https://www.ycombinator.com/companies/proprise/jobs/ppipLUK-founding-engineer)
