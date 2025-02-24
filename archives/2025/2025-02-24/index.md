@@ -12,6 +12,7 @@
 * [2025-02-24, 15:40:03](https://news.ycombinator.com/item?id=43160779) - [Introduction to Stochastic Calculus](https://jiha-kim.github.io/posts/introduction-to-stochastic-calculus/)
 * [2025-02-24, 15:37:18](https://news.ycombinator.com/item?id=43160731) - [MongoDB Announces Acquisition of Voyage AI for $220M](https://investors.mongodb.com/news-releases/news-release-details/mongodb-announces-acquisition-voyage-ai-enable-organizations)
 * [2025-02-24, 15:26:54](https://news.ycombinator.com/item?id=43160612) - [Laravel Cloud](https://app.laravel.cloud/)
+* [2025-02-24, 15:20:48](https://news.ycombinator.com/item?id=43160542) - [Show HN: Bracket City – A daily, exploded (?) crossword puzzle](https://bracket.city)
 * [2025-02-24, 14:48:51](https://news.ycombinator.com/item?id=43160196) - [ARPA Is Quietly Funding $50-$65 Community-Owned Fiber to Neglected Neighborhoods](https://www.techdirt.com/2025/02/24/arpa-is-quietly-funding-cheap-50-65-a-month-community-owned-gigabit-fiber-access-to-long-neglected-neighborhoods/)
 * [2025-02-24, 14:06:12](https://news.ycombinator.com/item?id=43159691) - [Ente: Self Host the Google Photos Alternative and Own Your Privacy](https://developer-friendly.blog/blog/2025/02/24/ente-self-host-the-google-photos-alternative-and-own-your-privacy/)
 * [2025-02-24, 14:01:04](https://news.ycombinator.com/item?id=43159640) - [Wiley journal retracts 26 papers for 'compromised peer review'](https://retractionwatch.com/2025/02/19/environmental-toxicology-wiley-journal-retractions-compromised-peer-review/)
