@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2025-02-24, 15:26:54",
-      "https://news.ycombinator.com/item?id=43160612"
-    ],
-    [
-      "Laravel Cloud",
-      "https://app.laravel.cloud/"
-    ]
-  ],
-  [
-    [
       "2025-02-24, 15:20:48",
       "https://news.ycombinator.com/item?id=43160542"
     ],
@@ -217,6 +207,16 @@
     [
       "Is this the simplest (and most surprising) sorting algorithm ever? (2021)",
       "https://arxiv.org/abs/2110.01111"
+    ]
+  ],
+  [
+    [
+      "2025-02-24, 01:37:24",
+      "https://news.ycombinator.com/item?id=43155023"
+    ],
+    [
+      "DeepSeek Open Source FlashMLA – MLA Decoding Kernel for Hopper GPUs",
+      "https://github.com/deepseek-ai/FlashMLA"
     ]
   ],
   [
