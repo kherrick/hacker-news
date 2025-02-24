@@ -36,6 +36,7 @@
 * [2025-02-20, 18:17:39](https://news.ycombinator.com/item?id=43118160) - [The Utopia of Rules: Technology, Stupidity and Secret Joys of Bureaucracy (2015)](https://www.theguardian.com/books/2015/may/06/the-utopia-of-rules-on-technology-stupidity-and-the-secret-joys-of-bureaucracy-david-graeber-review)
 * [2025-02-20, 17:53:34](https://news.ycombinator.com/item?id=43117895) - [Show HN: WinCse – Integrating AWS S3 with Windows Explorer](https://github.com/cbh34680/WinCse)
 * [2025-02-20, 17:49:41](https://news.ycombinator.com/item?id=43117861) - [Ancient switch to soft food gave us overbite–the ability to pronounce 'f's,'v'](https://www.science.org/content/article/ancient-switch-soft-food-gave-us-overbite-and-ability-pronounce-f-s-and-v-s)
+* [2025-02-20, 17:18:21](https://news.ycombinator.com/item?id=43117457) - [Mascotbot: Real-Time, Engaging Avatar SDK for Al Agents](https://www.mascot.bot/)
 * [2025-02-20, 16:59:49](https://news.ycombinator.com/item?id=43117159) - [Lifestyle and environmental factors affect health and ageing more than our genes](https://www.ox.ac.uk/news/2025-02-20-lifestyle-and-environmental-factors-affect-health-and-ageing-more-our-genes)
 * [2025-02-20, 16:50:18](https://news.ycombinator.com/item?id=43117020) - [Obsidian is now free for work](https://obsidian.md/blog/free-for-work/)
 * [2025-02-20, 16:23:56](https://news.ycombinator.com/item?id=43116633) - [Launch HN: Confident AI (YC W25) – Open-source evaluation framework for LLM apps](https://news.ycombinator.com/item?id=43116633)

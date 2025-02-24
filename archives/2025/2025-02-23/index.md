@@ -7,6 +7,7 @@
 * [2025-02-23, 23:42:33](https://news.ycombinator.com/item?id=43154331) - [Sublinear Time Algorithms](https://people.csail.mit.edu/ronitt/sublinear.html)
 * [2025-02-23, 23:23:04](https://news.ycombinator.com/item?id=43154218) - [Defragging my old Dell's UEFI NVRAM](https://artemis.sh/2025/02/22/uefi-nvram-defrag.html)
 * [2025-02-23, 23:12:46](https://news.ycombinator.com/item?id=43154148) - [Adding Mastodon Comments to Your Blog](https://beej.us/blog/data/mastodon-comments/)
+* [2025-02-23, 23:00:16](https://news.ycombinator.com/item?id=43154065) - [Ask HN: What are you working on? (February 2025)](https://news.ycombinator.com/item?id=43154065)
 * [2025-02-23, 22:37:57](https://news.ycombinator.com/item?id=43153901) - [Tokio and Prctl = Nasty Bug](https://kobzol.github.io/rust/2025/02/23/tokio-plus-prctl-equals-nasty-bug.html)
 * [2025-02-23, 22:06:09](https://news.ycombinator.com/item?id=43153662) - [Partnering with the Shawnee Tribe for Civilization VII](https://civilization.2k.com/civ-vii/news/civilization-vii-shawnee-tribe-partnership/)
 * [2025-02-23, 21:26:04](https://news.ycombinator.com/item?id=43153382) - [Documentation: $41K Loss: Stripe Security's Failure](https://medium.com/@forreddit/stripe-security-failure-allowing-debit-card-payouts-to-instant-accounts-immediately-6345d15709de)
