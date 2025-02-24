@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-02-24](index.md)
 
+* [2025-02-24, 14:06:12](https://news.ycombinator.com/item?id=43159691) - [Ente: Self Host the Google Photos Alternative and Own Your Privacy](https://developer-friendly.blog/blog/2025/02/24/ente-self-host-the-google-photos-alternative-and-own-your-privacy/)
 * [2025-02-24, 14:01:04](https://news.ycombinator.com/item?id=43159640) - [Wiley journal retracts 26 papers for 'compromised peer review'](https://retractionwatch.com/2025/02/19/environmental-toxicology-wiley-journal-retractions-compromised-peer-review/)
+* [2025-02-24, 13:51:05](https://news.ycombinator.com/item?id=43159544) - ['Impossible-to-Hack' Security Turns Out to Be No Security at All](https://jltee.substack.com/p/new-zealand-companys-impossible-to-hack-security)
 * [2025-02-24, 12:15:58](https://news.ycombinator.com/item?id=43158660) - [i built an app to stop me doomscrolling by literally touching grass](https://touchgrass.now/)
+* [2025-02-24, 12:02:01](https://news.ycombinator.com/item?id=43158562) - [Grok 3 is highly vulnerable to indirect prompt injection](https://simonwillison.net/2025/Feb/23/grok-3-indirect-prompt-injection/)
+* [2025-02-24, 11:46:36](https://news.ycombinator.com/item?id=43158442) - [The Wrongs of Thomas More (Wrong 5)](https://nealstephenson.substack.com/p/the-wrongs-of-thomas-more-wrong-5)
 * [2025-02-24, 11:43:42](https://news.ycombinator.com/item?id=43158425) - [Show HN: I scrape Steam data every month and it's yours to download for free](https://www.gginsights.io)
 * [2025-02-24, 11:29:26](https://news.ycombinator.com/item?id=43158318) - [Apache NetBeans 25](https://github.com/apache/netbeans/releases/tag/25)
 * [2025-02-24, 11:26:13](https://news.ycombinator.com/item?id=43158292) - [Is Ketamine Neurotoxic?](https://desmolysium.com/ketamineneurotoxic/)
