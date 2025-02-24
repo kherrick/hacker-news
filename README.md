@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-24, 04:23:35](https://news.ycombinator.com/item?id=43155825) - [OpenAI Researchers Find That AI Is Unable to Solve Most Coding Problems](https://futurism.com/openai-researchers-coding-fail)
 * [2025-02-24, 01:37:24](https://news.ycombinator.com/item?id=43155023) - [DeepSeek Open Source FlashMLA – MLA Decoding Kernel for Hopper GPUs](https://github.com/deepseek-ai/FlashMLA)
 * [2025-02-24, 00:34:34](https://news.ycombinator.com/item?id=43154666) - [Write the post you wish you'd found](https://www.gilesthomas.com/2025/02/20250223-til-deep-dive-posts)
 * [2025-02-24, 00:09:16](https://news.ycombinator.com/item?id=43154501) - [How the UK Is Weakening Safety Worldwide](https://blog.thenewoil.org/how-the-uk-is-weakening-safety-worldwide)
@@ -14,7 +15,6 @@
 * [2025-02-23, 17:43:34](https://news.ycombinator.com/item?id=43151294) - [WhiteSur: macOS-like theme for GTK desktops](https://github.com/vinceliuice/WhiteSur-gtk-theme)
 * [2025-02-23, 17:00:51](https://news.ycombinator.com/item?id=43150885) - [PropRise (YC S23) Is Hiring Engineer #1](https://www.ycombinator.com/companies/proprise/jobs/ppipLUK-founding-engineer)
 * [2025-02-23, 16:03:13](https://news.ycombinator.com/item?id=43150217) - [Ultima VII: Revisited](https://www.u7revisited.com/)
-* [2025-02-23, 14:53:42](https://news.ycombinator.com/item?id=43149648) - [Pee If You Want to Go Deeper (2021)](https://peeifyouwanttogofaster.com/2021/05/24/pee-if-you-want-to-go-deeper/)
 * [2025-02-23, 14:00:25](https://news.ycombinator.com/item?id=43149266) - [Vietnamese Graphic Design](https://vietgd.com/)
 * [2025-02-23, 12:01:56](https://news.ycombinator.com/item?id=43148683) - [War Rooms vs. Deep Investigations](https://rachelbythebay.com/w/2025/02/22/war/)
 * [2025-02-23, 11:03:37](https://news.ycombinator.com/item?id=43148438) - [But good sir, what is electricity?](https://lcamtuf.substack.com/p/but-good-sir-what-is-electricity)
@@ -24,7 +24,7 @@
 * [2025-02-22, 09:44:29](https://news.ycombinator.com/item?id=43137586) - [Why Clojure?](https://gaiwan.co/blog/why-clojure/)
 * [2025-02-22, 09:33:37](https://news.ycombinator.com/item?id=43137541) - [Purely Functional Sliding Window Aggregation Algorithm](https://byorgey.github.io/blog/posts/2024/11/27/stacks-queues.html)
 * [2025-02-22, 00:03:58](https://news.ycombinator.com/item?id=43134673) - [Orchid's nutrient theft from fungi shows photosynthesis-parasitism continuum](https://phys.org/news/2025-02-orchid-nutrient-theft-fungi-photosynthesis.html)
-* [2025-02-21, 22:22:59](https://news.ycombinator.com/item?id=43133772) - [Aqueous-based recycling of perovskite photovoltaics](https://www.nature.com/articles/s41586-024-08408-7)
+* [2025-02-21, 14:29:39](https://news.ycombinator.com/item?id=43127825) - [O3-mini simulated scikit calculations](https://www.emsi.me/emsi/llm-chats/o3-mini-is-insane-at-simulating-computations/2025-02-21/143a52)
 * [2025-02-21, 07:12:17](https://news.ycombinator.com/item?id=43124902) - ['Indiana Jones' jailbreak approach highlights vulnerabilities of existing LLMs](https://techxplore.com/news/2025-02-indiana-jones-jailbreak-approach-highlights.html)
 * [2025-02-21, 00:25:17](https://news.ycombinator.com/item?id=43122473) - [Ara Agui Nakajima DCT compression algorithm](https://leetarxiv.substack.com/p/aan-discrete-cosine-transform-paper)
 * [2025-02-20, 18:49:29](https://news.ycombinator.com/item?id=43118514) - [Show HN: Benchmarking VLMs vs. Traditional OCR](https://getomni.ai/ocr-benchmark)
