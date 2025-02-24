@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-02-24, 02:03:42",
-      "https://news.ycombinator.com/item?id=43155151"
+      "2025-02-24, 01:37:24",
+      "https://news.ycombinator.com/item?id=43155023"
     ],
     [
-      "Russia's War on Ukraine: Three Years, Three Hundred and Two False Claims",
-      "https://www.newsguardrealitycheck.com/p/russias-war-on-ukraine-three-years"
+      "DeepSeek Open Source FlashMLA – MLA Decoding Kernel for Hopper GPUs",
+      "https://github.com/deepseek-ai/FlashMLA"
     ]
   ],
   [
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2025-02-23, 15:48:19",
-      "https://news.ycombinator.com/item?id=43150085"
-    ],
-    [
-      "It is no longer safe to move our governments and societies to US clouds",
-      "https://berthub.eu/articles/posts/you-can-no-longer-base-your-government-and-society-on-us-clouds/"
-    ]
-  ],
-  [
-    [
       "2025-02-23, 14:53:42",
       "https://news.ycombinator.com/item?id=43149648"
     ],
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2025-02-21, 00:25:17",
+      "https://news.ycombinator.com/item?id=43122473"
+    ],
+    [
+      "Ara Agui Nakajima DCT compression algorithm",
+      "https://leetarxiv.substack.com/p/aan-discrete-cosine-transform-paper"
+    ]
+  ],
+  [
+    [
       "2025-02-20, 18:49:29",
       "https://news.ycombinator.com/item?id=43118514"
     ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=43111417"
     ],
     [
-      "LeetCode but You Can Force People to Code in Light Mode >:)",
+      "LeetCode but You Can Force People to Code in Light Mode",
       "https://www.beatcode.dev/"
     ]
   ]
