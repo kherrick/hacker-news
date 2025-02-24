@@ -17,6 +17,7 @@
 * [2025-02-21, 19:03:57](https://news.ycombinator.com/item?id=43131520) - [Swift's server support powers Things Cloud](https://www.swift.org/blog/how-swifts-server-support-powers-things-cloud/)
 * [2025-02-21, 19:01:59](https://news.ycombinator.com/item?id=43131502) - [General Reasoning: Free, open resource for building large reasoning models](https://gr.inc/)
 * [2025-02-21, 18:41:58](https://news.ycombinator.com/item?id=43131265) - [The U.S. Cannot Be Run Like a Business](https://hbr.org/2017/03/the-u-s-cannot-be-run-like-a-business)
+* [2025-02-21, 18:38:22](https://news.ycombinator.com/item?id=43131217) - [Augmenting NLQ with language knowledge bases like web search for ChatGPT](https://blog.hyperarc.com/p/ask-more-of-your-analytics)
 * [2025-02-21, 18:27:00](https://news.ycombinator.com/item?id=43131059) - [Suckless.org: software that sucks less](https://suckless.org/)
 * [2025-02-21, 18:25:16](https://news.ycombinator.com/item?id=43131045) - [NASA's James Webb Space Telescope faces potential 20% budget cut](https://www.space.com/space-exploration/james-webb-space-telescope/nasa-james-webb-space-telescope-faces-20-percent-budget-cuts)
 * [2025-02-21, 18:23:14](https://news.ycombinator.com/item?id=43131022) - [Please Stop Talking About AGI](https://substack.com/home/post/p-157633768)
