@@ -2,7 +2,6 @@
 
 * [2025-02-24, 18:28:59](https://news.ycombinator.com/item?id=43163011) - [Claude 3.7 Sonnet and Claude Code](https://www.anthropic.com/news/claude-3-7-sonnet)
 * [2025-02-24, 18:27:49](https://news.ycombinator.com/item?id=43162995) - [The Best Way to Use Text Embeddings Portably Is with Parquet and Polars](https://minimaxir.com/2025/02/embeddings-parquet/)
-* [2025-02-24, 18:22:23](https://news.ycombinator.com/item?id=43162933) - [The Birth of Wetware (2018)](https://proto.life/2018/05/the-birth-of-wetware/)
 * [2025-02-24, 17:33:56](https://news.ycombinator.com/item?id=43162340) - [Show HN: I made a site to tell the time in corporate](https://corporate.watch)
 * [2025-02-24, 17:29:33](https://news.ycombinator.com/item?id=43162283) - [Micro Journal: Distraction-Free Writing Device](https://github.com/unkyulee/micro-journal)
 * [2025-02-24, 17:00:23](https://news.ycombinator.com/item?id=43161876) - [Ashby (YC W19) Is Hiring Principal Product Engineers](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=a0d8713b-b35e-468e-82a2-40e33795b318)
@@ -24,6 +23,7 @@
 * [2025-02-24, 01:12:18](https://news.ycombinator.com/item?id=43154883) - [Neut Programming Language](https://vekatze.github.io/neut/overview.html)
 * [2025-02-24, 00:42:34](https://news.ycombinator.com/item?id=43154711) - [My startup journey with BYBE](https://drewknight.com/bybe.html)
 * [2025-02-24, 00:01:53](https://news.ycombinator.com/item?id=43154451) - [The DOS 3.3 Sys.com Bug Hunt](https://www.brutman.com/Adventures_In_Code/DOS_33_SYS_Bug_Hunt/DOS_33_SYS_Bug_Hunt.html)
+* [2025-02-23, 20:05:49](https://news.ycombinator.com/item?id=43152704) - [Show HN: Jq-Like Tool for Markdown](https://github.com/yshavit/mdq)
 * [2025-02-23, 19:36:49](https://news.ycombinator.com/item?id=43152407) - [AI-designed chips are so weird that 'humans cannot understand them'](https://www.livescience.com/technology/computing/humans-cannot-really-understand-them-weird-ai-designed-chip-is-unlike-any-other-made-by-humans-and-performs-much-better)
 * [2025-02-23, 02:25:51](https://news.ycombinator.com/item?id=43145753) - [Making any integer with four 2s](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)
 * [2025-02-21, 14:07:17](https://news.ycombinator.com/item?id=43127577) - [Why does target=\"_blank\" have an underscore in front? (2024)](https://kyrylo.org/html/2024/10/25/why-does-target-blank-have-an-underscore-in-front.html)
