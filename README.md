@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-24, 11:05:34](https://news.ycombinator.com/item?id=43158168) - [Apple Says It Will Add 20k Jobs, Spend $500B, Produce AI Servers in US](https://www.bloomberg.com/news/articles/2025-02-24/apple-says-it-will-add-20-000-jobs-spend-500-billion-produce-ai-servers-in-us)
+* [2025-02-24, 10:52:28](https://news.ycombinator.com/item?id=43158097) - [Show HN: RadiaCode – Python Library for RadiaCode-10x Radiation Detectors](https://github.com/cdump/radiacode)
 * [2025-02-24, 10:12:37](https://news.ycombinator.com/item?id=43157831) - [Microsoft Cancels Leases for AI Data Centers, Analyst Says](https://www.bloomberg.com/news/articles/2025-02-24/microsoft-cancels-leases-for-ai-data-centers-analyst-says)
 * [2025-02-24, 08:19:08](https://news.ycombinator.com/item?id=43157000) - [Cloudflare takes legal action over LaLiga's \"disproportionate blocking efforts\"](https://www.broadbandtvnews.com/2025/02/19/cloudflare-takes-legal-action-over-laligas-disproportionate-blocking-efforts/)
 * [2025-02-24, 05:04:16](https://news.ycombinator.com/item?id=43155975) - [Pollution from Big Tech's data centre boom costs US public health $5.4bn](https://www.ft.com/content/d595d5f6-79d1-47eb-b690-8597f09b39e7)
@@ -9,7 +11,6 @@
 * [2025-02-24, 00:09:16](https://news.ycombinator.com/item?id=43154501) - [How the UK Is Weakening Safety Worldwide](https://blog.thenewoil.org/how-the-uk-is-weakening-safety-worldwide)
 * [2025-02-23, 23:42:33](https://news.ycombinator.com/item?id=43154331) - [Sublinear Time Algorithms](https://people.csail.mit.edu/ronitt/sublinear.html)
 * [2025-02-23, 23:23:04](https://news.ycombinator.com/item?id=43154218) - [Defragging my old Dell's UEFI NVRAM](https://artemis.sh/2025/02/22/uefi-nvram-defrag.html)
-* [2025-02-23, 23:12:46](https://news.ycombinator.com/item?id=43154148) - [Adding Mastodon Comments to Your Blog](https://beej.us/blog/data/mastodon-comments/)
 * [2025-02-23, 23:00:16](https://news.ycombinator.com/item?id=43154065) - [Ask HN: What are you working on? (February 2025)](https://news.ycombinator.com/item?id=43154065)
 * [2025-02-23, 22:37:57](https://news.ycombinator.com/item?id=43153901) - [Tokio and Prctl = Nasty Bug](https://kobzol.github.io/rust/2025/02/23/tokio-plus-prctl-equals-nasty-bug.html)
 * [2025-02-23, 22:06:09](https://news.ycombinator.com/item?id=43153662) - [Partnering with the Shawnee Tribe for Civilization VII](https://civilization.2k.com/civ-vii/news/civilization-vii-shawnee-tribe-partnership/)
@@ -18,7 +19,6 @@
 * [2025-02-23, 17:43:34](https://news.ycombinator.com/item?id=43151294) - [WhiteSur: macOS-like theme for GTK desktops](https://github.com/vinceliuice/WhiteSur-gtk-theme)
 * [2025-02-23, 16:03:13](https://news.ycombinator.com/item?id=43150217) - [Ultima VII: Revisited](https://www.u7revisited.com/)
 * [2025-02-23, 14:00:25](https://news.ycombinator.com/item?id=43149266) - [Vietnamese Graphic Design](https://vietgd.com/)
-* [2025-02-23, 12:01:56](https://news.ycombinator.com/item?id=43148683) - [War rooms vs. deep investigations](https://rachelbythebay.com/w/2025/02/22/war/)
 * [2025-02-23, 11:03:37](https://news.ycombinator.com/item?id=43148438) - [But good sir, what is electricity?](https://lcamtuf.substack.com/p/but-good-sir-what-is-electricity)
 * [2025-02-23, 02:25:51](https://news.ycombinator.com/item?id=43145753) - [Making any integer with four 2s](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)
 * [2025-02-22, 10:03:23](https://news.ycombinator.com/item?id=43137659) - [OpenCFS (Coupled Field Simulation)](https://opencfs.org/)
