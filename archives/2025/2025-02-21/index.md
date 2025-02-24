@@ -46,6 +46,7 @@
 * [2025-02-21, 15:34:53](https://news.ycombinator.com/item?id=43128650) - [Railings Made from WWII Stretchers](https://en.wikipedia.org/wiki/Stretcher_railing)
 * [2025-02-21, 15:05:24](https://news.ycombinator.com/item?id=43128253) - [Apple pulls data protection tool after UK government security row](https://www.bbc.com/news/articles/cgj54eq4vejo)
 * [2025-02-21, 14:52:14](https://news.ycombinator.com/item?id=43128093) - [Johnny.Decimal – A system to organise your life](https://johnnydecimal.com)
+* [2025-02-21, 14:46:13](https://news.ycombinator.com/item?id=43128021) - [Writing a DSL in Lua (2015)](https://leafo.net/guides/dsl-in-lua.html)
 * [2025-02-21, 14:29:39](https://news.ycombinator.com/item?id=43127825) - [O3-mini simulated scikit calculations](https://www.emsi.me/emsi/llm-chats/o3-mini-is-insane-at-simulating-computations/2025-02-21/143a52)
 * [2025-02-21, 14:28:48](https://news.ycombinator.com/item?id=43127819) - [SpaceX engineers brought on at FAA after probationary employees were fired](https://www.wired.com/story/faa-doge-elon-musk-space-x/)
 * [2025-02-21, 14:07:17](https://news.ycombinator.com/item?id=43127577) - [Why does target=\"_blank\" have an underscore in front?](https://kyrylo.org/html/2024/10/25/why-does-target-blank-have-an-underscore-in-front.html)
