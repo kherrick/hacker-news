@@ -14,6 +14,7 @@
 * [2025-02-22, 22:13:03](https://news.ycombinator.com/item?id=43143806) - [Official sequel to Cracking the Coding Interview is out](https://interviewing.io/blog/we-co-wrote-the-official-sequel-to-cracking-the-coding-interview-introducing-beyond-ctci)
 * [2025-02-22, 22:08:42](https://news.ycombinator.com/item?id=43143777) - [OpenBSD Innovations](https://www.openbsd.org/innovations.html)
 * [2025-02-22, 21:52:27](https://news.ycombinator.com/item?id=43143637) - [NIH funding freeze stalls applications on $1.5B in medical research funds](https://www.npr.org/sections/shots-health-news/2025/02/22/nx-s1-5305276/trump-nih-funding-freeze-medical-research)
+* [2025-02-22, 21:52:26](https://news.ycombinator.com/item?id=43143636) - [Show HN: A competition game to write bots for the most efficient algo](https://github.com/kingofthegrid/king-of-the-grid)
 * [2025-02-22, 20:52:01](https://news.ycombinator.com/item?id=43143097) - [Kaneo – An open source project management platform](https://kaneo.app/)
 * [2025-02-22, 20:40:26](https://news.ycombinator.com/item?id=43142989) - [In Defense of Text Labels: Why Icons Alone Aren't Enough](https://www.chrbutler.com/in-defense-of-text-labels)
 * [2025-02-22, 19:58:04](https://news.ycombinator.com/item?id=43142572) - [September 17, 1787: \"A Republic, If You Can Keep It\"](https://www.nps.gov/articles/000/constitutionalconvention-september17.htm)

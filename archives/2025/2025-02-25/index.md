@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-25](index.md)
 
+* [2025-02-25, 07:13:23](https://news.ycombinator.com/item?id=43169103) - [What would happen if we didn't use TCP or UDP?](https://github.com/Hawzen/hdp)
 * [2025-02-25, 05:43:30](https://news.ycombinator.com/item?id=43168589) - [Xcode Constantly Phones Home](https://lapcatsoftware.com/articles/2025/2/5.html)
 * [2025-02-25, 05:33:21](https://news.ycombinator.com/item?id=43168533) - [There Isn't Much Point to HTTP/2 Past the Load Balancer](https://byroot.github.io/ruby/performance/2025/02/24/http2-past-the-load-balancer.html)
 * [2025-02-25, 04:06:39](https://news.ycombinator.com/item?id=43168059) - [A16Z AI Voice Update 2025](https://gamma.app/docs/a16z-AI-Voice-Update-2025--ttkorld8iy6wfnj?mode=doc)

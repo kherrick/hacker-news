@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-25, 07:13:23](https://news.ycombinator.com/item?id=43169103) - [What would happen if we didn't use TCP or UDP?](https://github.com/Hawzen/hdp)
 * [2025-02-25, 05:43:30](https://news.ycombinator.com/item?id=43168589) - [Xcode Constantly Phones Home](https://lapcatsoftware.com/articles/2025/2/5.html)
 * [2025-02-25, 05:33:21](https://news.ycombinator.com/item?id=43168533) - [There Isn't Much Point to HTTP/2 Past the Load Balancer](https://byroot.github.io/ruby/performance/2025/02/24/http2-past-the-load-balancer.html)
 * [2025-02-25, 04:06:39](https://news.ycombinator.com/item?id=43168059) - [A16Z AI Voice Update 2025](https://gamma.app/docs/a16z-AI-Voice-Update-2025--ttkorld8iy6wfnj?mode=doc)
@@ -16,7 +17,6 @@
 * [2025-02-24, 18:28:59](https://news.ycombinator.com/item?id=43163011) - [Claude 3.7 Sonnet and Claude Code](https://www.anthropic.com/news/claude-3-7-sonnet)
 * [2025-02-24, 18:27:49](https://news.ycombinator.com/item?id=43162995) - [The best way to use text embeddings portably is with Parquet and Polars](https://minimaxir.com/2025/02/embeddings-parquet/)
 * [2025-02-24, 17:33:56](https://news.ycombinator.com/item?id=43162340) - [Show HN: I made a site to tell the time in corporate](https://corporate.watch)
-* [2025-02-24, 17:00:23](https://news.ycombinator.com/item?id=43161876) - [Ashby (YC W19) Is Hiring Principal Product Engineers](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=a0d8713b-b35e-468e-82a2-40e33795b318)
 * [2025-02-24, 16:22:10](https://news.ycombinator.com/item?id=43161332) - [Launch HN: SubImage (YC W25) – See your infra from an attacker's perspective](https://news.ycombinator.com/item?id=43161332)
 * [2025-02-24, 16:11:06](https://news.ycombinator.com/item?id=43161188) - [Larry Ellison's half-billion-dollar quest to change farming](https://www.wsj.com/tech/larry-ellison-hawaii-greenhouse-farm-food-2d260e1f)
 * [2025-02-24, 15:48:16](https://news.ycombinator.com/item?id=43160884) - [Breaking into apartment buildings in five minutes on my phone](https://www.ericdaigle.ca/posts/breaking-into-dozens-of-apartments-in-five-minutes/)
@@ -24,11 +24,11 @@
 * [2025-02-24, 11:21:22](https://news.ycombinator.com/item?id=43158262) - [Freelancing: How I found clients, part 1](https://crocspace.substack.com/p/freelancing-how-i-got-clients-part)
 * [2025-02-24, 10:12:37](https://news.ycombinator.com/item?id=43157831) - [Microsoft cancels leases for AI data centers, analyst says](https://www.bloomberg.com/news/articles/2025-02-24/microsoft-cancels-leases-for-ai-data-centers-analyst-says)
 * [2025-02-23, 23:00:16](https://news.ycombinator.com/item?id=43154065) - [Ask HN: What are you working on? (February 2025)](https://news.ycombinator.com/item?id=43154065)
+* [2025-02-22, 21:52:26](https://news.ycombinator.com/item?id=43143636) - [Show HN: A competition game to write bots for the most efficient algo](https://github.com/kingofthegrid/king-of-the-grid)
 * [2025-02-22, 17:30:11](https://news.ycombinator.com/item?id=43141037) - [US Space Force reveals first look at secretive X-37B space plane in orbit](https://www.space.com/space-force-x-37b-1st-photo-from-orbit-earth)
 * [2025-02-22, 13:47:31](https://news.ycombinator.com/item?id=43138921) - [MSVC Address Sanitizer updates in Visual Studio 2022 version 17.13](https://devblogs.microsoft.com/cppblog/msvc-address-sanitizer-updates-in-visual-studio-2022-version-17-13/)
 * [2025-02-22, 08:27:56](https://news.ycombinator.com/item?id=43137248) - [Show HN: While the world builds AI Agents, I'm just building calculators](https://www.calcverse.live)
 * [2025-02-21, 15:17:12](https://news.ycombinator.com/item?id=43128392) - [I ate and reviewed every snack in our office kitchen](https://www.getlago.com/blog/office-snacks)
-* [2025-02-21, 14:46:13](https://news.ycombinator.com/item?id=43128021) - [Writing a DSL in Lua (2015)](https://leafo.net/guides/dsl-in-lua.html)
 * [2025-02-20, 15:05:24](https://news.ycombinator.com/item?id=43115548) - [AI cracks superbug problem in two days that took scientists years](https://www.bbc.co.uk/news/articles/clyz6e9edy3o)
 
 ## [Archives](archives/index.md)
