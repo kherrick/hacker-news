@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-25, 19:59:41",
+      "https://news.ycombinator.com/item?id=43176553"
+    ],
+    [
+      "Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs [pdf]",
+      "https://martins1612.github.io/emergent_misalignment_betley.pdf"
+    ]
+  ],
+  [
+    [
       "2025-02-25, 19:39:21",
       "https://news.ycombinator.com/item?id=43176314"
     ],
@@ -37,16 +47,6 @@
     [
       "The XB-70 (2019)",
       "http://codex99.com/photography/the-xb70.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-25, 18:05:54",
-      "https://news.ycombinator.com/item?id=43175233"
-    ],
-    [
-      "Brewing Clean Water: The metal-remediating benefits of tea preparation",
-      "https://pubs.acs.org/doi/10.1021/acsfoodscitech.4c01030"
     ]
   ],
   [
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2025-02-25, 12:27:11",
-      "https://news.ycombinator.com/item?id=43171002"
-    ],
-    [
-      "A Defense of Weird Research",
-      "https://asteriskmag.com/issues/09/a-defense-of-weird-research"
-    ]
-  ],
-  [
-    [
       "2025-02-25, 11:22:06",
       "https://news.ycombinator.com/item?id=43170545"
     ],
@@ -211,92 +201,102 @@
   ],
   [
     [
-      "2025-02-25, 02:27:29",
-      "https://news.ycombinator.com/item?id=43167373"
+      "2025-02-24, 18:09:19",
+      "https://news.ycombinator.com/item?id=43162793"
     ],
     [
-      "DeepSeek open source DeepEP – library for MoE training and Inference",
-      "https://github.com/deepseek-ai/DeepEP"
+      "Ggwave: Tiny Data-over-Sound Library",
+      "https://github.com/ggerganov/ggwave"
     ]
   ],
   [
     [
-      "2025-02-25, 01:40:14",
-      "https://news.ycombinator.com/item?id=43167087"
+      "2025-02-24, 13:53:17",
+      "https://news.ycombinator.com/item?id=43159566"
     ],
     [
-      "DigiCert: Threat of legal action to stifle Bugzilla discourse",
-      "https://bugzilla.mozilla.org/show_bug.cgi?id=1950144"
+      "Sigma BF Camera",
+      "https://www.sigma-global.com/en/cameras/bf/"
     ]
   ],
   [
     [
-      "2025-02-24, 23:52:33",
-      "https://news.ycombinator.com/item?id=43166362"
+      "2025-02-23, 23:36:03",
+      "https://news.ycombinator.com/item?id=43154295"
     ],
     [
-      "Clean Code vs. A Philosophy Of Software Design",
-      "https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md"
+      "Bald eagles are thriving again after near extinction",
+      "https://www.newsweek.com/bald-eagles-back-brink-extinction-2025097"
     ]
   ],
   [
     [
-      "2025-02-24, 21:25:15",
-      "https://news.ycombinator.com/item?id=43165112"
+      "2025-02-23, 18:51:49",
+      "https://news.ycombinator.com/item?id=43151943"
     ],
     [
-      "“The closer to the train station, the worse the kebab” – a “study”",
-      "https://www.jmspae.se/write-ups/kebabs-train-stations/"
+      "Part two of Grant Sanderson's video with Terry Tao on the cosmic distance ladder",
+      "https://mathstodon.xyz/@tao/114054291471216181"
     ]
   ],
   [
     [
-      "2025-02-24, 18:28:59",
-      "https://news.ycombinator.com/item?id=43163011"
+      "2025-02-23, 15:25:35",
+      "https://news.ycombinator.com/item?id=43149899"
     ],
     [
-      "Claude 3.7 Sonnet and Claude Code",
-      "https://www.anthropic.com/news/claude-3-7-sonnet"
+      "Show HN: Dropbud – A place to upload files without uploading",
+      "https://dropbud.co/space"
     ]
   ],
   [
     [
-      "2025-02-24, 11:21:22",
-      "https://news.ycombinator.com/item?id=43158262"
+      "2025-02-23, 13:25:44",
+      "https://news.ycombinator.com/item?id=43149077"
     ],
     [
-      "Freelancing: How I found clients, part 1",
-      "https://crocspace.substack.com/p/freelancing-how-i-got-clients-part"
+      "Why are QR Codes with capital letters smaller than QR codes with lower case?",
+      "https://shkspr.mobi/blog/2025/02/why-are-qr-codes-with-capital-letters-smaller-than-qr-codes-with-lower-case-letters/"
     ]
   ],
   [
     [
-      "2025-02-22, 08:11:45",
-      "https://news.ycombinator.com/item?id=43137171"
+      "2025-02-22, 13:55:03",
+      "https://news.ycombinator.com/item?id=43138960"
     ],
     [
-      "Ask HN: A retrofitted C dialect?",
-      "https://news.ycombinator.com/item?id=43137171"
+      "Forum with 2.6M posts being deleted due to UK Online Safety Act",
+      "https://forums.hexus.net/hexus-news/426608-looks-like-end-hexus-forums.html"
     ]
   ],
   [
     [
-      "2025-02-22, 08:06:10",
-      "https://news.ycombinator.com/item?id=43137145"
+      "2025-02-22, 12:23:56",
+      "https://news.ycombinator.com/item?id=43138368"
     ],
     [
-      "Invoker Commands (Explainer)",
-      "https://open-ui.org/components/invokers.explainer/"
+      "How core Git developers configure Git",
+      "https://blog.gitbutler.com/how-git-core-devs-configure-git/"
     ]
   ],
   [
     [
-      "2025-02-22, 07:33:48",
-      "https://news.ycombinator.com/item?id=43136951"
+      "2025-02-21, 23:48:53",
+      "https://news.ycombinator.com/item?id=43134563"
     ],
     [
-      "SETI's hard steps and how to resolve them",
-      "https://www.centauri-dreams.org/2025/02/21/setis-hard-steps-and-how-to-resolve-them/"
+      "Xonsh – A Python-powered shell",
+      "https://xon.sh/"
+    ]
+  ],
+  [
+    [
+      "2025-02-21, 21:26:28",
+      "https://news.ycombinator.com/item?id=43133207"
+    ],
+    [
+      "The Deep Research problem",
+      "https://www.ben-evans.com/benedictevans/2025/2/17/the-deep-research-problem"
     ]
   ]
 ]
