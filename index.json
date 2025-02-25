@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-25, 18:20:18",
+      "https://news.ycombinator.com/item?id=43175408"
+    ],
+    [
+      "Low Overhead Allocation Sampling with VMProf in PyPy's GC",
+      "https://pypy.org/posts/2025/02/pypy-gc-sampling.html"
+    ]
+  ],
+  [
+    [
+      "2025-02-25, 18:12:31",
+      "https://news.ycombinator.com/item?id=43175315"
+    ],
+    [
+      "The XB-70 (2019)",
+      "http://codex99.com/photography/the-xb70.html"
+    ]
+  ],
+  [
+    [
       "2025-02-25, 18:00:47",
       "https://news.ycombinator.com/item?id=43175182"
     ],
@@ -27,6 +47,16 @@
     [
       "Hard problems that reduce to document ranking",
       "https://noperator.dev/posts/document-ranking-for-complex-problems/"
+    ]
+  ],
+  [
+    [
+      "2025-02-25, 17:05:15",
+      "https://news.ycombinator.com/item?id=43174506"
+    ],
+    [
+      "Building and operating a pretty big storage system called S3 (2023)",
+      "https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html"
     ]
   ],
   [
@@ -131,22 +161,12 @@
   ],
   [
     [
-      "2025-02-25, 07:13:23",
-      "https://news.ycombinator.com/item?id=43169103"
+      "2025-02-25, 05:33:27",
+      "https://news.ycombinator.com/item?id=43168534"
     ],
     [
-      "What would happen if we didn't use TCP or UDP?",
-      "https://github.com/Hawzen/hdp"
-    ]
-  ],
-  [
-    [
-      "2025-02-25, 05:47:09",
-      "https://news.ycombinator.com/item?id=43168611"
-    ],
-    [
-      "GibberLink [AI-AI Communication]",
-      "https://github.com/PennyroyalTea/gibberlink"
+      "Dogs may have domesticated themselves because they liked snacks, model suggests",
+      "https://www.livescience.com/animals/dogs/dogs-may-have-domesticated-themselves-because-they-really-liked-snacks-model-suggests"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-02-24, 18:27:49",
-      "https://news.ycombinator.com/item?id=43162995"
-    ],
-    [
-      "The best way to use text embeddings portably is with Parquet and Polars",
-      "https://minimaxir.com/2025/02/embeddings-parquet/"
-    ]
-  ],
-  [
-    [
       "2025-02-24, 11:21:22",
       "https://news.ycombinator.com/item?id=43158262"
     ],
@@ -237,16 +247,6 @@
     [
       "Blunder Free Chess – visualize which squares are attacked",
       "https://taonexus.com/blunderfreechess.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-22, 11:54:32",
-      "https://news.ycombinator.com/item?id=43138186"
-    ],
-    [
-      "The independent researcher (2018)",
-      "https://nadia.xyz/independent-research"
     ]
   ],
   [
