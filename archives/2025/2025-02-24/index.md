@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-24](index.md)
 
+* [2025-02-24, 23:52:33](https://news.ycombinator.com/item?id=43166362) - [Clean Code vs. A Philosophy Of Software Design](https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md)
 * [2025-02-24, 21:25:15](https://news.ycombinator.com/item?id=43165112) - [\"The closer to the train station, the worse the kebab\" – A \"Study\"](https://www.jmspae.se/write-ups/kebabs-train-stations/)
 * [2025-02-24, 20:50:22](https://news.ycombinator.com/item?id=43164794) - [Show HN: Electro – A hyper-fast Windows image viewer with a built-in terminal](https://github.com/pTinosq/Electro)
 * [2025-02-24, 20:48:20](https://news.ycombinator.com/item?id=43164773) - [$1.5B Bybit Hack – How the biggest hack in history happened](https://harrydonnelly.substack.com/p/how-the-biggest-crypto-hack-in-history)
