@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-25, 08:17:11](https://news.ycombinator.com/item?id=43169435) - [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/)
 * [2025-02-25, 07:13:23](https://news.ycombinator.com/item?id=43169103) - [What would happen if we didn't use TCP or UDP?](https://github.com/Hawzen/hdp)
 * [2025-02-25, 05:43:30](https://news.ycombinator.com/item?id=43168589) - [Xcode Constantly Phones Home](https://lapcatsoftware.com/articles/2025/2/5.html)
 * [2025-02-25, 03:47:37](https://news.ycombinator.com/item?id=43167936) - [How to change your settings to make yourself less valuable to Meta](https://johnoliverwantsyourraterotica.com/)
@@ -14,7 +15,6 @@
 * [2025-02-24, 20:22:52](https://news.ycombinator.com/item?id=43164499) - [Closing the \"green gap\": energy savings from the math of the landscape function](https://terrytao.wordpress.com/2025/02/23/closing-the-green-gap-from-the-mathematics-of-the-landscape-function-to-lower-electricity-costs-for-households/)
 * [2025-02-24, 18:28:59](https://news.ycombinator.com/item?id=43163011) - [Claude 3.7 Sonnet and Claude Code](https://www.anthropic.com/news/claude-3-7-sonnet)
 * [2025-02-24, 18:27:49](https://news.ycombinator.com/item?id=43162995) - [The best way to use text embeddings portably is with Parquet and Polars](https://minimaxir.com/2025/02/embeddings-parquet/)
-* [2025-02-24, 17:49:58](https://news.ycombinator.com/item?id=43162544) - [Student refines 100-year-old math problem, expanding wind energy possibilities](https://www.psu.edu/news/engineering/story/student-refines-100-year-old-math-problem-expanding-wind-energy-possibilities)
 * [2025-02-24, 17:33:56](https://news.ycombinator.com/item?id=43162340) - [Show HN: I made a site to tell the time in corporate](https://corporate.watch)
 * [2025-02-24, 16:22:10](https://news.ycombinator.com/item?id=43161332) - [Launch HN: SubImage (YC W25) – See your infra from an attacker's perspective](https://news.ycombinator.com/item?id=43161332)
 * [2025-02-24, 16:11:06](https://news.ycombinator.com/item?id=43161188) - [Larry Ellison's half-billion-dollar quest to change farming](https://www.wsj.com/tech/larry-ellison-hawaii-greenhouse-farm-food-2d260e1f)
