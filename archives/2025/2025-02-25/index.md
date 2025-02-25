@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-25](index.md)
 
 * [2025-02-25, 17:37:07](https://news.ycombinator.com/item?id=43174910) - [Hard problems that reduce to document ranking](https://noperator.dev/posts/document-ranking-for-complex-problems/)
+* [2025-02-25, 17:11:57](https://news.ycombinator.com/item?id=43174579) - [Have we been wrong about why Mars is red?](https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Have_we_been_wrong_about_why_Mars_is_red)
 * [2025-02-25, 16:56:25](https://news.ycombinator.com/item?id=43174377) - [Show HN: GoatDB – A Lightweight, Offline-First, Realtime NoDB for Deno and React](https://github.com/goatplatform/goatdb)
 * [2025-02-25, 16:49:16](https://news.ycombinator.com/item?id=43174270) - [Jane Street Open Source](https://opensource.janestreet.com/)
 * [2025-02-25, 16:15:39](https://news.ycombinator.com/item?id=43173773) - [New Maps of the Chaotic Space-Time Inside Black Holes](https://www.quantamagazine.org/new-maps-of-the-bizarre-chaotic-space-time-inside-black-holes-20250224/)
