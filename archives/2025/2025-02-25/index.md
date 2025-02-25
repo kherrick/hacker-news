@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-02-25](index.md)
 
+* [2025-02-25, 15:51:54](https://news.ycombinator.com/item?id=43173462) - [Hyperspace](https://hypercritical.co/2025/02/25/hyperspace)
+* [2025-02-25, 15:45:17](https://news.ycombinator.com/item?id=43173378) - [Launch HN: Browser Use (YC W25) – open-source web agents](https://github.com/browser-use/browser-use)
+* [2025-02-25, 15:41:56](https://news.ycombinator.com/item?id=43173341) - [Fabric and craft retailer Joann to go out of business, close all of its stores](https://apnews.com/article/joann-closing-bankruptcy-crafts-retail-b83c68fb641fad18cd6c8be925c6d90b)
 * [2025-02-25, 15:18:57](https://news.ycombinator.com/item?id=43172977) - [Turbocharging V8 with mutable heap numbers · V8](https://v8.dev/blog/mutable-heap-number)
+* [2025-02-25, 14:33:42](https://news.ycombinator.com/item?id=43172338) - [DeepSearcher: A Local open-source Deep Research](https://milvus.io/blog/introduce-deepsearcher-a-local-open-source-deep-research.md)
 * [2025-02-25, 14:21:12](https://news.ycombinator.com/item?id=43172180) - [YC deleted the post of the demo for slavery](https://twitter.com/ns123abc/status/1894193460166397991)
 * [2025-02-25, 13:36:31](https://news.ycombinator.com/item?id=43171639) - [ChatGPT Saved My Life (no, seriously, I'm writing this from the ER)](https://hardmodefirst.xyz/chatgpt-saved-my-life-no,-seriously,-im-writing-this-from-the-er)
 * [2025-02-25, 13:18:33](https://news.ycombinator.com/item?id=43171437) - [US employee screening giant DISA says hackers accessed data of 3M people](https://techcrunch.com/2025/02/25/us-employee-screening-giant-disa-says-hackers-accessed-data-of-more-than-3m-people/)
@@ -26,6 +30,7 @@
 * [2025-02-25, 07:13:23](https://news.ycombinator.com/item?id=43169103) - [What would happen if we didn't use TCP or UDP?](https://github.com/Hawzen/hdp)
 * [2025-02-25, 05:47:09](https://news.ycombinator.com/item?id=43168611) - [GibberLink [AI-AI Communication]](https://github.com/PennyroyalTea/gibberlink)
 * [2025-02-25, 05:43:30](https://news.ycombinator.com/item?id=43168589) - [Xcode Constantly Phones Home](https://lapcatsoftware.com/articles/2025/2/5.html)
+* [2025-02-25, 05:33:27](https://news.ycombinator.com/item?id=43168534) - [Dogs may have domesticated themselves because they liked snacks, model suggests](https://www.livescience.com/animals/dogs/dogs-may-have-domesticated-themselves-because-they-really-liked-snacks-model-suggests)
 * [2025-02-25, 05:33:21](https://news.ycombinator.com/item?id=43168533) - [There Isn't Much Point to HTTP/2 Past the Load Balancer](https://byroot.github.io/ruby/performance/2025/02/24/http2-past-the-load-balancer.html)
 * [2025-02-25, 04:06:39](https://news.ycombinator.com/item?id=43168059) - [A16Z AI Voice Update 2025](https://gamma.app/docs/a16z-AI-Voice-Update-2025--ttkorld8iy6wfnj?mode=doc)
 * [2025-02-25, 03:47:37](https://news.ycombinator.com/item?id=43167936) - [How to change your settings to make yourself less valuable to Meta](https://johnoliverwantsyourraterotica.com/)
