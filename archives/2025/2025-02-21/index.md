@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-21](index.md)
 
+* [2025-02-21, 22:48:04](https://news.ycombinator.com/item?id=43134030) - [Photon Bricks: A Lego set for playful quantum explorations](https://www.nottingham.ac.uk/news/photon-bricks-a-lego-set-for-playful-quantum-explorations)
 * [2025-02-21, 22:22:59](https://news.ycombinator.com/item?id=43133772) - [Aqueous-based recycling of perovskite photovoltaics](https://www.nature.com/articles/s41586-024-08408-7)
 * [2025-02-21, 22:20:02](https://news.ycombinator.com/item?id=43133745) - [Fast Cash vs. Slow Equity](https://blog.nateliason.com/p/fast-cash-slow-equity)
 * [2025-02-21, 22:07:20](https://news.ycombinator.com/item?id=43133648) - [We the Builders](https://www.wethebuilders.org/)
