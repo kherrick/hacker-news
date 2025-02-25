@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-25](index.md)
 
+* [2025-02-25, 16:15:39](https://news.ycombinator.com/item?id=43173773) - [New Maps of the Chaotic Space-Time Inside Black Holes](https://www.quantamagazine.org/new-maps-of-the-bizarre-chaotic-space-time-inside-black-holes-20250224/)
+* [2025-02-25, 16:05:01](https://news.ycombinator.com/item?id=43173628) - [ChatGPT Can Be Used as Default Safari Search Engine with New Extension](https://www.macrumors.com/2025/02/24/chatgpt-safari-search-extension/)
 * [2025-02-25, 15:51:54](https://news.ycombinator.com/item?id=43173462) - [Hyperspace](https://hypercritical.co/2025/02/25/hyperspace)
 * [2025-02-25, 15:45:17](https://news.ycombinator.com/item?id=43173378) - [Launch HN: Browser Use (YC W25) – open-source web agents](https://github.com/browser-use/browser-use)
 * [2025-02-25, 15:41:56](https://news.ycombinator.com/item?id=43173341) - [Fabric and craft retailer Joann to go out of business, close all of its stores](https://apnews.com/article/joann-closing-bankruptcy-crafts-retail-b83c68fb641fad18cd6c8be925c6d90b)

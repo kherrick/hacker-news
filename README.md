@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-25, 16:15:39](https://news.ycombinator.com/item?id=43173773) - [New Maps of the Chaotic Space-Time Inside Black Holes](https://www.quantamagazine.org/new-maps-of-the-bizarre-chaotic-space-time-inside-black-holes-20250224/)
+* [2025-02-25, 16:05:01](https://news.ycombinator.com/item?id=43173628) - [ChatGPT Can Be Used as Default Safari Search Engine with New Extension](https://www.macrumors.com/2025/02/24/chatgpt-safari-search-extension/)
 * [2025-02-25, 15:51:54](https://news.ycombinator.com/item?id=43173462) - [Hyperspace](https://hypercritical.co/2025/02/25/hyperspace)
 * [2025-02-25, 15:45:17](https://news.ycombinator.com/item?id=43173378) - [Launch HN: Browser Use (YC W25) – open-source web agents](https://github.com/browser-use/browser-use)
 * [2025-02-25, 15:41:56](https://news.ycombinator.com/item?id=43173341) - [Fabric and craft retailer Joann to go out of business, close all of its stores](https://apnews.com/article/joann-closing-bankruptcy-crafts-retail-b83c68fb641fad18cd6c8be925c6d90b)
@@ -7,8 +9,6 @@
 * [2025-02-25, 14:33:42](https://news.ycombinator.com/item?id=43172338) - [DeepSearcher: A Local open-source Deep Research](https://milvus.io/blog/introduce-deepsearcher-a-local-open-source-deep-research.md)
 * [2025-02-25, 13:06:22](https://news.ycombinator.com/item?id=43171334) - [Show HN: Prioritize Anything with Stacks](https://stack-ranker.com)
 * [2025-02-25, 12:53:15](https://news.ycombinator.com/item?id=43171239) - [Embedding Python in Elixir, It's Fine](https://dashbit.co/blog/running-python-in-elixir-its-fine)
-* [2025-02-25, 12:50:14](https://news.ycombinator.com/item?id=43171205) - [Signal to leave Sweden if backdoor law passes](https://swedenherald.com/article/signals-ceo-then-were-leaving-sweden)
-* [2025-02-25, 12:27:30](https://news.ycombinator.com/item?id=43171007) - [What do people see when they're tripping? Analyzing Erowid's trip reports](https://themicrodose.substack.com/p/what-do-people-see-when-theyre-tripping)
 * [2025-02-25, 07:13:23](https://news.ycombinator.com/item?id=43169103) - [What would happen if we didn't use TCP or UDP?](https://github.com/Hawzen/hdp)
 * [2025-02-25, 05:47:09](https://news.ycombinator.com/item?id=43168611) - [GibberLink [AI-AI Communication]](https://github.com/PennyroyalTea/gibberlink)
 * [2025-02-25, 05:33:27](https://news.ycombinator.com/item?id=43168534) - [Dogs may have domesticated themselves because they liked snacks, model suggests](https://www.livescience.com/animals/dogs/dogs-may-have-domesticated-themselves-because-they-really-liked-snacks-model-suggests)
@@ -19,7 +19,6 @@
 * [2025-02-25, 00:46:43](https://news.ycombinator.com/item?id=43166761) - [It’s still worth blogging in the age of AI](https://www.gilesthomas.com/2025/02/blogging-in-the-age-of-ai)
 * [2025-02-24, 23:52:33](https://news.ycombinator.com/item?id=43166362) - [Clean Code vs. A Philosophy Of Software Design](https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md)
 * [2025-02-24, 21:25:15](https://news.ycombinator.com/item?id=43165112) - [“The closer to the train station, the worse the kebab” – a “study”](https://www.jmspae.se/write-ups/kebabs-train-stations/)
-* [2025-02-24, 20:22:52](https://news.ycombinator.com/item?id=43164499) - [Closing the “green gap”: energy savings from the math of the landscape function](https://terrytao.wordpress.com/2025/02/23/closing-the-green-gap-from-the-mathematics-of-the-landscape-function-to-lower-electricity-costs-for-households/)
 * [2025-02-24, 18:28:59](https://news.ycombinator.com/item?id=43163011) - [Claude 3.7 Sonnet and Claude Code](https://www.anthropic.com/news/claude-3-7-sonnet)
 * [2025-02-24, 18:27:49](https://news.ycombinator.com/item?id=43162995) - [The best way to use text embeddings portably is with Parquet and Polars](https://minimaxir.com/2025/02/embeddings-parquet/)
 * [2025-02-24, 17:33:56](https://news.ycombinator.com/item?id=43162340) - [Show HN: I made a site to tell the time in corporate](https://corporate.watch)
@@ -28,6 +27,7 @@
 * [2025-02-22, 11:54:32](https://news.ycombinator.com/item?id=43138186) - [The independent researcher (2018)](https://nadia.xyz/independent-research)
 * [2025-02-22, 09:56:38](https://news.ycombinator.com/item?id=43137627) - [Fans Are Better Than Tech at Organizing Information Online (2019)](https://www.wired.com/story/archive-of-our-own-fans-better-than-tech-organizing-information/)
 * [2025-02-22, 08:27:56](https://news.ycombinator.com/item?id=43137248) - [Show HN: While the world builds AI Agents, I'm just building calculators](https://www.calcverse.live)
+* [2025-02-22, 08:11:45](https://news.ycombinator.com/item?id=43137171) - [Ask HN: A retrofitted C dialect?](https://news.ycombinator.com/item?id=43137171)
 * [2025-02-22, 07:33:48](https://news.ycombinator.com/item?id=43136951) - [SETI's Hard Steps (and How to Resolve Them)](https://www.centauri-dreams.org/2025/02/21/setis-hard-steps-and-how-to-resolve-them/)
 * [2025-02-21, 15:32:13](https://news.ycombinator.com/item?id=43128609) - [Some Programming Language Ideas](https://davidbos.me/posts/some_programming_language_ideas/)
 
