@@ -20,7 +20,6 @@
 * [2025-02-24, 16:11:06](https://news.ycombinator.com/item?id=43161188) - [Larry Ellison's half-billion-dollar quest to change farming](https://www.wsj.com/tech/larry-ellison-hawaii-greenhouse-farm-food-2d260e1f)
 * [2025-02-24, 15:48:16](https://news.ycombinator.com/item?id=43160884) - [Breaking into apartment buildings in five minutes on my phone](https://www.ericdaigle.ca/posts/breaking-into-dozens-of-apartments-in-five-minutes/)
 * [2025-02-24, 15:40:03](https://news.ycombinator.com/item?id=43160779) - [Introduction to Stochastic Calculus](https://jiha-kim.github.io/posts/introduction-to-stochastic-calculus/)
-* [2025-02-24, 12:15:58](https://news.ycombinator.com/item?id=43158660) - [Show HN: I built an app to stop me doomscrolling by touching grass](https://touchgrass.now/)
 * [2025-02-24, 11:21:22](https://news.ycombinator.com/item?id=43158262) - [Freelancing: How I found clients, part 1](https://crocspace.substack.com/p/freelancing-how-i-got-clients-part)
 * [2025-02-23, 23:00:16](https://news.ycombinator.com/item?id=43154065) - [Ask HN: What are you working on? (February 2025)](https://news.ycombinator.com/item?id=43154065)
 * [2025-02-22, 21:52:26](https://news.ycombinator.com/item?id=43143636) - [Show HN: A competition game to write bots for the most efficient algo](https://github.com/kingofthegrid/king-of-the-grid)
@@ -29,6 +28,7 @@
 * [2025-02-21, 19:45:42](https://news.ycombinator.com/item?id=43132040) - [Tuta Launches Post Quantum Cryptography for Email (2024)](https://tuta.com/blog/post-quantum-cryptography)
 * [2025-02-21, 15:17:12](https://news.ycombinator.com/item?id=43128392) - [I ate and reviewed every snack in our office kitchen](https://www.getlago.com/blog/office-snacks)
 * [2025-02-21, 14:46:13](https://news.ycombinator.com/item?id=43128021) - [Writing a DSL in Lua (2015)](https://leafo.net/guides/dsl-in-lua.html)
+* [2025-02-21, 10:38:06](https://news.ycombinator.com/item?id=43126052) - [Favicon Hasher – An Osint Tool](https://kriztalz.sh/favicon-hash/)
 * [2025-02-20, 15:05:24](https://news.ycombinator.com/item?id=43115548) - [AI cracks superbug problem in two days that took scientists years](https://www.bbc.co.uk/news/articles/clyz6e9edy3o)
 
 ## [Archives](archives/index.md)
