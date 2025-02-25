@@ -6,6 +6,7 @@
 
 * [2025-02-25, 02:59:33](https://news.ycombinator.com/item?id=43167579) - [Judge: US gov't violated privacy law by disclosing personal data to DOGE](https://arstechnica.com/tech-policy/2025/02/judges-block-doge-access-to-personal-data-in-loss-for-trump-administration/)
 * [2025-02-25, 02:27:29](https://news.ycombinator.com/item?id=43167373) - [DeepSeek open source DeepEP – library for MoE training and Inference](https://github.com/deepseek-ai/DeepEP)
+* [2025-02-25, 01:28:25](https://news.ycombinator.com/item?id=43166995) - [The HP-35: Consumer Electronics, an Origin Story](http://codex99.com/design/the-hp35.html)
 * [2025-02-25, 00:59:09](https://news.ycombinator.com/item?id=43166830) - [Everyone at NSF overseeing the Platforms for Wireless Experimentation is gone](https://discuss.systems/@ricci/114059690609284323)
 * [2025-02-25, 00:46:43](https://news.ycombinator.com/item?id=43166761) - [It's still worth blogging in the age of AI](https://www.gilesthomas.com/2025/02/blogging-in-the-age-of-ai)
 * [2025-02-25, 00:44:39](https://news.ycombinator.com/item?id=43166742) - [US friendship is in freefall – shredding bonds and cutting lives short](https://nypost.com/2025/02/24/opinion/friendship-in-america-is-in-freefall-and-its-killing-us/)

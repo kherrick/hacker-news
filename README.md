@@ -2,9 +2,9 @@
 
 * [2025-02-25, 02:59:33](https://news.ycombinator.com/item?id=43167579) - [Judge: US gov't violated privacy law by disclosing personal data to DOGE](https://arstechnica.com/tech-policy/2025/02/judges-block-doge-access-to-personal-data-in-loss-for-trump-administration/)
 * [2025-02-25, 02:27:29](https://news.ycombinator.com/item?id=43167373) - [DeepSeek open source DeepEP – library for MoE training and Inference](https://github.com/deepseek-ai/DeepEP)
+* [2025-02-25, 01:28:25](https://news.ycombinator.com/item?id=43166995) - [The HP-35: Consumer Electronics, an Origin Story](http://codex99.com/design/the-hp35.html)
 * [2025-02-25, 00:59:09](https://news.ycombinator.com/item?id=43166830) - [Everyone at NSF overseeing the Platforms for Wireless Experimentation is gone](https://discuss.systems/@ricci/114059690609284323)
 * [2025-02-25, 00:46:43](https://news.ycombinator.com/item?id=43166761) - [It's still worth blogging in the age of AI](https://www.gilesthomas.com/2025/02/blogging-in-the-age-of-ai)
-* [2025-02-24, 23:52:33](https://news.ycombinator.com/item?id=43166362) - [Clean Code vs. A Philosophy Of Software Design](https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md)
 * [2025-02-24, 21:25:15](https://news.ycombinator.com/item?id=43165112) - [\"The closer to the train station, the worse the kebab\" – a \"study\"](https://www.jmspae.se/write-ups/kebabs-train-stations/)
 * [2025-02-24, 20:50:22](https://news.ycombinator.com/item?id=43164794) - [Show HN: Electro – A hyper-fast Windows image viewer with a built-in terminal](https://github.com/pTinosq/Electro)
 * [2025-02-24, 20:22:52](https://news.ycombinator.com/item?id=43164499) - [Closing the \"green gap\": energy savings from the math of the landscape function](https://terrytao.wordpress.com/2025/02/23/closing-the-green-gap-from-the-mathematics-of-the-landscape-function-to-lower-electricity-costs-for-households/)
@@ -24,11 +24,11 @@
 * [2025-02-24, 10:12:37](https://news.ycombinator.com/item?id=43157831) - [Microsoft cancels leases for AI data centers, analyst says](https://www.bloomberg.com/news/articles/2025-02-24/microsoft-cancels-leases-for-ai-data-centers-analyst-says)
 * [2025-02-24, 04:26:22](https://news.ycombinator.com/item?id=43155839) - [Is this the simplest (and most surprising) sorting algorithm ever? (2021)](https://arxiv.org/abs/2110.01111)
 * [2025-02-24, 01:12:18](https://news.ycombinator.com/item?id=43154883) - [Neut Programming Language](https://vekatze.github.io/neut/overview.html)
+* [2025-02-22, 17:30:11](https://news.ycombinator.com/item?id=43141037) - [US Space Force reveals first look at secretive X-37B space plane in orbit](https://www.space.com/space-force-x-37b-1st-photo-from-orbit-earth)
 * [2025-02-22, 08:27:56](https://news.ycombinator.com/item?id=43137248) - [While the world builds AI Agents, I'm just building calculators](https://www.calcverse.live)
 * [2025-02-21, 14:46:13](https://news.ycombinator.com/item?id=43128021) - [Writing a DSL in Lua (2015)](https://leafo.net/guides/dsl-in-lua.html)
 * [2025-02-21, 14:07:17](https://news.ycombinator.com/item?id=43127577) - [Why does target=\"_blank\" have an underscore in front? (2024)](https://kyrylo.org/html/2024/10/25/why-does-target-blank-have-an-underscore-in-front.html)
 * [2025-02-21, 10:07:14](https://news.ycombinator.com/item?id=43125875) - [Keeping our free tier sustainable by preventing abuse](https://www.geocod.io/code-and-coordinates/2025-02-19-preventing-abuse/)
-* [2025-02-20, 22:26:25](https://news.ycombinator.com/item?id=43121134) - [Only bad poems go viral](https://donotresearch.substack.com/p/stephanie-yue-duhem-only-bad-poems)
 * [2025-02-20, 15:05:24](https://news.ycombinator.com/item?id=43115548) - [AI cracks superbug problem in two days that took scientists years](https://www.bbc.co.uk/news/articles/clyz6e9edy3o)
 
 ## [Archives](archives/index.md)
