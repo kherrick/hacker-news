@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-25](index.md)
 
 * [2025-02-25, 22:13:22](https://news.ycombinator.com/item?id=43178225) - [Voker (YC S24) is hiring an LA-based full stack AI software engineer](https://www.linkedin.com/jobs/view/4165715593)
+* [2025-02-25, 21:47:06](https://news.ycombinator.com/item?id=43177931) - [EdgeDB is now Gel and Postgres is the Future](https://www.geldata.com/blog/edgedb-is-now-gel-and-postgres-is-the-future)
 * [2025-02-25, 20:41:30](https://news.ycombinator.com/item?id=43177117) - [Show HN: MyCoder, an open source Claude-Code alternative](https://github.com/drivecore/mycoder)
 * [2025-02-25, 20:16:10](https://news.ycombinator.com/item?id=43176782) - [Ghost House – software for automatic inbetweens](https://www.tedwiggin.com/MIMT.html)
 * [2025-02-25, 19:59:41](https://news.ycombinator.com/item?id=43176553) - [Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs [pdf]](https://martins1612.github.io/emergent_misalignment_betley.pdf)
