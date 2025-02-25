@@ -55,6 +55,7 @@
 * [2025-02-22, 12:03:22](https://news.ycombinator.com/item?id=43138238) - [DOGE's Only Public Ledger Is Riddled with Mistakes](https://www.nytimes.com/2025/02/21/upshot/doge-musk-trump-errors.html)
 * [2025-02-22, 11:55:35](https://news.ycombinator.com/item?id=43138191) - [Binned staff, slashed stock options. What's next? Ah yes, bigger C-suite bonuses](https://www.theregister.com/2025/02/22/meta_pumps_executive_bonuses/)
 * [2025-02-22, 11:55:23](https://news.ycombinator.com/item?id=43138190) - [Do you want to be doing this when you're 50?](https://prog21.dadgum.com/154.html)
+* [2025-02-22, 11:54:32](https://news.ycombinator.com/item?id=43138186) - [Independent Research (2018)](https://nadia.xyz/independent-research)
 * [2025-02-22, 10:54:28](https://news.ycombinator.com/item?id=43137910) - [The Internet's longest-serving PC email system, still being updated](https://www.pmail.com/)
 * [2025-02-22, 10:10:40](https://news.ycombinator.com/item?id=43137694) - [Just Write](https://blog.chasingbrains.co/p/just-write-stuff)
 * [2025-02-22, 10:03:23](https://news.ycombinator.com/item?id=43137659) - [OpenCFS (Coupled Field Simulation)](https://opencfs.org/)
