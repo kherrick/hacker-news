@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-25, 19:39:21",
+      "https://news.ycombinator.com/item?id=43176314"
+    ],
+    [
+      "Framework's first desktop is a strange–but unique–mini ITX gaming PC",
+      "https://arstechnica.com/gadgets/2025/02/framework-known-for-upgradable-laptops-intros-not-particularly-upgradable-desktop/"
+    ]
+  ],
+  [
+    [
       "2025-02-25, 18:39:10",
       "https://news.ycombinator.com/item?id=43175628"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=43175233"
     ],
     [
-      "Brewing Clean Water: The Metal-Remediating Benefits of Tea Preparation",
+      "Brewing Clean Water: The metal-remediating benefits of tea preparation",
       "https://pubs.acs.org/doi/10.1021/acsfoodscitech.4c01030"
     ]
   ],
@@ -71,6 +81,16 @@
   ],
   [
     [
+      "2025-02-25, 17:11:57",
+      "https://news.ycombinator.com/item?id=43174579"
+    ],
+    [
+      "Have we been wrong about why Mars is red?",
+      "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Have_we_been_wrong_about_why_Mars_is_red"
+    ]
+  ],
+  [
+    [
       "2025-02-25, 17:05:15",
       "https://news.ycombinator.com/item?id=43174506"
     ],
@@ -85,7 +105,7 @@
       "https://news.ycombinator.com/item?id=43174377"
     ],
     [
-      "Show HN: GoatDB – A Lightweight, Offline-First, Realtime NoDB for Deno and React",
+      "Show HN: GoatDB – A lightweight, offline-first, realtime NoDB for Deno and React",
       "https://github.com/goatplatform/goatdb"
     ]
   ],
@@ -105,7 +125,7 @@
       "https://news.ycombinator.com/item?id=43173773"
     ],
     [
-      "New Maps of the Chaotic Space-Time Inside Black Holes",
+      "New maps of the chaotic space-time inside black holes",
       "https://www.quantamagazine.org/new-maps-of-the-bizarre-chaotic-space-time-inside-black-holes-20250224/"
     ]
   ],
@@ -135,18 +155,8 @@
       "https://news.ycombinator.com/item?id=43172338"
     ],
     [
-      "DeepSearcher: A Local open-source Deep Research",
+      "DeepSearcher: A local open-source Deep Research",
       "https://milvus.io/blog/introduce-deepsearcher-a-local-open-source-deep-research.md"
-    ]
-  ],
-  [
-    [
-      "2025-02-25, 13:06:22",
-      "https://news.ycombinator.com/item?id=43171334"
-    ],
-    [
-      "Show HN: Prioritize Anything with Stacks",
-      "https://stack-ranker.com"
     ]
   ],
   [
@@ -155,7 +165,7 @@
       "https://news.ycombinator.com/item?id=43171239"
     ],
     [
-      "Embedding Python in Elixir, It's Fine",
+      "Embedding Python in Elixir, it's fine",
       "https://dashbit.co/blog/running-python-in-elixir-its-fine"
     ]
   ],
@@ -185,7 +195,7 @@
       "https://news.ycombinator.com/item?id=43169773"
     ],
     [
-      "A peek into a possible future of Python in the browser",
+      "A possible future of Python in the browser",
       "https://lukasz.langa.pl/f37aa97a-9ea3-4aeb-b6a0-9daeea5a7505/"
     ]
   ],
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2025-02-22, 17:39:03",
-      "https://news.ycombinator.com/item?id=43141139"
-    ],
-    [
-      "Blunder Free Chess – visualize which squares are attacked",
-      "https://taonexus.com/blunderfreechess.html"
-    ]
-  ],
-  [
-    [
       "2025-02-22, 08:11:45",
       "https://news.ycombinator.com/item?id=43137171"
     ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=43136951"
     ],
     [
-      "SETI's Hard Steps (and How to Resolve Them)",
+      "SETI's hard steps and how to resolve them",
       "https://www.centauri-dreams.org/2025/02/21/setis-hard-steps-and-how-to-resolve-them/"
     ]
   ]
