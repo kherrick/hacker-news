@@ -71,6 +71,7 @@
 * [2025-02-22, 01:58:09](https://news.ycombinator.com/item?id=43135333) - [Who Wants to Work in a Factory?](https://arenamag.com/2025/02/11/who-wants-to-work-in-a-factory/)
 * [2025-02-22, 01:30:18](https://news.ycombinator.com/item?id=43135176) - [Start a Computer Club in the Place That You Live](https://startacomputer.club/)
 * [2025-02-22, 01:05:53](https://news.ycombinator.com/item?id=43135027) - [Paxlovid: You'd Have Expected More](https://www.science.org/content/blog-post/paxlovid-you-d-have-expected-more)
+* [2025-02-22, 00:49:49](https://news.ycombinator.com/item?id=43134922) - [A Short History of English Waymarks](https://www.bsswebsite.me.uk/A%20Short%20History%20of/waymarks.html)
 * [2025-02-22, 00:46:18](https://news.ycombinator.com/item?id=43134907) - [SVDQuant+NVFP4: 4× Smaller, 3× Faster FLUX with 16-bit Quality on Blackwell GPUs](https://hanlab.mit.edu/blog/svdquant-nvfp4)
 * [2025-02-22, 00:05:10](https://news.ycombinator.com/item?id=43134686) - [Waste-based perovskite solar cell achieves 21.39% energy efficiency](https://techxplore.com/news/2025-02-based-perovskite-solar-cell-energy.html)
 * [2025-02-22, 00:03:58](https://news.ycombinator.com/item?id=43134673) - [Orchid's nutrient theft from fungi shows photosynthesis-parasitism continuum](https://phys.org/news/2025-02-orchid-nutrient-theft-fungi-photosynthesis.html)
