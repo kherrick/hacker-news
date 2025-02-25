@@ -41,6 +41,7 @@
 * [2025-02-25, 10:11:13](https://news.ycombinator.com/item?id=43170090) - [Tesla sales in Europe down 45% in January](https://www.ft.com/content/cdd0b5c8-2703-4fd4-9ebf-26087cac8523)
 * [2025-02-25, 10:09:25](https://news.ycombinator.com/item?id=43170079) - [Detecting Noise in Canvas Fingerprinting](https://blog.castle.io/detecting-noise-in-canvas-fingerprinting/)
 * [2025-02-25, 09:23:56](https://news.ycombinator.com/item?id=43169827) - [Awesome DeepSeek Integrations](https://github.com/deepseek-ai/awesome-deepseek-integration)
+* [2025-02-25, 09:15:14](https://news.ycombinator.com/item?id=43169773) - [A peek into a possible future of Python in the browser](https://lukasz.langa.pl/f37aa97a-9ea3-4aeb-b6a0-9daeea5a7505/)
 * [2025-02-25, 08:17:11](https://news.ycombinator.com/item?id=43169435) - [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/)
 * [2025-02-25, 07:13:23](https://news.ycombinator.com/item?id=43169103) - [What would happen if we didn't use TCP or UDP?](https://github.com/Hawzen/hdp)
 * [2025-02-25, 05:47:09](https://news.ycombinator.com/item?id=43168611) - [GibberLink [AI-AI Communication]](https://github.com/PennyroyalTea/gibberlink)
