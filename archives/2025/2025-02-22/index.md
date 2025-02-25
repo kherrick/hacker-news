@@ -54,6 +54,7 @@
 * [2025-02-22, 13:01:39](https://news.ycombinator.com/item?id=43138637) - [Accessing the Qualcomm Modem over USB on the RAK5010](https://danielmangum.com/posts/modem-usb-rak5010/)
 * [2025-02-22, 12:47:53](https://news.ycombinator.com/item?id=43138540) - [Ask HN: Are there online communities for single-owner run companies?](https://news.ycombinator.com/item?id=43138540)
 * [2025-02-22, 12:45:17](https://news.ycombinator.com/item?id=43138522) - [Doge says its savings total $55B, but analysis shows it's less](https://www.washingtonpost.com/business/2025/02/22/doge-savings-found-list-analysis/)
+* [2025-02-22, 12:42:48](https://news.ycombinator.com/item?id=43138497) - [Knitting Your Parachute](https://www.macsparky.com/blog/2025/02/knitting-your-parachute/)
 * [2025-02-22, 12:23:56](https://news.ycombinator.com/item?id=43138368) - [How core Git developers configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/)
 * [2025-02-22, 12:03:22](https://news.ycombinator.com/item?id=43138238) - [DOGE's Only Public Ledger Is Riddled with Mistakes](https://www.nytimes.com/2025/02/21/upshot/doge-musk-trump-errors.html)
 * [2025-02-22, 11:55:35](https://news.ycombinator.com/item?id=43138191) - [Binned staff, slashed stock options. What's next? Ah yes, bigger C-suite bonuses](https://www.theregister.com/2025/02/22/meta_pumps_executive_bonuses/)

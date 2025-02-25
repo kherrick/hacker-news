@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-25](index.md)
 
+* [2025-02-25, 20:16:10](https://news.ycombinator.com/item?id=43176782) - [Ghost House – software for automatic inbetweens](https://www.tedwiggin.com/MIMT.html)
 * [2025-02-25, 19:59:41](https://news.ycombinator.com/item?id=43176553) - [Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs [pdf]](https://martins1612.github.io/emergent_misalignment_betley.pdf)
 * [2025-02-25, 19:39:21](https://news.ycombinator.com/item?id=43176314) - [Framework's first desktop is a strange–but unique–mini ITX gaming PC](https://arstechnica.com/gadgets/2025/02/framework-known-for-upgradable-laptops-intros-not-particularly-upgradable-desktop/)
 * [2025-02-25, 18:39:10](https://news.ycombinator.com/item?id=43175628) - [I Went to SQL Injection Court](https://sockpuppet.org/blog/2025/02/09/fixing-illinois-foia/)
