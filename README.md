@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-25, 18:39:10](https://news.ycombinator.com/item?id=43175628) - [I Went to SQL Injection Court](https://sockpuppet.org/blog/2025/02/09/fixing-illinois-foia/)
 * [2025-02-25, 18:20:18](https://news.ycombinator.com/item?id=43175408) - [Low Overhead Allocation Sampling with VMProf in PyPy's GC](https://pypy.org/posts/2025/02/pypy-gc-sampling.html)
 * [2025-02-25, 18:12:31](https://news.ycombinator.com/item?id=43175315) - [The XB-70 (2019)](http://codex99.com/photography/the-xb70.html)
 * [2025-02-25, 18:00:47](https://news.ycombinator.com/item?id=43175182) - [Show HN: Txtl – Fast static website of text utilities](https://viveksjain.github.io/txtl/)
@@ -29,7 +30,6 @@
 * [2025-02-22, 08:27:56](https://news.ycombinator.com/item?id=43137248) - [Show HN: While the world builds AI Agents, I'm just building calculators](https://www.calcverse.live)
 * [2025-02-22, 08:11:45](https://news.ycombinator.com/item?id=43137171) - [Ask HN: A retrofitted C dialect?](https://news.ycombinator.com/item?id=43137171)
 * [2025-02-22, 07:33:48](https://news.ycombinator.com/item?id=43136951) - [SETI's Hard Steps (and How to Resolve Them)](https://www.centauri-dreams.org/2025/02/21/setis-hard-steps-and-how-to-resolve-them/)
-* [2025-02-21, 15:32:13](https://news.ycombinator.com/item?id=43128609) - [Some Programming Language Ideas](https://davidbos.me/posts/some_programming_language_ideas/)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-25](index.md)
 
+* [2025-02-25, 18:39:10](https://news.ycombinator.com/item?id=43175628) - [I Went to SQL Injection Court](https://sockpuppet.org/blog/2025/02/09/fixing-illinois-foia/)
 * [2025-02-25, 18:20:18](https://news.ycombinator.com/item?id=43175408) - [Low Overhead Allocation Sampling with VMProf in PyPy's GC](https://pypy.org/posts/2025/02/pypy-gc-sampling.html)
 * [2025-02-25, 18:12:31](https://news.ycombinator.com/item?id=43175315) - [The XB-70 (2019)](http://codex99.com/photography/the-xb70.html)
 * [2025-02-25, 18:00:47](https://news.ycombinator.com/item?id=43175182) - [Show HN: Txtl – Fast static website of text utilities](https://viveksjain.github.io/txtl/)
