@@ -7,6 +7,7 @@
 * [2025-02-25, 18:39:10](https://news.ycombinator.com/item?id=43175628) - [I Went to SQL Injection Court](https://sockpuppet.org/blog/2025/02/09/fixing-illinois-foia/)
 * [2025-02-25, 18:20:18](https://news.ycombinator.com/item?id=43175408) - [Low Overhead Allocation Sampling with VMProf in PyPy's GC](https://pypy.org/posts/2025/02/pypy-gc-sampling.html)
 * [2025-02-25, 18:12:31](https://news.ycombinator.com/item?id=43175315) - [The XB-70 (2019)](http://codex99.com/photography/the-xb70.html)
+* [2025-02-25, 18:05:54](https://news.ycombinator.com/item?id=43175233) - [Brewing Clean Water: The Metal-Remediating Benefits of Tea Preparation](https://pubs.acs.org/doi/10.1021/acsfoodscitech.4c01030)
 * [2025-02-25, 18:00:47](https://news.ycombinator.com/item?id=43175182) - [Show HN: Txtl – Fast static website of text utilities](https://viveksjain.github.io/txtl/)
 * [2025-02-25, 17:48:02](https://news.ycombinator.com/item?id=43175023) - ['Hey Number 17 '](https://www.404media.co/email/b7eb2339-2ea1-4a37-96cc-a360494c214c/)
 * [2025-02-25, 17:37:07](https://news.ycombinator.com/item?id=43174910) - [Hard problems that reduce to document ranking](https://noperator.dev/posts/document-ranking-for-complex-problems/)
