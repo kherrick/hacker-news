@@ -66,6 +66,7 @@
 * [2025-02-22, 09:18:47](https://news.ycombinator.com/item?id=43137488) - ['The tyranny of apps': those without smartphones are unfairly penalised](https://www.theguardian.com/money/2025/feb/22/the-tyranny-of-apps-those-without-smartphones-are-unfairly-penalised-say-campaigners)
 * [2025-02-22, 08:27:56](https://news.ycombinator.com/item?id=43137248) - [While the world builds AI Agents, I'm just building calculators](https://www.calcverse.live)
 * [2025-02-22, 08:11:45](https://news.ycombinator.com/item?id=43137171) - [Ask HN: A retrofitted C dialect?](https://news.ycombinator.com/item?id=43137171)
+* [2025-02-22, 08:06:10](https://news.ycombinator.com/item?id=43137145) - [Invoker Commands (Explainer)](https://open-ui.org/components/invokers.explainer/)
 * [2025-02-22, 07:54:56](https://news.ycombinator.com/item?id=43137085) - [Twitch's new storage limits will purge swaths of Internet gaming history](https://arstechnica.com/gaming/2025/02/history-evaporating-before-our-eyes-gamers-lament-twitchs-new-video-storage-limits/)
 * [2025-02-22, 07:33:48](https://news.ycombinator.com/item?id=43136951) - [SETI's Hard Steps (and How to Resolve Them)](https://www.centauri-dreams.org/2025/02/21/setis-hard-steps-and-how-to-resolve-them/)
 * [2025-02-22, 07:07:03](https://news.ycombinator.com/item?id=43136806) - [Show HN: LLM 100k portfolio management benchmark](https://github.com/gqgs/llm100kbench)
