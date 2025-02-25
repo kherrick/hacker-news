@@ -18,6 +18,7 @@
 * [2025-02-21, 20:02:34](https://news.ycombinator.com/item?id=43132260) - [Neo Gamma (Home Humanoid)](https://www.1x.tech/neo)
 * [2025-02-21, 19:45:42](https://news.ycombinator.com/item?id=43132040) - [Tuta Launches Post Quantum Cryptography for Email (2024)](https://tuta.com/blog/post-quantum-cryptography)
 * [2025-02-21, 19:34:37](https://news.ycombinator.com/item?id=43131902) - [Yocto, RockPi and SBOMs: Building Modern Embedded Linux Images](https://vpetersson.com/2025/02/21/yocto-rockpi-and-sboms.html)
+* [2025-02-21, 19:17:28](https://news.ycombinator.com/item?id=43131682) - [Biologists discover a new type of control over RNA splicing](https://phys.org/news/2025-02-biologists-rna-splicing.html)
 * [2025-02-21, 19:03:57](https://news.ycombinator.com/item?id=43131520) - [Swift's server support powers Things Cloud](https://www.swift.org/blog/how-swifts-server-support-powers-things-cloud/)
 * [2025-02-21, 19:01:59](https://news.ycombinator.com/item?id=43131502) - [General Reasoning: Free, open resource for building large reasoning models](https://gr.inc/)
 * [2025-02-21, 18:41:58](https://news.ycombinator.com/item?id=43131265) - [The U.S. Cannot Be Run Like a Business](https://hbr.org/2017/03/the-u-s-cannot-be-run-like-a-business)
