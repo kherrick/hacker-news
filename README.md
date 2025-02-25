@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-25, 10:11:13](https://news.ycombinator.com/item?id=43170090) - [Tesla sales in Europe down 45% in January](https://www.ft.com/content/cdd0b5c8-2703-4fd4-9ebf-26087cac8523)
 * [2025-02-25, 10:09:25](https://news.ycombinator.com/item?id=43170079) - [Detecting Noise in Canvas Fingerprinting](https://blog.castle.io/detecting-noise-in-canvas-fingerprinting/)
 * [2025-02-25, 09:23:56](https://news.ycombinator.com/item?id=43169827) - [Awesome DeepSeek Integrations](https://github.com/deepseek-ai/awesome-deepseek-integration)
 * [2025-02-25, 08:17:11](https://news.ycombinator.com/item?id=43169435) - [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/)
@@ -26,6 +25,7 @@
 * [2025-02-24, 11:21:22](https://news.ycombinator.com/item?id=43158262) - [Freelancing: How I found clients, part 1](https://crocspace.substack.com/p/freelancing-how-i-got-clients-part)
 * [2025-02-22, 11:54:32](https://news.ycombinator.com/item?id=43138186) - [Independent Research (2018)](https://nadia.xyz/independent-research)
 * [2025-02-22, 08:27:56](https://news.ycombinator.com/item?id=43137248) - [Show HN: While the world builds AI Agents, I'm just building calculators](https://www.calcverse.live)
+* [2025-02-21, 19:45:42](https://news.ycombinator.com/item?id=43132040) - [Tuta Launches Post Quantum Cryptography for Email (2024)](https://tuta.com/blog/post-quantum-cryptography)
 * [2025-02-21, 15:32:13](https://news.ycombinator.com/item?id=43128609) - [Some Programming Language Ideas](https://davidbos.me/posts/some_programming_language_ideas/)
 * [2025-02-21, 15:17:12](https://news.ycombinator.com/item?id=43128392) - [I ate and reviewed every snack in our office kitchen](https://www.getlago.com/blog/office-snacks)
 * [2025-02-21, 10:38:06](https://news.ycombinator.com/item?id=43126052) - [Favicon Hasher – An Osint Tool](https://kriztalz.sh/favicon-hash/)
