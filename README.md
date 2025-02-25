@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-25, 13:15:55](https://news.ycombinator.com/item?id=43171413) - [Zlib-Rs Is Not Only Safer but Now Outperforming Zlib C Implementations](https://www.phoronix.com/news/Zlib-rs-0.4.2)
 * [2025-02-25, 13:06:22](https://news.ycombinator.com/item?id=43171334) - [Show HN: Prioritize Anything with Stacks](https://stack-ranker.com)
 * [2025-02-25, 12:53:15](https://news.ycombinator.com/item?id=43171239) - [Embedding Python in Elixir, It's Fine](https://dashbit.co/blog/running-python-in-elixir-its-fine)
 * [2025-02-25, 12:50:14](https://news.ycombinator.com/item?id=43171205) - [Signal to leave Sweden if backdoor law passes](https://swedenherald.com/article/signals-ceo-then-were-leaving-sweden)
@@ -22,6 +21,7 @@
 * [2025-02-24, 16:11:06](https://news.ycombinator.com/item?id=43161188) - [Larry Ellison's half-billion-dollar quest to change farming](https://www.wsj.com/tech/larry-ellison-hawaii-greenhouse-farm-food-2d260e1f)
 * [2025-02-24, 15:48:16](https://news.ycombinator.com/item?id=43160884) - [Breaking into apartment buildings in five minutes on my phone](https://www.ericdaigle.ca/posts/breaking-into-dozens-of-apartments-in-five-minutes/)
 * [2025-02-24, 15:40:03](https://news.ycombinator.com/item?id=43160779) - [Introduction to Stochastic Calculus](https://jiha-kim.github.io/posts/introduction-to-stochastic-calculus/)
+* [2025-02-24, 12:15:58](https://news.ycombinator.com/item?id=43158660) - [Show HN: I built an app to stop me doomscrolling by touching grass](https://touchgrass.now/)
 * [2025-02-24, 11:21:22](https://news.ycombinator.com/item?id=43158262) - [Freelancing: How I found clients, part 1](https://crocspace.substack.com/p/freelancing-how-i-got-clients-part)
 * [2025-02-22, 11:54:32](https://news.ycombinator.com/item?id=43138186) - [The independent researcher (2018)](https://nadia.xyz/independent-research)
 * [2025-02-22, 09:56:38](https://news.ycombinator.com/item?id=43137627) - [Fans Are Better Than Tech at Organizing Information Online (2019)](https://www.wired.com/story/archive-of-our-own-fans-better-than-tech-organizing-information/)
