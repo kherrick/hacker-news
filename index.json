@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-25, 16:56:25",
+      "https://news.ycombinator.com/item?id=43174377"
+    ],
+    [
+      "Show HN: GoatDB – A Lightweight, Offline-First, Realtime NoDB for Deno and React",
+      "https://github.com/goatplatform/goatdb"
+    ]
+  ],
+  [
+    [
+      "2025-02-25, 16:49:16",
+      "https://news.ycombinator.com/item?id=43174270"
+    ],
+    [
+      "Jane Street Open Source",
+      "https://opensource.janestreet.com/"
+    ]
+  ],
+  [
+    [
       "2025-02-25, 16:15:39",
       "https://news.ycombinator.com/item?id=43173773"
     ],
@@ -37,16 +57,6 @@
     [
       "Launch HN: Browser Use (YC W25) – open-source web agents",
       "https://github.com/browser-use/browser-use"
-    ]
-  ],
-  [
-    [
-      "2025-02-25, 15:18:57",
-      "https://news.ycombinator.com/item?id=43172977"
-    ],
-    [
-      "Turbocharging V8 with mutable heap numbers · V8",
-      "https://v8.dev/blog/mutable-heap-number"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "GibberLink [AI-AI Communication]",
       "https://github.com/PennyroyalTea/gibberlink"
-    ]
-  ],
-  [
-    [
-      "2025-02-25, 05:33:27",
-      "https://news.ycombinator.com/item?id=43168534"
-    ],
-    [
-      "Dogs may have domesticated themselves because they liked snacks, model suggests",
-      "https://www.livescience.com/animals/dogs/dogs-may-have-domesticated-themselves-because-they-really-liked-snacks-model-suggests"
     ]
   ],
   [
