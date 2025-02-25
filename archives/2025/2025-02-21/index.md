@@ -46,6 +46,7 @@
 * [2025-02-21, 15:57:53](https://news.ycombinator.com/item?id=43128987) - [Tesla recalls 380k vehicles in US over power steering assist issue](https://www.reuters.com/business/autos-transportation/tesla-recalls-380000-vehicles-us-over-power-steering-issue-2025-02-21/)
 * [2025-02-21, 15:49:18](https://news.ycombinator.com/item?id=43128870) - [Apple Pulls Encrypted iCloud Security Feature in UK](https://www.macrumors.com/2025/02/21/apple-pulls-encrypted-icloud-security-feature-uk/)
 * [2025-02-21, 15:34:53](https://news.ycombinator.com/item?id=43128650) - [Railings Made from WWII Stretchers](https://en.wikipedia.org/wiki/Stretcher_railing)
+* [2025-02-21, 15:32:13](https://news.ycombinator.com/item?id=43128609) - [Some Programming Language Ideas](https://davidbos.me/posts/some_programming_language_ideas/)
 * [2025-02-21, 15:17:12](https://news.ycombinator.com/item?id=43128392) - [I ate and reviewed every snack in our office kitchen](https://www.getlago.com/blog/office-snacks)
 * [2025-02-21, 15:05:24](https://news.ycombinator.com/item?id=43128253) - [Apple pulls data protection tool after UK government security row](https://www.bbc.com/news/articles/cgj54eq4vejo)
 * [2025-02-21, 14:52:14](https://news.ycombinator.com/item?id=43128093) - [Johnny.Decimal – A system to organise your life](https://johnnydecimal.com)

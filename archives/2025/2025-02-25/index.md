@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-25](index.md)
 
+* [2025-02-25, 10:11:13](https://news.ycombinator.com/item?id=43170090) - [Tesla sales in Europe down 45% in January](https://www.ft.com/content/cdd0b5c8-2703-4fd4-9ebf-26087cac8523)
 * [2025-02-25, 08:17:11](https://news.ycombinator.com/item?id=43169435) - [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/)
 * [2025-02-25, 07:13:23](https://news.ycombinator.com/item?id=43169103) - [What would happen if we didn't use TCP or UDP?](https://github.com/Hawzen/hdp)
 * [2025-02-25, 05:43:30](https://news.ycombinator.com/item?id=43168589) - [Xcode Constantly Phones Home](https://lapcatsoftware.com/articles/2025/2/5.html)
