@@ -8,7 +8,6 @@
 * [2025-02-25, 18:12:31](https://news.ycombinator.com/item?id=43175315) - [The XB-70 (2019)](http://codex99.com/photography/the-xb70.html)
 * [2025-02-25, 18:00:47](https://news.ycombinator.com/item?id=43175182) - [Show HN: Txtl – Fast static website of text utilities](https://viveksjain.github.io/txtl/)
 * [2025-02-25, 17:37:07](https://news.ycombinator.com/item?id=43174910) - [Hard problems that reduce to document ranking](https://noperator.dev/posts/document-ranking-for-complex-problems/)
-* [2025-02-25, 17:11:57](https://news.ycombinator.com/item?id=43174579) - [Have we been wrong about why Mars is red?](https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Have_we_been_wrong_about_why_Mars_is_red)
 * [2025-02-25, 16:56:25](https://news.ycombinator.com/item?id=43174377) - [Show HN: GoatDB – A lightweight, offline-first, realtime NoDB for Deno and React](https://github.com/goatplatform/goatdb)
 * [2025-02-25, 16:46:07](https://news.ycombinator.com/item?id=43174221) - [Show HN: My new wiki for Silicon Graphics stuff](https://www.tech-pubs.net/wiki/Main_Page)
 * [2025-02-25, 16:15:39](https://news.ycombinator.com/item?id=43173773) - [New maps of the chaotic space-time inside black holes](https://www.quantamagazine.org/new-maps-of-the-bizarre-chaotic-space-time-inside-black-holes-20250224/)
@@ -28,6 +27,7 @@
 * [2025-02-22, 13:55:03](https://news.ycombinator.com/item?id=43138960) - [Forum with 2.6M posts being deleted due to UK Online Safety Act](https://forums.hexus.net/hexus-news/426608-looks-like-end-hexus-forums.html)
 * [2025-02-22, 12:42:48](https://news.ycombinator.com/item?id=43138497) - [Knitting Your Parachute](https://www.macsparky.com/blog/2025/02/knitting-your-parachute/)
 * [2025-02-22, 12:23:56](https://news.ycombinator.com/item?id=43138368) - [How core Git developers configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/)
+* [2025-02-22, 00:02:14](https://news.ycombinator.com/item?id=43134657) - [Static electricity depends on materials' contact history](https://phys.org/news/2025-02-static-electricity-materials-contact-history.html)
 * [2025-02-21, 23:48:53](https://news.ycombinator.com/item?id=43134563) - [Xonsh – A Python-powered shell](https://xon.sh/)
 * [2025-02-21, 21:26:28](https://news.ycombinator.com/item?id=43133207) - [The Deep Research problem](https://www.ben-evans.com/benedictevans/2025/2/17/the-deep-research-problem)
 

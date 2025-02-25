@@ -88,3 +88,4 @@
 * [2025-02-22, 00:46:18](https://news.ycombinator.com/item?id=43134907) - [SVDQuant+NVFP4: 4× Smaller, 3× Faster FLUX with 16-bit Quality on Blackwell GPUs](https://hanlab.mit.edu/blog/svdquant-nvfp4)
 * [2025-02-22, 00:05:10](https://news.ycombinator.com/item?id=43134686) - [Waste-based perovskite solar cell achieves 21.39% energy efficiency](https://techxplore.com/news/2025-02-based-perovskite-solar-cell-energy.html)
 * [2025-02-22, 00:03:58](https://news.ycombinator.com/item?id=43134673) - [Orchid's nutrient theft from fungi shows photosynthesis-parasitism continuum](https://phys.org/news/2025-02-orchid-nutrient-theft-fungi-photosynthesis.html)
+* [2025-02-22, 00:02:14](https://news.ycombinator.com/item?id=43134657) - [Static electricity depends on materials' contact history](https://phys.org/news/2025-02-static-electricity-materials-contact-history.html)
