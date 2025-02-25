@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-25, 20:41:30](https://news.ycombinator.com/item?id=43177117) - [Show HN: MyCoder, an open source Claude-Code alternative](https://github.com/drivecore/mycoder)
 * [2025-02-25, 19:59:41](https://news.ycombinator.com/item?id=43176553) - [Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs [pdf]](https://martins1612.github.io/emergent_misalignment_betley.pdf)
 * [2025-02-25, 19:39:21](https://news.ycombinator.com/item?id=43176314) - [Framework's first desktop is a strange–but unique–mini ITX gaming PC](https://arstechnica.com/gadgets/2025/02/framework-known-for-upgradable-laptops-intros-not-particularly-upgradable-desktop/)
 * [2025-02-25, 18:57:33](https://news.ycombinator.com/item?id=43175848) - [AI is blurring the line between PMs and engineers?](https://humanloop.com/blog/ai-is-blurring-the-lines-between-pms-and-engineers)
@@ -19,7 +20,6 @@
 * [2025-02-25, 09:15:14](https://news.ycombinator.com/item?id=43169773) - [A possible future of Python in the browser](https://lukasz.langa.pl/f37aa97a-9ea3-4aeb-b6a0-9daeea5a7505/)
 * [2025-02-25, 05:33:27](https://news.ycombinator.com/item?id=43168534) - [Dogs may have domesticated themselves because they liked snacks, model suggests](https://www.livescience.com/animals/dogs/dogs-may-have-domesticated-themselves-because-they-really-liked-snacks-model-suggests)
 * [2025-02-24, 18:09:19](https://news.ycombinator.com/item?id=43162793) - [Ggwave: Tiny Data-over-Sound Library](https://github.com/ggerganov/ggwave)
-* [2025-02-24, 13:53:17](https://news.ycombinator.com/item?id=43159566) - [Sigma BF Camera](https://www.sigma-global.com/en/cameras/bf/)
 * [2025-02-24, 13:20:43](https://news.ycombinator.com/item?id=43159222) - [I recreated Shazam's algorithm with Go [video]](https://www.youtube.com/watch?v=a0CVCcb0RJM)
 * [2025-02-23, 23:36:03](https://news.ycombinator.com/item?id=43154295) - [Bald eagles are thriving again after near extinction](https://www.newsweek.com/bald-eagles-back-brink-extinction-2025097)
 * [2025-02-23, 18:51:49](https://news.ycombinator.com/item?id=43151943) - [Part two of Grant Sanderson's video with Terry Tao on the cosmic distance ladder](https://mathstodon.xyz/@tao/114054291471216181)
