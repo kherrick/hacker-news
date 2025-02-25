@@ -5,9 +5,7 @@
 * [2025-02-25, 12:56:10](https://news.ycombinator.com/item?id=43171265) - [DOGE will use AI to assess the responses of federal workers](https://www.nbcnews.com/politics/doge/federal-workers-agencies-push-back-elon-musks-email-ultimatum-rcna193439)
 * [2025-02-25, 12:53:15](https://news.ycombinator.com/item?id=43171239) - [Embedding Python in Elixir, It's Fine](https://dashbit.co/blog/running-python-in-elixir-its-fine)
 * [2025-02-25, 12:50:14](https://news.ycombinator.com/item?id=43171205) - [Signal to leave Sweden if backdoor law passes](https://swedenherald.com/article/signals-ceo-then-were-leaving-sweden)
-* [2025-02-25, 12:14:51](https://news.ycombinator.com/item?id=43170908) - [Elon Musk spells danger for Accenture, McKinsey and their rivals](https://www.economist.com/business/2025/02/19/elon-musk-spells-danger-for-accenture-mckinsey-and-their-rivals)
 * [2025-02-25, 12:04:00](https://news.ycombinator.com/item?id=43170850) - [Tell HN: Y Combinator backing AI company to abuse factory workers](https://news.ycombinator.com/item?id=43170850)
-* [2025-02-25, 11:50:29](https://news.ycombinator.com/item?id=43170756) - [US court upholds Theranos founder Elizabeth Holmes's conviction](https://www.theguardian.com/technology/2025/feb/24/elizabeth-holmes-theranos-conviction)
 * [2025-02-25, 10:09:25](https://news.ycombinator.com/item?id=43170079) - [Detecting Noise in Canvas Fingerprinting](https://blog.castle.io/detecting-noise-in-canvas-fingerprinting/)
 * [2025-02-25, 09:23:56](https://news.ycombinator.com/item?id=43169827) - [Awesome DeepSeek Integrations](https://github.com/deepseek-ai/awesome-deepseek-integration)
 * [2025-02-25, 08:17:11](https://news.ycombinator.com/item?id=43169435) - [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/)
@@ -16,6 +14,7 @@
 * [2025-02-25, 03:36:41](https://news.ycombinator.com/item?id=43167865) - [History of CAD – David Weisberg](https://www.shapr3d.com/blog/history-of-cad)
 * [2025-02-25, 02:27:29](https://news.ycombinator.com/item?id=43167373) - [DeepSeek open source DeepEP – library for MoE training and Inference](https://github.com/deepseek-ai/DeepEP)
 * [2025-02-25, 01:40:14](https://news.ycombinator.com/item?id=43167087) - [DigiCert: Threat of legal action to stifle Bugzilla discourse](https://bugzilla.mozilla.org/show_bug.cgi?id=1950144)
+* [2025-02-25, 01:28:25](https://news.ycombinator.com/item?id=43166995) - [The HP-35: Consumer Electronics, an Origin Story](http://codex99.com/design/the-hp35.html)
 * [2025-02-25, 00:46:43](https://news.ycombinator.com/item?id=43166761) - [It’s still worth blogging in the age of AI](https://www.gilesthomas.com/2025/02/blogging-in-the-age-of-ai)
 * [2025-02-24, 23:52:33](https://news.ycombinator.com/item?id=43166362) - [Clean Code vs. A Philosophy Of Software Design](https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md)
 * [2025-02-24, 21:25:15](https://news.ycombinator.com/item?id=43165112) - [“The closer to the train station, the worse the kebab” – a “study”](https://www.jmspae.se/write-ups/kebabs-train-stations/)
@@ -28,8 +27,9 @@
 * [2025-02-24, 11:21:22](https://news.ycombinator.com/item?id=43158262) - [Freelancing: How I found clients, part 1](https://crocspace.substack.com/p/freelancing-how-i-got-clients-part)
 * [2025-02-22, 11:54:32](https://news.ycombinator.com/item?id=43138186) - [The independent researcher (2018)](https://nadia.xyz/independent-research)
 * [2025-02-22, 08:27:56](https://news.ycombinator.com/item?id=43137248) - [Show HN: While the world builds AI Agents, I'm just building calculators](https://www.calcverse.live)
-* [2025-02-22, 03:59:28](https://news.ycombinator.com/item?id=43135968) - [Severance show – Fan-based game](https://www.solana-industries.com/)
+* [2025-02-21, 19:45:42](https://news.ycombinator.com/item?id=43132040) - [Tuta Launches Post Quantum Cryptography for Email (2024)](https://tuta.com/blog/post-quantum-cryptography)
 * [2025-02-21, 15:32:13](https://news.ycombinator.com/item?id=43128609) - [Some Programming Language Ideas](https://davidbos.me/posts/some_programming_language_ideas/)
+* [2025-02-21, 15:17:12](https://news.ycombinator.com/item?id=43128392) - [I ate and reviewed every snack in our office kitchen](https://www.getlago.com/blog/office-snacks)
 
 ## [Archives](archives/index.md)
 
