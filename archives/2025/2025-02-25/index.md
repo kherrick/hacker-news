@@ -6,6 +6,7 @@
 
 * [2025-02-25, 04:06:39](https://news.ycombinator.com/item?id=43168059) - [A16Z AI Voice Update 2025](https://gamma.app/docs/a16z-AI-Voice-Update-2025--ttkorld8iy6wfnj?mode=doc)
 * [2025-02-25, 03:47:37](https://news.ycombinator.com/item?id=43167936) - [How to change your settings to make yourself less valuable to Meta](https://johnoliverwantsyourraterotica.com/)
+* [2025-02-25, 03:36:41](https://news.ycombinator.com/item?id=43167865) - [History of CAD – David Weisberg](https://www.shapr3d.com/blog/history-of-cad)
 * [2025-02-25, 02:59:33](https://news.ycombinator.com/item?id=43167579) - [Judge: US gov't violated privacy law by disclosing personal data to DOGE](https://arstechnica.com/tech-policy/2025/02/judges-block-doge-access-to-personal-data-in-loss-for-trump-administration/)
 * [2025-02-25, 02:27:29](https://news.ycombinator.com/item?id=43167373) - [DeepSeek open source DeepEP – library for MoE training and Inference](https://github.com/deepseek-ai/DeepEP)
 * [2025-02-25, 01:40:14](https://news.ycombinator.com/item?id=43167087) - [DigiCert: Threat of legal action to stifle Bugzilla discourse](https://bugzilla.mozilla.org/show_bug.cgi?id=1950144)

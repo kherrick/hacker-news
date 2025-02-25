@@ -2,6 +2,7 @@
 
 * [2025-02-25, 04:06:39](https://news.ycombinator.com/item?id=43168059) - [A16Z AI Voice Update 2025](https://gamma.app/docs/a16z-AI-Voice-Update-2025--ttkorld8iy6wfnj?mode=doc)
 * [2025-02-25, 03:47:37](https://news.ycombinator.com/item?id=43167936) - [How to change your settings to make yourself less valuable to Meta](https://johnoliverwantsyourraterotica.com/)
+* [2025-02-25, 03:36:41](https://news.ycombinator.com/item?id=43167865) - [History of CAD – David Weisberg](https://www.shapr3d.com/blog/history-of-cad)
 * [2025-02-25, 02:59:33](https://news.ycombinator.com/item?id=43167579) - [Disclosure of personal information to DOGE “is irreparable harm,” judge rules](https://arstechnica.com/tech-policy/2025/02/judges-block-doge-access-to-personal-data-in-loss-for-trump-administration/)
 * [2025-02-25, 02:27:29](https://news.ycombinator.com/item?id=43167373) - [DeepSeek open source DeepEP – library for MoE training and Inference](https://github.com/deepseek-ai/DeepEP)
 * [2025-02-25, 01:40:14](https://news.ycombinator.com/item?id=43167087) - [DigiCert: Threat of legal action to stifle Bugzilla discourse](https://bugzilla.mozilla.org/show_bug.cgi?id=1950144)
@@ -16,7 +17,6 @@
 * [2025-02-24, 17:49:58](https://news.ycombinator.com/item?id=43162544) - [Student refines 100-year-old math problem, expanding wind energy possibilities](https://www.psu.edu/news/engineering/story/student-refines-100-year-old-math-problem-expanding-wind-energy-possibilities)
 * [2025-02-24, 17:33:56](https://news.ycombinator.com/item?id=43162340) - [Show HN: I made a site to tell the time in corporate](https://corporate.watch)
 * [2025-02-24, 17:00:23](https://news.ycombinator.com/item?id=43161876) - [Ashby (YC W19) Is Hiring Principal Product Engineers](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=a0d8713b-b35e-468e-82a2-40e33795b318)
-* [2025-02-24, 16:55:18](https://news.ycombinator.com/item?id=43161777) - [Right to Repair laws have now been introduced in all U.S. states](https://www.ifixit.com/News/108371/right-to-repair-laws-have-now-been-introduced-in-all-50-us-states)
 * [2025-02-24, 16:22:10](https://news.ycombinator.com/item?id=43161332) - [Launch HN: SubImage (YC W25) – See your infra from an attacker's perspective](https://news.ycombinator.com/item?id=43161332)
 * [2025-02-24, 16:11:06](https://news.ycombinator.com/item?id=43161188) - [Larry Ellison's half-billion-dollar quest to change farming](https://www.wsj.com/tech/larry-ellison-hawaii-greenhouse-farm-food-2d260e1f)
 * [2025-02-24, 15:48:16](https://news.ycombinator.com/item?id=43160884) - [Breaking into apartment buildings in five minutes on my phone](https://www.ericdaigle.ca/posts/breaking-into-dozens-of-apartments-in-five-minutes/)
