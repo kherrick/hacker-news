@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=43167579"
     ],
     [
-      "Judge: US gov't violated privacy law by disclosing personal data to DOGE",
+      "Disclosure of personal information to DOGE “is irreparable harm,” judge rules",
       "https://arstechnica.com/tech-policy/2025/02/judges-block-doge-access-to-personal-data-in-loss-for-trump-administration/"
     ]
   ],
@@ -61,11 +61,21 @@
   ],
   [
     [
+      "2025-02-24, 23:52:33",
+      "https://news.ycombinator.com/item?id=43166362"
+    ],
+    [
+      "Clean Code vs. A Philosophy Of Software Design",
+      "https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md"
+    ]
+  ],
+  [
+    [
       "2025-02-24, 21:25:15",
       "https://news.ycombinator.com/item?id=43165112"
     ],
     [
-      "\"The closer to the train station, the worse the kebab\" – a \"study\"",
+      "“The closer to the train station, the worse the kebab” – a “study”",
       "https://www.jmspae.se/write-ups/kebabs-train-stations/"
     ]
   ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2025-02-24, 17:29:33",
-      "https://news.ycombinator.com/item?id=43162283"
-    ],
-    [
-      "Micro Journal: Distraction-Free Writing Device",
-      "https://github.com/unkyulee/micro-journal"
-    ]
-  ],
-  [
-    [
       "2025-02-24, 17:00:23",
       "https://news.ycombinator.com/item?id=43161876"
     ],
@@ -167,6 +167,16 @@
     [
       "Launch HN: SubImage (YC W25) – See your infra from an attacker's perspective",
       "https://news.ycombinator.com/item?id=43161332"
+    ]
+  ],
+  [
+    [
+      "2025-02-24, 16:11:06",
+      "https://news.ycombinator.com/item?id=43161188"
+    ],
+    [
+      "Larry Ellison's half-billion-dollar quest to change farming",
+      "https://www.wsj.com/tech/larry-ellison-hawaii-greenhouse-farm-food-2d260e1f"
     ]
   ],
   [
@@ -201,42 +211,12 @@
   ],
   [
     [
-      "2025-02-24, 11:05:34",
-      "https://news.ycombinator.com/item?id=43158168"
-    ],
-    [
-      "Apple says it will add 20k jobs, spend $500B, produce AI servers in US",
-      "https://www.bloomberg.com/news/articles/2025-02-24/apple-says-it-will-add-20-000-jobs-spend-500-billion-produce-ai-servers-in-us"
-    ]
-  ],
-  [
-    [
       "2025-02-24, 10:12:37",
       "https://news.ycombinator.com/item?id=43157831"
     ],
     [
       "Microsoft cancels leases for AI data centers, analyst says",
       "https://www.bloomberg.com/news/articles/2025-02-24/microsoft-cancels-leases-for-ai-data-centers-analyst-says"
-    ]
-  ],
-  [
-    [
-      "2025-02-24, 04:26:22",
-      "https://news.ycombinator.com/item?id=43155839"
-    ],
-    [
-      "Is this the simplest (and most surprising) sorting algorithm ever? (2021)",
-      "https://arxiv.org/abs/2110.01111"
-    ]
-  ],
-  [
-    [
-      "2025-02-24, 01:12:18",
-      "https://news.ycombinator.com/item?id=43154883"
-    ],
-    [
-      "Neut Programming Language",
-      "https://vekatze.github.io/neut/overview.html"
     ]
   ],
   [
@@ -261,6 +241,26 @@
   ],
   [
     [
+      "2025-02-21, 22:48:04",
+      "https://news.ycombinator.com/item?id=43134030"
+    ],
+    [
+      "Photon Bricks: A Lego set for playful quantum explorations",
+      "https://www.nottingham.ac.uk/news/photon-bricks-a-lego-set-for-playful-quantum-explorations"
+    ]
+  ],
+  [
+    [
+      "2025-02-21, 15:17:12",
+      "https://news.ycombinator.com/item?id=43128392"
+    ],
+    [
+      "I ate and reviewed every snack in our office kitchen",
+      "https://www.getlago.com/blog/office-snacks"
+    ]
+  ],
+  [
+    [
       "2025-02-21, 14:46:13",
       "https://news.ycombinator.com/item?id=43128021"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2025-02-21, 14:07:17",
-      "https://news.ycombinator.com/item?id=43127577"
-    ],
-    [
-      "Why does target=\"_blank\" have an underscore in front? (2024)",
-      "https://kyrylo.org/html/2024/10/25/why-does-target-blank-have-an-underscore-in-front.html"
-    ]
-  ],
-  [
-    [
       "2025-02-21, 10:07:14",
       "https://news.ycombinator.com/item?id=43125875"
     ],
     [
       "Keeping our free tier sustainable by preventing abuse",
       "https://www.geocod.io/code-and-coordinates/2025-02-19-preventing-abuse/"
+    ]
+  ],
+  [
+    [
+      "2025-02-20, 22:26:25",
+      "https://news.ycombinator.com/item?id=43121134"
+    ],
+    [
+      "Only bad poems go viral",
+      "https://donotresearch.substack.com/p/stephanie-yue-duhem-only-bad-poems"
     ]
   ],
   [
