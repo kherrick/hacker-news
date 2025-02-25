@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-25, 22:13:22](https://news.ycombinator.com/item?id=43178225) - [Voker (YC S24) is hiring an LA-based full stack AI software engineer](https://www.linkedin.com/jobs/view/4165715593)
 * [2025-02-25, 20:41:30](https://news.ycombinator.com/item?id=43177117) - [Show HN: MyCoder, an open source Claude-Code alternative](https://github.com/drivecore/mycoder)
 * [2025-02-25, 20:16:10](https://news.ycombinator.com/item?id=43176782) - [Ghost House – software for automatic inbetweens](https://www.tedwiggin.com/MIMT.html)
 * [2025-02-25, 19:59:41](https://news.ycombinator.com/item?id=43176553) - [Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs [pdf]](https://martins1612.github.io/emergent_misalignment_betley.pdf)
@@ -18,7 +19,6 @@
 * [2025-02-25, 12:53:15](https://news.ycombinator.com/item?id=43171239) - [Embedding Python in Elixir, it's fine](https://dashbit.co/blog/running-python-in-elixir-its-fine)
 * [2025-02-25, 11:22:06](https://news.ycombinator.com/item?id=43170545) - [Chicory: A JVM native WebAssembly runtime](https://chicory.dev/)
 * [2025-02-25, 09:15:14](https://news.ycombinator.com/item?id=43169773) - [A possible future of Python in the browser](https://lukasz.langa.pl/f37aa97a-9ea3-4aeb-b6a0-9daeea5a7505/)
-* [2025-02-24, 20:22:37](https://news.ycombinator.com/item?id=43164498) - [Ask HN: Former devs who can't get a job, what did you end up doing for work?](https://news.ycombinator.com/item?id=43164498)
 * [2025-02-24, 18:09:19](https://news.ycombinator.com/item?id=43162793) - [Ggwave: Tiny Data-over-Sound Library](https://github.com/ggerganov/ggwave)
 * [2025-02-24, 13:20:43](https://news.ycombinator.com/item?id=43159222) - [I recreated Shazam's algorithm with Go [video]](https://www.youtube.com/watch?v=a0CVCcb0RJM)
 * [2025-02-23, 23:36:03](https://news.ycombinator.com/item?id=43154295) - [Bald eagles are thriving again after near extinction](https://www.newsweek.com/bald-eagles-back-brink-extinction-2025097)
