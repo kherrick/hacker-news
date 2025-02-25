@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-25](index.md)
 
+* [2025-02-25, 15:18:57](https://news.ycombinator.com/item?id=43172977) - [Turbocharging V8 with mutable heap numbers · V8](https://v8.dev/blog/mutable-heap-number)
 * [2025-02-25, 14:21:12](https://news.ycombinator.com/item?id=43172180) - [YC deleted the post of the demo for slavery](https://twitter.com/ns123abc/status/1894193460166397991)
 * [2025-02-25, 13:36:31](https://news.ycombinator.com/item?id=43171639) - [ChatGPT Saved My Life (no, seriously, I'm writing this from the ER)](https://hardmodefirst.xyz/chatgpt-saved-my-life-no,-seriously,-im-writing-this-from-the-er)
 * [2025-02-25, 13:18:33](https://news.ycombinator.com/item?id=43171437) - [US employee screening giant DISA says hackers accessed data of 3M people](https://techcrunch.com/2025/02/25/us-employee-screening-giant-disa-says-hackers-accessed-data-of-more-than-3m-people/)
