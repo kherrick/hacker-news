@@ -59,6 +59,7 @@
 * [2025-02-22, 10:54:28](https://news.ycombinator.com/item?id=43137910) - [The Internet's longest-serving PC email system, still being updated](https://www.pmail.com/)
 * [2025-02-22, 10:10:40](https://news.ycombinator.com/item?id=43137694) - [Just Write](https://blog.chasingbrains.co/p/just-write-stuff)
 * [2025-02-22, 10:03:23](https://news.ycombinator.com/item?id=43137659) - [OpenCFS (Coupled Field Simulation)](https://opencfs.org/)
+* [2025-02-22, 09:56:38](https://news.ycombinator.com/item?id=43137627) - [Fans Are Better Than Tech at Organizing Information Online (2019)](https://www.wired.com/story/archive-of-our-own-fans-better-than-tech-organizing-information/)
 * [2025-02-22, 09:44:29](https://news.ycombinator.com/item?id=43137586) - [Why Clojure?](https://gaiwan.co/blog/why-clojure/)
 * [2025-02-22, 09:33:37](https://news.ycombinator.com/item?id=43137541) - [Purely Functional Sliding Window Aggregation Algorithm](https://byorgey.github.io/blog/posts/2024/11/27/stacks-queues.html)
 * [2025-02-22, 09:18:47](https://news.ycombinator.com/item?id=43137488) - ['The tyranny of apps': those without smartphones are unfairly penalised](https://www.theguardian.com/money/2025/feb/22/the-tyranny-of-apps-those-without-smartphones-are-unfairly-penalised-say-campaigners)
