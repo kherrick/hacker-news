@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2025-02-25, 16:56:25",
+      "https://news.ycombinator.com/item?id=43174377"
+    ],
+    [
+      "Show HN: GoatDB – A lightweight, offline-first, realtime NoDB for Deno and React",
+      "https://github.com/goatplatform/goatdb"
+    ]
+  ],
+  [
+    [
       "2025-02-25, 16:46:07",
       "https://news.ycombinator.com/item?id=43174221"
     ],
@@ -187,16 +197,6 @@
     [
       "Ggwave: Tiny Data-over-Sound Library",
       "https://github.com/ggerganov/ggwave"
-    ]
-  ],
-  [
-    [
-      "2025-02-24, 13:20:43",
-      "https://news.ycombinator.com/item?id=43159222"
-    ],
-    [
-      "I recreated Shazam's algorithm with Go [video]",
-      "https://www.youtube.com/watch?v=a0CVCcb0RJM"
     ]
   ],
   [
