@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-25, 13:18:33](https://news.ycombinator.com/item?id=43171437) - [US employee screening giant DISA says hackers accessed data of 3M people](https://techcrunch.com/2025/02/25/us-employee-screening-giant-disa-says-hackers-accessed-data-of-more-than-3m-people/)
 * [2025-02-25, 13:11:44](https://news.ycombinator.com/item?id=43171371) - [Unknown illness kills over 50 in Congo with hours between symptoms and death](https://apnews.com/article/congo-mystery-unknown-illness-cd8b1fdcb3b2ed032968b2c6044dc6db)
 * [2025-02-25, 12:56:10](https://news.ycombinator.com/item?id=43171265) - [DOGE will use AI to assess the responses of federal workers](https://www.nbcnews.com/politics/doge/federal-workers-agencies-push-back-elon-musks-email-ultimatum-rcna193439)
+* [2025-02-25, 12:53:15](https://news.ycombinator.com/item?id=43171239) - [Embedding Python in Elixir, It's Fine](https://dashbit.co/blog/running-python-in-elixir-its-fine)
 * [2025-02-25, 12:50:14](https://news.ycombinator.com/item?id=43171205) - [Signal to leave Sweden if backdoor law passes](https://swedenherald.com/article/signals-ceo-then-were-leaving-sweden)
 * [2025-02-25, 12:14:51](https://news.ycombinator.com/item?id=43170908) - [Elon Musk spells danger for Accenture, McKinsey and their rivals](https://www.economist.com/business/2025/02/19/elon-musk-spells-danger-for-accenture-mckinsey-and-their-rivals)
 * [2025-02-25, 12:04:00](https://news.ycombinator.com/item?id=43170850) - [Tell HN: Y Combinator backing AI company to abuse factory workers](https://news.ycombinator.com/item?id=43170850)
@@ -27,9 +29,7 @@
 * [2025-02-22, 11:54:32](https://news.ycombinator.com/item?id=43138186) - [The independent researcher (2018)](https://nadia.xyz/independent-research)
 * [2025-02-22, 08:27:56](https://news.ycombinator.com/item?id=43137248) - [Show HN: While the world builds AI Agents, I'm just building calculators](https://www.calcverse.live)
 * [2025-02-22, 03:59:28](https://news.ycombinator.com/item?id=43135968) - [Severance show – Fan-based game](https://www.solana-industries.com/)
-* [2025-02-21, 19:45:42](https://news.ycombinator.com/item?id=43132040) - [Tuta Launches Post Quantum Cryptography for Email (2024)](https://tuta.com/blog/post-quantum-cryptography)
 * [2025-02-21, 15:32:13](https://news.ycombinator.com/item?id=43128609) - [Some Programming Language Ideas](https://davidbos.me/posts/some_programming_language_ideas/)
-* [2025-02-21, 15:17:12](https://news.ycombinator.com/item?id=43128392) - [I ate and reviewed every snack in our office kitchen](https://www.getlago.com/blog/office-snacks)
 
 ## [Archives](archives/index.md)
 

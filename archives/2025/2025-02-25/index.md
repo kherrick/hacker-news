@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-02-25](index.md)
 
+* [2025-02-25, 13:18:33](https://news.ycombinator.com/item?id=43171437) - [US employee screening giant DISA says hackers accessed data of 3M people](https://techcrunch.com/2025/02/25/us-employee-screening-giant-disa-says-hackers-accessed-data-of-more-than-3m-people/)
 * [2025-02-25, 13:11:44](https://news.ycombinator.com/item?id=43171371) - [Unknown illness kills over 50 in Congo with hours between symptoms and death](https://apnews.com/article/congo-mystery-unknown-illness-cd8b1fdcb3b2ed032968b2c6044dc6db)
 * [2025-02-25, 12:56:10](https://news.ycombinator.com/item?id=43171265) - [DOGE will use AI to assess the responses of federal workers](https://www.nbcnews.com/politics/doge/federal-workers-agencies-push-back-elon-musks-email-ultimatum-rcna193439)
+* [2025-02-25, 12:53:15](https://news.ycombinator.com/item?id=43171239) - [Embedding Python in Elixir, It's Fine](https://dashbit.co/blog/running-python-in-elixir-its-fine)
 * [2025-02-25, 12:50:14](https://news.ycombinator.com/item?id=43171205) - [Signal to leave Sweden if backdoor law passes](https://swedenherald.com/article/signals-ceo-then-were-leaving-sweden)
 * [2025-02-25, 12:14:51](https://news.ycombinator.com/item?id=43170908) - [Elon Musk spells danger for Accenture, McKinsey and their rivals](https://www.economist.com/business/2025/02/19/elon-musk-spells-danger-for-accenture-mckinsey-and-their-rivals)
 * [2025-02-25, 12:04:00](https://news.ycombinator.com/item?id=43170850) - [Tell HN: Y Combinator backing AI company to abuse factory workers](https://news.ycombinator.com/item?id=43170850)
