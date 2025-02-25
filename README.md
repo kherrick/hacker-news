@@ -2,7 +2,6 @@
 
 * [2025-02-25, 00:59:09](https://news.ycombinator.com/item?id=43166830) - [Everyone at NSF overseeing the Platforms for Wireless Experimentation is gone](https://discuss.systems/@ricci/114059690609284323)
 * [2025-02-25, 00:46:43](https://news.ycombinator.com/item?id=43166761) - [It's still worth blogging in the age of AI](https://www.gilesthomas.com/2025/02/blogging-in-the-age-of-ai)
-* [2025-02-25, 00:44:39](https://news.ycombinator.com/item?id=43166742) - [US friendship is in freefall – shredding bonds and cutting lives short](https://nypost.com/2025/02/24/opinion/friendship-in-america-is-in-freefall-and-its-killing-us/)
 * [2025-02-24, 23:52:33](https://news.ycombinator.com/item?id=43166362) - [Clean Code vs. A Philosophy Of Software Design](https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md)
 * [2025-02-24, 21:25:15](https://news.ycombinator.com/item?id=43165112) - [\"The closer to the train station, the worse the kebab\" – a \"study\"](https://www.jmspae.se/write-ups/kebabs-train-stations/)
 * [2025-02-24, 20:50:22](https://news.ycombinator.com/item?id=43164794) - [Show HN: Electro – A hyper-fast Windows image viewer with a built-in terminal](https://github.com/pTinosq/Electro)
@@ -24,6 +23,7 @@
 * [2025-02-24, 04:26:22](https://news.ycombinator.com/item?id=43155839) - [Is this the simplest (and most surprising) sorting algorithm ever? (2021)](https://arxiv.org/abs/2110.01111)
 * [2025-02-24, 01:12:18](https://news.ycombinator.com/item?id=43154883) - [Neut Programming Language](https://vekatze.github.io/neut/overview.html)
 * [2025-02-22, 14:48:54](https://news.ycombinator.com/item?id=43139361) - [Vialess heterogeneous skin patch for multimodal monitoring and stimulation](https://www.nature.com/articles/s41467-025-55951-6)
+* [2025-02-22, 08:27:56](https://news.ycombinator.com/item?id=43137248) - [While the world builds AI Agents, I'm just building calculators](https://www.calcverse.live)
 * [2025-02-21, 15:17:12](https://news.ycombinator.com/item?id=43128392) - [I ate and reviewed every snack in our office kitchen](https://www.getlago.com/blog/office-snacks)
 * [2025-02-21, 14:46:13](https://news.ycombinator.com/item?id=43128021) - [Writing a DSL in Lua (2015)](https://leafo.net/guides/dsl-in-lua.html)
 * [2025-02-21, 14:07:17](https://news.ycombinator.com/item?id=43127577) - [Why does target=\"_blank\" have an underscore in front? (2024)](https://kyrylo.org/html/2024/10/25/why-does-target-blank-have-an-underscore-in-front.html)
