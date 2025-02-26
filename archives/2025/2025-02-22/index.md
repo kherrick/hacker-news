@@ -44,6 +44,7 @@
 * [2025-02-22, 15:41:45](https://news.ycombinator.com/item?id=43139946) - [Dirty \"Peaker Plants\" Remain Essential to NYC's Power Grid](https://www.untappedcities.com/peaker-plants-nyc-power-grid/)
 * [2025-02-22, 15:28:28](https://news.ycombinator.com/item?id=43139811) - [When AI Thinks It Will Lose, It Sometimes Cheats, Study Finds](https://time.com/7259395/ai-chess-cheating-palisade-research/)
 * [2025-02-22, 14:48:54](https://news.ycombinator.com/item?id=43139361) - [Vialess heterogeneous skin patch for multimodal monitoring and stimulation](https://www.nature.com/articles/s41467-025-55951-6)
+* [2025-02-22, 14:29:32](https://news.ycombinator.com/item?id=43139211) - [Page is under construction: A love letter to the personal website](https://localghost.dev/blog/this-page-is-under-construction/)
 * [2025-02-22, 14:29:23](https://news.ycombinator.com/item?id=43139209) - [Brazil justice orders ban of video platform Rumble](https://www.dw.com/en/brazil-justice-orders-ban-of-video-platform-rumble/a-71708890)
 * [2025-02-22, 14:24:21](https://news.ycombinator.com/item?id=43139172) - [Ask HN: Do US tech firms realize the backlash growing in Europe?](https://news.ycombinator.com/item?id=43139172)
 * [2025-02-22, 14:20:04](https://news.ycombinator.com/item?id=43139138) - [Show HN: I Built a Visual Workflow Automation Platform – FlowRipple](https://flowripple.com/)
