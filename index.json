@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-26, 16:26:18",
+      "https://news.ycombinator.com/item?id=43185174"
+    ],
+    [
+      "A WebAssembly runtime implemented in TypeScript types",
+      "https://github.com/MichiganTypeScript/typescript-types-only-wasm-runtime"
+    ]
+  ],
+  [
+    [
+      "2025-02-26, 16:15:17",
+      "https://news.ycombinator.com/item?id=43185059"
+    ],
+    [
+      "Long division verified via Hoare logic",
+      "https://www.cofault.com/2025/02/long-story-of-division.html"
+    ]
+  ],
+  [
+    [
       "2025-02-26, 15:58:19",
       "https://news.ycombinator.com/item?id=43184860"
     ],
@@ -131,6 +151,16 @@
   ],
   [
     [
+      "2025-02-25, 19:59:41",
+      "https://news.ycombinator.com/item?id=43176553"
+    ],
+    [
+      "Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs [pdf]",
+      "https://martins1612.github.io/emergent_misalignment_betley.pdf"
+    ]
+  ],
+  [
+    [
       "2025-02-25, 18:39:10",
       "https://news.ycombinator.com/item?id=43175628"
     ],
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2025-02-25, 11:22:06",
-      "https://news.ycombinator.com/item?id=43170545"
-    ],
-    [
-      "Chicory: A JVM native WebAssembly runtime",
-      "https://chicory.dev/"
-    ]
-  ],
-  [
-    [
       "2025-02-25, 10:24:34",
       "https://news.ycombinator.com/item?id=43170155"
     ],
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2025-02-24, 12:19:40",
-      "https://news.ycombinator.com/item?id=43158696"
-    ],
-    [
-      "Understanding Surrogate Pairs: Why Some Windows Filenames Can't Be Read",
-      "https://zaferbalkan.com/surrogates/"
-    ]
-  ],
-  [
-    [
       "2025-02-23, 23:36:03",
       "https://news.ycombinator.com/item?id=43154295"
     ],
     [
       "Bald eagles are thriving again after near extinction",
       "https://www.newsweek.com/bald-eagles-back-brink-extinction-2025097"
-    ]
-  ],
-  [
-    [
-      "2025-02-23, 18:55:30",
-      "https://news.ycombinator.com/item?id=43151985"
-    ],
-    [
-      "Online discussions on forests preserved in the Finnish Web Archive",
-      "https://www.kansalliskirjasto.fi/en/news/online-discussions-forests-preserved-finnish-web-archive"
     ]
   ],
   [
