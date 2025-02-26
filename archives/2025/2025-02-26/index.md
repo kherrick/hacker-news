@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-26](index.md)
 
+* [2025-02-26, 14:05:41](https://news.ycombinator.com/item?id=43183688) - [Apple's Dictation System Transcribes the Word 'Racist' as 'Trump'](https://www.nytimes.com/2025/02/25/technology/iphone-dictation-trump-racist.html)
 * [2025-02-26, 13:47:33](https://news.ycombinator.com/item?id=43183568) - [\"Do you not like money?\"](https://rubenerd.com/do-you-not-like-money/)
 * [2025-02-26, 13:30:54](https://news.ycombinator.com/item?id=43183450) - [Ask HN: Ethical VC Funds?](https://news.ycombinator.com/item?id=43183450)
 * [2025-02-26, 13:28:46](https://news.ycombinator.com/item?id=43183435) - [Apple to fix iPhone dictation bug that replaces word 'racist' with 'Trump'](https://www.newsweek.com/apple-iphone-glitch-racist-trump-error-glitch-fix-maga-2036416)
