@@ -17,7 +17,6 @@
 * [2025-02-25, 16:15:39](https://news.ycombinator.com/item?id=43173773) - [New maps of the chaotic space-time inside black holes](https://www.quantamagazine.org/new-maps-of-the-bizarre-chaotic-space-time-inside-black-holes-20250224/)
 * [2025-02-25, 15:51:54](https://news.ycombinator.com/item?id=43173462) - [Hyperspace](https://hypercritical.co/2025/02/25/hyperspace)
 * [2025-02-25, 15:45:17](https://news.ycombinator.com/item?id=43173378) - [Launch HN: Browser Use (YC W25) – open-source web agents](https://github.com/browser-use/browser-use)
-* [2025-02-25, 14:33:42](https://news.ycombinator.com/item?id=43172338) - [DeepSearcher: A local open-source Deep Research](https://milvus.io/blog/introduce-deepsearcher-a-local-open-source-deep-research.md)
 * [2025-02-25, 12:53:15](https://news.ycombinator.com/item?id=43171239) - [Embedding Python in Elixir, it's fine](https://dashbit.co/blog/running-python-in-elixir-its-fine)
 * [2025-02-25, 11:22:06](https://news.ycombinator.com/item?id=43170545) - [Chicory: A JVM native WebAssembly runtime](https://chicory.dev/)
 * [2025-02-25, 10:24:34](https://news.ycombinator.com/item?id=43170155) - [Evaluating modular RAG with reasoning models](https://www.kapa.ai/blog/evaluating-modular-rag-with-reasoning-models)
@@ -28,6 +27,7 @@
 * [2025-02-23, 18:51:49](https://news.ycombinator.com/item?id=43151943) - [Part two of Grant Sanderson's video with Terry Tao on the cosmic distance ladder](https://mathstodon.xyz/@tao/114054291471216181)
 * [2025-02-23, 13:25:44](https://news.ycombinator.com/item?id=43149077) - [Why are QR Codes with capital letters smaller than QR codes with lower case?](https://shkspr.mobi/blog/2025/02/why-are-qr-codes-with-capital-letters-smaller-than-qr-codes-with-lower-case-letters/)
 * [2025-02-22, 09:52:26](https://news.ycombinator.com/item?id=43137616) - [If it is worth keeping, save it in Markdown](https://p.migdal.pl/blog/2025/02/markdown-saves/)
+* [2025-02-22, 09:11:22](https://news.ycombinator.com/item?id=43137445) - [Terence Tao – Machine-Assisted Proofs (February 19, 2025) [video]](https://www.youtube.com/watch?v=5ZIIGLiQWNM)
 * [2025-02-21, 23:48:53](https://news.ycombinator.com/item?id=43134563) - [Xonsh – A Python-powered shell](https://xon.sh/)
 * [2025-02-21, 21:26:28](https://news.ycombinator.com/item?id=43133207) - [The Deep Research problem](https://www.ben-evans.com/benedictevans/2025/2/17/the-deep-research-problem)
 

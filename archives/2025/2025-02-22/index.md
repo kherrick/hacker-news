@@ -68,6 +68,7 @@
 * [2025-02-22, 09:44:29](https://news.ycombinator.com/item?id=43137586) - [Why Clojure?](https://gaiwan.co/blog/why-clojure/)
 * [2025-02-22, 09:33:37](https://news.ycombinator.com/item?id=43137541) - [Purely Functional Sliding Window Aggregation Algorithm](https://byorgey.github.io/blog/posts/2024/11/27/stacks-queues.html)
 * [2025-02-22, 09:18:47](https://news.ycombinator.com/item?id=43137488) - ['The tyranny of apps': those without smartphones are unfairly penalised](https://www.theguardian.com/money/2025/feb/22/the-tyranny-of-apps-those-without-smartphones-are-unfairly-penalised-say-campaigners)
+* [2025-02-22, 09:11:22](https://news.ycombinator.com/item?id=43137445) - [Terence Tao – Machine-Assisted Proofs (February 19, 2025) [video]](https://www.youtube.com/watch?v=5ZIIGLiQWNM)
 * [2025-02-22, 08:27:56](https://news.ycombinator.com/item?id=43137248) - [While the world builds AI Agents, I'm just building calculators](https://www.calcverse.live)
 * [2025-02-22, 08:11:45](https://news.ycombinator.com/item?id=43137171) - [Ask HN: A retrofitted C dialect?](https://news.ycombinator.com/item?id=43137171)
 * [2025-02-22, 08:06:10](https://news.ycombinator.com/item?id=43137145) - [Invoker Commands (Explainer)](https://open-ui.org/components/invokers.explainer/)
