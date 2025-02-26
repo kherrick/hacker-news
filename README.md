@@ -16,7 +16,6 @@
 * [2025-02-26, 17:17:11](https://news.ycombinator.com/item?id=43185733) - [Rediscovering Quaternions](https://jasonfantl.com/posts/Space-of-3D-Rotations/)
 * [2025-02-26, 16:32:46](https://news.ycombinator.com/item?id=43185246) - [Launch HN: Maritime Fusion (YC W25) – Fusion Reactors for Ships](https://news.ycombinator.com/item?id=43185246)
 * [2025-02-26, 16:15:17](https://news.ycombinator.com/item?id=43185059) - [Long division verified via Hoare logic](https://www.cofault.com/2025/02/long-story-of-division.html)
-* [2025-02-26, 15:58:19](https://news.ycombinator.com/item?id=43184860) - [Bifurcation: The secret giant islands formed when rivers split](https://starkeycomics.com/2021/06/10/bifurcation-the-secret-giant-islands-formed-when-rivers-split/)
 * [2025-02-26, 15:47:17](https://news.ycombinator.com/item?id=43184762) - [Jeff Bezos exerts more control of Washington Post opinion](https://deadline.com/2025/02/jeff-bezos-washington-post-opinion-1236302292/)
 * [2025-02-26, 15:41:44](https://news.ycombinator.com/item?id=43184686) - [ForeverVM: Run AI-generated code in stateful sandboxes that run forever](https://forevervm.com/)
 * [2025-02-26, 15:05:02](https://news.ycombinator.com/item?id=43184291) - [TypeScript types can run DOOM [video]](https://www.youtube.com/watch?v=0mCsluv5FXA)
@@ -29,6 +28,7 @@
 * [2025-02-24, 13:28:40](https://news.ycombinator.com/item?id=43159314) - [Writing a .NET Garbage Collector in C# – Part 1](https://minidump.net/2025-28-01-writing-a-net-gc-in-c-part-1/)
 * [2025-02-24, 08:46:14](https://news.ycombinator.com/item?id=43157185) - [AI's Biggest Flaw? The Blinking Cursor Problem](https://blog.scottlogic.com/2025/02/21/ais-biggest-flaw-the-blinking-cursor-problem.html)
 * [2025-02-23, 19:00:21](https://news.ycombinator.com/item?id=43152033) - [Show HN: I created a language called AntiLang – breaking all the conventions](https://siruscodes.github.io/AntiLang/)
+* [2025-02-23, 18:14:12](https://news.ycombinator.com/item?id=43151544) - [The JIT Calculator Challenge](https://ochagavia.nl/blog/the-jit-calculator-challenge/)
 * [2025-02-23, 05:10:39](https://news.ycombinator.com/item?id=43146758) - [Decompilation of Minecraft: Legacy Console Edition](https://github.com/GRAnimated/MinecraftLCE)
 
 ## [Archives](archives/index.md)

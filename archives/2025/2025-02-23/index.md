@@ -27,6 +27,7 @@
 * [2025-02-23, 18:51:49](https://news.ycombinator.com/item?id=43151943) - [Part two of Grant Sanderson's video with Terry Tao on the cosmic distance ladder](https://mathstodon.xyz/@tao/114054291471216181)
 * [2025-02-23, 18:34:42](https://news.ycombinator.com/item?id=43151775) - [Technofossils: Humanity's eternal testament will be plastic bags, cheap clothes](https://www.theguardian.com/science/2025/feb/22/technofossils-how-plastic-bags-and-chicken-bones-will-become-our-eternal-legacy)
 * [2025-02-23, 18:17:08](https://news.ycombinator.com/item?id=43151580) - [Grok 3 claims its system prompt includes censorship about Musk/Trump](https://old.reddit.com/r/OpenAI/comments/1iw8eok/elon_musk_is_trying_to_censor_grok_3_which_the/)
+* [2025-02-23, 18:14:12](https://news.ycombinator.com/item?id=43151544) - [The JIT Calculator Challenge](https://ochagavia.nl/blog/the-jit-calculator-challenge/)
 * [2025-02-23, 17:51:52](https://news.ycombinator.com/item?id=43151364) - [Turning Off All 8k EV Chargers at All Federal Government Buildings](https://www.thedrive.com/news/trump-is-turning-off-all-8000-ev-chargers-at-all-federal-government-buildings)
 * [2025-02-23, 17:46:09](https://news.ycombinator.com/item?id=43151320) - [Decades of Research Misconduct Stalled an Alzheimer's Cure](https://www.sciencefriday.com/articles/doctored-book-excerpt/)
 * [2025-02-23, 17:43:34](https://news.ycombinator.com/item?id=43151294) - [WhiteSur: macOS-like theme for GTK desktops](https://github.com/vinceliuice/WhiteSur-gtk-theme)
