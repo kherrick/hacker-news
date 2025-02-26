@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-26, 18:42:45](https://news.ycombinator.com/item?id=43186692) - [Google is making it even easier to remove your personal information on Search](https://www.engadget.com/cybersecurity/google-is-making-it-even-easier-to-remove-your-personal-information-on-search-145326075.html)
 * [2025-02-26, 18:21:11](https://news.ycombinator.com/item?id=43186433) - [Skopje’s eccentric post office (2021)](https://www.new-east-archive.org/articles/show/12963/concrete-ideas-skopje-central-post-office-modernist-brutalism-demolition-architecture-north-macedonia)
 * [2025-02-26, 18:19:28](https://news.ycombinator.com/item?id=43186413) - [Your camera can take 3D photos. Your screen can display 3D photos.](https://moultano.wordpress.com/2025/02/24/you-should-make-cross-views/)
 * [2025-02-26, 17:45:19](https://news.ycombinator.com/item?id=43186050) - [The Man Who Spent Forty-Two Years at the Beverly Hills Hotel Pool (1993)](https://www.newyorker.com/magazine/1993/02/22/beverly-hills-hotel-paradise-lost)
@@ -18,6 +17,7 @@
 * [2025-02-26, 11:55:26](https://news.ycombinator.com/item?id=43182854) - [The Miserable State of Modems and Mobile Network Operators](https://blog.golioth.io/the-miserable-state-of-modems-and-mobile-network-operators/)
 * [2025-02-26, 09:57:23](https://news.ycombinator.com/item?id=43182325) - [The FFT Strikes Back: An Efficient Alternative to Self-Attention](https://arxiv.org/abs/2502.18394)
 * [2025-02-26, 08:28:21](https://news.ycombinator.com/item?id=43181862) - [Telescope – an open-source web-based log viewer for logs stored in ClickHouse](https://github.com/iamtelescope/telescope)
+* [2025-02-26, 08:25:46](https://news.ycombinator.com/item?id=43181847) - [A CLI to quickly launch VSCode/cursor devcontainers](https://github.com/michidk/vscli)
 * [2025-02-26, 01:02:24](https://news.ycombinator.com/item?id=43179478) - [DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling](https://github.com/deepseek-ai/DeepGEMM)
 * [2025-02-25, 20:16:10](https://news.ycombinator.com/item?id=43176782) - [Ghost House – software for automatic inbetweens](https://www.tedwiggin.com/MIMT.html)
 * [2025-02-25, 18:39:10](https://news.ycombinator.com/item?id=43175628) - [I Went to SQL Injection Court](https://sockpuppet.org/blog/2025/02/09/fixing-illinois-foia/)
@@ -25,9 +25,9 @@
 * [2025-02-25, 15:51:54](https://news.ycombinator.com/item?id=43173462) - [Hyperspace](https://hypercritical.co/2025/02/25/hyperspace)
 * [2025-02-25, 15:45:17](https://news.ycombinator.com/item?id=43173378) - [Launch HN: Browser Use (YC W25) – open-source web agents](https://github.com/browser-use/browser-use)
 * [2025-02-24, 18:09:19](https://news.ycombinator.com/item?id=43162793) - [Ggwave: Tiny Data-over-Sound Library](https://github.com/ggerganov/ggwave)
+* [2025-02-24, 14:39:28](https://news.ycombinator.com/item?id=43160079) - [Show HN: Instantly Translate Manga – TranslateManga](https://translatemanga.net/en)
 * [2025-02-24, 13:20:17](https://news.ycombinator.com/item?id=43159219) - [The journalists training AI models for Meta and OpenAI](https://www.niemanlab.org/2025/02/meet-the-journalists-training-ai-models-for-meta-and-openai/)
 * [2025-02-23, 18:51:49](https://news.ycombinator.com/item?id=43151943) - [Part two of Grant Sanderson's video with Terry Tao on the cosmic distance ladder](https://mathstodon.xyz/@tao/114054291471216181)
-* [2025-02-23, 15:51:36](https://news.ycombinator.com/item?id=43150120) - [Should We Decouple Technology from Everyday Life?](https://www.thepublicdiscourse.com/2025/01/96846/)
 * [2025-02-23, 13:56:02](https://news.ycombinator.com/item?id=43149242) - [Ask HN: Who Are Your Favorite Photography and Generative Coding Artists?](https://news.ycombinator.com/item?id=43149242)
 * [2025-02-23, 09:54:51](https://news.ycombinator.com/item?id=43148150) - [Living in your programming environment [pdf]](https://www.hpi.uni-potsdam.de/hirschfeld/publications/media/ReinLinckeRamsonMattisHirschfeld_2017_LivingInYourProgrammingEnvironmentTowardsAnEnvironmentForExploratoryAdaptationsOfProductivityTools_AcmDL.pdf)
 
