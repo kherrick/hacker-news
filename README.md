@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-26, 03:01:43](https://news.ycombinator.com/item?id=43180133) - [Y Combinator deletes posts after a startup's demo goes viral](https://techcrunch.com/2025/02/25/y-combinator-deletes-posts-after-a-startups-demo-goes-viral/)
 * [2025-02-26, 01:02:24](https://news.ycombinator.com/item?id=43179478) - [DeepSeek Open Sources DeepGEMM: Clean and efficient FP8 GEMM kernels](https://github.com/deepseek-ai/DeepGEMM)
 * [2025-02-26, 00:23:39](https://news.ycombinator.com/item?id=43179222) - [From Reform to Ruin in the USSR](https://www.cogitations.co/p/from-reform-to-ruin-in-the-ussr)
 * [2025-02-25, 23:24:40](https://news.ycombinator.com/item?id=43178831) - [Material Theme has been pulled from VS Code's marketplace](https://github.com/material-theme/vsc-material-theme/discussions/1313)
@@ -20,7 +21,6 @@
 * [2025-02-25, 11:22:06](https://news.ycombinator.com/item?id=43170545) - [Chicory: A JVM native WebAssembly runtime](https://chicory.dev/)
 * [2025-02-25, 09:15:14](https://news.ycombinator.com/item?id=43169773) - [A possible future of Python in the browser](https://lukasz.langa.pl/f37aa97a-9ea3-4aeb-b6a0-9daeea5a7505/)
 * [2025-02-24, 18:09:19](https://news.ycombinator.com/item?id=43162793) - [Ggwave: Tiny Data-over-Sound Library](https://github.com/ggerganov/ggwave)
-* [2025-02-24, 12:47:07](https://news.ycombinator.com/item?id=43158916) - [Modernist Cuisine: The Art and Science of Cooking](https://modernistcuisine.com/books/modernist-cuisine/)
 * [2025-02-23, 23:36:03](https://news.ycombinator.com/item?id=43154295) - [Bald eagles are thriving again after near extinction](https://www.newsweek.com/bald-eagles-back-brink-extinction-2025097)
 * [2025-02-23, 19:00:21](https://news.ycombinator.com/item?id=43152033) - [Show HN: I created a language called AntiLang – breaking all the conventions](https://siruscodes.github.io/AntiLang/)
 * [2025-02-23, 18:51:49](https://news.ycombinator.com/item?id=43151943) - [Part two of Grant Sanderson's video with Terry Tao on the cosmic distance ladder](https://mathstodon.xyz/@tao/114054291471216181)
