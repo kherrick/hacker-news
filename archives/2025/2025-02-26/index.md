@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-02-26](index.md)
 
+* [2025-02-26, 19:31:25](https://news.ycombinator.com/item?id=43187231) - [Show HN: LLM plays Pokémon (open sourced)](https://github.com/adenta/fire_red_agent)
 * [2025-02-26, 18:52:38](https://news.ycombinator.com/item?id=43186801) - [Microsoft is Getting Rusty [video]](https://www.youtube.com/watch?v=1VgptLwP588)
+* [2025-02-26, 18:52:23](https://news.ycombinator.com/item?id=43186797) - [From Records to Agents: The Overlooked Revolution in Enterprise Software](https://sperand.io/posts/the-future-of-enterprise-software/)
 * [2025-02-26, 18:42:45](https://news.ycombinator.com/item?id=43186692) - [Google is making it even easier to remove your personal information on Search](https://www.engadget.com/cybersecurity/google-is-making-it-even-easier-to-remove-your-personal-information-on-search-145326075.html)
 * [2025-02-26, 18:21:11](https://news.ycombinator.com/item?id=43186433) - [Skopje’s eccentric post office (2021)](https://www.new-east-archive.org/articles/show/12963/concrete-ideas-skopje-central-post-office-modernist-brutalism-demolition-architecture-north-macedonia)
 * [2025-02-26, 18:19:28](https://news.ycombinator.com/item?id=43186413) - [Your camera can take 3D photos. Your screen can display 3D photos.](https://moultano.wordpress.com/2025/02/24/you-should-make-cross-views/)
