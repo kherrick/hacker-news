@@ -19,6 +19,7 @@
 * [2025-02-25, 11:22:06](https://news.ycombinator.com/item?id=43170545) - [Chicory: A JVM native WebAssembly runtime](https://chicory.dev/)
 * [2025-02-25, 10:24:34](https://news.ycombinator.com/item?id=43170155) - [Evaluating modular RAG with reasoning models](https://www.kapa.ai/blog/evaluating-modular-rag-with-reasoning-models)
 * [2025-02-24, 18:09:19](https://news.ycombinator.com/item?id=43162793) - [Ggwave: Tiny Data-over-Sound Library](https://github.com/ggerganov/ggwave)
+* [2025-02-24, 13:20:17](https://news.ycombinator.com/item?id=43159219) - [The journalists training AI models for Meta and OpenAI](https://www.niemanlab.org/2025/02/meet-the-journalists-training-ai-models-for-meta-and-openai/)
 * [2025-02-24, 12:47:07](https://news.ycombinator.com/item?id=43158916) - [Modernist Cuisine: The Art and Science of Cooking](https://modernistcuisine.com/books/modernist-cuisine/)
 * [2025-02-24, 12:19:40](https://news.ycombinator.com/item?id=43158696) - [Understanding Surrogate Pairs: Why Some Windows Filenames Can't Be Read](https://zaferbalkan.com/surrogates/)
 * [2025-02-23, 23:36:03](https://news.ycombinator.com/item?id=43154295) - [Bald eagles are thriving again after near extinction](https://www.newsweek.com/bald-eagles-back-brink-extinction-2025097)
@@ -27,7 +28,6 @@
 * [2025-02-22, 14:29:32](https://news.ycombinator.com/item?id=43139211) - [Page is under construction: A love letter to the personal website](https://localghost.dev/blog/this-page-is-under-construction/)
 * [2025-02-22, 09:52:26](https://news.ycombinator.com/item?id=43137616) - [If it is worth keeping, save it in Markdown](https://p.migdal.pl/blog/2025/02/markdown-saves/)
 * [2025-02-22, 09:11:22](https://news.ycombinator.com/item?id=43137445) - [Terence Tao – Machine-Assisted Proofs [video]](https://www.youtube.com/watch?v=5ZIIGLiQWNM)
-* [2025-02-21, 23:48:53](https://news.ycombinator.com/item?id=43134563) - [Xonsh – A Python-powered shell](https://xon.sh/)
 * [2025-02-21, 21:26:28](https://news.ycombinator.com/item?id=43133207) - [The Deep Research problem](https://www.ben-evans.com/benedictevans/2025/2/17/the-deep-research-problem)
 * [2025-02-18, 15:49:38](https://news.ycombinator.com/item?id=43090888) - [Tristan Davey's Punch Card Archive](https://punchcards.tristandavey.com/)
 
