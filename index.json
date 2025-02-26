@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-26, 22:25:10",
+      "https://news.ycombinator.com/item?id=43188971"
+    ],
+    [
+      "iMac G4(K)",
+      "https://jcs.org/2025/02/26/imacg4k"
+    ]
+  ],
+  [
+    [
+      "2025-02-26, 22:02:15",
+      "https://news.ycombinator.com/item?id=43188749"
+    ],
+    [
+      "Jeff Bezos' revamp of 'Washington Post' opinions leads editor to quit",
+      "https://www.npr.org/2025/02/26/nx-s1-5309725/jeff-bezos-washington-post-opinion-section"
+    ]
+  ],
+  [
+    [
       "2025-02-26, 21:39:31",
       "https://news.ycombinator.com/item?id=43188537"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-02-26, 16:50:51",
-      "https://news.ycombinator.com/item?id=43185446"
-    ],
-    [
-      "Alexa+",
-      "https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence"
-    ]
-  ],
-  [
-    [
       "2025-02-26, 16:32:46",
       "https://news.ycombinator.com/item?id=43185246"
     ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2025-02-26, 01:02:24",
-      "https://news.ycombinator.com/item?id=43179478"
-    ],
-    [
-      "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
-      "https://github.com/deepseek-ai/DeepGEMM"
-    ]
-  ],
-  [
-    [
       "2025-02-25, 18:39:10",
       "https://news.ycombinator.com/item?id=43175628"
     ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2025-02-24, 13:28:40",
+      "https://news.ycombinator.com/item?id=43159314"
+    ],
+    [
+      "Writing a .NET Garbage Collector in C# – Part 1",
+      "https://minidump.net/2025-28-01-writing-a-net-gc-in-c-part-1/"
+    ]
+  ],
+  [
+    [
       "2025-02-24, 08:46:14",
       "https://news.ycombinator.com/item?id=43157185"
     ],
@@ -277,16 +287,6 @@
     [
       "Project Scripts",
       "https://paul-samuels.com/blog/2025/02/23/project-scripts/"
-    ]
-  ],
-  [
-    [
-      "2025-02-23, 09:54:51",
-      "https://news.ycombinator.com/item?id=43148150"
-    ],
-    [
-      "Living in your programming environment [pdf]",
-      "https://www.hpi.uni-potsdam.de/hirschfeld/publications/media/ReinLinckeRamsonMattisHirschfeld_2017_LivingInYourProgrammingEnvironmentTowardsAnEnvironmentForExploratoryAdaptationsOfProductivityTools_AcmDL.pdf"
     ]
   ],
   [
