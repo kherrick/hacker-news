@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-02-26, 01:02:24",
+      "https://news.ycombinator.com/item?id=43179478"
+    ],
+    [
+      "DeepSeek Open Sources DeepGEMM: Clean and efficient FP8 GEMM kernels",
+      "https://github.com/deepseek-ai/DeepGEMM"
+    ]
+  ],
+  [
+    [
+      "2025-02-26, 00:23:39",
+      "https://news.ycombinator.com/item?id=43179222"
+    ],
+    [
+      "From Reform to Ruin in the USSR",
+      "https://www.cogitations.co/p/from-reform-to-ruin-in-the-ussr"
+    ]
+  ],
+  [
+    [
+      "2025-02-25, 23:24:40",
+      "https://news.ycombinator.com/item?id=43178831"
+    ],
+    [
+      "Material Theme has been pulled from VS Code's marketplace",
+      "https://github.com/material-theme/vsc-material-theme/discussions/1313"
+    ]
+  ],
+  [
+    [
       "2025-02-25, 22:13:22",
       "https://news.ycombinator.com/item?id=43178225"
     ],
@@ -71,16 +101,6 @@
   ],
   [
     [
-      "2025-02-25, 18:20:18",
-      "https://news.ycombinator.com/item?id=43175408"
-    ],
-    [
-      "Low Overhead Allocation Sampling with VMProf in PyPy's GC",
-      "https://pypy.org/posts/2025/02/pypy-gc-sampling.html"
-    ]
-  ],
-  [
-    [
       "2025-02-25, 18:12:31",
       "https://news.ycombinator.com/item?id=43175315"
     ],
@@ -97,26 +117,6 @@
     [
       "Hard problems that reduce to document ranking",
       "https://noperator.dev/posts/document-ranking-for-complex-problems/"
-    ]
-  ],
-  [
-    [
-      "2025-02-25, 16:56:25",
-      "https://news.ycombinator.com/item?id=43174377"
-    ],
-    [
-      "Show HN: GoatDB – A lightweight, offline-first, realtime NoDB for Deno and React",
-      "https://github.com/goatplatform/goatdb"
-    ]
-  ],
-  [
-    [
-      "2025-02-25, 16:46:07",
-      "https://news.ycombinator.com/item?id=43174221"
-    ],
-    [
-      "Show HN: My new wiki for Silicon Graphics stuff",
-      "https://www.tech-pubs.net/wiki/Main_Page"
     ]
   ],
   [
@@ -201,22 +201,22 @@
   ],
   [
     [
-      "2025-02-24, 09:22:16",
-      "https://news.ycombinator.com/item?id=43157439"
-    ],
-    [
-      "Making a system highly available isn't just about adding redundancy",
-      "https://www.meesho.io/blog/building-highly-available-checkout-system"
-    ]
-  ],
-  [
-    [
       "2025-02-23, 23:36:03",
       "https://news.ycombinator.com/item?id=43154295"
     ],
     [
       "Bald eagles are thriving again after near extinction",
       "https://www.newsweek.com/bald-eagles-back-brink-extinction-2025097"
+    ]
+  ],
+  [
+    [
+      "2025-02-23, 19:00:21",
+      "https://news.ycombinator.com/item?id=43152033"
+    ],
+    [
+      "Show HN: I created a language called AntiLang – breaking all the conventions",
+      "https://siruscodes.github.io/AntiLang/"
     ]
   ],
   [
