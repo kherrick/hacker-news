@@ -60,6 +60,7 @@
 * [2025-02-24, 10:12:37](https://news.ycombinator.com/item?id=43157831) - [Microsoft Cancels Leases for AI Data Centers, Analyst Says](https://www.bloomberg.com/news/articles/2025-02-24/microsoft-cancels-leases-for-ai-data-centers-analyst-says)
 * [2025-02-24, 09:22:16](https://news.ycombinator.com/item?id=43157439) - [Making a system highly available isn't just about adding redundancy](https://www.meesho.io/blog/building-highly-available-checkout-system)
 * [2025-02-24, 08:59:11](https://news.ycombinator.com/item?id=43157279) - [Can I run this LLM?](https://canirunthisllm.com/)
+* [2025-02-24, 08:46:14](https://news.ycombinator.com/item?id=43157185) - [AI's Biggest Flaw? The Blinking Cursor Problem](https://blog.scottlogic.com/2025/02/21/ais-biggest-flaw-the-blinking-cursor-problem.html)
 * [2025-02-24, 08:19:08](https://news.ycombinator.com/item?id=43157000) - [Cloudflare takes legal action over LaLiga's \"disproportionate blocking efforts\"](https://www.broadbandtvnews.com/2025/02/19/cloudflare-takes-legal-action-over-laligas-disproportionate-blocking-efforts/)
 * [2025-02-24, 08:08:39](https://news.ycombinator.com/item?id=43156932) - [Indentation Style: Notable Styles](https://en.wikipedia.org/wiki/Indentation_style)
 * [2025-02-24, 07:40:18](https://news.ycombinator.com/item?id=43156785) - [We don't need startups, we need Digital-Mittelstand](https://mertbulan.com/2025/02/24/we-dont-need-startups-we-need-digital-mittelstand/)
