@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-02-26, 04:21:21",
-      "https://news.ycombinator.com/item?id=43180561"
-    ],
-    [
-      "Oil and Gas Subsidies Are Another Lie Detector Test for the DOGE Bros",
-      "https://www.motherjones.com/politics/2025/01/doge-fossil-fuel-subsidies-elon-musk-vivek-ramaswamy/"
-    ]
-  ],
-  [
-    [
       "2025-02-26, 03:01:43",
       "https://news.ycombinator.com/item?id=43180133"
     ],
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=43179478"
     ],
     [
-      "DeepSeek Open Sources DeepGEMM: Clean and efficient FP8 GEMM kernels",
+      "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
       "https://github.com/deepseek-ai/DeepGEMM"
     ]
   ],
@@ -137,6 +127,16 @@
     [
       "Hard problems that reduce to document ranking",
       "https://noperator.dev/posts/document-ranking-for-complex-problems/"
+    ]
+  ],
+  [
+    [
+      "2025-02-25, 16:56:25",
+      "https://news.ycombinator.com/item?id=43174377"
+    ],
+    [
+      "Show HN: GoatDB – A lightweight, offline-first, realtime NoDB for Deno and React",
+      "https://github.com/goatplatform/goatdb"
     ]
   ],
   [
