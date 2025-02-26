@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-26, 17:45:19](https://news.ycombinator.com/item?id=43186050) - [The Man Who Spent Forty-Two Years at the Beverly Hills Hotel Pool (1993)](https://www.newyorker.com/magazine/1993/02/22/beverly-hills-hotel-paradise-lost)
 * [2025-02-26, 17:19:29](https://news.ycombinator.com/item?id=43185769) - [DARPA Large Bio-Mechanical Space Structures](https://sam.gov/opp/49c9fac62ef249f19cda8b436a095d3b/view)
 * [2025-02-26, 16:32:46](https://news.ycombinator.com/item?id=43185246) - [Launch HN: Maritime Fusion (YC W25) – Fusion Reactors for Ships](https://news.ycombinator.com/item?id=43185246)
 * [2025-02-26, 16:15:17](https://news.ycombinator.com/item?id=43185059) - [Long division verified via Hoare logic](https://www.cofault.com/2025/02/long-story-of-division.html)
@@ -16,9 +17,9 @@
 * [2025-02-26, 08:25:46](https://news.ycombinator.com/item?id=43181847) - [A CLI to quickly launch VSCode/cursor devcontainers](https://github.com/michidk/vscli)
 * [2025-02-26, 07:43:21](https://news.ycombinator.com/item?id=43181610) - [Iterated Log Coding](https://adamscherlis.github.io/blog/iterlog-coding/)
 * [2025-02-26, 01:02:24](https://news.ycombinator.com/item?id=43179478) - [DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling](https://github.com/deepseek-ai/DeepGEMM)
-* [2025-02-25, 23:24:40](https://news.ycombinator.com/item?id=43178831) - [Material Theme has been pulled from VS Code's marketplace](https://github.com/material-theme/vsc-material-theme/discussions/1313)
 * [2025-02-25, 18:39:10](https://news.ycombinator.com/item?id=43175628) - [I Went to SQL Injection Court](https://sockpuppet.org/blog/2025/02/09/fixing-illinois-foia/)
 * [2025-02-25, 17:37:07](https://news.ycombinator.com/item?id=43174910) - [Hard problems that reduce to document ranking](https://noperator.dev/posts/document-ranking-for-complex-problems/)
+* [2025-02-25, 16:34:07](https://news.ycombinator.com/item?id=43174041) - [Show HN: Tach – Visualize and untangle your Python codebase](https://github.com/gauge-sh/tach)
 * [2025-02-25, 15:51:54](https://news.ycombinator.com/item?id=43173462) - [Hyperspace](https://hypercritical.co/2025/02/25/hyperspace)
 * [2025-02-25, 15:45:17](https://news.ycombinator.com/item?id=43173378) - [Launch HN: Browser Use (YC W25) – open-source web agents](https://github.com/browser-use/browser-use)
 * [2025-02-24, 18:09:19](https://news.ycombinator.com/item?id=43162793) - [Ggwave: Tiny Data-over-Sound Library](https://github.com/ggerganov/ggwave)
@@ -29,7 +30,6 @@
 * [2025-02-23, 13:56:02](https://news.ycombinator.com/item?id=43149242) - [Ask HN: Who Are Your Favorite Photography and Generative Coding Artists?](https://news.ycombinator.com/item?id=43149242)
 * [2025-02-23, 13:25:44](https://news.ycombinator.com/item?id=43149077) - [Why are QR Codes with capital letters smaller than QR codes with lower case?](https://shkspr.mobi/blog/2025/02/why-are-qr-codes-with-capital-letters-smaller-than-qr-codes-with-lower-case-letters/)
 * [2025-02-23, 09:54:51](https://news.ycombinator.com/item?id=43148150) - [Living in your programming environment [pdf]](https://www.hpi.uni-potsdam.de/hirschfeld/publications/media/ReinLinckeRamsonMattisHirschfeld_2017_LivingInYourProgrammingEnvironmentTowardsAnEnvironmentForExploratoryAdaptationsOfProductivityTools_AcmDL.pdf)
-* [2025-02-21, 21:26:28](https://news.ycombinator.com/item?id=43133207) - [The Deep Research problem](https://www.ben-evans.com/benedictevans/2025/2/17/the-deep-research-problem)
 
 ## [Archives](archives/index.md)
 
