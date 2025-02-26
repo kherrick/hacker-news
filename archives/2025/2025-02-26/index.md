@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-02-26](index.md)
 
+* [2025-02-26, 18:21:11](https://news.ycombinator.com/item?id=43186433) - [Skopje’s eccentric post office (2021)](https://www.new-east-archive.org/articles/show/12963/concrete-ideas-skopje-central-post-office-modernist-brutalism-demolition-architecture-north-macedonia)
+* [2025-02-26, 18:19:28](https://news.ycombinator.com/item?id=43186413) - [Your camera can take 3D photos. Your screen can display 3D photos.](https://moultano.wordpress.com/2025/02/24/you-should-make-cross-views/)
 * [2025-02-26, 17:45:19](https://news.ycombinator.com/item?id=43186050) - [The Man Who Spent Forty-Two Years at the Beverly Hills Hotel Pool (1993)](https://www.newyorker.com/magazine/1993/02/22/beverly-hills-hotel-paradise-lost)
 * [2025-02-26, 17:19:29](https://news.ycombinator.com/item?id=43185769) - [DARPA Large Bio-Mechanical Space Structures](https://sam.gov/opp/49c9fac62ef249f19cda8b436a095d3b/view)
+* [2025-02-26, 17:17:11](https://news.ycombinator.com/item?id=43185733) - [Rediscovering Quaternions](https://jasonfantl.com/posts/Space-of-3D-Rotations/)
 * [2025-02-26, 16:50:51](https://news.ycombinator.com/item?id=43185446) - [Alexa+, the Next Generation of Alexa](https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence)
 * [2025-02-26, 16:32:46](https://news.ycombinator.com/item?id=43185246) - [Launch HN: Maritime Fusion (YC W25) – Fusion Reactors for Ships](https://news.ycombinator.com/item?id=43185246)
 * [2025-02-26, 16:32:46](https://news.ycombinator.com/item?id=43185246) - [Launch HN: Maritime Fusion (YC W25) – Fusion Reactors for Ships](https://maritimefusion.com/)
