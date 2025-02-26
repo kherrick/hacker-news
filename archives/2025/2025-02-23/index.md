@@ -74,3 +74,4 @@
 * [2025-02-23, 00:54:58](https://news.ycombinator.com/item?id=43145057) - [Digital Services Playbook](https://playbook.usds.gov/)
 * [2025-02-23, 00:37:57](https://news.ycombinator.com/item?id=43144940) - [Penn to reduce graduate admissions, rescind acceptances amid research cuts](https://www.thedp.com/article/2025/02/penn-graduate-student-class-size-cut-trump-funding)
 * [2025-02-23, 00:30:00](https://news.ycombinator.com/item?id=43144895) - [Python's official documentation contains textbook example of insecure code (XSS)](https://seclists.org/fulldisclosure/2025/Feb/15)
+* [2025-02-23, 00:22:39](https://news.ycombinator.com/item?id=43144830) - [A compendium of \"open-source\" licenses](https://github.com/ErikMcClure/bad-licenses)
