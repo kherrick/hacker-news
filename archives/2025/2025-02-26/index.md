@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-02-26](index.md)
 
+* [2025-02-26, 05:08:20](https://news.ycombinator.com/item?id=43180834) - [Y Combinator Supports AI Startup Dehumanizing Factory Workers](https://www.404media.co/optifyeai-ycombinator-startup-ai-factory/)
 * [2025-02-26, 04:21:21](https://news.ycombinator.com/item?id=43180561) - [Oil and Gas Subsidies Are Another Lie Detector Test for the DOGE Bros](https://www.motherjones.com/politics/2025/01/doge-fossil-fuel-subsidies-elon-musk-vivek-ramaswamy/)
+* [2025-02-26, 03:28:54](https://news.ycombinator.com/item?id=43180283) - [Toyota completes phase 1 construction of futuristic city](https://www3.nhk.or.jp/nhkworld/en/news/20250225_B03/)
 * [2025-02-26, 03:01:43](https://news.ycombinator.com/item?id=43180133) - [Y Combinator deletes posts after a startup's demo goes viral](https://techcrunch.com/2025/02/25/y-combinator-deletes-posts-after-a-startups-demo-goes-viral/)
 * [2025-02-26, 03:01:00](https://news.ycombinator.com/item?id=43180130) - [Show HN: Paste a Zillow URL and get a property analysis](https://www.trymasterkey.com/properties/1100-leavenworth-st-a-p-t-4-san-francisco-nob-hill-ca-94109)
 * [2025-02-26, 01:02:24](https://news.ycombinator.com/item?id=43179478) - [DeepSeek Open Sources DeepGEMM: Clean and efficient FP8 GEMM kernels](https://github.com/deepseek-ai/DeepGEMM)
