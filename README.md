@@ -8,7 +8,6 @@
 * [2025-02-25, 22:13:22](https://news.ycombinator.com/item?id=43178225) - [Voker (YC S24) is hiring an LA-based full stack AI software engineer](https://www.linkedin.com/jobs/view/4165715593)
 * [2025-02-25, 20:41:30](https://news.ycombinator.com/item?id=43177117) - [Show HN: MyCoder, an open source Claude-Code alternative](https://github.com/drivecore/mycoder)
 * [2025-02-25, 19:59:41](https://news.ycombinator.com/item?id=43176553) - [Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs [pdf]](https://martins1612.github.io/emergent_misalignment_betley.pdf)
-* [2025-02-25, 19:39:21](https://news.ycombinator.com/item?id=43176314) - [Framework's first desktop is a strange–but unique–mini ITX gaming PC](https://arstechnica.com/gadgets/2025/02/framework-known-for-upgradable-laptops-intros-not-particularly-upgradable-desktop/)
 * [2025-02-25, 18:39:10](https://news.ycombinator.com/item?id=43175628) - [I Went to SQL Injection Court](https://sockpuppet.org/blog/2025/02/09/fixing-illinois-foia/)
 * [2025-02-25, 18:12:31](https://news.ycombinator.com/item?id=43175315) - [The XB-70 (2019)](http://codex99.com/photography/the-xb70.html)
 * [2025-02-25, 17:37:07](https://news.ycombinator.com/item?id=43174910) - [Hard problems that reduce to document ranking](https://noperator.dev/posts/document-ranking-for-complex-problems/)
@@ -28,6 +27,7 @@
 * [2025-02-22, 14:29:32](https://news.ycombinator.com/item?id=43139211) - [Page is under construction: A love letter to the personal website](https://localghost.dev/blog/this-page-is-under-construction/)
 * [2025-02-22, 09:52:26](https://news.ycombinator.com/item?id=43137616) - [If it is worth keeping, save it in Markdown](https://p.migdal.pl/blog/2025/02/markdown-saves/)
 * [2025-02-22, 09:11:22](https://news.ycombinator.com/item?id=43137445) - [Terence Tao – Machine-Assisted Proofs [video]](https://www.youtube.com/watch?v=5ZIIGLiQWNM)
+* [2025-02-21, 23:48:53](https://news.ycombinator.com/item?id=43134563) - [Xonsh – A Python-powered shell](https://xon.sh/)
 * [2025-02-21, 21:26:28](https://news.ycombinator.com/item?id=43133207) - [The Deep Research problem](https://www.ben-evans.com/benedictevans/2025/2/17/the-deep-research-problem)
 * [2025-02-18, 15:49:38](https://news.ycombinator.com/item?id=43090888) - [Tristan Davey's Punch Card Archive](https://punchcards.tristandavey.com/)
 
