@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-26, 16:50:51",
+      "https://news.ycombinator.com/item?id=43185446"
+    ],
+    [
+      "Alexa+, the Next Generation of Alexa",
+      "https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence"
+    ]
+  ],
+  [
+    [
       "2025-02-26, 16:32:46",
       "https://news.ycombinator.com/item?id=43185246"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=43185174"
     ],
     [
-      "A WebAssembly runtime implemented in TypeScript types",
+      "MichiganTypeScript: A WebAssembly runtime implemented in TypeScript types",
       "https://github.com/MichiganTypeScript/typescript-types-only-wasm-runtime"
     ]
   ],
@@ -197,16 +207,6 @@
     [
       "Launch HN: Browser Use (YC W25) – open-source web agents",
       "https://github.com/browser-use/browser-use"
-    ]
-  ],
-  [
-    [
-      "2025-02-25, 12:53:15",
-      "https://news.ycombinator.com/item?id=43171239"
-    ],
-    [
-      "Embedding Python in Elixir, it's fine",
-      "https://dashbit.co/blog/running-python-in-elixir-its-fine"
     ]
   ],
   [
