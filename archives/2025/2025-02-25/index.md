@@ -43,6 +43,7 @@
 * [2025-02-25, 12:50:14](https://news.ycombinator.com/item?id=43171205) - [Signal to leave Sweden if backdoor law passes](https://swedenherald.com/article/signals-ceo-then-were-leaving-sweden)
 * [2025-02-25, 12:27:30](https://news.ycombinator.com/item?id=43171007) - [What do people see when they're tripping? Analyzing Erowid's trip reports](https://themicrodose.substack.com/p/what-do-people-see-when-theyre-tripping)
 * [2025-02-25, 12:27:11](https://news.ycombinator.com/item?id=43171002) - [A Defense of Weird Research](https://asteriskmag.com/issues/09/a-defense-of-weird-research)
+* [2025-02-25, 12:20:51](https://news.ycombinator.com/item?id=43170954) - [Reflections on 25 Years of Blogging](https://interconnected.org/home/2025/02/19/reflections)
 * [2025-02-25, 12:14:51](https://news.ycombinator.com/item?id=43170908) - [Elon Musk spells danger for Accenture, McKinsey and their rivals](https://www.economist.com/business/2025/02/19/elon-musk-spells-danger-for-accenture-mckinsey-and-their-rivals)
 * [2025-02-25, 12:04:00](https://news.ycombinator.com/item?id=43170850) - [Tell HN: Y Combinator backing AI company to abuse factory workers](https://news.ycombinator.com/item?id=43170850)
 * [2025-02-25, 11:50:29](https://news.ycombinator.com/item?id=43170756) - [US court upholds Theranos founder Elizabeth Holmes's conviction](https://www.theguardian.com/technology/2025/feb/24/elizabeth-holmes-theranos-conviction)
