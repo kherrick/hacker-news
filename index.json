@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-26, 18:42:45",
+      "https://news.ycombinator.com/item?id=43186692"
+    ],
+    [
+      "Google is making it even easier to remove your personal information on Search",
+      "https://www.engadget.com/cybersecurity/google-is-making-it-even-easier-to-remove-your-personal-information-on-search-145326075.html"
+    ]
+  ],
+  [
+    [
       "2025-02-26, 18:21:11",
       "https://news.ycombinator.com/item?id=43186433"
     ],
@@ -167,16 +177,6 @@
     [
       "Telescope – an open-source web-based log viewer for logs stored in ClickHouse",
       "https://github.com/iamtelescope/telescope"
-    ]
-  ],
-  [
-    [
-      "2025-02-26, 08:25:46",
-      "https://news.ycombinator.com/item?id=43181847"
-    ],
-    [
-      "A CLI to quickly launch VSCode/cursor devcontainers",
-      "https://github.com/michidk/vscli"
     ]
   ],
   [
