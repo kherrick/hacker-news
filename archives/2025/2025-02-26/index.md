@@ -11,6 +11,7 @@
 * [2025-02-26, 13:14:57](https://news.ycombinator.com/item?id=43183333) - [Exposed GitHub repos, now private, can be accessed through Copilot](https://techcrunch.com/2025/02/26/thousands-of-exposed-github-repos-now-private-can-still-be-accessed-through-copilot/)
 * [2025-02-26, 12:49:43](https://news.ycombinator.com/item?id=43183169) - [Marek has graciously offered to maintain the dma-mapping tree](https://lore.kernel.org/lkml/20250224162724.349679-1-hch@lst.de/)
 * [2025-02-26, 12:03:11](https://news.ycombinator.com/item?id=43182892) - [State of emergency declared after blackout plunges most of Chile into darkness](https://www.cnn.com/2025/02/25/americas/chile-blackout-14-regions-intl-latam/index.html)
+* [2025-02-26, 11:55:26](https://news.ycombinator.com/item?id=43182854) - [The Miserable State of Modems and Mobile Network Operators](https://blog.golioth.io/the-miserable-state-of-modems-and-mobile-network-operators/)
 * [2025-02-26, 10:48:42](https://news.ycombinator.com/item?id=43182578) - [Open-source is where dreams go to die](https://www.trevorlasn.com/blog/open-source-is-where-dreams-go-to-die)
 * [2025-02-26, 10:48:29](https://news.ycombinator.com/item?id=43182576) - [Automattic Hit with Class Action over WP Engine Dispute](https://www.therepository.email/automattic-hit-with-class-action-over-wp-engine-dispute-accused-of-anti-competitive-tactics)
 * [2025-02-26, 09:57:23](https://news.ycombinator.com/item?id=43182325) - [The FFT Strikes Back: An Efficient Alternative to Self-Attention](https://arxiv.org/abs/2502.18394)
