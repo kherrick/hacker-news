@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-26, 04:21:21](https://news.ycombinator.com/item?id=43180561) - [Oil and Gas Subsidies Are Another Lie Detector Test for the DOGE Bros](https://www.motherjones.com/politics/2025/01/doge-fossil-fuel-subsidies-elon-musk-vivek-ramaswamy/)
 * [2025-02-26, 03:01:43](https://news.ycombinator.com/item?id=43180133) - [Y Combinator deletes posts after a startup's demo goes viral](https://techcrunch.com/2025/02/25/y-combinator-deletes-posts-after-a-startups-demo-goes-viral/)
-* [2025-02-26, 01:02:24](https://news.ycombinator.com/item?id=43179478) - [DeepSeek Open Sources DeepGEMM: Clean and efficient FP8 GEMM kernels](https://github.com/deepseek-ai/DeepGEMM)
+* [2025-02-26, 01:02:24](https://news.ycombinator.com/item?id=43179478) - [DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling](https://github.com/deepseek-ai/DeepGEMM)
 * [2025-02-26, 00:23:39](https://news.ycombinator.com/item?id=43179222) - [From Reform to Ruin in the USSR](https://www.cogitations.co/p/from-reform-to-ruin-in-the-ussr)
 * [2025-02-25, 23:24:40](https://news.ycombinator.com/item?id=43178831) - [Material Theme has been pulled from VS Code's marketplace](https://github.com/material-theme/vsc-material-theme/discussions/1313)
 * [2025-02-25, 22:13:22](https://news.ycombinator.com/item?id=43178225) - [Voker (YC S24) is hiring an LA-based full stack AI software engineer](https://www.linkedin.com/jobs/view/4165715593)
@@ -14,6 +13,7 @@
 * [2025-02-25, 18:39:10](https://news.ycombinator.com/item?id=43175628) - [I Went to SQL Injection Court](https://sockpuppet.org/blog/2025/02/09/fixing-illinois-foia/)
 * [2025-02-25, 18:12:31](https://news.ycombinator.com/item?id=43175315) - [The XB-70 (2019)](http://codex99.com/photography/the-xb70.html)
 * [2025-02-25, 17:37:07](https://news.ycombinator.com/item?id=43174910) - [Hard problems that reduce to document ranking](https://noperator.dev/posts/document-ranking-for-complex-problems/)
+* [2025-02-25, 16:56:25](https://news.ycombinator.com/item?id=43174377) - [Show HN: GoatDB – A lightweight, offline-first, realtime NoDB for Deno and React](https://github.com/goatplatform/goatdb)
 * [2025-02-25, 16:15:39](https://news.ycombinator.com/item?id=43173773) - [New maps of the chaotic space-time inside black holes](https://www.quantamagazine.org/new-maps-of-the-bizarre-chaotic-space-time-inside-black-holes-20250224/)
 * [2025-02-25, 15:51:54](https://news.ycombinator.com/item?id=43173462) - [Hyperspace](https://hypercritical.co/2025/02/25/hyperspace)
 * [2025-02-25, 15:45:17](https://news.ycombinator.com/item?id=43173378) - [Launch HN: Browser Use (YC W25) – open-source web agents](https://github.com/browser-use/browser-use)
