@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-26](index.md)
 
+* [2025-02-26, 07:43:21](https://news.ycombinator.com/item?id=43181610) - [Iterated Log Coding](https://adamscherlis.github.io/blog/iterlog-coding/)
 * [2025-02-26, 06:12:31](https://news.ycombinator.com/item?id=43181176) - [BP to slash green investment and ramp up gas and oil](https://www.bbc.com/news/articles/c3374ekd11po)
 * [2025-02-26, 05:11:14](https://news.ycombinator.com/item?id=43180846) - [Y Combinator Supports AI Startup Dehumanizing Factory Workers](https://www.404media.co/optifyeai-ycombinator-startup-ai-factory/)
 * [2025-02-26, 05:08:20](https://news.ycombinator.com/item?id=43180834) - [Y Combinator Supports AI Startup Dehumanizing Factory Workers](https://www.404media.co/optifyeai-ycombinator-startup-ai-factory/)
