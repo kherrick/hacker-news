@@ -40,6 +40,7 @@
 * [2025-02-24, 12:55:57](https://news.ycombinator.com/item?id=43158995) - [Show HN: LLPlayer – a media player with OpenAI Whisper](https://llplayer.com)
 * [2025-02-24, 12:47:07](https://news.ycombinator.com/item?id=43158916) - [Modernist Cuisine: The Art and Science of Cooking](https://modernistcuisine.com/books/modernist-cuisine/)
 * [2025-02-24, 12:27:33](https://news.ycombinator.com/item?id=43158739) - [Microsoft Cancels Leases for AI Data Centers, Analyst Says](https://finance.yahoo.com/news/microsoft-cancels-leases-ai-data-055952585.html)
+* [2025-02-24, 12:19:40](https://news.ycombinator.com/item?id=43158696) - [Understanding Surrogate Pairs: Why Some Windows Filenames Can't Be Read](https://zaferbalkan.com/surrogates/)
 * [2025-02-24, 12:15:58](https://news.ycombinator.com/item?id=43158660) - [i built an app to stop me doomscrolling by literally touching grass](https://touchgrass.now/)
 * [2025-02-24, 12:02:01](https://news.ycombinator.com/item?id=43158562) - [Grok 3 is highly vulnerable to indirect prompt injection](https://simonwillison.net/2025/Feb/23/grok-3-indirect-prompt-injection/)
 * [2025-02-24, 11:58:26](https://news.ycombinator.com/item?id=43158529) - [Our Epidemic of Loneliness and Isolation [pdf]](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf)
