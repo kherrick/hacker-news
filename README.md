@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-26, 14:28:26](https://news.ycombinator.com/item?id=43183891) - [Show HN: A Database Written in Golang](https://github.com/Sahilb315/AtomixDB)
-* [2025-02-26, 13:14:57](https://news.ycombinator.com/item?id=43183333) - [Exposed GitHub repos, now private, can be accessed through Copilot](https://techcrunch.com/2025/02/26/thousands-of-exposed-github-repos-now-private-can-still-be-accessed-through-copilot/)
+* [2025-02-26, 12:42:35](https://news.ycombinator.com/item?id=43183131) - [Show HN: Breakout with a roguelite/vampire survivor twist](https://breakout.lecaro.me/)
 * [2025-02-26, 12:03:11](https://news.ycombinator.com/item?id=43182892) - [State of emergency declared after blackout plunges most of Chile into darkness](https://www.cnn.com/2025/02/25/americas/chile-blackout-14-regions-intl-latam/index.html)
 * [2025-02-26, 11:55:26](https://news.ycombinator.com/item?id=43182854) - [The Miserable State of Modems and Mobile Network Operators](https://blog.golioth.io/the-miserable-state-of-modems-and-mobile-network-operators/)
 * [2025-02-26, 10:48:29](https://news.ycombinator.com/item?id=43182576) - [Automattic Hit with Class Action over WP Engine Dispute](https://www.therepository.email/automattic-hit-with-class-action-over-wp-engine-dispute-accused-of-anti-competitive-tactics)
