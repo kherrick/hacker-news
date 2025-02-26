@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-26, 17:19:29](https://news.ycombinator.com/item?id=43185769) - [DARPA Large Bio-Mechanical Space Structures](https://sam.gov/opp/49c9fac62ef249f19cda8b436a095d3b/view)
 * [2025-02-26, 16:50:51](https://news.ycombinator.com/item?id=43185446) - [Alexa+, the Next Generation of Alexa](https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence)
 * [2025-02-26, 16:32:46](https://news.ycombinator.com/item?id=43185246) - [Launch HN: Maritime Fusion (YC W25) – Fusion Reactors for Ships](https://news.ycombinator.com/item?id=43185246)
 * [2025-02-26, 16:15:17](https://news.ycombinator.com/item?id=43185059) - [Long division verified via Hoare logic](https://www.cofault.com/2025/02/long-story-of-division.html)
@@ -21,7 +22,6 @@
 * [2025-02-25, 17:37:07](https://news.ycombinator.com/item?id=43174910) - [Hard problems that reduce to document ranking](https://noperator.dev/posts/document-ranking-for-complex-problems/)
 * [2025-02-25, 15:51:54](https://news.ycombinator.com/item?id=43173462) - [Hyperspace](https://hypercritical.co/2025/02/25/hyperspace)
 * [2025-02-25, 15:45:17](https://news.ycombinator.com/item?id=43173378) - [Launch HN: Browser Use (YC W25) – open-source web agents](https://github.com/browser-use/browser-use)
-* [2025-02-25, 12:53:15](https://news.ycombinator.com/item?id=43171239) - [Embedding Python in Elixir, it's fine](https://dashbit.co/blog/running-python-in-elixir-its-fine)
 * [2025-02-24, 18:09:19](https://news.ycombinator.com/item?id=43162793) - [Ggwave: Tiny Data-over-Sound Library](https://github.com/ggerganov/ggwave)
 * [2025-02-24, 13:20:17](https://news.ycombinator.com/item?id=43159219) - [The journalists training AI models for Meta and OpenAI](https://www.niemanlab.org/2025/02/meet-the-journalists-training-ai-models-for-meta-and-openai/)
 * [2025-02-23, 23:36:03](https://news.ycombinator.com/item?id=43154295) - [Bald eagles are thriving again after near extinction](https://www.newsweek.com/bald-eagles-back-brink-extinction-2025097)
