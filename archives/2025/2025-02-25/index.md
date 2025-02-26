@@ -25,6 +25,7 @@
 * [2025-02-25, 16:49:16](https://news.ycombinator.com/item?id=43174270) - [Jane Street Open Source](https://opensource.janestreet.com/)
 * [2025-02-25, 16:46:07](https://news.ycombinator.com/item?id=43174221) - [Show HN: My new wiki for Silicon Graphics stuff](https://www.tech-pubs.net/wiki/Main_Page)
 * [2025-02-25, 16:34:07](https://news.ycombinator.com/item?id=43174041) - [Show HN: Tach – Visualize and Untangle Your Python Codebase](https://github.com/gauge-sh/tach)
+* [2025-02-25, 16:19:24](https://news.ycombinator.com/item?id=43173825) - [Claude Plays Pokémon](https://www.twitch.tv/claudeplayspokemon)
 * [2025-02-25, 16:15:39](https://news.ycombinator.com/item?id=43173773) - [New Maps of the Chaotic Space-Time Inside Black Holes](https://www.quantamagazine.org/new-maps-of-the-bizarre-chaotic-space-time-inside-black-holes-20250224/)
 * [2025-02-25, 16:05:01](https://news.ycombinator.com/item?id=43173628) - [ChatGPT Can Be Used as Default Safari Search Engine with New Extension](https://www.macrumors.com/2025/02/24/chatgpt-safari-search-extension/)
 * [2025-02-25, 15:51:54](https://news.ycombinator.com/item?id=43173462) - [Hyperspace](https://hypercritical.co/2025/02/25/hyperspace)

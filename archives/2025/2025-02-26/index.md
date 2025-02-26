@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-26](index.md)
 
 * [2025-02-26, 19:31:25](https://news.ycombinator.com/item?id=43187231) - [Show HN: LLM plays Pokémon (open sourced)](https://github.com/adenta/fire_red_agent)
+* [2025-02-26, 19:29:37](https://news.ycombinator.com/item?id=43187209) - [Replace OCR with Vision Language Models](https://github.com/vlm-run/vlmrun-cookbook/blob/main/notebooks/01_schema_showcase.ipynb)
 * [2025-02-26, 18:52:38](https://news.ycombinator.com/item?id=43186801) - [Microsoft is Getting Rusty [video]](https://www.youtube.com/watch?v=1VgptLwP588)
 * [2025-02-26, 18:52:23](https://news.ycombinator.com/item?id=43186797) - [From Records to Agents: The Overlooked Revolution in Enterprise Software](https://sperand.io/posts/the-future-of-enterprise-software/)
 * [2025-02-26, 18:42:45](https://news.ycombinator.com/item?id=43186692) - [Google is making it even easier to remove your personal information on Search](https://www.engadget.com/cybersecurity/google-is-making-it-even-easier-to-remove-your-personal-information-on-search-145326075.html)
