@@ -45,6 +45,7 @@
 * [2025-02-23, 14:27:18](https://news.ycombinator.com/item?id=43149437) - [Navigating a Broken Dev Culture](https://news.ycombinator.com/item?id=43149437)
 * [2025-02-23, 14:20:35](https://news.ycombinator.com/item?id=43149398) - [Why are Rust Foundation execs paid via foreign entities, not directly? [Page 35] [pdf]](https://rustfoundation.org/wp-content/uploads/2025/01/form-990-2023.pdf)
 * [2025-02-23, 14:00:25](https://news.ycombinator.com/item?id=43149266) - [Vietnamese Graphic Design](https://vietgd.com/)
+* [2025-02-23, 13:56:02](https://news.ycombinator.com/item?id=43149242) - [Ask HN: Who Are Your Favorite Photography and Generative Coding Artists?](https://news.ycombinator.com/item?id=43149242)
 * [2025-02-23, 13:47:11](https://news.ycombinator.com/item?id=43149186) - [See the submissions you have flagged (maybe accidentally)](https://news.ycombinator.com/flagged)
 * [2025-02-23, 13:25:44](https://news.ycombinator.com/item?id=43149077) - [Why are QR Codes with capital letters smaller than QR codes with lower case?](https://shkspr.mobi/blog/2025/02/why-are-qr-codes-with-capital-letters-smaller-than-qr-codes-with-lower-case-letters/)
 * [2025-02-23, 12:52:10](https://news.ycombinator.com/item?id=43148911) - [Countries spend huge sums on fossil fuel subsidies – why they're so hard to end](https://theconversation.com/countries-spend-huge-sums-on-fossil-fuel-subsidies-why-theyre-so-hard-to-eliminate-239346)
