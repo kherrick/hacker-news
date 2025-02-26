@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-26](index.md)
 
+* [2025-02-26, 20:20:39](https://news.ycombinator.com/item?id=43187759) - [Is It Lunacy to Put a Data Center on the Moon?](https://spectrum.ieee.org/data-center-on-the-moon)
 * [2025-02-26, 19:31:25](https://news.ycombinator.com/item?id=43187231) - [Show HN: LLM plays Pokémon (open sourced)](https://github.com/adenta/fire_red_agent)
 * [2025-02-26, 19:29:37](https://news.ycombinator.com/item?id=43187209) - [Replace OCR with Vision Language Models](https://github.com/vlm-run/vlmrun-cookbook/blob/main/notebooks/01_schema_showcase.ipynb)
 * [2025-02-26, 18:52:38](https://news.ycombinator.com/item?id=43186801) - [Microsoft is Getting Rusty [video]](https://www.youtube.com/watch?v=1VgptLwP588)
