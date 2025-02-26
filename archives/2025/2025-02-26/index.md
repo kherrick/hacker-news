@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-26](index.md)
 
+* [2025-02-26, 13:30:54](https://news.ycombinator.com/item?id=43183450) - [Ask HN: Ethical VC Funds?](https://news.ycombinator.com/item?id=43183450)
+* [2025-02-26, 13:28:46](https://news.ycombinator.com/item?id=43183435) - [Apple to fix iPhone dictation bug that replaces word 'racist' with 'Trump'](https://www.newsweek.com/apple-iphone-glitch-racist-trump-error-glitch-fix-maga-2036416)
 * [2025-02-26, 12:49:43](https://news.ycombinator.com/item?id=43183169) - [Marek has graciously offered to maintain the dma-mapping tree](https://lore.kernel.org/lkml/20250224162724.349679-1-hch@lst.de/)
 * [2025-02-26, 12:03:11](https://news.ycombinator.com/item?id=43182892) - [State of emergency declared after blackout plunges most of Chile into darkness](https://www.cnn.com/2025/02/25/americas/chile-blackout-14-regions-intl-latam/index.html)
 * [2025-02-26, 10:48:42](https://news.ycombinator.com/item?id=43182578) - [Open-source is where dreams go to die](https://www.trevorlasn.com/blog/open-source-is-where-dreams-go-to-die)

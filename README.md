@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-26, 13:30:54](https://news.ycombinator.com/item?id=43183450) - [Ask HN: Ethical VC Funds?](https://news.ycombinator.com/item?id=43183450)
+* [2025-02-26, 13:28:46](https://news.ycombinator.com/item?id=43183435) - [Apple to fix iPhone dictation bug that replaces word 'racist' with 'Trump'](https://www.newsweek.com/apple-iphone-glitch-racist-trump-error-glitch-fix-maga-2036416)
 * [2025-02-26, 12:49:43](https://news.ycombinator.com/item?id=43183169) - [Marek has graciously offered to maintain the dma-mapping tree](https://lore.kernel.org/lkml/20250224162724.349679-1-hch@lst.de/)
 * [2025-02-26, 12:03:11](https://news.ycombinator.com/item?id=43182892) - [State of emergency declared after blackout plunges most of Chile into darkness](https://www.cnn.com/2025/02/25/americas/chile-blackout-14-regions-intl-latam/index.html)
 * [2025-02-26, 09:57:23](https://news.ycombinator.com/item?id=43182325) - [The FFT Strikes Back: An Efficient Alternative to Self-Attention](https://arxiv.org/abs/2502.18394)
@@ -15,7 +17,6 @@
 * [2025-02-25, 15:51:54](https://news.ycombinator.com/item?id=43173462) - [Hyperspace](https://hypercritical.co/2025/02/25/hyperspace)
 * [2025-02-25, 15:45:17](https://news.ycombinator.com/item?id=43173378) - [Launch HN: Browser Use (YC W25) – open-source web agents](https://github.com/browser-use/browser-use)
 * [2025-02-25, 12:53:15](https://news.ycombinator.com/item?id=43171239) - [Embedding Python in Elixir, it's fine](https://dashbit.co/blog/running-python-in-elixir-its-fine)
-* [2025-02-25, 11:22:06](https://news.ycombinator.com/item?id=43170545) - [Chicory: A JVM native WebAssembly runtime](https://chicory.dev/)
 * [2025-02-25, 10:24:34](https://news.ycombinator.com/item?id=43170155) - [Evaluating modular RAG with reasoning models](https://www.kapa.ai/blog/evaluating-modular-rag-with-reasoning-models)
 * [2025-02-24, 18:09:19](https://news.ycombinator.com/item?id=43162793) - [Ggwave: Tiny Data-over-Sound Library](https://github.com/ggerganov/ggwave)
 * [2025-02-24, 13:36:51](https://news.ycombinator.com/item?id=43159404) - [A simple way of visualizing Git repository](https://cupprum.github.io/git-render/)
@@ -27,7 +28,6 @@
 * [2025-02-23, 13:25:44](https://news.ycombinator.com/item?id=43149077) - [Why are QR Codes with capital letters smaller than QR codes with lower case?](https://shkspr.mobi/blog/2025/02/why-are-qr-codes-with-capital-letters-smaller-than-qr-codes-with-lower-case-letters/)
 * [2025-02-23, 00:22:39](https://news.ycombinator.com/item?id=43144830) - [A compendium of \"open-source\" licenses](https://github.com/ErikMcClure/bad-licenses)
 * [2025-02-22, 14:29:32](https://news.ycombinator.com/item?id=43139211) - [Page is under construction: A love letter to the personal website](https://localghost.dev/blog/this-page-is-under-construction/)
-* [2025-02-22, 09:52:26](https://news.ycombinator.com/item?id=43137616) - [If it is worth keeping, save it in Markdown](https://p.migdal.pl/blog/2025/02/markdown-saves/)
 * [2025-02-22, 09:11:22](https://news.ycombinator.com/item?id=43137445) - [Terence Tao – Machine-Assisted Proofs [video]](https://www.youtube.com/watch?v=5ZIIGLiQWNM)
 * [2025-02-21, 21:26:28](https://news.ycombinator.com/item?id=43133207) - [The Deep Research problem](https://www.ben-evans.com/benedictevans/2025/2/17/the-deep-research-problem)
 
