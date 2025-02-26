@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-26, 14:05:41](https://news.ycombinator.com/item?id=43183688) - [Apple's Dictation System Transcribes the Word 'Racist' as 'Trump'](https://www.nytimes.com/2025/02/25/technology/iphone-dictation-trump-racist.html)
 * [2025-02-26, 13:47:33](https://news.ycombinator.com/item?id=43183568) - [\"Do you not like money?\"](https://rubenerd.com/do-you-not-like-money/)
+* [2025-02-26, 13:30:54](https://news.ycombinator.com/item?id=43183450) - [Ask HN: Ethical VC Funds?](https://news.ycombinator.com/item?id=43183450)
 * [2025-02-26, 12:03:11](https://news.ycombinator.com/item?id=43182892) - [State of emergency declared after blackout plunges most of Chile into darkness](https://www.cnn.com/2025/02/25/americas/chile-blackout-14-regions-intl-latam/index.html)
 * [2025-02-26, 11:55:26](https://news.ycombinator.com/item?id=43182854) - [The Miserable State of Modems and Mobile Network Operators](https://blog.golioth.io/the-miserable-state-of-modems-and-mobile-network-operators/)
 * [2025-02-26, 10:48:29](https://news.ycombinator.com/item?id=43182576) - [Automattic Hit with Class Action over WP Engine Dispute](https://www.therepository.email/automattic-hit-with-class-action-over-wp-engine-dispute-accused-of-anti-competitive-tactics)
