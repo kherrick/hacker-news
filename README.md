@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-26, 17:19:29](https://news.ycombinator.com/item?id=43185769) - [DARPA Large Bio-Mechanical Space Structures](https://sam.gov/opp/49c9fac62ef249f19cda8b436a095d3b/view)
-* [2025-02-26, 16:50:51](https://news.ycombinator.com/item?id=43185446) - [Alexa+, the Next Generation of Alexa](https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence)
 * [2025-02-26, 16:32:46](https://news.ycombinator.com/item?id=43185246) - [Launch HN: Maritime Fusion (YC W25) – Fusion Reactors for Ships](https://news.ycombinator.com/item?id=43185246)
 * [2025-02-26, 16:15:17](https://news.ycombinator.com/item?id=43185059) - [Long division verified via Hoare logic](https://www.cofault.com/2025/02/long-story-of-division.html)
 * [2025-02-26, 15:58:19](https://news.ycombinator.com/item?id=43184860) - [Bifurcation: The secret giant islands formed when rivers split](https://starkeycomics.com/2021/06/10/bifurcation-the-secret-giant-islands-formed-when-rivers-split/)
+* [2025-02-26, 15:41:44](https://news.ycombinator.com/item?id=43184686) - [ForeverVM: Run AI-generated code in stateful sandboxes that run forever](https://forevervm.com/)
 * [2025-02-26, 15:05:02](https://news.ycombinator.com/item?id=43184291) - [TypeScript types can run DOOM [video]](https://www.youtube.com/watch?v=0mCsluv5FXA)
 * [2025-02-26, 14:28:26](https://news.ycombinator.com/item?id=43183891) - [Show HN: A Database Written in Golang](https://github.com/Sahilb315/AtomixDB)
 * [2025-02-26, 12:42:35](https://news.ycombinator.com/item?id=43183131) - [Show HN: Breakout with a roguelite/vampire survivor twist](https://breakout.lecaro.me/)
@@ -15,7 +15,6 @@
 * [2025-02-26, 08:28:21](https://news.ycombinator.com/item?id=43181862) - [Telescope – an open-source web-based log viewer for logs stored in ClickHouse](https://github.com/iamtelescope/telescope)
 * [2025-02-26, 08:25:46](https://news.ycombinator.com/item?id=43181847) - [A CLI to quickly launch VSCode/cursor devcontainers](https://github.com/michidk/vscli)
 * [2025-02-26, 07:43:21](https://news.ycombinator.com/item?id=43181610) - [Iterated Log Coding](https://adamscherlis.github.io/blog/iterlog-coding/)
-* [2025-02-26, 07:27:50](https://news.ycombinator.com/item?id=43181520) - [A New Proposal for How Mind Emerges from Matter](https://www.noemamag.com/a-radical-new-proposal-for-how-mind-emerges-from-matter/)
 * [2025-02-26, 01:02:24](https://news.ycombinator.com/item?id=43179478) - [DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling](https://github.com/deepseek-ai/DeepGEMM)
 * [2025-02-25, 23:24:40](https://news.ycombinator.com/item?id=43178831) - [Material Theme has been pulled from VS Code's marketplace](https://github.com/material-theme/vsc-material-theme/discussions/1313)
 * [2025-02-25, 18:39:10](https://news.ycombinator.com/item?id=43175628) - [I Went to SQL Injection Court](https://sockpuppet.org/blog/2025/02/09/fixing-illinois-foia/)
@@ -29,6 +28,7 @@
 * [2025-02-23, 15:51:36](https://news.ycombinator.com/item?id=43150120) - [Should We Decouple Technology from Everyday Life?](https://www.thepublicdiscourse.com/2025/01/96846/)
 * [2025-02-23, 13:56:02](https://news.ycombinator.com/item?id=43149242) - [Ask HN: Who Are Your Favorite Photography and Generative Coding Artists?](https://news.ycombinator.com/item?id=43149242)
 * [2025-02-23, 13:25:44](https://news.ycombinator.com/item?id=43149077) - [Why are QR Codes with capital letters smaller than QR codes with lower case?](https://shkspr.mobi/blog/2025/02/why-are-qr-codes-with-capital-letters-smaller-than-qr-codes-with-lower-case-letters/)
+* [2025-02-23, 09:54:51](https://news.ycombinator.com/item?id=43148150) - [Living in your programming environment [pdf]](https://www.hpi.uni-potsdam.de/hirschfeld/publications/media/ReinLinckeRamsonMattisHirschfeld_2017_LivingInYourProgrammingEnvironmentTowardsAnEnvironmentForExploratoryAdaptationsOfProductivityTools_AcmDL.pdf)
 * [2025-02-21, 21:26:28](https://news.ycombinator.com/item?id=43133207) - [The Deep Research problem](https://www.ben-evans.com/benedictevans/2025/2/17/the-deep-research-problem)
 
 ## [Archives](archives/index.md)
