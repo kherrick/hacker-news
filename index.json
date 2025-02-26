@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=43177931"
     ],
     [
-      "EdgeDB is now Gel and Postgres is the Future",
+      "EdgeDB is now Gel and Postgres is the future",
       "https://www.geldata.com/blog/edgedb-is-now-gel-and-postgres-is-the-future"
     ]
   ],
@@ -97,6 +97,16 @@
     [
       "Hard problems that reduce to document ranking",
       "https://noperator.dev/posts/document-ranking-for-complex-problems/"
+    ]
+  ],
+  [
+    [
+      "2025-02-25, 16:56:25",
+      "https://news.ycombinator.com/item?id=43174377"
+    ],
+    [
+      "Show HN: GoatDB – A lightweight, offline-first, realtime NoDB for Deno and React",
+      "https://github.com/goatplatform/goatdb"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Knitting Your Parachute",
       "https://www.macsparky.com/blog/2025/02/knitting-your-parachute/"
-    ]
-  ],
-  [
-    [
-      "2025-02-22, 12:23:56",
-      "https://news.ycombinator.com/item?id=43138368"
-    ],
-    [
-      "How core Git developers configure Git",
-      "https://blog.gitbutler.com/how-git-core-devs-configure-git/"
     ]
   ],
   [
