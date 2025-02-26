@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-26, 21:39:31](https://news.ycombinator.com/item?id=43188537) - [Tom Stevenson on the deciphering of Linear Elamite](https://www.lrb.co.uk/the-paper/v47/n04/tom-stevenson/beyond-mesopotamia)
 * [2025-02-26, 20:20:39](https://news.ycombinator.com/item?id=43187759) - [Put a data center on the moon?](https://spectrum.ieee.org/data-center-on-the-moon)
 * [2025-02-26, 19:31:25](https://news.ycombinator.com/item?id=43187231) - [Show HN: LLM plays Pokémon (open sourced)](https://github.com/adenta/fire_red_agent)
 * [2025-02-26, 19:29:37](https://news.ycombinator.com/item?id=43187209) - [Replace OCR with Vision Language Models](https://github.com/vlm-run/vlmrun-cookbook/blob/main/notebooks/01_schema_showcase.ipynb)
@@ -14,6 +15,7 @@
 * [2025-02-26, 16:32:46](https://news.ycombinator.com/item?id=43185246) - [Launch HN: Maritime Fusion (YC W25) – Fusion Reactors for Ships](https://news.ycombinator.com/item?id=43185246)
 * [2025-02-26, 16:15:17](https://news.ycombinator.com/item?id=43185059) - [Long division verified via Hoare logic](https://www.cofault.com/2025/02/long-story-of-division.html)
 * [2025-02-26, 15:58:19](https://news.ycombinator.com/item?id=43184860) - [Bifurcation: The secret giant islands formed when rivers split](https://starkeycomics.com/2021/06/10/bifurcation-the-secret-giant-islands-formed-when-rivers-split/)
+* [2025-02-26, 15:47:17](https://news.ycombinator.com/item?id=43184762) - [Jeff Bezos exerts more control of Washington Post opinion](https://deadline.com/2025/02/jeff-bezos-washington-post-opinion-1236302292/)
 * [2025-02-26, 15:41:44](https://news.ycombinator.com/item?id=43184686) - [ForeverVM: Run AI-generated code in stateful sandboxes that run forever](https://forevervm.com/)
 * [2025-02-26, 15:05:02](https://news.ycombinator.com/item?id=43184291) - [TypeScript types can run DOOM [video]](https://www.youtube.com/watch?v=0mCsluv5FXA)
 * [2025-02-26, 14:28:26](https://news.ycombinator.com/item?id=43183891) - [Show HN: A Database Written in Golang](https://github.com/Sahilb315/AtomixDB)
@@ -24,10 +26,8 @@
 * [2025-02-26, 01:02:24](https://news.ycombinator.com/item?id=43179478) - [DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling](https://github.com/deepseek-ai/DeepGEMM)
 * [2025-02-25, 18:39:10](https://news.ycombinator.com/item?id=43175628) - [I Went to SQL Injection Court](https://sockpuppet.org/blog/2025/02/09/fixing-illinois-foia/)
 * [2025-02-25, 16:34:07](https://news.ycombinator.com/item?id=43174041) - [Show HN: Tach – Visualize and untangle your Python codebase](https://github.com/gauge-sh/tach)
-* [2025-02-25, 15:51:54](https://news.ycombinator.com/item?id=43173462) - [Hyperspace](https://hypercritical.co/2025/02/25/hyperspace)
 * [2025-02-24, 14:39:28](https://news.ycombinator.com/item?id=43160079) - [Show HN: Instantly Translate Manga – TranslateManga](https://translatemanga.net/en)
 * [2025-02-23, 23:11:13](https://news.ycombinator.com/item?id=43154138) - [Project Scripts](https://paul-samuels.com/blog/2025/02/23/project-scripts/)
-* [2025-02-23, 13:56:02](https://news.ycombinator.com/item?id=43149242) - [Ask HN: Who Are Your Favorite Photography and Generative Coding Artists?](https://news.ycombinator.com/item?id=43149242)
 * [2025-02-23, 09:54:51](https://news.ycombinator.com/item?id=43148150) - [Living in your programming environment [pdf]](https://www.hpi.uni-potsdam.de/hirschfeld/publications/media/ReinLinckeRamsonMattisHirschfeld_2017_LivingInYourProgrammingEnvironmentTowardsAnEnvironmentForExploratoryAdaptationsOfProductivityTools_AcmDL.pdf)
 * [2025-02-23, 05:10:39](https://news.ycombinator.com/item?id=43146758) - [Decompilation of Minecraft: Legacy Console Edition](https://github.com/GRAnimated/MinecraftLCE)
 
