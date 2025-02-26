@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-26](index.md)
 
+* [2025-02-26, 15:58:19](https://news.ycombinator.com/item?id=43184860) - [Bifurcation: The secret giant islands formed when rivers split](https://starkeycomics.com/2021/06/10/bifurcation-the-secret-giant-islands-formed-when-rivers-split/)
 * [2025-02-26, 14:28:26](https://news.ycombinator.com/item?id=43183891) - [Show HN: A Database Written in Golang](https://github.com/Sahilb315/AtomixDB)
 * [2025-02-26, 14:05:41](https://news.ycombinator.com/item?id=43183688) - [Apple's Dictation System Transcribes the Word 'Racist' as 'Trump'](https://www.nytimes.com/2025/02/25/technology/iphone-dictation-trump-racist.html)
 * [2025-02-26, 13:47:33](https://news.ycombinator.com/item?id=43183568) - [\"Do you not like money?\"](https://rubenerd.com/do-you-not-like-money/)
