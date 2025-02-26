@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-26, 08:28:21](https://news.ycombinator.com/item?id=43181862) - [Telescope – an open-source web-based log viewer for logs stored in ClickHouse](https://github.com/iamtelescope/telescope)
+* [2025-02-26, 08:25:46](https://news.ycombinator.com/item?id=43181847) - [A CLI to quickly launch VSCode/cursor devcontainers](https://github.com/michidk/vscli)
 * [2025-02-26, 07:43:21](https://news.ycombinator.com/item?id=43181610) - [Iterated Log Coding](https://adamscherlis.github.io/blog/iterlog-coding/)
 * [2025-02-26, 07:28:15](https://news.ycombinator.com/item?id=43181521) - [Gustatory Wisdom: Bruegel the Elder's Twelve Proverbs (1558)](https://publicdomainreview.org/collection/bruegel-twelve-proverbs/)
 * [2025-02-26, 01:02:24](https://news.ycombinator.com/item?id=43179478) - [DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling](https://github.com/deepseek-ai/DeepGEMM)
@@ -27,7 +28,6 @@
 * [2025-02-22, 14:29:32](https://news.ycombinator.com/item?id=43139211) - [Page is under construction: A love letter to the personal website](https://localghost.dev/blog/this-page-is-under-construction/)
 * [2025-02-22, 09:52:26](https://news.ycombinator.com/item?id=43137616) - [If it is worth keeping, save it in Markdown](https://p.migdal.pl/blog/2025/02/markdown-saves/)
 * [2025-02-22, 09:11:22](https://news.ycombinator.com/item?id=43137445) - [Terence Tao – Machine-Assisted Proofs [video]](https://www.youtube.com/watch?v=5ZIIGLiQWNM)
-* [2025-02-21, 23:48:53](https://news.ycombinator.com/item?id=43134563) - [Xonsh – A Python-powered shell](https://xon.sh/)
 * [2025-02-21, 21:26:28](https://news.ycombinator.com/item?id=43133207) - [The Deep Research problem](https://www.ben-evans.com/benedictevans/2025/2/17/the-deep-research-problem)
 * [2025-02-18, 15:49:38](https://news.ycombinator.com/item?id=43090888) - [Tristan Davey's Punch Card Archive](https://punchcards.tristandavey.com/)
 

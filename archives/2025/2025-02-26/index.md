@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-26](index.md)
 
 * [2025-02-26, 08:28:21](https://news.ycombinator.com/item?id=43181862) - [Telescope – an open-source web-based log viewer for logs stored in ClickHouse](https://github.com/iamtelescope/telescope)
+* [2025-02-26, 08:25:46](https://news.ycombinator.com/item?id=43181847) - [A CLI to quickly launch VSCode/cursor devcontainers](https://github.com/michidk/vscli)
 * [2025-02-26, 07:43:21](https://news.ycombinator.com/item?id=43181610) - [Iterated Log Coding](https://adamscherlis.github.io/blog/iterlog-coding/)
 * [2025-02-26, 07:28:15](https://news.ycombinator.com/item?id=43181521) - [Gustatory Wisdom: Bruegel the Elder's Twelve Proverbs (1558)](https://publicdomainreview.org/collection/bruegel-twelve-proverbs/)
 * [2025-02-26, 06:12:31](https://news.ycombinator.com/item?id=43181176) - [BP to slash green investment and ramp up gas and oil](https://www.bbc.com/news/articles/c3374ekd11po)
