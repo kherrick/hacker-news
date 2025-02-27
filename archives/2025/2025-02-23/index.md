@@ -59,6 +59,7 @@
 * [2025-02-23, 11:55:51](https://news.ycombinator.com/item?id=43148664) - [OpenJKDF2 – A cross-platform reimplementation of JKDF2 in C](https://github.com/shinyquagsire23/OpenJKDF2)
 * [2025-02-23, 11:03:37](https://news.ycombinator.com/item?id=43148438) - [But good sir, what is electricity?](https://lcamtuf.substack.com/p/but-good-sir-what-is-electricity)
 * [2025-02-23, 10:55:47](https://news.ycombinator.com/item?id=43148408) - [Tell HN: Five random IndieWeb blog links on your terminal](https://news.ycombinator.com/item?id=43148408)
+* [2025-02-23, 10:45:54](https://news.ycombinator.com/item?id=43148372) - [Electronic devices used for car thefts set to be banned](https://www.bbc.co.uk/news/articles/c2046qlwzz3o)
 * [2025-02-23, 10:42:09](https://news.ycombinator.com/item?id=43148355) - [A Black Fungus Might Be Healing Chernobyl by Drinking Radiation](https://makerfairerome.eu/en/a-black-fungus-might-be-healing-chernobyl-by-drinking-radiation/)
 * [2025-02-23, 10:19:45](https://news.ycombinator.com/item?id=43148259) - [NASA Downgrades the Risk of 2024 YR4 to Below 1%](https://www.universetoday.com/171047/nasa-downgrades-the-risk-of-2024-yr4-to-below-1/)
 * [2025-02-23, 09:54:51](https://news.ycombinator.com/item?id=43148150) - [Living in your programming environment [pdf]](https://www.hpi.uni-potsdam.de/hirschfeld/publications/media/ReinLinckeRamsonMattisHirschfeld_2017_LivingInYourProgrammingEnvironmentTowardsAnEnvironmentForExploratoryAdaptationsOfProductivityTools_AcmDL.pdf)

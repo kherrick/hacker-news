@@ -8,7 +8,6 @@
 * [2025-02-26, 21:39:31](https://news.ycombinator.com/item?id=43188537) - [Tom Stevenson on the deciphering of Linear Elamite](https://www.lrb.co.uk/the-paper/v47/n04/tom-stevenson/beyond-mesopotamia)
 * [2025-02-26, 19:31:25](https://news.ycombinator.com/item?id=43187231) - [Show HN: LLM plays Pokémon (open sourced)](https://github.com/adenta/fire_red_agent)
 * [2025-02-26, 19:29:37](https://news.ycombinator.com/item?id=43187209) - [Replace OCR with Vision Language Models](https://github.com/vlm-run/vlmrun-cookbook/blob/main/notebooks/01_schema_showcase.ipynb)
-* [2025-02-26, 18:36:51](https://news.ycombinator.com/item?id=43186614) - [The need for memory safety standards](https://security.googleblog.com/2025/02/securing-tomorrows-software-need-for.html)
 * [2025-02-26, 18:19:28](https://news.ycombinator.com/item?id=43186413) - [Cross Views](https://moultano.wordpress.com/2025/02/24/you-should-make-cross-views/)
 * [2025-02-26, 18:19:05](https://news.ycombinator.com/item?id=43186406) - [Show HN: I got laid off from Meta and created a minor hit on Steam](https://news.ycombinator.com/item?id=43186406)
 * [2025-02-26, 17:45:19](https://news.ycombinator.com/item?id=43186050) - [The man who spent forty-two years at the Beverly Hills Hotel pool (1993)](https://www.newyorker.com/magazine/1993/02/22/beverly-hills-hotel-paradise-lost)
@@ -30,6 +29,7 @@
 * [2025-02-24, 11:01:03](https://news.ycombinator.com/item?id=43158139) - [Fortune(6) – Linux Man Page](https://linux.die.net/man/6/fortune)
 * [2025-02-23, 19:00:21](https://news.ycombinator.com/item?id=43152033) - [Show HN: I created a language called AntiLang – breaking all the conventions](https://siruscodes.github.io/AntiLang/)
 * [2025-02-23, 17:28:03](https://news.ycombinator.com/item?id=43151152) - [Gambling on papal conclaves](https://en.wikipedia.org/wiki/Gambling_on_papal_conclaves)
+* [2025-02-23, 10:45:54](https://news.ycombinator.com/item?id=43148372) - [Electronic devices used for car thefts set to be banned](https://www.bbc.co.uk/news/articles/c2046qlwzz3o)
 
 ## [Archives](archives/index.md)
 
