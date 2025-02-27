@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-27, 13:06:40](https://news.ycombinator.com/item?id=43194024) - [Fish 4.0.0](https://github.com/fish-shell/fish-shell/releases/tag/4.0.0)
+* [2025-02-27, 12:33:14](https://news.ycombinator.com/item?id=43193795) - [Local social spending and political dissatisfaction of the economically deprived](https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2025.1516985/full)
 * [2025-02-27, 12:01:37](https://news.ycombinator.com/item?id=43193553) - [Bitmovin (YC S15) Is Hiring Interns in Software Engineering in Austria](https://bitmovin.com/careers/7863755002/)
-* [2025-02-27, 09:48:44](https://news.ycombinator.com/item?id=43192790) - [Andrew Tate and brother leave Romania for US after travel ban lifted](https://www.theguardian.com/news/2025/feb/27/andrew-tate-tristan-romania-us)
 * [2025-02-27, 09:41:23](https://news.ycombinator.com/item?id=43192751) - [RoboPianist: Dexterous Piano Playing with Deep Reinforcement Learning (2023)](https://kzakka.com/robopianist/#demo)
 * [2025-02-27, 02:08:53](https://news.ycombinator.com/item?id=43190533) - [DualPipe: Bidirectional pipeline parallelism algorithm](https://github.com/deepseek-ai/DualPipe)
 * [2025-02-26, 23:54:17](https://news.ycombinator.com/item?id=43189703) - [Geometric Algebra](https://bivector.net/)
@@ -22,7 +23,6 @@
 * [2025-02-26, 09:57:23](https://news.ycombinator.com/item?id=43182325) - [The FFT Strikes Back: An Efficient Alternative to Self-Attention](https://arxiv.org/abs/2502.18394)
 * [2025-02-26, 07:27:50](https://news.ycombinator.com/item?id=43181520) - [A new proposal for how mind emerges from matter](https://www.noemamag.com/a-radical-new-proposal-for-how-mind-emerges-from-matter/)
 * [2025-02-25, 16:34:07](https://news.ycombinator.com/item?id=43174041) - [Show HN: Tach – Visualize and untangle your Python codebase](https://github.com/gauge-sh/tach)
-* [2025-02-25, 10:38:53](https://news.ycombinator.com/item?id=43170242) - [Metasploit – Penetration Testing Framework](https://www.metasploit.com/)
 * [2025-02-25, 07:11:03](https://news.ycombinator.com/item?id=43169091) - [Simulating Time in Square-Root Space](https://eccc.weizmann.ac.il/report/2025/017/)
 * [2025-02-25, 06:26:56](https://news.ycombinator.com/item?id=43168838) - [Winners of the $10k ISBN visualization bounty](https://annas-archive.org/blog/all-isbns-winners.html)
 * [2025-02-24, 13:28:40](https://news.ycombinator.com/item?id=43159314) - [Writing a .NET Garbage Collector in C# – Part 1](https://minidump.net/2025-28-01-writing-a-net-gc-in-c-part-1/)
