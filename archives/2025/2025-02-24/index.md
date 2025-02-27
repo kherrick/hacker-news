@@ -55,6 +55,7 @@
 * [2025-02-24, 11:21:22](https://news.ycombinator.com/item?id=43158262) - [Freelancing: How I found clients, part 1](https://crocspace.substack.com/p/freelancing-how-i-got-clients-part)
 * [2025-02-24, 11:08:43](https://news.ycombinator.com/item?id=43158187) - [Apple will spend more than $500B in the U.S. over the next four years](https://www.apple.com/newsroom/2025/02/apple-will-spend-more-than-500-billion-usd-in-the-us-over-the-next-four-years/)
 * [2025-02-24, 11:05:34](https://news.ycombinator.com/item?id=43158168) - [Apple Says It Will Add 20k Jobs, Spend $500B, Produce AI Servers in US](https://www.bloomberg.com/news/articles/2025-02-24/apple-says-it-will-add-20-000-jobs-spend-500-billion-produce-ai-servers-in-us)
+* [2025-02-24, 11:05:27](https://news.ycombinator.com/item?id=43158166) - [Show HN: Libredesk – Open-source customer support desk. Single binary app](https://github.com/abhinavxd/libredesk)
 * [2025-02-24, 11:05:24](https://news.ycombinator.com/item?id=43158164) - [What's New in Emacs 30.1?](https://www.masteringemacs.org/article/whats-new-in-emacs-301)
 * [2025-02-24, 11:01:03](https://news.ycombinator.com/item?id=43158139) - [Fortune(6) – Linux Man Page](https://linux.die.net/man/6/fortune)
 * [2025-02-24, 10:52:28](https://news.ycombinator.com/item?id=43158097) - [Show HN: RadiaCode – Python Library for RadiaCode-10x Radiation Detectors](https://github.com/cdump/radiacode)
