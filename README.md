@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-27, 03:16:36](https://news.ycombinator.com/item?id=43190946) - [Second US Site Blocking Bill Introduced](https://torrentfreak.com/second-u-s-piracyiblocking-bill-incoming-mpa-google-verizon-meet-to-discuss-250227/)
 * [2025-02-27, 02:08:53](https://news.ycombinator.com/item?id=43190533) - [DualPipe: An innovative bidirectional pipeline parallelism algorithm](https://github.com/deepseek-ai/DualPipe)
 * [2025-02-27, 02:01:41](https://news.ycombinator.com/item?id=43190482) - [DeepSeek Open Source Optimized Parallelism Strategies, 3 repos](https://github.com/deepseek-ai/profile-data)
 * [2025-02-26, 23:54:17](https://news.ycombinator.com/item?id=43189703) - [Geometric Algebra](https://bivector.net/)
@@ -30,6 +29,7 @@
 * [2025-02-25, 06:17:12](https://news.ycombinator.com/item?id=43168781) - [The Efficiency of Vim](https://bencornia.com/blog/the-efficiency-of-vim)
 * [2025-02-24, 13:28:40](https://news.ycombinator.com/item?id=43159314) - [Writing a .NET Garbage Collector in C# – Part 1](https://minidump.net/2025-28-01-writing-a-net-gc-in-c-part-1/)
 * [2025-02-23, 19:00:21](https://news.ycombinator.com/item?id=43152033) - [Show HN: I created a language called AntiLang – breaking all the conventions](https://siruscodes.github.io/AntiLang/)
+* [2025-02-23, 17:28:03](https://news.ycombinator.com/item?id=43151152) - [Gambling on Papal Conclaves](https://en.wikipedia.org/wiki/Gambling_on_papal_conclaves)
 
 ## [Archives](archives/index.md)
 
