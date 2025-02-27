@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-27](index.md)
 
+* [2025-02-27, 20:39:29](https://news.ycombinator.com/item?id=43198245) - [Show HN: Wireless Video Streaming on POV Bike Display](https://www.youtube.com/watch?v=o8n-bu2kKnc)
 * [2025-02-27, 20:01:16](https://news.ycombinator.com/item?id=43197872) - [GPT-4.5](https://openai.com/index/introducing-gpt-4-5/)
 * [2025-02-27, 19:20:19](https://news.ycombinator.com/item?id=43197514) - [The False Summit – When 90% done becomes 50%](https://jeremyaboyd.com/post/the-false-summit)
 * [2025-02-27, 18:52:01](https://news.ycombinator.com/item?id=43197234) - [What Can Be Computed? A Practical Guide to the Theory of Computation [pdf]](https://www.softouch.on.ca/kb/data/What%20Can%20Be%20Computed.pdf)
