@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-02-27, 15:55:21",
+      "https://news.ycombinator.com/item?id=43195525"
+    ],
+    [
+      "$100 Muon Detector Lets You Harness the Cosmos",
+      "https://spectrum.ieee.org/diy-muon-tomography"
+    ]
+  ],
+  [
+    [
+      "2025-02-27, 15:54:36",
+      "https://news.ycombinator.com/item?id=43195516"
+    ],
+    [
+      "Solitaire",
+      "https://localthunk.com/blog/solitaire"
+    ]
+  ],
+  [
+    [
+      "2025-02-27, 15:50:38",
+      "https://news.ycombinator.com/item?id=43195469"
+    ],
+    [
+      "Instagram 'Error' Turned Reels into Scroll of Murder, Gore, and Violence",
+      "https://www.404media.co/instagram-error-turned-reels-into-neverending-scroll-of-murder-gore-and-violence/"
+    ]
+  ],
+  [
+    [
       "2025-02-27, 15:34:34",
       "https://news.ycombinator.com/item?id=43195308"
     ],
@@ -15,7 +45,7 @@
       "https://news.ycombinator.com/item?id=43194971"
     ],
     [
-      "Probly: Spreadsheets and Python and AI, right in the browser",
+      "Show HN: Probly – Spreadsheets, Python, and AI in the browser",
       "https://github.com/PragmaticMachineLearning/probly"
     ]
   ],
@@ -35,8 +65,18 @@
       "https://news.ycombinator.com/item?id=43194434"
     ],
     [
-      "Can photons reach back in time?",
+      "Time Warp: Delayed-choice quantum erasure",
       "https://drgblackwell.substack.com/p/time-warp-delayed-choice-quantum"
+    ]
+  ],
+  [
+    [
+      "2025-02-27, 12:23:41",
+      "https://news.ycombinator.com/item?id=43193714"
+    ],
+    [
+      "\"Thanked more often than God at the Oscars\"",
+      "https://stephenfollows.com/p/harvey-weinstein-thanked-more-than-god"
     ]
   ],
   [
@@ -57,16 +97,6 @@
     [
       "RoboPianist: Dexterous Piano Playing with Deep Reinforcement Learning (2023)",
       "https://kzakka.com/robopianist/#demo"
-    ]
-  ],
-  [
-    [
-      "2025-02-27, 08:46:54",
-      "https://news.ycombinator.com/item?id=43192500"
-    ],
-    [
-      "Gene Hackman has died",
-      "https://www.nytimes.com/2025/02/27/obituaries/gene-hackman-dead.html"
     ]
   ],
   [
@@ -101,32 +131,12 @@
   ],
   [
     [
-      "2025-02-26, 21:39:31",
-      "https://news.ycombinator.com/item?id=43188537"
-    ],
-    [
-      "Tom Stevenson on the deciphering of Linear Elamite",
-      "https://www.lrb.co.uk/the-paper/v47/n04/tom-stevenson/beyond-mesopotamia"
-    ]
-  ],
-  [
-    [
       "2025-02-26, 19:29:37",
       "https://news.ycombinator.com/item?id=43187209"
     ],
     [
       "Replace OCR with Vision Language Models",
       "https://github.com/vlm-run/vlmrun-cookbook/blob/main/notebooks/01_schema_showcase.ipynb"
-    ]
-  ],
-  [
-    [
-      "2025-02-26, 18:19:28",
-      "https://news.ycombinator.com/item?id=43186413"
-    ],
-    [
-      "Cross Views",
-      "https://moultano.wordpress.com/2025/02/24/you-should-make-cross-views/"
     ]
   ],
   [
@@ -271,12 +281,12 @@
   ],
   [
     [
-      "2025-02-24, 07:16:34",
-      "https://news.ycombinator.com/item?id=43156662"
+      "2025-02-23, 21:20:40",
+      "https://news.ycombinator.com/item?id=43153324"
     ],
     [
-      "How to add a directory to your PATH",
-      "https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/"
+      "MathB.in Is Shutting Down",
+      "https://susam.net/mathbin-is-shutting-down.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "After Moss Landing Power Plant reignites, officials brace for more flare-ups",
       "https://www.sfgate.com/bayarea/article/moss-landing-fire-reignites-20176063.php"
-    ]
-  ],
-  [
-    [
-      "2025-02-23, 15:24:43",
-      "https://news.ycombinator.com/item?id=43149891"
-    ],
-    [
-      "Flawed Diamonds Make Perfect Quantum Sensors",
-      "https://spectrum.ieee.org/quantum-sensors-2671182149"
     ]
   ]
 ]
