@@ -1,22 +1,22 @@
 [
   [
     [
-      "2025-02-27, 21:13:42",
-      "https://news.ycombinator.com/item?id=43198572"
-    ],
-    [
-      "OpenCloud 1.0",
-      "https://opencloud.eu/en/news/opencloud-now-available-new-open-source-alternative-microsoft-sharepoint"
-    ]
-  ],
-  [
-    [
       "2025-02-27, 21:00:33",
       "https://news.ycombinator.com/item?id=43198457"
     ],
     [
       "Kastle (YC S24) Is Hiring – AI for Loan Servicing",
       "https://www.ycombinator.com/companies/kastle/jobs/ItDVKB7-founding-backend-engineer-at-kastle-s24"
+    ]
+  ],
+  [
+    [
+      "2025-02-27, 20:51:23",
+      "https://news.ycombinator.com/item?id=43198379"
+    ],
+    [
+      "Nvidia emulation journey, part 1: RIVA 128/NV3 architecture history and overview",
+      "https://86box.net/2025/02/25/riva128-part-1.html"
     ]
   ],
   [
@@ -77,16 +77,6 @@
     [
       "Show HN: Wampy, interface addon for Linux-based Walkmans",
       "https://github.com/unknown321/wampy"
-    ]
-  ],
-  [
-    [
-      "2025-02-27, 17:57:17",
-      "https://news.ycombinator.com/item?id=43196710"
-    ],
-    [
-      "Show HN: Ranked Search for Semi-Structured Data",
-      "https://demo.tryvoker.com"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The Yin and Yang of Programming",
       "https://billwadge.com/2025/02/22/the-yin-and-yang-of-programming/"
+    ]
+  ],
+  [
+    [
+      "2025-02-24, 11:05:27",
+      "https://news.ycombinator.com/item?id=43158166"
+    ],
+    [
+      "Show HN: Libredesk – Open-source customer support desk. Single binary app",
+      "https://github.com/abhinavxd/libredesk"
     ]
   ]
 ]
