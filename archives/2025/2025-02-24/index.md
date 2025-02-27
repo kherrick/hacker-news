@@ -38,6 +38,7 @@
 * [2025-02-24, 13:51:05](https://news.ycombinator.com/item?id=43159544) - ['Impossible-to-Hack' Security Turns Out to Be No Security at All](https://jltee.substack.com/p/new-zealand-companys-impossible-to-hack-security)
 * [2025-02-24, 13:36:51](https://news.ycombinator.com/item?id=43159404) - [A simple way of visualizing Git repository](https://cupprum.github.io/git-render/)
 * [2025-02-24, 13:28:40](https://news.ycombinator.com/item?id=43159314) - [Writing a .NET Garbage Collector in C# – Part 1](https://minidump.net/2025-28-01-writing-a-net-gc-in-c-part-1/)
+* [2025-02-24, 13:24:49](https://news.ycombinator.com/item?id=43159270) - [Practical Foundations of Mathematics](https://www.paultaylor.eu/prafm/html/index.html)
 * [2025-02-24, 13:20:43](https://news.ycombinator.com/item?id=43159222) - [I recreated Shazam's algorithm with Go [video]](https://www.youtube.com/watch?v=a0CVCcb0RJM)
 * [2025-02-24, 13:20:17](https://news.ycombinator.com/item?id=43159219) - [The journalists training AI models for Meta and OpenAI](https://www.niemanlab.org/2025/02/meet-the-journalists-training-ai-models-for-meta-and-openai/)
 * [2025-02-24, 13:04:18](https://news.ycombinator.com/item?id=43159072) - [Apple to Build A.I. Servers in Houston and Spend $500B in U.S.](https://www.nytimes.com/2025/02/24/business/apple-tariffs-jobs-investment.html)
