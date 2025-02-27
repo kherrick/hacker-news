@@ -41,6 +41,7 @@
 * [2025-02-24, 13:24:49](https://news.ycombinator.com/item?id=43159270) - [Practical Foundations of Mathematics](https://www.paultaylor.eu/prafm/html/index.html)
 * [2025-02-24, 13:20:43](https://news.ycombinator.com/item?id=43159222) - [I recreated Shazam's algorithm with Go [video]](https://www.youtube.com/watch?v=a0CVCcb0RJM)
 * [2025-02-24, 13:20:17](https://news.ycombinator.com/item?id=43159219) - [The journalists training AI models for Meta and OpenAI](https://www.niemanlab.org/2025/02/meet-the-journalists-training-ai-models-for-meta-and-openai/)
+* [2025-02-24, 13:10:26](https://news.ycombinator.com/item?id=43159128) - [Show HN: Orra – The missing glue layer for production-ready multi-agent apps](https://github.com/orra-dev/orra)
 * [2025-02-24, 13:04:18](https://news.ycombinator.com/item?id=43159072) - [Apple to Build A.I. Servers in Houston and Spend $500B in U.S.](https://www.nytimes.com/2025/02/24/business/apple-tariffs-jobs-investment.html)
 * [2025-02-24, 12:55:57](https://news.ycombinator.com/item?id=43158995) - [Show HN: LLPlayer – a media player with OpenAI Whisper](https://llplayer.com)
 * [2025-02-24, 12:47:07](https://news.ycombinator.com/item?id=43158916) - [Modernist Cuisine: The Art and Science of Cooking](https://modernistcuisine.com/books/modernist-cuisine/)
