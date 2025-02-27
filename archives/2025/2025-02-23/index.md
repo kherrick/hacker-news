@@ -41,6 +41,7 @@
 * [2025-02-23, 15:48:19](https://news.ycombinator.com/item?id=43150085) - [It is no longer safe to move our governments and societies to US clouds](https://berthub.eu/articles/posts/you-can-no-longer-base-your-government-and-society-on-us-clouds/)
 * [2025-02-23, 15:28:49](https://news.ycombinator.com/item?id=43149928) - [In war against DEI in science, researchers see collateral damage](https://arstechnica.com/science/2025/02/in-war-against-dei-in-science-researchers-see-collateral-damage/)
 * [2025-02-23, 15:25:35](https://news.ycombinator.com/item?id=43149899) - [Show HN: Dropbud – A place to upload files without uploading](https://dropbud.co/space)
+* [2025-02-23, 15:24:43](https://news.ycombinator.com/item?id=43149891) - [Flawed Diamonds Make Perfect Quantum Sensors](https://spectrum.ieee.org/quantum-sensors-2671182149)
 * [2025-02-23, 15:24:02](https://news.ycombinator.com/item?id=43149883) - [Making any integer with four 2s](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)
 * [2025-02-23, 15:16:41](https://news.ycombinator.com/item?id=43149833) - [Chipzilla Devours the Desktop](https://www.abortretry.fail/p/chipzilla-devours-the-desktop)
 * [2025-02-23, 15:02:42](https://news.ycombinator.com/item?id=43149736) - ['Everybody is looking at their phones,' says man freed after 30 years in prison](https://news.sky.com/story/everybody-is-looking-at-their-phones-says-man-freed-after-30-years-in-prison-13315407)

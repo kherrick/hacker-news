@@ -29,7 +29,7 @@
 * [2025-02-24, 11:05:27](https://news.ycombinator.com/item?id=43158166) - [Show HN: Libredesk – Open-source customer support desk. Single binary app](https://github.com/abhinavxd/libredesk)
 * [2025-02-23, 22:08:55](https://news.ycombinator.com/item?id=43153681) - [Chartist: Task-Driven Eye Movement Control for Chart Reading](https://arxiv.org/abs/2502.03575)
 * [2025-02-23, 19:00:21](https://news.ycombinator.com/item?id=43152033) - [Show HN: I created a language called AntiLang – breaking all the conventions](https://siruscodes.github.io/AntiLang/)
-* [2025-02-23, 17:28:03](https://news.ycombinator.com/item?id=43151152) - [Gambling on papal conclaves](https://en.wikipedia.org/wiki/Gambling_on_papal_conclaves)
+* [2025-02-23, 15:24:43](https://news.ycombinator.com/item?id=43149891) - [Flawed Diamonds Make Perfect Quantum Sensors](https://spectrum.ieee.org/quantum-sensors-2671182149)
 
 ## [Archives](archives/index.md)
 
