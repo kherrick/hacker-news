@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-02-27](index.md)
 
+* [2025-02-27, 22:52:17](https://news.ycombinator.com/item?id=43199460) - [Some Command & Conquer games are now open source](https://github.com/electronicarts)
 * [2025-02-27, 22:41:40](https://news.ycombinator.com/item?id=43199362) - [Carlos Slim cancels his collaboration with Elon Musk's Starlink](https://mexicodailypost.com/2025/02/24/carlos-slim-orders-to-cancel-his-collaboration-with-elon-musks-starlink/)
+* [2025-02-27, 22:36:15](https://news.ycombinator.com/item?id=43199314) - [Tell HN: Substack Is Spamming](https://news.ycombinator.com/item?id=43199314)
 * [2025-02-27, 22:28:49](https://news.ycombinator.com/item?id=43199256) - [IBM Completes Acquisition of HashiCorp](https://newsroom.ibm.com/2025-02-27-ibm-completes-acquisition-of-hashicorp,-creates-comprehensive,-end-to-end-hybrid-cloud-platform)
 * [2025-02-27, 22:24:22](https://news.ycombinator.com/item?id=43199210) - [World-first experimental cancer treatment paves way for clinical trial](https://www.wehi.edu.au/news/world-first-experimental-cancer-treatment-paves-way-for-clinical-trial/)
 * [2025-02-27, 21:13:42](https://news.ycombinator.com/item?id=43198572) - [OpenCloud 1.0](https://opencloud.eu/en/news/opencloud-now-available-new-open-source-alternative-microsoft-sharepoint)

@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-27, 22:52:17](https://news.ycombinator.com/item?id=43199460) - [Some Command & Conquer games are now open source](https://github.com/electronicarts)
 * [2025-02-27, 22:41:40](https://news.ycombinator.com/item?id=43199362) - [Carlos Slim cancels his collaboration with Elon Musk's Starlink](https://mexicodailypost.com/2025/02/24/carlos-slim-orders-to-cancel-his-collaboration-with-elon-musks-starlink/)
+* [2025-02-27, 22:36:15](https://news.ycombinator.com/item?id=43199314) - [Tell HN: Substack Is Spamming](https://news.ycombinator.com/item?id=43199314)
 * [2025-02-27, 22:28:49](https://news.ycombinator.com/item?id=43199256) - [IBM Completes Acquisition of HashiCorp](https://newsroom.ibm.com/2025-02-27-ibm-completes-acquisition-of-hashicorp,-creates-comprehensive,-end-to-end-hybrid-cloud-platform)
 * [2025-02-27, 22:24:22](https://news.ycombinator.com/item?id=43199210) - [World-first experimental cancer treatment paves way for clinical trial](https://www.wehi.edu.au/news/world-first-experimental-cancer-treatment-paves-way-for-clinical-trial/)
-* [2025-02-27, 21:13:42](https://news.ycombinator.com/item?id=43198572) - [OpenCloud 1.0](https://opencloud.eu/en/news/opencloud-now-available-new-open-source-alternative-microsoft-sharepoint)
 * [2025-02-27, 21:07:57](https://news.ycombinator.com/item?id=43198520) - [Postgres as a Graph Database: (Ab)Using PgRouting](https://supabase.com/blog/pgrouting-postgres-graph-database)
 * [2025-02-27, 21:00:33](https://news.ycombinator.com/item?id=43198457) - [Kastle (YC S24) Is Hiring – AI for Loan Servicing](https://www.ycombinator.com/companies/kastle/jobs/ItDVKB7-founding-backend-engineer-at-kastle-s24)
 * [2025-02-27, 20:51:23](https://news.ycombinator.com/item?id=43198379) - [Nvidia emulation journey, part 1: RIVA 128/NV3 architecture history and overview](https://86box.net/2025/02/25/riva128-part-1.html)
@@ -14,7 +15,6 @@
 * [2025-02-27, 18:38:47](https://news.ycombinator.com/item?id=43197100) - [Show HN: Compiler Playground for energy-efficient embedded dataflow processor](https://www.efficient.computer/resources/effcc-compiler-playground-launch)
 * [2025-02-27, 18:07:35](https://news.ycombinator.com/item?id=43196812) - [Show HN: Wampy, interface addon for Linux-based Walkmans](https://github.com/unknown321/wampy)
 * [2025-02-27, 17:30:51](https://news.ycombinator.com/item?id=43196474) - [Launch HN: Bild AI (YC W25) – Understand Construction Blueprints Using AI](https://news.ycombinator.com/item?id=43196474)
-* [2025-02-27, 17:26:21](https://news.ycombinator.com/item?id=43196436) - [Goodbye K-9 Mail](https://cketti.de/2025/02/26/goodbye-k9mail/)
 * [2025-02-27, 17:20:22](https://news.ycombinator.com/item?id=43196374) - [Show HN: Superglue – open source API connector that writes its own code](https://github.com/superglue-ai/superglue)
 * [2025-02-27, 17:03:39](https://news.ycombinator.com/item?id=43196207) - [Turning a Bluetooth device into an Apple AirTag without root privileges](https://nroottag.github.io/)
 * [2025-02-27, 16:14:45](https://news.ycombinator.com/item?id=43195724) - [Muon's magnetic moment exposes a hole in the Standard Model, unless it doesn't](https://physicsworld.com/a/the-muons-magnetic-moment-exposes-a-huge-hole-in-the-standard-model-unless-it-doesnt/)
@@ -22,7 +22,6 @@
 * [2025-02-27, 15:55:21](https://news.ycombinator.com/item?id=43195525) - [A $100 DIY muon tomographer](https://spectrum.ieee.org/diy-muon-tomography)
 * [2025-02-27, 15:54:36](https://news.ycombinator.com/item?id=43195516) - [Solitaire](https://localthunk.com/blog/solitaire)
 * [2025-02-27, 15:02:39](https://news.ycombinator.com/item?id=43194971) - [Show HN: Probly – Spreadsheets, Python, and AI in the browser](https://github.com/PragmaticMachineLearning/probly)
-* [2025-02-27, 14:00:21](https://news.ycombinator.com/item?id=43194434) - [Time Warp: Delayed-choice quantum erasure](https://drgblackwell.substack.com/p/time-warp-delayed-choice-quantum)
 * [2025-02-27, 12:23:41](https://news.ycombinator.com/item?id=43193714) - [A data analysis of speeches at the Oscars](https://stephenfollows.com/p/harvey-weinstein-thanked-more-than-god)
 * [2025-02-25, 11:42:02](https://news.ycombinator.com/item?id=43170701) - [Theoi Greek Mythology](https://www.theoi.com/)
 * [2025-02-25, 10:16:14](https://news.ycombinator.com/item?id=43170108) - [Upside Down Air Force](https://www.frontiernet.net/%7Eatlasf/A56UDAF.htm)
@@ -30,6 +29,7 @@
 * [2025-02-25, 06:26:56](https://news.ycombinator.com/item?id=43168838) - [Winners of the $10k ISBN visualization bounty](https://annas-archive.org/blog/all-isbns-winners.html)
 * [2025-02-25, 05:33:21](https://news.ycombinator.com/item?id=43168533) - [There isn't much point to HTTP/2 past the load balancer](https://byroot.github.io/ruby/performance/2025/02/24/http2-past-the-load-balancer.html)
 * [2025-02-24, 15:31:11](https://news.ycombinator.com/item?id=43160668) - [The Yin and Yang of Programming](https://billwadge.com/2025/02/22/the-yin-and-yang-of-programming/)
+* [2025-02-24, 15:24:19](https://news.ycombinator.com/item?id=43160582) - [Type 1 diabetes reversed by new cell transplantation technique](https://newatlas.com/diabetes/islet-transplantation-type-1-diabetes/)
 
 ## [Archives](archives/index.md)
 
