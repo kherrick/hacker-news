@@ -25,18 +25,8 @@
       "https://news.ycombinator.com/item?id=43190533"
     ],
     [
-      "DualPipe: An innovative bidirectional pipeline parallelism algorithm",
+      "DualPipe: Bidirectional pipeline parallelism algorithm",
       "https://github.com/deepseek-ai/DualPipe"
-    ]
-  ],
-  [
-    [
-      "2025-02-27, 02:01:41",
-      "https://news.ycombinator.com/item?id=43190482"
-    ],
-    [
-      "DeepSeek Open Source Optimized Parallelism Strategies, 3 repos",
-      "https://github.com/deepseek-ai/profile-data"
     ]
   ],
   [
@@ -177,6 +167,16 @@
     [
       "ForeverVM: Run AI-generated code in stateful sandboxes that run forever",
       "https://forevervm.com/"
+    ]
+  ],
+  [
+    [
+      "2025-02-26, 15:10:52",
+      "https://news.ycombinator.com/item?id=43184362"
+    ],
+    [
+      "Show HN: Emdash – Slack/Zoom alternative for distributed team collaboration",
+      "https://emdash.io/"
     ]
   ],
   [
