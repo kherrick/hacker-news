@@ -29,7 +29,7 @@
 * [2025-02-25, 05:59:29](https://news.ycombinator.com/item?id=43168679) - [$30 Thrift Store Find a $223,000 Jet Engine Valve](https://www.avweb.com/aviation-news/30-thrift-store-find-actually-a-223000-jet-engine-valve/)
 * [2025-02-25, 05:33:21](https://news.ycombinator.com/item?id=43168533) - [There isn't much point to HTTP/2 past the load balancer](https://byroot.github.io/ruby/performance/2025/02/24/http2-past-the-load-balancer.html)
 * [2025-02-24, 15:31:11](https://news.ycombinator.com/item?id=43160668) - [The Yin and Yang of Programming](https://billwadge.com/2025/02/22/the-yin-and-yang-of-programming/)
-* [2025-02-24, 11:09:52](https://news.ycombinator.com/item?id=43158194) - [Every line is a potential bug (2009)](https://www.teamten.com/lawrence/writings/every_line_is_a_potential_bug.html)
+* [2025-02-24, 11:05:27](https://news.ycombinator.com/item?id=43158166) - [Show HN: Libredesk – Open-source customer support desk. Single binary app](https://github.com/abhinavxd/libredesk)
 
 ## [Archives](archives/index.md)
 
