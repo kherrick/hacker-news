@@ -7,7 +7,7 @@
 * [2025-02-27, 18:38:47](https://news.ycombinator.com/item?id=43197100) - [Show HN: Compiler Playground for energy-efficient embedded dataflow processor](https://www.efficient.computer/resources/effcc-compiler-playground-launch)
 * [2025-02-27, 18:07:35](https://news.ycombinator.com/item?id=43196812) - [Show HN: Wampy, interface addon for Linux-based Walkmans](https://github.com/unknown321/wampy)
 * [2025-02-27, 17:57:17](https://news.ycombinator.com/item?id=43196710) - [Show HN: Ranked Search for Semi-Structured Data](https://demo.tryvoker.com)
-* [2025-02-27, 17:30:51](https://news.ycombinator.com/item?id=43196474) - [Launch HN: Bild AI (YC W25) – Understands Construction Blueprints Using AI](https://news.ycombinator.com/item?id=43196474)
+* [2025-02-27, 17:30:51](https://news.ycombinator.com/item?id=43196474) - [Launch HN: Bild AI (YC W25) – Understand Construction Blueprints Using AI](https://news.ycombinator.com/item?id=43196474)
 * [2025-02-27, 17:26:21](https://news.ycombinator.com/item?id=43196436) - [Goodbye K-9 Mail](https://cketti.de/2025/02/26/goodbye-k9mail/)
 * [2025-02-27, 17:20:22](https://news.ycombinator.com/item?id=43196374) - [Show HN: Superglue – open source API connector that writes its own code](https://github.com/superglue-ai/superglue)
 * [2025-02-27, 17:03:39](https://news.ycombinator.com/item?id=43196207) - [Turning a Bluetooth device into an Apple AirTag without root privileges](https://nroottag.github.io/)
