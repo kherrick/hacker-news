@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-27](index.md)
 
+* [2025-02-27, 08:18:11](https://news.ycombinator.com/item?id=43192358) - [US examining whether UK's encryption demand on Apple broke data treaty](https://www.reuters.com/technology/us-examining-whether-uks-encryption-demand-apple-broke-data-treaty-2025-02-26/)
 * [2025-02-27, 07:12:22](https://news.ycombinator.com/item?id=43192079) - [Teslas monitor everything – including you [video] from WIRED](https://www.youtube.com/watch?v=l7VHsDODU7E)
 * [2025-02-27, 05:25:44](https://news.ycombinator.com/item?id=43191612) - [A Comprehensive Formal Security Analysis of OAuth 2.0](https://arxiv.org/abs/1601.01229)
 * [2025-02-27, 04:01:17](https://news.ycombinator.com/item?id=43191213) - [Calling Rust from Cursed Go](https://pthorpe92.dev/cursed-go/)

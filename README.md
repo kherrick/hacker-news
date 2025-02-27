@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-27, 08:18:11](https://news.ycombinator.com/item?id=43192358) - [US examining whether UK's encryption demand on Apple broke data treaty](https://www.reuters.com/technology/us-examining-whether-uks-encryption-demand-apple-broke-data-treaty-2025-02-26/)
 * [2025-02-27, 07:12:22](https://news.ycombinator.com/item?id=43192079) - [Teslas monitor everything – including you [video] from WIRED](https://www.youtube.com/watch?v=l7VHsDODU7E)
 * [2025-02-27, 05:25:44](https://news.ycombinator.com/item?id=43191612) - [A Comprehensive Formal Security Analysis of OAuth 2.0](https://arxiv.org/abs/1601.01229)
 * [2025-02-27, 02:08:53](https://news.ycombinator.com/item?id=43190533) - [DualPipe: Bidirectional pipeline parallelism algorithm](https://github.com/deepseek-ai/DualPipe)
@@ -26,7 +27,6 @@
 * [2025-02-25, 06:26:56](https://news.ycombinator.com/item?id=43168838) - [Winners of the $10k ISBN visualization bounty](https://annas-archive.org/blog/all-isbns-winners.html)
 * [2025-02-24, 13:28:40](https://news.ycombinator.com/item?id=43159314) - [Writing a .NET Garbage Collector in C# – Part 1](https://minidump.net/2025-28-01-writing-a-net-gc-in-c-part-1/)
 * [2025-02-24, 11:05:27](https://news.ycombinator.com/item?id=43158166) - [Show HN: Libredesk – Open-source customer support desk. Single binary app](https://github.com/abhinavxd/libredesk)
-* [2025-02-24, 11:01:03](https://news.ycombinator.com/item?id=43158139) - [Fortune(6) – Linux Man Page](https://linux.die.net/man/6/fortune)
 * [2025-02-23, 22:08:55](https://news.ycombinator.com/item?id=43153681) - [Chartist: Task-Driven Eye Movement Control for Chart Reading](https://arxiv.org/abs/2502.03575)
 * [2025-02-23, 19:00:21](https://news.ycombinator.com/item?id=43152033) - [Show HN: I created a language called AntiLang – breaking all the conventions](https://siruscodes.github.io/AntiLang/)
 * [2025-02-23, 17:28:03](https://news.ycombinator.com/item?id=43151152) - [Gambling on papal conclaves](https://en.wikipedia.org/wiki/Gambling_on_papal_conclaves)
