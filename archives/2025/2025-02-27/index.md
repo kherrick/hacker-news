@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-27](index.md)
 
+* [2025-02-27, 19:20:19](https://news.ycombinator.com/item?id=43197514) - [The False Summit – When 90% done becomes 50%](https://jeremyaboyd.com/post/the-false-summit)
 * [2025-02-27, 18:42:01](https://news.ycombinator.com/item?id=43197131) - [EA Open Sources Command and Conquer: Red Alert](https://github.com/electronicarts/CnC_Red_Alert)
 * [2025-02-27, 18:38:47](https://news.ycombinator.com/item?id=43197100) - [Show HN: Compiler Playground for energy-efficient embedded dataflow processor](https://www.efficient.computer/resources/effcc-compiler-playground-launch)
 * [2025-02-27, 18:23:39](https://news.ycombinator.com/item?id=43196954) - [The FBI's lab leak investigation](https://www.vanityfair.com/news/story/inside-the-fbis-lab-leak-investigation)
