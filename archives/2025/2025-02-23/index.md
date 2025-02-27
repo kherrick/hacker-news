@@ -11,6 +11,7 @@
 * [2025-02-23, 23:11:13](https://news.ycombinator.com/item?id=43154138) - [Project Scripts](https://paul-samuels.com/blog/2025/02/23/project-scripts/)
 * [2025-02-23, 23:00:16](https://news.ycombinator.com/item?id=43154065) - [Ask HN: What are you working on? (February 2025)](https://news.ycombinator.com/item?id=43154065)
 * [2025-02-23, 22:37:57](https://news.ycombinator.com/item?id=43153901) - [Tokio and Prctl = Nasty Bug](https://kobzol.github.io/rust/2025/02/23/tokio-plus-prctl-equals-nasty-bug.html)
+* [2025-02-23, 22:08:55](https://news.ycombinator.com/item?id=43153681) - [Chartist: Task-Driven Eye Movement Control for Chart Reading](https://arxiv.org/abs/2502.03575)
 * [2025-02-23, 22:06:09](https://news.ycombinator.com/item?id=43153662) - [Partnering with the Shawnee Tribe for Civilization VII](https://civilization.2k.com/civ-vii/news/civilization-vii-shawnee-tribe-partnership/)
 * [2025-02-23, 21:26:04](https://news.ycombinator.com/item?id=43153382) - [Documentation: $41K Loss: Stripe Security's Failure](https://medium.com/@forreddit/stripe-security-failure-allowing-debit-card-payouts-to-instant-accounts-immediately-6345d15709de)
 * [2025-02-23, 21:11:44](https://news.ycombinator.com/item?id=43153262) - [Bitwarden Authenticator](https://bitwarden.com/products/authenticator/)
