@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-26, 23:54:17",
+      "https://news.ycombinator.com/item?id=43189703"
+    ],
+    [
+      "Geometric Algebra",
+      "https://bivector.net/"
+    ]
+  ],
+  [
+    [
       "2025-02-26, 22:25:10",
       "https://news.ycombinator.com/item?id=43188971"
     ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2025-02-26, 15:47:17",
-      "https://news.ycombinator.com/item?id=43184762"
-    ],
-    [
-      "Jeff Bezos exerts more control of Washington Post opinion",
-      "https://deadline.com/2025/02/jeff-bezos-washington-post-opinion-1236302292/"
-    ]
-  ],
-  [
-    [
       "2025-02-26, 15:41:44",
       "https://news.ycombinator.com/item?id=43184686"
     ],
@@ -241,22 +241,32 @@
   ],
   [
     [
-      "2025-02-25, 18:39:10",
-      "https://news.ycombinator.com/item?id=43175628"
-    ],
-    [
-      "I Went to SQL Injection Court",
-      "https://sockpuppet.org/blog/2025/02/09/fixing-illinois-foia/"
-    ]
-  ],
-  [
-    [
       "2025-02-25, 16:34:07",
       "https://news.ycombinator.com/item?id=43174041"
     ],
     [
       "Show HN: Tach – Visualize and untangle your Python codebase",
       "https://github.com/gauge-sh/tach"
+    ]
+  ],
+  [
+    [
+      "2025-02-25, 07:11:03",
+      "https://news.ycombinator.com/item?id=43169091"
+    ],
+    [
+      "Simulating Time in Square-Root Space",
+      "https://eccc.weizmann.ac.il/report/2025/017/"
+    ]
+  ],
+  [
+    [
+      "2025-02-25, 06:26:56",
+      "https://news.ycombinator.com/item?id=43168838"
+    ],
+    [
+      "Winners of the $10k ISBN visualization bounty",
+      "https://annas-archive.org/blog/all-isbns-winners.html"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Show HN: I created a language called AntiLang – breaking all the conventions",
       "https://siruscodes.github.io/AntiLang/"
-    ]
-  ],
-  [
-    [
-      "2025-02-23, 18:14:12",
-      "https://news.ycombinator.com/item?id=43151544"
-    ],
-    [
-      "The JIT Calculator Challenge",
-      "https://ochagavia.nl/blog/the-jit-calculator-challenge/"
     ]
   ],
   [
