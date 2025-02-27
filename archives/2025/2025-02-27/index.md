@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-27](index.md)
 
+* [2025-02-27, 12:01:37](https://news.ycombinator.com/item?id=43193553) - [Bitmovin (YC S15) Is Hiring Interns in Software Engineering in Austria](https://bitmovin.com/careers/7863755002/)
 * [2025-02-27, 11:24:51](https://news.ycombinator.com/item?id=43193366) - [US Forest Service firings decimate: entire generation of talent and passion lost](https://grist.org/politics/forest-service-firings-decimate-already-understaffed-agency/)
 * [2025-02-27, 11:17:09](https://news.ycombinator.com/item?id=43193326) - [Germany's Water Consumption Down 17% Following Nuclear Reactor Shutdowns](https://www.vdi-nachrichten.com/technik/umwelt/wasserverbrauch-in-deutschland-sank-deutlich-durch-akw-abschaltung/)
 * [2025-02-27, 10:25:27](https://news.ycombinator.com/item?id=43193018) - [Google gifts a Free AI Coding Assistant to the developer community](https://techcrunch.com/2025/02/25/google-launches-a-free-ai-coding-assistant-with-very-high-usage-caps/)
