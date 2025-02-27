@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-26](index.md)
 
+* [2025-02-26, 23:54:17](https://news.ycombinator.com/item?id=43189703) - [Geometric Algebra](https://bivector.net/)
 * [2025-02-26, 22:25:10](https://news.ycombinator.com/item?id=43188971) - [iMac G4(K)](https://jcs.org/2025/02/26/imacg4k)
 * [2025-02-26, 22:02:15](https://news.ycombinator.com/item?id=43188749) - [Jeff Bezos' revamp of 'Washington Post' opinions leads editor to quit](https://www.npr.org/2025/02/26/nx-s1-5309725/jeff-bezos-washington-post-opinion-section)
 * [2025-02-26, 21:39:31](https://news.ycombinator.com/item?id=43188537) - [Tom Stevenson on the deciphering of Linear Elamite](https://www.lrb.co.uk/the-paper/v47/n04/tom-stevenson/beyond-mesopotamia)

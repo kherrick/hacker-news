@@ -57,6 +57,8 @@
 * [2025-02-25, 09:15:14](https://news.ycombinator.com/item?id=43169773) - [A peek into a possible future of Python in the browser](https://lukasz.langa.pl/f37aa97a-9ea3-4aeb-b6a0-9daeea5a7505/)
 * [2025-02-25, 08:17:11](https://news.ycombinator.com/item?id=43169435) - [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/)
 * [2025-02-25, 07:13:23](https://news.ycombinator.com/item?id=43169103) - [What would happen if we didn't use TCP or UDP?](https://github.com/Hawzen/hdp)
+* [2025-02-25, 07:11:03](https://news.ycombinator.com/item?id=43169091) - [Simulating Time in Square-Root Space](https://eccc.weizmann.ac.il/report/2025/017/)
+* [2025-02-25, 06:26:56](https://news.ycombinator.com/item?id=43168838) - [Winners of the $10k ISBN visualization bounty](https://annas-archive.org/blog/all-isbns-winners.html)
 * [2025-02-25, 05:47:09](https://news.ycombinator.com/item?id=43168611) - [GibberLink [AI-AI Communication]](https://github.com/PennyroyalTea/gibberlink)
 * [2025-02-25, 05:43:30](https://news.ycombinator.com/item?id=43168589) - [Xcode Constantly Phones Home](https://lapcatsoftware.com/articles/2025/2/5.html)
 * [2025-02-25, 05:33:27](https://news.ycombinator.com/item?id=43168534) - [Dogs may have domesticated themselves because they liked snacks, model suggests](https://www.livescience.com/animals/dogs/dogs-may-have-domesticated-themselves-because-they-really-liked-snacks-model-suggests)
