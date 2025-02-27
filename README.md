@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-27, 03:41:24](https://news.ycombinator.com/item?id=43191087) - [U.S. Soldier Charged in AT&T Hack Searched \"Can Hacking Be Treason\"](https://krebsonsecurity.com/2025/02/u-s-soldier-charged-in-att-hack-searched-can-hacking-be-treason/)
 * [2025-02-27, 02:08:53](https://news.ycombinator.com/item?id=43190533) - [DualPipe: An innovative bidirectional pipeline parallelism algorithm](https://github.com/deepseek-ai/DualPipe)
 * [2025-02-27, 02:01:41](https://news.ycombinator.com/item?id=43190482) - [DeepSeek Open Source Optimized Parallelism Strategies, 3 repos](https://github.com/deepseek-ai/profile-data)
 * [2025-02-26, 23:54:17](https://news.ycombinator.com/item?id=43189703) - [Geometric Algebra](https://bivector.net/)
@@ -29,7 +30,6 @@
 * [2025-02-24, 13:28:40](https://news.ycombinator.com/item?id=43159314) - [Writing a .NET Garbage Collector in C# – Part 1](https://minidump.net/2025-28-01-writing-a-net-gc-in-c-part-1/)
 * [2025-02-23, 19:00:21](https://news.ycombinator.com/item?id=43152033) - [Show HN: I created a language called AntiLang – breaking all the conventions](https://siruscodes.github.io/AntiLang/)
 * [2025-02-23, 17:28:03](https://news.ycombinator.com/item?id=43151152) - [Gambling on Papal Conclaves](https://en.wikipedia.org/wiki/Gambling_on_papal_conclaves)
-* [2025-02-23, 05:10:39](https://news.ycombinator.com/item?id=43146758) - [Decompilation of Minecraft: Legacy Console Edition](https://github.com/GRAnimated/MinecraftLCE)
 
 ## [Archives](archives/index.md)
 
