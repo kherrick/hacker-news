@@ -14,6 +14,7 @@
 * [2025-02-23, 22:08:55](https://news.ycombinator.com/item?id=43153681) - [Chartist: Task-Driven Eye Movement Control for Chart Reading](https://arxiv.org/abs/2502.03575)
 * [2025-02-23, 22:06:09](https://news.ycombinator.com/item?id=43153662) - [Partnering with the Shawnee Tribe for Civilization VII](https://civilization.2k.com/civ-vii/news/civilization-vii-shawnee-tribe-partnership/)
 * [2025-02-23, 21:26:04](https://news.ycombinator.com/item?id=43153382) - [Documentation: $41K Loss: Stripe Security's Failure](https://medium.com/@forreddit/stripe-security-failure-allowing-debit-card-payouts-to-instant-accounts-immediately-6345d15709de)
+* [2025-02-23, 21:20:40](https://news.ycombinator.com/item?id=43153324) - [MathB.in Is Shutting Down](https://susam.net/mathbin-is-shutting-down.html)
 * [2025-02-23, 21:11:44](https://news.ycombinator.com/item?id=43153262) - [Bitwarden Authenticator](https://bitwarden.com/products/authenticator/)
 * [2025-02-23, 20:31:12](https://news.ycombinator.com/item?id=43152937) - [EU regulations to look out for in 2025](https://sifted.eu/articles/eu-startup-regulation-2025)
 * [2025-02-23, 20:05:49](https://news.ycombinator.com/item?id=43152704) - [Show HN: Jq-Like Tool for Markdown](https://github.com/yshavit/mdq)

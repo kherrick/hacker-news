@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-02-27](index.md)
 
+* [2025-02-27, 15:55:21](https://news.ycombinator.com/item?id=43195525) - [$100 Muon Detector Lets You Harness the Cosmos](https://spectrum.ieee.org/diy-muon-tomography)
+* [2025-02-27, 15:54:36](https://news.ycombinator.com/item?id=43195516) - [Solitaire](https://localthunk.com/blog/solitaire)
+* [2025-02-27, 15:50:38](https://news.ycombinator.com/item?id=43195469) - [Instagram 'Error' Turned Reels into Scroll of Murder, Gore, and Violence](https://www.404media.co/instagram-error-turned-reels-into-neverending-scroll-of-murder-gore-and-violence/)
 * [2025-02-27, 15:34:34](https://news.ycombinator.com/item?id=43195308) - [Who was Aleph Null? (2013)](http://bit-player.org/2013/who-was-aleph-null)
 * [2025-02-27, 15:02:39](https://news.ycombinator.com/item?id=43194971) - [Probly: Spreadsheets and Python and AI, right in the browser](https://github.com/PragmaticMachineLearning/probly)
 * [2025-02-27, 14:42:02](https://news.ycombinator.com/item?id=43194778) - [Gene Hackman has died](https://www.theguardian.com/film/2025/feb/27/gene-hackman-dies-wife-dog-95)
@@ -13,6 +16,7 @@
 * [2025-02-27, 13:26:49](https://news.ycombinator.com/item?id=43194175) - [Has anyone tried building tools without coding?](https://news.ycombinator.com/item?id=43194175)
 * [2025-02-27, 13:06:40](https://news.ycombinator.com/item?id=43194024) - [Fish 4.0.0](https://github.com/fish-shell/fish-shell/releases/tag/4.0.0)
 * [2025-02-27, 12:33:14](https://news.ycombinator.com/item?id=43193795) - [Local social spending and political dissatisfaction of the economically deprived](https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2025.1516985/full)
+* [2025-02-27, 12:23:41](https://news.ycombinator.com/item?id=43193714) - [\"Thanked more often than God at the Oscars\"](https://stephenfollows.com/p/harvey-weinstein-thanked-more-than-god)
 * [2025-02-27, 12:01:37](https://news.ycombinator.com/item?id=43193553) - [Bitmovin (YC S15) Is Hiring Interns in Software Engineering in Austria](https://bitmovin.com/careers/7863755002/)
 * [2025-02-27, 11:24:51](https://news.ycombinator.com/item?id=43193366) - [US Forest Service firings decimate: entire generation of talent and passion lost](https://grist.org/politics/forest-service-firings-decimate-already-understaffed-agency/)
 * [2025-02-27, 11:17:09](https://news.ycombinator.com/item?id=43193326) - [Germany's Water Consumption Down 17% Following Nuclear Reactor Shutdowns](https://www.vdi-nachrichten.com/technik/umwelt/wasserverbrauch-in-deutschland-sank-deutlich-durch-akw-abschaltung/)
