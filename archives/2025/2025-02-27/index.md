@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-27](index.md)
 
 * [2025-02-27, 21:13:42](https://news.ycombinator.com/item?id=43198572) - [OpenCloud 1.0](https://opencloud.eu/en/news/opencloud-now-available-new-open-source-alternative-microsoft-sharepoint)
+* [2025-02-27, 21:07:57](https://news.ycombinator.com/item?id=43198520) - [Postgres as a Graph Database: (Ab)Using PgRouting](https://supabase.com/blog/pgrouting-postgres-graph-database)
 * [2025-02-27, 21:00:33](https://news.ycombinator.com/item?id=43198457) - [Kastle (YC S24) Is Hiring – AI for Loan Servicing](https://www.ycombinator.com/companies/kastle/jobs/ItDVKB7-founding-backend-engineer-at-kastle-s24)
 * [2025-02-27, 20:51:23](https://news.ycombinator.com/item?id=43198379) - [Nvidia emulation journey, part 1: RIVA 128/NV3 architecture history and overview](https://86box.net/2025/02/25/riva128-part-1.html)
 * [2025-02-27, 20:39:29](https://news.ycombinator.com/item?id=43198245) - [Show HN: Wireless Video Streaming on POV Bike Display](https://www.youtube.com/watch?v=o8n-bu2kKnc)

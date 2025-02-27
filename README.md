@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-27, 21:13:42](https://news.ycombinator.com/item?id=43198572) - [OpenCloud 1.0](https://opencloud.eu/en/news/opencloud-now-available-new-open-source-alternative-microsoft-sharepoint)
+* [2025-02-27, 21:07:57](https://news.ycombinator.com/item?id=43198520) - [Postgres as a Graph Database: (Ab)Using PgRouting](https://supabase.com/blog/pgrouting-postgres-graph-database)
 * [2025-02-27, 21:00:33](https://news.ycombinator.com/item?id=43198457) - [Kastle (YC S24) Is Hiring – AI for Loan Servicing](https://www.ycombinator.com/companies/kastle/jobs/ItDVKB7-founding-backend-engineer-at-kastle-s24)
 * [2025-02-27, 20:51:23](https://news.ycombinator.com/item?id=43198379) - [Nvidia emulation journey, part 1: RIVA 128/NV3 architecture history and overview](https://86box.net/2025/02/25/riva128-part-1.html)
 * [2025-02-27, 20:39:29](https://news.ycombinator.com/item?id=43198245) - [Show HN: Wireless video streaming on POV bike display](https://www.youtube.com/watch?v=o8n-bu2kKnc)
@@ -20,16 +22,14 @@
 * [2025-02-27, 15:02:39](https://news.ycombinator.com/item?id=43194971) - [Show HN: Probly – Spreadsheets, Python, and AI in the browser](https://github.com/PragmaticMachineLearning/probly)
 * [2025-02-27, 14:00:21](https://news.ycombinator.com/item?id=43194434) - [Time Warp: Delayed-choice quantum erasure](https://drgblackwell.substack.com/p/time-warp-delayed-choice-quantum)
 * [2025-02-27, 12:23:41](https://news.ycombinator.com/item?id=43193714) - [A data analysis of speeches at the Oscars](https://stephenfollows.com/p/harvey-weinstein-thanked-more-than-god)
-* [2025-02-27, 09:41:23](https://news.ycombinator.com/item?id=43192751) - [RoboPianist: Dexterous Piano Playing with Deep Reinforcement Learning (2023)](https://kzakka.com/robopianist/#demo)
 * [2025-02-26, 18:19:05](https://news.ycombinator.com/item?id=43186406) - [Show HN: I got laid off from Meta and created a minor hit on Steam](https://news.ycombinator.com/item?id=43186406)
 * [2025-02-26, 15:05:02](https://news.ycombinator.com/item?id=43184291) - [TypeScript types can run DOOM [video]](https://www.youtube.com/watch?v=0mCsluv5FXA)
 * [2025-02-25, 11:42:02](https://news.ycombinator.com/item?id=43170701) - [Theoi Greek Mythology](https://www.theoi.com/)
 * [2025-02-25, 10:16:14](https://news.ycombinator.com/item?id=43170108) - [Upside Down Air Force](https://www.frontiernet.net/%7Eatlasf/A56UDAF.htm)
+* [2025-02-25, 06:56:07](https://news.ycombinator.com/item?id=43169017) - [Finnegans Wake Extensible Elucidation Treasury](http://fweet.org/)
 * [2025-02-25, 06:26:56](https://news.ycombinator.com/item?id=43168838) - [Winners of the $10k ISBN visualization bounty](https://annas-archive.org/blog/all-isbns-winners.html)
-* [2025-02-25, 05:59:29](https://news.ycombinator.com/item?id=43168679) - [$30 Thrift Store Find a $223,000 Jet Engine Valve](https://www.avweb.com/aviation-news/30-thrift-store-find-actually-a-223000-jet-engine-valve/)
 * [2025-02-25, 05:33:21](https://news.ycombinator.com/item?id=43168533) - [There isn't much point to HTTP/2 past the load balancer](https://byroot.github.io/ruby/performance/2025/02/24/http2-past-the-load-balancer.html)
 * [2025-02-24, 15:31:11](https://news.ycombinator.com/item?id=43160668) - [The Yin and Yang of Programming](https://billwadge.com/2025/02/22/the-yin-and-yang-of-programming/)
-* [2025-02-24, 11:05:27](https://news.ycombinator.com/item?id=43158166) - [Show HN: Libredesk – Open-source customer support desk. Single binary app](https://github.com/abhinavxd/libredesk)
 
 ## [Archives](archives/index.md)
 
