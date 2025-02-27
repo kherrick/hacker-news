@@ -20,6 +20,7 @@
 * [2025-02-26, 18:19:05](https://news.ycombinator.com/item?id=43186406) - [Show HN: I got laid off from Meta and created a minor hit on Steam](https://news.ycombinator.com/item?id=43186406)
 * [2025-02-26, 18:09:39](https://news.ycombinator.com/item?id=43186301) - [Photographs of the Old West](https://cosmographia.substack.com/p/photographs-of-the-old-west)
 * [2025-02-26, 17:45:19](https://news.ycombinator.com/item?id=43186050) - [The Man Who Spent Forty-Two Years at the Beverly Hills Hotel Pool (1993)](https://www.newyorker.com/magazine/1993/02/22/beverly-hills-hotel-paradise-lost)
+* [2025-02-26, 17:24:51](https://news.ycombinator.com/item?id=43185836) - [Show HN: Yaak – An open source, Git-friendly desktop API client](https://yaak.app)
 * [2025-02-26, 17:19:29](https://news.ycombinator.com/item?id=43185769) - [DARPA Large Bio-Mechanical Space Structures](https://sam.gov/opp/49c9fac62ef249f19cda8b436a095d3b/view)
 * [2025-02-26, 17:17:11](https://news.ycombinator.com/item?id=43185733) - [Rediscovering Quaternions](https://jasonfantl.com/posts/Space-of-3D-Rotations/)
 * [2025-02-26, 16:50:51](https://news.ycombinator.com/item?id=43185446) - [Alexa+, the Next Generation of Alexa](https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence)

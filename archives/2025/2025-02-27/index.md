@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-02-27](index.md)
 
+* [2025-02-27, 15:02:39](https://news.ycombinator.com/item?id=43194971) - [Probly: Spreadsheets and Python and AI, right in the browser](https://github.com/PragmaticMachineLearning/probly)
 * [2025-02-27, 14:42:02](https://news.ycombinator.com/item?id=43194778) - [Gene Hackman has died](https://www.theguardian.com/film/2025/feb/27/gene-hackman-dies-wife-dog-95)
+* [2025-02-27, 14:13:04](https://news.ycombinator.com/item?id=43194538) - [Imposing memory security in C [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-6606-imposing-memory-security-in-c/)
 * [2025-02-27, 14:12:54](https://news.ycombinator.com/item?id=43194536) - [Mozilla's New Terms of Use Are Out of Step with Firefox's Direct Competition](https://www.quippd.com/writing/2025/02/26/mozillas-new-terms-of-use-are-out-of-step-with-firefoxs-direct-competition.html)
 * [2025-02-27, 14:00:21](https://news.ycombinator.com/item?id=43194434) - [Can photons reach back in time?](https://drgblackwell.substack.com/p/time-warp-delayed-choice-quantum)
 * [2025-02-27, 13:26:49](https://news.ycombinator.com/item?id=43194175) - [Has anyone tried building tools without coding?](https://news.ycombinator.com/item?id=43194175)
@@ -17,6 +19,7 @@
 * [2025-02-27, 09:48:44](https://news.ycombinator.com/item?id=43192790) - [Andrew Tate and brother leave Romania for US after travel ban lifted](https://www.theguardian.com/news/2025/feb/27/andrew-tate-tristan-romania-us)
 * [2025-02-27, 09:41:23](https://news.ycombinator.com/item?id=43192751) - [RoboPianist: Dexterous Piano Playing with Deep Reinforcement Learning (2023)](https://kzakka.com/robopianist/#demo)
 * [2025-02-27, 09:00:04](https://news.ycombinator.com/item?id=43192547) - [Japan births fall to lowest in 125 years](https://www.ft.com/content/95d3282e-daef-4670-b704-c1215393e7f8)
+* [2025-02-27, 08:46:54](https://news.ycombinator.com/item?id=43192500) - [Gene Hackman has died](https://www.nytimes.com/2025/02/27/obituaries/gene-hackman-dead.html)
 * [2025-02-27, 08:18:11](https://news.ycombinator.com/item?id=43192358) - [US examining whether UK's encryption demand on Apple broke data treaty](https://www.reuters.com/technology/us-examining-whether-uks-encryption-demand-apple-broke-data-treaty-2025-02-26/)
 * [2025-02-27, 07:12:22](https://news.ycombinator.com/item?id=43192079) - [Teslas monitor everything – including you [video] from WIRED](https://www.youtube.com/watch?v=l7VHsDODU7E)
 * [2025-02-27, 05:25:44](https://news.ycombinator.com/item?id=43191612) - [A Comprehensive Formal Security Analysis of OAuth 2.0](https://arxiv.org/abs/1601.01229)
