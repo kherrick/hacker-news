@@ -50,6 +50,7 @@
 * [2025-02-25, 11:50:29](https://news.ycombinator.com/item?id=43170756) - [US court upholds Theranos founder Elizabeth Holmes's conviction](https://www.theguardian.com/technology/2025/feb/24/elizabeth-holmes-theranos-conviction)
 * [2025-02-25, 11:45:20](https://news.ycombinator.com/item?id=43170718) - [Tesla sales almost halved in Europe last month](https://www.businessinsider.com/tesla-sales-europe-tumbled-elon-musk-china-evs-2025-2)
 * [2025-02-25, 11:22:06](https://news.ycombinator.com/item?id=43170545) - [Chicory: A JVM native WebAssembly runtime](https://chicory.dev/)
+* [2025-02-25, 10:38:53](https://news.ycombinator.com/item?id=43170242) - [Metasploit – Penetration Testing Framework](https://www.metasploit.com/)
 * [2025-02-25, 10:24:34](https://news.ycombinator.com/item?id=43170155) - [Evaluating modular RAG with reasoning models](https://www.kapa.ai/blog/evaluating-modular-rag-with-reasoning-models)
 * [2025-02-25, 10:11:13](https://news.ycombinator.com/item?id=43170090) - [Tesla sales in Europe down 45% in January](https://www.ft.com/content/cdd0b5c8-2703-4fd4-9ebf-26087cac8523)
 * [2025-02-25, 10:09:25](https://news.ycombinator.com/item?id=43170079) - [Detecting Noise in Canvas Fingerprinting](https://blog.castle.io/detecting-noise-in-canvas-fingerprinting/)
