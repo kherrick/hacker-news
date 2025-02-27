@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-27, 17:03:39](https://news.ycombinator.com/item?id=43196207) - [Turning a Bluetooth Device into an Apple AirTag Without Root Privileges](https://nroottag.github.io/)
 * [2025-02-27, 16:14:45](https://news.ycombinator.com/item?id=43195724) - [The muon's magnetic moment exposes a hole in the SM – unless it doesn't](https://physicsworld.com/a/the-muons-magnetic-moment-exposes-a-huge-hole-in-the-standard-model-unless-it-doesnt/)
 * [2025-02-27, 16:12:42](https://news.ycombinator.com/item?id=43195702) - [Distributed Systems Programming Has Stalled](https://www.shadaj.me/writing/distributed-programming-stalled)
+* [2025-02-27, 16:00:31](https://news.ycombinator.com/item?id=43195589) - [At 3 A.m., I Turned to AI for Comfort. That Was My First Mistake](https://thewalrus.ca/at-3-a-m-i-turned-to-ai-for-comfort-that-was-my-first-mistake/)
 * [2025-02-27, 15:55:21](https://news.ycombinator.com/item?id=43195525) - [A $100 DIY muon tomographer](https://spectrum.ieee.org/diy-muon-tomography)
 * [2025-02-27, 15:54:36](https://news.ycombinator.com/item?id=43195516) - [Solitaire](https://localthunk.com/blog/solitaire)
 * [2025-02-27, 15:34:34](https://news.ycombinator.com/item?id=43195308) - [Who was Aleph Null? (2013)](http://bit-player.org/2013/who-was-aleph-null)
@@ -22,14 +24,12 @@
 * [2025-02-26, 15:05:02](https://news.ycombinator.com/item?id=43184291) - [TypeScript types can run DOOM [video]](https://www.youtube.com/watch?v=0mCsluv5FXA)
 * [2025-02-26, 14:28:26](https://news.ycombinator.com/item?id=43183891) - [Show HN: A Database Written in Golang](https://github.com/Sahilb315/AtomixDB)
 * [2025-02-26, 12:42:35](https://news.ycombinator.com/item?id=43183131) - [Show HN: Breakout with a roguelite/vampire survivor twist](https://breakout.lecaro.me/)
-* [2025-02-26, 09:57:23](https://news.ycombinator.com/item?id=43182325) - [The FFT Strikes Back: An Efficient Alternative to Self-Attention](https://arxiv.org/abs/2502.18394)
-* [2025-02-26, 07:27:50](https://news.ycombinator.com/item?id=43181520) - [A new proposal for how mind emerges from matter](https://www.noemamag.com/a-radical-new-proposal-for-how-mind-emerges-from-matter/)
 * [2025-02-25, 16:34:07](https://news.ycombinator.com/item?id=43174041) - [Show HN: Tach – Visualize and untangle your Python codebase](https://github.com/gauge-sh/tach)
+* [2025-02-25, 10:16:14](https://news.ycombinator.com/item?id=43170108) - [Upside Down Air Force](https://www.frontiernet.net/%7Eatlasf/A56UDAF.htm)
 * [2025-02-25, 06:26:56](https://news.ycombinator.com/item?id=43168838) - [Winners of the $10k ISBN visualization bounty](https://annas-archive.org/blog/all-isbns-winners.html)
 * [2025-02-24, 13:24:49](https://news.ycombinator.com/item?id=43159270) - [Practical Foundations of Mathematics](https://www.paultaylor.eu/prafm/html/index.html)
 * [2025-02-24, 11:05:27](https://news.ycombinator.com/item?id=43158166) - [Show HN: Libredesk – Open-source customer support desk. Single binary app](https://github.com/abhinavxd/libredesk)
 * [2025-02-23, 21:20:40](https://news.ycombinator.com/item?id=43153324) - [MathB.in Is Shutting Down](https://susam.net/mathbin-is-shutting-down.html)
-* [2025-02-23, 18:00:23](https://news.ycombinator.com/item?id=43151445) - [After Moss Landing Power Plant reignites, officials brace for more flare-ups](https://www.sfgate.com/bayarea/article/moss-landing-fire-reignites-20176063.php)
 
 ## [Archives](archives/index.md)
 
