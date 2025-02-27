@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-27, 15:34:34](https://news.ycombinator.com/item?id=43195308) - [Who was Aleph Null? (2013)](http://bit-player.org/2013/who-was-aleph-null)
 * [2025-02-27, 15:02:39](https://news.ycombinator.com/item?id=43194971) - [Probly: Spreadsheets and Python and AI, right in the browser](https://github.com/PragmaticMachineLearning/probly)
 * [2025-02-27, 14:13:04](https://news.ycombinator.com/item?id=43194538) - [Imposing memory security in C [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-6606-imposing-memory-security-in-c/)
 * [2025-02-27, 14:00:21](https://news.ycombinator.com/item?id=43194434) - [Can photons reach back in time?](https://drgblackwell.substack.com/p/time-warp-delayed-choice-quantum)
@@ -23,7 +24,6 @@
 * [2025-02-26, 09:57:23](https://news.ycombinator.com/item?id=43182325) - [The FFT Strikes Back: An Efficient Alternative to Self-Attention](https://arxiv.org/abs/2502.18394)
 * [2025-02-26, 07:27:50](https://news.ycombinator.com/item?id=43181520) - [A new proposal for how mind emerges from matter](https://www.noemamag.com/a-radical-new-proposal-for-how-mind-emerges-from-matter/)
 * [2025-02-25, 16:34:07](https://news.ycombinator.com/item?id=43174041) - [Show HN: Tach – Visualize and untangle your Python codebase](https://github.com/gauge-sh/tach)
-* [2025-02-25, 07:11:03](https://news.ycombinator.com/item?id=43169091) - [Simulating Time in Square-Root Space](https://eccc.weizmann.ac.il/report/2025/017/)
 * [2025-02-25, 06:26:56](https://news.ycombinator.com/item?id=43168838) - [Winners of the $10k ISBN visualization bounty](https://annas-archive.org/blog/all-isbns-winners.html)
 * [2025-02-24, 13:24:49](https://news.ycombinator.com/item?id=43159270) - [Practical Foundations of Mathematics](https://www.paultaylor.eu/prafm/html/index.html)
 * [2025-02-24, 11:05:27](https://news.ycombinator.com/item?id=43158166) - [Show HN: Libredesk – Open-source customer support desk. Single binary app](https://github.com/abhinavxd/libredesk)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-27](index.md)
 
+* [2025-02-27, 15:34:34](https://news.ycombinator.com/item?id=43195308) - [Who was Aleph Null? (2013)](http://bit-player.org/2013/who-was-aleph-null)
 * [2025-02-27, 15:02:39](https://news.ycombinator.com/item?id=43194971) - [Probly: Spreadsheets and Python and AI, right in the browser](https://github.com/PragmaticMachineLearning/probly)
 * [2025-02-27, 14:42:02](https://news.ycombinator.com/item?id=43194778) - [Gene Hackman has died](https://www.theguardian.com/film/2025/feb/27/gene-hackman-dies-wife-dog-95)
 * [2025-02-27, 14:13:04](https://news.ycombinator.com/item?id=43194538) - [Imposing memory security in C [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-6606-imposing-memory-security-in-c/)
