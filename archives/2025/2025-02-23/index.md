@@ -23,6 +23,7 @@
 * [2025-02-23, 19:15:10](https://news.ycombinator.com/item?id=43152178) - [Lobsters blocking UK users because of the Online Safety Act](https://web.archive.org/web/20250108091906/https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with)
 * [2025-02-23, 19:15:10](https://news.ycombinator.com/item?id=43152178) - [Lobsters blocking UK users because of the Online Safety Act](https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with)
 * [2025-02-23, 19:13:18](https://news.ycombinator.com/item?id=43152154) - [In Memoriam – OnlineSafetyAct.co.uk](https://onlinesafetyact.co.uk/in_memoriam/)
+* [2025-02-23, 19:02:02](https://news.ycombinator.com/item?id=43152051) - [Transparency in Hardware/Software Interfaces](https://rfd.shared.oxide.computer/rfd/0552)
 * [2025-02-23, 19:00:21](https://news.ycombinator.com/item?id=43152033) - [Show HN: I created a language called AntiLang – breaking all the conventions](https://siruscodes.github.io/AntiLang/)
 * [2025-02-23, 18:55:30](https://news.ycombinator.com/item?id=43151985) - [Online discussions on forests preserved in the Finnish Web Archive](https://www.kansalliskirjasto.fi/en/news/online-discussions-forests-preserved-finnish-web-archive)
 * [2025-02-23, 18:51:49](https://news.ycombinator.com/item?id=43151943) - [Part two of Grant Sanderson's video with Terry Tao on the cosmic distance ladder](https://mathstodon.xyz/@tao/114054291471216181)
