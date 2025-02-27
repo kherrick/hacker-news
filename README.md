@@ -1,14 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-27, 21:13:42](https://news.ycombinator.com/item?id=43198572) - [OpenCloud 1.0](https://opencloud.eu/en/news/opencloud-now-available-new-open-source-alternative-microsoft-sharepoint)
 * [2025-02-27, 21:00:33](https://news.ycombinator.com/item?id=43198457) - [Kastle (YC S24) Is Hiring – AI for Loan Servicing](https://www.ycombinator.com/companies/kastle/jobs/ItDVKB7-founding-backend-engineer-at-kastle-s24)
+* [2025-02-27, 20:51:23](https://news.ycombinator.com/item?id=43198379) - [Nvidia emulation journey, part 1: RIVA 128/NV3 architecture history and overview](https://86box.net/2025/02/25/riva128-part-1.html)
 * [2025-02-27, 20:39:29](https://news.ycombinator.com/item?id=43198245) - [Show HN: Wireless video streaming on POV bike display](https://www.youtube.com/watch?v=o8n-bu2kKnc)
 * [2025-02-27, 20:01:16](https://news.ycombinator.com/item?id=43197872) - [GPT-4.5](https://openai.com/index/introducing-gpt-4-5/)
 * [2025-02-27, 18:52:01](https://news.ycombinator.com/item?id=43197234) - [What can be computed? A practical guide to the theory of computation (2018) [pdf]](https://www.softouch.on.ca/kb/data/What%20Can%20Be%20Computed.pdf)
 * [2025-02-27, 18:42:01](https://news.ycombinator.com/item?id=43197131) - [EA Open Sources Command and Conquer: Red Alert](https://github.com/electronicarts/CnC_Red_Alert)
 * [2025-02-27, 18:38:47](https://news.ycombinator.com/item?id=43197100) - [Show HN: Compiler Playground for energy-efficient embedded dataflow processor](https://www.efficient.computer/resources/effcc-compiler-playground-launch)
 * [2025-02-27, 18:07:35](https://news.ycombinator.com/item?id=43196812) - [Show HN: Wampy, interface addon for Linux-based Walkmans](https://github.com/unknown321/wampy)
-* [2025-02-27, 17:57:17](https://news.ycombinator.com/item?id=43196710) - [Show HN: Ranked Search for Semi-Structured Data](https://demo.tryvoker.com)
 * [2025-02-27, 17:30:51](https://news.ycombinator.com/item?id=43196474) - [Launch HN: Bild AI (YC W25) – Understand Construction Blueprints Using AI](https://news.ycombinator.com/item?id=43196474)
 * [2025-02-27, 17:26:21](https://news.ycombinator.com/item?id=43196436) - [Goodbye K-9 Mail](https://cketti.de/2025/02/26/goodbye-k9mail/)
 * [2025-02-27, 17:20:22](https://news.ycombinator.com/item?id=43196374) - [Show HN: Superglue – open source API connector that writes its own code](https://github.com/superglue-ai/superglue)
@@ -30,6 +29,7 @@
 * [2025-02-25, 05:59:29](https://news.ycombinator.com/item?id=43168679) - [$30 Thrift Store Find a $223,000 Jet Engine Valve](https://www.avweb.com/aviation-news/30-thrift-store-find-actually-a-223000-jet-engine-valve/)
 * [2025-02-25, 05:33:21](https://news.ycombinator.com/item?id=43168533) - [There isn't much point to HTTP/2 past the load balancer](https://byroot.github.io/ruby/performance/2025/02/24/http2-past-the-load-balancer.html)
 * [2025-02-24, 15:31:11](https://news.ycombinator.com/item?id=43160668) - [The Yin and Yang of Programming](https://billwadge.com/2025/02/22/the-yin-and-yang-of-programming/)
+* [2025-02-24, 11:05:27](https://news.ycombinator.com/item?id=43158166) - [Show HN: Libredesk – Open-source customer support desk. Single binary app](https://github.com/abhinavxd/libredesk)
 
 ## [Archives](archives/index.md)
 
