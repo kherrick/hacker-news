@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-27, 16:14:45](https://news.ycombinator.com/item?id=43195724) - [The muon's magnetic moment exposes a hole in the SM – unless it doesn't](https://physicsworld.com/a/the-muons-magnetic-moment-exposes-a-huge-hole-in-the-standard-model-unless-it-doesnt/)
+* [2025-02-27, 16:12:42](https://news.ycombinator.com/item?id=43195702) - [Distributed Systems Programming Has Stalled](https://www.shadaj.me/writing/distributed-programming-stalled)
 * [2025-02-27, 15:55:21](https://news.ycombinator.com/item?id=43195525) - [A $100 DIY muon tomographer](https://spectrum.ieee.org/diy-muon-tomography)
 * [2025-02-27, 15:54:36](https://news.ycombinator.com/item?id=43195516) - [Solitaire](https://localthunk.com/blog/solitaire)
 * [2025-02-27, 15:34:34](https://news.ycombinator.com/item?id=43195308) - [Who was Aleph Null? (2013)](http://bit-player.org/2013/who-was-aleph-null)
@@ -18,7 +19,6 @@
 * [2025-02-26, 18:19:05](https://news.ycombinator.com/item?id=43186406) - [Show HN: I got laid off from Meta and created a minor hit on Steam](https://news.ycombinator.com/item?id=43186406)
 * [2025-02-26, 17:45:19](https://news.ycombinator.com/item?id=43186050) - [The man who spent forty-two years at the Beverly Hills Hotel pool (1993)](https://www.newyorker.com/magazine/1993/02/22/beverly-hills-hotel-paradise-lost)
 * [2025-02-26, 17:24:51](https://news.ycombinator.com/item?id=43185836) - [Show HN: Yaak – An open source, Git-friendly desktop API client](https://yaak.app)
-* [2025-02-26, 15:10:52](https://news.ycombinator.com/item?id=43184362) - [Show HN: Emdash – Slack/Zoom alternative for distributed team collaboration](https://emdash.io/)
 * [2025-02-26, 15:05:02](https://news.ycombinator.com/item?id=43184291) - [TypeScript types can run DOOM [video]](https://www.youtube.com/watch?v=0mCsluv5FXA)
 * [2025-02-26, 14:28:26](https://news.ycombinator.com/item?id=43183891) - [Show HN: A Database Written in Golang](https://github.com/Sahilb315/AtomixDB)
 * [2025-02-26, 12:42:35](https://news.ycombinator.com/item?id=43183131) - [Show HN: Breakout with a roguelite/vampire survivor twist](https://breakout.lecaro.me/)

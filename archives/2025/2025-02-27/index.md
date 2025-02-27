@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-27](index.md)
 
 * [2025-02-27, 16:14:45](https://news.ycombinator.com/item?id=43195724) - [The muon's magnetic moment exposes a hole in the SM – unless it doesn't](https://physicsworld.com/a/the-muons-magnetic-moment-exposes-a-huge-hole-in-the-standard-model-unless-it-doesnt/)
+* [2025-02-27, 16:12:42](https://news.ycombinator.com/item?id=43195702) - [Distributed Systems Programming Has Stalled](https://www.shadaj.me/writing/distributed-programming-stalled)
 * [2025-02-27, 15:55:21](https://news.ycombinator.com/item?id=43195525) - [$100 Muon Detector Lets You Harness the Cosmos](https://spectrum.ieee.org/diy-muon-tomography)
 * [2025-02-27, 15:54:36](https://news.ycombinator.com/item?id=43195516) - [Solitaire](https://localthunk.com/blog/solitaire)
 * [2025-02-27, 15:50:38](https://news.ycombinator.com/item?id=43195469) - [Instagram 'Error' Turned Reels into Scroll of Murder, Gore, and Violence](https://www.404media.co/instagram-error-turned-reels-into-neverending-scroll-of-murder-gore-and-violence/)
