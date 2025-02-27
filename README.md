@@ -1,17 +1,17 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-27, 03:56:13](https://news.ycombinator.com/item?id=43191177) - [Captain 'lost for words' after witnessing a super pod of more than 2k dolphins](https://www.cbc.ca/radio/asithappens/dolphin-super-pod-1.7469441)
 * [2025-02-27, 03:41:24](https://news.ycombinator.com/item?id=43191087) - [U.S. soldier charged in AT&T hack searched \"can hacking be treason\"](https://krebsonsecurity.com/2025/02/u-s-soldier-charged-in-att-hack-searched-can-hacking-be-treason/)
 * [2025-02-27, 02:08:53](https://news.ycombinator.com/item?id=43190533) - [DualPipe: An innovative bidirectional pipeline parallelism algorithm](https://github.com/deepseek-ai/DualPipe)
 * [2025-02-27, 02:01:41](https://news.ycombinator.com/item?id=43190482) - [DeepSeek Open Source Optimized Parallelism Strategies, 3 repos](https://github.com/deepseek-ai/profile-data)
 * [2025-02-26, 23:54:17](https://news.ycombinator.com/item?id=43189703) - [Geometric Algebra](https://bivector.net/)
 * [2025-02-26, 22:25:10](https://news.ycombinator.com/item?id=43188971) - [iMac G4(K)](https://jcs.org/2025/02/26/imacg4k)
 * [2025-02-26, 21:39:31](https://news.ycombinator.com/item?id=43188537) - [Tom Stevenson on the deciphering of Linear Elamite](https://www.lrb.co.uk/the-paper/v47/n04/tom-stevenson/beyond-mesopotamia)
-* [2025-02-26, 20:20:39](https://news.ycombinator.com/item?id=43187759) - [Put a data center on the moon?](https://spectrum.ieee.org/data-center-on-the-moon)
 * [2025-02-26, 19:31:25](https://news.ycombinator.com/item?id=43187231) - [Show HN: LLM plays Pokémon (open sourced)](https://github.com/adenta/fire_red_agent)
 * [2025-02-26, 19:29:37](https://news.ycombinator.com/item?id=43187209) - [Replace OCR with Vision Language Models](https://github.com/vlm-run/vlmrun-cookbook/blob/main/notebooks/01_schema_showcase.ipynb)
+* [2025-02-26, 18:36:51](https://news.ycombinator.com/item?id=43186614) - [The need for memory safety standards](https://security.googleblog.com/2025/02/securing-tomorrows-software-need-for.html)
 * [2025-02-26, 18:19:28](https://news.ycombinator.com/item?id=43186413) - [Cross Views](https://moultano.wordpress.com/2025/02/24/you-should-make-cross-views/)
 * [2025-02-26, 18:19:05](https://news.ycombinator.com/item?id=43186406) - [Show HN: I got laid off from Meta and created a minor hit on Steam](https://news.ycombinator.com/item?id=43186406)
-* [2025-02-26, 18:09:39](https://news.ycombinator.com/item?id=43186301) - [Photographs of the Old West](https://cosmographia.substack.com/p/photographs-of-the-old-west)
 * [2025-02-26, 17:45:19](https://news.ycombinator.com/item?id=43186050) - [The man who spent forty-two years at the Beverly Hills Hotel pool (1993)](https://www.newyorker.com/magazine/1993/02/22/beverly-hills-hotel-paradise-lost)
 * [2025-02-26, 17:19:29](https://news.ycombinator.com/item?id=43185769) - [DARPA Large Bio-Mechanical Space Structures](https://sam.gov/opp/49c9fac62ef249f19cda8b436a095d3b/view)
 * [2025-02-26, 17:17:11](https://news.ycombinator.com/item?id=43185733) - [Rediscovering Quaternions](https://jasonfantl.com/posts/Space-of-3D-Rotations/)
@@ -29,7 +29,7 @@
 * [2025-02-24, 13:28:40](https://news.ycombinator.com/item?id=43159314) - [Writing a .NET Garbage Collector in C# – Part 1](https://minidump.net/2025-28-01-writing-a-net-gc-in-c-part-1/)
 * [2025-02-24, 11:01:03](https://news.ycombinator.com/item?id=43158139) - [Fortune(6) – Linux Man Page](https://linux.die.net/man/6/fortune)
 * [2025-02-23, 19:00:21](https://news.ycombinator.com/item?id=43152033) - [Show HN: I created a language called AntiLang – breaking all the conventions](https://siruscodes.github.io/AntiLang/)
-* [2025-02-23, 17:28:03](https://news.ycombinator.com/item?id=43151152) - [Gambling on Papal Conclaves](https://en.wikipedia.org/wiki/Gambling_on_papal_conclaves)
+* [2025-02-23, 17:28:03](https://news.ycombinator.com/item?id=43151152) - [Gambling on papal conclaves](https://en.wikipedia.org/wiki/Gambling_on_papal_conclaves)
 
 ## [Archives](archives/index.md)
 
