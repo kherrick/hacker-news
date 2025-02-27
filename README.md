@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-27, 13:26:49](https://news.ycombinator.com/item?id=43194175) - [Has anyone tried building tools without coding?](https://news.ycombinator.com/item?id=43194175)
 * [2025-02-27, 13:06:40](https://news.ycombinator.com/item?id=43194024) - [Fish 4.0.0](https://github.com/fish-shell/fish-shell/releases/tag/4.0.0)
 * [2025-02-27, 12:33:14](https://news.ycombinator.com/item?id=43193795) - [Local social spending and political dissatisfaction of the economically deprived](https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2025.1516985/full)
 * [2025-02-27, 12:01:37](https://news.ycombinator.com/item?id=43193553) - [Bitmovin (YC S15) Is Hiring Interns in Software Engineering in Austria](https://bitmovin.com/careers/7863755002/)
@@ -29,6 +28,7 @@
 * [2025-02-24, 13:24:49](https://news.ycombinator.com/item?id=43159270) - [Practical Foundations of Mathematics](https://www.paultaylor.eu/prafm/html/index.html)
 * [2025-02-24, 11:05:27](https://news.ycombinator.com/item?id=43158166) - [Show HN: Libredesk – Open-source customer support desk. Single binary app](https://github.com/abhinavxd/libredesk)
 * [2025-02-23, 19:00:21](https://news.ycombinator.com/item?id=43152033) - [Show HN: I created a language called AntiLang – breaking all the conventions](https://siruscodes.github.io/AntiLang/)
+* [2025-02-23, 18:00:23](https://news.ycombinator.com/item?id=43151445) - [After Moss Landing Power Plant reignites, officials brace for more flare-ups](https://www.sfgate.com/bayarea/article/moss-landing-fire-reignites-20176063.php)
 * [2025-02-23, 15:24:43](https://news.ycombinator.com/item?id=43149891) - [Flawed Diamonds Make Perfect Quantum Sensors](https://spectrum.ieee.org/quantum-sensors-2671182149)
 
 ## [Archives](archives/index.md)
