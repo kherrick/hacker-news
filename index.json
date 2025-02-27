@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-02-27, 18:42:01",
+      "https://news.ycombinator.com/item?id=43197131"
+    ],
+    [
+      "EA Open Sources Command and Conquer: Red Alert",
+      "https://github.com/electronicarts/CnC_Red_Alert"
+    ]
+  ],
+  [
+    [
+      "2025-02-27, 18:38:47",
+      "https://news.ycombinator.com/item?id=43197100"
+    ],
+    [
+      "Show HN: Compiler Playground for energy-efficient embedded dataflow processor",
+      "https://www.efficient.computer/resources/effcc-compiler-playground-launch"
+    ]
+  ],
+  [
+    [
       "2025-02-27, 18:11:02",
       "https://news.ycombinator.com/item?id=43196845"
     ],
     [
       "Show HN: LoomLetter – an app to organize newsletters and listen on the go",
       "https://www.loomletter.app/"
+    ]
+  ],
+  [
+    [
+      "2025-02-27, 18:07:35",
+      "https://news.ycombinator.com/item?id=43196812"
+    ],
+    [
+      "Show HN: Wampy, interface addon for Linux-based Walkmans",
+      "https://github.com/unknown321/wampy"
     ]
   ],
   [
@@ -47,16 +77,6 @@
     [
       "Show HN: Superglue – open source API connector that writes its own code",
       "https://github.com/superglue-ai/superglue"
-    ]
-  ],
-  [
-    [
-      "2025-02-27, 17:04:11",
-      "https://news.ycombinator.com/item?id=43196212"
-    ],
-    [
-      "How to run GUI applications directly in containers",
-      "https://github.com/hemashushu/docker-archlinux-gui"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-02-27, 02:08:53",
-      "https://news.ycombinator.com/item?id=43190533"
-    ],
-    [
-      "DualPipe: Bidirectional pipeline parallelism algorithm",
-      "https://github.com/deepseek-ai/DualPipe"
-    ]
-  ],
-  [
-    [
       "2025-02-26, 22:25:10",
       "https://news.ycombinator.com/item?id=43188971"
     ],
@@ -267,16 +277,6 @@
     [
       "There isn't much point to HTTP/2 past the load balancer",
       "https://byroot.github.io/ruby/performance/2025/02/24/http2-past-the-load-balancer.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-24, 13:24:49",
-      "https://news.ycombinator.com/item?id=43159270"
-    ],
-    [
-      "Practical Foundations of Mathematics",
-      "https://www.paultaylor.eu/prafm/html/index.html"
     ]
   ],
   [
