@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-27, 21:13:42](https://news.ycombinator.com/item?id=43198572) - [OpenCloud 1.0](https://opencloud.eu/en/news/opencloud-now-available-new-open-source-alternative-microsoft-sharepoint)
 * [2025-02-27, 21:00:33](https://news.ycombinator.com/item?id=43198457) - [Kastle (YC S24) Is Hiring – AI for Loan Servicing](https://www.ycombinator.com/companies/kastle/jobs/ItDVKB7-founding-backend-engineer-at-kastle-s24)
 * [2025-02-27, 20:39:29](https://news.ycombinator.com/item?id=43198245) - [Show HN: Wireless video streaming on POV bike display](https://www.youtube.com/watch?v=o8n-bu2kKnc)
 * [2025-02-27, 20:01:16](https://news.ycombinator.com/item?id=43197872) - [GPT-4.5](https://openai.com/index/introducing-gpt-4-5/)
@@ -29,7 +30,6 @@
 * [2025-02-25, 05:59:29](https://news.ycombinator.com/item?id=43168679) - [$30 Thrift Store Find a $223,000 Jet Engine Valve](https://www.avweb.com/aviation-news/30-thrift-store-find-actually-a-223000-jet-engine-valve/)
 * [2025-02-25, 05:33:21](https://news.ycombinator.com/item?id=43168533) - [There isn't much point to HTTP/2 past the load balancer](https://byroot.github.io/ruby/performance/2025/02/24/http2-past-the-load-balancer.html)
 * [2025-02-24, 15:31:11](https://news.ycombinator.com/item?id=43160668) - [The Yin and Yang of Programming](https://billwadge.com/2025/02/22/the-yin-and-yang-of-programming/)
-* [2025-02-24, 11:05:27](https://news.ycombinator.com/item?id=43158166) - [Show HN: Libredesk – Open-source customer support desk. Single binary app](https://github.com/abhinavxd/libredesk)
 
 ## [Archives](archives/index.md)
 
