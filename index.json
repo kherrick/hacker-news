@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-27, 11:24:51",
+      "https://news.ycombinator.com/item?id=43193366"
+    ],
+    [
+      "US Forest Service firings decimate: entire generation of talent and passion lost",
+      "https://grist.org/politics/forest-service-firings-decimate-already-understaffed-agency/"
+    ]
+  ],
+  [
+    [
+      "2025-02-27, 11:17:09",
+      "https://news.ycombinator.com/item?id=43193326"
+    ],
+    [
+      "Germany's Water Consumption Down 17% Following Nuclear Reactor Shutdowns",
+      "https://www.vdi-nachrichten.com/technik/umwelt/wasserverbrauch-in-deutschland-sank-deutlich-durch-akw-abschaltung/"
+    ]
+  ],
+  [
+    [
       "2025-02-27, 10:25:27",
       "https://news.ycombinator.com/item?id=43193018"
     ],
@@ -121,42 +141,12 @@
   ],
   [
     [
-      "2025-02-26, 17:17:11",
-      "https://news.ycombinator.com/item?id=43185733"
-    ],
-    [
-      "Rediscovering Quaternions",
-      "https://jasonfantl.com/posts/Space-of-3D-Rotations/"
-    ]
-  ],
-  [
-    [
       "2025-02-26, 16:32:46",
       "https://news.ycombinator.com/item?id=43185246"
     ],
     [
       "Launch HN: Maritime Fusion (YC W25) – Fusion Reactors for Ships",
       "https://news.ycombinator.com/item?id=43185246"
-    ]
-  ],
-  [
-    [
-      "2025-02-26, 16:15:17",
-      "https://news.ycombinator.com/item?id=43185059"
-    ],
-    [
-      "Long division verified via Hoare logic",
-      "https://www.cofault.com/2025/02/long-story-of-division.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-26, 15:41:44",
-      "https://news.ycombinator.com/item?id=43184686"
-    ],
-    [
-      "ForeverVM: Run AI-generated code in stateful sandboxes that run forever",
-      "https://forevervm.com/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Practical Foundations of Mathematics",
       "https://www.paultaylor.eu/prafm/html/index.html"
+    ]
+  ],
+  [
+    [
+      "2025-02-24, 13:10:26",
+      "https://news.ycombinator.com/item?id=43159128"
+    ],
+    [
+      "Show HN: Orra – The missing glue layer for production-ready multi-agent apps",
+      "https://github.com/orra-dev/orra"
     ]
   ],
   [
