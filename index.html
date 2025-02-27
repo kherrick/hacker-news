@@ -129,10 +129,81 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="43196954">
+          <h3>
+            <a
+              class="item"
+              href="https://www.vanityfair.com/news/story/inside-the-fbis-lab-leak-investigation"
+              >The FBI's lab leak investigation</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-02-27 @ 18:23:39</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43196954"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="43196710">
+          <h3>
+            <a class="item" href="https://demo.tryvoker.com"
+              >Show HN: Ranked Search for Semi-Structured Data</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-02-27 @ 17:57:17</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43196710"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                To solve this, we built a system designed specifically for
+                structured datasets like CSVs or tables. Here’s a demo link
+                where you can upload a small CSV to try out (no login required):
+                <a href="https://demo.tryvoker.com">https://demo.tryvoker.com</a
+                >.
+              </p>
+              <p>
+                Unlike most RAG approaches, we process each column
+                independently, handling text with embeddings and numbers with
+                custom scoring. When a user submits a query, we parse it into
+                relevant fields—for instance, extracting “slim pants” as the
+                description and “20” as the price. We then compute cosine
+                similarity between the description embeddings and “slim pants”
+                while also calculating the percent error between the user’s
+                price input and the numerical field. These individual similarity
+                scores are then combined across all columns to generate a final
+                ranking.
+              </p>
+              <p>
+                Right now, our system works best with well-structured data, so
+                some preprocessing is often needed. We’re working on improving
+                this by detecting and restructuring messy data automatically,
+                such as pivoting columns or extracting attributes from large
+                text fields. We’re also adding feedback mechanisms, like a
+                thumbs up/down system, to refine future search results based on
+                user input. I’d love to hear about your experiences with similar
+                search challenges and would appreciate any feedback!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="43196474">
           <h3>
             <a class="item" href="https://news.ycombinator.com/item?id=43196474"
-              >Show HN: Bild AI (YC W25) – Understands Construction Blueprints
+              >Launch HN: Bild AI (YC W25) – Understands Construction Blueprints
               Using AI</a
             >
           </h3>
@@ -140,7 +211,7 @@
             <h4>
               <span>2025-02-27 @ 17:30:51</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43196474"
                   >Comments</a
@@ -220,6 +291,112 @@
             </div>
           </section>
         </section>
+        <section id="43196436">
+          <h3>
+            <a class="item" href="https://cketti.de/2025/02/26/goodbye-k9mail/"
+              >Goodbye K-9 Mail</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-02-27 @ 17:26:21</span
+              ><span class="points-container"
+                >Points: <span class="points">39</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43196436"
+                  >Comments</a
+                ><span class="descendants">: 7</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="43196374">
+          <h3>
+            <a class="item" href="https://github.com/superglue-ai/superglue"
+              >Show HN: Superglue – open source API connector that writes its
+              own code</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-02-27 @ 17:20:22</span
+              ><span class="points-container"
+                >Points: <span class="points">33</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43196374"
+                  >Comments</a
+                ><span class="descendants">: 7</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://superglue.cloud">https://superglue.cloud</a>).
+              superglue allows you to connect to any API/data source and get the
+              data you want in the format you need. It’s an open-source proxy
+              server which sits between you and your target APIs. Thus, you can
+              easily deploy it into your own infra.
+              <p>
+                If you’re spending a lot of time writing code connecting to
+                weird APIs, fumbling with custom fields in foreign language
+                ERPs, mapping JSONs, extracting data from compressed CSVs
+                sitting on FTP servers, and making sure your integrations don’t
+                break when something unexpected comes through, superglue might
+                be for you.
+              </p>
+              <p>
+                Here's how it works: You define your desired data schema and
+                provide basic instructions about an API endpoint (like "get all
+                issues from Jira"). superglue then does the following:
+              </p>
+              <p>
+                - Automatically generates the API configuration by analyzing API
+                docs.
+              </p>
+              <p>- Handles pagination, authentication, and error retries.</p>
+              <p>
+                - Transforms response data into the exact schema you want using
+                JSONata expressions.
+              </p>
+              <p>
+                - Validates that all data coming through follows that schema,
+                and fixes transformations when they break.
+              </p>
+              <p>
+                We built this after noticing how much of our team's time was
+                spent building and maintaining data integration code. Our
+                approach is a bit different to other solutions out there because
+                we (1) use LLMs to generate mapping code, so you can basically
+                build your own universal API with the exact fields that you
+                need, and (2) validate that what you get is what you’re supposed
+                to get, with the ability to “self-heal” if anything goes wrong.
+              </p>
+              <p>
+                You can run superglue yourself (<a
+                  href="https://github.com/superglue-ai/superglue"
+                  >https://github.com/superglue-ai/superglue</a
+                >
+                - license is GPL), or you can use our hosted version (<a
+                  href="https://app.superglue.cloud"
+                  >https://app.superglue.cloud</a
+                >) and our TS SDK (npm i @superglue/client).
+              </p>
+              <p>
+                Here’s a quick demo:
+                <a href="https://www.youtube.com/watch?v=A1gv6P-fas4"
+                  >https://www.youtube.com/watch?v=A1gv6P-fas4</a
+                >
+                You can also try out Jira and Shopify demos on our website (<a
+                  href="https://superglue.cloud"
+                  >https://superglue.cloud</a
+                >)
+              </p>
+              <p>
+                Excited to share superglue with everyone here—it's early so
+                you'll probably find bugs, but we'd love to get your thoughts
+                and see if others find this approach useful!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="43196212">
           <h3>
             <a
@@ -232,11 +409,11 @@
             <h4>
               <span>2025-02-27 @ 17:04:11</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43196212"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -244,19 +421,19 @@
         <section id="43196207">
           <h3>
             <a class="item" href="https://nroottag.github.io/"
-              >Turning a Bluetooth Device into an Apple AirTag Without Root
-              Privileges</a
+              >Turning a Bluetooth device into an Apple AirTag without root
+              privileges</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-02-27 @ 17:03:39</span
               ><span class="points-container"
-                >Points: <span class="points">117</span></span
+                >Points: <span class="points">136</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43196207"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -274,11 +451,33 @@
             <h4>
               <span>2025-02-27 @ 16:14:45</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43195724"
                   >Comments</a
                 ><span class="descendants">: 8</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="43195710">
+          <h3>
+            <a
+              class="item"
+              href="https://restofworld.org/2025/aws-google-cloud-nigeria-alternatives/"
+              >Nigerians are building affordable alternatives to AWS and Google
+              Cloud</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-02-27 @ 16:13:21</span
+              ><span class="points-container"
+                >Points: <span class="points">41</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43195710"
+                  >Comments</a
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -295,11 +494,11 @@
             <h4>
               <span>2025-02-27 @ 16:12:42</span
               ><span class="points-container"
-                >Points: <span class="points">93</span></span
+                >Points: <span class="points">98</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43195702"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
           </section>
@@ -314,11 +513,11 @@
             <h4>
               <span>2025-02-27 @ 15:55:21</span
               ><span class="points-container"
-                >Points: <span class="points">106</span></span
+                >Points: <span class="points">109</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43195525"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -333,11 +532,11 @@
             <h4>
               <span>2025-02-27 @ 15:54:36</span
               ><span class="points-container"
-                >Points: <span class="points">244</span></span
+                >Points: <span class="points">252</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43195516"
                   >Comments</a
-                ><span class="descendants">: 65</span></span
+                ><span class="descendants">: 68</span></span
               >
             </h4>
           </section>
@@ -356,7 +555,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43195308"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -373,11 +572,11 @@
             <h4>
               <span>2025-02-27 @ 15:02:39</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43194971"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
             <div class="text">
@@ -389,27 +588,6 @@
                 already useful for my daily tasks.
               </p>
             </div>
-          </section>
-        </section>
-        <section id="43194538">
-          <h3>
-            <a
-              class="item"
-              href="https://fosdem.org/2025/schedule/event/fosdem-2025-6606-imposing-memory-security-in-c/"
-              >Imposing memory security in C [video]</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-02-27 @ 14:13:04</span
-              ><span class="points-container"
-                >Points: <span class="points">38</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43194538"
-                  >Comments</a
-                ><span class="descendants">: 43</span></span
-              >
-            </h4>
           </section>
         </section>
         <section id="43194434">
@@ -428,7 +606,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43194434"
                   >Comments</a
-                ><span class="descendants">: 56</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -445,11 +623,11 @@
             <h4>
               <span>2025-02-27 @ 12:23:41</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43193714"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -490,6 +668,27 @@
             </h4>
           </section>
         </section>
+        <section id="43192500">
+          <h3>
+            <a
+              class="item"
+              href="https://www.nytimes.com/2025/02/27/obituaries/gene-hackman-dead.html"
+              >Gene Hackman has died</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-02-27 @ 08:46:54</span
+              ><span class="points-container"
+                >Points: <span class="points">100</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43192500"
+                  >Comments</a
+                ><span class="descendants">: 92</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="43190533">
           <h3>
             <a class="item" href="https://github.com/deepseek-ai/DualPipe"
@@ -509,23 +708,6 @@
             </h4>
           </section>
         </section>
-        <section id="43189703">
-          <h3>
-            <a class="item" href="https://bivector.net/">Geometric Algebra</a>
-          </h3>
-          <section>
-            <h4>
-              <span>2025-02-26 @ 23:54:17</span
-              ><span class="points-container"
-                >Points: <span class="points">175</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43189703"
-                  >Comments</a
-                ><span class="descendants">: 42</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="43188971">
           <h3>
             <a class="item" href="https://jcs.org/2025/02/26/imacg4k"
@@ -536,32 +718,11 @@
             <h4>
               <span>2025-02-26 @ 22:25:10</span
               ><span class="points-container"
-                >Points: <span class="points">386</span></span
+                >Points: <span class="points">387</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43188971"
                   >Comments</a
                 ><span class="descendants">: 153</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43187209">
-          <h3>
-            <a
-              class="item"
-              href="https://github.com/vlm-run/vlmrun-cookbook/blob/main/notebooks/01_schema_showcase.ipynb"
-              >Replace OCR with Vision Language Models</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-02-26 @ 19:29:37</span
-              ><span class="points-container"
-                >Points: <span class="points">273</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43187209"
-                  >Comments</a
-                ><span class="descendants">: 114</span></span
               >
             </h4>
           </section>
@@ -577,11 +738,11 @@
             <h4>
               <span>2025-02-26 @ 18:19:05</span
               ><span class="points-container"
-                >Points: <span class="points">1410</span></span
+                >Points: <span class="points">1413</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43186406"
                   >Comments</a
-                ><span class="descendants">: 319</span></span
+                ><span class="descendants">: 320</span></span
               >
             </h4>
             <div class="text">
@@ -595,28 +756,6 @@
             </div>
           </section>
         </section>
-        <section id="43186050">
-          <h3>
-            <a
-              class="item"
-              href="https://www.newyorker.com/magazine/1993/02/22/beverly-hills-hotel-paradise-lost"
-              >The man who spent forty-two years at the Beverly Hills Hotel pool
-              (1993)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-02-26 @ 17:45:19</span
-              ><span class="points-container"
-                >Points: <span class="points">255</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43186050"
-                  >Comments</a
-                ><span class="descendants">: 258</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="43185836">
           <h3>
             <a class="item" href="https://yaak.app"
@@ -628,7 +767,7 @@
             <h4>
               <span>2025-02-26 @ 17:24:51</span
               ><span class="points-container"
-                >Points: <span class="points">93</span></span
+                >Points: <span class="points">96</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43185836"
                   >Comments</a
@@ -679,179 +818,13 @@
             <h4>
               <span>2025-02-26 @ 15:05:02</span
               ><span class="points-container"
-                >Points: <span class="points">1224</span></span
+                >Points: <span class="points">1226</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43184291"
                   >Comments</a
-                ><span class="descendants">: 324</span></span
+                ><span class="descendants">: 325</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="43183891">
-          <h3>
-            <a class="item" href="https://github.com/Sahilb315/AtomixDB"
-              >Show HN: A Database Written in Golang</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-02-26 @ 14:28:26</span
-              ><span class="points-container"
-                >Points: <span class="points">262</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43183891"
-                  >Comments</a
-                ><span class="descendants">: 63</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                Repo link -
-                <a href="https://github.com/Sahilb315/AtomixDB"
-                  >https://github.com/Sahilb315/AtomixDB</a
-                >
-              </p>
-              <p>Would love to hear your thoughts</p>
-            </div>
-          </section>
-        </section>
-        <section id="43183131">
-          <h3>
-            <a class="item" href="https://breakout.lecaro.me/"
-              >Show HN: Breakout with a roguelite/vampire survivor twist</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-02-26 @ 12:42:35</span
-              ><span class="points-container"
-                >Points: <span class="points">377</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43183131"
-                  >Comments</a
-                ><span class="descendants">: 155</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                My girlfriend and I played a lot of the excellent LBreakoutHD,
-                an open source breakout game that follows the traditional
-                formula of having multiple lives, scoring points by breaking
-                bricks and catching the good upgrades that spawn randomly and
-                fall down, while avoiding bad upgrades.
-              </p>
-              <p>
-                She liked this game because it is non-violent, and doesn't make
-                her sick like the first person 3D games. There are some issues
-                though, it gets boring to break the last bricks, it's a bit
-                unfair or slow sometimes, and the run length is too long with 30
-                something levels to clear for a high score.
-              </p>
-              <p>
-                I wanted to make a clone that would be fix those issues. I first
-                tried to introduce more strategy by making the upgrades visible
-                from the start, instead of them appearing randomly. You'd then
-                strategize what to break first to earn more points. That first
-                version is playable (<a href="https://breakout-v1.lecaro.me/"
-                  >https://breakout-v1.lecaro.me/</a
-                >) but a bit too complex.
-              </p>
-              <p>
-                I then wanted to simplify the gameplay, but make the game
-                multiplayer in split screen (<a
-                  href="https://breakout-v2.lecaro.me/"
-                  >https://breakout-v2.lecaro.me/</a
-                >). Instead of bonus and malus, each brick drops some coins, and
-                you need to catch them with the puck. This worked pretty well.
-                You can play with the keyboard (A/D and LEFT/RIGHT keys) or
-                mouse or both. The bomb explosions will blow coins around,
-                including the coins of other players, and if you lose your ball,
-                then a gap opens between your screen and the guy next to you, to
-                give him a chance to lend you his ball. You can play using your
-                phone as a controller by scanning the QR code, but make sure
-                everyone is on the same Wi-Fi and that the the firewalls are
-                down.
-              </p>
-              <p>
-                For my last version (<a href="https://breakout.lecaro.me/"
-                  >https://breakout.lecaro.me/</a
-                >) is focused on the game feel and juice. It is about breaking
-                bricks and catching coins, like the v2, but you can now pick
-                upgrades at the end of each level. Your score unlocks more
-                upgrades and levels that are added to the pool for the next
-                runs. There are currently 31 upgrades and 91 levels to unlock.
-              </p>
-              <p>
-                Please have a try and tell me what you think. The game should
-                run well on Firefox, safari and chrome on mobile and pc. It is
-                available in F-Droid and on the play store, The source code is
-                on GitLab. All links are in the game menu.
-              </p>
-            </div>
-          </section>
-        </section>
-        <section id="43174041">
-          <h3>
-            <a class="item" href="https://github.com/gauge-sh/tach"
-              >Show HN: Tach – Visualize and untangle your Python codebase</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-02-25 @ 16:34:07</span
-              ><span class="points-container"
-                >Points: <span class="points">238</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43174041"
-                  >Comments</a
-                ><span class="descendants">: 57</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                Tach lets you visualize the architecture of your Python
-                codebase, and gives you the tools to incrementally improve it.
-                It uses module boundaries to give teams the benefits of
-                microservices without the deployment complexity.
-              </p>
-              <p>
-                If your code has been getting tangled up as your team and
-                codebase grows, Tach helps you move back in the right direction,
-                incrementally and quickly. You can use Tach to incrementally
-                adopt a "modular monolith" architecture [1], for better local
-                reasoning and smoother feature development.
-              </p>
-              <p>
-                Since our last Show HN (<a
-                  href="https://news.ycombinator.com/item?id=41359181"
-                  >https://news.ycombinator.com/item?id=41359181</a
-                >) we've shipped support for layers, third party dependencies,
-                visualizations, and more.
-              </p>
-              <p>
-                Tach is: * Open source (MIT) * completely free * fast (written
-                in Rust) * in use by teams at NVIDIA, PostHog, and more.
-              </p>
-              <p>
-                One way Tach differs from existing systems that handle this
-                problem (build systems, import linters, etc) is the ability to
-                be incrementally adopted. Also, runtime speed.
-              </p>
-              <p>
-                If you struggle with dependencies, onboarding new engineers, or
-                a massive codebase, Tach is for you! We built it with developers
-                in mind - with clean integrations into Git, CI/CD, and IDEs, and
-                the performance for it to be effective in any form factor.
-              </p>
-              <p>
-                [1]
-                <a
-                  href="https://www.milanjovanovic.tech/blog/what-is-a-modular-monolith"
-                  >https://www.milanjovanovic.tech/blog/what-is-a-modular-monol...</a
-                >
-              </p>
-            </div>
           </section>
         </section>
         <section id="43170108">
@@ -866,7 +839,7 @@
             <h4>
               <span>2025-02-25 @ 10:16:14</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43170108"
                   >Comments</a
@@ -887,11 +860,32 @@
             <h4>
               <span>2025-02-25 @ 06:26:56</span
               ><span class="points-container"
-                >Points: <span class="points">504</span></span
+                >Points: <span class="points">507</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43168838"
                   >Comments</a
                 ><span class="descendants">: 57</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="43168533">
+          <h3>
+            <a
+              class="item"
+              href="https://byroot.github.io/ruby/performance/2025/02/24/http2-past-the-load-balancer.html"
+              >There isn't much point to HTTP/2 past the load balancer</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-02-25 @ 05:33:21</span
+              ><span class="points-container"
+                >Points: <span class="points">73</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43168533"
+                  >Comments</a
+                ><span class="descendants">: 75</span></span
               >
             </h4>
           </section>
@@ -928,7 +922,7 @@
             <h4>
               <span>2025-02-24 @ 11:05:27</span
               ><span class="points-container"
-                >Points: <span class="points">321</span></span
+                >Points: <span class="points">324</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43158166"
                   >Comments</a
@@ -982,7 +976,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43153324"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
