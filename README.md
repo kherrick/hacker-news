@@ -2,7 +2,6 @@
 
 * [2025-02-27, 18:42:01](https://news.ycombinator.com/item?id=43197131) - [EA Open Sources Command and Conquer: Red Alert](https://github.com/electronicarts/CnC_Red_Alert)
 * [2025-02-27, 18:38:47](https://news.ycombinator.com/item?id=43197100) - [Show HN: Compiler Playground for energy-efficient embedded dataflow processor](https://www.efficient.computer/resources/effcc-compiler-playground-launch)
-* [2025-02-27, 18:11:02](https://news.ycombinator.com/item?id=43196845) - [Show HN: LoomLetter – an app to organize newsletters and listen on the go](https://www.loomletter.app/)
 * [2025-02-27, 18:07:35](https://news.ycombinator.com/item?id=43196812) - [Show HN: Wampy, interface addon for Linux-based Walkmans](https://github.com/unknown321/wampy)
 * [2025-02-27, 17:57:17](https://news.ycombinator.com/item?id=43196710) - [Show HN: Ranked Search for Semi-Structured Data](https://demo.tryvoker.com)
 * [2025-02-27, 17:30:51](https://news.ycombinator.com/item?id=43196474) - [Launch HN: Bild AI (YC W25) – Understands Construction Blueprints Using AI](https://news.ycombinator.com/item?id=43196474)
@@ -23,6 +22,7 @@
 * [2025-02-27, 08:46:54](https://news.ycombinator.com/item?id=43192500) - [Gene Hackman has died](https://www.nytimes.com/2025/02/27/obituaries/gene-hackman-dead.html)
 * [2025-02-26, 22:25:10](https://news.ycombinator.com/item?id=43188971) - [iMac G4(K)](https://jcs.org/2025/02/26/imacg4k)
 * [2025-02-26, 18:19:05](https://news.ycombinator.com/item?id=43186406) - [Show HN: I got laid off from Meta and created a minor hit on Steam](https://news.ycombinator.com/item?id=43186406)
+* [2025-02-26, 17:24:51](https://news.ycombinator.com/item?id=43185836) - [Show HN: Yaak – An open source, Git-friendly desktop API client](https://yaak.app)
 * [2025-02-26, 15:05:02](https://news.ycombinator.com/item?id=43184291) - [TypeScript types can run DOOM [video]](https://www.youtube.com/watch?v=0mCsluv5FXA)
 * [2025-02-25, 10:16:14](https://news.ycombinator.com/item?id=43170108) - [Upside Down Air Force](https://www.frontiernet.net/%7Eatlasf/A56UDAF.htm)
 * [2025-02-25, 06:26:56](https://news.ycombinator.com/item?id=43168838) - [Winners of the $10k ISBN visualization bounty](https://annas-archive.org/blog/all-isbns-winners.html)
