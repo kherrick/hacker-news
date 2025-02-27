@@ -26,10 +26,10 @@
 * [2025-02-25, 16:34:07](https://news.ycombinator.com/item?id=43174041) - [Show HN: Tach – Visualize and untangle your Python codebase](https://github.com/gauge-sh/tach)
 * [2025-02-25, 07:11:03](https://news.ycombinator.com/item?id=43169091) - [Simulating Time in Square-Root Space](https://eccc.weizmann.ac.il/report/2025/017/)
 * [2025-02-25, 06:26:56](https://news.ycombinator.com/item?id=43168838) - [Winners of the $10k ISBN visualization bounty](https://annas-archive.org/blog/all-isbns-winners.html)
-* [2025-02-25, 06:17:12](https://news.ycombinator.com/item?id=43168781) - [The Efficiency of Vim](https://bencornia.com/blog/the-efficiency-of-vim)
 * [2025-02-24, 13:28:40](https://news.ycombinator.com/item?id=43159314) - [Writing a .NET Garbage Collector in C# – Part 1](https://minidump.net/2025-28-01-writing-a-net-gc-in-c-part-1/)
 * [2025-02-23, 19:00:21](https://news.ycombinator.com/item?id=43152033) - [Show HN: I created a language called AntiLang – breaking all the conventions](https://siruscodes.github.io/AntiLang/)
 * [2025-02-23, 17:28:03](https://news.ycombinator.com/item?id=43151152) - [Gambling on Papal Conclaves](https://en.wikipedia.org/wiki/Gambling_on_papal_conclaves)
+* [2025-02-23, 05:10:39](https://news.ycombinator.com/item?id=43146758) - [Decompilation of Minecraft: Legacy Console Edition](https://github.com/GRAnimated/MinecraftLCE)
 
 ## [Archives](archives/index.md)
 
