@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-27](index.md)
 
+* [2025-02-27, 14:42:02](https://news.ycombinator.com/item?id=43194778) - [Gene Hackman has died](https://www.theguardian.com/film/2025/feb/27/gene-hackman-dies-wife-dog-95)
 * [2025-02-27, 14:12:54](https://news.ycombinator.com/item?id=43194536) - [Mozilla's New Terms of Use Are Out of Step with Firefox's Direct Competition](https://www.quippd.com/writing/2025/02/26/mozillas-new-terms-of-use-are-out-of-step-with-firefoxs-direct-competition.html)
 * [2025-02-27, 14:00:21](https://news.ycombinator.com/item?id=43194434) - [Can photons reach back in time?](https://drgblackwell.substack.com/p/time-warp-delayed-choice-quantum)
 * [2025-02-27, 13:26:49](https://news.ycombinator.com/item?id=43194175) - [Has anyone tried building tools without coding?](https://news.ycombinator.com/item?id=43194175)
