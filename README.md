@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-02-27, 03:41:24](https://news.ycombinator.com/item?id=43191087) - [U.S. Soldier Charged in AT&T Hack Searched \"Can Hacking Be Treason\"](https://krebsonsecurity.com/2025/02/u-s-soldier-charged-in-att-hack-searched-can-hacking-be-treason/)
+* [2025-02-27, 03:41:24](https://news.ycombinator.com/item?id=43191087) - [U.S. soldier charged in AT&T hack searched \"can hacking be treason\"](https://krebsonsecurity.com/2025/02/u-s-soldier-charged-in-att-hack-searched-can-hacking-be-treason/)
 * [2025-02-27, 02:08:53](https://news.ycombinator.com/item?id=43190533) - [DualPipe: An innovative bidirectional pipeline parallelism algorithm](https://github.com/deepseek-ai/DualPipe)
 * [2025-02-27, 02:01:41](https://news.ycombinator.com/item?id=43190482) - [DeepSeek Open Source Optimized Parallelism Strategies, 3 repos](https://github.com/deepseek-ai/profile-data)
 * [2025-02-26, 23:54:17](https://news.ycombinator.com/item?id=43189703) - [Geometric Algebra](https://bivector.net/)
@@ -9,7 +9,6 @@
 * [2025-02-26, 20:20:39](https://news.ycombinator.com/item?id=43187759) - [Put a data center on the moon?](https://spectrum.ieee.org/data-center-on-the-moon)
 * [2025-02-26, 19:31:25](https://news.ycombinator.com/item?id=43187231) - [Show HN: LLM plays Pokémon (open sourced)](https://github.com/adenta/fire_red_agent)
 * [2025-02-26, 19:29:37](https://news.ycombinator.com/item?id=43187209) - [Replace OCR with Vision Language Models](https://github.com/vlm-run/vlmrun-cookbook/blob/main/notebooks/01_schema_showcase.ipynb)
-* [2025-02-26, 18:36:51](https://news.ycombinator.com/item?id=43186614) - [The need for memory safety standards](https://security.googleblog.com/2025/02/securing-tomorrows-software-need-for.html)
 * [2025-02-26, 18:19:28](https://news.ycombinator.com/item?id=43186413) - [Cross Views](https://moultano.wordpress.com/2025/02/24/you-should-make-cross-views/)
 * [2025-02-26, 18:19:05](https://news.ycombinator.com/item?id=43186406) - [Show HN: I got laid off from Meta and created a minor hit on Steam](https://news.ycombinator.com/item?id=43186406)
 * [2025-02-26, 18:09:39](https://news.ycombinator.com/item?id=43186301) - [Photographs of the Old West](https://cosmographia.substack.com/p/photographs-of-the-old-west)
@@ -28,6 +27,7 @@
 * [2025-02-25, 07:11:03](https://news.ycombinator.com/item?id=43169091) - [Simulating Time in Square-Root Space](https://eccc.weizmann.ac.il/report/2025/017/)
 * [2025-02-25, 06:26:56](https://news.ycombinator.com/item?id=43168838) - [Winners of the $10k ISBN visualization bounty](https://annas-archive.org/blog/all-isbns-winners.html)
 * [2025-02-24, 13:28:40](https://news.ycombinator.com/item?id=43159314) - [Writing a .NET Garbage Collector in C# – Part 1](https://minidump.net/2025-28-01-writing-a-net-gc-in-c-part-1/)
+* [2025-02-24, 11:01:03](https://news.ycombinator.com/item?id=43158139) - [Fortune(6) – Linux Man Page](https://linux.die.net/man/6/fortune)
 * [2025-02-23, 19:00:21](https://news.ycombinator.com/item?id=43152033) - [Show HN: I created a language called AntiLang – breaking all the conventions](https://siruscodes.github.io/AntiLang/)
 * [2025-02-23, 17:28:03](https://news.ycombinator.com/item?id=43151152) - [Gambling on Papal Conclaves](https://en.wikipedia.org/wiki/Gambling_on_papal_conclaves)
 
