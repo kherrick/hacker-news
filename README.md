@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-27, 23:02:24](https://news.ycombinator.com/item?id=43199551) - [Outlook classic dropped from Microsoft 365](https://office-watch.com/2025/outlook-classic-dropped-from-microsoft-365/)
 * [2025-02-27, 22:52:17](https://news.ycombinator.com/item?id=43199460) - [Some Command & Conquer games are now open source](https://github.com/electronicarts)
 * [2025-02-27, 22:41:40](https://news.ycombinator.com/item?id=43199362) - [Carlos Slim cancels his collaboration with Elon Musk's Starlink](https://mexicodailypost.com/2025/02/24/carlos-slim-orders-to-cancel-his-collaboration-with-elon-musks-starlink/)
 * [2025-02-27, 22:28:49](https://news.ycombinator.com/item?id=43199256) - [IBM Completes Acquisition of HashiCorp](https://newsroom.ibm.com/2025-02-27-ibm-completes-acquisition-of-hashicorp,-creates-comprehensive,-end-to-end-hybrid-cloud-platform)
@@ -20,7 +21,6 @@
 * [2025-02-27, 16:12:42](https://news.ycombinator.com/item?id=43195702) - [Distributed systems programming has stalled](https://www.shadaj.me/writing/distributed-programming-stalled)
 * [2025-02-27, 15:55:21](https://news.ycombinator.com/item?id=43195525) - [A $100 DIY muon tomographer](https://spectrum.ieee.org/diy-muon-tomography)
 * [2025-02-27, 15:54:36](https://news.ycombinator.com/item?id=43195516) - [Solitaire](https://localthunk.com/blog/solitaire)
-* [2025-02-27, 15:34:34](https://news.ycombinator.com/item?id=43195308) - [Who was Aleph Null? (2013)](http://bit-player.org/2013/who-was-aleph-null)
 * [2025-02-27, 15:02:39](https://news.ycombinator.com/item?id=43194971) - [Show HN: Probly – Spreadsheets, Python, and AI in the browser](https://github.com/PragmaticMachineLearning/probly)
 * [2025-02-27, 12:23:41](https://news.ycombinator.com/item?id=43193714) - [A data analysis of speeches at the Oscars](https://stephenfollows.com/p/harvey-weinstein-thanked-more-than-god)
 * [2025-02-25, 11:42:02](https://news.ycombinator.com/item?id=43170701) - [Theoi Greek Mythology](https://www.theoi.com/)

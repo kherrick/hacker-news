@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-27](index.md)
 
+* [2025-02-27, 23:02:24](https://news.ycombinator.com/item?id=43199551) - [Outlook classic dropped from Microsoft 365](https://office-watch.com/2025/outlook-classic-dropped-from-microsoft-365/)
 * [2025-02-27, 22:52:17](https://news.ycombinator.com/item?id=43199460) - [Some Command & Conquer games are now open source](https://github.com/electronicarts)
 * [2025-02-27, 22:41:40](https://news.ycombinator.com/item?id=43199362) - [Carlos Slim cancels his collaboration with Elon Musk's Starlink](https://mexicodailypost.com/2025/02/24/carlos-slim-orders-to-cancel-his-collaboration-with-elon-musks-starlink/)
 * [2025-02-27, 22:36:15](https://news.ycombinator.com/item?id=43199314) - [Tell HN: Substack Is Spamming](https://news.ycombinator.com/item?id=43199314)
