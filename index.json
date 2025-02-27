@@ -1,12 +1,52 @@
 [
   [
     [
+      "2025-02-27, 18:23:39",
+      "https://news.ycombinator.com/item?id=43196954"
+    ],
+    [
+      "The FBI's lab leak investigation",
+      "https://www.vanityfair.com/news/story/inside-the-fbis-lab-leak-investigation"
+    ]
+  ],
+  [
+    [
+      "2025-02-27, 17:57:17",
+      "https://news.ycombinator.com/item?id=43196710"
+    ],
+    [
+      "Show HN: Ranked Search for Semi-Structured Data",
+      "https://demo.tryvoker.com"
+    ]
+  ],
+  [
+    [
       "2025-02-27, 17:30:51",
       "https://news.ycombinator.com/item?id=43196474"
     ],
     [
-      "Show HN: Bild AI (YC W25) – Understands Construction Blueprints Using AI",
+      "Launch HN: Bild AI (YC W25) – Understands Construction Blueprints Using AI",
       "https://news.ycombinator.com/item?id=43196474"
+    ]
+  ],
+  [
+    [
+      "2025-02-27, 17:26:21",
+      "https://news.ycombinator.com/item?id=43196436"
+    ],
+    [
+      "Goodbye K-9 Mail",
+      "https://cketti.de/2025/02/26/goodbye-k9mail/"
+    ]
+  ],
+  [
+    [
+      "2025-02-27, 17:20:22",
+      "https://news.ycombinator.com/item?id=43196374"
+    ],
+    [
+      "Show HN: Superglue – open source API connector that writes its own code",
+      "https://github.com/superglue-ai/superglue"
     ]
   ],
   [
@@ -25,7 +65,7 @@
       "https://news.ycombinator.com/item?id=43196207"
     ],
     [
-      "Turning a Bluetooth Device into an Apple AirTag Without Root Privileges",
+      "Turning a Bluetooth device into an Apple AirTag without root privileges",
       "https://nroottag.github.io/"
     ]
   ],
@@ -37,6 +77,16 @@
     [
       "The muon's magnetic moment exposes a hole in the SM – unless it doesn't",
       "https://physicsworld.com/a/the-muons-magnetic-moment-exposes-a-huge-hole-in-the-standard-model-unless-it-doesnt/"
+    ]
+  ],
+  [
+    [
+      "2025-02-27, 16:13:21",
+      "https://news.ycombinator.com/item?id=43195710"
+    ],
+    [
+      "Nigerians are building affordable alternatives to AWS and Google Cloud",
+      "https://restofworld.org/2025/aws-google-cloud-nigeria-alternatives/"
     ]
   ],
   [
@@ -91,16 +141,6 @@
   ],
   [
     [
-      "2025-02-27, 14:13:04",
-      "https://news.ycombinator.com/item?id=43194538"
-    ],
-    [
-      "Imposing memory security in C [video]",
-      "https://fosdem.org/2025/schedule/event/fosdem-2025-6606-imposing-memory-security-in-c/"
-    ]
-  ],
-  [
-    [
       "2025-02-27, 14:00:21",
       "https://news.ycombinator.com/item?id=43194434"
     ],
@@ -141,22 +181,22 @@
   ],
   [
     [
+      "2025-02-27, 08:46:54",
+      "https://news.ycombinator.com/item?id=43192500"
+    ],
+    [
+      "Gene Hackman has died",
+      "https://www.nytimes.com/2025/02/27/obituaries/gene-hackman-dead.html"
+    ]
+  ],
+  [
+    [
       "2025-02-27, 02:08:53",
       "https://news.ycombinator.com/item?id=43190533"
     ],
     [
       "DualPipe: Bidirectional pipeline parallelism algorithm",
       "https://github.com/deepseek-ai/DualPipe"
-    ]
-  ],
-  [
-    [
-      "2025-02-26, 23:54:17",
-      "https://news.ycombinator.com/item?id=43189703"
-    ],
-    [
-      "Geometric Algebra",
-      "https://bivector.net/"
     ]
   ],
   [
@@ -171,32 +211,12 @@
   ],
   [
     [
-      "2025-02-26, 19:29:37",
-      "https://news.ycombinator.com/item?id=43187209"
-    ],
-    [
-      "Replace OCR with Vision Language Models",
-      "https://github.com/vlm-run/vlmrun-cookbook/blob/main/notebooks/01_schema_showcase.ipynb"
-    ]
-  ],
-  [
-    [
       "2025-02-26, 18:19:05",
       "https://news.ycombinator.com/item?id=43186406"
     ],
     [
       "Show HN: I got laid off from Meta and created a minor hit on Steam",
       "https://news.ycombinator.com/item?id=43186406"
-    ]
-  ],
-  [
-    [
-      "2025-02-26, 17:45:19",
-      "https://news.ycombinator.com/item?id=43186050"
-    ],
-    [
-      "The man who spent forty-two years at the Beverly Hills Hotel pool (1993)",
-      "https://www.newyorker.com/magazine/1993/02/22/beverly-hills-hotel-paradise-lost"
     ]
   ],
   [
@@ -221,36 +241,6 @@
   ],
   [
     [
-      "2025-02-26, 14:28:26",
-      "https://news.ycombinator.com/item?id=43183891"
-    ],
-    [
-      "Show HN: A Database Written in Golang",
-      "https://github.com/Sahilb315/AtomixDB"
-    ]
-  ],
-  [
-    [
-      "2025-02-26, 12:42:35",
-      "https://news.ycombinator.com/item?id=43183131"
-    ],
-    [
-      "Show HN: Breakout with a roguelite/vampire survivor twist",
-      "https://breakout.lecaro.me/"
-    ]
-  ],
-  [
-    [
-      "2025-02-25, 16:34:07",
-      "https://news.ycombinator.com/item?id=43174041"
-    ],
-    [
-      "Show HN: Tach – Visualize and untangle your Python codebase",
-      "https://github.com/gauge-sh/tach"
-    ]
-  ],
-  [
-    [
       "2025-02-25, 10:16:14",
       "https://news.ycombinator.com/item?id=43170108"
     ],
@@ -267,6 +257,16 @@
     [
       "Winners of the $10k ISBN visualization bounty",
       "https://annas-archive.org/blog/all-isbns-winners.html"
+    ]
+  ],
+  [
+    [
+      "2025-02-25, 05:33:21",
+      "https://news.ycombinator.com/item?id=43168533"
+    ],
+    [
+      "There isn't much point to HTTP/2 past the load balancer",
+      "https://byroot.github.io/ruby/performance/2025/02/24/http2-past-the-load-balancer.html"
     ]
   ],
   [
