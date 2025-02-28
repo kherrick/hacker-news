@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=43201417"
     ],
     [
-      "macOS Tips and Tricks",
+      "macOS Tips and Tricks (2022)",
       "https://saurabhs.org/macos-tips"
     ]
   ],
@@ -27,6 +27,16 @@
     [
       "Hydrogen cyanide and acetylene detected in a brown dwarf",
       "https://phys.org/news/2025-02-hydrogen-cyanide-acetylene-brown-dwarf.html"
+    ]
+  ],
+  [
+    [
+      "2025-02-28, 02:24:04",
+      "https://news.ycombinator.com/item?id=43201001"
+    ],
+    [
+      "Putting Andrew Ng's OCR models to the test",
+      "https://www.runpulse.com/blog/putting-andrew-ngs-ocr-models-to-the-test"
     ]
   ],
   [
@@ -91,21 +101,11 @@
   ],
   [
     [
-      "2025-02-27, 22:52:17",
-      "https://news.ycombinator.com/item?id=43199460"
-    ],
-    [
-      "Some Command & Conquer games are now open source",
-      "https://github.com/electronicarts"
-    ]
-  ],
-  [
-    [
       "2025-02-27, 22:28:49",
       "https://news.ycombinator.com/item?id=43199256"
     ],
     [
-      "IBM Completes Acquisition of HashiCorp",
+      "IBM completes acquisition of HashiCorp",
       "https://newsroom.ibm.com/2025-02-27-ibm-completes-acquisition-of-hashicorp,-creates-comprehensive,-end-to-end-hybrid-cloud-platform"
     ]
   ],
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2025-02-27, 20:39:29",
-      "https://news.ycombinator.com/item?id=43198245"
-    ],
-    [
-      "Show HN: Wireless video streaming on POV bike display",
-      "https://www.youtube.com/watch?v=o8n-bu2kKnc"
-    ]
-  ],
-  [
-    [
       "2025-02-27, 20:01:16",
       "https://news.ycombinator.com/item?id=43197872"
     ],
@@ -177,6 +167,16 @@
     [
       "What can be computed? A practical guide to the theory of computation (2018) [pdf]",
       "https://www.softouch.on.ca/kb/data/What%20Can%20Be%20Computed.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-02-27, 18:42:01",
+      "https://news.ycombinator.com/item?id=43197131"
+    ],
+    [
+      "EA Open Sources Command and Conquer: Red Alert, along with other games",
+      "https://github.com/electronicarts/CnC_Red_Alert"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2025-02-25, 11:42:02",
-      "https://news.ycombinator.com/item?id=43170701"
-    ],
-    [
-      "Theoi Greek Mythology",
-      "https://www.theoi.com/"
-    ]
-  ],
-  [
-    [
       "2025-02-25, 08:22:33",
       "https://news.ycombinator.com/item?id=43169461"
     ],
     [
       "Spotify's Beta Used 'Pirate' MP3 Files, Some from Pirate Bay",
       "https://torrentfreak.com/spotifys-beta-used-pirate-mp3-files-some-from-pirate-bay-170509/"
+    ]
+  ],
+  [
+    [
+      "2025-02-25, 07:37:21",
+      "https://news.ycombinator.com/item?id=43169226"
+    ],
+    [
+      "Speed or security? Speculative execution in Apple Silicon",
+      "https://eclecticlight.co/2025/02/25/speed-or-security-speculative-execution-in-apple-silicon/"
     ]
   ],
   [
