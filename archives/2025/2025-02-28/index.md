@@ -6,6 +6,7 @@
 
 * [2025-02-28, 13:10:18](https://news.ycombinator.com/item?id=43205196) - [AMD RDNA 4 – AMD Radeon RX 9000 Series Graphics Cards](https://www.amd.com/en/newsroom/press-releases/2025-2-28-amd-unveils-next-generation-amd-rdna-4-architectu.html)
 * [2025-02-28, 13:00:41](https://news.ycombinator.com/item?id=43205126) - [Exploring UK Environment Agency Data with DuckDB and Rill](https://rmoff.net/2025/02/28/exploring-uk-environment-agency-data-in-duckdb-and-rill/)
+* [2025-02-28, 12:58:35](https://news.ycombinator.com/item?id=43205110) - [Waterfox: Fast and Private Web Browser](https://www.waterfox.net/)
 * [2025-02-28, 12:38:46](https://news.ycombinator.com/item?id=43204958) - [SEC Declares Memecoins Are Not Subject to Oversight](https://www.nytimes.com/2025/02/27/business/sec-memecoins.html)
 * [2025-02-28, 12:00:16](https://news.ycombinator.com/item?id=43204682) - [Openlayer (YC S21) is hiring a senior back end engineer](https://www.ycombinator.com/companies/openlayer/jobs/yIE9WI3-senior-backend-engineer)
 * [2025-02-28, 11:47:52](https://news.ycombinator.com/item?id=43204604) - [Netboot Windows 11 with iSCSI and iPXE](https://terinstock.com/post/2025/02/Netboot-Windows-11-with-iSCSI-and-iPXE/)
