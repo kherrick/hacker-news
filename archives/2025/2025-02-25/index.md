@@ -42,6 +42,7 @@
 * [2025-02-25, 12:56:10](https://news.ycombinator.com/item?id=43171265) - [DOGE will use AI to assess the responses of federal workers](https://www.nbcnews.com/politics/doge/federal-workers-agencies-push-back-elon-musks-email-ultimatum-rcna193439)
 * [2025-02-25, 12:53:15](https://news.ycombinator.com/item?id=43171239) - [Embedding Python in Elixir, It's Fine](https://dashbit.co/blog/running-python-in-elixir-its-fine)
 * [2025-02-25, 12:50:14](https://news.ycombinator.com/item?id=43171205) - [Signal to leave Sweden if backdoor law passes](https://swedenherald.com/article/signals-ceo-then-were-leaving-sweden)
+* [2025-02-25, 12:35:56](https://news.ycombinator.com/item?id=43171079) - [Deconstructing the \"Whimsical Animations\" landing page](https://www.joshwcomeau.com/blog/whimsical-animations/)
 * [2025-02-25, 12:27:30](https://news.ycombinator.com/item?id=43171007) - [What do people see when they're tripping? Analyzing Erowid's trip reports](https://themicrodose.substack.com/p/what-do-people-see-when-theyre-tripping)
 * [2025-02-25, 12:27:11](https://news.ycombinator.com/item?id=43171002) - [A Defense of Weird Research](https://asteriskmag.com/issues/09/a-defense-of-weird-research)
 * [2025-02-25, 12:20:51](https://news.ycombinator.com/item?id=43170954) - [Reflections on 25 Years of Blogging](https://interconnected.org/home/2025/02/19/reflections)
