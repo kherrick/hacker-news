@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2025-02-28, 01:18:58",
-      "https://news.ycombinator.com/item?id=43200536"
-    ],
-    [
-      "Show HN: Python micro event loop library (~250 LOC)",
-      "https://gist.github.com/tarruda/5b8c19779c8ff4e8100f0b37eb5981ea"
-    ]
-  ],
-  [
-    [
       "2025-02-28, 01:03:59",
       "https://news.ycombinator.com/item?id=43200450"
     ],
@@ -297,6 +287,16 @@
     [
       "The Natural System of Colours",
       "https://www.c82.net/natural-colors/"
+    ]
+  ],
+  [
+    [
+      "2025-02-24, 09:01:07",
+      "https://news.ycombinator.com/item?id=43157296"
+    ],
+    [
+      "The Great Re-shard: adding Postgres capacity (again) with zero downtime (2023)",
+      "https://www.notion.com/blog/the-great-re-shard"
     ]
   ]
 ]
