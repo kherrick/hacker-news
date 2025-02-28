@@ -24,12 +24,12 @@
 * [2025-02-25, 12:03:04](https://news.ycombinator.com/item?id=43170843) - [Troubleshooting: A skill that never goes obsolete](https://www.autodidacts.io/troubleshooting/)
 * [2025-02-25, 10:54:37](https://news.ycombinator.com/item?id=43170343) - [An illustrated guide to the Kaminsky DNS vulnerability (2008)](http://unixwiz.net/techtips/iguide-kaminsky-dns-vuln.html)
 * [2025-02-25, 09:07:41](https://news.ycombinator.com/item?id=43169715) - [Ask HN: Recommend resources that helped your game dev journey?](https://news.ycombinator.com/item?id=43169715)
+* [2025-02-25, 09:06:21](https://news.ycombinator.com/item?id=43169706) - [Vibe Coding and the Future of Software Engineering](https://alexp.pl/2025/02/19/vibe-coding.html)
 * [2025-02-25, 07:54:00](https://news.ycombinator.com/item?id=43169323) - [Gleam, Coming from Erlang](https://olano.dev/blog/gleam-coming-from-erlang/)
 * [2025-02-25, 07:02:58](https://news.ycombinator.com/item?id=43169054) - [Stone Soup AI (2024)](https://simons.berkeley.edu/news/stone-soup-ai)
 * [2025-02-25, 06:45:09](https://news.ycombinator.com/item?id=43168950) - [The Middle Ages in Computer Games](https://www.medievalists.net/2025/02/new-medieval-books-the-middle-ages-in-computer-games/)
 * [2025-02-24, 15:24:19](https://news.ycombinator.com/item?id=43160582) - [Type 1 diabetes reversed by new cell transplantation technique](https://newatlas.com/diabetes/islet-transplantation-type-1-diabetes/)
 * [2025-02-24, 14:51:53](https://news.ycombinator.com/item?id=43160226) - [Calendar.txt](https://terokarvinen.com/2021/calendar-txt/)
-* [2025-02-24, 14:06:16](https://news.ycombinator.com/item?id=43159692) - [Electric Propulsion Magnets Ready for Space Tests](https://spectrum.ieee.org/electric-propulsion-thruster)
 
 ## [Archives](archives/index.md)
 
