@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-28](index.md)
 
+* [2025-02-28, 15:33:39](https://news.ycombinator.com/item?id=43206722) - [Violence alters human genes for generations, researchers discover](https://news.ufl.edu/2025/02/syrian-violence-epigenetics/)
 * [2025-02-28, 14:45:36](https://news.ycombinator.com/item?id=43206174) - [Write to Escape Your Default Setting](https://kupajo.com/write-to-escape-your-default-setting/)
 * [2025-02-28, 14:03:57](https://news.ycombinator.com/item?id=43205677) - [May 5, Microsoft's Skype will shut down for good](https://arstechnica.com/gadgets/2025/02/on-may-5-microsofts-skype-will-shut-down-for-good/)
 * [2025-02-28, 13:39:18](https://news.ycombinator.com/item?id=43205435) - [Starlink to take over $2.4B contract to overhaul air traffic control comms](https://www.theverge.com/news/620777/starlink-verizon-contract-faa-communication-musk)
