@@ -39,6 +39,7 @@
 * [2025-02-25, 13:15:55](https://news.ycombinator.com/item?id=43171413) - [Zlib-Rs Is Not Only Safer but Now Outperforming Zlib C Implementations](https://www.phoronix.com/news/Zlib-rs-0.4.2)
 * [2025-02-25, 13:11:44](https://news.ycombinator.com/item?id=43171371) - [Unknown illness kills over 50 in Congo with hours between symptoms and death](https://apnews.com/article/congo-mystery-unknown-illness-cd8b1fdcb3b2ed032968b2c6044dc6db)
 * [2025-02-25, 13:06:22](https://news.ycombinator.com/item?id=43171334) - [Show HN: Prioritize Anything with Stacks](https://stack-ranker.com)
+* [2025-02-25, 13:00:51](https://news.ycombinator.com/item?id=43171305) - [Portland's Poisonous Past – Poison Idea Are Hardcore's Greatest of All Time 2013](https://www.portlandmercury.com/music/2013/08/07/10170208/portlands-poisonous-past)
 * [2025-02-25, 12:56:10](https://news.ycombinator.com/item?id=43171265) - [DOGE will use AI to assess the responses of federal workers](https://www.nbcnews.com/politics/doge/federal-workers-agencies-push-back-elon-musks-email-ultimatum-rcna193439)
 * [2025-02-25, 12:53:15](https://news.ycombinator.com/item?id=43171239) - [Embedding Python in Elixir, It's Fine](https://dashbit.co/blog/running-python-in-elixir-its-fine)
 * [2025-02-25, 12:50:14](https://news.ycombinator.com/item?id=43171205) - [Signal to leave Sweden if backdoor law passes](https://swedenherald.com/article/signals-ceo-then-were-leaving-sweden)
