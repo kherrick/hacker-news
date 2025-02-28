@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-28](index.md)
 
+* [2025-02-28, 17:12:26](https://news.ycombinator.com/item?id=43207942) - [Show HN: Globstar – Open-source static analysis toolkit](https://news.ycombinator.com/item?id=43207942)
 * [2025-02-28, 17:01:43](https://news.ycombinator.com/item?id=43207831) - [3,200% CPU Utilization](https://josephmate.github.io/2025-02-26-3200p-cpu-util/)
 * [2025-02-28, 16:18:34](https://news.ycombinator.com/item?id=43207331) - [Medical treatments devised for war can quickly be implemented in US hospitals](https://theconversation.com/how-medical-treatments-devised-for-war-can-quickly-be-implemented-in-us-hospitals-to-save-lives-247752)
 * [2025-02-28, 15:33:39](https://news.ycombinator.com/item?id=43206722) - [Violence alters human genes for generations, researchers discover](https://news.ufl.edu/2025/02/syrian-violence-epigenetics/)

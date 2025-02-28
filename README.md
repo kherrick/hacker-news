@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-28, 17:12:26](https://news.ycombinator.com/item?id=43207942) - [Show HN: Globstar – Open-source static analysis toolkit](https://news.ycombinator.com/item?id=43207942)
 * [2025-02-28, 17:01:43](https://news.ycombinator.com/item?id=43207831) - [3,200% CPU Utilization](https://josephmate.github.io/2025-02-26-3200p-cpu-util/)
 * [2025-02-28, 16:18:34](https://news.ycombinator.com/item?id=43207331) - [Medical treatments devised for war can quickly be implemented in US hospitals](https://theconversation.com/how-medical-treatments-devised-for-war-can-quickly-be-implemented-in-us-hospitals-to-save-lives-247752)
 * [2025-02-28, 15:33:39](https://news.ycombinator.com/item?id=43206722) - [Violence alters human genes for generations, researchers discover](https://news.ufl.edu/2025/02/syrian-violence-epigenetics/)
@@ -18,7 +19,6 @@
 * [2025-02-27, 22:24:22](https://news.ycombinator.com/item?id=43199210) - [World-first experimental cancer treatment paves way for clinical trial](https://www.wehi.edu.au/news/world-first-experimental-cancer-treatment-paves-way-for-clinical-trial/)
 * [2025-02-27, 20:01:16](https://news.ycombinator.com/item?id=43197872) - [GPT-4.5](https://openai.com/index/introducing-gpt-4-5/)
 * [2025-02-27, 18:42:01](https://news.ycombinator.com/item?id=43197131) - [EA Open Sources Command and Conquer: Red Alert, along with other games](https://github.com/electronicarts/CnC_Red_Alert)
-* [2025-02-27, 17:30:51](https://news.ycombinator.com/item?id=43196474) - [Launch HN: Bild AI (YC W25) – Understand Construction Blueprints Using AI](https://news.ycombinator.com/item?id=43196474)
 * [2025-02-25, 12:35:56](https://news.ycombinator.com/item?id=43171079) - [Deconstructing the \"Whimsical Animations\" landing page](https://www.joshwcomeau.com/blog/whimsical-animations/)
 * [2025-02-25, 11:01:39](https://news.ycombinator.com/item?id=43170408) - [Narrative and the Structure of Art (2023)](https://medium.com/luminasticity/narrative-and-the-structure-of-art-1ffbdfe2aece)
 * [2025-02-25, 09:07:41](https://news.ycombinator.com/item?id=43169715) - [Ask HN: Any recommend resources that helped your game dev journey?](https://news.ycombinator.com/item?id=43169715)
