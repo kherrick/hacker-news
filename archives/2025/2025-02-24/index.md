@@ -72,6 +72,7 @@
 * [2025-02-24, 10:52:28](https://news.ycombinator.com/item?id=43158097) - [Show HN: RadiaCode – Python Library for RadiaCode-10x Radiation Detectors](https://github.com/cdump/radiacode)
 * [2025-02-24, 10:34:01](https://news.ycombinator.com/item?id=43157980) - [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/)
 * [2025-02-24, 10:12:37](https://news.ycombinator.com/item?id=43157831) - [Microsoft Cancels Leases for AI Data Centers, Analyst Says](https://www.bloomberg.com/news/articles/2025-02-24/microsoft-cancels-leases-for-ai-data-centers-analyst-says)
+* [2025-02-24, 09:53:00](https://news.ycombinator.com/item?id=43157672) - [Why and How I use \"Org Mode\" for my writing and more](https://www.evalapply.org/posts/why-and-how-i-use-org-mode/index.html)
 * [2025-02-24, 09:22:16](https://news.ycombinator.com/item?id=43157439) - [Making a system highly available isn't just about adding redundancy](https://www.meesho.io/blog/building-highly-available-checkout-system)
 * [2025-02-24, 09:01:07](https://news.ycombinator.com/item?id=43157296) - [The Great Re-shard: adding Postgres capacity (again) with zero downtime (2023)](https://www.notion.com/blog/the-great-re-shard)
 * [2025-02-24, 08:59:11](https://news.ycombinator.com/item?id=43157279) - [Can I run this LLM?](https://canirunthisllm.com/)

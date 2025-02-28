@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-28, 08:27:36](https://news.ycombinator.com/item?id=43203158) - [I found 1000 GitHub repos with malware. Can we get them deleted?](https://timsh.org/github-scam-investigation-thousands-of-mods-and-cracks-stealing-your-data/)
 * [2025-02-28, 08:17:48](https://news.ycombinator.com/item?id=43203096) - [Mozilla deletes promise to never sell Firefox data](https://twitter.com/LundukeJournal/status/1895249805338886591)
 * [2025-02-28, 07:34:38](https://news.ycombinator.com/item?id=43202773) - [WASM Wayland Web (WWW)](https://joeyh.name/blog/entry/WASM_Wayland_Web_WWW/)
 * [2025-02-28, 05:31:49](https://news.ycombinator.com/item?id=43202052) - [Microsoft is reportedly killing Skype after 14 years of neglect](https://www.windowscentral.com/microsoft/microsoft-is-reportedly-killing-skype-after-14-years-of-neglect)
@@ -7,7 +8,6 @@
 * [2025-02-28, 05:00:44](https://news.ycombinator.com/item?id=43201869) - [Mozilla introduces a Terms of Use agreement for Firefox](https://connect.mozilla.org/t5/discussions/information-about-the-new-terms-of-use-and-updated-privacy/m-p/87735#M33600)
 * [2025-02-28, 04:35:47](https://news.ycombinator.com/item?id=43201732) - [US authorities can see more than ever, with Big Tech as their eyes](https://proton.me/blog/big-tech-data-requests-surge)
 * [2025-02-28, 03:34:14](https://news.ycombinator.com/item?id=43201417) - [macOS Tips and Tricks (2022)](https://saurabhs.org/macos-tips)
-* [2025-02-28, 02:46:44](https://news.ycombinator.com/item?id=43201164) - [Hydrogen cyanide and acetylene detected in a brown dwarf](https://phys.org/news/2025-02-hydrogen-cyanide-acetylene-brown-dwarf.html)
 * [2025-02-28, 02:24:04](https://news.ycombinator.com/item?id=43201001) - [Putting Andrew Ng's OCR models to the test](https://www.runpulse.com/blog/putting-andrew-ngs-ocr-models-to-the-test)
 * [2025-02-28, 01:29:49](https://news.ycombinator.com/item?id=43200604) - [Welcome to Ladybird, a truly independent web browser](https://github.com/LadybirdBrowser/ladybird)
 * [2025-02-28, 01:26:26](https://news.ycombinator.com/item?id=43200572) - [Fire-Flyer File System from DeepSeek](https://github.com/deepseek-ai/3FS)
@@ -15,7 +15,6 @@
 * [2025-02-28, 00:05:31](https://news.ycombinator.com/item?id=43200065) - [Mozilla owns \"information you input through Firefox\"](https://www.mozilla.org/en-US/about/legal/terms/firefox/)
 * [2025-02-27, 22:28:49](https://news.ycombinator.com/item?id=43199256) - [IBM completes acquisition of HashiCorp](https://newsroom.ibm.com/2025-02-27-ibm-completes-acquisition-of-hashicorp,-creates-comprehensive,-end-to-end-hybrid-cloud-platform)
 * [2025-02-27, 22:24:22](https://news.ycombinator.com/item?id=43199210) - [World-first experimental cancer treatment paves way for clinical trial](https://www.wehi.edu.au/news/world-first-experimental-cancer-treatment-paves-way-for-clinical-trial/)
-* [2025-02-27, 21:07:57](https://news.ycombinator.com/item?id=43198520) - [Postgres as a Graph Database: (Ab)Using PgRouting](https://supabase.com/blog/pgrouting-postgres-graph-database)
 * [2025-02-27, 21:00:33](https://news.ycombinator.com/item?id=43198457) - [Kastle (YC S24) Is Hiring – AI for Loan Servicing](https://www.ycombinator.com/companies/kastle/jobs/ItDVKB7-founding-backend-engineer-at-kastle-s24)
 * [2025-02-27, 20:51:23](https://news.ycombinator.com/item?id=43198379) - [Nvidia emulation journey, part 1: RIVA 128/NV3 architecture history and overview](https://86box.net/2025/02/25/riva128-part-1.html)
 * [2025-02-27, 20:01:16](https://news.ycombinator.com/item?id=43197872) - [GPT-4.5](https://openai.com/index/introducing-gpt-4-5/)
@@ -30,6 +29,7 @@
 * [2025-02-24, 14:54:48](https://news.ycombinator.com/item?id=43160258) - [VLMaterial: Procedural Material Generation with Large Vision-Language Models](https://arxiv.org/abs/2501.18623)
 * [2025-02-24, 14:51:53](https://news.ycombinator.com/item?id=43160226) - [Calendar.txt](https://terokarvinen.com/2021/calendar-txt/)
 * [2025-02-24, 14:22:42](https://news.ycombinator.com/item?id=43159855) - [The Natural System of Colours](https://www.c82.net/natural-colors/)
+* [2025-02-24, 09:53:00](https://news.ycombinator.com/item?id=43157672) - [Why and How I use \"Org Mode\" for my writing and more](https://www.evalapply.org/posts/why-and-how-i-use-org-mode/index.html)
 
 ## [Archives](archives/index.md)
 
