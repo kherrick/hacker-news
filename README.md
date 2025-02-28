@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-28, 20:33:43](https://news.ycombinator.com/item?id=43210185) - [Show HN: Betting game puzzle (Hamming neighbor sum in linear time)](https://news.ycombinator.com/item?id=43210185)
 * [2025-02-28, 18:59:23](https://news.ycombinator.com/item?id=43209064) - [Merlion: A Machine Learning Framework for Time Series Intelligence](https://github.com/salesforce/Merlion)
 * [2025-02-28, 18:49:46](https://news.ycombinator.com/item?id=43208973) - [Zelensky leaves White House after angry meeting](https://www.bbc.com/news/live/c625ex282zzt)
 * [2025-02-28, 18:02:42](https://news.ycombinator.com/item?id=43208524) - [Harold Cohen and Aaron – A 40-Year Collaboration (2016)](https://computerhistory.org/blog/harold-cohen-and-aaron-a-40-year-collaboration/)
@@ -7,7 +8,6 @@
 * [2025-02-28, 17:01:43](https://news.ycombinator.com/item?id=43207831) - [3,200% CPU Utilization](https://josephmate.github.io/2025-02-26-3200p-cpu-util/)
 * [2025-02-28, 15:33:39](https://news.ycombinator.com/item?id=43206722) - [Violence alters human genes for generations, researchers discover](https://news.ufl.edu/2025/02/syrian-violence-epigenetics/)
 * [2025-02-28, 14:45:36](https://news.ycombinator.com/item?id=43206174) - [Write to Escape Your Default Setting](https://kupajo.com/write-to-escape-your-default-setting/)
-* [2025-02-28, 14:09:19](https://news.ycombinator.com/item?id=43205755) - [Towards an AI Co-Scientist](https://arxiv.org/abs/2502.18864)
 * [2025-02-28, 12:00:16](https://news.ycombinator.com/item?id=43204682) - [Openlayer (YC S21) is hiring a senior back end engineer](https://www.ycombinator.com/companies/openlayer/jobs/yIE9WI3-senior-backend-engineer)
 * [2025-02-28, 11:47:52](https://news.ycombinator.com/item?id=43204604) - [Netboot Windows 11 with iSCSI and iPXE](https://terinstock.com/post/2025/02/Netboot-Windows-11-with-iSCSI-and-iPXE/)
 * [2025-02-28, 11:21:04](https://news.ycombinator.com/item?id=43204406) - [WebShield – A new wide-spectrum content blocker for Safari](https://github.com/arjpar/WebShield)
