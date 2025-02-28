@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-28](index.md)
 
+* [2025-02-28, 20:52:55](https://news.ycombinator.com/item?id=43210569) - [\"No, we are absolutely not prepared to [fork Firefox]\"](https://codeberg.org/librewolf/issues/issues/2252#issuecomment-2886286)
 * [2025-02-28, 20:51:34](https://news.ycombinator.com/item?id=43210537) - [Japanese Toshiba Typewriter Model BW-2112 (2020) [video]](https://www.youtube.com/watch?v=JZcui85b4EE)
 * [2025-02-28, 20:33:43](https://news.ycombinator.com/item?id=43210185) - [Show HN: Betting game puzzle (Hamming neighbor sum in linear time)](https://news.ycombinator.com/item?id=43210185)
 * [2025-02-28, 18:59:23](https://news.ycombinator.com/item?id=43209064) - [Merlion: A Machine Learning Framework for Time Series Intelligence](https://github.com/salesforce/Merlion)
