@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-28, 03:34:14",
+      "https://news.ycombinator.com/item?id=43201417"
+    ],
+    [
+      "macOS Tips and Tricks",
+      "https://saurabhs.org/macos-tips"
+    ]
+  ],
+  [
+    [
+      "2025-02-28, 02:46:44",
+      "https://news.ycombinator.com/item?id=43201164"
+    ],
+    [
+      "Hydrogen cyanide and acetylene detected in a brown dwarf",
+      "https://phys.org/news/2025-02-hydrogen-cyanide-acetylene-brown-dwarf.html"
+    ]
+  ],
+  [
+    [
       "2025-02-28, 02:18:55",
       "https://news.ycombinator.com/item?id=43200960"
     ],
@@ -31,12 +51,12 @@
   ],
   [
     [
-      "2025-02-28, 01:16:40",
-      "https://news.ycombinator.com/item?id=43200524"
+      "2025-02-28, 01:18:58",
+      "https://news.ycombinator.com/item?id=43200536"
     ],
     [
-      "Does iOS Have Sideloading Yet? No",
-      "https://doesioshavesideloadingyet.com/"
+      "Show HN: Python micro event loop library (~250 LOC)",
+      "https://gist.github.com/tarruda/5b8c19779c8ff4e8100f0b37eb5981ea"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "Markov Chains Explained Visually (2014)",
       "https://setosa.io/ev/markov-chains/"
-    ]
-  ],
-  [
-    [
-      "2025-02-28, 00:55:00",
-      "https://news.ycombinator.com/item?id=43200400"
-    ],
-    [
-      "Crossing the uncanny valley of conversational voice",
-      "https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice#demo"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Muon's magnetic moment exposes a hole in the Standard Model, unless it doesn't",
       "https://physicsworld.com/a/the-muons-magnetic-moment-exposes-a-huge-hole-in-the-standard-model-unless-it-doesnt/"
-    ]
-  ],
-  [
-    [
-      "2025-02-27, 16:12:42",
-      "https://news.ycombinator.com/item?id=43195702"
-    ],
-    [
-      "Distributed systems programming has stalled",
-      "https://www.shadaj.me/writing/distributed-programming-stalled"
     ]
   ],
   [
