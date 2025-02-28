@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-02-28, 13:00:41",
-      "https://news.ycombinator.com/item?id=43205126"
-    ],
-    [
-      "Exploring UK Environment Agency Data with DuckDB and Rill",
-      "https://rmoff.net/2025/02/28/exploring-uk-environment-agency-data-in-duckdb-and-rill/"
-    ]
-  ],
-  [
-    [
       "2025-02-28, 12:58:35",
       "https://news.ycombinator.com/item?id=43205110"
     ],
@@ -71,16 +61,6 @@
   ],
   [
     [
-      "2025-02-28, 08:17:48",
-      "https://news.ycombinator.com/item?id=43203096"
-    ],
-    [
-      "Mozilla deletes promise to never sell Firefox data",
-      "https://twitter.com/LundukeJournal/status/1895249805338886591"
-    ]
-  ],
-  [
-    [
       "2025-02-28, 08:02:33",
       "https://news.ycombinator.com/item?id=43202982"
     ],
@@ -91,12 +71,12 @@
   ],
   [
     [
-      "2025-02-28, 07:34:38",
-      "https://news.ycombinator.com/item?id=43202773"
+      "2025-02-28, 05:31:49",
+      "https://news.ycombinator.com/item?id=43202052"
     ],
     [
-      "WASM Wayland Web (WWW)",
-      "https://joeyh.name/blog/entry/WASM_Wayland_Web_WWW/"
+      "Microsoft is reportedly killing Skype after 14 years of neglect",
+      "https://www.windowscentral.com/microsoft/microsoft-is-reportedly-killing-skype-after-14-years-of-neglect"
     ]
   ],
   [
@@ -161,6 +141,16 @@
   ],
   [
     [
+      "2025-02-28, 00:05:31",
+      "https://news.ycombinator.com/item?id=43200065"
+    ],
+    [
+      "Mozilla owns \"information you input through Firefox\"",
+      "https://www.mozilla.org/en-US/about/legal/terms/firefox/"
+    ]
+  ],
+  [
+    [
       "2025-02-27, 22:28:49",
       "https://news.ycombinator.com/item?id=43199256"
     ],
@@ -201,12 +191,22 @@
   ],
   [
     [
-      "2025-02-27, 17:03:39",
-      "https://news.ycombinator.com/item?id=43196207"
+      "2025-02-27, 17:30:51",
+      "https://news.ycombinator.com/item?id=43196474"
     ],
     [
-      "Turning a Bluetooth device into an Apple AirTag without root privileges",
-      "https://nroottag.github.io/"
+      "Launch HN: Bild AI (YC W25) – Understand Construction Blueprints Using AI",
+      "https://news.ycombinator.com/item?id=43196474"
+    ]
+  ],
+  [
+    [
+      "2025-02-27, 15:54:36",
+      "https://news.ycombinator.com/item?id=43195516"
+    ],
+    [
+      "Solitaire",
+      "https://localthunk.com/blog/solitaire"
     ]
   ],
   [
@@ -221,22 +221,22 @@
   ],
   [
     [
+      "2025-02-25, 09:07:41",
+      "https://news.ycombinator.com/item?id=43169715"
+    ],
+    [
+      "Ask HN: Any recommend resources that helped your game dev journey?",
+      "https://news.ycombinator.com/item?id=43169715"
+    ]
+  ],
+  [
+    [
       "2025-02-25, 08:22:33",
       "https://news.ycombinator.com/item?id=43169461"
     ],
     [
       "Spotify's Beta Used 'Pirate' MP3 Files, Some from Pirate Bay",
       "https://torrentfreak.com/spotifys-beta-used-pirate-mp3-files-some-from-pirate-bay-170509/"
-    ]
-  ],
-  [
-    [
-      "2025-02-25, 07:54:00",
-      "https://news.ycombinator.com/item?id=43169323"
-    ],
-    [
-      "Gleam, Coming from Erlang",
-      "https://olano.dev/blog/gleam-coming-from-erlang/"
     ]
   ],
   [
