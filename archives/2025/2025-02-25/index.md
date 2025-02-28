@@ -48,6 +48,7 @@
 * [2025-02-25, 12:20:51](https://news.ycombinator.com/item?id=43170954) - [Reflections on 25 Years of Blogging](https://interconnected.org/home/2025/02/19/reflections)
 * [2025-02-25, 12:14:51](https://news.ycombinator.com/item?id=43170908) - [Elon Musk spells danger for Accenture, McKinsey and their rivals](https://www.economist.com/business/2025/02/19/elon-musk-spells-danger-for-accenture-mckinsey-and-their-rivals)
 * [2025-02-25, 12:04:00](https://news.ycombinator.com/item?id=43170850) - [Tell HN: Y Combinator backing AI company to abuse factory workers](https://news.ycombinator.com/item?id=43170850)
+* [2025-02-25, 12:03:04](https://news.ycombinator.com/item?id=43170843) - [The skill that never goes obsolete](https://www.autodidacts.io/troubleshooting/)
 * [2025-02-25, 11:50:29](https://news.ycombinator.com/item?id=43170756) - [US court upholds Theranos founder Elizabeth Holmes's conviction](https://www.theguardian.com/technology/2025/feb/24/elizabeth-holmes-theranos-conviction)
 * [2025-02-25, 11:45:20](https://news.ycombinator.com/item?id=43170718) - [Tesla sales almost halved in Europe last month](https://www.businessinsider.com/tesla-sales-europe-tumbled-elon-musk-china-evs-2025-2)
 * [2025-02-25, 11:42:02](https://news.ycombinator.com/item?id=43170701) - [Theoi Greek Mythology](https://www.theoi.com/)
