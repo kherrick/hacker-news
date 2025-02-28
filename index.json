@@ -1,22 +1,42 @@
 [
   [
     [
-      "2025-02-28, 12:58:35",
-      "https://news.ycombinator.com/item?id=43205110"
+      "2025-02-28, 14:45:36",
+      "https://news.ycombinator.com/item?id=43206174"
     ],
     [
-      "Waterfox: Fast and Private Web Browser",
-      "https://www.waterfox.net/"
+      "Write to Escape Your Default Setting",
+      "https://kupajo.com/write-to-escape-your-default-setting/"
     ]
   ],
   [
     [
-      "2025-02-28, 12:38:46",
-      "https://news.ycombinator.com/item?id=43204958"
+      "2025-02-28, 14:03:57",
+      "https://news.ycombinator.com/item?id=43205677"
     ],
     [
-      "SEC Declares Memecoins Are Not Subject to Oversight",
-      "https://www.nytimes.com/2025/02/27/business/sec-memecoins.html"
+      "May 5, Microsoft's Skype will shut down for good",
+      "https://arstechnica.com/gadgets/2025/02/on-may-5-microsofts-skype-will-shut-down-for-good/"
+    ]
+  ],
+  [
+    [
+      "2025-02-28, 13:39:18",
+      "https://news.ycombinator.com/item?id=43205435"
+    ],
+    [
+      "Starlink to take over $2.4B contract to overhaul air traffic control comms",
+      "https://www.theverge.com/news/620777/starlink-verizon-contract-faa-communication-musk"
+    ]
+  ],
+  [
+    [
+      "2025-02-28, 13:10:18",
+      "https://news.ycombinator.com/item?id=43205196"
+    ],
+    [
+      "AMD RDNA 4 – AMD Radeon RX 9000 Series Graphics Cards",
+      "https://www.amd.com/en/newsroom/press-releases/2025-2-28-amd-unveils-next-generation-amd-rdna-4-architectu.html"
     ]
   ],
   [
@@ -47,6 +67,16 @@
     [
       "WebShield – A new wide-spectrum content blocker for Safari",
       "https://github.com/arjpar/WebShield"
+    ]
+  ],
+  [
+    [
+      "2025-02-28, 11:15:57",
+      "https://news.ycombinator.com/item?id=43204376"
+    ],
+    [
+      "A Comment on Mozilla's Policy Changes",
+      "https://www.waterfox.net/blog/a-comment-on-mozilla-changes/"
     ]
   ],
   [
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2025-02-28, 03:34:14",
-      "https://news.ycombinator.com/item?id=43201417"
-    ],
-    [
-      "macOS Tips and Tricks (2022)",
-      "https://saurabhs.org/macos-tips"
-    ]
-  ],
-  [
-    [
       "2025-02-28, 02:24:04",
       "https://news.ycombinator.com/item?id=43201001"
     ],
@@ -137,26 +157,6 @@
     [
       "Markov Chains Explained Visually (2014)",
       "https://setosa.io/ev/markov-chains/"
-    ]
-  ],
-  [
-    [
-      "2025-02-28, 00:05:31",
-      "https://news.ycombinator.com/item?id=43200065"
-    ],
-    [
-      "Mozilla owns \"information you input through Firefox\"",
-      "https://www.mozilla.org/en-US/about/legal/terms/firefox/"
-    ]
-  ],
-  [
-    [
-      "2025-02-27, 22:28:49",
-      "https://news.ycombinator.com/item?id=43199256"
-    ],
-    [
-      "IBM completes acquisition of HashiCorp",
-      "https://newsroom.ibm.com/2025-02-27-ibm-completes-acquisition-of-hashicorp,-creates-comprehensive,-end-to-end-hybrid-cloud-platform"
     ]
   ],
   [
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=43170408"
     ],
     [
-      "Narrative and the Structure of Art",
+      "Narrative and the Structure of Art (2023)",
       "https://medium.com/luminasticity/narrative-and-the-structure-of-art-1ffbdfe2aece"
     ]
   ],
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=43169461"
     ],
     [
-      "Spotify's Beta Used 'Pirate' MP3 Files, Some from Pirate Bay",
+      "Spotify's Beta Used 'Pirate' MP3 Files, Some from Pirate Bay (2017)",
       "https://torrentfreak.com/spotifys-beta-used-pirate-mp3-files-some-from-pirate-bay-170509/"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=43157672"
     ],
     [
-      "Why and How I use \"Org Mode\" for my writing and more",
+      "Why and How I use “Org Mode” for my writing and more (2022)",
       "https://www.evalapply.org/posts/why-and-how-i-use-org-mode/index.html"
     ]
   ]
