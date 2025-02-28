@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-28, 05:20:13](https://news.ycombinator.com/item?id=43201974) - [Microsoft begins turning off uBlock Origin and other extensions in Edge](https://www.neowin.net/news/microsoft-begins-turning-off-ublock-origin-and-other-extensions-in-edge/)
+* [2025-02-28, 05:00:44](https://news.ycombinator.com/item?id=43201869) - [Mozilla introduces a Terms of Use agreement for Firefox](https://connect.mozilla.org/t5/discussions/information-about-the-new-terms-of-use-and-updated-privacy/m-p/87735#M33600)
 * [2025-02-28, 04:35:47](https://news.ycombinator.com/item?id=43201732) - [US authorities can see more than ever, with Big Tech as their eyes](https://proton.me/blog/big-tech-data-requests-surge)
 * [2025-02-28, 03:34:14](https://news.ycombinator.com/item?id=43201417) - [macOS Tips and Tricks (2022)](https://saurabhs.org/macos-tips)
 * [2025-02-28, 02:46:44](https://news.ycombinator.com/item?id=43201164) - [Hydrogen cyanide and acetylene detected in a brown dwarf](https://phys.org/news/2025-02-hydrogen-cyanide-acetylene-brown-dwarf.html)
@@ -23,7 +24,6 @@
 * [2025-02-27, 17:03:39](https://news.ycombinator.com/item?id=43196207) - [Turning a Bluetooth device into an Apple AirTag without root privileges](https://nroottag.github.io/)
 * [2025-02-27, 15:55:21](https://news.ycombinator.com/item?id=43195525) - [A $100 DIY muon tomographer](https://spectrum.ieee.org/diy-muon-tomography)
 * [2025-02-27, 15:54:36](https://news.ycombinator.com/item?id=43195516) - [Solitaire](https://localthunk.com/blog/solitaire)
-* [2025-02-27, 15:02:39](https://news.ycombinator.com/item?id=43194971) - [Show HN: Probly – Spreadsheets, Python, and AI in the browser](https://github.com/PragmaticMachineLearning/probly)
 * [2025-02-27, 12:23:41](https://news.ycombinator.com/item?id=43193714) - [A data analysis of speeches at the Oscars](https://stephenfollows.com/p/harvey-weinstein-thanked-more-than-god)
 * [2025-02-25, 08:22:33](https://news.ycombinator.com/item?id=43169461) - [Spotify's Beta Used 'Pirate' MP3 Files, Some from Pirate Bay](https://torrentfreak.com/spotifys-beta-used-pirate-mp3-files-some-from-pirate-bay-170509/)
 * [2025-02-25, 07:37:21](https://news.ycombinator.com/item?id=43169226) - [Speed or security? Speculative execution in Apple Silicon](https://eclecticlight.co/2025/02/25/speed-or-security-speculative-execution-in-apple-silicon/)
