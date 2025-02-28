@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-28](index.md)
 
+* [2025-02-28, 12:38:46](https://news.ycombinator.com/item?id=43204958) - [SEC Declares Memecoins Are Not Subject to Oversight](https://www.nytimes.com/2025/02/27/business/sec-memecoins.html)
 * [2025-02-28, 12:00:16](https://news.ycombinator.com/item?id=43204682) - [Openlayer (YC S21) is hiring a senior back end engineer](https://www.ycombinator.com/companies/openlayer/jobs/yIE9WI3-senior-backend-engineer)
 * [2025-02-28, 11:47:52](https://news.ycombinator.com/item?id=43204604) - [Netboot Windows 11 with iSCSI and iPXE](https://terinstock.com/post/2025/02/Netboot-Windows-11-with-iSCSI-and-iPXE/)
 * [2025-02-28, 11:15:57](https://news.ycombinator.com/item?id=43204376) - [A Comment on Mozilla's Policy Changes](https://www.waterfox.net/blog/a-comment-on-mozilla-changes/)
