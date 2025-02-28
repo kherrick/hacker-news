@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-02-28](index.md)
 
+* [2025-02-28, 03:34:14](https://news.ycombinator.com/item?id=43201417) - [macOS Tips and Tricks](https://saurabhs.org/macos-tips)
+* [2025-02-28, 02:46:44](https://news.ycombinator.com/item?id=43201164) - [Hydrogen cyanide and acetylene detected in a brown dwarf](https://phys.org/news/2025-02-hydrogen-cyanide-acetylene-brown-dwarf.html)
 * [2025-02-28, 02:18:55](https://news.ycombinator.com/item?id=43200960) - [Doc NTIA lead nominee criticizes \"woke\" and \"socialist\" fiber broadband subsidy](https://broadbandbreakfast.com/incoming-ntia-chief-doesnt-like-beads-fiber-preference-low-cost-mandates-2/)
 * [2025-02-28, 01:29:49](https://news.ycombinator.com/item?id=43200604) - [Welcome to Ladybird, a truly independent web browser](https://github.com/LadybirdBrowser/ladybird)
 * [2025-02-28, 01:26:26](https://news.ycombinator.com/item?id=43200572) - [Fire-Flyer File System from DeepSeek](https://github.com/deepseek-ai/3FS)
+* [2025-02-28, 01:18:58](https://news.ycombinator.com/item?id=43200536) - [Show HN: Python micro event loop library (~250 LOC)](https://gist.github.com/tarruda/5b8c19779c8ff4e8100f0b37eb5981ea)
 * [2025-02-28, 01:16:40](https://news.ycombinator.com/item?id=43200524) - [Does iOS Have Sideloading Yet? No](https://doesioshavesideloadingyet.com/)
 * [2025-02-28, 01:03:59](https://news.ycombinator.com/item?id=43200450) - [Markov Chains Explained Visually (2014)](https://setosa.io/ev/markov-chains/)
 * [2025-02-28, 00:55:00](https://news.ycombinator.com/item?id=43200400) - [Crossing the uncanny valley of conversational voice](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice#demo)
