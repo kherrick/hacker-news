@@ -129,6 +129,108 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="43210185">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=43210185"
+              >Show HN: Betting game puzzle (Hamming neighbor sum in linear
+              time)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-02-28 @ 20:33:43</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43210185"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://es.wikipedia.org/wiki/La_Quiniela_(Espa%C3%B1a)"
+                >https://es.wikipedia.org/wiki/La_Quiniela_(Espa%C3%B1a)</a
+              >
+              <p>
+                Players predict the outcome of 14 football matches (home win,
+                draw, away win). You win money if you get at least 10 correct,
+                and the prize amount depends on the number of winners. Since all
+                bets are public, the number of winners and the corresponding
+                payouts can be estimated for each of the 3^14 possible outcomes.
+                We can also estimate their probabilities using bookmaker odds,
+                allowing us to compute the expected value for each prediction.
+              </p>
+              <p>
+                As a side project, I wanted to analyze this, but ran into a
+                computational bottleneck: to evaluate a prediction, I had to sum
+                the values of all its Hamming neighbors up to distance 4. That’s
+                nearly 20,000 neighbors per prediction
+                (1+28+364+2912+16016=19321):
+              </p>
+              <p>
+                S_naive = sum from k=0 to r of [(d! / ((d-k)! * k!)) * (q-1)^k]
+                (d=14, q=3, r=4)
+              </p>
+              <p>
+                This took days to run in my first implementation. Optimizing and
+                doing it with matrices brought it down to 20 minutes—still too
+                slow (im running it in GAS with 6 minutes limit). For a while, I
+                used a heuristic: start from a random prediction, check its 28
+                nearest neighbors, move to the highest-value one, and repeat
+                until no improvement is possible within distance 3. It worked
+                surprisingly well.
+              </p>
+              <p>
+                But I kept thinking about how to solve the problem properly.
+                Eventually, I realized that partial sums could be accumulated
+                efficiently by exploiting overlaps: if two predictions A and B
+                share neighbors, their shared neighbors can be computed once and
+                reused. This is achieved through a basic transformation that I
+                implemented using reshape, roll, and flatten (it is probably not
+                the most efficient implementation but it is the clearest), which
+                realigns the matrix by applying an offset in dimension i. This
+                transformation has two key properties that enable reducing the
+                number of summations from 19,321 to just 101:
+              </p>
+              <p>- T(T(space, d1), d2) = T(T(space, d2), d1)</p>
+              <p>- T(space1, d) + T(space2, d) = T(space1+space2, d)</p>
+              <p>Number of sums would be the result of this expression:</p>
+              <p>S_PSA = 1 + (d - (r-1)/2) * r * (q-1)</p>
+              <p>
+                I've generalized the algorithm for any number of dimensions,
+                elements per dimension, and summation radius. The implementation
+                is in pure NumPy. I have uploaded the code to colab, github and
+                an explanation in my blog.
+              </p>
+              <p>
+                Apparently, this falls under Hamming neighbor summation, but I
+                haven't found similar approaches elsewhere (maybe I'm searching
+                poorly). If you know or you've worked on something similar, I'd
+                love to hear your thoughts!
+              </p>
+              <p>
+                colab:
+                <a
+                  href="https://colab.research.google.com/drive/1aENKd7eemGqmjdB8Y6ysxAx4BykguXUM?usp=sharing"
+                  >https://colab.research.google.com/drive/1aENKd7eemGqmjdB8Y6y...</a
+                >
+              </p>
+              <p>
+                github:
+                <a href="https://github.com/petopello/PSA"
+                  >https://github.com/petopello/PSA</a
+                >
+              </p>
+              <p>
+                blog:
+                <a
+                  href="https://sudapollismo.substack.com/p/partial-sum-accumulation-algorithm"
+                  >https://sudapollismo.substack.com/p/partial-sum-accumulation...</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="43209064">
           <h3>
             <a class="item" href="https://github.com/salesforce/Merlion"
@@ -140,11 +242,11 @@
             <h4>
               <span>2025-02-28 @ 18:59:23</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43209064"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -159,11 +261,11 @@
             <h4>
               <span>2025-02-28 @ 18:49:46</span
               ><span class="points-container"
-                >Points: <span class="points">558</span></span
+                >Points: <span class="points">665</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43208973"
                   >Comments</a
-                ><span class="descendants">: 520</span></span
+                ><span class="descendants">: 652</span></span
               >
             </h4>
           </section>
@@ -203,7 +305,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43207942"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
             <div class="text">
@@ -306,11 +408,11 @@
             <h4>
               <span>2025-02-28 @ 17:01:43</span
               ><span class="points-container"
-                >Points: <span class="points">217</span></span
+                >Points: <span class="points">223</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43207831"
                   >Comments</a
-                ><span class="descendants">: 95</span></span
+                ><span class="descendants">: 96</span></span
               >
             </h4>
           </section>
@@ -328,11 +430,11 @@
             <h4>
               <span>2025-02-28 @ 15:33:39</span
               ><span class="points-container"
-                >Points: <span class="points">278</span></span
+                >Points: <span class="points">284</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43206722"
                   >Comments</a
-                ><span class="descendants">: 181</span></span
+                ><span class="descendants">: 185</span></span
               >
             </h4>
           </section>
@@ -349,30 +451,11 @@
             <h4>
               <span>2025-02-28 @ 14:45:36</span
               ><span class="points-container"
-                >Points: <span class="points">182</span></span
+                >Points: <span class="points">188</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43206174"
                   >Comments</a
                 ><span class="descendants">: 54</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43205755">
-          <h3>
-            <a class="item" href="https://arxiv.org/abs/2502.18864"
-              >Towards an AI Co-Scientist</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-02-28 @ 14:09:19</span
-              ><span class="points-container"
-                >Points: <span class="points">30</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43205755"
-                  >Comments</a
-                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -425,11 +508,11 @@
             <h4>
               <span>2025-02-28 @ 11:21:04</span
               ><span class="points-container"
-                >Points: <span class="points">97</span></span
+                >Points: <span class="points">98</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43204406"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -468,11 +551,11 @@
             <h4>
               <span>2025-02-28 @ 05:20:13</span
               ><span class="points-container"
-                >Points: <span class="points">660</span></span
+                >Points: <span class="points">663</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43201974"
                   >Comments</a
-                ><span class="descendants">: 394</span></span
+                ><span class="descendants">: 396</span></span
               >
             </h4>
           </section>
@@ -489,11 +572,11 @@
             <h4>
               <span>2025-02-28 @ 04:26:52</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43201682"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -508,11 +591,11 @@
             <h4>
               <span>2025-02-28 @ 01:26:26</span
               ><span class="points-container"
-                >Points: <span class="points">309</span></span
+                >Points: <span class="points">311</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43200572"
                   >Comments</a
-                ><span class="descendants">: 77</span></span
+                ><span class="descendants">: 78</span></span
               >
             </h4>
           </section>
@@ -530,7 +613,7 @@
             <h4>
               <span>2025-02-27 @ 18:42:01</span
               ><span class="points-container"
-                >Points: <span class="points">1149</span></span
+                >Points: <span class="points">1154</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43197131"
                   >Comments</a
@@ -552,7 +635,7 @@
             <h4>
               <span>2025-02-27 @ 18:27:01</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43196996"
                   >Comments</a
@@ -574,7 +657,7 @@
             <h4>
               <span>2025-02-26 @ 17:31:58</span
               ><span class="points-container"
-                >Points: <span class="points">69</span></span
+                >Points: <span class="points">76</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43185909"
                   >Comments</a
@@ -593,7 +676,7 @@
             <h4>
               <span>2025-02-26 @ 09:41:38</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43182241"
                   >Comments</a
@@ -656,7 +739,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43171079"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -671,11 +754,11 @@
             <h4>
               <span>2025-02-25 @ 12:03:04</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43170843"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -712,7 +795,7 @@
             <h4>
               <span>2025-02-25 @ 09:07:41</span
               ><span class="points-container"
-                >Points: <span class="points">124</span></span
+                >Points: <span class="points">127</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43169715"
                   >Comments</a
@@ -784,7 +867,7 @@
             <h4>
               <span>2025-02-25 @ 07:02:58</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43169054"
                   >Comments</a
@@ -805,11 +888,11 @@
             <h4>
               <span>2025-02-25 @ 06:45:09</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43168950"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -826,7 +909,7 @@
             <h4>
               <span>2025-02-24 @ 15:24:19</span
               ><span class="points-container"
-                >Points: <span class="points">452</span></span
+                >Points: <span class="points">453</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43160582"
                   >Comments</a
@@ -845,7 +928,7 @@
             <h4>
               <span>2025-02-24 @ 14:51:53</span
               ><span class="points-container"
-                >Points: <span class="points">232</span></span
+                >Points: <span class="points">235</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43160226"
                   >Comments</a
@@ -866,7 +949,7 @@
             <h4>
               <span>2025-02-24 @ 14:06:16</span
               ><span class="points-container"
-                >Points: <span class="points">80</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43159692"
                   >Comments</a
