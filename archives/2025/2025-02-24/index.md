@@ -56,6 +56,7 @@
 * [2025-02-24, 11:58:26](https://news.ycombinator.com/item?id=43158529) - [Our Epidemic of Loneliness and Isolation [pdf]](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf)
 * [2025-02-24, 11:46:36](https://news.ycombinator.com/item?id=43158442) - [The Wrongs of Thomas More (Wrong 5)](https://nealstephenson.substack.com/p/the-wrongs-of-thomas-more-wrong-5)
 * [2025-02-24, 11:43:42](https://news.ycombinator.com/item?id=43158425) - [Show HN: I scrape Steam data every month and it's yours to download for free](https://www.gginsights.io)
+* [2025-02-24, 11:41:47](https://news.ycombinator.com/item?id=43158402) - [Ask HN: Have you written or consumed OpenAPI Arazzo specification?](https://news.ycombinator.com/item?id=43158402)
 * [2025-02-24, 11:29:26](https://news.ycombinator.com/item?id=43158318) - [Apache NetBeans 25](https://github.com/apache/netbeans/releases/tag/25)
 * [2025-02-24, 11:26:13](https://news.ycombinator.com/item?id=43158292) - [Is Ketamine Neurotoxic?](https://desmolysium.com/ketamineneurotoxic/)
 * [2025-02-24, 11:21:22](https://news.ycombinator.com/item?id=43158262) - [Freelancing: How I found clients, part 1](https://crocspace.substack.com/p/freelancing-how-i-got-clients-part)
