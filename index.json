@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-28, 08:17:48",
+      "https://news.ycombinator.com/item?id=43203096"
+    ],
+    [
+      "Mozilla deletes promise to never sell Firefox data",
+      "https://twitter.com/LundukeJournal/status/1895249805338886591"
+    ]
+  ],
+  [
+    [
       "2025-02-28, 05:31:49",
       "https://news.ycombinator.com/item?id=43202052"
     ],
@@ -287,16 +297,6 @@
     [
       "The Natural System of Colours",
       "https://www.c82.net/natural-colors/"
-    ]
-  ],
-  [
-    [
-      "2025-02-24, 09:01:07",
-      "https://news.ycombinator.com/item?id=43157296"
-    ],
-    [
-      "The Great Re-shard: adding Postgres capacity (again) with zero downtime (2023)",
-      "https://www.notion.com/blog/the-great-re-shard"
     ]
   ]
 ]
