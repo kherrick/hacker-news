@@ -68,6 +68,7 @@
 * [2025-02-25, 07:37:21](https://news.ycombinator.com/item?id=43169226) - [Speed or security? Speculative execution in Apple Silicon](https://eclecticlight.co/2025/02/25/speed-or-security-speculative-execution-in-apple-silicon/)
 * [2025-02-25, 07:13:23](https://news.ycombinator.com/item?id=43169103) - [What would happen if we didn't use TCP or UDP?](https://github.com/Hawzen/hdp)
 * [2025-02-25, 07:11:03](https://news.ycombinator.com/item?id=43169091) - [Simulating Time in Square-Root Space](https://eccc.weizmann.ac.il/report/2025/017/)
+* [2025-02-25, 07:02:58](https://news.ycombinator.com/item?id=43169054) - [Stone Soup AI (2024)](https://simons.berkeley.edu/news/stone-soup-ai)
 * [2025-02-25, 06:56:07](https://news.ycombinator.com/item?id=43169017) - [Finnegans Wake Extensible Elucidation Treasury](http://fweet.org/)
 * [2025-02-25, 06:26:56](https://news.ycombinator.com/item?id=43168838) - [Winners of the $10k ISBN visualization bounty](https://annas-archive.org/blog/all-isbns-winners.html)
 * [2025-02-25, 06:17:12](https://news.ycombinator.com/item?id=43168781) - [The Efficiency of Vim](https://bencornia.com/blog/the-efficiency-of-vim)
