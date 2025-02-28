@@ -20,7 +20,6 @@
 * [2025-02-27, 22:24:22](https://news.ycombinator.com/item?id=43199210) - [World-first experimental cancer treatment paves way for clinical trial](https://www.wehi.edu.au/news/world-first-experimental-cancer-treatment-paves-way-for-clinical-trial/)
 * [2025-02-27, 20:01:16](https://news.ycombinator.com/item?id=43197872) - [GPT-4.5](https://openai.com/index/introducing-gpt-4-5/)
 * [2025-02-27, 18:42:01](https://news.ycombinator.com/item?id=43197131) - [EA Open Sources Command and Conquer: Red Alert, along with other games](https://github.com/electronicarts/CnC_Red_Alert)
-* [2025-02-27, 17:30:51](https://news.ycombinator.com/item?id=43196474) - [Launch HN: Bild AI (YC W25) – Understand Construction Blueprints Using AI](https://news.ycombinator.com/item?id=43196474)
 * [2025-02-25, 12:35:56](https://news.ycombinator.com/item?id=43171079) - [Deconstructing the \"Whimsical Animations\" landing page](https://www.joshwcomeau.com/blog/whimsical-animations/)
 * [2025-02-25, 11:01:39](https://news.ycombinator.com/item?id=43170408) - [Narrative and the Structure of Art (2023)](https://medium.com/luminasticity/narrative-and-the-structure-of-art-1ffbdfe2aece)
 * [2025-02-25, 09:07:41](https://news.ycombinator.com/item?id=43169715) - [Ask HN: Any recommend resources that helped your game dev journey?](https://news.ycombinator.com/item?id=43169715)
@@ -29,6 +28,7 @@
 * [2025-02-25, 06:45:09](https://news.ycombinator.com/item?id=43168950) - [The Middle Ages in Computer Games](https://www.medievalists.net/2025/02/new-medieval-books-the-middle-ages-in-computer-games/)
 * [2025-02-24, 15:24:19](https://news.ycombinator.com/item?id=43160582) - [Type 1 diabetes reversed by new cell transplantation technique](https://newatlas.com/diabetes/islet-transplantation-type-1-diabetes/)
 * [2025-02-24, 14:51:53](https://news.ycombinator.com/item?id=43160226) - [Calendar.txt](https://terokarvinen.com/2021/calendar-txt/)
+* [2025-02-24, 14:06:16](https://news.ycombinator.com/item?id=43159692) - [Electric Propulsion Magnets Ready for Space Tests](https://spectrum.ieee.org/electric-propulsion-thruster)
 * [2025-02-24, 09:53:00](https://news.ycombinator.com/item?id=43157672) - [Why and How I use “Org Mode” for my writing and more (2022)](https://www.evalapply.org/posts/why-and-how-i-use-org-mode/index.html)
 
 ## [Archives](archives/index.md)
