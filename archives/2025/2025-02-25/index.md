@@ -53,6 +53,7 @@
 * [2025-02-25, 11:45:20](https://news.ycombinator.com/item?id=43170718) - [Tesla sales almost halved in Europe last month](https://www.businessinsider.com/tesla-sales-europe-tumbled-elon-musk-china-evs-2025-2)
 * [2025-02-25, 11:42:02](https://news.ycombinator.com/item?id=43170701) - [Theoi Greek Mythology](https://www.theoi.com/)
 * [2025-02-25, 11:22:06](https://news.ycombinator.com/item?id=43170545) - [Chicory: A JVM native WebAssembly runtime](https://chicory.dev/)
+* [2025-02-25, 11:08:35](https://news.ycombinator.com/item?id=43170457) - [The Moped King](https://www.streetsblogprojects.org/fly-electric-bike-moped-new-york-city-streets-safety-lithium-ion-batteries)
 * [2025-02-25, 11:01:39](https://news.ycombinator.com/item?id=43170408) - [Narrative and the Structure of Art](https://medium.com/luminasticity/narrative-and-the-structure-of-art-1ffbdfe2aece)
 * [2025-02-25, 10:38:53](https://news.ycombinator.com/item?id=43170242) - [Metasploit – Penetration Testing Framework](https://www.metasploit.com/)
 * [2025-02-25, 10:24:34](https://news.ycombinator.com/item?id=43170155) - [Evaluating modular RAG with reasoning models](https://www.kapa.ai/blog/evaluating-modular-rag-with-reasoning-models)
