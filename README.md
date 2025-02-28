@@ -28,8 +28,8 @@
 * [2025-02-25, 07:37:21](https://news.ycombinator.com/item?id=43169226) - [Speed or security? Speculative execution in Apple Silicon](https://eclecticlight.co/2025/02/25/speed-or-security-speculative-execution-in-apple-silicon/)
 * [2025-02-25, 05:33:21](https://news.ycombinator.com/item?id=43168533) - [There isn't much point to HTTP/2 past the load balancer](https://byroot.github.io/ruby/performance/2025/02/24/http2-past-the-load-balancer.html)
 * [2025-02-24, 15:24:19](https://news.ycombinator.com/item?id=43160582) - [Type 1 diabetes reversed by new cell transplantation technique](https://newatlas.com/diabetes/islet-transplantation-type-1-diabetes/)
+* [2025-02-24, 14:51:53](https://news.ycombinator.com/item?id=43160226) - [Calendar.txt](https://terokarvinen.com/2021/calendar-txt/)
 * [2025-02-24, 14:22:42](https://news.ycombinator.com/item?id=43159855) - [The Natural System of Colours](https://www.c82.net/natural-colors/)
-* [2025-02-24, 09:01:07](https://news.ycombinator.com/item?id=43157296) - [The Great Re-shard: adding Postgres capacity (again) with zero downtime (2023)](https://www.notion.com/blog/the-great-re-shard)
 
 ## [Archives](archives/index.md)
 
