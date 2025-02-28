@@ -60,6 +60,7 @@
 * [2025-02-25, 09:15:14](https://news.ycombinator.com/item?id=43169773) - [A peek into a possible future of Python in the browser](https://lukasz.langa.pl/f37aa97a-9ea3-4aeb-b6a0-9daeea5a7505/)
 * [2025-02-25, 08:22:33](https://news.ycombinator.com/item?id=43169461) - [Spotify's Beta Used 'Pirate' MP3 Files, Some from Pirate Bay](https://torrentfreak.com/spotifys-beta-used-pirate-mp3-files-some-from-pirate-bay-170509/)
 * [2025-02-25, 08:17:11](https://news.ycombinator.com/item?id=43169435) - [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/)
+* [2025-02-25, 07:40:17](https://news.ycombinator.com/item?id=43169244) - [Thermoelectric Solar Panel](https://simplifier.neocities.org/thermosolar)
 * [2025-02-25, 07:37:21](https://news.ycombinator.com/item?id=43169226) - [Speed or security? Speculative execution in Apple Silicon](https://eclecticlight.co/2025/02/25/speed-or-security-speculative-execution-in-apple-silicon/)
 * [2025-02-25, 07:13:23](https://news.ycombinator.com/item?id=43169103) - [What would happen if we didn't use TCP or UDP?](https://github.com/Hawzen/hdp)
 * [2025-02-25, 07:11:03](https://news.ycombinator.com/item?id=43169091) - [Simulating Time in Square-Root Space](https://eccc.weizmann.ac.il/report/2025/017/)
