@@ -70,6 +70,7 @@
 * [2025-02-25, 07:11:03](https://news.ycombinator.com/item?id=43169091) - [Simulating Time in Square-Root Space](https://eccc.weizmann.ac.il/report/2025/017/)
 * [2025-02-25, 07:02:58](https://news.ycombinator.com/item?id=43169054) - [Stone Soup AI (2024)](https://simons.berkeley.edu/news/stone-soup-ai)
 * [2025-02-25, 06:56:07](https://news.ycombinator.com/item?id=43169017) - [Finnegans Wake Extensible Elucidation Treasury](http://fweet.org/)
+* [2025-02-25, 06:45:09](https://news.ycombinator.com/item?id=43168950) - [The Middle Ages in Computer Games](https://www.medievalists.net/2025/02/new-medieval-books-the-middle-ages-in-computer-games/)
 * [2025-02-25, 06:26:56](https://news.ycombinator.com/item?id=43168838) - [Winners of the $10k ISBN visualization bounty](https://annas-archive.org/blog/all-isbns-winners.html)
 * [2025-02-25, 06:17:12](https://news.ycombinator.com/item?id=43168781) - [The Efficiency of Vim](https://bencornia.com/blog/the-efficiency-of-vim)
 * [2025-02-25, 05:59:29](https://news.ycombinator.com/item?id=43168679) - [$30 Thrift Store Find a $223,000 Jet Engine Valve](https://www.avweb.com/aviation-news/30-thrift-store-find-actually-a-223000-jet-engine-valve/)
