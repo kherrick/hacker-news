@@ -129,6 +129,111 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="43207942">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=43207942"
+              >Show HN: Globstar – Open-source static analysis toolkit</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-02-28 @ 17:12:26</span
+              ><span class="points-container"
+                >Points: <span class="points">12</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43207942"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://github.com/DeepSourceCorp/globstar"
+                >https://github.com/DeepSourceCorp/globstar</a
+              >), a static analysis toolkit that lets you easily write and run
+              custom code quality and security checkers in YAML [1] or Go [2].
+              <p>
+                After 5+ years of building AST-based static analyzers that
+                process millions of lines of code daily at DeepSource, we kept
+                hearing a common request from customers: "How do we write custom
+                checks specific to our codebase?" AppSec and DevOps teams have a
+                lot of learned anti-patterns and security rules they want to
+                enforce across their orgs, and being able to do that without
+                being a static analysis expert, came up as an important want.
+              </p>
+              <p>
+                We initially built an internal framework using tree-sitter [3]
+                for our proprietary infrastructure-as-code analyzers, which
+                enabled us to rapidly create new checkers. We realized that
+                making the framework open-source could solve this problem for
+                everyone.
+              </p>
+              <p>
+                Our key insight was that writing checkers isn't the hard part
+                anymore. Modern AI assistants like ChatGPT and Claude are
+                excellent at generating tree-sitter queries with very high
+                accuracy. We realized that the tree-sitters' gnarly s-expression
+                syntax isn’t a problem anymore (since the AI will be doing all
+                the generation anyway), and we can instead focus on building a
+                fast, flexible, and reliable checker runtime around it.
+              </p>
+              <p>
+                So instead of creating yet another DSL, we use tree-sitter's
+                native query syntax. Yes, the expressions look more complex than
+                simplified DSLs, but they give you direct access to your code's
+                actual AST structure – which means your rules work exactly as
+                you'd expect them to. When you need to debug a rule, you're
+                working with the actual structure of your code, not an
+                abstraction that might hide important details.
+              </p>
+              <p>
+                We've also designed Globstar to have a gradual learning curve:
+                The YAML interface works well for simple checkers, and the Go
+                Interface can handle complex scenarios when you need features
+                like cross-file analysis, scope resolution, data flow analysis,
+                and context awareness. The Go API gives you direct access to
+                tree-sitter bindings, so you can write arbitrarily complex
+                checkers on day one.
+              </p>
+              <p>Key features:</p>
+              <p>
+                - Written in Go with native tree-sitter bindings, distributed as
+                a single binary
+              </p>
+              <p>- MIT-licensed</p>
+              <p>
+                - Write all your checkers in a “.globstar” folder in your repo,
+                in YAML or Go, and just run “globstar check” without any build
+                steps
+              </p>
+              <p>
+                - Multi-language support through tree-sitter (20+ languages
+                today)
+              </p>
+              <p>
+                We have a long way to go and a very exciting roadmap for
+                Globstar, and we’d love to hear your feedback!
+              </p>
+              <p>
+                [1]
+                <a href="https://globstar.dev/guides/writing-yaml-checker"
+                  >https://globstar.dev/guides/writing-yaml-checker</a
+                >
+              </p>
+              <p>
+                [2]
+                <a href="https://globstar.dev/guides/writing-go-checker"
+                  >https://globstar.dev/guides/writing-go-checker</a
+                >
+              </p>
+              <p>
+                [3]
+                <a href="https://tree-sitter.github.io/tree-sitter/"
+                  >https://tree-sitter.github.io/tree-sitter/</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="43207831">
           <h3>
             <a
@@ -141,11 +246,11 @@
             <h4>
               <span>2025-02-28 @ 17:01:43</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43207831"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -163,7 +268,7 @@
             <h4>
               <span>2025-02-28 @ 16:18:34</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">10</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43207331"
                   >Comments</a
@@ -185,11 +290,11 @@
             <h4>
               <span>2025-02-28 @ 15:33:39</span
               ><span class="points-container"
-                >Points: <span class="points">124</span></span
+                >Points: <span class="points">140</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43206722"
                   >Comments</a
-                ><span class="descendants">: 78</span></span
+                ><span class="descendants">: 90</span></span
               >
             </h4>
           </section>
@@ -206,11 +311,11 @@
             <h4>
               <span>2025-02-28 @ 14:45:36</span
               ><span class="points-container"
-                >Points: <span class="points">111</span></span
+                >Points: <span class="points">118</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43206174"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -227,11 +332,11 @@
             <h4>
               <span>2025-02-28 @ 13:10:18</span
               ><span class="points-container"
-                >Points: <span class="points">92</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43205196"
                   >Comments</a
-                ><span class="descendants">: 146</span></span
+                ><span class="descendants">: 149</span></span
               >
             </h4>
           </section>
@@ -265,11 +370,11 @@
             <h4>
               <span>2025-02-28 @ 11:47:52</span
               ><span class="points-container"
-                >Points: <span class="points">120</span></span
+                >Points: <span class="points">121</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43204604"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -284,11 +389,11 @@
             <h4>
               <span>2025-02-28 @ 11:21:04</span
               ><span class="points-container"
-                >Points: <span class="points">70</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43204406"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -306,7 +411,7 @@
             <h4>
               <span>2025-02-28 @ 08:27:36</span
               ><span class="points-container"
-                >Points: <span class="points">328</span></span
+                >Points: <span class="points">331</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43203158"
                   >Comments</a
@@ -327,11 +432,11 @@
             <h4>
               <span>2025-02-28 @ 08:02:33</span
               ><span class="points-container"
-                >Points: <span class="points">180</span></span
+                >Points: <span class="points">182</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43202982"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -349,11 +454,11 @@
             <h4>
               <span>2025-02-28 @ 05:31:49</span
               ><span class="points-container"
-                >Points: <span class="points">382</span></span
+                >Points: <span class="points">391</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43202052"
                   >Comments</a
-                ><span class="descendants">: 299</span></span
+                ><span class="descendants">: 306</span></span
               >
             </h4>
           </section>
@@ -371,11 +476,11 @@
             <h4>
               <span>2025-02-28 @ 05:20:13</span
               ><span class="points-container"
-                >Points: <span class="points">567</span></span
+                >Points: <span class="points">573</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43201974"
                   >Comments</a
-                ><span class="descendants">: 314</span></span
+                ><span class="descendants">: 318</span></span
               >
             </h4>
           </section>
@@ -392,7 +497,7 @@
             <h4>
               <span>2025-02-28 @ 02:24:04</span
               ><span class="points-container"
-                >Points: <span class="points">107</span></span
+                >Points: <span class="points">109</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43201001"
                   >Comments</a
@@ -411,11 +516,11 @@
             <h4>
               <span>2025-02-28 @ 01:29:49</span
               ><span class="points-container"
-                >Points: <span class="points">830</span></span
+                >Points: <span class="points">833</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43200604"
                   >Comments</a
-                ><span class="descendants">: 286</span></span
+                ><span class="descendants">: 288</span></span
               >
             </h4>
           </section>
@@ -430,11 +535,11 @@
             <h4>
               <span>2025-02-28 @ 01:26:26</span
               ><span class="points-container"
-                >Points: <span class="points">267</span></span
+                >Points: <span class="points">274</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43200572"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
+                ><span class="descendants">: 55</span></span
               >
             </h4>
           </section>
@@ -456,7 +561,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43199210"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
           </section>
@@ -471,7 +576,7 @@
             <h4>
               <span>2025-02-27 @ 20:01:16</span
               ><span class="points-container"
-                >Points: <span class="points">1064</span></span
+                >Points: <span class="points">1065</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43197872"
                   >Comments</a
@@ -502,97 +607,6 @@
             </h4>
           </section>
         </section>
-        <section id="43196474">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=43196474"
-              >Launch HN: Bild AI (YC W25) – Understand Construction Blueprints
-              Using AI</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-02-27 @ 17:30:51</span
-              ><span class="points-container"
-                >Points: <span class="points">90</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43196474"
-                  >Comments</a
-                ><span class="descendants">: 38</span></span
-              >
-            </h4>
-            <div class="text">
-              <a href="https://www.bild.ai">https://www.bild.ai</a>). Bild AI
-              uses machine learning to read construction blueprints and extract
-              detailed material quantity and cost estimates. Here's our demo:
-              <a href="https://youtu.be/vBDl7Mh7iEc"
-                >https://youtu.be/vBDl7Mh7iEc</a
-              >
-              <p>
-                The problem we're tackling is the sheer manual effort that goes
-                into generating material quantities and cost estimates from
-                blueprints today. Contractors and suppliers spend countless
-                hours doing takeoffs by drawing on blueprints by hand - it's
-                tedious, error-prone, and costs the global industry $30B a year.
-                A single mistake can lead to thousands in losses on a project.
-              </p>
-              <p>
-                My co-founder Puneet experienced this firsthand as he was
-                building hundreds of houses in Canada. Meanwhile, my background
-                is in applied ML - I started at Google at 19, then Waymo where I
-                built perception models for self-driving cars. Puneet and I met
-                at Hack for Social Impact where we built our first _very_
-                narrow-scoped prototype.
-              </p>
-              <p>
-                Since then we’ve expanded our scope slowly, with a laser-focus
-                on accuracy. Our approach is to use a suite of specialized
-                machine learning models for specific blueprint comprehension
-                tasks, rather than a single end-to-end model. For example, we've
-                developed computer vision models that are highly accurate at
-                detecting and measuring floor areas, or identifying and counting
-                framing elements like studs and doors. By composing these expert
-                sub-models, we can achieve high accuracy on the overall takeoff.
-              </p>
-              <p>
-                This is somewhat analogous to the approach we took at Waymo for
-                self-driving perception - having an array of dedicated models
-                for tasks like lane detection, traffic light classification etc.
-                It's a very different paradigm than the big-data end-to-end
-                models like what Tesla uses - unfortunately we just don’t have
-                enough data yet.
-              </p>
-              <p>
-                We're working with some early customers like flooring suppliers
-                to help automate their estimating workflows. But we see a huge
-                opportunity to expand this "AI that understands blueprints"
-                approach across all trades.
-              </p>
-              <p>
-                Would love to get the HN community's thoughts and feedback!
-                Construction is an industry I think is really ripe for applying
-                cutting-edge ML techniques. If you have experience in this
-                domain as a builder, architect, estimator, supplier etc. I'd
-                love to hear about your workflow and pain points.
-              </p>
-              <p>
-                Also if you're a researcher or engineer excited about applying
-                state-of-the-art techniques to real-world problems in
-                underserved industries, definitely reach out!
-              </p>
-              <p>
-                We’re currently live with customers but are only able to serve a
-                subset of trades accurately right now. Head to
-                <a href="https://www.bild.ai/upload"
-                  >https://www.bild.ai/upload</a
-                >
-                if you want to try uploading a blueprint and we can talk about
-                your use-case. I truly believe we can solve blueprint
-                understanding with AI, and there seem to be a huge number of
-                applications. I'll be here all day to chat and answer questions!
-              </p>
-            </div>
-          </section>
-        </section>
         <section id="43171079">
           <h3>
             <a
@@ -605,7 +619,7 @@
             <h4>
               <span>2025-02-25 @ 12:35:56</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43171079"
                   >Comments</a
@@ -626,7 +640,7 @@
             <h4>
               <span>2025-02-25 @ 11:01:39</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43170408"
                   >Comments</a
@@ -646,11 +660,11 @@
             <h4>
               <span>2025-02-25 @ 09:07:41</span
               ><span class="points-container"
-                >Points: <span class="points">73</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43169715"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
             <div class="text">
@@ -698,11 +712,11 @@
             <h4>
               <span>2025-02-25 @ 08:22:33</span
               ><span class="points-container"
-                >Points: <span class="points">314</span></span
+                >Points: <span class="points">316</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43169461"
                   >Comments</a
-                ><span class="descendants">: 228</span></span
+                ><span class="descendants">: 230</span></span
               >
             </h4>
           </section>
@@ -719,7 +733,7 @@
             <h4>
               <span>2025-02-25 @ 07:54:00</span
               ><span class="points-container"
-                >Points: <span class="points">124</span></span
+                >Points: <span class="points">126</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43169323"
                   >Comments</a
@@ -738,11 +752,11 @@
             <h4>
               <span>2025-02-25 @ 07:40:17</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43169244"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -759,7 +773,7 @@
             <h4>
               <span>2025-02-25 @ 07:02:58</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43169054"
                   >Comments</a
@@ -780,11 +794,11 @@
             <h4>
               <span>2025-02-24 @ 15:24:19</span
               ><span class="points-container"
-                >Points: <span class="points">391</span></span
+                >Points: <span class="points">396</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43160582"
                   >Comments</a
-                ><span class="descendants">: 79</span></span
+                ><span class="descendants">: 81</span></span
               >
             </h4>
           </section>
@@ -799,11 +813,11 @@
             <h4>
               <span>2025-02-24 @ 14:51:53</span
               ><span class="points-container"
-                >Points: <span class="points">187</span></span
+                >Points: <span class="points">190</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43160226"
                   >Comments</a
-                ><span class="descendants">: 84</span></span
+                ><span class="descendants">: 86</span></span
               >
             </h4>
           </section>
@@ -824,7 +838,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43159692"
                   >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
@@ -841,7 +855,7 @@
             <h4>
               <span>2025-02-24 @ 09:53:00</span
               ><span class="points-container"
-                >Points: <span class="points">152</span></span
+                >Points: <span class="points">154</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43157672"
                   >Comments</a
