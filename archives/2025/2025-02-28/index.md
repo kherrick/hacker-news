@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-02-28](index.md)
 
 * [2025-02-28, 23:20:38](https://news.ycombinator.com/item?id=43213143) - [Inheriting is becoming nearly as important as working](https://www.economist.com/leaders/2025/02/27/inheriting-is-becoming-nearly-as-important-as-working)
+* [2025-02-28, 23:16:16](https://news.ycombinator.com/item?id=43213090) - [Show HN: Torii – a framework agnostic authentication library for Rust](https://github.com/cmackenzie1/torii-rs)
+* [2025-02-28, 22:43:14](https://news.ycombinator.com/item?id=43212700) - [Political Bias on X before the 2025 German Federal Election](https://www.ucd.ie/cs/news/politicalbiasonxbeforethe2025germanfederalelection/)
 * [2025-02-28, 21:33:00](https://news.ycombinator.com/item?id=43211506) - [Brian Krebs: This Administration Is Completely Compromised](https://infosec.exchange/@briankrebs/114083485241630234)
 * [2025-02-28, 21:05:35](https://news.ycombinator.com/item?id=43210858) - [How to gain code execution on hundreds of millions of people and popular apps](https://kibty.town/blog/todesktop/)
 * [2025-02-28, 20:52:55](https://news.ycombinator.com/item?id=43210569) - [\"No, we are absolutely not prepared to [fork Firefox]\"](https://codeberg.org/librewolf/issues/issues/2252#issuecomment-2886286)

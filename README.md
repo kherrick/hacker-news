@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-28, 23:20:38](https://news.ycombinator.com/item?id=43213143) - [Inheriting is becoming nearly as important as working](https://www.economist.com/leaders/2025/02/27/inheriting-is-becoming-nearly-as-important-as-working)
+* [2025-02-28, 23:16:16](https://news.ycombinator.com/item?id=43213090) - [Show HN: Torii – a framework agnostic authentication library for Rust](https://github.com/cmackenzie1/torii-rs)
+* [2025-02-28, 22:43:14](https://news.ycombinator.com/item?id=43212700) - [Political Bias on X before the 2025 German Federal Election](https://www.ucd.ie/cs/news/politicalbiasonxbeforethe2025germanfederalelection/)
 * [2025-02-28, 21:05:35](https://news.ycombinator.com/item?id=43210858) - [How to gain code execution on hundreds of millions of people and popular apps](https://kibty.town/blog/todesktop/)
 * [2025-02-28, 20:51:34](https://news.ycombinator.com/item?id=43210537) - [Japanese Toshiba Typewriter Model BW-2112 (2020) [video]](https://www.youtube.com/watch?v=JZcui85b4EE)
 * [2025-02-28, 20:33:43](https://news.ycombinator.com/item?id=43210185) - [Show HN: Betting game puzzle (Hamming neighbor sum in linear time)](https://news.ycombinator.com/item?id=43210185)
@@ -13,7 +15,6 @@
 * [2025-02-28, 14:45:36](https://news.ycombinator.com/item?id=43206174) - [Write to Escape Your Default Setting](https://kupajo.com/write-to-escape-your-default-setting/)
 * [2025-02-28, 12:00:16](https://news.ycombinator.com/item?id=43204682) - [Openlayer (YC S21) is hiring a senior back end engineer](https://www.ycombinator.com/companies/openlayer/jobs/yIE9WI3-senior-backend-engineer)
 * [2025-02-28, 11:47:52](https://news.ycombinator.com/item?id=43204604) - [Netboot Windows 11 with iSCSI and iPXE](https://terinstock.com/post/2025/02/Netboot-Windows-11-with-iSCSI-and-iPXE/)
-* [2025-02-28, 11:21:04](https://news.ycombinator.com/item?id=43204406) - [WebShield – A new wide-spectrum content blocker for Safari](https://github.com/arjpar/WebShield)
 * [2025-02-28, 09:24:13](https://news.ycombinator.com/item?id=43203543) - [Hot take: GPT 4.5 is a nothing burger](https://garymarcus.substack.com/p/hot-take-gpt-45-is-a-nothing-burger)
 * [2025-02-28, 08:02:33](https://news.ycombinator.com/item?id=43202982) - [Boris Spassky: 1937–2025](https://en.chessbase.com/post/boris-spassky-1937-2025)
 * [2025-02-28, 05:31:49](https://news.ycombinator.com/item?id=43202052) - [Microsoft is killing Skype](https://www.windowscentral.com/microsoft/microsoft-is-reportedly-killing-skype-after-14-years-of-neglect)
@@ -27,7 +28,6 @@
 * [2025-02-25, 09:07:41](https://news.ycombinator.com/item?id=43169715) - [Ask HN: Recommend resources that helped your game dev journey?](https://news.ycombinator.com/item?id=43169715)
 * [2025-02-25, 09:06:21](https://news.ycombinator.com/item?id=43169706) - [Vibe Coding and the Future of Software Engineering](https://alexp.pl/2025/02/19/vibe-coding.html)
 * [2025-02-25, 07:02:58](https://news.ycombinator.com/item?id=43169054) - [Stone Soup AI (2024)](https://simons.berkeley.edu/news/stone-soup-ai)
-* [2025-02-25, 06:45:09](https://news.ycombinator.com/item?id=43168950) - [The Middle Ages in Computer Games](https://www.medievalists.net/2025/02/new-medieval-books-the-middle-ages-in-computer-games/)
 * [2025-02-24, 15:24:19](https://news.ycombinator.com/item?id=43160582) - [Type 1 diabetes reversed by new cell transplantation technique](https://newatlas.com/diabetes/islet-transplantation-type-1-diabetes/)
 * [2025-02-24, 14:51:53](https://news.ycombinator.com/item?id=43160226) - [Calendar.txt](https://terokarvinen.com/2021/calendar-txt/)
 
