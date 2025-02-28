@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-27, 23:29:59",
+      "https://news.ycombinator.com/item?id=43199764"
+    ],
+    [
+      "Automattic's \"nuclear war\" over WordPress access sparks potential class action",
+      "https://arstechnica.com/tech-policy/2025/02/automattic-shirked-duty-to-keep-wordpress-free-for-everyone-lawsuit-says/"
+    ]
+  ],
+  [
+    [
       "2025-02-27, 23:02:24",
       "https://news.ycombinator.com/item?id=43199551"
     ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2025-02-27, 18:38:47",
-      "https://news.ycombinator.com/item?id=43197100"
-    ],
-    [
-      "Show HN: Compiler Playground for energy-efficient embedded dataflow processor",
-      "https://www.efficient.computer/resources/effcc-compiler-playground-launch"
-    ]
-  ],
-  [
-    [
       "2025-02-27, 18:07:35",
       "https://news.ycombinator.com/item?id=43196812"
     ],
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2025-02-27, 15:34:34",
+      "https://news.ycombinator.com/item?id=43195308"
+    ],
+    [
+      "Who was Aleph Null? (2013)",
+      "http://bit-player.org/2013/who-was-aleph-null"
+    ]
+  ],
+  [
+    [
       "2025-02-27, 15:02:39",
       "https://news.ycombinator.com/item?id=43194971"
     ],
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2025-02-25, 06:26:56",
-      "https://news.ycombinator.com/item?id=43168838"
-    ],
-    [
-      "Winners of the $10k ISBN visualization bounty",
-      "https://annas-archive.org/blog/all-isbns-winners.html"
-    ]
-  ],
-  [
-    [
       "2025-02-25, 05:33:21",
       "https://news.ycombinator.com/item?id=43168533"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2025-02-24, 15:31:11",
-      "https://news.ycombinator.com/item?id=43160668"
-    ],
-    [
-      "The Yin and Yang of Programming",
-      "https://billwadge.com/2025/02/22/the-yin-and-yang-of-programming/"
-    ]
-  ],
-  [
-    [
       "2025-02-24, 15:24:19",
       "https://news.ycombinator.com/item?id=43160582"
     ],
     [
       "Type 1 diabetes reversed by new cell transplantation technique",
       "https://newatlas.com/diabetes/islet-transplantation-type-1-diabetes/"
+    ]
+  ],
+  [
+    [
+      "2025-02-24, 11:05:27",
+      "https://news.ycombinator.com/item?id=43158166"
+    ],
+    [
+      "Show HN: Libredesk – Open-source customer support desk. Single binary app",
+      "https://github.com/abhinavxd/libredesk"
     ]
   ]
 ]
