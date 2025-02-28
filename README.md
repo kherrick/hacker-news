@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-02-28, 08:17:48](https://news.ycombinator.com/item?id=43203096) - [Mozilla deletes promise to never sell Firefox data](https://twitter.com/LundukeJournal/status/1895249805338886591)
+* [2025-02-28, 07:34:38](https://news.ycombinator.com/item?id=43202773) - [WASM Wayland Web (WWW)](https://joeyh.name/blog/entry/WASM_Wayland_Web_WWW/)
 * [2025-02-28, 05:31:49](https://news.ycombinator.com/item?id=43202052) - [Microsoft is reportedly killing Skype after 14 years of neglect](https://www.windowscentral.com/microsoft/microsoft-is-reportedly-killing-skype-after-14-years-of-neglect)
 * [2025-02-28, 05:20:13](https://news.ycombinator.com/item?id=43201974) - [Microsoft begins turning off uBlock Origin and other extensions in Edge](https://www.neowin.net/news/microsoft-begins-turning-off-ublock-origin-and-other-extensions-in-edge/)
 * [2025-02-28, 05:00:44](https://news.ycombinator.com/item?id=43201869) - [Mozilla introduces a Terms of Use agreement for Firefox](https://connect.mozilla.org/t5/discussions/information-about-the-new-terms-of-use-and-updated-privacy/m-p/87735#M33600)
@@ -23,7 +24,6 @@
 * [2025-02-27, 17:03:39](https://news.ycombinator.com/item?id=43196207) - [Turning a Bluetooth device into an Apple AirTag without root privileges](https://nroottag.github.io/)
 * [2025-02-27, 15:55:21](https://news.ycombinator.com/item?id=43195525) - [A $100 DIY muon tomographer](https://spectrum.ieee.org/diy-muon-tomography)
 * [2025-02-27, 15:54:36](https://news.ycombinator.com/item?id=43195516) - [Solitaire](https://localthunk.com/blog/solitaire)
-* [2025-02-27, 12:23:41](https://news.ycombinator.com/item?id=43193714) - [A data analysis of speeches at the Oscars](https://stephenfollows.com/p/harvey-weinstein-thanked-more-than-god)
 * [2025-02-25, 08:22:33](https://news.ycombinator.com/item?id=43169461) - [Spotify's Beta Used 'Pirate' MP3 Files, Some from Pirate Bay](https://torrentfreak.com/spotifys-beta-used-pirate-mp3-files-some-from-pirate-bay-170509/)
 * [2025-02-25, 05:33:21](https://news.ycombinator.com/item?id=43168533) - [There isn't much point to HTTP/2 past the load balancer](https://byroot.github.io/ruby/performance/2025/02/24/http2-past-the-load-balancer.html)
 * [2025-02-24, 15:24:19](https://news.ycombinator.com/item?id=43160582) - [Type 1 diabetes reversed by new cell transplantation technique](https://newatlas.com/diabetes/islet-transplantation-type-1-diabetes/)
