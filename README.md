@@ -9,7 +9,6 @@
 * [2025-02-28, 02:24:04](https://news.ycombinator.com/item?id=43201001) - [Putting Andrew Ng's OCR models to the test](https://www.runpulse.com/blog/putting-andrew-ngs-ocr-models-to-the-test)
 * [2025-02-28, 01:29:49](https://news.ycombinator.com/item?id=43200604) - [Welcome to Ladybird, a truly independent web browser](https://github.com/LadybirdBrowser/ladybird)
 * [2025-02-28, 01:26:26](https://news.ycombinator.com/item?id=43200572) - [Fire-Flyer File System from DeepSeek](https://github.com/deepseek-ai/3FS)
-* [2025-02-28, 01:18:58](https://news.ycombinator.com/item?id=43200536) - [Show HN: Python micro event loop library (~250 LOC)](https://gist.github.com/tarruda/5b8c19779c8ff4e8100f0b37eb5981ea)
 * [2025-02-28, 01:03:59](https://news.ycombinator.com/item?id=43200450) - [Markov Chains Explained Visually (2014)](https://setosa.io/ev/markov-chains/)
 * [2025-02-28, 00:05:31](https://news.ycombinator.com/item?id=43200065) - [Mozilla owns \"information you input through Firefox\"](https://www.mozilla.org/en-US/about/legal/terms/firefox/)
 * [2025-02-27, 22:28:49](https://news.ycombinator.com/item?id=43199256) - [IBM completes acquisition of HashiCorp](https://newsroom.ibm.com/2025-02-27-ibm-completes-acquisition-of-hashicorp,-creates-comprehensive,-end-to-end-hybrid-cloud-platform)
@@ -30,6 +29,7 @@
 * [2025-02-24, 15:24:19](https://news.ycombinator.com/item?id=43160582) - [Type 1 diabetes reversed by new cell transplantation technique](https://newatlas.com/diabetes/islet-transplantation-type-1-diabetes/)
 * [2025-02-24, 14:51:53](https://news.ycombinator.com/item?id=43160226) - [Calendar.txt](https://terokarvinen.com/2021/calendar-txt/)
 * [2025-02-24, 14:22:42](https://news.ycombinator.com/item?id=43159855) - [The Natural System of Colours](https://www.c82.net/natural-colors/)
+* [2025-02-24, 09:01:07](https://news.ycombinator.com/item?id=43157296) - [The Great Re-shard: adding Postgres capacity (again) with zero downtime (2023)](https://www.notion.com/blog/the-great-re-shard)
 
 ## [Archives](archives/index.md)
 
