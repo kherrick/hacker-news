@@ -2,6 +2,7 @@
 
 * [2025-02-28, 12:00:16](https://news.ycombinator.com/item?id=43204682) - [Openlayer (YC S21) is hiring a senior back end engineer](https://www.ycombinator.com/companies/openlayer/jobs/yIE9WI3-senior-backend-engineer)
 * [2025-02-28, 11:47:52](https://news.ycombinator.com/item?id=43204604) - [Netboot Windows 11 with iSCSI and iPXE](https://terinstock.com/post/2025/02/Netboot-Windows-11-with-iSCSI-and-iPXE/)
+* [2025-02-28, 11:15:57](https://news.ycombinator.com/item?id=43204376) - [A Comment on Mozilla's Policy Changes](https://www.waterfox.net/blog/a-comment-on-mozilla-changes/)
 * [2025-02-28, 11:12:26](https://news.ycombinator.com/item?id=43204349) - [Meta apologises over flood of gore, violence and dead bodies on Instagram](https://www.theguardian.com/technology/2025/feb/28/meta-apologises-over-flood-of-gore-violence-and-dead-bodies-on-instagram)
 * [2025-02-28, 08:27:36](https://news.ycombinator.com/item?id=43203158) - [I found 1000 GitHub repos with malware. Can we get them deleted?](https://timsh.org/github-scam-investigation-thousands-of-mods-and-cracks-stealing-your-data/)
 * [2025-02-28, 08:17:48](https://news.ycombinator.com/item?id=43203096) - [Mozilla deletes promise to never sell Firefox data](https://twitter.com/LundukeJournal/status/1895249805338886591)
@@ -10,7 +11,6 @@
 * [2025-02-28, 05:31:49](https://news.ycombinator.com/item?id=43202052) - [Microsoft is reportedly killing Skype after 14 years of neglect](https://www.windowscentral.com/microsoft/microsoft-is-reportedly-killing-skype-after-14-years-of-neglect)
 * [2025-02-28, 05:20:13](https://news.ycombinator.com/item?id=43201974) - [Microsoft begins turning off uBlock Origin and other extensions in Edge](https://www.neowin.net/news/microsoft-begins-turning-off-ublock-origin-and-other-extensions-in-edge/)
 * [2025-02-28, 03:34:14](https://news.ycombinator.com/item?id=43201417) - [macOS Tips and Tricks (2022)](https://saurabhs.org/macos-tips)
-* [2025-02-28, 02:24:04](https://news.ycombinator.com/item?id=43201001) - [Putting Andrew Ng's OCR models to the test](https://www.runpulse.com/blog/putting-andrew-ngs-ocr-models-to-the-test)
 * [2025-02-28, 01:29:49](https://news.ycombinator.com/item?id=43200604) - [Welcome to Ladybird, a truly independent web browser](https://github.com/LadybirdBrowser/ladybird)
 * [2025-02-28, 01:26:26](https://news.ycombinator.com/item?id=43200572) - [Fire-Flyer File System from DeepSeek](https://github.com/deepseek-ai/3FS)
 * [2025-02-28, 01:03:59](https://news.ycombinator.com/item?id=43200450) - [Markov Chains Explained Visually (2014)](https://setosa.io/ev/markov-chains/)
