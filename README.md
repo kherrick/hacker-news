@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-02-28, 23:20:38](https://news.ycombinator.com/item?id=43213143) - [Inheriting is becoming nearly as important as working](https://www.economist.com/leaders/2025/02/27/inheriting-is-becoming-nearly-as-important-as-working)
 * [2025-02-28, 21:05:35](https://news.ycombinator.com/item?id=43210858) - [How to gain code execution on hundreds of millions of people and popular apps](https://kibty.town/blog/todesktop/)
 * [2025-02-28, 20:51:34](https://news.ycombinator.com/item?id=43210537) - [Japanese Toshiba Typewriter Model BW-2112 (2020) [video]](https://www.youtube.com/watch?v=JZcui85b4EE)
 * [2025-02-28, 20:33:43](https://news.ycombinator.com/item?id=43210185) - [Show HN: Betting game puzzle (Hamming neighbor sum in linear time)](https://news.ycombinator.com/item?id=43210185)
@@ -25,7 +26,6 @@
 * [2025-02-25, 10:54:37](https://news.ycombinator.com/item?id=43170343) - [An illustrated guide to the Kaminsky DNS vulnerability (2008)](http://unixwiz.net/techtips/iguide-kaminsky-dns-vuln.html)
 * [2025-02-25, 09:07:41](https://news.ycombinator.com/item?id=43169715) - [Ask HN: Recommend resources that helped your game dev journey?](https://news.ycombinator.com/item?id=43169715)
 * [2025-02-25, 09:06:21](https://news.ycombinator.com/item?id=43169706) - [Vibe Coding and the Future of Software Engineering](https://alexp.pl/2025/02/19/vibe-coding.html)
-* [2025-02-25, 07:54:00](https://news.ycombinator.com/item?id=43169323) - [Gleam, Coming from Erlang](https://olano.dev/blog/gleam-coming-from-erlang/)
 * [2025-02-25, 07:02:58](https://news.ycombinator.com/item?id=43169054) - [Stone Soup AI (2024)](https://simons.berkeley.edu/news/stone-soup-ai)
 * [2025-02-25, 06:45:09](https://news.ycombinator.com/item?id=43168950) - [The Middle Ages in Computer Games](https://www.medievalists.net/2025/02/new-medieval-books-the-middle-ages-in-computer-games/)
 * [2025-02-24, 15:24:19](https://news.ycombinator.com/item?id=43160582) - [Type 1 diabetes reversed by new cell transplantation technique](https://newatlas.com/diabetes/islet-transplantation-type-1-diabetes/)

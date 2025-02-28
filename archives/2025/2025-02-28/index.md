@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-28](index.md)
 
+* [2025-02-28, 23:20:38](https://news.ycombinator.com/item?id=43213143) - [Inheriting is becoming nearly as important as working](https://www.economist.com/leaders/2025/02/27/inheriting-is-becoming-nearly-as-important-as-working)
 * [2025-02-28, 21:33:00](https://news.ycombinator.com/item?id=43211506) - [Brian Krebs: This Administration Is Completely Compromised](https://infosec.exchange/@briankrebs/114083485241630234)
 * [2025-02-28, 21:05:35](https://news.ycombinator.com/item?id=43210858) - [How to gain code execution on hundreds of millions of people and popular apps](https://kibty.town/blog/todesktop/)
 * [2025-02-28, 20:52:55](https://news.ycombinator.com/item?id=43210569) - [\"No, we are absolutely not prepared to [fork Firefox]\"](https://codeberg.org/librewolf/issues/issues/2252#issuecomment-2886286)
