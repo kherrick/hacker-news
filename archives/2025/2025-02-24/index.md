@@ -32,6 +32,7 @@
 * [2025-02-24, 15:26:54](https://news.ycombinator.com/item?id=43160612) - [Laravel Cloud](https://app.laravel.cloud/)
 * [2025-02-24, 15:24:19](https://news.ycombinator.com/item?id=43160582) - [Type 1 diabetes reversed by new cell transplantation technique](https://newatlas.com/diabetes/islet-transplantation-type-1-diabetes/)
 * [2025-02-24, 15:20:48](https://news.ycombinator.com/item?id=43160542) - [Show HN: Bracket City – A daily, exploded (?) crossword puzzle](https://bracket.city)
+* [2025-02-24, 14:54:48](https://news.ycombinator.com/item?id=43160258) - [VLMaterial: Procedural Material Generation with Large Vision-Language Models](https://arxiv.org/abs/2501.18623)
 * [2025-02-24, 14:51:53](https://news.ycombinator.com/item?id=43160226) - [Calendar.txt](https://terokarvinen.com/2021/calendar-txt/)
 * [2025-02-24, 14:48:51](https://news.ycombinator.com/item?id=43160196) - [ARPA Is Quietly Funding $50-$65 Community-Owned Fiber to Neglected Neighborhoods](https://www.techdirt.com/2025/02/24/arpa-is-quietly-funding-cheap-50-65-a-month-community-owned-gigabit-fiber-access-to-long-neglected-neighborhoods/)
 * [2025-02-24, 14:39:28](https://news.ycombinator.com/item?id=43160079) - [Show HN: Instantly Translate Manga – TranslateManga](https://translatemanga.net/en)
