@@ -12,6 +12,7 @@
 * [2025-02-25, 19:59:41](https://news.ycombinator.com/item?id=43176553) - [Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs [pdf]](https://martins1612.github.io/emergent_misalignment_betley.pdf)
 * [2025-02-25, 19:39:21](https://news.ycombinator.com/item?id=43176314) - [Framework's first desktop is a strange–but unique–mini ITX gaming PC](https://arstechnica.com/gadgets/2025/02/framework-known-for-upgradable-laptops-intros-not-particularly-upgradable-desktop/)
 * [2025-02-25, 18:57:33](https://news.ycombinator.com/item?id=43175848) - [AI is blurring the line between PMs and engineers?](https://humanloop.com/blog/ai-is-blurring-the-lines-between-pms-and-engineers)
+* [2025-02-25, 18:52:59](https://news.ycombinator.com/item?id=43175793) - [Certificate Transparency in Firefox: A Big Step for Web Security](https://blog.transparency.dev/ct-in-firefox)
 * [2025-02-25, 18:39:10](https://news.ycombinator.com/item?id=43175628) - [I Went to SQL Injection Court](https://sockpuppet.org/blog/2025/02/09/fixing-illinois-foia/)
 * [2025-02-25, 18:20:18](https://news.ycombinator.com/item?id=43175408) - [Low Overhead Allocation Sampling with VMProf in PyPy's GC](https://pypy.org/posts/2025/02/pypy-gc-sampling.html)
 * [2025-02-25, 18:12:31](https://news.ycombinator.com/item?id=43175315) - [The XB-70 (2019)](http://codex99.com/photography/the-xb70.html)
