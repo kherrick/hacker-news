@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-01, 14:52:00](https://news.ycombinator.com/item?id=43219744) - [Your Next Two Zeroes](https://taylor.town/next-two-zeroes)
-* [2025-03-01, 14:39:50](https://news.ycombinator.com/item?id=43219616) - [The Press Falls to Another Record Low in Public Trust](https://jonathanturley.org/2025/03/01/the-press-falls-to-another-record-low-in-public-trust/)
 * [2025-03-01, 13:24:30](https://news.ycombinator.com/item?id=43218998) - [OpenGL to WASM, learning from my mistakes](https://uds5501.github.io/mindpalace/2025/03/01/opengl-webgl-porting.html)
 * [2025-03-01, 12:58:40](https://news.ycombinator.com/item?id=43218825) - [JavaScript Fatigue Strikes Back](https://allenpike.com/2025/javascript-fatigue-ssr)
 * [2025-03-01, 10:30:54](https://news.ycombinator.com/item?id=43217947) - [A DOGE staffer appears to be posting DOGE work on his public GitHub](https://twitter.com/SollenbergerRC/status/1895609294810464390)
@@ -19,6 +18,7 @@
 * [2025-02-28, 15:12:54](https://news.ycombinator.com/item?id=43206491) - [AI is killing some companies, yet others are thriving – let's look at the data](https://www.elenaverna.com/p/ai-is-killing-some-companies-yet)
 * [2025-02-28, 14:45:36](https://news.ycombinator.com/item?id=43206174) - [Write to Escape Your Default Setting](https://kupajo.com/write-to-escape-your-default-setting/)
 * [2025-02-28, 12:19:00](https://news.ycombinator.com/item?id=43204796) - [Type++: Prohibiting Type Confusion with Inline Type Information [pdf]](https://www.ndss-symposium.org/wp-content/uploads/2025-53-paper.pdf)
+* [2025-02-28, 04:26:52](https://news.ycombinator.com/item?id=43201682) - [Surgery implants tooth material in eye as scaffolding for lens](https://www.cbc.ca/radio/asithappens/tooth-in-eye-surgery-canada-1.7470626)
 * [2025-02-27, 18:27:01](https://news.ycombinator.com/item?id=43196996) - [The serotonin theory of depression: a systematic review of the evidence (2022)](https://www.nature.com/articles/s41380-022-01661-0)
 * [2025-02-26, 18:43:20](https://news.ycombinator.com/item?id=43186698) - [Affixes: The Building Blocks of English](https://www.affixes.org/index.html)
 * [2025-02-25, 19:42:51](https://news.ycombinator.com/item?id=43176358) - [Depending in Common Lisp – Using the CLOS dependent maintenance protocol (2022)](https://stevelosh.com/blog/2022/08/depending-in-common-lisp/)
