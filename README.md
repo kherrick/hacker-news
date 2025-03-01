@@ -27,7 +27,7 @@
 * [2025-02-25, 16:51:47](https://news.ycombinator.com/item?id=43174298) - [OlmOCR: Open-source tool to extract plain text from PDFs](https://olmocr.allenai.org/)
 * [2025-02-25, 12:33:32](https://news.ycombinator.com/item?id=43171061) - [Harnessing orbital Hall effect in spin-orbit torque MRAM](https://www.nature.com/articles/s41467-024-55437-x)
 * [2025-02-25, 12:03:04](https://news.ycombinator.com/item?id=43170843) - [Troubleshooting: A skill that never goes obsolete](https://www.autodidacts.io/troubleshooting/)
-* [2025-02-25, 09:04:22](https://news.ycombinator.com/item?id=43169694) - [Failure Theory for Materials Science and Engineering – Richard M. Christensen](https://www.failurecriteria.com/)
+* [2025-02-25, 09:04:22](https://news.ycombinator.com/item?id=43169694) - [Failure Theory for Materials Science and Engineering](https://www.failurecriteria.com/)
 * [2025-02-25, 07:02:58](https://news.ycombinator.com/item?id=43169054) - [Stone Soup AI (2024)](https://simons.berkeley.edu/news/stone-soup-ai)
 * [2025-02-24, 14:51:53](https://news.ycombinator.com/item?id=43160226) - [Calendar.txt](https://terokarvinen.com/2021/calendar-txt/)
 
