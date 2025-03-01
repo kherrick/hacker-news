@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-01, 22:22:12](https://news.ycombinator.com/item?id=43224350) - [A Letter to the American People](https://18f.org/)
 * [2025-03-01, 21:53:34](https://news.ycombinator.com/item?id=43224107) - [Firefly Blue Ghost Mission 1 Lunar Landing](https://plus.nasa.gov/scheduled-video/firefly-blue-ghost-mission-1-lunar-landing/)
 * [2025-03-01, 21:42:15](https://news.ycombinator.com/item?id=43223985) - [Why Can't We Screenshot Frames from DRM-Protected Video on Apple Devices?](https://daringfireball.net/2025/03/why_cant_we_screenshot_frames_from_drm-protected_video)
 * [2025-03-01, 21:11:26](https://news.ycombinator.com/item?id=43223718) - [Show HN: Berlin Swapfest – Electronics flea market](https://www.swapfest.berlin/)
 * [2025-03-01, 20:06:02](https://news.ycombinator.com/item?id=43223106) - [Nearly 25 years later, Terminator 2 is getting a new video game](https://gizmodo.com/nearly-25-years-later-terminator-2-is-getting-a-new-video-game-2000570123)
 * [2025-03-01, 20:03:06](https://news.ycombinator.com/item?id=43223075) - [Xcode constantly phones home](https://lapcatsoftware.com/articles/2025/2/5.html?__readwiseLocation=)
-* [2025-03-01, 19:37:49](https://news.ycombinator.com/item?id=43222834) - [Infinite Retrieval: Attention enhanced LLMs in long-context processing](https://arxiv.org/abs/2502.12962)
 * [2025-03-01, 19:33:41](https://news.ycombinator.com/item?id=43222791) - [GLP-1 drugs – the biggest economic disruptor since the internet? (2024)](https://wildfirelabs.substack.com/p/the-100-trillion-disruption-the-unforeseen)
 * [2025-03-01, 18:53:20](https://news.ycombinator.com/item?id=43222344) - [Abusing C to Implement JSON Parsing with Struct Methods](https://xnacly.me/posts/2025/json-parser-in-c-with-methods/)
 * [2025-03-01, 18:37:09](https://news.ycombinator.com/item?id=43222168) - [Efabless – Shutdown Notice](https://efabless.com/notice)
@@ -23,13 +23,13 @@
 * [2025-02-28, 10:31:00](https://news.ycombinator.com/item?id=43204032) - [Drone captures narwhals using their tusks to explore, forage and play](https://phys.org/news/2025-02-drone-captures-narwhals-tusks-explore.html)
 * [2025-02-28, 04:33:26](https://news.ycombinator.com/item?id=43201720) - [Video encoding requires using your eyes](https://redvice.org/2025/encoding-requires-eyes/)
 * [2025-02-27, 13:17:43](https://news.ycombinator.com/item?id=43194100) - [The Rake and its Prongs (2024)](https://christiantietze.de/posts/2024/06/the-rake-and-its-prongs/)
+* [2025-02-27, 05:46:32](https://news.ycombinator.com/item?id=43191696) - [Python as a Second Language Empathy](https://ballingt.com/python-second-language-empathy/)
 * [2025-02-26, 13:58:24](https://news.ycombinator.com/item?id=43183635) - [Show HN: I made a website where you can create your own \"Life in Weeks\" timeline](https://lifeweeks.app/)
 * [2025-02-25, 22:23:56](https://news.ycombinator.com/item?id=43178337) - [Curious Correspondence with Edward Gorey](https://www.tcj.com/the-curious-correspondence/)
 * [2025-02-25, 19:42:51](https://news.ycombinator.com/item?id=43176358) - [Depending in Common Lisp – Using the CLOS dependent maintenance protocol (2022)](https://stevelosh.com/blog/2022/08/depending-in-common-lisp/)
 * [2025-02-25, 18:52:59](https://news.ycombinator.com/item?id=43175793) - [Certificate Transparency in Firefox](https://blog.transparency.dev/ct-in-firefox)
 * [2025-02-25, 17:01:13](https://news.ycombinator.com/item?id=43174453) - [Maestro – Next generation mobile UI automation](https://github.com/mobile-dev-inc/Maestro)
 * [2025-02-25, 12:27:30](https://news.ycombinator.com/item?id=43171007) - [What do people see when they're tripping? Analyzing Erowid's trip reports](https://themicrodose.substack.com/p/what-do-people-see-when-theyre-tripping)
-* [2025-02-25, 12:03:04](https://news.ycombinator.com/item?id=43170843) - [Troubleshooting: A skill that never goes obsolete](https://www.autodidacts.io/troubleshooting/)
 
 ## [Archives](archives/index.md)
 
