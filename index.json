@@ -1,36 +1,6 @@
 [
   [
     [
-      "2025-03-01, 23:17:06",
-      "https://news.ycombinator.com/item?id=43225054"
-    ],
-    [
-      "Trump's EV Rollback Could Cost Taxpayers $1B",
-      "https://www.thedrive.com/news/trumps-ev-rollback-could-cost-taxpayers-1-billion"
-    ]
-  ],
-  [
-    [
-      "2025-03-01, 23:01:14",
-      "https://news.ycombinator.com/item?id=43224862"
-    ],
-    [
-      "The American Weather Forecast Is in Trouble",
-      "https://www.theatlantic.com/science/archive/2025/02/noaa-cuts-nws/681875/"
-    ]
-  ],
-  [
-    [
-      "2025-03-01, 22:22:12",
-      "https://news.ycombinator.com/item?id=43224350"
-    ],
-    [
-      "A Letter to the American People",
-      "https://18f.org/"
-    ]
-  ],
-  [
-    [
       "2025-03-01, 21:53:34",
       "https://news.ycombinator.com/item?id=43224107"
     ],
@@ -45,7 +15,7 @@
       "https://news.ycombinator.com/item?id=43223985"
     ],
     [
-      "Why Can't We Screenshot Frames from DRM-Protected Video on Apple Devices?",
+      "Why can't we screenshot frames from DRM-protected video on Apple devices?",
       "https://daringfireball.net/2025/03/why_cant_we_screenshot_frames_from_drm-protected_video"
     ]
   ],
@@ -61,12 +31,12 @@
   ],
   [
     [
-      "2025-03-01, 21:06:44",
-      "https://news.ycombinator.com/item?id=43223684"
+      "2025-03-01, 20:06:02",
+      "https://news.ycombinator.com/item?id=43223106"
     ],
     [
-      "China advises citizens specializing in AI to avoid traveling to America",
-      "https://www.saba.ye/en/news3445018.htm"
+      "Nearly 25 years later, Terminator 2 is getting a new video game",
+      "https://gizmodo.com/nearly-25-years-later-terminator-2-is-getting-a-new-video-game-2000570123"
     ]
   ],
   [
@@ -95,7 +65,7 @@
       "https://news.ycombinator.com/item?id=43222344"
     ],
     [
-      "Abusing C to Implement JSON Parsing with Struct Methods",
+      "Abusing C to implement JSON parsing with struct methods",
       "https://xnacly.me/posts/2025/json-parser-in-c-with-methods/"
     ]
   ],
@@ -131,12 +101,32 @@
   ],
   [
     [
+      "2025-03-01, 17:38:43",
+      "https://news.ycombinator.com/item?id=43221549"
+    ],
+    [
+      "GSA Eliminates 18F",
+      "https://www.nextgov.com/people/2025/03/gsa-eliminates-18f/403400/"
+    ]
+  ],
+  [
+    [
       "2025-03-01, 16:33:03",
       "https://news.ycombinator.com/item?id=43220938"
     ],
     [
       "Copilot for Everything: Training your AI replacement one keystroke at a time",
       "https://substack.com/home/post/p-158101095"
+    ]
+  ],
+  [
+    [
+      "2025-03-01, 13:28:03",
+      "https://news.ycombinator.com/item?id=43219026"
+    ],
+    [
+      "China tells its AI leaders to avoid U.S. travel over security concerns",
+      "https://www.wsj.com/world/china/china-ai-us-travel-advisory-ff248349"
     ]
   ],
   [
@@ -231,11 +221,21 @@
   ],
   [
     [
+      "2025-02-27, 13:17:43",
+      "https://news.ycombinator.com/item?id=43194100"
+    ],
+    [
+      "The Rake and its Prongs (2024)",
+      "https://christiantietze.de/posts/2024/06/the-rake-and-its-prongs/"
+    ]
+  ],
+  [
+    [
       "2025-02-27, 05:46:32",
       "https://news.ycombinator.com/item?id=43191696"
     ],
     [
-      "Python as a Second Language Empathy",
+      "Python as a second language empathy (2018)",
       "https://ballingt.com/python-second-language-empathy/"
     ]
   ],
