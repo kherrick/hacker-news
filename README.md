@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-01, 10:30:54](https://news.ycombinator.com/item?id=43217947) - [A DOGE staffer appears to be posting DOGE work on his public GitHub](https://twitter.com/SollenbergerRC/status/1895609294810464390)
-* [2025-03-01, 10:28:27](https://news.ycombinator.com/item?id=43217933) - [Study finds contaminants in U.S. drinking water [video]](https://www.youtube.com/watch?v=NSvlgZYGDzU)
 * [2025-03-01, 04:10:46](https://news.ycombinator.com/item?id=43215781) - [Zen 5's AVX-512 Frequency Behavior](https://chipsandcheese.com/p/zen-5s-avx-512-frequency-behavior)
 * [2025-03-01, 01:37:26](https://news.ycombinator.com/item?id=43214576) - [When eBPF pt_regs reads return garbage on the latest Linux kernels, blame Fred](https://tanelpoder.com/posts/ebpf-pt-regs-error-on-linux-blame-fred/)
 * [2025-03-01, 01:03:48](https://news.ycombinator.com/item?id=43214294) - [Self-Hosting a Firefox Sync Server](https://blog.diego.dev/posts/firefox-sync-server/)
@@ -26,6 +25,7 @@
 * [2025-02-25, 18:52:59](https://news.ycombinator.com/item?id=43175793) - [Certificate Transparency in Firefox: A Big Step for Web Security](https://blog.transparency.dev/ct-in-firefox)
 * [2025-02-25, 16:51:47](https://news.ycombinator.com/item?id=43174298) - [OlmOCR: Open-source tool to extract plain text from PDFs](https://olmocr.allenai.org/)
 * [2025-02-25, 12:33:32](https://news.ycombinator.com/item?id=43171061) - [Harnessing orbital Hall effect in spin-orbit torque MRAM](https://www.nature.com/articles/s41467-024-55437-x)
+* [2025-02-25, 12:27:30](https://news.ycombinator.com/item?id=43171007) - [What do people see when they're tripping? Analyzing Erowid's trip reports](https://themicrodose.substack.com/p/what-do-people-see-when-theyre-tripping)
 * [2025-02-25, 12:03:04](https://news.ycombinator.com/item?id=43170843) - [Troubleshooting: A skill that never goes obsolete](https://www.autodidacts.io/troubleshooting/)
 * [2025-02-25, 09:04:22](https://news.ycombinator.com/item?id=43169694) - [Failure Theory for Materials Science and Engineering](https://www.failurecriteria.com/)
 * [2025-02-25, 07:02:58](https://news.ycombinator.com/item?id=43169054) - [Stone Soup AI (2024)](https://simons.berkeley.edu/news/stone-soup-ai)
