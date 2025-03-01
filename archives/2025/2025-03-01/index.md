@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-01](index.md)
 
+* [2025-03-01, 18:24:22](https://news.ycombinator.com/item?id=43222027) - [Making o1, o3, and Sonnet 3.7 Hallucinate for Everyone](https://bengarcia.dev/making-o1-o3-and-sonnet-3-7-hallucinate-for-everyone)
 * [2025-03-01, 18:20:30](https://news.ycombinator.com/item?id=43221982) - ['We stand with Ukraine for as long as it may take' – Keir Starmer tells Zelensky](https://www.bbc.com/news/live/cn5220x56pqt)
 * [2025-03-01, 17:54:55](https://news.ycombinator.com/item?id=43221697) - [The most unhinged video wall (made out of Chromebooks)](https://varun.ch/posts/videowall/)
 * [2025-03-01, 17:53:53](https://news.ycombinator.com/item?id=43221685) - [Why so many children in America have ADHD](https://www.economist.com/united-states/2025/02/20/why-so-many-children-in-america-have-adhd)
