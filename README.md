@@ -3,7 +3,7 @@
 * [2025-03-01, 01:37:26](https://news.ycombinator.com/item?id=43214576) - [When eBPF pt_regs reads return garbage on the latest Linux kernels, blame Fred](https://tanelpoder.com/posts/ebpf-pt-regs-error-on-linux-blame-fred/)
 * [2025-03-01, 01:09:22](https://news.ycombinator.com/item?id=43214353) - [Magic Isn't Real](https://pthorpe92.dev/magic/)
 * [2025-03-01, 01:03:48](https://news.ycombinator.com/item?id=43214294) - [Self-Hosting a Firefox Sync Server](https://blog.diego.dev/posts/firefox-sync-server/)
-* [2025-03-01, 00:59:13](https://news.ycombinator.com/item?id=43214263) - [The Housing Theory of Everything](https://worksinprogress.co/issue/the-housing-theory-of-everything/)
+* [2025-03-01, 00:59:13](https://news.ycombinator.com/item?id=43214263) - [The Housing Theory of Everything (2021)](https://worksinprogress.co/issue/the-housing-theory-of-everything/)
 * [2025-02-28, 23:16:16](https://news.ycombinator.com/item?id=43213090) - [Show HN: Torii – a framework agnostic authentication library for Rust](https://github.com/cmackenzie1/torii-rs)
 * [2025-02-28, 23:05:21](https://news.ycombinator.com/item?id=43212952) - [Why it's so hard to build a jet engine](https://www.construction-physics.com/p/why-its-so-hard-to-build-a-jet-engine)
 * [2025-02-28, 21:05:35](https://news.ycombinator.com/item?id=43210858) - [How to gain code execution on hundreds of millions of people and popular apps](https://kibty.town/blog/todesktop/)
