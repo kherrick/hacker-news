@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-01](index.md)
 
+* [2025-03-01, 21:11:26](https://news.ycombinator.com/item?id=43223718) - [Show HN: Berlin Swapfest – Electronics flea market](https://www.swapfest.berlin/)
 * [2025-03-01, 20:44:10](https://news.ycombinator.com/item?id=43223489) - [Microsoft Copilot continues to expose private GitHub repositories](https://www.developer-tech.com/news/microsoft-copilot-continues-to-expose-private-github-repositories/)
 * [2025-03-01, 20:11:15](https://news.ycombinator.com/item?id=43223162) - [Ask HN: What less-popular systems programming language are you using?](https://news.ycombinator.com/item?id=43223162)
 * [2025-03-01, 20:06:02](https://news.ycombinator.com/item?id=43223106) - [Nearly 25 Years Later, Terminator 2 Is Getting a New Video Game](https://gizmodo.com/nearly-25-years-later-terminator-2-is-getting-a-new-video-game-2000570123)
