@@ -17,7 +17,7 @@
 * [2025-02-28, 15:33:39](https://news.ycombinator.com/item?id=43206722) - [Violence alters human genes for generations, researchers discover](https://news.ufl.edu/2025/02/syrian-violence-epigenetics/)
 * [2025-02-28, 15:12:54](https://news.ycombinator.com/item?id=43206491) - [AI is killing some companies, yet others are thriving – let's look at the data](https://www.elenaverna.com/p/ai-is-killing-some-companies-yet)
 * [2025-02-28, 14:45:36](https://news.ycombinator.com/item?id=43206174) - [Write to Escape Your Default Setting](https://kupajo.com/write-to-escape-your-default-setting/)
-* [2025-02-28, 11:47:52](https://news.ycombinator.com/item?id=43204604) - [Netboot Windows 11 with iSCSI and iPXE](https://terinstock.com/post/2025/02/Netboot-Windows-11-with-iSCSI-and-iPXE/)
+* [2025-02-28, 11:43:22](https://news.ycombinator.com/item?id=43204575) - [The Dino, the Llama, and the Whale (Deno and Jupyter for Local AI Experiments)](https://deno.com/blog/the-dino-llama-and-whale)
 * [2025-02-28, 09:24:13](https://news.ycombinator.com/item?id=43203543) - [Hot take: GPT 4.5 is a nothing burger](https://garymarcus.substack.com/p/hot-take-gpt-45-is-a-nothing-burger)
 * [2025-02-28, 08:02:33](https://news.ycombinator.com/item?id=43202982) - [Boris Spassky: 1937–2025](https://en.chessbase.com/post/boris-spassky-1937-2025)
 * [2025-02-28, 04:26:52](https://news.ycombinator.com/item?id=43201682) - [Surgery implants tooth material in eye as scaffolding for lens](https://www.cbc.ca/radio/asithappens/tooth-in-eye-surgery-canada-1.7470626)
