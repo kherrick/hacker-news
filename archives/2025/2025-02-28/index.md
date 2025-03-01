@@ -48,6 +48,7 @@
 * [2025-02-28, 05:20:13](https://news.ycombinator.com/item?id=43201974) - [Microsoft begins turning off uBlock Origin and other extensions in Edge](https://www.neowin.net/news/microsoft-begins-turning-off-ublock-origin-and-other-extensions-in-edge/)
 * [2025-02-28, 05:00:44](https://news.ycombinator.com/item?id=43201869) - [Mozilla introduces a Terms of Use agreement for Firefox](https://connect.mozilla.org/t5/discussions/information-about-the-new-terms-of-use-and-updated-privacy/m-p/87735#M33600)
 * [2025-02-28, 04:35:47](https://news.ycombinator.com/item?id=43201732) - [US authorities can see more than ever, with Big Tech as their eyes](https://proton.me/blog/big-tech-data-requests-surge)
+* [2025-02-28, 04:33:26](https://news.ycombinator.com/item?id=43201720) - [Video Encoding Requires Using Your Eyes](https://redvice.org/2025/encoding-requires-eyes/)
 * [2025-02-28, 04:26:52](https://news.ycombinator.com/item?id=43201682) - [Surgery aims to restore sight by implanting a telescopic lens in a tooth](https://www.cbc.ca/radio/asithappens/tooth-in-eye-surgery-canada-1.7470626)
 * [2025-02-28, 03:34:14](https://news.ycombinator.com/item?id=43201417) - [macOS Tips and Tricks](https://saurabhs.org/macos-tips)
 * [2025-02-28, 02:46:44](https://news.ycombinator.com/item?id=43201164) - [Hydrogen cyanide and acetylene detected in a brown dwarf](https://phys.org/news/2025-02-hydrogen-cyanide-acetylene-brown-dwarf.html)
