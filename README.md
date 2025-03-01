@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-01, 20:03:06](https://news.ycombinator.com/item?id=43223075) - [Xcode Constantly Phones Home](https://lapcatsoftware.com/articles/2025/2/5.html?__readwiseLocation=)
-* [2025-03-01, 19:57:00](https://news.ycombinator.com/item?id=43223009) - [Federal Firings Threaten Great Lakes' $5B Fishery](https://insideclimatenews.org/news/27022025/federal-firings-threaten-great-lakes-sea-lamprey-control-program/)
 * [2025-03-01, 19:39:00](https://news.ycombinator.com/item?id=43222842) - [18F GitHub Repositories](https://github.com/18f)
 * [2025-03-01, 19:33:41](https://news.ycombinator.com/item?id=43222791) - [The $100T Disruption: The Unforeseen Economic Earthquake](https://wildfirelabs.substack.com/p/the-100-trillion-disruption-the-unforeseen)
+* [2025-03-01, 18:37:09](https://news.ycombinator.com/item?id=43222168) - [Efabless – Shutdown Notice](https://efabless.com/notice)
 * [2025-03-01, 18:24:22](https://news.ycombinator.com/item?id=43222027) - [Making o1, o3, and Sonnet 3.7 Hallucinate for Everyone](https://bengarcia.dev/making-o1-o3-and-sonnet-3-7-hallucinate-for-everyone)
 * [2025-03-01, 17:54:55](https://news.ycombinator.com/item?id=43221697) - [The most unhinged video wall, made out of Chromebooks](https://varun.ch/posts/videowall/)
 * [2025-03-01, 17:38:43](https://news.ycombinator.com/item?id=43221549) - [GSA Eliminates 18F](https://www.nextgov.com/people/2025/03/gsa-eliminates-18f/403400/)

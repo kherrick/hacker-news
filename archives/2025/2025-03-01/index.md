@@ -9,6 +9,7 @@
 * [2025-03-01, 19:39:00](https://news.ycombinator.com/item?id=43222842) - [18F GitHub Repositories](https://github.com/18f)
 * [2025-03-01, 19:33:41](https://news.ycombinator.com/item?id=43222791) - [The $100T Disruption: The Unforeseen Economic Earthquake](https://wildfirelabs.substack.com/p/the-100-trillion-disruption-the-unforeseen)
 * [2025-03-01, 18:40:55](https://news.ycombinator.com/item?id=43222207) - [FAA targeting Verizon contract in favor of SpaceX](https://www.washingtonpost.com/business/2025/02/26/musk-starlink-doge-faa-verizon/)
+* [2025-03-01, 18:37:09](https://news.ycombinator.com/item?id=43222168) - [Efabless – Shutdown Notice](https://efabless.com/notice)
 * [2025-03-01, 18:24:22](https://news.ycombinator.com/item?id=43222027) - [Making o1, o3, and Sonnet 3.7 Hallucinate for Everyone](https://bengarcia.dev/making-o1-o3-and-sonnet-3-7-hallucinate-for-everyone)
 * [2025-03-01, 18:20:30](https://news.ycombinator.com/item?id=43221982) - ['We stand with Ukraine for as long as it may take' – Keir Starmer tells Zelensky](https://www.bbc.com/news/live/cn5220x56pqt)
 * [2025-03-01, 17:54:55](https://news.ycombinator.com/item?id=43221697) - [The most unhinged video wall (made out of Chromebooks)](https://varun.ch/posts/videowall/)
