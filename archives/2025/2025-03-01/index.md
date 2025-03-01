@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-01](index.md)
 
+* [2025-03-01, 18:20:30](https://news.ycombinator.com/item?id=43221982) - ['We stand with Ukraine for as long as it may take' – Keir Starmer tells Zelensky](https://www.bbc.com/news/live/cn5220x56pqt)
 * [2025-03-01, 17:54:55](https://news.ycombinator.com/item?id=43221697) - [The most unhinged video wall (made out of Chromebooks)](https://varun.ch/posts/videowall/)
+* [2025-03-01, 17:53:53](https://news.ycombinator.com/item?id=43221685) - [Why so many children in America have ADHD](https://www.economist.com/united-states/2025/02/20/why-so-many-children-in-america-have-adhd)
 * [2025-03-01, 17:38:43](https://news.ycombinator.com/item?id=43221549) - [GSA Eliminates 18F](https://www.nextgov.com/people/2025/03/gsa-eliminates-18f/403400/)
 * [2025-03-01, 17:38:07](https://news.ycombinator.com/item?id=43221543) - [Open AI in Trouble](https://garymarcus.substack.com/p/openai-in-deep-trouble)
 * [2025-03-01, 16:33:03](https://news.ycombinator.com/item?id=43220938) - [CoPilot for Everything: Training Your AI Replacement One Keystroke at a Time](https://substack.com/home/post/p-158101095)
