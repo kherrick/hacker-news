@@ -16,7 +16,7 @@
 * [2025-02-28, 15:12:54](https://news.ycombinator.com/item?id=43206491) - [AI is killing some companies, yet others are thriving – let's look at the data](https://www.elenaverna.com/p/ai-is-killing-some-companies-yet)
 * [2025-02-28, 14:45:36](https://news.ycombinator.com/item?id=43206174) - [Write to Escape Your Default Setting](https://kupajo.com/write-to-escape-your-default-setting/)
 * [2025-02-28, 12:19:00](https://news.ycombinator.com/item?id=43204796) - [Type++: Prohibiting Type Confusion with Inline Type Information [pdf]](https://www.ndss-symposium.org/wp-content/uploads/2025-53-paper.pdf)
-* [2025-02-27, 18:27:01](https://news.ycombinator.com/item?id=43196996) - [The serotonin theory of depression: a systematic review of the evidence (2022)](https://www.nature.com/articles/s41380-022-01661-0)
+* [2025-02-28, 10:31:00](https://news.ycombinator.com/item?id=43204032) - [Drone captures narwhals using their tusks to explore, forage and play](https://phys.org/news/2025-02-drone-captures-narwhals-tusks-explore.html)
 * [2025-02-27, 13:17:43](https://news.ycombinator.com/item?id=43194100) - [The Rake and its Prongs (2024)](https://christiantietze.de/posts/2024/06/the-rake-and-its-prongs/)
 * [2025-02-26, 18:43:20](https://news.ycombinator.com/item?id=43186698) - [Affixes: The Building Blocks of English](https://www.affixes.org/index.html)
 * [2025-02-25, 22:23:56](https://news.ycombinator.com/item?id=43178337) - [Curious Correspondence with Edward Gorey](https://www.tcj.com/the-curious-correspondence/)
