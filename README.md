@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-01, 22:22:12](https://news.ycombinator.com/item?id=43224350) - [A Letter to the American People](https://18f.org/)
+* [2025-03-01, 22:05:42](https://news.ycombinator.com/item?id=43224201) - [Federal spending is stable over time](https://lbo-news.com/2025/02/16/no-federal-spending-and-employment-are-not-out-of-control/)
 * [2025-03-01, 21:53:34](https://news.ycombinator.com/item?id=43224107) - [Firefly Blue Ghost Mission 1 Lunar Landing](https://plus.nasa.gov/scheduled-video/firefly-blue-ghost-mission-1-lunar-landing/)
 * [2025-03-01, 21:42:15](https://news.ycombinator.com/item?id=43223985) - [Why Can't We Screenshot Frames from DRM-Protected Video on Apple Devices?](https://daringfireball.net/2025/03/why_cant_we_screenshot_frames_from_drm-protected_video)
 * [2025-03-01, 21:11:26](https://news.ycombinator.com/item?id=43223718) - [Show HN: Berlin Swapfest – Electronics flea market](https://www.swapfest.berlin/)
@@ -25,7 +26,6 @@
 * [2025-02-27, 13:17:43](https://news.ycombinator.com/item?id=43194100) - [The Rake and its Prongs (2024)](https://christiantietze.de/posts/2024/06/the-rake-and-its-prongs/)
 * [2025-02-27, 05:46:32](https://news.ycombinator.com/item?id=43191696) - [Python as a Second Language Empathy](https://ballingt.com/python-second-language-empathy/)
 * [2025-02-26, 13:58:24](https://news.ycombinator.com/item?id=43183635) - [Show HN: I made a website where you can create your own \"Life in Weeks\" timeline](https://lifeweeks.app/)
-* [2025-02-25, 22:23:56](https://news.ycombinator.com/item?id=43178337) - [Curious Correspondence with Edward Gorey](https://www.tcj.com/the-curious-correspondence/)
 * [2025-02-25, 19:42:51](https://news.ycombinator.com/item?id=43176358) - [Depending in Common Lisp – Using the CLOS dependent maintenance protocol (2022)](https://stevelosh.com/blog/2022/08/depending-in-common-lisp/)
 * [2025-02-25, 18:52:59](https://news.ycombinator.com/item?id=43175793) - [Certificate Transparency in Firefox](https://blog.transparency.dev/ct-in-firefox)
 * [2025-02-25, 17:01:13](https://news.ycombinator.com/item?id=43174453) - [Maestro – Next generation mobile UI automation](https://github.com/mobile-dev-inc/Maestro)
