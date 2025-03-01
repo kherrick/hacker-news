@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-03-01](index.md)
 
 * [2025-03-01, 20:44:10](https://news.ycombinator.com/item?id=43223489) - [Microsoft Copilot continues to expose private GitHub repositories](https://www.developer-tech.com/news/microsoft-copilot-continues-to-expose-private-github-repositories/)
+* [2025-03-01, 20:11:15](https://news.ycombinator.com/item?id=43223162) - [Ask HN: What less-popular systems programming language are you using?](https://news.ycombinator.com/item?id=43223162)
+* [2025-03-01, 20:06:02](https://news.ycombinator.com/item?id=43223106) - [Nearly 25 Years Later, Terminator 2 Is Getting a New Video Game](https://gizmodo.com/nearly-25-years-later-terminator-2-is-getting-a-new-video-game-2000570123)
 * [2025-03-01, 20:03:06](https://news.ycombinator.com/item?id=43223075) - [Xcode Constantly Phones Home](https://lapcatsoftware.com/articles/2025/2/5.html?__readwiseLocation=)
 * [2025-03-01, 19:57:00](https://news.ycombinator.com/item?id=43223009) - [Federal Firings Threaten Great Lakes' $5B Fishery](https://insideclimatenews.org/news/27022025/federal-firings-threaten-great-lakes-sea-lamprey-control-program/)
 * [2025-03-01, 19:39:00](https://news.ycombinator.com/item?id=43222842) - [18F GitHub Repositories](https://github.com/18f)
