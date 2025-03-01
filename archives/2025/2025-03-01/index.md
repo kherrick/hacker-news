@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-03-01](index.md)
 
+* [2025-03-01, 23:01:14](https://news.ycombinator.com/item?id=43224862) - [The American Weather Forecast Is in Trouble](https://www.theatlantic.com/science/archive/2025/02/noaa-cuts-nws/681875/)
 * [2025-03-01, 22:22:12](https://news.ycombinator.com/item?id=43224350) - [A Letter to the American People](https://18f.org/)
 * [2025-03-01, 22:05:42](https://news.ycombinator.com/item?id=43224201) - [Federal spending is stable over time](https://lbo-news.com/2025/02/16/no-federal-spending-and-employment-are-not-out-of-control/)
 * [2025-03-01, 21:53:34](https://news.ycombinator.com/item?id=43224107) - [Firefly Blue Ghost Mission 1 Lunar Landing](https://plus.nasa.gov/scheduled-video/firefly-blue-ghost-mission-1-lunar-landing/)
 * [2025-03-01, 21:42:15](https://news.ycombinator.com/item?id=43223985) - [Why Can't We Screenshot Frames from DRM-Protected Video on Apple Devices?](https://daringfireball.net/2025/03/why_cant_we_screenshot_frames_from_drm-protected_video)
 * [2025-03-01, 21:11:26](https://news.ycombinator.com/item?id=43223718) - [Show HN: Berlin Swapfest – Electronics flea market](https://www.swapfest.berlin/)
+* [2025-03-01, 21:06:44](https://news.ycombinator.com/item?id=43223684) - [China advises citizens specializing in AI to avoid traveling to America](https://www.saba.ye/en/news3445018.htm)
 * [2025-03-01, 20:44:10](https://news.ycombinator.com/item?id=43223489) - [Microsoft Copilot continues to expose private GitHub repositories](https://www.developer-tech.com/news/microsoft-copilot-continues-to-expose-private-github-repositories/)
 * [2025-03-01, 20:11:15](https://news.ycombinator.com/item?id=43223162) - [Ask HN: What less-popular systems programming language are you using?](https://news.ycombinator.com/item?id=43223162)
 * [2025-03-01, 20:06:02](https://news.ycombinator.com/item?id=43223106) - [Nearly 25 Years Later, Terminator 2 Is Getting a New Video Game](https://gizmodo.com/nearly-25-years-later-terminator-2-is-getting-a-new-video-game-2000570123)
