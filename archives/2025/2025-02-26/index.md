@@ -13,6 +13,7 @@
 * [2025-02-26, 19:29:37](https://news.ycombinator.com/item?id=43187209) - [Replace OCR with Vision Language Models](https://github.com/vlm-run/vlmrun-cookbook/blob/main/notebooks/01_schema_showcase.ipynb)
 * [2025-02-26, 18:52:38](https://news.ycombinator.com/item?id=43186801) - [Microsoft is Getting Rusty [video]](https://www.youtube.com/watch?v=1VgptLwP588)
 * [2025-02-26, 18:52:23](https://news.ycombinator.com/item?id=43186797) - [From Records to Agents: The Overlooked Revolution in Enterprise Software](https://sperand.io/posts/the-future-of-enterprise-software/)
+* [2025-02-26, 18:43:20](https://news.ycombinator.com/item?id=43186698) - [Affixes: The Building Blocks of English](https://www.affixes.org/index.html)
 * [2025-02-26, 18:42:45](https://news.ycombinator.com/item?id=43186692) - [Google is making it even easier to remove your personal information on Search](https://www.engadget.com/cybersecurity/google-is-making-it-even-easier-to-remove-your-personal-information-on-search-145326075.html)
 * [2025-02-26, 18:36:51](https://news.ycombinator.com/item?id=43186614) - [Securing tomorrow's software: the need for memory safety standards](https://security.googleblog.com/2025/02/securing-tomorrows-software-need-for.html)
 * [2025-02-26, 18:21:11](https://news.ycombinator.com/item?id=43186433) - [Skopje’s eccentric post office (2021)](https://www.new-east-archive.org/articles/show/12963/concrete-ideas-skopje-central-post-office-modernist-brutalism-demolition-architecture-north-macedonia)
