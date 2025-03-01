@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-03-01, 04:10:46",
+      "https://news.ycombinator.com/item?id=43215781"
+    ],
+    [
+      "Zen 5's AVX-512 Frequency Behavior",
+      "https://chipsandcheese.com/p/zen-5s-avx-512-frequency-behavior"
+    ]
+  ],
+  [
+    [
       "2025-03-01, 01:37:26",
       "https://news.ycombinator.com/item?id=43214576"
     ],
     [
       "When eBPF pt_regs reads return garbage on the latest Linux kernels, blame Fred",
       "https://tanelpoder.com/posts/ebpf-pt-regs-error-on-linux-blame-fred/"
-    ]
-  ],
-  [
-    [
-      "2025-03-01, 01:09:22",
-      "https://news.ycombinator.com/item?id=43214353"
-    ],
-    [
-      "Magic Isn't Real",
-      "https://pthorpe92.dev/magic/"
     ]
   ],
   [
@@ -37,6 +37,16 @@
     [
       "The Housing Theory of Everything (2021)",
       "https://worksinprogress.co/issue/the-housing-theory-of-everything/"
+    ]
+  ],
+  [
+    [
+      "2025-02-28, 23:59:35",
+      "https://news.ycombinator.com/item?id=43213612"
+    ],
+    [
+      "An update on Mozilla's terms of use for Firefox",
+      "https://blog.mozilla.org/en/products/firefox/update-on-terms-of-use/"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2025-02-26, 17:31:58",
-      "https://news.ycombinator.com/item?id=43185909"
-    ],
-    [
-      "Introducing a terms of use and updated privacy notice for Firefox",
-      "https://blog.mozilla.org/en/products/firefox/firefox-news/firefox-terms-of-use/"
-    ]
-  ],
-  [
-    [
       "2025-02-25, 16:51:47",
       "https://news.ycombinator.com/item?id=43174298"
     ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=43173808"
     ],
     [
-      "Resident Physicians' Exam Scores Tied to Patient Survival",
+      "Resident physicians' exam scores tied to patient survival",
       "https://hms.harvard.edu/news/resident-physicians-exam-scores-tied-patient-survival"
     ]
   ],
