@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-01](index.md)
 
+* [2025-03-01, 17:54:55](https://news.ycombinator.com/item?id=43221697) - [The most unhinged video wall (made out of Chromebooks)](https://varun.ch/posts/videowall/)
 * [2025-03-01, 17:38:43](https://news.ycombinator.com/item?id=43221549) - [GSA Eliminates 18F](https://www.nextgov.com/people/2025/03/gsa-eliminates-18f/403400/)
 * [2025-03-01, 17:38:07](https://news.ycombinator.com/item?id=43221543) - [Open AI in Trouble](https://garymarcus.substack.com/p/openai-in-deep-trouble)
 * [2025-03-01, 16:33:03](https://news.ycombinator.com/item?id=43220938) - [CoPilot for Everything: Training Your AI Replacement One Keystroke at a Time](https://substack.com/home/post/p-158101095)
@@ -11,6 +12,7 @@
 * [2025-03-01, 15:01:29](https://news.ycombinator.com/item?id=43219865) - [Servo – Open Collective](https://opencollective.com/servo)
 * [2025-03-01, 14:52:00](https://news.ycombinator.com/item?id=43219744) - [Your Next Two Zeroes](https://taylor.town/next-two-zeroes)
 * [2025-03-01, 14:39:50](https://news.ycombinator.com/item?id=43219616) - [The Press Falls to Another Record Low in Public Trust](https://jonathanturley.org/2025/03/01/the-press-falls-to-another-record-low-in-public-trust/)
+* [2025-03-01, 14:20:12](https://news.ycombinator.com/item?id=43219455) - [The AI Code Review Disconnect: Why Your Tools Aren't Solving Your Real Problem](https://avikalpg.github.io/blog/articles/20250301_ai_code_reviews_vs_code_review_interfaces.html)
 * [2025-03-01, 14:00:11](https://news.ycombinator.com/item?id=43219297) - [Cuts to US national parks and forests met with backlash](https://www.bbc.com/news/articles/czx7kez4vx2o)
 * [2025-03-01, 13:31:58](https://news.ycombinator.com/item?id=43219052) - [Show HN: Open-source alternatives to tools you pay for](https://alternativeoss.com)
 * [2025-03-01, 13:27:33](https://news.ycombinator.com/item?id=43219022) - [Zapier says someone broke into its code repositories and may have customer data](https://www.theverge.com/news/622026/zapier-data-breach-code-repositories)
