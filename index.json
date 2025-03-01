@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-03-01, 20:03:06",
+      "https://news.ycombinator.com/item?id=43223075"
+    ],
+    [
+      "Xcode Constantly Phones Home",
+      "https://lapcatsoftware.com/articles/2025/2/5.html?__readwiseLocation="
+    ]
+  ],
+  [
+    [
+      "2025-03-01, 19:57:00",
+      "https://news.ycombinator.com/item?id=43223009"
+    ],
+    [
+      "Federal Firings Threaten Great Lakes' $5B Fishery",
+      "https://insideclimatenews.org/news/27022025/federal-firings-threaten-great-lakes-sea-lamprey-control-program/"
+    ]
+  ],
+  [
+    [
+      "2025-03-01, 19:39:00",
+      "https://news.ycombinator.com/item?id=43222842"
+    ],
+    [
+      "18F GitHub Repositories",
+      "https://github.com/18f"
+    ]
+  ],
+  [
+    [
       "2025-03-01, 19:33:41",
       "https://news.ycombinator.com/item?id=43222791"
     ],
@@ -141,26 +171,6 @@
   ],
   [
     [
-      "2025-02-28, 15:12:54",
-      "https://news.ycombinator.com/item?id=43206491"
-    ],
-    [
-      "AI is killing some companies, yet others are thriving – let's look at the data",
-      "https://www.elenaverna.com/p/ai-is-killing-some-companies-yet"
-    ]
-  ],
-  [
-    [
-      "2025-02-28, 14:45:36",
-      "https://news.ycombinator.com/item?id=43206174"
-    ],
-    [
-      "Write to Escape Your Default Setting",
-      "https://kupajo.com/write-to-escape-your-default-setting/"
-    ]
-  ],
-  [
-    [
       "2025-02-28, 12:19:00",
       "https://news.ycombinator.com/item?id=43204796"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2025-02-27, 13:17:43",
-      "https://news.ycombinator.com/item?id=43194100"
-    ],
-    [
-      "The Rake and its Prongs (2024)",
-      "https://christiantietze.de/posts/2024/06/the-rake-and-its-prongs/"
-    ]
-  ],
-  [
-    [
       "2025-02-26, 18:43:20",
       "https://news.ycombinator.com/item?id=43186698"
     ],
@@ -227,6 +227,16 @@
     [
       "Depending in Common Lisp – Using the CLOS dependent maintenance protocol (2022)",
       "https://stevelosh.com/blog/2022/08/depending-in-common-lisp/"
+    ]
+  ],
+  [
+    [
+      "2025-02-25, 19:19:19",
+      "https://news.ycombinator.com/item?id=43176091"
+    ],
+    [
+      "A Brief and History of Our Search for Life in the Clouds",
+      "https://www.smithsonianmag.com/science-nature/a-brief-and-amazing-history-of-our-search-for-life-in-the-clouds-180985981/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Resident physicians' exam scores tied to patient survival",
       "https://hms.harvard.edu/news/resident-physicians-exam-scores-tied-patient-survival"
-    ]
-  ],
-  [
-    [
-      "2025-02-25, 12:33:32",
-      "https://news.ycombinator.com/item?id=43171061"
-    ],
-    [
-      "Harnessing orbital Hall effect in spin-orbit torque MRAM",
-      "https://www.nature.com/articles/s41467-024-55437-x"
     ]
   ],
   [
