@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-01, 01:37:26",
+      "https://news.ycombinator.com/item?id=43214576"
+    ],
+    [
+      "When eBPF pt_regs reads return garbage on the latest Linux kernels, blame Fred",
+      "https://tanelpoder.com/posts/ebpf-pt-regs-error-on-linux-blame-fred/"
+    ]
+  ],
+  [
+    [
+      "2025-03-01, 01:03:48",
+      "https://news.ycombinator.com/item?id=43214294"
+    ],
+    [
+      "Self-Hosting a Firefox Sync Server",
+      "https://blog.diego.dev/posts/firefox-sync-server/"
+    ]
+  ],
+  [
+    [
       "2025-03-01, 00:59:13",
       "https://news.ycombinator.com/item?id=43214263"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2025-02-28, 18:49:46",
-      "https://news.ycombinator.com/item?id=43208973"
-    ],
-    [
-      "Zelensky leaves White House after angry meeting",
-      "https://www.bbc.com/news/live/c625ex282zzt"
-    ]
-  ],
-  [
-    [
       "2025-02-28, 17:12:26",
       "https://news.ycombinator.com/item?id=43207942"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2025-02-28, 12:00:16",
-      "https://news.ycombinator.com/item?id=43204682"
-    ],
-    [
-      "Openlayer (YC S21) is hiring a senior back end engineer",
-      "https://www.ycombinator.com/companies/openlayer/jobs/yIE9WI3-senior-backend-engineer"
-    ]
-  ],
-  [
-    [
       "2025-02-28, 11:47:52",
       "https://news.ycombinator.com/item?id=43204604"
     ],
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-02-27, 18:27:01",
-      "https://news.ycombinator.com/item?id=43196996"
-    ],
-    [
-      "The serotonin theory of depression: a systematic review of the evidence (2022)",
-      "https://www.nature.com/articles/s41380-022-01661-0"
-    ]
-  ],
-  [
-    [
       "2025-02-26, 17:31:58",
       "https://news.ycombinator.com/item?id=43185909"
     ],
@@ -237,6 +227,16 @@
     [
       "OlmOCR: Open-source tool to extract plain text from PDFs",
       "https://olmocr.allenai.org/"
+    ]
+  ],
+  [
+    [
+      "2025-02-25, 16:18:11",
+      "https://news.ycombinator.com/item?id=43173808"
+    ],
+    [
+      "Resident Physicians' Exam Scores Tied to Patient Survival",
+      "https://hms.harvard.edu/news/resident-physicians-exam-scores-tied-patient-survival"
     ]
   ],
   [
