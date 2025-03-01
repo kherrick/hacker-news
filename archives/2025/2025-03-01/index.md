@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-01](index.md)
 
+* [2025-03-01, 19:33:41](https://news.ycombinator.com/item?id=43222791) - [The $100T Disruption: The Unforeseen Economic Earthquake](https://wildfirelabs.substack.com/p/the-100-trillion-disruption-the-unforeseen)
 * [2025-03-01, 18:40:55](https://news.ycombinator.com/item?id=43222207) - [FAA targeting Verizon contract in favor of SpaceX](https://www.washingtonpost.com/business/2025/02/26/musk-starlink-doge-faa-verizon/)
 * [2025-03-01, 18:24:22](https://news.ycombinator.com/item?id=43222027) - [Making o1, o3, and Sonnet 3.7 Hallucinate for Everyone](https://bengarcia.dev/making-o1-o3-and-sonnet-3-7-hallucinate-for-everyone)
 * [2025-03-01, 18:20:30](https://news.ycombinator.com/item?id=43221982) - ['We stand with Ukraine for as long as it may take' – Keir Starmer tells Zelensky](https://www.bbc.com/news/live/cn5220x56pqt)
@@ -14,6 +15,7 @@
 * [2025-03-01, 16:33:03](https://news.ycombinator.com/item?id=43220938) - [CoPilot for Everything: Training Your AI Replacement One Keystroke at a Time](https://substack.com/home/post/p-158101095)
 * [2025-03-01, 16:13:27](https://news.ycombinator.com/item?id=43220718) - [Hemochromatosis patients can donate their blood rather than having it discarded](https://medicalxpress.com/news/2025-02-hemochromatosis-patients-donate-blood-discarded.html)
 * [2025-03-01, 15:01:29](https://news.ycombinator.com/item?id=43219865) - [Servo – Open Collective](https://opencollective.com/servo)
+* [2025-03-01, 15:01:29](https://news.ycombinator.com/item?id=43219865) - [Servo – Open Collective](https://github.com/sponsors/servo)
 * [2025-03-01, 14:52:00](https://news.ycombinator.com/item?id=43219744) - [Your Next Two Zeroes](https://taylor.town/next-two-zeroes)
 * [2025-03-01, 14:39:50](https://news.ycombinator.com/item?id=43219616) - [The Press Falls to Another Record Low in Public Trust](https://jonathanturley.org/2025/03/01/the-press-falls-to-another-record-low-in-public-trust/)
 * [2025-03-01, 14:20:12](https://news.ycombinator.com/item?id=43219455) - [The AI Code Review Disconnect: Why Your Tools Aren't Solving Your Real Problem](https://avikalpg.github.io/blog/articles/20250301_ai_code_reviews_vs_code_review_interfaces.html)
