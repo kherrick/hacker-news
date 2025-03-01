@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-01](index.md)
 
+* [2025-03-01, 17:38:43](https://news.ycombinator.com/item?id=43221549) - [GSA Eliminates 18F](https://www.nextgov.com/people/2025/03/gsa-eliminates-18f/403400/)
+* [2025-03-01, 17:38:07](https://news.ycombinator.com/item?id=43221543) - [Open AI in Trouble](https://garymarcus.substack.com/p/openai-in-deep-trouble)
+* [2025-03-01, 16:33:03](https://news.ycombinator.com/item?id=43220938) - [CoPilot for Everything: Training Your AI Replacement One Keystroke at a Time](https://substack.com/home/post/p-158101095)
 * [2025-03-01, 16:13:27](https://news.ycombinator.com/item?id=43220718) - [Hemochromatosis patients can donate their blood rather than having it discarded](https://medicalxpress.com/news/2025-02-hemochromatosis-patients-donate-blood-discarded.html)
 * [2025-03-01, 15:01:29](https://news.ycombinator.com/item?id=43219865) - [Servo – Open Collective](https://opencollective.com/servo)
 * [2025-03-01, 14:52:00](https://news.ycombinator.com/item?id=43219744) - [Your Next Two Zeroes](https://taylor.town/next-two-zeroes)
