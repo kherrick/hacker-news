@@ -10,6 +10,7 @@
 * [2025-02-25, 20:41:30](https://news.ycombinator.com/item?id=43177117) - [Show HN: MyCoder, an open source Claude-Code alternative](https://github.com/drivecore/mycoder)
 * [2025-02-25, 20:16:10](https://news.ycombinator.com/item?id=43176782) - [Ghost House – software for automatic inbetweens](https://www.tedwiggin.com/MIMT.html)
 * [2025-02-25, 19:59:41](https://news.ycombinator.com/item?id=43176553) - [Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs [pdf]](https://martins1612.github.io/emergent_misalignment_betley.pdf)
+* [2025-02-25, 19:42:51](https://news.ycombinator.com/item?id=43176358) - [Depending in Common Lisp – Using the CLOS dependent maintenance protocol (2022)](https://stevelosh.com/blog/2022/08/depending-in-common-lisp/)
 * [2025-02-25, 19:39:21](https://news.ycombinator.com/item?id=43176314) - [Framework's first desktop is a strange–but unique–mini ITX gaming PC](https://arstechnica.com/gadgets/2025/02/framework-known-for-upgradable-laptops-intros-not-particularly-upgradable-desktop/)
 * [2025-02-25, 18:57:33](https://news.ycombinator.com/item?id=43175848) - [AI is blurring the line between PMs and engineers?](https://humanloop.com/blog/ai-is-blurring-the-lines-between-pms-and-engineers)
 * [2025-02-25, 18:52:59](https://news.ycombinator.com/item?id=43175793) - [Certificate Transparency in Firefox: A Big Step for Web Security](https://blog.transparency.dev/ct-in-firefox)

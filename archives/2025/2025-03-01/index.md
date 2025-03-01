@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-01](index.md)
 
+* [2025-03-01, 11:57:09](https://news.ycombinator.com/item?id=43218410) - [What is vibe coding? How creators are building software with no coding knowledge](https://alitu.com/creator/workflow/what-is-vibe-coding/)
 * [2025-03-01, 10:30:54](https://news.ycombinator.com/item?id=43217947) - [A DOGE staffer appears to be posting DOGE work on his public GitHub](https://twitter.com/SollenbergerRC/status/1895609294810464390)
 * [2025-03-01, 10:28:27](https://news.ycombinator.com/item?id=43217933) - [Study finds contaminants in U.S. drinking water [video]](https://www.youtube.com/watch?v=NSvlgZYGDzU)
 * [2025-03-01, 08:44:16](https://news.ycombinator.com/item?id=43217357) - [Yes, Claude Code can decompile itself. Here's the source code](https://ghuntley.com/tradecraft/)
