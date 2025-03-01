@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-01, 18:40:55](https://news.ycombinator.com/item?id=43222207) - [FAA targeting Verizon contract in favor of SpaceX](https://www.washingtonpost.com/business/2025/02/26/musk-starlink-doge-faa-verizon/)
 * [2025-03-01, 18:24:22](https://news.ycombinator.com/item?id=43222027) - [Making o1, o3, and Sonnet 3.7 Hallucinate for Everyone](https://bengarcia.dev/making-o1-o3-and-sonnet-3-7-hallucinate-for-everyone)
 * [2025-03-01, 17:54:55](https://news.ycombinator.com/item?id=43221697) - [The most unhinged video wall, made out of Chromebooks](https://varun.ch/posts/videowall/)
 * [2025-03-01, 17:38:43](https://news.ycombinator.com/item?id=43221549) - [GSA Eliminates 18F](https://www.nextgov.com/people/2025/03/gsa-eliminates-18f/403400/)
@@ -14,7 +15,6 @@
 * [2025-02-28, 21:05:35](https://news.ycombinator.com/item?id=43210858) - [How to gain code execution on hundreds of millions of people and popular apps](https://kibty.town/blog/todesktop/)
 * [2025-02-28, 17:01:43](https://news.ycombinator.com/item?id=43207831) - [3,200% CPU Utilization](https://josephmate.github.io/2025-02-26-3200p-cpu-util/)
 * [2025-02-28, 15:12:54](https://news.ycombinator.com/item?id=43206491) - [AI is killing some companies, yet others are thriving – let's look at the data](https://www.elenaverna.com/p/ai-is-killing-some-companies-yet)
-* [2025-02-28, 14:45:36](https://news.ycombinator.com/item?id=43206174) - [Write to Escape Your Default Setting](https://kupajo.com/write-to-escape-your-default-setting/)
 * [2025-02-28, 12:19:00](https://news.ycombinator.com/item?id=43204796) - [Type++: Prohibiting Type Confusion with Inline Type Information [pdf]](https://www.ndss-symposium.org/wp-content/uploads/2025-53-paper.pdf)
 * [2025-02-28, 10:31:00](https://news.ycombinator.com/item?id=43204032) - [Drone captures narwhals using their tusks to explore, forage and play](https://phys.org/news/2025-02-drone-captures-narwhals-tusks-explore.html)
 * [2025-02-27, 13:17:43](https://news.ycombinator.com/item?id=43194100) - [The Rake and its Prongs (2024)](https://christiantietze.de/posts/2024/06/the-rake-and-its-prongs/)
