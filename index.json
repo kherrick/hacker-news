@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-01, 22:22:12",
+      "https://news.ycombinator.com/item?id=43224350"
+    ],
+    [
+      "A Letter to the American People",
+      "https://18f.org/"
+    ]
+  ],
+  [
+    [
       "2025-03-01, 21:53:34",
       "https://news.ycombinator.com/item?id=43224107"
     ],
@@ -47,16 +57,6 @@
     [
       "Xcode constantly phones home",
       "https://lapcatsoftware.com/articles/2025/2/5.html?__readwiseLocation="
-    ]
-  ],
-  [
-    [
-      "2025-03-01, 19:37:49",
-      "https://news.ycombinator.com/item?id=43222834"
-    ],
-    [
-      "Infinite Retrieval: Attention enhanced LLMs in long-context processing",
-      "https://arxiv.org/abs/2502.12962"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2025-02-27, 05:46:32",
+      "https://news.ycombinator.com/item?id=43191696"
+    ],
+    [
+      "Python as a Second Language Empathy",
+      "https://ballingt.com/python-second-language-empathy/"
+    ]
+  ],
+  [
+    [
       "2025-02-26, 13:58:24",
       "https://news.ycombinator.com/item?id=43183635"
     ],
@@ -287,16 +297,6 @@
     [
       "What do people see when they're tripping? Analyzing Erowid's trip reports",
       "https://themicrodose.substack.com/p/what-do-people-see-when-theyre-tripping"
-    ]
-  ],
-  [
-    [
-      "2025-02-25, 12:03:04",
-      "https://news.ycombinator.com/item?id=43170843"
-    ],
-    [
-      "Troubleshooting: A skill that never goes obsolete",
-      "https://www.autodidacts.io/troubleshooting/"
     ]
   ]
 ]
