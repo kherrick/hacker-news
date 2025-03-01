@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-01](index.md)
 
+* [2025-03-01, 14:00:11](https://news.ycombinator.com/item?id=43219297) - [Cuts to US national parks and forests met with backlash](https://www.bbc.com/news/articles/czx7kez4vx2o)
 * [2025-03-01, 13:27:33](https://news.ycombinator.com/item?id=43219022) - [Zapier says someone broke into its code repositories and may have customer data](https://www.theverge.com/news/622026/zapier-data-breach-code-repositories)
 * [2025-03-01, 13:12:36](https://news.ycombinator.com/item?id=43218915) - [Intel delays $28B Ohio chip fabs to 2030](https://www.reuters.com/technology/intel-delays-28-billion-ohio-chip-factory-2030-local-media-reports-2025-02-28/)
 * [2025-03-01, 13:06:17](https://news.ycombinator.com/item?id=43218872) - [GrapheneOS blocked exploitation of 3 Android zero-days used by Cellebrite](https://grapheneos.social/@GrapheneOS/114081753914226921)

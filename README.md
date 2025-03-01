@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-01, 14:00:11](https://news.ycombinator.com/item?id=43219297) - [Cuts to US national parks and forests met with backlash](https://www.bbc.com/news/articles/czx7kez4vx2o)
 * [2025-03-01, 13:27:33](https://news.ycombinator.com/item?id=43219022) - [Zapier says someone broke into its code repositories and may have customer data](https://www.theverge.com/news/622026/zapier-data-breach-code-repositories)
 * [2025-03-01, 13:12:36](https://news.ycombinator.com/item?id=43218915) - [Intel delays $28B Ohio chip fabs to 2030](https://www.reuters.com/technology/intel-delays-28-billion-ohio-chip-factory-2030-local-media-reports-2025-02-28/)
 * [2025-03-01, 13:06:17](https://news.ycombinator.com/item?id=43218872) - [GrapheneOS blocked exploitation of 3 Android zero-days used by Cellebrite](https://grapheneos.social/@GrapheneOS/114081753914226921)
@@ -22,7 +23,6 @@
 * [2025-02-28, 08:02:33](https://news.ycombinator.com/item?id=43202982) - [Boris Spassky: 1937–2025](https://en.chessbase.com/post/boris-spassky-1937-2025)
 * [2025-02-28, 04:26:52](https://news.ycombinator.com/item?id=43201682) - [Surgery implants tooth material in eye as scaffolding for lens](https://www.cbc.ca/radio/asithappens/tooth-in-eye-surgery-canada-1.7470626)
 * [2025-02-26, 18:43:20](https://news.ycombinator.com/item?id=43186698) - [Affixes: The Building Blocks of English](https://www.affixes.org/index.html)
-* [2025-02-26, 00:23:39](https://news.ycombinator.com/item?id=43179222) - [From Reform to Ruin in the USSR](https://www.cogitations.co/p/from-reform-to-ruin-in-the-ussr)
 * [2025-02-25, 19:42:51](https://news.ycombinator.com/item?id=43176358) - [Depending in Common Lisp – Using the CLOS dependent maintenance protocol (2022)](https://stevelosh.com/blog/2022/08/depending-in-common-lisp/)
 * [2025-02-25, 18:52:59](https://news.ycombinator.com/item?id=43175793) - [Certificate Transparency in Firefox: A Big Step for Web Security](https://blog.transparency.dev/ct-in-firefox)
 * [2025-02-25, 18:02:31](https://news.ycombinator.com/item?id=43175201) - [The vinyl-carver sparking a craze for cutting records at home](https://www.theguardian.com/music/2025/feb/25/vinyl-carver-lathe-cutters-home-cutting-records-craze)
