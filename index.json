@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2025-03-01, 13:31:58",
+      "https://news.ycombinator.com/item?id=43219052"
+    ],
+    [
+      "Show HN: Open-source alternatives to tools you pay for",
+      "https://alternativeoss.com"
+    ]
+  ],
+  [
+    [
       "2025-03-01, 13:27:33",
       "https://news.ycombinator.com/item?id=43219022"
     ],
     [
       "Zapier says someone broke into its code repositories and may have customer data",
       "https://www.theverge.com/news/622026/zapier-data-breach-code-repositories"
+    ]
+  ],
+  [
+    [
+      "2025-03-01, 13:24:30",
+      "https://news.ycombinator.com/item?id=43218998"
+    ],
+    [
+      "OpenGL to WASM, learning from my mistakes",
+      "https://uds5501.github.io/mindpalace/2025/03/01/opengl-webgl-porting.html"
     ]
   ],
   [
@@ -37,6 +57,26 @@
     [
       "GrapheneOS blocked exploitation of 3 Android zero-days used by Cellebrite",
       "https://grapheneos.social/@GrapheneOS/114081753914226921"
+    ]
+  ],
+  [
+    [
+      "2025-03-01, 11:57:09",
+      "https://news.ycombinator.com/item?id=43218410"
+    ],
+    [
+      "What is vibe coding? How creators are building software with no coding knowledge",
+      "https://alitu.com/creator/workflow/what-is-vibe-coding/"
+    ]
+  ],
+  [
+    [
+      "2025-03-01, 10:30:54",
+      "https://news.ycombinator.com/item?id=43217947"
+    ],
+    [
+      "A DOGE staffer appears to be posting DOGE work on his public GitHub",
+      "https://twitter.com/SollenbergerRC/status/1895609294810464390"
     ]
   ],
   [
@@ -81,12 +121,22 @@
   ],
   [
     [
-      "2025-02-28, 23:59:35",
-      "https://news.ycombinator.com/item?id=43213612"
+      "2025-03-01, 00:59:13",
+      "https://news.ycombinator.com/item?id=43214263"
     ],
     [
-      "An update on Mozilla's terms of use for Firefox",
-      "https://blog.mozilla.org/en/products/firefox/update-on-terms-of-use/"
+      "The Housing Theory of Everything (2021)",
+      "https://worksinprogress.co/issue/the-housing-theory-of-everything/"
+    ]
+  ],
+  [
+    [
+      "2025-02-28, 23:20:38",
+      "https://news.ycombinator.com/item?id=43213143"
+    ],
+    [
+      "Inheriting is becoming nearly as important as working",
+      "https://www.economist.com/leaders/2025/02/27/inheriting-is-becoming-nearly-as-important-as-working"
     ]
   ],
   [
@@ -122,31 +172,11 @@
   [
     [
       "2025-02-28, 20:51:34",
-      "https://news.ycombinator.com/item?id=43210537"
-    ],
-    [
-      "Japanese Toshiba Typewriter Model BW-2112 (2020) [video]",
-      "https://www.youtube.com/watch?v=JZcui85b4EE"
-    ]
-  ],
-  [
-    [
-      "2025-02-28, 20:51:34",
       "https://news.ycombinator.com/item?id=43210536"
     ],
     [
       "400 reasons to not use Microsoft Azure",
       "https://azsh.it"
-    ]
-  ],
-  [
-    [
-      "2025-02-28, 18:59:23",
-      "https://news.ycombinator.com/item?id=43209064"
-    ],
-    [
-      "Merlion: A Machine Learning Framework for Time Series Intelligence",
-      "https://github.com/salesforce/Merlion"
     ]
   ],
   [
@@ -187,36 +217,6 @@
     [
       "Type++: Prohibiting Type Confusion with Inline Type Information [pdf]",
       "https://www.ndss-symposium.org/wp-content/uploads/2025-53-paper.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-02-28, 11:43:22",
-      "https://news.ycombinator.com/item?id=43204575"
-    ],
-    [
-      "The Dino, the Llama, and the Whale (Deno and Jupyter for Local AI Experiments)",
-      "https://deno.com/blog/the-dino-llama-and-whale"
-    ]
-  ],
-  [
-    [
-      "2025-02-28, 08:02:33",
-      "https://news.ycombinator.com/item?id=43202982"
-    ],
-    [
-      "Boris Spassky: 1937–2025",
-      "https://en.chessbase.com/post/boris-spassky-1937-2025"
-    ]
-  ],
-  [
-    [
-      "2025-02-28, 04:26:52",
-      "https://news.ycombinator.com/item?id=43201682"
-    ],
-    [
-      "Surgery implants tooth material in eye as scaffolding for lens",
-      "https://www.cbc.ca/radio/asithappens/tooth-in-eye-surgery-canada-1.7470626"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2025-02-25, 12:27:30",
+      "https://news.ycombinator.com/item?id=43171007"
+    ],
+    [
+      "What do people see when they're tripping? Analyzing Erowid's trip reports",
+      "https://themicrodose.substack.com/p/what-do-people-see-when-theyre-tripping"
+    ]
+  ],
+  [
+    [
       "2025-02-25, 12:03:04",
       "https://news.ycombinator.com/item?id=43170843"
     ],
     [
       "Troubleshooting: A skill that never goes obsolete",
       "https://www.autodidacts.io/troubleshooting/"
-    ]
-  ],
-  [
-    [
-      "2025-02-24, 14:51:53",
-      "https://news.ycombinator.com/item?id=43160226"
-    ],
-    [
-      "Calendar.txt",
-      "https://terokarvinen.com/2021/calendar-txt/"
     ]
   ]
 ]
