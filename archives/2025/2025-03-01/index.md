@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-01](index.md)
 
+* [2025-03-01, 23:17:06](https://news.ycombinator.com/item?id=43225054) - [Trump's EV Rollback Could Cost Taxpayers $1B](https://www.thedrive.com/news/trumps-ev-rollback-could-cost-taxpayers-1-billion)
 * [2025-03-01, 23:01:14](https://news.ycombinator.com/item?id=43224862) - [The American Weather Forecast Is in Trouble](https://www.theatlantic.com/science/archive/2025/02/noaa-cuts-nws/681875/)
 * [2025-03-01, 22:22:12](https://news.ycombinator.com/item?id=43224350) - [A Letter to the American People](https://18f.org/)
 * [2025-03-01, 22:05:42](https://news.ycombinator.com/item?id=43224201) - [Federal spending is stable over time](https://lbo-news.com/2025/02/16/no-federal-spending-and-employment-are-not-out-of-control/)

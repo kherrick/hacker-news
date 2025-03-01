@@ -36,6 +36,7 @@
 * [2025-02-26, 15:10:52](https://news.ycombinator.com/item?id=43184362) - [Show HN: Emdash – Slack/Zoom alternative for distributed team collaboration](https://emdash.io/)
 * [2025-02-26, 15:05:02](https://news.ycombinator.com/item?id=43184291) - [TypeScript types can run DOOM [video]](https://www.youtube.com/watch?v=0mCsluv5FXA)
 * [2025-02-26, 14:28:26](https://news.ycombinator.com/item?id=43183891) - [Show HN: A Database Written in Golang](https://github.com/Sahilb315/AtomixDB)
+* [2025-02-26, 14:27:15](https://news.ycombinator.com/item?id=43183873) - [Nuclear Reactor Lasers: From Fission to Photon](http://toughsf.blogspot.com/2019/04/nuclear-reactor-lasers-from-fission-to.html)
 * [2025-02-26, 14:05:41](https://news.ycombinator.com/item?id=43183688) - [Apple's Dictation System Transcribes the Word 'Racist' as 'Trump'](https://www.nytimes.com/2025/02/25/technology/iphone-dictation-trump-racist.html)
 * [2025-02-26, 13:58:24](https://news.ycombinator.com/item?id=43183635) - [Show HN: I made a website where you can create your own \"Life in Weeks\" timeline](https://lifeweeks.app/)
 * [2025-02-26, 13:47:33](https://news.ycombinator.com/item?id=43183568) - [\"Do you not like money?\"](https://rubenerd.com/do-you-not-like-money/)
