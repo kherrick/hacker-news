@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-01](index.md)
 
+* [2025-03-01, 13:27:33](https://news.ycombinator.com/item?id=43219022) - [Zapier says someone broke into its code repositories and may have customer data](https://www.theverge.com/news/622026/zapier-data-breach-code-repositories)
 * [2025-03-01, 13:12:36](https://news.ycombinator.com/item?id=43218915) - [Intel delays $28B Ohio chip fabs to 2030](https://www.reuters.com/technology/intel-delays-28-billion-ohio-chip-factory-2030-local-media-reports-2025-02-28/)
 * [2025-03-01, 11:57:09](https://news.ycombinator.com/item?id=43218410) - [What is vibe coding? How creators are building software with no coding knowledge](https://alitu.com/creator/workflow/what-is-vibe-coding/)
 * [2025-03-01, 10:30:54](https://news.ycombinator.com/item?id=43217947) - [A DOGE staffer appears to be posting DOGE work on his public GitHub](https://twitter.com/SollenbergerRC/status/1895609294810464390)
