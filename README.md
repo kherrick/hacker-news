@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-01, 16:13:27](https://news.ycombinator.com/item?id=43220718) - [Hemochromatosis patients can donate their blood rather than having it discarded](https://medicalxpress.com/news/2025-02-hemochromatosis-patients-donate-blood-discarded.html)
 * [2025-03-01, 13:24:30](https://news.ycombinator.com/item?id=43218998) - [OpenGL to WASM, learning from my mistakes](https://uds5501.github.io/mindpalace/2025/03/01/opengl-webgl-porting.html)
-* [2025-03-01, 10:30:54](https://news.ycombinator.com/item?id=43217947) - [A DOGE staffer appears to be posting DOGE work on his public GitHub](https://twitter.com/SollenbergerRC/status/1895609294810464390)
 * [2025-03-01, 08:44:16](https://news.ycombinator.com/item?id=43217357) - [Yes, Claude Code can decompile itself. Here's the source code](https://ghuntley.com/tradecraft/)
 * [2025-03-01, 04:10:46](https://news.ycombinator.com/item?id=43215781) - [Zen 5's AVX-512 Frequency Behavior](https://chipsandcheese.com/p/zen-5s-avx-512-frequency-behavior)
 * [2025-03-01, 01:37:26](https://news.ycombinator.com/item?id=43214576) - [When eBPF pt_regs reads return garbage on the latest Linux kernels, blame Fred](https://tanelpoder.com/posts/ebpf-pt-regs-error-on-linux-blame-fred/)
