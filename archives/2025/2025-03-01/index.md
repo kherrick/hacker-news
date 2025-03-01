@@ -39,6 +39,7 @@
 * [2025-03-01, 14:20:12](https://news.ycombinator.com/item?id=43219455) - [The AI Code Review Disconnect: Why Your Tools Aren't Solving Your Real Problem](https://avikalpg.github.io/blog/articles/20250301_ai_code_reviews_vs_code_review_interfaces.html)
 * [2025-03-01, 14:00:11](https://news.ycombinator.com/item?id=43219297) - [Cuts to US national parks and forests met with backlash](https://www.bbc.com/news/articles/czx7kez4vx2o)
 * [2025-03-01, 13:31:58](https://news.ycombinator.com/item?id=43219052) - [Show HN: Open-source alternatives to tools you pay for](https://alternativeoss.com)
+* [2025-03-01, 13:28:03](https://news.ycombinator.com/item?id=43219026) - [China tells its AI leaders to avoid U.S. travel over security concerns](https://www.wsj.com/world/china/china-ai-us-travel-advisory-ff248349)
 * [2025-03-01, 13:27:33](https://news.ycombinator.com/item?id=43219022) - [Zapier says someone broke into its code repositories and may have customer data](https://www.theverge.com/news/622026/zapier-data-breach-code-repositories)
 * [2025-03-01, 13:24:30](https://news.ycombinator.com/item?id=43218998) - [OpenGL to WASM, learning from my mistakes](https://uds5501.github.io/mindpalace/2025/03/01/opengl-webgl-porting.html)
 * [2025-03-01, 13:12:36](https://news.ycombinator.com/item?id=43218915) - [Intel delays $28B Ohio chip fabs to 2030](https://www.reuters.com/technology/intel-delays-28-billion-ohio-chip-factory-2030-local-media-reports-2025-02-28/)
