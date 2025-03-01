@@ -37,6 +37,7 @@
 * [2025-02-26, 15:05:02](https://news.ycombinator.com/item?id=43184291) - [TypeScript types can run DOOM [video]](https://www.youtube.com/watch?v=0mCsluv5FXA)
 * [2025-02-26, 14:28:26](https://news.ycombinator.com/item?id=43183891) - [Show HN: A Database Written in Golang](https://github.com/Sahilb315/AtomixDB)
 * [2025-02-26, 14:05:41](https://news.ycombinator.com/item?id=43183688) - [Apple's Dictation System Transcribes the Word 'Racist' as 'Trump'](https://www.nytimes.com/2025/02/25/technology/iphone-dictation-trump-racist.html)
+* [2025-02-26, 13:58:24](https://news.ycombinator.com/item?id=43183635) - [Show HN: I made a website where you can create your own \"Life in Weeks\" timeline](https://lifeweeks.app/)
 * [2025-02-26, 13:47:33](https://news.ycombinator.com/item?id=43183568) - [\"Do you not like money?\"](https://rubenerd.com/do-you-not-like-money/)
 * [2025-02-26, 13:30:54](https://news.ycombinator.com/item?id=43183450) - [Ask HN: Ethical VC Funds?](https://news.ycombinator.com/item?id=43183450)
 * [2025-02-26, 13:28:46](https://news.ycombinator.com/item?id=43183435) - [Apple to fix iPhone dictation bug that replaces word 'racist' with 'Trump'](https://www.newsweek.com/apple-iphone-glitch-racist-trump-error-glitch-fix-maga-2036416)
