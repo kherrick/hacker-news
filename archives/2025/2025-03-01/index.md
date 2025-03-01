@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-01](index.md)
 
 * [2025-03-01, 16:13:27](https://news.ycombinator.com/item?id=43220718) - [Hemochromatosis patients can donate their blood rather than having it discarded](https://medicalxpress.com/news/2025-02-hemochromatosis-patients-donate-blood-discarded.html)
+* [2025-03-01, 15:01:29](https://news.ycombinator.com/item?id=43219865) - [Servo – Open Collective](https://opencollective.com/servo)
 * [2025-03-01, 14:52:00](https://news.ycombinator.com/item?id=43219744) - [Your Next Two Zeroes](https://taylor.town/next-two-zeroes)
 * [2025-03-01, 14:39:50](https://news.ycombinator.com/item?id=43219616) - [The Press Falls to Another Record Low in Public Trust](https://jonathanturley.org/2025/03/01/the-press-falls-to-another-record-low-in-public-trust/)
 * [2025-03-01, 14:00:11](https://news.ycombinator.com/item?id=43219297) - [Cuts to US national parks and forests met with backlash](https://www.bbc.com/news/articles/czx7kez4vx2o)
