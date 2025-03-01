@@ -24,11 +24,11 @@
 * [2025-02-26, 18:43:20](https://news.ycombinator.com/item?id=43186698) - [Affixes: The Building Blocks of English](https://www.affixes.org/index.html)
 * [2025-02-26, 00:23:39](https://news.ycombinator.com/item?id=43179222) - [From Reform to Ruin in the USSR](https://www.cogitations.co/p/from-reform-to-ruin-in-the-ussr)
 * [2025-02-25, 18:52:59](https://news.ycombinator.com/item?id=43175793) - [Certificate Transparency in Firefox: A Big Step for Web Security](https://blog.transparency.dev/ct-in-firefox)
+* [2025-02-25, 18:02:31](https://news.ycombinator.com/item?id=43175201) - [The vinyl-carver sparking a craze for cutting records at home](https://www.theguardian.com/music/2025/feb/25/vinyl-carver-lathe-cutters-home-cutting-records-craze)
 * [2025-02-25, 16:51:47](https://news.ycombinator.com/item?id=43174298) - [OlmOCR: Open-source tool to extract plain text from PDFs](https://olmocr.allenai.org/)
 * [2025-02-25, 12:33:32](https://news.ycombinator.com/item?id=43171061) - [Harnessing orbital Hall effect in spin-orbit torque MRAM](https://www.nature.com/articles/s41467-024-55437-x)
-* [2025-02-25, 12:27:30](https://news.ycombinator.com/item?id=43171007) - [What do people see when they're tripping? Analyzing Erowid's trip reports](https://themicrodose.substack.com/p/what-do-people-see-when-theyre-tripping)
 * [2025-02-25, 12:03:04](https://news.ycombinator.com/item?id=43170843) - [Troubleshooting: A skill that never goes obsolete](https://www.autodidacts.io/troubleshooting/)
-* [2025-02-25, 09:04:22](https://news.ycombinator.com/item?id=43169694) - [Failure Theory for Materials Science and Engineering](https://www.failurecriteria.com/)
+* [2025-02-25, 07:02:58](https://news.ycombinator.com/item?id=43169054) - [Stone Soup AI (2024)](https://simons.berkeley.edu/news/stone-soup-ai)
 * [2025-02-24, 14:51:53](https://news.ycombinator.com/item?id=43160226) - [Calendar.txt](https://terokarvinen.com/2021/calendar-txt/)
 
 ## [Archives](archives/index.md)
