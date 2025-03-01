@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-03-01, 17:54:55",
+      "https://news.ycombinator.com/item?id=43221697"
+    ],
+    [
+      "The most unhinged video wall (made out of Chromebooks)",
+      "https://varun.ch/posts/videowall/"
+    ]
+  ],
+  [
+    [
       "2025-03-01, 17:38:43",
       "https://news.ycombinator.com/item?id=43221549"
     ],
     [
       "GSA Eliminates 18F",
       "https://www.nextgov.com/people/2025/03/gsa-eliminates-18f/403400/"
-    ]
-  ],
-  [
-    [
-      "2025-03-01, 17:38:07",
-      "https://news.ycombinator.com/item?id=43221543"
-    ],
-    [
-      "Open AI in Trouble",
-      "https://garymarcus.substack.com/p/openai-in-deep-trouble"
     ]
   ],
   [
@@ -31,22 +31,22 @@
   ],
   [
     [
-      "2025-03-01, 16:13:27",
-      "https://news.ycombinator.com/item?id=43220718"
-    ],
-    [
-      "Hemochromatosis patients can donate their blood rather than having it discarded",
-      "https://medicalxpress.com/news/2025-02-hemochromatosis-patients-donate-blood-discarded.html"
-    ]
-  ],
-  [
-    [
       "2025-03-01, 15:01:29",
       "https://news.ycombinator.com/item?id=43219865"
     ],
     [
       "Servo – Open Collective",
       "https://opencollective.com/servo"
+    ]
+  ],
+  [
+    [
+      "2025-03-01, 14:20:12",
+      "https://news.ycombinator.com/item?id=43219455"
+    ],
+    [
+      "The AI Code Review Disconnect: Why Your Tools Aren't Solving Your Real Problem",
+      "https://avikalpg.github.io/blog/articles/20250301_ai_code_reviews_vs_code_review_interfaces.html"
     ]
   ],
   [
@@ -61,32 +61,12 @@
   ],
   [
     [
-      "2025-03-01, 08:17:29",
-      "https://news.ycombinator.com/item?id=43217195"
-    ],
-    [
-      "Emacs Tree-sitter custom highlighting",
-      "https://amitp.blogspot.com/2025/02/emacs-tree-sitter-custom-highlighting.html"
-    ]
-  ],
-  [
-    [
       "2025-03-01, 04:10:46",
       "https://news.ycombinator.com/item?id=43215781"
     ],
     [
       "Zen 5's AVX-512 Frequency Behavior",
       "https://chipsandcheese.com/p/zen-5s-avx-512-frequency-behavior"
-    ]
-  ],
-  [
-    [
-      "2025-03-01, 01:37:26",
-      "https://news.ycombinator.com/item?id=43214576"
-    ],
-    [
-      "When eBPF pt_regs reads return garbage on the latest Linux kernels, blame Fred",
-      "https://tanelpoder.com/posts/ebpf-pt-regs-error-on-linux-blame-fred/"
     ]
   ],
   [
@@ -177,6 +157,26 @@
     [
       "Type++: Prohibiting Type Confusion with Inline Type Information [pdf]",
       "https://www.ndss-symposium.org/wp-content/uploads/2025-53-paper.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-02-27, 18:27:01",
+      "https://news.ycombinator.com/item?id=43196996"
+    ],
+    [
+      "The serotonin theory of depression: a systematic review of the evidence (2022)",
+      "https://www.nature.com/articles/s41380-022-01661-0"
+    ]
+  ],
+  [
+    [
+      "2025-02-27, 13:17:43",
+      "https://news.ycombinator.com/item?id=43194100"
+    ],
+    [
+      "The Rake and its Prongs (2024)",
+      "https://christiantietze.de/posts/2024/06/the-rake-and-its-prongs/"
     ]
   ],
   [
