@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-01](index.md)
 
+* [2025-03-01, 21:53:34](https://news.ycombinator.com/item?id=43224107) - [Firefly Blue Ghost Mission 1 Lunar Landing](https://plus.nasa.gov/scheduled-video/firefly-blue-ghost-mission-1-lunar-landing/)
+* [2025-03-01, 21:42:15](https://news.ycombinator.com/item?id=43223985) - [Why Can't We Screenshot Frames from DRM-Protected Video on Apple Devices?](https://daringfireball.net/2025/03/why_cant_we_screenshot_frames_from_drm-protected_video)
 * [2025-03-01, 21:11:26](https://news.ycombinator.com/item?id=43223718) - [Show HN: Berlin Swapfest – Electronics flea market](https://www.swapfest.berlin/)
 * [2025-03-01, 20:44:10](https://news.ycombinator.com/item?id=43223489) - [Microsoft Copilot continues to expose private GitHub repositories](https://www.developer-tech.com/news/microsoft-copilot-continues-to-expose-private-github-repositories/)
 * [2025-03-01, 20:11:15](https://news.ycombinator.com/item?id=43223162) - [Ask HN: What less-popular systems programming language are you using?](https://news.ycombinator.com/item?id=43223162)
@@ -13,6 +15,7 @@
 * [2025-03-01, 19:39:00](https://news.ycombinator.com/item?id=43222842) - [18F GitHub Repositories](https://github.com/18f)
 * [2025-03-01, 19:37:49](https://news.ycombinator.com/item?id=43222834) - [3x Improvement with Infinite Retrieval: Attention Enhanced LLMs in Long-Context](https://arxiv.org/abs/2502.12962)
 * [2025-03-01, 19:33:41](https://news.ycombinator.com/item?id=43222791) - [The $100T Disruption: The Unforeseen Economic Earthquake](https://wildfirelabs.substack.com/p/the-100-trillion-disruption-the-unforeseen)
+* [2025-03-01, 18:53:20](https://news.ycombinator.com/item?id=43222344) - [Abusing C to Implement JSON Parsing with Struct Methods](https://xnacly.me/posts/2025/json-parser-in-c-with-methods/)
 * [2025-03-01, 18:40:55](https://news.ycombinator.com/item?id=43222207) - [FAA targeting Verizon contract in favor of SpaceX](https://www.washingtonpost.com/business/2025/02/26/musk-starlink-doge-faa-verizon/)
 * [2025-03-01, 18:37:09](https://news.ycombinator.com/item?id=43222168) - [Efabless – Shutdown Notice](https://efabless.com/notice)
 * [2025-03-01, 18:24:22](https://news.ycombinator.com/item?id=43222027) - [Making o1, o3, and Sonnet 3.7 Hallucinate for Everyone](https://bengarcia.dev/making-o1-o3-and-sonnet-3-7-hallucinate-for-everyone)
