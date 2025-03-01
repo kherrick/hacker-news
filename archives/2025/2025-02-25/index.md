@@ -67,6 +67,7 @@
 * [2025-02-25, 09:15:14](https://news.ycombinator.com/item?id=43169773) - [A peek into a possible future of Python in the browser](https://lukasz.langa.pl/f37aa97a-9ea3-4aeb-b6a0-9daeea5a7505/)
 * [2025-02-25, 09:07:41](https://news.ycombinator.com/item?id=43169715) - [Ask HN: Any recommend resources that helped your game dev journey?](https://news.ycombinator.com/item?id=43169715)
 * [2025-02-25, 09:06:21](https://news.ycombinator.com/item?id=43169706) - [Vibe Coding and the Future of Software Engineering](https://alexp.pl/2025/02/19/vibe-coding.html)
+* [2025-02-25, 09:04:22](https://news.ycombinator.com/item?id=43169694) - [Failure Theory for Materials Science and Engineering – Richard M. Christensen](https://www.failurecriteria.com/)
 * [2025-02-25, 08:22:33](https://news.ycombinator.com/item?id=43169461) - [Spotify's Beta Used 'Pirate' MP3 Files, Some from Pirate Bay](https://torrentfreak.com/spotifys-beta-used-pirate-mp3-files-some-from-pirate-bay-170509/)
 * [2025-02-25, 08:17:11](https://news.ycombinator.com/item?id=43169435) - [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/)
 * [2025-02-25, 07:54:00](https://news.ycombinator.com/item?id=43169323) - [Gleam, Coming from Erlang](https://olano.dev/blog/gleam-coming-from-erlang/)

@@ -4,13 +4,16 @@
 
 ### [Archives](../../index.md) for [2025-02-28](index.md)
 
+* [2025-02-28, 23:59:35](https://news.ycombinator.com/item?id=43213612) - [An Update on Mozilla's Terms of Use for Firefox](https://blog.mozilla.org/en/products/firefox/update-on-terms-of-use/)
 * [2025-02-28, 23:20:38](https://news.ycombinator.com/item?id=43213143) - [Inheriting is becoming nearly as important as working](https://www.economist.com/leaders/2025/02/27/inheriting-is-becoming-nearly-as-important-as-working)
 * [2025-02-28, 23:16:16](https://news.ycombinator.com/item?id=43213090) - [Show HN: Torii – a framework agnostic authentication library for Rust](https://github.com/cmackenzie1/torii-rs)
+* [2025-02-28, 23:05:21](https://news.ycombinator.com/item?id=43212952) - [Why it's so hard to build a jet engine](https://www.construction-physics.com/p/why-its-so-hard-to-build-a-jet-engine)
 * [2025-02-28, 22:43:14](https://news.ycombinator.com/item?id=43212700) - [Political Bias on X before the 2025 German Federal Election](https://www.ucd.ie/cs/news/politicalbiasonxbeforethe2025germanfederalelection/)
 * [2025-02-28, 21:33:00](https://news.ycombinator.com/item?id=43211506) - [Brian Krebs: This Administration Is Completely Compromised](https://infosec.exchange/@briankrebs/114083485241630234)
 * [2025-02-28, 21:05:35](https://news.ycombinator.com/item?id=43210858) - [How to gain code execution on hundreds of millions of people and popular apps](https://kibty.town/blog/todesktop/)
 * [2025-02-28, 20:52:55](https://news.ycombinator.com/item?id=43210569) - [\"No, we are absolutely not prepared to [fork Firefox]\"](https://codeberg.org/librewolf/issues/issues/2252#issuecomment-2886286)
 * [2025-02-28, 20:51:34](https://news.ycombinator.com/item?id=43210537) - [Japanese Toshiba Typewriter Model BW-2112 (2020) [video]](https://www.youtube.com/watch?v=JZcui85b4EE)
+* [2025-02-28, 20:51:34](https://news.ycombinator.com/item?id=43210536) - [400 reasons to not use Microsoft Azure](https://azsh.it)
 * [2025-02-28, 20:33:43](https://news.ycombinator.com/item?id=43210185) - [Show HN: Betting game puzzle (Hamming neighbor sum in linear time)](https://news.ycombinator.com/item?id=43210185)
 * [2025-02-28, 18:59:23](https://news.ycombinator.com/item?id=43209064) - [Merlion: A Machine Learning Framework for Time Series Intelligence](https://github.com/salesforce/Merlion)
 * [2025-02-28, 18:49:46](https://news.ycombinator.com/item?id=43208973) - [Zelensky leaves White House after angry meeting](https://www.bbc.com/news/live/c625ex282zzt)
