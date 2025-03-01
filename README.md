@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-01, 18:20:30](https://news.ycombinator.com/item?id=43221982) - ['We stand with Ukraine for as long as it may take' – Keir Starmer tells Zelensky](https://www.bbc.com/news/live/cn5220x56pqt)
-* [2025-03-01, 17:54:55](https://news.ycombinator.com/item?id=43221697) - [The most unhinged video wall (made out of Chromebooks)](https://varun.ch/posts/videowall/)
+* [2025-03-01, 17:54:55](https://news.ycombinator.com/item?id=43221697) - [The most unhinged video wall, made out of Chromebooks](https://varun.ch/posts/videowall/)
 * [2025-03-01, 17:53:53](https://news.ycombinator.com/item?id=43221685) - [Why so many children in America have ADHD](https://www.economist.com/united-states/2025/02/20/why-so-many-children-in-america-have-adhd)
 * [2025-03-01, 17:38:43](https://news.ycombinator.com/item?id=43221549) - [GSA Eliminates 18F](https://www.nextgov.com/people/2025/03/gsa-eliminates-18f/403400/)
 * [2025-03-01, 16:33:03](https://news.ycombinator.com/item?id=43220938) - [CoPilot for Everything: Training Your AI Replacement One Keystroke at a Time](https://substack.com/home/post/p-158101095)
@@ -17,6 +16,7 @@
 * [2025-02-28, 15:12:54](https://news.ycombinator.com/item?id=43206491) - [AI is killing some companies, yet others are thriving – let's look at the data](https://www.elenaverna.com/p/ai-is-killing-some-companies-yet)
 * [2025-02-28, 14:45:36](https://news.ycombinator.com/item?id=43206174) - [Write to Escape Your Default Setting](https://kupajo.com/write-to-escape-your-default-setting/)
 * [2025-02-28, 12:19:00](https://news.ycombinator.com/item?id=43204796) - [Type++: Prohibiting Type Confusion with Inline Type Information [pdf]](https://www.ndss-symposium.org/wp-content/uploads/2025-53-paper.pdf)
+* [2025-02-27, 18:27:01](https://news.ycombinator.com/item?id=43196996) - [The serotonin theory of depression: a systematic review of the evidence (2022)](https://www.nature.com/articles/s41380-022-01661-0)
 * [2025-02-27, 13:17:43](https://news.ycombinator.com/item?id=43194100) - [The Rake and its Prongs (2024)](https://christiantietze.de/posts/2024/06/the-rake-and-its-prongs/)
 * [2025-02-26, 18:43:20](https://news.ycombinator.com/item?id=43186698) - [Affixes: The Building Blocks of English](https://www.affixes.org/index.html)
 * [2025-02-25, 22:23:56](https://news.ycombinator.com/item?id=43178337) - [Curious Correspondence with Edward Gorey](https://www.tcj.com/the-curious-correspondence/)
