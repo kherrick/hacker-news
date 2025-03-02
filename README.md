@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-02, 22:19:18](https://news.ycombinator.com/item?id=43235838) - [Data show Tesla sales declined sharply in Europe](https://www.npr.org/2025/02/27/nx-s1-5311609/tesla-sales-europe)
+* [2025-03-02, 22:11:39](https://news.ycombinator.com/item?id=43235763) - [The gooey rubber that's slowly ruining old hard drives](https://www.downtowndougbrown.com/2025/03/the-gooey-rubber-thats-slowly-ruining-old-hard-drives/)
 * [2025-03-02, 20:26:21](https://news.ycombinator.com/item?id=43234666) - [Nvidia GPU on bare metal NixOS Kubernetes cluster explained](https://fangpenlin.com/posts/2025/03/01/nvidia-gpu-on-bare-metal-nixos-k8s-explained/)
 * [2025-03-02, 20:06:41](https://news.ycombinator.com/item?id=43234471) - [Matt's Script Archive (1995)](https://www.scriptarchive.com/)
 * [2025-03-02, 19:39:09](https://news.ycombinator.com/item?id=43234153) - [2025 Hiring Pause](https://hr.cornell.edu/2025-hiring-pause)
