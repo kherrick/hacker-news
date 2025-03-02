@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-02](index.md)
 
+* [2025-03-02, 21:32:29](https://news.ycombinator.com/item?id=43235384) - [Pentagon guts national security program that harnessed social science](https://www.science.org/content/article/pentagon-guts-national-security-program-harnessed-social-science)
 * [2025-03-02, 20:11:20](https://news.ycombinator.com/item?id=43234513) - [Ask HN: Are you a 40-year old software engineer without a job for > 1 year?](https://news.ycombinator.com/item?id=43234513)
 * [2025-03-02, 20:06:41](https://news.ycombinator.com/item?id=43234471) - [Matt's Script Archive (1995)](https://www.scriptarchive.com/)
 * [2025-03-02, 19:48:33](https://news.ycombinator.com/item?id=43234281) - [Brazilians hail strength of democracy as Bolsonaro is called to account](https://www.theguardian.com/world/2025/feb/19/brazil-jair-bolsonaro-coup)
