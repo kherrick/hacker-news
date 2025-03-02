@@ -4,13 +4,17 @@
 
 ### [Archives](../../index.md) for [2025-03-02](index.md)
 
+* [2025-03-02, 16:20:34](https://news.ycombinator.com/item?id=43231978) - [Show HN: Vibecoders – Find software engineers that are good at vibecoding](https://news.ycombinator.com/item?id=43231978)
+* [2025-03-02, 16:18:44](https://news.ycombinator.com/item?id=43231964) - [Ask HN: Where are the good Markdown to PDF tools (that meet these requirements)?](https://news.ycombinator.com/item?id=43231964)
 * [2025-03-02, 15:56:35](https://news.ycombinator.com/item?id=43231694) - [The lost boys: how a generation of young men fell behind women on pay](https://www.thetimes.com/uk/society/article/the-lost-boys-how-a-generation-of-young-men-fell-behind-women-on-pay-8rc3mmvt0)
 * [2025-03-02, 15:43:39](https://news.ycombinator.com/item?id=43231551) - [I'm a neuroscientist. Here's the surprising truth about TikTok 'brain rot'](https://www.sciencefocus.com/comment/tiktok-braintot-psychologist-explains)
 * [2025-03-02, 15:03:52](https://news.ycombinator.com/item?id=43231096) - [Louis Rossmann opines on the Firefox debacle [video]](https://www.youtube.com/watch?v=-8bTquKjzos)
 * [2025-03-02, 14:58:28](https://news.ycombinator.com/item?id=43231062) - [Mark Cuban offers to fund 18f](https://techcrunch.com/2025/03/01/mark-cuban-offers-to-fund-government-tech-unit-that-was-cut-in-the-middle-of-the-night/)
 * [2025-03-02, 14:50:20](https://news.ycombinator.com/item?id=43230994) - [Show HN: I built a modern Goodreads alternative](https://kaguya.io/)
 * [2025-03-02, 14:47:56](https://news.ycombinator.com/item?id=43230965) - [GPT-4.5: \"Not a frontier model\"?](https://www.interconnects.ai/p/gpt-45-not-a-frontier-model)
+* [2025-03-02, 14:41:59](https://news.ycombinator.com/item?id=43230922) - [Towards a test-suite for TOTP codes](https://shkspr.mobi/blog/2025/03/towards-a-test-suite-for-totp-codes/)
 * [2025-03-02, 14:29:13](https://news.ycombinator.com/item?id=43230821) - [Raspberry Pi Pico audio player](http://lucstechblog.blogspot.com/2025/02/raspberry-pi-pico-audio-player.html)
+* [2025-03-02, 14:25:21](https://news.ycombinator.com/item?id=43230790) - [Show HN: Recommendarr – AI Driven Recommendations Based on Sonarr/Radarr Media](https://github.com/fingerthief/recommendarr)
 * [2025-03-02, 14:18:11](https://news.ycombinator.com/item?id=43230734) - [I struggled with Git, so I'm making a game to spare others the pain](https://initialcommit.com/blog/im-making-a-git-game)
 * [2025-03-02, 14:08:43](https://news.ycombinator.com/item?id=43230632) - [Chrome has built-in AI history search](https://support.google.com/chrome/answer/15305774?hl=en)
 * [2025-03-02, 13:09:20](https://news.ycombinator.com/item?id=43230153) - [Sergey Brin says 60 hours a week is the 'sweet spot'](https://fortune.com/2025/02/28/sergey-brin-60-hours-work-week-rto-gemini-artificial-general-intelligence/)
