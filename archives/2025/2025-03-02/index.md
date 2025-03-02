@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-02](index.md)
 
+* [2025-03-02, 07:35:13](https://news.ycombinator.com/item?id=43228231) - [Show HN: I built a memory-safe web server in Rust (currently in beta)](https://www.ferronweb.org/)
 * [2025-03-02, 06:13:01](https://news.ycombinator.com/item?id=43227881) - [A voice model significantly more human-like than OpenAIs advanced voice](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice)
 * [2025-03-02, 05:33:34](https://news.ycombinator.com/item?id=43227724) - [AI: The New Aesthetics of Fascism](https://newsocialist.org.uk/transmissions/ai-the-new-aesthetics-of-fascism/)
 * [2025-03-02, 04:32:06](https://news.ycombinator.com/item?id=43227303) - [Knowing CSS is mastery to Front end Development](https://helloanselm.com/writings/knowing-css-is-mastery-to-frontend-development)
