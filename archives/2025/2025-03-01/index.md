@@ -47,6 +47,7 @@
 * [2025-03-01, 13:06:17](https://news.ycombinator.com/item?id=43218872) - [GrapheneOS blocked exploitation of 3 Android zero-days used by Cellebrite](https://grapheneos.social/@GrapheneOS/114081753914226921)
 * [2025-03-01, 12:58:40](https://news.ycombinator.com/item?id=43218825) - [JavaScript Fatigue Strikes Back](https://allenpike.com/2025/javascript-fatigue-ssr)
 * [2025-03-01, 11:57:09](https://news.ycombinator.com/item?id=43218410) - [What is vibe coding? How creators are building software with no coding knowledge](https://alitu.com/creator/workflow/what-is-vibe-coding/)
+* [2025-03-01, 11:03:57](https://news.ycombinator.com/item?id=43218115) - [Your Invoice Is an Actor That Wants to Get Paid](https://10xbetterai.beehiiv.com/p/your-invoice-is-an-actor-that-wants-to-get-paid)
 * [2025-03-01, 10:30:54](https://news.ycombinator.com/item?id=43217947) - [A DOGE staffer appears to be posting DOGE work on his public GitHub](https://twitter.com/SollenbergerRC/status/1895609294810464390)
 * [2025-03-01, 10:28:27](https://news.ycombinator.com/item?id=43217933) - [Study finds contaminants in U.S. drinking water [video]](https://www.youtube.com/watch?v=NSvlgZYGDzU)
 * [2025-03-01, 08:44:16](https://news.ycombinator.com/item?id=43217357) - [Yes, Claude Code can decompile itself. Here's the source code](https://ghuntley.com/tradecraft/)
