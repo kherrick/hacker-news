@@ -6,7 +6,9 @@
 
 * [2025-03-02, 06:13:01](https://news.ycombinator.com/item?id=43227881) - [A voice model significantly more human-like than OpenAIs advanced voice](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice)
 * [2025-03-02, 05:33:34](https://news.ycombinator.com/item?id=43227724) - [AI: The New Aesthetics of Fascism](https://newsocialist.org.uk/transmissions/ai-the-new-aesthetics-of-fascism/)
+* [2025-03-02, 04:32:06](https://news.ycombinator.com/item?id=43227303) - [Knowing CSS is mastery to Front end Development](https://helloanselm.com/writings/knowing-css-is-mastery-to-frontend-development)
 * [2025-03-02, 04:09:49](https://news.ycombinator.com/item?id=43227180) - [The NIH Is Being Slashed and Burned, Not \"Reformed\"](https://www.sensible-med.com/p/the-nih-is-being-slashed-and-burned)
+* [2025-03-02, 03:57:35](https://news.ycombinator.com/item?id=43227131) - [Show HN: What did you do last week? – Evaluates your 5 bullet points](https://whatdidyoudolastweek.biz)
 * [2025-03-02, 02:15:18](https://news.ycombinator.com/item?id=43226462) - [Why I'm Learning C# and .NET After Two Decades of Programming](https://kerrick.blog/articles/2025/why-i-am-learning-c-sharp-and-dot-net-after-two-decades-of-programming/)
 * [2025-03-02, 01:20:17](https://news.ycombinator.com/item?id=43226089) - [Mozilla site down due to \"overdue hosting payments\"](https://linuxmom.net/@vkc/114089626244932902)
 * [2025-03-02, 01:14:29](https://news.ycombinator.com/item?id=43226052) - [Unleashed Recompiled – Unofficial PC Port of Sonic Unleashed](https://github.com/hedge-dev/UnleashedRecomp)
