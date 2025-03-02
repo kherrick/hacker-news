@@ -65,6 +65,7 @@
 * [2025-02-27, 07:12:22](https://news.ycombinator.com/item?id=43192079) - [Teslas monitor everything – including you [video] from WIRED](https://www.youtube.com/watch?v=l7VHsDODU7E)
 * [2025-02-27, 06:05:46](https://news.ycombinator.com/item?id=43191773) - [Rifling Through the Archives with Legendary Historian Robert Caro](https://www.smithsonianmag.com/history/rifling-through-archives-legendary-historian-robert-caro-180985956/)
 * [2025-02-27, 05:46:32](https://news.ycombinator.com/item?id=43191696) - [Python as a Second Language Empathy](https://ballingt.com/python-second-language-empathy/)
+* [2025-02-27, 05:38:07](https://news.ycombinator.com/item?id=43191667) - [A Mechanically Verified Garbage Collector for OCaml [pdf]](https://kcsrk.info/papers/verifiedgc_feb_25.pdf)
 * [2025-02-27, 05:25:44](https://news.ycombinator.com/item?id=43191612) - [A Comprehensive Formal Security Analysis of OAuth 2.0](https://arxiv.org/abs/1601.01229)
 * [2025-02-27, 04:01:17](https://news.ycombinator.com/item?id=43191213) - [Calling Rust from Cursed Go](https://pthorpe92.dev/cursed-go/)
 * [2025-02-27, 03:56:13](https://news.ycombinator.com/item?id=43191177) - [Captain 'lost for words' after witnessing a super pod of more than 2k dolphins](https://www.cbc.ca/radio/asithappens/dolphin-super-pod-1.7469441)

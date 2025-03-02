@@ -16,7 +16,6 @@
 * [2025-03-02, 17:25:49](https://news.ycombinator.com/item?id=43232724) - [New battery-free technology can power devices using ambient RF signals](https://news.nus.edu.sg/nus-researchers-develop-new-battery-free-technology/)
 * [2025-03-02, 16:32:13](https://news.ycombinator.com/item?id=43232087) - [Schools reviving shop class](https://www.wsj.com/us-news/education/high-school-shop-class-revival-24d7a525)
 * [2025-03-02, 15:32:46](https://news.ycombinator.com/item?id=43231411) - [Why do we have both CSRF protection and CORS?](https://smagin.fyi/posts/cross-site-requests/)
-* [2025-03-02, 14:41:59](https://news.ycombinator.com/item?id=43230922) - [Towards a test suite for TOTP codes](https://shkspr.mobi/blog/2025/03/towards-a-test-suite-for-totp-codes/)
 * [2025-03-02, 14:29:13](https://news.ycombinator.com/item?id=43230821) - [Raspberry Pi Pico audio player](http://lucstechblog.blogspot.com/2025/02/raspberry-pi-pico-audio-player.html)
 * [2025-03-02, 14:25:21](https://news.ycombinator.com/item?id=43230790) - [Show HN: Recommendarr – AI Driven Recommendations Based on Sonarr/Radarr Media](https://github.com/fingerthief/recommendarr)
 * [2025-03-02, 14:18:11](https://news.ycombinator.com/item?id=43230734) - [I struggled with Git, so I'm making a game to spare others the pain](https://initialcommit.com/blog/im-making-a-git-game)
@@ -29,6 +28,7 @@
 * [2025-02-28, 01:56:35](https://news.ycombinator.com/item?id=43200793) - [Smallpond – A lightweight data processing framework built on DuckDB and 3FS](https://github.com/deepseek-ai/smallpond)
 * [2025-02-27, 19:46:55](https://news.ycombinator.com/item?id=43197752) - [Prompting Large Language Models in Bash Scripts](https://elijahpotter.dev/articles/prompting_large_language_models_in_bash_scripts)
 * [2025-02-27, 10:47:31](https://news.ycombinator.com/item?id=43193160) - [API design note: Beware of adding an \"Other\" enum value](https://devblogs.microsoft.com/oldnewthing/20250217-00/?p=110873)
+* [2025-02-27, 05:38:07](https://news.ycombinator.com/item?id=43191667) - [A Mechanically Verified Garbage Collector for OCaml [pdf]](https://kcsrk.info/papers/verifiedgc_feb_25.pdf)
 * [2025-02-26, 18:44:50](https://news.ycombinator.com/item?id=43186717) - [When Professor Bryant Lin got cancer, he taught a class about it](https://www.nytimes.com/2025/02/26/us/stanford-professor-cancer-bryant-lin.html)
 
 ## [Archives](archives/index.md)
