@@ -31,6 +31,7 @@
 * [2025-02-27, 17:20:22](https://news.ycombinator.com/item?id=43196374) - [Show HN: Superglue – open source API connector that writes its own code](https://github.com/superglue-ai/superglue)
 * [2025-02-27, 17:04:11](https://news.ycombinator.com/item?id=43196212) - [How to run GUI applications directly in containers](https://github.com/hemashushu/docker-archlinux-gui)
 * [2025-02-27, 17:03:39](https://news.ycombinator.com/item?id=43196207) - [Turning a Bluetooth Device into an Apple AirTag Without Root Privileges](https://nroottag.github.io/)
+* [2025-02-27, 16:53:56](https://news.ycombinator.com/item?id=43196110) - [The three-dimensional Kakeya conjecture, after Wang and Zahl](https://terrytao.wordpress.com/2025/02/25/the-three-dimensional-kakeya-conjecture-after-wang-and-zahl/)
 * [2025-02-27, 16:14:45](https://news.ycombinator.com/item?id=43195724) - [The muon's magnetic moment exposes a hole in the SM – unless it doesn't](https://physicsworld.com/a/the-muons-magnetic-moment-exposes-a-huge-hole-in-the-standard-model-unless-it-doesnt/)
 * [2025-02-27, 16:13:21](https://news.ycombinator.com/item?id=43195710) - [Nigerians are building affordable alternatives to AWS and Google Cloud](https://restofworld.org/2025/aws-google-cloud-nigeria-alternatives/)
 * [2025-02-27, 16:12:42](https://news.ycombinator.com/item?id=43195702) - [Distributed Systems Programming Has Stalled](https://www.shadaj.me/writing/distributed-programming-stalled)
