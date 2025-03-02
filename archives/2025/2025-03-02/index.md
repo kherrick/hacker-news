@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-02](index.md)
 
+* [2025-03-02, 15:56:35](https://news.ycombinator.com/item?id=43231694) - [The lost boys: how a generation of young men fell behind women on pay](https://www.thetimes.com/uk/society/article/the-lost-boys-how-a-generation-of-young-men-fell-behind-women-on-pay-8rc3mmvt0)
 * [2025-03-02, 15:43:39](https://news.ycombinator.com/item?id=43231551) - [I'm a neuroscientist. Here's the surprising truth about TikTok 'brain rot'](https://www.sciencefocus.com/comment/tiktok-braintot-psychologist-explains)
 * [2025-03-02, 15:03:52](https://news.ycombinator.com/item?id=43231096) - [Louis Rossmann opines on the Firefox debacle [video]](https://www.youtube.com/watch?v=-8bTquKjzos)
 * [2025-03-02, 14:58:28](https://news.ycombinator.com/item?id=43231062) - [Mark Cuban offers to fund 18f](https://techcrunch.com/2025/03/01/mark-cuban-offers-to-fund-government-tech-unit-that-was-cut-in-the-middle-of-the-night/)
