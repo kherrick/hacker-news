@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-02](index.md)
 
 * [2025-03-02, 22:52:35](https://news.ycombinator.com/item?id=43236126) - [CSS Custom Functions are coming and they are going to be a game changer](https://www.bram.us/2025/02/09/css-custom-functions-teaser/)
+* [2025-03-02, 22:28:43](https://news.ycombinator.com/item?id=43235933) - [Firefly Aerospace Becomes First Commercial Company to Successfully Land on Moon](https://fireflyspace.com/news/firefly-aerospace-becomes-first-commercial-company-to-successfully-land-on-the-moon/)
 * [2025-03-02, 22:19:18](https://news.ycombinator.com/item?id=43235838) - [Data show Tesla sales declined sharply in Europe](https://www.npr.org/2025/02/27/nx-s1-5311609/tesla-sales-europe)
 * [2025-03-02, 22:11:39](https://news.ycombinator.com/item?id=43235763) - [The gooey rubber that's slowly ruining old hard drives](https://www.downtowndougbrown.com/2025/03/the-gooey-rubber-thats-slowly-ruining-old-hard-drives/)
 * [2025-03-02, 21:47:10](https://news.ycombinator.com/item?id=43235524) - [Donald Trump supporters lose $12B after his meme coin collapses](https://www.uniladtech.com/news/tech-news/donald-trump-supporters-lose-12-billion-after-meme-coin-collapse-393345-20250228)

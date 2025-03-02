@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-02, 22:52:35](https://news.ycombinator.com/item?id=43236126) - [CSS Custom Functions are coming and they are going to be a game changer](https://www.bram.us/2025/02/09/css-custom-functions-teaser/)
+* [2025-03-02, 22:28:43](https://news.ycombinator.com/item?id=43235933) - [Firefly Aerospace Becomes First Commercial Company to Successfully Land on Moon](https://fireflyspace.com/news/firefly-aerospace-becomes-first-commercial-company-to-successfully-land-on-the-moon/)
 * [2025-03-02, 22:11:39](https://news.ycombinator.com/item?id=43235763) - [Gooey rubber that's slowly ruining old hard drives](https://www.downtowndougbrown.com/2025/03/the-gooey-rubber-thats-slowly-ruining-old-hard-drives/)
 * [2025-03-02, 20:26:21](https://news.ycombinator.com/item?id=43234666) - [Nvidia GPU on bare metal NixOS Kubernetes cluster explained](https://fangpenlin.com/posts/2025/03/01/nvidia-gpu-on-bare-metal-nixos-k8s-explained/)
 * [2025-03-02, 20:06:41](https://news.ycombinator.com/item?id=43234471) - [Matt's Script Archive (1995)](https://www.scriptarchive.com/)
-* [2025-03-02, 19:39:09](https://news.ycombinator.com/item?id=43234153) - [2025 Hiring Pause](https://hr.cornell.edu/2025-hiring-pause)
 * [2025-03-02, 19:33:21](https://news.ycombinator.com/item?id=43234089) - [Geothermal power is a climate moon shot beneath our feet](https://www.newyorker.com/news/the-lede/geothermal-power-is-a-climate-moon-shot-beneath-our-feet)
 * [2025-03-02, 19:15:58](https://news.ycombinator.com/item?id=43233903) - [Hallucinations in code are the least dangerous form of LLM mistakes](https://simonwillison.net/2025/Mar/2/hallucinations-in-code/)
 * [2025-03-02, 18:31:33](https://news.ycombinator.com/item?id=43233420) - [Gödel's theorem debunks the most important AI myth – Roger Penrose [video]](https://www.youtube.com/watch?v=biUfMZ2dts8)
