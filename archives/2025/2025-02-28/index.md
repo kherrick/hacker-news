@@ -56,6 +56,7 @@
 * [2025-02-28, 04:33:26](https://news.ycombinator.com/item?id=43201720) - [Video Encoding Requires Using Your Eyes](https://redvice.org/2025/encoding-requires-eyes/)
 * [2025-02-28, 04:26:52](https://news.ycombinator.com/item?id=43201682) - [Surgery aims to restore sight by implanting a telescopic lens in a tooth](https://www.cbc.ca/radio/asithappens/tooth-in-eye-surgery-canada-1.7470626)
 * [2025-02-28, 03:34:14](https://news.ycombinator.com/item?id=43201417) - [macOS Tips and Tricks](https://saurabhs.org/macos-tips)
+* [2025-02-28, 02:59:24](https://news.ycombinator.com/item?id=43201251) - [A few words about indie app business](https://blog.charliemonroe.net/a-few-words-about-indie-app-business/)
 * [2025-02-28, 02:46:44](https://news.ycombinator.com/item?id=43201164) - [Hydrogen cyanide and acetylene detected in a brown dwarf](https://phys.org/news/2025-02-hydrogen-cyanide-acetylene-brown-dwarf.html)
 * [2025-02-28, 02:24:04](https://news.ycombinator.com/item?id=43201001) - [Putting Andrew Ng's OCR models to the test](https://www.runpulse.com/blog/putting-andrew-ngs-ocr-models-to-the-test)
 * [2025-02-28, 02:18:55](https://news.ycombinator.com/item?id=43200960) - [Doc NTIA lead nominee criticizes \"woke\" and \"socialist\" fiber broadband subsidy](https://broadbandbreakfast.com/incoming-ntia-chief-doesnt-like-beads-fiber-preference-low-cost-mandates-2/)
