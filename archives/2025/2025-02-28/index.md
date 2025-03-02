@@ -27,6 +27,7 @@
 * [2025-02-28, 14:28:26](https://news.ycombinator.com/item?id=43205968) - [Reimagining Fluid Web Typography](https://www.oddbird.net/2025/02/12/fluid-type/)
 * [2025-02-28, 14:09:19](https://news.ycombinator.com/item?id=43205755) - [Towards an AI Co-Scientist](https://arxiv.org/abs/2502.18864)
 * [2025-02-28, 14:03:57](https://news.ycombinator.com/item?id=43205677) - [May 5, Microsoft's Skype will shut down for good](https://arstechnica.com/gadgets/2025/02/on-may-5-microsofts-skype-will-shut-down-for-good/)
+* [2025-02-28, 14:00:43](https://news.ycombinator.com/item?id=43205642) - [New footage shows sneaky killer is decapitating baby seals on California beaches](https://www.sfgate.com/local/article/coyotes-decapitating-seals-northern-california-20183166.php)
 * [2025-02-28, 13:39:18](https://news.ycombinator.com/item?id=43205435) - [Starlink to take over $2.4B contract to overhaul air traffic control comms](https://www.theverge.com/news/620777/starlink-verizon-contract-faa-communication-musk)
 * [2025-02-28, 13:10:18](https://news.ycombinator.com/item?id=43205196) - [AMD RDNA 4 – AMD Radeon RX 9000 Series Graphics Cards](https://www.amd.com/en/newsroom/press-releases/2025-2-28-amd-unveils-next-generation-amd-rdna-4-architectu.html)
 * [2025-02-28, 13:00:41](https://news.ycombinator.com/item?id=43205126) - [Exploring UK Environment Agency Data with DuckDB and Rill](https://rmoff.net/2025/02/28/exploring-uk-environment-agency-data-in-duckdb-and-rill/)
