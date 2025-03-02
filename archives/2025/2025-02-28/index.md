@@ -33,6 +33,7 @@
 * [2025-02-28, 13:00:41](https://news.ycombinator.com/item?id=43205126) - [Exploring UK Environment Agency Data with DuckDB and Rill](https://rmoff.net/2025/02/28/exploring-uk-environment-agency-data-in-duckdb-and-rill/)
 * [2025-02-28, 12:58:35](https://news.ycombinator.com/item?id=43205110) - [Waterfox: Fast and Private Web Browser](https://www.waterfox.net/)
 * [2025-02-28, 12:38:46](https://news.ycombinator.com/item?id=43204958) - [SEC Declares Memecoins Are Not Subject to Oversight](https://www.nytimes.com/2025/02/27/business/sec-memecoins.html)
+* [2025-02-28, 12:36:25](https://news.ycombinator.com/item?id=43204932) - [Which Motorola Phone Should You Buy?](https://www.wired.com/story/best-motorola-phones/)
 * [2025-02-28, 12:19:00](https://news.ycombinator.com/item?id=43204796) - [Type++: Prohibiting Type Confusion with Inline Type Information [pdf]](https://www.ndss-symposium.org/wp-content/uploads/2025-53-paper.pdf)
 * [2025-02-28, 12:00:16](https://news.ycombinator.com/item?id=43204682) - [Openlayer (YC S21) is hiring a senior back end engineer](https://www.ycombinator.com/companies/openlayer/jobs/yIE9WI3-senior-backend-engineer)
 * [2025-02-28, 11:47:52](https://news.ycombinator.com/item?id=43204604) - [Netboot Windows 11 with iSCSI and iPXE](https://terinstock.com/post/2025/02/Netboot-Windows-11-with-iSCSI-and-iPXE/)
