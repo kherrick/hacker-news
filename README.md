@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-02, 13:09:20](https://news.ycombinator.com/item?id=43230153) - [Sergey Brin says 60 hours a week is the 'sweet spot'](https://fortune.com/2025/02/28/sergey-brin-60-hours-work-week-rto-gemini-artificial-general-intelligence/)
 * [2025-03-02, 12:13:47](https://news.ycombinator.com/item?id=43229668) - [Mozilla flamed by Firefox fans after reneging on promises to not sell their data](https://www.theregister.com/2025/03/02/mozilla_introduces_terms_of_use/)
 * [2025-03-02, 11:06:20](https://news.ycombinator.com/item?id=43229267) - [What, if anything, should I do about using Mozilla's Firefox](https://neilzone.co.uk/2025/03/what-if-anything-should-i-do-about-using-mozillas-firefox/)
 * [2025-03-02, 11:02:29](https://news.ycombinator.com/item?id=43229245) - [The A.I. Monarchy](https://substack.com/home/post/p-156886169)
@@ -19,6 +18,7 @@
 * [2025-03-01, 18:37:09](https://news.ycombinator.com/item?id=43222168) - [Efabless – Shutdown Notice](https://efabless.com/notice)
 * [2025-03-01, 17:54:55](https://news.ycombinator.com/item?id=43221697) - [The most unhinged video wall, made out of Chromebooks](https://varun.ch/posts/videowall/)
 * [2025-03-01, 13:28:03](https://news.ycombinator.com/item?id=43219026) - [China tells its AI leaders to avoid U.S. travel over security concerns](https://www.wsj.com/world/china/china-ai-us-travel-advisory-ff248349)
+* [2025-03-01, 08:17:29](https://news.ycombinator.com/item?id=43217195) - [Emacs Tree-sitter custom highlighting](https://amitp.blogspot.com/2025/02/emacs-tree-sitter-custom-highlighting.html)
 * [2025-02-28, 23:05:21](https://news.ycombinator.com/item?id=43212952) - [Why it's so hard to build a jet engine](https://www.construction-physics.com/p/why-its-so-hard-to-build-a-jet-engine)
 * [2025-02-28, 14:28:26](https://news.ycombinator.com/item?id=43205968) - [Reimagining Fluid Typography](https://www.oddbird.net/2025/02/12/fluid-type/)
 * [2025-02-28, 08:31:27](https://news.ycombinator.com/item?id=43203180) - [‘Slime’ keeps the brain safe ― and could guard against ageing](https://www.nature.com/articles/d41586-025-00554-w)
