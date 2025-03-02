@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-02, 13:09:20](https://news.ycombinator.com/item?id=43230153) - [Sergey Brin says 60 hours a week is the 'sweet spot'](https://fortune.com/2025/02/28/sergey-brin-60-hours-work-week-rto-gemini-artificial-general-intelligence/)
 * [2025-03-02, 12:13:47](https://news.ycombinator.com/item?id=43229668) - [Mozilla flamed by Firefox fans after reneging on promises to not sell their data](https://www.theregister.com/2025/03/02/mozilla_introduces_terms_of_use/)
 * [2025-03-02, 11:06:20](https://news.ycombinator.com/item?id=43229267) - [What, if anything, should I do about using Mozilla's Firefox](https://neilzone.co.uk/2025/03/what-if-anything-should-i-do-about-using-mozillas-firefox/)
 * [2025-03-02, 11:02:29](https://news.ycombinator.com/item?id=43229245) - [The A.I. Monarchy](https://substack.com/home/post/p-156886169)
@@ -20,7 +21,6 @@
 * [2025-03-01, 13:28:03](https://news.ycombinator.com/item?id=43219026) - [China tells its AI leaders to avoid U.S. travel over security concerns](https://www.wsj.com/world/china/china-ai-us-travel-advisory-ff248349)
 * [2025-02-28, 23:05:21](https://news.ycombinator.com/item?id=43212952) - [Why it's so hard to build a jet engine](https://www.construction-physics.com/p/why-its-so-hard-to-build-a-jet-engine)
 * [2025-02-28, 14:28:26](https://news.ycombinator.com/item?id=43205968) - [Reimagining Fluid Typography](https://www.oddbird.net/2025/02/12/fluid-type/)
-* [2025-02-28, 13:48:35](https://news.ycombinator.com/item?id=43205527) - ['Destiny 2' Reveals Its 'Content Shredder' as a Result of Recent Lawsuit](https://www.forbes.com/sites/paultassi/2025/02/27/destiny-2-reveals-its-content-shredder-as-a-result-of-recent-lawsuit/)
 * [2025-02-28, 08:31:27](https://news.ycombinator.com/item?id=43203180) - [‘Slime’ keeps the brain safe ― and could guard against ageing](https://www.nature.com/articles/d41586-025-00554-w)
 * [2025-02-27, 16:53:56](https://news.ycombinator.com/item?id=43196110) - [The three-dimensional Kakeya conjecture, after Wang and Zahl](https://terrytao.wordpress.com/2025/02/25/the-three-dimensional-kakeya-conjecture-after-wang-and-zahl/)
 * [2025-02-27, 05:46:32](https://news.ycombinator.com/item?id=43191696) - [Python as a second language empathy (2018)](https://ballingt.com/python-second-language-empathy/)
