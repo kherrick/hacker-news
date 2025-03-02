@@ -20,7 +20,6 @@
 * [2025-03-01, 08:17:29](https://news.ycombinator.com/item?id=43217195) - [Emacs Tree-sitter custom highlighting](https://amitp.blogspot.com/2025/02/emacs-tree-sitter-custom-highlighting.html)
 * [2025-02-28, 23:05:21](https://news.ycombinator.com/item?id=43212952) - [Why it's so hard to build a jet engine](https://www.construction-physics.com/p/why-its-so-hard-to-build-a-jet-engine)
 * [2025-02-28, 14:28:26](https://news.ycombinator.com/item?id=43205968) - [Reimagining Fluid Typography](https://www.oddbird.net/2025/02/12/fluid-type/)
-* [2025-02-28, 12:36:25](https://news.ycombinator.com/item?id=43204932) - [Which Motorola Phone Should You Buy?](https://www.wired.com/story/best-motorola-phones/)
 * [2025-02-28, 08:31:27](https://news.ycombinator.com/item?id=43203180) - ['Slime' keeps the brain safe ― and could guard against ageing](https://www.nature.com/articles/d41586-025-00554-w)
 * [2025-02-27, 06:05:46](https://news.ycombinator.com/item?id=43191773) - [Rifling through the archives with Robert Caro](https://www.smithsonianmag.com/history/rifling-through-archives-legendary-historian-robert-caro-180985956/)
 * [2025-02-27, 05:46:32](https://news.ycombinator.com/item?id=43191696) - [Python as a second language empathy (2018)](https://ballingt.com/python-second-language-empathy/)
@@ -28,6 +27,7 @@
 * [2025-02-26, 13:58:24](https://news.ycombinator.com/item?id=43183635) - [Show HN: I made a website where you can create your own \"Life in Weeks\" timeline](https://lifeweeks.app/)
 * [2025-02-26, 09:42:58](https://news.ycombinator.com/item?id=43182253) - [The GitVenom campaign: cryptocurrency theft using GitHub](https://securelist.com/gitvenom-campaign/115694/)
 * [2025-02-26, 05:40:14](https://news.ycombinator.com/item?id=43180977) - [AlgoMIDI – A Mathematical 'Music Studio'](https://github.com/myanvoos/algoMIDI)
+* [2025-02-25, 18:52:59](https://news.ycombinator.com/item?id=43175793) - [Certificate Transparency in Firefox](https://blog.transparency.dev/ct-in-firefox)
 * [2025-02-25, 17:01:13](https://news.ycombinator.com/item?id=43174453) - [Maestro – Next generation mobile UI automation](https://github.com/mobile-dev-inc/Maestro)
 * [2025-02-25, 12:27:30](https://news.ycombinator.com/item?id=43171007) - [What do people see when they're tripping? Analyzing Erowid's trip reports](https://themicrodose.substack.com/p/what-do-people-see-when-theyre-tripping)
 
