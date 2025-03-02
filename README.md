@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-02, 22:11:39](https://news.ycombinator.com/item?id=43235763) - [The gooey rubber that's slowly ruining old hard drives](https://www.downtowndougbrown.com/2025/03/the-gooey-rubber-thats-slowly-ruining-old-hard-drives/)
+* [2025-03-02, 22:52:35](https://news.ycombinator.com/item?id=43236126) - [CSS Custom Functions are coming and they are going to be a game changer](https://www.bram.us/2025/02/09/css-custom-functions-teaser/)
+* [2025-03-02, 22:11:39](https://news.ycombinator.com/item?id=43235763) - [Gooey rubber that's slowly ruining old hard drives](https://www.downtowndougbrown.com/2025/03/the-gooey-rubber-thats-slowly-ruining-old-hard-drives/)
 * [2025-03-02, 20:26:21](https://news.ycombinator.com/item?id=43234666) - [Nvidia GPU on bare metal NixOS Kubernetes cluster explained](https://fangpenlin.com/posts/2025/03/01/nvidia-gpu-on-bare-metal-nixos-k8s-explained/)
 * [2025-03-02, 20:06:41](https://news.ycombinator.com/item?id=43234471) - [Matt's Script Archive (1995)](https://www.scriptarchive.com/)
 * [2025-03-02, 19:39:09](https://news.ycombinator.com/item?id=43234153) - [2025 Hiring Pause](https://hr.cornell.edu/2025-hiring-pause)
@@ -19,7 +20,6 @@
 * [2025-03-02, 14:29:13](https://news.ycombinator.com/item?id=43230821) - [Raspberry Pi Pico audio player](http://lucstechblog.blogspot.com/2025/02/raspberry-pi-pico-audio-player.html)
 * [2025-03-02, 14:25:21](https://news.ycombinator.com/item?id=43230790) - [Show HN: Recommendarr – AI Driven Recommendations Based on Sonarr/Radarr Media](https://github.com/fingerthief/recommendarr)
 * [2025-03-02, 14:18:11](https://news.ycombinator.com/item?id=43230734) - [I struggled with Git, so I'm making a game to spare others the pain](https://initialcommit.com/blog/im-making-a-git-game)
-* [2025-03-02, 12:00:27](https://news.ycombinator.com/item?id=43229569) - [Show HN: SafeHaven – A Minimal VPN Implementation in Go](https://github.com/kwakubiney/safehaven)
 * [2025-03-01, 15:51:17](https://news.ycombinator.com/item?id=43220438) - [Stone tool analysis in Southeast Asia provides evidence of seafaring technology](https://www.popularmechanics.com/science/archaeology/a63870396/ancient-boats-southeast-asia/)
 * [2025-03-01, 14:24:21](https://news.ycombinator.com/item?id=43219487) - [Verifiable science on modified PCR machine](https://github.com/ClemHeyd/PCR7500)
 * [2025-03-01, 08:59:25](https://news.ycombinator.com/item?id=43217451) - [Effective Rust (2024)](https://www.lurklurk.org/effective-rust/title-page.html)
