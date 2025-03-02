@@ -12,6 +12,7 @@
 * [2025-03-01, 21:42:15](https://news.ycombinator.com/item?id=43223985) - [Why Can't We Screenshot Frames from DRM-Protected Video on Apple Devices?](https://daringfireball.net/2025/03/why_cant_we_screenshot_frames_from_drm-protected_video)
 * [2025-03-01, 21:11:26](https://news.ycombinator.com/item?id=43223718) - [Show HN: Berlin Swapfest – Electronics flea market](https://www.swapfest.berlin/)
 * [2025-03-01, 21:06:44](https://news.ycombinator.com/item?id=43223684) - [China advises citizens specializing in AI to avoid traveling to America](https://www.saba.ye/en/news3445018.htm)
+* [2025-03-01, 20:56:03](https://news.ycombinator.com/item?id=43223596) - [Euclid finds complete Einstein Ring in NGC galaxy](https://www.euclid-ec.org/einstein-ring-in-ngc-6505/)
 * [2025-03-01, 20:44:10](https://news.ycombinator.com/item?id=43223489) - [Microsoft Copilot continues to expose private GitHub repositories](https://www.developer-tech.com/news/microsoft-copilot-continues-to-expose-private-github-repositories/)
 * [2025-03-01, 20:11:15](https://news.ycombinator.com/item?id=43223162) - [Ask HN: What less-popular systems programming language are you using?](https://news.ycombinator.com/item?id=43223162)
 * [2025-03-01, 20:06:02](https://news.ycombinator.com/item?id=43223106) - [Nearly 25 Years Later, Terminator 2 Is Getting a New Video Game](https://gizmodo.com/nearly-25-years-later-terminator-2-is-getting-a-new-video-game-2000570123)
