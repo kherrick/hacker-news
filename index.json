@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-03-02, 02:15:18",
+      "https://news.ycombinator.com/item?id=43226462"
+    ],
+    [
+      "Why I'm Learning C# and .NET After Two Decades of Programming",
+      "https://kerrick.blog/articles/2025/why-i-am-learning-c-sharp-and-dot-net-after-two-decades-of-programming/"
+    ]
+  ],
+  [
+    [
+      "2025-03-02, 01:14:29",
+      "https://news.ycombinator.com/item?id=43226052"
+    ],
+    [
+      "Unleashed Recompiled – Unofficial PC Port of Sonic Unleashed",
+      "https://github.com/hedge-dev/UnleashedRecomp"
+    ]
+  ],
+  [
+    [
+      "2025-03-02, 00:49:27",
+      "https://news.ycombinator.com/item?id=43225901"
+    ],
+    [
+      "I'm Done with Coding",
+      "https://www.neelc.org/2025/03/01/im-done-with-coding/"
+    ]
+  ],
+  [
+    [
       "2025-03-02, 00:18:21",
       "https://news.ycombinator.com/item?id=43225686"
     ],
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2025-03-01, 13:24:30",
-      "https://news.ycombinator.com/item?id=43218998"
-    ],
-    [
-      "OpenGL to WASM, learning from my mistakes",
-      "https://uds5501.github.io/mindpalace/2025/03/01/opengl-webgl-porting.html"
-    ]
-  ],
-  [
-    [
       "2025-03-01, 08:17:29",
       "https://news.ycombinator.com/item?id=43217195"
     ],
@@ -151,42 +171,12 @@
   ],
   [
     [
-      "2025-03-01, 04:10:46",
-      "https://news.ycombinator.com/item?id=43215781"
-    ],
-    [
-      "Zen 5's AVX-512 Frequency Behavior",
-      "https://chipsandcheese.com/p/zen-5s-avx-512-frequency-behavior"
-    ]
-  ],
-  [
-    [
-      "2025-03-01, 00:59:13",
-      "https://news.ycombinator.com/item?id=43214263"
-    ],
-    [
-      "The housing theory of everything (2021)",
-      "https://worksinprogress.co/issue/the-housing-theory-of-everything/"
-    ]
-  ],
-  [
-    [
       "2025-02-28, 23:05:21",
       "https://news.ycombinator.com/item?id=43212952"
     ],
     [
       "Why it's so hard to build a jet engine",
       "https://www.construction-physics.com/p/why-its-so-hard-to-build-a-jet-engine"
-    ]
-  ],
-  [
-    [
-      "2025-02-28, 21:05:35",
-      "https://news.ycombinator.com/item?id=43210858"
-    ],
-    [
-      "How to gain code execution on hundreds of millions of people and popular apps",
-      "https://kibty.town/blog/todesktop/"
     ]
   ],
   [
@@ -221,6 +211,16 @@
   ],
   [
     [
+      "2025-02-27, 06:05:46",
+      "https://news.ycombinator.com/item?id=43191773"
+    ],
+    [
+      "Rifling Through the Archives with Legendary Historian Robert Caro",
+      "https://www.smithsonianmag.com/history/rifling-through-archives-legendary-historian-robert-caro-180985956/"
+    ]
+  ],
+  [
+    [
       "2025-02-27, 05:46:32",
       "https://news.ycombinator.com/item?id=43191696"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
+      "2025-02-26, 12:40:07",
+      "https://news.ycombinator.com/item?id=43183118"
+    ],
+    [
+      "Backyard Bird Has a Lot to Teach Us about Sex Variability",
+      "https://www.scientificamerican.com/article/a-backyard-bird-offers-a-new-way-of-thinking-about-sexes/"
+    ]
+  ],
+  [
+    [
       "2025-02-26, 01:57:01",
       "https://news.ycombinator.com/item?id=43179795"
     ],
     [
       "Measles: The race to understand 'immune amnesia'",
       "https://www.bbc.com/future/article/20211112-the-people-with-immune-amnesia"
-    ]
-  ],
-  [
-    [
-      "2025-02-25, 19:42:51",
-      "https://news.ycombinator.com/item?id=43176358"
-    ],
-    [
-      "Depending in Common Lisp – Using the CLOS dependent maintenance protocol (2022)",
-      "https://stevelosh.com/blog/2022/08/depending-in-common-lisp/"
     ]
   ],
   [
