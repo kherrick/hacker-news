@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-02, 04:09:49](https://news.ycombinator.com/item?id=43227180) - [The NIH Is Being Slashed and Burned, Not \"Reformed\"](https://www.sensible-med.com/p/the-nih-is-being-slashed-and-burned)
-* [2025-03-02, 01:14:29](https://news.ycombinator.com/item?id=43226052) - [Unleashed Recompiled – Unofficial PC Port of Sonic Unleashed](https://github.com/hedge-dev/UnleashedRecomp)
 * [2025-03-02, 01:08:59](https://news.ycombinator.com/item?id=43226010) - [Wealthy Americans fuel half of us economy consumer spending](https://www.bloomberg.com/news/articles/2025-02-28/wealthy-americans-fuel-half-of-us-economy-consumer-spending)
 * [2025-03-02, 00:47:23](https://news.ycombinator.com/item?id=43225886) - [Passing the Buck: The story of the 2022 Wings Over Dallas air show collision](https://admiralcloudberg.medium.com/passing-the-buck-the-story-of-the-2022-wings-over-dallas-air-show-collision-9bbe5947297b)
 * [2025-03-02, 00:18:21](https://news.ycombinator.com/item?id=43225686) - [The early days of Linux (2023)](https://lwn.net/Articles/928581/)
@@ -27,6 +26,7 @@
 * [2025-02-26, 14:27:15](https://news.ycombinator.com/item?id=43183873) - [Nuclear Reactor Lasers: From fission to photon](http://toughsf.blogspot.com/2019/04/nuclear-reactor-lasers-from-fission-to.html)
 * [2025-02-26, 13:58:24](https://news.ycombinator.com/item?id=43183635) - [Show HN: I made a website where you can create your own \"Life in Weeks\" timeline](https://lifeweeks.app/)
 * [2025-02-26, 12:40:07](https://news.ycombinator.com/item?id=43183118) - [Backyard bird has a lot to teach us about sex variability](https://www.scientificamerican.com/article/a-backyard-bird-offers-a-new-way-of-thinking-about-sexes/)
+* [2025-02-26, 05:40:14](https://news.ycombinator.com/item?id=43180977) - [AlgoMIDI – A Mathematical 'Music Studio'](https://github.com/myanvoos/algoMIDI)
 * [2025-02-25, 18:52:59](https://news.ycombinator.com/item?id=43175793) - [Certificate Transparency in Firefox](https://blog.transparency.dev/ct-in-firefox)
 * [2025-02-25, 17:01:13](https://news.ycombinator.com/item?id=43174453) - [Maestro – Next generation mobile UI automation](https://github.com/mobile-dev-inc/Maestro)
 * [2025-02-25, 12:27:30](https://news.ycombinator.com/item?id=43171007) - [What do people see when they're tripping? Analyzing Erowid's trip reports](https://themicrodose.substack.com/p/what-do-people-see-when-theyre-tripping)
