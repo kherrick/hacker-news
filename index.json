@@ -1,32 +1,12 @@
 [
   [
     [
-      "2025-03-02, 20:11:20",
-      "https://news.ycombinator.com/item?id=43234513"
-    ],
-    [
-      "Ask HN: Are you a 40-year old software engineer without a job for > 1 year?",
-      "https://news.ycombinator.com/item?id=43234513"
-    ]
-  ],
-  [
-    [
       "2025-03-02, 20:06:41",
       "https://news.ycombinator.com/item?id=43234471"
     ],
     [
       "Matt's Script Archive (1995)",
       "https://www.scriptarchive.com/"
-    ]
-  ],
-  [
-    [
-      "2025-03-02, 19:48:33",
-      "https://news.ycombinator.com/item?id=43234281"
-    ],
-    [
-      "Brazilians hail strength of democracy as Bolsonaro is called to account",
-      "https://www.theguardian.com/world/2025/feb/19/brazil-jair-bolsonaro-coup"
     ]
   ],
   [
@@ -95,7 +75,7 @@
       "https://news.ycombinator.com/item?id=43232730"
     ],
     [
-      "Distro (YC S24) Is Hiring a Marketing Lead in Palo Alto",
+      "Distro (YC S24) is hiring a marketing lead in Palo Alto",
       "https://www.ycombinator.com/companies/distro/jobs/splSeS5-marketing-lead"
     ]
   ],
@@ -165,7 +145,7 @@
       "https://news.ycombinator.com/item?id=43230922"
     ],
     [
-      "Towards a test-suite for TOTP codes",
+      "Towards a test suite for TOTP codes",
       "https://shkspr.mobi/blog/2025/03/towards-a-test-suite-for-totp-codes/"
     ]
   ],
@@ -187,6 +167,16 @@
     [
       "Raspberry Pi Pico audio player",
       "http://lucstechblog.blogspot.com/2025/02/raspberry-pi-pico-audio-player.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-02, 14:25:21",
+      "https://news.ycombinator.com/item?id=43230790"
+    ],
+    [
+      "Show HN: Recommendarr – AI Driven Recommendations Based on Sonarr/Radarr Media",
+      "https://github.com/fingerthief/recommendarr"
     ]
   ],
   [
@@ -251,11 +241,21 @@
   ],
   [
     [
+      "2025-02-28, 10:39:01",
+      "https://news.ycombinator.com/item?id=43204091"
+    ],
+    [
+      "Turning my ESP32 into a DNS sinkhole to fight doomscrolling",
+      "https://amanvir.com/blog/turning-my-esp32-into-a-dns-sinkhole"
+    ]
+  ],
+  [
+    [
       "2025-02-28, 08:31:27",
       "https://news.ycombinator.com/item?id=43203180"
     ],
     [
-      "‘Slime’ keeps the brain safe ― and could guard against ageing",
+      "Mucins keep the brain safe and could guard against ageing",
       "https://www.nature.com/articles/d41586-025-00554-w"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=43186717"
     ],
     [
-      "When This Professor Got Cancer, He Didn't Quit. He Taught a Class About It",
+      "When Professor Bryant Lin got cancer, he taught a class about it",
       "https://www.nytimes.com/2025/02/26/us/stanford-professor-cancer-bryant-lin.html"
     ]
   ]
