@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-02](index.md)
 
+* [2025-03-02, 07:42:27](https://news.ycombinator.com/item?id=43228274) - [A cross-platform multi-target dotfiles manager written in Rust](https://github.com/Shemnei/punktf)
 * [2025-03-02, 07:35:13](https://news.ycombinator.com/item?id=43228231) - [Show HN: I built a memory-safe web server in Rust (currently in beta)](https://www.ferronweb.org/)
 * [2025-03-02, 06:13:01](https://news.ycombinator.com/item?id=43227881) - [A voice model significantly more human-like than OpenAIs advanced voice](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice)
 * [2025-03-02, 05:33:34](https://news.ycombinator.com/item?id=43227724) - [AI: The New Aesthetics of Fascism](https://newsocialist.org.uk/transmissions/ai-the-new-aesthetics-of-fascism/)
