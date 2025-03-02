@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-02](index.md)
 
+* [2025-03-02, 15:03:52](https://news.ycombinator.com/item?id=43231096) - [Louis Rossmann opines on the Firefox debacle [video]](https://www.youtube.com/watch?v=-8bTquKjzos)
+* [2025-03-02, 14:58:28](https://news.ycombinator.com/item?id=43231062) - [Mark Cuban offers to fund 18f](https://techcrunch.com/2025/03/01/mark-cuban-offers-to-fund-government-tech-unit-that-was-cut-in-the-middle-of-the-night/)
+* [2025-03-02, 14:50:20](https://news.ycombinator.com/item?id=43230994) - [Show HN: I built a modern Goodreads alternative](https://kaguya.io/)
 * [2025-03-02, 14:08:43](https://news.ycombinator.com/item?id=43230632) - [Chrome has built-in AI history search](https://support.google.com/chrome/answer/15305774?hl=en)
 * [2025-03-02, 13:09:20](https://news.ycombinator.com/item?id=43230153) - [Sergey Brin says 60 hours a week is the 'sweet spot'](https://fortune.com/2025/02/28/sergey-brin-60-hours-work-week-rto-gemini-artificial-general-intelligence/)
 * [2025-03-02, 12:13:47](https://news.ycombinator.com/item?id=43229668) - [Mozilla flamed by Firefox fans after reneging on promises to not sell their data](https://www.theregister.com/2025/03/02/mozilla_introduces_terms_of_use/)
