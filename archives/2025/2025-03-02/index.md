@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-02](index.md)
 
+* [2025-03-02, 19:39:09](https://news.ycombinator.com/item?id=43234153) - [Cornell Announces a Hiring Pause](https://hr.cornell.edu/2025-hiring-pause)
 * [2025-03-02, 19:33:21](https://news.ycombinator.com/item?id=43234089) - [Geothermal power is a climate moon shot beneath our feet](https://www.newyorker.com/news/the-lede/geothermal-power-is-a-climate-moon-shot-beneath-our-feet)
 * [2025-03-02, 19:06:00](https://news.ycombinator.com/item?id=43233784) - [NIH insiders reveal process stalling grants](https://bsky.app/profile/jeremymberg.bsky.social/post/3ljflptdcy22r)
 * [2025-03-02, 18:38:42](https://news.ycombinator.com/item?id=43233505) - [Mozilla is trying to backtrack on Firefox's controversial data privacy update](https://www.pcgamer.com/gaming-industry/mozilla-is-already-trying-to-backtrack-on-firefoxs-controversial-data-privacy-update-but-it-might-be-too-little-too-late/)
