@@ -53,6 +53,7 @@
 * [2025-02-27, 12:01:37](https://news.ycombinator.com/item?id=43193553) - [Bitmovin (YC S15) Is Hiring Interns in Software Engineering in Austria](https://bitmovin.com/careers/7863755002/)
 * [2025-02-27, 11:24:51](https://news.ycombinator.com/item?id=43193366) - [US Forest Service firings decimate: entire generation of talent and passion lost](https://grist.org/politics/forest-service-firings-decimate-already-understaffed-agency/)
 * [2025-02-27, 11:17:09](https://news.ycombinator.com/item?id=43193326) - [Germany's Water Consumption Down 17% Following Nuclear Reactor Shutdowns](https://www.vdi-nachrichten.com/technik/umwelt/wasserverbrauch-in-deutschland-sank-deutlich-durch-akw-abschaltung/)
+* [2025-02-27, 10:47:31](https://news.ycombinator.com/item?id=43193160) - [API design note: Beware of adding an \"Other\" enum value](https://devblogs.microsoft.com/oldnewthing/20250217-00/?p=110873)
 * [2025-02-27, 10:38:02](https://news.ycombinator.com/item?id=43193105) - [We Kind of Suck at That Right Now](https://cutlefish.substack.com/p/tbm-343-we-kind-of-suck-at-that-right)
 * [2025-02-27, 10:25:27](https://news.ycombinator.com/item?id=43193018) - [Google gifts a Free AI Coding Assistant to the developer community](https://techcrunch.com/2025/02/25/google-launches-a-free-ai-coding-assistant-with-very-high-usage-caps/)
 * [2025-02-27, 09:48:44](https://news.ycombinator.com/item?id=43192790) - [Andrew Tate and brother leave Romania for US after travel ban lifted](https://www.theguardian.com/news/2025/feb/27/andrew-tate-tristan-romania-us)
