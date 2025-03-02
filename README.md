@@ -2,7 +2,6 @@
 
 * [2025-03-02, 01:14:29](https://news.ycombinator.com/item?id=43226052) - [Unleashed Recompiled – Unofficial PC Port of Sonic Unleashed](https://github.com/hedge-dev/UnleashedRecomp)
 * [2025-03-02, 01:08:59](https://news.ycombinator.com/item?id=43226010) - [Wealthy Americans fuel half of us economy consumer spending](https://www.bloomberg.com/news/articles/2025-02-28/wealthy-americans-fuel-half-of-us-economy-consumer-spending)
-* [2025-03-02, 00:49:27](https://news.ycombinator.com/item?id=43225901) - [I'm done with coding](https://www.neelc.org/2025/03/01/im-done-with-coding/)
 * [2025-03-02, 00:18:21](https://news.ycombinator.com/item?id=43225686) - [The early days of Linux (2023)](https://lwn.net/Articles/928581/)
 * [2025-03-02, 00:05:30](https://news.ycombinator.com/item?id=43225560) - [How Flash games shaped the video game industry](https://www.flashgamehistory.com/)
 * [2025-03-01, 21:53:34](https://news.ycombinator.com/item?id=43224107) - [Firefly Blue Ghost Mission 1 Lunar Landing](https://plus.nasa.gov/scheduled-video/firefly-blue-ghost-mission-1-lunar-landing/)
@@ -20,6 +19,7 @@
 * [2025-03-01, 08:17:29](https://news.ycombinator.com/item?id=43217195) - [Emacs Tree-sitter custom highlighting](https://amitp.blogspot.com/2025/02/emacs-tree-sitter-custom-highlighting.html)
 * [2025-02-28, 23:05:21](https://news.ycombinator.com/item?id=43212952) - [Why it's so hard to build a jet engine](https://www.construction-physics.com/p/why-its-so-hard-to-build-a-jet-engine)
 * [2025-02-28, 17:01:43](https://news.ycombinator.com/item?id=43207831) - [3,200% CPU Utilization](https://josephmate.github.io/2025-02-26-3200p-cpu-util/)
+* [2025-02-28, 14:28:26](https://news.ycombinator.com/item?id=43205968) - [Reimagining Fluid Web Typography](https://www.oddbird.net/2025/02/12/fluid-type/)
 * [2025-02-28, 10:31:00](https://news.ycombinator.com/item?id=43204032) - [Drone captures narwhals using their tusks to explore, forage and play](https://phys.org/news/2025-02-drone-captures-narwhals-tusks-explore.html)
 * [2025-02-28, 04:33:26](https://news.ycombinator.com/item?id=43201720) - [Video encoding requires using your eyes](https://redvice.org/2025/encoding-requires-eyes/)
 * [2025-02-27, 06:05:46](https://news.ycombinator.com/item?id=43191773) - [Rifling through the archives with Robert Caro](https://www.smithsonianmag.com/history/rifling-through-archives-legendary-historian-robert-caro-180985956/)
