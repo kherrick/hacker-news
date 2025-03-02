@@ -51,6 +51,7 @@
 * [2025-02-26, 10:48:42](https://news.ycombinator.com/item?id=43182578) - [Open-source is where dreams go to die](https://www.trevorlasn.com/blog/open-source-is-where-dreams-go-to-die)
 * [2025-02-26, 10:48:29](https://news.ycombinator.com/item?id=43182576) - [Automattic Hit with Class Action over WP Engine Dispute](https://www.therepository.email/automattic-hit-with-class-action-over-wp-engine-dispute-accused-of-anti-competitive-tactics)
 * [2025-02-26, 09:57:23](https://news.ycombinator.com/item?id=43182325) - [The FFT Strikes Back: An Efficient Alternative to Self-Attention](https://arxiv.org/abs/2502.18394)
+* [2025-02-26, 09:42:58](https://news.ycombinator.com/item?id=43182253) - [The GitVenom campaign: cryptocurrency theft using GitHub](https://securelist.com/gitvenom-campaign/115694/)
 * [2025-02-26, 09:41:38](https://news.ycombinator.com/item?id=43182241) - [Open Source LLMOps Stack](https://oss-llmops-stack.com)
 * [2025-02-26, 08:28:21](https://news.ycombinator.com/item?id=43181862) - [Telescope – an open-source web-based log viewer for logs stored in ClickHouse](https://github.com/iamtelescope/telescope)
 * [2025-02-26, 08:25:46](https://news.ycombinator.com/item?id=43181847) - [A CLI to quickly launch VSCode/cursor devcontainers](https://github.com/michidk/vscli)
