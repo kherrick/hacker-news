@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-02, 10:50:52",
+      "https://news.ycombinator.com/item?id=43229201"
+    ],
+    [
+      "NIH.gov DNS servers down, making PubMed, BLAST, etc. unreachable",
+      "https://www.nslookup.io/domains/www.nih.gov/dns-records/#authoritative"
+    ]
+  ],
+  [
+    [
       "2025-03-02, 09:31:50",
       "https://news.ycombinator.com/item?id=43228816"
     ],
@@ -127,16 +137,6 @@
     [
       "Efabless – Shutdown Notice",
       "https://efabless.com/notice"
-    ]
-  ],
-  [
-    [
-      "2025-03-01, 18:30:51",
-      "https://news.ycombinator.com/item?id=43222099"
-    ],
-    [
-      "Show HN: I took over Painteresque, a 14 year old Objective-C app and rebuilt it",
-      "https://apps.apple.com/ca/app/painteresque-photo-to-sketch/id6742038583"
     ]
   ],
   [
