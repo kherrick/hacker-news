@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-02, 10:50:52](https://news.ycombinator.com/item?id=43229201) - [NIH.gov DNS servers down, making PubMed, BLAST, etc. unreachable](https://www.nslookup.io/domains/www.nih.gov/dns-records/#authoritative)
-* [2025-03-02, 09:31:50](https://news.ycombinator.com/item?id=43228816) - [Firefly 'Blue Ghost' lunar lander touches down on the moon](https://www.cnn.com/science/live-news/moon-landing-blue-ghost-03-02-25/index.html)
 * [2025-03-02, 07:56:06](https://news.ycombinator.com/item?id=43228333) - [Show HN: Robyn – \"Batman Inspired\" Python Web Framework Built with Rust](https://robyn.tech/)
 * [2025-03-02, 07:42:27](https://news.ycombinator.com/item?id=43228274) - [A cross-platform multi-target dotfiles manager written in Rust](https://github.com/Shemnei/punktf)
 * [2025-03-02, 06:13:01](https://news.ycombinator.com/item?id=43227881) - [Crossing the uncanny valley of conversational voice](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice)
@@ -25,6 +24,7 @@
 * [2025-02-27, 05:46:32](https://news.ycombinator.com/item?id=43191696) - [Python as a second language empathy (2018)](https://ballingt.com/python-second-language-empathy/)
 * [2025-02-26, 14:27:15](https://news.ycombinator.com/item?id=43183873) - [Nuclear Reactor Lasers: From fission to photon](http://toughsf.blogspot.com/2019/04/nuclear-reactor-lasers-from-fission-to.html)
 * [2025-02-26, 13:58:24](https://news.ycombinator.com/item?id=43183635) - [Show HN: I made a website where you can create your own \"Life in Weeks\" timeline](https://lifeweeks.app/)
+* [2025-02-26, 11:50:27](https://news.ycombinator.com/item?id=43182833) - [Free introns of tRNAs as complementarity-dependent regulators of gene expression](https://www.cell.com/molecular-cell/fulltext/S1097-2765(25)00053-X)
 * [2025-02-26, 09:42:58](https://news.ycombinator.com/item?id=43182253) - [The GitVenom campaign: cryptocurrency theft using GitHub](https://securelist.com/gitvenom-campaign/115694/)
 * [2025-02-26, 05:40:14](https://news.ycombinator.com/item?id=43180977) - [AlgoMIDI – A Mathematical 'Music Studio'](https://github.com/myanvoos/algoMIDI)
 * [2025-02-25, 18:52:59](https://news.ycombinator.com/item?id=43175793) - [Certificate Transparency in Firefox](https://blog.transparency.dev/ct-in-firefox)

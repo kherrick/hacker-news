@@ -48,6 +48,7 @@
 * [2025-02-26, 12:40:07](https://news.ycombinator.com/item?id=43183118) - [Backyard Bird Has a Lot to Teach Us about Sex Variability](https://www.scientificamerican.com/article/a-backyard-bird-offers-a-new-way-of-thinking-about-sexes/)
 * [2025-02-26, 12:03:11](https://news.ycombinator.com/item?id=43182892) - [State of emergency declared after blackout plunges most of Chile into darkness](https://www.cnn.com/2025/02/25/americas/chile-blackout-14-regions-intl-latam/index.html)
 * [2025-02-26, 11:55:26](https://news.ycombinator.com/item?id=43182854) - [The Miserable State of Modems and Mobile Network Operators](https://blog.golioth.io/the-miserable-state-of-modems-and-mobile-network-operators/)
+* [2025-02-26, 11:50:27](https://news.ycombinator.com/item?id=43182833) - [Free introns of tRNAs as complementarity-dependent regulators of gene expression](https://www.cell.com/molecular-cell/fulltext/S1097-2765(25)00053-X)
 * [2025-02-26, 10:48:42](https://news.ycombinator.com/item?id=43182578) - [Open-source is where dreams go to die](https://www.trevorlasn.com/blog/open-source-is-where-dreams-go-to-die)
 * [2025-02-26, 10:48:29](https://news.ycombinator.com/item?id=43182576) - [Automattic Hit with Class Action over WP Engine Dispute](https://www.therepository.email/automattic-hit-with-class-action-over-wp-engine-dispute-accused-of-anti-competitive-tactics)
 * [2025-02-26, 09:57:23](https://news.ycombinator.com/item?id=43182325) - [The FFT Strikes Back: An Efficient Alternative to Self-Attention](https://arxiv.org/abs/2502.18394)
