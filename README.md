@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-02, 21:32:29](https://news.ycombinator.com/item?id=43235384) - [Dozens of U.S. academics lose grants from Minerva Research Initiative](https://www.science.org/content/article/pentagon-guts-national-security-program-harnessed-social-science)
+* [2025-03-02, 22:19:18](https://news.ycombinator.com/item?id=43235838) - [Data show Tesla sales declined sharply in Europe](https://www.npr.org/2025/02/27/nx-s1-5311609/tesla-sales-europe)
 * [2025-03-02, 20:26:21](https://news.ycombinator.com/item?id=43234666) - [Nvidia GPU on bare metal NixOS Kubernetes cluster explained](https://fangpenlin.com/posts/2025/03/01/nvidia-gpu-on-bare-metal-nixos-k8s-explained/)
-* [2025-03-02, 20:10:55](https://news.ycombinator.com/item?id=43234510) - [Rotors: A practical introduction for 3D graphics (2023)](https://jacquesheunis.com/post/rotors/)
 * [2025-03-02, 20:06:41](https://news.ycombinator.com/item?id=43234471) - [Matt's Script Archive (1995)](https://www.scriptarchive.com/)
 * [2025-03-02, 19:39:09](https://news.ycombinator.com/item?id=43234153) - [2025 Hiring Pause](https://hr.cornell.edu/2025-hiring-pause)
 * [2025-03-02, 19:33:21](https://news.ycombinator.com/item?id=43234089) - [Geothermal power is a climate moon shot beneath our feet](https://www.newyorker.com/news/the-lede/geothermal-power-is-a-climate-moon-shot-beneath-our-feet)
@@ -28,6 +27,7 @@
 * [2025-02-28, 15:55:11](https://news.ycombinator.com/item?id=43207040) - [Imec demonstrates electrical yield for 20nm lines High NA EUV single patterning](https://www.imec-int.com/en/press/imec-demonstrates-electrical-yield-20nm-pitch-metal-lines-obtained-high-na-euv-single)
 * [2025-02-28, 10:39:01](https://news.ycombinator.com/item?id=43204091) - [Turning my ESP32 into a DNS sinkhole to fight doomscrolling](https://amanvir.com/blog/turning-my-esp32-into-a-dns-sinkhole)
 * [2025-02-28, 01:56:35](https://news.ycombinator.com/item?id=43200793) - [Smallpond – A lightweight data processing framework built on DuckDB and 3FS](https://github.com/deepseek-ai/smallpond)
+* [2025-02-27, 19:46:55](https://news.ycombinator.com/item?id=43197752) - [Prompting Large Language Models in Bash Scripts](https://elijahpotter.dev/articles/prompting_large_language_models_in_bash_scripts)
 * [2025-02-27, 10:47:31](https://news.ycombinator.com/item?id=43193160) - [API design note: Beware of adding an \"Other\" enum value](https://devblogs.microsoft.com/oldnewthing/20250217-00/?p=110873)
 * [2025-02-26, 18:44:50](https://news.ycombinator.com/item?id=43186717) - [When Professor Bryant Lin got cancer, he taught a class about it](https://www.nytimes.com/2025/02/26/us/stanford-professor-cancer-bryant-lin.html)
 
