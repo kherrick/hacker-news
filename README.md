@@ -2,7 +2,6 @@
 
 * [2025-03-02, 07:56:06](https://news.ycombinator.com/item?id=43228333) - [Show HN: Robyn – \"Batman Inspired\" Python Web Framework Built with Rust](https://robyn.tech/)
 * [2025-03-02, 07:42:27](https://news.ycombinator.com/item?id=43228274) - [A cross-platform multi-target dotfiles manager written in Rust](https://github.com/Shemnei/punktf)
-* [2025-03-02, 07:35:13](https://news.ycombinator.com/item?id=43228231) - [Show HN: I built a memory-safe web server in Rust](https://www.ferronweb.org/)
 * [2025-03-02, 06:13:01](https://news.ycombinator.com/item?id=43227881) - [Crossing the uncanny valley of conversational voice](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice)
 * [2025-03-02, 04:32:06](https://news.ycombinator.com/item?id=43227303) - [Knowing CSS is mastery to Front end Development](https://helloanselm.com/writings/knowing-css-is-mastery-to-frontend-development)
 * [2025-03-02, 01:20:17](https://news.ycombinator.com/item?id=43226089) - [Mozilla site down due to \"overdue hosting payments\"](https://linuxmom.net/@vkc/114089626244932902)
@@ -20,6 +19,7 @@
 * [2025-03-01, 08:17:29](https://news.ycombinator.com/item?id=43217195) - [Emacs Tree-sitter custom highlighting](https://amitp.blogspot.com/2025/02/emacs-tree-sitter-custom-highlighting.html)
 * [2025-02-28, 23:05:21](https://news.ycombinator.com/item?id=43212952) - [Why it's so hard to build a jet engine](https://www.construction-physics.com/p/why-its-so-hard-to-build-a-jet-engine)
 * [2025-02-28, 14:28:26](https://news.ycombinator.com/item?id=43205968) - [Reimagining Fluid Typography](https://www.oddbird.net/2025/02/12/fluid-type/)
+* [2025-02-28, 10:31:00](https://news.ycombinator.com/item?id=43204032) - [Drone captures narwhals using their tusks to explore, forage and play](https://phys.org/news/2025-02-drone-captures-narwhals-tusks-explore.html)
 * [2025-02-28, 08:31:27](https://news.ycombinator.com/item?id=43203180) - ['Slime' keeps the brain safe ― and could guard against ageing](https://www.nature.com/articles/d41586-025-00554-w)
 * [2025-02-27, 06:05:46](https://news.ycombinator.com/item?id=43191773) - [Rifling through the archives with Robert Caro](https://www.smithsonianmag.com/history/rifling-through-archives-legendary-historian-robert-caro-180985956/)
 * [2025-02-27, 05:46:32](https://news.ycombinator.com/item?id=43191696) - [Python as a second language empathy (2018)](https://ballingt.com/python-second-language-empathy/)
