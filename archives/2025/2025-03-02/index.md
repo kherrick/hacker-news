@@ -6,6 +6,7 @@
 
 * [2025-03-02, 18:38:42](https://news.ycombinator.com/item?id=43233505) - [Mozilla is trying to backtrack on Firefox's controversial data privacy update](https://www.pcgamer.com/gaming-industry/mozilla-is-already-trying-to-backtrack-on-firefoxs-controversial-data-privacy-update-but-it-might-be-too-little-too-late/)
 * [2025-03-02, 18:21:04](https://news.ycombinator.com/item?id=43233305) - [olduse.net](https://olduse.net/)
+* [2025-03-02, 18:18:21](https://news.ycombinator.com/item?id=43233278) - [Let me GPT that for you](https://letmegptthatforyou.com)
 * [2025-03-02, 18:17:48](https://news.ycombinator.com/item?id=43233273) - ['Your showerhead is lying to you'](https://www.washingtonpost.com/opinions/2025/02/26/shower-pressure-save-water/)
 * [2025-03-02, 17:52:48](https://news.ycombinator.com/item?id=43232999) - [The Era of Solopreneurs Is Here](https://manidoraisamy.com/developer-forever/post/the-era-of-solopreneurs-is-here.anc-52867368-2029-4dc5-a7da-ece853a648b5.html)
 * [2025-03-02, 17:40:36](https://news.ycombinator.com/item?id=43232880) - [Speedrunners are vulnerability researchers, they just don't know it yet](https://zetier.com/speedrunners-are-vulnerability-researchers/)
