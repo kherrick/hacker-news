@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-02](index.md)
 
+* [2025-03-02, 17:26:44](https://news.ycombinator.com/item?id=43232730) - [Distro (YC S24) Is Hiring a Marketing Lead in Palo Alto](https://www.ycombinator.com/companies/distro/jobs/splSeS5-marketing-lead)
 * [2025-03-02, 16:47:30](https://news.ycombinator.com/item?id=43232255) - [Lifestyle of out of touch execs who are pushing return to office](https://twitter.com/EthanEvansVP/status/1895845734177452369)
 * [2025-03-02, 16:20:34](https://news.ycombinator.com/item?id=43231978) - [Show HN: Vibecoders – Find software engineers that are good at vibecoding](https://news.ycombinator.com/item?id=43231978)
 * [2025-03-02, 16:18:44](https://news.ycombinator.com/item?id=43231964) - [Ask HN: Where are the good Markdown to PDF tools (that meet these requirements)?](https://news.ycombinator.com/item?id=43231964)
