@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-02, 19:33:21](https://news.ycombinator.com/item?id=43234089) - [Geothermal power is a climate moon shot beneath our feet](https://www.newyorker.com/news/the-lede/geothermal-power-is-a-climate-moon-shot-beneath-our-feet)
 * [2025-03-02, 19:06:00](https://news.ycombinator.com/item?id=43233784) - [NIH insiders reveal process stalling grants](https://bsky.app/profile/jeremymberg.bsky.social/post/3ljflptdcy22r)
 * [2025-03-02, 18:38:42](https://news.ycombinator.com/item?id=43233505) - [Mozilla is trying to backtrack on Firefox's controversial data privacy update](https://www.pcgamer.com/gaming-industry/mozilla-is-already-trying-to-backtrack-on-firefoxs-controversial-data-privacy-update-but-it-might-be-too-little-too-late/)
 * [2025-03-02, 18:21:04](https://news.ycombinator.com/item?id=43233305) - [olduse.net](https://olduse.net/)
@@ -18,7 +19,6 @@
 * [2025-03-02, 14:41:59](https://news.ycombinator.com/item?id=43230922) - [Towards a test-suite for TOTP codes](https://shkspr.mobi/blog/2025/03/towards-a-test-suite-for-totp-codes/)
 * [2025-03-02, 14:41:46](https://news.ycombinator.com/item?id=43230920) - [This Month in Ladybird February 2025](https://ladybird.org/newsletter/2025-02-28/)
 * [2025-03-02, 14:29:13](https://news.ycombinator.com/item?id=43230821) - [Raspberry Pi Pico audio player](http://lucstechblog.blogspot.com/2025/02/raspberry-pi-pico-audio-player.html)
-* [2025-03-02, 14:25:21](https://news.ycombinator.com/item?id=43230790) - [Show HN: Recommendarr – AI Driven Recommendations Based on Sonarr/Radarr Media](https://github.com/fingerthief/recommendarr)
 * [2025-03-02, 12:00:27](https://news.ycombinator.com/item?id=43229569) - [Show HN: SafeHaven – A Minimal VPN Implementation in Go](https://github.com/kwakubiney/safehaven)
 * [2025-03-02, 07:35:13](https://news.ycombinator.com/item?id=43228231) - [Show HN: I built a memory-safe web server in Rust](https://www.ferronweb.org/)
 * [2025-03-02, 00:18:21](https://news.ycombinator.com/item?id=43225686) - [The early days of Linux (2023)](https://lwn.net/Articles/928581/)
