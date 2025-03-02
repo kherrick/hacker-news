@@ -42,6 +42,7 @@
 * [2025-02-28, 11:21:04](https://news.ycombinator.com/item?id=43204406) - [WebShield – A new wide-spectrum content blocker for Safari](https://github.com/arjpar/WebShield)
 * [2025-02-28, 11:15:57](https://news.ycombinator.com/item?id=43204376) - [A Comment on Mozilla's Policy Changes](https://www.waterfox.net/blog/a-comment-on-mozilla-changes/)
 * [2025-02-28, 11:12:26](https://news.ycombinator.com/item?id=43204349) - [Meta apologises over flood of gore, violence and dead bodies on Instagram](https://www.theguardian.com/technology/2025/feb/28/meta-apologises-over-flood-of-gore-violence-and-dead-bodies-on-instagram)
+* [2025-02-28, 10:39:01](https://news.ycombinator.com/item?id=43204091) - [Turning my ESP32 into a DNS sinkhole to fight doomscrolling](https://amanvir.com/blog/turning-my-esp32-into-a-dns-sinkhole)
 * [2025-02-28, 10:31:00](https://news.ycombinator.com/item?id=43204032) - [Drone captures narwhals using their tusks to explore, forage and play](https://phys.org/news/2025-02-drone-captures-narwhals-tusks-explore.html)
 * [2025-02-28, 09:24:13](https://news.ycombinator.com/item?id=43203543) - [Hot take: GPT 4.5 is a nothing burger](https://garymarcus.substack.com/p/hot-take-gpt-45-is-a-nothing-burger)
 * [2025-02-28, 08:31:27](https://news.ycombinator.com/item?id=43203180) - ['Slime' keeps the brain safe ― and could guard against ageing](https://www.nature.com/articles/d41586-025-00554-w)
