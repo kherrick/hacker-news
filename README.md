@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-02, 04:09:49](https://news.ycombinator.com/item?id=43227180) - [The NIH Is Being Slashed and Burned, Not \"Reformed\"](https://www.sensible-med.com/p/the-nih-is-being-slashed-and-burned)
 * [2025-03-02, 00:47:23](https://news.ycombinator.com/item?id=43225886) - [Passing the Buck: The story of the 2022 Wings Over Dallas air show collision](https://admiralcloudberg.medium.com/passing-the-buck-the-story-of-the-2022-wings-over-dallas-air-show-collision-9bbe5947297b)
 * [2025-03-02, 00:18:21](https://news.ycombinator.com/item?id=43225686) - [The early days of Linux (2023)](https://lwn.net/Articles/928581/)
 * [2025-03-02, 00:05:30](https://news.ycombinator.com/item?id=43225560) - [How Flash games shaped the video game industry (2020)](https://www.flashgamehistory.com/)
@@ -8,6 +7,7 @@
 * [2025-03-01, 21:42:15](https://news.ycombinator.com/item?id=43223985) - [Why can't we screenshot frames from DRM-protected video on Apple devices?](https://daringfireball.net/2025/03/why_cant_we_screenshot_frames_from_drm-protected_video)
 * [2025-03-01, 21:11:26](https://news.ycombinator.com/item?id=43223718) - [Show HN: Berlin Swapfest – Electronics flea market](https://www.swapfest.berlin/)
 * [2025-03-01, 20:56:03](https://news.ycombinator.com/item?id=43223596) - [Euclid finds complete Einstein Ring in NGC galaxy](https://www.euclid-ec.org/einstein-ring-in-ngc-6505/)
+* [2025-03-01, 20:03:06](https://news.ycombinator.com/item?id=43223075) - [Xcode constantly phones home](https://lapcatsoftware.com/articles/2025/2/5.html?__readwiseLocation=)
 * [2025-03-01, 19:33:41](https://news.ycombinator.com/item?id=43222791) - [GLP-1 drugs: An economic disruptor? (2024)](https://wildfirelabs.substack.com/p/the-100-trillion-disruption-the-unforeseen)
 * [2025-03-01, 18:53:20](https://news.ycombinator.com/item?id=43222344) - [Abusing C to implement JSON parsing with struct methods](https://xnacly.me/posts/2025/json-parser-in-c-with-methods/)
 * [2025-03-01, 18:37:09](https://news.ycombinator.com/item?id=43222168) - [Efabless – Shutdown Notice](https://efabless.com/notice)
