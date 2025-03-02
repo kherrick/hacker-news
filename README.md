@@ -2,6 +2,7 @@
 
 * [2025-03-02, 14:08:43](https://news.ycombinator.com/item?id=43230632) - [Chrome has built-in AI history search](https://support.google.com/chrome/answer/15305774?hl=en)
 * [2025-03-02, 12:13:47](https://news.ycombinator.com/item?id=43229668) - [Mozilla flamed by Firefox fans after reneging on promises to not sell their data](https://www.theregister.com/2025/03/02/mozilla_introduces_terms_of_use/)
+* [2025-03-02, 11:31:16](https://news.ycombinator.com/item?id=43229378) - [Trust in Firefox and Mozilla Is Gone – Let's Talk Alternatives](https://boilingsteam.com/poll-trust-in-firefox-mozilla-is-gone/)
 * [2025-03-02, 11:06:20](https://news.ycombinator.com/item?id=43229267) - [What, if anything, should I do about using Mozilla's Firefox](https://neilzone.co.uk/2025/03/what-if-anything-should-i-do-about-using-mozillas-firefox/)
 * [2025-03-02, 11:02:29](https://news.ycombinator.com/item?id=43229245) - [The A.I. Monarchy](https://substack.com/home/post/p-156886169)
 * [2025-03-02, 10:50:52](https://news.ycombinator.com/item?id=43229201) - [NIH.gov DNS servers down, making PubMed, BLAST, etc. unreachable](https://www.nslookup.io/domains/www.nih.gov/dns-records/#authoritative)
@@ -28,7 +29,6 @@
 * [2025-02-26, 13:58:24](https://news.ycombinator.com/item?id=43183635) - [Show HN: I made a website where you can create your own \"Life in Weeks\" timeline](https://lifeweeks.app/)
 * [2025-02-26, 11:50:27](https://news.ycombinator.com/item?id=43182833) - [Free introns of tRNAs as complementarity-dependent regulators of gene expression](https://www.cell.com/molecular-cell/fulltext/S1097-2765(25)00053-X)
 * [2025-02-26, 05:40:14](https://news.ycombinator.com/item?id=43180977) - [AlgoMIDI – A Mathematical 'Music Studio'](https://github.com/myanvoos/algoMIDI)
-* [2025-02-25, 17:01:13](https://news.ycombinator.com/item?id=43174453) - [Maestro – Next generation mobile UI automation](https://github.com/mobile-dev-inc/Maestro)
 * [2025-02-25, 12:27:30](https://news.ycombinator.com/item?id=43171007) - [What do people see when they're tripping? Analyzing Erowid's trip reports](https://themicrodose.substack.com/p/what-do-people-see-when-theyre-tripping)
 
 ## [Archives](archives/index.md)
