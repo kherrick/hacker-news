@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-02, 17:36:20](https://news.ycombinator.com/item?id=43232841) - [Falsehoods programmers believe about languages (localization)](https://www.lexiconista.com/falsehoods-about-languages/)
 * [2025-03-02, 17:26:44](https://news.ycombinator.com/item?id=43232730) - [Distro (YC S24) Is Hiring a Marketing Lead in Palo Alto](https://www.ycombinator.com/companies/distro/jobs/splSeS5-marketing-lead)
 * [2025-03-02, 16:47:30](https://news.ycombinator.com/item?id=43232255) - [Lifestyle of out of touch execs who are pushing return to office](https://twitter.com/EthanEvansVP/status/1895845734177452369)
 * [2025-03-02, 16:18:44](https://news.ycombinator.com/item?id=43231964) - [Ask HN: Where are the good Markdown to PDF tools (that meet these requirements)?](https://news.ycombinator.com/item?id=43231964)
+* [2025-03-02, 15:32:46](https://news.ycombinator.com/item?id=43231411) - [Why do we have both CSRF protection and CORS?](https://smagin.fyi/posts/cross-site-requests/)
 * [2025-03-02, 14:58:28](https://news.ycombinator.com/item?id=43231062) - [Mark Cuban offers to fund former 18f employees](https://techcrunch.com/2025/03/01/mark-cuban-offers-to-fund-government-tech-unit-that-was-cut-in-the-middle-of-the-night/)
 * [2025-03-02, 14:50:20](https://news.ycombinator.com/item?id=43230994) - [Show HN: I built a modern Goodreads alternative](https://kaguya.io/)
 * [2025-03-02, 14:47:56](https://news.ycombinator.com/item?id=43230965) - [GPT-4.5: \"Not a frontier model\"?](https://www.interconnects.ai/p/gpt-45-not-a-frontier-model)
@@ -12,7 +14,6 @@
 * [2025-03-02, 14:18:11](https://news.ycombinator.com/item?id=43230734) - [I struggled with Git, so I'm making a game to spare others the pain](https://initialcommit.com/blog/im-making-a-git-game)
 * [2025-03-02, 12:00:27](https://news.ycombinator.com/item?id=43229569) - [Show HN: SafeHaven – A Minimal VPN Implementation in Go](https://github.com/kwakubiney/safehaven)
 * [2025-03-02, 11:31:16](https://news.ycombinator.com/item?id=43229378) - [Trust in Firefox and Mozilla Is Gone – Let's Talk Alternatives](https://boilingsteam.com/poll-trust-in-firefox-mozilla-is-gone/)
-* [2025-03-02, 11:02:29](https://news.ycombinator.com/item?id=43229245) - [The A.I. Monarchy](https://substack.com/home/post/p-156886169)
 * [2025-03-02, 07:56:06](https://news.ycombinator.com/item?id=43228333) - [Show HN: Robyn – “Batman Inspired” Python Web Framework Built with Rust](https://robyn.tech/)
 * [2025-03-02, 06:13:01](https://news.ycombinator.com/item?id=43227881) - [Crossing the uncanny valley of conversational voice](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice)
 * [2025-03-02, 04:32:06](https://news.ycombinator.com/item?id=43227303) - [Knowing CSS is mastery to Front end Development](https://helloanselm.com/writings/knowing-css-is-mastery-to-frontend-development)
@@ -28,7 +29,6 @@
 * [2025-02-28, 02:59:24](https://news.ycombinator.com/item?id=43201251) - [A few words about indie app business](https://blog.charliemonroe.net/a-few-words-about-indie-app-business/)
 * [2025-02-27, 16:53:56](https://news.ycombinator.com/item?id=43196110) - [The three-dimensional Kakeya conjecture, after Wang and Zahl](https://terrytao.wordpress.com/2025/02/25/the-three-dimensional-kakeya-conjecture-after-wang-and-zahl/)
 * [2025-02-26, 18:44:50](https://news.ycombinator.com/item?id=43186717) - [When This Professor Got Cancer, He Didn't Quit. He Taught a Class About It](https://www.nytimes.com/2025/02/26/us/stanford-professor-cancer-bryant-lin.html)
-* [2025-02-26, 13:58:24](https://news.ycombinator.com/item?id=43183635) - [Show HN: I made a website where you can create your own \"Life in Weeks\" timeline](https://lifeweeks.app/)
 * [2025-02-26, 11:50:27](https://news.ycombinator.com/item?id=43182833) - [Free introns of tRNAs as complementarity-dependent regulators of gene expression](https://www.cell.com/molecular-cell/fulltext/S1097-2765(25)00053-X)
 
 ## [Archives](archives/index.md)
