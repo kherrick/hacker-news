@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-03-02, 18:21:04",
+      "https://news.ycombinator.com/item?id=43233305"
+    ],
+    [
+      "olduse.net",
+      "https://olduse.net/"
+    ]
+  ],
+  [
+    [
+      "2025-03-02, 18:17:48",
+      "https://news.ycombinator.com/item?id=43233273"
+    ],
+    [
+      "'Your showerhead is lying to you'",
+      "https://www.washingtonpost.com/opinions/2025/02/26/shower-pressure-save-water/"
+    ]
+  ],
+  [
+    [
+      "2025-03-02, 17:52:48",
+      "https://news.ycombinator.com/item?id=43232999"
+    ],
+    [
+      "The Era of Solopreneurs Is Here",
+      "https://manidoraisamy.com/developer-forever/post/the-era-of-solopreneurs-is-here.anc-52867368-2029-4dc5-a7da-ece853a648b5.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-02, 17:40:36",
+      "https://news.ycombinator.com/item?id=43232880"
+    ],
+    [
+      "Speedrunners are vulnerability researchers, they just don't know it yet",
+      "https://zetier.com/speedrunners-are-vulnerability-researchers/"
+    ]
+  ],
+  [
+    [
       "2025-03-02, 17:36:20",
       "https://news.ycombinator.com/item?id=43232841"
     ],
@@ -17,6 +57,36 @@
     [
       "Distro (YC S24) Is Hiring a Marketing Lead in Palo Alto",
       "https://www.ycombinator.com/companies/distro/jobs/splSeS5-marketing-lead"
+    ]
+  ],
+  [
+    [
+      "2025-03-02, 17:25:49",
+      "https://news.ycombinator.com/item?id=43232724"
+    ],
+    [
+      "New battery-free technology can power devices using ambient RF signals",
+      "https://news.nus.edu.sg/nus-researchers-develop-new-battery-free-technology/"
+    ]
+  ],
+  [
+    [
+      "2025-03-02, 17:23:12",
+      "https://news.ycombinator.com/item?id=43232690"
+    ],
+    [
+      "An Ode to TypeScript Enums",
+      "https://blog.disintegrator.dev/posts/ode-to-typescript-enums/"
+    ]
+  ],
+  [
+    [
+      "2025-03-02, 17:00:30",
+      "https://news.ycombinator.com/item?id=43232410"
+    ],
+    [
+      "DeepSeek Drops Distributed DuckDB",
+      "https://www.definite.app/blog/smallpond"
     ]
   ],
   [
@@ -47,16 +117,6 @@
     [
       "Why do we have both CSRF protection and CORS?",
       "https://smagin.fyi/posts/cross-site-requests/"
-    ]
-  ],
-  [
-    [
-      "2025-03-02, 14:58:28",
-      "https://news.ycombinator.com/item?id=43231062"
-    ],
-    [
-      "Mark Cuban offers to fund former 18f employees",
-      "https://techcrunch.com/2025/03/01/mark-cuban-offers-to-fund-government-tech-unit-that-was-cut-in-the-middle-of-the-night/"
     ]
   ],
   [
@@ -111,12 +171,12 @@
   ],
   [
     [
-      "2025-03-02, 14:18:11",
-      "https://news.ycombinator.com/item?id=43230734"
+      "2025-03-02, 14:25:21",
+      "https://news.ycombinator.com/item?id=43230790"
     ],
     [
-      "I struggled with Git, so I'm making a game to spare others the pain",
-      "https://initialcommit.com/blog/im-making-a-git-game"
+      "Show HN: Recommendarr – AI Driven Recommendations Based on Sonarr/Radarr Media",
+      "https://github.com/fingerthief/recommendarr"
     ]
   ],
   [
@@ -127,26 +187,6 @@
     [
       "Show HN: SafeHaven – A Minimal VPN Implementation in Go",
       "https://github.com/kwakubiney/safehaven"
-    ]
-  ],
-  [
-    [
-      "2025-03-02, 11:31:16",
-      "https://news.ycombinator.com/item?id=43229378"
-    ],
-    [
-      "Trust in Firefox and Mozilla Is Gone – Let's Talk Alternatives",
-      "https://boilingsteam.com/poll-trust-in-firefox-mozilla-is-gone/"
-    ]
-  ],
-  [
-    [
-      "2025-03-02, 07:56:06",
-      "https://news.ycombinator.com/item?id=43228333"
-    ],
-    [
-      "Show HN: Robyn – “Batman Inspired” Python Web Framework Built with Rust",
-      "https://robyn.tech/"
     ]
   ],
   [
@@ -191,16 +231,6 @@
   ],
   [
     [
-      "2025-03-01, 21:53:34",
-      "https://news.ycombinator.com/item?id=43224107"
-    ],
-    [
-      "Firefly Blue Ghost Mission 1 Lunar Landing",
-      "https://plus.nasa.gov/scheduled-video/firefly-blue-ghost-mission-1-lunar-landing/"
-    ]
-  ],
-  [
-    [
       "2025-03-01, 21:11:26",
       "https://news.ycombinator.com/item?id=43223718"
     ],
@@ -211,32 +241,12 @@
   ],
   [
     [
-      "2025-03-01, 20:56:03",
-      "https://news.ycombinator.com/item?id=43223596"
-    ],
-    [
-      "Euclid finds complete Einstein Ring in NGC galaxy",
-      "https://www.euclid-ec.org/einstein-ring-in-ngc-6505/"
-    ]
-  ],
-  [
-    [
       "2025-03-01, 17:54:55",
       "https://news.ycombinator.com/item?id=43221697"
     ],
     [
       "The most unhinged video wall, made out of Chromebooks",
       "https://varun.ch/posts/videowall/"
-    ]
-  ],
-  [
-    [
-      "2025-03-01, 11:03:57",
-      "https://news.ycombinator.com/item?id=43218115"
-    ],
-    [
-      "Your Invoice Is an Actor That Wants to Get Paid",
-      "https://10xbetterai.beehiiv.com/p/your-invoice-is-an-actor-that-wants-to-get-paid"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "When This Professor Got Cancer, He Didn't Quit. He Taught a Class About It",
       "https://www.nytimes.com/2025/02/26/us/stanford-professor-cancer-bryant-lin.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-26, 11:50:27",
-      "https://news.ycombinator.com/item?id=43182833"
-    ],
-    [
-      "Free introns of tRNAs as complementarity-dependent regulators of gene expression",
-      "https://www.cell.com/molecular-cell/fulltext/S1097-2765(25)00053-X"
     ]
   ]
 ]
