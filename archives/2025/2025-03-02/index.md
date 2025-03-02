@@ -6,6 +6,7 @@
 
 * [2025-03-02, 21:47:10](https://news.ycombinator.com/item?id=43235524) - [Donald Trump supporters lose $12B after his meme coin collapses](https://www.uniladtech.com/news/tech-news/donald-trump-supporters-lose-12-billion-after-meme-coin-collapse-393345-20250228)
 * [2025-03-02, 21:32:29](https://news.ycombinator.com/item?id=43235384) - [Pentagon guts national security program that harnessed social science](https://www.science.org/content/article/pentagon-guts-national-security-program-harnessed-social-science)
+* [2025-03-02, 20:26:21](https://news.ycombinator.com/item?id=43234666) - [Nvidia GPU on bare metal NixOS Kubernetes cluster explained](https://fangpenlin.com/posts/2025/03/01/nvidia-gpu-on-bare-metal-nixos-k8s-explained/)
 * [2025-03-02, 20:11:20](https://news.ycombinator.com/item?id=43234513) - [Ask HN: Are you a 40-year old software engineer without a job for > 1 year?](https://news.ycombinator.com/item?id=43234513)
 * [2025-03-02, 20:10:55](https://news.ycombinator.com/item?id=43234510) - [Rotors: A practical introduction for 3D graphics (2023)](https://jacquesheunis.com/post/rotors/)
 * [2025-03-02, 20:06:41](https://news.ycombinator.com/item?id=43234471) - [Matt's Script Archive (1995)](https://www.scriptarchive.com/)
