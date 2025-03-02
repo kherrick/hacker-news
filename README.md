@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-02, 15:43:39](https://news.ycombinator.com/item?id=43231551) - [I'm a neuroscientist. Here's the surprising truth about TikTok 'brain rot'](https://www.sciencefocus.com/comment/tiktok-braintot-psychologist-explains)
 * [2025-03-02, 15:03:52](https://news.ycombinator.com/item?id=43231096) - [Louis Rossmann opines on the Firefox debacle [video]](https://www.youtube.com/watch?v=-8bTquKjzos)
 * [2025-03-02, 14:58:28](https://news.ycombinator.com/item?id=43231062) - [Mark Cuban offers to fund former 18f employees](https://techcrunch.com/2025/03/01/mark-cuban-offers-to-fund-government-tech-unit-that-was-cut-in-the-middle-of-the-night/)
 * [2025-03-02, 14:50:20](https://news.ycombinator.com/item?id=43230994) - [Show HN: I built a modern Goodreads alternative](https://kaguya.io/)
@@ -27,6 +26,7 @@
 * [2025-02-28, 08:31:27](https://news.ycombinator.com/item?id=43203180) - [‘Slime’ keeps the brain safe ― and could guard against ageing](https://www.nature.com/articles/d41586-025-00554-w)
 * [2025-02-28, 02:59:24](https://news.ycombinator.com/item?id=43201251) - [A few words about indie app business](https://blog.charliemonroe.net/a-few-words-about-indie-app-business/)
 * [2025-02-27, 16:53:56](https://news.ycombinator.com/item?id=43196110) - [The three-dimensional Kakeya conjecture, after Wang and Zahl](https://terrytao.wordpress.com/2025/02/25/the-three-dimensional-kakeya-conjecture-after-wang-and-zahl/)
+* [2025-02-26, 18:44:50](https://news.ycombinator.com/item?id=43186717) - [When This Professor Got Cancer, He Didn't Quit. He Taught a Class About It](https://www.nytimes.com/2025/02/26/us/stanford-professor-cancer-bryant-lin.html)
 * [2025-02-26, 13:58:24](https://news.ycombinator.com/item?id=43183635) - [Show HN: I made a website where you can create your own \"Life in Weeks\" timeline](https://lifeweeks.app/)
 * [2025-02-26, 11:50:27](https://news.ycombinator.com/item?id=43182833) - [Free introns of tRNAs as complementarity-dependent regulators of gene expression](https://www.cell.com/molecular-cell/fulltext/S1097-2765(25)00053-X)
 * [2025-02-26, 05:40:14](https://news.ycombinator.com/item?id=43180977) - [AlgoMIDI – A Mathematical 'Music Studio'](https://github.com/myanvoos/algoMIDI)
