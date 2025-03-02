@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-02, 18:38:42](https://news.ycombinator.com/item?id=43233505) - [Mozilla is trying to backtrack on Firefox's controversial data privacy update](https://www.pcgamer.com/gaming-industry/mozilla-is-already-trying-to-backtrack-on-firefoxs-controversial-data-privacy-update-but-it-might-be-too-little-too-late/)
 * [2025-03-02, 18:21:04](https://news.ycombinator.com/item?id=43233305) - [olduse.net](https://olduse.net/)
 * [2025-03-02, 18:17:48](https://news.ycombinator.com/item?id=43233273) - ['Your showerhead is lying to you'](https://www.washingtonpost.com/opinions/2025/02/26/shower-pressure-save-water/)
 * [2025-03-02, 17:52:48](https://news.ycombinator.com/item?id=43232999) - [The Era of Solopreneurs Is Here](https://manidoraisamy.com/developer-forever/post/the-era-of-solopreneurs-is-here.anc-52867368-2029-4dc5-a7da-ece853a648b5.html)
@@ -10,7 +11,6 @@
 * [2025-03-02, 17:23:12](https://news.ycombinator.com/item?id=43232690) - [An Ode to TypeScript Enums](https://blog.disintegrator.dev/posts/ode-to-typescript-enums/)
 * [2025-03-02, 17:00:30](https://news.ycombinator.com/item?id=43232410) - [DeepSeek Drops Distributed DuckDB](https://www.definite.app/blog/smallpond)
 * [2025-03-02, 16:47:30](https://news.ycombinator.com/item?id=43232255) - [Lifestyle of out of touch execs who are pushing return to office](https://twitter.com/EthanEvansVP/status/1895845734177452369)
-* [2025-03-02, 16:18:44](https://news.ycombinator.com/item?id=43231964) - [Ask HN: Where are the good Markdown to PDF tools (that meet these requirements)?](https://news.ycombinator.com/item?id=43231964)
 * [2025-03-02, 15:32:46](https://news.ycombinator.com/item?id=43231411) - [Why do we have both CSRF protection and CORS?](https://smagin.fyi/posts/cross-site-requests/)
 * [2025-03-02, 14:50:20](https://news.ycombinator.com/item?id=43230994) - [Show HN: I built a modern Goodreads alternative](https://kaguya.io/)
 * [2025-03-02, 14:47:56](https://news.ycombinator.com/item?id=43230965) - [GPT-4.5: \"Not a frontier model\"?](https://www.interconnects.ai/p/gpt-45-not-a-frontier-model)
