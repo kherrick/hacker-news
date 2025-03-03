@@ -35,6 +35,7 @@
 * [2025-02-28, 14:09:19](https://news.ycombinator.com/item?id=43205755) - [Towards an AI Co-Scientist](https://arxiv.org/abs/2502.18864)
 * [2025-02-28, 14:03:57](https://news.ycombinator.com/item?id=43205677) - [May 5, Microsoft's Skype will shut down for good](https://arstechnica.com/gadgets/2025/02/on-may-5-microsofts-skype-will-shut-down-for-good/)
 * [2025-02-28, 14:00:43](https://news.ycombinator.com/item?id=43205642) - [New footage shows sneaky killer is decapitating baby seals on California beaches](https://www.sfgate.com/local/article/coyotes-decapitating-seals-northern-california-20183166.php)
+* [2025-02-28, 13:52:53](https://news.ycombinator.com/item?id=43205563) - [Bernd das Brot, a depressed German loaf of bread](https://apnews.com/article/bernd-das-brot-germany-582397aa7e741b56f0228feeece35a0d)
 * [2025-02-28, 13:48:35](https://news.ycombinator.com/item?id=43205527) - ['Destiny 2' Reveals Its 'Content Shredder' as a Result of Recent Lawsuit](https://www.forbes.com/sites/paultassi/2025/02/27/destiny-2-reveals-its-content-shredder-as-a-result-of-recent-lawsuit/)
 * [2025-02-28, 13:39:18](https://news.ycombinator.com/item?id=43205435) - [Starlink to take over $2.4B contract to overhaul air traffic control comms](https://www.theverge.com/news/620777/starlink-verizon-contract-faa-communication-musk)
 * [2025-02-28, 13:12:25](https://news.ycombinator.com/item?id=43205209) - [Show HN: Free Kindle Scribe Weekly Planner Creator](https://tools.docgenie.co.uk/)

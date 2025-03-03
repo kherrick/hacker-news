@@ -40,6 +40,7 @@
 * [2025-03-02, 17:00:30](https://news.ycombinator.com/item?id=43232410) - [DeepSeek Drops Distributed DuckDB](https://www.definite.app/blog/smallpond)
 * [2025-03-02, 16:47:30](https://news.ycombinator.com/item?id=43232255) - [Lifestyle of out of touch execs who are pushing return to office](https://twitter.com/EthanEvansVP/status/1895845734177452369)
 * [2025-03-02, 16:32:13](https://news.ycombinator.com/item?id=43232087) - [Schools reviving shop class](https://www.wsj.com/us-news/education/high-school-shop-class-revival-24d7a525)
+* [2025-03-02, 16:28:38](https://news.ycombinator.com/item?id=43232057) - [The weird Hewlett Packard FreeDOS option (2022)](https://blog.tmm.cx/2022/05/15/the-very-weird-hewlett-packard-freedos-option/)
 * [2025-03-02, 16:20:34](https://news.ycombinator.com/item?id=43231978) - [Show HN: Vibecoders – Find software engineers that are good at vibecoding](https://news.ycombinator.com/item?id=43231978)
 * [2025-03-02, 16:18:44](https://news.ycombinator.com/item?id=43231964) - [Ask HN: Where are the good Markdown to PDF tools (that meet these requirements)?](https://news.ycombinator.com/item?id=43231964)
 * [2025-03-02, 15:56:35](https://news.ycombinator.com/item?id=43231694) - [The lost boys: how a generation of young men fell behind women on pay](https://www.thetimes.com/uk/society/article/the-lost-boys-how-a-generation-of-young-men-fell-behind-women-on-pay-8rc3mmvt0)
