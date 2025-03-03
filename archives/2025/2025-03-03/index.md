@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-03](index.md)
 
+* [2025-03-03, 17:17:26](https://news.ycombinator.com/item?id=43244166) - [Show HN: Sonauto API – Generative music for developers](https://sonauto.ai/developers)
+* [2025-03-03, 17:03:03](https://news.ycombinator.com/item?id=43243914) - [The power of interning: making a time series database 2000x smaller in Rust](https://gendignoux.com/blog/2025/03/03/rust-interning-2000x.html)
+* [2025-03-03, 17:01:59](https://news.ycombinator.com/item?id=43243893) - [Show HN: Agents.json – OpenAPI Specification for LLMs](https://github.com/wild-card-ai/agents-json)
 * [2025-03-03, 17:00:13](https://news.ycombinator.com/item?id=43243859) - [Keeling Labs (YC W23) Is Hiring an ML Engineer for Climate Tech (Los Angeles)](https://www.keelinglabs.com/jobs)
 * [2025-03-03, 16:17:24](https://news.ycombinator.com/item?id=43243247) - [First flat telescope lens that captures color, detecting light from stars](https://phys.org/news/2025-02-flat-telescope-lens-capture-faraway.html)
 * [2025-03-03, 16:06:50](https://news.ycombinator.com/item?id=43243109) - [An Attempt to Catch Up with JIT Compilers](https://arxiv.org/abs/2502.20547)
@@ -15,6 +18,7 @@
 * [2025-03-03, 15:43:20](https://news.ycombinator.com/item?id=43242818) - [Show HN: Knowledge graph of restaurants and chefs using LLMs](https://theophilecantelob.re/blog/2025/foudinge/)
 * [2025-03-03, 15:43:00](https://news.ycombinator.com/item?id=43242815) - [Youth and what happens when it's gone](https://tolstoyan.substack.com/p/youth)
 * [2025-03-03, 14:24:14](https://news.ycombinator.com/item?id=43242019) - [SOTA Code Retrieval with Efficient Code Embedding Models](https://www.qodo.ai/blog/qodo-embed-1-code-embedding-code-retreival/)
+* [2025-03-03, 14:24:10](https://news.ycombinator.com/item?id=43242017) - [The quest to find and save the Vasa](https://www.mentalfloss.com/article/568289/vasa-quest-to-save-most-famous-shipwreck)
 * [2025-03-03, 14:10:44](https://news.ycombinator.com/item?id=43241880) - [The weird afterlife of Xbox Kinect](https://www.theguardian.com/games/2025/mar/03/ghost-hunting-pornography-and-interactive-art-the-weird-afterlife-of-xbox-kinect)
 * [2025-03-03, 13:51:03](https://news.ycombinator.com/item?id=43241689) - [Fintoc (YC W21) Is Hiring Senior Software Engineer. Live Rent-Free in CL or MX](https://fintoc.com/codehere)
 * [2025-03-03, 13:14:22](https://news.ycombinator.com/item?id=43241404) - [The Internals of PostgreSQL](http://www.interdb.jp/pg/index.html)
