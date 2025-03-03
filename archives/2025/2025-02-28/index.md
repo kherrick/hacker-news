@@ -17,6 +17,7 @@
 * [2025-02-28, 20:51:34](https://news.ycombinator.com/item?id=43210536) - [400 reasons to not use Microsoft Azure](https://azsh.it)
 * [2025-02-28, 20:33:43](https://news.ycombinator.com/item?id=43210185) - [Show HN: Betting game puzzle (Hamming neighbor sum in linear time)](https://news.ycombinator.com/item?id=43210185)
 * [2025-02-28, 18:59:23](https://news.ycombinator.com/item?id=43209064) - [Merlion: A Machine Learning Framework for Time Series Intelligence](https://github.com/salesforce/Merlion)
+* [2025-02-28, 18:58:13](https://news.ycombinator.com/item?id=43209046) - [Virtual museum of socialist era graphic design in Bulgaria](http://socmus.com/en/)
 * [2025-02-28, 18:49:46](https://news.ycombinator.com/item?id=43208973) - [Zelensky leaves White House after angry meeting](https://www.bbc.com/news/live/c625ex282zzt)
 * [2025-02-28, 18:02:42](https://news.ycombinator.com/item?id=43208524) - [Harold Cohen and Aaron – A 40-Year Collaboration (2016)](https://computerhistory.org/blog/harold-cohen-and-aaron-a-40-year-collaboration/)
 * [2025-02-28, 18:00:52](https://news.ycombinator.com/item?id=43208507) - [ninjavis – generate visualization from ninja build logs](https://github.com/chagui/ninjavis)
