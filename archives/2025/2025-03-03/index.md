@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-03](index.md)
 
+* [2025-03-03, 20:35:31](https://news.ycombinator.com/item?id=43246371) - [Atlanta Fed predicts -2.8% GDP](https://www.atlantafed.org/cqer/research/gdpnow)
 * [2025-03-03, 19:26:19](https://news.ycombinator.com/item?id=43245674) - [PFAS in fertilisers blamed for killing livestock in Texas and wreaking havoc](https://www.chemistryworld.com/news/pfas-in-fertilisers-blamed-for-killing-livestock-in-texas-and-wreaking-havoc/4020874.article)
 * [2025-03-03, 19:08:22](https://news.ycombinator.com/item?id=43245463) - [Send Data with Sound](https://github.com/solst-ice/chirp)
 * [2025-03-03, 19:07:19](https://news.ycombinator.com/item?id=43245453) - [Treasury Announces Suspension of Enforcement of Corporate Transparency Act](https://home.treasury.gov/news/press-releases/sb0038)

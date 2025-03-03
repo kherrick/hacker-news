@@ -60,6 +60,7 @@
 * [2025-03-01, 08:38:12](https://news.ycombinator.com/item?id=43217309) - [Google does not want rights to things you do using Chrome (2008)](https://www.mattcutts.com/blog/google-chrome-license-agreement/)
 * [2025-03-01, 08:32:34](https://news.ycombinator.com/item?id=43217280) - [How long can you balance a pencil?](http://thevirtuosi.blogspot.com/2010/06/how-long-can-you-balance-quantum-pencil.html)
 * [2025-03-01, 08:17:29](https://news.ycombinator.com/item?id=43217195) - [Emacs Tree-sitter custom highlighting](https://amitp.blogspot.com/2025/02/emacs-tree-sitter-custom-highlighting.html)
+* [2025-03-01, 06:24:47](https://news.ycombinator.com/item?id=43216518) - [Looking Back at Speculative Decoding](https://research.google/blog/looking-back-at-speculative-decoding/)
 * [2025-03-01, 04:10:46](https://news.ycombinator.com/item?id=43215781) - [Zen 5's AVX-512 Frequency Behavior](https://chipsandcheese.com/p/zen-5s-avx-512-frequency-behavior)
 * [2025-03-01, 01:37:26](https://news.ycombinator.com/item?id=43214576) - [When eBPF pt_regs reads return garbage on the latest Linux kernels, blame Fred](https://tanelpoder.com/posts/ebpf-pt-regs-error-on-linux-blame-fred/)
 * [2025-03-01, 01:09:22](https://news.ycombinator.com/item?id=43214353) - [Magic Isn't Real](https://pthorpe92.dev/magic/)

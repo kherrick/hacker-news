@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-03, 20:35:31](https://news.ycombinator.com/item?id=43246371) - [Atlanta Fed predicts -2.8% GDP](https://www.atlantafed.org/cqer/research/gdpnow)
 * [2025-03-03, 19:26:19](https://news.ycombinator.com/item?id=43245674) - [PFAS in fertilisers blamed for killing livestock in Texas and wreaking havoc](https://www.chemistryworld.com/news/pfas-in-fertilisers-blamed-for-killing-livestock-in-texas-and-wreaking-havoc/4020874.article)
 * [2025-03-03, 19:08:22](https://news.ycombinator.com/item?id=43245463) - [Send Data with Sound](https://github.com/solst-ice/chirp)
 * [2025-03-03, 18:54:08](https://news.ycombinator.com/item?id=43245315) - [One Logo, Three Companies](https://estilofilos.blogspot.com/2016/03/one-logo-three-companies-i.html)
@@ -26,8 +27,7 @@
 * [2025-03-03, 16:01:41](https://news.ycombinator.com/item?id=43243022) - [Ask HN: Who wants to be hired? (March 2025)](https://news.ycombinator.com/item?id=43243022)
 * [2025-03-03, 15:43:20](https://news.ycombinator.com/item?id=43242818) - [Show HN: Knowledge graph of restaurants and chefs, built using LLMs](https://theophilecantelob.re/blog/2025/foudinge/)
 * [2025-03-03, 06:27:55](https://news.ycombinator.com/item?id=43238893) - [MIT 6.S184: Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu)
-* [2025-03-03, 05:29:02](https://news.ycombinator.com/item?id=43238570) - [FlakeUI](https://github.com/tearflake/flake-ui)
-* [2025-03-03, 02:13:00](https://news.ycombinator.com/item?id=43237581) - [Made a scroll bar buddy that walks down the page when you scroll](https://focusfurnace.com/scroll_buddy.html)
+* [2025-03-01, 06:24:47](https://news.ycombinator.com/item?id=43216518) - [Looking Back at Speculative Decoding](https://research.google/blog/looking-back-at-speculative-decoding/)
 * [2025-02-28, 19:30:30](https://news.ycombinator.com/item?id=43209358) - [DARPA Project Reveals One Person Can Control Dozens of Robots](https://spectrum.ieee.org/darpa-robot)
 * [2025-02-28, 16:04:59](https://news.ycombinator.com/item?id=43207153) - [I'm starting to suspect my work is incompatible with a full-time academic job](https://www.humprog.org/~stephen/blog/2025/02/28/#the-mess-im-in)
 
