@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-03, 18:39:32](https://news.ycombinator.com/item?id=43245153) - [Launch HN: Cuckoo (YC W25) – Real-time AI translator for global teams](https://news.ycombinator.com/item?id=43245153)
-* [2025-03-03, 18:25:45](https://news.ycombinator.com/item?id=43244982) - [DOGE's AI use in government doesn't add up](https://www.washingtonpost.com/technology/2025/03/03/doge-ai-government-automation/)
 * [2025-03-03, 18:06:17](https://news.ycombinator.com/item?id=43244739) - [Hacking the Xbox 360 Hypervisor Part 2: The Bad Update Exploit](https://icode4.coffee/?p=1081)
 * [2025-03-03, 18:04:55](https://news.ycombinator.com/item?id=43244722) - [Bocoup Is Now Worker-Owned](https://www.bocoup.com/blog/bocoup-is-now-worker-owned)
 * [2025-03-03, 17:59:45](https://news.ycombinator.com/item?id=43244666) - [Cautious Optimizers: Improving Training with One Line of Code](https://arxiv.org/abs/2411.16085)
@@ -30,6 +29,7 @@
 * [2025-03-01, 12:32:18](https://news.ycombinator.com/item?id=43218629) - [Number-Colour-Phoneme Associations: From IBM CGA Colours to Mnemonic Systems](https://susam.net/assoc.html)
 * [2025-02-28, 16:04:59](https://news.ycombinator.com/item?id=43207153) - [I'm starting to suspect my work is incompatible with a full-time academic job](https://www.humprog.org/~stephen/blog/2025/02/28/#the-mess-im-in)
 * [2025-02-27, 17:32:01](https://news.ycombinator.com/item?id=43196488) - [Man's brain turned to glass by hot Vesuvius ash cloud](https://www.bbc.com/news/articles/cgr2n8xx5gyo)
+* [2025-02-27, 16:56:14](https://news.ycombinator.com/item?id=43196133) - [Harvest the sun twice: Agrivoltaics promises sustainable food, energy and water](https://www.sheffield.ac.uk/news/harvesting-sun-twice-agrivoltaics-shows-promise-sustainable-food-energy-and-water-management-east)
 
 ## [Archives](archives/index.md)
 
