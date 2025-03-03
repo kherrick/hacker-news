@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-03, 19:08:22](https://news.ycombinator.com/item?id=43245463) - [Send Data with Sound](https://github.com/solst-ice/chirp)
+* [2025-03-03, 19:07:19](https://news.ycombinator.com/item?id=43245453) - [Treasury Announces Suspension of Enforcement of Corporate Transparency Act](https://home.treasury.gov/news/press-releases/sb0038)
 * [2025-03-03, 18:54:08](https://news.ycombinator.com/item?id=43245315) - [One Logo, Three Companies](https://estilofilos.blogspot.com/2016/03/one-logo-three-companies-i.html)
 * [2025-03-03, 18:39:32](https://news.ycombinator.com/item?id=43245153) - [Launch HN: Cuckoo (YC W25) – Real-time AI translator for global teams](https://news.ycombinator.com/item?id=43245153)
+* [2025-03-03, 18:36:45](https://news.ycombinator.com/item?id=43245129) - [James Harrison, whose blood donations saved >2M babies, has died](https://www.npr.org/2025/03/03/nx-s1-5316163/james-harrison-blood-donor)
 * [2025-03-03, 18:09:33](https://news.ycombinator.com/item?id=43244778) - [Evals are not all you need](https://www.marble.onl/posts/evals_are_not_all_you_need.html)
 * [2025-03-03, 18:09:22](https://news.ycombinator.com/item?id=43244773) - [AgenticMemory: Zettelkasten inspired agentic memory system](https://github.com/WujiangXu/AgenticMemory)
 * [2025-03-03, 18:06:17](https://news.ycombinator.com/item?id=43244739) - [Hacking the Xbox 360 Hypervisor Part 2: The Bad Update Exploit](https://icode4.coffee/?p=1081)
@@ -26,10 +28,8 @@
 * [2025-03-03, 06:27:55](https://news.ycombinator.com/item?id=43238893) - [MIT 6.S184: Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu)
 * [2025-03-03, 05:29:02](https://news.ycombinator.com/item?id=43238570) - [FlakeUI](https://github.com/tearflake/flake-ui)
 * [2025-03-03, 02:13:00](https://news.ycombinator.com/item?id=43237581) - [Made a scroll bar buddy that walks down the page when you scroll](https://focusfurnace.com/scroll_buddy.html)
-* [2025-03-02, 09:31:50](https://news.ycombinator.com/item?id=43228816) - [Firefly ‘Blue Ghost’ lunar lander touches down on the moon](https://www.cnn.com/science/live-news/moon-landing-blue-ghost-03-02-25/index.html)
-* [2025-03-01, 12:32:18](https://news.ycombinator.com/item?id=43218629) - [Number-Colour-Phoneme Associations: From IBM CGA Colours to Mnemonic Systems](https://susam.net/assoc.html)
+* [2025-02-28, 19:30:30](https://news.ycombinator.com/item?id=43209358) - [DARPA Project Reveals One Person Can Control Dozens of Robots](https://spectrum.ieee.org/darpa-robot)
 * [2025-02-28, 16:04:59](https://news.ycombinator.com/item?id=43207153) - [I'm starting to suspect my work is incompatible with a full-time academic job](https://www.humprog.org/~stephen/blog/2025/02/28/#the-mess-im-in)
-* [2025-02-27, 20:00:27](https://news.ycombinator.com/item?id=43197866) - [Thought Leader (2016) [video]](https://www.youtube.com/watch?v=_ZBKX-6Gz6A)
 
 ## [Archives](archives/index.md)
 
