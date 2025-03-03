@@ -20,7 +20,7 @@
 * [2025-03-02, 14:29:13](https://news.ycombinator.com/item?id=43230821) - [Raspberry Pi Pico audio player](http://lucstechblog.blogspot.com/2025/02/raspberry-pi-pico-audio-player.html)
 * [2025-03-02, 14:18:11](https://news.ycombinator.com/item?id=43230734) - [I struggled with Git, so I'm making a game to spare others the pain](https://initialcommit.com/blog/im-making-a-git-game)
 * [2025-03-02, 09:31:50](https://news.ycombinator.com/item?id=43228816) - [Firefly ‘Blue Ghost’ lunar lander touches down on the moon](https://www.cnn.com/science/live-news/moon-landing-blue-ghost-03-02-25/index.html)
-* [2025-03-01, 14:24:21](https://news.ycombinator.com/item?id=43219487) - [Verifiable science on modified PCR machine](https://github.com/ClemHeyd/PCR7500)
+* [2025-03-01, 11:55:18](https://news.ycombinator.com/item?id=43218402) - [Ask HN: A question about mentoring a junior developer](https://news.ycombinator.com/item?id=43218402)
 * [2025-02-28, 20:59:07](https://news.ycombinator.com/item?id=43210710) - [A Few of the Birds I Love](https://moultano.wordpress.com/2024/05/03/a-few-of-the-birds-i-love/)
 * [2025-02-28, 15:06:50](https://news.ycombinator.com/item?id=43206417) - [Kaspersky exposes hidden malware on GitHub stealing personal data](https://www.kaspersky.com/about/press-releases/kaspersky-exposes-hidden-malware-on-github-stealing-personal-data-and-485000-in-bitcoin)
 * [2025-02-28, 10:39:01](https://news.ycombinator.com/item?id=43204091) - [Turning my ESP32 into a DNS sinkhole to fight doomscrolling](https://amanvir.com/blog/turning-my-esp32-into-a-dns-sinkhole)
