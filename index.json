@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-03-03, 14:10:44",
+      "https://news.ycombinator.com/item?id=43241880"
+    ],
+    [
+      "The weird afterlife of Xbox Kinect",
+      "https://www.theguardian.com/games/2025/mar/03/ghost-hunting-pornography-and-interactive-art-the-weird-afterlife-of-xbox-kinect"
+    ]
+  ],
+  [
+    [
       "2025-03-03, 13:51:03",
       "https://news.ycombinator.com/item?id=43241689"
     ],
     [
       "Fintoc (YC W21) Is Hiring Senior Software Engineer. Live Rent-Free in CL or MX",
       "https://fintoc.com/codehere"
+    ]
+  ],
+  [
+    [
+      "2025-03-03, 13:14:22",
+      "https://news.ycombinator.com/item?id=43241404"
+    ],
+    [
+      "The Internals of PostgreSQL",
+      "http://www.interdb.jp/pg/index.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-03, 12:44:33",
+      "https://news.ycombinator.com/item?id=43241212"
+    ],
+    [
+      "Amazon’s delivery drones are grounded in College Station, Texas",
+      "https://www.wired.com/story/texas-amazon-drones-stop-flying/"
     ]
   ],
   [
@@ -71,16 +101,6 @@
   ],
   [
     [
-      "2025-03-02, 22:52:35",
-      "https://news.ycombinator.com/item?id=43236126"
-    ],
-    [
-      "CSS Custom Functions are coming",
-      "https://www.bram.us/2025/02/09/css-custom-functions-teaser/"
-    ]
-  ],
-  [
-    [
       "2025-03-02, 22:11:39",
       "https://news.ycombinator.com/item?id=43235763"
     ],
@@ -97,16 +117,6 @@
     [
       "Show HN: Tangled – Git collaboration platform built on atproto",
       "https://blog.tangled.sh/intro"
-    ]
-  ],
-  [
-    [
-      "2025-03-02, 20:06:41",
-      "https://news.ycombinator.com/item?id=43234471"
-    ],
-    [
-      "Matt's Script Archive (1995)",
-      "https://www.scriptarchive.com/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "ninjavis – generate visualization from ninja build logs",
       "https://github.com/chagui/ninjavis"
-    ]
-  ],
-  [
-    [
-      "2025-02-28, 10:39:01",
-      "https://news.ycombinator.com/item?id=43204091"
-    ],
-    [
-      "Turning my ESP32 into a DNS sinkhole to fight doomscrolling",
-      "https://amanvir.com/blog/turning-my-esp32-into-a-dns-sinkhole"
     ]
   ],
   [
