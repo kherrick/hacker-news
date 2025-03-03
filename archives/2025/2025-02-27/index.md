@@ -24,6 +24,7 @@
 * [2025-02-27, 19:20:19](https://news.ycombinator.com/item?id=43197514) - [The False Summit – When 90% done becomes 50%](https://jeremyaboyd.com/post/the-false-summit)
 * [2025-02-27, 18:53:44](https://news.ycombinator.com/item?id=43197248) - [Doing data labelling in-house](https://www.ericbutton.co/p/data-labelling)
 * [2025-02-27, 18:52:01](https://news.ycombinator.com/item?id=43197234) - [What Can Be Computed? A Practical Guide to the Theory of Computation [pdf]](https://www.softouch.on.ca/kb/data/What%20Can%20Be%20Computed.pdf)
+* [2025-02-27, 18:47:57](https://news.ycombinator.com/item?id=43197193) - [Buy Infowars for the Memes](https://www.bloomberg.com/opinion/articles/2025-02-27/buy-infowars-for-the-memes)
 * [2025-02-27, 18:42:01](https://news.ycombinator.com/item?id=43197131) - [EA Open Sources Command and Conquer: Red Alert](https://github.com/electronicarts/CnC_Red_Alert)
 * [2025-02-27, 18:38:47](https://news.ycombinator.com/item?id=43197100) - [Show HN: Compiler Playground for energy-efficient embedded dataflow processor](https://www.efficient.computer/resources/effcc-compiler-playground-launch)
 * [2025-02-27, 18:27:01](https://news.ycombinator.com/item?id=43196996) - [The serotonin theory of depression: a systematic review of the evidence (2022)](https://www.nature.com/articles/s41380-022-01661-0)
