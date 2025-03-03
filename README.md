@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-03, 13:51:03](https://news.ycombinator.com/item?id=43241689) - [Fintoc (YC W21) Is Hiring Senior Software Engineer. Live Rent-Free in CL or MX](https://fintoc.com/codehere)
 * [2025-03-03, 12:44:33](https://news.ycombinator.com/item?id=43241212) - [Amazon's Drones Are Grounded. The Birds and Dogs of This Texas Town Are Grateful](https://www.wired.com/story/texas-amazon-drones-stop-flying/)
 * [2025-03-03, 08:44:06](https://news.ycombinator.com/item?id=43239699) - [Robust Wavefront OBJ model parsing in C](https://nullprogram.com/blog/2025/03/02/)
 * [2025-03-03, 08:20:45](https://news.ycombinator.com/item?id=43239526) - [Phlex for Rails Emails: Action Mailer Without ERB](https://camillovisini.com/coding/phlex-for-rails-emails-action-mailer-without-erb)
@@ -25,7 +26,6 @@
 * [2025-02-28, 10:39:01](https://news.ycombinator.com/item?id=43204091) - [Turning my ESP32 into a DNS sinkhole to fight doomscrolling](https://amanvir.com/blog/turning-my-esp32-into-a-dns-sinkhole)
 * [2025-02-28, 09:51:38](https://news.ycombinator.com/item?id=43203745) - [AWS Cat Qubits Make Quantum Error Correction Effective, Affordable](https://www.nextplatform.com/2025/02/27/aws-cat-qubits-make-quantum-error-correction-effective-affordable/)
 * [2025-02-28, 01:56:35](https://news.ycombinator.com/item?id=43200793) - [Smallpond – A lightweight data processing framework built on DuckDB and 3FS](https://github.com/deepseek-ai/smallpond)
-* [2025-02-27, 19:46:55](https://news.ycombinator.com/item?id=43197752) - [Show HN: Prompting LLMs in Bash scripts](https://elijahpotter.dev/articles/prompting_large_language_models_in_bash_scripts)
 * [2025-02-27, 18:53:44](https://news.ycombinator.com/item?id=43197248) - [We in-housed our data labelling](https://www.ericbutton.co/p/data-labelling)
 * [2025-02-27, 17:32:01](https://news.ycombinator.com/item?id=43196488) - [Man's brain turned to glass by hot Vesuvius ash cloud](https://www.bbc.com/news/articles/cgr2n8xx5gyo)
 * [2025-02-27, 16:56:14](https://news.ycombinator.com/item?id=43196133) - [Harvest the sun twice: Agrivoltaics promises sustainable food, energy and water](https://www.sheffield.ac.uk/news/harvesting-sun-twice-agrivoltaics-shows-promise-sustainable-food-energy-and-water-management-east)
