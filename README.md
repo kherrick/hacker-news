@@ -25,11 +25,11 @@
 * [2025-03-03, 15:43:20](https://news.ycombinator.com/item?id=43242818) - [Show HN: Knowledge graph of restaurants and chefs, built using LLMs](https://theophilecantelob.re/blog/2025/foudinge/)
 * [2025-03-03, 05:29:02](https://news.ycombinator.com/item?id=43238570) - [Show HN: FlakeUI](https://github.com/tearflake/flake-ui)
 * [2025-03-02, 16:28:38](https://news.ycombinator.com/item?id=43232057) - [The weird Hewlett Packard FreeDOS option (2022)](https://blog.tmm.cx/2022/05/15/the-very-weird-hewlett-packard-freedos-option/)
-* [2025-03-01, 06:24:47](https://news.ycombinator.com/item?id=43216518) - [Looking Back at Speculative Decoding](https://research.google/blog/looking-back-at-speculative-decoding/)
 * [2025-03-01, 04:50:15](https://news.ycombinator.com/item?id=43216043) - [The Nabataeans Are Coming](https://www.historytoday.com/archive/behind-times/nabataeans-are-coming)
 * [2025-02-28, 19:30:30](https://news.ycombinator.com/item?id=43209358) - [DARPA Project Reveals One Person Can Control Dozens of Robots](https://spectrum.ieee.org/darpa-robot)
 * [2025-02-28, 15:24:48](https://news.ycombinator.com/item?id=43206622) - [Another Conflict Between Privacy Laws and Age Authentication–Murphy v Confirm ID](https://blog.ericgoldman.org/archives/2025/02/another-conflict-between-privacy-laws-and-age-authentication-murphy-v-confirm-id.htm)
 * [2025-02-28, 13:52:53](https://news.ycombinator.com/item?id=43205563) - [Bernd das Brot, a depressed German loaf of bread](https://apnews.com/article/bernd-das-brot-germany-582397aa7e741b56f0228feeece35a0d)
+* [2025-02-28, 07:05:23](https://news.ycombinator.com/item?id=43202608) - [Bring Silent Videos to Life Sounds(Open-Source)](https://github.com/open-mmlab/FoleyCrafter)
 
 ## [Archives](archives/index.md)
 
