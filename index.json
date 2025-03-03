@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-03-03, 02:19:03",
-      "https://news.ycombinator.com/item?id=43237609"
+      "2025-03-03, 03:25:28",
+      "https://news.ycombinator.com/item?id=43237987"
     ],
     [
-      "How I Ace Midterms at a Top CS School by Studying 1-3 Hours (and Skipping Class)",
-      "https://rohan.ga/blog/studying/"
+      "Linux laptop maker called me a Zombie",
+      "https://thelibre.news/this-linux-laptop-maker-called-me-a-zombie/"
+    ]
+  ],
+  [
+    [
+      "2025-03-03, 03:10:23",
+      "https://news.ycombinator.com/item?id=43237911"
+    ],
+    [
+      "BM25 in PostgreSQL – 3x Faster Than Elasticsearch",
+      "https://blog.vectorchord.ai/vectorchord-bm25-revolutionize-postgresql-search-with-bm25-ranking-3x-faster-than-elasticsearch"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "Gooey rubber that's slowly ruining old hard drives",
       "https://www.downtowndougbrown.com/2025/03/the-gooey-rubber-thats-slowly-ruining-old-hard-drives/"
-    ]
-  ],
-  [
-    [
-      "2025-03-02, 20:10:55",
-      "https://news.ycombinator.com/item?id=43234510"
-    ],
-    [
-      "Rotors: A practical introduction for 3D graphics (2023)",
-      "https://jacquesheunis.com/post/rotors/"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2025-02-27, 18:53:44",
+      "https://news.ycombinator.com/item?id=43197248"
+    ],
+    [
+      "Doing data labelling in-house",
+      "https://www.ericbutton.co/p/data-labelling"
+    ]
+  ],
+  [
+    [
       "2025-02-27, 13:36:10",
       "https://news.ycombinator.com/item?id=43194234"
     ],
@@ -287,16 +297,6 @@
     [
       "API design note: Beware of adding an \"Other\" enum value",
       "https://devblogs.microsoft.com/oldnewthing/20250217-00/?p=110873"
-    ]
-  ],
-  [
-    [
-      "2025-02-27, 05:38:07",
-      "https://news.ycombinator.com/item?id=43191667"
-    ],
-    [
-      "A mechanically verified garbage collector for OCaml [pdf]",
-      "https://kcsrk.info/papers/verifiedgc_feb_25.pdf"
     ]
   ]
 ]
