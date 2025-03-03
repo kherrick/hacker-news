@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2025-03-03, 21:08:56",
-      "https://news.ycombinator.com/item?id=43246743"
+      "2025-03-03, 21:08:10",
+      "https://news.ycombinator.com/item?id=43246735"
     ],
     [
-      "Proof that LLM just mimic logical without understanding underlying logic",
-      "https://arxiv.org/abs/2502.19907"
+      "Nomadic infrastructure design for AI workloads",
+      "https://www.tigrisdata.com/blog/nomadic-compute/"
     ]
   ],
   [
@@ -37,16 +37,6 @@
     [
       "Atlanta Fed predicts -2.8% GDP",
       "https://www.atlantafed.org/cqer/research/gdpnow"
-    ]
-  ],
-  [
-    [
-      "2025-03-03, 19:08:22",
-      "https://news.ycombinator.com/item?id=43245463"
-    ],
-    [
-      "Send Data with Sound",
-      "https://github.com/solst-ice/chirp"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "First flat telescope lens that captures color, detecting light from stars",
       "https://phys.org/news/2025-02-flat-telescope-lens-capture-faraway.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-03, 16:10:28",
+      "https://news.ycombinator.com/item?id=43243153"
+    ],
+    [
+      "Show HN: Open-Source Windows AI assistant that uses Word, Excel through COM",
+      "https://github.com/Alkali-Sim/SmartestKid"
     ]
   ],
   [
