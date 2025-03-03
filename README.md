@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-03, 15:43:20](https://news.ycombinator.com/item?id=43242818) - [Show HN: Knowledge graph of restaurants and chefs using LLMs](https://theophilecantelob.re/blog/2025/foudinge/)
+* [2025-03-03, 16:06:50](https://news.ycombinator.com/item?id=43243109) - [An Attempt to Catch Up with JIT Compilers](https://arxiv.org/abs/2502.20547)
+* [2025-03-03, 15:53:16](https://news.ycombinator.com/item?id=43242921) - [Drone Delivery for Defense](https://seanobannon.substack.com/p/drone-delivery-for-defense)
+* [2025-03-03, 15:43:20](https://news.ycombinator.com/item?id=43242818) - [Show HN: Knowledge graph of restaurants and chefs, built using LLMs](https://theophilecantelob.re/blog/2025/foudinge/)
 * [2025-03-03, 15:43:00](https://news.ycombinator.com/item?id=43242815) - [Youth and what happens when it's gone](https://tolstoyan.substack.com/p/youth)
 * [2025-03-03, 14:24:14](https://news.ycombinator.com/item?id=43242019) - [SOTA Code Retrieval with Efficient Code Embedding Models](https://www.qodo.ai/blog/qodo-embed-1-code-embedding-code-retreival/)
 * [2025-03-03, 14:10:44](https://news.ycombinator.com/item?id=43241880) - [The weird afterlife of Xbox Kinect](https://www.theguardian.com/games/2025/mar/03/ghost-hunting-pornography-and-interactive-art-the-weird-afterlife-of-xbox-kinect)
@@ -26,10 +28,8 @@
 * [2025-02-28, 09:51:38](https://news.ycombinator.com/item?id=43203745) - [AWS Cat Qubits Make Quantum Error Correction Effective, Affordable](https://www.nextplatform.com/2025/02/27/aws-cat-qubits-make-quantum-error-correction-effective-affordable/)
 * [2025-02-28, 01:56:35](https://news.ycombinator.com/item?id=43200793) - [Smallpond – A lightweight data processing framework built on DuckDB and 3FS](https://github.com/deepseek-ai/smallpond)
 * [2025-02-27, 18:53:44](https://news.ycombinator.com/item?id=43197248) - [We in-housed our data labelling](https://www.ericbutton.co/p/data-labelling)
-* [2025-02-27, 18:47:57](https://news.ycombinator.com/item?id=43197193) - [Buy Infowars for the Memes](https://www.bloomberg.com/opinion/articles/2025-02-27/buy-infowars-for-the-memes)
 * [2025-02-27, 17:32:01](https://news.ycombinator.com/item?id=43196488) - [Man's brain turned to glass by hot Vesuvius ash cloud](https://www.bbc.com/news/articles/cgr2n8xx5gyo)
 * [2025-02-27, 16:56:14](https://news.ycombinator.com/item?id=43196133) - [Harvest the sun twice: Agrivoltaics promises sustainable food, energy and water](https://www.sheffield.ac.uk/news/harvesting-sun-twice-agrivoltaics-shows-promise-sustainable-food-energy-and-water-management-east)
-* [2025-02-27, 10:47:31](https://news.ycombinator.com/item?id=43193160) - [API design note: Beware of adding an \"Other\" enum value](https://devblogs.microsoft.com/oldnewthing/20250217-00/?p=110873)
 
 ## [Archives](archives/index.md)
 
