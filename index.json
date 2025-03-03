@@ -1,26 +1,6 @@
 [
   [
     [
-      "2025-03-03, 03:25:28",
-      "https://news.ycombinator.com/item?id=43237987"
-    ],
-    [
-      "Linux laptop maker called me a Zombie",
-      "https://thelibre.news/this-linux-laptop-maker-called-me-a-zombie/"
-    ]
-  ],
-  [
-    [
-      "2025-03-03, 03:10:23",
-      "https://news.ycombinator.com/item?id=43237911"
-    ],
-    [
-      "BM25 in PostgreSQL – 3x Faster Than Elasticsearch",
-      "https://blog.vectorchord.ai/vectorchord-bm25-revolutionize-postgresql-search-with-bm25-ranking-3x-faster-than-elasticsearch"
-    ]
-  ],
-  [
-    [
       "2025-03-03, 02:13:00",
       "https://news.ycombinator.com/item?id=43237581"
     ],
@@ -77,6 +57,16 @@
     [
       "Gooey rubber that's slowly ruining old hard drives",
       "https://www.downtowndougbrown.com/2025/03/the-gooey-rubber-thats-slowly-ruining-old-hard-drives/"
+    ]
+  ],
+  [
+    [
+      "2025-03-02, 20:14:15",
+      "https://news.ycombinator.com/item?id=43234544"
+    ],
+    [
+      "Show HN: Tangled – Git collaboration platform built on atproto",
+      "https://blog.tangled.sh/intro"
     ]
   ],
   [
@@ -171,12 +161,12 @@
   ],
   [
     [
-      "2025-03-02, 14:29:13",
-      "https://news.ycombinator.com/item?id=43230821"
+      "2025-03-02, 14:30:47",
+      "https://news.ycombinator.com/item?id=43230831"
     ],
     [
-      "Raspberry Pi Pico audio player",
-      "http://lucstechblog.blogspot.com/2025/02/raspberry-pi-pico-audio-player.html"
+      "Rackmounting that which should not be rackmounted",
+      "https://calbryant.uk/blog/rackmounting-that-which-should-not-be-rackmounted/"
     ]
   ],
   [
@@ -187,6 +177,26 @@
     [
       "I struggled with Git, so I'm making a game to spare others the pain",
       "https://initialcommit.com/blog/im-making-a-git-game"
+    ]
+  ],
+  [
+    [
+      "2025-03-02, 13:56:01",
+      "https://news.ycombinator.com/item?id=43230510"
+    ],
+    [
+      "Yoke: Infrastructure as code, but actually",
+      "https://xeiaso.net/blog/2025/yoke-k8s/"
+    ]
+  ],
+  [
+    [
+      "2025-03-02, 11:05:10",
+      "https://news.ycombinator.com/item?id=43229259"
+    ],
+    [
+      "Begrudgingly Choosing CBOR over MessagePack",
+      "https://taylor.town/flat-scraps-001"
     ]
   ],
   [
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2025-02-27, 21:24:50",
-      "https://news.ycombinator.com/item?id=43198678"
-    ],
-    [
-      "Evidence that our ancestors lived in rainforests 150k years ago",
-      "https://www.sheffield.ac.uk/news/scientists-find-earliest-evidence-our-ancestors-lived-rainforests-150000-years-ago"
-    ]
-  ],
-  [
-    [
       "2025-02-27, 19:46:55",
       "https://news.ycombinator.com/item?id=43197752"
     ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=43197248"
     ],
     [
-      "Doing data labelling in-house",
+      "We in-housed our data labelling",
       "https://www.ericbutton.co/p/data-labelling"
     ]
   ],
