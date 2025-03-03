@@ -15,6 +15,7 @@
 * [2025-03-03, 19:07:19](https://news.ycombinator.com/item?id=43245453) - [Treasury Announces Suspension of Enforcement of Corporate Transparency Act](https://home.treasury.gov/news/press-releases/sb0038)
 * [2025-03-03, 18:54:08](https://news.ycombinator.com/item?id=43245315) - [One Logo, Three Companies](https://estilofilos.blogspot.com/2016/03/one-logo-three-companies-i.html)
 * [2025-03-03, 18:39:32](https://news.ycombinator.com/item?id=43245153) - [Launch HN: Cuckoo (YC W25) – Real-time AI translator for global teams](https://news.ycombinator.com/item?id=43245153)
+* [2025-03-03, 18:38:49](https://news.ycombinator.com/item?id=43245147) - [Urban Dead is shutting down](https://urbandead.com/shutdown.html)
 * [2025-03-03, 18:36:45](https://news.ycombinator.com/item?id=43245129) - [James Harrison, whose blood donations saved >2M babies, has died](https://www.npr.org/2025/03/03/nx-s1-5316163/james-harrison-blood-donor)
 * [2025-03-03, 18:25:45](https://news.ycombinator.com/item?id=43244982) - [DOGE's AI use in government doesn't add up](https://www.washingtonpost.com/technology/2025/03/03/doge-ai-government-automation/)
 * [2025-03-03, 18:09:33](https://news.ycombinator.com/item?id=43244778) - [Evals are not all you need](https://www.marble.onl/posts/evals_are_not_all_you_need.html)
