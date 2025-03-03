@@ -1,12 +1,62 @@
 [
   [
     [
+      "2025-03-03, 16:17:24",
+      "https://news.ycombinator.com/item?id=43243247"
+    ],
+    [
+      "First flat telescope lens that captures color, detecting light from stars",
+      "https://phys.org/news/2025-02-flat-telescope-lens-capture-faraway.html"
+    ]
+  ],
+  [
+    [
       "2025-03-03, 16:06:50",
       "https://news.ycombinator.com/item?id=43243109"
     ],
     [
       "An Attempt to Catch Up with JIT Compilers",
       "https://arxiv.org/abs/2502.20547"
+    ]
+  ],
+  [
+    [
+      "2025-03-03, 16:04:13",
+      "https://news.ycombinator.com/item?id=43243075"
+    ],
+    [
+      "Apple's Software Quality Crisis: When Premium Hardware Meets Subpar Software",
+      "https://www.eliseomartelli.it/blog/2025-03-02-apple-quality"
+    ]
+  ],
+  [
+    [
+      "2025-03-03, 16:01:41",
+      "https://news.ycombinator.com/item?id=43243024"
+    ],
+    [
+      "Ask HN: Who is hiring? (March 2025)",
+      "https://news.ycombinator.com/item?id=43243024"
+    ]
+  ],
+  [
+    [
+      "2025-03-03, 16:01:41",
+      "https://news.ycombinator.com/item?id=43243023"
+    ],
+    [
+      "Ask HN: Freelancer? Seeking freelancer? (March 2025)",
+      "https://news.ycombinator.com/item?id=43243023"
+    ]
+  ],
+  [
+    [
+      "2025-03-03, 16:01:41",
+      "https://news.ycombinator.com/item?id=43243022"
+    ],
+    [
+      "Ask HN: Who wants to be hired? (March 2025)",
+      "https://news.ycombinator.com/item?id=43243022"
     ]
   ],
   [
@@ -41,26 +91,6 @@
   ],
   [
     [
-      "2025-03-03, 14:24:14",
-      "https://news.ycombinator.com/item?id=43242019"
-    ],
-    [
-      "SOTA Code Retrieval with Efficient Code Embedding Models",
-      "https://www.qodo.ai/blog/qodo-embed-1-code-embedding-code-retreival/"
-    ]
-  ],
-  [
-    [
-      "2025-03-03, 14:10:44",
-      "https://news.ycombinator.com/item?id=43241880"
-    ],
-    [
-      "The weird afterlife of Xbox Kinect",
-      "https://www.theguardian.com/games/2025/mar/03/ghost-hunting-pornography-and-interactive-art-the-weird-afterlife-of-xbox-kinect"
-    ]
-  ],
-  [
-    [
       "2025-03-03, 13:51:03",
       "https://news.ycombinator.com/item?id=43241689"
     ],
@@ -71,32 +101,12 @@
   ],
   [
     [
-      "2025-03-03, 13:14:22",
-      "https://news.ycombinator.com/item?id=43241404"
-    ],
-    [
-      "The Internals of PostgreSQL",
-      "http://www.interdb.jp/pg/index.html"
-    ]
-  ],
-  [
-    [
       "2025-03-03, 12:44:33",
       "https://news.ycombinator.com/item?id=43241212"
     ],
     [
       "Amazon’s delivery drones are grounded in College Station, Texas",
       "https://www.wired.com/story/texas-amazon-drones-stop-flying/"
-    ]
-  ],
-  [
-    [
-      "2025-03-03, 10:28:28",
-      "https://news.ycombinator.com/item?id=43240354"
-    ],
-    [
-      "Difficult Employees (and How to Handle Them)",
-      "https://newsletter.canopy.is/p/the-5-most-difficult-employees-and"
     ]
   ],
   [
@@ -211,22 +221,22 @@
   ],
   [
     [
+      "2025-03-02, 15:32:46",
+      "https://news.ycombinator.com/item?id=43231411"
+    ],
+    [
+      "Why do we have both CSRF protection and CORS?",
+      "https://smagin.fyi/posts/cross-site-requests/"
+    ]
+  ],
+  [
+    [
       "2025-03-02, 09:31:50",
       "https://news.ycombinator.com/item?id=43228816"
     ],
     [
       "Firefly ‘Blue Ghost’ lunar lander touches down on the moon",
       "https://www.cnn.com/science/live-news/moon-landing-blue-ghost-03-02-25/index.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-01, 13:02:16",
-      "https://news.ycombinator.com/item?id=43218840"
-    ],
-    [
-      "C1 modem breaks no speed records, but is power efficient",
-      "https://appleinsider.com/articles/25/02/27/apples-c1-modem-breaks-no-records-for-speed-but-is-exceptionally-power-efficient"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Smallpond – A lightweight data processing framework built on DuckDB and 3FS",
       "https://github.com/deepseek-ai/smallpond"
-    ]
-  ],
-  [
-    [
-      "2025-02-27, 18:53:44",
-      "https://news.ycombinator.com/item?id=43197248"
-    ],
-    [
-      "We in-housed our data labelling",
-      "https://www.ericbutton.co/p/data-labelling"
     ]
   ],
   [
