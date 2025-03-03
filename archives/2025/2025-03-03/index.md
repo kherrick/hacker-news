@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-03-03](index.md)
 
+* [2025-03-03, 16:17:24](https://news.ycombinator.com/item?id=43243247) - [First flat telescope lens that captures color, detecting light from stars](https://phys.org/news/2025-02-flat-telescope-lens-capture-faraway.html)
 * [2025-03-03, 16:06:50](https://news.ycombinator.com/item?id=43243109) - [An Attempt to Catch Up with JIT Compilers](https://arxiv.org/abs/2502.20547)
+* [2025-03-03, 16:04:13](https://news.ycombinator.com/item?id=43243075) - [Apple's Software Quality Crisis: When Premium Hardware Meets Subpar Software](https://www.eliseomartelli.it/blog/2025-03-02-apple-quality)
+* [2025-03-03, 16:01:41](https://news.ycombinator.com/item?id=43243024) - [Ask HN: Who is hiring? (March 2025)](https://news.ycombinator.com/item?id=43243024)
+* [2025-03-03, 16:01:41](https://news.ycombinator.com/item?id=43243023) - [Ask HN: Freelancer? Seeking freelancer? (March 2025)](https://news.ycombinator.com/item?id=43243023)
+* [2025-03-03, 16:01:41](https://news.ycombinator.com/item?id=43243022) - [Ask HN: Who wants to be hired? (March 2025)](https://news.ycombinator.com/item?id=43243022)
 * [2025-03-03, 15:53:16](https://news.ycombinator.com/item?id=43242921) - [Drone Delivery for Defense](https://seanobannon.substack.com/p/drone-delivery-for-defense)
 * [2025-03-03, 15:43:20](https://news.ycombinator.com/item?id=43242818) - [Show HN: Knowledge graph of restaurants and chefs using LLMs](https://theophilecantelob.re/blog/2025/foudinge/)
 * [2025-03-03, 15:43:00](https://news.ycombinator.com/item?id=43242815) - [Youth and what happens when it's gone](https://tolstoyan.substack.com/p/youth)
