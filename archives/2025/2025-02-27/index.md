@@ -47,6 +47,7 @@
 * [2025-02-27, 14:13:04](https://news.ycombinator.com/item?id=43194538) - [Imposing memory security in C [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-6606-imposing-memory-security-in-c/)
 * [2025-02-27, 14:12:54](https://news.ycombinator.com/item?id=43194536) - [Mozilla's New Terms of Use Are Out of Step with Firefox's Direct Competition](https://www.quippd.com/writing/2025/02/26/mozillas-new-terms-of-use-are-out-of-step-with-firefoxs-direct-competition.html)
 * [2025-02-27, 14:00:21](https://news.ycombinator.com/item?id=43194434) - [Can photons reach back in time?](https://drgblackwell.substack.com/p/time-warp-delayed-choice-quantum)
+* [2025-02-27, 13:36:10](https://news.ycombinator.com/item?id=43194234) - [Morphing robot turns challenging terrain to its advantage](https://actu.epfl.ch/news/morphing-robot-turns-challenging-terrain-to-its--2/)
 * [2025-02-27, 13:26:49](https://news.ycombinator.com/item?id=43194175) - [Has anyone tried building tools without coding?](https://news.ycombinator.com/item?id=43194175)
 * [2025-02-27, 13:17:43](https://news.ycombinator.com/item?id=43194100) - [The Rake and its Prongs (2024)](https://christiantietze.de/posts/2024/06/the-rake-and-its-prongs/)
 * [2025-02-27, 13:06:40](https://news.ycombinator.com/item?id=43194024) - [Fish 4.0.0](https://github.com/fish-shell/fish-shell/releases/tag/4.0.0)
