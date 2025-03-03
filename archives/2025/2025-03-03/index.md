@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-03-03](index.md)
 
+* [2025-03-03, 18:39:32](https://news.ycombinator.com/item?id=43245153) - [Launch HN: Cuckoo (YC W25) – Real-time AI translator for global teams](https://news.ycombinator.com/item?id=43245153)
 * [2025-03-03, 18:25:45](https://news.ycombinator.com/item?id=43244982) - [DOGE's AI use in government doesn't add up](https://www.washingtonpost.com/technology/2025/03/03/doge-ai-government-automation/)
 * [2025-03-03, 18:06:17](https://news.ycombinator.com/item?id=43244739) - [Hacking the Xbox 360 Hypervisor Part 2: The Bad Update Exploit](https://icode4.coffee/?p=1081)
 * [2025-03-03, 18:04:55](https://news.ycombinator.com/item?id=43244722) - [Bocoup Is Now Worker-Owned](https://www.bocoup.com/blog/bocoup-is-now-worker-owned)
+* [2025-03-03, 17:59:45](https://news.ycombinator.com/item?id=43244666) - [Cautious Optimizers: Improving Training with One Line of Code](https://arxiv.org/abs/2411.16085)
 * [2025-03-03, 17:49:55](https://news.ycombinator.com/item?id=43244560) - [Effect of chewing hard material on enhancing cognitive function](https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2024.1489919/full)
 * [2025-03-03, 17:48:57](https://news.ycombinator.com/item?id=43244549) - [Show HN: Firebender, a simple coding agent for Android Engineers](https://docs.firebender.com/get-started/agent)
 * [2025-03-03, 17:48:18](https://news.ycombinator.com/item?id=43244538) - [Ask HN: How much employee resume verification is done in practice?](https://news.ycombinator.com/item?id=43244538)
