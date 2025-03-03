@@ -6,6 +6,7 @@
 
 * [2025-03-03, 17:29:12](https://news.ycombinator.com/item?id=43244307) - [SQLite-on-the-Server Is Misunderstood: Better at Hyper-Scale Than Micro-Scale](https://rivet.gg/blog/2025-02-16-sqlite-on-the-server-is-misunderstood)
 * [2025-03-03, 17:17:26](https://news.ycombinator.com/item?id=43244166) - [Show HN: Sonauto API – Generative music for developers](https://sonauto.ai/developers)
+* [2025-03-03, 17:13:24](https://news.ycombinator.com/item?id=43244106) - [The Oldest \"Map of America\" Is Mysteriously Accurate](https://www.thetravel.com/oldest-american-map-accuracy-surprises-experts/)
 * [2025-03-03, 17:03:03](https://news.ycombinator.com/item?id=43243914) - [The power of interning: making a time series database 2000x smaller in Rust](https://gendignoux.com/blog/2025/03/03/rust-interning-2000x.html)
 * [2025-03-03, 17:01:59](https://news.ycombinator.com/item?id=43243893) - [Show HN: Agents.json – OpenAPI Specification for LLMs](https://github.com/wild-card-ai/agents-json)
 * [2025-03-03, 17:00:13](https://news.ycombinator.com/item?id=43243859) - [Keeling Labs (YC W23) Is Hiring an ML Engineer for Climate Tech (Los Angeles)](https://www.keelinglabs.com/jobs)

@@ -2,6 +2,7 @@
 
 * [2025-03-03, 17:29:12](https://news.ycombinator.com/item?id=43244307) - [SQLite-on-the-Server Is Misunderstood: Better at Hyper-Scale Than Micro-Scale](https://rivet.gg/blog/2025-02-16-sqlite-on-the-server-is-misunderstood)
 * [2025-03-03, 17:17:26](https://news.ycombinator.com/item?id=43244166) - [Show HN: Sonauto API – Generative music for developers](https://sonauto.ai/developers)
+* [2025-03-03, 17:13:24](https://news.ycombinator.com/item?id=43244106) - [The Oldest \"Map of America\" Is Mysteriously Accurate](https://www.thetravel.com/oldest-american-map-accuracy-surprises-experts/)
 * [2025-03-03, 17:03:03](https://news.ycombinator.com/item?id=43243914) - [The power of interning: making a time series database 2000x smaller in Rust](https://gendignoux.com/blog/2025/03/03/rust-interning-2000x.html)
 * [2025-03-03, 17:01:59](https://news.ycombinator.com/item?id=43243893) - [Show HN: Agents.json – OpenAPI Specification for LLMs](https://github.com/wild-card-ai/agents-json)
 * [2025-03-03, 17:00:13](https://news.ycombinator.com/item?id=43243859) - [Keeling Labs (YC W23) Is Hiring an ML Engineer for Climate Tech (Los Angeles)](https://www.keelinglabs.com/jobs)
@@ -21,7 +22,6 @@
 * [2025-03-03, 05:29:02](https://news.ycombinator.com/item?id=43238570) - [FlakeUI](https://github.com/tearflake/flake-ui)
 * [2025-03-03, 02:13:00](https://news.ycombinator.com/item?id=43237581) - [Made a scroll bar buddy that walks down the page when you scroll](https://focusfurnace.com/scroll_buddy.html)
 * [2025-03-02, 20:14:15](https://news.ycombinator.com/item?id=43234544) - [Show HN: Tangled – Git collaboration platform built on atproto](https://blog.tangled.sh/intro)
-* [2025-03-02, 19:15:58](https://news.ycombinator.com/item?id=43233903) - [Hallucinations in code are the least dangerous form of LLM mistakes](https://simonwillison.net/2025/Mar/2/hallucinations-in-code/)
 * [2025-03-02, 17:40:36](https://news.ycombinator.com/item?id=43232880) - [Speedrunners are vulnerability researchers, they just don't know it yet](https://zetier.com/speedrunners-are-vulnerability-researchers/)
 * [2025-03-02, 09:31:50](https://news.ycombinator.com/item?id=43228816) - [Firefly ‘Blue Ghost’ lunar lander touches down on the moon](https://www.cnn.com/science/live-news/moon-landing-blue-ghost-03-02-25/index.html)
 * [2025-03-01, 12:32:18](https://news.ycombinator.com/item?id=43218629) - [Number-Colour-Phoneme Associations: From IBM CGA Colours to Mnemonic Systems](https://susam.net/assoc.html)
