@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-03, 07:42:10](https://news.ycombinator.com/item?id=43239249) - [The top 10% owns 87% of the stocks](https://awealthofcommonsense.com/2025/02/the-top-10/)
 * [2025-03-03, 06:27:55](https://news.ycombinator.com/item?id=43238893) - [MIT 6.S184: Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu)
 * [2025-03-03, 05:06:01](https://news.ycombinator.com/item?id=43238477) - [Everything Is Chrome](https://vale.rocks/posts/everything-is-chrome)
 * [2025-03-03, 03:10:23](https://news.ycombinator.com/item?id=43237911) - [BM25 in PostgreSQL](https://blog.vectorchord.ai/vectorchord-bm25-revolutionize-postgresql-search-with-bm25-ranking-3x-faster-than-elasticsearch)
@@ -12,7 +13,6 @@
 * [2025-03-02, 20:06:41](https://news.ycombinator.com/item?id=43234471) - [Matt's Script Archive (1995)](https://www.scriptarchive.com/)
 * [2025-03-02, 19:33:21](https://news.ycombinator.com/item?id=43234089) - [Geothermal power is a climate moon shot beneath our feet](https://www.newyorker.com/news/the-lede/geothermal-power-is-a-climate-moon-shot-beneath-our-feet)
 * [2025-03-02, 19:15:58](https://news.ycombinator.com/item?id=43233903) - [Hallucinations in code are the least dangerous form of LLM mistakes](https://simonwillison.net/2025/Mar/2/hallucinations-in-code/)
-* [2025-03-02, 18:31:33](https://news.ycombinator.com/item?id=43233420) - [Gödel's theorem debunks the most important AI myth – Roger Penrose [video]](https://www.youtube.com/watch?v=biUfMZ2dts8)
 * [2025-03-02, 18:04:35](https://news.ycombinator.com/item?id=43233143) - [The Pentium contains a complicated circuit to multiply by three](https://www.righto.com/2025/03/pentium-multiplier-adder-reverse-engineered.html)
 * [2025-03-02, 17:40:36](https://news.ycombinator.com/item?id=43232880) - [Speedrunners are vulnerability researchers, they just don't know it yet](https://zetier.com/speedrunners-are-vulnerability-researchers/)
 * [2025-03-02, 16:32:13](https://news.ycombinator.com/item?id=43232087) - [Schools reviving shop class](https://www.wsj.com/us-news/education/high-school-shop-class-revival-24d7a525)
@@ -23,12 +23,12 @@
 * [2025-02-28, 20:59:07](https://news.ycombinator.com/item?id=43210710) - [A Few of the Birds I Love](https://moultano.wordpress.com/2024/05/03/a-few-of-the-birds-i-love/)
 * [2025-02-28, 15:06:50](https://news.ycombinator.com/item?id=43206417) - [Kaspersky exposes hidden malware on GitHub stealing personal data](https://www.kaspersky.com/about/press-releases/kaspersky-exposes-hidden-malware-on-github-stealing-personal-data-and-485000-in-bitcoin)
 * [2025-02-28, 13:12:25](https://news.ycombinator.com/item?id=43205209) - [Show HN: Free Kindle Scribe Weekly Planner Creator](https://tools.docgenie.co.uk/)
+* [2025-02-28, 10:39:01](https://news.ycombinator.com/item?id=43204091) - [Turning my ESP32 into a DNS sinkhole to fight doomscrolling](https://amanvir.com/blog/turning-my-esp32-into-a-dns-sinkhole)
 * [2025-02-28, 01:56:35](https://news.ycombinator.com/item?id=43200793) - [Smallpond – A lightweight data processing framework built on DuckDB and 3FS](https://github.com/deepseek-ai/smallpond)
 * [2025-02-27, 19:46:55](https://news.ycombinator.com/item?id=43197752) - [Show HN: Prompting LLMs in Bash scripts](https://elijahpotter.dev/articles/prompting_large_language_models_in_bash_scripts)
 * [2025-02-27, 18:53:44](https://news.ycombinator.com/item?id=43197248) - [We in-housed our data labelling](https://www.ericbutton.co/p/data-labelling)
 * [2025-02-27, 17:32:01](https://news.ycombinator.com/item?id=43196488) - [Man's brain turned to glass by hot Vesuvius ash cloud](https://www.bbc.com/news/articles/cgr2n8xx5gyo)
 * [2025-02-27, 16:56:14](https://news.ycombinator.com/item?id=43196133) - [Harvest the sun twice: Agrivoltaics promises sustainable food, energy and water](https://www.sheffield.ac.uk/news/harvesting-sun-twice-agrivoltaics-shows-promise-sustainable-food-energy-and-water-management-east)
-* [2025-02-27, 13:36:10](https://news.ycombinator.com/item?id=43194234) - [Morphing robot turns challenging terrain to its advantage](https://actu.epfl.ch/news/morphing-robot-turns-challenging-terrain-to-its--2/)
 * [2025-02-27, 10:47:31](https://news.ycombinator.com/item?id=43193160) - [API design note: Beware of adding an \"Other\" enum value](https://devblogs.microsoft.com/oldnewthing/20250217-00/?p=110873)
 
 ## [Archives](archives/index.md)
