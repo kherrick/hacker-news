@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-03, 13:51:03",
+      "https://news.ycombinator.com/item?id=43241689"
+    ],
+    [
+      "Fintoc (YC W21) Is Hiring Senior Software Engineer. Live Rent-Free in CL or MX",
+      "https://fintoc.com/codehere"
+    ]
+  ],
+  [
+    [
       "2025-03-03, 12:44:33",
       "https://news.ycombinator.com/item?id=43241212"
     ],
@@ -247,16 +257,6 @@
     [
       "Smallpond – A lightweight data processing framework built on DuckDB and 3FS",
       "https://github.com/deepseek-ai/smallpond"
-    ]
-  ],
-  [
-    [
-      "2025-02-27, 19:46:55",
-      "https://news.ycombinator.com/item?id=43197752"
-    ],
-    [
-      "Show HN: Prompting LLMs in Bash scripts",
-      "https://elijahpotter.dev/articles/prompting_large_language_models_in_bash_scripts"
     ]
   ],
   [
