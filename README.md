@@ -1,13 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-03, 02:19:03](https://news.ycombinator.com/item?id=43237609) - [How I Ace Midterms at a Top CS School by Studying 1-3 Hours (and Skipping Class)](https://rohan.ga/blog/studying/)
+* [2025-03-03, 03:25:28](https://news.ycombinator.com/item?id=43237987) - [Linux laptop maker called me a Zombie](https://thelibre.news/this-linux-laptop-maker-called-me-a-zombie/)
+* [2025-03-03, 03:10:23](https://news.ycombinator.com/item?id=43237911) - [BM25 in PostgreSQL – 3x Faster Than Elasticsearch](https://blog.vectorchord.ai/vectorchord-bm25-revolutionize-postgresql-search-with-bm25-ranking-3x-faster-than-elasticsearch)
 * [2025-03-03, 02:13:00](https://news.ycombinator.com/item?id=43237581) - [Made a scroll bar buddy that walks down the page when you scroll](https://focusfurnace.com/scroll_buddy.html)
 * [2025-03-03, 01:30:12](https://news.ycombinator.com/item?id=43237352) - [Losing a 5-year-long Illinois FOIA lawsuit for database schemas](https://mchap.io/losing-a-5yr-long-illinois-foia-lawsuit-for-database-schemas.html)
 * [2025-03-03, 01:17:46](https://news.ycombinator.com/item?id=43237273) - [Blender-made movie Flow takes Oscar](https://www.reuters.com/lifestyle/flow-wins-best-animated-feature-film-oscar-2025-03-03/)
 * [2025-03-02, 23:39:29](https://news.ycombinator.com/item?id=43236520) - [Solarpunk](https://en.wikipedia.org/wiki/Solarpunk)
 * [2025-03-02, 23:21:52](https://news.ycombinator.com/item?id=43236370) - [ACCESS.bus: The Forgotten USB Competitor](https://tedium.co/2025/02/17/access-bus-i2c-usb-competitor-history/)
 * [2025-03-02, 22:11:39](https://news.ycombinator.com/item?id=43235763) - [Gooey rubber that's slowly ruining old hard drives](https://www.downtowndougbrown.com/2025/03/the-gooey-rubber-thats-slowly-ruining-old-hard-drives/)
-* [2025-03-02, 20:10:55](https://news.ycombinator.com/item?id=43234510) - [Rotors: A practical introduction for 3D graphics (2023)](https://jacquesheunis.com/post/rotors/)
 * [2025-03-02, 20:06:41](https://news.ycombinator.com/item?id=43234471) - [Matt's Script Archive (1995)](https://www.scriptarchive.com/)
 * [2025-03-02, 19:33:21](https://news.ycombinator.com/item?id=43234089) - [Geothermal power is a climate moon shot beneath our feet](https://www.newyorker.com/news/the-lede/geothermal-power-is-a-climate-moon-shot-beneath-our-feet)
 * [2025-03-02, 19:15:58](https://news.ycombinator.com/item?id=43233903) - [Hallucinations in code are the least dangerous form of LLM mistakes](https://simonwillison.net/2025/Mar/2/hallucinations-in-code/)
@@ -27,9 +27,9 @@
 * [2025-02-28, 01:56:35](https://news.ycombinator.com/item?id=43200793) - [Smallpond – A lightweight data processing framework built on DuckDB and 3FS](https://github.com/deepseek-ai/smallpond)
 * [2025-02-27, 21:24:50](https://news.ycombinator.com/item?id=43198678) - [Evidence that our ancestors lived in rainforests 150k years ago](https://www.sheffield.ac.uk/news/scientists-find-earliest-evidence-our-ancestors-lived-rainforests-150000-years-ago)
 * [2025-02-27, 19:46:55](https://news.ycombinator.com/item?id=43197752) - [Show HN: Prompting LLMs in Bash scripts](https://elijahpotter.dev/articles/prompting_large_language_models_in_bash_scripts)
+* [2025-02-27, 18:53:44](https://news.ycombinator.com/item?id=43197248) - [Doing data labelling in-house](https://www.ericbutton.co/p/data-labelling)
 * [2025-02-27, 13:36:10](https://news.ycombinator.com/item?id=43194234) - [Morphing robot turns challenging terrain to its advantage](https://actu.epfl.ch/news/morphing-robot-turns-challenging-terrain-to-its--2/)
 * [2025-02-27, 10:47:31](https://news.ycombinator.com/item?id=43193160) - [API design note: Beware of adding an \"Other\" enum value](https://devblogs.microsoft.com/oldnewthing/20250217-00/?p=110873)
-* [2025-02-27, 05:38:07](https://news.ycombinator.com/item?id=43191667) - [A mechanically verified garbage collector for OCaml [pdf]](https://kcsrk.info/papers/verifiedgc_feb_25.pdf)
 
 ## [Archives](archives/index.md)
 
