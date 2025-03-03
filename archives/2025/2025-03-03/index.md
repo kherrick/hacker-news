@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-03-03](index.md)
 
+* [2025-03-03, 15:43:20](https://news.ycombinator.com/item?id=43242818) - [Show HN: Knowledge graph of restaurants and chefs using LLMs](https://theophilecantelob.re/blog/2025/foudinge/)
+* [2025-03-03, 15:43:00](https://news.ycombinator.com/item?id=43242815) - [Youth and what happens when it's gone](https://tolstoyan.substack.com/p/youth)
 * [2025-03-03, 14:24:14](https://news.ycombinator.com/item?id=43242019) - [SOTA Code Retrieval with Efficient Code Embedding Models](https://www.qodo.ai/blog/qodo-embed-1-code-embedding-code-retreival/)
 * [2025-03-03, 14:10:44](https://news.ycombinator.com/item?id=43241880) - [The weird afterlife of Xbox Kinect](https://www.theguardian.com/games/2025/mar/03/ghost-hunting-pornography-and-interactive-art-the-weird-afterlife-of-xbox-kinect)
 * [2025-03-03, 13:51:03](https://news.ycombinator.com/item?id=43241689) - [Fintoc (YC W21) Is Hiring Senior Software Engineer. Live Rent-Free in CL or MX](https://fintoc.com/codehere)
 * [2025-03-03, 13:14:22](https://news.ycombinator.com/item?id=43241404) - [The Internals of PostgreSQL](http://www.interdb.jp/pg/index.html)
 * [2025-03-03, 12:44:33](https://news.ycombinator.com/item?id=43241212) - [Amazon's Drones Are Grounded. The Birds and Dogs of This Texas Town Are Grateful](https://www.wired.com/story/texas-amazon-drones-stop-flying/)
+* [2025-03-03, 10:28:28](https://news.ycombinator.com/item?id=43240354) - [Difficult Employees (and How to Handle Them)](https://newsletter.canopy.is/p/the-5-most-difficult-employees-and)
 * [2025-03-03, 08:56:28](https://news.ycombinator.com/item?id=43239774) - [About Google Chrome's \"This extension may soon no longer be supported\"](https://github.com/gorhill/uBlock/wiki/About-Google-Chrome%27s-%22This-extension-may-soon-no-longer-be-supported%22)
 * [2025-03-03, 08:44:06](https://news.ycombinator.com/item?id=43239699) - [Robust Wavefront OBJ model parsing in C](https://nullprogram.com/blog/2025/03/02/)
 * [2025-03-03, 08:20:45](https://news.ycombinator.com/item?id=43239526) - [Phlex for Rails Emails: Action Mailer Without ERB](https://camillovisini.com/coding/phlex-for-rails-emails-action-mailer-without-erb)
