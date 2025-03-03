@@ -4,7 +4,7 @@
 * [2025-03-03, 01:17:46](https://news.ycombinator.com/item?id=43237273) - [Blender-made movie Flow takes Oscar](https://www.reuters.com/lifestyle/flow-wins-best-animated-feature-film-oscar-2025-03-03/)
 * [2025-03-02, 23:39:29](https://news.ycombinator.com/item?id=43236520) - [Solarpunk](https://en.wikipedia.org/wiki/Solarpunk)
 * [2025-03-02, 23:21:52](https://news.ycombinator.com/item?id=43236370) - [ACCESS.bus: The Forgotten USB Competitor](https://tedium.co/2025/02/17/access-bus-i2c-usb-competitor-history/)
-* [2025-03-02, 22:33:21](https://news.ycombinator.com/item?id=43235972) - [Most IT companies fail to serve security.txt for RFC 9116 in 2025](https://blog.hartwork.org/posts/companies-fail-to-serve-security-txt-rfc-9116/)
+* [2025-03-02, 22:52:35](https://news.ycombinator.com/item?id=43236126) - [CSS Custom Functions are coming](https://www.bram.us/2025/02/09/css-custom-functions-teaser/)
 * [2025-03-02, 22:11:39](https://news.ycombinator.com/item?id=43235763) - [Gooey rubber that's slowly ruining old hard drives](https://www.downtowndougbrown.com/2025/03/the-gooey-rubber-thats-slowly-ruining-old-hard-drives/)
 * [2025-03-02, 20:10:55](https://news.ycombinator.com/item?id=43234510) - [Rotors: A practical introduction for 3D graphics (2023)](https://jacquesheunis.com/post/rotors/)
 * [2025-03-02, 20:06:41](https://news.ycombinator.com/item?id=43234471) - [Matt's Script Archive (1995)](https://www.scriptarchive.com/)
