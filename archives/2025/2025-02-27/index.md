@@ -20,6 +20,7 @@
 * [2025-02-27, 20:51:23](https://news.ycombinator.com/item?id=43198379) - [Nvidia emulation journey, part 1: RIVA 128/NV3 architecture history and overview](https://86box.net/2025/02/25/riva128-part-1.html)
 * [2025-02-27, 20:39:29](https://news.ycombinator.com/item?id=43198245) - [Show HN: Wireless Video Streaming on POV Bike Display](https://www.youtube.com/watch?v=o8n-bu2kKnc)
 * [2025-02-27, 20:01:16](https://news.ycombinator.com/item?id=43197872) - [GPT-4.5](https://openai.com/index/introducing-gpt-4-5/)
+* [2025-02-27, 20:00:27](https://news.ycombinator.com/item?id=43197866) - [Thought Leader (2016) [video]](https://www.youtube.com/watch?v=_ZBKX-6Gz6A)
 * [2025-02-27, 19:46:55](https://news.ycombinator.com/item?id=43197752) - [Prompting Large Language Models in Bash Scripts](https://elijahpotter.dev/articles/prompting_large_language_models_in_bash_scripts)
 * [2025-02-27, 19:20:19](https://news.ycombinator.com/item?id=43197514) - [The False Summit – When 90% done becomes 50%](https://jeremyaboyd.com/post/the-false-summit)
 * [2025-02-27, 18:53:44](https://news.ycombinator.com/item?id=43197248) - [Doing data labelling in-house](https://www.ericbutton.co/p/data-labelling)
