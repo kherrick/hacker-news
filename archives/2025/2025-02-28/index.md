@@ -19,6 +19,7 @@
 * [2025-02-28, 18:59:23](https://news.ycombinator.com/item?id=43209064) - [Merlion: A Machine Learning Framework for Time Series Intelligence](https://github.com/salesforce/Merlion)
 * [2025-02-28, 18:49:46](https://news.ycombinator.com/item?id=43208973) - [Zelensky leaves White House after angry meeting](https://www.bbc.com/news/live/c625ex282zzt)
 * [2025-02-28, 18:02:42](https://news.ycombinator.com/item?id=43208524) - [Harold Cohen and Aaron – A 40-Year Collaboration (2016)](https://computerhistory.org/blog/harold-cohen-and-aaron-a-40-year-collaboration/)
+* [2025-02-28, 18:00:52](https://news.ycombinator.com/item?id=43208507) - [ninjavis – generate visualization from ninja build logs](https://github.com/chagui/ninjavis)
 * [2025-02-28, 17:12:26](https://news.ycombinator.com/item?id=43207942) - [Show HN: Globstar – Open-source static analysis toolkit](https://news.ycombinator.com/item?id=43207942)
 * [2025-02-28, 17:01:43](https://news.ycombinator.com/item?id=43207831) - [3,200% CPU Utilization](https://josephmate.github.io/2025-02-26-3200p-cpu-util/)
 * [2025-02-28, 16:18:34](https://news.ycombinator.com/item?id=43207331) - [Medical treatments devised for war can quickly be implemented in US hospitals](https://theconversation.com/how-medical-treatments-devised-for-war-can-quickly-be-implemented-in-us-hospitals-to-save-lives-247752)

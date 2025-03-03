@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-03](index.md)
 
+* [2025-03-03, 08:56:28](https://news.ycombinator.com/item?id=43239774) - [About Google Chrome's \"This extension may soon no longer be supported\"](https://github.com/gorhill/uBlock/wiki/About-Google-Chrome%27s-%22This-extension-may-soon-no-longer-be-supported%22)
 * [2025-03-03, 08:44:06](https://news.ycombinator.com/item?id=43239699) - [Robust Wavefront OBJ model parsing in C](https://nullprogram.com/blog/2025/03/02/)
 * [2025-03-03, 08:20:45](https://news.ycombinator.com/item?id=43239526) - [Phlex for Rails Emails: Action Mailer Without ERB](https://camillovisini.com/coding/phlex-for-rails-emails-action-mailer-without-erb)
 * [2025-03-03, 07:42:10](https://news.ycombinator.com/item?id=43239249) - [The top 10% owns 87% of the stocks](https://awealthofcommonsense.com/2025/02/the-top-10/)
