@@ -7,6 +7,7 @@
 * [2025-03-03, 21:19:56](https://news.ycombinator.com/item?id=43246892) - [Repairable Flatpack Toaster](https://www.kaseyhou.com/#/repairable-flatpack-toaster/)
 * [2025-03-03, 21:08:56](https://news.ycombinator.com/item?id=43246743) - [Proof that LLM just mimic logical without understanding underlying logic](https://arxiv.org/abs/2502.19907)
 * [2025-03-03, 21:08:10](https://news.ycombinator.com/item?id=43246735) - [Nomadic infrastructure design for AI workloads](https://www.tigrisdata.com/blog/nomadic-compute/)
+* [2025-03-03, 21:06:37](https://news.ycombinator.com/item?id=43246703) - [Comparing Fuchsia components and Linux containers [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-5381-comparing-fuchsia-components-and-linux-containers/)
 * [2025-03-03, 20:41:58](https://news.ycombinator.com/item?id=43246438) - [Tianjin Robot Incident Raises Alarm over Public Safety and Robotics](https://www.businesskorea.co.kr/news/articleView.html?idxno=236533)
 * [2025-03-03, 20:35:31](https://news.ycombinator.com/item?id=43246371) - [Atlanta Fed predicts -2.8% GDP](https://www.atlantafed.org/cqer/research/gdpnow)
 * [2025-03-03, 19:26:19](https://news.ycombinator.com/item?id=43245674) - [PFAS in fertilisers blamed for killing livestock in Texas and wreaking havoc](https://www.chemistryworld.com/news/pfas-in-fertilisers-blamed-for-killing-livestock-in-texas-and-wreaking-havoc/4020874.article)
