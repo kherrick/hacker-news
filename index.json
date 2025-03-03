@@ -1,11 +1,31 @@
 [
   [
     [
+      "2025-03-03, 16:06:50",
+      "https://news.ycombinator.com/item?id=43243109"
+    ],
+    [
+      "An Attempt to Catch Up with JIT Compilers",
+      "https://arxiv.org/abs/2502.20547"
+    ]
+  ],
+  [
+    [
+      "2025-03-03, 15:53:16",
+      "https://news.ycombinator.com/item?id=43242921"
+    ],
+    [
+      "Drone Delivery for Defense",
+      "https://seanobannon.substack.com/p/drone-delivery-for-defense"
+    ]
+  ],
+  [
+    [
       "2025-03-03, 15:43:20",
       "https://news.ycombinator.com/item?id=43242818"
     ],
     [
-      "Show HN: Knowledge graph of restaurants and chefs using LLMs",
+      "Show HN: Knowledge graph of restaurants and chefs, built using LLMs",
       "https://theophilecantelob.re/blog/2025/foudinge/"
     ]
   ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2025-02-27, 18:47:57",
-      "https://news.ycombinator.com/item?id=43197193"
-    ],
-    [
-      "Buy Infowars for the Memes",
-      "https://www.bloomberg.com/opinion/articles/2025-02-27/buy-infowars-for-the-memes"
-    ]
-  ],
-  [
-    [
       "2025-02-27, 17:32:01",
       "https://news.ycombinator.com/item?id=43196488"
     ],
@@ -287,16 +297,6 @@
     [
       "Harvest the sun twice: Agrivoltaics promises sustainable food, energy and water",
       "https://www.sheffield.ac.uk/news/harvesting-sun-twice-agrivoltaics-shows-promise-sustainable-food-energy-and-water-management-east"
-    ]
-  ],
-  [
-    [
-      "2025-02-27, 10:47:31",
-      "https://news.ycombinator.com/item?id=43193160"
-    ],
-    [
-      "API design note: Beware of adding an \"Other\" enum value",
-      "https://devblogs.microsoft.com/oldnewthing/20250217-00/?p=110873"
     ]
   ]
 ]
