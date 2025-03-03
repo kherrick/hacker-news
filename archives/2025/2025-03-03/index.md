@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-03-03](index.md)
 
+* [2025-03-03, 18:25:45](https://news.ycombinator.com/item?id=43244982) - [DOGE's AI use in government doesn't add up](https://www.washingtonpost.com/technology/2025/03/03/doge-ai-government-automation/)
+* [2025-03-03, 18:06:17](https://news.ycombinator.com/item?id=43244739) - [Hacking the Xbox 360 Hypervisor Part 2: The Bad Update Exploit](https://icode4.coffee/?p=1081)
+* [2025-03-03, 18:04:55](https://news.ycombinator.com/item?id=43244722) - [Bocoup Is Now Worker-Owned](https://www.bocoup.com/blog/bocoup-is-now-worker-owned)
+* [2025-03-03, 17:49:55](https://news.ycombinator.com/item?id=43244560) - [Effect of chewing hard material on enhancing cognitive function](https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2024.1489919/full)
+* [2025-03-03, 17:48:57](https://news.ycombinator.com/item?id=43244549) - [Show HN: Firebender, a simple coding agent for Android Engineers](https://docs.firebender.com/get-started/agent)
+* [2025-03-03, 17:48:18](https://news.ycombinator.com/item?id=43244538) - [Ask HN: How much employee resume verification is done in practice?](https://news.ycombinator.com/item?id=43244538)
+* [2025-03-03, 17:44:31](https://news.ycombinator.com/item?id=43244490) - [Ex-SAP CTO walks away with €7.1M payout after scandal](https://www.theregister.com/2025/03/03/former_sap_cto_payout/)
 * [2025-03-03, 17:29:12](https://news.ycombinator.com/item?id=43244307) - [SQLite-on-the-Server Is Misunderstood: Better at Hyper-Scale Than Micro-Scale](https://rivet.gg/blog/2025-02-16-sqlite-on-the-server-is-misunderstood)
 * [2025-03-03, 17:17:26](https://news.ycombinator.com/item?id=43244166) - [Show HN: Sonauto API – Generative music for developers](https://sonauto.ai/developers)
 * [2025-03-03, 17:13:24](https://news.ycombinator.com/item?id=43244106) - [The Oldest \"Map of America\" Is Mysteriously Accurate](https://www.thetravel.com/oldest-american-map-accuracy-surprises-experts/)
