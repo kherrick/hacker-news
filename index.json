@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-03-03, 08:56:28",
-      "https://news.ycombinator.com/item?id=43239774"
-    ],
-    [
-      "About Google Chrome's \"This extension may soon no longer be supported\"",
-      "https://github.com/gorhill/uBlock/wiki/About-Google-Chrome%27s-%22This-extension-may-soon-no-longer-be-supported%22"
-    ]
-  ],
-  [
-    [
       "2025-03-03, 08:44:06",
       "https://news.ycombinator.com/item?id=43239699"
     ],
@@ -27,26 +17,6 @@
     [
       "Phlex for Rails Emails: Action Mailer Without ERB",
       "https://camillovisini.com/coding/phlex-for-rails-emails-action-mailer-without-erb"
-    ]
-  ],
-  [
-    [
-      "2025-03-03, 07:42:10",
-      "https://news.ycombinator.com/item?id=43239249"
-    ],
-    [
-      "The top 10% owns 87% of the stocks",
-      "https://awealthofcommonsense.com/2025/02/the-top-10/"
-    ]
-  ],
-  [
-    [
-      "2025-03-03, 07:21:58",
-      "https://news.ycombinator.com/item?id=43239145"
-    ],
-    [
-      "Permacomputing",
-      "https://permacomputing.net/"
     ]
   ],
   [
@@ -91,16 +61,6 @@
   ],
   [
     [
-      "2025-03-02, 23:39:29",
-      "https://news.ycombinator.com/item?id=43236520"
-    ],
-    [
-      "Solarpunk",
-      "https://en.wikipedia.org/wiki/Solarpunk"
-    ]
-  ],
-  [
-    [
       "2025-03-02, 22:11:39",
       "https://news.ycombinator.com/item?id=43235763"
     ],
@@ -117,6 +77,16 @@
     [
       "Show HN: Tangled – Git collaboration platform built on atproto",
       "https://blog.tangled.sh/intro"
+    ]
+  ],
+  [
+    [
+      "2025-03-02, 20:06:41",
+      "https://news.ycombinator.com/item?id=43234471"
+    ],
+    [
+      "Matt's Script Archive (1995)",
+      "https://www.scriptarchive.com/"
     ]
   ],
   [
@@ -141,6 +111,16 @@
   ],
   [
     [
+      "2025-03-02, 18:31:33",
+      "https://news.ycombinator.com/item?id=43233420"
+    ],
+    [
+      "Gödel's theorem debunks the most important AI myth – Roger Penrose [video]",
+      "https://www.youtube.com/watch?v=biUfMZ2dts8"
+    ]
+  ],
+  [
+    [
       "2025-03-02, 18:04:35",
       "https://news.ycombinator.com/item?id=43233143"
     ],
@@ -161,6 +141,16 @@
   ],
   [
     [
+      "2025-03-02, 16:32:13",
+      "https://news.ycombinator.com/item?id=43232087"
+    ],
+    [
+      "Schools reviving shop class",
+      "https://www.wsj.com/us-news/education/high-school-shop-class-revival-24d7a525"
+    ]
+  ],
+  [
+    [
       "2025-03-02, 15:32:46",
       "https://news.ycombinator.com/item?id=43231411"
     ],
@@ -171,12 +161,22 @@
   ],
   [
     [
-      "2025-03-02, 11:05:10",
-      "https://news.ycombinator.com/item?id=43229259"
+      "2025-03-02, 14:29:13",
+      "https://news.ycombinator.com/item?id=43230821"
     ],
     [
-      "Begrudgingly Choosing CBOR over MessagePack",
-      "https://taylor.town/flat-scraps-001"
+      "Raspberry Pi Pico audio player",
+      "http://lucstechblog.blogspot.com/2025/02/raspberry-pi-pico-audio-player.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-02, 14:18:11",
+      "https://news.ycombinator.com/item?id=43230734"
+    ],
+    [
+      "I struggled with Git, so I'm making a game to spare others the pain",
+      "https://initialcommit.com/blog/im-making-a-git-game"
     ]
   ],
   [
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2025-02-28, 18:58:13",
+      "https://news.ycombinator.com/item?id=43209046"
+    ],
+    [
+      "Virtual museum of socialist era graphic design in Bulgaria",
+      "http://socmus.com/en/"
+    ]
+  ],
+  [
+    [
       "2025-02-28, 18:00:52",
       "https://news.ycombinator.com/item?id=43208507"
     ],
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2025-02-28, 13:12:25",
-      "https://news.ycombinator.com/item?id=43205209"
+      "2025-02-28, 10:39:01",
+      "https://news.ycombinator.com/item?id=43204091"
     ],
     [
-      "Show HN: Free Kindle Scribe Weekly Planner Creator",
-      "https://tools.docgenie.co.uk/"
+      "Turning my ESP32 into a DNS sinkhole to fight doomscrolling",
+      "https://amanvir.com/blog/turning-my-esp32-into-a-dns-sinkhole"
     ]
   ],
   [
@@ -241,22 +251,12 @@
   ],
   [
     [
-      "2025-02-27, 23:24:44",
-      "https://news.ycombinator.com/item?id=43199732"
+      "2025-02-27, 19:46:55",
+      "https://news.ycombinator.com/item?id=43197752"
     ],
     [
-      "Math That Matters: The Case for Probability over Polynomials",
-      "https://anandsanwal.me/math-eduction-more-probability-statistics-less-calculus/"
-    ]
-  ],
-  [
-    [
-      "2025-02-27, 22:10:57",
-      "https://news.ycombinator.com/item?id=43199085"
-    ],
-    [
-      "Substance in broccoli, celery inhibits graying of black hair",
-      "https://www.asahi.com/ajw/articles/15604493"
+      "Show HN: Prompting LLMs in Bash scripts",
+      "https://elijahpotter.dev/articles/prompting_large_language_models_in_bash_scripts"
     ]
   ],
   [
