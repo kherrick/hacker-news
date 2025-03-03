@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-03, 17:29:12",
+      "https://news.ycombinator.com/item?id=43244307"
+    ],
+    [
+      "SQLite-on-the-Server Is Misunderstood: Better at Hyper-Scale Than Micro-Scale",
+      "https://rivet.gg/blog/2025-02-16-sqlite-on-the-server-is-misunderstood"
+    ]
+  ],
+  [
+    [
       "2025-03-03, 17:17:26",
       "https://news.ycombinator.com/item?id=43244166"
     ],
@@ -41,6 +51,16 @@
   ],
   [
     [
+      "2025-03-03, 16:51:33",
+      "https://news.ycombinator.com/item?id=43243716"
+    ],
+    [
+      "The Golden Age of Japanese Pencils, 1952-1967",
+      "https://notes.stlartsupply.com/the-golden-age-of-japanese-pencils-1952-1967/"
+    ]
+  ],
+  [
+    [
       "2025-03-03, 16:40:34",
       "https://news.ycombinator.com/item?id=43243580"
     ],
@@ -51,12 +71,32 @@
   ],
   [
     [
+      "2025-03-03, 16:38:50",
+      "https://news.ycombinator.com/item?id=43243549"
+    ],
+    [
+      "Go-attention: A full attention mechanism and transformer in pure Go",
+      "https://github.com/takara-ai/go-attention"
+    ]
+  ],
+  [
+    [
       "2025-03-03, 16:17:24",
       "https://news.ycombinator.com/item?id=43243247"
     ],
     [
       "First flat telescope lens that captures color, detecting light from stars",
       "https://phys.org/news/2025-02-flat-telescope-lens-capture-faraway.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-03, 16:10:28",
+      "https://news.ycombinator.com/item?id=43243153"
+    ],
+    [
+      "Show HN: Open-Source Windows AI assistant that uses Word, Excel through COM",
+      "https://github.com/Alkali-Sim/SmartestKid"
     ]
   ],
   [
@@ -121,16 +161,6 @@
   ],
   [
     [
-      "2025-03-03, 12:44:33",
-      "https://news.ycombinator.com/item?id=43241212"
-    ],
-    [
-      "Amazon’s delivery drones are grounded in College Station, Texas",
-      "https://www.wired.com/story/texas-amazon-drones-stop-flying/"
-    ]
-  ],
-  [
-    [
       "2025-03-03, 08:20:45",
       "https://news.ycombinator.com/item?id=43239526"
     ],
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2025-03-02, 22:11:39",
-      "https://news.ycombinator.com/item?id=43235763"
-    ],
-    [
-      "Gooey rubber that's slowly ruining old hard drives",
-      "https://www.downtowndougbrown.com/2025/03/the-gooey-rubber-thats-slowly-ruining-old-hard-drives/"
-    ]
-  ],
-  [
-    [
       "2025-03-02, 20:14:15",
       "https://news.ycombinator.com/item?id=43234544"
     ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2025-03-02, 19:33:21",
-      "https://news.ycombinator.com/item?id=43234089"
-    ],
-    [
-      "Geothermal power is a climate moon shot beneath our feet",
-      "https://www.newyorker.com/news/the-lede/geothermal-power-is-a-climate-moon-shot-beneath-our-feet"
-    ]
-  ],
-  [
-    [
       "2025-03-02, 19:15:58",
       "https://news.ycombinator.com/item?id=43233903"
     ],
     [
       "Hallucinations in code are the least dangerous form of LLM mistakes",
       "https://simonwillison.net/2025/Mar/2/hallucinations-in-code/"
-    ]
-  ],
-  [
-    [
-      "2025-03-02, 18:04:35",
-      "https://news.ycombinator.com/item?id=43233143"
-    ],
-    [
-      "The Pentium contains a complicated circuit to multiply by three",
-      "https://www.righto.com/2025/03/pentium-multiplier-adder-reverse-engineered.html"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2025-02-28, 01:56:35",
-      "https://news.ycombinator.com/item?id=43200793"
+      "2025-02-27, 20:00:27",
+      "https://news.ycombinator.com/item?id=43197866"
     ],
     [
-      "Smallpond – A lightweight data processing framework built on DuckDB and 3FS",
-      "https://github.com/deepseek-ai/smallpond"
+      "Thought Leader (2016) [video]",
+      "https://www.youtube.com/watch?v=_ZBKX-6Gz6A"
     ]
   ],
   [
