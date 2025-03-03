@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-03, 08:44:06](https://news.ycombinator.com/item?id=43239699) - [Robust Wavefront OBJ model parsing in C](https://nullprogram.com/blog/2025/03/02/)
+* [2025-03-03, 08:20:45](https://news.ycombinator.com/item?id=43239526) - [Phlex for Rails Emails: Action Mailer Without ERB](https://camillovisini.com/coding/phlex-for-rails-emails-action-mailer-without-erb)
 * [2025-03-03, 07:42:10](https://news.ycombinator.com/item?id=43239249) - [The top 10% owns 87% of the stocks](https://awealthofcommonsense.com/2025/02/the-top-10/)
 * [2025-03-03, 07:21:58](https://news.ycombinator.com/item?id=43239145) - [Permacomputing](https://permacomputing.net/)
 * [2025-03-03, 06:27:55](https://news.ycombinator.com/item?id=43238893) - [MIT 6.S184: Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu)
@@ -9,7 +11,6 @@
 * [2025-03-02, 23:39:29](https://news.ycombinator.com/item?id=43236520) - [Solarpunk](https://en.wikipedia.org/wiki/Solarpunk)
 * [2025-03-02, 22:11:39](https://news.ycombinator.com/item?id=43235763) - [Gooey rubber that's slowly ruining old hard drives](https://www.downtowndougbrown.com/2025/03/the-gooey-rubber-thats-slowly-ruining-old-hard-drives/)
 * [2025-03-02, 20:14:15](https://news.ycombinator.com/item?id=43234544) - [Show HN: Tangled – Git collaboration platform built on atproto](https://blog.tangled.sh/intro)
-* [2025-03-02, 20:06:41](https://news.ycombinator.com/item?id=43234471) - [Matt's Script Archive (1995)](https://www.scriptarchive.com/)
 * [2025-03-02, 19:33:21](https://news.ycombinator.com/item?id=43234089) - [Geothermal power is a climate moon shot beneath our feet](https://www.newyorker.com/news/the-lede/geothermal-power-is-a-climate-moon-shot-beneath-our-feet)
 * [2025-03-02, 19:15:58](https://news.ycombinator.com/item?id=43233903) - [Hallucinations in code are the least dangerous form of LLM mistakes](https://simonwillison.net/2025/Mar/2/hallucinations-in-code/)
 * [2025-03-02, 18:31:33](https://news.ycombinator.com/item?id=43233420) - [Gödel's theorem debunks the most important AI myth – Roger Penrose [video]](https://www.youtube.com/watch?v=biUfMZ2dts8)
@@ -25,7 +26,6 @@
 * [2025-02-28, 13:12:25](https://news.ycombinator.com/item?id=43205209) - [Show HN: Free Kindle Scribe Weekly Planner Creator](https://tools.docgenie.co.uk/)
 * [2025-02-28, 01:56:35](https://news.ycombinator.com/item?id=43200793) - [Smallpond – A lightweight data processing framework built on DuckDB and 3FS](https://github.com/deepseek-ai/smallpond)
 * [2025-02-27, 22:10:57](https://news.ycombinator.com/item?id=43199085) - [Substance in broccoli, celery inhibits graying of black hair](https://www.asahi.com/ajw/articles/15604493)
-* [2025-02-27, 19:46:55](https://news.ycombinator.com/item?id=43197752) - [Show HN: Prompting LLMs in Bash scripts](https://elijahpotter.dev/articles/prompting_large_language_models_in_bash_scripts)
 * [2025-02-27, 18:53:44](https://news.ycombinator.com/item?id=43197248) - [We in-housed our data labelling](https://www.ericbutton.co/p/data-labelling)
 * [2025-02-27, 17:32:01](https://news.ycombinator.com/item?id=43196488) - [Man's brain turned to glass by hot Vesuvius ash cloud](https://www.bbc.com/news/articles/cgr2n8xx5gyo)
 * [2025-02-27, 16:56:14](https://news.ycombinator.com/item?id=43196133) - [Harvest the sun twice: Agrivoltaics promises sustainable food, energy and water](https://www.sheffield.ac.uk/news/harvesting-sun-twice-agrivoltaics-shows-promise-sustainable-food-energy-and-water-management-east)
