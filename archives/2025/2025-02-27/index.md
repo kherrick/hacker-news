@@ -11,6 +11,7 @@
 * [2025-02-27, 22:36:15](https://news.ycombinator.com/item?id=43199314) - [Tell HN: Substack Is Spamming](https://news.ycombinator.com/item?id=43199314)
 * [2025-02-27, 22:28:49](https://news.ycombinator.com/item?id=43199256) - [IBM Completes Acquisition of HashiCorp](https://newsroom.ibm.com/2025-02-27-ibm-completes-acquisition-of-hashicorp,-creates-comprehensive,-end-to-end-hybrid-cloud-platform)
 * [2025-02-27, 22:24:22](https://news.ycombinator.com/item?id=43199210) - [World-first experimental cancer treatment paves way for clinical trial](https://www.wehi.edu.au/news/world-first-experimental-cancer-treatment-paves-way-for-clinical-trial/)
+* [2025-02-27, 22:10:57](https://news.ycombinator.com/item?id=43199085) - [Substance in broccoli, celery inhibits graying of black hair](https://www.asahi.com/ajw/articles/15604493)
 * [2025-02-27, 21:24:50](https://news.ycombinator.com/item?id=43198678) - [Evidence that our ancestors lived in rainforests 150k years ago](https://www.sheffield.ac.uk/news/scientists-find-earliest-evidence-our-ancestors-lived-rainforests-150000-years-ago)
 * [2025-02-27, 21:13:42](https://news.ycombinator.com/item?id=43198572) - [OpenCloud 1.0](https://opencloud.eu/en/news/opencloud-now-available-new-open-source-alternative-microsoft-sharepoint)
 * [2025-02-27, 21:07:57](https://news.ycombinator.com/item?id=43198520) - [Postgres as a Graph Database: (Ab)Using PgRouting](https://supabase.com/blog/pgrouting-postgres-graph-database)
