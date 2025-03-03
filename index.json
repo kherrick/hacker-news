@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-03, 18:39:32",
+      "https://news.ycombinator.com/item?id=43245153"
+    ],
+    [
+      "Launch HN: Cuckoo (YC W25) – Real-time AI translator for global teams",
+      "https://news.ycombinator.com/item?id=43245153"
+    ]
+  ],
+  [
+    [
       "2025-03-03, 18:25:45",
       "https://news.ycombinator.com/item?id=43244982"
     ],
@@ -27,6 +37,16 @@
     [
       "Bocoup Is Now Worker-Owned",
       "https://www.bocoup.com/blog/bocoup-is-now-worker-owned"
+    ]
+  ],
+  [
+    [
+      "2025-03-03, 17:59:45",
+      "https://news.ycombinator.com/item?id=43244666"
+    ],
+    [
+      "Cautious Optimizers: Improving Training with One Line of Code",
+      "https://arxiv.org/abs/2411.16085"
     ]
   ],
   [
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=43243914"
     ],
     [
-      "The power of interning: making a time series database 2000x smaller in Rust",
+      "The power of interning: making a time series database smaller",
       "https://gendignoux.com/blog/2025/03/03/rust-interning-2000x.html"
     ]
   ],
@@ -261,22 +281,12 @@
   ],
   [
     [
-      "2025-02-28, 18:58:13",
-      "https://news.ycombinator.com/item?id=43209046"
+      "2025-02-28, 16:04:59",
+      "https://news.ycombinator.com/item?id=43207153"
     ],
     [
-      "Virtual museum of socialist era graphic design in Bulgaria",
-      "http://socmus.com/en/"
-    ]
-  ],
-  [
-    [
-      "2025-02-27, 20:00:27",
-      "https://news.ycombinator.com/item?id=43197866"
-    ],
-    [
-      "Thought Leader (2016) [video]",
-      "https://www.youtube.com/watch?v=_ZBKX-6Gz6A"
+      "I'm starting to suspect my work is incompatible with a full-time academic job",
+      "https://www.humprog.org/~stephen/blog/2025/02/28/#the-mess-im-in"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Man's brain turned to glass by hot Vesuvius ash cloud",
       "https://www.bbc.com/news/articles/cgr2n8xx5gyo"
-    ]
-  ],
-  [
-    [
-      "2025-02-27, 16:56:14",
-      "https://news.ycombinator.com/item?id=43196133"
-    ],
-    [
-      "Harvest the sun twice: Agrivoltaics promises sustainable food, energy and water",
-      "https://www.sheffield.ac.uk/news/harvesting-sun-twice-agrivoltaics-shows-promise-sustainable-food-energy-and-water-management-east"
     ]
   ]
 ]
