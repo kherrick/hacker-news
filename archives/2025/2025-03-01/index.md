@@ -49,6 +49,7 @@
 * [2025-03-01, 13:06:17](https://news.ycombinator.com/item?id=43218872) - [GrapheneOS blocked exploitation of 3 Android zero-days used by Cellebrite](https://grapheneos.social/@GrapheneOS/114081753914226921)
 * [2025-03-01, 13:02:16](https://news.ycombinator.com/item?id=43218840) - [C1 modem breaks no speed records, but is power efficient](https://appleinsider.com/articles/25/02/27/apples-c1-modem-breaks-no-records-for-speed-but-is-exceptionally-power-efficient)
 * [2025-03-01, 12:58:40](https://news.ycombinator.com/item?id=43218825) - [JavaScript Fatigue Strikes Back](https://allenpike.com/2025/javascript-fatigue-ssr)
+* [2025-03-01, 12:32:18](https://news.ycombinator.com/item?id=43218629) - [Number-Colour-Phoneme Associations: From IBM CGA Colours to Mnemonic Systems](https://susam.net/assoc.html)
 * [2025-03-01, 11:57:09](https://news.ycombinator.com/item?id=43218410) - [What is vibe coding? How creators are building software with no coding knowledge](https://alitu.com/creator/workflow/what-is-vibe-coding/)
 * [2025-03-01, 11:55:18](https://news.ycombinator.com/item?id=43218402) - [Ask HN: A question about mentoring a junior developer](https://news.ycombinator.com/item?id=43218402)
 * [2025-03-01, 11:03:57](https://news.ycombinator.com/item?id=43218115) - [Your Invoice Is an Actor That Wants to Get Paid](https://10xbetterai.beehiiv.com/p/your-invoice-is-an-actor-that-wants-to-get-paid)
