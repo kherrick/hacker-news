@@ -47,6 +47,7 @@
 * [2025-03-01, 13:24:30](https://news.ycombinator.com/item?id=43218998) - [OpenGL to WASM, learning from my mistakes](https://uds5501.github.io/mindpalace/2025/03/01/opengl-webgl-porting.html)
 * [2025-03-01, 13:12:36](https://news.ycombinator.com/item?id=43218915) - [Intel delays $28B Ohio chip fabs to 2030](https://www.reuters.com/technology/intel-delays-28-billion-ohio-chip-factory-2030-local-media-reports-2025-02-28/)
 * [2025-03-01, 13:06:17](https://news.ycombinator.com/item?id=43218872) - [GrapheneOS blocked exploitation of 3 Android zero-days used by Cellebrite](https://grapheneos.social/@GrapheneOS/114081753914226921)
+* [2025-03-01, 13:02:16](https://news.ycombinator.com/item?id=43218840) - [C1 modem breaks no speed records, but is power efficient](https://appleinsider.com/articles/25/02/27/apples-c1-modem-breaks-no-records-for-speed-but-is-exceptionally-power-efficient)
 * [2025-03-01, 12:58:40](https://news.ycombinator.com/item?id=43218825) - [JavaScript Fatigue Strikes Back](https://allenpike.com/2025/javascript-fatigue-ssr)
 * [2025-03-01, 11:57:09](https://news.ycombinator.com/item?id=43218410) - [What is vibe coding? How creators are building software with no coding knowledge](https://alitu.com/creator/workflow/what-is-vibe-coding/)
 * [2025-03-01, 11:55:18](https://news.ycombinator.com/item?id=43218402) - [Ask HN: A question about mentoring a junior developer](https://news.ycombinator.com/item?id=43218402)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-03](index.md)
 
+* [2025-03-03, 14:24:14](https://news.ycombinator.com/item?id=43242019) - [SOTA Code Retrieval with Efficient Code Embedding Models](https://www.qodo.ai/blog/qodo-embed-1-code-embedding-code-retreival/)
 * [2025-03-03, 14:10:44](https://news.ycombinator.com/item?id=43241880) - [The weird afterlife of Xbox Kinect](https://www.theguardian.com/games/2025/mar/03/ghost-hunting-pornography-and-interactive-art-the-weird-afterlife-of-xbox-kinect)
 * [2025-03-03, 13:51:03](https://news.ycombinator.com/item?id=43241689) - [Fintoc (YC W21) Is Hiring Senior Software Engineer. Live Rent-Free in CL or MX](https://fintoc.com/codehere)
 * [2025-03-03, 13:14:22](https://news.ycombinator.com/item?id=43241404) - [The Internals of PostgreSQL](http://www.interdb.jp/pg/index.html)
