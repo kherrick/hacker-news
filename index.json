@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-03-03, 17:17:26",
+      "https://news.ycombinator.com/item?id=43244166"
+    ],
+    [
+      "Show HN: Sonauto API – Generative music for developers",
+      "https://sonauto.ai/developers"
+    ]
+  ],
+  [
+    [
+      "2025-03-03, 17:03:03",
+      "https://news.ycombinator.com/item?id=43243914"
+    ],
+    [
+      "The power of interning: making a time series database 2000x smaller in Rust",
+      "https://gendignoux.com/blog/2025/03/03/rust-interning-2000x.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-03, 17:01:59",
+      "https://news.ycombinator.com/item?id=43243893"
+    ],
+    [
+      "Show HN: Agents.json – OpenAPI Specification for LLMs",
+      "https://github.com/wild-card-ai/agents-json"
+    ]
+  ],
+  [
+    [
       "2025-03-03, 17:00:13",
       "https://news.ycombinator.com/item?id=43243859"
     ],
@@ -31,16 +61,6 @@
   ],
   [
     [
-      "2025-03-03, 16:04:13",
-      "https://news.ycombinator.com/item?id=43243075"
-    ],
-    [
-      "Apple's Software Quality Crisis: When Premium Hardware Meets Subpar Software",
-      "https://www.eliseomartelli.it/blog/2025-03-02-apple-quality"
-    ]
-  ],
-  [
-    [
       "2025-03-03, 16:01:41",
       "https://news.ycombinator.com/item?id=43243024"
     ],
@@ -61,12 +81,12 @@
   ],
   [
     [
-      "2025-03-03, 15:53:16",
-      "https://news.ycombinator.com/item?id=43242921"
+      "2025-03-03, 16:01:41",
+      "https://news.ycombinator.com/item?id=43243022"
     ],
     [
-      "Drone Delivery for Defense",
-      "https://seanobannon.substack.com/p/drone-delivery-for-defense"
+      "Ask HN: Who wants to be hired? (March 2025)",
+      "https://news.ycombinator.com/item?id=43243022"
     ]
   ],
   [
@@ -87,6 +107,16 @@
     [
       "Youth and what happens when it's gone",
       "https://tolstoyan.substack.com/p/youth"
+    ]
+  ],
+  [
+    [
+      "2025-03-03, 14:24:10",
+      "https://news.ycombinator.com/item?id=43242017"
+    ],
+    [
+      "The quest to find and save the Vasa",
+      "https://www.mentalfloss.com/article/568289/vasa-quest-to-save-most-famous-shipwreck"
     ]
   ],
   [
@@ -137,16 +167,6 @@
     [
       "Made a scroll bar buddy that walks down the page when you scroll",
       "https://focusfurnace.com/scroll_buddy.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-03, 01:17:46",
-      "https://news.ycombinator.com/item?id=43237273"
-    ],
-    [
-      "Blender-made movie Flow takes Oscar",
-      "https://www.reuters.com/lifestyle/flow-wins-best-animated-feature-film-oscar-2025-03-03/"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-03-02, 15:32:46",
-      "https://news.ycombinator.com/item?id=43231411"
-    ],
-    [
-      "Why do we have both CSRF protection and CORS?",
-      "https://smagin.fyi/posts/cross-site-requests/"
-    ]
-  ],
-  [
-    [
       "2025-03-02, 09:31:50",
       "https://news.ycombinator.com/item?id=43228816"
     ],
@@ -247,16 +257,6 @@
     [
       "Virtual museum of socialist era graphic design in Bulgaria",
       "http://socmus.com/en/"
-    ]
-  ],
-  [
-    [
-      "2025-02-28, 18:00:52",
-      "https://news.ycombinator.com/item?id=43208507"
-    ],
-    [
-      "ninjavis – generate visualization from ninja build logs",
-      "https://github.com/chagui/ninjavis"
     ]
   ],
   [
