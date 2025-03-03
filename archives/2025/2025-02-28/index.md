@@ -24,6 +24,7 @@
 * [2025-02-28, 15:55:11](https://news.ycombinator.com/item?id=43207040) - [Imec demonstrates electrical yield for 20nm lines High NA EUV single patterning](https://www.imec-int.com/en/press/imec-demonstrates-electrical-yield-20nm-pitch-metal-lines-obtained-high-na-euv-single)
 * [2025-02-28, 15:33:39](https://news.ycombinator.com/item?id=43206722) - [Violence alters human genes for generations, researchers discover](https://news.ufl.edu/2025/02/syrian-violence-epigenetics/)
 * [2025-02-28, 15:12:54](https://news.ycombinator.com/item?id=43206491) - [AI is killing some companies, yet others are thriving – let's look at the data](https://www.elenaverna.com/p/ai-is-killing-some-companies-yet)
+* [2025-02-28, 15:06:50](https://news.ycombinator.com/item?id=43206417) - [Kaspersky exposes hidden malware on GitHub stealing personal data](https://www.kaspersky.com/about/press-releases/kaspersky-exposes-hidden-malware-on-github-stealing-personal-data-and-485000-in-bitcoin)
 * [2025-02-28, 14:45:36](https://news.ycombinator.com/item?id=43206174) - [Write to Escape Your Default Setting](https://kupajo.com/write-to-escape-your-default-setting/)
 * [2025-02-28, 14:28:26](https://news.ycombinator.com/item?id=43205968) - [Reimagining Fluid Web Typography](https://www.oddbird.net/2025/02/12/fluid-type/)
 * [2025-02-28, 14:09:19](https://news.ycombinator.com/item?id=43205755) - [Towards an AI Co-Scientist](https://arxiv.org/abs/2502.18864)
