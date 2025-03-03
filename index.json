@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-02, 23:39:29",
+      "https://news.ycombinator.com/item?id=43236520"
+    ],
+    [
+      "Solarpunk",
+      "https://en.wikipedia.org/wiki/Solarpunk"
+    ]
+  ],
+  [
+    [
       "2025-03-02, 23:21:52",
       "https://news.ycombinator.com/item?id=43236370"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=43236126"
     ],
     [
-      "CSS Custom Functions are coming and they are going to be a game changer",
+      "CSS Custom Functions are coming",
       "https://www.bram.us/2025/02/09/css-custom-functions-teaser/"
     ]
   ],
@@ -31,16 +41,6 @@
   ],
   [
     [
-      "2025-03-02, 22:28:43",
-      "https://news.ycombinator.com/item?id=43235933"
-    ],
-    [
-      "Firefly Aerospace Becomes First Commercial Company to Successfully Land on Moon",
-      "https://fireflyspace.com/news/firefly-aerospace-becomes-first-commercial-company-to-successfully-land-on-the-moon/"
-    ]
-  ],
-  [
-    [
       "2025-03-02, 22:11:39",
       "https://news.ycombinator.com/item?id=43235763"
     ],
@@ -51,12 +51,12 @@
   ],
   [
     [
-      "2025-03-02, 20:26:21",
-      "https://news.ycombinator.com/item?id=43234666"
+      "2025-03-02, 20:10:55",
+      "https://news.ycombinator.com/item?id=43234510"
     ],
     [
-      "Nvidia GPU on bare metal NixOS Kubernetes cluster explained",
-      "https://fangpenlin.com/posts/2025/03/01/nvidia-gpu-on-bare-metal-nixos-k8s-explained/"
+      "Rotors: A practical introduction for 3D graphics (2023)",
+      "https://jacquesheunis.com/post/rotors/"
     ]
   ],
   [
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2025-03-02, 17:25:49",
-      "https://news.ycombinator.com/item?id=43232724"
-    ],
-    [
-      "New battery-free technology can power devices using ambient RF signals",
-      "https://news.nus.edu.sg/nus-researchers-develop-new-battery-free-technology/"
-    ]
-  ],
-  [
-    [
       "2025-03-02, 16:32:13",
       "https://news.ycombinator.com/item?id=43232087"
     ],
@@ -201,22 +191,22 @@
   ],
   [
     [
+      "2025-03-02, 09:31:50",
+      "https://news.ycombinator.com/item?id=43228816"
+    ],
+    [
+      "Firefly ‘Blue Ghost’ lunar lander touches down on the moon",
+      "https://www.cnn.com/science/live-news/moon-landing-blue-ghost-03-02-25/index.html"
+    ]
+  ],
+  [
+    [
       "2025-03-01, 14:24:21",
       "https://news.ycombinator.com/item?id=43219487"
     ],
     [
       "Verifiable science on modified PCR machine",
       "https://github.com/ClemHeyd/PCR7500"
-    ]
-  ],
-  [
-    [
-      "2025-03-01, 08:59:25",
-      "https://news.ycombinator.com/item?id=43217451"
-    ],
-    [
-      "Effective Rust (2024)",
-      "https://www.lurklurk.org/effective-rust/title-page.html"
     ]
   ],
   [
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2025-02-28, 15:06:50",
+      "https://news.ycombinator.com/item?id=43206417"
+    ],
+    [
+      "Kaspersky exposes hidden malware on GitHub stealing personal data",
+      "https://www.kaspersky.com/about/press-releases/kaspersky-exposes-hidden-malware-on-github-stealing-personal-data-and-485000-in-bitcoin"
+    ]
+  ],
+  [
+    [
       "2025-02-28, 10:39:01",
       "https://news.ycombinator.com/item?id=43204091"
     ],
@@ -261,11 +261,21 @@
   ],
   [
     [
+      "2025-02-27, 21:24:50",
+      "https://news.ycombinator.com/item?id=43198678"
+    ],
+    [
+      "Evidence that our ancestors lived in rainforests 150k years ago",
+      "https://www.sheffield.ac.uk/news/scientists-find-earliest-evidence-our-ancestors-lived-rainforests-150000-years-ago"
+    ]
+  ],
+  [
+    [
       "2025-02-27, 19:46:55",
       "https://news.ycombinator.com/item?id=43197752"
     ],
     [
-      "Prompting Large Language Models in Bash Scripts",
+      "Show HN: Prompting LLMs in Bash scripts",
       "https://elijahpotter.dev/articles/prompting_large_language_models_in_bash_scripts"
     ]
   ],
@@ -285,18 +295,8 @@
       "https://news.ycombinator.com/item?id=43191667"
     ],
     [
-      "A Mechanically Verified Garbage Collector for OCaml [pdf]",
+      "A mechanically verified garbage collector for OCaml [pdf]",
       "https://kcsrk.info/papers/verifiedgc_feb_25.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-02-26, 18:44:50",
-      "https://news.ycombinator.com/item?id=43186717"
-    ],
-    [
-      "When Professor Bryant Lin got cancer, he taught a class about it",
-      "https://www.nytimes.com/2025/02/26/us/stanford-professor-cancer-bryant-lin.html"
     ]
   ]
 ]
