@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-03, 18:39:32](https://news.ycombinator.com/item?id=43245153) - [Launch HN: Cuckoo (YC W25) – Real-time AI translator for global teams](https://news.ycombinator.com/item?id=43245153)
+* [2025-03-03, 18:09:33](https://news.ycombinator.com/item?id=43244778) - [Evals are not all you need](https://www.marble.onl/posts/evals_are_not_all_you_need.html)
+* [2025-03-03, 18:09:22](https://news.ycombinator.com/item?id=43244773) - [AgenticMemory: Zettelkasten inspired agentic memory system](https://github.com/WujiangXu/AgenticMemory)
 * [2025-03-03, 18:06:17](https://news.ycombinator.com/item?id=43244739) - [Hacking the Xbox 360 Hypervisor Part 2: The Bad Update Exploit](https://icode4.coffee/?p=1081)
 * [2025-03-03, 18:04:55](https://news.ycombinator.com/item?id=43244722) - [Bocoup Is Now Worker-Owned](https://www.bocoup.com/blog/bocoup-is-now-worker-owned)
 * [2025-03-03, 17:59:45](https://news.ycombinator.com/item?id=43244666) - [Cautious Optimizers: Improving Training with One Line of Code](https://arxiv.org/abs/2411.16085)
@@ -21,7 +23,6 @@
 * [2025-03-03, 16:01:41](https://news.ycombinator.com/item?id=43243024) - [Ask HN: Who is hiring? (March 2025)](https://news.ycombinator.com/item?id=43243024)
 * [2025-03-03, 16:01:41](https://news.ycombinator.com/item?id=43243022) - [Ask HN: Who wants to be hired? (March 2025)](https://news.ycombinator.com/item?id=43243022)
 * [2025-03-03, 15:43:20](https://news.ycombinator.com/item?id=43242818) - [Show HN: Knowledge graph of restaurants and chefs, built using LLMs](https://theophilecantelob.re/blog/2025/foudinge/)
-* [2025-03-03, 14:24:10](https://news.ycombinator.com/item?id=43242017) - [The quest to find and save the Vasa (2019)](https://www.mentalfloss.com/article/568289/vasa-quest-to-save-most-famous-shipwreck)
 * [2025-03-03, 06:27:55](https://news.ycombinator.com/item?id=43238893) - [MIT 6.S184: Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu)
 * [2025-03-03, 05:29:02](https://news.ycombinator.com/item?id=43238570) - [FlakeUI](https://github.com/tearflake/flake-ui)
 * [2025-03-03, 02:13:00](https://news.ycombinator.com/item?id=43237581) - [Made a scroll bar buddy that walks down the page when you scroll](https://focusfurnace.com/scroll_buddy.html)
@@ -29,7 +30,6 @@
 * [2025-03-01, 12:32:18](https://news.ycombinator.com/item?id=43218629) - [Number-Colour-Phoneme Associations: From IBM CGA Colours to Mnemonic Systems](https://susam.net/assoc.html)
 * [2025-02-28, 16:04:59](https://news.ycombinator.com/item?id=43207153) - [I'm starting to suspect my work is incompatible with a full-time academic job](https://www.humprog.org/~stephen/blog/2025/02/28/#the-mess-im-in)
 * [2025-02-27, 17:32:01](https://news.ycombinator.com/item?id=43196488) - [Man's brain turned to glass by hot Vesuvius ash cloud](https://www.bbc.com/news/articles/cgr2n8xx5gyo)
-* [2025-02-27, 16:56:14](https://news.ycombinator.com/item?id=43196133) - [Harvest the sun twice: Agrivoltaics promises sustainable food, energy and water](https://www.sheffield.ac.uk/news/harvesting-sun-twice-agrivoltaics-shows-promise-sustainable-food-energy-and-water-management-east)
 
 ## [Archives](archives/index.md)
 
