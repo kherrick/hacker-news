@@ -1,11 +1,31 @@
 [
   [
     [
+      "2025-03-03, 21:19:56",
+      "https://news.ycombinator.com/item?id=43246892"
+    ],
+    [
+      "Repairable Flatpack Toaster",
+      "https://www.kaseyhou.com/#/repairable-flatpack-toaster/"
+    ]
+  ],
+  [
+    [
+      "2025-03-03, 21:08:56",
+      "https://news.ycombinator.com/item?id=43246743"
+    ],
+    [
+      "Proof that LLM just mimic logical without understanding underlying logic",
+      "https://arxiv.org/abs/2502.19907"
+    ]
+  ],
+  [
+    [
       "2025-03-03, 20:41:58",
       "https://news.ycombinator.com/item?id=43246438"
     ],
     [
-      "Tianjin Robot Incident Raises Alarm over Public Safety and Robotics",
+      "Tianjin robot incident raises alarm over public safety and robotics",
       "https://www.businesskorea.co.kr/news/articleView.html?idxno=236533"
     ]
   ],
@@ -17,16 +37,6 @@
     [
       "Atlanta Fed predicts -2.8% GDP",
       "https://www.atlantafed.org/cqer/research/gdpnow"
-    ]
-  ],
-  [
-    [
-      "2025-03-03, 19:26:19",
-      "https://news.ycombinator.com/item?id=43245674"
-    ],
-    [
-      "PFAS in fertilisers blamed for killing livestock in Texas and wreaking havoc",
-      "https://www.chemistryworld.com/news/pfas-in-fertilisers-blamed-for-killing-livestock-in-texas-and-wreaking-havoc/4020874.article"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2025-03-03, 16:10:28",
-      "https://news.ycombinator.com/item?id=43243153"
-    ],
-    [
-      "Show HN: Open-Source Windows AI assistant that uses Word, Excel through COM",
-      "https://github.com/Alkali-Sim/SmartestKid"
-    ]
-  ],
-  [
-    [
       "2025-03-03, 16:06:50",
       "https://news.ycombinator.com/item?id=43243109"
     ],
@@ -261,22 +261,12 @@
   ],
   [
     [
-      "2025-03-03, 06:27:55",
-      "https://news.ycombinator.com/item?id=43238893"
+      "2025-03-02, 16:28:38",
+      "https://news.ycombinator.com/item?id=43232057"
     ],
     [
-      "MIT 6.S184: Introduction to Flow Matching and Diffusion Models",
-      "https://diffusion.csail.mit.edu"
-    ]
-  ],
-  [
-    [
-      "2025-03-03, 05:29:02",
-      "https://news.ycombinator.com/item?id=43238570"
-    ],
-    [
-      "FlakeUI",
-      "https://github.com/tearflake/flake-ui"
+      "The weird Hewlett Packard FreeDOS option (2022)",
+      "https://blog.tmm.cx/2022/05/15/the-very-weird-hewlett-packard-freedos-option/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "DARPA Project Reveals One Person Can Control Dozens of Robots",
       "https://spectrum.ieee.org/darpa-robot"
+    ]
+  ],
+  [
+    [
+      "2025-02-28, 13:52:53",
+      "https://news.ycombinator.com/item?id=43205563"
+    ],
+    [
+      "Bernd das Brot, a depressed German loaf of bread",
+      "https://apnews.com/article/bernd-das-brot-germany-582397aa7e741b56f0228feeece35a0d"
     ]
   ]
 ]
