@@ -31,12 +31,12 @@
   ],
   [
     [
-      "2025-03-03, 03:10:23",
-      "https://news.ycombinator.com/item?id=43237911"
+      "2025-03-03, 06:00:31",
+      "https://news.ycombinator.com/item?id=43238753"
     ],
     [
-      "BM25 in PostgreSQL",
-      "https://blog.vectorchord.ai/vectorchord-bm25-revolutionize-postgresql-search-with-bm25-ranking-3x-faster-than-elasticsearch"
+      "Alibaba Launches C930 RISC-V Chip Amid Shift from Western Tech",
+      "https://www.hpcwire.com/2025/02/28/alibaba-launches-c930-risc-v-chip-amid-shift-from-western-tech/"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "Made a scroll bar buddy that walks down the page when you scroll",
       "https://focusfurnace.com/scroll_buddy.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-03, 01:30:12",
+      "https://news.ycombinator.com/item?id=43237352"
+    ],
+    [
+      "Losing a 5-year-long Illinois FOIA lawsuit for database schemas",
+      "https://mchap.io/losing-a-5yr-long-illinois-foia-lawsuit-for-database-schemas.html"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "ninjavis – generate visualization from ninja build logs",
       "https://github.com/chagui/ninjavis"
-    ]
-  ],
-  [
-    [
-      "2025-02-28, 15:06:50",
-      "https://news.ycombinator.com/item?id=43206417"
-    ],
-    [
-      "Kaspersky exposes hidden malware on GitHub stealing personal data",
-      "https://www.kaspersky.com/about/press-releases/kaspersky-exposes-hidden-malware-on-github-stealing-personal-data-and-485000-in-bitcoin"
     ]
   ],
   [
