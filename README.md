@@ -19,6 +19,7 @@
 * [2025-03-02, 14:30:47](https://news.ycombinator.com/item?id=43230831) - [Rackmounting that which should not be rackmounted](https://calbryant.uk/blog/rackmounting-that-which-should-not-be-rackmounted/)
 * [2025-03-02, 14:18:11](https://news.ycombinator.com/item?id=43230734) - [I struggled with Git, so I'm making a game to spare others the pain](https://initialcommit.com/blog/im-making-a-git-game)
 * [2025-03-02, 13:56:01](https://news.ycombinator.com/item?id=43230510) - [Yoke: Infrastructure as code, but actually](https://xeiaso.net/blog/2025/yoke-k8s/)
+* [2025-03-02, 11:05:10](https://news.ycombinator.com/item?id=43229259) - [Begrudgingly Choosing CBOR over MessagePack](https://taylor.town/flat-scraps-001)
 * [2025-03-02, 09:31:50](https://news.ycombinator.com/item?id=43228816) - [Firefly ‘Blue Ghost’ lunar lander touches down on the moon](https://www.cnn.com/science/live-news/moon-landing-blue-ghost-03-02-25/index.html)
 * [2025-03-01, 11:55:18](https://news.ycombinator.com/item?id=43218402) - [Ask HN: A question about mentoring a junior developer](https://news.ycombinator.com/item?id=43218402)
 * [2025-02-28, 20:59:07](https://news.ycombinator.com/item?id=43210710) - [A Few of the Birds I Love](https://moultano.wordpress.com/2024/05/03/a-few-of-the-birds-i-love/)
@@ -28,7 +29,6 @@
 * [2025-02-27, 19:46:55](https://news.ycombinator.com/item?id=43197752) - [Show HN: Prompting LLMs in Bash scripts](https://elijahpotter.dev/articles/prompting_large_language_models_in_bash_scripts)
 * [2025-02-27, 18:53:44](https://news.ycombinator.com/item?id=43197248) - [We in-housed our data labelling](https://www.ericbutton.co/p/data-labelling)
 * [2025-02-27, 16:56:14](https://news.ycombinator.com/item?id=43196133) - [Harvest the sun twice: Agrivoltaics promises sustainable food, energy and water](https://www.sheffield.ac.uk/news/harvesting-sun-twice-agrivoltaics-shows-promise-sustainable-food-energy-and-water-management-east)
-* [2025-02-27, 13:36:10](https://news.ycombinator.com/item?id=43194234) - [Morphing robot turns challenging terrain to its advantage](https://actu.epfl.ch/news/morphing-robot-turns-challenging-terrain-to-its--2/)
 * [2025-02-27, 10:47:31](https://news.ycombinator.com/item?id=43193160) - [API design note: Beware of adding an \"Other\" enum value](https://devblogs.microsoft.com/oldnewthing/20250217-00/?p=110873)
 
 ## [Archives](archives/index.md)
