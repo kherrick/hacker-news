@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-04, 17:00:34](https://news.ycombinator.com/item?id=43257268) - [Foundry (YC F24) Hiring Founding Engineer to Build an Internet-Scale Web Crawler](https://www.ycombinator.com/companies/foundry/jobs/xtwLIsF-founding-engineer-large-scale-web-scraping-crawling)
 * [2025-03-04, 15:56:58](https://news.ycombinator.com/item?id=43256349) - [Satellogic's Open Satellite Feed](https://tech.marksblogg.com/satellogic-open-data-feed.html)
 * [2025-03-04, 15:54:30](https://news.ycombinator.com/item?id=43256298) - [The owner of ip4.me/ip6.me, Kevin Loch, passed away](https://ip4only.me/)
 * [2025-03-04, 15:24:32](https://news.ycombinator.com/item?id=43255855) - [Show HN: Appstat – Process Monitor for Windows](https://pragmar.com/appstat/)
@@ -7,7 +8,6 @@
 * [2025-03-04, 14:57:06](https://news.ycombinator.com/item?id=43255467) - [DiffRhythm: Fast End-to-End Full-Length Song Generation with Latent Diffusion](https://aslp-lab.github.io/DiffRhythm.github.io/)
 * [2025-03-04, 14:55:14](https://news.ycombinator.com/item?id=43255446) - [DIY \"infinity contrast\" TV – with 100% recycled parts [video]](https://www.youtube.com/watch?v=qXrn4MqY1Wo)
 * [2025-03-04, 13:05:53](https://news.ycombinator.com/item?id=43254012) - [Microsoft's new Dragon Copilot is an AI assistant for healthcare](https://www.theverge.com/news/622528/microsoft-dragon-copilot-ai-healthcare-assistant)
-* [2025-03-04, 12:00:32](https://news.ycombinator.com/item?id=43253463) - [Trellis (YC W24) Is Hiring Eng to Build the Best AI Agents for PDF](https://runtrellis.com/)
 * [2025-03-04, 01:09:04](https://news.ycombinator.com/item?id=43248947) - [DeepSeek's smallpond: Bringing Distributed Computing to DuckDB](https://mehdio.substack.com/p/duckdb-goes-distributed-deepseeks)
 * [2025-03-04, 00:04:03](https://news.ycombinator.com/item?id=43248429) - [Lawrence of Arabia, Paul Atreides, and the roots of Frank Herbert's Dune (2021)](https://reactormag.com/lawrence-of-arabia-paul-atreides-and-the-roots-of-frank-herberts-dune/)
 * [2025-03-03, 21:19:56](https://news.ycombinator.com/item?id=43246892) - [Repairable Flatpack Toaster](https://www.kaseyhou.com/#/repairable-flatpack-toaster/)
@@ -23,11 +23,11 @@
 * [2025-03-03, 16:01:41](https://news.ycombinator.com/item?id=43243024) - [Ask HN: Who is hiring? (March 2025)](https://news.ycombinator.com/item?id=43243024)
 * [2025-03-03, 16:01:41](https://news.ycombinator.com/item?id=43243022) - [Ask HN: Who wants to be hired? (March 2025)](https://news.ycombinator.com/item?id=43243022)
 * [2025-03-03, 10:19:58](https://news.ycombinator.com/item?id=43240301) - [The IBM 650: An appreciation from the field (1986) [pdf]](https://ed-thelen.org/comp-hist/KnuthIBM650Appreciation.pdf)
-* [2025-03-03, 08:44:06](https://news.ycombinator.com/item?id=43239699) - [Robust Wavefront OBJ model parsing in C](https://nullprogram.com/blog/2025/03/02/)
 * [2025-03-03, 06:27:55](https://news.ycombinator.com/item?id=43238893) - [MIT 6.S184: Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu)
 * [2025-03-03, 05:29:02](https://news.ycombinator.com/item?id=43238570) - [Show HN: FlakeUI](https://github.com/tearflake/flake-ui)
 * [2025-03-01, 20:11:15](https://news.ycombinator.com/item?id=43223162) - [Ask HN: What less-popular systems programming language are you using?](https://news.ycombinator.com/item?id=43223162)
 * [2025-03-01, 17:47:27](https://news.ycombinator.com/item?id=43221633) - [Windows NT for GameCube/Wii](https://github.com/Wack0/entii-for-workcubes)
+* [2025-03-01, 09:18:02](https://news.ycombinator.com/item?id=43217546) - [Show HN: PG-Capture – a better way to sync Postgres with Algolia (or Elastic)](https://pg-capture.onrender.com/)
 * [2025-02-28, 17:25:06](https://news.ycombinator.com/item?id=43208096) - [Enhancing Frame Detection with Retrieval Augmented Generation](https://arxiv.org/abs/2502.12210)
 * [2025-02-28, 15:04:43](https://news.ycombinator.com/item?id=43206385) - [An Experimental Study of Bitmap Compression vs. Inverted List Compression](https://dl.acm.org/doi/10.1145/3035918.3064007)
 

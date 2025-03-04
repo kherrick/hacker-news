@@ -56,6 +56,7 @@
 * [2025-03-01, 11:03:57](https://news.ycombinator.com/item?id=43218115) - [Your Invoice Is an Actor That Wants to Get Paid](https://10xbetterai.beehiiv.com/p/your-invoice-is-an-actor-that-wants-to-get-paid)
 * [2025-03-01, 10:30:54](https://news.ycombinator.com/item?id=43217947) - [A DOGE staffer appears to be posting DOGE work on his public GitHub](https://twitter.com/SollenbergerRC/status/1895609294810464390)
 * [2025-03-01, 10:28:27](https://news.ycombinator.com/item?id=43217933) - [Study finds contaminants in U.S. drinking water [video]](https://www.youtube.com/watch?v=NSvlgZYGDzU)
+* [2025-03-01, 09:18:02](https://news.ycombinator.com/item?id=43217546) - [Show HN: PG-Capture – a better way to sync Postgres with Algolia (or Elastic)](https://pg-capture.onrender.com/)
 * [2025-03-01, 08:59:25](https://news.ycombinator.com/item?id=43217451) - [Effective Rust](https://www.lurklurk.org/effective-rust/title-page.html)
 * [2025-03-01, 08:44:16](https://news.ycombinator.com/item?id=43217357) - [Yes, Claude Code can decompile itself. Here's the source code](https://ghuntley.com/tradecraft/)
 * [2025-03-01, 08:38:12](https://news.ycombinator.com/item?id=43217309) - [Google does not want rights to things you do using Chrome (2008)](https://www.mattcutts.com/blog/google-chrome-license-agreement/)

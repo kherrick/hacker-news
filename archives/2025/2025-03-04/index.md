@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-04](index.md)
 
+* [2025-03-04, 17:00:34](https://news.ycombinator.com/item?id=43257268) - [Foundry (YC F24) Hiring Founding Engineer to Build an Internet-Scale Web Crawler](https://www.ycombinator.com/companies/foundry/jobs/xtwLIsF-founding-engineer-large-scale-web-scraping-crawling)
 * [2025-03-04, 15:56:58](https://news.ycombinator.com/item?id=43256349) - [Satellogic's Open Satellite Feed](https://tech.marksblogg.com/satellogic-open-data-feed.html)
 * [2025-03-04, 15:54:30](https://news.ycombinator.com/item?id=43256298) - [The owner of ip4.me/ip6.me, Kevin Loch, passed away](https://ip4only.me/)
 * [2025-03-04, 15:27:01](https://news.ycombinator.com/item?id=43255895) - [Ride into the Future with Waymo on Uber in Austin](https://www.uber.com/newsroom/waymo-on-uber-austin/)
