@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2025-03-04, 01:09:04",
-      "https://news.ycombinator.com/item?id=43248947"
-    ],
-    [
-      "DeepSeek's smallpond: Bringing Distributed Computing to DuckDB",
-      "https://mehdio.substack.com/p/duckdb-goes-distributed-deepseeks"
-    ]
-  ],
-  [
-    [
       "2025-03-04, 00:04:03",
       "https://news.ycombinator.com/item?id=43248429"
     ],
@@ -217,6 +207,16 @@
     [
       "Repairable Flatpack Toaster",
       "https://www.kaseyhou.com/#/repairable-flatpack-toaster/"
+    ]
+  ],
+  [
+    [
+      "2025-03-03, 17:29:12",
+      "https://news.ycombinator.com/item?id=43244307"
+    ],
+    [
+      "SQLite-on-the-server is misunderstood: Better at hyper-scale than micro-scale",
+      "https://rivet.gg/blog/2025-02-16-sqlite-on-the-server-is-misunderstood"
     ]
   ],
   [
