@@ -67,6 +67,7 @@
 * [2025-03-01, 04:50:15](https://news.ycombinator.com/item?id=43216043) - [The Nabataeans Are Coming](https://www.historytoday.com/archive/behind-times/nabataeans-are-coming)
 * [2025-03-01, 04:35:50](https://news.ycombinator.com/item?id=43215947) - [Designing space hardware is hard [video]](https://www.youtube.com/watch?v=kXa0vUy2Tlg)
 * [2025-03-01, 04:10:46](https://news.ycombinator.com/item?id=43215781) - [Zen 5's AVX-512 Frequency Behavior](https://chipsandcheese.com/p/zen-5s-avx-512-frequency-behavior)
+* [2025-03-01, 03:53:05](https://news.ycombinator.com/item?id=43215673) - [AI can decode digital data stored in DNA in minutes instead of days](https://www.newscientist.com/article/2469449-ai-can-decode-digital-data-stored-in-dna-in-minutes-instead-of-days/)
 * [2025-03-01, 01:37:26](https://news.ycombinator.com/item?id=43214576) - [When eBPF pt_regs reads return garbage on the latest Linux kernels, blame Fred](https://tanelpoder.com/posts/ebpf-pt-regs-error-on-linux-blame-fred/)
 * [2025-03-01, 01:09:22](https://news.ycombinator.com/item?id=43214353) - [Magic Isn't Real](https://pthorpe92.dev/magic/)
 * [2025-03-01, 01:03:48](https://news.ycombinator.com/item?id=43214294) - [Self-Hosting a Firefox Sync Server](https://blog.diego.dev/posts/firefox-sync-server/)
