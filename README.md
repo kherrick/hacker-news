@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-04, 20:03:49](https://news.ycombinator.com/item?id=43259292) - [Oil drilling in the mouth of the Amazon – Lula on a course to disaster](https://news.mongabay.com/2025/02/oil-drilling-in-the-mouth-of-the-amazon-lula-on-a-course-to-disaster-commentary/)
-* [2025-03-04, 20:02:26](https://news.ycombinator.com/item?id=43259279) - [Economic and Market Data Signal a Recession Is Coming](https://www.forbes.com/sites/mayrarodriguezvalladares/2025/03/04/economic-and-market-data-signal-a-recession-is-coming/)
+* [2025-03-04, 19:52:38](https://news.ycombinator.com/item?id=43259182) - [ARC-AGI without pretraining](https://iliao2345.github.io/blog_posts/arc_agi_without_pretraining/arc_agi_without_pretraining.html)
 * [2025-03-04, 19:05:43](https://news.ycombinator.com/item?id=43258709) - [Why FastDoom Is Fast](https://fabiensanglard.net/fastdoom/index.html)
 * [2025-03-04, 18:53:44](https://news.ycombinator.com/item?id=43258585) - [Show HN: Time travel debugging AI for more reliable vibe coding](https://nut.new)
 * [2025-03-04, 18:12:12](https://news.ycombinator.com/item?id=43258104) - [The Imaginary Engineer – Karl Hans Janke's Flights of Fancy](https://www.cabinetmagazine.org/issues/29/lee.php)
@@ -24,6 +23,7 @@
 * [2025-03-03, 21:19:56](https://news.ycombinator.com/item?id=43246892) - [Repairable Flatpack Toaster](https://www.kaseyhou.com/#/repairable-flatpack-toaster/)
 * [2025-03-03, 16:40:34](https://news.ycombinator.com/item?id=43243580) - [TSMC expected to announce $100B investment in U.S.](https://www.wsj.com/tech/trump-chip-maker-tsmc-expected-to-announce-100-billion-investment-in-u-s-02a44399)
 * [2025-03-03, 15:18:22](https://news.ycombinator.com/item?id=43242551) - [Show HN: Open-source Deep Research across workplace applications](https://github.com/onyx-dot-app/onyx)
+* [2025-03-03, 10:19:58](https://news.ycombinator.com/item?id=43240301) - [The IBM 650: An appreciation from the field (1986) [pdf]](https://ed-thelen.org/comp-hist/KnuthIBM650Appreciation.pdf)
 * [2025-03-01, 17:47:27](https://news.ycombinator.com/item?id=43221633) - [Windows NT for GameCube/Wii](https://github.com/Wack0/entii-for-workcubes)
 * [2025-03-01, 09:18:02](https://news.ycombinator.com/item?id=43217546) - [Show HN: PG-Capture – a better way to sync Postgres with Algolia (or Elastic)](https://pg-capture.onrender.com/)
 * [2025-03-01, 08:29:48](https://news.ycombinator.com/item?id=43217264) - [Chip-8 Archive](https://johnearnest.github.io/chip8Archive/)
