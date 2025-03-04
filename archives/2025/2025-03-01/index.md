@@ -53,6 +53,7 @@
 * [2025-03-01, 12:32:18](https://news.ycombinator.com/item?id=43218629) - [Number-Colour-Phoneme Associations: From IBM CGA Colours to Mnemonic Systems](https://susam.net/assoc.html)
 * [2025-03-01, 11:57:09](https://news.ycombinator.com/item?id=43218410) - [What is vibe coding? How creators are building software with no coding knowledge](https://alitu.com/creator/workflow/what-is-vibe-coding/)
 * [2025-03-01, 11:55:18](https://news.ycombinator.com/item?id=43218402) - [Ask HN: A question about mentoring a junior developer](https://news.ycombinator.com/item?id=43218402)
+* [2025-03-01, 11:44:18](https://news.ycombinator.com/item?id=43218343) - [A Map of Python](https://fi-le.net/pypi/)
 * [2025-03-01, 11:03:57](https://news.ycombinator.com/item?id=43218115) - [Your Invoice Is an Actor That Wants to Get Paid](https://10xbetterai.beehiiv.com/p/your-invoice-is-an-actor-that-wants-to-get-paid)
 * [2025-03-01, 10:30:54](https://news.ycombinator.com/item?id=43217947) - [A DOGE staffer appears to be posting DOGE work on his public GitHub](https://twitter.com/SollenbergerRC/status/1895609294810464390)
 * [2025-03-01, 10:28:27](https://news.ycombinator.com/item?id=43217933) - [Study finds contaminants in U.S. drinking water [video]](https://www.youtube.com/watch?v=NSvlgZYGDzU)
