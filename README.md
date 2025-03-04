@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-04, 01:28:37](https://news.ycombinator.com/item?id=43249068) - [Global sales of combustion engine cars have peaked](https://ourworldindata.org/data-insights/global-sales-of-combustion-engine-cars-have-peaked)
+* [2025-03-04, 03:55:00](https://news.ycombinator.com/item?id=43250093) - [Let's code a TCP/IP stack, 1: Ethernet and ARP](https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
+* [2025-03-04, 01:09:04](https://news.ycombinator.com/item?id=43248947) - [DeepSeek's smallpond: Bringing Distributed Computing to DuckDB](https://mehdio.substack.com/p/duckdb-goes-distributed-deepseeks)
 * [2025-03-04, 00:28:46](https://news.ycombinator.com/item?id=43248610) - [Public health data disappeared. RestoredCDC.org is bringing it back](https://www.RestoredCDC.org)
 * [2025-03-04, 00:04:03](https://news.ycombinator.com/item?id=43248429) - [Lawrence of Arabia, Paul Atreides, and the roots of Frank Herbert's Dune (2021)](https://reactormag.com/lawrence-of-arabia-paul-atreides-and-the-roots-of-frank-herberts-dune/)
 * [2025-03-03, 21:19:56](https://news.ycombinator.com/item?id=43246892) - [Repairable Flatpack Toaster](https://www.kaseyhou.com/#/repairable-flatpack-toaster/)
@@ -25,7 +26,6 @@
 * [2025-03-03, 15:43:20](https://news.ycombinator.com/item?id=43242818) - [Show HN: Knowledge graph of restaurants and chefs, built using LLMs](https://theophilecantelob.re/blog/2025/foudinge/)
 * [2025-03-03, 05:29:02](https://news.ycombinator.com/item?id=43238570) - [Show HN: FlakeUI](https://github.com/tearflake/flake-ui)
 * [2025-03-03, 03:16:22](https://news.ycombinator.com/item?id=43237942) - [The Cocaine Files](https://www.cbc.ca/newsinteractives/features/the-cocaine-files)
-* [2025-03-02, 16:28:38](https://news.ycombinator.com/item?id=43232057) - [The weird Hewlett Packard FreeDOS option (2022)](https://blog.tmm.cx/2022/05/15/the-very-weird-hewlett-packard-freedos-option/)
 * [2025-03-01, 20:11:15](https://news.ycombinator.com/item?id=43223162) - [Ask HN: What less-popular systems programming language are you using?](https://news.ycombinator.com/item?id=43223162)
 * [2025-02-28, 23:23:56](https://news.ycombinator.com/item?id=43213167) - [Ask HN: Replacement for Rackspace SMTP Hosting?](https://news.ycombinator.com/item?id=43213167)
 * [2025-02-28, 21:15:36](https://news.ycombinator.com/item?id=43211101) - [Ohio One Construction Timeline Update](https://newsroom.intel.com/corporate/ohio-one-construction-timeline-update)
