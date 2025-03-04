@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-04, 17:00:34",
+      "https://news.ycombinator.com/item?id=43257268"
+    ],
+    [
+      "Foundry (YC F24) Hiring Founding Engineer to Build an Internet-Scale Web Crawler",
+      "https://www.ycombinator.com/companies/foundry/jobs/xtwLIsF-founding-engineer-large-scale-web-scraping-crawling"
+    ]
+  ],
+  [
+    [
       "2025-03-04, 15:56:58",
       "https://news.ycombinator.com/item?id=43256349"
     ],
@@ -67,16 +77,6 @@
     [
       "Microsoft's new Dragon Copilot is an AI assistant for healthcare",
       "https://www.theverge.com/news/622528/microsoft-dragon-copilot-ai-healthcare-assistant"
-    ]
-  ],
-  [
-    [
-      "2025-03-04, 12:00:32",
-      "https://news.ycombinator.com/item?id=43253463"
-    ],
-    [
-      "Trellis (YC W24) Is Hiring Eng to Build the Best AI Agents for PDF",
-      "https://runtrellis.com/"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2025-03-03, 08:44:06",
-      "https://news.ycombinator.com/item?id=43239699"
-    ],
-    [
-      "Robust Wavefront OBJ model parsing in C",
-      "https://nullprogram.com/blog/2025/03/02/"
-    ]
-  ],
-  [
-    [
       "2025-03-03, 06:27:55",
       "https://news.ycombinator.com/item?id=43238893"
     ],
@@ -277,6 +267,16 @@
     [
       "Windows NT for GameCube/Wii",
       "https://github.com/Wack0/entii-for-workcubes"
+    ]
+  ],
+  [
+    [
+      "2025-03-01, 09:18:02",
+      "https://news.ycombinator.com/item?id=43217546"
+    ],
+    [
+      "Show HN: PG-Capture – a better way to sync Postgres with Algolia (or Elastic)",
+      "https://pg-capture.onrender.com/"
     ]
   ],
   [
