@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2025-03-03, 17:03:03",
-      "https://news.ycombinator.com/item?id=43243914"
-    ],
-    [
-      "The power of interning: making a time series database smaller",
-      "https://gendignoux.com/blog/2025/03/03/rust-interning-2000x.html"
-    ]
-  ],
-  [
-    [
       "2025-03-03, 17:01:59",
       "https://news.ycombinator.com/item?id=43243893"
     ],
@@ -237,6 +227,16 @@
     [
       "The IBM 650: An appreciation from the field (1986) [pdf]",
       "https://ed-thelen.org/comp-hist/KnuthIBM650Appreciation.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-03-03, 08:44:06",
+      "https://news.ycombinator.com/item?id=43239699"
+    ],
+    [
+      "Robust Wavefront OBJ model parsing in C",
+      "https://nullprogram.com/blog/2025/03/02/"
     ]
   ],
   [
