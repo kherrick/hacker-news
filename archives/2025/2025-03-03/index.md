@@ -55,6 +55,7 @@
 * [2025-03-03, 13:14:22](https://news.ycombinator.com/item?id=43241404) - [The Internals of PostgreSQL](http://www.interdb.jp/pg/index.html)
 * [2025-03-03, 12:44:33](https://news.ycombinator.com/item?id=43241212) - [Amazon's Drones Are Grounded. The Birds and Dogs of This Texas Town Are Grateful](https://www.wired.com/story/texas-amazon-drones-stop-flying/)
 * [2025-03-03, 10:28:28](https://news.ycombinator.com/item?id=43240354) - [Difficult Employees (and How to Handle Them)](https://newsletter.canopy.is/p/the-5-most-difficult-employees-and)
+* [2025-03-03, 10:19:58](https://news.ycombinator.com/item?id=43240301) - [The IBM 650: An appreciation from the field (1986) [pdf]](https://ed-thelen.org/comp-hist/KnuthIBM650Appreciation.pdf)
 * [2025-03-03, 08:56:28](https://news.ycombinator.com/item?id=43239774) - [About Google Chrome's \"This extension may soon no longer be supported\"](https://github.com/gorhill/uBlock/wiki/About-Google-Chrome%27s-%22This-extension-may-soon-no-longer-be-supported%22)
 * [2025-03-03, 08:44:06](https://news.ycombinator.com/item?id=43239699) - [Robust Wavefront OBJ model parsing in C](https://nullprogram.com/blog/2025/03/02/)
 * [2025-03-03, 08:20:45](https://news.ycombinator.com/item?id=43239526) - [Phlex for Rails Emails: Action Mailer Without ERB](https://camillovisini.com/coding/phlex-for-rails-emails-action-mailer-without-erb)
