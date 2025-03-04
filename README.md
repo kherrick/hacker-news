@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-04, 15:00:51](https://news.ycombinator.com/item?id=43255529) - [Bayleaf · Building a low-profile wireless split keyboard](https://www.graz.io/articles/bayleaf-wireless-keyboard)
 * [2025-03-04, 14:02:18](https://news.ycombinator.com/item?id=43254714) - [Apple introduces iPad Air with powerful M3 chip and new Magic Keyboard](https://www.apple.com/newsroom/2025/03/apple-introduces-ipad-air-with-powerful-m3-chip-and-new-magic-keyboard/)
+* [2025-03-04, 13:57:20](https://news.ycombinator.com/item?id=43254637) - [Tesla electric car sales plunge again in Australia – Model 3 down more than 81 p](https://thedriven.io/2025/03/04/tesla-electric-car-sales-plunge-again-in-australia-model-3-down-more-than-81-per-cent/)
 * [2025-03-04, 13:05:53](https://news.ycombinator.com/item?id=43254012) - [Microsoft's new Dragon Copilot is an AI assistant for healthcare](https://www.theverge.com/news/622528/microsoft-dragon-copilot-ai-healthcare-assistant)
-* [2025-03-04, 12:14:36](https://news.ycombinator.com/item?id=43253562) - [Federal workers ordered to return to offices without desks, Wi-Fi and lights](https://www.cnn.com/2025/03/04/politics/federal-employees-return-to-office-problems/index.html)
 * [2025-03-04, 12:00:32](https://news.ycombinator.com/item?id=43253463) - [Trellis (YC W24) Is Hiring Eng to Build the Best AI Agents for PDF](https://runtrellis.com/)
-* [2025-03-04, 11:51:47](https://news.ycombinator.com/item?id=43253407) - [Italy moves to reverse anti-nuclear stance](https://www.world-nuclear-news.org/articles/cabinet-moves-to-reverse-italys-anti-nuclear-stance)
+* [2025-03-04, 11:16:47](https://news.ycombinator.com/item?id=43253167) - [How Google tracks Android device users before they've even opened an app](https://www.theregister.com/2025/03/04/google_android/)
 * [2025-03-04, 01:09:04](https://news.ycombinator.com/item?id=43248947) - [DeepSeek's smallpond: Bringing Distributed Computing to DuckDB](https://mehdio.substack.com/p/duckdb-goes-distributed-deepseeks)
 * [2025-03-04, 00:04:03](https://news.ycombinator.com/item?id=43248429) - [Lawrence of Arabia, Paul Atreides, and the roots of Frank Herbert's Dune (2021)](https://reactormag.com/lawrence-of-arabia-paul-atreides-and-the-roots-of-frank-herberts-dune/)
 * [2025-03-03, 21:19:56](https://news.ycombinator.com/item?id=43246892) - [Repairable Flatpack Toaster](https://www.kaseyhou.com/#/repairable-flatpack-toaster/)
@@ -25,11 +26,10 @@
 * [2025-03-03, 05:29:02](https://news.ycombinator.com/item?id=43238570) - [Show HN: FlakeUI](https://github.com/tearflake/flake-ui)
 * [2025-03-01, 20:11:15](https://news.ycombinator.com/item?id=43223162) - [Ask HN: What less-popular systems programming language are you using?](https://news.ycombinator.com/item?id=43223162)
 * [2025-03-01, 17:47:27](https://news.ycombinator.com/item?id=43221633) - [Windows NT for GameCube/Wii](https://github.com/Wack0/entii-for-workcubes)
-* [2025-03-01, 08:12:45](https://news.ycombinator.com/item?id=43217165) - [Salty game dev comments, easier mods are in Command and Conquer's source code](https://arstechnica.com/gaming/2025/02/command-conquer-source-release-promises-more-mods-and-updates-for-rts-legend/)
-* [2025-02-28, 21:15:36](https://news.ycombinator.com/item?id=43211101) - [Ohio One Construction Timeline Update](https://newsroom.intel.com/corporate/ohio-one-construction-timeline-update)
 * [2025-02-28, 17:25:06](https://news.ycombinator.com/item?id=43208096) - [Enhancing Frame Detection with Retrieval Augmented Generation](https://arxiv.org/abs/2502.12210)
 * [2025-02-28, 17:15:04](https://news.ycombinator.com/item?id=43207962) - [The Meter, Golden Ratio, Pyramids, and Cubits, Oh My](https://www.iforgeiron.com/topic/60514-the-meter-golden-ratio-pyramids-and-cubits-oh-my/)
 * [2025-02-28, 15:24:48](https://news.ycombinator.com/item?id=43206622) - [Another Conflict Between Privacy Laws and Age Authentication–Murphy v Confirm ID](https://blog.ericgoldman.org/archives/2025/02/another-conflict-between-privacy-laws-and-age-authentication-murphy-v-confirm-id.htm)
+* [2025-02-28, 15:04:43](https://news.ycombinator.com/item?id=43206385) - [An Experimental Study of Bitmap Compression vs. Inverted List Compression](https://dl.acm.org/doi/10.1145/3035918.3064007)
 
 ## [Archives](archives/index.md)
 
