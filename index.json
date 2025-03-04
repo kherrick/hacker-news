@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2025-03-03, 16:06:50",
+      "https://news.ycombinator.com/item?id=43243109"
+    ],
+    [
+      "An Attempt to Catch Up with JIT Compilers",
+      "https://arxiv.org/abs/2502.20547"
+    ]
+  ],
+  [
+    [
       "2025-03-03, 16:04:13",
       "https://news.ycombinator.com/item?id=43243075"
     ],
@@ -237,16 +247,6 @@
     [
       "Windows NT for GameCube/Wii",
       "https://github.com/Wack0/entii-for-workcubes"
-    ]
-  ],
-  [
-    [
-      "2025-03-01, 08:19:11",
-      "https://news.ycombinator.com/item?id=43217209"
-    ],
-    [
-      "The cost of Go's panic and recover",
-      "https://jub0bs.com/posts/2025-02-28-cost-of-panic-recover/"
     ]
   ],
   [
