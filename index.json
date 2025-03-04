@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-04, 14:02:18",
+      "https://news.ycombinator.com/item?id=43254714"
+    ],
+    [
+      "Apple introduces iPad Air with powerful M3 chip and new Magic Keyboard",
+      "https://www.apple.com/newsroom/2025/03/apple-introduces-ipad-air-with-powerful-m3-chip-and-new-magic-keyboard/"
+    ]
+  ],
+  [
+    [
+      "2025-03-04, 13:50:26",
+      "https://news.ycombinator.com/item?id=43254552"
+    ],
+    [
+      "Tips for using Gemini 2.0 for PDF ingestion",
+      "https://www.sergey.fyi/articles/gemini-flash-2-tips"
+    ]
+  ],
+  [
+    [
       "2025-03-04, 13:05:53",
       "https://news.ycombinator.com/item?id=43254012"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-03-03, 18:45:42",
-      "https://news.ycombinator.com/item?id=43245235"
-    ],
-    [
-      "How the U.K. broke its own economy",
-      "https://www.theatlantic.com/ideas/archive/2025/03/uk-needs-abundance/681877/"
-    ]
-  ],
-  [
-    [
       "2025-03-03, 18:39:32",
       "https://news.ycombinator.com/item?id=43245153"
     ],
@@ -177,26 +187,6 @@
     [
       "TSMC expected to announce $100B investment in U.S.",
       "https://www.wsj.com/tech/trump-chip-maker-tsmc-expected-to-announce-100-billion-investment-in-u-s-02a44399"
-    ]
-  ],
-  [
-    [
-      "2025-03-03, 16:38:50",
-      "https://news.ycombinator.com/item?id=43243549"
-    ],
-    [
-      "Go-attention: A full attention mechanism and transformer in pure Go",
-      "https://github.com/takara-ai/go-attention"
-    ]
-  ],
-  [
-    [
-      "2025-03-03, 16:06:50",
-      "https://news.ycombinator.com/item?id=43243109"
-    ],
-    [
-      "An Attempt to Catch Up with JIT Compilers",
-      "https://arxiv.org/abs/2502.20547"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Ohio One Construction Timeline Update",
       "https://newsroom.intel.com/corporate/ohio-one-construction-timeline-update"
+    ]
+  ],
+  [
+    [
+      "2025-02-28, 17:25:06",
+      "https://news.ycombinator.com/item?id=43208096"
+    ],
+    [
+      "Enhancing Frame Detection with Retrieval Augmented Generation",
+      "https://arxiv.org/abs/2502.12210"
     ]
   ],
   [
