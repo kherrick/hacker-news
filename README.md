@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-04, 15:24:32](https://news.ycombinator.com/item?id=43255855) - [Show HN: Appstat – Process Monitor for Windows](https://pragmar.com/appstat/)
 * [2025-03-04, 15:02:39](https://news.ycombinator.com/item?id=43255556) - [Father tries to block daughter's euthanasia in landmark Spanish case](https://www.bbc.com/news/articles/crrdqdky9gxo)
 * [2025-03-04, 15:00:51](https://news.ycombinator.com/item?id=43255529) - [Bayleaf · Building a low-profile wireless split keyboard](https://www.graz.io/articles/bayleaf-wireless-keyboard)
 * [2025-03-04, 14:57:06](https://news.ycombinator.com/item?id=43255467) - [DiffRhythm: Fast End-to-End Full-Length Song Generation with Latent Diffusion](https://aslp-lab.github.io/DiffRhythm.github.io/)
@@ -16,7 +17,6 @@
 * [2025-03-03, 18:39:32](https://news.ycombinator.com/item?id=43245153) - [Launch HN: Cuckoo (YC W25) – Real-time AI translator for global teams](https://news.ycombinator.com/item?id=43245153)
 * [2025-03-03, 18:06:17](https://news.ycombinator.com/item?id=43244739) - [Hacking the Xbox 360 Hypervisor Part 2: The Bad Update Exploit](https://icode4.coffee/?p=1081)
 * [2025-03-03, 17:29:12](https://news.ycombinator.com/item?id=43244307) - [SQLite-on-the-server is misunderstood: Better at hyper-scale than micro-scale](https://rivet.gg/blog/2025-02-16-sqlite-on-the-server-is-misunderstood)
-* [2025-03-03, 17:03:03](https://news.ycombinator.com/item?id=43243914) - [The power of interning: making a time series database smaller](https://gendignoux.com/blog/2025/03/03/rust-interning-2000x.html)
 * [2025-03-03, 17:01:59](https://news.ycombinator.com/item?id=43243893) - [Show HN: Agents.json – OpenAPI Specification for LLMs](https://github.com/wild-card-ai/agents-json)
 * [2025-03-03, 16:51:33](https://news.ycombinator.com/item?id=43243716) - [The Golden Age of Japanese Pencils (2022)](https://notes.stlartsupply.com/the-golden-age-of-japanese-pencils-1952-1967/)
 * [2025-03-03, 16:40:34](https://news.ycombinator.com/item?id=43243580) - [TSMC expected to announce $100B investment in U.S.](https://www.wsj.com/tech/trump-chip-maker-tsmc-expected-to-announce-100-billion-investment-in-u-s-02a44399)

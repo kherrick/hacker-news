@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-04](index.md)
 
+* [2025-03-04, 15:24:32](https://news.ycombinator.com/item?id=43255855) - [Show HN: Appstat – Process Monitor for Windows](https://pragmar.com/appstat/)
 * [2025-03-04, 15:02:39](https://news.ycombinator.com/item?id=43255556) - [Father tries to block daughter's euthanasia in landmark Spanish case](https://www.bbc.com/news/articles/crrdqdky9gxo)
 * [2025-03-04, 15:00:51](https://news.ycombinator.com/item?id=43255529) - [Bayleaf · Building a low-profile wireless split keyboard](https://www.graz.io/articles/bayleaf-wireless-keyboard)
 * [2025-03-04, 14:57:06](https://news.ycombinator.com/item?id=43255467) - [DiffRhythm: Fast End-to-End Full-Length Song Generation with Latent Diffusion](https://aslp-lab.github.io/DiffRhythm.github.io/)
