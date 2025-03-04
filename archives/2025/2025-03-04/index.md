@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-04](index.md)
 
+* [2025-03-04, 12:14:36](https://news.ycombinator.com/item?id=43253562) - [Federal workers ordered to return to offices without desks, Wi-Fi and lights](https://www.cnn.com/2025/03/04/politics/federal-employees-return-to-office-problems/index.html)
+* [2025-03-04, 12:00:32](https://news.ycombinator.com/item?id=43253463) - [Trellis (YC W24) Is Hiring Eng to Build the Best AI Agents for PDF](https://runtrellis.com/)
+* [2025-03-04, 11:51:47](https://news.ycombinator.com/item?id=43253407) - [Italy moves to reverse anti-nuclear stance](https://www.world-nuclear-news.org/articles/cabinet-moves-to-reverse-italys-anti-nuclear-stance)
 * [2025-03-04, 09:40:47](https://news.ycombinator.com/item?id=43252479) - [Grok Is Having an Outage](https://status.x.ai/)
 * [2025-03-04, 09:37:15](https://news.ycombinator.com/item?id=43252445) - [Anthropic's valuation triples to $61.5B in bumper AI funding round](https://www.ft.com/content/05c90475-84fb-4f88-bbfc-6b1a60af90db)
 * [2025-03-04, 08:09:22](https://news.ycombinator.com/item?id=43251762) - [Mozilla rewrites Firefox's Terms of Use after user backlash](https://techcrunch.com/2025/03/03/mozilla-rewrites-firefoxs-terms-of-use-after-user-backlash/)
