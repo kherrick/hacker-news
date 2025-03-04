@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-03-04, 15:27:01",
-      "https://news.ycombinator.com/item?id=43255895"
-    ],
-    [
-      "Ride into the Future with Waymo on Uber in Austin",
-      "https://www.uber.com/newsroom/waymo-on-uber-austin/"
-    ]
-  ],
-  [
-    [
       "2025-03-04, 15:24:32",
       "https://news.ycombinator.com/item?id=43255855"
     ],
@@ -71,16 +61,6 @@
   ],
   [
     [
-      "2025-03-04, 14:31:18",
-      "https://news.ycombinator.com/item?id=43255108"
-    ],
-    [
-      "Tattoo ink exposure is associated with lymphoma and skin cancers",
-      "https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-025-21413-3"
-    ]
-  ],
-  [
-    [
       "2025-03-04, 13:05:53",
       "https://news.ycombinator.com/item?id=43254012"
     ],
@@ -97,16 +77,6 @@
     [
       "Trellis (YC W24) Is Hiring Eng to Build the Best AI Agents for PDF",
       "https://runtrellis.com/"
-    ]
-  ],
-  [
-    [
-      "2025-03-04, 11:16:47",
-      "https://news.ycombinator.com/item?id=43253167"
-    ],
-    [
-      "How Google tracks Android device users before they've even opened an app",
-      "https://www.theregister.com/2025/03/04/google_android/"
     ]
   ],
   [
@@ -181,6 +151,16 @@
   ],
   [
     [
+      "2025-03-03, 17:03:03",
+      "https://news.ycombinator.com/item?id=43243914"
+    ],
+    [
+      "The power of interning: making a time series database smaller",
+      "https://gendignoux.com/blog/2025/03/03/rust-interning-2000x.html"
+    ]
+  ],
+  [
+    [
       "2025-03-03, 17:01:59",
       "https://news.ycombinator.com/item?id=43243893"
     ],
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2025-03-03, 16:06:50",
+      "https://news.ycombinator.com/item?id=43243109"
+    ],
+    [
+      "An Attempt to Catch Up with JIT Compilers",
+      "https://arxiv.org/abs/2502.20547"
+    ]
+  ],
+  [
+    [
       "2025-03-03, 16:01:41",
       "https://news.ycombinator.com/item?id=43243024"
     ],
@@ -231,12 +221,42 @@
   ],
   [
     [
+      "2025-03-03, 16:01:41",
+      "https://news.ycombinator.com/item?id=43243022"
+    ],
+    [
+      "Ask HN: Who wants to be hired? (March 2025)",
+      "https://news.ycombinator.com/item?id=43243022"
+    ]
+  ],
+  [
+    [
       "2025-03-03, 10:19:58",
       "https://news.ycombinator.com/item?id=43240301"
     ],
     [
       "The IBM 650: An appreciation from the field (1986) [pdf]",
       "https://ed-thelen.org/comp-hist/KnuthIBM650Appreciation.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-03-03, 06:27:55",
+      "https://news.ycombinator.com/item?id=43238893"
+    ],
+    [
+      "MIT 6.S184: Introduction to Flow Matching and Diffusion Models",
+      "https://diffusion.csail.mit.edu"
+    ]
+  ],
+  [
+    [
+      "2025-03-03, 05:29:02",
+      "https://news.ycombinator.com/item?id=43238570"
+    ],
+    [
+      "Show HN: FlakeUI",
+      "https://github.com/tearflake/flake-ui"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2025-02-28, 23:54:24",
-      "https://news.ycombinator.com/item?id=43213563"
-    ],
-    [
-      "Formation of organic glass from a human brain",
-      "https://www.nature.com/articles/s41598-025-88894-5"
-    ]
-  ],
-  [
-    [
       "2025-02-28, 17:25:06",
       "https://news.ycombinator.com/item?id=43208096"
     ],
     [
       "Enhancing Frame Detection with Retrieval Augmented Generation",
       "https://arxiv.org/abs/2502.12210"
-    ]
-  ],
-  [
-    [
-      "2025-02-28, 17:15:04",
-      "https://news.ycombinator.com/item?id=43207962"
-    ],
-    [
-      "The Meter, Golden Ratio, Pyramids, and Cubits, Oh My",
-      "https://www.iforgeiron.com/topic/60514-the-meter-golden-ratio-pyramids-and-cubits-oh-my/"
     ]
   ],
   [
