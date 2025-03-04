@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-04, 15:27:01](https://news.ycombinator.com/item?id=43255895) - [Ride into the Future with Waymo on Uber in Austin](https://www.uber.com/newsroom/waymo-on-uber-austin/)
 * [2025-03-04, 15:24:32](https://news.ycombinator.com/item?id=43255855) - [Show HN: Appstat – Process Monitor for Windows](https://pragmar.com/appstat/)
 * [2025-03-04, 15:02:39](https://news.ycombinator.com/item?id=43255556) - [Father tries to block daughter's euthanasia in landmark Spanish case](https://www.bbc.com/news/articles/crrdqdky9gxo)
 * [2025-03-04, 15:00:51](https://news.ycombinator.com/item?id=43255529) - [Bayleaf · Building a low-profile wireless split keyboard](https://www.graz.io/articles/bayleaf-wireless-keyboard)
 * [2025-03-04, 14:57:06](https://news.ycombinator.com/item?id=43255467) - [DiffRhythm: Fast End-to-End Full-Length Song Generation with Latent Diffusion](https://aslp-lab.github.io/DiffRhythm.github.io/)
 * [2025-03-04, 14:31:18](https://news.ycombinator.com/item?id=43255108) - [Tattoo ink exposure is associated with lymphoma and skin cancers](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-025-21413-3)
-* [2025-03-04, 14:02:18](https://news.ycombinator.com/item?id=43254714) - [Apple introduces iPad Air with powerful M3 chip and new Magic Keyboard](https://www.apple.com/newsroom/2025/03/apple-introduces-ipad-air-with-powerful-m3-chip-and-new-magic-keyboard/)
 * [2025-03-04, 13:05:53](https://news.ycombinator.com/item?id=43254012) - [Microsoft's new Dragon Copilot is an AI assistant for healthcare](https://www.theverge.com/news/622528/microsoft-dragon-copilot-ai-healthcare-assistant)
 * [2025-03-04, 12:00:32](https://news.ycombinator.com/item?id=43253463) - [Trellis (YC W24) Is Hiring Eng to Build the Best AI Agents for PDF](https://runtrellis.com/)
 * [2025-03-04, 11:16:47](https://news.ycombinator.com/item?id=43253167) - [How Google tracks Android device users before they've even opened an app](https://www.theregister.com/2025/03/04/google_android/)
