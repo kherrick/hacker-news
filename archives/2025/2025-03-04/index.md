@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-03-04](index.md)
 
+* [2025-03-04, 15:02:39](https://news.ycombinator.com/item?id=43255556) - [Father tries to block daughter's euthanasia in landmark Spanish case](https://www.bbc.com/news/articles/crrdqdky9gxo)
 * [2025-03-04, 15:00:51](https://news.ycombinator.com/item?id=43255529) - [Bayleaf · Building a low-profile wireless split keyboard](https://www.graz.io/articles/bayleaf-wireless-keyboard)
+* [2025-03-04, 14:57:06](https://news.ycombinator.com/item?id=43255467) - [DiffRhythm: Fast End-to-End Full-Length Song Generation with Latent Diffusion](https://aslp-lab.github.io/DiffRhythm.github.io/)
+* [2025-03-04, 14:31:18](https://news.ycombinator.com/item?id=43255108) - [Tattoo ink exposure is associated with lymphoma and skin cancers](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-025-21413-3)
 * [2025-03-04, 14:02:18](https://news.ycombinator.com/item?id=43254714) - [Apple introduces iPad Air with powerful M3 chip and new Magic Keyboard](https://www.apple.com/newsroom/2025/03/apple-introduces-ipad-air-with-powerful-m3-chip-and-new-magic-keyboard/)
 * [2025-03-04, 13:57:20](https://news.ycombinator.com/item?id=43254637) - [Tesla electric car sales plunge again in Australia – Model 3 down more than 81 p](https://thedriven.io/2025/03/04/tesla-electric-car-sales-plunge-again-in-australia-model-3-down-more-than-81-per-cent/)
 * [2025-03-04, 13:50:26](https://news.ycombinator.com/item?id=43254552) - [Tips for using Gemini 2.0 for PDF ingestion](https://www.sergey.fyi/articles/gemini-flash-2-tips)
