@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-04, 08:09:22](https://news.ycombinator.com/item?id=43251762) - [Mozilla rewrites Firefox's Terms of Use after user backlash](https://techcrunch.com/2025/03/03/mozilla-rewrites-firefoxs-terms-of-use-after-user-backlash/)
+* [2025-03-04, 09:37:15](https://news.ycombinator.com/item?id=43252445) - [Anthropic's valuation triples to $61.5B in bumper AI funding round](https://www.ft.com/content/05c90475-84fb-4f88-bbfc-6b1a60af90db)
 * [2025-03-04, 08:05:02](https://news.ycombinator.com/item?id=43251722) - [Why writing small docs is a game changer](https://bufferbuffer.com/why-writing-small-docs-is-a-game-changer/)
 * [2025-03-04, 03:55:00](https://news.ycombinator.com/item?id=43250093) - [Let’s code a TCP/IP stack, 1: Ethernet and ARP (2016)](https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
 * [2025-03-04, 01:28:37](https://news.ycombinator.com/item?id=43249068) - [Global sales of combustion engine cars have peaked](https://ourworldindata.org/data-insights/global-sales-of-combustion-engine-cars-have-peaked)
