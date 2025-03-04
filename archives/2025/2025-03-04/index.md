@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-04](index.md)
 
+* [2025-03-04, 13:05:53](https://news.ycombinator.com/item?id=43254012) - [Microsoft's new Dragon Copilot is an AI assistant for healthcare](https://www.theverge.com/news/622528/microsoft-dragon-copilot-ai-healthcare-assistant)
 * [2025-03-04, 12:28:13](https://news.ycombinator.com/item?id=43253674) - [PostmarketOS in 2025-02: MSM89x7 Audio, Modern Xiaomis in Community, New Name](https://postmarketos.org/blog/2025/03/04/pmOS-update-2025-02/)
 * [2025-03-04, 12:14:36](https://news.ycombinator.com/item?id=43253562) - [Federal workers ordered to return to offices without desks, Wi-Fi and lights](https://www.cnn.com/2025/03/04/politics/federal-employees-return-to-office-problems/index.html)
 * [2025-03-04, 12:00:32](https://news.ycombinator.com/item?id=43253463) - [Trellis (YC W24) Is Hiring Eng to Build the Best AI Agents for PDF](https://runtrellis.com/)

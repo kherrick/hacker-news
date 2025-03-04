@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-04, 13:05:53](https://news.ycombinator.com/item?id=43254012) - [Microsoft's new Dragon Copilot is an AI assistant for healthcare](https://www.theverge.com/news/622528/microsoft-dragon-copilot-ai-healthcare-assistant)
 * [2025-03-04, 12:28:13](https://news.ycombinator.com/item?id=43253674) - [PostmarketOS in 2025-02: MSM89x7 Audio, Modern Xiaomis in Community, New Name](https://postmarketos.org/blog/2025/03/04/pmOS-update-2025-02/)
 * [2025-03-04, 12:14:36](https://news.ycombinator.com/item?id=43253562) - [Federal workers ordered to return to offices without desks, Wi-Fi and lights](https://www.cnn.com/2025/03/04/politics/federal-employees-return-to-office-problems/index.html)
 * [2025-03-04, 12:00:32](https://news.ycombinator.com/item?id=43253463) - [Trellis (YC W24) Is Hiring Eng to Build the Best AI Agents for PDF](https://runtrellis.com/)
@@ -22,7 +23,6 @@
 * [2025-03-03, 16:04:13](https://news.ycombinator.com/item?id=43243075) - [Apple's Software Quality Crisis](https://www.eliseomartelli.it/blog/2025-03-02-apple-quality)
 * [2025-03-03, 16:01:41](https://news.ycombinator.com/item?id=43243024) - [Ask HN: Who is hiring? (March 2025)](https://news.ycombinator.com/item?id=43243024)
 * [2025-03-03, 10:19:58](https://news.ycombinator.com/item?id=43240301) - [The IBM 650: An appreciation from the field (1986) [pdf]](https://ed-thelen.org/comp-hist/KnuthIBM650Appreciation.pdf)
-* [2025-03-03, 05:29:02](https://news.ycombinator.com/item?id=43238570) - [Show HN: FlakeUI](https://github.com/tearflake/flake-ui)
 * [2025-03-01, 20:11:15](https://news.ycombinator.com/item?id=43223162) - [Ask HN: What less-popular systems programming language are you using?](https://news.ycombinator.com/item?id=43223162)
 * [2025-03-01, 17:47:27](https://news.ycombinator.com/item?id=43221633) - [Windows NT for GameCube/Wii](https://github.com/Wack0/entii-for-workcubes)
 * [2025-03-01, 08:19:11](https://news.ycombinator.com/item?id=43217209) - [The cost of Go's panic and recover](https://jub0bs.com/posts/2025-02-28-cost-of-panic-recover/)
