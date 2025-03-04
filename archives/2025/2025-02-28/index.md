@@ -11,6 +11,7 @@
 * [2025-02-28, 23:05:21](https://news.ycombinator.com/item?id=43212952) - [Why it's so hard to build a jet engine](https://www.construction-physics.com/p/why-its-so-hard-to-build-a-jet-engine)
 * [2025-02-28, 22:43:14](https://news.ycombinator.com/item?id=43212700) - [Political Bias on X before the 2025 German Federal Election](https://www.ucd.ie/cs/news/politicalbiasonxbeforethe2025germanfederalelection/)
 * [2025-02-28, 21:33:00](https://news.ycombinator.com/item?id=43211506) - [Brian Krebs: This Administration Is Completely Compromised](https://infosec.exchange/@briankrebs/114083485241630234)
+* [2025-02-28, 21:15:36](https://news.ycombinator.com/item?id=43211101) - [Ohio One Construction Timeline Update](https://newsroom.intel.com/corporate/ohio-one-construction-timeline-update)
 * [2025-02-28, 21:05:35](https://news.ycombinator.com/item?id=43210858) - [How to gain code execution on hundreds of millions of people and popular apps](https://kibty.town/blog/todesktop/)
 * [2025-02-28, 20:59:07](https://news.ycombinator.com/item?id=43210710) - [The swallow's flight, cardinal's color, mockingbird's song, hummingbird's nature](https://moultano.wordpress.com/2024/05/03/a-few-of-the-birds-i-love/)
 * [2025-02-28, 20:52:55](https://news.ycombinator.com/item?id=43210569) - [\"No, we are absolutely not prepared to [fork Firefox]\"](https://codeberg.org/librewolf/issues/issues/2252#issuecomment-2886286)

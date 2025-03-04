@@ -23,12 +23,12 @@
 * [2025-03-03, 16:01:41](https://news.ycombinator.com/item?id=43243024) - [Ask HN: Who is hiring? (March 2025)](https://news.ycombinator.com/item?id=43243024)
 * [2025-03-03, 16:01:41](https://news.ycombinator.com/item?id=43243022) - [Ask HN: Who wants to be hired? (March 2025)](https://news.ycombinator.com/item?id=43243022)
 * [2025-03-03, 15:43:20](https://news.ycombinator.com/item?id=43242818) - [Show HN: Knowledge graph of restaurants and chefs, built using LLMs](https://theophilecantelob.re/blog/2025/foudinge/)
-* [2025-03-03, 07:14:33](https://news.ycombinator.com/item?id=43239111) - [A float walks into a gradual type system](https://ruudvanasseldonk.com/2025/a-float-walks-into-a-gradual-type-system)
 * [2025-03-03, 05:29:02](https://news.ycombinator.com/item?id=43238570) - [Show HN: FlakeUI](https://github.com/tearflake/flake-ui)
 * [2025-03-03, 03:16:22](https://news.ycombinator.com/item?id=43237942) - [The Cocaine Files](https://www.cbc.ca/newsinteractives/features/the-cocaine-files)
 * [2025-03-02, 16:28:38](https://news.ycombinator.com/item?id=43232057) - [The weird Hewlett Packard FreeDOS option (2022)](https://blog.tmm.cx/2022/05/15/the-very-weird-hewlett-packard-freedos-option/)
 * [2025-03-01, 20:11:15](https://news.ycombinator.com/item?id=43223162) - [Ask HN: What less-popular systems programming language are you using?](https://news.ycombinator.com/item?id=43223162)
 * [2025-02-28, 23:23:56](https://news.ycombinator.com/item?id=43213167) - [Ask HN: Replacement for Rackspace SMTP Hosting?](https://news.ycombinator.com/item?id=43213167)
+* [2025-02-28, 21:15:36](https://news.ycombinator.com/item?id=43211101) - [Ohio One Construction Timeline Update](https://newsroom.intel.com/corporate/ohio-one-construction-timeline-update)
 * [2025-02-28, 15:24:48](https://news.ycombinator.com/item?id=43206622) - [Another Conflict Between Privacy Laws and Age Authentication–Murphy v Confirm ID](https://blog.ericgoldman.org/archives/2025/02/another-conflict-between-privacy-laws-and-age-authentication-murphy-v-confirm-id.htm)
 
 ## [Archives](archives/index.md)
