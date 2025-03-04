@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-04](index.md)
 
+* [2025-03-04, 20:03:49](https://news.ycombinator.com/item?id=43259292) - [Oil drilling in the mouth of the Amazon – Lula on a course to disaster](https://news.mongabay.com/2025/02/oil-drilling-in-the-mouth-of-the-amazon-lula-on-a-course-to-disaster-commentary/)
+* [2025-03-04, 20:02:26](https://news.ycombinator.com/item?id=43259279) - [Economic and Market Data Signal a Recession Is Coming](https://www.forbes.com/sites/mayrarodriguezvalladares/2025/03/04/economic-and-market-data-signal-a-recession-is-coming/)
 * [2025-03-04, 19:05:43](https://news.ycombinator.com/item?id=43258709) - [Why FastDoom Is Fast](https://fabiensanglard.net/fastdoom/index.html)
 * [2025-03-04, 18:53:44](https://news.ycombinator.com/item?id=43258585) - [Show HN: Time travel debugging AI for more reliable vibe coding](https://nut.new)
 * [2025-03-04, 18:12:12](https://news.ycombinator.com/item?id=43258104) - [The Imaginary Engineer – Karl Hans Janke's Flights of Fancy](https://www.cabinetmagazine.org/issues/29/lee.php)

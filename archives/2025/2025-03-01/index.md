@@ -61,6 +61,7 @@
 * [2025-03-01, 08:44:16](https://news.ycombinator.com/item?id=43217357) - [Yes, Claude Code can decompile itself. Here's the source code](https://ghuntley.com/tradecraft/)
 * [2025-03-01, 08:38:12](https://news.ycombinator.com/item?id=43217309) - [Google does not want rights to things you do using Chrome (2008)](https://www.mattcutts.com/blog/google-chrome-license-agreement/)
 * [2025-03-01, 08:32:34](https://news.ycombinator.com/item?id=43217280) - [How long can you balance a pencil?](http://thevirtuosi.blogspot.com/2010/06/how-long-can-you-balance-quantum-pencil.html)
+* [2025-03-01, 08:29:48](https://news.ycombinator.com/item?id=43217264) - [Chip-8 Archive](https://johnearnest.github.io/chip8Archive/)
 * [2025-03-01, 08:19:11](https://news.ycombinator.com/item?id=43217209) - [The cost of Go's panic and recover](https://jub0bs.com/posts/2025-02-28-cost-of-panic-recover/)
 * [2025-03-01, 08:17:29](https://news.ycombinator.com/item?id=43217195) - [Emacs Tree-sitter custom highlighting](https://amitp.blogspot.com/2025/02/emacs-tree-sitter-custom-highlighting.html)
 * [2025-03-01, 08:12:45](https://news.ycombinator.com/item?id=43217165) - [Salty game dev comments, easier mods are in Command and Conquer's source code](https://arstechnica.com/gaming/2025/02/command-conquer-source-release-promises-more-mods-and-updates-for-rts-legend/)
