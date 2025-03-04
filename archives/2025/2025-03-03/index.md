@@ -48,6 +48,7 @@
 * [2025-03-03, 15:53:16](https://news.ycombinator.com/item?id=43242921) - [Drone Delivery for Defense](https://seanobannon.substack.com/p/drone-delivery-for-defense)
 * [2025-03-03, 15:43:20](https://news.ycombinator.com/item?id=43242818) - [Show HN: Knowledge graph of restaurants and chefs using LLMs](https://theophilecantelob.re/blog/2025/foudinge/)
 * [2025-03-03, 15:43:00](https://news.ycombinator.com/item?id=43242815) - [Youth and what happens when it's gone](https://tolstoyan.substack.com/p/youth)
+* [2025-03-03, 15:18:22](https://news.ycombinator.com/item?id=43242551) - [Show HN: Open-source Deep Research across workplace applications](https://github.com/onyx-dot-app/onyx)
 * [2025-03-03, 14:24:14](https://news.ycombinator.com/item?id=43242019) - [SOTA Code Retrieval with Efficient Code Embedding Models](https://www.qodo.ai/blog/qodo-embed-1-code-embedding-code-retreival/)
 * [2025-03-03, 14:24:10](https://news.ycombinator.com/item?id=43242017) - [The quest to find and save the Vasa](https://www.mentalfloss.com/article/568289/vasa-quest-to-save-most-famous-shipwreck)
 * [2025-03-03, 14:10:44](https://news.ycombinator.com/item?id=43241880) - [The weird afterlife of Xbox Kinect](https://www.theguardian.com/games/2025/mar/03/ghost-hunting-pornography-and-interactive-art-the-weird-afterlife-of-xbox-kinect)
