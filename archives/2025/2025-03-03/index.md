@@ -60,6 +60,7 @@
 * [2025-03-03, 08:20:45](https://news.ycombinator.com/item?id=43239526) - [Phlex for Rails Emails: Action Mailer Without ERB](https://camillovisini.com/coding/phlex-for-rails-emails-action-mailer-without-erb)
 * [2025-03-03, 07:42:10](https://news.ycombinator.com/item?id=43239249) - [The top 10% owns 87% of the stocks](https://awealthofcommonsense.com/2025/02/the-top-10/)
 * [2025-03-03, 07:21:58](https://news.ycombinator.com/item?id=43239145) - [Permacomputing](https://permacomputing.net/)
+* [2025-03-03, 07:14:33](https://news.ycombinator.com/item?id=43239111) - [A float walks into a gradual type system](https://ruudvanasseldonk.com/2025/a-float-walks-into-a-gradual-type-system)
 * [2025-03-03, 06:27:55](https://news.ycombinator.com/item?id=43238893) - [MIT 6.S184: Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu)
 * [2025-03-03, 06:00:31](https://news.ycombinator.com/item?id=43238753) - [Alibaba Launches C930 RISC-V Chip Amid Shift from Western Tech](https://www.hpcwire.com/2025/02/28/alibaba-launches-c930-risc-v-chip-amid-shift-from-western-tech/)
 * [2025-03-03, 05:29:02](https://news.ycombinator.com/item?id=43238570) - [FlakeUI](https://github.com/tearflake/flake-ui)
