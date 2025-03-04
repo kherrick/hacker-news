@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=43258709"
     ],
     [
-      "Why FastDoom Is Fast",
+      "Why fastDOOM is fast",
       "https://fabiensanglard.net/fastdoom/index.html"
     ]
   ],
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=43257719"
     ],
     [
-      "Translating Natural Language to First-Order Logic for Logical Fallacy Detection",
+      "Translating natural language to first-order logic for logical fallacy detection",
       "https://arxiv.org/abs/2405.02318"
     ]
   ],
@@ -185,7 +185,7 @@
       "https://news.ycombinator.com/item?id=43254995"
     ],
     [
-      "What a Crab Sees Before It Gets Eaten by a Cuttlefish",
+      "What a crab sees before it gets eaten by a cuttlefish",
       "https://www.nytimes.com/2025/03/03/science/cuttlefish-camouflage-huting-crabs.html"
     ]
   ],
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2025-03-01, 11:44:18",
+      "https://news.ycombinator.com/item?id=43218343"
+    ],
+    [
+      "A Map of Python",
+      "https://fi-le.net/pypi/"
+    ]
+  ],
+  [
+    [
       "2025-03-01, 09:18:02",
       "https://news.ycombinator.com/item?id=43217546"
     ],
@@ -287,16 +297,6 @@
     [
       "Micro keypad to do your regular Git push/pull/add/commit actions",
       "https://www.gitsyncpad.xyz/"
-    ]
-  ],
-  [
-    [
-      "2025-02-28, 20:15:51",
-      "https://news.ycombinator.com/item?id=43209878"
-    ],
-    [
-      "Notorious Malware, Spam Host \"Prospero\" Moves to Kaspersky Lab",
-      "https://krebsonsecurity.com/2025/02/notorious-malware-spam-host-prospero-moves-to-kaspersky-lab/"
     ]
   ]
 ]
