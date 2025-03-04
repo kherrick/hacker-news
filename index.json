@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-04, 20:03:49",
+      "https://news.ycombinator.com/item?id=43259292"
+    ],
+    [
+      "Oil drilling in the mouth of the Amazon – Lula on a course to disaster",
+      "https://news.mongabay.com/2025/02/oil-drilling-in-the-mouth-of-the-amazon-lula-on-a-course-to-disaster-commentary/"
+    ]
+  ],
+  [
+    [
+      "2025-03-04, 20:02:26",
+      "https://news.ycombinator.com/item?id=43259279"
+    ],
+    [
+      "Economic and Market Data Signal a Recession Is Coming",
+      "https://www.forbes.com/sites/mayrarodriguezvalladares/2025/03/04/economic-and-market-data-signal-a-recession-is-coming/"
+    ]
+  ],
+  [
+    [
       "2025-03-04, 19:05:43",
       "https://news.ycombinator.com/item?id=43258709"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-03-03, 17:29:12",
-      "https://news.ycombinator.com/item?id=43244307"
-    ],
-    [
-      "SQLite-on-the-server is misunderstood: Better at hyper-scale than micro-scale",
-      "https://rivet.gg/blog/2025-02-16-sqlite-on-the-server-is-misunderstood"
-    ]
-  ],
-  [
-    [
       "2025-03-03, 16:40:34",
       "https://news.ycombinator.com/item?id=43243580"
     ],
@@ -221,32 +231,12 @@
   ],
   [
     [
-      "2025-03-03, 16:01:41",
-      "https://news.ycombinator.com/item?id=43243024"
-    ],
-    [
-      "Ask HN: Who is hiring? (March 2025)",
-      "https://news.ycombinator.com/item?id=43243024"
-    ]
-  ],
-  [
-    [
       "2025-03-03, 15:18:22",
       "https://news.ycombinator.com/item?id=43242551"
     ],
     [
       "Show HN: Open-source Deep Research across workplace applications",
       "https://github.com/onyx-dot-app/onyx"
-    ]
-  ],
-  [
-    [
-      "2025-03-03, 10:19:58",
-      "https://news.ycombinator.com/item?id=43240301"
-    ],
-    [
-      "The IBM 650: An appreciation from the field (1986) [pdf]",
-      "https://ed-thelen.org/comp-hist/KnuthIBM650Appreciation.pdf"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Show HN: PG-Capture – a better way to sync Postgres with Algolia (or Elastic)",
       "https://pg-capture.onrender.com/"
+    ]
+  ],
+  [
+    [
+      "2025-03-01, 08:29:48",
+      "https://news.ycombinator.com/item?id=43217264"
+    ],
+    [
+      "Chip-8 Archive",
+      "https://johnearnest.github.io/chip8Archive/"
     ]
   ],
   [
