@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-04, 21:20:38](https://news.ycombinator.com/item?id=43259899) - [Some D0g3 Staffers Are Drawing Six-Figure Government Salaries](https://www.wired.com/story/doge-government-salaries-elon-musk/)
 * [2025-03-04, 19:52:38](https://news.ycombinator.com/item?id=43259182) - [ARC-AGI without pretraining](https://iliao2345.github.io/blog_posts/arc_agi_without_pretraining/arc_agi_without_pretraining.html)
 * [2025-03-04, 19:05:43](https://news.ycombinator.com/item?id=43258709) - [Why FastDoom Is Fast](https://fabiensanglard.net/fastdoom/index.html)
 * [2025-03-04, 18:53:44](https://news.ycombinator.com/item?id=43258585) - [Show HN: Time travel debugging AI for more reliable vibe coding](https://nut.new)
@@ -17,7 +18,6 @@
 * [2025-03-04, 15:35:57](https://news.ycombinator.com/item?id=43256022) - [Small German town starts testing geothermal power utilizing new techniques](https://apnews.com/article/energy-transition-gas-geothermal-geretsried-germany-heat-electricity-89a356c70851938963314b3882377247)
 * [2025-03-04, 15:24:32](https://news.ycombinator.com/item?id=43255855) - [Show HN: Appstat – Process Monitor for Windows](https://pragmar.com/appstat/)
 * [2025-03-04, 15:00:51](https://news.ycombinator.com/item?id=43255529) - [Show HN: Bayleaf – Building a low-profile wireless split keyboard](https://www.graz.io/articles/bayleaf-wireless-keyboard)
-* [2025-03-04, 14:55:14](https://news.ycombinator.com/item?id=43255446) - [DIY \"infinity contrast\" TV – with 100% recycled parts [video]](https://www.youtube.com/watch?v=qXrn4MqY1Wo)
 * [2025-03-04, 13:35:12](https://news.ycombinator.com/item?id=43254351) - [Show HN: Fork of Claude-code working with local and other LLM providers](https://github.com/dnakov/anon-kode)
 * [2025-03-04, 01:09:04](https://news.ycombinator.com/item?id=43248947) - [DeepSeek's smallpond: Bringing Distributed Computing to DuckDB](https://mehdio.substack.com/p/duckdb-goes-distributed-deepseeks)
 * [2025-03-04, 00:04:03](https://news.ycombinator.com/item?id=43248429) - [Lawrence of Arabia, Paul Atreides, and the roots of Frank Herbert's Dune (2021)](https://reactormag.com/lawrence-of-arabia-paul-atreides-and-the-roots-of-frank-herberts-dune/)
