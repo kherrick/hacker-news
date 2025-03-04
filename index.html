@@ -129,6 +129,176 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="43257583">
+          <h3>
+            <a class="item" href="https://davidwong.fr/blockbreakers/"
+              >Learn How to Break AES</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-03-04 @ 17:25:51</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43257583"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="43257436">
+          <h3>
+            <a class="item" href="https://www.calacademy.org/webcams/farallones"
+              >Farallon Islands live (and controllable) webcam</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-03-04 @ 17:12:53</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43257436"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="43257323">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=43257323"
+              >Launch HN: Enhanced Radar (YC W25) – A safety net for air traffic
+              control</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-03-04 @ 17:04:17</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43257323"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Recent weeks have put aviation safety on everyone’s mind, but
+                we’ve been thinking about this problem for years. Both of us are
+                pilots — we have 2,500 hours of flight time between us. Eric
+                flew professionally and holds a Gulfstream 280 type rating and
+                both FAA and EASA certificates. Kristian flies recreationally,
+                and before this worked on edge computer vision for satellites.
+              </p>
+              <p>
+                We know from our flying experience that air traffic management
+                is imperfect (every pilot can tell stories of that one time…),
+                so this felt like an obvious problem to work on.
+              </p>
+              <p>
+                Most accidents are the result of an overdetermined “accident
+                chain” (<a
+                  href="https://code7700.com/accident_investigation.htm"
+                  >https://code7700.com/accident_investigation.htm</a
+                >). The popular analogy here is the swiss cheese model, where
+                holes in every slice line up perfectly to cause an accident.
+                Often, at least one link in that chain is human error.
+              </p>
+              <p>
+                We’ll avoid dissecting this year’s tragedies and take a close
+                call from last April at DCA as an example:
+              </p>
+              <p>
+                The tower cleared JetBlue 1554 to depart on Runway 04, but
+                simultaneously a ground controller on a different frequency
+                cleared a Southwest jet to cross that same runway, putting them
+                on a collision course. Controllers noticed the conflict
+                unfolding and jumped in to yell at both aircraft to stop,
+                avoiding a collision with about 8 seconds to spare (<a
+                  href="https://www.youtube.com/watch?v=yooJmu30DxY"
+                  >https://www.youtube.com/watch?v=yooJmu30DxY</a
+                >).
+              </p>
+              <p>
+                Importantly, the error that caused this incident occurred
+                approximately 23 seconds before the conflict became obvious. In
+                this scenario, a good solution would be a system that
+                understands when an aircraft has been cleared to depart from a
+                runway, and then makes sure no aircraft are cleared to cross (or
+                are in fact crossing) that runway until the departing aircraft
+                is wheels-up. And so on.
+              </p>
+              <p>
+                To do this, we’ve developed Yeager, an ensemble of models
+                including state of the art speech-to-text that can understand
+                ATC audio. It’s trained on a large amount of our own labeled ATC
+                audio collected from our VHF receivers located at airports
+                around the US. We improve performance by injecting context such
+                as airport layout details, nearby/relevant navaids, and
+                information on all relevant aircraft captured via ADS-B.
+              </p>
+              <p>
+                Our product piggy-backs on the raw signal in the air (VHF radio
+                from towers to pilots) by having our own antennas, radios, and
+                software installed at the airport. This system is completely
+                parallel to existing infrastructure, requires zero permission,
+                and zero integration. It’s an extra safety net over existing
+                systems (no replacement required). All the data we need is
+                open-source and unencrypted.
+              </p>
+              <p>
+                Building models for processing ATC speech is our first step
+                toward building a safety net that detects human error (by both
+                pilots and ATC). The latest system transcribes the VHF control
+                audio at about ~1.1% WER (Word Error Rate), down from a previous
+                record of ~9%. We’re using these transcripts with NLP and ADS-B
+                (the system that tracks aircraft positions in real time) for
+                readback detection (ensuring pilots correctly repeat ATC
+                instructions) and command compliance.
+              </p>
+              <p>
+                There are different views about the future of ATC. Our product
+                is naturally based on our own convictions and experience in the
+                field. For example, it’s sometimes said that voice comms are
+                going away — we think they aren’t (<a
+                  href="https://www.ericbutton.co/p/speech"
+                  >https://www.ericbutton.co/p/speech</a
+                >). People also point out that airplanes are going to fly
+                themselves — in fact they already do. But passenger airlines,
+                for example, will keep a pilot onboard (or on the ground) with
+                ultimate control, for a long time from now; the economics and
+                politics and mind-boggling safety and legal standards for
+                aviation make this inevitable. Also, while next-gen ATC systems
+                like ASDE-X are already in place, they don’t eliminate the
+                problem. The April 2024 scenario mentioned above occurred at
+                DCA, an ASDE-X-equipped airport.
+              </p>
+              <p>
+                America has more than 5,000 public-use airports, but only 540 of
+                these have control towers (due to cost). As a result, there are
+                over 100 commercial airline routes that fly into uncontrolled
+                airports, and 4.4M landings at these fields. Air traffic control
+                from first principles looks significantly more automated, more
+                remote-controlled, and much cheaper — and as a result, much more
+                widespread.
+              </p>
+              <p>
+                We’ve known each other for 3 years, and decided independently
+                that we needed to work on air traffic. Having started on this,
+                we feel like it’s our mission for the next decade or two.
+              </p>
+              <p>
+                If you’re a pilot or an engineer who’s thought about this stuff,
+                we’d love to get your input. We look forward to hearing
+                everyone’s thoughts, questions, ideas!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="43257268">
           <h3>
             <a
@@ -159,11 +329,11 @@
             <h4>
               <span>2025-03-04 @ 15:56:58</span
               ><span class="points-container"
-                >Points: <span class="points">70</span></span
+                >Points: <span class="points">76</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43256349"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -178,11 +348,32 @@
             <h4>
               <span>2025-03-04 @ 15:54:30</span
               ><span class="points-container"
-                >Points: <span class="points">171</span></span
+                >Points: <span class="points">181</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43256298"
                   >Comments</a
                 ><span class="descendants">: 44</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="43256113">
+          <h3>
+            <a
+              class="item"
+              href="https://theengineeringmanager.substack.com/p/should-managers-still-code"
+              >Should Managers Still Code?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-03-04 @ 15:41:12</span
+              ><span class="points-container"
+                >Points: <span class="points">22</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43256113"
+                  >Comments</a
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -197,11 +388,11 @@
             <h4>
               <span>2025-03-04 @ 15:24:32</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43255855"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
             <div class="text">
@@ -226,11 +417,11 @@
             <h4>
               <span>2025-03-04 @ 15:00:51</span
               ><span class="points-container"
-                >Points: <span class="points">225</span></span
+                >Points: <span class="points">234</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43255529"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -248,11 +439,11 @@
             <h4>
               <span>2025-03-04 @ 14:57:06</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43255467"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -267,7 +458,7 @@
             <h4>
               <span>2025-03-04 @ 14:55:14</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43255446"
                   >Comments</a
@@ -276,24 +467,22 @@
             </h4>
           </section>
         </section>
-        <section id="43254012">
+        <section id="43254351">
           <h3>
-            <a
-              class="item"
-              href="https://www.theverge.com/news/622528/microsoft-dragon-copilot-ai-healthcare-assistant"
-              >Microsoft's new Dragon Copilot is an AI assistant for
-              healthcare</a
+            <a class="item" href="https://github.com/dnakov/anon-kode"
+              >Show HN: Fork of Claude-code working with local and other LLM
+              providers</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-03-04 @ 13:05:53</span
+              <span>2025-03-04 @ 13:35:12</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43254012"
+                ><a href="https://news.ycombinator.com/item?id=43254351"
                   >Comments</a
-                ><span class="descendants">: 72</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -310,11 +499,11 @@
             <h4>
               <span>2025-03-04 @ 01:09:04</span
               ><span class="points-container"
-                >Points: <span class="points">145</span></span
+                >Points: <span class="points">146</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43248947"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -332,11 +521,11 @@
             <h4>
               <span>2025-03-04 @ 00:04:03</span
               ><span class="points-container"
-                >Points: <span class="points">226</span></span
+                >Points: <span class="points">229</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43248429"
                   >Comments</a
-                ><span class="descendants">: 126</span></span
+                ><span class="descendants">: 129</span></span
               >
             </h4>
           </section>
@@ -353,7 +542,7 @@
             <h4>
               <span>2025-03-03 @ 21:19:56</span
               ><span class="points-container"
-                >Points: <span class="points">709</span></span
+                >Points: <span class="points">713</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43246892"
                   >Comments</a
@@ -394,7 +583,7 @@
             <h4>
               <span>2025-03-03 @ 18:39:32</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43245153"
                   >Comments</a
@@ -500,7 +689,7 @@
             <h4>
               <span>2025-03-03 @ 18:06:17</span
               ><span class="points-container"
-                >Points: <span class="points">243</span></span
+                >Points: <span class="points">245</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43244739"
                   >Comments</a
@@ -526,7 +715,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43244307"
                   >Comments</a
-                ><span class="descendants">: 139</span></span
+                ><span class="descendants">: 141</span></span
               >
             </h4>
           </section>
@@ -541,7 +730,7 @@
             <h4>
               <span>2025-03-03 @ 17:01:59</span
               ><span class="points-container"
-                >Points: <span class="points">176</span></span
+                >Points: <span class="points">178</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43243893"
                   >Comments</a
@@ -670,7 +859,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43243716"
                   >Comments</a
-                ><span class="descendants">: 93</span></span
+                ><span class="descendants">: 95</span></span
               >
             </h4>
           </section>
@@ -687,11 +876,11 @@
             <h4>
               <span>2025-03-03 @ 16:40:34</span
               ><span class="points-container"
-                >Points: <span class="points">360</span></span
+                >Points: <span class="points">362</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43243580"
                   >Comments</a
-                ><span class="descendants">: 726</span></span
+                ><span class="descendants">: 736</span></span
               >
             </h4>
           </section>
@@ -707,30 +896,11 @@
             <h4>
               <span>2025-03-03 @ 16:38:50</span
               ><span class="points-container"
-                >Points: <span class="points">149</span></span
+                >Points: <span class="points">151</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43243549"
                   >Comments</a
-                ><span class="descendants">: 67</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43243109">
-          <h3>
-            <a class="item" href="https://arxiv.org/abs/2502.20547"
-              >An Attempt to Catch Up with JIT Compilers</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-03-03 @ 16:06:50</span
-              ><span class="points-container"
-                >Points: <span class="points">176</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43243109"
-                  >Comments</a
-                ><span class="descendants">: 133</span></span
+                ><span class="descendants">: 68</span></span
               >
             </h4>
           </section>
@@ -745,11 +915,11 @@
             <h4>
               <span>2025-03-03 @ 16:01:41</span
               ><span class="points-container"
-                >Points: <span class="points">349</span></span
+                >Points: <span class="points">352</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43243024"
                   >Comments</a
-                ><span class="descendants">: 321</span></span
+                ><span class="descendants">: 322</span></span
               >
             </h4>
             <div class="text">
@@ -807,47 +977,6 @@
             </div>
           </section>
         </section>
-        <section id="43243022">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=43243022"
-              >Ask HN: Who wants to be hired? (March 2025)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-03-03 @ 16:01:41</span
-              ><span class="points-container"
-                >Points: <span class="points">162</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43243022"
-                  >Comments</a
-                ><span class="descendants">: 367</span></span
-              >
-            </h4>
-            <div class="text">
-              <p></p>
-              <pre><code>  Location:
-  Remote:
-  Willing to relocate:
-  Technologies:
-  Résumé/CV:
-  Email:
-</code></pre>
-              Please only post if you are personally looking for work. Agencies,
-              recruiters, job boards, and so on, are off topic here.
-              <p>
-                Readers: please only email these addresses to discuss work
-                opportunities.
-              </p>
-              <p>
-                There's a site for searching these posts at
-                <a href="https://www.wantstobehired.com"
-                  >https://www.wantstobehired.com</a
-                >.
-              </p>
-            </div>
-          </section>
-        </section>
         <section id="43240301">
           <h3>
             <a
@@ -864,45 +993,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43240301"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43238893">
-          <h3>
-            <a class="item" href="https://diffusion.csail.mit.edu"
-              >MIT 6.S184: Introduction to Flow Matching and Diffusion Models</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-03-03 @ 06:27:55</span
-              ><span class="points-container"
-                >Points: <span class="points">363</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43238893"
-                  >Comments</a
-                ><span class="descendants">: 21</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43238570">
-          <h3>
-            <a class="item" href="https://github.com/tearflake/flake-ui"
-              >Show HN: FlakeUI</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-03-03 @ 05:29:02</span
-              ><span class="points-container"
-                >Points: <span class="points">128</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43238570"
-                  >Comments</a
-                ><span class="descendants">: 49</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -918,11 +1009,11 @@
             <h4>
               <span>2025-03-01 @ 20:11:15</span
               ><span class="points-container"
-                >Points: <span class="points">218</span></span
+                >Points: <span class="points">219</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43223162"
                   >Comments</a
-                ><span class="descendants">: 290</span></span
+                ><span class="descendants">: 293</span></span
               >
             </h4>
             <div class="text">
@@ -954,11 +1045,11 @@
             <h4>
               <span>2025-03-01 @ 17:47:27</span
               ><span class="points-container"
-                >Points: <span class="points">173</span></span
+                >Points: <span class="points">178</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43221633"
                   >Comments</a
-                ><span class="descendants">: 49</span></span
+                ><span class="descendants">: 51</span></span
               >
             </h4>
           </section>
@@ -1011,7 +1102,7 @@
             <h4>
               <span>2025-02-28 @ 17:25:06</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43208096"
                   >Comments</a
