@@ -62,6 +62,7 @@
 * [2025-03-01, 08:32:34](https://news.ycombinator.com/item?id=43217280) - [How long can you balance a pencil?](http://thevirtuosi.blogspot.com/2010/06/how-long-can-you-balance-quantum-pencil.html)
 * [2025-03-01, 08:17:29](https://news.ycombinator.com/item?id=43217195) - [Emacs Tree-sitter custom highlighting](https://amitp.blogspot.com/2025/02/emacs-tree-sitter-custom-highlighting.html)
 * [2025-03-01, 06:24:47](https://news.ycombinator.com/item?id=43216518) - [Looking Back at Speculative Decoding](https://research.google/blog/looking-back-at-speculative-decoding/)
+* [2025-03-01, 05:55:24](https://news.ycombinator.com/item?id=43216399) - [4 mains or nothing at all](https://andrews.substack.com/p/4-mains-or-nothing-at-all)
 * [2025-03-01, 04:50:15](https://news.ycombinator.com/item?id=43216043) - [The Nabataeans Are Coming](https://www.historytoday.com/archive/behind-times/nabataeans-are-coming)
 * [2025-03-01, 04:35:50](https://news.ycombinator.com/item?id=43215947) - [Designing space hardware is hard [video]](https://www.youtube.com/watch?v=kXa0vUy2Tlg)
 * [2025-03-01, 04:10:46](https://news.ycombinator.com/item?id=43215781) - [Zen 5's AVX-512 Frequency Behavior](https://chipsandcheese.com/p/zen-5s-avx-512-frequency-behavior)
