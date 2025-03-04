@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-04](index.md)
 
+* [2025-03-04, 19:05:43](https://news.ycombinator.com/item?id=43258709) - [Why FastDoom Is Fast](https://fabiensanglard.net/fastdoom/index.html)
 * [2025-03-04, 18:12:12](https://news.ycombinator.com/item?id=43258104) - [The Imaginary Engineer – Karl Hans Janke's Flights of Fancy](https://www.cabinetmagazine.org/issues/29/lee.php)
 * [2025-03-04, 18:05:44](https://news.ycombinator.com/item?id=43258026) - [Shaking the Earth: from volcanology to seismic surveys (2024)](https://www.lyellcollection.org/doi/full/10.1144/M60-2022-31)
 * [2025-03-04, 18:04:16](https://news.ycombinator.com/item?id=43258010) - [Who's Afraid of Tom Wolfe?](https://commonreader.wustl.edu/c/whos-afraid-of-tom-wolfe/)
@@ -12,6 +13,7 @@
 * [2025-03-04, 17:25:51](https://news.ycombinator.com/item?id=43257583) - [Learn How to Break AES](https://davidwong.fr/blockbreakers/)
 * [2025-03-04, 17:16:13](https://news.ycombinator.com/item?id=43257473) - [DARPA exploring growing bio structures of \"unprecedented size\" in microgravity](https://sam.gov/opp/426e5868fcf74dd4ada3768b00b09234/view)
 * [2025-03-04, 17:12:53](https://news.ycombinator.com/item?id=43257436) - [Farallon Islands live (and controllable) webcam](https://www.calacademy.org/webcams/farallones)
+* [2025-03-04, 17:06:53](https://news.ycombinator.com/item?id=43257358) - [The Inspection Paradox is Everywhere (2015 (but still relevant))](http://allendowney.blogspot.com/2015/08/the-inspection-paradox-is-everywhere.html)
 * [2025-03-04, 17:04:17](https://news.ycombinator.com/item?id=43257323) - [Launch HN: Enhanced Radar (YC W25) – A safety net for air traffic control](https://news.ycombinator.com/item?id=43257323)
 * [2025-03-04, 17:00:34](https://news.ycombinator.com/item?id=43257268) - [Foundry (YC F24) Hiring Founding Engineer to Build an Internet-Scale Web Crawler](https://www.ycombinator.com/companies/foundry/jobs/xtwLIsF-founding-engineer-large-scale-web-scraping-crawling)
 * [2025-03-04, 15:56:58](https://news.ycombinator.com/item?id=43256349) - [Satellogic's Open Satellite Feed](https://tech.marksblogg.com/satellogic-open-data-feed.html)
