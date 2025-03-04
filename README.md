@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-04, 09:40:47](https://news.ycombinator.com/item?id=43252479) - [Grok Is Having an Outage](https://status.x.ai/)
 * [2025-03-04, 08:05:02](https://news.ycombinator.com/item?id=43251722) - [Why writing small docs is a game changer](https://bufferbuffer.com/why-writing-small-docs-is-a-game-changer/)
 * [2025-03-04, 03:55:00](https://news.ycombinator.com/item?id=43250093) - [Let’s code a TCP/IP stack, 1: Ethernet and ARP (2016)](https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
 * [2025-03-04, 01:28:37](https://news.ycombinator.com/item?id=43249068) - [Global sales of combustion engine cars have peaked](https://ourworldindata.org/data-insights/global-sales-of-combustion-engine-cars-have-peaked)
@@ -29,6 +28,7 @@
 * [2025-03-01, 08:19:11](https://news.ycombinator.com/item?id=43217209) - [The cost of Go's panic and recover](https://jub0bs.com/posts/2025-02-28-cost-of-panic-recover/)
 * [2025-03-01, 03:53:05](https://news.ycombinator.com/item?id=43215673) - [AI can decode digital data stored in DNA in minutes instead of days](https://www.newscientist.com/article/2469449-ai-can-decode-digital-data-stored-in-dna-in-minutes-instead-of-days/)
 * [2025-02-28, 21:15:36](https://news.ycombinator.com/item?id=43211101) - [Ohio One Construction Timeline Update](https://newsroom.intel.com/corporate/ohio-one-construction-timeline-update)
+* [2025-02-28, 17:15:04](https://news.ycombinator.com/item?id=43207962) - [The Meter, Golden Ratio, Pyramids, and Cubits, Oh My](https://www.iforgeiron.com/topic/60514-the-meter-golden-ratio-pyramids-and-cubits-oh-my/)
 * [2025-02-28, 15:24:48](https://news.ycombinator.com/item?id=43206622) - [Another Conflict Between Privacy Laws and Age Authentication–Murphy v Confirm ID](https://blog.ericgoldman.org/archives/2025/02/another-conflict-between-privacy-laws-and-age-authentication-murphy-v-confirm-id.htm)
 
 ## [Archives](archives/index.md)
