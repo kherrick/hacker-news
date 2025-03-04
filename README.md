@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-04, 04:14:14](https://news.ycombinator.com/item?id=43250217) - [The Kill-or-Be-Killed Fight for Crypto's Future](https://www.wsj.com/finance/currencies/who-is-giancarlo-devasini-tether-jeremy-allaire-circle-90a408b9)
 * [2025-03-04, 03:55:00](https://news.ycombinator.com/item?id=43250093) - [Let's code a TCP/IP stack, 1: Ethernet and ARP](https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
 * [2025-03-04, 01:09:04](https://news.ycombinator.com/item?id=43248947) - [DeepSeek's smallpond: Bringing Distributed Computing to DuckDB](https://mehdio.substack.com/p/duckdb-goes-distributed-deepseeks)
 * [2025-03-04, 00:28:46](https://news.ycombinator.com/item?id=43248610) - [Public health data disappeared. RestoredCDC.org is bringing it back](https://www.RestoredCDC.org)
@@ -26,7 +27,6 @@
 * [2025-03-03, 07:14:33](https://news.ycombinator.com/item?id=43239111) - [A float walks into a gradual type system](https://ruudvanasseldonk.com/2025/a-float-walks-into-a-gradual-type-system)
 * [2025-03-03, 05:29:02](https://news.ycombinator.com/item?id=43238570) - [Show HN: FlakeUI](https://github.com/tearflake/flake-ui)
 * [2025-03-01, 20:11:15](https://news.ycombinator.com/item?id=43223162) - [Ask HN: What less-popular systems programming language are you using?](https://news.ycombinator.com/item?id=43223162)
-* [2025-03-01, 04:35:50](https://news.ycombinator.com/item?id=43215947) - [Designing space hardware is hard [video]](https://www.youtube.com/watch?v=kXa0vUy2Tlg)
 * [2025-02-28, 23:23:56](https://news.ycombinator.com/item?id=43213167) - [Ask HN: Replacement for Rackspace SMTP Hosting?](https://news.ycombinator.com/item?id=43213167)
 * [2025-02-28, 21:15:36](https://news.ycombinator.com/item?id=43211101) - [Ohio One Construction Timeline Update](https://newsroom.intel.com/corporate/ohio-one-construction-timeline-update)
 * [2025-02-28, 15:24:48](https://news.ycombinator.com/item?id=43206622) - [Another Conflict Between Privacy Laws and Age Authentication–Murphy v Confirm ID](https://blog.ericgoldman.org/archives/2025/02/another-conflict-between-privacy-laws-and-age-authentication-murphy-v-confirm-id.htm)
