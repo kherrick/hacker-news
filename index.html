@@ -141,11 +141,11 @@
             <h4>
               <span>2025-03-04 @ 01:28:37</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">70</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43249068"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 56</span></span
               >
             </h4>
           </section>
@@ -161,11 +161,11 @@
             <h4>
               <span>2025-03-04 @ 00:28:46</span
               ><span class="points-container"
-                >Points: <span class="points">225</span></span
+                >Points: <span class="points">228</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43248610"
                   >Comments</a
-                ><span class="descendants">: 73</span></span
+                ><span class="descendants">: 74</span></span
               >
             </h4>
           </section>
@@ -183,11 +183,11 @@
             <h4>
               <span>2025-03-04 @ 00:04:03</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43248429"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -204,11 +204,11 @@
             <h4>
               <span>2025-03-03 @ 21:19:56</span
               ><span class="points-container"
-                >Points: <span class="points">367</span></span
+                >Points: <span class="points">370</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43246892"
                   >Comments</a
-                ><span class="descendants">: 125</span></span
+                ><span class="descendants">: 126</span></span
               >
             </h4>
           </section>
@@ -225,11 +225,11 @@
             <h4>
               <span>2025-03-03 @ 21:06:37</span
               ><span class="points-container"
-                >Points: <span class="points">111</span></span
+                >Points: <span class="points">112</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43246703"
                   >Comments</a
-                ><span class="descendants">: 70</span></span
+                ><span class="descendants">: 72</span></span
               >
             </h4>
           </section>
@@ -250,7 +250,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43245315"
                   >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -267,11 +267,11 @@
             <h4>
               <span>2025-03-03 @ 18:45:42</span
               ><span class="points-container"
-                >Points: <span class="points">134</span></span
+                >Points: <span class="points">136</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43245235"
                   >Comments</a
-                ><span class="descendants">: 228</span></span
+                ><span class="descendants">: 231</span></span
               >
             </h4>
           </section>
@@ -412,75 +412,13 @@
             <h4>
               <span>2025-03-03 @ 18:00:57</span
               ><span class="points-container"
-                >Points: <span class="points">103</span></span
+                >Points: <span class="points">104</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43244680"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="43244549">
-          <h3>
-            <a class="item" href="https://docs.firebender.com/get-started/agent"
-              >Show HN: Firebender, a simple coding agent for Android
-              Engineers</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-03-03 @ 17:48:57</span
-              ><span class="points-container"
-                >Points: <span class="points">39</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43244549"
-                  >Comments</a
-                ><span class="descendants">: 10</span></span
-              >
-            </h4>
-            <div class="text">
-              <a href="https://docs.firebender.com/get-started/agent"
-                >https://docs.firebender.com/get-started/agent</a
-              >). You can use the plugin for free, no sign up needed, on the
-              jetbrains marketplace.
-              <p>
-                The agent can edit multiple files, run gradle tasks like tests,
-                and use the output to improve its changes. At the end, it
-                reports a git diff of all changes that can be accepted or
-                rejected.
-              </p>
-              <p>
-                Under the hood, the agent relies on Claude 3.7 sonnet and a fast
-                code apply model to speed up edits. We built tools to give
-                deeper access throughout the IDE like IntelliJ’s graph
-                representation of kotlin/java code, “everywhere search” for
-                classes, and have more integrations planned. The goal is for the
-                agent to have access to all the IDE goodies that we engineers
-                take for granted, to improve the agent's responses and ability
-                to gather correct context. In order to improve the agent, there
-                are internal evals like “tasks” and simulate the IDE which
-                serves as a gym for the agent. This is heavily inspired by
-                SWE-bench. Whenever tools, prompts, subagents, or models are
-                changed, this gym helps find regressions quickly.
-              </p>
-              <p>
-                Building the UI was surprisingly hard. I had the great pleasure
-                of becoming proficient in Java Swing (released in ‘96 by
-                Netscape) to get this done right. Things like markdown
-                streaming, or streaming git diffs are prone to layout flickering
-                where Swing tries to recalculate where elements should go. We
-                had to write our own markdown parsing and rendering engine that
-                repaints Swing components only when changed portions of the
-                markdown nodes. The UI tends to focus on simplifying reviewing
-                AI changes, something I have a feeling we’ll be doing much more
-                in the coming years.
-              </p>
-              <p>
-                If you’re an Android engineer, please let me know if you run
-                into any bugs or want anything improved in the plugin!
-              </p>
-            </div>
           </section>
         </section>
         <section id="43244307">
@@ -496,11 +434,11 @@
             <h4>
               <span>2025-03-03 @ 17:29:12</span
               ><span class="points-container"
-                >Points: <span class="points">187</span></span
+                >Points: <span class="points">189</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43244307"
                   >Comments</a
-                ><span class="descendants">: 101</span></span
+                ><span class="descendants">: 103</span></span
               >
             </h4>
           </section>
@@ -515,7 +453,7 @@
             <h4>
               <span>2025-03-03 @ 17:17:26</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">80</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43244166"
                   >Comments</a
@@ -790,11 +728,11 @@
             <h4>
               <span>2025-03-03 @ 16:51:33</span
               ><span class="points-container"
-                >Points: <span class="points">216</span></span
+                >Points: <span class="points">217</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43243716"
                   >Comments</a
-                ><span class="descendants">: 61</span></span
+                ><span class="descendants">: 62</span></span
               >
             </h4>
           </section>
@@ -811,11 +749,11 @@
             <h4>
               <span>2025-03-03 @ 16:40:34</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">96</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43243580"
                   >Comments</a
-                ><span class="descendants">: 149</span></span
+                ><span class="descendants">: 160</span></span
               >
             </h4>
           </section>
@@ -854,7 +792,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43243109"
                   >Comments</a
-                ><span class="descendants">: 109</span></span
+                ><span class="descendants">: 111</span></span
               >
             </h4>
           </section>
@@ -871,11 +809,11 @@
             <h4>
               <span>2025-03-03 @ 16:04:13</span
               ><span class="points-container"
-                >Points: <span class="points">464</span></span
+                >Points: <span class="points">471</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43243075"
                   >Comments</a
-                ><span class="descendants">: 562</span></span
+                ><span class="descendants">: 565</span></span
               >
             </h4>
           </section>
@@ -966,7 +904,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43243022"
                   >Comments</a
-                ><span class="descendants">: 256</span></span
+                ><span class="descendants">: 259</span></span
               >
             </h4>
             <div class="text">
@@ -1006,7 +944,7 @@
             <h4>
               <span>2025-03-03 @ 15:43:20</span
               ><span class="points-container"
-                >Points: <span class="points">150</span></span
+                >Points: <span class="points">151</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43242818"
                   >Comments</a
@@ -1060,6 +998,27 @@
               </p>
               <p>Happy to get feedback!</p>
             </div>
+          </section>
+        </section>
+        <section id="43239111">
+          <h3>
+            <a
+              class="item"
+              href="https://ruudvanasseldonk.com/2025/a-float-walks-into-a-gradual-type-system"
+              >A float walks into a gradual type system</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-03-03 @ 07:14:33</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43239111"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
           </section>
         </section>
         <section id="43238570">
@@ -1134,11 +1093,11 @@
             <h4>
               <span>2025-03-01 @ 20:11:15</span
               ><span class="points-container"
-                >Points: <span class="points">78</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43223162"
                   >Comments</a
-                ><span class="descendants">: 103</span></span
+                ><span class="descendants">: 104</span></span
               >
             </h4>
             <div class="text">
@@ -1174,7 +1133,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43213167"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
             <div class="text">
@@ -1208,11 +1167,11 @@
             <h4>
               <span>2025-02-28 @ 15:24:48</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">67</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43206622"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
