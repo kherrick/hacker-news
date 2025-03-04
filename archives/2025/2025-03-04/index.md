@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-04](index.md)
 
+* [2025-03-04, 17:36:23](https://news.ycombinator.com/item?id=43257719) - [Translating Natural Language to First-Order Logic for Logical Fallacy Detection](https://arxiv.org/abs/2405.02318)
+* [2025-03-04, 17:35:00](https://news.ycombinator.com/item?id=43257704) - [Show HN: Vidformer – Drop-In Acceleration for Cv2 Video Annotation Scripts](https://github.com/ixlab/vidformer)
 * [2025-03-04, 17:25:51](https://news.ycombinator.com/item?id=43257583) - [Learn How to Break AES](https://davidwong.fr/blockbreakers/)
 * [2025-03-04, 17:12:53](https://news.ycombinator.com/item?id=43257436) - [Farallon Islands live (and controllable) webcam](https://www.calacademy.org/webcams/farallones)
 * [2025-03-04, 17:04:17](https://news.ycombinator.com/item?id=43257323) - [Launch HN: Enhanced Radar (YC W25) – A safety net for air traffic control](https://news.ycombinator.com/item?id=43257323)
@@ -11,6 +13,7 @@
 * [2025-03-04, 15:56:58](https://news.ycombinator.com/item?id=43256349) - [Satellogic's Open Satellite Feed](https://tech.marksblogg.com/satellogic-open-data-feed.html)
 * [2025-03-04, 15:54:30](https://news.ycombinator.com/item?id=43256298) - [The owner of ip4.me/ip6.me, Kevin Loch, passed away](https://ip4only.me/)
 * [2025-03-04, 15:41:12](https://news.ycombinator.com/item?id=43256113) - [Should Managers Still Code?](https://theengineeringmanager.substack.com/p/should-managers-still-code)
+* [2025-03-04, 15:35:57](https://news.ycombinator.com/item?id=43256022) - [Small German town starts testing geothermal power utilizing new techniques](https://apnews.com/article/energy-transition-gas-geothermal-geretsried-germany-heat-electricity-89a356c70851938963314b3882377247)
 * [2025-03-04, 15:27:01](https://news.ycombinator.com/item?id=43255895) - [Ride into the Future with Waymo on Uber in Austin](https://www.uber.com/newsroom/waymo-on-uber-austin/)
 * [2025-03-04, 15:24:32](https://news.ycombinator.com/item?id=43255855) - [Show HN: Appstat – Process Monitor for Windows](https://pragmar.com/appstat/)
 * [2025-03-04, 15:02:39](https://news.ycombinator.com/item?id=43255556) - [Father tries to block daughter's euthanasia in landmark Spanish case](https://www.bbc.com/news/articles/crrdqdky9gxo)
