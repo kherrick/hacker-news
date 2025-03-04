@@ -28,8 +28,8 @@
 * [2025-03-01, 17:47:27](https://news.ycombinator.com/item?id=43221633) - [Windows NT for GameCube/Wii](https://github.com/Wack0/entii-for-workcubes)
 * [2025-03-01, 11:44:18](https://news.ycombinator.com/item?id=43218343) - [A Map of Python](https://fi-le.net/pypi/)
 * [2025-03-01, 09:18:02](https://news.ycombinator.com/item?id=43217546) - [Show HN: PG-Capture – a better way to sync Postgres with Algolia (or Elastic)](https://pg-capture.onrender.com/)
-* [2025-03-01, 08:29:48](https://news.ycombinator.com/item?id=43217264) - [Chip-8 Archive](https://johnearnest.github.io/chip8Archive/)
 * [2025-03-01, 08:19:11](https://news.ycombinator.com/item?id=43217209) - [The cost of Go's panic and recover](https://jub0bs.com/posts/2025-02-28-cost-of-panic-recover/)
+* [2025-02-28, 20:15:51](https://news.ycombinator.com/item?id=43209878) - [Notorious Malware, Spam Host \"Prospero\" Moves to Kaspersky Lab](https://krebsonsecurity.com/2025/02/notorious-malware-spam-host-prospero-moves-to-kaspersky-lab/)
 
 ## [Archives](archives/index.md)
 
