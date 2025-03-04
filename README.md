@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-04, 01:28:37](https://news.ycombinator.com/item?id=43249068) - [Global sales of combustion engine cars peaked](https://ourworldindata.org/data-insights/global-sales-of-combustion-engine-cars-have-peaked)
+* [2025-03-04, 01:28:37](https://news.ycombinator.com/item?id=43249068) - [Global sales of combustion engine cars have peaked](https://ourworldindata.org/data-insights/global-sales-of-combustion-engine-cars-have-peaked)
 * [2025-03-04, 00:28:46](https://news.ycombinator.com/item?id=43248610) - [Public health data disappeared. RestoredCDC.org is bringing it back](https://www.RestoredCDC.org)
-* [2025-03-04, 00:04:03](https://news.ycombinator.com/item?id=43248429) - [Lawrence of Arabia, Paul Atreides, and the Roots of Frank Herbert's Dune (2021)](https://reactormag.com/lawrence-of-arabia-paul-atreides-and-the-roots-of-frank-herberts-dune/)
+* [2025-03-04, 00:04:03](https://news.ycombinator.com/item?id=43248429) - [Lawrence of Arabia, Paul Atreides, and the roots of Frank Herbert's Dune (2021)](https://reactormag.com/lawrence-of-arabia-paul-atreides-and-the-roots-of-frank-herberts-dune/)
 * [2025-03-03, 21:19:56](https://news.ycombinator.com/item?id=43246892) - [Repairable Flatpack Toaster](https://www.kaseyhou.com/#/repairable-flatpack-toaster/)
 * [2025-03-03, 21:06:37](https://news.ycombinator.com/item?id=43246703) - [Comparing Fuchsia components and Linux containers [video]](https://fosdem.org/2025/schedule/event/fosdem-2025-5381-comparing-fuchsia-components-and-linux-containers/)
 * [2025-03-03, 18:54:08](https://news.ycombinator.com/item?id=43245315) - [One Logo, Three Companies](https://estilofilos.blogspot.com/2016/03/one-logo-three-companies-i.html)
@@ -11,7 +11,7 @@
 * [2025-03-03, 18:06:17](https://news.ycombinator.com/item?id=43244739) - [Hacking the Xbox 360 Hypervisor Part 2: The Bad Update Exploit](https://icode4.coffee/?p=1081)
 * [2025-03-03, 18:00:57](https://news.ycombinator.com/item?id=43244680) - [Chrome Returns 206 when the Server Returns 403](https://aoli.al/blogs/chrome-bug/)
 * [2025-03-03, 17:48:57](https://news.ycombinator.com/item?id=43244549) - [Show HN: Firebender, a simple coding agent for Android Engineers](https://docs.firebender.com/get-started/agent)
-* [2025-03-03, 17:29:12](https://news.ycombinator.com/item?id=43244307) - [SQLite-on-the-Server Is Misunderstood: Better at Hyper-Scale Than Micro-Scale](https://rivet.gg/blog/2025-02-16-sqlite-on-the-server-is-misunderstood)
+* [2025-03-03, 17:29:12](https://news.ycombinator.com/item?id=43244307) - [SQLite-on-the-server is misunderstood: Better at hyper-scale than micro-scale](https://rivet.gg/blog/2025-02-16-sqlite-on-the-server-is-misunderstood)
 * [2025-03-03, 17:17:26](https://news.ycombinator.com/item?id=43244166) - [Show HN: Sonauto API – Generative music for developers](https://sonauto.ai/developers)
 * [2025-03-03, 17:03:03](https://news.ycombinator.com/item?id=43243914) - [The power of interning: making a time series database smaller](https://gendignoux.com/blog/2025/03/03/rust-interning-2000x.html)
 * [2025-03-03, 17:01:59](https://news.ycombinator.com/item?id=43243893) - [Show HN: Agents.json – OpenAPI Specification for LLMs](https://github.com/wild-card-ai/agents-json)
@@ -28,7 +28,7 @@
 * [2025-03-03, 03:16:22](https://news.ycombinator.com/item?id=43237942) - [The Cocaine Files](https://www.cbc.ca/newsinteractives/features/the-cocaine-files)
 * [2025-03-02, 16:28:38](https://news.ycombinator.com/item?id=43232057) - [The weird Hewlett Packard FreeDOS option (2022)](https://blog.tmm.cx/2022/05/15/the-very-weird-hewlett-packard-freedos-option/)
 * [2025-03-01, 20:11:15](https://news.ycombinator.com/item?id=43223162) - [Ask HN: What less-popular systems programming language are you using?](https://news.ycombinator.com/item?id=43223162)
-* [2025-03-01, 04:50:15](https://news.ycombinator.com/item?id=43216043) - [The Nabataeans Are Coming](https://www.historytoday.com/archive/behind-times/nabataeans-are-coming)
+* [2025-02-28, 23:23:56](https://news.ycombinator.com/item?id=43213167) - [Ask HN: Replacement for Rackspace SMTP Hosting?](https://news.ycombinator.com/item?id=43213167)
 * [2025-02-28, 15:24:48](https://news.ycombinator.com/item?id=43206622) - [Another Conflict Between Privacy Laws and Age Authentication–Murphy v Confirm ID](https://blog.ericgoldman.org/archives/2025/02/another-conflict-between-privacy-laws-and-age-authentication-murphy-v-confirm-id.htm)
 
 ## [Archives](archives/index.md)

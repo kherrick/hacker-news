@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-28](index.md)
 
 * [2025-02-28, 23:59:35](https://news.ycombinator.com/item?id=43213612) - [An Update on Mozilla's Terms of Use for Firefox](https://blog.mozilla.org/en/products/firefox/update-on-terms-of-use/)
+* [2025-02-28, 23:23:56](https://news.ycombinator.com/item?id=43213167) - [Ask HN: Replacement for Rackspace SMTP Hosting?](https://news.ycombinator.com/item?id=43213167)
 * [2025-02-28, 23:20:38](https://news.ycombinator.com/item?id=43213143) - [Inheriting is becoming nearly as important as working](https://www.economist.com/leaders/2025/02/27/inheriting-is-becoming-nearly-as-important-as-working)
 * [2025-02-28, 23:16:16](https://news.ycombinator.com/item?id=43213090) - [Show HN: Torii – a framework agnostic authentication library for Rust](https://github.com/cmackenzie1/torii-rs)
 * [2025-02-28, 23:05:21](https://news.ycombinator.com/item?id=43212952) - [Why it's so hard to build a jet engine](https://www.construction-physics.com/p/why-its-so-hard-to-build-a-jet-engine)
