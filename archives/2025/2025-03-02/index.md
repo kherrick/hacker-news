@@ -43,6 +43,7 @@
 * [2025-03-02, 16:28:38](https://news.ycombinator.com/item?id=43232057) - [The weird Hewlett Packard FreeDOS option (2022)](https://blog.tmm.cx/2022/05/15/the-very-weird-hewlett-packard-freedos-option/)
 * [2025-03-02, 16:20:34](https://news.ycombinator.com/item?id=43231978) - [Show HN: Vibecoders – Find software engineers that are good at vibecoding](https://news.ycombinator.com/item?id=43231978)
 * [2025-03-02, 16:18:44](https://news.ycombinator.com/item?id=43231964) - [Ask HN: Where are the good Markdown to PDF tools (that meet these requirements)?](https://news.ycombinator.com/item?id=43231964)
+* [2025-03-02, 16:15:10](https://news.ycombinator.com/item?id=43231919) - [Discmaster 2 Soft Launches](https://discmaster.textfiles.com/news)
 * [2025-03-02, 15:56:35](https://news.ycombinator.com/item?id=43231694) - [The lost boys: how a generation of young men fell behind women on pay](https://www.thetimes.com/uk/society/article/the-lost-boys-how-a-generation-of-young-men-fell-behind-women-on-pay-8rc3mmvt0)
 * [2025-03-02, 15:43:39](https://news.ycombinator.com/item?id=43231551) - [I'm a neuroscientist. Here's the surprising truth about TikTok 'brain rot'](https://www.sciencefocus.com/comment/tiktok-braintot-psychologist-explains)
 * [2025-03-02, 15:32:46](https://news.ycombinator.com/item?id=43231411) - [Why do we have both CSRF protection and CORS?](https://smagin.fyi/posts/cross-site-requests/)
