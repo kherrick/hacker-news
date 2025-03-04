@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-04](index.md)
 
+* [2025-03-04, 18:12:12](https://news.ycombinator.com/item?id=43258104) - [The Imaginary Engineer – Karl Hans Janke's Flights of Fancy](https://www.cabinetmagazine.org/issues/29/lee.php)
 * [2025-03-04, 18:05:44](https://news.ycombinator.com/item?id=43258026) - [Shaking the Earth: from volcanology to seismic surveys (2024)](https://www.lyellcollection.org/doi/full/10.1144/M60-2022-31)
 * [2025-03-04, 18:04:16](https://news.ycombinator.com/item?id=43258010) - [Who's Afraid of Tom Wolfe?](https://commonreader.wustl.edu/c/whos-afraid-of-tom-wolfe/)
 * [2025-03-04, 17:36:23](https://news.ycombinator.com/item?id=43257719) - [Translating Natural Language to First-Order Logic for Logical Fallacy Detection](https://arxiv.org/abs/2405.02318)
