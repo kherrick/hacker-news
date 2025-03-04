@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-03-04, 18:05:44",
-      "https://news.ycombinator.com/item?id=43258026"
-    ],
-    [
-      "Shaking the Earth: from volcanology to seismic surveys (2024)",
-      "https://www.lyellcollection.org/doi/full/10.1144/M60-2022-31"
-    ]
-  ],
-  [
-    [
       "2025-03-04, 18:04:16",
       "https://news.ycombinator.com/item?id=43258010"
     ],
@@ -231,6 +221,16 @@
   ],
   [
     [
+      "2025-03-03, 15:18:22",
+      "https://news.ycombinator.com/item?id=43242551"
+    ],
+    [
+      "Show HN: Open-source Deep Research across workplace applications",
+      "https://github.com/onyx-dot-app/onyx"
+    ]
+  ],
+  [
+    [
       "2025-03-03, 10:19:58",
       "https://news.ycombinator.com/item?id=43240301"
     ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2025-03-01, 00:14:11",
+      "https://news.ycombinator.com/item?id=43213819"
+    ],
+    [
+      "Micro keypad to do your regular Git push/pull/add/commit actions",
+      "https://www.gitsyncpad.xyz/"
+    ]
+  ],
+  [
+    [
       "2025-02-28, 20:15:51",
       "https://news.ycombinator.com/item?id=43209878"
     ],
@@ -287,16 +297,6 @@
     [
       "Enhancing Frame Detection with Retrieval Augmented Generation",
       "https://arxiv.org/abs/2502.12210"
-    ]
-  ],
-  [
-    [
-      "2025-02-28, 15:04:43",
-      "https://news.ycombinator.com/item?id=43206385"
-    ],
-    [
-      "An Experimental Study of Bitmap Compression vs. Inverted List Compression",
-      "https://dl.acm.org/doi/10.1145/3035918.3064007"
     ]
   ]
 ]
