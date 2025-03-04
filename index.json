@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-03-04, 17:25:51",
+      "https://news.ycombinator.com/item?id=43257583"
+    ],
+    [
+      "Learn How to Break AES",
+      "https://davidwong.fr/blockbreakers/"
+    ]
+  ],
+  [
+    [
+      "2025-03-04, 17:12:53",
+      "https://news.ycombinator.com/item?id=43257436"
+    ],
+    [
+      "Farallon Islands live (and controllable) webcam",
+      "https://www.calacademy.org/webcams/farallones"
+    ]
+  ],
+  [
+    [
+      "2025-03-04, 17:04:17",
+      "https://news.ycombinator.com/item?id=43257323"
+    ],
+    [
+      "Launch HN: Enhanced Radar (YC W25) – A safety net for air traffic control",
+      "https://news.ycombinator.com/item?id=43257323"
+    ]
+  ],
+  [
+    [
       "2025-03-04, 17:00:34",
       "https://news.ycombinator.com/item?id=43257268"
     ],
@@ -27,6 +57,16 @@
     [
       "The owner of ip4.me/ip6.me, Kevin Loch, passed away",
       "https://ip4only.me/"
+    ]
+  ],
+  [
+    [
+      "2025-03-04, 15:41:12",
+      "https://news.ycombinator.com/item?id=43256113"
+    ],
+    [
+      "Should Managers Still Code?",
+      "https://theengineeringmanager.substack.com/p/should-managers-still-code"
     ]
   ],
   [
@@ -71,12 +111,12 @@
   ],
   [
     [
-      "2025-03-04, 13:05:53",
-      "https://news.ycombinator.com/item?id=43254012"
+      "2025-03-04, 13:35:12",
+      "https://news.ycombinator.com/item?id=43254351"
     ],
     [
-      "Microsoft's new Dragon Copilot is an AI assistant for healthcare",
-      "https://www.theverge.com/news/622528/microsoft-dragon-copilot-ai-healthcare-assistant"
+      "Show HN: Fork of Claude-code working with local and other LLM providers",
+      "https://github.com/dnakov/anon-kode"
     ]
   ],
   [
@@ -191,16 +231,6 @@
   ],
   [
     [
-      "2025-03-03, 16:06:50",
-      "https://news.ycombinator.com/item?id=43243109"
-    ],
-    [
-      "An Attempt to Catch Up with JIT Compilers",
-      "https://arxiv.org/abs/2502.20547"
-    ]
-  ],
-  [
-    [
       "2025-03-03, 16:01:41",
       "https://news.ycombinator.com/item?id=43243024"
     ],
@@ -211,42 +241,12 @@
   ],
   [
     [
-      "2025-03-03, 16:01:41",
-      "https://news.ycombinator.com/item?id=43243022"
-    ],
-    [
-      "Ask HN: Who wants to be hired? (March 2025)",
-      "https://news.ycombinator.com/item?id=43243022"
-    ]
-  ],
-  [
-    [
       "2025-03-03, 10:19:58",
       "https://news.ycombinator.com/item?id=43240301"
     ],
     [
       "The IBM 650: An appreciation from the field (1986) [pdf]",
       "https://ed-thelen.org/comp-hist/KnuthIBM650Appreciation.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-03-03, 06:27:55",
-      "https://news.ycombinator.com/item?id=43238893"
-    ],
-    [
-      "MIT 6.S184: Introduction to Flow Matching and Diffusion Models",
-      "https://diffusion.csail.mit.edu"
-    ]
-  ],
-  [
-    [
-      "2025-03-03, 05:29:02",
-      "https://news.ycombinator.com/item?id=43238570"
-    ],
-    [
-      "Show HN: FlakeUI",
-      "https://github.com/tearflake/flake-ui"
     ]
   ],
   [
