@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-04](index.md)
 
 * [2025-03-04, 19:05:43](https://news.ycombinator.com/item?id=43258709) - [Why FastDoom Is Fast](https://fabiensanglard.net/fastdoom/index.html)
+* [2025-03-04, 18:53:44](https://news.ycombinator.com/item?id=43258585) - [Show HN: Time travel debugging AI for more reliable vibe coding](https://nut.new)
 * [2025-03-04, 18:12:12](https://news.ycombinator.com/item?id=43258104) - [The Imaginary Engineer – Karl Hans Janke's Flights of Fancy](https://www.cabinetmagazine.org/issues/29/lee.php)
 * [2025-03-04, 18:05:44](https://news.ycombinator.com/item?id=43258026) - [Shaking the Earth: from volcanology to seismic surveys (2024)](https://www.lyellcollection.org/doi/full/10.1144/M60-2022-31)
 * [2025-03-04, 18:04:16](https://news.ycombinator.com/item?id=43258010) - [Who's Afraid of Tom Wolfe?](https://commonreader.wustl.edu/c/whos-afraid-of-tom-wolfe/)
