@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-04, 20:57:36",
+      "https://news.ycombinator.com/item?id=43259742"
+    ],
+    [
+      "AI: Where in the Loop Should Humans Go?",
+      "https://www.honeycomb.io/blog/ai-where-in-the-loop-should-humans-go"
+    ]
+  ],
+  [
+    [
       "2025-03-04, 19:52:38",
       "https://news.ycombinator.com/item?id=43259182"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2025-03-04, 15:35:57",
-      "https://news.ycombinator.com/item?id=43256022"
-    ],
-    [
-      "Small German town starts testing geothermal power utilizing new techniques",
-      "https://apnews.com/article/energy-transition-gas-geothermal-geretsried-germany-heat-electricity-89a356c70851938963314b3882377247"
-    ]
-  ],
-  [
-    [
       "2025-03-04, 15:24:32",
       "https://news.ycombinator.com/item?id=43255855"
     ],
@@ -197,16 +197,6 @@
     [
       "Show HN: Fork of Claude-code working with local and other LLM providers",
       "https://github.com/dnakov/anon-kode"
-    ]
-  ],
-  [
-    [
-      "2025-03-04, 01:09:04",
-      "https://news.ycombinator.com/item?id=43248947"
-    ],
-    [
-      "DeepSeek's smallpond: Bringing Distributed Computing to DuckDB",
-      "https://mehdio.substack.com/p/duckdb-goes-distributed-deepseeks"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Chip-8 Archive",
       "https://johnearnest.github.io/chip8Archive/"
+    ]
+  ],
+  [
+    [
+      "2025-03-01, 08:19:11",
+      "https://news.ycombinator.com/item?id=43217209"
+    ],
+    [
+      "The cost of Go's panic and recover",
+      "https://jub0bs.com/posts/2025-02-28-cost-of-panic-recover/"
     ]
   ],
   [
