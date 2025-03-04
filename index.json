@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-04, 15:24:32",
+      "https://news.ycombinator.com/item?id=43255855"
+    ],
+    [
+      "Show HN: Appstat – Process Monitor for Windows",
+      "https://pragmar.com/appstat/"
+    ]
+  ],
+  [
+    [
       "2025-03-04, 15:02:39",
       "https://news.ycombinator.com/item?id=43255556"
     ],
@@ -157,16 +167,6 @@
     [
       "SQLite-on-the-server is misunderstood: Better at hyper-scale than micro-scale",
       "https://rivet.gg/blog/2025-02-16-sqlite-on-the-server-is-misunderstood"
-    ]
-  ],
-  [
-    [
-      "2025-03-03, 17:03:03",
-      "https://news.ycombinator.com/item?id=43243914"
-    ],
-    [
-      "The power of interning: making a time series database smaller",
-      "https://gendignoux.com/blog/2025/03/03/rust-interning-2000x.html"
     ]
   ],
   [
