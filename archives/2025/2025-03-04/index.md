@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-03-04](index.md)
 
+* [2025-03-04, 17:25:51](https://news.ycombinator.com/item?id=43257583) - [Learn How to Break AES](https://davidwong.fr/blockbreakers/)
+* [2025-03-04, 17:12:53](https://news.ycombinator.com/item?id=43257436) - [Farallon Islands live (and controllable) webcam](https://www.calacademy.org/webcams/farallones)
+* [2025-03-04, 17:04:17](https://news.ycombinator.com/item?id=43257323) - [Launch HN: Enhanced Radar (YC W25) – A safety net for air traffic control](https://news.ycombinator.com/item?id=43257323)
 * [2025-03-04, 17:00:34](https://news.ycombinator.com/item?id=43257268) - [Foundry (YC F24) Hiring Founding Engineer to Build an Internet-Scale Web Crawler](https://www.ycombinator.com/companies/foundry/jobs/xtwLIsF-founding-engineer-large-scale-web-scraping-crawling)
 * [2025-03-04, 15:56:58](https://news.ycombinator.com/item?id=43256349) - [Satellogic's Open Satellite Feed](https://tech.marksblogg.com/satellogic-open-data-feed.html)
 * [2025-03-04, 15:54:30](https://news.ycombinator.com/item?id=43256298) - [The owner of ip4.me/ip6.me, Kevin Loch, passed away](https://ip4only.me/)
+* [2025-03-04, 15:41:12](https://news.ycombinator.com/item?id=43256113) - [Should Managers Still Code?](https://theengineeringmanager.substack.com/p/should-managers-still-code)
 * [2025-03-04, 15:27:01](https://news.ycombinator.com/item?id=43255895) - [Ride into the Future with Waymo on Uber in Austin](https://www.uber.com/newsroom/waymo-on-uber-austin/)
 * [2025-03-04, 15:24:32](https://news.ycombinator.com/item?id=43255855) - [Show HN: Appstat – Process Monitor for Windows](https://pragmar.com/appstat/)
 * [2025-03-04, 15:02:39](https://news.ycombinator.com/item?id=43255556) - [Father tries to block daughter's euthanasia in landmark Spanish case](https://www.bbc.com/news/articles/crrdqdky9gxo)
@@ -17,6 +21,7 @@
 * [2025-03-04, 14:02:18](https://news.ycombinator.com/item?id=43254714) - [Apple introduces iPad Air with powerful M3 chip and new Magic Keyboard](https://www.apple.com/newsroom/2025/03/apple-introduces-ipad-air-with-powerful-m3-chip-and-new-magic-keyboard/)
 * [2025-03-04, 13:57:20](https://news.ycombinator.com/item?id=43254637) - [Tesla electric car sales plunge again in Australia – Model 3 down more than 81 p](https://thedriven.io/2025/03/04/tesla-electric-car-sales-plunge-again-in-australia-model-3-down-more-than-81-per-cent/)
 * [2025-03-04, 13:50:26](https://news.ycombinator.com/item?id=43254552) - [Tips for using Gemini 2.0 for PDF ingestion](https://www.sergey.fyi/articles/gemini-flash-2-tips)
+* [2025-03-04, 13:35:12](https://news.ycombinator.com/item?id=43254351) - [Show HN: Fork of Claude-code working with local and other LLM providers](https://github.com/dnakov/anon-kode)
 * [2025-03-04, 13:05:53](https://news.ycombinator.com/item?id=43254012) - [Microsoft's new Dragon Copilot is an AI assistant for healthcare](https://www.theverge.com/news/622528/microsoft-dragon-copilot-ai-healthcare-assistant)
 * [2025-03-04, 12:28:13](https://news.ycombinator.com/item?id=43253674) - [PostmarketOS in 2025-02: MSM89x7 Audio, Modern Xiaomis in Community, New Name](https://postmarketos.org/blog/2025/03/04/pmOS-update-2025-02/)
 * [2025-03-04, 12:14:36](https://news.ycombinator.com/item?id=43253562) - [Federal workers ordered to return to offices without desks, Wi-Fi and lights](https://www.cnn.com/2025/03/04/politics/federal-employees-return-to-office-problems/index.html)
