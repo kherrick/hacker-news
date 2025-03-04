@@ -7,6 +7,7 @@
 * [2025-03-04, 17:36:23](https://news.ycombinator.com/item?id=43257719) - [Translating Natural Language to First-Order Logic for Logical Fallacy Detection](https://arxiv.org/abs/2405.02318)
 * [2025-03-04, 17:35:00](https://news.ycombinator.com/item?id=43257704) - [Show HN: Vidformer – Drop-In Acceleration for Cv2 Video Annotation Scripts](https://github.com/ixlab/vidformer)
 * [2025-03-04, 17:25:51](https://news.ycombinator.com/item?id=43257583) - [Learn How to Break AES](https://davidwong.fr/blockbreakers/)
+* [2025-03-04, 17:16:13](https://news.ycombinator.com/item?id=43257473) - [DARPA exploring growing bio structures of \"unprecedented size\" in microgravity](https://sam.gov/opp/426e5868fcf74dd4ada3768b00b09234/view)
 * [2025-03-04, 17:12:53](https://news.ycombinator.com/item?id=43257436) - [Farallon Islands live (and controllable) webcam](https://www.calacademy.org/webcams/farallones)
 * [2025-03-04, 17:04:17](https://news.ycombinator.com/item?id=43257323) - [Launch HN: Enhanced Radar (YC W25) – A safety net for air traffic control](https://news.ycombinator.com/item?id=43257323)
 * [2025-03-04, 17:00:34](https://news.ycombinator.com/item?id=43257268) - [Foundry (YC F24) Hiring Founding Engineer to Build an Internet-Scale Web Crawler](https://www.ycombinator.com/companies/foundry/jobs/xtwLIsF-founding-engineer-large-scale-web-scraping-crawling)

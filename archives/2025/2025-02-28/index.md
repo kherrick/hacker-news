@@ -20,6 +20,7 @@
 * [2025-02-28, 20:51:34](https://news.ycombinator.com/item?id=43210536) - [400 reasons to not use Microsoft Azure](https://azsh.it)
 * [2025-02-28, 20:33:43](https://news.ycombinator.com/item?id=43210185) - [Show HN: Betting game puzzle (Hamming neighbor sum in linear time)](https://news.ycombinator.com/item?id=43210185)
 * [2025-02-28, 20:30:07](https://news.ycombinator.com/item?id=43210114) - [I created an MVP for an AI SVG maker in a week! Check it out!](https://easysvg.ai)
+* [2025-02-28, 20:15:51](https://news.ycombinator.com/item?id=43209878) - [Notorious Malware, Spam Host \"Prospero\" Moves to Kaspersky Lab](https://krebsonsecurity.com/2025/02/notorious-malware-spam-host-prospero-moves-to-kaspersky-lab/)
 * [2025-02-28, 19:30:30](https://news.ycombinator.com/item?id=43209358) - [DARPA Project Reveals One Person Can Control Dozens of Robots](https://spectrum.ieee.org/darpa-robot)
 * [2025-02-28, 18:59:23](https://news.ycombinator.com/item?id=43209064) - [Merlion: A Machine Learning Framework for Time Series Intelligence](https://github.com/salesforce/Merlion)
 * [2025-02-28, 18:58:13](https://news.ycombinator.com/item?id=43209046) - [Virtual museum of socialist era graphic design in Bulgaria](http://socmus.com/en/)
