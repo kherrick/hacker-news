@@ -60,6 +60,7 @@
 * [2025-03-01, 08:44:16](https://news.ycombinator.com/item?id=43217357) - [Yes, Claude Code can decompile itself. Here's the source code](https://ghuntley.com/tradecraft/)
 * [2025-03-01, 08:38:12](https://news.ycombinator.com/item?id=43217309) - [Google does not want rights to things you do using Chrome (2008)](https://www.mattcutts.com/blog/google-chrome-license-agreement/)
 * [2025-03-01, 08:32:34](https://news.ycombinator.com/item?id=43217280) - [How long can you balance a pencil?](http://thevirtuosi.blogspot.com/2010/06/how-long-can-you-balance-quantum-pencil.html)
+* [2025-03-01, 08:19:11](https://news.ycombinator.com/item?id=43217209) - [The cost of Go's panic and recover](https://jub0bs.com/posts/2025-02-28-cost-of-panic-recover/)
 * [2025-03-01, 08:17:29](https://news.ycombinator.com/item?id=43217195) - [Emacs Tree-sitter custom highlighting](https://amitp.blogspot.com/2025/02/emacs-tree-sitter-custom-highlighting.html)
 * [2025-03-01, 06:24:47](https://news.ycombinator.com/item?id=43216518) - [Looking Back at Speculative Decoding](https://research.google/blog/looking-back-at-speculative-decoding/)
 * [2025-03-01, 05:55:24](https://news.ycombinator.com/item?id=43216399) - [4 mains or nothing at all](https://andrews.substack.com/p/4-mains-or-nothing-at-all)
