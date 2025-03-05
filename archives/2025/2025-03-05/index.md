@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-05](index.md)
 
+* [2025-03-05, 21:10:35](https://news.ycombinator.com/item?id=43272463) - [Zentool – AMD Zen Microcode Manipulation Utility](https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md)
 * [2025-03-05, 21:09:47](https://news.ycombinator.com/item?id=43272453) - [Jeep Owners Fed Up with In-Car Pop-Up Ads](https://www.kbb.com/car-news/jeep-owners-fed-up-with-in-car-pop-up-ads/)
 * [2025-03-05, 21:01:01](https://news.ycombinator.com/item?id=43272332) - [Datafold (YC S20) is hiring Engineer to build AI-powered data migration tools](https://www.ycombinator.com/companies/datafold/jobs/ieGYiSG-senior-software-engineer-ai-agents)
 * [2025-03-05, 20:56:25](https://news.ycombinator.com/item?id=43272275) - [Git Without a Forge](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/git-no-forge/)
@@ -24,6 +25,7 @@
 * [2025-03-05, 18:20:45](https://news.ycombinator.com/item?id=43270251) - [Leaked VA memo calls for up to 83,000 layoffs to reduce workforce to 2019 levels](https://www.govexec.com/workforce/2025/03/va-plans-lay-many-83000-employees-year/403477/)
 * [2025-03-05, 18:08:55](https://news.ycombinator.com/item?id=43270103) - [Two Americas, one bank branch, and $50k cash](https://www.bitsaboutmoney.com/archive/two-americas-one-bank-branch/)
 * [2025-03-05, 18:07:06](https://news.ycombinator.com/item?id=43270079) - [Apple takes UK to court over 'backdoor' order](https://www.theregister.com/2025/03/05/apple_reportedly_ipt_complaint/)
+* [2025-03-05, 17:55:29](https://news.ycombinator.com/item?id=43269928) - [Show HN: Leaflet.pub – a web app for creating and sharing rich documents](https://news.ycombinator.com/item?id=43269928)
 * [2025-03-05, 17:49:13](https://news.ycombinator.com/item?id=43269846) - [There Was a Texas Lottery Arbitrage](https://www.bloomberg.com/opinion/articles/2025-03-05/there-was-a-texas-lottery-arbitrage)
 * [2025-03-05, 17:41:11](https://news.ycombinator.com/item?id=43269727) - [Doge seeks to cancel lease on nuclear waste storage facility](https://talkingpointsmemo.com/edblog/doge-doh-nuclear-waste-facility-edition)
 * [2025-03-05, 17:09:41](https://news.ycombinator.com/item?id=43269368) - [The Tiny Star Explosions Powering Moore's Law](https://spectrum.ieee.org/euv-light-source)
