@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-05](index.md)
 
+* [2025-03-05, 14:06:54](https://news.ycombinator.com/item?id=43266537) - [MacBook Air M4](https://www.apple.com/macbook-air/)
+* [2025-03-05, 13:59:50](https://news.ycombinator.com/item?id=43266453) - [Apple M3 Ultra](https://www.apple.com/newsroom/2025/03/apple-reveals-m3-ultra-taking-apple-silicon-to-a-new-extreme/)
 * [2025-03-05, 13:35:30](https://news.ycombinator.com/item?id=43266185) - [Why \"alias\" is my last resort for aliases](https://evanhahn.com/why-alias-is-my-last-resort-for-aliases/)
 * [2025-03-05, 13:22:57](https://news.ycombinator.com/item?id=43266071) - [The Big Government Contracts Doge Hasn't Touched](https://www.nytimes.com/interactive/2025/03/04/upshot/doge-musk-contracts-cuts.html)
 * [2025-03-05, 13:22:05](https://news.ycombinator.com/item?id=43266063) - [Private employers added just 77,000 jobs in February, far below expectations](https://www.cnbc.com/2025/03/05/adp-jobs-report-february-2025-.html)
