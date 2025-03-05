@@ -9,6 +9,7 @@
 * [2025-03-05, 14:03:06](https://news.ycombinator.com/item?id=43266494) - [Jamming: Polish researchers suspect GPS jammers on ships in the Baltic Sea](https://www.heise.de/en/news/Jamming-Polish-researchers-suspect-GPS-jammers-on-ships-in-the-Baltic-Sea-10304169.html)
 * [2025-03-05, 13:59:50](https://news.ycombinator.com/item?id=43266453) - [Apple M3 Ultra](https://www.apple.com/newsroom/2025/03/apple-reveals-m3-ultra-taking-apple-silicon-to-a-new-extreme/)
 * [2025-03-05, 13:35:30](https://news.ycombinator.com/item?id=43266185) - [Why \"alias\" is my last resort for aliases](https://evanhahn.com/why-alias-is-my-last-resort-for-aliases/)
+* [2025-03-05, 13:33:51](https://news.ycombinator.com/item?id=43266170) - [Kevin Rose, Alexis Ohanian Acquire Digg](https://techcrunch.com/2025/03/05/kevin-rose-and-alexis-ohanian-acquire-digg/)
 * [2025-03-05, 13:22:57](https://news.ycombinator.com/item?id=43266071) - [The Big Government Contracts Doge Hasn't Touched](https://www.nytimes.com/interactive/2025/03/04/upshot/doge-musk-contracts-cuts.html)
 * [2025-03-05, 13:22:05](https://news.ycombinator.com/item?id=43266063) - [Private employers added just 77,000 jobs in February, far below expectations](https://www.cnbc.com/2025/03/05/adp-jobs-report-february-2025-.html)
 * [2025-03-05, 13:18:28](https://news.ycombinator.com/item?id=43266029) - [How a key ingredient in Coca-Cola, M&M's is smuggled from war-torn Sudan](https://www.middleeastmonitor.com/20250304-how-a-key-ingredient-in-coca-cola-mms-is-smuggled-from-war-torn-sudan/)
