@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-05](index.md)
 
+* [2025-03-05, 12:45:00](https://news.ycombinator.com/item?id=43265794) - [They wanted to save us from a dark AI future. Then six people were killed](https://www.theguardian.com/global/ng-interactive/2025/mar/05/zizians-artificial-intelligence)
 * [2025-03-05, 12:06:40](https://news.ycombinator.com/item?id=43265521) - [The Return of Digg, a Star of an Earlier Internet Era](https://www.nytimes.com/2025/03/05/technology/digg-alexis-ohanian-kevin-rose.html)
+* [2025-03-05, 11:47:36](https://news.ycombinator.com/item?id=43265399) - [A sysadmin's rant about feed readers and crawlers (2022)](http://rachelbythebay.com/w/2022/03/07/get/)
 * [2025-03-05, 11:29:50](https://news.ycombinator.com/item?id=43265303) - [NASA Successfully Acquires GPS Signals on Moon](https://www.nasa.gov/general/nasa-successfully-acquires-gps-signals-on-moon/)
 * [2025-03-05, 11:14:31](https://news.ycombinator.com/item?id=43265224) - ['Shadow fleets' and sabotage: are Europe's undersea cables under attack?](https://www.theguardian.com/world/ng-interactive/2025/mar/05/shadow-fleets-subaquatic-sabotage-europe-undersea-internet-cables-under-attack)
 * [2025-03-05, 10:36:25](https://news.ycombinator.com/item?id=43265025) - [GitHub Copilot refuses to autocomplete 'Palestine' in a list of countries](https://twitter.com/flatpink/status/1897234575597953384)
