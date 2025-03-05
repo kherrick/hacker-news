@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-05, 03:11:54](https://news.ycombinator.com/item?id=43262188) - [NetBSD on a JavaStation](https://fatsquirrel.org/oldfartsalmanac/netbsd-on-a-javastation/)
 * [2025-03-05, 02:51:17](https://news.ycombinator.com/item?id=43262044) - [Microsoft Publisher will no longer be supported after October 2026](https://support.microsoft.com/en-gb/office/microsoft-publisher-will-no-longer-be-supported-after-october-2026-ee6302a2-4bc7-4841-babf-8e9be3acbfd7)
 * [2025-03-05, 02:36:29](https://news.ycombinator.com/item?id=43261947) - [Mice exhibit paramedic-like behaviors toward unresponsive peers, study finds](https://medicalxpress.com/news/2025-02-mice-paramedic-behaviors-unresponsive-peers.html)
 * [2025-03-05, 02:35:47](https://news.ycombinator.com/item?id=43261941) - [The Demoralization is just Beginning](https://geohot.github.io//blog/jekyll/update/2025/03/03/demoralization-is-just-beginning.html)
@@ -28,7 +29,6 @@
 * [2025-03-02, 20:05:28](https://news.ycombinator.com/item?id=43234457) - [An Uneasy Propaganda Alliance](https://www.historytoday.com/archive/history-matters/uneasy-propaganda-alliance)
 * [2025-03-01, 21:36:14](https://news.ycombinator.com/item?id=43223930) - [BMW Group Product Catalog–Historic Models](https://www.bmwgroup-classic.com/en/history/historic-modeloverview-bmw.html)
 * [2025-03-01, 11:44:18](https://news.ycombinator.com/item?id=43218343) - [A Map of Python](https://fi-le.net/pypi/)
-* [2025-03-01, 08:19:11](https://news.ycombinator.com/item?id=43217209) - [The cost of Go's panic and recover](https://jub0bs.com/posts/2025-02-28-cost-of-panic-recover/)
 * [2025-03-01, 07:17:53](https://news.ycombinator.com/item?id=43216785) - [TurboWarp – Run Scratch projects faster](https://turbowarp.org)
 
 ## [Archives](archives/index.md)
