@@ -65,6 +65,7 @@
 * [2025-03-02, 14:05:08](https://news.ycombinator.com/item?id=43230600) - [The Ancient Art of Color](https://worldhistory.substack.com/p/the-ancient-art-of-color)
 * [2025-03-02, 13:56:01](https://news.ycombinator.com/item?id=43230510) - [Yoke: Infrastructure as code, but actually](https://xeiaso.net/blog/2025/yoke-k8s/)
 * [2025-03-02, 13:09:20](https://news.ycombinator.com/item?id=43230153) - [Sergey Brin says 60 hours a week is the 'sweet spot'](https://fortune.com/2025/02/28/sergey-brin-60-hours-work-week-rto-gemini-artificial-general-intelligence/)
+* [2025-03-02, 12:44:16](https://news.ycombinator.com/item?id=43229935) - [Study of cockatoo Snowball suggests humans aren't the only ones who can dance](https://news.harvard.edu/gazette/story/2019/07/study-of-snowball-the-cockatoo-suggests-humans-arent-the-only-ones-who-can-dance/)
 * [2025-03-02, 12:13:47](https://news.ycombinator.com/item?id=43229668) - [Mozilla flamed by Firefox fans after reneging on promises to not sell their data](https://www.theregister.com/2025/03/02/mozilla_introduces_terms_of_use/)
 * [2025-03-02, 12:00:27](https://news.ycombinator.com/item?id=43229569) - [Show HN: SafeHaven – A Minimal VPN Implementation in Go](https://github.com/kwakubiney/safehaven)
 * [2025-03-02, 11:31:16](https://news.ycombinator.com/item?id=43229378) - [Trust in Firefox and Mozilla Is Gone – Let's Talk Alternatives](https://boilingsteam.com/poll-trust-in-firefox-mozilla-is-gone/)
