@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-03-05, 12:45:00",
+      "https://news.ycombinator.com/item?id=43265794"
+    ],
+    [
+      "They wanted to save us from a dark AI future. Then six people were killed",
+      "https://www.theguardian.com/global/ng-interactive/2025/mar/05/zizians-artificial-intelligence"
+    ]
+  ],
+  [
+    [
       "2025-03-05, 12:06:40",
       "https://news.ycombinator.com/item?id=43265521"
     ],
     [
       "The Return of Digg, a Star of an Earlier Internet Era",
       "https://www.nytimes.com/2025/03/05/technology/digg-alexis-ohanian-kevin-rose.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-05, 11:47:36",
+      "https://news.ycombinator.com/item?id=43265399"
+    ],
+    [
+      "A sysadmin's rant about feed readers and crawlers (2022)",
+      "http://rachelbythebay.com/w/2022/03/07/get/"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "Richard Sutton and Andrew Barto Win 2024 Turing Award",
       "https://awards.acm.org/about/2024-turing"
-    ]
-  ],
-  [
-    [
-      "2025-03-05, 09:29:13",
-      "https://news.ycombinator.com/item?id=43264626"
-    ],
-    [
-      "Get Started with Neural Rendering Using Nvidia RTX Kit (Vulkan)",
-      "https://developer.nvidia.com/blog/get-started-with-neural-rendering-using-nvidia-rtx-kit/"
     ]
   ],
   [
@@ -241,12 +251,12 @@
   ],
   [
     [
-      "2025-03-02, 12:44:16",
-      "https://news.ycombinator.com/item?id=43229935"
+      "2025-03-02, 21:36:20",
+      "https://news.ycombinator.com/item?id=43235424"
     ],
     [
-      "Study of cockatoo Snowball suggests humans aren't the only ones who can dance",
-      "https://news.harvard.edu/gazette/story/2019/07/study-of-snowball-the-cockatoo-suggests-humans-arent-the-only-ones-who-can-dance/"
+      "Why Vermont farmers are using urine on their crops",
+      "https://www.bbc.com/future/article/20250227-the-vermont-farmers-using-urine-to-grow-their-crops"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "A Map of Python",
       "https://fi-le.net/pypi/"
-    ]
-  ],
-  [
-    [
-      "2025-03-01, 08:19:11",
-      "https://news.ycombinator.com/item?id=43217209"
-    ],
-    [
-      "The cost of Go's panic and recover",
-      "https://jub0bs.com/posts/2025-02-28-cost-of-panic-recover/"
     ]
   ]
 ]
