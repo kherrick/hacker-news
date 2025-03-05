@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-05, 16:22:42](https://news.ycombinator.com/item?id=43268681) - [YouTube Premium Lite: Ad-Free Viewing for $7.99/Month](https://blog.youtube/news-and-events/introducing-premium-lite/)
 * [2025-03-05, 16:08:02](https://news.ycombinator.com/item?id=43268454) - [My Beancount books are 95% automatic after 3 years (2024)](https://fangpenlin.com/posts/2024/12/30/my-beancount-books-are-95-percent-automatic/)
 * [2025-03-05, 16:04:49](https://news.ycombinator.com/item?id=43268411) - [After 120 years, Yellowstone bison are a single breeding population](https://phys.org/news/2025-03-years-efforts-yellowstone-bison-population.html)
 * [2025-03-05, 16:04:11](https://news.ycombinator.com/item?id=43268401) - [JCGT – Arc Blanc: a real time ocean simulation](https://jcgt.org/published/0014/01/05/)
@@ -21,7 +22,6 @@
 * [2025-03-05, 01:58:11](https://news.ycombinator.com/item?id=43261729) - [Mox – modern, secure, all-in-one email server](https://www.xmox.nl/)
 * [2025-03-05, 01:41:14](https://news.ycombinator.com/item?id=43261650) - [Writing an LLM from scratch, part 8 – trainable self-attention](https://www.gilesthomas.com/2025/03/llm-from-scratch-8-trainable-self-attention)
 * [2025-03-04, 19:05:43](https://news.ycombinator.com/item?id=43258709) - [Why fastDOOM is fast](https://fabiensanglard.net/fastdoom/index.html)
-* [2025-03-04, 17:58:30](https://news.ycombinator.com/item?id=43257963) - [Solving SICP](https://lockywolf.wordpress.com/2021/02/08/solving-sicp/)
 * [2025-03-04, 17:04:17](https://news.ycombinator.com/item?id=43257323) - [Launch HN: Enhanced Radar (YC W25) – A safety net for air traffic control](https://news.ycombinator.com/item?id=43257323)
 * [2025-03-03, 07:00:57](https://news.ycombinator.com/item?id=43239046) - [What Vivian Maier saw in color (2018)](https://www.newyorker.com/culture/photo-booth/what-vivian-maier-saw-in-color)
 * [2025-03-02, 22:59:13](https://news.ycombinator.com/item?id=43236184) - [The Differences Between Deep Research, Deep Research, and Deep Research](https://leehanchung.github.io/blogs/2025/02/26/deep-research/)
