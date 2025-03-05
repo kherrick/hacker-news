@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2025-03-01, 12:44:40",
+      "https://news.ycombinator.com/item?id=43218724"
+    ],
+    [
+      "Asteroid fragments upend theory of how life on Earth bloomed",
+      "https://www.nature.com/articles/d41586-025-00264-3"
+    ]
+  ],
+  [
+    [
       "2025-03-01, 11:44:18",
       "https://news.ycombinator.com/item?id=43218343"
     ],
@@ -287,16 +297,6 @@
     [
       "The cost of Go's panic and recover",
       "https://jub0bs.com/posts/2025-02-28-cost-of-panic-recover/"
-    ]
-  ],
-  [
-    [
-      "2025-03-01, 07:17:53",
-      "https://news.ycombinator.com/item?id=43216785"
-    ],
-    [
-      "TurboWarp – Run Scratch projects faster",
-      "https://turbowarp.org"
     ]
   ]
 ]
