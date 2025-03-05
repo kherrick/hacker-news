@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-05, 19:15:19](https://news.ycombinator.com/item?id=43270928) - [Why did the US let a child safety bill for social media die?](https://www.theguardian.com/us-news/2025/feb/16/kids-social-media-online-safety-act)
+* [2025-03-05, 19:09:39](https://news.ycombinator.com/item?id=43270843) - [QwQ-32B: Embracing the Power of Reinforcement Learning](https://qwenlm.github.io/blog/qwq-32b/)
 * [2025-03-05, 19:09:19](https://news.ycombinator.com/item?id=43270835) - [Tailscale Is Pretty Useful](https://blog.6nok.org/tailscale-is-pretty-useful/)
 * [2025-03-05, 19:06:27](https://news.ycombinator.com/item?id=43270799) - [Gardener wins £1M payout caused by software bug](https://www.bbc.co.uk/news/articles/cx2gl2n2n14o)
 * [2025-03-05, 18:56:47](https://news.ycombinator.com/item?id=43270687) - [Skynet Won and Destroyed Humanity](https://dmathieu.com/en/opinions/skynet-won/)
@@ -18,7 +20,6 @@
 * [2025-03-05, 14:06:54](https://news.ycombinator.com/item?id=43266537) - [MacBook Air M4](https://www.apple.com/macbook-air/)
 * [2025-03-05, 14:00:57](https://news.ycombinator.com/item?id=43266474) - [Apple unveils new Mac Studio](https://www.apple.com/newsroom/2025/03/apple-unveils-new-mac-studio-the-most-powerful-mac-ever/)
 * [2025-03-05, 13:59:50](https://news.ycombinator.com/item?id=43266453) - [Apple M3 Ultra](https://www.apple.com/newsroom/2025/03/apple-reveals-m3-ultra-taking-apple-silicon-to-a-new-extreme/)
-* [2025-03-05, 13:18:28](https://news.ycombinator.com/item?id=43266029) - [How a key ingredient in Coca-Cola, M&M's is smuggled from war-torn Sudan](https://www.middleeastmonitor.com/20250304-how-a-key-ingredient-in-coca-cola-mms-is-smuggled-from-war-torn-sudan/)
 * [2025-03-05, 11:52:28](https://news.ycombinator.com/item?id=43265431) - [MS Paint IDE](https://ms-paint-i.de/)
 * [2025-03-05, 11:29:50](https://news.ycombinator.com/item?id=43265303) - [NASA Successfully Acquires GPS Signals on Moon](https://www.nasa.gov/general/nasa-successfully-acquires-gps-signals-on-moon/)
 * [2025-03-05, 10:25:55](https://news.ycombinator.com/item?id=43264957) - [Lynx: Open Source Native Cross Platform framework used in TikTok](https://lynxjs.org/blog/lynx-unlock-native-for-more.html)
@@ -27,7 +28,6 @@
 * [2025-03-05, 01:58:11](https://news.ycombinator.com/item?id=43261729) - [Mox – modern, secure, all-in-one email server](https://www.xmox.nl/)
 * [2025-03-03, 13:27:07](https://news.ycombinator.com/item?id=43241499) - [How Math Academy pulled me out of the Valley of Despair](https://mikelikejordan.bearblog.dev/how-math-academy-pulled-me-out-of-the-valley-of-despair/)
 * [2025-03-02, 22:59:13](https://news.ycombinator.com/item?id=43236184) - [The Differences Between Deep Research, Deep Research, and Deep Research](https://leehanchung.github.io/blogs/2025/02/26/deep-research/)
-* [2025-03-02, 20:10:55](https://news.ycombinator.com/item?id=43234510) - [Rotors: A practical introduction for 3D graphics (2023)](https://jacquesheunis.com/post/rotors/)
 * [2025-03-02, 18:04:16](https://news.ycombinator.com/item?id=43233137) - [From ACS to Altair: The Rise of the Hobby Computer](https://technicshistory.com/2025/02/22/from-acs-to-altair-the-rise-of-the-hobby-computer/)
 * [2025-03-01, 12:44:40](https://news.ycombinator.com/item?id=43218724) - [Asteroid fragments upend theory of how life on Earth bloomed](https://www.nature.com/articles/d41586-025-00264-3)
 

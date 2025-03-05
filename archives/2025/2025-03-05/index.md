@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-05](index.md)
 
+* [2025-03-05, 19:15:19](https://news.ycombinator.com/item?id=43270928) - [Why did the US let a child safety bill for social media die?](https://www.theguardian.com/us-news/2025/feb/16/kids-social-media-online-safety-act)
+* [2025-03-05, 19:09:39](https://news.ycombinator.com/item?id=43270843) - [QwQ-32B: Embracing the Power of Reinforcement Learning](https://qwenlm.github.io/blog/qwq-32b/)
 * [2025-03-05, 19:09:19](https://news.ycombinator.com/item?id=43270835) - [Tailscale Is Pretty Useful](https://blog.6nok.org/tailscale-is-pretty-useful/)
 * [2025-03-05, 19:06:27](https://news.ycombinator.com/item?id=43270799) - [Gardener wins £1M payout caused by software bug](https://www.bbc.co.uk/news/articles/cx2gl2n2n14o)
 * [2025-03-05, 18:56:47](https://news.ycombinator.com/item?id=43270687) - [Skynet Won and Destroyed Humanity](https://dmathieu.com/en/opinions/skynet-won/)
