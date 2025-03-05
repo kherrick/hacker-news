@@ -58,6 +58,7 @@
 * [2025-03-03, 13:27:07](https://news.ycombinator.com/item?id=43241499) - [How Math Academy pulled me out of the Valley of Despair](https://mikelikejordan.bearblog.dev/how-math-academy-pulled-me-out-of-the-valley-of-despair/)
 * [2025-03-03, 13:14:22](https://news.ycombinator.com/item?id=43241404) - [The Internals of PostgreSQL](http://www.interdb.jp/pg/index.html)
 * [2025-03-03, 12:44:33](https://news.ycombinator.com/item?id=43241212) - [Amazon's Drones Are Grounded. The Birds and Dogs of This Texas Town Are Grateful](https://www.wired.com/story/texas-amazon-drones-stop-flying/)
+* [2025-03-03, 11:45:49](https://news.ycombinator.com/item?id=43240821) - [Wake up Neo: An ancient painting competition, and The Matrix](https://keithamcgowan.blogspot.com/2025/03/wake-up-neothe-matrix-ai-and-ancient.html)
 * [2025-03-03, 10:28:28](https://news.ycombinator.com/item?id=43240354) - [Difficult Employees (and How to Handle Them)](https://newsletter.canopy.is/p/the-5-most-difficult-employees-and)
 * [2025-03-03, 10:19:58](https://news.ycombinator.com/item?id=43240301) - [The IBM 650: An appreciation from the field (1986) [pdf]](https://ed-thelen.org/comp-hist/KnuthIBM650Appreciation.pdf)
 * [2025-03-03, 08:56:28](https://news.ycombinator.com/item?id=43239774) - [About Google Chrome's \"This extension may soon no longer be supported\"](https://github.com/gorhill/uBlock/wiki/About-Google-Chrome%27s-%22This-extension-may-soon-no-longer-be-supported%22)
