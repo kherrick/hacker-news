@@ -27,9 +27,9 @@
 * [2025-03-02, 14:05:08](https://news.ycombinator.com/item?id=43230600) - [The Ancient Art of Color](https://worldhistory.substack.com/p/the-ancient-art-of-color)
 * [2025-03-02, 12:44:16](https://news.ycombinator.com/item?id=43229935) - [Study of cockatoo Snowball suggests humans aren't the only ones who can dance](https://news.harvard.edu/gazette/story/2019/07/study-of-snowball-the-cockatoo-suggests-humans-arent-the-only-ones-who-can-dance/)
 * [2025-03-01, 21:36:14](https://news.ycombinator.com/item?id=43223930) - [BMW Group Product Catalog–Historic Models](https://www.bmwgroup-classic.com/en/history/historic-modeloverview-bmw.html)
+* [2025-03-01, 12:44:40](https://news.ycombinator.com/item?id=43218724) - [Asteroid fragments upend theory of how life on Earth bloomed](https://www.nature.com/articles/d41586-025-00264-3)
 * [2025-03-01, 11:44:18](https://news.ycombinator.com/item?id=43218343) - [A Map of Python](https://fi-le.net/pypi/)
 * [2025-03-01, 08:19:11](https://news.ycombinator.com/item?id=43217209) - [The cost of Go's panic and recover](https://jub0bs.com/posts/2025-02-28-cost-of-panic-recover/)
-* [2025-03-01, 07:17:53](https://news.ycombinator.com/item?id=43216785) - [TurboWarp – Run Scratch projects faster](https://turbowarp.org)
 
 ## [Archives](archives/index.md)
 
