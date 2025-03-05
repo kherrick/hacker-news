@@ -30,6 +30,7 @@
 * [2025-03-04, 15:41:12](https://news.ycombinator.com/item?id=43256113) - [Should Managers Still Code?](https://theengineeringmanager.substack.com/p/should-managers-still-code)
 * [2025-03-04, 15:35:57](https://news.ycombinator.com/item?id=43256022) - [Small German town starts testing geothermal power utilizing new techniques](https://apnews.com/article/energy-transition-gas-geothermal-geretsried-germany-heat-electricity-89a356c70851938963314b3882377247)
 * [2025-03-04, 15:27:01](https://news.ycombinator.com/item?id=43255895) - [Ride into the Future with Waymo on Uber in Austin](https://www.uber.com/newsroom/waymo-on-uber-austin/)
+* [2025-03-04, 15:26:28](https://news.ycombinator.com/item?id=43255885) - [Now Available: Depot Registry](https://depot.dev/blog/introducing-depot-registry)
 * [2025-03-04, 15:24:32](https://news.ycombinator.com/item?id=43255855) - [Show HN: Appstat – Process Monitor for Windows](https://pragmar.com/appstat/)
 * [2025-03-04, 15:02:39](https://news.ycombinator.com/item?id=43255556) - [Father tries to block daughter's euthanasia in landmark Spanish case](https://www.bbc.com/news/articles/crrdqdky9gxo)
 * [2025-03-04, 15:00:51](https://news.ycombinator.com/item?id=43255529) - [Bayleaf · Building a low-profile wireless split keyboard](https://www.graz.io/articles/bayleaf-wireless-keyboard)
