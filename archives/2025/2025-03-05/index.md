@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-05](index.md)
 
+* [2025-03-05, 18:32:10](https://news.ycombinator.com/item?id=43270398) - [The Strategic Crypto Swindle](https://www.theatlantic.com/ideas/archive/2025/03/strategic-cryptocurrency-reserve-swindle/681917/)
+* [2025-03-05, 18:20:45](https://news.ycombinator.com/item?id=43270251) - [Leaked VA memo calls for up to 83,000 layoffs to reduce workforce to 2019 levels](https://www.govexec.com/workforce/2025/03/va-plans-lay-many-83000-employees-year/403477/)
+* [2025-03-05, 18:07:06](https://news.ycombinator.com/item?id=43270079) - [Apple takes UK to court over 'backdoor' order](https://www.theregister.com/2025/03/05/apple_reportedly_ipt_complaint/)
 * [2025-03-05, 17:49:13](https://news.ycombinator.com/item?id=43269846) - [There Was a Texas Lottery Arbitrage](https://www.bloomberg.com/opinion/articles/2025-03-05/there-was-a-texas-lottery-arbitrage)
 * [2025-03-05, 17:41:11](https://news.ycombinator.com/item?id=43269727) - [Doge seeks to cancel lease on nuclear waste storage facility](https://talkingpointsmemo.com/edblog/doge-doh-nuclear-waste-facility-edition)
 * [2025-03-05, 17:09:41](https://news.ycombinator.com/item?id=43269368) - [The Tiny Star Explosions Powering Moore's Law](https://spectrum.ieee.org/euv-light-source)

@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-05, 18:32:10](https://news.ycombinator.com/item?id=43270398) - [The Strategic Crypto Swindle](https://www.theatlantic.com/ideas/archive/2025/03/strategic-cryptocurrency-reserve-swindle/681917/)
+* [2025-03-05, 18:20:45](https://news.ycombinator.com/item?id=43270251) - [Leaked VA memo calls for up to 83,000 layoffs to reduce workforce to 2019 levels](https://www.govexec.com/workforce/2025/03/va-plans-lay-many-83000-employees-year/403477/)
+* [2025-03-05, 18:07:06](https://news.ycombinator.com/item?id=43270079) - [Apple takes UK to court over 'backdoor' order](https://www.theregister.com/2025/03/05/apple_reportedly_ipt_complaint/)
 * [2025-03-05, 17:49:13](https://news.ycombinator.com/item?id=43269846) - [There Was a Texas Lottery Arbitrage](https://www.bloomberg.com/opinion/articles/2025-03-05/there-was-a-texas-lottery-arbitrage)
-* [2025-03-05, 17:41:11](https://news.ycombinator.com/item?id=43269727) - [Doge seeks to cancel lease on nuclear waste storage facility](https://talkingpointsmemo.com/edblog/doge-doh-nuclear-waste-facility-edition)
 * [2025-03-05, 17:09:41](https://news.ycombinator.com/item?id=43269368) - [The Tiny Star Explosions Powering Moore's Law](https://spectrum.ieee.org/euv-light-source)
-* [2025-03-05, 17:07:17](https://news.ycombinator.com/item?id=43269332) - [Expanding AI Overviews and Introducing AI Mode](https://blog.google/products/search/ai-mode-search/)
 * [2025-03-05, 17:07:09](https://news.ycombinator.com/item?id=43269330) - [Show HN: Beating Pokemon Red with RL and <10M Parameters](https://drubinstein.github.io/pokerl/)
 * [2025-03-05, 17:00:10](https://news.ycombinator.com/item?id=43269237) - [Greptile (YC W24) Is Hiring](https://www.ycombinator.com/companies/greptile/jobs/rMIxqoV-design-engineer)
 * [2025-03-05, 16:08:02](https://news.ycombinator.com/item?id=43268454) - [My Beancount books are 95% automatic after 3 years (2024)](https://fangpenlin.com/posts/2024/12/30/my-beancount-books-are-95-percent-automatic/)
@@ -28,7 +29,6 @@
 * [2025-03-02, 21:36:20](https://news.ycombinator.com/item?id=43235424) - [Why Vermont farmers are using urine on their crops](https://www.bbc.com/future/article/20250227-the-vermont-farmers-using-urine-to-grow-their-crops)
 * [2025-03-02, 20:10:55](https://news.ycombinator.com/item?id=43234510) - [Rotors: A practical introduction for 3D graphics (2023)](https://jacquesheunis.com/post/rotors/)
 * [2025-03-02, 18:04:16](https://news.ycombinator.com/item?id=43233137) - [From ACS to Altair: The Rise of the Hobby Computer](https://technicshistory.com/2025/02/22/from-acs-to-altair-the-rise-of-the-hobby-computer/)
-* [2025-03-02, 00:34:57](https://news.ycombinator.com/item?id=43225805) - [The Planemaker Who Walked Beneath the Water](https://workingwoodenplanes.com/p/2025-02-28-ebenezer-clifford-bell-diver-planemaker/)
 * [2025-03-01, 12:44:40](https://news.ycombinator.com/item?id=43218724) - [Asteroid fragments upend theory of how life on Earth bloomed](https://www.nature.com/articles/d41586-025-00264-3)
 
 ## [Archives](archives/index.md)
