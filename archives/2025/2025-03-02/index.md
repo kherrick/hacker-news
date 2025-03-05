@@ -36,6 +36,7 @@
 * [2025-03-02, 18:17:48](https://news.ycombinator.com/item?id=43233273) - ['Your showerhead is lying to you'](https://www.washingtonpost.com/opinions/2025/02/26/shower-pressure-save-water/)
 * [2025-03-02, 18:14:22](https://news.ycombinator.com/item?id=43233245) - [Show HN: Fast Transition from Firefox to Librewolf](https://news.ycombinator.com/item?id=43233245)
 * [2025-03-02, 18:04:35](https://news.ycombinator.com/item?id=43233143) - [The Pentium contains a complicated circuit to multiply by three](https://www.righto.com/2025/03/pentium-multiplier-adder-reverse-engineered.html)
+* [2025-03-02, 18:04:16](https://news.ycombinator.com/item?id=43233137) - [From ACS to Altair: The Rise of the Hobby Computer](https://technicshistory.com/2025/02/22/from-acs-to-altair-the-rise-of-the-hobby-computer/)
 * [2025-03-02, 17:52:48](https://news.ycombinator.com/item?id=43232999) - [The Era of Solopreneurs Is Here](https://manidoraisamy.com/developer-forever/post/the-era-of-solopreneurs-is-here.anc-52867368-2029-4dc5-a7da-ece853a648b5.html)
 * [2025-03-02, 17:40:36](https://news.ycombinator.com/item?id=43232880) - [Speedrunners are vulnerability researchers, they just don't know it yet](https://zetier.com/speedrunners-are-vulnerability-researchers/)
 * [2025-03-02, 17:36:20](https://news.ycombinator.com/item?id=43232841) - [Falsehoods programmers believe about languages (localization)](https://www.lexiconista.com/falsehoods-about-languages/)

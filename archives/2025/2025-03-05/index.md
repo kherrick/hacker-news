@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2025-03-05](index.md)
 
 * [2025-03-05, 17:49:13](https://news.ycombinator.com/item?id=43269846) - [There Was a Texas Lottery Arbitrage](https://www.bloomberg.com/opinion/articles/2025-03-05/there-was-a-texas-lottery-arbitrage)
+* [2025-03-05, 17:41:11](https://news.ycombinator.com/item?id=43269727) - [Doge seeks to cancel lease on nuclear waste storage facility](https://talkingpointsmemo.com/edblog/doge-doh-nuclear-waste-facility-edition)
 * [2025-03-05, 17:09:41](https://news.ycombinator.com/item?id=43269368) - [The Tiny Star Explosions Powering Moore's Law](https://spectrum.ieee.org/euv-light-source)
 * [2025-03-05, 17:07:17](https://news.ycombinator.com/item?id=43269332) - [Expanding AI Overviews and Introducing AI Mode](https://blog.google/products/search/ai-mode-search/)
+* [2025-03-05, 17:07:09](https://news.ycombinator.com/item?id=43269330) - [Show HN: Beating Pokemon Red with RL and <10M Parameters](https://drubinstein.github.io/pokerl/)
 * [2025-03-05, 17:00:10](https://news.ycombinator.com/item?id=43269237) - [Greptile (YC W24) Is Hiring](https://www.ycombinator.com/companies/greptile/jobs/rMIxqoV-design-engineer)
 * [2025-03-05, 16:22:42](https://news.ycombinator.com/item?id=43268681) - [YouTube Premium Lite: Ad-Free Viewing for $7.99/Month](https://blog.youtube/news-and-events/introducing-premium-lite/)
 * [2025-03-05, 16:08:02](https://news.ycombinator.com/item?id=43268454) - [My Beancount books are 95% automatic after 3 years (2024)](https://fangpenlin.com/posts/2024/12/30/my-beancount-books-are-95-percent-automatic/)
