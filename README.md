@@ -1,9 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-05, 03:50:21](https://news.ycombinator.com/item?id=43262510) - [Delta Chat – Email Based PGP Encrypted Chat](https://delta.chat/)
-* [2025-03-05, 03:45:46](https://news.ycombinator.com/item?id=43262468) - [We're Charging Our Cars Wrong](https://spectrum.ieee.org/ev-charging-2671242103)
 * [2025-03-05, 03:11:54](https://news.ycombinator.com/item?id=43262188) - [NetBSD on a JavaStation](https://fatsquirrel.org/oldfartsalmanac/netbsd-on-a-javastation/)
-* [2025-03-05, 02:58:47](https://news.ycombinator.com/item?id=43262093) - [The Nightmare Bicycle](https://www.geoffreylitt.com/2025/03/03/the-nightmare-bicycle.html)
 * [2025-03-05, 02:51:17](https://news.ycombinator.com/item?id=43262044) - [Microsoft Publisher will no longer be supported after October 2026](https://support.microsoft.com/en-gb/office/microsoft-publisher-will-no-longer-be-supported-after-october-2026-ee6302a2-4bc7-4841-babf-8e9be3acbfd7)
 * [2025-03-05, 02:35:47](https://news.ycombinator.com/item?id=43261941) - [The Demoralization is just Beginning](https://geohot.github.io//blog/jekyll/update/2025/03/03/demoralization-is-just-beginning.html)
 * [2025-03-05, 02:34:47](https://news.ycombinator.com/item?id=43261933) - [Brother accused of locking down third-party printer ink cartridges](https://www.tomshardware.com/peripherals/printers/brother-accused-of-locking-down-third-party-printer-ink-cartridges-via-firmware-updates-removing-older-firmware-versions-from-support-portals)
@@ -22,6 +20,8 @@
 * [2025-03-04, 15:41:12](https://news.ycombinator.com/item?id=43256113) - [Should managers still code?](https://theengineeringmanager.substack.com/p/should-managers-still-code)
 * [2025-03-04, 15:00:51](https://news.ycombinator.com/item?id=43255529) - [Show HN: Bayleaf – Building a low-profile wireless split keyboard](https://www.graz.io/articles/bayleaf-wireless-keyboard)
 * [2025-03-04, 14:24:49](https://news.ycombinator.com/item?id=43254995) - [What a crab sees before it gets eaten by a cuttlefish](https://www.nytimes.com/2025/03/03/science/cuttlefish-camouflage-huting-crabs.html)
+* [2025-03-04, 13:35:12](https://news.ycombinator.com/item?id=43254351) - [Show HN: Fork of Claude-code working with local and other LLM providers](https://github.com/dnakov/anon-kode)
+* [2025-03-03, 18:26:42](https://news.ycombinator.com/item?id=43245003) - [Remembering Duane Blehm](https://www.engineersneedart.com/blog/duane/duane.html)
 * [2025-03-03, 15:18:22](https://news.ycombinator.com/item?id=43242551) - [Show HN: Open-source Deep Research across workplace applications](https://github.com/onyx-dot-app/onyx)
 * [2025-03-02, 14:05:08](https://news.ycombinator.com/item?id=43230600) - [The Ancient Art of Color](https://worldhistory.substack.com/p/the-ancient-art-of-color)
 * [2025-03-02, 12:44:16](https://news.ycombinator.com/item?id=43229935) - [Study of cockatoo Snowball suggests humans aren't the only ones who can dance](https://news.harvard.edu/gazette/story/2019/07/study-of-snowball-the-cockatoo-suggests-humans-arent-the-only-ones-who-can-dance/)
