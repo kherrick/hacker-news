@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-05, 17:09:41](https://news.ycombinator.com/item?id=43269368) - [The Tiny Star Explosions Powering Moore's Law](https://spectrum.ieee.org/euv-light-source)
+* [2025-03-05, 17:07:17](https://news.ycombinator.com/item?id=43269332) - [Expanding AI Overviews and Introducing AI Mode](https://blog.google/products/search/ai-mode-search/)
 * [2025-03-05, 17:00:10](https://news.ycombinator.com/item?id=43269237) - [Greptile (YC W24) Is Hiring](https://www.ycombinator.com/companies/greptile/jobs/rMIxqoV-design-engineer)
 * [2025-03-05, 16:08:02](https://news.ycombinator.com/item?id=43268454) - [My Beancount books are 95% automatic after 3 years (2024)](https://fangpenlin.com/posts/2024/12/30/my-beancount-books-are-95-percent-automatic/)
 * [2025-03-05, 16:04:49](https://news.ycombinator.com/item?id=43268411) - [After 120 years, Yellowstone bison are a single breeding population](https://phys.org/news/2025-03-years-efforts-yellowstone-bison-population.html)
@@ -19,7 +21,6 @@
 * [2025-03-05, 03:11:54](https://news.ycombinator.com/item?id=43262188) - [NetBSD on a JavaStation](https://fatsquirrel.org/oldfartsalmanac/netbsd-on-a-javastation/)
 * [2025-03-05, 02:34:47](https://news.ycombinator.com/item?id=43261933) - [Brother accused of locking down third-party printer ink cartridges](https://www.tomshardware.com/peripherals/printers/brother-accused-of-locking-down-third-party-printer-ink-cartridges-via-firmware-updates-removing-older-firmware-versions-from-support-portals)
 * [2025-03-05, 01:58:11](https://news.ycombinator.com/item?id=43261729) - [Mox – modern, secure, all-in-one email server](https://www.xmox.nl/)
-* [2025-03-05, 01:41:14](https://news.ycombinator.com/item?id=43261650) - [Writing an LLM from scratch, part 8 – trainable self-attention](https://www.gilesthomas.com/2025/03/llm-from-scratch-8-trainable-self-attention)
 * [2025-03-04, 19:05:43](https://news.ycombinator.com/item?id=43258709) - [Why fastDOOM is fast](https://fabiensanglard.net/fastdoom/index.html)
 * [2025-03-04, 17:04:17](https://news.ycombinator.com/item?id=43257323) - [Launch HN: Enhanced Radar (YC W25) – A safety net for air traffic control](https://news.ycombinator.com/item?id=43257323)
 * [2025-03-03, 13:27:07](https://news.ycombinator.com/item?id=43241499) - [How Math Academy pulled me out of the Valley of Despair](https://mikelikejordan.bearblog.dev/how-math-academy-pulled-me-out-of-the-valley-of-despair/)
@@ -29,7 +30,6 @@
 * [2025-03-02, 20:10:55](https://news.ycombinator.com/item?id=43234510) - [Rotors: A practical introduction for 3D graphics (2023)](https://jacquesheunis.com/post/rotors/)
 * [2025-03-02, 00:34:57](https://news.ycombinator.com/item?id=43225805) - [The Planemaker Who Walked Beneath the Water](https://workingwoodenplanes.com/p/2025-02-28-ebenezer-clifford-bell-diver-planemaker/)
 * [2025-03-01, 12:44:40](https://news.ycombinator.com/item?id=43218724) - [Asteroid fragments upend theory of how life on Earth bloomed](https://www.nature.com/articles/d41586-025-00264-3)
-* [2025-03-01, 11:44:18](https://news.ycombinator.com/item?id=43218343) - [A Map of Python](https://fi-le.net/pypi/)
 
 ## [Archives](archives/index.md)
 
