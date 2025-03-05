@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-05](index.md)
 
+* [2025-03-05, 13:18:28](https://news.ycombinator.com/item?id=43266029) - [How a key ingredient in Coca-Cola, M&M's is smuggled from war-torn Sudan](https://www.middleeastmonitor.com/20250304-how-a-key-ingredient-in-coca-cola-mms-is-smuggled-from-war-torn-sudan/)
+* [2025-03-05, 13:08:42](https://news.ycombinator.com/item?id=43265955) - [Who's Afraid of Peter Thiel? A New Biography Suggests We All Should Be (2021)](https://time.com/6092844/peter-thiel-power-biography-the-contrarian/)
 * [2025-03-05, 12:45:00](https://news.ycombinator.com/item?id=43265794) - [They wanted to save us from a dark AI future. Then six people were killed](https://www.theguardian.com/global/ng-interactive/2025/mar/05/zizians-artificial-intelligence)
 * [2025-03-05, 12:06:40](https://news.ycombinator.com/item?id=43265521) - [The Return of Digg, a Star of an Earlier Internet Era](https://www.nytimes.com/2025/03/05/technology/digg-alexis-ohanian-kevin-rose.html)
 * [2025-03-05, 11:47:36](https://news.ycombinator.com/item?id=43265399) - [A sysadmin's rant about feed readers and crawlers (2022)](http://rachelbythebay.com/w/2022/03/07/get/)
