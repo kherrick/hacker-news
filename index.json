@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-05, 00:27:34",
+      "https://news.ycombinator.com/item?id=43261218"
+    ],
+    [
+      "Melbourne startup launches 'biological computer' made of human brain cells",
+      "https://www.abc.net.au/news/science/2025-03-05/cortical-labs-neuron-brain-chip/104996484"
+    ]
+  ],
+  [
+    [
+      "2025-03-04, 21:14:56",
+      "https://news.ycombinator.com/item?id=43259862"
+    ],
+    [
+      "Show HN: ArchGW – An open-source intelligent proxy server for prompts",
+      "https://github.com/katanemo/archgw"
+    ]
+  ],
+  [
+    [
       "2025-03-04, 19:52:38",
       "https://news.ycombinator.com/item?id=43259182"
     ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2025-03-04, 00:04:03",
-      "https://news.ycombinator.com/item?id=43248429"
-    ],
-    [
-      "Lawrence of Arabia, Paul Atreides, and the roots of Frank Herbert's Dune (2021)",
-      "https://reactormag.com/lawrence-of-arabia-paul-atreides-and-the-roots-of-frank-herberts-dune/"
-    ]
-  ],
-  [
-    [
       "2025-03-03, 21:19:56",
       "https://news.ycombinator.com/item?id=43246892"
     ],
     [
       "Repairable Flatpack Toaster",
       "https://www.kaseyhou.com/#/repairable-flatpack-toaster/"
-    ]
-  ],
-  [
-    [
-      "2025-03-03, 17:29:12",
-      "https://news.ycombinator.com/item?id=43244307"
-    ],
-    [
-      "SQLite-on-the-server is misunderstood: Better at hyper-scale than micro-scale",
-      "https://rivet.gg/blog/2025-02-16-sqlite-on-the-server-is-misunderstood"
     ]
   ],
   [
@@ -231,22 +231,32 @@
   ],
   [
     [
-      "2025-03-03, 16:01:41",
-      "https://news.ycombinator.com/item?id=43243024"
-    ],
-    [
-      "Ask HN: Who is hiring? (March 2025)",
-      "https://news.ycombinator.com/item?id=43243024"
-    ]
-  ],
-  [
-    [
       "2025-03-03, 15:18:22",
       "https://news.ycombinator.com/item?id=43242551"
     ],
     [
       "Show HN: Open-source Deep Research across workplace applications",
       "https://github.com/onyx-dot-app/onyx"
+    ]
+  ],
+  [
+    [
+      "2025-03-02, 20:05:28",
+      "https://news.ycombinator.com/item?id=43234457"
+    ],
+    [
+      "An Uneasy Propaganda Alliance",
+      "https://www.historytoday.com/archive/history-matters/uneasy-propaganda-alliance"
+    ]
+  ],
+  [
+    [
+      "2025-03-02, 14:34:16",
+      "https://news.ycombinator.com/item?id=43230862"
+    ],
+    [
+      "The Tinkerings of Robert Noyce by Tom Wolfe (1983)",
+      "https://classic.esquire.com/article/share/58ff278a-21da-4ee4-a446-b7f451b90275"
     ]
   ],
   [
@@ -271,12 +281,12 @@
   ],
   [
     [
-      "2025-03-01, 09:18:02",
-      "https://news.ycombinator.com/item?id=43217546"
+      "2025-03-01, 08:29:48",
+      "https://news.ycombinator.com/item?id=43217264"
     ],
     [
-      "Show HN: PG-Capture – a better way to sync Postgres with Algolia (or Elastic)",
-      "https://pg-capture.onrender.com/"
+      "Chip-8 Archive",
+      "https://johnearnest.github.io/chip8Archive/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The cost of Go's panic and recover",
       "https://jub0bs.com/posts/2025-02-28-cost-of-panic-recover/"
-    ]
-  ],
-  [
-    [
-      "2025-02-28, 20:15:51",
-      "https://news.ycombinator.com/item?id=43209878"
-    ],
-    [
-      "Notorious Malware, Spam Host \"Prospero\" Moves to Kaspersky Lab",
-      "https://krebsonsecurity.com/2025/02/notorious-malware-spam-host-prospero-moves-to-kaspersky-lab/"
     ]
   ]
 ]
