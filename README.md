@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-05, 15:29:56](https://news.ycombinator.com/item?id=43267857) - [Design and Explore Noise Handshake Patterns (2018)](https://noiseexplorer.com/)
+* [2025-03-05, 14:44:04](https://news.ycombinator.com/item?id=43267095) - [Things we've learned about building successful products](https://newsletter.posthog.com/p/50-things-weve-learned-about-building)
 * [2025-03-05, 14:06:54](https://news.ycombinator.com/item?id=43266537) - [MacBook Air M4](https://www.apple.com/macbook-air/)
 * [2025-03-05, 14:03:06](https://news.ycombinator.com/item?id=43266494) - [Jamming: Polish researchers suspect GPS jammers on ships in the Baltic Sea](https://www.heise.de/en/news/Jamming-Polish-researchers-suspect-GPS-jammers-on-ships-in-the-Baltic-Sea-10304169.html)
 * [2025-03-05, 14:00:57](https://news.ycombinator.com/item?id=43266474) - [Apple unveils new Mac Studio, the most powerful Mac ever, featuring M4 Max](https://www.apple.com/newsroom/2025/03/apple-unveils-new-mac-studio-the-most-powerful-mac-ever/)
 * [2025-03-05, 13:59:50](https://news.ycombinator.com/item?id=43266453) - [Apple M3 Ultra](https://www.apple.com/newsroom/2025/03/apple-reveals-m3-ultra-taking-apple-silicon-to-a-new-extreme/)
+* [2025-03-05, 13:58:12](https://news.ycombinator.com/item?id=43266429) - [Vulnerability in partner.microsoft.com allows unauthenticated access](https://nvd.nist.gov/vuln/detail/CVE-2024-49035)
 * [2025-03-05, 13:33:51](https://news.ycombinator.com/item?id=43266170) - [Kevin Rose, Alexis Ohanian Acquire Digg](https://techcrunch.com/2025/03/05/kevin-rose-and-alexis-ohanian-acquire-digg/)
 * [2025-03-05, 13:18:28](https://news.ycombinator.com/item?id=43266029) - [How a key ingredient in Coca-Cola, M&M's is smuggled from war-torn Sudan](https://www.middleeastmonitor.com/20250304-how-a-key-ingredient-in-coca-cola-mms-is-smuggled-from-war-torn-sudan/)
 * [2025-03-05, 12:12:34](https://news.ycombinator.com/item?id=43265555) - [ZJIT: Building a Next Generation Ruby JIT](https://rubykaigi.org/2025/presentations/maximecb.html)
@@ -21,7 +23,6 @@
 * [2025-03-05, 01:41:14](https://news.ycombinator.com/item?id=43261650) - [Writing an LLM from scratch, part 8 – trainable self-attention](https://www.gilesthomas.com/2025/03/llm-from-scratch-8-trainable-self-attention)
 * [2025-03-04, 19:05:43](https://news.ycombinator.com/item?id=43258709) - [Why fastDOOM is fast](https://fabiensanglard.net/fastdoom/index.html)
 * [2025-03-04, 17:04:17](https://news.ycombinator.com/item?id=43257323) - [Launch HN: Enhanced Radar (YC W25) – A safety net for air traffic control](https://news.ycombinator.com/item?id=43257323)
-* [2025-03-03, 07:00:57](https://news.ycombinator.com/item?id=43239046) - [What Vivian Maier saw in color (2018)](https://www.newyorker.com/culture/photo-booth/what-vivian-maier-saw-in-color)
 * [2025-03-02, 22:59:13](https://news.ycombinator.com/item?id=43236184) - [The Differences Between Deep Research, Deep Research, and Deep Research](https://leehanchung.github.io/blogs/2025/02/26/deep-research/)
 * [2025-03-02, 21:36:20](https://news.ycombinator.com/item?id=43235424) - [Why Vermont farmers are using urine on their crops](https://www.bbc.com/future/article/20250227-the-vermont-farmers-using-urine-to-grow-their-crops)
 * [2025-03-02, 20:10:55](https://news.ycombinator.com/item?id=43234510) - [Rotors: A practical introduction for 3D graphics (2023)](https://jacquesheunis.com/post/rotors/)
@@ -29,7 +30,6 @@
 * [2025-03-02, 00:34:57](https://news.ycombinator.com/item?id=43225805) - [The Planemaker Who Walked Beneath the Water](https://workingwoodenplanes.com/p/2025-02-28-ebenezer-clifford-bell-diver-planemaker/)
 * [2025-03-01, 21:36:14](https://news.ycombinator.com/item?id=43223930) - [BMW Group Product Catalog–Historic Models](https://www.bmwgroup-classic.com/en/history/historic-modeloverview-bmw.html)
 * [2025-03-01, 12:44:40](https://news.ycombinator.com/item?id=43218724) - [Asteroid fragments upend theory of how life on Earth bloomed](https://www.nature.com/articles/d41586-025-00264-3)
-* [2025-03-01, 11:44:18](https://news.ycombinator.com/item?id=43218343) - [A Map of Python](https://fi-le.net/pypi/)
 
 ## [Archives](archives/index.md)
 
