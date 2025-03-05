@@ -129,6 +129,153 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="43261218">
+          <h3>
+            <a
+              class="item"
+              href="https://www.abc.net.au/news/science/2025-03-05/cortical-labs-neuron-brain-chip/104996484"
+              >Melbourne startup launches 'biological computer' made of human
+              brain cells</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-03-05 @ 00:27:34</span
+              ><span class="points-container"
+                >Points: <span class="points">22</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43261218"
+                  >Comments</a
+                ><span class="descendants">: 16</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="43259862">
+          <h3>
+            <a class="item" href="https://github.com/katanemo/archgw"
+              >Show HN: ArchGW – An open-source intelligent proxy server for
+              prompts</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-03-04 @ 21:14:56</span
+              ><span class="points-container"
+                >Points: <span class="points">16</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43259862"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                We've talked to 100s of developers at places like Twilio, GE
+                Healthcare, Redhat, Square, etc and there was a consistent theme
+                in building AI apps: to move past a nascent demo they are left
+                to their own devices in building out middle ware capabilities so
+                that developers can move faster and ship with confidence.
+              </p>
+              <p>
+                Today, the approach to building an enterprise-ready AI app is
+                cobbling together a large set of mono-functional tools, adding
+                LLM-based preprocessing steps to determine safety (e.g. applying
+                governance and guardrails), ask clarifying questions to improve
+                task performance, support common agentic operations by packaging
+                and managing function calling scenarios manually, etc. Not to
+                mention, all the undifferentiated work in incorporating
+                different LLM models and versions, and managing resiliency,
+                retries and fallback logic.
+              </p>
+              <p>
+                ArchGW was built with the belief that prompts are nuanced and
+                opaque user requests, which require the same capabilities as
+                traditional HTTP requests including secure handling, intelligent
+                routing, robust observability, and integration with backend
+                (API) systems for personalization – outside business logic. We
+                help built Envoy while at Lyft and think its offers a great
+                foundation to build a proxy to manage traffic for prompts.
+              </p>
+              <p>
+                Here are some additional details about the open source project.
+                ArchGW is written in rust, and the request path has three main
+                parts:
+              </p>
+              <p>
+                * Listener subsystem which handles downstream (ingress) and
+                upstream (egress) request processing.
+              </p>
+              <p>
+                * Prompt handler subsystem. This is where ArchGW makes decisions
+                on the safety of the incoming request via its prompt_guard
+                primitive and identifies where to forward the conversation to
+                via its prompt_target primitive.
+              </p>
+              <p>
+                * Model serving subsystem is the interface that hosts all the
+                lightweight LLMs[3] engineered in ArchGW and offers a framework
+                for things like hallucination detection of our these models
+              </p>
+              <p>
+                We loved building this open source project, and our belief is
+                that this infrastructure primitive would help developers build
+                faster, safer and more personalized agents without all the
+                manual prompt engineering and systems integration work needed to
+                get there. We hope to invite other developers to use and improve
+                Arch. Please give it a shot and leave feedback here, or at our
+                discord channel [4]
+              </p>
+              <p>
+                Also here is a quick demo of the project in action [5]. You can
+                check out our public docs here at [6]. Our models are also
+                available here [7].
+              </p>
+              <p>
+                [1]
+                <a href="https://github.com/katanemo/archgw"
+                  >https://github.com/katanemo/archgw</a
+                >
+              </p>
+              <p>
+                [2]
+                <a href="https://www.envoyproxy.io/"
+                  >https://www.envoyproxy.io/</a
+                >
+              </p>
+              <p>
+                [3]
+                <a
+                  href="https://huggingface.co/collections/katanemo/arch-function-66"
+                  >https://huggingface.co/collections/katanemo/arch-function-66</a
+                >...
+              </p>
+              <p>
+                [4]
+                <a
+                  href="https://discord.com/channels/1292630766827737088/12926307682"
+                  >https://discord.com/channels/1292630766827737088/12926307682</a
+                >...
+              </p>
+              <p>
+                [5]
+                <a href="https://www.youtube.com/watch?v=I4Lbhr-NNXk"
+                  >https://www.youtube.com/watch?v=I4Lbhr-NNXk</a
+                >
+              </p>
+              <p>
+                [6]
+                <a href="https://docs.archgw.com/">https://docs.archgw.com/</a>
+              </p>
+              <p>
+                [7]
+                <a href="https://huggingface.co/katanemo"
+                  >https://huggingface.co/katanemo</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="43259182">
           <h3>
             <a
@@ -141,11 +288,11 @@
             <h4>
               <span>2025-03-04 @ 19:52:38</span
               ><span class="points-container"
-                >Points: <span class="points">192</span></span
+                >Points: <span class="points">207</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43259182"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -162,11 +309,11 @@
             <h4>
               <span>2025-03-04 @ 19:05:43</span
               ><span class="points-container"
-                >Points: <span class="points">344</span></span
+                >Points: <span class="points">380</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43258709"
                   >Comments</a
-                ><span class="descendants">: 105</span></span
+                ><span class="descendants">: 117</span></span
               >
             </h4>
           </section>
@@ -182,11 +329,11 @@
             <h4>
               <span>2025-03-04 @ 18:53:44</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">75</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43258585"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
             <div class="text">
@@ -318,11 +465,11 @@
             <h4>
               <span>2025-03-04 @ 18:04:16</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">67</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43258010"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -339,11 +486,11 @@
             <h4>
               <span>2025-03-04 @ 17:58:30</span
               ><span class="points-container"
-                >Points: <span class="points">69</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43257963"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -359,11 +506,11 @@
             <h4>
               <span>2025-03-04 @ 17:36:23</span
               ><span class="points-container"
-                >Points: <span class="points">162</span></span
+                >Points: <span class="points">174</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43257719"
                   >Comments</a
-                ><span class="descendants">: 83</span></span
+                ><span class="descendants">: 87</span></span
               >
             </h4>
           </section>
@@ -431,11 +578,11 @@
             <h4>
               <span>2025-03-04 @ 17:25:51</span
               ><span class="points-container"
-                >Points: <span class="points">147</span></span
+                >Points: <span class="points">150</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43257583"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -453,11 +600,11 @@
             <h4>
               <span>2025-03-04 @ 17:16:13</span
               ><span class="points-container"
-                >Points: <span class="points">103</span></span
+                >Points: <span class="points">114</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43257473"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 60</span></span
               >
             </h4>
           </section>
@@ -474,11 +621,11 @@
             <h4>
               <span>2025-03-04 @ 17:06:53</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43257358"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -494,11 +641,11 @@
             <h4>
               <span>2025-03-04 @ 17:04:17</span
               ><span class="points-container"
-                >Points: <span class="points">106</span></span
+                >Points: <span class="points">111</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43257323"
                   >Comments</a
-                ><span class="descendants">: 75</span></span
+                ><span class="descendants">: 86</span></span
               >
             </h4>
             <div class="text">
@@ -645,7 +792,7 @@
             <h4>
               <span>2025-03-04 @ 15:56:58</span
               ><span class="points-container"
-                >Points: <span class="points">184</span></span
+                >Points: <span class="points">190</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43256349"
                   >Comments</a
@@ -666,11 +813,11 @@
             <h4>
               <span>2025-03-04 @ 15:41:12</span
               ><span class="points-container"
-                >Points: <span class="points">119</span></span
+                >Points: <span class="points">133</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43256113"
                   >Comments</a
-                ><span class="descendants">: 176</span></span
+                ><span class="descendants">: 187</span></span
               >
             </h4>
           </section>
@@ -685,11 +832,11 @@
             <h4>
               <span>2025-03-04 @ 15:24:32</span
               ><span class="points-container"
-                >Points: <span class="points">71</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43255855"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
             <div class="text">
@@ -715,11 +862,11 @@
             <h4>
               <span>2025-03-04 @ 15:00:51</span
               ><span class="points-container"
-                >Points: <span class="points">503</span></span
+                >Points: <span class="points">528</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43255529"
                   >Comments</a
-                ><span class="descendants">: 157</span></span
+                ><span class="descendants">: 164</span></span
               >
             </h4>
             <div class="text">
@@ -748,11 +895,11 @@
             <h4>
               <span>2025-03-04 @ 14:24:49</span
               ><span class="points-container"
-                >Points: <span class="points">103</span></span
+                >Points: <span class="points">119</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43254995"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -768,33 +915,11 @@
             <h4>
               <span>2025-03-04 @ 13:35:12</span
               ><span class="points-container"
-                >Points: <span class="points">101</span></span
+                >Points: <span class="points">109</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43254351"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43248429">
-          <h3>
-            <a
-              class="item"
-              href="https://reactormag.com/lawrence-of-arabia-paul-atreides-and-the-roots-of-frank-herberts-dune/"
-              >Lawrence of Arabia, Paul Atreides, and the roots of Frank
-              Herbert's Dune (2021)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-03-04 @ 00:04:03</span
-              ><span class="points-container"
-                >Points: <span class="points">267</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43248429"
-                  >Comments</a
-                ><span class="descendants">: 171</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -811,33 +936,11 @@
             <h4>
               <span>2025-03-03 @ 21:19:56</span
               ><span class="points-container"
-                >Points: <span class="points">786</span></span
+                >Points: <span class="points">790</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43246892"
                   >Comments</a
-                ><span class="descendants">: 240</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43244307">
-          <h3>
-            <a
-              class="item"
-              href="https://rivet.gg/blog/2025-02-16-sqlite-on-the-server-is-misunderstood"
-              >SQLite-on-the-server is misunderstood: Better at hyper-scale than
-              micro-scale</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-03-03 @ 17:29:12</span
-              ><span class="points-container"
-                >Points: <span class="points">334</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43244307"
-                  >Comments</a
-                ><span class="descendants">: 151</span></span
+                ><span class="descendants">: 239</span></span
               >
             </h4>
           </section>
@@ -854,85 +957,13 @@
             <h4>
               <span>2025-03-03 @ 16:40:34</span
               ><span class="points-container"
-                >Points: <span class="points">452</span></span
+                >Points: <span class="points">455</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43243580"
                   >Comments</a
-                ><span class="descendants">: 958</span></span
+                ><span class="descendants">: 971</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="43243024">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=43243024"
-              >Ask HN: Who is hiring? (March 2025)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-03-03 @ 16:01:41</span
-              ><span class="points-container"
-                >Points: <span class="points">373</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43243024"
-                  >Comments</a
-                ><span class="descendants">: 363</span></span
-              >
-            </h4>
-            <div class="text">
-              <i>not</i> an option.
-              <p>
-                Please only post if you personally are part of the hiring
-                company—no recruiting firms or job boards. One post per company.
-                If it isn't a household name, explain what your company does.
-              </p>
-              <p>
-                Please only post if you are actively filling a position and are
-                committed to responding to applicants.
-              </p>
-              <p>
-                Commenters: please don't reply to job posts to complain about
-                something. It's off topic here.
-              </p>
-              <p>
-                Readers: please only email if you are personally interested in
-                the job.
-              </p>
-              <p>
-                Searchers: try
-                <a href="http://nchelluri.github.io/hnjobs/"
-                  >http://nchelluri.github.io/hnjobs/</a
-                >,
-                <a href="https://hnresumetojobs.com"
-                  >https://hnresumetojobs.com</a
-                >,
-                <a href="https://hnhired.fly.dev">https://hnhired.fly.dev</a>,
-                <a href="https://kennytilton.github.io/whoishiring/"
-                  >https://kennytilton.github.io/whoishiring/</a
-                >,
-                <a href="https://hnjobs.emilburzo.com"
-                  >https://hnjobs.emilburzo.com</a
-                >, or this (unofficial) Chrome extension:
-                <a
-                  href="https://chromewebstore.google.com/detail/hn-hiring-pro/mpfaljjblphnlloddaplgicpkinikjlp"
-                  >https://chromewebstore.google.com/detail/hn-hiring-pro/mpfal...</a
-                >.
-              </p>
-              <p>Don't miss these other fine threads:</p>
-              <p>
-                <i>Who wants to be hired?</i>
-                <a href="https://news.ycombinator.com/item?id=43243022"
-                  >https://news.ycombinator.com/item?id=43243022</a
-                >
-              </p>
-              <p>
-                <i>Freelancer? Seeking freelancer?</i>
-                <a href="https://news.ycombinator.com/item?id=43243023"
-                  >https://news.ycombinator.com/item?id=43243023</a
-                >
-              </p>
-            </div>
           </section>
         </section>
         <section id="43242551">
@@ -946,11 +977,11 @@
             <h4>
               <span>2025-03-03 @ 15:18:22</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43242551"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
             <div class="text">
@@ -998,6 +1029,48 @@
             </div>
           </section>
         </section>
+        <section id="43234457">
+          <h3>
+            <a
+              class="item"
+              href="https://www.historytoday.com/archive/history-matters/uneasy-propaganda-alliance"
+              >An Uneasy Propaganda Alliance</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-03-02 @ 20:05:28</span
+              ><span class="points-container"
+                >Points: <span class="points">25</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43234457"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="43230862">
+          <h3>
+            <a
+              class="item"
+              href="https://classic.esquire.com/article/share/58ff278a-21da-4ee4-a446-b7f451b90275"
+              >The Tinkerings of Robert Noyce by Tom Wolfe (1983)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-03-02 @ 14:34:16</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43230862"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="43221633">
           <h3>
             <a class="item" href="https://github.com/Wack0/entii-for-workcubes"
@@ -1008,11 +1081,11 @@
             <h4>
               <span>2025-03-01 @ 17:47:27</span
               ><span class="points-container"
-                >Points: <span class="points">234</span></span
+                >Points: <span class="points">235</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43221633"
                   >Comments</a
-                ><span class="descendants">: 75</span></span
+                ><span class="descendants">: 78</span></span
               >
             </h4>
           </section>
@@ -1025,51 +1098,32 @@
             <h4>
               <span>2025-03-01 @ 11:44:18</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43218343"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="43217546">
+        <section id="43217264">
           <h3>
-            <a class="item" href="https://pg-capture.onrender.com/"
-              >Show HN: PG-Capture – a better way to sync Postgres with Algolia
-              (or Elastic)</a
+            <a class="item" href="https://johnearnest.github.io/chip8Archive/"
+              >Chip-8 Archive</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-03-01 @ 09:18:02</span
+              <span>2025-03-01 @ 08:29:48</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43217546"
+                ><a href="https://news.ycombinator.com/item?id=43217264"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
-            <div class="text">
-              <p>
-                PG-Capture lets you define a schema as complex as you need,
-                aggregate table-level events, and reconstruct structured objects
-                spanning multiple tables. It then publishes them as meaningful
-                domain-level events to any queue (RabbitMQ, SQS, etc.).
-              </p>
-              <p>
-                PG-Capture does NOT replace Debezium, it works on top of it (or
-                any other event source). This keeps it flexible and
-                tool-agnostic.
-              </p>
-              <p>
-                I'd love to hear your thoughts! Does this solve a problem you've
-                run into? Would you use something like this in your stack?
-                Feedback is welcome!
-              </p>
-            </div>
           </section>
         </section>
         <section id="43217209">
@@ -1084,32 +1138,11 @@
             <h4>
               <span>2025-03-01 @ 08:19:11</span
               ><span class="points-container"
-                >Points: <span class="points">102</span></span
+                >Points: <span class="points">107</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43217209"
                   >Comments</a
-                ><span class="descendants">: 109</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43209878">
-          <h3>
-            <a
-              class="item"
-              href="https://krebsonsecurity.com/2025/02/notorious-malware-spam-host-prospero-moves-to-kaspersky-lab/"
-              >Notorious Malware, Spam Host "Prospero" Moves to Kaspersky Lab</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-02-28 @ 20:15:51</span
-              ><span class="points-container"
-                >Points: <span class="points">67</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43209878"
-                  >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 114</span></span
               >
             </h4>
           </section>
