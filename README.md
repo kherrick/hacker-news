@@ -20,7 +20,7 @@
 * [2025-03-04, 15:56:58](https://news.ycombinator.com/item?id=43256349) - [Satellogic's Open Satellite Feed](https://tech.marksblogg.com/satellogic-open-data-feed.html)
 * [2025-03-04, 15:41:12](https://news.ycombinator.com/item?id=43256113) - [Should managers still code?](https://theengineeringmanager.substack.com/p/should-managers-still-code)
 * [2025-03-04, 15:00:51](https://news.ycombinator.com/item?id=43255529) - [Show HN: Bayleaf – Building a low-profile wireless split keyboard](https://www.graz.io/articles/bayleaf-wireless-keyboard)
-* [2025-03-04, 14:24:49](https://news.ycombinator.com/item?id=43254995) - [What a crab sees before it gets eaten by a cuttlefish](https://www.nytimes.com/2025/03/03/science/cuttlefish-camouflage-huting-crabs.html)
+* [2025-03-03, 18:26:42](https://news.ycombinator.com/item?id=43245003) - [Remembering Duane Blehm](https://www.engineersneedart.com/blog/duane/duane.html)
 * [2025-03-03, 15:18:22](https://news.ycombinator.com/item?id=43242551) - [Show HN: Open-source Deep Research across workplace applications](https://github.com/onyx-dot-app/onyx)
 * [2025-03-03, 07:00:57](https://news.ycombinator.com/item?id=43239046) - [What Vivian Maier saw in color (2018)](https://www.newyorker.com/culture/photo-booth/what-vivian-maier-saw-in-color)
 * [2025-03-02, 14:05:08](https://news.ycombinator.com/item?id=43230600) - [The Ancient Art of Color](https://worldhistory.substack.com/p/the-ancient-art-of-color)
