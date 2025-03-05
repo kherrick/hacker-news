@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-05](index.md)
 
 * [2025-03-05, 03:53:17](https://news.ycombinator.com/item?id=43262531) - [uBlock Origin Forcefully Removed by Chrome](https://old.reddit.com/r/youtube/comments/1j2ec76/ublock_origin_is_gone/)
+* [2025-03-05, 03:50:21](https://news.ycombinator.com/item?id=43262510) - [Delta Chat – Email Based PGP Encrypted Chat](https://delta.chat/)
 * [2025-03-05, 03:45:46](https://news.ycombinator.com/item?id=43262468) - [We're Charging Our Cars Wrong](https://spectrum.ieee.org/ev-charging-2671242103)
 * [2025-03-05, 03:41:49](https://news.ycombinator.com/item?id=43262429) - [Cobalt Networks CobaltOS: Proxmox Port](https://archive.org/details/CobaltOS-Proxmox)
 * [2025-03-05, 03:11:54](https://news.ycombinator.com/item?id=43262188) - [NetBSD on a JavaStation](https://fatsquirrel.org/oldfartsalmanac/netbsd-on-a-javastation/)
