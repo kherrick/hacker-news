@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-05](index.md)
 
+* [2025-03-05, 10:03:31](https://news.ycombinator.com/item?id=43264847) - [Richard Sutton and Andrew Barto Win 2024 Turing Award](https://awards.acm.org/about/2024-turing)
 * [2025-03-05, 03:53:17](https://news.ycombinator.com/item?id=43262531) - [uBlock Origin Forcefully Removed by Chrome](https://old.reddit.com/r/youtube/comments/1j2ec76/ublock_origin_is_gone/)
 * [2025-03-05, 03:50:21](https://news.ycombinator.com/item?id=43262510) - [Delta Chat – Email Based PGP Encrypted Chat](https://delta.chat/)
 * [2025-03-05, 03:45:46](https://news.ycombinator.com/item?id=43262468) - [We're Charging Our Cars Wrong](https://spectrum.ieee.org/ev-charging-2671242103)
