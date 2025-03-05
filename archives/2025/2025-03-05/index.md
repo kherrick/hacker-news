@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-03-05](index.md)
 
+* [2025-03-05, 22:49:24](https://news.ycombinator.com/item?id=43273846) - [Tesla sales crash continues in Europe, with Germany down 70%](https://electrek.co/2025/03/05/tesla-tsla-sales-crash-continues-in-europe-with-germany-down-70/)
+* [2025-03-05, 22:47:11](https://news.ycombinator.com/item?id=43273818) - [Atproto by Example: Records and Views](https://mozzius.dev/post/3ljlqmchv2b2a)
 * [2025-03-05, 22:37:01](https://news.ycombinator.com/item?id=43273696) - [Compare OpenAI Models](https://platform.openai.com/docs/models/compare)
+* [2025-03-05, 21:19:37](https://news.ycombinator.com/item?id=43272607) - [Superintelligence Strategy](https://www.nationalsecurity.ai/)
 * [2025-03-05, 21:10:35](https://news.ycombinator.com/item?id=43272463) - [Zentool – AMD Zen Microcode Manipulation Utility](https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md)
 * [2025-03-05, 21:09:47](https://news.ycombinator.com/item?id=43272453) - [Jeep Owners Fed Up with In-Car Pop-Up Ads](https://www.kbb.com/car-news/jeep-owners-fed-up-with-in-car-pop-up-ads/)
 * [2025-03-05, 21:01:01](https://news.ycombinator.com/item?id=43272332) - [Datafold (YC S20) is hiring Engineer to build AI-powered data migration tools](https://www.ycombinator.com/companies/datafold/jobs/ieGYiSG-senior-software-engineer-ai-agents)
