@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-03-05, 09:29:13",
+      "https://news.ycombinator.com/item?id=43264626"
+    ],
+    [
+      "Get Started with Neural Rendering Using Nvidia RTX Kit (Vulkan)",
+      "https://developer.nvidia.com/blog/get-started-with-neural-rendering-using-nvidia-rtx-kit/"
+    ]
+  ],
+  [
+    [
       "2025-03-05, 03:50:21",
       "https://news.ycombinator.com/item?id=43262510"
     ],
@@ -197,16 +207,6 @@
     [
       "What a crab sees before it gets eaten by a cuttlefish",
       "https://www.nytimes.com/2025/03/03/science/cuttlefish-camouflage-huting-crabs.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-04, 13:35:12",
-      "https://news.ycombinator.com/item?id=43254351"
-    ],
-    [
-      "Show HN: Fork of Claude-code working with local and other LLM providers",
-      "https://github.com/dnakov/anon-kode"
     ]
   ],
   [
