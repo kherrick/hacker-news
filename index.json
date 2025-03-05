@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-03-05, 03:41:49",
-      "https://news.ycombinator.com/item?id=43262429"
-    ],
-    [
-      "Cobalt Networks CobaltOS: Proxmox Port",
-      "https://archive.org/details/CobaltOS-Proxmox"
-    ]
-  ],
-  [
-    [
       "2025-03-05, 03:11:54",
       "https://news.ycombinator.com/item?id=43262188"
     ],
@@ -287,6 +277,16 @@
     [
       "A Map of Python",
       "https://fi-le.net/pypi/"
+    ]
+  ],
+  [
+    [
+      "2025-03-01, 08:19:11",
+      "https://news.ycombinator.com/item?id=43217209"
+    ],
+    [
+      "The cost of Go's panic and recover",
+      "https://jub0bs.com/posts/2025-02-28-cost-of-panic-recover/"
     ]
   ],
   [
