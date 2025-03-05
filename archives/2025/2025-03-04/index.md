@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-04](index.md)
 
 * [2025-03-04, 21:20:38](https://news.ycombinator.com/item?id=43259899) - [Some D0g3 Staffers Are Drawing Six-Figure Government Salaries](https://www.wired.com/story/doge-government-salaries-elon-musk/)
+* [2025-03-04, 21:14:56](https://news.ycombinator.com/item?id=43259862) - [Show HN: ArchGW – An open-source intelligent proxy server for prompts](https://github.com/katanemo/archgw)
 * [2025-03-04, 20:57:36](https://news.ycombinator.com/item?id=43259742) - [AI: Where in the Loop Should Humans Go?](https://www.honeycomb.io/blog/ai-where-in-the-loop-should-humans-go)
 * [2025-03-04, 20:03:49](https://news.ycombinator.com/item?id=43259292) - [Oil drilling in the mouth of the Amazon – Lula on a course to disaster](https://news.mongabay.com/2025/02/oil-drilling-in-the-mouth-of-the-amazon-lula-on-a-course-to-disaster-commentary/)
 * [2025-03-04, 20:02:26](https://news.ycombinator.com/item?id=43259279) - [Economic and Market Data Signal a Recession Is Coming](https://www.forbes.com/sites/mayrarodriguezvalladares/2025/03/04/economic-and-market-data-signal-a-recession-is-coming/)
