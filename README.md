@@ -2,6 +2,7 @@
 
 * [2025-03-05, 20:20:16](https://news.ycombinator.com/item?id=43271774) - [Macron to open debate on extending French nuclear protection to European allies](https://www.reuters.com/world/europe/frances-macron-address-nation-late-wednesday-2025-03-05/)
 * [2025-03-05, 20:12:14](https://news.ycombinator.com/item?id=43271691) - [Sam Altman Returns to Political Fund-Raising](https://www.nytimes.com/2025/03/05/us/politics/sam-altman-openai-democrat-fundraising.html)
+* [2025-03-05, 20:04:18](https://news.ycombinator.com/item?id=43271592) - [Doge eliminated the US government's tech experts – what has been lost?](https://www.newscientist.com/article/2470902-doge-eliminated-the-us-governments-tech-experts-what-has-been-lost/)
 * [2025-03-05, 19:58:18](https://news.ycombinator.com/item?id=43271507) - [Brother refutes \"false claims\" that it bricked printers using third-party ink](https://arstechnica.com/gadgets/2025/03/brother-denies-using-firmware-updates-to-brick-printers-with-third-party-ink/)
 * [2025-03-05, 19:52:00](https://news.ycombinator.com/item?id=43271414) - [CGNAT frustrates all IP address-based technologies (2019)](https://www.sidn.nl/en/news-and-blogs/cgnat-frustrates-all-ip-address-based-technologies)
 * [2025-03-05, 19:34:23](https://news.ycombinator.com/item?id=43271177) - [NCSC, GCHQ, UK Gov't expunge advice to \"use Apple encryption\"](https://alecmuffett.com/article/112522)
@@ -19,7 +20,6 @@
 * [2025-03-05, 16:08:02](https://news.ycombinator.com/item?id=43268454) - [My Beancount books are 95% automatic after 3 years (2024)](https://fangpenlin.com/posts/2024/12/30/my-beancount-books-are-95-percent-automatic/)
 * [2025-03-05, 16:04:49](https://news.ycombinator.com/item?id=43268411) - [After 120 years, Yellowstone bison are a single breeding population](https://phys.org/news/2025-03-years-efforts-yellowstone-bison-population.html)
 * [2025-03-05, 16:04:11](https://news.ycombinator.com/item?id=43268401) - [JCGT – Arc Blanc: a real time ocean simulation](https://jcgt.org/published/0014/01/05/)
-* [2025-03-05, 15:29:56](https://news.ycombinator.com/item?id=43267857) - [Design and Explore Noise Handshake Patterns (2018)](https://noiseexplorer.com/)
 * [2025-03-05, 14:44:04](https://news.ycombinator.com/item?id=43267095) - [Things we've learned about building products](https://newsletter.posthog.com/p/50-things-weve-learned-about-building)
 * [2025-03-05, 14:00:57](https://news.ycombinator.com/item?id=43266474) - [Apple unveils new Mac Studio](https://www.apple.com/newsroom/2025/03/apple-unveils-new-mac-studio-the-most-powerful-mac-ever/)
 * [2025-03-05, 13:59:50](https://news.ycombinator.com/item?id=43266453) - [Apple M3 Ultra](https://www.apple.com/newsroom/2025/03/apple-reveals-m3-ultra-taking-apple-silicon-to-a-new-extreme/)
