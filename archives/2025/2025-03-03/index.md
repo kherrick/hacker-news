@@ -16,6 +16,7 @@
 * [2025-03-03, 19:07:19](https://news.ycombinator.com/item?id=43245453) - [Treasury Announces Suspension of Enforcement of Corporate Transparency Act](https://home.treasury.gov/news/press-releases/sb0038)
 * [2025-03-03, 18:54:08](https://news.ycombinator.com/item?id=43245315) - [One Logo, Three Companies](https://estilofilos.blogspot.com/2016/03/one-logo-three-companies-i.html)
 * [2025-03-03, 18:45:42](https://news.ycombinator.com/item?id=43245235) - [How the U.K. broke its own economy](https://www.theatlantic.com/ideas/archive/2025/03/uk-needs-abundance/681877/)
+* [2025-03-03, 18:41:37](https://news.ycombinator.com/item?id=43245172) - [Solving First Order Differential Equations with Julia](https://ritog.github.io/posts/1st-order-DE-julia/1st_order_DE_julia.html)
 * [2025-03-03, 18:39:32](https://news.ycombinator.com/item?id=43245153) - [Launch HN: Cuckoo (YC W25) – Real-time AI translator for global teams](https://news.ycombinator.com/item?id=43245153)
 * [2025-03-03, 18:38:49](https://news.ycombinator.com/item?id=43245147) - [Urban Dead is shutting down](https://urbandead.com/shutdown.html)
 * [2025-03-03, 18:36:45](https://news.ycombinator.com/item?id=43245129) - [James Harrison, whose blood donations saved >2M babies, has died](https://www.npr.org/2025/03/03/nx-s1-5316163/james-harrison-blood-donor)
