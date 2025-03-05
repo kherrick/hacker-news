@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-05, 16:22:42](https://news.ycombinator.com/item?id=43268681) - [YouTube Premium Lite: Ad-Free Viewing for $7.99/Month](https://blog.youtube/news-and-events/introducing-premium-lite/)
+* [2025-03-05, 17:00:10](https://news.ycombinator.com/item?id=43269237) - [Greptile (YC W24) Is Hiring](https://www.ycombinator.com/companies/greptile/jobs/rMIxqoV-design-engineer)
 * [2025-03-05, 16:08:02](https://news.ycombinator.com/item?id=43268454) - [My Beancount books are 95% automatic after 3 years (2024)](https://fangpenlin.com/posts/2024/12/30/my-beancount-books-are-95-percent-automatic/)
 * [2025-03-05, 16:04:49](https://news.ycombinator.com/item?id=43268411) - [After 120 years, Yellowstone bison are a single breeding population](https://phys.org/news/2025-03-years-efforts-yellowstone-bison-population.html)
 * [2025-03-05, 16:04:11](https://news.ycombinator.com/item?id=43268401) - [JCGT – Arc Blanc: a real time ocean simulation](https://jcgt.org/published/0014/01/05/)
@@ -13,7 +13,6 @@
 * [2025-03-05, 12:06:40](https://news.ycombinator.com/item?id=43265521) - [The Return of Digg, a Star of an Earlier Internet Era](https://www.nytimes.com/2025/03/05/technology/digg-alexis-ohanian-kevin-rose.html)
 * [2025-03-05, 11:52:28](https://news.ycombinator.com/item?id=43265431) - [MS Paint IDE](https://ms-paint-i.de/)
 * [2025-03-05, 11:29:50](https://news.ycombinator.com/item?id=43265303) - [NASA Successfully Acquires GPS Signals on Moon](https://www.nasa.gov/general/nasa-successfully-acquires-gps-signals-on-moon/)
-* [2025-03-05, 11:14:31](https://news.ycombinator.com/item?id=43265224) - ['Shadow fleets' and sabotage: are Europe's undersea cables under attack?](https://www.theguardian.com/world/ng-interactive/2025/mar/05/shadow-fleets-subaquatic-sabotage-europe-undersea-internet-cables-under-attack)
 * [2025-03-05, 10:25:55](https://news.ycombinator.com/item?id=43264957) - [Lynx: Open Source Native Cross Platform framework used in TikTok](https://lynxjs.org/blog/lynx-unlock-native-for-more.html)
 * [2025-03-05, 10:03:31](https://news.ycombinator.com/item?id=43264847) - [Richard Sutton and Andrew Barto Win 2024 Turing Award](https://awards.acm.org/about/2024-turing)
 * [2025-03-05, 03:50:21](https://news.ycombinator.com/item?id=43262510) - [Delta Chat – Email Based PGP Encrypted Chat](https://delta.chat/)
@@ -23,6 +22,7 @@
 * [2025-03-05, 01:41:14](https://news.ycombinator.com/item?id=43261650) - [Writing an LLM from scratch, part 8 – trainable self-attention](https://www.gilesthomas.com/2025/03/llm-from-scratch-8-trainable-self-attention)
 * [2025-03-04, 19:05:43](https://news.ycombinator.com/item?id=43258709) - [Why fastDOOM is fast](https://fabiensanglard.net/fastdoom/index.html)
 * [2025-03-04, 17:04:17](https://news.ycombinator.com/item?id=43257323) - [Launch HN: Enhanced Radar (YC W25) – A safety net for air traffic control](https://news.ycombinator.com/item?id=43257323)
+* [2025-03-03, 13:27:07](https://news.ycombinator.com/item?id=43241499) - [How Math Academy pulled me out of the Valley of Despair](https://mikelikejordan.bearblog.dev/how-math-academy-pulled-me-out-of-the-valley-of-despair/)
 * [2025-03-03, 07:00:57](https://news.ycombinator.com/item?id=43239046) - [What Vivian Maier saw in color (2018)](https://www.newyorker.com/culture/photo-booth/what-vivian-maier-saw-in-color)
 * [2025-03-02, 22:59:13](https://news.ycombinator.com/item?id=43236184) - [The Differences Between Deep Research, Deep Research, and Deep Research](https://leehanchung.github.io/blogs/2025/02/26/deep-research/)
 * [2025-03-02, 21:36:20](https://news.ycombinator.com/item?id=43235424) - [Why Vermont farmers are using urine on their crops](https://www.bbc.com/future/article/20250227-the-vermont-farmers-using-urine-to-grow-their-crops)
