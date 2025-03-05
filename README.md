@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-05, 22:49:41](https://news.ycombinator.com/item?id=43273850) - [A sprawling detention center in Texas to hold migrant children and their parents](https://www.washingtonpost.com/immigration/2025/03/05/dilley-texas-family-detention-center-ice/)
 * [2025-03-05, 21:19:37](https://news.ycombinator.com/item?id=43272607) - [Superintelligence Strategy](https://www.nationalsecurity.ai/)
 * [2025-03-05, 21:10:35](https://news.ycombinator.com/item?id=43272463) - [Zentool – AMD Zen Microcode Manipulation Utility](https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md)
 * [2025-03-05, 21:01:01](https://news.ycombinator.com/item?id=43272332) - [Datafold (YC S20) is hiring Engineer to build AI-powered data migration tools](https://www.ycombinator.com/companies/datafold/jobs/ieGYiSG-senior-software-engineer-ai-agents)
@@ -10,6 +9,7 @@
 * [2025-03-05, 19:09:19](https://news.ycombinator.com/item?id=43270835) - [Tailscale is pretty useful](https://blog.6nok.org/tailscale-is-pretty-useful/)
 * [2025-03-05, 18:56:47](https://news.ycombinator.com/item?id=43270687) - [Skynet won and destroyed humanity](https://dmathieu.com/en/opinions/skynet-won/)
 * [2025-03-05, 18:40:50](https://news.ycombinator.com/item?id=43270495) - [Study: The ozone hole is healing, thanks to global reduction of CFCs](https://news.mit.edu/2025/study-healing-ozone-hole-global-reduction-cfcs-0305)
+* [2025-03-05, 18:38:05](https://news.ycombinator.com/item?id=43270464) - [Intel the CPU Company](https://www.abortretry.fail/p/intel-the-cpu-company)
 * [2025-03-05, 18:07:06](https://news.ycombinator.com/item?id=43270079) - [Apple takes UK to court over 'backdoor' order](https://www.theregister.com/2025/03/05/apple_reportedly_ipt_complaint/)
 * [2025-03-05, 17:55:29](https://news.ycombinator.com/item?id=43269928) - [Show HN: Leaflet.pub – a web app for creating and sharing rich documents](https://news.ycombinator.com/item?id=43269928)
 * [2025-03-05, 17:49:13](https://news.ycombinator.com/item?id=43269846) - [There Was a Texas Lottery Arbitrage](https://www.bloomberg.com/opinion/articles/2025-03-05/there-was-a-texas-lottery-arbitrage)
