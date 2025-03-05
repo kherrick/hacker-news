@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-05](index.md)
 
+* [2025-03-05, 13:35:30](https://news.ycombinator.com/item?id=43266185) - [Why \"alias\" is my last resort for aliases](https://evanhahn.com/why-alias-is-my-last-resort-for-aliases/)
+* [2025-03-05, 13:22:57](https://news.ycombinator.com/item?id=43266071) - [The Big Government Contracts Doge Hasn't Touched](https://www.nytimes.com/interactive/2025/03/04/upshot/doge-musk-contracts-cuts.html)
+* [2025-03-05, 13:22:05](https://news.ycombinator.com/item?id=43266063) - [Private employers added just 77,000 jobs in February, far below expectations](https://www.cnbc.com/2025/03/05/adp-jobs-report-february-2025-.html)
 * [2025-03-05, 13:18:28](https://news.ycombinator.com/item?id=43266029) - [How a key ingredient in Coca-Cola, M&M's is smuggled from war-torn Sudan](https://www.middleeastmonitor.com/20250304-how-a-key-ingredient-in-coca-cola-mms-is-smuggled-from-war-torn-sudan/)
 * [2025-03-05, 13:08:42](https://news.ycombinator.com/item?id=43265955) - [Who's Afraid of Peter Thiel? A New Biography Suggests We All Should Be (2021)](https://time.com/6092844/peter-thiel-power-biography-the-contrarian/)
 * [2025-03-05, 12:45:00](https://news.ycombinator.com/item?id=43265794) - [They wanted to save us from a dark AI future. Then six people were killed](https://www.theguardian.com/global/ng-interactive/2025/mar/05/zizians-artificial-intelligence)
