@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-05](index.md)
 
+* [2025-03-05, 16:08:02](https://news.ycombinator.com/item?id=43268454) - [My Beancount books are 95% automatic after 3 years (2024)](https://fangpenlin.com/posts/2024/12/30/my-beancount-books-are-95-percent-automatic/)
+* [2025-03-05, 16:04:11](https://news.ycombinator.com/item?id=43268401) - [JCGT – Arc Blanc: a real time ocean simulation](https://jcgt.org/published/0014/01/05/)
+* [2025-03-05, 15:59:28](https://news.ycombinator.com/item?id=43268333) - [Tech and Non-Tech Stacks to Run Listen Notes (2025)](https://www.listennotes.fm/p/tech-and-non-tech-stacks-to-run-listen)
 * [2025-03-05, 15:29:56](https://news.ycombinator.com/item?id=43267857) - [Design and Explore Noise Handshake Patterns (2018)](https://noiseexplorer.com/)
 * [2025-03-05, 14:44:04](https://news.ycombinator.com/item?id=43267095) - [Things we've learned about building successful products](https://newsletter.posthog.com/p/50-things-weve-learned-about-building)
 * [2025-03-05, 14:12:05](https://news.ycombinator.com/item?id=43266608) - [I built an extension that lets you extract text from anywhere to your clipboard](https://chromewebstore.google.com/detail/esticra/nenfeobdiiiblnnlfoadbjabdeochjmn?hl=en)
