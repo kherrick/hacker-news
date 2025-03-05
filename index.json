@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-05, 03:11:54",
+      "https://news.ycombinator.com/item?id=43262188"
+    ],
+    [
+      "NetBSD on a JavaStation",
+      "https://fatsquirrel.org/oldfartsalmanac/netbsd-on-a-javastation/"
+    ]
+  ],
+  [
+    [
       "2025-03-05, 02:51:17",
       "https://news.ycombinator.com/item?id=43262044"
     ],
@@ -277,16 +287,6 @@
     [
       "A Map of Python",
       "https://fi-le.net/pypi/"
-    ]
-  ],
-  [
-    [
-      "2025-03-01, 08:19:11",
-      "https://news.ycombinator.com/item?id=43217209"
-    ],
-    [
-      "The cost of Go's panic and recover",
-      "https://jub0bs.com/posts/2025-02-28-cost-of-panic-recover/"
     ]
   ],
   [
