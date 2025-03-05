@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-05](index.md)
 
+* [2025-03-05, 15:29:56](https://news.ycombinator.com/item?id=43267857) - [Design and Explore Noise Handshake Patterns (2018)](https://noiseexplorer.com/)
 * [2025-03-05, 14:12:05](https://news.ycombinator.com/item?id=43266608) - [I built an extension that lets you extract text from anywhere to your clipboard](https://chromewebstore.google.com/detail/esticra/nenfeobdiiiblnnlfoadbjabdeochjmn?hl=en)
 * [2025-03-05, 14:06:54](https://news.ycombinator.com/item?id=43266537) - [MacBook Air M4](https://www.apple.com/macbook-air/)
 * [2025-03-05, 14:03:06](https://news.ycombinator.com/item?id=43266494) - [Jamming: Polish researchers suspect GPS jammers on ships in the Baltic Sea](https://www.heise.de/en/news/Jamming-Polish-researchers-suspect-GPS-jammers-on-ships-in-the-Baltic-Sea-10304169.html)
@@ -16,6 +17,7 @@
 * [2025-03-05, 13:08:42](https://news.ycombinator.com/item?id=43265955) - [Who's Afraid of Peter Thiel? A New Biography Suggests We All Should Be (2021)](https://time.com/6092844/peter-thiel-power-biography-the-contrarian/)
 * [2025-03-05, 12:45:00](https://news.ycombinator.com/item?id=43265794) - [They wanted to save us from a dark AI future. Then six people were killed](https://www.theguardian.com/global/ng-interactive/2025/mar/05/zizians-artificial-intelligence)
 * [2025-03-05, 12:06:40](https://news.ycombinator.com/item?id=43265521) - [The Return of Digg, a Star of an Earlier Internet Era](https://www.nytimes.com/2025/03/05/technology/digg-alexis-ohanian-kevin-rose.html)
+* [2025-03-05, 11:52:28](https://news.ycombinator.com/item?id=43265431) - [MS Paint IDE](https://ms-paint-i.de/)
 * [2025-03-05, 11:47:36](https://news.ycombinator.com/item?id=43265399) - [A sysadmin's rant about feed readers and crawlers (2022)](http://rachelbythebay.com/w/2022/03/07/get/)
 * [2025-03-05, 11:29:50](https://news.ycombinator.com/item?id=43265303) - [NASA Successfully Acquires GPS Signals on Moon](https://www.nasa.gov/general/nasa-successfully-acquires-gps-signals-on-moon/)
 * [2025-03-05, 11:14:31](https://news.ycombinator.com/item?id=43265224) - ['Shadow fleets' and sabotage: are Europe's undersea cables under attack?](https://www.theguardian.com/world/ng-interactive/2025/mar/05/shadow-fleets-subaquatic-sabotage-europe-undersea-internet-cables-under-attack)
