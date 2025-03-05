@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-05](index.md)
 
+* [2025-03-05, 10:36:25](https://news.ycombinator.com/item?id=43265025) - [GitHub Copilot refuses to autocomplete 'Palestine' in a list of countries](https://twitter.com/flatpink/status/1897234575597953384)
 * [2025-03-05, 10:03:31](https://news.ycombinator.com/item?id=43264847) - [Richard Sutton and Andrew Barto Win 2024 Turing Award](https://awards.acm.org/about/2024-turing)
 * [2025-03-05, 09:29:13](https://news.ycombinator.com/item?id=43264626) - [Get Started with Neural Rendering Using Nvidia RTX Kit (Vulkan)](https://developer.nvidia.com/blog/get-started-with-neural-rendering-using-nvidia-rtx-kit/)
 * [2025-03-05, 03:53:17](https://news.ycombinator.com/item?id=43262531) - [uBlock Origin Forcefully Removed by Chrome](https://old.reddit.com/r/youtube/comments/1j2ec76/ublock_origin_is_gone/)
