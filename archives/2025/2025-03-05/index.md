@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-05](index.md)
 
+* [2025-03-05, 19:09:19](https://news.ycombinator.com/item?id=43270835) - [Tailscale Is Pretty Useful](https://blog.6nok.org/tailscale-is-pretty-useful/)
 * [2025-03-05, 19:06:27](https://news.ycombinator.com/item?id=43270799) - [Gardener wins £1M payout caused by software bug](https://www.bbc.co.uk/news/articles/cx2gl2n2n14o)
 * [2025-03-05, 18:40:50](https://news.ycombinator.com/item?id=43270495) - [Study: The ozone hole is healing, thanks to global reduction of CFCs](https://news.mit.edu/2025/study-healing-ozone-hole-global-reduction-cfcs-0305)
 * [2025-03-05, 18:32:10](https://news.ycombinator.com/item?id=43270398) - [The Strategic Crypto Swindle](https://www.theatlantic.com/ideas/archive/2025/03/strategic-cryptocurrency-reserve-swindle/681917/)

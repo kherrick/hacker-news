@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-05, 19:09:19](https://news.ycombinator.com/item?id=43270835) - [Tailscale Is Pretty Useful](https://blog.6nok.org/tailscale-is-pretty-useful/)
 * [2025-03-05, 19:06:27](https://news.ycombinator.com/item?id=43270799) - [Gardener wins £1M payout caused by software bug](https://www.bbc.co.uk/news/articles/cx2gl2n2n14o)
 * [2025-03-05, 18:40:50](https://news.ycombinator.com/item?id=43270495) - [Study: The ozone hole is healing, thanks to global reduction of CFCs](https://news.mit.edu/2025/study-healing-ozone-hole-global-reduction-cfcs-0305)
 * [2025-03-05, 18:32:10](https://news.ycombinator.com/item?id=43270398) - [The Strategic Crypto Swindle](https://www.theatlantic.com/ideas/archive/2025/03/strategic-cryptocurrency-reserve-swindle/681917/)
@@ -27,7 +28,6 @@
 * [2025-03-03, 21:55:27](https://news.ycombinator.com/item?id=43247308) - [Show HN: I made an app to like or dislike famous quotes](https://quoter.codeplace.de)
 * [2025-03-03, 13:27:07](https://news.ycombinator.com/item?id=43241499) - [How Math Academy pulled me out of the Valley of Despair](https://mikelikejordan.bearblog.dev/how-math-academy-pulled-me-out-of-the-valley-of-despair/)
 * [2025-03-02, 22:59:13](https://news.ycombinator.com/item?id=43236184) - [The Differences Between Deep Research, Deep Research, and Deep Research](https://leehanchung.github.io/blogs/2025/02/26/deep-research/)
-* [2025-03-02, 21:36:20](https://news.ycombinator.com/item?id=43235424) - [Why Vermont farmers are using urine on their crops](https://www.bbc.com/future/article/20250227-the-vermont-farmers-using-urine-to-grow-their-crops)
 * [2025-03-02, 18:04:16](https://news.ycombinator.com/item?id=43233137) - [From ACS to Altair: The Rise of the Hobby Computer](https://technicshistory.com/2025/02/22/from-acs-to-altair-the-rise-of-the-hobby-computer/)
 * [2025-03-01, 12:44:40](https://news.ycombinator.com/item?id=43218724) - [Asteroid fragments upend theory of how life on Earth bloomed](https://www.nature.com/articles/d41586-025-00264-3)
 
