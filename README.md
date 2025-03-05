@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-05, 03:53:17](https://news.ycombinator.com/item?id=43262531) - [uBlock Origin Forcefully Removed by Chrome](https://old.reddit.com/r/youtube/comments/1j2ec76/ublock_origin_is_gone/)
+* [2025-03-05, 03:45:46](https://news.ycombinator.com/item?id=43262468) - [We're Charging Our Cars Wrong](https://spectrum.ieee.org/ev-charging-2671242103)
 * [2025-03-05, 03:41:49](https://news.ycombinator.com/item?id=43262429) - [Cobalt Networks CobaltOS: Proxmox Port](https://archive.org/details/CobaltOS-Proxmox)
 * [2025-03-05, 03:11:54](https://news.ycombinator.com/item?id=43262188) - [NetBSD on a JavaStation](https://fatsquirrel.org/oldfartsalmanac/netbsd-on-a-javastation/)
 * [2025-03-05, 02:51:17](https://news.ycombinator.com/item?id=43262044) - [Microsoft Publisher will no longer be supported after October 2026](https://support.microsoft.com/en-gb/office/microsoft-publisher-will-no-longer-be-supported-after-october-2026-ee6302a2-4bc7-4841-babf-8e9be3acbfd7)
