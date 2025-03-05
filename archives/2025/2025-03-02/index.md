@@ -22,6 +22,7 @@
 * [2025-03-02, 20:14:15](https://news.ycombinator.com/item?id=43234544) - [Show HN: Tangled – Git collaboration platform built on atproto](https://blog.tangled.sh/intro)
 * [2025-03-02, 20:11:20](https://news.ycombinator.com/item?id=43234513) - [Ask HN: Are you a 40-year old software engineer without a job for > 1 year?](https://news.ycombinator.com/item?id=43234513)
 * [2025-03-02, 20:10:55](https://news.ycombinator.com/item?id=43234510) - [Rotors: A practical introduction for 3D graphics (2023)](https://jacquesheunis.com/post/rotors/)
+* [2025-03-02, 20:07:33](https://news.ycombinator.com/item?id=43234482) - [Fix the light guide in a laser meter](https://lettieri.iet.unipi.it/~luigi/250302-fix-laser-meter/)
 * [2025-03-02, 20:06:41](https://news.ycombinator.com/item?id=43234471) - [Matt's Script Archive (1995)](https://www.scriptarchive.com/)
 * [2025-03-02, 20:05:28](https://news.ycombinator.com/item?id=43234457) - [An Uneasy Propaganda Alliance](https://www.historytoday.com/archive/history-matters/uneasy-propaganda-alliance)
 * [2025-03-02, 19:48:33](https://news.ycombinator.com/item?id=43234281) - [Brazilians hail strength of democracy as Bolsonaro is called to account](https://www.theguardian.com/world/2025/feb/19/brazil-jair-bolsonaro-coup)

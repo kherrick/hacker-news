@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-05](index.md)
 
+* [2025-03-05, 21:09:47](https://news.ycombinator.com/item?id=43272453) - [Jeep Owners Fed Up with In-Car Pop-Up Ads](https://www.kbb.com/car-news/jeep-owners-fed-up-with-in-car-pop-up-ads/)
+* [2025-03-05, 21:01:01](https://news.ycombinator.com/item?id=43272332) - [Datafold (YC S20) is hiring Engineer to build AI-powered data migration tools](https://www.ycombinator.com/companies/datafold/jobs/ieGYiSG-senior-software-engineer-ai-agents)
+* [2025-03-05, 20:56:25](https://news.ycombinator.com/item?id=43272275) - [Git Without a Forge](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/git-no-forge/)
 * [2025-03-05, 20:20:16](https://news.ycombinator.com/item?id=43271774) - [Macron to open debate on extending French nuclear protection to European allies](https://www.reuters.com/world/europe/frances-macron-address-nation-late-wednesday-2025-03-05/)
 * [2025-03-05, 20:12:14](https://news.ycombinator.com/item?id=43271691) - [Sam Altman Returns to Political Fund-Raising](https://www.nytimes.com/2025/03/05/us/politics/sam-altman-openai-democrat-fundraising.html)
 * [2025-03-05, 20:04:18](https://news.ycombinator.com/item?id=43271592) - [Doge eliminated the US government's tech experts – what has been lost?](https://www.newscientist.com/article/2470902-doge-eliminated-the-us-governments-tech-experts-what-has-been-lost/)
