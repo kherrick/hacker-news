@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-03](index.md)
 
+* [2025-03-03, 23:56:16](https://news.ycombinator.com/item?id=43248359) - [Show HN: Search and analyze millions of SEC filings with AI.](https://www.publicview.ai/)
 * [2025-03-03, 21:55:27](https://news.ycombinator.com/item?id=43247308) - [Show HN: I made an app to like or dislike famous quotes](https://quoter.codeplace.de)
 * [2025-03-03, 21:19:56](https://news.ycombinator.com/item?id=43246892) - [Repairable Flatpack Toaster](https://www.kaseyhou.com/#/repairable-flatpack-toaster/)
 * [2025-03-03, 21:08:56](https://news.ycombinator.com/item?id=43246743) - [Proof that LLM just mimic logical without understanding underlying logic](https://arxiv.org/abs/2502.19907)
