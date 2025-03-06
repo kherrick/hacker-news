@@ -1,11 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-06, 18:24:37](https://news.ycombinator.com/item?id=43283367) - [Questions for William J. Rapaport](https://docs.google.com/forms/d/e/1FAIpQLScu0u_nW3S94CfrEGzaABprsGm322wVaBkiqF-ajkN_HVKHhQ/viewform?usp=header)
+* [2025-03-06, 18:08:24](https://news.ycombinator.com/item?id=43283178) - [Atlassian announces end of support for Opsgenie](https://www.atlassian.com/blog/announcements/evolution-of-it-operations)
 * [2025-03-06, 17:48:37](https://news.ycombinator.com/item?id=43282995) - [Succinct Data Structures](https://blog.startifact.com/posts/succinct/)
 * [2025-03-06, 17:42:44](https://news.ycombinator.com/item?id=43282936) - [The Combined Cipher Machine 1940's-1950's](http://chris-intel-corner.blogspot.com/2025/03/the-combined-cipher-machine-1942-1962.html)
 * [2025-03-06, 17:39:39](https://news.ycombinator.com/item?id=43282905) - [Mistral OCR](https://mistral.ai/fr/news/mistral-ocr)
 * [2025-03-06, 17:38:33](https://news.ycombinator.com/item?id=43282892) - [UK quietly scrubs encryption advice from government websites](https://techcrunch.com/2025/03/06/uk-quietly-scrubs-encryption-advice-from-government-websites/)
 * [2025-03-06, 17:19:44](https://news.ycombinator.com/item?id=43282668) - [Why 56k Modems Relied on Digital Phone Lines You Didn't Know We Had](https://hackaday.com/2025/03/06/why-56k-modems-relied-on-digital-phone-lines-you-didnt-know-we-had/)
 * [2025-03-06, 17:14:39](https://news.ycombinator.com/item?id=43282594) - [NASA Shuts Off Voyager Science Instrument](https://gizmodo.com/nasa-shuts-off-voyager-science-instrument-more-power-cuts-ahead-to-keep-both-probes-going-2000572202)
+* [2025-03-06, 17:02:58](https://news.ycombinator.com/item?id=43282489) - [Mistral OCR](https://mistral.ai/news/mistral-ocr)
 * [2025-03-06, 17:01:10](https://news.ycombinator.com/item?id=43282462) - [Leaping AI (YC W25) Is Hiring Founding Engineers for Self-Improving Voice AI](https://www.ycombinator.com/companies/leaping-ai/jobs/BpsfpvY-founding-full-stack-engineer)
 * [2025-03-06, 16:37:34](https://news.ycombinator.com/item?id=43282133) - [Anime fans stumbled upon a mathematical proof](https://www.scientificamerican.com/article/the-surprisingly-difficult-mathematical-proof-that-anime-fans-helped-solve/)
 * [2025-03-06, 16:18:11](https://news.ycombinator.com/item?id=43281893) - [More thoughts on the 1670 modem's weird noises](https://rachelbythebay.com/w/2025/03/05/1670/)
@@ -14,7 +17,6 @@
 * [2025-03-06, 14:30:10](https://news.ycombinator.com/item?id=43280615) - [Show HN: CodeTracer – A new time-traveling debugger implemented in Nim and Rust](https://github.com/metacraft-labs/codetracer)
 * [2025-03-06, 12:33:27](https://news.ycombinator.com/item?id=43279494) - [Age and cognitive skills: Use it or lose it](https://www.science.org/doi/full/10.1126/sciadv.ads1560?af=R)
 * [2025-03-06, 11:53:08](https://news.ycombinator.com/item?id=43279147) - [Scientists crack how aspirin might stop cancers from spreading](https://www.bbc.com/news/articles/c1d4n119xr7o)
-* [2025-03-06, 10:22:06](https://news.ycombinator.com/item?id=43278473) - [Automatically tagging politician when they use their phone on the livestreams](https://driesdepoorter.be/theflemishscrollers/)
 * [2025-03-06, 08:47:32](https://news.ycombinator.com/item?id=43277918) - [Revolt: Open-Source Alternative to Discord](https://revolt.chat)
 * [2025-03-06, 06:53:46](https://news.ycombinator.com/item?id=43277214) - [Apache iceberg the Hadoop of the modern-data-stack?](https://blog.det.life/apache-iceberg-the-hadoop-of-the-modern-data-stack-c83f63a4ebb9)
 * [2025-03-06, 01:33:14](https://news.ycombinator.com/item?id=43275193) - [Cognitive Behaviors That Enable Self-Improving Reasoners](https://arxiv.org/abs/2503.01307)
@@ -28,8 +30,6 @@
 * [2025-03-03, 15:22:01](https://news.ycombinator.com/item?id=43242587) - [Sayonara, R35: Nissan Japan has stopped taking orders for the GT-R](https://www.topgear.com/car-news/supercars/sayonara-r35-nissan-japan-has-stopped-taking-orders-gt-r)
 * [2025-03-03, 13:39:04](https://news.ycombinator.com/item?id=43241589) - [Beavers Are Coming Home](https://www.wildlifetrusts.org/news/beavers-are-coming-home)
 * [2025-03-03, 08:26:15](https://news.ycombinator.com/item?id=43239573) - [IoT project using thermal sensors to monitor spaces](https://s2.dev/blog/iot)
-* [2025-03-02, 14:34:50](https://news.ycombinator.com/item?id=43230864) - [Tiny Ten DSP-Based HF Transceiver](https://www.janbob.com/electron/TinyTen/TinyTen.htm)
-* [2025-03-02, 13:56:01](https://news.ycombinator.com/item?id=43230510) - [Yoke: Infrastructure as code, but actually](https://xeiaso.net/blog/2025/yoke-k8s/)
 
 ## [Archives](archives/index.md)
 
