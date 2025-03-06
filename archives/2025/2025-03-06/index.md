@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-06](index.md)
 
+* [2025-03-06, 23:43:37](https://news.ycombinator.com/item?id=43286161) - [Differentiable Logic Cellular Automata](https://google-research.github.io/self-organising-systems/difflogic-ca/?hn)
+* [2025-03-06, 23:31:13](https://news.ycombinator.com/item?id=43286091) - [InstantStyle: Free Lunch Towards Style-Preserving in Text-to-Image Generation](https://github.com/instantX-research/InstantStyle)
 * [2025-03-06, 22:35:00](https://news.ycombinator.com/item?id=43285726) - [Why I find diffusion models interesting?](https://rnikhil.com/2025/03/06/diffusion-models-eval)
 * [2025-03-06, 22:34:54](https://news.ycombinator.com/item?id=43285725) - [Ask HN: How did internet discover my subdomain?](https://news.ycombinator.com/item?id=43285725)
 * [2025-03-06, 22:28:01](https://news.ycombinator.com/item?id=43285671) - [How to distrust a CA without any certificate errors](https://dadrian.io/blog/posts/sct-not-after/)

@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-06, 23:43:37](https://news.ycombinator.com/item?id=43286161) - [Differentiable Logic Cellular Automata](https://google-research.github.io/self-organising-systems/difflogic-ca/?hn)
+* [2025-03-06, 23:31:13](https://news.ycombinator.com/item?id=43286091) - [InstantStyle: Free Lunch Towards Style-Preserving in Text-to-Image Generation](https://github.com/instantX-research/InstantStyle)
 * [2025-03-06, 22:35:00](https://news.ycombinator.com/item?id=43285726) - [Why I find diffusion models interesting?](https://rnikhil.com/2025/03/06/diffusion-models-eval)
 * [2025-03-06, 22:34:54](https://news.ycombinator.com/item?id=43285725) - [Ask HN: How did internet discover my subdomain?](https://news.ycombinator.com/item?id=43285725)
 * [2025-03-06, 22:28:01](https://news.ycombinator.com/item?id=43285671) - [How to distrust a CA without any certificate errors](https://dadrian.io/blog/posts/sct-not-after/)
@@ -17,7 +19,6 @@
 * [2025-03-06, 18:20:48](https://news.ycombinator.com/item?id=43283317) - [Show HN: Open-source, native audio turn detection model](https://github.com/pipecat-ai/smart-turn)
 * [2025-03-06, 17:48:37](https://news.ycombinator.com/item?id=43282995) - [Succinct Data Structures](https://blog.startifact.com/posts/succinct/)
 * [2025-03-06, 17:39:39](https://news.ycombinator.com/item?id=43282905) - [Mistral OCR](https://mistral.ai/fr/news/mistral-ocr)
-* [2025-03-06, 17:22:25](https://news.ycombinator.com/item?id=43282697) - [A New, Chemical View of Ecosystems](https://www.quantamagazine.org/a-new-chemical-view-of-ecosystems-20250305/)
 * [2025-03-06, 17:14:39](https://news.ycombinator.com/item?id=43282594) - [NASA Shuts Off Voyager Science Instrument](https://gizmodo.com/nasa-shuts-off-voyager-science-instrument-more-power-cuts-ahead-to-keep-both-probes-going-2000572202)
 * [2025-03-06, 16:37:34](https://news.ycombinator.com/item?id=43282133) - [Anime fans stumbled upon a mathematical proof](https://www.scientificamerican.com/article/the-surprisingly-difficult-mathematical-proof-that-anime-fans-helped-solve/)
 * [2025-03-06, 16:18:11](https://news.ycombinator.com/item?id=43281893) - [More thoughts on the 1670 modem's weird noises](https://rachelbythebay.com/w/2025/03/05/1670/)
@@ -25,7 +26,6 @@
 * [2025-03-06, 14:30:10](https://news.ycombinator.com/item?id=43280615) - [Show HN: CodeTracer – A new time-traveling debugger implemented in Nim and Rust](https://github.com/metacraft-labs/codetracer)
 * [2025-03-06, 08:47:32](https://news.ycombinator.com/item?id=43277918) - [Revolt: Open-Source Alternative to Discord](https://revolt.chat)
 * [2025-03-04, 12:55:29](https://news.ycombinator.com/item?id=43253898) - [Putting Bounties on My Goals](https://www.krayorn.com/posts/bounties-on-goals/)
-* [2025-03-03, 18:16:09](https://news.ycombinator.com/item?id=43244860) - [On the criteria to be used in decomposing systems into modules (1972)](https://dl.acm.org/doi/pdf/10.1145/361598.361623)
 * [2025-03-03, 14:05:46](https://news.ycombinator.com/item?id=43241835) - [Multicomponent Glass Fertilizer for Nutrient Delivery in Precision Agriculture](https://pubs.acs.org/doi/10.1021/acsagscitech.4c00243)
 * [2025-03-03, 13:39:04](https://news.ycombinator.com/item?id=43241589) - [Reintroductions of beavers into the wild in several parts of England](https://www.wildlifetrusts.org/news/beavers-are-coming-home)
 * [2025-03-03, 09:35:29](https://news.ycombinator.com/item?id=43240013) - [A JPEG Image Compression Service Using Part Homomorphic Encryption](https://github.com/qianfei11/ShadowyCompression)
