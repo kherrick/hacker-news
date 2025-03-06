@@ -52,6 +52,7 @@
 * [2025-03-04, 09:37:15](https://news.ycombinator.com/item?id=43252445) - [Anthropic's valuation triples to $61.5B in bumper AI funding round](https://www.ft.com/content/05c90475-84fb-4f88-bbfc-6b1a60af90db)
 * [2025-03-04, 08:09:22](https://news.ycombinator.com/item?id=43251762) - [Mozilla rewrites Firefox's Terms of Use after user backlash](https://techcrunch.com/2025/03/03/mozilla-rewrites-firefoxs-terms-of-use-after-user-backlash/)
 * [2025-03-04, 08:05:02](https://news.ycombinator.com/item?id=43251722) - [Why writing small docs is a game changer](https://bufferbuffer.com/why-writing-small-docs-is-a-game-changer/)
+* [2025-03-04, 07:25:02](https://news.ycombinator.com/item?id=43251416) - [In Severance, Office Perks Couldn't Be More Sinister](https://theoffcut.substack.com/p/severance-office-perks-sinister)
 * [2025-03-04, 06:49:02](https://news.ycombinator.com/item?id=43251150) - [The End of Weather Forecasting](https://thinc.blog/2025/03/03/the-end-of-weather-forecasting/)
 * [2025-03-04, 05:22:47](https://news.ycombinator.com/item?id=43250658) - [Not Lonely at All](https://ma.tt/2009/07/not-lonely-at-all/)
 * [2025-03-04, 04:14:14](https://news.ycombinator.com/item?id=43250217) - [The Kill-or-Be-Killed Fight for Crypto's Future](https://www.wsj.com/finance/currencies/who-is-giancarlo-devasini-tether-jeremy-allaire-circle-90a408b9)

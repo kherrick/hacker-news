@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-03-06](index.md)
+
+* [2025-03-06, 00:36:40](https://news.ycombinator.com/item?id=43274698) - [Volkswagen Introduces ID. EVERY1, Its Most Affordable EV](https://www.ttnews.com/articles/vw-introduces-id-every1)
