@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-06](index.md)
 
+* [2025-03-06, 13:41:48](https://news.ycombinator.com/item?id=43280071) - [Let's Talk About the American Dream](https://blog.codinghorror.com/lets-talk-about-the-american-dream/)
+* [2025-03-06, 13:05:02](https://news.ycombinator.com/item?id=43279746) - [A shirt whose price increases by 1 euro with every purchase](https://driesdepoorter.be/shirt/)
 * [2025-03-06, 12:37:29](https://news.ycombinator.com/item?id=43279528) - [Israel creating GPT-like tool using collection of Palestinian surveillance data](https://www.theguardian.com/world/2025/mar/06/israel-military-ai-surveillance)
 * [2025-03-06, 12:33:27](https://news.ycombinator.com/item?id=43279494) - [Age and cognitive skills: Use it or lose it](https://www.science.org/doi/full/10.1126/sciadv.ads1560?af=R)
 * [2025-03-06, 12:29:36](https://news.ycombinator.com/item?id=43279454) - [Finland ends homelessness and provides shelter for all in need](https://thebetter.news/housing-first-finland-homelessness/)
