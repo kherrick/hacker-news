@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-06, 19:32:12](https://news.ycombinator.com/item?id=43284227) - [Show HN: Shelgon: A Framework for Building Interactive REPL Shells in Rust](https://github.com/NishantJoshi00/shelgon)
 * [2025-03-06, 19:04:12](https://news.ycombinator.com/item?id=43283917) - [EFF: Rayhunter](https://github.com/EFForg/rayhunter)
 * [2025-03-06, 19:01:28](https://news.ycombinator.com/item?id=43283884) - [Exposing Russian EFF Impersonators: The Inside Story on Stealc and Pyramid C2](https://hunt.io/blog/russian-speaking-actors-impersonate-etf-distribute-stealc-pyramid-c2)
 * [2025-03-06, 18:55:47](https://news.ycombinator.com/item?id=43283814) - [Bcvi – run vi over a 'back-channel' (2010)](https://sshmenu.sourceforge.net/articles/bcvi/)
@@ -19,7 +20,6 @@
 * [2025-03-06, 14:30:10](https://news.ycombinator.com/item?id=43280615) - [Show HN: CodeTracer – A new time-traveling debugger implemented in Nim and Rust](https://github.com/metacraft-labs/codetracer)
 * [2025-03-06, 12:33:27](https://news.ycombinator.com/item?id=43279494) - [Age and cognitive skills: Use it or lose it](https://www.science.org/doi/full/10.1126/sciadv.ads1560?af=R)
 * [2025-03-06, 08:47:32](https://news.ycombinator.com/item?id=43277918) - [Revolt: Open-Source Alternative to Discord](https://revolt.chat)
-* [2025-03-06, 06:53:46](https://news.ycombinator.com/item?id=43277214) - [Apache iceberg the Hadoop of the modern-data-stack?](https://blog.det.life/apache-iceberg-the-hadoop-of-the-modern-data-stack-c83f63a4ebb9)
 * [2025-03-06, 01:33:14](https://news.ycombinator.com/item?id=43275193) - [Cognitive Behaviors That Enable Self-Improving Reasoners](https://arxiv.org/abs/2503.01307)
 * [2025-03-05, 19:34:23](https://news.ycombinator.com/item?id=43271177) - [NCSC, GCHQ, UK Gov't expunge advice to \"use Apple encryption\"](https://alecmuffett.com/article/112522)
 * [2025-03-05, 19:09:39](https://news.ycombinator.com/item?id=43270843) - [QwQ-32B: Embracing the Power of Reinforcement Learning](https://qwenlm.github.io/blog/qwq-32b/)

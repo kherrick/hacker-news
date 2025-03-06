@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-06](index.md)
 
+* [2025-03-06, 19:32:12](https://news.ycombinator.com/item?id=43284227) - [Show HN: Shelgon: A Framework for Building Interactive REPL Shells in Rust](https://github.com/NishantJoshi00/shelgon)
 * [2025-03-06, 19:04:12](https://news.ycombinator.com/item?id=43283917) - [EFF: Rayhunter](https://github.com/EFForg/rayhunter)
 * [2025-03-06, 19:01:28](https://news.ycombinator.com/item?id=43283884) - [Exposing Russian EFF Impersonators: The Inside Story on Stealc and Pyramid C2](https://hunt.io/blog/russian-speaking-actors-impersonate-etf-distribute-stealc-pyramid-c2)
 * [2025-03-06, 18:55:47](https://news.ycombinator.com/item?id=43283814) - [Bcvi – run vi over a 'back-channel' (2010)](https://sshmenu.sourceforge.net/articles/bcvi/)
