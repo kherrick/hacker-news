@@ -56,6 +56,7 @@
 * [2025-03-03, 14:24:10](https://news.ycombinator.com/item?id=43242017) - [The quest to find and save the Vasa](https://www.mentalfloss.com/article/568289/vasa-quest-to-save-most-famous-shipwreck)
 * [2025-03-03, 14:10:44](https://news.ycombinator.com/item?id=43241880) - [The weird afterlife of Xbox Kinect](https://www.theguardian.com/games/2025/mar/03/ghost-hunting-pornography-and-interactive-art-the-weird-afterlife-of-xbox-kinect)
 * [2025-03-03, 13:51:03](https://news.ycombinator.com/item?id=43241689) - [Fintoc (YC W21) Is Hiring Senior Software Engineer. Live Rent-Free in CL or MX](https://fintoc.com/codehere)
+* [2025-03-03, 13:27:26](https://news.ycombinator.com/item?id=43241501) - [SepLLM: Accelerate LLMs by Compressing One Segment into One Separator](https://sepllm.github.io/)
 * [2025-03-03, 13:27:07](https://news.ycombinator.com/item?id=43241499) - [How Math Academy pulled me out of the Valley of Despair](https://mikelikejordan.bearblog.dev/how-math-academy-pulled-me-out-of-the-valley-of-despair/)
 * [2025-03-03, 13:14:22](https://news.ycombinator.com/item?id=43241404) - [The Internals of PostgreSQL](http://www.interdb.jp/pg/index.html)
 * [2025-03-03, 12:44:33](https://news.ycombinator.com/item?id=43241212) - [Amazon's Drones Are Grounded. The Birds and Dogs of This Texas Town Are Grateful](https://www.wired.com/story/texas-amazon-drones-stop-flying/)

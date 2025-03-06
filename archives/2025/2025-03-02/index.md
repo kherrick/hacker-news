@@ -88,6 +88,7 @@
 * [2025-03-02, 04:32:06](https://news.ycombinator.com/item?id=43227303) - [Knowing CSS is mastery to Front end Development](https://helloanselm.com/writings/knowing-css-is-mastery-to-frontend-development)
 * [2025-03-02, 04:09:49](https://news.ycombinator.com/item?id=43227180) - [The NIH Is Being Slashed and Burned, Not \"Reformed\"](https://www.sensible-med.com/p/the-nih-is-being-slashed-and-burned)
 * [2025-03-02, 03:57:35](https://news.ycombinator.com/item?id=43227131) - [Show HN: What did you do last week? – Evaluates your 5 bullet points](https://whatdidyoudolastweek.biz)
+* [2025-03-02, 03:06:39](https://news.ycombinator.com/item?id=43226792) - [Nebu: A Spreadsheet Editor for Varvara](https://wiki.xxiivv.com/site/nebu)
 * [2025-03-02, 02:27:51](https://news.ycombinator.com/item?id=43226546) - [The INTERNET is killing old PC hardware [video]](https://www.youtube.com/watch?v=TE_ePuGAvPM)
 * [2025-03-02, 02:15:18](https://news.ycombinator.com/item?id=43226462) - [Why I'm Learning C# and .NET After Two Decades of Programming](https://kerrick.blog/articles/2025/why-i-am-learning-c-sharp-and-dot-net-after-two-decades-of-programming/)
 * [2025-03-02, 01:20:17](https://news.ycombinator.com/item?id=43226089) - [Mozilla site down due to \"overdue hosting payments\"](https://linuxmom.net/@vkc/114089626244932902)
