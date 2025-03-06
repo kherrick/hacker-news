@@ -54,6 +54,7 @@
 * [2025-03-04, 08:05:02](https://news.ycombinator.com/item?id=43251722) - [Why writing small docs is a game changer](https://bufferbuffer.com/why-writing-small-docs-is-a-game-changer/)
 * [2025-03-04, 07:25:02](https://news.ycombinator.com/item?id=43251416) - [In Severance, Office Perks Couldn't Be More Sinister](https://theoffcut.substack.com/p/severance-office-perks-sinister)
 * [2025-03-04, 06:49:02](https://news.ycombinator.com/item?id=43251150) - [The End of Weather Forecasting](https://thinc.blog/2025/03/03/the-end-of-weather-forecasting/)
+* [2025-03-04, 06:25:07](https://news.ycombinator.com/item?id=43250986) - [HYTRADBOI 2025 Conference Postmortem](https://www.scattered-thoughts.net/writing/hytradboi-2025-postmortem/)
 * [2025-03-04, 05:22:47](https://news.ycombinator.com/item?id=43250658) - [Not Lonely at All](https://ma.tt/2009/07/not-lonely-at-all/)
 * [2025-03-04, 04:14:14](https://news.ycombinator.com/item?id=43250217) - [The Kill-or-Be-Killed Fight for Crypto's Future](https://www.wsj.com/finance/currencies/who-is-giancarlo-devasini-tether-jeremy-allaire-circle-90a408b9)
 * [2025-03-04, 03:55:00](https://news.ycombinator.com/item?id=43250093) - [Let's code a TCP/IP stack, 1: Ethernet and ARP](https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
