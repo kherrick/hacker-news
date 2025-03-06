@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-03-06, 19:04:12",
+      "https://news.ycombinator.com/item?id=43283917"
+    ],
+    [
+      "EFF: Rayhunter",
+      "https://github.com/EFForg/rayhunter"
+    ]
+  ],
+  [
+    [
+      "2025-03-06, 19:01:28",
+      "https://news.ycombinator.com/item?id=43283884"
+    ],
+    [
+      "Exposing Russian EFF Impersonators: The Inside Story on Stealc and Pyramid C2",
+      "https://hunt.io/blog/russian-speaking-actors-impersonate-etf-distribute-stealc-pyramid-c2"
+    ]
+  ],
+  [
+    [
+      "2025-03-06, 18:55:47",
+      "https://news.ycombinator.com/item?id=43283814"
+    ],
+    [
+      "Bcvi – run vi over a 'back-channel' (2010)",
+      "https://sshmenu.sourceforge.net/articles/bcvi/"
+    ]
+  ],
+  [
+    [
+      "2025-03-06, 18:45:47",
+      "https://news.ycombinator.com/item?id=43283669"
+    ],
+    [
+      "Warewulf is a stateless and diskless container OS provisioning system",
+      "https://github.com/warewulf/warewulf"
+    ]
+  ],
+  [
+    [
       "2025-03-06, 18:34:11",
       "https://news.ycombinator.com/item?id=43283498"
     ],
@@ -61,16 +101,6 @@
   ],
   [
     [
-      "2025-03-06, 17:38:33",
-      "https://news.ycombinator.com/item?id=43282892"
-    ],
-    [
-      "UK quietly scrubs encryption advice from government websites",
-      "https://techcrunch.com/2025/03/06/uk-quietly-scrubs-encryption-advice-from-government-websites/"
-    ]
-  ],
-  [
-    [
       "2025-03-06, 17:19:44",
       "https://news.ycombinator.com/item?id=43282668"
     ],
@@ -87,16 +117,6 @@
     [
       "NASA Shuts Off Voyager Science Instrument",
       "https://gizmodo.com/nasa-shuts-off-voyager-science-instrument-more-power-cuts-ahead-to-keep-both-probes-going-2000572202"
-    ]
-  ],
-  [
-    [
-      "2025-03-06, 17:02:58",
-      "https://news.ycombinator.com/item?id=43282489"
-    ],
-    [
-      "Mistral OCR",
-      "https://mistral.ai/news/mistral-ocr"
     ]
   ],
   [
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2025-03-06, 11:53:08",
-      "https://news.ycombinator.com/item?id=43279147"
-    ],
-    [
-      "Scientists crack how aspirin might stop cancers from spreading",
-      "https://www.bbc.com/news/articles/c1d4n119xr7o"
-    ]
-  ],
-  [
-    [
       "2025-03-06, 08:47:32",
       "https://news.ycombinator.com/item?id=43277918"
     ],
     [
       "Revolt: Open-Source Alternative to Discord",
       "https://revolt.chat"
-    ]
-  ],
-  [
-    [
-      "2025-03-06, 06:53:46",
-      "https://news.ycombinator.com/item?id=43277214"
-    ],
-    [
-      "Apache iceberg the Hadoop of the modern-data-stack?",
-      "https://blog.det.life/apache-iceberg-the-hadoop-of-the-modern-data-stack-c83f63a4ebb9"
     ]
   ],
   [
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2025-03-05, 21:10:35",
-      "https://news.ycombinator.com/item?id=43272463"
+      "2025-03-05, 19:34:23",
+      "https://news.ycombinator.com/item?id=43271177"
     ],
     [
-      "Zentool – AMD Zen Microcode Manipulation Utility",
-      "https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md"
+      "NCSC, GCHQ, UK Gov't expunge advice to \"use Apple encryption\"",
+      "https://alecmuffett.com/article/112522"
     ]
   ],
   [
@@ -237,16 +237,6 @@
     [
       "GoStringUngarbler: Deobfuscating Strings in Garbled Binaries",
       "https://cloud.google.com/blog/topics/threat-intelligence/gostringungarbler-deobfuscating-strings-in-garbled-binaries"
-    ]
-  ],
-  [
-    [
-      "2025-03-05, 13:59:50",
-      "https://news.ycombinator.com/item?id=43266453"
-    ],
-    [
-      "Apple M3 Ultra",
-      "https://www.apple.com/newsroom/2025/03/apple-reveals-m3-ultra-taking-apple-silicon-to-a-new-extreme/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Beavers Are Coming Home",
       "https://www.wildlifetrusts.org/news/beavers-are-coming-home"
+    ]
+  ],
+  [
+    [
+      "2025-03-03, 09:35:29",
+      "https://news.ycombinator.com/item?id=43240013"
+    ],
+    [
+      "A JPEG Image Compression Service Using Part Homomorphic Encryption",
+      "https://github.com/qianfei11/ShadowyCompression"
     ]
   ],
   [
