@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-06](index.md)
 
+* [2025-03-06, 12:00:40](https://news.ycombinator.com/item?id=43279220) - [Empirical Health is hiring design engineers to build primary care of the future](https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer)
 * [2025-03-06, 11:29:56](https://news.ycombinator.com/item?id=43278934) - [Denmark postal service to stop delivering letters](https://www.bbc.com/news/articles/ckg8jllq283o)
 * [2025-03-06, 11:17:48](https://news.ycombinator.com/item?id=43278845) - [AMD Announces \"Instella\" Open-Source 3B Language Models](https://www.phoronix.com/news/AMD-Intella-Open-Source-LM)
 * [2025-03-06, 10:58:57](https://news.ycombinator.com/item?id=43278705) - [Buy European Made. Support European Values](https://www.buy-european-made.eu/)

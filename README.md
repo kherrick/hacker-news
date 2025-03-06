@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-06, 12:00:40](https://news.ycombinator.com/item?id=43279220) - [Empirical Health is hiring design engineers to build primary care of the future](https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer)
 * [2025-03-06, 11:29:56](https://news.ycombinator.com/item?id=43278934) - [Denmark postal service to stop delivering letters](https://www.bbc.com/news/articles/ckg8jllq283o)
 * [2025-03-06, 11:17:48](https://news.ycombinator.com/item?id=43278845) - [AMD Announces \"Instella\" Open-Source 3B Language Models](https://www.phoronix.com/news/AMD-Intella-Open-Source-LM)
 * [2025-03-06, 10:22:06](https://news.ycombinator.com/item?id=43278473) - [Automatically tagging politician when they use their phone on the livestreams](https://driesdepoorter.be/theflemishscrollers/)
@@ -7,7 +8,6 @@
 * [2025-03-06, 08:48:13](https://news.ycombinator.com/item?id=43277924) - [Forget Twitter Threads; Write a Blog Post Instead (2021)](https://kevquirk.com/blog/forget-twitter-threads-write-a-blog-post-instead)
 * [2025-03-06, 08:47:32](https://news.ycombinator.com/item?id=43277918) - [Revolt: Open-Source Alternative to Discord](https://revolt.chat)
 * [2025-03-06, 08:16:41](https://news.ycombinator.com/item?id=43277748) - [Due to new tariffs, many more physical game discs may \"simply not get made\"](https://arstechnica.com/gaming/2025/03/thanks-to-new-tariffs-many-more-physical-game-discs-may-simply-not-get-made/)
-* [2025-03-06, 07:00:13](https://news.ycombinator.com/item?id=43277250) - [Arva AI (YC S24) Is Hiring an AI Product Engineer](https://www.ycombinator.com/companies/arva-ai/jobs/OBPwCiU-ai-product-engineer)
 * [2025-03-06, 06:53:46](https://news.ycombinator.com/item?id=43277214) - [Apache iceberg the Hadoop of the modern-data-stack?](https://blog.det.life/apache-iceberg-the-hadoop-of-the-modern-data-stack-c83f63a4ebb9)
 * [2025-03-06, 01:33:14](https://news.ycombinator.com/item?id=43275193) - [Cognitive Behaviors That Enable Self-Improving Reasoners](https://arxiv.org/abs/2503.01307)
 * [2025-03-06, 00:53:32](https://news.ycombinator.com/item?id=43274821) - [The US stops sharing air quality data from embassies worldwide](https://apnews.com/article/us-air-quality-monitors-8270927bbd0f166238243ac9d14bce03)
@@ -24,7 +24,7 @@
 * [2025-03-05, 13:59:50](https://news.ycombinator.com/item?id=43266453) - [Apple M3 Ultra](https://www.apple.com/newsroom/2025/03/apple-reveals-m3-ultra-taking-apple-silicon-to-a-new-extreme/)
 * [2025-03-04, 11:23:05](https://news.ycombinator.com/item?id=43253211) - [Simple Explanation of LLMs](https://blog.oedemis.io/understanding-llms-a-simple-guide-to-large-language-models)
 * [2025-03-04, 06:25:07](https://news.ycombinator.com/item?id=43250986) - [HYTRADBOI 2025 Conference Postmortem](https://www.scattered-thoughts.net/writing/hytradboi-2025-postmortem/)
-* [2025-03-03, 13:27:07](https://news.ycombinator.com/item?id=43241499) - [Math Academy pulled me out of the Valley of Despair](https://mikelikejordan.bearblog.dev/how-math-academy-pulled-me-out-of-the-valley-of-despair/)
+* [2025-03-03, 20:38:23](https://news.ycombinator.com/item?id=43246403) - [Windows Is Free for Business (2008)](https://davegutteridge.com/windows_is_free_for_business)
 * [2025-03-02, 20:15:42](https://news.ycombinator.com/item?id=43234556) - [The Drift of Things: David Goodman Croly's Glimpses of the Future (1888)](https://publicdomainreview.org/collection/glimpses-of-the-future/)
 * [2025-03-02, 14:34:50](https://news.ycombinator.com/item?id=43230864) - [Tiny Ten DSP-Based HF Transceiver](https://www.janbob.com/electron/TinyTen/TinyTen.htm)
 * [2025-03-02, 14:21:50](https://news.ycombinator.com/item?id=43230764) - [Citronics built a router based on the Fairphone 2 mainboard](https://www.cnx-software.com/2025/03/02/citronics-built-a-router-based-on-the-fairphone-2-mainboard/)
