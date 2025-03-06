@@ -7,6 +7,7 @@
 * [2025-03-02, 23:39:29](https://news.ycombinator.com/item?id=43236520) - [Solarpunk](https://en.wikipedia.org/wiki/Solarpunk)
 * [2025-03-02, 23:21:52](https://news.ycombinator.com/item?id=43236370) - [ACCESS.bus: The Forgotten USB Competitor](https://tedium.co/2025/02/17/access-bus-i2c-usb-competitor-history/)
 * [2025-03-02, 23:09:47](https://news.ycombinator.com/item?id=43236276) - [The Origins of the \"++\" and \"--\" Operators](https://news.ycombinator.com/item?id=43236276)
+* [2025-03-02, 23:07:17](https://news.ycombinator.com/item?id=43236254) - [Palm phytoliths in subarctic Canada imply ice-free winters 48M years ago](https://academic.oup.com/aob/advance-article/doi/10.1093/aob/mcaf021/8006661)
 * [2025-03-02, 22:59:13](https://news.ycombinator.com/item?id=43236184) - [The Differences Between Deep Research, Deep Research, and Deep Research](https://leehanchung.github.io/blogs/2025/02/26/deep-research/)
 * [2025-03-02, 22:52:35](https://news.ycombinator.com/item?id=43236126) - [CSS Custom Functions are coming and they are going to be a game changer](https://www.bram.us/2025/02/09/css-custom-functions-teaser/)
 * [2025-03-02, 22:33:21](https://news.ycombinator.com/item?id=43235972) - [Most IT companies fail to serve security.txt for RFC 9116 in 2025](https://blog.hartwork.org/posts/companies-fail-to-serve-security-txt-rfc-9116/)

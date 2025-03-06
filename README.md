@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-06, 21:00:00](https://news.ycombinator.com/item?id=43285020) - [Koko (YC W22) Is Hiring a CTO / Lead Engineer](https://www.ycombinator.com/companies/koko-2/jobs/oPgy08B-lead-engineer-cto)
 * [2025-03-06, 20:32:47](https://news.ycombinator.com/item?id=43284811) - [Show HN: Rust Vector and Quaternion Lib](https://github.com/David-OConnor/lin-alg)
 * [2025-03-06, 19:51:55](https://news.ycombinator.com/item?id=43284420) - [Using GRPO to Beat o1, o3-mini and R1 at \"Temporal Clue\"](https://openpipe.ai/blog/using-grpo-to-beat-o1-o3-mini-and-r1-on-temporal-clue)
 * [2025-03-06, 19:38:57](https://news.ycombinator.com/item?id=43284291) - [How the Index Card Cataloged the World (2017)](https://www.theatlantic.com/technology/archive/2017/12/how-the-index-card-catalogued-the-world/547271/)
@@ -15,9 +16,7 @@
 * [2025-03-06, 17:42:44](https://news.ycombinator.com/item?id=43282936) - [The Combined Cipher Machine 1940's-1950's](http://chris-intel-corner.blogspot.com/2025/03/the-combined-cipher-machine-1942-1962.html)
 * [2025-03-06, 17:39:39](https://news.ycombinator.com/item?id=43282905) - [Mistral OCR](https://mistral.ai/fr/news/mistral-ocr)
 * [2025-03-06, 17:22:25](https://news.ycombinator.com/item?id=43282697) - [A New, Chemical View of Ecosystems](https://www.quantamagazine.org/a-new-chemical-view-of-ecosystems-20250305/)
-* [2025-03-06, 17:19:44](https://news.ycombinator.com/item?id=43282668) - [Why 56k Modems Relied on Digital Phone Lines You Didn't Know We Had](https://hackaday.com/2025/03/06/why-56k-modems-relied-on-digital-phone-lines-you-didnt-know-we-had/)
 * [2025-03-06, 17:14:39](https://news.ycombinator.com/item?id=43282594) - [NASA Shuts Off Voyager Science Instrument](https://gizmodo.com/nasa-shuts-off-voyager-science-instrument-more-power-cuts-ahead-to-keep-both-probes-going-2000572202)
-* [2025-03-06, 17:01:10](https://news.ycombinator.com/item?id=43282462) - [Leaping AI (YC W25) Is Hiring Founding Engineers for Self-Improving Voice AI](https://www.ycombinator.com/companies/leaping-ai/jobs/BpsfpvY-founding-full-stack-engineer)
 * [2025-03-06, 16:37:34](https://news.ycombinator.com/item?id=43282133) - [Anime fans stumbled upon a mathematical proof](https://www.scientificamerican.com/article/the-surprisingly-difficult-mathematical-proof-that-anime-fans-helped-solve/)
 * [2025-03-06, 16:18:11](https://news.ycombinator.com/item?id=43281893) - [More thoughts on the 1670 modem's weird noises](https://rachelbythebay.com/w/2025/03/05/1670/)
 * [2025-03-06, 14:47:35](https://news.ycombinator.com/item?id=43280836) - [Launch HN: Cenote (YC W25) – Back Office Automation for Medical Clinics](https://news.ycombinator.com/item?id=43280836)
@@ -25,11 +24,12 @@
 * [2025-03-06, 12:33:27](https://news.ycombinator.com/item?id=43279494) - [Age and cognitive skills: Use it or lose it](https://www.science.org/doi/full/10.1126/sciadv.ads1560?af=R)
 * [2025-03-06, 08:47:32](https://news.ycombinator.com/item?id=43277918) - [Revolt: Open-Source Alternative to Discord](https://revolt.chat)
 * [2025-03-06, 01:33:14](https://news.ycombinator.com/item?id=43275193) - [Cognitive Behaviors That Enable Self-Improving Reasoners](https://arxiv.org/abs/2503.01307)
+* [2025-03-05, 19:34:23](https://news.ycombinator.com/item?id=43271177) - [NCSC, GCHQ, UK Gov't expunge advice to \"use Apple encryption\"](https://alecmuffett.com/article/112522)
 * [2025-03-05, 19:09:39](https://news.ycombinator.com/item?id=43270843) - [QwQ-32B: Embracing the Power of Reinforcement Learning](https://qwenlm.github.io/blog/qwq-32b/)
-* [2025-03-05, 16:26:01](https://news.ycombinator.com/item?id=43268713) - [Reducing latency with esoteric Linux process flags](https://www.recall.ai/post/reducing-latency-by-83-with-esoteric-linux-process-flags)
 * [2025-03-03, 18:16:09](https://news.ycombinator.com/item?id=43244860) - [On the criteria to be used in decomposing systems into modules (1972)](https://dl.acm.org/doi/pdf/10.1145/361598.361623)
 * [2025-03-03, 13:39:04](https://news.ycombinator.com/item?id=43241589) - [Beavers Are Coming Home](https://www.wildlifetrusts.org/news/beavers-are-coming-home)
 * [2025-03-03, 09:35:29](https://news.ycombinator.com/item?id=43240013) - [A JPEG Image Compression Service Using Part Homomorphic Encryption](https://github.com/qianfei11/ShadowyCompression)
+* [2025-03-02, 23:07:17](https://news.ycombinator.com/item?id=43236254) - [Palm phytoliths in subarctic Canada imply ice-free winters 48M years ago](https://academic.oup.com/aob/advance-article/doi/10.1093/aob/mcaf021/8006661)
 
 ## [Archives](archives/index.md)
 
