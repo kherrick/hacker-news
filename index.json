@@ -1,6 +1,56 @@
 [
   [
     [
+      "2025-03-06, 17:48:37",
+      "https://news.ycombinator.com/item?id=43282995"
+    ],
+    [
+      "Succinct Data Structures",
+      "https://blog.startifact.com/posts/succinct/"
+    ]
+  ],
+  [
+    [
+      "2025-03-06, 17:42:44",
+      "https://news.ycombinator.com/item?id=43282936"
+    ],
+    [
+      "The Combined Cipher Machine 1940's-1950's",
+      "http://chris-intel-corner.blogspot.com/2025/03/the-combined-cipher-machine-1942-1962.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-06, 17:39:39",
+      "https://news.ycombinator.com/item?id=43282905"
+    ],
+    [
+      "Mistral OCR",
+      "https://mistral.ai/fr/news/mistral-ocr"
+    ]
+  ],
+  [
+    [
+      "2025-03-06, 17:38:33",
+      "https://news.ycombinator.com/item?id=43282892"
+    ],
+    [
+      "UK quietly scrubs encryption advice from government websites",
+      "https://techcrunch.com/2025/03/06/uk-quietly-scrubs-encryption-advice-from-government-websites/"
+    ]
+  ],
+  [
+    [
+      "2025-03-06, 17:19:44",
+      "https://news.ycombinator.com/item?id=43282668"
+    ],
+    [
+      "Why 56k Modems Relied on Digital Phone Lines You Didn't Know We Had",
+      "https://hackaday.com/2025/03/06/why-56k-modems-relied-on-digital-phone-lines-you-didnt-know-we-had/"
+    ]
+  ],
+  [
+    [
       "2025-03-06, 17:14:39",
       "https://news.ycombinator.com/item?id=43282594"
     ],
@@ -131,16 +181,6 @@
   ],
   [
     [
-      "2025-03-05, 21:48:39",
-      "https://news.ycombinator.com/item?id=43273034"
-    ],
-    [
-      "Exploring the Paramilitary Leaks",
-      "https://micahflee.com/exploring-the-paramilitary-leaks/"
-    ]
-  ],
-  [
-    [
       "2025-03-05, 21:10:35",
       "https://news.ycombinator.com/item?id=43272463"
     ],
@@ -161,32 +201,12 @@
   ],
   [
     [
-      "2025-03-05, 18:07:06",
-      "https://news.ycombinator.com/item?id=43270079"
-    ],
-    [
-      "Apple takes UK to court over 'backdoor' order",
-      "https://www.theregister.com/2025/03/05/apple_reportedly_ipt_complaint/"
-    ]
-  ],
-  [
-    [
       "2025-03-05, 17:17:55",
       "https://news.ycombinator.com/item?id=43269475"
     ],
     [
       "GoStringUngarbler: Deobfuscating Strings in Garbled Binaries",
       "https://cloud.google.com/blog/topics/threat-intelligence/gostringungarbler-deobfuscating-strings-in-garbled-binaries"
-    ]
-  ],
-  [
-    [
-      "2025-03-05, 14:44:04",
-      "https://news.ycombinator.com/item?id=43267095"
-    ],
-    [
-      "Things we've learned about building products",
-      "https://newsletter.posthog.com/p/50-things-weve-learned-about-building"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2025-03-03, 18:41:37",
-      "https://news.ycombinator.com/item?id=43245172"
-    ],
-    [
-      "Solving First Order Differential Equations with Julia",
-      "https://ritog.github.io/posts/1st-order-DE-julia/1st_order_DE_julia.html"
-    ]
-  ],
-  [
-    [
       "2025-03-03, 18:16:09",
       "https://news.ycombinator.com/item?id=43244860"
     ],
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2025-03-03, 13:27:07",
-      "https://news.ycombinator.com/item?id=43241499"
+      "2025-03-03, 08:26:15",
+      "https://news.ycombinator.com/item?id=43239573"
     ],
     [
-      "Math Academy pulled me out of the Valley of Despair",
-      "https://mikelikejordan.bearblog.dev/how-math-academy-pulled-me-out-of-the-valley-of-despair/"
+      "IoT project using thermal sensors to monitor spaces",
+      "https://s2.dev/blog/iot"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Yoke: Infrastructure as code, but actually",
       "https://xeiaso.net/blog/2025/yoke-k8s/"
-    ]
-  ],
-  [
-    [
-      "2025-03-02, 03:06:39",
-      "https://news.ycombinator.com/item?id=43226792"
-    ],
-    [
-      "Nebu: A Spreadsheet Editor for Varvara",
-      "https://wiki.xxiivv.com/site/nebu"
     ]
   ]
 ]
