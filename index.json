@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-06, 01:33:14",
+      "https://news.ycombinator.com/item?id=43275193"
+    ],
+    [
+      "Cognitive Behaviors That Enable Self-Improving Reasoners",
+      "https://arxiv.org/abs/2503.01307"
+    ]
+  ],
+  [
+    [
       "2025-03-06, 01:14:28",
       "https://news.ycombinator.com/item?id=43275014"
     ],
@@ -37,16 +47,6 @@
     [
       "Volkswagen seeks to counter rivals with budget EV model",
       "https://www.ttnews.com/articles/vw-introduces-id-every1"
-    ]
-  ],
-  [
-    [
-      "2025-03-06, 00:30:01",
-      "https://news.ycombinator.com/item?id=43274656"
-    ],
-    [
-      "The \"Take It Down\" Act",
-      "https://www.eff.org/deeplinks/2025/03/trump-calls-congress-pass-overbroad-take-it-down-act-so-he-can-use-it-censor"
     ]
   ],
   [
@@ -127,16 +127,6 @@
     [
       "Tailscale is pretty useful",
       "https://blog.6nok.org/tailscale-is-pretty-useful/"
-    ]
-  ],
-  [
-    [
-      "2025-03-05, 18:38:05",
-      "https://news.ycombinator.com/item?id=43270464"
-    ],
-    [
-      "Intel the CPU Company",
-      "https://www.abortretry.fail/p/intel-the-cpu-company"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "The Day the Muse Died",
       "https://johnpweiss.com/blog/199949/the-day-the-muse-died"
+    ]
+  ],
+  [
+    [
+      "2025-03-02, 09:36:32",
+      "https://news.ycombinator.com/item?id=43228841"
+    ],
+    [
+      "Encrypt Images Without a Key Using Visual Cryptography",
+      "https://github.com/coduri/VisualCrypto"
     ]
   ],
   [
