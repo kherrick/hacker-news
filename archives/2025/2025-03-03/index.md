@@ -24,6 +24,7 @@
 * [2025-03-03, 18:36:45](https://news.ycombinator.com/item?id=43245129) - [James Harrison, whose blood donations saved >2M babies, has died](https://www.npr.org/2025/03/03/nx-s1-5316163/james-harrison-blood-donor)
 * [2025-03-03, 18:26:42](https://news.ycombinator.com/item?id=43245003) - [Remembering Duane Blehm](https://www.engineersneedart.com/blog/duane/duane.html)
 * [2025-03-03, 18:25:45](https://news.ycombinator.com/item?id=43244982) - [DOGE's AI use in government doesn't add up](https://www.washingtonpost.com/technology/2025/03/03/doge-ai-government-automation/)
+* [2025-03-03, 18:16:09](https://news.ycombinator.com/item?id=43244860) - [On the criteria to be used in decomposing systems into modules (1972)](https://dl.acm.org/doi/pdf/10.1145/361598.361623)
 * [2025-03-03, 18:09:33](https://news.ycombinator.com/item?id=43244778) - [Evals are not all you need](https://www.marble.onl/posts/evals_are_not_all_you_need.html)
 * [2025-03-03, 18:09:22](https://news.ycombinator.com/item?id=43244773) - [AgenticMemory: Zettelkasten inspired agentic memory system](https://github.com/WujiangXu/AgenticMemory)
 * [2025-03-03, 18:06:17](https://news.ycombinator.com/item?id=43244739) - [Hacking the Xbox 360 Hypervisor Part 2: The Bad Update Exploit](https://icode4.coffee/?p=1081)
