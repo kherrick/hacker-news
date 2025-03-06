@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-06](index.md)
 
+* [2025-03-06, 16:17:21](https://news.ycombinator.com/item?id=43281882) - [There Is a Significant Need for Retirement Savings in the US](https://www.apolloacademy.com/there-is-a-significant-need-for-retirement-savings-in-the-us/)
 * [2025-03-06, 15:37:28](https://news.ycombinator.com/item?id=43281417) - [Job Cuts Surge on Doge Actions, Retail Woes; Highest Monthly Since July 2020](https://www.challengergray.com/blog/job-cuts-surge-on-doge-actions-retail-woes-highest-monthly-total-since-july-2020/)
 * [2025-03-06, 15:13:39](https://news.ycombinator.com/item?id=43281144) - [Novo Nordisk slashes Wegovy price for patients lacking insurance benefits](https://www.washingtonpost.com/business/2025/03/05/novo-nordisk-wegovy-cash-discount/)
 * [2025-03-06, 14:47:35](https://news.ycombinator.com/item?id=43280836) - [Launch HN: Cenote (YC W25) – Back Office Automation for Medical Clinics](https://news.ycombinator.com/item?id=43280836)
