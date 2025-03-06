@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-06, 13:47:30](https://news.ycombinator.com/item?id=43280128) - [Show HN: LLMs Playing Mafia games – See them lie, deceive, and reason](https://mafia.opennumbers.xyz/)
-* [2025-03-06, 13:34:52](https://news.ycombinator.com/item?id=43280007) - [I Used to Teach Students. Now I Catch ChatGPT Cheats](https://thewalrus.ca/i-used-to-teach-students-now-i-catch-chatgpt-cheats/)
+* [2025-03-06, 14:30:10](https://news.ycombinator.com/item?id=43280615) - [Show HN: CodeTracer – A new time-traveling debugger implemented in Nim and Rust](https://github.com/metacraft-labs/codetracer)
 * [2025-03-06, 12:33:27](https://news.ycombinator.com/item?id=43279494) - [Age and cognitive skills: Use it or lose it](https://www.science.org/doi/full/10.1126/sciadv.ads1560?af=R)
 * [2025-03-06, 12:29:36](https://news.ycombinator.com/item?id=43279454) - [Finland applies the “Housing First” concept (2020)](https://thebetter.news/housing-first-finland-homelessness/)
 * [2025-03-06, 12:00:40](https://news.ycombinator.com/item?id=43279220) - [Empirical Health is hiring design engineers to build primary care of the future](https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer)
@@ -18,6 +17,7 @@
 * [2025-03-05, 18:07:06](https://news.ycombinator.com/item?id=43270079) - [Apple takes UK to court over 'backdoor' order](https://www.theregister.com/2025/03/05/apple_reportedly_ipt_complaint/)
 * [2025-03-05, 17:55:29](https://news.ycombinator.com/item?id=43269928) - [Show HN: Leaflet.pub – a web app for creating and sharing rich documents](https://news.ycombinator.com/item?id=43269928)
 * [2025-03-05, 17:17:55](https://news.ycombinator.com/item?id=43269475) - [GoStringUngarbler: Deobfuscating Strings in Garbled Binaries](https://cloud.google.com/blog/topics/threat-intelligence/gostringungarbler-deobfuscating-strings-in-garbled-binaries)
+* [2025-03-05, 17:07:09](https://news.ycombinator.com/item?id=43269330) - [Show HN: Beating Pokemon Red with RL and <10M Parameters](https://drubinstein.github.io/pokerl/)
 * [2025-03-05, 14:44:04](https://news.ycombinator.com/item?id=43267095) - [Things we've learned about building products](https://newsletter.posthog.com/p/50-things-weve-learned-about-building)
 * [2025-03-05, 14:06:54](https://news.ycombinator.com/item?id=43266537) - [MacBook Air M4](https://www.apple.com/macbook-air/)
 * [2025-03-05, 13:59:50](https://news.ycombinator.com/item?id=43266453) - [Apple M3 Ultra](https://www.apple.com/newsroom/2025/03/apple-reveals-m3-ultra-taking-apple-silicon-to-a-new-extreme/)

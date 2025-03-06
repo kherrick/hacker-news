@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-06](index.md)
 
+* [2025-03-06, 14:30:10](https://news.ycombinator.com/item?id=43280615) - [Show HN: CodeTracer – A new time-traveling debugger implemented in Nim and Rust](https://github.com/metacraft-labs/codetracer)
 * [2025-03-06, 14:14:30](https://news.ycombinator.com/item?id=43280413) - [Ask HN: Escaping Difficult Employment Situation?](https://news.ycombinator.com/item?id=43280413)
 * [2025-03-06, 13:47:30](https://news.ycombinator.com/item?id=43280128) - [Show HN: LLMs Playing Mafia games – See them lie, deceive, and reason](https://mafia.opennumbers.xyz/)
 * [2025-03-06, 13:41:48](https://news.ycombinator.com/item?id=43280071) - [Let's Talk About the American Dream](https://blog.codinghorror.com/lets-talk-about-the-american-dream/)
