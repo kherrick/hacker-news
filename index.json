@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-03-06, 04:44:06",
-      "https://news.ycombinator.com/item?id=43276504"
+      "2025-03-06, 07:00:13",
+      "https://news.ycombinator.com/item?id=43277250"
     ],
     [
-      "Gaming chat platform Discord in early talks with banks about public listing",
-      "https://www.ft.com/content/4ab9efe7-36bc-44ff-b2cd-06eb2c38203a"
+      "Arva AI (YC S24) Is Hiring an AI Product Engineer",
+      "https://www.ycombinator.com/companies/arva-ai/jobs/OBPwCiU-ai-product-engineer"
+    ]
+  ],
+  [
+    [
+      "2025-03-06, 05:53:30",
+      "https://news.ycombinator.com/item?id=43276843"
+    ],
+    [
+      "The Authoritarian Regime Survival Guide",
+      "https://verfassungsblog.de/the-authoritarian-regime-survival-guide/"
     ]
   ],
   [
@@ -27,6 +37,16 @@
     [
       "The US stops sharing air quality data from embassies worldwide",
       "https://apnews.com/article/us-air-quality-monitors-8270927bbd0f166238243ac9d14bce03"
+    ]
+  ],
+  [
+    [
+      "2025-03-06, 00:43:22",
+      "https://news.ycombinator.com/item?id=43274756"
+    ],
+    [
+      "Xdg-ninja: checking your $HOME for unwanted files and directories",
+      "https://github.com/b3nj5m1n/xdg-ninja"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "Zentool – AMD Zen Microcode Manipulation Utility",
       "https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md"
-    ]
-  ],
-  [
-    [
-      "2025-03-05, 21:01:01",
-      "https://news.ycombinator.com/item?id=43272332"
-    ],
-    [
-      "Datafold (YC S20) is hiring Engineer to build AI-powered data migration tools",
-      "https://www.ycombinator.com/companies/datafold/jobs/ieGYiSG-senior-software-engineer-ai-agents"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2025-03-05, 11:52:28",
-      "https://news.ycombinator.com/item?id=43265431"
-    ],
-    [
-      "MS Paint IDE",
-      "https://ms-paint-i.de/"
-    ]
-  ],
-  [
-    [
       "2025-03-05, 10:25:55",
       "https://news.ycombinator.com/item?id=43264957"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2025-03-03, 13:27:26",
-      "https://news.ycombinator.com/item?id=43241501"
-    ],
-    [
-      "SepLLM: Accelerate LLMs by Compressing One Segment into One Separator",
-      "https://sepllm.github.io/"
-    ]
-  ],
-  [
-    [
       "2025-03-03, 13:27:07",
       "https://news.ycombinator.com/item?id=43241499"
     ],
@@ -287,6 +277,16 @@
     [
       "Tiny Ten DSP-Based HF Transceiver",
       "https://www.janbob.com/electron/TinyTen/TinyTen.htm"
+    ]
+  ],
+  [
+    [
+      "2025-03-02, 13:56:01",
+      "https://news.ycombinator.com/item?id=43230510"
+    ],
+    [
+      "Yoke: Infrastructure as code, but actually",
+      "https://xeiaso.net/blog/2025/yoke-k8s/"
     ]
   ],
   [
