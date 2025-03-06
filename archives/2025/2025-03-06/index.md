@@ -21,6 +21,7 @@
 * [2025-03-06, 17:42:44](https://news.ycombinator.com/item?id=43282936) - [The Combined Cipher Machine 1940's-1950's](http://chris-intel-corner.blogspot.com/2025/03/the-combined-cipher-machine-1942-1962.html)
 * [2025-03-06, 17:39:39](https://news.ycombinator.com/item?id=43282905) - [Mistral OCR](https://mistral.ai/fr/news/mistral-ocr)
 * [2025-03-06, 17:38:33](https://news.ycombinator.com/item?id=43282892) - [UK quietly scrubs encryption advice from government websites](https://techcrunch.com/2025/03/06/uk-quietly-scrubs-encryption-advice-from-government-websites/)
+* [2025-03-06, 17:22:25](https://news.ycombinator.com/item?id=43282697) - [A New, Chemical View of Ecosystems](https://www.quantamagazine.org/a-new-chemical-view-of-ecosystems-20250305/)
 * [2025-03-06, 17:19:44](https://news.ycombinator.com/item?id=43282668) - [Why 56k Modems Relied on Digital Phone Lines You Didn't Know We Had](https://hackaday.com/2025/03/06/why-56k-modems-relied-on-digital-phone-lines-you-didnt-know-we-had/)
 * [2025-03-06, 17:14:39](https://news.ycombinator.com/item?id=43282594) - [NASA Shuts Off Voyager Science Instrument](https://gizmodo.com/nasa-shuts-off-voyager-science-instrument-more-power-cuts-ahead-to-keep-both-probes-going-2000572202)
 * [2025-03-06, 17:02:58](https://news.ycombinator.com/item?id=43282489) - [Mistral OCR](https://mistral.ai/news/mistral-ocr)
