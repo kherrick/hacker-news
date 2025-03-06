@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-06](index.md)
 
+* [2025-03-06, 03:18:06](https://news.ycombinator.com/item?id=43276038) - [Aider: Using Uv as an Installer](https://simonwillison.net/2025/Mar/6/aider-using-uv-as-an-installer/)
 * [2025-03-06, 01:33:14](https://news.ycombinator.com/item?id=43275193) - [Cognitive Behaviors That Enable Self-Improving Reasoners](https://arxiv.org/abs/2503.01307)
 * [2025-03-06, 01:14:28](https://news.ycombinator.com/item?id=43275014) - [Ask HN: Best Windows/Linux developer laptop in 2025](https://news.ycombinator.com/item?id=43275014)
 * [2025-03-06, 00:53:32](https://news.ycombinator.com/item?id=43274821) - [The US stops sharing air quality data from embassies worldwide](https://apnews.com/article/us-air-quality-monitors-8270927bbd0f166238243ac9d14bce03)
