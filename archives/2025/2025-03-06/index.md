@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-06](index.md)
 
+* [2025-03-06, 11:17:48](https://news.ycombinator.com/item?id=43278845) - [AMD Announces \"Instella\" Open-Source 3B Language Models](https://www.phoronix.com/news/AMD-Intella-Open-Source-LM)
 * [2025-03-06, 10:58:57](https://news.ycombinator.com/item?id=43278705) - [Buy European Made. Support European Values](https://www.buy-european-made.eu/)
+* [2025-03-06, 10:22:06](https://news.ycombinator.com/item?id=43278473) - [Automatically tagging politician when they use their phone on the livestreams](https://driesdepoorter.be/theflemishscrollers/)
 * [2025-03-06, 09:16:56](https://news.ycombinator.com/item?id=43278112) - ['Trump Gaza' AI video intended as political satire, says creator](https://www.theguardian.com/technology/2025/mar/06/trump-gaza-ai-video-intended-as-political-satire-says-creator)
 * [2025-03-06, 09:04:38](https://news.ycombinator.com/item?id=43278036) - [Demos of Stream Processing Solving Real-World Problems](https://github.com/risingwavelabs/awesome-stream-processing)
 * [2025-03-06, 08:48:13](https://news.ycombinator.com/item?id=43277924) - [Forget Twitter Threads; Write a Blog Post Instead](https://kevquirk.com/blog/forget-twitter-threads-write-a-blog-post-instead)
