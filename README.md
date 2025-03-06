@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-06, 03:18:06](https://news.ycombinator.com/item?id=43276038) - [Aider: Using Uv as an Installer](https://simonwillison.net/2025/Mar/6/aider-using-uv-as-an-installer/)
-* [2025-03-06, 01:52:15](https://news.ycombinator.com/item?id=43275343) - [Warrior Jesus and a Letter from Luigi](https://ashelby.substack.com/p/warrior-jesus-and-a-letter-from-luigi)
 * [2025-03-06, 01:33:14](https://news.ycombinator.com/item?id=43275193) - [Cognitive Behaviors That Enable Self-Improving Reasoners](https://arxiv.org/abs/2503.01307)
 * [2025-03-06, 00:53:32](https://news.ycombinator.com/item?id=43274821) - [The US stops sharing air quality data from embassies worldwide](https://apnews.com/article/us-air-quality-monitors-8270927bbd0f166238243ac9d14bce03)
 * [2025-03-06, 00:52:07](https://news.ycombinator.com/item?id=43274804) - [A few words about FiveThirtyEight](https://www.natesilver.net/p/a-few-words-about-fivethirtyeight)
@@ -28,6 +27,7 @@
 * [2025-03-03, 18:41:37](https://news.ycombinator.com/item?id=43245172) - [Solving First Order Differential Equations with Julia](https://ritog.github.io/posts/1st-order-DE-julia/1st_order_DE_julia.html)
 * [2025-03-03, 13:27:26](https://news.ycombinator.com/item?id=43241501) - [SepLLM: Accelerate LLMs by Compressing One Segment into One Separator](https://sepllm.github.io/)
 * [2025-03-03, 13:27:07](https://news.ycombinator.com/item?id=43241499) - [Math Academy pulled me out of the Valley of Despair](https://mikelikejordan.bearblog.dev/how-math-academy-pulled-me-out-of-the-valley-of-despair/)
+* [2025-03-03, 00:19:31](https://news.ycombinator.com/item?id=43236825) - [The Day the Muse Died](https://johnpweiss.com/blog/199949/the-day-the-muse-died)
 * [2025-03-02, 09:36:32](https://news.ycombinator.com/item?id=43228841) - [Encrypt Images Without a Key Using Visual Cryptography](https://github.com/coduri/VisualCrypto)
 * [2025-03-02, 03:06:39](https://news.ycombinator.com/item?id=43226792) - [Nebu: A Spreadsheet Editor for Varvara](https://wiki.xxiivv.com/site/nebu)
 
