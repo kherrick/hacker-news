@@ -61,6 +61,7 @@
 * [2025-03-02, 14:47:56](https://news.ycombinator.com/item?id=43230965) - [GPT-4.5: \"Not a frontier model\"?](https://www.interconnects.ai/p/gpt-45-not-a-frontier-model)
 * [2025-03-02, 14:41:59](https://news.ycombinator.com/item?id=43230922) - [Towards a test-suite for TOTP codes](https://shkspr.mobi/blog/2025/03/towards-a-test-suite-for-totp-codes/)
 * [2025-03-02, 14:41:46](https://news.ycombinator.com/item?id=43230920) - [This Month in Ladybird February 2025](https://ladybird.org/newsletter/2025-02-28/)
+* [2025-03-02, 14:34:50](https://news.ycombinator.com/item?id=43230864) - [Tiny Ten DSP-Based HF Transceiver](https://www.janbob.com/electron/TinyTen/TinyTen.htm)
 * [2025-03-02, 14:34:16](https://news.ycombinator.com/item?id=43230862) - [The Tinkerings of Robert Noyce by Tom Wolfe (1983)](https://classic.esquire.com/article/share/58ff278a-21da-4ee4-a446-b7f451b90275)
 * [2025-03-02, 14:30:47](https://news.ycombinator.com/item?id=43230831) - [Rackmounting that which should not be rackmounted](https://calbryant.uk/blog/rackmounting-that-which-should-not-be-rackmounted/)
 * [2025-03-02, 14:29:13](https://news.ycombinator.com/item?id=43230821) - [Raspberry Pi Pico audio player](http://lucstechblog.blogspot.com/2025/02/raspberry-pi-pico-audio-player.html)

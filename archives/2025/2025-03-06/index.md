@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-06](index.md)
 
+* [2025-03-06, 04:44:06](https://news.ycombinator.com/item?id=43276504) - [Gaming chat platform Discord in early talks with banks about public listing](https://www.ft.com/content/4ab9efe7-36bc-44ff-b2cd-06eb2c38203a)
 * [2025-03-06, 03:18:06](https://news.ycombinator.com/item?id=43276038) - [Aider: Using Uv as an Installer](https://simonwillison.net/2025/Mar/6/aider-using-uv-as-an-installer/)
 * [2025-03-06, 01:52:15](https://news.ycombinator.com/item?id=43275343) - [Warrior Jesus and a Letter from Luigi](https://ashelby.substack.com/p/warrior-jesus-and-a-letter-from-luigi)
 * [2025-03-06, 01:33:14](https://news.ycombinator.com/item?id=43275193) - [Cognitive Behaviors That Enable Self-Improving Reasoners](https://arxiv.org/abs/2503.01307)
