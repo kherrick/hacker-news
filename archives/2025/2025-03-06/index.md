@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-06](index.md)
 
+* [2025-03-06, 14:14:30](https://news.ycombinator.com/item?id=43280413) - [Ask HN: Escaping Difficult Employment Situation?](https://news.ycombinator.com/item?id=43280413)
 * [2025-03-06, 13:47:30](https://news.ycombinator.com/item?id=43280128) - [Show HN: LLMs Playing Mafia games – See them lie, deceive, and reason](https://mafia.opennumbers.xyz/)
 * [2025-03-06, 13:41:48](https://news.ycombinator.com/item?id=43280071) - [Let's Talk About the American Dream](https://blog.codinghorror.com/lets-talk-about-the-american-dream/)
 * [2025-03-06, 13:34:52](https://news.ycombinator.com/item?id=43280007) - [I Used to Teach Students. Now I Catch ChatGPT Cheats](https://thewalrus.ca/i-used-to-teach-students-now-i-catch-chatgpt-cheats/)
