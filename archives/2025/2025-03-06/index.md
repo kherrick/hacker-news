@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-03-06](index.md)
 
+* [2025-03-06, 17:48:37](https://news.ycombinator.com/item?id=43282995) - [Succinct Data Structures](https://blog.startifact.com/posts/succinct/)
+* [2025-03-06, 17:42:44](https://news.ycombinator.com/item?id=43282936) - [The Combined Cipher Machine 1940's-1950's](http://chris-intel-corner.blogspot.com/2025/03/the-combined-cipher-machine-1942-1962.html)
+* [2025-03-06, 17:39:39](https://news.ycombinator.com/item?id=43282905) - [Mistral OCR](https://mistral.ai/fr/news/mistral-ocr)
+* [2025-03-06, 17:38:33](https://news.ycombinator.com/item?id=43282892) - [UK quietly scrubs encryption advice from government websites](https://techcrunch.com/2025/03/06/uk-quietly-scrubs-encryption-advice-from-government-websites/)
+* [2025-03-06, 17:19:44](https://news.ycombinator.com/item?id=43282668) - [Why 56k Modems Relied on Digital Phone Lines You Didn't Know We Had](https://hackaday.com/2025/03/06/why-56k-modems-relied-on-digital-phone-lines-you-didnt-know-we-had/)
 * [2025-03-06, 17:14:39](https://news.ycombinator.com/item?id=43282594) - [NASA Shuts Off Voyager Science Instrument](https://gizmodo.com/nasa-shuts-off-voyager-science-instrument-more-power-cuts-ahead-to-keep-both-probes-going-2000572202)
 * [2025-03-06, 17:01:10](https://news.ycombinator.com/item?id=43282462) - [Leaping AI (YC W25) Is Hiring Founding Engineers for Self-Improving Voice AI](https://www.ycombinator.com/companies/leaping-ai/jobs/BpsfpvY-founding-full-stack-engineer)
 * [2025-03-06, 16:37:34](https://news.ycombinator.com/item?id=43282133) - [Anime fans stumbled upon a mathematical proof](https://www.scientificamerican.com/article/the-surprisingly-difficult-mathematical-proof-that-anime-fans-helped-solve/)
