@@ -5,9 +5,12 @@
 ### [Archives](../../index.md) for [2025-03-06](index.md)
 
 * [2025-03-06, 09:16:56](https://news.ycombinator.com/item?id=43278112) - ['Trump Gaza' AI video intended as political satire, says creator](https://www.theguardian.com/technology/2025/mar/06/trump-gaza-ai-video-intended-as-political-satire-says-creator)
+* [2025-03-06, 09:04:38](https://news.ycombinator.com/item?id=43278036) - [Demos of Stream Processing Solving Real-World Problems](https://github.com/risingwavelabs/awesome-stream-processing)
 * [2025-03-06, 08:48:13](https://news.ycombinator.com/item?id=43277924) - [Forget Twitter Threads; Write a Blog Post Instead](https://kevquirk.com/blog/forget-twitter-threads-write-a-blog-post-instead)
+* [2025-03-06, 08:47:32](https://news.ycombinator.com/item?id=43277918) - [Revolt: Open-Source Alternative to Discord](https://revolt.chat)
 * [2025-03-06, 08:16:41](https://news.ycombinator.com/item?id=43277748) - [Due to new tariffs, many more physical game discs may \"simply not get made\"](https://arstechnica.com/gaming/2025/03/thanks-to-new-tariffs-many-more-physical-game-discs-may-simply-not-get-made/)
 * [2025-03-06, 07:00:13](https://news.ycombinator.com/item?id=43277250) - [Arva AI (YC S24) Is Hiring an AI Product Engineer](https://www.ycombinator.com/companies/arva-ai/jobs/OBPwCiU-ai-product-engineer)
+* [2025-03-06, 06:53:46](https://news.ycombinator.com/item?id=43277214) - [Apache iceberg the Hadoop of the modern-data-stack?](https://blog.det.life/apache-iceberg-the-hadoop-of-the-modern-data-stack-c83f63a4ebb9)
 * [2025-03-06, 05:53:30](https://news.ycombinator.com/item?id=43276843) - [The Authoritarian Regime Survival Guide](https://verfassungsblog.de/the-authoritarian-regime-survival-guide/)
 * [2025-03-06, 04:44:06](https://news.ycombinator.com/item?id=43276504) - [Gaming chat platform Discord in early talks with banks about public listing](https://www.ft.com/content/4ab9efe7-36bc-44ff-b2cd-06eb2c38203a)
 * [2025-03-06, 03:18:06](https://news.ycombinator.com/item?id=43276038) - [Aider: Using Uv as an Installer](https://simonwillison.net/2025/Mar/6/aider-using-uv-as-an-installer/)
