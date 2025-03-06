@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-06, 01:33:14](https://news.ycombinator.com/item?id=43275193) - [Cognitive Behaviors That Enable Self-Improving Reasoners](https://arxiv.org/abs/2503.01307)
 * [2025-03-06, 01:14:28](https://news.ycombinator.com/item?id=43275014) - [Ask HN: Best Windows/Linux developer laptop in 2025](https://news.ycombinator.com/item?id=43275014)
 * [2025-03-06, 00:53:32](https://news.ycombinator.com/item?id=43274821) - [The US stops sharing air quality data from embassies worldwide](https://apnews.com/article/us-air-quality-monitors-8270927bbd0f166238243ac9d14bce03)
 * [2025-03-06, 00:52:07](https://news.ycombinator.com/item?id=43274804) - [A few words about FiveThirtyEight](https://www.natesilver.net/p/a-few-words-about-fivethirtyeight)
 * [2025-03-06, 00:36:40](https://news.ycombinator.com/item?id=43274698) - [Volkswagen seeks to counter rivals with budget EV model](https://www.ttnews.com/articles/vw-introduces-id-every1)
-* [2025-03-06, 00:30:01](https://news.ycombinator.com/item?id=43274656) - [The \"Take It Down\" Act](https://www.eff.org/deeplinks/2025/03/trump-calls-congress-pass-overbroad-take-it-down-act-so-he-can-use-it-censor)
 * [2025-03-06, 00:23:33](https://news.ycombinator.com/item?id=43274613) - [DeepSeek-R1-671B-Q4_K_M with 1 or 2 Arc A770 on Xeon](https://github.com/intel/ipex-llm/blob/main/docs/mddocs/Quickstart/llamacpp_portable_zip_gpu_quickstart.md)
 * [2025-03-05, 21:48:39](https://news.ycombinator.com/item?id=43273034) - [Exploring the Paramilitary Leaks](https://micahflee.com/exploring-the-paramilitary-leaks/)
 * [2025-03-05, 21:10:35](https://news.ycombinator.com/item?id=43272463) - [Zentool – AMD Zen Microcode Manipulation Utility](https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md)
@@ -13,7 +13,6 @@
 * [2025-03-05, 19:34:23](https://news.ycombinator.com/item?id=43271177) - [NCSC, GCHQ, UK Gov't expunge advice to \"use Apple encryption\"](https://alecmuffett.com/article/112522)
 * [2025-03-05, 19:09:39](https://news.ycombinator.com/item?id=43270843) - [QwQ-32B: Embracing the Power of Reinforcement Learning](https://qwenlm.github.io/blog/qwq-32b/)
 * [2025-03-05, 19:09:19](https://news.ycombinator.com/item?id=43270835) - [Tailscale is pretty useful](https://blog.6nok.org/tailscale-is-pretty-useful/)
-* [2025-03-05, 18:38:05](https://news.ycombinator.com/item?id=43270464) - [Intel the CPU Company](https://www.abortretry.fail/p/intel-the-cpu-company)
 * [2025-03-05, 18:07:06](https://news.ycombinator.com/item?id=43270079) - [Apple takes UK to court over 'backdoor' order](https://www.theregister.com/2025/03/05/apple_reportedly_ipt_complaint/)
 * [2025-03-05, 17:55:29](https://news.ycombinator.com/item?id=43269928) - [Show HN: Leaflet.pub – a web app for creating and sharing rich documents](https://news.ycombinator.com/item?id=43269928)
 * [2025-03-05, 17:49:13](https://news.ycombinator.com/item?id=43269846) - [There Was a Texas Lottery Arbitrage](https://www.bloomberg.com/opinion/articles/2025-03-05/there-was-a-texas-lottery-arbitrage)
@@ -29,6 +28,7 @@
 * [2025-03-03, 13:27:26](https://news.ycombinator.com/item?id=43241501) - [SepLLM: Accelerate LLMs by Compressing One Segment into One Separator](https://sepllm.github.io/)
 * [2025-03-03, 13:27:07](https://news.ycombinator.com/item?id=43241499) - [Math Academy pulled me out of the Valley of Despair](https://mikelikejordan.bearblog.dev/how-math-academy-pulled-me-out-of-the-valley-of-despair/)
 * [2025-03-03, 00:19:31](https://news.ycombinator.com/item?id=43236825) - [The Day the Muse Died](https://johnpweiss.com/blog/199949/the-day-the-muse-died)
+* [2025-03-02, 09:36:32](https://news.ycombinator.com/item?id=43228841) - [Encrypt Images Without a Key Using Visual Cryptography](https://github.com/coduri/VisualCrypto)
 * [2025-03-02, 03:06:39](https://news.ycombinator.com/item?id=43226792) - [Nebu: A Spreadsheet Editor for Varvara](https://wiki.xxiivv.com/site/nebu)
 
 ## [Archives](archives/index.md)

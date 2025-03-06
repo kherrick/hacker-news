@@ -78,6 +78,7 @@
 * [2025-03-02, 11:05:10](https://news.ycombinator.com/item?id=43229259) - [Begrudgingly Choosing CBOR over MessagePack](https://taylor.town/flat-scraps-001)
 * [2025-03-02, 11:02:29](https://news.ycombinator.com/item?id=43229245) - [The A.I. Monarchy](https://substack.com/home/post/p-156886169)
 * [2025-03-02, 10:50:52](https://news.ycombinator.com/item?id=43229201) - [NIH.gov DNS servers down, making PubMed, BLAST, etc. unreachable](https://www.nslookup.io/domains/www.nih.gov/dns-records/#authoritative)
+* [2025-03-02, 09:36:32](https://news.ycombinator.com/item?id=43228841) - [Encrypt Images Without a Key Using Visual Cryptography](https://github.com/coduri/VisualCrypto)
 * [2025-03-02, 09:31:50](https://news.ycombinator.com/item?id=43228816) - [Firefly 'Blue Ghost' lunar lander touches down on the moon](https://www.cnn.com/science/live-news/moon-landing-blue-ghost-03-02-25/index.html)
 * [2025-03-02, 08:04:55](https://news.ycombinator.com/item?id=43228390) - [Google's Unannounced Update Scans All Your Photos](https://www.forbes.com/sites/zakdoffman/2025/02/28/google-starts-scanning-your-photos-without-any-warning/)
 * [2025-03-02, 07:56:06](https://news.ycombinator.com/item?id=43228333) - [Show HN: Robyn – \"Batman Inspired\" Python Web Framework Built with Rust](https://robyn.tech/)
