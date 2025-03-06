@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-06](index.md)
 
+* [2025-03-06, 20:32:47](https://news.ycombinator.com/item?id=43284811) - [Show HN: Rust Vector and Quaternion Lib](https://github.com/David-OConnor/lin-alg)
 * [2025-03-06, 19:51:55](https://news.ycombinator.com/item?id=43284420) - [Using GRPO to Beat o1, o3-mini and R1 at \"Temporal Clue\"](https://openpipe.ai/blog/using-grpo-to-beat-o1-o3-mini-and-r1-on-temporal-clue)
+* [2025-03-06, 19:46:44](https://news.ycombinator.com/item?id=43284359) - [Model pickers are a UX failure](https://www.augmentcode.com/blog/ai-model-pickers-are-a-design-failure-not-a-feature)
 * [2025-03-06, 19:38:57](https://news.ycombinator.com/item?id=43284291) - [How the Index Card Cataloged the World (2017)](https://www.theatlantic.com/technology/archive/2017/12/how-the-index-card-catalogued-the-world/547271/)
 * [2025-03-06, 19:36:28](https://news.ycombinator.com/item?id=43284270) - [LLMs Don't Know What They Don't Know–and That's a Problem](https://blog.scottlogic.com/2025/03/06/llms-dont-know-what-they-dont-know-and-thats-a-problem.html)
 * [2025-03-06, 19:32:12](https://news.ycombinator.com/item?id=43284227) - [Show HN: Shelgon: A Framework for Building Interactive REPL Shells in Rust](https://github.com/NishantJoshi00/shelgon)

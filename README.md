@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-06, 20:32:47](https://news.ycombinator.com/item?id=43284811) - [Show HN: Rust Vector and Quaternion Lib](https://github.com/David-OConnor/lin-alg)
 * [2025-03-06, 19:51:55](https://news.ycombinator.com/item?id=43284420) - [Using GRPO to Beat o1, o3-mini and R1 at \"Temporal Clue\"](https://openpipe.ai/blog/using-grpo-to-beat-o1-o3-mini-and-r1-on-temporal-clue)
+* [2025-03-06, 19:46:44](https://news.ycombinator.com/item?id=43284359) - [Model pickers are a UX failure](https://www.augmentcode.com/blog/ai-model-pickers-are-a-design-failure-not-a-feature)
 * [2025-03-06, 19:38:57](https://news.ycombinator.com/item?id=43284291) - [How the Index Card Cataloged the World (2017)](https://www.theatlantic.com/technology/archive/2017/12/how-the-index-card-catalogued-the-world/547271/)
 * [2025-03-06, 19:32:12](https://news.ycombinator.com/item?id=43284227) - [Show HN: Shelgon: A Framework for Building Interactive REPL Shells in Rust](https://github.com/NishantJoshi00/shelgon)
 * [2025-03-06, 19:04:12](https://news.ycombinator.com/item?id=43283917) - [EFF: Rayhunter](https://github.com/EFForg/rayhunter)
@@ -25,9 +27,7 @@
 * [2025-03-06, 01:33:14](https://news.ycombinator.com/item?id=43275193) - [Cognitive Behaviors That Enable Self-Improving Reasoners](https://arxiv.org/abs/2503.01307)
 * [2025-03-05, 19:09:39](https://news.ycombinator.com/item?id=43270843) - [QwQ-32B: Embracing the Power of Reinforcement Learning](https://qwenlm.github.io/blog/qwq-32b/)
 * [2025-03-05, 16:26:01](https://news.ycombinator.com/item?id=43268713) - [Reducing latency with esoteric Linux process flags](https://www.recall.ai/post/reducing-latency-by-83-with-esoteric-linux-process-flags)
-* [2025-03-04, 01:17:23](https://news.ycombinator.com/item?id=43248993) - [Game Theory and Settling the Debts of the Deceased in Ancient Times](https://politicalcalculations.blogspot.com/2025/02/game-theory-and-settling-debts-of.html)
 * [2025-03-03, 18:16:09](https://news.ycombinator.com/item?id=43244860) - [On the criteria to be used in decomposing systems into modules (1972)](https://dl.acm.org/doi/pdf/10.1145/361598.361623)
-* [2025-03-03, 15:22:01](https://news.ycombinator.com/item?id=43242587) - [Sayonara, R35: Nissan Japan has stopped taking orders for the GT-R](https://www.topgear.com/car-news/supercars/sayonara-r35-nissan-japan-has-stopped-taking-orders-gt-r)
 * [2025-03-03, 13:39:04](https://news.ycombinator.com/item?id=43241589) - [Beavers Are Coming Home](https://www.wildlifetrusts.org/news/beavers-are-coming-home)
 * [2025-03-03, 09:35:29](https://news.ycombinator.com/item?id=43240013) - [A JPEG Image Compression Service Using Part Homomorphic Encryption](https://github.com/qianfei11/ShadowyCompression)
 
