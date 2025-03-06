@@ -191,12 +191,32 @@
   ],
   [
     [
+      "2025-03-06, 11:53:08",
+      "https://news.ycombinator.com/item?id=43279147"
+    ],
+    [
+      "Scientists crack how aspirin might stop cancers from spreading",
+      "https://www.bbc.com/news/articles/c1d4n119xr7o"
+    ]
+  ],
+  [
+    [
       "2025-03-06, 08:47:32",
       "https://news.ycombinator.com/item?id=43277918"
     ],
     [
       "Revolt: Open-Source Alternative to Discord",
       "https://revolt.chat"
+    ]
+  ],
+  [
+    [
+      "2025-03-06, 06:53:46",
+      "https://news.ycombinator.com/item?id=43277214"
+    ],
+    [
+      "Apache iceberg the Hadoop of the modern-data-stack?",
+      "https://blog.det.life/apache-iceberg-the-hadoop-of-the-modern-data-stack-c83f63a4ebb9"
     ]
   ],
   [
@@ -227,16 +247,6 @@
     [
       "QwQ-32B: Embracing the Power of Reinforcement Learning",
       "https://qwenlm.github.io/blog/qwq-32b/"
-    ]
-  ],
-  [
-    [
-      "2025-03-05, 17:17:55",
-      "https://news.ycombinator.com/item?id=43269475"
-    ],
-    [
-      "GoStringUngarbler: Deobfuscating Strings in Garbled Binaries",
-      "https://cloud.google.com/blog/topics/threat-intelligence/gostringungarbler-deobfuscating-strings-in-garbled-binaries"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "A JPEG Image Compression Service Using Part Homomorphic Encryption",
       "https://github.com/qianfei11/ShadowyCompression"
-    ]
-  ],
-  [
-    [
-      "2025-03-03, 08:26:15",
-      "https://news.ycombinator.com/item?id=43239573"
-    ],
-    [
-      "IoT project using thermal sensors to monitor spaces",
-      "https://s2.dev/blog/iot"
     ]
   ]
 ]
