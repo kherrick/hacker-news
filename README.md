@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-06, 16:37:34](https://news.ycombinator.com/item?id=43282133) - [Anime fans stumbled upon a mathematical proof](https://www.scientificamerican.com/article/the-surprisingly-difficult-mathematical-proof-that-anime-fans-helped-solve/)
+* [2025-03-06, 16:18:11](https://news.ycombinator.com/item?id=43281893) - [More thoughts on the 1670 modem's weird noises](https://rachelbythebay.com/w/2025/03/05/1670/)
 * [2025-03-06, 16:17:21](https://news.ycombinator.com/item?id=43281882) - [There Is a Significant Need for Retirement Savings in the US](https://www.apolloacademy.com/there-is-a-significant-need-for-retirement-savings-in-the-us/)
 * [2025-03-06, 14:47:35](https://news.ycombinator.com/item?id=43280836) - [Launch HN: Cenote (YC W25) – Back Office Automation for Medical Clinics](https://news.ycombinator.com/item?id=43280836)
 * [2025-03-06, 14:30:10](https://news.ycombinator.com/item?id=43280615) - [Show HN: CodeTracer – A new time-traveling debugger implemented in Nim and Rust](https://github.com/metacraft-labs/codetracer)
@@ -15,10 +17,8 @@
 * [2025-03-05, 19:09:39](https://news.ycombinator.com/item?id=43270843) - [QwQ-32B: Embracing the Power of Reinforcement Learning](https://qwenlm.github.io/blog/qwq-32b/)
 * [2025-03-05, 18:07:06](https://news.ycombinator.com/item?id=43270079) - [Apple takes UK to court over 'backdoor' order](https://www.theregister.com/2025/03/05/apple_reportedly_ipt_complaint/)
 * [2025-03-05, 17:17:55](https://news.ycombinator.com/item?id=43269475) - [GoStringUngarbler: Deobfuscating Strings in Garbled Binaries](https://cloud.google.com/blog/topics/threat-intelligence/gostringungarbler-deobfuscating-strings-in-garbled-binaries)
-* [2025-03-05, 17:09:41](https://news.ycombinator.com/item?id=43269368) - [The Tiny Star Explosions Powering Moore's Law](https://spectrum.ieee.org/euv-light-source)
 * [2025-03-05, 17:07:09](https://news.ycombinator.com/item?id=43269330) - [Show HN: Beating Pokemon Red with RL and <10M Parameters](https://drubinstein.github.io/pokerl/)
 * [2025-03-05, 14:44:04](https://news.ycombinator.com/item?id=43267095) - [Things we've learned about building products](https://newsletter.posthog.com/p/50-things-weve-learned-about-building)
-* [2025-03-05, 14:06:54](https://news.ycombinator.com/item?id=43266537) - [MacBook Air M4](https://www.apple.com/macbook-air/)
 * [2025-03-05, 13:59:50](https://news.ycombinator.com/item?id=43266453) - [Apple M3 Ultra](https://www.apple.com/newsroom/2025/03/apple-reveals-m3-ultra-taking-apple-silicon-to-a-new-extreme/)
 * [2025-03-04, 06:25:07](https://news.ycombinator.com/item?id=43250986) - [HYTRADBOI 2025 Conference Postmortem](https://www.scattered-thoughts.net/writing/hytradboi-2025-postmortem/)
 * [2025-03-04, 01:17:23](https://news.ycombinator.com/item?id=43248993) - [Game Theory and Settling the Debts of the Deceased in Ancient Times](https://politicalcalculations.blogspot.com/2025/02/game-theory-and-settling-debts-of.html)

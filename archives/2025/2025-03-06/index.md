@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-06](index.md)
 
+* [2025-03-06, 16:37:34](https://news.ycombinator.com/item?id=43282133) - [Anime fans stumbled upon a mathematical proof](https://www.scientificamerican.com/article/the-surprisingly-difficult-mathematical-proof-that-anime-fans-helped-solve/)
+* [2025-03-06, 16:18:11](https://news.ycombinator.com/item?id=43281893) - [More thoughts on the 1670 modem's weird noises](https://rachelbythebay.com/w/2025/03/05/1670/)
 * [2025-03-06, 16:17:21](https://news.ycombinator.com/item?id=43281882) - [There Is a Significant Need for Retirement Savings in the US](https://www.apolloacademy.com/there-is-a-significant-need-for-retirement-savings-in-the-us/)
 * [2025-03-06, 15:37:28](https://news.ycombinator.com/item?id=43281417) - [Job Cuts Surge on Doge Actions, Retail Woes; Highest Monthly Since July 2020](https://www.challengergray.com/blog/job-cuts-surge-on-doge-actions-retail-woes-highest-monthly-total-since-july-2020/)
 * [2025-03-06, 15:13:39](https://news.ycombinator.com/item?id=43281144) - [Novo Nordisk slashes Wegovy price for patients lacking insurance benefits](https://www.washingtonpost.com/business/2025/03/05/novo-nordisk-wegovy-cash-discount/)
