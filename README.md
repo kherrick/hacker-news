@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-06, 13:47:30](https://news.ycombinator.com/item?id=43280128) - [Show HN: LLMs Playing Mafia games – See them lie, deceive, and reason](https://mafia.opennumbers.xyz/)
 * [2025-03-06, 13:41:48](https://news.ycombinator.com/item?id=43280071) - [Let's Talk About the American Dream](https://blog.codinghorror.com/lets-talk-about-the-american-dream/)
+* [2025-03-06, 13:34:52](https://news.ycombinator.com/item?id=43280007) - [I Used to Teach Students. Now I Catch ChatGPT Cheats](https://thewalrus.ca/i-used-to-teach-students-now-i-catch-chatgpt-cheats/)
 * [2025-03-06, 13:05:02](https://news.ycombinator.com/item?id=43279746) - [A shirt whose price increases by 1 euro with every purchase](https://driesdepoorter.be/shirt/)
 * [2025-03-06, 12:33:27](https://news.ycombinator.com/item?id=43279494) - [Age and cognitive skills: Use it or lose it](https://www.science.org/doi/full/10.1126/sciadv.ads1560?af=R)
 * [2025-03-06, 12:29:36](https://news.ycombinator.com/item?id=43279454) - [Finland ends homelessness and provides shelter for all in need](https://thebetter.news/housing-first-finland-homelessness/)
@@ -25,11 +27,9 @@
 * [2025-03-05, 14:06:54](https://news.ycombinator.com/item?id=43266537) - [MacBook Air M4](https://www.apple.com/macbook-air/)
 * [2025-03-05, 13:59:50](https://news.ycombinator.com/item?id=43266453) - [Apple M3 Ultra](https://www.apple.com/newsroom/2025/03/apple-reveals-m3-ultra-taking-apple-silicon-to-a-new-extreme/)
 * [2025-03-04, 11:23:05](https://news.ycombinator.com/item?id=43253211) - [Simple Explanation of LLMs](https://blog.oedemis.io/understanding-llms-a-simple-guide-to-large-language-models)
-* [2025-03-04, 06:25:07](https://news.ycombinator.com/item?id=43250986) - [HYTRADBOI 2025 Conference Postmortem](https://www.scattered-thoughts.net/writing/hytradboi-2025-postmortem/)
 * [2025-03-03, 20:38:23](https://news.ycombinator.com/item?id=43246403) - [Windows Is Free for Business (2008)](https://davegutteridge.com/windows_is_free_for_business)
 * [2025-03-03, 18:16:09](https://news.ycombinator.com/item?id=43244860) - [On the criteria to be used in decomposing systems into modules (1972)](https://dl.acm.org/doi/pdf/10.1145/361598.361623)
-* [2025-03-02, 13:56:01](https://news.ycombinator.com/item?id=43230510) - [Yoke: Infrastructure as code, but actually](https://xeiaso.net/blog/2025/yoke-k8s/)
-* [2025-03-02, 03:06:39](https://news.ycombinator.com/item?id=43226792) - [Nebu: A Spreadsheet Editor for Varvara](https://wiki.xxiivv.com/site/nebu)
+* [2025-03-03, 13:39:04](https://news.ycombinator.com/item?id=43241589) - [Beavers Are Coming Home](https://www.wildlifetrusts.org/news/beavers-are-coming-home)
 
 ## [Archives](archives/index.md)
 
