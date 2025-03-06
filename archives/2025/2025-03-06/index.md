@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-06](index.md)
 
+* [2025-03-06, 17:14:39](https://news.ycombinator.com/item?id=43282594) - [NASA Shuts Off Voyager Science Instrument](https://gizmodo.com/nasa-shuts-off-voyager-science-instrument-more-power-cuts-ahead-to-keep-both-probes-going-2000572202)
 * [2025-03-06, 17:01:10](https://news.ycombinator.com/item?id=43282462) - [Leaping AI (YC W25) Is Hiring Founding Engineers for Self-Improving Voice AI](https://www.ycombinator.com/companies/leaping-ai/jobs/BpsfpvY-founding-full-stack-engineer)
 * [2025-03-06, 16:37:34](https://news.ycombinator.com/item?id=43282133) - [Anime fans stumbled upon a mathematical proof](https://www.scientificamerican.com/article/the-surprisingly-difficult-mathematical-proof-that-anime-fans-helped-solve/)
 * [2025-03-06, 16:18:11](https://news.ycombinator.com/item?id=43281893) - [More thoughts on the 1670 modem's weird noises](https://rachelbythebay.com/w/2025/03/05/1670/)
@@ -11,6 +12,7 @@
 * [2025-03-06, 15:37:28](https://news.ycombinator.com/item?id=43281417) - [Job Cuts Surge on Doge Actions, Retail Woes; Highest Monthly Since July 2020](https://www.challengergray.com/blog/job-cuts-surge-on-doge-actions-retail-woes-highest-monthly-total-since-july-2020/)
 * [2025-03-06, 15:13:39](https://news.ycombinator.com/item?id=43281144) - [Novo Nordisk slashes Wegovy price for patients lacking insurance benefits](https://www.washingtonpost.com/business/2025/03/05/novo-nordisk-wegovy-cash-discount/)
 * [2025-03-06, 14:47:35](https://news.ycombinator.com/item?id=43280836) - [Launch HN: Cenote (YC W25) – Back Office Automation for Medical Clinics](https://news.ycombinator.com/item?id=43280836)
+* [2025-03-06, 14:39:36](https://news.ycombinator.com/item?id=43280748) - [Bangladesh's factories turn to surveillance, automation; workers feel pressure](https://restofworld.org/2025/bangladesh-garment-factories-automation-surveillance/)
 * [2025-03-06, 14:30:10](https://news.ycombinator.com/item?id=43280615) - [Show HN: CodeTracer – A new time-traveling debugger implemented in Nim and Rust](https://github.com/metacraft-labs/codetracer)
 * [2025-03-06, 14:14:30](https://news.ycombinator.com/item?id=43280413) - [Ask HN: Escaping Difficult Employment Situation?](https://news.ycombinator.com/item?id=43280413)
 * [2025-03-06, 13:47:30](https://news.ycombinator.com/item?id=43280128) - [Show HN: LLMs Playing Mafia games – See them lie, deceive, and reason](https://mafia.opennumbers.xyz/)
