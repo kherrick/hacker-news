@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-03-06, 19:36:28",
-      "https://news.ycombinator.com/item?id=43284270"
+      "2025-03-06, 19:51:55",
+      "https://news.ycombinator.com/item?id=43284420"
     ],
     [
-      "LLMs Don't Know What They Don't Know–and That's a Problem",
-      "https://blog.scottlogic.com/2025/03/06/llms-dont-know-what-they-dont-know-and-thats-a-problem.html"
+      "Using GRPO to Beat o1, o3-mini and R1 at \"Temporal Clue\"",
+      "https://openpipe.ai/blog/using-grpo-to-beat-o1-o3-mini-and-r1-on-temporal-clue"
+    ]
+  ],
+  [
+    [
+      "2025-03-06, 19:38:57",
+      "https://news.ycombinator.com/item?id=43284291"
+    ],
+    [
+      "How the Index Card Cataloged the World (2017)",
+      "https://www.theatlantic.com/technology/archive/2017/12/how-the-index-card-catalogued-the-world/547271/"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2025-03-06, 06:53:46",
-      "https://news.ycombinator.com/item?id=43277214"
-    ],
-    [
-      "Apache iceberg the Hadoop of the modern-data-stack?",
-      "https://blog.det.life/apache-iceberg-the-hadoop-of-the-modern-data-stack-c83f63a4ebb9"
-    ]
-  ],
-  [
-    [
       "2025-03-06, 01:33:14",
       "https://news.ycombinator.com/item?id=43275193"
     ],
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2025-03-05, 19:34:23",
-      "https://news.ycombinator.com/item?id=43271177"
-    ],
-    [
-      "NCSC, GCHQ, UK Gov't expunge advice to \"use Apple encryption\"",
-      "https://alecmuffett.com/article/112522"
-    ]
-  ],
-  [
-    [
       "2025-03-05, 19:09:39",
       "https://news.ycombinator.com/item?id=43270843"
     ],
     [
       "QwQ-32B: Embracing the Power of Reinforcement Learning",
       "https://qwenlm.github.io/blog/qwq-32b/"
+    ]
+  ],
+  [
+    [
+      "2025-03-05, 16:26:01",
+      "https://news.ycombinator.com/item?id=43268713"
+    ],
+    [
+      "Reducing latency with esoteric Linux process flags",
+      "https://www.recall.ai/post/reducing-latency-by-83-with-esoteric-linux-process-flags"
     ]
   ],
   [
