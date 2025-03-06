@@ -59,6 +59,7 @@
 * [2025-03-03, 14:24:14](https://news.ycombinator.com/item?id=43242019) - [SOTA Code Retrieval with Efficient Code Embedding Models](https://www.qodo.ai/blog/qodo-embed-1-code-embedding-code-retreival/)
 * [2025-03-03, 14:24:10](https://news.ycombinator.com/item?id=43242017) - [The quest to find and save the Vasa](https://www.mentalfloss.com/article/568289/vasa-quest-to-save-most-famous-shipwreck)
 * [2025-03-03, 14:10:44](https://news.ycombinator.com/item?id=43241880) - [The weird afterlife of Xbox Kinect](https://www.theguardian.com/games/2025/mar/03/ghost-hunting-pornography-and-interactive-art-the-weird-afterlife-of-xbox-kinect)
+* [2025-03-03, 14:05:46](https://news.ycombinator.com/item?id=43241835) - [Multicomponent Glass Fertilizer for Nutrient Delivery in Precision Agriculture](https://pubs.acs.org/doi/10.1021/acsagscitech.4c00243)
 * [2025-03-03, 13:51:03](https://news.ycombinator.com/item?id=43241689) - [Fintoc (YC W21) Is Hiring Senior Software Engineer. Live Rent-Free in CL or MX](https://fintoc.com/codehere)
 * [2025-03-03, 13:39:04](https://news.ycombinator.com/item?id=43241589) - [Beavers Are Coming Home](https://www.wildlifetrusts.org/news/beavers-are-coming-home)
 * [2025-03-03, 13:27:26](https://news.ycombinator.com/item?id=43241501) - [SepLLM: Accelerate LLMs by Compressing One Segment into One Separator](https://sepllm.github.io/)
