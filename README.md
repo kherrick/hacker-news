@@ -23,12 +23,12 @@
 * [2025-03-05, 13:59:50](https://news.ycombinator.com/item?id=43266453) - [Apple M3 Ultra](https://www.apple.com/newsroom/2025/03/apple-reveals-m3-ultra-taking-apple-silicon-to-a-new-extreme/)
 * [2025-03-05, 11:52:28](https://news.ycombinator.com/item?id=43265431) - [MS Paint IDE](https://ms-paint-i.de/)
 * [2025-03-05, 10:25:55](https://news.ycombinator.com/item?id=43264957) - [Lynx: Open Source Native Cross Platform framework used in TikTok](https://lynxjs.org/blog/lynx-unlock-native-for-more.html)
+* [2025-03-05, 10:03:31](https://news.ycombinator.com/item?id=43264847) - [Richard Sutton and Andrew Barto Win 2024 Turing Award](https://awards.acm.org/about/2024-turing)
 * [2025-03-03, 18:41:37](https://news.ycombinator.com/item?id=43245172) - [Solving First Order Differential Equations with Julia](https://ritog.github.io/posts/1st-order-DE-julia/1st_order_DE_julia.html)
 * [2025-03-03, 13:27:26](https://news.ycombinator.com/item?id=43241501) - [SepLLM: Accelerate LLMs by Compressing One Segment into One Separator](https://sepllm.github.io/)
 * [2025-03-03, 13:27:07](https://news.ycombinator.com/item?id=43241499) - [Math Academy pulled me out of the Valley of Despair](https://mikelikejordan.bearblog.dev/how-math-academy-pulled-me-out-of-the-valley-of-despair/)
 * [2025-03-03, 00:19:31](https://news.ycombinator.com/item?id=43236825) - [The Day the Muse Died](https://johnpweiss.com/blog/199949/the-day-the-muse-died)
 * [2025-03-02, 14:34:50](https://news.ycombinator.com/item?id=43230864) - [Tiny Ten DSP-Based HF Transceiver](https://www.janbob.com/electron/TinyTen/TinyTen.htm)
-* [2025-03-02, 12:55:37](https://news.ycombinator.com/item?id=43230040) - [AI Will Upend a Basic Assumption About How Companies Are Organized](https://www.bloomberg.com/news/articles/2025-02-28/how-ai-reasoning-models-will-change-companies-and-the-economy)
 * [2025-03-02, 03:06:39](https://news.ycombinator.com/item?id=43226792) - [Nebu: A Spreadsheet Editor for Varvara](https://wiki.xxiivv.com/site/nebu)
 
 ## [Archives](archives/index.md)
