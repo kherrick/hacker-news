@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-06](index.md)
 
+* [2025-03-06, 17:01:10](https://news.ycombinator.com/item?id=43282462) - [Leaping AI (YC W25) Is Hiring Founding Engineers for Self-Improving Voice AI](https://www.ycombinator.com/companies/leaping-ai/jobs/BpsfpvY-founding-full-stack-engineer)
 * [2025-03-06, 16:37:34](https://news.ycombinator.com/item?id=43282133) - [Anime fans stumbled upon a mathematical proof](https://www.scientificamerican.com/article/the-surprisingly-difficult-mathematical-proof-that-anime-fans-helped-solve/)
 * [2025-03-06, 16:18:11](https://news.ycombinator.com/item?id=43281893) - [More thoughts on the 1670 modem's weird noises](https://rachelbythebay.com/w/2025/03/05/1670/)
 * [2025-03-06, 16:17:21](https://news.ycombinator.com/item?id=43281882) - [There Is a Significant Need for Retirement Savings in the US](https://www.apolloacademy.com/there-is-a-significant-need-for-retirement-savings-in-the-us/)

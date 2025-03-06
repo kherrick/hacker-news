@@ -27,6 +27,7 @@
 * [2025-03-02, 20:06:41](https://news.ycombinator.com/item?id=43234471) - [Matt's Script Archive (1995)](https://www.scriptarchive.com/)
 * [2025-03-02, 20:05:28](https://news.ycombinator.com/item?id=43234457) - [An Uneasy Propaganda Alliance](https://www.historytoday.com/archive/history-matters/uneasy-propaganda-alliance)
 * [2025-03-02, 19:48:33](https://news.ycombinator.com/item?id=43234281) - [Brazilians hail strength of democracy as Bolsonaro is called to account](https://www.theguardian.com/world/2025/feb/19/brazil-jair-bolsonaro-coup)
+* [2025-03-02, 19:41:20](https://news.ycombinator.com/item?id=43234183) - [Mercury astronaut had to beg controllers for permission to pee](https://idlewords.com/shepard_pee.htm)
 * [2025-03-02, 19:39:09](https://news.ycombinator.com/item?id=43234153) - [Cornell Announces a Hiring Pause](https://hr.cornell.edu/2025-hiring-pause)
 * [2025-03-02, 19:33:21](https://news.ycombinator.com/item?id=43234089) - [Geothermal power is a climate moon shot beneath our feet](https://www.newyorker.com/news/the-lede/geothermal-power-is-a-climate-moon-shot-beneath-our-feet)
 * [2025-03-02, 19:15:58](https://news.ycombinator.com/item?id=43233903) - [Hallucinations in code are the least dangerous form of LLM mistakes](https://simonwillison.net/2025/Mar/2/hallucinations-in-code/)
