@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-06, 21:00:00",
+      "https://news.ycombinator.com/item?id=43285020"
+    ],
+    [
+      "Koko (YC W22) Is Hiring a CTO / Lead Engineer",
+      "https://www.ycombinator.com/companies/koko-2/jobs/oPgy08B-lead-engineer-cto"
+    ]
+  ],
+  [
+    [
       "2025-03-06, 20:32:47",
       "https://news.ycombinator.com/item?id=43284811"
     ],
@@ -151,32 +161,12 @@
   ],
   [
     [
-      "2025-03-06, 17:19:44",
-      "https://news.ycombinator.com/item?id=43282668"
-    ],
-    [
-      "Why 56k Modems Relied on Digital Phone Lines You Didn't Know We Had",
-      "https://hackaday.com/2025/03/06/why-56k-modems-relied-on-digital-phone-lines-you-didnt-know-we-had/"
-    ]
-  ],
-  [
-    [
       "2025-03-06, 17:14:39",
       "https://news.ycombinator.com/item?id=43282594"
     ],
     [
       "NASA Shuts Off Voyager Science Instrument",
       "https://gizmodo.com/nasa-shuts-off-voyager-science-instrument-more-power-cuts-ahead-to-keep-both-probes-going-2000572202"
-    ]
-  ],
-  [
-    [
-      "2025-03-06, 17:01:10",
-      "https://news.ycombinator.com/item?id=43282462"
-    ],
-    [
-      "Leaping AI (YC W25) Is Hiring Founding Engineers for Self-Improving Voice AI",
-      "https://www.ycombinator.com/companies/leaping-ai/jobs/BpsfpvY-founding-full-stack-engineer"
     ]
   ],
   [
@@ -251,22 +241,22 @@
   ],
   [
     [
+      "2025-03-05, 19:34:23",
+      "https://news.ycombinator.com/item?id=43271177"
+    ],
+    [
+      "NCSC, GCHQ, UK Gov't expunge advice to \"use Apple encryption\"",
+      "https://alecmuffett.com/article/112522"
+    ]
+  ],
+  [
+    [
       "2025-03-05, 19:09:39",
       "https://news.ycombinator.com/item?id=43270843"
     ],
     [
       "QwQ-32B: Embracing the Power of Reinforcement Learning",
       "https://qwenlm.github.io/blog/qwq-32b/"
-    ]
-  ],
-  [
-    [
-      "2025-03-05, 16:26:01",
-      "https://news.ycombinator.com/item?id=43268713"
-    ],
-    [
-      "Reducing latency with esoteric Linux process flags",
-      "https://www.recall.ai/post/reducing-latency-by-83-with-esoteric-linux-process-flags"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "A JPEG Image Compression Service Using Part Homomorphic Encryption",
       "https://github.com/qianfei11/ShadowyCompression"
+    ]
+  ],
+  [
+    [
+      "2025-03-02, 23:07:17",
+      "https://news.ycombinator.com/item?id=43236254"
+    ],
+    [
+      "Palm phytoliths in subarctic Canada imply ice-free winters 48M years ago",
+      "https://academic.oup.com/aob/advance-article/doi/10.1093/aob/mcaf021/8006661"
     ]
   ]
 ]
