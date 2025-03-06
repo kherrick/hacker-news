@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-06](index.md)
 
+* [2025-03-06, 11:29:56](https://news.ycombinator.com/item?id=43278934) - [Denmark postal service to stop delivering letters](https://www.bbc.com/news/articles/ckg8jllq283o)
 * [2025-03-06, 11:17:48](https://news.ycombinator.com/item?id=43278845) - [AMD Announces \"Instella\" Open-Source 3B Language Models](https://www.phoronix.com/news/AMD-Intella-Open-Source-LM)
 * [2025-03-06, 10:58:57](https://news.ycombinator.com/item?id=43278705) - [Buy European Made. Support European Values](https://www.buy-european-made.eu/)
 * [2025-03-06, 10:22:06](https://news.ycombinator.com/item?id=43278473) - [Automatically tagging politician when they use their phone on the livestreams](https://driesdepoorter.be/theflemishscrollers/)
