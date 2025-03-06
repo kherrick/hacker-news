@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-06, 13:41:48",
+      "https://news.ycombinator.com/item?id=43280071"
+    ],
+    [
+      "Let's Talk About the American Dream",
+      "https://blog.codinghorror.com/lets-talk-about-the-american-dream/"
+    ]
+  ],
+  [
+    [
+      "2025-03-06, 13:05:02",
+      "https://news.ycombinator.com/item?id=43279746"
+    ],
+    [
+      "A shirt whose price increases by 1 euro with every purchase",
+      "https://driesdepoorter.be/shirt/"
+    ]
+  ],
+  [
+    [
       "2025-03-06, 12:33:27",
       "https://news.ycombinator.com/item?id=43279494"
     ],
@@ -27,16 +47,6 @@
     [
       "Empirical Health is hiring design engineers to build primary care of the future",
       "https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer"
-    ]
-  ],
-  [
-    [
-      "2025-03-06, 11:53:08",
-      "https://news.ycombinator.com/item?id=43279147"
-    ],
-    [
-      "Scientists crack how aspirin might stop cancers from spreading",
-      "https://www.bbc.com/news/articles/c1d4n119xr7o"
     ]
   ],
   [
@@ -171,6 +181,16 @@
   ],
   [
     [
+      "2025-03-05, 19:52:33",
+      "https://news.ycombinator.com/item?id=43271424"
+    ],
+    [
+      "Fix the light guide in a laser meter",
+      "https://lettieri.iet.unipi.it/~luigi/250302-fix-laser-meter/"
+    ]
+  ],
+  [
+    [
       "2025-03-05, 19:09:39",
       "https://news.ycombinator.com/item?id=43270843"
     ],
@@ -191,12 +211,12 @@
   ],
   [
     [
-      "2025-03-05, 14:44:04",
-      "https://news.ycombinator.com/item?id=43267095"
+      "2025-03-05, 17:17:55",
+      "https://news.ycombinator.com/item?id=43269475"
     ],
     [
-      "Things we've learned about building products",
-      "https://newsletter.posthog.com/p/50-things-weve-learned-about-building"
+      "GoStringUngarbler: Deobfuscating Strings in Garbled Binaries",
+      "https://cloud.google.com/blog/topics/threat-intelligence/gostringungarbler-deobfuscating-strings-in-garbled-binaries"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2025-03-03, 18:41:37",
-      "https://news.ycombinator.com/item?id=43245172"
-    ],
-    [
-      "Solving First Order Differential Equations with Julia",
-      "https://ritog.github.io/posts/1st-order-DE-julia/1st_order_DE_julia.html"
-    ]
-  ],
-  [
-    [
       "2025-03-03, 18:16:09",
       "https://news.ycombinator.com/item?id=43244860"
     ],
     [
       "On the criteria to be used in decomposing systems into modules (1972)",
       "https://dl.acm.org/doi/pdf/10.1145/361598.361623"
-    ]
-  ],
-  [
-    [
-      "2025-03-02, 14:34:50",
-      "https://news.ycombinator.com/item?id=43230864"
-    ],
-    [
-      "Tiny Ten DSP-Based HF Transceiver",
-      "https://www.janbob.com/electron/TinyTen/TinyTen.htm"
     ]
   ],
   [
