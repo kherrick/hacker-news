@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-03-06](index.md)
 
+* [2025-03-06, 19:04:12](https://news.ycombinator.com/item?id=43283917) - [EFF: Rayhunter](https://github.com/EFForg/rayhunter)
+* [2025-03-06, 19:01:28](https://news.ycombinator.com/item?id=43283884) - [Exposing Russian EFF Impersonators: The Inside Story on Stealc and Pyramid C2](https://hunt.io/blog/russian-speaking-actors-impersonate-etf-distribute-stealc-pyramid-c2)
+* [2025-03-06, 18:55:47](https://news.ycombinator.com/item?id=43283814) - [Bcvi – run vi over a 'back-channel' (2010)](https://sshmenu.sourceforge.net/articles/bcvi/)
+* [2025-03-06, 18:45:47](https://news.ycombinator.com/item?id=43283669) - [Warewulf is a stateless and diskless container OS provisioning system](https://github.com/warewulf/warewulf)
 * [2025-03-06, 18:34:11](https://news.ycombinator.com/item?id=43283498) - [50 Years in Filesystems: 1984](https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html)
 * [2025-03-06, 18:24:37](https://news.ycombinator.com/item?id=43283367) - [Questions for William J. Rapaport](https://docs.google.com/forms/d/e/1FAIpQLScu0u_nW3S94CfrEGzaABprsGm322wVaBkiqF-ajkN_HVKHhQ/viewform?usp=header)
 * [2025-03-06, 18:08:24](https://news.ycombinator.com/item?id=43283178) - [Atlassian announces end of support for Opsgenie](https://www.atlassian.com/blog/announcements/evolution-of-it-operations)
