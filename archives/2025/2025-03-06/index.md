@@ -13,6 +13,7 @@
 * [2025-03-06, 12:37:29](https://news.ycombinator.com/item?id=43279528) - [Israel creating GPT-like tool using collection of Palestinian surveillance data](https://www.theguardian.com/world/2025/mar/06/israel-military-ai-surveillance)
 * [2025-03-06, 12:33:27](https://news.ycombinator.com/item?id=43279494) - [Age and cognitive skills: Use it or lose it](https://www.science.org/doi/full/10.1126/sciadv.ads1560?af=R)
 * [2025-03-06, 12:29:36](https://news.ycombinator.com/item?id=43279454) - [Finland ends homelessness and provides shelter for all in need](https://thebetter.news/housing-first-finland-homelessness/)
+* [2025-03-06, 12:28:01](https://news.ycombinator.com/item?id=43279442) - [UK homes install subsidised heat pumps at record level](https://www.bbc.co.uk/news/articles/c3e4nlxlq08o)
 * [2025-03-06, 12:00:40](https://news.ycombinator.com/item?id=43279220) - [Empirical Health is hiring design engineers to build primary care of the future](https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer)
 * [2025-03-06, 11:53:08](https://news.ycombinator.com/item?id=43279147) - [Scientists crack how aspirin might stop cancers from spreading](https://www.bbc.com/news/articles/c1d4n119xr7o)
 * [2025-03-06, 11:29:56](https://news.ycombinator.com/item?id=43278934) - [Denmark postal service to stop delivering letters](https://www.bbc.com/news/articles/ckg8jllq283o)
