@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-06, 18:24:37",
+      "https://news.ycombinator.com/item?id=43283367"
+    ],
+    [
+      "Questions for William J. Rapaport",
+      "https://docs.google.com/forms/d/e/1FAIpQLScu0u_nW3S94CfrEGzaABprsGm322wVaBkiqF-ajkN_HVKHhQ/viewform?usp=header"
+    ]
+  ],
+  [
+    [
+      "2025-03-06, 18:08:24",
+      "https://news.ycombinator.com/item?id=43283178"
+    ],
+    [
+      "Atlassian announces end of support for Opsgenie",
+      "https://www.atlassian.com/blog/announcements/evolution-of-it-operations"
+    ]
+  ],
+  [
+    [
       "2025-03-06, 17:48:37",
       "https://news.ycombinator.com/item?id=43282995"
     ],
@@ -57,6 +77,16 @@
     [
       "NASA Shuts Off Voyager Science Instrument",
       "https://gizmodo.com/nasa-shuts-off-voyager-science-instrument-more-power-cuts-ahead-to-keep-both-probes-going-2000572202"
+    ]
+  ],
+  [
+    [
+      "2025-03-06, 17:02:58",
+      "https://news.ycombinator.com/item?id=43282489"
+    ],
+    [
+      "Mistral OCR",
+      "https://mistral.ai/news/mistral-ocr"
     ]
   ],
   [
@@ -137,16 +167,6 @@
     [
       "Scientists crack how aspirin might stop cancers from spreading",
       "https://www.bbc.com/news/articles/c1d4n119xr7o"
-    ]
-  ],
-  [
-    [
-      "2025-03-06, 10:22:06",
-      "https://news.ycombinator.com/item?id=43278473"
-    ],
-    [
-      "Automatically tagging politician when they use their phone on the livestreams",
-      "https://driesdepoorter.be/theflemishscrollers/"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "IoT project using thermal sensors to monitor spaces",
       "https://s2.dev/blog/iot"
-    ]
-  ],
-  [
-    [
-      "2025-03-02, 14:34:50",
-      "https://news.ycombinator.com/item?id=43230864"
-    ],
-    [
-      "Tiny Ten DSP-Based HF Transceiver",
-      "https://www.janbob.com/electron/TinyTen/TinyTen.htm"
-    ]
-  ],
-  [
-    [
-      "2025-03-02, 13:56:01",
-      "https://news.ycombinator.com/item?id=43230510"
-    ],
-    [
-      "Yoke: Infrastructure as code, but actually",
-      "https://xeiaso.net/blog/2025/yoke-k8s/"
     ]
   ]
 ]
