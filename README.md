@@ -11,7 +11,6 @@
 * [2025-03-06, 18:45:47](https://news.ycombinator.com/item?id=43283669) - [Warewulf is a stateless and diskless container OS provisioning system](https://github.com/warewulf/warewulf)
 * [2025-03-06, 18:34:11](https://news.ycombinator.com/item?id=43283498) - [50 Years in Filesystems: 1984](https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html)
 * [2025-03-06, 18:24:37](https://news.ycombinator.com/item?id=43283367) - [Questions for William J. Rapaport](https://docs.google.com/forms/d/e/1FAIpQLScu0u_nW3S94CfrEGzaABprsGm322wVaBkiqF-ajkN_HVKHhQ/viewform?usp=header)
-* [2025-03-06, 18:08:24](https://news.ycombinator.com/item?id=43283178) - [Atlassian announces end of support for Opsgenie](https://www.atlassian.com/blog/announcements/evolution-of-it-operations)
 * [2025-03-06, 17:48:37](https://news.ycombinator.com/item?id=43282995) - [Succinct Data Structures](https://blog.startifact.com/posts/succinct/)
 * [2025-03-06, 17:42:44](https://news.ycombinator.com/item?id=43282936) - [The Combined Cipher Machine 1940's-1950's](http://chris-intel-corner.blogspot.com/2025/03/the-combined-cipher-machine-1942-1962.html)
 * [2025-03-06, 17:39:39](https://news.ycombinator.com/item?id=43282905) - [Mistral OCR](https://mistral.ai/fr/news/mistral-ocr)
@@ -26,8 +25,9 @@
 * [2025-03-06, 01:33:14](https://news.ycombinator.com/item?id=43275193) - [Cognitive Behaviors That Enable Self-Improving Reasoners](https://arxiv.org/abs/2503.01307)
 * [2025-03-05, 19:34:23](https://news.ycombinator.com/item?id=43271177) - [NCSC, GCHQ, UK Gov't expunge advice to \"use Apple encryption\"](https://alecmuffett.com/article/112522)
 * [2025-03-05, 19:09:39](https://news.ycombinator.com/item?id=43270843) - [QwQ-32B: Embracing the Power of Reinforcement Learning](https://qwenlm.github.io/blog/qwq-32b/)
+* [2025-03-04, 01:17:23](https://news.ycombinator.com/item?id=43248993) - [Game Theory and Settling the Debts of the Deceased in Ancient Times](https://politicalcalculations.blogspot.com/2025/02/game-theory-and-settling-debts-of.html)
 * [2025-03-03, 18:16:09](https://news.ycombinator.com/item?id=43244860) - [On the criteria to be used in decomposing systems into modules (1972)](https://dl.acm.org/doi/pdf/10.1145/361598.361623)
-* [2025-03-03, 13:39:04](https://news.ycombinator.com/item?id=43241589) - [Beavers Are Coming Home](https://www.wildlifetrusts.org/news/beavers-are-coming-home)
+* [2025-03-03, 13:39:04](https://news.ycombinator.com/item?id=43241589) - [Reintroductions of beavers into the wild in several parts of England](https://www.wildlifetrusts.org/news/beavers-are-coming-home)
 * [2025-03-03, 09:35:29](https://news.ycombinator.com/item?id=43240013) - [A JPEG Image Compression Service Using Part Homomorphic Encryption](https://github.com/qianfei11/ShadowyCompression)
 * [2025-03-02, 23:07:17](https://news.ycombinator.com/item?id=43236254) - [Palm phytoliths in subarctic Canada imply ice-free winters 48M years ago](https://academic.oup.com/aob/advance-article/doi/10.1093/aob/mcaf021/8006661)
 
