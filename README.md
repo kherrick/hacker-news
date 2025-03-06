@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-06, 07:00:13](https://news.ycombinator.com/item?id=43277250) - [Arva AI (YC S24) Is Hiring an AI Product Engineer](https://www.ycombinator.com/companies/arva-ai/jobs/OBPwCiU-ai-product-engineer)
-* [2025-03-06, 05:53:30](https://news.ycombinator.com/item?id=43276843) - [The Authoritarian Regime Survival Guide](https://verfassungsblog.de/the-authoritarian-regime-survival-guide/)
 * [2025-03-06, 01:33:14](https://news.ycombinator.com/item?id=43275193) - [Cognitive Behaviors That Enable Self-Improving Reasoners](https://arxiv.org/abs/2503.01307)
 * [2025-03-06, 00:53:32](https://news.ycombinator.com/item?id=43274821) - [The US stops sharing air quality data from embassies worldwide](https://apnews.com/article/us-air-quality-monitors-8270927bbd0f166238243ac9d14bce03)
 * [2025-03-06, 00:43:22](https://news.ycombinator.com/item?id=43274756) - [Xdg-ninja: checking your $HOME for unwanted files and directories](https://github.com/b3nj5m1n/xdg-ninja)
@@ -17,6 +16,7 @@
 * [2025-03-05, 17:55:29](https://news.ycombinator.com/item?id=43269928) - [Show HN: Leaflet.pub – a web app for creating and sharing rich documents](https://news.ycombinator.com/item?id=43269928)
 * [2025-03-05, 17:49:13](https://news.ycombinator.com/item?id=43269846) - [There Was a Texas Lottery Arbitrage](https://www.bloomberg.com/opinion/articles/2025-03-05/there-was-a-texas-lottery-arbitrage)
 * [2025-03-05, 17:09:41](https://news.ycombinator.com/item?id=43269368) - [The Tiny Star Explosions Powering Moore's Law](https://spectrum.ieee.org/euv-light-source)
+* [2025-03-05, 17:07:09](https://news.ycombinator.com/item?id=43269330) - [Show HN: Beating Pokemon Red with RL and <10M Parameters](https://drubinstein.github.io/pokerl/)
 * [2025-03-05, 16:08:02](https://news.ycombinator.com/item?id=43268454) - [My Beancount books are 95% automatic after 3 years (2024)](https://fangpenlin.com/posts/2024/12/30/my-beancount-books-are-95-percent-automatic/)
 * [2025-03-05, 14:44:04](https://news.ycombinator.com/item?id=43267095) - [Things we've learned about building products](https://newsletter.posthog.com/p/50-things-weve-learned-about-building)
 * [2025-03-05, 14:06:54](https://news.ycombinator.com/item?id=43266537) - [MacBook Air M4](https://www.apple.com/macbook-air/)
