@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-07, 03:12:28](https://news.ycombinator.com/item?id=43287123) - [Linux Prepper Podcast – Audience Feedback on Self-Hosting](https://podcast.james.network/@linuxprepper/episodes/audience-feedback-on-selfhosting)
 * [2025-03-06, 23:43:37](https://news.ycombinator.com/item?id=43286161) - [Differentiable Logic Cellular Automata](https://google-research.github.io/self-organising-systems/difflogic-ca/?hn)
 * [2025-03-06, 23:31:13](https://news.ycombinator.com/item?id=43286091) - [InstantStyle: Free Lunch Towards Style-Preserving in Text-to-Image Generation](https://github.com/instantX-research/InstantStyle)
 * [2025-03-06, 22:35:00](https://news.ycombinator.com/item?id=43285726) - [Why I find diffusion models interesting?](https://rnikhil.com/2025/03/06/diffusion-models-eval)
@@ -22,6 +21,8 @@
 * [2025-03-06, 16:18:11](https://news.ycombinator.com/item?id=43281893) - [More thoughts on the 1670 modem's weird noises](https://rachelbythebay.com/w/2025/03/05/1670/)
 * [2025-03-06, 14:47:35](https://news.ycombinator.com/item?id=43280836) - [Launch HN: Cenote (YC W25) – Back Office Automation for Medical Clinics](https://news.ycombinator.com/item?id=43280836)
 * [2025-03-06, 14:30:10](https://news.ycombinator.com/item?id=43280615) - [Show HN: CodeTracer – A new time-traveling debugger implemented in Nim and Rust](https://github.com/metacraft-labs/codetracer)
+* [2025-03-06, 08:47:32](https://news.ycombinator.com/item?id=43277918) - [Revolt: Open-Source Alternative to Discord](https://revolt.chat)
+* [2025-03-04, 12:55:29](https://news.ycombinator.com/item?id=43253898) - [Putting Bounties on My Goals](https://www.krayorn.com/posts/bounties-on-goals/)
 * [2025-03-04, 02:58:13](https://news.ycombinator.com/item?id=43249766) - [Words for the Heart: A treasury of emotions from classical India](https://www.bostonreview.net/articles/theres-a-word-for-that/)
 * [2025-03-03, 16:40:00](https://news.ycombinator.com/item?id=43243569) - [Some Thoughts on Autoregressive Models](https://wonderfall.dev/autoregressive/)
 * [2025-03-03, 14:05:46](https://news.ycombinator.com/item?id=43241835) - [Multicomponent Glass Fertilizer for Nutrient Delivery in Precision Agriculture](https://pubs.acs.org/doi/10.1021/acsagscitech.4c00243)
@@ -29,7 +30,6 @@
 * [2025-03-03, 12:29:45](https://news.ycombinator.com/item?id=43241122) - [An equation of state for dense nuclear matter such as neutron stars](https://phys.org/news/2025-02-equation-state-dense-nuclear-neutron.html)
 * [2025-03-03, 09:35:29](https://news.ycombinator.com/item?id=43240013) - [A JPEG Image Compression Service Using Part Homomorphic Encryption (2019)](https://github.com/qianfei11/ShadowyCompression)
 * [2025-03-03, 07:47:49](https://news.ycombinator.com/item?id=43239284) - [Discovery of fresco portraying Dionysian mysteries at Pompeii](https://pompeiisites.org/en/comunicati/pompeii-discovery-of-a-room-with-frescoes-depicting-the-initiation-into-the-mysteries-and-the-dionysiac-procession/)
-* [2025-03-02, 23:07:17](https://news.ycombinator.com/item?id=43236254) - [Palm phytoliths in subarctic Canada imply ice-free winters 48M years ago](https://academic.oup.com/aob/advance-article/doi/10.1093/aob/mcaf021/8006661)
 
 ## [Archives](archives/index.md)
 
