@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-03-07, 22:38:52",
-      "https://news.ycombinator.com/item?id=43295577"
-    ],
-    [
-      "Measles outbreak in Texas and New Mexico now 208 cases, 2 deaths",
-      "https://arstechnica.com/science/2025/03/measles-outbreak-hits-208-cases-as-federal-outbreak-response-goes-off-the-rails/"
-    ]
-  ],
-  [
-    [
       "2025-03-07, 21:19:23",
       "https://news.ycombinator.com/item?id=43294816"
     ],
@@ -37,6 +27,16 @@
     [
       "Polars Cloud: The Distributed Cloud Architecture to Run Polars Anywhere",
       "https://pola.rs/posts/polars-cloud-what-we-are-building/"
+    ]
+  ],
+  [
+    [
+      "2025-03-07, 20:50:45",
+      "https://news.ycombinator.com/item?id=43294489"
+    ],
+    [
+      "'Next-Level' Chaos Traces the True Limit of Predictability",
+      "https://www.quantamagazine.org/next-level-chaos-traces-the-true-limit-of-predictability-20250307/"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2025-03-06, 19:51:55",
-      "https://news.ycombinator.com/item?id=43284420"
-    ],
-    [
-      "Using GRPO to Beat o1, o3-mini and R1 at “Temporal Clue”",
-      "https://openpipe.ai/blog/using-grpo-to-beat-o1-o3-mini-and-r1-on-temporal-clue"
-    ]
-  ],
-  [
-    [
       "2025-03-06, 17:39:39",
       "https://news.ycombinator.com/item?id=43282905"
     ],
@@ -261,6 +251,16 @@
   ],
   [
     [
+      "2025-03-05, 02:18:21",
+      "https://news.ycombinator.com/item?id=43261825"
+    ],
+    [
+      "Integrated sensing and communication based on space-time-coding metasurfaces",
+      "https://www.nature.com/articles/s41467-025-57137-6"
+    ]
+  ],
+  [
+    [
       "2025-03-04, 22:00:08",
       "https://news.ycombinator.com/item?id=43260251"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2025-03-04, 17:14:26",
-      "https://news.ycombinator.com/item?id=43257460"
-    ],
-    [
-      "Performance optimization, and how to do it wrong",
-      "https://genna.win/blog/convolution-simd/"
-    ]
-  ],
-  [
-    [
       "2025-03-04, 14:09:49",
       "https://news.ycombinator.com/item?id=43254790"
     ],
     [
       "UEFI-Only Support for AMD Radeon RX 9000 Series Graphics and Later",
       "https://www.amd.com/en/resources/support-articles/faqs/GPU-N4XCSM.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-03, 16:06:51",
+      "https://news.ycombinator.com/item?id=43243110"
+    ],
+    [
+      "A Scientific American bolt puzzle",
+      "https://leancrew.com/all-this/2025/03/a-sciam-bolt-puzzle/"
     ]
   ],
   [
