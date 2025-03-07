@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-07, 11:16:41](https://news.ycombinator.com/item?id=43289245) - [Natural occurring molecule rivals Ozempic in weight loss, sidesteps side effects](https://medicalxpress.com/news/2025-03-naturally-molecule-rivals-ozempic-weight.html)
-* [2025-03-07, 11:12:05](https://news.ycombinator.com/item?id=43289226) - [Meta, Google, and Salesforce announce major layoffs in 2025](https://www.indmoney.com/blog/us-stocks/meta-google-salesforce-announce-layoffs-2025)
 * [2025-03-07, 10:35:02](https://news.ycombinator.com/item?id=43289022) - [How often are children genetically unrelated to their presumed fathers?](https://www.science.org/content/article/how-often-are-children-genetically-unrelated-their-presumed-fathers)
 * [2025-03-07, 10:06:38](https://news.ycombinator.com/item?id=43288861) - [Matters Computational Ideas, Algorithms, Source Code – Jorg Arndt [pdf]](https://www.jjj.de/fxt/fxtbook.pdf)
 * [2025-03-07, 07:01:05](https://news.ycombinator.com/item?id=43287860) - [Cargo (YC S23) Is Hiring](https://www.ycombinator.com/companies/cargo/jobs/hLc670b-founding-full-stack-ae-founding-ae)
@@ -21,6 +20,7 @@
 * [2025-03-06, 17:39:39](https://news.ycombinator.com/item?id=43282905) - [Mistral OCR](https://mistral.ai/fr/news/mistral-ocr)
 * [2025-03-06, 17:19:44](https://news.ycombinator.com/item?id=43282668) - [56k modems relied on digital trunk lines](https://hackaday.com/2025/03/06/why-56k-modems-relied-on-digital-phone-lines-you-didnt-know-we-had/)
 * [2025-03-06, 16:37:34](https://news.ycombinator.com/item?id=43282133) - [Anime fans stumbled upon a mathematical proof](https://www.scientificamerican.com/article/the-surprisingly-difficult-mathematical-proof-that-anime-fans-helped-solve/)
+* [2025-03-06, 14:47:35](https://news.ycombinator.com/item?id=43280836) - [Launch HN: Cenote (YC W25) – Back Office Automation for Medical Clinics](https://news.ycombinator.com/item?id=43280836)
 * [2025-03-06, 14:30:10](https://news.ycombinator.com/item?id=43280615) - [Show HN: CodeTracer – A new time-traveling debugger implemented in Nim and Rust](https://github.com/metacraft-labs/codetracer)
 * [2025-03-04, 16:13:26](https://news.ycombinator.com/item?id=43256595) - [Static Site Generator for Emacs Lisp Programmers](https://one.tonyaldon.com/)
 * [2025-03-04, 12:32:38](https://news.ycombinator.com/item?id=43253704) - [Speeding Up Computational Lithography with the Power and Parallelism of GPUs](https://semiengineering.com/speeding-up-computational-lithography-with-the-power-and-parallelism-of-gpus/)
