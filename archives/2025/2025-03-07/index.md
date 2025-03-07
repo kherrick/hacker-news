@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-03-07](index.md)
 
+* [2025-03-07, 19:30:56](https://news.ycombinator.com/item?id=43293517) - [Kennedy and influencers bash seed oils, baffling nutrition scientists](https://apnews.com/article/seed-oil-beef-tallow-kennedy-4fdf0f30134277fd6dd20b4ede789295)
+* [2025-03-07, 19:22:34](https://news.ycombinator.com/item?id=43293412) - [Doge Is Putting Major Government Efficiency Projects at Risk](https://www.wired.com/story/doge-major-government-tech-projects-efficiency/)
 * [2025-03-07, 19:06:30](https://news.ycombinator.com/item?id=43293192) - [Walt Disney's MultiPlane Camera (Filmed Feb. 13, 1957) [video]](https://www.youtube.com/watch?v=3YIR39KeJMk)
 * [2025-03-07, 19:01:30](https://news.ycombinator.com/item?id=43293121) - [Moscow-based global news network has infected Western AI tools](https://www.newsguardrealitycheck.com/p/a-well-funded-moscow-based-global)
+* [2025-03-07, 18:56:34](https://news.ycombinator.com/item?id=43293060) - [Two weak spots in Big Tech economics](https://pluralistic.net/2025/03/06/privacy-last/)
 * [2025-03-07, 18:44:34](https://news.ycombinator.com/item?id=43292946) - [Microsoft is plotting a future without OpenAI](https://techstartups.com/2025/03/07/microsoft-is-plotting-a-future-without-openai/)
 * [2025-03-07, 18:42:41](https://news.ycombinator.com/item?id=43292920) - [WB offers replacements, but no refunds, for DVDs rotting prematurely](https://arstechnica.com/gadgets/2025/03/they-curdle-like-milk-wb-dvds-from-2006-2008-are-rotting-away-in-their-cases/)
 * [2025-03-07, 18:34:02](https://news.ycombinator.com/item?id=43292820) - [First Porn, Now Skin Cream? 'Age Verification' Bills Are Out of Control](https://www.eff.org/deeplinks/2025/03/first-porn-now-skin-cream-age-verification-bills-are-out-control)
