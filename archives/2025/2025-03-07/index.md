@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-07](index.md)
 
+* [2025-03-07, 19:40:59](https://news.ycombinator.com/item?id=43293646) - [No one asked for this: Google is testing round keys in Gboard](https://arstechnica.com/google/2025/03/no-one-asked-for-this-google-is-testing-round-keys-in-gboard/)
 * [2025-03-07, 19:30:56](https://news.ycombinator.com/item?id=43293517) - [Kennedy and influencers bash seed oils, baffling nutrition scientists](https://apnews.com/article/seed-oil-beef-tallow-kennedy-4fdf0f30134277fd6dd20b4ede789295)
 * [2025-03-07, 19:22:34](https://news.ycombinator.com/item?id=43293412) - [Doge Is Putting Major Government Efficiency Projects at Risk](https://www.wired.com/story/doge-major-government-tech-projects-efficiency/)
 * [2025-03-07, 19:06:30](https://news.ycombinator.com/item?id=43293192) - [Walt Disney's MultiPlane Camera (Filmed Feb. 13, 1957) [video]](https://www.youtube.com/watch?v=3YIR39KeJMk)
