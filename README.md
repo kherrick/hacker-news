@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-07, 07:01:05](https://news.ycombinator.com/item?id=43287860) - [Cargo (YC S23) Is Hiring](https://www.ycombinator.com/companies/cargo/jobs/hLc670b-founding-full-stack-ae-founding-ae)
-* [2025-03-07, 06:10:31](https://news.ycombinator.com/item?id=43287694) - [Bring Starlink on airplane in carry on, sell access?](https://news.ycombinator.com/item?id=43287694)
 * [2025-03-07, 05:25:38](https://news.ycombinator.com/item?id=43287563) - [Rules to improve air quality are under attack](https://www.heatpumped.org/p/you-put-your-pitchfork-away-already)
 * [2025-03-06, 23:43:37](https://news.ycombinator.com/item?id=43286161) - [Differentiable Logic Cellular Automata](https://google-research.github.io/self-organising-systems/difflogic-ca/?hn)
 * [2025-03-06, 23:31:13](https://news.ycombinator.com/item?id=43286091) - [InstantStyle: Free Lunch Towards Style-Preserving in Text-to-Image Generation](https://github.com/instantX-research/InstantStyle)
@@ -22,6 +21,7 @@
 * [2025-03-06, 16:37:34](https://news.ycombinator.com/item?id=43282133) - [Anime fans stumbled upon a mathematical proof](https://www.scientificamerican.com/article/the-surprisingly-difficult-mathematical-proof-that-anime-fans-helped-solve/)
 * [2025-03-06, 14:47:35](https://news.ycombinator.com/item?id=43280836) - [Launch HN: Cenote (YC W25) – Back Office Automation for Medical Clinics](https://news.ycombinator.com/item?id=43280836)
 * [2025-03-06, 14:30:10](https://news.ycombinator.com/item?id=43280615) - [Show HN: CodeTracer – A new time-traveling debugger implemented in Nim and Rust](https://github.com/metacraft-labs/codetracer)
+* [2025-03-06, 08:47:32](https://news.ycombinator.com/item?id=43277918) - [Revolt: Open-Source Alternative to Discord](https://revolt.chat)
 * [2025-03-04, 11:59:08](https://news.ycombinator.com/item?id=43253453) - [The British Navy Resisted a Decent Lightning Rod for Decades](https://spectrum.ieee.org/lightning-rod-2671217505)
 * [2025-03-04, 02:58:13](https://news.ycombinator.com/item?id=43249766) - [Words for the Heart: A treasury of emotions from classical India](https://www.bostonreview.net/articles/theres-a-word-for-that/)
 * [2025-03-03, 23:12:41](https://news.ycombinator.com/item?id=43247979) - [Ereader Easy Swedish. Tool I Made for Myself to Learn a Language](https://ereader-swedish.fly.dev/)
