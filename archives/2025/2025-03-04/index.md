@@ -25,6 +25,7 @@
 * [2025-03-04, 17:06:53](https://news.ycombinator.com/item?id=43257358) - [The Inspection Paradox is Everywhere (2015 (but still relevant))](http://allendowney.blogspot.com/2015/08/the-inspection-paradox-is-everywhere.html)
 * [2025-03-04, 17:04:17](https://news.ycombinator.com/item?id=43257323) - [Launch HN: Enhanced Radar (YC W25) – A safety net for air traffic control](https://news.ycombinator.com/item?id=43257323)
 * [2025-03-04, 17:00:34](https://news.ycombinator.com/item?id=43257268) - [Foundry (YC F24) Hiring Founding Engineer to Build an Internet-Scale Web Crawler](https://www.ycombinator.com/companies/foundry/jobs/xtwLIsF-founding-engineer-large-scale-web-scraping-crawling)
+* [2025-03-04, 16:13:26](https://news.ycombinator.com/item?id=43256595) - [Static Site Generator for Emacs Lisp Programmers](https://one.tonyaldon.com/)
 * [2025-03-04, 15:56:58](https://news.ycombinator.com/item?id=43256349) - [Satellogic's Open Satellite Feed](https://tech.marksblogg.com/satellogic-open-data-feed.html)
 * [2025-03-04, 15:54:30](https://news.ycombinator.com/item?id=43256298) - [The owner of ip4.me/ip6.me, Kevin Loch, passed away](https://ip4only.me/)
 * [2025-03-04, 15:41:12](https://news.ycombinator.com/item?id=43256113) - [Should Managers Still Code?](https://theengineeringmanager.substack.com/p/should-managers-still-code)
