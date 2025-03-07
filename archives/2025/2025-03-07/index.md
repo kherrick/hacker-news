@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-03-07](index.md)
 
+* [2025-03-07, 17:24:02](https://news.ycombinator.com/item?id=43292056) - [Introducing command And commandfor In HTML](https://developer.chrome.com/blog/command-and-commandfor)
+* [2025-03-07, 17:23:28](https://news.ycombinator.com/item?id=43292050) - [Optimistic Locking in B-Trees](https://cedardb.com/blog/optimistic_btrees/)
+* [2025-03-07, 17:23:05](https://news.ycombinator.com/item?id=43292045) - [Building your sense of what's important at a tech company](https://www.seangoedecke.com/what-is-important/)
 * [2025-03-07, 17:12:30](https://news.ycombinator.com/item?id=43291946) - [Vtm: Text-Based Desktop Environment](https://github.com/directvt/vtm)
+* [2025-03-07, 17:09:20](https://news.ycombinator.com/item?id=43291922) - [Do your eyes bug you even though your prescription is \"correct\"?](https://news.ycombinator.com/item?id=43291922)
 * [2025-03-07, 17:00:44](https://news.ycombinator.com/item?id=43291839) - [Kraftful (YC S19) is hiring a founding eng to support our hockey-stick growth](https://www.ycombinator.com/companies/kraftful/jobs/NdXFHyV-founding-engineer)
 * [2025-03-07, 16:44:20](https://news.ycombinator.com/item?id=43291678) - [Show HN: IEMidi –  Cross-platform MIDI map editor for arbitrary controllers](https://github.com/Interactive-Echoes/IEMidi)
 * [2025-03-07, 16:29:18](https://news.ycombinator.com/item?id=43291541) - [Why reading Martha C Nussbaum's philosophy is pure pleasure](https://aeon.co/essays/why-reading-martha-c-nussbaums-philosophy-is-pure-pleasure)
