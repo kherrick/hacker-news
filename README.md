@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-07, 08:39:07](https://news.ycombinator.com/item?id=43288341) - [Google begins testing AI-only search results](https://arstechnica.com/google/2025/03/google-is-expanding-ai-overviews-and-testing-ai-only-search-results/)
 * [2025-03-07, 08:27:22](https://news.ycombinator.com/item?id=43288255) - [US deploys AI to revoke visas of foreign nationals supporting Hamas: Report](https://www.cnbctv18.com/world/us-deploys-ai-to-revoke-visas-of-foreign-nationals-supporting-hamas-report-19570130.htm)
 * [2025-03-07, 07:01:05](https://news.ycombinator.com/item?id=43287860) - [Cargo (YC S23) Is Hiring](https://www.ycombinator.com/companies/cargo/jobs/hLc670b-founding-full-stack-ae-founding-ae)
 * [2025-03-07, 06:45:57](https://news.ycombinator.com/item?id=43287821) - [Ladder: Self-Improving LLMs Through Recursive Problem Decomposition](https://arxiv.org/abs/2503.00735)
@@ -8,7 +9,6 @@
 * [2025-03-06, 22:35:00](https://news.ycombinator.com/item?id=43285726) - [Why I find diffusion models interesting?](https://rnikhil.com/2025/03/06/diffusion-models-eval)
 * [2025-03-06, 22:34:54](https://news.ycombinator.com/item?id=43285725) - [Ask HN: How did the internet discover my subdomain?](https://news.ycombinator.com/item?id=43285725)
 * [2025-03-06, 22:28:01](https://news.ycombinator.com/item?id=43285671) - [How to distrust a CA without any certificate errors](https://dadrian.io/blog/posts/sct-not-after/)
-* [2025-03-06, 22:00:38](https://news.ycombinator.com/item?id=43285485) - [A brief meditation on formal systems and lying goblins](https://the-nerve-blog.ghost.io/a-brief-meditation-on-formal-systems-and-lying-goblins/)
 * [2025-03-06, 20:32:47](https://news.ycombinator.com/item?id=43284811) - [Show HN: Rust Vector and Quaternion Lib](https://github.com/David-OConnor/lin-alg)
 * [2025-03-06, 19:51:55](https://news.ycombinator.com/item?id=43284420) - [Using GRPO to Beat o1, o3-mini and R1 at \"Temporal Clue\"](https://openpipe.ai/blog/using-grpo-to-beat-o1-o3-mini-and-r1-on-temporal-clue)
 * [2025-03-06, 19:32:12](https://news.ycombinator.com/item?id=43284227) - [Show HN: Shelgon: A Framework for Building Interactive REPL Shells in Rust](https://github.com/NishantJoshi00/shelgon)
