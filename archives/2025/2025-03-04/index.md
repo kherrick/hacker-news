@@ -42,6 +42,7 @@
 * [2025-03-04, 14:55:14](https://news.ycombinator.com/item?id=43255446) - [DIY \"infinity contrast\" TV – with 100% recycled parts [video]](https://www.youtube.com/watch?v=qXrn4MqY1Wo)
 * [2025-03-04, 14:31:18](https://news.ycombinator.com/item?id=43255108) - [Tattoo ink exposure is associated with lymphoma and skin cancers](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-025-21413-3)
 * [2025-03-04, 14:24:49](https://news.ycombinator.com/item?id=43254995) - [What a Crab Sees Before It Gets Eaten by a Cuttlefish](https://www.nytimes.com/2025/03/03/science/cuttlefish-camouflage-huting-crabs.html)
+* [2025-03-04, 14:09:49](https://news.ycombinator.com/item?id=43254790) - [UEFI-Only Support for AMD Radeon RX 9000 Series Graphics and Later](https://www.amd.com/en/resources/support-articles/faqs/GPU-N4XCSM.html)
 * [2025-03-04, 14:02:18](https://news.ycombinator.com/item?id=43254714) - [Apple introduces iPad Air with powerful M3 chip and new Magic Keyboard](https://www.apple.com/newsroom/2025/03/apple-introduces-ipad-air-with-powerful-m3-chip-and-new-magic-keyboard/)
 * [2025-03-04, 13:57:20](https://news.ycombinator.com/item?id=43254637) - [Tesla electric car sales plunge again in Australia – Model 3 down more than 81 p](https://thedriven.io/2025/03/04/tesla-electric-car-sales-plunge-again-in-australia-model-3-down-more-than-81-per-cent/)
 * [2025-03-04, 13:50:26](https://news.ycombinator.com/item?id=43254552) - [Tips for using Gemini 2.0 for PDF ingestion](https://www.sergey.fyi/articles/gemini-flash-2-tips)
