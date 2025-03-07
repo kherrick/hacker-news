@@ -76,6 +76,7 @@
 * [2025-03-03, 08:44:06](https://news.ycombinator.com/item?id=43239699) - [Robust Wavefront OBJ model parsing in C](https://nullprogram.com/blog/2025/03/02/)
 * [2025-03-03, 08:26:15](https://news.ycombinator.com/item?id=43239573) - [IoT project using thermal sensors to monitor spaces](https://s2.dev/blog/iot)
 * [2025-03-03, 08:20:45](https://news.ycombinator.com/item?id=43239526) - [Phlex for Rails Emails: Action Mailer Without ERB](https://camillovisini.com/coding/phlex-for-rails-emails-action-mailer-without-erb)
+* [2025-03-03, 07:47:49](https://news.ycombinator.com/item?id=43239284) - [Discovery of fresco portraying Dionysian mysteries at Pompeii](https://pompeiisites.org/en/comunicati/pompeii-discovery-of-a-room-with-frescoes-depicting-the-initiation-into-the-mysteries-and-the-dionysiac-procession/)
 * [2025-03-03, 07:42:10](https://news.ycombinator.com/item?id=43239249) - [The top 10% owns 87% of the stocks](https://awealthofcommonsense.com/2025/02/the-top-10/)
 * [2025-03-03, 07:21:58](https://news.ycombinator.com/item?id=43239145) - [Permacomputing](https://permacomputing.net/)
 * [2025-03-03, 07:14:33](https://news.ycombinator.com/item?id=43239111) - [A float walks into a gradual type system](https://ruudvanasseldonk.com/2025/a-float-walks-into-a-gradual-type-system)
