@@ -43,6 +43,7 @@
 * [2025-03-03, 17:00:13](https://news.ycombinator.com/item?id=43243859) - [Keeling Labs (YC W23) Is Hiring an ML Engineer for Climate Tech (Los Angeles)](https://www.keelinglabs.com/jobs)
 * [2025-03-03, 16:51:33](https://news.ycombinator.com/item?id=43243716) - [The Golden Age of Japanese Pencils, 1952-1967](https://notes.stlartsupply.com/the-golden-age-of-japanese-pencils-1952-1967/)
 * [2025-03-03, 16:40:34](https://news.ycombinator.com/item?id=43243580) - [TSMC Expected to Announce $100B Investment in U.S.](https://www.wsj.com/tech/trump-chip-maker-tsmc-expected-to-announce-100-billion-investment-in-u-s-02a44399)
+* [2025-03-03, 16:40:00](https://news.ycombinator.com/item?id=43243569) - [Some Thoughts on Autoregressive Models](https://wonderfall.dev/autoregressive/)
 * [2025-03-03, 16:38:50](https://news.ycombinator.com/item?id=43243549) - [Go-attention: A full attention mechanism and transformer in pure Go](https://github.com/takara-ai/go-attention)
 * [2025-03-03, 16:17:24](https://news.ycombinator.com/item?id=43243247) - [First flat telescope lens that captures color, detecting light from stars](https://phys.org/news/2025-02-flat-telescope-lens-capture-faraway.html)
 * [2025-03-03, 16:10:28](https://news.ycombinator.com/item?id=43243153) - [Show HN: Open-Source Windows AI assistant that uses Word, Excel through COM](https://github.com/Alkali-Sim/SmartestKid)
