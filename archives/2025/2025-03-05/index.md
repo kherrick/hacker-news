@@ -83,6 +83,7 @@
 * [2025-03-05, 02:36:29](https://news.ycombinator.com/item?id=43261947) - [Mice exhibit paramedic-like behaviors toward unresponsive peers, study finds](https://medicalxpress.com/news/2025-02-mice-paramedic-behaviors-unresponsive-peers.html)
 * [2025-03-05, 02:35:47](https://news.ycombinator.com/item?id=43261941) - [The Demoralization is just Beginning](https://geohot.github.io//blog/jekyll/update/2025/03/03/demoralization-is-just-beginning.html)
 * [2025-03-05, 02:34:47](https://news.ycombinator.com/item?id=43261933) - [Brother may be locking out 3rd party printer cartridge via forced firmware upd](https://www.tomshardware.com/peripherals/printers/brother-accused-of-locking-down-third-party-printer-ink-cartridges-via-firmware-updates-removing-older-firmware-versions-from-support-portals)
+* [2025-03-05, 02:18:21](https://news.ycombinator.com/item?id=43261825) - [Integrated sensing and communication based on space-time-coding metasurfaces](https://www.nature.com/articles/s41467-025-57137-6)
 * [2025-03-05, 02:04:00](https://news.ycombinator.com/item?id=43261761) - [GSA prepares to sell over 400 federal properties](https://www.politico.com/news/2025/03/04/gsa-sell-400-federal-properties-00212071)
 * [2025-03-05, 01:58:11](https://news.ycombinator.com/item?id=43261729) - [Mox – modern, secure, all-in-one email server](https://www.xmox.nl/)
 * [2025-03-05, 01:41:14](https://news.ycombinator.com/item?id=43261650) - [Writing an LLM from scratch, part 8 – trainable self-attention](https://www.gilesthomas.com/2025/03/llm-from-scratch-8-trainable-self-attention)
