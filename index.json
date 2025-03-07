@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-07, 12:51:12",
+      "https://news.ycombinator.com/item?id=43289755"
+    ],
+    [
+      "A collection of website seizure banners created by government agencies",
+      "https://seized.fyi/"
+    ]
+  ],
+  [
+    [
+      "2025-03-07, 12:48:50",
+      "https://news.ycombinator.com/item?id=43289737"
+    ],
+    [
+      "When Europe needed it most, the Ariane 6 rocket delivered",
+      "https://arstechnica.com/space/2025/03/when-europe-needed-it-most-the-ariane-6-rocket-finally-delivered/"
+    ]
+  ],
+  [
+    [
       "2025-03-07, 12:00:01",
       "https://news.ycombinator.com/item?id=43289461"
     ],
@@ -77,16 +97,6 @@
     [
       "How to distrust a CA without any certificate errors",
       "https://dadrian.io/blog/posts/sct-not-after/"
-    ]
-  ],
-  [
-    [
-      "2025-03-06, 22:00:38",
-      "https://news.ycombinator.com/item?id=43285485"
-    ],
-    [
-      "A brief meditation on formal systems and lying goblins",
-      "https://the-nerve-blog.ghost.io/a-brief-meditation-on-formal-systems-and-lying-goblins/"
     ]
   ],
   [
@@ -221,22 +231,12 @@
   ],
   [
     [
-      "2025-03-06, 08:47:32",
-      "https://news.ycombinator.com/item?id=43277918"
+      "2025-03-04, 17:14:26",
+      "https://news.ycombinator.com/item?id=43257460"
     ],
     [
-      "Revolt: Open-Source Alternative to Discord",
-      "https://revolt.chat"
-    ]
-  ],
-  [
-    [
-      "2025-03-05, 19:34:23",
-      "https://news.ycombinator.com/item?id=43271177"
-    ],
-    [
-      "NCSC, GCHQ, UK Gov't expunge advice to \"use Apple encryption\"",
-      "https://alecmuffett.com/article/112522"
+      "Performance optimization, and how to do it wrong",
+      "https://genna.win/blog/convolution-simd/"
     ]
   ],
   [
