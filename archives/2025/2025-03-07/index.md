@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-07](index.md)
 
+* [2025-03-07, 16:29:18](https://news.ycombinator.com/item?id=43291541) - [Why reading Martha C Nussbaum's philosophy is pure pleasure](https://aeon.co/essays/why-reading-martha-c-nussbaums-philosophy-is-pure-pleasure)
 * [2025-03-07, 16:06:37](https://news.ycombinator.com/item?id=43291299) - [Laser-based device can scan almost any sample of gas and tell you what's in it](https://phys.org/news/2025-02-laser-based-device-scan-sample.html)
 * [2025-03-07, 16:01:52](https://news.ycombinator.com/item?id=43291247) - [Female brewers are back – 500 years since their heyday](https://www.telegraph.co.uk/food-and-drink/beer/female-brewers-are-back/)
 * [2025-03-07, 15:25:13](https://news.ycombinator.com/item?id=43290892) - [Betting on the Pope was the original prediction market](https://nodumbideas.com/p/betting-on-the-pope-was-the-original)
