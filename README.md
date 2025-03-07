@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-07, 16:06:37](https://news.ycombinator.com/item?id=43291299) - [Laser-based device can scan almost any sample of gas and tell you what's in it](https://phys.org/news/2025-02-laser-based-device-scan-sample.html)
+* [2025-03-07, 16:01:52](https://news.ycombinator.com/item?id=43291247) - [Female brewers are back – 500 years since their heyday](https://www.telegraph.co.uk/food-and-drink/beer/female-brewers-are-back/)
 * [2025-03-07, 15:25:13](https://news.ycombinator.com/item?id=43290892) - [Betting on the Pope was the original prediction market](https://nodumbideas.com/p/betting-on-the-pope-was-the-original)
 * [2025-03-07, 14:43:24](https://news.ycombinator.com/item?id=43290555) - [Strobelight: A profiling service built on open source technology](https://engineering.fb.com/2025/01/21/production-engineering/strobelight-a-profiling-service-built-on-open-source-technology/)
 * [2025-03-07, 12:00:01](https://news.ycombinator.com/item?id=43289461) - [Roame (YC S23) Is Hiring a Chief of Staff](https://www.ycombinator.com/companies/roame/jobs/OZI3czc-chief-of-staff)
@@ -24,10 +26,8 @@
 * [2025-03-04, 12:32:38](https://news.ycombinator.com/item?id=43253704) - [Speeding up computational lithography with the power and parallelism of GPUs](https://semiengineering.com/speeding-up-computational-lithography-with-the-power-and-parallelism-of-gpus/)
 * [2025-03-04, 10:51:59](https://news.ycombinator.com/item?id=43252994) - [Why Quantum Engineering Is Emerging as a Distinct Industrial Sector](https://spectrum.ieee.org/quantum-mechanics)
 * [2025-03-03, 23:12:41](https://news.ycombinator.com/item?id=43247979) - [Ereader Easy Swedish](https://ereader-swedish.fly.dev/)
-* [2025-03-03, 17:38:50](https://news.ycombinator.com/item?id=43244416) - [Cowboys and Drones: two modes of operation for small business](https://emeaentrepreneurs.com/anti/cowboys-and-drones/)
 * [2025-03-03, 16:40:00](https://news.ycombinator.com/item?id=43243569) - [Some thoughts on autoregressive models](https://wonderfall.dev/autoregressive/)
 * [2025-03-03, 16:06:51](https://news.ycombinator.com/item?id=43243110) - [A Scientific American bolt puzzle](https://leancrew.com/all-this/2025/03/a-sciam-bolt-puzzle/)
-* [2025-03-03, 13:39:04](https://news.ycombinator.com/item?id=43241589) - [Reintroductions of beavers into the wild in several parts of England](https://www.wildlifetrusts.org/news/beavers-are-coming-home)
 * [2025-03-03, 09:24:09](https://news.ycombinator.com/item?id=43239948) - [Windows 11 Insider Preview Build](https://blogs.windows.com/windows-insider/2025/02/21/announcing-windows-11-insider-preview-build-22635-4950-beta-channel/)
 * [2025-03-03, 07:47:49](https://news.ycombinator.com/item?id=43239284) - [Discovery of fresco portraying Dionysian mysteries at Pompeii](https://pompeiisites.org/en/comunicati/pompeii-discovery-of-a-room-with-frescoes-depicting-the-initiation-into-the-mysteries-and-the-dionysiac-procession/)
 
