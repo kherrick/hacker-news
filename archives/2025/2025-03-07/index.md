@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-07](index.md)
 
+* [2025-03-07, 11:16:41](https://news.ycombinator.com/item?id=43289245) - [Natural occurring molecule rivals Ozempic in weight loss, sidesteps side effects](https://medicalxpress.com/news/2025-03-naturally-molecule-rivals-ozempic-weight.html)
+* [2025-03-07, 11:12:05](https://news.ycombinator.com/item?id=43289226) - [Meta, Google, and Salesforce announce major layoffs in 2025](https://www.indmoney.com/blog/us-stocks/meta-google-salesforce-announce-layoffs-2025)
+* [2025-03-07, 10:35:02](https://news.ycombinator.com/item?id=43289022) - [How often are children genetically unrelated to their presumed fathers?](https://www.science.org/content/article/how-often-are-children-genetically-unrelated-their-presumed-fathers)
 * [2025-03-07, 10:06:38](https://news.ycombinator.com/item?id=43288861) - [Matters Computational Ideas, Algorithms, Source Code – Jorg Arndt [pdf]](https://www.jjj.de/fxt/fxtbook.pdf)
 * [2025-03-07, 09:36:22](https://news.ycombinator.com/item?id=43288660) - [Days Since Starship Exploded counter made it to 48. It's back to zero again now](https://www.theregister.com/2025/03/07/spacex_starship_mission_fail/)
 * [2025-03-07, 08:39:07](https://news.ycombinator.com/item?id=43288341) - [Google begins testing AI-only search results](https://arstechnica.com/google/2025/03/google-is-expanding-ai-overviews-and-testing-ai-only-search-results/)
