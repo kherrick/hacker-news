@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-07](index.md)
 
+* [2025-03-07, 18:06:45](https://news.ycombinator.com/item?id=43292471) - [Athena spacecraft declared dead after toppling over on moon](https://www.theguardian.com/science/2025/mar/07/athena-spacecraft-mission-dead)
 * [2025-03-07, 17:24:26](https://news.ycombinator.com/item?id=43292058) - [Show HN: A big tech dev experience for an open source CMS](https://contentfoundry.com/)
 * [2025-03-07, 17:24:02](https://news.ycombinator.com/item?id=43292056) - [Introducing command And commandfor In HTML](https://developer.chrome.com/blog/command-and-commandfor)
 * [2025-03-07, 17:23:28](https://news.ycombinator.com/item?id=43292050) - [Optimistic Locking in B-Trees](https://cedardb.com/blog/optimistic_btrees/)
