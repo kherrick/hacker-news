@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-07](index.md)
 
+* [2025-03-07, 17:12:30](https://news.ycombinator.com/item?id=43291946) - [Vtm: Text-Based Desktop Environment](https://github.com/directvt/vtm)
+* [2025-03-07, 17:00:44](https://news.ycombinator.com/item?id=43291839) - [Kraftful (YC S19) is hiring a founding eng to support our hockey-stick growth](https://www.ycombinator.com/companies/kraftful/jobs/NdXFHyV-founding-engineer)
+* [2025-03-07, 16:44:20](https://news.ycombinator.com/item?id=43291678) - [Show HN: IEMidi –  Cross-platform MIDI map editor for arbitrary controllers](https://github.com/Interactive-Echoes/IEMidi)
 * [2025-03-07, 16:29:18](https://news.ycombinator.com/item?id=43291541) - [Why reading Martha C Nussbaum's philosophy is pure pleasure](https://aeon.co/essays/why-reading-martha-c-nussbaums-philosophy-is-pure-pleasure)
 * [2025-03-07, 16:06:37](https://news.ycombinator.com/item?id=43291299) - [Laser-based device can scan almost any sample of gas and tell you what's in it](https://phys.org/news/2025-02-laser-based-device-scan-sample.html)
 * [2025-03-07, 16:01:52](https://news.ycombinator.com/item?id=43291247) - [Female brewers are back – 500 years since their heyday](https://www.telegraph.co.uk/food-and-drink/beer/female-brewers-are-back/)

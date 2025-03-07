@@ -34,6 +34,7 @@
 * [2025-03-04, 15:27:01](https://news.ycombinator.com/item?id=43255895) - [Ride into the Future with Waymo on Uber in Austin](https://www.uber.com/newsroom/waymo-on-uber-austin/)
 * [2025-03-04, 15:26:28](https://news.ycombinator.com/item?id=43255885) - [Now Available: Depot Registry](https://depot.dev/blog/introducing-depot-registry)
 * [2025-03-04, 15:24:32](https://news.ycombinator.com/item?id=43255855) - [Show HN: Appstat – Process Monitor for Windows](https://pragmar.com/appstat/)
+* [2025-03-04, 15:19:23](https://news.ycombinator.com/item?id=43255789) - [Google change is breaking some digital photo frames](https://www.theverge.com/news/623306/google-photos-digital-photo-frame-auto-sync-going-away)
 * [2025-03-04, 15:02:39](https://news.ycombinator.com/item?id=43255556) - [Father tries to block daughter's euthanasia in landmark Spanish case](https://www.bbc.com/news/articles/crrdqdky9gxo)
 * [2025-03-04, 15:00:51](https://news.ycombinator.com/item?id=43255529) - [Bayleaf · Building a low-profile wireless split keyboard](https://www.graz.io/articles/bayleaf-wireless-keyboard)
 * [2025-03-04, 14:57:06](https://news.ycombinator.com/item?id=43255467) - [DiffRhythm: Fast End-to-End Full-Length Song Generation with Latent Diffusion](https://aslp-lab.github.io/DiffRhythm.github.io/)
