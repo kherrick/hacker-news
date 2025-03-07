@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-07, 08:10:18](https://news.ycombinator.com/item?id=43288164) - [40% of Britons haven't read a single book in the last 12 months](https://yougov.co.uk/entertainment/articles/51730-40-of-britons-havent-read-a-single-book-in-the-last-12-months)
+* [2025-03-07, 08:27:22](https://news.ycombinator.com/item?id=43288255) - [US deploys AI to revoke visas of foreign nationals supporting Hamas: Report](https://www.cnbctv18.com/world/us-deploys-ai-to-revoke-visas-of-foreign-nationals-supporting-hamas-report-19570130.htm)
 * [2025-03-07, 07:01:05](https://news.ycombinator.com/item?id=43287860) - [Cargo (YC S23) Is Hiring](https://www.ycombinator.com/companies/cargo/jobs/hLc670b-founding-full-stack-ae-founding-ae)
 * [2025-03-07, 06:45:57](https://news.ycombinator.com/item?id=43287821) - [Ladder: Self-Improving LLMs Through Recursive Problem Decomposition](https://arxiv.org/abs/2503.00735)
-* [2025-03-07, 03:11:58](https://news.ycombinator.com/item?id=43287121) - [Google Analytics Opt-Out Browser Add-On](https://tools.google.com/dlpage/gaoptout)
 * [2025-03-06, 23:43:37](https://news.ycombinator.com/item?id=43286161) - [Differentiable Logic Cellular Automata](https://google-research.github.io/self-organising-systems/difflogic-ca/?hn)
 * [2025-03-06, 23:31:13](https://news.ycombinator.com/item?id=43286091) - [InstantStyle: Free Lunch Towards Style-Preserving in Text-to-Image Generation](https://github.com/instantX-research/InstantStyle)
 * [2025-03-06, 22:35:00](https://news.ycombinator.com/item?id=43285726) - [Why I find diffusion models interesting?](https://rnikhil.com/2025/03/06/diffusion-models-eval)
@@ -19,6 +18,7 @@
 * [2025-03-06, 18:20:48](https://news.ycombinator.com/item?id=43283317) - [Show HN: Open-source, native audio turn detection model](https://github.com/pipecat-ai/smart-turn)
 * [2025-03-06, 17:48:37](https://news.ycombinator.com/item?id=43282995) - [Succinct Data Structures](https://blog.startifact.com/posts/succinct/)
 * [2025-03-06, 17:39:39](https://news.ycombinator.com/item?id=43282905) - [Mistral OCR](https://mistral.ai/fr/news/mistral-ocr)
+* [2025-03-06, 17:19:44](https://news.ycombinator.com/item?id=43282668) - [56k modems relied on digital trunk lines](https://hackaday.com/2025/03/06/why-56k-modems-relied-on-digital-phone-lines-you-didnt-know-we-had/)
 * [2025-03-06, 16:37:34](https://news.ycombinator.com/item?id=43282133) - [Anime fans stumbled upon a mathematical proof](https://www.scientificamerican.com/article/the-surprisingly-difficult-mathematical-proof-that-anime-fans-helped-solve/)
 * [2025-03-06, 14:30:10](https://news.ycombinator.com/item?id=43280615) - [Show HN: CodeTracer – A new time-traveling debugger implemented in Nim and Rust](https://github.com/metacraft-labs/codetracer)
 * [2025-03-04, 11:59:08](https://news.ycombinator.com/item?id=43253453) - [The British Navy Resisted a Decent Lightning Rod for Decades](https://spectrum.ieee.org/lightning-rod-2671217505)
