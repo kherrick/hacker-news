@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-07](index.md)
 
+* [2025-03-07, 18:44:34](https://news.ycombinator.com/item?id=43292946) - [Microsoft is plotting a future without OpenAI](https://techstartups.com/2025/03/07/microsoft-is-plotting-a-future-without-openai/)
+* [2025-03-07, 18:42:41](https://news.ycombinator.com/item?id=43292920) - [WB offers replacements, but no refunds, for DVDs rotting prematurely](https://arstechnica.com/gadgets/2025/03/they-curdle-like-milk-wb-dvds-from-2006-2008-are-rotting-away-in-their-cases/)
+* [2025-03-07, 18:34:02](https://news.ycombinator.com/item?id=43292820) - [First Porn, Now Skin Cream? 'Age Verification' Bills Are Out of Control](https://www.eff.org/deeplinks/2025/03/first-porn-now-skin-cream-age-verification-bills-are-out-control)
 * [2025-03-07, 18:29:34](https://news.ycombinator.com/item?id=43292750) - [AMD YOLO](https://geohot.github.io//blog/jekyll/update/2025/03/08/AMD-YOLO.html)
 * [2025-03-07, 18:06:45](https://news.ycombinator.com/item?id=43292471) - [Athena spacecraft declared dead after toppling over on moon](https://www.theguardian.com/science/2025/mar/07/athena-spacecraft-mission-dead)
 * [2025-03-07, 17:51:12](https://news.ycombinator.com/item?id=43292320) - [What if America turned off Britain's weapons?](https://www.reaction.life/p/what-if-america-turned-off-britains)
