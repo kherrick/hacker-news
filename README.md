@@ -22,12 +22,12 @@
 * [2025-03-07, 10:06:38](https://news.ycombinator.com/item?id=43288861) - [Matters Computational (2010) [pdf]](https://www.jjj.de/fxt/fxtbook.pdf)
 * [2025-03-07, 06:45:57](https://news.ycombinator.com/item?id=43287821) - [Ladder: Self-improving LLMs through recursive problem decomposition](https://arxiv.org/abs/2503.00735)
 * [2025-03-06, 23:43:37](https://news.ycombinator.com/item?id=43286161) - [Differentiable Logic Cellular Automata](https://google-research.github.io/self-organising-systems/difflogic-ca/?hn)
+* [2025-03-06, 22:28:01](https://news.ycombinator.com/item?id=43285671) - [How to distrust a CA without any certificate errors](https://dadrian.io/blog/posts/sct-not-after/)
 * [2025-03-06, 19:51:55](https://news.ycombinator.com/item?id=43284420) - [Using GRPO to Beat o1, o3-mini and R1 at “Temporal Clue”](https://openpipe.ai/blog/using-grpo-to-beat-o1-o3-mini-and-r1-on-temporal-clue)
 * [2025-03-06, 17:39:39](https://news.ycombinator.com/item?id=43282905) - [Mistral OCR](https://mistral.ai/fr/news/mistral-ocr)
 * [2025-03-05, 14:07:24](https://news.ycombinator.com/item?id=43266546) - [The features of Python's help() function](https://www.pythonmorsels.com/help-features/)
 * [2025-03-04, 22:00:08](https://news.ycombinator.com/item?id=43260251) - [Show HN: I Built a Telegraph Simulator](https://telegraph.13ug1mb.com)
 * [2025-03-04, 17:14:26](https://news.ycombinator.com/item?id=43257460) - [Performance optimization, and how to do it wrong](https://genna.win/blog/convolution-simd/)
-* [2025-03-04, 10:51:59](https://news.ycombinator.com/item?id=43252994) - [Why Quantum Engineering Is Emerging as a Distinct Industrial Sector](https://spectrum.ieee.org/quantum-mechanics)
 * [2025-03-03, 16:06:51](https://news.ycombinator.com/item?id=43243110) - [A Scientific American bolt puzzle](https://leancrew.com/all-this/2025/03/a-sciam-bolt-puzzle/)
 * [2025-03-03, 07:47:49](https://news.ycombinator.com/item?id=43239284) - [Discovery of fresco portraying Dionysian mysteries at Pompeii](https://pompeiisites.org/en/comunicati/pompeii-discovery-of-a-room-with-frescoes-depicting-the-initiation-into-the-mysteries-and-the-dionysiac-procession/)
 
