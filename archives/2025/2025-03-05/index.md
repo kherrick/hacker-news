@@ -50,6 +50,7 @@
 * [2025-03-05, 15:29:56](https://news.ycombinator.com/item?id=43267857) - [Design and Explore Noise Handshake Patterns (2018)](https://noiseexplorer.com/)
 * [2025-03-05, 14:44:04](https://news.ycombinator.com/item?id=43267095) - [Things we've learned about building successful products](https://newsletter.posthog.com/p/50-things-weve-learned-about-building)
 * [2025-03-05, 14:12:05](https://news.ycombinator.com/item?id=43266608) - [I built an extension that lets you extract text from anywhere to your clipboard](https://chromewebstore.google.com/detail/esticra/nenfeobdiiiblnnlfoadbjabdeochjmn?hl=en)
+* [2025-03-05, 14:07:24](https://news.ycombinator.com/item?id=43266546) - [The features of Python's help() function](https://www.pythonmorsels.com/help-features/)
 * [2025-03-05, 14:06:54](https://news.ycombinator.com/item?id=43266537) - [MacBook Air M4](https://www.apple.com/macbook-air/)
 * [2025-03-05, 14:03:06](https://news.ycombinator.com/item?id=43266494) - [Jamming: Polish researchers suspect GPS jammers on ships in the Baltic Sea](https://www.heise.de/en/news/Jamming-Polish-researchers-suspect-GPS-jammers-on-ships-in-the-Baltic-Sea-10304169.html)
 * [2025-03-05, 14:00:57](https://news.ycombinator.com/item?id=43266474) - [Apple unveils new Mac Studio, the most powerful Mac ever, featuring M4 Max](https://www.apple.com/newsroom/2025/03/apple-unveils-new-mac-studio-the-most-powerful-mac-ever/)
