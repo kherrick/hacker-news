@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-07, 14:43:24",
+      "https://news.ycombinator.com/item?id=43290555"
+    ],
+    [
+      "Strobelight: A profiling service built on open source technology",
+      "https://engineering.fb.com/2025/01/21/production-engineering/strobelight-a-profiling-service-built-on-open-source-technology/"
+    ]
+  ],
+  [
+    [
       "2025-03-07, 12:00:01",
       "https://news.ycombinator.com/item?id=43289461"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=43287821"
     ],
     [
-      "Ladder: Self-Improving LLMs Through Recursive Problem Decomposition",
+      "Ladder: Self-improving LLMs through recursive problem decomposition",
       "https://arxiv.org/abs/2503.00735"
     ]
   ],
@@ -77,16 +87,6 @@
     [
       "How to distrust a CA without any certificate errors",
       "https://dadrian.io/blog/posts/sct-not-after/"
-    ]
-  ],
-  [
-    [
-      "2025-03-06, 22:00:38",
-      "https://news.ycombinator.com/item?id=43285485"
-    ],
-    [
-      "A brief meditation on formal systems and lying goblins",
-      "https://the-nerve-blog.ghost.io/a-brief-meditation-on-formal-systems-and-lying-goblins/"
     ]
   ],
   [
@@ -201,32 +201,12 @@
   ],
   [
     [
-      "2025-03-06, 14:47:35",
-      "https://news.ycombinator.com/item?id=43280836"
-    ],
-    [
-      "Launch HN: Cenote (YC W25) – Back Office Automation for Medical Clinics",
-      "https://news.ycombinator.com/item?id=43280836"
-    ]
-  ],
-  [
-    [
       "2025-03-06, 14:30:10",
       "https://news.ycombinator.com/item?id=43280615"
     ],
     [
       "Show HN: CodeTracer – A new time-traveling debugger implemented in Nim and Rust",
       "https://github.com/metacraft-labs/codetracer"
-    ]
-  ],
-  [
-    [
-      "2025-03-05, 19:34:23",
-      "https://news.ycombinator.com/item?id=43271177"
-    ],
-    [
-      "NCSC, GCHQ, UK Gov't expunge advice to \"use Apple encryption\"",
-      "https://alecmuffett.com/article/112522"
     ]
   ],
   [
@@ -255,7 +235,7 @@
       "https://news.ycombinator.com/item?id=43247979"
     ],
     [
-      "Ereader Easy Swedish. Tool I Made for Myself to Learn a Language",
+      "Ereader Easy Swedish",
       "https://ereader-swedish.fly.dev/"
     ]
   ],
@@ -275,8 +255,18 @@
       "https://news.ycombinator.com/item?id=43243569"
     ],
     [
-      "Some Thoughts on Autoregressive Models",
+      "Some thoughts on autoregressive models",
       "https://wonderfall.dev/autoregressive/"
+    ]
+  ],
+  [
+    [
+      "2025-03-03, 16:06:51",
+      "https://news.ycombinator.com/item?id=43243110"
+    ],
+    [
+      "A Scientific American bolt puzzle",
+      "https://leancrew.com/all-this/2025/03/a-sciam-bolt-puzzle/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Reintroductions of beavers into the wild in several parts of England",
       "https://www.wildlifetrusts.org/news/beavers-are-coming-home"
+    ]
+  ],
+  [
+    [
+      "2025-03-03, 09:24:09",
+      "https://news.ycombinator.com/item?id=43239948"
+    ],
+    [
+      "Windows 11 Insider Preview Build",
+      "https://blogs.windows.com/windows-insider/2025/02/21/announcing-windows-11-insider-preview-build-22635-4950-beta-channel/"
     ]
   ],
   [
