@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-07, 15:25:13](https://news.ycombinator.com/item?id=43290892) - [Betting on the Pope was the original prediction market](https://nodumbideas.com/p/betting-on-the-pope-was-the-original)
 * [2025-03-07, 14:43:24](https://news.ycombinator.com/item?id=43290555) - [Strobelight: A profiling service built on open source technology](https://engineering.fb.com/2025/01/21/production-engineering/strobelight-a-profiling-service-built-on-open-source-technology/)
 * [2025-03-07, 12:00:01](https://news.ycombinator.com/item?id=43289461) - [Roame (YC S23) Is Hiring a Chief of Staff](https://www.ycombinator.com/companies/roame/jobs/OZI3czc-chief-of-staff)
 * [2025-03-07, 11:16:41](https://news.ycombinator.com/item?id=43289245) - [Natural occurring molecule rivals Ozempic in weight loss, sidesteps side effects](https://medicalxpress.com/news/2025-03-naturally-molecule-rivals-ozempic-weight.html)
@@ -11,7 +12,6 @@
 * [2025-03-06, 22:28:01](https://news.ycombinator.com/item?id=43285671) - [How to distrust a CA without any certificate errors](https://dadrian.io/blog/posts/sct-not-after/)
 * [2025-03-06, 20:32:47](https://news.ycombinator.com/item?id=43284811) - [Show HN: Rust Vector and Quaternion Lib](https://github.com/David-OConnor/lin-alg)
 * [2025-03-06, 19:51:55](https://news.ycombinator.com/item?id=43284420) - [Using GRPO to Beat o1, o3-mini and R1 at “Temporal Clue”](https://openpipe.ai/blog/using-grpo-to-beat-o1-o3-mini-and-r1-on-temporal-clue)
-* [2025-03-06, 19:32:12](https://news.ycombinator.com/item?id=43284227) - [Show HN: Shelgon: A Framework for Building Interactive REPL Shells in Rust](https://github.com/NishantJoshi00/shelgon)
 * [2025-03-06, 19:04:12](https://news.ycombinator.com/item?id=43283917) - [Rayhunter – Rust tool to detect cell site simulators on an orbic mobile hotspot](https://github.com/EFForg/rayhunter)
 * [2025-03-06, 18:45:47](https://news.ycombinator.com/item?id=43283669) - [Warewulf is a stateless and diskless container OS provisioning system](https://github.com/warewulf/warewulf)
 * [2025-03-06, 18:34:11](https://news.ycombinator.com/item?id=43283498) - [50 Years in Filesystems: 1984](https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html)
