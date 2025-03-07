@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-07](index.md)
 
+* [2025-03-07, 17:24:26](https://news.ycombinator.com/item?id=43292058) - [Show HN: A big tech dev experience for an open source CMS](https://contentfoundry.com/)
 * [2025-03-07, 17:24:02](https://news.ycombinator.com/item?id=43292056) - [Introducing command And commandfor In HTML](https://developer.chrome.com/blog/command-and-commandfor)
 * [2025-03-07, 17:23:28](https://news.ycombinator.com/item?id=43292050) - [Optimistic Locking in B-Trees](https://cedardb.com/blog/optimistic_btrees/)
 * [2025-03-07, 17:23:05](https://news.ycombinator.com/item?id=43292045) - [Building your sense of what's important at a tech company](https://www.seangoedecke.com/what-is-important/)

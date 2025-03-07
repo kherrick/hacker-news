@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-07, 17:24:26](https://news.ycombinator.com/item?id=43292058) - [Show HN: A big tech dev experience for an open source CMS](https://contentfoundry.com/)
 * [2025-03-07, 17:24:02](https://news.ycombinator.com/item?id=43292056) - [Introducing command And commandfor In HTML](https://developer.chrome.com/blog/command-and-commandfor)
 * [2025-03-07, 17:23:28](https://news.ycombinator.com/item?id=43292050) - [Optimistic Locking in B-Trees](https://cedardb.com/blog/optimistic_btrees/)
 * [2025-03-07, 17:12:30](https://news.ycombinator.com/item?id=43291946) - [Vtm: Text-Based Desktop Environment](https://github.com/directvt/vtm)
@@ -14,7 +15,6 @@
 * [2025-03-07, 10:06:38](https://news.ycombinator.com/item?id=43288861) - [Matters Computational (2010) [pdf]](https://www.jjj.de/fxt/fxtbook.pdf)
 * [2025-03-07, 06:45:57](https://news.ycombinator.com/item?id=43287821) - [Ladder: Self-improving LLMs through recursive problem decomposition](https://arxiv.org/abs/2503.00735)
 * [2025-03-06, 23:43:37](https://news.ycombinator.com/item?id=43286161) - [Differentiable Logic Cellular Automata](https://google-research.github.io/self-organising-systems/difflogic-ca/?hn)
-* [2025-03-06, 22:34:54](https://news.ycombinator.com/item?id=43285725) - [Ask HN: How did the internet discover my subdomain?](https://news.ycombinator.com/item?id=43285725)
 * [2025-03-06, 22:28:01](https://news.ycombinator.com/item?id=43285671) - [How to distrust a CA without any certificate errors](https://dadrian.io/blog/posts/sct-not-after/)
 * [2025-03-06, 20:32:47](https://news.ycombinator.com/item?id=43284811) - [Show HN: Rust Vector and Quaternion Lib](https://github.com/David-OConnor/lin-alg)
 * [2025-03-06, 19:51:55](https://news.ycombinator.com/item?id=43284420) - [Using GRPO to Beat o1, o3-mini and R1 at “Temporal Clue”](https://openpipe.ai/blog/using-grpo-to-beat-o1-o3-mini-and-r1-on-temporal-clue)
@@ -27,7 +27,7 @@
 * [2025-03-04, 12:32:38](https://news.ycombinator.com/item?id=43253704) - [Speeding up computational lithography with the power and parallelism of GPUs](https://semiengineering.com/speeding-up-computational-lithography-with-the-power-and-parallelism-of-gpus/)
 * [2025-03-04, 10:51:59](https://news.ycombinator.com/item?id=43252994) - [Why Quantum Engineering Is Emerging as a Distinct Industrial Sector](https://spectrum.ieee.org/quantum-mechanics)
 * [2025-03-03, 23:12:41](https://news.ycombinator.com/item?id=43247979) - [Ereader Easy Swedish](https://ereader-swedish.fly.dev/)
-* [2025-03-03, 16:40:00](https://news.ycombinator.com/item?id=43243569) - [Some thoughts on autoregressive models](https://wonderfall.dev/autoregressive/)
+* [2025-03-03, 20:20:22](https://news.ycombinator.com/item?id=43246206) - [Anthropic raises $3.5B at $61.5B valuation](https://www.nytimes.com/2025/03/03/technology/anthropic-ai-fund-raising-61-billion.html)
 * [2025-03-03, 16:06:51](https://news.ycombinator.com/item?id=43243110) - [A Scientific American bolt puzzle](https://leancrew.com/all-this/2025/03/a-sciam-bolt-puzzle/)
 * [2025-03-03, 07:47:49](https://news.ycombinator.com/item?id=43239284) - [Discovery of fresco portraying Dionysian mysteries at Pompeii](https://pompeiisites.org/en/comunicati/pompeii-discovery-of-a-room-with-frescoes-depicting-the-initiation-into-the-mysteries-and-the-dionysiac-procession/)
 

@@ -14,6 +14,7 @@
 * [2025-03-03, 20:41:58](https://news.ycombinator.com/item?id=43246438) - [Tianjin Robot Incident Raises Alarm over Public Safety and Robotics](https://www.businesskorea.co.kr/news/articleView.html?idxno=236533)
 * [2025-03-03, 20:38:23](https://news.ycombinator.com/item?id=43246403) - [Windows Is Free for Business (2008)](https://davegutteridge.com/windows_is_free_for_business)
 * [2025-03-03, 20:35:31](https://news.ycombinator.com/item?id=43246371) - [Atlanta Fed predicts -2.8% GDP](https://www.atlantafed.org/cqer/research/gdpnow)
+* [2025-03-03, 20:20:22](https://news.ycombinator.com/item?id=43246206) - [Anthropic raises $3.5B at $61.5B valuation](https://www.nytimes.com/2025/03/03/technology/anthropic-ai-fund-raising-61-billion.html)
 * [2025-03-03, 19:26:19](https://news.ycombinator.com/item?id=43245674) - [PFAS in fertilisers blamed for killing livestock in Texas and wreaking havoc](https://www.chemistryworld.com/news/pfas-in-fertilisers-blamed-for-killing-livestock-in-texas-and-wreaking-havoc/4020874.article)
 * [2025-03-03, 19:08:22](https://news.ycombinator.com/item?id=43245463) - [Send Data with Sound](https://github.com/solst-ice/chirp)
 * [2025-03-03, 19:07:19](https://news.ycombinator.com/item?id=43245453) - [Treasury Announces Suspension of Enforcement of Corporate Transparency Act](https://home.treasury.gov/news/press-releases/sb0038)
