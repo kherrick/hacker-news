@@ -6,6 +6,7 @@
 
 * [2025-03-07, 21:05:38](https://news.ycombinator.com/item?id=43294652) - [The sudden rise of AuDHD: autism and ADHD (2024)](https://www.theguardian.com/lifeandstyle/2024/apr/04/audhd-what-is-behind-rocketing-rates-life-changing-diagnosis)
 * [2025-03-07, 21:01:16](https://news.ycombinator.com/item?id=43294602) - [ParadeDB (YC S23) Is Hiring Rust Database Engineer](https://paradedb.notion.site/ParadeDB-Job-Board-50b45af7a2834e22958b171ffa008e00)
+* [2025-03-07, 20:57:46](https://news.ycombinator.com/item?id=43294566) - [Polars Cloud: The Distributed Cloud Architecture to Run Polars Anywhere](https://pola.rs/posts/polars-cloud-what-we-are-building/)
 * [2025-03-07, 19:40:59](https://news.ycombinator.com/item?id=43293646) - [No one asked for this: Google is testing round keys in Gboard](https://arstechnica.com/google/2025/03/no-one-asked-for-this-google-is-testing-round-keys-in-gboard/)
 * [2025-03-07, 19:35:20](https://news.ycombinator.com/item?id=43293573) - [The Take It Down Act isn't a law, it's a weapon](https://www.theverge.com/policy/624974/take-it-down-act-deepfakes-nonconsensual-pornography-trump-constitutional-crisis)
 * [2025-03-07, 19:30:56](https://news.ycombinator.com/item?id=43293517) - [Kennedy and influencers bash seed oils, baffling nutrition scientists](https://apnews.com/article/seed-oil-beef-tallow-kennedy-4fdf0f30134277fd6dd20b4ede789295)

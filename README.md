@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-07, 21:05:38](https://news.ycombinator.com/item?id=43294652) - [The sudden rise of AuDHD: autism and ADHD (2024)](https://www.theguardian.com/lifeandstyle/2024/apr/04/audhd-what-is-behind-rocketing-rates-life-changing-diagnosis)
 * [2025-03-07, 21:01:16](https://news.ycombinator.com/item?id=43294602) - [ParadeDB (YC S23) Is Hiring Rust Database Engineer](https://paradedb.notion.site/ParadeDB-Job-Board-50b45af7a2834e22958b171ffa008e00)
+* [2025-03-07, 20:57:46](https://news.ycombinator.com/item?id=43294566) - [Polars Cloud: The Distributed Cloud Architecture to Run Polars Anywhere](https://pola.rs/posts/polars-cloud-what-we-are-building/)
 * [2025-03-07, 19:28:31](https://news.ycombinator.com/item?id=43293487) - [Europe's most wanted man plotted my murder and that of my colleague](https://theins.press/en/inv/279034)
 * [2025-03-07, 19:01:30](https://news.ycombinator.com/item?id=43293121) - [Moscow-based global news network has infected Western AI tools](https://www.newsguardrealitycheck.com/p/a-well-funded-moscow-based-global)
 * [2025-03-07, 18:44:34](https://news.ycombinator.com/item?id=43292946) - [Microsoft is plotting a future without OpenAI](https://techstartups.com/2025/03/07/microsoft-is-plotting-a-future-without-openai/)
