@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-07, 08:39:07](https://news.ycombinator.com/item?id=43288341) - [Google begins testing AI-only search results](https://arstechnica.com/google/2025/03/google-is-expanding-ai-overviews-and-testing-ai-only-search-results/)
-* [2025-03-07, 08:27:22](https://news.ycombinator.com/item?id=43288255) - [US deploys AI to revoke visas of foreign nationals supporting Hamas: Report](https://www.cnbctv18.com/world/us-deploys-ai-to-revoke-visas-of-foreign-nationals-supporting-hamas-report-19570130.htm)
 * [2025-03-07, 08:08:35](https://news.ycombinator.com/item?id=43288156) - [Bye, Prime](https://www.tbray.org/ongoing/When/202x/2025/03/06/Canceled-Prime)
 * [2025-03-07, 07:30:40](https://news.ycombinator.com/item?id=43287963) - [Shares of Starlink's European rival Eutelsat have tripled](https://www.marketwatch.com/story/shares-of-starlinks-european-competitor-have-tripled-ceo-says-it-can-do-the-job-in-ukraine-f5e4e1ac)
 * [2025-03-07, 07:01:05](https://news.ycombinator.com/item?id=43287860) - [Cargo (YC S23) Is Hiring](https://www.ycombinator.com/companies/cargo/jobs/hLc670b-founding-full-stack-ae-founding-ae)
@@ -28,6 +27,7 @@
 * [2025-03-03, 18:58:50](https://news.ycombinator.com/item?id=43245361) - [Show HN: I built a Matrix themed AI hacking game](https://matrix.repello.ai)
 * [2025-03-03, 17:38:50](https://news.ycombinator.com/item?id=43244416) - [Cowboys and Drones: two modes of operation for small business](https://emeaentrepreneurs.com/anti/cowboys-and-drones/)
 * [2025-03-03, 16:40:00](https://news.ycombinator.com/item?id=43243569) - [Some Thoughts on Autoregressive Models](https://wonderfall.dev/autoregressive/)
+* [2025-03-03, 13:39:04](https://news.ycombinator.com/item?id=43241589) - [Reintroductions of beavers into the wild in several parts of England](https://www.wildlifetrusts.org/news/beavers-are-coming-home)
 * [2025-03-03, 09:24:09](https://news.ycombinator.com/item?id=43239948) - [Windows 11 Insider Preview Build](https://blogs.windows.com/windows-insider/2025/02/21/announcing-windows-11-insider-preview-build-22635-4950-beta-channel/)
 * [2025-03-03, 07:47:49](https://news.ycombinator.com/item?id=43239284) - [Discovery of fresco portraying Dionysian mysteries at Pompeii](https://pompeiisites.org/en/comunicati/pompeii-discovery-of-a-room-with-frescoes-depicting-the-initiation-into-the-mysteries-and-the-dionysiac-procession/)
 
