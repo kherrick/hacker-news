@@ -17,6 +17,7 @@
 * [2025-03-03, 19:26:19](https://news.ycombinator.com/item?id=43245674) - [PFAS in fertilisers blamed for killing livestock in Texas and wreaking havoc](https://www.chemistryworld.com/news/pfas-in-fertilisers-blamed-for-killing-livestock-in-texas-and-wreaking-havoc/4020874.article)
 * [2025-03-03, 19:08:22](https://news.ycombinator.com/item?id=43245463) - [Send Data with Sound](https://github.com/solst-ice/chirp)
 * [2025-03-03, 19:07:19](https://news.ycombinator.com/item?id=43245453) - [Treasury Announces Suspension of Enforcement of Corporate Transparency Act](https://home.treasury.gov/news/press-releases/sb0038)
+* [2025-03-03, 18:58:50](https://news.ycombinator.com/item?id=43245361) - [Show HN: I built a Matrix themed AI hacking game](https://matrix.repello.ai)
 * [2025-03-03, 18:54:08](https://news.ycombinator.com/item?id=43245315) - [One Logo, Three Companies](https://estilofilos.blogspot.com/2016/03/one-logo-three-companies-i.html)
 * [2025-03-03, 18:45:42](https://news.ycombinator.com/item?id=43245235) - [How the U.K. broke its own economy](https://www.theatlantic.com/ideas/archive/2025/03/uk-needs-abundance/681877/)
 * [2025-03-03, 18:41:37](https://news.ycombinator.com/item?id=43245172) - [Solving First Order Differential Equations with Julia](https://ritog.github.io/posts/1st-order-DE-julia/1st_order_DE_julia.html)
