@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-07](index.md)
 
+* [2025-03-07, 21:19:23](https://news.ycombinator.com/item?id=43294816) - [Monotype and Phototypesetting (2000) [pdf]](https://web.archive.org/web/20040305094501/http://www.letterpress.ch/APINET/IMMPDF/MONOPHOTO/PHS_journal.pdf)
 * [2025-03-07, 21:05:38](https://news.ycombinator.com/item?id=43294652) - [The sudden rise of AuDHD: autism and ADHD (2024)](https://www.theguardian.com/lifeandstyle/2024/apr/04/audhd-what-is-behind-rocketing-rates-life-changing-diagnosis)
 * [2025-03-07, 21:01:16](https://news.ycombinator.com/item?id=43294602) - [ParadeDB (YC S23) Is Hiring Rust Database Engineer](https://paradedb.notion.site/ParadeDB-Job-Board-50b45af7a2834e22958b171ffa008e00)
 * [2025-03-07, 20:57:46](https://news.ycombinator.com/item?id=43294566) - [Polars Cloud: The Distributed Cloud Architecture to Run Polars Anywhere](https://pola.rs/posts/polars-cloud-what-we-are-building/)
