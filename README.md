@@ -2,7 +2,6 @@
 
 * [2025-03-07, 17:24:02](https://news.ycombinator.com/item?id=43292056) - [Introducing command And commandfor In HTML](https://developer.chrome.com/blog/command-and-commandfor)
 * [2025-03-07, 17:23:28](https://news.ycombinator.com/item?id=43292050) - [Optimistic Locking in B-Trees](https://cedardb.com/blog/optimistic_btrees/)
-* [2025-03-07, 17:23:05](https://news.ycombinator.com/item?id=43292045) - [Building your sense of what's important at a tech company](https://www.seangoedecke.com/what-is-important/)
 * [2025-03-07, 17:12:30](https://news.ycombinator.com/item?id=43291946) - [Vtm: Text-Based Desktop Environment](https://github.com/directvt/vtm)
 * [2025-03-07, 17:09:20](https://news.ycombinator.com/item?id=43291922) - [Do your eyes bug you even though your prescription is \"correct\"?](https://news.ycombinator.com/item?id=43291922)
 * [2025-03-07, 17:00:44](https://news.ycombinator.com/item?id=43291839) - [Kraftful (YC S19) is hiring a founding eng to support our hockey-stick growth](https://www.ycombinator.com/companies/kraftful/jobs/NdXFHyV-founding-engineer)
@@ -15,6 +14,7 @@
 * [2025-03-07, 10:06:38](https://news.ycombinator.com/item?id=43288861) - [Matters Computational (2010) [pdf]](https://www.jjj.de/fxt/fxtbook.pdf)
 * [2025-03-07, 06:45:57](https://news.ycombinator.com/item?id=43287821) - [Ladder: Self-improving LLMs through recursive problem decomposition](https://arxiv.org/abs/2503.00735)
 * [2025-03-06, 23:43:37](https://news.ycombinator.com/item?id=43286161) - [Differentiable Logic Cellular Automata](https://google-research.github.io/self-organising-systems/difflogic-ca/?hn)
+* [2025-03-06, 22:34:54](https://news.ycombinator.com/item?id=43285725) - [Ask HN: How did the internet discover my subdomain?](https://news.ycombinator.com/item?id=43285725)
 * [2025-03-06, 22:28:01](https://news.ycombinator.com/item?id=43285671) - [How to distrust a CA without any certificate errors](https://dadrian.io/blog/posts/sct-not-after/)
 * [2025-03-06, 20:32:47](https://news.ycombinator.com/item?id=43284811) - [Show HN: Rust Vector and Quaternion Lib](https://github.com/David-OConnor/lin-alg)
 * [2025-03-06, 19:51:55](https://news.ycombinator.com/item?id=43284420) - [Using GRPO to Beat o1, o3-mini and R1 at “Temporal Clue”](https://openpipe.ai/blog/using-grpo-to-beat-o1-o3-mini-and-r1-on-temporal-clue)
