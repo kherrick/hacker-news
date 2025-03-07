@@ -36,6 +36,7 @@
 * [2025-03-03, 17:48:57](https://news.ycombinator.com/item?id=43244549) - [Show HN: Firebender, a simple coding agent for Android Engineers](https://docs.firebender.com/get-started/agent)
 * [2025-03-03, 17:48:18](https://news.ycombinator.com/item?id=43244538) - [Ask HN: How much employee resume verification is done in practice?](https://news.ycombinator.com/item?id=43244538)
 * [2025-03-03, 17:44:31](https://news.ycombinator.com/item?id=43244490) - [Ex-SAP CTO walks away with €7.1M payout after scandal](https://www.theregister.com/2025/03/03/former_sap_cto_payout/)
+* [2025-03-03, 17:38:50](https://news.ycombinator.com/item?id=43244416) - [Cowboys and Drones: two modes of operation for small business](https://emeaentrepreneurs.com/anti/cowboys-and-drones/)
 * [2025-03-03, 17:29:12](https://news.ycombinator.com/item?id=43244307) - [SQLite-on-the-Server Is Misunderstood: Better at Hyper-Scale Than Micro-Scale](https://rivet.gg/blog/2025-02-16-sqlite-on-the-server-is-misunderstood)
 * [2025-03-03, 17:17:26](https://news.ycombinator.com/item?id=43244166) - [Show HN: Sonauto API – Generative music for developers](https://sonauto.ai/developers)
 * [2025-03-03, 17:13:24](https://news.ycombinator.com/item?id=43244106) - [The Oldest \"Map of America\" Is Mysteriously Accurate](https://www.thetravel.com/oldest-american-map-accuracy-surprises-experts/)
