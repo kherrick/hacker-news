@@ -26,7 +26,7 @@
 * [2025-03-04, 12:32:38](https://news.ycombinator.com/item?id=43253704) - [Speeding Up Computational Lithography with the Power and Parallelism of GPUs](https://semiengineering.com/speeding-up-computational-lithography-with-the-power-and-parallelism-of-gpus/)
 * [2025-03-04, 11:05:41](https://news.ycombinator.com/item?id=43253069) - [What if football championships were lineal?](https://www.ufnc.xyz/)
 * [2025-03-03, 23:12:41](https://news.ycombinator.com/item?id=43247979) - [Ereader Easy Swedish. Tool I Made for Myself to Learn a Language](https://ereader-swedish.fly.dev/)
-* [2025-03-03, 17:38:50](https://news.ycombinator.com/item?id=43244416) - [Cowboys and Drones: two modes of operation for small business](https://emeaentrepreneurs.com/anti/cowboys-and-drones/)
+* [2025-03-03, 18:45:31](https://news.ycombinator.com/item?id=43245232) - [GrapheneOS Adds Custom Private Network Location Feature](https://grapheneos.social/@GrapheneOS/114099185285864069)
 * [2025-03-03, 16:40:00](https://news.ycombinator.com/item?id=43243569) - [Some Thoughts on Autoregressive Models](https://wonderfall.dev/autoregressive/)
 * [2025-03-03, 13:39:04](https://news.ycombinator.com/item?id=43241589) - [Reintroductions of beavers into the wild in several parts of England](https://www.wildlifetrusts.org/news/beavers-are-coming-home)
 * [2025-03-03, 07:47:49](https://news.ycombinator.com/item?id=43239284) - [Discovery of fresco portraying Dionysian mysteries at Pompeii](https://pompeiisites.org/en/comunicati/pompeii-discovery-of-a-room-with-frescoes-depicting-the-initiation-into-the-mysteries-and-the-dionysiac-procession/)
