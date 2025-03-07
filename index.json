@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-03-07, 09:45:51",
-      "https://news.ycombinator.com/item?id=43288719"
-    ],
-    [
-      "StrictYAML",
-      "https://hitchdev.com/strictyaml/"
-    ]
-  ],
-  [
-    [
       "2025-03-07, 06:45:57",
       "https://news.ycombinator.com/item?id=43287821"
     ],
@@ -87,6 +77,16 @@
     [
       "How to distrust a CA without any certificate errors",
       "https://dadrian.io/blog/posts/sct-not-after/"
+    ]
+  ],
+  [
+    [
+      "2025-03-06, 22:00:38",
+      "https://news.ycombinator.com/item?id=43285485"
+    ],
+    [
+      "A brief meditation on formal systems and lying goblins",
+      "https://the-nerve-blog.ghost.io/a-brief-meditation-on-formal-systems-and-lying-goblins/"
     ]
   ],
   [
@@ -221,12 +221,22 @@
   ],
   [
     [
-      "2025-03-04, 16:13:26",
-      "https://news.ycombinator.com/item?id=43256595"
+      "2025-03-06, 08:47:32",
+      "https://news.ycombinator.com/item?id=43277918"
     ],
     [
-      "Static Site Generator for Emacs Lisp Programmers",
-      "https://one.tonyaldon.com/"
+      "Revolt: Open-Source Alternative to Discord",
+      "https://revolt.chat"
+    ]
+  ],
+  [
+    [
+      "2025-03-05, 19:34:23",
+      "https://news.ycombinator.com/item?id=43271177"
+    ],
+    [
+      "NCSC, GCHQ, UK Gov't expunge advice to \"use Apple encryption\"",
+      "https://alecmuffett.com/article/112522"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Speeding Up Computational Lithography with the Power and Parallelism of GPUs",
       "https://semiengineering.com/speeding-up-computational-lithography-with-the-power-and-parallelism-of-gpus/"
-    ]
-  ],
-  [
-    [
-      "2025-03-04, 11:05:41",
-      "https://news.ycombinator.com/item?id=43253069"
-    ],
-    [
-      "What if football championships were lineal?",
-      "https://www.ufnc.xyz/"
     ]
   ],
   [
