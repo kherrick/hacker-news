@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-07, 05:25:38](https://news.ycombinator.com/item?id=43287563) - [Rules to improve air quality are under attack](https://www.heatpumped.org/p/you-put-your-pitchfork-away-already)
 * [2025-03-06, 23:43:37](https://news.ycombinator.com/item?id=43286161) - [Differentiable Logic Cellular Automata](https://google-research.github.io/self-organising-systems/difflogic-ca/?hn)
 * [2025-03-06, 23:31:13](https://news.ycombinator.com/item?id=43286091) - [InstantStyle: Free Lunch Towards Style-Preserving in Text-to-Image Generation](https://github.com/instantX-research/InstantStyle)
 * [2025-03-06, 22:35:00](https://news.ycombinator.com/item?id=43285726) - [Why I find diffusion models interesting?](https://rnikhil.com/2025/03/06/diffusion-models-eval)
@@ -28,7 +29,6 @@
 * [2025-03-03, 14:05:46](https://news.ycombinator.com/item?id=43241835) - [Multicomponent Glass Fertilizer for Nutrient Delivery in Precision Agriculture](https://pubs.acs.org/doi/10.1021/acsagscitech.4c00243)
 * [2025-03-03, 13:39:04](https://news.ycombinator.com/item?id=43241589) - [Reintroductions of beavers into the wild in several parts of England](https://www.wildlifetrusts.org/news/beavers-are-coming-home)
 * [2025-03-03, 12:29:45](https://news.ycombinator.com/item?id=43241122) - [An equation of state for dense nuclear matter such as neutron stars](https://phys.org/news/2025-02-equation-state-dense-nuclear-neutron.html)
-* [2025-03-03, 09:35:29](https://news.ycombinator.com/item?id=43240013) - [A JPEG Image Compression Service Using Part Homomorphic Encryption (2019)](https://github.com/qianfei11/ShadowyCompression)
 * [2025-03-03, 07:47:49](https://news.ycombinator.com/item?id=43239284) - [Discovery of fresco portraying Dionysian mysteries at Pompeii](https://pompeiisites.org/en/comunicati/pompeii-discovery-of-a-room-with-frescoes-depicting-the-initiation-into-the-mysteries-and-the-dionysiac-procession/)
 
 ## [Archives](archives/index.md)
