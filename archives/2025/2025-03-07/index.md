@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-07](index.md)
 
+* [2025-03-07, 12:51:12](https://news.ycombinator.com/item?id=43289755) - [A collection of website seizure banners created by government agencies](https://seized.fyi/)
+* [2025-03-07, 12:48:50](https://news.ycombinator.com/item?id=43289737) - [When Europe needed it most, the Ariane 6 rocket delivered](https://arstechnica.com/space/2025/03/when-europe-needed-it-most-the-ariane-6-rocket-finally-delivered/)
 * [2025-03-07, 12:19:31](https://news.ycombinator.com/item?id=43289566) - [The Official Aztec C Online Museum](https://www.aztecmuseum.ca/index.htm)
 * [2025-03-07, 12:00:01](https://news.ycombinator.com/item?id=43289461) - [Roame (YC S23) Is Hiring a Chief of Staff](https://www.ycombinator.com/companies/roame/jobs/OZI3czc-chief-of-staff)
 * [2025-03-07, 11:45:39](https://news.ycombinator.com/item?id=43289398) - [The Landscape of Lisp](https://churchofturing.github.io/landscapeoflisp.html)
