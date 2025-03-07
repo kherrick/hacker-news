@@ -47,6 +47,7 @@
 * [2025-03-04, 12:28:13](https://news.ycombinator.com/item?id=43253674) - [PostmarketOS in 2025-02: MSM89x7 Audio, Modern Xiaomis in Community, New Name](https://postmarketos.org/blog/2025/03/04/pmOS-update-2025-02/)
 * [2025-03-04, 12:14:36](https://news.ycombinator.com/item?id=43253562) - [Federal workers ordered to return to offices without desks, Wi-Fi and lights](https://www.cnn.com/2025/03/04/politics/federal-employees-return-to-office-problems/index.html)
 * [2025-03-04, 12:00:32](https://news.ycombinator.com/item?id=43253463) - [Trellis (YC W24) Is Hiring Eng to Build the Best AI Agents for PDF](https://runtrellis.com/)
+* [2025-03-04, 11:59:08](https://news.ycombinator.com/item?id=43253453) - [The British Navy Resisted a Decent Lightning Rod for Decades](https://spectrum.ieee.org/lightning-rod-2671217505)
 * [2025-03-04, 11:51:47](https://news.ycombinator.com/item?id=43253407) - [Italy moves to reverse anti-nuclear stance](https://www.world-nuclear-news.org/articles/cabinet-moves-to-reverse-italys-anti-nuclear-stance)
 * [2025-03-04, 11:23:05](https://news.ycombinator.com/item?id=43253211) - [Simple Explanation of LLMs](https://blog.oedemis.io/understanding-llms-a-simple-guide-to-large-language-models)
 * [2025-03-04, 11:16:47](https://news.ycombinator.com/item?id=43253167) - [How Google tracks Android device users before they've even opened an app](https://www.theregister.com/2025/03/04/google_android/)
