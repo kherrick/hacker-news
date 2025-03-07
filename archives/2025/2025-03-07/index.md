@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-07](index.md)
 
+* [2025-03-07, 14:43:24](https://news.ycombinator.com/item?id=43290555) - [Strobelight: A profiling service built on open source technology](https://engineering.fb.com/2025/01/21/production-engineering/strobelight-a-profiling-service-built-on-open-source-technology/)
 * [2025-03-07, 14:24:33](https://news.ycombinator.com/item?id=43290408) - [How Monero Fulfilled Satoshi's Promise](https://zola.ink/blog/posts/how-monero-fulfilled-satoshis-promies)
 * [2025-03-07, 12:51:12](https://news.ycombinator.com/item?id=43289755) - [A collection of website seizure banners created by government agencies](https://seized.fyi/)
 * [2025-03-07, 12:48:50](https://news.ycombinator.com/item?id=43289737) - [When Europe needed it most, the Ariane 6 rocket delivered](https://arstechnica.com/space/2025/03/when-europe-needed-it-most-the-ariane-6-rocket-finally-delivered/)

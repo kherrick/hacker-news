@@ -51,6 +51,7 @@
 * [2025-03-03, 16:38:50](https://news.ycombinator.com/item?id=43243549) - [Go-attention: A full attention mechanism and transformer in pure Go](https://github.com/takara-ai/go-attention)
 * [2025-03-03, 16:17:24](https://news.ycombinator.com/item?id=43243247) - [First flat telescope lens that captures color, detecting light from stars](https://phys.org/news/2025-02-flat-telescope-lens-capture-faraway.html)
 * [2025-03-03, 16:10:28](https://news.ycombinator.com/item?id=43243153) - [Show HN: Open-Source Windows AI assistant that uses Word, Excel through COM](https://github.com/Alkali-Sim/SmartestKid)
+* [2025-03-03, 16:06:51](https://news.ycombinator.com/item?id=43243110) - [A Scientific American bolt puzzle](https://leancrew.com/all-this/2025/03/a-sciam-bolt-puzzle/)
 * [2025-03-03, 16:06:50](https://news.ycombinator.com/item?id=43243109) - [An Attempt to Catch Up with JIT Compilers](https://arxiv.org/abs/2502.20547)
 * [2025-03-03, 16:04:13](https://news.ycombinator.com/item?id=43243075) - [Apple's Software Quality Crisis: When Premium Hardware Meets Subpar Software](https://www.eliseomartelli.it/blog/2025-03-02-apple-quality)
 * [2025-03-03, 16:01:41](https://news.ycombinator.com/item?id=43243024) - [Ask HN: Who is hiring? (March 2025)](https://news.ycombinator.com/item?id=43243024)
