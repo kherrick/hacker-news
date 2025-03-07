@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-03-05, 19:09:39",
-      "https://news.ycombinator.com/item?id=43270843"
-    ],
-    [
-      "QwQ-32B: Embracing the Power of Reinforcement Learning",
-      "https://qwenlm.github.io/blog/qwq-32b/"
-    ]
-  ],
-  [
-    [
       "2025-03-04, 12:55:29",
       "https://news.ycombinator.com/item?id=43253898"
     ],
@@ -247,6 +237,16 @@
     [
       "Words for the Heart: A treasury of emotions from classical India",
       "https://www.bostonreview.net/articles/theres-a-word-for-that/"
+    ]
+  ],
+  [
+    [
+      "2025-03-03, 16:40:00",
+      "https://news.ycombinator.com/item?id=43243569"
+    ],
+    [
+      "Some Thoughts on Autoregressive Models",
+      "https://wonderfall.dev/autoregressive/"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=43240013"
     ],
     [
-      "A JPEG Image Compression Service Using Part Homomorphic Encryption",
+      "A JPEG Image Compression Service Using Part Homomorphic Encryption (2019)",
       "https://github.com/qianfei11/ShadowyCompression"
     ]
   ],
