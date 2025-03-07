@@ -1,52 +1,12 @@
 [
   [
     [
-      "2025-03-07, 19:40:59",
-      "https://news.ycombinator.com/item?id=43293646"
-    ],
-    [
-      "No one asked for this: Google is testing round keys in Gboard",
-      "https://arstechnica.com/google/2025/03/no-one-asked-for-this-google-is-testing-round-keys-in-gboard/"
-    ]
-  ],
-  [
-    [
-      "2025-03-07, 19:35:20",
-      "https://news.ycombinator.com/item?id=43293573"
-    ],
-    [
-      "The Take It Down Act isn't a law, it's a weapon",
-      "https://www.theverge.com/policy/624974/take-it-down-act-deepfakes-nonconsensual-pornography-trump-constitutional-crisis"
-    ]
-  ],
-  [
-    [
       "2025-03-07, 19:28:31",
       "https://news.ycombinator.com/item?id=43293487"
     ],
     [
-      "Europe's most wanted man plotted my murder – and that of my colleague",
+      "Europe's most wanted man plotted my murder and that of my colleague",
       "https://theins.press/en/inv/279034"
-    ]
-  ],
-  [
-    [
-      "2025-03-07, 19:22:34",
-      "https://news.ycombinator.com/item?id=43293412"
-    ],
-    [
-      "Doge Is Putting Major Government Efficiency Projects at Risk",
-      "https://www.wired.com/story/doge-major-government-tech-projects-efficiency/"
-    ]
-  ],
-  [
-    [
-      "2025-03-07, 19:19:21",
-      "https://news.ycombinator.com/item?id=43293363"
-    ],
-    [
-      "Great software design looks underwhelming",
-      "https://www.seangoedecke.com/great-software-design/"
     ]
   ],
   [
@@ -81,12 +41,22 @@
   ],
   [
     [
-      "2025-03-07, 18:29:34",
-      "https://news.ycombinator.com/item?id=43292750"
+      "2025-03-07, 18:34:02",
+      "https://news.ycombinator.com/item?id=43292820"
     ],
     [
-      "AMD YOLO",
-      "https://geohot.github.io//blog/jekyll/update/2025/03/08/AMD-YOLO.html"
+      "Age Verification Laws: A Backdoor to Surveillance",
+      "https://www.eff.org/deeplinks/2025/03/first-porn-now-skin-cream-age-verification-bills-are-out-control"
+    ]
+  ],
+  [
+    [
+      "2025-03-07, 18:06:45",
+      "https://news.ycombinator.com/item?id=43292471"
+    ],
+    [
+      "Athena spacecraft declared dead after toppling over on moon",
+      "https://www.theguardian.com/science/2025/mar/07/athena-spacecraft-mission-dead"
     ]
   ],
   [
@@ -165,18 +135,8 @@
       "https://news.ycombinator.com/item?id=43291541"
     ],
     [
-      "Reading Martha Nussbaum's philosophy is pure pleasure",
+      "The necessity of Nussbaum",
       "https://aeon.co/essays/why-reading-martha-c-nussbaums-philosophy-is-pure-pleasure"
-    ]
-  ],
-  [
-    [
-      "2025-03-07, 16:20:37",
-      "https://news.ycombinator.com/item?id=43291446"
-    ],
-    [
-      "Kitchen foil and Algerian markets: When your phone is stolen in London",
-      "https://www.londoncentric.media/p/kitchen-foil-and-algerian-markets"
     ]
   ],
   [
@@ -241,22 +201,42 @@
   ],
   [
     [
-      "2025-03-06, 17:48:37",
-      "https://news.ycombinator.com/item?id=43282995"
+      "2025-03-06, 22:28:01",
+      "https://news.ycombinator.com/item?id=43285671"
     ],
     [
-      "Succinct data structures",
-      "https://blog.startifact.com/posts/succinct/"
+      "How to distrust a CA without any certificate errors",
+      "https://dadrian.io/blog/posts/sct-not-after/"
     ]
   ],
   [
     [
-      "2025-03-06, 16:37:34",
-      "https://news.ycombinator.com/item?id=43282133"
+      "2025-03-06, 19:51:55",
+      "https://news.ycombinator.com/item?id=43284420"
     ],
     [
-      "Anime fans stumbled upon a mathematical proof",
-      "https://www.scientificamerican.com/article/the-surprisingly-difficult-mathematical-proof-that-anime-fans-helped-solve/"
+      "Using GRPO to Beat o1, o3-mini and R1 at “Temporal Clue”",
+      "https://openpipe.ai/blog/using-grpo-to-beat-o1-o3-mini-and-r1-on-temporal-clue"
+    ]
+  ],
+  [
+    [
+      "2025-03-06, 18:34:11",
+      "https://news.ycombinator.com/item?id=43283498"
+    ],
+    [
+      "50 Years in Filesystems: 1984",
+      "https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-06, 17:39:39",
+      "https://news.ycombinator.com/item?id=43282905"
+    ],
+    [
+      "Mistral OCR",
+      "https://mistral.ai/fr/news/mistral-ocr"
     ]
   ],
   [
@@ -271,6 +251,26 @@
   ],
   [
     [
+      "2025-03-04, 17:14:26",
+      "https://news.ycombinator.com/item?id=43257460"
+    ],
+    [
+      "Performance optimization, and how to do it wrong",
+      "https://genna.win/blog/convolution-simd/"
+    ]
+  ],
+  [
+    [
+      "2025-03-04, 12:32:38",
+      "https://news.ycombinator.com/item?id=43253704"
+    ],
+    [
+      "Speeding up computational lithography with the power and parallelism of GPUs",
+      "https://semiengineering.com/speeding-up-computational-lithography-with-the-power-and-parallelism-of-gpus/"
+    ]
+  ],
+  [
+    [
       "2025-03-04, 10:51:59",
       "https://news.ycombinator.com/item?id=43252994"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2025-03-03, 20:20:22",
-      "https://news.ycombinator.com/item?id=43246206"
+      "2025-03-03, 16:06:51",
+      "https://news.ycombinator.com/item?id=43243110"
     ],
     [
-      "Anthropic raises $3.5B at $61.5B valuation",
-      "https://www.nytimes.com/2025/03/03/technology/anthropic-ai-fund-raising-61-billion.html"
+      "A Scientific American bolt puzzle",
+      "https://leancrew.com/all-this/2025/03/a-sciam-bolt-puzzle/"
     ]
   ],
   [
