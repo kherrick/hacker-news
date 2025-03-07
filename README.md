@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-07, 22:38:52](https://news.ycombinator.com/item?id=43295577) - [Measles outbreak in Texas and New Mexico now 208 cases, 2 deaths](https://arstechnica.com/science/2025/03/measles-outbreak-hits-208-cases-as-federal-outbreak-response-goes-off-the-rails/)
 * [2025-03-07, 21:19:23](https://news.ycombinator.com/item?id=43294816) - [Monotype and Phototypesetting (2000) [pdf]](https://web.archive.org/web/20040305094501/http://www.letterpress.ch/APINET/IMMPDF/MONOPHOTO/PHS_journal.pdf)
 * [2025-03-07, 21:01:16](https://news.ycombinator.com/item?id=43294602) - [ParadeDB (YC S23) Is Hiring Rust Database Engineer](https://paradedb.notion.site/ParadeDB-Job-Board-50b45af7a2834e22958b171ffa008e00)
 * [2025-03-07, 20:57:46](https://news.ycombinator.com/item?id=43294566) - [Polars Cloud: The Distributed Cloud Architecture to Run Polars Anywhere](https://pola.rs/posts/polars-cloud-what-we-are-building/)
@@ -28,7 +29,6 @@
 * [2025-03-04, 22:00:08](https://news.ycombinator.com/item?id=43260251) - [Show HN: I Built a Telegraph Simulator](https://telegraph.13ug1mb.com)
 * [2025-03-04, 17:14:26](https://news.ycombinator.com/item?id=43257460) - [Performance optimization, and how to do it wrong](https://genna.win/blog/convolution-simd/)
 * [2025-03-04, 14:09:49](https://news.ycombinator.com/item?id=43254790) - [UEFI-Only Support for AMD Radeon RX 9000 Series Graphics and Later](https://www.amd.com/en/resources/support-articles/faqs/GPU-N4XCSM.html)
-* [2025-03-03, 16:06:51](https://news.ycombinator.com/item?id=43243110) - [A Scientific American bolt puzzle](https://leancrew.com/all-this/2025/03/a-sciam-bolt-puzzle/)
 * [2025-03-03, 07:47:49](https://news.ycombinator.com/item?id=43239284) - [Discovery of fresco portraying Dionysian mysteries at Pompeii](https://pompeiisites.org/en/comunicati/pompeii-discovery-of-a-room-with-frescoes-depicting-the-initiation-into-the-mysteries-and-the-dionysiac-procession/)
 
 ## [Archives](archives/index.md)
