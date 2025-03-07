@@ -75,6 +75,7 @@
 * [2025-03-03, 10:28:28](https://news.ycombinator.com/item?id=43240354) - [Difficult Employees (and How to Handle Them)](https://newsletter.canopy.is/p/the-5-most-difficult-employees-and)
 * [2025-03-03, 10:19:58](https://news.ycombinator.com/item?id=43240301) - [The IBM 650: An appreciation from the field (1986) [pdf]](https://ed-thelen.org/comp-hist/KnuthIBM650Appreciation.pdf)
 * [2025-03-03, 09:35:29](https://news.ycombinator.com/item?id=43240013) - [A JPEG Image Compression Service Using Part Homomorphic Encryption](https://github.com/qianfei11/ShadowyCompression)
+* [2025-03-03, 09:24:09](https://news.ycombinator.com/item?id=43239948) - [Windows 11 Insider Preview Build](https://blogs.windows.com/windows-insider/2025/02/21/announcing-windows-11-insider-preview-build-22635-4950-beta-channel/)
 * [2025-03-03, 08:56:28](https://news.ycombinator.com/item?id=43239774) - [About Google Chrome's \"This extension may soon no longer be supported\"](https://github.com/gorhill/uBlock/wiki/About-Google-Chrome%27s-%22This-extension-may-soon-no-longer-be-supported%22)
 * [2025-03-03, 08:44:06](https://news.ycombinator.com/item?id=43239699) - [Robust Wavefront OBJ model parsing in C](https://nullprogram.com/blog/2025/03/02/)
 * [2025-03-03, 08:26:15](https://news.ycombinator.com/item?id=43239573) - [IoT project using thermal sensors to monitor spaces](https://s2.dev/blog/iot)
