@@ -5,8 +5,11 @@
 ### [Archives](../../index.md) for [2025-03-07](index.md)
 
 * [2025-03-07, 19:40:59](https://news.ycombinator.com/item?id=43293646) - [No one asked for this: Google is testing round keys in Gboard](https://arstechnica.com/google/2025/03/no-one-asked-for-this-google-is-testing-round-keys-in-gboard/)
+* [2025-03-07, 19:35:20](https://news.ycombinator.com/item?id=43293573) - [The Take It Down Act isn't a law, it's a weapon](https://www.theverge.com/policy/624974/take-it-down-act-deepfakes-nonconsensual-pornography-trump-constitutional-crisis)
 * [2025-03-07, 19:30:56](https://news.ycombinator.com/item?id=43293517) - [Kennedy and influencers bash seed oils, baffling nutrition scientists](https://apnews.com/article/seed-oil-beef-tallow-kennedy-4fdf0f30134277fd6dd20b4ede789295)
+* [2025-03-07, 19:28:31](https://news.ycombinator.com/item?id=43293487) - [Europe's most wanted man plotted my murder – and that of my colleague](https://theins.press/en/inv/279034)
 * [2025-03-07, 19:22:34](https://news.ycombinator.com/item?id=43293412) - [Doge Is Putting Major Government Efficiency Projects at Risk](https://www.wired.com/story/doge-major-government-tech-projects-efficiency/)
+* [2025-03-07, 19:19:21](https://news.ycombinator.com/item?id=43293363) - [Great software design looks underwhelming](https://www.seangoedecke.com/great-software-design/)
 * [2025-03-07, 19:06:30](https://news.ycombinator.com/item?id=43293192) - [Walt Disney's MultiPlane Camera (Filmed Feb. 13, 1957) [video]](https://www.youtube.com/watch?v=3YIR39KeJMk)
 * [2025-03-07, 19:01:30](https://news.ycombinator.com/item?id=43293121) - [Moscow-based global news network has infected Western AI tools](https://www.newsguardrealitycheck.com/p/a-well-funded-moscow-based-global)
 * [2025-03-07, 18:56:34](https://news.ycombinator.com/item?id=43293060) - [Two weak spots in Big Tech economics](https://pluralistic.net/2025/03/06/privacy-last/)
