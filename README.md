@@ -4,6 +4,7 @@
 * [2025-03-07, 21:01:16](https://news.ycombinator.com/item?id=43294602) - [ParadeDB (YC S23) Is Hiring Rust Database Engineer](https://paradedb.notion.site/ParadeDB-Job-Board-50b45af7a2834e22958b171ffa008e00)
 * [2025-03-07, 20:57:46](https://news.ycombinator.com/item?id=43294566) - [Polars Cloud: The Distributed Cloud Architecture to Run Polars Anywhere](https://pola.rs/posts/polars-cloud-what-we-are-building/)
 * [2025-03-07, 20:50:45](https://news.ycombinator.com/item?id=43294489) - ['Next-Level' Chaos Traces the True Limit of Predictability](https://www.quantamagazine.org/next-level-chaos-traces-the-true-limit-of-predictability-20250307/)
+* [2025-03-07, 20:43:09](https://news.ycombinator.com/item?id=43294391) - [Deriving Muon](https://jeremybernste.in/writing/deriving-muon)
 * [2025-03-07, 19:28:31](https://news.ycombinator.com/item?id=43293487) - [Europe's most wanted man plotted my murder and that of my colleague](https://theins.press/en/inv/279034)
 * [2025-03-07, 18:44:34](https://news.ycombinator.com/item?id=43292946) - [Microsoft is plotting a future without OpenAI](https://techstartups.com/2025/03/07/microsoft-is-plotting-a-future-without-openai/)
 * [2025-03-07, 18:35:27](https://news.ycombinator.com/item?id=43292836) - [How a Connecticut DMV Employee Made Thousands by Selling Towed Cars](https://www.propublica.org/article/connecticut-dmv-employee-sells-towed-cars)
@@ -28,7 +29,6 @@
 * [2025-03-05, 02:18:21](https://news.ycombinator.com/item?id=43261825) - [Integrated sensing and communication based on space-time-coding metasurfaces](https://www.nature.com/articles/s41467-025-57137-6)
 * [2025-03-04, 22:00:08](https://news.ycombinator.com/item?id=43260251) - [Show HN: I Built a Telegraph Simulator](https://telegraph.13ug1mb.com)
 * [2025-03-04, 14:09:49](https://news.ycombinator.com/item?id=43254790) - [UEFI-Only Support for AMD Radeon RX 9000 Series Graphics and Later](https://www.amd.com/en/resources/support-articles/faqs/GPU-N4XCSM.html)
-* [2025-03-03, 16:06:51](https://news.ycombinator.com/item?id=43243110) - [A Scientific American bolt puzzle](https://leancrew.com/all-this/2025/03/a-sciam-bolt-puzzle/)
 * [2025-03-03, 07:47:49](https://news.ycombinator.com/item?id=43239284) - [Discovery of fresco portraying Dionysian mysteries at Pompeii](https://pompeiisites.org/en/comunicati/pompeii-discovery-of-a-room-with-frescoes-depicting-the-initiation-into-the-mysteries-and-the-dionysiac-procession/)
 
 ## [Archives](archives/index.md)
