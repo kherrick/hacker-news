@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-03-08, 22:02:19",
-      "https://news.ycombinator.com/item?id=43303943"
-    ],
-    [
-      "Backdoor detected in ESP32 Espressif IoT chip",
-      "https://www.tarlogic.com/news/backdoor-esp32-chip-infect-ot-devices/"
-    ]
-  ],
-  [
-    [
       "2025-03-08, 21:36:53",
       "https://news.ycombinator.com/item?id=43303752"
     ],
@@ -61,16 +51,6 @@
   ],
   [
     [
-      "2025-03-08, 19:02:34",
-      "https://news.ycombinator.com/item?id=43302563"
-    ],
-    [
-      "Linear Pluggable Optics Save Energy in Data Centers",
-      "https://semiengineering.com/linear-pluggable-optics-save-energy-in-data-centers/"
-    ]
-  ],
-  [
-    [
       "2025-03-08, 18:54:17",
       "https://news.ycombinator.com/item?id=43302495"
     ],
@@ -87,6 +67,16 @@
     [
       "MCP vs. API Explained",
       "https://norahsakal.com/blog/mcp-vs-api-model-context-protocol-explained/"
+    ]
+  ],
+  [
+    [
+      "2025-03-08, 18:17:39",
+      "https://news.ycombinator.com/item?id=43302183"
+    ],
+    [
+      "How much are LLMs boosting real-world programmer productivity?",
+      "https://www.lesswrong.com/posts/tqmQTezvXGFmfSe7f/how-much-are-llms-actually-boosting-real-world-programmer"
     ]
   ],
   [
@@ -207,6 +197,16 @@
     [
       "An epic treatise on error models for systems programming languages",
       "https://typesanitizer.com/blog/errors.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-08, 02:12:13",
+      "https://news.ycombinator.com/item?id=43296918"
+    ],
+    [
+      "Show HN: Open-Source DocumentAI with Ollama",
+      "https://rlama.dev/"
     ]
   ],
   [
