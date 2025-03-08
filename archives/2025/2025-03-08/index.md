@@ -6,9 +6,11 @@
 
 * [2025-03-08, 18:16:42](https://news.ycombinator.com/item?id=43302177) - [Feds arrest man for sharing DVD rip of Spider-Man movie with millions online](https://arstechnica.com/tech-policy/2025/03/fbi-nabs-worker-at-dvd-company-for-ripping-prerelease-marvel-blockbusters/)
 * [2025-03-08, 18:11:46](https://news.ycombinator.com/item?id=43302132) - [Kill your Feeds – Stop letting algorithms dictate what you think](https://usher.dev/posts/2025-03-08-kill-your-feeds/)
+* [2025-03-08, 18:04:36](https://news.ycombinator.com/item?id=43302073) - [Kagi Is Bringing Orion Web Browser to Linux](https://www.omgubuntu.co.uk/2025/03/kag-orion-web-browser-coming-to-linux)
 * [2025-03-08, 17:50:01](https://news.ycombinator.com/item?id=43301961) - [Sex Traffickers in Colombia Using Facebook, Tinder and Airbnb to Exploit Minors](https://www.bloomberg.com/news/features/2025-03-03/facebook-tinder-airbnb-apps-are-used-for-sex-trafficking-in-colombia)
 * [2025-03-08, 17:14:12](https://news.ycombinator.com/item?id=43301702) - [Sam Bankman-Fried Thrown into Solitary over Tucker Carlson Interview: Report](https://gizmodo.com/sam-bankman-fried-thrown-into-solitary-over-tucker-carlson-interview-report-2000573371)
 * [2025-03-08, 17:00:57](https://news.ycombinator.com/item?id=43301619) - [Spice Data (YC S19) Is Hiring a Founding Senior/Staff Software Engineer](https://www.ycombinator.com/companies/spice-data/jobs/f6BuehM-founding-senior-staff-software-engineer)
+* [2025-03-08, 16:44:51](https://news.ycombinator.com/item?id=43301481) - [Show HN: I built a tool to detect scams](https://scamchecknow.com)
 * [2025-03-08, 16:39:23](https://news.ycombinator.com/item?id=43301432) - [You might not need Redis](https://www.viblo.se/posts/no-need-redis/)
 * [2025-03-08, 16:30:38](https://news.ycombinator.com/item?id=43301369) - [Undocumented backdoor found in Bluetooth chip used by a billion devices](https://www.bleepingcomputer.com/news/security/undocumented-backdoor-found-in-bluetooth-chip-used-by-a-billion-devices/)
 * [2025-03-08, 16:27:00](https://news.ycombinator.com/item?id=43301342) - [Discovering Errors in Donald Knuth's Taocp](https://glthr.com/discovering-errors-in-donald-knuths-taocp)
