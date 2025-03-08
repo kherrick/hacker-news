@@ -7,6 +7,7 @@
 * [2025-03-07, 23:52:49](https://news.ycombinator.com/item?id=43296103) - [GeoCities in 1995: Building a Home Page on the Internet](https://cybercultural.com/p/geocities-1995/)
 * [2025-03-07, 23:20:45](https://news.ycombinator.com/item?id=43295908) - [Why do I find Rust inadequate for text compression codecs?](https://palaiologos.rocks/posts/rust-codecs/)
 * [2025-03-07, 23:14:36](https://news.ycombinator.com/item?id=43295865) - [How did places like Bell Labs know how to ask the right questions?](https://www.freaktakes.com/p/how-did-places-like-bell-labs-know)
+* [2025-03-07, 22:54:58](https://news.ycombinator.com/item?id=43295692) - [AI tools are spotting errors in research papers: inside a growing movement](https://www.nature.com/articles/d41586-025-00648-5)
 * [2025-03-07, 22:38:52](https://news.ycombinator.com/item?id=43295577) - [Measles outbreak in Texas and New Mexico now 208 cases, 2 deaths](https://arstechnica.com/science/2025/03/measles-outbreak-hits-208-cases-as-federal-outbreak-response-goes-off-the-rails/)
 * [2025-03-07, 21:33:43](https://news.ycombinator.com/item?id=43294974) - [Letta: Letta is a framework for creating LLM services with memory](https://github.com/letta-ai/letta)
 * [2025-03-07, 21:19:23](https://news.ycombinator.com/item?id=43294816) - [Monotype and Phototypesetting (2000) [pdf]](https://web.archive.org/web/20040305094501/http://www.letterpress.ch/APINET/IMMPDF/MONOPHOTO/PHS_journal.pdf)
