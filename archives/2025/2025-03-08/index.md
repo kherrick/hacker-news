@@ -11,6 +11,7 @@
 * [2025-03-08, 06:43:22](https://news.ycombinator.com/item?id=43298054) - [PayPal honey extension has again \"featured\" flag in Chrome web store](https://chromewebstore.google.com/detail/paypal-honey-automatic-co/bmnlcjabgnpnenekpadlanbbkooimhnj/reviews)
 * [2025-03-08, 06:41:34](https://news.ycombinator.com/item?id=43298048) - [Svelte5: A Less Favorable Vue3](https://gist.github.com/rxliuli/c886198390a9fd1138853d0e260025f3)
 * [2025-03-08, 04:57:47](https://news.ycombinator.com/item?id=43297618) - [My legal last name prevents me from completing my Twitch affiliate onboarding](https://old.reddit.com/r/Twitch/comments/1j3fvzx/my_legal_last_name_is_preventing_me_from/)
+* [2025-03-08, 04:51:25](https://news.ycombinator.com/item?id=43297590) - [Falkon: A KDE Web Browser](https://www.falkon.org)
 * [2025-03-08, 04:46:33](https://news.ycombinator.com/item?id=43297574) - [An epic treatise on error models for systems programming languages](https://typesanitizer.com/blog/errors.html)
 * [2025-03-08, 03:15:27](https://news.ycombinator.com/item?id=43297174) - [Auntie PDF – an open source app built using Mistral OCR](https://www.auntiepdf.com/)
 * [2025-03-08, 03:14:30](https://news.ycombinator.com/item?id=43297168) - [Exploring the Hybrid Debian GNU/KFreeBSD Distribution](https://www.linuxjournal.com/content/exploring-hybrid-debian-gnukfreebsd-distribution)
