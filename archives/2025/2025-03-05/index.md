@@ -50,6 +50,7 @@
 * [2025-03-05, 16:04:11](https://news.ycombinator.com/item?id=43268401) - [JCGT – Arc Blanc: a real time ocean simulation](https://jcgt.org/published/0014/01/05/)
 * [2025-03-05, 15:59:28](https://news.ycombinator.com/item?id=43268333) - [Tech and Non-Tech Stacks to Run Listen Notes (2025)](https://www.listennotes.fm/p/tech-and-non-tech-stacks-to-run-listen)
 * [2025-03-05, 15:29:56](https://news.ycombinator.com/item?id=43267857) - [Design and Explore Noise Handshake Patterns (2018)](https://noiseexplorer.com/)
+* [2025-03-05, 15:14:21](https://news.ycombinator.com/item?id=43267607) - [Valentin Hansen: Creating an Infinite Sound](https://www.sleek-mag.com/article/valentin-hansen-creating-an-infinite-sound/)
 * [2025-03-05, 14:50:49](https://news.ycombinator.com/item?id=43267232) - [Show HN: AI art generation faster than Midjourney](https://www.gentube.app/?_cid=np)
 * [2025-03-05, 14:44:04](https://news.ycombinator.com/item?id=43267095) - [Things we've learned about building successful products](https://newsletter.posthog.com/p/50-things-weve-learned-about-building)
 * [2025-03-05, 14:12:05](https://news.ycombinator.com/item?id=43266608) - [I built an extension that lets you extract text from anywhere to your clipboard](https://chromewebstore.google.com/detail/esticra/nenfeobdiiiblnnlfoadbjabdeochjmn?hl=en)

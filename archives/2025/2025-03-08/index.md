@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-08](index.md)
 
+* [2025-03-08, 17:14:12](https://news.ycombinator.com/item?id=43301702) - [Sam Bankman-Fried Thrown into Solitary over Tucker Carlson Interview: Report](https://gizmodo.com/sam-bankman-fried-thrown-into-solitary-over-tucker-carlson-interview-report-2000573371)
+* [2025-03-08, 17:00:57](https://news.ycombinator.com/item?id=43301619) - [Spice Data (YC S19) Is Hiring a Founding Senior/Staff Software Engineer](https://www.ycombinator.com/companies/spice-data/jobs/f6BuehM-founding-senior-staff-software-engineer)
+* [2025-03-08, 16:39:23](https://news.ycombinator.com/item?id=43301432) - [You might not need Redis](https://www.viblo.se/posts/no-need-redis/)
 * [2025-03-08, 16:30:38](https://news.ycombinator.com/item?id=43301369) - [Undocumented backdoor found in Bluetooth chip used by a billion devices](https://www.bleepingcomputer.com/news/security/undocumented-backdoor-found-in-bluetooth-chip-used-by-a-billion-devices/)
 * [2025-03-08, 16:27:00](https://news.ycombinator.com/item?id=43301342) - [Discovering Errors in Donald Knuth's Taocp](https://glthr.com/discovering-errors-in-donald-knuths-taocp)
 * [2025-03-08, 15:58:19](https://news.ycombinator.com/item?id=43301155) - [Cat-Eared Robots Are Waiting Tables in Japan's Restaurants](https://www.bloomberg.com/news/features/2025-03-06/thousands-of-cat-eared-robots-are-waiting-tables-in-japan)
