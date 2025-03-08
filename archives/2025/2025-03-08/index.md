@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-08](index.md)
 
+* [2025-03-08, 14:31:23](https://news.ycombinator.com/item?id=43300528) - [The program is the database is the interface](https://www.scattered-thoughts.net/writing/the-program-is-the-database-is-the-interface/)
 * [2025-03-08, 13:57:21](https://news.ycombinator.com/item?id=43300285) - [Stanford scientists discover new Ozempic alternative with RegEx](https://twitter.com/lauriewired/status/1898149987890217033)
 * [2025-03-08, 13:26:17](https://news.ycombinator.com/item?id=43300081) - [AI Thinks It Cracked Kryptos. The Artist Behind It Says No Chance](https://www.wired.com/story/plaintext-kryptos-code-artificial-intelligence/)
 * [2025-03-08, 13:23:30](https://news.ycombinator.com/item?id=43300062) - [Smaller but Better: Unifying Layout Generation with Smaller LLMs](https://arxiv.org/abs/2502.14005)

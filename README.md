@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-08, 14:31:23](https://news.ycombinator.com/item?id=43300528) - [The program is the database is the interface](https://www.scattered-thoughts.net/writing/the-program-is-the-database-is-the-interface/)
 * [2025-03-08, 12:48:11](https://news.ycombinator.com/item?id=43299815) - [Discworld Rules](https://contraptions.venkateshrao.com/p/discworld-rules)
 * [2025-03-08, 12:41:56](https://news.ycombinator.com/item?id=43299772) - [Gene-edited non-browning banana could cut food waste](https://www.theguardian.com/science/2025/mar/07/gene-edited-non-browning-banana-cut-food-waste-tropic-norwich)
 * [2025-03-08, 12:23:46](https://news.ycombinator.com/item?id=43299659) - [Long Read: Lessons from Building Semantic Search for GitHub and Why I Failed](https://tzx.notion.site/What-I-Learned-Building-a-Free-Semantic-Search-Tool-for-GitHub-and-Why-I-Failed-1a09b742c7918033b318f3a5d7dc9751)
@@ -24,7 +25,6 @@
 * [2025-03-07, 14:43:24](https://news.ycombinator.com/item?id=43290555) - [Strobelight: A profiling service built on open source technology](https://engineering.fb.com/2025/01/21/production-engineering/strobelight-a-profiling-service-built-on-open-source-technology/)
 * [2025-03-06, 07:46:50](https://news.ycombinator.com/item?id=43277550) - [Forces deep underground seem to be deforming Earth's inner core](https://www.newscientist.com/article/2467491-forces-deep-underground-seem-to-be-deforming-earths-inner-core/)
 * [2025-03-05, 14:07:24](https://news.ycombinator.com/item?id=43266546) - [The features of Python's help() function](https://www.pythonmorsels.com/help-features/)
-* [2025-03-05, 02:18:21](https://news.ycombinator.com/item?id=43261825) - [Integrated sensing and communication based on space-time-coding metasurfaces](https://www.nature.com/articles/s41467-025-57137-6)
 * [2025-03-05, 01:30:07](https://news.ycombinator.com/item?id=43261593) - [Explore Sutro Tower](https://explore.sutrotower.com)
 * [2025-03-04, 19:01:20](https://news.ycombinator.com/item?id=43258670) - [AI models makes precise copies of cuneiform characters](https://news.cornell.edu/stories/2025/03/ai-models-makes-precise-copies-cuneiform-characters)
 * [2025-03-04, 17:54:54](https://news.ycombinator.com/item?id=43257927) - [Body Doubling](https://bodydoubling.com/)
