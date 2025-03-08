@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-08](index.md)
 
+* [2025-03-08, 12:19:59](https://news.ycombinator.com/item?id=43299635) - [What We Lose When Our Memories Exist in Our Phones](https://www.bloomberg.com/news/articles/2025-03-07/the-case-for-ditching-digital-memories-for-physical-objects)
 * [2025-03-08, 12:00:45](https://news.ycombinator.com/item?id=43299508) - [Extend (YC W23) is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
 * [2025-03-08, 11:00:37](https://news.ycombinator.com/item?id=43299225) - [New MacBook Air Fixes This Decades-Long Design Oversight](https://www.macrumors.com/2025/03/07/new-macbook-air-corrects-design-mistake/)
 * [2025-03-08, 10:19:55](https://news.ycombinator.com/item?id=43299011) - [US support to maintain UK's nuclear arsenal is in doubt](https://www.theguardian.com/world/2025/mar/08/us-support-uk-nuclear-arsenal-in-doubt-trident-france)
