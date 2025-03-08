@@ -7,6 +7,7 @@
 * [2025-03-05, 23:50:48](https://news.ycombinator.com/item?id=43274416) - [Dear Apple: Add \"Disappearing Messages\" to iMessage](https://blog.cryptographyengineering.com/2025/03/01/dear-apple-add-disappearing-messages-to-imessage-right-now/)
 * [2025-03-05, 22:49:41](https://news.ycombinator.com/item?id=43273850) - [A sprawling detention center in Texas to hold migrant children and their parents](https://www.washingtonpost.com/immigration/2025/03/05/dilley-texas-family-detention-center-ice/)
 * [2025-03-05, 22:49:24](https://news.ycombinator.com/item?id=43273846) - [Tesla sales crash continues in Europe, with Germany down 70%](https://electrek.co/2025/03/05/tesla-tsla-sales-crash-continues-in-europe-with-germany-down-70/)
+* [2025-03-05, 22:47:52](https://news.ycombinator.com/item?id=43273828) - [\"Big 3\" science fiction magazines including Asimov's and Analog acquired](https://jasonsanford.substack.com/p/genre-grapevine-for-last-half-of)
 * [2025-03-05, 22:47:11](https://news.ycombinator.com/item?id=43273818) - [Atproto by Example: Records and Views](https://mozzius.dev/post/3ljlqmchv2b2a)
 * [2025-03-05, 22:37:01](https://news.ycombinator.com/item?id=43273696) - [Compare OpenAI Models](https://platform.openai.com/docs/models/compare)
 * [2025-03-05, 21:48:39](https://news.ycombinator.com/item?id=43273034) - [Exploring the Paramilitary Leaks](https://micahflee.com/exploring-the-paramilitary-leaks/)
