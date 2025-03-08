@@ -2,6 +2,7 @@
 
 * [2025-03-08, 07:01:07](https://news.ycombinator.com/item?id=43298130) - [Demodesk (YC W19) Is Hiring a Ruby on Rails Full-Stack Engineer](https://demodesk.com/careers?utm_source=hn)
 * [2025-03-08, 06:43:22](https://news.ycombinator.com/item?id=43298054) - [PayPal honey extension has again \"featured\" flag in Chrome web store](https://chromewebstore.google.com/detail/paypal-honey-automatic-co/bmnlcjabgnpnenekpadlanbbkooimhnj/reviews)
+* [2025-03-08, 06:41:34](https://news.ycombinator.com/item?id=43298048) - [Svelte5: A Less Favorable Vue3](https://gist.github.com/rxliuli/c886198390a9fd1138853d0e260025f3)
 * [2025-03-08, 04:46:33](https://news.ycombinator.com/item?id=43297574) - [An epic treatise on error models for systems programming languages](https://typesanitizer.com/blog/errors.html)
 * [2025-03-08, 02:12:13](https://news.ycombinator.com/item?id=43296918) - [Show HN: Open-Source DocumentAI with Ollama](https://rlama.dev/)
 * [2025-03-08, 01:26:33](https://news.ycombinator.com/item?id=43296656) - [Feds Link $150M Cyberheist to 2022 LastPass Hacks](https://krebsonsecurity.com/2025/03/feds-link-150m-cyberheist-to-2022-lastpass-hacks/)
@@ -27,7 +28,6 @@
 * [2025-03-05, 02:18:21](https://news.ycombinator.com/item?id=43261825) - [Integrated sensing and communication based on space-time-coding metasurfaces](https://www.nature.com/articles/s41467-025-57137-6)
 * [2025-03-04, 22:00:08](https://news.ycombinator.com/item?id=43260251) - [Show HN: I Built a Telegraph Simulator](https://telegraph.13ug1mb.com)
 * [2025-03-04, 17:19:26](https://news.ycombinator.com/item?id=43257506) - [Mountains, Cliffs, and Caves: A Guide to Using Perlin Noise for Procedural Gen](https://jdhwilkins.com/mountains-cliffs-and-caves-a-comprehensive-guide-to-using-perlin-noise-for-procedural-generation/)
-* [2025-03-04, 16:31:00](https://news.ycombinator.com/item?id=43256878) - [I hacked my company's SSO provider](https://mattsayar.com/how-i-hacked-my-companys-sso-provider/)
 * [2025-03-04, 16:25:54](https://news.ycombinator.com/item?id=43256802) - [(Reasonably) secure Azure Pipelines on-prem deployments](https://rewiring.bearblog.dev/azure-devops-in-action-pt-iii-reasonably-secure-deploys-to-iis/)
 * [2025-03-02, 01:14:29](https://news.ycombinator.com/item?id=43226052) - [Unleashed Recompiled: PC port of the Xbox 360 version of Sonic Unleashed](https://github.com/hedge-dev/UnleashedRecomp)
 
