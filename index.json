@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-08, 12:41:56",
+      "https://news.ycombinator.com/item?id=43299772"
+    ],
+    [
+      "Gene-edited non-browning banana could cut food waste",
+      "https://www.theguardian.com/science/2025/mar/07/gene-edited-non-browning-banana-cut-food-waste-tropic-norwich"
+    ]
+  ],
+  [
+    [
       "2025-03-08, 12:19:59",
       "https://news.ycombinator.com/item?id=43299635"
     ],
@@ -17,16 +27,6 @@
     [
       "Extend (YC W23) is hiring engineers to build LLM document processing",
       "https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37"
-    ]
-  ],
-  [
-    [
-      "2025-03-08, 10:19:55",
-      "https://news.ycombinator.com/item?id=43299011"
-    ],
-    [
-      "US support to maintain UK's nuclear arsenal is in doubt",
-      "https://www.theguardian.com/world/2025/mar/08/us-support-uk-nuclear-arsenal-in-doubt-trident-france"
     ]
   ],
   [
@@ -57,16 +57,6 @@
     [
       "PayPal honey extension has again \"featured\" flag in Chrome web store",
       "https://chromewebstore.google.com/detail/paypal-honey-automatic-co/bmnlcjabgnpnenekpadlanbbkooimhnj/reviews"
-    ]
-  ],
-  [
-    [
-      "2025-03-08, 06:41:34",
-      "https://news.ycombinator.com/item?id=43298048"
-    ],
-    [
-      "Svelte5: A Less Favorable Vue3",
-      "https://gist.github.com/rxliuli/c886198390a9fd1138853d0e260025f3"
     ]
   ],
   [
@@ -105,8 +95,18 @@
       "https://news.ycombinator.com/item?id=43296656"
     ],
     [
-      "Feds Link $150M Cyberheist to 2022 LastPass Hacks",
+      "Feds Link Cyberheist to 2022 LastPass Hacks",
       "https://krebsonsecurity.com/2025/03/feds-link-150m-cyberheist-to-2022-lastpass-hacks/"
+    ]
+  ],
+  [
+    [
+      "2025-03-07, 23:14:36",
+      "https://news.ycombinator.com/item?id=43295865"
+    ],
+    [
+      "How did places like Bell Labs know how to ask the right questions? (2023)",
+      "https://www.freaktakes.com/p/how-did-places-like-bell-labs-know"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2025-03-07, 14:43:24",
-      "https://news.ycombinator.com/item?id=43290555"
-    ],
-    [
-      "Strobelight: A profiling service built on open source technology",
-      "https://engineering.fb.com/2025/01/21/production-engineering/strobelight-a-profiling-service-built-on-open-source-technology/"
-    ]
-  ],
-  [
-    [
       "2025-03-06, 07:46:50",
       "https://news.ycombinator.com/item?id=43277550"
     ],
@@ -227,6 +217,16 @@
     [
       "Postgres Just Cracked the Top Fastest Databases for Analytics",
       "https://www.mooncake.dev/blog/clickbench-v0.1"
+    ]
+  ],
+  [
+    [
+      "2025-03-05, 14:50:49",
+      "https://news.ycombinator.com/item?id=43267232"
+    ],
+    [
+      "Show HN: AI art generation faster than Midjourney",
+      "https://www.gentube.app/?_cid=np"
     ]
   ],
   [
