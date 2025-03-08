@@ -20,7 +20,7 @@
 * [2025-03-07, 17:23:28](https://news.ycombinator.com/item?id=43292050) - [Optimistic Locking in B-Trees](https://cedardb.com/blog/optimistic_btrees/)
 * [2025-03-07, 17:12:30](https://news.ycombinator.com/item?id=43291946) - [Vtm: Text-Based Desktop Environment](https://github.com/directvt/vtm)
 * [2025-03-07, 17:09:20](https://news.ycombinator.com/item?id=43291922) - [Ask HN: Do your eyes bug you even though your prescription is \"correct\"?](https://news.ycombinator.com/item?id=43291922)
-* [2025-03-07, 15:25:13](https://news.ycombinator.com/item?id=43290892) - [Betting on the Pope was the original prediction market](https://nodumbideas.com/p/betting-on-the-pope-was-the-original)
+* [2025-03-07, 16:44:20](https://news.ycombinator.com/item?id=43291678) - [Show HN: IEMidi –  Cross-platform MIDI map editor for arbitrary controllers](https://github.com/Interactive-Echoes/IEMidi)
 * [2025-03-07, 14:43:24](https://news.ycombinator.com/item?id=43290555) - [Strobelight: A profiling service built on open source technology](https://engineering.fb.com/2025/01/21/production-engineering/strobelight-a-profiling-service-built-on-open-source-technology/)
 * [2025-03-06, 13:08:09](https://news.ycombinator.com/item?id=43279773) - [Portable MRI Scans Patients for Signs of Stroke](https://spectrum.ieee.org/stroke-mri)
 * [2025-03-05, 21:16:24](https://news.ycombinator.com/item?id=43272549) - [A game of learning your homelab into a cyberpunk mystery adventure](https://github.com/Fimeg/NetworkChronicles)
