@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2025-03-07, 21:33:43",
+      "https://news.ycombinator.com/item?id=43294974"
+    ],
+    [
+      "Letta: Letta is a framework for creating LLM services with memory",
+      "https://github.com/letta-ai/letta"
+    ]
+  ],
+  [
+    [
       "2025-03-07, 21:01:16",
       "https://news.ycombinator.com/item?id=43294602"
     ],
@@ -117,6 +127,16 @@
     [
       "'Next-Level' Chaos Traces the True Limit of Predictability",
       "https://www.quantamagazine.org/next-level-chaos-traces-the-true-limit-of-predictability-20250307/"
+    ]
+  ],
+  [
+    [
+      "2025-03-07, 19:28:31",
+      "https://news.ycombinator.com/item?id=43293487"
+    ],
+    [
+      "Europe's most wanted man plotted my murder and that of my colleague",
+      "https://theins.press/en/inv/279034"
     ]
   ],
   [
@@ -207,26 +227,6 @@
     [
       "Strobelight: A profiling service built on open source technology",
       "https://engineering.fb.com/2025/01/21/production-engineering/strobelight-a-profiling-service-built-on-open-source-technology/"
-    ]
-  ],
-  [
-    [
-      "2025-03-07, 06:45:57",
-      "https://news.ycombinator.com/item?id=43287821"
-    ],
-    [
-      "Ladder: Self-improving LLMs through recursive problem decomposition",
-      "https://arxiv.org/abs/2503.00735"
-    ]
-  ],
-  [
-    [
-      "2025-03-06, 23:43:37",
-      "https://news.ycombinator.com/item?id=43286161"
-    ],
-    [
-      "Differentiable Logic Cellular Automata",
-      "https://google-research.github.io/self-organising-systems/difflogic-ca/?hn"
     ]
   ],
   [
