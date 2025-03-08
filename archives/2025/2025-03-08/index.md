@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-08](index.md)
 
+* [2025-03-08, 07:01:07](https://news.ycombinator.com/item?id=43298130) - [Demodesk (YC W19) Is Hiring a Ruby on Rails Full-Stack Engineer](https://demodesk.com/careers?utm_source=hn)
 * [2025-03-08, 04:57:47](https://news.ycombinator.com/item?id=43297618) - [My legal last name prevents me from completing my Twitch affiliate onboarding](https://old.reddit.com/r/Twitch/comments/1j3fvzx/my_legal_last_name_is_preventing_me_from/)
 * [2025-03-08, 04:46:33](https://news.ycombinator.com/item?id=43297574) - [An epic treatise on error models for systems programming languages](https://typesanitizer.com/blog/errors.html)
 * [2025-03-08, 03:15:27](https://news.ycombinator.com/item?id=43297174) - [Auntie PDF – an open source app built using Mistral OCR](https://www.auntiepdf.com/)
