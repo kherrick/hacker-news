@@ -20,7 +20,6 @@
 * [2025-03-07, 17:23:28](https://news.ycombinator.com/item?id=43292050) - [Optimistic Locking in B-Trees](https://cedardb.com/blog/optimistic_btrees/)
 * [2025-03-07, 17:12:30](https://news.ycombinator.com/item?id=43291946) - [Vtm: Text-Based Desktop Environment](https://github.com/directvt/vtm)
 * [2025-03-07, 17:09:20](https://news.ycombinator.com/item?id=43291922) - [Ask HN: Do your eyes bug you even though your prescription is \"correct\"?](https://news.ycombinator.com/item?id=43291922)
-* [2025-03-07, 16:44:20](https://news.ycombinator.com/item?id=43291678) - [Show HN: IEMidi –  Cross-platform MIDI map editor for arbitrary controllers](https://github.com/Interactive-Echoes/IEMidi)
 * [2025-03-07, 15:25:13](https://news.ycombinator.com/item?id=43290892) - [Betting on the Pope was the original prediction market](https://nodumbideas.com/p/betting-on-the-pope-was-the-original)
 * [2025-03-07, 14:43:24](https://news.ycombinator.com/item?id=43290555) - [Strobelight: A profiling service built on open source technology](https://engineering.fb.com/2025/01/21/production-engineering/strobelight-a-profiling-service-built-on-open-source-technology/)
 * [2025-03-06, 13:08:09](https://news.ycombinator.com/item?id=43279773) - [Portable MRI Scans Patients for Signs of Stroke](https://spectrum.ieee.org/stroke-mri)
@@ -29,6 +28,7 @@
 * [2025-03-05, 02:18:21](https://news.ycombinator.com/item?id=43261825) - [Integrated sensing and communication based on space-time-coding metasurfaces](https://www.nature.com/articles/s41467-025-57137-6)
 * [2025-03-04, 22:00:08](https://news.ycombinator.com/item?id=43260251) - [Show HN: I Built a Telegraph Simulator](https://telegraph.13ug1mb.com)
 * [2025-03-04, 17:19:26](https://news.ycombinator.com/item?id=43257506) - [Mountains, Cliffs, and Caves: A Guide to Using Perlin Noise for Procedural Gen](https://jdhwilkins.com/mountains-cliffs-and-caves-a-comprehensive-guide-to-using-perlin-noise-for-procedural-generation/)
+* [2025-03-04, 08:21:40](https://news.ycombinator.com/item?id=43251868) - [The German language broke my website](https://speedbumpapp.com/en/blog/german-translation/)
 * [2025-03-02, 01:14:29](https://news.ycombinator.com/item?id=43226052) - [Unleashed Recompiled: PC port of the Xbox 360 version of Sonic Unleashed](https://github.com/hedge-dev/UnleashedRecomp)
 
 ## [Archives](archives/index.md)

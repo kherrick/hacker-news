@@ -63,6 +63,7 @@
 * [2025-03-04, 10:51:59](https://news.ycombinator.com/item?id=43252994) - [Why Quantum Engineering Is Emerging as a Distinct Industrial Sector](https://spectrum.ieee.org/quantum-mechanics)
 * [2025-03-04, 09:40:47](https://news.ycombinator.com/item?id=43252479) - [Grok Is Having an Outage](https://status.x.ai/)
 * [2025-03-04, 09:37:15](https://news.ycombinator.com/item?id=43252445) - [Anthropic's valuation triples to $61.5B in bumper AI funding round](https://www.ft.com/content/05c90475-84fb-4f88-bbfc-6b1a60af90db)
+* [2025-03-04, 08:21:40](https://news.ycombinator.com/item?id=43251868) - [The German language broke my website](https://speedbumpapp.com/en/blog/german-translation/)
 * [2025-03-04, 08:09:22](https://news.ycombinator.com/item?id=43251762) - [Mozilla rewrites Firefox's Terms of Use after user backlash](https://techcrunch.com/2025/03/03/mozilla-rewrites-firefoxs-terms-of-use-after-user-backlash/)
 * [2025-03-04, 08:05:02](https://news.ycombinator.com/item?id=43251722) - [Why writing small docs is a game changer](https://bufferbuffer.com/why-writing-small-docs-is-a-game-changer/)
 * [2025-03-04, 07:25:02](https://news.ycombinator.com/item?id=43251416) - [In Severance, Office Perks Couldn't Be More Sinister](https://theoffcut.substack.com/p/severance-office-perks-sinister)
