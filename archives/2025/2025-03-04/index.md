@@ -15,6 +15,7 @@
 * [2025-03-04, 19:52:38](https://news.ycombinator.com/item?id=43259182) - [ARC-AGI without pretraining](https://iliao2345.github.io/blog_posts/arc_agi_without_pretraining/arc_agi_without_pretraining.html)
 * [2025-03-04, 19:49:57](https://news.ycombinator.com/item?id=43259146) - [2025-03-01 the cold glow of tritium](https://computer.rip/2025-03-01-the-cold-glow-of-tritium.html)
 * [2025-03-04, 19:05:43](https://news.ycombinator.com/item?id=43258709) - [Why FastDoom Is Fast](https://fabiensanglard.net/fastdoom/index.html)
+* [2025-03-04, 19:01:20](https://news.ycombinator.com/item?id=43258670) - [AI models makes precise copies of cuneiform characters](https://news.cornell.edu/stories/2025/03/ai-models-makes-precise-copies-cuneiform-characters)
 * [2025-03-04, 18:53:44](https://news.ycombinator.com/item?id=43258585) - [Show HN: Time travel debugging AI for more reliable vibe coding](https://nut.new)
 * [2025-03-04, 18:12:12](https://news.ycombinator.com/item?id=43258104) - [The Imaginary Engineer – Karl Hans Janke's Flights of Fancy](https://www.cabinetmagazine.org/issues/29/lee.php)
 * [2025-03-04, 18:05:44](https://news.ycombinator.com/item?id=43258026) - [Shaking the Earth: from volcanology to seismic surveys (2024)](https://www.lyellcollection.org/doi/full/10.1144/M60-2022-31)
