@@ -46,6 +46,7 @@
 * [2025-03-06, 13:47:30](https://news.ycombinator.com/item?id=43280128) - [Show HN: LLMs Playing Mafia games – See them lie, deceive, and reason](https://mafia.opennumbers.xyz/)
 * [2025-03-06, 13:41:48](https://news.ycombinator.com/item?id=43280071) - [Let's Talk About the American Dream](https://blog.codinghorror.com/lets-talk-about-the-american-dream/)
 * [2025-03-06, 13:34:52](https://news.ycombinator.com/item?id=43280007) - [I Used to Teach Students. Now I Catch ChatGPT Cheats](https://thewalrus.ca/i-used-to-teach-students-now-i-catch-chatgpt-cheats/)
+* [2025-03-06, 13:08:09](https://news.ycombinator.com/item?id=43279773) - [Portable MRI Scans Patients for Signs of Stroke](https://spectrum.ieee.org/stroke-mri)
 * [2025-03-06, 13:05:02](https://news.ycombinator.com/item?id=43279746) - [A shirt whose price increases by 1 euro with every purchase](https://driesdepoorter.be/shirt/)
 * [2025-03-06, 12:37:29](https://news.ycombinator.com/item?id=43279528) - [Israel creating GPT-like tool using collection of Palestinian surveillance data](https://www.theguardian.com/world/2025/mar/06/israel-military-ai-surveillance)
 * [2025-03-06, 12:33:27](https://news.ycombinator.com/item?id=43279494) - [Age and cognitive skills: Use it or lose it](https://www.science.org/doi/full/10.1126/sciadv.ads1560?af=R)
