@@ -2,8 +2,8 @@
 
 * [2025-03-08, 18:16:42](https://news.ycombinator.com/item?id=43302177) - [Feds arrest man for sharing DVD rip of Spider-Man movie with millions online](https://arstechnica.com/tech-policy/2025/03/fbi-nabs-worker-at-dvd-company-for-ripping-prerelease-marvel-blockbusters/)
 * [2025-03-08, 18:11:46](https://news.ycombinator.com/item?id=43302132) - [Kill your Feeds – Stop letting algorithms dictate what you think](https://usher.dev/posts/2025-03-08-kill-your-feeds/)
+* [2025-03-08, 18:08:28](https://news.ycombinator.com/item?id=43302097) - [Google will still have to break up its business, the Justice Department said](https://www.engadget.com/big-tech/google-will-still-have-to-break-up-its-business-the-justice-department-said-150000739.html)
 * [2025-03-08, 18:04:36](https://news.ycombinator.com/item?id=43302073) - [Kagi Is Bringing Orion Web Browser to Linux](https://www.omgubuntu.co.uk/2025/03/kag-orion-web-browser-coming-to-linux)
-* [2025-03-08, 17:50:01](https://news.ycombinator.com/item?id=43301961) - [Sex Traffickers in Colombia Using Facebook, Tinder and Airbnb to Exploit Minors](https://www.bloomberg.com/news/features/2025-03-03/facebook-tinder-airbnb-apps-are-used-for-sex-trafficking-in-colombia)
 * [2025-03-08, 17:14:12](https://news.ycombinator.com/item?id=43301702) - [Sam Bankman-Fried thrown into solitary over Tucker Carlson interview: report](https://gizmodo.com/sam-bankman-fried-thrown-into-solitary-over-tucker-carlson-interview-report-2000573371)
 * [2025-03-08, 17:00:57](https://news.ycombinator.com/item?id=43301619) - [Spice Data (YC S19) Is Hiring a Founding Senior/Staff Software Engineer](https://www.ycombinator.com/companies/spice-data/jobs/f6BuehM-founding-senior-staff-software-engineer)
 * [2025-03-08, 16:44:51](https://news.ycombinator.com/item?id=43301481) - [Show HN: I built a tool to detect scams](https://scamchecknow.com)
