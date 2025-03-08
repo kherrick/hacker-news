@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-03-08, 12:44:25",
-      "https://news.ycombinator.com/item?id=43299795"
-    ],
-    [
-      "Learn Arabic",
-      "https://arabic.fi"
-    ]
-  ],
-  [
-    [
       "2025-03-08, 12:41:56",
       "https://news.ycombinator.com/item?id=43299772"
     ],
@@ -131,6 +121,16 @@
   ],
   [
     [
+      "2025-03-07, 20:50:45",
+      "https://news.ycombinator.com/item?id=43294489"
+    ],
+    [
+      "'Next-Level' Chaos Traces the True Limit of Predictability",
+      "https://www.quantamagazine.org/next-level-chaos-traces-the-true-limit-of-predictability-20250307/"
+    ]
+  ],
+  [
+    [
       "2025-03-07, 18:34:02",
       "https://news.ycombinator.com/item?id=43292820"
     ],
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2025-03-06, 13:08:09",
+      "https://news.ycombinator.com/item?id=43279773"
+    ],
+    [
+      "Portable MRI Scans Patients for Signs of Stroke",
+      "https://spectrum.ieee.org/stroke-mri"
+    ]
+  ],
+  [
+    [
       "2025-03-06, 07:46:50",
       "https://news.ycombinator.com/item?id=43277550"
     ],
@@ -211,12 +221,12 @@
   ],
   [
     [
-      "2025-03-05, 21:16:24",
-      "https://news.ycombinator.com/item?id=43272549"
+      "2025-03-05, 18:59:04",
+      "https://news.ycombinator.com/item?id=43270712"
     ],
     [
-      "A game of learning your homelab into a cyberpunk mystery adventure",
-      "https://github.com/Fimeg/NetworkChronicles"
+      "Postgres Just Cracked the Top Fastest Databases for Analytics",
+      "https://www.mooncake.dev/blog/clickbench-v0.1"
     ]
   ],
   [
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2025-03-05, 13:49:28",
-      "https://news.ycombinator.com/item?id=43266327"
+      "2025-03-05, 02:18:21",
+      "https://news.ycombinator.com/item?id=43261825"
     ],
     [
-      "Qualcomm Claims New X85 Modem Creates 'Huge Delta' in Performance versus Apple",
-      "https://www.macrumors.com/2025/03/05/qualcomm-claims-x85-modem-better-than-apple/"
+      "Integrated sensing and communication based on space-time-coding metasurfaces",
+      "https://www.nature.com/articles/s41467-025-57137-6"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "(Reasonably) secure Azure Pipelines on-prem deployments",
       "https://rewiring.bearblog.dev/azure-devops-in-action-pt-iii-reasonably-secure-deploys-to-iis/"
-    ]
-  ],
-  [
-    [
-      "2025-03-02, 01:14:29",
-      "https://news.ycombinator.com/item?id=43226052"
-    ],
-    [
-      "Unleashed Recompiled: PC port of the Xbox 360 version of Sonic Unleashed",
-      "https://github.com/hedge-dev/UnleashedRecomp"
     ]
   ]
 ]
