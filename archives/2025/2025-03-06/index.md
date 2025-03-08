@@ -54,6 +54,7 @@
 * [2025-03-06, 12:28:01](https://news.ycombinator.com/item?id=43279442) - [UK homes install subsidised heat pumps at record level](https://www.bbc.co.uk/news/articles/c3e4nlxlq08o)
 * [2025-03-06, 12:00:40](https://news.ycombinator.com/item?id=43279220) - [Empirical Health is hiring design engineers to build primary care of the future](https://www.ycombinator.com/companies/empirical-health/jobs/nZFQWLW-design-engineer)
 * [2025-03-06, 11:53:08](https://news.ycombinator.com/item?id=43279147) - [Scientists crack how aspirin might stop cancers from spreading](https://www.bbc.com/news/articles/c1d4n119xr7o)
+* [2025-03-06, 11:51:17](https://news.ycombinator.com/item?id=43279131) - [Spark-TTS: Text-2-Speech Model Single-Stream Decoupled Tokens [pdf]](https://arxiv.org/abs/2503.01710)
 * [2025-03-06, 11:29:56](https://news.ycombinator.com/item?id=43278934) - [Denmark postal service to stop delivering letters](https://www.bbc.com/news/articles/ckg8jllq283o)
 * [2025-03-06, 11:23:49](https://news.ycombinator.com/item?id=43278880) - [Now there are two Chinese automakers on the top list](https://daoinsights.com/news/now-there-are-two-chinese-automakers-on-the-worlds-top-10-list/)
 * [2025-03-06, 11:17:48](https://news.ycombinator.com/item?id=43278845) - [AMD Announces \"Instella\" Open-Source 3B Language Models](https://www.phoronix.com/news/AMD-Intella-Open-Source-LM)
