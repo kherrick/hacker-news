@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-04](index.md)
 
 * [2025-03-04, 23:51:53](https://news.ycombinator.com/item?id=43261014) - [Show HN: Scholium, Your Own Research Assistant](https://github.com/QDScholium/ScholiumAI)
+* [2025-03-04, 23:34:00](https://news.ycombinator.com/item?id=43260890) - [\"Wooly mice\" a test run for mammoth gene editing](https://arstechnica.com/science/2025/03/wooly-mice-a-test-run-for-mammoth-gene-editing/)
 * [2025-03-04, 22:00:08](https://news.ycombinator.com/item?id=43260251) - [Show HN: I Built a Telegraph Simulator](https://telegraph.13ug1mb.com)
 * [2025-03-04, 21:20:38](https://news.ycombinator.com/item?id=43259899) - [Some D0g3 Staffers Are Drawing Six-Figure Government Salaries](https://www.wired.com/story/doge-government-salaries-elon-musk/)
 * [2025-03-04, 21:14:56](https://news.ycombinator.com/item?id=43259862) - [Show HN: ArchGW – An open-source intelligent proxy server for prompts](https://github.com/katanemo/archgw)

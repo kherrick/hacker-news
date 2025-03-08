@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-08](index.md)
 
+* [2025-03-08, 09:43:56](https://news.ycombinator.com/item?id=43298862) - [Most Americans just don't matter to the economy like they once did](https://www.marketwatch.com/story/most-americans-cant-afford-life-anymore-and-they-just-dont-matter-to-the-economy-like-they-used-to-5c5aaca5)
 * [2025-03-08, 08:04:07](https://news.ycombinator.com/item?id=43298447) - [A TV with Contrast You Haven't Seen for Years](https://hackaday.com/2025/03/05/a-tv-with-contrast-you-havent-seen-for-years/)
 * [2025-03-08, 07:31:13](https://news.ycombinator.com/item?id=43298290) - [Choosing death penalty by firing squad because it's safer](https://www.pbs.org/newshour/show/south-carolina-executes-convicted-murderer-by-firing-squad)
 * [2025-03-08, 07:01:07](https://news.ycombinator.com/item?id=43298130) - [Demodesk (YC W19) Is Hiring a Ruby on Rails Full-Stack Engineer](https://demodesk.com/careers?utm_source=hn)
