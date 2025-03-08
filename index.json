@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-08, 01:26:33",
+      "https://news.ycombinator.com/item?id=43296656"
+    ],
+    [
+      "Feds Link $150M Cyberheist to 2022 LastPass Hacks",
+      "https://krebsonsecurity.com/2025/03/feds-link-150m-cyberheist-to-2022-lastpass-hacks/"
+    ]
+  ],
+  [
+    [
+      "2025-03-08, 00:57:42",
+      "https://news.ycombinator.com/item?id=43296513"
+    ],
+    [
+      "Superintelligence startup Reflection AI launches with $130M in funding",
+      "https://siliconangle.com/2025/03/07/superintelligence-startup-reflection-ai-launches-130m-funding/"
+    ]
+  ],
+  [
+    [
       "2025-03-07, 23:52:49",
       "https://news.ycombinator.com/item?id=43296103"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=43295908"
     ],
     [
-      "Why do I find Rust inadequate for text compression codecs?",
+      "Rust inadequate for text compression codecs?",
       "https://palaiologos.rocks/posts/rust-codecs/"
     ]
   ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2025-03-07, 17:24:26",
-      "https://news.ycombinator.com/item?id=43292058"
-    ],
-    [
-      "Show HN: A big tech dev experience for an open source CMS",
-      "https://contentfoundry.com/"
-    ]
-  ],
-  [
-    [
       "2025-03-07, 17:24:02",
       "https://news.ycombinator.com/item?id=43292056"
     ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2025-03-07, 11:16:41",
-      "https://news.ycombinator.com/item?id=43289245"
-    ],
-    [
-      "Natural occurring molecule rivals Ozempic in weight loss, sidesteps side effects",
-      "https://medicalxpress.com/news/2025-03-naturally-molecule-rivals-ozempic-weight.html"
-    ]
-  ],
-  [
-    [
       "2025-03-07, 10:06:38",
       "https://news.ycombinator.com/item?id=43288861"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2025-03-04, 13:19:37",
-      "https://news.ycombinator.com/item?id=43254163"
+      "2025-03-04, 17:19:26",
+      "https://news.ycombinator.com/item?id=43257506"
     ],
     [
-      "Uber users in Austin are getting matched with Waymo robotaxis",
-      "https://techcrunch.com/2025/03/04/uber-users-in-austin-are-getting-matched-with-waymo-robotaxis/"
+      "Mountains, Cliffs, and Caves: A Guide to Using Perlin Noise for Procedural Gen",
+      "https://jdhwilkins.com/mountains-cliffs-and-caves-a-comprehensive-guide-to-using-perlin-noise-for-procedural-generation/"
     ]
   ],
   [
