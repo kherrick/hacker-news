@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-08, 21:00:34](https://news.ycombinator.com/item?id=43303463) - [OneText (YC W23) is hiring a browser extension engineer](https://news.ycombinator.com/item?id=43303463)
 * [2025-03-08, 19:38:42](https://news.ycombinator.com/item?id=43302835) - [Accessibility: Don't Use Fake Bold or Italic in Social Media](https://adrianroselli.com/2025/03/dont-use-fake-bold-or-italic-in-social-media.html)
 * [2025-03-08, 19:02:34](https://news.ycombinator.com/item?id=43302563) - [Linear Pluggable Optics Save Energy in Data Centers](https://semiengineering.com/linear-pluggable-optics-save-energy-in-data-centers/)
 * [2025-03-08, 18:54:17](https://news.ycombinator.com/item?id=43302495) - [Deploy from local to production (self-hosted)](https://github.com/bypirob/airo)
@@ -8,7 +9,6 @@
 * [2025-03-08, 18:11:46](https://news.ycombinator.com/item?id=43302132) - [Kill your Feeds – Stop letting algorithms dictate what you think](https://usher.dev/posts/2025-03-08-kill-your-feeds/)
 * [2025-03-08, 18:08:28](https://news.ycombinator.com/item?id=43302097) - [Google will still have to break up its business, the Justice Department said](https://www.engadget.com/big-tech/google-will-still-have-to-break-up-its-business-the-justice-department-said-150000739.html)
 * [2025-03-08, 18:04:36](https://news.ycombinator.com/item?id=43302073) - [Kagi Is Bringing Orion Web Browser to Linux](https://www.omgubuntu.co.uk/2025/03/kag-orion-web-browser-coming-to-linux)
-* [2025-03-08, 17:00:57](https://news.ycombinator.com/item?id=43301619) - [Spice Data (YC S19) Is Hiring a Founding Senior/Staff Software Engineer](https://www.ycombinator.com/companies/spice-data/jobs/f6BuehM-founding-senior-staff-software-engineer)
 * [2025-03-08, 16:44:51](https://news.ycombinator.com/item?id=43301481) - [Show HN: I built a tool to detect scams](https://scamchecknow.com)
 * [2025-03-08, 16:39:23](https://news.ycombinator.com/item?id=43301432) - [You might not need Redis](https://www.viblo.se/posts/no-need-redis/)
 * [2025-03-08, 16:30:38](https://news.ycombinator.com/item?id=43301369) - [Undocumented backdoor found in Bluetooth chip used by a billion devices](https://www.bleepingcomputer.com/news/security/undocumented-backdoor-found-in-bluetooth-chip-used-by-a-billion-devices/)
