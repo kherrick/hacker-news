@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-08](index.md)
 
+* [2025-03-08, 13:57:21](https://news.ycombinator.com/item?id=43300285) - [Stanford scientists discover new Ozempic alternative with RegEx](https://twitter.com/lauriewired/status/1898149987890217033)
 * [2025-03-08, 13:26:17](https://news.ycombinator.com/item?id=43300081) - [AI Thinks It Cracked Kryptos. The Artist Behind It Says No Chance](https://www.wired.com/story/plaintext-kryptos-code-artificial-intelligence/)
+* [2025-03-08, 13:23:30](https://news.ycombinator.com/item?id=43300062) - [Smaller but Better: Unifying Layout Generation with Smaller LLMs](https://arxiv.org/abs/2502.14005)
 * [2025-03-08, 12:57:18](https://news.ycombinator.com/item?id=43299886) - [The DOJ Still Wants Google to Sell Off Chrome](https://www.wired.com/story/the-doj-still-wants-google-to-divest-chrome/)
 * [2025-03-08, 12:48:11](https://news.ycombinator.com/item?id=43299815) - [Discworld Rules](https://contraptions.venkateshrao.com/p/discworld-rules)
 * [2025-03-08, 12:44:25](https://news.ycombinator.com/item?id=43299795) - [Learn Arabic](https://arabic.fi)

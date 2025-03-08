@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-08, 13:57:21](https://news.ycombinator.com/item?id=43300285) - [Stanford scientists discover new Ozempic alternative with RegEx](https://twitter.com/lauriewired/status/1898149987890217033)
 * [2025-03-08, 13:26:17](https://news.ycombinator.com/item?id=43300081) - [AI Thinks It Cracked Kryptos. The Artist Behind It Says No Chance](https://www.wired.com/story/plaintext-kryptos-code-artificial-intelligence/)
+* [2025-03-08, 13:23:30](https://news.ycombinator.com/item?id=43300062) - [Smaller but Better: Unifying Layout Generation with Smaller LLMs](https://arxiv.org/abs/2502.14005)
 * [2025-03-08, 12:57:18](https://news.ycombinator.com/item?id=43299886) - [The DOJ Still Wants Google to Sell Off Chrome](https://www.wired.com/story/the-doj-still-wants-google-to-divest-chrome/)
 * [2025-03-08, 12:48:11](https://news.ycombinator.com/item?id=43299815) - [Discworld Rules](https://contraptions.venkateshrao.com/p/discworld-rules)
 * [2025-03-08, 12:44:25](https://news.ycombinator.com/item?id=43299795) - [Learn Arabic](https://arabic.fi)
@@ -22,8 +24,6 @@
 * [2025-03-06, 07:46:50](https://news.ycombinator.com/item?id=43277550) - [Forces deep underground seem to be deforming Earth's inner core](https://www.newscientist.com/article/2467491-forces-deep-underground-seem-to-be-deforming-earths-inner-core/)
 * [2025-03-05, 21:16:24](https://news.ycombinator.com/item?id=43272549) - [A game of learning your homelab into a cyberpunk mystery adventure](https://github.com/Fimeg/NetworkChronicles)
 * [2025-03-05, 18:59:04](https://news.ycombinator.com/item?id=43270712) - [Postgres Just Cracked the Top Fastest Databases for Analytics](https://www.mooncake.dev/blog/clickbench-v0.1)
-* [2025-03-05, 14:50:49](https://news.ycombinator.com/item?id=43267232) - [Show HN: AI art generation faster than Midjourney](https://www.gentube.app/?_cid=np)
-* [2025-03-05, 14:07:24](https://news.ycombinator.com/item?id=43266546) - [The features of Python's help() function](https://www.pythonmorsels.com/help-features/)
 * [2025-03-05, 13:49:28](https://news.ycombinator.com/item?id=43266327) - [Qualcomm Claims New X85 Modem Creates 'Huge Delta' in Performance versus Apple](https://www.macrumors.com/2025/03/05/qualcomm-claims-x85-modem-better-than-apple/)
 * [2025-03-04, 23:34:00](https://news.ycombinator.com/item?id=43260890) - [\"Wooly mice\" a test run for mammoth gene editing](https://arstechnica.com/science/2025/03/wooly-mice-a-test-run-for-mammoth-gene-editing/)
 * [2025-03-04, 19:01:20](https://news.ycombinator.com/item?id=43258670) - [AI models makes precise copies of cuneiform characters](https://news.cornell.edu/stories/2025/03/ai-models-makes-precise-copies-cuneiform-characters)
