@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-08](index.md)
 
+* [2025-03-08, 21:36:53](https://news.ycombinator.com/item?id=43303752) - [Presenterm: Markdown Slideshows in the Terminal](https://github.com/mfontanini/presenterm)
 * [2025-03-08, 21:25:25](https://news.ycombinator.com/item?id=43303672) - [Why AI is still dumb and not scary at all (pt. 1)](https://tejo.substack.com/p/why-ai-is-still-dumb-and-not-scary)
 * [2025-03-08, 21:00:34](https://news.ycombinator.com/item?id=43303463) - [OneText (YC W23) is hiring a browser extension engineer](https://news.ycombinator.com/item?id=43303463)
 * [2025-03-08, 20:58:34](https://news.ycombinator.com/item?id=43303448) - [Microsoft Windows 1.0 with Steve Ballmer (1986)](https://www.youtube.com/watch?v=EtuDS0ntaJY)

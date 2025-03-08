@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-08, 21:36:53](https://news.ycombinator.com/item?id=43303752) - [Presenterm: Markdown Slideshows in the Terminal](https://github.com/mfontanini/presenterm)
 * [2025-03-08, 21:25:25](https://news.ycombinator.com/item?id=43303672) - [Why AI is still dumb and not scary at all (pt. 1)](https://tejo.substack.com/p/why-ai-is-still-dumb-and-not-scary)
 * [2025-03-08, 21:00:34](https://news.ycombinator.com/item?id=43303463) - [OneText (YC W23) is hiring a browser extension engineer](https://news.ycombinator.com/item?id=43303463)
 * [2025-03-08, 20:58:34](https://news.ycombinator.com/item?id=43303448) - [Microsoft Windows 1.0 with Steve Ballmer (1986)](https://www.youtube.com/watch?v=EtuDS0ntaJY)
@@ -8,7 +9,6 @@
 * [2025-03-08, 19:02:34](https://news.ycombinator.com/item?id=43302563) - [Linear Pluggable Optics Save Energy in Data Centers](https://semiengineering.com/linear-pluggable-optics-save-energy-in-data-centers/)
 * [2025-03-08, 18:54:17](https://news.ycombinator.com/item?id=43302495) - [Deploy from local to production (self-hosted)](https://github.com/bypirob/airo)
 * [2025-03-08, 18:32:18](https://news.ycombinator.com/item?id=43302297) - [MCP vs. API Explained](https://norahsakal.com/blog/mcp-vs-api-model-context-protocol-explained/)
-* [2025-03-08, 18:17:39](https://news.ycombinator.com/item?id=43302183) - [How much are LLMs boosting real-world programmer productivity?](https://www.lesswrong.com/posts/tqmQTezvXGFmfSe7f/how-much-are-llms-actually-boosting-real-world-programmer)
 * [2025-03-08, 18:11:46](https://news.ycombinator.com/item?id=43302132) - [Kill your Feeds – Stop letting algorithms dictate what you think](https://usher.dev/posts/2025-03-08-kill-your-feeds/)
 * [2025-03-08, 18:04:36](https://news.ycombinator.com/item?id=43302073) - [Kagi Is Bringing Orion Web Browser to Linux](https://www.omgubuntu.co.uk/2025/03/kag-orion-web-browser-coming-to-linux)
 * [2025-03-08, 16:39:23](https://news.ycombinator.com/item?id=43301432) - [You might not need Redis](https://www.viblo.se/posts/no-need-redis/)
