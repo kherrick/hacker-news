@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-08](index.md)
 
 * [2025-03-08, 18:54:17](https://news.ycombinator.com/item?id=43302495) - [Deploy from local to production (self-hosted)](https://github.com/bypirob/airo)
+* [2025-03-08, 18:17:39](https://news.ycombinator.com/item?id=43302183) - [How Much Are LLMs Boosting Real-World Programmer Productivity?](https://www.lesswrong.com/posts/tqmQTezvXGFmfSe7f/how-much-are-llms-actually-boosting-real-world-programmer)
 * [2025-03-08, 18:16:42](https://news.ycombinator.com/item?id=43302177) - [Feds arrest man for sharing DVD rip of Spider-Man movie with millions online](https://arstechnica.com/tech-policy/2025/03/fbi-nabs-worker-at-dvd-company-for-ripping-prerelease-marvel-blockbusters/)
 * [2025-03-08, 18:11:46](https://news.ycombinator.com/item?id=43302132) - [Kill your Feeds – Stop letting algorithms dictate what you think](https://usher.dev/posts/2025-03-08-kill-your-feeds/)
 * [2025-03-08, 18:08:28](https://news.ycombinator.com/item?id=43302097) - [Google will still have to break up its business, the Justice Department said](https://www.engadget.com/big-tech/google-will-still-have-to-break-up-its-business-the-justice-department-said-150000739.html)
