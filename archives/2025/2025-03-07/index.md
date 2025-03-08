@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-07](index.md)
 
+* [2025-03-07, 23:52:49](https://news.ycombinator.com/item?id=43296103) - [GeoCities in 1995: Building a Home Page on the Internet](https://cybercultural.com/p/geocities-1995/)
+* [2025-03-07, 23:20:45](https://news.ycombinator.com/item?id=43295908) - [Why do I find Rust inadequate for text compression codecs?](https://palaiologos.rocks/posts/rust-codecs/)
+* [2025-03-07, 23:14:36](https://news.ycombinator.com/item?id=43295865) - [How did places like Bell Labs know how to ask the right questions?](https://www.freaktakes.com/p/how-did-places-like-bell-labs-know)
 * [2025-03-07, 22:38:52](https://news.ycombinator.com/item?id=43295577) - [Measles outbreak in Texas and New Mexico now 208 cases, 2 deaths](https://arstechnica.com/science/2025/03/measles-outbreak-hits-208-cases-as-federal-outbreak-response-goes-off-the-rails/)
 * [2025-03-07, 21:19:23](https://news.ycombinator.com/item?id=43294816) - [Monotype and Phototypesetting (2000) [pdf]](https://web.archive.org/web/20040305094501/http://www.letterpress.ch/APINET/IMMPDF/MONOPHOTO/PHS_journal.pdf)
 * [2025-03-07, 21:05:38](https://news.ycombinator.com/item?id=43294652) - [The sudden rise of AuDHD: autism and ADHD (2024)](https://www.theguardian.com/lifeandstyle/2024/apr/04/audhd-what-is-behind-rocketing-rates-life-changing-diagnosis)
@@ -21,6 +24,7 @@
 * [2025-03-07, 19:01:30](https://news.ycombinator.com/item?id=43293121) - [Moscow-based global news network has infected Western AI tools](https://www.newsguardrealitycheck.com/p/a-well-funded-moscow-based-global)
 * [2025-03-07, 18:56:34](https://news.ycombinator.com/item?id=43293060) - [Two weak spots in Big Tech economics](https://pluralistic.net/2025/03/06/privacy-last/)
 * [2025-03-07, 18:44:34](https://news.ycombinator.com/item?id=43292946) - [Microsoft is plotting a future without OpenAI](https://techstartups.com/2025/03/07/microsoft-is-plotting-a-future-without-openai/)
+* [2025-03-07, 18:43:12](https://news.ycombinator.com/item?id=43292927) - [Extracting time series features: a powerful method from a obscure paper [pdf]](https://rcin.org.pl/ippt/Content/117114/PDF/WA727_91599_P.262b-Van-Atta-Effect.pdf)
 * [2025-03-07, 18:42:41](https://news.ycombinator.com/item?id=43292920) - [WB offers replacements, but no refunds, for DVDs rotting prematurely](https://arstechnica.com/gadgets/2025/03/they-curdle-like-milk-wb-dvds-from-2006-2008-are-rotting-away-in-their-cases/)
 * [2025-03-07, 18:35:27](https://news.ycombinator.com/item?id=43292836) - [How a Connecticut DMV Employee Made Thousands by Selling Towed Cars](https://www.propublica.org/article/connecticut-dmv-employee-sells-towed-cars)
 * [2025-03-07, 18:34:02](https://news.ycombinator.com/item?id=43292820) - [First Porn, Now Skin Cream? 'Age Verification' Bills Are Out of Control](https://www.eff.org/deeplinks/2025/03/first-porn-now-skin-cream-age-verification-bills-are-out-control)

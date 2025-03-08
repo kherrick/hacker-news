@@ -47,6 +47,7 @@
 * [2025-03-04, 13:57:20](https://news.ycombinator.com/item?id=43254637) - [Tesla electric car sales plunge again in Australia – Model 3 down more than 81 p](https://thedriven.io/2025/03/04/tesla-electric-car-sales-plunge-again-in-australia-model-3-down-more-than-81-per-cent/)
 * [2025-03-04, 13:50:26](https://news.ycombinator.com/item?id=43254552) - [Tips for using Gemini 2.0 for PDF ingestion](https://www.sergey.fyi/articles/gemini-flash-2-tips)
 * [2025-03-04, 13:35:12](https://news.ycombinator.com/item?id=43254351) - [Show HN: Fork of Claude-code working with local and other LLM providers](https://github.com/dnakov/anon-kode)
+* [2025-03-04, 13:19:37](https://news.ycombinator.com/item?id=43254163) - [Uber users in Austin are getting matched with Waymo robotaxis](https://techcrunch.com/2025/03/04/uber-users-in-austin-are-getting-matched-with-waymo-robotaxis/)
 * [2025-03-04, 13:05:53](https://news.ycombinator.com/item?id=43254012) - [Microsoft's new Dragon Copilot is an AI assistant for healthcare](https://www.theverge.com/news/622528/microsoft-dragon-copilot-ai-healthcare-assistant)
 * [2025-03-04, 12:55:29](https://news.ycombinator.com/item?id=43253898) - [Putting Bounties on My Goals](https://www.krayorn.com/posts/bounties-on-goals/)
 * [2025-03-04, 12:32:38](https://news.ycombinator.com/item?id=43253704) - [Speeding Up Computational Lithography with the Power and Parallelism of GPUs](https://semiengineering.com/speeding-up-computational-lithography-with-the-power-and-parallelism-of-gpus/)
