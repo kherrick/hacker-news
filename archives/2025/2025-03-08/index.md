@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-08](index.md)
 
+* [2025-03-08, 15:58:19](https://news.ycombinator.com/item?id=43301155) - [Cat-Eared Robots Are Waiting Tables in Japan's Restaurants](https://www.bloomberg.com/news/features/2025-03-06/thousands-of-cat-eared-robots-are-waiting-tables-in-japan)
 * [2025-03-08, 15:49:47](https://news.ycombinator.com/item?id=43301096) - [Phenakistiscope](https://en.wikipedia.org/wiki/Phenakistiscope)
 * [2025-03-08, 15:18:25](https://news.ycombinator.com/item?id=43300878) - [AI 'wingmen' bots to write profiles and flirt on dating apps](https://www.theguardian.com/lifeandstyle/2025/mar/08/ai-wingmen-bots-to-write-profiles-and-flirt-on-dating-apps)
 * [2025-03-08, 14:31:23](https://news.ycombinator.com/item?id=43300528) - [The program is the database is the interface](https://www.scattered-thoughts.net/writing/the-program-is-the-database-is-the-interface/)

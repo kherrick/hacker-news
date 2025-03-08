@@ -95,4 +95,5 @@
 * [2025-03-05, 01:31:22](https://news.ycombinator.com/item?id=43261600) - [Tmux – The Essentials (2019)](https://davidwinter.dev/2019/03/14/tmux-the-essentials)
 * [2025-03-05, 01:30:07](https://news.ycombinator.com/item?id=43261593) - [Explore Sutro Tower](https://explore.sutrotower.com)
 * [2025-03-05, 00:45:52](https://news.ycombinator.com/item?id=43261327) - [The Dead Planet Theory](https://arealsociety.substack.com/p/the-dead-planet-theory)
+* [2025-03-05, 00:31:33](https://news.ycombinator.com/item?id=43261247) - [Ultrasonic deep drawing cuts friction by 20%, extends tool lifespan](https://techxplore.com/news/2025-02-ultrasonic-deep-friction-tool-lifespan.html)
 * [2025-03-05, 00:27:34](https://news.ycombinator.com/item?id=43261218) - [Melbourne startup launches 'biological computer' made of human brain cells](https://www.abc.net.au/news/science/2025-03-05/cortical-labs-neuron-brain-chip/104996484)
