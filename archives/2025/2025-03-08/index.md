@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-08](index.md)
 
+* [2025-03-08, 19:02:34](https://news.ycombinator.com/item?id=43302563) - [Linear Pluggable Optics Save Energy in Data Centers](https://semiengineering.com/linear-pluggable-optics-save-energy-in-data-centers/)
 * [2025-03-08, 18:54:17](https://news.ycombinator.com/item?id=43302495) - [Deploy from local to production (self-hosted)](https://github.com/bypirob/airo)
 * [2025-03-08, 18:17:39](https://news.ycombinator.com/item?id=43302183) - [How Much Are LLMs Boosting Real-World Programmer Productivity?](https://www.lesswrong.com/posts/tqmQTezvXGFmfSe7f/how-much-are-llms-actually-boosting-real-world-programmer)
 * [2025-03-08, 18:16:42](https://news.ycombinator.com/item?id=43302177) - [Feds arrest man for sharing DVD rip of Spider-Man movie with millions online](https://arstechnica.com/tech-policy/2025/03/fbi-nabs-worker-at-dvd-company-for-ripping-prerelease-marvel-blockbusters/)
