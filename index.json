@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-03-08, 13:23:30",
-      "https://news.ycombinator.com/item?id=43300062"
-    ],
-    [
-      "Smaller but Better: Unifying Layout Generation with Smaller LLMs",
-      "https://arxiv.org/abs/2502.14005"
-    ]
-  ],
-  [
-    [
       "2025-03-08, 12:48:11",
       "https://news.ycombinator.com/item?id=43299815"
     ],
@@ -31,6 +21,16 @@
   ],
   [
     [
+      "2025-03-08, 12:23:46",
+      "https://news.ycombinator.com/item?id=43299659"
+    ],
+    [
+      "Long Read: Lessons from Building Semantic Search for GitHub and Why I Failed",
+      "https://tzx.notion.site/What-I-Learned-Building-a-Free-Semantic-Search-Tool-for-GitHub-and-Why-I-Failed-1a09b742c7918033b318f3a5d7dc9751"
+    ]
+  ],
+  [
+    [
       "2025-03-08, 12:19:59",
       "https://news.ycombinator.com/item?id=43299635"
     ],
@@ -47,6 +47,16 @@
     [
       "Extend (YC W23) is hiring engineers to build LLM document processing",
       "https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37"
+    ]
+  ],
+  [
+    [
+      "2025-03-08, 07:56:50",
+      "https://news.ycombinator.com/item?id=43298408"
+    ],
+    [
+      "Leave It to Manus",
+      "https://manus.im/"
     ]
   ],
   [
@@ -211,32 +221,12 @@
   ],
   [
     [
-      "2025-03-06, 13:08:09",
-      "https://news.ycombinator.com/item?id=43279773"
-    ],
-    [
-      "Portable MRI Scans Patients for Signs of Stroke",
-      "https://spectrum.ieee.org/stroke-mri"
-    ]
-  ],
-  [
-    [
       "2025-03-06, 07:46:50",
       "https://news.ycombinator.com/item?id=43277550"
     ],
     [
       "Forces deep underground seem to be deforming Earth's inner core",
       "https://www.newscientist.com/article/2467491-forces-deep-underground-seem-to-be-deforming-earths-inner-core/"
-    ]
-  ],
-  [
-    [
-      "2025-03-05, 18:59:04",
-      "https://news.ycombinator.com/item?id=43270712"
-    ],
-    [
-      "Postgres Just Cracked the Top Fastest Databases for Analytics",
-      "https://www.mooncake.dev/blog/clickbench-v0.1"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "AI models makes precise copies of cuneiform characters",
       "https://news.cornell.edu/stories/2025/03/ai-models-makes-precise-copies-cuneiform-characters"
+    ]
+  ],
+  [
+    [
+      "2025-03-04, 17:54:54",
+      "https://news.ycombinator.com/item?id=43257927"
+    ],
+    [
+      "Body Doubling",
+      "https://bodydoubling.com/"
     ]
   ],
   [
