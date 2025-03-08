@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-08](index.md)
 
+* [2025-03-08, 22:33:50](https://news.ycombinator.com/item?id=43304193) - [Maybe coders should learn to love analog? Could they?](https://www.planetanalog.com/maybe-coders-should-learn-to-love-analog-could-they/)
 * [2025-03-08, 22:02:19](https://news.ycombinator.com/item?id=43303943) - [Backdoor detected in ESP32 Espressif IoT chip](https://www.tarlogic.com/news/backdoor-esp32-chip-infect-ot-devices/)
 * [2025-03-08, 21:36:53](https://news.ycombinator.com/item?id=43303752) - [Presenterm: Markdown Slideshows in the Terminal](https://github.com/mfontanini/presenterm)
 * [2025-03-08, 21:25:25](https://news.ycombinator.com/item?id=43303672) - [Why AI is still dumb and not scary at all (pt. 1)](https://tejo.substack.com/p/why-ai-is-still-dumb-and-not-scary)
