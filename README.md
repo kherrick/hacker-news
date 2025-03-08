@@ -11,7 +11,7 @@
 * [2025-03-07, 21:01:16](https://news.ycombinator.com/item?id=43294602) - [ParadeDB (YC S23) Is Hiring a Rust Database Engineer](https://paradedb.notion.site/ParadeDB-Job-Board-50b45af7a2834e22958b171ffa008e00)
 * [2025-03-07, 20:57:46](https://news.ycombinator.com/item?id=43294566) - [Polars Cloud: The Distributed Cloud Architecture to Run Polars Anywhere](https://pola.rs/posts/polars-cloud-what-we-are-building/)
 * [2025-03-07, 20:50:45](https://news.ycombinator.com/item?id=43294489) - ['Next-Level' Chaos Traces the True Limit of Predictability](https://www.quantamagazine.org/next-level-chaos-traces-the-true-limit-of-predictability-20250307/)
-* [2025-03-07, 19:28:31](https://news.ycombinator.com/item?id=43293487) - [Europe's most wanted man plotted my murder and that of my colleague](https://theins.press/en/inv/279034)
+* [2025-03-07, 19:07:40](https://news.ycombinator.com/item?id=43293212) - [Coffee reduces risk of Type 2 Diabetes; okay to add cream, but not sweetener](https://ajcn.nutrition.org/article/S0002-9165(25)00017-6/abstract?dgcid=raven_jbs_etoc_email)
 * [2025-03-07, 18:44:34](https://news.ycombinator.com/item?id=43292946) - [Microsoft is plotting a future without OpenAI](https://techstartups.com/2025/03/07/microsoft-is-plotting-a-future-without-openai/)
 * [2025-03-07, 18:34:02](https://news.ycombinator.com/item?id=43292820) - [Age Verification Laws: A Backdoor to Surveillance](https://www.eff.org/deeplinks/2025/03/first-porn-now-skin-cream-age-verification-bills-are-out-control)
 * [2025-03-07, 18:06:45](https://news.ycombinator.com/item?id=43292471) - [Athena spacecraft declared dead after toppling over on moon](https://www.theguardian.com/science/2025/mar/07/athena-spacecraft-mission-dead)

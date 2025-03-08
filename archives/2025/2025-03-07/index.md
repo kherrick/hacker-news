@@ -21,6 +21,7 @@
 * [2025-03-07, 19:28:31](https://news.ycombinator.com/item?id=43293487) - [Europe's most wanted man plotted my murder – and that of my colleague](https://theins.press/en/inv/279034)
 * [2025-03-07, 19:22:34](https://news.ycombinator.com/item?id=43293412) - [Doge Is Putting Major Government Efficiency Projects at Risk](https://www.wired.com/story/doge-major-government-tech-projects-efficiency/)
 * [2025-03-07, 19:19:21](https://news.ycombinator.com/item?id=43293363) - [Great software design looks underwhelming](https://www.seangoedecke.com/great-software-design/)
+* [2025-03-07, 19:07:40](https://news.ycombinator.com/item?id=43293212) - [Coffee reduces risk of Type 2 Diabetes; okay to add cream, but not sweetener](https://ajcn.nutrition.org/article/S0002-9165(25)00017-6/abstract?dgcid=raven_jbs_etoc_email)
 * [2025-03-07, 19:06:30](https://news.ycombinator.com/item?id=43293192) - [Walt Disney's MultiPlane Camera (Filmed Feb. 13, 1957) [video]](https://www.youtube.com/watch?v=3YIR39KeJMk)
 * [2025-03-07, 19:01:30](https://news.ycombinator.com/item?id=43293121) - [Moscow-based global news network has infected Western AI tools](https://www.newsguardrealitycheck.com/p/a-well-funded-moscow-based-global)
 * [2025-03-07, 18:56:34](https://news.ycombinator.com/item?id=43293060) - [Two weak spots in Big Tech economics](https://pluralistic.net/2025/03/06/privacy-last/)
