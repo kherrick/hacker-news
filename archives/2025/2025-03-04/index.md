@@ -21,6 +21,7 @@
 * [2025-03-04, 17:36:23](https://news.ycombinator.com/item?id=43257719) - [Translating Natural Language to First-Order Logic for Logical Fallacy Detection](https://arxiv.org/abs/2405.02318)
 * [2025-03-04, 17:35:00](https://news.ycombinator.com/item?id=43257704) - [Show HN: Vidformer – Drop-In Acceleration for Cv2 Video Annotation Scripts](https://github.com/ixlab/vidformer)
 * [2025-03-04, 17:25:51](https://news.ycombinator.com/item?id=43257583) - [Learn How to Break AES](https://davidwong.fr/blockbreakers/)
+* [2025-03-04, 17:19:26](https://news.ycombinator.com/item?id=43257506) - [Mountains, Cliffs, and Caves: A Guide to Using Perlin Noise for Procedural Gen](https://jdhwilkins.com/mountains-cliffs-and-caves-a-comprehensive-guide-to-using-perlin-noise-for-procedural-generation/)
 * [2025-03-04, 17:16:13](https://news.ycombinator.com/item?id=43257473) - [DARPA exploring growing bio structures of \"unprecedented size\" in microgravity](https://sam.gov/opp/426e5868fcf74dd4ada3768b00b09234/view)
 * [2025-03-04, 17:14:26](https://news.ycombinator.com/item?id=43257460) - [Performance optimization, and how to do it wrong](https://genna.win/blog/convolution-simd/)
 * [2025-03-04, 17:12:53](https://news.ycombinator.com/item?id=43257436) - [Farallon Islands live (and controllable) webcam](https://www.calacademy.org/webcams/farallones)
