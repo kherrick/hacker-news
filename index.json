@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-08, 18:54:17",
+      "https://news.ycombinator.com/item?id=43302495"
+    ],
+    [
+      "Deploy from local to production (self-hosted)",
+      "https://github.com/bypirob/airo"
+    ]
+  ],
+  [
+    [
       "2025-03-08, 18:16:42",
       "https://news.ycombinator.com/item?id=43302177"
     ],
@@ -181,32 +191,12 @@
   ],
   [
     [
-      "2025-03-07, 20:57:46",
-      "https://news.ycombinator.com/item?id=43294566"
-    ],
-    [
-      "Polars Cloud: The Distributed Cloud Architecture to Run Polars Anywhere",
-      "https://pola.rs/posts/polars-cloud-what-we-are-building/"
-    ]
-  ],
-  [
-    [
       "2025-03-07, 17:24:02",
       "https://news.ycombinator.com/item?id=43292056"
     ],
     [
       "Introducing command And commandfor In HTML",
       "https://developer.chrome.com/blog/command-and-commandfor"
-    ]
-  ],
-  [
-    [
-      "2025-03-07, 17:12:30",
-      "https://news.ycombinator.com/item?id=43291946"
-    ],
-    [
-      "Vtm: Text-Based Desktop Environment",
-      "https://github.com/directvt/vtm"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Valentin Hansen: Creating an Infinite Sound",
       "https://www.sleek-mag.com/article/valentin-hansen-creating-an-infinite-sound/"
+    ]
+  ],
+  [
+    [
+      "2025-03-05, 02:52:03",
+      "https://news.ycombinator.com/item?id=43262052"
+    ],
+    [
+      "The Hierarchy of Hazard Controls",
+      "https://www.hillelwayne.com/post/hoc/"
     ]
   ],
   [
