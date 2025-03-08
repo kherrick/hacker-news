@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-08, 21:25:25](https://news.ycombinator.com/item?id=43303672) - [Why AI is still dumb and not scary at all (pt. 1)](https://tejo.substack.com/p/why-ai-is-still-dumb-and-not-scary)
 * [2025-03-08, 21:00:34](https://news.ycombinator.com/item?id=43303463) - [OneText (YC W23) is hiring a browser extension engineer](https://news.ycombinator.com/item?id=43303463)
 * [2025-03-08, 20:58:34](https://news.ycombinator.com/item?id=43303448) - [Microsoft Windows 1.0 with Steve Ballmer (1986)](https://www.youtube.com/watch?v=EtuDS0ntaJY)
 * [2025-03-08, 20:37:55](https://news.ycombinator.com/item?id=43303309) - [Show HN: TypeLeap: LLM Powered Reactive Intent UI/UX](https://www.typeleap.com/)
@@ -10,7 +11,6 @@
 * [2025-03-08, 18:11:46](https://news.ycombinator.com/item?id=43302132) - [Kill your Feeds – Stop letting algorithms dictate what you think](https://usher.dev/posts/2025-03-08-kill-your-feeds/)
 * [2025-03-08, 18:08:28](https://news.ycombinator.com/item?id=43302097) - [Google will still have to break up its business, the Justice Department said](https://www.engadget.com/big-tech/google-will-still-have-to-break-up-its-business-the-justice-department-said-150000739.html)
 * [2025-03-08, 18:04:36](https://news.ycombinator.com/item?id=43302073) - [Kagi Is Bringing Orion Web Browser to Linux](https://www.omgubuntu.co.uk/2025/03/kag-orion-web-browser-coming-to-linux)
-* [2025-03-08, 16:44:51](https://news.ycombinator.com/item?id=43301481) - [Show HN: I built a tool to detect scams](https://scamchecknow.com)
 * [2025-03-08, 16:39:23](https://news.ycombinator.com/item?id=43301432) - [You might not need Redis](https://www.viblo.se/posts/no-need-redis/)
 * [2025-03-08, 16:30:38](https://news.ycombinator.com/item?id=43301369) - [Undocumented backdoor found in Bluetooth chip used by a billion devices](https://www.bleepingcomputer.com/news/security/undocumented-backdoor-found-in-bluetooth-chip-used-by-a-billion-devices/)
 * [2025-03-08, 16:27:00](https://news.ycombinator.com/item?id=43301342) - [Discovering Errors in Donald Knuth's Taocp](https://glthr.com/discovering-errors-in-donald-knuths-taocp)
@@ -20,7 +20,7 @@
 * [2025-03-08, 04:51:25](https://news.ycombinator.com/item?id=43297590) - [Falkon: A KDE Web Browser](https://www.falkon.org)
 * [2025-03-08, 04:46:33](https://news.ycombinator.com/item?id=43297574) - [An epic treatise on error models for systems programming languages](https://typesanitizer.com/blog/errors.html)
 * [2025-03-08, 02:12:13](https://news.ycombinator.com/item?id=43296918) - [Show HN: Open-Source DocumentAI with Ollama](https://rlama.dev/)
-* [2025-03-07, 22:54:58](https://news.ycombinator.com/item?id=43295692) - [AI tools are spotting errors in research papers: inside a growing movement](https://www.nature.com/articles/d41586-025-00648-5)
+* [2025-03-07, 22:54:58](https://news.ycombinator.com/item?id=43295692) - [AI tools are spotting errors in research papers](https://www.nature.com/articles/d41586-025-00648-5)
 * [2025-03-07, 17:24:02](https://news.ycombinator.com/item?id=43292056) - [Introducing command And commandfor In HTML](https://developer.chrome.com/blog/command-and-commandfor)
 * [2025-03-07, 11:25:27](https://news.ycombinator.com/item?id=43289293) - [Zig's dot star syntax (value.*)](https://www.openmymind.net/Zig-Dot-Star-Syntax/)
 * [2025-03-06, 11:51:17](https://news.ycombinator.com/item?id=43279131) - [Spark-TTS: Text-2-Speech Model Single-Stream Decoupled Tokens [pdf]](https://arxiv.org/abs/2503.01710)
