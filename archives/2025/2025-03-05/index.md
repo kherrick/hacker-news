@@ -27,6 +27,7 @@
 * [2025-03-05, 19:09:39](https://news.ycombinator.com/item?id=43270843) - [QwQ-32B: Embracing the Power of Reinforcement Learning](https://qwenlm.github.io/blog/qwq-32b/)
 * [2025-03-05, 19:09:19](https://news.ycombinator.com/item?id=43270835) - [Tailscale Is Pretty Useful](https://blog.6nok.org/tailscale-is-pretty-useful/)
 * [2025-03-05, 19:06:27](https://news.ycombinator.com/item?id=43270799) - [Gardener wins £1M payout caused by software bug](https://www.bbc.co.uk/news/articles/cx2gl2n2n14o)
+* [2025-03-05, 18:59:04](https://news.ycombinator.com/item?id=43270712) - [Postgres Just Cracked the Top Fastest Databases for Analytics](https://www.mooncake.dev/blog/clickbench-v0.1)
 * [2025-03-05, 18:56:47](https://news.ycombinator.com/item?id=43270687) - [Skynet Won and Destroyed Humanity](https://dmathieu.com/en/opinions/skynet-won/)
 * [2025-03-05, 18:40:50](https://news.ycombinator.com/item?id=43270495) - [Study: The ozone hole is healing, thanks to global reduction of CFCs](https://news.mit.edu/2025/study-healing-ozone-hole-global-reduction-cfcs-0305)
 * [2025-03-05, 18:38:05](https://news.ycombinator.com/item?id=43270464) - [Intel the CPU Company](https://www.abortretry.fail/p/intel-the-cpu-company)
