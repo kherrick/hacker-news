@@ -1,42 +1,12 @@
 [
   [
     [
-      "2025-03-08, 13:57:21",
-      "https://news.ycombinator.com/item?id=43300285"
-    ],
-    [
-      "Stanford scientists discover new Ozempic alternative with RegEx",
-      "https://twitter.com/lauriewired/status/1898149987890217033"
-    ]
-  ],
-  [
-    [
-      "2025-03-08, 13:26:17",
-      "https://news.ycombinator.com/item?id=43300081"
-    ],
-    [
-      "AI Thinks It Cracked Kryptos. The Artist Behind It Says No Chance",
-      "https://www.wired.com/story/plaintext-kryptos-code-artificial-intelligence/"
-    ]
-  ],
-  [
-    [
       "2025-03-08, 13:23:30",
       "https://news.ycombinator.com/item?id=43300062"
     ],
     [
       "Smaller but Better: Unifying Layout Generation with Smaller LLMs",
       "https://arxiv.org/abs/2502.14005"
-    ]
-  ],
-  [
-    [
-      "2025-03-08, 12:57:18",
-      "https://news.ycombinator.com/item?id=43299886"
-    ],
-    [
-      "The DOJ Still Wants Google to Sell Off Chrome",
-      "https://www.wired.com/story/the-doj-still-wants-google-to-divest-chrome/"
     ]
   ],
   [
@@ -151,6 +121,16 @@
   ],
   [
     [
+      "2025-03-07, 23:14:36",
+      "https://news.ycombinator.com/item?id=43295865"
+    ],
+    [
+      "How did places like Bell Labs know how to ask the right questions? (2023)",
+      "https://www.freaktakes.com/p/how-did-places-like-bell-labs-know"
+    ]
+  ],
+  [
+    [
       "2025-03-07, 21:33:43",
       "https://news.ycombinator.com/item?id=43294974"
     ],
@@ -167,6 +147,16 @@
     [
       "Polars Cloud: The Distributed Cloud Architecture to Run Polars Anywhere",
       "https://pola.rs/posts/polars-cloud-what-we-are-building/"
+    ]
+  ],
+  [
+    [
+      "2025-03-07, 18:34:02",
+      "https://news.ycombinator.com/item?id=43292820"
+    ],
+    [
+      "Age Verification Laws: A Backdoor to Surveillance",
+      "https://www.eff.org/deeplinks/2025/03/first-porn-now-skin-cream-age-verification-bills-are-out-control"
     ]
   ],
   [
@@ -231,12 +221,12 @@
   ],
   [
     [
-      "2025-03-05, 18:59:04",
-      "https://news.ycombinator.com/item?id=43270712"
+      "2025-03-05, 14:07:24",
+      "https://news.ycombinator.com/item?id=43266546"
     ],
     [
-      "Postgres Just Cracked the Top Fastest Databases for Analytics",
-      "https://www.mooncake.dev/blog/clickbench-v0.1"
+      "The features of Python's help() function",
+      "https://www.pythonmorsels.com/help-features/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Mountains, Cliffs, and Caves: A Guide to Using Perlin Noise for Procedural Gen",
       "https://jdhwilkins.com/mountains-cliffs-and-caves-a-comprehensive-guide-to-using-perlin-noise-for-procedural-generation/"
+    ]
+  ],
+  [
+    [
+      "2025-03-04, 16:25:54",
+      "https://news.ycombinator.com/item?id=43256802"
+    ],
+    [
+      "(Reasonably) secure Azure Pipelines on-prem deployments",
+      "https://rewiring.bearblog.dev/azure-devops-in-action-pt-iii-reasonably-secure-deploys-to-iis/"
     ]
   ],
   [
