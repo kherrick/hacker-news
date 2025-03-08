@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-08](index.md)
 
+* [2025-03-08, 08:04:07](https://news.ycombinator.com/item?id=43298447) - [A TV with Contrast You Haven't Seen for Years](https://hackaday.com/2025/03/05/a-tv-with-contrast-you-havent-seen-for-years/)
 * [2025-03-08, 07:31:13](https://news.ycombinator.com/item?id=43298290) - [Choosing death penalty by firing squad because it's safer](https://www.pbs.org/newshour/show/south-carolina-executes-convicted-murderer-by-firing-squad)
 * [2025-03-08, 07:01:07](https://news.ycombinator.com/item?id=43298130) - [Demodesk (YC W19) Is Hiring a Ruby on Rails Full-Stack Engineer](https://demodesk.com/careers?utm_source=hn)
 * [2025-03-08, 06:43:22](https://news.ycombinator.com/item?id=43298054) - [PayPal honey extension has again \"featured\" flag in Chrome web store](https://chromewebstore.google.com/detail/paypal-honey-automatic-co/bmnlcjabgnpnenekpadlanbbkooimhnj/reviews)
