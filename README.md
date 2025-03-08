@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-08, 08:04:07](https://news.ycombinator.com/item?id=43298447) - [A TV with Contrast You Haven't Seen for Years](https://hackaday.com/2025/03/05/a-tv-with-contrast-you-havent-seen-for-years/)
 * [2025-03-08, 07:31:13](https://news.ycombinator.com/item?id=43298290) - [Choosing death penalty by firing squad because it's safer](https://www.pbs.org/newshour/show/south-carolina-executes-convicted-murderer-by-firing-squad)
 * [2025-03-08, 07:01:07](https://news.ycombinator.com/item?id=43298130) - [Demodesk (YC W19) Is Hiring a Ruby on Rails Full-Stack Engineer](https://demodesk.com/careers?utm_source=hn)
 * [2025-03-08, 06:43:22](https://news.ycombinator.com/item?id=43298054) - [PayPal honey extension has again \"featured\" flag in Chrome web store](https://chromewebstore.google.com/detail/paypal-honey-automatic-co/bmnlcjabgnpnenekpadlanbbkooimhnj/reviews)
@@ -26,8 +25,9 @@
 * [2025-03-05, 14:07:24](https://news.ycombinator.com/item?id=43266546) - [The features of Python's help() function](https://www.pythonmorsels.com/help-features/)
 * [2025-03-05, 13:49:28](https://news.ycombinator.com/item?id=43266327) - [Qualcomm Claims New X85 Modem Creates 'Huge Delta' in Performance versus Apple](https://www.macrumors.com/2025/03/05/qualcomm-claims-x85-modem-better-than-apple/)
 * [2025-03-05, 02:18:21](https://news.ycombinator.com/item?id=43261825) - [Integrated sensing and communication based on space-time-coding metasurfaces](https://www.nature.com/articles/s41467-025-57137-6)
-* [2025-03-04, 19:49:57](https://news.ycombinator.com/item?id=43259146) - [2025-03-01 the cold glow of tritium](https://computer.rip/2025-03-01-the-cold-glow-of-tritium.html)
+* [2025-03-04, 22:00:08](https://news.ycombinator.com/item?id=43260251) - [Show HN: I Built a Telegraph Simulator](https://telegraph.13ug1mb.com)
 * [2025-03-04, 17:19:26](https://news.ycombinator.com/item?id=43257506) - [Mountains, Cliffs, and Caves: A Guide to Using Perlin Noise for Procedural Gen](https://jdhwilkins.com/mountains-cliffs-and-caves-a-comprehensive-guide-to-using-perlin-noise-for-procedural-generation/)
+* [2025-03-04, 16:31:00](https://news.ycombinator.com/item?id=43256878) - [I hacked my company's SSO provider](https://mattsayar.com/how-i-hacked-my-companys-sso-provider/)
 * [2025-03-04, 16:25:54](https://news.ycombinator.com/item?id=43256802) - [(Reasonably) secure Azure Pipelines on-prem deployments](https://rewiring.bearblog.dev/azure-devops-in-action-pt-iii-reasonably-secure-deploys-to-iis/)
 * [2025-03-02, 01:14:29](https://news.ycombinator.com/item?id=43226052) - [Unleashed Recompiled: PC port of the Xbox 360 version of Sonic Unleashed](https://github.com/hedge-dev/UnleashedRecomp)
 
