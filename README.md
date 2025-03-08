@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-08, 13:26:17](https://news.ycombinator.com/item?id=43300081) - [AI Thinks It Cracked Kryptos. The Artist Behind It Says No Chance](https://www.wired.com/story/plaintext-kryptos-code-artificial-intelligence/)
 * [2025-03-08, 12:41:56](https://news.ycombinator.com/item?id=43299772) - [Gene-edited non-browning banana could cut food waste](https://www.theguardian.com/science/2025/mar/07/gene-edited-non-browning-banana-cut-food-waste-tropic-norwich)
 * [2025-03-08, 12:19:59](https://news.ycombinator.com/item?id=43299635) - [What We Lose When Our Memories Exist in Our Phones](https://www.bloomberg.com/news/articles/2025-03-07/the-case-for-ditching-digital-memories-for-physical-objects)
 * [2025-03-08, 12:00:45](https://news.ycombinator.com/item?id=43299508) - [Extend (YC W23) is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
@@ -13,7 +14,6 @@
 * [2025-03-07, 21:33:43](https://news.ycombinator.com/item?id=43294974) - [Letta: Letta is a framework for creating LLM services with memory](https://github.com/letta-ai/letta)
 * [2025-03-07, 20:57:46](https://news.ycombinator.com/item?id=43294566) - [Polars Cloud: The Distributed Cloud Architecture to Run Polars Anywhere](https://pola.rs/posts/polars-cloud-what-we-are-building/)
 * [2025-03-07, 18:34:02](https://news.ycombinator.com/item?id=43292820) - [Age Verification Laws: A Backdoor to Surveillance](https://www.eff.org/deeplinks/2025/03/first-porn-now-skin-cream-age-verification-bills-are-out-control)
-* [2025-03-07, 18:06:45](https://news.ycombinator.com/item?id=43292471) - [Athena spacecraft declared dead after toppling over on moon](https://www.theguardian.com/science/2025/mar/07/athena-spacecraft-mission-dead)
 * [2025-03-07, 17:24:02](https://news.ycombinator.com/item?id=43292056) - [Introducing command And commandfor In HTML](https://developer.chrome.com/blog/command-and-commandfor)
 * [2025-03-07, 17:23:28](https://news.ycombinator.com/item?id=43292050) - [Optimistic Locking in B-Trees](https://cedardb.com/blog/optimistic_btrees/)
 * [2025-03-07, 17:12:30](https://news.ycombinator.com/item?id=43291946) - [Vtm: Text-Based Desktop Environment](https://github.com/directvt/vtm)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-08](index.md)
 
+* [2025-03-08, 13:26:17](https://news.ycombinator.com/item?id=43300081) - [AI Thinks It Cracked Kryptos. The Artist Behind It Says No Chance](https://www.wired.com/story/plaintext-kryptos-code-artificial-intelligence/)
 * [2025-03-08, 12:41:56](https://news.ycombinator.com/item?id=43299772) - [Gene-edited non-browning banana could cut food waste](https://www.theguardian.com/science/2025/mar/07/gene-edited-non-browning-banana-cut-food-waste-tropic-norwich)
 * [2025-03-08, 12:19:59](https://news.ycombinator.com/item?id=43299635) - [What We Lose When Our Memories Exist in Our Phones](https://www.bloomberg.com/news/articles/2025-03-07/the-case-for-ditching-digital-memories-for-physical-objects)
 * [2025-03-08, 12:00:45](https://news.ycombinator.com/item?id=43299508) - [Extend (YC W23) is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
