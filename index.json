@@ -1,11 +1,41 @@
 [
   [
     [
+      "2025-03-08, 18:16:42",
+      "https://news.ycombinator.com/item?id=43302177"
+    ],
+    [
+      "Feds arrest man for sharing DVD rip of Spider-Man movie with millions online",
+      "https://arstechnica.com/tech-policy/2025/03/fbi-nabs-worker-at-dvd-company-for-ripping-prerelease-marvel-blockbusters/"
+    ]
+  ],
+  [
+    [
+      "2025-03-08, 18:11:46",
+      "https://news.ycombinator.com/item?id=43302132"
+    ],
+    [
+      "Kill your Feeds – Stop letting algorithms dictate what you think",
+      "https://usher.dev/posts/2025-03-08-kill-your-feeds/"
+    ]
+  ],
+  [
+    [
+      "2025-03-08, 17:50:01",
+      "https://news.ycombinator.com/item?id=43301961"
+    ],
+    [
+      "Sex Traffickers in Colombia Using Facebook, Tinder and Airbnb to Exploit Minors",
+      "https://www.bloomberg.com/news/features/2025-03-03/facebook-tinder-airbnb-apps-are-used-for-sex-trafficking-in-colombia"
+    ]
+  ],
+  [
+    [
       "2025-03-08, 17:14:12",
       "https://news.ycombinator.com/item?id=43301702"
     ],
     [
-      "Sam Bankman-Fried Thrown into Solitary over Tucker Carlson Interview: Report",
+      "Sam Bankman-Fried thrown into solitary over Tucker Carlson interview: report",
       "https://gizmodo.com/sam-bankman-fried-thrown-into-solitary-over-tucker-carlson-interview-report-2000573371"
     ]
   ],
@@ -71,6 +101,16 @@
   ],
   [
     [
+      "2025-03-08, 12:48:11",
+      "https://news.ycombinator.com/item?id=43299815"
+    ],
+    [
+      "Discworld Rules",
+      "https://contraptions.venkateshrao.com/p/discworld-rules"
+    ]
+  ],
+  [
+    [
       "2025-03-08, 12:41:56",
       "https://news.ycombinator.com/item?id=43299772"
     ],
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2025-03-08, 01:26:33",
-      "https://news.ycombinator.com/item?id=43296656"
-    ],
-    [
-      "Feds Link Cyberheist to 2022 LastPass Hacks",
-      "https://krebsonsecurity.com/2025/03/feds-link-150m-cyberheist-to-2022-lastpass-hacks/"
-    ]
-  ],
-  [
-    [
       "2025-03-07, 22:54:58",
       "https://news.ycombinator.com/item?id=43295692"
     ],
@@ -151,32 +181,12 @@
   ],
   [
     [
-      "2025-03-07, 21:33:43",
-      "https://news.ycombinator.com/item?id=43294974"
-    ],
-    [
-      "Letta: Letta is a framework for creating LLM services with memory",
-      "https://github.com/letta-ai/letta"
-    ]
-  ],
-  [
-    [
       "2025-03-07, 20:57:46",
       "https://news.ycombinator.com/item?id=43294566"
     ],
     [
       "Polars Cloud: The Distributed Cloud Architecture to Run Polars Anywhere",
       "https://pola.rs/posts/polars-cloud-what-we-are-building/"
-    ]
-  ],
-  [
-    [
-      "2025-03-07, 18:34:02",
-      "https://news.ycombinator.com/item?id=43292820"
-    ],
-    [
-      "Age Verification Laws: A Backdoor to Surveillance",
-      "https://www.eff.org/deeplinks/2025/03/first-porn-now-skin-cream-age-verification-bills-are-out-control"
     ]
   ],
   [
@@ -211,6 +221,16 @@
   ],
   [
     [
+      "2025-03-06, 11:51:17",
+      "https://news.ycombinator.com/item?id=43279131"
+    ],
+    [
+      "Spark-TTS: Text-2-Speech Model Single-Stream Decoupled Tokens [pdf]",
+      "https://arxiv.org/abs/2503.01710"
+    ]
+  ],
+  [
+    [
       "2025-03-06, 07:46:50",
       "https://news.ycombinator.com/item?id=43277550"
     ],
@@ -227,16 +247,6 @@
     [
       "Valentin Hansen: Creating an Infinite Sound",
       "https://www.sleek-mag.com/article/valentin-hansen-creating-an-infinite-sound/"
-    ]
-  ],
-  [
-    [
-      "2025-03-05, 14:07:24",
-      "https://news.ycombinator.com/item?id=43266546"
-    ],
-    [
-      "The features of Python's help() function",
-      "https://www.pythonmorsels.com/help-features/"
     ]
   ],
   [
@@ -261,6 +271,16 @@
   ],
   [
     [
+      "2025-03-04, 23:34:00",
+      "https://news.ycombinator.com/item?id=43260890"
+    ],
+    [
+      "\"Wooly mice\" a test run for mammoth gene editing",
+      "https://arstechnica.com/science/2025/03/wooly-mice-a-test-run-for-mammoth-gene-editing/"
+    ]
+  ],
+  [
+    [
       "2025-03-04, 19:01:20",
       "https://news.ycombinator.com/item?id=43258670"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2025-03-04, 17:54:54",
-      "https://news.ycombinator.com/item?id=43257927"
-    ],
-    [
-      "Body Doubling",
-      "https://bodydoubling.com/"
-    ]
-  ],
-  [
-    [
       "2025-03-04, 17:19:26",
       "https://news.ycombinator.com/item?id=43257506"
     ],
     [
       "Mountains, Cliffs, and Caves: A Guide to Using Perlin Noise for Procedural Gen",
       "https://jdhwilkins.com/mountains-cliffs-and-caves-a-comprehensive-guide-to-using-perlin-noise-for-procedural-generation/"
-    ]
-  ],
-  [
-    [
-      "2025-03-04, 16:25:54",
-      "https://news.ycombinator.com/item?id=43256802"
-    ],
-    [
-      "(Reasonably) secure Azure Pipelines on-prem deployments",
-      "https://rewiring.bearblog.dev/azure-devops-in-action-pt-iii-reasonably-secure-deploys-to-iis/"
     ]
   ]
 ]
