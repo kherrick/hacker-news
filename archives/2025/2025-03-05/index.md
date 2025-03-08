@@ -58,6 +58,7 @@
 * [2025-03-05, 14:00:57](https://news.ycombinator.com/item?id=43266474) - [Apple unveils new Mac Studio, the most powerful Mac ever, featuring M4 Max](https://www.apple.com/newsroom/2025/03/apple-unveils-new-mac-studio-the-most-powerful-mac-ever/)
 * [2025-03-05, 13:59:50](https://news.ycombinator.com/item?id=43266453) - [Apple M3 Ultra](https://www.apple.com/newsroom/2025/03/apple-reveals-m3-ultra-taking-apple-silicon-to-a-new-extreme/)
 * [2025-03-05, 13:58:12](https://news.ycombinator.com/item?id=43266429) - [Vulnerability in partner.microsoft.com allows unauthenticated access](https://nvd.nist.gov/vuln/detail/CVE-2024-49035)
+* [2025-03-05, 13:49:28](https://news.ycombinator.com/item?id=43266327) - [Qualcomm Claims New X85 Modem Creates 'Huge Delta' in Performance versus Apple](https://www.macrumors.com/2025/03/05/qualcomm-claims-x85-modem-better-than-apple/)
 * [2025-03-05, 13:35:30](https://news.ycombinator.com/item?id=43266185) - [Why \"alias\" is my last resort for aliases](https://evanhahn.com/why-alias-is-my-last-resort-for-aliases/)
 * [2025-03-05, 13:33:51](https://news.ycombinator.com/item?id=43266170) - [Kevin Rose, Alexis Ohanian Acquire Digg](https://techcrunch.com/2025/03/05/kevin-rose-and-alexis-ohanian-acquire-digg/)
 * [2025-03-05, 13:22:57](https://news.ycombinator.com/item?id=43266071) - [The Big Government Contracts Doge Hasn't Touched](https://www.nytimes.com/interactive/2025/03/04/upshot/doge-musk-contracts-cuts.html)
