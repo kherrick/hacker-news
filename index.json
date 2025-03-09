@@ -81,22 +81,22 @@
   ],
   [
     [
+      "2025-03-08, 18:32:18",
+      "https://news.ycombinator.com/item?id=43302297"
+    ],
+    [
+      "MCP vs. API Explained",
+      "https://norahsakal.com/blog/mcp-vs-api-model-context-protocol-explained/"
+    ]
+  ],
+  [
+    [
       "2025-03-08, 18:11:46",
       "https://news.ycombinator.com/item?id=43302132"
     ],
     [
       "Kill your Feeds – Stop letting algorithms dictate what you think",
       "https://usher.dev/posts/2025-03-08-kill-your-feeds/"
-    ]
-  ],
-  [
-    [
-      "2025-03-08, 18:04:36",
-      "https://news.ycombinator.com/item?id=43302073"
-    ],
-    [
-      "Kagi Is Bringing Orion Web Browser to Linux",
-      "https://www.omgubuntu.co.uk/2025/03/kag-orion-web-browser-coming-to-linux"
     ]
   ],
   [
@@ -171,32 +171,22 @@
   ],
   [
     [
-      "2025-03-08, 04:51:25",
-      "https://news.ycombinator.com/item?id=43297590"
-    ],
-    [
-      "Falkon: A KDE Web Browser",
-      "https://www.falkon.org"
-    ]
-  ],
-  [
-    [
-      "2025-03-08, 04:46:33",
-      "https://news.ycombinator.com/item?id=43297574"
-    ],
-    [
-      "An epic treatise on error models for systems programming languages",
-      "https://typesanitizer.com/blog/errors.html"
-    ]
-  ],
-  [
-    [
       "2025-03-07, 22:54:58",
       "https://news.ycombinator.com/item?id=43295692"
     ],
     [
       "AI tools are spotting errors in research papers",
       "https://www.nature.com/articles/d41586-025-00648-5"
+    ]
+  ],
+  [
+    [
+      "2025-03-07, 11:25:27",
+      "https://news.ycombinator.com/item?id=43289293"
+    ],
+    [
+      "Zig's dot star syntax (value.*)",
+      "https://www.openmymind.net/Zig-Dot-Star-Syntax/"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "How much traffic can a pre-rendered Next.js site handle?",
       "https://martijnhols.nl/blog/how-much-traffic-can-a-pre-rendered-nextjs-site-handle"
+    ]
+  ],
+  [
+    [
+      "2025-03-06, 03:58:04",
+      "https://news.ycombinator.com/item?id=43276251"
+    ],
+    [
+      "Commodore 64 PETSCII Image (2022)",
+      "https://medium.com/@8bitsten/commodore-64-petscii-image-f608225714ec"
     ]
   ],
   [
