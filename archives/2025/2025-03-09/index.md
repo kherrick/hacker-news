@@ -9,6 +9,7 @@
 * [2025-03-09, 20:21:54](https://news.ycombinator.com/item?id=43313341) - [Top links on Bluesky, Updated Hourly](https://theblue.report)
 * [2025-03-09, 20:18:42](https://news.ycombinator.com/item?id=43313304) - [Despite the hype, DOGE hasn't found a shred of fraud](https://www.publicnotice.co/p/despite-the-hype-doge-hasnt-found)
 * [2025-03-09, 20:00:49](https://news.ycombinator.com/item?id=43313127) - [Tesla Sales Fall Off a Cliff Globally, Including Germany, Australia, and China](https://www.carscoops.com/2025/03/tesla-sales-falling-off-a-cliff-globally-including-germany-australia-and-china/)
+* [2025-03-09, 19:46:39](https://news.ycombinator.com/item?id=43312975) - [Ontology Is Overrated – Categories, Links, and Tags (2005)](https://web.archive.org/web/20190729120538/http://www.shirky.com/writings/ontology_overrated.html)
 * [2025-03-09, 19:41:42](https://news.ycombinator.com/item?id=43312920) - [H.R. 1936: To prohibit funds for the USAF to invade Canada, Panama, or Greenland](https://www.govtrack.us/congress/bills/119/hr1936)
 * [2025-03-09, 19:07:56](https://news.ycombinator.com/item?id=43312516) - [Poland says it may need alternative to Musk’s Starlink in Ukraine](https://www.reuters.com/world/europe/poland-says-it-may-need-alternative-musks-starlink-ukraine-2025-03-09/)
 * [2025-03-09, 18:40:17](https://news.ycombinator.com/item?id=43312242) - [Violent and sudden. What a firing squad execution looked like through my eyes](https://apnews.com/article/south-carolina-firing-squad-eyewitness-account-sigmon-427cccb55be58954af4434e89bcc41d8)
