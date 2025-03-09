@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-08](index.md)
 
+* [2025-03-08, 23:29:14](https://news.ycombinator.com/item?id=43304567) - [Toward a Passwordless Future](https://www.privacyguides.org/articles/2025/03/08/toward-a-passwordless-future/)
 * [2025-03-08, 23:08:20](https://news.ycombinator.com/item?id=43304436) - [Show HN: Can I run this LLM? (locally)](https://can-i-run-this-llm-blue.vercel.app/)
 * [2025-03-08, 23:06:44](https://news.ycombinator.com/item?id=43304420) - [SpaceX teams up with Thiel's Palantir, Anduril on American Golden Dome](https://www.msn.com/en-us/money/companies/military-tech-startups-vie-for-billions-as-hegseth-shakes-up-pentagon-spending/ar-AA1zYgzZ)
 * [2025-03-08, 22:33:50](https://news.ycombinator.com/item?id=43304193) - [Maybe coders should learn to love analog? Could they?](https://www.planetanalog.com/maybe-coders-should-learn-to-love-analog-could-they/)
