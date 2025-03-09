@@ -56,6 +56,7 @@
 * [2025-03-07, 12:00:01](https://news.ycombinator.com/item?id=43289461) - [Roame (YC S23) Is Hiring a Chief of Staff](https://www.ycombinator.com/companies/roame/jobs/OZI3czc-chief-of-staff)
 * [2025-03-07, 11:45:39](https://news.ycombinator.com/item?id=43289398) - [The Landscape of Lisp](https://churchofturing.github.io/landscapeoflisp.html)
 * [2025-03-07, 11:25:27](https://news.ycombinator.com/item?id=43289293) - [Zig's dot star syntax (value.*)](https://www.openmymind.net/Zig-Dot-Star-Syntax/)
+* [2025-03-07, 11:16:57](https://news.ycombinator.com/item?id=43289247) - [Sublogic Flight Simulator – By Paul Lefebvre](https://www.goto10retro.com/p/sublogic-flight-simulator)
 * [2025-03-07, 11:16:41](https://news.ycombinator.com/item?id=43289245) - [Natural occurring molecule rivals Ozempic in weight loss, sidesteps side effects](https://medicalxpress.com/news/2025-03-naturally-molecule-rivals-ozempic-weight.html)
 * [2025-03-07, 11:12:05](https://news.ycombinator.com/item?id=43289226) - [Meta, Google, and Salesforce announce major layoffs in 2025](https://www.indmoney.com/blog/us-stocks/meta-google-salesforce-announce-layoffs-2025)
 * [2025-03-07, 11:06:17](https://news.ycombinator.com/item?id=43289205) - [Ten Digit Problems (2011) [pdf]](https://people.maths.ox.ac.uk/trefethen/publication/PDF/2011_137.pdf)
