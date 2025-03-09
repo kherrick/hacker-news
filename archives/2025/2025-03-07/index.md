@@ -50,6 +50,7 @@
 * [2025-03-07, 15:25:13](https://news.ycombinator.com/item?id=43290892) - [Betting on the Pope was the original prediction market](https://nodumbideas.com/p/betting-on-the-pope-was-the-original)
 * [2025-03-07, 14:43:24](https://news.ycombinator.com/item?id=43290555) - [Strobelight: A profiling service built on open source technology](https://engineering.fb.com/2025/01/21/production-engineering/strobelight-a-profiling-service-built-on-open-source-technology/)
 * [2025-03-07, 14:24:33](https://news.ycombinator.com/item?id=43290408) - [How Monero Fulfilled Satoshi's Promise](https://zola.ink/blog/posts/how-monero-fulfilled-satoshis-promies)
+* [2025-03-07, 13:30:08](https://news.ycombinator.com/item?id=43289990) - [Woman's DNA discovered in 20k year old deer-tooth pendant](https://www.cbc.ca/radio/quirks/pendant-ancient-dna-1.6832580)
 * [2025-03-07, 12:51:12](https://news.ycombinator.com/item?id=43289755) - [A collection of website seizure banners created by government agencies](https://seized.fyi/)
 * [2025-03-07, 12:48:50](https://news.ycombinator.com/item?id=43289737) - [When Europe needed it most, the Ariane 6 rocket delivered](https://arstechnica.com/space/2025/03/when-europe-needed-it-most-the-ariane-6-rocket-finally-delivered/)
 * [2025-03-07, 12:19:31](https://news.ycombinator.com/item?id=43289566) - [The Official Aztec C Online Museum](https://www.aztecmuseum.ca/index.htm)
