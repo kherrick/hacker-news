@@ -39,6 +39,7 @@
 * [2025-03-05, 17:55:29](https://news.ycombinator.com/item?id=43269928) - [Show HN: Leaflet.pub – a web app for creating and sharing rich documents](https://news.ycombinator.com/item?id=43269928)
 * [2025-03-05, 17:49:13](https://news.ycombinator.com/item?id=43269846) - [There Was a Texas Lottery Arbitrage](https://www.bloomberg.com/opinion/articles/2025-03-05/there-was-a-texas-lottery-arbitrage)
 * [2025-03-05, 17:41:11](https://news.ycombinator.com/item?id=43269727) - [Doge seeks to cancel lease on nuclear waste storage facility](https://talkingpointsmemo.com/edblog/doge-doh-nuclear-waste-facility-edition)
+* [2025-03-05, 17:30:44](https://news.ycombinator.com/item?id=43269614) - [SMBC Parts Ways with Hiveworks](https://www.smbc-comics.com/comic/announcement-2)
 * [2025-03-05, 17:17:55](https://news.ycombinator.com/item?id=43269475) - [GoStringUngarbler: Deobfuscating Strings in Garbled Binaries](https://cloud.google.com/blog/topics/threat-intelligence/gostringungarbler-deobfuscating-strings-in-garbled-binaries)
 * [2025-03-05, 17:09:41](https://news.ycombinator.com/item?id=43269368) - [The Tiny Star Explosions Powering Moore's Law](https://spectrum.ieee.org/euv-light-source)
 * [2025-03-05, 17:07:17](https://news.ycombinator.com/item?id=43269332) - [Expanding AI Overviews and Introducing AI Mode](https://blog.google/products/search/ai-mode-search/)
