@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-09, 11:08:27](https://news.ycombinator.com/item?id=43307996) - [US Ends Support For Ukrainian F-16s](https://ukrainetoday.org/us-ends-support-for-ukrainian-f-16s-but-french-mirages-will-be-salvation-forbes/)
+* [2025-03-09, 10:57:29](https://news.ycombinator.com/item?id=43307941) - [How to know when it's time to go](https://bitfieldconsulting.com/posts/when-its-time-to-go)
 * [2025-03-09, 10:20:50](https://news.ycombinator.com/item?id=43307809) - [I've been using Claude Code for a couple of days](https://twitter.com/Steve_Yegge/status/1898674257808515242)
 * [2025-03-09, 10:07:01](https://news.ycombinator.com/item?id=43307755) - [Why Layoffs Don't Work](https://thehustle.co/originals/why-layoffs-dont-work)
 * [2025-03-09, 09:47:28](https://news.ycombinator.com/item?id=43307659) - [Understanding Memory Management, Part 2: C++ and RAII](https://educatedguesswork.org/posts/memory-management-2/)
@@ -25,7 +26,6 @@
 * [2025-03-06, 19:49:42](https://news.ycombinator.com/item?id=43284399) - [Spark Texture Compression 1.2](https://www.ludicon.com/castano/blog/2025/03/spark-1-2/)
 * [2025-03-06, 15:00:23](https://news.ycombinator.com/item?id=43280985) - [LFortran Compiles Prima](https://lfortran.org/blog/2025/03/lfortran-compiles-prima/)
 * [2025-03-06, 03:58:04](https://news.ycombinator.com/item?id=43276251) - [Commodore 64 PETSCII Image (2022)](https://medium.com/@8bitsten/commodore-64-petscii-image-f608225714ec)
-* [2025-03-06, 00:03:58](https://news.ycombinator.com/item?id=43274498) - [Unseen photos of U2 and The Smiths released as Maxwell Hall Archive is unveiled](https://www.salford.ac.uk/news/unseen-photos-of-u2-and-the-smiths-released-as-maxwell-hall-digital-archive-is-unveiled)
 * [2025-03-05, 22:47:52](https://news.ycombinator.com/item?id=43273828) - [\"Big 3\" science fiction magazines including Asimov's and Analog acquired](https://jasonsanford.substack.com/p/genre-grapevine-for-last-half-of)
 * [2025-03-05, 19:05:09](https://news.ycombinator.com/item?id=43270781) - [Constantly Divisionless Random Numbers](https://dotat.at/@/2025-03-05-lemire-inline.html)
 * [2025-03-05, 17:30:44](https://news.ycombinator.com/item?id=43269614) - [SMBC Parts Ways with Hiveworks](https://www.smbc-comics.com/comic/announcement-2)
