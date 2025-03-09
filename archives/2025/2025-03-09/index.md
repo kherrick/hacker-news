@@ -5,11 +5,13 @@
 ### [Archives](../../index.md) for [2025-03-09](index.md)
 
 * [2025-03-09, 20:39:56](https://news.ycombinator.com/item?id=43313521) - [Doge Is Replacing Fired Workers with a Chatbot](https://gizmodo.com/doge-is-replacing-fired-workers-with-a-chatbot-2000573510)
+* [2025-03-09, 20:21:54](https://news.ycombinator.com/item?id=43313341) - [Top links on Bluesky, Updated Hourly](https://theblue.report)
 * [2025-03-09, 20:18:42](https://news.ycombinator.com/item?id=43313304) - [Despite the hype, DOGE hasn't found a shred of fraud](https://www.publicnotice.co/p/despite-the-hype-doge-hasnt-found)
 * [2025-03-09, 20:00:49](https://news.ycombinator.com/item?id=43313127) - [Tesla Sales Fall Off a Cliff Globally, Including Germany, Australia, and China](https://www.carscoops.com/2025/03/tesla-sales-falling-off-a-cliff-globally-including-germany-australia-and-china/)
 * [2025-03-09, 19:41:42](https://news.ycombinator.com/item?id=43312920) - [H.R. 1936: To prohibit funds for the USAF to invade Canada, Panama, or Greenland](https://www.govtrack.us/congress/bills/119/hr1936)
 * [2025-03-09, 19:07:56](https://news.ycombinator.com/item?id=43312516) - [Poland says it may need alternative to Musk’s Starlink in Ukraine](https://www.reuters.com/world/europe/poland-says-it-may-need-alternative-musks-starlink-ukraine-2025-03-09/)
 * [2025-03-09, 18:40:17](https://news.ycombinator.com/item?id=43312242) - [Violent and sudden. What a firing squad execution looked like through my eyes](https://apnews.com/article/south-carolina-firing-squad-eyewitness-account-sigmon-427cccb55be58954af4434e89bcc41d8)
+* [2025-03-09, 18:35:37](https://news.ycombinator.com/item?id=43312199) - [We built a Modern Data Stack from scratch and reduced our bill by 70%](https://jchandra.com/posts/data-infra/)
 * [2025-03-09, 18:19:56](https://news.ycombinator.com/item?id=43312034) - [Global coffee trade grinding to a halt, hit hard by brutal price hikes](https://www.reuters.com/markets/commodities/global-coffee-trade-grinding-halt-hit-hard-by-brutal-prices-hikes-2025-03-07/)
 * [2025-03-09, 17:49:17](https://news.ycombinator.com/item?id=43311696) - [Hatching a Conspiracy: A Big Investigation into Egg Prices](https://www.thebignewsletter.com/p/hatching-a-conspiracy-a-big-investigation)
 * [2025-03-09, 17:43:15](https://news.ycombinator.com/item?id=43311610) - [Nickel superconductor works above -233°C threshold at normal pressure](https://phys.org/news/2025-02-nickel-superconductor-233c-threshold-pressure.html)

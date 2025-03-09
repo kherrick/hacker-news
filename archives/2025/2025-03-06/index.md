@@ -14,6 +14,7 @@
 * [2025-03-06, 21:00:00](https://news.ycombinator.com/item?id=43285020) - [Koko (YC W22) Is Hiring a CTO / Lead Engineer](https://www.ycombinator.com/companies/koko-2/jobs/oPgy08B-lead-engineer-cto)
 * [2025-03-06, 20:47:59](https://news.ycombinator.com/item?id=43284927) - [PurrCrypt: Steganographic Encryption Disguised as Pet Sounds](https://github.com/vxfemboy/purrcrypt)
 * [2025-03-06, 20:32:47](https://news.ycombinator.com/item?id=43284811) - [Show HN: Rust Vector and Quaternion Lib](https://github.com/David-OConnor/lin-alg)
+* [2025-03-06, 20:03:51](https://news.ycombinator.com/item?id=43284541) - [Investigating an argument-dependent lookup issue and working around it](https://devblogs.microsoft.com/oldnewthing/20250214-00/?p=110868)
 * [2025-03-06, 19:51:55](https://news.ycombinator.com/item?id=43284420) - [Using GRPO to Beat o1, o3-mini and R1 at \"Temporal Clue\"](https://openpipe.ai/blog/using-grpo-to-beat-o1-o3-mini-and-r1-on-temporal-clue)
 * [2025-03-06, 19:49:42](https://news.ycombinator.com/item?id=43284399) - [Spark Texture Compression 1.2](https://www.ludicon.com/castano/blog/2025/03/spark-1-2/)
 * [2025-03-06, 19:46:44](https://news.ycombinator.com/item?id=43284359) - [Model pickers are a UX failure](https://www.augmentcode.com/blog/ai-model-pickers-are-a-design-failure-not-a-feature)
