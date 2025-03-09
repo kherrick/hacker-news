@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-09, 11:08:27",
+      "https://news.ycombinator.com/item?id=43307996"
+    ],
+    [
+      "US Ends Support For Ukrainian F-16s",
+      "https://ukrainetoday.org/us-ends-support-for-ukrainian-f-16s-but-french-mirages-will-be-salvation-forbes/"
+    ]
+  ],
+  [
+    [
       "2025-03-09, 10:20:50",
       "https://news.ycombinator.com/item?id=43307809"
     ],
@@ -201,32 +211,22 @@
   ],
   [
     [
-      "2025-03-07, 11:25:27",
-      "https://news.ycombinator.com/item?id=43289293"
-    ],
-    [
-      "Zig's dot star syntax (value.*)",
-      "https://www.openmymind.net/Zig-Dot-Star-Syntax/"
-    ]
-  ],
-  [
-    [
-      "2025-03-07, 11:06:17",
-      "https://news.ycombinator.com/item?id=43289205"
-    ],
-    [
-      "Ten Digit Problems (2011) [pdf]",
-      "https://people.maths.ox.ac.uk/trefethen/publication/PDF/2011_137.pdf"
-    ]
-  ],
-  [
-    [
       "2025-03-06, 23:15:48",
       "https://news.ycombinator.com/item?id=43286005"
     ],
     [
       "Show HN: Testeranto – the AI driven test framework for TypeScript projects",
       "https://www.npmjs.com/package/testeranto"
+    ]
+  ],
+  [
+    [
+      "2025-03-06, 19:49:42",
+      "https://news.ycombinator.com/item?id=43284399"
+    ],
+    [
+      "Spark Texture Compression 1.2",
+      "https://www.ludicon.com/castano/blog/2025/03/spark-1-2/"
     ]
   ],
   [
