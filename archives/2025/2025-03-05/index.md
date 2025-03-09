@@ -48,6 +48,7 @@
 * [2025-03-05, 17:00:10](https://news.ycombinator.com/item?id=43269237) - [Greptile (YC W24) Is Hiring](https://www.ycombinator.com/companies/greptile/jobs/rMIxqoV-design-engineer)
 * [2025-03-05, 16:26:01](https://news.ycombinator.com/item?id=43268713) - [Reducing latency with esoteric Linux process flags](https://www.recall.ai/post/reducing-latency-by-83-with-esoteric-linux-process-flags)
 * [2025-03-05, 16:22:42](https://news.ycombinator.com/item?id=43268681) - [YouTube Premium Lite: Ad-Free Viewing for $7.99/Month](https://blog.youtube/news-and-events/introducing-premium-lite/)
+* [2025-03-05, 16:09:26](https://news.ycombinator.com/item?id=43268477) - [16-Bit to 1-Bit: Visual KV Cache Quantization for Efficient Multimodal LLMs](https://arxiv.org/abs/2502.14882)
 * [2025-03-05, 16:08:02](https://news.ycombinator.com/item?id=43268454) - [My Beancount books are 95% automatic after 3 years (2024)](https://fangpenlin.com/posts/2024/12/30/my-beancount-books-are-95-percent-automatic/)
 * [2025-03-05, 16:04:49](https://news.ycombinator.com/item?id=43268411) - [After 120 years, Yellowstone bison are a single breeding population](https://phys.org/news/2025-03-years-efforts-yellowstone-bison-population.html)
 * [2025-03-05, 16:04:11](https://news.ycombinator.com/item?id=43268401) - [JCGT – Arc Blanc: a real time ocean simulation](https://jcgt.org/published/0014/01/05/)
