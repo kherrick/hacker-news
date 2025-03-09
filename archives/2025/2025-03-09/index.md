@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-09](index.md)
 
+* [2025-03-09, 16:24:46](https://news.ycombinator.com/item?id=43310634) - [Reasons veterans are especially hard-hit by federal cuts](https://theconversation.com/5-reasons-veterans-are-especially-hard-hit-by-federal-cuts-251188)
 * [2025-03-09, 15:39:16](https://news.ycombinator.com/item?id=43310047) - [Mako: An extremely fast, production-grade web bundler based on Rust by Ant Group](https://makojs.dev/)
 * [2025-03-09, 14:50:25](https://news.ycombinator.com/item?id=43309485) - [DHS Detains Lead Negotiator of Columbia Encampment](https://www.dropsitenews.com/p/dhs-detains-columbia-university-student-gaza)
 * [2025-03-09, 14:39:28](https://news.ycombinator.com/item?id=43309376) - [Orange Pi RV2 is a single-board PC with an 8-core RISC-V processor](https://liliputing.com/orange-pi-rv2-is-a-single-board-pc-with-an-8-core-risc-v-processor/)
