@@ -11,22 +11,32 @@
   ],
   [
     [
+      "2025-03-09, 11:15:12",
+      "https://news.ycombinator.com/item?id=43308033"
+    ],
+    [
+      "Why Go's Error Handling Is Awesome",
+      "https://rauljordan.com/why-go-error-handling-is-awesome/"
+    ]
+  ],
+  [
+    [
+      "2025-03-09, 10:57:29",
+      "https://news.ycombinator.com/item?id=43307941"
+    ],
+    [
+      "How to know when it's time to go",
+      "https://bitfieldconsulting.com/posts/when-its-time-to-go"
+    ]
+  ],
+  [
+    [
       "2025-03-09, 10:55:39",
       "https://news.ycombinator.com/item?id=43307933"
     ],
     [
       "This blog post passed unit tests",
       "https://www.sealambda.com/blog/this-post-passed-unit-tests/"
-    ]
-  ],
-  [
-    [
-      "2025-03-09, 10:20:50",
-      "https://news.ycombinator.com/item?id=43307809"
-    ],
-    [
-      "I've been using Claude Code for a couple of days",
-      "https://twitter.com/Steve_Yegge/status/1898674257808515242"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "AI tools are spotting errors in research papers",
       "https://www.nature.com/articles/d41586-025-00648-5"
-    ]
-  ],
-  [
-    [
-      "2025-03-06, 23:15:48",
-      "https://news.ycombinator.com/item?id=43286005"
-    ],
-    [
-      "Show HN: Testeranto – the AI driven test framework for TypeScript projects",
-      "https://www.npmjs.com/package/testeranto"
     ]
   ],
   [
