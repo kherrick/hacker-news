@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-03-09, 19:07:56",
-      "https://news.ycombinator.com/item?id=43312516"
+      "2025-03-09, 19:41:42",
+      "https://news.ycombinator.com/item?id=43312920"
     ],
     [
-      "Poland says it may need alternative to Musk’s Starlink in Ukraine",
-      "https://www.reuters.com/world/europe/poland-says-it-may-need-alternative-musks-starlink-ukraine-2025-03-09/"
+      "H.R. 1936: To prohibit funds for the USAF to invade Canada, Panama, or Greenland",
+      "https://www.govtrack.us/congress/bills/119/hr1936"
     ]
   ],
   [
@@ -27,16 +27,6 @@
     [
       "Nickel superconductor works above -233°C threshold at normal pressure",
       "https://phys.org/news/2025-02-nickel-superconductor-233c-threshold-pressure.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-09, 17:25:17",
-      "https://news.ycombinator.com/item?id=43311367"
-    ],
-    [
-      "TeX Live 2025 Released",
-      "https://www.texastim.dev/tex-live-2025-iso-available-via-torrent/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Show HN: C++ AWS MSK IAM Auth Implementation – Goodbye Kafka Passwords",
       "https://github.com/timeplus-io/proton/blob/develop/src/IO/Kafka/AwsMskIamSigner.cpp"
+    ]
+  ],
+  [
+    [
+      "2025-03-06, 15:00:23",
+      "https://news.ycombinator.com/item?id=43280985"
+    ],
+    [
+      "LFortran compiles PRIMA",
+      "https://lfortran.org/blog/2025/03/lfortran-compiles-prima/"
     ]
   ],
   [
