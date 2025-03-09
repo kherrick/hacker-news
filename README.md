@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-09, 21:02:47](https://news.ycombinator.com/item?id=43313781) - [Scientists Just Discovered an RNA That Repairs DNA Damage – It's a Game-Changer](https://scitechdaily.com/scientists-just-discovered-an-rna-that-repairs-dna-damage-and-its-a-game-changer/)
+* [2025-03-09, 20:55:48](https://news.ycombinator.com/item?id=43313706) - [Wine Releases Framework Mono 6.14 in Taking over the Mono Project](https://www.phoronix.com/news/Wine-Framework-Mono-6.14)
 * [2025-03-09, 20:40:04](https://news.ycombinator.com/item?id=43313522) - [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go)
+* [2025-03-09, 19:18:41](https://news.ycombinator.com/item?id=43312652) - [With AI You Need to Think Much Bigger](https://rodyne.com/?p=1828)
 * [2025-03-09, 18:35:37](https://news.ycombinator.com/item?id=43312199) - [We built a Modern Data Stack from scratch and reduced our bill by 70%](https://jchandra.com/posts/data-infra/)
 * [2025-03-09, 17:49:17](https://news.ycombinator.com/item?id=43311696) - [Hatching a Conspiracy: A Big Investigation into Egg Prices](https://www.thebignewsletter.com/p/hatching-a-conspiracy-a-big-investigation)
 * [2025-03-09, 17:43:15](https://news.ycombinator.com/item?id=43311610) - [Nickel superconductor works above -233°C threshold at normal pressure](https://phys.org/news/2025-02-nickel-superconductor-233c-threshold-pressure.html)
@@ -9,7 +11,6 @@
 * [2025-03-09, 17:00:35](https://news.ycombinator.com/item?id=43311044) - [Infisical (YC W23) Is Hiring for Full Stack Engineers in San Francisco](https://www.ycombinator.com/companies/infisical/jobs/QqCs5fv-full-stack-engineer-sf)
 * [2025-03-09, 16:51:59](https://news.ycombinator.com/item?id=43310963) - [Show HN: Evolving Agents Framework](https://github.com/matiasmolinas/evolving-agents)
 * [2025-03-09, 15:55:08](https://news.ycombinator.com/item?id=43310253) - [Binocular Shot](https://binocularshot.com/)
-* [2025-03-09, 14:39:28](https://news.ycombinator.com/item?id=43309376) - [Orange Pi RV2 is a single-board PC with an 8-core RISC-V processor](https://liliputing.com/orange-pi-rv2-is-a-single-board-pc-with-an-8-core-risc-v-processor/)
 * [2025-03-09, 13:40:35](https://news.ycombinator.com/item?id=43308994) - [It is as if you were on your phone](https://pippinbarr.com/it-is-as-if-you-were-on-your-phone/info/)
 * [2025-03-09, 11:08:27](https://news.ycombinator.com/item?id=43307996) - [US Ends Support For Ukrainian F-16s](https://ukrainetoday.org/us-ends-support-for-ukrainian-f-16s-but-french-mirages-will-be-salvation-forbes/)
 * [2025-03-09, 11:06:38](https://news.ycombinator.com/item?id=43307987) - [Gleam v1.9](https://gleam.run/news/hello-echo-hello-git/)
@@ -28,7 +29,6 @@
 * [2025-03-06, 20:47:59](https://news.ycombinator.com/item?id=43284927) - [PurrCrypt: Steganographic encryption disguised as pet sounds](https://github.com/vxfemboy/purrcrypt)
 * [2025-03-06, 20:03:51](https://news.ycombinator.com/item?id=43284541) - [Investigating an argument-dependent lookup issue and working around it](https://devblogs.microsoft.com/oldnewthing/20250214-00/?p=110868)
 * [2025-03-06, 19:39:08](https://news.ycombinator.com/item?id=43284293) - [Show HN: C++ AWS MSK IAM Auth Implementation – Goodbye Kafka Passwords](https://github.com/timeplus-io/proton/blob/develop/src/IO/Kafka/AwsMskIamSigner.cpp)
-* [2025-03-06, 13:27:06](https://news.ycombinator.com/item?id=43279939) - [Graphite: Node-based, non-destructive, procedural 2D vector editor](https://github.com/GraphiteEditor/Graphite)
 * [2025-03-05, 16:09:26](https://news.ycombinator.com/item?id=43268477) - [16-Bit to 1-Bit: Visual KV Cache Quantization for Efficient Multimodal LLMs](https://arxiv.org/abs/2502.14882)
 
 ## [Archives](archives/index.md)
