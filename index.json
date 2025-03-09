@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-09, 22:43:30",
+      "https://news.ycombinator.com/item?id=43314700"
+    ],
+    [
+      "Ice arrests Palestinian activist who helped lead Columbia protests, lawyer says",
+      "https://www.theguardian.com/us-news/2025/mar/09/ice-arrests-palestinian-activist-columbia-protests"
+    ]
+  ],
+  [
+    [
+      "2025-03-09, 21:58:27",
+      "https://news.ycombinator.com/item?id=43314334"
+    ],
+    [
+      "El Salvador's crypto experiment ends in failure",
+      "https://www.economist.com/finance-and-economics/2025/03/02/el-salvadors-wild-crypto-experiment-ends-in-failure"
+    ]
+  ],
+  [
+    [
       "2025-03-09, 21:51:35",
       "https://news.ycombinator.com/item?id=43314276"
     ],
@@ -41,11 +61,21 @@
   ],
   [
     [
+      "2025-03-09, 20:44:08",
+      "https://news.ycombinator.com/item?id=43313574"
+    ],
+    [
+      "Sweetener aspartame aggravates atherosclerosis through insulin inflammation",
+      "https://www.sciencedirect.com/science/article/pii/S1550413125000063"
+    ]
+  ],
+  [
+    [
       "2025-03-09, 20:40:04",
       "https://news.ycombinator.com/item?id=43313522"
     ],
     [
-      "Idiomatic Go",
+      "Idiomatic Go (2016)",
       "https://dmitri.shuralyov.com/idiomatic-go"
     ]
   ],
@@ -77,16 +107,6 @@
     [
       "We built a Modern Data Stack from scratch and reduced our bill by 70%",
       "https://jchandra.com/posts/data-infra/"
-    ]
-  ],
-  [
-    [
-      "2025-03-09, 17:49:17",
-      "https://news.ycombinator.com/item?id=43311696"
-    ],
-    [
-      "Hatching a Conspiracy: A Big Investigation into Egg Prices",
-      "https://www.thebignewsletter.com/p/hatching-a-conspiracy-a-big-investigation"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-03-09, 00:32:56",
-      "https://news.ycombinator.com/item?id=43304962"
-    ],
-    [
-      "Building an open-source Wi-Fi Mac layer for the ESP32",
-      "https://esp32-open-mac.be"
-    ]
-  ],
-  [
-    [
       "2025-03-08, 21:36:53",
       "https://news.ycombinator.com/item?id=43303752"
     ],
@@ -277,16 +287,6 @@
     [
       "Investigating an argument-dependent lookup issue and working around it",
       "https://devblogs.microsoft.com/oldnewthing/20250214-00/?p=110868"
-    ]
-  ],
-  [
-    [
-      "2025-03-06, 19:39:08",
-      "https://news.ycombinator.com/item?id=43284293"
-    ],
-    [
-      "Show HN: C++ AWS MSK IAM Auth Implementation – Goodbye Kafka Passwords",
-      "https://github.com/timeplus-io/proton/blob/develop/src/IO/Kafka/AwsMskIamSigner.cpp"
     ]
   ],
   [
