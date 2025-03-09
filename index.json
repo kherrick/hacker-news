@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-09, 17:43:15",
+      "https://news.ycombinator.com/item?id=43311610"
+    ],
+    [
+      "Nickel superconductor works above -233°C threshold at normal pressure",
+      "https://phys.org/news/2025-02-nickel-superconductor-233c-threshold-pressure.html"
+    ]
+  ],
+  [
+    [
       "2025-03-09, 17:25:17",
       "https://news.ycombinator.com/item?id=43311367"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=43311091"
     ],
     [
-      "Do you DARE? Europe bets once again on RISC-V for supercomputing sovereignty",
+      "Europe bets once again on RISC-V for supercomputing",
       "https://www.theregister.com/2025/03/07/dare_europe_risc_v_project/"
     ]
   ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=43310963"
     ],
     [
-      "Evolving Agents – AI Agents That Communicate, Collaborate, and Improve over Time",
+      "Show HN: Evolving Agents Framework",
       "https://github.com/matiasmolinas/evolving-agents"
     ]
   ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=43310047"
     ],
     [
-      "Mako: An extremely fast, production-grade web bundler based on Rust by Ant Group",
+      "Mako: Fast, production-grade web bundler",
       "https://makojs.dev/"
     ]
   ],
@@ -66,7 +76,7 @@
     ],
     [
       "It is as if you were on your phone",
-      "http://pippinbarr.com/it-is-as-if-you-were-on-your-phone/info/"
+      "https://pippinbarr.com/it-is-as-if-you-were-on-your-phone/info/"
     ]
   ],
   [
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=43307987"
     ],
     [
-      "Gleam v1.9.0 Released",
+      "Gleam v1.9",
       "https://gleam.run/news/hello-echo-hello-git/"
     ]
   ],
@@ -105,7 +115,7 @@
       "https://news.ycombinator.com/item?id=43307755"
     ],
     [
-      "Why Layoffs Don't Work",
+      "Layoffs Don't Work",
       "https://thehustle.co/originals/why-layoffs-dont-work"
     ]
   ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2025-03-08, 16:27:00",
-      "https://news.ycombinator.com/item?id=43301342"
-    ],
-    [
-      "Discovering errors in Donald Knuth's TAOCP",
-      "https://glthr.com/discovering-errors-in-donald-knuths-taocp"
-    ]
-  ],
-  [
-    [
       "2025-03-08, 12:57:18",
       "https://news.ycombinator.com/item?id=43299886"
     ],
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=43284927"
     ],
     [
-      "PurrCrypt: Steganographic Encryption Disguised as Pet Sounds",
+      "PurrCrypt: Steganographic encryption disguised as pet sounds",
       "https://github.com/vxfemboy/purrcrypt"
     ]
   ],
@@ -265,18 +265,18 @@
       "https://news.ycombinator.com/item?id=43280985"
     ],
     [
-      "LFortran Compiles Prima",
+      "LFortran compiles PRIMA",
       "https://lfortran.org/blog/2025/03/lfortran-compiles-prima/"
     ]
   ],
   [
     [
-      "2025-03-06, 11:10:21",
-      "https://news.ycombinator.com/item?id=43278779"
+      "2025-03-06, 13:20:22",
+      "https://news.ycombinator.com/item?id=43279870"
     ],
     [
-      "How do you process the news?",
-      "https://alexschroeder.ch/view/2025-03-05-processing"
+      "BBS from Scratch",
+      "https://bbsfromscratch.com/"
     ]
   ],
   [
