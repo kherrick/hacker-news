@@ -62,6 +62,7 @@
 * [2025-03-06, 11:29:56](https://news.ycombinator.com/item?id=43278934) - [Denmark postal service to stop delivering letters](https://www.bbc.com/news/articles/ckg8jllq283o)
 * [2025-03-06, 11:23:49](https://news.ycombinator.com/item?id=43278880) - [Now there are two Chinese automakers on the top list](https://daoinsights.com/news/now-there-are-two-chinese-automakers-on-the-worlds-top-10-list/)
 * [2025-03-06, 11:17:48](https://news.ycombinator.com/item?id=43278845) - [AMD Announces \"Instella\" Open-Source 3B Language Models](https://www.phoronix.com/news/AMD-Intella-Open-Source-LM)
+* [2025-03-06, 11:10:21](https://news.ycombinator.com/item?id=43278779) - [How do you process the news?](https://alexschroeder.ch/view/2025-03-05-processing)
 * [2025-03-06, 10:58:57](https://news.ycombinator.com/item?id=43278705) - [Buy European Made. Support European Values](https://www.buy-european-made.eu/)
 * [2025-03-06, 10:22:06](https://news.ycombinator.com/item?id=43278473) - [Automatically tagging politician when they use their phone on the livestreams](https://driesdepoorter.be/theflemishscrollers/)
 * [2025-03-06, 09:16:56](https://news.ycombinator.com/item?id=43278112) - ['Trump Gaza' AI video intended as political satire, says creator](https://www.theguardian.com/technology/2025/mar/06/trump-gaza-ai-video-intended-as-political-satire-says-creator)
