@@ -1,11 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-09, 17:00:35](https://news.ycombinator.com/item?id=43311044) - [Infisical (YC W23) Is Hiring for Full Stack Engineers in San Francisco](https://www.ycombinator.com/companies/infisical/jobs/QqCs5fv-full-stack-engineer-sf)
-* [2025-03-09, 16:24:46](https://news.ycombinator.com/item?id=43310634) - [Reasons veterans are especially hard-hit by federal cuts](https://theconversation.com/5-reasons-veterans-are-especially-hard-hit-by-federal-cuts-251188)
 * [2025-03-09, 15:39:16](https://news.ycombinator.com/item?id=43310047) - [Mako: An extremely fast, production-grade web bundler based on Rust by Ant Group](https://makojs.dev/)
 * [2025-03-09, 14:39:28](https://news.ycombinator.com/item?id=43309376) - [Orange Pi RV2 is a single-board PC with an 8-core RISC-V processor](https://liliputing.com/orange-pi-rv2-is-a-single-board-pc-with-an-8-core-risc-v-processor/)
 * [2025-03-09, 13:40:35](https://news.ycombinator.com/item?id=43308994) - [It is as if you were on your phone](http://pippinbarr.com/it-is-as-if-you-were-on-your-phone/info/)
-* [2025-03-09, 12:01:11](https://news.ycombinator.com/item?id=43308332) - [Helpcare AI (YC F24) Fullstack Engineer](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview)
 * [2025-03-09, 11:08:27](https://news.ycombinator.com/item?id=43307996) - [US Ends Support For Ukrainian F-16s](https://ukrainetoday.org/us-ends-support-for-ukrainian-f-16s-but-french-mirages-will-be-salvation-forbes/)
 * [2025-03-09, 11:06:38](https://news.ycombinator.com/item?id=43307987) - [Gleam v1.9.0 Released](https://gleam.run/news/hello-echo-hello-git/)
 * [2025-03-09, 10:20:50](https://news.ycombinator.com/item?id=43307809) - [I've been using Claude Code for a couple of days](https://twitter.com/Steve_Yegge/status/1898674257808515242)
@@ -29,7 +27,9 @@
 * [2025-03-06, 11:10:21](https://news.ycombinator.com/item?id=43278779) - [How do you process the news?](https://alexschroeder.ch/view/2025-03-05-processing)
 * [2025-03-06, 03:58:04](https://news.ycombinator.com/item?id=43276251) - [Commodore 64 PETSCII Image (2022)](https://medium.com/@8bitsten/commodore-64-petscii-image-f608225714ec)
 * [2025-03-05, 22:47:52](https://news.ycombinator.com/item?id=43273828) - [\"Big 3\" science fiction magazines including Asimov's and Analog acquired](https://jasonsanford.substack.com/p/genre-grapevine-for-last-half-of)
+* [2025-03-05, 17:30:44](https://news.ycombinator.com/item?id=43269614) - [SMBC Parts Ways with Hiveworks](https://www.smbc-comics.com/comic/announcement-2)
 * [2025-03-05, 16:09:26](https://news.ycombinator.com/item?id=43268477) - [16-Bit to 1-Bit: Visual KV Cache Quantization for Efficient Multimodal LLMs](https://arxiv.org/abs/2502.14882)
+* [2025-03-05, 13:29:45](https://news.ycombinator.com/item?id=43266129) - [Roald Dahl on the death of his daughter (2015)](https://www.telegraph.co.uk/books/authors/roald-dahls-darkest-hour/)
 
 ## [Archives](archives/index.md)
 
