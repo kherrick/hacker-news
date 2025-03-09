@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-03-09, 02:44:47",
-      "https://news.ycombinator.com/item?id=43305683"
+      "2025-03-09, 03:08:12",
+      "https://news.ycombinator.com/item?id=43305803"
     ],
     [
-      "YouTube, when the walls fell [video]",
-      "https://www.youtube.com/watch?v=l0jw_Q23NIU"
+      "My 16-month theanine self-experiment",
+      "https://dynomight.net/theanine/"
     ]
   ],
   [
@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2025-03-08, 18:04:36",
-      "https://news.ycombinator.com/item?id=43302073"
-    ],
-    [
-      "Kagi Is Bringing Orion Web Browser to Linux",
-      "https://www.omgubuntu.co.uk/2025/03/kag-orion-web-browser-coming-to-linux"
-    ]
-  ],
-  [
-    [
       "2025-03-08, 16:39:23",
       "https://news.ycombinator.com/item?id=43301432"
     ],
@@ -181,6 +171,16 @@
   ],
   [
     [
+      "2025-03-08, 04:51:25",
+      "https://news.ycombinator.com/item?id=43297590"
+    ],
+    [
+      "Falkon: A KDE Web Browser",
+      "https://www.falkon.org"
+    ]
+  ],
+  [
+    [
       "2025-03-08, 04:46:33",
       "https://news.ycombinator.com/item?id=43297574"
     ],
@@ -221,22 +221,22 @@
   ],
   [
     [
-      "2025-03-07, 04:15:34",
-      "https://news.ycombinator.com/item?id=43287345"
-    ],
-    [
-      "The trap of the top-down approach",
-      "https://www.cryptologie.net/article/625/the-trap-of-the-top-down-approach/"
-    ]
-  ],
-  [
-    [
       "2025-03-06, 11:51:17",
       "https://news.ycombinator.com/item?id=43279131"
     ],
     [
       "Spark-TTS: Text-2-Speech Model Single-Stream Decoupled Tokens [pdf]",
       "https://arxiv.org/abs/2503.01710"
+    ]
+  ],
+  [
+    [
+      "2025-03-06, 06:42:00",
+      "https://news.ycombinator.com/item?id=43277148"
+    ],
+    [
+      "How much traffic can a pre-rendered Next.js site handle?",
+      "https://martijnhols.nl/blog/how-much-traffic-can-a-pre-rendered-nextjs-site-handle"
     ]
   ],
   [
