@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-03-09, 21:51:35",
+      "https://news.ycombinator.com/item?id=43314276"
+    ],
+    [
+      "Aspirin prevents metastasis by limiting platelet TXA2 suppression of immunity",
+      "https://www.nature.com/articles/s41586-025-08626-7"
+    ]
+  ],
+  [
+    [
+      "2025-03-09, 21:40:03",
+      "https://news.ycombinator.com/item?id=43314171"
+    ],
+    [
+      "Apple rearranged its XNU kernel with exclaves",
+      "https://www.theregister.com/2025/03/08/kernel_sanders_apple_rearranges_xnu/"
+    ]
+  ],
+  [
+    [
+      "2025-03-09, 21:03:29",
+      "https://news.ycombinator.com/item?id=43313792"
+    ],
+    [
+      "DOGE's government cuts may hurt business, companies warn investors",
+      "https://www.washingtonpost.com/business/2025/03/09/doge-companies-warnings-sec-filings/"
+    ]
+  ],
+  [
+    [
       "2025-03-09, 21:02:47",
       "https://news.ycombinator.com/item?id=43313781"
     ],
@@ -27,6 +57,16 @@
     [
       "Idiomatic Go",
       "https://dmitri.shuralyov.com/idiomatic-go"
+    ]
+  ],
+  [
+    [
+      "2025-03-09, 20:20:13",
+      "https://news.ycombinator.com/item?id=43313321"
+    ],
+    [
+      "Show HN: I built a free SVG Web site",
+      "https://websvg.com/"
     ]
   ],
   [
@@ -67,6 +107,16 @@
     [
       "Nickel superconductor works above -233°C threshold at normal pressure",
       "https://phys.org/news/2025-02-nickel-superconductor-233c-threshold-pressure.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-09, 17:40:38",
+      "https://news.ycombinator.com/item?id=43311573"
+    ],
+    [
+      "Ecosia is teaming up with Qwant to build a European search index",
+      "https://blog.ecosia.org/eusp/"
     ]
   ],
   [
@@ -121,26 +171,6 @@
   ],
   [
     [
-      "2025-03-09, 11:08:27",
-      "https://news.ycombinator.com/item?id=43307996"
-    ],
-    [
-      "US Ends Support For Ukrainian F-16s",
-      "https://ukrainetoday.org/us-ends-support-for-ukrainian-f-16s-but-french-mirages-will-be-salvation-forbes/"
-    ]
-  ],
-  [
-    [
-      "2025-03-09, 11:06:38",
-      "https://news.ycombinator.com/item?id=43307987"
-    ],
-    [
-      "Gleam v1.9",
-      "https://gleam.run/news/hello-echo-hello-git/"
-    ]
-  ],
-  [
-    [
       "2025-03-09, 10:07:01",
       "https://news.ycombinator.com/item?id=43307755"
     ],
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2025-03-09, 03:40:51",
-      "https://news.ycombinator.com/item?id=43305973"
-    ],
-    [
-      "Online Embedded Rust Simulator",
-      "https://wokwi.com/rust"
-    ]
-  ],
-  [
-    [
       "2025-03-09, 03:08:12",
       "https://news.ycombinator.com/item?id=43305803"
     ],
@@ -207,16 +227,6 @@
     [
       "Building an open-source Wi-Fi Mac layer for the ESP32",
       "https://esp32-open-mac.be"
-    ]
-  ],
-  [
-    [
-      "2025-03-09, 00:04:47",
-      "https://news.ycombinator.com/item?id=43304785"
-    ],
-    [
-      "Show HN: I built an app to get daily wisdom from Mr. Worldwide",
-      "https://daale.club/"
     ]
   ],
   [
@@ -241,22 +251,22 @@
   ],
   [
     [
+      "2025-03-07, 13:30:08",
+      "https://news.ycombinator.com/item?id=43289990"
+    ],
+    [
+      "Woman's DNA discovered in 20k year old deer-tooth pendant",
+      "https://www.cbc.ca/radio/quirks/pendant-ancient-dna-1.6832580"
+    ]
+  ],
+  [
+    [
       "2025-03-07, 11:16:57",
       "https://news.ycombinator.com/item?id=43289247"
     ],
     [
       "Sublogic Flight Simulator – By Paul Lefebvre",
       "https://www.goto10retro.com/p/sublogic-flight-simulator"
-    ]
-  ],
-  [
-    [
-      "2025-03-07, 10:38:50",
-      "https://news.ycombinator.com/item?id=43289050"
-    ],
-    [
-      "Anti-Schelling points and waiting for my barista-made coffee",
-      "https://interconnected.org/home/2025/03/07/schelling"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Investigating an argument-dependent lookup issue and working around it",
       "https://devblogs.microsoft.com/oldnewthing/20250214-00/?p=110868"
-    ]
-  ],
-  [
-    [
-      "2025-03-06, 19:39:08",
-      "https://news.ycombinator.com/item?id=43284293"
-    ],
-    [
-      "Show HN: C++ AWS MSK IAM Auth Implementation – Goodbye Kafka Passwords",
-      "https://github.com/timeplus-io/proton/blob/develop/src/IO/Kafka/AwsMskIamSigner.cpp"
     ]
   ],
   [
