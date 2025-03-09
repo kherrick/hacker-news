@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-09, 02:44:47](https://news.ycombinator.com/item?id=43305683) - [YouTube, when the walls fell [video]](https://www.youtube.com/watch?v=l0jw_Q23NIU)
 * [2025-03-09, 01:49:23](https://news.ycombinator.com/item?id=43305400) - [Compared to index funds, actively managed mutual funds still stink](https://www.latimes.com/business/story/2025-03-06/the-results-are-in-during-2024-actively-managed-mutual-funds-again-stank)
 * [2025-03-09, 00:32:56](https://news.ycombinator.com/item?id=43304962) - [Building an open-source Wi-Fi Mac layer for the ESP32](https://esp32-open-mac.be)
 * [2025-03-09, 00:04:47](https://news.ycombinator.com/item?id=43304785) - [Show HN: I built an app to get daily wisdom from Mr. Worldwide](https://daale.club/)
-* [2025-03-08, 21:59:04](https://news.ycombinator.com/item?id=43303922) - [Stuff a Pi-hole in your router because your browser is about to betray you](https://www.theregister.com/2025/03/08/pi_hole_6_flyby/)
 * [2025-03-08, 21:36:53](https://news.ycombinator.com/item?id=43303752) - [Presenterm: Markdown Slideshows in the Terminal](https://github.com/mfontanini/presenterm)
 * [2025-03-08, 21:00:34](https://news.ycombinator.com/item?id=43303463) - [OneText (YC W23) is hiring a browser extension engineer](https://news.ycombinator.com/item?id=43303463)
 * [2025-03-08, 20:37:55](https://news.ycombinator.com/item?id=43303309) - [Show HN: TypeLeap: LLM Powered Reactive Intent UI/UX](https://www.typeleap.com/)
