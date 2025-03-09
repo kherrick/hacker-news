@@ -68,6 +68,7 @@
 * [2025-03-06, 07:46:50](https://news.ycombinator.com/item?id=43277550) - [Forces deep underground seem to be deforming Earth's inner core](https://www.newscientist.com/article/2467491-forces-deep-underground-seem-to-be-deforming-earths-inner-core/)
 * [2025-03-06, 07:00:13](https://news.ycombinator.com/item?id=43277250) - [Arva AI (YC S24) Is Hiring an AI Product Engineer](https://www.ycombinator.com/companies/arva-ai/jobs/OBPwCiU-ai-product-engineer)
 * [2025-03-06, 06:53:46](https://news.ycombinator.com/item?id=43277214) - [Apache iceberg the Hadoop of the modern-data-stack?](https://blog.det.life/apache-iceberg-the-hadoop-of-the-modern-data-stack-c83f63a4ebb9)
+* [2025-03-06, 06:42:00](https://news.ycombinator.com/item?id=43277148) - [How much traffic can a pre-rendered Next.js site handle?](https://martijnhols.nl/blog/how-much-traffic-can-a-pre-rendered-nextjs-site-handle)
 * [2025-03-06, 05:53:30](https://news.ycombinator.com/item?id=43276843) - [The Authoritarian Regime Survival Guide](https://verfassungsblog.de/the-authoritarian-regime-survival-guide/)
 * [2025-03-06, 04:44:06](https://news.ycombinator.com/item?id=43276504) - [Gaming chat platform Discord in early talks with banks about public listing](https://www.ft.com/content/4ab9efe7-36bc-44ff-b2cd-06eb2c38203a)
 * [2025-03-06, 03:18:06](https://news.ycombinator.com/item?id=43276038) - [Aider: Using Uv as an Installer](https://simonwillison.net/2025/Mar/6/aider-using-uv-as-an-installer/)

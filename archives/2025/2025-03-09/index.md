@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-09](index.md)
 
+* [2025-03-09, 03:08:12](https://news.ycombinator.com/item?id=43305803) - [My 16-month theanine self-experiment](https://dynomight.net/theanine/)
 * [2025-03-09, 02:46:26](https://news.ycombinator.com/item?id=43305692) - [DOGE targets child support database full of income data](https://www.washingtonpost.com/business/2025/03/06/doge-hhs-ssa-data/)
 * [2025-03-09, 02:44:47](https://news.ycombinator.com/item?id=43305683) - [YouTube, when the walls fell [video]](https://www.youtube.com/watch?v=l0jw_Q23NIU)
 * [2025-03-09, 01:49:23](https://news.ycombinator.com/item?id=43305400) - [Compared to index funds, actively managed mutual funds still stink](https://www.latimes.com/business/story/2025-03-06/the-results-are-in-during-2024-actively-managed-mutual-funds-again-stank)
