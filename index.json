@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-09, 20:00:49",
+      "https://news.ycombinator.com/item?id=43313127"
+    ],
+    [
+      "Tesla Sales Fall Off a Cliff Globally, Including Germany, Australia, and China",
+      "https://www.carscoops.com/2025/03/tesla-sales-falling-off-a-cliff-globally-including-germany-australia-and-china/"
+    ]
+  ],
+  [
+    [
       "2025-03-09, 18:19:56",
       "https://news.ycombinator.com/item?id=43312034"
     ],
@@ -27,16 +37,6 @@
     [
       "Nickel superconductor works above -233°C threshold at normal pressure",
       "https://phys.org/news/2025-02-nickel-superconductor-233c-threshold-pressure.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-09, 17:09:30",
-      "https://news.ycombinator.com/item?id=43311149"
-    ],
-    [
-      "Rewriting essential Linux packages in Rust",
-      "https://lwn.net/Articles/1007907/"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2025-03-08, 12:57:18",
-      "https://news.ycombinator.com/item?id=43299886"
-    ],
-    [
-      "The DOJ still wants Google to sell off Chrome",
-      "https://www.wired.com/story/the-doj-still-wants-google-to-divest-chrome/"
-    ]
-  ],
-  [
-    [
       "2025-03-07, 11:16:57",
       "https://news.ycombinator.com/item?id=43289247"
     ],
@@ -287,6 +277,16 @@
     [
       "LFortran compiles PRIMA",
       "https://lfortran.org/blog/2025/03/lfortran-compiles-prima/"
+    ]
+  ],
+  [
+    [
+      "2025-03-06, 13:27:06",
+      "https://news.ycombinator.com/item?id=43279939"
+    ],
+    [
+      "Graphite: Node-based, non-destructive, procedural 2D vector editor",
+      "https://github.com/GraphiteEditor/Graphite"
     ]
   ],
   [
