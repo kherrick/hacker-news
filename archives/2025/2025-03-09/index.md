@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-09](index.md)
 
 * [2025-03-09, 12:01:11](https://news.ycombinator.com/item?id=43308332) - [Helpcare AI (YC F24) Fullstack Engineer](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview)
+* [2025-03-09, 11:15:12](https://news.ycombinator.com/item?id=43308033) - [Why Go's Error Handling Is Awesome](https://rauljordan.com/why-go-error-handling-is-awesome/)
 * [2025-03-09, 11:08:27](https://news.ycombinator.com/item?id=43307996) - [US Ends Support For Ukrainian F-16s](https://ukrainetoday.org/us-ends-support-for-ukrainian-f-16s-but-french-mirages-will-be-salvation-forbes/)
 * [2025-03-09, 10:57:29](https://news.ycombinator.com/item?id=43307941) - [How to know when it's time to go](https://bitfieldconsulting.com/posts/when-its-time-to-go)
 * [2025-03-09, 10:55:39](https://news.ycombinator.com/item?id=43307933) - [This blog post passed unit tests](https://www.sealambda.com/blog/this-post-passed-unit-tests/)
