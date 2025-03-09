@@ -58,6 +58,7 @@
 * [2025-03-07, 11:25:27](https://news.ycombinator.com/item?id=43289293) - [Zig's dot star syntax (value.*)](https://www.openmymind.net/Zig-Dot-Star-Syntax/)
 * [2025-03-07, 11:16:41](https://news.ycombinator.com/item?id=43289245) - [Natural occurring molecule rivals Ozempic in weight loss, sidesteps side effects](https://medicalxpress.com/news/2025-03-naturally-molecule-rivals-ozempic-weight.html)
 * [2025-03-07, 11:12:05](https://news.ycombinator.com/item?id=43289226) - [Meta, Google, and Salesforce announce major layoffs in 2025](https://www.indmoney.com/blog/us-stocks/meta-google-salesforce-announce-layoffs-2025)
+* [2025-03-07, 11:06:17](https://news.ycombinator.com/item?id=43289205) - [Ten Digit Problems (2011) [pdf]](https://people.maths.ox.ac.uk/trefethen/publication/PDF/2011_137.pdf)
 * [2025-03-07, 10:35:02](https://news.ycombinator.com/item?id=43289022) - [How often are children genetically unrelated to their presumed fathers?](https://www.science.org/content/article/how-often-are-children-genetically-unrelated-their-presumed-fathers)
 * [2025-03-07, 10:06:38](https://news.ycombinator.com/item?id=43288861) - [Matters Computational Ideas, Algorithms, Source Code – Jorg Arndt [pdf]](https://www.jjj.de/fxt/fxtbook.pdf)
 * [2025-03-07, 09:45:51](https://news.ycombinator.com/item?id=43288719) - [StrictYAML](https://hitchdev.com/strictyaml/)
