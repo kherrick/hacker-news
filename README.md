@@ -20,6 +20,7 @@
 * [2025-03-09, 00:04:47](https://news.ycombinator.com/item?id=43304785) - [Show HN: I built an app to get daily wisdom from Mr. Worldwide](https://daale.club/)
 * [2025-03-08, 21:36:53](https://news.ycombinator.com/item?id=43303752) - [Presenterm: Markdown Slideshows in the Terminal](https://github.com/mfontanini/presenterm)
 * [2025-03-08, 18:44:19](https://news.ycombinator.com/item?id=43302394) - [Improving on std:count_if()'s auto-vectorization](https://nicula.xyz/2025/03/08/improving-stdcountif-vectorization.html)
+* [2025-03-08, 16:27:00](https://news.ycombinator.com/item?id=43301342) - [Discovering errors in Donald Knuth's TAOCP](https://glthr.com/discovering-errors-in-donald-knuths-taocp)
 * [2025-03-08, 12:57:18](https://news.ycombinator.com/item?id=43299886) - [The DOJ still wants Google to sell off Chrome](https://www.wired.com/story/the-doj-still-wants-google-to-divest-chrome/)
 * [2025-03-07, 22:54:58](https://news.ycombinator.com/item?id=43295692) - [AI tools are spotting errors in research papers](https://www.nature.com/articles/d41586-025-00648-5)
 * [2025-03-07, 10:38:50](https://news.ycombinator.com/item?id=43289050) - [Anti-Schelling points and waiting for my barista-made coffee](https://interconnected.org/home/2025/03/07/schelling)
@@ -27,7 +28,6 @@
 * [2025-03-06, 19:39:08](https://news.ycombinator.com/item?id=43284293) - [Show HN: C++ AWS MSK IAM Auth Implementation – Goodbye Kafka Passwords](https://github.com/timeplus-io/proton/blob/develop/src/IO/Kafka/AwsMskIamSigner.cpp)
 * [2025-03-06, 15:00:23](https://news.ycombinator.com/item?id=43280985) - [LFortran Compiles Prima](https://lfortran.org/blog/2025/03/lfortran-compiles-prima/)
 * [2025-03-06, 11:10:21](https://news.ycombinator.com/item?id=43278779) - [How do you process the news?](https://alexschroeder.ch/view/2025-03-05-processing)
-* [2025-03-06, 03:58:04](https://news.ycombinator.com/item?id=43276251) - [Commodore 64 PETSCII Image (2022)](https://medium.com/@8bitsten/commodore-64-petscii-image-f608225714ec)
 * [2025-03-05, 22:47:52](https://news.ycombinator.com/item?id=43273828) - [\"Big 3\" science fiction magazines including Asimov's and Analog acquired](https://jasonsanford.substack.com/p/genre-grapevine-for-last-half-of)
 * [2025-03-05, 16:09:26](https://news.ycombinator.com/item?id=43268477) - [16-Bit to 1-Bit: Visual KV Cache Quantization for Efficient Multimodal LLMs](https://arxiv.org/abs/2502.14882)
 
