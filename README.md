@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-09, 00:53:01](https://news.ycombinator.com/item?id=43305084) - [Tesla offering insane perks as sales dry up](https://www.autoblog.com/news/tesla-offering-insane-perks-as-sales-dry-up)
 * [2025-03-09, 00:04:47](https://news.ycombinator.com/item?id=43304785) - [Show HN: I built an app to get daily wisdom from Mr. Worldwide](https://daale.club/)
 * [2025-03-08, 21:59:04](https://news.ycombinator.com/item?id=43303922) - [Stuff a Pi-hole in your router because your browser is about to betray you](https://www.theregister.com/2025/03/08/pi_hole_6_flyby/)
 * [2025-03-08, 21:36:53](https://news.ycombinator.com/item?id=43303752) - [Presenterm: Markdown Slideshows in the Terminal](https://github.com/mfontanini/presenterm)
@@ -14,7 +15,6 @@
 * [2025-03-08, 14:31:23](https://news.ycombinator.com/item?id=43300528) - [The program is the database is the interface](https://www.scattered-thoughts.net/writing/the-program-is-the-database-is-the-interface/)
 * [2025-03-08, 12:57:18](https://news.ycombinator.com/item?id=43299886) - [The DOJ still wants Google to sell off Chrome](https://www.wired.com/story/the-doj-still-wants-google-to-divest-chrome/)
 * [2025-03-08, 12:48:11](https://news.ycombinator.com/item?id=43299815) - [Discworld Rules](https://contraptions.venkateshrao.com/p/discworld-rules)
-* [2025-03-08, 12:41:56](https://news.ycombinator.com/item?id=43299772) - [Gene-edited non-browning banana could cut food waste](https://www.theguardian.com/science/2025/mar/07/gene-edited-non-browning-banana-cut-food-waste-tropic-norwich)
 * [2025-03-08, 12:23:46](https://news.ycombinator.com/item?id=43299659) - [Long Read: Lessons from Building Semantic Search for GitHub and Why I Failed](https://tzx.notion.site/What-I-Learned-Building-a-Free-Semantic-Search-Tool-for-GitHub-and-Why-I-Failed-1a09b742c7918033b318f3a5d7dc9751)
 * [2025-03-08, 07:25:49](https://news.ycombinator.com/item?id=43298271) - [Volkswagen reintroducing physical controls for vital functions](https://www.autocar.co.uk/car-news/new-cars/volkswagen-reintroducing-physical-controls-vital-functions)
 * [2025-03-08, 04:51:25](https://news.ycombinator.com/item?id=43297590) - [Falkon: A KDE Web Browser](https://www.falkon.org)
