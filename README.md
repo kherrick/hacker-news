@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-09, 18:19:56](https://news.ycombinator.com/item?id=43312034) - [Global coffee trade grinding to a halt, hit hard by brutal price hikes](https://www.reuters.com/markets/commodities/global-coffee-trade-grinding-halt-hit-hard-by-brutal-prices-hikes-2025-03-07/)
+* [2025-03-09, 19:07:56](https://news.ycombinator.com/item?id=43312516) - [Poland says it may need alternative to Musk’s Starlink in Ukraine](https://www.reuters.com/world/europe/poland-says-it-may-need-alternative-musks-starlink-ukraine-2025-03-09/)
+* [2025-03-09, 17:49:17](https://news.ycombinator.com/item?id=43311696) - [Hatching a Conspiracy: A Big Investigation into Egg Prices](https://www.thebignewsletter.com/p/hatching-a-conspiracy-a-big-investigation)
 * [2025-03-09, 17:43:15](https://news.ycombinator.com/item?id=43311610) - [Nickel superconductor works above -233°C threshold at normal pressure](https://phys.org/news/2025-02-nickel-superconductor-233c-threshold-pressure.html)
 * [2025-03-09, 17:25:17](https://news.ycombinator.com/item?id=43311367) - [TeX Live 2025 Released](https://www.texastim.dev/tex-live-2025-iso-available-via-torrent/)
 * [2025-03-09, 17:09:30](https://news.ycombinator.com/item?id=43311149) - [Rewriting essential Linux packages in Rust](https://lwn.net/Articles/1007907/)
@@ -15,7 +16,6 @@
 * [2025-03-09, 11:06:38](https://news.ycombinator.com/item?id=43307987) - [Gleam v1.9](https://gleam.run/news/hello-echo-hello-git/)
 * [2025-03-09, 10:07:01](https://news.ycombinator.com/item?id=43307755) - [Layoffs Don't Work](https://thehustle.co/originals/why-layoffs-dont-work)
 * [2025-03-09, 06:35:06](https://news.ycombinator.com/item?id=43306797) - [Goravel: A Go framework inspired by Laravel](https://www.goravel.dev)
-* [2025-03-09, 06:23:02](https://news.ycombinator.com/item?id=43306734) - [Stem cell therapy trial reverses \"irreversible\" damage to cornea](https://newatlas.com/biology/stem-cell-therapy-reverses-irreversible-damage-cornea/)
 * [2025-03-09, 05:44:24](https://news.ycombinator.com/item?id=43306599) - [Magnesium Self-Experiments](https://gwern.net/nootropic/magnesium)
 * [2025-03-09, 05:04:05](https://news.ycombinator.com/item?id=43306435) - [A Post Mortem on the Gino Case](https://statmodeling.stat.columbia.edu/2025/03/08/a-post-mortem-on-the-gino-case-committing-fraud-is-right-now-a-viable-career-strategy-that-can-propel-you-at-the-top-of-the-academic-world/)
 * [2025-03-09, 03:40:51](https://news.ycombinator.com/item?id=43305973) - [Online Embedded Rust Simulator](https://wokwi.com/rust)
