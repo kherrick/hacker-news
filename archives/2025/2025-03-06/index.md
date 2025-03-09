@@ -81,3 +81,4 @@
 * [2025-03-06, 00:36:40](https://news.ycombinator.com/item?id=43274698) - [Volkswagen Introduces ID. EVERY1, Its Most Affordable EV](https://www.ttnews.com/articles/vw-introduces-id-every1)
 * [2025-03-06, 00:30:01](https://news.ycombinator.com/item?id=43274656) - [The \"Take It Down\" Act](https://www.eff.org/deeplinks/2025/03/trump-calls-congress-pass-overbroad-take-it-down-act-so-he-can-use-it-censor)
 * [2025-03-06, 00:23:33](https://news.ycombinator.com/item?id=43274613) - [DeepSeek-R1-671B-Q4_K_M with 1 or 2 Arc A770 on Xeon](https://github.com/intel/ipex-llm/blob/main/docs/mddocs/Quickstart/llamacpp_portable_zip_gpu_quickstart.md)
+* [2025-03-06, 00:03:58](https://news.ycombinator.com/item?id=43274498) - [Unseen photos of U2 and The Smiths released as Maxwell Hall Archive is unveiled](https://www.salford.ac.uk/news/unseen-photos-of-u2-and-the-smiths-released-as-maxwell-hall-digital-archive-is-unveiled)
