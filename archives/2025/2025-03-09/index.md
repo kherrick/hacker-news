@@ -6,10 +6,12 @@
 
 * [2025-03-09, 17:43:15](https://news.ycombinator.com/item?id=43311610) - [Nickel superconductor works above -233°C threshold at normal pressure](https://phys.org/news/2025-02-nickel-superconductor-233c-threshold-pressure.html)
 * [2025-03-09, 17:25:17](https://news.ycombinator.com/item?id=43311367) - [TeX Live 2025 Released](https://www.texastim.dev/tex-live-2025-iso-available-via-torrent/)
+* [2025-03-09, 17:09:30](https://news.ycombinator.com/item?id=43311149) - [Rewriting essential Linux packages in Rust](https://lwn.net/Articles/1007907/)
 * [2025-03-09, 17:04:28](https://news.ycombinator.com/item?id=43311091) - [Do you DARE? Europe bets once again on RISC-V for supercomputing sovereignty](https://www.theregister.com/2025/03/07/dare_europe_risc_v_project/)
 * [2025-03-09, 17:00:35](https://news.ycombinator.com/item?id=43311044) - [Infisical (YC W23) Is Hiring for Full Stack Engineers in San Francisco](https://www.ycombinator.com/companies/infisical/jobs/QqCs5fv-full-stack-engineer-sf)
 * [2025-03-09, 16:51:59](https://news.ycombinator.com/item?id=43310963) - [Evolving Agents – AI Agents That Communicate, Collaborate, and Improve over Time](https://github.com/matiasmolinas/evolving-agents)
 * [2025-03-09, 16:24:46](https://news.ycombinator.com/item?id=43310634) - [Reasons veterans are especially hard-hit by federal cuts](https://theconversation.com/5-reasons-veterans-are-especially-hard-hit-by-federal-cuts-251188)
+* [2025-03-09, 15:55:08](https://news.ycombinator.com/item?id=43310253) - [Binocular Shot](https://binocularshot.com/)
 * [2025-03-09, 15:39:16](https://news.ycombinator.com/item?id=43310047) - [Mako: An extremely fast, production-grade web bundler based on Rust by Ant Group](https://makojs.dev/)
 * [2025-03-09, 14:50:25](https://news.ycombinator.com/item?id=43309485) - [DHS Detains Lead Negotiator of Columbia Encampment](https://www.dropsitenews.com/p/dhs-detains-columbia-university-student-gaza)
 * [2025-03-09, 14:39:28](https://news.ycombinator.com/item?id=43309376) - [Orange Pi RV2 is a single-board PC with an 8-core RISC-V processor](https://liliputing.com/orange-pi-rv2-is-a-single-board-pc-with-an-8-core-risc-v-processor/)
