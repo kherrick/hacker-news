@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2025-03-09, 05:44:24",
-      "https://news.ycombinator.com/item?id=43306599"
-    ],
-    [
-      "Magnesium Self-Experiments",
-      "https://gwern.net/nootropic/magnesium"
-    ]
-  ],
-  [
-    [
       "2025-03-09, 03:40:51",
       "https://news.ycombinator.com/item?id=43305973"
     ],
@@ -211,6 +201,26 @@
   ],
   [
     [
+      "2025-03-07, 11:25:27",
+      "https://news.ycombinator.com/item?id=43289293"
+    ],
+    [
+      "Zig's dot star syntax (value.*)",
+      "https://www.openmymind.net/Zig-Dot-Star-Syntax/"
+    ]
+  ],
+  [
+    [
+      "2025-03-07, 11:06:17",
+      "https://news.ycombinator.com/item?id=43289205"
+    ],
+    [
+      "Ten Digit Problems (2011) [pdf]",
+      "https://people.maths.ox.ac.uk/trefethen/publication/PDF/2011_137.pdf"
+    ]
+  ],
+  [
+    [
       "2025-03-06, 23:15:48",
       "https://news.ycombinator.com/item?id=43286005"
     ],
@@ -227,16 +237,6 @@
     [
       "LFortran Compiles Prima",
       "https://lfortran.org/blog/2025/03/lfortran-compiles-prima/"
-    ]
-  ],
-  [
-    [
-      "2025-03-06, 06:42:00",
-      "https://news.ycombinator.com/item?id=43277148"
-    ],
-    [
-      "How much traffic can a pre-rendered Next.js site handle?",
-      "https://martijnhols.nl/blog/how-much-traffic-can-a-pre-rendered-nextjs-site-handle"
     ]
   ],
   [
