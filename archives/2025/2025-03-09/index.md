@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-09](index.md)
 
+* [2025-03-09, 23:23:17](https://news.ycombinator.com/item?id=43314994) - [ICE arrests Palestinian activist who helped lead Columbia University protests](https://apnews.com/article/columbia-university-mahmoud-khalil-ice-15014bcbb921f21a9f704d5acdcae7a8)
 * [2025-03-09, 23:00:25](https://news.ycombinator.com/item?id=43314851) - [Vilhelm Hammershøi: the eminence in greys](https://www.richardmorris.org/blog-1-1/vilhelm-hammershi-the-eminence-in-greys)
+* [2025-03-09, 22:53:19](https://news.ycombinator.com/item?id=43314781) - [Tesla's team to suppress driving range complaints](https://www.reuters.com/investigates/special-report/tesla-batteries-range/)
 * [2025-03-09, 22:43:30](https://news.ycombinator.com/item?id=43314700) - [Ice arrests Palestinian activist who helped lead Columbia protests, lawyer says](https://www.theguardian.com/us-news/2025/mar/09/ice-arrests-palestinian-activist-columbia-protests)
 * [2025-03-09, 22:38:57](https://news.ycombinator.com/item?id=43314657) - [Apple Exclaves](https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194)
 * [2025-03-09, 21:58:27](https://news.ycombinator.com/item?id=43314334) - [El Salvador's crypto experiment ends in failure](https://www.economist.com/finance-and-economics/2025/03/02/el-salvadors-wild-crypto-experiment-ends-in-failure)
