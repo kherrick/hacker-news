@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-09, 20:18:42](https://news.ycombinator.com/item?id=43313304) - [Despite the hype, DOGE hasn't found a shred of fraud](https://www.publicnotice.co/p/despite-the-hype-doge-hasnt-found)
 * [2025-03-09, 20:00:49](https://news.ycombinator.com/item?id=43313127) - [Tesla Sales Fall Off a Cliff Globally, Including Germany, Australia, and China](https://www.carscoops.com/2025/03/tesla-sales-falling-off-a-cliff-globally-including-germany-australia-and-china/)
 * [2025-03-09, 18:19:56](https://news.ycombinator.com/item?id=43312034) - [Global coffee trade grinding to a halt, hit hard by brutal price hikes](https://www.reuters.com/markets/commodities/global-coffee-trade-grinding-halt-hit-hard-by-brutal-prices-hikes-2025-03-07/)
 * [2025-03-09, 17:49:17](https://news.ycombinator.com/item?id=43311696) - [Hatching a Conspiracy: A Big Investigation into Egg Prices](https://www.thebignewsletter.com/p/hatching-a-conspiracy-a-big-investigation)
@@ -27,7 +28,6 @@
 * [2025-03-07, 10:38:50](https://news.ycombinator.com/item?id=43289050) - [Anti-Schelling points and waiting for my barista-made coffee](https://interconnected.org/home/2025/03/07/schelling)
 * [2025-03-06, 20:47:59](https://news.ycombinator.com/item?id=43284927) - [PurrCrypt: Steganographic encryption disguised as pet sounds](https://github.com/vxfemboy/purrcrypt)
 * [2025-03-06, 19:39:08](https://news.ycombinator.com/item?id=43284293) - [Show HN: C++ AWS MSK IAM Auth Implementation – Goodbye Kafka Passwords](https://github.com/timeplus-io/proton/blob/develop/src/IO/Kafka/AwsMskIamSigner.cpp)
-* [2025-03-06, 15:00:23](https://news.ycombinator.com/item?id=43280985) - [LFortran compiles PRIMA](https://lfortran.org/blog/2025/03/lfortran-compiles-prima/)
 * [2025-03-06, 13:27:06](https://news.ycombinator.com/item?id=43279939) - [Graphite: Node-based, non-destructive, procedural 2D vector editor](https://github.com/GraphiteEditor/Graphite)
 * [2025-03-05, 16:09:26](https://news.ycombinator.com/item?id=43268477) - [16-Bit to 1-Bit: Visual KV Cache Quantization for Efficient Multimodal LLMs](https://arxiv.org/abs/2502.14882)
 
