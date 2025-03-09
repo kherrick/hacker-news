@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-09, 13:00:42](https://news.ycombinator.com/item?id=43308740) - [The ESP32 \"backdoor\" that wasn't](https://darkmentor.com/blog/esp32_non-backdoor/)
 * [2025-03-09, 12:01:11](https://news.ycombinator.com/item?id=43308332) - [Helpcare AI (YC F24) Fullstack Engineer](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview)
 * [2025-03-09, 11:06:38](https://news.ycombinator.com/item?id=43307987) - [Gleam v1.9.0 Released](https://gleam.run/news/hello-echo-hello-git/)
 * [2025-03-09, 10:57:29](https://news.ycombinator.com/item?id=43307941) - [How to know when it's time to go](https://bitfieldconsulting.com/posts/when-its-time-to-go)
@@ -22,6 +21,7 @@
 * [2025-03-07, 22:54:58](https://news.ycombinator.com/item?id=43295692) - [AI tools are spotting errors in research papers](https://www.nature.com/articles/d41586-025-00648-5)
 * [2025-03-07, 11:25:27](https://news.ycombinator.com/item?id=43289293) - [Zig's dot star syntax (value.*)](https://www.openmymind.net/Zig-Dot-Star-Syntax/)
 * [2025-03-07, 11:06:17](https://news.ycombinator.com/item?id=43289205) - [Ten Digit Problems (2011) [pdf]](https://people.maths.ox.ac.uk/trefethen/publication/PDF/2011_137.pdf)
+* [2025-03-06, 23:15:48](https://news.ycombinator.com/item?id=43286005) - [Show HN: Testeranto – the AI driven test framework for TypeScript projects](https://www.npmjs.com/package/testeranto)
 * [2025-03-06, 19:49:42](https://news.ycombinator.com/item?id=43284399) - [Spark Texture Compression 1.2](https://www.ludicon.com/castano/blog/2025/03/spark-1-2/)
 * [2025-03-06, 15:00:23](https://news.ycombinator.com/item?id=43280985) - [LFortran Compiles Prima](https://lfortran.org/blog/2025/03/lfortran-compiles-prima/)
 * [2025-03-06, 03:58:04](https://news.ycombinator.com/item?id=43276251) - [Commodore 64 PETSCII Image (2022)](https://medium.com/@8bitsten/commodore-64-petscii-image-f608225714ec)
