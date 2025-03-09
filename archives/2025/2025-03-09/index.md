@@ -12,6 +12,7 @@
 * [2025-03-09, 05:44:24](https://news.ycombinator.com/item?id=43306599) - [Magnesium Self-Experiments](https://gwern.net/nootropic/magnesium)
 * [2025-03-09, 05:04:05](https://news.ycombinator.com/item?id=43306435) - [Committing fraud is a viable career strategy](https://statmodeling.stat.columbia.edu/2025/03/08/a-post-mortem-on-the-gino-case-committing-fraud-is-right-now-a-viable-career-strategy-that-can-propel-you-at-the-top-of-the-academic-world/)
 * [2025-03-09, 04:19:30](https://news.ycombinator.com/item?id=43306192) - [State Department Will Use AI to Search for 'Pro-Hamas' Students to Deport](https://gizmodo.com/state-department-will-use-ai-to-search-for-pro-hamas-students-to-deport-2000573143)
+* [2025-03-09, 03:40:51](https://news.ycombinator.com/item?id=43305973) - [Online Embedded Rust Simulator](https://wokwi.com/rust)
 * [2025-03-09, 03:32:04](https://news.ycombinator.com/item?id=43305920) - [H3: For indexing geographies into a hexagonal grid, by Uber](https://h3geo.org/)
 * [2025-03-09, 03:30:52](https://news.ycombinator.com/item?id=43305919) - [Posthog/.cursorrules](https://github.com/PostHog/posthog/blob/master/.cursorrules)
 * [2025-03-09, 03:08:12](https://news.ycombinator.com/item?id=43305803) - [My 16-month theanine self-experiment](https://dynomight.net/theanine/)
