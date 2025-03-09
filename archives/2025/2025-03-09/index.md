@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-09](index.md)
 
+* [2025-03-09, 10:20:50](https://news.ycombinator.com/item?id=43307809) - [I've been using Claude Code for a couple of days](https://twitter.com/Steve_Yegge/status/1898674257808515242)
 * [2025-03-09, 08:20:29](https://news.ycombinator.com/item?id=43307229) - [Rust vs. Go: Battle for the Back End](https://effective-programmer.com/rust-vs-go-battle-for-the-backend-368f775de9fc)
 * [2025-03-09, 07:00:03](https://news.ycombinator.com/item?id=43306908) - [Yhangry (YC W22) Consumer Marketplace (London Based) Is Hiring](https://www.ycombinator.com/companies/yhangry/jobs/JiN1myL-mid-senior-full-stack-engineer)
 * [2025-03-09, 06:45:23](https://news.ycombinator.com/item?id=43306839) - [Becoming a Good Engineer](https://0x0001.cc/blog/good-engineer.md)
