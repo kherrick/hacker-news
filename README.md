@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-09, 15:39:16](https://news.ycombinator.com/item?id=43310047) - [Mako: An extremely fast, production-grade web bundler based on Rust by Ant Group](https://makojs.dev/)
+* [2025-03-09, 14:39:28](https://news.ycombinator.com/item?id=43309376) - [Orange Pi RV2 is a single-board PC with an 8-core RISC-V processor](https://liliputing.com/orange-pi-rv2-is-a-single-board-pc-with-an-8-core-risc-v-processor/)
 * [2025-03-09, 13:40:35](https://news.ycombinator.com/item?id=43308994) - [It is as if you were on your phone](http://pippinbarr.com/it-is-as-if-you-were-on-your-phone/info/)
 * [2025-03-09, 12:01:11](https://news.ycombinator.com/item?id=43308332) - [Helpcare AI (YC F24) Fullstack Engineer](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview)
 * [2025-03-09, 11:08:27](https://news.ycombinator.com/item?id=43307996) - [US Ends Support For Ukrainian F-16s](https://ukrainetoday.org/us-ends-support-for-ukrainian-f-16s-but-french-mirages-will-be-salvation-forbes/)
@@ -19,9 +21,7 @@
 * [2025-03-08, 16:27:00](https://news.ycombinator.com/item?id=43301342) - [Discovering errors in Donald Knuth's TAOCP](https://glthr.com/discovering-errors-in-donald-knuths-taocp)
 * [2025-03-08, 12:57:18](https://news.ycombinator.com/item?id=43299886) - [The DOJ still wants Google to sell off Chrome](https://www.wired.com/story/the-doj-still-wants-google-to-divest-chrome/)
 * [2025-03-08, 12:48:11](https://news.ycombinator.com/item?id=43299815) - [Discworld Rules](https://contraptions.venkateshrao.com/p/discworld-rules)
-* [2025-03-08, 12:23:46](https://news.ycombinator.com/item?id=43299659) - [Long Read: Lessons from Building Semantic Search for GitHub and Why I Failed](https://tzx.notion.site/What-I-Learned-Building-a-Free-Semantic-Search-Tool-for-GitHub-and-Why-I-Failed-1a09b742c7918033b318f3a5d7dc9751)
 * [2025-03-07, 22:54:58](https://news.ycombinator.com/item?id=43295692) - [AI tools are spotting errors in research papers](https://www.nature.com/articles/d41586-025-00648-5)
-* [2025-03-06, 19:49:42](https://news.ycombinator.com/item?id=43284399) - [Spark Texture Compression 1.2](https://www.ludicon.com/castano/blog/2025/03/spark-1-2/)
 * [2025-03-06, 19:39:08](https://news.ycombinator.com/item?id=43284293) - [Show HN: C++ AWS MSK IAM Auth Implementation – Goodbye Kafka Passwords](https://github.com/timeplus-io/proton/blob/develop/src/IO/Kafka/AwsMskIamSigner.cpp)
 * [2025-03-06, 15:00:23](https://news.ycombinator.com/item?id=43280985) - [LFortran Compiles Prima](https://lfortran.org/blog/2025/03/lfortran-compiles-prima/)
 * [2025-03-06, 11:10:21](https://news.ycombinator.com/item?id=43278779) - [How do you process the news?](https://alexschroeder.ch/view/2025-03-05-processing)

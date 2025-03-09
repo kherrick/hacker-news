@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-09](index.md)
 
+* [2025-03-09, 15:39:16](https://news.ycombinator.com/item?id=43310047) - [Mako: An extremely fast, production-grade web bundler based on Rust by Ant Group](https://makojs.dev/)
 * [2025-03-09, 14:50:25](https://news.ycombinator.com/item?id=43309485) - [DHS Detains Lead Negotiator of Columbia Encampment](https://www.dropsitenews.com/p/dhs-detains-columbia-university-student-gaza)
+* [2025-03-09, 14:39:28](https://news.ycombinator.com/item?id=43309376) - [Orange Pi RV2 is a single-board PC with an 8-core RISC-V processor](https://liliputing.com/orange-pi-rv2-is-a-single-board-pc-with-an-8-core-risc-v-processor/)
 * [2025-03-09, 13:40:35](https://news.ycombinator.com/item?id=43308994) - [It is as if you were on your phone](http://pippinbarr.com/it-is-as-if-you-were-on-your-phone/info/)
 * [2025-03-09, 13:00:42](https://news.ycombinator.com/item?id=43308740) - [The ESP32 \"backdoor\" that wasn't](https://darkmentor.com/blog/esp32_non-backdoor/)
 * [2025-03-09, 12:01:11](https://news.ycombinator.com/item?id=43308332) - [Helpcare AI (YC F24) Fullstack Engineer](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview)
