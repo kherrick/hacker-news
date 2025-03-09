@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-03-09, 20:39:56",
-      "https://news.ycombinator.com/item?id=43313521"
+      "2025-03-09, 20:21:54",
+      "https://news.ycombinator.com/item?id=43313341"
     ],
     [
-      "Doge Is Replacing Fired Workers with a Chatbot",
-      "https://gizmodo.com/doge-is-replacing-fired-workers-with-a-chatbot-2000573510"
+      "Top links on Bluesky, Updated Hourly",
+      "https://theblue.report"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "Tesla Sales Fall Off a Cliff Globally, Including Germany, Australia, and China",
       "https://www.carscoops.com/2025/03/tesla-sales-falling-off-a-cliff-globally-including-germany-australia-and-china/"
+    ]
+  ],
+  [
+    [
+      "2025-03-09, 18:35:37",
+      "https://news.ycombinator.com/item?id=43312199"
+    ],
+    [
+      "We built a Modern Data Stack from scratch and reduced our bill by 70%",
+      "https://jchandra.com/posts/data-infra/"
     ]
   ],
   [
@@ -47,16 +57,6 @@
     [
       "Nickel superconductor works above -233°C threshold at normal pressure",
       "https://phys.org/news/2025-02-nickel-superconductor-233c-threshold-pressure.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-09, 17:40:38",
-      "https://news.ycombinator.com/item?id=43311573"
-    ],
-    [
-      "Ecosia is teaming up with Qwant to build a European search index",
-      "https://blog.ecosia.org/eusp/"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "Binocular Shot",
       "https://binocularshot.com/"
-    ]
-  ],
-  [
-    [
-      "2025-03-09, 14:39:28",
-      "https://news.ycombinator.com/item?id=43309376"
-    ],
-    [
-      "Orange Pi RV2 is a single-board PC with an 8-core RISC-V processor",
-      "https://liliputing.com/orange-pi-rv2-is-a-single-board-pc-with-an-8-core-risc-v-processor/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "PurrCrypt: Steganographic encryption disguised as pet sounds",
       "https://github.com/vxfemboy/purrcrypt"
+    ]
+  ],
+  [
+    [
+      "2025-03-06, 20:03:51",
+      "https://news.ycombinator.com/item?id=43284541"
+    ],
+    [
+      "Investigating an argument-dependent lookup issue and working around it",
+      "https://devblogs.microsoft.com/oldnewthing/20250214-00/?p=110868"
     ]
   ],
   [
