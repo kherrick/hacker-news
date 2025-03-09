@@ -2,11 +2,11 @@
 
 * [2025-03-09, 12:01:11](https://news.ycombinator.com/item?id=43308332) - [Helpcare AI (YC F24) Fullstack Engineer](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview)
 * [2025-03-09, 11:15:12](https://news.ycombinator.com/item?id=43308033) - [Why Go's Error Handling Is Awesome](https://rauljordan.com/why-go-error-handling-is-awesome/)
+* [2025-03-09, 11:06:38](https://news.ycombinator.com/item?id=43307987) - [Gleam v1.9.0 Released](https://gleam.run/news/hello-echo-hello-git/)
 * [2025-03-09, 10:57:29](https://news.ycombinator.com/item?id=43307941) - [How to know when it's time to go](https://bitfieldconsulting.com/posts/when-its-time-to-go)
 * [2025-03-09, 10:55:39](https://news.ycombinator.com/item?id=43307933) - [This blog post passed unit tests](https://www.sealambda.com/blog/this-post-passed-unit-tests/)
 * [2025-03-09, 10:07:01](https://news.ycombinator.com/item?id=43307755) - [Why Layoffs Don't Work](https://thehustle.co/originals/why-layoffs-dont-work)
 * [2025-03-09, 09:47:28](https://news.ycombinator.com/item?id=43307659) - [Understanding Memory Management, Part 2: C++ and RAII](https://educatedguesswork.org/posts/memory-management-2/)
-* [2025-03-09, 09:25:28](https://news.ycombinator.com/item?id=43307572) - [Where are all the self-directed learners?](https://saigaddam.medium.com/where-are-all-the-self-directed-learners-ccfb2421e52c)
 * [2025-03-09, 06:35:06](https://news.ycombinator.com/item?id=43306797) - [Goravel: A Go framework inspired by Laravel](https://www.goravel.dev)
 * [2025-03-09, 06:23:02](https://news.ycombinator.com/item?id=43306734) - [Stem cell therapy trial reverses \"irreversible\" damage to cornea](https://newatlas.com/biology/stem-cell-therapy-reverses-irreversible-damage-cornea/)
 * [2025-03-09, 03:40:51](https://news.ycombinator.com/item?id=43305973) - [Online Embedded Rust Simulator](https://wokwi.com/rust)
