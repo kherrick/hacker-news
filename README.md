@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-09, 07:00:03](https://news.ycombinator.com/item?id=43306908) - [Yhangry (YC W22) Consumer Marketplace (London Based) Is Hiring](https://www.ycombinator.com/companies/yhangry/jobs/JiN1myL-mid-senior-full-stack-engineer)
+* [2025-03-09, 05:44:24](https://news.ycombinator.com/item?id=43306599) - [Magnesium Self-Experiments](https://gwern.net/nootropic/magnesium)
 * [2025-03-09, 05:04:05](https://news.ycombinator.com/item?id=43306435) - [Committing fraud is a viable career strategy](https://statmodeling.stat.columbia.edu/2025/03/08/a-post-mortem-on-the-gino-case-committing-fraud-is-right-now-a-viable-career-strategy-that-can-propel-you-at-the-top-of-the-academic-world/)
 * [2025-03-09, 03:30:52](https://news.ycombinator.com/item?id=43305919) - [Posthog/.cursorrules](https://github.com/PostHog/posthog/blob/master/.cursorrules)
 * [2025-03-09, 03:08:12](https://news.ycombinator.com/item?id=43305803) - [My 16-month theanine self-experiment](https://dynomight.net/theanine/)
@@ -28,7 +29,6 @@
 * [2025-03-05, 14:54:11](https://news.ycombinator.com/item?id=43267291) - [Time for a Change: The long, contentious history of time shifts](https://worldhistory.substack.com/p/time-for-a-change)
 * [2025-03-05, 13:54:11](https://news.ycombinator.com/item?id=43266377) - [Social Media Posts About Medical Tests with Potential for Overdiagnosis](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830758)
 * [2025-03-05, 13:29:45](https://news.ycombinator.com/item?id=43266129) - [Roald Dahl on the death of his daughter (2015)](https://www.telegraph.co.uk/books/authors/roald-dahls-darkest-hour/)
-* [2025-03-05, 00:31:33](https://news.ycombinator.com/item?id=43261247) - [Ultrasonic deep drawing cuts friction by 20%, extends tool lifespan](https://techxplore.com/news/2025-02-ultrasonic-deep-friction-tool-lifespan.html)
 * [2025-03-04, 17:54:54](https://news.ycombinator.com/item?id=43257927) - [Body Doubling](https://bodydoubling.com/)
 
 ## [Archives](archives/index.md)
