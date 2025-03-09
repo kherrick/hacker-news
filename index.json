@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-03-09, 17:25:17",
+      "https://news.ycombinator.com/item?id=43311367"
+    ],
+    [
+      "TeX Live 2025 Released",
+      "https://www.texastim.dev/tex-live-2025-iso-available-via-torrent/"
+    ]
+  ],
+  [
+    [
+      "2025-03-09, 17:04:28",
+      "https://news.ycombinator.com/item?id=43311091"
+    ],
+    [
+      "Do you DARE? Europe bets once again on RISC-V for supercomputing sovereignty",
+      "https://www.theregister.com/2025/03/07/dare_europe_risc_v_project/"
+    ]
+  ],
+  [
+    [
       "2025-03-09, 17:00:35",
       "https://news.ycombinator.com/item?id=43311044"
     ],
     [
       "Infisical (YC W23) Is Hiring for Full Stack Engineers in San Francisco",
       "https://www.ycombinator.com/companies/infisical/jobs/QqCs5fv-full-stack-engineer-sf"
+    ]
+  ],
+  [
+    [
+      "2025-03-09, 16:51:59",
+      "https://news.ycombinator.com/item?id=43310963"
+    ],
+    [
+      "Evolving Agents – AI Agents That Communicate, Collaborate, and Improve over Time",
+      "https://github.com/matiasmolinas/evolving-agents"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2025-03-08, 16:27:00",
-      "https://news.ycombinator.com/item?id=43301342"
-    ],
-    [
-      "Discovering errors in Donald Knuth's TAOCP",
-      "https://glthr.com/discovering-errors-in-donald-knuths-taocp"
-    ]
-  ],
-  [
-    [
       "2025-03-08, 12:57:18",
       "https://news.ycombinator.com/item?id=43299886"
     ],
@@ -191,22 +211,22 @@
   ],
   [
     [
-      "2025-03-08, 12:48:11",
-      "https://news.ycombinator.com/item?id=43299815"
-    ],
-    [
-      "Discworld Rules",
-      "https://contraptions.venkateshrao.com/p/discworld-rules"
-    ]
-  ],
-  [
-    [
       "2025-03-07, 22:54:58",
       "https://news.ycombinator.com/item?id=43295692"
     ],
     [
       "AI tools are spotting errors in research papers",
       "https://www.nature.com/articles/d41586-025-00648-5"
+    ]
+  ],
+  [
+    [
+      "2025-03-07, 10:38:50",
+      "https://news.ycombinator.com/item?id=43289050"
+    ],
+    [
+      "Anti-Schelling points and waiting for my barista-made coffee",
+      "https://interconnected.org/home/2025/03/07/schelling"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2025-03-05, 17:30:44",
-      "https://news.ycombinator.com/item?id=43269614"
-    ],
-    [
-      "SMBC Parts Ways with Hiveworks",
-      "https://www.smbc-comics.com/comic/announcement-2"
-    ]
-  ],
-  [
-    [
       "2025-03-05, 16:09:26",
       "https://news.ycombinator.com/item?id=43268477"
     ],
     [
       "16-Bit to 1-Bit: Visual KV Cache Quantization for Efficient Multimodal LLMs",
       "https://arxiv.org/abs/2502.14882"
-    ]
-  ],
-  [
-    [
-      "2025-03-05, 13:29:45",
-      "https://news.ycombinator.com/item?id=43266129"
-    ],
-    [
-      "Roald Dahl on the death of his daughter (2015)",
-      "https://www.telegraph.co.uk/books/authors/roald-dahls-darkest-hour/"
     ]
   ]
 ]
