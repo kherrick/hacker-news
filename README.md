@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-09, 20:21:54](https://news.ycombinator.com/item?id=43313341) - [Top links on Bluesky, Updated Hourly](https://theblue.report)
-* [2025-03-09, 20:00:49](https://news.ycombinator.com/item?id=43313127) - [Tesla Sales Fall Off a Cliff Globally, Including Germany, Australia, and China](https://www.carscoops.com/2025/03/tesla-sales-falling-off-a-cliff-globally-including-germany-australia-and-china/)
+* [2025-03-09, 21:03:29](https://news.ycombinator.com/item?id=43313792) - [DOGE's government cuts may hurt business, companies warn investors](https://www.washingtonpost.com/business/2025/03/09/doge-companies-warnings-sec-filings/)
 * [2025-03-09, 18:35:37](https://news.ycombinator.com/item?id=43312199) - [We built a Modern Data Stack from scratch and reduced our bill by 70%](https://jchandra.com/posts/data-infra/)
 * [2025-03-09, 18:19:56](https://news.ycombinator.com/item?id=43312034) - [Global coffee trade grinding to a halt, hit hard by brutal price hikes](https://www.reuters.com/markets/commodities/global-coffee-trade-grinding-halt-hit-hard-by-brutal-prices-hikes-2025-03-07/)
 * [2025-03-09, 17:49:17](https://news.ycombinator.com/item?id=43311696) - [Hatching a Conspiracy: A Big Investigation into Egg Prices](https://www.thebignewsletter.com/p/hatching-a-conspiracy-a-big-investigation)
@@ -10,6 +9,7 @@
 * [2025-03-09, 17:00:35](https://news.ycombinator.com/item?id=43311044) - [Infisical (YC W23) Is Hiring for Full Stack Engineers in San Francisco](https://www.ycombinator.com/companies/infisical/jobs/QqCs5fv-full-stack-engineer-sf)
 * [2025-03-09, 16:51:59](https://news.ycombinator.com/item?id=43310963) - [Show HN: Evolving Agents Framework](https://github.com/matiasmolinas/evolving-agents)
 * [2025-03-09, 15:55:08](https://news.ycombinator.com/item?id=43310253) - [Binocular Shot](https://binocularshot.com/)
+* [2025-03-09, 14:39:28](https://news.ycombinator.com/item?id=43309376) - [Orange Pi RV2 is a single-board PC with an 8-core RISC-V processor](https://liliputing.com/orange-pi-rv2-is-a-single-board-pc-with-an-8-core-risc-v-processor/)
 * [2025-03-09, 13:40:35](https://news.ycombinator.com/item?id=43308994) - [It is as if you were on your phone](https://pippinbarr.com/it-is-as-if-you-were-on-your-phone/info/)
 * [2025-03-09, 11:08:27](https://news.ycombinator.com/item?id=43307996) - [US Ends Support For Ukrainian F-16s](https://ukrainetoday.org/us-ends-support-for-ukrainian-f-16s-but-french-mirages-will-be-salvation-forbes/)
 * [2025-03-09, 11:06:38](https://news.ycombinator.com/item?id=43307987) - [Gleam v1.9](https://gleam.run/news/hello-echo-hello-git/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-09](index.md)
 
+* [2025-03-09, 21:03:29](https://news.ycombinator.com/item?id=43313792) - [DOGE's government cuts may hurt business, companies warn investors](https://www.washingtonpost.com/business/2025/03/09/doge-companies-warnings-sec-filings/)
 * [2025-03-09, 20:39:56](https://news.ycombinator.com/item?id=43313521) - [Doge Is Replacing Fired Workers with a Chatbot](https://gizmodo.com/doge-is-replacing-fired-workers-with-a-chatbot-2000573510)
 * [2025-03-09, 20:21:54](https://news.ycombinator.com/item?id=43313341) - [Top links on Bluesky, Updated Hourly](https://theblue.report)
 * [2025-03-09, 20:18:42](https://news.ycombinator.com/item?id=43313304) - [Despite the hype, DOGE hasn't found a shred of fraud](https://www.publicnotice.co/p/despite-the-hype-doge-hasnt-found)
