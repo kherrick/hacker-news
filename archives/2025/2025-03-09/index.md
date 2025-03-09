@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-03-09](index.md)
 
+* [2025-03-09, 22:43:30](https://news.ycombinator.com/item?id=43314700) - [Ice arrests Palestinian activist who helped lead Columbia protests, lawyer says](https://www.theguardian.com/us-news/2025/mar/09/ice-arrests-palestinian-activist-columbia-protests)
+* [2025-03-09, 21:58:27](https://news.ycombinator.com/item?id=43314334) - [El Salvador's crypto experiment ends in failure](https://www.economist.com/finance-and-economics/2025/03/02/el-salvadors-wild-crypto-experiment-ends-in-failure)
 * [2025-03-09, 21:51:35](https://news.ycombinator.com/item?id=43314276) - [Aspirin prevents metastasis by limiting platelet TXA2 suppression of immunity](https://www.nature.com/articles/s41586-025-08626-7)
 * [2025-03-09, 21:40:03](https://news.ycombinator.com/item?id=43314171) - [Apple rearranged its XNU kernel with exclaves](https://www.theregister.com/2025/03/08/kernel_sanders_apple_rearranges_xnu/)
 * [2025-03-09, 21:03:29](https://news.ycombinator.com/item?id=43313792) - [DOGE's government cuts may hurt business, companies warn investors](https://www.washingtonpost.com/business/2025/03/09/doge-companies-warnings-sec-filings/)
 * [2025-03-09, 21:02:47](https://news.ycombinator.com/item?id=43313781) - [Scientists Just Discovered an RNA That Repairs DNA Damage – It's a Game-Changer](https://scitechdaily.com/scientists-just-discovered-an-rna-that-repairs-dna-damage-and-its-a-game-changer/)
 * [2025-03-09, 20:55:48](https://news.ycombinator.com/item?id=43313706) - [Wine Releases Framework Mono 6.14 in Taking over the Mono Project](https://www.phoronix.com/news/Wine-Framework-Mono-6.14)
+* [2025-03-09, 20:44:08](https://news.ycombinator.com/item?id=43313574) - [Sweetener aspartame aggravates atherosclerosis through insulin inflammation](https://www.sciencedirect.com/science/article/pii/S1550413125000063)
 * [2025-03-09, 20:40:04](https://news.ycombinator.com/item?id=43313522) - [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go)
 * [2025-03-09, 20:39:56](https://news.ycombinator.com/item?id=43313521) - [Doge Is Replacing Fired Workers with a Chatbot](https://gizmodo.com/doge-is-replacing-fired-workers-with-a-chatbot-2000573510)
 * [2025-03-09, 20:21:54](https://news.ycombinator.com/item?id=43313341) - [Top links on Bluesky, Updated Hourly](https://theblue.report)
