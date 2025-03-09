@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-03-09, 11:15:12",
-      "https://news.ycombinator.com/item?id=43308033"
-    ],
-    [
-      "Why Go's Error Handling Is Awesome",
-      "https://rauljordan.com/why-go-error-handling-is-awesome/"
-    ]
-  ],
-  [
-    [
       "2025-03-09, 11:06:38",
       "https://news.ycombinator.com/item?id=43307987"
     ],
@@ -41,32 +31,12 @@
   ],
   [
     [
-      "2025-03-09, 10:55:39",
-      "https://news.ycombinator.com/item?id=43307933"
-    ],
-    [
-      "This blog post passed unit tests",
-      "https://www.sealambda.com/blog/this-post-passed-unit-tests/"
-    ]
-  ],
-  [
-    [
       "2025-03-09, 10:07:01",
       "https://news.ycombinator.com/item?id=43307755"
     ],
     [
       "Why Layoffs Don't Work",
       "https://thehustle.co/originals/why-layoffs-dont-work"
-    ]
-  ],
-  [
-    [
-      "2025-03-09, 09:47:28",
-      "https://news.ycombinator.com/item?id=43307659"
-    ],
-    [
-      "Understanding Memory Management, Part 2: C++ and RAII",
-      "https://educatedguesswork.org/posts/memory-management-2/"
     ]
   ],
   [
@@ -107,16 +77,6 @@
     [
       "H3: For indexing geographies into a hexagonal grid, by Uber",
       "https://h3geo.org/"
-    ]
-  ],
-  [
-    [
-      "2025-03-09, 03:30:52",
-      "https://news.ycombinator.com/item?id=43305919"
-    ],
-    [
-      "Posthog/.cursorrules",
-      "https://github.com/PostHog/posthog/blob/master/.cursorrules"
     ]
   ],
   [
@@ -181,6 +141,16 @@
   ],
   [
     [
+      "2025-03-08, 14:31:23",
+      "https://news.ycombinator.com/item?id=43300528"
+    ],
+    [
+      "The program is the database is the interface",
+      "https://www.scattered-thoughts.net/writing/the-program-is-the-database-is-the-interface/"
+    ]
+  ],
+  [
+    [
       "2025-03-08, 12:57:18",
       "https://news.ycombinator.com/item?id=43299886"
     ],
@@ -201,12 +171,12 @@
   ],
   [
     [
-      "2025-03-08, 07:25:49",
-      "https://news.ycombinator.com/item?id=43298271"
+      "2025-03-08, 12:23:46",
+      "https://news.ycombinator.com/item?id=43299659"
     ],
     [
-      "Volkswagen reintroducing physical controls for vital functions",
-      "https://www.autocar.co.uk/car-news/new-cars/volkswagen-reintroducing-physical-controls-vital-functions"
+      "Long Read: Lessons from Building Semantic Search for GitHub and Why I Failed",
+      "https://tzx.notion.site/What-I-Learned-Building-a-Free-Semantic-Search-Tool-for-GitHub-and-Why-I-Failed-1a09b742c7918033b318f3a5d7dc9751"
     ]
   ],
   [
@@ -217,6 +187,26 @@
     [
       "AI tools are spotting errors in research papers",
       "https://www.nature.com/articles/d41586-025-00648-5"
+    ]
+  ],
+  [
+    [
+      "2025-03-07, 11:25:27",
+      "https://news.ycombinator.com/item?id=43289293"
+    ],
+    [
+      "Zig's dot star syntax (value.*)",
+      "https://www.openmymind.net/Zig-Dot-Star-Syntax/"
+    ]
+  ],
+  [
+    [
+      "2025-03-06, 23:15:48",
+      "https://news.ycombinator.com/item?id=43286005"
+    ],
+    [
+      "Show HN: Testeranto – the AI driven test framework for TypeScript projects",
+      "https://www.npmjs.com/package/testeranto"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Reducing latency with esoteric Linux process flags",
       "https://www.recall.ai/post/reducing-latency-by-83-with-esoteric-linux-process-flags"
+    ]
+  ],
+  [
+    [
+      "2025-03-05, 16:09:26",
+      "https://news.ycombinator.com/item?id=43268477"
+    ],
+    [
+      "16-Bit to 1-Bit: Visual KV Cache Quantization for Efficient Multimodal LLMs",
+      "https://arxiv.org/abs/2502.14882"
     ]
   ],
   [
