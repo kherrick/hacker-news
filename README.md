@@ -2,7 +2,6 @@
 
 * [2025-03-09, 21:51:35](https://news.ycombinator.com/item?id=43314276) - [Aspirin prevents metastasis by limiting platelet TXA2 suppression of immunity](https://www.nature.com/articles/s41586-025-08626-7)
 * [2025-03-09, 21:40:03](https://news.ycombinator.com/item?id=43314171) - [Apple rearranged its XNU kernel with exclaves](https://www.theregister.com/2025/03/08/kernel_sanders_apple_rearranges_xnu/)
-* [2025-03-09, 21:03:29](https://news.ycombinator.com/item?id=43313792) - [DOGE's government cuts may hurt business, companies warn investors](https://www.washingtonpost.com/business/2025/03/09/doge-companies-warnings-sec-filings/)
 * [2025-03-09, 21:02:47](https://news.ycombinator.com/item?id=43313781) - [Scientists Just Discovered an RNA That Repairs DNA Damage – It's a Game-Changer](https://scitechdaily.com/scientists-just-discovered-an-rna-that-repairs-dna-damage-and-its-a-game-changer/)
 * [2025-03-09, 20:55:48](https://news.ycombinator.com/item?id=43313706) - [Wine Releases Framework Mono 6.14 in Taking over the Mono Project](https://www.phoronix.com/news/Wine-Framework-Mono-6.14)
 * [2025-03-09, 20:40:04](https://news.ycombinator.com/item?id=43313522) - [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go)
@@ -29,6 +28,7 @@
 * [2025-03-07, 11:16:57](https://news.ycombinator.com/item?id=43289247) - [Sublogic Flight Simulator – By Paul Lefebvre](https://www.goto10retro.com/p/sublogic-flight-simulator)
 * [2025-03-06, 20:47:59](https://news.ycombinator.com/item?id=43284927) - [PurrCrypt: Steganographic encryption disguised as pet sounds](https://github.com/vxfemboy/purrcrypt)
 * [2025-03-06, 20:03:51](https://news.ycombinator.com/item?id=43284541) - [Investigating an argument-dependent lookup issue and working around it](https://devblogs.microsoft.com/oldnewthing/20250214-00/?p=110868)
+* [2025-03-06, 19:39:08](https://news.ycombinator.com/item?id=43284293) - [Show HN: C++ AWS MSK IAM Auth Implementation – Goodbye Kafka Passwords](https://github.com/timeplus-io/proton/blob/develop/src/IO/Kafka/AwsMskIamSigner.cpp)
 * [2025-03-05, 16:09:26](https://news.ycombinator.com/item?id=43268477) - [16-Bit to 1-Bit: Visual KV Cache Quantization for Efficient Multimodal LLMs](https://arxiv.org/abs/2502.14882)
 
 ## [Archives](archives/index.md)
