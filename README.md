@@ -14,6 +14,7 @@
 * [2025-03-09, 11:06:38](https://news.ycombinator.com/item?id=43307987) - [Gleam v1.9](https://gleam.run/news/hello-echo-hello-git/)
 * [2025-03-09, 10:07:01](https://news.ycombinator.com/item?id=43307755) - [Layoffs Don't Work](https://thehustle.co/originals/why-layoffs-dont-work)
 * [2025-03-09, 06:35:06](https://news.ycombinator.com/item?id=43306797) - [Goravel: A Go framework inspired by Laravel](https://www.goravel.dev)
+* [2025-03-09, 06:23:02](https://news.ycombinator.com/item?id=43306734) - [Stem cell therapy trial reverses \"irreversible\" damage to cornea](https://newatlas.com/biology/stem-cell-therapy-reverses-irreversible-damage-cornea/)
 * [2025-03-09, 05:44:24](https://news.ycombinator.com/item?id=43306599) - [Magnesium Self-Experiments](https://gwern.net/nootropic/magnesium)
 * [2025-03-09, 05:04:05](https://news.ycombinator.com/item?id=43306435) - [A Post Mortem on the Gino Case](https://statmodeling.stat.columbia.edu/2025/03/08/a-post-mortem-on-the-gino-case-committing-fraud-is-right-now-a-viable-career-strategy-that-can-propel-you-at-the-top-of-the-academic-world/)
 * [2025-03-09, 03:40:51](https://news.ycombinator.com/item?id=43305973) - [Online Embedded Rust Simulator](https://wokwi.com/rust)
@@ -28,7 +29,6 @@
 * [2025-03-06, 20:47:59](https://news.ycombinator.com/item?id=43284927) - [PurrCrypt: Steganographic encryption disguised as pet sounds](https://github.com/vxfemboy/purrcrypt)
 * [2025-03-06, 19:39:08](https://news.ycombinator.com/item?id=43284293) - [Show HN: C++ AWS MSK IAM Auth Implementation – Goodbye Kafka Passwords](https://github.com/timeplus-io/proton/blob/develop/src/IO/Kafka/AwsMskIamSigner.cpp)
 * [2025-03-06, 15:00:23](https://news.ycombinator.com/item?id=43280985) - [LFortran compiles PRIMA](https://lfortran.org/blog/2025/03/lfortran-compiles-prima/)
-* [2025-03-06, 13:20:22](https://news.ycombinator.com/item?id=43279870) - [BBS from Scratch](https://bbsfromscratch.com/)
 * [2025-03-05, 16:09:26](https://news.ycombinator.com/item?id=43268477) - [16-Bit to 1-Bit: Visual KV Cache Quantization for Efficient Multimodal LLMs](https://arxiv.org/abs/2502.14882)
 
 ## [Archives](archives/index.md)
