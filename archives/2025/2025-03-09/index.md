@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-09](index.md)
 
 * [2025-03-09, 04:19:30](https://news.ycombinator.com/item?id=43306192) - [State Department Will Use AI to Search for 'Pro-Hamas' Students to Deport](https://gizmodo.com/state-department-will-use-ai-to-search-for-pro-hamas-students-to-deport-2000573143)
+* [2025-03-09, 03:30:52](https://news.ycombinator.com/item?id=43305919) - [Posthog/.cursorrules](https://github.com/PostHog/posthog/blob/master/.cursorrules)
 * [2025-03-09, 03:08:12](https://news.ycombinator.com/item?id=43305803) - [My 16-month theanine self-experiment](https://dynomight.net/theanine/)
 * [2025-03-09, 02:46:26](https://news.ycombinator.com/item?id=43305692) - [DOGE targets child support database full of income data](https://www.washingtonpost.com/business/2025/03/06/doge-hhs-ssa-data/)
 * [2025-03-09, 02:44:47](https://news.ycombinator.com/item?id=43305683) - [YouTube, when the walls fell [video]](https://www.youtube.com/watch?v=l0jw_Q23NIU)
