@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-09](index.md)
 
+* [2025-03-09, 07:00:03](https://news.ycombinator.com/item?id=43306908) - [Yhangry (YC W22) Consumer Marketplace (London Based) Is Hiring](https://www.ycombinator.com/companies/yhangry/jobs/JiN1myL-mid-senior-full-stack-engineer)
 * [2025-03-09, 04:19:30](https://news.ycombinator.com/item?id=43306192) - [State Department Will Use AI to Search for 'Pro-Hamas' Students to Deport](https://gizmodo.com/state-department-will-use-ai-to-search-for-pro-hamas-students-to-deport-2000573143)
 * [2025-03-09, 03:30:52](https://news.ycombinator.com/item?id=43305919) - [Posthog/.cursorrules](https://github.com/PostHog/posthog/blob/master/.cursorrules)
 * [2025-03-09, 03:08:12](https://news.ycombinator.com/item?id=43305803) - [My 16-month theanine self-experiment](https://dynomight.net/theanine/)

@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-09, 07:00:03](https://news.ycombinator.com/item?id=43306908) - [Yhangry (YC W22) Consumer Marketplace (London Based) Is Hiring](https://www.ycombinator.com/companies/yhangry/jobs/JiN1myL-mid-senior-full-stack-engineer)
 * [2025-03-09, 03:30:52](https://news.ycombinator.com/item?id=43305919) - [Posthog/.cursorrules](https://github.com/PostHog/posthog/blob/master/.cursorrules)
 * [2025-03-09, 03:08:12](https://news.ycombinator.com/item?id=43305803) - [My 16-month theanine self-experiment](https://dynomight.net/theanine/)
 * [2025-03-09, 00:32:56](https://news.ycombinator.com/item?id=43304962) - [Building an open-source Wi-Fi Mac layer for the ESP32](https://esp32-open-mac.be)
 * [2025-03-09, 00:04:47](https://news.ycombinator.com/item?id=43304785) - [Show HN: I built an app to get daily wisdom from Mr. Worldwide](https://daale.club/)
 * [2025-03-08, 21:36:53](https://news.ycombinator.com/item?id=43303752) - [Presenterm: Markdown Slideshows in the Terminal](https://github.com/mfontanini/presenterm)
-* [2025-03-08, 21:00:34](https://news.ycombinator.com/item?id=43303463) - [OneText (YC W23) is hiring a browser extension engineer](https://news.ycombinator.com/item?id=43303463)
 * [2025-03-08, 20:37:55](https://news.ycombinator.com/item?id=43303309) - [Show HN: TypeLeap: LLM Powered Reactive Intent UI/UX](https://www.typeleap.com/)
 * [2025-03-08, 18:54:17](https://news.ycombinator.com/item?id=43302495) - [Deploy from local to production (self-hosted)](https://github.com/bypirob/airo)
 * [2025-03-08, 18:32:18](https://news.ycombinator.com/item?id=43302297) - [MCP vs. API Explained](https://norahsakal.com/blog/mcp-vs-api-model-context-protocol-explained/)
