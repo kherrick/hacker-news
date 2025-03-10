@@ -52,6 +52,7 @@
 * [2025-03-07, 15:00:49](https://news.ycombinator.com/item?id=43290704) - [Nomars: No Manning Required Ship](https://www.darpa.mil/research/programs/no-manning-required-ship)
 * [2025-03-07, 14:43:24](https://news.ycombinator.com/item?id=43290555) - [Strobelight: A profiling service built on open source technology](https://engineering.fb.com/2025/01/21/production-engineering/strobelight-a-profiling-service-built-on-open-source-technology/)
 * [2025-03-07, 14:24:33](https://news.ycombinator.com/item?id=43290408) - [How Monero Fulfilled Satoshi's Promise](https://zola.ink/blog/posts/how-monero-fulfilled-satoshis-promies)
+* [2025-03-07, 13:31:46](https://news.ycombinator.com/item?id=43289994) - [Planes are having their GPS hacked. Could new clocks keep them safe?](https://www.bbc.com/news/articles/cq6yg204pvmo)
 * [2025-03-07, 13:30:08](https://news.ycombinator.com/item?id=43289990) - [Woman's DNA discovered in 20k year old deer-tooth pendant](https://www.cbc.ca/radio/quirks/pendant-ancient-dna-1.6832580)
 * [2025-03-07, 12:55:02](https://news.ycombinator.com/item?id=43289774) - [Mysterious tunnels sketched by Leonardo may have been found](https://www.cnn.com/2025/03/01/science/leonardo-da-vinci-sforza-castle-tunnels/index.html)
 * [2025-03-07, 12:51:12](https://news.ycombinator.com/item?id=43289755) - [A collection of website seizure banners created by government agencies](https://seized.fyi/)
