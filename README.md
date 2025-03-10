@@ -2,7 +2,6 @@
 
 * [2025-03-10, 04:20:02](https://news.ycombinator.com/item?id=43316979) - [A bear case: predictions regarding AI](https://www.lesswrong.com/posts/oKAFFvaouKKEhbBPm/a-bear-case-my-predictions-regarding-ai-progress)
 * [2025-03-10, 04:04:48](https://news.ycombinator.com/item?id=43316912) - [Optimal brain process requires balance between excitatory and inhibitory neurons](https://phys.org/news/2025-03-optimal-brain-requires-excitatory-inhibitory.html)
-* [2025-03-10, 02:54:37](https://news.ycombinator.com/item?id=43316556) - [Free95: An open-source Windows-compatible operating system](https://github.com/Versoft-Software/Free95)
 * [2025-03-10, 01:30:43](https://news.ycombinator.com/item?id=43315994) - [Structured Labs (YC S23) Is Hiring for Full-Stack Engineers](https://www.ycombinator.com/companies/structured-labs/jobs/ADiKR9m-full-stack-engineer)
 * [2025-03-10, 00:46:00](https://news.ycombinator.com/item?id=43315634) - [Stanford researchers develop dual-antibody treatment for ALL SARS-CoV-2 variants](https://www.science.org/doi/10.1126/scitranslmed.adq5720)
 * [2025-03-10, 00:16:54](https://news.ycombinator.com/item?id=43315406) - [Electronics-free old diesel trucks of the national radio astronomy observatory](https://raoulpop.com/2012/04/15/chasing-rfi-waves-part-seven/)
@@ -17,6 +16,7 @@
 * [2025-03-09, 11:51:36](https://news.ycombinator.com/item?id=43308259) - [Compiling C++ with the Clang API](https://maskray.me/blog/2025-03-09-compiling-c++-with-clang-api)
 * [2025-03-09, 10:20:50](https://news.ycombinator.com/item?id=43307809) - [I've been using Claude Code for a couple of days](https://twitter.com/Steve_Yegge/status/1898674257808515242)
 * [2025-03-09, 09:13:44](https://news.ycombinator.com/item?id=43307489) - [OpenAPK – open-source Apps for Android, updated weekly](https://www.openapk.net)
+* [2025-03-09, 05:04:05](https://news.ycombinator.com/item?id=43306435) - [A Post Mortem on the Gino Case](https://statmodeling.stat.columbia.edu/2025/03/08/a-post-mortem-on-the-gino-case-committing-fraud-is-right-now-a-viable-career-strategy-that-can-propel-you-at-the-top-of-the-academic-world/)
 * [2025-03-08, 18:44:19](https://news.ycombinator.com/item?id=43302394) - [Improving on std:count_if()'s auto-vectorization](https://nicula.xyz/2025/03/08/improving-stdcountif-vectorization.html)
 * [2025-03-07, 19:06:30](https://news.ycombinator.com/item?id=43293192) - [Walt Disney's MultiPlane Camera (Filmed Feb. 13, 1957) [video]](https://www.youtube.com/watch?v=3YIR39KeJMk)
 * [2025-03-07, 13:30:08](https://news.ycombinator.com/item?id=43289990) - [Woman's DNA discovered in 20k year old deer-tooth pendant](https://www.cbc.ca/radio/quirks/pendant-ancient-dna-1.6832580)
