@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-03-10](index.md)
 
+* [2025-03-10, 13:36:47](https://news.ycombinator.com/item?id=43320458) - [Investors Want a Piece of DeepSeek. Its Founder Says Not Now](https://www.wsj.com/tech/ai/investors-want-a-piece-of-deepseek-its-founder-says-not-now-24e9f799)
 * [2025-03-10, 13:12:38](https://news.ycombinator.com/item?id=43320230) - [Canon EF and RF Lenses – All Autofocus Motors](https://exclusivearchitecture.com/03-technical-articles-CLT-12-autofocus-systems.html)
+* [2025-03-10, 13:06:51](https://news.ycombinator.com/item?id=43320181) - [Polymorphic Chrome Extensions Impersonate Password Managers to Steal Credentials](https://cyberinsider.com/polymorphic-chrome-extensions-impersonate-password-managers-to-steal-credentials/)
+* [2025-03-10, 13:05:54](https://news.ycombinator.com/item?id=43320177) - [We built a crowdsourced interview question database for tech interviews](https://www.interviewdb.io)
 * [2025-03-10, 12:29:33](https://news.ycombinator.com/item?id=43319875) - [Quantum Milestones, 1964: John Stewart Bell Rings in New Era of Quantum Theory (2022)](https://physics.aps.org/articles/v18/53)
 * [2025-03-10, 12:00:58](https://news.ycombinator.com/item?id=43319611) - [FurtherAI (YC W24) Is Hiring](https://www.ycombinator.com/companies/furtherai/jobs)
 * [2025-03-10, 10:23:31](https://news.ycombinator.com/item?id=43318842) - [Real Chilling Effects](https://donmoynihan.substack.com/p/real-chilling-effects)

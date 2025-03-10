@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-10, 13:36:47](https://news.ycombinator.com/item?id=43320458) - [Investors Want a Piece of DeepSeek. Its Founder Says Not Now](https://www.wsj.com/tech/ai/investors-want-a-piece-of-deepseek-its-founder-says-not-now-24e9f799)
 * [2025-03-10, 13:12:38](https://news.ycombinator.com/item?id=43320230) - [Canon EF and RF Lenses – All Autofocus Motors](https://exclusivearchitecture.com/03-technical-articles-CLT-12-autofocus-systems.html)
+* [2025-03-10, 13:06:51](https://news.ycombinator.com/item?id=43320181) - [Polymorphic Chrome Extensions Impersonate Password Managers to Steal Credentials](https://cyberinsider.com/polymorphic-chrome-extensions-impersonate-password-managers-to-steal-credentials/)
+* [2025-03-10, 13:05:54](https://news.ycombinator.com/item?id=43320177) - [We built a crowdsourced interview question database for tech interviews](https://www.interviewdb.io)
 * [2025-03-10, 12:29:33](https://news.ycombinator.com/item?id=43319875) - [Quantum Milestones, 1964: John Stewart Bell Rings in New Era of Quantum Theory (2022)](https://physics.aps.org/articles/v18/53)
 * [2025-03-10, 12:00:58](https://news.ycombinator.com/item?id=43319611) - [FurtherAI (YC W24) Is Hiring](https://www.ycombinator.com/companies/furtherai/jobs)
-* [2025-03-10, 10:15:47](https://news.ycombinator.com/item?id=43318798) - [Go European: Discover European products and services](https://www.goeuropean.org/)
 * [2025-03-10, 09:50:33](https://news.ycombinator.com/item?id=43318624) - [Probabilistic Artificial Intelligence](https://arxiv.org/abs/2502.05244)
 * [2025-03-10, 07:42:11](https://news.ycombinator.com/item?id=43317887) - [Trees not profits: we're giving up our right to ever sell Ecosia (2018)](https://blog.ecosia.org/trees-not-profits/)
 * [2025-03-10, 06:44:27](https://news.ycombinator.com/item?id=43317592) - [Performance of the Python 3.14 tail-call interpreter](https://blog.nelhage.com/post/cpython-tail-call/)
@@ -17,7 +19,6 @@
 * [2025-03-09, 13:40:35](https://news.ycombinator.com/item?id=43308994) - [It is as if you were on your phone](https://pippinbarr.com/it-is-as-if-you-were-on-your-phone/info/)
 * [2025-03-09, 11:51:36](https://news.ycombinator.com/item?id=43308259) - [Compiling C++ with the Clang API](https://maskray.me/blog/2025-03-09-compiling-c++-with-clang-api)
 * [2025-03-09, 10:05:52](https://news.ycombinator.com/item?id=43307745) - [Show HN: Searchable Vim Cheat Sheet with Favorites (Open-Source)](https://nvim-cheatsheet.vercel.app/)
-* [2025-03-08, 18:44:19](https://news.ycombinator.com/item?id=43302394) - [Improving on std:count_if()'s auto-vectorization](https://nicula.xyz/2025/03/08/improving-stdcountif-vectorization.html)
 * [2025-03-07, 21:15:25](https://news.ycombinator.com/item?id=43294756) - [From Prompt to Adventures:Creating Games with LLMs and Restate Durable Functions](https://restate.dev/blog/from-prompt-to-adventures-creating-games-with-llms-and-restates-durable-functions/)
 * [2025-03-07, 21:15:10](https://news.ycombinator.com/item?id=43294751) - [Virtual Punch Card Creator](https://www.masswerk.at/keypunch/)
 * [2025-03-07, 19:19:43](https://news.ycombinator.com/item?id=43293370) - [PSExcel: Excel automation without Excel Overview (2015)](http://ramblingcookiemonster.github.io/PSExcel-Intro/)
@@ -28,7 +29,6 @@
 * [2025-03-07, 12:55:02](https://news.ycombinator.com/item?id=43289774) - [Mysterious tunnels sketched by Leonardo may have been found](https://www.cnn.com/2025/03/01/science/leonardo-da-vinci-sforza-castle-tunnels/index.html)
 * [2025-03-07, 12:16:16](https://news.ycombinator.com/item?id=43289550) - [Bring Back Shortwave](https://www.spectator.co.uk/article/bring-back-shortwave/)
 * [2025-03-07, 04:07:18](https://news.ycombinator.com/item?id=43287327) - [3dfx, So powerful, it's kind of ridiculous (2023)](https://www.abortretry.fail/p/so-powerful-its-kind-of-ridiculous)
-* [2025-03-06, 15:23:42](https://news.ycombinator.com/item?id=43281275) - [Paper Review: Variational Lossy Auto-Encoders](https://theahura.substack.com/p/ilyas-30-papers-to-carmack-vlaes)
 * [2025-03-06, 14:23:24](https://news.ycombinator.com/item?id=43280517) - [Exploring Polymorphism in C: Lessons from Linux and FFmpeg's Code Design (2019)](https://leandromoreira.com/2019/08/02/linux-ffmpeg-source-internals-a-good-software-design/)
 
 ## [Archives](archives/index.md)
