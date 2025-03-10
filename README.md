@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-10, 13:36:47](https://news.ycombinator.com/item?id=43320458) - [Investors Want a Piece of DeepSeek. Its Founder Says Not Now](https://www.wsj.com/tech/ai/investors-want-a-piece-of-deepseek-its-founder-says-not-now-24e9f799)
+* [2025-03-10, 13:24:40](https://news.ycombinator.com/item?id=43320344) - [Pixel 4a battery update due to overheating risk, per Australian 'recall' notice](https://9to5google.com/2025/03/10/pixel-4a-battery-recall/)
 * [2025-03-10, 13:12:38](https://news.ycombinator.com/item?id=43320230) - [Canon EF and RF Lenses – All Autofocus Motors](https://exclusivearchitecture.com/03-technical-articles-CLT-12-autofocus-systems.html)
-* [2025-03-10, 13:06:51](https://news.ycombinator.com/item?id=43320181) - [Polymorphic Chrome Extensions Impersonate Password Managers to Steal Credentials](https://cyberinsider.com/polymorphic-chrome-extensions-impersonate-password-managers-to-steal-credentials/)
 * [2025-03-10, 13:05:54](https://news.ycombinator.com/item?id=43320177) - [We built a crowdsourced interview question database for tech interviews](https://www.interviewdb.io)
 * [2025-03-10, 12:29:33](https://news.ycombinator.com/item?id=43319875) - [Quantum Milestones, 1964: John Stewart Bell Rings in New Era of Quantum Theory (2022)](https://physics.aps.org/articles/v18/53)
 * [2025-03-10, 12:00:58](https://news.ycombinator.com/item?id=43319611) - [FurtherAI (YC W24) Is Hiring](https://www.ycombinator.com/companies/furtherai/jobs)
@@ -23,6 +22,7 @@
 * [2025-03-07, 21:15:10](https://news.ycombinator.com/item?id=43294751) - [Virtual Punch Card Creator](https://www.masswerk.at/keypunch/)
 * [2025-03-07, 19:19:43](https://news.ycombinator.com/item?id=43293370) - [PSExcel: Excel automation without Excel Overview (2015)](http://ramblingcookiemonster.github.io/PSExcel-Intro/)
 * [2025-03-07, 19:06:30](https://news.ycombinator.com/item?id=43293192) - [Walt Disney's MultiPlane Camera (Filmed Feb. 13, 1957) [video]](https://www.youtube.com/watch?v=3YIR39KeJMk)
+* [2025-03-07, 18:19:53](https://news.ycombinator.com/item?id=43292636) - [The gem Apple discontinued: the 11-inch MacBook Air (2019)](https://morrick.me/archives/8338)
 * [2025-03-07, 14:36:50](https://news.ycombinator.com/item?id=43290498) - [How to Build a Thousand-Year-Old Tree](https://www.noemamag.com/how-to-build-a-thousand-year-old-tree/)
 * [2025-03-07, 13:31:46](https://news.ycombinator.com/item?id=43289994) - [Planes are having their GPS hacked. Could new clocks keep them safe?](https://www.bbc.com/news/articles/cq6yg204pvmo)
 * [2025-03-07, 13:30:08](https://news.ycombinator.com/item?id=43289990) - [Woman's DNA discovered in 20k year old deer-tooth pendant (2023)](https://www.cbc.ca/radio/quirks/pendant-ancient-dna-1.6832580)

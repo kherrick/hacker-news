@@ -36,6 +36,7 @@
 * [2025-03-07, 18:34:02](https://news.ycombinator.com/item?id=43292820) - [First Porn, Now Skin Cream? 'Age Verification' Bills Are Out of Control](https://www.eff.org/deeplinks/2025/03/first-porn-now-skin-cream-age-verification-bills-are-out-control)
 * [2025-03-07, 18:33:14](https://news.ycombinator.com/item?id=43292805) - [Cliff Asness: The New 'Crypto Fort Knox' Is as Dumb as It Sounds](https://www.thefp.com/p/trumps-crypto-fort-knox)
 * [2025-03-07, 18:29:34](https://news.ycombinator.com/item?id=43292750) - [AMD YOLO](https://geohot.github.io//blog/jekyll/update/2025/03/08/AMD-YOLO.html)
+* [2025-03-07, 18:19:53](https://news.ycombinator.com/item?id=43292636) - [The gem Apple discontinued: the 11-inch MacBook Air (2019)](https://morrick.me/archives/8338)
 * [2025-03-07, 18:06:45](https://news.ycombinator.com/item?id=43292471) - [Athena spacecraft declared dead after toppling over on moon](https://www.theguardian.com/science/2025/mar/07/athena-spacecraft-mission-dead)
 * [2025-03-07, 17:51:12](https://news.ycombinator.com/item?id=43292320) - [What if America turned off Britain's weapons?](https://www.reaction.life/p/what-if-america-turned-off-britains)
 * [2025-03-07, 17:24:26](https://news.ycombinator.com/item?id=43292058) - [Show HN: A big tech dev experience for an open source CMS](https://contentfoundry.com/)
