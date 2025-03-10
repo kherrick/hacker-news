@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-10](index.md)
 
 * [2025-03-10, 15:31:57](https://news.ycombinator.com/item?id=43321688) - [Show HN: Editable Games](https://playscl.com/make)
+* [2025-03-10, 15:12:57](https://news.ycombinator.com/item?id=43321523) - [Show HN: In-Browser Graph RAG with Kuzu-WASM and WebLLM](https://blog.kuzudb.com/post/kuzu-wasm-rag/)
 * [2025-03-10, 14:25:52](https://news.ycombinator.com/item?id=43321023) - [NIH will eliminate many peer review panels, lay off scientists overseeing them](https://www.science.org/content/article/nih-will-eliminate-many-peer-review-panels-and-lay-some-scientists-overseeing-them)
 * [2025-03-10, 13:36:47](https://news.ycombinator.com/item?id=43320458) - [Investors Want a Piece of DeepSeek. Its Founder Says Not Now](https://www.wsj.com/tech/ai/investors-want-a-piece-of-deepseek-its-founder-says-not-now-24e9f799)
 * [2025-03-10, 13:27:17](https://news.ycombinator.com/item?id=43320364) - [20 years of Linux on the Desktop (part 3)](https://ploum.net/2025-03-08-linux_desktop3.html)
