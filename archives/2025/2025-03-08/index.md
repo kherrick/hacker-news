@@ -8,6 +8,7 @@
 * [2025-03-08, 23:08:20](https://news.ycombinator.com/item?id=43304436) - [Show HN: Can I run this LLM? (locally)](https://can-i-run-this-llm-blue.vercel.app/)
 * [2025-03-08, 23:06:44](https://news.ycombinator.com/item?id=43304420) - [SpaceX teams up with Thiel's Palantir, Anduril on American Golden Dome](https://www.msn.com/en-us/money/companies/military-tech-startups-vie-for-billions-as-hegseth-shakes-up-pentagon-spending/ar-AA1zYgzZ)
 * [2025-03-08, 22:33:50](https://news.ycombinator.com/item?id=43304193) - [Maybe coders should learn to love analog? Could they?](https://www.planetanalog.com/maybe-coders-should-learn-to-love-analog-could-they/)
+* [2025-03-08, 22:20:05](https://news.ycombinator.com/item?id=43304088) - [An election forecast that's 50-50 is not \"giving up.\"](https://statmodeling.stat.columbia.edu/2025/03/05/no-an-election-forecast-thats-50-50-is-not-giving-up-no-the-election-forecasters-in-2024-did-not-say-whatever-happened-it-was-supposed-to-be-razor-thin/)
 * [2025-03-08, 22:02:19](https://news.ycombinator.com/item?id=43303943) - [Backdoor detected in ESP32 Espressif IoT chip](https://www.tarlogic.com/news/backdoor-esp32-chip-infect-ot-devices/)
 * [2025-03-08, 21:59:04](https://news.ycombinator.com/item?id=43303922) - [Stuff a Pi-hole in your router because your browser is about to betray you](https://www.theregister.com/2025/03/08/pi_hole_6_flyby/)
 * [2025-03-08, 21:36:53](https://news.ycombinator.com/item?id=43303752) - [Presenterm: Markdown Slideshows in the Terminal](https://github.com/mfontanini/presenterm)
