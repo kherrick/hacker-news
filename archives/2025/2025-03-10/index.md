@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-10](index.md)
 
 * [2025-03-10, 23:03:20](https://news.ycombinator.com/item?id=43327155) - [You suck at CSS (and that's okay)[2022]](https://rexriepe.com/yousuckatcss/)
+* [2025-03-10, 22:54:55](https://news.ycombinator.com/item?id=43327071) - [US Green-Card Holder and Columbia Student Arrested by ICE for Protest](https://www.reuters.com/world/us/us-authorities-arrest-palestinian-student-protester-columbia-university-students-2025-03-09/)
 * [2025-03-10, 22:45:31](https://news.ycombinator.com/item?id=43326982) - [The shrouded sinister history of the bulldozer](https://www.noemamag.com/the-shrouded-sinister-history-of-the-bulldozer/)
 * [2025-03-10, 21:56:12](https://news.ycombinator.com/item?id=43326554) - [Leningrad-1: a 44-IC Soviet style ZX-Spectrum clone](https://alex-j-lowry.github.io/leningrd.html)
 * [2025-03-10, 21:24:06](https://news.ycombinator.com/item?id=43326275) - [What Made the Irish Famine So Deadly](https://www.newyorker.com/magazine/2025/03/17/rot-padraic-x-scanlan-book-review)
