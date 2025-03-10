@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-03-10, 13:36:47",
+      "https://news.ycombinator.com/item?id=43320458"
+    ],
+    [
+      "Investors Want a Piece of DeepSeek. Its Founder Says Not Now",
+      "https://www.wsj.com/tech/ai/investors-want-a-piece-of-deepseek-its-founder-says-not-now-24e9f799"
+    ]
+  ],
+  [
+    [
       "2025-03-10, 13:12:38",
       "https://news.ycombinator.com/item?id=43320230"
     ],
     [
       "Canon EF and RF Lenses – All Autofocus Motors",
       "https://exclusivearchitecture.com/03-technical-articles-CLT-12-autofocus-systems.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-10, 13:06:51",
+      "https://news.ycombinator.com/item?id=43320181"
+    ],
+    [
+      "Polymorphic Chrome Extensions Impersonate Password Managers to Steal Credentials",
+      "https://cyberinsider.com/polymorphic-chrome-extensions-impersonate-password-managers-to-steal-credentials/"
+    ]
+  ],
+  [
+    [
+      "2025-03-10, 13:05:54",
+      "https://news.ycombinator.com/item?id=43320177"
+    ],
+    [
+      "We built a crowdsourced interview question database for tech interviews",
+      "https://www.interviewdb.io"
     ]
   ],
   [
@@ -27,16 +57,6 @@
     [
       "FurtherAI (YC W24) Is Hiring",
       "https://www.ycombinator.com/companies/furtherai/jobs"
-    ]
-  ],
-  [
-    [
-      "2025-03-10, 10:15:47",
-      "https://news.ycombinator.com/item?id=43318798"
-    ],
-    [
-      "Go European: Discover European products and services",
-      "https://www.goeuropean.org/"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-03-08, 18:44:19",
-      "https://news.ycombinator.com/item?id=43302394"
-    ],
-    [
-      "Improving on std:count_if()'s auto-vectorization",
-      "https://nicula.xyz/2025/03/08/improving-stdcountif-vectorization.html"
-    ]
-  ],
-  [
-    [
       "2025-03-07, 21:15:25",
       "https://news.ycombinator.com/item?id=43294756"
     ],
@@ -277,16 +287,6 @@
     [
       "3dfx, So powerful, it's kind of ridiculous (2023)",
       "https://www.abortretry.fail/p/so-powerful-its-kind-of-ridiculous"
-    ]
-  ],
-  [
-    [
-      "2025-03-06, 15:23:42",
-      "https://news.ycombinator.com/item?id=43281275"
-    ],
-    [
-      "Paper Review: Variational Lossy Auto-Encoders",
-      "https://theahura.substack.com/p/ilyas-30-papers-to-carmack-vlaes"
     ]
   ],
   [
