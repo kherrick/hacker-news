@@ -1,32 +1,12 @@
 [
   [
     [
-      "2025-03-10, 13:24:40",
-      "https://news.ycombinator.com/item?id=43320344"
-    ],
-    [
-      "Pixel 4a battery update due to overheating risk, per Australian 'recall' notice",
-      "https://9to5google.com/2025/03/10/pixel-4a-battery-recall/"
-    ]
-  ],
-  [
-    [
       "2025-03-10, 13:12:38",
       "https://news.ycombinator.com/item?id=43320230"
     ],
     [
       "Canon EF and RF Lenses – All Autofocus Motors",
       "https://exclusivearchitecture.com/03-technical-articles-CLT-12-autofocus-systems.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-10, 13:05:54",
-      "https://news.ycombinator.com/item?id=43320177"
-    ],
-    [
-      "We built a crowdsourced interview question database for tech interviews",
-      "https://www.interviewdb.io"
     ]
   ],
   [
@@ -81,12 +61,12 @@
   ],
   [
     [
-      "2025-03-10, 06:01:18",
-      "https://news.ycombinator.com/item?id=43317406"
+      "2025-03-10, 04:20:02",
+      "https://news.ycombinator.com/item?id=43316979"
     ],
     [
-      "Llama.cpp AI Performance with the GeForce RTX 5090 Review",
-      "https://www.phoronix.com/review/nvidia-rtx5090-llama-cpp"
+      "A bear case: My predictions regarding AI progress",
+      "https://www.lesswrong.com/posts/oKAFFvaouKKEhbBPm/a-bear-case-my-predictions-regarding-ai-progress"
     ]
   ],
   [
@@ -171,12 +151,32 @@
   ],
   [
     [
-      "2025-03-09, 10:05:52",
-      "https://news.ycombinator.com/item?id=43307745"
+      "2025-03-09, 10:20:50",
+      "https://news.ycombinator.com/item?id=43307809"
     ],
     [
-      "Show HN: Searchable Vim Cheat Sheet with Favorites (Open-Source)",
-      "https://nvim-cheatsheet.vercel.app/"
+      "I've been using Claude Code for a couple of days",
+      "https://twitter.com/Steve_Yegge/status/1898674257808515242"
+    ]
+  ],
+  [
+    [
+      "2025-03-09, 05:04:05",
+      "https://news.ycombinator.com/item?id=43306435"
+    ],
+    [
+      "A Post Mortem on the Gino Case",
+      "https://statmodeling.stat.columbia.edu/2025/03/08/a-post-mortem-on-the-gino-case-committing-fraud-is-right-now-a-viable-career-strategy-that-can-propel-you-at-the-top-of-the-academic-world/"
+    ]
+  ],
+  [
+    [
+      "2025-03-08, 18:44:19",
+      "https://news.ycombinator.com/item?id=43302394"
+    ],
+    [
+      "Improving on std:count_if()'s auto-vectorization",
+      "https://nicula.xyz/2025/03/08/improving-stdcountif-vectorization.html"
     ]
   ],
   [
@@ -217,16 +217,6 @@
     [
       "Walt Disney's MultiPlane Camera (Filmed Feb. 13, 1957) [video]",
       "https://www.youtube.com/watch?v=3YIR39KeJMk"
-    ]
-  ],
-  [
-    [
-      "2025-03-07, 18:19:53",
-      "https://news.ycombinator.com/item?id=43292636"
-    ],
-    [
-      "The gem Apple discontinued: the 11-inch MacBook Air (2019)",
-      "https://morrick.me/archives/8338"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "3dfx, So powerful, it's kind of ridiculous (2023)",
       "https://www.abortretry.fail/p/so-powerful-its-kind-of-ridiculous"
+    ]
+  ],
+  [
+    [
+      "2025-03-06, 15:23:42",
+      "https://news.ycombinator.com/item?id=43281275"
+    ],
+    [
+      "Paper Review: Variational Lossy Auto-Encoders",
+      "https://theahura.substack.com/p/ilyas-30-papers-to-carmack-vlaes"
     ]
   ],
   [
