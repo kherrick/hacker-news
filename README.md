@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-10, 06:44:27](https://news.ycombinator.com/item?id=43317592) - [Performance of the Python 3.14 tail-call interpreter](https://blog.nelhage.com/post/cpython-tail-call/)
 * [2025-03-10, 06:01:18](https://news.ycombinator.com/item?id=43317406) - [Llama.cpp AI Performance with the GeForce RTX 5090 Review](https://www.phoronix.com/review/nvidia-rtx5090-llama-cpp)
 * [2025-03-10, 04:20:02](https://news.ycombinator.com/item?id=43316979) - [A bear case: My predictions regarding AI progress](https://www.lesswrong.com/posts/oKAFFvaouKKEhbBPm/a-bear-case-my-predictions-regarding-ai-progress)
 * [2025-03-10, 04:04:48](https://news.ycombinator.com/item?id=43316912) - [Optimal brain process requires balance between excitatory and inhibitory neurons](https://phys.org/news/2025-03-optimal-brain-requires-excitatory-inhibitory.html)
@@ -24,7 +25,6 @@
 * [2025-03-07, 12:16:16](https://news.ycombinator.com/item?id=43289550) - [Bring Back Shortwave](https://www.spectator.co.uk/article/bring-back-shortwave/)
 * [2025-03-07, 11:16:57](https://news.ycombinator.com/item?id=43289247) - [Sublogic Flight Simulator](https://www.goto10retro.com/p/sublogic-flight-simulator)
 * [2025-03-07, 03:32:47](https://news.ycombinator.com/item?id=43287193) - [The Kernighan-Lin Search Algorithm](https://arxiv.org/abs/2502.00316)
-* [2025-03-07, 00:14:06](https://news.ycombinator.com/item?id=43286363) - [Ask HN: Best way to simultaneously run multiple projects locally?](https://news.ycombinator.com/item?id=43286363)
 * [2025-03-06, 20:03:51](https://news.ycombinator.com/item?id=43284541) - [Investigating an argument-dependent lookup issue and working around it](https://devblogs.microsoft.com/oldnewthing/20250214-00/?p=110868)
 * [2025-03-06, 15:23:42](https://news.ycombinator.com/item?id=43281275) - [Paper Review: Variational Lossy Auto-Encoders](https://theahura.substack.com/p/ilyas-30-papers-to-carmack-vlaes)
 * [2025-03-06, 14:23:24](https://news.ycombinator.com/item?id=43280517) - [Exploring Polymorphism in C: Lessons from Linux and FFmpeg's Code Design (2019)](https://leandromoreira.com/2019/08/02/linux-ffmpeg-source-internals-a-good-software-design/)
