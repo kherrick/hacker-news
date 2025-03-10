@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-10, 07:01:35](https://news.ycombinator.com/item?id=43317677) - [Contra Chrome: How Google's browser became a threat to privacy and democracy](https://contrachrome.com)
+* [2025-03-10, 06:58:34](https://news.ycombinator.com/item?id=43317667) - [Ask HN: With trust in Firefox gone, is Chrome-ish the only option?](https://news.ycombinator.com/item?id=43317667)
 * [2025-03-10, 06:44:27](https://news.ycombinator.com/item?id=43317592) - [Performance of the Python 3.14 tail-call interpreter](https://blog.nelhage.com/post/cpython-tail-call/)
 * [2025-03-10, 06:01:18](https://news.ycombinator.com/item?id=43317406) - [Llama.cpp AI Performance with the GeForce RTX 5090 Review](https://www.phoronix.com/review/nvidia-rtx5090-llama-cpp)
 * [2025-03-10, 04:04:48](https://news.ycombinator.com/item?id=43316912) - [Optimal brain process requires balance between excitatory and inhibitory neurons](https://phys.org/news/2025-03-optimal-brain-requires-excitatory-inhibitory.html)
@@ -9,7 +11,6 @@
 * [2025-03-09, 23:00:25](https://news.ycombinator.com/item?id=43314851) - [Vilhelm Hammershøi: the eminence in greys](https://www.richardmorris.org/blog-1-1/vilhelm-hammershi-the-eminence-in-greys)
 * [2025-03-09, 22:53:19](https://news.ycombinator.com/item?id=43314781) - [Tesla created secret team to suppress driving range complaints (2023)](https://www.reuters.com/investigates/special-report/tesla-batteries-range/)
 * [2025-03-09, 22:38:57](https://news.ycombinator.com/item?id=43314657) - [Apple Exclaves](https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194)
-* [2025-03-09, 21:02:47](https://news.ycombinator.com/item?id=43313781) - [Scientists discover an RNA that repairs DNA damage](https://scitechdaily.com/scientists-just-discovered-an-rna-that-repairs-dna-damage-and-its-a-game-changer/)
 * [2025-03-09, 20:55:48](https://news.ycombinator.com/item?id=43313706) - [Wine Releases Framework Mono 6.14 in Taking over the Mono Project](https://www.phoronix.com/news/Wine-Framework-Mono-6.14)
 * [2025-03-09, 17:40:38](https://news.ycombinator.com/item?id=43311573) - [Ecosia is teaming up with Qwant to build a European search index](https://blog.ecosia.org/eusp/)
 * [2025-03-09, 16:51:59](https://news.ycombinator.com/item?id=43310963) - [Show HN: Evolving Agents Framework](https://github.com/matiasmolinas/evolving-agents)
@@ -29,7 +30,6 @@
 * [2025-03-06, 15:23:42](https://news.ycombinator.com/item?id=43281275) - [Paper Review: Variational Lossy Auto-Encoders](https://theahura.substack.com/p/ilyas-30-papers-to-carmack-vlaes)
 * [2025-03-06, 14:23:24](https://news.ycombinator.com/item?id=43280517) - [Exploring Polymorphism in C: Lessons from Linux and FFmpeg's Code Design (2019)](https://leandromoreira.com/2019/08/02/linux-ffmpeg-source-internals-a-good-software-design/)
 * [2025-03-06, 06:43:32](https://news.ycombinator.com/item?id=43277161) - [José Guadalupe Posada's Engravings of Unusual Births (Ca. 1880–1910)](https://publicdomainreview.org/collection/posada-unusual-births/)
-* [2025-03-05, 16:09:26](https://news.ycombinator.com/item?id=43268477) - [16-Bit to 1-Bit: Visual KV Cache Quantization for Efficient Multimodal LLMs](https://arxiv.org/abs/2502.14882)
 
 ## [Archives](archives/index.md)
 
