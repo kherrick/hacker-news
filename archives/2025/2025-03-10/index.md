@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-10](index.md)
 
+* [2025-03-10, 16:28:44](https://news.ycombinator.com/item?id=43322245) - [Music labels will regret coming for the Internet Archive, sound historian says](https://arstechnica.com/tech-policy/2025/03/music-labels-will-regret-coming-for-the-internet-archive-sound-historian-says/)
+* [2025-03-10, 15:59:20](https://news.ycombinator.com/item?id=43321949) - [Jet fuel spills into North Sea after tanker collision](https://www.bbc.co.uk/news/live/cgq1pwjlqq2t)
 * [2025-03-10, 15:31:57](https://news.ycombinator.com/item?id=43321688) - [Show HN: Editable Games](https://playscl.com/make)
 * [2025-03-10, 15:12:57](https://news.ycombinator.com/item?id=43321523) - [Show HN: In-Browser Graph RAG with Kuzu-WASM and WebLLM](https://blog.kuzudb.com/post/kuzu-wasm-rag/)
 * [2025-03-10, 14:35:05](https://news.ycombinator.com/item?id=43321131) - [A technical history of Acorn Computers](https://www.mcmordie.co.uk/acornhistory/index.shtml)

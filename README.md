@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-10, 16:28:44](https://news.ycombinator.com/item?id=43322245) - [Music labels will regret coming for the Internet Archive, sound historian says](https://arstechnica.com/tech-policy/2025/03/music-labels-will-regret-coming-for-the-internet-archive-sound-historian-says/)
+* [2025-03-10, 15:59:20](https://news.ycombinator.com/item?id=43321949) - [Jet fuel spills into North Sea after tanker collision](https://www.bbc.co.uk/news/live/cgq1pwjlqq2t)
 * [2025-03-10, 15:31:57](https://news.ycombinator.com/item?id=43321688) - [Show HN: Editable Games](https://playscl.com/make)
 * [2025-03-10, 15:12:57](https://news.ycombinator.com/item?id=43321523) - [Show HN: In-Browser Graph RAG with Kuzu-WASM and WebLLM](https://blog.kuzudb.com/post/kuzu-wasm-rag/)
 * [2025-03-10, 14:35:05](https://news.ycombinator.com/item?id=43321131) - [A technical history of Acorn Computers](https://www.mcmordie.co.uk/acornhistory/index.shtml)
@@ -18,8 +20,6 @@
 * [2025-03-09, 17:40:38](https://news.ycombinator.com/item?id=43311573) - [Ecosia is teaming up with Qwant to build a European search index](https://blog.ecosia.org/eusp/)
 * [2025-03-09, 13:40:35](https://news.ycombinator.com/item?id=43308994) - [It is as if you were on your phone](https://pippinbarr.com/it-is-as-if-you-were-on-your-phone/info/)
 * [2025-03-09, 11:51:36](https://news.ycombinator.com/item?id=43308259) - [Compiling C++ with the Clang API](https://maskray.me/blog/2025-03-09-compiling-c++-with-clang-api)
-* [2025-03-09, 10:20:50](https://news.ycombinator.com/item?id=43307809) - [I've been using Claude Code for a couple of days](https://twitter.com/Steve_Yegge/status/1898674257808515242)
-* [2025-03-08, 18:44:19](https://news.ycombinator.com/item?id=43302394) - [Improving on std:count_if()'s auto-vectorization](https://nicula.xyz/2025/03/08/improving-stdcountif-vectorization.html)
 * [2025-03-07, 21:15:10](https://news.ycombinator.com/item?id=43294751) - [Virtual Punch Card Creator](https://www.masswerk.at/keypunch/)
 * [2025-03-07, 19:06:30](https://news.ycombinator.com/item?id=43293192) - [Walt Disney's MultiPlane Camera (Filmed Feb. 13, 1957) [video]](https://www.youtube.com/watch?v=3YIR39KeJMk)
 * [2025-03-07, 15:28:24](https://news.ycombinator.com/item?id=43290919) - [Ancient human DNA recovered from a Palaeolithic pendant](https://www.nature.com/articles/s41586-023-06035-2)
