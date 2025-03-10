@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-10](index.md)
 
+* [2025-03-10, 04:20:02](https://news.ycombinator.com/item?id=43316979) - [A bear case: predictions regarding AI](https://www.lesswrong.com/posts/oKAFFvaouKKEhbBPm/a-bear-case-my-predictions-regarding-ai-progress)
 * [2025-03-10, 04:04:48](https://news.ycombinator.com/item?id=43316912) - [Optimal brain process requires balance between excitatory and inhibitory neurons](https://phys.org/news/2025-03-optimal-brain-requires-excitatory-inhibitory.html)
 * [2025-03-10, 03:25:07](https://news.ycombinator.com/item?id=43316724) - ['Nobody will trust a US treaty again,' and the yen is new safe haven](https://fortune.com/2025/03/09/us-treaty-nato-ukraine-russia-trump-japan-yen-safe-haven-dedollarization/)
 * [2025-03-10, 02:54:37](https://news.ycombinator.com/item?id=43316556) - [Free95: An open-source Windows-compatible operating system](https://github.com/Versoft-Software/Free95)
