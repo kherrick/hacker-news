@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-10, 16:47:37](https://news.ycombinator.com/item?id=43322421) - [Twitter.com – Is Twitter Down?](https://www.isitdownrightnow.com/twitter.com.html)
 * [2025-03-10, 16:28:44](https://news.ycombinator.com/item?id=43322245) - [Music labels will regret coming for the Internet Archive, sound historian says](https://arstechnica.com/tech-policy/2025/03/music-labels-will-regret-coming-for-the-internet-archive-sound-historian-says/)
 * [2025-03-10, 15:59:20](https://news.ycombinator.com/item?id=43321949) - [Jet fuel spills into North Sea after tanker collision](https://www.bbc.co.uk/news/live/cgq1pwjlqq2t)
 * [2025-03-10, 15:31:57](https://news.ycombinator.com/item?id=43321688) - [Show HN: Editable Games](https://playscl.com/make)
@@ -11,7 +12,6 @@
 * [2025-03-10, 09:50:33](https://news.ycombinator.com/item?id=43318624) - [Probabilistic Artificial Intelligence](https://arxiv.org/abs/2502.05244)
 * [2025-03-10, 07:42:11](https://news.ycombinator.com/item?id=43317887) - [Trees not profits: we're giving up our right to ever sell Ecosia (2018)](https://blog.ecosia.org/trees-not-profits/)
 * [2025-03-10, 06:44:27](https://news.ycombinator.com/item?id=43317592) - [Performance of the Python 3.14 tail-call interpreter](https://blog.nelhage.com/post/cpython-tail-call/)
-* [2025-03-10, 04:20:02](https://news.ycombinator.com/item?id=43316979) - [A bear case: My predictions regarding AI progress](https://www.lesswrong.com/posts/oKAFFvaouKKEhbBPm/a-bear-case-my-predictions-regarding-ai-progress)
 * [2025-03-10, 00:46:00](https://news.ycombinator.com/item?id=43315634) - [Stanford researchers develop dual-antibody treatment for ALL SARS-CoV-2 variants](https://www.science.org/doi/10.1126/scitranslmed.adq5720)
 * [2025-03-10, 00:16:54](https://news.ycombinator.com/item?id=43315406) - [Chasing RFI Waves – Part Seven](https://raoulpop.com/2012/04/15/chasing-rfi-waves-part-seven/)
 * [2025-03-09, 23:00:25](https://news.ycombinator.com/item?id=43314851) - [Vilhelm Hammershøi: the eminence in greys](https://www.richardmorris.org/blog-1-1/vilhelm-hammershi-the-eminence-in-greys)
