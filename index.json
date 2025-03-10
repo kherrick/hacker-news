@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-10, 06:44:27",
+      "https://news.ycombinator.com/item?id=43317592"
+    ],
+    [
+      "Performance of the Python 3.14 tail-call interpreter",
+      "https://blog.nelhage.com/post/cpython-tail-call/"
+    ]
+  ],
+  [
+    [
       "2025-03-10, 06:01:18",
       "https://news.ycombinator.com/item?id=43317406"
     ],
@@ -237,16 +247,6 @@
     [
       "The Kernighan-Lin Search Algorithm",
       "https://arxiv.org/abs/2502.00316"
-    ]
-  ],
-  [
-    [
-      "2025-03-07, 00:14:06",
-      "https://news.ycombinator.com/item?id=43286363"
-    ],
-    [
-      "Ask HN: Best way to simultaneously run multiple projects locally?",
-      "https://news.ycombinator.com/item?id=43286363"
     ]
   ],
   [
