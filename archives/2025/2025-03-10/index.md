@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-10](index.md)
 
+* [2025-03-10, 02:27:18](https://news.ycombinator.com/item?id=43316395) - [Mark Carney Is Canada's Next Prime Minister](https://www.cbc.ca/news/politics/carney-liberal-leadership-analysis-wherry-1.7479094)
 * [2025-03-10, 01:30:43](https://news.ycombinator.com/item?id=43315994) - [Structured Labs (YC S23) Is Hiring for Full-Stack Engineers](https://www.ycombinator.com/companies/structured-labs/jobs/ADiKR9m-full-stack-engineer)
 * [2025-03-10, 00:46:00](https://news.ycombinator.com/item?id=43315634) - [Stanford researchers develop dual-antibody treatment for ALL SARS-CoV-2 variants](https://www.science.org/doi/10.1126/scitranslmed.adq5720)
 * [2025-03-10, 00:45:30](https://news.ycombinator.com/item?id=43315629) - [US added to international watchlist for rapid decline in civic freedoms](https://www.theguardian.com/us-news/2025/mar/09/watchlist-decline-civic-freedoms-civicus)
