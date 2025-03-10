@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-03-10, 10:23:31",
-      "https://news.ycombinator.com/item?id=43318842"
-    ],
-    [
-      "Real Chilling Effects",
-      "https://donmoynihan.substack.com/p/real-chilling-effects"
-    ]
-  ],
-  [
-    [
       "2025-03-10, 10:15:47",
       "https://news.ycombinator.com/item?id=43318798"
     ],
@@ -47,16 +37,6 @@
     [
       "Probabilistic Artificial Intelligence",
       "https://arxiv.org/abs/2502.05244"
-    ]
-  ],
-  [
-    [
-      "2025-03-10, 08:22:09",
-      "https://news.ycombinator.com/item?id=43318094"
-    ],
-    [
-      "Show HN: Back to one-time end-to-end encrypted anonymous chats in 2025",
-      "https://www.yaps.chat/"
     ]
   ],
   [
@@ -221,12 +201,32 @@
   ],
   [
     [
+      "2025-03-08, 18:44:19",
+      "https://news.ycombinator.com/item?id=43302394"
+    ],
+    [
+      "Improving on std:count_if()'s auto-vectorization",
+      "https://nicula.xyz/2025/03/08/improving-stdcountif-vectorization.html"
+    ]
+  ],
+  [
+    [
       "2025-03-07, 21:15:25",
       "https://news.ycombinator.com/item?id=43294756"
     ],
     [
       "From Prompt to Adventures:Creating Games with LLMs and Restate Durable Functions",
       "https://restate.dev/blog/from-prompt-to-adventures-creating-games-with-llms-and-restates-durable-functions/"
+    ]
+  ],
+  [
+    [
+      "2025-03-07, 21:15:10",
+      "https://news.ycombinator.com/item?id=43294751"
+    ],
+    [
+      "Virtual Punch Card Creator",
+      "https://www.masswerk.at/keypunch/"
     ]
   ],
   [
