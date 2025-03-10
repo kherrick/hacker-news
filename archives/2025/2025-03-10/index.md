@@ -5,8 +5,11 @@
 ### [Archives](../../index.md) for [2025-03-10](index.md)
 
 * [2025-03-10, 18:41:47](https://news.ycombinator.com/item?id=43324220) - [I quit my FAANG job because it'll be automated by the end of the year (2025)](https://jagilley.github.io/faang-blog.html)
+* [2025-03-10, 18:39:28](https://news.ycombinator.com/item?id=43324157) - [Tesla shares plunge 14%, head for worst day in five years](https://www.cnbc.com/2025/03/10/tesla-shares-plunge-14percent-head-for-worst-day-in-five-years.html)
 * [2025-03-10, 18:29:00](https://news.ycombinator.com/item?id=43323974) - [What We've Learned from 150 Years of Stock Market Crashes](https://www.morningstar.com/economy/what-weve-learned-150-years-stock-market-crashes)
 * [2025-03-10, 18:27:32](https://news.ycombinator.com/item?id=43323946) - [Mathematical Foundations of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
+* [2025-03-10, 18:26:27](https://news.ycombinator.com/item?id=43323923) - [Firmware update bricks HP printers, makes them unable to use HP cartridges](https://arstechnica.com/gadgets/2025/03/firmware-update-bricks-hp-printers-makes-them-unable-to-use-hp-cartridges/)
+* [2025-03-10, 18:22:57](https://news.ycombinator.com/item?id=43323860) - [STEPS Toward the Reinvention of Programming [pdf]](https://tinlizzie.org/VPRIPapers/tr2012001_steps.pdf)
 * [2025-03-10, 18:15:34](https://news.ycombinator.com/item?id=43323738) - [Study finds bullies have more children than non-bullies](https://phys.org/news/2025-02-bullies-children.html)
 * [2025-03-10, 18:11:18](https://news.ycombinator.com/item?id=43323652) - [Wall Street sell-off turns 'ugly' as US recession fears grow](https://www.independent.co.uk/business/wall-street-selloff-turns-ugly-as-us-recession-fears-grow-b2712420.html)
 * [2025-03-10, 18:02:49](https://news.ycombinator.com/item?id=43323485) - [DOJ: Google must sell Chrome, Android could be next](https://arstechnica.com/google/2025/03/doj-google-must-sell-chrome-android-could-be-next/)
