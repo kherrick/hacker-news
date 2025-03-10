@@ -15,6 +15,7 @@
 * [2025-03-10, 15:59:20](https://news.ycombinator.com/item?id=43321949) - [Jet fuel spills into North Sea after tanker collision](https://www.bbc.co.uk/news/live/cgq1pwjlqq2t)
 * [2025-03-10, 15:31:57](https://news.ycombinator.com/item?id=43321688) - [Show HN: Editable Games](https://playscl.com/make)
 * [2025-03-10, 15:12:57](https://news.ycombinator.com/item?id=43321523) - [Show HN: In-Browser Graph RAG with Kuzu-WASM and WebLLM](https://blog.kuzudb.com/post/kuzu-wasm-rag/)
+* [2025-03-10, 14:36:48](https://news.ycombinator.com/item?id=43321145) - [YouTube DRM added on ALL videos with TV (TVHTML5) clients](https://github.com/yt-dlp/yt-dlp/issues/12563)
 * [2025-03-10, 14:35:05](https://news.ycombinator.com/item?id=43321131) - [A technical history of Acorn Computers](https://www.mcmordie.co.uk/acornhistory/index.shtml)
 * [2025-03-10, 14:25:52](https://news.ycombinator.com/item?id=43321023) - [NIH will eliminate many peer review panels, lay off scientists overseeing them](https://www.science.org/content/article/nih-will-eliminate-many-peer-review-panels-and-lay-some-scientists-overseeing-them)
 * [2025-03-10, 13:36:47](https://news.ycombinator.com/item?id=43320458) - [Investors Want a Piece of DeepSeek. Its Founder Says Not Now](https://www.wsj.com/tech/ai/investors-want-a-piece-of-deepseek-its-founder-says-not-now-24e9f799)
