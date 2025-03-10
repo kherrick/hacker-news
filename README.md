@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-10, 15:31:57](https://news.ycombinator.com/item?id=43321688) - [Show HN: Editable Games](https://playscl.com/make)
+* [2025-03-10, 13:27:17](https://news.ycombinator.com/item?id=43320364) - [20 years of Linux on the Desktop (part 3)](https://ploum.net/2025-03-08-linux_desktop3.html)
 * [2025-03-10, 13:12:38](https://news.ycombinator.com/item?id=43320230) - [Canon EF and RF Lenses – All Autofocus Motors](https://exclusivearchitecture.com/03-technical-articles-CLT-12-autofocus-systems.html)
 * [2025-03-10, 12:29:33](https://news.ycombinator.com/item?id=43319875) - [Quantum Milestones, 1964: John Stewart Bell Rings in New Era of Quantum Theory (2022)](https://physics.aps.org/articles/v18/53)
 * [2025-03-10, 12:00:58](https://news.ycombinator.com/item?id=43319611) - [FurtherAI (YC W24) Is Hiring](https://www.ycombinator.com/companies/furtherai/jobs)
@@ -18,9 +20,7 @@
 * [2025-03-09, 10:20:50](https://news.ycombinator.com/item?id=43307809) - [I've been using Claude Code for a couple of days](https://twitter.com/Steve_Yegge/status/1898674257808515242)
 * [2025-03-09, 05:04:05](https://news.ycombinator.com/item?id=43306435) - [A Post Mortem on the Gino Case](https://statmodeling.stat.columbia.edu/2025/03/08/a-post-mortem-on-the-gino-case-committing-fraud-is-right-now-a-viable-career-strategy-that-can-propel-you-at-the-top-of-the-academic-world/)
 * [2025-03-08, 18:44:19](https://news.ycombinator.com/item?id=43302394) - [Improving on std:count_if()'s auto-vectorization](https://nicula.xyz/2025/03/08/improving-stdcountif-vectorization.html)
-* [2025-03-07, 21:15:25](https://news.ycombinator.com/item?id=43294756) - [From Prompt to Adventures:Creating Games with LLMs and Restate Durable Functions](https://restate.dev/blog/from-prompt-to-adventures-creating-games-with-llms-and-restates-durable-functions/)
 * [2025-03-07, 21:15:10](https://news.ycombinator.com/item?id=43294751) - [Virtual Punch Card Creator](https://www.masswerk.at/keypunch/)
-* [2025-03-07, 19:19:43](https://news.ycombinator.com/item?id=43293370) - [PSExcel: Excel automation without Excel Overview (2015)](http://ramblingcookiemonster.github.io/PSExcel-Intro/)
 * [2025-03-07, 19:06:30](https://news.ycombinator.com/item?id=43293192) - [Walt Disney's MultiPlane Camera (Filmed Feb. 13, 1957) [video]](https://www.youtube.com/watch?v=3YIR39KeJMk)
 * [2025-03-07, 15:28:24](https://news.ycombinator.com/item?id=43290919) - [Ancient human DNA recovered from a Palaeolithic pendant](https://www.nature.com/articles/s41586-023-06035-2)
 * [2025-03-07, 14:36:50](https://news.ycombinator.com/item?id=43290498) - [How to Build a Thousand-Year-Old Tree](https://www.noemamag.com/how-to-build-a-thousand-year-old-tree/)

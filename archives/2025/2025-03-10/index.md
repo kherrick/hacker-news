@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-03-10](index.md)
 
+* [2025-03-10, 15:31:57](https://news.ycombinator.com/item?id=43321688) - [Show HN: Editable Games](https://playscl.com/make)
 * [2025-03-10, 14:25:52](https://news.ycombinator.com/item?id=43321023) - [NIH will eliminate many peer review panels, lay off scientists overseeing them](https://www.science.org/content/article/nih-will-eliminate-many-peer-review-panels-and-lay-some-scientists-overseeing-them)
 * [2025-03-10, 13:36:47](https://news.ycombinator.com/item?id=43320458) - [Investors Want a Piece of DeepSeek. Its Founder Says Not Now](https://www.wsj.com/tech/ai/investors-want-a-piece-of-deepseek-its-founder-says-not-now-24e9f799)
+* [2025-03-10, 13:27:17](https://news.ycombinator.com/item?id=43320364) - [20 years of Linux on the Desktop (part 3)](https://ploum.net/2025-03-08-linux_desktop3.html)
 * [2025-03-10, 13:24:40](https://news.ycombinator.com/item?id=43320344) - [Pixel 4a battery update due to overheating risk, per Australian 'recall' notice](https://9to5google.com/2025/03/10/pixel-4a-battery-recall/)
 * [2025-03-10, 13:12:38](https://news.ycombinator.com/item?id=43320230) - [Canon EF and RF Lenses – All Autofocus Motors](https://exclusivearchitecture.com/03-technical-articles-CLT-12-autofocus-systems.html)
 * [2025-03-10, 13:06:51](https://news.ycombinator.com/item?id=43320181) - [Polymorphic Chrome Extensions Impersonate Password Managers to Steal Credentials](https://cyberinsider.com/polymorphic-chrome-extensions-impersonate-password-managers-to-steal-credentials/)
