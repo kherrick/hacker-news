@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-10, 14:25:52](https://news.ycombinator.com/item?id=43321023) - [NIH will eliminate many peer review panels, lay off scientists overseeing them](https://www.science.org/content/article/nih-will-eliminate-many-peer-review-panels-and-lay-some-scientists-overseeing-them)
 * [2025-03-10, 13:24:40](https://news.ycombinator.com/item?id=43320344) - [Pixel 4a battery update due to overheating risk, per Australian 'recall' notice](https://9to5google.com/2025/03/10/pixel-4a-battery-recall/)
 * [2025-03-10, 13:12:38](https://news.ycombinator.com/item?id=43320230) - [Canon EF and RF Lenses – All Autofocus Motors](https://exclusivearchitecture.com/03-technical-articles-CLT-12-autofocus-systems.html)
 * [2025-03-10, 13:05:54](https://news.ycombinator.com/item?id=43320177) - [We built a crowdsourced interview question database for tech interviews](https://www.interviewdb.io)
@@ -19,6 +18,7 @@
 * [2025-03-09, 13:40:35](https://news.ycombinator.com/item?id=43308994) - [It is as if you were on your phone](https://pippinbarr.com/it-is-as-if-you-were-on-your-phone/info/)
 * [2025-03-09, 11:51:36](https://news.ycombinator.com/item?id=43308259) - [Compiling C++ with the Clang API](https://maskray.me/blog/2025-03-09-compiling-c++-with-clang-api)
 * [2025-03-09, 10:05:52](https://news.ycombinator.com/item?id=43307745) - [Show HN: Searchable Vim Cheat Sheet with Favorites (Open-Source)](https://nvim-cheatsheet.vercel.app/)
+* [2025-03-07, 21:15:25](https://news.ycombinator.com/item?id=43294756) - [From Prompt to Adventures:Creating Games with LLMs and Restate Durable Functions](https://restate.dev/blog/from-prompt-to-adventures-creating-games-with-llms-and-restates-durable-functions/)
 * [2025-03-07, 21:15:10](https://news.ycombinator.com/item?id=43294751) - [Virtual Punch Card Creator](https://www.masswerk.at/keypunch/)
 * [2025-03-07, 19:19:43](https://news.ycombinator.com/item?id=43293370) - [PSExcel: Excel automation without Excel Overview (2015)](http://ramblingcookiemonster.github.io/PSExcel-Intro/)
 * [2025-03-07, 19:06:30](https://news.ycombinator.com/item?id=43293192) - [Walt Disney's MultiPlane Camera (Filmed Feb. 13, 1957) [video]](https://www.youtube.com/watch?v=3YIR39KeJMk)
