@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-10, 08:25:23](https://news.ycombinator.com/item?id=43318112) - [Steve Wozniak says Tesla 'is the worst in the world' at improving its technology](https://fortune.com/2025/03/07/steve-wozniak-says-tesla-is-worst-at-improving-driver-tech/)
+* [2025-03-10, 08:22:09](https://news.ycombinator.com/item?id=43318094) - [Show HN: Back to one-time end-to-end encrypted anonymous chats in 2025](https://www.yaps.chat/)
 * [2025-03-10, 07:42:11](https://news.ycombinator.com/item?id=43317887) - [Trees not profits: we're giving up our right to ever sell Ecosia (2018)](https://blog.ecosia.org/trees-not-profits/)
 * [2025-03-10, 07:01:42](https://news.ycombinator.com/item?id=43317678) - [Stack Traces Are Underrated](https://www.karl.berlin/stacktraces.html)
 * [2025-03-10, 07:01:35](https://news.ycombinator.com/item?id=43317677) - [Contra Chrome: How Google's browser became a threat to privacy and democracy](https://contrachrome.com)
