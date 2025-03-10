@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-10](index.md)
 
+* [2025-03-10, 10:08:13](https://news.ycombinator.com/item?id=43318738) - [European Cloud Computing Platforms](https://european-alternatives.eu/category/cloud-computing-platforms)
 * [2025-03-10, 08:25:23](https://news.ycombinator.com/item?id=43318112) - [Steve Wozniak says Tesla 'is the worst in the world' at improving its technology](https://fortune.com/2025/03/07/steve-wozniak-says-tesla-is-worst-at-improving-driver-tech/)
 * [2025-03-10, 08:22:09](https://news.ycombinator.com/item?id=43318094) - [Show HN: Back to one-time end-to-end encrypted anonymous chats in 2025](https://www.yaps.chat/)
 * [2025-03-10, 07:54:24](https://news.ycombinator.com/item?id=43317954) - [Another late-night Claude Code post](https://twitter.com/Steve_Yegge/status/1898993080931611112)
