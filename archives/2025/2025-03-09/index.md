@@ -54,6 +54,7 @@
 * [2025-03-09, 10:55:39](https://news.ycombinator.com/item?id=43307933) - [This blog post passed unit tests](https://www.sealambda.com/blog/this-post-passed-unit-tests/)
 * [2025-03-09, 10:20:50](https://news.ycombinator.com/item?id=43307809) - [I've been using Claude Code for a couple of days](https://twitter.com/Steve_Yegge/status/1898674257808515242)
 * [2025-03-09, 10:07:01](https://news.ycombinator.com/item?id=43307755) - [Why Layoffs Don't Work](https://thehustle.co/originals/why-layoffs-dont-work)
+* [2025-03-09, 10:05:52](https://news.ycombinator.com/item?id=43307745) - [Show HN: Searchable Vim Cheat Sheet with Favorites (Open-Source)](https://nvim-cheatsheet.vercel.app/)
 * [2025-03-09, 09:47:28](https://news.ycombinator.com/item?id=43307659) - [Understanding Memory Management, Part 2: C++ and RAII](https://educatedguesswork.org/posts/memory-management-2/)
 * [2025-03-09, 09:25:28](https://news.ycombinator.com/item?id=43307572) - [Where are all the self-directed learners?](https://saigaddam.medium.com/where-are-all-the-self-directed-learners-ccfb2421e52c)
 * [2025-03-09, 09:13:44](https://news.ycombinator.com/item?id=43307489) - [OpenAPK – open-source Apps for Android, updated weekly](https://www.openapk.net)
