@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-03-10, 19:39:42",
-      "https://news.ycombinator.com/item?id=43325019"
-    ],
-    [
-      "We've been wrong about math for 2300 years",
-      "https://davidbessis.substack.com/p/weve-been-wrong-about-math-for-2300"
-    ]
-  ],
-  [
-    [
       "2025-03-10, 19:29:53",
       "https://news.ycombinator.com/item?id=43324887"
     ],
@@ -61,12 +51,12 @@
   ],
   [
     [
-      "2025-03-10, 18:15:34",
-      "https://news.ycombinator.com/item?id=43323738"
+      "2025-03-10, 18:04:51",
+      "https://news.ycombinator.com/item?id=43323519"
     ],
     [
-      "Study finds bullies have more children than non-bullies",
-      "https://phys.org/news/2025-02-bullies-children.html"
+      "Washington Post editor resigns after accusing CEO of killing column",
+      "https://www.nbcnews.com/news/us-news/washington-post-editor-ruth-marcus-resigns-accusing-ceo-killing-column-rcna195634"
     ]
   ],
   [
@@ -251,22 +241,22 @@
   ],
   [
     [
+      "2025-03-09, 05:04:05",
+      "https://news.ycombinator.com/item?id=43306435"
+    ],
+    [
+      "A Post Mortem on the Gino Case",
+      "https://statmodeling.stat.columbia.edu/2025/03/08/a-post-mortem-on-the-gino-case-committing-fraud-is-right-now-a-viable-career-strategy-that-can-propel-you-at-the-top-of-the-academic-world/"
+    ]
+  ],
+  [
+    [
       "2025-03-08, 14:14:22",
       "https://news.ycombinator.com/item?id=43300414"
     ],
     [
       "The Einstein AI Model",
       "https://thomwolf.io/blog/scientific-ai.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-07, 14:38:41",
-      "https://news.ycombinator.com/item?id=43290516"
-    ],
-    [
-      "Help Me Help You, Maintainers",
-      "https://matduggan.com/help-me-help-you-maintainers/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "3dfx: So powerful, it's kind of ridiculous (2023)",
       "https://www.abortretry.fail/p/so-powerful-its-kind-of-ridiculous"
+    ]
+  ],
+  [
+    [
+      "2025-03-06, 14:23:24",
+      "https://news.ycombinator.com/item?id=43280517"
+    ],
+    [
+      "Exploring Polymorphism in C: Lessons from Linux and FFmpeg's Code Design (2019)",
+      "https://leandromoreira.com/2019/08/02/linux-ffmpeg-source-internals-a-good-software-design/"
     ]
   ]
 ]
