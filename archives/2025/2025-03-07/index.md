@@ -84,6 +84,7 @@
 * [2025-03-07, 06:10:31](https://news.ycombinator.com/item?id=43287694) - [Bring Starlink on airplane in carry on, sell access?](https://news.ycombinator.com/item?id=43287694)
 * [2025-03-07, 05:25:38](https://news.ycombinator.com/item?id=43287563) - [Rules to improve air quality are under attack](https://www.heatpumped.org/p/you-put-your-pitchfork-away-already)
 * [2025-03-07, 04:15:34](https://news.ycombinator.com/item?id=43287345) - [The trap of the top-down approach](https://www.cryptologie.net/article/625/the-trap-of-the-top-down-approach/)
+* [2025-03-07, 04:07:18](https://news.ycombinator.com/item?id=43287327) - [3dfx, So powerful, it's kind of ridiculous (2023)](https://www.abortretry.fail/p/so-powerful-its-kind-of-ridiculous)
 * [2025-03-07, 03:32:47](https://news.ycombinator.com/item?id=43287193) - [The Kernighan-Lin Search Algorithm](https://arxiv.org/abs/2502.00316)
 * [2025-03-07, 03:12:28](https://news.ycombinator.com/item?id=43287123) - [Linux Prepper Podcast – Audience Feedback on Self-Hosting](https://podcast.james.network/@linuxprepper/episodes/audience-feedback-on-selfhosting)
 * [2025-03-07, 03:11:58](https://news.ycombinator.com/item?id=43287121) - [Google Analytics Opt-Out Browser Add-On](https://tools.google.com/dlpage/gaoptout)
