@@ -90,4 +90,5 @@
 * [2025-03-07, 03:32:47](https://news.ycombinator.com/item?id=43287193) - [The Kernighan-Lin Search Algorithm](https://arxiv.org/abs/2502.00316)
 * [2025-03-07, 03:12:28](https://news.ycombinator.com/item?id=43287123) - [Linux Prepper Podcast – Audience Feedback on Self-Hosting](https://podcast.james.network/@linuxprepper/episodes/audience-feedback-on-selfhosting)
 * [2025-03-07, 03:11:58](https://news.ycombinator.com/item?id=43287121) - [Google Analytics Opt-Out Browser Add-On](https://tools.google.com/dlpage/gaoptout)
+* [2025-03-07, 00:47:38](https://news.ycombinator.com/item?id=43286532) - [Ariane 6 performs first commercial flight with launch of CSO-3 satellite](https://www.arianespace.com/news/ariane-6-performs-first-commercial-flight-with-successful-launch-of-cso-3-satellite/)
 * [2025-03-07, 00:14:06](https://news.ycombinator.com/item?id=43286363) - [Ask HN: Best way to simultaneously run multiple projects locally?](https://news.ycombinator.com/item?id=43286363)
