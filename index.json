@@ -1,32 +1,22 @@
 [
   [
     [
+      "2025-03-10, 12:00:58",
+      "https://news.ycombinator.com/item?id=43319611"
+    ],
+    [
+      "FurtherAI (YC W24) Is Hiring",
+      "https://www.ycombinator.com/companies/furtherai/jobs"
+    ]
+  ],
+  [
+    [
       "2025-03-10, 10:15:47",
       "https://news.ycombinator.com/item?id=43318798"
     ],
     [
       "Go European: Discover European products and services",
       "https://www.goeuropean.org/"
-    ]
-  ],
-  [
-    [
-      "2025-03-10, 10:15:22",
-      "https://news.ycombinator.com/item?id=43318793"
-    ],
-    [
-      "Longest road and rail tunnel is being built under the Baltic Sea",
-      "https://www.cnn.com/travel/fehmarnbelt-tunnel-denmark-germany/index.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-10, 10:08:13",
-      "https://news.ycombinator.com/item?id=43318738"
-    ],
-    [
-      "European Cloud Computing Platforms",
-      "https://european-alternatives.eu/category/cloud-computing-platforms"
     ]
   ],
   [
@@ -51,26 +41,6 @@
   ],
   [
     [
-      "2025-03-10, 07:01:42",
-      "https://news.ycombinator.com/item?id=43317678"
-    ],
-    [
-      "Stack Traces Are Underrated",
-      "https://www.karl.berlin/stacktraces.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-10, 07:01:35",
-      "https://news.ycombinator.com/item?id=43317677"
-    ],
-    [
-      "Contra Chrome: How Google's browser became a threat to privacy and democracy",
-      "https://contrachrome.com"
-    ]
-  ],
-  [
-    [
       "2025-03-10, 06:44:27",
       "https://news.ycombinator.com/item?id=43317592"
     ],
@@ -91,12 +61,12 @@
   ],
   [
     [
-      "2025-03-10, 01:30:43",
-      "https://news.ycombinator.com/item?id=43315994"
+      "2025-03-10, 04:20:02",
+      "https://news.ycombinator.com/item?id=43316979"
     ],
     [
-      "Structured Labs (YC S23) Is Hiring for Full-Stack Engineers",
-      "https://www.ycombinator.com/companies/structured-labs/jobs/ADiKR9m-full-stack-engineer"
+      "A bear case: My predictions regarding AI progress",
+      "https://www.lesswrong.com/posts/oKAFFvaouKKEhbBPm/a-bear-case-my-predictions-regarding-ai-progress"
     ]
   ],
   [
@@ -131,22 +101,22 @@
   ],
   [
     [
-      "2025-03-09, 22:53:19",
-      "https://news.ycombinator.com/item?id=43314781"
-    ],
-    [
-      "Tesla created secret team to suppress driving range complaints (2023)",
-      "https://www.reuters.com/investigates/special-report/tesla-batteries-range/"
-    ]
-  ],
-  [
-    [
       "2025-03-09, 22:38:57",
       "https://news.ycombinator.com/item?id=43314657"
     ],
     [
       "Apple Exclaves",
       "https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194"
+    ]
+  ],
+  [
+    [
+      "2025-03-09, 19:18:41",
+      "https://news.ycombinator.com/item?id=43312652"
+    ],
+    [
+      "With AI you need to think bigger",
+      "https://rodyne.com/?p=1828"
     ]
   ],
   [
@@ -181,22 +151,22 @@
   ],
   [
     [
+      "2025-03-09, 10:20:50",
+      "https://news.ycombinator.com/item?id=43307809"
+    ],
+    [
+      "I've been using Claude Code for a couple of days",
+      "https://twitter.com/Steve_Yegge/status/1898674257808515242"
+    ]
+  ],
+  [
+    [
       "2025-03-09, 10:05:52",
       "https://news.ycombinator.com/item?id=43307745"
     ],
     [
       "Show HN: Searchable Vim Cheat Sheet with Favorites (Open-Source)",
       "https://nvim-cheatsheet.vercel.app/"
-    ]
-  ],
-  [
-    [
-      "2025-03-09, 09:13:44",
-      "https://news.ycombinator.com/item?id=43307489"
-    ],
-    [
-      "OpenAPK – open-source Apps for Android, updated weekly",
-      "https://www.openapk.net"
     ]
   ],
   [
@@ -227,6 +197,16 @@
     [
       "Virtual Punch Card Creator",
       "https://www.masswerk.at/keypunch/"
+    ]
+  ],
+  [
+    [
+      "2025-03-07, 19:19:43",
+      "https://news.ycombinator.com/item?id=43293370"
+    ],
+    [
+      "PSExcel: Excel automation without Excel Overview (2015)",
+      "http://ramblingcookiemonster.github.io/PSExcel-Intro/"
     ]
   ],
   [
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2025-03-06, 15:23:42",
+      "https://news.ycombinator.com/item?id=43281275"
+    ],
+    [
+      "Paper Review: Variational Lossy Auto-Encoders",
+      "https://theahura.substack.com/p/ilyas-30-papers-to-carmack-vlaes"
+    ]
+  ],
+  [
+    [
       "2025-03-06, 14:23:24",
       "https://news.ycombinator.com/item?id=43280517"
     ],
     [
       "Exploring Polymorphism in C: Lessons from Linux and FFmpeg's Code Design (2019)",
       "https://leandromoreira.com/2019/08/02/linux-ffmpeg-source-internals-a-good-software-design/"
+    ]
+  ],
+  [
+    [
+      "2025-03-05, 16:09:26",
+      "https://news.ycombinator.com/item?id=43268477"
+    ],
+    [
+      "16-Bit to 1-Bit: Visual KV Cache Quantization for Efficient Multimodal LLMs",
+      "https://arxiv.org/abs/2502.14882"
     ]
   ]
 ]
