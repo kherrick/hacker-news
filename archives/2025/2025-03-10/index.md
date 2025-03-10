@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-10](index.md)
 
+* [2025-03-10, 19:39:42](https://news.ycombinator.com/item?id=43325019) - [We've been wrong about math for 2300 years](https://davidbessis.substack.com/p/weve-been-wrong-about-math-for-2300)
 * [2025-03-10, 19:25:49](https://news.ycombinator.com/item?id=43324827) - [America Is Under Siege by a Surprising Force: Losers](https://slate.com/news-and-politics/2025/03/trump-elon-musk-doge-spacex-approval-tariffs.html)
 * [2025-03-10, 18:41:47](https://news.ycombinator.com/item?id=43324220) - [I quit my FAANG job because it'll be automated by the end of the year (2025)](https://jagilley.github.io/faang-blog.html)
 * [2025-03-10, 18:39:28](https://news.ycombinator.com/item?id=43324157) - [Tesla shares plunge 14%, head for worst day in five years](https://www.cnbc.com/2025/03/10/tesla-shares-plunge-14percent-head-for-worst-day-in-five-years.html)
@@ -15,6 +16,7 @@
 * [2025-03-10, 18:16:26](https://news.ycombinator.com/item?id=43323755) - [People are just as bad as my LLMs](https://wilsoniumite.com/2025/03/10/people-are-just-as-bad-as-my-llms/)
 * [2025-03-10, 18:15:34](https://news.ycombinator.com/item?id=43323738) - [Study finds bullies have more children than non-bullies](https://phys.org/news/2025-02-bullies-children.html)
 * [2025-03-10, 18:11:18](https://news.ycombinator.com/item?id=43323652) - [Wall Street sell-off turns 'ugly' as US recession fears grow](https://www.independent.co.uk/business/wall-street-selloff-turns-ugly-as-us-recession-fears-grow-b2712420.html)
+* [2025-03-10, 18:04:51](https://news.ycombinator.com/item?id=43323519) - [Washington Post editor resigns after accusing CEO of killing column](https://www.nbcnews.com/news/us-news/washington-post-editor-ruth-marcus-resigns-accusing-ceo-killing-column-rcna195634)
 * [2025-03-10, 18:02:49](https://news.ycombinator.com/item?id=43323485) - [DOJ: Google must sell Chrome, Android could be next](https://arstechnica.com/google/2025/03/doj-google-must-sell-chrome-android-could-be-next/)
 * [2025-03-10, 17:40:40](https://news.ycombinator.com/item?id=43323071) - [Software-Defined Radio for Engineers (2018) [pdf]](https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf)
 * [2025-03-10, 17:30:34](https://news.ycombinator.com/item?id=43322922) - [uBlock Origin is no longer available on the Chrome Store](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
