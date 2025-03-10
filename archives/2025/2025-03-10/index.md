@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-03-10](index.md)
 
+* [2025-03-10, 07:54:24](https://news.ycombinator.com/item?id=43317954) - [Another late-night Claude Code post](https://twitter.com/Steve_Yegge/status/1898993080931611112)
+* [2025-03-10, 07:01:42](https://news.ycombinator.com/item?id=43317678) - [Stack Traces Are Underrated](https://www.karl.berlin/stacktraces.html)
 * [2025-03-10, 07:01:35](https://news.ycombinator.com/item?id=43317677) - [Contra Chrome: How Google's browser became a threat to privacy and democracy](https://contrachrome.com)
 * [2025-03-10, 06:58:34](https://news.ycombinator.com/item?id=43317667) - [Ask HN: With trust in Firefox gone, is Chrome-ish the only option?](https://news.ycombinator.com/item?id=43317667)
 * [2025-03-10, 06:44:27](https://news.ycombinator.com/item?id=43317592) - [Performance of the Python 3.14 tail-call interpreter](https://blog.nelhage.com/post/cpython-tail-call/)
 * [2025-03-10, 06:01:18](https://news.ycombinator.com/item?id=43317406) - [Llama.cpp AI Performance with the GeForce RTX 5090 Review](https://www.phoronix.com/review/nvidia-rtx5090-llama-cpp)
+* [2025-03-10, 05:30:28](https://news.ycombinator.com/item?id=43317269) - [AI is becoming 'yes-men on servers'](https://twitter.com/Thom_Wolf/status/1897630495527104932)
 * [2025-03-10, 04:20:02](https://news.ycombinator.com/item?id=43316979) - [A bear case: predictions regarding AI](https://www.lesswrong.com/posts/oKAFFvaouKKEhbBPm/a-bear-case-my-predictions-regarding-ai-progress)
 * [2025-03-10, 04:04:48](https://news.ycombinator.com/item?id=43316912) - [Optimal brain process requires balance between excitatory and inhibitory neurons](https://phys.org/news/2025-03-optimal-brain-requires-excitatory-inhibitory.html)
 * [2025-03-10, 03:25:07](https://news.ycombinator.com/item?id=43316724) - ['Nobody will trust a US treaty again,' and the yen is new safe haven](https://fortune.com/2025/03/09/us-treaty-nato-ukraine-russia-trump-japan-yen-safe-haven-dedollarization/)
