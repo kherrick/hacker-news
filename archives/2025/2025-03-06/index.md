@@ -29,6 +29,7 @@
 * [2025-03-06, 18:34:11](https://news.ycombinator.com/item?id=43283498) - [50 Years in Filesystems: 1984](https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html)
 * [2025-03-06, 18:24:37](https://news.ycombinator.com/item?id=43283367) - [Questions for William J. Rapaport](https://docs.google.com/forms/d/e/1FAIpQLScu0u_nW3S94CfrEGzaABprsGm322wVaBkiqF-ajkN_HVKHhQ/viewform?usp=header)
 * [2025-03-06, 18:20:48](https://news.ycombinator.com/item?id=43283317) - [Show HN: Open-source, native audio turn detection model](https://github.com/pipecat-ai/smart-turn)
+* [2025-03-06, 18:17:06](https://news.ycombinator.com/item?id=43283271) - [Pompey's Greatest Show on Earth](https://www.historytoday.com/archive/history-matters/pompeys-greatest-show-earth)
 * [2025-03-06, 18:12:26](https://news.ycombinator.com/item?id=43283214) - [Japan's Clever Anti-Snow Roadways](https://www.core77.com/posts/135763/Japans-Clever-Anti-Snow-Roadways)
 * [2025-03-06, 18:08:24](https://news.ycombinator.com/item?id=43283178) - [Atlassian announces end of support for Opsgenie](https://www.atlassian.com/blog/announcements/evolution-of-it-operations)
 * [2025-03-06, 17:48:37](https://news.ycombinator.com/item?id=43282995) - [Succinct Data Structures](https://blog.startifact.com/posts/succinct/)
