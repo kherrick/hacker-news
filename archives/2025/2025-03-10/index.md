@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-10](index.md)
 
+* [2025-03-10, 14:25:52](https://news.ycombinator.com/item?id=43321023) - [NIH will eliminate many peer review panels, lay off scientists overseeing them](https://www.science.org/content/article/nih-will-eliminate-many-peer-review-panels-and-lay-some-scientists-overseeing-them)
 * [2025-03-10, 13:36:47](https://news.ycombinator.com/item?id=43320458) - [Investors Want a Piece of DeepSeek. Its Founder Says Not Now](https://www.wsj.com/tech/ai/investors-want-a-piece-of-deepseek-its-founder-says-not-now-24e9f799)
 * [2025-03-10, 13:24:40](https://news.ycombinator.com/item?id=43320344) - [Pixel 4a battery update due to overheating risk, per Australian 'recall' notice](https://9to5google.com/2025/03/10/pixel-4a-battery-recall/)
 * [2025-03-10, 13:12:38](https://news.ycombinator.com/item?id=43320230) - [Canon EF and RF Lenses – All Autofocus Motors](https://exclusivearchitecture.com/03-technical-articles-CLT-12-autofocus-systems.html)
