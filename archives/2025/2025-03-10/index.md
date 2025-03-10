@@ -6,6 +6,8 @@
 
 * [2025-03-10, 18:41:47](https://news.ycombinator.com/item?id=43324220) - [I quit my FAANG job because it'll be automated by the end of the year (2025)](https://jagilley.github.io/faang-blog.html)
 * [2025-03-10, 18:29:00](https://news.ycombinator.com/item?id=43323974) - [What We've Learned from 150 Years of Stock Market Crashes](https://www.morningstar.com/economy/what-weve-learned-150-years-stock-market-crashes)
+* [2025-03-10, 18:27:32](https://news.ycombinator.com/item?id=43323946) - [Mathematical Foundations of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
+* [2025-03-10, 18:15:34](https://news.ycombinator.com/item?id=43323738) - [Study finds bullies have more children than non-bullies](https://phys.org/news/2025-02-bullies-children.html)
 * [2025-03-10, 18:11:18](https://news.ycombinator.com/item?id=43323652) - [Wall Street sell-off turns 'ugly' as US recession fears grow](https://www.independent.co.uk/business/wall-street-selloff-turns-ugly-as-us-recession-fears-grow-b2712420.html)
 * [2025-03-10, 18:02:49](https://news.ycombinator.com/item?id=43323485) - [DOJ: Google must sell Chrome, Android could be next](https://arstechnica.com/google/2025/03/doj-google-must-sell-chrome-android-could-be-next/)
 * [2025-03-10, 17:40:40](https://news.ycombinator.com/item?id=43323071) - [Software-Defined Radio for Engineers (2018) [pdf]](https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf)
