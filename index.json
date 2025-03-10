@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-10, 06:01:18",
+      "https://news.ycombinator.com/item?id=43317406"
+    ],
+    [
+      "Llama.cpp AI Performance with the GeForce RTX 5090 Review",
+      "https://www.phoronix.com/review/nvidia-rtx5090-llama-cpp"
+    ]
+  ],
+  [
+    [
       "2025-03-10, 04:20:02",
       "https://news.ycombinator.com/item?id=43316979"
     ],
@@ -17,16 +27,6 @@
     [
       "Optimal brain process requires balance between excitatory and inhibitory neurons",
       "https://phys.org/news/2025-03-optimal-brain-requires-excitatory-inhibitory.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-10, 02:54:37",
-      "https://news.ycombinator.com/item?id=43316556"
-    ],
-    [
-      "Free95: An open-source Windows-compatible operating system",
-      "https://github.com/Versoft-Software/Free95"
     ]
   ],
   [
@@ -87,16 +87,6 @@
     [
       "Apple Exclaves",
       "https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194"
-    ]
-  ],
-  [
-    [
-      "2025-03-09, 21:02:47",
-      "https://news.ycombinator.com/item?id=43313781"
-    ],
-    [
-      "Scientists discover an RNA that repairs DNA damage",
-      "https://scitechdaily.com/scientists-just-discovered-an-rna-that-repairs-dna-damage-and-its-a-game-changer/"
     ]
   ],
   [
@@ -177,6 +167,16 @@
     [
       "Improving on std:count_if()'s auto-vectorization",
       "https://nicula.xyz/2025/03/08/improving-stdcountif-vectorization.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-07, 21:15:10",
+      "https://news.ycombinator.com/item?id=43294751"
+    ],
+    [
+      "Virtual Punch Card Creator",
+      "https://www.masswerk.at/keypunch/"
     ]
   ],
   [
