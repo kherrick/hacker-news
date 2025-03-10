@@ -1,22 +1,22 @@
 [
   [
     [
-      "2025-03-10, 21:56:12",
-      "https://news.ycombinator.com/item?id=43326554"
-    ],
-    [
-      "Leningrad-1: a 44-IC Soviet style ZX-Spectrum clone",
-      "https://alex-j-lowry.github.io/leningrd.html"
-    ]
-  ],
-  [
-    [
       "2025-03-10, 21:24:06",
       "https://news.ycombinator.com/item?id=43326275"
     ],
     [
       "What made the Irish famine so deadly",
       "https://www.newyorker.com/magazine/2025/03/17/rot-padraic-x-scanlan-book-review"
+    ]
+  ],
+  [
+    [
+      "2025-03-10, 19:29:53",
+      "https://news.ycombinator.com/item?id=43324887"
+    ],
+    [
+      "Ancient ocean coastal deposits imaged on Mars",
+      "https://www.pnas.org/doi/10.1073/pnas.2422213122"
     ]
   ],
   [
@@ -117,16 +117,6 @@
     [
       "Show HN: In-Browser Graph RAG with Kuzu-WASM and WebLLM",
       "https://blog.kuzudb.com/post/kuzu-wasm-rag/"
-    ]
-  ],
-  [
-    [
-      "2025-03-10, 14:36:48",
-      "https://news.ycombinator.com/item?id=43321145"
-    ],
-    [
-      "YouTube DRM added on ALL videos with TV (TVHTML5) clients",
-      "https://github.com/yt-dlp/yt-dlp/issues/12563"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "The Einstein AI Model",
       "https://thomwolf.io/blog/scientific-ai.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-08, 00:42:22",
+      "https://news.ycombinator.com/item?id=43296422"
+    ],
+    [
+      "Separation of Concerns in a Bug Tracker",
+      "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/bugtracker-separate/"
     ]
   ],
   [
