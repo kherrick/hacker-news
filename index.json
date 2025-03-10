@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=43326275"
     ],
     [
-      "What Made the Irish Famine So Deadly",
+      "What made the Irish famine so deadly",
       "https://www.newyorker.com/magazine/2025/03/17/rot-padraic-x-scanlan-book-review"
     ]
   ],
@@ -17,6 +17,16 @@
     [
       "Ancient ocean coastal deposits imaged on Mars",
       "https://www.pnas.org/doi/10.1073/pnas.2422213122"
+    ]
+  ],
+  [
+    [
+      "2025-03-10, 18:32:22",
+      "https://news.ycombinator.com/item?id=43324040"
+    ],
+    [
+      "British tourist detained by US authorities for 10 days over visa issue",
+      "https://www.theguardian.com/uk-news/2025/mar/10/british-tourist-detained-us-authorities-10-days-visa-issue"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "3dfx: So powerful, it's kind of ridiculous (2023)",
       "https://www.abortretry.fail/p/so-powerful-its-kind-of-ridiculous"
-    ]
-  ],
-  [
-    [
-      "2025-03-06, 14:23:24",
-      "https://news.ycombinator.com/item?id=43280517"
-    ],
-    [
-      "Exploring Polymorphism in C: Lessons from Linux and FFmpeg's Code Design (2019)",
-      "https://leandromoreira.com/2019/08/02/linux-ffmpeg-source-internals-a-good-software-design/"
     ]
   ]
 ]
