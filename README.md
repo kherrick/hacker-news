@@ -12,7 +12,6 @@
 * [2025-03-09, 23:00:25](https://news.ycombinator.com/item?id=43314851) - [Vilhelm Hammershøi: the eminence in greys](https://www.richardmorris.org/blog-1-1/vilhelm-hammershi-the-eminence-in-greys)
 * [2025-03-09, 22:53:19](https://news.ycombinator.com/item?id=43314781) - [Tesla created secret team to suppress driving range complaints (2023)](https://www.reuters.com/investigates/special-report/tesla-batteries-range/)
 * [2025-03-09, 22:38:57](https://news.ycombinator.com/item?id=43314657) - [Apple Exclaves](https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194)
-* [2025-03-09, 20:55:48](https://news.ycombinator.com/item?id=43313706) - [Wine Releases Framework Mono 6.14 in Taking over the Mono Project](https://www.phoronix.com/news/Wine-Framework-Mono-6.14)
 * [2025-03-09, 17:40:38](https://news.ycombinator.com/item?id=43311573) - [Ecosia is teaming up with Qwant to build a European search index](https://blog.ecosia.org/eusp/)
 * [2025-03-09, 16:51:59](https://news.ycombinator.com/item?id=43310963) - [Show HN: Evolving Agents Framework](https://github.com/matiasmolinas/evolving-agents)
 * [2025-03-09, 13:40:35](https://news.ycombinator.com/item?id=43308994) - [It is as if you were on your phone](https://pippinbarr.com/it-is-as-if-you-were-on-your-phone/info/)
@@ -28,6 +27,7 @@
 * [2025-03-07, 12:55:02](https://news.ycombinator.com/item?id=43289774) - [Mysterious tunnels sketched by Leonardo may have been found](https://www.cnn.com/2025/03/01/science/leonardo-da-vinci-sforza-castle-tunnels/index.html)
 * [2025-03-07, 12:16:16](https://news.ycombinator.com/item?id=43289550) - [Bring Back Shortwave](https://www.spectator.co.uk/article/bring-back-shortwave/)
 * [2025-03-07, 11:16:57](https://news.ycombinator.com/item?id=43289247) - [Sublogic Flight Simulator](https://www.goto10retro.com/p/sublogic-flight-simulator)
+* [2025-03-06, 20:03:51](https://news.ycombinator.com/item?id=43284541) - [Investigating an argument-dependent lookup issue and working around it](https://devblogs.microsoft.com/oldnewthing/20250214-00/?p=110868)
 * [2025-03-06, 15:23:42](https://news.ycombinator.com/item?id=43281275) - [Paper Review: Variational Lossy Auto-Encoders](https://theahura.substack.com/p/ilyas-30-papers-to-carmack-vlaes)
 * [2025-03-06, 14:23:24](https://news.ycombinator.com/item?id=43280517) - [Exploring Polymorphism in C: Lessons from Linux and FFmpeg's Code Design (2019)](https://leandromoreira.com/2019/08/02/linux-ffmpeg-source-internals-a-good-software-design/)
 
