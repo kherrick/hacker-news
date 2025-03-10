@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-10](index.md)
 
+* [2025-03-10, 17:30:34](https://news.ycombinator.com/item?id=43322922) - [uBlock Origin is no longer available on the Chrome Store](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
 * [2025-03-10, 17:20:08](https://news.ycombinator.com/item?id=43322776) - [Wall Street stocks tumble as investors fret over US economic slowdown](https://www.ft.com/content/7f836a84-4fa5-4cd9-bcca-4e98d5a2e2a4)
 * [2025-03-10, 17:02:49](https://news.ycombinator.com/item?id=43322570) - [Generative AI Hype Peaking](https://bjornwestergard.com/generative-ai-hype-peaking/)
 * [2025-03-10, 16:56:08](https://news.ycombinator.com/item?id=43322496) - [Does Visual Studio Rot the Mind? (2005)](https://charlespetzold.com/etc/DoesVisualStudioRotTheMind.html)
@@ -22,6 +23,7 @@
 * [2025-03-10, 13:12:38](https://news.ycombinator.com/item?id=43320230) - [Canon EF and RF Lenses – All Autofocus Motors](https://exclusivearchitecture.com/03-technical-articles-CLT-12-autofocus-systems.html)
 * [2025-03-10, 13:06:51](https://news.ycombinator.com/item?id=43320181) - [Polymorphic Chrome Extensions Impersonate Password Managers to Steal Credentials](https://cyberinsider.com/polymorphic-chrome-extensions-impersonate-password-managers-to-steal-credentials/)
 * [2025-03-10, 13:05:54](https://news.ycombinator.com/item?id=43320177) - [We built a crowdsourced interview question database for tech interviews](https://www.interviewdb.io)
+* [2025-03-10, 12:48:32](https://news.ycombinator.com/item?id=43320024) - [Zero-Downtime Kubernetes Deployments on AWS with EKS](https://glasskube.dev/blog/kubernetes-zero-downtime-deployments-aws-eks/)
 * [2025-03-10, 12:29:33](https://news.ycombinator.com/item?id=43319875) - [Quantum Milestones, 1964: John Stewart Bell Rings in New Era of Quantum Theory (2022)](https://physics.aps.org/articles/v18/53)
 * [2025-03-10, 12:00:58](https://news.ycombinator.com/item?id=43319611) - [FurtherAI (YC W24) Is Hiring](https://www.ycombinator.com/companies/furtherai/jobs)
 * [2025-03-10, 10:23:31](https://news.ycombinator.com/item?id=43318842) - [Real Chilling Effects](https://donmoynihan.substack.com/p/real-chilling-effects)
