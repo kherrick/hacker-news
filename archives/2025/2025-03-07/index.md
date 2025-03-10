@@ -55,6 +55,7 @@
 * [2025-03-07, 15:25:13](https://news.ycombinator.com/item?id=43290892) - [Betting on the Pope was the original prediction market](https://nodumbideas.com/p/betting-on-the-pope-was-the-original)
 * [2025-03-07, 15:00:49](https://news.ycombinator.com/item?id=43290704) - [Nomars: No Manning Required Ship](https://www.darpa.mil/research/programs/no-manning-required-ship)
 * [2025-03-07, 14:43:24](https://news.ycombinator.com/item?id=43290555) - [Strobelight: A profiling service built on open source technology](https://engineering.fb.com/2025/01/21/production-engineering/strobelight-a-profiling-service-built-on-open-source-technology/)
+* [2025-03-07, 14:38:41](https://news.ycombinator.com/item?id=43290516) - [Help Me Help You, Maintainers](https://matduggan.com/help-me-help-you-maintainers/)
 * [2025-03-07, 14:36:50](https://news.ycombinator.com/item?id=43290498) - [How to Build a Thousand-Year-Old Tree](https://www.noemamag.com/how-to-build-a-thousand-year-old-tree/)
 * [2025-03-07, 14:24:33](https://news.ycombinator.com/item?id=43290408) - [How Monero Fulfilled Satoshi's Promise](https://zola.ink/blog/posts/how-monero-fulfilled-satoshis-promies)
 * [2025-03-07, 13:31:46](https://news.ycombinator.com/item?id=43289994) - [Planes are having their GPS hacked. Could new clocks keep them safe?](https://www.bbc.com/news/articles/cq6yg204pvmo)

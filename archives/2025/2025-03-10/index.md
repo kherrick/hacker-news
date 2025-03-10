@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-10](index.md)
 
+* [2025-03-10, 19:25:49](https://news.ycombinator.com/item?id=43324827) - [America Is Under Siege by a Surprising Force: Losers](https://slate.com/news-and-politics/2025/03/trump-elon-musk-doge-spacex-approval-tariffs.html)
 * [2025-03-10, 18:41:47](https://news.ycombinator.com/item?id=43324220) - [I quit my FAANG job because it'll be automated by the end of the year (2025)](https://jagilley.github.io/faang-blog.html)
 * [2025-03-10, 18:39:28](https://news.ycombinator.com/item?id=43324157) - [Tesla shares plunge 14%, head for worst day in five years](https://www.cnbc.com/2025/03/10/tesla-shares-plunge-14percent-head-for-worst-day-in-five-years.html)
 * [2025-03-10, 18:29:00](https://news.ycombinator.com/item?id=43323974) - [What We've Learned from 150 Years of Stock Market Crashes](https://www.morningstar.com/economy/what-weve-learned-150-years-stock-market-crashes)
