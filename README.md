@@ -23,11 +23,11 @@
 * [2025-03-09, 22:38:57](https://news.ycombinator.com/item?id=43314657) - [Apple Exclaves](https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194)
 * [2025-03-09, 17:40:38](https://news.ycombinator.com/item?id=43311573) - [Ecosia is teaming up with Qwant to build a European search index](https://blog.ecosia.org/eusp/)
 * [2025-03-09, 13:40:35](https://news.ycombinator.com/item?id=43308994) - [It is as if you were on your phone](https://pippinbarr.com/it-is-as-if-you-were-on-your-phone/info/)
+* [2025-03-09, 10:29:27](https://news.ycombinator.com/item?id=43307833) - [Sigint in Fiction](https://siginthistorian.blogspot.com/2025/02/sigint-in-fiction.html)
 * [2025-03-09, 05:04:05](https://news.ycombinator.com/item?id=43306435) - [A Post Mortem on the Gino Case](https://statmodeling.stat.columbia.edu/2025/03/08/a-post-mortem-on-the-gino-case-committing-fraud-is-right-now-a-viable-career-strategy-that-can-propel-you-at-the-top-of-the-academic-world/)
-* [2025-03-07, 15:28:24](https://news.ycombinator.com/item?id=43290919) - [Ancient human DNA recovered from a Palaeolithic pendant](https://www.nature.com/articles/s41586-023-06035-2)
+* [2025-03-08, 14:14:22](https://news.ycombinator.com/item?id=43300414) - [The Einstein AI Model](https://thomwolf.io/blog/scientific-ai.html)
 * [2025-03-07, 14:36:50](https://news.ycombinator.com/item?id=43290498) - [How to Build a Thousand-Year-Old Tree](https://www.noemamag.com/how-to-build-a-thousand-year-old-tree/)
 * [2025-03-07, 13:31:46](https://news.ycombinator.com/item?id=43289994) - [Planes are having their GPS hacked. Could new clocks keep them safe?](https://www.bbc.com/news/articles/cq6yg204pvmo)
-* [2025-03-07, 12:16:16](https://news.ycombinator.com/item?id=43289550) - [Bring Back Shortwave](https://www.spectator.co.uk/article/bring-back-shortwave/)
 * [2025-03-07, 04:07:18](https://news.ycombinator.com/item?id=43287327) - [3dfx, So powerful, it's kind of ridiculous (2023)](https://www.abortretry.fail/p/so-powerful-its-kind-of-ridiculous)
 * [2025-03-06, 14:23:24](https://news.ycombinator.com/item?id=43280517) - [Exploring Polymorphism in C: Lessons from Linux and FFmpeg's Code Design (2019)](https://leandromoreira.com/2019/08/02/linux-ffmpeg-source-internals-a-good-software-design/)
 

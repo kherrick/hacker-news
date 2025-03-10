@@ -52,6 +52,7 @@
 * [2025-03-09, 11:06:38](https://news.ycombinator.com/item?id=43307987) - [Gleam v1.9.0 Released](https://gleam.run/news/hello-echo-hello-git/)
 * [2025-03-09, 10:57:29](https://news.ycombinator.com/item?id=43307941) - [How to know when it's time to go](https://bitfieldconsulting.com/posts/when-its-time-to-go)
 * [2025-03-09, 10:55:39](https://news.ycombinator.com/item?id=43307933) - [This blog post passed unit tests](https://www.sealambda.com/blog/this-post-passed-unit-tests/)
+* [2025-03-09, 10:29:27](https://news.ycombinator.com/item?id=43307833) - [Sigint in Fiction](https://siginthistorian.blogspot.com/2025/02/sigint-in-fiction.html)
 * [2025-03-09, 10:20:50](https://news.ycombinator.com/item?id=43307809) - [I've been using Claude Code for a couple of days](https://twitter.com/Steve_Yegge/status/1898674257808515242)
 * [2025-03-09, 10:07:01](https://news.ycombinator.com/item?id=43307755) - [Why Layoffs Don't Work](https://thehustle.co/originals/why-layoffs-dont-work)
 * [2025-03-09, 10:05:52](https://news.ycombinator.com/item?id=43307745) - [Show HN: Searchable Vim Cheat Sheet with Favorites (Open-Source)](https://nvim-cheatsheet.vercel.app/)

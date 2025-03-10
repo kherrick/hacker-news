@@ -36,6 +36,7 @@
 * [2025-03-08, 15:49:47](https://news.ycombinator.com/item?id=43301096) - [Phenakistiscope](https://en.wikipedia.org/wiki/Phenakistiscope)
 * [2025-03-08, 15:18:25](https://news.ycombinator.com/item?id=43300878) - [AI 'wingmen' bots to write profiles and flirt on dating apps](https://www.theguardian.com/lifeandstyle/2025/mar/08/ai-wingmen-bots-to-write-profiles-and-flirt-on-dating-apps)
 * [2025-03-08, 14:31:23](https://news.ycombinator.com/item?id=43300528) - [The program is the database is the interface](https://www.scattered-thoughts.net/writing/the-program-is-the-database-is-the-interface/)
+* [2025-03-08, 14:14:22](https://news.ycombinator.com/item?id=43300414) - [The Einstein AI Model](https://thomwolf.io/blog/scientific-ai.html)
 * [2025-03-08, 13:57:21](https://news.ycombinator.com/item?id=43300285) - [Stanford scientists discover new Ozempic alternative with RegEx](https://twitter.com/lauriewired/status/1898149987890217033)
 * [2025-03-08, 13:26:17](https://news.ycombinator.com/item?id=43300081) - [AI Thinks It Cracked Kryptos. The Artist Behind It Says No Chance](https://www.wired.com/story/plaintext-kryptos-code-artificial-intelligence/)
 * [2025-03-08, 13:23:30](https://news.ycombinator.com/item?id=43300062) - [Smaller but Better: Unifying Layout Generation with Smaller LLMs](https://arxiv.org/abs/2502.14005)
