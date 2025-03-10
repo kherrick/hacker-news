@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-10, 12:29:33",
+      "https://news.ycombinator.com/item?id=43319875"
+    ],
+    [
+      "Quantum Milestones, 1964: John Stewart Bell Rings in New Era of Quantum Theory (2022)",
+      "https://physics.aps.org/articles/v18/53"
+    ]
+  ],
+  [
+    [
       "2025-03-10, 12:00:58",
       "https://news.ycombinator.com/item?id=43319611"
     ],
@@ -57,16 +67,6 @@
     [
       "Llama.cpp AI Performance with the GeForce RTX 5090 Review",
       "https://www.phoronix.com/review/nvidia-rtx5090-llama-cpp"
-    ]
-  ],
-  [
-    [
-      "2025-03-10, 04:20:02",
-      "https://news.ycombinator.com/item?id=43316979"
-    ],
-    [
-      "A bear case: My predictions regarding AI progress",
-      "https://www.lesswrong.com/posts/oKAFFvaouKKEhbBPm/a-bear-case-my-predictions-regarding-ai-progress"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2025-03-07, 13:31:46",
+      "https://news.ycombinator.com/item?id=43289994"
+    ],
+    [
+      "Planes are having their GPS hacked. Could new clocks keep them safe?",
+      "https://www.bbc.com/news/articles/cq6yg204pvmo"
+    ]
+  ],
+  [
+    [
       "2025-03-07, 13:30:08",
       "https://news.ycombinator.com/item?id=43289990"
     ],
@@ -287,16 +297,6 @@
     [
       "Exploring Polymorphism in C: Lessons from Linux and FFmpeg's Code Design (2019)",
       "https://leandromoreira.com/2019/08/02/linux-ffmpeg-source-internals-a-good-software-design/"
-    ]
-  ],
-  [
-    [
-      "2025-03-05, 16:09:26",
-      "https://news.ycombinator.com/item?id=43268477"
-    ],
-    [
-      "16-Bit to 1-Bit: Visual KV Cache Quantization for Efficient Multimodal LLMs",
-      "https://arxiv.org/abs/2502.14882"
     ]
   ]
 ]
