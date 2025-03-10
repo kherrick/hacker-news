@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-10](index.md)
 
+* [2025-03-10, 21:56:12](https://news.ycombinator.com/item?id=43326554) - [Leningrad-1: a 44-IC Soviet style ZX-Spectrum clone](https://alex-j-lowry.github.io/leningrd.html)
 * [2025-03-10, 21:24:06](https://news.ycombinator.com/item?id=43326275) - [What Made the Irish Famine So Deadly](https://www.newyorker.com/magazine/2025/03/17/rot-padraic-x-scanlan-book-review)
 * [2025-03-10, 19:39:42](https://news.ycombinator.com/item?id=43325019) - [We've been wrong about math for 2300 years](https://davidbessis.substack.com/p/weve-been-wrong-about-math-for-2300)
 * [2025-03-10, 19:29:53](https://news.ycombinator.com/item?id=43324887) - [Ancient ocean coastal deposits imaged on Mars](https://www.pnas.org/doi/10.1073/pnas.2422213122)
