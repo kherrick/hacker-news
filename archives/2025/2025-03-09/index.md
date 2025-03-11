@@ -46,6 +46,7 @@
 * [2025-03-09, 13:40:35](https://news.ycombinator.com/item?id=43308994) - [It is as if you were on your phone](http://pippinbarr.com/it-is-as-if-you-were-on-your-phone/info/)
 * [2025-03-09, 13:00:42](https://news.ycombinator.com/item?id=43308740) - [The ESP32 \"backdoor\" that wasn't](https://darkmentor.com/blog/esp32_non-backdoor/)
 * [2025-03-09, 12:01:11](https://news.ycombinator.com/item?id=43308332) - [Helpcare AI (YC F24) Fullstack Engineer](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview)
+* [2025-03-09, 11:56:13](https://news.ycombinator.com/item?id=43308296) - [How Facebook Marketplace is keeping young people on the platform](https://www.cnbc.com/2025/03/08/how-facebook-marketplace-is-keeping-young-people-on-the-platform-.html)
 * [2025-03-09, 11:51:36](https://news.ycombinator.com/item?id=43308259) - [Compiling C++ with the Clang API](https://maskray.me/blog/2025-03-09-compiling-c++-with-clang-api)
 * [2025-03-09, 11:29:46](https://news.ycombinator.com/item?id=43308111) - [Kubernetes Home – what do you do if your ISP changes your IP addresses?](https://vegard.blog.engen.priv.no/?p=423)
 * [2025-03-09, 11:15:12](https://news.ycombinator.com/item?id=43308033) - [Why Go's Error Handling Is Awesome](https://rauljordan.com/why-go-error-handling-is-awesome/)
