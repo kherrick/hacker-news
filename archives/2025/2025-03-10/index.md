@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-10](index.md)
 
+* [2025-03-10, 23:29:18](https://news.ycombinator.com/item?id=43327395) - [A 19yo woman graduated from high school with honors even though she can't read](https://www.ky3.com/2025/02/28/former-high-school-honors-student-who-says-she-cant-read-write-sues-district-where-she-graduated/)
 * [2025-03-10, 23:03:20](https://news.ycombinator.com/item?id=43327155) - [You suck at CSS (and that's okay)[2022]](https://rexriepe.com/yousuckatcss/)
 * [2025-03-10, 22:54:55](https://news.ycombinator.com/item?id=43327071) - [US Green-Card Holder and Columbia Student Arrested by ICE for Protest](https://www.reuters.com/world/us/us-authorities-arrest-palestinian-student-protester-columbia-university-students-2025-03-09/)
 * [2025-03-10, 22:45:31](https://news.ycombinator.com/item?id=43326982) - [The shrouded sinister history of the bulldozer](https://www.noemamag.com/the-shrouded-sinister-history-of-the-bulldozer/)
