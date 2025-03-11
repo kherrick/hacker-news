@@ -26,9 +26,9 @@
 * [2025-03-11, 10:07:17](https://news.ycombinator.com/item?id=43330900) - [What makes code hard to read: Visual patterns of complexity (2023)](https://seeinglogic.com/posts/visual-readability-patterns/)
 * [2025-03-11, 07:51:32](https://news.ycombinator.com/item?id=43330164) - [Local Deep Research – ArXiv, wiki and other searches included](https://github.com/LearningCircuit/local-deep-research)
 * [2025-03-11, 01:05:10](https://news.ycombinator.com/item?id=43328095) - [Show HN: Seven39, a social media app that is only open for 3 hours every evening](https://www.seven39.com)
-* [2025-03-11, 00:11:33](https://news.ycombinator.com/item?id=43327730) - [Bending Spacetime in the Basement (1997)](https://www.fourmilab.ch/gravitation/foobar/)
 * [2025-03-10, 07:42:24](https://news.ycombinator.com/item?id=43317889) - [Snapshots of Modern Mathematics from Oberwolfach](https://www.imaginary.org/snapshots)
 * [2025-03-09, 03:15:51](https://news.ycombinator.com/item?id=43305842) - [In contrast to Earth, Mars's middle atmosphere appears driven by gravity waves](https://phys.org/news/2025-03-contrast-earth-mars-middle-atmosphere.html)
+* [2025-03-08, 18:48:23](https://news.ycombinator.com/item?id=43302436) - [Smart researchers pioneer nanosensor for real-time iron detection in plants](https://news.mit.edu/2025/smart-researchers-pioneer-nanosensor-real-time-iron-detection-plants-0306)
 * [2025-03-08, 00:07:15](https://news.ycombinator.com/item?id=43296184) - [NASA to launch space observatory that will map 450M galaxies](https://www.nbcnews.com/science/space/nasa-spherex-space-observatory-launch-map-galaxies-universe-rcna190877)
 
 ## [Archives](archives/index.md)
