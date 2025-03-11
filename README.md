@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-11, 22:18:42](https://news.ycombinator.com/item?id=43337703) - [The Startup CTO's Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md)
 * [2025-03-11, 21:30:59](https://news.ycombinator.com/item?id=43337220) - [Unix Needs a True Integrated Environment: CASE Closed (1989) [pdf]](http://www.bitsavers.org/pdf/xerox/parc/techReports/CSL-89-4_UNIX_Needs_A_True_Integrated_Environment.pdf)
 * [2025-03-11, 21:01:39](https://news.ycombinator.com/item?id=43336957) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2025-03-11, 20:50:39](https://news.ycombinator.com/item?id=43336872) - [India's Battle to Control the Democracy Narrative](https://www.theplankmag.com/india-democracy-narrative)
@@ -27,6 +26,7 @@
 * [2025-03-11, 01:05:10](https://news.ycombinator.com/item?id=43328095) - [Show HN: Seven39, a social media app that is only open for 3 hours every evening](https://www.seven39.com)
 * [2025-03-10, 07:42:24](https://news.ycombinator.com/item?id=43317889) - [Snapshots of Modern Mathematics from Oberwolfach](https://www.imaginary.org/snapshots)
 * [2025-03-09, 03:15:51](https://news.ycombinator.com/item?id=43305842) - [In contrast to Earth, Mars's middle atmosphere appears driven by gravity waves](https://phys.org/news/2025-03-contrast-earth-mars-middle-atmosphere.html)
+* [2025-03-08, 20:58:34](https://news.ycombinator.com/item?id=43303448) - [Microsoft Windows 1.0 with Steve Ballmer (1986)](https://www.youtube.com/watch?v=EtuDS0ntaJY)
 * [2025-03-08, 18:48:23](https://news.ycombinator.com/item?id=43302436) - [Smart researchers pioneer nanosensor for real-time iron detection in plants](https://news.mit.edu/2025/smart-researchers-pioneer-nanosensor-real-time-iron-detection-plants-0306)
 * [2025-03-08, 08:57:10](https://news.ycombinator.com/item?id=43298663) - [Ask HN: How do you handle VAT / Sales Tax accounting as B2C SaaS?](https://news.ycombinator.com/item?id=43298663)
 * [2025-03-08, 00:07:15](https://news.ycombinator.com/item?id=43296184) - [NASA to launch space observatory that will map 450M galaxies](https://www.nbcnews.com/science/space/nasa-spherex-space-observatory-launch-map-galaxies-universe-rcna190877)
