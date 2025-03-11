@@ -7,6 +7,7 @@
 * [2025-03-11, 05:59:00](https://news.ycombinator.com/item?id=43329580) - [A succinct email in just a subject line](https://rubenerd.com/a-succinct-email-in-just-a-subject-line/)
 * [2025-03-11, 05:30:45](https://news.ycombinator.com/item?id=43329427) - [A Supersolid Made Using Photons](https://www.photonicsonline.com/doc/a-super-solid-made-using-pho-tons-0001)
 * [2025-03-11, 05:19:50](https://news.ycombinator.com/item?id=43329373) - [Extreme poverty in India is now negligible, without an industrial miracle](https://www.economist.com/finance-and-economics/2025/02/27/india-has-undermined-a-popular-myth-about-development)
+* [2025-03-11, 05:14:22](https://news.ycombinator.com/item?id=43329344) - [Nasdaq halts high-speed trading service after regulatory pressure](https://www.ft.com/content/d062eb67-4fa7-4b72-bbf8-6cb27bef2202)
 * [2025-03-11, 05:08:33](https://news.ycombinator.com/item?id=43329320) - [Cloudflare blocking Pale Moon and other browsers](https://www.theregister.com/2025/03/04/cloudflare_blocking_niche_browsers/)
 * [2025-03-11, 04:56:33](https://news.ycombinator.com/item?id=43329261) - [Leopards, Faces, etc.](https://blog.plover.com/politics/mangione.html)
 * [2025-03-11, 04:41:08](https://news.ycombinator.com/item?id=43329203) - [GitHub is currently merging PRs in the UI with the wrong merge method](https://github.com/orgs/community/discussions/153620)
