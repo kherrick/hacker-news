@@ -54,6 +54,7 @@
 * [2025-03-07, 15:28:24](https://news.ycombinator.com/item?id=43290919) - [Ancient human DNA recovered from a Palaeolithic pendant](https://www.nature.com/articles/s41586-023-06035-2)
 * [2025-03-07, 15:25:13](https://news.ycombinator.com/item?id=43290892) - [Betting on the Pope was the original prediction market](https://nodumbideas.com/p/betting-on-the-pope-was-the-original)
 * [2025-03-07, 15:00:49](https://news.ycombinator.com/item?id=43290704) - [Nomars: No Manning Required Ship](https://www.darpa.mil/research/programs/no-manning-required-ship)
+* [2025-03-07, 14:50:09](https://news.ycombinator.com/item?id=43290620) - [Bel in Clojure (2022)](https://stopa.io/post/290)
 * [2025-03-07, 14:43:24](https://news.ycombinator.com/item?id=43290555) - [Strobelight: A profiling service built on open source technology](https://engineering.fb.com/2025/01/21/production-engineering/strobelight-a-profiling-service-built-on-open-source-technology/)
 * [2025-03-07, 14:38:41](https://news.ycombinator.com/item?id=43290516) - [Help Me Help You, Maintainers](https://matduggan.com/help-me-help-you-maintainers/)
 * [2025-03-07, 14:36:50](https://news.ycombinator.com/item?id=43290498) - [How to Build a Thousand-Year-Old Tree](https://www.noemamag.com/how-to-build-a-thousand-year-old-tree/)
