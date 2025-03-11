@@ -27,9 +27,9 @@
 * [2025-03-08, 10:06:01](https://news.ycombinator.com/item?id=43298945) - [Asking LLMs to create my game Shepard's Dog](https://github.com/vnglst/when-ai-fails/blob/main/shepards-dog/README.md)
 * [2025-03-08, 04:42:58](https://news.ycombinator.com/item?id=43297563) - [Take a Cold Bath](https://www.lrb.co.uk/the-paper/v47/n04/lucy-wooding/take-a-cold-bath)
 * [2025-03-07, 14:50:09](https://news.ycombinator.com/item?id=43290620) - [Bel in Clojure (2022)](https://stopa.io/post/290)
+* [2025-03-07, 13:31:46](https://news.ycombinator.com/item?id=43289994) - [Planes are having their GPS hacked. Could new clocks keep them safe?](https://www.bbc.com/news/articles/cq6yg204pvmo)
 * [2025-03-07, 09:42:03](https://news.ycombinator.com/item?id=43288691) - [Arranging invisible icons in quadratic time (2021)](https://randomascii.wordpress.com/2021/02/16/arranging-invisible-icons-in-quadratic-time/)
 * [2025-03-07, 08:54:00](https://news.ycombinator.com/item?id=43288410) - [HyperShell X Outdoor PowerSuit Exoskeleton](https://hypershell.tech/en-us)
-* [2025-03-07, 04:07:18](https://news.ycombinator.com/item?id=43287327) - [3dfx: So powerful, it's kind of ridiculous (2023)](https://www.abortretry.fail/p/so-powerful-its-kind-of-ridiculous)
 
 ## [Archives](archives/index.md)
 
