@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-11, 17:21:09](https://news.ycombinator.com/item?id=43334830) - [Why Go?](https://github.com/microsoft/typescript-go/discussions/411)
 * [2025-03-11, 17:00:46](https://news.ycombinator.com/item?id=43334589) - [Launch HN: Sift Dev (YC W25) – AI-Powered Datadog Alternative](https://news.ycombinator.com/item?id=43334589)
 * [2025-03-11, 17:00:36](https://news.ycombinator.com/item?id=43334587) - [Legion Health (YC S21) is hiring an AI/ML Engineer](https://www.ycombinator.com/companies/legion-health/jobs/26GxO6f-ai-ml-engineer-llm-optimization-ai-driven-workflows)
-* [2025-03-11, 16:33:28](https://news.ycombinator.com/item?id=43334192) - [Show HN: Program Explorer](https://programexplorer.org/)
+* [2025-03-11, 16:33:28](https://news.ycombinator.com/item?id=43334192) - [Show HN: Program Explorer, a container playground](https://programexplorer.org/)
 * [2025-03-11, 16:33:24](https://news.ycombinator.com/item?id=43334190) - [Fastplotlib: Driving scientific discovery through data visualization](https://medium.com/@caitlin9165/fastplotlib-driving-scientific-discovery-through-data-visualization-418f8bff094c)
 * [2025-03-11, 16:12:43](https://news.ycombinator.com/item?id=43333946) - [Show HN: Krep a High-Performance String Search Utility Written in C](https://davidesantangelo.github.io/krep/)
 * [2025-03-11, 15:32:46](https://news.ycombinator.com/item?id=43333484) - [AI-Generated Voice Evidence Poses Dangers in Court](https://www.lawfaremedia.org/article/ai-generated-voice-evidence-poses-dangers-in-court)
@@ -13,7 +14,6 @@
 * [2025-03-11, 14:24:48](https://news.ycombinator.com/item?id=43332752) - [The US island that speaks Elizabethan English](https://www.bbc.com/travel/article/20190623-the-us-island-that-speaks-elizabethan-english)
 * [2025-03-11, 14:14:35](https://news.ycombinator.com/item?id=43332658) - [Happy 20th Birthday, Y Combinator](https://twitter.com/garrytan/status/1899092996702048709)
 * [2025-03-11, 13:50:22](https://news.ycombinator.com/item?id=43332424) - [Mapping the University of Chicago's 135-Year Expansion into Hyde Park and Beyond](https://chicagomaroon.github.io/data-visualizations/2025/uchicago-property/)
-* [2025-03-11, 12:54:22](https://news.ycombinator.com/item?id=43331940) - [Show HN: iOS app that corrects your form in real time using your phone's camera](https://www.firefly.fitness/)
 * [2025-03-11, 12:50:02](https://news.ycombinator.com/item?id=43331914) - [Representing Type Lattices Compactly](https://bernsteinbear.com/blog/lattice-bitset/)
 * [2025-03-11, 12:04:19](https://news.ycombinator.com/item?id=43331601) - [More mysterious DNS root query traffic from a large cloud/DNS operator (2022)](https://blog.apnic.net/2022/06/02/more-mysterious-dns-root-query-traffic-from-a-large-cloud-dns-operator/)
 * [2025-03-11, 12:02:02](https://news.ycombinator.com/item?id=43331582) - [Show HN: Factorio Learning Environment – Agents Build Factories](https://jackhopkins.github.io/factorio-learning-environment/)
