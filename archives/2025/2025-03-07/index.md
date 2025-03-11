@@ -51,6 +51,7 @@
 * [2025-03-07, 16:29:18](https://news.ycombinator.com/item?id=43291541) - [Why reading Martha C Nussbaum's philosophy is pure pleasure](https://aeon.co/essays/why-reading-martha-c-nussbaums-philosophy-is-pure-pleasure)
 * [2025-03-07, 16:20:37](https://news.ycombinator.com/item?id=43291446) - [Kitchen foil and Algerian markets: When your phone is stolen in London](https://www.londoncentric.media/p/kitchen-foil-and-algerian-markets)
 * [2025-03-07, 16:06:37](https://news.ycombinator.com/item?id=43291299) - [Laser-based device can scan almost any sample of gas and tell you what's in it](https://phys.org/news/2025-02-laser-based-device-scan-sample.html)
+* [2025-03-07, 16:03:18](https://news.ycombinator.com/item?id=43291258) - [When Crocodiles Attack: The Ramree Island Massacre](https://www.atlasobscura.com/articles/the-ramree-island-massacre)
 * [2025-03-07, 16:01:52](https://news.ycombinator.com/item?id=43291247) - [Female brewers are back – 500 years since their heyday](https://www.telegraph.co.uk/food-and-drink/beer/female-brewers-are-back/)
 * [2025-03-07, 15:28:24](https://news.ycombinator.com/item?id=43290919) - [Ancient human DNA recovered from a Palaeolithic pendant](https://www.nature.com/articles/s41586-023-06035-2)
 * [2025-03-07, 15:25:13](https://news.ycombinator.com/item?id=43290892) - [Betting on the Pope was the original prediction market](https://nodumbideas.com/p/betting-on-the-pope-was-the-original)
