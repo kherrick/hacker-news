@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-11, 11:02:09](https://news.ycombinator.com/item?id=43331215) - [COBOL Language Front End Merged for GCC 15 Compiler](https://www.phoronix.com/news/GCC-15-Merges-COBOL)
 * [2025-03-11, 07:51:32](https://news.ycombinator.com/item?id=43330164) - [Local Deep Research – ArXiv, wiki and other searches included](https://github.com/LearningCircuit/local-deep-research)
-* [2025-03-11, 05:30:45](https://news.ycombinator.com/item?id=43329427) - [A Supersolid Made Using Photons](https://www.photonicsonline.com/doc/a-super-solid-made-using-pho-tons-0001)
 * [2025-03-11, 05:19:50](https://news.ycombinator.com/item?id=43329373) - [Extreme poverty in India has dropped to negligible levels](https://www.economist.com/finance-and-economics/2025/02/27/india-has-undermined-a-popular-myth-about-development)
 * [2025-03-11, 01:05:10](https://news.ycombinator.com/item?id=43328095) - [Show HN: Seven39, a social media app that is only open for 3 hours every evening](https://www.seven39.com)
 * [2025-03-11, 00:16:54](https://news.ycombinator.com/item?id=43327758) - [Shef](https://github.com/eduardoagarcia/shef)
@@ -10,7 +10,6 @@
 * [2025-03-10, 18:27:32](https://news.ycombinator.com/item?id=43323946) - [Mathematical Foundations of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
 * [2025-03-10, 18:26:27](https://news.ycombinator.com/item?id=43323923) - [Firmware update bricks HP printers, makes them unable to use HP cartridges](https://arstechnica.com/gadgets/2025/03/firmware-update-bricks-hp-printers-makes-them-unable-to-use-hp-cartridges/)
 * [2025-03-10, 18:22:57](https://news.ycombinator.com/item?id=43323860) - [STEPS Toward the Reinvention of Programming (2012) [pdf]](https://tinlizzie.org/VPRIPapers/tr2012001_steps.pdf)
-* [2025-03-10, 17:40:40](https://news.ycombinator.com/item?id=43323071) - [Software-Defined Radio for Engineers (2018) [pdf]](https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf)
 * [2025-03-10, 16:28:44](https://news.ycombinator.com/item?id=43322245) - [Music labels will regret coming for the Internet Archive, sound historian says](https://arstechnica.com/tech-policy/2025/03/music-labels-will-regret-coming-for-the-internet-archive-sound-historian-says/)
 * [2025-03-10, 15:12:57](https://news.ycombinator.com/item?id=43321523) - [Show HN: In-Browser Graph RAG with Kuzu-WASM and WebLLM](https://blog.kuzudb.com/post/kuzu-wasm-rag/)
 * [2025-03-10, 14:35:05](https://news.ycombinator.com/item?id=43321131) - [A technical history of Acorn Computers](https://www.mcmordie.co.uk/acornhistory/index.shtml)
@@ -25,11 +24,12 @@
 * [2025-03-08, 22:20:05](https://news.ycombinator.com/item?id=43304088) - [An election forecast that’s 50-50 is not “giving up”](https://statmodeling.stat.columbia.edu/2025/03/05/no-an-election-forecast-thats-50-50-is-not-giving-up-no-the-election-forecasters-in-2024-did-not-say-whatever-happened-it-was-supposed-to-be-razor-thin/)
 * [2025-03-08, 14:14:22](https://news.ycombinator.com/item?id=43300414) - [The Einstein AI Model](https://thomwolf.io/blog/scientific-ai.html)
 * [2025-03-08, 10:06:01](https://news.ycombinator.com/item?id=43298945) - [Asking LLMs to create my game Shepard's Dog](https://github.com/vnglst/when-ai-fails/blob/main/shepards-dog/README.md)
+* [2025-03-08, 04:42:58](https://news.ycombinator.com/item?id=43297563) - [Take a Cold Bath](https://www.lrb.co.uk/the-paper/v47/n04/lucy-wooding/take-a-cold-bath)
 * [2025-03-07, 14:50:09](https://news.ycombinator.com/item?id=43290620) - [Bel in Clojure (2022)](https://stopa.io/post/290)
-* [2025-03-07, 14:21:46](https://news.ycombinator.com/item?id=43290384) - [Mimicking shark skin to create clean cutting boards](https://www.morningagclips.com/mimicking-shark-skin-to-create-clean-cutting-boards/)
 * [2025-03-07, 13:31:46](https://news.ycombinator.com/item?id=43289994) - [Planes are having their GPS hacked. Could new clocks keep them safe?](https://www.bbc.com/news/articles/cq6yg204pvmo)
 * [2025-03-07, 09:42:03](https://news.ycombinator.com/item?id=43288691) - [Arranging invisible icons in quadratic time (2021)](https://randomascii.wordpress.com/2021/02/16/arranging-invisible-icons-in-quadratic-time/)
 * [2025-03-07, 08:54:00](https://news.ycombinator.com/item?id=43288410) - [HyperShell X Outdoor PowerSuit Exoskeleton](https://hypershell.tech/en-us)
+* [2025-03-07, 04:07:18](https://news.ycombinator.com/item?id=43287327) - [3dfx: So powerful, it's kind of ridiculous (2023)](https://www.abortretry.fail/p/so-powerful-its-kind-of-ridiculous)
 
 ## [Archives](archives/index.md)
 

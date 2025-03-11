@@ -7,6 +7,7 @@
 * [2025-03-11, 11:28:31](https://news.ycombinator.com/item?id=43331390) - [The Tesla protests are getting bigger – and rowdier](https://www.theverge.com/news/626851/tesla-takedown-protests-elon-musk)
 * [2025-03-11, 11:10:38](https://news.ycombinator.com/item?id=43331264) - [Nvidia-backed AI firm signs $12B AI cloud deal with OpenAI](https://www.techinasia.com/news/nvidia-backed-ai-firm-signs-12b-ai-cloud-deal-with-openai)
 * [2025-03-11, 11:05:10](https://news.ycombinator.com/item?id=43331231) - [Carlos Slim Cancels $22B in Starlink Orders](https://cleantechnica.com/2025/03/10/billionaire-carlos-slim-cancels-22-billion-in-starlink-orders-due-to-elon-musks-outburst/)
+* [2025-03-11, 11:02:09](https://news.ycombinator.com/item?id=43331215) - [COBOL Language Front End Merged for GCC 15 Compiler](https://www.phoronix.com/news/GCC-15-Merges-COBOL)
 * [2025-03-11, 08:21:59](https://news.ycombinator.com/item?id=43330331) - [ESP32 Undocumented Bluetooth Commands: Clearing the Air](https://developer.espressif.com/blog/2025/03/esp32-bluetooth-clearing-the-air/)
 * [2025-03-11, 07:56:19](https://news.ycombinator.com/item?id=43330206) - [New Zealand's $16B health dept managed finances with single Excel spreadsheet](https://www.theregister.com/2025/03/10/nz_health_excel_spreadsheet/)
 * [2025-03-11, 07:51:32](https://news.ycombinator.com/item?id=43330164) - [Local Deep Research – ArXiv, wiki and other searches included](https://github.com/LearningCircuit/local-deep-research)
