@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-11](index.md)
 
+* [2025-03-11, 05:19:50](https://news.ycombinator.com/item?id=43329373) - [Extreme poverty in India is now negligible, without an industrial miracle](https://www.economist.com/finance-and-economics/2025/02/27/india-has-undermined-a-popular-myth-about-development)
 * [2025-03-11, 05:08:33](https://news.ycombinator.com/item?id=43329320) - [Cloudflare blocking Pale Moon and other browsers](https://www.theregister.com/2025/03/04/cloudflare_blocking_niche_browsers/)
 * [2025-03-11, 04:56:33](https://news.ycombinator.com/item?id=43329261) - [Leopards, Faces, etc.](https://blog.plover.com/politics/mangione.html)
 * [2025-03-11, 04:41:08](https://news.ycombinator.com/item?id=43329203) - [GitHub is currently merging PRs in the UI with the wrong merge method](https://github.com/orgs/community/discussions/153620)

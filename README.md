@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-11, 04:41:08](https://news.ycombinator.com/item?id=43329203) - [GitHub is currently merging PRs in the UI with the wrong merge method](https://github.com/orgs/community/discussions/153620)
+* [2025-03-11, 05:19:50](https://news.ycombinator.com/item?id=43329373) - [Extreme poverty in India is now negligible, without an industrial miracle](https://www.economist.com/finance-and-economics/2025/02/27/india-has-undermined-a-popular-myth-about-development)
 * [2025-03-11, 01:05:10](https://news.ycombinator.com/item?id=43328095) - [Seven39 – a social media app that is only open for 3 hours every evening](https://www.seven39.com)
 * [2025-03-11, 00:16:54](https://news.ycombinator.com/item?id=43327758) - [Shef](https://github.com/eduardoagarcia/shef)
 * [2025-03-11, 00:11:33](https://news.ycombinator.com/item?id=43327730) - [Bending Spacetime in the Basement](https://www.fourmilab.ch/gravitation/foobar/)
