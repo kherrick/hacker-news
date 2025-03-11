@@ -5,11 +5,13 @@
 ### [Archives](../../index.md) for [2025-03-11](index.md)
 
 * [2025-03-11, 14:56:37](https://news.ycombinator.com/item?id=43333091) - [Short Conversations with Poets: Dong Li](https://www.mcsweeneys.net/articles/dong-li)
+* [2025-03-11, 14:44:44](https://news.ycombinator.com/item?id=43332944) - [NIST Selects HQC as Fifth Algorithm for Post-Quantum Encryption](https://www.nist.gov/news-events/news/2025/03/nist-selects-hqc-fifth-algorithm-post-quantum-encryption)
 * [2025-03-11, 14:32:23](https://news.ycombinator.com/item?id=43332830) - [A 10x Faster TypeScript](https://devblogs.microsoft.com/typescript/typescript-native-port/)
 * [2025-03-11, 14:27:45](https://news.ycombinator.com/item?id=43332788) - [Anomalous Ionization in the Central Molecular Zone by Sub-GeV Dark Matter](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.101001)
 * [2025-03-11, 14:24:48](https://news.ycombinator.com/item?id=43332752) - [The US island that speaks Elizabethan English](https://www.bbc.com/travel/article/20190623-the-us-island-that-speaks-elizabethan-english)
 * [2025-03-11, 14:21:05](https://news.ycombinator.com/item?id=43332718) - [How to Minify Godot's Build Size (93MB –> 6.4MB EXE)](https://popcar.bearblog.dev/how-to-minify-godots-build-size/)
 * [2025-03-11, 13:50:22](https://news.ycombinator.com/item?id=43332424) - [Mapping the University of Chicago's 135-Year Expansion into Hyde Park and Beyond](https://chicagomaroon.github.io/data-visualizations/2025/uchicago-property/)
+* [2025-03-11, 13:41:31](https://news.ycombinator.com/item?id=43332352) - [A Practical Guide to Running Local LLMs](https://spin.atomicobject.com/running-local-llms/)
 * [2025-03-11, 13:27:36](https://news.ycombinator.com/item?id=43332226) - [Show HN: Generate Version 7 UUID's for a Timestamp](https://uuidv7.org/)
 * [2025-03-11, 12:50:02](https://news.ycombinator.com/item?id=43331914) - [Representing Type Lattices Compactly](https://bernsteinbear.com/blog/lattice-bitset/)
 * [2025-03-11, 12:29:59](https://news.ycombinator.com/item?id=43331770) - [Cursor uploads .env file with secrets despite .gitignore and .cursorignore](https://forum.cursor.com/t/env-file-question/60165)
