@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-03-11, 15:37:03",
-      "https://news.ycombinator.com/item?id=43333531"
+      "2025-03-11, 16:33:28",
+      "https://news.ycombinator.com/item?id=43334192"
     ],
     [
-      "Saving U.S. Climate and Environmental Data Before It Goes Away",
-      "https://e360.yale.edu/features/eric-nost-interview"
+      "Show HN: Program Explorer",
+      "https://programexplorer.org/"
+    ]
+  ],
+  [
+    [
+      "2025-03-11, 16:12:43",
+      "https://news.ycombinator.com/item?id=43333946"
+    ],
+    [
+      "Show HN: Krep a High-Performance String Search Utility Written in C",
+      "https://davidesantangelo.github.io/krep/"
     ]
   ],
   [
@@ -71,6 +81,16 @@
   ],
   [
     [
+      "2025-03-11, 14:14:35",
+      "https://news.ycombinator.com/item?id=43332658"
+    ],
+    [
+      "Happy 20th Birthday, Y Combinator",
+      "https://twitter.com/garrytan/status/1899092996702048709"
+    ]
+  ],
+  [
+    [
       "2025-03-11, 13:50:22",
       "https://news.ycombinator.com/item?id=43332424"
     ],
@@ -91,12 +111,32 @@
   ],
   [
     [
+      "2025-03-11, 12:54:22",
+      "https://news.ycombinator.com/item?id=43331940"
+    ],
+    [
+      "Show HN: iOS app that corrects your form in real time using your phone's camera",
+      "https://www.firefly.fitness/"
+    ]
+  ],
+  [
+    [
       "2025-03-11, 12:50:02",
       "https://news.ycombinator.com/item?id=43331914"
     ],
     [
       "Representing Type Lattices Compactly",
       "https://bernsteinbear.com/blog/lattice-bitset/"
+    ]
+  ],
+  [
+    [
+      "2025-03-11, 12:04:19",
+      "https://news.ycombinator.com/item?id=43331601"
+    ],
+    [
+      "More mysterious DNS root query traffic from a large cloud/DNS operator (2022)",
+      "https://blog.apnic.net/2022/06/02/more-mysterious-dns-root-query-traffic-from-a-large-cloud-dns-operator/"
     ]
   ],
   [
@@ -117,16 +157,6 @@
     [
       "What Makes Code Hard to Read: Visual Patterns of Complexity (2023)",
       "https://seeinglogic.com/posts/visual-readability-patterns/"
-    ]
-  ],
-  [
-    [
-      "2025-03-11, 07:56:19",
-      "https://news.ycombinator.com/item?id=43330206"
-    ],
-    [
-      "New Zealand's $16B health dept managed finances with single Excel spreadsheet",
-      "https://www.theregister.com/2025/03/10/nz_health_excel_spreadsheet/"
     ]
   ],
   [
@@ -157,16 +187,6 @@
     [
       "Show HN: Seven39, a social media app that is only open for 3 hours every evening",
       "https://www.seven39.com"
-    ]
-  ],
-  [
-    [
-      "2025-03-11, 00:16:54",
-      "https://news.ycombinator.com/item?id=43327758"
-    ],
-    [
-      "Shef",
-      "https://github.com/eduardoagarcia/shef"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2025-03-09, 06:31:11",
-      "https://news.ycombinator.com/item?id=43306776"
-    ],
-    [
-      "Formal Verification of Zero-Downtime Database Migration in PlusCal",
-      "https://biradarganesh25.github.io/pluscal/db_migration.html"
-    ]
-  ],
-  [
-    [
       "2025-03-09, 03:35:58",
       "https://news.ycombinator.com/item?id=43305943"
     ],
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2025-03-08, 22:20:05",
-      "https://news.ycombinator.com/item?id=43304088"
+      "2025-03-08, 20:41:21",
+      "https://news.ycombinator.com/item?id=43303319"
     ],
     [
-      "An election forecast that’s 50-50 is not “giving up”",
-      "https://statmodeling.stat.columbia.edu/2025/03/05/no-an-election-forecast-thats-50-50-is-not-giving-up-no-the-election-forecasters-in-2024-did-not-say-whatever-happened-it-was-supposed-to-be-razor-thin/"
+      "A unified acoustic-to-speech-to-language embedding space",
+      "https://www.nature.com/articles/s41562-025-02105-9"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Bel in Clojure (2022)",
       "https://stopa.io/post/290"
-    ]
-  ],
-  [
-    [
-      "2025-03-07, 04:07:18",
-      "https://news.ycombinator.com/item?id=43287327"
-    ],
-    [
-      "3dfx: So powerful, it's kind of ridiculous (2023)",
-      "https://www.abortretry.fail/p/so-powerful-its-kind-of-ridiculous"
     ]
   ]
 ]
