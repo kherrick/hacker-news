@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-11, 21:09:56](https://news.ycombinator.com/item?id=43337028) - [Ask HN: How do you have effective 1:1s with your manager?](https://news.ycombinator.com/item?id=43337028)
 * [2025-03-11, 21:01:39](https://news.ycombinator.com/item?id=43336957) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2025-03-11, 19:53:24](https://news.ycombinator.com/item?id=43336381) - [\"It has been determined\" that infected dairy herd serology can be disclosed](https://hogvet51.substack.com/p/one-year-later-it-has-been-determined)
 * [2025-03-11, 18:43:01](https://news.ycombinator.com/item?id=43335695) - [Percolation Theory [pdf]](https://web.mit.edu/ceder/publications/Percolation.pdf)
@@ -10,6 +11,7 @@
 * [2025-03-11, 16:33:28](https://news.ycombinator.com/item?id=43334192) - [Show HN: Program Explorer, a container playground](https://programexplorer.org/)
 * [2025-03-11, 16:33:24](https://news.ycombinator.com/item?id=43334190) - [Fastplotlib: GPU-accelerated, fast, and interactive plotting library](https://medium.com/@caitlin9165/fastplotlib-driving-scientific-discovery-through-data-visualization-418f8bff094c)
 * [2025-03-11, 16:12:43](https://news.ycombinator.com/item?id=43333946) - [Show HN: Krep a High-Performance String Search Utility Written in C](https://davidesantangelo.github.io/krep/)
+* [2025-03-11, 15:48:33](https://news.ycombinator.com/item?id=43333661) - [Show HN: We built a Plug-in Home Battery for the 99.7% of us without Powerwalls](https://pilaenergy.com)
 * [2025-03-11, 15:32:46](https://news.ycombinator.com/item?id=43333484) - [AI-Generated Voice Evidence Poses Dangers in Court](https://www.lawfaremedia.org/article/ai-generated-voice-evidence-poses-dangers-in-court)
 * [2025-03-11, 14:56:37](https://news.ycombinator.com/item?id=43333091) - [Short Conversations with Poets: Dong Li](https://www.mcsweeneys.net/articles/dong-li)
 * [2025-03-11, 14:44:44](https://news.ycombinator.com/item?id=43332944) - [NIST selects HQC as fifth algorithm for post-quantum encryption](https://www.nist.gov/news-events/news/2025/03/nist-selects-hqc-fifth-algorithm-post-quantum-encryption)
@@ -17,7 +19,6 @@
 * [2025-03-11, 14:24:48](https://news.ycombinator.com/item?id=43332752) - [The US island that speaks Elizabethan English](https://www.bbc.com/travel/article/20190623-the-us-island-that-speaks-elizabethan-english)
 * [2025-03-11, 14:14:35](https://news.ycombinator.com/item?id=43332658) - [Happy 20th Birthday, Y Combinator](https://twitter.com/garrytan/status/1899092996702048709)
 * [2025-03-11, 13:50:22](https://news.ycombinator.com/item?id=43332424) - [Mapping the University of Chicago's 135-year expansion into Hyde Park and beyond](https://chicagomaroon.github.io/data-visualizations/2025/uchicago-property/)
-* [2025-03-11, 13:23:03](https://news.ycombinator.com/item?id=43332184) - [Espressif's Response to Undocumented Commands in ESP32 Bluetooth by Tarlogic](https://www.espressif.com/en/news/response_esp32_bluetooth)
 * [2025-03-11, 12:50:02](https://news.ycombinator.com/item?id=43331914) - [Representing Type Lattices Compactly](https://bernsteinbear.com/blog/lattice-bitset/)
 * [2025-03-11, 12:02:02](https://news.ycombinator.com/item?id=43331582) - [Show HN: Factorio Learning Environment – Agents Build Factories](https://jackhopkins.github.io/factorio-learning-environment/)
 * [2025-03-11, 11:25:13](https://news.ycombinator.com/item?id=43331358) - [America Is Missing The New Labor Economy – Robotics Part 1](https://semianalysis.com/2025/03/11/america-is-missing-the-new-labor-economy-robotics-part-1/)
@@ -28,7 +29,6 @@
 * [2025-03-11, 00:11:33](https://news.ycombinator.com/item?id=43327730) - [Bending Spacetime in the Basement (1997)](https://www.fourmilab.ch/gravitation/foobar/)
 * [2025-03-10, 07:42:24](https://news.ycombinator.com/item?id=43317889) - [Snapshots of Modern Mathematics from Oberwolfach](https://www.imaginary.org/snapshots)
 * [2025-03-09, 03:15:51](https://news.ycombinator.com/item?id=43305842) - [In contrast to Earth, Mars's middle atmosphere appears driven by gravity waves](https://phys.org/news/2025-03-contrast-earth-mars-middle-atmosphere.html)
-* [2025-03-08, 22:35:44](https://news.ycombinator.com/item?id=43304205) - [Kissing moons may explain why Earth's moon is so large](https://www.cbc.ca/radio/quirks/kissing-moons-may-explain-why-earth-s-moon-is-so-large-1.7428016)
 * [2025-03-08, 00:07:15](https://news.ycombinator.com/item?id=43296184) - [NASA to launch space observatory that will map 450M galaxies](https://www.nbcnews.com/science/space/nasa-spherex-space-observatory-launch-map-galaxies-universe-rcna190877)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-11](index.md)
 
+* [2025-03-11, 21:09:56](https://news.ycombinator.com/item?id=43337028) - [Ask HN: How do you have effective 1:1s with your manager?](https://news.ycombinator.com/item?id=43337028)
 * [2025-03-11, 21:01:39](https://news.ycombinator.com/item?id=43336957) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2025-03-11, 19:53:24](https://news.ycombinator.com/item?id=43336381) - [\"It Has Been Determined\" That Infected Dairy Herd Serology Can Be Disclosed](https://hogvet51.substack.com/p/one-year-later-it-has-been-determined)
 * [2025-03-11, 18:43:01](https://news.ycombinator.com/item?id=43335695) - [Percolation Theory [pdf]](https://web.mit.edu/ceder/publications/Percolation.pdf)
@@ -17,6 +18,7 @@
 * [2025-03-11, 16:33:28](https://news.ycombinator.com/item?id=43334192) - [Show HN: Program Explorer](https://programexplorer.org/)
 * [2025-03-11, 16:33:24](https://news.ycombinator.com/item?id=43334190) - [Fastplotlib: Driving scientific discovery through data visualization](https://medium.com/@caitlin9165/fastplotlib-driving-scientific-discovery-through-data-visualization-418f8bff094c)
 * [2025-03-11, 16:12:43](https://news.ycombinator.com/item?id=43333946) - [Show HN: Krep a High-Performance String Search Utility Written in C](https://davidesantangelo.github.io/krep/)
+* [2025-03-11, 15:48:33](https://news.ycombinator.com/item?id=43333661) - [Show HN: We built a Plug-in Home Battery for the 99.7% of us without Powerwalls](https://pilaenergy.com)
 * [2025-03-11, 15:37:03](https://news.ycombinator.com/item?id=43333531) - [Saving U.S. Climate and Environmental Data Before It Goes Away](https://e360.yale.edu/features/eric-nost-interview)
 * [2025-03-11, 15:32:46](https://news.ycombinator.com/item?id=43333484) - [AI-Generated Voice Evidence Poses Dangers in Court](https://www.lawfaremedia.org/article/ai-generated-voice-evidence-poses-dangers-in-court)
 * [2025-03-11, 14:56:37](https://news.ycombinator.com/item?id=43333091) - [Short Conversations with Poets: Dong Li](https://www.mcsweeneys.net/articles/dong-li)
