@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-11](index.md)
 
+* [2025-03-11, 14:56:37](https://news.ycombinator.com/item?id=43333091) - [Short Conversations with Poets: Dong Li](https://www.mcsweeneys.net/articles/dong-li)
 * [2025-03-11, 14:32:23](https://news.ycombinator.com/item?id=43332830) - [A 10x Faster TypeScript](https://devblogs.microsoft.com/typescript/typescript-native-port/)
 * [2025-03-11, 14:27:45](https://news.ycombinator.com/item?id=43332788) - [Anomalous Ionization in the Central Molecular Zone by Sub-GeV Dark Matter](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.101001)
 * [2025-03-11, 14:24:48](https://news.ycombinator.com/item?id=43332752) - [The US island that speaks Elizabethan English](https://www.bbc.com/travel/article/20190623-the-us-island-that-speaks-elizabethan-english)
