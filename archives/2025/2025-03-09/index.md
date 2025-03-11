@@ -63,6 +63,7 @@
 * [2025-03-09, 09:20:20](https://news.ycombinator.com/item?id=43307541) - [How to Implement a Cosine Similarity Function in TypeScript](https://alexop.dev/posts/how-to-implement-a-cosine-similarity-function-in-typescript-for-vector-comparison/)
 * [2025-03-09, 09:13:44](https://news.ycombinator.com/item?id=43307489) - [OpenAPK – open-source Apps for Android, updated weekly](https://www.openapk.net)
 * [2025-03-09, 08:20:29](https://news.ycombinator.com/item?id=43307229) - [Rust vs. Go: Battle for the Back End](https://effective-programmer.com/rust-vs-go-battle-for-the-backend-368f775de9fc)
+* [2025-03-09, 08:08:02](https://news.ycombinator.com/item?id=43307159) - [Sidekick: Local-first native macOS LLM app](https://github.com/johnbean393/Sidekick)
 * [2025-03-09, 07:00:03](https://news.ycombinator.com/item?id=43306908) - [Yhangry (YC W22) Consumer Marketplace (London Based) Is Hiring](https://www.ycombinator.com/companies/yhangry/jobs/JiN1myL-mid-senior-full-stack-engineer)
 * [2025-03-09, 06:45:23](https://news.ycombinator.com/item?id=43306839) - [Becoming a Good Engineer](https://0x0001.cc/blog/good-engineer.md)
 * [2025-03-09, 06:35:06](https://news.ycombinator.com/item?id=43306797) - [Goravel: A Go framework inspired by Laravel](https://www.goravel.dev)
