@@ -75,3 +75,4 @@
 * [2025-03-08, 01:26:33](https://news.ycombinator.com/item?id=43296656) - [Feds Link $150M Cyberheist to 2022 LastPass Hacks](https://krebsonsecurity.com/2025/03/feds-link-150m-cyberheist-to-2022-lastpass-hacks/)
 * [2025-03-08, 00:57:42](https://news.ycombinator.com/item?id=43296513) - [Superintelligence startup Reflection AI launches with $130M in funding](https://siliconangle.com/2025/03/07/superintelligence-startup-reflection-ai-launches-130m-funding/)
 * [2025-03-08, 00:42:22](https://news.ycombinator.com/item?id=43296422) - [Separation of Concerns in a Bug Tracker](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/bugtracker-separate/)
+* [2025-03-08, 00:07:15](https://news.ycombinator.com/item?id=43296184) - [NASA to launch space observatory that will map 450M galaxies](https://www.nbcnews.com/science/space/nasa-spherex-space-observatory-launch-map-galaxies-universe-rcna190877)
