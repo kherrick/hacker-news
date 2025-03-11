@@ -67,6 +67,7 @@
 * [2025-03-09, 07:00:03](https://news.ycombinator.com/item?id=43306908) - [Yhangry (YC W22) Consumer Marketplace (London Based) Is Hiring](https://www.ycombinator.com/companies/yhangry/jobs/JiN1myL-mid-senior-full-stack-engineer)
 * [2025-03-09, 06:45:23](https://news.ycombinator.com/item?id=43306839) - [Becoming a Good Engineer](https://0x0001.cc/blog/good-engineer.md)
 * [2025-03-09, 06:35:06](https://news.ycombinator.com/item?id=43306797) - [Goravel: A Go framework inspired by Laravel](https://www.goravel.dev)
+* [2025-03-09, 06:31:11](https://news.ycombinator.com/item?id=43306776) - [Formal Verification of Zero-Downtime Database Migration in PlusCal](https://biradarganesh25.github.io/pluscal/db_migration.html)
 * [2025-03-09, 06:23:02](https://news.ycombinator.com/item?id=43306734) - [Stem cell therapy trial reverses \"irreversible\" damage to cornea](https://newatlas.com/biology/stem-cell-therapy-reverses-irreversible-damage-cornea/)
 * [2025-03-09, 05:44:24](https://news.ycombinator.com/item?id=43306599) - [Magnesium Self-Experiments](https://gwern.net/nootropic/magnesium)
 * [2025-03-09, 05:04:05](https://news.ycombinator.com/item?id=43306435) - [Committing fraud is a viable career strategy](https://statmodeling.stat.columbia.edu/2025/03/08/a-post-mortem-on-the-gino-case-committing-fraud-is-right-now-a-viable-career-strategy-that-can-propel-you-at-the-top-of-the-academic-world/)

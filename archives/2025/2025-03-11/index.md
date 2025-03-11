@@ -4,14 +4,17 @@
 
 ### [Archives](../../index.md) for [2025-03-11](index.md)
 
+* [2025-03-11, 12:02:02](https://news.ycombinator.com/item?id=43331582) - [Show HN: Factorio Learning Environment – Agents Build Factories](https://jackhopkins.github.io/factorio-learning-environment/)
 * [2025-03-11, 11:28:31](https://news.ycombinator.com/item?id=43331390) - [The Tesla protests are getting bigger – and rowdier](https://www.theverge.com/news/626851/tesla-takedown-protests-elon-musk)
 * [2025-03-11, 11:10:38](https://news.ycombinator.com/item?id=43331264) - [Nvidia-backed AI firm signs $12B AI cloud deal with OpenAI](https://www.techinasia.com/news/nvidia-backed-ai-firm-signs-12b-ai-cloud-deal-with-openai)
 * [2025-03-11, 11:05:10](https://news.ycombinator.com/item?id=43331231) - [Carlos Slim Cancels $22B in Starlink Orders](https://cleantechnica.com/2025/03/10/billionaire-carlos-slim-cancels-22-billion-in-starlink-orders-due-to-elon-musks-outburst/)
 * [2025-03-11, 11:02:09](https://news.ycombinator.com/item?id=43331215) - [COBOL Language Front End Merged for GCC 15 Compiler](https://www.phoronix.com/news/GCC-15-Merges-COBOL)
+* [2025-03-11, 10:07:17](https://news.ycombinator.com/item?id=43330900) - [What Makes Code Hard to Read: Visual Patterns of Complexity (2023)](https://seeinglogic.com/posts/visual-readability-patterns/)
 * [2025-03-11, 08:21:59](https://news.ycombinator.com/item?id=43330331) - [ESP32 Undocumented Bluetooth Commands: Clearing the Air](https://developer.espressif.com/blog/2025/03/esp32-bluetooth-clearing-the-air/)
 * [2025-03-11, 07:56:19](https://news.ycombinator.com/item?id=43330206) - [New Zealand's $16B health dept managed finances with single Excel spreadsheet](https://www.theregister.com/2025/03/10/nz_health_excel_spreadsheet/)
 * [2025-03-11, 07:51:32](https://news.ycombinator.com/item?id=43330164) - [Local Deep Research – ArXiv, wiki and other searches included](https://github.com/LearningCircuit/local-deep-research)
 * [2025-03-11, 07:22:06](https://news.ycombinator.com/item?id=43329992) - [European-alternatives.eu Experiencing Massive Traffic Increase Since January](https://mastodon.social/@european_alternatives/114139039515682544)
+* [2025-03-11, 06:44:13](https://news.ycombinator.com/item?id=43329795) - [Meta must defend claim it stripped copyright info from Llama's training fodder](https://www.theregister.com/2025/03/11/meta_dmca_copyright_removal_case/)
 * [2025-03-11, 05:59:00](https://news.ycombinator.com/item?id=43329580) - [A succinct email in just a subject line](https://rubenerd.com/a-succinct-email-in-just-a-subject-line/)
 * [2025-03-11, 05:30:45](https://news.ycombinator.com/item?id=43329427) - [A Supersolid Made Using Photons](https://www.photonicsonline.com/doc/a-super-solid-made-using-pho-tons-0001)
 * [2025-03-11, 05:19:50](https://news.ycombinator.com/item?id=43329373) - [Extreme poverty in India is now negligible, without an industrial miracle](https://www.economist.com/finance-and-economics/2025/02/27/india-has-undermined-a-popular-myth-about-development)
