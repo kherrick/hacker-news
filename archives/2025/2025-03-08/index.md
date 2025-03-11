@@ -56,6 +56,7 @@
 * [2025-03-08, 10:19:55](https://news.ycombinator.com/item?id=43299011) - [US support to maintain UK's nuclear arsenal is in doubt](https://www.theguardian.com/world/2025/mar/08/us-support-uk-nuclear-arsenal-in-doubt-trident-france)
 * [2025-03-08, 10:06:01](https://news.ycombinator.com/item?id=43298945) - [Asking LLMs to create my game Shepard's Dog](https://github.com/vnglst/when-ai-fails/blob/main/shepards-dog/README.md)
 * [2025-03-08, 09:43:56](https://news.ycombinator.com/item?id=43298862) - [Most Americans just don't matter to the economy like they once did](https://www.marketwatch.com/story/most-americans-cant-afford-life-anymore-and-they-just-dont-matter-to-the-economy-like-they-used-to-5c5aaca5)
+* [2025-03-08, 08:57:10](https://news.ycombinator.com/item?id=43298663) - [Ask HN: How do you handle VAT / Sales Tax accounting as B2C SaaS?](https://news.ycombinator.com/item?id=43298663)
 * [2025-03-08, 08:04:07](https://news.ycombinator.com/item?id=43298447) - [A TV with Contrast You Haven't Seen for Years](https://hackaday.com/2025/03/05/a-tv-with-contrast-you-havent-seen-for-years/)
 * [2025-03-08, 07:56:50](https://news.ycombinator.com/item?id=43298408) - [Leave It to Manus](https://manus.im/)
 * [2025-03-08, 07:31:13](https://news.ycombinator.com/item?id=43298290) - [Choosing death penalty by firing squad because it's safer](https://www.pbs.org/newshour/show/south-carolina-executes-convicted-murderer-by-firing-squad)

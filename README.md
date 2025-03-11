@@ -12,7 +12,6 @@
 * [2025-03-11, 16:33:24](https://news.ycombinator.com/item?id=43334190) - [Fastplotlib: GPU-accelerated, fast, and interactive plotting library](https://medium.com/@caitlin9165/fastplotlib-driving-scientific-discovery-through-data-visualization-418f8bff094c)
 * [2025-03-11, 16:12:43](https://news.ycombinator.com/item?id=43333946) - [Show HN: Krep a High-Performance String Search Utility Written in C](https://davidesantangelo.github.io/krep/)
 * [2025-03-11, 15:48:33](https://news.ycombinator.com/item?id=43333661) - [Show HN: We built a Plug-in Home Battery for the 99.7% of us without Powerwalls](https://pilaenergy.com)
-* [2025-03-11, 15:32:46](https://news.ycombinator.com/item?id=43333484) - [AI-Generated Voice Evidence Poses Dangers in Court](https://www.lawfaremedia.org/article/ai-generated-voice-evidence-poses-dangers-in-court)
 * [2025-03-11, 14:56:37](https://news.ycombinator.com/item?id=43333091) - [Short Conversations with Poets: Dong Li](https://www.mcsweeneys.net/articles/dong-li)
 * [2025-03-11, 14:44:44](https://news.ycombinator.com/item?id=43332944) - [NIST selects HQC as fifth algorithm for post-quantum encryption](https://www.nist.gov/news-events/news/2025/03/nist-selects-hqc-fifth-algorithm-post-quantum-encryption)
 * [2025-03-11, 14:32:23](https://news.ycombinator.com/item?id=43332830) - [A 10x Faster TypeScript](https://devblogs.microsoft.com/typescript/typescript-native-port/)
@@ -29,6 +28,7 @@
 * [2025-03-10, 07:42:24](https://news.ycombinator.com/item?id=43317889) - [Snapshots of Modern Mathematics from Oberwolfach](https://www.imaginary.org/snapshots)
 * [2025-03-09, 03:15:51](https://news.ycombinator.com/item?id=43305842) - [In contrast to Earth, Mars's middle atmosphere appears driven by gravity waves](https://phys.org/news/2025-03-contrast-earth-mars-middle-atmosphere.html)
 * [2025-03-08, 18:48:23](https://news.ycombinator.com/item?id=43302436) - [Smart researchers pioneer nanosensor for real-time iron detection in plants](https://news.mit.edu/2025/smart-researchers-pioneer-nanosensor-real-time-iron-detection-plants-0306)
+* [2025-03-08, 08:57:10](https://news.ycombinator.com/item?id=43298663) - [Ask HN: How do you handle VAT / Sales Tax accounting as B2C SaaS?](https://news.ycombinator.com/item?id=43298663)
 * [2025-03-08, 00:07:15](https://news.ycombinator.com/item?id=43296184) - [NASA to launch space observatory that will map 450M galaxies](https://www.nbcnews.com/science/space/nasa-spherex-space-observatory-launch-map-galaxies-universe-rcna190877)
 
 ## [Archives](archives/index.md)
