@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-11, 15:37:03](https://news.ycombinator.com/item?id=43333531) - [Saving U.S. Climate and Environmental Data Before It Goes Away](https://e360.yale.edu/features/eric-nost-interview)
+* [2025-03-11, 15:32:46](https://news.ycombinator.com/item?id=43333484) - [AI-Generated Voice Evidence Poses Dangers in Court](https://www.lawfaremedia.org/article/ai-generated-voice-evidence-poses-dangers-in-court)
 * [2025-03-11, 14:56:37](https://news.ycombinator.com/item?id=43333091) - [Short Conversations with Poets: Dong Li](https://www.mcsweeneys.net/articles/dong-li)
 * [2025-03-11, 14:44:44](https://news.ycombinator.com/item?id=43332944) - [NIST Selects HQC as Fifth Algorithm for Post-Quantum Encryption](https://www.nist.gov/news-events/news/2025/03/nist-selects-hqc-fifth-algorithm-post-quantum-encryption)
 * [2025-03-11, 14:32:23](https://news.ycombinator.com/item?id=43332830) - [A 10x Faster TypeScript](https://devblogs.microsoft.com/typescript/typescript-native-port/)
@@ -13,7 +15,6 @@
 * [2025-03-11, 07:56:19](https://news.ycombinator.com/item?id=43330206) - [New Zealand's $16B health dept managed finances with single Excel spreadsheet](https://www.theregister.com/2025/03/10/nz_health_excel_spreadsheet/)
 * [2025-03-11, 07:51:32](https://news.ycombinator.com/item?id=43330164) - [Local Deep Research – ArXiv, wiki and other searches included](https://github.com/LearningCircuit/local-deep-research)
 * [2025-03-11, 06:37:14](https://news.ycombinator.com/item?id=43329761) - [Modern Baby: A pioneering computer from Manchester](https://thechipletter.substack.com/p/modern-baby)
-* [2025-03-11, 05:19:50](https://news.ycombinator.com/item?id=43329373) - [Extreme poverty in India has dropped to negligible levels](https://www.economist.com/finance-and-economics/2025/02/27/india-has-undermined-a-popular-myth-about-development)
 * [2025-03-11, 01:05:10](https://news.ycombinator.com/item?id=43328095) - [Show HN: Seven39, a social media app that is only open for 3 hours every evening](https://www.seven39.com)
 * [2025-03-11, 00:16:54](https://news.ycombinator.com/item?id=43327758) - [Shef](https://github.com/eduardoagarcia/shef)
 * [2025-03-11, 00:11:33](https://news.ycombinator.com/item?id=43327730) - [Bending Spacetime in the Basement (1997)](https://www.fourmilab.ch/gravitation/foobar/)
@@ -26,7 +27,6 @@
 * [2025-03-09, 03:23:26](https://news.ycombinator.com/item?id=43305881) - [Neonatal fungi: lifelong metabolic health via macrophage β cell development](https://www.science.org/doi/10.1126/science.adn0953)
 * [2025-03-08, 22:35:44](https://news.ycombinator.com/item?id=43304205) - [Kissing moons may explain why Earth's moon is so large](https://www.cbc.ca/radio/quirks/kissing-moons-may-explain-why-earth-s-moon-is-so-large-1.7428016)
 * [2025-03-08, 22:20:05](https://news.ycombinator.com/item?id=43304088) - [An election forecast that’s 50-50 is not “giving up”](https://statmodeling.stat.columbia.edu/2025/03/05/no-an-election-forecast-thats-50-50-is-not-giving-up-no-the-election-forecasters-in-2024-did-not-say-whatever-happened-it-was-supposed-to-be-razor-thin/)
-* [2025-03-08, 14:14:22](https://news.ycombinator.com/item?id=43300414) - [The Einstein AI Model](https://thomwolf.io/blog/scientific-ai.html)
 * [2025-03-07, 16:03:18](https://news.ycombinator.com/item?id=43291258) - [When Crocodiles Attack: The Ramree Island Massacre](https://www.atlasobscura.com/articles/the-ramree-island-massacre)
 * [2025-03-07, 14:50:09](https://news.ycombinator.com/item?id=43290620) - [Bel in Clojure (2022)](https://stopa.io/post/290)
 * [2025-03-07, 04:07:18](https://news.ycombinator.com/item?id=43287327) - [3dfx: So powerful, it's kind of ridiculous (2023)](https://www.abortretry.fail/p/so-powerful-its-kind-of-ridiculous)

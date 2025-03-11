@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-11](index.md)
 
+* [2025-03-11, 15:37:03](https://news.ycombinator.com/item?id=43333531) - [Saving U.S. Climate and Environmental Data Before It Goes Away](https://e360.yale.edu/features/eric-nost-interview)
+* [2025-03-11, 15:32:46](https://news.ycombinator.com/item?id=43333484) - [AI-Generated Voice Evidence Poses Dangers in Court](https://www.lawfaremedia.org/article/ai-generated-voice-evidence-poses-dangers-in-court)
 * [2025-03-11, 14:56:37](https://news.ycombinator.com/item?id=43333091) - [Short Conversations with Poets: Dong Li](https://www.mcsweeneys.net/articles/dong-li)
 * [2025-03-11, 14:44:44](https://news.ycombinator.com/item?id=43332944) - [NIST Selects HQC as Fifth Algorithm for Post-Quantum Encryption](https://www.nist.gov/news-events/news/2025/03/nist-selects-hqc-fifth-algorithm-post-quantum-encryption)
 * [2025-03-11, 14:32:23](https://news.ycombinator.com/item?id=43332830) - [A 10x Faster TypeScript](https://devblogs.microsoft.com/typescript/typescript-native-port/)
