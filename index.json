@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-11, 05:08:33",
+      "https://news.ycombinator.com/item?id=43329320"
+    ],
+    [
+      "Cloudflare blocking Pale Moon and other browsers",
+      "https://www.theregister.com/2025/03/04/cloudflare_blocking_niche_browsers/"
+    ]
+  ],
+  [
+    [
+      "2025-03-11, 04:56:33",
+      "https://news.ycombinator.com/item?id=43329261"
+    ],
+    [
+      "Leopards, Faces, etc.",
+      "https://blog.plover.com/politics/mangione.html"
+    ]
+  ],
+  [
+    [
       "2025-03-11, 03:00:15",
       "https://news.ycombinator.com/item?id=43328736"
     ],
@@ -87,16 +107,6 @@
     [
       "Software-Defined Radio for Engineers (2018) [pdf]",
       "https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-03-10, 17:30:34",
-      "https://news.ycombinator.com/item?id=43322922"
-    ],
-    [
-      "uBlock Origin is no longer available on the Chrome Store",
-      "https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2025-03-10, 00:16:54",
-      "https://news.ycombinator.com/item?id=43315406"
-    ],
-    [
-      "Chasing RFI Waves – Part Seven",
-      "https://raoulpop.com/2012/04/15/chasing-rfi-waves-part-seven/"
-    ]
-  ],
-  [
-    [
       "2025-03-09, 11:29:46",
       "https://news.ycombinator.com/item?id=43308111"
     ],
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2025-03-07, 10:56:24",
-      "https://news.ycombinator.com/item?id=43289140"
-    ],
-    [
-      "McDonald's Gives Its Restaurants an AI Makeover",
-      "https://www.wsj.com/articles/mcdonalds-gives-its-restaurants-an-ai-makeover-2134f01e"
-    ]
-  ],
-  [
-    [
       "2025-03-07, 09:42:03",
       "https://news.ycombinator.com/item?id=43288691"
     ],
@@ -297,6 +287,16 @@
     [
       "HyperShell X Outdoor PowerSuit Exoskeleton",
       "https://hypershell.tech/en-us"
+    ]
+  ],
+  [
+    [
+      "2025-03-07, 04:07:18",
+      "https://news.ycombinator.com/item?id=43287327"
+    ],
+    [
+      "3dfx: So powerful, it's kind of ridiculous (2023)",
+      "https://www.abortretry.fail/p/so-powerful-its-kind-of-ridiculous"
     ]
   ]
 ]
