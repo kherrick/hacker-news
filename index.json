@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-03-11, 13:50:22",
+      "https://news.ycombinator.com/item?id=43332424"
+    ],
+    [
+      "Mapping the University of Chicago's 135-Year Expansion into Hyde Park and Beyond",
+      "https://chicagomaroon.github.io/data-visualizations/2025/uchicago-property/"
+    ]
+  ],
+  [
+    [
       "2025-03-11, 12:50:02",
       "https://news.ycombinator.com/item?id=43331914"
     ],
     [
       "Representing Type Lattices Compactly",
       "https://bernsteinbear.com/blog/lattice-bitset/"
-    ]
-  ],
-  [
-    [
-      "2025-03-11, 12:29:59",
-      "https://news.ycombinator.com/item?id=43331770"
-    ],
-    [
-      "Cursor uploads .env file with secrets despite .gitignore and .cursorignore",
-      "https://forum.cursor.com/t/env-file-question/60165"
     ]
   ],
   [
@@ -137,16 +137,6 @@
     [
       "Music labels will regret coming for the Internet Archive, sound historian says",
       "https://arstechnica.com/tech-policy/2025/03/music-labels-will-regret-coming-for-the-internet-archive-sound-historian-says/"
-    ]
-  ],
-  [
-    [
-      "2025-03-10, 15:12:57",
-      "https://news.ycombinator.com/item?id=43321523"
-    ],
-    [
-      "Show HN: In-Browser Graph RAG with Kuzu-WASM and WebLLM",
-      "https://blog.kuzudb.com/post/kuzu-wasm-rag/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "HyperShell X Outdoor PowerSuit Exoskeleton",
       "https://hypershell.tech/en-us"
+    ]
+  ],
+  [
+    [
+      "2025-03-07, 04:07:18",
+      "https://news.ycombinator.com/item?id=43287327"
+    ],
+    [
+      "3dfx: So powerful, it's kind of ridiculous (2023)",
+      "https://www.abortretry.fail/p/so-powerful-its-kind-of-ridiculous"
     ]
   ]
 ]
