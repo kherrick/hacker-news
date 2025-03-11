@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-11, 19:53:24](https://news.ycombinator.com/item?id=43336381) - [\"It Has Been Determined\" That Infected Dairy Herd Serology Can Be Disclosed](https://hogvet51.substack.com/p/one-year-later-it-has-been-determined)
 * [2025-03-11, 18:43:01](https://news.ycombinator.com/item?id=43335695) - [Percolation Theory [pdf]](https://web.mit.edu/ceder/publications/Percolation.pdf)
 * [2025-03-11, 18:30:47](https://news.ycombinator.com/item?id=43335586) - [Truth Functional Logic for Hackers](https://lagomor.ph/2025/02/truth-functional-logic-for-hackers-part-one/)
 * [2025-03-11, 17:46:01](https://news.ycombinator.com/item?id=43335110) - [Backyard Cyanide](https://suziepetryk.com/blog/cyanide.html)
@@ -23,10 +24,9 @@
 * [2025-03-11, 11:25:13](https://news.ycombinator.com/item?id=43331358) - [America Is Missing The New Labor Economy – Robotics Part 1](https://semianalysis.com/2025/03/11/america-is-missing-the-new-labor-economy-robotics-part-1/)
 * [2025-03-11, 10:07:17](https://news.ycombinator.com/item?id=43330900) - [What makes code hard to read: Visual patterns of complexity (2023)](https://seeinglogic.com/posts/visual-readability-patterns/)
 * [2025-03-11, 07:51:32](https://news.ycombinator.com/item?id=43330164) - [Local Deep Research – ArXiv, wiki and other searches included](https://github.com/LearningCircuit/local-deep-research)
+* [2025-03-11, 06:37:14](https://news.ycombinator.com/item?id=43329761) - [Modern Baby: A pioneering computer from Manchester](https://thechipletter.substack.com/p/modern-baby)
 * [2025-03-11, 01:05:10](https://news.ycombinator.com/item?id=43328095) - [Show HN: Seven39, a social media app that is only open for 3 hours every evening](https://www.seven39.com)
-* [2025-03-11, 00:11:33](https://news.ycombinator.com/item?id=43327730) - [Bending Spacetime in the Basement (1997)](https://www.fourmilab.ch/gravitation/foobar/)
 * [2025-03-10, 07:42:24](https://news.ycombinator.com/item?id=43317889) - [Snapshots of Modern Mathematics from Oberwolfach](https://www.imaginary.org/snapshots)
-* [2025-03-10, 00:24:16](https://news.ycombinator.com/item?id=43315472) - [Android phone will run Debian Linux soon (like some Pixels can)](https://www.zdnet.com/article/your-android-phone-will-run-debian-linux-soon-like-some-pixels-already-can/)
 * [2025-03-08, 22:35:44](https://news.ycombinator.com/item?id=43304205) - [Kissing moons may explain why Earth's moon is so large](https://www.cbc.ca/radio/quirks/kissing-moons-may-explain-why-earth-s-moon-is-so-large-1.7428016)
 * [2025-03-08, 20:41:21](https://news.ycombinator.com/item?id=43303319) - [A unified acoustic-to-speech-to-language embedding space](https://www.nature.com/articles/s41562-025-02105-9)
 * [2025-03-08, 00:07:15](https://news.ycombinator.com/item?id=43296184) - [NASA to launch space observatory that will map 450M galaxies](https://www.nbcnews.com/science/space/nasa-spherex-space-observatory-launch-map-galaxies-universe-rcna190877)
