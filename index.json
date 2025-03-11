@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-03-11, 12:29:59",
+      "https://news.ycombinator.com/item?id=43331770"
+    ],
+    [
+      "Cursor uploads .env file with secrets despite .gitignore and .cursorignore",
+      "https://forum.cursor.com/t/env-file-question/60165"
+    ]
+  ],
+  [
+    [
       "2025-03-11, 12:02:02",
       "https://news.ycombinator.com/item?id=43331582"
     ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2025-03-10, 18:26:27",
-      "https://news.ycombinator.com/item?id=43323923"
-    ],
-    [
-      "Firmware update bricks HP printers, makes them unable to use HP cartridges",
-      "https://arstechnica.com/gadgets/2025/03/firmware-update-bricks-hp-printers-makes-them-unable-to-use-hp-cartridges/"
-    ]
-  ],
-  [
-    [
       "2025-03-10, 18:22:57",
       "https://news.ycombinator.com/item?id=43323860"
     ],
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2025-03-10, 12:48:32",
+      "https://news.ycombinator.com/item?id=43320024"
+    ],
+    [
+      "Zero-Downtime Kubernetes Deployments on AWS with EKS",
+      "https://glasskube.dev/blog/kubernetes-zero-downtime-deployments-aws-eks/"
+    ]
+  ],
+  [
+    [
       "2025-03-10, 09:50:33",
       "https://news.ycombinator.com/item?id=43318624"
     ],
@@ -181,12 +191,12 @@
   ],
   [
     [
-      "2025-03-09, 09:20:20",
-      "https://news.ycombinator.com/item?id=43307541"
+      "2025-03-10, 07:42:11",
+      "https://news.ycombinator.com/item?id=43317887"
     ],
     [
-      "How to Implement a Cosine Similarity Function in TypeScript",
-      "https://alexop.dev/posts/how-to-implement-a-cosine-similarity-function-in-typescript-for-vector-comparison/"
+      "Trees not profits: we're giving up our right to ever sell Ecosia (2018)",
+      "https://blog.ecosia.org/trees-not-profits/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "The Einstein AI Model",
       "https://thomwolf.io/blog/scientific-ai.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-07, 19:30:50",
-      "https://news.ycombinator.com/item?id=43293515"
-    ],
-    [
-      "Nexar Dashcam Crash Prediction Challenge",
-      "https://www.kaggle.com/competitions/nexar-collision-prediction"
     ]
   ],
   [
