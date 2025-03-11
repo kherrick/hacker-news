@@ -8,6 +8,7 @@
 * [2025-03-11, 21:01:39](https://news.ycombinator.com/item?id=43336957) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2025-03-11, 19:53:24](https://news.ycombinator.com/item?id=43336381) - [\"It Has Been Determined\" That Infected Dairy Herd Serology Can Be Disclosed](https://hogvet51.substack.com/p/one-year-later-it-has-been-determined)
 * [2025-03-11, 18:43:01](https://news.ycombinator.com/item?id=43335695) - [Percolation Theory [pdf]](https://web.mit.edu/ceder/publications/Percolation.pdf)
+* [2025-03-11, 18:40:54](https://news.ycombinator.com/item?id=43335679) - [How do we tell truths that might hurt?](https://www.cs.virginia.edu/~evans/cs655/readings/ewd498.html)
 * [2025-03-11, 18:30:47](https://news.ycombinator.com/item?id=43335586) - [Truth Functional Logic for Hackers](https://lagomor.ph/2025/02/truth-functional-logic-for-hackers-part-one/)
 * [2025-03-11, 17:46:01](https://news.ycombinator.com/item?id=43335110) - [Backyard Cyanide](https://suziepetryk.com/blog/cyanide.html)
 * [2025-03-11, 17:21:09](https://news.ycombinator.com/item?id=43334830) - [Why Go?](https://github.com/microsoft/typescript-go/discussions/411)
