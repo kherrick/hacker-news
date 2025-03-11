@@ -50,6 +50,7 @@
 * [2025-03-08, 12:00:45](https://news.ycombinator.com/item?id=43299508) - [Extend (YC W23) is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
 * [2025-03-08, 11:00:37](https://news.ycombinator.com/item?id=43299225) - [New MacBook Air Fixes This Decades-Long Design Oversight](https://www.macrumors.com/2025/03/07/new-macbook-air-corrects-design-mistake/)
 * [2025-03-08, 10:19:55](https://news.ycombinator.com/item?id=43299011) - [US support to maintain UK's nuclear arsenal is in doubt](https://www.theguardian.com/world/2025/mar/08/us-support-uk-nuclear-arsenal-in-doubt-trident-france)
+* [2025-03-08, 10:06:01](https://news.ycombinator.com/item?id=43298945) - [Asking LLMs to create my game Shepard's Dog](https://github.com/vnglst/when-ai-fails/blob/main/shepards-dog/README.md)
 * [2025-03-08, 09:43:56](https://news.ycombinator.com/item?id=43298862) - [Most Americans just don't matter to the economy like they once did](https://www.marketwatch.com/story/most-americans-cant-afford-life-anymore-and-they-just-dont-matter-to-the-economy-like-they-used-to-5c5aaca5)
 * [2025-03-08, 08:04:07](https://news.ycombinator.com/item?id=43298447) - [A TV with Contrast You Haven't Seen for Years](https://hackaday.com/2025/03/05/a-tv-with-contrast-you-havent-seen-for-years/)
 * [2025-03-08, 07:56:50](https://news.ycombinator.com/item?id=43298408) - [Leave It to Manus](https://manus.im/)
