@@ -17,6 +17,7 @@
 * [2025-03-11, 07:51:32](https://news.ycombinator.com/item?id=43330164) - [Local Deep Research – ArXiv, wiki and other searches included](https://github.com/LearningCircuit/local-deep-research)
 * [2025-03-11, 07:22:06](https://news.ycombinator.com/item?id=43329992) - [European-alternatives.eu Experiencing Massive Traffic Increase Since January](https://mastodon.social/@european_alternatives/114139039515682544)
 * [2025-03-11, 06:44:13](https://news.ycombinator.com/item?id=43329795) - [Meta must defend claim it stripped copyright info from Llama's training fodder](https://www.theregister.com/2025/03/11/meta_dmca_copyright_removal_case/)
+* [2025-03-11, 06:37:14](https://news.ycombinator.com/item?id=43329761) - [Modern Baby: A pioneering computer from Manchester](https://thechipletter.substack.com/p/modern-baby)
 * [2025-03-11, 05:59:00](https://news.ycombinator.com/item?id=43329580) - [A succinct email in just a subject line](https://rubenerd.com/a-succinct-email-in-just-a-subject-line/)
 * [2025-03-11, 05:30:45](https://news.ycombinator.com/item?id=43329427) - [A Supersolid Made Using Photons](https://www.photonicsonline.com/doc/a-super-solid-made-using-pho-tons-0001)
 * [2025-03-11, 05:19:50](https://news.ycombinator.com/item?id=43329373) - [Extreme poverty in India is now negligible, without an industrial miracle](https://www.economist.com/finance-and-economics/2025/02/27/india-has-undermined-a-popular-myth-about-development)
