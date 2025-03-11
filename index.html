@@ -129,23 +129,120 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="43331215">
+        <section id="43331582">
           <h3>
             <a
               class="item"
-              href="https://www.phoronix.com/news/GCC-15-Merges-COBOL"
-              >COBOL Language Front End Merged for GCC 15 Compiler</a
+              href="https://jackhopkins.github.io/factorio-learning-environment/"
+              >Show HN: Factorio Learning Environment – Agents Build
+              Factories</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-03-11 @ 11:02:09</span
+              <span>2025-03-11 @ 12:02:02</span
               ><span class="points-container"
-                >Points: <span class="points">6</span></span
+                >Points: <span class="points">82</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43331215"
+                ><a href="https://news.ycombinator.com/item?id=43331582"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 27</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                FLE is an open-source framework for developing and evaluating
+                LLM agents in Factorio. It provides a controlled environment
+                where AI models can attempt complex automation, resource
+                management, and optimisation tasks in a grounded world with
+                meaningful constraints.
+              </p>
+              <p>
+                A critical advantage of Factorio as a benchmark is its unbounded
+                nature. Unlike many evals that are quickly saturated by newer
+                models, Factorio's geometric complexity scaling means it won't
+                be "solved" in the next 6 months (or possibly even years). This
+                allows us to meaningfully compare models by the
+                order-of-magnitude of resources they can produce - creating a
+                benchmark with longevity.
+              </p>
+              <p>
+                The project began 18 months ago after years of playing Factorio,
+                recognising its potential as an AI research testbed. A few
+                months ago, our team (myself, Akbir, and Mart) came together to
+                create a benchmark that tests agent capabilities in spatial
+                reasoning and long-term planning.
+              </p>
+              <p>
+                Two technical innovations drove this project forward: First, we
+                discovered that piping Lua into the Factorio console over TCP
+                enables running (almost) arbitrary code without directly modding
+                the game. Second, we developed a first-class Python API that
+                wraps these Lua programs to provide a clean, type-hinted
+                interface for AI agents to interact with Factorio through
+                familiar programming paradigms.
+              </p>
+              <p>
+                Agents interact with FLE through a REPL pattern: 1. They observe
+                the world (seeing the output of their last action) 2. Generate
+                Python code to perform their next action 3. Receive detailed
+                feedback (including exceptions and stdout)
+              </p>
+              <p>
+                We provide two main evaluation settings: - Lab-play: 24
+                structured tasks with fixed resources - Open-play: An unbounded
+                task of building the largest possible factory on a procedurally
+                generated map
+              </p>
+              <p>
+                We found that while LLMs show promising short-horizon skills,
+                they struggle with spatial reasoning in constrained
+                environments. They can discover basic automation strategies
+                (like electric-powered drilling) but fail to achieve more
+                complex automation (like electronic circuit manufacturing).
+                Claude Sonnet 3.5 is currently the best model (by a significant
+                margin).
+              </p>
+              <p>
+                The code is available at
+                <a
+                  href="https://github.com/JackHopkins/factorio-learning-environment"
+                  >https://github.com/JackHopkins/factorio-learning-environment</a
+                >.
+              </p>
+              <p>
+                You'll need: - Factorio (version 1.1.110) - Docker - Python
+                3.10+
+              </p>
+              <p>
+                The README contains detailed installation instructions and
+                examples of how to run evaluations with different LLM agents.
+              </p>
+              <p>
+                We would love to hear your thoughts and see what others can do
+                with this framework!
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="43330900">
+          <h3>
+            <a
+              class="item"
+              href="https://seeinglogic.com/posts/visual-readability-patterns/"
+              >What Makes Code Hard to Read: Visual Patterns of Complexity
+              (2023)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-03-11 @ 10:07:17</span
+              ><span class="points-container"
+                >Points: <span class="points">46</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43330900"
+                  >Comments</a
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -162,11 +259,33 @@
             <h4>
               <span>2025-03-11 @ 07:51:32</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43330164"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 8</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="43329795">
+          <h3>
+            <a
+              class="item"
+              href="https://www.theregister.com/2025/03/11/meta_dmca_copyright_removal_case/"
+              >Meta must defend claim it stripped copyright info from Llama's
+              training fodder</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-03-11 @ 06:44:13</span
+              ><span class="points-container"
+                >Points: <span class="points">38</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43329795"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -183,11 +302,11 @@
             <h4>
               <span>2025-03-11 @ 05:19:50</span
               ><span class="points-container"
-                >Points: <span class="points">121</span></span
+                >Points: <span class="points">126</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43329373"
                   >Comments</a
-                ><span class="descendants">: 106</span></span
+                ><span class="descendants">: 118</span></span
               >
             </h4>
           </section>
@@ -203,11 +322,11 @@
             <h4>
               <span>2025-03-11 @ 01:05:10</span
               ><span class="points-container"
-                >Points: <span class="points">423</span></span
+                >Points: <span class="points">444</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43328095"
                   >Comments</a
-                ><span class="descendants">: 226</span></span
+                ><span class="descendants">: 235</span></span
               >
             </h4>
             <div class="text">
@@ -228,11 +347,11 @@
             <h4>
               <span>2025-03-11 @ 00:16:54</span
               ><span class="points-container"
-                >Points: <span class="points">85</span></span
+                >Points: <span class="points">92</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43327758"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -247,7 +366,7 @@
             <h4>
               <span>2025-03-11 @ 00:11:33</span
               ><span class="points-container"
-                >Points: <span class="points">173</span></span
+                >Points: <span class="points">174</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43327730"
                   >Comments</a
@@ -268,11 +387,11 @@
             <h4>
               <span>2025-03-10 @ 21:24:06</span
               ><span class="points-container"
-                >Points: <span class="points">244</span></span
+                >Points: <span class="points">247</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43326275"
                   >Comments</a
-                ><span class="descendants">: 357</span></span
+                ><span class="descendants">: 365</span></span
               >
             </h4>
           </section>
@@ -289,11 +408,11 @@
             <h4>
               <span>2025-03-10 @ 18:27:32</span
               ><span class="points-container"
-                >Points: <span class="points">346</span></span
+                >Points: <span class="points">349</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43323946"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -311,11 +430,11 @@
             <h4>
               <span>2025-03-10 @ 18:26:27</span
               ><span class="points-container"
-                >Points: <span class="points">225</span></span
+                >Points: <span class="points">231</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43323923"
                   >Comments</a
-                ><span class="descendants">: 191</span></span
+                ><span class="descendants">: 194</span></span
               >
             </h4>
           </section>
@@ -336,7 +455,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43323860"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -354,11 +473,11 @@
             <h4>
               <span>2025-03-10 @ 16:28:44</span
               ><span class="points-container"
-                >Points: <span class="points">435</span></span
+                >Points: <span class="points">441</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43322245"
                   >Comments</a
-                ><span class="descendants">: 143</span></span
+                ><span class="descendants">: 145</span></span
               >
             </h4>
           </section>
@@ -373,7 +492,7 @@
             <h4>
               <span>2025-03-10 @ 15:12:57</span
               ><span class="points-container"
-                >Points: <span class="points">136</span></span
+                >Points: <span class="points">137</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43321523"
                   >Comments</a
@@ -425,11 +544,11 @@
             <h4>
               <span>2025-03-10 @ 13:12:38</span
               ><span class="points-container"
-                >Points: <span class="points">470</span></span
+                >Points: <span class="points">473</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43320230"
                   >Comments</a
-                ><span class="descendants">: 111</span></span
+                ><span class="descendants">: 112</span></span
               >
             </h4>
             <div class="text">
@@ -450,11 +569,11 @@
             <h4>
               <span>2025-03-10 @ 12:48:32</span
               ><span class="points-container"
-                >Points: <span class="points">165</span></span
+                >Points: <span class="points">168</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43320024"
                   >Comments</a
-                ><span class="descendants">: 93</span></span
+                ><span class="descendants">: 96</span></span
               >
             </h4>
           </section>
@@ -469,7 +588,7 @@
             <h4>
               <span>2025-03-10 @ 09:50:33</span
               ><span class="points-container"
-                >Points: <span class="points">328</span></span
+                >Points: <span class="points">330</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43318624"
                   >Comments</a
@@ -493,7 +612,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43317887"
                   >Comments</a
-                ><span class="descendants">: 199</span></span
+                ><span class="descendants">: 200</span></span
               >
             </h4>
           </section>
@@ -510,7 +629,7 @@
             <h4>
               <span>2025-03-09 @ 09:20:20</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">80</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43307541"
                   >Comments</a
@@ -529,11 +648,33 @@
             <h4>
               <span>2025-03-09 @ 08:08:02</span
               ><span class="points-container"
-                >Points: <span class="points">91</span></span
+                >Points: <span class="points">107</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43307159"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 25</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="43306776">
+          <h3>
+            <a
+              class="item"
+              href="https://biradarganesh25.github.io/pluscal/db_migration.html"
+              >Formal Verification of Zero-Downtime Database Migration in
+              PlusCal</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-03-09 @ 06:31:11</span
+              ><span class="points-container"
+                >Points: <span class="points">17</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43306776"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -551,7 +692,7 @@
             <h4>
               <span>2025-03-09 @ 03:23:26</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43305881"
                   >Comments</a
@@ -572,7 +713,7 @@
             <h4>
               <span>2025-03-08 @ 22:35:44</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43304205"
                   >Comments</a
@@ -597,7 +738,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43304088"
                   >Comments</a
-                ><span class="descendants">: 106</span></span
+                ><span class="descendants">: 114</span></span
               >
             </h4>
           </section>
@@ -612,11 +753,11 @@
             <h4>
               <span>2025-03-08 @ 14:14:22</span
               ><span class="points-container"
-                >Points: <span class="points">210</span></span
+                >Points: <span class="points">212</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43300414"
                   >Comments</a
-                ><span class="descendants">: 177</span></span
+                ><span class="descendants">: 178</span></span
               >
             </h4>
           </section>
@@ -633,32 +774,11 @@
             <h4>
               <span>2025-03-08 @ 10:06:01</span
               ><span class="points-container"
-                >Points: <span class="points">143</span></span
+                >Points: <span class="points">147</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43298945"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43297563">
-          <h3>
-            <a
-              class="item"
-              href="https://www.lrb.co.uk/the-paper/v47/n04/lucy-wooding/take-a-cold-bath"
-              >Take a Cold Bath</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-03-08 @ 04:42:58</span
-              ><span class="points-container"
-                >Points: <span class="points">24</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43297563"
-                  >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -673,33 +793,11 @@
             <h4>
               <span>2025-03-07 @ 14:50:09</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">76</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43290620"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43289994">
-          <h3>
-            <a
-              class="item"
-              href="https://www.bbc.com/news/articles/cq6yg204pvmo"
-              >Planes are having their GPS hacked. Could new clocks keep them
-              safe?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-03-07 @ 13:31:46</span
-              ><span class="points-container"
-                >Points: <span class="points">176</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43289994"
-                  >Comments</a
-                ><span class="descendants">: 256</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -716,11 +814,11 @@
             <h4>
               <span>2025-03-07 @ 09:42:03</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43288691"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -735,32 +833,11 @@
             <h4>
               <span>2025-03-07 @ 08:54:00</span
               ><span class="points-container"
-                >Points: <span class="points">89</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43288410"
                   >Comments</a
-                ><span class="descendants">: 49</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43287327">
-          <h3>
-            <a
-              class="item"
-              href="https://www.abortretry.fail/p/so-powerful-its-kind-of-ridiculous"
-              >3dfx: So powerful, it's kind of ridiculous (2023)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-03-07 @ 04:07:18</span
-              ><span class="points-container"
-                >Points: <span class="points">269</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43287327"
-                  >Comments</a
-                ><span class="descendants">: 224</span></span
+                ><span class="descendants">: 50</span></span
               >
             </h4>
           </section>
