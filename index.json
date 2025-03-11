@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=43332944"
     ],
     [
-      "NIST Selects HQC as Fifth Algorithm for Post-Quantum Encryption",
+      "NIST selects HQC as fifth algorithm for post-quantum encryption",
       "https://www.nist.gov/news-events/news/2025/03/nist-selects-hqc-fifth-algorithm-post-quantum-encryption"
     ]
   ],
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=43332424"
     ],
     [
-      "Mapping the University of Chicago's 135-Year Expansion into Hyde Park and Beyond",
+      "Mapping the University of Chicago's 135-year expansion into Hyde Park and beyond",
       "https://chicagomaroon.github.io/data-visualizations/2025/uchicago-property/"
     ]
   ],
@@ -191,11 +191,21 @@
   ],
   [
     [
+      "2025-03-11, 11:25:13",
+      "https://news.ycombinator.com/item?id=43331358"
+    ],
+    [
+      "America Is Missing The New Labor Economy – Robotics Part 1",
+      "https://semianalysis.com/2025/03/11/america-is-missing-the-new-labor-economy-robotics-part-1/"
+    ]
+  ],
+  [
+    [
       "2025-03-11, 10:07:17",
       "https://news.ycombinator.com/item?id=43330900"
     ],
     [
-      "What Makes Code Hard to Read: Visual Patterns of Complexity (2023)",
+      "What makes code hard to read: Visual patterns of complexity (2023)",
       "https://seeinglogic.com/posts/visual-readability-patterns/"
     ]
   ],
@@ -241,22 +251,22 @@
   ],
   [
     [
+      "2025-03-10, 07:42:24",
+      "https://news.ycombinator.com/item?id=43317889"
+    ],
+    [
+      "Snapshots of Modern Mathematics from Oberwolfach",
+      "https://www.imaginary.org/snapshots"
+    ]
+  ],
+  [
+    [
       "2025-03-09, 08:08:02",
       "https://news.ycombinator.com/item?id=43307159"
     ],
     [
       "Sidekick: Local-first native macOS LLM app",
       "https://github.com/johnbean393/Sidekick"
-    ]
-  ],
-  [
-    [
-      "2025-03-09, 03:23:26",
-      "https://news.ycombinator.com/item?id=43305881"
-    ],
-    [
-      "Neonatal fungi: lifelong metabolic health via macrophage β cell development",
-      "https://www.science.org/doi/10.1126/science.adn0953"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "NASA to launch space observatory that will map 450M galaxies",
       "https://www.nbcnews.com/science/space/nasa-spherex-space-observatory-launch-map-galaxies-universe-rcna190877"
-    ]
-  ],
-  [
-    [
-      "2025-03-07, 14:50:09",
-      "https://news.ycombinator.com/item?id=43290620"
-    ],
-    [
-      "Bel in Clojure (2022)",
-      "https://stopa.io/post/290"
     ]
   ]
 ]
