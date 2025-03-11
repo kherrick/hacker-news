@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-03-11, 11:25:13",
-      "https://news.ycombinator.com/item?id=43331358"
-    ],
-    [
-      "SemiAnalysis: America Is Missing the New Labor Economy – Robotics",
-      "https://semianalysis.com/2025/03/11/america-is-missing-the-new-labor-economy-robotics-part-1/"
-    ]
-  ],
-  [
-    [
       "2025-03-11, 10:07:17",
       "https://news.ycombinator.com/item?id=43330900"
     ],
@@ -51,12 +41,12 @@
   ],
   [
     [
-      "2025-03-11, 06:44:13",
-      "https://news.ycombinator.com/item?id=43329795"
+      "2025-03-11, 06:37:14",
+      "https://news.ycombinator.com/item?id=43329761"
     ],
     [
-      "Meta must defend claim it stripped copyright info from Llama's training fodder",
-      "https://www.theregister.com/2025/03/11/meta_dmca_copyright_removal_case/"
+      "Modern Baby: A pioneering computer from Manchester",
+      "https://thechipletter.substack.com/p/modern-baby"
     ]
   ],
   [
@@ -181,22 +171,22 @@
   ],
   [
     [
-      "2025-03-10, 12:48:32",
-      "https://news.ycombinator.com/item?id=43320024"
-    ],
-    [
-      "Zero-Downtime Kubernetes Deployments on AWS with EKS",
-      "https://glasskube.dev/blog/kubernetes-zero-downtime-deployments-aws-eks/"
-    ]
-  ],
-  [
-    [
       "2025-03-10, 09:50:33",
       "https://news.ycombinator.com/item?id=43318624"
     ],
     [
       "Probabilistic Artificial Intelligence",
       "https://arxiv.org/abs/2502.05244"
+    ]
+  ],
+  [
+    [
+      "2025-03-10, 07:42:11",
+      "https://news.ycombinator.com/item?id=43317887"
+    ],
+    [
+      "Trees not profits: we're giving up our right to ever sell Ecosia (2018)",
+      "https://blog.ecosia.org/trees-not-profits/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "The Einstein AI Model",
       "https://thomwolf.io/blog/scientific-ai.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-07, 19:30:50",
+      "https://news.ycombinator.com/item?id=43293515"
+    ],
+    [
+      "Nexar Dashcam Crash Prediction Challenge",
+      "https://www.kaggle.com/competitions/nexar-collision-prediction"
     ]
   ],
   [
