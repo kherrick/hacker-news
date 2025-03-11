@@ -1,32 +1,12 @@
 [
   [
     [
-      "2025-03-11, 05:08:33",
-      "https://news.ycombinator.com/item?id=43329320"
+      "2025-03-11, 04:41:08",
+      "https://news.ycombinator.com/item?id=43329203"
     ],
     [
-      "Cloudflare blocking Pale Moon and other browsers",
-      "https://www.theregister.com/2025/03/04/cloudflare_blocking_niche_browsers/"
-    ]
-  ],
-  [
-    [
-      "2025-03-11, 04:56:33",
-      "https://news.ycombinator.com/item?id=43329261"
-    ],
-    [
-      "Leopards, Faces, etc.",
-      "https://blog.plover.com/politics/mangione.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-11, 03:00:15",
-      "https://news.ycombinator.com/item?id=43328736"
-    ],
-    [
-      "Pets Can't Stop Watching 'Flow,' the Oscar-Winning Cat Movie",
-      "https://www.nytimes.com/2025/03/09/movies/flow-movie-pets-oscars.html"
+      "GitHub is currently merging PRs in the UI with the wrong merge method",
+      "https://github.com/orgs/community/discussions/153620"
     ]
   ],
   [
@@ -107,6 +87,16 @@
     [
       "Software-Defined Radio for Engineers (2018) [pdf]",
       "https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-03-10, 17:30:34",
+      "https://news.ycombinator.com/item?id=43322922"
+    ],
+    [
+      "uBlock Origin is no longer available on the Chrome Store",
+      "https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Asking LLMs to create my game Shepard's Dog",
       "https://github.com/vnglst/when-ai-fails/blob/main/shepards-dog/README.md"
+    ]
+  ],
+  [
+    [
+      "2025-03-07, 14:50:09",
+      "https://news.ycombinator.com/item?id=43290620"
+    ],
+    [
+      "Bel in Clojure (2022)",
+      "https://stopa.io/post/290"
     ]
   ],
   [
