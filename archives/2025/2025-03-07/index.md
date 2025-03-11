@@ -59,6 +59,7 @@
 * [2025-03-07, 14:38:41](https://news.ycombinator.com/item?id=43290516) - [Help Me Help You, Maintainers](https://matduggan.com/help-me-help-you-maintainers/)
 * [2025-03-07, 14:36:50](https://news.ycombinator.com/item?id=43290498) - [How to Build a Thousand-Year-Old Tree](https://www.noemamag.com/how-to-build-a-thousand-year-old-tree/)
 * [2025-03-07, 14:24:33](https://news.ycombinator.com/item?id=43290408) - [How Monero Fulfilled Satoshi's Promise](https://zola.ink/blog/posts/how-monero-fulfilled-satoshis-promies)
+* [2025-03-07, 14:21:46](https://news.ycombinator.com/item?id=43290384) - [Mimicking shark skin to create clean cutting boards](https://www.morningagclips.com/mimicking-shark-skin-to-create-clean-cutting-boards/)
 * [2025-03-07, 13:31:46](https://news.ycombinator.com/item?id=43289994) - [Planes are having their GPS hacked. Could new clocks keep them safe?](https://www.bbc.com/news/articles/cq6yg204pvmo)
 * [2025-03-07, 13:30:08](https://news.ycombinator.com/item?id=43289990) - [Woman's DNA discovered in 20k year old deer-tooth pendant](https://www.cbc.ca/radio/quirks/pendant-ancient-dna-1.6832580)
 * [2025-03-07, 12:55:02](https://news.ycombinator.com/item?id=43289774) - [Mysterious tunnels sketched by Leonardo may have been found](https://www.cnn.com/2025/03/01/science/leonardo-da-vinci-sforza-castle-tunnels/index.html)
