@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-11, 11:05:10](https://news.ycombinator.com/item?id=43331231) - [Carlos Slim Cancels $22B in Starlink Orders](https://cleantechnica.com/2025/03/10/billionaire-carlos-slim-cancels-22-billion-in-starlink-orders-due-to-elon-musks-outburst/)
 * [2025-03-11, 08:21:59](https://news.ycombinator.com/item?id=43330331) - [ESP32 Undocumented Bluetooth Commands: Clearing the Air](https://developer.espressif.com/blog/2025/03/esp32-bluetooth-clearing-the-air/)
 * [2025-03-11, 07:56:19](https://news.ycombinator.com/item?id=43330206) - [New Zealand's $16B health dept managed finances with single Excel spreadsheet](https://www.theregister.com/2025/03/10/nz_health_excel_spreadsheet/)
 * [2025-03-11, 07:51:32](https://news.ycombinator.com/item?id=43330164) - [Local Deep Research – ArXiv, wiki and other searches included](https://github.com/LearningCircuit/local-deep-research)
@@ -18,7 +19,6 @@
 * [2025-03-10, 14:35:05](https://news.ycombinator.com/item?id=43321131) - [A technical history of Acorn Computers](https://www.mcmordie.co.uk/acornhistory/index.shtml)
 * [2025-03-10, 13:12:38](https://news.ycombinator.com/item?id=43320230) - [Canon EF and RF Lenses – All Autofocus Motors](https://exclusivearchitecture.com/03-technical-articles-CLT-12-autofocus-systems.html)
 * [2025-03-10, 12:48:32](https://news.ycombinator.com/item?id=43320024) - [Zero-Downtime Kubernetes Deployments on AWS with EKS](https://glasskube.dev/blog/kubernetes-zero-downtime-deployments-aws-eks/)
-* [2025-03-10, 09:50:33](https://news.ycombinator.com/item?id=43318624) - [Probabilistic Artificial Intelligence](https://arxiv.org/abs/2502.05244)
 * [2025-03-09, 09:20:20](https://news.ycombinator.com/item?id=43307541) - [How to Implement a Cosine Similarity Function in TypeScript](https://alexop.dev/posts/how-to-implement-a-cosine-similarity-function-in-typescript-for-vector-comparison/)
 * [2025-03-09, 08:08:02](https://news.ycombinator.com/item?id=43307159) - [Sidekick: Local-first native macOS LLM app](https://github.com/johnbean393/Sidekick)
 * [2025-03-09, 03:23:26](https://news.ycombinator.com/item?id=43305881) - [Neonatal fungi: lifelong metabolic health via macrophage β cell development](https://www.science.org/doi/10.1126/science.adn0953)
