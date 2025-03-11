@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-11](index.md)
 
+* [2025-03-11, 21:30:59](https://news.ycombinator.com/item?id=43337220) - [Unix Needs a True Integrated Environment: CASE Closed (1989) [pdf]](http://www.bitsavers.org/pdf/xerox/parc/techReports/CSL-89-4_UNIX_Needs_A_True_Integrated_Environment.pdf)
 * [2025-03-11, 21:23:54](https://news.ycombinator.com/item?id=43337151) - [Saturn Gains 128 New Moons, Bringing Its Total to 274](https://www.nytimes.com/2025/03/11/science/saturn-new-moons.html)
 * [2025-03-11, 21:09:56](https://news.ycombinator.com/item?id=43337028) - [Ask HN: How do you have effective 1:1s with your manager?](https://news.ycombinator.com/item?id=43337028)
 * [2025-03-11, 21:01:39](https://news.ycombinator.com/item?id=43336957) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
