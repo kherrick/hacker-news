@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-11, 21:23:54](https://news.ycombinator.com/item?id=43337151) - [Saturn Gains 128 New Moons, Bringing Its Total to 274](https://www.nytimes.com/2025/03/11/science/saturn-new-moons.html)
 * [2025-03-11, 21:09:56](https://news.ycombinator.com/item?id=43337028) - [Ask HN: How do you have effective 1:1s with your manager?](https://news.ycombinator.com/item?id=43337028)
 * [2025-03-11, 21:01:39](https://news.ycombinator.com/item?id=43336957) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2025-03-11, 19:53:24](https://news.ycombinator.com/item?id=43336381) - [\"It has been determined\" that infected dairy herd serology can be disclosed](https://hogvet51.substack.com/p/one-year-later-it-has-been-determined)
@@ -24,7 +25,6 @@
 * [2025-03-11, 12:02:02](https://news.ycombinator.com/item?id=43331582) - [Show HN: Factorio Learning Environment – Agents Build Factories](https://jackhopkins.github.io/factorio-learning-environment/)
 * [2025-03-11, 11:25:13](https://news.ycombinator.com/item?id=43331358) - [America Is Missing The New Labor Economy – Robotics Part 1](https://semianalysis.com/2025/03/11/america-is-missing-the-new-labor-economy-robotics-part-1/)
 * [2025-03-11, 10:07:17](https://news.ycombinator.com/item?id=43330900) - [What makes code hard to read: Visual patterns of complexity (2023)](https://seeinglogic.com/posts/visual-readability-patterns/)
-* [2025-03-11, 07:51:32](https://news.ycombinator.com/item?id=43330164) - [Local Deep Research – ArXiv, wiki and other searches included](https://github.com/LearningCircuit/local-deep-research)
 * [2025-03-11, 01:05:10](https://news.ycombinator.com/item?id=43328095) - [Show HN: Seven39, a social media app that is only open for 3 hours every evening](https://www.seven39.com)
 * [2025-03-10, 07:42:24](https://news.ycombinator.com/item?id=43317889) - [Snapshots of Modern Mathematics from Oberwolfach](https://www.imaginary.org/snapshots)
 * [2025-03-09, 03:15:51](https://news.ycombinator.com/item?id=43305842) - [In contrast to Earth, Mars's middle atmosphere appears driven by gravity waves](https://phys.org/news/2025-03-contrast-earth-mars-middle-atmosphere.html)
