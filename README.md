@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-11, 05:30:45](https://news.ycombinator.com/item?id=43329427) - [A Supersolid Made Using Photons](https://www.photonicsonline.com/doc/a-super-solid-made-using-pho-tons-0001)
 * [2025-03-11, 05:19:50](https://news.ycombinator.com/item?id=43329373) - [Extreme poverty in India is now negligible, without an industrial miracle](https://www.economist.com/finance-and-economics/2025/02/27/india-has-undermined-a-popular-myth-about-development)
 * [2025-03-11, 01:05:10](https://news.ycombinator.com/item?id=43328095) - [Seven39 – a social media app that is only open for 3 hours every evening](https://www.seven39.com)
 * [2025-03-11, 00:16:54](https://news.ycombinator.com/item?id=43327758) - [Shef](https://github.com/eduardoagarcia/shef)
@@ -9,7 +10,6 @@
 * [2025-03-10, 18:27:32](https://news.ycombinator.com/item?id=43323946) - [Mathematical Foundations of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
 * [2025-03-10, 18:22:57](https://news.ycombinator.com/item?id=43323860) - [STEPS Toward the Reinvention of Programming (2012) [pdf]](https://tinlizzie.org/VPRIPapers/tr2012001_steps.pdf)
 * [2025-03-10, 17:40:40](https://news.ycombinator.com/item?id=43323071) - [Software-Defined Radio for Engineers (2018) [pdf]](https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf)
-* [2025-03-10, 17:30:34](https://news.ycombinator.com/item?id=43322922) - [uBlock Origin is no longer available on the Chrome Store](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
 * [2025-03-10, 16:28:44](https://news.ycombinator.com/item?id=43322245) - [Music labels will regret coming for the Internet Archive, sound historian says](https://arstechnica.com/tech-policy/2025/03/music-labels-will-regret-coming-for-the-internet-archive-sound-historian-says/)
 * [2025-03-10, 15:31:57](https://news.ycombinator.com/item?id=43321688) - [Show HN: Editable Games](https://playscl.com/make)
 * [2025-03-10, 15:12:57](https://news.ycombinator.com/item?id=43321523) - [Show HN: In-Browser Graph RAG with Kuzu-WASM and WebLLM](https://blog.kuzudb.com/post/kuzu-wasm-rag/)
