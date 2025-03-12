@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-12, 17:26:38](https://news.ycombinator.com/item?id=43345575) - [Show HN: Nuanced – Help AI understand code structure, not just text](https://www.nuanced.dev/blog/initial-launch)
 * [2025-03-12, 17:01:02](https://news.ycombinator.com/item?id=43345297) - [Artie (YC S23) Is Hiring Engineer #3](https://www.ycombinator.com/companies/artie/jobs/Vz704T1-founding-engineer-distributed-systems)
 * [2025-03-12, 17:00:28](https://news.ycombinator.com/item?id=43345285) - [Shenmue (1999) Reverse Engineering Reveals Possible Sun Position Oversight](https://wulinshu.com/2025/03/11/reverse-engineering-adventures-3-bug-or-not-bug/)
 * [2025-03-12, 16:07:35](https://news.ycombinator.com/item?id=43344703) - [The Cultural Divide Between Mathematics and AI](https://sugaku.net/content/understanding-the-cultural-divide-between-mathematics-and-ai/)
@@ -22,10 +23,9 @@
 * [2025-03-12, 03:16:28](https://news.ycombinator.com/item?id=43339629) - [Show HN: XPipe, a shell connection hub for SSH, Docker, K8s, VMs, and more](https://xpipe.io/)
 * [2025-03-12, 03:08:23](https://news.ycombinator.com/item?id=43339584) - [Show HN: VSC – An open source 3D Rendering Engine in C++](https://github.com/WW92030-STORAGE/VSC)
 * [2025-03-12, 03:05:47](https://news.ycombinator.com/item?id=43339563) - [Beyond Diffusion: Inductive Moment Matching](https://lumalabs.ai/news/inductive-moment-matching)
-* [2025-03-12, 01:54:35](https://news.ycombinator.com/item?id=43339206) - [A look at the creative process behind Bluey and Cocomelon (2024)](https://www.readtrung.com/p/why-i-love-bluey-and-hate-cocomelon)
 * [2025-03-11, 22:18:42](https://news.ycombinator.com/item?id=43337703) - [The Startup CTO's Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md)
-* [2025-03-09, 19:08:45](https://news.ycombinator.com/item?id=43312527) - [Internationalization-puzzles: Daily programming puzzles just like Advent of Code](https://i18n-puzzles.com/)
 * [2025-03-09, 15:10:38](https://news.ycombinator.com/item?id=43309696) - [Definite clause grammars and symbolic differentiation](https://bitsandtheorems.com/definite-clause-grammars-and-symbolic-differentiation/)
+* [2025-03-09, 14:25:40](https://news.ycombinator.com/item?id=43309261) - [Show HN: Translate Japanese Manga and Korean Manhwa with Chrome Extension](https://pawakalabs.com/products/fakey/)
 * [2025-03-09, 11:53:58](https://news.ycombinator.com/item?id=43308278) - [Open-UI: Maintain an open standard for UI and promote its adherence and adoption](https://github.com/openui/open-ui)
 * [2025-03-09, 10:06:27](https://news.ycombinator.com/item?id=43307751) - [My stupid noise journey](https://dynomight.net/noise/)
 * [2025-03-09, 05:21:41](https://news.ycombinator.com/item?id=43306514) - [Constant-time coding will soon become infeasible](https://eprint.iacr.org/2025/435)
