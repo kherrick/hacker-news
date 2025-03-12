@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-12, 17:01:02](https://news.ycombinator.com/item?id=43345297) - [Artie (YC S23) Is Hiring Engineer #3](https://www.ycombinator.com/companies/artie/jobs/Vz704T1-founding-engineer-distributed-systems)
+* [2025-03-12, 17:00:28](https://news.ycombinator.com/item?id=43345285) - [Shenmue (1999) Reverse Engineering Reveals Possible Sun Position Oversight](https://wulinshu.com/2025/03/11/reverse-engineering-adventures-3-bug-or-not-bug/)
 * [2025-03-12, 16:07:35](https://news.ycombinator.com/item?id=43344703) - [The Cultural Divide Between Mathematics and AI](https://sugaku.net/content/understanding-the-cultural-divide-between-mathematics-and-ai/)
 * [2025-03-12, 16:04:54](https://news.ycombinator.com/item?id=43344673) - [Reverse Engineering OpenAI Code Execution to make it run C and JavaScript](https://twitter.com/benswerd/status/1899853533761200300)
 * [2025-03-12, 15:58:36](https://news.ycombinator.com/item?id=43344595) - [Show HN: AudioNimbus – Steam Audio's immersive spatial audio, now in Rust](https://github.com/MaxenceMaire/audionimbus)
@@ -9,7 +11,6 @@
 * [2025-03-12, 12:56:01](https://news.ycombinator.com/item?id=43342712) - [The DuckDB Local UI](https://duckdb.org/2025/03/12/duckdb-ui.html)
 * [2025-03-12, 12:13:42](https://news.ycombinator.com/item?id=43342407) - [How far neuroscience is from understanding brains (2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10585277/)
 * [2025-03-12, 12:08:43](https://news.ycombinator.com/item?id=43342361) - [Peer-to-peer file transfers in the browser](https://github.com/kern/filepizza)
-* [2025-03-12, 12:00:28](https://news.ycombinator.com/item?id=43342301) - [Pivot Robotics (YC W24) Is Hiring](https://www.ycombinator.com/companies/pivot-robotics/jobs/0sRNlmU-robotics-software-engineer)
 * [2025-03-12, 11:42:16](https://news.ycombinator.com/item?id=43342178) - [The Future Is Niri](https://ersei.net/en/blog/niri)
 * [2025-03-12, 11:29:18](https://news.ycombinator.com/item?id=43342101) - [Show HN: We built Lovable for Mobile Apps (uses Flutter)](https://www.getavid.dev)
 * [2025-03-12, 11:24:40](https://news.ycombinator.com/item?id=43342071) - [First Ammonia-Fueled Ship Hits a Snag](https://spectrum.ieee.org/ammonia-fuel-2671266100)
@@ -24,7 +25,6 @@
 * [2025-03-12, 01:54:35](https://news.ycombinator.com/item?id=43339206) - [A look at the creative process behind Bluey and Cocomelon (2024)](https://www.readtrung.com/p/why-i-love-bluey-and-hate-cocomelon)
 * [2025-03-11, 23:47:43](https://news.ycombinator.com/item?id=43338405) - [Sorting algorithms with CUDA](https://ashwanirathee.com/blog/2025/sort2/)
 * [2025-03-11, 22:18:42](https://news.ycombinator.com/item?id=43337703) - [The Startup CTO's Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md)
-* [2025-03-11, 14:14:35](https://news.ycombinator.com/item?id=43332658) - [Happy 20th Birthday, Y Combinator](https://twitter.com/garrytan/status/1899092996702048709)
 * [2025-03-09, 19:08:45](https://news.ycombinator.com/item?id=43312527) - [Internationalization-puzzles: Daily programming puzzles just like Advent of Code](https://i18n-puzzles.com/)
 * [2025-03-09, 15:10:38](https://news.ycombinator.com/item?id=43309696) - [Definite clause grammars and symbolic differentiation](https://bitsandtheorems.com/definite-clause-grammars-and-symbolic-differentiation/)
 * [2025-03-09, 11:53:58](https://news.ycombinator.com/item?id=43308278) - [Open-UI: Maintain an open standard for UI and promote its adherence and adoption](https://github.com/openui/open-ui)

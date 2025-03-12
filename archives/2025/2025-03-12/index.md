@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-12](index.md)
 
+* [2025-03-12, 17:01:02](https://news.ycombinator.com/item?id=43345297) - [Artie (YC S23) Is Hiring Engineer #3](https://www.ycombinator.com/companies/artie/jobs/Vz704T1-founding-engineer-distributed-systems)
+* [2025-03-12, 17:00:28](https://news.ycombinator.com/item?id=43345285) - [Shenmue (1999) Reverse Engineering Reveals Possible Sun Position Oversight](https://wulinshu.com/2025/03/11/reverse-engineering-adventures-3-bug-or-not-bug/)
 * [2025-03-12, 16:07:35](https://news.ycombinator.com/item?id=43344703) - [The Cultural Divide Between Mathematics and AI](https://sugaku.net/content/understanding-the-cultural-divide-between-mathematics-and-ai/)
 * [2025-03-12, 16:04:54](https://news.ycombinator.com/item?id=43344673) - [Reverse Engineering OpenAI Code Execution to make it run C and JavaScript](https://twitter.com/benswerd/status/1899853533761200300)
 * [2025-03-12, 15:58:36](https://news.ycombinator.com/item?id=43344595) - [Show HN: AudioNimbus – Steam Audio's immersive spatial audio, now in Rust](https://github.com/MaxenceMaire/audionimbus)
