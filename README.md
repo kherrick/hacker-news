@@ -28,7 +28,7 @@
 * [2025-03-09, 10:38:28](https://news.ycombinator.com/item?id=43307861) - [Sovereign Lumber](https://mill.plainopen.com/sovereign-lumber)
 * [2025-03-09, 10:32:54](https://news.ycombinator.com/item?id=43307845) - [A Committed Year](https://www.ramijames.com/thoughts/a-committed-year)
 * [2025-03-09, 05:02:03](https://news.ycombinator.com/item?id=43306421) - [Ask HN: Should there be new RPN calculators to replace the TI-84?](https://news.ycombinator.com/item?id=43306421)
-* [2025-03-08, 21:38:29](https://news.ycombinator.com/item?id=43303765) - [Quantum state engineering&photon statistics at electromagnetic time interfaces](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013120)
+* [2025-03-08, 21:38:29](https://news.ycombinator.com/item?id=43303765) - [Quantum state engineering, photon statistics at electromagnetic time interfaces](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013120)
 * [2025-03-08, 00:07:15](https://news.ycombinator.com/item?id=43296184) - [NASA to launch space observatory that will map 450M galaxies](https://www.nbcnews.com/science/space/nasa-spherex-space-observatory-launch-map-galaxies-universe-rcna190877)
 
 ## [Archives](archives/index.md)
