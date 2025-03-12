@@ -9,6 +9,7 @@
 * [2025-03-12, 12:08:43](https://news.ycombinator.com/item?id=43342361) - [Peer-to-peer file transfers in the browser](https://github.com/kern/filepizza)
 * [2025-03-12, 12:00:28](https://news.ycombinator.com/item?id=43342301) - [Pivot Robotics (YC W24) Is Hiring](https://www.ycombinator.com/companies/pivot-robotics/jobs/0sRNlmU-robotics-software-engineer)
 * [2025-03-12, 11:42:16](https://news.ycombinator.com/item?id=43342178) - [The Future Is Niri](https://ersei.net/en/blog/niri)
+* [2025-03-12, 11:26:30](https://news.ycombinator.com/item?id=43342081) - [Children under eight should avoid slushies as glycerol leads to hospitalisations](https://news.sky.com/story/children-under-eight-should-avoid-slushies-as-glycerol-leads-to-hospitalisations-study-13326879)
 * [2025-03-12, 11:24:40](https://news.ycombinator.com/item?id=43342071) - [First Ammonia-Fueled Ship Hits a Snag](https://spectrum.ieee.org/ammonia-fuel-2671266100)
 * [2025-03-12, 10:48:00](https://news.ycombinator.com/item?id=43341801) - [C programming language official site](https://www.c-language.org/)
 * [2025-03-12, 10:46:18](https://news.ycombinator.com/item?id=43341789) - [Space Invaders](https://www.computerarcheology.com/Arcade/SpaceInvaders/)
