@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-03-12, 09:18:52",
+      "https://news.ycombinator.com/item?id=43341226"
+    ],
+    [
+      "EU to impose counter tariffs on $28 billion of US goods",
+      "https://www.reuters.com/markets/europe/eu-impose-counter-tariffs-over-28-billion-us-goods-2025-03-12/"
+    ]
+  ],
+  [
+    [
+      "2025-03-12, 08:34:30",
+      "https://news.ycombinator.com/item?id=43340994"
+    ],
+    [
+      "AI fakers exposed in tech dev recruitment: postmortem",
+      "https://newsletter.pragmaticengineer.com/p/ai-fakers"
+    ]
+  ],
+  [
+    [
       "2025-03-12, 07:48:15",
       "https://news.ycombinator.com/item?id=43340785"
     ],
     [
       "Gemma3 – The current strongest model that fits on a single GPU",
       "https://ollama.com/library/gemma3"
+    ]
+  ],
+  [
+    [
+      "2025-03-12, 07:38:35",
+      "https://news.ycombinator.com/item?id=43340731"
+    ],
+    [
+      "I stopped everything and started writing C again",
+      "https://www.kmx.io/blog/why-stopped-everything-and-started-writing-C-again"
     ]
   ],
   [
@@ -171,26 +201,6 @@
   ],
   [
     [
-      "2025-03-11, 16:12:43",
-      "https://news.ycombinator.com/item?id=43333946"
-    ],
-    [
-      "Show HN: Krep a High-Performance String Search Utility Written in C",
-      "https://davidesantangelo.github.io/krep/"
-    ]
-  ],
-  [
-    [
-      "2025-03-11, 15:32:46",
-      "https://news.ycombinator.com/item?id=43333484"
-    ],
-    [
-      "AI-Generated Voice Evidence Poses Dangers in Court",
-      "https://www.lawfaremedia.org/article/ai-generated-voice-evidence-poses-dangers-in-court"
-    ]
-  ],
-  [
-    [
       "2025-03-11, 14:32:23",
       "https://news.ycombinator.com/item?id=43332830"
     ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2025-03-11, 10:07:17",
-      "https://news.ycombinator.com/item?id=43330900"
-    ],
-    [
-      "What makes code hard to read: Visual patterns of complexity (2023)",
-      "https://seeinglogic.com/posts/visual-readability-patterns/"
-    ]
-  ],
-  [
-    [
       "2025-03-09, 21:13:32",
       "https://news.ycombinator.com/item?id=43313902"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2025-03-09, 12:21:57",
-      "https://news.ycombinator.com/item?id=43308477"
-    ],
-    [
-      "Show HN: Daylight – track sunrise / sunset times in your terminal",
-      "https://github.com/jbreckmckye/daylight"
-    ]
-  ],
-  [
-    [
       "2025-03-09, 10:38:28",
       "https://news.ycombinator.com/item?id=43307861"
     ],
     [
       "Sovereign Lumber",
       "https://mill.plainopen.com/sovereign-lumber"
+    ]
+  ],
+  [
+    [
+      "2025-03-09, 10:06:27",
+      "https://news.ycombinator.com/item?id=43307751"
+    ],
+    [
+      "My Stupid Noise Journey",
+      "https://dynomight.net/noise/"
     ]
   ],
   [
