@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-12](index.md)
 
+* [2025-03-12, 05:21:33](https://news.ycombinator.com/item?id=43340196) - [The Insecurity of Telecom Stacks in the Wake of Salt Typhoon](https://soatok.blog/2025/03/12/on-the-insecurity-of-telecom-stacks-in-the-wake-of-salt-typhoon/)
 * [2025-03-12, 03:56:59](https://news.ycombinator.com/item?id=43339829) - [Mozilla's response to proposed remedies in U.S. vs. Google](https://blog.mozilla.org/en/mozilla/internet-policy/proposed-remedies-browsers/)
 * [2025-03-12, 03:16:28](https://news.ycombinator.com/item?id=43339629) - [Show HN: XPipe, a shell connection hub for SSH, Docker, K8s, VMs, and more](https://xpipe.io/)
 * [2025-03-12, 03:08:23](https://news.ycombinator.com/item?id=43339584) - [Show HN: VSC – An open source 3D Rendering Engine in C++](https://github.com/WW92030-STORAGE/VSC)
