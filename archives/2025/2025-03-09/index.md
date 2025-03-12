@@ -79,6 +79,7 @@
 * [2025-03-09, 06:31:11](https://news.ycombinator.com/item?id=43306776) - [Formal Verification of Zero-Downtime Database Migration in PlusCal](https://biradarganesh25.github.io/pluscal/db_migration.html)
 * [2025-03-09, 06:23:02](https://news.ycombinator.com/item?id=43306734) - [Stem cell therapy trial reverses \"irreversible\" damage to cornea](https://newatlas.com/biology/stem-cell-therapy-reverses-irreversible-damage-cornea/)
 * [2025-03-09, 05:44:24](https://news.ycombinator.com/item?id=43306599) - [Magnesium Self-Experiments](https://gwern.net/nootropic/magnesium)
+* [2025-03-09, 05:21:41](https://news.ycombinator.com/item?id=43306514) - [Constant-time coding will soon become infeasible](https://eprint.iacr.org/2025/435)
 * [2025-03-09, 05:04:05](https://news.ycombinator.com/item?id=43306435) - [Committing fraud is a viable career strategy](https://statmodeling.stat.columbia.edu/2025/03/08/a-post-mortem-on-the-gino-case-committing-fraud-is-right-now-a-viable-career-strategy-that-can-propel-you-at-the-top-of-the-academic-world/)
 * [2025-03-09, 05:02:03](https://news.ycombinator.com/item?id=43306421) - [Ask HN: Should there be new RPN calculators to replace the TI-84?](https://news.ycombinator.com/item?id=43306421)
 * [2025-03-09, 04:19:30](https://news.ycombinator.com/item?id=43306192) - [State Department Will Use AI to Search for 'Pro-Hamas' Students to Deport](https://gizmodo.com/state-department-will-use-ai-to-search-for-pro-hamas-students-to-deport-2000573143)
