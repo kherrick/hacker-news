@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-12, 12:56:01](https://news.ycombinator.com/item?id=43342712) - [The DuckDB Local UI](https://duckdb.org/2025/03/12/duckdb-ui.html)
 * [2025-03-12, 12:13:42](https://news.ycombinator.com/item?id=43342407) - [How far neuroscience is from understanding brains (2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10585277/)
 * [2025-03-12, 12:08:43](https://news.ycombinator.com/item?id=43342361) - [Peer-to-peer file transfers in the browser](https://github.com/kern/filepizza)
 * [2025-03-12, 12:00:28](https://news.ycombinator.com/item?id=43342301) - [Pivot Robotics (YC W24) Is Hiring](https://www.ycombinator.com/companies/pivot-robotics/jobs/0sRNlmU-robotics-software-engineer)
@@ -26,7 +27,6 @@
 * [2025-03-09, 19:08:45](https://news.ycombinator.com/item?id=43312527) - [Internationalization-puzzles: Daily programming puzzles just like Advent of Code](https://i18n-puzzles.com/)
 * [2025-03-09, 11:53:58](https://news.ycombinator.com/item?id=43308278) - [Open-UI: Maintain an open standard for UI and promote its adherence and adoption](https://github.com/openui/open-ui)
 * [2025-03-09, 10:38:28](https://news.ycombinator.com/item?id=43307861) - [Sovereign Lumber](https://mill.plainopen.com/sovereign-lumber)
-* [2025-03-09, 10:32:54](https://news.ycombinator.com/item?id=43307845) - [A Committed Year](https://www.ramijames.com/thoughts/a-committed-year)
 * [2025-03-09, 05:02:03](https://news.ycombinator.com/item?id=43306421) - [Ask HN: Should there be new RPN calculators to replace the TI-84?](https://news.ycombinator.com/item?id=43306421)
 * [2025-03-08, 21:38:29](https://news.ycombinator.com/item?id=43303765) - [Quantum state engineering, photon statistics at electromagnetic time interfaces](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013120)
 * [2025-03-08, 00:07:15](https://news.ycombinator.com/item?id=43296184) - [NASA to launch space observatory that will map 450M galaxies](https://www.nbcnews.com/science/space/nasa-spherex-space-observatory-launch-map-galaxies-universe-rcna190877)
