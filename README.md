@@ -19,6 +19,7 @@
 * [2025-03-12, 06:11:41](https://news.ycombinator.com/item?id=43340385) - [A more robust raw OpenBSD syscall demo](https://nullprogram.com/blog/2025/03/06/)
 * [2025-03-12, 05:21:33](https://news.ycombinator.com/item?id=43340196) - [The Insecurity of Telecom Stacks in the Wake of Salt Typhoon](https://soatok.blog/2025/03/12/on-the-insecurity-of-telecom-stacks-in-the-wake-of-salt-typhoon/)
 * [2025-03-12, 03:16:28](https://news.ycombinator.com/item?id=43339629) - [Show HN: XPipe, a shell connection hub for SSH, Docker, K8s, VMs, and more](https://xpipe.io/)
+* [2025-03-12, 03:08:23](https://news.ycombinator.com/item?id=43339584) - [Show HN: VSC – An open source 3D Rendering Engine in C++](https://github.com/WW92030-STORAGE/VSC)
 * [2025-03-12, 03:05:47](https://news.ycombinator.com/item?id=43339563) - [Beyond Diffusion: Inductive Moment Matching](https://lumalabs.ai/news/inductive-moment-matching)
 * [2025-03-12, 01:54:35](https://news.ycombinator.com/item?id=43339206) - [A look at the creative process behind Bluey and Cocomelon (2024)](https://www.readtrung.com/p/why-i-love-bluey-and-hate-cocomelon)
 * [2025-03-11, 23:47:43](https://news.ycombinator.com/item?id=43338405) - [Sorting algorithms with CUDA](https://ashwanirathee.com/blog/2025/sort2/)
@@ -28,7 +29,6 @@
 * [2025-03-09, 15:10:38](https://news.ycombinator.com/item?id=43309696) - [Definite clause grammars and symbolic differentiation](https://bitsandtheorems.com/definite-clause-grammars-and-symbolic-differentiation/)
 * [2025-03-09, 11:53:58](https://news.ycombinator.com/item?id=43308278) - [Open-UI: Maintain an open standard for UI and promote its adherence and adoption](https://github.com/openui/open-ui)
 * [2025-03-09, 05:21:41](https://news.ycombinator.com/item?id=43306514) - [Constant-time coding will soon become infeasible](https://eprint.iacr.org/2025/435)
-* [2025-03-08, 21:38:29](https://news.ycombinator.com/item?id=43303765) - [Quantum state engineering, photon statistics at electromagnetic time interfaces](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013120)
 * [2025-03-08, 15:49:47](https://news.ycombinator.com/item?id=43301095) - [FDA issues early alert for Baxter's Spectrum infusion pump](https://www.medicaldevice-network.com/news/fda-issues-early-alert-for-baxter-spectrum-infusion-pump/)
 
 ## [Archives](archives/index.md)
