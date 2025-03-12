@@ -25,6 +25,7 @@
 * [2025-03-09, 19:46:39](https://news.ycombinator.com/item?id=43312975) - [Ontology Is Overrated – Categories, Links, and Tags (2005)](https://web.archive.org/web/20190729120538/http://www.shirky.com/writings/ontology_overrated.html)
 * [2025-03-09, 19:41:42](https://news.ycombinator.com/item?id=43312920) - [H.R. 1936: To prohibit funds for the USAF to invade Canada, Panama, or Greenland](https://www.govtrack.us/congress/bills/119/hr1936)
 * [2025-03-09, 19:18:41](https://news.ycombinator.com/item?id=43312652) - [With AI You Need to Think Much Bigger](https://rodyne.com/?p=1828)
+* [2025-03-09, 19:08:45](https://news.ycombinator.com/item?id=43312527) - [Internationalization-puzzles: Daily programming puzzles just like Advent of Code](https://i18n-puzzles.com/)
 * [2025-03-09, 19:07:56](https://news.ycombinator.com/item?id=43312516) - [Poland says it may need alternative to Musk’s Starlink in Ukraine](https://www.reuters.com/world/europe/poland-says-it-may-need-alternative-musks-starlink-ukraine-2025-03-09/)
 * [2025-03-09, 18:40:17](https://news.ycombinator.com/item?id=43312242) - [Violent and sudden. What a firing squad execution looked like through my eyes](https://apnews.com/article/south-carolina-firing-squad-eyewitness-account-sigmon-427cccb55be58954af4434e89bcc41d8)
 * [2025-03-09, 18:35:37](https://news.ycombinator.com/item?id=43312199) - [We built a Modern Data Stack from scratch and reduced our bill by 70%](https://jchandra.com/posts/data-infra/)

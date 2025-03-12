@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-12, 03:56:59](https://news.ycombinator.com/item?id=43339829) - [Mozilla's response to proposed remedies in U.S. vs. Google](https://blog.mozilla.org/en/mozilla/internet-policy/proposed-remedies-browsers/)
+* [2025-03-12, 03:16:28](https://news.ycombinator.com/item?id=43339629) - [Show HN: XPipe, a shell connection hub for SSH, Docker, K8s, VMs, and more](https://xpipe.io/)
 * [2025-03-12, 03:08:23](https://news.ycombinator.com/item?id=43339584) - [Show HN: VSC – An open source 3D Rendering Engine in C++](https://github.com/WW92030-STORAGE/VSC)
 * [2025-03-12, 03:05:47](https://news.ycombinator.com/item?id=43339563) - [Beyond Diffusion: Inductive Moment Matching](https://lumalabs.ai/news/inductive-moment-matching)
 * [2025-03-12, 01:54:35](https://news.ycombinator.com/item?id=43339206) - [A look at the creative process behind Bluey and Cocomelon](https://www.readtrung.com/p/why-i-love-bluey-and-hate-cocomelon)
@@ -9,7 +10,6 @@
 * [2025-03-11, 23:47:43](https://news.ycombinator.com/item?id=43338405) - [Sorting algorithms with CUDA](https://ashwanirathee.com/blog/2025/sort2/)
 * [2025-03-11, 22:18:42](https://news.ycombinator.com/item?id=43337703) - [The Startup CTO's Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md)
 * [2025-03-11, 21:01:39](https://news.ycombinator.com/item?id=43336957) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
-* [2025-03-11, 18:40:54](https://news.ycombinator.com/item?id=43335679) - [How do we tell truths that might hurt? (1975)](https://www.cs.virginia.edu/~evans/cs655/readings/ewd498.html)
 * [2025-03-11, 17:46:01](https://news.ycombinator.com/item?id=43335110) - [Backyard Cyanide](https://suziepetryk.com/blog/cyanide.html)
 * [2025-03-11, 17:04:57](https://news.ycombinator.com/item?id=43334644) - [New tools for building agents](https://openai.com/index/new-tools-for-building-agents/)
 * [2025-03-11, 17:00:46](https://news.ycombinator.com/item?id=43334589) - [Launch HN: Sift Dev (YC W25) – AI-Powered Datadog Alternative](https://news.ycombinator.com/item?id=43334589)
@@ -24,10 +24,10 @@
 * [2025-03-11, 12:02:02](https://news.ycombinator.com/item?id=43331582) - [Show HN: Factorio Learning Environment – Agents Build Factories](https://jackhopkins.github.io/factorio-learning-environment/)
 * [2025-03-11, 10:07:17](https://news.ycombinator.com/item?id=43330900) - [What makes code hard to read: Visual patterns of complexity (2023)](https://seeinglogic.com/posts/visual-readability-patterns/)
 * [2025-03-11, 06:37:14](https://news.ycombinator.com/item?id=43329761) - [Modern Baby: A pioneering computer from Manchester](https://thechipletter.substack.com/p/modern-baby)
+* [2025-03-09, 19:08:45](https://news.ycombinator.com/item?id=43312527) - [Internationalization-puzzles: Daily programming puzzles just like Advent of Code](https://i18n-puzzles.com/)
 * [2025-03-09, 12:44:44](https://news.ycombinator.com/item?id=43308636) - [The Early History of Deferred Shading and Lighting](https://sites.google.com/site/richgel99/the-early-history-of-deferred-shading-and-lighting)
 * [2025-03-09, 03:15:51](https://news.ycombinator.com/item?id=43305842) - [In contrast to Earth, Mars's middle atmosphere appears driven by gravity waves](https://phys.org/news/2025-03-contrast-earth-mars-middle-atmosphere.html)
 * [2025-03-08, 06:48:01](https://news.ycombinator.com/item?id=43298075) - [Tesco trials giant trolley scales in Gateshead](https://www.bbc.co.uk/news/articles/c0rzvrjkklko)
-* [2025-03-08, 05:02:28](https://news.ycombinator.com/item?id=43297636) - [What Is It Like to Be a Bass? Fish-Eye View Photography (1919–22)](https://publicdomainreview.org/collection/fish-eye-view-photography/)
 * [2025-03-08, 00:07:15](https://news.ycombinator.com/item?id=43296184) - [NASA to launch space observatory that will map 450M galaxies](https://www.nbcnews.com/science/space/nasa-spherex-space-observatory-launch-map-galaxies-universe-rcna190877)
 * [2025-03-07, 16:03:18](https://news.ycombinator.com/item?id=43291258) - [When Crocodiles Attack: The Ramree Island Massacre (2013)](https://www.atlasobscura.com/articles/the-ramree-island-massacre)
 
