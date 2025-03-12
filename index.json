@@ -1,11 +1,41 @@
 [
   [
     [
+      "2025-03-12, 21:12:05",
+      "https://news.ycombinator.com/item?id=43347724"
+    ],
+    [
+      "The Night Watch (2013) [pdf]",
+      "https://www.usenix.org/system/files/1311_05-08_mickens.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-03-12, 21:05:08",
+      "https://news.ycombinator.com/item?id=43347662"
+    ],
+    [
+      "Mark Klein, AT&T whistleblower who revealed NSA mass spying, has died",
+      "https://www.eff.org/deeplinks/2025/03/memoriam-mark-klein-att-whistleblower-about-nsa-mass-spying"
+    ]
+  ],
+  [
+    [
+      "2025-03-12, 21:01:26",
+      "https://news.ycombinator.com/item?id=43347628"
+    ],
+    [
+      "Chris Moore, Illustrator for Classic Sci-Fi Books, Dies at 77",
+      "https://www.nytimes.com/2025/03/12/arts/chris-moore-dead.html"
+    ]
+  ],
+  [
+    [
       "2025-03-12, 20:31:39",
       "https://news.ycombinator.com/item?id=43347369"
     ],
     [
-      "Intel Appoints Lip-Bu Tan as Its CEO",
+      "Intel appoints Lip-Bu Tan as its CEO",
       "https://www.reuters.com/technology/us-chipmaker-intel-appoints-lip-bu-tan-its-ceo-2025-03-12/"
     ]
   ],
@@ -35,7 +65,7 @@
       "https://news.ycombinator.com/item?id=43346816"
     ],
     [
-      "Iconography of the PuTTY Tools",
+      "Iconography of the PuTTY tools",
       "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/putty-icons/"
     ]
   ],
@@ -65,7 +95,7 @@
       "https://news.ycombinator.com/item?id=43345285"
     ],
     [
-      "Shenmue (1999) Reverse Engineering Reveals Possible Sun Position Oversight",
+      "Shenmue (1999) reverse engineering reveals possible sun position oversight",
       "https://wulinshu.com/2025/03/11/reverse-engineering-adventures-3-bug-or-not-bug/"
     ]
   ],
@@ -75,7 +105,7 @@
       "https://news.ycombinator.com/item?id=43344703"
     ],
     [
-      "The Cultural Divide Between Mathematics and AI",
+      "The cultural divide between mathematics and AI",
       "https://sugaku.net/content/understanding-the-cultural-divide-between-mathematics-and-ai/"
     ]
   ],
@@ -95,18 +125,8 @@
       "https://news.ycombinator.com/item?id=43344673"
     ],
     [
-      "Reverse Engineering OpenAI Code Execution to make it run C and JavaScript",
+      "Reverse engineering OpenAI code execution to make it run C and JavaScript",
       "https://twitter.com/benswerd/status/1899853533761200300"
-    ]
-  ],
-  [
-    [
-      "2025-03-12, 15:58:36",
-      "https://news.ycombinator.com/item?id=43344595"
-    ],
-    [
-      "Show HN: AudioNimbus – Steam Audio's immersive spatial audio, now in Rust",
-      "https://github.com/MaxenceMaire/audionimbus"
     ]
   ],
   [
@@ -125,7 +145,7 @@
       "https://news.ycombinator.com/item?id=43344082"
     ],
     [
-      "Gemini Robotics brings AI into the physical world",
+      "Gemini Robotics",
       "https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/"
     ]
   ],
@@ -165,18 +185,8 @@
       "https://news.ycombinator.com/item?id=43342071"
     ],
     [
-      "First Ammonia-Fueled Ship Hits a Snag",
+      "First ammonia-fueled ship hits a snag",
       "https://spectrum.ieee.org/ammonia-fuel-2671266100"
-    ]
-  ],
-  [
-    [
-      "2025-03-12, 10:46:18",
-      "https://news.ycombinator.com/item?id=43341789"
-    ],
-    [
-      "Space Invaders",
-      "https://www.computerarcheology.com/Arcade/SpaceInvaders/"
     ]
   ],
   [
@@ -205,18 +215,8 @@
       "https://news.ycombinator.com/item?id=43340196"
     ],
     [
-      "The Insecurity of Telecom Stacks in the Wake of Salt Typhoon",
+      "The insecurity of telecom stacks in the wake of Salt Typhoon",
       "https://soatok.blog/2025/03/12/on-the-insecurity-of-telecom-stacks-in-the-wake-of-salt-typhoon/"
-    ]
-  ],
-  [
-    [
-      "2025-03-12, 03:05:47",
-      "https://news.ycombinator.com/item?id=43339563"
-    ],
-    [
-      "Beyond Diffusion: Inductive Moment Matching",
-      "https://lumalabs.ai/news/inductive-moment-matching"
     ]
   ],
   [
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=43309261"
     ],
     [
-      "Show HN: Translate Japanese Manga and Korean Manhwa with Chrome Extension",
+      "Show HN: Translate Japanese manga and Korean manhwa with Chrome extension",
       "https://pawakalabs.com/products/fakey/"
     ]
   ],
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=43308907"
     ],
     [
-      "Building Websites with Lots of Little HTML Pages",
+      "Building websites with lots of little HTML pages",
       "https://blog.jim-nielsen.com/2025/lots-of-little-html-pages/"
     ]
   ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2025-03-09, 10:06:27",
-      "https://news.ycombinator.com/item?id=43307751"
-    ],
-    [
-      "My stupid noise journey",
-      "https://dynomight.net/noise/"
-    ]
-  ],
-  [
-    [
       "2025-03-09, 09:23:39",
       "https://news.ycombinator.com/item?id=43307563"
     ],
     [
       "Switching from Pyenv to Uv",
       "https://bluesock.org/~willkg/blog/dev/switch_pyenv_to_uv.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-09, 07:01:25",
+      "https://news.ycombinator.com/item?id=43306916"
+    ],
+    [
+      "Parnassus Plays",
+      "https://en.wikipedia.org/wiki/Parnassus_plays"
     ]
   ]
 ]
