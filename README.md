@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-12, 03:08:23](https://news.ycombinator.com/item?id=43339584) - [Show HN: VSC – An open source 3D Rendering Engine in C++](https://github.com/WW92030-STORAGE/VSC)
+* [2025-03-12, 03:05:47](https://news.ycombinator.com/item?id=43339563) - [Beyond Diffusion: Inductive Moment Matching](https://lumalabs.ai/news/inductive-moment-matching)
 * [2025-03-12, 01:54:35](https://news.ycombinator.com/item?id=43339206) - [A look at the creative process behind Bluey and Cocomelon](https://www.readtrung.com/p/why-i-love-bluey-and-hate-cocomelon)
 * [2025-03-12, 01:46:27](https://news.ycombinator.com/item?id=43339158) - [Happy 10k Day](https://blog.comma.ai/happy10kday/)
 * [2025-03-12, 00:17:34](https://news.ycombinator.com/item?id=43338596) - [Australian man survives 100 days with artificial heart in world-first success](https://www.theguardian.com/australia-news/2025/mar/12/australian-man-survives-100-days-with-artificial-heart-in-world-first-success)
@@ -27,7 +28,6 @@
 * [2025-03-09, 12:21:57](https://news.ycombinator.com/item?id=43308477) - [Show HN: Daylight – track sunrise / sunset times in your terminal](https://github.com/jbreckmckye/daylight)
 * [2025-03-09, 03:15:51](https://news.ycombinator.com/item?id=43305842) - [In contrast to Earth, Mars's middle atmosphere appears driven by gravity waves](https://phys.org/news/2025-03-contrast-earth-mars-middle-atmosphere.html)
 * [2025-03-08, 06:48:01](https://news.ycombinator.com/item?id=43298075) - [Tesco trials giant trolley scales in Gateshead](https://www.bbc.co.uk/news/articles/c0rzvrjkklko)
-* [2025-03-08, 05:02:28](https://news.ycombinator.com/item?id=43297636) - [What Is It Like to Be a Bass? Fish-Eye View Photography (1919–22)](https://publicdomainreview.org/collection/fish-eye-view-photography/)
 * [2025-03-08, 00:07:15](https://news.ycombinator.com/item?id=43296184) - [NASA to launch space observatory that will map 450M galaxies](https://www.nbcnews.com/science/space/nasa-spherex-space-observatory-launch-map-galaxies-universe-rcna190877)
 * [2025-03-07, 16:03:18](https://news.ycombinator.com/item?id=43291258) - [When Crocodiles Attack: The Ramree Island Massacre (2013)](https://www.atlasobscura.com/articles/the-ramree-island-massacre)
 
