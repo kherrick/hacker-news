@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-12, 18:47:17",
+      "https://news.ycombinator.com/item?id=43346431"
+    ],
+    [
+      "Inline Evaluation Adventure",
+      "https://rigsomelight.com/2025/03/12/inline-eval-adventure.html"
+    ]
+  ],
+  [
+    [
       "2025-03-12, 17:26:38",
       "https://news.ycombinator.com/item?id=43345575"
     ],
@@ -47,6 +57,16 @@
     [
       "Reverse Engineering OpenAI Code Execution to make it run C and JavaScript",
       "https://twitter.com/benswerd/status/1899853533761200300"
+    ]
+  ],
+  [
+    [
+      "2025-03-12, 15:58:36",
+      "https://news.ycombinator.com/item?id=43344595"
+    ],
+    [
+      "Show HN: AudioNimbus – Steam Audio's immersive spatial audio, now in Rust",
+      "https://github.com/MaxenceMaire/audionimbus"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-03-12, 01:54:35",
-      "https://news.ycombinator.com/item?id=43339206"
-    ],
-    [
-      "A look at the creative process behind Bluey and Cocomelon (2024)",
-      "https://www.readtrung.com/p/why-i-love-bluey-and-hate-cocomelon"
-    ]
-  ],
-  [
-    [
       "2025-03-11, 22:18:42",
       "https://news.ycombinator.com/item?id=43337703"
     ],
@@ -227,16 +237,6 @@
     [
       "Fast-PNG: PNG image decoder and encoder",
       "https://github.com/image-js/fast-png"
-    ]
-  ],
-  [
-    [
-      "2025-03-09, 19:08:45",
-      "https://news.ycombinator.com/item?id=43312527"
-    ],
-    [
-      "Internationalization-puzzles: Daily programming puzzles just like Advent of Code",
-      "https://i18n-puzzles.com/"
     ]
   ],
   [
