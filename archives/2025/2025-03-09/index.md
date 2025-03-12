@@ -93,6 +93,7 @@
 * [2025-03-09, 03:32:04](https://news.ycombinator.com/item?id=43305920) - [H3: For indexing geographies into a hexagonal grid, by Uber](https://h3geo.org/)
 * [2025-03-09, 03:30:52](https://news.ycombinator.com/item?id=43305919) - [Posthog/.cursorrules](https://github.com/PostHog/posthog/blob/master/.cursorrules)
 * [2025-03-09, 03:23:26](https://news.ycombinator.com/item?id=43305881) - [Neonatal fungi: lifelong metabolic health via macrophage β cell development](https://www.science.org/doi/10.1126/science.adn0953)
+* [2025-03-09, 03:19:21](https://news.ycombinator.com/item?id=43305856) - [Carbon recyclers: Sulfur bacteria break down organic substances in seabed](https://phys.org/news/2025-03-earth-hidden-carbon-recyclers-sulfur.html)
 * [2025-03-09, 03:15:51](https://news.ycombinator.com/item?id=43305842) - [In contrast to Earth, Mars's middle atmosphere appears driven by gravity waves](https://phys.org/news/2025-03-contrast-earth-mars-middle-atmosphere.html)
 * [2025-03-09, 03:08:12](https://news.ycombinator.com/item?id=43305803) - [My 16-month theanine self-experiment](https://dynomight.net/theanine/)
 * [2025-03-09, 02:46:26](https://news.ycombinator.com/item?id=43305692) - [DOGE targets child support database full of income data](https://www.washingtonpost.com/business/2025/03/06/doge-hhs-ssa-data/)

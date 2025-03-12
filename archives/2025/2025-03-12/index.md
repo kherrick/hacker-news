@@ -33,6 +33,7 @@
 * [2025-03-12, 11:24:40](https://news.ycombinator.com/item?id=43342071) - [First Ammonia-Fueled Ship Hits a Snag](https://spectrum.ieee.org/ammonia-fuel-2671266100)
 * [2025-03-12, 10:48:00](https://news.ycombinator.com/item?id=43341801) - [C programming language official site](https://www.c-language.org/)
 * [2025-03-12, 10:46:18](https://news.ycombinator.com/item?id=43341789) - [Space Invaders](https://www.computerarcheology.com/Arcade/SpaceInvaders/)
+* [2025-03-12, 10:00:37](https://news.ycombinator.com/item?id=43341481) - [Apple has locked me in the same cage Microsoft's built for Windows 10 users](https://www.theregister.com/2025/03/12/hardware_os_lockin_monopolies/)
 * [2025-03-12, 09:53:19](https://news.ycombinator.com/item?id=43341431) - [Ask HN: Would you fund Mozilla to become independent of Google?](https://news.ycombinator.com/item?id=43341431)
 * [2025-03-12, 09:18:52](https://news.ycombinator.com/item?id=43341226) - [EU to impose counter tariffs on $28 billion of US goods](https://www.reuters.com/markets/europe/eu-impose-counter-tariffs-over-28-billion-us-goods-2025-03-12/)
 * [2025-03-12, 08:34:30](https://news.ycombinator.com/item?id=43340994) - [AI fakers exposed in tech dev recruitment: postmortem](https://newsletter.pragmaticengineer.com/p/ai-fakers)
