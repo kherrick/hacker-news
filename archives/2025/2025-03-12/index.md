@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-12](index.md)
 
+* [2025-03-12, 16:07:35](https://news.ycombinator.com/item?id=43344703) - [The Cultural Divide Between Mathematics and AI](https://sugaku.net/content/understanding-the-cultural-divide-between-mathematics-and-ai/)
+* [2025-03-12, 16:04:54](https://news.ycombinator.com/item?id=43344673) - [Reverse Engineering OpenAI Code Execution to make it run C and JavaScript](https://twitter.com/benswerd/status/1899853533761200300)
+* [2025-03-12, 15:58:36](https://news.ycombinator.com/item?id=43344595) - [Show HN: AudioNimbus – Steam Audio's immersive spatial audio, now in Rust](https://github.com/MaxenceMaire/audionimbus)
 * [2025-03-12, 15:12:44](https://news.ycombinator.com/item?id=43344129) - ['It was chaos': The history of San Francisco's most unforgettable ad](https://www.sfgate.com/sf-culture/article/san-francisco-sony-bouncy-ball-ad-20204385.php)
 * [2025-03-12, 15:09:09](https://news.ycombinator.com/item?id=43344082) - [Gemini Robotics brings AI into the physical world](https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/)
 * [2025-03-12, 14:46:02](https://news.ycombinator.com/item?id=43343832) - [A Perplexing JavaScript Parsing Puzzle](https://www.hillelwayne.com/post/javascript-puzzle/)
