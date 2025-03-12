@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-03-12, 16:07:35",
+      "https://news.ycombinator.com/item?id=43344703"
+    ],
+    [
+      "The Cultural Divide Between Mathematics and AI",
+      "https://sugaku.net/content/understanding-the-cultural-divide-between-mathematics-and-ai/"
+    ]
+  ],
+  [
+    [
+      "2025-03-12, 16:04:54",
+      "https://news.ycombinator.com/item?id=43344673"
+    ],
+    [
+      "Reverse Engineering OpenAI Code Execution to make it run C and JavaScript",
+      "https://twitter.com/benswerd/status/1899853533761200300"
+    ]
+  ],
+  [
+    [
+      "2025-03-12, 15:58:36",
+      "https://news.ycombinator.com/item?id=43344595"
+    ],
+    [
+      "Show HN: AudioNimbus – Steam Audio's immersive spatial audio, now in Rust",
+      "https://github.com/MaxenceMaire/audionimbus"
+    ]
+  ],
+  [
+    [
       "2025-03-12, 15:12:44",
       "https://news.ycombinator.com/item?id=43344129"
     ],
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2025-03-12, 03:08:23",
-      "https://news.ycombinator.com/item?id=43339584"
-    ],
-    [
-      "Show HN: VSC – An open source 3D Rendering Engine in C++",
-      "https://github.com/WW92030-STORAGE/VSC"
-    ]
-  ],
-  [
-    [
       "2025-03-12, 03:05:47",
       "https://news.ycombinator.com/item?id=43339563"
     ],
@@ -217,26 +237,6 @@
     [
       "Launch HN: Sift Dev (YC W25) – AI-Powered Datadog Alternative",
       "https://news.ycombinator.com/item?id=43334589"
-    ]
-  ],
-  [
-    [
-      "2025-03-11, 16:33:24",
-      "https://news.ycombinator.com/item?id=43334190"
-    ],
-    [
-      "Fastplotlib: GPU-accelerated, fast, and interactive plotting library",
-      "https://medium.com/@caitlin9165/fastplotlib-driving-scientific-discovery-through-data-visualization-418f8bff094c"
-    ]
-  ],
-  [
-    [
-      "2025-03-11, 15:32:46",
-      "https://news.ycombinator.com/item?id=43333484"
-    ],
-    [
-      "AI-Generated Voice Evidence Poses Dangers in Court",
-      "https://www.lawfaremedia.org/article/ai-generated-voice-evidence-poses-dangers-in-court"
     ]
   ],
   [
