@@ -8,7 +8,6 @@
 * [2025-03-11, 23:47:43](https://news.ycombinator.com/item?id=43338405) - [Sorting algorithms with CUDA](https://ashwanirathee.com/blog/2025/sort2/)
 * [2025-03-11, 22:18:42](https://news.ycombinator.com/item?id=43337703) - [The Startup CTO's Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md)
 * [2025-03-11, 21:01:39](https://news.ycombinator.com/item?id=43336957) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
-* [2025-03-11, 18:40:54](https://news.ycombinator.com/item?id=43335679) - [How do we tell truths that might hurt? (1975)](https://www.cs.virginia.edu/~evans/cs655/readings/ewd498.html)
 * [2025-03-11, 17:46:01](https://news.ycombinator.com/item?id=43335110) - [Backyard Cyanide](https://suziepetryk.com/blog/cyanide.html)
 * [2025-03-11, 17:04:57](https://news.ycombinator.com/item?id=43334644) - [New tools for building agents](https://openai.com/index/new-tools-for-building-agents/)
 * [2025-03-11, 17:00:46](https://news.ycombinator.com/item?id=43334589) - [Launch HN: Sift Dev (YC W25) – AI-Powered Datadog Alternative](https://news.ycombinator.com/item?id=43334589)
@@ -28,6 +27,7 @@
 * [2025-03-09, 12:21:57](https://news.ycombinator.com/item?id=43308477) - [Show HN: Daylight – track sunrise / sunset times in your terminal](https://github.com/jbreckmckye/daylight)
 * [2025-03-09, 03:15:51](https://news.ycombinator.com/item?id=43305842) - [In contrast to Earth, Mars's middle atmosphere appears driven by gravity waves](https://phys.org/news/2025-03-contrast-earth-mars-middle-atmosphere.html)
 * [2025-03-08, 06:48:01](https://news.ycombinator.com/item?id=43298075) - [Tesco trials giant trolley scales in Gateshead](https://www.bbc.co.uk/news/articles/c0rzvrjkklko)
+* [2025-03-08, 05:02:28](https://news.ycombinator.com/item?id=43297636) - [What Is It Like to Be a Bass? Fish-Eye View Photography (1919–22)](https://publicdomainreview.org/collection/fish-eye-view-photography/)
 * [2025-03-08, 00:07:15](https://news.ycombinator.com/item?id=43296184) - [NASA to launch space observatory that will map 450M galaxies](https://www.nbcnews.com/science/space/nasa-spherex-space-observatory-launch-map-galaxies-universe-rcna190877)
 * [2025-03-07, 16:03:18](https://news.ycombinator.com/item?id=43291258) - [When Crocodiles Attack: The Ramree Island Massacre (2013)](https://www.atlasobscura.com/articles/the-ramree-island-massacre)
 
