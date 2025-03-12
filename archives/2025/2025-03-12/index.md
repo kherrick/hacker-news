@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-12](index.md)
 
+* [2025-03-12, 19:35:15](https://news.ycombinator.com/item?id=43346864) - [Zinc, a systems programming language prototype](https://sr.ht/~oconnor0/zinc/)
+* [2025-03-12, 19:29:41](https://news.ycombinator.com/item?id=43346816) - [Iconography of the PuTTY Tools](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/putty-icons/)
 * [2025-03-12, 18:47:17](https://news.ycombinator.com/item?id=43346431) - [Inline Evaluation Adventure](https://rigsomelight.com/2025/03/12/inline-eval-adventure.html)
 * [2025-03-12, 17:26:38](https://news.ycombinator.com/item?id=43345575) - [Show HN: Nuanced – Help AI understand code structure, not just text](https://www.nuanced.dev/blog/initial-launch)
 * [2025-03-12, 17:01:02](https://news.ycombinator.com/item?id=43345297) - [Artie (YC S23) Is Hiring Engineer #3](https://www.ycombinator.com/companies/artie/jobs/Vz704T1-founding-engineer-distributed-systems)
