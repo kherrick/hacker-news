@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2025-03-12, 16:06:18",
-      "https://news.ycombinator.com/item?id=43344685"
-    ],
-    [
-      "Experiment with Gemini 2.0 Flash native image generation",
-      "https://developers.googleblog.com/en/experiment-with-gemini-20-flash-native-image-generation/"
-    ]
-  ],
-  [
-    [
       "2025-03-12, 16:04:54",
       "https://news.ycombinator.com/item?id=43344673"
     ],
@@ -191,6 +181,26 @@
   ],
   [
     [
+      "2025-03-12, 10:00:37",
+      "https://news.ycombinator.com/item?id=43341481"
+    ],
+    [
+      "Apple has locked me in the same cage Microsoft's built for Windows 10 users",
+      "https://www.theregister.com/2025/03/12/hardware_os_lockin_monopolies/"
+    ]
+  ],
+  [
+    [
+      "2025-03-12, 08:25:36",
+      "https://news.ycombinator.com/item?id=43340948"
+    ],
+    [
+      "Tell Mozilla: it's time to ditch Google",
+      "https://mozillapetition.com/"
+    ]
+  ],
+  [
+    [
       "2025-03-12, 07:38:35",
       "https://news.ycombinator.com/item?id=43340731"
     ],
@@ -227,26 +237,6 @@
     [
       "The Startup CTO's Handbook",
       "https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md"
-    ]
-  ],
-  [
-    [
-      "2025-03-11, 09:45:00",
-      "https://news.ycombinator.com/item?id=43330782"
-    ],
-    [
-      "Fast-PNG: PNG image decoder and encoder",
-      "https://github.com/image-js/fast-png"
-    ]
-  ],
-  [
-    [
-      "2025-03-09, 15:10:38",
-      "https://news.ycombinator.com/item?id=43309696"
-    ],
-    [
-      "Definite clause grammars and symbolic differentiation",
-      "https://bitsandtheorems.com/definite-clause-grammars-and-symbolic-differentiation/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Constant-Time Code: The Pessimist Case [pdf]",
       "https://eprint.iacr.org/2025/435.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-03-09, 03:19:21",
+      "https://news.ycombinator.com/item?id=43305856"
+    ],
+    [
+      "Carbon recyclers: Sulfur bacteria break down organic substances in seabed",
+      "https://phys.org/news/2025-03-earth-hidden-carbon-recyclers-sulfur.html"
     ]
   ]
 ]
