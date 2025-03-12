@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-03-12, 08:34:30",
-      "https://news.ycombinator.com/item?id=43340994"
-    ],
-    [
-      "AI fakers exposed in tech dev recruitment: postmortem",
-      "https://newsletter.pragmaticengineer.com/p/ai-fakers"
-    ]
-  ],
-  [
-    [
       "2025-03-12, 08:25:36",
       "https://news.ycombinator.com/item?id=43340948"
     ],
@@ -197,6 +187,16 @@
     [
       "Fastplotlib: GPU-accelerated, fast, and interactive plotting library",
       "https://medium.com/@caitlin9165/fastplotlib-driving-scientific-discovery-through-data-visualization-418f8bff094c"
+    ]
+  ],
+  [
+    [
+      "2025-03-11, 16:12:43",
+      "https://news.ycombinator.com/item?id=43333946"
+    ],
+    [
+      "Show HN: Krep a High-Performance String Search Utility Written in C",
+      "https://davidesantangelo.github.io/krep/"
     ]
   ],
   [
