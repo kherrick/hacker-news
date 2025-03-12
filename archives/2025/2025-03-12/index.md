@@ -6,6 +6,7 @@
 
 * [2025-03-12, 09:18:52](https://news.ycombinator.com/item?id=43341226) - [EU to impose counter tariffs on $28 billion of US goods](https://www.reuters.com/markets/europe/eu-impose-counter-tariffs-over-28-billion-us-goods-2025-03-12/)
 * [2025-03-12, 08:34:30](https://news.ycombinator.com/item?id=43340994) - [AI fakers exposed in tech dev recruitment: postmortem](https://newsletter.pragmaticengineer.com/p/ai-fakers)
+* [2025-03-12, 08:25:36](https://news.ycombinator.com/item?id=43340948) - [Tell Mozilla: it's time to ditch Google](https://mozillapetition.com/)
 * [2025-03-12, 07:49:33](https://news.ycombinator.com/item?id=43340790) - [Show HN: I made a movie recommendation app based on your mood](https://www.moodiemovie.top/)
 * [2025-03-12, 07:48:15](https://news.ycombinator.com/item?id=43340785) - [Gemma3 – The current strongest model that fits on a single GPU](https://ollama.com/library/gemma3)
 * [2025-03-12, 07:38:35](https://news.ycombinator.com/item?id=43340731) - [I stopped everything and started writing C again](https://www.kmx.io/blog/why-stopped-everything-and-started-writing-C-again)
