@@ -24,10 +24,10 @@
 * [2025-03-11, 14:24:48](https://news.ycombinator.com/item?id=43332752) - [The US island that speaks Elizabethan English](https://www.bbc.com/travel/article/20190623-the-us-island-that-speaks-elizabethan-english)
 * [2025-03-11, 14:14:35](https://news.ycombinator.com/item?id=43332658) - [Happy 20th Birthday, Y Combinator](https://twitter.com/garrytan/status/1899092996702048709)
 * [2025-03-11, 12:02:02](https://news.ycombinator.com/item?id=43331582) - [Show HN: Factorio Learning Environment – Agents Build Factories](https://jackhopkins.github.io/factorio-learning-environment/)
+* [2025-03-11, 10:07:17](https://news.ycombinator.com/item?id=43330900) - [What makes code hard to read: Visual patterns of complexity (2023)](https://seeinglogic.com/posts/visual-readability-patterns/)
+* [2025-03-09, 21:13:32](https://news.ycombinator.com/item?id=43313902) - [The State of Coherence in the Land of Type Classes](https://programming-journal.org/2025/10/15/)
 * [2025-03-09, 19:08:45](https://news.ycombinator.com/item?id=43312527) - [Internationalization-puzzles: Daily programming puzzles just like Advent of Code](https://i18n-puzzles.com/)
-* [2025-03-09, 12:21:57](https://news.ycombinator.com/item?id=43308477) - [Show HN: Daylight – track sunrise / sunset times in your terminal](https://github.com/jbreckmckye/daylight)
 * [2025-03-09, 10:38:28](https://news.ycombinator.com/item?id=43307861) - [Sovereign Lumber](https://mill.plainopen.com/sovereign-lumber)
-* [2025-03-09, 03:15:51](https://news.ycombinator.com/item?id=43305842) - [In contrast to Earth, Mars's middle atmosphere appears driven by gravity waves](https://phys.org/news/2025-03-contrast-earth-mars-middle-atmosphere.html)
 * [2025-03-08, 15:46:57](https://news.ycombinator.com/item?id=43301068) - [When Corporate Branding Goes Wrong](https://www.nytimes.com/2025/03/07/world/europe/aberdeen-abrdn-rebrand-vowels.html)
 * [2025-03-08, 00:07:15](https://news.ycombinator.com/item?id=43296184) - [NASA to launch space observatory that will map 450M galaxies](https://www.nbcnews.com/science/space/nasa-spherex-space-observatory-launch-map-galaxies-universe-rcna190877)
 
