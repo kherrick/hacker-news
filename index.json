@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-12, 19:35:15",
+      "https://news.ycombinator.com/item?id=43346864"
+    ],
+    [
+      "Zinc, a systems programming language prototype",
+      "https://sr.ht/~oconnor0/zinc/"
+    ]
+  ],
+  [
+    [
+      "2025-03-12, 19:29:41",
+      "https://news.ycombinator.com/item?id=43346816"
+    ],
+    [
+      "Iconography of the PuTTY Tools",
+      "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/putty-icons/"
+    ]
+  ],
+  [
+    [
       "2025-03-12, 18:47:17",
       "https://news.ycombinator.com/item?id=43346431"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-03-12, 11:29:18",
-      "https://news.ycombinator.com/item?id=43342101"
-    ],
-    [
-      "Show HN: We built Lovable for Mobile Apps (uses Flutter)",
-      "https://www.getavid.dev"
-    ]
-  ],
-  [
-    [
       "2025-03-12, 11:24:40",
       "https://news.ycombinator.com/item?id=43342071"
     ],
@@ -147,16 +157,6 @@
     [
       "I stopped everything and started writing C again",
       "https://www.kmx.io/blog/why-stopped-everything-and-started-writing-C-again"
-    ]
-  ],
-  [
-    [
-      "2025-03-12, 06:43:07",
-      "https://news.ycombinator.com/item?id=43340505"
-    ],
-    [
-      "Azure's Weakest Link? How API Connections Spill Secrets",
-      "https://binarysecurity.no/posts/2025/03/api-connections"
     ]
   ],
   [
@@ -207,16 +207,6 @@
     [
       "Beyond Diffusion: Inductive Moment Matching",
       "https://lumalabs.ai/news/inductive-moment-matching"
-    ]
-  ],
-  [
-    [
-      "2025-03-12, 01:54:35",
-      "https://news.ycombinator.com/item?id=43339206"
-    ],
-    [
-      "A look at the creative process behind Bluey and Cocomelon (2024)",
-      "https://www.readtrung.com/p/why-i-love-bluey-and-hate-cocomelon"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "My stupid noise journey",
       "https://dynomight.net/noise/"
+    ]
+  ],
+  [
+    [
+      "2025-03-09, 09:23:39",
+      "https://news.ycombinator.com/item?id=43307563"
+    ],
+    [
+      "Switching from Pyenv to Uv",
+      "https://bluesock.org/~willkg/blog/dev/switch_pyenv_to_uv.html"
     ]
   ],
   [
