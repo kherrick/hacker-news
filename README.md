@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-12, 06:39:17](https://news.ycombinator.com/item?id=43340491) - [Gemma 3 Technical Report [pdf]](https://storage.googleapis.com/deepmind-media/gemma/Gemma3Report.pdf)
+* [2025-03-12, 06:37:55](https://news.ycombinator.com/item?id=43340487) - [First official release of LLVM Flang](https://blog.llvm.org/posts/2025-03-11-flang-new/)
+* [2025-03-12, 06:11:41](https://news.ycombinator.com/item?id=43340385) - [A more robust raw OpenBSD syscall demo](https://nullprogram.com/blog/2025/03/06/)
 * [2025-03-12, 05:21:33](https://news.ycombinator.com/item?id=43340196) - [The Insecurity of Telecom Stacks in the Wake of Salt Typhoon](https://soatok.blog/2025/03/12/on-the-insecurity-of-telecom-stacks-in-the-wake-of-salt-typhoon/)
 * [2025-03-12, 03:16:28](https://news.ycombinator.com/item?id=43339629) - [Show HN: XPipe, a shell connection hub for SSH, Docker, K8s, VMs, and more](https://xpipe.io/)
 * [2025-03-12, 03:08:23](https://news.ycombinator.com/item?id=43339584) - [Show HN: VSC – An open source 3D Rendering Engine in C++](https://github.com/WW92030-STORAGE/VSC)
@@ -20,9 +22,7 @@
 * [2025-03-11, 14:24:48](https://news.ycombinator.com/item?id=43332752) - [The US island that speaks Elizabethan English](https://www.bbc.com/travel/article/20190623-the-us-island-that-speaks-elizabethan-english)
 * [2025-03-11, 14:14:35](https://news.ycombinator.com/item?id=43332658) - [Happy 20th Birthday, Y Combinator](https://twitter.com/garrytan/status/1899092996702048709)
 * [2025-03-11, 12:02:02](https://news.ycombinator.com/item?id=43331582) - [Show HN: Factorio Learning Environment – Agents Build Factories](https://jackhopkins.github.io/factorio-learning-environment/)
-* [2025-03-11, 11:25:13](https://news.ycombinator.com/item?id=43331358) - [America Is Missing The New Labor Economy – Robotics Part 1](https://semianalysis.com/2025/03/11/america-is-missing-the-new-labor-economy-robotics-part-1/)
 * [2025-03-11, 10:07:17](https://news.ycombinator.com/item?id=43330900) - [What makes code hard to read: Visual patterns of complexity (2023)](https://seeinglogic.com/posts/visual-readability-patterns/)
-* [2025-03-11, 06:37:14](https://news.ycombinator.com/item?id=43329761) - [Modern Baby: A pioneering computer from Manchester](https://thechipletter.substack.com/p/modern-baby)
 * [2025-03-09, 19:08:45](https://news.ycombinator.com/item?id=43312527) - [Internationalization-puzzles: Daily programming puzzles just like Advent of Code](https://i18n-puzzles.com/)
 * [2025-03-09, 12:44:44](https://news.ycombinator.com/item?id=43308636) - [The Early History of Deferred Shading and Lighting](https://sites.google.com/site/richgel99/the-early-history-of-deferred-shading-and-lighting)
 * [2025-03-09, 12:21:57](https://news.ycombinator.com/item?id=43308477) - [Show HN: Daylight – track sunrise / sunset times in your terminal](https://github.com/jbreckmckye/daylight)
