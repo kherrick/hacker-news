@@ -1,52 +1,32 @@
 [
   [
     [
+      "2025-03-12, 12:13:42",
+      "https://news.ycombinator.com/item?id=43342407"
+    ],
+    [
+      "How far neuroscience is from understanding brains (2023)",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10585277/"
+    ]
+  ],
+  [
+    [
+      "2025-03-12, 12:00:28",
+      "https://news.ycombinator.com/item?id=43342301"
+    ],
+    [
+      "Pivot Robotics (YC W24) Is Hiring",
+      "https://www.ycombinator.com/companies/pivot-robotics/jobs/0sRNlmU-robotics-software-engineer"
+    ]
+  ],
+  [
+    [
       "2025-03-12, 11:24:40",
       "https://news.ycombinator.com/item?id=43342071"
     ],
     [
       "First Ammonia-Fueled Ship Hits a Snag",
       "https://spectrum.ieee.org/ammonia-fuel-2671266100"
-    ]
-  ],
-  [
-    [
-      "2025-03-12, 09:53:19",
-      "https://news.ycombinator.com/item?id=43341431"
-    ],
-    [
-      "Ask HN: Would you fund Mozilla to become independent of Google?",
-      "https://news.ycombinator.com/item?id=43341431"
-    ]
-  ],
-  [
-    [
-      "2025-03-12, 07:48:15",
-      "https://news.ycombinator.com/item?id=43340785"
-    ],
-    [
-      "Gemma3 – The current strongest model that fits on a single GPU",
-      "https://ollama.com/library/gemma3"
-    ]
-  ],
-  [
-    [
-      "2025-03-12, 07:38:35",
-      "https://news.ycombinator.com/item?id=43340731"
-    ],
-    [
-      "I stopped everything and started writing C again",
-      "https://www.kmx.io/blog/why-stopped-everything-and-started-writing-C-again"
-    ]
-  ],
-  [
-    [
-      "2025-03-12, 07:21:28",
-      "https://news.ycombinator.com/item?id=43340662"
-    ],
-    [
-      "I use Cursor daily - here's how I avoid the garbage parts",
-      "https://www.nickcraux.com/blog/cursor-tips"
     ]
   ],
   [
@@ -67,16 +47,6 @@
     [
       "Gemma 3 Technical Report [pdf]",
       "https://storage.googleapis.com/deepmind-media/gemma/Gemma3Report.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-03-12, 06:37:55",
-      "https://news.ycombinator.com/item?id=43340487"
-    ],
-    [
-      "First official release of LLVM Flang",
-      "https://blog.llvm.org/posts/2025-03-11-flang-new/"
     ]
   ],
   [
@@ -141,16 +111,6 @@
   ],
   [
     [
-      "2025-03-12, 01:46:27",
-      "https://news.ycombinator.com/item?id=43339158"
-    ],
-    [
-      "Happy 10k Day",
-      "https://blog.comma.ai/happy10kday/"
-    ]
-  ],
-  [
-    [
       "2025-03-11, 23:47:43",
       "https://news.ycombinator.com/item?id=43338405"
     ],
@@ -181,12 +141,52 @@
   ],
   [
     [
+      "2025-03-11, 17:00:46",
+      "https://news.ycombinator.com/item?id=43334589"
+    ],
+    [
+      "Launch HN: Sift Dev (YC W25) – AI-Powered Datadog Alternative",
+      "https://news.ycombinator.com/item?id=43334589"
+    ]
+  ],
+  [
+    [
       "2025-03-11, 16:33:24",
       "https://news.ycombinator.com/item?id=43334190"
     ],
     [
       "Fastplotlib: GPU-accelerated, fast, and interactive plotting library",
       "https://medium.com/@caitlin9165/fastplotlib-driving-scientific-discovery-through-data-visualization-418f8bff094c"
+    ]
+  ],
+  [
+    [
+      "2025-03-11, 16:12:43",
+      "https://news.ycombinator.com/item?id=43333946"
+    ],
+    [
+      "Show HN: Krep a High-Performance String Search Utility Written in C",
+      "https://davidesantangelo.github.io/krep/"
+    ]
+  ],
+  [
+    [
+      "2025-03-11, 15:32:46",
+      "https://news.ycombinator.com/item?id=43333484"
+    ],
+    [
+      "AI-Generated Voice Evidence Poses Dangers in Court",
+      "https://www.lawfaremedia.org/article/ai-generated-voice-evidence-poses-dangers-in-court"
+    ]
+  ],
+  [
+    [
+      "2025-03-11, 14:32:23",
+      "https://news.ycombinator.com/item?id=43332830"
+    ],
+    [
+      "A 10x Faster TypeScript",
+      "https://devblogs.microsoft.com/typescript/typescript-native-port/"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2025-03-09, 21:13:32",
-      "https://news.ycombinator.com/item?id=43313902"
-    ],
-    [
-      "The State of Coherence in the Land of Type Classes",
-      "https://programming-journal.org/2025/10/15/"
-    ]
-  ],
-  [
-    [
       "2025-03-09, 19:08:45",
       "https://news.ycombinator.com/item?id=43312527"
     ],
@@ -267,6 +257,16 @@
     [
       "Sovereign Lumber",
       "https://mill.plainopen.com/sovereign-lumber"
+    ]
+  ],
+  [
+    [
+      "2025-03-09, 10:32:54",
+      "https://news.ycombinator.com/item?id=43307845"
+    ],
+    [
+      "A Committed Year",
+      "https://www.ramijames.com/thoughts/a-committed-year"
     ]
   ],
   [
