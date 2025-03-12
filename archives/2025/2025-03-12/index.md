@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-12](index.md)
 
+* [2025-03-12, 11:24:40](https://news.ycombinator.com/item?id=43342071) - [First Ammonia-Fueled Ship Hits a Snag](https://spectrum.ieee.org/ammonia-fuel-2671266100)
 * [2025-03-12, 09:53:19](https://news.ycombinator.com/item?id=43341431) - [Ask HN: Would you fund Mozilla to become independent of Google?](https://news.ycombinator.com/item?id=43341431)
 * [2025-03-12, 09:18:52](https://news.ycombinator.com/item?id=43341226) - [EU to impose counter tariffs on $28 billion of US goods](https://www.reuters.com/markets/europe/eu-impose-counter-tariffs-over-28-billion-us-goods-2025-03-12/)
 * [2025-03-12, 08:34:30](https://news.ycombinator.com/item?id=43340994) - [AI fakers exposed in tech dev recruitment: postmortem](https://newsletter.pragmaticengineer.com/p/ai-fakers)
