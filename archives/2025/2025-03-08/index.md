@@ -65,6 +65,7 @@
 * [2025-03-08, 07:01:07](https://news.ycombinator.com/item?id=43298130) - [Demodesk (YC W19) Is Hiring a Ruby on Rails Full-Stack Engineer](https://demodesk.com/careers?utm_source=hn)
 * [2025-03-08, 06:43:22](https://news.ycombinator.com/item?id=43298054) - [PayPal honey extension has again \"featured\" flag in Chrome web store](https://chromewebstore.google.com/detail/paypal-honey-automatic-co/bmnlcjabgnpnenekpadlanbbkooimhnj/reviews)
 * [2025-03-08, 06:41:34](https://news.ycombinator.com/item?id=43298048) - [Svelte5: A Less Favorable Vue3](https://gist.github.com/rxliuli/c886198390a9fd1138853d0e260025f3)
+* [2025-03-08, 05:02:28](https://news.ycombinator.com/item?id=43297636) - [What Is It Like to Be a Bass? Fish-Eye View Photography (1919–22)](https://publicdomainreview.org/collection/fish-eye-view-photography/)
 * [2025-03-08, 04:57:47](https://news.ycombinator.com/item?id=43297618) - [My legal last name prevents me from completing my Twitch affiliate onboarding](https://old.reddit.com/r/Twitch/comments/1j3fvzx/my_legal_last_name_is_preventing_me_from/)
 * [2025-03-08, 04:51:25](https://news.ycombinator.com/item?id=43297590) - [Falkon: A KDE Web Browser](https://www.falkon.org)
 * [2025-03-08, 04:46:33](https://news.ycombinator.com/item?id=43297574) - [An epic treatise on error models for systems programming languages](https://typesanitizer.com/blog/errors.html)
