@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-12, 07:49:33](https://news.ycombinator.com/item?id=43340790) - [Show HN: I made a movie recommendation app based on your mood](https://www.moodiemovie.top/)
 * [2025-03-12, 07:48:15](https://news.ycombinator.com/item?id=43340785) - [Gemma3 – The current strongest model that fits on a single GPU](https://ollama.com/library/gemma3)
 * [2025-03-12, 07:21:28](https://news.ycombinator.com/item?id=43340662) - [I use Cursor daily - here's how I avoid the garbage parts](https://www.nickcraux.com/blog/cursor-tips)
 * [2025-03-12, 06:43:07](https://news.ycombinator.com/item?id=43340505) - [Azure's Weakest Link? How API Connections Spill Secrets](https://binarysecurity.no/posts/2025/03/api-connections)
@@ -28,6 +27,7 @@
 * [2025-03-09, 21:13:32](https://news.ycombinator.com/item?id=43313902) - [The State of Coherence in the Land of Type Classes](https://programming-journal.org/2025/10/15/)
 * [2025-03-09, 19:08:45](https://news.ycombinator.com/item?id=43312527) - [Internationalization-puzzles: Daily programming puzzles just like Advent of Code](https://i18n-puzzles.com/)
 * [2025-03-09, 10:38:28](https://news.ycombinator.com/item?id=43307861) - [Sovereign Lumber](https://mill.plainopen.com/sovereign-lumber)
+* [2025-03-09, 03:15:51](https://news.ycombinator.com/item?id=43305842) - [In contrast to Earth, Mars's middle atmosphere appears driven by gravity waves](https://phys.org/news/2025-03-contrast-earth-mars-middle-atmosphere.html)
 * [2025-03-08, 15:46:57](https://news.ycombinator.com/item?id=43301068) - [When Corporate Branding Goes Wrong](https://www.nytimes.com/2025/03/07/world/europe/aberdeen-abrdn-rebrand-vowels.html)
 * [2025-03-08, 00:07:15](https://news.ycombinator.com/item?id=43296184) - [NASA to launch space observatory that will map 450M galaxies](https://www.nbcnews.com/science/space/nasa-spherex-space-observatory-launch-map-galaxies-universe-rcna190877)
 
