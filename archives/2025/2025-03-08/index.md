@@ -40,6 +40,7 @@
 * [2025-03-08, 16:27:00](https://news.ycombinator.com/item?id=43301342) - [Discovering Errors in Donald Knuth's Taocp](https://glthr.com/discovering-errors-in-donald-knuths-taocp)
 * [2025-03-08, 15:58:19](https://news.ycombinator.com/item?id=43301155) - [Cat-Eared Robots Are Waiting Tables in Japan's Restaurants](https://www.bloomberg.com/news/features/2025-03-06/thousands-of-cat-eared-robots-are-waiting-tables-in-japan)
 * [2025-03-08, 15:49:47](https://news.ycombinator.com/item?id=43301096) - [Phenakistiscope](https://en.wikipedia.org/wiki/Phenakistiscope)
+* [2025-03-08, 15:46:57](https://news.ycombinator.com/item?id=43301068) - [When Corporate Branding Goes Wrong](https://www.nytimes.com/2025/03/07/world/europe/aberdeen-abrdn-rebrand-vowels.html)
 * [2025-03-08, 15:18:25](https://news.ycombinator.com/item?id=43300878) - [AI 'wingmen' bots to write profiles and flirt on dating apps](https://www.theguardian.com/lifeandstyle/2025/mar/08/ai-wingmen-bots-to-write-profiles-and-flirt-on-dating-apps)
 * [2025-03-08, 14:31:23](https://news.ycombinator.com/item?id=43300528) - [The program is the database is the interface](https://www.scattered-thoughts.net/writing/the-program-is-the-database-is-the-interface/)
 * [2025-03-08, 14:14:22](https://news.ycombinator.com/item?id=43300414) - [The Einstein AI Model](https://thomwolf.io/blog/scientific-ai.html)
