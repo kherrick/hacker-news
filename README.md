@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-12, 20:31:39](https://news.ycombinator.com/item?id=43347369) - [Intel Appoints Lip-Bu Tan as Its CEO](https://www.reuters.com/technology/us-chipmaker-intel-appoints-lip-bu-tan-its-ceo-2025-03-12/)
+* [2025-03-12, 20:23:52](https://news.ycombinator.com/item?id=43347306) - [Show HN: Time Portal – Get dropped into history, guess where you landed](https://www.eggnog.ai/entertimeportal)
 * [2025-03-12, 19:35:15](https://news.ycombinator.com/item?id=43346864) - [Zinc, a systems programming language prototype](https://sr.ht/~oconnor0/zinc/)
 * [2025-03-12, 19:29:41](https://news.ycombinator.com/item?id=43346816) - [Iconography of the PuTTY Tools](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/putty-icons/)
 * [2025-03-12, 18:47:17](https://news.ycombinator.com/item?id=43346431) - [Inline Evaluation Adventure](https://rigsomelight.com/2025/03/12/inline-eval-adventure.html)
@@ -19,7 +21,6 @@
 * [2025-03-12, 06:39:17](https://news.ycombinator.com/item?id=43340491) - [Gemma 3 Technical Report [pdf]](https://storage.googleapis.com/deepmind-media/gemma/Gemma3Report.pdf)
 * [2025-03-12, 05:21:33](https://news.ycombinator.com/item?id=43340196) - [The Insecurity of Telecom Stacks in the Wake of Salt Typhoon](https://soatok.blog/2025/03/12/on-the-insecurity-of-telecom-stacks-in-the-wake-of-salt-typhoon/)
 * [2025-03-12, 03:16:28](https://news.ycombinator.com/item?id=43339629) - [Show HN: XPipe, a shell connection hub for SSH, Docker, K8s, VMs, and more](https://xpipe.io/)
-* [2025-03-12, 03:08:23](https://news.ycombinator.com/item?id=43339584) - [Show HN: VSC – An open source 3D Rendering Engine in C++](https://github.com/WW92030-STORAGE/VSC)
 * [2025-03-12, 03:05:47](https://news.ycombinator.com/item?id=43339563) - [Beyond Diffusion: Inductive Moment Matching](https://lumalabs.ai/news/inductive-moment-matching)
 * [2025-03-11, 22:18:42](https://news.ycombinator.com/item?id=43337703) - [The Startup CTO's Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md)
 * [2025-03-11, 09:45:00](https://news.ycombinator.com/item?id=43330782) - [Fast-PNG: PNG image decoder and encoder](https://github.com/image-js/fast-png)
@@ -29,7 +30,6 @@
 * [2025-03-09, 11:53:58](https://news.ycombinator.com/item?id=43308278) - [Open-UI: Maintain an open standard for UI and promote its adherence and adoption](https://github.com/openui/open-ui)
 * [2025-03-09, 10:06:27](https://news.ycombinator.com/item?id=43307751) - [My stupid noise journey](https://dynomight.net/noise/)
 * [2025-03-09, 09:23:39](https://news.ycombinator.com/item?id=43307563) - [Switching from Pyenv to Uv](https://bluesock.org/~willkg/blog/dev/switch_pyenv_to_uv.html)
-* [2025-03-08, 15:49:47](https://news.ycombinator.com/item?id=43301095) - [FDA issues early alert for Baxter's Spectrum infusion pump](https://www.medicaldevice-network.com/news/fda-issues-early-alert-for-baxter-spectrum-infusion-pump/)
 
 ## [Archives](archives/index.md)
 
