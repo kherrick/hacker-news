@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-12, 00:29:54](https://news.ycombinator.com/item?id=43338684) - [What ketamine does to the human brain](https://www.theatlantic.com/health/archive/2025/03/ketamine-effects-elon-musk/681911/)
+* [2025-03-12, 01:46:27](https://news.ycombinator.com/item?id=43339158) - [Comma AI has sold 10K devices](https://blog.comma.ai/happy10kday/)
 * [2025-03-12, 00:17:34](https://news.ycombinator.com/item?id=43338596) - [Australian man survives 100 days with artificial heart in world-first success](https://www.theguardian.com/australia-news/2025/mar/12/australian-man-survives-100-days-with-artificial-heart-in-world-first-success)
 * [2025-03-11, 23:47:43](https://news.ycombinator.com/item?id=43338405) - [Sorting algorithms with CUDA](https://ashwanirathee.com/blog/2025/sort2/)
 * [2025-03-11, 22:18:42](https://news.ycombinator.com/item?id=43337703) - [The Startup CTO's Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md)
@@ -25,9 +25,9 @@
 * [2025-03-11, 01:05:10](https://news.ycombinator.com/item?id=43328095) - [Show HN: Seven39, a social media app that is only open for 3 hours every evening](https://www.seven39.com)
 * [2025-03-09, 12:44:44](https://news.ycombinator.com/item?id=43308636) - [The Early History of Deferred Shading and Lighting](https://sites.google.com/site/richgel99/the-early-history-of-deferred-shading-and-lighting)
 * [2025-03-09, 03:15:51](https://news.ycombinator.com/item?id=43305842) - [In contrast to Earth, Mars's middle atmosphere appears driven by gravity waves](https://phys.org/news/2025-03-contrast-earth-mars-middle-atmosphere.html)
-* [2025-03-08, 20:58:34](https://news.ycombinator.com/item?id=43303448) - [Microsoft Windows 1.0 with Steve Ballmer (1986)](https://www.youtube.com/watch?v=EtuDS0ntaJY)
 * [2025-03-08, 18:48:23](https://news.ycombinator.com/item?id=43302436) - [Smart researchers pioneer nanosensor for real-time iron detection in plants](https://news.mit.edu/2025/smart-researchers-pioneer-nanosensor-real-time-iron-detection-plants-0306)
 * [2025-03-08, 08:57:10](https://news.ycombinator.com/item?id=43298663) - [Ask HN: How do you handle VAT / Sales Tax accounting as B2C SaaS?](https://news.ycombinator.com/item?id=43298663)
+* [2025-03-08, 06:48:01](https://news.ycombinator.com/item?id=43298075) - [Tesco trials giant trolley scales in Gateshead](https://www.bbc.co.uk/news/articles/c0rzvrjkklko)
 * [2025-03-08, 05:02:28](https://news.ycombinator.com/item?id=43297636) - [What Is It Like to Be a Bass? Fish-Eye View Photography (1919–22)](https://publicdomainreview.org/collection/fish-eye-view-photography/)
 * [2025-03-08, 00:07:15](https://news.ycombinator.com/item?id=43296184) - [NASA to launch space observatory that will map 450M galaxies](https://www.nbcnews.com/science/space/nasa-spherex-space-observatory-launch-map-galaxies-universe-rcna190877)
 

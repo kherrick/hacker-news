@@ -63,6 +63,7 @@
 * [2025-03-08, 07:26:20](https://news.ycombinator.com/item?id=43298275) - [Ask HN: Is Cursor deleting working code for you too or is it just me?](https://news.ycombinator.com/item?id=43298275)
 * [2025-03-08, 07:25:49](https://news.ycombinator.com/item?id=43298271) - [Volkswagen reintroducing physical controls for vital functions](https://www.autocar.co.uk/car-news/new-cars/volkswagen-reintroducing-physical-controls-vital-functions)
 * [2025-03-08, 07:01:07](https://news.ycombinator.com/item?id=43298130) - [Demodesk (YC W19) Is Hiring a Ruby on Rails Full-Stack Engineer](https://demodesk.com/careers?utm_source=hn)
+* [2025-03-08, 06:48:01](https://news.ycombinator.com/item?id=43298075) - [Tesco trials giant trolley scales in Gateshead](https://www.bbc.co.uk/news/articles/c0rzvrjkklko)
 * [2025-03-08, 06:43:22](https://news.ycombinator.com/item?id=43298054) - [PayPal honey extension has again \"featured\" flag in Chrome web store](https://chromewebstore.google.com/detail/paypal-honey-automatic-co/bmnlcjabgnpnenekpadlanbbkooimhnj/reviews)
 * [2025-03-08, 06:41:34](https://news.ycombinator.com/item?id=43298048) - [Svelte5: A Less Favorable Vue3](https://gist.github.com/rxliuli/c886198390a9fd1138853d0e260025f3)
 * [2025-03-08, 05:02:28](https://news.ycombinator.com/item?id=43297636) - [What Is It Like to Be a Bass? Fish-Eye View Photography (1919–22)](https://publicdomainreview.org/collection/fish-eye-view-photography/)
