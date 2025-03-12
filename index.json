@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=43347628"
     ],
     [
-      "Chris Moore, Illustrator for Classic Sci-Fi Books, Dies at 77",
+      "Chris Moore, illustrator for classic sci-fi books, has died",
       "https://www.nytimes.com/2025/03/12/arts/chris-moore-dead.html"
     ]
   ],
@@ -117,16 +117,6 @@
     [
       "The cultural divide between mathematics and AI",
       "https://sugaku.net/content/understanding-the-cultural-divide-between-mathematics-and-ai/"
-    ]
-  ],
-  [
-    [
-      "2025-03-12, 16:06:18",
-      "https://news.ycombinator.com/item?id=43344685"
-    ],
-    [
-      "Experiment with Gemini 2.0 Flash native image generation",
-      "https://developers.googleblog.com/en/experiment-with-gemini-20-flash-native-image-generation/"
     ]
   ],
   [
@@ -295,8 +285,18 @@
       "https://news.ycombinator.com/item?id=43306916"
     ],
     [
-      "Parnassus Plays",
+      "Parnassus plays",
       "https://en.wikipedia.org/wiki/Parnassus_plays"
+    ]
+  ],
+  [
+    [
+      "2025-03-09, 05:21:41",
+      "https://news.ycombinator.com/item?id=43306514"
+    ],
+    [
+      "Constant-Time Code: The Pessimist Case [pdf]",
+      "https://eprint.iacr.org/2025/435.pdf"
     ]
   ]
 ]
