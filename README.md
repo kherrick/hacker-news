@@ -27,8 +27,8 @@
 * [2025-03-11, 13:19:29](https://news.ycombinator.com/item?id=43332143) - [Three Implementation Models for Scheme (1987) [pdf]](https://legacy.cs.indiana.edu/~dyb/papers/3imp.pdf)
 * [2025-03-10, 20:22:59](https://news.ycombinator.com/item?id=43325628) - [Internet shutdowns at record high in Africa as access 'weaponised'](https://www.theguardian.com/technology/2025/mar/09/internet-shutdowns-record-high-africa-2024-access-weaponised)
 * [2025-03-09, 23:28:09](https://news.ycombinator.com/item?id=43315029) - [Dithering in Colour](https://obrhubr.org/dithering-in-colour)
+* [2025-03-09, 21:39:16](https://news.ycombinator.com/item?id=43314167) - [Time Trouble](http://www.os2museum.com/wp/time-trouble/)
 * [2025-03-09, 17:03:42](https://news.ycombinator.com/item?id=43311082) - [Open source software for modeling soft materials](https://now.tufts.edu/2025/03/04/now-theres-open-source-software-modeling-soft-materials)
-* [2025-03-09, 10:06:27](https://news.ycombinator.com/item?id=43307751) - [My stupid noise journey (2023)](https://dynomight.net/noise/)
 * [2025-03-09, 09:23:39](https://news.ycombinator.com/item?id=43307563) - [Switching from Pyenv to Uv](https://bluesock.org/~willkg/blog/dev/switch_pyenv_to_uv.html)
 
 ## [Archives](archives/index.md)

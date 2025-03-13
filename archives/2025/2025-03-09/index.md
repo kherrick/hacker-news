@@ -14,6 +14,7 @@
 * [2025-03-09, 21:58:27](https://news.ycombinator.com/item?id=43314334) - [El Salvador's crypto experiment ends in failure](https://www.economist.com/finance-and-economics/2025/03/02/el-salvadors-wild-crypto-experiment-ends-in-failure)
 * [2025-03-09, 21:51:35](https://news.ycombinator.com/item?id=43314276) - [Aspirin prevents metastasis by limiting platelet TXA2 suppression of immunity](https://www.nature.com/articles/s41586-025-08626-7)
 * [2025-03-09, 21:40:03](https://news.ycombinator.com/item?id=43314171) - [Apple rearranged its XNU kernel with exclaves](https://www.theregister.com/2025/03/08/kernel_sanders_apple_rearranges_xnu/)
+* [2025-03-09, 21:39:16](https://news.ycombinator.com/item?id=43314167) - [Time Trouble](http://www.os2museum.com/wp/time-trouble/)
 * [2025-03-09, 21:13:32](https://news.ycombinator.com/item?id=43313902) - [The State of Coherence in the Land of Type Classes](https://programming-journal.org/2025/10/15/)
 * [2025-03-09, 21:03:29](https://news.ycombinator.com/item?id=43313792) - [DOGE's government cuts may hurt business, companies warn investors](https://www.washingtonpost.com/business/2025/03/09/doge-companies-warnings-sec-filings/)
 * [2025-03-09, 21:02:47](https://news.ycombinator.com/item?id=43313781) - [Scientists Just Discovered an RNA That Repairs DNA Damage – It's a Game-Changer](https://scitechdaily.com/scientists-just-discovered-an-rna-that-repairs-dna-damage-and-its-a-game-changer/)
