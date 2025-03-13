@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-13](index.md)
 
+* [2025-03-13, 17:35:34](https://news.ycombinator.com/item?id=43355542) - [History of Maths for Beginners](https://thonyc.wordpress.com/2025/03/13/history-of-maths-for-beginners/)
 * [2025-03-13, 17:14:47](https://news.ycombinator.com/item?id=43355348) - [\"Have Quotes About Salieri\"](https://contingentmagazine.org/2025/01/10/have-quotes-about-salieri/)
 * [2025-03-13, 17:00:26](https://news.ycombinator.com/item?id=43355172) - [Spark AI (YC W24) Is Hiring a Full-Stack Engineer in San Francisco](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack)
 * [2025-03-13, 16:53:25](https://news.ycombinator.com/item?id=43355099) - [Dodge Chargers Now Have Pop-Up Ads at Every Stoplight](https://fuelarc.com/cars/dodge-chargers-now-have-pop-up-ads-at-every-stop/)
