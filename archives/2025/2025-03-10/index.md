@@ -11,6 +11,7 @@
 * [2025-03-10, 22:45:31](https://news.ycombinator.com/item?id=43326982) - [The shrouded sinister history of the bulldozer](https://www.noemamag.com/the-shrouded-sinister-history-of-the-bulldozer/)
 * [2025-03-10, 21:56:12](https://news.ycombinator.com/item?id=43326554) - [Leningrad-1: a 44-IC Soviet style ZX-Spectrum clone](https://alex-j-lowry.github.io/leningrd.html)
 * [2025-03-10, 21:24:06](https://news.ycombinator.com/item?id=43326275) - [What Made the Irish Famine So Deadly](https://www.newyorker.com/magazine/2025/03/17/rot-padraic-x-scanlan-book-review)
+* [2025-03-10, 20:22:59](https://news.ycombinator.com/item?id=43325628) - [Internet shutdowns at record high in Africa as access 'weaponised'](https://www.theguardian.com/technology/2025/mar/09/internet-shutdowns-record-high-africa-2024-access-weaponised)
 * [2025-03-10, 19:39:42](https://news.ycombinator.com/item?id=43325019) - [We've been wrong about math for 2300 years](https://davidbessis.substack.com/p/weve-been-wrong-about-math-for-2300)
 * [2025-03-10, 19:29:53](https://news.ycombinator.com/item?id=43324887) - [Ancient ocean coastal deposits imaged on Mars](https://www.pnas.org/doi/10.1073/pnas.2422213122)
 * [2025-03-10, 19:25:49](https://news.ycombinator.com/item?id=43324827) - [America Is Under Siege by a Surprising Force: Losers](https://slate.com/news-and-politics/2025/03/trump-elon-musk-doge-spacex-approval-tariffs.html)
