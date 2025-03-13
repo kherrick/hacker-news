@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-13](index.md)
 
 * [2025-03-13, 13:39:47](https://news.ycombinator.com/item?id=43353240) - [Carefully but Purposefully Oxidising Ubuntu](https://discourse.ubuntu.com/t/carefully-but-purposefully-oxidising-ubuntu/56995)
+* [2025-03-13, 13:21:19](https://news.ycombinator.com/item?id=43353052) - [Are There Opportunities to Use OODA Loops in Your Software Project?](https://spin.atomicobject.com/ooda-loops-software-project/)
 * [2025-03-13, 12:26:33](https://news.ycombinator.com/item?id=43352580) - [Pirate Bay co-founder Carl Lundström has died](https://www.independent.co.uk/news/world/europe/pirate-bay-carl-lundstrom-dead-plane-crash-b2714284.html)
 * [2025-03-13, 12:26:22](https://news.ycombinator.com/item?id=43352579) - [Revealed: How the UK tech secretary uses ChatGPT for policy advice](https://www.newscientist.com/article/2472068-revealed-how-the-uk-tech-secretary-uses-chatgpt-for-policy-advice/)
 * [2025-03-13, 12:19:21](https://news.ycombinator.com/item?id=43352525) - [Is Rust a good fit for business apps?](https://www.bartoszsypytkowski.com/is-rust-a-good-fit-for-business-apps/)
