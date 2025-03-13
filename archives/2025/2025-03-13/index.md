@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-03-13](index.md)
 
+* [2025-03-13, 17:14:47](https://news.ycombinator.com/item?id=43355348) - [\"Have Quotes About Salieri\"](https://contingentmagazine.org/2025/01/10/have-quotes-about-salieri/)
+* [2025-03-13, 17:00:26](https://news.ycombinator.com/item?id=43355172) - [Spark AI (YC W24) Is Hiring a Full-Stack Engineer in San Francisco](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack)
 * [2025-03-13, 16:53:25](https://news.ycombinator.com/item?id=43355099) - [Dodge Chargers Now Have Pop-Up Ads at Every Stoplight](https://fuelarc.com/cars/dodge-chargers-now-have-pop-up-ads-at-every-stop/)
+* [2025-03-13, 16:46:27](https://news.ycombinator.com/item?id=43355031) - [IO Devices and Latency](https://planetscale.com/blog/io-devices-and-latency)
 * [2025-03-13, 15:18:52](https://news.ycombinator.com/item?id=43354219) - [Show HN: I built AI agents with CrewAI to automate my entire Gmail workflow](https://github.com/tonykipkemboi/crewai-gmail-automation)
 * [2025-03-13, 15:06:07](https://news.ycombinator.com/item?id=43354115) - [Ask HN: Where Do Seasoned Devs Look for Short-Term Work?](https://news.ycombinator.com/item?id=43354115)
 * [2025-03-13, 14:44:25](https://news.ycombinator.com/item?id=43353898) - [Interprocedural Sparse Conditional Type Propagation](https://railsatscale.com/2025-02-24-interprocedural-sparse-conditional-type-propagation/)
