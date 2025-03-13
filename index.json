@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-03-13, 01:22:27",
+      "https://news.ycombinator.com/item?id=43349473"
+    ],
+    [
+      "Meta is trying to stop a former employee from promoting her book about Facebook",
+      "https://www.engadget.com/social-media/meta-is-trying-to-stop-a-former-employee-from-promoting-her-book-about-facebook-004938899.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-13, 01:12:56",
+      "https://news.ycombinator.com/item?id=43349426"
+    ],
+    [
+      "xlskubectl – a spreadsheet to control your Kubernetes cluster",
+      "https://github.com/learnk8s/xlskubectl"
+    ]
+  ],
+  [
+    [
+      "2025-03-13, 00:31:47",
+      "https://news.ycombinator.com/item?id=43349214"
+    ],
+    [
+      "Released my full transputer OS, K&R C compiler and utilities (1996)",
+      "https://nanochess.org/transputer_operating_system.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-13, 00:14:54",
+      "https://news.ycombinator.com/item?id=43349115"
+    ],
+    [
+      "'Uber for nurses' exposes 86K+ medical records, PII via open S3 bucket",
+      "https://www.websiteplanet.com/news/eshyft-report-breach/"
+    ]
+  ],
+  [
+    [
       "2025-03-12, 22:32:30",
       "https://news.ycombinator.com/item?id=43348379"
     ],
@@ -111,16 +151,6 @@
   ],
   [
     [
-      "2025-03-12, 16:06:18",
-      "https://news.ycombinator.com/item?id=43344685"
-    ],
-    [
-      "Experiment with Gemini 2.0 Flash native image generation",
-      "https://developers.googleblog.com/en/experiment-with-gemini-20-flash-native-image-generation/"
-    ]
-  ],
-  [
-    [
       "2025-03-12, 16:04:54",
       "https://news.ycombinator.com/item?id=43344673"
     ],
@@ -167,16 +197,6 @@
     [
       "The Future Is Niri",
       "https://ersei.net/en/blog/niri"
-    ]
-  ],
-  [
-    [
-      "2025-03-12, 11:24:40",
-      "https://news.ycombinator.com/item?id=43342071"
-    ],
-    [
-      "First ammonia-fueled ship hits a snag",
-      "https://spectrum.ieee.org/ammonia-fuel-2671266100"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2025-03-09, 10:37:01",
-      "https://news.ycombinator.com/item?id=43307855"
-    ],
-    [
-      "Apple Introduced Its Most Controversial MacBook 10 Years Ago Today",
-      "https://www.macrumors.com/2025/03/09/12-inch-macbook-introduced-10-years-ago/"
-    ]
-  ],
-  [
-    [
       "2025-03-09, 09:23:39",
       "https://news.ycombinator.com/item?id=43307563"
     ],
     [
       "Switching from Pyenv to Uv",
       "https://bluesock.org/~willkg/blog/dev/switch_pyenv_to_uv.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-09, 07:01:25",
-      "https://news.ycombinator.com/item?id=43306916"
-    ],
-    [
-      "Parnassus plays",
-      "https://en.wikipedia.org/wiki/Parnassus_plays"
     ]
   ],
   [
