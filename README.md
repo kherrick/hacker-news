@@ -28,8 +28,8 @@
 * [2025-03-09, 22:33:28](https://news.ycombinator.com/item?id=43314603) - [A GS-Cache Inference Framework for Large-Scale Gaussian Splatting Models](https://arxiv.org/abs/2502.14938)
 * [2025-03-09, 11:53:58](https://news.ycombinator.com/item?id=43308278) - [Open-UI: Maintain an open standard for UI and promote its adherence and adoption](https://github.com/openui/open-ui)
 * [2025-03-09, 10:06:27](https://news.ycombinator.com/item?id=43307751) - [My stupid noise journey (2023)](https://dynomight.net/noise/)
+* [2025-03-09, 09:58:38](https://news.ycombinator.com/item?id=43307713) - [The political economy of Manus AI](https://marginalrevolution.com/marginalrevolution/2025/03/the-political-economy-of-manus-ai.html)
 * [2025-03-09, 09:23:39](https://news.ycombinator.com/item?id=43307563) - [Switching from Pyenv to Uv](https://bluesock.org/~willkg/blog/dev/switch_pyenv_to_uv.html)
-* [2025-03-09, 05:21:41](https://news.ycombinator.com/item?id=43306514) - [Constant-Time Code: The Pessimist Case [pdf]](https://eprint.iacr.org/2025/435.pdf)
 
 ## [Archives](archives/index.md)
 

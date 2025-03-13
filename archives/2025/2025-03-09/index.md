@@ -72,6 +72,7 @@
 * [2025-03-09, 10:07:01](https://news.ycombinator.com/item?id=43307755) - [Why Layoffs Don't Work](https://thehustle.co/originals/why-layoffs-dont-work)
 * [2025-03-09, 10:06:27](https://news.ycombinator.com/item?id=43307751) - [My Stupid Noise Journey](https://dynomight.net/noise/)
 * [2025-03-09, 10:05:52](https://news.ycombinator.com/item?id=43307745) - [Show HN: Searchable Vim Cheat Sheet with Favorites (Open-Source)](https://nvim-cheatsheet.vercel.app/)
+* [2025-03-09, 09:58:38](https://news.ycombinator.com/item?id=43307713) - [The political economy of Manus AI](https://marginalrevolution.com/marginalrevolution/2025/03/the-political-economy-of-manus-ai.html)
 * [2025-03-09, 09:47:28](https://news.ycombinator.com/item?id=43307659) - [Understanding Memory Management, Part 2: C++ and RAII](https://educatedguesswork.org/posts/memory-management-2/)
 * [2025-03-09, 09:25:28](https://news.ycombinator.com/item?id=43307572) - [Where are all the self-directed learners?](https://saigaddam.medium.com/where-are-all-the-self-directed-learners-ccfb2421e52c)
 * [2025-03-09, 09:23:39](https://news.ycombinator.com/item?id=43307563) - [Switching from Pyenv to Uv](https://bluesock.org/~willkg/blog/dev/switch_pyenv_to_uv.html)
