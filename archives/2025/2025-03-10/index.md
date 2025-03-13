@@ -15,6 +15,7 @@
 * [2025-03-10, 19:39:42](https://news.ycombinator.com/item?id=43325019) - [We've been wrong about math for 2300 years](https://davidbessis.substack.com/p/weve-been-wrong-about-math-for-2300)
 * [2025-03-10, 19:29:53](https://news.ycombinator.com/item?id=43324887) - [Ancient ocean coastal deposits imaged on Mars](https://www.pnas.org/doi/10.1073/pnas.2422213122)
 * [2025-03-10, 19:25:49](https://news.ycombinator.com/item?id=43324827) - [America Is Under Siege by a Surprising Force: Losers](https://slate.com/news-and-politics/2025/03/trump-elon-musk-doge-spacex-approval-tariffs.html)
+* [2025-03-10, 18:51:10](https://news.ycombinator.com/item?id=43324350) - [Unraveling Time: A Deep Dive into TTD Instruction Emulation Bugs](https://cloud.google.com/blog/topics/threat-intelligence/ttd-instruction-emulation-bugs)
 * [2025-03-10, 18:41:47](https://news.ycombinator.com/item?id=43324220) - [I quit my FAANG job because it'll be automated by the end of the year (2025)](https://jagilley.github.io/faang-blog.html)
 * [2025-03-10, 18:39:28](https://news.ycombinator.com/item?id=43324157) - [Tesla shares plunge 14%, head for worst day in five years](https://www.cnbc.com/2025/03/10/tesla-shares-plunge-14percent-head-for-worst-day-in-five-years.html)
 * [2025-03-10, 18:32:22](https://news.ycombinator.com/item?id=43324040) - [British tourist detained by US authorities for 10 days over visa issue](https://www.theguardian.com/uk-news/2025/mar/10/british-tourist-detained-us-authorities-10-days-visa-issue)
