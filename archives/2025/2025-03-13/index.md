@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-13](index.md)
 
+* [2025-03-13, 10:43:54](https://news.ycombinator.com/item?id=43351988) - [Amateur Telescope Making Main Page](https://stellafane.org/tm/atm/)
 * [2025-03-13, 10:04:02](https://news.ycombinator.com/item?id=43351765) - [Huawei targeted in new European Parliament corruption probe](https://www.ftm.eu/articles/huawei-targeted-in-european-parliament-corruption-probe)
 * [2025-03-13, 08:25:03](https://news.ycombinator.com/item?id=43351271) - [Game Boy Advance Architecture – A Practical Analysis](https://www.copetti.org/writings/consoles/game-boy-advance/)
 * [2025-03-13, 07:59:55](https://news.ycombinator.com/item?id=43351137) - [Cursor told me I should learn coding instead of asking it to generate it](https://forum.cursor.com/t/cursor-told-me-i-should-learn-coding-instead-of-asking-it-to-generate-it-limit-of-800-locs/61132)
