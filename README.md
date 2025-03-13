@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-13, 22:13:58](https://news.ycombinator.com/item?id=43357747) - [Voker (YC S24) Is Hiring an LA-Based Full Stack AI Software Engineer](https://www.linkedin.com/jobs/view/4165718206/)
+* [2025-03-13, 22:05:44](https://news.ycombinator.com/item?id=43357687) - [Recursion kills: The story behind CVE-2024-8176 in libexpat](https://blog.hartwork.org/posts/expat-2-7-0-released/)
 * [2025-03-13, 20:46:26](https://news.ycombinator.com/item?id=43357078) - [Functional Tests as a Tree of Continuations (2010)](https://www.evanmiller.org/functional-tests-as-a-tree-of-continuations.html)
 * [2025-03-13, 20:35:47](https://news.ycombinator.com/item?id=43356995) - [\"Normal\" engineers are the key to great teams](https://spectrum.ieee.org/10x-engineer)
 * [2025-03-13, 19:05:17](https://news.ycombinator.com/item?id=43356314) - [The Lost Art of Logarithms](https://www.lostartoflogarithms.com/)
@@ -8,10 +10,8 @@
 * [2025-03-13, 17:35:34](https://news.ycombinator.com/item?id=43355542) - [History of Maths for Beginners](https://thonyc.wordpress.com/2025/03/13/history-of-maths-for-beginners/)
 * [2025-03-13, 17:33:23](https://news.ycombinator.com/item?id=43355521) - [Honey Bunnies](https://mameson.com/experiment/glsl/fro_9/fro_9.html)
 * [2025-03-13, 17:14:47](https://news.ycombinator.com/item?id=43355348) - [\"Have Quotes About Salieri\"](https://contingentmagazine.org/2025/01/10/have-quotes-about-salieri/)
-* [2025-03-13, 17:00:26](https://news.ycombinator.com/item?id=43355172) - [Spark AI (YC W24) is hiring a full-stack engineer in San Francisco](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack)
 * [2025-03-13, 16:46:27](https://news.ycombinator.com/item?id=43355031) - [IO Devices and Latency](https://planetscale.com/blog/io-devices-and-latency)
 * [2025-03-13, 14:37:05](https://news.ycombinator.com/item?id=43353822) - [Steam Networks](https://worksinprogress.co/issue/steam-networks/)
-* [2025-03-13, 14:14:43](https://news.ycombinator.com/item?id=43353603) - [The failure of the land value tax](https://worksinprogress.co/issue/the-failure-of-the-land-value-tax/)
 * [2025-03-13, 14:12:21](https://news.ycombinator.com/item?id=43353570) - [The Long Flight to Teach an Endangered Ibis Species to Migrate](https://www.newyorker.com/magazine/2025/02/17/the-long-flight-to-teach-an-endangered-ibis-species-to-migrate)
 * [2025-03-13, 14:09:21](https://news.ycombinator.com/item?id=43353551) - [Statistical Formulas for Programmers (2013)](https://www.evanmiller.org/statistical-formulas-for-programmers.html)
 * [2025-03-13, 12:20:29](https://news.ycombinator.com/item?id=43352531) - [OpenAI asks White House for relief from state AI rules](https://finance.yahoo.com/news/openai-asks-white-house-relief-100000706.html)

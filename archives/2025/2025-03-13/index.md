@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-13](index.md)
 
+* [2025-03-13, 22:13:58](https://news.ycombinator.com/item?id=43357747) - [Voker (YC S24) Is Hiring an LA-Based Full Stack AI Software Engineer](https://www.linkedin.com/jobs/view/4165718206/)
+* [2025-03-13, 22:05:44](https://news.ycombinator.com/item?id=43357687) - [Recursion kills: The story behind CVE-2024-8176 in libexpat](https://blog.hartwork.org/posts/expat-2-7-0-released/)
 * [2025-03-13, 20:46:26](https://news.ycombinator.com/item?id=43357078) - [Functional Tests as a Tree of Continuations (2010)](https://www.evanmiller.org/functional-tests-as-a-tree-of-continuations.html)
 * [2025-03-13, 20:35:47](https://news.ycombinator.com/item?id=43356995) - [Why \"Normal\" Engineers Are the Key to Great Teams](https://spectrum.ieee.org/10x-engineer)
 * [2025-03-13, 19:05:17](https://news.ycombinator.com/item?id=43356314) - [The Lost Art of Logarithms](https://www.lostartoflogarithms.com/)
