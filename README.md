@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-13, 02:40:43](https://news.ycombinator.com/item?id=43349901) - [Doge Privacy Act Requests](https://jamieraskin.com/doge-privacy-act-requests/)
 * [2025-03-13, 01:22:27](https://news.ycombinator.com/item?id=43349473) - [Meta is trying to stop a former employee from promoting her book about Facebook](https://www.engadget.com/social-media/meta-is-trying-to-stop-a-former-employee-from-promoting-her-book-about-facebook-004938899.html)
 * [2025-03-13, 01:12:56](https://news.ycombinator.com/item?id=43349426) - [xlskubectl – a spreadsheet to control your Kubernetes cluster](https://github.com/learnk8s/xlskubectl)
 * [2025-03-13, 00:31:47](https://news.ycombinator.com/item?id=43349214) - [Released my full transputer OS, K&R C compiler and utilities (1996)](https://nanochess.org/transputer_operating_system.html)
@@ -19,17 +20,16 @@
 * [2025-03-12, 15:09:09](https://news.ycombinator.com/item?id=43344082) - [Gemini Robotics](https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/)
 * [2025-03-12, 12:56:01](https://news.ycombinator.com/item?id=43342712) - [The DuckDB Local UI](https://duckdb.org/2025/03/12/duckdb-ui.html)
 * [2025-03-12, 12:08:43](https://news.ycombinator.com/item?id=43342361) - [Peer-to-peer file transfers in the browser](https://github.com/kern/filepizza)
-* [2025-03-12, 11:42:16](https://news.ycombinator.com/item?id=43342178) - [The Future Is Niri](https://ersei.net/en/blog/niri)
 * [2025-03-12, 10:00:37](https://news.ycombinator.com/item?id=43341481) - [Apple has locked me in the same cage Microsoft's built for Windows 10 users](https://www.theregister.com/2025/03/12/hardware_os_lockin_monopolies/)
 * [2025-03-12, 08:25:36](https://news.ycombinator.com/item?id=43340948) - [Tell Mozilla: it's time to ditch Google](https://mozillapetition.com/)
 * [2025-03-12, 07:38:35](https://news.ycombinator.com/item?id=43340731) - [I stopped everything and started writing C again](https://www.kmx.io/blog/why-stopped-everything-and-started-writing-C-again)
 * [2025-03-12, 06:39:17](https://news.ycombinator.com/item?id=43340491) - [Gemma 3 Technical Report [pdf]](https://storage.googleapis.com/deepmind-media/gemma/Gemma3Report.pdf)
 * [2025-03-12, 05:21:33](https://news.ycombinator.com/item?id=43340196) - [The insecurity of telecom stacks in the wake of Salt Typhoon](https://soatok.blog/2025/03/12/on-the-insecurity-of-telecom-stacks-in-the-wake-of-salt-typhoon/)
+* [2025-03-09, 18:22:19](https://news.ycombinator.com/item?id=43312062) - [Idées-Forces](https://newleftreview.org/issues/ii151/articles/perry-anderson-idees-forces)
 * [2025-03-09, 13:25:35](https://news.ycombinator.com/item?id=43308907) - [Building websites with lots of little HTML pages](https://blog.jim-nielsen.com/2025/lots-of-little-html-pages/)
 * [2025-03-09, 11:53:58](https://news.ycombinator.com/item?id=43308278) - [Open-UI: Maintain an open standard for UI and promote its adherence and adoption](https://github.com/openui/open-ui)
 * [2025-03-09, 09:23:39](https://news.ycombinator.com/item?id=43307563) - [Switching from Pyenv to Uv](https://bluesock.org/~willkg/blog/dev/switch_pyenv_to_uv.html)
 * [2025-03-09, 05:21:41](https://news.ycombinator.com/item?id=43306514) - [Constant-Time Code: The Pessimist Case [pdf]](https://eprint.iacr.org/2025/435.pdf)
-* [2025-03-09, 03:19:21](https://news.ycombinator.com/item?id=43305856) - [Carbon recyclers: Sulfur bacteria break down organic substances in seabed](https://phys.org/news/2025-03-earth-hidden-carbon-recyclers-sulfur.html)
 
 ## [Archives](archives/index.md)
 
