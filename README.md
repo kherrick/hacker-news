@@ -29,7 +29,7 @@
 * [2025-03-09, 23:28:09](https://news.ycombinator.com/item?id=43315029) - [Dithering in Colour](https://obrhubr.org/dithering-in-colour)
 * [2025-03-09, 20:32:26](https://news.ycombinator.com/item?id=43313445) - [An Attempt to Catch Up with JITs: The False Lead of Optimizing Inline Caches](https://programming-journal.org/2025/10/6/)
 * [2025-03-09, 17:03:42](https://news.ycombinator.com/item?id=43311082) - [Open source software for modeling soft materials](https://now.tufts.edu/2025/03/04/now-theres-open-source-software-modeling-soft-materials)
-* [2025-03-09, 14:00:31](https://news.ycombinator.com/item?id=43309109) - [Ruth Belville: the \"Greenwich Time Lady\" who sold time from 1892 to 1940 (2022)](https://eehe.org.uk/72742/ruth-belville-she-sold-time/)
+* [2025-03-09, 14:00:31](https://news.ycombinator.com/item?id=43309109) - [Ruth Belville, the \"Greenwich Time Lady\" (2022)](https://eehe.org.uk/72742/ruth-belville-she-sold-time/)
 
 ## [Archives](archives/index.md)
 
