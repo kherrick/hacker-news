@@ -26,6 +26,7 @@
 * [2025-03-10, 18:16:26](https://news.ycombinator.com/item?id=43323755) - [People are just as bad as my LLMs](https://wilsoniumite.com/2025/03/10/people-are-just-as-bad-as-my-llms/)
 * [2025-03-10, 18:15:34](https://news.ycombinator.com/item?id=43323738) - [Study finds bullies have more children than non-bullies](https://phys.org/news/2025-02-bullies-children.html)
 * [2025-03-10, 18:11:18](https://news.ycombinator.com/item?id=43323652) - [Wall Street sell-off turns 'ugly' as US recession fears grow](https://www.independent.co.uk/business/wall-street-selloff-turns-ugly-as-us-recession-fears-grow-b2712420.html)
+* [2025-03-10, 18:05:36](https://news.ycombinator.com/item?id=43323535) - [Art Attack](https://en.wikipedia.org/wiki/Art_Attack)
 * [2025-03-10, 18:04:51](https://news.ycombinator.com/item?id=43323519) - [Washington Post editor resigns after accusing CEO of killing column](https://www.nbcnews.com/news/us-news/washington-post-editor-ruth-marcus-resigns-accusing-ceo-killing-column-rcna195634)
 * [2025-03-10, 18:02:49](https://news.ycombinator.com/item?id=43323485) - [DOJ: Google must sell Chrome, Android could be next](https://arstechnica.com/google/2025/03/doj-google-must-sell-chrome-android-could-be-next/)
 * [2025-03-10, 17:40:40](https://news.ycombinator.com/item?id=43323071) - [Software-Defined Radio for Engineers (2018) [pdf]](https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf)
