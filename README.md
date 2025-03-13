@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-13, 03:37:28](https://news.ycombinator.com/item?id=43350174) - [FTC can't afford to fight Amazon's allegedly deceptive sign-ups after DOGE cuts](https://arstechnica.com/tech-policy/2025/03/doges-extremely-severe-ftc-cuts-prompt-request-to-delay-amazon-trial/)
 * [2025-03-13, 01:12:56](https://news.ycombinator.com/item?id=43349426) - [xlskubectl – a spreadsheet to control your Kubernetes cluster](https://github.com/learnk8s/xlskubectl)
-* [2025-03-13, 00:31:47](https://news.ycombinator.com/item?id=43349214) - [Released my full transputer OS, K&R C compiler and utilities (1996)](https://nanochess.org/transputer_operating_system.html)
+* [2025-03-13, 00:31:47](https://news.ycombinator.com/item?id=43349214) - [My teen years: The transputer operating system](https://nanochess.org/transputer_operating_system.html)
 * [2025-03-13, 00:14:54](https://news.ycombinator.com/item?id=43349115) - ['Uber for nurses' exposes 86K+ medical records, PII via open S3 bucket](https://www.websiteplanet.com/news/eshyft-report-breach/)
 * [2025-03-12, 22:32:30](https://news.ycombinator.com/item?id=43348379) - [Practical UX for startups surviving without a designer](https://www.tibinotes.com/p/practical-ux-for-startups-surviving)
 * [2025-03-12, 21:31:31](https://news.ycombinator.com/item?id=43347874) - [I Built a Mechanical Calculator [video]](https://www.youtube.com/watch?v=E0pJST5mL3A)
@@ -29,7 +30,6 @@
 * [2025-03-09, 11:53:58](https://news.ycombinator.com/item?id=43308278) - [Open-UI: Maintain an open standard for UI and promote its adherence and adoption](https://github.com/openui/open-ui)
 * [2025-03-09, 10:06:27](https://news.ycombinator.com/item?id=43307751) - [My stupid noise journey (2023)](https://dynomight.net/noise/)
 * [2025-03-09, 09:23:39](https://news.ycombinator.com/item?id=43307563) - [Switching from Pyenv to Uv](https://bluesock.org/~willkg/blog/dev/switch_pyenv_to_uv.html)
-* [2025-03-09, 05:21:41](https://news.ycombinator.com/item?id=43306514) - [Constant-Time Code: The Pessimist Case [pdf]](https://eprint.iacr.org/2025/435.pdf)
 
 ## [Archives](archives/index.md)
 
