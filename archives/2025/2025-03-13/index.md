@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-13](index.md)
 
+* [2025-03-13, 14:12:21](https://news.ycombinator.com/item?id=43353570) - [The Long Flight to Teach an Endangered Ibis Species to Migrate](https://www.newyorker.com/magazine/2025/02/17/the-long-flight-to-teach-an-endangered-ibis-species-to-migrate)
 * [2025-03-13, 13:39:47](https://news.ycombinator.com/item?id=43353240) - [Carefully but Purposefully Oxidising Ubuntu](https://discourse.ubuntu.com/t/carefully-but-purposefully-oxidising-ubuntu/56995)
 * [2025-03-13, 13:21:19](https://news.ycombinator.com/item?id=43353052) - [Are There Opportunities to Use OODA Loops in Your Software Project?](https://spin.atomicobject.com/ooda-loops-software-project/)
 * [2025-03-13, 12:26:33](https://news.ycombinator.com/item?id=43352580) - [Pirate Bay co-founder Carl Lundström has died](https://www.independent.co.uk/news/world/europe/pirate-bay-carl-lundstrom-dead-plane-crash-b2714284.html)

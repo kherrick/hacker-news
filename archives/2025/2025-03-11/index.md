@@ -18,6 +18,7 @@
 * [2025-03-11, 17:46:01](https://news.ycombinator.com/item?id=43335110) - [Backyard Cyanide](https://suziepetryk.com/blog/cyanide.html)
 * [2025-03-11, 17:21:09](https://news.ycombinator.com/item?id=43334830) - [Why Go?](https://github.com/microsoft/typescript-go/discussions/411)
 * [2025-03-11, 17:16:29](https://news.ycombinator.com/item?id=43334784) - [UK petition to keep Apple data encrypted](https://you.38degrees.org.uk/petitions/keep-our-apple-data-encrypted)
+* [2025-03-11, 17:12:43](https://news.ycombinator.com/item?id=43334731) - [The masters of Commodore 64 games](https://spillhistorie.no/masters-of-c64-games/)
 * [2025-03-11, 17:04:57](https://news.ycombinator.com/item?id=43334644) - [New tools for building agents](https://openai.com/index/new-tools-for-building-agents/)
 * [2025-03-11, 17:00:46](https://news.ycombinator.com/item?id=43334589) - [Launch HN: Sift Dev (YC W25) – AI-Powered Datadog Alternative](https://news.ycombinator.com/item?id=43334589)
 * [2025-03-11, 17:00:36](https://news.ycombinator.com/item?id=43334587) - [Legion Health (YC S21) is hiring an AI/ML Engineer](https://www.ycombinator.com/companies/legion-health/jobs/26GxO6f-ai-ml-engineer-llm-optimization-ai-driven-workflows)
