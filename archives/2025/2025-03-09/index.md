@@ -40,6 +40,7 @@
 * [2025-03-09, 17:25:17](https://news.ycombinator.com/item?id=43311367) - [TeX Live 2025 Released](https://www.texastim.dev/tex-live-2025-iso-available-via-torrent/)
 * [2025-03-09, 17:09:30](https://news.ycombinator.com/item?id=43311149) - [Rewriting essential Linux packages in Rust](https://lwn.net/Articles/1007907/)
 * [2025-03-09, 17:04:28](https://news.ycombinator.com/item?id=43311091) - [Do you DARE? Europe bets once again on RISC-V for supercomputing sovereignty](https://www.theregister.com/2025/03/07/dare_europe_risc_v_project/)
+* [2025-03-09, 17:03:42](https://news.ycombinator.com/item?id=43311082) - [Open source software for modeling soft materials](https://now.tufts.edu/2025/03/04/now-theres-open-source-software-modeling-soft-materials)
 * [2025-03-09, 17:00:35](https://news.ycombinator.com/item?id=43311044) - [Infisical (YC W23) Is Hiring for Full Stack Engineers in San Francisco](https://www.ycombinator.com/companies/infisical/jobs/QqCs5fv-full-stack-engineer-sf)
 * [2025-03-09, 16:51:59](https://news.ycombinator.com/item?id=43310963) - [Evolving Agents – AI Agents That Communicate, Collaborate, and Improve over Time](https://github.com/matiasmolinas/evolving-agents)
 * [2025-03-09, 16:24:46](https://news.ycombinator.com/item?id=43310634) - [Reasons veterans are especially hard-hit by federal cuts](https://theconversation.com/5-reasons-veterans-are-especially-hard-hit-by-federal-cuts-251188)
