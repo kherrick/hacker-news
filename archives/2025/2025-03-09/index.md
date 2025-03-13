@@ -23,6 +23,7 @@
 * [2025-03-09, 20:44:08](https://news.ycombinator.com/item?id=43313574) - [Sweetener aspartame aggravates atherosclerosis through insulin inflammation](https://www.sciencedirect.com/science/article/pii/S1550413125000063)
 * [2025-03-09, 20:40:04](https://news.ycombinator.com/item?id=43313522) - [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go)
 * [2025-03-09, 20:39:56](https://news.ycombinator.com/item?id=43313521) - [Doge Is Replacing Fired Workers with a Chatbot](https://gizmodo.com/doge-is-replacing-fired-workers-with-a-chatbot-2000573510)
+* [2025-03-09, 20:32:26](https://news.ycombinator.com/item?id=43313445) - [An Attempt to Catch Up with JITs: The False Lead of Optimizing Inline Caches](https://programming-journal.org/2025/10/6/)
 * [2025-03-09, 20:21:54](https://news.ycombinator.com/item?id=43313341) - [Top links on Bluesky, Updated Hourly](https://theblue.report)
 * [2025-03-09, 20:20:13](https://news.ycombinator.com/item?id=43313321) - [Show HN: I built a free SVG Web site](https://websvg.com/)
 * [2025-03-09, 20:18:42](https://news.ycombinator.com/item?id=43313304) - [Despite the hype, DOGE hasn't found a shred of fraud](https://www.publicnotice.co/p/despite-the-hype-doge-hasnt-found)
