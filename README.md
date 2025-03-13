@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-13, 10:04:02](https://news.ycombinator.com/item?id=43351765) - [Huawei targeted in new European Parliament corruption probe](https://www.ftm.eu/articles/huawei-targeted-in-european-parliament-corruption-probe)
 * [2025-03-13, 07:59:55](https://news.ycombinator.com/item?id=43351137) - [Cursor told me I should learn coding instead of asking it to generate it](https://forum.cursor.com/t/cursor-told-me-i-should-learn-coding-instead-of-asking-it-to-generate-it-limit-of-800-locs/61132)
 * [2025-03-13, 01:12:56](https://news.ycombinator.com/item?id=43349426) - [xlskubectl – a spreadsheet to control your Kubernetes cluster](https://github.com/learnk8s/xlskubectl)
 * [2025-03-13, 00:31:47](https://news.ycombinator.com/item?id=43349214) - [My teen years: The transputer operating system](https://nanochess.org/transputer_operating_system.html)
-* [2025-03-13, 00:14:54](https://news.ycombinator.com/item?id=43349115) - ['Uber for nurses' exposes 86K+ medical records, PII via open S3 bucket](https://www.websiteplanet.com/news/eshyft-report-breach/)
 * [2025-03-12, 22:32:30](https://news.ycombinator.com/item?id=43348379) - [Practical UX for startups surviving without a designer](https://www.tibinotes.com/p/practical-ux-for-startups-surviving)
 * [2025-03-12, 21:12:05](https://news.ycombinator.com/item?id=43347724) - [The Night Watch (2013) [pdf]](https://www.usenix.org/system/files/1311_05-08_mickens.pdf)
 * [2025-03-12, 21:05:08](https://news.ycombinator.com/item?id=43347662) - [Mark Klein, AT&T whistleblower who revealed NSA mass spying, has died](https://www.eff.org/deeplinks/2025/03/memoriam-mark-klein-att-whistleblower-about-nsa-mass-spying)
