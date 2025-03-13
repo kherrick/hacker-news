@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-13, 22:48:45](https://news.ycombinator.com/item?id=43357955) - [C Plus Prolog](https://github.com/needleful/c_plus_prolog)
 * [2025-03-13, 22:13:58](https://news.ycombinator.com/item?id=43357747) - [Voker (YC S24) Is Hiring an LA-Based Full Stack AI Software Engineer](https://www.linkedin.com/jobs/view/4165718206/)
 * [2025-03-13, 22:05:44](https://news.ycombinator.com/item?id=43357687) - [Recursion kills: The story behind CVE-2024-8176 in libexpat](https://blog.hartwork.org/posts/expat-2-7-0-released/)
 * [2025-03-13, 20:46:26](https://news.ycombinator.com/item?id=43357078) - [Functional Tests as a Tree of Continuations (2010)](https://www.evanmiller.org/functional-tests-as-a-tree-of-continuations.html)
@@ -25,7 +26,6 @@
 * [2025-03-12, 15:09:09](https://news.ycombinator.com/item?id=43344082) - [Gemini Robotics](https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/)
 * [2025-03-12, 12:56:01](https://news.ycombinator.com/item?id=43342712) - [The DuckDB Local UI](https://duckdb.org/2025/03/12/duckdb-ui.html)
 * [2025-03-11, 17:12:43](https://news.ycombinator.com/item?id=43334731) - [The masters of Commodore 64 games](https://spillhistorie.no/masters-of-c64-games/)
-* [2025-03-10, 18:51:10](https://news.ycombinator.com/item?id=43324350) - [Unraveling Time: A Deep Dive into TTD Instruction Emulation Bugs](https://cloud.google.com/blog/topics/threat-intelligence/ttd-instruction-emulation-bugs)
 * [2025-03-10, 13:07:53](https://news.ycombinator.com/item?id=43320190) - [Reversing Samsung's H-Arx Hypervisor Framework (Part 1)](https://dayzerosec.com/blog/2025/03/08/reversing-samsungs-h-arx-hypervisor-part-1.html)
 * [2025-03-10, 00:34:28](https://news.ycombinator.com/item?id=43315544) - [Half the human beings alive today are descended from the Yamnaya: new research](https://www.wsj.com/science/the-ancient-horsemen-who-created-the-modern-world-ba4b314d)
 * [2025-03-09, 23:28:09](https://news.ycombinator.com/item?id=43315029) - [Dithering in Colour](https://obrhubr.org/dithering-in-colour)
