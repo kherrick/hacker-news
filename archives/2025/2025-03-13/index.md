@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-13](index.md)
 
+* [2025-03-13, 12:26:33](https://news.ycombinator.com/item?id=43352580) - [Pirate Bay co-founder Carl Lundström has died](https://www.independent.co.uk/news/world/europe/pirate-bay-carl-lundstrom-dead-plane-crash-b2714284.html)
+* [2025-03-13, 12:26:22](https://news.ycombinator.com/item?id=43352579) - [Revealed: How the UK tech secretary uses ChatGPT for policy advice](https://www.newscientist.com/article/2472068-revealed-how-the-uk-tech-secretary-uses-chatgpt-for-policy-advice/)
 * [2025-03-13, 12:19:21](https://news.ycombinator.com/item?id=43352525) - [Is Rust a good fit for business apps?](https://www.bartoszsypytkowski.com/is-rust-a-good-fit-for-business-apps/)
 * [2025-03-13, 12:00:05](https://news.ycombinator.com/item?id=43352405) - [Shadeform (YC S23) is hiring a senior founding engineer](https://www.ycombinator.com/companies/shadeform/jobs/2sDkjnk-founding-senior-software-engineer)
 * [2025-03-13, 10:43:54](https://news.ycombinator.com/item?id=43351988) - [Amateur Telescope Making Main Page](https://stellafane.org/tm/atm/)
