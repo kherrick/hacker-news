@@ -11,6 +11,7 @@
 * [2025-03-09, 22:43:30](https://news.ycombinator.com/item?id=43314700) - [Ice arrests Palestinian activist who helped lead Columbia protests, lawyer says](https://www.theguardian.com/us-news/2025/mar/09/ice-arrests-palestinian-activist-columbia-protests)
 * [2025-03-09, 22:38:57](https://news.ycombinator.com/item?id=43314657) - [Apple Exclaves](https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194)
 * [2025-03-09, 22:33:28](https://news.ycombinator.com/item?id=43314603) - [A GS-Cache Inference Framework for Large-Scale Gaussian Splatting Models](https://arxiv.org/abs/2502.14938)
+* [2025-03-09, 22:24:56](https://news.ycombinator.com/item?id=43314541) - [Xcode now supports Processor Trace profiling on M4/A18](https://developer.apple.com/documentation/xcode-release-notes/xcode-16_3-release-notes)
 * [2025-03-09, 21:58:27](https://news.ycombinator.com/item?id=43314334) - [El Salvador's crypto experiment ends in failure](https://www.economist.com/finance-and-economics/2025/03/02/el-salvadors-wild-crypto-experiment-ends-in-failure)
 * [2025-03-09, 21:51:35](https://news.ycombinator.com/item?id=43314276) - [Aspirin prevents metastasis by limiting platelet TXA2 suppression of immunity](https://www.nature.com/articles/s41586-025-08626-7)
 * [2025-03-09, 21:40:03](https://news.ycombinator.com/item?id=43314171) - [Apple rearranged its XNU kernel with exclaves](https://www.theregister.com/2025/03/08/kernel_sanders_apple_rearranges_xnu/)
