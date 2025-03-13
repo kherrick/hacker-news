@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2025-03-09, 22:24:56",
+      "https://news.ycombinator.com/item?id=43314541"
+    ],
+    [
+      "Xcode now supports Processor Trace profiling on M4/A18",
+      "https://developer.apple.com/documentation/xcode-release-notes/xcode-16_3-release-notes"
+    ]
+  ],
+  [
+    [
       "2025-03-09, 17:03:42",
       "https://news.ycombinator.com/item?id=43311082"
     ],
@@ -277,16 +287,6 @@
     [
       "Ruth Belville: the \"Greenwich Time Lady\" who sold time from 1892 to 1940 (2022)",
       "https://eehe.org.uk/72742/ruth-belville-she-sold-time/"
-    ]
-  ],
-  [
-    [
-      "2025-03-09, 11:53:58",
-      "https://news.ycombinator.com/item?id=43308278"
-    ],
-    [
-      "Open-UI: Maintain an open standard for UI and promote its adherence and adoption",
-      "https://github.com/openui/open-ui"
     ]
   ],
   [
