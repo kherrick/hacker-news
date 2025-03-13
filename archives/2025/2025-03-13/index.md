@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-13](index.md)
 
+* [2025-03-13, 16:53:25](https://news.ycombinator.com/item?id=43355099) - [Dodge Chargers Now Have Pop-Up Ads at Every Stoplight](https://fuelarc.com/cars/dodge-chargers-now-have-pop-up-ads-at-every-stop/)
 * [2025-03-13, 15:18:52](https://news.ycombinator.com/item?id=43354219) - [Show HN: I built AI agents with CrewAI to automate my entire Gmail workflow](https://github.com/tonykipkemboi/crewai-gmail-automation)
 * [2025-03-13, 15:06:07](https://news.ycombinator.com/item?id=43354115) - [Ask HN: Where Do Seasoned Devs Look for Short-Term Work?](https://news.ycombinator.com/item?id=43354115)
 * [2025-03-13, 14:44:25](https://news.ycombinator.com/item?id=43353898) - [Interprocedural Sparse Conditional Type Propagation](https://railsatscale.com/2025-02-24-interprocedural-sparse-conditional-type-propagation/)
