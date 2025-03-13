@@ -68,6 +68,7 @@
 * [2025-03-10, 06:44:27](https://news.ycombinator.com/item?id=43317592) - [Performance of the Python 3.14 tail-call interpreter](https://blog.nelhage.com/post/cpython-tail-call/)
 * [2025-03-10, 06:01:18](https://news.ycombinator.com/item?id=43317406) - [Llama.cpp AI Performance with the GeForce RTX 5090 Review](https://www.phoronix.com/review/nvidia-rtx5090-llama-cpp)
 * [2025-03-10, 05:30:28](https://news.ycombinator.com/item?id=43317269) - [AI is becoming 'yes-men on servers'](https://twitter.com/Thom_Wolf/status/1897630495527104932)
+* [2025-03-10, 05:16:04](https://news.ycombinator.com/item?id=43317213) - [Definite clause grammars and symbolic differentiation](https://bitsandtheorems.com/definite-clause-grammars-and-symbolic-differentiation/)
 * [2025-03-10, 04:20:02](https://news.ycombinator.com/item?id=43316979) - [A bear case: predictions regarding AI](https://www.lesswrong.com/posts/oKAFFvaouKKEhbBPm/a-bear-case-my-predictions-regarding-ai-progress)
 * [2025-03-10, 04:04:48](https://news.ycombinator.com/item?id=43316912) - [Optimal brain process requires balance between excitatory and inhibitory neurons](https://phys.org/news/2025-03-optimal-brain-requires-excitatory-inhibitory.html)
 * [2025-03-10, 03:25:07](https://news.ycombinator.com/item?id=43316724) - ['Nobody will trust a US treaty again,' and the yen is new safe haven](https://fortune.com/2025/03/09/us-treaty-nato-ukraine-russia-trump-japan-yen-safe-haven-dedollarization/)
