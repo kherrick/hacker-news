@@ -51,6 +51,7 @@
 * [2025-03-09, 14:50:25](https://news.ycombinator.com/item?id=43309485) - [DHS Detains Lead Negotiator of Columbia Encampment](https://www.dropsitenews.com/p/dhs-detains-columbia-university-student-gaza)
 * [2025-03-09, 14:39:28](https://news.ycombinator.com/item?id=43309376) - [Orange Pi RV2 is a single-board PC with an 8-core RISC-V processor](https://liliputing.com/orange-pi-rv2-is-a-single-board-pc-with-an-8-core-risc-v-processor/)
 * [2025-03-09, 14:25:40](https://news.ycombinator.com/item?id=43309261) - [Show HN: Translate Japanese Manga and Korean Manhwa with Chrome Extension](https://pawakalabs.com/products/fakey/)
+* [2025-03-09, 14:00:31](https://news.ycombinator.com/item?id=43309109) - [Ruth Belville: the \"Greenwich Time Lady\" who sold time from 1892 to 1940 (2022)](https://eehe.org.uk/72742/ruth-belville-she-sold-time/)
 * [2025-03-09, 13:40:35](https://news.ycombinator.com/item?id=43308994) - [It is as if you were on your phone](https://pippinbarr.com/it-is-as-if-you-were-on-your-phone/info/)
 * [2025-03-09, 13:40:35](https://news.ycombinator.com/item?id=43308994) - [It is as if you were on your phone](http://pippinbarr.com/it-is-as-if-you-were-on-your-phone/info/)
 * [2025-03-09, 13:25:35](https://news.ycombinator.com/item?id=43308907) - [Building Websites with Lots of Little HTML Pages](https://blog.jim-nielsen.com/2025/lots-of-little-html-pages/)
