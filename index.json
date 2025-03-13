@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-03-13, 03:37:28",
-      "https://news.ycombinator.com/item?id=43350174"
-    ],
-    [
-      "FTC can't afford to fight Amazon's allegedly deceptive sign-ups after DOGE cuts",
-      "https://arstechnica.com/tech-policy/2025/03/doges-extremely-severe-ftc-cuts-prompt-request-to-delay-amazon-trial/"
-    ]
-  ],
-  [
-    [
       "2025-03-13, 01:12:56",
       "https://news.ycombinator.com/item?id=43349426"
     ],
@@ -267,6 +257,16 @@
     [
       "Three Implementation Models for Scheme (1987) [pdf]",
       "https://legacy.cs.indiana.edu/~dyb/papers/3imp.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-03-09, 22:33:28",
+      "https://news.ycombinator.com/item?id=43314603"
+    ],
+    [
+      "A GS-Cache Inference Framework for Large-Scale Gaussian Splatting Models",
+      "https://arxiv.org/abs/2502.14938"
     ]
   ],
   [
