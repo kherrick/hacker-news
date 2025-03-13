@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-13, 15:18:52](https://news.ycombinator.com/item?id=43354219) - [Show HN: I built AI agents with CrewAI to automate my entire Gmail workflow](https://github.com/tonykipkemboi/crewai-gmail-automation)
 * [2025-03-13, 15:06:07](https://news.ycombinator.com/item?id=43354115) - [Ask HN: Where Do Seasoned Devs Look for Short-Term Work?](https://news.ycombinator.com/item?id=43354115)
 * [2025-03-13, 14:44:25](https://news.ycombinator.com/item?id=43353898) - [Interprocedural Sparse Conditional Type Propagation](https://railsatscale.com/2025-02-24-interprocedural-sparse-conditional-type-propagation/)
 * [2025-03-13, 14:37:05](https://news.ycombinator.com/item?id=43353822) - [Steam Networks](https://worksinprogress.co/issue/steam-networks/)
@@ -22,13 +21,14 @@
 * [2025-03-12, 12:56:01](https://news.ycombinator.com/item?id=43342712) - [The DuckDB Local UI](https://duckdb.org/2025/03/12/duckdb-ui.html)
 * [2025-03-12, 12:08:43](https://news.ycombinator.com/item?id=43342361) - [Peer-to-peer file transfers in the browser](https://github.com/kern/filepizza)
 * [2025-03-12, 11:42:16](https://news.ycombinator.com/item?id=43342178) - [The Future Is Niri](https://ersei.net/en/blog/niri)
+* [2025-03-12, 07:38:35](https://news.ycombinator.com/item?id=43340731) - [I stopped everything and started writing C again](https://www.kmx.io/blog/why-stopped-everything-and-started-writing-C-again)
 * [2025-03-12, 06:39:17](https://news.ycombinator.com/item?id=43340491) - [Gemma 3 Technical Report [pdf]](https://storage.googleapis.com/deepmind-media/gemma/Gemma3Report.pdf)
 * [2025-03-11, 17:12:43](https://news.ycombinator.com/item?id=43334731) - [The masters of Commodore 64 games](https://spillhistorie.no/masters-of-c64-games/)
 * [2025-03-10, 20:22:59](https://news.ycombinator.com/item?id=43325628) - [Internet shutdowns at record high in Africa as access 'weaponised'](https://www.theguardian.com/technology/2025/mar/09/internet-shutdowns-record-high-africa-2024-access-weaponised)
 * [2025-03-09, 23:28:09](https://news.ycombinator.com/item?id=43315029) - [Dithering in Colour](https://obrhubr.org/dithering-in-colour)
-* [2025-03-09, 22:24:56](https://news.ycombinator.com/item?id=43314541) - [Xcode now supports Processor Trace profiling on M4/A18](https://developer.apple.com/documentation/xcode-release-notes/xcode-16_3-release-notes)
 * [2025-03-09, 17:03:42](https://news.ycombinator.com/item?id=43311082) - [Open source software for modeling soft materials](https://now.tufts.edu/2025/03/04/now-theres-open-source-software-modeling-soft-materials)
 * [2025-03-09, 14:00:31](https://news.ycombinator.com/item?id=43309109) - [Ruth Belville: the \"Greenwich Time Lady\" who sold time from 1892 to 1940 (2022)](https://eehe.org.uk/72742/ruth-belville-she-sold-time/)
+* [2025-03-09, 11:53:58](https://news.ycombinator.com/item?id=43308278) - [Open-UI: Maintain an open standard for UI and promote its adherence and adoption](https://github.com/openui/open-ui)
 * [2025-03-09, 10:06:27](https://news.ycombinator.com/item?id=43307751) - [My stupid noise journey (2023)](https://dynomight.net/noise/)
 
 ## [Archives](archives/index.md)
