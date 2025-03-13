@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-13](index.md)
 
+* [2025-03-13, 07:59:55](https://news.ycombinator.com/item?id=43351137) - [Cursor told me I should learn coding instead of asking it to generate it](https://forum.cursor.com/t/cursor-told-me-i-should-learn-coding-instead-of-asking-it-to-generate-it-limit-of-800-locs/61132)
 * [2025-03-13, 03:37:28](https://news.ycombinator.com/item?id=43350174) - [FTC can't afford to fight Amazon's allegedly deceptive sign-ups after DOGE cuts](https://arstechnica.com/tech-policy/2025/03/doges-extremely-severe-ftc-cuts-prompt-request-to-delay-amazon-trial/)
 * [2025-03-13, 02:40:43](https://news.ycombinator.com/item?id=43349901) - [Doge Privacy Act Requests](https://jamieraskin.com/doge-privacy-act-requests/)
 * [2025-03-13, 01:22:27](https://news.ycombinator.com/item?id=43349473) - [Meta is trying to stop a former employee from promoting her book about Facebook](https://www.engadget.com/social-media/meta-is-trying-to-stop-a-former-employee-from-promoting-her-book-about-facebook-004938899.html)

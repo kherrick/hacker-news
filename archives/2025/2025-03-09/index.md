@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-09](index.md)
 
+* [2025-03-09, 23:28:09](https://news.ycombinator.com/item?id=43315029) - [Dithering in Colour](https://obrhubr.org/dithering-in-colour)
 * [2025-03-09, 23:23:17](https://news.ycombinator.com/item?id=43314994) - [ICE arrests Palestinian activist who helped lead Columbia University protests](https://apnews.com/article/columbia-university-mahmoud-khalil-ice-15014bcbb921f21a9f704d5acdcae7a8)
 * [2025-03-09, 23:00:25](https://news.ycombinator.com/item?id=43314851) - [Vilhelm Hammershøi: the eminence in greys](https://www.richardmorris.org/blog-1-1/vilhelm-hammershi-the-eminence-in-greys)
 * [2025-03-09, 22:53:19](https://news.ycombinator.com/item?id=43314781) - [Tesla's team to suppress driving range complaints](https://www.reuters.com/investigates/special-report/tesla-batteries-range/)
