@@ -46,6 +46,7 @@
 * [2025-03-11, 12:54:22](https://news.ycombinator.com/item?id=43331940) - [Show HN: iOS app that corrects your form in real time using your phone's camera](https://www.firefly.fitness/)
 * [2025-03-11, 12:50:02](https://news.ycombinator.com/item?id=43331914) - [Representing Type Lattices Compactly](https://bernsteinbear.com/blog/lattice-bitset/)
 * [2025-03-11, 12:29:59](https://news.ycombinator.com/item?id=43331770) - [Cursor uploads .env file with secrets despite .gitignore and .cursorignore](https://forum.cursor.com/t/env-file-question/60165)
+* [2025-03-11, 12:14:13](https://news.ycombinator.com/item?id=43331673) - [Owl: Optimized Workforce Learning for multi-agent collaboration](https://github.com/camel-ai/owl)
 * [2025-03-11, 12:05:12](https://news.ycombinator.com/item?id=43331607) - [The Internet of Beefs (2020)](https://www.ribbonfarm.com/2020/01/16/the-internet-of-beefs/)
 * [2025-03-11, 12:04:19](https://news.ycombinator.com/item?id=43331601) - [More mysterious DNS root query traffic from a large cloud/DNS operator (2022)](https://blog.apnic.net/2022/06/02/more-mysterious-dns-root-query-traffic-from-a-large-cloud-dns-operator/)
 * [2025-03-11, 12:02:02](https://news.ycombinator.com/item?id=43331582) - [Show HN: Factorio Learning Environment – Agents Build Factories](https://jackhopkins.github.io/factorio-learning-environment/)
