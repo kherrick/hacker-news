@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-14, 21:33:28](https://news.ycombinator.com/item?id=43367536) - [Everything you say to your Echo will be sent to Amazon starting on March 28](https://arstechnica.com/gadgets/2025/03/everything-you-say-to-your-echo-will-be-sent-to-amazon-starting-on-march-28/)
 * [2025-03-14, 21:00:55](https://news.ycombinator.com/item?id=43367261) - [GCVR (YC W22) Is Hiring Lead Technical Artist](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/gfrf9Cu-lead-technical-artist-staff-principal)
 * [2025-03-14, 20:36:02](https://news.ycombinator.com/item?id=43367012) - [Cwtch – Privacy Preserving Messaging](https://docs.cwtch.im/)
 * [2025-03-14, 20:20:11](https://news.ycombinator.com/item?id=43366839) - [Tariffs Are Proving 'Big Headache' for Tech Giants, Says Foxconn](https://www.ft.com/content/cc290f55-e45a-42b1-bf2d-cf323053fade)
@@ -27,7 +28,6 @@
 * [2025-03-12, 01:55:32](https://news.ycombinator.com/item?id=43339212) - [My Scammer Girlfriend: Baiting a Romance Fraudster](https://www.bentasker.co.uk/posts/blog/security/seducing-a-romance-scammer.html)
 * [2025-03-11, 12:14:13](https://news.ycombinator.com/item?id=43331673) - [Owl: Optimized Workforce Learning for multi-agent collaboration](https://github.com/camel-ai/owl)
 * [2025-03-11, 12:05:12](https://news.ycombinator.com/item?id=43331607) - [The Internet of Beefs (2020)](https://www.ribbonfarm.com/2020/01/16/the-internet-of-beefs/)
-* [2025-03-10, 23:41:45](https://news.ycombinator.com/item?id=43327506) - [Liu Jiakun Receives the 2025 Pritzker Architecture Prize](https://www.pritzkerprize.com/laureates/liu-jiakun)
 * [2025-03-10, 19:41:37](https://news.ycombinator.com/item?id=43325049) - [Ask HN: Any insider takes on Yann LeCun's push against current architectures?](https://news.ycombinator.com/item?id=43325049)
 * [2025-03-10, 14:33:10](https://news.ycombinator.com/item?id=43321109) - [Apparently magpies and crows are using “anti-bird spikes” to make nests (2023)](https://www.audubon.org/magazine/apparently-magpies-and-crows-are-using-anti-bird-spikes-make-their-nests)
 
