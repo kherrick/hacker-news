@@ -14,7 +14,6 @@
 * [2025-03-13, 22:12:31](https://news.ycombinator.com/item?id=43357739) - [Y Combinator urges the White House to support Europe's Digital Markets Act](https://techcrunch.com/2025/03/13/y-combinator-urges-the-white-house-to-support-europes-digital-markets-act/)
 * [2025-03-13, 22:07:29](https://news.ycombinator.com/item?id=43357704) - [Tiny changes in gene expression make big difference in eye size of fruit flies](https://phys.org/news/2025-02-tiny-gene-big-differences-eye.html)
 * [2025-03-13, 22:05:44](https://news.ycombinator.com/item?id=43357687) - [Recursion kills: The story behind CVE-2024-8176 in libexpat](https://blog.hartwork.org/posts/expat-2-7-0-released/)
-* [2025-03-13, 20:46:26](https://news.ycombinator.com/item?id=43357078) - [Functional Tests as a Tree of Continuations (2010)](https://www.evanmiller.org/functional-tests-as-a-tree-of-continuations.html)
 * [2025-03-13, 20:35:47](https://news.ycombinator.com/item?id=43356995) - [\"Normal\" engineers are the key to great teams](https://spectrum.ieee.org/10x-engineer)
 * [2025-03-13, 19:05:17](https://news.ycombinator.com/item?id=43356314) - [The Lost Art of Logarithms](https://www.lostartoflogarithms.com/)
 * [2025-03-13, 17:48:03](https://news.ycombinator.com/item?id=43355658) - [Show HN: Bubbles, a vanilla JavaScript web game](https://ehmorris.com/bubbles/)
@@ -28,6 +27,7 @@
 * [2025-03-13, 01:04:50](https://news.ycombinator.com/item?id=43349385) - [A new Sudoku layout with 81 uniquely shaped cells](https://danielchasehooper.com/posts/cracked-sudoku/)
 * [2025-03-12, 01:55:32](https://news.ycombinator.com/item?id=43339212) - [My Scammer Girlfriend: Baiting a Romance Fraudster](https://www.bentasker.co.uk/posts/blog/security/seducing-a-romance-scammer.html)
 * [2025-03-11, 07:48:29](https://news.ycombinator.com/item?id=43330143) - [Creative Fansubbing Techniques: Part 2](https://www.md-subs.com/blog/creative-fansubbing-techniques-2)
+* [2025-03-10, 14:33:10](https://news.ycombinator.com/item?id=43321109) - [Magpies and Crows Are Using \"Anti-Bird Spikes\" to Make Their Nests](https://www.audubon.org/magazine/apparently-magpies-and-crows-are-using-anti-bird-spikes-make-their-nests)
 * [2025-03-10, 13:41:24](https://news.ycombinator.com/item?id=43320505) - [Show HN: I built a Figma plugin for quick data calculations](https://www.figma.com/community/plugin/1478090512871122209/countastic)
 * [2025-03-10, 01:51:20](https://news.ycombinator.com/item?id=43316167) - [Will the Man Get Frog](https://www.lexaloffle.com/bbs/?pid=willthemangetfrog)
 
