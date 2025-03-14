@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-03-14](index.md)
 
+* [2025-03-14, 12:07:06](https://news.ycombinator.com/item?id=43361822) - [Apple will soon support encrypted RCS messaging with Android users](https://www.theverge.com/news/629620/apple-iphone-e2ee-encryption-rcs-messaging-android)
+* [2025-03-14, 12:00:33](https://news.ycombinator.com/item?id=43361773) - [Recurse Center (YC S10) Is Hiring an Office and Operations Assistant (New York)](https://recurse.notion.site/Office-Operations-Assistant-2a579bdf1d4e4baa9b6e5b7774803b70)
+* [2025-03-14, 11:55:17](https://news.ycombinator.com/item?id=43361737) - [In S3 simplicity is table stakes](https://www.allthingsdistributed.com/2025/03/in-s3-simplicity-is-table-stakes.html)
+* [2025-03-14, 10:58:47](https://news.ycombinator.com/item?id=43361381) - [Pressure grows to hold secret Apple data privacy hearing in public](https://www.bbc.com/news/articles/c4g0rr51gn3o)
 * [2025-03-14, 10:56:02](https://news.ycombinator.com/item?id=43361366) - [Migrating from AWS to a European Cloud – How We Cut Costs by 62%](https://www.hopsworks.ai/post/migrating-from-aws-to-a-european-cloud-how-we-cut-costs-by-62)
+* [2025-03-14, 10:47:10](https://news.ycombinator.com/item?id=43361309) - [Aspartame aggravates atherosclerosis through insulin-triggered inflammation](https://www.cell.com/cell-metabolism/pdfExtended/S1550-4131(25)00006-3)
 * [2025-03-14, 09:58:09](https://news.ycombinator.com/item?id=43361038) - [Tesla Cybertruck deliveries on hold as trims are flying off 'bulletproof' truck](https://electrek.co/2025/03/13/tesla-cybertruck-deliveries-are-on-hold-as-trims-are-flying-off-the-bulletproof-truck/)
 * [2025-03-14, 09:23:58](https://news.ycombinator.com/item?id=43360894) - [AMD's Strix Halo – Under the Hood](https://chipsandcheese.com/p/amds-strix-halo-under-the-hood)
 * [2025-03-14, 08:38:19](https://news.ycombinator.com/item?id=43360653) - [OpenAI calls on U.S. Government to let it freely use copyrighted material](https://openai.com/global-affairs/openai-proposals-for-the-us-ai-action-plan/)

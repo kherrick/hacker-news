@@ -1,6 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-14, 10:56:02](https://news.ycombinator.com/item?id=43361366) - [Migrating from AWS to a European Cloud – How We Cut Costs by 62%](https://www.hopsworks.ai/post/migrating-from-aws-to-a-european-cloud-how-we-cut-costs-by-62)
+* [2025-03-14, 12:07:06](https://news.ycombinator.com/item?id=43361822) - [Apple will soon support encrypted RCS messaging with Android users](https://www.theverge.com/news/629620/apple-iphone-e2ee-encryption-rcs-messaging-android)
+* [2025-03-14, 12:00:33](https://news.ycombinator.com/item?id=43361773) - [Recurse Center (YC S10) Is Hiring an Office and Operations Assistant (New York)](https://recurse.notion.site/Office-Operations-Assistant-2a579bdf1d4e4baa9b6e5b7774803b70)
+* [2025-03-14, 11:55:17](https://news.ycombinator.com/item?id=43361737) - [In S3 simplicity is table stakes](https://www.allthingsdistributed.com/2025/03/in-s3-simplicity-is-table-stakes.html)
+* [2025-03-14, 10:58:47](https://news.ycombinator.com/item?id=43361381) - [Pressure grows to hold secret Apple data privacy hearing in public](https://www.bbc.com/news/articles/c4g0rr51gn3o)
+* [2025-03-14, 10:47:10](https://news.ycombinator.com/item?id=43361309) - [Aspartame aggravates atherosclerosis through insulin-triggered inflammation](https://www.cell.com/cell-metabolism/pdfExtended/S1550-4131(25)00006-3)
 * [2025-03-14, 09:23:58](https://news.ycombinator.com/item?id=43360894) - [AMD's Strix Halo – Under the Hood](https://chipsandcheese.com/p/amds-strix-halo-under-the-hood)
 * [2025-03-14, 08:36:08](https://news.ycombinator.com/item?id=43360642) - [I-cant-believe-its-not-webusb: Hacking around lack of WebUSB support in Firefox](https://github.com/ArcaneNibble/i-cant-believe-its-not-webusb)
 * [2025-03-14, 06:07:55](https://news.ycombinator.com/item?id=43360024) - [Ex-Facebook director's new book paints brutal image of Mark Zuckerberg](https://www.sfgate.com/tech/article/ex-facebook-director-book-brutal-image-zuckerberg-20220239.php)
@@ -8,9 +12,7 @@
 * [2025-03-14, 02:00:35](https://news.ycombinator.com/item?id=43358947) - [The Church FAQ](https://whatever.scalzi.com/2025/03/13/the-church-faq/)
 * [2025-03-14, 00:58:29](https://news.ycombinator.com/item?id=43358682) - [ArkFlow – High-performance Rust stream processing engine](https://github.com/chenquan/arkflow)
 * [2025-03-14, 00:45:58](https://news.ycombinator.com/item?id=43358628) - [The 2008 coal ash disaster in Kingston, Tennessee](https://oxfordamerican.org/oa-now/the-toxic-wave-that-swallowed-a-tennessee-town)
-* [2025-03-13, 22:54:31](https://news.ycombinator.com/item?id=43358003) - [How Pi Almost Wasn't](https://mathenchant.wordpress.com/2025/03/13/how-pi-almost-wasnt/)
 * [2025-03-13, 22:48:45](https://news.ycombinator.com/item?id=43357955) - [C Plus Prolog](https://github.com/needleful/c_plus_prolog)
-* [2025-03-13, 22:13:58](https://news.ycombinator.com/item?id=43357747) - [Voker (YC S24) is hiring an LA-based full stack AI software engineer](https://www.linkedin.com/jobs/view/4165718206/)
 * [2025-03-13, 22:12:31](https://news.ycombinator.com/item?id=43357739) - [Y Combinator urges the White House to support Europe's Digital Markets Act](https://techcrunch.com/2025/03/13/y-combinator-urges-the-white-house-to-support-europes-digital-markets-act/)
 * [2025-03-13, 22:05:44](https://news.ycombinator.com/item?id=43357687) - [Recursion kills: The story behind CVE-2024-8176 in libexpat](https://blog.hartwork.org/posts/expat-2-7-0-released/)
 * [2025-03-13, 20:35:47](https://news.ycombinator.com/item?id=43356995) - [\"Normal\" engineers are the key to great teams](https://spectrum.ieee.org/10x-engineer)
@@ -20,7 +22,6 @@
 * [2025-03-13, 16:46:27](https://news.ycombinator.com/item?id=43355031) - [IO Devices and Latency](https://planetscale.com/blog/io-devices-and-latency)
 * [2025-03-13, 14:44:25](https://news.ycombinator.com/item?id=43353898) - [Interprocedural Sparse Conditional Type Propagation](https://railsatscale.com/2025-02-24-interprocedural-sparse-conditional-type-propagation/)
 * [2025-03-13, 14:37:05](https://news.ycombinator.com/item?id=43353822) - [Steam Networks](https://worksinprogress.co/issue/steam-networks/)
-* [2025-03-13, 14:09:21](https://news.ycombinator.com/item?id=43353551) - [Statistical Formulas for Programmers (2013)](https://www.evanmiller.org/statistical-formulas-for-programmers.html)
 * [2025-03-13, 12:20:29](https://news.ycombinator.com/item?id=43352531) - [OpenAI asks White House for relief from state AI rules](https://finance.yahoo.com/news/openai-asks-white-house-relief-100000706.html)
 * [2025-03-13, 10:43:54](https://news.ycombinator.com/item?id=43351988) - [Amateur Telescope Making Main Page](https://stellafane.org/tm/atm/)
 * [2025-03-13, 01:04:50](https://news.ycombinator.com/item?id=43349385) - [A new Sudoku layout with 81 uniquely shaped cells](https://danielchasehooper.com/posts/cracked-sudoku/)
@@ -29,7 +30,6 @@
 * [2025-03-11, 07:48:29](https://news.ycombinator.com/item?id=43330143) - [Creative Fansubbing Techniques: Part 2](https://www.md-subs.com/blog/creative-fansubbing-techniques-2)
 * [2025-03-10, 14:33:10](https://news.ycombinator.com/item?id=43321109) - [Magpies and Crows Are Using \"Anti-Bird Spikes\" to Make Their Nests (2023)](https://www.audubon.org/magazine/apparently-magpies-and-crows-are-using-anti-bird-spikes-make-their-nests)
 * [2025-03-10, 13:41:24](https://news.ycombinator.com/item?id=43320505) - [Show HN: I built a Figma plugin for quick data calculations](https://www.figma.com/community/plugin/1478090512871122209/countastic)
-* [2025-03-10, 01:51:20](https://news.ycombinator.com/item?id=43316167) - [Will the Man Get Frog](https://www.lexaloffle.com/bbs/?pid=willthemangetfrog)
 
 ## [Archives](archives/index.md)
 
