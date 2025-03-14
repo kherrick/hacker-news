@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-14](index.md)
 
 * [2025-03-14, 14:39:00](https://news.ycombinator.com/item?id=43363056) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=43363056)
+* [2025-03-14, 14:35:00](https://news.ycombinator.com/item?id=43363014) - [Stoicism's Appeal to the Rich and Powerful (2019)](https://www.exurbe.com/stoicisms-appeal-to-the-rich-and-powerful/)
 * [2025-03-14, 14:17:08](https://news.ycombinator.com/item?id=43362865) - [Ask HN: Any jobs that don't force you to always be advancing career wise?](https://news.ycombinator.com/item?id=43362865)
 * [2025-03-14, 14:15:40](https://news.ycombinator.com/item?id=43362847) - [Show HN: I built a vector illustration generator](https://www.illustration.app/)
 * [2025-03-14, 13:36:20](https://news.ycombinator.com/item?id=43362528) - [The Cassowary Linear Arithmetic Constraint Solving Algorithm [pdf] (2002)](https://constraints.cs.washington.edu/solvers/cassowary-tochi.pdf)

@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-14, 14:39:00](https://news.ycombinator.com/item?id=43363056) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=43363056)
+* [2025-03-14, 14:35:00](https://news.ycombinator.com/item?id=43363014) - [Stoicism's Appeal to the Rich and Powerful (2019)](https://www.exurbe.com/stoicisms-appeal-to-the-rich-and-powerful/)
 * [2025-03-14, 14:17:08](https://news.ycombinator.com/item?id=43362865) - [Ask HN: Any jobs that don't force you to always be advancing career wise?](https://news.ycombinator.com/item?id=43362865)
 * [2025-03-14, 14:15:40](https://news.ycombinator.com/item?id=43362847) - [Show HN: I built a vector illustration generator](https://www.illustration.app/)
 * [2025-03-14, 13:36:20](https://news.ycombinator.com/item?id=43362528) - [The Cassowary Linear Arithmetic Constraint Solving Algorithm [pdf] (2002)](https://constraints.cs.washington.edu/solvers/cassowary-tochi.pdf)
@@ -19,7 +20,6 @@
 * [2025-03-13, 22:05:44](https://news.ycombinator.com/item?id=43357687) - [Recursion kills: The story behind CVE-2024-8176 in libexpat](https://blog.hartwork.org/posts/expat-2-7-0-released/)
 * [2025-03-13, 20:35:47](https://news.ycombinator.com/item?id=43356995) - [“Normal” engineers are the key to great teams](https://spectrum.ieee.org/10x-engineer)
 * [2025-03-13, 19:05:17](https://news.ycombinator.com/item?id=43356314) - [The Lost Art of Logarithms](https://www.lostartoflogarithms.com/)
-* [2025-03-13, 17:33:23](https://news.ycombinator.com/item?id=43355521) - [Honey Bunnies](https://mameson.com/experiment/glsl/fro_9/fro_9.html)
 * [2025-03-13, 16:46:27](https://news.ycombinator.com/item?id=43355031) - [IO Devices and Latency](https://planetscale.com/blog/io-devices-and-latency)
 * [2025-03-13, 14:37:05](https://news.ycombinator.com/item?id=43353822) - [Steam Networks](https://worksinprogress.co/issue/steam-networks/)
 * [2025-03-13, 12:20:29](https://news.ycombinator.com/item?id=43352531) - [OpenAI asks White House for relief from state AI rules](https://finance.yahoo.com/news/openai-asks-white-house-relief-100000706.html)
