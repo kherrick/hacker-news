@@ -54,6 +54,7 @@
 * [2025-03-10, 13:05:54](https://news.ycombinator.com/item?id=43320177) - [We built a crowdsourced interview question database for tech interviews](https://www.interviewdb.io)
 * [2025-03-10, 12:48:32](https://news.ycombinator.com/item?id=43320024) - [Zero-Downtime Kubernetes Deployments on AWS with EKS](https://glasskube.dev/blog/kubernetes-zero-downtime-deployments-aws-eks/)
 * [2025-03-10, 12:29:33](https://news.ycombinator.com/item?id=43319875) - [Quantum Milestones, 1964: John Stewart Bell Rings in New Era of Quantum Theory (2022)](https://physics.aps.org/articles/v18/53)
+* [2025-03-10, 12:01:35](https://news.ycombinator.com/item?id=43319617) - [What is VRAN: Virtualize Your Radio Access Network](https://www.intel.com/content/www/us/en/wireless-network/5g-network/radio-access-network.html)
 * [2025-03-10, 12:00:58](https://news.ycombinator.com/item?id=43319611) - [FurtherAI (YC W24) Is Hiring](https://www.ycombinator.com/companies/furtherai/jobs)
 * [2025-03-10, 11:50:06](https://news.ycombinator.com/item?id=43319511) - [' largest' fusion fuel facility to be built](https://www.bbc.co.uk/news/articles/cy4vrd4l0mgo)
 * [2025-03-10, 10:23:31](https://news.ycombinator.com/item?id=43318842) - [Real Chilling Effects](https://donmoynihan.substack.com/p/real-chilling-effects)
