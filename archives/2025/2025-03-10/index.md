@@ -45,6 +45,7 @@
 * [2025-03-10, 14:36:48](https://news.ycombinator.com/item?id=43321145) - [YouTube DRM added on ALL videos with TV (TVHTML5) clients](https://github.com/yt-dlp/yt-dlp/issues/12563)
 * [2025-03-10, 14:35:05](https://news.ycombinator.com/item?id=43321131) - [A technical history of Acorn Computers](https://www.mcmordie.co.uk/acornhistory/index.shtml)
 * [2025-03-10, 14:25:52](https://news.ycombinator.com/item?id=43321023) - [NIH will eliminate many peer review panels, lay off scientists overseeing them](https://www.science.org/content/article/nih-will-eliminate-many-peer-review-panels-and-lay-some-scientists-overseeing-them)
+* [2025-03-10, 13:41:24](https://news.ycombinator.com/item?id=43320505) - [Show HN: I built a Figma plugin for quick data calculations](https://www.figma.com/community/plugin/1478090512871122209/countastic)
 * [2025-03-10, 13:36:47](https://news.ycombinator.com/item?id=43320458) - [Investors Want a Piece of DeepSeek. Its Founder Says Not Now](https://www.wsj.com/tech/ai/investors-want-a-piece-of-deepseek-its-founder-says-not-now-24e9f799)
 * [2025-03-10, 13:27:17](https://news.ycombinator.com/item?id=43320364) - [20 years of Linux on the Desktop (part 3)](https://ploum.net/2025-03-08-linux_desktop3.html)
 * [2025-03-10, 13:24:40](https://news.ycombinator.com/item?id=43320344) - [Pixel 4a battery update due to overheating risk, per Australian 'recall' notice](https://9to5google.com/2025/03/10/pixel-4a-battery-recall/)
