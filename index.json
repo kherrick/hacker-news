@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-03-14, 12:43:56",
+      "https://news.ycombinator.com/item?id=43362081"
+    ],
+    [
+      "Stanford students want in on the military tech gold rush",
+      "https://sfstandard.com/2025/03/12/stanford-students-want-in-on-the-military-tech-gold-rush/"
+    ]
+  ],
+  [
+    [
+      "2025-03-14, 12:25:04",
+      "https://news.ycombinator.com/item?id=43361959"
+    ],
+    [
+      "A Look at Firefox Forks",
+      "https://lwn.net/Articles/1012453/"
+    ]
+  ],
+  [
+    [
       "2025-03-14, 12:07:06",
       "https://news.ycombinator.com/item?id=43361822"
     ],
     [
       "Apple will soon support encrypted RCS messaging with Android users",
       "https://www.theverge.com/news/629620/apple-iphone-e2ee-encryption-rcs-messaging-android"
+    ]
+  ],
+  [
+    [
+      "2025-03-14, 12:05:31",
+      "https://news.ycombinator.com/item?id=43361801"
+    ],
+    [
+      "Beyond the 70%: Maximizing the human 30% of AI-assisted coding",
+      "https://addyo.substack.com/p/beyond-the-70-maximizing-the-human"
     ]
   ],
   [
@@ -67,16 +97,6 @@
     [
       "I-cant-believe-its-not-webusb: Hacking around lack of WebUSB support in Firefox",
       "https://github.com/ArcaneNibble/i-cant-believe-its-not-webusb"
-    ]
-  ],
-  [
-    [
-      "2025-03-14, 06:07:55",
-      "https://news.ycombinator.com/item?id=43360024"
-    ],
-    [
-      "Ex-Facebook director's new book paints brutal image of Mark Zuckerberg",
-      "https://www.sfgate.com/tech/article/ex-facebook-director-book-brutal-image-zuckerberg-20220239.php"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-03-13, 17:48:03",
-      "https://news.ycombinator.com/item?id=43355658"
-    ],
-    [
-      "Show HN: Bubbles, a vanilla JavaScript web game",
-      "https://ehmorris.com/bubbles/"
-    ]
-  ],
-  [
-    [
       "2025-03-13, 17:33:23",
       "https://news.ycombinator.com/item?id=43355521"
     ],
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2025-03-11, 19:08:10",
-      "https://news.ycombinator.com/item?id=43335956"
-    ],
-    [
-      "Fridgeditions Demo \"Children's Art the World Can Enjoy\"",
-      "https://www.fridgeditions.com/"
-    ]
-  ],
-  [
-    [
       "2025-03-11, 07:48:29",
       "https://news.ycombinator.com/item?id=43330143"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-03-10, 13:41:24",
-      "https://news.ycombinator.com/item?id=43320505"
+      "2025-03-10, 13:08:15",
+      "https://news.ycombinator.com/item?id=43320194"
     ],
     [
-      "Show HN: I built a Figma plugin for quick data calculations",
-      "https://www.figma.com/community/plugin/1478090512871122209/countastic"
+      "Probabilistic Time Series Forecasting",
+      "https://github.com/Protik49/Probabilistic-Time-Series-Forecasting"
     ]
   ]
 ]
