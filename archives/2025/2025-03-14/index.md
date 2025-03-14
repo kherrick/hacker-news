@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-14](index.md)
 
 * [2025-03-14, 06:30:04](https://news.ycombinator.com/item?id=43360113) - [SQL queries don't start with SELECT (2019)](https://jvns.ca/blog/2019/10/03/sql-queries-don-t-start-with-select/)
+* [2025-03-14, 06:07:55](https://news.ycombinator.com/item?id=43360024) - [Ex-Facebook director's new book paints brutal image of Mark Zuckerberg](https://www.sfgate.com/tech/article/ex-facebook-director-book-brutal-image-zuckerberg-20220239.php)
 * [2025-03-14, 03:47:22](https://news.ycombinator.com/item?id=43359417) - [Johns Hopkins University slashes 2k jobs](https://www.reuters.com/world/us/johns-hopkins-university-slashes-2000-jobs-after-trump-administration-grant-cut-2025-03-13/)
 * [2025-03-14, 02:37:49](https://news.ycombinator.com/item?id=43359114) - [ATProto Isn't What You Think](https://blog.muni.town/atproto-isnt-what-you-think/)
 * [2025-03-14, 02:15:11](https://news.ycombinator.com/item?id=43358999) - [Show HN: A website that makes your text look cool anywhere online using Unicode](https://fontgenerator.cool/)
