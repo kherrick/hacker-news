@@ -26,8 +26,8 @@
 * [2025-03-13, 20:35:47](https://news.ycombinator.com/item?id=43356995) - [“Normal” engineers are the key to great teams](https://spectrum.ieee.org/10x-engineer)
 * [2025-03-13, 19:05:17](https://news.ycombinator.com/item?id=43356314) - [The Lost Art of Logarithms](https://www.lostartoflogarithms.com/)
 * [2025-03-13, 12:20:29](https://news.ycombinator.com/item?id=43352531) - [OpenAI asks White House for relief from state AI rules](https://finance.yahoo.com/news/openai-asks-white-house-relief-100000706.html)
+* [2025-03-12, 20:49:38](https://news.ycombinator.com/item?id=43347524) - [Show HN: OCR Benchmark Focusing on Automation](https://nanonets.com/automation-benchmark)
 * [2025-03-12, 01:55:32](https://news.ycombinator.com/item?id=43339212) - [My Scammer Girlfriend: Baiting a Romance Fraudster](https://www.bentasker.co.uk/posts/blog/security/seducing-a-romance-scammer.html)
-* [2025-03-10, 23:41:45](https://news.ycombinator.com/item?id=43327506) - [Liu Jiakun Receives the 2025 Pritzker Architecture Prize](https://www.pritzkerprize.com/laureates/liu-jiakun)
 * [2025-03-10, 19:41:37](https://news.ycombinator.com/item?id=43325049) - [Any insider takes on Yann LeCun's push against current architectures?](https://news.ycombinator.com/item?id=43325049)
 * [2025-03-10, 14:33:10](https://news.ycombinator.com/item?id=43321109) - [Apparently magpies and crows are using “anti-bird spikes” to make nests (2023)](https://www.audubon.org/magazine/apparently-magpies-and-crows-are-using-anti-bird-spikes-make-their-nests)
 
