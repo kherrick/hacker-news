@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-03-14, 18:18:34",
-      "https://news.ycombinator.com/item?id=43365517"
-    ],
-    [
-      "Apple's Siri Chief Calls AI Delays Ugly and Embarrassing, Promises Fixes",
-      "https://www.bloomberg.com/news/articles/2025-03-14/apple-s-siri-chief-calls-ai-delays-ugly-and-embarrassing-promises-fixes"
-    ]
-  ],
-  [
-    [
       "2025-03-14, 17:45:33",
       "https://news.ycombinator.com/item?id=43365083"
     ],
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=43364668"
     ],
     [
-      "You Can Make Postgres Scale",
+      "Making Postgres scale",
       "https://pgdog.dev/blog/you-can-make-postgres-scale"
     ]
   ],
@@ -171,6 +161,16 @@
   ],
   [
     [
+      "2025-03-14, 12:25:04",
+      "https://news.ycombinator.com/item?id=43361959"
+    ],
+    [
+      "A look at Firefox forks",
+      "https://lwn.net/Articles/1012453/"
+    ]
+  ],
+  [
+    [
       "2025-03-14, 11:55:17",
       "https://news.ycombinator.com/item?id=43361737"
     ],
@@ -185,7 +185,7 @@
       "https://news.ycombinator.com/item?id=43360894"
     ],
     [
-      "AMD's Strix Halo – Under the Hood",
+      "AMD's Strix Halo under the hood",
       "https://chipsandcheese.com/p/amds-strix-halo-under-the-hood"
     ]
   ],
@@ -197,6 +197,16 @@
     [
       "I-cant-believe-its-not-webusb: Hacking around lack of WebUSB support in Firefox",
       "https://github.com/ArcaneNibble/i-cant-believe-its-not-webusb"
+    ]
+  ],
+  [
+    [
+      "2025-03-14, 03:46:11",
+      "https://news.ycombinator.com/item?id=43359412"
+    ],
+    [
+      "Athena landed in a dark crater where the temperature was minus 280° F",
+      "https://arstechnica.com/space/2025/03/athena-landed-in-a-dark-crater-where-the-temperature-was-minus-280-f/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "The Lost Art of Logarithms",
       "https://www.lostartoflogarithms.com/"
-    ]
-  ],
-  [
-    [
-      "2025-03-13, 12:20:29",
-      "https://news.ycombinator.com/item?id=43352531"
-    ],
-    [
-      "OpenAI asks White House for relief from state AI rules",
-      "https://finance.yahoo.com/news/openai-asks-white-house-relief-100000706.html"
     ]
   ],
   [
