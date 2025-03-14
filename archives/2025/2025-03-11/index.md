@@ -58,6 +58,7 @@
 * [2025-03-11, 08:21:59](https://news.ycombinator.com/item?id=43330331) - [ESP32 Undocumented Bluetooth Commands: Clearing the Air](https://developer.espressif.com/blog/2025/03/esp32-bluetooth-clearing-the-air/)
 * [2025-03-11, 07:56:19](https://news.ycombinator.com/item?id=43330206) - [New Zealand's $16B health dept managed finances with single Excel spreadsheet](https://www.theregister.com/2025/03/10/nz_health_excel_spreadsheet/)
 * [2025-03-11, 07:51:32](https://news.ycombinator.com/item?id=43330164) - [Local Deep Research – ArXiv, wiki and other searches included](https://github.com/LearningCircuit/local-deep-research)
+* [2025-03-11, 07:48:29](https://news.ycombinator.com/item?id=43330143) - [Creative Fansubbing Techniques: Part 2](https://www.md-subs.com/blog/creative-fansubbing-techniques-2)
 * [2025-03-11, 07:22:06](https://news.ycombinator.com/item?id=43329992) - [European-alternatives.eu Experiencing Massive Traffic Increase Since January](https://mastodon.social/@european_alternatives/114139039515682544)
 * [2025-03-11, 06:44:13](https://news.ycombinator.com/item?id=43329795) - [Meta must defend claim it stripped copyright info from Llama's training fodder](https://www.theregister.com/2025/03/11/meta_dmca_copyright_removal_case/)
 * [2025-03-11, 06:37:14](https://news.ycombinator.com/item?id=43329761) - [Modern Baby: A pioneering computer from Manchester](https://thechipletter.substack.com/p/modern-baby)
