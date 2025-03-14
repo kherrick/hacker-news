@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-14](index.md)
 
+* [2025-03-14, 15:19:16](https://news.ycombinator.com/item?id=43363474) - [How ProPublica Uses AI in Its Investigations](https://www.propublica.org/article/using-ai-responsibly-for-reporting)
 * [2025-03-14, 15:01:01](https://news.ycombinator.com/item?id=43363276) - [Show HN: CodeVideo – Two years in the making to build an event-sourced IDE](https://studio.codevideo.io)
 * [2025-03-14, 14:58:32](https://news.ycombinator.com/item?id=43363247) - [Block Diffusion: Interpolating Between Autoregressive and Diffusion Models](https://arxiv.org/abs/2503.09573)
 * [2025-03-14, 14:51:42](https://news.ycombinator.com/item?id=43363174) - [Fediverse Donut Club](https://sethmlarson.dev/fedi-donut-friday)
