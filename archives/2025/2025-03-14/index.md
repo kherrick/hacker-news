@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-14](index.md)
 
+* [2025-03-14, 19:47:12](https://news.ycombinator.com/item?id=43366479) - [Kerning, the Hard Way](https://home.octetfont.com/blog/kerning-hard.html)
 * [2025-03-14, 19:30:44](https://news.ycombinator.com/item?id=43366325) - [East Asian personality may stem from Ice Age Siberia 20000 yrs ago](https://davidsun.substack.com/p/the-origins-of-arcticism-theory)
 * [2025-03-14, 19:19:51](https://news.ycombinator.com/item?id=43366210) - [Bluesky quickly sold out of the T-shirt its CEO wore to troll Mark Zuckerberg](https://techcrunch.com/2025/03/13/bluesky-quickly-sold-out-of-the-t-shirt-its-ceo-wore-to-troll-mark-zuckerberg/)
 * [2025-03-14, 18:41:10](https://news.ycombinator.com/item?id=43365793) - [Ask HN: How much traffic do you serve and with which database engine?](https://news.ycombinator.com/item?id=43365793)
