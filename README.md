@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-14, 16:10:04](https://news.ycombinator.com/item?id=43364016) - [Samsung bricked their home theater systems through automated firmware update](https://us.community.samsung.com/t5/Home-Theater/Samsung-Q990D-unresponsive-after-1020-firmware-update/td-p/3168571)
-* [2025-03-14, 16:00:06](https://news.ycombinator.com/item?id=43363918) - [The 2FA app that tells you when you get `314159`](https://blog.jacobstechtavern.com/p/building-a-2fa-app-that-detects-patterns)
+* [2025-03-14, 16:00:06](https://news.ycombinator.com/item?id=43363918) - [The 2FA app that tells you when you get `314159` (2024)](https://blog.jacobstechtavern.com/p/building-a-2fa-app-that-detects-patterns)
 * [2025-03-14, 15:21:24](https://news.ycombinator.com/item?id=43363499) - ['A lot worse than expected': AI Pac-Man clones, reviewed](https://www.theguardian.com/games/2025/mar/11/ai-pac-man-clones-reviewed-grok)
 * [2025-03-14, 15:19:16](https://news.ycombinator.com/item?id=43363474) - [How ProPublica Uses AI in Its Investigations](https://www.propublica.org/article/using-ai-responsibly-for-reporting)
 * [2025-03-14, 15:03:01](https://news.ycombinator.com/item?id=43363293) - [Why Do Transit Agencies Keep Falling for the Hydrogen Bus Myth?](https://cleantechnica.com/2025/03/13/why-do-transit-agencies-keep-falling-for-the-hydrogen-bus-myth/)
