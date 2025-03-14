@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-14, 17:24:39](https://news.ycombinator.com/item?id=43364843) - [(Any) 8-hour time-restricted-eating window effective for weight loss](https://www.nia.nih.gov/news/timeframe-8-hour-restricted-eating-irrelevant-weight-loss)
 * [2025-03-14, 17:16:33](https://news.ycombinator.com/item?id=43364761) - [The School Car Pickup Line Is a National Embarrassment](https://collegetowns.substack.com/p/the-school-car-pickup-line-is-a-national)
 * [2025-03-14, 17:12:18](https://news.ycombinator.com/item?id=43364715) - [The Curious Surge of Productivity in U.S. Restaurants](https://bfi.uchicago.edu/working-papers/the-curious-surge-of-productivity-in-u-s-restaurants/)
 * [2025-03-14, 17:07:11](https://news.ycombinator.com/item?id=43364668) - [You Can Make Postgres Scale](https://pgdog.dev/blog/you-can-make-postgres-scale)
@@ -12,7 +13,6 @@
 * [2025-03-14, 14:51:42](https://news.ycombinator.com/item?id=43363174) - [Fediverse Donut Club](https://sethmlarson.dev/fedi-donut-friday)
 * [2025-03-14, 14:39:00](https://news.ycombinator.com/item?id=43363056) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=43363056)
 * [2025-03-14, 14:36:23](https://news.ycombinator.com/item?id=43363031) - [Briar: Peer to Peer Encrypted Messaging](https://briarproject.org/how-it-works/)
-* [2025-03-14, 14:35:00](https://news.ycombinator.com/item?id=43363014) - [Stoicism's Appeal to the Rich and Powerful (2019)](https://www.exurbe.com/stoicisms-appeal-to-the-rich-and-powerful/)
 * [2025-03-14, 13:36:20](https://news.ycombinator.com/item?id=43362528) - [The Cassowary Linear Arithmetic Constraint Solving Algorithm [pdf] (2002)](https://constraints.cs.washington.edu/solvers/cassowary-tochi.pdf)
 * [2025-03-14, 11:55:17](https://news.ycombinator.com/item?id=43361737) - [In S3 simplicity is table stakes](https://www.allthingsdistributed.com/2025/03/in-s3-simplicity-is-table-stakes.html)
 * [2025-03-14, 09:23:58](https://news.ycombinator.com/item?id=43360894) - [AMD's Strix Halo – Under the Hood](https://chipsandcheese.com/p/amds-strix-halo-under-the-hood)
