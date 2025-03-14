@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-14](index.md)
 
+* [2025-03-14, 13:16:02](https://news.ycombinator.com/item?id=43362339) - [Athena landed in a dark crater where the temperature was minus 280° F](https://arstechnica.com/space/2025/03/athena-landed-in-a-dark-crater-where-the-temperature-was-minus-280-f/)
 * [2025-03-14, 12:43:56](https://news.ycombinator.com/item?id=43362081) - [Stanford students want in on the military tech gold rush](https://sfstandard.com/2025/03/12/stanford-students-want-in-on-the-military-tech-gold-rush/)
 * [2025-03-14, 12:25:04](https://news.ycombinator.com/item?id=43361959) - [A Look at Firefox Forks](https://lwn.net/Articles/1012453/)
 * [2025-03-14, 12:07:06](https://news.ycombinator.com/item?id=43361822) - [Apple will soon support encrypted RCS messaging with Android users](https://www.theverge.com/news/629620/apple-iphone-e2ee-encryption-rcs-messaging-android)

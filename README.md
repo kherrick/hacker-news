@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-14, 13:16:02](https://news.ycombinator.com/item?id=43362339) - [Athena landed in a dark crater where the temperature was minus 280° F](https://arstechnica.com/space/2025/03/athena-landed-in-a-dark-crater-where-the-temperature-was-minus-280-f/)
 * [2025-03-14, 12:00:33](https://news.ycombinator.com/item?id=43361773) - [Recurse Center (YC S10) Is Hiring an Office and Operations Assistant (New York)](https://recurse.notion.site/Office-Operations-Assistant-2a579bdf1d4e4baa9b6e5b7774803b70)
 * [2025-03-14, 11:55:17](https://news.ycombinator.com/item?id=43361737) - [In S3 simplicity is table stakes](https://www.allthingsdistributed.com/2025/03/in-s3-simplicity-is-table-stakes.html)
 * [2025-03-14, 10:58:47](https://news.ycombinator.com/item?id=43361381) - [Pressure grows to hold secret Apple data privacy hearing in public](https://www.bbc.com/news/articles/c4g0rr51gn3o)
@@ -28,7 +29,6 @@
 * [2025-03-11, 07:48:29](https://news.ycombinator.com/item?id=43330143) - [Creative Fansubbing Techniques: Part 2](https://www.md-subs.com/blog/creative-fansubbing-techniques-2)
 * [2025-03-10, 23:41:45](https://news.ycombinator.com/item?id=43327506) - [Liu Jiakun Receives the 2025 Pritzker Architecture Prize](https://www.pritzkerprize.com/laureates/liu-jiakun)
 * [2025-03-10, 14:33:10](https://news.ycombinator.com/item?id=43321109) - [Magpies and Crows Are Using \"Anti-Bird Spikes\" to Make Their Nests (2023)](https://www.audubon.org/magazine/apparently-magpies-and-crows-are-using-anti-bird-spikes-make-their-nests)
-* [2025-03-10, 13:41:24](https://news.ycombinator.com/item?id=43320505) - [Show HN: I built a Figma plugin for quick data calculations](https://www.figma.com/community/plugin/1478090512871122209/countastic)
 * [2025-03-10, 01:51:20](https://news.ycombinator.com/item?id=43316167) - [Will the Man Get Frog](https://www.lexaloffle.com/bbs/?pid=willthemangetfrog)
 
 ## [Archives](archives/index.md)
