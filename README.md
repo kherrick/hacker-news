@@ -23,12 +23,12 @@
 * [2025-03-13, 16:46:27](https://news.ycombinator.com/item?id=43355031) - [IO Devices and Latency](https://planetscale.com/blog/io-devices-and-latency)
 * [2025-03-13, 14:44:25](https://news.ycombinator.com/item?id=43353898) - [Interprocedural Sparse Conditional Type Propagation](https://railsatscale.com/2025-02-24-interprocedural-sparse-conditional-type-propagation/)
 * [2025-03-13, 14:37:05](https://news.ycombinator.com/item?id=43353822) - [Steam Networks](https://worksinprogress.co/issue/steam-networks/)
+* [2025-03-13, 14:09:21](https://news.ycombinator.com/item?id=43353551) - [Statistical Formulas for Programmers (2013)](https://www.evanmiller.org/statistical-formulas-for-programmers.html)
 * [2025-03-13, 12:20:29](https://news.ycombinator.com/item?id=43352531) - [OpenAI asks White House for relief from state AI rules](https://finance.yahoo.com/news/openai-asks-white-house-relief-100000706.html)
 * [2025-03-13, 10:43:54](https://news.ycombinator.com/item?id=43351988) - [Amateur Telescope Making Main Page](https://stellafane.org/tm/atm/)
 * [2025-03-13, 01:04:50](https://news.ycombinator.com/item?id=43349385) - [A new Sudoku layout with 81 uniquely shaped cells](https://danielchasehooper.com/posts/cracked-sudoku/)
 * [2025-03-11, 12:58:55](https://news.ycombinator.com/item?id=43331973) - [Show HN: MCPGod: Fine-grained control over MCP clients, servers, and tools](https://github.com/mcpgod/cli)
 * [2025-03-11, 02:00:53](https://news.ycombinator.com/item?id=43328380) - [The Evolution of the Color Pink](https://lithub.com/from-princely-regalia-to-womens-underwear-the-evolution-of-the-color-pink/)
-* [2025-03-10, 21:04:29](https://news.ycombinator.com/item?id=43326080) - [Working with Systemd Timers](https://yieldcode.blog/post/working-with-systemd-timers/)
 * [2025-03-10, 01:51:20](https://news.ycombinator.com/item?id=43316167) - [Will the Man Get Frog](https://www.lexaloffle.com/bbs/?pid=willthemangetfrog)
 
 ## [Archives](archives/index.md)
