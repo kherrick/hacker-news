@@ -24,10 +24,10 @@
 * [2025-03-13, 16:46:27](https://news.ycombinator.com/item?id=43355031) - [IO Devices and Latency](https://planetscale.com/blog/io-devices-and-latency)
 * [2025-03-13, 14:37:05](https://news.ycombinator.com/item?id=43353822) - [Steam Networks](https://worksinprogress.co/issue/steam-networks/)
 * [2025-03-13, 12:20:29](https://news.ycombinator.com/item?id=43352531) - [OpenAI asks White House for relief from state AI rules](https://finance.yahoo.com/news/openai-asks-white-house-relief-100000706.html)
-* [2025-03-13, 10:43:54](https://news.ycombinator.com/item?id=43351988) - [Amateur Telescope Making Main Page](https://stellafane.org/tm/atm/)
 * [2025-03-12, 01:55:32](https://news.ycombinator.com/item?id=43339212) - [My Scammer Girlfriend: Baiting a Romance Fraudster](https://www.bentasker.co.uk/posts/blog/security/seducing-a-romance-scammer.html)
 * [2025-03-11, 07:48:29](https://news.ycombinator.com/item?id=43330143) - [Creative Fansubbing Techniques: Part 2](https://www.md-subs.com/blog/creative-fansubbing-techniques-2)
 * [2025-03-10, 23:41:45](https://news.ycombinator.com/item?id=43327506) - [Liu Jiakun Receives the 2025 Pritzker Architecture Prize](https://www.pritzkerprize.com/laureates/liu-jiakun)
+* [2025-03-10, 23:29:14](https://news.ycombinator.com/item?id=43327393) - [Certificate will expire on 14 March – update Firefox to prevent add-on breakage](https://blog.mozilla.org/addons/2025/03/10/root-certificate-will-expire-on-14-march-users-need-to-update-firefox-to-prevent-add-on-breakage/)
 * [2025-03-10, 16:07:20](https://news.ycombinator.com/item?id=43322030) - [I create buildings from mushroom components](https://www.nature.com/articles/d41586-025-00741-9)
 * [2025-03-10, 14:33:10](https://news.ycombinator.com/item?id=43321109) - [Apparently magpies and crows are using “anti-bird spikes” to make nests (2023)](https://www.audubon.org/magazine/apparently-magpies-and-crows-are-using-anti-bird-spikes-make-their-nests)
 

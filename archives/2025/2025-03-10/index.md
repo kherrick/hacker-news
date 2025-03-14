@@ -6,6 +6,7 @@
 
 * [2025-03-10, 23:41:45](https://news.ycombinator.com/item?id=43327506) - [Liu Jiakun Receives the 2025 Pritzker Architecture Prize](https://www.pritzkerprize.com/laureates/liu-jiakun)
 * [2025-03-10, 23:29:18](https://news.ycombinator.com/item?id=43327395) - [A 19yo woman graduated from high school with honors even though she can't read](https://www.ky3.com/2025/02/28/former-high-school-honors-student-who-says-she-cant-read-write-sues-district-where-she-graduated/)
+* [2025-03-10, 23:29:14](https://news.ycombinator.com/item?id=43327393) - [Certificate will expire on 14 March – update Firefox to prevent add-on breakage](https://blog.mozilla.org/addons/2025/03/10/root-certificate-will-expire-on-14-march-users-need-to-update-firefox-to-prevent-add-on-breakage/)
 * [2025-03-10, 23:11:47](https://news.ycombinator.com/item?id=43327230) - [Show HN: Chrome Extension for ChatGPT to organize conversations into folders](https://chatgpt-folders.netlify.app/)
 * [2025-03-10, 23:03:20](https://news.ycombinator.com/item?id=43327155) - [You suck at CSS (and that's okay)[2022]](https://rexriepe.com/yousuckatcss/)
 * [2025-03-10, 22:54:55](https://news.ycombinator.com/item?id=43327071) - [US Green-Card Holder and Columbia Student Arrested by ICE for Protest](https://www.reuters.com/world/us/us-authorities-arrest-palestinian-student-protester-columbia-university-students-2025-03-09/)
