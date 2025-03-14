@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-14, 14:39:00](https://news.ycombinator.com/item?id=43363056) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=43363056)
 * [2025-03-14, 14:17:08](https://news.ycombinator.com/item?id=43362865) - [Ask HN: Any jobs that don't force you to always be advancing career wise?](https://news.ycombinator.com/item?id=43362865)
+* [2025-03-14, 14:15:40](https://news.ycombinator.com/item?id=43362847) - [Show HN: I built a vector illustration generator](https://www.illustration.app/)
 * [2025-03-14, 13:36:20](https://news.ycombinator.com/item?id=43362528) - [The Cassowary Linear Arithmetic Constraint Solving Algorithm [pdf] (2002)](https://constraints.cs.washington.edu/solvers/cassowary-tochi.pdf)
 * [2025-03-14, 13:16:02](https://news.ycombinator.com/item?id=43362339) - [Athena landed in a dark crater where the temperature was minus 280° F](https://arstechnica.com/space/2025/03/athena-landed-in-a-dark-crater-where-the-temperature-was-minus-280-f/)
 * [2025-03-14, 12:00:33](https://news.ycombinator.com/item?id=43361773) - [Recurse Center (YC S10) Is Hiring an Office and Operations Assistant (New York)](https://recurse.notion.site/Office-Operations-Assistant-2a579bdf1d4e4baa9b6e5b7774803b70)
@@ -19,7 +21,6 @@
 * [2025-03-13, 19:05:17](https://news.ycombinator.com/item?id=43356314) - [The Lost Art of Logarithms](https://www.lostartoflogarithms.com/)
 * [2025-03-13, 17:33:23](https://news.ycombinator.com/item?id=43355521) - [Honey Bunnies](https://mameson.com/experiment/glsl/fro_9/fro_9.html)
 * [2025-03-13, 16:46:27](https://news.ycombinator.com/item?id=43355031) - [IO Devices and Latency](https://planetscale.com/blog/io-devices-and-latency)
-* [2025-03-13, 14:44:25](https://news.ycombinator.com/item?id=43353898) - [Interprocedural Sparse Conditional Type Propagation](https://railsatscale.com/2025-02-24-interprocedural-sparse-conditional-type-propagation/)
 * [2025-03-13, 14:37:05](https://news.ycombinator.com/item?id=43353822) - [Steam Networks](https://worksinprogress.co/issue/steam-networks/)
 * [2025-03-13, 12:20:29](https://news.ycombinator.com/item?id=43352531) - [OpenAI asks White House for relief from state AI rules](https://finance.yahoo.com/news/openai-asks-white-house-relief-100000706.html)
 * [2025-03-13, 10:43:54](https://news.ycombinator.com/item?id=43351988) - [Amateur Telescope Making Main Page](https://stellafane.org/tm/atm/)
@@ -27,7 +28,6 @@
 * [2025-03-12, 01:55:32](https://news.ycombinator.com/item?id=43339212) - [My Scammer Girlfriend: Baiting a Romance Fraudster](https://www.bentasker.co.uk/posts/blog/security/seducing-a-romance-scammer.html)
 * [2025-03-11, 07:48:29](https://news.ycombinator.com/item?id=43330143) - [Creative Fansubbing Techniques: Part 2](https://www.md-subs.com/blog/creative-fansubbing-techniques-2)
 * [2025-03-10, 23:41:45](https://news.ycombinator.com/item?id=43327506) - [Liu Jiakun Receives the 2025 Pritzker Architecture Prize](https://www.pritzkerprize.com/laureates/liu-jiakun)
-* [2025-03-10, 21:04:29](https://news.ycombinator.com/item?id=43326080) - [Working with Systemd Timers](https://yieldcode.blog/post/working-with-systemd-timers/)
 * [2025-03-10, 16:07:20](https://news.ycombinator.com/item?id=43322030) - [I create buildings from mushroom components](https://www.nature.com/articles/d41586-025-00741-9)
 * [2025-03-10, 14:33:10](https://news.ycombinator.com/item?id=43321109) - [Apparently magpies and crows are using “anti-bird spikes” to make nests (2023)](https://www.audubon.org/magazine/apparently-magpies-and-crows-are-using-anti-bird-spikes-make-their-nests)
 
