@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-14, 17:00:21](https://news.ycombinator.com/item?id=43364597) - [Prequel (YC W21) Is Hiring a Strong Front End Engineer](https://www.ycombinator.com/companies/prequel/jobs/wdjx5KE-frontend-software-engineer)
 * [2025-03-14, 16:10:04](https://news.ycombinator.com/item?id=43364016) - [Samsung bricked their home theater systems through automated firmware update](https://us.community.samsung.com/t5/Home-Theater/Samsung-Q990D-unresponsive-after-1020-firmware-update/td-p/3168571)
 * [2025-03-14, 16:00:06](https://news.ycombinator.com/item?id=43363918) - [The 2FA app that tells you when you get `314159` (2024)](https://blog.jacobstechtavern.com/p/building-a-2fa-app-that-detects-patterns)
 * [2025-03-14, 15:21:24](https://news.ycombinator.com/item?id=43363499) - ['A lot worse than expected': AI Pac-Man clones, reviewed](https://www.theguardian.com/games/2025/mar/11/ai-pac-man-clones-reviewed-grok)
@@ -12,7 +13,6 @@
 * [2025-03-14, 14:36:23](https://news.ycombinator.com/item?id=43363031) - [Briar: Peer to Peer Encrypted Messaging](https://briarproject.org/how-it-works/)
 * [2025-03-14, 14:35:00](https://news.ycombinator.com/item?id=43363014) - [Stoicism's Appeal to the Rich and Powerful (2019)](https://www.exurbe.com/stoicisms-appeal-to-the-rich-and-powerful/)
 * [2025-03-14, 13:36:20](https://news.ycombinator.com/item?id=43362528) - [The Cassowary Linear Arithmetic Constraint Solving Algorithm [pdf] (2002)](https://constraints.cs.washington.edu/solvers/cassowary-tochi.pdf)
-* [2025-03-14, 12:00:33](https://news.ycombinator.com/item?id=43361773) - [Recurse Center (YC S10) Is Hiring an Office and Operations Assistant (New York)](https://recurse.notion.site/Office-Operations-Assistant-2a579bdf1d4e4baa9b6e5b7774803b70)
 * [2025-03-14, 11:55:17](https://news.ycombinator.com/item?id=43361737) - [In S3 simplicity is table stakes](https://www.allthingsdistributed.com/2025/03/in-s3-simplicity-is-table-stakes.html)
 * [2025-03-14, 09:23:58](https://news.ycombinator.com/item?id=43360894) - [AMD's Strix Halo – Under the Hood](https://chipsandcheese.com/p/amds-strix-halo-under-the-hood)
 * [2025-03-14, 08:36:08](https://news.ycombinator.com/item?id=43360642) - [I-cant-believe-its-not-webusb: Hacking around lack of WebUSB support in Firefox](https://github.com/ArcaneNibble/i-cant-believe-its-not-webusb)

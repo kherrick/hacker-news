@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-14](index.md)
 
+* [2025-03-14, 17:00:21](https://news.ycombinator.com/item?id=43364597) - [Prequel (YC W21) Is Hiring a Strong Front End Engineer](https://www.ycombinator.com/companies/prequel/jobs/wdjx5KE-frontend-software-engineer)
 * [2025-03-14, 16:10:04](https://news.ycombinator.com/item?id=43364016) - [Samsung bricked their home theater systems through automated firmware update](https://us.community.samsung.com/t5/Home-Theater/Samsung-Q990D-unresponsive-after-1020-firmware-update/td-p/3168571)
 * [2025-03-14, 16:00:06](https://news.ycombinator.com/item?id=43363918) - [The 2FA app that tells you when you get `314159`](https://blog.jacobstechtavern.com/p/building-a-2fa-app-that-detects-patterns)
 * [2025-03-14, 15:21:24](https://news.ycombinator.com/item?id=43363499) - ['A lot worse than expected': AI Pac-Man clones, reviewed](https://www.theguardian.com/games/2025/mar/11/ai-pac-man-clones-reviewed-grok)
