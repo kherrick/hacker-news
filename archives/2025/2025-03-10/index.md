@@ -31,6 +31,7 @@
 * [2025-03-10, 18:11:18](https://news.ycombinator.com/item?id=43323652) - [Wall Street sell-off turns 'ugly' as US recession fears grow](https://www.independent.co.uk/business/wall-street-selloff-turns-ugly-as-us-recession-fears-grow-b2712420.html)
 * [2025-03-10, 18:05:36](https://news.ycombinator.com/item?id=43323535) - [Art Attack](https://en.wikipedia.org/wiki/Art_Attack)
 * [2025-03-10, 18:04:51](https://news.ycombinator.com/item?id=43323519) - [Washington Post editor resigns after accusing CEO of killing column](https://www.nbcnews.com/news/us-news/washington-post-editor-ruth-marcus-resigns-accusing-ceo-killing-column-rcna195634)
+* [2025-03-10, 18:03:21](https://news.ycombinator.com/item?id=43323491) - [Architect of classic Hollywood gets his own star turn](https://www.latimes.com/business/real-estate/story/2020-02-06/architect-paul-williams-documentary)
 * [2025-03-10, 18:02:49](https://news.ycombinator.com/item?id=43323485) - [DOJ: Google must sell Chrome, Android could be next](https://arstechnica.com/google/2025/03/doj-google-must-sell-chrome-android-could-be-next/)
 * [2025-03-10, 17:40:40](https://news.ycombinator.com/item?id=43323071) - [Software-Defined Radio for Engineers (2018) [pdf]](https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf)
 * [2025-03-10, 17:30:34](https://news.ycombinator.com/item?id=43322922) - [uBlock Origin is no longer available on the Chrome Store](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
