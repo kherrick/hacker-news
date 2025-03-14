@@ -2,9 +2,9 @@
 
 * [2025-03-14, 21:00:55](https://news.ycombinator.com/item?id=43367261) - [GCVR (YC W22) Is Hiring Lead Technical Artist](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/gfrf9Cu-lead-technical-artist-staff-principal)
 * [2025-03-14, 20:36:02](https://news.ycombinator.com/item?id=43367012) - [Cwtch – Privacy Preserving Messaging](https://docs.cwtch.im/)
+* [2025-03-14, 20:20:11](https://news.ycombinator.com/item?id=43366839) - [Tariffs Are Proving 'Big Headache' for Tech Giants, Says Foxconn](https://www.ft.com/content/cc290f55-e45a-42b1-bf2d-cf323053fade)
 * [2025-03-14, 19:52:17](https://news.ycombinator.com/item?id=43366530) - [FBI, EPA, and Treasury told Citibank to freeze funds to claw back climate money](https://techcrunch.com/2025/03/13/fbi-epa-and-treasury-told-citibank-to-freeze-funds-as-trump-administration-tries-to-claw-back-climate-money/)
 * [2025-03-14, 19:47:12](https://news.ycombinator.com/item?id=43366479) - [Kerning, the Hard Way](https://home.octetfont.com/blog/kerning-hard.html)
-* [2025-03-14, 18:41:10](https://news.ycombinator.com/item?id=43365793) - [Ask HN: How much traffic do you serve and with which database engine?](https://news.ycombinator.com/item?id=43365793)
 * [2025-03-14, 18:35:47](https://news.ycombinator.com/item?id=43365734) - [Exo: Exocompilation for productive programming of hardware accelerators](https://github.com/exo-lang/exo)
 * [2025-03-14, 18:19:02](https://news.ycombinator.com/item?id=43365523) - [Chrome for Android doesn't have extensions, but Edge now has a whole store](https://news.ycombinator.com/item?id=43365523)
 * [2025-03-14, 18:18:34](https://news.ycombinator.com/item?id=43365517) - [Apple's Siri Chief Calls AI Delays Ugly and Embarrassing, Promises Fixes](https://www.bloomberg.com/news/articles/2025-03-14/apple-s-siri-chief-calls-ai-delays-ugly-and-embarrassing-promises-fixes)
