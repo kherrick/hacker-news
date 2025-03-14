@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-14, 02:37:49",
+      "https://news.ycombinator.com/item?id=43359114"
+    ],
+    [
+      "ATProto Isn't What You Think",
+      "https://blog.muni.town/atproto-isnt-what-you-think/"
+    ]
+  ],
+  [
+    [
+      "2025-03-14, 02:15:11",
+      "https://news.ycombinator.com/item?id=43358999"
+    ],
+    [
+      "Show HN: A website that makes your text look cool anywhere online using Unicode",
+      "https://fontgenerator.cool/"
+    ]
+  ],
+  [
+    [
       "2025-03-14, 02:00:35",
       "https://news.ycombinator.com/item?id=43358947"
     ],
@@ -77,6 +97,16 @@
     [
       "Voker (YC S24) is hiring an LA-based full stack AI software engineer",
       "https://www.linkedin.com/jobs/view/4165718206/"
+    ]
+  ],
+  [
+    [
+      "2025-03-13, 22:12:31",
+      "https://news.ycombinator.com/item?id=43357739"
+    ],
+    [
+      "Y Combinator urges the White House to support Europe's Digital Markets Act",
+      "https://techcrunch.com/2025/03/13/y-combinator-urges-the-white-house-to-support-europes-digital-markets-act/"
     ]
   ],
   [
@@ -171,22 +201,22 @@
   ],
   [
     [
+      "2025-03-13, 14:44:25",
+      "https://news.ycombinator.com/item?id=43353898"
+    ],
+    [
+      "Interprocedural Sparse Conditional Type Propagation",
+      "https://railsatscale.com/2025-02-24-interprocedural-sparse-conditional-type-propagation/"
+    ]
+  ],
+  [
+    [
       "2025-03-13, 14:37:05",
       "https://news.ycombinator.com/item?id=43353822"
     ],
     [
       "Steam Networks",
       "https://worksinprogress.co/issue/steam-networks/"
-    ]
-  ],
-  [
-    [
-      "2025-03-13, 14:12:21",
-      "https://news.ycombinator.com/item?id=43353570"
-    ],
-    [
-      "The long flight to teach an endangered ibis species to migrate",
-      "https://www.newyorker.com/magazine/2025/02/17/the-long-flight-to-teach-an-endangered-ibis-species-to-migrate"
     ]
   ],
   [
@@ -231,36 +261,6 @@
   ],
   [
     [
-      "2025-03-13, 00:31:47",
-      "https://news.ycombinator.com/item?id=43349214"
-    ],
-    [
-      "My teen years: The transputer operating system",
-      "https://nanochess.org/transputer_operating_system.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-12, 15:09:09",
-      "https://news.ycombinator.com/item?id=43344082"
-    ],
-    [
-      "Gemini Robotics",
-      "https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/"
-    ]
-  ],
-  [
-    [
-      "2025-03-12, 12:56:01",
-      "https://news.ycombinator.com/item?id=43342712"
-    ],
-    [
-      "The DuckDB Local UI",
-      "https://duckdb.org/2025/03/12/duckdb-ui.html"
-    ]
-  ],
-  [
-    [
       "2025-03-11, 17:12:43",
       "https://news.ycombinator.com/item?id=43334731"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2025-03-11, 09:20:34",
+      "https://news.ycombinator.com/item?id=43330657"
+    ],
+    [
+      "Calendar.org",
+      "https://sourcery.zone/articles/20250311094031-calendar_org/"
+    ]
+  ],
+  [
+    [
       "2025-03-10, 21:04:29",
       "https://news.ycombinator.com/item?id=43326080"
     ],
     [
       "Working with Systemd Timers",
       "https://yieldcode.blog/post/working-with-systemd-timers/"
-    ]
-  ],
-  [
-    [
-      "2025-03-10, 13:07:53",
-      "https://news.ycombinator.com/item?id=43320190"
-    ],
-    [
-      "Reversing Samsung's H-Arx Hypervisor Framework (Part 1)",
-      "https://dayzerosec.com/blog/2025/03/08/reversing-samsungs-h-arx-hypervisor-part-1.html"
     ]
   ],
   [
