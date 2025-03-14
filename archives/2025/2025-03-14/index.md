@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-14](index.md)
 
+* [2025-03-14, 14:17:08](https://news.ycombinator.com/item?id=43362865) - [Ask HN: Any jobs that don't force you to always be advancing career wise?](https://news.ycombinator.com/item?id=43362865)
+* [2025-03-14, 13:36:20](https://news.ycombinator.com/item?id=43362528) - [The Cassowary Linear Arithmetic Constraint Solving Algorithm [pdf] (2002)](https://constraints.cs.washington.edu/solvers/cassowary-tochi.pdf)
 * [2025-03-14, 13:16:02](https://news.ycombinator.com/item?id=43362339) - [Athena landed in a dark crater where the temperature was minus 280° F](https://arstechnica.com/space/2025/03/athena-landed-in-a-dark-crater-where-the-temperature-was-minus-280-f/)
 * [2025-03-14, 12:43:56](https://news.ycombinator.com/item?id=43362081) - [Stanford students want in on the military tech gold rush](https://sfstandard.com/2025/03/12/stanford-students-want-in-on-the-military-tech-gold-rush/)
 * [2025-03-14, 12:25:04](https://news.ycombinator.com/item?id=43361959) - [A Look at Firefox Forks](https://lwn.net/Articles/1012453/)

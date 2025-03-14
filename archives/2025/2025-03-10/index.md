@@ -40,6 +40,7 @@
 * [2025-03-10, 16:47:37](https://news.ycombinator.com/item?id=43322421) - [Twitter.com – Is Twitter Down?](https://www.isitdownrightnow.com/twitter.com.html)
 * [2025-03-10, 16:45:25](https://news.ycombinator.com/item?id=43322397) - [X.com Is Down](https://www.isitdownrightnow.com/twitter.com.html)
 * [2025-03-10, 16:28:44](https://news.ycombinator.com/item?id=43322245) - [Music labels will regret coming for the Internet Archive, sound historian says](https://arstechnica.com/tech-policy/2025/03/music-labels-will-regret-coming-for-the-internet-archive-sound-historian-says/)
+* [2025-03-10, 16:07:20](https://news.ycombinator.com/item?id=43322030) - [I create buildings from mushroom components](https://www.nature.com/articles/d41586-025-00741-9)
 * [2025-03-10, 15:59:20](https://news.ycombinator.com/item?id=43321949) - [Jet fuel spills into North Sea after tanker collision](https://www.bbc.co.uk/news/live/cgq1pwjlqq2t)
 * [2025-03-10, 15:31:57](https://news.ycombinator.com/item?id=43321688) - [Show HN: Editable Games](https://playscl.com/make)
 * [2025-03-10, 15:12:57](https://news.ycombinator.com/item?id=43321523) - [Show HN: In-Browser Graph RAG with Kuzu-WASM and WebLLM](https://blog.kuzudb.com/post/kuzu-wasm-rag/)
