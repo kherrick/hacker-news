@@ -7,7 +7,6 @@
 * [2025-03-14, 19:47:12](https://news.ycombinator.com/item?id=43366479) - [Kerning, the Hard Way](https://home.octetfont.com/blog/kerning-hard.html)
 * [2025-03-14, 18:41:10](https://news.ycombinator.com/item?id=43365793) - [Ask HN: How much traffic do you serve and with which database engine?](https://news.ycombinator.com/item?id=43365793)
 * [2025-03-14, 18:35:47](https://news.ycombinator.com/item?id=43365734) - [Exo: Exocompilation for productive programming of hardware accelerators](https://github.com/exo-lang/exo)
-* [2025-03-14, 18:19:02](https://news.ycombinator.com/item?id=43365523) - [Chrome for Android doesn't have extensions, but Edge now has a whole store](https://news.ycombinator.com/item?id=43365523)
 * [2025-03-14, 17:45:33](https://news.ycombinator.com/item?id=43365083) - [Decrypting encrypted files from Akira ransomware using a bunch of GPUs](https://tinyhack.com/2025/03/13/decrypting-encrypted-files-from-akira-ransomware-linux-esxi-variant-2024-using-a-bunch-of-gpus/)
 * [2025-03-14, 17:07:11](https://news.ycombinator.com/item?id=43364668) - [Making Postgres scale](https://pgdog.dev/blog/you-can-make-postgres-scale)
 * [2025-03-14, 16:10:04](https://news.ycombinator.com/item?id=43364016) - [Samsung Q990D unresponsive after 1020 firmware update](https://us.community.samsung.com/t5/Home-Theater/Samsung-Q990D-unresponsive-after-1020-firmware-update/td-p/3168571)
@@ -28,6 +27,7 @@
 * [2025-03-12, 01:55:32](https://news.ycombinator.com/item?id=43339212) - [My Scammer Girlfriend: Baiting a Romance Fraudster](https://www.bentasker.co.uk/posts/blog/security/seducing-a-romance-scammer.html)
 * [2025-03-11, 12:14:13](https://news.ycombinator.com/item?id=43331673) - [Owl: Optimized Workforce Learning for multi-agent collaboration](https://github.com/camel-ai/owl)
 * [2025-03-11, 12:05:12](https://news.ycombinator.com/item?id=43331607) - [The Internet of Beefs (2020)](https://www.ribbonfarm.com/2020/01/16/the-internet-of-beefs/)
+* [2025-03-10, 23:41:45](https://news.ycombinator.com/item?id=43327506) - [Liu Jiakun Receives the 2025 Pritzker Architecture Prize](https://www.pritzkerprize.com/laureates/liu-jiakun)
 * [2025-03-10, 19:41:37](https://news.ycombinator.com/item?id=43325049) - [Ask HN: Any insider takes on Yann LeCun's push against current architectures?](https://news.ycombinator.com/item?id=43325049)
 * [2025-03-10, 14:33:10](https://news.ycombinator.com/item?id=43321109) - [Apparently magpies and crows are using “anti-bird spikes” to make nests (2023)](https://www.audubon.org/magazine/apparently-magpies-and-crows-are-using-anti-bird-spikes-make-their-nests)
 
