@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-03-14, 06:30:04",
-      "https://news.ycombinator.com/item?id=43360113"
+      "2025-03-14, 06:07:55",
+      "https://news.ycombinator.com/item?id=43360024"
     ],
     [
-      "SQL queries don't start with SELECT (2019)",
-      "https://jvns.ca/blog/2019/10/03/sql-queries-don-t-start-with-select/"
+      "Ex-Facebook director's new book paints brutal image of Mark Zuckerberg",
+      "https://www.sfgate.com/tech/article/ex-facebook-director-book-brutal-image-zuckerberg-20220239.php"
     ]
   ],
   [
@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2025-03-13, 22:05:44",
+      "https://news.ycombinator.com/item?id=43357687"
+    ],
+    [
+      "Recursion kills: The story behind CVE-2024-8176 in libexpat",
+      "https://blog.hartwork.org/posts/expat-2-7-0-released/"
+    ]
+  ],
+  [
+    [
       "2025-03-13, 20:46:26",
       "https://news.ycombinator.com/item?id=43357078"
     ],
@@ -217,16 +227,6 @@
     [
       "Steam Networks",
       "https://worksinprogress.co/issue/steam-networks/"
-    ]
-  ],
-  [
-    [
-      "2025-03-13, 14:09:21",
-      "https://news.ycombinator.com/item?id=43353551"
-    ],
-    [
-      "Statistical Formulas for Programmers (2013)",
-      "https://www.evanmiller.org/statistical-formulas-for-programmers.html"
     ]
   ],
   [
