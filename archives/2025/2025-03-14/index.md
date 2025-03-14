@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-14](index.md)
 
+* [2025-03-14, 09:58:09](https://news.ycombinator.com/item?id=43361038) - [Tesla Cybertruck deliveries on hold as trims are flying off 'bulletproof' truck](https://electrek.co/2025/03/13/tesla-cybertruck-deliveries-are-on-hold-as-trims-are-flying-off-the-bulletproof-truck/)
+* [2025-03-14, 09:23:58](https://news.ycombinator.com/item?id=43360894) - [AMD's Strix Halo – Under the Hood](https://chipsandcheese.com/p/amds-strix-halo-under-the-hood)
 * [2025-03-14, 08:38:19](https://news.ycombinator.com/item?id=43360653) - [OpenAI calls on U.S. Government to let it freely use copyrighted material](https://openai.com/global-affairs/openai-proposals-for-the-us-ai-action-plan/)
 * [2025-03-14, 08:36:08](https://news.ycombinator.com/item?id=43360642) - [I-cant-believe-its-not-webusb: Hacking around lack of WebUSB support in Firefox](https://github.com/ArcaneNibble/i-cant-believe-its-not-webusb)
 * [2025-03-14, 08:12:18](https://news.ycombinator.com/item?id=43360541) - [The End of YC](https://benn.substack.com/p/the-end-of-yc)
