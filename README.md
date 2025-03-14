@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-14, 03:47:22](https://news.ycombinator.com/item?id=43359417) - [Johns Hopkins University slashes 2k jobs](https://www.reuters.com/world/us/johns-hopkins-university-slashes-2000-jobs-after-trump-administration-grant-cut-2025-03-13/)
 * [2025-03-14, 02:37:49](https://news.ycombinator.com/item?id=43359114) - [ATProto Isn't What You Think](https://blog.muni.town/atproto-isnt-what-you-think/)
 * [2025-03-14, 02:15:11](https://news.ycombinator.com/item?id=43358999) - [Show HN: A website that makes your text look cool anywhere online using Unicode](https://fontgenerator.cool/)
 * [2025-03-14, 02:12:11](https://news.ycombinator.com/item?id=43358980) - [TinyKVM: Fast sandbox that runs on top of Varnish](https://info.varnish-software.com/blog/tinykvm-the-fastest-sandbox)
@@ -19,7 +20,6 @@
 * [2025-03-13, 17:48:03](https://news.ycombinator.com/item?id=43355658) - [Show HN: Bubbles, a vanilla JavaScript web game](https://ehmorris.com/bubbles/)
 * [2025-03-13, 17:35:34](https://news.ycombinator.com/item?id=43355542) - [History of Maths for Beginners](https://thonyc.wordpress.com/2025/03/13/history-of-maths-for-beginners/)
 * [2025-03-13, 17:33:23](https://news.ycombinator.com/item?id=43355521) - [Honey Bunnies](https://mameson.com/experiment/glsl/fro_9/fro_9.html)
-* [2025-03-13, 17:14:47](https://news.ycombinator.com/item?id=43355348) - [\"Have Quotes About Salieri\"](https://contingentmagazine.org/2025/01/10/have-quotes-about-salieri/)
 * [2025-03-13, 16:46:27](https://news.ycombinator.com/item?id=43355031) - [IO Devices and Latency](https://planetscale.com/blog/io-devices-and-latency)
 * [2025-03-13, 14:44:25](https://news.ycombinator.com/item?id=43353898) - [Interprocedural Sparse Conditional Type Propagation](https://railsatscale.com/2025-02-24-interprocedural-sparse-conditional-type-propagation/)
 * [2025-03-13, 14:37:05](https://news.ycombinator.com/item?id=43353822) - [Steam Networks](https://worksinprogress.co/issue/steam-networks/)
