@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-14, 21:33:28](https://news.ycombinator.com/item?id=43367536) - [Everything you say to your Echo will be sent to Amazon starting on March 28](https://arstechnica.com/gadgets/2025/03/everything-you-say-to-your-echo-will-be-sent-to-amazon-starting-on-march-28/)
-* [2025-03-14, 21:00:55](https://news.ycombinator.com/item?id=43367261) - [GCVR (YC W22) Is Hiring Lead Technical Artist](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/gfrf9Cu-lead-technical-artist-staff-principal)
+* [2025-03-14, 21:00:55](https://news.ycombinator.com/item?id=43367261) - [GCVR (YC W22) is hiring a lead technical artist](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/gfrf9Cu-lead-technical-artist-staff-principal)
 * [2025-03-14, 20:20:11](https://news.ycombinator.com/item?id=43366839) - [Tariffs Are Proving 'Big Headache' for Tech Giants, Says Foxconn](https://www.ft.com/content/cc290f55-e45a-42b1-bf2d-cf323053fade)
 * [2025-03-14, 19:52:17](https://news.ycombinator.com/item?id=43366530) - [FBI, EPA, and Treasury told Citibank to freeze funds to claw back climate money](https://techcrunch.com/2025/03/13/fbi-epa-and-treasury-told-citibank-to-freeze-funds-as-trump-administration-tries-to-claw-back-climate-money/)
 * [2025-03-14, 19:47:12](https://news.ycombinator.com/item?id=43366479) - [Kerning, the Hard Way](https://home.octetfont.com/blog/kerning-hard.html)
-* [2025-03-14, 18:41:10](https://news.ycombinator.com/item?id=43365793) - [Ask HN: How much traffic do you serve and with which database engine?](https://news.ycombinator.com/item?id=43365793)
 * [2025-03-14, 18:35:47](https://news.ycombinator.com/item?id=43365734) - [Exo: Exocompilation for productive programming of hardware accelerators](https://github.com/exo-lang/exo)
 * [2025-03-14, 17:45:33](https://news.ycombinator.com/item?id=43365083) - [Decrypting encrypted files from Akira ransomware using a bunch of GPUs](https://tinyhack.com/2025/03/13/decrypting-encrypted-files-from-akira-ransomware-linux-esxi-variant-2024-using-a-bunch-of-gpus/)
 * [2025-03-14, 17:07:11](https://news.ycombinator.com/item?id=43364668) - [Making Postgres scale](https://pgdog.dev/blog/you-can-make-postgres-scale)
@@ -13,7 +12,7 @@
 * [2025-03-14, 16:00:06](https://news.ycombinator.com/item?id=43363918) - [A 2FA app that tells you when you get `314159` (2024)](https://blog.jacobstechtavern.com/p/building-a-2fa-app-that-detects-patterns)
 * [2025-03-14, 15:03:01](https://news.ycombinator.com/item?id=43363293) - [Why do transit agencies keep falling for the hydrogen bus myth?](https://cleantechnica.com/2025/03/13/why-do-transit-agencies-keep-falling-for-the-hydrogen-bus-myth/)
 * [2025-03-14, 15:01:01](https://news.ycombinator.com/item?id=43363276) - [Show HN: CodeVideo – Two years in the making to build an event-sourced IDE](https://studio.codevideo.io)
-* [2025-03-14, 14:58:32](https://news.ycombinator.com/item?id=43363247) - [Block Diffusion: Interpolating Between Autoregressive and Diffusion Models](https://arxiv.org/abs/2503.09573)
+* [2025-03-14, 14:58:32](https://news.ycombinator.com/item?id=43363247) - [Block Diffusion: Interpolating between autoregressive and diffusion models](https://arxiv.org/abs/2503.09573)
 * [2025-03-14, 14:39:00](https://news.ycombinator.com/item?id=43363056) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=43363056)
 * [2025-03-14, 14:36:23](https://news.ycombinator.com/item?id=43363031) - [Briar: Peer to Peer Encrypted Messaging](https://briarproject.org/how-it-works/)
 * [2025-03-14, 13:36:20](https://news.ycombinator.com/item?id=43362528) - [The Cassowary Linear Arithmetic Constraint Solving Algorithm [pdf] (2002)](https://constraints.cs.washington.edu/solvers/cassowary-tochi.pdf)
@@ -28,8 +27,9 @@
 * [2025-03-11, 16:43:00](https://news.ycombinator.com/item?id=43334320) - [It doesn't cost much to improve someone's life](https://ourworldindata.org/foreign-aid-donations-increase)
 * [2025-03-11, 12:14:13](https://news.ycombinator.com/item?id=43331673) - [Owl: Optimized Workforce Learning for multi-agent collaboration](https://github.com/camel-ai/owl)
 * [2025-03-11, 12:05:12](https://news.ycombinator.com/item?id=43331607) - [The Internet of Beefs (2020)](https://www.ribbonfarm.com/2020/01/16/the-internet-of-beefs/)
+* [2025-03-11, 07:45:47](https://news.ycombinator.com/item?id=43330130) - [How to boil great eggs 80% of the time](https://indiantinker.bearblog.dev/how-to-boil-great-eggs-80-of-the-time/)
 * [2025-03-10, 19:41:37](https://news.ycombinator.com/item?id=43325049) - [Ask HN: Any insider takes on Yann LeCun's push against current architectures?](https://news.ycombinator.com/item?id=43325049)
-* [2025-03-10, 14:33:10](https://news.ycombinator.com/item?id=43321109) - [Apparently magpies and crows are using “anti-bird spikes” to make nests (2023)](https://www.audubon.org/magazine/apparently-magpies-and-crows-are-using-anti-bird-spikes-make-their-nests)
+* [2025-03-10, 14:33:10](https://news.ycombinator.com/item?id=43321109) - [Magpies and crows are using “anti-bird spikes” to make nests (2023)](https://www.audubon.org/magazine/apparently-magpies-and-crows-are-using-anti-bird-spikes-make-their-nests)
 
 ## [Archives](archives/index.md)
 
