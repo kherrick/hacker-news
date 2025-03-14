@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-03-14, 00:58:29",
+      "https://news.ycombinator.com/item?id=43358682"
+    ],
+    [
+      "ArkFlow – High-performance Rust stream processing engine",
+      "https://github.com/chenquan/arkflow"
+    ]
+  ],
+  [
+    [
+      "2025-03-14, 00:45:58",
+      "https://news.ycombinator.com/item?id=43358628"
+    ],
+    [
+      "The Toxic Wave That Swallowed a Tennessee Town",
+      "https://oxfordamerican.org/oa-now/the-toxic-wave-that-swallowed-a-tennessee-town"
+    ]
+  ],
+  [
+    [
       "2025-03-13, 23:32:34",
       "https://news.ycombinator.com/item?id=43358293"
     ],
     [
       "Ask HN: How to study for system design that doesn't include front end/back end?",
       "https://news.ycombinator.com/item?id=43358293"
+    ]
+  ],
+  [
+    [
+      "2025-03-13, 22:55:21",
+      "https://news.ycombinator.com/item?id=43358016"
+    ],
+    [
+      "Would {word1} beat {word2} • Ranked AI game",
+      "https://www.word-battle.com/"
     ]
   ],
   [
@@ -47,16 +77,6 @@
     [
       "Tiny changes in gene expression make big difference in eye size of fruit flies",
       "https://phys.org/news/2025-02-tiny-gene-big-differences-eye.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-13, 22:05:44",
-      "https://news.ycombinator.com/item?id=43357687"
-    ],
-    [
-      "Recursion kills: The story behind CVE-2024-8176 in libexpat",
-      "https://blog.hartwork.org/posts/expat-2-7-0-released/"
     ]
   ],
   [
@@ -221,36 +241,6 @@
   ],
   [
     [
-      "2025-03-12, 22:32:30",
-      "https://news.ycombinator.com/item?id=43348379"
-    ],
-    [
-      "Practical UX for startups surviving without a designer",
-      "https://www.tibinotes.com/p/practical-ux-for-startups-surviving"
-    ]
-  ],
-  [
-    [
-      "2025-03-12, 21:05:08",
-      "https://news.ycombinator.com/item?id=43347662"
-    ],
-    [
-      "Mark Klein, AT&T whistleblower who revealed NSA mass spying, has died",
-      "https://www.eff.org/deeplinks/2025/03/memoriam-mark-klein-att-whistleblower-about-nsa-mass-spying"
-    ]
-  ],
-  [
-    [
-      "2025-03-12, 20:23:52",
-      "https://news.ycombinator.com/item?id=43347306"
-    ],
-    [
-      "Show HN: Time Portal – Get dropped into history, guess where you landed",
-      "https://www.eggnog.ai/entertimeportal"
-    ]
-  ],
-  [
-    [
       "2025-03-12, 15:09:09",
       "https://news.ycombinator.com/item?id=43344082"
     ],
@@ -281,6 +271,16 @@
   ],
   [
     [
+      "2025-03-10, 21:04:29",
+      "https://news.ycombinator.com/item?id=43326080"
+    ],
+    [
+      "Working with Systemd Timers",
+      "https://yieldcode.blog/post/working-with-systemd-timers/"
+    ]
+  ],
+  [
+    [
       "2025-03-10, 13:07:53",
       "https://news.ycombinator.com/item?id=43320190"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-03-09, 14:00:31",
-      "https://news.ycombinator.com/item?id=43309109"
+      "2025-03-10, 01:51:20",
+      "https://news.ycombinator.com/item?id=43316167"
     ],
     [
-      "Ruth Belville, the \"Greenwich Time Lady\" (2022)",
-      "https://eehe.org.uk/72742/ruth-belville-she-sold-time/"
+      "Will the Man Get Frog",
+      "https://www.lexaloffle.com/bbs/?pid=willthemangetfrog"
     ]
   ]
 ]
