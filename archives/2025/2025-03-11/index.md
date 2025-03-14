@@ -71,6 +71,7 @@
 * [2025-03-11, 04:01:10](https://news.ycombinator.com/item?id=43329030) - [Ask HN: What are things to work on that are not AI or QC?](https://news.ycombinator.com/item?id=43329030)
 * [2025-03-11, 03:15:59](https://news.ycombinator.com/item?id=43328835) - [Photographers Are on Mission to Fix Wikipedia's Famously Bad Celebrity Portraits](https://www.404media.co/photographers-are-on-a-mission-to-fix-wikipedias-famously-bad-celebrity-portraits/)
 * [2025-03-11, 03:00:15](https://news.ycombinator.com/item?id=43328736) - [Pets Can't Stop Watching 'Flow,' the Oscar-Winning Cat Movie](https://www.nytimes.com/2025/03/09/movies/flow-movie-pets-oscars.html)
+* [2025-03-11, 02:00:53](https://news.ycombinator.com/item?id=43328380) - [The Evolution of the Color Pink](https://lithub.com/from-princely-regalia-to-womens-underwear-the-evolution-of-the-color-pink/)
 * [2025-03-11, 01:05:10](https://news.ycombinator.com/item?id=43328095) - [Seven39 – a social media app that is only open for 3 hours every evening](https://www.seven39.com)
 * [2025-03-11, 00:16:54](https://news.ycombinator.com/item?id=43327758) - [Shef](https://github.com/eduardoagarcia/shef)
 * [2025-03-11, 00:11:33](https://news.ycombinator.com/item?id=43327730) - [Bending Spacetime in the Basement](https://www.fourmilab.ch/gravitation/foobar/)
