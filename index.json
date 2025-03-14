@@ -1,46 +1,6 @@
 [
   [
     [
-      "2025-03-14, 12:43:56",
-      "https://news.ycombinator.com/item?id=43362081"
-    ],
-    [
-      "Stanford students want in on the military tech gold rush",
-      "https://sfstandard.com/2025/03/12/stanford-students-want-in-on-the-military-tech-gold-rush/"
-    ]
-  ],
-  [
-    [
-      "2025-03-14, 12:25:04",
-      "https://news.ycombinator.com/item?id=43361959"
-    ],
-    [
-      "A Look at Firefox Forks",
-      "https://lwn.net/Articles/1012453/"
-    ]
-  ],
-  [
-    [
-      "2025-03-14, 12:07:06",
-      "https://news.ycombinator.com/item?id=43361822"
-    ],
-    [
-      "Apple will soon support encrypted RCS messaging with Android users",
-      "https://www.theverge.com/news/629620/apple-iphone-e2ee-encryption-rcs-messaging-android"
-    ]
-  ],
-  [
-    [
-      "2025-03-14, 12:05:31",
-      "https://news.ycombinator.com/item?id=43361801"
-    ],
-    [
-      "Beyond the 70%: Maximizing the human 30% of AI-assisted coding",
-      "https://addyo.substack.com/p/beyond-the-70-maximizing-the-human"
-    ]
-  ],
-  [
-    [
       "2025-03-14, 12:00:33",
       "https://news.ycombinator.com/item?id=43361773"
     ],
@@ -67,16 +27,6 @@
     [
       "Pressure grows to hold secret Apple data privacy hearing in public",
       "https://www.bbc.com/news/articles/c4g0rr51gn3o"
-    ]
-  ],
-  [
-    [
-      "2025-03-14, 10:47:10",
-      "https://news.ycombinator.com/item?id=43361309"
-    ],
-    [
-      "Aspartame aggravates atherosclerosis through insulin-triggered inflammation",
-      "https://www.cell.com/cell-metabolism/pdfExtended/S1550-4131(25)00006-3"
     ]
   ],
   [
@@ -161,6 +111,16 @@
   ],
   [
     [
+      "2025-03-13, 22:07:29",
+      "https://news.ycombinator.com/item?id=43357704"
+    ],
+    [
+      "Tiny changes in gene expression make big difference in eye size of fruit flies",
+      "https://phys.org/news/2025-02-tiny-gene-big-differences-eye.html"
+    ]
+  ],
+  [
+    [
       "2025-03-13, 22:05:44",
       "https://news.ycombinator.com/item?id=43357687"
     ],
@@ -187,6 +147,16 @@
     [
       "The Lost Art of Logarithms",
       "https://www.lostartoflogarithms.com/"
+    ]
+  ],
+  [
+    [
+      "2025-03-13, 17:48:03",
+      "https://news.ycombinator.com/item?id=43355658"
+    ],
+    [
+      "Show HN: Bubbles, a vanilla JavaScript web game",
+      "https://ehmorris.com/bubbles/"
     ]
   ],
   [
@@ -231,6 +201,16 @@
   ],
   [
     [
+      "2025-03-13, 14:09:21",
+      "https://news.ycombinator.com/item?id=43353551"
+    ],
+    [
+      "Statistical Formulas for Programmers (2013)",
+      "https://www.evanmiller.org/statistical-formulas-for-programmers.html"
+    ]
+  ],
+  [
+    [
       "2025-03-13, 12:20:29",
       "https://news.ycombinator.com/item?id=43352531"
     ],
@@ -271,6 +251,16 @@
   ],
   [
     [
+      "2025-03-11, 19:08:10",
+      "https://news.ycombinator.com/item?id=43335956"
+    ],
+    [
+      "Fridgeditions Demo \"Children's Art the World Can Enjoy\"",
+      "https://www.fridgeditions.com/"
+    ]
+  ],
+  [
+    [
       "2025-03-11, 07:48:29",
       "https://news.ycombinator.com/item?id=43330143"
     ],
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2025-03-10, 13:08:15",
-      "https://news.ycombinator.com/item?id=43320194"
+      "2025-03-10, 13:41:24",
+      "https://news.ycombinator.com/item?id=43320505"
     ],
     [
-      "Probabilistic Time Series Forecasting",
-      "https://github.com/Protik49/Probabilistic-Time-Series-Forecasting"
+      "Show HN: I built a Figma plugin for quick data calculations",
+      "https://www.figma.com/community/plugin/1478090512871122209/countastic"
+    ]
+  ],
+  [
+    [
+      "2025-03-10, 01:51:20",
+      "https://news.ycombinator.com/item?id=43316167"
+    ],
+    [
+      "Will the Man Get Frog",
+      "https://www.lexaloffle.com/bbs/?pid=willthemangetfrog"
     ]
   ]
 ]
