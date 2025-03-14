@@ -26,9 +26,9 @@
 * [2025-03-13, 12:20:29](https://news.ycombinator.com/item?id=43352531) - [OpenAI asks White House for relief from state AI rules](https://finance.yahoo.com/news/openai-asks-white-house-relief-100000706.html)
 * [2025-03-13, 10:43:54](https://news.ycombinator.com/item?id=43351988) - [Amateur Telescope Making Main Page](https://stellafane.org/tm/atm/)
 * [2025-03-13, 01:04:50](https://news.ycombinator.com/item?id=43349385) - [A new Sudoku layout with 81 uniquely shaped cells](https://danielchasehooper.com/posts/cracked-sudoku/)
+* [2025-03-12, 01:55:32](https://news.ycombinator.com/item?id=43339212) - [My Scammer Girlfriend: Baiting a Romance Fraudster](https://www.bentasker.co.uk/posts/blog/security/seducing-a-romance-scammer.html)
 * [2025-03-11, 12:58:55](https://news.ycombinator.com/item?id=43331973) - [Show HN: MCPGod: Fine-grained control over MCP clients, servers, and tools](https://github.com/mcpgod/cli)
 * [2025-03-11, 07:48:29](https://news.ycombinator.com/item?id=43330143) - [Creative Fansubbing Techniques: Part 2](https://www.md-subs.com/blog/creative-fansubbing-techniques-2)
-* [2025-03-10, 12:01:35](https://news.ycombinator.com/item?id=43319617) - [What is VRAN: Virtualize Your Radio Access Network](https://www.intel.com/content/www/us/en/wireless-network/5g-network/radio-access-network.html)
 * [2025-03-10, 01:51:20](https://news.ycombinator.com/item?id=43316167) - [Will the Man Get Frog](https://www.lexaloffle.com/bbs/?pid=willthemangetfrog)
 
 ## [Archives](archives/index.md)
