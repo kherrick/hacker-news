@@ -41,6 +41,7 @@
 * [2025-03-11, 13:27:36](https://news.ycombinator.com/item?id=43332226) - [Show HN: Generate Version 7 UUID's for a Timestamp](https://uuidv7.org/)
 * [2025-03-11, 13:23:03](https://news.ycombinator.com/item?id=43332184) - [Espressif's Response to Undocumented Commands in ESP32 Bluetooth by Tarlogic](https://www.espressif.com/en/news/response_esp32_bluetooth)
 * [2025-03-11, 13:19:29](https://news.ycombinator.com/item?id=43332143) - [Three Implementation Models for Scheme (1987) [pdf]](https://legacy.cs.indiana.edu/~dyb/papers/3imp.pdf)
+* [2025-03-11, 12:58:55](https://news.ycombinator.com/item?id=43331973) - [Show HN: MCPGod: Fine-grained control over MCP clients, servers, and tools](https://github.com/mcpgod/cli)
 * [2025-03-11, 12:54:22](https://news.ycombinator.com/item?id=43331940) - [Show HN: iOS app that corrects your form in real time using your phone's camera](https://www.firefly.fitness/)
 * [2025-03-11, 12:50:02](https://news.ycombinator.com/item?id=43331914) - [Representing Type Lattices Compactly](https://bernsteinbear.com/blog/lattice-bitset/)
 * [2025-03-11, 12:29:59](https://news.ycombinator.com/item?id=43331770) - [Cursor uploads .env file with secrets despite .gitignore and .cursorignore](https://forum.cursor.com/t/env-file-question/60165)
