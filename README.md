@@ -13,6 +13,7 @@
 * [2025-03-14, 14:51:42](https://news.ycombinator.com/item?id=43363174) - [Fediverse Donut Club](https://sethmlarson.dev/fedi-donut-friday)
 * [2025-03-14, 14:39:00](https://news.ycombinator.com/item?id=43363056) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=43363056)
 * [2025-03-14, 14:36:23](https://news.ycombinator.com/item?id=43363031) - [Briar: Peer to Peer Encrypted Messaging](https://briarproject.org/how-it-works/)
+* [2025-03-14, 13:37:18](https://news.ycombinator.com/item?id=43362535) - [Show HN: Pi Labs – AI scoring and optimization tools for software engineers](https://build.withpi.ai/dashboard)
 * [2025-03-14, 13:36:20](https://news.ycombinator.com/item?id=43362528) - [The Cassowary Linear Arithmetic Constraint Solving Algorithm [pdf] (2002)](https://constraints.cs.washington.edu/solvers/cassowary-tochi.pdf)
 * [2025-03-14, 11:55:17](https://news.ycombinator.com/item?id=43361737) - [In S3 simplicity is table stakes](https://www.allthingsdistributed.com/2025/03/in-s3-simplicity-is-table-stakes.html)
 * [2025-03-14, 09:23:58](https://news.ycombinator.com/item?id=43360894) - [AMD's Strix Halo – Under the Hood](https://chipsandcheese.com/p/amds-strix-halo-under-the-hood)
@@ -28,7 +29,6 @@
 * [2025-03-11, 07:48:29](https://news.ycombinator.com/item?id=43330143) - [Creative Fansubbing Techniques: Part 2](https://www.md-subs.com/blog/creative-fansubbing-techniques-2)
 * [2025-03-10, 23:41:45](https://news.ycombinator.com/item?id=43327506) - [Liu Jiakun Receives the 2025 Pritzker Architecture Prize](https://www.pritzkerprize.com/laureates/liu-jiakun)
 * [2025-03-10, 19:41:37](https://news.ycombinator.com/item?id=43325049) - [Any insider takes on Yann LeCun's push against current architectures?](https://news.ycombinator.com/item?id=43325049)
-* [2025-03-10, 18:03:21](https://news.ycombinator.com/item?id=43323491) - [Architect of classic Hollywood gets his own star turn](https://www.latimes.com/business/real-estate/story/2020-02-06/architect-paul-williams-documentary)
 * [2025-03-10, 14:33:10](https://news.ycombinator.com/item?id=43321109) - [Apparently magpies and crows are using “anti-bird spikes” to make nests (2023)](https://www.audubon.org/magazine/apparently-magpies-and-crows-are-using-anti-bird-spikes-make-their-nests)
 
 ## [Archives](archives/index.md)
