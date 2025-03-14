@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-14, 15:21:24](https://news.ycombinator.com/item?id=43363499) - ['A lot worse than expected': AI Pac-Man clones, reviewed](https://www.theguardian.com/games/2025/mar/11/ai-pac-man-clones-reviewed-grok)
 * [2025-03-14, 15:19:16](https://news.ycombinator.com/item?id=43363474) - [How ProPublica Uses AI in Its Investigations](https://www.propublica.org/article/using-ai-responsibly-for-reporting)
+* [2025-03-14, 15:03:01](https://news.ycombinator.com/item?id=43363293) - [Why Do Transit Agencies Keep Falling for the Hydrogen Bus Myth?](https://cleantechnica.com/2025/03/13/why-do-transit-agencies-keep-falling-for-the-hydrogen-bus-myth/)
 * [2025-03-14, 15:01:01](https://news.ycombinator.com/item?id=43363276) - [Show HN: CodeVideo – Two years in the making to build an event-sourced IDE](https://studio.codevideo.io)
 * [2025-03-14, 14:58:32](https://news.ycombinator.com/item?id=43363247) - [Block Diffusion: Interpolating Between Autoregressive and Diffusion Models](https://arxiv.org/abs/2503.09573)
 * [2025-03-14, 14:51:42](https://news.ycombinator.com/item?id=43363174) - [Fediverse Donut Club](https://sethmlarson.dev/fedi-donut-friday)
@@ -27,8 +29,6 @@
 * [2025-03-12, 01:55:32](https://news.ycombinator.com/item?id=43339212) - [My Scammer Girlfriend: Baiting a Romance Fraudster](https://www.bentasker.co.uk/posts/blog/security/seducing-a-romance-scammer.html)
 * [2025-03-11, 07:48:29](https://news.ycombinator.com/item?id=43330143) - [Creative Fansubbing Techniques: Part 2](https://www.md-subs.com/blog/creative-fansubbing-techniques-2)
 * [2025-03-10, 23:41:45](https://news.ycombinator.com/item?id=43327506) - [Liu Jiakun Receives the 2025 Pritzker Architecture Prize](https://www.pritzkerprize.com/laureates/liu-jiakun)
-* [2025-03-10, 23:29:14](https://news.ycombinator.com/item?id=43327393) - [Certificate will expire on 14 March – update Firefox to prevent add-on breakage](https://blog.mozilla.org/addons/2025/03/10/root-certificate-will-expire-on-14-march-users-need-to-update-firefox-to-prevent-add-on-breakage/)
-* [2025-03-10, 16:07:20](https://news.ycombinator.com/item?id=43322030) - [I create buildings from mushroom components](https://www.nature.com/articles/d41586-025-00741-9)
 * [2025-03-10, 14:33:10](https://news.ycombinator.com/item?id=43321109) - [Apparently magpies and crows are using “anti-bird spikes” to make nests (2023)](https://www.audubon.org/magazine/apparently-magpies-and-crows-are-using-anti-bird-spikes-make-their-nests)
 
 ## [Archives](archives/index.md)
