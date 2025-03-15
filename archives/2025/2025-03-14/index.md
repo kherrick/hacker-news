@@ -68,6 +68,7 @@
 * [2025-03-14, 02:15:11](https://news.ycombinator.com/item?id=43358999) - [Show HN: A website that makes your text look cool anywhere online using Unicode](https://fontgenerator.cool/)
 * [2025-03-14, 02:12:11](https://news.ycombinator.com/item?id=43358980) - [TinyKVM: Fast sandbox that runs on top of Varnish](https://info.varnish-software.com/blog/tinykvm-the-fastest-sandbox)
 * [2025-03-14, 02:00:35](https://news.ycombinator.com/item?id=43358947) - [The Church FAQ](https://whatever.scalzi.com/2025/03/13/the-church-faq/)
+* [2025-03-14, 01:51:22](https://news.ycombinator.com/item?id=43358914) - [Show HN: Nash, I made a standalone note with single HTML file](https://keepworking.github.io/nash/)
 * [2025-03-14, 01:46:38](https://news.ycombinator.com/item?id=43358887) - [OpenAI declares AI race \"over\" if training on copyrighted works isn't fair use](https://arstechnica.com/tech-policy/2025/03/openai-urges-trump-either-settle-ai-copyright-debate-or-lose-ai-race-to-china/)
 * [2025-03-14, 01:43:24](https://news.ycombinator.com/item?id=43358872) - ['Profit-Enhancing Middlemen' Fuel $200B Health-Care Chaos](https://www.bloomberg.com/news/features/2025-03-13/middlemen-in-us-health-care-are-driving-up-costs-frustrating-patients)
 * [2025-03-14, 00:58:29](https://news.ycombinator.com/item?id=43358682) - [ArkFlow – High-performance Rust stream processing engine](https://github.com/chenquan/arkflow)
