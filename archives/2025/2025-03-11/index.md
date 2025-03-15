@@ -19,6 +19,7 @@
 * [2025-03-11, 18:40:54](https://news.ycombinator.com/item?id=43335679) - [How do we tell truths that might hurt?](https://www.cs.virginia.edu/~evans/cs655/readings/ewd498.html)
 * [2025-03-11, 18:30:47](https://news.ycombinator.com/item?id=43335586) - [Truth Functional Logic for Hackers](https://lagomor.ph/2025/02/truth-functional-logic-for-hackers-part-one/)
 * [2025-03-11, 18:29:05](https://news.ycombinator.com/item?id=43335564) - [Tesla speeds Supercharger installations up with foundation that skips concrete](https://www.notebookcheck.net/Tesla-speeds-Supercharger-installations-up-with-new-foundation-that-skips-concrete.976922.0.html)
+* [2025-03-11, 18:15:49](https://news.ycombinator.com/item?id=43335432) - [Show HN: 715-999-7483.com, a website updated by calling the same phone number](https://715-999-7483.com/)
 * [2025-03-11, 17:49:15](https://news.ycombinator.com/item?id=43335144) - [Can a Geothermal Startup Vaporize Rock to Drill the Deepest Holes?](https://www.msn.com/en-us/money/markets/can-a-geothermal-startup-vaporize-rock-to-drill-the-deepest-holes-ever/ar-AA1AoaWT)
 * [2025-03-11, 17:46:01](https://news.ycombinator.com/item?id=43335110) - [Backyard Cyanide](https://suziepetryk.com/blog/cyanide.html)
 * [2025-03-11, 17:21:09](https://news.ycombinator.com/item?id=43334830) - [Why Go?](https://github.com/microsoft/typescript-go/discussions/411)
