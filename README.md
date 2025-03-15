@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-15, 19:06:01](https://news.ycombinator.com/item?id=43374519) - [Sign in as anyone: Bypassing SAML SSO authentication with parser differentials](https://github.blog/security/sign-in-as-anyone-bypassing-saml-sso-authentication-with-parser-differentials/)
 * [2025-03-15, 18:15:53](https://news.ycombinator.com/item?id=43374237) - [They're Close to My Body: A Hagiography of Nine Inch Nails and Robin Finck (2020)](https://www.thewhitereview.org/feature/theyre-really-close-to-my-body/)
 * [2025-03-15, 17:34:13](https://news.ycombinator.com/item?id=43373959) - [Elderly patients can deteriorate in the ER. This team works to get them out](https://www.cbc.ca/radio/whitecoat/geriatric-er-care-1.7478304)
 * [2025-03-15, 17:05:07](https://news.ycombinator.com/item?id=43373765) - [How Many Artists Did the Beatles Kill?](https://www.cantgetmuchhigher.com/p/how-many-artists-did-the-beatles)
@@ -29,7 +30,6 @@
 * [2025-03-11, 16:15:02](https://news.ycombinator.com/item?id=43333975) - [Computers and Mice – Mister Rogers Neighborhood](https://misterrogers.org/episodes/computers-and-mice/)
 * [2025-03-11, 12:40:55](https://news.ycombinator.com/item?id=43331847) - [RubyLLM: A delightful Ruby way to work with AI](https://github.com/crmne/ruby_llm)
 * [2025-03-11, 12:18:25](https://news.ycombinator.com/item?id=43331706) - [So Long and Thanks for All the Words: A Toast to Douglas Adams](https://multiverseemployeehandbook.com/blog/adams-birthday-toast/)
-* [2025-03-10, 19:41:37](https://news.ycombinator.com/item?id=43325049) - [Ask HN: Any insider takes on Yann LeCun's push against current architectures?](https://news.ycombinator.com/item?id=43325049)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-15](index.md)
 
+* [2025-03-15, 19:06:01](https://news.ycombinator.com/item?id=43374519) - [Sign in as anyone: Bypassing SAML SSO authentication with parser differentials](https://github.blog/security/sign-in-as-anyone-bypassing-saml-sso-authentication-with-parser-differentials/)
 * [2025-03-15, 18:15:53](https://news.ycombinator.com/item?id=43374237) - [They're Close to My Body: A Hagiography of Nine Inch Nails and Robin Finck (2020)](https://www.thewhitereview.org/feature/theyre-really-close-to-my-body/)
 * [2025-03-15, 17:34:13](https://news.ycombinator.com/item?id=43373959) - [Elderly patients can deteriorate in the ER. This team works to get them out](https://www.cbc.ca/radio/whitecoat/geriatric-er-care-1.7478304)
 * [2025-03-15, 17:05:07](https://news.ycombinator.com/item?id=43373765) - [How Many Artists Did the Beatles Kill?](https://www.cantgetmuchhigher.com/p/how-many-artists-did-the-beatles)
