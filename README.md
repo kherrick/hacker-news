@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-15, 19:06:01](https://news.ycombinator.com/item?id=43374519) - [Sign in as anyone: Bypassing SAML SSO authentication with parser differentials](https://github.blog/security/sign-in-as-anyone-bypassing-saml-sso-authentication-with-parser-differentials/)
+* [2025-03-15, 18:22:37](https://news.ycombinator.com/item?id=43374283) - [AutoHete: An Automatic and Efficient Heterogeneous Training System for LLMs](https://arxiv.org/abs/2503.01890)
 * [2025-03-15, 18:15:53](https://news.ycombinator.com/item?id=43374237) - [They're Close to My Body: A Hagiography of Nine Inch Nails and Robin Finck (2020)](https://www.thewhitereview.org/feature/theyre-really-close-to-my-body/)
 * [2025-03-15, 17:34:13](https://news.ycombinator.com/item?id=43373959) - [Elderly patients can deteriorate in the ER. This team works to get them out](https://www.cbc.ca/radio/whitecoat/geriatric-er-care-1.7478304)
 * [2025-03-15, 17:05:07](https://news.ycombinator.com/item?id=43373765) - [How Many Artists Did the Beatles Kill?](https://www.cantgetmuchhigher.com/p/how-many-artists-did-the-beatles)
@@ -17,7 +18,6 @@
 * [2025-03-14, 22:29:46](https://news.ycombinator.com/item?id=43367987) - [Tj-actions/changed-files GitHub Action Compromised – used by over 23K repos](https://www.stepsecurity.io/blog/harden-runner-detection-tj-actions-changed-files-action-is-compromised)
 * [2025-03-14, 19:47:12](https://news.ycombinator.com/item?id=43366479) - [Kerning, the Hard Way](https://home.octetfont.com/blog/kerning-hard.html)
 * [2025-03-14, 17:45:33](https://news.ycombinator.com/item?id=43365083) - [Decrypting encrypted files from Akira ransomware using a bunch of GPUs](https://tinyhack.com/2025/03/13/decrypting-encrypted-files-from-akira-ransomware-linux-esxi-variant-2024-using-a-bunch-of-gpus/)
-* [2025-03-14, 17:12:18](https://news.ycombinator.com/item?id=43364715) - [The curious surge of productivity in U.S. restaurants](https://bfi.uchicago.edu/working-papers/the-curious-surge-of-productivity-in-u-s-restaurants/)
 * [2025-03-14, 15:03:01](https://news.ycombinator.com/item?id=43363293) - [Why do transit agencies keep falling for the hydrogen bus myth?](https://cleantechnica.com/2025/03/13/why-do-transit-agencies-keep-falling-for-the-hydrogen-bus-myth/)
 * [2025-03-14, 14:39:00](https://news.ycombinator.com/item?id=43363056) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=43363056)
 * [2025-03-14, 14:36:23](https://news.ycombinator.com/item?id=43363031) - [Briar: Peer to Peer Encrypted Messaging](https://briarproject.org/how-it-works/)
