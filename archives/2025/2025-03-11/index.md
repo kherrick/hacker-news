@@ -12,6 +12,7 @@
 * [2025-03-11, 21:01:39](https://news.ycombinator.com/item?id=43336957) - [Continue (YC S23) Is Hiring a Software Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer)
 * [2025-03-11, 20:53:45](https://news.ycombinator.com/item?id=43336892) - [Show HN: Metacheck – preview how any link appears on social media and chat apps](https://metacheck.appstate.co/)
 * [2025-03-11, 20:50:39](https://news.ycombinator.com/item?id=43336872) - [India's Battle to Control the Democracy Narrative](https://www.theplankmag.com/india-democracy-narrative)
+* [2025-03-11, 20:21:43](https://news.ycombinator.com/item?id=43336609) - [Mayo Clinic's secret weapon against AI hallucinations: Reverse RAG in action](https://venturebeat.com/ai/mayo-clinic-secret-weapon-against-ai-hallucinations-reverse-rag-in-action/)
 * [2025-03-11, 19:53:24](https://news.ycombinator.com/item?id=43336381) - [\"It Has Been Determined\" That Infected Dairy Herd Serology Can Be Disclosed](https://hogvet51.substack.com/p/one-year-later-it-has-been-determined)
 * [2025-03-11, 19:08:10](https://news.ycombinator.com/item?id=43335956) - [Fridgeditions Demo \"Children's Art the World Can Enjoy\"](https://www.fridgeditions.com/)
 * [2025-03-11, 18:43:01](https://news.ycombinator.com/item?id=43335695) - [Percolation Theory [pdf]](https://web.mit.edu/ceder/publications/Percolation.pdf)
