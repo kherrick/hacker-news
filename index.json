@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-15, 13:03:40",
+      "https://news.ycombinator.com/item?id=43372271"
+    ],
+    [
+      "Is our universe trapped inside a black hole? This JWS Telescope discovery",
+      "https://www.space.com/space-exploration/james-webb-space-telescope/is-our-universe-trapped-inside-a-black-hole-this-james-webb-space-telescope-discovery-might-blow-your-mind"
+    ]
+  ],
+  [
+    [
       "2025-03-15, 12:00:10",
       "https://news.ycombinator.com/item?id=43371960"
     ],
@@ -31,6 +41,16 @@
   ],
   [
     [
+      "2025-03-15, 08:54:23",
+      "https://news.ycombinator.com/item?id=43371097"
+    ],
+    [
+      "Nubmq: A high performant key-value store engine built from first principles",
+      "https://news.ycombinator.com/item?id=43371097"
+    ]
+  ],
+  [
+    [
       "2025-03-15, 08:23:12",
       "https://news.ycombinator.com/item?id=43370956"
     ],
@@ -57,16 +77,6 @@
     [
       "Using a graphics tablet as a programming tool (2018)",
       "https://jeandavidmoisan.com/posts/using-a-graphics-tablet-as-a-programming-tool/"
-    ]
-  ],
-  [
-    [
-      "2025-03-15, 00:43:02",
-      "https://news.ycombinator.com/item?id=43368870"
-    ],
-    [
-      "Popular GitHub Action tj-actions/changed-files is compromised",
-      "https://semgrep.dev/blog/2025/popular-github-action-tj-actionschanged-files-is-compromised/"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2025-03-14, 12:07:06",
-      "https://news.ycombinator.com/item?id=43361822"
-    ],
-    [
-      "Apple will soon support encrypted RCS messaging with Android users",
-      "https://www.theverge.com/news/629620/apple-iphone-e2ee-encryption-rcs-messaging-android"
-    ]
-  ],
-  [
-    [
       "2025-03-14, 06:21:42",
       "https://news.ycombinator.com/item?id=43360079"
     ],
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=43359412"
     ],
     [
-      "Athena landed in a dark crater where the temperature was minus 280° F / 173° C",
+      "Athena landed in a dark crater where the temperature was -280° F / -173° C",
       "https://arstechnica.com/space/2025/03/athena-landed-in-a-dark-crater-where-the-temperature-was-minus-280-f/"
     ]
   ],
