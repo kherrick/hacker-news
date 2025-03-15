@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-03-15, 03:41:27",
-      "https://news.ycombinator.com/item?id=43369791"
-    ],
-    [
-      "Experts warn about the 'crumbling infrastructure' of federal government data",
-      "https://www.npr.org/2025/01/24/nx-s1-5250264/unemployment-rate-cpi-inflation-census-bureau-labor-statistics"
-    ]
-  ],
-  [
-    [
       "2025-03-15, 03:12:39",
       "https://news.ycombinator.com/item?id=43369633"
     ],
@@ -57,16 +47,6 @@
     [
       "Popular GitHub Action tj-actions/changed-files is compromised",
       "https://semgrep.dev/blog/2025/popular-github-action-tj-actionschanged-files-is-compromised/"
-    ]
-  ],
-  [
-    [
-      "2025-03-15, 00:27:09",
-      "https://news.ycombinator.com/item?id=43368765"
-    ],
-    [
-      "From QED to Neovim",
-      "https://l-o-o-s-e-d.net/qed-neovim"
     ]
   ],
   [
@@ -251,6 +231,16 @@
   ],
   [
     [
+      "2025-03-12, 05:27:40",
+      "https://news.ycombinator.com/item?id=43340222"
+    ],
+    [
+      "An Egyptian Temple Reborn",
+      "https://archaeology.org/issues/march-april-2025/features/an-egyptian-temple-reborn/"
+    ]
+  ],
+  [
+    [
       "2025-03-11, 17:49:15",
       "https://news.ycombinator.com/item?id=43335144"
     ],
@@ -287,6 +277,16 @@
     [
       "RubyLLM: A delightful Ruby way to work with AI",
       "https://github.com/crmne/ruby_llm"
+    ]
+  ],
+  [
+    [
+      "2025-03-11, 12:14:13",
+      "https://news.ycombinator.com/item?id=43331673"
+    ],
+    [
+      "Owl: Optimized Workforce Learning for multi-agent collaboration",
+      "https://github.com/camel-ai/owl"
     ]
   ],
   [
