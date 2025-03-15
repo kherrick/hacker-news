@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-15, 08:21:58](https://news.ycombinator.com/item?id=43370950) - [Tesla is done in Germany: 94% say they won't buy a Tesla car](https://electrek.co/2025/03/14/tesla-is-done-in-germany-94-say-they-wont-buy-a-tesla-car/)
 * [2025-03-15, 07:00:29](https://news.ycombinator.com/item?id=43370596) - [Noloco (YC S21) Is Hiring a Product Designer in Barcelona](https://www.ycombinator.com/companies/noloco/jobs/MCp9ejT-founding-product-designer)
 * [2025-03-15, 03:12:39](https://news.ycombinator.com/item?id=43369633) - [Transformers Without Normalization](https://jiachenzhu.github.io/DyT/)
 * [2025-03-15, 02:47:34](https://news.ycombinator.com/item?id=43369489) - [Show HN: eli – Embedded Lisp Interpreter](https://github.com/codr7/eli)
@@ -24,6 +23,7 @@
 * [2025-03-13, 06:02:28](https://news.ycombinator.com/item?id=43350733) - [Rembrandt to Picasso: Five ways to spot a fake masterpiece](https://www.bbc.com/culture/article/20250311-rembrandt-to-picasso-five-ways-to-spot-a-fake-masterpiece)
 * [2025-03-12, 05:27:40](https://news.ycombinator.com/item?id=43340222) - [An Egyptian Temple Reborn](https://archaeology.org/issues/march-april-2025/features/an-egyptian-temple-reborn/)
 * [2025-03-11, 17:49:15](https://news.ycombinator.com/item?id=43335144) - [Can a Geothermal Startup Vaporize Rock to Drill the Deepest Holes?](https://www.msn.com/en-us/money/markets/can-a-geothermal-startup-vaporize-rock-to-drill-the-deepest-holes-ever/ar-AA1AoaWT)
+* [2025-03-11, 16:43:00](https://news.ycombinator.com/item?id=43334320) - [It doesn't cost much to improve someone's life](https://ourworldindata.org/foreign-aid-donations-increase)
 * [2025-03-11, 12:52:05](https://news.ycombinator.com/item?id=43331925) - [Show HN: Online Python Compiler with Libraries](https://cliprun.com/online-python-compiler-with-libraries)
 * [2025-03-11, 12:40:55](https://news.ycombinator.com/item?id=43331847) - [RubyLLM: A delightful Ruby way to work with AI](https://github.com/crmne/ruby_llm)
 * [2025-03-11, 12:18:25](https://news.ycombinator.com/item?id=43331706) - [So Long and Thanks for All the Words: A Toast to Douglas Adams](https://multiverseemployeehandbook.com/blog/adams-birthday-toast/)
