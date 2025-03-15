@@ -42,6 +42,7 @@
 * [2025-03-13, 10:43:54](https://news.ycombinator.com/item?id=43351988) - [Amateur Telescope Making Main Page](https://stellafane.org/tm/atm/)
 * [2025-03-13, 10:37:42](https://news.ycombinator.com/item?id=43351949) - [Meta goes to arbitrator to prevent whistleblower from promoting tell-all book](https://www.cnbc.com/2025/03/12/arbitrator-prohibits-meta-whistleblower-from-promoting-tell-all-book.html)
 * [2025-03-13, 10:04:02](https://news.ycombinator.com/item?id=43351765) - [Huawei targeted in new European Parliament corruption probe](https://www.ftm.eu/articles/huawei-targeted-in-european-parliament-corruption-probe)
+* [2025-03-13, 09:20:32](https://news.ycombinator.com/item?id=43351560) - [Hexagon Spiral Coordinates](https://www.redblobgames.com/blog/2025-03-12-hexagon-spiral-coordinates/)
 * [2025-03-13, 08:25:03](https://news.ycombinator.com/item?id=43351271) - [Game Boy Advance Architecture – A Practical Analysis](https://www.copetti.org/writings/consoles/game-boy-advance/)
 * [2025-03-13, 07:59:55](https://news.ycombinator.com/item?id=43351137) - [Cursor told me I should learn coding instead of asking it to generate it](https://forum.cursor.com/t/cursor-told-me-i-should-learn-coding-instead-of-asking-it-to-generate-it-limit-of-800-locs/61132)
 * [2025-03-13, 06:02:28](https://news.ycombinator.com/item?id=43350733) - [Rembrandt to Picasso: Five ways to spot a fake masterpiece](https://www.bbc.com/culture/article/20250311-rembrandt-to-picasso-five-ways-to-spot-a-fake-masterpiece)
