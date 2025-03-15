@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-15, 21:42:03](https://news.ycombinator.com/item?id=43375353) - [Collatzeral damage: bitwise and proof foolish](https://soatok.blog/2025/01/06/collatzeral-damage-bitwise-and-proof-foolish/)
 * [2025-03-15, 21:34:22](https://news.ycombinator.com/item?id=43375307) - [How to learn a new language like a baby](https://theconversation.com/how-to-learn-a-language-like-a-baby-250551)
 * [2025-03-15, 21:00:44](https://news.ycombinator.com/item?id=43375123) - [Parahelp (YC S24) Is Hiring Founding Engineers (SF)](https://www.ycombinator.com/companies/parahelp/jobs/PhUMEwg-founding-ai-engineer)
 * [2025-03-15, 19:06:01](https://news.ycombinator.com/item?id=43374519) - [Sign in as anyone: Bypassing SAML SSO authentication with parser differentials](https://github.blog/security/sign-in-as-anyone-bypassing-saml-sso-authentication-with-parser-differentials/)
@@ -16,7 +17,6 @@
 * [2025-03-15, 13:32:53](https://news.ycombinator.com/item?id=43372431) - [Sunset Geometry (2016)](https://www.shapeoperator.com/2016/12/12/sunset-geometry/)
 * [2025-03-15, 10:39:31](https://news.ycombinator.com/item?id=43371583) - [Arbitrary-Scale Super-Resolution with Neural Heat Fields](https://therasr.github.io/)
 * [2025-03-15, 03:12:39](https://news.ycombinator.com/item?id=43369633) - [Transformers Without Normalization](https://jiachenzhu.github.io/DyT/)
-* [2025-03-14, 22:29:46](https://news.ycombinator.com/item?id=43367987) - [Tj-actions/changed-files GitHub Action Compromised – used by over 23K repos](https://www.stepsecurity.io/blog/harden-runner-detection-tj-actions-changed-files-action-is-compromised)
 * [2025-03-14, 14:36:23](https://news.ycombinator.com/item?id=43363031) - [Briar: Peer to Peer Encrypted Messaging](https://briarproject.org/how-it-works/)
 * [2025-03-14, 12:25:04](https://news.ycombinator.com/item?id=43361959) - [A look at Firefox forks](https://lwn.net/Articles/1012453/)
 * [2025-03-14, 03:46:11](https://news.ycombinator.com/item?id=43359412) - [Athena landed in a dark crater where the temperature was -280° F / -173° C](https://arstechnica.com/space/2025/03/athena-landed-in-a-dark-crater-where-the-temperature-was-minus-280-f/)

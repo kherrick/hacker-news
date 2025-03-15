@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-15](index.md)
 
+* [2025-03-15, 21:42:03](https://news.ycombinator.com/item?id=43375353) - [Collatzeral damage: bitwise and proof foolish](https://soatok.blog/2025/01/06/collatzeral-damage-bitwise-and-proof-foolish/)
 * [2025-03-15, 21:34:22](https://news.ycombinator.com/item?id=43375307) - [How to learn a new language like a baby](https://theconversation.com/how-to-learn-a-language-like-a-baby-250551)
 * [2025-03-15, 21:00:44](https://news.ycombinator.com/item?id=43375123) - [Parahelp (YC S24) Is Hiring Founding Engineers (SF)](https://www.ycombinator.com/companies/parahelp/jobs/PhUMEwg-founding-ai-engineer)
 * [2025-03-15, 20:34:37](https://news.ycombinator.com/item?id=43374980) - [Daniel Kahneman died last year by assisted suicide](https://www.jpost.com/breaking-news/article-846140)
