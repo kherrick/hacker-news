@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-15](index.md)
 
+* [2025-03-15, 13:03:40](https://news.ycombinator.com/item?id=43372271) - [Is our universe trapped inside a black hole? This JWS Telescope discovery](https://www.space.com/space-exploration/james-webb-space-telescope/is-our-universe-trapped-inside-a-black-hole-this-james-webb-space-telescope-discovery-might-blow-your-mind)
 * [2025-03-15, 12:00:10](https://news.ycombinator.com/item?id=43371960) - [Deepnote (YC S19) is hiring to build a better data science notebook (Europe)](https://deepnote.com/join-us)
 * [2025-03-15, 10:44:55](https://news.ycombinator.com/item?id=43371603) - [Cradle – Open-Source Collaborative Threat Intelligence Hub](https://cradle.sh/)
 * [2025-03-15, 10:39:31](https://news.ycombinator.com/item?id=43371583) - [Arbitrary-Scale Super-Resolution with Neural Heat Fields](https://therasr.github.io/)
