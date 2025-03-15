@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-15](index.md)
 
+* [2025-03-15, 12:00:10](https://news.ycombinator.com/item?id=43371960) - [Deepnote (YC S19) is hiring to build a better data science notebook (Europe)](https://deepnote.com/join-us)
+* [2025-03-15, 10:44:55](https://news.ycombinator.com/item?id=43371603) - [Cradle – Open-Source Collaborative Threat Intelligence Hub](https://cradle.sh/)
 * [2025-03-15, 10:39:31](https://news.ycombinator.com/item?id=43371583) - [Arbitrary-Scale Super-Resolution with Neural Heat Fields](https://therasr.github.io/)
 * [2025-03-15, 10:09:15](https://news.ycombinator.com/item?id=43371429) - ['Microlightning' in water droplets may have sparked life on Earth](https://phys.org/news/2025-03-microlightning-droplets-life-earth.html)
 * [2025-03-15, 08:54:23](https://news.ycombinator.com/item?id=43371097) - [Nubmq: A high performant key-value store engine built from first principles](https://news.ycombinator.com/item?id=43371097)
