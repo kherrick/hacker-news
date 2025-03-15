@@ -26,9 +26,9 @@
 * [2025-03-13, 06:02:28](https://news.ycombinator.com/item?id=43350733) - [Rembrandt to Picasso: Five ways to spot a fake masterpiece](https://www.bbc.com/culture/article/20250311-rembrandt-to-picasso-five-ways-to-spot-a-fake-masterpiece)
 * [2025-03-12, 20:49:38](https://news.ycombinator.com/item?id=43347524) - [Show HN: OCR Benchmark Focusing on Automation](https://nanonets.com/automation-benchmark)
 * [2025-03-12, 05:27:40](https://news.ycombinator.com/item?id=43340222) - [An Egyptian Temple Reborn](https://archaeology.org/issues/march-april-2025/features/an-egyptian-temple-reborn/)
+* [2025-03-11, 12:52:05](https://news.ycombinator.com/item?id=43331925) - [Show HN: Online Python Compiler with Libraries](https://cliprun.com/online-python-compiler-with-libraries)
 * [2025-03-11, 12:40:55](https://news.ycombinator.com/item?id=43331847) - [RubyLLM: A delightful Ruby way to work with AI](https://github.com/crmne/ruby_llm)
 * [2025-03-11, 12:14:13](https://news.ycombinator.com/item?id=43331673) - [Owl: Optimized Workforce Learning for multi-agent collaboration](https://github.com/camel-ai/owl)
-* [2025-03-11, 12:05:12](https://news.ycombinator.com/item?id=43331607) - [The Internet of Beefs (2020)](https://www.ribbonfarm.com/2020/01/16/the-internet-of-beefs/)
 * [2025-03-10, 19:41:37](https://news.ycombinator.com/item?id=43325049) - [Ask HN: Any insider takes on Yann LeCun's push against current architectures?](https://news.ycombinator.com/item?id=43325049)
 
 ## [Archives](archives/index.md)
