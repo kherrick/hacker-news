@@ -7,7 +7,6 @@
 * [2025-03-15, 01:57:59](https://news.ycombinator.com/item?id=43369230) - [Google Being Forced to Sell Chrome Is Not Good for the Web](https://chriscoyier.net/2025/03/14/google-being-forced-to-sell-chrome-is-not-good-for-the-web/)
 * [2025-03-15, 00:43:02](https://news.ycombinator.com/item?id=43368870) - [Popular GitHub Action tj-actions/changed-files is compromised](https://semgrep.dev/blog/2025/popular-github-action-tj-actionschanged-files-is-compromised/)
 * [2025-03-14, 23:21:18](https://news.ycombinator.com/item?id=43368365) - ['Once in a Century' Proof Settles Math's Kakeya Conjecture](https://www.quantamagazine.org/once-in-a-century-proof-settles-maths-kakeya-conjecture-20250314/)
-* [2025-03-14, 23:15:20](https://news.ycombinator.com/item?id=43368327) - [Show HN: Open-Source MCP Server for Context and AI Tools](https://news.ycombinator.com/item?id=43368327)
 * [2025-03-14, 22:53:58](https://news.ycombinator.com/item?id=43368183) - [New York Times shut down Tor Onion service](https://open.nytimes.com/https-open-nytimes-com-the-new-york-times-as-a-tor-onion-service-e0d0b67b7482)
 * [2025-03-14, 21:27:25](https://news.ycombinator.com/item?id=43367482) - [Show HN: Web Audio Spring-Mass Synthesis](https://blog.cochlea.xyz/string.html)
 * [2025-03-14, 19:47:12](https://news.ycombinator.com/item?id=43366479) - [Kerning, the Hard Way](https://home.octetfont.com/blog/kerning-hard.html)
@@ -28,6 +27,7 @@
 * [2025-03-11, 16:43:00](https://news.ycombinator.com/item?id=43334320) - [It doesn't cost much to improve someone's life](https://ourworldindata.org/foreign-aid-donations-increase)
 * [2025-03-11, 12:52:05](https://news.ycombinator.com/item?id=43331925) - [Show HN: Online Python Compiler with Libraries](https://cliprun.com/online-python-compiler-with-libraries)
 * [2025-03-11, 12:40:55](https://news.ycombinator.com/item?id=43331847) - [RubyLLM: A delightful Ruby way to work with AI](https://github.com/crmne/ruby_llm)
+* [2025-03-11, 12:14:13](https://news.ycombinator.com/item?id=43331673) - [Owl: Optimized Workforce Learning for multi-agent collaboration](https://github.com/camel-ai/owl)
 * [2025-03-11, 09:48:14](https://news.ycombinator.com/item?id=43330796) - [Switching to BunnyCDN in Less Than 2 Hours](https://jonathan-frere.com/posts/switching-to-bunny-cdn)
 * [2025-03-10, 19:41:37](https://news.ycombinator.com/item?id=43325049) - [Ask HN: Any insider takes on Yann LeCun's push against current architectures?](https://news.ycombinator.com/item?id=43325049)
 
