@@ -60,6 +60,7 @@
 * [2025-03-11, 11:05:10](https://news.ycombinator.com/item?id=43331231) - [Carlos Slim Cancels $22B in Starlink Orders](https://cleantechnica.com/2025/03/10/billionaire-carlos-slim-cancels-22-billion-in-starlink-orders-due-to-elon-musks-outburst/)
 * [2025-03-11, 11:02:09](https://news.ycombinator.com/item?id=43331215) - [COBOL Language Front End Merged for GCC 15 Compiler](https://www.phoronix.com/news/GCC-15-Merges-COBOL)
 * [2025-03-11, 10:07:17](https://news.ycombinator.com/item?id=43330900) - [What Makes Code Hard to Read: Visual Patterns of Complexity (2023)](https://seeinglogic.com/posts/visual-readability-patterns/)
+* [2025-03-11, 09:48:14](https://news.ycombinator.com/item?id=43330796) - [Switching to BunnyCDN in Less Than 2 Hours](https://jonathan-frere.com/posts/switching-to-bunny-cdn)
 * [2025-03-11, 09:45:00](https://news.ycombinator.com/item?id=43330782) - [Fast-PNG: PNG image decoder and encoder](https://github.com/image-js/fast-png)
 * [2025-03-11, 09:20:34](https://news.ycombinator.com/item?id=43330657) - [Calendar.org](https://sourcery.zone/articles/20250311094031-calendar_org/)
 * [2025-03-11, 08:21:59](https://news.ycombinator.com/item?id=43330331) - [ESP32 Undocumented Bluetooth Commands: Clearing the Air](https://developer.espressif.com/blog/2025/03/esp32-bluetooth-clearing-the-air/)
