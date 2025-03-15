@@ -58,6 +58,7 @@
 * [2025-03-14, 08:36:08](https://news.ycombinator.com/item?id=43360642) - [I-cant-believe-its-not-webusb: Hacking around lack of WebUSB support in Firefox](https://github.com/ArcaneNibble/i-cant-believe-its-not-webusb)
 * [2025-03-14, 08:12:18](https://news.ycombinator.com/item?id=43360541) - [The End of YC](https://benn.substack.com/p/the-end-of-yc)
 * [2025-03-14, 06:30:04](https://news.ycombinator.com/item?id=43360113) - [SQL queries don't start with SELECT (2019)](https://jvns.ca/blog/2019/10/03/sql-queries-don-t-start-with-select/)
+* [2025-03-14, 06:21:42](https://news.ycombinator.com/item?id=43360079) - [Peirce Edition Project](https://peirce.indianapolis.iu.edu)
 * [2025-03-14, 06:07:55](https://news.ycombinator.com/item?id=43360024) - [Ex-Facebook director's new book paints brutal image of Mark Zuckerberg](https://www.sfgate.com/tech/article/ex-facebook-director-book-brutal-image-zuckerberg-20220239.php)
 * [2025-03-14, 03:47:22](https://news.ycombinator.com/item?id=43359417) - [Johns Hopkins University slashes 2k jobs](https://www.reuters.com/world/us/johns-hopkins-university-slashes-2000-jobs-after-trump-administration-grant-cut-2025-03-13/)
 * [2025-03-14, 03:46:11](https://news.ycombinator.com/item?id=43359412) - [Athena landed in a dark crater where the temperature was minus 280° F](https://arstechnica.com/space/2025/03/athena-landed-in-a-dark-crater-where-the-temperature-was-minus-280-f/)
