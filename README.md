@@ -2,6 +2,7 @@
 
 * [2025-03-15, 17:05:07](https://news.ycombinator.com/item?id=43373765) - [How Many Artists Did the Beatles Kill?](https://www.cantgetmuchhigher.com/p/how-many-artists-did-the-beatles)
 * [2025-03-15, 17:00:12](https://news.ycombinator.com/item?id=43373728) - [Stellar Sleep (YC S23) Is Hiring](https://www.ycombinator.com/companies/stellar-sleep/jobs/Yb9IzAW-founding-product-engineer)
+* [2025-03-15, 17:00:02](https://news.ycombinator.com/item?id=43373726) - [LearnLM: An experimental task-specific model for learning science principles](https://ai.google.dev/gemini-api/docs/learnlm)
 * [2025-03-15, 16:54:35](https://news.ycombinator.com/item?id=43373693) - [The Day Hobie Made Nixon a Surfboard](https://www.surfer.com/culture/the-day-hobie-made-nixon-a-surfboard)
 * [2025-03-15, 15:45:42](https://news.ycombinator.com/item?id=43373242) - [Show HN: A personal YouTube frontend based on yt-dlp](https://github.com/christian-fei/my-yt)
 * [2025-03-15, 15:38:22](https://news.ycombinator.com/item?id=43373196) - [Lemma for the Fundamental Theorem of Galois Theory](https://susam.net/lemma-for-ftgt.html)
@@ -12,7 +13,6 @@
 * [2025-03-15, 10:39:31](https://news.ycombinator.com/item?id=43371583) - [Arbitrary-Scale Super-Resolution with Neural Heat Fields](https://therasr.github.io/)
 * [2025-03-15, 03:12:39](https://news.ycombinator.com/item?id=43369633) - [Transformers Without Normalization](https://jiachenzhu.github.io/DyT/)
 * [2025-03-15, 02:20:07](https://news.ycombinator.com/item?id=43369354) - [Using a graphics tablet as a programming tool (2018)](https://jeandavidmoisan.com/posts/using-a-graphics-tablet-as-a-programming-tool/)
-* [2025-03-14, 23:21:18](https://news.ycombinator.com/item?id=43368365) - ['Once in a Century' Proof Settles Math's Kakeya Conjecture](https://www.quantamagazine.org/once-in-a-century-proof-settles-maths-kakeya-conjecture-20250314/)
 * [2025-03-14, 22:29:46](https://news.ycombinator.com/item?id=43367987) - [Tj-actions/changed-files GitHub Action Compromised – used by over 23K repos](https://www.stepsecurity.io/blog/harden-runner-detection-tj-actions-changed-files-action-is-compromised)
 * [2025-03-14, 19:47:12](https://news.ycombinator.com/item?id=43366479) - [Kerning, the Hard Way](https://home.octetfont.com/blog/kerning-hard.html)
 * [2025-03-14, 17:45:33](https://news.ycombinator.com/item?id=43365083) - [Decrypting encrypted files from Akira ransomware using a bunch of GPUs](https://tinyhack.com/2025/03/13/decrypting-encrypted-files-from-akira-ransomware-linux-esxi-variant-2024-using-a-bunch-of-gpus/)
