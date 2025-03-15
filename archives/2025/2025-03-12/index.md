@@ -59,5 +59,6 @@
 * [2025-03-12, 01:55:32](https://news.ycombinator.com/item?id=43339212) - [My Scammer Girlfriend: Baiting a Romance Fraudster](https://www.bentasker.co.uk/posts/blog/security/seducing-a-romance-scammer.html)
 * [2025-03-12, 01:54:35](https://news.ycombinator.com/item?id=43339206) - [Why I love Bluey (and hate Cocomelon)](https://www.readtrung.com/p/why-i-love-bluey-and-hate-cocomelon)
 * [2025-03-12, 01:46:27](https://news.ycombinator.com/item?id=43339158) - [Comma AI has sold 10K devices](https://blog.comma.ai/happy10kday/)
+* [2025-03-12, 01:32:59](https://news.ycombinator.com/item?id=43339084) - [Evidence that Neanderthal and Homo sapiens engaged in cultural exchange](https://phys.org/news/2025-03-burials-compelling-evidence-neanderthal-homo.html)
 * [2025-03-12, 00:29:54](https://news.ycombinator.com/item?id=43338684) - [What ketamine does to the human brain](https://www.theatlantic.com/health/archive/2025/03/ketamine-effects-elon-musk/681911/)
 * [2025-03-12, 00:17:34](https://news.ycombinator.com/item?id=43338596) - [Australian man survives 100 days with artificial heart in world-first success](https://www.theguardian.com/australia-news/2025/mar/12/australian-man-survives-100-days-with-artificial-heart-in-world-first-success)
