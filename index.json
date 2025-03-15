@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-15, 19:06:01",
+      "https://news.ycombinator.com/item?id=43374519"
+    ],
+    [
+      "Sign in as anyone: Bypassing SAML SSO authentication with parser differentials",
+      "https://github.blog/security/sign-in-as-anyone-bypassing-saml-sso-authentication-with-parser-differentials/"
+    ]
+  ],
+  [
+    [
       "2025-03-15, 18:15:53",
       "https://news.ycombinator.com/item?id=43374237"
     ],
@@ -287,16 +297,6 @@
     [
       "So Long and Thanks for All the Words: A Toast to Douglas Adams",
       "https://multiverseemployeehandbook.com/blog/adams-birthday-toast/"
-    ]
-  ],
-  [
-    [
-      "2025-03-10, 19:41:37",
-      "https://news.ycombinator.com/item?id=43325049"
-    ],
-    [
-      "Ask HN: Any insider takes on Yann LeCun's push against current architectures?",
-      "https://news.ycombinator.com/item?id=43325049"
     ]
   ]
 ]
