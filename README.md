@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-15, 10:09:15](https://news.ycombinator.com/item?id=43371429) - ['Microlightning' in water droplets may have sparked life on Earth](https://phys.org/news/2025-03-microlightning-droplets-life-earth.html)
 * [2025-03-15, 08:54:23](https://news.ycombinator.com/item?id=43371097) - [Nubmq: A high performant key-value store engine built from first principles](https://news.ycombinator.com/item?id=43371097)
 * [2025-03-15, 08:23:12](https://news.ycombinator.com/item?id=43370956) - [Finland's National Allergy Program Successfully Reduces Allergic Diseases](https://publications.ersnet.org/content/erj/49/6/1700470)
 * [2025-03-15, 07:00:29](https://news.ycombinator.com/item?id=43370596) - [Noloco (YC S21) Is Hiring a Product Designer in Barcelona](https://www.ycombinator.com/companies/noloco/jobs/MCp9ejT-founding-product-designer)
 * [2025-03-15, 03:12:39](https://news.ycombinator.com/item?id=43369633) - [Transformers Without Normalization](https://jiachenzhu.github.io/DyT/)
 * [2025-03-15, 02:20:07](https://news.ycombinator.com/item?id=43369354) - [Using a graphics tablet as a programming tool (2018)](https://jeandavidmoisan.com/posts/using-a-graphics-tablet-as-a-programming-tool/)
+* [2025-03-15, 01:57:59](https://news.ycombinator.com/item?id=43369230) - [Google Being Forced to Sell Chrome Is Not Good for the Web](https://chriscoyier.net/2025/03/14/google-being-forced-to-sell-chrome-is-not-good-for-the-web/)
 * [2025-03-15, 00:43:02](https://news.ycombinator.com/item?id=43368870) - [Popular GitHub Action tj-actions/changed-files is compromised](https://semgrep.dev/blog/2025/popular-github-action-tj-actionschanged-files-is-compromised/)
 * [2025-03-14, 23:21:18](https://news.ycombinator.com/item?id=43368365) - ['Once in a Century' Proof Settles Math's Kakeya Conjecture](https://www.quantamagazine.org/once-in-a-century-proof-settles-maths-kakeya-conjecture-20250314/)
 * [2025-03-14, 21:27:25](https://news.ycombinator.com/item?id=43367482) - [Show HN: Web Audio Spring-Mass Synthesis](https://blog.cochlea.xyz/string.html)
