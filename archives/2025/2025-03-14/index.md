@@ -50,6 +50,7 @@
 * [2025-03-14, 12:05:31](https://news.ycombinator.com/item?id=43361801) - [Beyond the 70%: Maximizing the human 30% of AI-assisted coding](https://addyo.substack.com/p/beyond-the-70-maximizing-the-human)
 * [2025-03-14, 12:00:33](https://news.ycombinator.com/item?id=43361773) - [Recurse Center (YC S10) Is Hiring an Office and Operations Assistant (New York)](https://recurse.notion.site/Office-Operations-Assistant-2a579bdf1d4e4baa9b6e5b7774803b70)
 * [2025-03-14, 11:55:17](https://news.ycombinator.com/item?id=43361737) - [In S3 simplicity is table stakes](https://www.allthingsdistributed.com/2025/03/in-s3-simplicity-is-table-stakes.html)
+* [2025-03-14, 11:10:12](https://news.ycombinator.com/item?id=43361440) - [Finding Signal in the Noise: Machine Learning and the Markets (Jane Street)](https://signalsandthreads.com/finding-signal-in-the-noise/)
 * [2025-03-14, 10:58:47](https://news.ycombinator.com/item?id=43361381) - [Pressure grows to hold secret Apple data privacy hearing in public](https://www.bbc.com/news/articles/c4g0rr51gn3o)
 * [2025-03-14, 10:56:02](https://news.ycombinator.com/item?id=43361366) - [Migrating from AWS to a European Cloud – How We Cut Costs by 62%](https://www.hopsworks.ai/post/migrating-from-aws-to-a-european-cloud-how-we-cut-costs-by-62)
 * [2025-03-14, 10:47:10](https://news.ycombinator.com/item?id=43361309) - [Aspartame aggravates atherosclerosis through insulin-triggered inflammation](https://www.cell.com/cell-metabolism/pdfExtended/S1550-4131(25)00006-3)
