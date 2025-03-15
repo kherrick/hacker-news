@@ -14,6 +14,7 @@
 * [2025-03-11, 20:50:39](https://news.ycombinator.com/item?id=43336872) - [India's Battle to Control the Democracy Narrative](https://www.theplankmag.com/india-democracy-narrative)
 * [2025-03-11, 20:21:43](https://news.ycombinator.com/item?id=43336609) - [Mayo Clinic's secret weapon against AI hallucinations: Reverse RAG in action](https://venturebeat.com/ai/mayo-clinic-secret-weapon-against-ai-hallucinations-reverse-rag-in-action/)
 * [2025-03-11, 19:53:24](https://news.ycombinator.com/item?id=43336381) - [\"It Has Been Determined\" That Infected Dairy Herd Serology Can Be Disclosed](https://hogvet51.substack.com/p/one-year-later-it-has-been-determined)
+* [2025-03-11, 19:11:28](https://news.ycombinator.com/item?id=43335987) - [What Bikini Atoll Looks Like Today (2017)](https://medium.com/stanford-magazine/stanford-research-on-effects-of-radioactivity-from-bikini-atoll-nuclear-tests-on-coral-and-crab-dna-48459144020c)
 * [2025-03-11, 19:08:10](https://news.ycombinator.com/item?id=43335956) - [Fridgeditions Demo \"Children's Art the World Can Enjoy\"](https://www.fridgeditions.com/)
 * [2025-03-11, 18:43:01](https://news.ycombinator.com/item?id=43335695) - [Percolation Theory [pdf]](https://web.mit.edu/ceder/publications/Percolation.pdf)
 * [2025-03-11, 18:40:54](https://news.ycombinator.com/item?id=43335679) - [How do we tell truths that might hurt?](https://www.cs.virginia.edu/~evans/cs655/readings/ewd498.html)

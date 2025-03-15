@@ -2,7 +2,7 @@
 
 * [2025-03-15, 17:05:07](https://news.ycombinator.com/item?id=43373765) - [How Many Artists Did the Beatles Kill?](https://www.cantgetmuchhigher.com/p/how-many-artists-did-the-beatles)
 * [2025-03-15, 17:00:12](https://news.ycombinator.com/item?id=43373728) - [Stellar Sleep (YC S23) Is Hiring](https://www.ycombinator.com/companies/stellar-sleep/jobs/Yb9IzAW-founding-product-engineer)
-* [2025-03-15, 17:00:02](https://news.ycombinator.com/item?id=43373726) - [LearnLM: An experimental task-specific model for learning science principles](https://ai.google.dev/gemini-api/docs/learnlm)
+* [2025-03-15, 17:00:02](https://news.ycombinator.com/item?id=43373726) - [LearnLM: An experimental task-specific model for learning science principles (2024)](https://ai.google.dev/gemini-api/docs/learnlm)
 * [2025-03-15, 16:54:35](https://news.ycombinator.com/item?id=43373693) - [The Day Hobie Made Nixon a Surfboard](https://www.surfer.com/culture/the-day-hobie-made-nixon-a-surfboard)
 * [2025-03-15, 15:45:42](https://news.ycombinator.com/item?id=43373242) - [Show HN: A personal YouTube frontend based on yt-dlp](https://github.com/christian-fei/my-yt)
 * [2025-03-15, 15:38:22](https://news.ycombinator.com/item?id=43373196) - [Lemma for the Fundamental Theorem of Galois Theory](https://susam.net/lemma-for-ftgt.html)
@@ -25,11 +25,11 @@
 * [2025-03-14, 03:46:11](https://news.ycombinator.com/item?id=43359412) - [Athena landed in a dark crater where the temperature was -280° F / -173° C](https://arstechnica.com/space/2025/03/athena-landed-in-a-dark-crater-where-the-temperature-was-minus-280-f/)
 * [2025-03-11, 20:53:45](https://news.ycombinator.com/item?id=43336892) - [Show HN: Metacheck – preview how any link appears on social media and chat apps](https://metacheck.appstate.co/)
 * [2025-03-11, 20:21:43](https://news.ycombinator.com/item?id=43336609) - [Mayo Clinic's secret weapon against AI hallucinations: Reverse RAG in action](https://venturebeat.com/ai/mayo-clinic-secret-weapon-against-ai-hallucinations-reverse-rag-in-action/)
+* [2025-03-11, 19:11:28](https://news.ycombinator.com/item?id=43335987) - [What Bikini Atoll Looks Like Today (2017)](https://medium.com/stanford-magazine/stanford-research-on-effects-of-radioactivity-from-bikini-atoll-nuclear-tests-on-coral-and-crab-dna-48459144020c)
 * [2025-03-11, 17:49:15](https://news.ycombinator.com/item?id=43335144) - [Can a Geothermal Startup Vaporize Rock to Drill the Deepest Holes?](https://www.msn.com/en-us/money/markets/can-a-geothermal-startup-vaporize-rock-to-drill-the-deepest-holes-ever/ar-AA1AoaWT)
 * [2025-03-11, 16:15:02](https://news.ycombinator.com/item?id=43333975) - [Computers and Mice – Mister Rogers Neighborhood](https://misterrogers.org/episodes/computers-and-mice/)
 * [2025-03-11, 12:40:55](https://news.ycombinator.com/item?id=43331847) - [RubyLLM: A delightful Ruby way to work with AI](https://github.com/crmne/ruby_llm)
 * [2025-03-11, 12:18:25](https://news.ycombinator.com/item?id=43331706) - [So Long and Thanks for All the Words: A Toast to Douglas Adams](https://multiverseemployeehandbook.com/blog/adams-birthday-toast/)
-* [2025-03-10, 19:41:37](https://news.ycombinator.com/item?id=43325049) - [Ask HN: Any insider takes on Yann LeCun's push against current architectures?](https://news.ycombinator.com/item?id=43325049)
 
 ## [Archives](archives/index.md)
 
