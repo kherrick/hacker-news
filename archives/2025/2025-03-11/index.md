@@ -60,6 +60,7 @@
 * [2025-03-11, 11:10:38](https://news.ycombinator.com/item?id=43331264) - [Nvidia-backed AI firm signs $12B AI cloud deal with OpenAI](https://www.techinasia.com/news/nvidia-backed-ai-firm-signs-12b-ai-cloud-deal-with-openai)
 * [2025-03-11, 11:05:10](https://news.ycombinator.com/item?id=43331231) - [Carlos Slim Cancels $22B in Starlink Orders](https://cleantechnica.com/2025/03/10/billionaire-carlos-slim-cancels-22-billion-in-starlink-orders-due-to-elon-musks-outburst/)
 * [2025-03-11, 11:02:09](https://news.ycombinator.com/item?id=43331215) - [COBOL Language Front End Merged for GCC 15 Compiler](https://www.phoronix.com/news/GCC-15-Merges-COBOL)
+* [2025-03-11, 10:31:53](https://news.ycombinator.com/item?id=43331048) - [Fitness Trackers Are Only 67% Accurate, New Research Finds](https://wellnesspulse.com/research/accuracy-of-fitness-trackers/)
 * [2025-03-11, 10:15:21](https://news.ycombinator.com/item?id=43330954) - [Why do some birds mimic the sounds of other species?](https://www.allaboutbirds.org/news/why-do-some-birds-mimic-the-sounds-of-other-species/)
 * [2025-03-11, 10:07:17](https://news.ycombinator.com/item?id=43330900) - [What Makes Code Hard to Read: Visual Patterns of Complexity (2023)](https://seeinglogic.com/posts/visual-readability-patterns/)
 * [2025-03-11, 09:48:14](https://news.ycombinator.com/item?id=43330796) - [Switching to BunnyCDN in Less Than 2 Hours](https://jonathan-frere.com/posts/switching-to-bunny-cdn)
