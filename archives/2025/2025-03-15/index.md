@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-15](index.md)
 
+* [2025-03-15, 17:05:07](https://news.ycombinator.com/item?id=43373765) - [How Many Artists Did the Beatles Kill?](https://www.cantgetmuchhigher.com/p/how-many-artists-did-the-beatles)
+* [2025-03-15, 17:00:12](https://news.ycombinator.com/item?id=43373728) - [Stellar Sleep (YC S23) Is Hiring](https://www.ycombinator.com/companies/stellar-sleep/jobs/Yb9IzAW-founding-product-engineer)
+* [2025-03-15, 16:54:35](https://news.ycombinator.com/item?id=43373693) - [The Day Hobie Made Nixon a Surfboard](https://www.surfer.com/culture/the-day-hobie-made-nixon-a-surfboard)
 * [2025-03-15, 15:45:42](https://news.ycombinator.com/item?id=43373242) - [Show HN: A personal YouTube frontend based on yt-dlp](https://github.com/christian-fei/my-yt)
 * [2025-03-15, 15:38:22](https://news.ycombinator.com/item?id=43373196) - [Lemma for the Fundamental Theorem of Galois Theory](https://susam.net/lemma-for-ftgt.html)
 * [2025-03-15, 15:33:21](https://news.ycombinator.com/item?id=43373163) - [Show HN: Fashion Shopping with Nearest Neighbors](https://vibewall.shop/)
