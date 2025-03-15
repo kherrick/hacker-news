@@ -49,6 +49,7 @@
 * [2025-03-12, 06:39:17](https://news.ycombinator.com/item?id=43340491) - [Gemma 3 Technical Report [pdf]](https://storage.googleapis.com/deepmind-media/gemma/Gemma3Report.pdf)
 * [2025-03-12, 06:37:55](https://news.ycombinator.com/item?id=43340487) - [First official release of LLVM Flang](https://blog.llvm.org/posts/2025-03-11-flang-new/)
 * [2025-03-12, 06:11:41](https://news.ycombinator.com/item?id=43340385) - [A more robust raw OpenBSD syscall demo](https://nullprogram.com/blog/2025/03/06/)
+* [2025-03-12, 05:27:40](https://news.ycombinator.com/item?id=43340222) - [An Egyptian Temple Reborn](https://archaeology.org/issues/march-april-2025/features/an-egyptian-temple-reborn/)
 * [2025-03-12, 05:21:33](https://news.ycombinator.com/item?id=43340196) - [The Insecurity of Telecom Stacks in the Wake of Salt Typhoon](https://soatok.blog/2025/03/12/on-the-insecurity-of-telecom-stacks-in-the-wake-of-salt-typhoon/)
 * [2025-03-12, 03:56:59](https://news.ycombinator.com/item?id=43339829) - [Mozilla's response to proposed remedies in U.S. vs. Google](https://blog.mozilla.org/en/mozilla/internet-policy/proposed-remedies-browsers/)
 * [2025-03-12, 03:16:28](https://news.ycombinator.com/item?id=43339629) - [Show HN: XPipe, a shell connection hub for SSH, Docker, K8s, VMs, and more](https://xpipe.io/)
