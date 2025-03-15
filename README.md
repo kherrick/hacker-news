@@ -25,7 +25,7 @@
 * [2025-03-14, 12:07:06](https://news.ycombinator.com/item?id=43361822) - [Apple will soon support encrypted RCS messaging with Android users](https://www.theverge.com/news/629620/apple-iphone-e2ee-encryption-rcs-messaging-android)
 * [2025-03-14, 03:46:11](https://news.ycombinator.com/item?id=43359412) - [Athena landed in a dark crater where the temperature was minus 280° F / 173° C](https://arstechnica.com/space/2025/03/athena-landed-in-a-dark-crater-where-the-temperature-was-minus-280-f/)
 * [2025-03-13, 06:02:28](https://news.ycombinator.com/item?id=43350733) - [Rembrandt to Picasso: Five ways to spot a fake masterpiece](https://www.bbc.com/culture/article/20250311-rembrandt-to-picasso-five-ways-to-spot-a-fake-masterpiece)
-* [2025-03-12, 05:27:40](https://news.ycombinator.com/item?id=43340222) - [An Egyptian Temple Reborn](https://archaeology.org/issues/march-april-2025/features/an-egyptian-temple-reborn/)
+* [2025-03-12, 20:49:38](https://news.ycombinator.com/item?id=43347524) - [Show HN: OCR Benchmark Focusing on Automation](https://nanonets.com/automation-benchmark)
 * [2025-03-11, 12:52:05](https://news.ycombinator.com/item?id=43331925) - [Show HN: Online Python Compiler with Libraries](https://cliprun.com/online-python-compiler-with-libraries)
 * [2025-03-11, 12:40:55](https://news.ycombinator.com/item?id=43331847) - [RubyLLM: A delightful Ruby way to work with AI](https://github.com/crmne/ruby_llm)
 * [2025-03-11, 12:14:13](https://news.ycombinator.com/item?id=43331673) - [Owl: Optimized Workforce Learning for multi-agent collaboration](https://github.com/camel-ai/owl)
