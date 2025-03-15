@@ -1,22 +1,52 @@
 [
   [
     [
+      "2025-03-15, 00:43:02",
+      "https://news.ycombinator.com/item?id=43368870"
+    ],
+    [
+      "Popular GitHub Action tj-actions/changed-files is compromised",
+      "https://semgrep.dev/blog/2025/popular-github-action-tj-actionschanged-files-is-compromised/"
+    ]
+  ],
+  [
+    [
+      "2025-03-15, 00:27:09",
+      "https://news.ycombinator.com/item?id=43368765"
+    ],
+    [
+      "From QED to Neovim",
+      "https://l-o-o-s-e-d.net/qed-neovim"
+    ]
+  ],
+  [
+    [
+      "2025-03-14, 23:21:18",
+      "https://news.ycombinator.com/item?id=43368365"
+    ],
+    [
+      "'Once in a Century' Proof Settles Math's Kakeya Conjecture",
+      "https://www.quantamagazine.org/once-in-a-century-proof-settles-maths-kakeya-conjecture-20250314/"
+    ]
+  ],
+  [
+    [
+      "2025-03-14, 23:15:20",
+      "https://news.ycombinator.com/item?id=43368327"
+    ],
+    [
+      "Show HN: Open-Source MCP Server for Context and AI Tools",
+      "https://news.ycombinator.com/item?id=43368327"
+    ]
+  ],
+  [
+    [
       "2025-03-14, 22:53:58",
       "https://news.ycombinator.com/item?id=43368183"
     ],
     [
       "New York Times shut down Tor Onion service",
       "https://open.nytimes.com/https-open-nytimes-com-the-new-york-times-as-a-tor-onion-service-e0d0b67b7482"
-    ]
-  ],
-  [
-    [
-      "2025-03-14, 21:33:28",
-      "https://news.ycombinator.com/item?id=43367536"
-    ],
-    [
-      "Everything you say to your Echo will be sent to Amazon starting on March 28",
-      "https://arstechnica.com/gadgets/2025/03/everything-you-say-to-your-echo-will-be-sent-to-amazon-starting-on-march-28/"
     ]
   ],
   [
@@ -37,16 +67,6 @@
     [
       "GCVR (YC W22) is hiring a lead technical artist",
       "https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/gfrf9Cu-lead-technical-artist-staff-principal"
-    ]
-  ],
-  [
-    [
-      "2025-03-14, 19:52:17",
-      "https://news.ycombinator.com/item?id=43366530"
-    ],
-    [
-      "FBI, EPA, and Treasury told Citibank to freeze funds to claw back climate money",
-      "https://techcrunch.com/2025/03/13/fbi-epa-and-treasury-told-citibank-to-freeze-funds-as-trump-administration-tries-to-claw-back-climate-money/"
     ]
   ],
   [
@@ -77,6 +97,16 @@
     [
       "Decrypting encrypted files from Akira ransomware using a bunch of GPUs",
       "https://tinyhack.com/2025/03/13/decrypting-encrypted-files-from-akira-ransomware-linux-esxi-variant-2024-using-a-bunch-of-gpus/"
+    ]
+  ],
+  [
+    [
+      "2025-03-14, 17:12:18",
+      "https://news.ycombinator.com/item?id=43364715"
+    ],
+    [
+      "The curious surge of productivity in U.S. restaurants",
+      "https://bfi.uchicago.edu/working-papers/the-curious-surge-of-productivity-in-u-s-restaurants/"
     ]
   ],
   [
@@ -117,16 +147,6 @@
     [
       "Why do transit agencies keep falling for the hydrogen bus myth?",
       "https://cleantechnica.com/2025/03/13/why-do-transit-agencies-keep-falling-for-the-hydrogen-bus-myth/"
-    ]
-  ],
-  [
-    [
-      "2025-03-14, 15:01:01",
-      "https://news.ycombinator.com/item?id=43363276"
-    ],
-    [
-      "Show HN: CodeVideo – Two years in the making to build an event-sourced IDE",
-      "https://studio.codevideo.io"
     ]
   ],
   [
@@ -191,31 +211,11 @@
   ],
   [
     [
-      "2025-03-14, 09:23:58",
-      "https://news.ycombinator.com/item?id=43360894"
-    ],
-    [
-      "AMD's Strix Halo under the hood",
-      "https://chipsandcheese.com/p/amds-strix-halo-under-the-hood"
-    ]
-  ],
-  [
-    [
-      "2025-03-14, 08:36:08",
-      "https://news.ycombinator.com/item?id=43360642"
-    ],
-    [
-      "I-cant-believe-its-not-webusb: Hacking around lack of WebUSB support in Firefox",
-      "https://github.com/ArcaneNibble/i-cant-believe-its-not-webusb"
-    ]
-  ],
-  [
-    [
       "2025-03-14, 03:46:11",
       "https://news.ycombinator.com/item?id=43359412"
     ],
     [
-      "Athena landed in a dark crater where the temperature was minus 280° F",
+      "Athena landed in a dark crater where the temperature was minus 280° F / 173° C",
       "https://arstechnica.com/space/2025/03/athena-landed-in-a-dark-crater-where-the-temperature-was-minus-280-f/"
     ]
   ],
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2025-03-12, 01:55:32",
-      "https://news.ycombinator.com/item?id=43339212"
+      "2025-03-12, 05:27:40",
+      "https://news.ycombinator.com/item?id=43340222"
     ],
     [
-      "My Scammer Girlfriend: Baiting a Romance Fraudster",
-      "https://www.bentasker.co.uk/posts/blog/security/seducing-a-romance-scammer.html"
+      "An Egyptian Temple Reborn",
+      "https://archaeology.org/issues/march-april-2025/features/an-egyptian-temple-reborn/"
     ]
   ],
   [
