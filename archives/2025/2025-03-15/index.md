@@ -6,6 +6,7 @@
 
 * [2025-03-15, 10:09:15](https://news.ycombinator.com/item?id=43371429) - ['Microlightning' in water droplets may have sparked life on Earth](https://phys.org/news/2025-03-microlightning-droplets-life-earth.html)
 * [2025-03-15, 08:54:23](https://news.ycombinator.com/item?id=43371097) - [Nubmq: A high performant key-value store engine built from first principles](https://news.ycombinator.com/item?id=43371097)
+* [2025-03-15, 08:23:12](https://news.ycombinator.com/item?id=43370956) - [Finland's National Allergy Program Successfully Reduces Allergic Diseases](https://publications.ersnet.org/content/erj/49/6/1700470)
 * [2025-03-15, 08:21:58](https://news.ycombinator.com/item?id=43370950) - [Tesla is done in Germany: 94% say they won't buy a Tesla car](https://electrek.co/2025/03/14/tesla-is-done-in-germany-94-say-they-wont-buy-a-tesla-car/)
 * [2025-03-15, 07:00:29](https://news.ycombinator.com/item?id=43370596) - [Noloco (YC S21) Is Hiring a Product Designer in Barcelona](https://www.ycombinator.com/companies/noloco/jobs/MCp9ejT-founding-product-designer)
 * [2025-03-15, 03:41:27](https://news.ycombinator.com/item?id=43369791) - [Experts warn about the 'crumbling infrastructure' of federal government data](https://www.npr.org/2025/01/24/nx-s1-5250264/unemployment-rate-cpi-inflation-census-bureau-labor-statistics)
