@@ -46,6 +46,7 @@
 * [2025-03-12, 07:48:15](https://news.ycombinator.com/item?id=43340785) - [Gemma3 – The current strongest model that fits on a single GPU](https://ollama.com/library/gemma3)
 * [2025-03-12, 07:38:35](https://news.ycombinator.com/item?id=43340731) - [I stopped everything and started writing C again](https://www.kmx.io/blog/why-stopped-everything-and-started-writing-C-again)
 * [2025-03-12, 07:21:28](https://news.ycombinator.com/item?id=43340662) - [I use Cursor daily - here's how I avoid the garbage parts](https://www.nickcraux.com/blog/cursor-tips)
+* [2025-03-12, 07:20:05](https://news.ycombinator.com/item?id=43340651) - [Wyvern's Open Satellite Feed](https://tech.marksblogg.com/wyvern-open-data-feed.html)
 * [2025-03-12, 06:43:07](https://news.ycombinator.com/item?id=43340505) - [Azure's Weakest Link? How API Connections Spill Secrets](https://binarysecurity.no/posts/2025/03/api-connections)
 * [2025-03-12, 06:39:17](https://news.ycombinator.com/item?id=43340491) - [Gemma 3 Technical Report [pdf]](https://storage.googleapis.com/deepmind-media/gemma/Gemma3Report.pdf)
 * [2025-03-12, 06:37:55](https://news.ycombinator.com/item?id=43340487) - [First official release of LLVM Flang](https://blog.llvm.org/posts/2025-03-11-flang-new/)
