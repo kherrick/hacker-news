@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-15, 15:45:42](https://news.ycombinator.com/item?id=43373242) - [Show HN: A personal YouTube frontend based on yt-dlp](https://github.com/christian-fei/my-yt)
 * [2025-03-15, 15:38:22](https://news.ycombinator.com/item?id=43373196) - [Lemma for the Fundamental Theorem of Galois Theory](https://susam.net/lemma-for-ftgt.html)
 * [2025-03-15, 15:33:21](https://news.ycombinator.com/item?id=43373163) - [Show HN: Fashion Shopping with Nearest Neighbors](https://vibewall.shop/)
 * [2025-03-15, 15:32:02](https://news.ycombinator.com/item?id=43373157) - [Milk Kanban](https://brodzinski.com/2025/03/milk-kanban.html)
@@ -15,10 +16,10 @@
 * [2025-03-14, 17:45:33](https://news.ycombinator.com/item?id=43365083) - [Decrypting encrypted files from Akira ransomware using a bunch of GPUs](https://tinyhack.com/2025/03/13/decrypting-encrypted-files-from-akira-ransomware-linux-esxi-variant-2024-using-a-bunch-of-gpus/)
 * [2025-03-14, 17:12:18](https://news.ycombinator.com/item?id=43364715) - [The curious surge of productivity in U.S. restaurants](https://bfi.uchicago.edu/working-papers/the-curious-surge-of-productivity-in-u-s-restaurants/)
 * [2025-03-14, 15:03:01](https://news.ycombinator.com/item?id=43363293) - [Why do transit agencies keep falling for the hydrogen bus myth?](https://cleantechnica.com/2025/03/13/why-do-transit-agencies-keep-falling-for-the-hydrogen-bus-myth/)
-* [2025-03-14, 14:58:32](https://news.ycombinator.com/item?id=43363247) - [Block Diffusion: Interpolating between autoregressive and diffusion models](https://arxiv.org/abs/2503.09573)
 * [2025-03-14, 14:39:00](https://news.ycombinator.com/item?id=43363056) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=43363056)
 * [2025-03-14, 14:36:23](https://news.ycombinator.com/item?id=43363031) - [Briar: Peer to Peer Encrypted Messaging](https://briarproject.org/how-it-works/)
 * [2025-03-14, 12:25:04](https://news.ycombinator.com/item?id=43361959) - [A look at Firefox forks](https://lwn.net/Articles/1012453/)
+* [2025-03-14, 08:55:18](https://news.ycombinator.com/item?id=43360724) - [Celebrating 8 years of self-hosting Mail-in-a-Box – nilsnh.no](https://nilsnh.no/2023/09/02/celebrating-8-years-of-self-hosting-mail-in-a-box/)
 * [2025-03-14, 06:21:42](https://news.ycombinator.com/item?id=43360079) - [Peirce Edition Project](https://peirce.indianapolis.iu.edu)
 * [2025-03-14, 03:46:11](https://news.ycombinator.com/item?id=43359412) - [Athena landed in a dark crater where the temperature was -280° F / -173° C](https://arstechnica.com/space/2025/03/athena-landed-in-a-dark-crater-where-the-temperature-was-minus-280-f/)
 * [2025-03-13, 21:31:53](https://news.ycombinator.com/item?id=43357420) - [Sketch-Programming: A Minimalist Paradigm for Code Design](https://github.com/DmitryOlkhovoi/Sketch-programming)
@@ -28,7 +29,6 @@
 * [2025-03-11, 16:15:02](https://news.ycombinator.com/item?id=43333975) - [Computers and Mice – Mister Rogers Neighborhood](https://misterrogers.org/episodes/computers-and-mice/)
 * [2025-03-11, 12:40:55](https://news.ycombinator.com/item?id=43331847) - [RubyLLM: A delightful Ruby way to work with AI](https://github.com/crmne/ruby_llm)
 * [2025-03-11, 12:18:25](https://news.ycombinator.com/item?id=43331706) - [So Long and Thanks for All the Words: A Toast to Douglas Adams](https://multiverseemployeehandbook.com/blog/adams-birthday-toast/)
-* [2025-03-11, 10:15:21](https://news.ycombinator.com/item?id=43330954) - [Why do some birds mimic the sounds of other species?](https://www.allaboutbirds.org/news/why-do-some-birds-mimic-the-sounds-of-other-species/)
 * [2025-03-10, 19:41:37](https://news.ycombinator.com/item?id=43325049) - [Ask HN: Any insider takes on Yann LeCun's push against current architectures?](https://news.ycombinator.com/item?id=43325049)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-15](index.md)
 
+* [2025-03-15, 15:45:42](https://news.ycombinator.com/item?id=43373242) - [Show HN: A personal YouTube frontend based on yt-dlp](https://github.com/christian-fei/my-yt)
 * [2025-03-15, 15:38:22](https://news.ycombinator.com/item?id=43373196) - [Lemma for the Fundamental Theorem of Galois Theory](https://susam.net/lemma-for-ftgt.html)
 * [2025-03-15, 15:33:21](https://news.ycombinator.com/item?id=43373163) - [Show HN: Fashion Shopping with Nearest Neighbors](https://vibewall.shop/)
 * [2025-03-15, 15:32:02](https://news.ycombinator.com/item?id=43373157) - [Milk Kanban](https://brodzinski.com/2025/03/milk-kanban.html)
