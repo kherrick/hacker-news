@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2025-03-14, 23:15:20",
-      "https://news.ycombinator.com/item?id=43368327"
-    ],
-    [
-      "Show HN: Open-Source MCP Server for Context and AI Tools",
-      "https://news.ycombinator.com/item?id=43368327"
-    ]
-  ],
-  [
-    [
       "2025-03-14, 22:53:58",
       "https://news.ycombinator.com/item?id=43368183"
     ],
@@ -277,6 +267,16 @@
     [
       "RubyLLM: A delightful Ruby way to work with AI",
       "https://github.com/crmne/ruby_llm"
+    ]
+  ],
+  [
+    [
+      "2025-03-11, 12:14:13",
+      "https://news.ycombinator.com/item?id=43331673"
+    ],
+    [
+      "Owl: Optimized Workforce Learning for multi-agent collaboration",
+      "https://github.com/camel-ai/owl"
     ]
   ],
   [
