@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-16, 03:32:04",
+      "https://news.ycombinator.com/item?id=43376769"
+    ],
+    [
+      "Decoding JSON sum types in Go without panicking",
+      "https://nicolashery.com/decoding-json-sum-types-in-go/"
+    ]
+  ],
+  [
+    [
       "2025-03-16, 00:07:03",
       "https://news.ycombinator.com/item?id=43376033"
     ],
@@ -107,16 +117,6 @@
     [
       "Lemma for the Fundamental Theorem of Galois Theory",
       "https://susam.net/lemma-for-ftgt.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-15, 15:33:21",
-      "https://news.ycombinator.com/item?id=43373163"
-    ],
-    [
-      "Show HN: Fashion Shopping with Nearest Neighbors",
-      "https://vibewall.shop/"
     ]
   ],
   [
