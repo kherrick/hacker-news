@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-03-16, 02:31:29",
-      "https://news.ycombinator.com/item?id=43376569"
+      "2025-03-16, 02:09:19",
+      "https://news.ycombinator.com/item?id=43376483"
     ],
     [
-      "Modern Agile is Stupid: on why all great ideas are killed by idiots",
-      "https://medium.com/@thecodingteacher_52591/modern-agile-is-stupid-on-why-all-great-ideas-are-killed-by-simple-minded-idiots-why-jira-kills-02080b937de2"
+      "Imagine an Agent that can hot-reload tools. Open-source",
+      "https://github.com/ShaojieJiang/extendable-agent"
+    ]
+  ],
+  [
+    [
+      "2025-03-16, 00:07:03",
+      "https://news.ycombinator.com/item?id=43376033"
+    ],
+    [
+      "Apple's long-lost hidden recovery partition from 1994 has been found",
+      "https://www.downtowndougbrown.com/2025/03/apples-long-lost-hidden-recovery-partition-from-1994-has-been-found/"
+    ]
+  ],
+  [
+    [
+      "2025-03-15, 23:41:44",
+      "https://news.ycombinator.com/item?id=43375923"
+    ],
+    [
+      "Career Advice in 2025",
+      "https://lethain.com/career-advice-2025/"
     ]
   ],
   [
@@ -81,26 +101,6 @@
   ],
   [
     [
-      "2025-03-15, 17:05:07",
-      "https://news.ycombinator.com/item?id=43373765"
-    ],
-    [
-      "How many artists' careers did the Beatles kill?",
-      "https://www.cantgetmuchhigher.com/p/how-many-artists-did-the-beatles"
-    ]
-  ],
-  [
-    [
-      "2025-03-15, 16:54:35",
-      "https://news.ycombinator.com/item?id=43373693"
-    ],
-    [
-      "The Day Hobie Made Nixon a Surfboard",
-      "https://www.surfer.com/culture/the-day-hobie-made-nixon-a-surfboard"
-    ]
-  ],
-  [
-    [
       "2025-03-15, 15:45:42",
       "https://news.ycombinator.com/item?id=43373242"
     ],
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2025-03-14, 13:52:34",
+      "https://news.ycombinator.com/item?id=43362659"
+    ],
+    [
+      "I outsourced my memory to an AI pin and all I got was fanfiction",
+      "https://www.theverge.com/reviews/627056/bee-review-ai-wearable"
+    ]
+  ],
+  [
+    [
       "2025-03-14, 12:25:04",
       "https://news.ycombinator.com/item?id=43361959"
     ],
@@ -207,16 +217,6 @@
     [
       "Lego says it wants to start to bring video game development in-house",
       "https://www.videogameschronicle.com/news/lego-is-starting-to-bring-its-game-development-in-house-key-exec-says/"
-    ]
-  ],
-  [
-    [
-      "2025-03-12, 23:49:58",
-      "https://news.ycombinator.com/item?id=43348932"
-    ],
-    [
-      "A Polyomino Tiling Algorithm (2018)",
-      "https://gfredericks.com/blog/99"
     ]
   ],
   [
