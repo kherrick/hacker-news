@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-16, 21:17:03](https://news.ycombinator.com/item?id=43382392) - [Microsoft paywalling features in Notepad and Paint](https://www.pcworld.com/article/2614943/microsoft-is-paywalling-these-features-in-notepad-and-paint.html)
 * [2025-03-16, 21:09:46](https://news.ycombinator.com/item?id=43382344) - [Who Is Free Software For?](https://tante.cc/2025/03/03/who-is-free-software-for/)
 * [2025-03-16, 21:00:22](https://news.ycombinator.com/item?id=43382261) - [Kastle (YC S24) Is Hiring Engineer #3](https://www.ycombinator.com/companies/kastle/jobs/XSq5nJT-founding-applied-ai-engineer-at-kastle)
+* [2025-03-16, 20:45:17](https://news.ycombinator.com/item?id=43382135) - [Urbandead MMORPG (zombies and humans, made by 1 person) dead to moderarion laws](https://www.urbandead.com/)
 * [2025-03-16, 20:40:27](https://news.ycombinator.com/item?id=43382093) - [Military grade sonic weapon is used against protesters in Serbia](https://twitter.com/nexta_tv/status/1901244199220982213)
 * [2025-03-16, 19:49:02](https://news.ycombinator.com/item?id=43381627) - [Everything Picolisp can do, and more](https://picolisp.com/wiki/?Documentation)
 * [2025-03-16, 19:35:07](https://news.ycombinator.com/item?id=43381512) - [Zlib-rs is faster than C](https://trifectatech.org/blog/zlib-rs-is-faster-than-c/)
