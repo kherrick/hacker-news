@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-03-16, 18:28:47",
-      "https://news.ycombinator.com/item?id=43381043"
+      "2025-03-16, 18:11:11",
+      "https://news.ycombinator.com/item?id=43380930"
     ],
     [
-      "US deports Venezuelans despite court order",
-      "https://www.bbc.com/news/articles/cp9yv1gnzyvo"
+      "Our Interfaces Have Lost Their Senses",
+      "https://wattenberger.com/thoughts/our-interfaces-have-lost-their-senses"
+    ]
+  ],
+  [
+    [
+      "2025-03-16, 17:55:42",
+      "https://news.ycombinator.com/item?id=43380833"
+    ],
+    [
+      "Teach, Don't Tell (2013)",
+      "https://stevelosh.com/blog/2013/09/teach-dont-tell/"
     ]
   ],
   [
@@ -47,16 +57,6 @@
     [
       "Meticulous (YC S21) is hiring to eliminate E2E UI tests",
       "https://news.ycombinator.com/item?id=43380440"
-    ]
-  ],
-  [
-    [
-      "2025-03-16, 14:36:29",
-      "https://news.ycombinator.com/item?id=43379395"
-    ],
-    [
-      "Show HN: I Built a Customer Feedback Tool",
-      "https://usefeedlyst.com"
     ]
   ],
   [
@@ -111,22 +111,22 @@
   ],
   [
     [
+      "2025-03-16, 11:45:13",
+      "https://news.ycombinator.com/item?id=43378266"
+    ],
+    [
+      "zlib-ng: zlib replacement with optimizations for \"next generation\" systems",
+      "https://github.com/zlib-ng/zlib-ng"
+    ]
+  ],
+  [
+    [
       "2025-03-16, 11:38:52",
       "https://news.ycombinator.com/item?id=43378239"
     ],
     [
       "Docs – Open source alternative to Notion or Outline",
       "https://github.com/suitenumerique/docs"
-    ]
-  ],
-  [
-    [
-      "2025-03-16, 11:35:22",
-      "https://news.ycombinator.com/item?id=43378225"
-    ],
-    [
-      "Styling an HTML dialog modal to take the full height of the viewport",
-      "https://til.simonwillison.net/css/dialog-full-height"
     ]
   ],
   [
