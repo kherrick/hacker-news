@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-03-16, 21:00:22",
+      "https://news.ycombinator.com/item?id=43382261"
+    ],
+    [
+      "Kastle (YC S24) Is Hiring Engineer #3",
+      "https://www.ycombinator.com/companies/kastle/jobs/XSq5nJT-founding-applied-ai-engineer-at-kastle"
+    ]
+  ],
+  [
+    [
+      "2025-03-16, 20:40:27",
+      "https://news.ycombinator.com/item?id=43382093"
+    ],
+    [
+      "Military grade sonic weapon is used against protesters in Serbia",
+      "https://twitter.com/nexta_tv/status/1901244199220982213"
+    ]
+  ],
+  [
+    [
+      "2025-03-16, 20:31:18",
+      "https://news.ycombinator.com/item?id=43382014"
+    ],
+    [
+      "Leaked Apple meeting shows how dire the Siri situation is",
+      "https://www.theverge.com/news/629940/apple-siri-robby-walker-delayed-ai-features"
+    ]
+  ],
+  [
+    [
       "2025-03-16, 19:49:02",
       "https://news.ycombinator.com/item?id=43381627"
     ],
@@ -27,16 +57,6 @@
     [
       "Tänzer: The lovable web server framework for Tcl",
       "https://tanzer.io/"
-    ]
-  ],
-  [
-    [
-      "2025-03-16, 18:51:58",
-      "https://news.ycombinator.com/item?id=43381215"
-    ],
-    [
-      "AI Is Making Developers Dumb",
-      "https://eli.cx/blog/ai-is-making-developers-dumb"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2025-03-16, 17:00:53",
-      "https://news.ycombinator.com/item?id=43380440"
-    ],
-    [
-      "Meticulous (YC S21) is hiring to eliminate E2E UI tests",
-      "https://news.ycombinator.com/item?id=43380440"
-    ]
-  ],
-  [
-    [
       "2025-03-16, 15:46:28",
       "https://news.ycombinator.com/item?id=43379917"
     ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2025-03-16, 08:48:09",
-      "https://news.ycombinator.com/item?id=43377690"
-    ],
-    [
-      "Show HN: My high school team’s space probe",
-      "https://drive.google.com/file/d/1_9V6lBTIfDsPdKCohQBc5Ed5UzDbnsrI/view?usp=sharing"
-    ]
-  ],
-  [
-    [
       "2025-03-16, 03:37:47",
       "https://news.ycombinator.com/item?id=43376793"
     ],
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2025-03-14, 13:53:10",
-      "https://news.ycombinator.com/item?id=43362667"
-    ],
-    [
-      "High-performance computing, with much less code",
-      "https://news.mit.edu/2025/high-performance-computing-with-much-less-code-0313"
-    ]
-  ],
-  [
-    [
       "2025-03-14, 05:39:43",
       "https://news.ycombinator.com/item?id=43359905"
     ],
@@ -297,6 +287,16 @@
     [
       "A Guide to Undefined Behavior in C and C++ (2010)",
       "https://blog.regehr.org/archives/213"
+    ]
+  ],
+  [
+    [
+      "2025-03-13, 00:30:19",
+      "https://news.ycombinator.com/item?id=43349204"
+    ],
+    [
+      "Laplacian Mesh Smoothing by Throwing Vertices",
+      "https://nosferalatu.com/./LaplacianMeshSmoothing.html"
     ]
   ]
 ]
