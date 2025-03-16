@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-16, 16:04:27](https://news.ycombinator.com/item?id=43380069) - [Media Blackout: America's Poorest Counties Devastated by Catastrophic Flooding](https://www.youtube.com/watch?v=gRvbdidqAhs)
 * [2025-03-16, 14:36:29](https://news.ycombinator.com/item?id=43379395) - [Show HN: I Built a Customer Feedback Tool](https://usefeedlyst.com)
 * [2025-03-16, 14:20:02](https://news.ycombinator.com/item?id=43379262) - [DiceDB](https://dicedb.io/)
 * [2025-03-16, 13:56:26](https://news.ycombinator.com/item?id=43379119) - [Male octopus injects female with venom during sex to avoid being eaten](https://www.newscientist.com/article/2471120-male-octopus-injects-female-with-venom-during-sex-to-avoid-being-eaten/)
@@ -10,7 +11,6 @@
 * [2025-03-16, 12:01:04](https://news.ycombinator.com/item?id=43378329) - [Lago (Open-Source Usage Based Billing)Is Hiring Sr Ruby Engineers (Latam)](https://jobs.lever.co/getlago/42f45126-a365-4f03-9736-565b26bc62f5)
 * [2025-03-16, 11:38:52](https://news.ycombinator.com/item?id=43378239) - [Docs – Open source alternative to Notion or Outline](https://github.com/suitenumerique/docs)
 * [2025-03-16, 11:35:22](https://news.ycombinator.com/item?id=43378225) - [Styling an HTML dialog modal to take the full height of the viewport](https://til.simonwillison.net/css/dialog-full-height)
-* [2025-03-16, 11:20:44](https://news.ycombinator.com/item?id=43378157) - [A powerful free and open source WAF – UUSEC WAF](https://github.com/Safe3/uuWAF)
 * [2025-03-16, 10:28:16](https://news.ycombinator.com/item?id=43377985) - [The British Nationality Act as a Prolog Program (1986) [pdf]](https://www.doc.ic.ac.uk/~rak/papers/British%20Nationality%20Act.pdf)
 * [2025-03-16, 09:50:14](https://news.ycombinator.com/item?id=43377867) - [Implications of Global Privacy Control](https://developer.mozilla.org/en-US/blog/global-privacy-control/)
 * [2025-03-16, 08:48:09](https://news.ycombinator.com/item?id=43377690) - [Show HN: My high school team’s space probe](https://drive.google.com/file/d/1_9V6lBTIfDsPdKCohQBc5Ed5UzDbnsrI/view?usp=sharing)
