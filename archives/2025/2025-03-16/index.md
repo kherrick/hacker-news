@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-03-16](index.md)
 
 * [2025-03-16, 18:28:47](https://news.ycombinator.com/item?id=43381043) - [US deports Venezuelans despite court order](https://www.bbc.com/news/articles/cp9yv1gnzyvo)
+* [2025-03-16, 18:11:11](https://news.ycombinator.com/item?id=43380930) - [Our Interfaces Have Lost Their Senses](https://wattenberger.com/thoughts/our-interfaces-have-lost-their-senses)
+* [2025-03-16, 17:55:42](https://news.ycombinator.com/item?id=43380833) - [Teach, Don't Tell (2013)](https://stevelosh.com/blog/2013/09/teach-dont-tell/)
 * [2025-03-16, 17:28:55](https://news.ycombinator.com/item?id=43380649) - [Amiga 600: From the Amiga No One Wanted to Retro Favorite](https://dfarq.homeip.net/amiga-600-the-amiga-no-one-wanted/)
 * [2025-03-16, 17:27:24](https://news.ycombinator.com/item?id=43380643) - [Abuse of power at Germany's elite research institution [video]](https://www.dw.com/en/max-planck-institute-abuse-of-power-elite-scientists-germany-v2/video-71904207)
 * [2025-03-16, 17:23:33](https://news.ycombinator.com/item?id=43380617) - [\"Wait, not like that\": Free and open access in the age of generative AI](https://www.citationneeded.news/free-and-open-access-in-the-age-of-generative-ai/)
@@ -28,6 +30,7 @@
 * [2025-03-16, 12:01:10](https://news.ycombinator.com/item?id=43378330) - [Raytracing on Intel's Arc B580 – By Chester Lam](https://chipsandcheese.com/p/raytracing-on-intels-arc-b580)
 * [2025-03-16, 12:01:04](https://news.ycombinator.com/item?id=43378329) - [Lago (Open-Source Usage Based Billing)Is Hiring Sr Ruby Engineers (Latam)](https://jobs.lever.co/getlago/42f45126-a365-4f03-9736-565b26bc62f5)
 * [2025-03-16, 11:59:17](https://news.ycombinator.com/item?id=43378321) - [The good times in tech are over](https://www.seangoedecke.com/good-times-are-over/)
+* [2025-03-16, 11:45:13](https://news.ycombinator.com/item?id=43378266) - [zlib-ng: zlib replacement with optimizations for \"next generation\" systems](https://github.com/zlib-ng/zlib-ng)
 * [2025-03-16, 11:43:14](https://news.ycombinator.com/item?id=43378256) - [Undergraduate Upends a 40-Year-Old Data Science Conjecture](https://www.wired.com/story/undergraduate-upends-a-40-year-old-data-science-conjecture/)
 * [2025-03-16, 11:38:52](https://news.ycombinator.com/item?id=43378239) - [French gov's open source alternative to Notion or Outline](https://github.com/suitenumerique/docs)
 * [2025-03-16, 11:35:22](https://news.ycombinator.com/item?id=43378225) - [Styling an HTML dialog modal to take the full height of the viewport](https://til.simonwillison.net/css/dialog-full-height)
