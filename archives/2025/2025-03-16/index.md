@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-16](index.md)
 
+* [2025-03-16, 19:35:07](https://news.ycombinator.com/item?id=43381512) - [Zlib-rs is faster than C](https://trifectatech.org/blog/zlib-rs-is-faster-than-c/)
+* [2025-03-16, 19:23:04](https://news.ycombinator.com/item?id=43381435) - ['Bloody Saturday' at Voice of America and other U.S.-funded networks](https://www.npr.org/2025/03/15/nx-s1-5329244/bloody-saturday-voiceofamerica-radio-free-asia-europe-trump-kari-lake)
 * [2025-03-16, 19:18:39](https://news.ycombinator.com/item?id=43381403) - [Speeding up C++ code with template lambdas](https://lemire.me/blog/2025/03/15/speeding-up-c-code-with-template-lambdas/)
 * [2025-03-16, 19:16:58](https://news.ycombinator.com/item?id=43381390) - ['People are angry': A vibe shift is happening across the workforce](https://www.cnbc.com/2025/03/16/a-vibe-shift-around-layoffs-is-happening-across-the-workforce.html)
 * [2025-03-16, 19:10:54](https://news.ycombinator.com/item?id=43381353) - [How our noisy world is seriously damaging our health](https://www.bbc.com/news/articles/crmjdm2m4yjo)
@@ -14,6 +16,8 @@
 * [2025-03-16, 17:28:55](https://news.ycombinator.com/item?id=43380649) - [Amiga 600: From the Amiga No One Wanted to Retro Favorite](https://dfarq.homeip.net/amiga-600-the-amiga-no-one-wanted/)
 * [2025-03-16, 17:27:24](https://news.ycombinator.com/item?id=43380643) - [Abuse of power at Germany's elite research institution [video]](https://www.dw.com/en/max-planck-institute-abuse-of-power-elite-scientists-germany-v2/video-71904207)
 * [2025-03-16, 17:23:33](https://news.ycombinator.com/item?id=43380617) - [\"Wait, not like that\": Free and open access in the age of generative AI](https://www.citationneeded.news/free-and-open-access-in-the-age-of-generative-ai/)
+* [2025-03-16, 17:07:03](https://news.ycombinator.com/item?id=43380487) - [Show HN: Cppmatch – Rust-Like Pattern Matching and Error Handling for C++](https://github.com/Rucadi/cpp-match)
+* [2025-03-16, 17:02:34](https://news.ycombinator.com/item?id=43380453) - [When the Dotcom Bubble Burst](https://dfarq.homeip.net/when-the-dotcom-bubble-burst/)
 * [2025-03-16, 17:00:53](https://news.ycombinator.com/item?id=43380440) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=43380440)
 * [2025-03-16, 16:04:27](https://news.ycombinator.com/item?id=43380069) - [Media Blackout: America's Poorest Counties Devastated by Catastrophic Flooding](https://www.youtube.com/watch?v=gRvbdidqAhs)
 * [2025-03-16, 15:24:54](https://news.ycombinator.com/item?id=43379764) - [Life Altering PostgreSQL Patterns](https://mccue.dev/pages/3-11-25-life-altering-postgresql-patterns)
