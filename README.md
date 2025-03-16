@@ -24,12 +24,12 @@
 * [2025-03-14, 01:51:22](https://news.ycombinator.com/item?id=43358914) - [Show HN: Nash, I made a standalone note with single HTML file](https://keepworking.github.io/nash/)
 * [2025-03-13, 00:44:58](https://news.ycombinator.com/item?id=43349296) - [Lego says it wants to start to bring video game development in-house](https://www.videogameschronicle.com/news/lego-is-starting-to-bring-its-game-development-in-house-key-exec-says/)
 * [2025-03-12, 22:38:03](https://news.ycombinator.com/item?id=43348434) - [Strengthening AI Agent Hijacking Evaluations](https://www.nist.gov/news-events/news/2025/01/technical-blog-strengthening-ai-agent-hijacking-evaluations)
+* [2025-03-12, 18:16:51](https://news.ycombinator.com/item?id=43346127) - [Dante's Divine Autofiction](https://www.newstatesman.com/culture/books/book-of-the-day/2025/03/dantes-divine-autofiction)
 * [2025-03-12, 14:43:44](https://news.ycombinator.com/item?id=43343808) - [Learning physics while monitoring vibrations of the Earth with seismic phenomena](https://iopscience.iop.org/article/10.1088/1361-6404/ada1af)
 * [2025-03-12, 07:20:05](https://news.ycombinator.com/item?id=43340651) - [Wyvern's Open Satellite Feed](https://tech.marksblogg.com/wyvern-open-data-feed.html)
 * [2025-03-12, 01:32:59](https://news.ycombinator.com/item?id=43339084) - [Evidence that Neanderthal and Homo sapiens engaged in cultural exchange](https://phys.org/news/2025-03-burials-compelling-evidence-neanderthal-homo.html)
 * [2025-03-11, 19:11:28](https://news.ycombinator.com/item?id=43335987) - [What Bikini Atoll Looks Like Today (2017)](https://medium.com/stanford-magazine/stanford-research-on-effects-of-radioactivity-from-bikini-atoll-nuclear-tests-on-coral-and-crab-dna-48459144020c)
 * [2025-03-11, 16:15:02](https://news.ycombinator.com/item?id=43333975) - [Computers and Mice – Mister Rogers Neighborhood](https://misterrogers.org/episodes/computers-and-mice/)
-* [2025-03-11, 12:18:25](https://news.ycombinator.com/item?id=43331706) - [So Long and Thanks for All the Words: A Toast to Douglas Adams](https://multiverseemployeehandbook.com/blog/adams-birthday-toast/)
 
 ## [Archives](archives/index.md)
 
