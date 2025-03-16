@@ -6,7 +6,6 @@
 * [2025-03-16, 02:31:59](https://news.ycombinator.com/item?id=43376570) - [More pro for the DEC Professional 380 (featuring PRO/VENIX)](http://oldvcr.blogspot.com/2025/03/more-pro-for-dec-professional-380.html)
 * [2025-03-16, 00:07:03](https://news.ycombinator.com/item?id=43376033) - [Apple's long-lost hidden recovery partition from 1994 has been found](https://www.downtowndougbrown.com/2025/03/apples-long-lost-hidden-recovery-partition-from-1994-has-been-found/)
 * [2025-03-15, 23:41:44](https://news.ycombinator.com/item?id=43375923) - [Career Advice in 2025](https://lethain.com/career-advice-2025/)
-* [2025-03-15, 23:12:08](https://news.ycombinator.com/item?id=43375780) - [ESP32 WiFi Superstitions](https://supakeen.com/weblog/esp32-wifi-superstitions/)
 * [2025-03-15, 22:52:13](https://news.ycombinator.com/item?id=43375676) - [Mandelbrot Set Explorer](https://mandelbrot.site)
 * [2025-03-15, 21:00:44](https://news.ycombinator.com/item?id=43375123) - [Parahelp (YC S24) Is Hiring Founding Engineers (SF)](https://www.ycombinator.com/companies/parahelp/jobs/PhUMEwg-founding-ai-engineer)
 * [2025-03-15, 19:06:01](https://news.ycombinator.com/item?id=43374519) - [Sign in as anyone: Bypassing SAML SSO authentication with parser differentials](https://github.blog/security/sign-in-as-anyone-bypassing-saml-sso-authentication-with-parser-differentials/)
@@ -30,6 +29,7 @@
 * [2025-03-12, 01:32:59](https://news.ycombinator.com/item?id=43339084) - [Evidence that Neanderthal and Homo sapiens engaged in cultural exchange](https://phys.org/news/2025-03-burials-compelling-evidence-neanderthal-homo.html)
 * [2025-03-11, 19:11:28](https://news.ycombinator.com/item?id=43335987) - [What Bikini Atoll Looks Like Today (2017)](https://medium.com/stanford-magazine/stanford-research-on-effects-of-radioactivity-from-bikini-atoll-nuclear-tests-on-coral-and-crab-dna-48459144020c)
 * [2025-03-11, 16:15:02](https://news.ycombinator.com/item?id=43333975) - [Computers and Mice – Mister Rogers Neighborhood](https://misterrogers.org/episodes/computers-and-mice/)
+* [2025-03-11, 12:18:25](https://news.ycombinator.com/item?id=43331706) - [So Long and Thanks for All the Words: A Toast to Douglas Adams](https://multiverseemployeehandbook.com/blog/adams-birthday-toast/)
 
 ## [Archives](archives/index.md)
 
