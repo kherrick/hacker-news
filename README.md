@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-16, 17:28:55](https://news.ycombinator.com/item?id=43380649) - [Amiga 600: From the Amiga No One Wanted to Retro Favorite](https://dfarq.homeip.net/amiga-600-the-amiga-no-one-wanted/)
+* [2025-03-16, 17:23:33](https://news.ycombinator.com/item?id=43380617) - [\"Wait, not like that\": Free and open access in the age of generative AI](https://www.citationneeded.news/free-and-open-access-in-the-age-of-generative-ai/)
 * [2025-03-16, 17:00:53](https://news.ycombinator.com/item?id=43380440) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=43380440)
 * [2025-03-16, 14:20:02](https://news.ycombinator.com/item?id=43379262) - [DiceDB](https://dicedb.io/)
-* [2025-03-16, 14:15:30](https://news.ycombinator.com/item?id=43379235) - [For Delivery Workers in Latin America, Affordable E-Bikes Are a Superpower](https://reasonstobecheerful.world/e-bike-boom-delivery-workers/)
 * [2025-03-16, 13:56:26](https://news.ycombinator.com/item?id=43379119) - [Male octopus injects female with venom during sex to avoid being eaten](https://www.newscientist.com/article/2471120-male-octopus-injects-female-with-venom-during-sex-to-avoid-being-eaten/)
 * [2025-03-16, 13:27:05](https://news.ycombinator.com/item?id=43378900) - [Comet open source remote KVM from GL-iNet](https://www.gl-inet.com/products/gl-rm1/)
 * [2025-03-16, 13:17:17](https://news.ycombinator.com/item?id=43378822) - [Sketch-of-Thought: Efficient LLM Reasoning](https://arxiv.org/abs/2503.05179)
@@ -21,7 +22,6 @@
 * [2025-03-15, 18:22:15](https://news.ycombinator.com/item?id=43374278) - [That Time I Recreated Photoshop in C++](https://f055.net/technology/that-time-i/that-time-i-recreated-photoshop-in-c/)
 * [2025-03-14, 19:12:12](https://news.ycombinator.com/item?id=43366124) - [Edgar Allan Poe's life was a mess. But his work was in his command](https://www.washingtonpost.com/books/2025/03/13/edgar-allan-poe-biography-kopley-review/)
 * [2025-03-14, 13:53:10](https://news.ycombinator.com/item?id=43362667) - [High-performance computing, with much less code](https://news.mit.edu/2025/high-performance-computing-with-much-less-code-0313)
-* [2025-03-14, 08:07:53](https://news.ycombinator.com/item?id=43360522) - [DeepSeek focuses on research over revenue](https://www.ft.com/content/fb5c11bb-1d4b-465f-8283-451a19a3d425)
 * [2025-03-14, 07:02:06](https://news.ycombinator.com/item?id=43360249) - [Command A: Max performance, minimal compute – 256k context window](https://cohere.com/blog/command-a)
 * [2025-03-14, 05:39:43](https://news.ycombinator.com/item?id=43359905) - [A Princely Ploy: Inside the Ruse of a French-Armenian Scammer](https://publicdomainreview.org/essay/a-princely-ploy/)
 * [2025-03-14, 01:51:22](https://news.ycombinator.com/item?id=43358914) - [Show HN: Nash, I made a standalone note with single HTML file](https://keepworking.github.io/nash/)
