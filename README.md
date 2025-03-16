@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-16, 14:36:29](https://news.ycombinator.com/item?id=43379395) - [Show HN: I Built a Customer Feedback Tool](https://usefeedlyst.com)
 * [2025-03-16, 14:20:02](https://news.ycombinator.com/item?id=43379262) - [DiceDB](https://dicedb.io/)
 * [2025-03-16, 13:56:26](https://news.ycombinator.com/item?id=43379119) - [Male octopus injects female with venom during sex to avoid being eaten](https://www.newscientist.com/article/2471120-male-octopus-injects-female-with-venom-during-sex-to-avoid-being-eaten/)
+* [2025-03-16, 13:32:01](https://news.ycombinator.com/item?id=43378934) - [Bio Cringe – The Obnoxious Social Media Bio Generator](https://biocringe.com/)
 * [2025-03-16, 12:14:33](https://news.ycombinator.com/item?id=43378415) - [Learn You Some Erlang for Great Good (2013)](https://learnyousomeerlang.com/content)
 * [2025-03-16, 12:13:24](https://news.ycombinator.com/item?id=43378401) - [Big LLMs weights are a piece of history](https://antirez.com/news/147)
 * [2025-03-16, 12:01:10](https://news.ycombinator.com/item?id=43378330) - [Raytracing on Intel's Arc B580 – By Chester Lam](https://chipsandcheese.com/p/raytracing-on-intels-arc-b580)
@@ -27,8 +29,6 @@
 * [2025-03-14, 01:51:22](https://news.ycombinator.com/item?id=43358914) - [Show HN: Nash, I made a standalone note with single HTML file](https://keepworking.github.io/nash/)
 * [2025-03-13, 14:46:31](https://news.ycombinator.com/item?id=43353925) - [City simulator I made in Scratch](https://scratch.mit.edu/projects/1061728417/)
 * [2025-03-13, 02:48:31](https://news.ycombinator.com/item?id=43349940) - [Toni Morrison's Lost Play](https://www.vulture.com/article/toni-morrison-play-dreaming-emmett-influenced-beloved.html)
-* [2025-03-13, 00:44:58](https://news.ycombinator.com/item?id=43349296) - [Lego says it wants to start to bring video game development in-house](https://www.videogameschronicle.com/news/lego-is-starting-to-bring-its-game-development-in-house-key-exec-says/)
-* [2025-03-12, 19:32:31](https://news.ycombinator.com/item?id=43346843) - [Show HN: I Made an Escape Room Themed Prompt Injection Challenge](https://pangea.cloud/landing/ai-escape-room/)
 * [2025-03-12, 07:20:05](https://news.ycombinator.com/item?id=43340651) - [Wyvern's Open Satellite Feed](https://tech.marksblogg.com/wyvern-open-data-feed.html)
 
 ## [Archives](archives/index.md)
