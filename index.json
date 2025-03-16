@@ -41,6 +41,26 @@
   ],
   [
     [
+      "2025-03-16, 18:48:39",
+      "https://news.ycombinator.com/item?id=43381195"
+    ],
+    [
+      "Tcl Tutorial",
+      "https://www.tcl-lang.org/man/tcl8.5/tutorial/tcltutorial.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-16, 18:41:30",
+      "https://news.ycombinator.com/item?id=43381141"
+    ],
+    [
+      "Microsoft's 1986 IPO",
+      "https://dfarq.homeip.net/microsofts-1986-ipo/"
+    ]
+  ],
+  [
+    [
       "2025-03-16, 18:11:11",
       "https://news.ycombinator.com/item?id=43380930"
     ],
@@ -131,22 +151,32 @@
   ],
   [
     [
+      "2025-03-16, 13:58:15",
+      "https://news.ycombinator.com/item?id=43379129"
+    ],
+    [
+      "Show HN: Quickly connect to WiFi by scanning text, no typing needed",
+      "https://github.com/yilinjuang/wify"
+    ]
+  ],
+  [
+    [
+      "2025-03-16, 13:30:36",
+      "https://news.ycombinator.com/item?id=43378925"
+    ],
+    [
+      "Show HN: 10 teams are racing to build a pivotal tracker replacement",
+      "https://bye-tracker.net"
+    ]
+  ],
+  [
+    [
       "2025-03-16, 13:27:05",
       "https://news.ycombinator.com/item?id=43378900"
     ],
     [
       "Comet open source remote KVM from GL-iNet",
       "https://www.gl-inet.com/products/gl-rm1/"
-    ]
-  ],
-  [
-    [
-      "2025-03-16, 13:17:17",
-      "https://news.ycombinator.com/item?id=43378822"
-    ],
-    [
-      "Sketch-of-Thought: Efficient LLM Reasoning",
-      "https://arxiv.org/abs/2503.05179"
     ]
   ],
   [
@@ -171,32 +201,12 @@
   ],
   [
     [
-      "2025-03-16, 11:45:13",
-      "https://news.ycombinator.com/item?id=43378266"
-    ],
-    [
-      "zlib-ng: zlib replacement with optimizations for \"next generation\" systems",
-      "https://github.com/zlib-ng/zlib-ng"
-    ]
-  ],
-  [
-    [
       "2025-03-16, 11:38:52",
       "https://news.ycombinator.com/item?id=43378239"
     ],
     [
       "Docs – Open source alternative to Notion or Outline",
       "https://github.com/suitenumerique/docs"
-    ]
-  ],
-  [
-    [
-      "2025-03-16, 09:50:14",
-      "https://news.ycombinator.com/item?id=43377867"
-    ],
-    [
-      "Implications of Global Privacy Control",
-      "https://developer.mozilla.org/en-US/blog/global-privacy-control/"
     ]
   ],
   [
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2025-03-14, 07:02:06",
-      "https://news.ycombinator.com/item?id=43360249"
-    ],
-    [
-      "Command A: Max performance, minimal compute – 256k context window",
-      "https://cohere.com/blog/command-a"
-    ]
-  ],
-  [
-    [
       "2025-03-14, 05:39:43",
       "https://news.ycombinator.com/item?id=43359905"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-03-13, 14:46:31",
-      "https://news.ycombinator.com/item?id=43353925"
+      "2025-03-13, 12:16:33",
+      "https://news.ycombinator.com/item?id=43352503"
     ],
     [
-      "City simulator I made in Scratch",
-      "https://scratch.mit.edu/projects/1061728417/"
+      "A Guide to Undefined Behavior in C and C++ (2010)",
+      "https://blog.regehr.org/archives/213"
     ]
   ]
 ]
