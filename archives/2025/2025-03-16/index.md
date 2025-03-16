@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-16](index.md)
 
+* [2025-03-16, 17:00:53](https://news.ycombinator.com/item?id=43380440) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=43380440)
 * [2025-03-16, 16:04:27](https://news.ycombinator.com/item?id=43380069) - [Media Blackout: America's Poorest Counties Devastated by Catastrophic Flooding](https://www.youtube.com/watch?v=gRvbdidqAhs)
 * [2025-03-16, 15:24:54](https://news.ycombinator.com/item?id=43379764) - [Life Altering PostgreSQL Patterns](https://mccue.dev/pages/3-11-25-life-altering-postgresql-patterns)
 * [2025-03-16, 15:14:21](https://news.ycombinator.com/item?id=43379688) - [Tonari Portals: be together in-person, anywhere](https://tonari.no/)
