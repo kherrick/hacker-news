@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-03-16](index.md)
 
+* [2025-03-16, 19:18:39](https://news.ycombinator.com/item?id=43381403) - [Speeding up C++ code with template lambdas](https://lemire.me/blog/2025/03/15/speeding-up-c-code-with-template-lambdas/)
+* [2025-03-16, 19:16:58](https://news.ycombinator.com/item?id=43381390) - ['People are angry': A vibe shift is happening across the workforce](https://www.cnbc.com/2025/03/16/a-vibe-shift-around-layoffs-is-happening-across-the-workforce.html)
+* [2025-03-16, 19:10:54](https://news.ycombinator.com/item?id=43381353) - [How our noisy world is seriously damaging our health](https://www.bbc.com/news/articles/crmjdm2m4yjo)
+* [2025-03-16, 18:51:58](https://news.ycombinator.com/item?id=43381215) - [AI Is Making Developers Dumb](https://eli.cx/blog/ai-is-making-developers-dumb)
 * [2025-03-16, 18:28:47](https://news.ycombinator.com/item?id=43381043) - [US deports Venezuelans despite court order](https://www.bbc.com/news/articles/cp9yv1gnzyvo)
 * [2025-03-16, 18:11:11](https://news.ycombinator.com/item?id=43380930) - [Our Interfaces Have Lost Their Senses](https://wattenberger.com/thoughts/our-interfaces-have-lost-their-senses)
 * [2025-03-16, 17:55:42](https://news.ycombinator.com/item?id=43380833) - [Teach, Don't Tell (2013)](https://stevelosh.com/blog/2013/09/teach-dont-tell/)
