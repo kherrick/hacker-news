@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-16](index.md)
 
+* [2025-03-16, 21:00:22](https://news.ycombinator.com/item?id=43382261) - [Kastle (YC S24) Is Hiring Engineer #3](https://www.ycombinator.com/companies/kastle/jobs/XSq5nJT-founding-applied-ai-engineer-at-kastle)
+* [2025-03-16, 20:40:27](https://news.ycombinator.com/item?id=43382093) - [Military grade sonic weapon is used against protesters in Serbia](https://twitter.com/nexta_tv/status/1901244199220982213)
+* [2025-03-16, 20:31:18](https://news.ycombinator.com/item?id=43382014) - [Leaked Apple meeting shows how dire the Siri situation is](https://www.theverge.com/news/629940/apple-siri-robby-walker-delayed-ai-features)
 * [2025-03-16, 19:49:02](https://news.ycombinator.com/item?id=43381627) - [Everything Picolisp can do, and more](https://picolisp.com/wiki/?Documentation)
 * [2025-03-16, 19:35:07](https://news.ycombinator.com/item?id=43381512) - [Zlib-rs is faster than C](https://trifectatech.org/blog/zlib-rs-is-faster-than-c/)
 * [2025-03-16, 19:32:38](https://news.ycombinator.com/item?id=43381497) - [Tänzer: The lovable web server framework for Tcl](https://tanzer.io/)
