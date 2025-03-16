@@ -26,6 +26,7 @@
 * [2025-03-16, 05:54:05](https://news.ycombinator.com/item?id=43377159) - [Someone copied our GitHub project, added stars, and injected malicious code](https://old.reddit.com/r/golang/comments/1jbzuot/someone_copied_our_github_project_made_it_look/)
 * [2025-03-16, 05:43:21](https://news.ycombinator.com/item?id=43377133) - [Subsonic Weapon used on the crowd in Belgrade today](https://old.reddit.com/r/PrepperIntel/comments/1jcanva/bad_vibes_subsonic_weapon_used_on_the_crowd_in/)
 * [2025-03-16, 03:45:46](https://news.ycombinator.com/item?id=43376824) - [Generate impressive-looking terminal output, look busy when stakeholders walk by](https://github.com/giacomo-b/rust-stakeholder)
+* [2025-03-16, 03:37:47](https://news.ycombinator.com/item?id=43376793) - [Peru's Great Urban Experiment (2023)](https://archaeology.org/issues/may-june-2023/features/peru-chimu-chan-chan/)
 * [2025-03-16, 03:32:04](https://news.ycombinator.com/item?id=43376769) - [Decoding JSON sum types in Go without panicking](https://nicolashery.com/decoding-json-sum-types-in-go/)
 * [2025-03-16, 02:31:59](https://news.ycombinator.com/item?id=43376570) - [More pro for the DEC Professional 380 (featuring PRO/VENIX)](http://oldvcr.blogspot.com/2025/03/more-pro-for-dec-professional-380.html)
 * [2025-03-16, 02:31:29](https://news.ycombinator.com/item?id=43376569) - [Modern Agile is Stupid: on why all great ideas are killed by idiots](https://medium.com/@thecodingteacher_52591/modern-agile-is-stupid-on-why-all-great-ideas-are-killed-by-simple-minded-idiots-why-jira-kills-02080b937de2)

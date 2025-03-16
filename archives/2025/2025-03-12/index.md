@@ -16,6 +16,7 @@
 * [2025-03-12, 20:31:39](https://news.ycombinator.com/item?id=43347369) - [Intel Appoints Lip-Bu Tan as Its CEO](https://www.reuters.com/technology/us-chipmaker-intel-appoints-lip-bu-tan-its-ceo-2025-03-12/)
 * [2025-03-12, 20:23:52](https://news.ycombinator.com/item?id=43347306) - [Show HN: Time Portal – Get dropped into history, guess where you landed](https://www.eggnog.ai/entertimeportal)
 * [2025-03-12, 19:35:15](https://news.ycombinator.com/item?id=43346864) - [Zinc, a systems programming language prototype](https://sr.ht/~oconnor0/zinc/)
+* [2025-03-12, 19:32:31](https://news.ycombinator.com/item?id=43346843) - [Show HN: I Made an Escape Room Themed Prompt Injection Challenge](https://pangea.cloud/landing/ai-escape-room/)
 * [2025-03-12, 19:29:41](https://news.ycombinator.com/item?id=43346816) - [Iconography of the PuTTY Tools](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/putty-icons/)
 * [2025-03-12, 18:47:17](https://news.ycombinator.com/item?id=43346431) - [Inline Evaluation Adventure](https://rigsomelight.com/2025/03/12/inline-eval-adventure.html)
 * [2025-03-12, 18:33:57](https://news.ycombinator.com/item?id=43346297) - [Ostrich Egg-Shell Cups of Mesopotamia, Ostrich in Ancient, Modern Times (1926)](https://publicdomainreview.org/collection/ostrich-egg-shell-cups-of-mesopotamia/)
