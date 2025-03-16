@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-16, 09:37:59](https://news.ycombinator.com/item?id=43377829) - [Lynx is the oldest web browser still being maintained](https://news.ycombinator.com/item?id=43377829)
 * [2025-03-16, 08:48:09](https://news.ycombinator.com/item?id=43377690) - [Show HN: My high school team's space probe](https://drive.google.com/file/d/1_9V6lBTIfDsPdKCohQBc5Ed5UzDbnsrI/view?usp=sharing)
 * [2025-03-16, 06:41:23](https://news.ycombinator.com/item?id=43377287) - [Sunsethue – Forecast Sunset Beauty](https://sunsethue.com/)
 * [2025-03-16, 05:59:08](https://news.ycombinator.com/item?id=43377169) - [Implementing \"Tennis for Two\" using op amps (2024)](https://blog.qiqitori.com/2024/08/implementing-tennis-for-two-using-op-amps/)
@@ -20,7 +21,7 @@
 * [2025-03-15, 10:39:31](https://news.ycombinator.com/item?id=43371583) - [Arbitrary-Scale Super-Resolution with Neural Heat Fields](https://therasr.github.io/)
 * [2025-03-14, 11:10:12](https://news.ycombinator.com/item?id=43361440) - [Finding Signal in the Noise: Machine Learning and the Markets (Jane Street)](https://signalsandthreads.com/finding-signal-in-the-noise/)
 * [2025-03-14, 08:15:08](https://news.ycombinator.com/item?id=43360552) - [ASK HN: How to engineer a JavaScript to Python migration?](https://news.ycombinator.com/item?id=43360552)
-* [2025-03-14, 08:07:53](https://news.ycombinator.com/item?id=43360522) - [DeepSeek focuses on research over revenue in contrast to Silicon Valley](https://www.ft.com/content/fb5c11bb-1d4b-465f-8283-451a19a3d425)
+* [2025-03-14, 08:07:53](https://news.ycombinator.com/item?id=43360522) - [DeepSeek focuses on research over revenue](https://www.ft.com/content/fb5c11bb-1d4b-465f-8283-451a19a3d425)
 * [2025-03-14, 07:02:06](https://news.ycombinator.com/item?id=43360249) - [Command A: Max performance, minimal compute – 256k context window](https://cohere.com/blog/command-a)
 * [2025-03-14, 01:51:22](https://news.ycombinator.com/item?id=43358914) - [Show HN: Nash, I made a standalone note with single HTML file](https://keepworking.github.io/nash/)
 * [2025-03-13, 00:44:58](https://news.ycombinator.com/item?id=43349296) - [Lego says it wants to start to bring video game development in-house](https://www.videogameschronicle.com/news/lego-is-starting-to-bring-its-game-development-in-house-key-exec-says/)
@@ -29,7 +30,6 @@
 * [2025-03-12, 07:20:05](https://news.ycombinator.com/item?id=43340651) - [Wyvern's Open Satellite Feed](https://tech.marksblogg.com/wyvern-open-data-feed.html)
 * [2025-03-12, 01:32:59](https://news.ycombinator.com/item?id=43339084) - [Evidence that Neanderthal and Homo sapiens engaged in cultural exchange](https://phys.org/news/2025-03-burials-compelling-evidence-neanderthal-homo.html)
 * [2025-03-11, 19:11:28](https://news.ycombinator.com/item?id=43335987) - [What Bikini Atoll Looks Like Today (2017)](https://medium.com/stanford-magazine/stanford-research-on-effects-of-radioactivity-from-bikini-atoll-nuclear-tests-on-coral-and-crab-dna-48459144020c)
-* [2025-03-11, 16:15:02](https://news.ycombinator.com/item?id=43333975) - [Computers and Mice – Mister Rogers Neighborhood](https://misterrogers.org/episodes/computers-and-mice/)
 
 ## [Archives](archives/index.md)
 
