@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-03-16, 19:32:38",
+      "https://news.ycombinator.com/item?id=43381497"
+    ],
+    [
+      "Tänzer: The lovable web server framework for Tcl",
+      "https://tanzer.io/"
+    ]
+  ],
+  [
+    [
       "2025-03-16, 19:10:54",
       "https://news.ycombinator.com/item?id=43381353"
     ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=43381088"
     ],
     [
-      "\"QWERTY wasn't to solve type bar jamming\" [pdf]",
+      "\"QWERTY wasn't designed to solve type bar jamming\" [pdf]",
       "https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/139379/1/42_161.pdf"
     ]
   ],
@@ -187,16 +197,6 @@
     [
       "Raytracing on Intel's Arc B580 – By Chester Lam",
       "https://chipsandcheese.com/p/raytracing-on-intels-arc-b580"
-    ]
-  ],
-  [
-    [
-      "2025-03-16, 11:45:13",
-      "https://news.ycombinator.com/item?id=43378266"
-    ],
-    [
-      "zlib-ng: zlib replacement with optimizations for \"next generation\" systems",
-      "https://github.com/zlib-ng/zlib-ng"
     ]
   ],
   [
