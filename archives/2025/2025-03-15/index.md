@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-15](index.md)
 
+* [2025-03-15, 23:12:08](https://news.ycombinator.com/item?id=43375780) - [ESP32 WiFi Superstitions](https://supakeen.com/weblog/esp32-wifi-superstitions/)
+* [2025-03-15, 22:52:13](https://news.ycombinator.com/item?id=43375676) - [Mandelbrot Set Explorer](https://mandelbrot.site)
 * [2025-03-15, 22:39:13](https://news.ycombinator.com/item?id=43375609) - [Strings Attached: Talking about Russia's agenda for laws in cyberspace](https://bytesandborscht.com/strings-attached-talking-about-russias-agenda-for-laws-in-cyberspace/)
 * [2025-03-15, 21:42:03](https://news.ycombinator.com/item?id=43375353) - [Collatzeral damage: bitwise and proof foolish](https://soatok.blog/2025/01/06/collatzeral-damage-bitwise-and-proof-foolish/)
 * [2025-03-15, 21:34:22](https://news.ycombinator.com/item?id=43375307) - [How to learn a new language like a baby](https://theconversation.com/how-to-learn-a-language-like-a-baby-250551)
