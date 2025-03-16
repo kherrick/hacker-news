@@ -12,6 +12,7 @@
 * [2025-03-16, 18:51:58](https://news.ycombinator.com/item?id=43381215) - [AI Is Making Developers Dumb](https://eli.cx/blog/ai-is-making-developers-dumb)
 * [2025-03-16, 18:48:39](https://news.ycombinator.com/item?id=43381195) - [Tcl Tutorial](https://www.tcl-lang.org/man/tcl8.5/tutorial/tcltutorial.html)
 * [2025-03-16, 18:41:30](https://news.ycombinator.com/item?id=43381141) - [Microsoft's 1986 IPO](https://dfarq.homeip.net/microsofts-1986-ipo/)
+* [2025-03-16, 18:34:37](https://news.ycombinator.com/item?id=43381088) - [\"QWERTY wasn't to solve type bar jamming\" [pdf]](https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/139379/1/42_161.pdf)
 * [2025-03-16, 18:28:47](https://news.ycombinator.com/item?id=43381043) - [US deports Venezuelans despite court order](https://www.bbc.com/news/articles/cp9yv1gnzyvo)
 * [2025-03-16, 18:11:11](https://news.ycombinator.com/item?id=43380930) - [Our Interfaces Have Lost Their Senses](https://wattenberger.com/thoughts/our-interfaces-have-lost-their-senses)
 * [2025-03-16, 17:55:42](https://news.ycombinator.com/item?id=43380833) - [Teach, Don't Tell (2013)](https://stevelosh.com/blog/2013/09/teach-dont-tell/)
