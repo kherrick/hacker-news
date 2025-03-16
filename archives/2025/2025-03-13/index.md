@@ -27,6 +27,7 @@
 * [2025-03-13, 16:46:27](https://news.ycombinator.com/item?id=43355031) - [IO Devices and Latency](https://planetscale.com/blog/io-devices-and-latency)
 * [2025-03-13, 15:18:52](https://news.ycombinator.com/item?id=43354219) - [Show HN: I built AI agents with CrewAI to automate my entire Gmail workflow](https://github.com/tonykipkemboi/crewai-gmail-automation)
 * [2025-03-13, 15:06:07](https://news.ycombinator.com/item?id=43354115) - [Ask HN: Where Do Seasoned Devs Look for Short-Term Work?](https://news.ycombinator.com/item?id=43354115)
+* [2025-03-13, 14:46:31](https://news.ycombinator.com/item?id=43353925) - [City simulator I made in Scratch](https://scratch.mit.edu/projects/1061728417/)
 * [2025-03-13, 14:44:25](https://news.ycombinator.com/item?id=43353898) - [Interprocedural Sparse Conditional Type Propagation](https://railsatscale.com/2025-02-24-interprocedural-sparse-conditional-type-propagation/)
 * [2025-03-13, 14:37:05](https://news.ycombinator.com/item?id=43353822) - [Steam Networks](https://worksinprogress.co/issue/steam-networks/)
 * [2025-03-13, 14:14:43](https://news.ycombinator.com/item?id=43353603) - [The failure of the land value tax](https://worksinprogress.co/issue/the-failure-of-the-land-value-tax/)
