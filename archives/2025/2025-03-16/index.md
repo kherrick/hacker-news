@@ -5,7 +5,11 @@
 ### [Archives](../../index.md) for [2025-03-16](index.md)
 
 * [2025-03-16, 12:01:04](https://news.ycombinator.com/item?id=43378329) - [Lago (Open-Source Usage Based Billing)Is Hiring Sr Ruby Engineers (Latam)](https://jobs.lever.co/getlago/42f45126-a365-4f03-9736-565b26bc62f5)
+* [2025-03-16, 11:59:17](https://news.ycombinator.com/item?id=43378321) - [The good times in tech are over](https://www.seangoedecke.com/good-times-are-over/)
 * [2025-03-16, 11:43:14](https://news.ycombinator.com/item?id=43378256) - [Undergraduate Upends a 40-Year-Old Data Science Conjecture](https://www.wired.com/story/undergraduate-upends-a-40-year-old-data-science-conjecture/)
+* [2025-03-16, 11:38:52](https://news.ycombinator.com/item?id=43378239) - [French gov's open source alternative to Notion or Outline](https://github.com/suitenumerique/docs)
+* [2025-03-16, 11:35:22](https://news.ycombinator.com/item?id=43378225) - [Styling an HTML dialog modal to take the full height of the viewport](https://til.simonwillison.net/css/dialog-full-height)
+* [2025-03-16, 10:28:16](https://news.ycombinator.com/item?id=43377985) - [The British Nationality Act as a Prolog Program (1986) [pdf]](https://www.doc.ic.ac.uk/~rak/papers/British%20Nationality%20Act.pdf)
 * [2025-03-16, 10:23:46](https://news.ycombinator.com/item?id=43377962) - [GPT 4.5 level for 1% of the price](https://twitter.com/Baidu_Inc/status/1901089355890036897)
 * [2025-03-16, 09:50:14](https://news.ycombinator.com/item?id=43377867) - [Implications of Global Privacy Control](https://developer.mozilla.org/en-US/blog/global-privacy-control/)
 * [2025-03-16, 09:37:59](https://news.ycombinator.com/item?id=43377829) - [Lynx is the oldest web browser still being maintained](https://news.ycombinator.com/item?id=43377829)
