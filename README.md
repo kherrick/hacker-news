@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-16, 03:32:04](https://news.ycombinator.com/item?id=43376769) - [Decoding JSON sum types in Go without panicking](https://nicolashery.com/decoding-json-sum-types-in-go/)
 * [2025-03-16, 00:07:03](https://news.ycombinator.com/item?id=43376033) - [Apple's long-lost hidden recovery partition from 1994 has been found](https://www.downtowndougbrown.com/2025/03/apples-long-lost-hidden-recovery-partition-from-1994-has-been-found/)
 * [2025-03-15, 23:41:44](https://news.ycombinator.com/item?id=43375923) - [Career Advice in 2025](https://lethain.com/career-advice-2025/)
 * [2025-03-15, 23:12:08](https://news.ycombinator.com/item?id=43375780) - [ESP32 WiFi Superstitions](https://supakeen.com/weblog/esp32-wifi-superstitions/)
@@ -23,6 +22,7 @@
 * [2025-03-14, 01:51:22](https://news.ycombinator.com/item?id=43358914) - [Show HN: Nash, I made a standalone note with single HTML file](https://keepworking.github.io/nash/)
 * [2025-03-13, 00:44:58](https://news.ycombinator.com/item?id=43349296) - [Lego says it wants to start to bring video game development in-house](https://www.videogameschronicle.com/news/lego-is-starting-to-bring-its-game-development-in-house-key-exec-says/)
 * [2025-03-12, 22:38:03](https://news.ycombinator.com/item?id=43348434) - [Strengthening AI Agent Hijacking Evaluations](https://www.nist.gov/news-events/news/2025/01/technical-blog-strengthening-ai-agent-hijacking-evaluations)
+* [2025-03-12, 20:57:20](https://news.ycombinator.com/item?id=43347588) - [D-Wave quantum annealers solve problems classical algorithms struggle with](https://arstechnica.com/science/2025/03/d-wave-quantum-annealers-solve-problems-classical-algorithms-struggle-with/)
 * [2025-03-12, 07:20:05](https://news.ycombinator.com/item?id=43340651) - [Wyvern's Open Satellite Feed](https://tech.marksblogg.com/wyvern-open-data-feed.html)
 * [2025-03-12, 01:32:59](https://news.ycombinator.com/item?id=43339084) - [Evidence that Neanderthal and Homo sapiens engaged in cultural exchange](https://phys.org/news/2025-03-burials-compelling-evidence-neanderthal-homo.html)
 * [2025-03-11, 20:53:45](https://news.ycombinator.com/item?id=43336892) - [Show HN: Metacheck – preview how any link appears on social media and chat apps](https://metacheck.appstate.co/)

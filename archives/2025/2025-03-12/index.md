@@ -11,6 +11,7 @@
 * [2025-03-12, 21:12:05](https://news.ycombinator.com/item?id=43347724) - [The Night Watch (2013) [pdf]](https://www.usenix.org/system/files/1311_05-08_mickens.pdf)
 * [2025-03-12, 21:05:08](https://news.ycombinator.com/item?id=43347662) - [Mark Klein, AT&T whistleblower who revealed NSA mass spying, has died](https://www.eff.org/deeplinks/2025/03/memoriam-mark-klein-att-whistleblower-about-nsa-mass-spying)
 * [2025-03-12, 21:01:26](https://news.ycombinator.com/item?id=43347628) - [Chris Moore, Illustrator for Classic Sci-Fi Books, Dies at 77](https://www.nytimes.com/2025/03/12/arts/chris-moore-dead.html)
+* [2025-03-12, 20:57:20](https://news.ycombinator.com/item?id=43347588) - [D-Wave quantum annealers solve problems classical algorithms struggle with](https://arstechnica.com/science/2025/03/d-wave-quantum-annealers-solve-problems-classical-algorithms-struggle-with/)
 * [2025-03-12, 20:49:38](https://news.ycombinator.com/item?id=43347524) - [Show HN: OCR Benchmark Focusing on Automation](https://nanonets.com/automation-benchmark)
 * [2025-03-12, 20:31:39](https://news.ycombinator.com/item?id=43347369) - [Intel Appoints Lip-Bu Tan as Its CEO](https://www.reuters.com/technology/us-chipmaker-intel-appoints-lip-bu-tan-its-ceo-2025-03-12/)
 * [2025-03-12, 20:23:52](https://news.ycombinator.com/item?id=43347306) - [Show HN: Time Portal – Get dropped into history, guess where you landed](https://www.eggnog.ai/entertimeportal)
