@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-03-16, 02:09:19",
-      "https://news.ycombinator.com/item?id=43376483"
-    ],
-    [
-      "Imagine an Agent that can hot-reload tools. Open-source",
-      "https://github.com/ShaojieJiang/extendable-agent"
-    ]
-  ],
-  [
-    [
       "2025-03-16, 00:07:03",
       "https://news.ycombinator.com/item?id=43376033"
     ],
@@ -157,6 +147,16 @@
     [
       "Arbitrary-Scale Super-Resolution with Neural Heat Fields",
       "https://therasr.github.io/"
+    ]
+  ],
+  [
+    [
+      "2025-03-15, 03:12:39",
+      "https://news.ycombinator.com/item?id=43369633"
+    ],
+    [
+      "Transformers Without Normalization",
+      "https://jiachenzhu.github.io/DyT/"
     ]
   ],
   [
