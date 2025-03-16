@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-16, 12:14:33",
+      "https://news.ycombinator.com/item?id=43378415"
+    ],
+    [
+      "Learn You Some Erlang for Great Good",
+      "https://learnyousomeerlang.com/content"
+    ]
+  ],
+  [
+    [
+      "2025-03-16, 12:13:24",
+      "https://news.ycombinator.com/item?id=43378401"
+    ],
+    [
+      "Big LLMs weights are a piece of history",
+      "https://antirez.com/news/147"
+    ]
+  ],
+  [
+    [
       "2025-03-16, 12:01:04",
       "https://news.ycombinator.com/item?id=43378329"
     ],
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=43378239"
     ],
     [
-      "French gov's open source alternative to Notion or Outline",
+      "Docs – Open source alternative to Notion or Outline",
       "https://github.com/suitenumerique/docs"
     ]
   ],
@@ -97,16 +117,6 @@
     [
       "Show HN: My high school team's space probe",
       "https://drive.google.com/file/d/1_9V6lBTIfDsPdKCohQBc5Ed5UzDbnsrI/view?usp=sharing"
-    ]
-  ],
-  [
-    [
-      "2025-03-16, 05:59:08",
-      "https://news.ycombinator.com/item?id=43377169"
-    ],
-    [
-      "Implementing \"Tennis for Two\" using op amps (2024)",
-      "https://blog.qiqitori.com/2024/08/implementing-tennis-for-two-using-op-amps/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "High-performance computing, with much less code",
       "https://news.mit.edu/2025/high-performance-computing-with-much-less-code-0313"
-    ]
-  ],
-  [
-    [
-      "2025-03-14, 11:10:12",
-      "https://news.ycombinator.com/item?id=43361440"
-    ],
-    [
-      "Finding Signal in the Noise: Machine Learning and the Markets (Jane Street)",
-      "https://signalsandthreads.com/finding-signal-in-the-noise/"
     ]
   ],
   [
