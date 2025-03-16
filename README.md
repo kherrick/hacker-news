@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-16, 13:56:26](https://news.ycombinator.com/item?id=43379119) - [Male octopus injects female with venom during sex to avoid being eaten](https://www.newscientist.com/article/2471120-male-octopus-injects-female-with-venom-during-sex-to-avoid-being-eaten/)
 * [2025-03-16, 13:22:47](https://news.ycombinator.com/item?id=43378869) - [Medicaid cuts could devastate elderly in Florida nursing homes](https://www.tampabay.com/news/health/2025/03/16/florida-nursing-homes-medicaid-cuts/)
 * [2025-03-16, 12:14:33](https://news.ycombinator.com/item?id=43378415) - [Learn You Some Erlang for Great Good](https://learnyousomeerlang.com/content)
 * [2025-03-16, 12:13:24](https://news.ycombinator.com/item?id=43378401) - [Big LLMs weights are a piece of history](https://antirez.com/news/147)
 * [2025-03-16, 12:01:04](https://news.ycombinator.com/item?id=43378329) - [Lago (Open-Source Usage Based Billing)Is Hiring Sr Ruby Engineers (Latam)](https://jobs.lever.co/getlago/42f45126-a365-4f03-9736-565b26bc62f5)
-* [2025-03-16, 11:59:17](https://news.ycombinator.com/item?id=43378321) - [The good times in tech are over](https://www.seangoedecke.com/good-times-are-over/)
-* [2025-03-16, 11:43:14](https://news.ycombinator.com/item?id=43378256) - [Undergraduate Upends a 40-Year-Old Data Science Conjecture](https://www.wired.com/story/undergraduate-upends-a-40-year-old-data-science-conjecture/)
 * [2025-03-16, 11:38:52](https://news.ycombinator.com/item?id=43378239) - [Docs – Open source alternative to Notion or Outline](https://github.com/suitenumerique/docs)
 * [2025-03-16, 11:35:22](https://news.ycombinator.com/item?id=43378225) - [Styling an HTML dialog modal to take the full height of the viewport](https://til.simonwillison.net/css/dialog-full-height)
 * [2025-03-16, 10:28:16](https://news.ycombinator.com/item?id=43377985) - [The British Nationality Act as a Prolog Program (1986) [pdf]](https://www.doc.ic.ac.uk/~rak/papers/British%20Nationality%20Act.pdf)
@@ -28,6 +27,7 @@
 * [2025-03-13, 14:46:31](https://news.ycombinator.com/item?id=43353925) - [City simulator I made in Scratch](https://scratch.mit.edu/projects/1061728417/)
 * [2025-03-13, 02:48:31](https://news.ycombinator.com/item?id=43349940) - [Toni Morrison's Lost Play](https://www.vulture.com/article/toni-morrison-play-dreaming-emmett-influenced-beloved.html)
 * [2025-03-13, 00:44:58](https://news.ycombinator.com/item?id=43349296) - [Lego says it wants to start to bring video game development in-house](https://www.videogameschronicle.com/news/lego-is-starting-to-bring-its-game-development-in-house-key-exec-says/)
+* [2025-03-12, 22:38:03](https://news.ycombinator.com/item?id=43348434) - [Strengthening AI Agent Hijacking Evaluations](https://www.nist.gov/news-events/news/2025/01/technical-blog-strengthening-ai-agent-hijacking-evaluations)
 * [2025-03-12, 14:39:25](https://news.ycombinator.com/item?id=43343765) - [Steam-powered piston system sparks nuclear fusion plasma in Canada](https://interestingengineering.com/energy/steam-driven-nuclear-fusion-reactor)
 * [2025-03-12, 07:20:05](https://news.ycombinator.com/item?id=43340651) - [Wyvern's Open Satellite Feed](https://tech.marksblogg.com/wyvern-open-data-feed.html)
 
