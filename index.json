@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-03-16, 19:18:39",
-      "https://news.ycombinator.com/item?id=43381403"
+      "2025-03-16, 19:35:07",
+      "https://news.ycombinator.com/item?id=43381512"
     ],
     [
-      "Speeding up C++ code with template lambdas",
-      "https://lemire.me/blog/2025/03/15/speeding-up-c-code-with-template-lambdas/"
+      "Zlib-rs is faster than C",
+      "https://trifectatech.org/blog/zlib-rs-is-faster-than-c/"
+    ]
+  ],
+  [
+    [
+      "2025-03-16, 19:23:04",
+      "https://news.ycombinator.com/item?id=43381435"
+    ],
+    [
+      "'Bloody Saturday' at Voice of America and other U.S.-funded networks",
+      "https://www.npr.org/2025/03/15/nx-s1-5329244/bloody-saturday-voiceofamerica-radio-free-asia-europe-trump-kari-lake"
     ]
   ],
   [
@@ -91,6 +101,26 @@
   ],
   [
     [
+      "2025-03-16, 17:07:03",
+      "https://news.ycombinator.com/item?id=43380487"
+    ],
+    [
+      "Show HN: Cppmatch – Rust-Like Pattern Matching and Error Handling for C++",
+      "https://github.com/Rucadi/cpp-match"
+    ]
+  ],
+  [
+    [
+      "2025-03-16, 17:02:34",
+      "https://news.ycombinator.com/item?id=43380453"
+    ],
+    [
+      "When the Dotcom Bubble Burst",
+      "https://dfarq.homeip.net/when-the-dotcom-bubble-burst/"
+    ]
+  ],
+  [
+    [
       "2025-03-16, 17:00:53",
       "https://news.ycombinator.com/item?id=43380440"
     ],
@@ -157,26 +187,6 @@
     [
       "Docs – Open source alternative to Notion or Outline",
       "https://github.com/suitenumerique/docs"
-    ]
-  ],
-  [
-    [
-      "2025-03-16, 11:20:44",
-      "https://news.ycombinator.com/item?id=43378157"
-    ],
-    [
-      "A powerful free and open source WAF – UUSEC WAF",
-      "https://github.com/Safe3/uuWAF"
-    ]
-  ],
-  [
-    [
-      "2025-03-16, 09:50:14",
-      "https://news.ycombinator.com/item?id=43377867"
-    ],
-    [
-      "Implications of Global Privacy Control",
-      "https://developer.mozilla.org/en-US/blog/global-privacy-control/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "City simulator I made in Scratch",
       "https://scratch.mit.edu/projects/1061728417/"
-    ]
-  ],
-  [
-    [
-      "2025-03-13, 12:10:19",
-      "https://news.ycombinator.com/item?id=43352466"
-    ],
-    [
-      "Hours in a Hurricane, on a Race with No Course",
-      "https://www.nytimes.com/2025/03/12/magazine/adventure-race-hurricane.html"
     ]
   ]
 ]
