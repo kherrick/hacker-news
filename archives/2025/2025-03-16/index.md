@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-16](index.md)
 
+* [2025-03-16, 10:23:46](https://news.ycombinator.com/item?id=43377962) - [GPT 4.5 level for 1% of the price](https://twitter.com/Baidu_Inc/status/1901089355890036897)
 * [2025-03-16, 09:50:14](https://news.ycombinator.com/item?id=43377867) - [Implications of Global Privacy Control](https://developer.mozilla.org/en-US/blog/global-privacy-control/)
 * [2025-03-16, 09:37:59](https://news.ycombinator.com/item?id=43377829) - [Lynx is the oldest web browser still being maintained](https://news.ycombinator.com/item?id=43377829)
 * [2025-03-16, 08:48:09](https://news.ycombinator.com/item?id=43377690) - [Show HN: My high school team's space probe](https://drive.google.com/file/d/1_9V6lBTIfDsPdKCohQBc5Ed5UzDbnsrI/view?usp=sharing)

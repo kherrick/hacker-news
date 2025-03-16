@@ -41,6 +41,7 @@
 * [2025-03-14, 14:35:00](https://news.ycombinator.com/item?id=43363014) - [Stoicism's Appeal to the Rich and Powerful (2019)](https://www.exurbe.com/stoicisms-appeal-to-the-rich-and-powerful/)
 * [2025-03-14, 14:17:08](https://news.ycombinator.com/item?id=43362865) - [Ask HN: Any jobs that don't force you to always be advancing career wise?](https://news.ycombinator.com/item?id=43362865)
 * [2025-03-14, 14:15:40](https://news.ycombinator.com/item?id=43362847) - [Show HN: I built a vector illustration generator](https://www.illustration.app/)
+* [2025-03-14, 13:53:10](https://news.ycombinator.com/item?id=43362667) - [High-performance computing, with much less code](https://news.mit.edu/2025/high-performance-computing-with-much-less-code-0313)
 * [2025-03-14, 13:52:34](https://news.ycombinator.com/item?id=43362659) - [I outsourced my memory to an AI pin and all I got was fanfiction](https://www.theverge.com/reviews/627056/bee-review-ai-wearable)
 * [2025-03-14, 13:37:18](https://news.ycombinator.com/item?id=43362535) - [Show HN: Pi Labs – AI scoring and optimization tools for software engineers](https://build.withpi.ai/dashboard)
 * [2025-03-14, 13:36:20](https://news.ycombinator.com/item?id=43362528) - [The Cassowary Linear Arithmetic Constraint Solving Algorithm [pdf] (2002)](https://constraints.cs.washington.edu/solvers/cassowary-tochi.pdf)
