@@ -27,8 +27,8 @@
 * [2025-03-14, 05:39:43](https://news.ycombinator.com/item?id=43359905) - [A Princely Ploy: Inside the Ruse of a French-Armenian Scammer](https://publicdomainreview.org/essay/a-princely-ploy/)
 * [2025-03-14, 01:51:22](https://news.ycombinator.com/item?id=43358914) - [Show HN: Nash, I made a standalone note with single HTML file](https://keepworking.github.io/nash/)
 * [2025-03-13, 14:46:31](https://news.ycombinator.com/item?id=43353925) - [City simulator I made in Scratch](https://scratch.mit.edu/projects/1061728417/)
+* [2025-03-13, 12:10:19](https://news.ycombinator.com/item?id=43352466) - [Hours in a Hurricane, on a Race with No Course](https://www.nytimes.com/2025/03/12/magazine/adventure-race-hurricane.html)
 * [2025-03-13, 02:48:31](https://news.ycombinator.com/item?id=43349940) - [Toni Morrison's Lost Play](https://www.vulture.com/article/toni-morrison-play-dreaming-emmett-influenced-beloved.html)
-* [2025-03-13, 00:44:58](https://news.ycombinator.com/item?id=43349296) - [Lego says it wants to start to bring video game development in-house](https://www.videogameschronicle.com/news/lego-is-starting-to-bring-its-game-development-in-house-key-exec-says/)
 * [2025-03-12, 07:20:05](https://news.ycombinator.com/item?id=43340651) - [Wyvern's Open Satellite Feed](https://tech.marksblogg.com/wyvern-open-data-feed.html)
 
 ## [Archives](archives/index.md)

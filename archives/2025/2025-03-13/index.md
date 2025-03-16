@@ -39,6 +39,7 @@
 * [2025-03-13, 12:26:22](https://news.ycombinator.com/item?id=43352579) - [Revealed: How the UK tech secretary uses ChatGPT for policy advice](https://www.newscientist.com/article/2472068-revealed-how-the-uk-tech-secretary-uses-chatgpt-for-policy-advice/)
 * [2025-03-13, 12:20:29](https://news.ycombinator.com/item?id=43352531) - [OpenAI Asks White House for Relief from State AI Rules](https://finance.yahoo.com/news/openai-asks-white-house-relief-100000706.html)
 * [2025-03-13, 12:19:21](https://news.ycombinator.com/item?id=43352525) - [Is Rust a good fit for business apps?](https://www.bartoszsypytkowski.com/is-rust-a-good-fit-for-business-apps/)
+* [2025-03-13, 12:10:19](https://news.ycombinator.com/item?id=43352466) - [Hours in a Hurricane, on a Race with No Course](https://www.nytimes.com/2025/03/12/magazine/adventure-race-hurricane.html)
 * [2025-03-13, 12:00:05](https://news.ycombinator.com/item?id=43352405) - [Shadeform (YC S23) is hiring a senior founding engineer](https://www.ycombinator.com/companies/shadeform/jobs/2sDkjnk-founding-senior-software-engineer)
 * [2025-03-13, 10:43:54](https://news.ycombinator.com/item?id=43351988) - [Amateur Telescope Making Main Page](https://stellafane.org/tm/atm/)
 * [2025-03-13, 10:37:42](https://news.ycombinator.com/item?id=43351949) - [Meta goes to arbitrator to prevent whistleblower from promoting tell-all book](https://www.cnbc.com/2025/03/12/arbitrator-prohibits-meta-whistleblower-from-promoting-tell-all-book.html)
