@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-16, 12:01:04",
+      "https://news.ycombinator.com/item?id=43378329"
+    ],
+    [
+      "Lago (Open-Source Usage Based Billing)Is Hiring Sr Ruby Engineers (Latam)",
+      "https://jobs.lever.co/getlago/42f45126-a365-4f03-9736-565b26bc62f5"
+    ]
+  ],
+  [
+    [
+      "2025-03-16, 11:43:14",
+      "https://news.ycombinator.com/item?id=43378256"
+    ],
+    [
+      "Undergraduate Upends a 40-Year-Old Data Science Conjecture",
+      "https://www.wired.com/story/undergraduate-upends-a-40-year-old-data-science-conjecture/"
+    ]
+  ],
+  [
+    [
       "2025-03-16, 10:23:46",
       "https://news.ycombinator.com/item?id=43377962"
     ],
@@ -41,32 +61,12 @@
   ],
   [
     [
-      "2025-03-16, 06:41:23",
-      "https://news.ycombinator.com/item?id=43377287"
-    ],
-    [
-      "Sunsethue – Forecast Sunset Beauty",
-      "https://sunsethue.com/"
-    ]
-  ],
-  [
-    [
       "2025-03-16, 05:59:08",
       "https://news.ycombinator.com/item?id=43377169"
     ],
     [
       "Implementing \"Tennis for Two\" using op amps (2024)",
       "https://blog.qiqitori.com/2024/08/implementing-tennis-for-two-using-op-amps/"
-    ]
-  ],
-  [
-    [
-      "2025-03-16, 03:45:46",
-      "https://news.ycombinator.com/item?id=43376824"
-    ],
-    [
-      "Generate impressive-looking terminal output, look busy when stakeholders walk by",
-      "https://github.com/giacomo-b/rust-stakeholder"
     ]
   ],
   [
@@ -127,26 +127,6 @@
     [
       "Sign in as anyone: Bypassing SAML SSO authentication with parser differentials",
       "https://github.blog/security/sign-in-as-anyone-bypassing-saml-sso-authentication-with-parser-differentials/"
-    ]
-  ],
-  [
-    [
-      "2025-03-15, 19:04:01",
-      "https://news.ycombinator.com/item?id=43374505"
-    ],
-    [
-      "Show HN: Aiopandas – Async .apply() and .map() for Pandas, Faster API/LLMs Calls",
-      "https://github.com/telekinesis-inc/aiopandas"
-    ]
-  ],
-  [
-    [
-      "2025-03-15, 18:22:37",
-      "https://news.ycombinator.com/item?id=43374283"
-    ],
-    [
-      "AutoHete: An Automatic and Efficient Heterogeneous Training System for LLMs",
-      "https://arxiv.org/abs/2503.01890"
     ]
   ],
   [
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2025-03-14, 08:07:53",
+      "https://news.ycombinator.com/item?id=43360522"
+    ],
+    [
+      "DeepSeek focuses on research over revenue",
+      "https://www.ft.com/content/fb5c11bb-1d4b-465f-8283-451a19a3d425"
+    ]
+  ],
+  [
+    [
       "2025-03-14, 07:02:06",
       "https://news.ycombinator.com/item?id=43360249"
     ],
@@ -247,6 +237,16 @@
     [
       "Show HN: Nash, I made a standalone note with single HTML file",
       "https://keepworking.github.io/nash/"
+    ]
+  ],
+  [
+    [
+      "2025-03-13, 14:46:31",
+      "https://news.ycombinator.com/item?id=43353925"
+    ],
+    [
+      "City simulator I made in Scratch",
+      "https://scratch.mit.edu/projects/1061728417/"
     ]
   ],
   [
