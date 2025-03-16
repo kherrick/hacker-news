@@ -31,6 +31,7 @@
 * [2025-03-12, 15:09:09](https://news.ycombinator.com/item?id=43344082) - [Gemini Robotics brings AI into the physical world](https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/)
 * [2025-03-12, 14:46:02](https://news.ycombinator.com/item?id=43343832) - [A Perplexing JavaScript Parsing Puzzle](https://www.hillelwayne.com/post/javascript-puzzle/)
 * [2025-03-12, 14:43:44](https://news.ycombinator.com/item?id=43343808) - [Learning physics while monitoring vibrations of the Earth with seismic phenomena](https://iopscience.iop.org/article/10.1088/1361-6404/ada1af)
+* [2025-03-12, 14:39:25](https://news.ycombinator.com/item?id=43343765) - [Steam-powered piston system sparks nuclear fusion plasma in Canada](https://interestingengineering.com/energy/steam-driven-nuclear-fusion-reactor)
 * [2025-03-12, 12:56:01](https://news.ycombinator.com/item?id=43342712) - [The DuckDB Local UI](https://duckdb.org/2025/03/12/duckdb-ui.html)
 * [2025-03-12, 12:13:42](https://news.ycombinator.com/item?id=43342407) - [How far neuroscience is from understanding brains (2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10585277/)
 * [2025-03-12, 12:08:43](https://news.ycombinator.com/item?id=43342361) - [Peer-to-peer file transfers in the browser](https://github.com/kern/filepizza)

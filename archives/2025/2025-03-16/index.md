@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-16](index.md)
 
+* [2025-03-16, 13:22:47](https://news.ycombinator.com/item?id=43378869) - [Medicaid cuts could devastate elderly in Florida nursing homes](https://www.tampabay.com/news/health/2025/03/16/florida-nursing-homes-medicaid-cuts/)
 * [2025-03-16, 13:01:31](https://news.ycombinator.com/item?id=43378701) - [Scorpi – A Modern Hypervisor (For macOS)](https://github.com/macos-fuse-t/scorpi)
 * [2025-03-16, 12:14:33](https://news.ycombinator.com/item?id=43378415) - [Learn You Some Erlang for Great Good](https://learnyousomeerlang.com/content)
 * [2025-03-16, 12:13:24](https://news.ycombinator.com/item?id=43378401) - [Big LLMs weights are a piece of history](https://antirez.com/news/147)
