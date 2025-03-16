@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-16, 15:24:54](https://news.ycombinator.com/item?id=43379764) - [Life Altering PostgreSQL Patterns](https://mccue.dev/pages/3-11-25-life-altering-postgresql-patterns)
 * [2025-03-16, 14:36:29](https://news.ycombinator.com/item?id=43379395) - [Show HN: I Built a Customer Feedback Tool](https://usefeedlyst.com)
 * [2025-03-16, 14:20:02](https://news.ycombinator.com/item?id=43379262) - [DiceDB](https://dicedb.io/)
 * [2025-03-16, 13:56:26](https://news.ycombinator.com/item?id=43379119) - [Male octopus injects female with venom during sex to avoid being eaten](https://www.newscientist.com/article/2471120-male-octopus-injects-female-with-venom-during-sex-to-avoid-being-eaten/)
 * [2025-03-16, 13:32:01](https://news.ycombinator.com/item?id=43378934) - [Bio Cringe – The Obnoxious Social Media Bio Generator](https://biocringe.com/)
+* [2025-03-16, 13:27:05](https://news.ycombinator.com/item?id=43378900) - [Comet open source remote KVM from GL-iNet](https://www.gl-inet.com/products/gl-rm1/)
 * [2025-03-16, 12:13:24](https://news.ycombinator.com/item?id=43378401) - [Big LLMs weights are a piece of history](https://antirez.com/news/147)
 * [2025-03-16, 12:01:10](https://news.ycombinator.com/item?id=43378330) - [Raytracing on Intel's Arc B580 – By Chester Lam](https://chipsandcheese.com/p/raytracing-on-intels-arc-b580)
 * [2025-03-16, 12:01:04](https://news.ycombinator.com/item?id=43378329) - [Lago (Open-Source Usage Based Billing)Is Hiring Sr Ruby Engineers (Latam)](https://jobs.lever.co/getlago/42f45126-a365-4f03-9736-565b26bc62f5)
