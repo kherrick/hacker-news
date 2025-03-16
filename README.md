@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-16, 05:54:05](https://news.ycombinator.com/item?id=43377159) - [Someone copied our GitHub project, added stars, and injected malicious code](https://old.reddit.com/r/golang/comments/1jbzuot/someone_copied_our_github_project_made_it_look/)
-* [2025-03-16, 05:43:21](https://news.ycombinator.com/item?id=43377133) - [Subsonic Weapon used on the crowd in Belgrade today](https://old.reddit.com/r/PrepperIntel/comments/1jcanva/bad_vibes_subsonic_weapon_used_on_the_crowd_in/)
+* [2025-03-16, 05:59:08](https://news.ycombinator.com/item?id=43377169) - [Implementing \"Tennis for Two\" using op amps (2024)](https://blog.qiqitori.com/2024/08/implementing-tennis-for-two-using-op-amps/)
 * [2025-03-16, 03:45:46](https://news.ycombinator.com/item?id=43376824) - [Generate impressive-looking terminal output, look busy when stakeholders walk by](https://github.com/giacomo-b/rust-stakeholder)
 * [2025-03-16, 02:31:59](https://news.ycombinator.com/item?id=43376570) - [More pro for the DEC Professional 380 (featuring PRO/VENIX)](http://oldvcr.blogspot.com/2025/03/more-pro-for-dec-professional-380.html)
 * [2025-03-16, 00:07:03](https://news.ycombinator.com/item?id=43376033) - [Apple's long-lost hidden recovery partition from 1994 has been found](https://www.downtowndougbrown.com/2025/03/apples-long-lost-hidden-recovery-partition-from-1994-has-been-found/)
@@ -18,6 +17,7 @@
 * [2025-03-15, 15:32:02](https://news.ycombinator.com/item?id=43373157) - [Milk Kanban](https://brodzinski.com/2025/03/milk-kanban.html)
 * [2025-03-15, 13:32:53](https://news.ycombinator.com/item?id=43372431) - [Sunset Geometry (2016)](https://www.shapeoperator.com/2016/12/12/sunset-geometry/)
 * [2025-03-15, 10:39:31](https://news.ycombinator.com/item?id=43371583) - [Arbitrary-Scale Super-Resolution with Neural Heat Fields](https://therasr.github.io/)
+* [2025-03-14, 12:25:04](https://news.ycombinator.com/item?id=43361959) - [A look at Firefox forks](https://lwn.net/Articles/1012453/)
 * [2025-03-14, 11:10:12](https://news.ycombinator.com/item?id=43361440) - [Finding Signal in the Noise: Machine Learning and the Markets (Jane Street)](https://signalsandthreads.com/finding-signal-in-the-noise/)
 * [2025-03-14, 06:55:38](https://news.ycombinator.com/item?id=43360222) - [Hyperion (Tree)](https://en.wikipedia.org/wiki/Hyperion_(tree))
 * [2025-03-14, 01:51:22](https://news.ycombinator.com/item?id=43358914) - [Show HN: Nash, I made a standalone note with single HTML file](https://keepworking.github.io/nash/)
