@@ -61,6 +61,7 @@
 * [2025-03-14, 08:38:19](https://news.ycombinator.com/item?id=43360653) - [OpenAI calls on U.S. Government to let it freely use copyrighted material](https://openai.com/global-affairs/openai-proposals-for-the-us-ai-action-plan/)
 * [2025-03-14, 08:36:08](https://news.ycombinator.com/item?id=43360642) - [I-cant-believe-its-not-webusb: Hacking around lack of WebUSB support in Firefox](https://github.com/ArcaneNibble/i-cant-believe-its-not-webusb)
 * [2025-03-14, 08:12:18](https://news.ycombinator.com/item?id=43360541) - [The End of YC](https://benn.substack.com/p/the-end-of-yc)
+* [2025-03-14, 06:55:38](https://news.ycombinator.com/item?id=43360222) - [Hyperion (Tree)](https://en.wikipedia.org/wiki/Hyperion_(tree))
 * [2025-03-14, 06:30:04](https://news.ycombinator.com/item?id=43360113) - [SQL queries don't start with SELECT (2019)](https://jvns.ca/blog/2019/10/03/sql-queries-don-t-start-with-select/)
 * [2025-03-14, 06:21:42](https://news.ycombinator.com/item?id=43360079) - [Peirce Edition Project](https://peirce.indianapolis.iu.edu)
 * [2025-03-14, 06:07:55](https://news.ycombinator.com/item?id=43360024) - [Ex-Facebook director's new book paints brutal image of Mark Zuckerberg](https://www.sfgate.com/tech/article/ex-facebook-director-book-brutal-image-zuckerberg-20220239.php)
