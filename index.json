@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-15, 23:12:08",
+      "https://news.ycombinator.com/item?id=43375780"
+    ],
+    [
+      "ESP32 WiFi Superstitions",
+      "https://supakeen.com/weblog/esp32-wifi-superstitions/"
+    ]
+  ],
+  [
+    [
+      "2025-03-15, 22:52:13",
+      "https://news.ycombinator.com/item?id=43375676"
+    ],
+    [
+      "Mandelbrot Set Explorer",
+      "https://mandelbrot.site"
+    ]
+  ],
+  [
+    [
       "2025-03-15, 21:34:22",
       "https://news.ycombinator.com/item?id=43375307"
     ],
@@ -141,26 +161,6 @@
   ],
   [
     [
-      "2025-03-15, 03:12:39",
-      "https://news.ycombinator.com/item?id=43369633"
-    ],
-    [
-      "Transformers Without Normalization",
-      "https://jiachenzhu.github.io/DyT/"
-    ]
-  ],
-  [
-    [
-      "2025-03-14, 22:29:46",
-      "https://news.ycombinator.com/item?id=43367987"
-    ],
-    [
-      "Tj-actions/changed-files GitHub Action Compromised – used by over 23K repos",
-      "https://www.stepsecurity.io/blog/harden-runner-detection-tj-actions-changed-files-action-is-compromised"
-    ]
-  ],
-  [
-    [
       "2025-03-14, 14:36:23",
       "https://news.ycombinator.com/item?id=43363031"
     ],
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2025-03-14, 03:46:11",
-      "https://news.ycombinator.com/item?id=43359412"
-    ],
-    [
-      "Athena landed in a dark crater where the temperature was -280° F / -173° C",
-      "https://arstechnica.com/space/2025/03/athena-landed-in-a-dark-crater-where-the-temperature-was-minus-280-f/"
-    ]
-  ],
-  [
-    [
       "2025-03-14, 01:51:22",
       "https://news.ycombinator.com/item?id=43358914"
     ],
@@ -217,6 +207,16 @@
     [
       "Hexagon Spiral Coordinates",
       "https://www.redblobgames.com/blog/2025-03-12-hexagon-spiral-coordinates/"
+    ]
+  ],
+  [
+    [
+      "2025-03-13, 00:44:58",
+      "https://news.ycombinator.com/item?id=43349296"
+    ],
+    [
+      "Lego says it wants to start to bring video game development in-house",
+      "https://www.videogameschronicle.com/news/lego-is-starting-to-bring-its-game-development-in-house-key-exec-says/"
     ]
   ],
   [
