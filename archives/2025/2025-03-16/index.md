@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-03-16](index.md)
 
+* [2025-03-16, 15:14:21](https://news.ycombinator.com/item?id=43379688) - [Tonari Portals: be together in-person, anywhere](https://tonari.no/)
 * [2025-03-16, 14:36:29](https://news.ycombinator.com/item?id=43379395) - [Show HN: I Built a Customer Feedback Tool](https://usefeedlyst.com)
 * [2025-03-16, 14:20:02](https://news.ycombinator.com/item?id=43379262) - [DiceDB](https://dicedb.io/)
 * [2025-03-16, 13:56:26](https://news.ycombinator.com/item?id=43379119) - [Male octopus injects female with venom during sex to avoid being eaten](https://www.newscientist.com/article/2471120-male-octopus-injects-female-with-venom-during-sex-to-avoid-being-eaten/)
+* [2025-03-16, 13:54:01](https://news.ycombinator.com/item?id=43379099) - [Origami measuring spoon incites fury after 9 years of Kickstarter delay hell](https://arstechnica.com/tech-policy/2025/03/scoop-origami-measuring-spoon-incites-fury-after-9-years-of-kickstarter-delay-hell/)
 * [2025-03-16, 13:32:01](https://news.ycombinator.com/item?id=43378934) - [Bio Cringe – The Obnoxious Social Media Bio Generator](https://biocringe.com/)
 * [2025-03-16, 13:22:47](https://news.ycombinator.com/item?id=43378869) - [Medicaid cuts could devastate elderly in Florida nursing homes](https://www.tampabay.com/news/health/2025/03/16/florida-nursing-homes-medicaid-cuts/)
 * [2025-03-16, 13:01:31](https://news.ycombinator.com/item?id=43378701) - [Scorpi – A Modern Hypervisor (For macOS)](https://github.com/macos-fuse-t/scorpi)
