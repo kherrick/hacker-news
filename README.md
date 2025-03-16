@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-16, 02:09:19](https://news.ycombinator.com/item?id=43376483) - [Imagine an Agent that can hot-reload tools. Open-source](https://github.com/ShaojieJiang/extendable-agent)
 * [2025-03-16, 00:07:03](https://news.ycombinator.com/item?id=43376033) - [Apple's long-lost hidden recovery partition from 1994 has been found](https://www.downtowndougbrown.com/2025/03/apples-long-lost-hidden-recovery-partition-from-1994-has-been-found/)
 * [2025-03-15, 23:41:44](https://news.ycombinator.com/item?id=43375923) - [Career Advice in 2025](https://lethain.com/career-advice-2025/)
 * [2025-03-15, 23:12:08](https://news.ycombinator.com/item?id=43375780) - [ESP32 WiFi Superstitions](https://supakeen.com/weblog/esp32-wifi-superstitions/)
@@ -16,6 +15,7 @@
 * [2025-03-15, 15:32:02](https://news.ycombinator.com/item?id=43373157) - [Milk Kanban](https://brodzinski.com/2025/03/milk-kanban.html)
 * [2025-03-15, 13:32:53](https://news.ycombinator.com/item?id=43372431) - [Sunset Geometry (2016)](https://www.shapeoperator.com/2016/12/12/sunset-geometry/)
 * [2025-03-15, 10:39:31](https://news.ycombinator.com/item?id=43371583) - [Arbitrary-Scale Super-Resolution with Neural Heat Fields](https://therasr.github.io/)
+* [2025-03-15, 03:12:39](https://news.ycombinator.com/item?id=43369633) - [Transformers Without Normalization](https://jiachenzhu.github.io/DyT/)
 * [2025-03-14, 14:36:23](https://news.ycombinator.com/item?id=43363031) - [Briar: Peer to Peer Encrypted Messaging](https://briarproject.org/how-it-works/)
 * [2025-03-14, 12:25:04](https://news.ycombinator.com/item?id=43361959) - [A look at Firefox forks](https://lwn.net/Articles/1012453/)
 * [2025-03-14, 11:10:12](https://news.ycombinator.com/item?id=43361440) - [Finding Signal in the Noise: Machine Learning and the Markets (Jane Street)](https://signalsandthreads.com/finding-signal-in-the-noise/)
