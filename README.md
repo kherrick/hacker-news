@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-16, 06:41:23](https://news.ycombinator.com/item?id=43377287) - [Sunsethue – Forecast Sunset Beauty](https://sunsethue.com/)
 * [2025-03-16, 05:59:08](https://news.ycombinator.com/item?id=43377169) - [Implementing \"Tennis for Two\" using op amps (2024)](https://blog.qiqitori.com/2024/08/implementing-tennis-for-two-using-op-amps/)
 * [2025-03-16, 03:45:46](https://news.ycombinator.com/item?id=43376824) - [Generate impressive-looking terminal output, look busy when stakeholders walk by](https://github.com/giacomo-b/rust-stakeholder)
 * [2025-03-16, 02:31:59](https://news.ycombinator.com/item?id=43376570) - [More pro for the DEC Professional 380 (featuring PRO/VENIX)](http://oldvcr.blogspot.com/2025/03/more-pro-for-dec-professional-380.html)
@@ -24,7 +25,6 @@
 * [2025-03-14, 01:51:22](https://news.ycombinator.com/item?id=43358914) - [Show HN: Nash, I made a standalone note with single HTML file](https://keepworking.github.io/nash/)
 * [2025-03-13, 00:44:58](https://news.ycombinator.com/item?id=43349296) - [Lego says it wants to start to bring video game development in-house](https://www.videogameschronicle.com/news/lego-is-starting-to-bring-its-game-development-in-house-key-exec-says/)
 * [2025-03-12, 22:38:03](https://news.ycombinator.com/item?id=43348434) - [Strengthening AI Agent Hijacking Evaluations](https://www.nist.gov/news-events/news/2025/01/technical-blog-strengthening-ai-agent-hijacking-evaluations)
-* [2025-03-12, 20:57:20](https://news.ycombinator.com/item?id=43347588) - [D-Wave quantum annealers solve problems classical algorithms struggle with](https://arstechnica.com/science/2025/03/d-wave-quantum-annealers-solve-problems-classical-algorithms-struggle-with/)
 * [2025-03-12, 14:43:44](https://news.ycombinator.com/item?id=43343808) - [Learning physics while monitoring vibrations of the Earth with seismic phenomena](https://iopscience.iop.org/article/10.1088/1361-6404/ada1af)
 * [2025-03-12, 07:20:05](https://news.ycombinator.com/item?id=43340651) - [Wyvern's Open Satellite Feed](https://tech.marksblogg.com/wyvern-open-data-feed.html)
 * [2025-03-12, 01:32:59](https://news.ycombinator.com/item?id=43339084) - [Evidence that Neanderthal and Homo sapiens engaged in cultural exchange](https://phys.org/news/2025-03-burials-compelling-evidence-neanderthal-homo.html)
