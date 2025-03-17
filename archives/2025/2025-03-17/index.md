@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-03-17](index.md)
 
+* [2025-03-17, 12:22:15](https://news.ycombinator.com/item?id=43387718) - [22% Drop in Programming Jobs](https://www.washingtonpost.com/business/2025/03/14/programming-jobs-lost-artificial-intelligence/)
+* [2025-03-17, 12:00:59](https://news.ycombinator.com/item?id=43387574) - [Nango (YC W23, Product Integrations Platform) Is Hiring Remote Engineers](https://www.nango.dev/careers)
+* [2025-03-17, 11:53:47](https://news.ycombinator.com/item?id=43387514) - [Scientists discover first known animal that doesn't breathe](https://www.livescience.com/first-non-breathing-animal.html)
+* [2025-03-17, 11:29:04](https://news.ycombinator.com/item?id=43387334) - [Stupid Smart Pointers in C](http://blog.kevinalbs.com/stupid_smart_pointers)
+* [2025-03-17, 11:27:19](https://news.ycombinator.com/item?id=43387325) - [Meta puts stop on promotion of tell-all book by former employee](https://www.theguardian.com/technology/2025/mar/13/meta-careless-people-book-former-employee)
 * [2025-03-17, 11:17:09](https://news.ycombinator.com/item?id=43387259) - [Can a LLM convert C, to ASM to specs and then to a working Z/80 Speccy tape? Yes](https://ghuntley.com/z80/)
 * [2025-03-17, 10:22:40](https://news.ycombinator.com/item?id=43386856) - [Pine64's RISC-V tablet now ships with a Debian-based Linux and improved hardware](https://liliputing.com/pine64s-risc-v-tablet-now-ships-with-a-debian-based-linux-distro-and-improved-hardware/)
 * [2025-03-17, 10:10:46](https://news.ycombinator.com/item?id=43386788) - [Trump Derangement Syndrome](https://www.revisor.mn.gov/bills/text.php?number=SF2589&version=0&session=ls94&session_year=2025&session_number=0)
