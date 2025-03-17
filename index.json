@@ -11,22 +11,22 @@
   ],
   [
     [
+      "2025-03-17, 20:43:35",
+      "https://news.ycombinator.com/item?id=43392549"
+    ],
+    [
+      "The High Heel Problem",
+      "https://simonschreibt.de/gat/the-high-heel-problem/"
+    ]
+  ],
+  [
+    [
       "2025-03-17, 20:40:52",
       "https://news.ycombinator.com/item?id=43392521"
     ],
     [
       "Show HN: OpenTimes – Free travel times between U.S. Census geographies",
       "https://opentimes.org"
-    ]
-  ],
-  [
-    [
-      "2025-03-17, 20:12:40",
-      "https://news.ycombinator.com/item?id=43392303"
-    ],
-    [
-      "Occupry your next lease to negotiate a better deal",
-      "https://occupry.com"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "Show HN: Localscope–Limit scope of Python functions for reproducible execution",
       "https://localscope.readthedocs.io/en/latest/"
+    ]
+  ],
+  [
+    [
+      "2025-03-17, 17:25:35",
+      "https://news.ycombinator.com/item?id=43390747"
+    ],
+    [
+      "LAPD Surveilled Gaza Protests Using This Social Media Tool",
+      "https://theintercept.com/2025/03/17/lapd-surveillance-gaza-palestine-protests-dataminr/"
     ]
   ],
   [
@@ -81,22 +91,12 @@
   ],
   [
     [
-      "2025-03-17, 11:17:09",
-      "https://news.ycombinator.com/item?id=43387259"
+      "2025-03-17, 12:35:16",
+      "https://news.ycombinator.com/item?id=43387834"
     ],
     [
-      "Converting C to ASM to specs and then to a working Z/80 Speccy tape",
-      "https://ghuntley.com/z80/"
-    ]
-  ],
-  [
-    [
-      "2025-03-17, 11:06:24",
-      "https://news.ycombinator.com/item?id=43387188"
-    ],
-    [
-      "Akira ransomware can be cracked with sixteen RTX 4090 GPUs in around ten hours",
-      "https://www.tomshardware.com/tech-industry/cyber-security/akira-ransomware-cracked-with-rtx-4090-new-exploit-to-brute-force-encryption-attack"
+      "Show HN: A bi-directional, persisted KV store that is faster than Redis",
+      "https://hpkv.io"
     ]
   ],
   [
@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2025-03-17, 04:41:49",
+      "https://news.ycombinator.com/item?id=43385268"
+    ],
+    [
+      "The Alexa feature \"do not send voice recordings\" you enabled no longer available",
+      "https://discuss.systems/@dev/114161826926246661"
+    ]
+  ],
+  [
+    [
       "2025-03-17, 03:25:26",
       "https://news.ycombinator.com/item?id=43384894"
     ],
@@ -157,16 +167,6 @@
     [
       "Launching RDAP; sunsetting WHOIS",
       "https://www.icann.org/en/announcements/details/icann-update-launching-rdap-sunsetting-whois-27-01-2025-en"
-    ]
-  ],
-  [
-    [
-      "2025-03-16, 19:35:07",
-      "https://news.ycombinator.com/item?id=43381512"
-    ],
-    [
-      "Zlib-rs is faster than C",
-      "https://trifectatech.org/blog/zlib-rs-is-faster-than-c/"
     ]
   ],
   [
