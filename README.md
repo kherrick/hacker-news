@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-17, 03:00:44](https://news.ycombinator.com/item?id=43384786) - [Let's knock down social media's walled gardens – Tim Berners-Lee](https://www.ft.com/content/79d2d19a-08df-48fc-9a6f-a9dbef58f642)
-* [2025-03-17, 02:48:30](https://news.ycombinator.com/item?id=43384730) - [Brown University Professor Is Deported Despite a Judge's Order](https://www.nytimes.com/2025/03/16/us/brown-university-rasha-alawieh-professor-deported.html)
 * [2025-03-17, 00:48:48](https://news.ycombinator.com/item?id=43384069) - [Sunsetting Whois](https://www.icann.org/en/announcements/details/icann-update-launching-rdap-sunsetting-whois-27-01-2025-en)
 * [2025-03-16, 21:09:46](https://news.ycombinator.com/item?id=43382344) - [Who Is Free Software For?](https://tante.cc/2025/03/03/who-is-free-software-for/)
 * [2025-03-16, 21:00:22](https://news.ycombinator.com/item?id=43382261) - [Kastle (YC S24) Is Hiring Engineer #3](https://www.ycombinator.com/companies/kastle/jobs/XSq5nJT-founding-applied-ai-engineer-at-kastle)
@@ -17,6 +16,7 @@
 * [2025-03-16, 17:02:34](https://news.ycombinator.com/item?id=43380453) - [When the Dotcom Bubble Burst](https://dfarq.homeip.net/when-the-dotcom-bubble-burst/)
 * [2025-03-16, 14:20:02](https://news.ycombinator.com/item?id=43379262) - [DiceDB](https://dicedb.io/)
 * [2025-03-16, 13:30:36](https://news.ycombinator.com/item?id=43378925) - [Show HN: 10 teams are racing to build a pivotal tracker replacement](https://bye-tracker.net)
+* [2025-03-16, 13:27:05](https://news.ycombinator.com/item?id=43378900) - [Comet open source remote KVM from GL-iNet](https://www.gl-inet.com/products/gl-rm1/)
 * [2025-03-16, 12:13:24](https://news.ycombinator.com/item?id=43378401) - [Big LLMs weights are a piece of history](https://antirez.com/news/147)
 * [2025-03-16, 11:38:52](https://news.ycombinator.com/item?id=43378239) - [Docs – Open source alternative to Notion or Outline](https://github.com/suitenumerique/docs)
 * [2025-03-15, 18:22:15](https://news.ycombinator.com/item?id=43374278) - [That Time I Recreated Photoshop in C++](https://f055.net/technology/that-time-i/that-time-i-recreated-photoshop-in-c/)
