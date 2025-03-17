@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-17](index.md)
 
+* [2025-03-17, 11:17:09](https://news.ycombinator.com/item?id=43387259) - [Can a LLM convert C, to ASM to specs and then to a working Z/80 Speccy tape? Yes](https://ghuntley.com/z80/)
 * [2025-03-17, 10:22:40](https://news.ycombinator.com/item?id=43386856) - [Pine64's RISC-V tablet now ships with a Debian-based Linux and improved hardware](https://liliputing.com/pine64s-risc-v-tablet-now-ships-with-a-debian-based-linux-distro-and-improved-hardware/)
 * [2025-03-17, 10:10:46](https://news.ycombinator.com/item?id=43386788) - [Trump Derangement Syndrome](https://www.revisor.mn.gov/bills/text.php?number=SF2589&version=0&session=ls94&session_year=2025&session_number=0)
 * [2025-03-17, 10:02:22](https://news.ycombinator.com/item?id=43386745) - [Show HN: Beyond Jira: Lightweight Project Management for Freelancers](https://enkitask.com/)
