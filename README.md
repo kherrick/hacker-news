@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-17, 07:30:26](https://news.ycombinator.com/item?id=43386004) - [The exceptional Jordan algebra (2020)](https://cp4space.hatsya.com/2020/10/28/the-exceptional-jordan-algebra/)
-* [2025-03-17, 07:11:33](https://news.ycombinator.com/item?id=43385893) - [Spanish toxic oil syndrome cover-up (2001)](https://www.theguardian.com/education/2001/aug/25/research.highereducation)
 * [2025-03-17, 04:41:49](https://news.ycombinator.com/item?id=43385268) - [The Alexa feature \"Do Not Send Voice Recordings\" you enabled no longer available](https://discuss.systems/@dev/114161826926246661)
 * [2025-03-17, 03:25:26](https://news.ycombinator.com/item?id=43384894) - [Conducting forensics of mobile devices to find signs of a potential compromise](https://github.com/mvt-project/mvt)
 * [2025-03-17, 03:09:28](https://news.ycombinator.com/item?id=43384826) - [Genomic study indicates our capacity for language emerged 135,000 years ago](https://phys.org/news/2025-03-genomic-capacity-language-emerged-years.html)
@@ -30,6 +29,7 @@
 * [2025-03-13, 14:49:06](https://news.ycombinator.com/item?id=43353947) - [Did the Particle Go Through the Two Slits, or Did the Wave Function?](https://profmattstrassler.com/2025/03/13/did-the-particle-go-through-the-two-slits-or-did-the-wave-function/)
 * [2025-03-13, 13:38:26](https://news.ycombinator.com/item?id=43353223) - [Going down the rabbit hole of Git's new bundle-URI](https://blog.gitbutler.com/going-down-the-rabbit-hole-of-gits-new-bundle-uri/)
 * [2025-03-13, 12:16:33](https://news.ycombinator.com/item?id=43352503) - [A Guide to Undefined Behavior in C and C++ (2010)](https://blog.regehr.org/archives/213)
+* [2025-03-13, 00:30:19](https://news.ycombinator.com/item?id=43349204) - [Laplacian Mesh Smoothing by Throwing Vertices](https://nosferalatu.com/./LaplacianMeshSmoothing.html)
 
 ## [Archives](archives/index.md)
 
