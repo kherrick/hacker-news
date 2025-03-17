@@ -38,6 +38,7 @@
 * [2025-03-15, 08:21:58](https://news.ycombinator.com/item?id=43370950) - [Tesla is done in Germany: 94% say they won't buy a Tesla car](https://electrek.co/2025/03/14/tesla-is-done-in-germany-94-say-they-wont-buy-a-tesla-car/)
 * [2025-03-15, 07:00:29](https://news.ycombinator.com/item?id=43370596) - [Noloco (YC S21) Is Hiring a Product Designer in Barcelona](https://www.ycombinator.com/companies/noloco/jobs/MCp9ejT-founding-product-designer)
 * [2025-03-15, 03:41:27](https://news.ycombinator.com/item?id=43369791) - [Experts warn about the 'crumbling infrastructure' of federal government data](https://www.npr.org/2025/01/24/nx-s1-5250264/unemployment-rate-cpi-inflation-census-bureau-labor-statistics)
+* [2025-03-15, 03:28:39](https://news.ycombinator.com/item?id=43369739) - [Ogres Are Cool](https://www.lrb.co.uk/the-paper/v47/n05/colin-burrow/ogres-are-cool)
 * [2025-03-15, 03:12:39](https://news.ycombinator.com/item?id=43369633) - [Transformers Without Normalization](https://jiachenzhu.github.io/DyT/)
 * [2025-03-15, 02:57:44](https://news.ycombinator.com/item?id=43369542) - [Optifye.ai (YC W25) Is Hiring](https://www.ycombinator.com/companies/optifye-ai/jobs/sDfGXkK-founding-engineer)
 * [2025-03-15, 02:49:48](https://news.ycombinator.com/item?id=43369502) - [The Ozempocalypse Is Nigh](https://www.astralcodexten.com/p/the-ozempocalypse-is-nigh)
