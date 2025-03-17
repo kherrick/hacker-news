@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-03-17](index.md)
 
+* [2025-03-17, 23:12:52](https://news.ycombinator.com/item?id=43393716) - [France plots tax on super-rich to rearm – and Britain could be next](https://www.telegraph.co.uk/money/tax/france-tax-super-wealthy-fund-defence-bill-britain-next/)
 * [2025-03-17, 22:46:55](https://news.ycombinator.com/item?id=43393515) - [Net Zero by 2050 Is 'Impossible,' UK Tory Leader Badenoch Says](https://www.bloomberg.com/news/articles/2025-03-17/net-zero-by-2050-is-impossible-uk-tory-leader-badenoch-says)
+* [2025-03-17, 22:41:34](https://news.ycombinator.com/item?id=43393478) - [Harvard says tuition will be free for families making $200K or less](https://abcnews.go.com/Business/harvard-tuition-families-making-200k/story?id=119874241)
+* [2025-03-17, 22:18:40](https://news.ycombinator.com/item?id=43393307) - [What Will the Betelgeuse Supernova Be Like – and Will It Hurt Us?](https://www.universetoday.com/articles/what-will-the-betelgeuse-supernova-be-like-and-will-it-hurt-us)
 * [2025-03-17, 22:13:23](https://news.ycombinator.com/item?id=43393259) - [Alphabet in Talks to Buy Cloud Security Firm Wiz for $33B](https://www.bloomberg.com/news/articles/2025-03-17/alphabet-in-talks-to-buy-cloud-security-firm-wiz-for-33-billion)
 * [2025-03-17, 22:00:12](https://news.ycombinator.com/item?id=43393150) - [The Best Size of a Laptop](https://gokmengorgen.net/2025/03/17/the-best-size-of-a-laptop/)
 * [2025-03-17, 21:50:22](https://news.ycombinator.com/item?id=43393079) - [Amazon plans to lay off 14,000 managerial positions to save $3.5B yearly](https://techstartups.com/2025/03/17/amazon-to-lay-off-14000-managerial-positions-to-save-3-5-billion-annually/)
