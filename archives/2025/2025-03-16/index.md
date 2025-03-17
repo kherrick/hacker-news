@@ -63,6 +63,7 @@
 * [2025-03-16, 09:50:14](https://news.ycombinator.com/item?id=43377867) - [Implications of Global Privacy Control](https://developer.mozilla.org/en-US/blog/global-privacy-control/)
 * [2025-03-16, 09:37:59](https://news.ycombinator.com/item?id=43377829) - [Lynx is the oldest web browser still being maintained](https://news.ycombinator.com/item?id=43377829)
 * [2025-03-16, 08:48:09](https://news.ycombinator.com/item?id=43377690) - [Show HN: My high school team's space probe](https://drive.google.com/file/d/1_9V6lBTIfDsPdKCohQBc5Ed5UzDbnsrI/view?usp=sharing)
+* [2025-03-16, 07:37:20](https://news.ycombinator.com/item?id=43377463) - [Compression of Spectral Images Using Spectral JPEG XL](https://jcgt.org/published/0014/01/04/)
 * [2025-03-16, 06:41:23](https://news.ycombinator.com/item?id=43377287) - [Sunsethue – Forecast Sunset Beauty](https://sunsethue.com/)
 * [2025-03-16, 05:59:08](https://news.ycombinator.com/item?id=43377169) - [Implementing \"Tennis for Two\" using op amps (2024)](https://blog.qiqitori.com/2024/08/implementing-tennis-for-two-using-op-amps/)
 * [2025-03-16, 05:54:05](https://news.ycombinator.com/item?id=43377159) - [Someone copied our GitHub project, added stars, and injected malicious code](https://old.reddit.com/r/golang/comments/1jbzuot/someone_copied_our_github_project_made_it_look/)
