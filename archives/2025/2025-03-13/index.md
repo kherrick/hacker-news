@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-13](index.md)
 
 * [2025-03-13, 23:32:34](https://news.ycombinator.com/item?id=43358293) - [Ask HN: How to study for system design that doesn't include front end/back end?](https://news.ycombinator.com/item?id=43358293)
+* [2025-03-13, 22:55:59](https://news.ycombinator.com/item?id=43358025) - [For Better or for Worse, the Overload (2024)](https://consteval.ca/2024/07/25/overload/)
 * [2025-03-13, 22:55:21](https://news.ycombinator.com/item?id=43358016) - [Would {word1} beat {word2} • Ranked AI game](https://www.word-battle.com/)
 * [2025-03-13, 22:54:31](https://news.ycombinator.com/item?id=43358003) - [How Pi Almost Wasn't](https://mathenchant.wordpress.com/2025/03/13/how-pi-almost-wasnt/)
 * [2025-03-13, 22:48:45](https://news.ycombinator.com/item?id=43357955) - [C Plus Prolog](https://github.com/needleful/c_plus_prolog)

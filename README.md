@@ -23,7 +23,7 @@
 * [2025-03-14, 19:12:12](https://news.ycombinator.com/item?id=43366124) - [Edgar Allan Poe's life was a mess. But his work was in his command](https://www.washingtonpost.com/books/2025/03/13/edgar-allan-poe-biography-kopley-review/)
 * [2025-03-14, 14:00:34](https://news.ycombinator.com/item?id=43362725) - [Local-First and Ejectable](https://thymer.com/local-first-ejectable)
 * [2025-03-14, 07:12:43](https://news.ycombinator.com/item?id=43360287) - [From Languages to Language Sets](https://gist.github.com/xixixao/8e363dbd3663b6729cd5b6d74dbbf9d4)
-* [2025-03-14, 00:37:50](https://news.ycombinator.com/item?id=43358593) - [My Journey Back to Math: A Short Review of MathAcademy](https://www.staszewski.xyz/blog/math-academy-review/)
+* [2025-03-13, 22:55:59](https://news.ycombinator.com/item?id=43358025) - [For Better or for Worse, the Overload (2024)](https://consteval.ca/2024/07/25/overload/)
 * [2025-03-13, 18:36:05](https://news.ycombinator.com/item?id=43356068) - [Artificial photosynthesis directed toward organic synthesis](https://www.nature.com/articles/s41467-025-56374-z)
 * [2025-03-13, 15:03:08](https://news.ycombinator.com/item?id=43354084) - [A 62M-year-old skeleton sheds light on an enigmatic mammal](https://www.sciencedaily.com/releases/2025/03/250311121514.htm)
 * [2025-03-13, 14:49:06](https://news.ycombinator.com/item?id=43353947) - [Did the Particle Go Through the Two Slits, or Did the Wave Function?](https://profmattstrassler.com/2025/03/13/did-the-particle-go-through-the-two-slits-or-did-the-wave-function/)
