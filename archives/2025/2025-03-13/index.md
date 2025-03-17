@@ -13,6 +13,7 @@
 * [2025-03-13, 22:12:31](https://news.ycombinator.com/item?id=43357739) - [Y Combinator urges the White House to support Europe's Digital Markets Act](https://techcrunch.com/2025/03/13/y-combinator-urges-the-white-house-to-support-europes-digital-markets-act/)
 * [2025-03-13, 22:07:29](https://news.ycombinator.com/item?id=43357704) - [Tiny changes in gene expression make big difference in eye size of fruit flies](https://phys.org/news/2025-02-tiny-gene-big-differences-eye.html)
 * [2025-03-13, 22:05:44](https://news.ycombinator.com/item?id=43357687) - [Recursion kills: The story behind CVE-2024-8176 in libexpat](https://blog.hartwork.org/posts/expat-2-7-0-released/)
+* [2025-03-13, 21:52:41](https://news.ycombinator.com/item?id=43357591) - [A AI etymology deconstructor – can guess fake words](https://deconstructor.ayush.digital/)
 * [2025-03-13, 21:31:53](https://news.ycombinator.com/item?id=43357420) - [Sketch-Programming: A Minimalist Paradigm for Code Design](https://github.com/DmitryOlkhovoi/Sketch-programming)
 * [2025-03-13, 20:46:26](https://news.ycombinator.com/item?id=43357078) - [Functional Tests as a Tree of Continuations (2010)](https://www.evanmiller.org/functional-tests-as-a-tree-of-continuations.html)
 * [2025-03-13, 20:35:47](https://news.ycombinator.com/item?id=43356995) - [Why \"Normal\" Engineers Are the Key to Great Teams](https://spectrum.ieee.org/10x-engineer)
