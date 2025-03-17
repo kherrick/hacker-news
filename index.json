@@ -1,6 +1,56 @@
 [
   [
     [
+      "2025-03-17, 12:22:15",
+      "https://news.ycombinator.com/item?id=43387718"
+    ],
+    [
+      "22% Drop in Programming Jobs",
+      "https://www.washingtonpost.com/business/2025/03/14/programming-jobs-lost-artificial-intelligence/"
+    ]
+  ],
+  [
+    [
+      "2025-03-17, 12:00:59",
+      "https://news.ycombinator.com/item?id=43387574"
+    ],
+    [
+      "Nango (YC W23, Product Integrations Platform) Is Hiring Remote Engineers",
+      "https://www.nango.dev/careers"
+    ]
+  ],
+  [
+    [
+      "2025-03-17, 11:53:47",
+      "https://news.ycombinator.com/item?id=43387514"
+    ],
+    [
+      "Scientists discover first known animal that doesn't breathe",
+      "https://www.livescience.com/first-non-breathing-animal.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-17, 11:29:04",
+      "https://news.ycombinator.com/item?id=43387334"
+    ],
+    [
+      "Stupid Smart Pointers in C",
+      "http://blog.kevinalbs.com/stupid_smart_pointers"
+    ]
+  ],
+  [
+    [
+      "2025-03-17, 11:27:19",
+      "https://news.ycombinator.com/item?id=43387325"
+    ],
+    [
+      "Meta puts stop on promotion of tell-all book by former employee",
+      "https://www.theguardian.com/technology/2025/mar/13/meta-careless-people-book-former-employee"
+    ]
+  ],
+  [
+    [
       "2025-03-17, 11:17:09",
       "https://news.ycombinator.com/item?id=43387259"
     ],
@@ -37,16 +87,6 @@
     [
       "uv downloads overtake Poetry for Wagtail users",
       "https://wagtail.org/blog/uv-overtakes-poetry/"
-    ]
-  ],
-  [
-    [
-      "2025-03-17, 08:26:20",
-      "https://news.ycombinator.com/item?id=43386253"
-    ],
-    [
-      "A Facebook Insider's Exposé Alleges Bad Behavior at the Top",
-      "https://web.archive.org/web/20250310221013/https://www.nytimes.com/2025/03/10/books/review/careless-people-sarah-wynn-williams.html"
     ]
   ],
   [
@@ -111,32 +151,12 @@
   ],
   [
     [
-      "2025-03-16, 21:00:22",
-      "https://news.ycombinator.com/item?id=43382261"
-    ],
-    [
-      "Kastle (YC S24) Is Hiring Engineer #3",
-      "https://www.ycombinator.com/companies/kastle/jobs/XSq5nJT-founding-applied-ai-engineer-at-kastle"
-    ]
-  ],
-  [
-    [
       "2025-03-16, 19:35:07",
       "https://news.ycombinator.com/item?id=43381512"
     ],
     [
       "Zlib-rs is faster than C",
       "https://trifectatech.org/blog/zlib-rs-is-faster-than-c/"
-    ]
-  ],
-  [
-    [
-      "2025-03-16, 18:48:39",
-      "https://news.ycombinator.com/item?id=43381195"
-    ],
-    [
-      "Tcl Tutorial",
-      "https://www.tcl-lang.org/man/tcl8.5/tutorial/tcltutorial.html"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-03-16, 03:37:47",
-      "https://news.ycombinator.com/item?id=43376793"
-    ],
-    [
-      "Peru's Great Urban Experiment (2023)",
-      "https://archaeology.org/issues/may-june-2023/features/peru-chimu-chan-chan/"
-    ]
-  ],
-  [
-    [
       "2025-03-15, 18:22:15",
       "https://news.ycombinator.com/item?id=43374278"
     ],
@@ -247,16 +257,6 @@
     [
       "Checkers written in Rust and exported to WASM",
       "https://kevinalbs.com/checkers/"
-    ]
-  ],
-  [
-    [
-      "2025-03-14, 14:00:34",
-      "https://news.ycombinator.com/item?id=43362725"
-    ],
-    [
-      "Local-First and Ejectable",
-      "https://thymer.com/local-first-ejectable"
     ]
   ],
   [
