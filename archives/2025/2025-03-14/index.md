@@ -25,6 +25,7 @@
 * [2025-03-14, 18:18:34](https://news.ycombinator.com/item?id=43365517) - [Apple's Siri Chief Calls AI Delays Ugly and Embarrassing, Promises Fixes](https://www.bloomberg.com/news/articles/2025-03-14/apple-s-siri-chief-calls-ai-delays-ugly-and-embarrassing-promises-fixes)
 * [2025-03-14, 17:45:33](https://news.ycombinator.com/item?id=43365083) - [Decrypting encrypted files from Akira ransomware using a bunch of GPUs](https://tinyhack.com/2025/03/13/decrypting-encrypted-files-from-akira-ransomware-linux-esxi-variant-2024-using-a-bunch-of-gpus/)
 * [2025-03-14, 17:24:39](https://news.ycombinator.com/item?id=43364843) - [(Any) 8-hour time-restricted-eating window effective for weight loss](https://www.nia.nih.gov/news/timeframe-8-hour-restricted-eating-irrelevant-weight-loss)
+* [2025-03-14, 17:17:50](https://news.ycombinator.com/item?id=43364776) - [Checkers written in Rust and exported to WASM](https://kevinalbs.com/checkers/)
 * [2025-03-14, 17:16:33](https://news.ycombinator.com/item?id=43364761) - [The School Car Pickup Line Is a National Embarrassment](https://collegetowns.substack.com/p/the-school-car-pickup-line-is-a-national)
 * [2025-03-14, 17:12:18](https://news.ycombinator.com/item?id=43364715) - [The Curious Surge of Productivity in U.S. Restaurants](https://bfi.uchicago.edu/working-papers/the-curious-surge-of-productivity-in-u-s-restaurants/)
 * [2025-03-14, 17:07:11](https://news.ycombinator.com/item?id=43364668) - [You Can Make Postgres Scale](https://pgdog.dev/blog/you-can-make-postgres-scale)
