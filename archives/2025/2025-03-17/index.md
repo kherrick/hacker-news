@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-17](index.md)
 
 * [2025-03-17, 08:49:02](https://news.ycombinator.com/item?id=43386357) - [uv overtakes Poetry (for Wagtail users)](https://wagtail.org/blog/uv-overtakes-poetry/)
+* [2025-03-17, 08:26:20](https://news.ycombinator.com/item?id=43386253) - [A Facebook Insider's Exposé Alleges Bad Behavior at the Top](https://web.archive.org/web/20250310221013/https://www.nytimes.com/2025/03/10/books/review/careless-people-sarah-wynn-williams.html)
 * [2025-03-17, 07:30:26](https://news.ycombinator.com/item?id=43386004) - [The exceptional Jordan algebra (2020)](https://cp4space.hatsya.com/2020/10/28/the-exceptional-jordan-algebra/)
 * [2025-03-17, 07:11:33](https://news.ycombinator.com/item?id=43385893) - [Spanish toxic oil syndrome cover-up (2001)](https://www.theguardian.com/education/2001/aug/25/research.highereducation)
 * [2025-03-17, 05:02:33](https://news.ycombinator.com/item?id=43385356) - [SpaceX asks US to address foreign trade barriers](https://www.reuters.com/technology/elon-musks-spacex-asks-us-address-foreign-trade-barriers-2025-03-14/)

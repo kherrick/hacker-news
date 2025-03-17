@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-17, 08:49:02](https://news.ycombinator.com/item?id=43386357) - [uv overtakes Poetry (for Wagtail users)](https://wagtail.org/blog/uv-overtakes-poetry/)
+* [2025-03-17, 08:26:20](https://news.ycombinator.com/item?id=43386253) - [A Facebook Insider's Exposé Alleges Bad Behavior at the Top](https://web.archive.org/web/20250310221013/https://www.nytimes.com/2025/03/10/books/review/careless-people-sarah-wynn-williams.html)
 * [2025-03-17, 07:30:26](https://news.ycombinator.com/item?id=43386004) - [The exceptional Jordan algebra (2020)](https://cp4space.hatsya.com/2020/10/28/the-exceptional-jordan-algebra/)
 * [2025-03-17, 04:41:49](https://news.ycombinator.com/item?id=43385268) - [The Alexa feature \"Do Not Send Voice Recordings\" you enabled no longer available](https://discuss.systems/@dev/114161826926246661)
 * [2025-03-17, 03:25:26](https://news.ycombinator.com/item?id=43384894) - [Conducting forensics of mobile devices to find signs of a potential compromise](https://github.com/mvt-project/mvt)
@@ -9,7 +10,6 @@
 * [2025-03-16, 21:00:22](https://news.ycombinator.com/item?id=43382261) - [Kastle (YC S24) Is Hiring Engineer #3](https://www.ycombinator.com/companies/kastle/jobs/XSq5nJT-founding-applied-ai-engineer-at-kastle)
 * [2025-03-16, 19:49:02](https://news.ycombinator.com/item?id=43381627) - [Everything Picolisp can do, and more](https://picolisp.com/wiki/?Documentation)
 * [2025-03-16, 19:35:07](https://news.ycombinator.com/item?id=43381512) - [Zlib-rs is faster than C](https://trifectatech.org/blog/zlib-rs-is-faster-than-c/)
-* [2025-03-16, 19:32:38](https://news.ycombinator.com/item?id=43381497) - [Tänzer: The lovable web server framework for Tcl](https://tanzer.io/)
 * [2025-03-16, 18:48:39](https://news.ycombinator.com/item?id=43381195) - [Tcl Tutorial](https://www.tcl-lang.org/man/tcl8.5/tutorial/tcltutorial.html)
 * [2025-03-16, 18:41:30](https://news.ycombinator.com/item?id=43381141) - [Microsoft's 1986 IPO](https://dfarq.homeip.net/microsofts-1986-ipo/)
 * [2025-03-16, 17:55:42](https://news.ycombinator.com/item?id=43380833) - [Teach, Don't Tell (2013)](https://stevelosh.com/blog/2013/09/teach-dont-tell/)
