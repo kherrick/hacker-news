@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-03-17, 16:34:17",
-      "https://news.ycombinator.com/item?id=43390270"
+      "2025-03-17, 17:00:21",
+      "https://news.ycombinator.com/item?id=43390505"
     ],
     [
-      "UK Online Safety Act comes into force today",
-      "https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/enforcing-the-online-safety-act-platforms-must-start-tackling-illegal-material-from-today/"
+      "Piramidal (YC W24) is hiring a ML Engineer to decode brainwaves",
+      "https://www.ycombinator.com/companies/piramidal/jobs/neQ9JaN-research-engineer-foundational-ai"
+    ]
+  ],
+  [
+    [
+      "2025-03-17, 16:47:02",
+      "https://news.ycombinator.com/item?id=43390400"
+    ],
+    [
+      "Deep Learning Is Not So Mysterious or Different",
+      "https://arxiv.org/abs/2503.02113"
     ]
   ],
   [
@@ -37,16 +47,6 @@
     [
       "Raspberry Pi RP2350 Now Available for Purchase, Stacked Memory Variant Coming",
       "https://www.phoronix.com/news/Raspberry-Pi-RP2350-Buy"
-    ]
-  ],
-  [
-    [
-      "2025-03-17, 12:00:59",
-      "https://news.ycombinator.com/item?id=43387574"
-    ],
-    [
-      "Nango (YC W23, Product Integrations Platform) Is Hiring Remote Engineers",
-      "https://www.nango.dev/careers"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2025-03-16, 08:42:01",
-      "https://news.ycombinator.com/item?id=43377665"
-    ],
-    [
-      "Take a New Look at CSS Shapes (2018)",
-      "https://www.smashingmagazine.com/2018/09/css-shapes/"
-    ]
-  ],
-  [
-    [
       "2025-03-16, 07:37:20",
       "https://news.ycombinator.com/item?id=43377463"
     ],
@@ -247,6 +237,16 @@
     [
       "Checkers written in Rust and exported to WASM",
       "https://kevinalbs.com/checkers/"
+    ]
+  ],
+  [
+    [
+      "2025-03-14, 08:34:18",
+      "https://news.ycombinator.com/item?id=43360633"
+    ],
+    [
+      "Coq-of-rust: Formal verification tool for Rust",
+      "https://github.com/formal-land/coq-of-rust"
     ]
   ],
   [
