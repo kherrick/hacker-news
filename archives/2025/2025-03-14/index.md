@@ -70,6 +70,7 @@
 * [2025-03-14, 08:12:18](https://news.ycombinator.com/item?id=43360541) - [The End of YC](https://benn.substack.com/p/the-end-of-yc)
 * [2025-03-14, 08:07:53](https://news.ycombinator.com/item?id=43360522) - [DeepSeek focuses on research over revenue in contrast to Silicon Valley](https://www.ft.com/content/fb5c11bb-1d4b-465f-8283-451a19a3d425)
 * [2025-03-14, 07:12:43](https://news.ycombinator.com/item?id=43360287) - [From Languages to Language Sets](https://gist.github.com/xixixao/8e363dbd3663b6729cd5b6d74dbbf9d4)
+* [2025-03-14, 07:02:39](https://news.ycombinator.com/item?id=43360251) - [HTTP/3 is everywhere but nowhere](https://httptoolkit.com/blog/http3-quic-open-source-support-nowhere/)
 * [2025-03-14, 07:02:06](https://news.ycombinator.com/item?id=43360249) - [Command A: Max performance, minimal compute – 256k context window](https://cohere.com/blog/command-a)
 * [2025-03-14, 06:55:38](https://news.ycombinator.com/item?id=43360222) - [Hyperion (Tree)](https://en.wikipedia.org/wiki/Hyperion_(tree))
 * [2025-03-14, 06:30:04](https://news.ycombinator.com/item?id=43360113) - [SQL queries don't start with SELECT (2019)](https://jvns.ca/blog/2019/10/03/sql-queries-don-t-start-with-select/)
