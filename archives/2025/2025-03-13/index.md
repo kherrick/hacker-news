@@ -16,6 +16,7 @@
 * [2025-03-13, 20:46:26](https://news.ycombinator.com/item?id=43357078) - [Functional Tests as a Tree of Continuations (2010)](https://www.evanmiller.org/functional-tests-as-a-tree-of-continuations.html)
 * [2025-03-13, 20:35:47](https://news.ycombinator.com/item?id=43356995) - [Why \"Normal\" Engineers Are the Key to Great Teams](https://spectrum.ieee.org/10x-engineer)
 * [2025-03-13, 19:05:17](https://news.ycombinator.com/item?id=43356314) - [The Lost Art of Logarithms](https://www.lostartoflogarithms.com/)
+* [2025-03-13, 18:36:05](https://news.ycombinator.com/item?id=43356068) - [Artificial photosynthesis directed toward organic synthesis](https://www.nature.com/articles/s41467-025-56374-z)
 * [2025-03-13, 18:32:27](https://news.ycombinator.com/item?id=43356039) - [Xata Agent: AI agent expert in PostgreSQL](https://github.com/xataio/agent)
 * [2025-03-13, 17:51:47](https://news.ycombinator.com/item?id=43355692) - [Beware tech career advice from old heads – Jacob Kaplan-Moss](https://jacobian.org/2025/mar/13/beware-advice-from-old-heads/)
 * [2025-03-13, 17:48:03](https://news.ycombinator.com/item?id=43355658) - [Show HN: Bubbles, a vanilla JavaScript web game](https://ehmorris.com/bubbles/)
