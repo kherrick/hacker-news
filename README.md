@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-17, 08:49:02](https://news.ycombinator.com/item?id=43386357) - [uv overtakes Poetry (for Wagtail users)](https://wagtail.org/blog/uv-overtakes-poetry/)
+* [2025-03-17, 08:49:02](https://news.ycombinator.com/item?id=43386357) - [uv downloads overtake Poetry for Wagtail users](https://wagtail.org/blog/uv-overtakes-poetry/)
+* [2025-03-17, 08:44:37](https://news.ycombinator.com/item?id=43386333) - [Altbot (Fediverse alt-text generator) no longer uses Google's services](https://fuzzies.wtf/@micr0/114172532499348433)
 * [2025-03-17, 08:26:20](https://news.ycombinator.com/item?id=43386253) - [A Facebook Insider's Exposé Alleges Bad Behavior at the Top](https://web.archive.org/web/20250310221013/https://www.nytimes.com/2025/03/10/books/review/careless-people-sarah-wynn-williams.html)
 * [2025-03-17, 07:30:26](https://news.ycombinator.com/item?id=43386004) - [The exceptional Jordan algebra (2020)](https://cp4space.hatsya.com/2020/10/28/the-exceptional-jordan-algebra/)
 * [2025-03-17, 04:41:49](https://news.ycombinator.com/item?id=43385268) - [The Alexa feature \"Do Not Send Voice Recordings\" you enabled no longer available](https://discuss.systems/@dev/114161826926246661)
@@ -11,7 +12,6 @@
 * [2025-03-16, 19:49:02](https://news.ycombinator.com/item?id=43381627) - [Everything Picolisp can do, and more](https://picolisp.com/wiki/?Documentation)
 * [2025-03-16, 19:35:07](https://news.ycombinator.com/item?id=43381512) - [Zlib-rs is faster than C](https://trifectatech.org/blog/zlib-rs-is-faster-than-c/)
 * [2025-03-16, 18:48:39](https://news.ycombinator.com/item?id=43381195) - [Tcl Tutorial](https://www.tcl-lang.org/man/tcl8.5/tutorial/tcltutorial.html)
-* [2025-03-16, 18:41:30](https://news.ycombinator.com/item?id=43381141) - [Microsoft's 1986 IPO](https://dfarq.homeip.net/microsofts-1986-ipo/)
 * [2025-03-16, 17:55:42](https://news.ycombinator.com/item?id=43380833) - [Teach, Don't Tell (2013)](https://stevelosh.com/blog/2013/09/teach-dont-tell/)
 * [2025-03-16, 17:28:55](https://news.ycombinator.com/item?id=43380649) - [Amiga 600: From the Amiga No One Wanted to Retro Favorite](https://dfarq.homeip.net/amiga-600-the-amiga-no-one-wanted/)
 * [2025-03-16, 17:02:34](https://news.ycombinator.com/item?id=43380453) - [When the Dotcom Bubble Burst](https://dfarq.homeip.net/when-the-dotcom-bubble-burst/)
