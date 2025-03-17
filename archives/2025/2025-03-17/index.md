@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-03-17](index.md)
 
+* [2025-03-17, 22:13:23](https://news.ycombinator.com/item?id=43393259) - [Alphabet in Talks to Buy Cloud Security Firm Wiz for $33B](https://www.bloomberg.com/news/articles/2025-03-17/alphabet-in-talks-to-buy-cloud-security-firm-wiz-for-33-billion)
+* [2025-03-17, 22:00:12](https://news.ycombinator.com/item?id=43393150) - [The Best Size of a Laptop](https://gokmengorgen.net/2025/03/17/the-best-size-of-a-laptop/)
 * [2025-03-17, 21:50:22](https://news.ycombinator.com/item?id=43393079) - [Amazon plans to lay off 14,000 managerial positions to save $3.5B yearly](https://techstartups.com/2025/03/17/amazon-to-lay-off-14000-managerial-positions-to-save-3-5-billion-annually/)
+* [2025-03-17, 21:34:53](https://news.ycombinator.com/item?id=43392950) - [Quantum Speedup Found for Class of Hard Problems](https://www.quantamagazine.org/quantum-speedup-found-for-huge-class-of-hard-problems-20250317/)
 * [2025-03-17, 21:00:28](https://news.ycombinator.com/item?id=43392696) - [Luthor (YC F24) Is Hiring Ruby on Rails Engineers in San Francisco](https://www.ycombinator.com/companies/luthor/jobs/HKrdhp0-staff-senior-software-engineer-backend-fullstack)
 * [2025-03-17, 20:43:35](https://news.ycombinator.com/item?id=43392549) - [The High Heel Problem](https://simonschreibt.de/gat/the-high-heel-problem/)
 * [2025-03-17, 20:40:52](https://news.ycombinator.com/item?id=43392521) - [Show HN: OpenTimes – Free travel times between U.S. Census geographies](https://opentimes.org)
