@@ -74,6 +74,7 @@
 * [2025-03-14, 07:02:39](https://news.ycombinator.com/item?id=43360251) - [HTTP/3 is everywhere but nowhere](https://httptoolkit.com/blog/http3-quic-open-source-support-nowhere/)
 * [2025-03-14, 07:02:06](https://news.ycombinator.com/item?id=43360249) - [Command A: Max performance, minimal compute – 256k context window](https://cohere.com/blog/command-a)
 * [2025-03-14, 06:55:38](https://news.ycombinator.com/item?id=43360222) - [Hyperion (Tree)](https://en.wikipedia.org/wiki/Hyperion_(tree))
+* [2025-03-14, 06:38:53](https://news.ycombinator.com/item?id=43360150) - [Copyright and the Demo Scene](https://www.datagubbe.se/scenecop/)
 * [2025-03-14, 06:30:04](https://news.ycombinator.com/item?id=43360113) - [SQL queries don't start with SELECT (2019)](https://jvns.ca/blog/2019/10/03/sql-queries-don-t-start-with-select/)
 * [2025-03-14, 06:21:42](https://news.ycombinator.com/item?id=43360079) - [Peirce Edition Project](https://peirce.indianapolis.iu.edu)
 * [2025-03-14, 06:07:55](https://news.ycombinator.com/item?id=43360024) - [Ex-Facebook director's new book paints brutal image of Mark Zuckerberg](https://www.sfgate.com/tech/article/ex-facebook-director-book-brutal-image-zuckerberg-20220239.php)
