@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2025-03-16, 14:20:02",
-      "https://news.ycombinator.com/item?id=43379262"
-    ],
-    [
-      "DiceDB",
-      "https://dicedb.io/"
-    ]
-  ],
-  [
-    [
       "2025-03-16, 13:30:36",
       "https://news.ycombinator.com/item?id=43378925"
     ],
@@ -247,6 +237,16 @@
     [
       "Checkers written in Rust and exported to WASM",
       "https://kevinalbs.com/checkers/"
+    ]
+  ],
+  [
+    [
+      "2025-03-14, 14:00:34",
+      "https://news.ycombinator.com/item?id=43362725"
+    ],
+    [
+      "Local-First and Ejectable",
+      "https://thymer.com/local-first-ejectable"
     ]
   ],
   [
