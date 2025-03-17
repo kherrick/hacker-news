@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-17](index.md)
 
 * [2025-03-17, 21:00:28](https://news.ycombinator.com/item?id=43392696) - [Luthor (YC F24) Is Hiring Ruby on Rails Engineers in San Francisco](https://www.ycombinator.com/companies/luthor/jobs/HKrdhp0-staff-senior-software-engineer-backend-fullstack)
+* [2025-03-17, 20:43:35](https://news.ycombinator.com/item?id=43392549) - [The High Heel Problem](https://simonschreibt.de/gat/the-high-heel-problem/)
 * [2025-03-17, 20:40:52](https://news.ycombinator.com/item?id=43392521) - [Show HN: OpenTimes – Free travel times between U.S. Census geographies](https://opentimes.org)
 * [2025-03-17, 20:12:40](https://news.ycombinator.com/item?id=43392303) - [Occupry your next lease to negotiate a better deal](https://occupry.com)
 * [2025-03-17, 18:36:21](https://news.ycombinator.com/item?id=43391459) - [Archival Storage](https://blog.dshr.org/2025/03/archival-storage.html)
