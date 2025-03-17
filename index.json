@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-17, 10:22:40",
+      "https://news.ycombinator.com/item?id=43386856"
+    ],
+    [
+      "Pine64's RISC-V tablet now ships with a Debian-based Linux and improved hardware",
+      "https://liliputing.com/pine64s-risc-v-tablet-now-ships-with-a-debian-based-linux-distro-and-improved-hardware/"
+    ]
+  ],
+  [
+    [
+      "2025-03-17, 10:02:22",
+      "https://news.ycombinator.com/item?id=43386745"
+    ],
+    [
+      "Show HN: Beyond Jira: Lightweight Project Management for Freelancers",
+      "https://enkitask.com/"
+    ]
+  ],
+  [
+    [
       "2025-03-17, 08:49:02",
       "https://news.ycombinator.com/item?id=43386357"
     ],
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=43384069"
     ],
     [
-      "Sunsetting Whois",
+      "Launching RDAP; sunsetting WHOIS",
       "https://www.icann.org/en/announcements/details/icann-update-launching-rdap-sunsetting-whois-27-01-2025-en"
     ]
   ],
@@ -97,16 +117,6 @@
     [
       "Zlib-rs is faster than C",
       "https://trifectatech.org/blog/zlib-rs-is-faster-than-c/"
-    ]
-  ],
-  [
-    [
-      "2025-03-16, 19:32:38",
-      "https://news.ycombinator.com/item?id=43381497"
-    ],
-    [
-      "Tänzer: The lovable web server framework for Tcl",
-      "https://tanzer.io/"
     ]
   ],
   [
@@ -221,32 +231,22 @@
   ],
   [
     [
+      "2025-03-14, 18:47:48",
+      "https://news.ycombinator.com/item?id=43365878"
+    ],
+    [
+      "The Trials of an Exorcist, 1597",
+      "https://www.gethistories.com/p/the-trials-of-an-exorcist-1597"
+    ]
+  ],
+  [
+    [
       "2025-03-14, 17:17:50",
       "https://news.ycombinator.com/item?id=43364776"
     ],
     [
       "Checkers written in Rust and exported to WASM",
       "https://kevinalbs.com/checkers/"
-    ]
-  ],
-  [
-    [
-      "2025-03-14, 14:00:34",
-      "https://news.ycombinator.com/item?id=43362725"
-    ],
-    [
-      "Local-First and Ejectable",
-      "https://thymer.com/local-first-ejectable"
-    ]
-  ],
-  [
-    [
-      "2025-03-14, 07:12:43",
-      "https://news.ycombinator.com/item?id=43360287"
-    ],
-    [
-      "From Languages to Language Sets",
-      "https://gist.github.com/xixixao/8e363dbd3663b6729cd5b6d74dbbf9d4"
     ]
   ],
   [
