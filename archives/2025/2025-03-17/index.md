@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-17](index.md)
 
+* [2025-03-17, 21:50:22](https://news.ycombinator.com/item?id=43393079) - [Amazon plans to lay off 14,000 managerial positions to save $3.5B yearly](https://techstartups.com/2025/03/17/amazon-to-lay-off-14000-managerial-positions-to-save-3-5-billion-annually/)
 * [2025-03-17, 21:00:28](https://news.ycombinator.com/item?id=43392696) - [Luthor (YC F24) Is Hiring Ruby on Rails Engineers in San Francisco](https://www.ycombinator.com/companies/luthor/jobs/HKrdhp0-staff-senior-software-engineer-backend-fullstack)
 * [2025-03-17, 20:43:35](https://news.ycombinator.com/item?id=43392549) - [The High Heel Problem](https://simonschreibt.de/gat/the-high-heel-problem/)
 * [2025-03-17, 20:40:52](https://news.ycombinator.com/item?id=43392521) - [Show HN: OpenTimes – Free travel times between U.S. Census geographies](https://opentimes.org)
@@ -11,6 +12,7 @@
 * [2025-03-17, 18:36:21](https://news.ycombinator.com/item?id=43391459) - [Archival Storage](https://blog.dshr.org/2025/03/archival-storage.html)
 * [2025-03-17, 17:33:14](https://news.ycombinator.com/item?id=43390823) - [Show HN: Localscope–Limit scope of Python functions for reproducible execution](https://localscope.readthedocs.io/en/latest/)
 * [2025-03-17, 17:25:35](https://news.ycombinator.com/item?id=43390747) - [LAPD Surveilled Gaza Protests Using This Social Media Tool](https://theintercept.com/2025/03/17/lapd-surveillance-gaza-palestine-protests-dataminr/)
+* [2025-03-17, 17:10:59](https://news.ycombinator.com/item?id=43390595) - [Wall Street’s ‘Private Rooms’](https://www.bloomberg.com/news/features/2025-03-16/wall-street-s-dark-pools-grow-murkier-with-private-rooms)
 * [2025-03-17, 17:10:59](https://news.ycombinator.com/item?id=43390595) - [Darker Than a Dark Pool? Welcome to Wall Street's 'Private Rooms'](https://finance.yahoo.com/news/darker-dark-pool-welcome-wall-210011026.html)
 * [2025-03-17, 17:00:21](https://news.ycombinator.com/item?id=43390505) - [Piramidal (YC W24) is hiring a ML Engineer to decode brainwaves](https://www.ycombinator.com/companies/piramidal/jobs/neQ9JaN-research-engineer-foundational-ai)
 * [2025-03-17, 16:55:17](https://news.ycombinator.com/item?id=43390467) - [Alphabet spins out Taara – Internet over lasers](https://x.company/blog/posts/taara-graduation/)

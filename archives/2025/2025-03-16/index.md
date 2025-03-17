@@ -59,6 +59,7 @@
 * [2025-03-16, 11:38:52](https://news.ycombinator.com/item?id=43378239) - [French gov's open source alternative to Notion or Outline](https://github.com/suitenumerique/docs)
 * [2025-03-16, 11:35:22](https://news.ycombinator.com/item?id=43378225) - [Styling an HTML dialog modal to take the full height of the viewport](https://til.simonwillison.net/css/dialog-full-height)
 * [2025-03-16, 11:20:44](https://news.ycombinator.com/item?id=43378157) - [A powerful free and open source WAF – UUSEC WAF](https://github.com/Safe3/uuWAF)
+* [2025-03-16, 11:05:58](https://news.ycombinator.com/item?id=43378114) - [PrintedLabs – 3D printable optical experiment equipment](https://printedlabs.uni-bayreuth.de/en)
 * [2025-03-16, 10:28:16](https://news.ycombinator.com/item?id=43377985) - [The British Nationality Act as a Prolog Program (1986) [pdf]](https://www.doc.ic.ac.uk/~rak/papers/British%20Nationality%20Act.pdf)
 * [2025-03-16, 10:23:46](https://news.ycombinator.com/item?id=43377962) - [GPT 4.5 level for 1% of the price](https://twitter.com/Baidu_Inc/status/1901089355890036897)
 * [2025-03-16, 09:50:14](https://news.ycombinator.com/item?id=43377867) - [Implications of Global Privacy Control](https://developer.mozilla.org/en-US/blog/global-privacy-control/)
