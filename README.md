@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-17, 10:10:46](https://news.ycombinator.com/item?id=43386788) - [Trump Derangement Syndrome](https://www.revisor.mn.gov/bills/text.php?number=SF2589&version=0&session=ls94&session_year=2025&session_number=0)
 * [2025-03-17, 08:49:02](https://news.ycombinator.com/item?id=43386357) - [uv downloads overtake Poetry for Wagtail users](https://wagtail.org/blog/uv-overtakes-poetry/)
 * [2025-03-17, 08:26:20](https://news.ycombinator.com/item?id=43386253) - [A Facebook Insider's Exposé Alleges Bad Behavior at the Top](https://web.archive.org/web/20250310221013/https://www.nytimes.com/2025/03/10/books/review/careless-people-sarah-wynn-williams.html)
 * [2025-03-17, 07:30:26](https://news.ycombinator.com/item?id=43386004) - [The exceptional Jordan algebra (2020)](https://cp4space.hatsya.com/2020/10/28/the-exceptional-jordan-algebra/)
@@ -11,6 +10,7 @@
 * [2025-03-17, 00:48:48](https://news.ycombinator.com/item?id=43384069) - [Sunsetting Whois](https://www.icann.org/en/announcements/details/icann-update-launching-rdap-sunsetting-whois-27-01-2025-en)
 * [2025-03-16, 21:00:22](https://news.ycombinator.com/item?id=43382261) - [Kastle (YC S24) Is Hiring Engineer #3](https://www.ycombinator.com/companies/kastle/jobs/XSq5nJT-founding-applied-ai-engineer-at-kastle)
 * [2025-03-16, 19:35:07](https://news.ycombinator.com/item?id=43381512) - [Zlib-rs is faster than C](https://trifectatech.org/blog/zlib-rs-is-faster-than-c/)
+* [2025-03-16, 19:32:38](https://news.ycombinator.com/item?id=43381497) - [Tänzer: The lovable web server framework for Tcl](https://tanzer.io/)
 * [2025-03-16, 18:48:39](https://news.ycombinator.com/item?id=43381195) - [Tcl Tutorial](https://www.tcl-lang.org/man/tcl8.5/tutorial/tcltutorial.html)
 * [2025-03-16, 17:55:42](https://news.ycombinator.com/item?id=43380833) - [Teach, Don't Tell (2013)](https://stevelosh.com/blog/2013/09/teach-dont-tell/)
 * [2025-03-16, 17:28:55](https://news.ycombinator.com/item?id=43380649) - [Amiga 600: From the Amiga No One Wanted to Retro Favorite](https://dfarq.homeip.net/amiga-600-the-amiga-no-one-wanted/)
@@ -24,12 +24,12 @@
 * [2025-03-14, 20:05:53](https://news.ycombinator.com/item?id=43366671) - [Recommendations for designing magic numbers of binary file formats](https://hackers.town/@zwol/114155595855705796)
 * [2025-03-14, 17:17:50](https://news.ycombinator.com/item?id=43364776) - [Checkers written in Rust and exported to WASM](https://kevinalbs.com/checkers/)
 * [2025-03-14, 14:00:34](https://news.ycombinator.com/item?id=43362725) - [Local-First and Ejectable](https://thymer.com/local-first-ejectable)
+* [2025-03-14, 07:12:43](https://news.ycombinator.com/item?id=43360287) - [From Languages to Language Sets](https://gist.github.com/xixixao/8e363dbd3663b6729cd5b6d74dbbf9d4)
 * [2025-03-14, 03:30:33](https://news.ycombinator.com/item?id=43359343) - [Image Processing in C – Dwayne Phillips [pdf]](https://homepages.inf.ed.ac.uk/rbf/BOOKS/PHILLIPS/cips2ed.pdf)
 * [2025-03-13, 21:52:41](https://news.ycombinator.com/item?id=43357591) - [A AI etymology deconstructor – can guess fake words](https://deconstructor.ayush.digital/)
 * [2025-03-13, 18:36:05](https://news.ycombinator.com/item?id=43356068) - [Artificial photosynthesis directed toward organic synthesis](https://www.nature.com/articles/s41467-025-56374-z)
 * [2025-03-13, 14:49:06](https://news.ycombinator.com/item?id=43353947) - [Did the Particle Go Through the Two Slits, or Did the Wave Function?](https://profmattstrassler.com/2025/03/13/did-the-particle-go-through-the-two-slits-or-did-the-wave-function/)
 * [2025-03-13, 13:38:26](https://news.ycombinator.com/item?id=43353223) - [Going down the rabbit hole of Git's new bundle-URI](https://blog.gitbutler.com/going-down-the-rabbit-hole-of-gits-new-bundle-uri/)
-* [2025-03-13, 12:16:33](https://news.ycombinator.com/item?id=43352503) - [A Guide to Undefined Behavior in C and C++ (2010)](https://blog.regehr.org/archives/213)
 
 ## [Archives](archives/index.md)
 
