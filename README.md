@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-17, 23:25:53](https://news.ycombinator.com/item?id=43393822) - [GIMP 3.0 Released](https://testing.gimp.org/news/2025/03/16/gimp-3-0-released/)
 * [2025-03-17, 23:12:52](https://news.ycombinator.com/item?id=43393716) - [France plots tax on super-rich to rearm – and Britain could be next](https://www.telegraph.co.uk/money/tax/france-tax-super-wealthy-fund-defence-bill-britain-next/)
 * [2025-03-17, 22:41:34](https://news.ycombinator.com/item?id=43393478) - [Harvard says tuition will be free for families making $200K or less](https://abcnews.go.com/Business/harvard-tuition-families-making-200k/story?id=119874241)
 * [2025-03-17, 22:18:40](https://news.ycombinator.com/item?id=43393307) - [What Will the Betelgeuse Supernova Be Like – and Will It Hurt Us?](https://www.universetoday.com/articles/what-will-the-betelgeuse-supernova-be-like-and-will-it-hurt-us)
@@ -26,7 +27,6 @@
 * [2025-03-16, 11:05:58](https://news.ycombinator.com/item?id=43378114) - [PrintedLabs – 3D printable optical experiment equipment](https://printedlabs.uni-bayreuth.de/en)
 * [2025-03-16, 10:02:21](https://news.ycombinator.com/item?id=43377897) - [Show HN: Cascii – A portable ASCII diagram builder written in vanilla JavaScript](https://github.com/casparwylie/cascii-core)
 * [2025-03-14, 11:00:41](https://news.ycombinator.com/item?id=43361389) - [Theory crafting a system for 1000 simultaneous micro SD card ingests](https://forum.level1techs.com/t/theory-crafting-a-system-for-maximum-simultaneous-micro-sd-card-ingest/227159)
-* [2025-03-14, 08:34:18](https://news.ycombinator.com/item?id=43360633) - [Coq-of-rust: Formal verification tool for Rust](https://github.com/formal-land/coq-of-rust)
 * [2025-03-14, 07:02:39](https://news.ycombinator.com/item?id=43360251) - [HTTP/3 is everywhere but nowhere](https://httptoolkit.com/blog/http3-quic-open-source-support-nowhere/)
 * [2025-03-14, 03:13:26](https://news.ycombinator.com/item?id=43359264) - [Hidden Messages in Emojis and Hacking the US Treasury](https://slamdunksoftware.substack.com/p/hidden-messages-in-emojis-and-hacking)
 * [2025-03-13, 23:26:56](https://news.ycombinator.com/item?id=43358264) - [Show HN: Psychedelic animation generator; (p)art of your next trip](https://collidingscopes.github.io/liquid-shape-distortions/)
