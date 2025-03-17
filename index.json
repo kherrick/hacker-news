@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-17, 21:50:22",
+      "https://news.ycombinator.com/item?id=43393079"
+    ],
+    [
+      "Amazon plans to lay off 14,000 managerial positions to save $3.5B yearly",
+      "https://techstartups.com/2025/03/17/amazon-to-lay-off-14000-managerial-positions-to-save-3-5-billion-annually/"
+    ]
+  ],
+  [
+    [
       "2025-03-17, 21:00:28",
       "https://news.ycombinator.com/item?id=43392696"
     ],
@@ -65,8 +75,18 @@
       "https://news.ycombinator.com/item?id=43390747"
     ],
     [
-      "LAPD surveilled Gaza protests using this social media tool",
+      "Dataminr tracked Gaza-related protests",
       "https://theintercept.com/2025/03/17/lapd-surveillance-gaza-palestine-protests-dataminr/"
+    ]
+  ],
+  [
+    [
+      "2025-03-17, 17:10:59",
+      "https://news.ycombinator.com/item?id=43390595"
+    ],
+    [
+      "Wall Street’s ‘Private Rooms’",
+      "https://www.bloomberg.com/news/features/2025-03-16/wall-street-s-dark-pools-grow-murkier-with-private-rooms"
     ]
   ],
   [
@@ -191,32 +211,22 @@
   ],
   [
     [
-      "2025-03-16, 17:02:34",
-      "https://news.ycombinator.com/item?id=43380453"
-    ],
-    [
-      "When the Dotcom Bubble Burst",
-      "https://dfarq.homeip.net/when-the-dotcom-bubble-burst/"
-    ]
-  ],
-  [
-    [
       "2025-03-16, 12:50:56",
       "https://news.ycombinator.com/item?id=43378627"
     ],
     [
-      "Extracting content from an LCP \"protected\" ePub",
+      "Extracting content from an LCP “protected” ePub",
       "https://shkspr.mobi/blog/2025/03/towards-extracting-content-from-an-lcp-protected-epub/"
     ]
   ],
   [
     [
-      "2025-03-16, 07:37:20",
-      "https://news.ycombinator.com/item?id=43377463"
+      "2025-03-16, 11:05:58",
+      "https://news.ycombinator.com/item?id=43378114"
     ],
     [
-      "Compression of Spectral Images Using Spectral JPEG XL",
-      "https://jcgt.org/published/0014/01/04/"
+      "PrintedLabs – 3D printable optical experiment equipment",
+      "https://printedlabs.uni-bayreuth.de/en"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Show HN: Psychedelic animation generator; (p)art of your next trip",
       "https://collidingscopes.github.io/liquid-shape-distortions/"
-    ]
-  ],
-  [
-    [
-      "2025-03-13, 13:38:26",
-      "https://news.ycombinator.com/item?id=43353223"
-    ],
-    [
-      "Going down the rabbit hole of Git's new bundle-URI",
-      "https://blog.gitbutler.com/going-down-the-rabbit-hole-of-gits-new-bundle-uri/"
     ]
   ]
 ]
