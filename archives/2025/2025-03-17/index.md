@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-17](index.md)
 
+* [2025-03-17, 23:35:02](https://news.ycombinator.com/item?id=43393924) - [Past and Present Futures of User Interface Design](https://www.datagubbe.se/futui/)
 * [2025-03-17, 23:25:53](https://news.ycombinator.com/item?id=43393822) - [GIMP 3.0 Released](https://testing.gimp.org/news/2025/03/16/gimp-3-0-released/)
 * [2025-03-17, 23:12:52](https://news.ycombinator.com/item?id=43393716) - [France plots tax on super-rich to rearm – and Britain could be next](https://www.telegraph.co.uk/money/tax/france-tax-super-wealthy-fund-defence-bill-britain-next/)
 * [2025-03-17, 22:46:55](https://news.ycombinator.com/item?id=43393515) - [Net Zero by 2050 Is 'Impossible,' UK Tory Leader Badenoch Says](https://www.bloomberg.com/news/articles/2025-03-17/net-zero-by-2050-is-impossible-uk-tory-leader-badenoch-says)

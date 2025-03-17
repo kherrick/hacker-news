@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-17, 23:35:02](https://news.ycombinator.com/item?id=43393924) - [Past and Present Futures of User Interface Design](https://www.datagubbe.se/futui/)
 * [2025-03-17, 23:25:53](https://news.ycombinator.com/item?id=43393822) - [GIMP 3.0 Released](https://testing.gimp.org/news/2025/03/16/gimp-3-0-released/)
 * [2025-03-17, 23:12:52](https://news.ycombinator.com/item?id=43393716) - [France plots tax on super-rich to rearm – and Britain could be next](https://www.telegraph.co.uk/money/tax/france-tax-super-wealthy-fund-defence-bill-britain-next/)
 * [2025-03-17, 22:41:34](https://news.ycombinator.com/item?id=43393478) - [Harvard says tuition will be free for families making $200K or less](https://abcnews.go.com/Business/harvard-tuition-families-making-200k/story?id=119874241)
-* [2025-03-17, 22:18:40](https://news.ycombinator.com/item?id=43393307) - [What Will the Betelgeuse Supernova Be Like – and Will It Hurt Us?](https://www.universetoday.com/articles/what-will-the-betelgeuse-supernova-be-like-and-will-it-hurt-us)
 * [2025-03-17, 22:13:23](https://news.ycombinator.com/item?id=43393259) - [Alphabet in Talks to Buy Cloud Security Firm Wiz for $33B](https://www.bloomberg.com/news/articles/2025-03-17/alphabet-in-talks-to-buy-cloud-security-firm-wiz-for-33-billion)
 * [2025-03-17, 21:50:22](https://news.ycombinator.com/item?id=43393079) - [Amazon plans to lay off 14,000 managerial positions to save $3.5B yearly](https://techstartups.com/2025/03/17/amazon-to-lay-off-14000-managerial-positions-to-save-3-5-billion-annually/)
 * [2025-03-17, 21:34:53](https://news.ycombinator.com/item?id=43392950) - [Quantum Speedup Found for Class of Hard Problems](https://www.quantamagazine.org/quantum-speedup-found-for-huge-class-of-hard-problems-20250317/)
