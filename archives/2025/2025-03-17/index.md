@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-03-17](index.md)
 
+* [2025-03-17, 14:37:28](https://news.ycombinator.com/item?id=43389056) - [Harvard Will Make Tuition Free for More Students](https://www.nytimes.com/2025/03/17/us/politics/harvard-free-tuition.html)
 * [2025-03-17, 13:19:37](https://news.ycombinator.com/item?id=43388296) - [Undergraduate Disproves 40-Year-Old Conjecture, Invents New Kind of Hash Table](https://www.wired.com/story/undergraduate-upends-a-40-year-old-data-science-conjecture/)
 * [2025-03-17, 13:11:33](https://news.ycombinator.com/item?id=43388221) - [Raspberry Pi RP2350 Now Available for Purchase, Stacked Memory Variant Coming](https://www.phoronix.com/news/Raspberry-Pi-RP2350-Buy)
 * [2025-03-17, 12:51:00](https://news.ycombinator.com/item?id=43387997) - [Leprechauns of Software Engineering](https://markgreville.ie/2025/03/17/book-review-leprechauns-of-software-engineering/)
 * [2025-03-17, 12:44:34](https://news.ycombinator.com/item?id=43387936) - [Bambu Labs launches 3D-printable toys with reusable electronics](https://www.theverge.com/news/631060/bambu-labs-makerworld-cyberbrick-3d-printed-toys-programmable-kickstarter)
+* [2025-03-17, 12:35:16](https://news.ycombinator.com/item?id=43387834) - [Show HN: A bi-directional, persisted KV store that is faster than Redis](https://hpkv.io)
 * [2025-03-17, 12:22:15](https://news.ycombinator.com/item?id=43387718) - [22% Drop in Programming Jobs](https://www.washingtonpost.com/business/2025/03/14/programming-jobs-lost-artificial-intelligence/)
 * [2025-03-17, 12:10:04](https://news.ycombinator.com/item?id=43387626) - [Configure Azure Entra ID as IdP on Keycloak](https://blog.ght1pc9kc.fr/en/2023/configure-azure-entra-id-as-idp-on-keycloak/)
 * [2025-03-17, 12:00:59](https://news.ycombinator.com/item?id=43387574) - [Nango (YC W23, Product Integrations Platform) Is Hiring Remote Engineers](https://www.nango.dev/careers)
