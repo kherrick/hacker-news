@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-03-17, 10:10:46",
-      "https://news.ycombinator.com/item?id=43386788"
-    ],
-    [
-      "Trump Derangement Syndrome",
-      "https://www.revisor.mn.gov/bills/text.php?number=SF2589&version=0&session=ls94&session_year=2025&session_number=0"
-    ]
-  ],
-  [
-    [
       "2025-03-17, 08:49:02",
       "https://news.ycombinator.com/item?id=43386357"
     ],
@@ -107,6 +97,16 @@
     [
       "Zlib-rs is faster than C",
       "https://trifectatech.org/blog/zlib-rs-is-faster-than-c/"
+    ]
+  ],
+  [
+    [
+      "2025-03-16, 19:32:38",
+      "https://news.ycombinator.com/item?id=43381497"
+    ],
+    [
+      "Tänzer: The lovable web server framework for Tcl",
+      "https://tanzer.io/"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2025-03-14, 07:12:43",
+      "https://news.ycombinator.com/item?id=43360287"
+    ],
+    [
+      "From Languages to Language Sets",
+      "https://gist.github.com/xixixao/8e363dbd3663b6729cd5b6d74dbbf9d4"
+    ]
+  ],
+  [
+    [
       "2025-03-14, 03:30:33",
       "https://news.ycombinator.com/item?id=43359343"
     ],
@@ -287,16 +297,6 @@
     [
       "Going down the rabbit hole of Git's new bundle-URI",
       "https://blog.gitbutler.com/going-down-the-rabbit-hole-of-gits-new-bundle-uri/"
-    ]
-  ],
-  [
-    [
-      "2025-03-13, 12:16:33",
-      "https://news.ycombinator.com/item?id=43352503"
-    ],
-    [
-      "A Guide to Undefined Behavior in C and C++ (2010)",
-      "https://blog.regehr.org/archives/213"
     ]
   ]
 ]
