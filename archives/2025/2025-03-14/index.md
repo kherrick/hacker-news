@@ -75,6 +75,7 @@
 * [2025-03-14, 05:39:43](https://news.ycombinator.com/item?id=43359905) - [A Princely Ploy: Inside the Ruse of a French-Armenian Scammer](https://publicdomainreview.org/essay/a-princely-ploy/)
 * [2025-03-14, 03:47:22](https://news.ycombinator.com/item?id=43359417) - [Johns Hopkins University slashes 2k jobs](https://www.reuters.com/world/us/johns-hopkins-university-slashes-2000-jobs-after-trump-administration-grant-cut-2025-03-13/)
 * [2025-03-14, 03:46:11](https://news.ycombinator.com/item?id=43359412) - [Athena landed in a dark crater where the temperature was minus 280° F](https://arstechnica.com/space/2025/03/athena-landed-in-a-dark-crater-where-the-temperature-was-minus-280-f/)
+* [2025-03-14, 03:30:33](https://news.ycombinator.com/item?id=43359343) - [Image Processing in C – Dwayne Phillips [pdf]](https://homepages.inf.ed.ac.uk/rbf/BOOKS/PHILLIPS/cips2ed.pdf)
 * [2025-03-14, 02:37:49](https://news.ycombinator.com/item?id=43359114) - [ATProto Isn't What You Think](https://blog.muni.town/atproto-isnt-what-you-think/)
 * [2025-03-14, 02:15:11](https://news.ycombinator.com/item?id=43358999) - [Show HN: A website that makes your text look cool anywhere online using Unicode](https://fontgenerator.cool/)
 * [2025-03-14, 02:12:11](https://news.ycombinator.com/item?id=43358980) - [TinyKVM: Fast sandbox that runs on top of Varnish](https://info.varnish-software.com/blog/tinykvm-the-fastest-sandbox)
