@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-17](index.md)
 
+* [2025-03-17, 13:19:37](https://news.ycombinator.com/item?id=43388296) - [Undergraduate Disproves 40-Year-Old Conjecture, Invents New Kind of Hash Table](https://www.wired.com/story/undergraduate-upends-a-40-year-old-data-science-conjecture/)
+* [2025-03-17, 13:11:33](https://news.ycombinator.com/item?id=43388221) - [Raspberry Pi RP2350 Now Available for Purchase, Stacked Memory Variant Coming](https://www.phoronix.com/news/Raspberry-Pi-RP2350-Buy)
 * [2025-03-17, 12:51:00](https://news.ycombinator.com/item?id=43387997) - [Leprechauns of Software Engineering](https://markgreville.ie/2025/03/17/book-review-leprechauns-of-software-engineering/)
 * [2025-03-17, 12:44:34](https://news.ycombinator.com/item?id=43387936) - [Bambu Labs launches 3D-printable toys with reusable electronics](https://www.theverge.com/news/631060/bambu-labs-makerworld-cyberbrick-3d-printed-toys-programmable-kickstarter)
 * [2025-03-17, 12:22:15](https://news.ycombinator.com/item?id=43387718) - [22% Drop in Programming Jobs](https://www.washingtonpost.com/business/2025/03/14/programming-jobs-lost-artificial-intelligence/)
@@ -13,6 +15,7 @@
 * [2025-03-17, 11:29:04](https://news.ycombinator.com/item?id=43387334) - [Stupid Smart Pointers in C](http://blog.kevinalbs.com/stupid_smart_pointers)
 * [2025-03-17, 11:27:19](https://news.ycombinator.com/item?id=43387325) - [Meta puts stop on promotion of tell-all book by former employee](https://www.theguardian.com/technology/2025/mar/13/meta-careless-people-book-former-employee)
 * [2025-03-17, 11:17:09](https://news.ycombinator.com/item?id=43387259) - [Can a LLM convert C, to ASM to specs and then to a working Z/80 Speccy tape? Yes](https://ghuntley.com/z80/)
+* [2025-03-17, 11:06:24](https://news.ycombinator.com/item?id=43387188) - [Akira ransomware can be cracked with sixteen RTX 4090 GPUs in around ten hours](https://www.tomshardware.com/tech-industry/cyber-security/akira-ransomware-cracked-with-rtx-4090-new-exploit-to-brute-force-encryption-attack)
 * [2025-03-17, 10:22:40](https://news.ycombinator.com/item?id=43386856) - [Pine64's RISC-V tablet now ships with a Debian-based Linux and improved hardware](https://liliputing.com/pine64s-risc-v-tablet-now-ships-with-a-debian-based-linux-distro-and-improved-hardware/)
 * [2025-03-17, 10:10:46](https://news.ycombinator.com/item?id=43386788) - [Trump Derangement Syndrome](https://www.revisor.mn.gov/bills/text.php?number=SF2589&version=0&session=ls94&session_year=2025&session_number=0)
 * [2025-03-17, 10:02:22](https://news.ycombinator.com/item?id=43386745) - [Show HN: Beyond Jira: Lightweight Project Management for Freelancers](https://enkitask.com/)
