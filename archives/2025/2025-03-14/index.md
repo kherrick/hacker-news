@@ -84,4 +84,5 @@
 * [2025-03-14, 01:43:24](https://news.ycombinator.com/item?id=43358872) - ['Profit-Enhancing Middlemen' Fuel $200B Health-Care Chaos](https://www.bloomberg.com/news/features/2025-03-13/middlemen-in-us-health-care-are-driving-up-costs-frustrating-patients)
 * [2025-03-14, 00:58:29](https://news.ycombinator.com/item?id=43358682) - [ArkFlow – High-performance Rust stream processing engine](https://github.com/chenquan/arkflow)
 * [2025-03-14, 00:45:58](https://news.ycombinator.com/item?id=43358628) - [The Toxic Wave That Swallowed a Tennessee Town](https://oxfordamerican.org/oa-now/the-toxic-wave-that-swallowed-a-tennessee-town)
+* [2025-03-14, 00:37:50](https://news.ycombinator.com/item?id=43358593) - [My Journey Back to Math: A Short Review of MathAcademy](https://www.staszewski.xyz/blog/math-academy-review/)
 * [2025-03-14, 00:34:54](https://news.ycombinator.com/item?id=43358581) - [Porkbun partners with Proton](https://porkbun.com/products/proton_mail)
