@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-03-17, 12:22:15",
-      "https://news.ycombinator.com/item?id=43387718"
+      "2025-03-17, 12:44:34",
+      "https://news.ycombinator.com/item?id=43387936"
     ],
     [
-      "22% Drop in Programming Jobs",
-      "https://www.washingtonpost.com/business/2025/03/14/programming-jobs-lost-artificial-intelligence/"
+      "Bambu Labs launches 3D-printable toys with reusable electronics",
+      "https://www.theverge.com/news/631060/bambu-labs-makerworld-cyberbrick-3d-printed-toys-programmable-kickstarter"
+    ]
+  ],
+  [
+    [
+      "2025-03-17, 12:10:04",
+      "https://news.ycombinator.com/item?id=43387626"
+    ],
+    [
+      "Configure Azure Entra ID as IdP on Keycloak",
+      "https://blog.ght1pc9kc.fr/en/2023/configure-azure-entra-id-as-idp-on-keycloak/"
     ]
   ],
   [
@@ -47,16 +57,6 @@
     [
       "Meta puts stop on promotion of tell-all book by former employee",
       "https://www.theguardian.com/technology/2025/mar/13/meta-careless-people-book-former-employee"
-    ]
-  ],
-  [
-    [
-      "2025-03-17, 11:17:09",
-      "https://news.ycombinator.com/item?id=43387259"
-    ],
-    [
-      "Can a LLM convert C, to ASM to specs and then to a working Z/80 Speccy tape? Yes",
-      "https://ghuntley.com/z80/"
     ]
   ],
   [
@@ -115,7 +115,7 @@
       "https://news.ycombinator.com/item?id=43385268"
     ],
     [
-      "The Alexa feature \"Do Not Send Voice Recordings\" you enabled no longer available",
+      "The Alexa feature \"do not send voice recordings\" you enabled no longer available",
       "https://discuss.systems/@dev/114161826926246661"
     ]
   ],
@@ -241,22 +241,22 @@
   ],
   [
     [
-      "2025-03-14, 18:47:48",
-      "https://news.ycombinator.com/item?id=43365878"
-    ],
-    [
-      "The Trials of an Exorcist, 1597",
-      "https://www.gethistories.com/p/the-trials-of-an-exorcist-1597"
-    ]
-  ],
-  [
-    [
       "2025-03-14, 17:17:50",
       "https://news.ycombinator.com/item?id=43364776"
     ],
     [
       "Checkers written in Rust and exported to WASM",
       "https://kevinalbs.com/checkers/"
+    ]
+  ],
+  [
+    [
+      "2025-03-14, 07:02:39",
+      "https://news.ycombinator.com/item?id=43360251"
+    ],
+    [
+      "HTTP/3 is everywhere but nowhere",
+      "https://httptoolkit.com/blog/http3-quic-open-source-support-nowhere/"
     ]
   ],
   [
