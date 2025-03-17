@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-17, 18:36:21",
+      "https://news.ycombinator.com/item?id=43391459"
+    ],
+    [
+      "Archival Storage",
+      "https://blog.dshr.org/2025/03/archival-storage.html"
+    ]
+  ],
+  [
+    [
       "2025-03-17, 17:33:14",
       "https://news.ycombinator.com/item?id=43390823"
     ],
@@ -227,16 +237,6 @@
     [
       "Recommendations for designing magic numbers of binary file formats",
       "https://hackers.town/@zwol/114155595855705796"
-    ]
-  ],
-  [
-    [
-      "2025-03-14, 17:17:50",
-      "https://news.ycombinator.com/item?id=43364776"
-    ],
-    [
-      "Checkers written in Rust and exported to WASM",
-      "https://kevinalbs.com/checkers/"
     ]
   ],
   [
