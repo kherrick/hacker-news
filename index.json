@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-17, 12:51:00",
+      "https://news.ycombinator.com/item?id=43387997"
+    ],
+    [
+      "Leprechauns of Software Engineering",
+      "https://markgreville.ie/2025/03/17/book-review-leprechauns-of-software-engineering/"
+    ]
+  ],
+  [
+    [
       "2025-03-17, 12:00:59",
       "https://news.ycombinator.com/item?id=43387574"
     ],
@@ -21,16 +31,6 @@
   ],
   [
     [
-      "2025-03-17, 10:22:40",
-      "https://news.ycombinator.com/item?id=43386856"
-    ],
-    [
-      "Pine64's RISC-V tablet now ships with a Debian-based Linux and improved hardware",
-      "https://liliputing.com/pine64s-risc-v-tablet-now-ships-with-a-debian-based-linux-distro-and-improved-hardware/"
-    ]
-  ],
-  [
-    [
       "2025-03-17, 10:02:22",
       "https://news.ycombinator.com/item?id=43386745"
     ],
@@ -47,16 +47,6 @@
     [
       "The exceptional Jordan algebra (2020)",
       "https://cp4space.hatsya.com/2020/10/28/the-exceptional-jordan-algebra/"
-    ]
-  ],
-  [
-    [
-      "2025-03-17, 07:03:59",
-      "https://news.ycombinator.com/item?id=43385857"
-    ],
-    [
-      "Technical Mathematics (1954) [pdf]",
-      "https://sliderulemuseum.com/Manuals/TechnicalMathematics_RiceAndKnight.pdf"
     ]
   ],
   [
@@ -91,6 +81,16 @@
   ],
   [
     [
+      "2025-03-17, 01:43:59",
+      "https://news.ycombinator.com/item?id=43384402"
+    ],
+    [
+      "Dioxus – Fullstack crossplatform app framework for Rust",
+      "https://dioxuslabs.com/"
+    ]
+  ],
+  [
+    [
       "2025-03-17, 00:48:48",
       "https://news.ycombinator.com/item?id=43384069"
     ],
@@ -107,26 +107,6 @@
     [
       "Zlib-rs is faster than C",
       "https://trifectatech.org/blog/zlib-rs-is-faster-than-c/"
-    ]
-  ],
-  [
-    [
-      "2025-03-16, 19:32:38",
-      "https://news.ycombinator.com/item?id=43381497"
-    ],
-    [
-      "Tänzer: The lovable web server framework for Tcl",
-      "https://tanzer.io/"
-    ]
-  ],
-  [
-    [
-      "2025-03-16, 18:48:39",
-      "https://news.ycombinator.com/item?id=43381195"
-    ],
-    [
-      "Tcl Tutorial",
-      "https://www.tcl-lang.org/man/tcl8.5/tutorial/tcltutorial.html"
     ]
   ],
   [
@@ -221,12 +201,32 @@
   ],
   [
     [
+      "2025-03-15, 03:28:39",
+      "https://news.ycombinator.com/item?id=43369739"
+    ],
+    [
+      "Ogres Are Cool",
+      "https://www.lrb.co.uk/the-paper/v47/n05/colin-burrow/ogres-are-cool"
+    ]
+  ],
+  [
+    [
       "2025-03-14, 20:05:53",
       "https://news.ycombinator.com/item?id=43366671"
     ],
     [
       "Recommendations for designing magic numbers of binary file formats",
       "https://hackers.town/@zwol/114155595855705796"
+    ]
+  ],
+  [
+    [
+      "2025-03-14, 19:12:12",
+      "https://news.ycombinator.com/item?id=43366124"
+    ],
+    [
+      "Edgar Allan Poe's life was a mess. But his work was in his command",
+      "https://www.washingtonpost.com/books/2025/03/13/edgar-allan-poe-biography-kopley-review/"
     ]
   ],
   [
