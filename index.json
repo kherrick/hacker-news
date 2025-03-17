@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2025-03-17, 22:00:12",
-      "https://news.ycombinator.com/item?id=43393150"
-    ],
-    [
-      "The Best Size of a Laptop",
-      "https://gokmengorgen.net/2025/03/17/the-best-size-of-a-laptop/"
-    ]
-  ],
-  [
-    [
       "2025-03-17, 21:50:22",
       "https://news.ycombinator.com/item?id=43393079"
     ],
@@ -267,6 +257,16 @@
     [
       "Theory crafting a system for 1000 simultaneous micro SD card ingests",
       "https://forum.level1techs.com/t/theory-crafting-a-system-for-maximum-simultaneous-micro-sd-card-ingest/227159"
+    ]
+  ],
+  [
+    [
+      "2025-03-14, 08:34:18",
+      "https://news.ycombinator.com/item?id=43360633"
+    ],
+    [
+      "Coq-of-rust: Formal verification tool for Rust",
+      "https://github.com/formal-land/coq-of-rust"
     ]
   ],
   [
