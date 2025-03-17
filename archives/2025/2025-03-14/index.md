@@ -20,6 +20,7 @@
 * [2025-03-14, 19:30:44](https://news.ycombinator.com/item?id=43366325) - [East Asian personality may stem from Ice Age Siberia 20000 yrs ago](https://davidsun.substack.com/p/the-origins-of-arcticism-theory)
 * [2025-03-14, 19:19:51](https://news.ycombinator.com/item?id=43366210) - [Bluesky quickly sold out of the T-shirt its CEO wore to troll Mark Zuckerberg](https://techcrunch.com/2025/03/13/bluesky-quickly-sold-out-of-the-t-shirt-its-ceo-wore-to-troll-mark-zuckerberg/)
 * [2025-03-14, 19:12:12](https://news.ycombinator.com/item?id=43366124) - [Edgar Allan Poe's life was a mess. But his work was in his command](https://www.washingtonpost.com/books/2025/03/13/edgar-allan-poe-biography-kopley-review/)
+* [2025-03-14, 18:47:48](https://news.ycombinator.com/item?id=43365878) - [The Trials of an Exorcist, 1597](https://www.gethistories.com/p/the-trials-of-an-exorcist-1597)
 * [2025-03-14, 18:41:10](https://news.ycombinator.com/item?id=43365793) - [Ask HN: How much traffic do you serve and with which database engine?](https://news.ycombinator.com/item?id=43365793)
 * [2025-03-14, 18:35:47](https://news.ycombinator.com/item?id=43365734) - [Exo: Exocompilation for productive programming of hardware accelerators](https://github.com/exo-lang/exo)
 * [2025-03-14, 18:19:02](https://news.ycombinator.com/item?id=43365523) - [Chrome for Android doesn't have extensions, but Edge now has a whole store](https://news.ycombinator.com/item?id=43365523)
