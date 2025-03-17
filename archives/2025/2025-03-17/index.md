@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-17](index.md)
 
+* [2025-03-17, 17:33:14](https://news.ycombinator.com/item?id=43390823) - [Show HN: Localscope–Limit scope of Python functions for reproducible execution](https://localscope.readthedocs.io/en/latest/)
 * [2025-03-17, 17:10:59](https://news.ycombinator.com/item?id=43390595) - [Darker Than a Dark Pool? Welcome to Wall Street's 'Private Rooms'](https://finance.yahoo.com/news/darker-dark-pool-welcome-wall-210011026.html)
 * [2025-03-17, 17:00:21](https://news.ycombinator.com/item?id=43390505) - [Piramidal (YC W24) is hiring a ML Engineer to decode brainwaves](https://www.ycombinator.com/companies/piramidal/jobs/neQ9JaN-research-engineer-foundational-ai)
 * [2025-03-17, 16:47:02](https://news.ycombinator.com/item?id=43390400) - [Deep Learning Is Not So Mysterious or Different](https://arxiv.org/abs/2503.02113)
