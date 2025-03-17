@@ -1,26 +1,6 @@
 [
   [
     [
-      "2025-03-17, 12:44:34",
-      "https://news.ycombinator.com/item?id=43387936"
-    ],
-    [
-      "Bambu Labs launches 3D-printable toys with reusable electronics",
-      "https://www.theverge.com/news/631060/bambu-labs-makerworld-cyberbrick-3d-printed-toys-programmable-kickstarter"
-    ]
-  ],
-  [
-    [
-      "2025-03-17, 12:10:04",
-      "https://news.ycombinator.com/item?id=43387626"
-    ],
-    [
-      "Configure Azure Entra ID as IdP on Keycloak",
-      "https://blog.ght1pc9kc.fr/en/2023/configure-azure-entra-id-as-idp-on-keycloak/"
-    ]
-  ],
-  [
-    [
       "2025-03-17, 12:00:59",
       "https://news.ycombinator.com/item?id=43387574"
     ],
@@ -31,32 +11,12 @@
   ],
   [
     [
-      "2025-03-17, 11:53:47",
-      "https://news.ycombinator.com/item?id=43387514"
-    ],
-    [
-      "Scientists discover first known animal that doesn't breathe",
-      "https://www.livescience.com/first-non-breathing-animal.html"
-    ]
-  ],
-  [
-    [
       "2025-03-17, 11:29:04",
       "https://news.ycombinator.com/item?id=43387334"
     ],
     [
       "Stupid Smart Pointers in C",
       "http://blog.kevinalbs.com/stupid_smart_pointers"
-    ]
-  ],
-  [
-    [
-      "2025-03-17, 11:27:19",
-      "https://news.ycombinator.com/item?id=43387325"
-    ],
-    [
-      "Meta puts stop on promotion of tell-all book by former employee",
-      "https://www.theguardian.com/technology/2025/mar/13/meta-careless-people-book-former-employee"
     ]
   ],
   [
@@ -75,18 +35,8 @@
       "https://news.ycombinator.com/item?id=43386745"
     ],
     [
-      "Show HN: Beyond Jira: Lightweight Project Management for Freelancers",
+      "Show HN: EnkiTask: Lightweight Project Management for Freelancers",
       "https://enkitask.com/"
-    ]
-  ],
-  [
-    [
-      "2025-03-17, 08:49:02",
-      "https://news.ycombinator.com/item?id=43386357"
-    ],
-    [
-      "uv downloads overtake Poetry for Wagtail users",
-      "https://wagtail.org/blog/uv-overtakes-poetry/"
     ]
   ],
   [
@@ -161,6 +111,36 @@
   ],
   [
     [
+      "2025-03-16, 19:32:38",
+      "https://news.ycombinator.com/item?id=43381497"
+    ],
+    [
+      "Tänzer: The lovable web server framework for Tcl",
+      "https://tanzer.io/"
+    ]
+  ],
+  [
+    [
+      "2025-03-16, 18:48:39",
+      "https://news.ycombinator.com/item?id=43381195"
+    ],
+    [
+      "Tcl Tutorial",
+      "https://www.tcl-lang.org/man/tcl8.5/tutorial/tcltutorial.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-16, 18:41:30",
+      "https://news.ycombinator.com/item?id=43381141"
+    ],
+    [
+      "Microsoft's 1986 IPO",
+      "https://dfarq.homeip.net/microsofts-1986-ipo/"
+    ]
+  ],
+  [
+    [
       "2025-03-16, 17:55:42",
       "https://news.ycombinator.com/item?id=43380833"
     ],
@@ -191,12 +171,12 @@
   ],
   [
     [
-      "2025-03-16, 13:30:36",
-      "https://news.ycombinator.com/item?id=43378925"
+      "2025-03-16, 14:20:02",
+      "https://news.ycombinator.com/item?id=43379262"
     ],
     [
-      "Show HN: 10 teams are racing to build a pivotal tracker replacement",
-      "https://bye-tracker.net"
+      "DiceDB",
+      "https://dicedb.io/"
     ]
   ],
   [
@@ -217,6 +197,16 @@
     [
       "Compression of Spectral Images Using Spectral JPEG XL",
       "https://jcgt.org/published/0014/01/04/"
+    ]
+  ],
+  [
+    [
+      "2025-03-16, 03:37:47",
+      "https://news.ycombinator.com/item?id=43376793"
+    ],
+    [
+      "Peru's Great Urban Experiment (2023)",
+      "https://archaeology.org/issues/may-june-2023/features/peru-chimu-chan-chan/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Checkers written in Rust and exported to WASM",
       "https://kevinalbs.com/checkers/"
+    ]
+  ],
+  [
+    [
+      "2025-03-14, 07:12:43",
+      "https://news.ycombinator.com/item?id=43360287"
+    ],
+    [
+      "From Languages to Language Sets",
+      "https://gist.github.com/xixixao/8e363dbd3663b6729cd5b6d74dbbf9d4"
     ]
   ],
   [
