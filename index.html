@@ -129,6 +129,79 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="43392521">
+          <h3>
+            <a class="item" href="https://opentimes.org"
+              >Show HN: OpenTimes – Free travel times between U.S. Census
+              geographies</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-03-17 @ 20:40:52</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43392521"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                The primary goal here is to enable research and fill a gap I
+                noticed in the open-source spatial ecosystem. Researchers
+                (social scientists, economists, etc.) use large travel time
+                matrices to quantify things like access to healthcare, but they
+                often end up paying Google or Esri for the necessary data. By
+                pre-calculating times between commonly-used research geographies
+                (i.e. Census) and then making those times easily accessible via
+                SQL, I hope to make large-scale accessibility research cheaper
+                and simpler.
+              </p>
+              <p>Some technical bits that may be of interest to HN folks:</p>
+              <p>
+                - The entire OpenTimes backend is just static Parquet files on
+                R2. There's no RDBMS or running service. The whole thing costs
+                about $10/month to host and is free to serve.
+              </p>
+              <p>
+                - All travel times were calculated by pre-building the inputs
+                (OSM, OSRM networks) and then distributing the compute over
+                hundreds of GitHub Actions jobs.
+              </p>
+              <p>
+                - The query/SQL layer uses a setup I haven't seen before: a
+                single DuckDB database file with views that point to static
+                Parquet files via HTTP.
+              </p>
+              <p>
+                Finally, the driving times are optimistic since they don't (yet)
+                account for traffic. This is something I hope to work on in the
+                near future. Enjoy!
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="43392303">
+          <h3>
+            <a class="item" href="https://occupry.com"
+              >Occupry your next lease to negotiate a better deal</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-03-17 @ 20:12:40</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43392303"
+                  >Comments</a
+                ><span class="descendants">: 13</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="43391459">
           <h3>
             <a
@@ -141,11 +214,11 @@
             <h4>
               <span>2025-03-17 @ 18:36:21</span
               ><span class="points-container"
-                >Points: <span class="points">87</span></span
+                >Points: <span class="points">92</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43391459"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -161,7 +234,7 @@
             <h4>
               <span>2025-03-17 @ 17:33:14</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43390823"
                   >Comments</a
@@ -203,11 +276,11 @@
             <h4>
               <span>2025-03-17 @ 16:47:02</span
               ><span class="points-container"
-                >Points: <span class="points">181</span></span
+                >Points: <span class="points">186</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43390400"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -224,11 +297,11 @@
             <h4>
               <span>2025-03-17 @ 14:38:18</span
               ><span class="points-container"
-                >Points: <span class="points">216</span></span
+                >Points: <span class="points">218</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43389064"
                   >Comments</a
-                ><span class="descendants">: 102</span></span
+                ><span class="descendants">: 103</span></span
               >
             </h4>
           </section>
@@ -246,7 +319,7 @@
             <h4>
               <span>2025-03-17 @ 13:19:37</span
               ><span class="points-container"
-                >Points: <span class="points">171</span></span
+                >Points: <span class="points">177</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43388296"
                   >Comments</a
@@ -288,7 +361,7 @@
             <h4>
               <span>2025-03-17 @ 11:06:24</span
               ><span class="points-container"
-                >Points: <span class="points">112</span></span
+                >Points: <span class="points">114</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43387188"
                   >Comments</a
@@ -329,11 +402,11 @@
             <h4>
               <span>2025-03-17 @ 09:29:33</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43386578"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -359,28 +432,6 @@
             </h4>
           </section>
         </section>
-        <section id="43385268">
-          <h3>
-            <a
-              class="item"
-              href="https://discuss.systems/@dev/114161826926246661"
-              >The Alexa feature "do not send voice recordings" you enabled no
-              longer available</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-03-17 @ 04:41:49</span
-              ><span class="points-container"
-                >Points: <span class="points">832</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43385268"
-                  >Comments</a
-                ><span class="descendants">: 587</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="43384894">
           <h3>
             <a class="item" href="https://github.com/mvt-project/mvt"
@@ -396,7 +447,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43384894"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
@@ -414,7 +465,7 @@
             <h4>
               <span>2025-03-17 @ 03:09:28</span
               ><span class="points-container"
-                >Points: <span class="points">90</span></span
+                >Points: <span class="points">92</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43384826"
                   >Comments</a
@@ -439,7 +490,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43384069"
                   >Comments</a
-                ><span class="descendants">: 316</span></span
+                ><span class="descendants">: 317</span></span
               >
             </h4>
           </section>
@@ -456,11 +507,11 @@
             <h4>
               <span>2025-03-16 @ 19:35:07</span
               ><span class="points-container"
-                >Points: <span class="points">321</span></span
+                >Points: <span class="points">322</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43381512"
                   >Comments</a
-                ><span class="descendants">: 430</span></span
+                ><span class="descendants">: 432</span></span
               >
             </h4>
           </section>
@@ -477,11 +528,11 @@
             <h4>
               <span>2025-03-16 @ 17:02:34</span
               ><span class="points-container"
-                >Points: <span class="points">270</span></span
+                >Points: <span class="points">271</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43380453"
                   >Comments</a
-                ><span class="descendants">: 314</span></span
+                ><span class="descendants">: 317</span></span
               >
             </h4>
           </section>
@@ -498,11 +549,11 @@
             <h4>
               <span>2025-03-16 @ 12:50:56</span
               ><span class="points-container"
-                >Points: <span class="points">118</span></span
+                >Points: <span class="points">119</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43378627"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
@@ -517,7 +568,7 @@
             <h4>
               <span>2025-03-16 @ 11:38:52</span
               ><span class="points-container"
-                >Points: <span class="points">1768</span></span
+                >Points: <span class="points">1770</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43378239"
                   >Comments</a
@@ -536,7 +587,7 @@
             <h4>
               <span>2025-03-16 @ 07:37:20</span
               ><span class="points-container"
-                >Points: <span class="points">68</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43377463"
                   >Comments</a
@@ -557,7 +608,7 @@
             <h4>
               <span>2025-03-15 @ 03:28:39</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">76</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43369739"
                   >Comments</a
@@ -577,7 +628,7 @@
             <h4>
               <span>2025-03-14 @ 20:05:53</span
               ><span class="points-container"
-                >Points: <span class="points">149</span></span
+                >Points: <span class="points">150</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43366671"
                   >Comments</a
@@ -596,7 +647,7 @@
             <h4>
               <span>2025-03-14 @ 08:34:18</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">87</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43360633"
                   >Comments</a
@@ -617,7 +668,7 @@
             <h4>
               <span>2025-03-14 @ 07:02:39</span
               ><span class="points-container"
-                >Points: <span class="points">260</span></span
+                >Points: <span class="points">261</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43360251"
                   >Comments</a
@@ -636,7 +687,7 @@
             <h4>
               <span>2025-03-14 @ 06:38:53</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43360150"
                   >Comments</a
@@ -650,14 +701,14 @@
             <a
               class="item"
               href="https://homepages.inf.ed.ac.uk/rbf/BOOKS/PHILLIPS/cips2ed.pdf"
-              >Image Processing in C – Dwayne Phillips [pdf]</a
+              >Image Processing in C (2000) [pdf]</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-03-14 @ 03:30:33</span
               ><span class="points-container"
-                >Points: <span class="points">119</span></span
+                >Points: <span class="points">120</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43359343"
                   >Comments</a
@@ -678,11 +729,11 @@
             <h4>
               <span>2025-03-14 @ 03:13:26</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43359264"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -704,7 +755,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43358264"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
             <div class="text">
@@ -748,27 +799,6 @@
                 suggestions.
               </p>
             </div>
-          </section>
-        </section>
-        <section id="43356068">
-          <h3>
-            <a
-              class="item"
-              href="https://www.nature.com/articles/s41467-025-56374-z"
-              >Artificial photosynthesis directed toward organic synthesis</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-03-13 @ 18:36:05</span
-              ><span class="points-container"
-                >Points: <span class="points">70</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43356068"
-                  >Comments</a
-                ><span class="descendants">: 20</span></span
-              >
-            </h4>
           </section>
         </section>
         <section id="43353223">
