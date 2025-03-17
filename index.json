@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-17, 23:25:53",
+      "https://news.ycombinator.com/item?id=43393822"
+    ],
+    [
+      "GIMP 3.0 Released",
+      "https://testing.gimp.org/news/2025/03/16/gimp-3-0-released/"
+    ]
+  ],
+  [
+    [
       "2025-03-17, 23:12:52",
       "https://news.ycombinator.com/item?id=43393716"
     ],
@@ -257,16 +267,6 @@
     [
       "Theory crafting a system for 1000 simultaneous micro SD card ingests",
       "https://forum.level1techs.com/t/theory-crafting-a-system-for-maximum-simultaneous-micro-sd-card-ingest/227159"
-    ]
-  ],
-  [
-    [
-      "2025-03-14, 08:34:18",
-      "https://news.ycombinator.com/item?id=43360633"
-    ],
-    [
-      "Coq-of-rust: Formal verification tool for Rust",
-      "https://github.com/formal-land/coq-of-rust"
     ]
   ],
   [
