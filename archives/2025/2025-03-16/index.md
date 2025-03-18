@@ -60,6 +60,7 @@
 * [2025-03-16, 11:35:22](https://news.ycombinator.com/item?id=43378225) - [Styling an HTML dialog modal to take the full height of the viewport](https://til.simonwillison.net/css/dialog-full-height)
 * [2025-03-16, 11:20:44](https://news.ycombinator.com/item?id=43378157) - [A powerful free and open source WAF – UUSEC WAF](https://github.com/Safe3/uuWAF)
 * [2025-03-16, 11:05:58](https://news.ycombinator.com/item?id=43378114) - [PrintedLabs – 3D printable optical experiment equipment](https://printedlabs.uni-bayreuth.de/en)
+* [2025-03-16, 10:33:32](https://news.ycombinator.com/item?id=43378001) - [Mlx-community/OLMo-2-0325-32B-Instruct-4bit](https://simonwillison.net/2025/Mar/16/olmo2/)
 * [2025-03-16, 10:28:16](https://news.ycombinator.com/item?id=43377985) - [The British Nationality Act as a Prolog Program (1986) [pdf]](https://www.doc.ic.ac.uk/~rak/papers/British%20Nationality%20Act.pdf)
 * [2025-03-16, 10:23:46](https://news.ycombinator.com/item?id=43377962) - [GPT 4.5 level for 1% of the price](https://twitter.com/Baidu_Inc/status/1901089355890036897)
 * [2025-03-16, 10:02:21](https://news.ycombinator.com/item?id=43377897) - [Show HN: Cascii – A portable ASCII diagram builder written in vanilla JavaScript](https://github.com/casparwylie/cascii-core)

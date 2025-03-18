@@ -11,6 +11,7 @@
 * [2025-03-17, 22:41:34](https://news.ycombinator.com/item?id=43393478) - [Harvard says tuition will be free for families making $200K or less](https://abcnews.go.com/Business/harvard-tuition-families-making-200k/story?id=119874241)
 * [2025-03-17, 22:18:40](https://news.ycombinator.com/item?id=43393307) - [What Will the Betelgeuse Supernova Be Like – and Will It Hurt Us?](https://www.universetoday.com/articles/what-will-the-betelgeuse-supernova-be-like-and-will-it-hurt-us)
 * [2025-03-17, 22:13:23](https://news.ycombinator.com/item?id=43393259) - [Alphabet in Talks to Buy Cloud Security Firm Wiz for $33B](https://www.bloomberg.com/news/articles/2025-03-17/alphabet-in-talks-to-buy-cloud-security-firm-wiz-for-33-billion)
+* [2025-03-17, 22:05:04](https://news.ycombinator.com/item?id=43393198) - [Show HN: I Built an iOS app to locate stray animals](https://apps.apple.com/us/app/straysync/id6742747753)
 * [2025-03-17, 22:00:12](https://news.ycombinator.com/item?id=43393150) - [The Best Size of a Laptop](https://gokmengorgen.net/2025/03/17/the-best-size-of-a-laptop/)
 * [2025-03-17, 21:50:22](https://news.ycombinator.com/item?id=43393079) - [Amazon plans to lay off 14,000 managerial positions to save $3.5B yearly](https://techstartups.com/2025/03/17/amazon-to-lay-off-14000-managerial-positions-to-save-3-5-billion-annually/)
 * [2025-03-17, 21:34:53](https://news.ycombinator.com/item?id=43392950) - [Quantum Speedup Found for Class of Hard Problems](https://www.quantamagazine.org/quantum-speedup-found-for-huge-class-of-hard-problems-20250317/)
