@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-15](index.md)
 
 * [2025-03-15, 23:41:44](https://news.ycombinator.com/item?id=43375923) - [Career Advice in 2025](https://lethain.com/career-advice-2025/)
+* [2025-03-15, 23:40:27](https://news.ycombinator.com/item?id=43375918) - [Shopkeeper](https://www.robinsloan.com/newsletters/shopkeeper/)
 * [2025-03-15, 23:12:08](https://news.ycombinator.com/item?id=43375780) - [ESP32 WiFi Superstitions](https://supakeen.com/weblog/esp32-wifi-superstitions/)
 * [2025-03-15, 22:52:13](https://news.ycombinator.com/item?id=43375676) - [Mandelbrot Set Explorer](https://mandelbrot.site)
 * [2025-03-15, 22:39:13](https://news.ycombinator.com/item?id=43375609) - [Strings Attached: Talking about Russia's agenda for laws in cyberspace](https://bytesandborscht.com/strings-attached-talking-about-russias-agenda-for-laws-in-cyberspace/)
