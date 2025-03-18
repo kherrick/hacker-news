@@ -63,6 +63,7 @@
 * [2025-03-14, 10:56:02](https://news.ycombinator.com/item?id=43361366) - [Migrating from AWS to a European Cloud – How We Cut Costs by 62%](https://www.hopsworks.ai/post/migrating-from-aws-to-a-european-cloud-how-we-cut-costs-by-62)
 * [2025-03-14, 10:47:10](https://news.ycombinator.com/item?id=43361309) - [Aspartame aggravates atherosclerosis through insulin-triggered inflammation](https://www.cell.com/cell-metabolism/pdfExtended/S1550-4131(25)00006-3)
 * [2025-03-14, 09:58:09](https://news.ycombinator.com/item?id=43361038) - [Tesla Cybertruck deliveries on hold as trims are flying off 'bulletproof' truck](https://electrek.co/2025/03/13/tesla-cybertruck-deliveries-are-on-hold-as-trims-are-flying-off-the-bulletproof-truck/)
+* [2025-03-14, 09:37:57](https://news.ycombinator.com/item?id=43360969) - [Carefully but Purposefully Oxidising Ubuntu](https://jnsgr.uk/2025/03/carefully-but-purposefully-oxidising-ubuntu)
 * [2025-03-14, 09:23:58](https://news.ycombinator.com/item?id=43360894) - [AMD's Strix Halo – Under the Hood](https://chipsandcheese.com/p/amds-strix-halo-under-the-hood)
 * [2025-03-14, 08:55:18](https://news.ycombinator.com/item?id=43360724) - [Celebrating 8 years of self-hosting Mail-in-a-Box – nilsnh.no](https://nilsnh.no/2023/09/02/celebrating-8-years-of-self-hosting-mail-in-a-box/)
 * [2025-03-14, 08:38:19](https://news.ycombinator.com/item?id=43360653) - [OpenAI calls on U.S. Government to let it freely use copyrighted material](https://openai.com/global-affairs/openai-proposals-for-the-us-ai-action-plan/)
