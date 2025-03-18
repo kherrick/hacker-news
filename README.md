@@ -1,13 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-18, 20:13:45](https://news.ycombinator.com/item?id=43404482) - [Doge order leads to journal cancellations by U.S. agricultural library](https://www.science.org/content/article/doge-order-leads-journal-cancellations-u-s-agricultural-library)
 * [2025-03-18, 19:27:55](https://news.ycombinator.com/item?id=43403860) - [Nvidia's RTX Pro 6000 has 96GB of VRAM and 600W of power](https://www.theverge.com/news/631868/nvidia-rtx-pro-6000-blackwell-gpu-professionals)
 * [2025-03-18, 18:56:53](https://news.ycombinator.com/item?id=43403377) - [PeerTube v7.1 Is Out](https://joinpeertube.org/news/release-7.1)
 * [2025-03-18, 18:27:42](https://news.ycombinator.com/item?id=43402957) - [FTC Removes Posts Critical of Amazon, Microsoft, and AI Companies](https://www.wired.com/story/federal-trade-commission-removed-blogs-critical-of-ai-amazon-microsoft/)
 * [2025-03-18, 18:27:06](https://news.ycombinator.com/item?id=43402947) - [Learning to Love Dandelions (2021)](https://baynature.org/2021/11/04/learning-to-love-dandelions/)
 * [2025-03-18, 18:17:33](https://news.ycombinator.com/item?id=43402790) - [US appeals court rules AI generated art cannot be copyrighted](https://www.reuters.com/world/us/us-appeals-court-rejects-copyrights-ai-generated-art-lacking-human-creator-2025-03-18/)
 * [2025-03-18, 17:49:56](https://news.ycombinator.com/item?id=43402416) - [Building Agentic Flows with LangGraph and Model Context Protocol](https://www.qodo.ai/blog/building-agentic-flows-with-langgraph-model-context-protocol/)
-* [2025-03-18, 17:42:21](https://news.ycombinator.com/item?id=43402315) - [Ask HN: How Do I Escape Homelessness After Rebuilding My Mental Health?](https://news.ycombinator.com/item?id=43402315)
 * [2025-03-18, 17:30:13](https://news.ycombinator.com/item?id=43402149) - [HTTrack Website Copier](https://www.httrack.com/)
 * [2025-03-18, 17:27:46](https://news.ycombinator.com/item?id=43402115) - [Amazon to kill off local Alexa processing, all voice requests shipped to cloud](https://www.theregister.com/2025/03/17/amazon_kills_on_device_alexa/)
 * [2025-03-18, 17:26:51](https://news.ycombinator.com/item?id=43402102) - [Verification-First Development](https://buttondown.com/hillelwayne/archive/verification-first-development/)
@@ -19,6 +17,7 @@
 * [2025-03-18, 16:23:21](https://news.ycombinator.com/item?id=43401245) - [Apple restricts Pebble from being awesome with iPhones](https://ericmigi.com/blog/apple-restricts-pebble-from-being-awesome-with-iphones/)
 * [2025-03-18, 16:18:08](https://news.ycombinator.com/item?id=43401179) - [Designing Electronics That Work](https://www.hscott.net/designing-electronics-that-work/)
 * [2025-03-18, 15:59:27](https://news.ycombinator.com/item?id=43400989) - [Two new PebbleOS watches](https://ericmigi.com/blog/introducing-two-new-pebbleos-watches/)
+* [2025-03-18, 13:04:37](https://news.ycombinator.com/item?id=43398968) - [Show HN: I converted my notebook into a searchable database of IT keywords](https://techbook.digital/)
 * [2025-03-18, 12:25:52](https://news.ycombinator.com/item?id=43398589) - [Stamina Is a Quiet Advantage](https://kupajo.com/stamina-is-a-quiet-advantage/)
 * [2025-03-18, 12:18:29](https://news.ycombinator.com/item?id=43398518) - [Google to buy Wiz for $32B](https://www.reuters.com/technology/cybersecurity/google-agrees-buy-cybersecurity-startup-wiz-32-bln-ft-reports-2025-03-18/)
 * [2025-03-18, 11:17:44](https://news.ycombinator.com/item?id=43398081) - [Show HN: I made a live multiplayer Minesweeper game](https://www.minesweeperpro.com/)
@@ -30,6 +29,7 @@
 * [2025-03-15, 18:38:19](https://news.ycombinator.com/item?id=43374369) - [Extracting DNA from the air – DNA evidence of human occupancy in indoor premises](https://www.nature.com/articles/s41598-023-46151-7)
 * [2025-03-15, 16:26:51](https://news.ycombinator.com/item?id=43373504) - [This is no world for an axolotl](https://english.elpais.com/eps/2025-03-15/this-is-no-world-for-an-axolotl.html)
 * [2025-03-15, 00:42:22](https://news.ycombinator.com/item?id=43368863) - [SheepIt Render Farm server code goes open source](https://gitlab.com/sheepitrenderfarm)
+* [2025-03-14, 21:18:55](https://news.ycombinator.com/item?id=43367401) - [The Dark Crystal: Age of Resistance Is a Stone-Cold Masterpiece](https://gizmodo.com/reminder-the-dark-crystal-age-of-resistance-is-a-stone-cold-masterpiece-2000574613)
 
 ## [Archives](archives/index.md)
 
