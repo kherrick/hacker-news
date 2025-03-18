@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-03-18, 17:29:19",
+      "https://news.ycombinator.com/item?id=43402136"
+    ],
+    [
+      "Why AI will never replace human code review",
+      "https://graphite.dev/blog/ai-wont-replace-human-code-review"
+    ]
+  ],
+  [
+    [
+      "2025-03-18, 17:27:46",
+      "https://news.ycombinator.com/item?id=43402115"
+    ],
+    [
+      "Amazon to kill off local Alexa processing, all voice requests shipped to cloud",
+      "https://www.theregister.com/2025/03/17/amazon_kills_on_device_alexa/"
+    ]
+  ],
+  [
+    [
       "2025-03-18, 17:07:39",
       "https://news.ycombinator.com/item?id=43401855"
     ],
     [
       "Show HN: I made a tool to port tweets to Bluesky mantaining their original date",
       "https://bluemigrate.com"
+    ]
+  ],
+  [
+    [
+      "2025-03-18, 17:05:26",
+      "https://news.ycombinator.com/item?id=43401831"
+    ],
+    [
+      "Jensen Huang – Nvidia GTC 2025 Keynote",
+      "https://www.nvidia.com/gtc/keynote/"
     ]
   ],
   [
@@ -61,32 +91,12 @@
   ],
   [
     [
-      "2025-03-18, 16:14:04",
-      "https://news.ycombinator.com/item?id=43401138"
-    ],
-    [
-      "Ask HN: Alternatives to Vector DB?",
-      "https://news.ycombinator.com/item?id=43401138"
-    ]
-  ],
-  [
-    [
       "2025-03-18, 15:59:27",
       "https://news.ycombinator.com/item?id=43400989"
     ],
     [
       "Two new PebbleOS watches",
       "https://ericmigi.com/blog/introducing-two-new-pebbleos-watches/"
-    ]
-  ],
-  [
-    [
-      "2025-03-18, 14:24:04",
-      "https://news.ycombinator.com/item?id=43399811"
-    ],
-    [
-      "The real failure rate of EBS",
-      "https://planetscale.com/blog/the-real-fail-rate-of-ebs"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Rippling sues Deel over spying",
       "https://twitter.com/parkerconrad/status/1901615179718406276"
-    ]
-  ],
-  [
-    [
-      "2025-03-16, 12:57:49",
-      "https://news.ycombinator.com/item?id=43378671"
-    ],
-    [
-      "Breaking Up with On-Call",
-      "https://reflector.dev/articles/breaking-up-with-on-call/"
     ]
   ],
   [
