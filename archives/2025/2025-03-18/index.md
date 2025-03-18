@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-03-18](index.md)
 
+* [2025-03-18, 18:27:42](https://news.ycombinator.com/item?id=43402957) - [FTC Removes Posts Critical of Amazon, Microsoft, and AI Companies](https://www.wired.com/story/federal-trade-commission-removed-blogs-critical-of-ai-amazon-microsoft/)
 * [2025-03-18, 18:17:33](https://news.ycombinator.com/item?id=43402790) - [US appeals court rules AI generated art cannot be copyrighted](https://www.reuters.com/world/us/us-appeals-court-rejects-copyrights-ai-generated-art-lacking-human-creator-2025-03-18/)
+* [2025-03-18, 18:08:19](https://news.ycombinator.com/item?id=43402667) - [JDK Distributions](https://sdkman.io/jdks/)
 * [2025-03-18, 18:03:50](https://news.ycombinator.com/item?id=43402622) - [Volkswagen's cheapest EV ever is the first to use Rivian software](https://techcrunch.com/2025/03/05/volkswagens-cheapest-ev-ever-is-the-first-to-use-rivian-software/)
 * [2025-03-18, 17:46:51](https://news.ycombinator.com/item?id=43402373) - [Tesla Hate Is Making Insurance More Expensive for Owners](https://gizmodo.com/tesla-hate-is-making-insurance-more-expensive-for-owners-2000577467)
 * [2025-03-18, 17:44:56](https://news.ycombinator.com/item?id=43402348) - [What's new in Graal Languages 24.2](https://medium.com/graalvm/whats-new-in-graal-languages-24-2-328471fc4137)
+* [2025-03-18, 17:42:21](https://news.ycombinator.com/item?id=43402315) - [Ask HN: How Do I Escape Homelessness After Rebuilding My Mental Health?](https://news.ycombinator.com/item?id=43402315)
 * [2025-03-18, 17:30:13](https://news.ycombinator.com/item?id=43402149) - [HTTrack Website Copier](https://www.httrack.com/)
 * [2025-03-18, 17:29:19](https://news.ycombinator.com/item?id=43402136) - [Why AI will never replace human code review](https://graphite.dev/blog/ai-wont-replace-human-code-review)
 * [2025-03-18, 17:27:46](https://news.ycombinator.com/item?id=43402115) - [Amazon to kill off local Alexa processing, all voice requests shipped to cloud](https://www.theregister.com/2025/03/17/amazon_kills_on_device_alexa/)
