@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-18](index.md)
 
 * [2025-03-18, 20:44:14](https://news.ycombinator.com/item?id=43404858) - [Nvidia Dynamo: A Datacenter Scale Distributed Inference Serving Framework](https://github.com/ai-dynamo/dynamo)
+* [2025-03-18, 20:31:22](https://news.ycombinator.com/item?id=43404679) - [Turkish university annuls Erdogan rival's degree, preventing run for president](https://www.reuters.com/world/asia-pacific/istanbul-university-annuls-istanbul-mayor-imamoglus-diploma-over-irregularities-2025-03-18/)
 * [2025-03-18, 20:25:27](https://news.ycombinator.com/item?id=43404617) - [A Tale of Four Kernels [pdf]](https://users.csc.calpoly.edu/~djanzen/courses/509S09/papers/FourKernels.pdf)
 * [2025-03-18, 20:23:09](https://news.ycombinator.com/item?id=43404586) - ['It's a Heist': Real Federal Auditors Are Horrified by Doge](https://www.wired.com/story/federal-auditors-doge-elon-musk/)
 * [2025-03-18, 20:20:09](https://news.ycombinator.com/item?id=43404548) - [Show HN: \"Git who\" – A new CLI tool for industrial-scale Git blaming](https://github.com/sinclairtarget/git-who)
