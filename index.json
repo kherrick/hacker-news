@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-03-18, 15:25:59",
-      "https://news.ycombinator.com/item?id=43400570"
+      "2025-03-18, 15:59:27",
+      "https://news.ycombinator.com/item?id=43400989"
     ],
     [
-      "Microsoft isn't fixing 8-year-old shortcut exploit abused for spying",
-      "https://www.theregister.com/2025/03/18/microsoft_trend_flaw/"
+      "Two new PebbleOS watches",
+      "https://ericmigi.com/blog/introducing-two-new-pebbleos-watches/"
+    ]
+  ],
+  [
+    [
+      "2025-03-18, 13:25:46",
+      "https://news.ycombinator.com/item?id=43399190"
+    ],
+    [
+      "North Korea Launders Billions in Stolen Crypto",
+      "https://www.coindesk.com/policy/2025/03/07/here-s-how-north-korea-launders-billions-of-stolen-crypto"
     ]
   ],
   [
@@ -31,22 +41,22 @@
   ],
   [
     [
-      "2025-03-18, 12:47:30",
-      "https://news.ycombinator.com/item?id=43398780"
-    ],
-    [
-      "Google announces agreement to acquire Wiz",
-      "https://blog.google/inside-google/company-announcements/google-agreement-acquire-wiz/"
-    ]
-  ],
-  [
-    [
       "2025-03-18, 12:25:52",
       "https://news.ycombinator.com/item?id=43398589"
     ],
     [
       "Stamina Is a Quiet Advantage",
       "https://kupajo.com/stamina-is-a-quiet-advantage/"
+    ]
+  ],
+  [
+    [
+      "2025-03-18, 12:18:29",
+      "https://news.ycombinator.com/item?id=43398518"
+    ],
+    [
+      "Google to buy Wiz for $32B",
+      "https://www.reuters.com/technology/cybersecurity/google-agrees-buy-cybersecurity-startup-wiz-32-bln-ft-reports-2025-03-18/"
     ]
   ],
   [
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=43397474"
     ],
     [
-      "The Model Is the Product",
+      "The model is the product",
       "https://vintagedata.org/blog/posts/model-is-the-product"
     ]
   ],
@@ -101,6 +111,16 @@
   ],
   [
     [
+      "2025-03-18, 01:52:18",
+      "https://news.ycombinator.com/item?id=43394951"
+    ],
+    [
+      "20 Years of YC / HN",
+      "https://vickiboykis.com/2025/03/17/20-years-of-yc/"
+    ]
+  ],
+  [
+    [
       "2025-03-18, 01:37:19",
       "https://news.ycombinator.com/item?id=43394881"
     ],
@@ -127,26 +147,6 @@
     [
       "The High Heel Problem",
       "https://simonschreibt.de/gat/the-high-heel-problem/"
-    ]
-  ],
-  [
-    [
-      "2025-03-17, 20:40:52",
-      "https://news.ycombinator.com/item?id=43392521"
-    ],
-    [
-      "Show HN: OpenTimes – Free travel times between U.S. Census geographies",
-      "https://opentimes.org"
-    ]
-  ],
-  [
-    [
-      "2025-03-17, 20:11:09",
-      "https://news.ycombinator.com/item?id=43392295"
-    ],
-    [
-      "After 47 years, OpenVMS gets a package manager (VSP)",
-      "https://raymii.org/s/blog/After_47_years_OpenVMS_gets_a_package_manager_VSP.html"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-03-16, 08:21:03",
-      "https://news.ycombinator.com/item?id=43377581"
-    ],
-    [
-      "So you wanna go on prem (2016)",
-      "https://blog.lusis.org/blog/2016/05/15/so-you-wanna-go-onprem-do-ya/"
-    ]
-  ],
-  [
-    [
       "2025-03-15, 19:45:04",
       "https://news.ycombinator.com/item?id=43374753"
     ],
@@ -257,6 +247,16 @@
     [
       "Changing Forecasts for Python Questions on Stack Overflow",
       "https://win-vector.com/2025/03/14/changing-forecasts-for-python-on-stack-overflow/"
+    ]
+  ],
+  [
+    [
+      "2025-03-14, 21:27:49",
+      "https://news.ycombinator.com/item?id=43367483"
+    ],
+    [
+      "Matching Regexps 200 Times Faster",
+      "https://eregon.me/blog/2025/03/14/matching-regexps-200-times-faster.html"
     ]
   ],
   [
