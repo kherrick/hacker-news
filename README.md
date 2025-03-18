@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-18, 22:39:42](https://news.ycombinator.com/item?id=43406023) - [Man charged in US Capitol attack announces run for Senate in Florida](https://www.theguardian.com/us-news/2025/mar/18/senate-florida-january-6-rioter-jake-lang)
 * [2025-03-18, 22:28:29](https://news.ycombinator.com/item?id=43405918) - [Microsoft quantum computing claim still lacks evidence](https://www.nature.com/articles/d41586-025-00829-2)
 * [2025-03-18, 20:44:14](https://news.ycombinator.com/item?id=43404858) - [Nvidia Dynamo: A Datacenter Scale Distributed Inference Serving Framework](https://github.com/ai-dynamo/dynamo)
 * [2025-03-18, 20:31:22](https://news.ycombinator.com/item?id=43404679) - [Turkish university annuls Erdogan rival's degree, preventing run for president](https://www.reuters.com/world/asia-pacific/istanbul-university-annuls-istanbul-mayor-imamoglus-diploma-over-irregularities-2025-03-18/)
@@ -16,6 +15,7 @@
 * [2025-03-18, 17:01:16](https://news.ycombinator.com/item?id=43401772) - [Spaceium Inc (YC S24) Is Hiring a Software Engineer](https://www.ycombinator.com/companies/spaceium-inc/jobs/XGMVnH3-software-engineer)
 * [2025-03-18, 16:48:17](https://news.ycombinator.com/item?id=43401595) - [Fedora 42 Beta](https://www.redhat.com/en/blog/fedora-42-beta-now-available)
 * [2025-03-18, 16:36:20](https://news.ycombinator.com/item?id=43401421) - [Preview: Amazon S3 Tables and Lakehouse in DuckDB](https://duckdb.org/2025/03/14/preview-amazon-s3-tables.html)
+* [2025-03-18, 16:32:54](https://news.ycombinator.com/item?id=43401378) - [Underrated Soft Skills: Charisma](https://utopianengineeringsociety.substack.com/p/new-series-underrated-soft-skills)
 * [2025-03-18, 16:23:21](https://news.ycombinator.com/item?id=43401245) - [Apple restricts Pebble from being awesome with iPhones](https://ericmigi.com/blog/apple-restricts-pebble-from-being-awesome-with-iphones/)
 * [2025-03-18, 16:18:08](https://news.ycombinator.com/item?id=43401179) - [Designing Electronics That Work](https://www.hscott.net/designing-electronics-that-work/)
 * [2025-03-18, 15:59:27](https://news.ycombinator.com/item?id=43400989) - [Two new PebbleOS watches](https://ericmigi.com/blog/introducing-two-new-pebbleos-watches/)
