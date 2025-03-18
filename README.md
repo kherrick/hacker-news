@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-18, 17:07:39](https://news.ycombinator.com/item?id=43401855) - [Show HN: I made a tool to port tweets to Bluesky mantaining their original date](https://bluemigrate.com)
 * [2025-03-18, 17:01:16](https://news.ycombinator.com/item?id=43401772) - [Spaceium Inc (YC S24) Is Hiring a Software Engineer](https://www.ycombinator.com/companies/spaceium-inc/jobs/XGMVnH3-software-engineer)
 * [2025-03-18, 16:48:17](https://news.ycombinator.com/item?id=43401595) - [Fedora 42 Beta now available](https://www.redhat.com/en/blog/fedora-42-beta-now-available)
 * [2025-03-18, 16:36:20](https://news.ycombinator.com/item?id=43401421) - [Preview: Amazon S3 Tables and Lakehouse in DuckDB](https://duckdb.org/2025/03/14/preview-amazon-s3-tables.html)
@@ -26,7 +27,6 @@
 * [2025-03-15, 18:38:19](https://news.ycombinator.com/item?id=43374369) - [Extracting DNA from the air – DNA evidence of human occupancy in indoor premises](https://www.nature.com/articles/s41598-023-46151-7)
 * [2025-03-15, 00:42:22](https://news.ycombinator.com/item?id=43368863) - [SheepIt Render Farm server code goes open source](https://gitlab.com/sheepitrenderfarm)
 * [2025-03-14, 22:28:39](https://news.ycombinator.com/item?id=43367977) - [Changing Forecasts for Python Questions on Stack Overflow](https://win-vector.com/2025/03/14/changing-forecasts-for-python-on-stack-overflow/)
-* [2025-03-14, 21:27:49](https://news.ycombinator.com/item?id=43367483) - [Matching Regexps 200 Times Faster](https://eregon.me/blog/2025/03/14/matching-regexps-200-times-faster.html)
 * [2025-03-14, 21:18:55](https://news.ycombinator.com/item?id=43367401) - [The Dark Crystal: Age of Resistance Is a Stone-Cold Masterpiece](https://gizmodo.com/reminder-the-dark-crystal-age-of-resistance-is-a-stone-cold-masterpiece-2000574613)
 * [2025-03-14, 13:48:16](https://news.ycombinator.com/item?id=43362616) - [Sesame CSM: A Conversational Speech Generation Model](https://github.com/SesameAILabs/csm)
 * [2025-03-14, 10:51:01](https://news.ycombinator.com/item?id=43361333) - [Building AI agents to query your databases](https://blog.dust.tt/spreadsheets-databases-and-beyond-creating-a-universal-ai-query-layer/)
