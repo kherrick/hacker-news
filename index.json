@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-03-18, 17:01:16",
+      "https://news.ycombinator.com/item?id=43401772"
+    ],
+    [
+      "Spaceium Inc (YC S24) Is Hiring a Software Engineer",
+      "https://www.ycombinator.com/companies/spaceium-inc/jobs/XGMVnH3-software-engineer"
+    ]
+  ],
+  [
+    [
+      "2025-03-18, 16:48:17",
+      "https://news.ycombinator.com/item?id=43401595"
+    ],
+    [
+      "Fedora 42 Beta now available",
+      "https://www.redhat.com/en/blog/fedora-42-beta-now-available"
+    ]
+  ],
+  [
+    [
+      "2025-03-18, 16:36:20",
+      "https://news.ycombinator.com/item?id=43401421"
+    ],
+    [
+      "Preview: Amazon S3 Tables and Lakehouse in DuckDB",
+      "https://duckdb.org/2025/03/14/preview-amazon-s3-tables.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-18, 16:32:54",
+      "https://news.ycombinator.com/item?id=43401378"
+    ],
+    [
+      "Underrated Soft Skill for Developers: Charisma",
+      "https://utopianengineeringsociety.substack.com/p/new-series-underrated-soft-skills"
+    ]
+  ],
+  [
+    [
       "2025-03-18, 16:23:21",
       "https://news.ycombinator.com/item?id=43401245"
     ],
@@ -81,6 +121,16 @@
   ],
   [
     [
+      "2025-03-18, 12:33:42",
+      "https://news.ycombinator.com/item?id=43398652"
+    ],
+    [
+      "How I Stay Motivated Working on My Solo SaaS (When It Feels Like Nobody Cares)",
+      "https://news.ycombinator.com/item?id=43398652"
+    ]
+  ],
+  [
+    [
       "2025-03-18, 12:25:52",
       "https://news.ycombinator.com/item?id=43398589"
     ],
@@ -131,16 +181,6 @@
   ],
   [
     [
-      "2025-03-18, 07:00:20",
-      "https://news.ycombinator.com/item?id=43396450"
-    ],
-    [
-      "Depot (YC W23) is hiring a founding developer marketer (EU/US remote)",
-      "https://www.ycombinator.com/companies/depot/jobs/307RqGp-founding-developer-marketer"
-    ]
-  ],
-  [
-    [
       "2025-03-18, 01:52:18",
       "https://news.ycombinator.com/item?id=43394951"
     ],
@@ -157,46 +197,6 @@
     [
       "Rhombus Language",
       "https://rhombus-lang.org"
-    ]
-  ],
-  [
-    [
-      "2025-03-17, 23:35:02",
-      "https://news.ycombinator.com/item?id=43393924"
-    ],
-    [
-      "Past and Present Futures of User Interface Design",
-      "https://www.datagubbe.se/futui/"
-    ]
-  ],
-  [
-    [
-      "2025-03-17, 18:36:21",
-      "https://news.ycombinator.com/item?id=43391459"
-    ],
-    [
-      "Archival Storage",
-      "https://blog.dshr.org/2025/03/archival-storage.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-17, 16:55:17",
-      "https://news.ycombinator.com/item?id=43390467"
-    ],
-    [
-      "Alphabet spins out Taara – Internet over lasers",
-      "https://x.company/blog/posts/taara-graduation/"
-    ]
-  ],
-  [
-    [
-      "2025-03-17, 16:47:02",
-      "https://news.ycombinator.com/item?id=43390400"
-    ],
-    [
-      "Deep Learning Is Not So Mysterious or Different",
-      "https://arxiv.org/abs/2503.02113"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2025-03-15, 19:45:04",
-      "https://news.ycombinator.com/item?id=43374753"
-    ],
-    [
-      "The PhD Metagame: Don't try to reform science – not yet",
-      "https://maxwellforbes.com/posts/dont-try-to-reform-science/"
-    ]
-  ],
-  [
-    [
       "2025-03-15, 18:38:19",
       "https://news.ycombinator.com/item?id=43374369"
     ],
@@ -267,6 +257,16 @@
     [
       "Changing Forecasts for Python Questions on Stack Overflow",
       "https://win-vector.com/2025/03/14/changing-forecasts-for-python-on-stack-overflow/"
+    ]
+  ],
+  [
+    [
+      "2025-03-14, 21:27:49",
+      "https://news.ycombinator.com/item?id=43367483"
+    ],
+    [
+      "Matching Regexps 200 Times Faster",
+      "https://eregon.me/blog/2025/03/14/matching-regexps-200-times-faster.html"
     ]
   ],
   [
