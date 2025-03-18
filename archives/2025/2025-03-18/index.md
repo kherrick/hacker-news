@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-18](index.md)
 
+* [2025-03-18, 13:29:53](https://news.ycombinator.com/item?id=43399227) - [UK wants dirt on data brokers before criminals get there first](https://www.theregister.com/2025/03/18/uk_data_broker_inquiry/)
+* [2025-03-18, 13:06:45](https://news.ycombinator.com/item?id=43398991) - [You Do Not Need Blockchain: Popular Use Cases and Why They Do Not Work (2019)](https://blog.smartdec.net/you-do-not-need-blockchain-eight-popular-use-cases-and-why-they-do-not-work-f2ecc6cc2129)
+* [2025-03-18, 12:53:00](https://news.ycombinator.com/item?id=43398837) - [AI crawlers haven't learned to play nice with websites](https://www.theregister.com/2025/03/18/ai_crawlers_sourcehut/)
 * [2025-03-18, 12:25:16](https://news.ycombinator.com/item?id=43398579) - [Court filing: DOGE aide broke Treasury policy by emailing unencrypted database](https://www.theregister.com/2025/03/17/doge_treasury/)
 * [2025-03-18, 12:18:29](https://news.ycombinator.com/item?id=43398518) - [Google to buy Wiz for $32B](https://www.reuters.com/technology/cybersecurity/google-agrees-buy-cybersecurity-startup-wiz-32-bln-ft-reports-2025-03-18/)
 * [2025-03-18, 11:24:33](https://news.ycombinator.com/item?id=43398137) - [Repealing the CHIPS Act risks US national security](https://www.ft.com/content/c6e7bc46-ab8f-49b6-8973-8c2906cc3604)
