@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-03-18, 16:23:21",
+      "https://news.ycombinator.com/item?id=43401245"
+    ],
+    [
+      "Apple restricts Pebble from being awesome with iPhones",
+      "https://ericmigi.com/blog/apple-restricts-pebble-from-being-awesome-with-iphones/"
+    ]
+  ],
+  [
+    [
+      "2025-03-18, 16:14:04",
+      "https://news.ycombinator.com/item?id=43401138"
+    ],
+    [
+      "Ask HN: Alternatives to Vector DB?",
+      "https://news.ycombinator.com/item?id=43401138"
+    ]
+  ],
+  [
+    [
       "2025-03-18, 15:59:27",
       "https://news.ycombinator.com/item?id=43400989"
     ],
     [
       "Two new PebbleOS watches",
       "https://ericmigi.com/blog/introducing-two-new-pebbleos-watches/"
+    ]
+  ],
+  [
+    [
+      "2025-03-18, 14:24:04",
+      "https://news.ycombinator.com/item?id=43399811"
+    ],
+    [
+      "The real failure rate of EBS",
+      "https://planetscale.com/blog/the-real-fail-rate-of-ebs"
     ]
   ],
   [
@@ -37,6 +67,16 @@
     [
       "Show HN: I converted my notebook into a searchable database of IT keywords",
       "https://techbook.digital/"
+    ]
+  ],
+  [
+    [
+      "2025-03-18, 12:47:18",
+      "https://news.ycombinator.com/item?id=43398777"
+    ],
+    [
+      "The Unofficial Guide to OpenAI Realtime WebRTC API",
+      "https://webrtchacks.com/the-unofficial-guide-to-openai-realtime-webrtc-api/"
     ]
   ],
   [
@@ -101,16 +141,6 @@
   ],
   [
     [
-      "2025-03-18, 04:05:45",
-      "https://news.ycombinator.com/item?id=43395658"
-    ],
-    [
-      "When Oregon blew up a whale with 20 cases of dynamite (2024)",
-      "https://katu.com/news/local/exploding-whale-day-54-years-since-whale-infamously-blown-up-on-oregon-beach"
-    ]
-  ],
-  [
-    [
       "2025-03-18, 01:52:18",
       "https://news.ycombinator.com/item?id=43394951"
     ],
@@ -137,16 +167,6 @@
     [
       "Past and Present Futures of User Interface Design",
       "https://www.datagubbe.se/futui/"
-    ]
-  ],
-  [
-    [
-      "2025-03-17, 20:43:35",
-      "https://news.ycombinator.com/item?id=43392549"
-    ],
-    [
-      "The High Heel Problem",
-      "https://simonschreibt.de/gat/the-high-heel-problem/"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2025-03-14, 21:27:49",
-      "https://news.ycombinator.com/item?id=43367483"
-    ],
-    [
-      "Matching Regexps 200 Times Faster",
-      "https://eregon.me/blog/2025/03/14/matching-regexps-200-times-faster.html"
-    ]
-  ],
-  [
-    [
       "2025-03-14, 21:18:55",
       "https://news.ycombinator.com/item?id=43367401"
     ],
@@ -287,16 +297,6 @@
     [
       "Building AI agents to query your databases",
       "https://blog.dust.tt/spreadsheets-databases-and-beyond-creating-a-universal-ai-query-layer/"
-    ]
-  ],
-  [
-    [
-      "2025-03-14, 03:13:26",
-      "https://news.ycombinator.com/item?id=43359264"
-    ],
-    [
-      "Hidden Messages in Emojis and Hacking the US Treasury",
-      "https://slamdunksoftware.substack.com/p/hidden-messages-in-emojis-and-hacking"
     ]
   ]
 ]
