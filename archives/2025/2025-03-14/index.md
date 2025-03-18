@@ -11,6 +11,7 @@
 * [2025-03-14, 22:29:46](https://news.ycombinator.com/item?id=43367987) - [Tj-actions/changed-files GitHub Action Compromised – used by over 23K repos](https://www.stepsecurity.io/blog/harden-runner-detection-tj-actions-changed-files-action-is-compromised)
 * [2025-03-14, 21:33:28](https://news.ycombinator.com/item?id=43367536) - [Everything you say to your Echo will be sent to Amazon starting on March 28](https://arstechnica.com/gadgets/2025/03/everything-you-say-to-your-echo-will-be-sent-to-amazon-starting-on-march-28/)
 * [2025-03-14, 21:27:25](https://news.ycombinator.com/item?id=43367482) - [Show HN: Web Audio Spring-Mass Synthesis](https://blog.cochlea.xyz/string.html)
+* [2025-03-14, 21:18:55](https://news.ycombinator.com/item?id=43367401) - [The Dark Crystal: Age of Resistance Is a Stone-Cold Masterpiece](https://gizmodo.com/reminder-the-dark-crystal-age-of-resistance-is-a-stone-cold-masterpiece-2000574613)
 * [2025-03-14, 21:00:55](https://news.ycombinator.com/item?id=43367261) - [GCVR (YC W22) Is Hiring Lead Technical Artist](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/gfrf9Cu-lead-technical-artist-staff-principal)
 * [2025-03-14, 20:36:02](https://news.ycombinator.com/item?id=43367012) - [Cwtch – Privacy Preserving Messaging](https://docs.cwtch.im/)
 * [2025-03-14, 20:20:11](https://news.ycombinator.com/item?id=43366839) - [Tariffs Are Proving 'Big Headache' for Tech Giants, Says Foxconn](https://www.ft.com/content/cc290f55-e45a-42b1-bf2d-cf323053fade)
