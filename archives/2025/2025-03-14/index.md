@@ -23,6 +23,7 @@
 * [2025-03-14, 19:12:12](https://news.ycombinator.com/item?id=43366124) - [Edgar Allan Poe's life was a mess. But his work was in his command](https://www.washingtonpost.com/books/2025/03/13/edgar-allan-poe-biography-kopley-review/)
 * [2025-03-14, 18:47:48](https://news.ycombinator.com/item?id=43365878) - [The Trials of an Exorcist, 1597](https://www.gethistories.com/p/the-trials-of-an-exorcist-1597)
 * [2025-03-14, 18:41:10](https://news.ycombinator.com/item?id=43365793) - [Ask HN: How much traffic do you serve and with which database engine?](https://news.ycombinator.com/item?id=43365793)
+* [2025-03-14, 18:41:05](https://news.ycombinator.com/item?id=43365790) - [English Multinyms](https://people.sc.fsu.edu/~jburkardt/fun/wordplay/multinyms.html)
 * [2025-03-14, 18:35:47](https://news.ycombinator.com/item?id=43365734) - [Exo: Exocompilation for productive programming of hardware accelerators](https://github.com/exo-lang/exo)
 * [2025-03-14, 18:19:02](https://news.ycombinator.com/item?id=43365523) - [Chrome for Android doesn't have extensions, but Edge now has a whole store](https://news.ycombinator.com/item?id=43365523)
 * [2025-03-14, 18:18:34](https://news.ycombinator.com/item?id=43365517) - [Apple's Siri Chief Calls AI Delays Ugly and Embarrassing, Promises Fixes](https://www.bloomberg.com/news/articles/2025-03-14/apple-s-siri-chief-calls-ai-delays-ugly-and-embarrassing-promises-fixes)
