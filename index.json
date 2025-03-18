@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-18, 01:00:34",
+      "https://news.ycombinator.com/item?id=43394621"
+    ],
+    [
+      "Doctor Droid (YC W23) Is Hiring",
+      "https://www.ycombinator.com/companies/doctor-droid/jobs/2v9x6QW-ai-lead"
+    ]
+  ],
+  [
+    [
       "2025-03-17, 23:35:02",
       "https://news.ycombinator.com/item?id=43393924"
     ],
@@ -15,48 +25,8 @@
       "https://news.ycombinator.com/item?id=43393822"
     ],
     [
-      "GIMP 3.0 Released",
+      "GIMP 3.0",
       "https://testing.gimp.org/news/2025/03/16/gimp-3-0-released/"
-    ]
-  ],
-  [
-    [
-      "2025-03-17, 23:12:52",
-      "https://news.ycombinator.com/item?id=43393716"
-    ],
-    [
-      "France plots tax on super-rich to rearm – and Britain could be next",
-      "https://www.telegraph.co.uk/money/tax/france-tax-super-wealthy-fund-defence-bill-britain-next/"
-    ]
-  ],
-  [
-    [
-      "2025-03-17, 22:41:34",
-      "https://news.ycombinator.com/item?id=43393478"
-    ],
-    [
-      "Harvard says tuition will be free for families making $200K or less",
-      "https://abcnews.go.com/Business/harvard-tuition-families-making-200k/story?id=119874241"
-    ]
-  ],
-  [
-    [
-      "2025-03-17, 22:13:23",
-      "https://news.ycombinator.com/item?id=43393259"
-    ],
-    [
-      "Alphabet in Talks to Buy Cloud Security Firm Wiz for $33B",
-      "https://www.bloomberg.com/news/articles/2025-03-17/alphabet-in-talks-to-buy-cloud-security-firm-wiz-for-33-billion"
-    ]
-  ],
-  [
-    [
-      "2025-03-17, 21:50:22",
-      "https://news.ycombinator.com/item?id=43393079"
-    ],
-    [
-      "Amazon plans to lay off 14,000 managerial positions to save $3.5B yearly",
-      "https://techstartups.com/2025/03/17/amazon-to-lay-off-14000-managerial-positions-to-save-3-5-billion-annually/"
     ]
   ],
   [
@@ -67,16 +37,6 @@
     [
       "Quantum Speedup Found for Class of Hard Problems",
       "https://www.quantamagazine.org/quantum-speedup-found-for-huge-class-of-hard-problems-20250317/"
-    ]
-  ],
-  [
-    [
-      "2025-03-17, 21:00:28",
-      "https://news.ycombinator.com/item?id=43392696"
-    ],
-    [
-      "Luthor (YC F24) Is Hiring Ruby on Rails Engineers in San Francisco",
-      "https://www.ycombinator.com/companies/luthor/jobs/HKrdhp0-staff-senior-software-engineer-backend-fullstack"
     ]
   ],
   [
@@ -181,6 +141,16 @@
   ],
   [
     [
+      "2025-03-17, 12:35:16",
+      "https://news.ycombinator.com/item?id=43387834"
+    ],
+    [
+      "Show HN: A bi-directional, persisted KV store that is faster than Redis",
+      "https://hpkv.io"
+    ]
+  ],
+  [
+    [
       "2025-03-17, 11:29:04",
       "https://news.ycombinator.com/item?id=43387334"
     ],
@@ -197,16 +167,6 @@
     [
       "Underware 2.0 – Open Source Infinite Cable Management",
       "https://makerworld.com/en/models/783010-underware-2-0-infinite-cable-management"
-    ]
-  ],
-  [
-    [
-      "2025-03-17, 04:41:49",
-      "https://news.ycombinator.com/item?id=43385268"
-    ],
-    [
-      "The Alexa feature \"do not send voice recordings\" you enabled no longer available",
-      "https://discuss.systems/@dev/114161826926246661"
     ]
   ],
   [
@@ -251,12 +211,42 @@
   ],
   [
     [
+      "2025-03-15, 19:45:04",
+      "https://news.ycombinator.com/item?id=43374753"
+    ],
+    [
+      "Don't Try to Reform Science",
+      "https://maxwellforbes.com/posts/dont-try-to-reform-science/"
+    ]
+  ],
+  [
+    [
+      "2025-03-14, 20:05:53",
+      "https://news.ycombinator.com/item?id=43366671"
+    ],
+    [
+      "Recommendations for designing magic numbers of binary file formats",
+      "https://hackers.town/@zwol/114155595855705796"
+    ]
+  ],
+  [
+    [
       "2025-03-14, 11:00:41",
       "https://news.ycombinator.com/item?id=43361389"
     ],
     [
       "Theory crafting a system for 1000 simultaneous micro SD card ingests",
       "https://forum.level1techs.com/t/theory-crafting-a-system-for-maximum-simultaneous-micro-sd-card-ingest/227159"
+    ]
+  ],
+  [
+    [
+      "2025-03-14, 09:37:57",
+      "https://news.ycombinator.com/item?id=43360969"
+    ],
+    [
+      "Carefully but Purposefully Oxidising Ubuntu",
+      "https://jnsgr.uk/2025/03/carefully-but-purposefully-oxidising-ubuntu"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "HTTP/3 is everywhere but nowhere",
       "https://httptoolkit.com/blog/http3-quic-open-source-support-nowhere/"
+    ]
+  ],
+  [
+    [
+      "2025-03-14, 06:38:53",
+      "https://news.ycombinator.com/item?id=43360150"
+    ],
+    [
+      "Copyright and the Demo Scene",
+      "https://www.datagubbe.se/scenecop/"
     ]
   ],
   [
