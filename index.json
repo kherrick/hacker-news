@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-03-18, 10:21:09",
-      "https://news.ycombinator.com/item?id=43397664"
+      "2025-03-18, 09:56:37",
+      "https://news.ycombinator.com/item?id=43397474"
     ],
     [
-      "Claude.ai, Console, and API not available",
-      "https://status.anthropic.com/incidents/rjjg3fzd2spp"
+      "The Model Is the Product",
+      "https://vintagedata.org/blog/posts/model-is-the-product"
     ]
   ],
   [
@@ -17,26 +17,6 @@
     [
       "Password reuse is rampant: nearly half of observed user logins are compromised",
       "https://blog.cloudflare.com/password-reuse-rampant-half-user-logins-compromised/"
-    ]
-  ],
-  [
-    [
-      "2025-03-18, 08:21:02",
-      "https://news.ycombinator.com/item?id=43396853"
-    ],
-    [
-      "BYD says new fast-charging system could be as quick as filling up a tank",
-      "https://www.theguardian.com/technology/2025/mar/18/byd-ev-fast-charging-system-petrol-fuel-speed"
-    ]
-  ],
-  [
-    [
-      "2025-03-18, 08:09:37",
-      "https://news.ycombinator.com/item?id=43396795"
-    ],
-    [
-      "Moving away from US cloud services",
-      "https://martijnhols.nl/blog/moving-away-from-us-cloud-services"
     ]
   ],
   [
@@ -101,22 +81,22 @@
   ],
   [
     [
-      "2025-03-17, 23:25:53",
-      "https://news.ycombinator.com/item?id=43393822"
-    ],
-    [
-      "GIMP 3.0",
-      "https://testing.gimp.org/news/2025/03/16/gimp-3-0-released/"
-    ]
-  ],
-  [
-    [
       "2025-03-17, 22:05:04",
       "https://news.ycombinator.com/item?id=43393198"
     ],
     [
       "Show HN: I Built an iOS app to locate stray animals",
       "https://apps.apple.com/us/app/straysync/id6742747753"
+    ]
+  ],
+  [
+    [
+      "2025-03-17, 21:34:53",
+      "https://news.ycombinator.com/item?id=43392950"
+    ],
+    [
+      "Quantum Speedup Found for Class of Hard Problems",
+      "https://www.quantamagazine.org/quantum-speedup-found-for-huge-class-of-hard-problems-20250317/"
     ]
   ],
   [
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2025-03-16, 10:02:21",
+      "https://news.ycombinator.com/item?id=43377897"
+    ],
+    [
+      "Show HN: Cascii – A portable ASCII diagram builder written in vanilla JavaScript",
+      "https://github.com/casparwylie/cascii-core"
+    ]
+  ],
+  [
+    [
       "2025-03-15, 19:45:04",
       "https://news.ycombinator.com/item?id=43374753"
     ],
@@ -267,6 +257,16 @@
     [
       "Six mistakes I made in my dioramas-and-felt Steam game and one I didn't",
       "https://novalis.org/blog/2025-03-13-six-mistakes-i-made-and-one-i-avoided.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-14, 13:48:16",
+      "https://news.ycombinator.com/item?id=43362616"
+    ],
+    [
+      "Sesame CSM: A Conversational Speech Generation Model",
+      "https://github.com/SesameAILabs/csm"
     ]
   ],
   [
