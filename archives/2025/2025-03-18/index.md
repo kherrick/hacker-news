@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-18](index.md)
 
+* [2025-03-18, 16:23:21](https://news.ycombinator.com/item?id=43401245) - [Apple restricts Pebble from being awesome with iPhones](https://ericmigi.com/blog/apple-restricts-pebble-from-being-awesome-with-iphones/)
+* [2025-03-18, 16:14:04](https://news.ycombinator.com/item?id=43401138) - [Ask HN: Alternatives to Vector DB?](https://news.ycombinator.com/item?id=43401138)
 * [2025-03-18, 15:59:27](https://news.ycombinator.com/item?id=43400989) - [Two new PebbleOS watches](https://ericmigi.com/blog/introducing-two-new-pebbleos-watches/)
 * [2025-03-18, 15:26:26](https://news.ycombinator.com/item?id=43400574) - [China's EV Boom Is Bad for U.S..Tech](https://crazystupidtech.com/archive/chinas-ev-boom-is-bad-for-ustech/)
 * [2025-03-18, 15:25:59](https://news.ycombinator.com/item?id=43400570) - [Microsoft isn't fixing 8-year-old shortcut exploit abused for spying](https://www.theregister.com/2025/03/18/microsoft_trend_flaw/)
