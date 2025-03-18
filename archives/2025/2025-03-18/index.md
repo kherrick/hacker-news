@@ -8,6 +8,7 @@
 * [2025-03-18, 13:23:43](https://news.ycombinator.com/item?id=43399168) - [Half-Life 2 RTX](https://store.steampowered.com/app/2477290/HalfLife_2_RTX/)
 * [2025-03-18, 13:21:22](https://news.ycombinator.com/item?id=43399138) - [Wired is dropping paywalls for FOIA-based reporting. Others should follow](https://freedom.press/issues/wired-is-dropping-paywalls-for-foia-based-reporting-others-should-follow/)
 * [2025-03-18, 13:08:20](https://news.ycombinator.com/item?id=43399000) - ['Dogequest' Site Claims to Dox Tesla Owners Across the U.S.](https://www.404media.co/dogequest-site-claims-to-dox-tesla-owners-across-the-u-s/)
+* [2025-03-18, 13:08:19](https://news.ycombinator.com/item?id=43398999) - [Java 24](https://jdk.java.net/24/)
 * [2025-03-18, 13:06:45](https://news.ycombinator.com/item?id=43398991) - [You Do Not Need Blockchain: Popular Use Cases and Why They Do Not Work (2019)](https://blog.smartdec.net/you-do-not-need-blockchain-eight-popular-use-cases-and-why-they-do-not-work-f2ecc6cc2129)
 * [2025-03-18, 12:53:00](https://news.ycombinator.com/item?id=43398837) - [AI crawlers haven't learned to play nice with websites](https://www.theregister.com/2025/03/18/ai_crawlers_sourcehut/)
 * [2025-03-18, 12:47:30](https://news.ycombinator.com/item?id=43398780) - [Google announces agreement to acquire Wiz](https://blog.google/inside-google/company-announcements/google-agreement-acquire-wiz/)

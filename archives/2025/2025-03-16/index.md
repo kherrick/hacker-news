@@ -49,6 +49,7 @@
 * [2025-03-16, 13:01:31](https://news.ycombinator.com/item?id=43378701) - [Scorpi – A Modern Hypervisor (For macOS)](https://github.com/macos-fuse-t/scorpi)
 * [2025-03-16, 12:57:49](https://news.ycombinator.com/item?id=43378671) - [Breaking Up with On-Call](https://reflector.dev/articles/breaking-up-with-on-call/)
 * [2025-03-16, 12:50:56](https://news.ycombinator.com/item?id=43378627) - [Extracting content from an LCP \"protected\" ePub](https://shkspr.mobi/blog/2025/03/towards-extracting-content-from-an-lcp-protected-epub/)
+* [2025-03-16, 12:42:02](https://news.ycombinator.com/item?id=43378571) - [Rust on the RP2350](https://thejpster.org.uk/blog/blog-2024-08-08/)
 * [2025-03-16, 12:25:03](https://news.ycombinator.com/item?id=43378470) - [The Five-Week Solo Startup](https://taylor.town/5w)
 * [2025-03-16, 12:14:33](https://news.ycombinator.com/item?id=43378415) - [Learn You Some Erlang for Great Good](https://learnyousomeerlang.com/content)
 * [2025-03-16, 12:13:24](https://news.ycombinator.com/item?id=43378401) - [Big LLMs weights are a piece of history](https://antirez.com/news/147)
