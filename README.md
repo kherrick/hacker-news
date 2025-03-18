@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-18, 10:21:09](https://news.ycombinator.com/item?id=43397664) - [Claude.ai, Console, and API not available](https://status.anthropic.com/incidents/rjjg3fzd2spp)
+* [2025-03-18, 09:09:11](https://news.ycombinator.com/item?id=43397117) - [Password reuse is rampant: nearly half of observed user logins are compromised](https://blog.cloudflare.com/password-reuse-rampant-half-user-logins-compromised/)
 * [2025-03-18, 08:21:02](https://news.ycombinator.com/item?id=43396853) - [BYD says new fast-charging system could be as quick as filling up a tank](https://www.theguardian.com/technology/2025/mar/18/byd-ev-fast-charging-system-petrol-fuel-speed)
 * [2025-03-18, 08:09:37](https://news.ycombinator.com/item?id=43396795) - [Moving away from US cloud services](https://martijnhols.nl/blog/moving-away-from-us-cloud-services)
 * [2025-03-18, 07:59:50](https://news.ycombinator.com/item?id=43396735) - [Block YouTube ads on AppleTV by decrypting and stripping ads from Profobuf](https://ericdraken.com/pfsense-decrypt-ad-traffic/)
@@ -10,7 +12,6 @@
 * [2025-03-17, 23:35:02](https://news.ycombinator.com/item?id=43393924) - [Past and Present Futures of User Interface Design](https://www.datagubbe.se/futui/)
 * [2025-03-17, 23:25:53](https://news.ycombinator.com/item?id=43393822) - [GIMP 3.0](https://testing.gimp.org/news/2025/03/16/gimp-3-0-released/)
 * [2025-03-17, 22:05:04](https://news.ycombinator.com/item?id=43393198) - [Show HN: I Built an iOS app to locate stray animals](https://apps.apple.com/us/app/straysync/id6742747753)
-* [2025-03-17, 21:34:53](https://news.ycombinator.com/item?id=43392950) - [Quantum Speedup Found for Class of Hard Problems](https://www.quantamagazine.org/quantum-speedup-found-for-huge-class-of-hard-problems-20250317/)
 * [2025-03-17, 20:43:35](https://news.ycombinator.com/item?id=43392549) - [The High Heel Problem](https://simonschreibt.de/gat/the-high-heel-problem/)
 * [2025-03-17, 20:40:52](https://news.ycombinator.com/item?id=43392521) - [Show HN: OpenTimes – Free travel times between U.S. Census geographies](https://opentimes.org)
 * [2025-03-17, 20:11:09](https://news.ycombinator.com/item?id=43392295) - [After 47 years, OpenVMS gets a package manager (VSP)](https://raymii.org/s/blog/After_47_years_OpenVMS_gets_a_package_manager_VSP.html)
@@ -21,7 +22,6 @@
 * [2025-03-17, 13:03:52](https://news.ycombinator.com/item?id=43388133) - [Rippling sues Deel over spying](https://twitter.com/parkerconrad/status/1901615179718406276)
 * [2025-03-16, 12:57:49](https://news.ycombinator.com/item?id=43378671) - [Breaking Up with On-Call](https://reflector.dev/articles/breaking-up-with-on-call/)
 * [2025-03-16, 11:05:58](https://news.ycombinator.com/item?id=43378114) - [PrintedLabs – 3D printable optical experiment equipment](https://printedlabs.uni-bayreuth.de/en)
-* [2025-03-16, 10:02:21](https://news.ycombinator.com/item?id=43377897) - [Show HN: Cascii – A portable ASCII diagram builder written in vanilla JavaScript](https://github.com/casparwylie/cascii-core)
 * [2025-03-15, 19:45:04](https://news.ycombinator.com/item?id=43374753) - [The PhD Metagame: Don't try to reform science – not yet](https://maxwellforbes.com/posts/dont-try-to-reform-science/)
 * [2025-03-15, 18:38:19](https://news.ycombinator.com/item?id=43374369) - [Extracting DNA from the air – DNA evidence of human occupancy in indoor premises](https://www.nature.com/articles/s41598-023-46151-7)
 * [2025-03-14, 21:18:55](https://news.ycombinator.com/item?id=43367401) - [The Dark Crystal: Age of Resistance Is a Stone-Cold Masterpiece](https://gizmodo.com/reminder-the-dark-crystal-age-of-resistance-is-a-stone-cold-masterpiece-2000574613)
