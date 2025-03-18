@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-18, 14:37:31](https://news.ycombinator.com/item?id=43399983) - [Hungary's use of facial recognition violates EU AI Act](https://www.euractiv.com/section/tech/news/hungarys-use-of-facial-recognition-violates-eu-ai-act/)
+* [2025-03-18, 14:24:04](https://news.ycombinator.com/item?id=43399811) - [The Failure Rate of EBS](https://planetscale.com/blog/the-real-fail-rate-of-ebs)
 * [2025-03-18, 13:29:53](https://news.ycombinator.com/item?id=43399227) - [UK wants dirt on data brokers before criminals get there first](https://www.theregister.com/2025/03/18/uk_data_broker_inquiry/)
 * [2025-03-18, 13:23:43](https://news.ycombinator.com/item?id=43399168) - [Half-Life 2 RTX](https://store.steampowered.com/app/2477290/HalfLife_2_RTX/)
 * [2025-03-18, 13:21:22](https://news.ycombinator.com/item?id=43399138) - [Wired is dropping paywalls for FOIA-based reporting. Others should follow](https://freedom.press/issues/wired-is-dropping-paywalls-for-foia-based-reporting-others-should-follow/)
@@ -8,7 +10,6 @@
 * [2025-03-18, 12:53:00](https://news.ycombinator.com/item?id=43398837) - [AI crawlers haven't learned to play nice with websites](https://www.theregister.com/2025/03/18/ai_crawlers_sourcehut/)
 * [2025-03-18, 12:47:30](https://news.ycombinator.com/item?id=43398780) - [Google announces agreement to acquire Wiz](https://blog.google/inside-google/company-announcements/google-agreement-acquire-wiz/)
 * [2025-03-18, 11:17:44](https://news.ycombinator.com/item?id=43398081) - [Show HN: I made a live multiplayer Minesweeper game](https://www.minesweeperpro.com/)
-* [2025-03-18, 10:43:15](https://news.ycombinator.com/item?id=43397832) - [Ownership of High-Risk (\"Vicious\") Dogs as a Marker for Deviant Behaviors](https://www.researchgate.net/publication/6729905_Ownership_of_High-Risk_Vicious_Dogs_as_a_Marker_for_Deviant_Behaviors)
 * [2025-03-18, 09:56:37](https://news.ycombinator.com/item?id=43397474) - [The Model Is the Product](https://vintagedata.org/blog/posts/model-is-the-product)
 * [2025-03-18, 07:59:50](https://news.ycombinator.com/item?id=43396735) - [Block YouTube ads on AppleTV by decrypting and stripping ads from Profobuf](https://ericdraken.com/pfsense-decrypt-ad-traffic/)
 * [2025-03-18, 07:00:20](https://news.ycombinator.com/item?id=43396450) - [Depot (YC W23) is hiring a founding developer marketer (EU/US remote)](https://www.ycombinator.com/companies/depot/jobs/307RqGp-founding-developer-marketer)
@@ -22,7 +23,6 @@
 * [2025-03-17, 13:03:52](https://news.ycombinator.com/item?id=43388133) - [Rippling sues Deel over spying](https://twitter.com/parkerconrad/status/1901615179718406276)
 * [2025-03-16, 12:57:49](https://news.ycombinator.com/item?id=43378671) - [Breaking Up with On-Call](https://reflector.dev/articles/breaking-up-with-on-call/)
 * [2025-03-16, 12:42:02](https://news.ycombinator.com/item?id=43378571) - [Rust on the RP2350](https://thejpster.org.uk/blog/blog-2024-08-08/)
-* [2025-03-16, 08:21:03](https://news.ycombinator.com/item?id=43377581) - [So you wanna go on prem (2016)](https://blog.lusis.org/blog/2016/05/15/so-you-wanna-go-onprem-do-ya/)
 * [2025-03-15, 19:45:04](https://news.ycombinator.com/item?id=43374753) - [The PhD Metagame: Don't try to reform science – not yet](https://maxwellforbes.com/posts/dont-try-to-reform-science/)
 * [2025-03-15, 18:38:19](https://news.ycombinator.com/item?id=43374369) - [Extracting DNA from the air – DNA evidence of human occupancy in indoor premises](https://www.nature.com/articles/s41598-023-46151-7)
 * [2025-03-15, 00:42:22](https://news.ycombinator.com/item?id=43368863) - [SheepIt Render Farm server code goes open source](https://gitlab.com/sheepitrenderfarm)
