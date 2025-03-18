@@ -16,6 +16,7 @@
 * [2025-03-15, 19:06:01](https://news.ycombinator.com/item?id=43374519) - [Sign in as anyone: Bypassing SAML SSO authentication with parser differentials](https://github.blog/security/sign-in-as-anyone-bypassing-saml-sso-authentication-with-parser-differentials/)
 * [2025-03-15, 19:04:01](https://news.ycombinator.com/item?id=43374505) - [Show HN: Aiopandas – Async .apply() and .map() for Pandas, Faster API/LLMs Calls](https://github.com/telekinesis-inc/aiopandas)
 * [2025-03-15, 18:46:02](https://news.ycombinator.com/item?id=43374407) - [Ask HN: What kind of whiteboard do you use that does NOT use dry erase markers?](https://news.ycombinator.com/item?id=43374407)
+* [2025-03-15, 18:38:19](https://news.ycombinator.com/item?id=43374369) - [Extracting DNA from the air – DNA evidence of human occupancy in indoor premises](https://www.nature.com/articles/s41598-023-46151-7)
 * [2025-03-15, 18:22:37](https://news.ycombinator.com/item?id=43374283) - [AutoHete: An Automatic and Efficient Heterogeneous Training System for LLMs](https://arxiv.org/abs/2503.01890)
 * [2025-03-15, 18:22:15](https://news.ycombinator.com/item?id=43374278) - [That Time I Recreated Photoshop in C++](https://f055.net/technology/that-time-i/that-time-i-recreated-photoshop-in-c/)
 * [2025-03-15, 18:15:53](https://news.ycombinator.com/item?id=43374237) - [They're Close to My Body: A Hagiography of Nine Inch Nails and Robin Finck (2020)](https://www.thewhitereview.org/feature/theyre-really-close-to-my-body/)
