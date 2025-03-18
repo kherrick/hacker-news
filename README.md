@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-18, 03:31:36](https://news.ycombinator.com/item?id=43395496) - [The Calculated Typer](https://bahr.io/pubs/entries/calctyper.html)
 * [2025-03-18, 01:37:19](https://news.ycombinator.com/item?id=43394881) - [Rhombus Language](https://rhombus-lang.org)
 * [2025-03-18, 01:00:34](https://news.ycombinator.com/item?id=43394621) - [Doctor Droid (YC W23) Is Hiring](https://www.ycombinator.com/companies/doctor-droid/jobs/2v9x6QW-ai-lead)
 * [2025-03-17, 23:35:02](https://news.ycombinator.com/item?id=43393924) - [Past and Present Futures of User Interface Design](https://www.datagubbe.se/futui/)
@@ -23,7 +24,6 @@
 * [2025-03-16, 10:33:32](https://news.ycombinator.com/item?id=43378001) - [Mlx-community/OLMo-2-0325-32B-Instruct-4bit](https://simonwillison.net/2025/Mar/16/olmo2/)
 * [2025-03-16, 10:02:21](https://news.ycombinator.com/item?id=43377897) - [Show HN: Cascii – A portable ASCII diagram builder written in vanilla JavaScript](https://github.com/casparwylie/cascii-core)
 * [2025-03-15, 19:45:04](https://news.ycombinator.com/item?id=43374753) - [Don't Try to Reform Science](https://maxwellforbes.com/posts/dont-try-to-reform-science/)
-* [2025-03-14, 20:05:53](https://news.ycombinator.com/item?id=43366671) - [Recommendations for designing magic numbers of binary file formats](https://hackers.town/@zwol/114155595855705796)
 * [2025-03-14, 11:00:41](https://news.ycombinator.com/item?id=43361389) - [Theory crafting a system for 1000 simultaneous micro SD card ingests](https://forum.level1techs.com/t/theory-crafting-a-system-for-maximum-simultaneous-micro-sd-card-ingest/227159)
 * [2025-03-14, 09:37:57](https://news.ycombinator.com/item?id=43360969) - [Carefully but Purposefully Oxidising Ubuntu](https://jnsgr.uk/2025/03/carefully-but-purposefully-oxidising-ubuntu)
 * [2025-03-14, 08:34:18](https://news.ycombinator.com/item?id=43360633) - [Coq-of-rust: Formal verification tool for Rust](https://github.com/formal-land/coq-of-rust)
