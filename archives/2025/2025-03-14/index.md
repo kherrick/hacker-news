@@ -51,6 +51,7 @@
 * [2025-03-14, 14:00:34](https://news.ycombinator.com/item?id=43362725) - [Local-First and Ejectable](https://thymer.com/local-first-ejectable)
 * [2025-03-14, 13:53:10](https://news.ycombinator.com/item?id=43362667) - [High-performance computing, with much less code](https://news.mit.edu/2025/high-performance-computing-with-much-less-code-0313)
 * [2025-03-14, 13:52:34](https://news.ycombinator.com/item?id=43362659) - [I outsourced my memory to an AI pin and all I got was fanfiction](https://www.theverge.com/reviews/627056/bee-review-ai-wearable)
+* [2025-03-14, 13:48:16](https://news.ycombinator.com/item?id=43362616) - [Sesame CSM: A Conversational Speech Generation Model](https://github.com/SesameAILabs/csm)
 * [2025-03-14, 13:37:18](https://news.ycombinator.com/item?id=43362535) - [Show HN: Pi Labs – AI scoring and optimization tools for software engineers](https://build.withpi.ai/dashboard)
 * [2025-03-14, 13:36:20](https://news.ycombinator.com/item?id=43362528) - [The Cassowary Linear Arithmetic Constraint Solving Algorithm [pdf] (2002)](https://constraints.cs.washington.edu/solvers/cassowary-tochi.pdf)
 * [2025-03-14, 13:16:02](https://news.ycombinator.com/item?id=43362339) - [Athena landed in a dark crater where the temperature was minus 280° F](https://arstechnica.com/space/2025/03/athena-landed-in-a-dark-crater-where-the-temperature-was-minus-280-f/)
