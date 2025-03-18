@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-03-18](index.md)
 
+* [2025-03-18, 15:59:27](https://news.ycombinator.com/item?id=43400989) - [Two new PebbleOS watches](https://ericmigi.com/blog/introducing-two-new-pebbleos-watches/)
 * [2025-03-18, 15:26:26](https://news.ycombinator.com/item?id=43400574) - [China's EV Boom Is Bad for U.S..Tech](https://crazystupidtech.com/archive/chinas-ev-boom-is-bad-for-ustech/)
 * [2025-03-18, 15:25:59](https://news.ycombinator.com/item?id=43400570) - [Microsoft isn't fixing 8-year-old shortcut exploit abused for spying](https://www.theregister.com/2025/03/18/microsoft_trend_flaw/)
 * [2025-03-18, 14:37:31](https://news.ycombinator.com/item?id=43399983) - [Hungary's use of facial recognition violates EU AI Act](https://www.euractiv.com/section/tech/news/hungarys-use-of-facial-recognition-violates-eu-ai-act/)
 * [2025-03-18, 14:24:04](https://news.ycombinator.com/item?id=43399811) - [The Failure Rate of EBS](https://planetscale.com/blog/the-real-fail-rate-of-ebs)
 * [2025-03-18, 13:29:53](https://news.ycombinator.com/item?id=43399227) - [UK wants dirt on data brokers before criminals get there first](https://www.theregister.com/2025/03/18/uk_data_broker_inquiry/)
+* [2025-03-18, 13:25:46](https://news.ycombinator.com/item?id=43399190) - [North Korea Launders Billions in Stolen Crypto](https://www.coindesk.com/policy/2025/03/07/here-s-how-north-korea-launders-billions-of-stolen-crypto)
 * [2025-03-18, 13:23:43](https://news.ycombinator.com/item?id=43399168) - [Half-Life 2 RTX](https://store.steampowered.com/app/2477290/HalfLife_2_RTX/)
 * [2025-03-18, 13:21:22](https://news.ycombinator.com/item?id=43399138) - [Wired is dropping paywalls for FOIA-based reporting. Others should follow](https://freedom.press/issues/wired-is-dropping-paywalls-for-foia-based-reporting-others-should-follow/)
 * [2025-03-18, 13:08:20](https://news.ycombinator.com/item?id=43399000) - ['Dogequest' Site Claims to Dox Tesla Owners Across the U.S.](https://www.404media.co/dogequest-site-claims-to-dox-tesla-owners-across-the-u-s/)
@@ -34,5 +36,6 @@
 * [2025-03-18, 07:00:20](https://news.ycombinator.com/item?id=43396450) - [Depot (YC W23) is hiring a founding developer marketer (EU/US remote)](https://www.ycombinator.com/companies/depot/jobs/307RqGp-founding-developer-marketer)
 * [2025-03-18, 04:05:45](https://news.ycombinator.com/item?id=43395658) - [When Oregon blew up a whale with 20 cases of dynamite](https://katu.com/news/local/exploding-whale-day-54-years-since-whale-infamously-blown-up-on-oregon-beach)
 * [2025-03-18, 03:31:36](https://news.ycombinator.com/item?id=43395496) - [The Calculated Typer](https://bahr.io/pubs/entries/calctyper.html)
+* [2025-03-18, 01:52:18](https://news.ycombinator.com/item?id=43394951) - [20 Years of YC / HN](https://vickiboykis.com/2025/03/17/20-years-of-yc/)
 * [2025-03-18, 01:37:19](https://news.ycombinator.com/item?id=43394881) - [Rhombus Language](https://rhombus-lang.org)
 * [2025-03-18, 01:00:34](https://news.ycombinator.com/item?id=43394621) - [Doctor Droid (YC W23) Is Hiring](https://www.ycombinator.com/companies/doctor-droid/jobs/2v9x6QW-ai-lead)
