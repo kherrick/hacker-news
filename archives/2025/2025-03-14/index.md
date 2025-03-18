@@ -32,6 +32,7 @@
 * [2025-03-14, 17:12:18](https://news.ycombinator.com/item?id=43364715) - [The Curious Surge of Productivity in U.S. Restaurants](https://bfi.uchicago.edu/working-papers/the-curious-surge-of-productivity-in-u-s-restaurants/)
 * [2025-03-14, 17:07:11](https://news.ycombinator.com/item?id=43364668) - [You Can Make Postgres Scale](https://pgdog.dev/blog/you-can-make-postgres-scale)
 * [2025-03-14, 17:00:21](https://news.ycombinator.com/item?id=43364597) - [Prequel (YC W21) Is Hiring a Strong Front End Engineer](https://www.ycombinator.com/companies/prequel/jobs/wdjx5KE-frontend-software-engineer)
+* [2025-03-14, 16:41:26](https://news.ycombinator.com/item?id=43364368) - [Six mistakes I made in my dioramas-and-felt Steam game and one I didn't](https://novalis.org/blog/2025-03-13-six-mistakes-i-made-and-one-i-avoided.html)
 * [2025-03-14, 16:10:04](https://news.ycombinator.com/item?id=43364016) - [Samsung bricked their home theater systems through automated firmware update](https://us.community.samsung.com/t5/Home-Theater/Samsung-Q990D-unresponsive-after-1020-firmware-update/td-p/3168571)
 * [2025-03-14, 16:00:06](https://news.ycombinator.com/item?id=43363918) - [The 2FA app that tells you when you get `314159`](https://blog.jacobstechtavern.com/p/building-a-2fa-app-that-detects-patterns)
 * [2025-03-14, 15:21:24](https://news.ycombinator.com/item?id=43363499) - ['A lot worse than expected': AI Pac-Man clones, reviewed](https://www.theguardian.com/games/2025/mar/11/ai-pac-man-clones-reviewed-grok)
