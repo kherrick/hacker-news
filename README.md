@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-18, 13:29:53](https://news.ycombinator.com/item?id=43399227) - [UK wants dirt on data brokers before criminals get there first](https://www.theregister.com/2025/03/18/uk_data_broker_inquiry/)
+* [2025-03-18, 13:08:20](https://news.ycombinator.com/item?id=43399000) - ['Dogequest' Site Claims to Dox Tesla Owners Across the U.S.](https://www.404media.co/dogequest-site-claims-to-dox-tesla-owners-across-the-u-s/)
 * [2025-03-18, 13:06:45](https://news.ycombinator.com/item?id=43398991) - [You Do Not Need Blockchain: Popular Use Cases and Why They Do Not Work (2019)](https://blog.smartdec.net/you-do-not-need-blockchain-eight-popular-use-cases-and-why-they-do-not-work-f2ecc6cc2129)
 * [2025-03-18, 12:53:00](https://news.ycombinator.com/item?id=43398837) - [AI crawlers haven't learned to play nice with websites](https://www.theregister.com/2025/03/18/ai_crawlers_sourcehut/)
 * [2025-03-18, 11:17:44](https://news.ycombinator.com/item?id=43398081) - [Show HN: I made a live multiplayer Minesweeper game](https://www.minesweeperpro.com/)
@@ -18,7 +19,6 @@
 * [2025-03-17, 16:47:02](https://news.ycombinator.com/item?id=43390400) - [Deep Learning Is Not So Mysterious or Different](https://arxiv.org/abs/2503.02113)
 * [2025-03-17, 13:03:52](https://news.ycombinator.com/item?id=43388133) - [Rippling sues Deel over spying](https://twitter.com/parkerconrad/status/1901615179718406276)
 * [2025-03-16, 12:57:49](https://news.ycombinator.com/item?id=43378671) - [Breaking Up with On-Call](https://reflector.dev/articles/breaking-up-with-on-call/)
-* [2025-03-16, 11:05:58](https://news.ycombinator.com/item?id=43378114) - [PrintedLabs – 3D printable optical experiment equipment](https://printedlabs.uni-bayreuth.de/en)
 * [2025-03-16, 08:21:03](https://news.ycombinator.com/item?id=43377581) - [So you wanna go on prem (2016)](https://blog.lusis.org/blog/2016/05/15/so-you-wanna-go-onprem-do-ya/)
 * [2025-03-15, 19:45:04](https://news.ycombinator.com/item?id=43374753) - [The PhD Metagame: Don't try to reform science – not yet](https://maxwellforbes.com/posts/dont-try-to-reform-science/)
 * [2025-03-15, 18:38:19](https://news.ycombinator.com/item?id=43374369) - [Extracting DNA from the air – DNA evidence of human occupancy in indoor premises](https://www.nature.com/articles/s41598-023-46151-7)
