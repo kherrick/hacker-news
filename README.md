@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-18, 09:56:37](https://news.ycombinator.com/item?id=43397474) - [The Model Is the Product](https://vintagedata.org/blog/posts/model-is-the-product)
-* [2025-03-18, 09:09:11](https://news.ycombinator.com/item?id=43397117) - [Password reuse is rampant: nearly half of observed user logins are compromised](https://blog.cloudflare.com/password-reuse-rampant-half-user-logins-compromised/)
 * [2025-03-18, 07:59:50](https://news.ycombinator.com/item?id=43396735) - [Block YouTube ads on AppleTV by decrypting and stripping ads from Profobuf](https://ericdraken.com/pfsense-decrypt-ad-traffic/)
 * [2025-03-18, 07:00:20](https://news.ycombinator.com/item?id=43396450) - [Depot (YC W23) is hiring a founding developer marketer (EU/US remote)](https://www.ycombinator.com/companies/depot/jobs/307RqGp-founding-developer-marketer)
 * [2025-03-18, 04:05:45](https://news.ycombinator.com/item?id=43395658) - [When Oregon blew up a whale with 20 cases of dynamite](https://katu.com/news/local/exploding-whale-day-54-years-since-whale-infamously-blown-up-on-oregon-beach)
@@ -30,6 +29,7 @@
 * [2025-03-14, 10:51:01](https://news.ycombinator.com/item?id=43361333) - [Building AI agents to query your databases](https://blog.dust.tt/spreadsheets-databases-and-beyond-creating-a-universal-ai-query-layer/)
 * [2025-03-14, 07:02:39](https://news.ycombinator.com/item?id=43360251) - [HTTP/3 is everywhere but nowhere](https://httptoolkit.com/blog/http3-quic-open-source-support-nowhere/)
 * [2025-03-14, 03:13:26](https://news.ycombinator.com/item?id=43359264) - [Hidden Messages in Emojis and Hacking the US Treasury](https://slamdunksoftware.substack.com/p/hidden-messages-in-emojis-and-hacking)
+* [2025-03-13, 23:26:56](https://news.ycombinator.com/item?id=43358264) - [Show HN: Psychedelic animation generator; (p)art of your next trip](https://collidingscopes.github.io/liquid-shape-distortions/)
 
 ## [Archives](archives/index.md)
 
