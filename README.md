@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-18, 20:25:27](https://news.ycombinator.com/item?id=43404617) - [A Tale of Four Kernels [pdf]](https://users.csc.calpoly.edu/~djanzen/courses/509S09/papers/FourKernels.pdf)
+* [2025-03-18, 20:23:09](https://news.ycombinator.com/item?id=43404586) - ['It's a Heist': Real Federal Auditors Are Horrified by Doge](https://www.wired.com/story/federal-auditors-doge-elon-musk/)
 * [2025-03-18, 19:27:55](https://news.ycombinator.com/item?id=43403860) - [Nvidia's RTX Pro 6000 has 96GB of VRAM and 600W of power](https://www.theverge.com/news/631868/nvidia-rtx-pro-6000-blackwell-gpu-professionals)
 * [2025-03-18, 18:56:53](https://news.ycombinator.com/item?id=43403377) - [PeerTube v7.1 Is Out](https://joinpeertube.org/news/release-7.1)
 * [2025-03-18, 18:27:42](https://news.ycombinator.com/item?id=43402957) - [FTC Removes Posts Critical of Amazon, Microsoft, and AI Companies](https://www.wired.com/story/federal-trade-commission-removed-blogs-critical-of-ai-amazon-microsoft/)
@@ -26,10 +28,8 @@
 * [2025-03-16, 13:01:51](https://news.ycombinator.com/item?id=43378704) - [Practical Process Control: Methods and Best Practices for Automatic PID Control](https://controlguru.com/table-of-contents/)
 * [2025-03-16, 12:42:02](https://news.ycombinator.com/item?id=43378571) - [Rust on the RP2350 (2024)](https://thejpster.org.uk/blog/blog-2024-08-08/)
 * [2025-03-16, 08:03:36](https://news.ycombinator.com/item?id=43377533) - [The race is on to build the most complex machine](https://www.economist.com/science-and-technology/2025/03/12/the-race-is-on-to-build-the-worlds-most-complex-machine)
-* [2025-03-15, 18:38:19](https://news.ycombinator.com/item?id=43374369) - [Extracting DNA from the air – DNA evidence of human occupancy in indoor premises](https://www.nature.com/articles/s41598-023-46151-7)
 * [2025-03-15, 16:26:51](https://news.ycombinator.com/item?id=43373504) - [This is no world for an axolotl](https://english.elpais.com/eps/2025-03-15/this-is-no-world-for-an-axolotl.html)
 * [2025-03-15, 00:42:22](https://news.ycombinator.com/item?id=43368863) - [SheepIt Render Farm server code goes open source](https://gitlab.com/sheepitrenderfarm)
-* [2025-03-14, 21:18:55](https://news.ycombinator.com/item?id=43367401) - [The Dark Crystal: Age of Resistance Is a Stone-Cold Masterpiece](https://gizmodo.com/reminder-the-dark-crystal-age-of-resistance-is-a-stone-cold-masterpiece-2000574613)
 
 ## [Archives](archives/index.md)
 
