@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-18](index.md)
 
+* [2025-03-18, 23:20:38](https://news.ycombinator.com/item?id=43406393) - [Asahi Lina Pausing Work on Apple GPU Linux Driver Development](https://www.phoronix.com/news/Asahi-Lina-Steps-Down-Linux-GPU)
 * [2025-03-18, 22:39:42](https://news.ycombinator.com/item?id=43406023) - [Man charged in US Capitol attack announces run for Senate in Florida](https://www.theguardian.com/us-news/2025/mar/18/senate-florida-january-6-rioter-jake-lang)
 * [2025-03-18, 22:28:29](https://news.ycombinator.com/item?id=43405918) - [Microsoft quantum computing claim still lacks evidence](https://www.nature.com/articles/d41586-025-00829-2)
 * [2025-03-18, 20:44:14](https://news.ycombinator.com/item?id=43404858) - [Nvidia Dynamo: A Datacenter Scale Distributed Inference Serving Framework](https://github.com/ai-dynamo/dynamo)
