@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-18](index.md)
 
+* [2025-03-18, 15:26:26](https://news.ycombinator.com/item?id=43400574) - [China's EV Boom Is Bad for U.S..Tech](https://crazystupidtech.com/archive/chinas-ev-boom-is-bad-for-ustech/)
 * [2025-03-18, 14:37:31](https://news.ycombinator.com/item?id=43399983) - [Hungary's use of facial recognition violates EU AI Act](https://www.euractiv.com/section/tech/news/hungarys-use-of-facial-recognition-violates-eu-ai-act/)
 * [2025-03-18, 14:24:04](https://news.ycombinator.com/item?id=43399811) - [The Failure Rate of EBS](https://planetscale.com/blog/the-real-fail-rate-of-ebs)
 * [2025-03-18, 13:29:53](https://news.ycombinator.com/item?id=43399227) - [UK wants dirt on data brokers before criminals get there first](https://www.theregister.com/2025/03/18/uk_data_broker_inquiry/)
@@ -12,9 +13,11 @@
 * [2025-03-18, 13:08:20](https://news.ycombinator.com/item?id=43399000) - ['Dogequest' Site Claims to Dox Tesla Owners Across the U.S.](https://www.404media.co/dogequest-site-claims-to-dox-tesla-owners-across-the-u-s/)
 * [2025-03-18, 13:08:19](https://news.ycombinator.com/item?id=43398999) - [Java 24](https://jdk.java.net/24/)
 * [2025-03-18, 13:06:45](https://news.ycombinator.com/item?id=43398991) - [You Do Not Need Blockchain: Popular Use Cases and Why They Do Not Work (2019)](https://blog.smartdec.net/you-do-not-need-blockchain-eight-popular-use-cases-and-why-they-do-not-work-f2ecc6cc2129)
+* [2025-03-18, 13:04:37](https://news.ycombinator.com/item?id=43398968) - [Show HN: I converted my notebook into a searchable database of IT keywords](https://techbook.digital/)
 * [2025-03-18, 12:53:00](https://news.ycombinator.com/item?id=43398837) - [AI crawlers haven't learned to play nice with websites](https://www.theregister.com/2025/03/18/ai_crawlers_sourcehut/)
 * [2025-03-18, 12:47:30](https://news.ycombinator.com/item?id=43398780) - [Google announces agreement to acquire Wiz](https://blog.google/inside-google/company-announcements/google-agreement-acquire-wiz/)
 * [2025-03-18, 12:47:18](https://news.ycombinator.com/item?id=43398777) - [The Unofficial Guide to OpenAI Realtime WebRTC API](https://webrtchacks.com/the-unofficial-guide-to-openai-realtime-webrtc-api/)
+* [2025-03-18, 12:25:52](https://news.ycombinator.com/item?id=43398589) - [Stamina Is a Quiet Advantage](https://kupajo.com/stamina-is-a-quiet-advantage/)
 * [2025-03-18, 12:25:16](https://news.ycombinator.com/item?id=43398579) - [Court filing: DOGE aide broke Treasury policy by emailing unencrypted database](https://www.theregister.com/2025/03/17/doge_treasury/)
 * [2025-03-18, 12:18:29](https://news.ycombinator.com/item?id=43398518) - [Google to buy Wiz for $32B](https://www.reuters.com/technology/cybersecurity/google-agrees-buy-cybersecurity-startup-wiz-32-bln-ft-reports-2025-03-18/)
 * [2025-03-18, 11:24:33](https://news.ycombinator.com/item?id=43398137) - [Repealing the CHIPS Act risks US national security](https://www.ft.com/content/c6e7bc46-ab8f-49b6-8973-8c2906cc3604)
