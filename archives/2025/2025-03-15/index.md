@@ -50,4 +50,5 @@
 * [2025-03-15, 02:08:54](https://news.ycombinator.com/item?id=43369298) - [The Last Decision by the Leading Thinker on Decisions](https://www.wsj.com/arts-culture/books/daniel-kahneman-assisted-suicide-9fb16124)
 * [2025-03-15, 01:57:59](https://news.ycombinator.com/item?id=43369230) - [Google Being Forced to Sell Chrome Is Not Good for the Web](https://chriscoyier.net/2025/03/14/google-being-forced-to-sell-chrome-is-not-good-for-the-web/)
 * [2025-03-15, 00:43:02](https://news.ycombinator.com/item?id=43368870) - [Popular GitHub Action tj-actions/changed-files is compromised](https://semgrep.dev/blog/2025/popular-github-action-tj-actionschanged-files-is-compromised/)
+* [2025-03-15, 00:42:22](https://news.ycombinator.com/item?id=43368863) - [SheepIt Render Farm server code goes open source](https://gitlab.com/sheepitrenderfarm)
 * [2025-03-15, 00:27:09](https://news.ycombinator.com/item?id=43368765) - [From QED to Neovim](https://l-o-o-s-e-d.net/qed-neovim)
