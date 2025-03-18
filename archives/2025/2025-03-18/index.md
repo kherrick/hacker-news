@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-18](index.md)
 
+* [2025-03-18, 18:17:33](https://news.ycombinator.com/item?id=43402790) - [US appeals court rules AI generated art cannot be copyrighted](https://www.reuters.com/world/us/us-appeals-court-rejects-copyrights-ai-generated-art-lacking-human-creator-2025-03-18/)
+* [2025-03-18, 18:03:50](https://news.ycombinator.com/item?id=43402622) - [Volkswagen's cheapest EV ever is the first to use Rivian software](https://techcrunch.com/2025/03/05/volkswagens-cheapest-ev-ever-is-the-first-to-use-rivian-software/)
+* [2025-03-18, 17:46:51](https://news.ycombinator.com/item?id=43402373) - [Tesla Hate Is Making Insurance More Expensive for Owners](https://gizmodo.com/tesla-hate-is-making-insurance-more-expensive-for-owners-2000577467)
 * [2025-03-18, 17:44:56](https://news.ycombinator.com/item?id=43402348) - [What's new in Graal Languages 24.2](https://medium.com/graalvm/whats-new-in-graal-languages-24-2-328471fc4137)
 * [2025-03-18, 17:30:13](https://news.ycombinator.com/item?id=43402149) - [HTTrack Website Copier](https://www.httrack.com/)
 * [2025-03-18, 17:29:19](https://news.ycombinator.com/item?id=43402136) - [Why AI will never replace human code review](https://graphite.dev/blog/ai-wont-replace-human-code-review)
@@ -15,6 +18,7 @@
 * [2025-03-18, 16:36:20](https://news.ycombinator.com/item?id=43401421) - [Preview: Amazon S3 Tables and Lakehouse in DuckDB](https://duckdb.org/2025/03/14/preview-amazon-s3-tables.html)
 * [2025-03-18, 16:32:54](https://news.ycombinator.com/item?id=43401378) - [Underrated Soft Skill for Developers: Charisma](https://utopianengineeringsociety.substack.com/p/new-series-underrated-soft-skills)
 * [2025-03-18, 16:23:21](https://news.ycombinator.com/item?id=43401245) - [Apple restricts Pebble from being awesome with iPhones](https://ericmigi.com/blog/apple-restricts-pebble-from-being-awesome-with-iphones/)
+* [2025-03-18, 16:18:08](https://news.ycombinator.com/item?id=43401179) - [Designing Electronics That Work](https://www.hscott.net/designing-electronics-that-work/)
 * [2025-03-18, 16:14:04](https://news.ycombinator.com/item?id=43401138) - [Ask HN: Alternatives to Vector DB?](https://news.ycombinator.com/item?id=43401138)
 * [2025-03-18, 15:59:27](https://news.ycombinator.com/item?id=43400989) - [Two new PebbleOS watches](https://ericmigi.com/blog/introducing-two-new-pebbleos-watches/)
 * [2025-03-18, 15:26:26](https://news.ycombinator.com/item?id=43400574) - [China's EV Boom Is Bad for U.S..Tech](https://crazystupidtech.com/archive/chinas-ev-boom-is-bad-for-ustech/)

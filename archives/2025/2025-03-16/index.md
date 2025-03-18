@@ -72,6 +72,7 @@
 * [2025-03-16, 08:48:09](https://news.ycombinator.com/item?id=43377690) - [Show HN: My high school team's space probe](https://drive.google.com/file/d/1_9V6lBTIfDsPdKCohQBc5Ed5UzDbnsrI/view?usp=sharing)
 * [2025-03-16, 08:42:01](https://news.ycombinator.com/item?id=43377665) - [Take a New Look at CSS Shapes (2018)](https://www.smashingmagazine.com/2018/09/css-shapes/)
 * [2025-03-16, 08:21:03](https://news.ycombinator.com/item?id=43377581) - [So you wanna go on prem (2016)](https://blog.lusis.org/blog/2016/05/15/so-you-wanna-go-onprem-do-ya/)
+* [2025-03-16, 08:03:36](https://news.ycombinator.com/item?id=43377533) - [The race is on to build the most complex machine](https://www.economist.com/science-and-technology/2025/03/12/the-race-is-on-to-build-the-worlds-most-complex-machine)
 * [2025-03-16, 07:37:20](https://news.ycombinator.com/item?id=43377463) - [Compression of Spectral Images Using Spectral JPEG XL](https://jcgt.org/published/0014/01/04/)
 * [2025-03-16, 06:41:23](https://news.ycombinator.com/item?id=43377287) - [Sunsethue – Forecast Sunset Beauty](https://sunsethue.com/)
 * [2025-03-16, 05:59:08](https://news.ycombinator.com/item?id=43377169) - [Implementing \"Tennis for Two\" using op amps (2024)](https://blog.qiqitori.com/2024/08/implementing-tennis-for-two-using-op-amps/)
