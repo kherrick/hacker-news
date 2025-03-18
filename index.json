@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-18, 19:27:55",
+      "https://news.ycombinator.com/item?id=43403860"
+    ],
+    [
+      "Nvidia's RTX Pro 6000 has 96GB of VRAM and 600W of power",
+      "https://www.theverge.com/news/631868/nvidia-rtx-pro-6000-blackwell-gpu-professionals"
+    ]
+  ],
+  [
+    [
       "2025-03-18, 18:56:53",
       "https://news.ycombinator.com/item?id=43403377"
     ],
@@ -287,16 +297,6 @@
     [
       "Sesame CSM: A Conversational Speech Generation Model",
       "https://github.com/SesameAILabs/csm"
-    ]
-  ],
-  [
-    [
-      "2025-03-14, 10:51:01",
-      "https://news.ycombinator.com/item?id=43361333"
-    ],
-    [
-      "Building AI agents to query your databases",
-      "https://blog.dust.tt/spreadsheets-databases-and-beyond-creating-a-universal-ai-query-layer/"
     ]
   ]
 ]
