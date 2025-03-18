@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-18, 23:20:38](https://news.ycombinator.com/item?id=43406393) - [Asahi Lina Pausing Work on Apple GPU Linux Driver Development](https://www.phoronix.com/news/Asahi-Lina-Steps-Down-Linux-GPU)
+* [2025-03-18, 23:08:06](https://news.ycombinator.com/item?id=43406293) - [Are you VC-funded? No, we're profitable](https://twitter.com/jasonbosco/status/1901766688565043273)
 * [2025-03-18, 22:28:29](https://news.ycombinator.com/item?id=43405918) - [Microsoft quantum computing claim still lacks evidence](https://www.nature.com/articles/d41586-025-00829-2)
 * [2025-03-18, 20:44:14](https://news.ycombinator.com/item?id=43404858) - [Nvidia Dynamo: A Datacenter Scale Distributed Inference Serving Framework](https://github.com/ai-dynamo/dynamo)
 * [2025-03-18, 20:31:22](https://news.ycombinator.com/item?id=43404679) - [Turkish university annuls Erdogan rival's degree, preventing run for president](https://www.reuters.com/world/asia-pacific/istanbul-university-annuls-istanbul-mayor-imamoglus-diploma-over-irregularities-2025-03-18/)
@@ -25,7 +26,6 @@
 * [2025-03-18, 01:52:18](https://news.ycombinator.com/item?id=43394951) - [20 Years of YC / HN](https://vickiboykis.com/2025/03/17/20-years-of-yc/)
 * [2025-03-16, 12:42:02](https://news.ycombinator.com/item?id=43378571) - [Rust on the RP2350 (2024)](https://thejpster.org.uk/blog/blog-2024-08-08/)
 * [2025-03-16, 10:32:02](https://news.ycombinator.com/item?id=43377998) - [SheepShaver is an open source PowerPC Apple Macintosh emulator](https://www.emaculation.com/doku.php/sheepshaver)
-* [2025-03-16, 08:03:36](https://news.ycombinator.com/item?id=43377533) - [The race is on to build the most complex machine](https://www.economist.com/science-and-technology/2025/03/12/the-race-is-on-to-build-the-worlds-most-complex-machine)
 * [2025-03-15, 23:40:27](https://news.ycombinator.com/item?id=43375918) - [Shopkeeper](https://www.robinsloan.com/newsletters/shopkeeper/)
 * [2025-03-15, 16:26:51](https://news.ycombinator.com/item?id=43373504) - [This is no world for an axolotl](https://english.elpais.com/eps/2025-03-15/this-is-no-world-for-an-axolotl.html)
 * [2025-03-15, 12:55:10](https://news.ycombinator.com/item?id=43372227) - [Karatsuba Matrix Multiplication and Its Efficient Hardware Implementations](https://arxiv.org/abs/2501.08889)
