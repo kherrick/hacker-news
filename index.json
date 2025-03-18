@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-18, 20:44:14",
+      "https://news.ycombinator.com/item?id=43404858"
+    ],
+    [
+      "Nvidia Dynamo: A Datacenter Scale Distributed Inference Serving Framework",
+      "https://github.com/ai-dynamo/dynamo"
+    ]
+  ],
+  [
+    [
       "2025-03-18, 20:25:27",
       "https://news.ycombinator.com/item?id=43404617"
     ],
@@ -11,22 +21,12 @@
   ],
   [
     [
-      "2025-03-18, 20:23:09",
-      "https://news.ycombinator.com/item?id=43404586"
+      "2025-03-18, 20:20:09",
+      "https://news.ycombinator.com/item?id=43404548"
     ],
     [
-      "'It's a Heist': Real Federal Auditors Are Horrified by Doge",
-      "https://www.wired.com/story/federal-auditors-doge-elon-musk/"
-    ]
-  ],
-  [
-    [
-      "2025-03-18, 19:27:55",
-      "https://news.ycombinator.com/item?id=43403860"
-    ],
-    [
-      "Nvidia's RTX Pro 6000 has 96GB of VRAM and 600W of power",
-      "https://www.theverge.com/news/631868/nvidia-rtx-pro-6000-blackwell-gpu-professionals"
+      "Show HN: \"Git who\" – A new CLI tool for industrial-scale Git blaming",
+      "https://github.com/sinclairtarget/git-who"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "US appeals court rules AI generated art cannot be copyrighted",
       "https://www.reuters.com/world/us/us-appeals-court-rejects-copyrights-ai-generated-art-lacking-human-creator-2025-03-18/"
-    ]
-  ],
-  [
-    [
-      "2025-03-18, 17:49:56",
-      "https://news.ycombinator.com/item?id=43402416"
-    ],
-    [
-      "Building Agentic Flows with LangGraph and Model Context Protocol",
-      "https://www.qodo.ai/blog/building-agentic-flows-with-langgraph-model-context-protocol/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "SheepIt Render Farm server code goes open source",
       "https://gitlab.com/sheepitrenderfarm"
+    ]
+  ],
+  [
+    [
+      "2025-03-14, 21:18:55",
+      "https://news.ycombinator.com/item?id=43367401"
+    ],
+    [
+      "The Dark Crystal: Age of Resistance Is a Stone-Cold Masterpiece",
+      "https://gizmodo.com/reminder-the-dark-crystal-age-of-resistance-is-a-stone-cold-masterpiece-2000574613"
     ]
   ]
 ]
