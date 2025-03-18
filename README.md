@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-18, 19:27:55](https://news.ycombinator.com/item?id=43403860) - [Nvidia's RTX Pro 6000 has 96GB of VRAM and 600W of power](https://www.theverge.com/news/631868/nvidia-rtx-pro-6000-blackwell-gpu-professionals)
 * [2025-03-18, 18:56:53](https://news.ycombinator.com/item?id=43403377) - [PeerTube v7.1 Is Out](https://joinpeertube.org/news/release-7.1)
 * [2025-03-18, 18:27:42](https://news.ycombinator.com/item?id=43402957) - [FTC Removes Posts Critical of Amazon, Microsoft, and AI Companies](https://www.wired.com/story/federal-trade-commission-removed-blogs-critical-of-ai-amazon-microsoft/)
 * [2025-03-18, 18:17:33](https://news.ycombinator.com/item?id=43402790) - [US appeals court rules AI generated art cannot be copyrighted](https://www.reuters.com/world/us/us-appeals-court-rejects-copyrights-ai-generated-art-lacking-human-creator-2025-03-18/)
@@ -29,7 +30,6 @@
 * [2025-03-15, 00:42:22](https://news.ycombinator.com/item?id=43368863) - [SheepIt Render Farm server code goes open source](https://gitlab.com/sheepitrenderfarm)
 * [2025-03-14, 21:18:55](https://news.ycombinator.com/item?id=43367401) - [The Dark Crystal: Age of Resistance Is a Stone-Cold Masterpiece](https://gizmodo.com/reminder-the-dark-crystal-age-of-resistance-is-a-stone-cold-masterpiece-2000574613)
 * [2025-03-14, 13:48:16](https://news.ycombinator.com/item?id=43362616) - [Sesame CSM: A Conversational Speech Generation Model](https://github.com/SesameAILabs/csm)
-* [2025-03-14, 10:51:01](https://news.ycombinator.com/item?id=43361333) - [Building AI agents to query your databases](https://blog.dust.tt/spreadsheets-databases-and-beyond-creating-a-universal-ai-query-layer/)
 
 ## [Archives](archives/index.md)
 
