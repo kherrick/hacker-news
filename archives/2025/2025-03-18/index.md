@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-18](index.md)
 
 * [2025-03-18, 15:26:26](https://news.ycombinator.com/item?id=43400574) - [China's EV Boom Is Bad for U.S..Tech](https://crazystupidtech.com/archive/chinas-ev-boom-is-bad-for-ustech/)
+* [2025-03-18, 15:25:59](https://news.ycombinator.com/item?id=43400570) - [Microsoft isn't fixing 8-year-old shortcut exploit abused for spying](https://www.theregister.com/2025/03/18/microsoft_trend_flaw/)
 * [2025-03-18, 14:37:31](https://news.ycombinator.com/item?id=43399983) - [Hungary's use of facial recognition violates EU AI Act](https://www.euractiv.com/section/tech/news/hungarys-use-of-facial-recognition-violates-eu-ai-act/)
 * [2025-03-18, 14:24:04](https://news.ycombinator.com/item?id=43399811) - [The Failure Rate of EBS](https://planetscale.com/blog/the-real-fail-rate-of-ebs)
 * [2025-03-18, 13:29:53](https://news.ycombinator.com/item?id=43399227) - [UK wants dirt on data brokers before criminals get there first](https://www.theregister.com/2025/03/18/uk_data_broker_inquiry/)
