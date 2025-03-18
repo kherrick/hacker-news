@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-03-18](index.md)
 
+* [2025-03-18, 17:29:19](https://news.ycombinator.com/item?id=43402136) - [Why AI will never replace human code review](https://graphite.dev/blog/ai-wont-replace-human-code-review)
+* [2025-03-18, 17:27:46](https://news.ycombinator.com/item?id=43402115) - [Amazon to kill off local Alexa processing, all voice requests shipped to cloud](https://www.theregister.com/2025/03/17/amazon_kills_on_device_alexa/)
 * [2025-03-18, 17:07:39](https://news.ycombinator.com/item?id=43401855) - [Show HN: I made a tool to port tweets to Bluesky mantaining their original date](https://bluemigrate.com)
+* [2025-03-18, 17:05:26](https://news.ycombinator.com/item?id=43401831) - [Jensen Huang – Nvidia GTC 2025 Keynote](https://www.nvidia.com/gtc/keynote/)
 * [2025-03-18, 17:01:16](https://news.ycombinator.com/item?id=43401772) - [Spaceium Inc (YC S24) Is Hiring a Software Engineer](https://www.ycombinator.com/companies/spaceium-inc/jobs/XGMVnH3-software-engineer)
 * [2025-03-18, 16:48:17](https://news.ycombinator.com/item?id=43401595) - [Fedora 42 Beta now available](https://www.redhat.com/en/blog/fedora-42-beta-now-available)
 * [2025-03-18, 16:36:20](https://news.ycombinator.com/item?id=43401421) - [Preview: Amazon S3 Tables and Lakehouse in DuckDB](https://duckdb.org/2025/03/14/preview-amazon-s3-tables.html)
