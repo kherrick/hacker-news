@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-18](index.md)
 
+* [2025-03-18, 09:42:12](https://news.ycombinator.com/item?id=43397361) - [Please stop externalizing your costs directly into my face](https://drewdevault.com/2025/03/17/2025-03-17-Stop-externalizing-your-costs-on-me.html)
 * [2025-03-18, 08:21:02](https://news.ycombinator.com/item?id=43396853) - [BYD says new fast-charging system could be as quick as filling up a tank](https://www.theguardian.com/technology/2025/mar/18/byd-ev-fast-charging-system-petrol-fuel-speed)
 * [2025-03-18, 08:09:37](https://news.ycombinator.com/item?id=43396795) - [Moving away from US cloud services](https://martijnhols.nl/blog/moving-away-from-us-cloud-services)
 * [2025-03-18, 07:59:50](https://news.ycombinator.com/item?id=43396735) - [Block YouTube Ads on AppleTV by Decrypting and Stripping Ads from Profobuf](https://ericdraken.com/pfsense-decrypt-ad-traffic/)
