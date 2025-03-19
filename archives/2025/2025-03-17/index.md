@@ -57,6 +57,7 @@
 * [2025-03-17, 07:30:26](https://news.ycombinator.com/item?id=43386004) - [The exceptional Jordan algebra (2020)](https://cp4space.hatsya.com/2020/10/28/the-exceptional-jordan-algebra/)
 * [2025-03-17, 07:11:33](https://news.ycombinator.com/item?id=43385893) - [Spanish toxic oil syndrome cover-up (2001)](https://www.theguardian.com/education/2001/aug/25/research.highereducation)
 * [2025-03-17, 07:03:59](https://news.ycombinator.com/item?id=43385857) - [Technical Mathematics (1954) [pdf]](https://sliderulemuseum.com/Manuals/TechnicalMathematics_RiceAndKnight.pdf)
+* [2025-03-17, 06:01:55](https://news.ycombinator.com/item?id=43385571) - [Looking for beta testers for my GPS based game](https://cityquizler.com/)
 * [2025-03-17, 05:02:33](https://news.ycombinator.com/item?id=43385356) - [SpaceX asks US to address foreign trade barriers](https://www.reuters.com/technology/elon-musks-spacex-asks-us-address-foreign-trade-barriers-2025-03-14/)
 * [2025-03-17, 04:41:49](https://news.ycombinator.com/item?id=43385268) - [The Alexa feature \"Do Not Send Voice Recordings\" you enabled no longer available](https://discuss.systems/@dev/114161826926246661)
 * [2025-03-17, 03:25:26](https://news.ycombinator.com/item?id=43384894) - [Conducting forensics of mobile devices to find signs of a potential compromise](https://github.com/mvt-project/mvt)
