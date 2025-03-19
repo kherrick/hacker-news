@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-19, 06:55:20](https://news.ycombinator.com/item?id=43408938) - [CockroachDB has changed their license, again](https://github.com/cockroachdb/cockroach/commit/c0274df57a9f8d0086577bcf74c81110db2cea22)
 * [2025-03-19, 05:32:52](https://news.ycombinator.com/item?id=43408540) - [Crew-9 Returns to Earth](https://www.spacex.com/launches/mission/?missionId=crew-9-return)
 * [2025-03-19, 04:07:13](https://news.ycombinator.com/item?id=43408194) - [Ask HN: Where do you browse and chat outside of here?](https://news.ycombinator.com/item?id=43408194)
 * [2025-03-18, 23:55:17](https://news.ycombinator.com/item?id=43406710) - [Make Ubuntu packages 90% faster by rebuilding them](https://gist.github.com/jwbee/7e8b27e298de8bbbf8abfa4c232db097)
@@ -8,7 +9,6 @@
 * [2025-03-18, 20:25:27](https://news.ycombinator.com/item?id=43404617) - [A Tale of Four Kernels [pdf] (2008)](https://users.csc.calpoly.edu/~djanzen/courses/509S09/papers/FourKernels.pdf)
 * [2025-03-18, 20:20:09](https://news.ycombinator.com/item?id=43404548) - [Show HN: \"Git who\" – A new CLI tool for industrial-scale Git blaming](https://github.com/sinclairtarget/git-who)
 * [2025-03-18, 18:17:33](https://news.ycombinator.com/item?id=43402790) - [US appeals court rules AI generated art cannot be copyrighted](https://www.reuters.com/world/us/us-appeals-court-rejects-copyrights-ai-generated-art-lacking-human-creator-2025-03-18/)
-* [2025-03-18, 17:42:21](https://news.ycombinator.com/item?id=43402315) - [Ask HN: How Do I Escape Homelessness After Rebuilding My Mental Health?](https://news.ycombinator.com/item?id=43402315)
 * [2025-03-18, 17:30:13](https://news.ycombinator.com/item?id=43402149) - [HTTrack Website Copier](https://www.httrack.com/)
 * [2025-03-18, 17:07:39](https://news.ycombinator.com/item?id=43401855) - [Show HN: I made a tool to port tweets to Bluesky mantaining their original date](https://bluemigrate.com)
 * [2025-03-18, 17:01:16](https://news.ycombinator.com/item?id=43401772) - [Spaceium Inc (YC S24) Is Hiring a Software Engineer](https://www.ycombinator.com/companies/spaceium-inc/jobs/XGMVnH3-software-engineer)
