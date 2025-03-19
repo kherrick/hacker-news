@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-19](index.md)
 
+* [2025-03-19, 15:16:48](https://news.ycombinator.com/item?id=43413125) - [Memory Safety for Web Fonts](https://developer.chrome.com/blog/memory-safety-fonts)
 * [2025-03-19, 14:51:14](https://news.ycombinator.com/item?id=43412768) - [Show HN: AGX – Open-Source Data Exploration for ClickHouse (The New Standard?)](https://github.com/agnosticeng/agx)
 * [2025-03-19, 14:02:37](https://news.ycombinator.com/item?id=43412151) - [Pixel 9a: The latest A-series phone with Google AI smarts at an unbeatable value](https://blog.google/products/pixel/pixel-9a-the-latest-a-series-phone-with-google-ai-smarts-at-an-unbeatable-value/)
 * [2025-03-19, 13:44:25](https://news.ycombinator.com/item?id=43411898) - [The clustering behavior of sliding windows](https://arxiv.org/abs/2503.14393)

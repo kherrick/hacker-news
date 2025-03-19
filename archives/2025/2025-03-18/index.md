@@ -59,6 +59,7 @@
 * [2025-03-18, 12:25:52](https://news.ycombinator.com/item?id=43398589) - [Stamina Is a Quiet Advantage](https://kupajo.com/stamina-is-a-quiet-advantage/)
 * [2025-03-18, 12:25:16](https://news.ycombinator.com/item?id=43398579) - [Court filing: DOGE aide broke Treasury policy by emailing unencrypted database](https://www.theregister.com/2025/03/17/doge_treasury/)
 * [2025-03-18, 12:18:29](https://news.ycombinator.com/item?id=43398518) - [Google to buy Wiz for $32B](https://www.reuters.com/technology/cybersecurity/google-agrees-buy-cybersecurity-startup-wiz-32-bln-ft-reports-2025-03-18/)
+* [2025-03-18, 11:36:40](https://news.ycombinator.com/item?id=43398216) - [Data Becker](https://en.wikipedia.org/wiki/Data_Becker)
 * [2025-03-18, 11:24:33](https://news.ycombinator.com/item?id=43398137) - [Repealing the CHIPS Act risks US national security](https://www.ft.com/content/c6e7bc46-ab8f-49b6-8973-8c2906cc3604)
 * [2025-03-18, 11:17:44](https://news.ycombinator.com/item?id=43398081) - [Show HN: I made a live multiplayer Minesweeper game](https://www.minesweeperpro.com/)
 * [2025-03-18, 10:43:15](https://news.ycombinator.com/item?id=43397832) - [Ownership of High-Risk (\"Vicious\") Dogs as a Marker for Deviant Behaviors](https://www.researchgate.net/publication/6729905_Ownership_of_High-Risk_Vicious_Dogs_as_a_Marker_for_Deviant_Behaviors)
