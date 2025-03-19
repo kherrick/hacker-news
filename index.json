@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-03-19, 20:00:06",
-      "https://news.ycombinator.com/item?id=43416615"
+      "2025-03-19, 19:43:58",
+      "https://news.ycombinator.com/item?id=43416481"
     ],
     [
-      "When writing, don't mention people who've criticized you – PG",
-      "https://twitter.com/paulg/status/1902310081066147942"
+      "Scoping a Local-First Image Archive",
+      "https://www.scottishstoater.com/2025/03/scoping-a-local-first-image-archive/"
     ]
   ],
   [
@@ -37,16 +37,6 @@
     [
       "Pierogi in Space",
       "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Pierogi_in_space"
-    ]
-  ],
-  [
-    [
-      "2025-03-19, 18:39:36",
-      "https://news.ycombinator.com/item?id=43415756"
-    ],
-    [
-      "For Many of America's Aging Workers, 'Retirement Is a Distant Dream'",
-      "https://time.com/7260357/aging-workforce/"
     ]
   ],
   [
@@ -145,7 +135,7 @@
       "https://news.ycombinator.com/item?id=43413125"
     ],
     [
-      "Memory Safety for Web Fonts",
+      "Memory safety for web fonts",
       "https://developer.chrome.com/blog/memory-safety-fonts"
     ]
   ],
@@ -181,6 +171,16 @@
   ],
   [
     [
+      "2025-03-19, 12:56:03",
+      "https://news.ycombinator.com/item?id=43411258"
+    ],
+    [
+      "Supply constraints do not explain house price, quantity growth across US cities",
+      "https://www.nber.org/papers/w33576"
+    ]
+  ],
+  [
+    [
       "2025-03-19, 12:30:48",
       "https://news.ycombinator.com/item?id=43410988"
     ],
@@ -211,32 +211,22 @@
   ],
   [
     [
+      "2025-03-19, 10:52:23",
+      "https://news.ycombinator.com/item?id=43410349"
+    ],
+    [
+      "Learning about Innovation from Half a Century of Conway's Game of Life",
+      "https://writings.stephenwolfram.com/2025/03/what-can-we-learn-about-engineering-and-innovation-from-half-a-century-of-the-game-of-life-cellular-automaton/"
+    ]
+  ],
+  [
+    [
       "2025-03-19, 10:09:15",
       "https://news.ycombinator.com/item?id=43410061"
     ],
     [
       "The Lost Art of Research as Leisure",
       "https://kasurian.com/p/research-as-leisure"
-    ]
-  ],
-  [
-    [
-      "2025-03-19, 07:13:23",
-      "https://news.ycombinator.com/item?id=43409028"
-    ],
-    [
-      "The Intenet Slum: is abandoning the Internet the next big thing? (2004)",
-      "https://www.fourmilab.ch/documents/netslum/"
-    ]
-  ],
-  [
-    [
-      "2025-03-19, 06:07:01",
-      "https://news.ycombinator.com/item?id=43408674"
-    ],
-    [
-      "CVE-2024-9956 – PassKey Account Takeover in All Mobile Browsers",
-      "https://mastersplinter.work/research/passkey/"
     ]
   ],
   [
@@ -251,16 +241,6 @@
   ],
   [
     [
-      "2025-03-18, 23:55:17",
-      "https://news.ycombinator.com/item?id=43406710"
-    ],
-    [
-      "Make Ubuntu packages 90% faster by rebuilding them",
-      "https://gist.github.com/jwbee/7e8b27e298de8bbbf8abfa4c232db097"
-    ]
-  ],
-  [
-    [
       "2025-03-17, 21:35:37",
       "https://news.ycombinator.com/item?id=43392951"
     ],
@@ -271,12 +251,32 @@
   ],
   [
     [
+      "2025-03-16, 14:20:13",
+      "https://news.ycombinator.com/item?id=43379265"
+    ],
+    [
+      "The Defer Technical Specification: It Is Time",
+      "https://thephd.dev/c2y-the-defer-technical-specification-its-time-go-go-go"
+    ]
+  ],
+  [
+    [
       "2025-03-16, 13:19:39",
       "https://news.ycombinator.com/item?id=43378844"
     ],
     [
       "Imagining the Dinosaurs: How art, science combined to bring a lost world to life",
       "https://worldhistory.substack.com/p/imagining-the-dinosaurs"
+    ]
+  ],
+  [
+    [
+      "2025-03-16, 12:44:11",
+      "https://news.ycombinator.com/item?id=43378587"
+    ],
+    [
+      "How I got 100% off my train travel",
+      "https://readbunce.com/p/how-i-got-100-off-my-train-travel"
     ]
   ],
   [
