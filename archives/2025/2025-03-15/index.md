@@ -36,6 +36,7 @@
 * [2025-03-15, 13:03:40](https://news.ycombinator.com/item?id=43372271) - [Is our universe trapped inside a black hole? This JWS Telescope discovery](https://www.space.com/space-exploration/james-webb-space-telescope/is-our-universe-trapped-inside-a-black-hole-this-james-webb-space-telescope-discovery-might-blow-your-mind)
 * [2025-03-15, 12:55:10](https://news.ycombinator.com/item?id=43372227) - [Karatsuba Matrix Multiplication and Its Efficient Hardware Implementations](https://arxiv.org/abs/2501.08889)
 * [2025-03-15, 12:00:10](https://news.ycombinator.com/item?id=43371960) - [Deepnote (YC S19) is hiring to build a better data science notebook (Europe)](https://deepnote.com/join-us)
+* [2025-03-15, 11:20:48](https://news.ycombinator.com/item?id=43371781) - [Gnome / mutter triple buffering patch merged](https://gitlab.gnome.org/GNOME/mutter/-/merge_requests/1441)
 * [2025-03-15, 10:44:55](https://news.ycombinator.com/item?id=43371603) - [Cradle – Open-Source Collaborative Threat Intelligence Hub](https://cradle.sh/)
 * [2025-03-15, 10:39:31](https://news.ycombinator.com/item?id=43371583) - [Arbitrary-Scale Super-Resolution with Neural Heat Fields](https://therasr.github.io/)
 * [2025-03-15, 10:09:15](https://news.ycombinator.com/item?id=43371429) - ['Microlightning' in water droplets may have sparked life on Earth](https://phys.org/news/2025-03-microlightning-droplets-life-earth.html)
