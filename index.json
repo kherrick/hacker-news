@@ -1,32 +1,32 @@
 [
   [
     [
-      "2025-03-19, 12:53:24",
-      "https://news.ycombinator.com/item?id=43411218"
+      "2025-03-19, 12:30:48",
+      "https://news.ycombinator.com/item?id=43410988"
     ],
     [
-      "Ex-PO operator is first Horizon IT victim to launch legal action against",
-      "https://www.theguardian.com/uk-news/2025/mar/19/ex-subpostmaster-lee-castleton-horizon-it-victim-first-legal-action-post-office-fujitsu"
+      "Konva.js - Declarative 2D Canvas for React, Vue, and Svelte",
+      "https://konvajs.org/"
     ]
   ],
   [
     [
-      "2025-03-19, 11:32:30",
-      "https://news.ycombinator.com/item?id=43410623"
+      "2025-03-19, 12:16:06",
+      "https://news.ycombinator.com/item?id=43410885"
     ],
     [
-      "The Document Culture of Amazon (2021)",
-      "https://justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/"
+      "The Origin of the Pork Taboo",
+      "https://archaeology.org/issues/march-april-2025/letters-from/on-the-origin-of-the-pork-taboo/"
     ]
   ],
   [
     [
-      "2025-03-19, 11:25:58",
-      "https://news.ycombinator.com/item?id=43410579"
+      "2025-03-19, 11:44:17",
+      "https://news.ycombinator.com/item?id=43410692"
     ],
     [
-      "Tesla loses ground as Chinese EVs dominate global markets",
-      "https://restofworld.org/2025/tesla-loses-ground-chinese-ev-dominate-global-markets/"
+      "fd: A simple, fast and user-friendly alternative to 'find'",
+      "https://github.com/sharkdp/fd"
     ]
   ],
   [
@@ -35,8 +35,18 @@
       "https://news.ycombinator.com/item?id=43410283"
     ],
     [
-      "Everything Is Broken: Shipping Rust-Minidump at Mozilla",
+      "Everything Is Broken: Shipping Rust-Minidump at Mozilla (2022)",
       "https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at-mozilla/"
+    ]
+  ],
+  [
+    [
+      "2025-03-19, 10:36:52",
+      "https://news.ycombinator.com/item?id=43410247"
+    ],
+    [
+      "Apple Loses Top Court Fight Over German Antitrust Crackdown",
+      "https://www.bloomberg.com/news/articles/2025-03-18/apple-loses-top-court-fight-against-german-antitrust-crackdown"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "Make Ubuntu packages 90% faster by rebuilding them",
       "https://gist.github.com/jwbee/7e8b27e298de8bbbf8abfa4c232db097"
-    ]
-  ],
-  [
-    [
-      "2025-03-18, 20:44:14",
-      "https://news.ycombinator.com/item?id=43404858"
-    ],
-    [
-      "Nvidia Dynamo: A Datacenter Scale Distributed Inference Serving Framework",
-      "https://github.com/ai-dynamo/dynamo"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2025-03-16, 13:50:24",
+      "https://news.ycombinator.com/item?id=43379082"
+    ],
+    [
+      "Zest: a programming language for malleable and legible systems",
+      "https://github.com/jamii/zest"
+    ]
+  ],
+  [
+    [
       "2025-03-16, 12:19:29",
       "https://news.ycombinator.com/item?id=43378436"
     ],
@@ -287,16 +297,6 @@
     [
       "Karatsuba Matrix Multiplication and Its Efficient Hardware Implementations",
       "https://arxiv.org/abs/2501.08889"
-    ]
-  ],
-  [
-    [
-      "2025-03-15, 00:42:22",
-      "https://news.ycombinator.com/item?id=43368863"
-    ],
-    [
-      "SheepIt Render Farm server code goes open source",
-      "https://gitlab.com/sheepitrenderfarm"
     ]
   ]
 ]
