@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2025-03-15, 20:04:29",
-      "https://news.ycombinator.com/item?id=43374843"
-    ],
-    [
-      "Reviving the modprobe_path Technique: Overcoming search_binary_handler() Patch",
-      "https://blog.theori.io/reviving-the-modprobe-path-technique-overcoming-search-binary-handler-patch-2dcb8f0fae04"
-    ]
-  ],
-  [
-    [
       "2025-03-15, 16:26:51",
       "https://news.ycombinator.com/item?id=43373504"
     ],
@@ -297,6 +287,16 @@
     [
       "The Dark Crystal: Age of Resistance Is a Stone-Cold Masterpiece",
       "https://gizmodo.com/reminder-the-dark-crystal-age-of-resistance-is-a-stone-cold-masterpiece-2000574613"
+    ]
+  ],
+  [
+    [
+      "2025-03-14, 10:51:01",
+      "https://news.ycombinator.com/item?id=43361333"
+    ],
+    [
+      "Building AI agents to query your databases",
+      "https://blog.dust.tt/spreadsheets-databases-and-beyond-creating-a-universal-ai-query-layer/"
     ]
   ]
 ]
