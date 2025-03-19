@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-19, 05:32:52](https://news.ycombinator.com/item?id=43408540) - [Crew-9 Returns to Earth](https://www.spacex.com/launches/mission/?missionId=crew-9-return)
+* [2025-03-19, 04:07:13](https://news.ycombinator.com/item?id=43408194) - [Ask HN: Where do you browse and chat outside of here?](https://news.ycombinator.com/item?id=43408194)
 * [2025-03-18, 23:55:17](https://news.ycombinator.com/item?id=43406710) - [Make Ubuntu packages 90% faster by rebuilding them](https://gist.github.com/jwbee/7e8b27e298de8bbbf8abfa4c232db097)
 * [2025-03-18, 20:44:14](https://news.ycombinator.com/item?id=43404858) - [Nvidia Dynamo: A Datacenter Scale Distributed Inference Serving Framework](https://github.com/ai-dynamo/dynamo)
 * [2025-03-18, 20:31:22](https://news.ycombinator.com/item?id=43404679) - [Turkish university annuls Erdogan rival's degree, preventing run for president](https://www.reuters.com/world/asia-pacific/istanbul-university-annuls-istanbul-mayor-imamoglus-diploma-over-irregularities-2025-03-18/)
@@ -24,7 +25,6 @@
 * [2025-03-16, 11:36:23](https://news.ycombinator.com/item?id=43378226) - [Artificial Intelligence: Foundations of Computational Agents](https://artint.info/index.html)
 * [2025-03-16, 10:38:57](https://news.ycombinator.com/item?id=43378019) - [Some notes on Grafana Loki's new \"structured metadata\"](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaLokiStructuredMetadata)
 * [2025-03-16, 10:32:02](https://news.ycombinator.com/item?id=43377998) - [SheepShaver is an open source PowerPC Apple Macintosh emulator](https://www.emaculation.com/doku.php/sheepshaver)
-* [2025-03-15, 23:40:27](https://news.ycombinator.com/item?id=43375918) - [Shopkeeper](https://www.robinsloan.com/newsletters/shopkeeper/)
 * [2025-03-15, 20:04:29](https://news.ycombinator.com/item?id=43374843) - [Reviving the modprobe_path Technique: Overcoming search_binary_handler() Patch](https://blog.theori.io/reviving-the-modprobe-path-technique-overcoming-search-binary-handler-patch-2dcb8f0fae04)
 * [2025-03-15, 16:26:51](https://news.ycombinator.com/item?id=43373504) - [This is no world for an axolotl](https://english.elpais.com/eps/2025-03-15/this-is-no-world-for-an-axolotl.html)
 * [2025-03-15, 12:55:10](https://news.ycombinator.com/item?id=43372227) - [Karatsuba Matrix Multiplication and Its Efficient Hardware Implementations](https://arxiv.org/abs/2501.08889)
