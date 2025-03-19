@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-16](index.md)
 
+* [2025-03-16, 21:46:14](https://news.ycombinator.com/item?id=43382709) - [Small Archives](https://helloruby.substack.com/p/no-95-small-archives-without-blurs)
 * [2025-03-16, 21:17:03](https://news.ycombinator.com/item?id=43382392) - [Microsoft paywalling features in Notepad and Paint](https://www.pcworld.com/article/2614943/microsoft-is-paywalling-these-features-in-notepad-and-paint.html)
 * [2025-03-16, 21:09:46](https://news.ycombinator.com/item?id=43382344) - [Who Is Free Software For?](https://tante.cc/2025/03/03/who-is-free-software-for/)
 * [2025-03-16, 21:00:22](https://news.ycombinator.com/item?id=43382261) - [Kastle (YC S24) Is Hiring Engineer #3](https://www.ycombinator.com/companies/kastle/jobs/XSq5nJT-founding-applied-ai-engineer-at-kastle)
