@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-18](index.md)
 
+* [2025-03-18, 23:55:17](https://news.ycombinator.com/item?id=43406710) - [Make Ubuntu packages 90% faster by rebuilding them](https://gist.github.com/jwbee/7e8b27e298de8bbbf8abfa4c232db097)
 * [2025-03-18, 23:20:38](https://news.ycombinator.com/item?id=43406393) - [Asahi Lina Pausing Work on Apple GPU Linux Driver Development](https://www.phoronix.com/news/Asahi-Lina-Steps-Down-Linux-GPU)
 * [2025-03-18, 23:08:06](https://news.ycombinator.com/item?id=43406293) - [Are you VC-funded? No, we're profitable](https://twitter.com/jasonbosco/status/1901766688565043273)
 * [2025-03-18, 22:39:42](https://news.ycombinator.com/item?id=43406023) - [Man charged in US Capitol attack announces run for Senate in Florida](https://www.theguardian.com/us-news/2025/mar/18/senate-florida-january-6-rioter-jake-lang)

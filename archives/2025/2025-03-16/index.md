@@ -60,6 +60,7 @@
 * [2025-03-16, 11:45:13](https://news.ycombinator.com/item?id=43378266) - [zlib-ng: zlib replacement with optimizations for \"next generation\" systems](https://github.com/zlib-ng/zlib-ng)
 * [2025-03-16, 11:43:14](https://news.ycombinator.com/item?id=43378256) - [Undergraduate Upends a 40-Year-Old Data Science Conjecture](https://www.wired.com/story/undergraduate-upends-a-40-year-old-data-science-conjecture/)
 * [2025-03-16, 11:38:52](https://news.ycombinator.com/item?id=43378239) - [French gov's open source alternative to Notion or Outline](https://github.com/suitenumerique/docs)
+* [2025-03-16, 11:36:23](https://news.ycombinator.com/item?id=43378226) - [Artificial Intelligence: Foundations of Computational Agents](https://artint.info/index.html)
 * [2025-03-16, 11:35:22](https://news.ycombinator.com/item?id=43378225) - [Styling an HTML dialog modal to take the full height of the viewport](https://til.simonwillison.net/css/dialog-full-height)
 * [2025-03-16, 11:20:44](https://news.ycombinator.com/item?id=43378157) - [A powerful free and open source WAF – UUSEC WAF](https://github.com/Safe3/uuWAF)
 * [2025-03-16, 11:05:58](https://news.ycombinator.com/item?id=43378114) - [PrintedLabs – 3D printable optical experiment equipment](https://printedlabs.uni-bayreuth.de/en)
