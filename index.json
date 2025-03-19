@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-03-19, 10:52:23",
-      "https://news.ycombinator.com/item?id=43410349"
-    ],
-    [
-      "Learning about Innovation from Half a Century of Conway's Game of Life",
-      "https://writings.stephenwolfram.com/2025/03/what-can-we-learn-about-engineering-and-innovation-from-half-a-century-of-the-game-of-life-cellular-automaton/"
-    ]
-  ],
-  [
-    [
       "2025-03-19, 10:09:15",
       "https://news.ycombinator.com/item?id=43410061"
     ],
@@ -287,6 +277,16 @@
     [
       "Muons used to test the condition of a road bridge in Estonia",
       "https://news.err.ee/1609634600/muons-used-to-test-the-condition-of-a-road-bridge-in-estonia"
+    ]
+  ],
+  [
+    [
+      "2025-03-16, 03:32:04",
+      "https://news.ycombinator.com/item?id=43376769"
+    ],
+    [
+      "Decoding JSON sum types in Go without panicking",
+      "https://nicolashery.com/decoding-json-sum-types-in-go/"
     ]
   ],
   [
