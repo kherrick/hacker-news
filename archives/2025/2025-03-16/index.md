@@ -43,6 +43,7 @@
 * [2025-03-16, 13:58:15](https://news.ycombinator.com/item?id=43379129) - [Show HN: Quickly connect to WiFi by scanning text, no typing needed](https://github.com/yilinjuang/wify)
 * [2025-03-16, 13:56:26](https://news.ycombinator.com/item?id=43379119) - [Male octopus injects female with venom during sex to avoid being eaten](https://www.newscientist.com/article/2471120-male-octopus-injects-female-with-venom-during-sex-to-avoid-being-eaten/)
 * [2025-03-16, 13:54:01](https://news.ycombinator.com/item?id=43379099) - [Origami measuring spoon incites fury after 9 years of Kickstarter delay hell](https://arstechnica.com/tech-policy/2025/03/scoop-origami-measuring-spoon-incites-fury-after-9-years-of-kickstarter-delay-hell/)
+* [2025-03-16, 13:50:24](https://news.ycombinator.com/item?id=43379082) - [Zest: a programming language for malleable and legible systems](https://github.com/jamii/zest)
 * [2025-03-16, 13:32:01](https://news.ycombinator.com/item?id=43378934) - [Bio Cringe – The Obnoxious Social Media Bio Generator](https://biocringe.com/)
 * [2025-03-16, 13:30:36](https://news.ycombinator.com/item?id=43378925) - [Show HN: 10 teams are racing to build a pivotal tracker replacement](https://bye-tracker.net)
 * [2025-03-16, 13:27:05](https://news.ycombinator.com/item?id=43378900) - [Comet open source remote KVM from GL-iNet](https://www.gl-inet.com/products/gl-rm1/)
