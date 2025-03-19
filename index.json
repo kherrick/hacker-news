@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-19, 17:17:04",
+      "https://news.ycombinator.com/item?id=43414742"
+    ],
+    [
+      "Fauna Service Winding Down",
+      "https://fauna.com/blog/the-future-of-fauna"
+    ]
+  ],
+  [
+    [
+      "2025-03-19, 17:10:57",
+      "https://news.ycombinator.com/item?id=43414664"
+    ],
+    [
+      "Harvard study finds seed oils healthier than butter – The Western Producer",
+      "https://www.producer.com/news/harvard-study-finds-seed-oils-healthier-than-butter/"
+    ]
+  ],
+  [
+    [
       "2025-03-19, 17:00:13",
       "https://news.ycombinator.com/item?id=43414527"
     ],
@@ -27,16 +47,6 @@
     [
       "How Fast the Days Are Getting Longer",
       "https://joe-antognini.github.io/astronomy/daylight"
-    ]
-  ],
-  [
-    [
-      "2025-03-19, 15:54:14",
-      "https://news.ycombinator.com/item?id=43413650"
-    ],
-    [
-      "Solar Generation Surge Sends European Power Prices Below Zero",
-      "https://www.bloomberg.com/news/articles/2025-03-19/solar-generation-surge-sends-european-power-prices-below-zero"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2025-03-18, 17:30:13",
-      "https://news.ycombinator.com/item?id=43402149"
-    ],
-    [
-      "HTTrack Website Copier",
-      "https://www.httrack.com/"
-    ]
-  ],
-  [
-    [
       "2025-03-18, 17:07:39",
       "https://news.ycombinator.com/item?id=43401855"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-03-16, 10:38:57",
-      "https://news.ycombinator.com/item?id=43378019"
+      "2025-03-16, 10:25:28",
+      "https://news.ycombinator.com/item?id=43377966"
     ],
     [
-      "Some notes on Grafana Loki's new \"structured metadata\"",
-      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaLokiStructuredMetadata"
+      "Implementing Generic Types in C",
+      "https://btmc.substack.com/p/implementing-generic-types-in-c"
     ]
   ]
 ]
