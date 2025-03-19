@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-19, 16:13:20](https://news.ycombinator.com/item?id=43413935) - [How Fast the Days Are Getting Longer](https://joe-antognini.github.io/astronomy/daylight)
 * [2025-03-19, 15:40:35](https://news.ycombinator.com/item?id=43413478) - [The Business of Phish (2013)](https://priceonomics.com/business-of-phish/)
+* [2025-03-19, 15:30:01](https://news.ycombinator.com/item?id=43413333) - [Google to pay $28M to settle claims it favoured white and Asian employees](https://www.theguardian.com/technology/2025/mar/19/google-pay-settle-claims-favoured-white-asian-employees)
 * [2025-03-19, 15:16:48](https://news.ycombinator.com/item?id=43413125) - [Memory Safety for Web Fonts](https://developer.chrome.com/blog/memory-safety-fonts)
 * [2025-03-19, 14:51:14](https://news.ycombinator.com/item?id=43412768) - [Show HN: AGX – Open-Source Data Exploration for ClickHouse (The New Standard?)](https://github.com/agnosticeng/agx)
 * [2025-03-19, 14:05:45](https://news.ycombinator.com/item?id=43412179) - [An early look at cryptographic watermarks for AI-generated content](https://blog.cloudflare.com/an-early-look-at-cryptographic-watermarks-for-ai-generated-content/)
@@ -28,8 +30,6 @@
 * [2025-03-16, 13:50:24](https://news.ycombinator.com/item?id=43379082) - [Zest: a programming language for malleable and legible systems](https://github.com/jamii/zest)
 * [2025-03-16, 12:19:29](https://news.ycombinator.com/item?id=43378436) - [Visualising data structures and algorithms through animation](https://visualgo.net/en)
 * [2025-03-16, 10:38:57](https://news.ycombinator.com/item?id=43378019) - [Some notes on Grafana Loki's new \"structured metadata\"](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaLokiStructuredMetadata)
-* [2025-03-16, 10:32:02](https://news.ycombinator.com/item?id=43377998) - [SheepShaver is an open source PowerPC Apple Macintosh emulator](https://www.emaculation.com/doku.php/sheepshaver)
-* [2025-03-15, 12:55:10](https://news.ycombinator.com/item?id=43372227) - [Karatsuba Matrix Multiplication and Its Efficient Hardware Implementations](https://arxiv.org/abs/2501.08889)
 
 ## [Archives](archives/index.md)
 
