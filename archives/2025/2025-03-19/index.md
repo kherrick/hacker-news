@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-19](index.md)
 
+* [2025-03-19, 20:00:06](https://news.ycombinator.com/item?id=43416615) - [When writing, don't mention people who've criticized you – PG](https://twitter.com/paulg/status/1902310081066147942)
 * [2025-03-19, 19:40:57](https://news.ycombinator.com/item?id=43416451) - [Apple ordered by EU antitrust regulators to open up to rivals](https://www.reuters.com/technology/apple-ordered-by-eu-antitrust-regulators-open-up-rivals-2025-03-19/)
+* [2025-03-19, 19:36:11](https://news.ycombinator.com/item?id=43416400) - [ByteCraft: Generating video games and animations through bytes](https://emygervais.github.io/2025/03/15/bytecraft.html)
 * [2025-03-19, 19:26:03](https://news.ycombinator.com/item?id=43416302) - [Pierogi in Space](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Pierogi_in_space)
 * [2025-03-19, 18:39:36](https://news.ycombinator.com/item?id=43415756) - [For Many of America's Aging Workers, 'Retirement Is a Distant Dream'](https://time.com/7260357/aging-workforce/)
 * [2025-03-19, 18:14:14](https://news.ycombinator.com/item?id=43415477) - [Notebooks as reusable Python programs](https://marimo.io/blog/python-not-json)
