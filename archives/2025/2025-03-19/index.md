@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-19](index.md)
 
+* [2025-03-19, 07:25:52](https://news.ycombinator.com/item?id=43409092) - [Co-Doodle with Gemini](https://huggingface.co/spaces/Trudy/gemini-codrawing)
 * [2025-03-19, 06:55:20](https://news.ycombinator.com/item?id=43408938) - [CockroachDB has changed their license, again](https://github.com/cockroachdb/cockroach/commit/c0274df57a9f8d0086577bcf74c81110db2cea22)
 * [2025-03-19, 05:32:52](https://news.ycombinator.com/item?id=43408540) - [Crew-9 Returns to Earth](https://www.spacex.com/launches/mission/?missionId=crew-9-return)
 * [2025-03-19, 04:07:13](https://news.ycombinator.com/item?id=43408194) - [Ask HN: Where do you browse and chat outside of here?](https://news.ycombinator.com/item?id=43408194)
