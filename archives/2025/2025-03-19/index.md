@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-19](index.md)
 
+* [2025-03-19, 10:42:00](https://news.ycombinator.com/item?id=43410283) - [Everything Is Broken: Shipping Rust-Minidump at Mozilla](https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at-mozilla/)
 * [2025-03-19, 10:09:15](https://news.ycombinator.com/item?id=43410061) - [The Lost Art of Research as Leisure](https://kasurian.com/p/research-as-leisure)
 * [2025-03-19, 09:32:38](https://news.ycombinator.com/item?id=43409838) - [Chrome disabling uBlock Origin is a serious security threat](https://nuage.quimerch.com/-/ewen/articles/chrome-disabling-ublock-origin-is-a-serious-security-threat)
 * [2025-03-19, 09:07:51](https://news.ycombinator.com/item?id=43409683) - [The Molecule of the Month](https://www.chm.bris.ac.uk/motm/motm.htm)
