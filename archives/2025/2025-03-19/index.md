@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-19](index.md)
 
+* [2025-03-19, 12:53:24](https://news.ycombinator.com/item?id=43411218) - [Ex-PO operator is first Horizon IT victim to launch legal action against](https://www.theguardian.com/uk-news/2025/mar/19/ex-subpostmaster-lee-castleton-horizon-it-victim-first-legal-action-post-office-fujitsu)
 * [2025-03-19, 12:05:59](https://news.ycombinator.com/item?id=43410825) - [Apple M4 MacBook Air review: I have no notes](https://arstechnica.com/apple/2025/03/apple-m4-macbook-air-review-i-have-no-notes/)
 * [2025-03-19, 11:48:49](https://news.ycombinator.com/item?id=43410720) - [Indiana Pi Bill](https://en.wikipedia.org/wiki/Indiana_pi_bill)
 * [2025-03-19, 11:32:30](https://news.ycombinator.com/item?id=43410623) - [The Document Culture of Amazon (2021)](https://justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/)
