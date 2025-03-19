@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-03-19, 05:38:52",
-      "https://news.ycombinator.com/item?id=43408564"
-    ],
-    [
-      "Digital Hygiene",
-      "https://karpathy.bearblog.dev/digital-hygiene/"
-    ]
-  ],
-  [
-    [
       "2025-03-19, 05:32:52",
       "https://news.ycombinator.com/item?id=43408540"
     ],
@@ -191,6 +181,16 @@
   ],
   [
     [
+      "2025-03-17, 13:03:52",
+      "https://news.ycombinator.com/item?id=43388133"
+    ],
+    [
+      "Rippling sues Deel over spying",
+      "https://twitter.com/parkerconrad/status/1901615179718406276"
+    ]
+  ],
+  [
+    [
       "2025-03-16, 21:46:14",
       "https://news.ycombinator.com/item?id=43382709"
     ],
@@ -207,16 +207,6 @@
     [
       "Selective async commits in PostgreSQL – balancing durability and performance",
       "https://www.shayon.dev/post/2025/75/selective-asynchronous-commits-in-postgresql-balancing-durability-and-performance/"
-    ]
-  ],
-  [
-    [
-      "2025-03-16, 12:42:02",
-      "https://news.ycombinator.com/item?id=43378571"
-    ],
-    [
-      "Rust on the RP2350 (2024)",
-      "https://thejpster.org.uk/blog/blog-2024-08-08/"
     ]
   ],
   [
@@ -261,6 +251,16 @@
   ],
   [
     [
+      "2025-03-15, 20:04:29",
+      "https://news.ycombinator.com/item?id=43374843"
+    ],
+    [
+      "Reviving the modprobe_path Technique: Overcoming search_binary_handler() Patch",
+      "https://blog.theori.io/reviving-the-modprobe-path-technique-overcoming-search-binary-handler-patch-2dcb8f0fae04"
+    ]
+  ],
+  [
+    [
       "2025-03-15, 16:26:51",
       "https://news.ycombinator.com/item?id=43373504"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2025-03-15, 11:20:48",
-      "https://news.ycombinator.com/item?id=43371781"
-    ],
-    [
-      "Gnome / mutter triple buffering patch merged",
-      "https://gitlab.gnome.org/GNOME/mutter/-/merge_requests/1441"
-    ]
-  ],
-  [
-    [
       "2025-03-15, 00:42:22",
       "https://news.ycombinator.com/item?id=43368863"
     ],
     [
       "SheepIt Render Farm server code goes open source",
       "https://gitlab.com/sheepitrenderfarm"
+    ]
+  ],
+  [
+    [
+      "2025-03-14, 21:18:55",
+      "https://news.ycombinator.com/item?id=43367401"
+    ],
+    [
+      "The Dark Crystal: Age of Resistance Is a Stone-Cold Masterpiece",
+      "https://gizmodo.com/reminder-the-dark-crystal-age-of-resistance-is-a-stone-cold-masterpiece-2000574613"
     ]
   ]
 ]
