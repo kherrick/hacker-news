@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-19](index.md)
 
+* [2025-03-19, 15:40:35](https://news.ycombinator.com/item?id=43413478) - [The Business of Phish (2013)](https://priceonomics.com/business-of-phish/)
 * [2025-03-19, 15:16:48](https://news.ycombinator.com/item?id=43413125) - [Memory Safety for Web Fonts](https://developer.chrome.com/blog/memory-safety-fonts)
 * [2025-03-19, 14:51:14](https://news.ycombinator.com/item?id=43412768) - [Show HN: AGX – Open-Source Data Exploration for ClickHouse (The New Standard?)](https://github.com/agnosticeng/agx)
 * [2025-03-19, 14:05:45](https://news.ycombinator.com/item?id=43412179) - [An early look at cryptographic watermarks for AI-generated content](https://blog.cloudflare.com/an-early-look-at-cryptographic-watermarks-for-ai-generated-content/)
