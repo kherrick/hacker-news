@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-19](index.md)
 
 * [2025-03-19, 16:13:20](https://news.ycombinator.com/item?id=43413935) - [How Fast the Days Are Getting Longer](https://joe-antognini.github.io/astronomy/daylight)
+* [2025-03-19, 15:54:14](https://news.ycombinator.com/item?id=43413650) - [Solar Generation Surge Sends European Power Prices Below Zero](https://www.bloomberg.com/news/articles/2025-03-19/solar-generation-surge-sends-european-power-prices-below-zero)
 * [2025-03-19, 15:40:35](https://news.ycombinator.com/item?id=43413478) - [The Business of Phish (2013)](https://priceonomics.com/business-of-phish/)
 * [2025-03-19, 15:30:01](https://news.ycombinator.com/item?id=43413333) - [Google to pay $28M to settle claims it favoured white and Asian employees](https://www.theguardian.com/technology/2025/mar/19/google-pay-settle-claims-favoured-white-asian-employees)
 * [2025-03-19, 15:16:48](https://news.ycombinator.com/item?id=43413125) - [Memory Safety for Web Fonts](https://developer.chrome.com/blog/memory-safety-fonts)
