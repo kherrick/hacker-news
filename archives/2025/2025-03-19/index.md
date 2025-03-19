@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-03-19](index.md)
 
+* [2025-03-19, 12:56:03](https://news.ycombinator.com/item?id=43411258) - [Supply Constraints Do Not Explain House Price, Quantity Growth Across US Cities](https://www.nber.org/papers/w33576)
 * [2025-03-19, 12:53:24](https://news.ycombinator.com/item?id=43411218) - [Ex-PO operator is first Horizon IT victim to launch legal action against](https://www.theguardian.com/uk-news/2025/mar/19/ex-subpostmaster-lee-castleton-horizon-it-victim-first-legal-action-post-office-fujitsu)
 * [2025-03-19, 12:30:48](https://news.ycombinator.com/item?id=43410988) - [Konva.js - Declarative 2D Canvas for React, Vue, and Svelte](https://konvajs.org/)
 * [2025-03-19, 12:16:06](https://news.ycombinator.com/item?id=43410885) - [The Origin of the Pork Taboo](https://archaeology.org/issues/march-april-2025/letters-from/on-the-origin-of-the-pork-taboo/)
+* [2025-03-19, 12:13:09](https://news.ycombinator.com/item?id=43410866) - [Hacking Your Own AI Coding Assistant with Claude Pro and MCP](https://www.zbeegnew.dev/tech/build_your_own_ai_coding_assistant_a_cost-effective_alternative_to_cursor/)
 * [2025-03-19, 12:05:59](https://news.ycombinator.com/item?id=43410825) - [Apple M4 MacBook Air review: I have no notes](https://arstechnica.com/apple/2025/03/apple-m4-macbook-air-review-i-have-no-notes/)
 * [2025-03-19, 11:48:49](https://news.ycombinator.com/item?id=43410720) - [Indiana Pi Bill](https://en.wikipedia.org/wiki/Indiana_pi_bill)
 * [2025-03-19, 11:44:17](https://news.ycombinator.com/item?id=43410692) - [fd: A simple, fast and user-friendly alternative to 'find'](https://github.com/sharkdp/fd)
@@ -14,6 +16,7 @@
 * [2025-03-19, 11:25:58](https://news.ycombinator.com/item?id=43410579) - [Tesla loses ground as Chinese EVs dominate global markets](https://restofworld.org/2025/tesla-loses-ground-chinese-ev-dominate-global-markets/)
 * [2025-03-19, 11:24:11](https://news.ycombinator.com/item?id=43410562) - [Intel AVX10 Drops Optional 512-Bit: No AVX10 256-Bit Only E-Cores in the Future](https://www.phoronix.com/news/Intel-AVX10-Drops-256-Bit)
 * [2025-03-19, 11:21:12](https://news.ycombinator.com/item?id=43410548) - [I'm the Canadian who was detained by ICE for two weeks](https://www.theguardian.com/us-news/2025/mar/19/canadian-detained-us-immigration-jasmine-mooney)
+* [2025-03-19, 10:52:23](https://news.ycombinator.com/item?id=43410349) - [Wolfram: Learning about Innovation from Half a Century of Conway's Game of Life](https://writings.stephenwolfram.com/2025/03/what-can-we-learn-about-engineering-and-innovation-from-half-a-century-of-the-game-of-life-cellular-automaton/)
 * [2025-03-19, 10:42:00](https://news.ycombinator.com/item?id=43410283) - [Everything Is Broken: Shipping Rust-Minidump at Mozilla](https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at-mozilla/)
 * [2025-03-19, 10:36:52](https://news.ycombinator.com/item?id=43410247) - [Apple Loses Top Court Fight Over German Antitrust Crackdown](https://www.bloomberg.com/news/articles/2025-03-18/apple-loses-top-court-fight-against-german-antitrust-crackdown)
 * [2025-03-19, 10:09:15](https://news.ycombinator.com/item?id=43410061) - [The Lost Art of Research as Leisure](https://kasurian.com/p/research-as-leisure)
