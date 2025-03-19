@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-19, 19:54:08",
+      "https://news.ycombinator.com/item?id=43416558"
+    ],
+    [
+      "Control your attention on the web – Block sites on certain days and times",
+      "https://github.com/Bsodoge/Focus-Mode"
+    ]
+  ],
+  [
+    [
       "2025-03-19, 19:43:58",
       "https://news.ycombinator.com/item?id=43416481"
     ],
@@ -221,26 +231,6 @@
   ],
   [
     [
-      "2025-03-19, 06:07:01",
-      "https://news.ycombinator.com/item?id=43408674"
-    ],
-    [
-      "CVE-2024-9956 – PassKey Account Takeover in All Mobile Browsers",
-      "https://mastersplinter.work/research/passkey/"
-    ]
-  ],
-  [
-    [
-      "2025-03-19, 05:32:52",
-      "https://news.ycombinator.com/item?id=43408540"
-    ],
-    [
-      "Crew-9 Returns to Earth",
-      "https://www.spacex.com/launches/mission/?missionId=crew-9-return"
-    ]
-  ],
-  [
-    [
       "2025-03-17, 21:35:37",
       "https://news.ycombinator.com/item?id=43392951"
     ],
@@ -297,6 +287,16 @@
     [
       "Implementing Generic Types in C",
       "https://btmc.substack.com/p/implementing-generic-types-in-c"
+    ]
+  ],
+  [
+    [
+      "2025-03-13, 18:29:19",
+      "https://news.ycombinator.com/item?id=43356016"
+    ],
+    [
+      "Show HN: Codemcp – Claude Code for Claude Pro subscribers – ditch API bills",
+      "https://github.com/ezyang/codemcp"
     ]
   ]
 ]
