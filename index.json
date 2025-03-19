@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-03-19, 10:09:15",
+      "https://news.ycombinator.com/item?id=43410061"
+    ],
+    [
+      "The Lost Art of Research as Leisure",
+      "https://kasurian.com/p/research-as-leisure"
+    ]
+  ],
+  [
+    [
+      "2025-03-19, 09:32:38",
+      "https://news.ycombinator.com/item?id=43409838"
+    ],
+    [
+      "Chrome disabling uBlock Origin is a serious security threat",
+      "https://nuage.quimerch.com/-/ewen/articles/chrome-disabling-ublock-origin-is-a-serious-security-threat"
+    ]
+  ],
+  [
+    [
+      "2025-03-19, 09:07:51",
+      "https://news.ycombinator.com/item?id=43409683"
+    ],
+    [
+      "The Molecule of the Month",
+      "https://www.chm.bris.ac.uk/motm/motm.htm"
+    ]
+  ],
+  [
+    [
       "2025-03-19, 07:13:23",
       "https://news.ycombinator.com/item?id=43409028"
     ],
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2025-03-17, 13:03:52",
-      "https://news.ycombinator.com/item?id=43388133"
-    ],
-    [
-      "Rippling sues Deel over spying",
-      "https://twitter.com/parkerconrad/status/1901615179718406276"
-    ]
-  ],
-  [
-    [
       "2025-03-16, 21:46:14",
       "https://news.ycombinator.com/item?id=43382709"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2025-03-16, 11:36:23",
-      "https://news.ycombinator.com/item?id=43378226"
-    ],
-    [
-      "Artificial Intelligence: Foundations of Computational Agents",
-      "https://artint.info/index.html"
-    ]
-  ],
-  [
-    [
       "2025-03-16, 10:38:57",
       "https://news.ycombinator.com/item?id=43378019"
     ],
@@ -247,6 +257,16 @@
     [
       "SheepShaver is an open source PowerPC Apple Macintosh emulator",
       "https://www.emaculation.com/doku.php/sheepshaver"
+    ]
+  ],
+  [
+    [
+      "2025-03-16, 10:07:30",
+      "https://news.ycombinator.com/item?id=43377910"
+    ],
+    [
+      "The Wasp That Lays Eggs Inside Caterpillars and Turns Them into Slaves (2014)",
+      "https://www.wired.com/2014/10/absurd-creature-week-glyptapanteles-wasp-caterpillar-bodyguard/"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "SheepIt Render Farm server code goes open source",
       "https://gitlab.com/sheepitrenderfarm"
-    ]
-  ],
-  [
-    [
-      "2025-03-14, 21:18:55",
-      "https://news.ycombinator.com/item?id=43367401"
-    ],
-    [
-      "The Dark Crystal: Age of Resistance Is a Stone-Cold Masterpiece",
-      "https://gizmodo.com/reminder-the-dark-crystal-age-of-resistance-is-a-stone-cold-masterpiece-2000574613"
-    ]
-  ],
-  [
-    [
-      "2025-03-14, 10:51:01",
-      "https://news.ycombinator.com/item?id=43361333"
-    ],
-    [
-      "Building AI agents to query your databases",
-      "https://blog.dust.tt/spreadsheets-databases-and-beyond-creating-a-universal-ai-query-layer/"
     ]
   ]
 ]
