@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-19, 19:40:57](https://news.ycombinator.com/item?id=43416451) - [Apple ordered by EU antitrust regulators to open up to rivals](https://www.reuters.com/technology/apple-ordered-by-eu-antitrust-regulators-open-up-rivals-2025-03-19/)
 * [2025-03-19, 19:26:03](https://news.ycombinator.com/item?id=43416302) - [Pierogi in Space](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Pierogi_in_space)
 * [2025-03-19, 18:39:36](https://news.ycombinator.com/item?id=43415756) - [For Many of America's Aging Workers, 'Retirement Is a Distant Dream'](https://time.com/7260357/aging-workforce/)
 * [2025-03-19, 18:14:14](https://news.ycombinator.com/item?id=43415477) - [Notebooks as reusable Python programs](https://marimo.io/blog/python-not-json)
@@ -25,7 +26,6 @@
 * [2025-03-19, 06:07:01](https://news.ycombinator.com/item?id=43408674) - [CVE-2024-9956 – PassKey Account Takeover in All Mobile Browsers](https://mastersplinter.work/research/passkey/)
 * [2025-03-19, 05:32:52](https://news.ycombinator.com/item?id=43408540) - [Crew-9 Returns to Earth](https://www.spacex.com/launches/mission/?missionId=crew-9-return)
 * [2025-03-18, 23:55:17](https://news.ycombinator.com/item?id=43406710) - [Make Ubuntu packages 90% faster by rebuilding them](https://gist.github.com/jwbee/7e8b27e298de8bbbf8abfa4c232db097)
-* [2025-03-18, 15:59:27](https://news.ycombinator.com/item?id=43400989) - [Two new PebbleOS watches](https://ericmigi.com/blog/introducing-two-new-pebbleos-watches/)
 * [2025-03-17, 21:35:37](https://news.ycombinator.com/item?id=43392951) - [Show HN: Learn where countries are on the world map with Spaced Repetition](https://map.koljapluemer.com)
 * [2025-03-16, 13:19:39](https://news.ycombinator.com/item?id=43378844) - [Imagining the Dinosaurs: How art, science combined to bring a lost world to life](https://worldhistory.substack.com/p/imagining-the-dinosaurs)
 * [2025-03-16, 12:05:53](https://news.ycombinator.com/item?id=43378358) - [Muons used to test the condition of a road bridge in Estonia](https://news.err.ee/1609634600/muons-used-to-test-the-condition-of-a-road-bridge-in-estonia)
