@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-19, 07:13:23](https://news.ycombinator.com/item?id=43409028) - [The Intenet Slum: is abandoning the Internet the next big thing? (2004)](https://www.fourmilab.ch/documents/netslum/)
-* [2025-03-19, 05:38:52](https://news.ycombinator.com/item?id=43408564) - [Digital Hygiene](https://karpathy.bearblog.dev/digital-hygiene/)
 * [2025-03-19, 05:32:52](https://news.ycombinator.com/item?id=43408540) - [Crew-9 Returns to Earth](https://www.spacex.com/launches/mission/?missionId=crew-9-return)
 * [2025-03-18, 23:55:17](https://news.ycombinator.com/item?id=43406710) - [Make Ubuntu packages 90% faster by rebuilding them](https://gist.github.com/jwbee/7e8b27e298de8bbbf8abfa4c232db097)
 * [2025-03-18, 20:44:14](https://news.ycombinator.com/item?id=43404858) - [Nvidia Dynamo: A Datacenter Scale Distributed Inference Serving Framework](https://github.com/ai-dynamo/dynamo)
@@ -19,17 +18,18 @@
 * [2025-03-18, 07:59:50](https://news.ycombinator.com/item?id=43396735) - [Block YouTube ads on AppleTV by decrypting and stripping ads from Profobuf (2022)](https://ericdraken.com/pfsense-decrypt-ad-traffic/)
 * [2025-03-18, 05:32:11](https://news.ycombinator.com/item?id=43396076) - [The \"Memory Cartography\" of Azerbaijani Emigrants](https://jam-news.net/memory-cartography-of-azerbaijani-emigrants/)
 * [2025-03-18, 01:52:18](https://news.ycombinator.com/item?id=43394951) - [20 Years of YC / HN](https://vickiboykis.com/2025/03/17/20-years-of-yc/)
+* [2025-03-17, 13:03:52](https://news.ycombinator.com/item?id=43388133) - [Rippling sues Deel over spying](https://twitter.com/parkerconrad/status/1901615179718406276)
 * [2025-03-16, 21:46:14](https://news.ycombinator.com/item?id=43382709) - [Small Archives](https://helloruby.substack.com/p/no-95-small-archives-without-blurs)
 * [2025-03-16, 17:24:02](https://news.ycombinator.com/item?id=43380622) - [Selective async commits in PostgreSQL – balancing durability and performance](https://www.shayon.dev/post/2025/75/selective-asynchronous-commits-in-postgresql-balancing-durability-and-performance/)
-* [2025-03-16, 12:42:02](https://news.ycombinator.com/item?id=43378571) - [Rust on the RP2350 (2024)](https://thejpster.org.uk/blog/blog-2024-08-08/)
 * [2025-03-16, 12:19:29](https://news.ycombinator.com/item?id=43378436) - [Visualising data structures and algorithms through animation](https://visualgo.net/en)
 * [2025-03-16, 11:36:23](https://news.ycombinator.com/item?id=43378226) - [Artificial Intelligence: Foundations of Computational Agents](https://artint.info/index.html)
 * [2025-03-16, 10:38:57](https://news.ycombinator.com/item?id=43378019) - [Some notes on Grafana Loki's new \"structured metadata\"](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaLokiStructuredMetadata)
 * [2025-03-16, 10:32:02](https://news.ycombinator.com/item?id=43377998) - [SheepShaver is an open source PowerPC Apple Macintosh emulator](https://www.emaculation.com/doku.php/sheepshaver)
+* [2025-03-15, 20:04:29](https://news.ycombinator.com/item?id=43374843) - [Reviving the modprobe_path Technique: Overcoming search_binary_handler() Patch](https://blog.theori.io/reviving-the-modprobe-path-technique-overcoming-search-binary-handler-patch-2dcb8f0fae04)
 * [2025-03-15, 16:26:51](https://news.ycombinator.com/item?id=43373504) - [This is no world for an axolotl](https://english.elpais.com/eps/2025-03-15/this-is-no-world-for-an-axolotl.html)
 * [2025-03-15, 12:55:10](https://news.ycombinator.com/item?id=43372227) - [Karatsuba Matrix Multiplication and Its Efficient Hardware Implementations](https://arxiv.org/abs/2501.08889)
-* [2025-03-15, 11:20:48](https://news.ycombinator.com/item?id=43371781) - [Gnome / mutter triple buffering patch merged](https://gitlab.gnome.org/GNOME/mutter/-/merge_requests/1441)
 * [2025-03-15, 00:42:22](https://news.ycombinator.com/item?id=43368863) - [SheepIt Render Farm server code goes open source](https://gitlab.com/sheepitrenderfarm)
+* [2025-03-14, 21:18:55](https://news.ycombinator.com/item?id=43367401) - [The Dark Crystal: Age of Resistance Is a Stone-Cold Masterpiece](https://gizmodo.com/reminder-the-dark-crystal-age-of-resistance-is-a-stone-cold-masterpiece-2000574613)
 
 ## [Archives](archives/index.md)
 
