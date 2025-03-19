@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-19, 17:34:43",
+      "https://news.ycombinator.com/item?id=43414992"
+    ],
+    [
+      "The Collective Ambition Behind Odysseus, a Game-Changing Sci-Fi Larp",
+      "https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus-a-game-changing-sci-fi-larp/"
+    ]
+  ],
+  [
+    [
       "2025-03-19, 17:17:04",
       "https://news.ycombinator.com/item?id=43414742"
     ],
@@ -27,6 +37,26 @@
     [
       "Launch HN: Modernbanc (YC W20) – Modern and fast accounting software",
       "https://news.ycombinator.com/item?id=43414405"
+    ]
+  ],
+  [
+    [
+      "2025-03-19, 16:48:32",
+      "https://news.ycombinator.com/item?id=43414393"
+    ],
+    [
+      "AI Blindspots – Blindspots in LLMs I've noticed while AI coding",
+      "https://ezyang.github.io/ai-blindspots/"
+    ]
+  ],
+  [
+    [
+      "2025-03-19, 16:34:45",
+      "https://news.ycombinator.com/item?id=43414235"
+    ],
+    [
+      "Fine-tune Google's Gemma 3",
+      "https://unsloth.ai/blog/gemma3"
     ]
   ],
   [
@@ -67,16 +97,6 @@
     [
       "Memory Safety for Web Fonts",
       "https://developer.chrome.com/blog/memory-safety-fonts"
-    ]
-  ],
-  [
-    [
-      "2025-03-19, 14:05:45",
-      "https://news.ycombinator.com/item?id=43412179"
-    ],
-    [
-      "An early look at cryptographic watermarks for AI-generated content",
-      "https://blog.cloudflare.com/an-early-look-at-cryptographic-watermarks-for-ai-generated-content/"
     ]
   ],
   [
@@ -147,16 +167,6 @@
     [
       "Wolfram: Learning about Innovation from Half a Century of Conway's Game of Life",
       "https://writings.stephenwolfram.com/2025/03/what-can-we-learn-about-engineering-and-innovation-from-half-a-century-of-the-game-of-life-cellular-automaton/"
-    ]
-  ],
-  [
-    [
-      "2025-03-19, 10:36:52",
-      "https://news.ycombinator.com/item?id=43410247"
-    ],
-    [
-      "Apple Loses Top Court Fight Over German Antitrust Crackdown",
-      "https://www.bloomberg.com/news/articles/2025-03-18/apple-loses-top-court-fight-against-german-antitrust-crackdown"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Visualising data structures and algorithms through animation",
       "https://visualgo.net/en"
-    ]
-  ],
-  [
-    [
-      "2025-03-16, 10:38:57",
-      "https://news.ycombinator.com/item?id=43378019"
-    ],
-    [
-      "Some notes on Grafana Loki's new \"structured metadata\"",
-      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaLokiStructuredMetadata"
     ]
   ],
   [
