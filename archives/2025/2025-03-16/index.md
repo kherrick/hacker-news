@@ -38,6 +38,7 @@
 * [2025-03-16, 15:24:54](https://news.ycombinator.com/item?id=43379764) - [Life Altering PostgreSQL Patterns](https://mccue.dev/pages/3-11-25-life-altering-postgresql-patterns)
 * [2025-03-16, 15:14:21](https://news.ycombinator.com/item?id=43379688) - [Tonari Portals: be together in-person, anywhere](https://tonari.no/)
 * [2025-03-16, 14:36:29](https://news.ycombinator.com/item?id=43379395) - [Show HN: I Built a Customer Feedback Tool](https://usefeedlyst.com)
+* [2025-03-16, 14:20:13](https://news.ycombinator.com/item?id=43379265) - [The Defer Technical Specification: It Is Time](https://thephd.dev/c2y-the-defer-technical-specification-its-time-go-go-go)
 * [2025-03-16, 14:20:02](https://news.ycombinator.com/item?id=43379262) - [DiceDB](https://dicedb.io/)
 * [2025-03-16, 14:15:30](https://news.ycombinator.com/item?id=43379235) - [For Delivery Workers in Latin America, Affordable E-Bikes Are a Superpower](https://reasonstobecheerful.world/e-bike-boom-delivery-workers/)
 * [2025-03-16, 13:58:15](https://news.ycombinator.com/item?id=43379129) - [Show HN: Quickly connect to WiFi by scanning text, no typing needed](https://github.com/yilinjuang/wify)
