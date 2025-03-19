@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-19, 20:31:13](https://news.ycombinator.com/item?id=43416961) - [Looking Ahead at Intel's Xe3 GPU Architecture](https://chipsandcheese.com/p/looking-ahead-at-intels-xe3-gpu-architecture)
 * [2025-03-19, 19:54:08](https://news.ycombinator.com/item?id=43416558) - [Control your attention on the web – Block sites on certain days and times](https://github.com/Bsodoge/Focus-Mode)
 * [2025-03-19, 19:43:58](https://news.ycombinator.com/item?id=43416481) - [Scoping a Local-First Image Archive](https://www.scottishstoater.com/2025/03/scoping-a-local-first-image-archive/)
 * [2025-03-19, 19:36:11](https://news.ycombinator.com/item?id=43416400) - [ByteCraft: Generating video games and animations through bytes](https://emygervais.github.io/2025/03/15/bytecraft.html)
@@ -26,7 +27,6 @@
 * [2025-03-19, 07:13:23](https://news.ycombinator.com/item?id=43409028) - [The Internet Slum: is abandoning the Internet the next big thing? (2004)](https://www.fourmilab.ch/documents/netslum/)
 * [2025-03-17, 21:35:37](https://news.ycombinator.com/item?id=43392951) - [Show HN: Learn where countries are on the world map with Spaced Repetition](https://map.koljapluemer.com)
 * [2025-03-16, 14:20:13](https://news.ycombinator.com/item?id=43379265) - [The Defer Technical Specification: It Is Time](https://thephd.dev/c2y-the-defer-technical-specification-its-time-go-go-go)
-* [2025-03-16, 13:19:39](https://news.ycombinator.com/item?id=43378844) - [Imagining the Dinosaurs: How art, science combined to bring a lost world to life](https://worldhistory.substack.com/p/imagining-the-dinosaurs)
 * [2025-03-16, 12:44:11](https://news.ycombinator.com/item?id=43378587) - [How I got 100% off my train travel](https://readbunce.com/p/how-i-got-100-off-my-train-travel)
 * [2025-03-16, 12:05:53](https://news.ycombinator.com/item?id=43378358) - [Muons used to test the condition of a road bridge in Estonia](https://news.err.ee/1609634600/muons-used-to-test-the-condition-of-a-road-bridge-in-estonia)
 * [2025-03-13, 18:29:19](https://news.ycombinator.com/item?id=43356016) - [Show HN: Codemcp – Claude Code for Claude Pro subscribers – ditch API bills](https://github.com/ezyang/codemcp)
