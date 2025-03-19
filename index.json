@@ -1,22 +1,12 @@
 [
   [
     [
-      "2025-03-19, 12:05:59",
-      "https://news.ycombinator.com/item?id=43410825"
+      "2025-03-19, 12:53:24",
+      "https://news.ycombinator.com/item?id=43411218"
     ],
     [
-      "Apple M4 MacBook Air review: I have no notes",
-      "https://arstechnica.com/apple/2025/03/apple-m4-macbook-air-review-i-have-no-notes/"
-    ]
-  ],
-  [
-    [
-      "2025-03-19, 11:48:49",
-      "https://news.ycombinator.com/item?id=43410720"
-    ],
-    [
-      "Indiana Pi Bill",
-      "https://en.wikipedia.org/wiki/Indiana_pi_bill"
+      "Ex-PO operator is first Horizon IT victim to launch legal action against",
+      "https://www.theguardian.com/uk-news/2025/mar/19/ex-subpostmaster-lee-castleton-horizon-it-victim-first-legal-action-post-office-fujitsu"
     ]
   ],
   [
@@ -41,26 +31,6 @@
   ],
   [
     [
-      "2025-03-19, 11:24:11",
-      "https://news.ycombinator.com/item?id=43410562"
-    ],
-    [
-      "Intel AVX10 Drops Optional 512-Bit: No AVX10 256-Bit Only E-Cores in the Future",
-      "https://www.phoronix.com/news/Intel-AVX10-Drops-256-Bit"
-    ]
-  ],
-  [
-    [
-      "2025-03-19, 11:21:12",
-      "https://news.ycombinator.com/item?id=43410548"
-    ],
-    [
-      "I'm the Canadian who was detained by ICE for two weeks",
-      "https://www.theguardian.com/us-news/2025/mar/19/canadian-detained-us-immigration-jasmine-mooney"
-    ]
-  ],
-  [
-    [
       "2025-03-19, 10:42:00",
       "https://news.ycombinator.com/item?id=43410283"
     ],
@@ -77,16 +47,6 @@
     [
       "The Lost Art of Research as Leisure",
       "https://kasurian.com/p/research-as-leisure"
-    ]
-  ],
-  [
-    [
-      "2025-03-19, 09:07:51",
-      "https://news.ycombinator.com/item?id=43409683"
-    ],
-    [
-      "The Molecule of the Month",
-      "https://www.chm.bris.ac.uk/motm/motm.htm"
     ]
   ],
   [
@@ -161,6 +121,16 @@
   ],
   [
     [
+      "2025-03-18, 17:01:16",
+      "https://news.ycombinator.com/item?id=43401772"
+    ],
+    [
+      "Spaceium Inc (YC S24) Is Hiring a Software Engineer",
+      "https://www.ycombinator.com/companies/spaceium-inc/jobs/XGMVnH3-software-engineer"
+    ]
+  ],
+  [
+    [
       "2025-03-18, 16:23:21",
       "https://news.ycombinator.com/item?id=43401245"
     ],
@@ -207,6 +177,26 @@
     [
       "Show HN: I made a live multiplayer Minesweeper game",
       "https://www.minesweeperpro.com/"
+    ]
+  ],
+  [
+    [
+      "2025-03-18, 05:32:11",
+      "https://news.ycombinator.com/item?id=43396076"
+    ],
+    [
+      "The \"Memory Cartography\" of Azerbaijani Emigrants",
+      "https://jam-news.net/memory-cartography-of-azerbaijani-emigrants/"
+    ]
+  ],
+  [
+    [
+      "2025-03-18, 01:52:18",
+      "https://news.ycombinator.com/item?id=43394951"
+    ],
+    [
+      "20 Years of YC / HN",
+      "https://vickiboykis.com/2025/03/17/20-years-of-yc/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Karatsuba Matrix Multiplication and Its Efficient Hardware Implementations",
       "https://arxiv.org/abs/2501.08889"
+    ]
+  ],
+  [
+    [
+      "2025-03-15, 00:42:22",
+      "https://news.ycombinator.com/item?id=43368863"
+    ],
+    [
+      "SheepIt Render Farm server code goes open source",
+      "https://gitlab.com/sheepitrenderfarm"
     ]
   ]
 ]
