@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-19, 10:42:00",
+      "https://news.ycombinator.com/item?id=43410283"
+    ],
+    [
+      "Everything Is Broken: Shipping Rust-Minidump at Mozilla",
+      "https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at-mozilla/"
+    ]
+  ],
+  [
+    [
       "2025-03-19, 10:09:15",
       "https://news.ycombinator.com/item?id=43410061"
     ],
@@ -57,16 +67,6 @@
     [
       "Nvidia Dynamo: A Datacenter Scale Distributed Inference Serving Framework",
       "https://github.com/ai-dynamo/dynamo"
-    ]
-  ],
-  [
-    [
-      "2025-03-18, 20:25:27",
-      "https://news.ycombinator.com/item?id=43404617"
-    ],
-    [
-      "A Tale of Four Kernels [pdf] (2008)",
-      "https://users.csc.calpoly.edu/~djanzen/courses/509S09/papers/FourKernels.pdf"
     ]
   ],
   [
