@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-19](index.md)
 
+* [2025-03-19, 17:00:13](https://news.ycombinator.com/item?id=43414527) - [Markprompt (YC W24) – Stripe for customer support – is hiring founding eng in SF](https://markprompt.com/jobs)
+* [2025-03-19, 16:50:05](https://news.ycombinator.com/item?id=43414405) - [Launch HN: Modernbanc (YC W20) – Modern and fast accounting software](https://news.ycombinator.com/item?id=43414405)
 * [2025-03-19, 16:13:20](https://news.ycombinator.com/item?id=43413935) - [How Fast the Days Are Getting Longer](https://joe-antognini.github.io/astronomy/daylight)
 * [2025-03-19, 15:54:14](https://news.ycombinator.com/item?id=43413650) - [Solar Generation Surge Sends European Power Prices Below Zero](https://www.bloomberg.com/news/articles/2025-03-19/solar-generation-surge-sends-european-power-prices-below-zero)
 * [2025-03-19, 15:40:35](https://news.ycombinator.com/item?id=43413478) - [The Business of Phish (2013)](https://priceonomics.com/business-of-phish/)
