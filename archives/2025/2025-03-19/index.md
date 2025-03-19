@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-19](index.md)
 
+* [2025-03-19, 22:30:56](https://news.ycombinator.com/item?id=43417932) - [Bolt3D: Generating 3D Scenes in Seconds](https://szymanowiczs.github.io/bolt3d)
+* [2025-03-19, 22:25:14](https://news.ycombinator.com/item?id=43417885) - [OpenAI's o1-pro now available via API](https://platform.openai.com/docs/models/o1-pro)
 * [2025-03-19, 21:29:13](https://news.ycombinator.com/item?id=43417511) - [LLM Agents Are Simply Graph – Tutorial for Dummies](https://zacharyhuang.substack.com/p/llm-agent-internal-as-a-graph-tutorial)
 * [2025-03-19, 20:31:13](https://news.ycombinator.com/item?id=43416961) - [Looking Ahead at Intel's Xe3 GPU Architecture](https://chipsandcheese.com/p/looking-ahead-at-intels-xe3-gpu-architecture)
 * [2025-03-19, 20:00:06](https://news.ycombinator.com/item?id=43416615) - [When writing, don't mention people who've criticized you – PG](https://twitter.com/paulg/status/1902310081066147942)
