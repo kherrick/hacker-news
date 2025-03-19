@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-19, 19:43:58](https://news.ycombinator.com/item?id=43416481) - [Scoping a Local-First Image Archive](https://www.scottishstoater.com/2025/03/scoping-a-local-first-image-archive/)
-* [2025-03-19, 19:40:57](https://news.ycombinator.com/item?id=43416451) - [Apple ordered by EU antitrust regulators to open up to rivals](https://www.reuters.com/technology/apple-ordered-by-eu-antitrust-regulators-open-up-rivals-2025-03-19/)
 * [2025-03-19, 19:36:11](https://news.ycombinator.com/item?id=43416400) - [ByteCraft: Generating video games and animations through bytes](https://emygervais.github.io/2025/03/15/bytecraft.html)
 * [2025-03-19, 19:26:03](https://news.ycombinator.com/item?id=43416302) - [Pierogi in Space](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Pierogi_in_space)
 * [2025-03-19, 18:14:14](https://news.ycombinator.com/item?id=43415477) - [Notebooks as reusable Python programs](https://marimo.io/blog/python-not-json)
@@ -23,6 +22,7 @@
 * [2025-03-19, 11:44:17](https://news.ycombinator.com/item?id=43410692) - [fd: A simple, fast and user-friendly alternative to 'find'](https://github.com/sharkdp/fd)
 * [2025-03-19, 10:52:23](https://news.ycombinator.com/item?id=43410349) - [Learning about Innovation from Half a Century of Conway's Game of Life](https://writings.stephenwolfram.com/2025/03/what-can-we-learn-about-engineering-and-innovation-from-half-a-century-of-the-game-of-life-cellular-automaton/)
 * [2025-03-19, 10:09:15](https://news.ycombinator.com/item?id=43410061) - [The Lost Art of Research as Leisure](https://kasurian.com/p/research-as-leisure)
+* [2025-03-19, 06:07:01](https://news.ycombinator.com/item?id=43408674) - [CVE-2024-9956 – PassKey Account Takeover in All Mobile Browsers](https://mastersplinter.work/research/passkey/)
 * [2025-03-19, 05:32:52](https://news.ycombinator.com/item?id=43408540) - [Crew-9 Returns to Earth](https://www.spacex.com/launches/mission/?missionId=crew-9-return)
 * [2025-03-17, 21:35:37](https://news.ycombinator.com/item?id=43392951) - [Show HN: Learn where countries are on the world map with Spaced Repetition](https://map.koljapluemer.com)
 * [2025-03-16, 14:20:13](https://news.ycombinator.com/item?id=43379265) - [The Defer Technical Specification: It Is Time](https://thephd.dev/c2y-the-defer-technical-specification-its-time-go-go-go)
