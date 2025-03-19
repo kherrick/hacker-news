@@ -13,6 +13,7 @@
 * [2025-03-15, 21:34:22](https://news.ycombinator.com/item?id=43375307) - [How to learn a new language like a baby](https://theconversation.com/how-to-learn-a-language-like-a-baby-250551)
 * [2025-03-15, 21:00:44](https://news.ycombinator.com/item?id=43375123) - [Parahelp (YC S24) Is Hiring Founding Engineers (SF)](https://www.ycombinator.com/companies/parahelp/jobs/PhUMEwg-founding-ai-engineer)
 * [2025-03-15, 20:34:37](https://news.ycombinator.com/item?id=43374980) - [Daniel Kahneman died last year by assisted suicide](https://www.jpost.com/breaking-news/article-846140)
+* [2025-03-15, 20:04:29](https://news.ycombinator.com/item?id=43374843) - [Reviving the modprobe_path Technique: Overcoming search_binary_handler() Patch](https://blog.theori.io/reviving-the-modprobe-path-technique-overcoming-search-binary-handler-patch-2dcb8f0fae04)
 * [2025-03-15, 19:45:04](https://news.ycombinator.com/item?id=43374753) - [Don't Try to Reform Science](https://maxwellforbes.com/posts/dont-try-to-reform-science/)
 * [2025-03-15, 19:06:01](https://news.ycombinator.com/item?id=43374519) - [Sign in as anyone: Bypassing SAML SSO authentication with parser differentials](https://github.blog/security/sign-in-as-anyone-bypassing-saml-sso-authentication-with-parser-differentials/)
 * [2025-03-15, 19:04:01](https://news.ycombinator.com/item?id=43374505) - [Show HN: Aiopandas – Async .apply() and .map() for Pandas, Faster API/LLMs Calls](https://github.com/telekinesis-inc/aiopandas)
