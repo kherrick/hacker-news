@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-19](index.md)
 
 * [2025-03-19, 20:00:06](https://news.ycombinator.com/item?id=43416615) - [When writing, don't mention people who've criticized you – PG](https://twitter.com/paulg/status/1902310081066147942)
+* [2025-03-19, 19:54:08](https://news.ycombinator.com/item?id=43416558) - [Control your attention on the web – Block sites on certain days and times](https://github.com/Bsodoge/Focus-Mode)
 * [2025-03-19, 19:43:58](https://news.ycombinator.com/item?id=43416481) - [Scoping a Local-First Image Archive](https://www.scottishstoater.com/2025/03/scoping-a-local-first-image-archive/)
 * [2025-03-19, 19:40:57](https://news.ycombinator.com/item?id=43416451) - [Apple ordered by EU antitrust regulators to open up to rivals](https://www.reuters.com/technology/apple-ordered-by-eu-antitrust-regulators-open-up-rivals-2025-03-19/)
 * [2025-03-19, 19:36:11](https://news.ycombinator.com/item?id=43416400) - [ByteCraft: Generating video games and animations through bytes](https://emygervais.github.io/2025/03/15/bytecraft.html)

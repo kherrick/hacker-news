@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-19, 19:54:08](https://news.ycombinator.com/item?id=43416558) - [Control your attention on the web – Block sites on certain days and times](https://github.com/Bsodoge/Focus-Mode)
 * [2025-03-19, 19:43:58](https://news.ycombinator.com/item?id=43416481) - [Scoping a Local-First Image Archive](https://www.scottishstoater.com/2025/03/scoping-a-local-first-image-archive/)
 * [2025-03-19, 19:36:11](https://news.ycombinator.com/item?id=43416400) - [ByteCraft: Generating video games and animations through bytes](https://emygervais.github.io/2025/03/15/bytecraft.html)
 * [2025-03-19, 19:26:03](https://news.ycombinator.com/item?id=43416302) - [Pierogi in Space](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Pierogi_in_space)
@@ -22,14 +23,13 @@
 * [2025-03-19, 11:44:17](https://news.ycombinator.com/item?id=43410692) - [fd: A simple, fast and user-friendly alternative to 'find'](https://github.com/sharkdp/fd)
 * [2025-03-19, 10:52:23](https://news.ycombinator.com/item?id=43410349) - [Learning about Innovation from Half a Century of Conway's Game of Life](https://writings.stephenwolfram.com/2025/03/what-can-we-learn-about-engineering-and-innovation-from-half-a-century-of-the-game-of-life-cellular-automaton/)
 * [2025-03-19, 10:09:15](https://news.ycombinator.com/item?id=43410061) - [The Lost Art of Research as Leisure](https://kasurian.com/p/research-as-leisure)
-* [2025-03-19, 06:07:01](https://news.ycombinator.com/item?id=43408674) - [CVE-2024-9956 – PassKey Account Takeover in All Mobile Browsers](https://mastersplinter.work/research/passkey/)
-* [2025-03-19, 05:32:52](https://news.ycombinator.com/item?id=43408540) - [Crew-9 Returns to Earth](https://www.spacex.com/launches/mission/?missionId=crew-9-return)
 * [2025-03-17, 21:35:37](https://news.ycombinator.com/item?id=43392951) - [Show HN: Learn where countries are on the world map with Spaced Repetition](https://map.koljapluemer.com)
 * [2025-03-16, 14:20:13](https://news.ycombinator.com/item?id=43379265) - [The Defer Technical Specification: It Is Time](https://thephd.dev/c2y-the-defer-technical-specification-its-time-go-go-go)
 * [2025-03-16, 13:19:39](https://news.ycombinator.com/item?id=43378844) - [Imagining the Dinosaurs: How art, science combined to bring a lost world to life](https://worldhistory.substack.com/p/imagining-the-dinosaurs)
 * [2025-03-16, 12:44:11](https://news.ycombinator.com/item?id=43378587) - [How I got 100% off my train travel](https://readbunce.com/p/how-i-got-100-off-my-train-travel)
 * [2025-03-16, 12:05:53](https://news.ycombinator.com/item?id=43378358) - [Muons used to test the condition of a road bridge in Estonia](https://news.err.ee/1609634600/muons-used-to-test-the-condition-of-a-road-bridge-in-estonia)
 * [2025-03-16, 10:25:28](https://news.ycombinator.com/item?id=43377966) - [Implementing Generic Types in C](https://btmc.substack.com/p/implementing-generic-types-in-c)
+* [2025-03-13, 18:29:19](https://news.ycombinator.com/item?id=43356016) - [Show HN: Codemcp – Claude Code for Claude Pro subscribers – ditch API bills](https://github.com/ezyang/codemcp)
 
 ## [Archives](archives/index.md)
 

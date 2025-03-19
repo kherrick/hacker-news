@@ -21,6 +21,7 @@
 * [2025-03-13, 19:05:17](https://news.ycombinator.com/item?id=43356314) - [The Lost Art of Logarithms](https://www.lostartoflogarithms.com/)
 * [2025-03-13, 18:36:05](https://news.ycombinator.com/item?id=43356068) - [Artificial photosynthesis directed toward organic synthesis](https://www.nature.com/articles/s41467-025-56374-z)
 * [2025-03-13, 18:32:27](https://news.ycombinator.com/item?id=43356039) - [Xata Agent: AI agent expert in PostgreSQL](https://github.com/xataio/agent)
+* [2025-03-13, 18:29:19](https://news.ycombinator.com/item?id=43356016) - [Show HN: Codemcp – Claude Code for Claude Pro subscribers – ditch API bills](https://github.com/ezyang/codemcp)
 * [2025-03-13, 17:51:47](https://news.ycombinator.com/item?id=43355692) - [Beware tech career advice from old heads – Jacob Kaplan-Moss](https://jacobian.org/2025/mar/13/beware-advice-from-old-heads/)
 * [2025-03-13, 17:48:03](https://news.ycombinator.com/item?id=43355658) - [Show HN: Bubbles, a vanilla JavaScript web game](https://ehmorris.com/bubbles/)
 * [2025-03-13, 17:35:34](https://news.ycombinator.com/item?id=43355542) - [History of Maths for Beginners](https://thonyc.wordpress.com/2025/03/13/history-of-maths-for-beginners/)
