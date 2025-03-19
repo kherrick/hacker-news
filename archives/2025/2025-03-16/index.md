@@ -48,6 +48,7 @@
 * [2025-03-16, 13:30:36](https://news.ycombinator.com/item?id=43378925) - [Show HN: 10 teams are racing to build a pivotal tracker replacement](https://bye-tracker.net)
 * [2025-03-16, 13:27:05](https://news.ycombinator.com/item?id=43378900) - [Comet open source remote KVM from GL-iNet](https://www.gl-inet.com/products/gl-rm1/)
 * [2025-03-16, 13:22:47](https://news.ycombinator.com/item?id=43378869) - [Medicaid cuts could devastate elderly in Florida nursing homes](https://www.tampabay.com/news/health/2025/03/16/florida-nursing-homes-medicaid-cuts/)
+* [2025-03-16, 13:19:39](https://news.ycombinator.com/item?id=43378844) - [Imagining the Dinosaurs: How art, science combined to bring a lost world to life](https://worldhistory.substack.com/p/imagining-the-dinosaurs)
 * [2025-03-16, 13:17:17](https://news.ycombinator.com/item?id=43378822) - [Sketch-of-Thought: Efficient LLM Reasoning](https://arxiv.org/abs/2503.05179)
 * [2025-03-16, 13:01:51](https://news.ycombinator.com/item?id=43378704) - [Practical Process Control: Methods and Best Practices for Automatic PID Control](https://controlguru.com/table-of-contents/)
 * [2025-03-16, 13:01:31](https://news.ycombinator.com/item?id=43378701) - [Scorpi – A Modern Hypervisor (For macOS)](https://github.com/macos-fuse-t/scorpi)

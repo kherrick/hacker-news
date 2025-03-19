@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-19](index.md)
 
+* [2025-03-19, 17:44:22](https://news.ycombinator.com/item?id=43415107) - [Show HN: We built an agentic image editor that preserves the original structure](https://palette.cam/gallery)
 * [2025-03-19, 17:34:43](https://news.ycombinator.com/item?id=43414992) - [The Collective Ambition Behind Odysseus, a Game-Changing Sci-Fi Larp](https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus-a-game-changing-sci-fi-larp/)
 * [2025-03-19, 17:17:04](https://news.ycombinator.com/item?id=43414742) - [Fauna Service Winding Down](https://fauna.com/blog/the-future-of-fauna)
 * [2025-03-19, 17:10:57](https://news.ycombinator.com/item?id=43414664) - [Harvard study finds seed oils healthier than butter – The Western Producer](https://www.producer.com/news/harvard-study-finds-seed-oils-healthier-than-butter/)
