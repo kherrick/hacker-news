@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-19](index.md)
 
+* [2025-03-19, 10:09:15](https://news.ycombinator.com/item?id=43410061) - [The Lost Art of Research as Leisure](https://kasurian.com/p/research-as-leisure)
+* [2025-03-19, 09:32:38](https://news.ycombinator.com/item?id=43409838) - [Chrome disabling uBlock Origin is a serious security threat](https://nuage.quimerch.com/-/ewen/articles/chrome-disabling-ublock-origin-is-a-serious-security-threat)
+* [2025-03-19, 09:07:51](https://news.ycombinator.com/item?id=43409683) - [The Molecule of the Month](https://www.chm.bris.ac.uk/motm/motm.htm)
 * [2025-03-19, 07:25:52](https://news.ycombinator.com/item?id=43409092) - [Co-Doodle with Gemini](https://huggingface.co/spaces/Trudy/gemini-codrawing)
 * [2025-03-19, 07:13:23](https://news.ycombinator.com/item?id=43409028) - [The Intenet Slum: is abandoning the Internet the next big thing? (2004)](https://www.fourmilab.ch/documents/netslum/)
 * [2025-03-19, 06:55:20](https://news.ycombinator.com/item?id=43408938) - [CockroachDB has changed their license, again](https://github.com/cockroachdb/cockroach/commit/c0274df57a9f8d0086577bcf74c81110db2cea22)
