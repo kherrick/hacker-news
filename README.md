@@ -24,12 +24,12 @@
 * [2025-03-19, 16:13:20](https://news.ycombinator.com/item?id=43413935) - [How fast the days are getting longer (2023)](https://joe-antognini.github.io/astronomy/daylight)
 * [2025-03-18, 12:38:02](https://news.ycombinator.com/item?id=43398692) - [2FA or Not 2FA](http://mikhailian.mova.org/node/295)
 * [2025-03-18, 12:09:51](https://news.ycombinator.com/item?id=43398434) - [Diagrams AI can, and cannot, generate](https://www.ilograph.com/blog/posts/diagrams-ai-can-and-cannot-generate/)
+* [2025-03-17, 10:40:05](https://news.ycombinator.com/item?id=43386973) - ['Dark oxygen': a deep-sea discovery that has split scientists](https://phys.org/news/2025-03-dark-oxygen-deep-sea-discovery.html)
 * [2025-03-17, 09:30:02](https://news.ycombinator.com/item?id=43386581) - [Database management in a single PHP file](https://github.com/vrana/adminer)
 * [2025-03-17, 04:10:08](https://news.ycombinator.com/item?id=43385127) - [Restoring Faith: Crete's Ancient Minoan Civilisation](https://www.historytoday.com/archive/feature/restoring-faith-cretes-ancient-minoan-civilisation)
 * [2025-03-16, 14:04:44](https://news.ycombinator.com/item?id=43379173) - [How My Six Months Working on the Railway Changed My Life](https://www.theatlantic.com/magazine/archive/2025/04/canadian-national-railroad-graydon-carter/681770/)
 * [2025-03-16, 12:05:53](https://news.ycombinator.com/item?id=43378358) - [Muons used to test the condition of a road bridge in Estonia](https://news.err.ee/1609634600/muons-used-to-test-the-condition-of-a-road-bridge-in-estonia)
 * [2025-03-16, 11:21:53](https://news.ycombinator.com/item?id=43378165) - [Idiomatic Rust](https://a-i-nstein.neocities.org/)
-* [2025-03-13, 18:29:19](https://news.ycombinator.com/item?id=43356016) - [Show HN: Codemcp – Claude Code for Claude Pro subscribers – ditch API bills](https://github.com/ezyang/codemcp)
 
 ## [Archives](archives/index.md)
 
