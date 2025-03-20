@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-20](index.md)
 
+* [2025-03-20, 22:04:03](https://news.ycombinator.com/item?id=43429510) - [Court Imposes over $1.6B in Penalties on a Toyota Subsidiary for Emissions Fraud](https://www.justice.gov/opa/pr/court-sentences-hino-motors-ltd-toyota-subsidiary-and-imposes-over-16b-penalties-emissions)
+* [2025-03-20, 21:56:21](https://news.ycombinator.com/item?id=43429436) - [NATS Server v2.11](https://nats.io/blog/nats-server-2.11-release/)
+* [2025-03-20, 21:51:40](https://news.ycombinator.com/item?id=43429396) - [Appeals court rules that Constitution protects possession of AI-generated CSAM](https://www.techpolicy.press/court-rules-that-constitution-protects-private-possession-of-aigenerated-csam/)
 * [2025-03-20, 19:33:30](https://news.ycombinator.com/item?id=43427850) - [Show HN: Minimalytics – a standalone minimal analytics app built on SQLite](https://github.com/nafey/minimalytics)
 * [2025-03-20, 19:16:22](https://news.ycombinator.com/item?id=43427679) - [Anubis: Proof-of-work proxy to prevent AI crawlers](https://anubis.techaro.lol/)
 * [2025-03-20, 19:15:41](https://news.ycombinator.com/item?id=43427671) - [Show HN: GizmoSQL – Run DuckDB as a Server with Arrow Flight SQL](https://github.com/gizmodata/gizmosql-public/blob/main/README.md)
