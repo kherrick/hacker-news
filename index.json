@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-19, 23:12:45",
+      "https://news.ycombinator.com/item?id=43418218"
+    ],
+    [
+      "Introduction to Deep Learning (CMU)",
+      "https://deeplearning.cs.cmu.edu/./S25/index.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-19, 23:09:34",
+      "https://news.ycombinator.com/item?id=43418192"
+    ],
+    [
+      "The Continuing Crisis, Part IX: Inside the NIH Now",
+      "https://www.science.org/content/blog-post/continuing-crisis-part-ix-inside-nih-now"
+    ]
+  ],
+  [
+    [
       "2025-03-19, 23:08:08",
       "https://news.ycombinator.com/item?id=43418184"
     ],
@@ -11,12 +31,32 @@
   ],
   [
     [
+      "2025-03-19, 22:50:24",
+      "https://news.ycombinator.com/item?id=43418069"
+    ],
+    [
+      "Is Dark Energy Getting Weaker? New Evidence Strengthens the Case",
+      "https://www.quantamagazine.org/is-dark-energy-getting-weaker-new-evidence-strengthens-the-case-20250319/"
+    ]
+  ],
+  [
+    [
       "2025-03-19, 22:30:56",
       "https://news.ycombinator.com/item?id=43417932"
     ],
     [
       "Bolt3D: Generating 3D Scenes in Seconds",
       "https://szymanowiczs.github.io/bolt3d"
+    ]
+  ],
+  [
+    [
+      "2025-03-19, 22:26:39",
+      "https://news.ycombinator.com/item?id=43417894"
+    ],
+    [
+      "Orpheus-3B – Emotive TTS by Canopy Labs",
+      "https://canopylabs.ai/model-releases"
     ]
   ],
   [
@@ -47,26 +87,6 @@
     [
       "Looking Ahead at Intel's Xe3 GPU Architecture",
       "https://chipsandcheese.com/p/looking-ahead-at-intels-xe3-gpu-architecture"
-    ]
-  ],
-  [
-    [
-      "2025-03-19, 19:54:08",
-      "https://news.ycombinator.com/item?id=43416558"
-    ],
-    [
-      "Control your attention on the web – Block sites on certain days and times",
-      "https://github.com/Bsodoge/Focus-Mode"
-    ]
-  ],
-  [
-    [
-      "2025-03-19, 19:26:03",
-      "https://news.ycombinator.com/item?id=43416302"
-    ],
-    [
-      "Pierogi in Space",
-      "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Pierogi_in_space"
     ]
   ],
   [
@@ -131,32 +151,12 @@
   ],
   [
     [
-      "2025-03-19, 15:40:35",
-      "https://news.ycombinator.com/item?id=43413478"
-    ],
-    [
-      "The Business of Phish (2013)",
-      "https://priceonomics.com/business-of-phish/"
-    ]
-  ],
-  [
-    [
       "2025-03-19, 15:16:48",
       "https://news.ycombinator.com/item?id=43413125"
     ],
     [
       "Memory safety for web fonts",
       "https://developer.chrome.com/blog/memory-safety-fonts"
-    ]
-  ],
-  [
-    [
-      "2025-03-19, 13:44:25",
-      "https://news.ycombinator.com/item?id=43411898"
-    ],
-    [
-      "The clustering behavior of sliding windows",
-      "https://arxiv.org/abs/2503.14393"
     ]
   ],
   [
@@ -221,22 +221,22 @@
   ],
   [
     [
-      "2025-03-18, 09:48:35",
-      "https://news.ycombinator.com/item?id=43397407"
-    ],
-    [
-      "Show HN: MCP-Kafka – Natural Language Interface for Kafka Commands",
-      "https://github.com/kanapuli/mcp-kafka"
-    ]
-  ],
-  [
-    [
       "2025-03-17, 21:35:37",
       "https://news.ycombinator.com/item?id=43392951"
     ],
     [
       "Show HN: Learn where countries are on the world map with Spaced Repetition",
       "https://map.koljapluemer.com"
+    ]
+  ],
+  [
+    [
+      "2025-03-17, 09:30:02",
+      "https://news.ycombinator.com/item?id=43386581"
+    ],
+    [
+      "Database management in a single PHP file",
+      "https://github.com/vrana/adminer"
     ]
   ],
   [
