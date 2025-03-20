@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-03-19](index.md)
 
+* [2025-03-19, 23:12:45](https://news.ycombinator.com/item?id=43418218) - [Introduction to Deep Learning (CMU)](https://deeplearning.cs.cmu.edu/./S25/index.html)
+* [2025-03-19, 23:09:34](https://news.ycombinator.com/item?id=43418192) - [The Continuing Crisis, Part IX: Inside the NIH Now](https://www.science.org/content/blog-post/continuing-crisis-part-ix-inside-nih-now)
 * [2025-03-19, 23:08:08](https://news.ycombinator.com/item?id=43418184) - [DESI Opens Access to the Largest 3D Map of the Universe Yet](https://newscenter.lbl.gov/2025/03/19/desi-opens-access-to-the-largest-3d-map-of-the-universe-yet/)
+* [2025-03-19, 22:50:24](https://news.ycombinator.com/item?id=43418069) - [Is Dark Energy Getting Weaker? New Evidence Strengthens the Case](https://www.quantamagazine.org/is-dark-energy-getting-weaker-new-evidence-strengthens-the-case-20250319/)
 * [2025-03-19, 22:30:56](https://news.ycombinator.com/item?id=43417932) - [Bolt3D: Generating 3D Scenes in Seconds](https://szymanowiczs.github.io/bolt3d)
+* [2025-03-19, 22:26:39](https://news.ycombinator.com/item?id=43417894) - [Orpheus-3B – Emotive TTS by Canopy Labs](https://canopylabs.ai/model-releases)
 * [2025-03-19, 22:25:14](https://news.ycombinator.com/item?id=43417885) - [OpenAI's o1-pro now available via API](https://platform.openai.com/docs/models/o1-pro)
 * [2025-03-19, 21:29:13](https://news.ycombinator.com/item?id=43417511) - [LLM Agents Are Simply Graph – Tutorial for Dummies](https://zacharyhuang.substack.com/p/llm-agent-internal-as-a-graph-tutorial)
 * [2025-03-19, 20:31:13](https://news.ycombinator.com/item?id=43416961) - [Looking Ahead at Intel's Xe3 GPU Architecture](https://chipsandcheese.com/p/looking-ahead-at-intels-xe3-gpu-architecture)

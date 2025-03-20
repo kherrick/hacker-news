@@ -50,6 +50,7 @@
 * [2025-03-17, 10:22:40](https://news.ycombinator.com/item?id=43386856) - [Pine64's RISC-V tablet now ships with a Debian-based Linux and improved hardware](https://liliputing.com/pine64s-risc-v-tablet-now-ships-with-a-debian-based-linux-distro-and-improved-hardware/)
 * [2025-03-17, 10:10:46](https://news.ycombinator.com/item?id=43386788) - [Trump Derangement Syndrome](https://www.revisor.mn.gov/bills/text.php?number=SF2589&version=0&session=ls94&session_year=2025&session_number=0)
 * [2025-03-17, 10:02:22](https://news.ycombinator.com/item?id=43386745) - [Show HN: Beyond Jira: Lightweight Project Management for Freelancers](https://enkitask.com/)
+* [2025-03-17, 09:30:02](https://news.ycombinator.com/item?id=43386581) - [Database management in a single PHP file](https://github.com/vrana/adminer)
 * [2025-03-17, 09:29:33](https://news.ycombinator.com/item?id=43386578) - [Underware 2.0 – Open Source Infinite Cable Management](https://makerworld.com/en/models/783010-underware-2-0-infinite-cable-management)
 * [2025-03-17, 08:49:02](https://news.ycombinator.com/item?id=43386357) - [uv overtakes Poetry (for Wagtail users)](https://wagtail.org/blog/uv-overtakes-poetry/)
 * [2025-03-17, 08:44:37](https://news.ycombinator.com/item?id=43386333) - [Altbot (Fediverse alt-text generator) no longer uses Google's services](https://fuzzies.wtf/@micr0/114172532499348433)
