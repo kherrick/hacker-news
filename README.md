@@ -19,6 +19,7 @@
 * [2025-03-19, 16:48:32](https://news.ycombinator.com/item?id=43414393) - [AI Blindspots – Blindspots in LLMs I've noticed while AI coding](https://ezyang.github.io/ai-blindspots/)
 * [2025-03-19, 16:34:45](https://news.ycombinator.com/item?id=43414235) - [Fine-tune Google's Gemma 3](https://unsloth.ai/blog/gemma3)
 * [2025-03-19, 16:13:20](https://news.ycombinator.com/item?id=43413935) - [How fast the days are getting longer (2023)](https://joe-antognini.github.io/astronomy/daylight)
+* [2025-03-19, 12:56:03](https://news.ycombinator.com/item?id=43411258) - [Supply constraints do not explain house price, quantity growth across US cities](https://www.nber.org/papers/w33576)
 * [2025-03-19, 12:30:48](https://news.ycombinator.com/item?id=43410988) - [Konva.js - Declarative 2D Canvas for React, Vue, and Svelte](https://konvajs.org/)
 * [2025-03-19, 12:16:06](https://news.ycombinator.com/item?id=43410885) - [The Origin of the Pork Taboo](https://archaeology.org/issues/march-april-2025/letters-from/on-the-origin-of-the-pork-taboo/)
 * [2025-03-19, 11:44:17](https://news.ycombinator.com/item?id=43410692) - [fd: A simple, fast and user-friendly alternative to 'find'](https://github.com/sharkdp/fd)
@@ -28,7 +29,6 @@
 * [2025-03-16, 14:20:13](https://news.ycombinator.com/item?id=43379265) - [The Defer Technical Specification: It Is Time](https://thephd.dev/c2y-the-defer-technical-specification-its-time-go-go-go)
 * [2025-03-16, 12:44:11](https://news.ycombinator.com/item?id=43378587) - [How I got 100% off my train travel](https://readbunce.com/p/how-i-got-100-off-my-train-travel)
 * [2025-03-16, 12:05:53](https://news.ycombinator.com/item?id=43378358) - [Muons used to test the condition of a road bridge in Estonia](https://news.err.ee/1609634600/muons-used-to-test-the-condition-of-a-road-bridge-in-estonia)
-* [2025-03-16, 10:23:15](https://news.ycombinator.com/item?id=43377958) - [Making a multiplayer action game in Haskell](https://gitlab.com/-/snippets/4817016)
 * [2025-03-13, 18:29:19](https://news.ycombinator.com/item?id=43356016) - [Show HN: Codemcp – Claude Code for Claude Pro subscribers – ditch API bills](https://github.com/ezyang/codemcp)
 
 ## [Archives](archives/index.md)
