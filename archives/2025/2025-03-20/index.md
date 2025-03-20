@@ -8,6 +8,7 @@
 * [2025-03-20, 18:32:11](https://news.ycombinator.com/item?id=43427115) - [Google calls Gemma 3 the most powerful AI model you can run on one GPU](https://www.theverge.com/ai-artificial-intelligence/627968/google-gemma-3-open-ai-model)
 * [2025-03-20, 18:24:26](https://news.ycombinator.com/item?id=43427007) - [We Should Own the Economy](https://www.elysian.press/p/we-should-own-the-economy)
 * [2025-03-20, 18:03:02](https://news.ycombinator.com/item?id=43426697) - [TruffleRuby 24.2.0](https://github.com/oracle/truffleruby/releases/tag/graal-24.2.0)
+* [2025-03-20, 17:52:48](https://news.ycombinator.com/item?id=43426534) - [How to Be Good at Dating](https://fantasticanachronism.com/2025/03/20/how-to-be-good-at-dating/)
 * [2025-03-20, 17:48:36](https://news.ycombinator.com/item?id=43426468) - [The F-35 as a Subscription Service](https://xxtomcooperxx.substack.com/p/the-f-35-as-a-subscription-service)
 * [2025-03-20, 17:27:46](https://news.ycombinator.com/item?id=43426164) - [Show HN: AgentKit – JavaScript Alternative to OpenAI Agents SDK with Native MCP](https://github.com/inngest/agent-kit)
 * [2025-03-20, 17:26:36](https://news.ycombinator.com/item?id=43426142) - [Doge Social Security Closures: Recipients Need to Visit Offices to Get Benefits](https://gizmodo.com/u-s-says-social-security-recipients-need-to-visit-offices-to-get-benefits-as-doge-closes-offices-nationwide-2000578129)

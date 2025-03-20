@@ -24,6 +24,7 @@
 * [2025-03-17, 20:12:40](https://news.ycombinator.com/item?id=43392303) - [Occupry your next lease to negotiate a better deal](https://occupry.com)
 * [2025-03-17, 20:11:09](https://news.ycombinator.com/item?id=43392295) - [After 47 years, OpenVMS gets a package manager (VSP)](https://raymii.org/s/blog/After_47_years_OpenVMS_gets_a_package_manager_VSP.html)
 * [2025-03-17, 18:36:21](https://news.ycombinator.com/item?id=43391459) - [Archival Storage](https://blog.dshr.org/2025/03/archival-storage.html)
+* [2025-03-17, 18:35:41](https://news.ycombinator.com/item?id=43391452) - [Want even tinier chips? Use a particle accelerator](https://www.economist.com/science-and-technology/2025/03/12/want-even-tinier-chips-use-a-particle-accelerator)
 * [2025-03-17, 17:33:14](https://news.ycombinator.com/item?id=43390823) - [Show HN: Localscope–Limit scope of Python functions for reproducible execution](https://localscope.readthedocs.io/en/latest/)
 * [2025-03-17, 17:25:35](https://news.ycombinator.com/item?id=43390747) - [LAPD Surveilled Gaza Protests Using This Social Media Tool](https://theintercept.com/2025/03/17/lapd-surveillance-gaza-palestine-protests-dataminr/)
 * [2025-03-17, 17:10:59](https://news.ycombinator.com/item?id=43390595) - [Wall Street’s ‘Private Rooms’](https://www.bloomberg.com/news/features/2025-03-16/wall-street-s-dark-pools-grow-murkier-with-private-rooms)
