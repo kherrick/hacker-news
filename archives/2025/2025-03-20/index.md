@@ -4,11 +4,17 @@
 
 ### [Archives](../../index.md) for [2025-03-20](index.md)
 
+* [2025-03-20, 17:18:00](https://news.ycombinator.com/item?id=43426022) - [OpenAI Audio Models](https://www.openai.fm/)
+* [2025-03-20, 17:08:27](https://news.ycombinator.com/item?id=43425876) - [OpenAI uses open source Ory to authenticate over 400M weekly active users](https://www.ory.sh/blog/openai-oauth2-server-open-source)
+* [2025-03-20, 17:07:22](https://news.ycombinator.com/item?id=43425856) - [Stellar Blockchain Accounts](https://blog.biggertech.co/blog/article/accounts)
+* [2025-03-20, 17:06:27](https://news.ycombinator.com/item?id=43425841) - [French scientist denied entry into the U.S., French government says](https://www.reuters.com/world/french-scientist-denied-entry-into-us-french-government-says-2025-03-20/)
 * [2025-03-20, 17:01:08](https://news.ycombinator.com/item?id=43425766) - [Pump.co (YC S22) Is Hiring](https://www.ycombinator.com/companies/pump-co/jobs/7kB7DNb-email-outreach-manager)
 * [2025-03-20, 16:51:12](https://news.ycombinator.com/item?id=43425655) - [Claude can now search the web](https://www.anthropic.com/news/web-search)
 * [2025-03-20, 16:47:17](https://news.ycombinator.com/item?id=43425605) - [CVE-2024-54471: Leaking Passwords (and More!) on macOS](https://wts.dev/posts/password-leak/)
+* [2025-03-20, 16:44:10](https://news.ycombinator.com/item?id=43425561) - [ChatGPT hit with privacy complaint over defamatory hallucinations](https://techcrunch.com/2025/03/19/chatgpt-hit-with-privacy-complaint-over-defamatory-hallucinations/)
 * [2025-03-20, 16:35:32](https://news.ycombinator.com/item?id=43425464) - [Canada considering charging for road access from USA to Alaska](https://washingtonstatestandard.com/2025/03/17/british-columbia-introduces-toll-measure-to-counter-tariffs/)
 * [2025-03-20, 16:26:58](https://news.ycombinator.com/item?id=43425351) - [LED's Efficiency Exceeds 100%](https://phys.org/news/2012-03-efficiency.html)
+* [2025-03-20, 16:01:10](https://news.ycombinator.com/item?id=43425032) - [Low-Cost Drone Add-Ons from China Let Anyone Turn Toys into Weapons of War](https://www.wired.com/story/drone-accessories-weapons-of-war/)
 * [2025-03-20, 15:38:28](https://news.ycombinator.com/item?id=43424776) - [Dad demands OpenAI delete ChatGPT's false claim that he murdered his kids](https://arstechnica.com/tech-policy/2025/03/chatgpt-falsely-claimed-a-dad-murdered-his-own-kids-complaint-says/)
 * [2025-03-20, 14:58:23](https://news.ycombinator.com/item?id=43424340) - [I Fear for the Unauthenticated Web](https://sethmlarson.dev/i-fear-for-the-unauthenticated-web)
 * [2025-03-20, 14:33:28](https://news.ycombinator.com/item?id=43424065) - [ACARS Drama](https://acarsdrama.com/)
