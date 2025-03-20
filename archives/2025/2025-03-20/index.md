@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-20](index.md)
 
+* [2025-03-20, 15:38:28](https://news.ycombinator.com/item?id=43424776) - [Dad demands OpenAI delete ChatGPT's false claim that he murdered his kids](https://arstechnica.com/tech-policy/2025/03/chatgpt-falsely-claimed-a-dad-murdered-his-own-kids-complaint-says/)
+* [2025-03-20, 14:58:23](https://news.ycombinator.com/item?id=43424340) - [I Fear for the Unauthenticated Web](https://sethmlarson.dev/i-fear-for-the-unauthenticated-web)
 * [2025-03-20, 14:33:28](https://news.ycombinator.com/item?id=43424065) - [ACARS Drama](https://acarsdrama.com/)
 * [2025-03-20, 13:57:30](https://news.ycombinator.com/item?id=43423523) - [Grease: An Open-Source Tool for Uncovering Hidden Vulnerabilities in Binary Code](https://www.galois.com/articles/introducing-grease)
 * [2025-03-20, 13:41:35](https://news.ycombinator.com/item?id=43423238) - [Particle Based Physics Engine in Golang](https://github.com/rudransh61/Physix-go)
