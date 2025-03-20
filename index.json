@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-20, 19:33:30",
+      "https://news.ycombinator.com/item?id=43427850"
+    ],
+    [
+      "Show HN: Minimalytics – a standalone minimal analytics app built on SQLite",
+      "https://github.com/nafey/minimalytics"
+    ]
+  ],
+  [
+    [
+      "2025-03-20, 19:15:41",
+      "https://news.ycombinator.com/item?id=43427671"
+    ],
+    [
+      "Show HN: GizmoSQL – Run DuckDB as a Server with Arrow Flight SQL",
+      "https://github.com/gizmodata/gizmosql-public/blob/main/README.md"
+    ]
+  ],
+  [
+    [
       "2025-03-20, 18:32:11",
       "https://news.ycombinator.com/item?id=43427115"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-03-20, 04:37:09",
-      "https://news.ycombinator.com/item?id=43419928"
-    ],
-    [
-      "Austral: A Systems Language with Linear Types and Capabilities (2022)",
-      "https://borretti.me/article/introducing-austral"
-    ]
-  ],
-  [
-    [
       "2025-03-20, 03:37:31",
       "https://news.ycombinator.com/item?id=43419701"
     ],
@@ -237,16 +247,6 @@
     [
       "Bolt3D: Generating 3D Scenes in Seconds",
       "https://szymanowiczs.github.io/bolt3d"
-    ]
-  ],
-  [
-    [
-      "2025-03-19, 16:50:05",
-      "https://news.ycombinator.com/item?id=43414405"
-    ],
-    [
-      "Launch HN: Modernbanc (YC W20) – Modern and fast accounting software",
-      "https://news.ycombinator.com/item?id=43414405"
     ]
   ],
   [
