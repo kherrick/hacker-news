@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-20, 18:38:12",
+      "https://news.ycombinator.com/item?id=43427197"
+    ],
+    [
+      "SAR-DT Reveals Internal Structure of the Great Pyramid of Giza",
+      "https://www.mdpi.com/2072-4292/14/20/5231"
+    ]
+  ],
+  [
+    [
       "2025-03-20, 17:27:46",
       "https://news.ycombinator.com/item?id=43426164"
     ],
@@ -21,36 +31,6 @@
   ],
   [
     [
-      "2025-03-20, 17:11:57",
-      "https://news.ycombinator.com/item?id=43425935"
-    ],
-    [
-      "The Asus Ascent GX10 a Nvidia GB10 Mini PC with 128GB of Memory and 200GbE",
-      "https://www.servethehome.com/this-is-the-asus-ascent-gx10-a-nvidia-gb10-mini-pc-with-128gb-of-memory-and-200gbe/"
-    ]
-  ],
-  [
-    [
-      "2025-03-20, 17:08:27",
-      "https://news.ycombinator.com/item?id=43425876"
-    ],
-    [
-      "OpenAI uses open source Ory to authenticate over 400M weekly active users",
-      "https://www.ory.sh/blog/openai-oauth2-server-open-source"
-    ]
-  ],
-  [
-    [
-      "2025-03-20, 17:06:27",
-      "https://news.ycombinator.com/item?id=43425841"
-    ],
-    [
-      "French scientist denied entry into the U.S., French government says",
-      "https://www.reuters.com/world/french-scientist-denied-entry-into-us-french-government-says-2025-03-20/"
-    ]
-  ],
-  [
-    [
       "2025-03-20, 17:01:08",
       "https://news.ycombinator.com/item?id=43425766"
     ],
@@ -67,16 +47,6 @@
     [
       "Claude can now search the web",
       "https://www.anthropic.com/news/web-search"
-    ]
-  ],
-  [
-    [
-      "2025-03-20, 16:49:18",
-      "https://news.ycombinator.com/item?id=43425623"
-    ],
-    [
-      "A Deep Dive into MCP and the Future of AI Tooling",
-      "https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/"
     ]
   ],
   [
@@ -151,6 +121,16 @@
   ],
   [
     [
+      "2025-03-20, 12:50:49",
+      "https://news.ycombinator.com/item?id=43422413"
+    ],
+    [
+      "FOSS infrastructure is under attack by AI companies",
+      "https://thelibre.news/foss-infrastructure-is-under-attack-by-ai-companies/"
+    ]
+  ],
+  [
+    [
       "2025-03-20, 12:25:31",
       "https://news.ycombinator.com/item?id=43422162"
     ],
@@ -201,6 +181,16 @@
   ],
   [
     [
+      "2025-03-20, 07:19:25",
+      "https://news.ycombinator.com/item?id=43420477"
+    ],
+    [
+      "C++26: Deprecating or removing library features",
+      "https://www.sandordargo.com/blog/2025/03/19/cpp26-deprecate-remove-library-features"
+    ]
+  ],
+  [
+    [
       "2025-03-20, 05:42:21",
       "https://news.ycombinator.com/item?id=43420152"
     ],
@@ -217,6 +207,16 @@
     [
       "'More than a hint' that dark energy isn't what astronomers thought",
       "https://www.nytimes.com/2025/03/19/science/space/astronomer-desi-dark-energy.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-20, 04:37:09",
+      "https://news.ycombinator.com/item?id=43419928"
+    ],
+    [
+      "Austral: A Systems Language with Linear Types and Capabilities (2022)",
+      "https://borretti.me/article/introducing-austral"
     ]
   ],
   [
