@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-20, 17:01:08](https://news.ycombinator.com/item?id=43425766) - [Pump.co (YC S22) Is Hiring](https://www.ycombinator.com/companies/pump-co/jobs/7kB7DNb-email-outreach-manager)
+* [2025-03-20, 16:51:12](https://news.ycombinator.com/item?id=43425655) - [Claude can now search the web](https://www.anthropic.com/news/web-search)
+* [2025-03-20, 16:47:17](https://news.ycombinator.com/item?id=43425605) - [CVE-2024-54471: Leaking Passwords (and More!) on macOS](https://wts.dev/posts/password-leak/)
 * [2025-03-20, 16:35:32](https://news.ycombinator.com/item?id=43425464) - [Canada considering charging for road access from USA to Alaska](https://washingtonstatestandard.com/2025/03/17/british-columbia-introduces-toll-measure-to-counter-tariffs/)
-* [2025-03-20, 16:26:58](https://news.ycombinator.com/item?id=43425351) - [LED's Efficiency Exceeds 100%](https://phys.org/news/2012-03-efficiency.html)
 * [2025-03-20, 14:58:23](https://news.ycombinator.com/item?id=43424340) - [I fear for the unauthenticated web](https://sethmlarson.dev/i-fear-for-the-unauthenticated-web)
 * [2025-03-20, 14:33:28](https://news.ycombinator.com/item?id=43424065) - [ACARS Drama](https://acarsdrama.com/)
 * [2025-03-20, 14:10:39](https://news.ycombinator.com/item?id=43423762) - [Michael Seibel is leaving Y Combinator](https://twitter.com/mwseibel/status/1902510758925365590)
@@ -12,7 +14,6 @@
 * [2025-03-20, 12:50:49](https://news.ycombinator.com/item?id=43422413) - [FOSS infrastructure is under attack by AI companies](https://thelibre.news/foss-infrastructure-is-under-attack-by-ai-companies/)
 * [2025-03-20, 12:25:31](https://news.ycombinator.com/item?id=43422162) - [The Frontend Treadmill](https://polotek.net/posts/the-frontend-treadmill/)
 * [2025-03-20, 12:09:32](https://news.ycombinator.com/item?id=43422033) - [Understanding Solar Energy](https://www.construction-physics.com/p/understanding-solar-energy)
-* [2025-03-20, 12:01:05](https://news.ycombinator.com/item?id=43421979) - [Sieve (YC W22) Is Hiring Engineers to Build the Future of Video AI](https://www.sievedata.com/)
 * [2025-03-20, 11:55:13](https://news.ycombinator.com/item?id=43421934) - [Powers of 2 with all even digits](https://oeis.org/A068994)
 * [2025-03-20, 08:00:54](https://news.ycombinator.com/item?id=43420683) - [Minding the gaps: A new way to draw separators in CSS](https://blogs.windows.com/msedgedev/2025/03/19/minding-the-gaps-a-new-way-to-draw-separators-in-css/)
 * [2025-03-20, 07:58:57](https://news.ycombinator.com/item?id=43420678) - [Show HN: I built a MCP server so Claude can play Minesweeper](https://github.com/tonypan2/minesweeper-mcp-server)
@@ -29,7 +30,6 @@
 * [2025-03-18, 12:09:51](https://news.ycombinator.com/item?id=43398434) - [Diagrams AI can, and cannot, generate](https://www.ilograph.com/blog/posts/diagrams-ai-can-and-cannot-generate/)
 * [2025-03-17, 21:25:37](https://news.ycombinator.com/item?id=43392875) - [Show HN: We made a photo search engine for homes for sale](https://news.ycombinator.com/item?id=43392875)
 * [2025-03-17, 10:40:05](https://news.ycombinator.com/item?id=43386973) - ['Dark oxygen': a deep-sea discovery that has split scientists](https://phys.org/news/2025-03-dark-oxygen-deep-sea-discovery.html)
-* [2025-03-16, 12:05:53](https://news.ycombinator.com/item?id=43378358) - [Muons used to test the condition of a road bridge in Estonia](https://news.err.ee/1609634600/muons-used-to-test-the-condition-of-a-road-bridge-in-estonia)
 
 ## [Archives](archives/index.md)
 
