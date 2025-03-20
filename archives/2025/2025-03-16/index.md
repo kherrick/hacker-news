@@ -41,6 +41,7 @@
 * [2025-03-16, 14:20:13](https://news.ycombinator.com/item?id=43379265) - [The Defer Technical Specification: It Is Time](https://thephd.dev/c2y-the-defer-technical-specification-its-time-go-go-go)
 * [2025-03-16, 14:20:02](https://news.ycombinator.com/item?id=43379262) - [DiceDB](https://dicedb.io/)
 * [2025-03-16, 14:15:30](https://news.ycombinator.com/item?id=43379235) - [For Delivery Workers in Latin America, Affordable E-Bikes Are a Superpower](https://reasonstobecheerful.world/e-bike-boom-delivery-workers/)
+* [2025-03-16, 14:04:44](https://news.ycombinator.com/item?id=43379173) - [How My Six Months Working on the Railway Changed My Life](https://www.theatlantic.com/magazine/archive/2025/04/canadian-national-railroad-graydon-carter/681770/)
 * [2025-03-16, 13:58:15](https://news.ycombinator.com/item?id=43379129) - [Show HN: Quickly connect to WiFi by scanning text, no typing needed](https://github.com/yilinjuang/wify)
 * [2025-03-16, 13:56:26](https://news.ycombinator.com/item?id=43379119) - [Male octopus injects female with venom during sex to avoid being eaten](https://www.newscientist.com/article/2471120-male-octopus-injects-female-with-venom-during-sex-to-avoid-being-eaten/)
 * [2025-03-16, 13:54:01](https://news.ycombinator.com/item?id=43379099) - [Origami measuring spoon incites fury after 9 years of Kickstarter delay hell](https://arstechnica.com/tech-policy/2025/03/scoop-origami-measuring-spoon-incites-fury-after-9-years-of-kickstarter-delay-hell/)
