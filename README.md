@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-20, 11:19:48](https://news.ycombinator.com/item?id=43421740) - [EU sends Apple first DMA interoperability instructions for apps and devices](https://techcrunch.com/2025/03/19/eu-sends-apple-first-dma-interoperability-instructions-for-apps-and-connected-devices/)
+* [2025-03-20, 11:10:45](https://news.ycombinator.com/item?id=43421694) - [Can NASA remain nonpartisan when basic spaceflight truths are shredded?](https://arstechnica.com/space/2025/03/can-nasa-remain-nonpartisan-when-basic-spaceflight-truths-are-shredded/)
 * [2025-03-20, 08:37:35](https://news.ycombinator.com/item?id=43420892) - [Stelvio: Serverless AWS for Python Devs](https://github.com/michal-stlv/stelvio)
 * [2025-03-20, 08:00:54](https://news.ycombinator.com/item?id=43420683) - [Minding the gaps: A new way to draw separators in CSS](https://blogs.windows.com/msedgedev/2025/03/19/minding-the-gaps-a-new-way-to-draw-separators-in-css/)
 * [2025-03-20, 07:58:57](https://news.ycombinator.com/item?id=43420678) - [Show HN: I built a MCP server so Claude can play Minesweeper](https://github.com/tonypan2/minesweeper-mcp-server)
@@ -29,7 +30,6 @@
 * [2025-03-16, 12:44:11](https://news.ycombinator.com/item?id=43378587) - [How I got 100% off my train travel](https://readbunce.com/p/how-i-got-100-off-my-train-travel)
 * [2025-03-16, 12:05:53](https://news.ycombinator.com/item?id=43378358) - [Muons used to test the condition of a road bridge in Estonia](https://news.err.ee/1609634600/muons-used-to-test-the-condition-of-a-road-bridge-in-estonia)
 * [2025-03-16, 11:47:37](https://news.ycombinator.com/item?id=43378276) - [Destructive Updates – A Stitch in Time](https://icicle-lang.github.io/posts/2025-02-01-a-time-travelling-optimisation.html)
-* [2025-03-16, 11:42:20](https://news.ycombinator.com/item?id=43378252) - [Elastic Restaking Networks](https://arxiv.org/abs/2503.00170)
 
 ## [Archives](archives/index.md)
 
