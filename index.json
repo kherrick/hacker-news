@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-03-20, 17:18:00",
+      "https://news.ycombinator.com/item?id=43426022"
+    ],
+    [
+      "OpenAI Audio Models",
+      "https://www.openai.fm/"
+    ]
+  ],
+  [
+    [
+      "2025-03-20, 17:08:27",
+      "https://news.ycombinator.com/item?id=43425876"
+    ],
+    [
+      "OpenAI uses open source Ory to authenticate over 400M weekly active users",
+      "https://www.ory.sh/blog/openai-oauth2-server-open-source"
+    ]
+  ],
+  [
+    [
+      "2025-03-20, 17:07:22",
+      "https://news.ycombinator.com/item?id=43425856"
+    ],
+    [
+      "Stellar Blockchain Accounts",
+      "https://blog.biggertech.co/blog/article/accounts"
+    ]
+  ],
+  [
+    [
+      "2025-03-20, 17:06:27",
+      "https://news.ycombinator.com/item?id=43425841"
+    ],
+    [
+      "French scientist denied entry into the U.S., French government says",
+      "https://www.reuters.com/world/french-scientist-denied-entry-into-us-french-government-says-2025-03-20/"
+    ]
+  ],
+  [
+    [
       "2025-03-20, 17:01:08",
       "https://news.ycombinator.com/item?id=43425766"
     ],
@@ -31,6 +71,16 @@
   ],
   [
     [
+      "2025-03-20, 16:44:10",
+      "https://news.ycombinator.com/item?id=43425561"
+    ],
+    [
+      "ChatGPT hit with privacy complaint over defamatory hallucinations",
+      "https://techcrunch.com/2025/03/19/chatgpt-hit-with-privacy-complaint-over-defamatory-hallucinations/"
+    ]
+  ],
+  [
+    [
       "2025-03-20, 16:35:32",
       "https://news.ycombinator.com/item?id=43425464"
     ],
@@ -41,12 +91,12 @@
   ],
   [
     [
-      "2025-03-20, 14:58:23",
-      "https://news.ycombinator.com/item?id=43424340"
+      "2025-03-20, 16:01:10",
+      "https://news.ycombinator.com/item?id=43425032"
     ],
     [
-      "I fear for the unauthenticated web",
-      "https://sethmlarson.dev/i-fear-for-the-unauthenticated-web"
+      "Low-Cost Drone Add-Ons from China Let Anyone Turn Toys into Weapons of War",
+      "https://www.wired.com/story/drone-accessories-weapons-of-war/"
     ]
   ],
   [
@@ -57,16 +107,6 @@
     [
       "ACARS Drama",
       "https://acarsdrama.com/"
-    ]
-  ],
-  [
-    [
-      "2025-03-20, 14:10:39",
-      "https://news.ycombinator.com/item?id=43423762"
-    ],
-    [
-      "Michael Seibel is leaving Y Combinator",
-      "https://twitter.com/mwseibel/status/1902510758925365590"
     ]
   ],
   [
@@ -107,16 +147,6 @@
     [
       "Oxygen discovered in most distant known galaxy",
       "https://www.eso.org/public/news/eso2507/"
-    ]
-  ],
-  [
-    [
-      "2025-03-20, 12:50:49",
-      "https://news.ycombinator.com/item?id=43422413"
-    ],
-    [
-      "FOSS infrastructure is under attack by AI companies",
-      "https://thelibre.news/foss-infrastructure-is-under-attack-by-ai-companies/"
     ]
   ],
   [
@@ -167,16 +197,6 @@
     [
       "Show HN: I built a MCP server so Claude can play Minesweeper",
       "https://github.com/tonypan2/minesweeper-mcp-server"
-    ]
-  ],
-  [
-    [
-      "2025-03-20, 07:19:25",
-      "https://news.ycombinator.com/item?id=43420477"
-    ],
-    [
-      "C++26: Deprecating or removing library features",
-      "https://www.sandordargo.com/blog/2025/03/19/cpp26-deprecate-remove-library-features"
     ]
   ],
   [
@@ -247,26 +267,6 @@
     [
       "Bolt3D: Generating 3D Scenes in Seconds",
       "https://szymanowiczs.github.io/bolt3d"
-    ]
-  ],
-  [
-    [
-      "2025-03-19, 21:29:13",
-      "https://news.ycombinator.com/item?id=43417511"
-    ],
-    [
-      "LLM Agents Are Simply Graph – Tutorial for Dummies",
-      "https://zacharyhuang.substack.com/p/llm-agent-internal-as-a-graph-tutorial"
-    ]
-  ],
-  [
-    [
-      "2025-03-19, 16:48:32",
-      "https://news.ycombinator.com/item?id=43414393"
-    ],
-    [
-      "AI Blindspots – Blindspots in LLMs I've noticed while AI coding",
-      "https://ezyang.github.io/ai-blindspots/"
     ]
   ],
   [
