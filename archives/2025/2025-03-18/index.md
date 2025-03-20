@@ -64,6 +64,7 @@
 * [2025-03-18, 11:17:44](https://news.ycombinator.com/item?id=43398081) - [Show HN: I made a live multiplayer Minesweeper game](https://www.minesweeperpro.com/)
 * [2025-03-18, 10:43:15](https://news.ycombinator.com/item?id=43397832) - [Ownership of High-Risk (\"Vicious\") Dogs as a Marker for Deviant Behaviors](https://www.researchgate.net/publication/6729905_Ownership_of_High-Risk_Vicious_Dogs_as_a_Marker_for_Deviant_Behaviors)
 * [2025-03-18, 10:21:09](https://news.ycombinator.com/item?id=43397664) - [Claude.ai, Console, and API not available](https://status.anthropic.com/incidents/rjjg3fzd2spp)
+* [2025-03-18, 10:12:18](https://news.ycombinator.com/item?id=43397602) - [Energetic cost of human disturbance on the southern sea otter](https://wildlife.onlinelibrary.wiley.com/doi/10.1002/jwmg.70012)
 * [2025-03-18, 09:56:37](https://news.ycombinator.com/item?id=43397474) - [The Model Is the Product](https://vintagedata.org/blog/posts/model-is-the-product)
 * [2025-03-18, 09:48:35](https://news.ycombinator.com/item?id=43397407) - [Show HN: MCP-Kafka – Natural Language Interface for Kafka Commands](https://github.com/kanapuli/mcp-kafka)
 * [2025-03-18, 09:42:12](https://news.ycombinator.com/item?id=43397361) - [Please stop externalizing your costs directly into my face](https://drewdevault.com/2025/03/17/2025-03-17-Stop-externalizing-your-costs-on-me.html)
