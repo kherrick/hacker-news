@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-20](index.md)
 
+* [2025-03-20, 19:33:30](https://news.ycombinator.com/item?id=43427850) - [Show HN: Minimalytics – a standalone minimal analytics app built on SQLite](https://github.com/nafey/minimalytics)
 * [2025-03-20, 19:16:22](https://news.ycombinator.com/item?id=43427679) - [Anubis: Proof-of-work proxy to prevent AI crawlers](https://anubis.techaro.lol/)
+* [2025-03-20, 19:15:41](https://news.ycombinator.com/item?id=43427671) - [Show HN: GizmoSQL – Run DuckDB as a Server with Arrow Flight SQL](https://github.com/gizmodata/gizmosql-public/blob/main/README.md)
 * [2025-03-20, 18:38:12](https://news.ycombinator.com/item?id=43427197) - [SAR-DT Reveals Internal Structure of the Great Pyramid of Giza](https://www.mdpi.com/2072-4292/14/20/5231)
 * [2025-03-20, 18:32:11](https://news.ycombinator.com/item?id=43427115) - [Google calls Gemma 3 the most powerful AI model you can run on one GPU](https://www.theverge.com/ai-artificial-intelligence/627968/google-gemma-3-open-ai-model)
 * [2025-03-20, 18:24:26](https://news.ycombinator.com/item?id=43427007) - [We Should Own the Economy](https://www.elysian.press/p/we-should-own-the-economy)
