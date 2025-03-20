@@ -23,7 +23,7 @@
 * [2025-03-19, 12:16:06](https://news.ycombinator.com/item?id=43410885) - [The Origin of the Pork Taboo](https://archaeology.org/issues/march-april-2025/letters-from/on-the-origin-of-the-pork-taboo/)
 * [2025-03-19, 11:44:17](https://news.ycombinator.com/item?id=43410692) - [fd: A simple, fast and user-friendly alternative to 'find'](https://github.com/sharkdp/fd)
 * [2025-03-18, 12:09:51](https://news.ycombinator.com/item?id=43398434) - [Diagrams AI can, and cannot, generate](https://www.ilograph.com/blog/posts/diagrams-ai-can-and-cannot-generate/)
-* [2025-03-18, 10:12:18](https://news.ycombinator.com/item?id=43397602) - [Energetic cost of human disturbance on the southern sea otter](https://wildlife.onlinelibrary.wiley.com/doi/10.1002/jwmg.70012)
+* [2025-03-17, 21:35:37](https://news.ycombinator.com/item?id=43392951) - [Show HN: Learn where countries are on the world map with Spaced Repetition](https://map.koljapluemer.com)
 * [2025-03-17, 09:30:02](https://news.ycombinator.com/item?id=43386581) - [Database management in a single PHP file](https://github.com/vrana/adminer)
 * [2025-03-16, 14:20:13](https://news.ycombinator.com/item?id=43379265) - [The Defer Technical Specification: It Is Time](https://thephd.dev/c2y-the-defer-technical-specification-its-time-go-go-go)
 * [2025-03-16, 12:44:11](https://news.ycombinator.com/item?id=43378587) - [How I got 100% off my train travel](https://readbunce.com/p/how-i-got-100-off-my-train-travel)
