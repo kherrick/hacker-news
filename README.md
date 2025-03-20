@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-20, 03:40:41](https://news.ycombinator.com/item?id=43419713) - [Fetch-MCP: Playwright-Based MCP Server with Batch URL Fetching Support](https://github.com/jae-jae/fetch-mcp)
+* [2025-03-20, 02:58:48](https://news.ycombinator.com/item?id=43419545) - [Silicon Labs Shrinks Wireless SoCs to Extend BLE to Miniature Devices](https://www.allaboutcircuits.com/news/silicon-labs-shrinks-wireless-socs-to-extend-ble-to-miniature-devices/)
 * [2025-03-20, 01:58:29](https://news.ycombinator.com/item?id=43419237) - [Hunyuan3D-2-Turbo: fast high-quality shape generation in ~1s on a 4090](https://github.com/Tencent/Hunyuan3D-2/commit/baab8ba18e46052246f85a2d0f48736586b84a33)
 * [2025-03-20, 01:47:31](https://news.ycombinator.com/item?id=43419187) - [PackagePhobia – Find the cost of adding a new dev dependency to your project](https://packagephobia.com/)
-* [2025-03-20, 01:25:54](https://news.ycombinator.com/item?id=43419072) - [Writing an LLM from scratch, part 10 – dropout](https://www.gilesthomas.com/2025/03/llm-from-scratch-10-dropout)
 * [2025-03-19, 23:12:45](https://news.ycombinator.com/item?id=43418218) - [Introduction to Deep Learning (CMU)](https://deeplearning.cs.cmu.edu/./S25/index.html)
 * [2025-03-19, 23:08:08](https://news.ycombinator.com/item?id=43418184) - [DESI Opens Access to the Largest 3D Map of the Universe Yet](https://newscenter.lbl.gov/2025/03/19/desi-opens-access-to-the-largest-3d-map-of-the-universe-yet/)
 * [2025-03-19, 22:30:56](https://news.ycombinator.com/item?id=43417932) - [Bolt3D: Generating 3D Scenes in Seconds](https://szymanowiczs.github.io/bolt3d)
@@ -14,7 +15,7 @@
 * [2025-03-19, 16:50:05](https://news.ycombinator.com/item?id=43414405) - [Launch HN: Modernbanc (YC W20) – Modern and fast accounting software](https://news.ycombinator.com/item?id=43414405)
 * [2025-03-19, 16:48:32](https://news.ycombinator.com/item?id=43414393) - [AI Blindspots – Blindspots in LLMs I've noticed while AI coding](https://ezyang.github.io/ai-blindspots/)
 * [2025-03-19, 16:34:45](https://news.ycombinator.com/item?id=43414235) - [Fine-tune Google's Gemma 3](https://unsloth.ai/blog/gemma3)
-* [2025-03-19, 16:13:20](https://news.ycombinator.com/item?id=43413935) - [How fast the days are getting longer](https://joe-antognini.github.io/astronomy/daylight)
+* [2025-03-19, 16:13:20](https://news.ycombinator.com/item?id=43413935) - [How fast the days are getting longer (2023)](https://joe-antognini.github.io/astronomy/daylight)
 * [2025-03-19, 15:16:48](https://news.ycombinator.com/item?id=43413125) - [Memory safety for web fonts](https://developer.chrome.com/blog/memory-safety-fonts)
 * [2025-03-19, 12:56:03](https://news.ycombinator.com/item?id=43411258) - [Supply constraints do not explain house price, quantity growth across US cities](https://www.nber.org/papers/w33576)
 * [2025-03-19, 12:30:48](https://news.ycombinator.com/item?id=43410988) - [Konva.js - Declarative 2D Canvas for React, Vue, and Svelte](https://konvajs.org/)
@@ -28,7 +29,6 @@
 * [2025-03-16, 12:44:11](https://news.ycombinator.com/item?id=43378587) - [How I got 100% off my train travel](https://readbunce.com/p/how-i-got-100-off-my-train-travel)
 * [2025-03-16, 12:05:53](https://news.ycombinator.com/item?id=43378358) - [Muons used to test the condition of a road bridge in Estonia](https://news.err.ee/1609634600/muons-used-to-test-the-condition-of-a-road-bridge-in-estonia)
 * [2025-03-16, 10:23:15](https://news.ycombinator.com/item?id=43377958) - [Making a multiplayer action game in Haskell](https://gitlab.com/-/snippets/4817016)
-* [2025-03-16, 03:32:04](https://news.ycombinator.com/item?id=43376769) - [Decoding JSON sum types in Go without panicking](https://nicolashery.com/decoding-json-sum-types-in-go/)
 * [2025-03-13, 18:29:19](https://news.ycombinator.com/item?id=43356016) - [Show HN: Codemcp – Claude Code for Claude Pro subscribers – ditch API bills](https://github.com/ezyang/codemcp)
 
 ## [Archives](archives/index.md)
