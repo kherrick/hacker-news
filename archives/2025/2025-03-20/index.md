@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-20](index.md)
 
+* [2025-03-20, 18:38:12](https://news.ycombinator.com/item?id=43427197) - [SAR-DT Reveals Internal Structure of the Great Pyramid of Giza](https://www.mdpi.com/2072-4292/14/20/5231)
 * [2025-03-20, 18:24:26](https://news.ycombinator.com/item?id=43427007) - [We Should Own the Economy](https://www.elysian.press/p/we-should-own-the-economy)
 * [2025-03-20, 18:03:02](https://news.ycombinator.com/item?id=43426697) - [TruffleRuby 24.2.0](https://github.com/oracle/truffleruby/releases/tag/graal-24.2.0)
 * [2025-03-20, 17:27:46](https://news.ycombinator.com/item?id=43426164) - [Show HN: AgentKit – JavaScript Alternative to OpenAI Agents SDK with Native MCP](https://github.com/inngest/agent-kit)
