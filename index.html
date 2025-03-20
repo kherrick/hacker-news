@@ -129,6 +129,71 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="43429510">
+          <h3>
+            <a
+              class="item"
+              href="https://www.justice.gov/opa/pr/court-sentences-hino-motors-ltd-toyota-subsidiary-and-imposes-over-16b-penalties-emissions"
+              >Court Imposes over $1.6B in Penalties on a Toyota Subsidiary for
+              Emissions Fraud</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-03-20 @ 22:04:03</span
+              ><span class="points-container"
+                >Points: <span class="points">9</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43429510"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="43429436">
+          <h3>
+            <a
+              class="item"
+              href="https://nats.io/blog/nats-server-2.11-release/"
+              >NATS Server v2.11</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-03-20 @ 21:56:21</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43429436"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="43429396">
+          <h3>
+            <a
+              class="item"
+              href="https://www.techpolicy.press/court-rules-that-constitution-protects-private-possession-of-aigenerated-csam/"
+              >Appeals court rules that Constitution protects possession of
+              AI-generated CSAM</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-03-20 @ 21:51:40</span
+              ><span class="points-container"
+                >Points: <span class="points">14</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43429396"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="43427850">
           <h3>
             <a class="item" href="https://github.com/nafey/minimalytics"
@@ -140,7 +205,7 @@
             <h4>
               <span>2025-03-20 @ 19:33:30</span
               ><span class="points-container"
-                >Points: <span class="points">5</span></span
+                >Points: <span class="points">10</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43427850"
                   >Comments</a
@@ -178,117 +243,6 @@
             </div>
           </section>
         </section>
-        <section id="43427671">
-          <h3>
-            <a
-              class="item"
-              href="https://github.com/gizmodata/gizmosql-public/blob/main/README.md"
-              >Show HN: GizmoSQL – Run DuckDB as a Server with Arrow Flight
-              SQL</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-03-20 @ 19:15:41</span
-              ><span class="points-container"
-                >Points: <span class="points">6</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43427671"
-                  >Comments</a
-                ><span class="descendants">: 2</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                I'm Philip Moore - the founder of GizmoData, and creator of
-                GizmoSQL - an Apache Arrow Flight SQL Server - with DuckDB (or
-                SQLite) back-end execution engines.
-              </p>
-              <p>
-                GizmoSQL is a composable SQL server with Arrow Flight SQL,
-                DuckDB, and SQLite - with the intention of making it easy to run
-                DuckDB (or SQLite) as a server - usable by multiple people from
-                a client (remote) computer. It also adds security
-                (authentication) and encryption of traffic with TLS.
-              </p>
-              <p>
-                To run GizmoSQL - see the steps in the README.md - where you can
-                see how easy it is to run the server as well as how to connect
-                via ADBC and JDBC from a remote client - such as DBeaver,
-                Python, etc. The easiest way to run GizmoSQL is via Docker - but
-                there are downloads for Linux and macOS for both x86-64 and
-                arm64 platforms (download links in the README).
-              </p>
-              <p>
-                Why?: As you may know, DuckDB and SQLite are embedded systems -
-                they don't enable client connectivity, and they aren't really
-                designed for concurrency.
-              </p>
-              <p>
-                I've built GizmoSQL to work around that - because I believe the
-                DuckDB engine is very powerful, and I feel like a lot of
-                customers overpay and run distributed compute (i.e. Spark) when
-                they don't really need to. Making it easy to have remote
-                connectivity to DuckDB can make it easier to migrate SQL
-                workloads from Spark or other expensive commercial platforms to
-                this engine - with a much simpler architecture/infrastructure.
-              </p>
-              <p>
-                It is my intention to make GizmoSQL a commercial product -
-                licensed for production use by organizations, but free for
-                developers to code with - evaluate, and test.
-              </p>
-              <p>
-                A little bit of backstory: * I built the initial version of this
-                while working for a former employer - it wasn't their core
-                focus, so they open-sourced that early version. After I left
-                there, I forked the product and have improved it substantially -
-                to support concurrency of both reads and writes, improving
-                security, as well as keeping it up to date with the latest
-                versions of Apache Arrow and DuckDB.
-              </p>
-              <p>
-                * This project evolved from a prototype created by the brilliant
-                Tom Drabas.
-              </p>
-              <p>
-                * It feels a little weird trying to make a commercial product
-                based upon DuckDB, but MotherDuck started it :P - and I've
-                contributed (albeit very little) to the DuckDB and Apache Arrow
-                projects in the form of a couple of PRs.
-              </p>
-              <p>
-                I'm really excited about this project - I have run benchmarks of
-                this product against commercial platforms such as Snowflake and
-                Databricks SQL - and it holds its own running the 22-query TPC-H
-                SF1TB benchmark, especially on cost. See the graph at:
-                <a href="https://gizmodata.com/gizmosql"
-                  >https://gizmodata.com/gizmosql</a
-                >
-              </p>
-              <p>
-                Getting started: Github README:
-                <a
-                  href="https://github.com/gizmodata/gizmosql-public/blob/main/README.md"
-                  >https://github.com/gizmodata/gizmosql-public/blob/main/READM...</a
-                >
-                DockerHub:
-                <a href="https://hub.docker.com/r/gizmodata/gizmosql"
-                  >https://hub.docker.com/r/gizmodata/gizmosql</a
-                >
-                GizmoSQL homepage:
-                <a href="https://gizmodata.com/gizmosql"
-                  >https://gizmodata.com/gizmosql</a
-                >
-                Phil's Github profile:
-                <a href="https://github.com/prmoore77"
-                  >https://github.com/prmoore77</a
-                >
-              </p>
-              <p>Thanks for your time and feedback in advance.</p>
-            </div>
-          </section>
-        </section>
         <section id="43427115">
           <h3>
             <a
@@ -302,11 +256,11 @@
             <h4>
               <span>2025-03-20 @ 18:32:11</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43427115"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
@@ -319,11 +273,11 @@
             <h4>
               <span>2025-03-20 @ 18:24:17</span
               ><span class="points-container"
-                >Points: <span class="points">279</span></span
+                >Points: <span class="points">309</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43427002"
                   >Comments</a
-                ><span class="descendants">: 186</span></span
+                ><span class="descendants">: 219</span></span
               >
             </h4>
           </section>
@@ -338,11 +292,11 @@
             <h4>
               <span>2025-03-20 @ 17:18:00</span
               ><span class="points-container"
-                >Points: <span class="points">309</span></span
+                >Points: <span class="points">320</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43426022"
                   >Comments</a
-                ><span class="descendants">: 173</span></span
+                ><span class="descendants">: 183</span></span
               >
             </h4>
           </section>
@@ -374,11 +328,11 @@
             <h4>
               <span>2025-03-20 @ 16:51:12</span
               ><span class="points-container"
-                >Points: <span class="points">597</span></span
+                >Points: <span class="points">615</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43425655"
                   >Comments</a
-                ><span class="descendants">: 296</span></span
+                ><span class="descendants">: 305</span></span
               >
             </h4>
           </section>
@@ -393,7 +347,7 @@
             <h4>
               <span>2025-03-20 @ 16:47:17</span
               ><span class="points-container"
-                >Points: <span class="points">199</span></span
+                >Points: <span class="points">214</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43425605"
                   >Comments</a
@@ -410,11 +364,11 @@
             <h4>
               <span>2025-03-20 @ 14:33:28</span
               ><span class="points-container"
-                >Points: <span class="points">154</span></span
+                >Points: <span class="points">156</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43424065"
                   >Comments</a
-                ><span class="descendants">: 69</span></span
+                ><span class="descendants">: 70</span></span
               >
             </h4>
           </section>
@@ -432,7 +386,7 @@
             <h4>
               <span>2025-03-20 @ 13:57:30</span
               ><span class="points-container"
-                >Points: <span class="points">69</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43423523"
                   >Comments</a
@@ -451,30 +405,11 @@
             <h4>
               <span>2025-03-20 @ 13:41:35</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43423238"
                   >Comments</a
                 ><span class="descendants">: 8</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43423032">
-          <h3>
-            <a class="item" href="https://mexicocitywater.longlead.com"
-              >The Last Drops of Mexico City</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-03-20 @ 13:28:44</span
-              ><span class="points-container"
-                >Points: <span class="points">143</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43423032"
-                  >Comments</a
-                ><span class="descendants">: 130</span></span
               >
             </h4>
           </section>
@@ -489,11 +424,11 @@
             <h4>
               <span>2025-03-20 @ 13:21:34</span
               ><span class="points-container"
-                >Points: <span class="points">134</span></span
+                >Points: <span class="points">142</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43422909"
                   >Comments</a
-                ><span class="descendants">: 105</span></span
+                ><span class="descendants">: 107</span></span
               >
             </h4>
           </section>
@@ -510,11 +445,11 @@
             <h4>
               <span>2025-03-20 @ 12:25:31</span
               ><span class="points-container"
-                >Points: <span class="points">345</span></span
+                >Points: <span class="points">350</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43422162"
                   >Comments</a
-                ><span class="descendants">: 395</span></span
+                ><span class="descendants">: 398</span></span
               >
             </h4>
           </section>
@@ -531,11 +466,11 @@
             <h4>
               <span>2025-03-20 @ 12:09:32</span
               ><span class="points-container"
-                >Points: <span class="points">151</span></span
+                >Points: <span class="points">154</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43422033"
                   >Comments</a
-                ><span class="descendants">: 106</span></span
+                ><span class="descendants">: 109</span></span
               >
             </h4>
           </section>
@@ -550,11 +485,11 @@
             <h4>
               <span>2025-03-20 @ 11:55:13</span
               ><span class="points-container"
-                >Points: <span class="points">202</span></span
+                >Points: <span class="points">206</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43421934"
                   >Comments</a
-                ><span class="descendants">: 94</span></span
+                ><span class="descendants">: 95</span></span
               >
             </h4>
           </section>
@@ -571,7 +506,7 @@
             <h4>
               <span>2025-03-20 @ 08:00:54</span
               ><span class="points-container"
-                >Points: <span class="points">225</span></span
+                >Points: <span class="points">226</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43420683"
                   >Comments</a
@@ -592,7 +527,7 @@
             <h4>
               <span>2025-03-20 @ 07:58:57</span
               ><span class="points-container"
-                >Points: <span class="points">92</span></span
+                >Points: <span class="points">93</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43420678"
                   >Comments</a
@@ -625,28 +560,6 @@
             </h4>
           </section>
         </section>
-        <section id="43419996">
-          <h3>
-            <a
-              class="item"
-              href="https://www.nytimes.com/2025/03/19/science/space/astronomer-desi-dark-energy.html"
-              >'More than a hint' that dark energy isn't what astronomers
-              thought</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-03-20 @ 04:57:12</span
-              ><span class="points-container"
-                >Points: <span class="points">112</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43419996"
-                  >Comments</a
-                ><span class="descendants">: 86</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="43419701">
           <h3>
             <a
@@ -659,11 +572,11 @@
             <h4>
               <span>2025-03-20 @ 03:37:31</span
               ><span class="points-container"
-                >Points: <span class="points">529</span></span
+                >Points: <span class="points">535</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43419701"
                   >Comments</a
-                ><span class="descendants">: 403</span></span
+                ><span class="descendants">: 409</span></span
               >
             </h4>
           </section>
@@ -678,11 +591,11 @@
             <h4>
               <span>2025-03-20 @ 01:58:47</span
               ><span class="points-container"
-                >Points: <span class="points">194</span></span
+                >Points: <span class="points">196</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43419240"
                   >Comments</a
-                ><span class="descendants">: 115</span></span
+                ><span class="descendants">: 116</span></span
               >
             </h4>
           </section>
@@ -700,7 +613,7 @@
             <h4>
               <span>2025-03-20 @ 01:58:29</span
               ><span class="points-container"
-                >Points: <span class="points">158</span></span
+                >Points: <span class="points">159</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43419237"
                   >Comments</a
@@ -719,7 +632,7 @@
             <h4>
               <span>2025-03-19 @ 22:30:56</span
               ><span class="points-container"
-                >Points: <span class="points">266</span></span
+                >Points: <span class="points">268</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43417932"
                   >Comments</a
@@ -741,11 +654,11 @@
             <h4>
               <span>2025-03-18 @ 13:23:57</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43399170"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -762,7 +675,7 @@
             <h4>
               <span>2025-03-18 @ 12:09:51</span
               ><span class="points-container"
-                >Points: <span class="points">177</span></span
+                >Points: <span class="points">179</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43398434"
                   >Comments</a
@@ -783,11 +696,11 @@
             <h4>
               <span>2025-03-18 @ 05:57:56</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43396172"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -825,11 +738,11 @@
             <h4>
               <span>2025-03-17 @ 10:40:05</span
               ><span class="points-container"
-                >Points: <span class="points">111</span></span
+                >Points: <span class="points">113</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43386973"
                   >Comments</a
-                ><span class="descendants">: 87</span></span
+                ><span class="descendants">: 89</span></span
               >
             </h4>
           </section>
@@ -846,11 +759,11 @@
             <h4>
               <span>2025-03-17 @ 02:42:16</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43384697"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
