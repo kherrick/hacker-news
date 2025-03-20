@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-20](index.md)
 
+* [2025-03-20, 05:42:21](https://news.ycombinator.com/item?id=43420152) - [How I accepted myself into Canada's largest AI hackathon](https://fastcall.dev/posts/genai-genesis-firebase/)
 * [2025-03-20, 04:37:09](https://news.ycombinator.com/item?id=43419928) - [Austral: A Systems Language with Linear Types and Capabilities (2022)](https://borretti.me/article/introducing-austral)
 * [2025-03-20, 03:40:41](https://news.ycombinator.com/item?id=43419713) - [Fetch-MCP: Playwright-Based MCP Server with Batch URL Fetching Support](https://github.com/jae-jae/fetch-mcp)
 * [2025-03-20, 03:37:31](https://news.ycombinator.com/item?id=43419701) - [The Pain That Is GitHub Actions](https://www.feldera.com/blog/the-pain-that-is-github-actions)

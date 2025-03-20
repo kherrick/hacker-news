@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-20, 05:42:21](https://news.ycombinator.com/item?id=43420152) - [How I accepted myself into Canada's largest AI hackathon](https://fastcall.dev/posts/genai-genesis-firebase/)
 * [2025-03-20, 04:37:09](https://news.ycombinator.com/item?id=43419928) - [Austral: A Systems Language with Linear Types and Capabilities (2022)](https://borretti.me/article/introducing-austral)
 * [2025-03-20, 03:40:41](https://news.ycombinator.com/item?id=43419713) - [Fetch-MCP: Playwright-Based MCP Server with Batch URL Fetching Support](https://github.com/jae-jae/fetch-mcp)
 * [2025-03-20, 03:37:31](https://news.ycombinator.com/item?id=43419701) - [The Pain That Is GitHub Actions](https://www.feldera.com/blog/the-pain-that-is-github-actions)
@@ -15,7 +16,6 @@
 * [2025-03-19, 21:29:13](https://news.ycombinator.com/item?id=43417511) - [LLM Agents Are Simply Graph – Tutorial for Dummies](https://zacharyhuang.substack.com/p/llm-agent-internal-as-a-graph-tutorial)
 * [2025-03-19, 20:31:13](https://news.ycombinator.com/item?id=43416961) - [Looking Ahead at Intel's Xe3 GPU Architecture](https://chipsandcheese.com/p/looking-ahead-at-intels-xe3-gpu-architecture)
 * [2025-03-19, 17:34:43](https://news.ycombinator.com/item?id=43414992) - [The Collective Ambition Behind Odysseus, a Game-Changing Sci-Fi Larp](https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus-a-game-changing-sci-fi-larp/)
-* [2025-03-19, 17:00:13](https://news.ycombinator.com/item?id=43414527) - [Markprompt (YC W24) – Stripe for customer support – is hiring founding eng in SF](https://markprompt.com/jobs)
 * [2025-03-19, 16:50:05](https://news.ycombinator.com/item?id=43414405) - [Launch HN: Modernbanc (YC W20) – Modern and fast accounting software](https://news.ycombinator.com/item?id=43414405)
 * [2025-03-19, 16:48:32](https://news.ycombinator.com/item?id=43414393) - [AI Blindspots – Blindspots in LLMs I've noticed while AI coding](https://ezyang.github.io/ai-blindspots/)
 * [2025-03-19, 16:34:45](https://news.ycombinator.com/item?id=43414235) - [Fine-tune Google's Gemma 3](https://unsloth.ai/blog/gemma3)
