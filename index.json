@@ -5,8 +5,18 @@
       "https://news.ycombinator.com/item?id=43419237"
     ],
     [
-      "Hunyuan3D-2-Turbo: fast high-quality shape generation in ~1 SEC on a 4090",
+      "Hunyuan3D-2-Turbo: fast high-quality shape generation in ~1s on a 4090",
       "https://github.com/Tencent/Hunyuan3D-2/commit/baab8ba18e46052246f85a2d0f48736586b84a33"
+    ]
+  ],
+  [
+    [
+      "2025-03-20, 01:47:31",
+      "https://news.ycombinator.com/item?id=43419187"
+    ],
+    [
+      "PackagePhobia – Find the cost of adding a new dev dependency to your project",
+      "https://packagephobia.com/"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "Orpheus-3B – Emotive TTS by Canopy Labs",
       "https://canopylabs.ai/model-releases"
-    ]
-  ],
-  [
-    [
-      "2025-03-19, 22:25:14",
-      "https://news.ycombinator.com/item?id=43417885"
-    ],
-    [
-      "OpenAI's o1-pro now available via API",
-      "https://platform.openai.com/docs/models/o1-pro"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2025-03-17, 06:01:55",
-      "https://news.ycombinator.com/item?id=43385571"
-    ],
-    [
-      "Looking for beta testers for my GPS based game",
-      "https://cityquizler.com/"
-    ]
-  ],
-  [
-    [
       "2025-03-16, 14:20:13",
       "https://news.ycombinator.com/item?id=43379265"
     ],
@@ -277,6 +267,16 @@
     [
       "Muons used to test the condition of a road bridge in Estonia",
       "https://news.err.ee/1609634600/muons-used-to-test-the-condition-of-a-road-bridge-in-estonia"
+    ]
+  ],
+  [
+    [
+      "2025-03-16, 10:23:15",
+      "https://news.ycombinator.com/item?id=43377958"
+    ],
+    [
+      "Making a multiplayer action game in Haskell",
+      "https://gitlab.com/-/snippets/4817016"
     ]
   ],
   [
