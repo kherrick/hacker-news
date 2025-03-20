@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-20, 18:32:11](https://news.ycombinator.com/item?id=43427115) - [Google calls Gemma 3 the most powerful AI model you can run on one GPU](https://www.theverge.com/ai-artificial-intelligence/627968/google-gemma-3-open-ai-model)
+* [2025-03-20, 18:24:17](https://news.ycombinator.com/item?id=43427002) - [The Burnout Machine](https://unionize.fyi)
 * [2025-03-20, 17:52:48](https://news.ycombinator.com/item?id=43426534) - [How to Be Good at Dating](https://fantasticanachronism.com/2025/03/20/how-to-be-good-at-dating/)
-* [2025-03-20, 17:48:36](https://news.ycombinator.com/item?id=43426468) - [The F-35 as a Subscription Service](https://xxtomcooperxx.substack.com/p/the-f-35-as-a-subscription-service)
 * [2025-03-20, 17:27:46](https://news.ycombinator.com/item?id=43426164) - [Show HN: AgentKit – JavaScript Alternative to OpenAI Agents SDK with Native MCP](https://github.com/inngest/agent-kit)
 * [2025-03-20, 17:18:00](https://news.ycombinator.com/item?id=43426022) - [OpenAI Audio Models](https://www.openai.fm/)
 * [2025-03-20, 17:01:08](https://news.ycombinator.com/item?id=43425766) - [Pump.co (YC S22) Is Hiring](https://www.ycombinator.com/companies/pump-co/jobs/7kB7DNb-email-outreach-manager)
