@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-20](index.md)
 
+* [2025-03-20, 13:00:24](https://news.ycombinator.com/item?id=43422551) - [Tourist in US chained 'like Hannibal Lecter'](https://www.bbc.co.uk/news/articles/cly67j35y99o)
+* [2025-03-20, 12:50:49](https://news.ycombinator.com/item?id=43422413) - [FOSS infrastructure is under attack by AI companies](https://thelibre.news/foss-infrastructure-is-under-attack-by-ai-companies/)
+* [2025-03-20, 12:49:08](https://news.ycombinator.com/item?id=43422396) - [Tesla to recall more than 46,000 Cybertrucks due to exterior panel issue](https://www.cnn.com/2025/03/20/business/tesla-cybertruck-recall/index.html)
 * [2025-03-20, 12:25:31](https://news.ycombinator.com/item?id=43422162) - [The Front End Treadmill](https://polotek.net/posts/the-frontend-treadmill/)
 * [2025-03-20, 12:13:39](https://news.ycombinator.com/item?id=43422066) - [Building and deploying a custom site using GitHub Actions and GitHub Pages](https://til.simonwillison.net/github-actions/github-pages)
 * [2025-03-20, 12:01:05](https://news.ycombinator.com/item?id=43421979) - [Sieve (YC W22) Is Hiring Engineers to Build the Future of Video AI](https://www.sievedata.com/)
