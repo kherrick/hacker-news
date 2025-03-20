@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-20, 11:19:48](https://news.ycombinator.com/item?id=43421740) - [EU sends Apple first DMA interoperability instructions for apps and devices](https://techcrunch.com/2025/03/19/eu-sends-apple-first-dma-interoperability-instructions-for-apps-and-connected-devices/)
 * [2025-03-20, 08:37:35](https://news.ycombinator.com/item?id=43420892) - [Stelvio: Serverless AWS for Python Devs](https://github.com/michal-stlv/stelvio)
 * [2025-03-20, 08:00:54](https://news.ycombinator.com/item?id=43420683) - [Minding the gaps: A new way to draw separators in CSS](https://blogs.windows.com/msedgedev/2025/03/19/minding-the-gaps-a-new-way-to-draw-separators-in-css/)
 * [2025-03-20, 07:58:57](https://news.ycombinator.com/item?id=43420678) - [Show HN: I built a MCP server so Claude can play Minesweeper](https://github.com/tonypan2/minesweeper-mcp-server)
@@ -23,13 +24,12 @@
 * [2025-03-19, 16:13:20](https://news.ycombinator.com/item?id=43413935) - [How fast the days are getting longer (2023)](https://joe-antognini.github.io/astronomy/daylight)
 * [2025-03-18, 12:09:51](https://news.ycombinator.com/item?id=43398434) - [Diagrams AI can, and cannot, generate](https://www.ilograph.com/blog/posts/diagrams-ai-can-and-cannot-generate/)
 * [2025-03-17, 10:40:05](https://news.ycombinator.com/item?id=43386973) - ['Dark oxygen': a deep-sea discovery that has split scientists](https://phys.org/news/2025-03-dark-oxygen-deep-sea-discovery.html)
-* [2025-03-17, 09:30:02](https://news.ycombinator.com/item?id=43386581) - [Database management in a single PHP file](https://github.com/vrana/adminer)
 * [2025-03-17, 04:10:08](https://news.ycombinator.com/item?id=43385127) - [Restoring Faith: Crete's Ancient Minoan Civilisation](https://www.historytoday.com/archive/feature/restoring-faith-cretes-ancient-minoan-civilisation)
 * [2025-03-16, 14:04:44](https://news.ycombinator.com/item?id=43379173) - [How My Six Months Working on the Railway Changed My Life](https://www.theatlantic.com/magazine/archive/2025/04/canadian-national-railroad-graydon-carter/681770/)
 * [2025-03-16, 12:44:11](https://news.ycombinator.com/item?id=43378587) - [How I got 100% off my train travel](https://readbunce.com/p/how-i-got-100-off-my-train-travel)
 * [2025-03-16, 12:05:53](https://news.ycombinator.com/item?id=43378358) - [Muons used to test the condition of a road bridge in Estonia](https://news.err.ee/1609634600/muons-used-to-test-the-condition-of-a-road-bridge-in-estonia)
+* [2025-03-16, 11:47:37](https://news.ycombinator.com/item?id=43378276) - [Destructive Updates – A Stitch in Time](https://icicle-lang.github.io/posts/2025-02-01-a-time-travelling-optimisation.html)
 * [2025-03-16, 11:42:20](https://news.ycombinator.com/item?id=43378252) - [Elastic Restaking Networks](https://arxiv.org/abs/2503.00170)
-* [2025-03-13, 18:29:19](https://news.ycombinator.com/item?id=43356016) - [Show HN: Codemcp – Claude Code for Claude Pro subscribers – ditch API bills](https://github.com/ezyang/codemcp)
 
 ## [Archives](archives/index.md)
 

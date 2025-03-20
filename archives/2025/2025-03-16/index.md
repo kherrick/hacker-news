@@ -66,6 +66,7 @@
 * [2025-03-16, 12:01:10](https://news.ycombinator.com/item?id=43378330) - [Raytracing on Intel's Arc B580 – By Chester Lam](https://chipsandcheese.com/p/raytracing-on-intels-arc-b580)
 * [2025-03-16, 12:01:04](https://news.ycombinator.com/item?id=43378329) - [Lago (Open-Source Usage Based Billing)Is Hiring Sr Ruby Engineers (Latam)](https://jobs.lever.co/getlago/42f45126-a365-4f03-9736-565b26bc62f5)
 * [2025-03-16, 11:59:17](https://news.ycombinator.com/item?id=43378321) - [The good times in tech are over](https://www.seangoedecke.com/good-times-are-over/)
+* [2025-03-16, 11:47:37](https://news.ycombinator.com/item?id=43378276) - [Destructive Updates – A Stitch in Time](https://icicle-lang.github.io/posts/2025-02-01-a-time-travelling-optimisation.html)
 * [2025-03-16, 11:45:13](https://news.ycombinator.com/item?id=43378266) - [zlib-ng: zlib replacement with optimizations for \"next generation\" systems](https://github.com/zlib-ng/zlib-ng)
 * [2025-03-16, 11:43:14](https://news.ycombinator.com/item?id=43378256) - [Undergraduate Upends a 40-Year-Old Data Science Conjecture](https://www.wired.com/story/undergraduate-upends-a-40-year-old-data-science-conjecture/)
 * [2025-03-16, 11:42:20](https://news.ycombinator.com/item?id=43378252) - [Elastic Restaking Networks](https://arxiv.org/abs/2503.00170)
