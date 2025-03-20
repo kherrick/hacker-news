@@ -1,22 +1,12 @@
 [
   [
     [
-      "2025-03-20, 18:24:26",
-      "https://news.ycombinator.com/item?id=43427007"
+      "2025-03-20, 17:27:46",
+      "https://news.ycombinator.com/item?id=43426164"
     ],
     [
-      "We Should Own the Economy",
-      "https://www.elysian.press/p/we-should-own-the-economy"
-    ]
-  ],
-  [
-    [
-      "2025-03-20, 18:03:02",
-      "https://news.ycombinator.com/item?id=43426697"
-    ],
-    [
-      "TruffleRuby 24.2.0",
-      "https://github.com/oracle/truffleruby/releases/tag/graal-24.2.0"
+      "Show HN: AgentKit – JavaScript Alternative to OpenAI Agents SDK with Native MCP",
+      "https://github.com/inngest/agent-kit"
     ]
   ],
   [
@@ -77,6 +67,16 @@
     [
       "Claude can now search the web",
       "https://www.anthropic.com/news/web-search"
+    ]
+  ],
+  [
+    [
+      "2025-03-20, 16:49:18",
+      "https://news.ycombinator.com/item?id=43425623"
+    ],
+    [
+      "A Deep Dive into MCP and the Future of AI Tooling",
+      "https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-03-20, 04:37:09",
-      "https://news.ycombinator.com/item?id=43419928"
-    ],
-    [
-      "Austral: A Systems Language with Linear Types and Capabilities (2022)",
-      "https://borretti.me/article/introducing-austral"
-    ]
-  ],
-  [
-    [
       "2025-03-20, 03:37:31",
       "https://news.ycombinator.com/item?id=43419701"
     ],
@@ -267,6 +257,16 @@
     [
       "Bolt3D: Generating 3D Scenes in Seconds",
       "https://szymanowiczs.github.io/bolt3d"
+    ]
+  ],
+  [
+    [
+      "2025-03-18, 13:23:57",
+      "https://news.ycombinator.com/item?id=43399170"
+    ],
+    [
+      "Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries (20",
+      "https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/"
     ]
   ],
   [
