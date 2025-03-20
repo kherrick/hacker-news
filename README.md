@@ -11,7 +11,6 @@
 * [2025-03-20, 16:47:17](https://news.ycombinator.com/item?id=43425605) - [CVE-2024-54471: Leaking Passwords (and More!) on macOS](https://wts.dev/posts/password-leak/)
 * [2025-03-20, 14:33:28](https://news.ycombinator.com/item?id=43424065) - [ACARS Drama](https://acarsdrama.com/)
 * [2025-03-20, 13:57:30](https://news.ycombinator.com/item?id=43423523) - [Grease: An Open-Source Tool for Uncovering Hidden Vulnerabilities in Binary Code](https://www.galois.com/articles/introducing-grease)
-* [2025-03-20, 13:41:35](https://news.ycombinator.com/item?id=43423238) - [Particle Based Physics Engine in Golang](https://github.com/rudransh61/Physix-go)
 * [2025-03-20, 13:21:34](https://news.ycombinator.com/item?id=43422909) - [Oxygen discovered in most distant known galaxy](https://www.eso.org/public/news/eso2507/)
 * [2025-03-20, 12:25:31](https://news.ycombinator.com/item?id=43422162) - [The Frontend Treadmill](https://polotek.net/posts/the-frontend-treadmill/)
 * [2025-03-20, 12:09:32](https://news.ycombinator.com/item?id=43422033) - [Understanding Solar Energy](https://www.construction-physics.com/p/understanding-solar-energy)
@@ -28,6 +27,7 @@
 * [2025-03-18, 11:04:52](https://news.ycombinator.com/item?id=43397973) - [Going from an Idea to MVP in Weeks: PromptPanda's Launch(es)](https://docs.opensaas.sh/blog/2025-03-12-going-from-an-idea-to-mvp-in-weeks-promptpandas-launches/)
 * [2025-03-18, 05:57:56](https://news.ycombinator.com/item?id=43396172) - [Build a Container Image from Scratch](https://danishpraka.sh/posts/build-a-container-image-from-scratch/)
 * [2025-03-17, 18:35:41](https://news.ycombinator.com/item?id=43391452) - [Want even tinier chips? Use a particle accelerator](https://www.economist.com/science-and-technology/2025/03/12/want-even-tinier-chips-use-a-particle-accelerator)
+* [2025-03-17, 12:53:52](https://news.ycombinator.com/item?id=43388024) - [McLaren Invented New Carbon Fiber Tape to Build Even More Complex Parts](https://www.thedrive.com/news/mclaren-invented-new-carbon-fiber-tape-to-build-even-more-complex-parts)
 * [2025-03-17, 10:40:05](https://news.ycombinator.com/item?id=43386973) - ['Dark oxygen': a deep-sea discovery that has split scientists](https://phys.org/news/2025-03-dark-oxygen-deep-sea-discovery.html)
 * [2025-03-17, 02:42:16](https://news.ycombinator.com/item?id=43384697) - [Next generation LEDs are cheap and sustainable](https://liu.se/en/news-item/nasta-generations-lysdioder-ar-billiga-och-miljovanliga)
 

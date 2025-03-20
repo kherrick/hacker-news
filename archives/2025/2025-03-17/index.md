@@ -38,6 +38,7 @@
 * [2025-03-17, 13:19:37](https://news.ycombinator.com/item?id=43388296) - [Undergraduate Disproves 40-Year-Old Conjecture, Invents New Kind of Hash Table](https://www.wired.com/story/undergraduate-upends-a-40-year-old-data-science-conjecture/)
 * [2025-03-17, 13:11:33](https://news.ycombinator.com/item?id=43388221) - [Raspberry Pi RP2350 Now Available for Purchase, Stacked Memory Variant Coming](https://www.phoronix.com/news/Raspberry-Pi-RP2350-Buy)
 * [2025-03-17, 13:03:52](https://news.ycombinator.com/item?id=43388133) - [Rippling sues Deel over spying](https://twitter.com/parkerconrad/status/1901615179718406276)
+* [2025-03-17, 12:53:52](https://news.ycombinator.com/item?id=43388024) - [McLaren Invented New Carbon Fiber Tape to Build Even More Complex Parts](https://www.thedrive.com/news/mclaren-invented-new-carbon-fiber-tape-to-build-even-more-complex-parts)
 * [2025-03-17, 12:51:00](https://news.ycombinator.com/item?id=43387997) - [Leprechauns of Software Engineering](https://markgreville.ie/2025/03/17/book-review-leprechauns-of-software-engineering/)
 * [2025-03-17, 12:44:34](https://news.ycombinator.com/item?id=43387936) - [Bambu Labs launches 3D-printable toys with reusable electronics](https://www.theverge.com/news/631060/bambu-labs-makerworld-cyberbrick-3d-printed-toys-programmable-kickstarter)
 * [2025-03-17, 12:35:16](https://news.ycombinator.com/item?id=43387834) - [Show HN: A bi-directional, persisted KV store that is faster than Redis](https://hpkv.io)
