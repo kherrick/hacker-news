@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-20](index.md)
 
+* [2025-03-20, 04:37:09](https://news.ycombinator.com/item?id=43419928) - [Austral: A Systems Language with Linear Types and Capabilities (2022)](https://borretti.me/article/introducing-austral)
 * [2025-03-20, 03:40:41](https://news.ycombinator.com/item?id=43419713) - [Fetch-MCP: Playwright-Based MCP Server with Batch URL Fetching Support](https://github.com/jae-jae/fetch-mcp)
 * [2025-03-20, 03:37:31](https://news.ycombinator.com/item?id=43419701) - [The Pain That Is GitHub Actions](https://www.feldera.com/blog/the-pain-that-is-github-actions)
 * [2025-03-20, 02:58:48](https://news.ycombinator.com/item?id=43419545) - [Silicon Labs Shrinks Wireless SoCs to Extend BLE to Miniature Devices](https://www.allaboutcircuits.com/news/silicon-labs-shrinks-wireless-socs-to-extend-ble-to-miniature-devices/)
