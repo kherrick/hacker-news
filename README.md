@@ -5,7 +5,6 @@
 * [2025-03-20, 18:32:11](https://news.ycombinator.com/item?id=43427115) - [Google calls Gemma 3 the most powerful AI model you can run on one GPU](https://www.theverge.com/ai-artificial-intelligence/627968/google-gemma-3-open-ai-model)
 * [2025-03-20, 18:24:17](https://news.ycombinator.com/item?id=43427002) - [The Burnout Machine](https://unionize.fyi)
 * [2025-03-20, 17:18:00](https://news.ycombinator.com/item?id=43426022) - [OpenAI Audio Models](https://www.openai.fm/)
-* [2025-03-20, 17:01:50](https://news.ycombinator.com/item?id=43425774) - [Next-generation audio models in the API](https://openai.com/index/introducing-our-next-generation-audio-models)
 * [2025-03-20, 17:01:08](https://news.ycombinator.com/item?id=43425766) - [Pump.co (YC S22) Is Hiring](https://www.ycombinator.com/companies/pump-co/jobs/7kB7DNb-email-outreach-manager)
 * [2025-03-20, 16:51:12](https://news.ycombinator.com/item?id=43425655) - [Claude can now search the web](https://www.anthropic.com/news/web-search)
 * [2025-03-20, 16:47:17](https://news.ycombinator.com/item?id=43425605) - [CVE-2024-54471: Leaking Passwords (and More!) on macOS](https://wts.dev/posts/password-leak/)
@@ -30,6 +29,7 @@
 * [2025-03-18, 05:57:56](https://news.ycombinator.com/item?id=43396172) - [Build a Container Image from Scratch](https://danishpraka.sh/posts/build-a-container-image-from-scratch/)
 * [2025-03-17, 18:35:41](https://news.ycombinator.com/item?id=43391452) - [Want even tinier chips? Use a particle accelerator](https://www.economist.com/science-and-technology/2025/03/12/want-even-tinier-chips-use-a-particle-accelerator)
 * [2025-03-17, 10:40:05](https://news.ycombinator.com/item?id=43386973) - ['Dark oxygen': a deep-sea discovery that has split scientists](https://phys.org/news/2025-03-dark-oxygen-deep-sea-discovery.html)
+* [2025-03-17, 02:42:16](https://news.ycombinator.com/item?id=43384697) - [Next generation LEDs are cheap and sustainable](https://liu.se/en/news-item/nasta-generations-lysdioder-ar-billiga-och-miljovanliga)
 
 ## [Archives](archives/index.md)
 
