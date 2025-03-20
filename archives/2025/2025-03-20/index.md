@@ -19,6 +19,7 @@
 * [2025-03-20, 17:08:27](https://news.ycombinator.com/item?id=43425876) - [OpenAI uses open source Ory to authenticate over 400M weekly active users](https://www.ory.sh/blog/openai-oauth2-server-open-source)
 * [2025-03-20, 17:07:22](https://news.ycombinator.com/item?id=43425856) - [Stellar Blockchain Accounts](https://blog.biggertech.co/blog/article/accounts)
 * [2025-03-20, 17:06:27](https://news.ycombinator.com/item?id=43425841) - [French scientist denied entry into the U.S., French government says](https://www.reuters.com/world/french-scientist-denied-entry-into-us-french-government-says-2025-03-20/)
+* [2025-03-20, 17:01:50](https://news.ycombinator.com/item?id=43425774) - [Next-generation audio models in the API](https://openai.com/index/introducing-our-next-generation-audio-models)
 * [2025-03-20, 17:01:08](https://news.ycombinator.com/item?id=43425766) - [Pump.co (YC S22) Is Hiring](https://www.ycombinator.com/companies/pump-co/jobs/7kB7DNb-email-outreach-manager)
 * [2025-03-20, 16:51:12](https://news.ycombinator.com/item?id=43425655) - [Claude can now search the web](https://www.anthropic.com/news/web-search)
 * [2025-03-20, 16:49:18](https://news.ycombinator.com/item?id=43425623) - [A Deep Dive into MCP and the Future of AI Tooling](https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/)
