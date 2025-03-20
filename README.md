@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-20, 22:35:33](https://news.ycombinator.com/item?id=43429828) - [Executive Order Shutting Down Department of Education](https://www.whitehouse.gov/presidential-actions/2025/03/improving-education-outcomes-by-empowering-parents-states-and-communities/)
 * [2025-03-20, 21:54:17](https://news.ycombinator.com/item?id=43429417) - [Retro Boy: simple Game Boy emulator written in Rust, can be played on the web](https://github.com/smparsons/retroboy)
 * [2025-03-20, 21:51:40](https://news.ycombinator.com/item?id=43429396) - [Appeals court rules that Constitution protects possession of AI-generated CSAM](https://www.techpolicy.press/court-rules-that-constitution-protects-private-possession-of-aigenerated-csam/)
 * [2025-03-20, 19:33:30](https://news.ycombinator.com/item?id=43427850) - [Show HN: Minimalytics – a standalone minimal analytics app built on SQLite](https://github.com/nafey/minimalytics)
@@ -19,7 +20,6 @@
 * [2025-03-20, 08:00:54](https://news.ycombinator.com/item?id=43420683) - [Minding the gaps: A new way to draw separators in CSS](https://blogs.windows.com/msedgedev/2025/03/19/minding-the-gaps-a-new-way-to-draw-separators-in-css/)
 * [2025-03-20, 07:58:57](https://news.ycombinator.com/item?id=43420678) - [Show HN: I built a MCP server so Claude can play Minesweeper](https://github.com/tonypan2/minesweeper-mcp-server)
 * [2025-03-20, 05:42:21](https://news.ycombinator.com/item?id=43420152) - [How I accepted myself into Canada's largest AI hackathon](https://fastcall.dev/posts/genai-genesis-firebase/)
-* [2025-03-20, 04:57:12](https://news.ycombinator.com/item?id=43419996) - ['More than a hint' that dark energy isn't what astronomers thought](https://www.nytimes.com/2025/03/19/science/space/astronomer-desi-dark-energy.html)
 * [2025-03-20, 03:37:31](https://news.ycombinator.com/item?id=43419701) - [The Pain That Is GitHub Actions](https://www.feldera.com/blog/the-pain-that-is-github-actions)
 * [2025-03-20, 01:58:47](https://news.ycombinator.com/item?id=43419240) - [SoftBank Group to Acquire Ampere Computing for 6.5B](https://group.softbank/en/news/press/20250320)
 * [2025-03-20, 01:58:29](https://news.ycombinator.com/item?id=43419237) - [Hunyuan3D-2-Turbo: fast high-quality shape generation in ~1s on a 4090](https://github.com/Tencent/Hunyuan3D-2/commit/baab8ba18e46052246f85a2d0f48736586b84a33)
