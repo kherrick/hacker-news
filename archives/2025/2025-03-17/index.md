@@ -70,3 +70,4 @@
 * [2025-03-17, 02:48:30](https://news.ycombinator.com/item?id=43384730) - [Brown University Professor Is Deported Despite a Judge's Order](https://www.nytimes.com/2025/03/16/us/brown-university-rasha-alawieh-professor-deported.html)
 * [2025-03-17, 01:43:59](https://news.ycombinator.com/item?id=43384402) - [Dioxus – Fullstack crossplatform app framework for Rust](https://dioxuslabs.com/)
 * [2025-03-17, 00:48:48](https://news.ycombinator.com/item?id=43384069) - [Sunsetting Whois](https://www.icann.org/en/announcements/details/icann-update-launching-rdap-sunsetting-whois-27-01-2025-en)
+* [2025-03-17, 00:42:51](https://news.ycombinator.com/item?id=43384035) - [How 'inference' is driving competition to Nvidia's AI chip dominance](https://www.ft.com/content/d5c638ad-8d34-4884-a08c-a551588a9a28)
