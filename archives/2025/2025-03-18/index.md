@@ -46,6 +46,7 @@
 * [2025-03-18, 14:24:04](https://news.ycombinator.com/item?id=43399811) - [The Failure Rate of EBS](https://planetscale.com/blog/the-real-fail-rate-of-ebs)
 * [2025-03-18, 13:29:53](https://news.ycombinator.com/item?id=43399227) - [UK wants dirt on data brokers before criminals get there first](https://www.theregister.com/2025/03/18/uk_data_broker_inquiry/)
 * [2025-03-18, 13:25:46](https://news.ycombinator.com/item?id=43399190) - [North Korea Launders Billions in Stolen Crypto](https://www.coindesk.com/policy/2025/03/07/here-s-how-north-korea-launders-billions-of-stolen-crypto)
+* [2025-03-18, 13:23:57](https://news.ycombinator.com/item?id=43399170) - [Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries (20](https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/)
 * [2025-03-18, 13:23:43](https://news.ycombinator.com/item?id=43399168) - [Half-Life 2 RTX](https://store.steampowered.com/app/2477290/HalfLife_2_RTX/)
 * [2025-03-18, 13:21:22](https://news.ycombinator.com/item?id=43399138) - [Wired is dropping paywalls for FOIA-based reporting. Others should follow](https://freedom.press/issues/wired-is-dropping-paywalls-for-foia-based-reporting-others-should-follow/)
 * [2025-03-18, 13:08:20](https://news.ycombinator.com/item?id=43399000) - ['Dogequest' Site Claims to Dox Tesla Owners Across the U.S.](https://www.404media.co/dogequest-site-claims-to-dox-tesla-owners-across-the-u-s/)
