@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-03-20, 08:37:35",
+      "https://news.ycombinator.com/item?id=43420892"
+    ],
+    [
+      "Stelvio: Serverless AWS for Python Devs",
+      "https://github.com/michal-stlv/stelvio"
+    ]
+  ],
+  [
+    [
       "2025-03-20, 08:00:54",
       "https://news.ycombinator.com/item?id=43420683"
     ],
     [
       "Minding the gaps: A new way to draw separators in CSS",
       "https://blogs.windows.com/msedgedev/2025/03/19/minding-the-gaps-a-new-way-to-draw-separators-in-css/"
+    ]
+  ],
+  [
+    [
+      "2025-03-20, 07:58:57",
+      "https://news.ycombinator.com/item?id=43420678"
+    ],
+    [
+      "Show HN: I built a MCP server so Claude can play Minesweeper",
+      "https://github.com/tonypan2/minesweeper-mcp-server"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "Hunyuan3D-2-Turbo: fast high-quality shape generation in ~1s on a 4090",
       "https://github.com/Tencent/Hunyuan3D-2/commit/baab8ba18e46052246f85a2d0f48736586b84a33"
-    ]
-  ],
-  [
-    [
-      "2025-03-20, 01:47:31",
-      "https://news.ycombinator.com/item?id=43419187"
-    ],
-    [
-      "PackagePhobia – Find the cost of adding a new dev dependency to your project",
-      "https://packagephobia.com/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "How My Six Months Working on the Railway Changed My Life",
       "https://www.theatlantic.com/magazine/archive/2025/04/canadian-national-railroad-graydon-carter/681770/"
-    ]
-  ],
-  [
-    [
-      "2025-03-16, 12:44:11",
-      "https://news.ycombinator.com/item?id=43378587"
-    ],
-    [
-      "How I got 100% off my train travel",
-      "https://readbunce.com/p/how-i-got-100-off-my-train-travel"
     ]
   ],
   [
