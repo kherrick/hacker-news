@@ -40,6 +40,7 @@
 * [2025-03-17, 12:44:34](https://news.ycombinator.com/item?id=43387936) - [Bambu Labs launches 3D-printable toys with reusable electronics](https://www.theverge.com/news/631060/bambu-labs-makerworld-cyberbrick-3d-printed-toys-programmable-kickstarter)
 * [2025-03-17, 12:35:16](https://news.ycombinator.com/item?id=43387834) - [Show HN: A bi-directional, persisted KV store that is faster than Redis](https://hpkv.io)
 * [2025-03-17, 12:22:15](https://news.ycombinator.com/item?id=43387718) - [22% Drop in Programming Jobs](https://www.washingtonpost.com/business/2025/03/14/programming-jobs-lost-artificial-intelligence/)
+* [2025-03-17, 12:15:02](https://news.ycombinator.com/item?id=43387661) - [7159997483.com](https://7159997483.com/)
 * [2025-03-17, 12:10:04](https://news.ycombinator.com/item?id=43387626) - [Configure Azure Entra ID as IdP on Keycloak](https://blog.ght1pc9kc.fr/en/2023/configure-azure-entra-id-as-idp-on-keycloak/)
 * [2025-03-17, 12:00:59](https://news.ycombinator.com/item?id=43387574) - [Nango (YC W23, Product Integrations Platform) Is Hiring Remote Engineers](https://www.nango.dev/careers)
 * [2025-03-17, 11:53:47](https://news.ycombinator.com/item?id=43387514) - [Scientists discover first known animal that doesn't breathe](https://www.livescience.com/first-non-breathing-animal.html)

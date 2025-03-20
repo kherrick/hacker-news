@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-03-20](index.md)
 
+* [2025-03-20, 14:33:28](https://news.ycombinator.com/item?id=43424065) - [ACARS Drama](https://acarsdrama.com/)
+* [2025-03-20, 13:41:35](https://news.ycombinator.com/item?id=43423238) - [Particle Based Physics Engine in Golang](https://github.com/rudransh61/Physix-go)
 * [2025-03-20, 13:39:43](https://news.ycombinator.com/item?id=43423201) - [Tesla falls after Commerce secretary recommends buying stock](https://www.axios.com/2025/03/20/tesla-musk-lutnick)
+* [2025-03-20, 13:28:44](https://news.ycombinator.com/item?id=43423032) - [The Last Drops of Mexico City](https://mexicocitywater.longlead.com)
 * [2025-03-20, 13:24:32](https://news.ycombinator.com/item?id=43422965) - [Plex no Longer Offers Free Remote Playback for Personal Media](https://www.macrumors.com/2025/03/19/plex-price-increase/)
+* [2025-03-20, 13:21:34](https://news.ycombinator.com/item?id=43422909) - [Oxygen discovered in most distant known galaxy](https://www.eso.org/public/news/eso2507/)
 * [2025-03-20, 13:00:42](https://news.ycombinator.com/item?id=43422556) - [Greenpeace must pay over $660M in case over Dakota Access protest activities](https://apnews.com/article/greenpeace-dakota-access-pipeline-lawsuit-verdict-5036944c1d2e7d3d7b704437e8110fbb)
 * [2025-03-20, 13:00:24](https://news.ycombinator.com/item?id=43422551) - [Tourist in US chained 'like Hannibal Lecter'](https://www.bbc.co.uk/news/articles/cly67j35y99o)
 * [2025-03-20, 12:50:49](https://news.ycombinator.com/item?id=43422413) - [FOSS infrastructure is under attack by AI companies](https://thelibre.news/foss-infrastructure-is-under-attack-by-ai-companies/)

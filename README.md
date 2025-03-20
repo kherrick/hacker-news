@@ -1,5 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-20, 14:33:28](https://news.ycombinator.com/item?id=43424065) - [ACARS Drama](https://acarsdrama.com/)
+* [2025-03-20, 13:41:35](https://news.ycombinator.com/item?id=43423238) - [Particle Based Physics Engine in Golang](https://github.com/rudransh61/Physix-go)
+* [2025-03-20, 13:28:44](https://news.ycombinator.com/item?id=43423032) - [The Last Drops of Mexico City](https://mexicocitywater.longlead.com)
+* [2025-03-20, 13:21:34](https://news.ycombinator.com/item?id=43422909) - [Oxygen discovered in most distant known galaxy](https://www.eso.org/public/news/eso2507/)
 * [2025-03-20, 12:50:49](https://news.ycombinator.com/item?id=43422413) - [FOSS infrastructure is under attack by AI companies](https://thelibre.news/foss-infrastructure-is-under-attack-by-ai-companies/)
 * [2025-03-20, 12:09:32](https://news.ycombinator.com/item?id=43422033) - [Understanding Solar Energy](https://www.construction-physics.com/p/understanding-solar-energy)
 * [2025-03-20, 12:01:05](https://news.ycombinator.com/item?id=43421979) - [Sieve (YC W22) Is Hiring Engineers to Build the Future of Video AI](https://www.sievedata.com/)
@@ -12,7 +16,6 @@
 * [2025-03-20, 04:37:09](https://news.ycombinator.com/item?id=43419928) - [Austral: A Systems Language with Linear Types and Capabilities (2022)](https://borretti.me/article/introducing-austral)
 * [2025-03-20, 03:37:31](https://news.ycombinator.com/item?id=43419701) - [The Pain That Is GitHub Actions](https://www.feldera.com/blog/the-pain-that-is-github-actions)
 * [2025-03-20, 02:58:48](https://news.ycombinator.com/item?id=43419545) - [Silicon Labs Shrinks Wireless SoCs to Extend BLE to Miniature Devices](https://www.allaboutcircuits.com/news/silicon-labs-shrinks-wireless-socs-to-extend-ble-to-miniature-devices/)
-* [2025-03-20, 02:25:18](https://news.ycombinator.com/item?id=43419365) - [GPascal – A Blast from the Past (2011)](https://www.gammon.com.au/forum/?id=11203)
 * [2025-03-20, 01:58:47](https://news.ycombinator.com/item?id=43419240) - [SoftBank Group to Acquire Ampere Computing for 6.5B](https://group.softbank/en/news/press/20250320)
 * [2025-03-20, 01:58:29](https://news.ycombinator.com/item?id=43419237) - [Hunyuan3D-2-Turbo: fast high-quality shape generation in ~1s on a 4090](https://github.com/Tencent/Hunyuan3D-2/commit/baab8ba18e46052246f85a2d0f48736586b84a33)
 * [2025-03-19, 23:08:08](https://news.ycombinator.com/item?id=43418184) - [DESI Opens Access to the Largest 3D Map of the Universe Yet](https://newscenter.lbl.gov/2025/03/19/desi-opens-access-to-the-largest-3d-map-of-the-universe-yet/)
@@ -24,12 +27,9 @@
 * [2025-03-19, 16:34:45](https://news.ycombinator.com/item?id=43414235) - [Fine-tune Google's Gemma 3](https://unsloth.ai/blog/gemma3)
 * [2025-03-19, 16:13:20](https://news.ycombinator.com/item?id=43413935) - [How fast the days are getting longer (2023)](https://joe-antognini.github.io/astronomy/daylight)
 * [2025-03-18, 12:09:51](https://news.ycombinator.com/item?id=43398434) - [Diagrams AI can, and cannot, generate](https://www.ilograph.com/blog/posts/diagrams-ai-can-and-cannot-generate/)
+* [2025-03-17, 12:15:02](https://news.ycombinator.com/item?id=43387661) - [7159997483.com](https://7159997483.com/)
 * [2025-03-17, 10:40:05](https://news.ycombinator.com/item?id=43386973) - ['Dark oxygen': a deep-sea discovery that has split scientists](https://phys.org/news/2025-03-dark-oxygen-deep-sea-discovery.html)
-* [2025-03-17, 04:10:08](https://news.ycombinator.com/item?id=43385127) - [Restoring Faith: Crete's Ancient Minoan Civilisation (2009)](https://www.historytoday.com/archive/feature/restoring-faith-cretes-ancient-minoan-civilisation)
-* [2025-03-16, 14:04:44](https://news.ycombinator.com/item?id=43379173) - [How My Six Months Working on the Railway Changed My Life](https://www.theatlantic.com/magazine/archive/2025/04/canadian-national-railroad-graydon-carter/681770/)
 * [2025-03-16, 12:05:53](https://news.ycombinator.com/item?id=43378358) - [Muons used to test the condition of a road bridge in Estonia](https://news.err.ee/1609634600/muons-used-to-test-the-condition-of-a-road-bridge-in-estonia)
-* [2025-03-16, 11:42:20](https://news.ycombinator.com/item?id=43378252) - [Elastic Restaking Networks](https://arxiv.org/abs/2503.00170)
-* [2025-03-13, 18:29:19](https://news.ycombinator.com/item?id=43356016) - [Show HN: Codemcp – Claude Code for Claude Pro subscribers – ditch API bills](https://github.com/ezyang/codemcp)
 
 ## [Archives](archives/index.md)
 
