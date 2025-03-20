@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-20](index.md)
 
+* [2025-03-20, 18:24:26](https://news.ycombinator.com/item?id=43427007) - [We Should Own the Economy](https://www.elysian.press/p/we-should-own-the-economy)
+* [2025-03-20, 18:03:02](https://news.ycombinator.com/item?id=43426697) - [TruffleRuby 24.2.0](https://github.com/oracle/truffleruby/releases/tag/graal-24.2.0)
 * [2025-03-20, 17:26:36](https://news.ycombinator.com/item?id=43426142) - [Doge Social Security Closures: Recipients Need to Visit Offices to Get Benefits](https://gizmodo.com/u-s-says-social-security-recipients-need-to-visit-offices-to-get-benefits-as-doge-closes-offices-nationwide-2000578129)
 * [2025-03-20, 17:18:00](https://news.ycombinator.com/item?id=43426022) - [OpenAI Audio Models](https://www.openai.fm/)
 * [2025-03-20, 17:11:57](https://news.ycombinator.com/item?id=43425935) - [The Asus Ascent GX10 a Nvidia GB10 Mini PC with 128GB of Memory and 200GbE](https://www.servethehome.com/this-is-the-asus-ascent-gx10-a-nvidia-gb10-mini-pc-with-128gb-of-memory-and-200gbe/)

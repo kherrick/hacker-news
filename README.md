@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-20, 18:24:26](https://news.ycombinator.com/item?id=43427007) - [We Should Own the Economy](https://www.elysian.press/p/we-should-own-the-economy)
+* [2025-03-20, 18:03:02](https://news.ycombinator.com/item?id=43426697) - [TruffleRuby 24.2.0](https://github.com/oracle/truffleruby/releases/tag/graal-24.2.0)
 * [2025-03-20, 17:18:00](https://news.ycombinator.com/item?id=43426022) - [OpenAI Audio Models](https://www.openai.fm/)
 * [2025-03-20, 17:11:57](https://news.ycombinator.com/item?id=43425935) - [The Asus Ascent GX10 a Nvidia GB10 Mini PC with 128GB of Memory and 200GbE](https://www.servethehome.com/this-is-the-asus-ascent-gx10-a-nvidia-gb10-mini-pc-with-128gb-of-memory-and-200gbe/)
 * [2025-03-20, 17:08:27](https://news.ycombinator.com/item?id=43425876) - [OpenAI uses open source Ory to authenticate over 400M weekly active users](https://www.ory.sh/blog/openai-oauth2-server-open-source)
@@ -13,7 +15,6 @@
 * [2025-03-20, 13:41:35](https://news.ycombinator.com/item?id=43423238) - [Particle Based Physics Engine in Golang](https://github.com/rudransh61/Physix-go)
 * [2025-03-20, 13:28:44](https://news.ycombinator.com/item?id=43423032) - [The Last Drops of Mexico City](https://mexicocitywater.longlead.com)
 * [2025-03-20, 13:21:34](https://news.ycombinator.com/item?id=43422909) - [Oxygen discovered in most distant known galaxy](https://www.eso.org/public/news/eso2507/)
-* [2025-03-20, 12:50:49](https://news.ycombinator.com/item?id=43422413) - [FOSS infrastructure is under attack by AI companies](https://thelibre.news/foss-infrastructure-is-under-attack-by-ai-companies/)
 * [2025-03-20, 12:25:31](https://news.ycombinator.com/item?id=43422162) - [The Frontend Treadmill](https://polotek.net/posts/the-frontend-treadmill/)
 * [2025-03-20, 12:09:32](https://news.ycombinator.com/item?id=43422033) - [Understanding Solar Energy](https://www.construction-physics.com/p/understanding-solar-energy)
 * [2025-03-20, 11:55:13](https://news.ycombinator.com/item?id=43421934) - [Powers of 2 with all even digits](https://oeis.org/A068994)
@@ -26,7 +27,6 @@
 * [2025-03-20, 01:58:47](https://news.ycombinator.com/item?id=43419240) - [SoftBank Group to Acquire Ampere Computing for 6.5B](https://group.softbank/en/news/press/20250320)
 * [2025-03-20, 01:58:29](https://news.ycombinator.com/item?id=43419237) - [Hunyuan3D-2-Turbo: fast high-quality shape generation in ~1s on a 4090](https://github.com/Tencent/Hunyuan3D-2/commit/baab8ba18e46052246f85a2d0f48736586b84a33)
 * [2025-03-19, 22:30:56](https://news.ycombinator.com/item?id=43417932) - [Bolt3D: Generating 3D Scenes in Seconds](https://szymanowiczs.github.io/bolt3d)
-* [2025-03-19, 21:29:13](https://news.ycombinator.com/item?id=43417511) - [LLM Agents Are Simply Graph – Tutorial for Dummies](https://zacharyhuang.substack.com/p/llm-agent-internal-as-a-graph-tutorial)
 * [2025-03-18, 12:09:51](https://news.ycombinator.com/item?id=43398434) - [Diagrams AI can, and cannot, generate](https://www.ilograph.com/blog/posts/diagrams-ai-can-and-cannot-generate/)
 * [2025-03-17, 21:25:37](https://news.ycombinator.com/item?id=43392875) - [Show HN: We made a photo search engine for homes for sale](https://news.ycombinator.com/item?id=43392875)
 * [2025-03-17, 10:40:05](https://news.ycombinator.com/item?id=43386973) - ['Dark oxygen': a deep-sea discovery that has split scientists](https://phys.org/news/2025-03-dark-oxygen-deep-sea-discovery.html)
