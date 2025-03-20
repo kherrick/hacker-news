@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-20, 18:38:12](https://news.ycombinator.com/item?id=43427197) - [SAR-DT Reveals Internal Structure of the Great Pyramid of Giza](https://www.mdpi.com/2072-4292/14/20/5231)
+* [2025-03-20, 18:32:11](https://news.ycombinator.com/item?id=43427115) - [Google calls Gemma 3 the most powerful AI model you can run on one GPU](https://www.theverge.com/ai-artificial-intelligence/627968/google-gemma-3-open-ai-model)
 * [2025-03-20, 17:48:36](https://news.ycombinator.com/item?id=43426468) - [The F-35 as a Subscription Service](https://xxtomcooperxx.substack.com/p/the-f-35-as-a-subscription-service)
 * [2025-03-20, 17:27:46](https://news.ycombinator.com/item?id=43426164) - [Show HN: AgentKit – JavaScript Alternative to OpenAI Agents SDK with Native MCP](https://github.com/inngest/agent-kit)
 * [2025-03-20, 17:18:00](https://news.ycombinator.com/item?id=43426022) - [OpenAI Audio Models](https://www.openai.fm/)
@@ -25,7 +26,6 @@
 * [2025-03-20, 01:58:47](https://news.ycombinator.com/item?id=43419240) - [SoftBank Group to Acquire Ampere Computing for 6.5B](https://group.softbank/en/news/press/20250320)
 * [2025-03-20, 01:58:29](https://news.ycombinator.com/item?id=43419237) - [Hunyuan3D-2-Turbo: fast high-quality shape generation in ~1s on a 4090](https://github.com/Tencent/Hunyuan3D-2/commit/baab8ba18e46052246f85a2d0f48736586b84a33)
 * [2025-03-19, 22:30:56](https://news.ycombinator.com/item?id=43417932) - [Bolt3D: Generating 3D Scenes in Seconds](https://szymanowiczs.github.io/bolt3d)
-* [2025-03-19, 16:50:05](https://news.ycombinator.com/item?id=43414405) - [Launch HN: Modernbanc (YC W20) – Modern and fast accounting software](https://news.ycombinator.com/item?id=43414405)
 * [2025-03-18, 13:23:57](https://news.ycombinator.com/item?id=43399170) - [Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries (20](https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/)
 * [2025-03-18, 12:09:51](https://news.ycombinator.com/item?id=43398434) - [Diagrams AI can, and cannot, generate](https://www.ilograph.com/blog/posts/diagrams-ai-can-and-cannot-generate/)
 * [2025-03-17, 21:25:37](https://news.ycombinator.com/item?id=43392875) - [Show HN: We made a photo search engine for homes for sale](https://news.ycombinator.com/item?id=43392875)
