@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-20, 14:33:28](https://news.ycombinator.com/item?id=43424065) - [ACARS Drama](https://acarsdrama.com/)
+* [2025-03-20, 13:57:30](https://news.ycombinator.com/item?id=43423523) - [Grease: An Open-Source Tool for Uncovering Hidden Vulnerabilities in Binary Code](https://www.galois.com/articles/introducing-grease)
 * [2025-03-20, 13:41:35](https://news.ycombinator.com/item?id=43423238) - [Particle Based Physics Engine in Golang](https://github.com/rudransh61/Physix-go)
 * [2025-03-20, 13:28:44](https://news.ycombinator.com/item?id=43423032) - [The Last Drops of Mexico City](https://mexicocitywater.longlead.com)
 * [2025-03-20, 13:21:34](https://news.ycombinator.com/item?id=43422909) - [Oxygen discovered in most distant known galaxy](https://www.eso.org/public/news/eso2507/)
@@ -20,7 +21,6 @@
 * [2025-03-20, 01:58:29](https://news.ycombinator.com/item?id=43419237) - [Hunyuan3D-2-Turbo: fast high-quality shape generation in ~1s on a 4090](https://github.com/Tencent/Hunyuan3D-2/commit/baab8ba18e46052246f85a2d0f48736586b84a33)
 * [2025-03-19, 23:08:08](https://news.ycombinator.com/item?id=43418184) - [DESI Opens Access to the Largest 3D Map of the Universe Yet](https://newscenter.lbl.gov/2025/03/19/desi-opens-access-to-the-largest-3d-map-of-the-universe-yet/)
 * [2025-03-19, 22:30:56](https://news.ycombinator.com/item?id=43417932) - [Bolt3D: Generating 3D Scenes in Seconds](https://szymanowiczs.github.io/bolt3d)
-* [2025-03-19, 22:26:39](https://news.ycombinator.com/item?id=43417894) - [Orpheus-3B – Emotive TTS by Canopy Labs](https://canopylabs.ai/model-releases)
 * [2025-03-19, 21:29:13](https://news.ycombinator.com/item?id=43417511) - [LLM Agents Are Simply Graph – Tutorial for Dummies](https://zacharyhuang.substack.com/p/llm-agent-internal-as-a-graph-tutorial)
 * [2025-03-19, 16:50:05](https://news.ycombinator.com/item?id=43414405) - [Launch HN: Modernbanc (YC W20) – Modern and fast accounting software](https://news.ycombinator.com/item?id=43414405)
 * [2025-03-19, 16:48:32](https://news.ycombinator.com/item?id=43414393) - [AI Blindspots – Blindspots in LLMs I've noticed while AI coding](https://ezyang.github.io/ai-blindspots/)
