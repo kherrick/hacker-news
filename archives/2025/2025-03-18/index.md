@@ -55,6 +55,7 @@
 * [2025-03-18, 12:53:00](https://news.ycombinator.com/item?id=43398837) - [AI crawlers haven't learned to play nice with websites](https://www.theregister.com/2025/03/18/ai_crawlers_sourcehut/)
 * [2025-03-18, 12:47:30](https://news.ycombinator.com/item?id=43398780) - [Google announces agreement to acquire Wiz](https://blog.google/inside-google/company-announcements/google-agreement-acquire-wiz/)
 * [2025-03-18, 12:47:18](https://news.ycombinator.com/item?id=43398777) - [The Unofficial Guide to OpenAI Realtime WebRTC API](https://webrtchacks.com/the-unofficial-guide-to-openai-realtime-webrtc-api/)
+* [2025-03-18, 12:38:02](https://news.ycombinator.com/item?id=43398692) - [2FA or Not 2FA](http://mikhailian.mova.org/node/295)
 * [2025-03-18, 12:33:42](https://news.ycombinator.com/item?id=43398652) - [How I Stay Motivated Working on My Solo SaaS (When It Feels Like Nobody Cares)](https://news.ycombinator.com/item?id=43398652)
 * [2025-03-18, 12:25:52](https://news.ycombinator.com/item?id=43398589) - [Stamina Is a Quiet Advantage](https://kupajo.com/stamina-is-a-quiet-advantage/)
 * [2025-03-18, 12:25:16](https://news.ycombinator.com/item?id=43398579) - [Court filing: DOGE aide broke Treasury policy by emailing unencrypted database](https://www.theregister.com/2025/03/17/doge_treasury/)
