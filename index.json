@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-03-20, 03:40:41",
-      "https://news.ycombinator.com/item?id=43419713"
-    ],
-    [
-      "Fetch-MCP: Playwright-Based MCP Server with Batch URL Fetching Support",
-      "https://github.com/jae-jae/fetch-mcp"
-    ]
-  ],
-  [
-    [
       "2025-03-20, 03:37:31",
       "https://news.ycombinator.com/item?id=43419701"
     ],
@@ -221,16 +211,6 @@
   ],
   [
     [
-      "2025-03-18, 12:38:02",
-      "https://news.ycombinator.com/item?id=43398692"
-    ],
-    [
-      "2FA or Not 2FA",
-      "http://mikhailian.mova.org/node/295"
-    ]
-  ],
-  [
-    [
       "2025-03-18, 12:09:51",
       "https://news.ycombinator.com/item?id=43398434"
     ],
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2025-03-16, 12:44:11",
+      "https://news.ycombinator.com/item?id=43378587"
+    ],
+    [
+      "How I got 100% off my train travel",
+      "https://readbunce.com/p/how-i-got-100-off-my-train-travel"
+    ]
+  ],
+  [
+    [
       "2025-03-16, 12:05:53",
       "https://news.ycombinator.com/item?id=43378358"
     ],
@@ -297,6 +287,16 @@
     [
       "Elastic Restaking Networks",
       "https://arxiv.org/abs/2503.00170"
+    ]
+  ],
+  [
+    [
+      "2025-03-13, 18:29:19",
+      "https://news.ycombinator.com/item?id=43356016"
+    ],
+    [
+      "Show HN: Codemcp – Claude Code for Claude Pro subscribers – ditch API bills",
+      "https://github.com/ezyang/codemcp"
     ]
   ]
 ]
