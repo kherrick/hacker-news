@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-20](index.md)
 
+* [2025-03-20, 13:39:43](https://news.ycombinator.com/item?id=43423201) - [Tesla falls after Commerce secretary recommends buying stock](https://www.axios.com/2025/03/20/tesla-musk-lutnick)
 * [2025-03-20, 13:24:32](https://news.ycombinator.com/item?id=43422965) - [Plex no Longer Offers Free Remote Playback for Personal Media](https://www.macrumors.com/2025/03/19/plex-price-increase/)
 * [2025-03-20, 13:00:42](https://news.ycombinator.com/item?id=43422556) - [Greenpeace must pay over $660M in case over Dakota Access protest activities](https://apnews.com/article/greenpeace-dakota-access-pipeline-lawsuit-verdict-5036944c1d2e7d3d7b704437e8110fbb)
 * [2025-03-20, 13:00:24](https://news.ycombinator.com/item?id=43422551) - [Tourist in US chained 'like Hannibal Lecter'](https://www.bbc.co.uk/news/articles/cly67j35y99o)
@@ -12,6 +13,7 @@
 * [2025-03-20, 12:36:00](https://news.ycombinator.com/item?id=43422263) - [The Shitthropocene – Patagonia](https://www.patagonia.com/stories/the-shitthropocene/video-150905.html)
 * [2025-03-20, 12:25:31](https://news.ycombinator.com/item?id=43422162) - [The Front End Treadmill](https://polotek.net/posts/the-frontend-treadmill/)
 * [2025-03-20, 12:13:39](https://news.ycombinator.com/item?id=43422066) - [Building and deploying a custom site using GitHub Actions and GitHub Pages](https://til.simonwillison.net/github-actions/github-pages)
+* [2025-03-20, 12:09:32](https://news.ycombinator.com/item?id=43422033) - [Understanding Solar Energy](https://www.construction-physics.com/p/understanding-solar-energy)
 * [2025-03-20, 12:01:05](https://news.ycombinator.com/item?id=43421979) - [Sieve (YC W22) Is Hiring Engineers to Build the Future of Video AI](https://www.sievedata.com/)
 * [2025-03-20, 11:55:13](https://news.ycombinator.com/item?id=43421934) - [Powers of 2 with all even digits](https://oeis.org/A068994)
 * [2025-03-20, 11:51:22](https://news.ycombinator.com/item?id=43421902) - [Dutch Parliament: Time to ditch US tech for homegrown options](https://www.theregister.com/2025/03/19/dutch_parliament_us_tech/)
