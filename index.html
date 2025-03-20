@@ -129,46 +129,125 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="43427007">
+        <section id="43426164">
           <h3>
-            <a
-              class="item"
-              href="https://www.elysian.press/p/we-should-own-the-economy"
-              >We Should Own the Economy</a
+            <a class="item" href="https://github.com/inngest/agent-kit"
+              >Show HN: AgentKit – JavaScript Alternative to OpenAI Agents SDK
+              with Native MCP</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-03-20 @ 18:24:26</span
+              <span>2025-03-20 @ 17:27:46</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43427007"
+                ><a href="https://news.ycombinator.com/item?id=43426164"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="43426697">
-          <h3>
-            <a
-              class="item"
-              href="https://github.com/oracle/truffleruby/releases/tag/graal-24.2.0"
-              >TruffleRuby 24.2.0</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-03-20 @ 18:03:02</span
-              ><span class="points-container"
-                >Points: <span class="points">17</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43426697"
-                  >Comments</a
-                ><span class="descendants">: 0</span></span
-              >
-            </h4>
+            <div class="text">
+              <p>
+                Although OpenAI’s Agents SDK has been launched since, we think
+                an Agent framework should offer more deterministic and flexible
+                routing, work with multiple model providers, embrace MCP (for
+                rich tooling), and support the unstoppable and growing community
+                of TypeScript AI developers by enabling a smooth transition to
+                production use cases.
+              </p>
+              <p>
+                This is why we are building AgentKit, and we’re really excited
+                about it for a few reasons:
+              </p>
+              <p>
+                Firstly, it’s simple. We embrace KISS principles brought by
+                Anthropic and HuggingFace by allowing you to gradually add
+                autonomy to your AgentKit program using primitives:
+              </p>
+              <p>
+                - Agents: LLM calls that can be combined with prompts, tools,
+                and MCP native support.
+              </p>
+              <p>
+                - Networks: a simple way to get Agents to collaborate with a
+                shared State, including handoff.
+              </p>
+              <p>
+                - State: combines conversation history with a fully typed state
+                machine, used in routing.
+              </p>
+              <p>
+                - Routers: where the autonomy lives, from code-based to
+                LLM-based (ex: ReAct) orchestration
+              </p>
+              <p>
+                The routers are where the magic happens, and allow you to build
+                deterministic, reliable, testable agents.
+              </p>
+              <p>
+                AgentKit routing works as follows: the network calls itself in a
+                loop, inspecting the State to determine which agents to call
+                next using a router. The returned agent runs, then optionally
+                updates state data using its tools. On the next loop, the
+                network inspects state data and conversation history, and
+                determines which new agent to run.
+              </p>
+              <p>
+                This fully typed state machine routing allows you to
+                deterministically build agents using any of the effective agent
+                patterns — which means your code is easy to read, edit,
+                understand, and debug.
+              </p>
+              <p>
+                This also makes handoff incredibly easy: you define when agents
+                should hand off to each other using regular code and state (or
+                by calling an LLM in the router for AI-based routing). This is
+                similar to the OpenAI Agents SDK but easier to manage, plan, and
+                build.
+              </p>
+              <p>
+                Then comes the local development and moving to production
+                capabilities.
+              </p>
+              <p>
+                AgentKit is compatible with Inngest’s tooling, meaning that you
+                can test agents using Inngest’s local DevServer, which provides
+                traces, inputs, outputs, replay, tool, and MCP inputs and
+                outputs, and (soon) a step-over debugger so that you can easily
+                understand and visually see what's happening in the agent loop.
+              </p>
+              <p>
+                In production, you can also optionally combine AgentKit with
+                Inngest for fault-tolerant execution. Each agent’s LLM call is
+                wrapped in a step, and tools can use multiple steps to
+                incorporate things like human-in-the-loop. This gives you native
+                orchestration, observability, and out-of-the-box scale.
+              </p>
+              <p>
+                You will find the documentation as an example of an AgentKit
+                SWE-bench and multiple Coding Agent examples.
+              </p>
+              <p>It’s fully open-source under the Apache 2 license.</p>
+              <p>If you want to get started:</p>
+              <p>- npm: npm i @inngest/agent-kit</p>
+              <p>
+                - GitHub:
+                <a href="https://github.com/inngest/agent-kit"
+                  >https://github.com/inngest/agent-kit</a
+                >
+              </p>
+              <p>
+                - Docs:
+                <a href="https://agentkit.inngest.com/overview"
+                  >https://agentkit.inngest.com/overview</a
+                >
+              </p>
+              <p>
+                We’re excited to finally launch AgentKit; let us know what you
+                think!
+              </p>
+            </div>
           </section>
         </section>
         <section id="43426022">
@@ -181,11 +260,11 @@
             <h4>
               <span>2025-03-20 @ 17:18:00</span
               ><span class="points-container"
-                >Points: <span class="points">153</span></span
+                >Points: <span class="points">167</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43426022"
                   >Comments</a
-                ><span class="descendants">: 73</span></span
+                ><span class="descendants">: 78</span></span
               >
             </h4>
           </section>
@@ -203,11 +282,11 @@
             <h4>
               <span>2025-03-20 @ 17:11:57</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43425935"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -225,11 +304,11 @@
             <h4>
               <span>2025-03-20 @ 17:08:27</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43425876"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -247,11 +326,11 @@
             <h4>
               <span>2025-03-20 @ 17:06:27</span
               ><span class="points-container"
-                >Points: <span class="points">117</span></span
+                >Points: <span class="points">119</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43425841"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
+                ><span class="descendants">: 58</span></span
               >
             </h4>
           </section>
@@ -283,11 +362,32 @@
             <h4>
               <span>2025-03-20 @ 16:51:12</span
               ><span class="points-container"
-                >Points: <span class="points">300</span></span
+                >Points: <span class="points">320</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43425655"
                   >Comments</a
-                ><span class="descendants">: 163</span></span
+                ><span class="descendants">: 177</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="43425623">
+          <h3>
+            <a
+              class="item"
+              href="https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/"
+              >A Deep Dive into MCP and the Future of AI Tooling</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-03-20 @ 16:49:18</span
+              ><span class="points-container"
+                >Points: <span class="points">4</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43425623"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -302,11 +402,11 @@
             <h4>
               <span>2025-03-20 @ 16:47:17</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43425605"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -324,11 +424,11 @@
             <h4>
               <span>2025-03-20 @ 16:44:10</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43425561"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -341,11 +441,11 @@
             <h4>
               <span>2025-03-20 @ 14:33:28</span
               ><span class="points-container"
-                >Points: <span class="points">123</span></span
+                >Points: <span class="points">125</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43424065"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
+                ><span class="descendants">: 53</span></span
               >
             </h4>
           </section>
@@ -367,7 +467,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43423523"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -382,7 +482,7 @@
             <h4>
               <span>2025-03-20 @ 13:41:35</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43423238"
                   >Comments</a
@@ -401,7 +501,7 @@
             <h4>
               <span>2025-03-20 @ 13:28:44</span
               ><span class="points-container"
-                >Points: <span class="points">117</span></span
+                >Points: <span class="points">118</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43423032"
                   >Comments</a
@@ -420,11 +520,11 @@
             <h4>
               <span>2025-03-20 @ 13:21:34</span
               ><span class="points-container"
-                >Points: <span class="points">85</span></span
+                >Points: <span class="points">88</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43422909"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
           </section>
@@ -441,11 +541,11 @@
             <h4>
               <span>2025-03-20 @ 12:25:31</span
               ><span class="points-container"
-                >Points: <span class="points">247</span></span
+                >Points: <span class="points">251</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43422162"
                   >Comments</a
-                ><span class="descendants">: 279</span></span
+                ><span class="descendants">: 286</span></span
               >
             </h4>
           </section>
@@ -462,11 +562,11 @@
             <h4>
               <span>2025-03-20 @ 12:09:32</span
               ><span class="points-container"
-                >Points: <span class="points">109</span></span
+                >Points: <span class="points">111</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43422033"
                   >Comments</a
-                ><span class="descendants">: 80</span></span
+                ><span class="descendants">: 81</span></span
               >
             </h4>
           </section>
@@ -502,7 +602,7 @@
             <h4>
               <span>2025-03-20 @ 08:00:54</span
               ><span class="points-container"
-                >Points: <span class="points">206</span></span
+                >Points: <span class="points">208</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43420683"
                   >Comments</a
@@ -551,7 +651,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43420152"
                   >Comments</a
-                ><span class="descendants">: 74</span></span
+                ><span class="descendants">: 75</span></span
               >
             </h4>
           </section>
@@ -569,33 +669,11 @@
             <h4>
               <span>2025-03-20 @ 04:57:12</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43419996"
                   >Comments</a
-                ><span class="descendants">: 82</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43419928">
-          <h3>
-            <a
-              class="item"
-              href="https://borretti.me/article/introducing-austral"
-              >Austral: A Systems Language with Linear Types and Capabilities
-              (2022)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-03-20 @ 04:37:09</span
-              ><span class="points-container"
-                >Points: <span class="points">120</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43419928"
-                  >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 83</span></span
               >
             </h4>
           </section>
@@ -612,11 +690,11 @@
             <h4>
               <span>2025-03-20 @ 03:37:31</span
               ><span class="points-container"
-                >Points: <span class="points">463</span></span
+                >Points: <span class="points">467</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43419701"
                   >Comments</a
-                ><span class="descendants">: 358</span></span
+                ><span class="descendants">: 359</span></span
               >
             </h4>
           </section>
@@ -631,7 +709,7 @@
             <h4>
               <span>2025-03-20 @ 01:58:47</span
               ><span class="points-container"
-                >Points: <span class="points">162</span></span
+                >Points: <span class="points">163</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43419240"
                   >Comments</a
@@ -672,11 +750,33 @@
             <h4>
               <span>2025-03-19 @ 22:30:56</span
               ><span class="points-container"
-                >Points: <span class="points">259</span></span
+                >Points: <span class="points">260</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43417932"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 43</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="43399170">
+          <h3>
+            <a
+              class="item"
+              href="https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/"
+              >Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans
+              Media Queries (20</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-03-18 @ 13:23:57</span
+              ><span class="points-container"
+                >Points: <span class="points">5</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43399170"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -693,11 +793,11 @@
             <h4>
               <span>2025-03-18 @ 12:09:51</span
               ><span class="points-container"
-                >Points: <span class="points">157</span></span
+                >Points: <span class="points">158</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43398434"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -716,7 +816,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43392875"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
             <div class="text">
@@ -788,7 +888,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43386973"
                   >Comments</a
-                ><span class="descendants">: 67</span></span
+                ><span class="descendants">: 68</span></span
               >
             </h4>
           </section>
