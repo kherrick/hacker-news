@@ -129,6 +129,166 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="43427850">
+          <h3>
+            <a class="item" href="https://github.com/nafey/minimalytics"
+              >Show HN: Minimalytics – a standalone minimal analytics app built
+              on SQLite</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-03-20 @ 19:33:30</span
+              ><span class="points-container"
+                >Points: <span class="points">3</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43427850"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                This project came from requirements to track certain very
+                frequent events. I found that the cost to do it on a regular
+                analytics product was much more than i was willing to pay.
+                Secondly, I also wanted to use as few resources as possible. So
+                I thought it may be a good idea to create something that may be
+                useful for myself (and hopefully others).
+              </p>
+              <p>
+                I have been able to track a great number of events with this
+                using ~20 MB of storage and memory which is incredible. I have
+                been really impressed by golang as a language and as an
+                ecosystem and would love to work more in this language going
+                forward.
+              </p>
+              <p>
+                Some Highlights: 1. No dependencies 2. CLI based management 3.
+                Web based UI (and the server to serve it) included in the
+                program. 4. 20 MB install size. 5. 20 MB memory use while
+                running. 6. Minimal storage requirements because it aggregates
+                events.
+              </p>
+              <p>
+                This can be a great fit for anyone who wants to have a
+                lightweight minimal analytics for internal events.
+              </p>
+              <p>I am looking forward to your comments and feedback.</p>
+            </div>
+          </section>
+        </section>
+        <section id="43427671">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/gizmodata/gizmosql-public/blob/main/README.md"
+              >Show HN: GizmoSQL – Run DuckDB as a Server with Arrow Flight
+              SQL</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-03-20 @ 19:15:41</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43427671"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I'm Philip Moore - the founder of GizmoData, and creator of
+                GizmoSQL - an Apache Arrow Flight SQL Server - with DuckDB (or
+                SQLite) back-end execution engines.
+              </p>
+              <p>
+                GizmoSQL is a composable SQL server with Arrow Flight SQL,
+                DuckDB, and SQLite - with the intention of making it easy to run
+                DuckDB (or SQLite) as a server - usable by multiple people from
+                a client (remote) computer. It also adds security
+                (authentication) and encryption of traffic with TLS.
+              </p>
+              <p>
+                To run GizmoSQL - see the steps in the README.md - where you can
+                see how easy it is to run the server as well as how to connect
+                via ADBC and JDBC from a remote client - such as DBeaver,
+                Python, etc. The easiest way to run GizmoSQL is via Docker - but
+                there are downloads for Linux and macOS for both x86-64 and
+                arm64 platforms (download links in the README).
+              </p>
+              <p>
+                Why?: As you may know, DuckDB and SQLite are embedded systems -
+                they don't enable client connectivity, and they aren't really
+                designed for concurrency.
+              </p>
+              <p>
+                I've built GizmoSQL to work around that - because I believe the
+                DuckDB engine is very powerful, and I feel like a lot of
+                customers overpay and run distributed compute (i.e. Spark) when
+                they don't really need to. Making it easy to have remote
+                connectivity to DuckDB can make it easier to migrate SQL
+                workloads from Spark or other expensive commercial platforms to
+                this engine - with a much simpler architecture/infrastructure.
+              </p>
+              <p>
+                It is my intention to make GizmoSQL a commercial product -
+                licensed for production use by organizations, but free for
+                developers to code with - evaluate, and test.
+              </p>
+              <p>
+                A little bit of backstory: * I built the initial version of this
+                while working for a former employer - it wasn't their core
+                focus, so they open-sourced that early version. After I left
+                there, I forked the product and have improved it substantially -
+                to support concurrency of both reads and writes, improving
+                security, as well as keeping it up to date with the latest
+                versions of Apache Arrow and DuckDB.
+              </p>
+              <p>
+                * This project evolved from a prototype created by the brilliant
+                Tom Drabas.
+              </p>
+              <p>
+                * It feels a little weird trying to make a commercial product
+                based upon DuckDB, but MotherDuck started it :P - and I've
+                contributed (albeit very little) to the DuckDB and Apache Arrow
+                projects in the form of a couple of PRs.
+              </p>
+              <p>
+                I'm really excited about this project - I have run benchmarks of
+                this product against commercial platforms such as Snowflake and
+                Databricks SQL - and it holds its own running the 22-query TPC-H
+                SF1TB benchmark, especially on cost. See the graph at:
+                <a href="https://gizmodata.com/gizmosql"
+                  >https://gizmodata.com/gizmosql</a
+                >
+              </p>
+              <p>
+                Getting started: Github README:
+                <a
+                  href="https://github.com/gizmodata/gizmosql-public/blob/main/README.md"
+                  >https://github.com/gizmodata/gizmosql-public/blob/main/READM...</a
+                >
+                DockerHub:
+                <a href="https://hub.docker.com/r/gizmodata/gizmosql"
+                  >https://hub.docker.com/r/gizmodata/gizmosql</a
+                >
+                GizmoSQL homepage:
+                <a href="https://gizmodata.com/gizmosql"
+                  >https://gizmodata.com/gizmosql</a
+                >
+                Phil's Github profile:
+                <a href="https://github.com/prmoore77"
+                  >https://github.com/prmoore77</a
+                >
+              </p>
+              <p>Thanks for your time and feedback in advance.</p>
+            </div>
+          </section>
+        </section>
         <section id="43427115">
           <h3>
             <a
@@ -142,11 +302,11 @@
             <h4>
               <span>2025-03-20 @ 18:32:11</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43427115"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -159,11 +319,11 @@
             <h4>
               <span>2025-03-20 @ 18:24:17</span
               ><span class="points-container"
-                >Points: <span class="points">239</span></span
+                >Points: <span class="points">256</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43427002"
                   >Comments</a
-                ><span class="descendants">: 156</span></span
+                ><span class="descendants">: 163</span></span
               >
             </h4>
           </section>
@@ -178,11 +338,11 @@
             <h4>
               <span>2025-03-20 @ 17:18:00</span
               ><span class="points-container"
-                >Points: <span class="points">294</span></span
+                >Points: <span class="points">299</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43426022"
                   >Comments</a
-                ><span class="descendants">: 165</span></span
+                ><span class="descendants">: 167</span></span
               >
             </h4>
           </section>
@@ -235,11 +395,11 @@
             <h4>
               <span>2025-03-20 @ 16:51:12</span
               ><span class="points-container"
-                >Points: <span class="points">561</span></span
+                >Points: <span class="points">576</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43425655"
                   >Comments</a
-                ><span class="descendants">: 275</span></span
+                ><span class="descendants">: 284</span></span
               >
             </h4>
           </section>
@@ -254,11 +414,11 @@
             <h4>
               <span>2025-03-20 @ 16:47:17</span
               ><span class="points-container"
-                >Points: <span class="points">190</span></span
+                >Points: <span class="points">192</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43425605"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -275,7 +435,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43424065"
                   >Comments</a
-                ><span class="descendants">: 65</span></span
+                ><span class="descendants">: 66</span></span
               >
             </h4>
           </section>
@@ -335,7 +495,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43423032"
                   >Comments</a
-                ><span class="descendants">: 126</span></span
+                ><span class="descendants">: 129</span></span
               >
             </h4>
           </section>
@@ -350,7 +510,7 @@
             <h4>
               <span>2025-03-20 @ 13:21:34</span
               ><span class="points-container"
-                >Points: <span class="points">125</span></span
+                >Points: <span class="points">127</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43422909"
                   >Comments</a
@@ -371,11 +531,11 @@
             <h4>
               <span>2025-03-20 @ 12:25:31</span
               ><span class="points-container"
-                >Points: <span class="points">335</span></span
+                >Points: <span class="points">337</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43422162"
                   >Comments</a
-                ><span class="descendants">: 383</span></span
+                ><span class="descendants">: 386</span></span
               >
             </h4>
           </section>
@@ -396,7 +556,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43422033"
                   >Comments</a
-                ><span class="descendants">: 99</span></span
+                ><span class="descendants">: 100</span></span
               >
             </h4>
           </section>
@@ -411,7 +571,7 @@
             <h4>
               <span>2025-03-20 @ 11:55:13</span
               ><span class="points-container"
-                >Points: <span class="points">197</span></span
+                >Points: <span class="points">199</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43421934"
                   >Comments</a
@@ -481,7 +641,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43420152"
                   >Comments</a
-                ><span class="descendants">: 77</span></span
+                ><span class="descendants">: 78</span></span
               >
             </h4>
           </section>
@@ -499,33 +659,11 @@
             <h4>
               <span>2025-03-20 @ 04:57:12</span
               ><span class="points-container"
-                >Points: <span class="points">106</span></span
+                >Points: <span class="points">109</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43419996"
                   >Comments</a
                 ><span class="descendants">: 86</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43419928">
-          <h3>
-            <a
-              class="item"
-              href="https://borretti.me/article/introducing-austral"
-              >Austral: A Systems Language with Linear Types and Capabilities
-              (2022)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-03-20 @ 04:37:09</span
-              ><span class="points-container"
-                >Points: <span class="points">133</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43419928"
-                  >Comments</a
-                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -542,11 +680,11 @@
             <h4>
               <span>2025-03-20 @ 03:37:31</span
               ><span class="points-container"
-                >Points: <span class="points">516</span></span
+                >Points: <span class="points">519</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43419701"
                   >Comments</a
-                ><span class="descendants">: 397</span></span
+                ><span class="descendants">: 400</span></span
               >
             </h4>
           </section>
@@ -561,7 +699,7 @@
             <h4>
               <span>2025-03-20 @ 01:58:47</span
               ><span class="points-container"
-                >Points: <span class="points">189</span></span
+                >Points: <span class="points">190</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43419240"
                   >Comments</a
@@ -587,7 +725,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43419237"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -606,107 +744,9 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43417932"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="43414405">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=43414405"
-              >Launch HN: Modernbanc (YC W20) – Modern and fast accounting
-              software</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-03-19 @ 16:50:05</span
-              ><span class="points-container"
-                >Points: <span class="points">117</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43414405"
-                  >Comments</a
-                ><span class="descendants">: 103</span></span
-              >
-            </h4>
-            <div class="text">
-              <a href="https://modernbanc.com">https://modernbanc.com</a>).
-              Today we’re introducing our modern accounting software designed
-              for startups and small businesses. Here’s a demo video:
-              <a href="https://www.youtube.com/watch?v=gLkJ-6liTNU"
-                >https://www.youtube.com/watch?v=gLkJ-6liTNU</a
-              >
-              <p>
-                If you're familiar with the issue tracker Linear, think of it as
-                Linear for accounting software. It is fast, works offline, and
-                saves you time with automated bookkeeping, accounting and
-                invoicing.
-              </p>
-              <p>
-                This is our third pivot. Previously, we built infrastructure
-                like a ledger API and payments vault to help companies create
-                fintech products.
-              </p>
-              <p>
-                For this idea, our motivation came from two completely opposite
-                experiences: using Linear and using Quickbooks. The difference
-                in quality between the two products was shocking, and despite
-                there being dozens of accounting tools, none come even close to
-                the quality of Linear, Notion, or Figma.
-              </p>
-              <p>
-                With Linear, I’ve heard stories of engineers threatening to quit
-                if their company switches to another tool! With Quickbooks it
-                takes me so long to get to the right page that sometimes I
-                forget why I opened it.
-              </p>
-              <p>
-                This was baffling to us because accounting is the core system of
-                every business—it tells you what you have, what you made, and
-                whether you’ll still be around in 12 months.
-              </p>
-              <p>
-                To solve this, we took a Linear-like approach, focusing on speed
-                and quality from day one. For example, we built our own in-house
-                real-time sync engine to ensure it’s lightning fast, works
-                offline, and keeps your business finances at your fingertips.
-              </p>
-              <p>
-                Modernbanc is still early and doesn’t have every feature yet,
-                but we believe we’ve built a long-term foundation for the best
-                accounting software in the world. It even includes a built-in
-                spreadsheet so you’re never limited in reporting.
-              </p>
-              <p>
-                Although early, the software is already useful and helps
-                founders: Automate bookkeeping effortlessly. Transaction rules
-                and AI smart actions handle the work for you. Get answers to any
-                question, including runway, burn, and custom budgets, all in one
-                place; Create and manage invoices. Our AI will auto-match
-                incoming payments to them; Be tax-ready with all the data
-                available for seamless tax filing. And if you don’t have an
-                accountant, we’ll find you one!
-              </p>
-              <p>
-                We’ll have more releases in the coming weeks including receipts
-                matching, payroll integrations and AI-powered report generation.
-              </p>
-              <p>
-                We’ve just launched (mainly focusing on smaller US-based
-                startups) and would love your feedback! Please give it a go at
-                <a href="https://modernbanc.com">https://modernbanc.com</a>
-                (you’ll see a demo workspace once you sign-up).
-              </p>
-              <p>
-                We’d love your feedback! If you’ve ever been frustrated by
-                accounting software, what has been the worst part? What features
-                are missing? Have you ever had to rely on a spreadsheet because
-                your accounting tool could not do what you needed? We are still
-                early, so your input will help shape what we build next. If you
-                have thoughts, frustrations, or ideas, we would love to hear
-                them!
-              </p>
-            </div>
           </section>
         </section>
         <section id="43399170">
@@ -726,7 +766,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43399170"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -764,7 +804,7 @@
             <h4>
               <span>2025-03-18 @ 05:57:56</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43396172"
                   >Comments</a
@@ -785,11 +825,11 @@
             <h4>
               <span>2025-03-17 @ 18:35:41</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43391452"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
