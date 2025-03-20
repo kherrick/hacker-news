@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-20, 22:35:33](https://news.ycombinator.com/item?id=43429828) - [Executive Order Shutting Down Department of Education](https://www.whitehouse.gov/presidential-actions/2025/03/improving-education-outcomes-by-empowering-parents-states-and-communities/)
 * [2025-03-20, 21:54:17](https://news.ycombinator.com/item?id=43429417) - [Retro Boy: simple Game Boy emulator written in Rust, can be played on the web](https://github.com/smparsons/retroboy)
 * [2025-03-20, 21:51:40](https://news.ycombinator.com/item?id=43429396) - [Appeals court rules that Constitution protects possession of AI-generated CSAM](https://www.techpolicy.press/court-rules-that-constitution-protects-private-possession-of-aigenerated-csam/)
 * [2025-03-20, 19:33:30](https://news.ycombinator.com/item?id=43427850) - [Show HN: Minimalytics – a standalone minimal analytics app built on SQLite](https://github.com/nafey/minimalytics)
@@ -26,6 +25,7 @@
 * [2025-03-19, 22:30:56](https://news.ycombinator.com/item?id=43417932) - [Bolt3D: Generating 3D Scenes in Seconds](https://szymanowiczs.github.io/bolt3d)
 * [2025-03-18, 13:23:57](https://news.ycombinator.com/item?id=43399170) - [Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries (20](https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/)
 * [2025-03-18, 12:09:51](https://news.ycombinator.com/item?id=43398434) - [Diagrams AI can, and cannot, generate](https://www.ilograph.com/blog/posts/diagrams-ai-can-and-cannot-generate/)
+* [2025-03-18, 11:04:52](https://news.ycombinator.com/item?id=43397973) - [Going from an Idea to MVP in Weeks: PromptPanda's Launch(es)](https://docs.opensaas.sh/blog/2025-03-12-going-from-an-idea-to-mvp-in-weeks-promptpandas-launches/)
 * [2025-03-18, 05:57:56](https://news.ycombinator.com/item?id=43396172) - [Build a Container Image from Scratch](https://danishpraka.sh/posts/build-a-container-image-from-scratch/)
 * [2025-03-17, 18:35:41](https://news.ycombinator.com/item?id=43391452) - [Want even tinier chips? Use a particle accelerator](https://www.economist.com/science-and-technology/2025/03/12/want-even-tinier-chips-use-a-particle-accelerator)
 * [2025-03-17, 10:40:05](https://news.ycombinator.com/item?id=43386973) - ['Dark oxygen': a deep-sea discovery that has split scientists](https://phys.org/news/2025-03-dark-oxygen-deep-sea-discovery.html)
