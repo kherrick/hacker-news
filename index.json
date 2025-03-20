@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-20, 11:19:48",
+      "https://news.ycombinator.com/item?id=43421740"
+    ],
+    [
+      "EU sends Apple first DMA interoperability instructions for apps and devices",
+      "https://techcrunch.com/2025/03/19/eu-sends-apple-first-dma-interoperability-instructions-for-apps-and-connected-devices/"
+    ]
+  ],
+  [
+    [
       "2025-03-20, 08:37:35",
       "https://news.ycombinator.com/item?id=43420892"
     ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2025-03-17, 09:30:02",
-      "https://news.ycombinator.com/item?id=43386581"
-    ],
-    [
-      "Database management in a single PHP file",
-      "https://github.com/vrana/adminer"
-    ]
-  ],
-  [
-    [
       "2025-03-17, 04:10:08",
       "https://news.ycombinator.com/item?id=43385127"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2025-03-16, 11:47:37",
+      "https://news.ycombinator.com/item?id=43378276"
+    ],
+    [
+      "Destructive Updates – A Stitch in Time",
+      "https://icicle-lang.github.io/posts/2025-02-01-a-time-travelling-optimisation.html"
+    ]
+  ],
+  [
+    [
       "2025-03-16, 11:42:20",
       "https://news.ycombinator.com/item?id=43378252"
     ],
     [
       "Elastic Restaking Networks",
       "https://arxiv.org/abs/2503.00170"
-    ]
-  ],
-  [
-    [
-      "2025-03-13, 18:29:19",
-      "https://news.ycombinator.com/item?id=43356016"
-    ],
-    [
-      "Show HN: Codemcp – Claude Code for Claude Pro subscribers – ditch API bills",
-      "https://github.com/ezyang/codemcp"
     ]
   ]
 ]
