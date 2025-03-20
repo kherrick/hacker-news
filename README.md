@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-20, 01:58:29](https://news.ycombinator.com/item?id=43419237) - [Hunyuan3D-2-Turbo: fast high-quality shape generation in ~1 SEC on a 4090](https://github.com/Tencent/Hunyuan3D-2/commit/baab8ba18e46052246f85a2d0f48736586b84a33)
 * [2025-03-20, 01:25:54](https://news.ycombinator.com/item?id=43419072) - [Writing an LLM from scratch, part 10 – dropout](https://www.gilesthomas.com/2025/03/llm-from-scratch-10-dropout)
 * [2025-03-19, 23:12:45](https://news.ycombinator.com/item?id=43418218) - [Introduction to Deep Learning (CMU)](https://deeplearning.cs.cmu.edu/./S25/index.html)
 * [2025-03-19, 23:08:08](https://news.ycombinator.com/item?id=43418184) - [DESI Opens Access to the Largest 3D Map of the Universe Yet](https://newscenter.lbl.gov/2025/03/19/desi-opens-access-to-the-largest-3d-map-of-the-universe-yet/)
@@ -15,7 +16,6 @@
 * [2025-03-19, 16:34:45](https://news.ycombinator.com/item?id=43414235) - [Fine-tune Google's Gemma 3](https://unsloth.ai/blog/gemma3)
 * [2025-03-19, 16:13:20](https://news.ycombinator.com/item?id=43413935) - [How fast the days are getting longer](https://joe-antognini.github.io/astronomy/daylight)
 * [2025-03-19, 15:16:48](https://news.ycombinator.com/item?id=43413125) - [Memory safety for web fonts](https://developer.chrome.com/blog/memory-safety-fonts)
-* [2025-03-19, 13:44:25](https://news.ycombinator.com/item?id=43411898) - [The clustering behavior of sliding windows](https://arxiv.org/abs/2503.14393)
 * [2025-03-19, 12:56:03](https://news.ycombinator.com/item?id=43411258) - [Supply constraints do not explain house price, quantity growth across US cities](https://www.nber.org/papers/w33576)
 * [2025-03-19, 12:30:48](https://news.ycombinator.com/item?id=43410988) - [Konva.js - Declarative 2D Canvas for React, Vue, and Svelte](https://konvajs.org/)
 * [2025-03-19, 12:16:06](https://news.ycombinator.com/item?id=43410885) - [The Origin of the Pork Taboo](https://archaeology.org/issues/march-april-2025/letters-from/on-the-origin-of-the-pork-taboo/)
