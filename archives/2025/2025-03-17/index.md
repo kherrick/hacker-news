@@ -62,6 +62,7 @@
 * [2025-03-17, 06:01:55](https://news.ycombinator.com/item?id=43385571) - [Looking for beta testers for my GPS based game](https://cityquizler.com/)
 * [2025-03-17, 05:02:33](https://news.ycombinator.com/item?id=43385356) - [SpaceX asks US to address foreign trade barriers](https://www.reuters.com/technology/elon-musks-spacex-asks-us-address-foreign-trade-barriers-2025-03-14/)
 * [2025-03-17, 04:41:49](https://news.ycombinator.com/item?id=43385268) - [The Alexa feature \"Do Not Send Voice Recordings\" you enabled no longer available](https://discuss.systems/@dev/114161826926246661)
+* [2025-03-17, 04:37:23](https://news.ycombinator.com/item?id=43385252) - [Compound File Binary Format](https://en.wikipedia.org/wiki/Compound_File_Binary_Format)
 * [2025-03-17, 04:10:08](https://news.ycombinator.com/item?id=43385127) - [Restoring Faith: Crete's Ancient Minoan Civilisation](https://www.historytoday.com/archive/feature/restoring-faith-cretes-ancient-minoan-civilisation)
 * [2025-03-17, 03:25:26](https://news.ycombinator.com/item?id=43384894) - [Conducting forensics of mobile devices to find signs of a potential compromise](https://github.com/mvt-project/mvt)
 * [2025-03-17, 03:09:28](https://news.ycombinator.com/item?id=43384826) - [Genomic study indicates our capacity for language emerged 135,000 years ago](https://phys.org/news/2025-03-genomic-capacity-language-emerged-years.html)

@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-03-20](index.md)
 
+* [2025-03-20, 12:25:31](https://news.ycombinator.com/item?id=43422162) - [The Front End Treadmill](https://polotek.net/posts/the-frontend-treadmill/)
+* [2025-03-20, 12:13:39](https://news.ycombinator.com/item?id=43422066) - [Building and deploying a custom site using GitHub Actions and GitHub Pages](https://til.simonwillison.net/github-actions/github-pages)
+* [2025-03-20, 12:01:05](https://news.ycombinator.com/item?id=43421979) - [Sieve (YC W22) Is Hiring Engineers to Build the Future of Video AI](https://www.sievedata.com/)
+* [2025-03-20, 11:55:13](https://news.ycombinator.com/item?id=43421934) - [Powers of 2 with all even digits](https://oeis.org/A068994)
+* [2025-03-20, 11:51:22](https://news.ycombinator.com/item?id=43421902) - [Dutch Parliament: Time to ditch US tech for homegrown options](https://www.theregister.com/2025/03/19/dutch_parliament_us_tech/)
 * [2025-03-20, 11:19:48](https://news.ycombinator.com/item?id=43421740) - [EU sends Apple first DMA interoperability instructions for apps and devices](https://techcrunch.com/2025/03/19/eu-sends-apple-first-dma-interoperability-instructions-for-apps-and-connected-devices/)
 * [2025-03-20, 11:10:45](https://news.ycombinator.com/item?id=43421694) - [Can NASA remain nonpartisan when basic spaceflight truths are shredded?](https://arstechnica.com/space/2025/03/can-nasa-remain-nonpartisan-when-basic-spaceflight-truths-are-shredded/)
 * [2025-03-20, 08:37:35](https://news.ycombinator.com/item?id=43420892) - [Stelvio: Serverless AWS for Python Devs](https://github.com/michal-stlv/stelvio)
