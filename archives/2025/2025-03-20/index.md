@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-20](index.md)
 
+* [2025-03-20, 17:26:36](https://news.ycombinator.com/item?id=43426142) - [Doge Social Security Closures: Recipients Need to Visit Offices to Get Benefits](https://gizmodo.com/u-s-says-social-security-recipients-need-to-visit-offices-to-get-benefits-as-doge-closes-offices-nationwide-2000578129)
 * [2025-03-20, 17:18:00](https://news.ycombinator.com/item?id=43426022) - [OpenAI Audio Models](https://www.openai.fm/)
 * [2025-03-20, 17:08:27](https://news.ycombinator.com/item?id=43425876) - [OpenAI uses open source Ory to authenticate over 400M weekly active users](https://www.ory.sh/blog/openai-oauth2-server-open-source)
 * [2025-03-20, 17:07:22](https://news.ycombinator.com/item?id=43425856) - [Stellar Blockchain Accounts](https://blog.biggertech.co/blog/article/accounts)
