@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-20](index.md)
 
+* [2025-03-20, 08:00:54](https://news.ycombinator.com/item?id=43420683) - [Minding the gaps: A new way to draw separators in CSS](https://blogs.windows.com/msedgedev/2025/03/19/minding-the-gaps-a-new-way-to-draw-separators-in-css/)
 * [2025-03-20, 06:10:12](https://news.ycombinator.com/item?id=43420236) - [Trump's US Commerce Secretary publicly recommends to buy TSLA](https://electrek.co/2025/03/19/trump-us-commerce-secretary-owns-tesla-recommends-buy-tsla-stocks/)
 * [2025-03-20, 05:42:21](https://news.ycombinator.com/item?id=43420152) - [How I accepted myself into Canada's largest AI hackathon](https://fastcall.dev/posts/genai-genesis-firebase/)
 * [2025-03-20, 04:57:12](https://news.ycombinator.com/item?id=43419996) - ['More Than a Hint' That Dark Energy Isn't What Astronomers Thought](https://www.nytimes.com/2025/03/19/science/space/astronomer-desi-dark-energy.html)

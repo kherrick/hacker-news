@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-20, 08:00:54](https://news.ycombinator.com/item?id=43420683) - [Minding the gaps: A new way to draw separators in CSS](https://blogs.windows.com/msedgedev/2025/03/19/minding-the-gaps-a-new-way-to-draw-separators-in-css/)
 * [2025-03-20, 05:42:21](https://news.ycombinator.com/item?id=43420152) - [How I accepted myself into Canada's largest AI hackathon](https://fastcall.dev/posts/genai-genesis-firebase/)
 * [2025-03-20, 04:57:12](https://news.ycombinator.com/item?id=43419996) - ['More Than a Hint' That Dark Energy Isn't What Astronomers Thought](https://www.nytimes.com/2025/03/19/science/space/astronomer-desi-dark-energy.html)
 * [2025-03-20, 04:37:09](https://news.ycombinator.com/item?id=43419928) - [Austral: A Systems Language with Linear Types and Capabilities (2022)](https://borretti.me/article/introducing-austral)
@@ -16,8 +17,6 @@
 * [2025-03-19, 22:30:56](https://news.ycombinator.com/item?id=43417932) - [Bolt3D: Generating 3D Scenes in Seconds](https://szymanowiczs.github.io/bolt3d)
 * [2025-03-19, 22:26:39](https://news.ycombinator.com/item?id=43417894) - [Orpheus-3B – Emotive TTS by Canopy Labs](https://canopylabs.ai/model-releases)
 * [2025-03-19, 21:29:13](https://news.ycombinator.com/item?id=43417511) - [LLM Agents Are Simply Graph – Tutorial for Dummies](https://zacharyhuang.substack.com/p/llm-agent-internal-as-a-graph-tutorial)
-* [2025-03-19, 20:31:13](https://news.ycombinator.com/item?id=43416961) - [Looking Ahead at Intel's Xe3 GPU Architecture](https://chipsandcheese.com/p/looking-ahead-at-intels-xe3-gpu-architecture)
-* [2025-03-19, 17:34:43](https://news.ycombinator.com/item?id=43414992) - [The Collective Ambition Behind Odysseus, a Game-Changing Sci-Fi Larp](https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus-a-game-changing-sci-fi-larp/)
 * [2025-03-19, 16:50:05](https://news.ycombinator.com/item?id=43414405) - [Launch HN: Modernbanc (YC W20) – Modern and fast accounting software](https://news.ycombinator.com/item?id=43414405)
 * [2025-03-19, 16:48:32](https://news.ycombinator.com/item?id=43414393) - [AI Blindspots – Blindspots in LLMs I've noticed while AI coding](https://ezyang.github.io/ai-blindspots/)
 * [2025-03-19, 16:34:45](https://news.ycombinator.com/item?id=43414235) - [Fine-tune Google's Gemma 3](https://unsloth.ai/blog/gemma3)
@@ -29,6 +28,7 @@
 * [2025-03-16, 14:04:44](https://news.ycombinator.com/item?id=43379173) - [How My Six Months Working on the Railway Changed My Life](https://www.theatlantic.com/magazine/archive/2025/04/canadian-national-railroad-graydon-carter/681770/)
 * [2025-03-16, 12:44:11](https://news.ycombinator.com/item?id=43378587) - [How I got 100% off my train travel](https://readbunce.com/p/how-i-got-100-off-my-train-travel)
 * [2025-03-16, 12:05:53](https://news.ycombinator.com/item?id=43378358) - [Muons used to test the condition of a road bridge in Estonia](https://news.err.ee/1609634600/muons-used-to-test-the-condition-of-a-road-bridge-in-estonia)
+* [2025-03-16, 11:21:53](https://news.ycombinator.com/item?id=43378165) - [Idiomatic Rust](https://a-i-nstein.neocities.org/)
 * [2025-03-13, 18:29:19](https://news.ycombinator.com/item?id=43356016) - [Show HN: Codemcp – Claude Code for Claude Pro subscribers – ditch API bills](https://github.com/ezyang/codemcp)
 
 ## [Archives](archives/index.md)

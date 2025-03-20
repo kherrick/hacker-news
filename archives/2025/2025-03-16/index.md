@@ -71,6 +71,7 @@
 * [2025-03-16, 11:38:52](https://news.ycombinator.com/item?id=43378239) - [French gov's open source alternative to Notion or Outline](https://github.com/suitenumerique/docs)
 * [2025-03-16, 11:36:23](https://news.ycombinator.com/item?id=43378226) - [Artificial Intelligence: Foundations of Computational Agents](https://artint.info/index.html)
 * [2025-03-16, 11:35:22](https://news.ycombinator.com/item?id=43378225) - [Styling an HTML dialog modal to take the full height of the viewport](https://til.simonwillison.net/css/dialog-full-height)
+* [2025-03-16, 11:21:53](https://news.ycombinator.com/item?id=43378165) - [Idiomatic Rust](https://a-i-nstein.neocities.org/)
 * [2025-03-16, 11:20:44](https://news.ycombinator.com/item?id=43378157) - [A powerful free and open source WAF – UUSEC WAF](https://github.com/Safe3/uuWAF)
 * [2025-03-16, 11:05:58](https://news.ycombinator.com/item?id=43378114) - [PrintedLabs – 3D printable optical experiment equipment](https://printedlabs.uni-bayreuth.de/en)
 * [2025-03-16, 10:55:52](https://news.ycombinator.com/item?id=43378076) - [Using Time Travel for Procrastination](https://medium.com/luminasticity/using-time-travel-for-procrastination-8c8ab4d0de4d)
