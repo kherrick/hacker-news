@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-21, 13:29:11](https://news.ycombinator.com/item?id=43435438) - [Show HN: Torch Lens Maker – Differentiable Geometric Optics in PyTorch](https://victorpoughon.github.io/torchlensmaker/)
-* [2025-03-21, 12:16:45](https://news.ycombinator.com/item?id=43434730) - [Wheel Reinventor's Principles](https://tobloef.com/blog/wheel-reinventors-principles/)
+* [2025-03-21, 12:16:45](https://news.ycombinator.com/item?id=43434730) - [Wheel Reinventor’s Principles (2024)](https://tobloef.com/blog/wheel-reinventors-principles/)
 * [2025-03-21, 10:58:28](https://news.ycombinator.com/item?id=43434152) - [Notetime: Minimalistic notes where everything is timestamped](https://www.notetimeapp.com)
 * [2025-03-21, 10:49:41](https://news.ycombinator.com/item?id=43434093) - [Career Development: What It Means to Be a Manager, Director, or VP (2015)](https://kellblog.com/2015/03/08/career-development-what-it-really-means-to-be-a-manager-director-or-vp/)
 * [2025-03-21, 09:35:33](https://news.ycombinator.com/item?id=43433599) - [Numbering should start at zero (1982)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD831.html)
