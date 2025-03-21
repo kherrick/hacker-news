@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-21, 23:41:15](https://news.ycombinator.com/item?id=43441895) - [EFF Border Search Pocket Guide](https://www.eff.org/document/eff-border-search-pocket-guide)
 * [2025-03-21, 21:18:39](https://news.ycombinator.com/item?id=43440920) - [MySQL transactions per second vs. fsyncs per second (2020)](https://sirupsen.com/napkin/problem-10-mysql-transactions-per-second)
 * [2025-03-21, 20:35:11](https://news.ycombinator.com/item?id=43440513) - [France rejects backdoor mandate](https://www.eff.org/deeplinks/2025/03/win-encryption-france-rejects-backdoor-mandate)
 * [2025-03-21, 20:30:32](https://news.ycombinator.com/item?id=43440473) - [The little book about OS development](https://littleosbook.github.io/)
@@ -15,7 +16,6 @@
 * [2025-03-21, 15:35:27](https://news.ycombinator.com/item?id=43436894) - [IronRDP: a Rust implementation of Microsoft's RDP protocol](https://github.com/Devolutions/IronRDP)
 * [2025-03-21, 13:29:11](https://news.ycombinator.com/item?id=43435438) - [Show HN: Torch Lens Maker – Differentiable Geometric Optics in PyTorch](https://victorpoughon.github.io/torchlensmaker/)
 * [2025-03-21, 12:38:20](https://news.ycombinator.com/item?id=43434910) - [Legged Locomotion Meets Skateboarding](https://umich-curly.github.io/DHAL/)
-* [2025-03-21, 12:16:45](https://news.ycombinator.com/item?id=43434730) - [Wheel Reinventor’s Principles (2024)](https://tobloef.com/blog/wheel-reinventors-principles/)
 * [2025-03-21, 10:49:41](https://news.ycombinator.com/item?id=43434093) - [Career Development: What It Means to Be a Manager, Director, or VP (2015)](https://kellblog.com/2015/03/08/career-development-what-it-really-means-to-be-a-manager-director-or-vp/)
 * [2025-03-21, 06:08:04](https://news.ycombinator.com/item?id=43432291) - ['The Celts: A Modern History' by Ian Stewart Review](https://www.historytoday.com/archive/review/celts-modern-history-ian-stewart-review)
 * [2025-03-20, 22:14:28](https://news.ycombinator.com/item?id=43429622) - [DNA evidence says first Americans came from Asia](https://factsanddetails.com/world/cat56/sub361/entry-8944.html)

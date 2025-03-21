@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-21](index.md)
 
+* [2025-03-21, 23:41:15](https://news.ycombinator.com/item?id=43441895) - [EFF Border Search Pocket Guide](https://www.eff.org/document/eff-border-search-pocket-guide)
 * [2025-03-21, 21:18:39](https://news.ycombinator.com/item?id=43440920) - [MySQL transactions per second vs. fsyncs per second](https://sirupsen.com/napkin/problem-10-mysql-transactions-per-second)
 * [2025-03-21, 20:35:11](https://news.ycombinator.com/item?id=43440513) - [A Win for Encryption: France Rejects Backdoor Mandate](https://www.eff.org/deeplinks/2025/03/win-encryption-france-rejects-backdoor-mandate)
 * [2025-03-21, 20:30:32](https://news.ycombinator.com/item?id=43440473) - [The little book about OS development](https://littleosbook.github.io/)
