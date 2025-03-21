@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-21, 04:16:32](https://news.ycombinator.com/item?id=43431780) - [Boycott IETF 127](https://boycott-ietf127.org/)
-* [2025-03-21, 03:37:10](https://news.ycombinator.com/item?id=43431587) - [iPhones were being stolen off porches right after delivery, and now we know how](https://9to5mac.com/2025/03/20/iphones-were-being-stolen-off-porches-right-after-delivery-and-now-we-know-how/)
+* [2025-03-21, 03:31:06](https://news.ycombinator.com/item?id=43431567) - [London's Heathrow Airport announces complete shutdown due to power outage](https://www.cnn.com/2025/03/20/travel/london-heathrow-airport-shut-intl-hnk/index.html)
 * [2025-03-21, 03:21:12](https://news.ycombinator.com/item?id=43431522) - [The head of South Korea's guard consulted ChatGPT before martial law was imposed](https://www.hani.co.kr/arti/society/society_general/1187705.html)
 * [2025-03-21, 01:46:31](https://news.ycombinator.com/item?id=43431068) - [The IndieWeb Doesn't Need to \"Take Off\"](https://susam.net/indieweb-does-not-need-to-take-off.html)
 * [2025-03-21, 01:06:42](https://news.ycombinator.com/item?id=43430856) - [SmolDocling: An ultra-compact VLM for end-to-end multi-modal document conversion](https://arxiv.org/abs/2503.11576)
