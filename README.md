@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-21, 19:30:32](https://news.ycombinator.com/item?id=43439987) - [Piccolo: Large-Scale Graph Processing with Fine-Grained In-Memory Scatter-Gather](https://arxiv.org/abs/2503.05116)
-* [2025-03-21, 19:27:32](https://news.ycombinator.com/item?id=43439962) - [National Lab Creates New Device to Test Safety Limits of Nuclear Fuel](https://www.energy.gov/ne/articles/national-lab-creates-new-device-test-safety-limits-nuclear-fuel)
 * [2025-03-21, 19:24:54](https://news.ycombinator.com/item?id=43439939) - [Ask HN: What is the simplest data orchestration tool you've worked with?](https://news.ycombinator.com/item?id=43439939)
 * [2025-03-21, 19:19:54](https://news.ycombinator.com/item?id=43439883) - [Population much more than 8.2B, rural areas underestimated](https://www.popularmechanics.com/science/environment/a64222314/human-population-count/)
+* [2025-03-21, 19:19:45](https://news.ycombinator.com/item?id=43439881) - [Plex remote stream no longer free; Plex Pass 2x price hike](https://www.plex.tv/blog/important-2025-plex-updates/)
 * [2025-03-21, 19:12:54](https://news.ycombinator.com/item?id=43439813) - [EU Pushes Ahead with Big Tech Antitrust Enforcement](https://www.wsj.com/tech/eu-pushes-ahead-with-big-tech-antitrust-enforcement-8abd6fdf)
 * [2025-03-21, 19:06:59](https://news.ycombinator.com/item?id=43439759) - [German company set for first commercial rocket launch from Europe](https://www.msn.com/en-us/technology/space-exploration/german-company-set-for-first-commercial-rocket-launch-from-europe/ar-AA1Boq4F)
 * [2025-03-21, 18:55:33](https://news.ycombinator.com/item?id=43439610) - [New USPTO Memo Makes Fighting Patent Trolls Even Harder](https://www.eff.org/deeplinks/2025/03/new-uspto-memo-makes-fighting-patent-trolls-even-harder)
@@ -24,11 +24,11 @@
 * [2025-03-20, 16:51:12](https://news.ycombinator.com/item?id=43425655) - [Claude can now search the web](https://www.anthropic.com/news/web-search)
 * [2025-03-19, 12:14:46](https://news.ycombinator.com/item?id=43410874) - ['Bluey's World': How a Cute Aussie Puppy Became a $2B Juggernaut](https://www.hollywoodreporter.com/tv/tv-features/blueys-world-success-puppy-juggernaut-1236164905/)
 * [2025-03-19, 05:21:33](https://news.ycombinator.com/item?id=43408487) - [Even the worst mass extinction had its oases](https://arstechnica.com/science/2025/03/even-the-worst-mass-extinction-had-its-oases/)
+* [2025-03-19, 00:59:07](https://news.ycombinator.com/item?id=43407196) - [Researcher uses AI to make texts that are thousands of years old readable (2023)](https://phys.org/news/2023-02-ai-texts-thousands-years-readable.html)
 * [2025-03-18, 12:58:40](https://news.ycombinator.com/item?id=43398908) - [Specializing Python with E-Graphs](https://vectorfold.studio/blog/egglog)
 * [2025-03-18, 12:21:12](https://news.ycombinator.com/item?id=43398539) - [Liberapay](https://en.liberapay.com/)
 * [2025-03-18, 11:50:38](https://news.ycombinator.com/item?id=43398308) - [Global population datasets systematically underrepresent rural population](https://www.nature.com/articles/s41467-025-56906-7)
 * [2025-03-18, 10:18:12](https://news.ycombinator.com/item?id=43397640) - [Sync Engines Are the Future](https://www.instantdb.com/essays/sync_future)
-* [2025-03-18, 10:15:41](https://news.ycombinator.com/item?id=43397625) - [Manifest: A 1-file micro-back end](https://github.com/mnfst/manifest)
 * [2025-03-17, 15:16:03](https://news.ycombinator.com/item?id=43389455) - [Napkin Math Tool](https://taylor.town/napkin-math)
 
 ## [Archives](archives/index.md)
