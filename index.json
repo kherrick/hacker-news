@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-03-21, 02:11:35",
-      "https://news.ycombinator.com/item?id=43431171"
-    ],
-    [
-      "Feds indict ex-Michigan FB coach Matt Weiss: Hacked computers to spy on women",
-      "https://www.freep.com/story/sports/college/university-michigan/wolverines/2025/03/20/matt-weiss-charged-crimes-computers-michigan-football/82570958007/"
-    ]
-  ],
-  [
-    [
       "2025-03-21, 01:46:31",
       "https://news.ycombinator.com/item?id=43431068"
     ],
@@ -57,6 +47,16 @@
     [
       "SmolDocling: An ultra-compact VLM for end-to-end multi-modal document conversion",
       "https://arxiv.org/abs/2503.11576"
+    ]
+  ],
+  [
+    [
+      "2025-03-21, 00:49:10",
+      "https://news.ycombinator.com/item?id=43430750"
+    ],
+    [
+      "Chibi: PNG-tuber application made in Rust",
+      "https://github.com/megabytesofrem/chibi"
     ]
   ],
   [
