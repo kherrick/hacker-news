@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-21, 04:01:00](https://news.ycombinator.com/item?id=43431675) - [Apple Shuffles AI Executive Ranks in Bid to Turn Around Siri](https://finance.yahoo.com/news/apple-shuffles-ai-executive-ranks-162500488.html)
+* [2025-03-21, 03:37:10](https://news.ycombinator.com/item?id=43431587) - [iPhones were being stolen off porches right after delivery, and now we know how](https://9to5mac.com/2025/03/20/iphones-were-being-stolen-off-porches-right-after-delivery-and-now-we-know-how/)
 * [2025-03-21, 03:21:12](https://news.ycombinator.com/item?id=43431522) - [The head of South Korea's guard consulted ChatGPT before martial law was imposed](https://www.hani.co.kr/arti/society/society_general/1187705.html)
 * [2025-03-21, 02:14:46](https://news.ycombinator.com/item?id=43431184) - [Nonprofit's Leader Convicted of Siphoning Off $240M in Federal Food Aid](https://www.nytimes.com/2025/03/19/us/nonprofit-leader-convicted-federal-food-aid.html)
 * [2025-03-21, 01:46:31](https://news.ycombinator.com/item?id=43431068) - [The IndieWeb Doesn't Need to \"Take Off\"](https://susam.net/indieweb-does-not-need-to-take-off.html)
@@ -22,7 +23,6 @@
 * [2025-03-20, 08:00:54](https://news.ycombinator.com/item?id=43420683) - [Minding the gaps: A new way to draw separators in CSS](https://blogs.windows.com/msedgedev/2025/03/19/minding-the-gaps-a-new-way-to-draw-separators-in-css/)
 * [2025-03-20, 03:37:31](https://news.ycombinator.com/item?id=43419701) - [The Pain That Is GitHub Actions](https://www.feldera.com/blog/the-pain-that-is-github-actions)
 * [2025-03-18, 17:23:30](https://news.ycombinator.com/item?id=43402058) - [NASA Whoosh Rocket](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/whoosh-rocket/)
-* [2025-03-18, 13:23:57](https://news.ycombinator.com/item?id=43399170) - [Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries (20](https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/)
 * [2025-03-18, 11:25:54](https://news.ycombinator.com/item?id=43398148) - [Debugging PostgreSQL More Easily](https://www.cybertec-postgresql.com/en/debugging-postgresql-more-easily/)
 * [2025-03-18, 10:40:48](https://news.ycombinator.com/item?id=43397811) - [QRP Labs QMX SSB beta firmware relased](https://qrp-labs.com/qmxp/ssbbeta.html)
 * [2025-03-18, 10:18:12](https://news.ycombinator.com/item?id=43397640) - [Sync Engines Are the Future](https://www.instantdb.com/essays/sync_future)
