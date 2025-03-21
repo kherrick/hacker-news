@@ -72,6 +72,7 @@
 * [2025-03-18, 10:40:48](https://news.ycombinator.com/item?id=43397811) - [QRP Labs QMX SSB beta firmware relased](https://qrp-labs.com/qmxp/ssbbeta.html)
 * [2025-03-18, 10:21:09](https://news.ycombinator.com/item?id=43397664) - [Claude.ai, Console, and API not available](https://status.anthropic.com/incidents/rjjg3fzd2spp)
 * [2025-03-18, 10:18:12](https://news.ycombinator.com/item?id=43397640) - [Sync Engines Are the Future](https://www.instantdb.com/essays/sync_future)
+* [2025-03-18, 10:15:41](https://news.ycombinator.com/item?id=43397625) - [Manifest: A 1-file micro-back end](https://github.com/mnfst/manifest)
 * [2025-03-18, 10:12:18](https://news.ycombinator.com/item?id=43397602) - [Energetic cost of human disturbance on the southern sea otter](https://wildlife.onlinelibrary.wiley.com/doi/10.1002/jwmg.70012)
 * [2025-03-18, 09:56:37](https://news.ycombinator.com/item?id=43397474) - [The Model Is the Product](https://vintagedata.org/blog/posts/model-is-the-product)
 * [2025-03-18, 09:48:35](https://news.ycombinator.com/item?id=43397407) - [Show HN: MCP-Kafka – Natural Language Interface for Kafka Commands](https://github.com/kanapuli/mcp-kafka)
