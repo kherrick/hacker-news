@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-20](index.md)
 
 * [2025-03-20, 22:35:33](https://news.ycombinator.com/item?id=43429828) - [Executive Order Shutting Down Department of Education](https://www.whitehouse.gov/presidential-actions/2025/03/improving-education-outcomes-by-empowering-parents-states-and-communities/)
+* [2025-03-20, 22:14:28](https://news.ycombinator.com/item?id=43429622) - [DNA evidence says first Americans came from Asia](https://factsanddetails.com/world/cat56/sub361/entry-8944.html)
 * [2025-03-20, 22:04:03](https://news.ycombinator.com/item?id=43429510) - [Court Imposes over $1.6B in Penalties on a Toyota Subsidiary for Emissions Fraud](https://www.justice.gov/opa/pr/court-sentences-hino-motors-ltd-toyota-subsidiary-and-imposes-over-16b-penalties-emissions)
 * [2025-03-20, 21:56:21](https://news.ycombinator.com/item?id=43429436) - [NATS Server v2.11](https://nats.io/blog/nats-server-2.11-release/)
 * [2025-03-20, 21:54:17](https://news.ycombinator.com/item?id=43429417) - [Retro Boy: simple Game Boy emulator written in Rust, can be played on the web](https://github.com/smparsons/retroboy)
