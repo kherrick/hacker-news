@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-21, 20:35:11](https://news.ycombinator.com/item?id=43440513) - [A Win for Encryption: France Rejects Backdoor Mandate](https://www.eff.org/deeplinks/2025/03/win-encryption-france-rejects-backdoor-mandate)
-* [2025-03-21, 20:28:09](https://news.ycombinator.com/item?id=43440449) - [How 'Careless People' is becoming a bigger problem for Meta](https://www.theverge.com/command-line-newsletter/634080/careless-people-sarah-wynn-williams-book-meta-congress)
+* [2025-03-21, 20:30:32](https://news.ycombinator.com/item?id=43440473) - [The little book about OS development](https://littleosbook.github.io/)
 * [2025-03-21, 20:07:12](https://news.ycombinator.com/item?id=43440267) - [Pen and Paper Exercises in Machine Learning](https://arxiv.org/abs/2206.13446)
+* [2025-03-21, 19:55:42](https://news.ycombinator.com/item?id=43440174) - [I want a good parallel computer](https://raphlinus.github.io/gpu/2025/03/21/good-parallel-computer.html)
 * [2025-03-21, 19:30:32](https://news.ycombinator.com/item?id=43439987) - [Piccolo: Large-Scale Graph Processing with Fine-Grained In-Memory Scatter-Gather](https://arxiv.org/abs/2503.05116)
 * [2025-03-21, 19:19:54](https://news.ycombinator.com/item?id=43439883) - [Population much more than 8.2B, rural areas underestimated](https://www.popularmechanics.com/science/environment/a64222314/human-population-count/)
 * [2025-03-21, 19:06:59](https://news.ycombinator.com/item?id=43439759) - [German company set for first commercial rocket launch from Europe](https://www.msn.com/en-us/technology/space-exploration/german-company-set-for-first-commercial-rocket-launch-from-europe/ar-AA1Boq4F)
@@ -27,7 +28,6 @@
 * [2025-03-18, 12:58:40](https://news.ycombinator.com/item?id=43398908) - [Specializing Python with E-Graphs](https://vectorfold.studio/blog/egglog)
 * [2025-03-18, 12:21:12](https://news.ycombinator.com/item?id=43398539) - [Liberapay](https://en.liberapay.com/)
 * [2025-03-18, 11:50:38](https://news.ycombinator.com/item?id=43398308) - [Global population datasets systematically underrepresent rural population](https://www.nature.com/articles/s41467-025-56906-7)
-* [2025-03-18, 10:18:12](https://news.ycombinator.com/item?id=43397640) - [Sync Engines Are the Future](https://www.instantdb.com/essays/sync_future)
 * [2025-03-17, 16:47:08](https://news.ycombinator.com/item?id=43390401) - [Lock Contention](https://maksimkita.com/blog/lock-contention.html)
 * [2025-03-17, 15:16:03](https://news.ycombinator.com/item?id=43389455) - [Napkin Math Tool](https://taylor.town/napkin-math)
 
