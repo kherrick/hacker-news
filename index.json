@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-03-21, 08:23:37",
-      "https://news.ycombinator.com/item?id=43433071"
-    ],
-    [
-      "Germany tightens travel advice to US after three citizens detained",
-      "https://www.euronews.com/my-europe/2025/03/19/germany-tightens-travel-advice-to-us-after-three-citizens-detained"
-    ]
-  ],
-  [
-    [
       "2025-03-21, 07:56:29",
       "https://news.ycombinator.com/item?id=43432890"
     ],
@@ -217,6 +207,16 @@
     [
       "Sync Engines Are the Future",
       "https://www.instantdb.com/essays/sync_future"
+    ]
+  ],
+  [
+    [
+      "2025-03-18, 10:15:41",
+      "https://news.ycombinator.com/item?id=43397625"
+    ],
+    [
+      "Manifest: A 1-file micro-back end",
+      "https://github.com/mnfst/manifest"
     ]
   ],
   [
