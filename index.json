@@ -1,12 +1,62 @@
 [
   [
     [
-      "2025-03-21, 01:20:32",
-      "https://news.ycombinator.com/item?id=43430938"
+      "2025-03-21, 02:38:55",
+      "https://news.ycombinator.com/item?id=43431299"
     ],
     [
-      "Indian chemical company employees indicted for Importing of Fentanyl Precursors",
-      "https://www.justice.gov/opa/pr/india-based-chemical-manufacturing-company-and-top-employees-indicted-unlawful-importation"
+      "Asahi Linux Progress Report - Linux 6.14",
+      "https://asahilinux.org/2025/03/progress-report-6-14/"
+    ]
+  ],
+  [
+    [
+      "2025-03-21, 02:14:46",
+      "https://news.ycombinator.com/item?id=43431184"
+    ],
+    [
+      "Nonprofit's Leader Convicted of Siphoning Off $240M in Federal Food Aid",
+      "https://www.nytimes.com/2025/03/19/us/nonprofit-leader-convicted-federal-food-aid.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-21, 02:11:35",
+      "https://news.ycombinator.com/item?id=43431171"
+    ],
+    [
+      "Feds indict ex-Michigan FB coach Matt Weiss: Hacked computers to spy on women",
+      "https://www.freep.com/story/sports/college/university-michigan/wolverines/2025/03/20/matt-weiss-charged-crimes-computers-michigan-football/82570958007/"
+    ]
+  ],
+  [
+    [
+      "2025-03-21, 01:25:49",
+      "https://news.ycombinator.com/item?id=43430963"
+    ],
+    [
+      "Be My Eyes",
+      "https://www.bemyeyes.com/"
+    ]
+  ],
+  [
+    [
+      "2025-03-21, 01:06:42",
+      "https://news.ycombinator.com/item?id=43430856"
+    ],
+    [
+      "SmolDocling: An ultra-compact VLM for end-to-end multi-modal document conversion",
+      "https://arxiv.org/abs/2503.11576"
+    ]
+  ],
+  [
+    [
+      "2025-03-21, 00:49:10",
+      "https://news.ycombinator.com/item?id=43430750"
+    ],
+    [
+      "Chibi: PNG-tuber application made in Rust",
+      "https://github.com/megabytesofrem/chibi"
     ]
   ],
   [
@@ -67,16 +117,6 @@
     [
       "Claude can now search the web",
       "https://www.anthropic.com/news/web-search"
-    ]
-  ],
-  [
-    [
-      "2025-03-20, 16:47:17",
-      "https://news.ycombinator.com/item?id=43425605"
-    ],
-    [
-      "Leaking Passwords and more on macOS",
-      "https://wts.dev/posts/password-leak/"
     ]
   ],
   [
@@ -161,16 +201,6 @@
   ],
   [
     [
-      "2025-03-20, 05:42:21",
-      "https://news.ycombinator.com/item?id=43420152"
-    ],
-    [
-      "How I accepted myself into Canada's largest AI hackathon",
-      "https://fastcall.dev/posts/genai-genesis-firebase/"
-    ]
-  ],
-  [
-    [
       "2025-03-20, 03:37:31",
       "https://news.ycombinator.com/item?id=43419701"
     ],
@@ -191,12 +221,12 @@
   ],
   [
     [
-      "2025-03-19, 22:30:56",
-      "https://news.ycombinator.com/item?id=43417932"
+      "2025-03-18, 17:23:30",
+      "https://news.ycombinator.com/item?id=43402058"
     ],
     [
-      "Bolt3D: Generating 3D Scenes in Seconds",
-      "https://szymanowiczs.github.io/bolt3d"
+      "NASA Whoosh Rocket",
+      "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/whoosh-rocket/"
     ]
   ],
   [
@@ -207,16 +237,6 @@
     [
       "Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries (20",
       "https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/"
-    ]
-  ],
-  [
-    [
-      "2025-03-18, 12:09:51",
-      "https://news.ycombinator.com/item?id=43398434"
-    ],
-    [
-      "Diagrams AI can, and cannot, generate",
-      "https://www.ilograph.com/blog/posts/diagrams-ai-can-and-cannot-generate/"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2025-03-17, 18:35:41",
-      "https://news.ycombinator.com/item?id=43391452"
-    ],
-    [
-      "Want even tinier chips? Use a particle accelerator",
-      "https://www.economist.com/science-and-technology/2025/03/12/want-even-tinier-chips-use-a-particle-accelerator"
-    ]
-  ],
-  [
-    [
       "2025-03-17, 12:53:52",
       "https://news.ycombinator.com/item?id=43388024"
     ],
     [
       "McLaren Invented New Carbon Fiber Tape to Build Even More Complex Parts",
       "https://www.thedrive.com/news/mclaren-invented-new-carbon-fiber-tape-to-build-even-more-complex-parts"
-    ]
-  ],
-  [
-    [
-      "2025-03-17, 10:40:05",
-      "https://news.ycombinator.com/item?id=43386973"
-    ],
-    [
-      "'Dark oxygen': a deep-sea discovery that has split scientists",
-      "https://phys.org/news/2025-03-dark-oxygen-deep-sea-discovery.html"
     ]
   ],
   [
