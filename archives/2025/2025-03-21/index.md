@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-03-21](index.md)
+
+* [2025-03-21, 01:20:32](https://news.ycombinator.com/item?id=43430938) - [Indian chemical company employees indicted for Importing of Fentanyl Precursors](https://www.justice.gov/opa/pr/india-based-chemical-manufacturing-company-and-top-employees-indicted-unlawful-importation)

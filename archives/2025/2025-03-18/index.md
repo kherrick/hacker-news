@@ -63,6 +63,7 @@
 * [2025-03-18, 12:18:29](https://news.ycombinator.com/item?id=43398518) - [Google to buy Wiz for $32B](https://www.reuters.com/technology/cybersecurity/google-agrees-buy-cybersecurity-startup-wiz-32-bln-ft-reports-2025-03-18/)
 * [2025-03-18, 12:09:51](https://news.ycombinator.com/item?id=43398434) - [Diagrams AI can, and cannot, generate](https://www.ilograph.com/blog/posts/diagrams-ai-can-and-cannot-generate/)
 * [2025-03-18, 11:36:40](https://news.ycombinator.com/item?id=43398216) - [Data Becker](https://en.wikipedia.org/wiki/Data_Becker)
+* [2025-03-18, 11:25:54](https://news.ycombinator.com/item?id=43398148) - [Debugging PostgreSQL More Easily](https://www.cybertec-postgresql.com/en/debugging-postgresql-more-easily/)
 * [2025-03-18, 11:24:33](https://news.ycombinator.com/item?id=43398137) - [Repealing the CHIPS Act risks US national security](https://www.ft.com/content/c6e7bc46-ab8f-49b6-8973-8c2906cc3604)
 * [2025-03-18, 11:17:44](https://news.ycombinator.com/item?id=43398081) - [Show HN: I made a live multiplayer Minesweeper game](https://www.minesweeperpro.com/)
 * [2025-03-18, 11:04:52](https://news.ycombinator.com/item?id=43397973) - [Going from an Idea to MVP in Weeks: PromptPanda's Launch(es)](https://docs.opensaas.sh/blog/2025-03-12-going-from-an-idea-to-mvp-in-weeks-promptpandas-launches/)
@@ -84,3 +85,4 @@
 * [2025-03-18, 01:52:18](https://news.ycombinator.com/item?id=43394951) - [20 Years of YC / HN](https://vickiboykis.com/2025/03/17/20-years-of-yc/)
 * [2025-03-18, 01:37:19](https://news.ycombinator.com/item?id=43394881) - [Rhombus Language](https://rhombus-lang.org)
 * [2025-03-18, 01:00:34](https://news.ycombinator.com/item?id=43394621) - [Doctor Droid (YC W23) Is Hiring](https://www.ycombinator.com/companies/doctor-droid/jobs/2v9x6QW-ai-lead)
+* [2025-03-18, 00:56:19](https://news.ycombinator.com/item?id=43394591) - [Zero-knowledge proofs, encoding Sudoku and Mario speedruns without semantic leak](https://vasekrozhon.wordpress.com/2025/03/17/zero-knowledge-proofs/)
