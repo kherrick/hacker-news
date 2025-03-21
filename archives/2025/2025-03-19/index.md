@@ -45,6 +45,7 @@
 * [2025-03-19, 12:53:24](https://news.ycombinator.com/item?id=43411218) - [Ex-PO operator is first Horizon IT victim to launch legal action against](https://www.theguardian.com/uk-news/2025/mar/19/ex-subpostmaster-lee-castleton-horizon-it-victim-first-legal-action-post-office-fujitsu)
 * [2025-03-19, 12:30:48](https://news.ycombinator.com/item?id=43410988) - [Konva.js - Declarative 2D Canvas for React, Vue, and Svelte](https://konvajs.org/)
 * [2025-03-19, 12:16:06](https://news.ycombinator.com/item?id=43410885) - [The Origin of the Pork Taboo](https://archaeology.org/issues/march-april-2025/letters-from/on-the-origin-of-the-pork-taboo/)
+* [2025-03-19, 12:14:46](https://news.ycombinator.com/item?id=43410874) - ['Bluey's World': How a Cute Aussie Puppy Became a $2B Juggernaut](https://www.hollywoodreporter.com/tv/tv-features/blueys-world-success-puppy-juggernaut-1236164905/)
 * [2025-03-19, 12:13:09](https://news.ycombinator.com/item?id=43410866) - [Hacking Your Own AI Coding Assistant with Claude Pro and MCP](https://www.zbeegnew.dev/tech/build_your_own_ai_coding_assistant_a_cost-effective_alternative_to_cursor/)
 * [2025-03-19, 12:05:59](https://news.ycombinator.com/item?id=43410825) - [Apple M4 MacBook Air review: I have no notes](https://arstechnica.com/apple/2025/03/apple-m4-macbook-air-review-i-have-no-notes/)
 * [2025-03-19, 11:48:49](https://news.ycombinator.com/item?id=43410720) - [Indiana Pi Bill](https://en.wikipedia.org/wiki/Indiana_pi_bill)

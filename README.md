@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-21, 17:43:25](https://news.ycombinator.com/item?id=43438797) - [Show HN: A terminal emulator in pure PHP](https://github.com/soloterm/screen)
 * [2025-03-21, 17:30:34](https://news.ycombinator.com/item?id=43438601) - [Chunking Attacks on File Backup Services Using Content-Deﬁned Chunking [pdf]](https://www.daemonology.net/blog/chunking-attacks.pdf)
 * [2025-03-21, 17:03:27](https://news.ycombinator.com/item?id=43438206) - [Bigscreen Beyond 2](https://www.bigscreenvr.com/)
 * [2025-03-21, 17:02:17](https://news.ycombinator.com/item?id=43438192) - [Mathup: Easy MathML authoring tool with a quick to write syntax](https://mathup.xyz/)
 * [2025-03-21, 17:00:58](https://news.ycombinator.com/item?id=43438166) - [GoGoGrandparent (YC S16) is hiring Back end Engineers](https://news.ycombinator.com/item?id=43438166)
-* [2025-03-21, 15:38:13](https://news.ycombinator.com/item?id=43436933) - [The Cult of the American Lawn](https://www.noemamag.com/the-cult-of-the-american-lawn/)
 * [2025-03-21, 15:35:27](https://news.ycombinator.com/item?id=43436894) - [IronRDP: a Rust implementation of Microsoft's RDP protocol](https://github.com/Devolutions/IronRDP)
 * [2025-03-21, 15:11:18](https://news.ycombinator.com/item?id=43436643) - [Police-Induced Confessions, 2.0: Risk Factors and Recommendations](https://psycnet.apa.org/fulltext/2025-79126-001.html)
 * [2025-03-21, 13:29:11](https://news.ycombinator.com/item?id=43435438) - [Show HN: Torch Lens Maker – Differentiable Geometric Optics in PyTorch](https://victorpoughon.github.io/torchlensmaker/)
@@ -20,6 +20,7 @@
 * [2025-03-20, 17:18:00](https://news.ycombinator.com/item?id=43426022) - [OpenAI Audio Models](https://www.openai.fm/)
 * [2025-03-20, 16:51:12](https://news.ycombinator.com/item?id=43425655) - [Claude can now search the web](https://www.anthropic.com/news/web-search)
 * [2025-03-20, 12:25:31](https://news.ycombinator.com/item?id=43422162) - [The Frontend Treadmill](https://polotek.net/posts/the-frontend-treadmill/)
+* [2025-03-19, 12:14:46](https://news.ycombinator.com/item?id=43410874) - ['Bluey's World': How a Cute Aussie Puppy Became a $2B Juggernaut](https://www.hollywoodreporter.com/tv/tv-features/blueys-world-success-puppy-juggernaut-1236164905/)
 * [2025-03-19, 05:21:33](https://news.ycombinator.com/item?id=43408487) - [Even the worst mass extinction had its oases](https://arstechnica.com/science/2025/03/even-the-worst-mass-extinction-had-its-oases/)
 * [2025-03-18, 17:23:30](https://news.ycombinator.com/item?id=43402058) - [NASA Whoosh Rocket](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/whoosh-rocket/)
 * [2025-03-18, 12:58:40](https://news.ycombinator.com/item?id=43398908) - [Specializing Python with E-Graphs](https://vectorfold.studio/blog/egglog)
@@ -27,7 +28,6 @@
 * [2025-03-18, 11:50:38](https://news.ycombinator.com/item?id=43398308) - [Global population datasets systematically underrepresent rural population](https://www.nature.com/articles/s41467-025-56906-7)
 * [2025-03-18, 10:18:12](https://news.ycombinator.com/item?id=43397640) - [Sync Engines Are the Future](https://www.instantdb.com/essays/sync_future)
 * [2025-03-18, 10:15:41](https://news.ycombinator.com/item?id=43397625) - [Manifest: A 1-file micro-back end](https://github.com/mnfst/manifest)
-* [2025-03-18, 09:00:16](https://news.ycombinator.com/item?id=43397055) - [Component Simplicity](https://jerf.org/iri/post/2025/fp_lessons_simplicity/)
 * [2025-03-18, 01:10:47](https://news.ycombinator.com/item?id=43394698) - ['The Maverick's Museum' Review: Albert Barnes and the Art of Collecting](https://www.wsj.com/arts-culture/books/the-mavericks-museum-review-albert-barnes-and-the-art-of-collecting-11f6c5e3)
 * [2025-03-17, 15:16:03](https://news.ycombinator.com/item?id=43389455) - [Napkin Math Tool](https://taylor.town/napkin-math)
 
