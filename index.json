@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-21, 20:20:48",
+      "https://news.ycombinator.com/item?id=43440376"
+    ],
+    [
+      "Tech terms I was pronouncing wrong",
+      "https://wonger.dev/posts/pronunciations"
+    ]
+  ],
+  [
+    [
+      "2025-03-21, 20:07:12",
+      "https://news.ycombinator.com/item?id=43440267"
+    ],
+    [
+      "Pen and Paper Exercises in Machine Learning",
+      "https://arxiv.org/abs/2206.13446"
+    ]
+  ],
+  [
+    [
       "2025-03-21, 19:30:32",
       "https://news.ycombinator.com/item?id=43439987"
     ],
@@ -27,16 +47,6 @@
     [
       "Population much more than 8.2B, rural areas underestimated",
       "https://www.popularmechanics.com/science/environment/a64222314/human-population-count/"
-    ]
-  ],
-  [
-    [
-      "2025-03-21, 19:19:45",
-      "https://news.ycombinator.com/item?id=43439881"
-    ],
-    [
-      "Plex remote stream no longer free; Plex Pass 2x price hike",
-      "https://www.plex.tv/blog/important-2025-plex-updates/"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2025-03-21, 09:35:33",
-      "https://news.ycombinator.com/item?id=43433599"
-    ],
-    [
-      "Numbering should start at zero (1982)",
-      "https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD831.html"
-    ]
-  ],
-  [
-    [
       "2025-03-21, 06:08:04",
       "https://news.ycombinator.com/item?id=43432291"
     ],
@@ -207,16 +207,6 @@
     [
       "Ancient DNA Shows Stone Age Europeans Voyaged by Sea to Africa",
       "https://www.nature.com/articles/d41586-025-00764-2"
-    ]
-  ],
-  [
-    [
-      "2025-03-20, 16:51:12",
-      "https://news.ycombinator.com/item?id=43425655"
-    ],
-    [
-      "Claude can now search the web",
-      "https://www.anthropic.com/news/web-search"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Sync Engines Are the Future",
       "https://www.instantdb.com/essays/sync_future"
+    ]
+  ],
+  [
+    [
+      "2025-03-17, 16:47:08",
+      "https://news.ycombinator.com/item?id=43390401"
+    ],
+    [
+      "Lock Contention",
+      "https://maksimkita.com/blog/lock-contention.html"
     ]
   ],
   [
