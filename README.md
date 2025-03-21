@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-21, 10:49:41](https://news.ycombinator.com/item?id=43434093) - [Career Development: What It Means to Be a Manager, Director, or VP](https://kellblog.com/2015/03/08/career-development-what-it-really-means-to-be-a-manager-director-or-vp/)
 * [2025-03-21, 09:50:57](https://news.ycombinator.com/item?id=43433694) - [The FBI Seized This Woman's Life Savings–Without Telling Her Why](https://reason.com/2025/03/20/the-fbi-seized-this-womans-life-savings-without-telling-her-why/)
 * [2025-03-21, 07:56:29](https://news.ycombinator.com/item?id=43432890) - [Calibre 8.0 Release](https://calibre-ebook.com/whats-new)
 * [2025-03-21, 06:44:14](https://news.ycombinator.com/item?id=43432485) - [Not dropping RISC-V support after all, maybe](https://chimera-linux.org/news/2025/03/new-riscv-server.html)
@@ -26,7 +27,6 @@
 * [2025-03-18, 05:57:56](https://news.ycombinator.com/item?id=43396172) - [Build a Container Image from Scratch](https://danishpraka.sh/posts/build-a-container-image-from-scratch/)
 * [2025-03-18, 00:56:19](https://news.ycombinator.com/item?id=43394591) - [Zero-knowledge proofs, encoding Sudoku and Mario speedruns without semantic leak](https://vasekrozhon.wordpress.com/2025/03/17/zero-knowledge-proofs/)
 * [2025-03-17, 21:08:03](https://news.ycombinator.com/item?id=43392753) - [Help Identify the Photographer Who Captured Many Images of 1960s San Francisco](https://www.smithsonianmag.com/smart-news/can-you-identify-the-mystery-photographer-who-captured-thousands-of-captivating-images-of-1960s-san-francisco-180986107/)
-* [2025-03-17, 15:12:51](https://news.ycombinator.com/item?id=43389424) - [BCX Basic](https://bcxbasiccoders.com/)
 * [2025-03-17, 13:11:23](https://news.ycombinator.com/item?id=43388218) - [History of Null Pointer Dereferences on macOS](https://afine.com/history-of-null-pointer-dereferences-on-macos/)
 * [2025-03-17, 12:53:52](https://news.ycombinator.com/item?id=43388024) - [McLaren invented new carbon fiber tape to build even more complex parts](https://www.thedrive.com/news/mclaren-invented-new-carbon-fiber-tape-to-build-even-more-complex-parts)
 * [2025-03-17, 02:42:16](https://news.ycombinator.com/item?id=43384697) - [Next generation LEDs are cheap and sustainable](https://liu.se/en/news-item/nasta-generations-lysdioder-ar-billiga-och-miljovanliga)
