@@ -1,42 +1,12 @@
 [
   [
     [
-      "2025-03-21, 12:39:16",
-      "https://news.ycombinator.com/item?id=43434925"
-    ],
-    [
-      "U.S. blocks Canadian access to iconic Stanstead border-straddling library",
-      "https://www.cbc.ca/lite/story/1.7489528"
-    ]
-  ],
-  [
-    [
       "2025-03-21, 12:16:45",
       "https://news.ycombinator.com/item?id=43434730"
     ],
     [
       "Wheel Reinventor's Principles",
       "https://tobloef.com/blog/wheel-reinventors-principles/"
-    ]
-  ],
-  [
-    [
-      "2025-03-21, 11:42:09",
-      "https://news.ycombinator.com/item?id=43434466"
-    ],
-    [
-      "Imagine telling 2010 devs that in 2025, collapsing a div would require $8/ month",
-      "https://old.reddit.com/r/webdev/comments/1jged6g/imagine_telling_2010_devs_that_in_2025_collapsing/"
-    ]
-  ],
-  [
-    [
-      "2025-03-21, 11:22:44",
-      "https://news.ycombinator.com/item?id=43434325"
-    ],
-    [
-      "Show HN: My Attempt to Organize the World of AI Dev Tools",
-      "https://aicode.danvoronov.com/tools/"
     ]
   ],
   [
@@ -71,42 +41,12 @@
   ],
   [
     [
-      "2025-03-21, 09:50:57",
-      "https://news.ycombinator.com/item?id=43433694"
-    ],
-    [
-      "The FBI Seized This Woman's Life Savings–Without Telling Her Why",
-      "https://reason.com/2025/03/20/the-fbi-seized-this-womans-life-savings-without-telling-her-why/"
-    ]
-  ],
-  [
-    [
       "2025-03-21, 09:35:33",
       "https://news.ycombinator.com/item?id=43433599"
     ],
     [
       "Numbering should start at zero (1982)",
       "https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD831.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-21, 07:56:29",
-      "https://news.ycombinator.com/item?id=43432890"
-    ],
-    [
-      "Calibre 8.0",
-      "https://calibre-ebook.com/whats-new"
-    ]
-  ],
-  [
-    [
-      "2025-03-21, 06:44:14",
-      "https://news.ycombinator.com/item?id=43432485"
-    ],
-    [
-      "Not dropping RISC-V support after all, maybe",
-      "https://chimera-linux.org/news/2025/03/new-riscv-server.html"
     ]
   ],
   [
@@ -121,12 +61,12 @@
   ],
   [
     [
-      "2025-03-21, 01:46:31",
-      "https://news.ycombinator.com/item?id=43431068"
+      "2025-03-21, 01:06:42",
+      "https://news.ycombinator.com/item?id=43430856"
     ],
     [
-      "The indieweb doesn't need to “take off”",
-      "https://susam.net/indieweb-does-not-need-to-take-off.html"
+      "SmolDocling: An ultra-compact VLM for end-to-end multi-modal document conversion",
+      "https://arxiv.org/abs/2503.11576"
     ]
   ],
   [
@@ -137,6 +77,16 @@
     [
       "Retro Boy: simple Game Boy emulator written in Rust, can be played on the web",
       "https://github.com/smparsons/retroboy"
+    ]
+  ],
+  [
+    [
+      "2025-03-20, 18:24:17",
+      "https://news.ycombinator.com/item?id=43427002"
+    ],
+    [
+      "The Burnout Machine",
+      "https://unionize.fyi"
     ]
   ],
   [
@@ -171,12 +121,42 @@
   ],
   [
     [
+      "2025-03-20, 13:28:44",
+      "https://news.ycombinator.com/item?id=43423032"
+    ],
+    [
+      "The Last Drops of Mexico City",
+      "https://mexicocitywater.longlead.com"
+    ]
+  ],
+  [
+    [
       "2025-03-20, 12:25:31",
       "https://news.ycombinator.com/item?id=43422162"
     ],
     [
       "The Frontend Treadmill",
       "https://polotek.net/posts/the-frontend-treadmill/"
+    ]
+  ],
+  [
+    [
+      "2025-03-20, 12:09:32",
+      "https://news.ycombinator.com/item?id=43422033"
+    ],
+    [
+      "Understanding Solar Energy",
+      "https://www.construction-physics.com/p/understanding-solar-energy"
+    ]
+  ],
+  [
+    [
+      "2025-03-20, 08:00:54",
+      "https://news.ycombinator.com/item?id=43420683"
+    ],
+    [
+      "Minding the gaps: A new way to draw separators in CSS",
+      "https://blogs.windows.com/msedgedev/2025/03/19/minding-the-gaps-a-new-way-to-draw-separators-in-css/"
     ]
   ],
   [
@@ -201,12 +181,22 @@
   ],
   [
     [
-      "2025-03-18, 11:25:54",
-      "https://news.ycombinator.com/item?id=43398148"
+      "2025-03-18, 13:22:49",
+      "https://news.ycombinator.com/item?id=43399155"
     ],
     [
-      "Debugging PostgreSQL More Easily",
-      "https://www.cybertec-postgresql.com/en/debugging-postgresql-more-easily/"
+      "Art the Whale",
+      "https://ejournals.sierracollege.edu/jscnhm/v1n1/artthewhale.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-18, 10:40:48",
+      "https://news.ycombinator.com/item?id=43397811"
+    ],
+    [
+      "QRP Labs QMX SSB beta firmware relased",
+      "https://qrp-labs.com/qmxp/ssbbeta.html"
     ]
   ],
   [
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2025-03-18, 05:57:56",
+      "https://news.ycombinator.com/item?id=43396172"
+    ],
+    [
+      "Build a Container Image from Scratch",
+      "https://danishpraka.sh/posts/build-a-container-image-from-scratch/"
+    ]
+  ],
+  [
+    [
       "2025-03-18, 00:56:19",
       "https://news.ycombinator.com/item?id=43394591"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2025-03-17, 16:07:16",
-      "https://news.ycombinator.com/item?id=43389970"
+      "2025-03-17, 15:12:51",
+      "https://news.ycombinator.com/item?id=43389424"
     ],
     [
-      "The mistakes and missed opportunities in the design of IPv6",
-      "https://ipv6.hanazo.no/posts/ipv6-missed-opportunities-1"
+      "BCX Basic",
+      "https://bcxbasiccoders.com/"
     ]
   ],
   [
