@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-21](index.md)
 
+* [2025-03-21, 09:50:57](https://news.ycombinator.com/item?id=43433694) - [The FBI Seized This Woman's Life Savings–Without Telling Her Why](https://reason.com/2025/03/20/the-fbi-seized-this-womans-life-savings-without-telling-her-why/)
 * [2025-03-21, 08:23:37](https://news.ycombinator.com/item?id=43433071) - [Germany tightens travel advice to US after three citizens detained](https://www.euronews.com/my-europe/2025/03/19/germany-tightens-travel-advice-to-us-after-three-citizens-detained)
 * [2025-03-21, 07:56:29](https://news.ycombinator.com/item?id=43432890) - [Calibre 8.0 Release](https://calibre-ebook.com/whats-new)
 * [2025-03-21, 07:21:35](https://news.ycombinator.com/item?id=43432670) - [Harvard study: open-source has an economic value of 8.8T dollars](https://www.heise.de/en/news/Harvard-study-Open-source-has-an-economic-value-of-8-8-trillion-dollars-10322643.html)

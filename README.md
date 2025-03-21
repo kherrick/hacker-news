@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-21, 09:50:57](https://news.ycombinator.com/item?id=43433694) - [The FBI Seized This Woman's Life Savings–Without Telling Her Why](https://reason.com/2025/03/20/the-fbi-seized-this-womans-life-savings-without-telling-her-why/)
 * [2025-03-21, 07:56:29](https://news.ycombinator.com/item?id=43432890) - [Calibre 8.0 Release](https://calibre-ebook.com/whats-new)
 * [2025-03-21, 06:44:14](https://news.ycombinator.com/item?id=43432485) - [Not dropping RISC-V support after all, maybe](https://chimera-linux.org/news/2025/03/new-riscv-server.html)
 * [2025-03-21, 04:01:00](https://news.ycombinator.com/item?id=43431675) - [Apple shuffles AI executive ranks in bid to turn around Siri](https://finance.yahoo.com/news/apple-shuffles-ai-executive-ranks-162500488.html)
@@ -23,7 +24,6 @@
 * [2025-03-18, 10:18:12](https://news.ycombinator.com/item?id=43397640) - [Sync Engines Are the Future](https://www.instantdb.com/essays/sync_future)
 * [2025-03-18, 10:15:41](https://news.ycombinator.com/item?id=43397625) - [Manifest: A 1-file micro-back end](https://github.com/mnfst/manifest)
 * [2025-03-18, 05:57:56](https://news.ycombinator.com/item?id=43396172) - [Build a Container Image from Scratch](https://danishpraka.sh/posts/build-a-container-image-from-scratch/)
-* [2025-03-18, 04:52:53](https://news.ycombinator.com/item?id=43395897) - [Human Perception of Dog Emotions Is Influenced by Extraneous Factors](https://www.tandfonline.com/doi/full/10.1080/08927936.2025.2469400#d1e710)
 * [2025-03-18, 00:56:19](https://news.ycombinator.com/item?id=43394591) - [Zero-knowledge proofs, encoding Sudoku and Mario speedruns without semantic leak](https://vasekrozhon.wordpress.com/2025/03/17/zero-knowledge-proofs/)
 * [2025-03-17, 21:08:03](https://news.ycombinator.com/item?id=43392753) - [Help Identify the Photographer Who Captured Many Images of 1960s San Francisco](https://www.smithsonianmag.com/smart-news/can-you-identify-the-mystery-photographer-who-captured-thousands-of-captivating-images-of-1960s-san-francisco-180986107/)
 * [2025-03-17, 15:12:51](https://news.ycombinator.com/item?id=43389424) - [BCX Basic](https://bcxbasiccoders.com/)
