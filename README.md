@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-21, 17:30:34](https://news.ycombinator.com/item?id=43438601) - [Chunking Attacks on File Backup Services Using Content-Deﬁned Chunking [pdf]](https://www.daemonology.net/blog/chunking-attacks.pdf)
 * [2025-03-21, 17:03:27](https://news.ycombinator.com/item?id=43438206) - [Bigscreen Beyond 2](https://www.bigscreenvr.com/)
 * [2025-03-21, 17:02:17](https://news.ycombinator.com/item?id=43438192) - [Mathup: Easy MathML authoring tool with a quick to write syntax](https://mathup.xyz/)
 * [2025-03-21, 17:00:58](https://news.ycombinator.com/item?id=43438166) - [GoGoGrandparent (YC S16) is hiring Back end Engineers](https://news.ycombinator.com/item?id=43438166)
@@ -28,7 +29,6 @@
 * [2025-03-18, 10:15:41](https://news.ycombinator.com/item?id=43397625) - [Manifest: A 1-file micro-back end](https://github.com/mnfst/manifest)
 * [2025-03-18, 09:00:16](https://news.ycombinator.com/item?id=43397055) - [Component Simplicity](https://jerf.org/iri/post/2025/fp_lessons_simplicity/)
 * [2025-03-18, 01:10:47](https://news.ycombinator.com/item?id=43394698) - ['The Maverick's Museum' Review: Albert Barnes and the Art of Collecting](https://www.wsj.com/arts-culture/books/the-mavericks-museum-review-albert-barnes-and-the-art-of-collecting-11f6c5e3)
-* [2025-03-18, 00:56:19](https://news.ycombinator.com/item?id=43394591) - [Zero-knowledge proofs, encoding Sudoku and Mario speedruns without semantic leak](https://vasekrozhon.wordpress.com/2025/03/17/zero-knowledge-proofs/)
 * [2025-03-17, 15:16:03](https://news.ycombinator.com/item?id=43389455) - [Napkin Math Tool](https://taylor.town/napkin-math)
 
 ## [Archives](archives/index.md)
