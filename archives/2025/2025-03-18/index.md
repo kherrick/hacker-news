@@ -83,6 +83,7 @@
 * [2025-03-18, 07:00:20](https://news.ycombinator.com/item?id=43396450) - [Depot (YC W23) is hiring a founding developer marketer (EU/US remote)](https://www.ycombinator.com/companies/depot/jobs/307RqGp-founding-developer-marketer)
 * [2025-03-18, 05:57:56](https://news.ycombinator.com/item?id=43396172) - [Build a Container Image from Scratch](https://danishpraka.sh/posts/build-a-container-image-from-scratch/)
 * [2025-03-18, 05:32:11](https://news.ycombinator.com/item?id=43396076) - [The \"Memory Cartography\" of Azerbaijani Emigrants](https://jam-news.net/memory-cartography-of-azerbaijani-emigrants/)
+* [2025-03-18, 04:52:53](https://news.ycombinator.com/item?id=43395897) - [Human Perception of Dog Emotions Is Influenced by Extraneous Factors](https://www.tandfonline.com/doi/full/10.1080/08927936.2025.2469400#d1e710)
 * [2025-03-18, 04:05:45](https://news.ycombinator.com/item?id=43395658) - [When Oregon blew up a whale with 20 cases of dynamite](https://katu.com/news/local/exploding-whale-day-54-years-since-whale-infamously-blown-up-on-oregon-beach)
 * [2025-03-18, 03:31:36](https://news.ycombinator.com/item?id=43395496) - [The Calculated Typer](https://bahr.io/pubs/entries/calctyper.html)
 * [2025-03-18, 01:52:18](https://news.ycombinator.com/item?id=43394951) - [20 Years of YC / HN](https://vickiboykis.com/2025/03/17/20-years-of-yc/)
