@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-21, 19:30:32](https://news.ycombinator.com/item?id=43439987) - [Piccolo: Large-Scale Graph Processing with Fine-Grained In-Memory Scatter-Gather](https://arxiv.org/abs/2503.05116)
+* [2025-03-21, 19:27:32](https://news.ycombinator.com/item?id=43439962) - [National Lab Creates New Device to Test Safety Limits of Nuclear Fuel](https://www.energy.gov/ne/articles/national-lab-creates-new-device-test-safety-limits-nuclear-fuel)
+* [2025-03-21, 19:24:54](https://news.ycombinator.com/item?id=43439939) - [Ask HN: What is the simplest data orchestration tool you've worked with?](https://news.ycombinator.com/item?id=43439939)
 * [2025-03-21, 19:19:54](https://news.ycombinator.com/item?id=43439883) - [Population much more than 8.2B, rural areas underestimated](https://www.popularmechanics.com/science/environment/a64222314/human-population-count/)
 * [2025-03-21, 19:12:54](https://news.ycombinator.com/item?id=43439813) - [EU Pushes Ahead with Big Tech Antitrust Enforcement](https://www.wsj.com/tech/eu-pushes-ahead-with-big-tech-antitrust-enforcement-8abd6fdf)
 * [2025-03-21, 19:06:59](https://news.ycombinator.com/item?id=43439759) - [German company set for first commercial rocket launch from Europe](https://www.msn.com/en-us/technology/space-exploration/german-company-set-for-first-commercial-rocket-launch-from-europe/ar-AA1Boq4F)
@@ -18,8 +20,6 @@
 * [2025-03-21, 09:35:33](https://news.ycombinator.com/item?id=43433599) - [Numbering should start at zero (1982)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD831.html)
 * [2025-03-21, 06:08:04](https://news.ycombinator.com/item?id=43432291) - ['The Celts: A Modern History' by Ian Stewart Review](https://www.historytoday.com/archive/review/celts-modern-history-ian-stewart-review)
 * [2025-03-21, 04:01:00](https://news.ycombinator.com/item?id=43431675) - [Apple shuffles AI executive ranks in bid to turn around Siri](https://finance.yahoo.com/news/apple-shuffles-ai-executive-ranks-162500488.html)
-* [2025-03-21, 03:31:06](https://news.ycombinator.com/item?id=43431567) - [London's Heathrow Airport announces complete shutdown due to power outage](https://www.cnn.com/2025/03/20/travel/london-heathrow-airport-shut-intl-hnk/index.html)
-* [2025-03-20, 21:54:17](https://news.ycombinator.com/item?id=43429417) - [Retro Boy: simple Game Boy emulator written in Rust, can be played on the web](https://github.com/smparsons/retroboy)
 * [2025-03-20, 18:23:00](https://news.ycombinator.com/item?id=43426984) - [Ancient DNA Shows Stone Age Europeans Voyaged by Sea to Africa](https://www.nature.com/articles/d41586-025-00764-2)
 * [2025-03-20, 16:51:12](https://news.ycombinator.com/item?id=43425655) - [Claude can now search the web](https://www.anthropic.com/news/web-search)
 * [2025-03-19, 12:14:46](https://news.ycombinator.com/item?id=43410874) - ['Bluey's World': How a Cute Aussie Puppy Became a $2B Juggernaut](https://www.hollywoodreporter.com/tv/tv-features/blueys-world-success-puppy-juggernaut-1236164905/)

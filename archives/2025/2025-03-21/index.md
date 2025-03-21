@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-03-21](index.md)
 
 * [2025-03-21, 19:30:32](https://news.ycombinator.com/item?id=43439987) - [Piccolo: Large-Scale Graph Processing with Fine-Grained In-Memory Scatter-Gather](https://arxiv.org/abs/2503.05116)
+* [2025-03-21, 19:27:32](https://news.ycombinator.com/item?id=43439962) - [National Lab Creates New Device to Test Safety Limits of Nuclear Fuel](https://www.energy.gov/ne/articles/national-lab-creates-new-device-test-safety-limits-nuclear-fuel)
+* [2025-03-21, 19:24:54](https://news.ycombinator.com/item?id=43439939) - [Ask HN: What is the simplest data orchestration tool you've worked with?](https://news.ycombinator.com/item?id=43439939)
 * [2025-03-21, 19:19:54](https://news.ycombinator.com/item?id=43439883) - [Population much more than 8.2B, rural areas underestimated](https://www.popularmechanics.com/science/environment/a64222314/human-population-count/)
 * [2025-03-21, 19:12:54](https://news.ycombinator.com/item?id=43439813) - [EU Pushes Ahead with Big Tech Antitrust Enforcement](https://www.wsj.com/tech/eu-pushes-ahead-with-big-tech-antitrust-enforcement-8abd6fdf)
 * [2025-03-21, 19:06:59](https://news.ycombinator.com/item?id=43439759) - [German company set for first commercial rocket launch from Europe](https://www.msn.com/en-us/technology/space-exploration/german-company-set-for-first-commercial-rocket-launch-from-europe/ar-AA1Boq4F)
