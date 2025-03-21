@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-21, 05:40:38](https://news.ycombinator.com/item?id=43432142) - [Western Ignorance: Failure to See China Beyond the Party](https://thechinaacademy.org/western-ignorance-failure-to-see-china-beyond-the-party/)
 * [2025-03-21, 04:16:32](https://news.ycombinator.com/item?id=43431780) - [Boycott IETF 127](https://boycott-ietf127.org/)
 * [2025-03-21, 04:01:00](https://news.ycombinator.com/item?id=43431675) - [Apple Shuffles AI Executive Ranks in Bid to Turn Around Siri](https://finance.yahoo.com/news/apple-shuffles-ai-executive-ranks-162500488.html)
 * [2025-03-21, 03:37:10](https://news.ycombinator.com/item?id=43431587) - [iPhones were being stolen off porches right after delivery, and now we know how](https://9to5mac.com/2025/03/20/iphones-were-being-stolen-off-porches-right-after-delivery-and-now-we-know-how/)
@@ -8,7 +9,6 @@
 * [2025-03-21, 01:06:42](https://news.ycombinator.com/item?id=43430856) - [SmolDocling: An ultra-compact VLM for end-to-end multi-modal document conversion](https://arxiv.org/abs/2503.11576)
 * [2025-03-21, 00:49:10](https://news.ycombinator.com/item?id=43430750) - [Chibi: PNG-tuber application made in Rust](https://github.com/megabytesofrem/chibi)
 * [2025-03-20, 21:54:17](https://news.ycombinator.com/item?id=43429417) - [Retro Boy: simple Game Boy emulator written in Rust, can be played on the web](https://github.com/smparsons/retroboy)
-* [2025-03-20, 19:33:30](https://news.ycombinator.com/item?id=43427850) - [Show HN: Minimalytics – a standalone minimal analytics app built on SQLite](https://github.com/nafey/minimalytics)
 * [2025-03-20, 18:24:17](https://news.ycombinator.com/item?id=43427002) - [The Burnout Machine](https://unionize.fyi)
 * [2025-03-20, 17:18:00](https://news.ycombinator.com/item?id=43426022) - [OpenAI Audio Models](https://www.openai.fm/)
 * [2025-03-20, 16:51:12](https://news.ycombinator.com/item?id=43425655) - [Claude can now search the web](https://www.anthropic.com/news/web-search)

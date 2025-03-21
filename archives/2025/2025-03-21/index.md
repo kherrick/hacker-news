@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-21](index.md)
 
+* [2025-03-21, 05:40:38](https://news.ycombinator.com/item?id=43432142) - [Western Ignorance: Failure to See China Beyond the Party](https://thechinaacademy.org/western-ignorance-failure-to-see-china-beyond-the-party/)
 * [2025-03-21, 04:16:32](https://news.ycombinator.com/item?id=43431780) - [Boycott IETF 127](https://boycott-ietf127.org/)
 * [2025-03-21, 04:01:00](https://news.ycombinator.com/item?id=43431675) - [Apple Shuffles AI Executive Ranks in Bid to Turn Around Siri](https://finance.yahoo.com/news/apple-shuffles-ai-executive-ranks-162500488.html)
 * [2025-03-21, 03:37:10](https://news.ycombinator.com/item?id=43431587) - [iPhones were being stolen off porches right after delivery, and now we know how](https://9to5mac.com/2025/03/20/iphones-were-being-stolen-off-porches-right-after-delivery-and-now-we-know-how/)
