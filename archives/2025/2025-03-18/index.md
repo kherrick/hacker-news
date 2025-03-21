@@ -63,6 +63,7 @@
 * [2025-03-18, 12:33:42](https://news.ycombinator.com/item?id=43398652) - [How I Stay Motivated Working on My Solo SaaS (When It Feels Like Nobody Cares)](https://news.ycombinator.com/item?id=43398652)
 * [2025-03-18, 12:25:52](https://news.ycombinator.com/item?id=43398589) - [Stamina Is a Quiet Advantage](https://kupajo.com/stamina-is-a-quiet-advantage/)
 * [2025-03-18, 12:25:16](https://news.ycombinator.com/item?id=43398579) - [Court filing: DOGE aide broke Treasury policy by emailing unencrypted database](https://www.theregister.com/2025/03/17/doge_treasury/)
+* [2025-03-18, 12:21:12](https://news.ycombinator.com/item?id=43398539) - [Liberapay](https://en.liberapay.com/)
 * [2025-03-18, 12:18:29](https://news.ycombinator.com/item?id=43398518) - [Google to buy Wiz for $32B](https://www.reuters.com/technology/cybersecurity/google-agrees-buy-cybersecurity-startup-wiz-32-bln-ft-reports-2025-03-18/)
 * [2025-03-18, 12:09:51](https://news.ycombinator.com/item?id=43398434) - [Diagrams AI can, and cannot, generate](https://www.ilograph.com/blog/posts/diagrams-ai-can-and-cannot-generate/)
 * [2025-03-18, 11:36:40](https://news.ycombinator.com/item?id=43398216) - [Data Becker](https://en.wikipedia.org/wiki/Data_Becker)
