@@ -30,6 +30,7 @@
 * [2025-03-18, 17:29:19](https://news.ycombinator.com/item?id=43402136) - [Why AI will never replace human code review](https://graphite.dev/blog/ai-wont-replace-human-code-review)
 * [2025-03-18, 17:27:46](https://news.ycombinator.com/item?id=43402115) - [Amazon to kill off local Alexa processing, all voice requests shipped to cloud](https://www.theregister.com/2025/03/17/amazon_kills_on_device_alexa/)
 * [2025-03-18, 17:26:51](https://news.ycombinator.com/item?id=43402102) - [Verification-First Development](https://buttondown.com/hillelwayne/archive/verification-first-development/)
+* [2025-03-18, 17:23:30](https://news.ycombinator.com/item?id=43402058) - [NASA Whoosh Rocket](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/whoosh-rocket/)
 * [2025-03-18, 17:07:39](https://news.ycombinator.com/item?id=43401855) - [Show HN: I made a tool to port tweets to Bluesky mantaining their original date](https://bluemigrate.com)
 * [2025-03-18, 17:05:26](https://news.ycombinator.com/item?id=43401831) - [Jensen Huang – Nvidia GTC 2025 Keynote](https://www.nvidia.com/gtc/keynote/)
 * [2025-03-18, 17:01:16](https://news.ycombinator.com/item?id=43401772) - [Spaceium Inc (YC S24) Is Hiring a Software Engineer](https://www.ycombinator.com/companies/spaceium-inc/jobs/XGMVnH3-software-engineer)
