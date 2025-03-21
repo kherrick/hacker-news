@@ -69,6 +69,7 @@
 * [2025-03-18, 11:17:44](https://news.ycombinator.com/item?id=43398081) - [Show HN: I made a live multiplayer Minesweeper game](https://www.minesweeperpro.com/)
 * [2025-03-18, 11:04:52](https://news.ycombinator.com/item?id=43397973) - [Going from an Idea to MVP in Weeks: PromptPanda's Launch(es)](https://docs.opensaas.sh/blog/2025-03-12-going-from-an-idea-to-mvp-in-weeks-promptpandas-launches/)
 * [2025-03-18, 10:43:15](https://news.ycombinator.com/item?id=43397832) - [Ownership of High-Risk (\"Vicious\") Dogs as a Marker for Deviant Behaviors](https://www.researchgate.net/publication/6729905_Ownership_of_High-Risk_Vicious_Dogs_as_a_Marker_for_Deviant_Behaviors)
+* [2025-03-18, 10:40:48](https://news.ycombinator.com/item?id=43397811) - [QRP Labs QMX SSB beta firmware relased](https://qrp-labs.com/qmxp/ssbbeta.html)
 * [2025-03-18, 10:21:09](https://news.ycombinator.com/item?id=43397664) - [Claude.ai, Console, and API not available](https://status.anthropic.com/incidents/rjjg3fzd2spp)
 * [2025-03-18, 10:18:12](https://news.ycombinator.com/item?id=43397640) - [Sync Engines Are the Future](https://www.instantdb.com/essays/sync_future)
 * [2025-03-18, 10:12:18](https://news.ycombinator.com/item?id=43397602) - [Energetic cost of human disturbance on the southern sea otter](https://wildlife.onlinelibrary.wiley.com/doi/10.1002/jwmg.70012)
