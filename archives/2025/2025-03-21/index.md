@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-21](index.md)
 
+* [2025-03-21, 08:23:37](https://news.ycombinator.com/item?id=43433071) - [Germany tightens travel advice to US after three citizens detained](https://www.euronews.com/my-europe/2025/03/19/germany-tightens-travel-advice-to-us-after-three-citizens-detained)
 * [2025-03-21, 07:56:29](https://news.ycombinator.com/item?id=43432890) - [Calibre 8.0 Release](https://calibre-ebook.com/whats-new)
 * [2025-03-21, 07:21:35](https://news.ycombinator.com/item?id=43432670) - [Harvard study: open-source has an economic value of 8.8T dollars](https://www.heise.de/en/news/Harvard-study-Open-source-has-an-economic-value-of-8-8-trillion-dollars-10322643.html)
 * [2025-03-21, 06:44:14](https://news.ycombinator.com/item?id=43432485) - [Chimera Linux NOT dropping RISC-V support after all](https://chimera-linux.org/news/2025/03/new-riscv-server.html)
@@ -11,6 +12,7 @@
 * [2025-03-21, 04:35:27](https://news.ycombinator.com/item?id=43431882) - [Show HN: Minimal JavaScript/TS framework that made us 10k in 10 days](https://github.com/The-Pocket-World/Pocket-Flow-Framework)
 * [2025-03-21, 04:16:32](https://news.ycombinator.com/item?id=43431780) - [Boycott IETF 127](https://boycott-ietf127.org/)
 * [2025-03-21, 04:01:00](https://news.ycombinator.com/item?id=43431675) - [Apple Shuffles AI Executive Ranks in Bid to Turn Around Siri](https://finance.yahoo.com/news/apple-shuffles-ai-executive-ranks-162500488.html)
+* [2025-03-21, 03:55:22](https://news.ycombinator.com/item?id=43431653) - [A New Form Factor for Drones: Vertical and Coaxial](https://www.core77.com/posts/135952/A-New-Form-Factor-for-Drones-Vertical-and-Coaxial)
 * [2025-03-21, 03:37:10](https://news.ycombinator.com/item?id=43431587) - [iPhones were being stolen off porches right after delivery, and now we know how](https://9to5mac.com/2025/03/20/iphones-were-being-stolen-off-porches-right-after-delivery-and-now-we-know-how/)
 * [2025-03-21, 03:31:06](https://news.ycombinator.com/item?id=43431567) - [London's Heathrow Airport announces complete shutdown due to power outage](https://www.cnn.com/2025/03/20/travel/london-heathrow-airport-shut-intl-hnk/index.html)
 * [2025-03-21, 03:21:12](https://news.ycombinator.com/item?id=43431522) - [The head of South Korea's guard consulted ChatGPT before martial law was imposed](https://www.hani.co.kr/arti/society/society_general/1187705.html)
