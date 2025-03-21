@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-21, 12:16:45",
+      "https://news.ycombinator.com/item?id=43434730"
+    ],
+    [
+      "Wheel Reinventor's Principles",
+      "https://tobloef.com/blog/wheel-reinventors-principles/"
+    ]
+  ],
+  [
+    [
+      "2025-03-21, 11:42:09",
+      "https://news.ycombinator.com/item?id=43434466"
+    ],
+    [
+      "Imagine telling 2010 devs that in 2025, collapsing a div would require $8/ month",
+      "https://old.reddit.com/r/webdev/comments/1jged6g/imagine_telling_2010_devs_that_in_2025_collapsing/"
+    ]
+  ],
+  [
+    [
       "2025-03-21, 11:22:44",
       "https://news.ycombinator.com/item?id=43434325"
     ],
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=43433599"
     ],
     [
-      "Numbering should start at zero: E.W. Dijkstra",
+      "Numbering should start at zero (1982)",
       "https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD831.html"
     ]
   ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-03-20, 18:24:17",
-      "https://news.ycombinator.com/item?id=43427002"
-    ],
-    [
-      "The Burnout Machine",
-      "https://unionize.fyi"
-    ]
-  ],
-  [
-    [
       "2025-03-20, 17:18:00",
       "https://news.ycombinator.com/item?id=43426022"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2025-03-20, 12:09:32",
-      "https://news.ycombinator.com/item?id=43422033"
-    ],
-    [
-      "Understanding Solar Energy",
-      "https://www.construction-physics.com/p/understanding-solar-energy"
-    ]
-  ],
-  [
-    [
       "2025-03-20, 03:37:31",
       "https://news.ycombinator.com/item?id=43419701"
     ],
@@ -187,6 +187,16 @@
     [
       "NASA Whoosh Rocket",
       "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/whoosh-rocket/"
+    ]
+  ],
+  [
+    [
+      "2025-03-18, 13:22:49",
+      "https://news.ycombinator.com/item?id=43399155"
+    ],
+    [
+      "Art the Whale",
+      "https://ejournals.sierracollege.edu/jscnhm/v1n1/artthewhale.html"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Manifest: A 1-file micro-back end",
       "https://github.com/mnfst/manifest"
-    ]
-  ],
-  [
-    [
-      "2025-03-18, 05:57:56",
-      "https://news.ycombinator.com/item?id=43396172"
-    ],
-    [
-      "Build a Container Image from Scratch",
-      "https://danishpraka.sh/posts/build-a-container-image-from-scratch/"
     ]
   ],
   [
