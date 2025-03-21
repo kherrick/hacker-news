@@ -7,6 +7,7 @@
 * [2025-03-21, 11:22:44](https://news.ycombinator.com/item?id=43434325) - [Show HN: My Attempt to Organize the World of AI Dev Tools](https://aicode.danvoronov.com/tools/)
 * [2025-03-21, 10:58:28](https://news.ycombinator.com/item?id=43434152) - [Notetime: Minimalistic notes where everything is timestamped](https://www.notetimeapp.com)
 * [2025-03-21, 10:49:41](https://news.ycombinator.com/item?id=43434093) - [Career Development: What It Means to Be a Manager, Director, or VP](https://kellblog.com/2015/03/08/career-development-what-it-really-means-to-be-a-manager-director-or-vp/)
+* [2025-03-21, 10:43:10](https://news.ycombinator.com/item?id=43434040) - [Boston Dynamics shows off another major leap in humanoid mobility](https://newatlas.com/ai-humanoids/boston-dynamics-atlas-athletic/)
 * [2025-03-21, 09:50:57](https://news.ycombinator.com/item?id=43433694) - [The FBI Seized This Woman's Life Savings–Without Telling Her Why](https://reason.com/2025/03/20/the-fbi-seized-this-womans-life-savings-without-telling-her-why/)
 * [2025-03-21, 09:35:33](https://news.ycombinator.com/item?id=43433599) - [Numbering should start at zero: E.W. Dijkstra](https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD831.html)
 * [2025-03-21, 08:23:37](https://news.ycombinator.com/item?id=43433071) - [Germany tightens travel advice to US after three citizens detained](https://www.euronews.com/my-europe/2025/03/19/germany-tightens-travel-advice-to-us-after-three-citizens-detained)

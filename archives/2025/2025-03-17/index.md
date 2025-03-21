@@ -34,6 +34,7 @@
 * [2025-03-17, 16:55:17](https://news.ycombinator.com/item?id=43390467) - [Alphabet spins out Taara – Internet over lasers](https://x.company/blog/posts/taara-graduation/)
 * [2025-03-17, 16:47:02](https://news.ycombinator.com/item?id=43390400) - [Deep Learning Is Not So Mysterious or Different](https://arxiv.org/abs/2503.02113)
 * [2025-03-17, 16:34:17](https://news.ycombinator.com/item?id=43390270) - [UK Online Safety Act comes into force today](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/enforcing-the-online-safety-act-platforms-must-start-tackling-illegal-material-from-today/)
+* [2025-03-17, 16:07:16](https://news.ycombinator.com/item?id=43389970) - [The mistakes and missed opportunities in the design of IPv6](https://ipv6.hanazo.no/posts/ipv6-missed-opportunities-1)
 * [2025-03-17, 15:12:51](https://news.ycombinator.com/item?id=43389424) - [BCX Basic](https://bcxbasiccoders.com/)
 * [2025-03-17, 14:38:18](https://news.ycombinator.com/item?id=43389064) - [Chaos in the Cloudflare Lisbon Office](https://blog.cloudflare.com/chaos-in-cloudflare-lisbon-office-securing-the-internet-with-wave-motion/)
 * [2025-03-17, 14:37:28](https://news.ycombinator.com/item?id=43389056) - [Harvard Will Make Tuition Free for More Students](https://www.nytimes.com/2025/03/17/us/politics/harvard-free-tuition.html)
