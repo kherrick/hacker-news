@@ -11,7 +11,6 @@
 * [2025-03-20, 19:33:30](https://news.ycombinator.com/item?id=43427850) - [Show HN: Minimalytics – a standalone minimal analytics app built on SQLite](https://github.com/nafey/minimalytics)
 * [2025-03-20, 18:24:17](https://news.ycombinator.com/item?id=43427002) - [The Burnout Machine](https://unionize.fyi)
 * [2025-03-20, 17:18:00](https://news.ycombinator.com/item?id=43426022) - [OpenAI Audio Models](https://www.openai.fm/)
-* [2025-03-20, 17:01:08](https://news.ycombinator.com/item?id=43425766) - [Pump.co (YC S22) Is Hiring](https://www.ycombinator.com/companies/pump-co/jobs/7kB7DNb-email-outreach-manager)
 * [2025-03-20, 16:51:12](https://news.ycombinator.com/item?id=43425655) - [Claude can now search the web](https://www.anthropic.com/news/web-search)
 * [2025-03-20, 14:33:28](https://news.ycombinator.com/item?id=43424065) - [ACARS Drama](https://acarsdrama.com/)
 * [2025-03-20, 13:57:30](https://news.ycombinator.com/item?id=43423523) - [Grease: An Open-Source Tool for Uncovering Hidden Vulnerabilities in Binary Code](https://www.galois.com/articles/introducing-grease)
@@ -28,6 +27,7 @@
 * [2025-03-18, 10:18:12](https://news.ycombinator.com/item?id=43397640) - [Sync Engines Are the Future](https://www.instantdb.com/essays/sync_future)
 * [2025-03-18, 05:57:56](https://news.ycombinator.com/item?id=43396172) - [Build a Container Image from Scratch](https://danishpraka.sh/posts/build-a-container-image-from-scratch/)
 * [2025-03-18, 00:56:19](https://news.ycombinator.com/item?id=43394591) - [Zero-knowledge proofs, encoding Sudoku and Mario speedruns without semantic leak](https://vasekrozhon.wordpress.com/2025/03/17/zero-knowledge-proofs/)
+* [2025-03-17, 13:11:23](https://news.ycombinator.com/item?id=43388218) - [History of Null Pointer Dereferences on macOS](https://afine.com/history-of-null-pointer-dereferences-on-macos/)
 * [2025-03-17, 12:53:52](https://news.ycombinator.com/item?id=43388024) - [McLaren Invented New Carbon Fiber Tape to Build Even More Complex Parts](https://www.thedrive.com/news/mclaren-invented-new-carbon-fiber-tape-to-build-even-more-complex-parts)
 * [2025-03-17, 02:42:16](https://news.ycombinator.com/item?id=43384697) - [Next generation LEDs are cheap and sustainable](https://liu.se/en/news-item/nasta-generations-lysdioder-ar-billiga-och-miljovanliga)
 
