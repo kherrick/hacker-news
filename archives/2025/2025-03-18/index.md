@@ -25,6 +25,7 @@
 * [2025-03-18, 18:03:50](https://news.ycombinator.com/item?id=43402622) - [Volkswagen's cheapest EV ever is the first to use Rivian software](https://techcrunch.com/2025/03/05/volkswagens-cheapest-ev-ever-is-the-first-to-use-rivian-software/)
 * [2025-03-18, 17:49:56](https://news.ycombinator.com/item?id=43402416) - [Building Agentic Flows with LangGraph and Model Context Protocol](https://www.qodo.ai/blog/building-agentic-flows-with-langgraph-model-context-protocol/)
 * [2025-03-18, 17:46:51](https://news.ycombinator.com/item?id=43402373) - [Tesla Hate Is Making Insurance More Expensive for Owners](https://gizmodo.com/tesla-hate-is-making-insurance-more-expensive-for-owners-2000577467)
+* [2025-03-18, 17:45:49](https://news.ycombinator.com/item?id=43402361) - [Jagged Flash Attention Optimization](https://www.shaped.ai/blog/jagged-flash-attention-optimization)
 * [2025-03-18, 17:44:56](https://news.ycombinator.com/item?id=43402348) - [What's new in Graal Languages 24.2](https://medium.com/graalvm/whats-new-in-graal-languages-24-2-328471fc4137)
 * [2025-03-18, 17:42:21](https://news.ycombinator.com/item?id=43402315) - [Ask HN: How Do I Escape Homelessness After Rebuilding My Mental Health?](https://news.ycombinator.com/item?id=43402315)
 * [2025-03-18, 17:30:13](https://news.ycombinator.com/item?id=43402149) - [HTTrack Website Copier](https://www.httrack.com/)
