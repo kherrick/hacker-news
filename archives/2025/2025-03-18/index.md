@@ -55,6 +55,7 @@
 * [2025-03-18, 13:08:19](https://news.ycombinator.com/item?id=43398999) - [Java 24](https://jdk.java.net/24/)
 * [2025-03-18, 13:06:45](https://news.ycombinator.com/item?id=43398991) - [You Do Not Need Blockchain: Popular Use Cases and Why They Do Not Work (2019)](https://blog.smartdec.net/you-do-not-need-blockchain-eight-popular-use-cases-and-why-they-do-not-work-f2ecc6cc2129)
 * [2025-03-18, 13:04:37](https://news.ycombinator.com/item?id=43398968) - [Show HN: I converted my notebook into a searchable database of IT keywords](https://techbook.digital/)
+* [2025-03-18, 12:58:40](https://news.ycombinator.com/item?id=43398908) - [Specializing Python with E-Graphs](https://vectorfold.studio/blog/egglog)
 * [2025-03-18, 12:53:00](https://news.ycombinator.com/item?id=43398837) - [AI crawlers haven't learned to play nice with websites](https://www.theregister.com/2025/03/18/ai_crawlers_sourcehut/)
 * [2025-03-18, 12:47:30](https://news.ycombinator.com/item?id=43398780) - [Google announces agreement to acquire Wiz](https://blog.google/inside-google/company-announcements/google-agreement-acquire-wiz/)
 * [2025-03-18, 12:47:18](https://news.ycombinator.com/item?id=43398777) - [The Unofficial Guide to OpenAI Realtime WebRTC API](https://webrtchacks.com/the-unofficial-guide-to-openai-realtime-webrtc-api/)

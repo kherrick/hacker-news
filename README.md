@@ -18,6 +18,7 @@
 * [2025-03-19, 05:21:33](https://news.ycombinator.com/item?id=43408487) - [Even the worst mass extinction had its oases](https://arstechnica.com/science/2025/03/even-the-worst-mass-extinction-had-its-oases/)
 * [2025-03-18, 17:23:30](https://news.ycombinator.com/item?id=43402058) - [NASA Whoosh Rocket](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/whoosh-rocket/)
 * [2025-03-18, 13:22:49](https://news.ycombinator.com/item?id=43399155) - [Art the Whale](https://ejournals.sierracollege.edu/jscnhm/v1n1/artthewhale.html)
+* [2025-03-18, 12:58:40](https://news.ycombinator.com/item?id=43398908) - [Specializing Python with E-Graphs](https://vectorfold.studio/blog/egglog)
 * [2025-03-18, 10:40:48](https://news.ycombinator.com/item?id=43397811) - [QRP Labs QMX SSB beta firmware relased](https://qrp-labs.com/qmxp/ssbbeta.html)
 * [2025-03-18, 10:18:12](https://news.ycombinator.com/item?id=43397640) - [Sync Engines Are the Future](https://www.instantdb.com/essays/sync_future)
 * [2025-03-18, 10:15:41](https://news.ycombinator.com/item?id=43397625) - [Manifest: A 1-file micro-back end](https://github.com/mnfst/manifest)
@@ -28,7 +29,6 @@
 * [2025-03-17, 21:08:03](https://news.ycombinator.com/item?id=43392753) - [Help Identify the Photographer Who Captured Many Images of 1960s San Francisco](https://www.smithsonianmag.com/smart-news/can-you-identify-the-mystery-photographer-who-captured-thousands-of-captivating-images-of-1960s-san-francisco-180986107/)
 * [2025-03-17, 15:16:03](https://news.ycombinator.com/item?id=43389455) - [Napkin Math Tool](https://taylor.town/napkin-math)
 * [2025-03-17, 13:11:23](https://news.ycombinator.com/item?id=43388218) - [History of Null Pointer Dereferences on macOS](https://afine.com/history-of-null-pointer-dereferences-on-macos/)
-* [2025-03-17, 12:53:52](https://news.ycombinator.com/item?id=43388024) - [McLaren invented new carbon fiber tape to build even more complex parts](https://www.thedrive.com/news/mclaren-invented-new-carbon-fiber-tape-to-build-even-more-complex-parts)
 * [2025-03-17, 02:42:16](https://news.ycombinator.com/item?id=43384697) - [Next generation LEDs are cheap and sustainable](https://liu.se/en/news-item/nasta-generations-lysdioder-ar-billiga-och-miljovanliga)
 
 ## [Archives](archives/index.md)
