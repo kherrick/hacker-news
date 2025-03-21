@@ -11,6 +11,7 @@
 * [2025-03-21, 20:20:48](https://news.ycombinator.com/item?id=43440376) - [Tech terms I was pronouncing wrong](https://wonger.dev/posts/pronunciations)
 * [2025-03-21, 20:07:12](https://news.ycombinator.com/item?id=43440267) - [Pen and Paper Exercises in Machine Learning](https://arxiv.org/abs/2206.13446)
 * [2025-03-21, 19:55:42](https://news.ycombinator.com/item?id=43440174) - [I want a good parallel computer](https://raphlinus.github.io/gpu/2025/03/21/good-parallel-computer.html)
+* [2025-03-21, 19:39:17](https://news.ycombinator.com/item?id=43440046) - [Frink](https://frinklang.org/)
 * [2025-03-21, 19:30:32](https://news.ycombinator.com/item?id=43439987) - [Piccolo: Large-Scale Graph Processing with Fine-Grained In-Memory Scatter-Gather](https://arxiv.org/abs/2503.05116)
 * [2025-03-21, 19:27:32](https://news.ycombinator.com/item?id=43439962) - [National Lab Creates New Device to Test Safety Limits of Nuclear Fuel](https://www.energy.gov/ne/articles/national-lab-creates-new-device-test-safety-limits-nuclear-fuel)
 * [2025-03-21, 19:24:54](https://news.ycombinator.com/item?id=43439939) - [Ask HN: What is the simplest data orchestration tool you've worked with?](https://news.ycombinator.com/item?id=43439939)
