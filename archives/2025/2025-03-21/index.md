@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-21](index.md)
 
+* [2025-03-21, 20:35:11](https://news.ycombinator.com/item?id=43440513) - [A Win for Encryption: France Rejects Backdoor Mandate](https://www.eff.org/deeplinks/2025/03/win-encryption-france-rejects-backdoor-mandate)
 * [2025-03-21, 20:20:48](https://news.ycombinator.com/item?id=43440376) - [Tech terms I was pronouncing wrong](https://wonger.dev/posts/pronunciations)
 * [2025-03-21, 20:07:12](https://news.ycombinator.com/item?id=43440267) - [Pen and Paper Exercises in Machine Learning](https://arxiv.org/abs/2206.13446)
 * [2025-03-21, 19:30:32](https://news.ycombinator.com/item?id=43439987) - [Piccolo: Large-Scale Graph Processing with Fine-Grained In-Memory Scatter-Gather](https://arxiv.org/abs/2503.05116)
