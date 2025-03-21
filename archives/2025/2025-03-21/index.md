@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-21](index.md)
 
+* [2025-03-21, 19:12:54](https://news.ycombinator.com/item?id=43439813) - [EU Pushes Ahead with Big Tech Antitrust Enforcement](https://www.wsj.com/tech/eu-pushes-ahead-with-big-tech-antitrust-enforcement-8abd6fdf)
+* [2025-03-21, 19:06:59](https://news.ycombinator.com/item?id=43439759) - [German company set for first commercial rocket launch from Europe](https://www.msn.com/en-us/technology/space-exploration/german-company-set-for-first-commercial-rocket-launch-from-europe/ar-AA1Boq4F)
 * [2025-03-21, 18:55:33](https://news.ycombinator.com/item?id=43439610) - [New USPTO Memo Makes Fighting Patent Trolls Even Harder](https://www.eff.org/deeplinks/2025/03/new-uspto-memo-makes-fighting-patent-trolls-even-harder)
 * [2025-03-21, 18:18:01](https://news.ycombinator.com/item?id=43439227) - [Livestock feed additives for methane mitigation](https://www.sciencedirect.com/science/article/pii/S0022030224013997)
 * [2025-03-21, 18:14:30](https://news.ycombinator.com/item?id=43439186) - [Artificial Intelligence Learns to Reason](https://www.science.org/doi/10.1126/science.adw5211)
