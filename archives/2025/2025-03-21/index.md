@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-03-21](index.md)
 
+* [2025-03-21, 15:35:27](https://news.ycombinator.com/item?id=43436894) - [IronRDP: a Rust implementation of Microsoft's RDP protocol](https://github.com/Devolutions/IronRDP)
 * [2025-03-21, 15:11:18](https://news.ycombinator.com/item?id=43436643) - [Police-Induced Confessions, 2.0: Risk Factors and Recommendations](https://psycnet.apa.org/fulltext/2025-79126-001.html)
 * [2025-03-21, 14:54:22](https://news.ycombinator.com/item?id=43436454) - [The Road Not Taken Is Guaranteed Minimum Income](https://blog.codinghorror.com/the-road-not-taken-is-guaranteed-minimum-income/)
+* [2025-03-21, 14:44:30](https://news.ycombinator.com/item?id=43436315) - [Congestion Pricing Is a Policy Miracle](https://bettercities.substack.com/p/congestion-pricing-is-a-policy-miracle)
 * [2025-03-21, 13:29:11](https://news.ycombinator.com/item?id=43435438) - [Show HN: Torch Lens Maker – Differentiable Geometric Optics in PyTorch](https://victorpoughon.github.io/torchlensmaker/)
 * [2025-03-21, 12:39:16](https://news.ycombinator.com/item?id=43434925) - [U.S. blocks Canadian access to iconic Stanstead border-straddling library](https://www.cbc.ca/lite/story/1.7489528)
 * [2025-03-21, 12:38:20](https://news.ycombinator.com/item?id=43434910) - [Legged Locomotion Meets Skateboarding](https://umich-curly.github.io/DHAL/)

@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-21, 15:35:27](https://news.ycombinator.com/item?id=43436894) - [IronRDP: a Rust implementation of Microsoft's RDP protocol](https://github.com/Devolutions/IronRDP)
 * [2025-03-21, 15:11:18](https://news.ycombinator.com/item?id=43436643) - [Police-Induced Confessions, 2.0: Risk Factors and Recommendations](https://psycnet.apa.org/fulltext/2025-79126-001.html)
-* [2025-03-21, 14:54:22](https://news.ycombinator.com/item?id=43436454) - [The Road Not Taken Is Guaranteed Minimum Income](https://blog.codinghorror.com/the-road-not-taken-is-guaranteed-minimum-income/)
+* [2025-03-21, 14:44:30](https://news.ycombinator.com/item?id=43436315) - [Congestion Pricing Is a Policy Miracle](https://bettercities.substack.com/p/congestion-pricing-is-a-policy-miracle)
 * [2025-03-21, 13:29:11](https://news.ycombinator.com/item?id=43435438) - [Show HN: Torch Lens Maker – Differentiable Geometric Optics in PyTorch](https://victorpoughon.github.io/torchlensmaker/)
 * [2025-03-21, 12:38:20](https://news.ycombinator.com/item?id=43434910) - [Legged Locomotion Meets Skateboarding](https://umich-curly.github.io/DHAL/)
 * [2025-03-21, 12:16:45](https://news.ycombinator.com/item?id=43434730) - [Wheel Reinventor’s Principles (2024)](https://tobloef.com/blog/wheel-reinventors-principles/)
@@ -25,7 +26,6 @@
 * [2025-03-18, 10:15:41](https://news.ycombinator.com/item?id=43397625) - [Manifest: A 1-file micro-back end](https://github.com/mnfst/manifest)
 * [2025-03-18, 09:00:16](https://news.ycombinator.com/item?id=43397055) - [Component Simplicity](https://jerf.org/iri/post/2025/fp_lessons_simplicity/)
 * [2025-03-18, 01:10:47](https://news.ycombinator.com/item?id=43394698) - ['The Maverick's Museum' Review: Albert Barnes and the Art of Collecting](https://www.wsj.com/arts-culture/books/the-mavericks-museum-review-albert-barnes-and-the-art-of-collecting-11f6c5e3)
-* [2025-03-18, 00:56:19](https://news.ycombinator.com/item?id=43394591) - [Zero-knowledge proofs, encoding Sudoku and Mario speedruns without semantic leak](https://vasekrozhon.wordpress.com/2025/03/17/zero-knowledge-proofs/)
 * [2025-03-17, 21:08:03](https://news.ycombinator.com/item?id=43392753) - [Help Identify the Photographer Who Captured Many Images of 1960s San Francisco](https://www.smithsonianmag.com/smart-news/can-you-identify-the-mystery-photographer-who-captured-thousands-of-captivating-images-of-1960s-san-francisco-180986107/)
 * [2025-03-17, 15:16:03](https://news.ycombinator.com/item?id=43389455) - [Napkin Math Tool](https://taylor.town/napkin-math)
 * [2025-03-17, 13:11:23](https://news.ycombinator.com/item?id=43388218) - [History of Null Pointer Dereferences on macOS](https://afine.com/history-of-null-pointer-dereferences-on-macos/)
