@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-21, 21:18:39](https://news.ycombinator.com/item?id=43440920) - [MySQL transactions per second vs. fsyncs per second](https://sirupsen.com/napkin/problem-10-mysql-transactions-per-second)
 * [2025-03-21, 20:35:11](https://news.ycombinator.com/item?id=43440513) - [A Win for Encryption: France Rejects Backdoor Mandate](https://www.eff.org/deeplinks/2025/03/win-encryption-france-rejects-backdoor-mandate)
 * [2025-03-21, 20:30:32](https://news.ycombinator.com/item?id=43440473) - [The little book about OS development](https://littleosbook.github.io/)
 * [2025-03-21, 20:07:12](https://news.ycombinator.com/item?id=43440267) - [Pen and Paper Exercises in Machine Learning](https://arxiv.org/abs/2206.13446)
@@ -18,7 +19,6 @@
 * [2025-03-21, 12:16:45](https://news.ycombinator.com/item?id=43434730) - [Wheel Reinventor’s Principles (2024)](https://tobloef.com/blog/wheel-reinventors-principles/)
 * [2025-03-21, 10:49:41](https://news.ycombinator.com/item?id=43434093) - [Career Development: What It Means to Be a Manager, Director, or VP (2015)](https://kellblog.com/2015/03/08/career-development-what-it-really-means-to-be-a-manager-director-or-vp/)
 * [2025-03-21, 06:08:04](https://news.ycombinator.com/item?id=43432291) - ['The Celts: A Modern History' by Ian Stewart Review](https://www.historytoday.com/archive/review/celts-modern-history-ian-stewart-review)
-* [2025-03-21, 04:01:00](https://news.ycombinator.com/item?id=43431675) - [Apple shuffles AI executive ranks in bid to turn around Siri](https://finance.yahoo.com/news/apple-shuffles-ai-executive-ranks-162500488.html)
 * [2025-03-20, 22:14:28](https://news.ycombinator.com/item?id=43429622) - [DNA evidence says first Americans came from Asia](https://factsanddetails.com/world/cat56/sub361/entry-8944.html)
 * [2025-03-20, 18:23:00](https://news.ycombinator.com/item?id=43426984) - [Ancient DNA Shows Stone Age Europeans Voyaged by Sea to Africa](https://www.nature.com/articles/d41586-025-00764-2)
 * [2025-03-20, 17:01:12](https://news.ycombinator.com/item?id=43425767) - [Show HN: Hyperbrowser MCP Server – Connect AI agents to the web through browsers](https://github.com/hyperbrowserai/mcp)
