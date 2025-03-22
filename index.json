@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-22, 21:19:07",
+      "https://news.ycombinator.com/item?id=43448723"
+    ],
+    [
+      "CVE-2025-29927 – Next.js",
+      "https://nextjs.org/blog/cve-2025-29927"
+    ]
+  ],
+  [
+    [
       "2025-03-22, 21:02:40",
       "https://news.ycombinator.com/item?id=43448606"
     ],
@@ -197,16 +207,6 @@
     [
       "Differential Geometry: A First Course in Curves and Surfaces [pdf]",
       "https://math.franklin.uga.edu/sites/default/files/users/user317/ShifrinDiffGeo.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-03-22, 07:24:05",
-      "https://news.ycombinator.com/item?id=43444160"
-    ],
-    [
-      "When you deleted /lib on Linux while still connected via SSH (2022)",
-      "https://tinyhack.com/2022/09/16/when-you-deleted-lib-on-linux-while-still-connected-via-ssh/"
     ]
   ],
   [
