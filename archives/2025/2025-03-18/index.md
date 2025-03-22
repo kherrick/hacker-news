@@ -18,6 +18,7 @@
 * [2025-03-18, 19:27:55](https://news.ycombinator.com/item?id=43403860) - [Nvidia's RTX Pro 6000 has 96GB of VRAM and 600W of power](https://www.theverge.com/news/631868/nvidia-rtx-pro-6000-blackwell-gpu-professionals)
 * [2025-03-18, 19:25:17](https://news.ycombinator.com/item?id=43403821) - [Oxidizing Ubuntu: adopting Rust utilities by default](https://lwn.net/SubscriberLink/1014002/580b8750bf02cf41/)
 * [2025-03-18, 18:56:53](https://news.ycombinator.com/item?id=43403377) - [PeerTube v7.1 Is Out](https://joinpeertube.org/news/release-7.1)
+* [2025-03-18, 18:53:00](https://news.ycombinator.com/item?id=43403321) - [Don't Be Afraid of Types](https://lmika.org/2025/03/18/dont-be-afraid-of-types.html)
 * [2025-03-18, 18:27:42](https://news.ycombinator.com/item?id=43402957) - [FTC Removes Posts Critical of Amazon, Microsoft, and AI Companies](https://www.wired.com/story/federal-trade-commission-removed-blogs-critical-of-ai-amazon-microsoft/)
 * [2025-03-18, 18:27:06](https://news.ycombinator.com/item?id=43402947) - [Learning to Love Dandelions (2021)](https://baynature.org/2021/11/04/learning-to-love-dandelions/)
 * [2025-03-18, 18:17:33](https://news.ycombinator.com/item?id=43402790) - [US appeals court rules AI generated art cannot be copyrighted](https://www.reuters.com/world/us/us-appeals-court-rejects-copyrights-ai-generated-art-lacking-human-creator-2025-03-18/)
