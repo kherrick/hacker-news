@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-22, 15:30:48](https://news.ycombinator.com/item?id=43446442) - [Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]](https://www.youtube.com/watch?v=xJzrU38pGWc)
 * [2025-03-22, 14:39:04](https://news.ycombinator.com/item?id=43445931) - [PyTorch Internals: Ezyang's Blog](https://blog.ezyang.com/2019/05/pytorch-internals/)
 * [2025-03-22, 14:35:12](https://news.ycombinator.com/item?id=43445894) - [Understanding R1-Zero-Like Training: A Critical Perspective](https://github.com/sail-sg/understand-r1-zero)
 * [2025-03-22, 14:17:13](https://news.ycombinator.com/item?id=43445755) - [One mother's win over Meta will change social media for everyone](https://www.thetimes.com/uk/technology-uk/article/facebook-personal-data-opt-out-swg26rm5z)
@@ -19,7 +20,6 @@
 * [2025-03-21, 17:43:25](https://news.ycombinator.com/item?id=43438797) - [Show HN: A terminal emulator in pure PHP](https://github.com/soloterm/screen)
 * [2025-03-21, 15:35:27](https://news.ycombinator.com/item?id=43436894) - [IronRDP: a Rust implementation of Microsoft's RDP protocol](https://github.com/Devolutions/IronRDP)
 * [2025-03-21, 10:49:41](https://news.ycombinator.com/item?id=43434093) - [Career Development: What It Means to Be a Manager, Director, or VP (2015)](https://kellblog.com/2015/03/08/career-development-what-it-really-means-to-be-a-manager-director-or-vp/)
-* [2025-03-20, 18:23:00](https://news.ycombinator.com/item?id=43426984) - [Ancient DNA Shows Stone Age Europeans Voyaged by Sea to Africa](https://www.nature.com/articles/d41586-025-00764-2)
 * [2025-03-20, 01:06:58](https://news.ycombinator.com/item?id=43418960) - [The Humans Building AI Scientists](https://www.asimov.press/p/futurehouse)
 * [2025-03-19, 18:44:11](https://news.ycombinator.com/item?id=43415820) - [Crabtime: Zig’s Comptime in Rust](https://crates.io/crates/crabtime)
 * [2025-03-19, 17:44:59](https://news.ycombinator.com/item?id=43415113) - [Cake is watching you: I built a camera cake](https://medium.com/@hazalmestci/interact-with-your-cake-and-eat-it-too-24d25da25017)

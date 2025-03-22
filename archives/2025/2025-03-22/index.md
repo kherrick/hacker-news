@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-22](index.md)
 
+* [2025-03-22, 15:30:48](https://news.ycombinator.com/item?id=43446442) - [Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]](https://www.youtube.com/watch?v=xJzrU38pGWc)
 * [2025-03-22, 14:39:04](https://news.ycombinator.com/item?id=43445931) - [PyTorch Internals: Ezyang's Blog](https://blog.ezyang.com/2019/05/pytorch-internals/)
 * [2025-03-22, 14:35:12](https://news.ycombinator.com/item?id=43445894) - [Understanding R1-Zero-Like Training: A Critical Perspective](https://github.com/sail-sg/understand-r1-zero)
 * [2025-03-22, 14:17:13](https://news.ycombinator.com/item?id=43445755) - [One mother's win over Meta will change social media for everyone](https://www.thetimes.com/uk/technology-uk/article/facebook-personal-data-opt-out-swg26rm5z)
