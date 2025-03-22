@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-22, 02:56:09](https://news.ycombinator.com/item?id=43442917) - [George Foreman, Boxer Turned Foreman Grill Infomercial Star, Dies at 76](https://variety.com/2025/tv/news/george-foreman-boxer-infomercial-star-dies-1236345523/)
+* [2025-03-22, 02:24:00](https://news.ycombinator.com/item?id=43442694) - [The CRPG Renaissance, Part 5: Fallout 2 and Baldur's Gate](https://www.filfre.net/2025/03/the-crpg-renaissance-part-5-fallout-2-and-baldurs-gate/)
 * [2025-03-22, 01:01:40](https://news.ycombinator.com/item?id=43442360) - [Imbue (YC S17) Is Hiring Product Engineers](https://news.ycombinator.com/item?id=43442360)
 * [2025-03-22, 00:30:37](https://news.ycombinator.com/item?id=43442178) - [Monster Cables picked the wrong guy to threaten (2008)](https://www.oncontracts.com/monster-cables-picked-the-wrong-guy-to-threaten/)
 * [2025-03-22, 00:19:54](https://news.ycombinator.com/item?id=43442107) - [High Frequency Food: Better Cutting with Ultrasonics](https://hackaday.com/2025/03/21/high-frequency-food-better-cutting-with-ultrasonics/)
@@ -20,7 +21,6 @@
 * [2025-03-21, 13:29:11](https://news.ycombinator.com/item?id=43435438) - [Show HN: Torch Lens Maker – Differentiable Geometric Optics in PyTorch](https://victorpoughon.github.io/torchlensmaker/)
 * [2025-03-21, 12:38:20](https://news.ycombinator.com/item?id=43434910) - [Legged Locomotion Meets Skateboarding](https://umich-curly.github.io/DHAL/)
 * [2025-03-21, 10:49:41](https://news.ycombinator.com/item?id=43434093) - [Career Development: What It Means to Be a Manager, Director, or VP (2015)](https://kellblog.com/2015/03/08/career-development-what-it-really-means-to-be-a-manager-director-or-vp/)
-* [2025-03-21, 06:08:04](https://news.ycombinator.com/item?id=43432291) - [‘The Celts: A Modern History’ by Ian Stewart Review](https://www.historytoday.com/archive/review/celts-modern-history-ian-stewart-review)
 * [2025-03-20, 18:23:00](https://news.ycombinator.com/item?id=43426984) - [Ancient DNA Shows Stone Age Europeans Voyaged by Sea to Africa](https://www.nature.com/articles/d41586-025-00764-2)
 * [2025-03-20, 17:23:00](https://news.ycombinator.com/item?id=43426105) - [Export Predefined Regions in Krita](https://github.com/aldanasjuan/krita_export_region)
 * [2025-03-19, 12:14:46](https://news.ycombinator.com/item?id=43410874) - [‘Bluey’s World’: How a Cute Aussie Puppy Became a Juggernaut](https://www.hollywoodreporter.com/tv/tv-features/blueys-world-success-puppy-juggernaut-1236164905/)
