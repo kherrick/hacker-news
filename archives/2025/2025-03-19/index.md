@@ -74,3 +74,4 @@
 * [2025-03-19, 04:07:13](https://news.ycombinator.com/item?id=43408194) - [Ask HN: Where do you browse and chat outside of here?](https://news.ycombinator.com/item?id=43408194)
 * [2025-03-19, 01:32:31](https://news.ycombinator.com/item?id=43407423) - [Show HN: I made a worldwide sexual life dashboard](https://www.worldsexmap.com/)
 * [2025-03-19, 00:59:07](https://news.ycombinator.com/item?id=43407196) - [Researcher uses AI to make texts that are thousands of years old readable (2023)](https://phys.org/news/2023-02-ai-texts-thousands-years-readable.html)
+* [2025-03-19, 00:04:49](https://news.ycombinator.com/item?id=43406777) - [Sound that can bend itself through space, reaching only your ear in a crowd](https://theconversation.com/researchers-created-sound-that-can-bend-itself-through-space-reaching-only-your-ear-in-a-crowd-252266)
