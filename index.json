@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-22, 18:35:00",
+      "https://news.ycombinator.com/item?id=43447616"
+    ],
+    [
+      "Most AI value will come from broad automation, not from R&D",
+      "https://epoch.ai/gradient-updates/most-ai-value-will-come-from-broad-automation-not-from-r-d"
+    ]
+  ],
+  [
+    [
       "2025-03-22, 18:03:27",
       "https://news.ycombinator.com/item?id=43447462"
     ],
@@ -57,6 +67,16 @@
     [
       "Facebook to stop targeting ads at UK woman after legal fight",
       "https://www.bbc.co.uk/news/articles/c1en1yjv4dpo"
+    ]
+  ],
+  [
+    [
+      "2025-03-22, 15:57:26",
+      "https://news.ycombinator.com/item?id=43446659"
+    ],
+    [
+      "Show HN: We made an MCP server so Cursor can debug Node.js on its own",
+      "https://www.npmjs.com/package/@hyperdrive-eng/mcp-nodejs-debugger"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Locks, leases, fencing tokens, FizzBee",
       "https://surfingcomplexity.blog/2025/03/03/locks-leases-fencing-tokens-fizzbee/"
-    ]
-  ],
-  [
-    [
-      "2025-03-18, 18:53:00",
-      "https://news.ycombinator.com/item?id=43403321"
-    ],
-    [
-      "Don't Be Afraid of Types",
-      "https://lmika.org/2025/03/18/dont-be-afraid-of-types.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-18, 11:50:38",
-      "https://news.ycombinator.com/item?id=43398308"
-    ],
-    [
-      "Global population datasets underrepresent rural population",
-      "https://www.nature.com/articles/s41467-025-56906-7"
     ]
   ]
 ]
