@@ -41,6 +41,7 @@
 * [2025-03-19, 14:14:10](https://news.ycombinator.com/item?id=43412298) - [\"Termux + X11 on my Android tablet...feels pretty close to a real Linux setup.\"](https://old.reddit.com/r/linuxhardware/comments/1jecn31/does_it_count_as_linux_hardware_if_its_android_i/)
 * [2025-03-19, 14:05:45](https://news.ycombinator.com/item?id=43412179) - [An early look at cryptographic watermarks for AI-generated content](https://blog.cloudflare.com/an-early-look-at-cryptographic-watermarks-for-ai-generated-content/)
 * [2025-03-19, 14:02:37](https://news.ycombinator.com/item?id=43412151) - [Pixel 9a: The latest A-series phone with Google AI smarts at an unbeatable value](https://blog.google/products/pixel/pixel-9a-the-latest-a-series-phone-with-google-ai-smarts-at-an-unbeatable-value/)
+* [2025-03-19, 14:02:35](https://news.ycombinator.com/item?id=43412149) - [Making the Arithmometer Count](https://www.mhs.ox.ac.uk/staff/saj/arithmometer/)
 * [2025-03-19, 13:47:02](https://news.ycombinator.com/item?id=43411934) - [Video game workers in North America now have an industry-wide union](https://www.engadget.com/big-tech/video-game-workers-in-north-america-now-have-an-industry-wide-union-130024730.html)
 * [2025-03-19, 13:44:25](https://news.ycombinator.com/item?id=43411898) - [The clustering behavior of sliding windows](https://arxiv.org/abs/2503.14393)
 * [2025-03-19, 13:34:42](https://news.ycombinator.com/item?id=43411771) - [Supply Chain Attacks on Linux Distributions](https://fenrisk.com/supply-chain-attacks)
