@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-22](index.md)
 
 * [2025-03-22, 09:51:58](https://news.ycombinator.com/item?id=43444605) - [MacBooks account for 86% of total Mac sales; Mac desktops just 14%](https://macdailynews.com/2025/03/19/macbooks-account-for-86-of-total-mac-sales-mac-desktops-just-14/)
+* [2025-03-22, 09:46:24](https://news.ycombinator.com/item?id=43444588) - [Coding Theory and Cryptography [pdf]](http://www.mathstat.ualberta.ca/~bowman/m422/m422.pdf)
 * [2025-03-22, 09:39:26](https://news.ycombinator.com/item?id=43444558) - [I'd like to take a moment to speak to you about the Adobe PSD format](https://github.com/gco/xee/blob/4fa3a6d609dd72b8493e52a68f316f7a02903276/XeePhotoshopLoader.m)
 * [2025-03-22, 08:20:15](https://news.ycombinator.com/item?id=43444337) - [Zen browser had a backdoor enabled by default](https://github.com/zen-browser/desktop/issues/5947)
 * [2025-03-22, 07:35:01](https://news.ycombinator.com/item?id=43444191) - [VibeSail: A case study in vibe coding a game](https://www.vibecoding.games/vibesail-a-case-study-in-vibe-coding-a-game/)
@@ -16,6 +17,7 @@
 * [2025-03-22, 04:45:08](https://news.ycombinator.com/item?id=43443640) - [Scallop – A Language for Neurosymbolic Programming](https://www.scallop-lang.org/)
 * [2025-03-22, 04:42:12](https://news.ycombinator.com/item?id=43443613) - [The struggle that made us in Waterloo](https://intention.bearblog.dev/the-struggle-that-made-us-in-waterloo/)
 * [2025-03-22, 04:20:07](https://news.ycombinator.com/item?id=43443494) - [Zen browser had a backdoor enabled by default](https://github.com/zen-browser/desktop/pull/927)
+* [2025-03-22, 04:01:12](https://news.ycombinator.com/item?id=43443378) - [Idiomatic Rust: Part 2](https://a-i-nstein.neocities.org/pages/part-2)
 * [2025-03-22, 03:48:49](https://news.ycombinator.com/item?id=43443280) - [Show HN: Font Pair – I was wasting hours choosing fonts, so I built this](https://github.com/CodeWithNeer/FontPair)
 * [2025-03-22, 02:56:09](https://news.ycombinator.com/item?id=43442917) - [George Foreman, Boxer Turned Foreman Grill Infomercial Star, Dies at 76](https://variety.com/2025/tv/news/george-foreman-boxer-infomercial-star-dies-1236345523/)
 * [2025-03-22, 02:24:00](https://news.ycombinator.com/item?id=43442694) - [The CRPG Renaissance, Part 5: Fallout 2 and Baldur's Gate](https://www.filfre.net/2025/03/the-crpg-renaissance-part-5-fallout-2-and-baldurs-gate/)
