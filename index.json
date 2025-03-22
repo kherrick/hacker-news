@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-03-22, 22:52:21",
+      "https://news.ycombinator.com/item?id=43449326"
+    ],
+    [
+      "The Vectrex Computer",
+      "https://www.amigalove.com/viewtopic.php?t=2887"
+    ]
+  ],
+  [
+    [
       "2025-03-22, 21:19:07",
       "https://news.ycombinator.com/item?id=43448723"
     ],
     [
-      "CVE-2025-29927 – Next.js",
+      "Next.js version 15.2.3 has been released to address a security vulnerability",
       "https://nextjs.org/blog/cve-2025-29927"
     ]
   ],
@@ -105,7 +115,7 @@
       "https://news.ycombinator.com/item?id=43447421"
     ],
     [
-      "California AG Rob Bonta Urgently Issues Consumer Alert for 23andMe Customers",
+      "California Attorney General issues consumer alert for 23andMe customers",
       "https://oag.ca.gov/news/press-releases/attorney-general-bonta-urgently-issues-consumer-alert-23andme-customers"
     ]
   ],
@@ -231,22 +241,22 @@
   ],
   [
     [
-      "2025-03-21, 20:07:12",
-      "https://news.ycombinator.com/item?id=43440267"
-    ],
-    [
-      "Pen and Paper Exercises in Machine Learning (2022)",
-      "https://arxiv.org/abs/2206.13446"
-    ]
-  ],
-  [
-    [
       "2025-03-21, 00:06:36",
       "https://news.ycombinator.com/item?id=43430498"
     ],
     [
       "Derivatives and Logarithms of 3D Transforms",
       "https://nosferalatu.com/./DerivativesLogarithmsTransforms.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-20, 22:34:07",
+      "https://news.ycombinator.com/item?id=43429804"
+    ],
+    [
+      "Optimizing Brainfuck interpreter in the C preprocessor",
+      "https://github.com/camel-cdr/bfcpp"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Trapping misbehaving bots in an AI Labyrinth",
       "https://blog.cloudflare.com/ai-labyrinth/"
-    ]
-  ],
-  [
-    [
-      "2025-03-19, 10:45:37",
-      "https://news.ycombinator.com/item?id=43410302"
-    ],
-    [
-      "Blue Ghost lander captures sunset shots on moon before falling silent",
-      "https://phys.org/news/2025-03-blue-ghost-lander-captures-stunning.html"
     ]
   ]
 ]
