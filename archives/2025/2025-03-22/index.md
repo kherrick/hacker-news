@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-22](index.md)
 
+* [2025-03-22, 14:10:30](https://news.ycombinator.com/item?id=43445720) - [Show HN: FastOpenAPI – automated docs for many Python frameworks](https://github.com/mr-fatalyst/fastopenapi)
+* [2025-03-22, 14:01:40](https://news.ycombinator.com/item?id=43445682) - [Improved ways to operate a rude crawler](https://www.marginalia.nu/log/a_115_rude_crawler/)
 * [2025-03-22, 13:47:03](https://news.ycombinator.com/item?id=43445616) - [Meta pirated books to train its AI](https://www.theatlantic.com/technology/archive/2025/03/libgen-meta-openai/682093/)
 * [2025-03-22, 09:51:58](https://news.ycombinator.com/item?id=43444605) - [MacBooks account for 86% of total Mac sales; Mac desktops just 14%](https://macdailynews.com/2025/03/19/macbooks-account-for-86-of-total-mac-sales-mac-desktops-just-14/)
 * [2025-03-22, 09:46:24](https://news.ycombinator.com/item?id=43444588) - [Coding Theory and Cryptography [pdf]](http://www.mathstat.ualberta.ca/~bowman/m422/m422.pdf)
