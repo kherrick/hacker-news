@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-19](index.md)
 
+* [2025-03-19, 23:29:28](https://news.ycombinator.com/item?id=43418343) - [Hubble Captures Vivid Auroras in Jupiter's Atmosphere](https://science.nasa.gov/missions/hubble/hubble-captures-vivid-auroras-in-jupiters-atmosphere/)
 * [2025-03-19, 23:12:45](https://news.ycombinator.com/item?id=43418218) - [Introduction to Deep Learning (CMU)](https://deeplearning.cs.cmu.edu/./S25/index.html)
 * [2025-03-19, 23:09:34](https://news.ycombinator.com/item?id=43418192) - [The Continuing Crisis, Part IX: Inside the NIH Now](https://www.science.org/content/blog-post/continuing-crisis-part-ix-inside-nih-now)
 * [2025-03-19, 23:08:08](https://news.ycombinator.com/item?id=43418184) - [DESI Opens Access to the Largest 3D Map of the Universe Yet](https://newscenter.lbl.gov/2025/03/19/desi-opens-access-to-the-largest-3d-map-of-the-universe-yet/)
