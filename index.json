@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2025-03-22, 04:42:12",
-      "https://news.ycombinator.com/item?id=43443613"
+      "2025-03-22, 04:20:07",
+      "https://news.ycombinator.com/item?id=43443494"
     ],
     [
-      "The struggle that made us in Waterloo",
-      "https://intention.bearblog.dev/the-struggle-that-made-us-in-waterloo/"
+      "Zen browser had a backdoor enabled by default",
+      "https://github.com/zen-browser/desktop/pull/927"
     ]
   ],
   [
@@ -57,16 +57,6 @@
     [
       "Monster Cables picked the wrong guy to threaten (2008)",
       "https://www.oncontracts.com/monster-cables-picked-the-wrong-guy-to-threaten/"
-    ]
-  ],
-  [
-    [
-      "2025-03-21, 23:54:30",
-      "https://news.ycombinator.com/item?id=43441961"
-    ],
-    [
-      "Not OK Cupid – A story of poor email address validation",
-      "https://www.fastmail.com/blog/not-ok-cupid/"
     ]
   ],
   [
@@ -127,6 +117,16 @@
     [
       "Frink",
       "https://frinklang.org/"
+    ]
+  ],
+  [
+    [
+      "2025-03-21, 18:55:33",
+      "https://news.ycombinator.com/item?id=43439610"
+    ],
+    [
+      "New USPTO Memo Makes Fighting Patent Trolls Even Harder",
+      "https://www.eff.org/deeplinks/2025/03/new-uspto-memo-makes-fighting-patent-trolls-even-harder"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2025-03-19, 18:44:11",
+      "https://news.ycombinator.com/item?id=43415820"
+    ],
+    [
+      "Crabtime: Zig's Comptime in Rust",
+      "https://crates.io/crates/crabtime"
+    ]
+  ],
+  [
+    [
       "2025-03-19, 12:14:46",
       "https://news.ycombinator.com/item?id=43410874"
     ],
@@ -277,16 +287,6 @@
     [
       "Global population datasets systematically underrepresent rural population",
       "https://www.nature.com/articles/s41467-025-56906-7"
-    ]
-  ],
-  [
-    [
-      "2025-03-18, 10:07:27",
-      "https://news.ycombinator.com/item?id=43397556"
-    ],
-    [
-      "When the Animals Went Electric",
-      "https://nautil.us/when-the-animals-went-electric-1198482/"
     ]
   ],
   [
