@@ -8,6 +8,7 @@
 * [2025-03-20, 22:14:28](https://news.ycombinator.com/item?id=43429622) - [DNA evidence says first Americans came from Asia](https://factsanddetails.com/world/cat56/sub361/entry-8944.html)
 * [2025-03-20, 22:04:03](https://news.ycombinator.com/item?id=43429510) - [Court Imposes over $1.6B in Penalties on a Toyota Subsidiary for Emissions Fraud](https://www.justice.gov/opa/pr/court-sentences-hino-motors-ltd-toyota-subsidiary-and-imposes-over-16b-penalties-emissions)
 * [2025-03-20, 21:56:21](https://news.ycombinator.com/item?id=43429436) - [NATS Server v2.11](https://nats.io/blog/nats-server-2.11-release/)
+* [2025-03-20, 21:55:20](https://news.ycombinator.com/item?id=43429427) - [Magical Instant Bullets](https://militaryrealism.blog/2025/03/20/magical-instant-bullets/)
 * [2025-03-20, 21:54:17](https://news.ycombinator.com/item?id=43429417) - [Retro Boy: simple Game Boy emulator written in Rust, can be played on the web](https://github.com/smparsons/retroboy)
 * [2025-03-20, 21:51:40](https://news.ycombinator.com/item?id=43429396) - [Appeals court rules that Constitution protects possession of AI-generated CSAM](https://www.techpolicy.press/court-rules-that-constitution-protects-private-possession-of-aigenerated-csam/)
 * [2025-03-20, 19:33:30](https://news.ycombinator.com/item?id=43427850) - [Show HN: Minimalytics – a standalone minimal analytics app built on SQLite](https://github.com/nafey/minimalytics)
