@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-03-22, 08:20:15",
+      "https://news.ycombinator.com/item?id=43444337"
+    ],
+    [
+      "Zen browser had a backdoor enabled by default",
+      "https://github.com/zen-browser/desktop/issues/5947"
+    ]
+  ],
+  [
+    [
+      "2025-03-22, 07:35:01",
+      "https://news.ycombinator.com/item?id=43444191"
+    ],
+    [
+      "VibeSail: A case study in vibe coding a game",
+      "https://www.vibecoding.games/vibesail-a-case-study-in-vibe-coding-a-game/"
+    ]
+  ],
+  [
+    [
+      "2025-03-22, 06:44:17",
+      "https://news.ycombinator.com/item?id=43444017"
+    ],
+    [
+      "Concise Machine Learning [pdf]",
+      "https://people.eecs.berkeley.edu/~jrs/papers/machlearn.pdf"
+    ]
+  ],
+  [
+    [
       "2025-03-22, 04:45:08",
       "https://news.ycombinator.com/item?id=43443640"
     ],
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2025-03-21, 18:55:33",
-      "https://news.ycombinator.com/item?id=43439610"
-    ],
-    [
-      "New USPTO Memo Makes Fighting Patent Trolls Even Harder",
-      "https://www.eff.org/deeplinks/2025/03/new-uspto-memo-makes-fighting-patent-trolls-even-harder"
-    ]
-  ],
-  [
-    [
       "2025-03-21, 17:43:25",
       "https://news.ycombinator.com/item?id=43438797"
     ],
@@ -167,16 +187,6 @@
     [
       "Show HN: Torch Lens Maker – Differentiable Geometric Optics in PyTorch",
       "https://victorpoughon.github.io/torchlensmaker/"
-    ]
-  ],
-  [
-    [
-      "2025-03-21, 12:38:20",
-      "https://news.ycombinator.com/item?id=43434910"
-    ],
-    [
-      "Legged Locomotion Meets Skateboarding",
-      "https://umich-curly.github.io/DHAL/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Global population datasets systematically underrepresent rural population",
       "https://www.nature.com/articles/s41467-025-56906-7"
-    ]
-  ],
-  [
-    [
-      "2025-03-17, 16:47:08",
-      "https://news.ycombinator.com/item?id=43390401"
-    ],
-    [
-      "Lock Contention",
-      "https://maksimkita.com/blog/lock-contention.html"
     ]
   ]
 ]
