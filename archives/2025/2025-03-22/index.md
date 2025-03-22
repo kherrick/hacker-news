@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-22](index.md)
 
+* [2025-03-22, 07:04:37](https://news.ycombinator.com/item?id=43444098) - [Number of border searches of electronic devices increasing every year](https://www.eff.org/issues/border-searches)
 * [2025-03-22, 06:35:41](https://news.ycombinator.com/item?id=43443979) - [Vibe Coding – The Ultimate Guide with Resources](https://natural20.com/vibe-coding/)
 * [2025-03-22, 04:45:08](https://news.ycombinator.com/item?id=43443640) - [Scallop – A Language for Neurosymbolic Programming](https://www.scallop-lang.org/)
 * [2025-03-22, 04:42:12](https://news.ycombinator.com/item?id=43443613) - [The struggle that made us in Waterloo](https://intention.bearblog.dev/the-struggle-that-made-us-in-waterloo/)
