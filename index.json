@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2025-03-22, 19:13:40",
-      "https://news.ycombinator.com/item?id=43447880"
+      "2025-03-22, 19:31:38",
+      "https://news.ycombinator.com/item?id=43448023"
     ],
     [
-      "'Eggflation' sending US shoppers to Mexico – where $300 fines await",
-      "https://www.theguardian.com/us-news/2025/mar/21/eggflation-us-mexico-fines"
+      "The polar vortex is hitting the brakes",
+      "https://www.climate.gov/news-features/blogs/polar-vortex/polar-vortex-hitting-brakes"
     ]
   ],
   [
@@ -27,16 +27,6 @@
     [
       "Most AI value will come from broad automation, not from R&D",
       "https://epoch.ai/gradient-updates/most-ai-value-will-come-from-broad-automation-not-from-r-d"
-    ]
-  ],
-  [
-    [
-      "2025-03-22, 18:03:27",
-      "https://news.ycombinator.com/item?id=43447462"
-    ],
-    [
-      "Horror on the coast of Oaxaca, a tourist paradise plagued by mass disappearances",
-      "https://english.elpais.com/international/2025-03-10/horror-on-the-coast-of-oaxaca-a-tourist-paradise-plagued-by-mass-disappearances.html"
     ]
   ],
   [
@@ -57,6 +47,16 @@
     [
       "Map Features in OpenStreetMap with Computer Vision",
       "https://blog.mozilla.ai/map-features-in-openstreetmap-with-computer-vision/"
+    ]
+  ],
+  [
+    [
+      "2025-03-22, 17:37:25",
+      "https://news.ycombinator.com/item?id=43447311"
+    ],
+    [
+      "Safe Shell String Interpolation",
+      "https://samwing.dev/posts/zJonlrXabVoc"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2025-03-21, 00:06:36",
+      "https://news.ycombinator.com/item?id=43430498"
+    ],
+    [
+      "Derivatives and Logarithms of 3D Transforms",
+      "https://nosferalatu.com/./DerivativesLogarithmsTransforms.html"
+    ]
+  ],
+  [
+    [
       "2025-03-19, 23:29:28",
       "https://news.ycombinator.com/item?id=43418343"
     ],
@@ -257,16 +267,6 @@
     [
       "Crabtime: Zig’s Comptime in Rust",
       "https://crates.io/crates/crabtime"
-    ]
-  ],
-  [
-    [
-      "2025-03-19, 14:51:14",
-      "https://news.ycombinator.com/item?id=43412768"
-    ],
-    [
-      "Show HN: AGX – Open-Source Data Exploration for ClickHouse (The New Standard?)",
-      "https://github.com/agnosticeng/agx"
     ]
   ],
   [
