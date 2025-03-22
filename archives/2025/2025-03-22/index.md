@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-03-22](index.md)
 
+* [2025-03-22, 13:47:03](https://news.ycombinator.com/item?id=43445616) - [Meta pirated books to train its AI](https://www.theatlantic.com/technology/archive/2025/03/libgen-meta-openai/682093/)
 * [2025-03-22, 09:51:58](https://news.ycombinator.com/item?id=43444605) - [MacBooks account for 86% of total Mac sales; Mac desktops just 14%](https://macdailynews.com/2025/03/19/macbooks-account-for-86-of-total-mac-sales-mac-desktops-just-14/)
 * [2025-03-22, 09:46:24](https://news.ycombinator.com/item?id=43444588) - [Coding Theory and Cryptography [pdf]](http://www.mathstat.ualberta.ca/~bowman/m422/m422.pdf)
 * [2025-03-22, 09:39:26](https://news.ycombinator.com/item?id=43444558) - [I'd like to take a moment to speak to you about the Adobe PSD format](https://github.com/gco/xee/blob/4fa3a6d609dd72b8493e52a68f316f7a02903276/XeePhotoshopLoader.m)
 * [2025-03-22, 08:20:15](https://news.ycombinator.com/item?id=43444337) - [Zen browser had a backdoor enabled by default](https://github.com/zen-browser/desktop/issues/5947)
 * [2025-03-22, 07:35:01](https://news.ycombinator.com/item?id=43444191) - [VibeSail: A case study in vibe coding a game](https://www.vibecoding.games/vibesail-a-case-study-in-vibe-coding-a-game/)
+* [2025-03-22, 07:24:05](https://news.ycombinator.com/item?id=43444160) - [When you deleted /lib on Linux while still connected via SSH](https://tinyhack.com/2022/09/16/when-you-deleted-lib-on-linux-while-still-connected-via-ssh/)
 * [2025-03-22, 07:04:37](https://news.ycombinator.com/item?id=43444098) - [Number of border searches of electronic devices increasing every year](https://www.eff.org/issues/border-searches)
 * [2025-03-22, 06:44:17](https://news.ycombinator.com/item?id=43444017) - [Concise Machine Learning [pdf]](https://people.eecs.berkeley.edu/~jrs/papers/machlearn.pdf)
 * [2025-03-22, 06:35:41](https://news.ycombinator.com/item?id=43443979) - [Vibe Coding – The Ultimate Guide with Resources](https://natural20.com/vibe-coding/)
