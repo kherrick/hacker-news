@@ -68,3 +68,4 @@
 * [2025-03-21, 01:20:32](https://news.ycombinator.com/item?id=43430938) - [Indian chemical company employees indicted for Importing of Fentanyl Precursors](https://www.justice.gov/opa/pr/india-based-chemical-manufacturing-company-and-top-employees-indicted-unlawful-importation)
 * [2025-03-21, 01:06:42](https://news.ycombinator.com/item?id=43430856) - [SmolDocling: An ultra-compact VLM for end-to-end multi-modal document conversion](https://arxiv.org/abs/2503.11576)
 * [2025-03-21, 00:49:10](https://news.ycombinator.com/item?id=43430750) - [Chibi: PNG-tuber application made in Rust](https://github.com/megabytesofrem/chibi)
+* [2025-03-21, 00:06:36](https://news.ycombinator.com/item?id=43430498) - [Derivatives and Logarithms of 3D Transforms](https://nosferalatu.com/./DerivativesLogarithmsTransforms.html)
