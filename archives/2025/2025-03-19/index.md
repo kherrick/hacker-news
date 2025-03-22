@@ -45,6 +45,7 @@
 * [2025-03-19, 13:44:25](https://news.ycombinator.com/item?id=43411898) - [The clustering behavior of sliding windows](https://arxiv.org/abs/2503.14393)
 * [2025-03-19, 13:34:42](https://news.ycombinator.com/item?id=43411771) - [Supply Chain Attacks on Linux Distributions](https://fenrisk.com/supply-chain-attacks)
 * [2025-03-19, 13:33:49](https://news.ycombinator.com/item?id=43411755) - [Ikemen-GO: open-source reimplementation of MUGEN](https://github.com/ikemen-engine/Ikemen-GO)
+* [2025-03-19, 13:31:07](https://news.ycombinator.com/item?id=43411725) - [Trapping misbehaving bots in an AI Labyrinth](https://blog.cloudflare.com/ai-labyrinth/)
 * [2025-03-19, 12:56:03](https://news.ycombinator.com/item?id=43411258) - [Supply Constraints Do Not Explain House Price, Quantity Growth Across US Cities](https://www.nber.org/papers/w33576)
 * [2025-03-19, 12:53:24](https://news.ycombinator.com/item?id=43411218) - [Ex-PO operator is first Horizon IT victim to launch legal action against](https://www.theguardian.com/uk-news/2025/mar/19/ex-subpostmaster-lee-castleton-horizon-it-victim-first-legal-action-post-office-fujitsu)
 * [2025-03-19, 12:30:48](https://news.ycombinator.com/item?id=43410988) - [Konva.js - Declarative 2D Canvas for React, Vue, and Svelte](https://konvajs.org/)

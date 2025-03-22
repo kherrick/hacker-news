@@ -25,10 +25,10 @@
 * [2025-03-19, 23:29:28](https://news.ycombinator.com/item?id=43418343) - [Hubble Captures Vivid Auroras in Jupiter's Atmosphere](https://science.nasa.gov/missions/hubble/hubble-captures-vivid-auroras-in-jupiters-atmosphere/)
 * [2025-03-19, 18:44:11](https://news.ycombinator.com/item?id=43415820) - [Crabtime: Zig’s Comptime in Rust](https://crates.io/crates/crabtime)
 * [2025-03-19, 14:51:14](https://news.ycombinator.com/item?id=43412768) - [Show HN: AGX – Open-Source Data Exploration for ClickHouse (The New Standard?)](https://github.com/agnosticeng/agx)
+* [2025-03-19, 13:31:07](https://news.ycombinator.com/item?id=43411725) - [Trapping misbehaving bots in an AI Labyrinth](https://blog.cloudflare.com/ai-labyrinth/)
 * [2025-03-19, 12:14:46](https://news.ycombinator.com/item?id=43410874) - [‘Bluey’s World’: How a Cute Aussie Puppy Became a Juggernaut](https://www.hollywoodreporter.com/tv/tv-features/blueys-world-success-puppy-juggernaut-1236164905/)
 * [2025-03-19, 10:45:37](https://news.ycombinator.com/item?id=43410302) - [Blue Ghost lander captures sunset shots on moon before falling silent](https://phys.org/news/2025-03-blue-ghost-lander-captures-stunning.html)
 * [2025-03-18, 21:56:46](https://news.ycombinator.com/item?id=43405638) - [Locks, leases, fencing tokens, FizzBee](https://surfingcomplexity.blog/2025/03/03/locks-leases-fencing-tokens-fizzbee/)
-* [2025-03-18, 18:53:00](https://news.ycombinator.com/item?id=43403321) - [Don't Be Afraid of Types](https://lmika.org/2025/03/18/dont-be-afraid-of-types.html)
 * [2025-03-18, 11:50:38](https://news.ycombinator.com/item?id=43398308) - [Global population datasets underrepresent rural population](https://www.nature.com/articles/s41467-025-56906-7)
 
 ## [Archives](archives/index.md)
