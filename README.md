@@ -18,7 +18,6 @@
 * [2025-03-21, 17:02:17](https://news.ycombinator.com/item?id=43438192) - [Mathup: Easy MathML authoring tool with a quick to write syntax](https://mathup.xyz/)
 * [2025-03-21, 15:35:27](https://news.ycombinator.com/item?id=43436894) - [IronRDP: a Rust implementation of Microsoft's RDP protocol](https://github.com/Devolutions/IronRDP)
 * [2025-03-21, 13:29:11](https://news.ycombinator.com/item?id=43435438) - [Show HN: Torch Lens Maker – Differentiable Geometric Optics in PyTorch](https://victorpoughon.github.io/torchlensmaker/)
-* [2025-03-21, 12:38:20](https://news.ycombinator.com/item?id=43434910) - [Legged Locomotion Meets Skateboarding](https://umich-curly.github.io/DHAL/)
 * [2025-03-21, 10:49:41](https://news.ycombinator.com/item?id=43434093) - [Career Development: What It Means to Be a Manager, Director, or VP (2015)](https://kellblog.com/2015/03/08/career-development-what-it-really-means-to-be-a-manager-director-or-vp/)
 * [2025-03-20, 18:23:00](https://news.ycombinator.com/item?id=43426984) - [Ancient DNA Shows Stone Age Europeans Voyaged by Sea to Africa](https://www.nature.com/articles/d41586-025-00764-2)
 * [2025-03-20, 17:23:00](https://news.ycombinator.com/item?id=43426105) - [Export Predefined Regions in Krita](https://github.com/aldanasjuan/krita_export_region)
@@ -29,6 +28,7 @@
 * [2025-03-18, 12:21:12](https://news.ycombinator.com/item?id=43398539) - [Liberapay](https://en.liberapay.com/)
 * [2025-03-18, 12:06:21](https://news.ycombinator.com/item?id=43398410) - [43-year-old Family Canoe Trip](https://paddlingmag.com/stories/features/legendary-43-year-family-canoe-story/)
 * [2025-03-18, 11:50:38](https://news.ycombinator.com/item?id=43398308) - [Global population datasets systematically underrepresent rural population](https://www.nature.com/articles/s41467-025-56906-7)
+* [2025-03-18, 10:07:27](https://news.ycombinator.com/item?id=43397556) - [When the Animals Went Electric](https://nautil.us/when-the-animals-went-electric-1198482/)
 * [2025-03-17, 16:47:08](https://news.ycombinator.com/item?id=43390401) - [Lock Contention](https://maksimkita.com/blog/lock-contention.html)
 
 ## [Archives](archives/index.md)

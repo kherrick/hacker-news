@@ -83,6 +83,7 @@
 * [2025-03-18, 10:18:12](https://news.ycombinator.com/item?id=43397640) - [Sync Engines Are the Future](https://www.instantdb.com/essays/sync_future)
 * [2025-03-18, 10:15:41](https://news.ycombinator.com/item?id=43397625) - [Manifest: A 1-file micro-back end](https://github.com/mnfst/manifest)
 * [2025-03-18, 10:12:18](https://news.ycombinator.com/item?id=43397602) - [Energetic cost of human disturbance on the southern sea otter](https://wildlife.onlinelibrary.wiley.com/doi/10.1002/jwmg.70012)
+* [2025-03-18, 10:07:27](https://news.ycombinator.com/item?id=43397556) - [When the Animals Went Electric](https://nautil.us/when-the-animals-went-electric-1198482/)
 * [2025-03-18, 09:56:37](https://news.ycombinator.com/item?id=43397474) - [The Model Is the Product](https://vintagedata.org/blog/posts/model-is-the-product)
 * [2025-03-18, 09:48:35](https://news.ycombinator.com/item?id=43397407) - [Show HN: MCP-Kafka – Natural Language Interface for Kafka Commands](https://github.com/kanapuli/mcp-kafka)
 * [2025-03-18, 09:42:12](https://news.ycombinator.com/item?id=43397361) - [Please stop externalizing your costs directly into my face](https://drewdevault.com/2025/03/17/2025-03-17-Stop-externalizing-your-costs-on-me.html)
