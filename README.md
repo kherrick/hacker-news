@@ -2,7 +2,6 @@
 
 * [2025-03-22, 21:02:40](https://news.ycombinator.com/item?id=43448606) - [CEO of AI ad-tech firm pledging \"world free of fraud\" sentenced for fraud](https://arstechnica.com/gadgets/2025/03/ceo-of-ai-ad-tech-firm-pledging-world-free-of-fraud-sentenced-for-fraud/)
 * [2025-03-22, 21:00:16](https://news.ycombinator.com/item?id=43448584) - [Leaping AI (YC W25) Is Hiring](https://www.ycombinator.com/companies/leaping-ai/jobs/BpsfpvY-founding-full-stack-engineer)
-* [2025-03-22, 20:53:46](https://news.ycombinator.com/item?id=43448528) - [You Shouldn't Use Next.js](https://www.epicweb.dev/why-i-wont-use-nextjs)
 * [2025-03-22, 20:42:04](https://news.ycombinator.com/item?id=43448457) - [Quitting an Intel x86 Hypervisor](https://halobates.de/blog/p/446)
 * [2025-03-22, 20:35:51](https://news.ycombinator.com/item?id=43448432) - [\"Vibe Coding\" vs. Reality](https://cendyne.dev/posts/2025-03-19-vibe-coding-vs-reality.html)
 * [2025-03-22, 20:31:47](https://news.ycombinator.com/item?id=43448408) - [There's no emotion we ought to think harder about than anger](https://aeon.co/essays/there-s-no-emotion-we-ought-to-think-harder-about-than-anger)
@@ -30,6 +29,7 @@
 * [2025-03-19, 18:44:11](https://news.ycombinator.com/item?id=43415820) - [Crabtime: Zig’s Comptime in Rust](https://crates.io/crates/crabtime)
 * [2025-03-19, 14:02:35](https://news.ycombinator.com/item?id=43412149) - [Making the Arithmometer Count](https://www.mhs.ox.ac.uk/staff/saj/arithmometer/)
 * [2025-03-19, 13:31:07](https://news.ycombinator.com/item?id=43411725) - [Trapping misbehaving bots in an AI Labyrinth](https://blog.cloudflare.com/ai-labyrinth/)
+* [2025-03-19, 10:45:37](https://news.ycombinator.com/item?id=43410302) - [Blue Ghost lander captures sunset shots on moon before falling silent](https://phys.org/news/2025-03-blue-ghost-lander-captures-stunning.html)
 
 ## [Archives](archives/index.md)
 
