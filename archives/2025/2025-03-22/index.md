@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-22](index.md)
 
 * [2025-03-22, 15:30:48](https://news.ycombinator.com/item?id=43446442) - [Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]](https://www.youtube.com/watch?v=xJzrU38pGWc)
+* [2025-03-22, 14:56:09](https://news.ycombinator.com/item?id=43446103) - [Amazon wants a product safety regulator declared unconstitutional](https://www.washingtonpost.com/technology/2025/03/21/amazon-product-safety-regulators-trump/)
 * [2025-03-22, 14:39:04](https://news.ycombinator.com/item?id=43445931) - [PyTorch Internals: Ezyang's Blog](https://blog.ezyang.com/2019/05/pytorch-internals/)
 * [2025-03-22, 14:35:12](https://news.ycombinator.com/item?id=43445894) - [Understanding R1-Zero-Like Training: A Critical Perspective](https://github.com/sail-sg/understand-r1-zero)
 * [2025-03-22, 14:17:13](https://news.ycombinator.com/item?id=43445755) - [One mother's win over Meta will change social media for everyone](https://www.thetimes.com/uk/technology-uk/article/facebook-personal-data-opt-out-swg26rm5z)
@@ -13,6 +14,7 @@
 * [2025-03-22, 13:56:59](https://news.ycombinator.com/item?id=43445662) - [Landrun: Sandbox any Linux process using Landlock, no root or containers](https://github.com/Zouuup/landrun)
 * [2025-03-22, 13:47:03](https://news.ycombinator.com/item?id=43445616) - [Meta pirated books to train its AI](https://www.theatlantic.com/technology/archive/2025/03/libgen-meta-openai/682093/)
 * [2025-03-22, 13:46:30](https://news.ycombinator.com/item?id=43445614) - [Differential Geometry: A First Course in Curves and Surfaces [pdf]](https://math.franklin.uga.edu/sites/default/files/users/user317/ShifrinDiffGeo.pdf)
+* [2025-03-22, 12:52:27](https://news.ycombinator.com/item?id=43445381) - [The Cybernetic Teammate](https://www.oneusefulthing.org/p/the-cybernetic-teammate)
 * [2025-03-22, 09:51:58](https://news.ycombinator.com/item?id=43444605) - [MacBooks account for 86% of total Mac sales; Mac desktops just 14%](https://macdailynews.com/2025/03/19/macbooks-account-for-86-of-total-mac-sales-mac-desktops-just-14/)
 * [2025-03-22, 09:46:24](https://news.ycombinator.com/item?id=43444588) - [Coding Theory and Cryptography [pdf]](http://www.mathstat.ualberta.ca/~bowman/m422/m422.pdf)
 * [2025-03-22, 09:39:26](https://news.ycombinator.com/item?id=43444558) - [I'd like to take a moment to speak to you about the Adobe PSD format](https://github.com/gco/xee/blob/4fa3a6d609dd72b8493e52a68f316f7a02903276/XeePhotoshopLoader.m)
