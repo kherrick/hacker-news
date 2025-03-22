@@ -14,6 +14,7 @@
 * [2025-03-22, 13:56:59](https://news.ycombinator.com/item?id=43445662) - [Landrun: Sandbox any Linux process using Landlock, no root or containers](https://github.com/Zouuup/landrun)
 * [2025-03-22, 13:47:03](https://news.ycombinator.com/item?id=43445616) - [Meta pirated books to train its AI](https://www.theatlantic.com/technology/archive/2025/03/libgen-meta-openai/682093/)
 * [2025-03-22, 13:46:30](https://news.ycombinator.com/item?id=43445614) - [Differential Geometry: A First Course in Curves and Surfaces [pdf]](https://math.franklin.uga.edu/sites/default/files/users/user317/ShifrinDiffGeo.pdf)
+* [2025-03-22, 13:30:21](https://news.ycombinator.com/item?id=43445547) - [IETF setting standards for AI preferences](https://www.ietf.org/blog/aipref-wg/)
 * [2025-03-22, 12:52:27](https://news.ycombinator.com/item?id=43445381) - [The Cybernetic Teammate](https://www.oneusefulthing.org/p/the-cybernetic-teammate)
 * [2025-03-22, 09:51:58](https://news.ycombinator.com/item?id=43444605) - [MacBooks account for 86% of total Mac sales; Mac desktops just 14%](https://macdailynews.com/2025/03/19/macbooks-account-for-86-of-total-mac-sales-mac-desktops-just-14/)
 * [2025-03-22, 09:46:24](https://news.ycombinator.com/item?id=43444588) - [Coding Theory and Cryptography [pdf]](http://www.mathstat.ualberta.ca/~bowman/m422/m422.pdf)
