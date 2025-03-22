@@ -20,7 +20,7 @@
 * [2025-03-21, 12:38:20](https://news.ycombinator.com/item?id=43434910) - [Legged Locomotion Meets Skateboarding](https://umich-curly.github.io/DHAL/)
 * [2025-03-21, 10:49:41](https://news.ycombinator.com/item?id=43434093) - [Career Development: What It Means to Be a Manager, Director, or VP (2015)](https://kellblog.com/2015/03/08/career-development-what-it-really-means-to-be-a-manager-director-or-vp/)
 * [2025-03-20, 18:23:00](https://news.ycombinator.com/item?id=43426984) - [Ancient DNA Shows Stone Age Europeans Voyaged by Sea to Africa](https://www.nature.com/articles/d41586-025-00764-2)
-* [2025-03-20, 17:23:00](https://news.ycombinator.com/item?id=43426105) - [Export Predefined Regions in Krita](https://github.com/aldanasjuan/krita_export_region)
+* [2025-03-20, 14:07:28](https://news.ycombinator.com/item?id=43423705) - [Pocket Keyboard Design Contest](https://chrischrislolo.github.io/orthoLabLogs/keyboard-design-contest-00.html)
 * [2025-03-20, 01:06:58](https://news.ycombinator.com/item?id=43418960) - [The Humans Building AI Scientists](https://www.asimov.press/p/futurehouse)
 * [2025-03-19, 18:44:11](https://news.ycombinator.com/item?id=43415820) - [Crabtime: Zig's Comptime in Rust](https://crates.io/crates/crabtime)
 * [2025-03-19, 12:14:46](https://news.ycombinator.com/item?id=43410874) - [‘Bluey’s World’: How a Cute Aussie Puppy Became a Juggernaut](https://www.hollywoodreporter.com/tv/tv-features/blueys-world-success-puppy-juggernaut-1236164905/)
