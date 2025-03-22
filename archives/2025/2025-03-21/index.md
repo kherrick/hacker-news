@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-21](index.md)
 
+* [2025-03-21, 23:54:30](https://news.ycombinator.com/item?id=43441961) - [Not OK Cupid – A story of poor email address validation](https://www.fastmail.com/blog/not-ok-cupid/)
 * [2025-03-21, 23:41:15](https://news.ycombinator.com/item?id=43441895) - [EFF Border Search Pocket Guide](https://www.eff.org/document/eff-border-search-pocket-guide)
 * [2025-03-21, 21:18:39](https://news.ycombinator.com/item?id=43440920) - [MySQL transactions per second vs. fsyncs per second](https://sirupsen.com/napkin/problem-10-mysql-transactions-per-second)
 * [2025-03-21, 20:35:11](https://news.ycombinator.com/item?id=43440513) - [A Win for Encryption: France Rejects Backdoor Mandate](https://www.eff.org/deeplinks/2025/03/win-encryption-france-rejects-backdoor-mandate)
@@ -11,6 +12,7 @@
 * [2025-03-21, 20:28:09](https://news.ycombinator.com/item?id=43440449) - [How 'Careless People' is becoming a bigger problem for Meta](https://www.theverge.com/command-line-newsletter/634080/careless-people-sarah-wynn-williams-book-meta-congress)
 * [2025-03-21, 20:20:48](https://news.ycombinator.com/item?id=43440376) - [Tech terms I was pronouncing wrong](https://wonger.dev/posts/pronunciations)
 * [2025-03-21, 20:07:12](https://news.ycombinator.com/item?id=43440267) - [Pen and Paper Exercises in Machine Learning](https://arxiv.org/abs/2206.13446)
+* [2025-03-21, 19:57:00](https://news.ycombinator.com/item?id=43440184) - [Use Long Options in Scripts](https://matklad.github.io/2025/03/21/use-long-options-in-scripts.html)
 * [2025-03-21, 19:55:42](https://news.ycombinator.com/item?id=43440174) - [I want a good parallel computer](https://raphlinus.github.io/gpu/2025/03/21/good-parallel-computer.html)
 * [2025-03-21, 19:39:17](https://news.ycombinator.com/item?id=43440046) - [Frink](https://frinklang.org/)
 * [2025-03-21, 19:30:32](https://news.ycombinator.com/item?id=43439987) - [Piccolo: Large-Scale Graph Processing with Fine-Grained In-Memory Scatter-Gather](https://arxiv.org/abs/2503.05116)

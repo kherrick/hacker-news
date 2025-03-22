@@ -23,6 +23,7 @@
 * [2025-03-20, 17:48:36](https://news.ycombinator.com/item?id=43426468) - [The F-35 as a Subscription Service](https://xxtomcooperxx.substack.com/p/the-f-35-as-a-subscription-service)
 * [2025-03-20, 17:27:46](https://news.ycombinator.com/item?id=43426164) - [Show HN: AgentKit – JavaScript Alternative to OpenAI Agents SDK with Native MCP](https://github.com/inngest/agent-kit)
 * [2025-03-20, 17:26:36](https://news.ycombinator.com/item?id=43426142) - [Doge Social Security Closures: Recipients Need to Visit Offices to Get Benefits](https://gizmodo.com/u-s-says-social-security-recipients-need-to-visit-offices-to-get-benefits-as-doge-closes-offices-nationwide-2000578129)
+* [2025-03-20, 17:23:00](https://news.ycombinator.com/item?id=43426105) - [Export Predefined Regions in Krita](https://github.com/aldanasjuan/krita_export_region)
 * [2025-03-20, 17:18:00](https://news.ycombinator.com/item?id=43426022) - [OpenAI Audio Models](https://www.openai.fm/)
 * [2025-03-20, 17:11:57](https://news.ycombinator.com/item?id=43425935) - [The Asus Ascent GX10 a Nvidia GB10 Mini PC with 128GB of Memory and 200GbE](https://www.servethehome.com/this-is-the-asus-ascent-gx10-a-nvidia-gb10-mini-pc-with-128gb-of-memory-and-200gbe/)
 * [2025-03-20, 17:08:27](https://news.ycombinator.com/item?id=43425876) - [OpenAI uses open source Ory to authenticate over 400M weekly active users](https://www.ory.sh/blog/openai-oauth2-server-open-source)
