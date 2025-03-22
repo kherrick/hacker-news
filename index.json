@@ -1,32 +1,12 @@
 [
   [
     [
-      "2025-03-22, 09:39:26",
-      "https://news.ycombinator.com/item?id=43444558"
-    ],
-    [
-      "I'd like to take a moment to speak to you about the Adobe PSD format (2009)",
-      "https://github.com/gco/xee/blob/4fa3a6d609dd72b8493e52a68f316f7a02903276/XeePhotoshopLoader.m"
-    ]
-  ],
-  [
-    [
       "2025-03-22, 06:44:17",
       "https://news.ycombinator.com/item?id=43444017"
     ],
     [
       "Concise Machine Learning [pdf]",
       "https://people.eecs.berkeley.edu/~jrs/papers/machlearn.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-03-22, 06:33:27",
-      "https://news.ycombinator.com/item?id=43443974"
-    ],
-    [
-      "The future of AI is Ruby on Rails",
-      "https://www.seangoedecke.com/ai-and-ruby/#fnref-1"
     ]
   ],
   [
@@ -57,16 +37,6 @@
     [
       "George Foreman has died",
       "https://variety.com/2025/tv/news/george-foreman-boxer-infomercial-star-dies-1236345523/"
-    ]
-  ],
-  [
-    [
-      "2025-03-22, 02:24:00",
-      "https://news.ycombinator.com/item?id=43442694"
-    ],
-    [
-      "The CRPG Renaissance, Part 5: Fallout 2 and Baldur's Gate",
-      "https://www.filfre.net/2025/03/the-crpg-renaissance-part-5-fallout-2-and-baldurs-gate/"
     ]
   ],
   [
@@ -191,6 +161,26 @@
   ],
   [
     [
+      "2025-03-21, 13:29:11",
+      "https://news.ycombinator.com/item?id=43435438"
+    ],
+    [
+      "Show HN: Torch Lens Maker – Differentiable Geometric Optics in PyTorch",
+      "https://victorpoughon.github.io/torchlensmaker/"
+    ]
+  ],
+  [
+    [
+      "2025-03-21, 12:38:20",
+      "https://news.ycombinator.com/item?id=43434910"
+    ],
+    [
+      "Legged Locomotion Meets Skateboarding",
+      "https://umich-curly.github.io/DHAL/"
+    ]
+  ],
+  [
+    [
       "2025-03-21, 10:49:41",
       "https://news.ycombinator.com/item?id=43434093"
     ],
@@ -297,6 +287,16 @@
     [
       "Global population datasets systematically underrepresent rural population",
       "https://www.nature.com/articles/s41467-025-56906-7"
+    ]
+  ],
+  [
+    [
+      "2025-03-17, 16:47:08",
+      "https://news.ycombinator.com/item?id=43390401"
+    ],
+    [
+      "Lock Contention",
+      "https://maksimkita.com/blog/lock-contention.html"
     ]
   ]
 ]
