@@ -11,6 +11,7 @@
 * [2025-03-22, 14:01:40](https://news.ycombinator.com/item?id=43445682) - [Improved ways to operate a rude crawler](https://www.marginalia.nu/log/a_115_rude_crawler/)
 * [2025-03-22, 13:56:59](https://news.ycombinator.com/item?id=43445662) - [Landrun: Sandbox any Linux process using Landlock, no root or containers](https://github.com/Zouuup/landrun)
 * [2025-03-22, 13:47:03](https://news.ycombinator.com/item?id=43445616) - [Meta pirated books to train its AI](https://www.theatlantic.com/technology/archive/2025/03/libgen-meta-openai/682093/)
+* [2025-03-22, 13:46:30](https://news.ycombinator.com/item?id=43445614) - [Differential Geometry: A First Course in Curves and Surfaces [pdf]](https://math.franklin.uga.edu/sites/default/files/users/user317/ShifrinDiffGeo.pdf)
 * [2025-03-22, 09:51:58](https://news.ycombinator.com/item?id=43444605) - [MacBooks account for 86% of total Mac sales; Mac desktops just 14%](https://macdailynews.com/2025/03/19/macbooks-account-for-86-of-total-mac-sales-mac-desktops-just-14/)
 * [2025-03-22, 09:46:24](https://news.ycombinator.com/item?id=43444588) - [Coding Theory and Cryptography [pdf]](http://www.mathstat.ualberta.ca/~bowman/m422/m422.pdf)
 * [2025-03-22, 09:39:26](https://news.ycombinator.com/item?id=43444558) - [I'd like to take a moment to speak to you about the Adobe PSD format](https://github.com/gco/xee/blob/4fa3a6d609dd72b8493e52a68f316f7a02903276/XeePhotoshopLoader.m)
