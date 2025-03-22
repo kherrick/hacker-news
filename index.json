@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2025-03-21, 19:30:32",
-      "https://news.ycombinator.com/item?id=43439987"
-    ],
-    [
-      "Piccolo: Large-Scale Graph Processing with Fine-Grained In-Memory Scatter-Gather",
-      "https://arxiv.org/abs/2503.05116"
-    ]
-  ],
-  [
-    [
       "2025-03-21, 18:55:33",
       "https://news.ycombinator.com/item?id=43439610"
     ],
@@ -247,6 +237,16 @@
     [
       "Oxidizing Ubuntu: adopting Rust utilities by default",
       "https://lwn.net/SubscriberLink/1014002/580b8750bf02cf41/"
+    ]
+  ],
+  [
+    [
+      "2025-03-18, 18:53:00",
+      "https://news.ycombinator.com/item?id=43403321"
+    ],
+    [
+      "Don't Be Afraid of Types",
+      "https://lmika.org/2025/03/18/dont-be-afraid-of-types.html"
     ]
   ],
   [
