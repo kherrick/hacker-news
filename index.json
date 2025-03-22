@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-03-22, 14:39:04",
+      "https://news.ycombinator.com/item?id=43445931"
+    ],
+    [
+      "PyTorch Internals: Ezyang's Blog",
+      "https://blog.ezyang.com/2019/05/pytorch-internals/"
+    ]
+  ],
+  [
+    [
+      "2025-03-22, 14:35:12",
+      "https://news.ycombinator.com/item?id=43445894"
+    ],
+    [
+      "Understanding R1-Zero-Like Training: A Critical Perspective",
+      "https://github.com/sail-sg/understand-r1-zero"
+    ]
+  ],
+  [
+    [
+      "2025-03-22, 14:17:13",
+      "https://news.ycombinator.com/item?id=43445755"
+    ],
+    [
+      "One mother's win over Meta will change social media for everyone",
+      "https://www.thetimes.com/uk/technology-uk/article/facebook-personal-data-opt-out-swg26rm5z"
+    ]
+  ],
+  [
+    [
       "2025-03-22, 14:10:30",
       "https://news.ycombinator.com/item?id=43445720"
     ],
@@ -11,22 +41,12 @@
   ],
   [
     [
-      "2025-03-22, 14:01:40",
-      "https://news.ycombinator.com/item?id=43445682"
+      "2025-03-22, 13:56:59",
+      "https://news.ycombinator.com/item?id=43445662"
     ],
     [
-      "Improved ways to operate a rude crawler",
-      "https://www.marginalia.nu/log/a_115_rude_crawler/"
-    ]
-  ],
-  [
-    [
-      "2025-03-22, 13:47:03",
-      "https://news.ycombinator.com/item?id=43445616"
-    ],
-    [
-      "Meta pirated books to train its AI",
-      "https://www.theatlantic.com/technology/archive/2025/03/libgen-meta-openai/682093/"
+      "Landrun: Sandbox any Linux process using Landlock, no root or containers",
+      "https://github.com/Zouuup/landrun"
     ]
   ],
   [
@@ -77,16 +97,6 @@
     [
       "Monster Cables picked the wrong guy to threaten (2008)",
       "https://www.oncontracts.com/monster-cables-picked-the-wrong-guy-to-threaten/"
-    ]
-  ],
-  [
-    [
-      "2025-03-21, 21:18:39",
-      "https://news.ycombinator.com/item?id=43440920"
-    ],
-    [
-      "MySQL transactions per second vs. fsyncs per second (2020)",
-      "https://sirupsen.com/napkin/problem-10-mysql-transactions-per-second"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2025-03-21, 12:38:20",
-      "https://news.ycombinator.com/item?id=43434910"
-    ],
-    [
-      "Legged Locomotion Meets Skateboarding",
-      "https://umich-curly.github.io/DHAL/"
-    ]
-  ],
-  [
-    [
       "2025-03-21, 10:49:41",
       "https://news.ycombinator.com/item?id=43434093"
     ],
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2025-03-19, 14:14:10",
-      "https://news.ycombinator.com/item?id=43412298"
-    ],
-    [
-      "\"Termux + X11 on my Android tablet...feels pretty close to a real Linux setup.\"",
-      "https://old.reddit.com/r/linuxhardware/comments/1jecn31/does_it_count_as_linux_hardware_if_its_android_i/"
-    ]
-  ],
-  [
-    [
       "2025-03-19, 12:14:46",
       "https://news.ycombinator.com/item?id=43410874"
     ],
     [
       "‘Bluey’s World’: How a Cute Aussie Puppy Became a Juggernaut",
       "https://www.hollywoodreporter.com/tv/tv-features/blueys-world-success-puppy-juggernaut-1236164905/"
+    ]
+  ],
+  [
+    [
+      "2025-03-18, 21:56:46",
+      "https://news.ycombinator.com/item?id=43405638"
+    ],
+    [
+      "Locks, leases, fencing tokens, FizzBee",
+      "https://surfingcomplexity.blog/2025/03/03/locks-leases-fencing-tokens-fizzbee/"
     ]
   ],
   [
