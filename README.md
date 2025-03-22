@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-22, 16:22:48](https://news.ycombinator.com/item?id=43446821) - [Facebook to stop targeting ads at UK woman after legal fight](https://www.bbc.co.uk/news/articles/c1en1yjv4dpo)
+* [2025-03-22, 15:41:42](https://news.ycombinator.com/item?id=43446544) - [The Ugly Truth About the Education System You Were Never Told](https://www.thesouljam.com/posts/the-ugly-truth-about-the-education-system-you-were-never-told)
 * [2025-03-22, 15:30:48](https://news.ycombinator.com/item?id=43446442) - [Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]](https://www.youtube.com/watch?v=xJzrU38pGWc)
 * [2025-03-22, 14:56:09](https://news.ycombinator.com/item?id=43446103) - [Amazon wants a product safety regulator declared unconstitutional](https://www.washingtonpost.com/technology/2025/03/21/amazon-product-safety-regulators-trump/)
 * [2025-03-22, 14:39:04](https://news.ycombinator.com/item?id=43445931) - [PyTorch Internals: Ezyang's Blog](https://blog.ezyang.com/2019/05/pytorch-internals/)
@@ -18,7 +19,6 @@
 * [2025-03-21, 19:57:00](https://news.ycombinator.com/item?id=43440184) - [Use Long Options in Scripts](https://matklad.github.io/2025/03/21/use-long-options-in-scripts.html)
 * [2025-03-21, 19:39:17](https://news.ycombinator.com/item?id=43440046) - [Frink](https://frinklang.org/)
 * [2025-03-21, 15:35:27](https://news.ycombinator.com/item?id=43436894) - [IronRDP: a Rust implementation of Microsoft's RDP protocol](https://github.com/Devolutions/IronRDP)
-* [2025-03-21, 10:49:41](https://news.ycombinator.com/item?id=43434093) - [Career Development: What It Means to Be a Manager, Director, or VP (2015)](https://kellblog.com/2015/03/08/career-development-what-it-really-means-to-be-a-manager-director-or-vp/)
 * [2025-03-20, 01:06:58](https://news.ycombinator.com/item?id=43418960) - [The Humans Building AI Scientists](https://www.asimov.press/p/futurehouse)
 * [2025-03-19, 23:29:28](https://news.ycombinator.com/item?id=43418343) - [Hubble Captures Vivid Auroras in Jupiter's Atmosphere](https://science.nasa.gov/missions/hubble/hubble-captures-vivid-auroras-in-jupiters-atmosphere/)
 * [2025-03-19, 18:44:11](https://news.ycombinator.com/item?id=43415820) - [Crabtime: Zig’s Comptime in Rust](https://crates.io/crates/crabtime)
