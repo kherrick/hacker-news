@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-03-22, 09:46:24",
-      "https://news.ycombinator.com/item?id=43444588"
+      "2025-03-22, 13:47:03",
+      "https://news.ycombinator.com/item?id=43445616"
     ],
     [
-      "Coding Theory and Cryptography [pdf]",
-      "http://www.mathstat.ualberta.ca/~bowman/m422/m422.pdf"
+      "Meta pirated books to train its AI",
+      "https://www.theatlantic.com/technology/archive/2025/03/libgen-meta-openai/682093/"
+    ]
+  ],
+  [
+    [
+      "2025-03-22, 07:24:05",
+      "https://news.ycombinator.com/item?id=43444160"
+    ],
+    [
+      "When you deleted /lib on Linux while still connected via SSH",
+      "https://tinyhack.com/2022/09/16/when-you-deleted-lib-on-linux-while-still-connected-via-ssh/"
     ]
   ],
   [
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2025-03-21, 17:02:17",
-      "https://news.ycombinator.com/item?id=43438192"
-    ],
-    [
-      "Mathup: Easy MathML authoring tool with a quick to write syntax",
-      "https://mathup.xyz/"
-    ]
-  ],
-  [
-    [
       "2025-03-21, 15:35:27",
       "https://news.ycombinator.com/item?id=43436894"
     ],
@@ -231,22 +231,22 @@
   ],
   [
     [
+      "2025-03-19, 14:14:10",
+      "https://news.ycombinator.com/item?id=43412298"
+    ],
+    [
+      "\"Termux + X11 on my Android tablet...feels pretty close to a real Linux setup.\"",
+      "https://old.reddit.com/r/linuxhardware/comments/1jecn31/does_it_count_as_linux_hardware_if_its_android_i/"
+    ]
+  ],
+  [
+    [
       "2025-03-19, 12:14:46",
       "https://news.ycombinator.com/item?id=43410874"
     ],
     [
       "‘Bluey’s World’: How a Cute Aussie Puppy Became a Juggernaut",
       "https://www.hollywoodreporter.com/tv/tv-features/blueys-world-success-puppy-juggernaut-1236164905/"
-    ]
-  ],
-  [
-    [
-      "2025-03-18, 19:25:17",
-      "https://news.ycombinator.com/item?id=43403821"
-    ],
-    [
-      "Oxidizing Ubuntu: adopting Rust utilities by default",
-      "https://lwn.net/SubscriberLink/1014002/580b8750bf02cf41/"
     ]
   ],
   [
