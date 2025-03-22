@@ -9,6 +9,7 @@
 * [2025-03-18, 23:08:06](https://news.ycombinator.com/item?id=43406293) - [Are you VC-funded? No, we're profitable](https://twitter.com/jasonbosco/status/1901766688565043273)
 * [2025-03-18, 22:39:42](https://news.ycombinator.com/item?id=43406023) - [Man charged in US Capitol attack announces run for Senate in Florida](https://www.theguardian.com/us-news/2025/mar/18/senate-florida-january-6-rioter-jake-lang)
 * [2025-03-18, 22:28:29](https://news.ycombinator.com/item?id=43405918) - [Microsoft quantum computing claim still lacks evidence](https://www.nature.com/articles/d41586-025-00829-2)
+* [2025-03-18, 21:56:46](https://news.ycombinator.com/item?id=43405638) - [Locks, leases, fencing tokens, FizzBee](https://surfingcomplexity.blog/2025/03/03/locks-leases-fencing-tokens-fizzbee/)
 * [2025-03-18, 20:44:14](https://news.ycombinator.com/item?id=43404858) - [Nvidia Dynamo: A Datacenter Scale Distributed Inference Serving Framework](https://github.com/ai-dynamo/dynamo)
 * [2025-03-18, 20:31:22](https://news.ycombinator.com/item?id=43404679) - [Turkish university annuls Erdogan rival's degree, preventing run for president](https://www.reuters.com/world/asia-pacific/istanbul-university-annuls-istanbul-mayor-imamoglus-diploma-over-irregularities-2025-03-18/)
 * [2025-03-18, 20:25:27](https://news.ycombinator.com/item?id=43404617) - [A Tale of Four Kernels [pdf]](https://users.csc.calpoly.edu/~djanzen/courses/509S09/papers/FourKernels.pdf)
