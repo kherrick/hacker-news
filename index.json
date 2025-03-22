@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-03-22, 09:46:24",
+      "https://news.ycombinator.com/item?id=43444588"
+    ],
+    [
+      "Coding Theory and Cryptography [pdf]",
+      "http://www.mathstat.ualberta.ca/~bowman/m422/m422.pdf"
+    ]
+  ],
+  [
+    [
       "2025-03-22, 04:45:08",
       "https://news.ycombinator.com/item?id=43443640"
     ],
     [
       "Scallop – A Language for Neurosymbolic Programming",
       "https://www.scallop-lang.org/"
+    ]
+  ],
+  [
+    [
+      "2025-03-22, 04:01:12",
+      "https://news.ycombinator.com/item?id=43443378"
+    ],
+    [
+      "Idiomatic Rust: Part 2",
+      "https://a-i-nstein.neocities.org/pages/part-2"
     ]
   ],
   [
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2025-03-21, 18:55:33",
-      "https://news.ycombinator.com/item?id=43439610"
-    ],
-    [
-      "New USPTO Memo Makes Fighting Patent Trolls Even Harder",
-      "https://www.eff.org/deeplinks/2025/03/new-uspto-memo-makes-fighting-patent-trolls-even-harder"
-    ]
-  ],
-  [
-    [
       "2025-03-21, 17:43:25",
       "https://news.ycombinator.com/item?id=43438797"
     ],
@@ -167,16 +177,6 @@
     [
       "Career Development: What It Means to Be a Manager, Director, or VP (2015)",
       "https://kellblog.com/2015/03/08/career-development-what-it-really-means-to-be-a-manager-director-or-vp/"
-    ]
-  ],
-  [
-    [
-      "2025-03-21, 06:08:04",
-      "https://news.ycombinator.com/item?id=43432291"
-    ],
-    [
-      "‘The Celts: A Modern History’ by Ian Stewart Review",
-      "https://www.historytoday.com/archive/review/celts-modern-history-ian-stewart-review"
     ]
   ],
   [
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2025-03-18, 13:20:17",
-      "https://news.ycombinator.com/item?id=43399127"
+      "2025-03-18, 13:04:35",
+      "https://news.ycombinator.com/item?id=43398967"
     ],
     [
-      "The Case for Centralizing Authorization",
-      "https://www.aserto.com/blog/the-case-for-centralizing-authorization"
+      "The New Three-Tier Application",
+      "https://www.dbos.dev/blog/new-three-tier-application"
     ]
   ],
   [
