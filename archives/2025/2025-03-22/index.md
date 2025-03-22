@@ -9,6 +9,7 @@
 * [2025-03-22, 07:04:37](https://news.ycombinator.com/item?id=43444098) - [Number of border searches of electronic devices increasing every year](https://www.eff.org/issues/border-searches)
 * [2025-03-22, 06:44:17](https://news.ycombinator.com/item?id=43444017) - [Concise Machine Learning [pdf]](https://people.eecs.berkeley.edu/~jrs/papers/machlearn.pdf)
 * [2025-03-22, 06:35:41](https://news.ycombinator.com/item?id=43443979) - [Vibe Coding – The Ultimate Guide with Resources](https://natural20.com/vibe-coding/)
+* [2025-03-22, 06:33:27](https://news.ycombinator.com/item?id=43443974) - [The future of AI is Ruby on Rails](https://www.seangoedecke.com/ai-and-ruby/#fnref-1)
 * [2025-03-22, 04:45:08](https://news.ycombinator.com/item?id=43443640) - [Scallop – A Language for Neurosymbolic Programming](https://www.scallop-lang.org/)
 * [2025-03-22, 04:42:12](https://news.ycombinator.com/item?id=43443613) - [The struggle that made us in Waterloo](https://intention.bearblog.dev/the-struggle-that-made-us-in-waterloo/)
 * [2025-03-22, 04:20:07](https://news.ycombinator.com/item?id=43443494) - [Zen browser had a backdoor enabled by default](https://github.com/zen-browser/desktop/pull/927)
