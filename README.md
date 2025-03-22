@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-22, 20:35:51](https://news.ycombinator.com/item?id=43448432) - [\"Vibe Coding\" vs. Reality](https://cendyne.dev/posts/2025-03-19-vibe-coding-vs-reality.html)
+* [2025-03-22, 20:31:47](https://news.ycombinator.com/item?id=43448408) - [There's no emotion we ought to think harder about than anger](https://aeon.co/essays/there-s-no-emotion-we-ought-to-think-harder-about-than-anger)
 * [2025-03-22, 19:58:52](https://news.ycombinator.com/item?id=43448193) - [Mathematical Methods for Physics [pdf]](https://www.ma.imperial.ac.uk/~dturaev/Mathematical_Methods2021.pdf)
 * [2025-03-22, 19:46:04](https://news.ycombinator.com/item?id=43448112) - [Italy demands Google poison DNS under strict Piracy Shield law](https://arstechnica.com/gadgets/2025/03/italian-court-orders-google-to-block-iptv-pirate-sites-at-dns-level/)
 * [2025-03-22, 19:31:38](https://news.ycombinator.com/item?id=43448023) - [The polar vortex is hitting the brakes](https://www.climate.gov/news-features/blogs/polar-vortex/polar-vortex-hitting-brakes)
@@ -9,7 +11,6 @@
 * [2025-03-22, 17:37:25](https://news.ycombinator.com/item?id=43447311) - [Safe Shell String Interpolation](https://samwing.dev/posts/zJonlrXabVoc)
 * [2025-03-22, 17:25:32](https://news.ycombinator.com/item?id=43447254) - [Tencent's 'Hunyuan-T1'–The First Mamba-Powered Ultra-Large Model](https://llm.hunyuan.tencent.com/#/blog/hy-t1?lang=en)
 * [2025-03-22, 17:05:22](https://news.ycombinator.com/item?id=43447126) - [Bra and KET: String Interpolation in AmigaDOS](https://www.datagubbe.se/braket/)
-* [2025-03-22, 16:22:48](https://news.ycombinator.com/item?id=43446821) - [Facebook to stop targeting ads at UK woman after legal fight](https://www.bbc.co.uk/news/articles/c1en1yjv4dpo)
 * [2025-03-22, 15:57:26](https://news.ycombinator.com/item?id=43446659) - [Show HN: We made an MCP server so Cursor can debug Node.js on its own](https://www.npmjs.com/package/@hyperdrive-eng/mcp-nodejs-debugger)
 * [2025-03-22, 15:30:48](https://news.ycombinator.com/item?id=43446442) - [Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]](https://www.youtube.com/watch?v=xJzrU38pGWc)
 * [2025-03-22, 14:39:04](https://news.ycombinator.com/item?id=43445931) - [PyTorch Internals: Ezyang's Blog](https://blog.ezyang.com/2019/05/pytorch-internals/)
@@ -18,7 +19,6 @@
 * [2025-03-22, 13:56:59](https://news.ycombinator.com/item?id=43445662) - [Landrun: Sandbox any Linux process using Landlock, no root or containers](https://github.com/Zouuup/landrun)
 * [2025-03-22, 13:46:30](https://news.ycombinator.com/item?id=43445614) - [Differential Geometry: A First Course in Curves and Surfaces [pdf]](https://math.franklin.uga.edu/sites/default/files/users/user317/ShifrinDiffGeo.pdf)
 * [2025-03-22, 13:30:21](https://news.ycombinator.com/item?id=43445547) - [IETF setting standards for AI preferences](https://www.ietf.org/blog/aipref-wg/)
-* [2025-03-22, 12:52:27](https://news.ycombinator.com/item?id=43445381) - [The Cybernetic Teammate](https://www.oneusefulthing.org/p/the-cybernetic-teammate)
 * [2025-03-22, 07:24:05](https://news.ycombinator.com/item?id=43444160) - [When you deleted /lib on Linux while still connected via SSH (2022)](https://tinyhack.com/2022/09/16/when-you-deleted-lib-on-linux-while-still-connected-via-ssh/)
 * [2025-03-22, 04:45:08](https://news.ycombinator.com/item?id=43443640) - [Scallop – A Language for Neurosymbolic Programming](https://www.scallop-lang.org/)
 * [2025-03-22, 00:30:37](https://news.ycombinator.com/item?id=43442178) - [Monster Cables picked the wrong guy to threaten (2008)](https://www.oncontracts.com/monster-cables-picked-the-wrong-guy-to-threaten/)
