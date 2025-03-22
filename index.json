@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-22, 14:10:30",
+      "https://news.ycombinator.com/item?id=43445720"
+    ],
+    [
+      "Show HN: FastOpenAPI – automated docs for many Python frameworks",
+      "https://github.com/mr-fatalyst/fastopenapi"
+    ]
+  ],
+  [
+    [
+      "2025-03-22, 14:01:40",
+      "https://news.ycombinator.com/item?id=43445682"
+    ],
+    [
+      "Improved ways to operate a rude crawler",
+      "https://www.marginalia.nu/log/a_115_rude_crawler/"
+    ]
+  ],
+  [
+    [
       "2025-03-22, 13:47:03",
       "https://news.ycombinator.com/item?id=43445616"
     ],
@@ -131,32 +151,12 @@
   ],
   [
     [
-      "2025-03-21, 17:30:34",
-      "https://news.ycombinator.com/item?id=43438601"
-    ],
-    [
-      "Chunking Attacks on File Backup Services Using Content-Deﬁned Chunking [pdf]",
-      "https://www.daemonology.net/blog/chunking-attacks.pdf"
-    ]
-  ],
-  [
-    [
       "2025-03-21, 15:35:27",
       "https://news.ycombinator.com/item?id=43436894"
     ],
     [
       "IronRDP: a Rust implementation of Microsoft's RDP protocol",
       "https://github.com/Devolutions/IronRDP"
-    ]
-  ],
-  [
-    [
-      "2025-03-21, 13:29:11",
-      "https://news.ycombinator.com/item?id=43435438"
-    ],
-    [
-      "Show HN: Torch Lens Maker – Differentiable Geometric Optics in PyTorch",
-      "https://victorpoughon.github.io/torchlensmaker/"
     ]
   ],
   [
