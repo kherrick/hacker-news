@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-22](index.md)
 
+* [2025-03-22, 18:35:00](https://news.ycombinator.com/item?id=43447616) - [Most AI value will come from broad automation, not from R&D](https://epoch.ai/gradient-updates/most-ai-value-will-come-from-broad-automation-not-from-r-d)
 * [2025-03-22, 18:03:27](https://news.ycombinator.com/item?id=43447462) - [Horror on the coast of Oaxaca, a tourist paradise plagued by mass disappearances](https://english.elpais.com/international/2025-03-10/horror-on-the-coast-of-oaxaca-a-tourist-paradise-plagued-by-mass-disappearances.html)
 * [2025-03-22, 17:55:38](https://news.ycombinator.com/item?id=43447421) - [California AG Rob Bonta Urgently Issues Consumer Alert for 23andMe Customers](https://oag.ca.gov/news/press-releases/attorney-general-bonta-urgently-issues-consumer-alert-23andme-customers)
 * [2025-03-22, 17:42:10](https://news.ycombinator.com/item?id=43447335) - [Map Features in OpenStreetMap with Computer Vision](https://blog.mozilla.ai/map-features-in-openstreetmap-with-computer-vision/)
@@ -12,6 +13,7 @@
 * [2025-03-22, 17:05:22](https://news.ycombinator.com/item?id=43447126) - [Bra and KET: String Interpolation in AmigaDOS](https://www.datagubbe.se/braket/)
 * [2025-03-22, 16:22:48](https://news.ycombinator.com/item?id=43446821) - [Facebook to stop targeting ads at UK woman after legal fight](https://www.bbc.co.uk/news/articles/c1en1yjv4dpo)
 * [2025-03-22, 16:03:21](https://news.ycombinator.com/item?id=43446695) - [Revenge of the Junior Developer](https://sourcegraph.com/blog/revenge-of-the-junior-developer)
+* [2025-03-22, 15:57:26](https://news.ycombinator.com/item?id=43446659) - [Show HN: We made an MCP server so Cursor can debug Node.js on its own](https://www.npmjs.com/package/@hyperdrive-eng/mcp-nodejs-debugger)
 * [2025-03-22, 15:41:42](https://news.ycombinator.com/item?id=43446544) - [The Ugly Truth About the Education System You Were Never Told](https://www.thesouljam.com/posts/the-ugly-truth-about-the-education-system-you-were-never-told)
 * [2025-03-22, 15:30:48](https://news.ycombinator.com/item?id=43446442) - [Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]](https://www.youtube.com/watch?v=xJzrU38pGWc)
 * [2025-03-22, 14:56:09](https://news.ycombinator.com/item?id=43446103) - [Amazon wants a product safety regulator declared unconstitutional](https://www.washingtonpost.com/technology/2025/03/21/amazon-product-safety-regulators-trump/)
