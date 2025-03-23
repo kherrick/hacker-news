@@ -47,6 +47,7 @@
 * [2025-03-20, 15:38:28](https://news.ycombinator.com/item?id=43424776) - [Dad demands OpenAI delete ChatGPT's false claim that he murdered his kids](https://arstechnica.com/tech-policy/2025/03/chatgpt-falsely-claimed-a-dad-murdered-his-own-kids-complaint-says/)
 * [2025-03-20, 14:58:23](https://news.ycombinator.com/item?id=43424340) - [I Fear for the Unauthenticated Web](https://sethmlarson.dev/i-fear-for-the-unauthenticated-web)
 * [2025-03-20, 14:33:28](https://news.ycombinator.com/item?id=43424065) - [ACARS Drama](https://acarsdrama.com/)
+* [2025-03-20, 14:30:30](https://news.ycombinator.com/item?id=43424038) - [The Race to Decipher Cuneiform in the 19th Century](https://www.smithsonianmag.com/history/mystery-worlds-oldest-writing-system-remained-unsolved-until-four-scholars-raced-decipher-it-180985954/)
 * [2025-03-20, 14:10:39](https://news.ycombinator.com/item?id=43423762) - [Michael Seibel is leaving Y Combinator](https://twitter.com/mwseibel/status/1902510758925365590)
 * [2025-03-20, 14:07:28](https://news.ycombinator.com/item?id=43423705) - [Pocket Keyboard Design Contest](https://chrischrislolo.github.io/orthoLabLogs/keyboard-design-contest-00.html)
 * [2025-03-20, 13:57:30](https://news.ycombinator.com/item?id=43423523) - [Grease: An Open-Source Tool for Uncovering Hidden Vulnerabilities in Binary Code](https://www.galois.com/articles/introducing-grease)
