@@ -18,7 +18,7 @@
 * [2025-03-22, 14:35:12](https://news.ycombinator.com/item?id=43445894) - [Understanding R1-Zero-Like Training: A Critical Perspective](https://github.com/sail-sg/understand-r1-zero)
 * [2025-03-22, 14:10:30](https://news.ycombinator.com/item?id=43445720) - [Show HN: FastOpenAPI – automated docs for many Python frameworks](https://github.com/mr-fatalyst/fastopenapi)
 * [2025-03-22, 13:56:59](https://news.ycombinator.com/item?id=43445662) - [Landrun: Sandbox any Linux process using Landlock, no root or containers](https://github.com/Zouuup/landrun)
-* [2025-03-22, 04:45:08](https://news.ycombinator.com/item?id=43443640) - [Scallop – A Language for Neurosymbolic Programming](https://www.scallop-lang.org/)
+* [2025-03-22, 07:24:05](https://news.ycombinator.com/item?id=43444160) - [When you deleted /lib on Linux while still connected via SSH (2022)](https://tinyhack.com/2022/09/16/when-you-deleted-lib-on-linux-while-still-connected-via-ssh/)
 * [2025-03-21, 15:13:35](https://news.ycombinator.com/item?id=43436663) - [Metabolism Can Shape Cells' Destinies](https://www.quantamagazine.org/how-metabolism-can-shape-cells-destinies-20250321/)
 * [2025-03-21, 05:42:27](https://news.ycombinator.com/item?id=43432151) - [Matched and Deleted](https://www.dikshaupadhyay.com/p/matched-and-deleted)
 * [2025-03-21, 04:35:19](https://news.ycombinator.com/item?id=43431881) - [The Barnacle Goose Myth](https://en.wikipedia.org/wiki/Barnacle_goose_myth)
