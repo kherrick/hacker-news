@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-03-23, 08:14:25",
+      "https://news.ycombinator.com/item?id=43451525"
+    ],
+    [
+      "The case of the critical section that let multiple threads enter a block of code",
+      "https://devblogs.microsoft.com/oldnewthing/20250321-00/?p=110984"
+    ]
+  ],
+  [
+    [
       "2025-03-23, 07:29:03",
       "https://news.ycombinator.com/item?id=43451397"
     ],
@@ -177,16 +187,6 @@
     [
       "When you deleted /lib on Linux while still connected via SSH (2022)",
       "https://tinyhack.com/2022/09/16/when-you-deleted-lib-on-linux-while-still-connected-via-ssh/"
-    ]
-  ],
-  [
-    [
-      "2025-03-22, 04:45:08",
-      "https://news.ycombinator.com/item?id=43443640"
-    ],
-    [
-      "Scallop – A Language for Neurosymbolic Programming",
-      "https://www.scallop-lang.org/"
     ]
   ],
   [
