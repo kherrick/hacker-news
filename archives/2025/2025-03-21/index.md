@@ -56,6 +56,7 @@
 * [2025-03-21, 05:42:27](https://news.ycombinator.com/item?id=43432151) - [Matched and Deleted](https://www.dikshaupadhyay.com/p/matched-and-deleted)
 * [2025-03-21, 05:40:38](https://news.ycombinator.com/item?id=43432142) - [Western Ignorance: Failure to See China Beyond the Party](https://thechinaacademy.org/western-ignorance-failure-to-see-china-beyond-the-party/)
 * [2025-03-21, 04:35:27](https://news.ycombinator.com/item?id=43431882) - [Show HN: Minimal JavaScript/TS framework that made us 10k in 10 days](https://github.com/The-Pocket-World/Pocket-Flow-Framework)
+* [2025-03-21, 04:35:19](https://news.ycombinator.com/item?id=43431881) - [The Barnacle Goose Myth](https://en.wikipedia.org/wiki/Barnacle_goose_myth)
 * [2025-03-21, 04:16:32](https://news.ycombinator.com/item?id=43431780) - [Boycott IETF 127](https://boycott-ietf127.org/)
 * [2025-03-21, 04:01:00](https://news.ycombinator.com/item?id=43431675) - [Apple Shuffles AI Executive Ranks in Bid to Turn Around Siri](https://finance.yahoo.com/news/apple-shuffles-ai-executive-ranks-162500488.html)
 * [2025-03-21, 03:55:22](https://news.ycombinator.com/item?id=43431653) - [A New Form Factor for Drones: Vertical and Coaxial](https://www.core77.com/posts/135952/A-New-Form-Factor-for-Drones-Vertical-and-Coaxial)
