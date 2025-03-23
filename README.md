@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-23, 17:26:11](https://news.ycombinator.com/item?id=43454341) - [Ttyd – Share your terminal over the web](https://github.com/tsl0922/ttyd)
 * [2025-03-23, 17:00:09](https://news.ycombinator.com/item?id=43454142) - [Modern Realty (YC S24) Is Hiring](https://www.workatastartup.com/jobs/66546)
 * [2025-03-23, 15:59:12](https://news.ycombinator.com/item?id=43453769) - [A Brief History of the Miracle Bacterium](https://www.asimov.press/p/miracle-bacterium)
 * [2025-03-23, 15:31:26](https://news.ycombinator.com/item?id=43453582) - [A USB Interface to the \"Mother of All Demos\" Keyset](https://www.righto.com/2025/03/mother-of-all-demos-usb-keyset-interface.html)
@@ -12,7 +13,6 @@
 * [2025-03-23, 09:16:29](https://news.ycombinator.com/item?id=43451742) - [Bitter Lesson is about AI agents](https://ankitmaloo.com/bitter-lesson/)
 * [2025-03-23, 08:14:25](https://news.ycombinator.com/item?id=43451525) - [The case of the critical section that let multiple threads enter a block of code](https://devblogs.microsoft.com/oldnewthing/20250321-00/?p=110984)
 * [2025-03-23, 03:40:05](https://news.ycombinator.com/item?id=43450732) - [Improving recommendation systems and search in the age of LLMs](https://eugeneyan.com/writing/recsys-llm/)
-* [2025-03-23, 02:51:38](https://news.ycombinator.com/item?id=43450550) - [Stop using the elbow criterion for k-means](https://arxiv.org/abs/2212.12189)
 * [2025-03-22, 21:19:07](https://news.ycombinator.com/item?id=43448723) - [Next.js version 15.2.3 has been released to address a security vulnerability](https://nextjs.org/blog/cve-2025-29927)
 * [2025-03-22, 20:42:04](https://news.ycombinator.com/item?id=43448457) - [Quitting an Intel x86 Hypervisor](https://halobates.de/blog/p/446)
 * [2025-03-22, 19:31:38](https://news.ycombinator.com/item?id=43448023) - [The polar vortex is hitting the brakes](https://www.climate.gov/news-features/blogs/polar-vortex/polar-vortex-hitting-brakes)
