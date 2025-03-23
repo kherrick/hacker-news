@@ -42,6 +42,7 @@
 * [2025-03-20, 16:35:32](https://news.ycombinator.com/item?id=43425464) - [Canada considering charging for road access from USA to Alaska](https://washingtonstatestandard.com/2025/03/17/british-columbia-introduces-toll-measure-to-counter-tariffs/)
 * [2025-03-20, 16:26:58](https://news.ycombinator.com/item?id=43425351) - [LED's Efficiency Exceeds 100%](https://phys.org/news/2012-03-efficiency.html)
 * [2025-03-20, 16:01:10](https://news.ycombinator.com/item?id=43425032) - [Low-Cost Drone Add-Ons from China Let Anyone Turn Toys into Weapons of War](https://www.wired.com/story/drone-accessories-weapons-of-war/)
+* [2025-03-20, 15:55:51](https://news.ycombinator.com/item?id=43424970) - [EmptyEpsilon open source spaceship bridge simulator](https://daid.github.io/EmptyEpsilon/)
 * [2025-03-20, 15:38:28](https://news.ycombinator.com/item?id=43424776) - [Dad demands OpenAI delete ChatGPT's false claim that he murdered his kids](https://arstechnica.com/tech-policy/2025/03/chatgpt-falsely-claimed-a-dad-murdered-his-own-kids-complaint-says/)
 * [2025-03-20, 14:58:23](https://news.ycombinator.com/item?id=43424340) - [I Fear for the Unauthenticated Web](https://sethmlarson.dev/i-fear-for-the-unauthenticated-web)
 * [2025-03-20, 14:33:28](https://news.ycombinator.com/item?id=43424065) - [ACARS Drama](https://acarsdrama.com/)
