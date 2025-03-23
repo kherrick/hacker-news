@@ -6,6 +6,7 @@
 
 * [2025-03-23, 15:59:12](https://news.ycombinator.com/item?id=43453769) - [A Brief History of the Miracle Bacterium](https://www.asimov.press/p/miracle-bacterium)
 * [2025-03-23, 15:31:26](https://news.ycombinator.com/item?id=43453582) - [A USB Interface to the \"Mother of All Demos\" Keyset](https://www.righto.com/2025/03/mother-of-all-demos-usb-keyset-interface.html)
+* [2025-03-23, 14:57:29](https://news.ycombinator.com/item?id=43453350) - [Achieving Great Privacy with Safari](https://matanabudy.com/achieving-great-privacy-with-safari/)
 * [2025-03-23, 13:54:06](https://news.ycombinator.com/item?id=43452945) - [Ask HN: Difficulties with Going Back to School](https://news.ycombinator.com/item?id=43452945)
 * [2025-03-23, 13:14:15](https://news.ycombinator.com/item?id=43452688) - [Technicalities of Homeworld 2 Backgrounds](https://simonschreibt.de/gat/homeworld-2-backgrounds/)
 * [2025-03-23, 13:08:45](https://news.ycombinator.com/item?id=43452649) - [The Worst Programmer I Know (2023)](https://dannorth.net/the-worst-programmer/)
@@ -19,6 +20,7 @@
 * [2025-03-23, 11:46:59](https://news.ycombinator.com/item?id=43452320) - [I made \"Character AI\" for learning](https://news.ycombinator.com/item?id=43452320)
 * [2025-03-23, 11:09:28](https://news.ycombinator.com/item?id=43452185) - [The SeL4 Microkernel: An Introduction [pdf]](https://sel4.systems/About/seL4-whitepaper.pdf)
 * [2025-03-23, 09:19:08](https://news.ycombinator.com/item?id=43451752) - [In some parts of the US, the clack of typewriter keys can still be heard](https://www.bbc.com/future/article/20250321-the-people-who-still-use-typewriters)
+* [2025-03-23, 09:16:29](https://news.ycombinator.com/item?id=43451742) - [Bitter Lesson is about AI agents](https://ankitmaloo.com/bitter-lesson/)
 * [2025-03-23, 08:14:25](https://news.ycombinator.com/item?id=43451525) - [The case of the critical section that let multiple threads enter a block of code](https://devblogs.microsoft.com/oldnewthing/20250321-00/?p=110984)
 * [2025-03-23, 07:57:40](https://news.ycombinator.com/item?id=43451485) - [Next.js and the corrupt middleware: the authorizing artifact](https://zhero-web-sec.github.io/research-and-things/nextjs-and-the-corrupt-middleware)
 * [2025-03-23, 07:57:32](https://news.ycombinator.com/item?id=43451483) - [Big Tech is striking secret deals to make you foot its electricity bill](https://web.archive.org/web/20250314114652/https://www.businessinsider.com/big-tech-secret-energy-deals-utility-bills-cost-consumers-2025-3)
