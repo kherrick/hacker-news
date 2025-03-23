@@ -78,6 +78,7 @@
 * [2025-03-20, 07:58:57](https://news.ycombinator.com/item?id=43420678) - [Show HN: I built a MCP server so Claude can play Minesweeper](https://github.com/tonypan2/minesweeper-mcp-server)
 * [2025-03-20, 07:19:25](https://news.ycombinator.com/item?id=43420477) - [C++26: Deprecating or removing library features](https://www.sandordargo.com/blog/2025/03/19/cpp26-deprecate-remove-library-features)
 * [2025-03-20, 06:10:12](https://news.ycombinator.com/item?id=43420236) - [Trump's US Commerce Secretary publicly recommends to buy TSLA](https://electrek.co/2025/03/19/trump-us-commerce-secretary-owns-tesla-recommends-buy-tsla-stocks/)
+* [2025-03-20, 05:46:44](https://news.ycombinator.com/item?id=43420167) - [Andromeda XXXV: The Faintest Dwarf Satellite of the Andromeda Galaxy](https://iopscience.iop.org/article/10.3847/2041-8213/adb433)
 * [2025-03-20, 05:42:21](https://news.ycombinator.com/item?id=43420152) - [How I accepted myself into Canada's largest AI hackathon](https://fastcall.dev/posts/genai-genesis-firebase/)
 * [2025-03-20, 04:57:12](https://news.ycombinator.com/item?id=43419996) - ['More Than a Hint' That Dark Energy Isn't What Astronomers Thought](https://www.nytimes.com/2025/03/19/science/space/astronomer-desi-dark-energy.html)
 * [2025-03-20, 04:37:09](https://news.ycombinator.com/item?id=43419928) - [Austral: A Systems Language with Linear Types and Capabilities (2022)](https://borretti.me/article/introducing-austral)
