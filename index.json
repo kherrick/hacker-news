@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-23, 17:26:11",
+      "https://news.ycombinator.com/item?id=43454341"
+    ],
+    [
+      "Ttyd – Share your terminal over the web",
+      "https://github.com/tsl0922/ttyd"
+    ]
+  ],
+  [
+    [
       "2025-03-23, 17:00:09",
       "https://news.ycombinator.com/item?id=43454142"
     ],
@@ -117,16 +127,6 @@
     [
       "Improving recommendation systems and search in the age of LLMs",
       "https://eugeneyan.com/writing/recsys-llm/"
-    ]
-  ],
-  [
-    [
-      "2025-03-23, 02:51:38",
-      "https://news.ycombinator.com/item?id=43450550"
-    ],
-    [
-      "Stop using the elbow criterion for k-means",
-      "https://arxiv.org/abs/2212.12189"
     ]
   ],
   [
