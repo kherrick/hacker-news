@@ -2,7 +2,6 @@
 
 * [2025-03-23, 01:00:12](https://news.ycombinator.com/item?id=43450060) - [Domu Technology Inc. (YC S24) Is Hiring a Vibe Coder](https://www.ycombinator.com/companies/domu-technology-inc/jobs/hwWsGdU-vibe-coder-ai-engineer)
 * [2025-03-22, 22:52:21](https://news.ycombinator.com/item?id=43449326) - [The Vectrex Computer](https://www.amigalove.com/viewtopic.php?t=2887)
-* [2025-03-22, 21:19:07](https://news.ycombinator.com/item?id=43448723) - [Next.js version 15.2.3 has been released to address a security vulnerability](https://nextjs.org/blog/cve-2025-29927)
 * [2025-03-22, 20:42:04](https://news.ycombinator.com/item?id=43448457) - [Quitting an Intel x86 Hypervisor](https://halobates.de/blog/p/446)
 * [2025-03-22, 19:58:52](https://news.ycombinator.com/item?id=43448193) - [Mathematical Methods for Physics [pdf]](https://www.ma.imperial.ac.uk/~dturaev/Mathematical_Methods2021.pdf)
 * [2025-03-22, 19:46:04](https://news.ycombinator.com/item?id=43448112) - [Italy demands Google poison DNS under strict Piracy Shield law](https://arstechnica.com/gadgets/2025/03/italian-court-orders-google-to-block-iptv-pirate-sites-at-dns-level/)
@@ -24,6 +23,7 @@
 * [2025-03-21, 00:06:36](https://news.ycombinator.com/item?id=43430498) - [Derivatives and Logarithms of 3D Transforms](https://nosferalatu.com/./DerivativesLogarithmsTransforms.html)
 * [2025-03-20, 22:34:07](https://news.ycombinator.com/item?id=43429804) - [Optimizing Brainfuck interpreter in the C preprocessor](https://github.com/camel-cdr/bfcpp)
 * [2025-03-20, 21:55:20](https://news.ycombinator.com/item?id=43429427) - [Magical Instant Bullets](https://militaryrealism.blog/2025/03/20/magical-instant-bullets/)
+* [2025-03-20, 18:40:59](https://news.ycombinator.com/item?id=43427236) - [Claude Tried to Nuke My Home Directory](https://old.reddit.com/r/ClaudeAI/comments/1jfidvb/claude_tried_to_nuke_my_home/)
 * [2025-03-19, 23:29:28](https://news.ycombinator.com/item?id=43418343) - [Hubble Captures Vivid Auroras in Jupiter's Atmosphere (2016)](https://science.nasa.gov/missions/hubble/hubble-captures-vivid-auroras-in-jupiters-atmosphere/)
 * [2025-03-19, 21:15:39](https://news.ycombinator.com/item?id=43417398) - [Through a Glass Lushly: Michalina Janoszanka's Reverse Paintings (Ca. 1920s)](https://publicdomainreview.org/collection/michalina-janoszanka/)
 * [2025-03-19, 20:37:58](https://news.ycombinator.com/item?id=43417038) - [300-year-old Polish beech voted Tree of the Year](https://www.bbc.co.uk/news/articles/c20dd6yk55yo)
