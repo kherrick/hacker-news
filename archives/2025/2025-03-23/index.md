@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-23](index.md)
 
 * [2025-03-23, 18:45:13](https://news.ycombinator.com/item?id=43454861) - [Show HN: Formal Verification for Machine Learning Models Using Lean 4](https://github.com/fraware/leanverifier)
+* [2025-03-23, 18:37:25](https://news.ycombinator.com/item?id=43454816) - [The Software Engineering Identity Crisis](https://annievella.com/posts/the-software-engineering-identity-crisis/)
 * [2025-03-23, 18:31:46](https://news.ycombinator.com/item?id=43454785) - [Play the Virtual Organ from Arp Schnitger](https://www.orgelstadt-hamburg.de/play-arp/)
 * [2025-03-23, 17:36:42](https://news.ycombinator.com/item?id=43454411) - [The Scammer's Manual: How to Launder Money and Get Away with It](https://www.nytimes.com/2025/03/23/world/asia/cambodia-money-laundering-huione.html)
 * [2025-03-23, 17:31:54](https://news.ycombinator.com/item?id=43454383) - [Germany is unlocking billions to supercharge its military at a seismic moment](https://www.cnn.com/2025/03/23/europe/germany-military-investment-intl/index.html)
