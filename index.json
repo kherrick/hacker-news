@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2025-03-23, 07:57:40",
+      "https://news.ycombinator.com/item?id=43451485"
+    ],
+    [
+      "Next.js and the corrupt middleware: the authorizing artifact",
+      "https://zhero-web-sec.github.io/research-and-things/nextjs-and-the-corrupt-middleware"
+    ]
+  ],
+  [
+    [
       "2025-03-23, 07:29:03",
       "https://news.ycombinator.com/item?id=43451397"
     ],
@@ -81,12 +91,12 @@
   ],
   [
     [
-      "2025-03-22, 22:52:21",
-      "https://news.ycombinator.com/item?id=43449326"
+      "2025-03-22, 21:19:07",
+      "https://news.ycombinator.com/item?id=43448723"
     ],
     [
-      "The Vectrex Computer",
-      "https://www.amigalove.com/viewtopic.php?t=2887"
+      "Next.js version 15.2.3 has been released to address a security vulnerability",
+      "https://nextjs.org/blog/cve-2025-29927"
     ]
   ],
   [
@@ -97,6 +107,26 @@
     [
       "Quitting an Intel x86 Hypervisor",
       "https://halobates.de/blog/p/446"
+    ]
+  ],
+  [
+    [
+      "2025-03-22, 19:31:38",
+      "https://news.ycombinator.com/item?id=43448023"
+    ],
+    [
+      "The polar vortex is hitting the brakes",
+      "https://www.climate.gov/news-features/blogs/polar-vortex/polar-vortex-hitting-brakes"
+    ]
+  ],
+  [
+    [
+      "2025-03-22, 18:35:00",
+      "https://news.ycombinator.com/item?id=43447616"
+    ],
+    [
+      "Most AI value will come from broad automation, not from R & D",
+      "https://epoch.ai/gradient-updates/most-ai-value-will-come-from-broad-automation-not-from-r-d"
     ]
   ],
   [
@@ -121,42 +151,12 @@
   ],
   [
     [
-      "2025-03-22, 17:05:22",
-      "https://news.ycombinator.com/item?id=43447126"
-    ],
-    [
-      "Bra and KET: String Interpolation in AmigaDOS",
-      "https://www.datagubbe.se/braket/"
-    ]
-  ],
-  [
-    [
-      "2025-03-22, 15:57:26",
-      "https://news.ycombinator.com/item?id=43446659"
-    ],
-    [
-      "Show HN: We made an MCP server so Cursor can debug Node.js on its own",
-      "https://www.npmjs.com/package/@hyperdrive-eng/mcp-nodejs-debugger"
-    ]
-  ],
-  [
-    [
       "2025-03-22, 14:39:04",
       "https://news.ycombinator.com/item?id=43445931"
     ],
     [
       "PyTorch Internals: Ezyang's Blog",
       "https://blog.ezyang.com/2019/05/pytorch-internals/"
-    ]
-  ],
-  [
-    [
-      "2025-03-22, 14:10:30",
-      "https://news.ycombinator.com/item?id=43445720"
-    ],
-    [
-      "Show HN: FastOpenAPI – automated docs for many Python frameworks",
-      "https://github.com/mr-fatalyst/fastopenapi"
     ]
   ],
   [
@@ -171,22 +171,22 @@
   ],
   [
     [
-      "2025-03-22, 07:24:05",
-      "https://news.ycombinator.com/item?id=43444160"
-    ],
-    [
-      "When you deleted /lib on Linux while still connected via SSH (2022)",
-      "https://tinyhack.com/2022/09/16/when-you-deleted-lib-on-linux-while-still-connected-via-ssh/"
-    ]
-  ],
-  [
-    [
       "2025-03-21, 15:13:35",
       "https://news.ycombinator.com/item?id=43436663"
     ],
     [
       "Metabolism Can Shape Cells' Destinies",
       "https://www.quantamagazine.org/how-metabolism-can-shape-cells-destinies-20250321/"
+    ]
+  ],
+  [
+    [
+      "2025-03-21, 12:00:58",
+      "https://news.ycombinator.com/item?id=43434605"
+    ],
+    [
+      "Unknown microorganisms used marble and limestone as a habitat",
+      "https://www.sciencedaily.com/releases/2025/03/250319143419.htm"
     ]
   ],
   [
