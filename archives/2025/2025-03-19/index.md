@@ -12,6 +12,7 @@
 * [2025-03-19, 22:30:56](https://news.ycombinator.com/item?id=43417932) - [Bolt3D: Generating 3D Scenes in Seconds](https://szymanowiczs.github.io/bolt3d)
 * [2025-03-19, 22:26:39](https://news.ycombinator.com/item?id=43417894) - [Orpheus-3B – Emotive TTS by Canopy Labs](https://canopylabs.ai/model-releases)
 * [2025-03-19, 22:25:14](https://news.ycombinator.com/item?id=43417885) - [OpenAI's o1-pro now available via API](https://platform.openai.com/docs/models/o1-pro)
+* [2025-03-19, 21:41:05](https://news.ycombinator.com/item?id=43417613) - [Satshot Founder Lanny Faleide Takes Global Imagery to New Heights](https://www.croplife.com/precision-tech/satshot/)
 * [2025-03-19, 21:29:13](https://news.ycombinator.com/item?id=43417511) - [LLM Agents Are Simply Graph – Tutorial for Dummies](https://zacharyhuang.substack.com/p/llm-agent-internal-as-a-graph-tutorial)
 * [2025-03-19, 21:15:39](https://news.ycombinator.com/item?id=43417398) - [Through a Glass Lushly: Michalina Janoszanka's Reverse Paintings (Ca. 1920s)](https://publicdomainreview.org/collection/michalina-janoszanka/)
 * [2025-03-19, 20:37:58](https://news.ycombinator.com/item?id=43417038) - [300-year-old Polish beech voted Tree of the Year](https://www.bbc.co.uk/news/articles/c20dd6yk55yo)

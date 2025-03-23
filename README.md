@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-23, 17:36:42](https://news.ycombinator.com/item?id=43454411) - [The Scammer's Manual: How to Launder Money and Get Away with It](https://www.nytimes.com/2025/03/23/world/asia/cambodia-money-laundering-huione.html)
 * [2025-03-23, 17:26:11](https://news.ycombinator.com/item?id=43454341) - [Ttyd – Share your terminal over the web](https://github.com/tsl0922/ttyd)
 * [2025-03-23, 17:00:09](https://news.ycombinator.com/item?id=43454142) - [Modern Realty (YC S24) Is Hiring](https://www.workatastartup.com/jobs/66546)
 * [2025-03-23, 15:59:12](https://news.ycombinator.com/item?id=43453769) - [A Brief History of the Miracle Bacterium](https://www.asimov.press/p/miracle-bacterium)
@@ -13,8 +14,8 @@
 * [2025-03-23, 11:04:47](https://news.ycombinator.com/item?id=43452177) - [Show HN: NPM-Audit-to-Report](https://github.com/egorsmkv/npm-audit-to-report)
 * [2025-03-23, 09:16:29](https://news.ycombinator.com/item?id=43451742) - [Bitter Lesson is about AI agents](https://ankitmaloo.com/bitter-lesson/)
 * [2025-03-23, 08:14:25](https://news.ycombinator.com/item?id=43451525) - [The case of the critical section that let multiple threads enter a block of code](https://devblogs.microsoft.com/oldnewthing/20250321-00/?p=110984)
+* [2025-03-23, 07:29:03](https://news.ycombinator.com/item?id=43451397) - [Do viruses trigger Alzheimer's?](https://www.economist.com/science-and-technology/2025/03/17/do-viruses-trigger-alzheimers)
 * [2025-03-23, 03:40:05](https://news.ycombinator.com/item?id=43450732) - [Improving recommendation systems and search in the age of LLMs](https://eugeneyan.com/writing/recsys-llm/)
-* [2025-03-22, 21:19:07](https://news.ycombinator.com/item?id=43448723) - [Next.js version 15.2.3 has been released to address a security vulnerability](https://nextjs.org/blog/cve-2025-29927)
 * [2025-03-22, 19:31:38](https://news.ycombinator.com/item?id=43448023) - [The polar vortex is hitting the brakes](https://www.climate.gov/news-features/blogs/polar-vortex/polar-vortex-hitting-brakes)
 * [2025-03-22, 18:35:00](https://news.ycombinator.com/item?id=43447616) - [Most AI value will come from broad automation, not from R & D](https://epoch.ai/gradient-updates/most-ai-value-will-come-from-broad-automation-not-from-r-d)
 * [2025-03-22, 17:42:10](https://news.ycombinator.com/item?id=43447335) - [Map Features in OpenStreetMap with Computer Vision](https://blog.mozilla.ai/map-features-in-openstreetmap-with-computer-vision/)
@@ -25,11 +26,10 @@
 * [2025-03-21, 11:28:06](https://news.ycombinator.com/item?id=43434364) - [All Placebos are not created equal (2021)](https://www.samstack.io/p/all-placebos-are-not-created-equal)
 * [2025-03-20, 17:07:11](https://news.ycombinator.com/item?id=43425855) - [Euclid opens data treasure trove, offers glimpse of deep fields](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_opens_data_treasure_trove_offers_glimpse_of_deep_fields)
 * [2025-03-20, 15:55:51](https://news.ycombinator.com/item?id=43424970) - [EmptyEpsilon open source spaceship bridge simulator](https://daid.github.io/EmptyEpsilon/)
-* [2025-03-20, 14:30:30](https://news.ycombinator.com/item?id=43424038) - [The Race to Decipher Cuneiform in the 19th Century](https://www.smithsonianmag.com/history/mystery-worlds-oldest-writing-system-remained-unsolved-until-four-scholars-raced-decipher-it-180985954/)
+* [2025-03-19, 21:41:05](https://news.ycombinator.com/item?id=43417613) - [Satshot Founder Lanny Faleide Takes Global Imagery to New Heights](https://www.croplife.com/precision-tech/satshot/)
 * [2025-03-19, 20:37:58](https://news.ycombinator.com/item?id=43417038) - [300-year-old Polish beech voted Tree of the Year](https://www.bbc.co.uk/news/articles/c20dd6yk55yo)
 * [2025-03-19, 18:19:41](https://news.ycombinator.com/item?id=43415540) - [The Guy Who Invented the Belay Test–and the Modern American Climbing Gym](https://www.climbing.com/people/peter-mayfield-belay-test-modern-american-climbing-gym-history/)
 * [2025-03-19, 17:17:06](https://news.ycombinator.com/item?id=43414743) - [Feral pig meat transmits rare bacteria](https://arstechnica.com/health/2025/03/florida-man-eats-feral-pig-meat-contracts-rare-biothreat-bacteria/)
-* [2025-03-19, 11:39:01](https://news.ycombinator.com/item?id=43410666) - [A single-fibre computer enables textile networks and distributed inference](https://www.nature.com/articles/s41586-024-08568-6)
 
 ## [Archives](archives/index.md)
 
