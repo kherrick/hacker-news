@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-23](index.md)
 
+* [2025-03-23, 18:52:40](https://news.ycombinator.com/item?id=43454915) - [Show HN: LinkedIn sucks, so I built a better one](https://heyopenspot.com/)
 * [2025-03-23, 18:45:13](https://news.ycombinator.com/item?id=43454861) - [Show HN: Formal Verification for Machine Learning Models Using Lean 4](https://github.com/fraware/leanverifier)
 * [2025-03-23, 18:37:25](https://news.ycombinator.com/item?id=43454816) - [The Software Engineering Identity Crisis](https://annievella.com/posts/the-software-engineering-identity-crisis/)
 * [2025-03-23, 18:31:46](https://news.ycombinator.com/item?id=43454785) - [Play the Virtual Organ from Arp Schnitger](https://www.orgelstadt-hamburg.de/play-arp/)
