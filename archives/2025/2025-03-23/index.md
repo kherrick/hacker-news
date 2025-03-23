@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-23](index.md)
 
+* [2025-03-23, 15:31:26](https://news.ycombinator.com/item?id=43453582) - [A USB Interface to the \"Mother of All Demos\" Keyset](https://www.righto.com/2025/03/mother-of-all-demos-usb-keyset-interface.html)
 * [2025-03-23, 13:54:06](https://news.ycombinator.com/item?id=43452945) - [Ask HN: Difficulties with Going Back to School](https://news.ycombinator.com/item?id=43452945)
 * [2025-03-23, 13:08:45](https://news.ycombinator.com/item?id=43452649) - [The Worst Programmer I Know (2023)](https://dannorth.net/the-worst-programmer/)
 * [2025-03-23, 12:45:21](https://news.ycombinator.com/item?id=43452525) - [argp: GNU-style command line argument parser for Go](https://github.com/tdewolff/argp)
