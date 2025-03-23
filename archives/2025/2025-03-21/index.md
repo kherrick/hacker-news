@@ -53,6 +53,7 @@
 * [2025-03-21, 07:21:35](https://news.ycombinator.com/item?id=43432670) - [Harvard study: open-source has an economic value of 8.8T dollars](https://www.heise.de/en/news/Harvard-study-Open-source-has-an-economic-value-of-8-8-trillion-dollars-10322643.html)
 * [2025-03-21, 06:44:14](https://news.ycombinator.com/item?id=43432485) - [Chimera Linux NOT dropping RISC-V support after all](https://chimera-linux.org/news/2025/03/new-riscv-server.html)
 * [2025-03-21, 06:08:04](https://news.ycombinator.com/item?id=43432291) - ['The Celts: A Modern History' by Ian Stewart Review](https://www.historytoday.com/archive/review/celts-modern-history-ian-stewart-review)
+* [2025-03-21, 05:42:27](https://news.ycombinator.com/item?id=43432151) - [Matched and Deleted](https://www.dikshaupadhyay.com/p/matched-and-deleted)
 * [2025-03-21, 05:40:38](https://news.ycombinator.com/item?id=43432142) - [Western Ignorance: Failure to See China Beyond the Party](https://thechinaacademy.org/western-ignorance-failure-to-see-china-beyond-the-party/)
 * [2025-03-21, 04:35:27](https://news.ycombinator.com/item?id=43431882) - [Show HN: Minimal JavaScript/TS framework that made us 10k in 10 days](https://github.com/The-Pocket-World/Pocket-Flow-Framework)
 * [2025-03-21, 04:16:32](https://news.ycombinator.com/item?id=43431780) - [Boycott IETF 127](https://boycott-ietf127.org/)
