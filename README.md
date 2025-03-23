@@ -1,13 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-23, 07:57:32](https://news.ycombinator.com/item?id=43451483) - [Big Tech is striking secret deals to make you foot its electricity bill](https://web.archive.org/web/20250314114652/https://www.businessinsider.com/big-tech-secret-energy-deals-utility-bills-cost-consumers-2025-3)
+* [2025-03-23, 06:09:20](https://news.ycombinator.com/item?id=43451166) - [ChatGPT can't kill anything worth preserving](https://biblioracle.substack.com/p/chatgpt-cant-kill-anything-worth)
 * [2025-03-23, 03:40:05](https://news.ycombinator.com/item?id=43450732) - [Improving Recommendation Systems & Search in the Age of LLMs](https://eugeneyan.com/writing/recsys-llm/)
-* [2025-03-23, 02:51:38](https://news.ycombinator.com/item?id=43450550) - [Stop using the elbow criterion for k-means](https://arxiv.org/abs/2212.12189)
 * [2025-03-23, 01:00:12](https://news.ycombinator.com/item?id=43450060) - [Domu Technology Inc. (YC S24) Is Hiring a Vibe Coder](https://www.ycombinator.com/companies/domu-technology-inc/jobs/hwWsGdU-vibe-coder-ai-engineer)
 * [2025-03-22, 22:52:21](https://news.ycombinator.com/item?id=43449326) - [The Vectrex Computer](https://www.amigalove.com/viewtopic.php?t=2887)
 * [2025-03-22, 20:42:04](https://news.ycombinator.com/item?id=43448457) - [Quitting an Intel x86 Hypervisor](https://halobates.de/blog/p/446)
 * [2025-03-22, 19:58:52](https://news.ycombinator.com/item?id=43448193) - [Mathematical Methods for Physics [pdf]](https://www.ma.imperial.ac.uk/~dturaev/Mathematical_Methods2021.pdf)
 * [2025-03-22, 19:39:59](https://news.ycombinator.com/item?id=43448075) - [NixOS and reproducible builds could have detected the xz backdoor](https://luj.fr/blog/how-nixos-could-have-detected-xz.html)
-* [2025-03-22, 19:31:38](https://news.ycombinator.com/item?id=43448023) - [The polar vortex is hitting the brakes](https://www.climate.gov/news-features/blogs/polar-vortex/polar-vortex-hitting-brakes)
 * [2025-03-22, 17:55:38](https://news.ycombinator.com/item?id=43447421) - [California Attorney General issues consumer alert for 23andMe customers](https://oag.ca.gov/news/press-releases/attorney-general-bonta-urgently-issues-consumer-alert-23andme-customers)
 * [2025-03-22, 17:42:10](https://news.ycombinator.com/item?id=43447335) - [Map Features in OpenStreetMap with Computer Vision](https://blog.mozilla.ai/map-features-in-openstreetmap-with-computer-vision/)
 * [2025-03-22, 17:25:32](https://news.ycombinator.com/item?id=43447254) - [Tencent's 'Hunyuan-T1'–The First Mamba-Powered Ultra-Large Model](https://llm.hunyuan.tencent.com/#/blog/hy-t1?lang=en)
@@ -19,7 +19,6 @@
 * [2025-03-22, 14:10:30](https://news.ycombinator.com/item?id=43445720) - [Show HN: FastOpenAPI – automated docs for many Python frameworks](https://github.com/mr-fatalyst/fastopenapi)
 * [2025-03-22, 13:56:59](https://news.ycombinator.com/item?id=43445662) - [Landrun: Sandbox any Linux process using Landlock, no root or containers](https://github.com/Zouuup/landrun)
 * [2025-03-22, 13:46:30](https://news.ycombinator.com/item?id=43445614) - [Differential Geometry: A First Course in Curves and Surfaces [pdf]](https://math.franklin.uga.edu/sites/default/files/users/user317/ShifrinDiffGeo.pdf)
-* [2025-03-22, 04:45:08](https://news.ycombinator.com/item?id=43443640) - [Scallop – A Language for Neurosymbolic Programming](https://www.scallop-lang.org/)
 * [2025-03-21, 15:13:35](https://news.ycombinator.com/item?id=43436663) - [Metabolism Can Shape Cells' Destinies](https://www.quantamagazine.org/how-metabolism-can-shape-cells-destinies-20250321/)
 * [2025-03-21, 05:42:27](https://news.ycombinator.com/item?id=43432151) - [Matched and Deleted](https://www.dikshaupadhyay.com/p/matched-and-deleted)
 * [2025-03-21, 00:06:36](https://news.ycombinator.com/item?id=43430498) - [Derivatives and Logarithms of 3D Transforms](https://nosferalatu.com/./DerivativesLogarithmsTransforms.html)
@@ -30,6 +29,7 @@
 * [2025-03-19, 21:15:39](https://news.ycombinator.com/item?id=43417398) - [Through a Glass Lushly: Michalina Janoszanka's Reverse Paintings (Ca. 1920s)](https://publicdomainreview.org/collection/michalina-janoszanka/)
 * [2025-03-19, 20:37:58](https://news.ycombinator.com/item?id=43417038) - [300-year-old Polish beech voted Tree of the Year](https://www.bbc.co.uk/news/articles/c20dd6yk55yo)
 * [2025-03-19, 18:44:11](https://news.ycombinator.com/item?id=43415820) - [Crabtime: Zig’s Comptime in Rust](https://crates.io/crates/crabtime)
+* [2025-03-19, 17:17:06](https://news.ycombinator.com/item?id=43414743) - [Feral pig meat transmits rare bacteria](https://arstechnica.com/health/2025/03/florida-man-eats-feral-pig-meat-contracts-rare-biothreat-bacteria/)
 
 ## [Archives](archives/index.md)
 

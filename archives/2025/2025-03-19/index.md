@@ -28,6 +28,7 @@
 * [2025-03-19, 17:44:59](https://news.ycombinator.com/item?id=43415113) - [Cake is watching you: I built a camera cake](https://medium.com/@hazalmestci/interact-with-your-cake-and-eat-it-too-24d25da25017)
 * [2025-03-19, 17:44:22](https://news.ycombinator.com/item?id=43415107) - [Show HN: We built an agentic image editor that preserves the original structure](https://palette.cam/gallery)
 * [2025-03-19, 17:34:43](https://news.ycombinator.com/item?id=43414992) - [The Collective Ambition Behind Odysseus, a Game-Changing Sci-Fi Larp](https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus-a-game-changing-sci-fi-larp/)
+* [2025-03-19, 17:17:06](https://news.ycombinator.com/item?id=43414743) - [Feral pig meat transmits rare bacteria](https://arstechnica.com/health/2025/03/florida-man-eats-feral-pig-meat-contracts-rare-biothreat-bacteria/)
 * [2025-03-19, 17:17:04](https://news.ycombinator.com/item?id=43414742) - [Fauna Service Winding Down](https://fauna.com/blog/the-future-of-fauna)
 * [2025-03-19, 17:10:57](https://news.ycombinator.com/item?id=43414664) - [Harvard study finds seed oils healthier than butter – The Western Producer](https://www.producer.com/news/harvard-study-finds-seed-oils-healthier-than-butter/)
 * [2025-03-19, 17:00:13](https://news.ycombinator.com/item?id=43414527) - [Markprompt (YC W24) – Stripe for customer support – is hiring founding eng in SF](https://markprompt.com/jobs)
