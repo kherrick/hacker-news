@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-23](index.md)
 
+* [2025-03-23, 12:45:21](https://news.ycombinator.com/item?id=43452525) - [argp: GNU-style command line argument parser for Go](https://github.com/tdewolff/argp)
 * [2025-03-23, 12:31:41](https://news.ycombinator.com/item?id=43452474) - [Is it safe to travel to the United States with your phone?](https://www.theverge.com/policy/634264/customs-border-protection-search-phone-airport-rights)
 * [2025-03-23, 12:18:27](https://news.ycombinator.com/item?id=43452421) - [IBM's CEO doesn't think AI will replace programmers anytime soon](https://techcrunch.com/2025/03/11/ibms-ceo-doesnt-think-ai-will-replace-programmers-anytime-soon/)
 * [2025-03-23, 12:15:51](https://news.ycombinator.com/item?id=43452413) - [Hadrius (YC W23) Is Hiring Engineers with Ambitious Career Goals](https://www.ycombinator.com/companies/hadrius/jobs/CObSGR0-founding-software-engineer-tech-lead)
