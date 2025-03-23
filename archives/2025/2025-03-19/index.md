@@ -13,6 +13,8 @@
 * [2025-03-19, 22:26:39](https://news.ycombinator.com/item?id=43417894) - [Orpheus-3B – Emotive TTS by Canopy Labs](https://canopylabs.ai/model-releases)
 * [2025-03-19, 22:25:14](https://news.ycombinator.com/item?id=43417885) - [OpenAI's o1-pro now available via API](https://platform.openai.com/docs/models/o1-pro)
 * [2025-03-19, 21:29:13](https://news.ycombinator.com/item?id=43417511) - [LLM Agents Are Simply Graph – Tutorial for Dummies](https://zacharyhuang.substack.com/p/llm-agent-internal-as-a-graph-tutorial)
+* [2025-03-19, 21:15:39](https://news.ycombinator.com/item?id=43417398) - [Through a Glass Lushly: Michalina Janoszanka's Reverse Paintings (Ca. 1920s)](https://publicdomainreview.org/collection/michalina-janoszanka/)
+* [2025-03-19, 20:37:58](https://news.ycombinator.com/item?id=43417038) - [300-year-old Polish beech voted Tree of the Year](https://www.bbc.co.uk/news/articles/c20dd6yk55yo)
 * [2025-03-19, 20:31:13](https://news.ycombinator.com/item?id=43416961) - [Looking Ahead at Intel's Xe3 GPU Architecture](https://chipsandcheese.com/p/looking-ahead-at-intels-xe3-gpu-architecture)
 * [2025-03-19, 20:00:06](https://news.ycombinator.com/item?id=43416615) - [When writing, don't mention people who've criticized you – PG](https://twitter.com/paulg/status/1902310081066147942)
 * [2025-03-19, 19:54:08](https://news.ycombinator.com/item?id=43416558) - [Control your attention on the web – Block sites on certain days and times](https://github.com/Bsodoge/Focus-Mode)
