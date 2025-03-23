@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-23, 07:41:11](https://news.ycombinator.com/item?id=43451439) - [ThePrimeagen: Programming, AI, ADHD, Productivity, Addiction, and God](https://www.youtube.com/watch?v=tNZnLkRBYA8)
 * [2025-03-23, 07:29:03](https://news.ycombinator.com/item?id=43451397) - [Do Viruses Trigger Alzheimer's?](https://www.economist.com/science-and-technology/2025/03/17/do-viruses-trigger-alzheimers)
 * [2025-03-23, 06:09:20](https://news.ycombinator.com/item?id=43451166) - [ChatGPT can't kill anything worth preserving](https://biblioracle.substack.com/p/chatgpt-cant-kill-anything-worth)
 * [2025-03-23, 06:06:56](https://news.ycombinator.com/item?id=43451159) - [Carl Linnaeus's note-taking innovations](https://jillianhess.substack.com/p/carl-linnaeuss-note-taking-innovations)
@@ -11,6 +10,7 @@
 * [2025-03-22, 20:42:04](https://news.ycombinator.com/item?id=43448457) - [Quitting an Intel x86 Hypervisor](https://halobates.de/blog/p/446)
 * [2025-03-22, 19:58:52](https://news.ycombinator.com/item?id=43448193) - [Mathematical Methods for Physics [pdf]](https://www.ma.imperial.ac.uk/~dturaev/Mathematical_Methods2021.pdf)
 * [2025-03-22, 19:39:59](https://news.ycombinator.com/item?id=43448075) - [NixOS and reproducible builds could have detected the xz backdoor](https://luj.fr/blog/how-nixos-could-have-detected-xz.html)
+* [2025-03-22, 17:55:38](https://news.ycombinator.com/item?id=43447421) - [California Attorney General issues consumer alert for 23andMe customers](https://oag.ca.gov/news/press-releases/attorney-general-bonta-urgently-issues-consumer-alert-23andme-customers)
 * [2025-03-22, 17:42:10](https://news.ycombinator.com/item?id=43447335) - [Map Features in OpenStreetMap with Computer Vision](https://blog.mozilla.ai/map-features-in-openstreetmap-with-computer-vision/)
 * [2025-03-22, 17:25:32](https://news.ycombinator.com/item?id=43447254) - [Tencent's 'Hunyuan-T1'–The First Mamba-Powered Ultra-Large Model](https://llm.hunyuan.tencent.com/#/blog/hy-t1?lang=en)
 * [2025-03-22, 17:05:22](https://news.ycombinator.com/item?id=43447126) - [Bra and KET: String Interpolation in AmigaDOS](https://www.datagubbe.se/braket/)
