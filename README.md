@@ -2,7 +2,6 @@
 
 * [2025-03-23, 22:18:29](https://news.ycombinator.com/item?id=43456341) - [RDNA 4's \"Out-of-Order\" Memory Accesses](https://chipsandcheese.com/p/rdna-4s-out-of-order-memory-accesses)
 * [2025-03-23, 21:25:08](https://news.ycombinator.com/item?id=43456030) - [Show HN: My iOS app to practice sight reading (10 years in the App Store)](https://apps.apple.com/us/app/notes-sight-reading-trainer/id874386416)
-* [2025-03-23, 18:52:40](https://news.ycombinator.com/item?id=43454915) - [Show HN: LinkedIn sucks, so I built a better one](https://heyopenspot.com/)
 * [2025-03-23, 18:31:46](https://news.ycombinator.com/item?id=43454785) - [Play the Virtual Organ from Arp Schnitger](https://www.orgelstadt-hamburg.de/play-arp/)
 * [2025-03-23, 17:36:42](https://news.ycombinator.com/item?id=43454411) - [The Scammer's Manual: How to Launder Money and Get Away with It](https://www.nytimes.com/2025/03/23/world/asia/cambodia-money-laundering-huione.html)
 * [2025-03-23, 17:31:24](https://news.ycombinator.com/item?id=43454379) - [The Compressed Book Edition](https://solar.lowtechmagazine.com/2025/03/the-compressed-book-edition/)
@@ -18,6 +17,7 @@
 * [2025-03-23, 09:16:29](https://news.ycombinator.com/item?id=43451742) - [Bitter Lesson is about AI agents](https://ankitmaloo.com/bitter-lesson/)
 * [2025-03-23, 03:40:05](https://news.ycombinator.com/item?id=43450732) - [Improving recommendation systems and search in the age of LLMs](https://eugeneyan.com/writing/recsys-llm/)
 * [2025-03-22, 19:31:38](https://news.ycombinator.com/item?id=43448023) - [The polar vortex is hitting the brakes](https://www.climate.gov/news-features/blogs/polar-vortex/polar-vortex-hitting-brakes)
+* [2025-03-22, 17:42:10](https://news.ycombinator.com/item?id=43447335) - [Map Features in OpenStreetMap with Computer Vision](https://blog.mozilla.ai/map-features-in-openstreetmap-with-computer-vision/)
 * [2025-03-22, 14:39:04](https://news.ycombinator.com/item?id=43445931) - [PyTorch Internals: Ezyang's Blog](https://blog.ezyang.com/2019/05/pytorch-internals/)
 * [2025-03-22, 13:56:59](https://news.ycombinator.com/item?id=43445662) - [Landrun: Sandbox any Linux process using Landlock, no root or containers](https://github.com/Zouuup/landrun)
 * [2025-03-21, 11:28:06](https://news.ycombinator.com/item?id=43434364) - [All Placebos are not created equal (2021)](https://www.samstack.io/p/all-placebos-are-not-created-equal)
