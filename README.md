@@ -28,7 +28,7 @@
 * [2025-03-20, 15:32:46](https://news.ycombinator.com/item?id=43424709) - [The Myth of Liquid Detection](https://eclecticlight.co/2025/03/16/last-week-on-my-mac-the-myth-of-liquid-detection/)
 * [2025-03-19, 21:41:05](https://news.ycombinator.com/item?id=43417613) - [Satshot Founder Lanny Faleide Takes Global Imagery to New Heights](https://www.croplife.com/precision-tech/satshot/)
 * [2025-03-19, 19:58:37](https://news.ycombinator.com/item?id=43416605) - [Supply Chain Attacks on Linux Distributions – Fedora Pagure](https://fenrisk.com/pagure)
-* [2025-03-19, 18:19:41](https://news.ycombinator.com/item?id=43415540) - [The Guy Who Invented the Belay Test–and the Modern American Climbing Gym](https://www.climbing.com/people/peter-mayfield-belay-test-modern-american-climbing-gym-history/)
+* [2025-03-19, 18:19:41](https://news.ycombinator.com/item?id=43415540) - [The belay test and the modern American climbing gym](https://www.climbing.com/people/peter-mayfield-belay-test-modern-american-climbing-gym-history/)
 * [2025-03-19, 17:17:06](https://news.ycombinator.com/item?id=43414743) - [Feral pig meat transmits rare bacteria](https://arstechnica.com/health/2025/03/florida-man-eats-feral-pig-meat-contracts-rare-biothreat-bacteria/)
 
 ## [Archives](archives/index.md)
