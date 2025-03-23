@@ -9,6 +9,7 @@
 * [2025-03-23, 17:31:54](https://news.ycombinator.com/item?id=43454383) - [Germany is unlocking billions to supercharge its military at a seismic moment](https://www.cnn.com/2025/03/23/europe/germany-military-investment-intl/index.html)
 * [2025-03-23, 17:26:11](https://news.ycombinator.com/item?id=43454341) - [Ttyd – Share your terminal over the web](https://github.com/tsl0922/ttyd)
 * [2025-03-23, 17:00:09](https://news.ycombinator.com/item?id=43454142) - [Modern Realty (YC S24) Is Hiring](https://www.workatastartup.com/jobs/66546)
+* [2025-03-23, 16:58:13](https://news.ycombinator.com/item?id=43454136) - [Tied Crosscoders: Tracing How Chat LLM Behavior Emerges from Base Model](https://www.lesswrong.com/posts/3T8eKyaPvDDm2wzor/research-question)
 * [2025-03-23, 16:39:01](https://news.ycombinator.com/item?id=43454004) - [America Is Watching the Rise of a Dual State](https://www.theatlantic.com/magazine/archive/2025/05/trump-executive-order-lawlessness-constitutional-crisis/682112/)
 * [2025-03-23, 15:59:12](https://news.ycombinator.com/item?id=43453769) - [A Brief History of the Miracle Bacterium](https://www.asimov.press/p/miracle-bacterium)
 * [2025-03-23, 15:31:26](https://news.ycombinator.com/item?id=43453582) - [A USB Interface to the \"Mother of All Demos\" Keyset](https://www.righto.com/2025/03/mother-of-all-demos-usb-keyset-interface.html)
