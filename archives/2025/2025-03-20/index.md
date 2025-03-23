@@ -46,6 +46,7 @@
 * [2025-03-20, 16:01:10](https://news.ycombinator.com/item?id=43425032) - [Low-Cost Drone Add-Ons from China Let Anyone Turn Toys into Weapons of War](https://www.wired.com/story/drone-accessories-weapons-of-war/)
 * [2025-03-20, 15:55:51](https://news.ycombinator.com/item?id=43424970) - [EmptyEpsilon open source spaceship bridge simulator](https://daid.github.io/EmptyEpsilon/)
 * [2025-03-20, 15:38:28](https://news.ycombinator.com/item?id=43424776) - [Dad demands OpenAI delete ChatGPT's false claim that he murdered his kids](https://arstechnica.com/tech-policy/2025/03/chatgpt-falsely-claimed-a-dad-murdered-his-own-kids-complaint-says/)
+* [2025-03-20, 15:32:46](https://news.ycombinator.com/item?id=43424709) - [The Myth of Liquid Detection](https://eclecticlight.co/2025/03/16/last-week-on-my-mac-the-myth-of-liquid-detection/)
 * [2025-03-20, 14:58:23](https://news.ycombinator.com/item?id=43424340) - [I Fear for the Unauthenticated Web](https://sethmlarson.dev/i-fear-for-the-unauthenticated-web)
 * [2025-03-20, 14:33:28](https://news.ycombinator.com/item?id=43424065) - [ACARS Drama](https://acarsdrama.com/)
 * [2025-03-20, 14:30:30](https://news.ycombinator.com/item?id=43424038) - [The Race to Decipher Cuneiform in the 19th Century](https://www.smithsonianmag.com/history/mystery-worlds-oldest-writing-system-remained-unsolved-until-four-scholars-raced-decipher-it-180985954/)
