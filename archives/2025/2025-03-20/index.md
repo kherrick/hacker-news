@@ -70,6 +70,7 @@
 * [2025-03-20, 11:51:22](https://news.ycombinator.com/item?id=43421902) - [Dutch Parliament: Time to ditch US tech for homegrown options](https://www.theregister.com/2025/03/19/dutch_parliament_us_tech/)
 * [2025-03-20, 11:19:48](https://news.ycombinator.com/item?id=43421740) - [EU sends Apple first DMA interoperability instructions for apps and devices](https://techcrunch.com/2025/03/19/eu-sends-apple-first-dma-interoperability-instructions-for-apps-and-connected-devices/)
 * [2025-03-20, 11:10:45](https://news.ycombinator.com/item?id=43421694) - [Can NASA remain nonpartisan when basic spaceflight truths are shredded?](https://arstechnica.com/space/2025/03/can-nasa-remain-nonpartisan-when-basic-spaceflight-truths-are-shredded/)
+* [2025-03-20, 10:03:17](https://news.ycombinator.com/item?id=43421324) - [How to create value objects in Ruby – the idiomatic way](https://allaboutcoding.ghinda.com/how-to-create-value-objects-in-ruby-the-idiomatic-way)
 * [2025-03-20, 08:37:35](https://news.ycombinator.com/item?id=43420892) - [Stelvio: Serverless AWS for Python Devs](https://github.com/michal-stlv/stelvio)
 * [2025-03-20, 08:00:54](https://news.ycombinator.com/item?id=43420683) - [Minding the gaps: A new way to draw separators in CSS](https://blogs.windows.com/msedgedev/2025/03/19/minding-the-gaps-a-new-way-to-draw-separators-in-css/)
 * [2025-03-20, 07:58:57](https://news.ycombinator.com/item?id=43420678) - [Show HN: I built a MCP server so Claude can play Minesweeper](https://github.com/tonypan2/minesweeper-mcp-server)
