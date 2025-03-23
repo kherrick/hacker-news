@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-23, 18:52:40](https://news.ycombinator.com/item?id=43454915) - [Show HN: LinkedIn sucks, so I built a better one](https://heyopenspot.com/)
-* [2025-03-23, 18:50:38](https://news.ycombinator.com/item?id=43454898) - [Books on Making and Maintaining Friendships](https://www.scotthyoung.com/blog/2025/03/18/8-books-on-making-friends/)
 * [2025-03-23, 18:31:46](https://news.ycombinator.com/item?id=43454785) - [Play the Virtual Organ from Arp Schnitger](https://www.orgelstadt-hamburg.de/play-arp/)
 * [2025-03-23, 17:36:42](https://news.ycombinator.com/item?id=43454411) - [The Scammer's Manual: How to Launder Money and Get Away with It](https://www.nytimes.com/2025/03/23/world/asia/cambodia-money-laundering-huione.html)
 * [2025-03-23, 17:00:09](https://news.ycombinator.com/item?id=43454142) - [Modern Realty (YC S24) Is Hiring](https://www.workatastartup.com/jobs/66546)
@@ -27,6 +26,7 @@
 * [2025-03-20, 15:55:51](https://news.ycombinator.com/item?id=43424970) - [EmptyEpsilon open source spaceship bridge simulator](https://daid.github.io/EmptyEpsilon/)
 * [2025-03-20, 15:32:46](https://news.ycombinator.com/item?id=43424709) - [The Myth of Liquid Detection](https://eclecticlight.co/2025/03/16/last-week-on-my-mac-the-myth-of-liquid-detection/)
 * [2025-03-19, 21:41:05](https://news.ycombinator.com/item?id=43417613) - [Satshot Founder Lanny Faleide Takes Global Imagery to New Heights](https://www.croplife.com/precision-tech/satshot/)
+* [2025-03-19, 20:37:58](https://news.ycombinator.com/item?id=43417038) - [300-year-old Polish beech voted Tree of the Year](https://www.bbc.co.uk/news/articles/c20dd6yk55yo)
 * [2025-03-19, 19:58:37](https://news.ycombinator.com/item?id=43416605) - [Supply Chain Attacks on Linux Distributions – Fedora Pagure](https://fenrisk.com/pagure)
 * [2025-03-19, 18:19:41](https://news.ycombinator.com/item?id=43415540) - [The Guy Who Invented the Belay Test–and the Modern American Climbing Gym](https://www.climbing.com/people/peter-mayfield-belay-test-modern-american-climbing-gym-history/)
 * [2025-03-19, 17:17:06](https://news.ycombinator.com/item?id=43414743) - [Feral pig meat transmits rare bacteria](https://arstechnica.com/health/2025/03/florida-man-eats-feral-pig-meat-contracts-rare-biothreat-bacteria/)
