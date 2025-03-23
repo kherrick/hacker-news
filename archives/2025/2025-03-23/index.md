@@ -12,6 +12,7 @@
 * [2025-03-23, 18:31:46](https://news.ycombinator.com/item?id=43454785) - [Play the Virtual Organ from Arp Schnitger](https://www.orgelstadt-hamburg.de/play-arp/)
 * [2025-03-23, 17:36:42](https://news.ycombinator.com/item?id=43454411) - [The Scammer's Manual: How to Launder Money and Get Away with It](https://www.nytimes.com/2025/03/23/world/asia/cambodia-money-laundering-huione.html)
 * [2025-03-23, 17:31:54](https://news.ycombinator.com/item?id=43454383) - [Germany is unlocking billions to supercharge its military at a seismic moment](https://www.cnn.com/2025/03/23/europe/germany-military-investment-intl/index.html)
+* [2025-03-23, 17:31:24](https://news.ycombinator.com/item?id=43454379) - [The Compressed Book Edition](https://solar.lowtechmagazine.com/2025/03/the-compressed-book-edition/)
 * [2025-03-23, 17:26:11](https://news.ycombinator.com/item?id=43454341) - [Ttyd – Share your terminal over the web](https://github.com/tsl0922/ttyd)
 * [2025-03-23, 17:00:09](https://news.ycombinator.com/item?id=43454142) - [Modern Realty (YC S24) Is Hiring](https://www.workatastartup.com/jobs/66546)
 * [2025-03-23, 16:58:13](https://news.ycombinator.com/item?id=43454136) - [Tied Crosscoders: Tracing How Chat LLM Behavior Emerges from Base Model](https://www.lesswrong.com/posts/3T8eKyaPvDDm2wzor/research-question)
