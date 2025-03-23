@@ -32,6 +32,7 @@
 * [2025-03-20, 17:11:57](https://news.ycombinator.com/item?id=43425935) - [The Asus Ascent GX10 a Nvidia GB10 Mini PC with 128GB of Memory and 200GbE](https://www.servethehome.com/this-is-the-asus-ascent-gx10-a-nvidia-gb10-mini-pc-with-128gb-of-memory-and-200gbe/)
 * [2025-03-20, 17:08:27](https://news.ycombinator.com/item?id=43425876) - [OpenAI uses open source Ory to authenticate over 400M weekly active users](https://www.ory.sh/blog/openai-oauth2-server-open-source)
 * [2025-03-20, 17:07:22](https://news.ycombinator.com/item?id=43425856) - [Stellar Blockchain Accounts](https://blog.biggertech.co/blog/article/accounts)
+* [2025-03-20, 17:07:11](https://news.ycombinator.com/item?id=43425855) - [Euclid opens data treasure trove, offers glimpse of deep fields](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_opens_data_treasure_trove_offers_glimpse_of_deep_fields)
 * [2025-03-20, 17:06:27](https://news.ycombinator.com/item?id=43425841) - [French scientist denied entry into the U.S., French government says](https://www.reuters.com/world/french-scientist-denied-entry-into-us-french-government-says-2025-03-20/)
 * [2025-03-20, 17:01:50](https://news.ycombinator.com/item?id=43425774) - [Next-generation audio models in the API](https://openai.com/index/introducing-our-next-generation-audio-models)
 * [2025-03-20, 17:01:12](https://news.ycombinator.com/item?id=43425767) - [Show HN: Hyperbrowser MCP Server – Connect AI agents to the web through browsers](https://github.com/hyperbrowserai/mcp)
