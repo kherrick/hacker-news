@@ -24,6 +24,7 @@
 * [2025-03-19, 19:26:03](https://news.ycombinator.com/item?id=43416302) - [Pierogi in Space](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Pierogi_in_space)
 * [2025-03-19, 18:44:11](https://news.ycombinator.com/item?id=43415820) - [Crabtime: Zig's Comptime in Rust](https://crates.io/crates/crabtime)
 * [2025-03-19, 18:39:36](https://news.ycombinator.com/item?id=43415756) - [For Many of America's Aging Workers, 'Retirement Is a Distant Dream'](https://time.com/7260357/aging-workforce/)
+* [2025-03-19, 18:19:41](https://news.ycombinator.com/item?id=43415540) - [The Guy Who Invented the Belay Test–and the Modern American Climbing Gym](https://www.climbing.com/people/peter-mayfield-belay-test-modern-american-climbing-gym-history/)
 * [2025-03-19, 18:14:14](https://news.ycombinator.com/item?id=43415477) - [Notebooks as reusable Python programs](https://marimo.io/blog/python-not-json)
 * [2025-03-19, 17:44:59](https://news.ycombinator.com/item?id=43415113) - [Cake is watching you: I built a camera cake](https://medium.com/@hazalmestci/interact-with-your-cake-and-eat-it-too-24d25da25017)
 * [2025-03-19, 17:44:22](https://news.ycombinator.com/item?id=43415107) - [Show HN: We built an agentic image editor that preserves the original structure](https://palette.cam/gallery)
