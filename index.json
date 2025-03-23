@@ -1,22 +1,32 @@
 [
   [
     [
+      "2025-03-23, 07:57:32",
+      "https://news.ycombinator.com/item?id=43451483"
+    ],
+    [
+      "Big Tech is striking secret deals to make you foot its electricity bill",
+      "https://web.archive.org/web/20250314114652/https://www.businessinsider.com/big-tech-secret-energy-deals-utility-bills-cost-consumers-2025-3"
+    ]
+  ],
+  [
+    [
+      "2025-03-23, 06:09:20",
+      "https://news.ycombinator.com/item?id=43451166"
+    ],
+    [
+      "ChatGPT can't kill anything worth preserving",
+      "https://biblioracle.substack.com/p/chatgpt-cant-kill-anything-worth"
+    ]
+  ],
+  [
+    [
       "2025-03-23, 03:40:05",
       "https://news.ycombinator.com/item?id=43450732"
     ],
     [
       "Improving Recommendation Systems & Search in the Age of LLMs",
       "https://eugeneyan.com/writing/recsys-llm/"
-    ]
-  ],
-  [
-    [
-      "2025-03-23, 02:51:38",
-      "https://news.ycombinator.com/item?id=43450550"
-    ],
-    [
-      "Stop using the elbow criterion for k-means",
-      "https://arxiv.org/abs/2212.12189"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "NixOS and reproducible builds could have detected the xz backdoor",
       "https://luj.fr/blog/how-nixos-could-have-detected-xz.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-22, 19:31:38",
-      "https://news.ycombinator.com/item?id=43448023"
-    ],
-    [
-      "The polar vortex is hitting the brakes",
-      "https://www.climate.gov/news-features/blogs/polar-vortex/polar-vortex-hitting-brakes"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2025-03-22, 04:45:08",
-      "https://news.ycombinator.com/item?id=43443640"
-    ],
-    [
-      "Scallop – A Language for Neurosymbolic Programming",
-      "https://www.scallop-lang.org/"
-    ]
-  ],
-  [
-    [
       "2025-03-21, 15:13:35",
       "https://news.ycombinator.com/item?id=43436663"
     ],
@@ -297,6 +287,16 @@
     [
       "Crabtime: Zig’s Comptime in Rust",
       "https://crates.io/crates/crabtime"
+    ]
+  ],
+  [
+    [
+      "2025-03-19, 17:17:06",
+      "https://news.ycombinator.com/item?id=43414743"
+    ],
+    [
+      "Feral pig meat transmits rare bacteria",
+      "https://arstechnica.com/health/2025/03/florida-man-eats-feral-pig-meat-contracts-rare-biothreat-bacteria/"
     ]
   ]
 ]
