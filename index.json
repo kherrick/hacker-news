@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-03-23, 12:31:41",
-      "https://news.ycombinator.com/item?id=43452474"
+      "2025-03-23, 12:45:21",
+      "https://news.ycombinator.com/item?id=43452525"
     ],
     [
-      "Is it safe to travel to the United States with your phone?",
-      "https://www.theverge.com/policy/634264/customs-border-protection-search-phone-airport-rights"
+      "argp: GNU-style command line argument parser for Go",
+      "https://github.com/tdewolff/argp"
     ]
   ],
   [
@@ -17,16 +17,6 @@
     [
       "Hadrius (YC W23) Is Hiring Engineers with Ambitious Career Goals",
       "https://www.ycombinator.com/companies/hadrius/jobs/CObSGR0-founding-software-engineer-tech-lead"
-    ]
-  ],
-  [
-    [
-      "2025-03-23, 11:46:59",
-      "https://news.ycombinator.com/item?id=43452320"
-    ],
-    [
-      "I made \"Character AI\" for learning",
-      "https://news.ycombinator.com/item?id=43452320"
     ]
   ],
   [
@@ -127,6 +117,16 @@
     [
       "Show HN: We made an MCP server so Cursor can debug Node.js on its own",
       "https://www.npmjs.com/package/@hyperdrive-eng/mcp-nodejs-debugger"
+    ]
+  ],
+  [
+    [
+      "2025-03-22, 15:30:48",
+      "https://news.ycombinator.com/item?id=43446442"
+    ],
+    [
+      "Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]",
+      "https://www.youtube.com/watch?v=xJzrU38pGWc"
     ]
   ],
   [
