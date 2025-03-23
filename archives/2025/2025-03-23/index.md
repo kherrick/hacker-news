@@ -22,6 +22,7 @@
 * [2025-03-23, 12:15:51](https://news.ycombinator.com/item?id=43452413) - [Hadrius (YC W23) Is Hiring Engineers with Ambitious Career Goals](https://www.ycombinator.com/companies/hadrius/jobs/CObSGR0-founding-software-engineer-tech-lead)
 * [2025-03-23, 11:46:59](https://news.ycombinator.com/item?id=43452320) - [I made \"Character AI\" for learning](https://news.ycombinator.com/item?id=43452320)
 * [2025-03-23, 11:09:28](https://news.ycombinator.com/item?id=43452185) - [The SeL4 Microkernel: An Introduction [pdf]](https://sel4.systems/About/seL4-whitepaper.pdf)
+* [2025-03-23, 11:04:47](https://news.ycombinator.com/item?id=43452177) - [Show HN: NPM-Audit-to-Report](https://github.com/egorsmkv/npm-audit-to-report)
 * [2025-03-23, 09:19:08](https://news.ycombinator.com/item?id=43451752) - [In some parts of the US, the clack of typewriter keys can still be heard](https://www.bbc.com/future/article/20250321-the-people-who-still-use-typewriters)
 * [2025-03-23, 09:16:29](https://news.ycombinator.com/item?id=43451742) - [Bitter Lesson is about AI agents](https://ankitmaloo.com/bitter-lesson/)
 * [2025-03-23, 08:14:25](https://news.ycombinator.com/item?id=43451525) - [The case of the critical section that let multiple threads enter a block of code](https://devblogs.microsoft.com/oldnewthing/20250321-00/?p=110984)
