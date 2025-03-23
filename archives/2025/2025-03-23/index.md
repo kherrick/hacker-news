@@ -6,6 +6,7 @@
 
 * [2025-03-23, 15:31:26](https://news.ycombinator.com/item?id=43453582) - [A USB Interface to the \"Mother of All Demos\" Keyset](https://www.righto.com/2025/03/mother-of-all-demos-usb-keyset-interface.html)
 * [2025-03-23, 13:54:06](https://news.ycombinator.com/item?id=43452945) - [Ask HN: Difficulties with Going Back to School](https://news.ycombinator.com/item?id=43452945)
+* [2025-03-23, 13:14:15](https://news.ycombinator.com/item?id=43452688) - [Technicalities of Homeworld 2 Backgrounds](https://simonschreibt.de/gat/homeworld-2-backgrounds/)
 * [2025-03-23, 13:08:45](https://news.ycombinator.com/item?id=43452649) - [The Worst Programmer I Know (2023)](https://dannorth.net/the-worst-programmer/)
 * [2025-03-23, 12:45:21](https://news.ycombinator.com/item?id=43452525) - [argp: GNU-style command line argument parser for Go](https://github.com/tdewolff/argp)
 * [2025-03-23, 12:31:41](https://news.ycombinator.com/item?id=43452474) - [Is it safe to travel to the United States with your phone?](https://www.theverge.com/policy/634264/customs-border-protection-search-phone-airport-rights)
