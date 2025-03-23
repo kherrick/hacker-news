@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-23, 23:20:27",
+      "https://news.ycombinator.com/item?id=43456669"
+    ],
+    [
+      "Shift-to-Middle Array: A Faster Alternative to Std:Deque?",
+      "https://github.com/attilatorda/Shift-To-Middle_Array"
+    ]
+  ],
+  [
+    [
       "2025-03-23, 22:18:29",
       "https://news.ycombinator.com/item?id=43456341"
     ],
@@ -77,16 +87,6 @@
     [
       "A USB Interface to the \"Mother of All Demos\" Keyset",
       "https://www.righto.com/2025/03/mother-of-all-demos-usb-keyset-interface.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-23, 14:57:29",
-      "https://news.ycombinator.com/item?id=43453350"
-    ],
-    [
-      "Achieving Great Privacy with Safari",
-      "https://matanabudy.com/achieving-great-privacy-with-safari/"
     ]
   ],
   [
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2025-03-22, 17:42:10",
-      "https://news.ycombinator.com/item?id=43447335"
-    ],
-    [
-      "Map Features in OpenStreetMap with Computer Vision",
-      "https://blog.mozilla.ai/map-features-in-openstreetmap-with-computer-vision/"
-    ]
-  ],
-  [
-    [
       "2025-03-22, 14:39:04",
       "https://news.ycombinator.com/item?id=43445931"
     ],
@@ -207,6 +197,16 @@
     [
       "All Placebos are not created equal (2021)",
       "https://www.samstack.io/p/all-placebos-are-not-created-equal"
+    ]
+  ],
+  [
+    [
+      "2025-03-21, 11:01:00",
+      "https://news.ycombinator.com/item?id=43434171"
+    ],
+    [
+      "LangManus: An Open-Source Manus Agent with LangChain + LangGraph",
+      "https://github.com/langmanus/langmanus"
     ]
   ],
   [
