@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-23, 01:34:59](https://news.ycombinator.com/item?id=43450256) - [Upcoming changes to how live videos are stored](https://www.facebook.com/business/help/1005165994166600?_fb_noscript=1)
 * [2025-03-23, 01:00:12](https://news.ycombinator.com/item?id=43450060) - [Domu Technology Inc. (YC S24) Is Hiring a Vibe Coder](https://www.ycombinator.com/companies/domu-technology-inc/jobs/hwWsGdU-vibe-coder-ai-engineer)
 * [2025-03-22, 22:52:21](https://news.ycombinator.com/item?id=43449326) - [The Vectrex Computer](https://www.amigalove.com/viewtopic.php?t=2887)
 * [2025-03-22, 21:19:07](https://news.ycombinator.com/item?id=43448723) - [Next.js version 15.2.3 has been released to address a security vulnerability](https://nextjs.org/blog/cve-2025-29927)
@@ -20,6 +19,7 @@
 * [2025-03-22, 14:10:30](https://news.ycombinator.com/item?id=43445720) - [Show HN: FastOpenAPI – automated docs for many Python frameworks](https://github.com/mr-fatalyst/fastopenapi)
 * [2025-03-22, 13:56:59](https://news.ycombinator.com/item?id=43445662) - [Landrun: Sandbox any Linux process using Landlock, no root or containers](https://github.com/Zouuup/landrun)
 * [2025-03-22, 13:46:30](https://news.ycombinator.com/item?id=43445614) - [Differential Geometry: A First Course in Curves and Surfaces [pdf]](https://math.franklin.uga.edu/sites/default/files/users/user317/ShifrinDiffGeo.pdf)
+* [2025-03-22, 07:24:05](https://news.ycombinator.com/item?id=43444160) - [When you deleted /lib on Linux while still connected via SSH (2022)](https://tinyhack.com/2022/09/16/when-you-deleted-lib-on-linux-while-still-connected-via-ssh/)
 * [2025-03-22, 04:45:08](https://news.ycombinator.com/item?id=43443640) - [Scallop – A Language for Neurosymbolic Programming](https://www.scallop-lang.org/)
 * [2025-03-21, 00:06:36](https://news.ycombinator.com/item?id=43430498) - [Derivatives and Logarithms of 3D Transforms](https://nosferalatu.com/./DerivativesLogarithmsTransforms.html)
 * [2025-03-20, 22:34:07](https://news.ycombinator.com/item?id=43429804) - [Optimizing Brainfuck interpreter in the C preprocessor](https://github.com/camel-cdr/bfcpp)
