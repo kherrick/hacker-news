@@ -41,6 +41,7 @@
 * [2025-03-21, 12:39:16](https://news.ycombinator.com/item?id=43434925) - [U.S. blocks Canadian access to iconic Stanstead border-straddling library](https://www.cbc.ca/lite/story/1.7489528)
 * [2025-03-21, 12:38:20](https://news.ycombinator.com/item?id=43434910) - [Legged Locomotion Meets Skateboarding](https://umich-curly.github.io/DHAL/)
 * [2025-03-21, 12:16:45](https://news.ycombinator.com/item?id=43434730) - [Wheel Reinventor's Principles](https://tobloef.com/blog/wheel-reinventors-principles/)
+* [2025-03-21, 12:00:58](https://news.ycombinator.com/item?id=43434605) - [Unknown microorganisms used marble and limestone as a habitat](https://www.sciencedaily.com/releases/2025/03/250319143419.htm)
 * [2025-03-21, 11:42:09](https://news.ycombinator.com/item?id=43434466) - [Imagine telling 2010 devs that in 2025, collapsing a div would require $8/ month](https://old.reddit.com/r/webdev/comments/1jged6g/imagine_telling_2010_devs_that_in_2025_collapsing/)
 * [2025-03-21, 11:22:44](https://news.ycombinator.com/item?id=43434325) - [Show HN: My Attempt to Organize the World of AI Dev Tools](https://aicode.danvoronov.com/tools/)
 * [2025-03-21, 10:58:28](https://news.ycombinator.com/item?id=43434152) - [Notetime: Minimalistic notes where everything is timestamped](https://www.notetimeapp.com)
