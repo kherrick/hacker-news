@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-03-24, 03:48:24",
-      "https://news.ycombinator.com/item?id=43457666"
-    ],
-    [
-      "DNA testing firm 23andMe files for bankruptcy to sell itself",
-      "https://www.reuters.com/business/healthcare-pharmaceuticals/dna-testing-firm-23andme-files-chapter-11-bankruptcy-sell-itself-2025-03-24/"
-    ]
-  ],
-  [
-    [
       "2025-03-24, 02:54:42",
       "https://news.ycombinator.com/item?id=43457483"
     ],
@@ -61,11 +51,21 @@
   ],
   [
     [
+      "2025-03-24, 00:18:44",
+      "https://news.ycombinator.com/item?id=43456905"
+    ],
+    [
+      "You need to know about bootc",
+      "https://sean.thrailkill.cloud/posts/you-need-to-know-about-bootc/"
+    ]
+  ],
+  [
+    [
       "2025-03-23, 23:33:39",
       "https://news.ycombinator.com/item?id=43456723"
     ],
     [
-      "English Scientists Develop Fast, High-Quality AI Weather Model for Desktops",
+      "Project Aardvark: reimagining AI weather prediction",
       "https://www.turing.ac.uk/blog/project-aardvark-reimagining-ai-weather-prediction"
     ]
   ],
@@ -211,22 +211,22 @@
   ],
   [
     [
+      "2025-03-23, 06:21:17",
+      "https://news.ycombinator.com/item?id=43451183"
+    ],
+    [
+      "Happy 18th Birthday CUDA!",
+      "https://thechipletter.substack.com/p/happy-18th-birthday-cuda"
+    ]
+  ],
+  [
+    [
       "2025-03-23, 03:40:05",
       "https://news.ycombinator.com/item?id=43450732"
     ],
     [
       "Improving recommendation systems and search in the age of LLMs",
       "https://eugeneyan.com/writing/recsys-llm/"
-    ]
-  ],
-  [
-    [
-      "2025-03-22, 14:39:04",
-      "https://news.ycombinator.com/item?id=43445931"
-    ],
-    [
-      "PyTorch Internals: Ezyang's Blog",
-      "https://blog.ezyang.com/2019/05/pytorch-internals/"
     ]
   ],
   [
