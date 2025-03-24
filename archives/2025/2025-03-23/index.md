@@ -32,6 +32,7 @@
 * [2025-03-23, 12:31:41](https://news.ycombinator.com/item?id=43452474) - [Is it safe to travel to the United States with your phone?](https://www.theverge.com/policy/634264/customs-border-protection-search-phone-airport-rights)
 * [2025-03-23, 12:23:05](https://news.ycombinator.com/item?id=43452441) - [CDC Clone Site Hosted by Group Previously Led by HHS Secretary](https://infoepi.substack.com/p/cdc-clone-site-rife-with-false-vaccine)
 * [2025-03-23, 12:20:27](https://news.ycombinator.com/item?id=43452431) - [Hardware-Aware Coding: CPU Architecture Concepts Every Developer Should Know](https://blog.codingconfessions.com/p/hardware-aware-coding)
+* [2025-03-23, 12:20:24](https://news.ycombinator.com/item?id=43452430) - [BeeFormer: CF and CBF hybrid approach for recommendation systems](https://github.com/recombee/beeformer)
 * [2025-03-23, 12:18:27](https://news.ycombinator.com/item?id=43452421) - [IBM's CEO doesn't think AI will replace programmers anytime soon](https://techcrunch.com/2025/03/11/ibms-ceo-doesnt-think-ai-will-replace-programmers-anytime-soon/)
 * [2025-03-23, 12:15:51](https://news.ycombinator.com/item?id=43452413) - [Hadrius (YC W23) Is Hiring Engineers with Ambitious Career Goals](https://www.ycombinator.com/companies/hadrius/jobs/CObSGR0-founding-software-engineer-tech-lead)
 * [2025-03-23, 11:46:59](https://news.ycombinator.com/item?id=43452320) - [I made \"Character AI\" for learning](https://news.ycombinator.com/item?id=43452320)
