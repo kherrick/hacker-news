@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-24](index.md)
 
+* [2025-03-24, 13:01:11](https://news.ycombinator.com/item?id=43460583) - [Instella: New Open 3B Language Models](https://rocm.blogs.amd.com/artificial-intelligence/introducing-instella-3B/README.html)
+* [2025-03-24, 10:39:32](https://news.ycombinator.com/item?id=43459361) - [The Game Designer Playing Through His Own Psyche](https://www.newyorker.com/culture/persons-of-interest/the-game-designer-playing-through-his-own-psyche)
 * [2025-03-24, 10:25:19](https://news.ycombinator.com/item?id=43459264) - [Japanese scientists use stem cell treatment to restore movement in spinal injury](https://medicalxpress.com/news/2025-03-japanese-scientists-stem-cell-treatment.html)
 * [2025-03-24, 10:21:02](https://news.ycombinator.com/item?id=43459240) - [Show HN: We made an MCP Server so that Cursor can build anything from API Docs](https://www.npmjs.com/package/apidog-mcp-server)
 * [2025-03-24, 09:56:12](https://news.ycombinator.com/item?id=43459100) - [Langfuse (YC W23) Is Hiring in Berlin, Germany](https://langfuse.com/careers)
