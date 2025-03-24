@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2025-03-24, 10:25:19",
-      "https://news.ycombinator.com/item?id=43459264"
-    ],
-    [
-      "Japanese scientists use stem cell treatment to restore movement in spinal injury",
-      "https://medicalxpress.com/news/2025-03-japanese-scientists-stem-cell-treatment.html"
-    ]
-  ],
-  [
-    [
       "2025-03-24, 09:56:12",
       "https://news.ycombinator.com/item?id=43459100"
     ],
@@ -227,6 +217,16 @@
     [
       "Mruby/C and picoruby: high level langs in low-level devices?",
       "https://github.com/picoruby/picoruby"
+    ]
+  ],
+  [
+    [
+      "2025-03-23, 06:52:59",
+      "https://news.ycombinator.com/item?id=43451279"
+    ],
+    [
+      "MRubyD: A new mruby virtual machine implemented in pure C#",
+      "https://github.com/hadashiA/MRubyD"
     ]
   ],
   [
