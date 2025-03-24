@@ -9,6 +9,7 @@
 * [2025-03-24, 20:56:33](https://news.ycombinator.com/item?id=43465333) - [OpenAI Says It's \"Over\" If It Can't Steal All Your Copyrighted Work](https://futurism.com/openai-over-copyrighted-work)
 * [2025-03-24, 20:47:23](https://news.ycombinator.com/item?id=43465256) - [Mathematicians uncover the logic behind how people walk in crowds](https://news.mit.edu/2025/mathematicians-uncover-logic-behind-how-crowds-walk-0324)
 * [2025-03-24, 20:40:21](https://news.ycombinator.com/item?id=43465189) - [Aircraft Detection at Planetary Scale](https://www.planet.com/pulse/aircraft-detection-at-planetary-scale/)
+* [2025-03-24, 20:38:15](https://news.ycombinator.com/item?id=43465170) - [The rage bait economy is going strong [video]](https://www.youtube.com/watch?v=Ah6AB33JUgU)
 * [2025-03-24, 20:33:10](https://news.ycombinator.com/item?id=43465127) - [Decent living standards for 8.5B would require 30% of current resource use](https://www.sciencedirect.com/science/article/pii/S2452292924000493)
 * [2025-03-24, 20:08:25](https://news.ycombinator.com/item?id=43464914) - [Why do programmers want to quit programming and start a homestead?](https://tjmorley.com/blogposts/cottagecoreprogrammers.html)
 * [2025-03-24, 19:47:08](https://news.ycombinator.com/item?id=43464731) - [GM blocks dealers from using Apple CarPlay, Android Auto aftermarket kits](https://news.dealershipguy.com/p/gm-blocks-dealers-from-using-apple-carplay-android-auto-aftermarket-kits-2025-03-24)
