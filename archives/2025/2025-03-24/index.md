@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-03-24](index.md)
 
 * [2025-03-24, 13:01:11](https://news.ycombinator.com/item?id=43460583) - [Instella: New Open 3B Language Models](https://rocm.blogs.amd.com/artificial-intelligence/introducing-instella-3B/README.html)
+* [2025-03-24, 12:06:16](https://news.ycombinator.com/item?id=43459990) - [The Tranhumanist Cult Test](https://ewanmorrison.substack.com/p/the-tranhumanist-cult-test)
+* [2025-03-24, 11:04:27](https://news.ycombinator.com/item?id=43459535) - [Why we chose LangGraph to build our coding agent](https://www.qodo.ai/blog/why-we-chose-langgraph-to-build-our-coding-agent/)
 * [2025-03-24, 10:39:32](https://news.ycombinator.com/item?id=43459361) - [The Game Designer Playing Through His Own Psyche](https://www.newyorker.com/culture/persons-of-interest/the-game-designer-playing-through-his-own-psyche)
 * [2025-03-24, 10:25:19](https://news.ycombinator.com/item?id=43459264) - [Japanese scientists use stem cell treatment to restore movement in spinal injury](https://medicalxpress.com/news/2025-03-japanese-scientists-stem-cell-treatment.html)
 * [2025-03-24, 10:21:02](https://news.ycombinator.com/item?id=43459240) - [Show HN: We made an MCP Server so that Cursor can build anything from API Docs](https://www.npmjs.com/package/apidog-mcp-server)
@@ -17,6 +19,7 @@
 * [2025-03-24, 08:03:16](https://news.ycombinator.com/item?id=43458509) - [Millions are visiting the European Alternatives site––what trends are we seeing?](https://plausible.io/blog/european-alternatives-trends-privacy-tech)
 * [2025-03-24, 07:31:20](https://news.ycombinator.com/item?id=43458409) - [Did you spot a fish? Press the Fish Doorbell](https://visdeurbel.nl/en/)
 * [2025-03-24, 05:51:42](https://news.ycombinator.com/item?id=43458033) - [Osgint – OSINT tool to find information about GitHub user](https://github.com/hippiiee/osgint)
+* [2025-03-24, 03:57:02](https://news.ycombinator.com/item?id=43457699) - [Researchers search for more precise ways to measure pain](https://www.washingtonpost.com/science/2025/03/23/pain-measure-precision-research/)
 * [2025-03-24, 03:48:24](https://news.ycombinator.com/item?id=43457666) - [DNA testing firm 23andMe files for bankruptcy to sell itself](https://www.reuters.com/business/healthcare-pharmaceuticals/dna-testing-firm-23andme-files-chapter-11-bankruptcy-sell-itself-2025-03-24/)
 * [2025-03-24, 02:54:42](https://news.ycombinator.com/item?id=43457483) - [The persistent mischaracterization of Google and Facebook A/B tests](https://www.sciencedirect.com/science/article/pii/S0167811624001149)
 * [2025-03-24, 01:29:51](https://news.ycombinator.com/item?id=43457202) - [The Vatican's Latinist: On the Career of Reginald Foster. (2017)](https://newcriterion.com/article/the-vaticans-latinist/)
