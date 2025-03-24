@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-24](index.md)
 
+* [2025-03-24, 20:08:25](https://news.ycombinator.com/item?id=43464914) - [Why do programmers want to quit programming and start a homestead?](https://tjmorley.com/blogposts/cottagecoreprogrammers.html)
 * [2025-03-24, 19:26:05](https://news.ycombinator.com/item?id=43464541) - [The Peano Axioms: Building Blocks of Arithmetic](https://principlesofcryptography.com/number-theory-primer-an-axiomatic-study-of-natural-numbers-peano-axioms/)
 * [2025-03-24, 19:00:00](https://news.ycombinator.com/item?id=43464299) - [Building an idempotent email API with River unique jobs](https://riverqueue.com/blog/idempotent-email-api-with-river)
 * [2025-03-24, 18:52:47](https://news.ycombinator.com/item?id=43464230) - [Internet Archive Europe – Bringing Collections to Life](https://www.internetarchive.eu/)
