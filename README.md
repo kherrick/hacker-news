@@ -2,7 +2,7 @@
 
 * [2025-03-24, 08:49:54](https://news.ycombinator.com/item?id=43458717) - [European Cloud, Global Reach](https://upcloud.com/blog/european-cloud-global-reach)
 * [2025-03-24, 08:38:16](https://news.ycombinator.com/item?id=43458633) - [Rust Additions for GCC 15 Bring Support for If-Let Statements](https://www.phoronix.com/news/GCC-15-Rust-if-let)
-* [2025-03-24, 08:03:16](https://news.ycombinator.com/item?id=43458509) - [Millions are visiting the European Alternatives site––what trends are we seeing?](https://plausible.io/blog/european-alternatives-trends-privacy-tech)
+* [2025-03-24, 08:03:16](https://news.ycombinator.com/item?id=43458509) - [Millions are visiting the European Alternatives site. What trends are we seeing?](https://plausible.io/blog/european-alternatives-trends-privacy-tech)
 * [2025-03-24, 07:31:20](https://news.ycombinator.com/item?id=43458409) - [Did you spot a fish? Press the Fish Doorbell](https://visdeurbel.nl/en/)
 * [2025-03-24, 03:48:24](https://news.ycombinator.com/item?id=43457666) - [23andMe files for bankruptcy to sell itself](https://www.reuters.com/business/healthcare-pharmaceuticals/dna-testing-firm-23andme-files-chapter-11-bankruptcy-sell-itself-2025-03-24/)
 * [2025-03-24, 01:29:51](https://news.ycombinator.com/item?id=43457202) - [The Vatican's Latinist (2017)](https://newcriterion.com/article/the-vaticans-latinist/)
