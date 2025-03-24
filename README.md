@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-24, 19:26:05](https://news.ycombinator.com/item?id=43464541) - [The Peano Axioms: Building Blocks of Arithmetic](https://principlesofcryptography.com/number-theory-primer-an-axiomatic-study-of-natural-numbers-peano-axioms/)
 * [2025-03-24, 18:52:47](https://news.ycombinator.com/item?id=43464230) - [Internet Archive Europe – Bringing Collections to Life](https://www.internetarchive.eu/)
 * [2025-03-24, 18:35:12](https://news.ycombinator.com/item?id=43464068) - [Qwen2.5-VL-32B: Smarter and Lighter](https://qwenlm.github.io/blog/qwen2.5-vl-32b/)
 * [2025-03-24, 16:35:07](https://news.ycombinator.com/item?id=43462882) - [Project Operation Whitecoat Military Human Experimentation on 7th Day Adventists (2010)](https://scholarworks.lib.csusb.edu/cgi/viewcontent.cgi?article=1201&context=history-in-the-making)
@@ -28,7 +29,6 @@
 * [2025-03-21, 10:37:16](https://news.ycombinator.com/item?id=43434010) - [Autology: A Lisp with access to its own interpreter](https://github.com/Kimbsy/autology)
 * [2025-03-21, 09:43:16](https://news.ycombinator.com/item?id=43433648) - [How to create value objects in Ruby – the idiomatic way](https://allaboutcoding.ghinda.com/how-to-create-value-objects-in-ruby-the-idiomatic-way)
 * [2025-03-21, 08:17:19](https://news.ycombinator.com/item?id=43433030) - [The earliest versions of the first C compiler known to exist](https://github.com/mortdeus/legacy-cc)
-* [2025-03-20, 20:19:45](https://news.ycombinator.com/item?id=43428409) - [First Known Photographs of Living Specimens](https://www.inaturalist.org/projects/first-known-photographs-of-living-specimens)
 * [2025-03-19, 19:58:37](https://news.ycombinator.com/item?id=43416605) - [Supply Chain Attacks on Linux Distributions – Fedora Pagure](https://fenrisk.com/pagure)
 
 ## [Archives](archives/index.md)

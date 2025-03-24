@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-24](index.md)
 
+* [2025-03-24, 19:26:05](https://news.ycombinator.com/item?id=43464541) - [The Peano Axioms: Building Blocks of Arithmetic](https://principlesofcryptography.com/number-theory-primer-an-axiomatic-study-of-natural-numbers-peano-axioms/)
 * [2025-03-24, 18:52:47](https://news.ycombinator.com/item?id=43464230) - [Internet Archive Europe – Bringing Collections to Life](https://www.internetarchive.eu/)
 * [2025-03-24, 18:48:34](https://news.ycombinator.com/item?id=43464193) - [Delete Your DNA from 23andMe](https://www.washingtonpost.com/technology/2025/03/24/23andme-dna-privacy-delete/)
 * [2025-03-24, 18:35:12](https://news.ycombinator.com/item?id=43464068) - [Qwen2.5-VL-32B: Smarter and Lighter](https://qwenlm.github.io/blog/qwen2.5-vl-32b/)
