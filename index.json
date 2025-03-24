@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-03-24, 10:21:02",
-      "https://news.ycombinator.com/item?id=43459240"
-    ],
-    [
-      "Show HN: We made an MCP Server so that Cursor can build anything from API Docs",
-      "https://www.npmjs.com/package/apidog-mcp-server"
-    ]
-  ],
-  [
-    [
       "2025-03-24, 09:56:12",
       "https://news.ycombinator.com/item?id=43459100"
     ],
@@ -37,46 +27,6 @@
     [
       "HP avoids monetary damages over bricked printers in class-action settlement",
       "https://arstechnica.com/gadgets/2025/03/hp-avoids-monetary-damages-over-bricked-printers-in-class-action-settlement/"
-    ]
-  ],
-  [
-    [
-      "2025-03-24, 08:49:54",
-      "https://news.ycombinator.com/item?id=43458717"
-    ],
-    [
-      "European Cloud, Global Reach",
-      "https://upcloud.com/blog/european-cloud-global-reach"
-    ]
-  ],
-  [
-    [
-      "2025-03-24, 08:38:16",
-      "https://news.ycombinator.com/item?id=43458633"
-    ],
-    [
-      "Rust Additions for GCC 15 Bring Support for If-Let Statements",
-      "https://www.phoronix.com/news/GCC-15-Rust-if-let"
-    ]
-  ],
-  [
-    [
-      "2025-03-24, 08:03:16",
-      "https://news.ycombinator.com/item?id=43458509"
-    ],
-    [
-      "Millions are visiting the European Alternatives site. What trends are we seeing?",
-      "https://plausible.io/blog/european-alternatives-trends-privacy-tech"
-    ]
-  ],
-  [
-    [
-      "2025-03-24, 07:31:20",
-      "https://news.ycombinator.com/item?id=43458409"
-    ],
-    [
-      "Did you spot a fish? Press the Fish Doorbell",
-      "https://visdeurbel.nl/en/"
     ]
   ],
   [
@@ -141,12 +91,22 @@
   ],
   [
     [
-      "2025-03-23, 22:18:29",
-      "https://news.ycombinator.com/item?id=43456341"
+      "2025-03-23, 21:25:08",
+      "https://news.ycombinator.com/item?id=43456030"
     ],
     [
-      "RDNA 4's “Out-of-Order” Memory Accesses",
-      "https://chipsandcheese.com/p/rdna-4s-out-of-order-memory-accesses"
+      "Show HN: My iOS app to practice sight reading (10 years in the App Store)",
+      "https://apps.apple.com/us/app/notes-sight-reading-trainer/id874386416"
+    ]
+  ],
+  [
+    [
+      "2025-03-23, 18:52:40",
+      "https://news.ycombinator.com/item?id=43454915"
+    ],
+    [
+      "Show HN: LinkedIn sucks, so I built a better one",
+      "https://heyopenspot.com/"
     ]
   ],
   [
@@ -171,12 +131,12 @@
   ],
   [
     [
-      "2025-03-23, 14:13:20",
-      "https://news.ycombinator.com/item?id=43453059"
+      "2025-03-23, 13:14:15",
+      "https://news.ycombinator.com/item?id=43452688"
     ],
     [
-      "Building and Publishing Games to Steam Directly from GitHub Actions",
-      "https://nullonerror.org/2025/03/23/building-and-publishing-games-to-steam-directly-from-gitHub-actions/"
+      "Technicalities of Homeworld 2 Backgrounds",
+      "https://simonschreibt.de/gat/homeworld-2-backgrounds/"
     ]
   ],
   [
@@ -187,6 +147,16 @@
     [
       "Show HN: I built website for sharing Drum Patterns",
       "http://drumpatterns.onether.com"
+    ]
+  ],
+  [
+    [
+      "2025-03-23, 12:45:21",
+      "https://news.ycombinator.com/item?id=43452525"
+    ],
+    [
+      "argp: GNU-style command line argument parser for Go",
+      "https://github.com/tdewolff/argp"
     ]
   ],
   [
@@ -231,16 +201,6 @@
   ],
   [
     [
-      "2025-03-23, 03:40:05",
-      "https://news.ycombinator.com/item?id=43450732"
-    ],
-    [
-      "Improving recommendation systems and search in the age of LLMs",
-      "https://eugeneyan.com/writing/recsys-llm/"
-    ]
-  ],
-  [
-    [
       "2025-03-22, 01:55:51",
       "https://news.ycombinator.com/item?id=43442588"
     ],
@@ -251,12 +211,32 @@
   ],
   [
     [
+      "2025-03-21, 15:04:16",
+      "https://news.ycombinator.com/item?id=43436551"
+    ],
+    [
+      "Total lunar eclipse over Teide crater, Tenerife – a project with many obstacles",
+      "https://lrtimelapse.com/news/total-lunar-eclipse-over-teide-crater-tenerife/"
+    ]
+  ],
+  [
+    [
       "2025-03-21, 11:47:37",
       "https://news.ycombinator.com/item?id=43434503"
     ],
     [
       "A proof checker meant for education",
       "https://jsiek.github.io/deduce/index.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-21, 11:01:00",
+      "https://news.ycombinator.com/item?id=43434171"
+    ],
+    [
+      "LangManus: An Open-Source Manus Agent with LangChain + LangGraph",
+      "https://github.com/langmanus/langmanus"
     ]
   ],
   [
@@ -287,6 +267,26 @@
     [
       "First Known Photographs of Living Specimens",
       "https://www.inaturalist.org/projects/first-known-photographs-of-living-specimens"
+    ]
+  ],
+  [
+    [
+      "2025-03-20, 19:08:25",
+      "https://news.ycombinator.com/item?id=43427595"
+    ],
+    [
+      "Taming Servers for Fun and Profit",
+      "https://blog.railway.com/p/data-center-build-part-two"
+    ]
+  ],
+  [
+    [
+      "2025-03-20, 16:50:41",
+      "https://news.ycombinator.com/item?id=43425649"
+    ],
+    [
+      "Spaghetti science: What pasta reveals about the universe",
+      "https://www.bbc.com/future/article/20250319-spaghetti-science-what-pasta-reveals-about-the-universe"
     ]
   ],
   [
