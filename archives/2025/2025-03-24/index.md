@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-24](index.md)
 
+* [2025-03-24, 08:06:45](https://news.ycombinator.com/item?id=43458528) - [Curtis Yarvin Says Democracy Is Done. Powerful Conservatives Are Listening](https://www.nytimes.com/2025/01/18/magazine/curtis-yarvin-interview.html)
 * [2025-03-24, 03:48:24](https://news.ycombinator.com/item?id=43457666) - [DNA testing firm 23andMe files for bankruptcy to sell itself](https://www.reuters.com/business/healthcare-pharmaceuticals/dna-testing-firm-23andme-files-chapter-11-bankruptcy-sell-itself-2025-03-24/)
 * [2025-03-24, 02:54:42](https://news.ycombinator.com/item?id=43457483) - [The persistent mischaracterization of Google and Facebook A/B tests](https://www.sciencedirect.com/science/article/pii/S0167811624001149)
 * [2025-03-24, 01:29:51](https://news.ycombinator.com/item?id=43457202) - [The Vatican's Latinist: On the Career of Reginald Foster. (2017)](https://newcriterion.com/article/the-vaticans-latinist/)

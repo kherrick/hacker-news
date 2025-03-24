@@ -44,6 +44,7 @@
 * [2025-03-21, 12:38:20](https://news.ycombinator.com/item?id=43434910) - [Legged Locomotion Meets Skateboarding](https://umich-curly.github.io/DHAL/)
 * [2025-03-21, 12:16:45](https://news.ycombinator.com/item?id=43434730) - [Wheel Reinventor's Principles](https://tobloef.com/blog/wheel-reinventors-principles/)
 * [2025-03-21, 12:00:58](https://news.ycombinator.com/item?id=43434605) - [Unknown microorganisms used marble and limestone as a habitat](https://www.sciencedaily.com/releases/2025/03/250319143419.htm)
+* [2025-03-21, 11:47:37](https://news.ycombinator.com/item?id=43434503) - [A proof checker meant for education](https://jsiek.github.io/deduce/index.html)
 * [2025-03-21, 11:42:09](https://news.ycombinator.com/item?id=43434466) - [Imagine telling 2010 devs that in 2025, collapsing a div would require $8/ month](https://old.reddit.com/r/webdev/comments/1jged6g/imagine_telling_2010_devs_that_in_2025_collapsing/)
 * [2025-03-21, 11:28:06](https://news.ycombinator.com/item?id=43434364) - [All Placebos are not created equal](https://www.samstack.io/p/all-placebos-are-not-created-equal)
 * [2025-03-21, 11:22:44](https://news.ycombinator.com/item?id=43434325) - [Show HN: My Attempt to Organize the World of AI Dev Tools](https://aicode.danvoronov.com/tools/)
