@@ -39,6 +39,7 @@
 * [2025-03-20, 17:01:12](https://news.ycombinator.com/item?id=43425767) - [Show HN: Hyperbrowser MCP Server – Connect AI agents to the web through browsers](https://github.com/hyperbrowserai/mcp)
 * [2025-03-20, 17:01:08](https://news.ycombinator.com/item?id=43425766) - [Pump.co (YC S22) Is Hiring](https://www.ycombinator.com/companies/pump-co/jobs/7kB7DNb-email-outreach-manager)
 * [2025-03-20, 16:51:12](https://news.ycombinator.com/item?id=43425655) - [Claude can now search the web](https://www.anthropic.com/news/web-search)
+* [2025-03-20, 16:50:41](https://news.ycombinator.com/item?id=43425649) - [Spaghetti science: What pasta reveals about the universe](https://www.bbc.com/future/article/20250319-spaghetti-science-what-pasta-reveals-about-the-universe)
 * [2025-03-20, 16:49:18](https://news.ycombinator.com/item?id=43425623) - [A Deep Dive into MCP and the Future of AI Tooling](https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/)
 * [2025-03-20, 16:47:17](https://news.ycombinator.com/item?id=43425605) - [CVE-2024-54471: Leaking Passwords (and More!) on macOS](https://wts.dev/posts/password-leak/)
 * [2025-03-20, 16:44:10](https://news.ycombinator.com/item?id=43425561) - [ChatGPT hit with privacy complaint over defamatory hallucinations](https://techcrunch.com/2025/03/19/chatgpt-hit-with-privacy-complaint-over-defamatory-hallucinations/)
