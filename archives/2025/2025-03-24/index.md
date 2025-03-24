@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-24](index.md)
 
+* [2025-03-24, 16:05:47](https://news.ycombinator.com/item?id=43462593) - [Deregulated energy markets accelerate solar adoption](https://seanobannon.substack.com/p/renewable-energy-adoption-and-the)
 * [2025-03-24, 14:45:34](https://news.ycombinator.com/item?id=43461701) - [Triforce – a beamformer for Apple Silicon laptops](https://crates.io/crates/triforce-lv2)
 * [2025-03-24, 14:15:17](https://news.ycombinator.com/item?id=43461375) - [Goblin.tools: simple, single-task tools to help neurodivergent people with tasks](https://goblin.tools/)
 * [2025-03-24, 13:01:11](https://news.ycombinator.com/item?id=43460583) - [Instella: New Open 3B Language Models](https://rocm.blogs.amd.com/artificial-intelligence/introducing-instella-3B/README.html)

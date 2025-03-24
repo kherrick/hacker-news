@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-24, 16:05:47](https://news.ycombinator.com/item?id=43462593) - [Deregulated energy markets accelerate solar adoption](https://seanobannon.substack.com/p/renewable-energy-adoption-and-the)
 * [2025-03-24, 14:45:34](https://news.ycombinator.com/item?id=43461701) - [Triforce – a beamformer for Apple Silicon laptops](https://crates.io/crates/triforce-lv2)
 * [2025-03-24, 14:15:17](https://news.ycombinator.com/item?id=43461375) - [Goblin.tools: simple, single-task tools to help neurodivergent people with tasks](https://goblin.tools/)
 * [2025-03-24, 10:39:32](https://news.ycombinator.com/item?id=43459361) - [The Game Designer Playing Through His Own Psyche](https://www.newyorker.com/culture/persons-of-interest/the-game-designer-playing-through-his-own-psyche)
@@ -20,10 +21,9 @@
 * [2025-03-23, 11:24:35](https://news.ycombinator.com/item?id=43452233) - [The Mystery of the Oldest Writing System Remained Unsolved Until 1856](https://www.smithsonianmag.com/history/mystery-worlds-oldest-writing-system-remained-unsolved-until-four-scholars-raced-decipher-it-180985954/)
 * [2025-03-23, 11:09:28](https://news.ycombinator.com/item?id=43452185) - [The SeL4 Microkernel: An Introduction [pdf]](https://sel4.systems/About/seL4-whitepaper.pdf)
 * [2025-03-23, 10:11:53](https://news.ycombinator.com/item?id=43451968) - [Aiter: AI Tensor Engine for ROCm](https://rocm.blogs.amd.com/software-tools-optimization/aiter:-ai-tensor-engine-for-rocm™/README.html)
+* [2025-03-23, 09:20:42](https://news.ycombinator.com/item?id=43451760) - [Mruby/C and picoruby: high level langs in low-level devices?](https://github.com/picoruby/picoruby)
 * [2025-03-23, 06:28:18](https://news.ycombinator.com/item?id=43451207) - [The Great Hobby Lobby Artifact Heist](https://meghanboilard.substack.com/p/the-great-hobby-lobby-artifact-heist)
-* [2025-03-23, 04:18:46](https://news.ycombinator.com/item?id=43450884) - [Rickover's Lessons](https://www.chinatalk.media/p/rickovers-lessons-how-to-build-a)
 * [2025-03-22, 01:55:51](https://news.ycombinator.com/item?id=43442588) - [The Wright brothers invented the airplane, right? Not if you're in Brazil](https://www.washingtonpost.com/world/2025/03/21/brazil-airplane-wright-brothers-santos-dumont/)
-* [2025-03-21, 15:04:16](https://news.ycombinator.com/item?id=43436551) - [Total lunar eclipse over Teide crater, Tenerife – a project with many obstacles](https://lrtimelapse.com/news/total-lunar-eclipse-over-teide-crater-tenerife/)
 * [2025-03-21, 11:47:37](https://news.ycombinator.com/item?id=43434503) - [A proof checker meant for education](https://jsiek.github.io/deduce/index.html)
 * [2025-03-21, 11:01:00](https://news.ycombinator.com/item?id=43434171) - [LangManus: An Open-Source Manus Agent with LangChain + LangGraph](https://github.com/langmanus/langmanus)
 * [2025-03-21, 10:37:16](https://news.ycombinator.com/item?id=43434010) - [Autology: A Lisp with access to its own interpreter](https://github.com/Kimbsy/autology)
