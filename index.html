@@ -129,6 +129,26 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="43466221">
+          <h3>
+            <a class="item" href="https://github.com/thepartly/gatehouse"
+              >Gatehouse – a composable, async-friendly authorization policy
+              framework in Rust</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-03-24 @ 22:50:47</span
+              ><span class="points-container"
+                >Points: <span class="points">17</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43466221"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="43465508">
           <h3>
             <a
@@ -141,7 +161,7 @@
             <h4>
               <span>2025-03-24 @ 21:20:13</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43465508"
                   >Comments</a
@@ -163,7 +183,7 @@
             <h4>
               <span>2025-03-24 @ 20:47:23</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43465256"
                   >Comments</a
@@ -184,11 +204,11 @@
             <h4>
               <span>2025-03-24 @ 20:40:21</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43465189"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -205,7 +225,7 @@
             <h4>
               <span>2025-03-24 @ 20:35:30</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43465147"
                   >Comments</a
@@ -226,11 +246,11 @@
             <h4>
               <span>2025-03-24 @ 20:08:25</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43464914"
                   >Comments</a
-                ><span class="descendants">: 95</span></span
+                ><span class="descendants">: 101</span></span
               >
             </h4>
           </section>
@@ -247,80 +267,13 @@
             <h4>
               <span>2025-03-24 @ 19:26:05</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43464541"
                   >Comments</a
                 ><span class="descendants">: 17</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="43464320">
-          <h3>
-            <a class="item" href="https://xymake.com"
-              >Show HN: XYMake – Turn Your Posts into LLM-Ready Data</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-03-24 @ 19:02:15</span
-              ><span class="points-container"
-                >Points: <span class="points">4</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43464320"
-                  >Comments</a
-                ><span class="descendants">: 0</span></span
-              >
-            </h4>
-            <div class="text">
-              <a href="https://xymake.com">https://xymake.com</a>), a tool that
-              lets you convert any X (Twitter) thread into clean markdown,
-              making your conversations accessible for LLMs, MCPs, or any API.
-              <p>
-                ## What it does: - Transforms any X thread URL into markdown by
-                simply changing "x.com" to "xymake.com" in the URL - OAuth2
-                login to "free your data" and make your threads available -
-                Auto-generates OG images with token counts and participant info
-                for easy sharing - Serves different content types based on
-                whether the request is from a crawler, browser, or agent
-              </p>
-              <p>
-                ## Why I built it: I believe people should have the right to own
-                and use their own data. While X/Twitter uses our content to
-                train Grok, we should be able to leverage our own conversations
-                for similar purposes.
-              </p>
-              <p>
-                I built this as a proof of concept in one day (what started as a
-                30-minute experiment turned into a 10-hour flow state). It's
-                built entirely on Cloudflare Workers and uses some interesting
-                techniques to serve different content types to different
-                consumers.
-              </p>
-              <p>
-                ## Technical highlights: - Request identification to serve
-                HTML+OG images to crawlers while providing raw markdown to
-                agents - Preloading OG image generation using ctx.waitUntil for
-                near-instant loading when shared - Optimized OG image rendering
-                across platforms using workers-og
-              </p>
-              <p>
-                Try it out with any X thread - just replace "x.com" with
-                "xymake.com"!
-              </p>
-              <p>
-                Example:
-                <a
-                  href="https://xymake.com/janwilmake/status/1904080559422288062"
-                  >https://xymake.com/janwilmake/status/1904080559422288062</a
-                >
-              </p>
-              <p>
-                Feedback welcome! This is just the beginning of what's possible
-                when we reclaim our conversational data.
-              </p>
-            </div>
           </section>
         </section>
         <section id="43464068">
@@ -333,11 +286,11 @@
             <h4>
               <span>2025-03-24 @ 18:35:12</span
               ><span class="points-container"
-                >Points: <span class="points">270</span></span
+                >Points: <span class="points">277</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43464068"
                   >Comments</a
-                ><span class="descendants">: 127</span></span
+                ><span class="descendants">: 135</span></span
               >
             </h4>
           </section>
@@ -354,11 +307,11 @@
             <h4>
               <span>2025-03-24 @ 17:09:07</span
               ><span class="points-container"
-                >Points: <span class="points">167</span></span
+                >Points: <span class="points">177</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43463200"
                   >Comments</a
-                ><span class="descendants">: 106</span></span
+                ><span class="descendants">: 112</span></span
               >
             </h4>
           </section>
@@ -379,7 +332,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43462882"
                   >Comments</a
-                ><span class="descendants">: 65</span></span
+                ><span class="descendants">: 66</span></span
               >
             </h4>
           </section>
@@ -396,11 +349,11 @@
             <h4>
               <span>2025-03-24 @ 15:40:08</span
               ><span class="points-container"
-                >Points: <span class="points">131</span></span
+                >Points: <span class="points">134</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43462299"
                   >Comments</a
-                ><span class="descendants">: 67</span></span
+                ><span class="descendants">: 68</span></span
               >
             </h4>
           </section>
@@ -415,11 +368,11 @@
             <h4>
               <span>2025-03-24 @ 14:45:34</span
               ><span class="points-container"
-                >Points: <span class="points">403</span></span
+                >Points: <span class="points">408</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43461701"
                   >Comments</a
-                ><span class="descendants">: 162</span></span
+                ><span class="descendants">: 163</span></span
               >
             </h4>
           </section>
@@ -435,11 +388,11 @@
             <h4>
               <span>2025-03-24 @ 14:15:17</span
               ><span class="points-container"
-                >Points: <span class="points">269</span></span
+                >Points: <span class="points">270</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43461375"
                   >Comments</a
-                ><span class="descendants">: 138</span></span
+                ><span class="descendants">: 145</span></span
               >
             </h4>
           </section>
@@ -456,11 +409,11 @@
             <h4>
               <span>2025-03-24 @ 10:39:32</span
               ><span class="points-container"
-                >Points: <span class="points">122</span></span
+                >Points: <span class="points">123</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43459361"
                   >Comments</a
-                ><span class="descendants">: 60</span></span
+                ><span class="descendants">: 61</span></span
               >
             </h4>
           </section>
@@ -512,7 +465,7 @@
             <h4>
               <span>2025-03-24 @ 09:04:43</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43458780"
                   >Comments</a
@@ -533,7 +486,7 @@
             <h4>
               <span>2025-03-24 @ 03:57:02</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43457699"
                   >Comments</a
@@ -552,11 +505,11 @@
             <h4>
               <span>2025-03-24 @ 00:27:05</span
               ><span class="points-container"
-                >Points: <span class="points">255</span></span
+                >Points: <span class="points">257</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43456934"
                   >Comments</a
-                ><span class="descendants">: 59</span></span
+                ><span class="descendants">: 60</span></span
               >
             </h4>
           </section>
@@ -573,7 +526,7 @@
             <h4>
               <span>2025-03-23 @ 23:33:39</span
               ><span class="points-container"
-                >Points: <span class="points">282</span></span
+                >Points: <span class="points">283</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43456723"
                   >Comments</a
@@ -592,11 +545,11 @@
             <h4>
               <span>2025-03-23 @ 18:52:40</span
               ><span class="points-container"
-                >Points: <span class="points">351</span></span
+                >Points: <span class="points">353</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43454915"
                   >Comments</a
-                ><span class="descendants">: 299</span></span
+                ><span class="descendants">: 300</span></span
               >
             </h4>
             <div class="text">
@@ -643,7 +596,7 @@
             <h4>
               <span>2025-03-23 @ 10:11:53</span
               ><span class="points-container"
-                >Points: <span class="points">156</span></span
+                >Points: <span class="points">158</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43451968"
                   >Comments</a
@@ -662,11 +615,11 @@
             <h4>
               <span>2025-03-23 @ 09:20:42</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43451760"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -683,7 +636,7 @@
             <h4>
               <span>2025-03-23 @ 04:18:46</span
               ><span class="points-container"
-                >Points: <span class="points">82</span></span
+                >Points: <span class="points">85</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43450884"
                   >Comments</a
@@ -705,11 +658,11 @@
             <h4>
               <span>2025-03-22 @ 01:55:51</span
               ><span class="points-container"
-                >Points: <span class="points">192</span></span
+                >Points: <span class="points">193</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43442588"
                   >Comments</a
-                ><span class="descendants">: 418</span></span
+                ><span class="descendants">: 420</span></span
               >
             </h4>
           </section>
@@ -726,7 +679,7 @@
             <h4>
               <span>2025-03-21 @ 21:41:18</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43441082"
                   >Comments</a
@@ -767,7 +720,7 @@
             <h4>
               <span>2025-03-21 @ 11:47:37</span
               ><span class="points-container"
-                >Points: <span class="points">117</span></span
+                >Points: <span class="points">119</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43434503"
                   >Comments</a
@@ -786,7 +739,7 @@
             <h4>
               <span>2025-03-21 @ 10:37:16</span
               ><span class="points-container"
-                >Points: <span class="points">97</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43434010"
                   >Comments</a
@@ -805,7 +758,7 @@
             <h4>
               <span>2025-03-21 @ 08:17:19</span
               ><span class="points-container"
-                >Points: <span class="points">284</span></span
+                >Points: <span class="points">287</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43433030"
                   >Comments</a
