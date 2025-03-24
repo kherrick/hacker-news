@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-24, 21:20:13](https://news.ycombinator.com/item?id=43465508) - [Intel: A Bug and a Pro – By Bradford Morgan White](https://www.abortretry.fail/p/intel-a-bug-and-a-pro)
 * [2025-03-24, 20:47:23](https://news.ycombinator.com/item?id=43465256) - [Mathematicians uncover the logic behind how people walk in crowds](https://news.mit.edu/2025/mathematicians-uncover-logic-behind-how-crowds-walk-0324)
 * [2025-03-24, 20:40:21](https://news.ycombinator.com/item?id=43465189) - [Aircraft Detection at Planetary Scale](https://www.planet.com/pulse/aircraft-detection-at-planetary-scale/)
 * [2025-03-24, 20:08:25](https://news.ycombinator.com/item?id=43464914) - [Cottagecore Programmers](https://tjmorley.com/blogposts/cottagecoreprogrammers.html)
@@ -19,7 +20,6 @@
 * [2025-03-24, 00:27:05](https://news.ycombinator.com/item?id=43456934) - [Quadlet: Running Podman containers under systemd](https://mo8it.com/blog/quadlet/)
 * [2025-03-23, 23:33:39](https://news.ycombinator.com/item?id=43456723) - [Project Aardvark: reimagining AI weather prediction](https://www.turing.ac.uk/blog/project-aardvark-reimagining-ai-weather-prediction)
 * [2025-03-23, 18:52:40](https://news.ycombinator.com/item?id=43454915) - [Show HN: LinkedIn sucks, so I built a better one](https://heyopenspot.com/)
-* [2025-03-23, 15:31:26](https://news.ycombinator.com/item?id=43453582) - [A USB Interface to the \"Mother of All Demos\" Keyset](https://www.righto.com/2025/03/mother-of-all-demos-usb-keyset-interface.html)
 * [2025-03-23, 13:05:21](https://news.ycombinator.com/item?id=43452629) - [Show HN: I built a website for sharing drum patterns](http://drumpatterns.onether.com)
 * [2025-03-23, 10:11:53](https://news.ycombinator.com/item?id=43451968) - [Aiter: AI Tensor Engine for ROCm](https://rocm.blogs.amd.com/software-tools-optimization/aiter:-ai-tensor-engine-for-rocm™/README.html)
 * [2025-03-23, 09:20:42](https://news.ycombinator.com/item?id=43451760) - [Mruby/C and picoruby: high level langs in low-level devices?](https://github.com/picoruby/picoruby)
