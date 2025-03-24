@@ -6,6 +6,7 @@
 
 * [2025-03-24, 21:07:37](https://news.ycombinator.com/item?id=43465424) - [Multiple vulnerabilities in ingress-Nginx (Score 9.8)](https://groups.google.com/g/kubernetes-security-announce/c/2qa9DFtN0cQ)
 * [2025-03-24, 20:58:34](https://news.ycombinator.com/item?id=43465346) - [Eli Lilly will soon release key data on its weight loss pill orforglipron](https://www.cnbc.com/2025/03/24/eli-lilly-to-release-weight-loss-pill-orforglipron-trial-data-.html)
+* [2025-03-24, 20:56:33](https://news.ycombinator.com/item?id=43465333) - [OpenAI Says It's \"Over\" If It Can't Steal All Your Copyrighted Work](https://futurism.com/openai-over-copyrighted-work)
 * [2025-03-24, 20:47:23](https://news.ycombinator.com/item?id=43465256) - [Mathematicians uncover the logic behind how people walk in crowds](https://news.mit.edu/2025/mathematicians-uncover-logic-behind-how-crowds-walk-0324)
 * [2025-03-24, 20:40:21](https://news.ycombinator.com/item?id=43465189) - [Aircraft Detection at Planetary Scale](https://www.planet.com/pulse/aircraft-detection-at-planetary-scale/)
 * [2025-03-24, 20:33:10](https://news.ycombinator.com/item?id=43465127) - [Decent living standards for 8.5B would require 30% of current resource use](https://www.sciencedirect.com/science/article/pii/S2452292924000493)
