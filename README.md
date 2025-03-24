@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-24, 14:45:34](https://news.ycombinator.com/item?id=43461701) - [Triforce – a beamformer for Apple Silicon laptops](https://crates.io/crates/triforce-lv2)
 * [2025-03-24, 12:06:16](https://news.ycombinator.com/item?id=43459990) - [The Tranhumanist Cult Test](https://ewanmorrison.substack.com/p/the-tranhumanist-cult-test)
 * [2025-03-24, 10:39:32](https://news.ycombinator.com/item?id=43459361) - [The Game Designer Playing Through His Own Psyche](https://www.newyorker.com/culture/persons-of-interest/the-game-designer-playing-through-his-own-psyche)
 * [2025-03-24, 10:25:19](https://news.ycombinator.com/item?id=43459264) - [Japanese scientists use stem cell treatment to restore movement in spinal injury](https://medicalxpress.com/news/2025-03-japanese-scientists-stem-cell-treatment.html)
@@ -7,7 +8,6 @@
 * [2025-03-24, 05:51:42](https://news.ycombinator.com/item?id=43458033) - [Osgint – OSINT tool to find information about GitHub user](https://github.com/hippiiee/osgint)
 * [2025-03-24, 03:57:02](https://news.ycombinator.com/item?id=43457699) - [Researchers search for more precise ways to measure pain](https://www.washingtonpost.com/science/2025/03/23/pain-measure-precision-research/)
 * [2025-03-24, 01:29:51](https://news.ycombinator.com/item?id=43457202) - [The Vatican's Latinist (2017)](https://newcriterion.com/article/the-vaticans-latinist/)
-* [2025-03-24, 00:35:25](https://news.ycombinator.com/item?id=43456966) - [Move on to ESM-Only](https://antfu.me/posts/move-on-to-esm-only)
 * [2025-03-24, 00:27:05](https://news.ycombinator.com/item?id=43456934) - [Quadlet: Running Podman containers under systemd](https://mo8it.com/blog/quadlet/)
 * [2025-03-23, 23:33:39](https://news.ycombinator.com/item?id=43456723) - [Project Aardvark: reimagining AI weather prediction](https://www.turing.ac.uk/blog/project-aardvark-reimagining-ai-weather-prediction)
 * [2025-03-23, 23:20:27](https://news.ycombinator.com/item?id=43456669) - [Shift-to-Middle Array: A Faster Alternative to Std:Deque?](https://github.com/attilatorda/Shift-To-Middle_Array)
