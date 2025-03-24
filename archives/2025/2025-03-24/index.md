@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-24](index.md)
 
+* [2025-03-24, 10:21:02](https://news.ycombinator.com/item?id=43459240) - [Show HN: We made an MCP Server so that Cursor can build anything from API Docs](https://www.npmjs.com/package/apidog-mcp-server)
 * [2025-03-24, 09:56:12](https://news.ycombinator.com/item?id=43459100) - [Langfuse (YC W23) Is Hiring in Berlin, Germany](https://langfuse.com/careers)
 * [2025-03-24, 09:00:18](https://news.ycombinator.com/item?id=43458759) - [HP avoids monetary damages over bricked printers in class-action settlement](https://arstechnica.com/gadgets/2025/03/hp-avoids-monetary-damages-over-bricked-printers-in-class-action-settlement/)
 * [2025-03-24, 08:49:54](https://news.ycombinator.com/item?id=43458717) - [European Cloud, Global Reach](https://upcloud.com/blog/european-cloud-global-reach)
