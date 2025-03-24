@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-24](index.md)
 
+* [2025-03-24, 17:35:34](https://news.ycombinator.com/item?id=43463453) - [Project Europe aims to drive European innovation](https://www.projecteurope.co/)
 * [2025-03-24, 16:35:07](https://news.ycombinator.com/item?id=43462882) - [Project Operation Whitecoat Military Human Experimentation on 7th Day Adventists (2010)](https://scholarworks.lib.csusb.edu/cgi/viewcontent.cgi?article=1201&context=history-in-the-making)
+* [2025-03-24, 16:14:22](https://news.ycombinator.com/item?id=43462676) - [TUI editor and Vim/Neovim alternative](https://github.com/tauraamui/lilly)
 * [2025-03-24, 16:05:47](https://news.ycombinator.com/item?id=43462593) - [Deregulated energy markets accelerate solar adoption](https://seanobannon.substack.com/p/renewable-energy-adoption-and-the)
 * [2025-03-24, 15:40:08](https://news.ycombinator.com/item?id=43462299) - [Mastering Delphi 5 2025 Annotated Edition Is Now Complete](https://blog.marcocantu.com/blog/2025-march-mastering-delphi5-annotated-complete.html)
 * [2025-03-24, 14:45:34](https://news.ycombinator.com/item?id=43461701) - [Triforce – a beamformer for Apple Silicon laptops](https://crates.io/crates/triforce-lv2)
