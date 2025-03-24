@@ -39,6 +39,7 @@
 * [2025-03-21, 15:04:16](https://news.ycombinator.com/item?id=43436551) - [Total lunar eclipse over Teide crater, Tenerife – a project with many obstacles](https://lrtimelapse.com/news/total-lunar-eclipse-over-teide-crater-tenerife/)
 * [2025-03-21, 14:54:22](https://news.ycombinator.com/item?id=43436454) - [The Road Not Taken Is Guaranteed Minimum Income](https://blog.codinghorror.com/the-road-not-taken-is-guaranteed-minimum-income/)
 * [2025-03-21, 14:44:30](https://news.ycombinator.com/item?id=43436315) - [Congestion Pricing Is a Policy Miracle](https://bettercities.substack.com/p/congestion-pricing-is-a-policy-miracle)
+* [2025-03-21, 14:30:18](https://news.ycombinator.com/item?id=43436157) - [600M years of shared environmental stress response found in algae and plants](https://phys.org/news/2025-03-million-years-environmental-stress-response.html)
 * [2025-03-21, 13:29:11](https://news.ycombinator.com/item?id=43435438) - [Show HN: Torch Lens Maker – Differentiable Geometric Optics in PyTorch](https://victorpoughon.github.io/torchlensmaker/)
 * [2025-03-21, 12:39:16](https://news.ycombinator.com/item?id=43434925) - [U.S. blocks Canadian access to iconic Stanstead border-straddling library](https://www.cbc.ca/lite/story/1.7489528)
 * [2025-03-21, 12:38:20](https://news.ycombinator.com/item?id=43434910) - [Legged Locomotion Meets Skateboarding](https://umich-curly.github.io/DHAL/)
