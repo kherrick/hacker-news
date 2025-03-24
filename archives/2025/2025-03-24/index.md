@@ -10,3 +10,4 @@
 * [2025-03-24, 01:23:34](https://news.ycombinator.com/item?id=43457180) - [63 Chinese Cuisines: The Complete Guide (2024)](https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete)
 * [2025-03-24, 00:35:25](https://news.ycombinator.com/item?id=43456966) - [Move on to ESM-Only](https://antfu.me/posts/move-on-to-esm-only)
 * [2025-03-24, 00:27:05](https://news.ycombinator.com/item?id=43456934) - [Quadlet: Running Podman containers under systemd](https://mo8it.com/blog/quadlet/)
+* [2025-03-24, 00:18:44](https://news.ycombinator.com/item?id=43456905) - [You need to know about bootc](https://sean.thrailkill.cloud/posts/you-need-to-know-about-bootc/)
