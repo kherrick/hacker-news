@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-24](index.md)
 
+* [2025-03-24, 10:25:19](https://news.ycombinator.com/item?id=43459264) - [Japanese scientists use stem cell treatment to restore movement in spinal injury](https://medicalxpress.com/news/2025-03-japanese-scientists-stem-cell-treatment.html)
 * [2025-03-24, 10:21:02](https://news.ycombinator.com/item?id=43459240) - [Show HN: We made an MCP Server so that Cursor can build anything from API Docs](https://www.npmjs.com/package/apidog-mcp-server)
 * [2025-03-24, 09:56:12](https://news.ycombinator.com/item?id=43459100) - [Langfuse (YC W23) Is Hiring in Berlin, Germany](https://langfuse.com/careers)
 * [2025-03-24, 09:00:18](https://news.ycombinator.com/item?id=43458759) - [HP avoids monetary damages over bricked printers in class-action settlement](https://arstechnica.com/gadgets/2025/03/hp-avoids-monetary-damages-over-bricked-printers-in-class-action-settlement/)

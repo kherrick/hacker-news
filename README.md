@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-24, 10:25:19](https://news.ycombinator.com/item?id=43459264) - [Japanese scientists use stem cell treatment to restore movement in spinal injury](https://medicalxpress.com/news/2025-03-japanese-scientists-stem-cell-treatment.html)
 * [2025-03-24, 10:21:02](https://news.ycombinator.com/item?id=43459240) - [Show HN: We made an MCP Server so that Cursor can build anything from API Docs](https://www.npmjs.com/package/apidog-mcp-server)
 * [2025-03-24, 09:56:12](https://news.ycombinator.com/item?id=43459100) - [Langfuse (YC W23) Is Hiring in Berlin, Germany](https://langfuse.com/careers)
 * [2025-03-24, 09:00:18](https://news.ycombinator.com/item?id=43458759) - [HP avoids monetary damages over bricked printers in class-action settlement](https://arstechnica.com/gadgets/2025/03/hp-avoids-monetary-damages-over-bricked-printers-in-class-action-settlement/)
@@ -25,7 +26,6 @@
 * [2025-03-23, 03:40:05](https://news.ycombinator.com/item?id=43450732) - [Improving recommendation systems and search in the age of LLMs](https://eugeneyan.com/writing/recsys-llm/)
 * [2025-03-22, 01:55:51](https://news.ycombinator.com/item?id=43442588) - [The Wright brothers invented the airplane, right? Not if you're in Brazil](https://www.washingtonpost.com/world/2025/03/21/brazil-airplane-wright-brothers-santos-dumont/)
 * [2025-03-21, 11:47:37](https://news.ycombinator.com/item?id=43434503) - [A proof checker meant for education](https://jsiek.github.io/deduce/index.html)
-* [2025-03-21, 11:01:00](https://news.ycombinator.com/item?id=43434171) - [LangManus: An Open-Source Manus Agent with LangChain + LangGraph](https://github.com/langmanus/langmanus)
 * [2025-03-21, 10:37:16](https://news.ycombinator.com/item?id=43434010) - [Autology: A Lisp with access to its own interpreter](https://github.com/Kimbsy/autology)
 * [2025-03-21, 08:17:19](https://news.ycombinator.com/item?id=43433030) - [The earliest versions of the first C compiler known to exist](https://github.com/mortdeus/legacy-cc)
 * [2025-03-20, 20:19:45](https://news.ycombinator.com/item?id=43428409) - [First Known Photographs of Living Specimens](https://www.inaturalist.org/projects/first-known-photographs-of-living-specimens)
