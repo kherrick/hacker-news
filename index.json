@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-24, 10:21:02",
+      "https://news.ycombinator.com/item?id=43459240"
+    ],
+    [
+      "Show HN: We made an MCP Server so that Cursor can build anything from API Docs",
+      "https://www.npmjs.com/package/apidog-mcp-server"
+    ]
+  ],
+  [
+    [
       "2025-03-24, 09:56:12",
       "https://news.ycombinator.com/item?id=43459100"
     ],
@@ -61,6 +71,16 @@
   ],
   [
     [
+      "2025-03-24, 05:51:42",
+      "https://news.ycombinator.com/item?id=43458033"
+    ],
+    [
+      "Osgint – OSINT tool to find information about GitHub user",
+      "https://github.com/hippiiee/osgint"
+    ]
+  ],
+  [
+    [
       "2025-03-24, 03:48:24",
       "https://news.ycombinator.com/item?id=43457666"
     ],
@@ -117,16 +137,6 @@
     [
       "Project Aardvark: reimagining AI weather prediction",
       "https://www.turing.ac.uk/blog/project-aardvark-reimagining-ai-weather-prediction"
-    ]
-  ],
-  [
-    [
-      "2025-03-23, 23:20:27",
-      "https://news.ycombinator.com/item?id=43456669"
-    ],
-    [
-      "Shift-to-Middle Array: A Faster Alternative to Std:Deque?",
-      "https://github.com/attilatorda/Shift-To-Middle_Array"
     ]
   ],
   [
@@ -241,12 +251,12 @@
   ],
   [
     [
-      "2025-03-21, 15:04:16",
-      "https://news.ycombinator.com/item?id=43436551"
+      "2025-03-22, 01:55:51",
+      "https://news.ycombinator.com/item?id=43442588"
     ],
     [
-      "Total lunar eclipse over Teide crater, Tenerife – a project with many obstacles",
-      "https://lrtimelapse.com/news/total-lunar-eclipse-over-teide-crater-tenerife/"
+      "The Wright brothers invented the airplane, right? Not if you're in Brazil",
+      "https://www.washingtonpost.com/world/2025/03/21/brazil-airplane-wright-brothers-santos-dumont/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "A proof checker meant for education",
       "https://jsiek.github.io/deduce/index.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-21, 11:01:00",
-      "https://news.ycombinator.com/item?id=43434171"
-    ],
-    [
-      "LangManus: An Open-Source Manus Agent with LangChain + LangGraph",
-      "https://github.com/langmanus/langmanus"
     ]
   ],
   [
