@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-03-24, 02:54:42",
+      "https://news.ycombinator.com/item?id=43457483"
+    ],
+    [
+      "The persistent mischaracterization of Google and Facebook A/B tests",
+      "https://www.sciencedirect.com/science/article/pii/S0167811624001149"
+    ]
+  ],
+  [
+    [
       "2025-03-24, 01:29:51",
       "https://news.ycombinator.com/item?id=43457202"
     ],
     [
       "The Vatican's Latinist: On the Career of Reginald Foster. (2017)",
       "https://newcriterion.com/article/the-vaticans-latinist/"
+    ]
+  ],
+  [
+    [
+      "2025-03-24, 00:35:25",
+      "https://news.ycombinator.com/item?id=43456966"
+    ],
+    [
+      "Move on to ESM-Only",
+      "https://antfu.me/posts/move-on-to-esm-only"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "Play the Virtual Organ from Arp Schnitger",
       "https://www.orgelstadt-hamburg.de/play-arp/"
-    ]
-  ],
-  [
-    [
-      "2025-03-23, 17:31:24",
-      "https://news.ycombinator.com/item?id=43454379"
-    ],
-    [
-      "The Compressed Book Edition",
-      "https://solar.lowtechmagazine.com/2025/03/the-compressed-book-edition/"
     ]
   ],
   [
@@ -161,6 +171,16 @@
   ],
   [
     [
+      "2025-03-23, 10:11:53",
+      "https://news.ycombinator.com/item?id=43451968"
+    ],
+    [
+      "Aiter: AI Tensor Engine for ROCm",
+      "https://rocm.blogs.amd.com/software-tools-optimization/aiter:-ai-tensor-engine-for-rocm™/README.html"
+    ]
+  ],
+  [
+    [
       "2025-03-23, 03:40:05",
       "https://news.ycombinator.com/item?id=43450732"
     ],
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2025-03-22, 19:31:38",
-      "https://news.ycombinator.com/item?id=43448023"
-    ],
-    [
-      "The polar vortex is hitting the brakes",
-      "https://www.climate.gov/news-features/blogs/polar-vortex/polar-vortex-hitting-brakes"
-    ]
-  ],
-  [
-    [
       "2025-03-22, 14:39:04",
       "https://news.ycombinator.com/item?id=43445931"
     ],
     [
       "PyTorch Internals: Ezyang's Blog",
       "https://blog.ezyang.com/2019/05/pytorch-internals/"
-    ]
-  ],
-  [
-    [
-      "2025-03-22, 13:56:59",
-      "https://news.ycombinator.com/item?id=43445662"
-    ],
-    [
-      "Landrun: Sandbox any Linux process using Landlock, no root or containers",
-      "https://github.com/Zouuup/landrun"
     ]
   ],
   [
