@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2025-03-24, 16:14:22",
-      "https://news.ycombinator.com/item?id=43462676"
-    ],
-    [
-      "TUI editor and Vim/Neovim alternative",
-      "https://github.com/tauraamui/lilly"
-    ]
-  ],
-  [
-    [
       "2025-03-24, 15:40:08",
       "https://news.ycombinator.com/item?id=43462299"
     ],
@@ -167,6 +157,16 @@
     [
       "Project Aardvark: reimagining AI weather prediction",
       "https://www.turing.ac.uk/blog/project-aardvark-reimagining-ai-weather-prediction"
+    ]
+  ],
+  [
+    [
+      "2025-03-23, 23:20:27",
+      "https://news.ycombinator.com/item?id=43456669"
+    ],
+    [
+      "Shift-to-Middle Array: A Faster Alternative to Std:Deque?",
+      "https://github.com/attilatorda/Shift-To-Middle_Array"
     ]
   ],
   [
