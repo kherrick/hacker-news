@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-24, 18:35:12](https://news.ycombinator.com/item?id=43464068) - [Qwen2.5-VL-32B: Smarter and Lighter](https://qwenlm.github.io/blog/qwen2.5-vl-32b/)
+* [2025-03-24, 18:34:31](https://news.ycombinator.com/item?id=43464054) - [23andMe Files for Bankruptcy, as CEO Anne Wojcicki Resigns](https://www.wsj.com/business/dna-testing-company-23andme-files-for-bankruptcy-announces-ceo-resignation-82ad1c45)
 * [2025-03-24, 16:35:07](https://news.ycombinator.com/item?id=43462882) - [Project Operation Whitecoat Military Human Experimentation on 7th Day Adventists (2010)](https://scholarworks.lib.csusb.edu/cgi/viewcontent.cgi?article=1201&context=history-in-the-making)
 * [2025-03-24, 16:14:22](https://news.ycombinator.com/item?id=43462676) - [TUI editor and Vim/Neovim alternative](https://github.com/tauraamui/lilly)
 * [2025-03-24, 15:40:08](https://news.ycombinator.com/item?id=43462299) - [Mastering Delphi 5 2025 Annotated Edition Is Now Complete](https://blog.marcocantu.com/blog/2025-march-mastering-delphi5-annotated-complete.html)
@@ -21,14 +23,12 @@
 * [2025-03-23, 11:09:28](https://news.ycombinator.com/item?id=43452185) - [The SeL4 Microkernel: An Introduction [pdf]](https://sel4.systems/About/seL4-whitepaper.pdf)
 * [2025-03-23, 10:11:53](https://news.ycombinator.com/item?id=43451968) - [Aiter: AI Tensor Engine for ROCm](https://rocm.blogs.amd.com/software-tools-optimization/aiter:-ai-tensor-engine-for-rocm™/README.html)
 * [2025-03-23, 09:20:42](https://news.ycombinator.com/item?id=43451760) - [Mruby/C and picoruby: high level langs in low-level devices?](https://github.com/picoruby/picoruby)
-* [2025-03-23, 06:28:18](https://news.ycombinator.com/item?id=43451207) - [The Great Hobby Lobby Artifact Heist](https://meghanboilard.substack.com/p/the-great-hobby-lobby-artifact-heist)
 * [2025-03-22, 01:55:51](https://news.ycombinator.com/item?id=43442588) - [The Wright brothers invented the airplane, right? Not if you're in Brazil](https://www.washingtonpost.com/world/2025/03/21/brazil-airplane-wright-brothers-santos-dumont/)
 * [2025-03-21, 14:30:18](https://news.ycombinator.com/item?id=43436157) - [600M years of shared environmental stress response found in algae and plants](https://phys.org/news/2025-03-million-years-environmental-stress-response.html)
 * [2025-03-21, 11:47:37](https://news.ycombinator.com/item?id=43434503) - [A proof checker meant for education](https://jsiek.github.io/deduce/index.html)
 * [2025-03-21, 10:37:16](https://news.ycombinator.com/item?id=43434010) - [Autology: A Lisp with access to its own interpreter](https://github.com/Kimbsy/autology)
 * [2025-03-21, 09:43:16](https://news.ycombinator.com/item?id=43433648) - [How to create value objects in Ruby – the idiomatic way](https://allaboutcoding.ghinda.com/how-to-create-value-objects-in-ruby-the-idiomatic-way)
 * [2025-03-21, 08:17:19](https://news.ycombinator.com/item?id=43433030) - [The earliest versions of the first C compiler known to exist](https://github.com/mortdeus/legacy-cc)
-* [2025-03-20, 20:19:45](https://news.ycombinator.com/item?id=43428409) - [First Known Photographs of Living Specimens](https://www.inaturalist.org/projects/first-known-photographs-of-living-specimens)
 * [2025-03-19, 19:58:37](https://news.ycombinator.com/item?id=43416605) - [Supply Chain Attacks on Linux Distributions – Fedora Pagure](https://fenrisk.com/pagure)
 
 ## [Archives](archives/index.md)
