@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-03-24, 19:00:00",
+      "https://news.ycombinator.com/item?id=43464299"
+    ],
+    [
+      "Building an idempotent email API with River unique jobs",
+      "https://riverqueue.com/blog/idempotent-email-api-with-river"
+    ]
+  ],
+  [
+    [
       "2025-03-24, 18:52:47",
       "https://news.ycombinator.com/item?id=43464230"
     ],
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2025-03-24, 09:04:43",
+      "https://news.ycombinator.com/item?id=43458780"
+    ],
+    [
+      "The Prospero Challenge",
+      "https://www.mattkeeter.com/projects/prospero/"
+    ]
+  ],
+  [
+    [
       "2025-03-24, 05:51:42",
       "https://news.ycombinator.com/item?id=43458033"
     ],
@@ -147,16 +167,6 @@
     [
       "Project Aardvark: reimagining AI weather prediction",
       "https://www.turing.ac.uk/blog/project-aardvark-reimagining-ai-weather-prediction"
-    ]
-  ],
-  [
-    [
-      "2025-03-23, 23:20:27",
-      "https://news.ycombinator.com/item?id=43456669"
-    ],
-    [
-      "Shift-to-Middle Array: A Faster Alternative to Std:Deque?",
-      "https://github.com/attilatorda/Shift-To-Middle_Array"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The earliest versions of the first C compiler known to exist",
       "https://github.com/mortdeus/legacy-cc"
-    ]
-  ],
-  [
-    [
-      "2025-03-19, 19:58:37",
-      "https://news.ycombinator.com/item?id=43416605"
-    ],
-    [
-      "Supply Chain Attacks on Linux Distributions – Fedora Pagure",
-      "https://fenrisk.com/pagure"
     ]
   ]
 ]
