@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-24, 09:56:12](https://news.ycombinator.com/item?id=43459100) - [Langfuse (YC W23) Is Hiring in Berlin, Germany](https://langfuse.com/careers)
+* [2025-03-24, 09:00:18](https://news.ycombinator.com/item?id=43458759) - [HP avoids monetary damages over bricked printers in class-action settlement](https://arstechnica.com/gadgets/2025/03/hp-avoids-monetary-damages-over-bricked-printers-in-class-action-settlement/)
 * [2025-03-24, 08:49:54](https://news.ycombinator.com/item?id=43458717) - [European Cloud, Global Reach](https://upcloud.com/blog/european-cloud-global-reach)
 * [2025-03-24, 08:38:16](https://news.ycombinator.com/item?id=43458633) - [Rust Additions for GCC 15 Bring Support for If-Let Statements](https://www.phoronix.com/news/GCC-15-Rust-if-let)
 * [2025-03-24, 08:03:16](https://news.ycombinator.com/item?id=43458509) - [Millions are visiting the European Alternatives site. What trends are we seeing?](https://plausible.io/blog/european-alternatives-trends-privacy-tech)
@@ -12,11 +14,10 @@
 * [2025-03-23, 23:33:39](https://news.ycombinator.com/item?id=43456723) - [Project Aardvark: reimagining AI weather prediction](https://www.turing.ac.uk/blog/project-aardvark-reimagining-ai-weather-prediction)
 * [2025-03-23, 23:20:27](https://news.ycombinator.com/item?id=43456669) - [Shift-to-Middle Array: A Faster Alternative to Std:Deque?](https://github.com/attilatorda/Shift-To-Middle_Array)
 * [2025-03-23, 22:18:29](https://news.ycombinator.com/item?id=43456341) - [RDNA 4's “Out-of-Order” Memory Accesses](https://chipsandcheese.com/p/rdna-4s-out-of-order-memory-accesses)
-* [2025-03-23, 21:25:08](https://news.ycombinator.com/item?id=43456030) - [Show HN: My iOS app to practice sight reading (10 years in the App Store)](https://apps.apple.com/us/app/notes-sight-reading-trainer/id874386416)
+* [2025-03-23, 18:52:40](https://news.ycombinator.com/item?id=43454915) - [Show HN: LinkedIn sucks, so I built a better one](https://heyopenspot.com/)
 * [2025-03-23, 18:31:46](https://news.ycombinator.com/item?id=43454785) - [Play the Virtual Organ from Arp Schnitger](https://www.orgelstadt-hamburg.de/play-arp/)
 * [2025-03-23, 15:31:26](https://news.ycombinator.com/item?id=43453582) - [A USB Interface to the \"Mother of All Demos\" Keyset](https://www.righto.com/2025/03/mother-of-all-demos-usb-keyset-interface.html)
 * [2025-03-23, 14:13:20](https://news.ycombinator.com/item?id=43453059) - [Building and Publishing Games to Steam Directly from GitHub Actions](https://nullonerror.org/2025/03/23/building-and-publishing-games-to-steam-directly-from-gitHub-actions/)
-* [2025-03-23, 13:14:15](https://news.ycombinator.com/item?id=43452688) - [Technicalities of Homeworld 2 Backgrounds](https://simonschreibt.de/gat/homeworld-2-backgrounds/)
 * [2025-03-23, 13:05:21](https://news.ycombinator.com/item?id=43452629) - [Show HN: I built website for sharing Drum Patterns](http://drumpatterns.onether.com)
 * [2025-03-23, 12:20:24](https://news.ycombinator.com/item?id=43452430) - [BeeFormer: CF and CBF hybrid approach for recommendation systems](https://github.com/recombee/beeformer)
 * [2025-03-23, 11:24:35](https://news.ycombinator.com/item?id=43452233) - [The Mystery of the Oldest Writing System Remained Unsolved Until 1856](https://www.smithsonianmag.com/history/mystery-worlds-oldest-writing-system-remained-unsolved-until-four-scholars-raced-decipher-it-180985954/)
@@ -28,7 +29,6 @@
 * [2025-03-21, 11:01:00](https://news.ycombinator.com/item?id=43434171) - [LangManus: An Open-Source Manus Agent with LangChain + LangGraph](https://github.com/langmanus/langmanus)
 * [2025-03-21, 08:17:19](https://news.ycombinator.com/item?id=43433030) - [The earliest versions of the first C compiler known to exist](https://github.com/mortdeus/legacy-cc)
 * [2025-03-20, 20:19:45](https://news.ycombinator.com/item?id=43428409) - [First Known Photographs of Living Specimens](https://www.inaturalist.org/projects/first-known-photographs-of-living-specimens)
-* [2025-03-20, 16:50:41](https://news.ycombinator.com/item?id=43425649) - [Spaghetti science: What pasta reveals about the universe](https://www.bbc.com/future/article/20250319-spaghetti-science-what-pasta-reveals-about-the-universe)
 * [2025-03-19, 19:58:37](https://news.ycombinator.com/item?id=43416605) - [Supply Chain Attacks on Linux Distributions – Fedora Pagure](https://fenrisk.com/pagure)
 
 ## [Archives](archives/index.md)
