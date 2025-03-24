@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-03-24, 13:01:11",
+      "https://news.ycombinator.com/item?id=43460583"
+    ],
+    [
+      "Instella: New Open 3B Language Models",
+      "https://rocm.blogs.amd.com/artificial-intelligence/introducing-instella-3B/README.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-24, 10:39:32",
+      "https://news.ycombinator.com/item?id=43459361"
+    ],
+    [
+      "The Game Designer Playing Through His Own Psyche",
+      "https://www.newyorker.com/culture/persons-of-interest/the-game-designer-playing-through-his-own-psyche"
+    ]
+  ],
+  [
+    [
       "2025-03-24, 10:25:19",
       "https://news.ycombinator.com/item?id=43459264"
     ],
     [
       "Japanese scientists use stem cell treatment to restore movement in spinal injury",
       "https://medicalxpress.com/news/2025-03-japanese-scientists-stem-cell-treatment.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-24, 10:21:02",
+      "https://news.ycombinator.com/item?id=43459240"
+    ],
+    [
+      "Show HN: We made an MCP Server so Cursor can build things from REST API docs",
+      "https://www.npmjs.com/package/apidog-mcp-server"
     ]
   ],
   [
@@ -21,16 +51,6 @@
   ],
   [
     [
-      "2025-03-24, 09:00:18",
-      "https://news.ycombinator.com/item?id=43458759"
-    ],
-    [
-      "HP avoids monetary damages over bricked printers in class-action settlement",
-      "https://arstechnica.com/gadgets/2025/03/hp-avoids-monetary-damages-over-bricked-printers-in-class-action-settlement/"
-    ]
-  ],
-  [
-    [
       "2025-03-24, 05:51:42",
       "https://news.ycombinator.com/item?id=43458033"
     ],
@@ -41,22 +61,22 @@
   ],
   [
     [
-      "2025-03-24, 03:48:24",
-      "https://news.ycombinator.com/item?id=43457666"
-    ],
-    [
-      "23andMe files for bankruptcy to sell itself",
-      "https://www.reuters.com/business/healthcare-pharmaceuticals/dna-testing-firm-23andme-files-chapter-11-bankruptcy-sell-itself-2025-03-24/"
-    ]
-  ],
-  [
-    [
       "2025-03-24, 01:29:51",
       "https://news.ycombinator.com/item?id=43457202"
     ],
     [
       "The Vatican's Latinist (2017)",
       "https://newcriterion.com/article/the-vaticans-latinist/"
+    ]
+  ],
+  [
+    [
+      "2025-03-24, 00:35:25",
+      "https://news.ycombinator.com/item?id=43456966"
+    ],
+    [
+      "Move on to ESM-Only",
+      "https://antfu.me/posts/move-on-to-esm-only"
     ]
   ],
   [
@@ -77,6 +97,16 @@
     [
       "Project Aardvark: reimagining AI weather prediction",
       "https://www.turing.ac.uk/blog/project-aardvark-reimagining-ai-weather-prediction"
+    ]
+  ],
+  [
+    [
+      "2025-03-23, 23:20:27",
+      "https://news.ycombinator.com/item?id=43456669"
+    ],
+    [
+      "Shift-to-Middle Array: A Faster Alternative to Std:Deque?",
+      "https://github.com/attilatorda/Shift-To-Middle_Array"
     ]
   ],
   [
@@ -121,42 +151,12 @@
   ],
   [
     [
-      "2025-03-23, 13:14:15",
-      "https://news.ycombinator.com/item?id=43452688"
-    ],
-    [
-      "Technicalities of Homeworld 2 Backgrounds",
-      "https://simonschreibt.de/gat/homeworld-2-backgrounds/"
-    ]
-  ],
-  [
-    [
-      "2025-03-23, 13:08:45",
-      "https://news.ycombinator.com/item?id=43452649"
-    ],
-    [
-      "The Worst Programmer I Know (2023)",
-      "https://dannorth.net/the-worst-programmer/"
-    ]
-  ],
-  [
-    [
       "2025-03-23, 13:05:21",
       "https://news.ycombinator.com/item?id=43452629"
     ],
     [
       "Show HN: I built website for sharing Drum Patterns",
       "http://drumpatterns.onether.com"
-    ]
-  ],
-  [
-    [
-      "2025-03-23, 12:45:21",
-      "https://news.ycombinator.com/item?id=43452525"
-    ],
-    [
-      "argp: GNU-style command line argument parser for Go",
-      "https://github.com/tdewolff/argp"
     ]
   ],
   [
@@ -197,6 +197,16 @@
     [
       "Aiter: AI Tensor Engine for ROCm",
       "https://rocm.blogs.amd.com/software-tools-optimization/aiter:-ai-tensor-engine-for-rocm™/README.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-22, 01:55:51",
+      "https://news.ycombinator.com/item?id=43442588"
+    ],
+    [
+      "The Wright brothers invented the airplane, right? Not if you're in Brazil",
+      "https://www.washingtonpost.com/world/2025/03/21/brazil-airplane-wright-brothers-santos-dumont/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Taming Servers for Fun and Profit",
       "https://blog.railway.com/p/data-center-build-part-two"
-    ]
-  ],
-  [
-    [
-      "2025-03-20, 16:50:41",
-      "https://news.ycombinator.com/item?id=43425649"
-    ],
-    [
-      "Spaghetti science: What pasta reveals about the universe",
-      "https://www.bbc.com/future/article/20250319-spaghetti-science-what-pasta-reveals-about-the-universe"
     ]
   ],
   [
