@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-24, 10:25:19",
+      "https://news.ycombinator.com/item?id=43459264"
+    ],
+    [
+      "Japanese scientists use stem cell treatment to restore movement in spinal injury",
+      "https://medicalxpress.com/news/2025-03-japanese-scientists-stem-cell-treatment.html"
+    ]
+  ],
+  [
+    [
       "2025-03-24, 10:21:02",
       "https://news.ycombinator.com/item?id=43459240"
     ],
@@ -247,16 +257,6 @@
     [
       "A proof checker meant for education",
       "https://jsiek.github.io/deduce/index.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-21, 11:01:00",
-      "https://news.ycombinator.com/item?id=43434171"
-    ],
-    [
-      "LangManus: An Open-Source Manus Agent with LangChain + LangGraph",
-      "https://github.com/langmanus/langmanus"
     ]
   ],
   [
