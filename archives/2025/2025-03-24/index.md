@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-24](index.md)
 
 * [2025-03-24, 19:26:05](https://news.ycombinator.com/item?id=43464541) - [The Peano Axioms: Building Blocks of Arithmetic](https://principlesofcryptography.com/number-theory-primer-an-axiomatic-study-of-natural-numbers-peano-axioms/)
+* [2025-03-24, 19:00:00](https://news.ycombinator.com/item?id=43464299) - [Building an idempotent email API with River unique jobs](https://riverqueue.com/blog/idempotent-email-api-with-river)
 * [2025-03-24, 18:52:47](https://news.ycombinator.com/item?id=43464230) - [Internet Archive Europe – Bringing Collections to Life](https://www.internetarchive.eu/)
 * [2025-03-24, 18:48:34](https://news.ycombinator.com/item?id=43464193) - [Delete Your DNA from 23andMe](https://www.washingtonpost.com/technology/2025/03/24/23andme-dna-privacy-delete/)
 * [2025-03-24, 18:35:12](https://news.ycombinator.com/item?id=43464068) - [Qwen2.5-VL-32B: Smarter and Lighter](https://qwenlm.github.io/blog/qwen2.5-vl-32b/)
@@ -23,6 +24,7 @@
 * [2025-03-24, 10:25:19](https://news.ycombinator.com/item?id=43459264) - [Japanese scientists use stem cell treatment to restore movement in spinal injury](https://medicalxpress.com/news/2025-03-japanese-scientists-stem-cell-treatment.html)
 * [2025-03-24, 10:21:02](https://news.ycombinator.com/item?id=43459240) - [Show HN: We made an MCP Server so that Cursor can build anything from API Docs](https://www.npmjs.com/package/apidog-mcp-server)
 * [2025-03-24, 09:56:12](https://news.ycombinator.com/item?id=43459100) - [Langfuse (YC W23) Is Hiring in Berlin, Germany](https://langfuse.com/careers)
+* [2025-03-24, 09:04:43](https://news.ycombinator.com/item?id=43458780) - [The Prospero Challenge](https://www.mattkeeter.com/projects/prospero/)
 * [2025-03-24, 09:00:18](https://news.ycombinator.com/item?id=43458759) - [HP avoids monetary damages over bricked printers in class-action settlement](https://arstechnica.com/gadgets/2025/03/hp-avoids-monetary-damages-over-bricked-printers-in-class-action-settlement/)
 * [2025-03-24, 08:49:54](https://news.ycombinator.com/item?id=43458717) - [European Cloud, Global Reach](https://upcloud.com/blog/european-cloud-global-reach)
 * [2025-03-24, 08:46:31](https://news.ycombinator.com/item?id=43458693) - [A 1930s movement wanted to merge the US, Canada and Greenland](https://theconversation.com/a-1930s-movement-wanted-to-merge-the-us-canada-and-greenland-heres-why-it-has-modern-resonances-252587)
