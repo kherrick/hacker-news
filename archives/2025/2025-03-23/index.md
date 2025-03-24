@@ -36,6 +36,7 @@
 * [2025-03-23, 12:18:27](https://news.ycombinator.com/item?id=43452421) - [IBM's CEO doesn't think AI will replace programmers anytime soon](https://techcrunch.com/2025/03/11/ibms-ceo-doesnt-think-ai-will-replace-programmers-anytime-soon/)
 * [2025-03-23, 12:15:51](https://news.ycombinator.com/item?id=43452413) - [Hadrius (YC W23) Is Hiring Engineers with Ambitious Career Goals](https://www.ycombinator.com/companies/hadrius/jobs/CObSGR0-founding-software-engineer-tech-lead)
 * [2025-03-23, 11:46:59](https://news.ycombinator.com/item?id=43452320) - [I made \"Character AI\" for learning](https://news.ycombinator.com/item?id=43452320)
+* [2025-03-23, 11:24:35](https://news.ycombinator.com/item?id=43452233) - [The Mystery of the Oldest Writing System Remained Unsolved Until 1856](https://www.smithsonianmag.com/history/mystery-worlds-oldest-writing-system-remained-unsolved-until-four-scholars-raced-decipher-it-180985954/)
 * [2025-03-23, 11:09:28](https://news.ycombinator.com/item?id=43452185) - [The SeL4 Microkernel: An Introduction [pdf]](https://sel4.systems/About/seL4-whitepaper.pdf)
 * [2025-03-23, 11:04:47](https://news.ycombinator.com/item?id=43452177) - [Show HN: NPM-Audit-to-Report](https://github.com/egorsmkv/npm-audit-to-report)
 * [2025-03-23, 10:11:53](https://news.ycombinator.com/item?id=43451968) - [Aiter: AI Tensor Engine for ROCm](https://rocm.blogs.amd.com/software-tools-optimization/aiter:-ai-tensor-engine-for-rocm™/README.html)
