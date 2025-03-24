@@ -25,9 +25,9 @@
 * [2025-03-21, 11:01:00](https://news.ycombinator.com/item?id=43434171) - [LangManus: An Open-Source Manus Agent with LangChain + LangGraph](https://github.com/langmanus/langmanus)
 * [2025-03-21, 10:37:16](https://news.ycombinator.com/item?id=43434010) - [Autology: A Lisp with access to its own interpreter](https://github.com/Kimbsy/autology)
 * [2025-03-21, 08:17:19](https://news.ycombinator.com/item?id=43433030) - [The earliest versions of the first C compiler known to exist](https://github.com/mortdeus/legacy-cc)
+* [2025-03-21, 00:52:40](https://news.ycombinator.com/item?id=43430772) - [DoorDash Offering Payment Plans for Food Delivery Sparks Backlash](https://www.newsweek.com/doordash-klarna-buy-now-pay-later-backlash-2048262)
 * [2025-03-20, 20:19:45](https://news.ycombinator.com/item?id=43428409) - [First Known Photographs of Living Specimens](https://www.inaturalist.org/projects/first-known-photographs-of-living-specimens)
 * [2025-03-20, 19:08:25](https://news.ycombinator.com/item?id=43427595) - [Taming Servers for Fun and Profit](https://blog.railway.com/p/data-center-build-part-two)
-* [2025-03-20, 17:07:11](https://news.ycombinator.com/item?id=43425855) - [Euclid opens data treasure trove, offers glimpse of deep fields](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_opens_data_treasure_trove_offers_glimpse_of_deep_fields)
 * [2025-03-20, 16:50:41](https://news.ycombinator.com/item?id=43425649) - [Spaghetti science: What pasta reveals about the universe](https://www.bbc.com/future/article/20250319-spaghetti-science-what-pasta-reveals-about-the-universe)
 * [2025-03-19, 19:58:37](https://news.ycombinator.com/item?id=43416605) - [Supply Chain Attacks on Linux Distributions – Fedora Pagure](https://fenrisk.com/pagure)
 
