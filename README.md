@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-24, 03:48:24](https://news.ycombinator.com/item?id=43457666) - [DNA testing firm 23andMe files for bankruptcy to sell itself](https://www.reuters.com/business/healthcare-pharmaceuticals/dna-testing-firm-23andme-files-chapter-11-bankruptcy-sell-itself-2025-03-24/)
 * [2025-03-24, 02:54:42](https://news.ycombinator.com/item?id=43457483) - [The persistent mischaracterization of Google and Facebook A/B tests](https://www.sciencedirect.com/science/article/pii/S0167811624001149)
 * [2025-03-24, 01:29:51](https://news.ycombinator.com/item?id=43457202) - [The Vatican's Latinist: On the Career of Reginald Foster. (2017)](https://newcriterion.com/article/the-vaticans-latinist/)
 * [2025-03-24, 00:35:25](https://news.ycombinator.com/item?id=43456966) - [Move on to ESM-Only](https://antfu.me/posts/move-on-to-esm-only)
@@ -26,7 +27,6 @@
 * [2025-03-20, 20:19:45](https://news.ycombinator.com/item?id=43428409) - [First Known Photographs of Living Specimens](https://www.inaturalist.org/projects/first-known-photographs-of-living-specimens)
 * [2025-03-20, 17:07:11](https://news.ycombinator.com/item?id=43425855) - [Euclid opens data treasure trove, offers glimpse of deep fields](https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_opens_data_treasure_trove_offers_glimpse_of_deep_fields)
 * [2025-03-20, 16:50:41](https://news.ycombinator.com/item?id=43425649) - [Spaghetti science: What pasta reveals about the universe](https://www.bbc.com/future/article/20250319-spaghetti-science-what-pasta-reveals-about-the-universe)
-* [2025-03-20, 15:32:46](https://news.ycombinator.com/item?id=43424709) - [The Myth of Liquid Detection](https://eclecticlight.co/2025/03/16/last-week-on-my-mac-the-myth-of-liquid-detection/)
 * [2025-03-20, 05:46:44](https://news.ycombinator.com/item?id=43420167) - [Andromeda XXXV: The Faintest Dwarf Satellite of the Andromeda Galaxy](https://iopscience.iop.org/article/10.3847/2041-8213/adb433)
 * [2025-03-19, 19:58:37](https://news.ycombinator.com/item?id=43416605) - [Supply Chain Attacks on Linux Distributions – Fedora Pagure](https://fenrisk.com/pagure)
 * [2025-03-19, 17:17:06](https://news.ycombinator.com/item?id=43414743) - [Feral pig meat transmits rare bacteria](https://arstechnica.com/health/2025/03/florida-man-eats-feral-pig-meat-contracts-rare-biothreat-bacteria/)
