@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-24, 16:35:07](https://news.ycombinator.com/item?id=43462882) - [Project Operation Whitecoat Military Human Experimentation on 7th Day Adventists (2010)](https://scholarworks.lib.csusb.edu/cgi/viewcontent.cgi?article=1201&context=history-in-the-making)
 * [2025-03-24, 16:05:47](https://news.ycombinator.com/item?id=43462593) - [Deregulated energy markets accelerate solar adoption](https://seanobannon.substack.com/p/renewable-energy-adoption-and-the)
+* [2025-03-24, 15:40:08](https://news.ycombinator.com/item?id=43462299) - [Mastering Delphi 5 2025 Annotated Edition Is Now Complete](https://blog.marcocantu.com/blog/2025-march-mastering-delphi5-annotated-complete.html)
 * [2025-03-24, 14:45:34](https://news.ycombinator.com/item?id=43461701) - [Triforce – a beamformer for Apple Silicon laptops](https://crates.io/crates/triforce-lv2)
 * [2025-03-24, 14:15:17](https://news.ycombinator.com/item?id=43461375) - [Goblin.tools: simple, single-task tools to help neurodivergent people with tasks](https://goblin.tools/)
 * [2025-03-24, 10:39:32](https://news.ycombinator.com/item?id=43459361) - [The Game Designer Playing Through His Own Psyche](https://www.newyorker.com/culture/persons-of-interest/the-game-designer-playing-through-his-own-psyche)
@@ -13,7 +15,6 @@
 * [2025-03-23, 23:20:27](https://news.ycombinator.com/item?id=43456669) - [Shift-to-Middle Array: A Faster Alternative to Std:Deque?](https://github.com/attilatorda/Shift-To-Middle_Array)
 * [2025-03-23, 21:25:08](https://news.ycombinator.com/item?id=43456030) - [Show HN: My iOS app to practice sight reading (10 years in the App Store)](https://apps.apple.com/us/app/notes-sight-reading-trainer/id874386416)
 * [2025-03-23, 18:52:40](https://news.ycombinator.com/item?id=43454915) - [Show HN: LinkedIn sucks, so I built a better one](https://heyopenspot.com/)
-* [2025-03-23, 18:31:46](https://news.ycombinator.com/item?id=43454785) - [Play the Virtual Organ from Arp Schnitger](https://www.orgelstadt-hamburg.de/play-arp/)
 * [2025-03-23, 15:31:26](https://news.ycombinator.com/item?id=43453582) - [A USB Interface to the \"Mother of All Demos\" Keyset](https://www.righto.com/2025/03/mother-of-all-demos-usb-keyset-interface.html)
 * [2025-03-23, 13:05:21](https://news.ycombinator.com/item?id=43452629) - [Show HN: I built website for sharing Drum Patterns](http://drumpatterns.onether.com)
 * [2025-03-23, 12:20:24](https://news.ycombinator.com/item?id=43452430) - [BeeFormer: CF and CBF hybrid approach for recommendation systems](https://github.com/recombee/beeformer)
@@ -28,7 +29,6 @@
 * [2025-03-21, 11:01:00](https://news.ycombinator.com/item?id=43434171) - [LangManus: An Open-Source Manus Agent with LangChain + LangGraph](https://github.com/langmanus/langmanus)
 * [2025-03-21, 10:37:16](https://news.ycombinator.com/item?id=43434010) - [Autology: A Lisp with access to its own interpreter](https://github.com/Kimbsy/autology)
 * [2025-03-21, 08:17:19](https://news.ycombinator.com/item?id=43433030) - [The earliest versions of the first C compiler known to exist](https://github.com/mortdeus/legacy-cc)
-* [2025-03-20, 20:19:45](https://news.ycombinator.com/item?id=43428409) - [First Known Photographs of Living Specimens](https://www.inaturalist.org/projects/first-known-photographs-of-living-specimens)
 * [2025-03-19, 19:58:37](https://news.ycombinator.com/item?id=43416605) - [Supply Chain Attacks on Linux Distributions – Fedora Pagure](https://fenrisk.com/pagure)
 
 ## [Archives](archives/index.md)
