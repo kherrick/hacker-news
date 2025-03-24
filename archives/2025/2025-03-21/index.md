@@ -36,6 +36,7 @@
 * [2025-03-21, 15:35:27](https://news.ycombinator.com/item?id=43436894) - [IronRDP: a Rust implementation of Microsoft's RDP protocol](https://github.com/Devolutions/IronRDP)
 * [2025-03-21, 15:13:35](https://news.ycombinator.com/item?id=43436663) - [Metabolism Can Shape Cells' Destinies](https://www.quantamagazine.org/how-metabolism-can-shape-cells-destinies-20250321/)
 * [2025-03-21, 15:11:18](https://news.ycombinator.com/item?id=43436643) - [Police-Induced Confessions, 2.0: Risk Factors and Recommendations](https://psycnet.apa.org/fulltext/2025-79126-001.html)
+* [2025-03-21, 15:04:16](https://news.ycombinator.com/item?id=43436551) - [Total lunar eclipse over Teide crater, Tenerife – a project with many obstacles](https://lrtimelapse.com/news/total-lunar-eclipse-over-teide-crater-tenerife/)
 * [2025-03-21, 14:54:22](https://news.ycombinator.com/item?id=43436454) - [The Road Not Taken Is Guaranteed Minimum Income](https://blog.codinghorror.com/the-road-not-taken-is-guaranteed-minimum-income/)
 * [2025-03-21, 14:44:30](https://news.ycombinator.com/item?id=43436315) - [Congestion Pricing Is a Policy Miracle](https://bettercities.substack.com/p/congestion-pricing-is-a-policy-miracle)
 * [2025-03-21, 13:29:11](https://news.ycombinator.com/item?id=43435438) - [Show HN: Torch Lens Maker – Differentiable Geometric Optics in PyTorch](https://victorpoughon.github.io/torchlensmaker/)

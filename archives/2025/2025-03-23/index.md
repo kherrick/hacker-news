@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-23](index.md)
 
+* [2025-03-23, 23:33:39](https://news.ycombinator.com/item?id=43456723) - [English Scientists Develop Fast, High-Quality AI Weather Model for Desktops](https://www.turing.ac.uk/blog/project-aardvark-reimagining-ai-weather-prediction)
 * [2025-03-23, 23:20:27](https://news.ycombinator.com/item?id=43456669) - [Shift-to-Middle Array: A Faster Alternative to Std:Deque?](https://github.com/attilatorda/Shift-To-Middle_Array)
 * [2025-03-23, 22:20:47](https://news.ycombinator.com/item?id=43456355) - [Sharing My USPS Mail Alerts Apps Script](https://taslim.xyz/blog/2025/sharing-my-usps-mail-alerts-apps-script/)
 * [2025-03-23, 22:18:29](https://news.ycombinator.com/item?id=43456341) - [RDNA 4's \"Out-of-Order\" Memory Accesses](https://chipsandcheese.com/p/rdna-4s-out-of-order-memory-accesses)
