@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-24, 08:06:45](https://news.ycombinator.com/item?id=43458528) - [Curtis Yarvin Says Democracy Is Done. Powerful Conservatives Are Listening](https://www.nytimes.com/2025/01/18/magazine/curtis-yarvin-interview.html)
+* [2025-03-24, 07:31:20](https://news.ycombinator.com/item?id=43458409) - [Did you spot a fish? Press the Fish Doorbell](https://visdeurbel.nl/en/)
 * [2025-03-24, 03:48:24](https://news.ycombinator.com/item?id=43457666) - [23andMe files for bankruptcy to sell itself](https://www.reuters.com/business/healthcare-pharmaceuticals/dna-testing-firm-23andme-files-chapter-11-bankruptcy-sell-itself-2025-03-24/)
 * [2025-03-24, 01:29:51](https://news.ycombinator.com/item?id=43457202) - [The Vatican's Latinist (2017)](https://newcriterion.com/article/the-vaticans-latinist/)
 * [2025-03-24, 01:23:34](https://news.ycombinator.com/item?id=43457180) - [63 Chinese Cuisines: The Complete Guide (2024)](https://chinesecookingdemystified.substack.com/p/63-chinese-cuisines-the-complete)
