@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-03-24, 21:07:37",
-      "https://news.ycombinator.com/item?id=43465424"
-    ],
-    [
-      "Multiple vulnerabilities in ingress-Nginx (Score 9.8)",
-      "https://groups.google.com/g/kubernetes-security-announce/c/2qa9DFtN0cQ"
-    ]
-  ],
-  [
-    [
       "2025-03-24, 20:58:34",
       "https://news.ycombinator.com/item?id=43465346"
     ],
@@ -51,6 +41,16 @@
   ],
   [
     [
+      "2025-03-24, 20:38:15",
+      "https://news.ycombinator.com/item?id=43465170"
+    ],
+    [
+      "The rage bait economy is going strong [video]",
+      "https://www.youtube.com/watch?v=Ah6AB33JUgU"
+    ]
+  ],
+  [
+    [
       "2025-03-24, 20:08:25",
       "https://news.ycombinator.com/item?id=43464914"
     ],
@@ -67,16 +67,6 @@
     [
       "The Peano Axioms: Building Blocks of Arithmetic",
       "https://principlesofcryptography.com/number-theory-primer-an-axiomatic-study-of-natural-numbers-peano-axioms/"
-    ]
-  ],
-  [
-    [
-      "2025-03-24, 19:00:00",
-      "https://news.ycombinator.com/item?id=43464299"
-    ],
-    [
-      "Building an idempotent email API with River unique jobs",
-      "https://riverqueue.com/blog/idempotent-email-api-with-river"
     ]
   ],
   [
@@ -141,6 +131,16 @@
   ],
   [
     [
+      "2025-03-24, 10:25:19",
+      "https://news.ycombinator.com/item?id=43459264"
+    ],
+    [
+      "Japanese scientists use stem cell treatment to restore movement in spinal injury",
+      "https://medicalxpress.com/news/2025-03-japanese-scientists-stem-cell-treatment.html"
+    ]
+  ],
+  [
+    [
       "2025-03-24, 09:56:12",
       "https://news.ycombinator.com/item?id=43459100"
     ],
@@ -167,6 +167,16 @@
     [
       "Researchers search for more precise ways to measure pain",
       "https://www.washingtonpost.com/science/2025/03/23/pain-measure-precision-research/"
+    ]
+  ],
+  [
+    [
+      "2025-03-24, 01:29:51",
+      "https://news.ycombinator.com/item?id=43457202"
+    ],
+    [
+      "The Vatican's Latinist (2017)",
+      "https://newcriterion.com/article/the-vaticans-latinist/"
     ]
   ],
   [
@@ -201,12 +211,12 @@
   ],
   [
     [
-      "2025-03-23, 12:05:31",
-      "https://news.ycombinator.com/item?id=43452382"
+      "2025-03-23, 13:05:21",
+      "https://news.ycombinator.com/item?id=43452629"
     ],
     [
-      "The HTML Review",
-      "https://thehtml.review/04/"
+      "Show HN: I built website for sharing Drum Patterns",
+      "http://drumpatterns.onether.com"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Autology: A Lisp with access to its own interpreter",
       "https://github.com/Kimbsy/autology"
-    ]
-  ],
-  [
-    [
-      "2025-03-21, 09:43:16",
-      "https://news.ycombinator.com/item?id=43433648"
-    ],
-    [
-      "How to create value objects in Ruby – the idiomatic way",
-      "https://allaboutcoding.ghinda.com/how-to-create-value-objects-in-ruby-the-idiomatic-way"
     ]
   ],
   [
