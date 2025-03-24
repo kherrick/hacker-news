@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-24, 22:50:47](https://news.ycombinator.com/item?id=43466221) - [Gatehouse – a composable, async-friendly authorization policy framework in Rust](https://github.com/thepartly/gatehouse)
 * [2025-03-24, 21:20:13](https://news.ycombinator.com/item?id=43465508) - [Intel: A Bug and a Pro – By Bradford Morgan White](https://www.abortretry.fail/p/intel-a-bug-and-a-pro)
 * [2025-03-24, 20:47:23](https://news.ycombinator.com/item?id=43465256) - [Mathematicians uncover the logic behind how people walk in crowds](https://news.mit.edu/2025/mathematicians-uncover-logic-behind-how-crowds-walk-0324)
 * [2025-03-24, 20:40:21](https://news.ycombinator.com/item?id=43465189) - [Aircraft Detection at Planetary Scale](https://www.planet.com/pulse/aircraft-detection-at-planetary-scale/)
 * [2025-03-24, 20:35:30](https://news.ycombinator.com/item?id=43465147) - [Arc-AGI-2 and ARC Prize 2025](https://arcprize.org/blog/announcing-arc-agi-2-and-arc-prize-2025)
 * [2025-03-24, 20:08:25](https://news.ycombinator.com/item?id=43464914) - [Cottagecore Programmers](https://tjmorley.com/blogposts/cottagecoreprogrammers.html)
 * [2025-03-24, 19:26:05](https://news.ycombinator.com/item?id=43464541) - [The Peano Axioms: Building Blocks of Arithmetic](https://principlesofcryptography.com/number-theory-primer-an-axiomatic-study-of-natural-numbers-peano-axioms/)
-* [2025-03-24, 19:02:15](https://news.ycombinator.com/item?id=43464320) - [Show HN: XYMake – Turn Your Posts into LLM-Ready Data](https://xymake.com)
 * [2025-03-24, 18:35:12](https://news.ycombinator.com/item?id=43464068) - [Qwen2.5-VL-32B: Smarter and Lighter](https://qwenlm.github.io/blog/qwen2.5-vl-32b/)
 * [2025-03-24, 17:09:07](https://news.ycombinator.com/item?id=43463200) - [I won't connect my dishwasher to your cloud](https://www.jeffgeerling.com/blog/2025/i-wont-connect-my-dishwasher-your-stupid-cloud)
 * [2025-03-24, 16:35:07](https://news.ycombinator.com/item?id=43462882) - [Project Operation Whitecoat (2010)](https://scholarworks.lib.csusb.edu/cgi/viewcontent.cgi?article=1201&context=history-in-the-making)
