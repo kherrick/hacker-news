@@ -1,22 +1,32 @@
 [
   [
     [
-      "2025-03-25, 12:10:22",
-      "https://news.ycombinator.com/item?id=43470269"
+      "2025-03-25, 13:11:03",
+      "https://news.ycombinator.com/item?id=43470763"
     ],
     [
-      "Deregulation in Argentina: Milei Takes \"Deep Chainsaw\" to Bureaucracy",
-      "https://www.cato.org/free-society/spring-2025/deregulation-argentina-milei-takes-deep-chainsaw-bureaucracy-red-tape"
+      "Tesla deliveries down 43% in Europe while EVs are up 31%",
+      "https://electrek.co/2025/03/25/tesla-tsla-deliveries-down-43-in-europe-while-evs-are-up-28/"
     ]
   ],
   [
     [
-      "2025-03-25, 11:32:15",
-      "https://news.ycombinator.com/item?id=43470010"
+      "2025-03-25, 13:04:54",
+      "https://news.ycombinator.com/item?id=43470699"
     ],
     [
-      "Palantir suggests 'common operating system' for UK govt data",
-      "https://www.theregister.com/2025/03/25/palantir_covid_inquiry_comments/"
+      "Samsung CEO Jong-hee Han has died",
+      "https://www.engadget.com/big-tech/samsung-ceo-jong-hee-han-has-died-120029286.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-25, 12:54:59",
+      "https://news.ycombinator.com/item?id=43470613"
+    ],
+    [
+      "X's head of engineering is out",
+      "https://www.theverge.com/twitter/634833/x-head-engineering-leaves-elon-musk"
     ]
   ],
   [
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=43469711"
     ],
     [
-      "Closing Keynote with Leslie Lamport at Scale 22x: Coding Isn't Programming",
+      "Coding Isn't Programming",
       "https://www.socallinuxexpo.org/scale/22x/presentations/closing-keynote-leslie-lamport"
     ]
   ],
@@ -57,6 +67,16 @@
     [
       "High‑dose Vitamin D reduces disease activity in early multiple sclerosis onset",
       "https://medicalxpress.com/news/2025-03-highdose-vitamin-d-significantly-disease.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-25, 10:12:17",
+      "https://news.ycombinator.com/item?id=43469629"
+    ],
+    [
+      "9.8 Critical Vulnerabilities in Ingress Nginx",
+      "https://www.wiz.io/blog/ingress-nginx-kubernetes-vulnerabilities"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-03-23, 06:52:59",
-      "https://news.ycombinator.com/item?id=43451279"
-    ],
-    [
-      "MRubyD: A new mruby virtual machine implemented in pure C#",
-      "https://github.com/hadashiA/MRubyD"
-    ]
-  ],
-  [
-    [
       "2025-03-23, 05:58:35",
       "https://news.ycombinator.com/item?id=43451141"
     ],
@@ -287,16 +297,6 @@
     [
       "Brain Scans of Infants Reveal the Moment We Start Making Memories",
       "https://singularityhub.com/2025/03/20/new-baby-brain-scans-reveal-the-moment-we-start-making-memories/"
-    ]
-  ],
-  [
-    [
-      "2025-03-21, 08:17:19",
-      "https://news.ycombinator.com/item?id=43433030"
-    ],
-    [
-      "The earliest versions of the first C compiler known to exist",
-      "https://github.com/mortdeus/legacy-cc"
     ]
   ]
 ]
