@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2025-03-25](index.md)
 
 * [2025-03-25, 06:59:44](https://news.ycombinator.com/item?id=43468666) - [Status as a Service (2019)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
+* [2025-03-25, 06:52:22](https://news.ycombinator.com/item?id=43468637) - [The Lost Art of Commit Messages](https://www.seyhan.me/blog/post/lost-art-of-commit-messages)
 * [2025-03-25, 06:09:11](https://news.ycombinator.com/item?id=43468491) - [Reflecting on WikiTok](https://www.aizk.sh/posts/reflecting-on-wikitok)
+* [2025-03-25, 05:50:36](https://news.ycombinator.com/item?id=43468435) - [Why we chose LangGraph to build our coding agent](https://www.qodo.ai/blog/why-we-chose-langgraph-to-build-our-coding-agent/)
 * [2025-03-25, 04:47:47](https://news.ycombinator.com/item?id=43468197) - [David Lynch Presents Interview Project](https://www.youtube.com/channel/UC4lrTWEywA3JfR-N_dv0d4A)
 * [2025-03-25, 03:38:59](https://news.ycombinator.com/item?id=43467911) - [White House Says Gold Reserves May Be Used to Purchase Bitcoin](https://finance.yahoo.com/news/white-house-says-gold-reserves-213421472.html)
 * [2025-03-25, 02:49:02](https://news.ycombinator.com/item?id=43467681) - [Chatbots could spark the next big mental health crisis](https://www.platformer.news/openai-chatgpt-mental-health-well-being/)
