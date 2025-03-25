@@ -16,7 +16,6 @@
 * [2025-03-24, 14:45:34](https://news.ycombinator.com/item?id=43461701) - [Triforce – a beamformer for Apple Silicon laptops](https://github.com/chadmed/triforce)
 * [2025-03-24, 09:04:43](https://news.ycombinator.com/item?id=43458780) - [The Prospero Challenge](https://www.mattkeeter.com/projects/prospero/)
 * [2025-03-24, 03:57:02](https://news.ycombinator.com/item?id=43457699) - [Researchers search for more precise ways to measure pain](https://www.washingtonpost.com/science/2025/03/23/pain-measure-precision-research/)
-* [2025-03-23, 23:33:39](https://news.ycombinator.com/item?id=43456723) - [Project Aardvark: reimagining AI weather prediction](https://www.turing.ac.uk/blog/project-aardvark-reimagining-ai-weather-prediction)
 * [2025-03-23, 18:52:40](https://news.ycombinator.com/item?id=43454915) - [Show HN: LinkedIn sucks, so I built a better one](https://heyopenspot.com/)
 * [2025-03-23, 12:58:41](https://news.ycombinator.com/item?id=43452588) - [The Lost Towers of the Guelph-Ghibelline Wars](https://www.exurbe.com/the-lost-towers-of-the-guelph-ghibelline-wars/)
 * [2025-03-23, 06:52:59](https://news.ycombinator.com/item?id=43451279) - [MRubyD: A new mruby virtual machine implemented in pure C#](https://github.com/hadashiA/MRubyD)
@@ -29,6 +28,7 @@
 * [2025-03-21, 16:32:30](https://news.ycombinator.com/item?id=43437725) - [Brain Scans of Infants Reveal the Moment We Start Making Memories](https://singularityhub.com/2025/03/20/new-baby-brain-scans-reveal-the-moment-we-start-making-memories/)
 * [2025-03-21, 14:30:18](https://news.ycombinator.com/item?id=43436157) - [600M years of shared environmental stress response found in algae and plants](https://phys.org/news/2025-03-million-years-environmental-stress-response.html)
 * [2025-03-21, 10:37:16](https://news.ycombinator.com/item?id=43434010) - [Autology: A Lisp with access to its own interpreter](https://github.com/Kimbsy/autology)
+* [2025-03-21, 08:44:25](https://news.ycombinator.com/item?id=43433233) - [Teardown, Optimization: Comsol 8Gb USB Flash Stick (2015)](https://goughlui.com/2015/04/05/teardown-optimization-comsol-8gb-usb-flash-stick-au6989sn-gt-sdtnrcama-008g/)
 * [2025-03-21, 08:17:19](https://news.ycombinator.com/item?id=43433030) - [The earliest versions of the first C compiler known to exist](https://github.com/mortdeus/legacy-cc)
 
 ## [Archives](archives/index.md)

@@ -60,6 +60,7 @@
 * [2025-03-21, 09:50:57](https://news.ycombinator.com/item?id=43433694) - [The FBI Seized This Woman's Life Savings–Without Telling Her Why](https://reason.com/2025/03/20/the-fbi-seized-this-womans-life-savings-without-telling-her-why/)
 * [2025-03-21, 09:43:16](https://news.ycombinator.com/item?id=43433648) - [How to create value objects in Ruby – the idiomatic way](https://allaboutcoding.ghinda.com/how-to-create-value-objects-in-ruby-the-idiomatic-way)
 * [2025-03-21, 09:35:33](https://news.ycombinator.com/item?id=43433599) - [Numbering should start at zero: E.W. Dijkstra](https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD831.html)
+* [2025-03-21, 08:44:25](https://news.ycombinator.com/item?id=43433233) - [Teardown, Optimization: Comsol 8Gb USB Flash Stick (2015)](https://goughlui.com/2015/04/05/teardown-optimization-comsol-8gb-usb-flash-stick-au6989sn-gt-sdtnrcama-008g/)
 * [2025-03-21, 08:23:37](https://news.ycombinator.com/item?id=43433071) - [Germany tightens travel advice to US after three citizens detained](https://www.euronews.com/my-europe/2025/03/19/germany-tightens-travel-advice-to-us-after-three-citizens-detained)
 * [2025-03-21, 08:17:19](https://news.ycombinator.com/item?id=43433030) - [The earliest versions of the first C compiler known to exist](https://github.com/mortdeus/legacy-cc)
 * [2025-03-21, 07:56:29](https://news.ycombinator.com/item?id=43432890) - [Calibre 8.0 Release](https://calibre-ebook.com/whats-new)
