@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-25](index.md)
 
+* [2025-03-25, 14:57:59](https://news.ycombinator.com/item?id=43472143) - [My Favorite C++ Pattern: X Macros (2023)](https://danilafe.com/blog/chapel_x_macros/)
 * [2025-03-25, 14:04:31](https://news.ycombinator.com/item?id=43471482) - [Chrono Trigger Still Blows Me Away 30 Years Later](https://kotaku.com/chrono-trigger-jrpg-snes-30th-anniversary-square-1851769192)
 * [2025-03-25, 13:58:07](https://news.ycombinator.com/item?id=43471393) - [Beej's Guide to C Programming [pdf]](https://beej.us/guide/bgc/pdf/bgc_a4_c_1.pdf)
 * [2025-03-25, 13:46:49](https://news.ycombinator.com/item?id=43471242) - [Tokyo court orders former Unification Church to disban](https://www3.nhk.or.jp/nhkworld/en/news/20250325_13/)
@@ -11,6 +12,7 @@
 * [2025-03-25, 13:40:59](https://news.ycombinator.com/item?id=43471177) - [If you get the chance, always run more extra network fiber cabling](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RunMoreExtraNetworkFiber)
 * [2025-03-25, 13:37:35](https://news.ycombinator.com/item?id=43471134) - [The Phony Comforts of AI Optimism](https://www.wheresyoured.at/optimistic-cowardice/)
 * [2025-03-25, 13:32:04](https://news.ycombinator.com/item?id=43471062) - [Marginalia Search receives second nlnet grant](https://www.marginalia.nu/log/a_116_grant_2.0/)
+* [2025-03-25, 13:26:01](https://news.ycombinator.com/item?id=43470971) - [What Killed Innovation?](https://www.shirleywu.studio/notebook/2025-02-innovation-killer)
 * [2025-03-25, 13:22:09](https://news.ycombinator.com/item?id=43470906) - [OpenID Coming to SSH](https://blog.cloudflare.com/open-sourcing-openpubkey-ssh-opkssh-integrating-single-sign-on-with-ssh/)
 * [2025-03-25, 13:13:03](https://news.ycombinator.com/item?id=43470786) - [An AI bubble threatens Silicon Valley, and all of us](https://prospect.org/power/2025-03-25-bubble-trouble-ai-threat/)
 * [2025-03-25, 13:11:03](https://news.ycombinator.com/item?id=43470763) - [Tesla deliveries down 43% in Europe while EVs are up 31%](https://electrek.co/2025/03/25/tesla-tsla-deliveries-down-43-in-europe-while-evs-are-up-28/)
