@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-25, 06:59:44](https://news.ycombinator.com/item?id=43468666) - [Status as a Service (2019)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
+* [2025-03-25, 06:09:11](https://news.ycombinator.com/item?id=43468491) - [Reflecting on WikiTok](https://www.aizk.sh/posts/reflecting-on-wikitok)
 * [2025-03-25, 04:47:47](https://news.ycombinator.com/item?id=43468197) - [David Lynch Presents Interview Project](https://www.youtube.com/channel/UC4lrTWEywA3JfR-N_dv0d4A)
 * [2025-03-25, 02:19:03](https://news.ycombinator.com/item?id=43467541) - [Search My Site – open-source search engine for personal and independent websites](https://searchmysite.net)
 * [2025-03-24, 23:29:03](https://news.ycombinator.com/item?id=43466509) - [German parliament votes as a Git contribution graph](https://abstimmung.eu/git/2024)
@@ -22,7 +23,6 @@
 * [2025-03-23, 05:58:35](https://news.ycombinator.com/item?id=43451141) - [Show HN: I'm a teacher and built an AI presentation tool](https://news.ycombinator.com/item?id=43451141)
 * [2025-03-23, 04:18:46](https://news.ycombinator.com/item?id=43450884) - [Rickover's Lessons](https://www.chinatalk.media/p/rickovers-lessons-how-to-build-a)
 * [2025-03-22, 21:52:58](https://news.ycombinator.com/item?id=43448933) - [WWI's 'Dazzle' Camouflage Seemed Effective Due to Unexpected Optical Trick](https://gizmodo.com/wwis-famous-dazzle-camouflage-seemed-effective-due-to-unexpected-optical-trick-study-finds-2000577568)
-* [2025-03-22, 01:55:51](https://news.ycombinator.com/item?id=43442588) - [The Wright brothers invented the airplane, right? Not if you're in Brazil](https://www.washingtonpost.com/world/2025/03/21/brazil-airplane-wright-brothers-santos-dumont/)
 * [2025-03-21, 21:41:18](https://news.ycombinator.com/item?id=43441082) - [CO2 laser enables long-range detection of radioactive material](https://physicsworld.com/a/co2-laser-enables-long-range-detection-of-radioactive-material/)
 * [2025-03-21, 18:10:19](https://news.ycombinator.com/item?id=43439138) - [Can Parrot Brains Teach Us About Human Speech?](https://www.smithsonianmag.com/smart-news/can-parrot-brains-teach-us-about-human-speech-study-finds-budgies-have-language-producing-regions-that-resemble-our-own-180986282/)
 * [2025-03-21, 16:32:30](https://news.ycombinator.com/item?id=43437725) - [Brain Scans of Infants Reveal the Moment We Start Making Memories](https://singularityhub.com/2025/03/20/new-baby-brain-scans-reveal-the-moment-we-start-making-memories/)
