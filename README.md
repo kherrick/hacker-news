@@ -2,7 +2,6 @@
 
 * [2025-03-25, 18:59:22](https://news.ycombinator.com/item?id=43474593) - [In Jail Without a Lawyer: How a Texas Town Fails Poor Defendants](https://www.nytimes.com/2025/03/25/us/maverick-county-texas-court-system.html)
 * [2025-03-25, 18:48:57](https://news.ycombinator.com/item?id=43474505) - [The highest-ranking personal blogs of Hacker News](https://refactoringenglish.com/tools/hn-popularity/)
-* [2025-03-25, 18:21:30](https://news.ycombinator.com/item?id=43474250) - [The Ethics of Spreading Life in the Cosmos](https://www.centauri-dreams.org/2025/03/25/the-ethics-of-spreading-life-in-the-cosmos/)
 * [2025-03-25, 18:06:02](https://news.ycombinator.com/item?id=43474112) - [4o Image Generation](https://openai.com/index/introducing-4o-image-generation/)
 * [2025-03-25, 17:17:05](https://news.ycombinator.com/item?id=43473623) - [Whose code am I running in GitHub Actions?](https://alexwlchan.net/2025/github-actions-audit/)
 * [2025-03-25, 17:16:45](https://news.ycombinator.com/item?id=43473618) - [Stoop Coffee: A simple idea transformed my neighborhood](https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed)
@@ -24,6 +23,7 @@
 * [2025-03-24, 16:23:55](https://news.ycombinator.com/item?id=43462783) - [U.S. national-security leaders included me in a group chat](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/)
 * [2025-03-23, 13:19:07](https://news.ycombinator.com/item?id=43452725) - [Chicago-Sized Iceberg Hid Ancient Ecosystem, Scientists Reveal](https://gizmodo.com/chicago-sized-iceberg-hid-ancient-ecosystem-scientists-reveal-2000579125)
 * [2025-03-23, 09:07:17](https://news.ycombinator.com/item?id=43451700) - [Polypane, The browser for ambitious web developers](https://polypane.app/)
+* [2025-03-23, 06:55:11](https://news.ycombinator.com/item?id=43451285) - [Ruby, Ractors, and Lock-Free Data Structures](https://iliabylich.github.io/ruby-ractors-and-lock-free-data-structures/)
 * [2025-03-23, 06:32:19](https://news.ycombinator.com/item?id=43451222) - [Show HN: Fingernotes – handwritten notes which become their own preview image](https://fingernotes.com/note/97513380)
 * [2025-03-22, 23:37:43](https://news.ycombinator.com/item?id=43449608) - [AMC Theatres will screen a Swedish movie 'visually dubbed' with the help of AI](https://www.engadget.com/ai/amc-theatres-will-screen-a-swedish-movie-visually-dubbed-with-the-help-of-ai-130022232.html)
 * [2025-03-21, 20:12:49](https://news.ycombinator.com/item?id=43440321) - [Scientists break down plastic using a simple, inexpensive catalyst and air](https://phys.org/news/2025-03-scientists-plastic-simple-inexpensive-catalyst.html)

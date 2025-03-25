@@ -56,6 +56,7 @@
 * [2025-03-23, 07:57:32](https://news.ycombinator.com/item?id=43451483) - [Big Tech is striking secret deals to make you foot its electricity bill](https://web.archive.org/web/20250314114652/https://www.businessinsider.com/big-tech-secret-energy-deals-utility-bills-cost-consumers-2025-3)
 * [2025-03-23, 07:41:11](https://news.ycombinator.com/item?id=43451439) - [ThePrimeagen: Programming, AI, ADHD, Productivity, Addiction, and God](https://www.youtube.com/watch?v=tNZnLkRBYA8)
 * [2025-03-23, 07:29:03](https://news.ycombinator.com/item?id=43451397) - [Do Viruses Trigger Alzheimer's?](https://www.economist.com/science-and-technology/2025/03/17/do-viruses-trigger-alzheimers)
+* [2025-03-23, 06:55:11](https://news.ycombinator.com/item?id=43451285) - [Ruby, Ractors, and Lock-Free Data Structures](https://iliabylich.github.io/ruby-ractors-and-lock-free-data-structures/)
 * [2025-03-23, 06:52:59](https://news.ycombinator.com/item?id=43451279) - [MRubyD: A new mruby virtual machine implemented in pure C#](https://github.com/hadashiA/MRubyD)
 * [2025-03-23, 06:32:19](https://news.ycombinator.com/item?id=43451222) - [Show HN: Fingernotes – handwritten notes which become their own preview image](https://fingernotes.com/note/97513380)
 * [2025-03-23, 06:28:18](https://news.ycombinator.com/item?id=43451207) - [The Great Hobby Lobby Artifact Heist](https://meghanboilard.substack.com/p/the-great-hobby-lobby-artifact-heist)
