@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-24](index.md)
 
+* [2025-03-24, 23:29:03](https://news.ycombinator.com/item?id=43466509) - [German parliament votes as a Git contribution graph](https://abstimmung.eu/git/2024)
 * [2025-03-24, 22:50:47](https://news.ycombinator.com/item?id=43466221) - [Gatehouse – a composable, async-friendly authorization policy framework in Rust](https://github.com/thepartly/gatehouse)
+* [2025-03-24, 22:16:56](https://news.ycombinator.com/item?id=43465971) - [Three Hundred Years Later, a Tool from Isaac Newton Gets an Update](https://www.quantamagazine.org/three-hundred-years-later-a-tool-from-isaac-newton-gets-an-update-20250324/)
 * [2025-03-24, 21:20:13](https://news.ycombinator.com/item?id=43465508) - [Intel: A Bug and a Pro – By Bradford Morgan White](https://www.abortretry.fail/p/intel-a-bug-and-a-pro)
 * [2025-03-24, 21:07:37](https://news.ycombinator.com/item?id=43465424) - [Multiple vulnerabilities in ingress-Nginx (Score 9.8)](https://groups.google.com/g/kubernetes-security-announce/c/2qa9DFtN0cQ)
 * [2025-03-24, 20:58:34](https://news.ycombinator.com/item?id=43465346) - [Eli Lilly will soon release key data on its weight loss pill orforglipron](https://www.cnbc.com/2025/03/24/eli-lilly-to-release-weight-loss-pill-orforglipron-trial-data-.html)
