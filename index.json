@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-25, 03:38:59",
+      "https://news.ycombinator.com/item?id=43467911"
+    ],
+    [
+      "White House Says Gold Reserves May Be Used to Purchase Bitcoin",
+      "https://finance.yahoo.com/news/white-house-says-gold-reserves-213421472.html"
+    ]
+  ],
+  [
+    [
       "2025-03-25, 02:49:02",
       "https://news.ycombinator.com/item?id=43467681"
     ],
@@ -11,22 +21,22 @@
   ],
   [
     [
-      "2025-03-25, 02:41:07",
-      "https://news.ycombinator.com/item?id=43467649"
+      "2025-03-25, 02:27:52",
+      "https://news.ycombinator.com/item?id=43467585"
     ],
     [
-      "Ask HN: How do you propose to rebuild industry in a post-apocalypse world?",
-      "https://news.ycombinator.com/item?id=43467649"
+      "Open source AI agent helper to let it SEE what its doing",
+      "https://github.com/monteslu/vibe-eyes"
     ]
   ],
   [
     [
-      "2025-03-25, 01:44:48",
-      "https://news.ycombinator.com/item?id=43467331"
+      "2025-03-25, 02:19:03",
+      "https://news.ycombinator.com/item?id=43467541"
     ],
     [
-      "RCE Vulnerabilities in K8s Ingress Nginx (9.8 CVE for ingress-Nginx)",
-      "https://www.wiz.io/blog/ingress-nginx-kubernetes-vulnerabilities"
+      "Search My Site – open-source search engine for personal and independent websites",
+      "https://searchmysite.net"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "Triforce – a beamformer for Apple Silicon laptops",
       "https://crates.io/crates/triforce-lv2"
-    ]
-  ],
-  [
-    [
-      "2025-03-24, 14:15:17",
-      "https://news.ycombinator.com/item?id=43461375"
-    ],
-    [
-      "Goblin.tools: simple, single-task tools to help neurodivergent people with tasks",
-      "https://goblin.tools/"
     ]
   ],
   [
