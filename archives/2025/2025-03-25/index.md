@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-25](index.md)
 
+* [2025-03-25, 17:22:42](https://news.ycombinator.com/item?id=43473681) - [BBC – Organizing music for organic discovery](https://www.bbc.co.uk/rd/articles/2025-03-orbit-music-discovery-organise-analysis/)
 * [2025-03-25, 17:16:45](https://news.ycombinator.com/item?id=43473618) - [Stoop Coffee: How a Simple Idea Transformed My Neighborhood](https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed)
 * [2025-03-25, 17:01:54](https://news.ycombinator.com/item?id=43473489) - [Gemini 2.5: Our most intelligent AI model](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/)
 * [2025-03-25, 17:00:36](https://news.ycombinator.com/item?id=43473478) - [Activeloop (YC S18) Is Hiring Senior Python Back End and AI Search Engineers](https://careers.activeloop.ai/)

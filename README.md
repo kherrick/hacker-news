@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-25, 17:22:42](https://news.ycombinator.com/item?id=43473681) - [BBC – Organizing music for organic discovery](https://www.bbc.co.uk/rd/articles/2025-03-orbit-music-discovery-organise-analysis/)
 * [2025-03-25, 17:16:45](https://news.ycombinator.com/item?id=43473618) - [Stoop Coffee: How a Simple Idea Transformed My Neighborhood](https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed)
 * [2025-03-25, 17:01:54](https://news.ycombinator.com/item?id=43473489) - [Gemini 2.5: Our most intelligent AI model](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/)
 * [2025-03-25, 17:00:36](https://news.ycombinator.com/item?id=43473478) - [Activeloop (YC S18) Is Hiring Senior Python Back End and AI Search Engineers](https://careers.activeloop.ai/)
@@ -27,7 +28,6 @@
 * [2025-03-22, 21:52:58](https://news.ycombinator.com/item?id=43448933) - [WWI's 'Dazzle' Camouflage Seemed Effective Due to Unexpected Optical Trick](https://gizmodo.com/wwis-famous-dazzle-camouflage-seemed-effective-due-to-unexpected-optical-trick-study-finds-2000577568)
 * [2025-03-22, 19:33:16](https://news.ycombinator.com/item?id=43448035) - [A study reveals that deciduous trees' roots remain active in winter](https://www.creaf.cat/en/articules/deciduous-trees-roots-remain-active-winter)
 * [2025-03-21, 19:51:42](https://news.ycombinator.com/item?id=43440143) - [How 'animal methods bias' is affecting research careers](https://www.nature.com/articles/d41586-025-00593-3)
-* [2025-03-21, 18:24:51](https://news.ycombinator.com/item?id=43439307) - [Gene drive modified mosquitoes offer new tool for malaria elimination efforts](https://www.imperial.ac.uk/news/261995/gene-drive-modified-mosquitoes-offer-tool/)
 * [2025-03-21, 16:34:26](https://news.ycombinator.com/item?id=43437752) - [The Jakt Programming Language](https://github.com/SerenityOS/jakt)
 * [2025-03-21, 16:32:30](https://news.ycombinator.com/item?id=43437725) - [Brain Scans of Infants Reveal the Moment We Start Making Memories](https://singularityhub.com/2025/03/20/new-baby-brain-scans-reveal-the-moment-we-start-making-memories/)
 
