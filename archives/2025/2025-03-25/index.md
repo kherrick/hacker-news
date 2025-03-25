@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-25](index.md)
 
+* [2025-03-25, 18:21:30](https://news.ycombinator.com/item?id=43474250) - [The Ethics of Spreading Life in the Cosmos](https://www.centauri-dreams.org/2025/03/25/the-ethics-of-spreading-life-in-the-cosmos/)
+* [2025-03-25, 18:06:02](https://news.ycombinator.com/item?id=43474112) - [4o Image Generation](https://openai.com/index/introducing-4o-image-generation/)
 * [2025-03-25, 18:03:03](https://news.ycombinator.com/item?id=43474086) - [There are perhaps 10k reasons to doubt Oracle Cloud's security breach denial](https://www.theregister.com/2025/03/25/oracle_breach_update/)
 * [2025-03-25, 17:56:29](https://news.ycombinator.com/item?id=43474028) - [Prospero challenge, now with more garbage collection](https://bernsteinbear.com/blog/prospero/)
 * [2025-03-25, 17:22:42](https://news.ycombinator.com/item?id=43473681) - [BBC – Organizing music for organic discovery](https://www.bbc.co.uk/rd/articles/2025-03-orbit-music-discovery-organise-analysis/)

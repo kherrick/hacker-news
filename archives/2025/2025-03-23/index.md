@@ -56,6 +56,7 @@
 * [2025-03-23, 07:41:11](https://news.ycombinator.com/item?id=43451439) - [ThePrimeagen: Programming, AI, ADHD, Productivity, Addiction, and God](https://www.youtube.com/watch?v=tNZnLkRBYA8)
 * [2025-03-23, 07:29:03](https://news.ycombinator.com/item?id=43451397) - [Do Viruses Trigger Alzheimer's?](https://www.economist.com/science-and-technology/2025/03/17/do-viruses-trigger-alzheimers)
 * [2025-03-23, 06:52:59](https://news.ycombinator.com/item?id=43451279) - [MRubyD: A new mruby virtual machine implemented in pure C#](https://github.com/hadashiA/MRubyD)
+* [2025-03-23, 06:32:19](https://news.ycombinator.com/item?id=43451222) - [Show HN: Fingernotes – handwritten notes which become their own preview image](https://fingernotes.com/note/97513380)
 * [2025-03-23, 06:28:18](https://news.ycombinator.com/item?id=43451207) - [The Great Hobby Lobby Artifact Heist](https://meghanboilard.substack.com/p/the-great-hobby-lobby-artifact-heist)
 * [2025-03-23, 06:21:17](https://news.ycombinator.com/item?id=43451183) - [Happy 18th Birthday CUDA!](https://thechipletter.substack.com/p/happy-18th-birthday-cuda)
 * [2025-03-23, 06:09:20](https://news.ycombinator.com/item?id=43451166) - [ChatGPT can't kill anything worth preserving](https://biblioracle.substack.com/p/chatgpt-cant-kill-anything-worth)
