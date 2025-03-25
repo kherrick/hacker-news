@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-25, 02:49:02](https://news.ycombinator.com/item?id=43467681) - [Chatbots could spark the next big mental health crisis](https://www.platformer.news/openai-chatgpt-mental-health-well-being/)
 * [2025-03-24, 23:29:03](https://news.ycombinator.com/item?id=43466509) - [German parliament votes as a Git contribution graph](https://abstimmung.eu/git/2024)
 * [2025-03-24, 22:50:47](https://news.ycombinator.com/item?id=43466221) - [Gatehouse – a composable, async-friendly authorization policy framework in Rust](https://github.com/thepartly/gatehouse)
 * [2025-03-24, 22:16:56](https://news.ycombinator.com/item?id=43465971) - [Three Hundred Years Later, a Tool from Isaac Newton Gets an Update](https://www.quantamagazine.org/three-hundred-years-later-a-tool-from-isaac-newton-gets-an-update-20250324/)
@@ -16,7 +17,6 @@
 * [2025-03-24, 10:39:32](https://news.ycombinator.com/item?id=43459361) - [The game designer playing through his own psyche](https://www.newyorker.com/culture/persons-of-interest/the-game-designer-playing-through-his-own-psyche)
 * [2025-03-24, 09:04:43](https://news.ycombinator.com/item?id=43458780) - [The Prospero Challenge](https://www.mattkeeter.com/projects/prospero/)
 * [2025-03-24, 03:57:02](https://news.ycombinator.com/item?id=43457699) - [Researchers search for more precise ways to measure pain](https://www.washingtonpost.com/science/2025/03/23/pain-measure-precision-research/)
-* [2025-03-24, 00:27:05](https://news.ycombinator.com/item?id=43456934) - [Quadlet: Running Podman containers under systemd](https://mo8it.com/blog/quadlet/)
 * [2025-03-23, 23:33:39](https://news.ycombinator.com/item?id=43456723) - [Project Aardvark: reimagining AI weather prediction](https://www.turing.ac.uk/blog/project-aardvark-reimagining-ai-weather-prediction)
 * [2025-03-23, 18:52:40](https://news.ycombinator.com/item?id=43454915) - [Show HN: LinkedIn sucks, so I built a better one](https://heyopenspot.com/)
 * [2025-03-23, 09:20:42](https://news.ycombinator.com/item?id=43451760) - [Mruby/C and picoruby: high level langs in low-level devices?](https://github.com/picoruby/picoruby)
