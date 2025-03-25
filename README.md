@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-25, 16:38:51](https://news.ycombinator.com/item?id=43473246) - [BigQuery pricing model cost us $10k in 22 seconds](https://www.linkedin.com/posts/yingjun-wu_%F0%9D%90%81%F0%9D%90%A2%F0%9D%90%A0%F0%9D%90%90%F0%9D%90%AE%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%B2%F0%9D%90%AC-%F0%9D%90%91%F0%9D%90%88%F0%9D%90%83%F0%9D%90%88%F0%9D%90%82%F0%9D%90%94%F0%9D%90%8B%F0%9D%90%8E%F0%9D%90%94-activity-7307736315079405569-F2Ng)
+* [2025-03-25, 17:01:54](https://news.ycombinator.com/item?id=43473489) - [Gemini 2.5: Our most intelligent AI model](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/)
+* [2025-03-25, 17:00:36](https://news.ycombinator.com/item?id=43473478) - [Activeloop (YC S18) Is Hiring Senior Python Back End and AI Search Engineers](https://careers.activeloop.ai/)
+* [2025-03-25, 16:51:09](https://news.ycombinator.com/item?id=43473358) - [Kylie Minogue song about a typeface](https://abcdinamo.com/news/german-bold-italic)
 * [2025-03-25, 15:42:58](https://news.ycombinator.com/item?id=43472668) - [Were large soda lakes the cradle of life?](https://ethz.ch/en/news-and-events/eth-news/news/2025/03/were-large-soda-lakes-the-cradle-of-life.html)
 * [2025-03-25, 15:42:03](https://news.ycombinator.com/item?id=43472663) - [Why is C the symbol for the speed of light? (2004)](https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/c.html)
 * [2025-03-25, 15:28:22](https://news.ycombinator.com/item?id=43472515) - [New NASA satellite mapped the oceans like never before](https://www.zmescience.com/science/oceanography/new-nasa-satellite-mapped-the-oceans-like-never-before/)
@@ -21,13 +23,11 @@
 * [2025-03-24, 23:29:03](https://news.ycombinator.com/item?id=43466509) - [German parliament votes as a Git contribution graph](https://abstimmung.eu/git/2024)
 * [2025-03-24, 22:16:56](https://news.ycombinator.com/item?id=43465971) - [Three Hundred Years Later, a Tool from Isaac Newton Gets an Update](https://www.quantamagazine.org/three-hundred-years-later-a-tool-from-isaac-newton-gets-an-update-20250324/)
 * [2025-03-24, 18:35:12](https://news.ycombinator.com/item?id=43464068) - [Qwen2.5-VL-32B: Smarter and Lighter](https://qwenlm.github.io/blog/qwen2.5-vl-32b/)
-* [2025-03-23, 17:40:01](https://news.ycombinator.com/item?id=43454435) - [Apparent signs of distress during LLM redteaming](https://www.lesswrong.com/posts/MnYnCFgT3hF6LJPwn/why-white-box-redteaming-makes-me-feel-weird-1)
 * [2025-03-23, 12:58:41](https://news.ycombinator.com/item?id=43452588) - [The Lost Towers of the Guelph-Ghibelline Wars](https://www.exurbe.com/the-lost-towers-of-the-guelph-ghibelline-wars/)
 * [2025-03-23, 09:07:17](https://news.ycombinator.com/item?id=43451700) - [Polypane, The browser for ambitious web developers](https://polypane.app/)
 * [2025-03-22, 21:52:58](https://news.ycombinator.com/item?id=43448933) - [WWI's 'Dazzle' Camouflage Seemed Effective Due to Unexpected Optical Trick](https://gizmodo.com/wwis-famous-dazzle-camouflage-seemed-effective-due-to-unexpected-optical-trick-study-finds-2000577568)
 * [2025-03-22, 19:33:16](https://news.ycombinator.com/item?id=43448035) - [A study reveals that deciduous trees' roots remain active in winter](https://www.creaf.cat/en/articules/deciduous-trees-roots-remain-active-winter)
 * [2025-03-21, 21:41:18](https://news.ycombinator.com/item?id=43441082) - [CO2 laser enables long-range detection of radioactive material](https://physicsworld.com/a/co2-laser-enables-long-range-detection-of-radioactive-material/)
-* [2025-03-21, 18:24:51](https://news.ycombinator.com/item?id=43439307) - [Gene drive modified mosquitoes offer new tool for malaria elimination efforts](https://www.imperial.ac.uk/news/261995/gene-drive-modified-mosquitoes-offer-tool/)
 * [2025-03-21, 16:34:26](https://news.ycombinator.com/item?id=43437752) - [The Jakt Programming Language](https://github.com/SerenityOS/jakt)
 * [2025-03-21, 16:32:30](https://news.ycombinator.com/item?id=43437725) - [Brain Scans of Infants Reveal the Moment We Start Making Memories](https://singularityhub.com/2025/03/20/new-baby-brain-scans-reveal-the-moment-we-start-making-memories/)
 
