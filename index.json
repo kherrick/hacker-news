@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-03-25, 13:11:03",
-      "https://news.ycombinator.com/item?id=43470763"
+      "2025-03-25, 13:32:04",
+      "https://news.ycombinator.com/item?id=43471062"
     ],
     [
-      "Tesla deliveries down 43% in Europe while EVs are up 31%",
-      "https://electrek.co/2025/03/25/tesla-tsla-deliveries-down-43-in-europe-while-evs-are-up-28/"
+      "Marginalia Search receives second nlnet grant",
+      "https://www.marginalia.nu/log/a_116_grant_2.0/"
+    ]
+  ],
+  [
+    [
+      "2025-03-25, 13:13:03",
+      "https://news.ycombinator.com/item?id=43470786"
+    ],
+    [
+      "An AI bubble threatens Silicon Valley, and all of us",
+      "https://prospect.org/power/2025-03-25-bubble-trouble-ai-threat/"
     ]
   ],
   [
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=43469629"
     ],
     [
-      "9.8 Critical Vulnerabilities in Ingress Nginx",
+      "Critical Unauthenticated Remote Code Execution Vulnerabilities in Ingress NGINX",
       "https://www.wiz.io/blog/ingress-nginx-kubernetes-vulnerabilities"
     ]
   ],
@@ -145,7 +155,7 @@
       "https://news.ycombinator.com/item?id=43468435"
     ],
     [
-      "Why we chose LangGraph to build our coding agent",
+      "We chose LangGraph to build our coding agent",
       "https://www.qodo.ai/blog/why-we-chose-langgraph-to-build-our-coding-agent/"
     ]
   ],
@@ -231,26 +241,6 @@
   ],
   [
     [
-      "2025-03-23, 05:58:35",
-      "https://news.ycombinator.com/item?id=43451141"
-    ],
-    [
-      "Show HN: I'm a teacher and built an AI presentation tool",
-      "https://news.ycombinator.com/item?id=43451141"
-    ]
-  ],
-  [
-    [
-      "2025-03-23, 03:10:33",
-      "https://news.ycombinator.com/item?id=43450632"
-    ],
-    [
-      "A sodium-ion portable power bank comes to market",
-      "https://www.theverge.com/news/631357/elecom-power-bank-battery-sodium-ion"
-    ]
-  ],
-  [
-    [
       "2025-03-22, 21:52:58",
       "https://news.ycombinator.com/item?id=43448933"
     ],
@@ -287,6 +277,16 @@
     [
       "Gene drive modified mosquitoes offer new tool for malaria elimination efforts",
       "https://www.imperial.ac.uk/news/261995/gene-drive-modified-mosquitoes-offer-tool/"
+    ]
+  ],
+  [
+    [
+      "2025-03-21, 16:52:59",
+      "https://news.ycombinator.com/item?id=43438032"
+    ],
+    [
+      "What Is the Most Minimal Agentic Coder You Can Write?",
+      "https://benhouston3d.com/blog/minimal-agentic-coder"
     ]
   ],
   [
