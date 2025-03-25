@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2025-03-25, 02:41:07",
+      "https://news.ycombinator.com/item?id=43467649"
+    ],
+    [
+      "Ask HN: How do you propose to rebuild industry in a post-apocalypse world?",
+      "https://news.ycombinator.com/item?id=43467649"
+    ]
+  ],
+  [
+    [
+      "2025-03-25, 01:44:48",
+      "https://news.ycombinator.com/item?id=43467331"
+    ],
+    [
+      "RCE Vulnerabilities in K8s Ingress Nginx (9.8 CVE for ingress-Nginx)",
+      "https://www.wiz.io/blog/ingress-nginx-kubernetes-vulnerabilities"
+    ]
+  ],
+  [
+    [
       "2025-03-24, 23:29:03",
       "https://news.ycombinator.com/item?id=43466509"
     ],
@@ -47,6 +67,16 @@
     [
       "Intel: A Bug and a Pro",
       "https://www.abortretry.fail/p/intel-a-bug-and-a-pro"
+    ]
+  ],
+  [
+    [
+      "2025-03-24, 20:40:21",
+      "https://news.ycombinator.com/item?id=43465189"
+    ],
+    [
+      "Aircraft detection at planetary scale",
+      "https://www.planet.com/pulse/aircraft-detection-at-planetary-scale/"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2025-03-24, 10:39:32",
-      "https://news.ycombinator.com/item?id=43459361"
-    ],
-    [
-      "The game designer playing through his own psyche",
-      "https://www.newyorker.com/culture/persons-of-interest/the-game-designer-playing-through-his-own-psyche"
-    ]
-  ],
-  [
-    [
       "2025-03-24, 09:04:43",
       "https://news.ycombinator.com/item?id=43458780"
     ],
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2025-03-23, 23:33:39",
-      "https://news.ycombinator.com/item?id=43456723"
-    ],
-    [
-      "Project Aardvark: reimagining AI weather prediction",
-      "https://www.turing.ac.uk/blog/project-aardvark-reimagining-ai-weather-prediction"
-    ]
-  ],
-  [
-    [
       "2025-03-23, 18:52:40",
       "https://news.ycombinator.com/item?id=43454915"
     ],
     [
       "Show HN: LinkedIn sucks, so I built a better one",
       "https://heyopenspot.com/"
-    ]
-  ],
-  [
-    [
-      "2025-03-23, 09:20:42",
-      "https://news.ycombinator.com/item?id=43451760"
-    ],
-    [
-      "Mruby/C and picoruby: high level langs in low-level devices?",
-      "https://github.com/picoruby/picoruby"
     ]
   ],
   [
@@ -261,22 +261,22 @@
   ],
   [
     [
+      "2025-03-21, 18:10:19",
+      "https://news.ycombinator.com/item?id=43439138"
+    ],
+    [
+      "Can Parrot Brains Teach Us About Human Speech?",
+      "https://www.smithsonianmag.com/smart-news/can-parrot-brains-teach-us-about-human-speech-study-finds-budgies-have-language-producing-regions-that-resemble-our-own-180986282/"
+    ]
+  ],
+  [
+    [
       "2025-03-21, 14:30:18",
       "https://news.ycombinator.com/item?id=43436157"
     ],
     [
       "600M years of shared environmental stress response found in algae and plants",
       "https://phys.org/news/2025-03-million-years-environmental-stress-response.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-21, 11:47:37",
-      "https://news.ycombinator.com/item?id=43434503"
-    ],
-    [
-      "A proof checker meant for education",
-      "https://jsiek.github.io/deduce/index.html"
     ]
   ],
   [
