@@ -26,6 +26,7 @@
 * [2025-03-23, 14:57:29](https://news.ycombinator.com/item?id=43453350) - [Achieving Great Privacy with Safari](https://matanabudy.com/achieving-great-privacy-with-safari/)
 * [2025-03-23, 14:13:20](https://news.ycombinator.com/item?id=43453059) - [Building and Publishing Games to Steam Directly from GitHub Actions](https://nullonerror.org/2025/03/23/building-and-publishing-games-to-steam-directly-from-gitHub-actions/)
 * [2025-03-23, 13:54:06](https://news.ycombinator.com/item?id=43452945) - [Ask HN: Difficulties with Going Back to School](https://news.ycombinator.com/item?id=43452945)
+* [2025-03-23, 13:46:24](https://news.ycombinator.com/item?id=43452904) - [Battling the Blaze: Artifacts from the history of firefighting](https://worldhistory.substack.com/p/battling-the-blaze)
 * [2025-03-23, 13:14:15](https://news.ycombinator.com/item?id=43452688) - [Technicalities of Homeworld 2 Backgrounds](https://simonschreibt.de/gat/homeworld-2-backgrounds/)
 * [2025-03-23, 13:08:45](https://news.ycombinator.com/item?id=43452649) - [The Worst Programmer I Know (2023)](https://dannorth.net/the-worst-programmer/)
 * [2025-03-23, 13:05:21](https://news.ycombinator.com/item?id=43452629) - [Show HN: I built website for sharing Drum Patterns](http://drumpatterns.onether.com)
