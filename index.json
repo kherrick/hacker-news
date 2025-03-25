@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-25, 18:03:03",
+      "https://news.ycombinator.com/item?id=43474086"
+    ],
+    [
+      "There are perhaps 10k reasons to doubt Oracle Cloud's security breach denial",
+      "https://www.theregister.com/2025/03/25/oracle_breach_update/"
+    ]
+  ],
+  [
+    [
+      "2025-03-25, 17:56:29",
+      "https://news.ycombinator.com/item?id=43474028"
+    ],
+    [
+      "Prospero challenge, now with more garbage collection",
+      "https://bernsteinbear.com/blog/prospero/"
+    ]
+  ],
+  [
+    [
       "2025-03-25, 17:22:42",
       "https://news.ycombinator.com/item?id=43473681"
     ],
@@ -47,6 +67,16 @@
     [
       "Kylie Minogue song about a typeface",
       "https://abcdinamo.com/news/german-bold-italic"
+    ]
+  ],
+  [
+    [
+      "2025-03-25, 16:40:55",
+      "https://news.ycombinator.com/item?id=43473265"
+    ],
+    [
+      "Bitcoin in the bush – the crypto mine in remote Zambia",
+      "https://www.bbc.com/news/articles/cly4xe373p4o"
     ]
   ],
   [
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2025-03-25, 10:39:18",
-      "https://news.ycombinator.com/item?id=43469727"
-    ],
-    [
-      "The Hartlib Papers",
-      "https://www.dhi.ac.uk/hartlib/"
-    ]
-  ],
-  [
-    [
       "2025-03-25, 08:14:50",
       "https://news.ycombinator.com/item?id=43468995"
     ],
@@ -177,16 +197,6 @@
     [
       "Reflecting on WikiTok",
       "https://www.aizk.sh/posts/reflecting-on-wikitok"
-    ]
-  ],
-  [
-    [
-      "2025-03-25, 05:50:36",
-      "https://news.ycombinator.com/item?id=43468435"
-    ],
-    [
-      "We chose LangGraph to build our coding agent",
-      "https://www.qodo.ai/blog/why-we-chose-langgraph-to-build-our-coding-agent/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Jakt Programming Language",
       "https://github.com/SerenityOS/jakt"
-    ]
-  ],
-  [
-    [
-      "2025-03-21, 16:32:30",
-      "https://news.ycombinator.com/item?id=43437725"
-    ],
-    [
-      "Brain Scans of Infants Reveal the Moment We Start Making Memories",
-      "https://singularityhub.com/2025/03/20/new-baby-brain-scans-reveal-the-moment-we-start-making-memories/"
     ]
   ]
 ]
