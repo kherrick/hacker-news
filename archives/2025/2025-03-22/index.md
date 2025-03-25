@@ -52,6 +52,7 @@
 * [2025-03-22, 07:35:01](https://news.ycombinator.com/item?id=43444191) - [VibeSail: A case study in vibe coding a game](https://www.vibecoding.games/vibesail-a-case-study-in-vibe-coding-a-game/)
 * [2025-03-22, 07:24:05](https://news.ycombinator.com/item?id=43444160) - [When you deleted /lib on Linux while still connected via SSH](https://tinyhack.com/2022/09/16/when-you-deleted-lib-on-linux-while-still-connected-via-ssh/)
 * [2025-03-22, 07:04:37](https://news.ycombinator.com/item?id=43444098) - [Number of border searches of electronic devices increasing every year](https://www.eff.org/issues/border-searches)
+* [2025-03-22, 06:54:49](https://news.ycombinator.com/item?id=43444059) - [Yahoo is selling TechCrunch to private equity firm Regent](https://techcrunch.com/2025/03/21/techcrunch-has-personal-news/)
 * [2025-03-22, 06:44:17](https://news.ycombinator.com/item?id=43444017) - [Concise Machine Learning [pdf]](https://people.eecs.berkeley.edu/~jrs/papers/machlearn.pdf)
 * [2025-03-22, 06:35:41](https://news.ycombinator.com/item?id=43443979) - [Vibe Coding – The Ultimate Guide with Resources](https://natural20.com/vibe-coding/)
 * [2025-03-22, 06:33:27](https://news.ycombinator.com/item?id=43443974) - [The future of AI is Ruby on Rails](https://www.seangoedecke.com/ai-and-ruby/#fnref-1)
