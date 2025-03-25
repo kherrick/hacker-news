@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-25, 02:49:02](https://news.ycombinator.com/item?id=43467681) - [Chatbots could spark the next big mental health crisis](https://www.platformer.news/openai-chatgpt-mental-health-well-being/)
-* [2025-03-25, 02:27:52](https://news.ycombinator.com/item?id=43467585) - [Open source AI agent helper to let it SEE what its doing](https://github.com/monteslu/vibe-eyes)
 * [2025-03-25, 02:19:03](https://news.ycombinator.com/item?id=43467541) - [Search My Site – open-source search engine for personal and independent websites](https://searchmysite.net)
+* [2025-03-25, 00:53:27](https://news.ycombinator.com/item?id=43467035) - [Open Source Mythology](https://lgug2z.com/articles/on-open-source-mythology/)
 * [2025-03-24, 23:29:03](https://news.ycombinator.com/item?id=43466509) - [German parliament votes as a Git contribution graph](https://abstimmung.eu/git/2024)
 * [2025-03-24, 22:50:47](https://news.ycombinator.com/item?id=43466221) - [Gatehouse – a composable, async-friendly authorization policy framework in Rust](https://github.com/thepartly/gatehouse)
 * [2025-03-24, 22:16:56](https://news.ycombinator.com/item?id=43465971) - [Three Hundred Years Later, a Tool from Isaac Newton Gets an Update](https://www.quantamagazine.org/three-hundred-years-later-a-tool-from-isaac-newton-gets-an-update-20250324/)

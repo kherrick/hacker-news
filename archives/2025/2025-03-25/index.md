@@ -10,4 +10,5 @@
 * [2025-03-25, 02:27:52](https://news.ycombinator.com/item?id=43467585) - [Open source AI agent helper to let it SEE what its doing](https://github.com/monteslu/vibe-eyes)
 * [2025-03-25, 02:19:03](https://news.ycombinator.com/item?id=43467541) - [Search My Site – open-source search engine for personal and independent websites](https://searchmysite.net)
 * [2025-03-25, 01:44:48](https://news.ycombinator.com/item?id=43467331) - [RCE Vulnerabilities in K8s Ingress Nginx (9.8 CVE for ingress-Nginx)](https://www.wiz.io/blog/ingress-nginx-kubernetes-vulnerabilities)
+* [2025-03-25, 00:53:27](https://news.ycombinator.com/item?id=43467035) - [Open Source Mythology](https://lgug2z.com/articles/on-open-source-mythology/)
 * [2025-03-25, 00:45:01](https://news.ycombinator.com/item?id=43466983) - [Jeffrey Goldberg on being added to the group chat by Trump Administration](https://www.theatlantic.com/newsletters/archive/2025/03/jeffrey-goldberg-group-chat-military-houthi-yemen/682160/)
