@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-25](index.md)
 
+* [2025-03-25, 19:11:13](https://news.ycombinator.com/item?id=43474707) - [Microsoft's many Outlooks are confusing users – including its own employees](https://www.theregister.com/2025/03/25/too_many_outlooks/)
+* [2025-03-25, 18:59:22](https://news.ycombinator.com/item?id=43474593) - [In Jail Without a Lawyer: How a Texas Town Fails Poor Defendants](https://www.nytimes.com/2025/03/25/us/maverick-county-texas-court-system.html)
 * [2025-03-25, 18:21:30](https://news.ycombinator.com/item?id=43474250) - [The Ethics of Spreading Life in the Cosmos](https://www.centauri-dreams.org/2025/03/25/the-ethics-of-spreading-life-in-the-cosmos/)
 * [2025-03-25, 18:06:02](https://news.ycombinator.com/item?id=43474112) - [4o Image Generation](https://openai.com/index/introducing-4o-image-generation/)
 * [2025-03-25, 18:03:03](https://news.ycombinator.com/item?id=43474086) - [There are perhaps 10k reasons to doubt Oracle Cloud's security breach denial](https://www.theregister.com/2025/03/25/oracle_breach_update/)
