@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-25](index.md)
 
+* [2025-03-25, 19:54:22](https://news.ycombinator.com/item?id=43475179) - [The Blood on the Keyboard](https://www.historynewsnetwork.org/article/blood-on-the-keyboard)
 * [2025-03-25, 19:11:13](https://news.ycombinator.com/item?id=43474707) - [Microsoft's many Outlooks are confusing users – including its own employees](https://www.theregister.com/2025/03/25/too_many_outlooks/)
 * [2025-03-25, 18:59:22](https://news.ycombinator.com/item?id=43474593) - [In Jail Without a Lawyer: How a Texas Town Fails Poor Defendants](https://www.nytimes.com/2025/03/25/us/maverick-county-texas-court-system.html)
 * [2025-03-25, 18:48:57](https://news.ycombinator.com/item?id=43474505) - [The highest-ranking personal blogs of Hacker News](https://refactoringenglish.com/tools/hn-popularity/)
@@ -59,10 +60,12 @@
 * [2025-03-25, 06:59:44](https://news.ycombinator.com/item?id=43468666) - [Status as a Service (2019)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
 * [2025-03-25, 06:52:22](https://news.ycombinator.com/item?id=43468637) - [The Lost Art of Commit Messages](https://www.seyhan.me/blog/post/lost-art-of-commit-messages)
 * [2025-03-25, 06:25:08](https://news.ycombinator.com/item?id=43468539) - [Music and the Decline of Civilization](https://renovatio.zaytuna.edu/article/plato-laws-music-civilization)
+* [2025-03-25, 06:11:46](https://news.ycombinator.com/item?id=43468498) - [Is Robert Frost Even a Good Poet?](https://www.theparisreview.org/blog/2025/03/17/is-robert-frost-even-a-good-poet/)
 * [2025-03-25, 06:09:11](https://news.ycombinator.com/item?id=43468491) - [Reflecting on WikiTok](https://www.aizk.sh/posts/reflecting-on-wikitok)
 * [2025-03-25, 05:50:36](https://news.ycombinator.com/item?id=43468435) - [Why we chose LangGraph to build our coding agent](https://www.qodo.ai/blog/why-we-chose-langgraph-to-build-our-coding-agent/)
 * [2025-03-25, 04:47:47](https://news.ycombinator.com/item?id=43468197) - [David Lynch Presents Interview Project](https://www.youtube.com/channel/UC4lrTWEywA3JfR-N_dv0d4A)
 * [2025-03-25, 03:38:59](https://news.ycombinator.com/item?id=43467911) - [White House Says Gold Reserves May Be Used to Purchase Bitcoin](https://finance.yahoo.com/news/white-house-says-gold-reserves-213421472.html)
+* [2025-03-25, 03:23:48](https://news.ycombinator.com/item?id=43467847) - [We're Still Not Done with Jesus](https://www.newyorker.com/magazine/2025/03/31/miracles-and-wonder-elaine-pagels-book-review-heretic-catherine-nixey)
 * [2025-03-25, 02:49:02](https://news.ycombinator.com/item?id=43467681) - [Chatbots could spark the next big mental health crisis](https://www.platformer.news/openai-chatgpt-mental-health-well-being/)
 * [2025-03-25, 02:41:07](https://news.ycombinator.com/item?id=43467649) - [Ask HN: How do you propose to rebuild industry in a post-apocalypse world?](https://news.ycombinator.com/item?id=43467649)
 * [2025-03-25, 02:33:58](https://news.ycombinator.com/item?id=43467615) - [Post Apocalyptic Computing](https://thomashunter.name/posts/2025-03-23-post-apocalyptic-computing)
