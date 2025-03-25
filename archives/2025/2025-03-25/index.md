@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-03-25](index.md)
 
+* [2025-03-25, 18:03:03](https://news.ycombinator.com/item?id=43474086) - [There are perhaps 10k reasons to doubt Oracle Cloud's security breach denial](https://www.theregister.com/2025/03/25/oracle_breach_update/)
+* [2025-03-25, 17:56:29](https://news.ycombinator.com/item?id=43474028) - [Prospero challenge, now with more garbage collection](https://bernsteinbear.com/blog/prospero/)
 * [2025-03-25, 17:22:42](https://news.ycombinator.com/item?id=43473681) - [BBC – Organizing music for organic discovery](https://www.bbc.co.uk/rd/articles/2025-03-orbit-music-discovery-organise-analysis/)
 * [2025-03-25, 17:16:45](https://news.ycombinator.com/item?id=43473618) - [Stoop Coffee: How a Simple Idea Transformed My Neighborhood](https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed)
 * [2025-03-25, 17:01:54](https://news.ycombinator.com/item?id=43473489) - [Gemini 2.5: Our most intelligent AI model](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/)
 * [2025-03-25, 17:00:36](https://news.ycombinator.com/item?id=43473478) - [Activeloop (YC S18) Is Hiring Senior Python Back End and AI Search Engineers](https://careers.activeloop.ai/)
 * [2025-03-25, 16:51:09](https://news.ycombinator.com/item?id=43473358) - [Kylie Minogue song about a typeface](https://abcdinamo.com/news/german-bold-italic)
+* [2025-03-25, 16:40:55](https://news.ycombinator.com/item?id=43473265) - [Bitcoin in the bush – the crypto mine in remote Zambia](https://www.bbc.com/news/articles/cly4xe373p4o)
 * [2025-03-25, 16:38:51](https://news.ycombinator.com/item?id=43473246) - [BigQuery pricing model cost us $10k in 22 seconds](https://www.linkedin.com/posts/yingjun-wu_%F0%9D%90%81%F0%9D%90%A2%F0%9D%90%A0%F0%9D%90%90%F0%9D%90%AE%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%B2%F0%9D%90%AC-%F0%9D%90%91%F0%9D%90%88%F0%9D%90%83%F0%9D%90%88%F0%9D%90%82%F0%9D%90%94%F0%9D%90%8B%F0%9D%90%8E%F0%9D%90%94-activity-7307736315079405569-F2Ng)
 * [2025-03-25, 15:42:58](https://news.ycombinator.com/item?id=43472668) - [Were large soda lakes the cradle of life?](https://ethz.ch/en/news-and-events/eth-news/news/2025/03/were-large-soda-lakes-the-cradle-of-life.html)
 * [2025-03-25, 15:42:03](https://news.ycombinator.com/item?id=43472663) - [Why is C the symbol for the speed of light? (2004)](https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/c.html)
