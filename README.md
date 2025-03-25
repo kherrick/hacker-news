@@ -1,11 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-25, 12:10:22](https://news.ycombinator.com/item?id=43470269) - [Deregulation in Argentina: Milei Takes \"Deep Chainsaw\" to Bureaucracy](https://www.cato.org/free-society/spring-2025/deregulation-argentina-milei-takes-deep-chainsaw-bureaucracy-red-tape)
-* [2025-03-25, 11:32:15](https://news.ycombinator.com/item?id=43470010) - [Palantir suggests 'common operating system' for UK govt data](https://www.theregister.com/2025/03/25/palantir_covid_inquiry_comments/)
+* [2025-03-25, 13:11:03](https://news.ycombinator.com/item?id=43470763) - [Tesla deliveries down 43% in Europe while EVs are up 31%](https://electrek.co/2025/03/25/tesla-tsla-deliveries-down-43-in-europe-while-evs-are-up-28/)
+* [2025-03-25, 13:04:54](https://news.ycombinator.com/item?id=43470699) - [Samsung CEO Jong-hee Han has died](https://www.engadget.com/big-tech/samsung-ceo-jong-hee-han-has-died-120029286.html)
+* [2025-03-25, 12:54:59](https://news.ycombinator.com/item?id=43470613) - [X's head of engineering is out](https://www.theverge.com/twitter/634833/x-head-engineering-leaves-elon-musk)
 * [2025-03-25, 10:39:18](https://news.ycombinator.com/item?id=43469727) - [The Hartlib Papers](https://www.dhi.ac.uk/hartlib/)
-* [2025-03-25, 10:34:23](https://news.ycombinator.com/item?id=43469711) - [Closing Keynote with Leslie Lamport at Scale 22x: Coding Isn't Programming](https://www.socallinuxexpo.org/scale/22x/presentations/closing-keynote-leslie-lamport)
+* [2025-03-25, 10:34:23](https://news.ycombinator.com/item?id=43469711) - [Coding Isn't Programming](https://www.socallinuxexpo.org/scale/22x/presentations/closing-keynote-leslie-lamport)
 * [2025-03-25, 10:28:22](https://news.ycombinator.com/item?id=43469690) - [The Great Barefoot Running Hysteria of 2010](https://runningshoescore.com/blog/barefoot-running-hysteria-of-2010)
 * [2025-03-25, 10:20:37](https://news.ycombinator.com/item?id=43469661) - [High‑dose Vitamin D reduces disease activity in early multiple sclerosis onset](https://medicalxpress.com/news/2025-03-highdose-vitamin-d-significantly-disease.html)
+* [2025-03-25, 10:12:17](https://news.ycombinator.com/item?id=43469629) - [9.8 Critical Vulnerabilities in Ingress Nginx](https://www.wiz.io/blog/ingress-nginx-kubernetes-vulnerabilities)
 * [2025-03-25, 09:59:58](https://news.ycombinator.com/item?id=43469565) - [Closing the Chapter on OpenH264](https://bbhtt.space/posts/closing-the-chapter-on-openh264/)
 * [2025-03-25, 09:39:48](https://news.ycombinator.com/item?id=43469457) - [Quad9 – A public and free DNS service for a better security and privacy](https://www.quad9.net/)
 * [2025-03-25, 08:14:50](https://news.ycombinator.com/item?id=43468995) - [Spammers are better at SPF, DKIM, and DMARC than everyone else](https://toad.social/@grumpybozo/114213600922816869)
@@ -21,7 +23,6 @@
 * [2025-03-24, 14:45:34](https://news.ycombinator.com/item?id=43461701) - [Triforce – a beamformer for Apple Silicon laptops](https://github.com/chadmed/triforce)
 * [2025-03-23, 13:46:24](https://news.ycombinator.com/item?id=43452904) - [Battling the Blaze: Artifacts from the history of firefighting](https://worldhistory.substack.com/p/battling-the-blaze)
 * [2025-03-23, 12:58:41](https://news.ycombinator.com/item?id=43452588) - [The Lost Towers of the Guelph-Ghibelline Wars](https://www.exurbe.com/the-lost-towers-of-the-guelph-ghibelline-wars/)
-* [2025-03-23, 06:52:59](https://news.ycombinator.com/item?id=43451279) - [MRubyD: A new mruby virtual machine implemented in pure C#](https://github.com/hadashiA/MRubyD)
 * [2025-03-23, 05:58:35](https://news.ycombinator.com/item?id=43451141) - [Show HN: I'm a teacher and built an AI presentation tool](https://news.ycombinator.com/item?id=43451141)
 * [2025-03-23, 03:10:33](https://news.ycombinator.com/item?id=43450632) - [A sodium-ion portable power bank comes to market](https://www.theverge.com/news/631357/elecom-power-bank-battery-sodium-ion)
 * [2025-03-22, 21:52:58](https://news.ycombinator.com/item?id=43448933) - [WWI's 'Dazzle' Camouflage Seemed Effective Due to Unexpected Optical Trick](https://gizmodo.com/wwis-famous-dazzle-camouflage-seemed-effective-due-to-unexpected-optical-trick-study-finds-2000577568)
@@ -29,7 +30,6 @@
 * [2025-03-21, 21:41:18](https://news.ycombinator.com/item?id=43441082) - [CO2 laser enables long-range detection of radioactive material](https://physicsworld.com/a/co2-laser-enables-long-range-detection-of-radioactive-material/)
 * [2025-03-21, 18:24:51](https://news.ycombinator.com/item?id=43439307) - [Gene drive modified mosquitoes offer new tool for malaria elimination efforts](https://www.imperial.ac.uk/news/261995/gene-drive-modified-mosquitoes-offer-tool/)
 * [2025-03-21, 16:32:30](https://news.ycombinator.com/item?id=43437725) - [Brain Scans of Infants Reveal the Moment We Start Making Memories](https://singularityhub.com/2025/03/20/new-baby-brain-scans-reveal-the-moment-we-start-making-memories/)
-* [2025-03-21, 08:17:19](https://news.ycombinator.com/item?id=43433030) - [The earliest versions of the first C compiler known to exist](https://github.com/mortdeus/legacy-cc)
 
 ## [Archives](archives/index.md)
 

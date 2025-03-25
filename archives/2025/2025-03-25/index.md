@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2025-03-25](index.md)
 
+* [2025-03-25, 13:11:03](https://news.ycombinator.com/item?id=43470763) - [Tesla deliveries down 43% in Europe while EVs are up 31%](https://electrek.co/2025/03/25/tesla-tsla-deliveries-down-43-in-europe-while-evs-are-up-28/)
+* [2025-03-25, 13:04:54](https://news.ycombinator.com/item?id=43470699) - [Samsung CEO Jong-hee Han has died](https://www.engadget.com/big-tech/samsung-ceo-jong-hee-han-has-died-120029286.html)
+* [2025-03-25, 12:54:59](https://news.ycombinator.com/item?id=43470613) - [X's head of engineering is out](https://www.theverge.com/twitter/634833/x-head-engineering-leaves-elon-musk)
 * [2025-03-25, 12:10:22](https://news.ycombinator.com/item?id=43470269) - [Deregulation in Argentina: Milei Takes \"Deep Chainsaw\" to Bureaucracy](https://www.cato.org/free-society/spring-2025/deregulation-argentina-milei-takes-deep-chainsaw-bureaucracy-red-tape)
 * [2025-03-25, 11:32:15](https://news.ycombinator.com/item?id=43470010) - [Palantir suggests 'common operating system' for UK govt data](https://www.theregister.com/2025/03/25/palantir_covid_inquiry_comments/)
 * [2025-03-25, 10:39:18](https://news.ycombinator.com/item?id=43469727) - [The Hartlib Papers](https://www.dhi.ac.uk/hartlib/)
 * [2025-03-25, 10:34:23](https://news.ycombinator.com/item?id=43469711) - [Closing Keynote with Leslie Lamport at Scale 22x: Coding Isn't Programming](https://www.socallinuxexpo.org/scale/22x/presentations/closing-keynote-leslie-lamport)
 * [2025-03-25, 10:28:22](https://news.ycombinator.com/item?id=43469690) - [The Great Barefoot Running Hysteria of 2010](https://runningshoescore.com/blog/barefoot-running-hysteria-of-2010)
 * [2025-03-25, 10:20:37](https://news.ycombinator.com/item?id=43469661) - [High‑dose Vitamin D reduces disease activity in early multiple sclerosis onset](https://medicalxpress.com/news/2025-03-highdose-vitamin-d-significantly-disease.html)
+* [2025-03-25, 10:12:17](https://news.ycombinator.com/item?id=43469629) - [9.8 Critical Vulnerabilities in Ingress Nginx](https://www.wiz.io/blog/ingress-nginx-kubernetes-vulnerabilities)
 * [2025-03-25, 09:59:58](https://news.ycombinator.com/item?id=43469565) - [Closing the Chapter on OpenH264](https://bbhtt.space/posts/closing-the-chapter-on-openh264/)
 * [2025-03-25, 09:39:48](https://news.ycombinator.com/item?id=43469457) - [Quad9 – A public and free DNS service for a better security and privacy](https://www.quad9.net/)
 * [2025-03-25, 09:34:35](https://news.ycombinator.com/item?id=43469422) - [DNS Speed Test](https://dnsspeedtest.online/)
