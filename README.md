@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-25, 19:54:22](https://news.ycombinator.com/item?id=43475179) - [The Blood on the Keyboard](https://www.historynewsnetwork.org/article/blood-on-the-keyboard)
 * [2025-03-25, 18:59:22](https://news.ycombinator.com/item?id=43474593) - [In Jail Without a Lawyer: How a Texas Town Fails Poor Defendants](https://www.nytimes.com/2025/03/25/us/maverick-county-texas-court-system.html)
 * [2025-03-25, 18:48:57](https://news.ycombinator.com/item?id=43474505) - [The highest-ranking personal blogs of Hacker News](https://refactoringenglish.com/tools/hn-popularity/)
 * [2025-03-25, 18:21:30](https://news.ycombinator.com/item?id=43474250) - [The Ethics of Spreading Life in the Cosmos](https://www.centauri-dreams.org/2025/03/25/the-ethics-of-spreading-life-in-the-cosmos/)
@@ -22,6 +21,7 @@
 * [2025-03-25, 11:57:11](https://news.ycombinator.com/item?id=43470162) - [Hann: A Fast Approximate Nearest Neighbor Search Library for Go](https://github.com/habedi/hann)
 * [2025-03-25, 06:11:46](https://news.ycombinator.com/item?id=43468498) - [Is Robert Frost Even a Good Poet?](https://www.theparisreview.org/blog/2025/03/17/is-robert-frost-even-a-good-poet/)
 * [2025-03-25, 03:23:48](https://news.ycombinator.com/item?id=43467847) - [We're Still Not Done with Jesus](https://www.newyorker.com/magazine/2025/03/31/miracles-and-wonder-elaine-pagels-book-review-heretic-catherine-nixey)
+* [2025-03-24, 16:23:55](https://news.ycombinator.com/item?id=43462783) - [U.S. national-security leaders included me in a group chat](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/)
 * [2025-03-23, 13:19:07](https://news.ycombinator.com/item?id=43452725) - [Chicago-Sized Iceberg Hid Ancient Ecosystem, Scientists Reveal](https://gizmodo.com/chicago-sized-iceberg-hid-ancient-ecosystem-scientists-reveal-2000579125)
 * [2025-03-23, 09:07:17](https://news.ycombinator.com/item?id=43451700) - [Polypane, The browser for ambitious web developers](https://polypane.app/)
 * [2025-03-23, 06:32:19](https://news.ycombinator.com/item?id=43451222) - [Show HN: Fingernotes – handwritten notes which become their own preview image](https://fingernotes.com/note/97513380)
