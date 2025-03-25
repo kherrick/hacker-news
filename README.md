@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-25, 23:09:09](https://news.ycombinator.com/item?id=43477057) - [You might want to stop running atop](https://rachelbythebay.com/w/2025/03/25/atop/)
 * [2025-03-25, 21:47:20](https://news.ycombinator.com/item?id=43476365) - [What's Happening to Students?](https://www.honest-broker.com/p/whats-happening-to-students)
 * [2025-03-25, 21:42:37](https://news.ycombinator.com/item?id=43476337) - [Devs say AI crawlers dominate traffic, forcing blocks on entire countries](https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/)
 * [2025-03-25, 21:35:16](https://news.ycombinator.com/item?id=43476249) - [Sell Yourself Sell Your Work](https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?yc25hn)
@@ -20,9 +21,8 @@
 * [2025-03-25, 13:26:01](https://news.ycombinator.com/item?id=43470971) - [What Killed Innovation?](https://www.shirleywu.studio/notebook/2025-02-innovation-killer)
 * [2025-03-25, 13:22:09](https://news.ycombinator.com/item?id=43470906) - [Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH](https://blog.cloudflare.com/open-sourcing-openpubkey-ssh-opkssh-integrating-single-sign-on-with-ssh/)
 * [2025-03-25, 12:59:26](https://news.ycombinator.com/item?id=43470651) - [VGGT: Visual Geometry Grounded Transformer](https://github.com/facebookresearch/vggt)
-* [2025-03-25, 06:11:46](https://news.ycombinator.com/item?id=43468498) - [Is Robert Frost Even a Good Poet?](https://www.theparisreview.org/blog/2025/03/17/is-robert-frost-even-a-good-poet/)
+* [2025-03-24, 16:23:55](https://news.ycombinator.com/item?id=43462783) - [U.S. national-security leaders included me in a group chat](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/)
 * [2025-03-23, 13:19:07](https://news.ycombinator.com/item?id=43452725) - [Chicago-Sized Iceberg Hid Ancient Ecosystem, Scientists Reveal](https://gizmodo.com/chicago-sized-iceberg-hid-ancient-ecosystem-scientists-reveal-2000579125)
-* [2025-03-23, 09:07:17](https://news.ycombinator.com/item?id=43451700) - [Polypane, The browser for ambitious web developers](https://polypane.app/)
 * [2025-03-23, 08:32:40](https://news.ycombinator.com/item?id=43451579) - [Ollama Models Atom Feed](https://simonwillison.net/2025/Mar/22/ollama-models-atom-feed/)
 * [2025-03-23, 06:55:11](https://news.ycombinator.com/item?id=43451285) - [Ruby, Ractors, and Lock-Free Data Structures](https://iliabylich.github.io/ruby-ractors-and-lock-free-data-structures/)
 * [2025-03-23, 06:32:19](https://news.ycombinator.com/item?id=43451222) - [Show HN: Fingernotes – handwritten notes which become their own preview image](https://fingernotes.com/note/97513380)
