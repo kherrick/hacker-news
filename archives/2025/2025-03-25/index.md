@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-25](index.md)
 
+* [2025-03-25, 15:11:56](https://news.ycombinator.com/item?id=43472320) - [Borne Back Ceaselessly into the Past: Fitzgerald, Gatsby and WWI](https://www.theworldwar.org/learn/about-wwi/borne-back-ceaselessly-past-fitzgerald-gatsby-and-wwi)
 * [2025-03-25, 14:57:59](https://news.ycombinator.com/item?id=43472143) - [My Favorite C++ Pattern: X Macros (2023)](https://danilafe.com/blog/chapel_x_macros/)
 * [2025-03-25, 14:04:31](https://news.ycombinator.com/item?id=43471482) - [Chrono Trigger Still Blows Me Away 30 Years Later](https://kotaku.com/chrono-trigger-jrpg-snes-30th-anniversary-square-1851769192)
 * [2025-03-25, 13:58:07](https://news.ycombinator.com/item?id=43471393) - [Beej's Guide to C Programming [pdf]](https://beej.us/guide/bgc/pdf/bgc_a4_c_1.pdf)

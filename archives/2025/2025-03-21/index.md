@@ -36,6 +36,7 @@
 * [2025-03-21, 17:02:17](https://news.ycombinator.com/item?id=43438192) - [Mathup: Easy MathML authoring tool with a quick to write syntax](https://mathup.xyz/)
 * [2025-03-21, 17:00:58](https://news.ycombinator.com/item?id=43438166) - [GoGoGrandparent (YC S16) is hiring Back end Engineers](https://news.ycombinator.com/item?id=43438166)
 * [2025-03-21, 16:52:59](https://news.ycombinator.com/item?id=43438032) - [What Is the Most Minimal Agentic Coder You Can Write?](https://benhouston3d.com/blog/minimal-agentic-coder)
+* [2025-03-21, 16:34:26](https://news.ycombinator.com/item?id=43437752) - [The Jakt Programming Language](https://github.com/SerenityOS/jakt)
 * [2025-03-21, 16:32:30](https://news.ycombinator.com/item?id=43437725) - [Brain Scans of Infants Reveal the Moment We Start Making Memories](https://singularityhub.com/2025/03/20/new-baby-brain-scans-reveal-the-moment-we-start-making-memories/)
 * [2025-03-21, 15:38:13](https://news.ycombinator.com/item?id=43436933) - [The Cult of the American Lawn](https://www.noemamag.com/the-cult-of-the-american-lawn/)
 * [2025-03-21, 15:35:27](https://news.ycombinator.com/item?id=43436894) - [IronRDP: a Rust implementation of Microsoft's RDP protocol](https://github.com/Devolutions/IronRDP)
