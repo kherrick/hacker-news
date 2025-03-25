@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-03-25](index.md)
 
+* [2025-03-25, 13:40:59](https://news.ycombinator.com/item?id=43471177) - [If you get the chance, always run more extra network fiber cabling](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RunMoreExtraNetworkFiber)
+* [2025-03-25, 13:37:35](https://news.ycombinator.com/item?id=43471134) - [The Phony Comforts of AI Optimism](https://www.wheresyoured.at/optimistic-cowardice/)
 * [2025-03-25, 13:32:04](https://news.ycombinator.com/item?id=43471062) - [Marginalia Search receives second nlnet grant](https://www.marginalia.nu/log/a_116_grant_2.0/)
+* [2025-03-25, 13:22:09](https://news.ycombinator.com/item?id=43470906) - [OpenID Coming to SSH](https://blog.cloudflare.com/open-sourcing-openpubkey-ssh-opkssh-integrating-single-sign-on-with-ssh/)
 * [2025-03-25, 13:13:03](https://news.ycombinator.com/item?id=43470786) - [An AI bubble threatens Silicon Valley, and all of us](https://prospect.org/power/2025-03-25-bubble-trouble-ai-threat/)
 * [2025-03-25, 13:11:03](https://news.ycombinator.com/item?id=43470763) - [Tesla deliveries down 43% in Europe while EVs are up 31%](https://electrek.co/2025/03/25/tesla-tsla-deliveries-down-43-in-europe-while-evs-are-up-28/)
 * [2025-03-25, 13:07:13](https://news.ycombinator.com/item?id=43470725) - [Tim, don't kill my vibe](https://irace.me/vibe)
