@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-25, 15:42:58](https://news.ycombinator.com/item?id=43472668) - [Were large soda lakes the cradle of life?](https://ethz.ch/en/news-and-events/eth-news/news/2025/03/were-large-soda-lakes-the-cradle-of-life.html)
+* [2025-03-25, 15:42:03](https://news.ycombinator.com/item?id=43472663) - [Why is C the symbol for the speed of light? (2004)](https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/c.html)
 * [2025-03-25, 15:11:56](https://news.ycombinator.com/item?id=43472320) - [Borne Back Ceaselessly into the Past: Fitzgerald, Gatsby and WWI](https://www.theworldwar.org/learn/about-wwi/borne-back-ceaselessly-past-fitzgerald-gatsby-and-wwi)
 * [2025-03-25, 14:57:59](https://news.ycombinator.com/item?id=43472143) - [My Favorite C++ Pattern: X Macros (2023)](https://danilafe.com/blog/chapel_x_macros/)
 * [2025-03-25, 13:58:07](https://news.ycombinator.com/item?id=43471393) - [Beej's Guide to C Programming [pdf]](https://beej.us/guide/bgc/pdf/bgc_a4_c_1.pdf)
@@ -10,8 +12,6 @@
 * [2025-03-25, 12:59:26](https://news.ycombinator.com/item?id=43470651) - [VGGT: Visual Geometry Grounded Transformer](https://github.com/facebookresearch/vggt)
 * [2025-03-25, 11:57:11](https://news.ycombinator.com/item?id=43470162) - [Hann: A Fast Approximate Nearest Neighbor Search Library for Go](https://github.com/habedi/hann)
 * [2025-03-25, 10:39:18](https://news.ycombinator.com/item?id=43469727) - [The Hartlib Papers](https://www.dhi.ac.uk/hartlib/)
-* [2025-03-25, 10:34:23](https://news.ycombinator.com/item?id=43469711) - [Coding Isn't Programming](https://www.socallinuxexpo.org/scale/22x/presentations/closing-keynote-leslie-lamport)
-* [2025-03-25, 10:28:22](https://news.ycombinator.com/item?id=43469690) - [The Great Barefoot Running Hysteria of 2010](https://runningshoescore.com/blog/barefoot-running-hysteria-of-2010)
 * [2025-03-25, 09:59:58](https://news.ycombinator.com/item?id=43469565) - [Closing the Chapter on OpenH264](https://bbhtt.space/posts/closing-the-chapter-on-openh264/)
 * [2025-03-25, 08:14:50](https://news.ycombinator.com/item?id=43468995) - [Spammers are better at SPF, DKIM, and DMARC than everyone else](https://toad.social/@grumpybozo/114213600922816869)
 * [2025-03-25, 08:10:36](https://news.ycombinator.com/item?id=43468976) - [Writing your own C++ standard library from scratch](https://nibblestew.blogspot.com/2025/03/writing-your-own-c-standard-library.html)
