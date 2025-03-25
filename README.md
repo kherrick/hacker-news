@@ -4,6 +4,7 @@
 * [2025-03-25, 10:34:23](https://news.ycombinator.com/item?id=43469711) - [Closing Keynote with Leslie Lamport at Scale 22x: Coding Isn't Programming](https://www.socallinuxexpo.org/scale/22x/presentations/closing-keynote-leslie-lamport)
 * [2025-03-25, 10:28:22](https://news.ycombinator.com/item?id=43469690) - [The Great Barefoot Running Hysteria of 2010](https://runningshoescore.com/blog/barefoot-running-hysteria-of-2010)
 * [2025-03-25, 10:20:37](https://news.ycombinator.com/item?id=43469661) - [High‑dose Vitamin D reduces disease activity in early multiple sclerosis onset](https://medicalxpress.com/news/2025-03-highdose-vitamin-d-significantly-disease.html)
+* [2025-03-25, 09:59:58](https://news.ycombinator.com/item?id=43469565) - [Closing the Chapter on OpenH264](https://bbhtt.space/posts/closing-the-chapter-on-openh264/)
 * [2025-03-25, 08:14:50](https://news.ycombinator.com/item?id=43468995) - [Spammers are better at SPF, DKIM, and DMARC than everyone else](https://toad.social/@grumpybozo/114213600922816869)
 * [2025-03-25, 08:10:36](https://news.ycombinator.com/item?id=43468976) - [Writing your own C++ standard library from scratch](https://nibblestew.blogspot.com/2025/03/writing-your-own-c-standard-library.html)
 * [2025-03-25, 06:59:44](https://news.ycombinator.com/item?id=43468666) - [Status as a Service (2019)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
@@ -28,7 +29,6 @@
 * [2025-03-21, 18:10:19](https://news.ycombinator.com/item?id=43439138) - [Can Parrot Brains Teach Us About Human Speech?](https://www.smithsonianmag.com/smart-news/can-parrot-brains-teach-us-about-human-speech-study-finds-budgies-have-language-producing-regions-that-resemble-our-own-180986282/)
 * [2025-03-21, 16:32:30](https://news.ycombinator.com/item?id=43437725) - [Brain Scans of Infants Reveal the Moment We Start Making Memories](https://singularityhub.com/2025/03/20/new-baby-brain-scans-reveal-the-moment-we-start-making-memories/)
 * [2025-03-21, 14:30:18](https://news.ycombinator.com/item?id=43436157) - [600M years of shared environmental stress response found in algae and plants](https://phys.org/news/2025-03-million-years-environmental-stress-response.html)
-* [2025-03-21, 10:37:16](https://news.ycombinator.com/item?id=43434010) - [Autology: A Lisp with access to its own interpreter](https://github.com/Kimbsy/autology)
 * [2025-03-21, 08:17:19](https://news.ycombinator.com/item?id=43433030) - [The earliest versions of the first C compiler known to exist](https://github.com/mortdeus/legacy-cc)
 
 ## [Archives](archives/index.md)
