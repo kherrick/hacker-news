@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-25, 04:47:47](https://news.ycombinator.com/item?id=43468197) - [David Lynch Presents Interview Project](https://www.youtube.com/channel/UC4lrTWEywA3JfR-N_dv0d4A)
-* [2025-03-25, 02:33:58](https://news.ycombinator.com/item?id=43467615) - [Post Apocalyptic Computing](https://thomashunter.name/posts/2025-03-23-post-apocalyptic-computing)
 * [2025-03-25, 02:19:03](https://news.ycombinator.com/item?id=43467541) - [Search My Site – open-source search engine for personal and independent websites](https://searchmysite.net)
 * [2025-03-24, 23:29:03](https://news.ycombinator.com/item?id=43466509) - [German parliament votes as a Git contribution graph](https://abstimmung.eu/git/2024)
 * [2025-03-24, 22:50:47](https://news.ycombinator.com/item?id=43466221) - [Gatehouse – a composable, async-friendly authorization policy framework in Rust](https://github.com/thepartly/gatehouse)
@@ -17,6 +16,7 @@
 * [2025-03-24, 14:45:34](https://news.ycombinator.com/item?id=43461701) - [Triforce – a beamformer for Apple Silicon laptops](https://github.com/chadmed/triforce)
 * [2025-03-24, 09:04:43](https://news.ycombinator.com/item?id=43458780) - [The Prospero Challenge](https://www.mattkeeter.com/projects/prospero/)
 * [2025-03-24, 03:57:02](https://news.ycombinator.com/item?id=43457699) - [Researchers search for more precise ways to measure pain](https://www.washingtonpost.com/science/2025/03/23/pain-measure-precision-research/)
+* [2025-03-23, 23:33:39](https://news.ycombinator.com/item?id=43456723) - [Project Aardvark: reimagining AI weather prediction](https://www.turing.ac.uk/blog/project-aardvark-reimagining-ai-weather-prediction)
 * [2025-03-23, 18:52:40](https://news.ycombinator.com/item?id=43454915) - [Show HN: LinkedIn sucks, so I built a better one](https://heyopenspot.com/)
 * [2025-03-23, 12:58:41](https://news.ycombinator.com/item?id=43452588) - [The Lost Towers of the Guelph-Ghibelline Wars](https://www.exurbe.com/the-lost-towers-of-the-guelph-ghibelline-wars/)
 * [2025-03-23, 06:52:59](https://news.ycombinator.com/item?id=43451279) - [MRubyD: A new mruby virtual machine implemented in pure C#](https://github.com/hadashiA/MRubyD)
