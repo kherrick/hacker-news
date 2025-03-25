@@ -18,6 +18,7 @@
 * [2025-03-22, 19:58:52](https://news.ycombinator.com/item?id=43448193) - [Mathematical Methods for Physics [pdf]](https://www.ma.imperial.ac.uk/~dturaev/Mathematical_Methods2021.pdf)
 * [2025-03-22, 19:46:04](https://news.ycombinator.com/item?id=43448112) - [Italy demands Google poison DNS under strict Piracy Shield law](https://arstechnica.com/gadgets/2025/03/italian-court-orders-google-to-block-iptv-pirate-sites-at-dns-level/)
 * [2025-03-22, 19:39:59](https://news.ycombinator.com/item?id=43448075) - [NixOS and reproducible builds could have detected the xz backdoor](https://luj.fr/blog/how-nixos-could-have-detected-xz.html)
+* [2025-03-22, 19:33:16](https://news.ycombinator.com/item?id=43448035) - [A study reveals that deciduous trees' roots remain active in winter](https://www.creaf.cat/en/articules/deciduous-trees-roots-remain-active-winter)
 * [2025-03-22, 19:31:38](https://news.ycombinator.com/item?id=43448023) - [The polar vortex is hitting the brakes](https://www.climate.gov/news-features/blogs/polar-vortex/polar-vortex-hitting-brakes)
 * [2025-03-22, 19:13:40](https://news.ycombinator.com/item?id=43447880) - ['Eggflation' sending US shoppers to Mexico – where $300 fines await](https://www.theguardian.com/us-news/2025/mar/21/eggflation-us-mexico-fines)
 * [2025-03-22, 18:35:00](https://news.ycombinator.com/item?id=43447616) - [Most AI value will come from broad automation, not from R&D](https://epoch.ai/gradient-updates/most-ai-value-will-come-from-broad-automation-not-from-r-d)

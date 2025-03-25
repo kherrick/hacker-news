@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-25](index.md)
 
+* [2025-03-25, 09:34:35](https://news.ycombinator.com/item?id=43469422) - [DNS Speed Test](https://dnsspeedtest.online/)
 * [2025-03-25, 08:10:36](https://news.ycombinator.com/item?id=43468976) - [Writing your own C++ standard library from scratch](https://nibblestew.blogspot.com/2025/03/writing-your-own-c-standard-library.html)
 * [2025-03-25, 08:07:00](https://news.ycombinator.com/item?id=43468959) - [A Sneaky Phish Just Grabbed My Mailchimp Mailing List](https://www.troyhunt.com/a-sneaky-phish-just-grabbed-my-mailchimp-mailing-list/)
 * [2025-03-25, 06:59:44](https://news.ycombinator.com/item?id=43468666) - [Status as a Service (2019)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
