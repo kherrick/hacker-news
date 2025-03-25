@@ -6,6 +6,7 @@
 
 * [2025-03-25, 21:47:20](https://news.ycombinator.com/item?id=43476365) - [What's Happening to Students?](https://www.honest-broker.com/p/whats-happening-to-students)
 * [2025-03-25, 21:42:37](https://news.ycombinator.com/item?id=43476337) - [Devs say AI crawlers dominate traffic, forcing blocks on entire countries](https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/)
+* [2025-03-25, 21:35:16](https://news.ycombinator.com/item?id=43476249) - [Sell Yourself Sell Your Work](https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?yc25hn)
 * [2025-03-25, 21:24:19](https://news.ycombinator.com/item?id=43476148) - [A majority of Swedes are open to boycotting American products](https://www.lunduniversity.lu.se/article/majority-swedes-are-open-boycotting-american-products)
 * [2025-03-25, 21:22:35](https://news.ycombinator.com/item?id=43476134) - [Optimizing ML Training with Metagradient Descent](https://arxiv.org/abs/2503.13751)
 * [2025-03-25, 19:54:22](https://news.ycombinator.com/item?id=43475179) - [The Blood on the Keyboard](https://www.historynewsnetwork.org/article/blood-on-the-keyboard)
