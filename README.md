@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-25, 16:38:51](https://news.ycombinator.com/item?id=43473246) - [BigQuery pricing model cost us $10k in 22 seconds](https://www.linkedin.com/posts/yingjun-wu_%F0%9D%90%81%F0%9D%90%A2%F0%9D%90%A0%F0%9D%90%90%F0%9D%90%AE%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%B2%F0%9D%90%AC-%F0%9D%90%91%F0%9D%90%88%F0%9D%90%83%F0%9D%90%88%F0%9D%90%82%F0%9D%90%94%F0%9D%90%8B%F0%9D%90%8E%F0%9D%90%94-activity-7307736315079405569-F2Ng)
 * [2025-03-25, 15:42:58](https://news.ycombinator.com/item?id=43472668) - [Were large soda lakes the cradle of life?](https://ethz.ch/en/news-and-events/eth-news/news/2025/03/were-large-soda-lakes-the-cradle-of-life.html)
 * [2025-03-25, 15:42:03](https://news.ycombinator.com/item?id=43472663) - [Why is C the symbol for the speed of light? (2004)](https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/c.html)
 * [2025-03-25, 15:28:22](https://news.ycombinator.com/item?id=43472515) - [New NASA satellite mapped the oceans like never before](https://www.zmescience.com/science/oceanography/new-nasa-satellite-mapped-the-oceans-like-never-before/)
 * [2025-03-25, 15:11:56](https://news.ycombinator.com/item?id=43472320) - [Borne Back Ceaselessly into the Past: Fitzgerald, Gatsby and WWI](https://www.theworldwar.org/learn/about-wwi/borne-back-ceaselessly-past-fitzgerald-gatsby-and-wwi)
 * [2025-03-25, 14:57:59](https://news.ycombinator.com/item?id=43472143) - [My Favorite C++ Pattern: X Macros (2023)](https://danilafe.com/blog/chapel_x_macros/)
-* [2025-03-25, 13:58:07](https://news.ycombinator.com/item?id=43471393) - [Beej's Guide to C Programming [pdf]](https://beej.us/guide/bgc/pdf/bgc_a4_c_1.pdf)
 * [2025-03-25, 13:45:01](https://news.ycombinator.com/item?id=43471223) - [The Practical Limitations of End-to-End Encryption](https://soatok.blog/2025/03/25/the-practical-limitations-of-end-to-end-encryption/)
 * [2025-03-25, 13:26:01](https://news.ycombinator.com/item?id=43470971) - [What Killed Innovation?](https://www.shirleywu.studio/notebook/2025-02-innovation-killer)
 * [2025-03-25, 13:04:54](https://news.ycombinator.com/item?id=43470699) - [Samsung CEO Jong-hee Han has died](https://www.engadget.com/big-tech/samsung-ceo-jong-hee-han-has-died-120029286.html)

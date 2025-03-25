@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-25](index.md)
 
+* [2025-03-25, 16:38:51](https://news.ycombinator.com/item?id=43473246) - [BigQuery pricing model cost us $10k in 22 seconds](https://www.linkedin.com/posts/yingjun-wu_%F0%9D%90%81%F0%9D%90%A2%F0%9D%90%A0%F0%9D%90%90%F0%9D%90%AE%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%B2%F0%9D%90%AC-%F0%9D%90%91%F0%9D%90%88%F0%9D%90%83%F0%9D%90%88%F0%9D%90%82%F0%9D%90%94%F0%9D%90%8B%F0%9D%90%8E%F0%9D%90%94-activity-7307736315079405569-F2Ng)
 * [2025-03-25, 15:42:58](https://news.ycombinator.com/item?id=43472668) - [Were large soda lakes the cradle of life?](https://ethz.ch/en/news-and-events/eth-news/news/2025/03/were-large-soda-lakes-the-cradle-of-life.html)
 * [2025-03-25, 15:42:03](https://news.ycombinator.com/item?id=43472663) - [Why is C the symbol for the speed of light? (2004)](https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/c.html)
 * [2025-03-25, 15:28:22](https://news.ycombinator.com/item?id=43472515) - [New NASA satellite mapped the oceans like never before](https://www.zmescience.com/science/oceanography/new-nasa-satellite-mapped-the-oceans-like-never-before/)
