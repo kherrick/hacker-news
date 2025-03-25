@@ -16,6 +16,7 @@
 * [2025-03-24, 20:38:15](https://news.ycombinator.com/item?id=43465170) - [The rage bait economy is going strong [video]](https://www.youtube.com/watch?v=Ah6AB33JUgU)
 * [2025-03-24, 20:35:30](https://news.ycombinator.com/item?id=43465147) - [Arc-AGI-2 and ARC Prize 2025](https://arcprize.org/blog/announcing-arc-agi-2-and-arc-prize-2025)
 * [2025-03-24, 20:33:10](https://news.ycombinator.com/item?id=43465127) - [Decent living standards for 8.5B would require 30% of current resource use](https://www.sciencedirect.com/science/article/pii/S2452292924000493)
+* [2025-03-24, 20:31:36](https://news.ycombinator.com/item?id=43465111) - [It's Time to Stop Building KV Databases](https://buttondown.com/jaffray/archive/its-time-to-stop-building-kv-databases/)
 * [2025-03-24, 20:08:25](https://news.ycombinator.com/item?id=43464914) - [Why do programmers want to quit programming and start a homestead?](https://tjmorley.com/blogposts/cottagecoreprogrammers.html)
 * [2025-03-24, 19:47:08](https://news.ycombinator.com/item?id=43464731) - [GM blocks dealers from using Apple CarPlay, Android Auto aftermarket kits](https://news.dealershipguy.com/p/gm-blocks-dealers-from-using-apple-carplay-android-auto-aftermarket-kits-2025-03-24)
 * [2025-03-24, 19:26:05](https://news.ycombinator.com/item?id=43464541) - [The Peano Axioms: Building Blocks of Arithmetic](https://principlesofcryptography.com/number-theory-primer-an-axiomatic-study-of-natural-numbers-peano-axioms/)

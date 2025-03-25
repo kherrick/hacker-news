@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-22](index.md)
 
 * [2025-03-22, 22:52:21](https://news.ycombinator.com/item?id=43449326) - [The Vectrex Computer](https://www.amigalove.com/viewtopic.php?t=2887)
+* [2025-03-22, 21:52:58](https://news.ycombinator.com/item?id=43448933) - [WWI's 'Dazzle' Camouflage Seemed Effective Due to Unexpected Optical Trick](https://gizmodo.com/wwis-famous-dazzle-camouflage-seemed-effective-due-to-unexpected-optical-trick-study-finds-2000577568)
 * [2025-03-22, 21:21:39](https://news.ycombinator.com/item?id=43448741) - [Older editions of which books were better than the new ones?](https://mathoverflow.net/questions/29710/older-editions-of-which-books-were-better-than-the-new-ones)
 * [2025-03-22, 21:19:07](https://news.ycombinator.com/item?id=43448723) - [CVE-2025-29927 – Next.js](https://nextjs.org/blog/cve-2025-29927)
 * [2025-03-22, 21:02:40](https://news.ycombinator.com/item?id=43448606) - [CEO of AI ad-tech firm pledging \"world free of fraud\" sentenced for fraud](https://arstechnica.com/gadgets/2025/03/ceo-of-ai-ad-tech-firm-pledging-world-free-of-fraud-sentenced-for-fraud/)
