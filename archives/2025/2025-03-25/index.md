@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-25](index.md)
 
+* [2025-03-25, 13:46:49](https://news.ycombinator.com/item?id=43471242) - [Tokyo court orders former Unification Church to disban](https://www3.nhk.or.jp/nhkworld/en/news/20250325_13/)
 * [2025-03-25, 13:40:59](https://news.ycombinator.com/item?id=43471177) - [If you get the chance, always run more extra network fiber cabling](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RunMoreExtraNetworkFiber)
 * [2025-03-25, 13:37:35](https://news.ycombinator.com/item?id=43471134) - [The Phony Comforts of AI Optimism](https://www.wheresyoured.at/optimistic-cowardice/)
 * [2025-03-25, 13:32:04](https://news.ycombinator.com/item?id=43471062) - [Marginalia Search receives second nlnet grant](https://www.marginalia.nu/log/a_116_grant_2.0/)
