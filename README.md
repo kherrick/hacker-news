@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-26, 09:42:29](https://news.ycombinator.com/item?id=43480396) - [Europe's Largest Makerspace](https://www.berlin-partner.de/en/news/detail/europas-groesster-makerspace)
+* [2025-03-26, 08:21:27](https://news.ycombinator.com/item?id=43479985) - [Gemini 2.5 Pro reasons about task feasibility](https://everything.intellectronica.net/p/negotiating-with-the-machine)
 * [2025-03-26, 05:19:22](https://news.ycombinator.com/item?id=43479094) - [Coordinating the Superbowl's visual fidelity with Elixir](https://elixir-lang.org/blog/2025/03/25/cyanview-elixir-case/)
 * [2025-03-25, 22:35:17](https://news.ycombinator.com/item?id=43476793) - [Better Shell History Search](https://tratt.net/laurie/blog/2025/better_shell_history_search.html)
 * [2025-03-25, 21:42:37](https://news.ycombinator.com/item?id=43476337) - [Devs say AI crawlers dominate traffic, forcing blocks on entire countries](https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/)
@@ -14,7 +16,6 @@
 * [2025-03-25, 16:51:09](https://news.ycombinator.com/item?id=43473358) - [Kylie Minogue song about a typeface](https://abcdinamo.com/news/german-bold-italic)
 * [2025-03-25, 14:57:59](https://news.ycombinator.com/item?id=43472143) - [My Favorite C++ Pattern: X Macros (2023)](https://danilafe.com/blog/chapel_x_macros/)
 * [2025-03-25, 13:40:59](https://news.ycombinator.com/item?id=43471177) - [If you get the chance, always run more extra network fiber cabling](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RunMoreExtraNetworkFiber)
-* [2025-03-25, 13:26:01](https://news.ycombinator.com/item?id=43470971) - [What Killed Innovation?](https://www.shirleywu.studio/notebook/2025-02-innovation-killer)
 * [2025-03-25, 13:22:09](https://news.ycombinator.com/item?id=43470906) - [Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH](https://blog.cloudflare.com/open-sourcing-openpubkey-ssh-opkssh-integrating-single-sign-on-with-ssh/)
 * [2025-03-25, 12:59:26](https://news.ycombinator.com/item?id=43470651) - [VGGT: Visual Geometry Grounded Transformer](https://github.com/facebookresearch/vggt)
 * [2025-03-25, 11:41:18](https://news.ycombinator.com/item?id=43470066) - ['A walking billboard': The history of San Francisco's most recognizable bag](https://www.sfgate.com/sf-culture/article/history-san-franciscos-most-recognizable-bag-20228921.php)
@@ -27,7 +28,6 @@
 * [2025-03-23, 06:55:11](https://news.ycombinator.com/item?id=43451285) - [Ruby, Ractors, and lock-free data structures](https://iliabylich.github.io/ruby-ractors-and-lock-free-data-structures/)
 * [2025-03-23, 03:42:23](https://news.ycombinator.com/item?id=43450745) - [Rest Easy](https://www.commentary.org/articles/joseph-epstein/rest-work-purpose/)
 * [2025-03-23, 02:43:54](https://news.ycombinator.com/item?id=43450515) - [All Clothing Is Handmade (2022)](https://ruthtillman.com/post/all-clothing-is-handmade/)
-* [2025-03-22, 23:37:43](https://news.ycombinator.com/item?id=43449608) - [AMC Theatres will screen a Swedish movie 'visually dubbed' with the help of AI](https://www.engadget.com/ai/amc-theatres-will-screen-a-swedish-movie-visually-dubbed-with-the-help-of-ai-130022232.html)
 * [2025-03-21, 20:12:49](https://news.ycombinator.com/item?id=43440321) - [Scientists break down plastic using a simple, inexpensive catalyst and air](https://phys.org/news/2025-03-scientists-plastic-simple-inexpensive-catalyst.html)
 * [2025-03-21, 18:44:37](https://news.ycombinator.com/item?id=43439501) - [Deciphering language processing in the human brain through LLM representations](https://research.google/blog/deciphering-language-processing-in-the-human-brain-through-llm-representations/)
 

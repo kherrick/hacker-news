@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-26](index.md)
 
+* [2025-03-26, 09:42:29](https://news.ycombinator.com/item?id=43480396) - [Europe's Largest Makerspace](https://www.berlin-partner.de/en/news/detail/europas-groesster-makerspace)
+* [2025-03-26, 08:21:27](https://news.ycombinator.com/item?id=43479985) - [Gemini 2.5 Pro reasons about task feasibility](https://everything.intellectronica.net/p/negotiating-with-the-machine)
 * [2025-03-26, 08:19:30](https://news.ycombinator.com/item?id=43479976) - [ESA has a commercial launch strategy, but will member states pay?](https://arstechnica.com/space/2025/03/esa-finally-has-a-commercial-launch-strategy-but-will-member-states-pay/)
 * [2025-03-26, 07:05:43](https://news.ycombinator.com/item?id=43479569) - [Ask HN: Are there any money-saving hacks that AI can assist you with？](https://news.ycombinator.com/item?id=43479569)
 * [2025-03-26, 05:19:22](https://news.ycombinator.com/item?id=43479094) - [Coordinating the Superbowl's visual fidelity with Elixir](https://elixir-lang.org/blog/2025/03/25/cyanview-elixir-case/)
