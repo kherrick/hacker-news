@@ -4,8 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-03-26](index.md)
 
+* [2025-03-26, 17:25:58](https://news.ycombinator.com/item?id=43484542) - [Firefox Is Finally (Re)Adding Support for Web Apps](https://www.omgubuntu.co.uk/2025/03/firefox-nightly-supports-web-apps-taskbar-tabs)
+* [2025-03-26, 17:22:22](https://news.ycombinator.com/item?id=43484520) - [Debian bookworm live images now reproducible](https://lwn.net/Articles/1015402/)
+* [2025-03-26, 17:12:53](https://news.ycombinator.com/item?id=43484427) - [Servo vs. Ladybird](https://thelibre.news/servo-vs-ladybird/)
+* [2025-03-26, 17:08:56](https://news.ycombinator.com/item?id=43484382) - [A Love Letter to the CSV Format](https://github.com/medialab/xan/blob/master/docs/LOVE_LETTER.md)
 * [2025-03-26, 17:00:00](https://news.ycombinator.com/item?id=43484283) - [Weave (YC W25) is hiring a founding product engineer](https://www.ycombinator.com/companies/weave-3/jobs/E0LFOgu-founding-product-engineer)
+* [2025-03-26, 16:54:51](https://news.ycombinator.com/item?id=43484224) - [Microsoft Study: AI Makes Human Cognition \"Atrophied and Unprepared\"](https://www.404media.co/microsoft-study-finds-ai-makes-human-cognition-atrophied-and-unprepared-3/)
 * [2025-03-26, 16:40:29](https://news.ycombinator.com/item?id=43484093) - [Discredited anti-vaccine advocate will lead CDC study on vaccines and autism](https://arstechnica.com/health/2025/03/rfk-jr-hires-anti-vaccine-advocate-to-study-debunked-vaccine-autism-link/)
+* [2025-03-26, 16:15:31](https://news.ycombinator.com/item?id=43483802) - [Kilo Code: Speedrunning open source coding AI](https://blog.kilocode.ai/p/kilo-code-speedrunning-open-source-coding-ai)
 * [2025-03-26, 15:54:28](https://news.ycombinator.com/item?id=43483567) - [Linux kernel 6.14 is a big leap forward in performance and Windows compatibility](https://www.zdnet.com/article/linux-kernel-6-14-is-a-big-leap-forward-in-performance-and-windows-compatibility/)
 * [2025-03-26, 15:24:46](https://news.ycombinator.com/item?id=43483255) - [Show HN: New Agentic AI Framework in CNCF](https://github.com/dapr/dapr-agents)
 * [2025-03-26, 15:02:25](https://news.ycombinator.com/item?id=43483011) - [AI will change the world but not in the way you think](https://thomashunter.name/posts/2025-03-19-ai-llms-will-change-the-world)
