@@ -64,6 +64,7 @@
 * [2025-03-25, 09:34:35](https://news.ycombinator.com/item?id=43469422) - [DNS Speed Test](https://dnsspeedtest.online/)
 * [2025-03-25, 08:14:50](https://news.ycombinator.com/item?id=43468995) - [Spammers are better at SPF, DKIM, and DMARC than everyone else](https://toad.social/@grumpybozo/114213600922816869)
 * [2025-03-25, 08:10:36](https://news.ycombinator.com/item?id=43468976) - [Writing your own C++ standard library from scratch](https://nibblestew.blogspot.com/2025/03/writing-your-own-c-standard-library.html)
+* [2025-03-25, 08:09:38](https://news.ycombinator.com/item?id=43468972) - [Evolving Scala](https://www.scala-lang.org/blog/2025/03/24/evolving-scala.html)
 * [2025-03-25, 08:07:00](https://news.ycombinator.com/item?id=43468959) - [A Sneaky Phish Just Grabbed My Mailchimp Mailing List](https://www.troyhunt.com/a-sneaky-phish-just-grabbed-my-mailchimp-mailing-list/)
 * [2025-03-25, 06:59:44](https://news.ycombinator.com/item?id=43468666) - [Status as a Service (2019)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
 * [2025-03-25, 06:52:22](https://news.ycombinator.com/item?id=43468637) - [The Lost Art of Commit Messages](https://www.seyhan.me/blog/post/lost-art-of-commit-messages)

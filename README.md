@@ -18,6 +18,7 @@
 * [2025-03-25, 13:40:59](https://news.ycombinator.com/item?id=43471177) - [If you get the chance, always run more extra network fiber cabling](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RunMoreExtraNetworkFiber)
 * [2025-03-25, 13:22:09](https://news.ycombinator.com/item?id=43470906) - [Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH](https://blog.cloudflare.com/open-sourcing-openpubkey-ssh-opkssh-integrating-single-sign-on-with-ssh/)
 * [2025-03-25, 12:59:26](https://news.ycombinator.com/item?id=43470651) - [VGGT: Visual Geometry Grounded Transformer](https://github.com/facebookresearch/vggt)
+* [2025-03-25, 08:09:38](https://news.ycombinator.com/item?id=43468972) - [Evolving Scala](https://www.scala-lang.org/blog/2025/03/24/evolving-scala.html)
 * [2025-03-25, 06:11:46](https://news.ycombinator.com/item?id=43468498) - [Is Robert Frost Even a Good Poet?](https://www.theparisreview.org/blog/2025/03/17/is-robert-frost-even-a-good-poet/)
 * [2025-03-24, 21:48:07](https://news.ycombinator.com/item?id=43465740) - [Show HN: A website for sharing the \"Good, Bad, and Why\"s of urban spaces](https://dedede.de/en)
 * [2025-03-24, 16:23:55](https://news.ycombinator.com/item?id=43462783) - [U.S. national-security leaders included me in a group chat](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/)
@@ -27,7 +28,6 @@
 * [2025-03-23, 07:40:29](https://news.ycombinator.com/item?id=43451435) - [A (Long) Peek into Reinforcement Learning](https://lilianweng.github.io/posts/2018-02-19-rl-overview/)
 * [2025-03-23, 06:55:11](https://news.ycombinator.com/item?id=43451285) - [Ruby, Ractors, and lock-free data structures](https://iliabylich.github.io/ruby-ractors-and-lock-free-data-structures/)
 * [2025-03-23, 03:42:23](https://news.ycombinator.com/item?id=43450745) - [Rest Easy](https://www.commentary.org/articles/joseph-epstein/rest-work-purpose/)
-* [2025-03-22, 23:37:43](https://news.ycombinator.com/item?id=43449608) - [AMC Theatres will screen a Swedish movie 'visually dubbed' with the help of AI](https://www.engadget.com/ai/amc-theatres-will-screen-a-swedish-movie-visually-dubbed-with-the-help-of-ai-130022232.html)
 * [2025-03-21, 20:12:49](https://news.ycombinator.com/item?id=43440321) - [Scientists break down plastic using a simple, inexpensive catalyst and air](https://phys.org/news/2025-03-scientists-plastic-simple-inexpensive-catalyst.html)
 * [2025-03-21, 18:44:37](https://news.ycombinator.com/item?id=43439501) - [Deciphering language processing in the human brain through LLM representations](https://research.google/blog/deciphering-language-processing-in-the-human-brain-through-llm-representations/)
 
