@@ -41,6 +41,7 @@
 * [2025-03-21, 16:52:59](https://news.ycombinator.com/item?id=43438032) - [What Is the Most Minimal Agentic Coder You Can Write?](https://benhouston3d.com/blog/minimal-agentic-coder)
 * [2025-03-21, 16:34:26](https://news.ycombinator.com/item?id=43437752) - [The Jakt Programming Language](https://github.com/SerenityOS/jakt)
 * [2025-03-21, 16:32:30](https://news.ycombinator.com/item?id=43437725) - [Brain Scans of Infants Reveal the Moment We Start Making Memories](https://singularityhub.com/2025/03/20/new-baby-brain-scans-reveal-the-moment-we-start-making-memories/)
+* [2025-03-21, 15:44:51](https://news.ycombinator.com/item?id=43437028) - [Google’s two-year frenzy to catch up with OpenAI](https://www.wired.com/story/google-openai-gemini-chatgpt-artificial-intelligence/)
 * [2025-03-21, 15:38:13](https://news.ycombinator.com/item?id=43436933) - [The Cult of the American Lawn](https://www.noemamag.com/the-cult-of-the-american-lawn/)
 * [2025-03-21, 15:35:27](https://news.ycombinator.com/item?id=43436894) - [IronRDP: a Rust implementation of Microsoft's RDP protocol](https://github.com/Devolutions/IronRDP)
 * [2025-03-21, 15:13:35](https://news.ycombinator.com/item?id=43436663) - [Metabolism Can Shape Cells' Destinies](https://www.quantamagazine.org/how-metabolism-can-shape-cells-destinies-20250321/)
