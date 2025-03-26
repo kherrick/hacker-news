@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-26, 20:31:13](https://news.ycombinator.com/item?id=43486945) - [Oracle customers confirm data stolen in alleged cloud breach is valid](https://www.bleepingcomputer.com/news/security/oracle-customers-confirm-data-stolen-in-alleged-cloud-breach-is-valid/)
+* [2025-03-26, 20:19:56](https://news.ycombinator.com/item?id=43486797) - [Stockpile 72 hours of supplies in case of disaster or attack, EU tells citizens](https://www.theguardian.com/world/2025/mar/26/stockpile-supplies-72-hours-disasters-attack-eu-tells-citizens)
 * [2025-03-26, 20:08:32](https://news.ycombinator.com/item?id=43486647) - [Building a Firecracker-Powered Course Platform to Learn Docker and Kubernetes](https://iximiuz.com/en/posts/iximiuz-labs-story/)
 * [2025-03-26, 19:41:20](https://news.ycombinator.com/item?id=43486236) - [How to Delete Your 23andMe Data](https://www.eff.org/deeplinks/2025/03/how-delete-your-23andme-data)
 * [2025-03-26, 19:38:35](https://news.ycombinator.com/item?id=43486199) - [Tao: Using test-time compute to train efficient LLMs without labeled data](https://www.databricks.com/blog/tao-using-test-time-compute-train-efficient-llms-without-labeled-data)
@@ -23,11 +25,9 @@
 * [2025-03-26, 05:19:22](https://news.ycombinator.com/item?id=43479094) - [Coordinating the Superbowl's visual fidelity with Elixir](https://elixir-lang.org/blog/2025/03/25/cyanview-elixir-case/)
 * [2025-03-25, 18:47:37](https://news.ycombinator.com/item?id=43474490) - [MCP server for Ghidra](https://github.com/LaurieWired/GhidraMCP)
 * [2025-03-24, 19:05:49](https://news.ycombinator.com/item?id=43464362) - [An Interview with Zen Chief Architect Mike Clark](https://www.computerenhance.com/p/an-interview-with-zen-chief-architect)
-* [2025-03-23, 19:33:44](https://news.ycombinator.com/item?id=43455251) - [Fragment of a human face aged over one million years discovered](https://www.sciencedaily.com/releases/2025/03/250312123847.htm)
 * [2025-03-23, 13:27:26](https://news.ycombinator.com/item?id=43452789) - [Writing Programs with Ncurses](https://invisible-island.net/ncurses/ncurses-intro.html)
 * [2025-03-23, 10:02:02](https://news.ycombinator.com/item?id=43451935) - [Heap-overflowing Llama.cpp to RCE](https://retr0.blog/blog/llama-rpc-rce)
 * [2025-03-23, 07:31:15](https://news.ycombinator.com/item?id=43451406) - [Gemma3 Function Calling](https://ai.google.dev/gemma/docs/capabilities/function-calling)
-* [2025-03-23, 06:22:14](https://news.ycombinator.com/item?id=43451187) - [High-Performance PNG Decoding](https://blend2d.com/blog/png-image-codec.html)
 * [2025-03-23, 02:43:54](https://news.ycombinator.com/item?id=43450515) - [All clothing is handmade (2022)](https://ruthtillman.com/post/all-clothing-is-handmade/)
 * [2025-03-21, 15:44:51](https://news.ycombinator.com/item?id=43437028) - [Google’s two-year frenzy to catch up with OpenAI](https://www.wired.com/story/google-openai-gemini-chatgpt-artificial-intelligence/)
 
