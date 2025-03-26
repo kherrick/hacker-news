@@ -47,6 +47,7 @@
 * [2025-03-22, 13:46:30](https://news.ycombinator.com/item?id=43445614) - [Differential Geometry: A First Course in Curves and Surfaces [pdf]](https://math.franklin.uga.edu/sites/default/files/users/user317/ShifrinDiffGeo.pdf)
 * [2025-03-22, 13:30:21](https://news.ycombinator.com/item?id=43445547) - [IETF setting standards for AI preferences](https://www.ietf.org/blog/aipref-wg/)
 * [2025-03-22, 12:52:27](https://news.ycombinator.com/item?id=43445381) - [The Cybernetic Teammate](https://www.oneusefulthing.org/p/the-cybernetic-teammate)
+* [2025-03-22, 11:17:30](https://news.ycombinator.com/item?id=43444999) - [Svelte: $derived can now be overwritten](https://github.com/sveltejs/svelte/pull/15570)
 * [2025-03-22, 09:51:58](https://news.ycombinator.com/item?id=43444605) - [MacBooks account for 86% of total Mac sales; Mac desktops just 14%](https://macdailynews.com/2025/03/19/macbooks-account-for-86-of-total-mac-sales-mac-desktops-just-14/)
 * [2025-03-22, 09:46:24](https://news.ycombinator.com/item?id=43444588) - [Coding Theory and Cryptography [pdf]](http://www.mathstat.ualberta.ca/~bowman/m422/m422.pdf)
 * [2025-03-22, 09:39:26](https://news.ycombinator.com/item?id=43444558) - [I'd like to take a moment to speak to you about the Adobe PSD format](https://github.com/gco/xee/blob/4fa3a6d609dd72b8493e52a68f316f7a02903276/XeePhotoshopLoader.m)

@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-25](index.md)
 
+* [2025-03-25, 23:14:08](https://news.ycombinator.com/item?id=43477102) - [Saying 'pandemic is over,' NIH institute starts cutting Covid-19 research](https://www.science.org/content/article/saying-pandemic-over-nih-institute-starts-cutting-covid-19-research)
 * [2025-03-25, 23:09:09](https://news.ycombinator.com/item?id=43477057) - [You might want to stop running atop](https://rachelbythebay.com/w/2025/03/25/atop/)
+* [2025-03-25, 22:35:17](https://news.ycombinator.com/item?id=43476793) - [Better Shell History Search](https://tratt.net/laurie/blog/2025/better_shell_history_search.html)
 * [2025-03-25, 21:47:20](https://news.ycombinator.com/item?id=43476365) - [What's Happening to Students?](https://www.honest-broker.com/p/whats-happening-to-students)
 * [2025-03-25, 21:42:37](https://news.ycombinator.com/item?id=43476337) - [Devs say AI crawlers dominate traffic, forcing blocks on entire countries](https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/)
 * [2025-03-25, 21:35:16](https://news.ycombinator.com/item?id=43476249) - [Sell Yourself Sell Your Work](https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?yc25hn)
