@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-26, 05:19:22](https://news.ycombinator.com/item?id=43479094) - [Coordinating the Superbowl's visual fidelity with Elixir](https://elixir-lang.org/blog/2025/03/25/cyanview-elixir-case/)
 * [2025-03-25, 22:35:17](https://news.ycombinator.com/item?id=43476793) - [Better Shell History Search](https://tratt.net/laurie/blog/2025/better_shell_history_search.html)
 * [2025-03-25, 21:42:37](https://news.ycombinator.com/item?id=43476337) - [Devs say AI crawlers dominate traffic, forcing blocks on entire countries](https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/)
 * [2025-03-25, 21:35:16](https://news.ycombinator.com/item?id=43476249) - [Sell yourself, sell your work](https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?yc25hn)
@@ -29,7 +30,6 @@
 * [2025-03-22, 11:17:30](https://news.ycombinator.com/item?id=43444999) - [Svelte: $derived can now be overwritten](https://github.com/sveltejs/svelte/pull/15570)
 * [2025-03-21, 20:12:49](https://news.ycombinator.com/item?id=43440321) - [Scientists break down plastic using a simple, inexpensive catalyst and air](https://phys.org/news/2025-03-scientists-plastic-simple-inexpensive-catalyst.html)
 * [2025-03-21, 18:44:37](https://news.ycombinator.com/item?id=43439501) - [Deciphering language processing in the human brain through LLM representations](https://research.google/blog/deciphering-language-processing-in-the-human-brain-through-llm-representations/)
-* [2025-03-21, 16:34:26](https://news.ycombinator.com/item?id=43437752) - [The Jakt Programming Language](https://github.com/SerenityOS/jakt)
 
 ## [Archives](archives/index.md)
 
