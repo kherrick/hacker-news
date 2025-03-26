@@ -47,6 +47,7 @@
 * [2025-03-24, 09:56:12](https://news.ycombinator.com/item?id=43459100) - [Langfuse (YC W23) Is Hiring in Berlin, Germany](https://langfuse.com/careers)
 * [2025-03-24, 09:04:43](https://news.ycombinator.com/item?id=43458780) - [The Prospero Challenge](https://www.mattkeeter.com/projects/prospero/)
 * [2025-03-24, 09:00:18](https://news.ycombinator.com/item?id=43458759) - [HP avoids monetary damages over bricked printers in class-action settlement](https://arstechnica.com/gadgets/2025/03/hp-avoids-monetary-damages-over-bricked-printers-in-class-action-settlement/)
+* [2025-03-24, 08:53:23](https://news.ycombinator.com/item?id=43458738) - [Writing a tiny undo/redo stack in JavaScript](https://blog.julik.nl/2025/03/a-tiny-undo-stack)
 * [2025-03-24, 08:49:54](https://news.ycombinator.com/item?id=43458717) - [European Cloud, Global Reach](https://upcloud.com/blog/european-cloud-global-reach)
 * [2025-03-24, 08:46:31](https://news.ycombinator.com/item?id=43458693) - [A 1930s movement wanted to merge the US, Canada and Greenland](https://theconversation.com/a-1930s-movement-wanted-to-merge-the-us-canada-and-greenland-heres-why-it-has-modern-resonances-252587)
 * [2025-03-24, 08:38:16](https://news.ycombinator.com/item?id=43458633) - [Rust Additions for GCC 15 Bring Support for If-Let Statements](https://www.phoronix.com/news/GCC-15-Rust-if-let)

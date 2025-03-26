@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-26](index.md)
 
+* [2025-03-26, 20:57:59](https://news.ycombinator.com/item?id=43487231) - [After 50 million miles, Waymos crash a lot less than human drivers](https://www.understandingai.org/p/human-drivers-keep-crashing-into)
 * [2025-03-26, 20:31:13](https://news.ycombinator.com/item?id=43486945) - [Oracle customers confirm data stolen in alleged cloud breach is valid](https://www.bleepingcomputer.com/news/security/oracle-customers-confirm-data-stolen-in-alleged-cloud-breach-is-valid/)
 * [2025-03-26, 20:19:56](https://news.ycombinator.com/item?id=43486797) - [Stockpile 72 hours of supplies in case of disaster or attack, EU tells citizens](https://www.theguardian.com/world/2025/mar/26/stockpile-supplies-72-hours-disasters-attack-eu-tells-citizens)
 * [2025-03-26, 20:08:32](https://news.ycombinator.com/item?id=43486647) - [Building a Firecracker-Powered Course Platform to Learn Docker and Kubernetes](https://iximiuz.com/en/posts/iximiuz-labs-story/)
