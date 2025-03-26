@@ -2,6 +2,7 @@
 
 * [2025-03-26, 20:08:32](https://news.ycombinator.com/item?id=43486647) - [Building a Firecracker-Powered Course Platform to Learn Docker and Kubernetes](https://iximiuz.com/en/posts/iximiuz-labs-story/)
 * [2025-03-26, 19:41:20](https://news.ycombinator.com/item?id=43486236) - [How to Delete Your 23andMe Data](https://www.eff.org/deeplinks/2025/03/how-delete-your-23andme-data)
+* [2025-03-26, 19:38:35](https://news.ycombinator.com/item?id=43486199) - [Tao: Using test-time compute to train efficient LLMs without labeled data](https://www.databricks.com/blog/tao-using-test-time-compute-train-efficient-llms-without-labeled-data)
 * [2025-03-26, 19:23:36](https://news.ycombinator.com/item?id=43485980) - [Problems with the Heap](https://rachelbythebay.com/w/2025/03/26/atop/)
 * [2025-03-26, 19:21:51](https://news.ycombinator.com/item?id=43485950) - [Google makes Android development private, will continue open source releases](https://arstechnica.com/gadgets/2025/03/google-makes-android-development-private-will-continue-open-source-releases/)
 * [2025-03-26, 19:07:39](https://news.ycombinator.com/item?id=43485740) - [Playwright Tools for MCP](https://github.com/microsoft/playwright-mcp)
@@ -28,7 +29,6 @@
 * [2025-03-23, 07:31:15](https://news.ycombinator.com/item?id=43451406) - [Gemma3 Function Calling](https://ai.google.dev/gemma/docs/capabilities/function-calling)
 * [2025-03-23, 06:22:14](https://news.ycombinator.com/item?id=43451187) - [High-Performance PNG Decoding](https://blend2d.com/blog/png-image-codec.html)
 * [2025-03-23, 02:43:54](https://news.ycombinator.com/item?id=43450515) - [All clothing is handmade (2022)](https://ruthtillman.com/post/all-clothing-is-handmade/)
-* [2025-03-22, 23:46:36](https://news.ycombinator.com/item?id=43449645) - ['Naive' science fan faces jail for plutonium import](https://au.news.yahoo.com/naive-science-fan-faces-jail-053025281.html)
 * [2025-03-21, 15:44:51](https://news.ycombinator.com/item?id=43437028) - [Google’s two-year frenzy to catch up with OpenAI](https://www.wired.com/story/google-openai-gemini-chatgpt-artificial-intelligence/)
 
 ## [Archives](archives/index.md)
