@@ -74,5 +74,6 @@
 * [2025-03-23, 03:40:05](https://news.ycombinator.com/item?id=43450732) - [(Recommendation Systems and Search) × LLMs](https://eugeneyan.com/writing/recsys-llm/)
 * [2025-03-23, 03:10:33](https://news.ycombinator.com/item?id=43450632) - [A sodium-ion portable power bank comes to market](https://www.theverge.com/news/631357/elecom-power-bank-battery-sodium-ion)
 * [2025-03-23, 02:51:38](https://news.ycombinator.com/item?id=43450550) - [Stop using the elbow criterion for k-means](https://arxiv.org/abs/2212.12189)
+* [2025-03-23, 02:43:54](https://news.ycombinator.com/item?id=43450515) - [All Clothing Is Handmade (2022)](https://ruthtillman.com/post/all-clothing-is-handmade/)
 * [2025-03-23, 01:34:59](https://news.ycombinator.com/item?id=43450256) - [Upcoming changes to how live videos are stored](https://www.facebook.com/business/help/1005165994166600?_fb_noscript=1)
 * [2025-03-23, 01:00:12](https://news.ycombinator.com/item?id=43450060) - [Domu Technology Inc. (YC S24) Is Hiring a Vibe Coder](https://www.ycombinator.com/companies/domu-technology-inc/jobs/hwWsGdU-vibe-coder-ai-engineer)
