@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-26, 19:07:39](https://news.ycombinator.com/item?id=43485740) - [Playwright Tools for MCP](https://github.com/microsoft/playwright-mcp)
 * [2025-03-26, 19:00:46](https://news.ycombinator.com/item?id=43485649) - [Airline Demand Between Canada and United States Collapses, Down 70%+](https://onemileatatime.com/news/airline-demand-canada-united-states-collapses/)
 * [2025-03-26, 18:55:29](https://news.ycombinator.com/item?id=43485566) - [OpenAI adds MCP support to Agents SDK](https://openai.github.io/openai-agents-python/mcp/)
 * [2025-03-26, 18:01:51](https://news.ycombinator.com/item?id=43484927) - [Google will develop Android OS behind closed doors starting next week](https://9to5google.com/2025/03/26/google-android-aosp-developement-private/)
@@ -26,7 +27,6 @@
 * [2025-03-23, 07:31:15](https://news.ycombinator.com/item?id=43451406) - [Gemma3 Function Calling](https://ai.google.dev/gemma/docs/capabilities/function-calling)
 * [2025-03-23, 06:22:14](https://news.ycombinator.com/item?id=43451187) - [High-Performance PNG Decoding](https://blend2d.com/blog/png-image-codec.html)
 * [2025-03-22, 23:46:36](https://news.ycombinator.com/item?id=43449645) - ['Naive' science fan faces jail for plutonium import](https://au.news.yahoo.com/naive-science-fan-faces-jail-053025281.html)
-* [2025-03-22, 11:45:03](https://news.ycombinator.com/item?id=43445103) - [Unofficial Windows 7 Service Pack 2](https://github.com/i486girl/win7-sp2)
 * [2025-03-21, 23:40:00](https://news.ycombinator.com/item?id=43441880) - [A glitch in an online survey replaced the word 'yes' with 'forks'](https://www.pewresearch.org/decoded/2025/03/21/how-a-glitch-in-an-online-survey-replaced-the-word-yes-with-forks/)
 * [2025-03-21, 15:44:51](https://news.ycombinator.com/item?id=43437028) - [Google’s two-year frenzy to catch up with OpenAI](https://www.wired.com/story/google-openai-gemini-chatgpt-artificial-intelligence/)
 * [2025-03-19, 13:31:07](https://news.ycombinator.com/item?id=43411725) - [Trapping misbehaving bots in an AI Labyrinth](https://blog.cloudflare.com/ai-labyrinth/)
