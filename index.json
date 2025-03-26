@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2025-03-26, 11:36:17",
-      "https://news.ycombinator.com/item?id=43481067"
-    ],
-    [
-      "SplitQuantV2: Enhancing Low-Bit Quantization of LLMs Without GPUs",
-      "https://arxiv.org/abs/2503.07657"
-    ]
-  ],
-  [
-    [
       "2025-03-26, 07:49:56",
       "https://news.ycombinator.com/item?id=43479808"
     ],
@@ -171,12 +161,12 @@
   ],
   [
     [
-      "2025-03-25, 17:16:45",
-      "https://news.ycombinator.com/item?id=43473618"
+      "2025-03-25, 18:47:37",
+      "https://news.ycombinator.com/item?id=43474490"
     ],
     [
-      "Stoop Coffee: A simple idea transformed my neighborhood",
-      "https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed"
+      "MCP server for Ghidra",
+      "https://github.com/LaurieWired/GhidraMCP"
     ]
   ],
   [
@@ -201,12 +191,12 @@
   ],
   [
     [
-      "2025-03-23, 18:16:00",
-      "https://news.ycombinator.com/item?id=43454690"
+      "2025-03-23, 17:10:27",
+      "https://news.ycombinator.com/item?id=43454238"
     ],
     [
-      "Show HN: Cocommit – A copilot for git commit",
-      "https://github.com/andrewromanenco/cocommit"
+      "Fast columnar JSON decoding with arrow-rs",
+      "https://www.arroyo.dev/blog/fast-arrow-json-decoding"
     ]
   ],
   [
@@ -241,22 +231,22 @@
   ],
   [
     [
-      "2025-03-23, 06:54:03",
-      "https://news.ycombinator.com/item?id=43451281"
+      "2025-03-23, 06:22:14",
+      "https://news.ycombinator.com/item?id=43451187"
     ],
     [
-      "Ratomic: Provides Mutable data structures for use with Ruby's Ractors",
-      "https://github.com/mperham/ratomic"
+      "High-Performance PNG Decoding",
+      "https://blend2d.com/blog/png-image-codec.html"
     ]
   ],
   [
     [
-      "2025-03-22, 23:51:12",
-      "https://news.ycombinator.com/item?id=43449669"
+      "2025-03-22, 23:46:36",
+      "https://news.ycombinator.com/item?id=43449645"
     ],
     [
-      "C++26 Expansion Tricks",
-      "https://pydong.org/posts/ExpansionTricks/"
+      "'Naive' science fan faces jail for plutonium import",
+      "https://au.news.yahoo.com/naive-science-fan-faces-jail-053025281.html"
     ]
   ],
   [
@@ -281,12 +271,12 @@
   ],
   [
     [
-      "2025-03-21, 18:44:37",
-      "https://news.ycombinator.com/item?id=43439501"
+      "2025-03-21, 23:40:00",
+      "https://news.ycombinator.com/item?id=43441880"
     ],
     [
-      "Deciphering language processing in the human brain through LLM representations",
-      "https://research.google/blog/deciphering-language-processing-in-the-human-brain-through-llm-representations/"
+      "A glitch in an online survey replaced the word 'yes' with 'forks'",
+      "https://www.pewresearch.org/decoded/2025/03/21/how-a-glitch-in-an-online-survey-replaced-the-word-yes-with-forks/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Google’s two-year frenzy to catch up with OpenAI",
       "https://www.wired.com/story/google-openai-gemini-chatgpt-artificial-intelligence/"
+    ]
+  ],
+  [
+    [
+      "2025-03-19, 13:31:07",
+      "https://news.ycombinator.com/item?id=43411725"
+    ],
+    [
+      "Trapping misbehaving bots in an AI Labyrinth",
+      "https://blog.cloudflare.com/ai-labyrinth/"
     ]
   ]
 ]
