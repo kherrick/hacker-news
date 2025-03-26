@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-26](index.md)
 
+* [2025-03-26, 17:00:00](https://news.ycombinator.com/item?id=43484283) - [Weave (YC W25) is hiring a founding product engineer](https://www.ycombinator.com/companies/weave-3/jobs/E0LFOgu-founding-product-engineer)
 * [2025-03-26, 16:40:29](https://news.ycombinator.com/item?id=43484093) - [Discredited anti-vaccine advocate will lead CDC study on vaccines and autism](https://arstechnica.com/health/2025/03/rfk-jr-hires-anti-vaccine-advocate-to-study-debunked-vaccine-autism-link/)
 * [2025-03-26, 15:54:28](https://news.ycombinator.com/item?id=43483567) - [Linux kernel 6.14 is a big leap forward in performance and Windows compatibility](https://www.zdnet.com/article/linux-kernel-6-14-is-a-big-leap-forward-in-performance-and-windows-compatibility/)
 * [2025-03-26, 15:24:46](https://news.ycombinator.com/item?id=43483255) - [Show HN: New Agentic AI Framework in CNCF](https://github.com/dapr/dapr-agents)
@@ -18,6 +19,7 @@
 * [2025-03-26, 11:36:17](https://news.ycombinator.com/item?id=43481067) - [SplitQuantV2: Enhancing Low-Bit Quantization of LLMs Without GPUs](https://arxiv.org/abs/2503.07657)
 * [2025-03-26, 11:24:12](https://news.ycombinator.com/item?id=43480964) - [The role of developer skills in agentic coding](https://martinfowler.com/articles/exploring-gen-ai.html#memo-13)
 * [2025-03-26, 11:09:59](https://news.ycombinator.com/item?id=43480880) - [DOGE staffer,'Big Balls', provided tech support to cybercrime ring, records show](https://www.reuters.com/world/us/doge-staffer-big-balls-provided-tech-support-cybercrime-ring-records-show-2025-03-26/)
+* [2025-03-26, 10:56:29](https://news.ycombinator.com/item?id=43480816) - [DuckDB: Development Roadmap](https://duckdb.org/docs/stable/dev/roadmap.html)
 * [2025-03-26, 10:44:22](https://news.ycombinator.com/item?id=43480730) - [How to protect your phone and data privacy at the US border](https://www.theguardian.com/technology/2025/mar/26/phone-search-privacy-us-border-immigration)
 * [2025-03-26, 09:42:29](https://news.ycombinator.com/item?id=43480396) - [Europe's Largest Makerspace](https://www.berlin-partner.de/en/news/detail/europas-groesster-makerspace)
 * [2025-03-26, 09:05:59](https://news.ycombinator.com/item?id=43480210) - [Anonymous Corpo Confessions](https://baserow.io/form/fhd_IgR1QDZzJX0tW7TRM__rs0Lv2-DRY3SLXkWUoE8)

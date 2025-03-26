@@ -66,6 +66,7 @@
 * [2025-03-23, 07:40:29](https://news.ycombinator.com/item?id=43451435) - [A (Long) Peek into Reinforcement Learning](https://lilianweng.github.io/posts/2018-02-19-rl-overview/)
 * [2025-03-23, 07:29:03](https://news.ycombinator.com/item?id=43451397) - [Do Viruses Trigger Alzheimer's?](https://www.economist.com/science-and-technology/2025/03/17/do-viruses-trigger-alzheimers)
 * [2025-03-23, 06:55:11](https://news.ycombinator.com/item?id=43451285) - [Ruby, Ractors, and Lock-Free Data Structures](https://iliabylich.github.io/ruby-ractors-and-lock-free-data-structures/)
+* [2025-03-23, 06:54:03](https://news.ycombinator.com/item?id=43451281) - [Ratomic: Provides Mutable data structures for use with Ruby's Ractors](https://github.com/mperham/ratomic)
 * [2025-03-23, 06:52:59](https://news.ycombinator.com/item?id=43451279) - [MRubyD: A new mruby virtual machine implemented in pure C#](https://github.com/hadashiA/MRubyD)
 * [2025-03-23, 06:32:19](https://news.ycombinator.com/item?id=43451222) - [Show HN: Fingernotes – handwritten notes which become their own preview image](https://fingernotes.com/note/97513380)
 * [2025-03-23, 06:28:18](https://news.ycombinator.com/item?id=43451207) - [The Great Hobby Lobby Artifact Heist](https://meghanboilard.substack.com/p/the-great-hobby-lobby-artifact-heist)
