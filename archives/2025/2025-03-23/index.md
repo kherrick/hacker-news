@@ -34,6 +34,7 @@
 * [2025-03-23, 13:05:21](https://news.ycombinator.com/item?id=43452629) - [Show HN: I built website for sharing Drum Patterns](http://drumpatterns.onether.com)
 * [2025-03-23, 12:58:41](https://news.ycombinator.com/item?id=43452588) - [The Lost Towers of the Guelph-Ghibelline Wars](https://www.exurbe.com/the-lost-towers-of-the-guelph-ghibelline-wars/)
 * [2025-03-23, 12:45:21](https://news.ycombinator.com/item?id=43452525) - [argp: GNU-style command line argument parser for Go](https://github.com/tdewolff/argp)
+* [2025-03-23, 12:37:11](https://news.ycombinator.com/item?id=43452491) - [Recommendation for non-DOS/Unix open source OS outside x86/X64](https://news.ycombinator.com/item?id=43452491)
 * [2025-03-23, 12:31:41](https://news.ycombinator.com/item?id=43452474) - [Is it safe to travel to the United States with your phone?](https://www.theverge.com/policy/634264/customs-border-protection-search-phone-airport-rights)
 * [2025-03-23, 12:23:05](https://news.ycombinator.com/item?id=43452441) - [CDC Clone Site Hosted by Group Previously Led by HHS Secretary](https://infoepi.substack.com/p/cdc-clone-site-rife-with-false-vaccine)
 * [2025-03-23, 12:20:27](https://news.ycombinator.com/item?id=43452431) - [Hardware-Aware Coding: CPU Architecture Concepts Every Developer Should Know](https://blog.codingconfessions.com/p/hardware-aware-coding)
