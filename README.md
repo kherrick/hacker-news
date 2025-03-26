@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-26, 15:54:28](https://news.ycombinator.com/item?id=43483567) - [Linux kernel 6.14 is a big leap forward in performance and Windows compatibility](https://www.zdnet.com/article/linux-kernel-6-14-is-a-big-leap-forward-in-performance-and-windows-compatibility/)
 * [2025-03-26, 15:02:25](https://news.ycombinator.com/item?id=43483011) - [AI will change the world but not in the way you think](https://thomashunter.name/posts/2025-03-19-ai-llms-will-change-the-world)
 * [2025-03-26, 14:34:32](https://news.ycombinator.com/item?id=43482705) - [Collapse OS](http://collapseos.org/)
 * [2025-03-26, 14:18:51](https://news.ycombinator.com/item?id=43482556) - [Hyperlight WASM: Fast, secure, and OS-free](https://opensource.microsoft.com/blog/2025/03/26/hyperlight-wasm-fast-secure-and-os-free/)
@@ -10,7 +11,6 @@
 * [2025-03-26, 05:19:22](https://news.ycombinator.com/item?id=43479094) - [Coordinating the Superbowl's visual fidelity with Elixir](https://elixir-lang.org/blog/2025/03/25/cyanview-elixir-case/)
 * [2025-03-25, 22:35:17](https://news.ycombinator.com/item?id=43476793) - [Better Shell History Search](https://tratt.net/laurie/blog/2025/better_shell_history_search.html)
 * [2025-03-25, 21:35:16](https://news.ycombinator.com/item?id=43476249) - [Sell yourself, sell your work](https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?yc25hn)
-* [2025-03-25, 18:59:22](https://news.ycombinator.com/item?id=43474593) - [In Jail Without a Lawyer: How a Texas Town Fails Poor Defendants](https://www.nytimes.com/2025/03/25/us/maverick-county-texas-court-system.html)
 * [2025-03-25, 18:06:02](https://news.ycombinator.com/item?id=43474112) - [4o Image Generation](https://openai.com/index/introducing-4o-image-generation/)
 * [2025-03-25, 17:17:05](https://news.ycombinator.com/item?id=43473623) - [Whose code am I running in GitHub Actions?](https://alexwlchan.net/2025/github-actions-audit/)
 * [2025-03-25, 17:16:45](https://news.ycombinator.com/item?id=43473618) - [Stoop Coffee: A simple idea transformed my neighborhood](https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed)

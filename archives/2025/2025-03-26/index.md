@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-26](index.md)
 
+* [2025-03-26, 15:54:28](https://news.ycombinator.com/item?id=43483567) - [Linux kernel 6.14 is a big leap forward in performance and Windows compatibility](https://www.zdnet.com/article/linux-kernel-6-14-is-a-big-leap-forward-in-performance-and-windows-compatibility/)
 * [2025-03-26, 15:24:46](https://news.ycombinator.com/item?id=43483255) - [Show HN: New Agentic AI Framework in CNCF](https://github.com/dapr/dapr-agents)
 * [2025-03-26, 15:02:25](https://news.ycombinator.com/item?id=43483011) - [AI will change the world but not in the way you think](https://thomashunter.name/posts/2025-03-19-ai-llms-will-change-the-world)
 * [2025-03-26, 14:44:15](https://news.ycombinator.com/item?id=43482798) - [Google will develop the Android OS in private](https://www.androidauthority.com/google-android-development-aosp-3538503/)
