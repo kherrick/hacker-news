@@ -16,6 +16,7 @@
 * [2025-03-25, 19:11:13](https://news.ycombinator.com/item?id=43474707) - [Microsoft's many Outlooks are confusing users – including its own employees](https://www.theregister.com/2025/03/25/too_many_outlooks/)
 * [2025-03-25, 18:59:22](https://news.ycombinator.com/item?id=43474593) - [In Jail Without a Lawyer: How a Texas Town Fails Poor Defendants](https://www.nytimes.com/2025/03/25/us/maverick-county-texas-court-system.html)
 * [2025-03-25, 18:48:57](https://news.ycombinator.com/item?id=43474505) - [The highest-ranking personal blogs of Hacker News](https://refactoringenglish.com/tools/hn-popularity/)
+* [2025-03-25, 18:47:37](https://news.ycombinator.com/item?id=43474490) - [MCP server for Ghidra](https://github.com/LaurieWired/GhidraMCP)
 * [2025-03-25, 18:21:30](https://news.ycombinator.com/item?id=43474250) - [The Ethics of Spreading Life in the Cosmos](https://www.centauri-dreams.org/2025/03/25/the-ethics-of-spreading-life-in-the-cosmos/)
 * [2025-03-25, 18:15:43](https://news.ycombinator.com/item?id=43474196) - [AI bots are destroying Open Access](https://go-to-hellman.blogspot.com/2025/03/ai-bots-are-destroying-open-access.html)
 * [2025-03-25, 18:06:02](https://news.ycombinator.com/item?id=43474112) - [4o Image Generation](https://openai.com/index/introducing-4o-image-generation/)
