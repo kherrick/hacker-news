@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-26](index.md)
 
+* [2025-03-26, 11:09:59](https://news.ycombinator.com/item?id=43480880) - [DOGE staffer,'Big Balls', provided tech support to cybercrime ring, records show](https://www.reuters.com/world/us/doge-staffer-big-balls-provided-tech-support-cybercrime-ring-records-show-2025-03-26/)
+* [2025-03-26, 10:44:22](https://news.ycombinator.com/item?id=43480730) - [How to protect your phone and data privacy at the US border](https://www.theguardian.com/technology/2025/mar/26/phone-search-privacy-us-border-immigration)
 * [2025-03-26, 09:42:29](https://news.ycombinator.com/item?id=43480396) - [Europe's Largest Makerspace](https://www.berlin-partner.de/en/news/detail/europas-groesster-makerspace)
 * [2025-03-26, 09:05:59](https://news.ycombinator.com/item?id=43480210) - [Anonymous Corpo Confessions](https://baserow.io/form/fhd_IgR1QDZzJX0tW7TRM__rs0Lv2-DRY3SLXkWUoE8)
 * [2025-03-26, 08:21:27](https://news.ycombinator.com/item?id=43479985) - [Gemini 2.5 Pro reasons about task feasibility](https://everything.intellectronica.net/p/negotiating-with-the-machine)
