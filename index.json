@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-26, 14:44:15",
+      "https://news.ycombinator.com/item?id=43482798"
+    ],
+    [
+      "Google will develop the Android OS in private",
+      "https://www.androidauthority.com/google-android-development-aosp-3538503/"
+    ]
+  ],
+  [
+    [
+      "2025-03-26, 14:18:51",
+      "https://news.ycombinator.com/item?id=43482556"
+    ],
+    [
+      "Hyperlight WASM: Fast, secure, and OS-free",
+      "https://opensource.microsoft.com/blog/2025/03/26/hyperlight-wasm-fast-secure-and-os-free/"
+    ]
+  ],
+  [
+    [
       "2025-03-26, 13:21:51",
       "https://news.ycombinator.com/item?id=43482005"
     ],
@@ -11,12 +31,22 @@
   ],
   [
     [
-      "2025-03-26, 12:08:48",
-      "https://news.ycombinator.com/item?id=43481295"
+      "2025-03-26, 11:36:17",
+      "https://news.ycombinator.com/item?id=43481067"
     ],
     [
-      "You should know this before choosing Next.js",
-      "https://eduardoboucas.com/posts/2025-03-25-you-should-know-this-before-choosing-nextjs/"
+      "SplitQuantV2: Enhancing Low-Bit Quantization of LLMs Without GPUs",
+      "https://arxiv.org/abs/2503.07657"
+    ]
+  ],
+  [
+    [
+      "2025-03-26, 11:24:12",
+      "https://news.ycombinator.com/item?id=43480964"
+    ],
+    [
+      "The role of developer skills in agentic coding",
+      "https://martinfowler.com/articles/exploring-gen-ai.html#memo-13"
     ]
   ],
   [
@@ -57,16 +87,6 @@
     [
       "Sell yourself, sell your work",
       "https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?yc25hn"
-    ]
-  ],
-  [
-    [
-      "2025-03-25, 21:22:35",
-      "https://news.ycombinator.com/item?id=43476134"
-    ],
-    [
-      "Optimizing ML training with metagradient descent",
-      "https://arxiv.org/abs/2503.13751"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-03-25, 08:09:38",
-      "https://news.ycombinator.com/item?id=43468972"
-    ],
-    [
-      "Evolving Scala",
-      "https://www.scala-lang.org/blog/2025/03/24/evolving-scala.html"
-    ]
-  ],
-  [
-    [
       "2025-03-24, 21:48:07",
       "https://news.ycombinator.com/item?id=43465740"
     ],
@@ -227,16 +237,6 @@
     [
       "Heap-overflowing Llama.cpp to RCE",
       "https://retr0.blog/blog/llama-rpc-rce"
-    ]
-  ],
-  [
-    [
-      "2025-03-23, 09:42:03",
-      "https://news.ycombinator.com/item?id=43451861"
-    ],
-    [
-      "Understanding DNS Resolution on Linux and Kubernetes",
-      "http://jpetazzo.github.io/2024/05/12/understanding-kubernetes-dns-hostnetwork-dnspolicy-dnsconfigforming/"
     ]
   ],
   [
