@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-03-26, 19:38:35",
+      "https://news.ycombinator.com/item?id=43486199"
+    ],
+    [
+      "Tao: Using test-time compute to train efficient LLMs without labeled data",
+      "https://www.databricks.com/blog/tao-using-test-time-compute-train-efficient-llms-without-labeled-data"
+    ]
+  ],
+  [
+    [
       "2025-03-26, 19:23:36",
       "https://news.ycombinator.com/item?id=43485980"
     ],
@@ -77,16 +87,6 @@
     [
       "OpenAI adds MCP support to Agents SDK",
       "https://openai.github.io/openai-agents-python/mcp/"
-    ]
-  ],
-  [
-    [
-      "2025-03-26, 18:01:51",
-      "https://news.ycombinator.com/item?id=43484927"
-    ],
-    [
-      "Google will develop Android OS behind closed doors starting next week",
-      "https://9to5google.com/2025/03/26/google-android-aosp-developement-private/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2025-03-25, 11:37:54",
-      "https://news.ycombinator.com/item?id=43470039"
-    ],
-    [
-      "Don't Buy into Apple's Hype About AirPods Max Gaining Lossless Audio",
-      "https://www.macrumors.com/2025/03/24/airpods-max-lossless-audio-overhyped/"
-    ]
-  ],
-  [
-    [
       "2025-03-24, 19:05:49",
       "https://news.ycombinator.com/item?id=43464362"
     ],
@@ -277,6 +267,16 @@
     [
       "Gemma3 Function Calling",
       "https://ai.google.dev/gemma/docs/capabilities/function-calling"
+    ]
+  ],
+  [
+    [
+      "2025-03-23, 02:43:54",
+      "https://news.ycombinator.com/item?id=43450515"
+    ],
+    [
+      "All clothing is handmade (2022)",
+      "https://ruthtillman.com/post/all-clothing-is-handmade/"
     ]
   ],
   [
