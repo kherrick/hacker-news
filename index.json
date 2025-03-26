@@ -111,32 +111,12 @@
   ],
   [
     [
-      "2025-03-26, 14:34:32",
-      "https://news.ycombinator.com/item?id=43482705"
-    ],
-    [
-      "Collapse OS",
-      "http://collapseos.org/"
-    ]
-  ],
-  [
-    [
       "2025-03-26, 14:18:51",
       "https://news.ycombinator.com/item?id=43482556"
     ],
     [
       "Hyperlight WASM: Fast, secure, and OS-free",
       "https://opensource.microsoft.com/blog/2025/03/26/hyperlight-wasm-fast-secure-and-os-free/"
-    ]
-  ],
-  [
-    [
-      "2025-03-26, 07:49:56",
-      "https://news.ycombinator.com/item?id=43479808"
-    ],
-    [
-      "Why Is It Lovely",
-      "https://www.solipsys.co.uk/new/WhyIsItLovely.html"
     ]
   ],
   [
@@ -167,6 +147,16 @@
     [
       "MCP server for Ghidra",
       "https://github.com/LaurieWired/GhidraMCP"
+    ]
+  ],
+  [
+    [
+      "2025-03-25, 17:02:33",
+      "https://news.ycombinator.com/item?id=43473495"
+    ],
+    [
+      "Has the decline of knowledge work begun?",
+      "https://www.nytimes.com/2025/03/25/business/economy/white-collar-layoffs.html"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "A (Long) Peek into Reinforcement Learning",
       "https://lilianweng.github.io/posts/2018-02-19-rl-overview/"
+    ]
+  ],
+  [
+    [
+      "2025-03-23, 07:31:15",
+      "https://news.ycombinator.com/item?id=43451406"
+    ],
+    [
+      "Gemma3 Function Calling",
+      "https://ai.google.dev/gemma/docs/capabilities/function-calling"
     ]
   ],
   [
