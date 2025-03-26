@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-26](index.md)
 
+* [2025-03-26, 19:41:20](https://news.ycombinator.com/item?id=43486236) - [How to Delete Your 23andMe Data](https://www.eff.org/deeplinks/2025/03/how-delete-your-23andme-data)
+* [2025-03-26, 19:23:36](https://news.ycombinator.com/item?id=43485980) - [Problems with the Heap](https://rachelbythebay.com/w/2025/03/26/atop/)
+* [2025-03-26, 19:21:51](https://news.ycombinator.com/item?id=43485950) - [Google makes Android development private, will continue open source releases](https://arstechnica.com/gadgets/2025/03/google-makes-android-development-private-will-continue-open-source-releases/)
 * [2025-03-26, 19:07:39](https://news.ycombinator.com/item?id=43485740) - [Playwright Tools for MCP](https://github.com/microsoft/playwright-mcp)
 * [2025-03-26, 19:00:46](https://news.ycombinator.com/item?id=43485649) - [Airline Demand Between Canada and United States Collapses, Down 70%+](https://onemileatatime.com/news/airline-demand-canada-united-states-collapses/)
 * [2025-03-26, 18:56:01](https://news.ycombinator.com/item?id=43485577) - [Tufts student: Video shows masked agents arresting Rumeysa Ozturk](https://www.bostonglobe.com/2025/03/26/metro/tufts-student-video-shows-arrest/)
