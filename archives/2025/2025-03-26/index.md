@@ -6,6 +6,8 @@
 
 * [2025-03-26, 03:14:53](https://news.ycombinator.com/item?id=43478525) - [2 in 5 techies quit over inflexible workplace policies](https://www.theregister.com/2025/03/24/2_in_5_techies_quit/)
 * [2025-03-26, 02:26:48](https://news.ycombinator.com/item?id=43478233) - [The surreal joy of having an overprovisioned homelab](https://xeiaso.net/talks/2025/surreal-joy-homelab/)
+* [2025-03-26, 02:22:08](https://news.ycombinator.com/item?id=43478200) - [HHS Grants Terminated [pdf]](https://taggs.hhs.gov/Content/Data/HHS_Grants_Terminated.pdf)
 * [2025-03-26, 02:15:59](https://news.ycombinator.com/item?id=43478165) - [German electrical engineer with green card stripped and 'violently interrogated'](https://www.theguardian.com/us-news/2025/mar/18/germany-investigates-after-national-with-green-card-arrested-at-us-border)
+* [2025-03-26, 02:15:41](https://news.ycombinator.com/item?id=43478162) - [Phrack Issue 49, File 14: Smashing the Stack for Fun and Profit (1996)](https://phrack.org/issues/49/14)
 * [2025-03-26, 02:02:02](https://news.ycombinator.com/item?id=43478091) - [CIA Director Reveals Signal Comes Installed on Agency Computers](https://theintercept.com/2025/03/25/signal-chat-encryption-hegseth-cia/)
 * [2025-03-26, 01:34:51](https://news.ycombinator.com/item?id=43477947) - [OpenSMTPD and Maildrop working in concert](http://blog.whenhen.com/posts/opensmtpd-and-maildrop-working-in-concert.html)
