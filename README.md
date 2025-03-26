@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-26, 19:00:46](https://news.ycombinator.com/item?id=43485649) - [Airline Demand Between Canada and United States Collapses, Down 70%+](https://onemileatatime.com/news/airline-demand-canada-united-states-collapses/)
-* [2025-03-26, 18:56:01](https://news.ycombinator.com/item?id=43485577) - [Tufts student: Video shows masked agents arresting Rumeysa Ozturk](https://www.bostonglobe.com/2025/03/26/metro/tufts-student-video-shows-arrest/)
 * [2025-03-26, 18:55:29](https://news.ycombinator.com/item?id=43485566) - [OpenAI adds MCP support to Agents SDK](https://openai.github.io/openai-agents-python/mcp/)
 * [2025-03-26, 18:01:51](https://news.ycombinator.com/item?id=43484927) - [Google will develop Android OS behind closed doors starting next week](https://9to5google.com/2025/03/26/google-android-aosp-developement-private/)
 * [2025-03-26, 17:53:47](https://news.ycombinator.com/item?id=43484845) - [Malware found on NPM infecting local package with reverse shell](https://www.reversinglabs.com/blog/malicious-npm-patch-delivers-reverse-shell)
+* [2025-03-26, 17:25:58](https://news.ycombinator.com/item?id=43484542) - [Firefox Is Finally (Re)Adding Support for Web Apps](https://www.omgubuntu.co.uk/2025/03/firefox-nightly-supports-web-apps-taskbar-tabs)
 * [2025-03-26, 17:22:22](https://news.ycombinator.com/item?id=43484520) - [Debian bookworm live images now reproducible](https://lwn.net/Articles/1015402/)
 * [2025-03-26, 17:10:30](https://news.ycombinator.com/item?id=43484399) - [Sharding Pgvector](https://pgdog.dev/blog/sharding-pgvector)
 * [2025-03-26, 17:08:56](https://news.ycombinator.com/item?id=43484382) - [A love letter to the CSV format](https://github.com/medialab/xan/blob/master/docs/LOVE_LETTER.md)
