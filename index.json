@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-03-26, 16:40:29",
-      "https://news.ycombinator.com/item?id=43484093"
+      "2025-03-26, 17:00:00",
+      "https://news.ycombinator.com/item?id=43484283"
     ],
     [
-      "Discredited anti-vaccine advocate will lead CDC study on vaccines and autism",
-      "https://arstechnica.com/health/2025/03/rfk-jr-hires-anti-vaccine-advocate-to-study-debunked-vaccine-autism-link/"
+      "Weave (YC W25) is hiring a founding product engineer",
+      "https://www.ycombinator.com/companies/weave-3/jobs/E0LFOgu-founding-product-engineer"
     ]
   ],
   [
@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2025-03-26, 13:43:09",
-      "https://news.ycombinator.com/item?id=43482207"
-    ],
-    [
-      "The Gang of Four is wrong and you don't understand delegation (2012)",
-      "https://www.saturnflyer.com/blog/the-gang-of-four-is-wrong-and-you-dont-understand-delegation"
-    ]
-  ],
-  [
-    [
       "2025-03-26, 11:36:17",
       "https://news.ycombinator.com/item?id=43481067"
     ],
@@ -77,6 +67,16 @@
     [
       "The role of developer skills in agentic coding",
       "https://martinfowler.com/articles/exploring-gen-ai.html#memo-13"
+    ]
+  ],
+  [
+    [
+      "2025-03-26, 10:56:29",
+      "https://news.ycombinator.com/item?id=43480816"
+    ],
+    [
+      "DuckDB: Development Roadmap",
+      "https://duckdb.org/docs/stable/dev/roadmap.html"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2025-03-25, 12:59:26",
-      "https://news.ycombinator.com/item?id=43470651"
-    ],
-    [
-      "VGGT: Visual Geometry Grounded Transformer",
-      "https://github.com/facebookresearch/vggt"
-    ]
-  ],
-  [
-    [
       "2025-03-23, 19:33:44",
       "https://news.ycombinator.com/item?id=43455251"
     ],
@@ -257,6 +247,16 @@
     [
       "Ruby, Ractors, and lock-free data structures",
       "https://iliabylich.github.io/ruby-ractors-and-lock-free-data-structures/"
+    ]
+  ],
+  [
+    [
+      "2025-03-23, 06:54:03",
+      "https://news.ycombinator.com/item?id=43451281"
+    ],
+    [
+      "Ratomic: Provides Mutable data structures for use with Ruby's Ractors",
+      "https://github.com/mperham/ratomic"
     ]
   ],
   [
