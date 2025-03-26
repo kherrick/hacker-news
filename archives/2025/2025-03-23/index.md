@@ -58,6 +58,7 @@
 * [2025-03-23, 07:57:40](https://news.ycombinator.com/item?id=43451485) - [Next.js and the corrupt middleware: the authorizing artifact](https://zhero-web-sec.github.io/research-and-things/nextjs-and-the-corrupt-middleware)
 * [2025-03-23, 07:57:32](https://news.ycombinator.com/item?id=43451483) - [Big Tech is striking secret deals to make you foot its electricity bill](https://web.archive.org/web/20250314114652/https://www.businessinsider.com/big-tech-secret-energy-deals-utility-bills-cost-consumers-2025-3)
 * [2025-03-23, 07:41:11](https://news.ycombinator.com/item?id=43451439) - [ThePrimeagen: Programming, AI, ADHD, Productivity, Addiction, and God](https://www.youtube.com/watch?v=tNZnLkRBYA8)
+* [2025-03-23, 07:40:29](https://news.ycombinator.com/item?id=43451435) - [A (Long) Peek into Reinforcement Learning](https://lilianweng.github.io/posts/2018-02-19-rl-overview/)
 * [2025-03-23, 07:29:03](https://news.ycombinator.com/item?id=43451397) - [Do Viruses Trigger Alzheimer's?](https://www.economist.com/science-and-technology/2025/03/17/do-viruses-trigger-alzheimers)
 * [2025-03-23, 06:55:11](https://news.ycombinator.com/item?id=43451285) - [Ruby, Ractors, and Lock-Free Data Structures](https://iliabylich.github.io/ruby-ractors-and-lock-free-data-structures/)
 * [2025-03-23, 06:52:59](https://news.ycombinator.com/item?id=43451279) - [MRubyD: A new mruby virtual machine implemented in pure C#](https://github.com/hadashiA/MRubyD)
