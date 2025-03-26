@@ -1,32 +1,22 @@
 [
   [
     [
+      "2025-03-26, 12:04:08",
+      "https://news.ycombinator.com/item?id=43481261"
+    ],
+    [
+      "I Quit Google Search for AI–and I'm Not Going Back",
+      "https://www.wsj.com/tech/personal-tech/google-search-chatgpt-perplexity-gemini-6ac749d9"
+    ]
+  ],
+  [
+    [
       "2025-03-26, 10:44:22",
       "https://news.ycombinator.com/item?id=43480730"
     ],
     [
       "How to protect your phone and data privacy at the US border",
       "https://www.theguardian.com/technology/2025/mar/26/phone-search-privacy-us-border-immigration"
-    ]
-  ],
-  [
-    [
-      "2025-03-26, 09:42:29",
-      "https://news.ycombinator.com/item?id=43480396"
-    ],
-    [
-      "Europe's Largest Makerspace",
-      "https://www.berlin-partner.de/en/news/detail/europas-groesster-makerspace"
-    ]
-  ],
-  [
-    [
-      "2025-03-26, 08:21:27",
-      "https://news.ycombinator.com/item?id=43479985"
-    ],
-    [
-      "Gemini 2.5 Pro reasons about task feasibility",
-      "https://everything.intellectronica.net/p/negotiating-with-the-machine"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Intel RealSense Stereo Depth Cameras",
       "https://www.intelrealsense.com"
+    ]
+  ],
+  [
+    [
+      "2025-03-23, 10:02:02",
+      "https://news.ycombinator.com/item?id=43451935"
+    ],
+    [
+      "Heap-overflowing Llama.cpp to RCE",
+      "https://retr0.blog/blog/llama-rpc-rce"
     ]
   ],
   [
