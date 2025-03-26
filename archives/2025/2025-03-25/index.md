@@ -53,6 +53,7 @@
 * [2025-03-25, 12:54:59](https://news.ycombinator.com/item?id=43470613) - [X's head of engineering is out](https://www.theverge.com/twitter/634833/x-head-engineering-leaves-elon-musk)
 * [2025-03-25, 12:10:22](https://news.ycombinator.com/item?id=43470269) - [Deregulation in Argentina: Milei Takes \"Deep Chainsaw\" to Bureaucracy](https://www.cato.org/free-society/spring-2025/deregulation-argentina-milei-takes-deep-chainsaw-bureaucracy-red-tape)
 * [2025-03-25, 11:57:11](https://news.ycombinator.com/item?id=43470162) - [Hann: A Fast Approximate Nearest Neighbor Search Library for Go](https://github.com/habedi/hann)
+* [2025-03-25, 11:41:18](https://news.ycombinator.com/item?id=43470066) - ['A walking billboard': The history of San Francisco's most recognizable bag](https://www.sfgate.com/sf-culture/article/history-san-franciscos-most-recognizable-bag-20228921.php)
 * [2025-03-25, 11:32:15](https://news.ycombinator.com/item?id=43470010) - [Palantir suggests 'common operating system' for UK govt data](https://www.theregister.com/2025/03/25/palantir_covid_inquiry_comments/)
 * [2025-03-25, 10:39:18](https://news.ycombinator.com/item?id=43469727) - [The Hartlib Papers](https://www.dhi.ac.uk/hartlib/)
 * [2025-03-25, 10:34:23](https://news.ycombinator.com/item?id=43469711) - [Closing Keynote with Leslie Lamport at Scale 22x: Coding Isn't Programming](https://www.socallinuxexpo.org/scale/22x/presentations/closing-keynote-leslie-lamport)
