@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-26, 20:57:59",
+      "https://news.ycombinator.com/item?id=43487231"
+    ],
+    [
+      "After 50 million miles, Waymos crash a lot less than human drivers",
+      "https://www.understandingai.org/p/human-drivers-keep-crashing-into"
+    ]
+  ],
+  [
+    [
       "2025-03-26, 20:31:13",
       "https://news.ycombinator.com/item?id=43486945"
     ],
@@ -37,16 +47,6 @@
     [
       "How to Delete Your 23andMe Data",
       "https://www.eff.org/deeplinks/2025/03/how-delete-your-23andme-data"
-    ]
-  ],
-  [
-    [
-      "2025-03-26, 19:38:35",
-      "https://news.ycombinator.com/item?id=43486199"
-    ],
-    [
-      "Tao: Using test-time compute to train efficient LLMs without labeled data",
-      "https://www.databricks.com/blog/tao-using-test-time-compute-train-efficient-llms-without-labeled-data"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-03-26, 05:19:22",
-      "https://news.ycombinator.com/item?id=43479094"
-    ],
-    [
-      "Coordinating the Superbowl's visual fidelity with Elixir",
-      "https://elixir-lang.org/blog/2025/03/25/cyanview-elixir-case/"
-    ]
-  ],
-  [
-    [
       "2025-03-25, 18:47:37",
       "https://news.ycombinator.com/item?id=43474490"
     ],
@@ -247,6 +237,16 @@
     [
       "An Interview with Zen Chief Architect Mike Clark",
       "https://www.computerenhance.com/p/an-interview-with-zen-chief-architect"
+    ]
+  ],
+  [
+    [
+      "2025-03-24, 08:53:23",
+      "https://news.ycombinator.com/item?id=43458738"
+    ],
+    [
+      "Writing a tiny undo/redo stack in JavaScript",
+      "https://blog.julik.nl/2025/03/a-tiny-undo-stack"
     ]
   ],
   [
