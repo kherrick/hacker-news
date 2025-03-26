@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-26, 20:08:32",
+      "https://news.ycombinator.com/item?id=43486647"
+    ],
+    [
+      "Building a Firecracker-Powered Course Platform to Learn Docker and Kubernetes",
+      "https://iximiuz.com/en/posts/iximiuz-labs-story/"
+    ]
+  ],
+  [
+    [
       "2025-03-26, 19:41:20",
       "https://news.ycombinator.com/item?id=43486236"
     ],
@@ -37,16 +47,6 @@
     [
       "Playwright Tools for MCP",
       "https://github.com/microsoft/playwright-mcp"
-    ]
-  ],
-  [
-    [
-      "2025-03-26, 19:00:46",
-      "https://news.ycombinator.com/item?id=43485649"
-    ],
-    [
-      "Airline Demand Between Canada and United States Collapses, Down 70%+",
-      "https://onemileatatime.com/news/airline-demand-canada-united-states-collapses/"
     ]
   ],
   [
@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2025-03-26, 16:54:51",
+      "https://news.ycombinator.com/item?id=43484224"
+    ],
+    [
+      "The Impact of Generative AI on Critical Thinking [pdf]",
+      "https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf"
+    ]
+  ],
+  [
+    [
       "2025-03-26, 16:18:14",
       "https://news.ycombinator.com/item?id=43483842"
     ],
@@ -161,12 +171,22 @@
   ],
   [
     [
-      "2025-03-26, 14:18:51",
-      "https://news.ycombinator.com/item?id=43482556"
+      "2025-03-26, 14:34:32",
+      "https://news.ycombinator.com/item?id=43482705"
     ],
     [
-      "Hyperlight WASM: Fast, secure, and OS-free",
-      "https://opensource.microsoft.com/blog/2025/03/26/hyperlight-wasm-fast-secure-and-os-free/"
+      "Collapse OS",
+      "http://collapseos.org/"
+    ]
+  ],
+  [
+    [
+      "2025-03-26, 13:21:51",
+      "https://news.ycombinator.com/item?id=43482005"
+    ],
+    [
+      "The long-awaited Friend Compound laws in California",
+      "https://supernuclear.substack.com/p/the-long-awaited-friend-compound"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-03-24, 04:19:49",
-      "https://news.ycombinator.com/item?id=43457754"
-    ],
-    [
-      "Exploring Ruby Ractors – I paid for for 10 cores I'm gonna use 10 cores",
-      "https://jpterry.com/posts/2025/03/exploring-ruby-ractors/"
-    ]
-  ],
-  [
-    [
       "2025-03-23, 19:33:44",
       "https://news.ycombinator.com/item?id=43455251"
     ],
@@ -221,32 +231,12 @@
   ],
   [
     [
-      "2025-03-23, 17:10:27",
-      "https://news.ycombinator.com/item?id=43454238"
-    ],
-    [
-      "Fast columnar JSON decoding with arrow-rs",
-      "https://www.arroyo.dev/blog/fast-arrow-json-decoding"
-    ]
-  ],
-  [
-    [
       "2025-03-23, 13:27:26",
       "https://news.ycombinator.com/item?id=43452789"
     ],
     [
       "Writing Programs with Ncurses",
       "https://invisible-island.net/ncurses/ncurses-intro.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-23, 12:18:10",
-      "https://news.ycombinator.com/item?id=43452420"
-    ],
-    [
-      "Pi Pico Rx – A crystal radio for the digital age?",
-      "https://101-things.readthedocs.io/en/latest/radio_receiver.html"
     ]
   ],
   [
@@ -281,6 +271,16 @@
   ],
   [
     [
+      "2025-03-23, 02:43:54",
+      "https://news.ycombinator.com/item?id=43450515"
+    ],
+    [
+      "All clothing is handmade (2022)",
+      "https://ruthtillman.com/post/all-clothing-is-handmade/"
+    ]
+  ],
+  [
+    [
       "2025-03-22, 23:46:36",
       "https://news.ycombinator.com/item?id=43449645"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-03-19, 13:31:07",
-      "https://news.ycombinator.com/item?id=43411725"
+      "2025-03-21, 15:44:51",
+      "https://news.ycombinator.com/item?id=43437028"
     ],
     [
-      "Trapping misbehaving bots in an AI Labyrinth",
-      "https://blog.cloudflare.com/ai-labyrinth/"
+      "Google’s two-year frenzy to catch up with OpenAI",
+      "https://www.wired.com/story/google-openai-gemini-chatgpt-artificial-intelligence/"
     ]
   ]
 ]
