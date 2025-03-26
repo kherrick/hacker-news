@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-26](index.md)
 
+* [2025-03-26, 18:29:27](https://news.ycombinator.com/item?id=43485269) - [OpenAI Is Adopting MCP](https://twitter.com/OpenAIDevs/status/1904957755829481737)
+* [2025-03-26, 18:01:51](https://news.ycombinator.com/item?id=43484927) - [Google will develop Android OS behind closed doors starting next week](https://9to5google.com/2025/03/26/google-android-aosp-developement-private/)
 * [2025-03-26, 17:25:58](https://news.ycombinator.com/item?id=43484542) - [Firefox Is Finally (Re)Adding Support for Web Apps](https://www.omgubuntu.co.uk/2025/03/firefox-nightly-supports-web-apps-taskbar-tabs)
 * [2025-03-26, 17:24:28](https://news.ycombinator.com/item?id=43484532) - [Supreme Court takes up $8B phone and internet subsidy for rural areas](https://apnews.com/article/supreme-court-telecommunications-fee-internet-c51526ec5c78ed913064b1c4d3399ba2)
 * [2025-03-26, 17:22:22](https://news.ycombinator.com/item?id=43484520) - [Debian bookworm live images now reproducible](https://lwn.net/Articles/1015402/)

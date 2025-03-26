@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-26, 17:25:58](https://news.ycombinator.com/item?id=43484542) - [Firefox Is Finally (Re)Adding Support for Web Apps](https://www.omgubuntu.co.uk/2025/03/firefox-nightly-supports-web-apps-taskbar-tabs)
+* [2025-03-26, 18:29:27](https://news.ycombinator.com/item?id=43485269) - [OpenAI Is Adopting MCP](https://twitter.com/OpenAIDevs/status/1904957755829481737)
+* [2025-03-26, 18:01:51](https://news.ycombinator.com/item?id=43484927) - [Google will develop Android OS behind closed doors starting next week](https://9to5google.com/2025/03/26/google-android-aosp-developement-private/)
 * [2025-03-26, 17:24:28](https://news.ycombinator.com/item?id=43484532) - [Supreme Court takes up $8B phone and internet subsidy for rural areas](https://apnews.com/article/supreme-court-telecommunications-fee-internet-c51526ec5c78ed913064b1c4d3399ba2)
 * [2025-03-26, 17:22:22](https://news.ycombinator.com/item?id=43484520) - [Debian bookworm live images now reproducible](https://lwn.net/Articles/1015402/)
 * [2025-03-26, 17:12:53](https://news.ycombinator.com/item?id=43484427) - [Servo vs. Ladybird](https://thelibre.news/servo-vs-ladybird/)
@@ -13,7 +14,6 @@
 * [2025-03-26, 15:54:28](https://news.ycombinator.com/item?id=43483567) - [Linux kernel 6.14 is a big leap forward in performance and Windows compatibility](https://www.zdnet.com/article/linux-kernel-6-14-is-a-big-leap-forward-in-performance-and-windows-compatibility/)
 * [2025-03-26, 14:18:51](https://news.ycombinator.com/item?id=43482556) - [Hyperlight WASM: Fast, secure, and OS-free](https://opensource.microsoft.com/blog/2025/03/26/hyperlight-wasm-fast-secure-and-os-free/)
 * [2025-03-26, 05:19:22](https://news.ycombinator.com/item?id=43479094) - [Coordinating the Superbowl's visual fidelity with Elixir](https://elixir-lang.org/blog/2025/03/25/cyanview-elixir-case/)
-* [2025-03-25, 22:35:17](https://news.ycombinator.com/item?id=43476793) - [Better Shell History Search](https://tratt.net/laurie/blog/2025/better_shell_history_search.html)
 * [2025-03-25, 18:47:37](https://news.ycombinator.com/item?id=43474490) - [MCP server for Ghidra](https://github.com/LaurieWired/GhidraMCP)
 * [2025-03-25, 17:02:33](https://news.ycombinator.com/item?id=43473495) - [Has the decline of knowledge work begun?](https://www.nytimes.com/2025/03/25/business/economy/white-collar-layoffs.html)
 * [2025-03-24, 19:05:49](https://news.ycombinator.com/item?id=43464362) - [An Interview with Zen Chief Architect Mike Clark](https://www.computerenhance.com/p/an-interview-with-zen-chief-architect)
