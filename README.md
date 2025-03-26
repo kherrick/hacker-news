@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-26, 07:05:43](https://news.ycombinator.com/item?id=43479569) - [Ask HN: Are there any money-saving hacks that AI can assist you with？](https://news.ycombinator.com/item?id=43479569)
+* [2025-03-26, 08:19:30](https://news.ycombinator.com/item?id=43479976) - [ESA has a commercial launch strategy, but will member states pay?](https://arstechnica.com/space/2025/03/esa-finally-has-a-commercial-launch-strategy-but-will-member-states-pay/)
 * [2025-03-26, 05:19:22](https://news.ycombinator.com/item?id=43479094) - [Coordinating the Superbowl's visual fidelity with Elixir](https://elixir-lang.org/blog/2025/03/25/cyanview-elixir-case/)
 * [2025-03-25, 22:35:17](https://news.ycombinator.com/item?id=43476793) - [Better Shell History Search](https://tratt.net/laurie/blog/2025/better_shell_history_search.html)
 * [2025-03-25, 21:47:20](https://news.ycombinator.com/item?id=43476365) - [What's Happening to Students?](https://www.honest-broker.com/p/whats-happening-to-students)
