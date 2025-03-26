@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-26, 23:19:47](https://news.ycombinator.com/item?id=43488637) - [Michael Waltz's Venmo Is Public, and It's Full of Journalists](https://prospect.org/politics/2025-03-26-michael-waltz-venmo-public-full-of-journalists/)
 * [2025-03-26, 20:35:46](https://news.ycombinator.com/item?id=43486997) - [Building a Linux Container Runtime from Scratch](https://edera.dev/stories/styrolite)
 * [2025-03-26, 20:31:13](https://news.ycombinator.com/item?id=43486945) - [Oracle customers confirm data stolen in alleged cloud breach is valid](https://www.bleepingcomputer.com/news/security/oracle-customers-confirm-data-stolen-in-alleged-cloud-breach-is-valid/)
 * [2025-03-26, 20:08:32](https://news.ycombinator.com/item?id=43486647) - [Building a Firecracker-Powered Course Platform to Learn Docker and Kubernetes](https://iximiuz.com/en/posts/iximiuz-labs-story/)
@@ -27,7 +28,6 @@
 * [2025-03-23, 13:27:26](https://news.ycombinator.com/item?id=43452789) - [Writing Programs with Ncurses](https://invisible-island.net/ncurses/ncurses-intro.html)
 * [2025-03-23, 10:02:02](https://news.ycombinator.com/item?id=43451935) - [Heap-overflowing Llama.cpp to RCE](https://retr0.blog/blog/llama-rpc-rce)
 * [2025-03-23, 07:31:15](https://news.ycombinator.com/item?id=43451406) - [Gemma3 Function Calling](https://ai.google.dev/gemma/docs/capabilities/function-calling)
-* [2025-03-23, 02:43:54](https://news.ycombinator.com/item?id=43450515) - [All clothing is handmade (2022)](https://ruthtillman.com/post/all-clothing-is-handmade/)
 * [2025-03-22, 23:46:36](https://news.ycombinator.com/item?id=43449645) - ['Naive' science fan faces jail for plutonium import](https://au.news.yahoo.com/naive-science-fan-faces-jail-053025281.html)
 * [2025-03-21, 23:40:00](https://news.ycombinator.com/item?id=43441880) - [A glitch in an online survey replaced the word 'yes' with 'forks'](https://www.pewresearch.org/decoded/2025/03/21/how-a-glitch-in-an-online-survey-replaced-the-word-yes-with-forks/)
 
