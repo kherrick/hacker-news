@@ -21,7 +21,7 @@
 * [2025-03-25, 12:59:26](https://news.ycombinator.com/item?id=43470651) - [VGGT: Visual Geometry Grounded Transformer](https://github.com/facebookresearch/vggt)
 * [2025-03-25, 11:41:18](https://news.ycombinator.com/item?id=43470066) - ['A walking billboard': The history of San Francisco's most recognizable bag](https://www.sfgate.com/sf-culture/article/history-san-franciscos-most-recognizable-bag-20228921.php)
 * [2025-03-25, 08:09:38](https://news.ycombinator.com/item?id=43468972) - [Evolving Scala](https://www.scala-lang.org/blog/2025/03/24/evolving-scala.html)
-* [2025-03-24, 16:23:55](https://news.ycombinator.com/item?id=43462783) - [U.S. national-security leaders included me in a group chat](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/)
+* [2025-03-24, 21:48:07](https://news.ycombinator.com/item?id=43465740) - [Show HN: A website for sharing the \"Good, Bad, and Why\"s of urban spaces](https://dedede.de/en)
 * [2025-03-23, 12:36:31](https://news.ycombinator.com/item?id=43452486) - [Intel RealSense Stereo Depth Cameras](https://www.intelrealsense.com)
 * [2025-03-23, 09:42:03](https://news.ycombinator.com/item?id=43451861) - [Understanding DNS Resolution on Linux and Kubernetes](http://jpetazzo.github.io/2024/05/12/understanding-kubernetes-dns-hostnetwork-dnspolicy-dnsconfigforming/)
 * [2025-03-23, 07:40:29](https://news.ycombinator.com/item?id=43451435) - [A (Long) Peek into Reinforcement Learning](https://lilianweng.github.io/posts/2018-02-19-rl-overview/)
