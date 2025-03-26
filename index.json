@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-25, 23:14:08",
+      "https://news.ycombinator.com/item?id=43477102"
+    ],
+    [
+      "Saying 'pandemic is over,' NIH institute starts cutting Covid-19 research",
+      "https://www.science.org/content/article/saying-pandemic-over-nih-institute-starts-cutting-covid-19-research"
+    ]
+  ],
+  [
+    [
       "2025-03-25, 23:09:09",
       "https://news.ycombinator.com/item?id=43477057"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2025-03-25, 21:47:20",
-      "https://news.ycombinator.com/item?id=43476365"
+      "2025-03-25, 22:35:17",
+      "https://news.ycombinator.com/item?id=43476793"
     ],
     [
-      "What's Happening to Students?",
-      "https://www.honest-broker.com/p/whats-happening-to-students"
+      "Better Shell History Search",
+      "https://tratt.net/laurie/blog/2025/better_shell_history_search.html"
     ]
   ],
   [
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=43476249"
     ],
     [
-      "Sell Yourself Sell Your Work",
+      "Sell yourself, sell your work",
       "https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?yc25hn"
     ]
   ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=43476134"
     ],
     [
-      "Optimizing ML Training with Metagradient Descent",
+      "Optimizing ML training with metagradient descent",
       "https://arxiv.org/abs/2503.13751"
     ]
   ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2025-03-25, 15:42:58",
-      "https://news.ycombinator.com/item?id=43472668"
-    ],
-    [
-      "Were large soda lakes the cradle of life?",
-      "https://ethz.ch/en/news-and-events/eth-news/news/2025/03/were-large-soda-lakes-the-cradle-of-life.html"
-    ]
-  ],
-  [
-    [
       "2025-03-25, 15:42:03",
       "https://news.ycombinator.com/item?id=43472663"
     ],
@@ -141,32 +141,12 @@
   ],
   [
     [
-      "2025-03-25, 15:11:56",
-      "https://news.ycombinator.com/item?id=43472320"
-    ],
-    [
-      "Borne Back Ceaselessly into the Past: Fitzgerald, Gatsby and WWI",
-      "https://www.theworldwar.org/learn/about-wwi/borne-back-ceaselessly-past-fitzgerald-gatsby-and-wwi"
-    ]
-  ],
-  [
-    [
       "2025-03-25, 14:57:59",
       "https://news.ycombinator.com/item?id=43472143"
     ],
     [
       "My Favorite C++ Pattern: X Macros (2023)",
       "https://danilafe.com/blog/chapel_x_macros/"
-    ]
-  ],
-  [
-    [
-      "2025-03-25, 14:42:21",
-      "https://news.ycombinator.com/item?id=43471939"
-    ],
-    [
-      "Show HN: Feudle – A daily puzzle game built with AI",
-      "https://feudlegame.com"
     ]
   ],
   [
@@ -211,12 +191,32 @@
   ],
   [
     [
+      "2025-03-24, 21:48:07",
+      "https://news.ycombinator.com/item?id=43465740"
+    ],
+    [
+      "Show HN: A website for sharing the \"Good, Bad, and Why\"s of urban spaces",
+      "https://dedede.de/en"
+    ]
+  ],
+  [
+    [
       "2025-03-24, 16:23:55",
       "https://news.ycombinator.com/item?id=43462783"
     ],
     [
       "U.S. national-security leaders included me in a group chat",
       "https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/"
+    ]
+  ],
+  [
+    [
+      "2025-03-23, 13:54:06",
+      "https://news.ycombinator.com/item?id=43452945"
+    ],
+    [
+      "Ask HN: Difficulties with going back to school",
+      "https://news.ycombinator.com/item?id=43452945"
     ]
   ],
   [
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=43451285"
     ],
     [
-      "Ruby, Ractors, and Lock-Free Data Structures",
+      "Ruby, Ractors, and lock-free data structures",
       "https://iliabylich.github.io/ruby-ractors-and-lock-free-data-structures/"
     ]
   ],
@@ -261,22 +261,22 @@
   ],
   [
     [
+      "2025-03-22, 11:17:30",
+      "https://news.ycombinator.com/item?id=43444999"
+    ],
+    [
+      "Svelte: $derived can now be overwritten",
+      "https://github.com/sveltejs/svelte/pull/15570"
+    ]
+  ],
+  [
+    [
       "2025-03-21, 20:12:49",
       "https://news.ycombinator.com/item?id=43440321"
     ],
     [
       "Scientists break down plastic using a simple, inexpensive catalyst and air",
       "https://phys.org/news/2025-03-scientists-plastic-simple-inexpensive-catalyst.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-21, 19:51:42",
-      "https://news.ycombinator.com/item?id=43440143"
-    ],
-    [
-      "How 'animal methods bias' is affecting research careers",
-      "https://www.nature.com/articles/d41586-025-00593-3"
     ]
   ],
   [
