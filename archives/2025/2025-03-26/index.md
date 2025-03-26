@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-03-26](index.md)
 
+* [2025-03-26, 14:44:15](https://news.ycombinator.com/item?id=43482798) - [Google will develop the Android OS in private](https://www.androidauthority.com/google-android-development-aosp-3538503/)
+* [2025-03-26, 14:18:51](https://news.ycombinator.com/item?id=43482556) - [Hyperlight WASM: Fast, secure, and OS-free](https://opensource.microsoft.com/blog/2025/03/26/hyperlight-wasm-fast-secure-and-os-free/)
 * [2025-03-26, 13:21:51](https://news.ycombinator.com/item?id=43482005) - [The long-awaited Friend Compound laws in California](https://supernuclear.substack.com/p/the-long-awaited-friend-compound)
 * [2025-03-26, 12:08:48](https://news.ycombinator.com/item?id=43481295) - [You should know this before choosing Next.js](https://eduardoboucas.com/posts/2025-03-25-you-should-know-this-before-choosing-nextjs/)
 * [2025-03-26, 12:04:08](https://news.ycombinator.com/item?id=43481261) - [I Quit Google Search for AI–and I'm Not Going Back](https://www.wsj.com/tech/personal-tech/google-search-chatgpt-perplexity-gemini-6ac749d9)
+* [2025-03-26, 11:36:17](https://news.ycombinator.com/item?id=43481067) - [SplitQuantV2: Enhancing Low-Bit Quantization of LLMs Without GPUs](https://arxiv.org/abs/2503.07657)
+* [2025-03-26, 11:24:12](https://news.ycombinator.com/item?id=43480964) - [The role of developer skills in agentic coding](https://martinfowler.com/articles/exploring-gen-ai.html#memo-13)
 * [2025-03-26, 11:09:59](https://news.ycombinator.com/item?id=43480880) - [DOGE staffer,'Big Balls', provided tech support to cybercrime ring, records show](https://www.reuters.com/world/us/doge-staffer-big-balls-provided-tech-support-cybercrime-ring-records-show-2025-03-26/)
 * [2025-03-26, 10:44:22](https://news.ycombinator.com/item?id=43480730) - [How to protect your phone and data privacy at the US border](https://www.theguardian.com/technology/2025/mar/26/phone-search-privacy-us-border-immigration)
 * [2025-03-26, 09:42:29](https://news.ycombinator.com/item?id=43480396) - [Europe's Largest Makerspace](https://www.berlin-partner.de/en/news/detail/europas-groesster-makerspace)
