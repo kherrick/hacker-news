@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-26](index.md)
 
+* [2025-03-26, 20:08:32](https://news.ycombinator.com/item?id=43486647) - [Building a Firecracker-Powered Course Platform to Learn Docker and Kubernetes](https://iximiuz.com/en/posts/iximiuz-labs-story/)
 * [2025-03-26, 19:41:20](https://news.ycombinator.com/item?id=43486236) - [How to Delete Your 23andMe Data](https://www.eff.org/deeplinks/2025/03/how-delete-your-23andme-data)
 * [2025-03-26, 19:23:36](https://news.ycombinator.com/item?id=43485980) - [Problems with the Heap](https://rachelbythebay.com/w/2025/03/26/atop/)
 * [2025-03-26, 19:21:51](https://news.ycombinator.com/item?id=43485950) - [Google makes Android development private, will continue open source releases](https://arstechnica.com/gadgets/2025/03/google-makes-android-development-private-will-continue-open-source-releases/)
@@ -21,6 +22,7 @@
 * [2025-03-26, 17:10:30](https://news.ycombinator.com/item?id=43484399) - [Sharding Pgvector](https://pgdog.dev/blog/sharding-pgvector)
 * [2025-03-26, 17:08:56](https://news.ycombinator.com/item?id=43484382) - [A Love Letter to the CSV Format](https://github.com/medialab/xan/blob/master/docs/LOVE_LETTER.md)
 * [2025-03-26, 17:00:00](https://news.ycombinator.com/item?id=43484283) - [Weave (YC W25) is hiring a founding product engineer](https://www.ycombinator.com/companies/weave-3/jobs/E0LFOgu-founding-product-engineer)
+* [2025-03-26, 16:54:51](https://news.ycombinator.com/item?id=43484224) - [The Impact of Generative AI on Critical Thinking [pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf)
 * [2025-03-26, 16:54:51](https://news.ycombinator.com/item?id=43484224) - [Microsoft Study: AI Makes Human Cognition \"Atrophied and Unprepared\"](https://www.404media.co/microsoft-study-finds-ai-makes-human-cognition-atrophied-and-unprepared-3/)
 * [2025-03-26, 16:40:29](https://news.ycombinator.com/item?id=43484093) - [Discredited anti-vaccine advocate will lead CDC study on vaccines and autism](https://arstechnica.com/health/2025/03/rfk-jr-hires-anti-vaccine-advocate-to-study-debunked-vaccine-autism-link/)
 * [2025-03-26, 16:18:14](https://news.ycombinator.com/item?id=43483842) - [Good-bye core types; Hello Go as we know and love it](https://go.dev/blog/coretypes)
