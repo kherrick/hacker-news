@@ -1,10 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-26, 12:04:08](https://news.ycombinator.com/item?id=43481261) - [I Quit Google Search for AI–and I'm Not Going Back](https://www.wsj.com/tech/personal-tech/google-search-chatgpt-perplexity-gemini-6ac749d9)
-* [2025-03-26, 10:44:22](https://news.ycombinator.com/item?id=43480730) - [How to protect your phone and data privacy at the US border](https://www.theguardian.com/technology/2025/mar/26/phone-search-privacy-us-border-immigration)
+* [2025-03-26, 07:49:56](https://news.ycombinator.com/item?id=43479808) - [Why Is It Lovely](https://www.solipsys.co.uk/new/WhyIsItLovely.html)
 * [2025-03-26, 05:19:22](https://news.ycombinator.com/item?id=43479094) - [Coordinating the Superbowl's visual fidelity with Elixir](https://elixir-lang.org/blog/2025/03/25/cyanview-elixir-case/)
 * [2025-03-25, 22:35:17](https://news.ycombinator.com/item?id=43476793) - [Better Shell History Search](https://tratt.net/laurie/blog/2025/better_shell_history_search.html)
-* [2025-03-25, 21:42:37](https://news.ycombinator.com/item?id=43476337) - [Devs say AI crawlers dominate traffic, forcing blocks on entire countries](https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/)
 * [2025-03-25, 21:35:16](https://news.ycombinator.com/item?id=43476249) - [Sell yourself, sell your work](https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?yc25hn)
 * [2025-03-25, 21:22:35](https://news.ycombinator.com/item?id=43476134) - [Optimizing ML training with metagradient descent](https://arxiv.org/abs/2503.13751)
 * [2025-03-25, 18:59:22](https://news.ycombinator.com/item?id=43474593) - [In Jail Without a Lawyer: How a Texas Town Fails Poor Defendants](https://www.nytimes.com/2025/03/25/us/maverick-county-texas-court-system.html)
@@ -21,6 +19,7 @@
 * [2025-03-25, 08:09:38](https://news.ycombinator.com/item?id=43468972) - [Evolving Scala](https://www.scala-lang.org/blog/2025/03/24/evolving-scala.html)
 * [2025-03-25, 06:11:46](https://news.ycombinator.com/item?id=43468498) - [Is Robert Frost Even a Good Poet?](https://www.theparisreview.org/blog/2025/03/17/is-robert-frost-even-a-good-poet/)
 * [2025-03-24, 21:48:07](https://news.ycombinator.com/item?id=43465740) - [Show HN: A website for sharing the \"Good, Bad, and Why\"s of urban spaces](https://dedede.de/en)
+* [2025-03-23, 18:16:00](https://news.ycombinator.com/item?id=43454690) - [Show HN: Cocommit – A copilot for git commit](https://github.com/andrewromanenco/cocommit)
 * [2025-03-23, 12:36:31](https://news.ycombinator.com/item?id=43452486) - [Intel RealSense Stereo Depth Cameras](https://www.intelrealsense.com)
 * [2025-03-23, 10:02:02](https://news.ycombinator.com/item?id=43451935) - [Heap-overflowing Llama.cpp to RCE](https://retr0.blog/blog/llama-rpc-rce)
 * [2025-03-23, 09:42:03](https://news.ycombinator.com/item?id=43451861) - [Understanding DNS Resolution on Linux and Kubernetes](http://jpetazzo.github.io/2024/05/12/understanding-kubernetes-dns-hostnetwork-dnspolicy-dnsconfigforming/)
@@ -28,6 +27,7 @@
 * [2025-03-23, 06:55:11](https://news.ycombinator.com/item?id=43451285) - [Ruby, Ractors, and lock-free data structures](https://iliabylich.github.io/ruby-ractors-and-lock-free-data-structures/)
 * [2025-03-23, 03:42:23](https://news.ycombinator.com/item?id=43450745) - [Rest Easy](https://www.commentary.org/articles/joseph-epstein/rest-work-purpose/)
 * [2025-03-23, 02:43:54](https://news.ycombinator.com/item?id=43450515) - [All Clothing Is Handmade (2022)](https://ruthtillman.com/post/all-clothing-is-handmade/)
+* [2025-03-22, 23:37:43](https://news.ycombinator.com/item?id=43449608) - [AMC Theatres will screen a Swedish movie 'visually dubbed' with the help of AI](https://www.engadget.com/ai/amc-theatres-will-screen-a-swedish-movie-visually-dubbed-with-the-help-of-ai-130022232.html)
 * [2025-03-21, 20:12:49](https://news.ycombinator.com/item?id=43440321) - [Scientists break down plastic using a simple, inexpensive catalyst and air](https://phys.org/news/2025-03-scientists-plastic-simple-inexpensive-catalyst.html)
 * [2025-03-21, 18:44:37](https://news.ycombinator.com/item?id=43439501) - [Deciphering language processing in the human brain through LLM representations](https://research.google/blog/deciphering-language-processing-in-the-human-brain-through-llm-representations/)
 
