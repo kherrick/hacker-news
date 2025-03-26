@@ -21,6 +21,7 @@
 * [2025-03-26, 13:21:51](https://news.ycombinator.com/item?id=43482005) - [The long-awaited Friend Compound laws in California](https://supernuclear.substack.com/p/the-long-awaited-friend-compound)
 * [2025-03-25, 18:47:37](https://news.ycombinator.com/item?id=43474490) - [MCP server for Ghidra](https://github.com/LaurieWired/GhidraMCP)
 * [2025-03-25, 17:02:33](https://news.ycombinator.com/item?id=43473495) - [Has the decline of knowledge work begun?](https://www.nytimes.com/2025/03/25/business/economy/white-collar-layoffs.html)
+* [2025-03-25, 11:37:54](https://news.ycombinator.com/item?id=43470039) - [Don't Buy into Apple's Hype About AirPods Max Gaining Lossless Audio](https://www.macrumors.com/2025/03/24/airpods-max-lossless-audio-overhyped/)
 * [2025-03-24, 19:05:49](https://news.ycombinator.com/item?id=43464362) - [An Interview with Zen Chief Architect Mike Clark](https://www.computerenhance.com/p/an-interview-with-zen-chief-architect)
 * [2025-03-24, 08:53:23](https://news.ycombinator.com/item?id=43458738) - [Writing a tiny undo/redo stack in JavaScript](https://blog.julik.nl/2025/03/a-tiny-undo-stack)
 * [2025-03-23, 14:01:49](https://news.ycombinator.com/item?id=43452990) - [NotaGen: Symbolic Music Generation](https://electricalexis.github.io/notagen-demo/)
@@ -29,7 +30,6 @@
 * [2025-03-23, 07:31:15](https://news.ycombinator.com/item?id=43451406) - [Gemma3 Function Calling](https://ai.google.dev/gemma/docs/capabilities/function-calling)
 * [2025-03-22, 23:46:36](https://news.ycombinator.com/item?id=43449645) - ['Naive' science fan faces jail for plutonium import](https://au.news.yahoo.com/naive-science-fan-faces-jail-053025281.html)
 * [2025-03-21, 23:40:00](https://news.ycombinator.com/item?id=43441880) - [A glitch in an online survey replaced the word 'yes' with 'forks'](https://www.pewresearch.org/decoded/2025/03/21/how-a-glitch-in-an-online-survey-replaced-the-word-yes-with-forks/)
-* [2025-03-21, 15:44:51](https://news.ycombinator.com/item?id=43437028) - [Google’s two-year frenzy to catch up with OpenAI](https://www.wired.com/story/google-openai-gemini-chatgpt-artificial-intelligence/)
 
 ## [Archives](archives/index.md)
 
