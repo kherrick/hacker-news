@@ -6,6 +6,7 @@
 
 * [2025-03-26, 14:44:15](https://news.ycombinator.com/item?id=43482798) - [Google will develop the Android OS in private](https://www.androidauthority.com/google-android-development-aosp-3538503/)
 * [2025-03-26, 14:18:51](https://news.ycombinator.com/item?id=43482556) - [Hyperlight WASM: Fast, secure, and OS-free](https://opensource.microsoft.com/blog/2025/03/26/hyperlight-wasm-fast-secure-and-os-free/)
+* [2025-03-26, 13:43:09](https://news.ycombinator.com/item?id=43482207) - [The Gang of Four is wrong and you don't understand delegation (2012)](https://www.saturnflyer.com/blog/the-gang-of-four-is-wrong-and-you-dont-understand-delegation)
 * [2025-03-26, 13:21:51](https://news.ycombinator.com/item?id=43482005) - [The long-awaited Friend Compound laws in California](https://supernuclear.substack.com/p/the-long-awaited-friend-compound)
 * [2025-03-26, 12:08:48](https://news.ycombinator.com/item?id=43481295) - [You should know this before choosing Next.js](https://eduardoboucas.com/posts/2025-03-25-you-should-know-this-before-choosing-nextjs/)
 * [2025-03-26, 12:04:08](https://news.ycombinator.com/item?id=43481261) - [I Quit Google Search for AI–and I'm Not Going Back](https://www.wsj.com/tech/personal-tech/google-search-chatgpt-perplexity-gemini-6ac749d9)

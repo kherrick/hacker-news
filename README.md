@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-26, 14:44:15](https://news.ycombinator.com/item?id=43482798) - [Google will develop the Android OS in private](https://www.androidauthority.com/google-android-development-aosp-3538503/)
 * [2025-03-26, 14:18:51](https://news.ycombinator.com/item?id=43482556) - [Hyperlight WASM: Fast, secure, and OS-free](https://opensource.microsoft.com/blog/2025/03/26/hyperlight-wasm-fast-secure-and-os-free/)
-* [2025-03-26, 13:21:51](https://news.ycombinator.com/item?id=43482005) - [The long-awaited Friend Compound laws in California](https://supernuclear.substack.com/p/the-long-awaited-friend-compound)
+* [2025-03-26, 13:43:09](https://news.ycombinator.com/item?id=43482207) - [The Gang of Four is wrong and you don't understand delegation (2012)](https://www.saturnflyer.com/blog/the-gang-of-four-is-wrong-and-you-dont-understand-delegation)
 * [2025-03-26, 11:36:17](https://news.ycombinator.com/item?id=43481067) - [SplitQuantV2: Enhancing Low-Bit Quantization of LLMs Without GPUs](https://arxiv.org/abs/2503.07657)
 * [2025-03-26, 11:24:12](https://news.ycombinator.com/item?id=43480964) - [The role of developer skills in agentic coding](https://martinfowler.com/articles/exploring-gen-ai.html#memo-13)
 * [2025-03-26, 07:49:56](https://news.ycombinator.com/item?id=43479808) - [Why Is It Lovely](https://www.solipsys.co.uk/new/WhyIsItLovely.html)
@@ -28,6 +27,7 @@
 * [2025-03-23, 06:55:11](https://news.ycombinator.com/item?id=43451285) - [Ruby, Ractors, and lock-free data structures](https://iliabylich.github.io/ruby-ractors-and-lock-free-data-structures/)
 * [2025-03-23, 03:42:23](https://news.ycombinator.com/item?id=43450745) - [Rest Easy](https://www.commentary.org/articles/joseph-epstein/rest-work-purpose/)
 * [2025-03-23, 02:43:54](https://news.ycombinator.com/item?id=43450515) - [All Clothing Is Handmade (2022)](https://ruthtillman.com/post/all-clothing-is-handmade/)
+* [2025-03-22, 23:51:12](https://news.ycombinator.com/item?id=43449669) - [C++26 Expansion Tricks](https://pydong.org/posts/ExpansionTricks/)
 * [2025-03-21, 20:12:49](https://news.ycombinator.com/item?id=43440321) - [Scientists break down plastic using a simple, inexpensive catalyst and air](https://phys.org/news/2025-03-scientists-plastic-simple-inexpensive-catalyst.html)
 * [2025-03-21, 18:44:37](https://news.ycombinator.com/item?id=43439501) - [Deciphering language processing in the human brain through LLM representations](https://research.google/blog/deciphering-language-processing-in-the-human-brain-through-llm-representations/)
 

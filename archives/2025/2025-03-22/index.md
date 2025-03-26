@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-22](index.md)
 
+* [2025-03-22, 23:51:12](https://news.ycombinator.com/item?id=43449669) - [C++26 Expansion Tricks](https://pydong.org/posts/ExpansionTricks/)
 * [2025-03-22, 23:37:43](https://news.ycombinator.com/item?id=43449608) - [AMC Theatres will screen a Swedish movie 'visually dubbed' with the help of AI](https://www.engadget.com/ai/amc-theatres-will-screen-a-swedish-movie-visually-dubbed-with-the-help-of-ai-130022232.html)
 * [2025-03-22, 22:52:21](https://news.ycombinator.com/item?id=43449326) - [The Vectrex Computer](https://www.amigalove.com/viewtopic.php?t=2887)
 * [2025-03-22, 21:52:58](https://news.ycombinator.com/item?id=43448933) - [WWI's 'Dazzle' Camouflage Seemed Effective Due to Unexpected Optical Trick](https://gizmodo.com/wwis-famous-dazzle-camouflage-seemed-effective-due-to-unexpected-optical-trick-study-finds-2000577568)
