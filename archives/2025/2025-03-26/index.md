@@ -7,6 +7,7 @@
 * [2025-03-26, 15:24:46](https://news.ycombinator.com/item?id=43483255) - [Show HN: New Agentic AI Framework in CNCF](https://github.com/dapr/dapr-agents)
 * [2025-03-26, 15:02:25](https://news.ycombinator.com/item?id=43483011) - [AI will change the world but not in the way you think](https://thomashunter.name/posts/2025-03-19-ai-llms-will-change-the-world)
 * [2025-03-26, 14:44:15](https://news.ycombinator.com/item?id=43482798) - [Google will develop the Android OS in private](https://www.androidauthority.com/google-android-development-aosp-3538503/)
+* [2025-03-26, 14:34:32](https://news.ycombinator.com/item?id=43482705) - [Collapse OS](http://collapseos.org/)
 * [2025-03-26, 14:18:51](https://news.ycombinator.com/item?id=43482556) - [Hyperlight WASM: Fast, secure, and OS-free](https://opensource.microsoft.com/blog/2025/03/26/hyperlight-wasm-fast-secure-and-os-free/)
 * [2025-03-26, 13:43:09](https://news.ycombinator.com/item?id=43482207) - [The Gang of Four is wrong and you don't understand delegation (2012)](https://www.saturnflyer.com/blog/the-gang-of-four-is-wrong-and-you-dont-understand-delegation)
 * [2025-03-26, 13:21:51](https://news.ycombinator.com/item?id=43482005) - [The long-awaited Friend Compound laws in California](https://supernuclear.substack.com/p/the-long-awaited-friend-compound)

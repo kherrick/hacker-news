@@ -9,6 +9,7 @@
 * [2025-03-23, 22:20:47](https://news.ycombinator.com/item?id=43456355) - [Sharing My USPS Mail Alerts Apps Script](https://taslim.xyz/blog/2025/sharing-my-usps-mail-alerts-apps-script/)
 * [2025-03-23, 22:18:29](https://news.ycombinator.com/item?id=43456341) - [RDNA 4's \"Out-of-Order\" Memory Accesses](https://chipsandcheese.com/p/rdna-4s-out-of-order-memory-accesses)
 * [2025-03-23, 21:25:08](https://news.ycombinator.com/item?id=43456030) - [Show HN: My iOS app to practice sight reading (10 years in the App Store)](https://apps.apple.com/us/app/notes-sight-reading-trainer/id874386416)
+* [2025-03-23, 19:33:44](https://news.ycombinator.com/item?id=43455251) - [Fragment of a human face aged over one million years discovered](https://www.sciencedaily.com/releases/2025/03/250312123847.htm)
 * [2025-03-23, 18:52:40](https://news.ycombinator.com/item?id=43454915) - [Show HN: LinkedIn sucks, so I built a better one](https://heyopenspot.com/)
 * [2025-03-23, 18:50:38](https://news.ycombinator.com/item?id=43454898) - [Books on Making and Maintaining Friendships](https://www.scotthyoung.com/blog/2025/03/18/8-books-on-making-friends/)
 * [2025-03-23, 18:45:13](https://news.ycombinator.com/item?id=43454861) - [Show HN: Formal Verification for Machine Learning Models Using Lean 4](https://github.com/fraware/leanverifier)
