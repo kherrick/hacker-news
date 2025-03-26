@@ -68,6 +68,7 @@
 * [2025-03-23, 05:58:35](https://news.ycombinator.com/item?id=43451141) - [Show HN: I'm a teacher and built an AI presentation tool](https://news.ycombinator.com/item?id=43451141)
 * [2025-03-23, 05:52:35](https://news.ycombinator.com/item?id=43451126) - [Mindfulness mediates the association between chronotype and depressive symptoms](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0319915)
 * [2025-03-23, 04:18:46](https://news.ycombinator.com/item?id=43450884) - [Rickover's Lessons](https://www.chinatalk.media/p/rickovers-lessons-how-to-build-a)
+* [2025-03-23, 03:42:23](https://news.ycombinator.com/item?id=43450745) - [Rest Easy](https://www.commentary.org/articles/joseph-epstein/rest-work-purpose/)
 * [2025-03-23, 03:40:05](https://news.ycombinator.com/item?id=43450732) - [(Recommendation Systems and Search) × LLMs](https://eugeneyan.com/writing/recsys-llm/)
 * [2025-03-23, 03:10:33](https://news.ycombinator.com/item?id=43450632) - [A sodium-ion portable power bank comes to market](https://www.theverge.com/news/631357/elecom-power-bank-battery-sodium-ion)
 * [2025-03-23, 02:51:38](https://news.ycombinator.com/item?id=43450550) - [Stop using the elbow criterion for k-means](https://arxiv.org/abs/2212.12189)
