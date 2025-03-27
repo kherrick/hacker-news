@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-27](index.md)
 
+* [2025-03-27, 22:14:39](https://news.ycombinator.com/item?id=43498807) - [Anthropic Economic Index: Insights from Claude 3.7 Sonnet](https://www.anthropic.com/news/anthropic-economic-index-insights-from-claude-sonnet-3-7)
+* [2025-03-27, 21:48:23](https://news.ycombinator.com/item?id=43498570) - [Asking Good Questions Is Harder Than Giving Great Answers](https://newsletter.dancohen.org/archive/asking-good-questions-is-harder-than-giving-great-answers/)
 * [2025-03-27, 21:22:42](https://news.ycombinator.com/item?id=43498338) - [I genuinely don't understand why some people are still bullish about LLMs](https://twitter.com/skdh/status/1905132853672784121)
 * [2025-03-27, 21:09:28](https://news.ycombinator.com/item?id=43498213) - [Take this on-call rotation and shove it](https://www.scottsmitelli.com/articles/take-oncall-and-shove-it/)
 * [2025-03-27, 21:00:29](https://news.ycombinator.com/item?id=43498109) - [Revyl (YC F24) Is Hiring a Front End Engineer Intern](https://www.ycombinator.com/companies/revyl/jobs/5rbIJLP-frontend-engineer-intern)

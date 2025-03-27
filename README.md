@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-27, 22:14:39](https://news.ycombinator.com/item?id=43498807) - [Anthropic Economic Index: Insights from Claude 3.7 Sonnet](https://www.anthropic.com/news/anthropic-economic-index-insights-from-claude-sonnet-3-7)
+* [2025-03-27, 21:48:23](https://news.ycombinator.com/item?id=43498570) - [Asking Good Questions Is Harder Than Giving Great Answers](https://newsletter.dancohen.org/archive/asking-good-questions-is-harder-than-giving-great-answers/)
 * [2025-03-27, 21:22:42](https://news.ycombinator.com/item?id=43498338) - [I genuinely don't understand why some people are still bullish about LLMs](https://twitter.com/skdh/status/1905132853672784121)
 * [2025-03-27, 21:09:28](https://news.ycombinator.com/item?id=43498213) - [Take this on-call rotation and shove it](https://www.scottsmitelli.com/articles/take-oncall-and-shove-it/)
 * [2025-03-27, 21:00:29](https://news.ycombinator.com/item?id=43498109) - [Revyl (YC F24) Is Hiring a Front End Engineer Intern](https://www.ycombinator.com/companies/revyl/jobs/5rbIJLP-frontend-engineer-intern)
@@ -19,7 +21,6 @@
 * [2025-03-27, 17:05:36](https://news.ycombinator.com/item?id=43495617) - [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model)
 * [2025-03-27, 16:49:43](https://news.ycombinator.com/item?id=43495465) - [Zoom bias: The social costs of having a 'tinny' sound during video conferences](https://phys.org/news/2025-03-bias-social-tinny-video-conferences.html)
 * [2025-03-27, 15:06:26](https://news.ycombinator.com/item?id=43494427) - [Launch HN: Continue (YC S23) – Create custom AI code assistants](https://hub.continue.dev/explore/assistants)
-* [2025-03-27, 13:59:17](https://news.ycombinator.com/item?id=43493749) - [Thinner Films Conduct Better Than Copper](https://spectrum.ieee.org/thin-film)
 * [2025-03-27, 12:49:44](https://news.ycombinator.com/item?id=43493056) - [Blasting Past WebP - An analysis of the NSO BLASTPASS iMessage exploit](https://googleprojectzero.blogspot.com/2025/03/blasting-past-webp.html)
 * [2025-03-27, 11:55:19](https://news.ycombinator.com/item?id=43492652) - [Source code art in the Rivulet language](https://github.com/rottytooth/Rivulet)
 * [2025-03-27, 11:41:30](https://news.ycombinator.com/item?id=43492562) - [Piranesi's Perspective Trick (2019)](https://medium.com/@brunopostle/piranesis-perspective-trick-6bcd7a754da9)
@@ -29,7 +30,6 @@
 * [2025-03-24, 23:07:14](https://news.ycombinator.com/item?id=43466355) - [How I pwned a major New Zealand service provider](https://mrbruh.com/majorprovider/)
 * [2025-03-24, 18:07:04](https://news.ycombinator.com/item?id=43463779) - [First-of-its-kind trial enables paralysed man to stand via stem cell injection](https://www.nature.com/articles/d41586-025-00863-0?linkId=13622861)
 * [2025-03-24, 00:27:38](https://news.ycombinator.com/item?id=43456936) - [Using Gorilla glass for home building](https://www.wsj.com/business/corning-window-gorilla-glass-4f443b07)
-* [2025-03-23, 18:09:46](https://news.ycombinator.com/item?id=43454642) - [Ignoring unwanted Terraform attribute changes](https://blog.mattsbit.co.uk/2025/03/23/ignoring-unwanted-terraform-provider-attribute-changes/)
 
 ## [Archives](archives/index.md)
 
