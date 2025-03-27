@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-27, 03:36:40](https://news.ycombinator.com/item?id=43490167) - [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)
 * [2025-03-27, 02:37:09](https://news.ycombinator.com/item?id=43489861) - [First C compiler source code from 1972](https://github.com/mortdeus/legacy-cc/tree/master/last1120c)
 * [2025-03-27, 00:51:30](https://news.ycombinator.com/item?id=43489271) - [DJ With Apple Music launches to enable subscribers to mix their own sets](https://www.musicweek.com/digital/read/dj-with-apple-music-launches-to-enable-subscribers-to-mix-their-own-sets/091655)
-* [2025-03-27, 00:40:08](https://news.ycombinator.com/item?id=43489190) - [Cilium eBPF-Go on Windows](https://ebpf-go.dev/contributing/windows/)
 * [2025-03-27, 00:31:47](https://news.ycombinator.com/item?id=43489136) - [The mysterious flow of fluid in the brain](https://www.quantamagazine.org/the-mysterious-flow-of-fluid-in-the-brain-20250326/)
 * [2025-03-27, 00:27:03](https://news.ycombinator.com/item?id=43489114) - [Blender releases their Oscar winning version tool](https://www.blender.org/download/releases/4-4/)
 * [2025-03-26, 20:57:59](https://news.ycombinator.com/item?id=43487231) - [Waymos crash less than human drivers](https://www.understandingai.org/p/human-drivers-keep-crashing-into)
