@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-03-27, 17:10:58",
+      "https://news.ycombinator.com/item?id=43495665"
+    ],
+    [
+      "Alkanes on Mars",
+      "https://www.science.org/content/blog-post/alkanes-mars"
+    ]
+  ],
+  [
+    [
+      "2025-03-27, 17:09:13",
+      "https://news.ycombinator.com/item?id=43495644"
+    ],
+    [
+      "Abundance Isn't Going to Happen Unless Politicians Are Scared of the Status Quo",
+      "https://inpractice.yimbyaction.org/p/abundance-isnt-going-to-happen-unless"
+    ]
+  ],
+  [
+    [
+      "2025-03-27, 17:05:36",
+      "https://news.ycombinator.com/item?id=43495617"
+    ],
+    [
+      "Tracing the thoughts of a large language model",
+      "https://www.anthropic.com/research/tracing-thoughts-language-model"
+    ]
+  ],
+  [
+    [
       "2025-03-27, 17:01:12",
       "https://news.ycombinator.com/item?id=43495571"
     ],
@@ -47,6 +77,16 @@
     [
       "Thinner Films Conduct Better Than Copper",
       "https://spectrum.ieee.org/thin-film"
+    ]
+  ],
+  [
+    [
+      "2025-03-27, 13:31:02",
+      "https://news.ycombinator.com/item?id=43493444"
+    ],
+    [
+      "A Special Year at the Heinz Nixdorf MuseumsForum",
+      "https://www.computer.org/csdl/magazine/an/2025/01/10927608/2558cmiC7UA"
     ]
   ],
   [
@@ -137,16 +177,6 @@
     [
       "Building a Linux Container Runtime from Scratch",
       "https://edera.dev/stories/styrolite"
-    ]
-  ],
-  [
-    [
-      "2025-03-26, 19:23:36",
-      "https://news.ycombinator.com/item?id=43485980"
-    ],
-    [
-      "Problems with the heap",
-      "https://rachelbythebay.com/w/2025/03/26/atop/"
     ]
   ],
   [
@@ -261,42 +291,12 @@
   ],
   [
     [
-      "2025-03-24, 08:53:23",
-      "https://news.ycombinator.com/item?id=43458738"
-    ],
-    [
-      "Writing a tiny undo/redo stack in JavaScript",
-      "https://blog.julik.nl/2025/03/a-tiny-undo-stack"
-    ]
-  ],
-  [
-    [
-      "2025-03-23, 18:45:13",
-      "https://news.ycombinator.com/item?id=43454861"
-    ],
-    [
-      "Show HN: Formal Verification for Machine Learning Models Using Lean 4",
-      "https://github.com/fraware/leanverifier"
-    ]
-  ],
-  [
-    [
       "2025-03-23, 18:09:46",
       "https://news.ycombinator.com/item?id=43454642"
     ],
     [
       "Ignoring unwanted Terraform attribute changes",
       "https://blog.mattsbit.co.uk/2025/03/23/ignoring-unwanted-terraform-provider-attribute-changes/"
-    ]
-  ],
-  [
-    [
-      "2025-03-23, 07:31:15",
-      "https://news.ycombinator.com/item?id=43451406"
-    ],
-    [
-      "Gemma3 Function Calling",
-      "https://ai.google.dev/gemma/docs/capabilities/function-calling"
     ]
   ]
 ]
