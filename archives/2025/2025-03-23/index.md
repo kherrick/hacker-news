@@ -33,6 +33,7 @@
 * [2025-03-23, 14:01:49](https://news.ycombinator.com/item?id=43452990) - [NotaGen: Symbolic Music Generation](https://electricalexis.github.io/notagen-demo/)
 * [2025-03-23, 13:54:06](https://news.ycombinator.com/item?id=43452945) - [Ask HN: Difficulties with Going Back to School](https://news.ycombinator.com/item?id=43452945)
 * [2025-03-23, 13:46:24](https://news.ycombinator.com/item?id=43452904) - [Battling the Blaze: Artifacts from the history of firefighting](https://worldhistory.substack.com/p/battling-the-blaze)
+* [2025-03-23, 13:27:46](https://news.ycombinator.com/item?id=43452793) - [The Synchrony Budget](https://www.morling.dev/blog/the-synchrony-budget/)
 * [2025-03-23, 13:27:26](https://news.ycombinator.com/item?id=43452789) - [Writing Programs with Ncurses](https://invisible-island.net/ncurses/ncurses-intro.html)
 * [2025-03-23, 13:19:07](https://news.ycombinator.com/item?id=43452725) - [Chicago-Sized Iceberg Hid Ancient Ecosystem, Scientists Reveal](https://gizmodo.com/chicago-sized-iceberg-hid-ancient-ecosystem-scientists-reveal-2000579125)
 * [2025-03-23, 13:14:15](https://news.ycombinator.com/item?id=43452688) - [Technicalities of Homeworld 2 Backgrounds](https://simonschreibt.de/gat/homeworld-2-backgrounds/)

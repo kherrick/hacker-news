@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-03-27](index.md)
 
+* [2025-03-27, 13:01:31](https://news.ycombinator.com/item?id=43493159) - [A filmmaker and a crooked lawyer shattered Denmark's self-image](https://www.theguardian.com/world/2025/mar/27/black-swan-denmark-documentary-mads-brugger-amira-smajic)
+* [2025-03-27, 12:49:44](https://news.ycombinator.com/item?id=43493056) - [Blasting Past WebP - An analysis of the NSO BLASTPASS iMessage exploit](https://googleprojectzero.blogspot.com/2025/03/blasting-past-webp.html)
 * [2025-03-27, 12:00:10](https://news.ycombinator.com/item?id=43492680) - [Craniometrix (YC W22) Is Hiring](https://www.ycombinator.com/companies/craniometrix/jobs/ugwcSrU-chief-of-staff)
 * [2025-03-27, 11:55:19](https://news.ycombinator.com/item?id=43492652) - [Source code art in the Rivulet language](https://github.com/rottytooth/Rivulet)
 * [2025-03-27, 11:41:30](https://news.ycombinator.com/item?id=43492562) - [Piranesi's Perspective Trick (2019)](https://medium.com/@brunopostle/piranesis-perspective-trick-6bcd7a754da9)
 * [2025-03-27, 10:49:55](https://news.ycombinator.com/item?id=43492211) - [Modern C](https://gustedt.gitlabpages.inria.fr/modern-c/)
 * [2025-03-27, 10:35:11](https://news.ycombinator.com/item?id=43492112) - [Why I'm Boycotting AI](https://unherd.com/2025/03/why-im-boycotting-ai/)
+* [2025-03-27, 10:12:56](https://news.ycombinator.com/item?id=43491977) - [Glider for Apple II](https://www.colino.net/wordpress/en/glider-for-apple-ii/)
 * [2025-03-27, 07:02:22](https://news.ycombinator.com/item?id=43491060) - [Supabase (YC S20) Is Hiring a Senior Auth Engineer (Remote)](https://jobs.ashbyhq.com/supabase/a2ede2c7-3792-4bfd-951d-686267b2b9a8)
 * [2025-03-27, 03:37:55](https://news.ycombinator.com/item?id=43490173) - [They Might Be Giants Flood EPK Promo (1990) [video]](https://www.youtube.com/watch?v=C-tQSFQ-ESY)
 * [2025-03-27, 03:36:40](https://news.ycombinator.com/item?id=43490167) - [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)
