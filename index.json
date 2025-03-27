@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-27, 23:32:17",
+      "https://news.ycombinator.com/item?id=43499492"
+    ],
+    [
+      "US administration revokes $11B in funding for addiction, mental health care",
+      "https://www.npr.org/2025/03/27/nx-s1-5342368/addiction-trump-mental-health-funding"
+    ]
+  ],
+  [
+    [
       "2025-03-27, 22:39:51",
       "https://news.ycombinator.com/item?id=43499045"
     ],
@@ -157,16 +167,6 @@
     [
       "A language for building concurrent software with confidence",
       "https://github.com/inko-lang/inko"
-    ]
-  ],
-  [
-    [
-      "2025-03-27, 18:07:41",
-      "https://news.ycombinator.com/item?id=43496244"
-    ],
-    [
-      "Parameter-free KV cache compression for memory-efficient long-context LLMs",
-      "https://arxiv.org/abs/2503.10714"
     ]
   ],
   [
