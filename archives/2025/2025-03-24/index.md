@@ -28,6 +28,7 @@
 * [2025-03-24, 18:48:34](https://news.ycombinator.com/item?id=43464193) - [Delete Your DNA from 23andMe](https://www.washingtonpost.com/technology/2025/03/24/23andme-dna-privacy-delete/)
 * [2025-03-24, 18:35:12](https://news.ycombinator.com/item?id=43464068) - [Qwen2.5-VL-32B: Smarter and Lighter](https://qwenlm.github.io/blog/qwen2.5-vl-32b/)
 * [2025-03-24, 18:34:31](https://news.ycombinator.com/item?id=43464054) - [23andMe Files for Bankruptcy, as CEO Anne Wojcicki Resigns](https://www.wsj.com/business/dna-testing-company-23andme-files-for-bankruptcy-announces-ceo-resignation-82ad1c45)
+* [2025-03-24, 17:47:08](https://news.ycombinator.com/item?id=43463579) - [AI Reveals Secrets of Dendritic Growth in Thin Films](https://www.tus.ac.jp/en/mediarelations/archive/20250320_5263.html)
 * [2025-03-24, 17:35:34](https://news.ycombinator.com/item?id=43463453) - [Project Europe aims to drive European innovation](https://www.projecteurope.co/)
 * [2025-03-24, 17:09:07](https://news.ycombinator.com/item?id=43463200) - [I won't connect my dishwasher to your cloud](https://www.jeffgeerling.com/blog/2025/i-wont-connect-my-dishwasher-your-stupid-cloud)
 * [2025-03-24, 16:35:07](https://news.ycombinator.com/item?id=43462882) - [Project Operation Whitecoat Military Human Experimentation on 7th Day Adventists (2010)](https://scholarworks.lib.csusb.edu/cgi/viewcontent.cgi?article=1201&context=history-in-the-making)
