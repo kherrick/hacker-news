@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-27, 18:07:41](https://news.ycombinator.com/item?id=43496244) - [Parameter-Free KV Cache Compression for Memory-Efficient Long-Context LLMs](https://arxiv.org/abs/2503.10714)
 * [2025-03-27, 18:01:33](https://news.ycombinator.com/item?id=43496181) - [B-2 Spirit Stealth Bombers Begin Unannounced Deployment to Diego Garcia](https://theaviationist.com/2025/03/26/b-2-unannounced-deployment-diego-garcia/)
 * [2025-03-27, 17:45:30](https://news.ycombinator.com/item?id=43495997) - [California bill aims to phase out harmful ultra-processed foods in schools](https://www.thenewlede.org/2025/03/california-bill-aims-to-phase-out-harmful-ultra-processed-foods-in-schools/)
 * [2025-03-27, 17:23:35](https://news.ycombinator.com/item?id=43495785) - [Philosophy of Coroutines (2023)](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/coroutines-philosophy/)
@@ -24,7 +25,6 @@
 * [2025-03-26, 17:22:22](https://news.ycombinator.com/item?id=43484520) - [Debian bookworm live images now reproducible](https://lwn.net/Articles/1015402/)
 * [2025-03-26, 17:08:56](https://news.ycombinator.com/item?id=43484382) - [A love letter to the CSV format](https://github.com/medialab/xan/blob/master/docs/LOVE_LETTER.md)
 * [2025-03-26, 16:02:56](https://news.ycombinator.com/item?id=43483660) - [Botswana launches first satellite BOTSAT-1 aboard SpaceX Falcon 9](https://spaceinafrica.com/2025/03/15/botswana-successfully-launches-first-satellite-botsat-1/)
-* [2025-03-26, 11:24:12](https://news.ycombinator.com/item?id=43480964) - [The role of developer skills in agentic coding](https://martinfowler.com/articles/exploring-gen-ai.html#memo-13)
 * [2025-03-24, 18:07:04](https://news.ycombinator.com/item?id=43463779) - [First-of-its-kind trial enables paralysed man to stand via stem cell injection](https://www.nature.com/articles/d41586-025-00863-0?linkId=13622861)
 * [2025-03-24, 14:37:46](https://news.ycombinator.com/item?id=43461618) - [War story: the hardest bug I ever debugged](https://www.clientserver.dev/p/war-story-the-hardest-bug-i-ever)
 * [2025-03-24, 13:47:02](https://news.ycombinator.com/item?id=43461022) - [Show HN: A difficult game to test your logic](https://rvlabs.ca/jumping-frogs)
