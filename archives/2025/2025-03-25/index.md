@@ -43,6 +43,7 @@
 * [2025-03-25, 13:46:49](https://news.ycombinator.com/item?id=43471242) - [Tokyo court orders former Unification Church to disban](https://www3.nhk.or.jp/nhkworld/en/news/20250325_13/)
 * [2025-03-25, 13:45:01](https://news.ycombinator.com/item?id=43471223) - [The Practical Limitations of End-to-End Encryption](https://soatok.blog/2025/03/25/the-practical-limitations-of-end-to-end-encryption/)
 * [2025-03-25, 13:40:59](https://news.ycombinator.com/item?id=43471177) - [If you get the chance, always run more extra network fiber cabling](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RunMoreExtraNetworkFiber)
+* [2025-03-25, 13:37:39](https://news.ycombinator.com/item?id=43471135) - [A UI might not make it easier](https://jeremymikkola.com/posts/2025_02_22_might_not_want_self_serve_ui.html)
 * [2025-03-25, 13:37:35](https://news.ycombinator.com/item?id=43471134) - [The Phony Comforts of AI Optimism](https://www.wheresyoured.at/optimistic-cowardice/)
 * [2025-03-25, 13:32:04](https://news.ycombinator.com/item?id=43471062) - [Marginalia Search receives second nlnet grant](https://www.marginalia.nu/log/a_116_grant_2.0/)
 * [2025-03-25, 13:26:01](https://news.ycombinator.com/item?id=43470971) - [What Killed Innovation?](https://www.shirleywu.studio/notebook/2025-02-innovation-killer)
