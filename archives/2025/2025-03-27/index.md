@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-27](index.md)
 
+* [2025-03-27, 19:04:20](https://news.ycombinator.com/item?id=43496922) - [White House to DOGE employees: Preserve your Signal records](https://www.politico.com/news/2025/03/27/white-house-doge-signal-records-00254122)
 * [2025-03-27, 18:38:21](https://news.ycombinator.com/item?id=43496644) - [AI models miss disease in Black and female patients](https://www.science.org/content/article/ai-models-miss-disease-black-female-patients)
 * [2025-03-27, 18:33:00](https://news.ycombinator.com/item?id=43496577) - [Clean, a formal verification DSL for ZK circuits in Lean4](https://blog.zksecurity.xyz/posts/clean/)
 * [2025-03-27, 18:28:11](https://news.ycombinator.com/item?id=43496517) - [The Japanese Writing System Explained: Hiragana, Katakana and Kanji](https://www.kanjimaster.ai/blog/japanese-writing-system-hiragana-katakana-kanji)

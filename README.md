@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-27, 19:04:20](https://news.ycombinator.com/item?id=43496922) - [White House to DOGE employees: Preserve your Signal records](https://www.politico.com/news/2025/03/27/white-house-doge-signal-records-00254122)
 * [2025-03-27, 18:38:21](https://news.ycombinator.com/item?id=43496644) - [AI models miss disease in Black and female patients](https://www.science.org/content/article/ai-models-miss-disease-black-female-patients)
 * [2025-03-27, 18:33:00](https://news.ycombinator.com/item?id=43496577) - [Clean, a formal verification DSL for ZK circuits in Lean4](https://blog.zksecurity.xyz/posts/clean/)
 * [2025-03-27, 18:15:12](https://news.ycombinator.com/item?id=43496355) - [A language for building concurrent software with confidence](https://github.com/inko-lang/inko)
@@ -12,7 +13,6 @@
 * [2025-03-27, 17:01:12](https://news.ycombinator.com/item?id=43495571) - [Replit (YC W18) Is Hiring Engineers to Automate Coding](https://replit.com/careers)
 * [2025-03-27, 15:06:26](https://news.ycombinator.com/item?id=43494427) - [Launch HN: Continue (YC S23) – Create custom AI code assistants](https://hub.continue.dev/explore/assistants)
 * [2025-03-27, 13:59:17](https://news.ycombinator.com/item?id=43493749) - [Thinner Films Conduct Better Than Copper](https://spectrum.ieee.org/thin-film)
-* [2025-03-27, 13:51:44](https://news.ycombinator.com/item?id=43493665) - [Building a modern durable execution engine from first principles](https://restate.dev/blog/building-a-modern-durable-execution-engine-from-first-principles/)
 * [2025-03-27, 13:18:52](https://news.ycombinator.com/item?id=43493313) - [What went wrong with the Alan Turing Institute?](https://www.chalmermagne.com/p/how-not-to-build-an-ai-institute)
 * [2025-03-27, 13:07:01](https://news.ycombinator.com/item?id=43493207) - [Crawl Order and Disorder](https://www.marginalia.nu/log/a_117_crawl_order/)
 * [2025-03-27, 13:01:31](https://news.ycombinator.com/item?id=43493159) - [A filmmaker and a crooked lawyer shattered Denmark's self-image](https://www.theguardian.com/world/2025/mar/27/black-swan-denmark-documentary-mads-brugger-amira-smajic)
