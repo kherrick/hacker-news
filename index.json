@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-03-27, 02:37:09",
+      "https://news.ycombinator.com/item?id=43489861"
+    ],
+    [
+      "First C compiler source code from 1972",
+      "https://github.com/mortdeus/legacy-cc/tree/master/last1120c"
+    ]
+  ],
+  [
+    [
       "2025-03-27, 00:51:30",
       "https://news.ycombinator.com/item?id=43489271"
     ],
     [
       "DJ With Apple Music launches to enable subscribers to mix their own sets",
       "https://www.musicweek.com/digital/read/dj-with-apple-music-launches-to-enable-subscribers-to-mix-their-own-sets/091655"
-    ]
-  ],
-  [
-    [
-      "2025-03-27, 00:47:19",
-      "https://news.ycombinator.com/item?id=43489237"
-    ],
-    [
-      "Europen Union creates Fedora-based Linux distribution for the public sector",
-      "https://www.linuxjournal.com/content/eu-os-bold-step-toward-digital-sovereignty-europe"
     ]
   ],
   [
@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2025-03-26, 20:57:59",
+      "https://news.ycombinator.com/item?id=43487231"
+    ],
+    [
+      "Waymos crash less than human drivers",
+      "https://www.understandingai.org/p/human-drivers-keep-crashing-into"
+    ]
+  ],
+  [
+    [
       "2025-03-26, 20:35:46",
       "https://news.ycombinator.com/item?id=43486997"
     ],
@@ -77,16 +87,6 @@
     [
       "Building a Firecracker-Powered Course Platform to Learn Docker and Kubernetes",
       "https://iximiuz.com/en/posts/iximiuz-labs-story/"
-    ]
-  ],
-  [
-    [
-      "2025-03-26, 19:41:20",
-      "https://news.ycombinator.com/item?id=43486236"
-    ],
-    [
-      "How to Delete Your 23andMe Data",
-      "https://www.eff.org/deeplinks/2025/03/how-delete-your-23andme-data"
     ]
   ],
   [
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2025-03-26, 11:24:12",
+      "https://news.ycombinator.com/item?id=43480964"
+    ],
+    [
+      "The role of developer skills in agentic coding",
+      "https://martinfowler.com/articles/exploring-gen-ai.html#memo-13"
+    ]
+  ],
+  [
+    [
       "2025-03-25, 18:47:37",
       "https://news.ycombinator.com/item?id=43474490"
     ],
@@ -217,6 +227,16 @@
     [
       "Has the decline of knowledge work begun?",
       "https://www.nytimes.com/2025/03/25/business/economy/white-collar-layoffs.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-24, 17:47:08",
+      "https://news.ycombinator.com/item?id=43463579"
+    ],
+    [
+      "AI Reveals Secrets of Dendritic Growth in Thin Films",
+      "https://www.tus.ac.jp/en/mediarelations/archive/20250320_5263.html"
     ]
   ],
   [
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2025-03-23, 10:02:02",
-      "https://news.ycombinator.com/item?id=43451935"
-    ],
-    [
-      "Heap-overflowing Llama.cpp to RCE",
-      "https://retr0.blog/blog/llama-rpc-rce"
-    ]
-  ],
-  [
-    [
       "2025-03-23, 07:31:15",
       "https://news.ycombinator.com/item?id=43451406"
     ],
@@ -287,16 +297,6 @@
     [
       "'Naive' science fan faces jail for plutonium import",
       "https://au.news.yahoo.com/naive-science-fan-faces-jail-053025281.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-21, 23:40:00",
-      "https://news.ycombinator.com/item?id=43441880"
-    ],
-    [
-      "A glitch in an online survey replaced the word 'yes' with 'forks'",
-      "https://www.pewresearch.org/decoded/2025/03/21/how-a-glitch-in-an-online-survey-replaced-the-word-yes-with-forks/"
     ]
   ]
 ]
