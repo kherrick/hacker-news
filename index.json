@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-27, 07:02:22",
+      "https://news.ycombinator.com/item?id=43491060"
+    ],
+    [
+      "Supabase (YC S20) Is Hiring a Senior Auth Engineer (Remote)",
+      "https://jobs.ashbyhq.com/supabase/a2ede2c7-3792-4bfd-951d-686267b2b9a8"
+    ]
+  ],
+  [
+    [
       "2025-03-27, 03:36:40",
       "https://news.ycombinator.com/item?id=43490167"
     ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2025-03-26, 17:53:47",
-      "https://news.ycombinator.com/item?id=43484845"
-    ],
-    [
-      "Malware found on NPM infecting local package with reverse shell",
-      "https://www.reversinglabs.com/blog/malicious-npm-patch-delivers-reverse-shell"
-    ]
-  ],
-  [
-    [
       "2025-03-26, 17:22:22",
       "https://news.ycombinator.com/item?id=43484520"
     ],
@@ -147,16 +147,6 @@
     [
       "A love letter to the CSV format",
       "https://github.com/medialab/xan/blob/master/docs/LOVE_LETTER.md"
-    ]
-  ],
-  [
-    [
-      "2025-03-26, 16:18:14",
-      "https://news.ycombinator.com/item?id=43483842"
-    ],
-    [
-      "Good-bye core types; Hello Go as we know and love it",
-      "https://go.dev/blog/coretypes"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "War story: the hardest bug I ever debugged",
       "https://www.clientserver.dev/p/war-story-the-hardest-bug-i-ever"
+    ]
+  ],
+  [
+    [
+      "2025-03-24, 13:07:38",
+      "https://news.ycombinator.com/item?id=43460636"
+    ],
+    [
+      "Scientists Discover New Heavy-Metal Molecule 'Berkelocene'",
+      "https://newscenter.lbl.gov/2025/03/11/scientists-discover-new-heavy-metal-molecule-berkelocene/"
     ]
   ],
   [
