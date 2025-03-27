@@ -37,6 +37,7 @@
 * [2025-03-24, 16:05:47](https://news.ycombinator.com/item?id=43462593) - [Deregulated energy markets accelerate solar adoption](https://seanobannon.substack.com/p/renewable-energy-adoption-and-the)
 * [2025-03-24, 15:58:04](https://news.ycombinator.com/item?id=43462510) - [Unveiling the mysterious 'red sprite' lightning strikes over the Himalayas](https://phys.org/news/2025-03-unveiling-mysterious-red-sprite-lightning.html)
 * [2025-03-24, 15:40:08](https://news.ycombinator.com/item?id=43462299) - [Mastering Delphi 5 2025 Annotated Edition Is Now Complete](https://blog.marcocantu.com/blog/2025-march-mastering-delphi5-annotated-complete.html)
+* [2025-03-24, 15:07:37](https://news.ycombinator.com/item?id=43461944) - [Why Anthropic's Claude still hasn't beaten Pokémon](https://arstechnica.com/ai/2025/03/why-anthropics-claude-still-hasnt-beaten-pokemon/)
 * [2025-03-24, 14:45:34](https://news.ycombinator.com/item?id=43461701) - [Triforce – a beamformer for Apple Silicon laptops](https://github.com/chadmed/triforce)
 * [2025-03-24, 14:45:34](https://news.ycombinator.com/item?id=43461701) - [Triforce – a beamformer for Apple Silicon laptops](https://crates.io/crates/triforce-lv2)
 * [2025-03-24, 14:37:46](https://news.ycombinator.com/item?id=43461618) - [War story: the hardest bug I ever debugged](https://www.clientserver.dev/p/war-story-the-hardest-bug-i-ever)
