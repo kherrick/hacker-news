@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-27, 16:10:48](https://news.ycombinator.com/item?id=43495087) - [People say they prefer stories written by humans over AI, study says otherwise](https://theconversation.com/people-say-they-prefer-stories-written-by-humans-over-ai-generated-works-yet-new-study-suggests-thats-not-quite-true-251347)
 * [2025-03-27, 15:06:26](https://news.ycombinator.com/item?id=43494427) - [Launch HN: Continue (YC S23) – Create custom AI code assistants](https://hub.continue.dev/explore/assistants)
 * [2025-03-27, 15:05:00](https://news.ycombinator.com/item?id=43494405) - [Mud, water and wood: The system that kept a 1604-year-old city afloat](https://www.bbc.com/future/article/20250324-the-ancient-forest-that-supports-venice)
 * [2025-03-27, 14:55:28](https://news.ycombinator.com/item?id=43494324) - [How the American Medical Association Screws Doctors](https://www.thebignewsletter.com/p/how-the-american-medical-association)
@@ -15,7 +14,6 @@
 * [2025-03-27, 10:12:56](https://news.ycombinator.com/item?id=43491977) - [Glider for Apple II](https://www.colino.net/wordpress/en/glider-for-apple-ii/)
 * [2025-03-27, 03:37:55](https://news.ycombinator.com/item?id=43490173) - [They Might Be Giants Flood EPK Promo (1990) [video]](https://www.youtube.com/watch?v=C-tQSFQ-ESY)
 * [2025-03-27, 00:51:30](https://news.ycombinator.com/item?id=43489271) - [DJ With Apple Music launches to enable subscribers to mix their own sets](https://www.musicweek.com/digital/read/dj-with-apple-music-launches-to-enable-subscribers-to-mix-their-own-sets/091655)
-* [2025-03-26, 20:47:03](https://news.ycombinator.com/item?id=43487128) - [Postel's Law and the Three Ring Circus](https://alexgaynor.net/2025/mar/25/postels-law-and-the-three-ring-circus/)
 * [2025-03-26, 20:35:46](https://news.ycombinator.com/item?id=43486997) - [Building a Linux Container Runtime from Scratch](https://edera.dev/stories/styrolite)
 * [2025-03-26, 19:23:36](https://news.ycombinator.com/item?id=43485980) - [Problems with the heap](https://rachelbythebay.com/w/2025/03/26/atop/)
 * [2025-03-26, 18:55:29](https://news.ycombinator.com/item?id=43485566) - [OpenAI adds MCP support to Agents SDK](https://openai.github.io/openai-agents-python/mcp/)
@@ -29,7 +27,9 @@
 * [2025-03-24, 18:07:04](https://news.ycombinator.com/item?id=43463779) - [First-of-its-kind trial enables paralysed man to stand via stem cell injection](https://www.nature.com/articles/d41586-025-00863-0?linkId=13622861)
 * [2025-03-24, 14:37:46](https://news.ycombinator.com/item?id=43461618) - [War story: the hardest bug I ever debugged](https://www.clientserver.dev/p/war-story-the-hardest-bug-i-ever)
 * [2025-03-24, 13:07:38](https://news.ycombinator.com/item?id=43460636) - [Scientists Discover New Heavy-Metal Molecule 'Berkelocene'](https://newscenter.lbl.gov/2025/03/11/scientists-discover-new-heavy-metal-molecule-berkelocene/)
-* [2025-03-23, 13:27:46](https://news.ycombinator.com/item?id=43452793) - [The Synchrony Budget](https://www.morling.dev/blog/the-synchrony-budget/)
+* [2025-03-24, 08:53:23](https://news.ycombinator.com/item?id=43458738) - [Writing a tiny undo/redo stack in JavaScript](https://blog.julik.nl/2025/03/a-tiny-undo-stack)
+* [2025-03-23, 18:45:13](https://news.ycombinator.com/item?id=43454861) - [Show HN: Formal Verification for Machine Learning Models Using Lean 4](https://github.com/fraware/leanverifier)
+* [2025-03-23, 07:31:15](https://news.ycombinator.com/item?id=43451406) - [Gemma3 Function Calling](https://ai.google.dev/gemma/docs/capabilities/function-calling)
 
 ## [Archives](archives/index.md)
 
