@@ -28,7 +28,7 @@
 * [2025-03-24, 13:07:38](https://news.ycombinator.com/item?id=43460636) - [Scientists Discover New Heavy-Metal Molecule 'Berkelocene'](https://newscenter.lbl.gov/2025/03/11/scientists-discover-new-heavy-metal-molecule-berkelocene/)
 * [2025-03-24, 08:53:23](https://news.ycombinator.com/item?id=43458738) - [Writing a tiny undo/redo stack in JavaScript](https://blog.julik.nl/2025/03/a-tiny-undo-stack)
 * [2025-03-23, 20:36:51](https://news.ycombinator.com/item?id=43455698) - [Exploring Dynamic Dispatch in Rust](https://alschwalm.com/blog/static/2017/03/07/exploring-dynamic-dispatch-in-rust/)
-* [2025-03-23, 14:01:49](https://news.ycombinator.com/item?id=43452990) - [NotaGen: Symbolic Music Generation](https://electricalexis.github.io/notagen-demo/)
+* [2025-03-23, 18:45:13](https://news.ycombinator.com/item?id=43454861) - [Show HN: Formal Verification for Machine Learning Models Using Lean 4](https://github.com/fraware/leanverifier)
 * [2025-03-23, 07:31:15](https://news.ycombinator.com/item?id=43451406) - [Gemma3 Function Calling](https://ai.google.dev/gemma/docs/capabilities/function-calling)
 
 ## [Archives](archives/index.md)
