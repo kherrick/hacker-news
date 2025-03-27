@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-03-27](index.md)
 
+* [2025-03-27, 16:10:48](https://news.ycombinator.com/item?id=43495087) - [People say they prefer stories written by humans over AI, study says otherwise](https://theconversation.com/people-say-they-prefer-stories-written-by-humans-over-ai-generated-works-yet-new-study-suggests-thats-not-quite-true-251347)
 * [2025-03-27, 15:06:26](https://news.ycombinator.com/item?id=43494427) - [Launch HN: Continue (YC S23) – Create custom AI code assistants](https://hub.continue.dev/explore/assistants)
 * [2025-03-27, 15:05:00](https://news.ycombinator.com/item?id=43494405) - [Mud, water and wood: The system that kept a 1604-year-old city afloat](https://www.bbc.com/future/article/20250324-the-ancient-forest-that-supports-venice)
+* [2025-03-27, 14:55:28](https://news.ycombinator.com/item?id=43494324) - [How the American Medical Association Screws Doctors](https://www.thebignewsletter.com/p/how-the-american-medical-association)
+* [2025-03-27, 13:59:17](https://news.ycombinator.com/item?id=43493749) - [Thinner Films Conduct Better Than Copper](https://spectrum.ieee.org/thin-film)
 * [2025-03-27, 13:40:55](https://news.ycombinator.com/item?id=43493552) - [Netlify deploys hundreds of thousands of Next.js sites – here's what challenging](https://www.netlify.com/blog/how-we-run-nextjs/)
+* [2025-03-27, 13:31:02](https://news.ycombinator.com/item?id=43493444) - [A Special Year at the Heinz Nixdorf MuseumsForum](https://www.computer.org/csdl/magazine/an/2025/01/10927608/2558cmiC7UA)
 * [2025-03-27, 13:18:52](https://news.ycombinator.com/item?id=43493313) - [What went wrong with the Alan Turing Institute?](https://www.chalmermagne.com/p/how-not-to-build-an-ai-institute)
 * [2025-03-27, 13:07:01](https://news.ycombinator.com/item?id=43493207) - [Crawl Order and Disorder](https://www.marginalia.nu/log/a_117_crawl_order/)
 * [2025-03-27, 13:01:31](https://news.ycombinator.com/item?id=43493159) - [A filmmaker and a crooked lawyer shattered Denmark's self-image](https://www.theguardian.com/world/2025/mar/27/black-swan-denmark-documentary-mads-brugger-amira-smajic)
