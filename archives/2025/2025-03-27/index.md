@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-27](index.md)
 
 * [2025-03-27, 17:45:30](https://news.ycombinator.com/item?id=43495997) - [California bill aims to phase out harmful ultra-processed foods in schools](https://www.thenewlede.org/2025/03/california-bill-aims-to-phase-out-harmful-ultra-processed-foods-in-schools/)
+* [2025-03-27, 17:23:35](https://news.ycombinator.com/item?id=43495785) - [Philosophy of Coroutines (2023)](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/coroutines-philosophy/)
 * [2025-03-27, 17:10:58](https://news.ycombinator.com/item?id=43495665) - [Alkanes on Mars](https://www.science.org/content/blog-post/alkanes-mars)
 * [2025-03-27, 17:09:13](https://news.ycombinator.com/item?id=43495644) - [Abundance Isn't Going to Happen Unless Politicians Are Scared of the Status Quo](https://inpractice.yimbyaction.org/p/abundance-isnt-going-to-happen-unless)
 * [2025-03-27, 17:05:36](https://news.ycombinator.com/item?id=43495617) - [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model)
