@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-27, 16:10:48",
+      "https://news.ycombinator.com/item?id=43495087"
+    ],
+    [
+      "People say they prefer stories written by humans over AI, study says otherwise",
+      "https://theconversation.com/people-say-they-prefer-stories-written-by-humans-over-ai-generated-works-yet-new-study-suggests-thats-not-quite-true-251347"
+    ]
+  ],
+  [
+    [
       "2025-03-27, 15:06:26",
       "https://news.ycombinator.com/item?id=43494427"
     ],
@@ -21,12 +31,32 @@
   ],
   [
     [
-      "2025-03-27, 13:40:55",
-      "https://news.ycombinator.com/item?id=43493552"
+      "2025-03-27, 14:55:28",
+      "https://news.ycombinator.com/item?id=43494324"
     ],
     [
-      "Netlify deploys hundreds of thousands of Next.js sites – here's what challenging",
-      "https://www.netlify.com/blog/how-we-run-nextjs/"
+      "How the American Medical Association Screws Doctors",
+      "https://www.thebignewsletter.com/p/how-the-american-medical-association"
+    ]
+  ],
+  [
+    [
+      "2025-03-27, 13:59:17",
+      "https://news.ycombinator.com/item?id=43493749"
+    ],
+    [
+      "Thinner Films Conduct Better Than Copper",
+      "https://spectrum.ieee.org/thin-film"
+    ]
+  ],
+  [
+    [
+      "2025-03-27, 13:31:02",
+      "https://news.ycombinator.com/item?id=43493444"
+    ],
+    [
+      "A Special Year at the Heinz Nixdorf MuseumsForum",
+      "https://www.computer.org/csdl/magazine/an/2025/01/10927608/2558cmiC7UA"
     ]
   ],
   [
@@ -117,16 +147,6 @@
     [
       "DJ With Apple Music launches to enable subscribers to mix their own sets",
       "https://www.musicweek.com/digital/read/dj-with-apple-music-launches-to-enable-subscribers-to-mix-their-own-sets/091655"
-    ]
-  ],
-  [
-    [
-      "2025-03-27, 00:31:47",
-      "https://news.ycombinator.com/item?id=43489136"
-    ],
-    [
-      "The mysterious flow of fluid in the brain",
-      "https://www.quantamagazine.org/the-mysterious-flow-of-fluid-in-the-brain-20250326/"
     ]
   ],
   [
@@ -241,6 +261,16 @@
   ],
   [
     [
+      "2025-03-24, 18:07:04",
+      "https://news.ycombinator.com/item?id=43463779"
+    ],
+    [
+      "First-of-its-kind trial enables paralysed man to stand via stem cell injection",
+      "https://www.nature.com/articles/d41586-025-00863-0?linkId=13622861"
+    ]
+  ],
+  [
+    [
       "2025-03-24, 14:37:46",
       "https://news.ycombinator.com/item?id=43461618"
     ],
@@ -261,42 +291,12 @@
   ],
   [
     [
-      "2025-03-24, 08:53:23",
-      "https://news.ycombinator.com/item?id=43458738"
-    ],
-    [
-      "Writing a tiny undo/redo stack in JavaScript",
-      "https://blog.julik.nl/2025/03/a-tiny-undo-stack"
-    ]
-  ],
-  [
-    [
-      "2025-03-23, 18:45:13",
-      "https://news.ycombinator.com/item?id=43454861"
-    ],
-    [
-      "Show HN: Formal Verification for Machine Learning Models Using Lean 4",
-      "https://github.com/fraware/leanverifier"
-    ]
-  ],
-  [
-    [
       "2025-03-23, 13:27:46",
       "https://news.ycombinator.com/item?id=43452793"
     ],
     [
       "The Synchrony Budget",
       "https://www.morling.dev/blog/the-synchrony-budget/"
-    ]
-  ],
-  [
-    [
-      "2025-03-23, 07:31:15",
-      "https://news.ycombinator.com/item?id=43451406"
-    ],
-    [
-      "Gemma3 Function Calling",
-      "https://ai.google.dev/gemma/docs/capabilities/function-calling"
     ]
   ]
 ]
