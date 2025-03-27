@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-27](index.md)
 
+* [2025-03-27, 18:01:33](https://news.ycombinator.com/item?id=43496181) - [B-2 Spirit Stealth Bombers Begin Unannounced Deployment to Diego Garcia](https://theaviationist.com/2025/03/26/b-2-unannounced-deployment-diego-garcia/)
 * [2025-03-27, 17:45:30](https://news.ycombinator.com/item?id=43495997) - [California bill aims to phase out harmful ultra-processed foods in schools](https://www.thenewlede.org/2025/03/california-bill-aims-to-phase-out-harmful-ultra-processed-foods-in-schools/)
 * [2025-03-27, 17:23:35](https://news.ycombinator.com/item?id=43495785) - [Philosophy of Coroutines (2023)](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/coroutines-philosophy/)
 * [2025-03-27, 17:10:58](https://news.ycombinator.com/item?id=43495665) - [Alkanes on Mars](https://www.science.org/content/blog-post/alkanes-mars)
