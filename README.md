@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-27, 13:07:01](https://news.ycombinator.com/item?id=43493207) - [Crawl Order and Disorder](https://www.marginalia.nu/log/a_117_crawl_order/)
 * [2025-03-27, 13:01:31](https://news.ycombinator.com/item?id=43493159) - [A filmmaker and a crooked lawyer shattered Denmark's self-image](https://www.theguardian.com/world/2025/mar/27/black-swan-denmark-documentary-mads-brugger-amira-smajic)
 * [2025-03-27, 12:49:44](https://news.ycombinator.com/item?id=43493056) - [Blasting Past WebP - An analysis of the NSO BLASTPASS iMessage exploit](https://googleprojectzero.blogspot.com/2025/03/blasting-past-webp.html)
 * [2025-03-27, 12:00:10](https://news.ycombinator.com/item?id=43492680) - [Craniometrix (YC W22) Is Hiring](https://www.ycombinator.com/companies/craniometrix/jobs/ugwcSrU-chief-of-staff)
@@ -9,7 +10,6 @@
 * [2025-03-27, 03:37:55](https://news.ycombinator.com/item?id=43490173) - [They Might Be Giants Flood EPK Promo (1990) [video]](https://www.youtube.com/watch?v=C-tQSFQ-ESY)
 * [2025-03-27, 00:51:30](https://news.ycombinator.com/item?id=43489271) - [DJ With Apple Music launches to enable subscribers to mix their own sets](https://www.musicweek.com/digital/read/dj-with-apple-music-launches-to-enable-subscribers-to-mix-their-own-sets/091655)
 * [2025-03-27, 00:31:47](https://news.ycombinator.com/item?id=43489136) - [The mysterious flow of fluid in the brain](https://www.quantamagazine.org/the-mysterious-flow-of-fluid-in-the-brain-20250326/)
-* [2025-03-26, 23:04:33](https://news.ycombinator.com/item?id=43488490) - [Rost – Rust Programming in German](https://github.com/michidk/rost)
 * [2025-03-26, 20:57:59](https://news.ycombinator.com/item?id=43487231) - [Waymos crash less than human drivers](https://www.understandingai.org/p/human-drivers-keep-crashing-into)
 * [2025-03-26, 20:47:03](https://news.ycombinator.com/item?id=43487128) - [Postel's Law and the Three Ring Circus](https://alexgaynor.net/2025/mar/25/postels-law-and-the-three-ring-circus/)
 * [2025-03-26, 20:35:46](https://news.ycombinator.com/item?id=43486997) - [Building a Linux Container Runtime from Scratch](https://edera.dev/stories/styrolite)
