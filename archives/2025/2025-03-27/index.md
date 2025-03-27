@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-27](index.md)
 
+* [2025-03-27, 20:27:55](https://news.ycombinator.com/item?id=43497792) - [Show HN: Dish: A lightweight HTTP and TCP socket monitoring tool written in Go](https://github.com/thevxn/dish)
+* [2025-03-27, 20:19:38](https://news.ycombinator.com/item?id=43497719) - [How to Use Em Dashes (–), En Dashes (–), and Hyphens (-)](https://www.merriam-webster.com/grammar/em-dash-en-dash-how-to-use)
+* [2025-03-27, 19:49:59](https://news.ycombinator.com/item?id=43497398) - [HDMI Musings: YCbCr color subsampling, Dolby Vision MEL/FEL, and and5V injection](http://archimago.blogspot.com/2025/03/hdmi-musings-high-speed-cables-data.html)
 * [2025-03-27, 19:49:28](https://news.ycombinator.com/item?id=43497394) - [I tried making artificial sunlight at home](https://victorpoughon.fr/i-tried-making-artificial-sunlight-at-home/)
 * [2025-03-27, 19:37:50](https://news.ycombinator.com/item?id=43497264) - [Banned Books: Analysis of Censorship on Amazon.com](https://citizenlab.ca/2024/11/analysis-of-censorship-on-amazon-com/)
 * [2025-03-27, 19:28:01](https://news.ycombinator.com/item?id=43497150) - [SignalGate Is Driving the Most US Downloads of Signal Ever](https://www.wired.com/story/signalgate-is-driving-the-most-us-downloads-of-signal-ever/)
