@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-27](index.md)
 
+* [2025-03-27, 19:49:28](https://news.ycombinator.com/item?id=43497394) - [I tried making artificial sunlight at home](https://victorpoughon.fr/i-tried-making-artificial-sunlight-at-home/)
+* [2025-03-27, 19:28:01](https://news.ycombinator.com/item?id=43497150) - [SignalGate Is Driving the Most US Downloads of Signal Ever](https://www.wired.com/story/signalgate-is-driving-the-most-us-downloads-of-signal-ever/)
 * [2025-03-27, 19:15:22](https://news.ycombinator.com/item?id=43497033) - [NASA Deletes Comic Book About How Women Can Be Astronauts](https://futurism.com/nasa-deletes-comic-women-astronauts)
 * [2025-03-27, 19:04:20](https://news.ycombinator.com/item?id=43496922) - [White House to DOGE employees: Preserve your Signal records](https://www.politico.com/news/2025/03/27/white-house-doge-signal-records-00254122)
 * [2025-03-27, 18:38:21](https://news.ycombinator.com/item?id=43496644) - [AI models miss disease in Black and female patients](https://www.science.org/content/article/ai-models-miss-disease-black-female-patients)

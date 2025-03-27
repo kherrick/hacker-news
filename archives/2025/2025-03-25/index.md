@@ -74,6 +74,7 @@
 * [2025-03-25, 08:07:00](https://news.ycombinator.com/item?id=43468959) - [A Sneaky Phish Just Grabbed My Mailchimp Mailing List](https://www.troyhunt.com/a-sneaky-phish-just-grabbed-my-mailchimp-mailing-list/)
 * [2025-03-25, 07:23:36](https://news.ycombinator.com/item?id=43468765) - [Ungovernable, Capricious Life](https://www.nybooks.com/articles/2025/04/10/ungovernable-capricious-life-shattered-hanif-kureishi/)
 * [2025-03-25, 06:59:44](https://news.ycombinator.com/item?id=43468666) - [Status as a Service (2019)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
+* [2025-03-25, 06:58:12](https://news.ycombinator.com/item?id=43468655) - [The Quantum Chaos of Literature](https://www.nybooks.com/articles/2025/04/10/the-quantum-chaos-of-literature-benjamin-labatut/)
 * [2025-03-25, 06:52:22](https://news.ycombinator.com/item?id=43468637) - [The Lost Art of Commit Messages](https://www.seyhan.me/blog/post/lost-art-of-commit-messages)
 * [2025-03-25, 06:25:08](https://news.ycombinator.com/item?id=43468539) - [Music and the Decline of Civilization](https://renovatio.zaytuna.edu/article/plato-laws-music-civilization)
 * [2025-03-25, 06:11:46](https://news.ycombinator.com/item?id=43468498) - [Is Robert Frost Even a Good Poet?](https://www.theparisreview.org/blog/2025/03/17/is-robert-frost-even-a-good-poet/)
