@@ -1,10 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-27, 17:10:58](https://news.ycombinator.com/item?id=43495665) - [Alkanes on Mars](https://www.science.org/content/blog-post/alkanes-mars)
+* [2025-03-27, 17:09:13](https://news.ycombinator.com/item?id=43495644) - [Abundance Isn't Going to Happen Unless Politicians Are Scared of the Status Quo](https://inpractice.yimbyaction.org/p/abundance-isnt-going-to-happen-unless)
+* [2025-03-27, 17:05:36](https://news.ycombinator.com/item?id=43495617) - [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model)
 * [2025-03-27, 17:01:12](https://news.ycombinator.com/item?id=43495571) - [Replit (YC W18) Is Hiring Engineers to Automate Coding](https://replit.com/careers)
 * [2025-03-27, 16:49:43](https://news.ycombinator.com/item?id=43495465) - [Zoom bias: The social costs of having a 'tinny' sound during video conferences](https://phys.org/news/2025-03-bias-social-tinny-video-conferences.html)
 * [2025-03-27, 15:06:26](https://news.ycombinator.com/item?id=43494427) - [Launch HN: Continue (YC S23) – Create custom AI code assistants](https://hub.continue.dev/explore/assistants)
 * [2025-03-27, 14:55:28](https://news.ycombinator.com/item?id=43494324) - [How the American Medical Association Screws Doctors](https://www.thebignewsletter.com/p/how-the-american-medical-association)
 * [2025-03-27, 13:59:17](https://news.ycombinator.com/item?id=43493749) - [Thinner Films Conduct Better Than Copper](https://spectrum.ieee.org/thin-film)
+* [2025-03-27, 13:31:02](https://news.ycombinator.com/item?id=43493444) - [A Special Year at the Heinz Nixdorf MuseumsForum](https://www.computer.org/csdl/magazine/an/2025/01/10927608/2558cmiC7UA)
 * [2025-03-27, 13:07:01](https://news.ycombinator.com/item?id=43493207) - [Crawl Order and Disorder](https://www.marginalia.nu/log/a_117_crawl_order/)
 * [2025-03-27, 13:01:31](https://news.ycombinator.com/item?id=43493159) - [A filmmaker and a crooked lawyer shattered Denmark's self-image](https://www.theguardian.com/world/2025/mar/27/black-swan-denmark-documentary-mads-brugger-amira-smajic)
 * [2025-03-27, 12:49:44](https://news.ycombinator.com/item?id=43493056) - [Blasting Past WebP - An analysis of the NSO BLASTPASS iMessage exploit](https://googleprojectzero.blogspot.com/2025/03/blasting-past-webp.html)
@@ -14,7 +18,6 @@
 * [2025-03-27, 03:37:55](https://news.ycombinator.com/item?id=43490173) - [They Might Be Giants Flood EPK Promo (1990) [video]](https://www.youtube.com/watch?v=C-tQSFQ-ESY)
 * [2025-03-27, 00:51:30](https://news.ycombinator.com/item?id=43489271) - [DJ With Apple Music launches to enable subscribers to mix their own sets](https://www.musicweek.com/digital/read/dj-with-apple-music-launches-to-enable-subscribers-to-mix-their-own-sets/091655)
 * [2025-03-26, 20:35:46](https://news.ycombinator.com/item?id=43486997) - [Building a Linux Container Runtime from Scratch](https://edera.dev/stories/styrolite)
-* [2025-03-26, 19:23:36](https://news.ycombinator.com/item?id=43485980) - [Problems with the heap](https://rachelbythebay.com/w/2025/03/26/atop/)
 * [2025-03-26, 18:55:29](https://news.ycombinator.com/item?id=43485566) - [OpenAI adds MCP support to Agents SDK](https://openai.github.io/openai-agents-python/mcp/)
 * [2025-03-26, 17:22:22](https://news.ycombinator.com/item?id=43484520) - [Debian bookworm live images now reproducible](https://lwn.net/Articles/1015402/)
 * [2025-03-26, 17:08:56](https://news.ycombinator.com/item?id=43484382) - [A love letter to the CSV format](https://github.com/medialab/xan/blob/master/docs/LOVE_LETTER.md)
@@ -26,10 +29,7 @@
 * [2025-03-24, 18:07:04](https://news.ycombinator.com/item?id=43463779) - [First-of-its-kind trial enables paralysed man to stand via stem cell injection](https://www.nature.com/articles/d41586-025-00863-0?linkId=13622861)
 * [2025-03-24, 14:37:46](https://news.ycombinator.com/item?id=43461618) - [War story: the hardest bug I ever debugged](https://www.clientserver.dev/p/war-story-the-hardest-bug-i-ever)
 * [2025-03-24, 13:07:38](https://news.ycombinator.com/item?id=43460636) - [Scientists Discover New Heavy-Metal Molecule 'Berkelocene'](https://newscenter.lbl.gov/2025/03/11/scientists-discover-new-heavy-metal-molecule-berkelocene/)
-* [2025-03-24, 08:53:23](https://news.ycombinator.com/item?id=43458738) - [Writing a tiny undo/redo stack in JavaScript](https://blog.julik.nl/2025/03/a-tiny-undo-stack)
-* [2025-03-23, 18:45:13](https://news.ycombinator.com/item?id=43454861) - [Show HN: Formal Verification for Machine Learning Models Using Lean 4](https://github.com/fraware/leanverifier)
 * [2025-03-23, 18:09:46](https://news.ycombinator.com/item?id=43454642) - [Ignoring unwanted Terraform attribute changes](https://blog.mattsbit.co.uk/2025/03/23/ignoring-unwanted-terraform-provider-attribute-changes/)
-* [2025-03-23, 07:31:15](https://news.ycombinator.com/item?id=43451406) - [Gemma3 Function Calling](https://ai.google.dev/gemma/docs/capabilities/function-calling)
 
 ## [Archives](archives/index.md)
 

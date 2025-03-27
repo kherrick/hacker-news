@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-27](index.md)
 
+* [2025-03-27, 17:10:58](https://news.ycombinator.com/item?id=43495665) - [Alkanes on Mars](https://www.science.org/content/blog-post/alkanes-mars)
+* [2025-03-27, 17:09:13](https://news.ycombinator.com/item?id=43495644) - [Abundance Isn't Going to Happen Unless Politicians Are Scared of the Status Quo](https://inpractice.yimbyaction.org/p/abundance-isnt-going-to-happen-unless)
+* [2025-03-27, 17:05:36](https://news.ycombinator.com/item?id=43495617) - [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model)
 * [2025-03-27, 17:01:12](https://news.ycombinator.com/item?id=43495571) - [Replit (YC W18) Is Hiring Engineers to Automate Coding](https://replit.com/careers)
 * [2025-03-27, 16:49:43](https://news.ycombinator.com/item?id=43495465) - [Zoom bias: The social costs of having a 'tinny' sound during video conferences](https://phys.org/news/2025-03-bias-social-tinny-video-conferences.html)
 * [2025-03-27, 16:10:48](https://news.ycombinator.com/item?id=43495087) - [People say they prefer stories written by humans over AI, study says otherwise](https://theconversation.com/people-say-they-prefer-stories-written-by-humans-over-ai-generated-works-yet-new-study-suggests-thats-not-quite-true-251347)
