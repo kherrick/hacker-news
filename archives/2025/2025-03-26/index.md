@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-26](index.md)
 
 * [2025-03-26, 23:19:47](https://news.ycombinator.com/item?id=43488637) - [Michael Waltz's Venmo Is Public, and It's Full of Journalists](https://prospect.org/politics/2025-03-26-michael-waltz-venmo-public-full-of-journalists/)
+* [2025-03-26, 23:04:33](https://news.ycombinator.com/item?id=43488490) - [Rost – Rust Programming in German](https://github.com/michidk/rost)
 * [2025-03-26, 20:57:59](https://news.ycombinator.com/item?id=43487231) - [After 50 million miles, Waymos crash a lot less than human drivers](https://www.understandingai.org/p/human-drivers-keep-crashing-into)
 * [2025-03-26, 20:35:46](https://news.ycombinator.com/item?id=43486997) - [Building a Linux Container Runtime from Scratch](https://edera.dev/stories/styrolite)
 * [2025-03-26, 20:31:13](https://news.ycombinator.com/item?id=43486945) - [Oracle customers confirm data stolen in alleged cloud breach is valid](https://www.bleepingcomputer.com/news/security/oracle-customers-confirm-data-stolen-in-alleged-cloud-breach-is-valid/)
