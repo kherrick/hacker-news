@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-27](index.md)
 
+* [2025-03-27, 13:40:55](https://news.ycombinator.com/item?id=43493552) - [Netlify deploys hundreds of thousands of Next.js sites – here's what challenging](https://www.netlify.com/blog/how-we-run-nextjs/)
+* [2025-03-27, 13:18:52](https://news.ycombinator.com/item?id=43493313) - [What went wrong with the Alan Turing Institute?](https://www.chalmermagne.com/p/how-not-to-build-an-ai-institute)
 * [2025-03-27, 13:07:01](https://news.ycombinator.com/item?id=43493207) - [Crawl Order and Disorder](https://www.marginalia.nu/log/a_117_crawl_order/)
 * [2025-03-27, 13:01:31](https://news.ycombinator.com/item?id=43493159) - [A filmmaker and a crooked lawyer shattered Denmark's self-image](https://www.theguardian.com/world/2025/mar/27/black-swan-denmark-documentary-mads-brugger-amira-smajic)
 * [2025-03-27, 12:49:44](https://news.ycombinator.com/item?id=43493056) - [Blasting Past WebP - An analysis of the NSO BLASTPASS iMessage exploit](https://googleprojectzero.blogspot.com/2025/03/blasting-past-webp.html)
