@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-03-27, 16:10:48",
-      "https://news.ycombinator.com/item?id=43495087"
-    ],
-    [
-      "People say they prefer stories written by humans over AI, study says otherwise",
-      "https://theconversation.com/people-say-they-prefer-stories-written-by-humans-over-ai-generated-works-yet-new-study-suggests-thats-not-quite-true-251347"
-    ]
-  ],
-  [
-    [
       "2025-03-27, 15:06:26",
       "https://news.ycombinator.com/item?id=43494427"
     ],
@@ -151,16 +141,6 @@
   ],
   [
     [
-      "2025-03-26, 20:47:03",
-      "https://news.ycombinator.com/item?id=43487128"
-    ],
-    [
-      "Postel's Law and the Three Ring Circus",
-      "https://alexgaynor.net/2025/mar/25/postels-law-and-the-three-ring-circus/"
-    ]
-  ],
-  [
-    [
       "2025-03-26, 20:35:46",
       "https://news.ycombinator.com/item?id=43486997"
     ],
@@ -291,12 +271,32 @@
   ],
   [
     [
-      "2025-03-23, 13:27:46",
-      "https://news.ycombinator.com/item?id=43452793"
+      "2025-03-24, 08:53:23",
+      "https://news.ycombinator.com/item?id=43458738"
     ],
     [
-      "The Synchrony Budget",
-      "https://www.morling.dev/blog/the-synchrony-budget/"
+      "Writing a tiny undo/redo stack in JavaScript",
+      "https://blog.julik.nl/2025/03/a-tiny-undo-stack"
+    ]
+  ],
+  [
+    [
+      "2025-03-23, 18:45:13",
+      "https://news.ycombinator.com/item?id=43454861"
+    ],
+    [
+      "Show HN: Formal Verification for Machine Learning Models Using Lean 4",
+      "https://github.com/fraware/leanverifier"
+    ]
+  ],
+  [
+    [
+      "2025-03-23, 07:31:15",
+      "https://news.ycombinator.com/item?id=43451406"
+    ],
+    [
+      "Gemma3 Function Calling",
+      "https://ai.google.dev/gemma/docs/capabilities/function-calling"
     ]
   ]
 ]
