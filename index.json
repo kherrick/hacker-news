@@ -11,22 +11,22 @@
   ],
   [
     [
+      "2025-03-27, 15:05:00",
+      "https://news.ycombinator.com/item?id=43494405"
+    ],
+    [
+      "Mud, water and wood: The system that kept a 1604-year-old city afloat",
+      "https://www.bbc.com/future/article/20250324-the-ancient-forest-that-supports-venice"
+    ]
+  ],
+  [
+    [
       "2025-03-27, 13:40:55",
       "https://news.ycombinator.com/item?id=43493552"
     ],
     [
       "Netlify deploys hundreds of thousands of Next.js sites – here's what challenging",
       "https://www.netlify.com/blog/how-we-run-nextjs/"
-    ]
-  ],
-  [
-    [
-      "2025-03-27, 13:18:52",
-      "https://news.ycombinator.com/item?id=43493313"
-    ],
-    [
-      "What went wrong with the Alan Turing Institute?",
-      "https://www.chalmermagne.com/p/how-not-to-build-an-ai-institute"
     ]
   ],
   [
@@ -57,6 +57,16 @@
     [
       "Blasting Past WebP - An analysis of the NSO BLASTPASS iMessage exploit",
       "https://googleprojectzero.blogspot.com/2025/03/blasting-past-webp.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-27, 12:31:06",
+      "https://news.ycombinator.com/item?id=43492896"
+    ],
+    [
+      "Show HN: StoffelVM – A WIP VM for Multiparty Computation",
+      "https://github.com/Stoffel-Labs/StoffelVM"
     ]
   ],
   [
@@ -271,22 +281,12 @@
   ],
   [
     [
-      "2025-03-23, 20:58:14",
-      "https://news.ycombinator.com/item?id=43455865"
+      "2025-03-23, 13:27:46",
+      "https://news.ycombinator.com/item?id=43452793"
     ],
     [
-      "Are fantasy games like Dungeons and Dragons a cure for US's loneliness epidemic?",
-      "https://www.businessinsider.com/dungeons-and-dragons-warhammer-fantasy-role-playing-games-events-friends-2025-3"
-    ]
-  ],
-  [
-    [
-      "2025-03-23, 18:45:13",
-      "https://news.ycombinator.com/item?id=43454861"
-    ],
-    [
-      "Show HN: Formal Verification for Machine Learning Models Using Lean 4",
-      "https://github.com/fraware/leanverifier"
+      "The Synchrony Budget",
+      "https://www.morling.dev/blog/the-synchrony-budget/"
     ]
   ],
   [
