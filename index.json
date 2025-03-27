@@ -1,22 +1,32 @@
 [
   [
     [
+      "2025-03-27, 17:01:12",
+      "https://news.ycombinator.com/item?id=43495571"
+    ],
+    [
+      "Replit (YC W18) Is Hiring Engineers to Automate Coding",
+      "https://replit.com/careers"
+    ]
+  ],
+  [
+    [
+      "2025-03-27, 16:49:43",
+      "https://news.ycombinator.com/item?id=43495465"
+    ],
+    [
+      "Zoom bias: The social costs of having a 'tinny' sound during video conferences",
+      "https://phys.org/news/2025-03-bias-social-tinny-video-conferences.html"
+    ]
+  ],
+  [
+    [
       "2025-03-27, 15:06:26",
       "https://news.ycombinator.com/item?id=43494427"
     ],
     [
       "Launch HN: Continue (YC S23) – Create custom AI code assistants",
       "https://hub.continue.dev/explore/assistants"
-    ]
-  ],
-  [
-    [
-      "2025-03-27, 15:05:00",
-      "https://news.ycombinator.com/item?id=43494405"
-    ],
-    [
-      "Mud, water and wood: The system that kept a 1604-year-old city afloat",
-      "https://www.bbc.com/future/article/20250324-the-ancient-forest-that-supports-venice"
     ]
   ],
   [
@@ -37,16 +47,6 @@
     [
       "Thinner Films Conduct Better Than Copper",
       "https://spectrum.ieee.org/thin-film"
-    ]
-  ],
-  [
-    [
-      "2025-03-27, 13:31:02",
-      "https://news.ycombinator.com/item?id=43493444"
-    ],
-    [
-      "A Special Year at the Heinz Nixdorf MuseumsForum",
-      "https://www.computer.org/csdl/magazine/an/2025/01/10927608/2558cmiC7UA"
     ]
   ],
   [
@@ -77,16 +77,6 @@
     [
       "Blasting Past WebP - An analysis of the NSO BLASTPASS iMessage exploit",
       "https://googleprojectzero.blogspot.com/2025/03/blasting-past-webp.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-27, 12:00:10",
-      "https://news.ycombinator.com/item?id=43492680"
-    ],
-    [
-      "Craniometrix (YC W22) Is Hiring",
-      "https://www.ycombinator.com/companies/craniometrix/jobs/ugwcSrU-chief-of-staff"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Show HN: Formal Verification for Machine Learning Models Using Lean 4",
       "https://github.com/fraware/leanverifier"
+    ]
+  ],
+  [
+    [
+      "2025-03-23, 18:09:46",
+      "https://news.ycombinator.com/item?id=43454642"
+    ],
+    [
+      "Ignoring unwanted Terraform attribute changes",
+      "https://blog.mattsbit.co.uk/2025/03/23/ignoring-unwanted-terraform-provider-attribute-changes/"
     ]
   ],
   [
