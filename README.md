@@ -2,10 +2,8 @@
 
 * [2025-03-27, 18:38:21](https://news.ycombinator.com/item?id=43496644) - [AI models miss disease in Black and female patients](https://www.science.org/content/article/ai-models-miss-disease-black-female-patients)
 * [2025-03-27, 18:33:00](https://news.ycombinator.com/item?id=43496577) - [Clean, a formal verification DSL for ZK circuits in Lean4](https://blog.zksecurity.xyz/posts/clean/)
-* [2025-03-27, 18:28:11](https://news.ycombinator.com/item?id=43496517) - [The Japanese Writing System Explained: Hiragana, Katakana and Kanji](https://www.kanjimaster.ai/blog/japanese-writing-system-hiragana-katakana-kanji)
 * [2025-03-27, 18:15:12](https://news.ycombinator.com/item?id=43496355) - [A language for building concurrent software with confidence](https://github.com/inko-lang/inko)
 * [2025-03-27, 18:07:41](https://news.ycombinator.com/item?id=43496244) - [Parameter-Free KV Cache Compression for Memory-Efficient Long-Context LLMs](https://arxiv.org/abs/2503.10714)
-* [2025-03-27, 18:01:33](https://news.ycombinator.com/item?id=43496181) - [B-2 Spirit Stealth Bombers Begin Unannounced Deployment to Diego Garcia](https://theaviationist.com/2025/03/26/b-2-unannounced-deployment-diego-garcia/)
 * [2025-03-27, 17:45:30](https://news.ycombinator.com/item?id=43495997) - [California bill aims to phase out harmful ultra-processed foods in schools](https://www.thenewlede.org/2025/03/california-bill-aims-to-phase-out-harmful-ultra-processed-foods-in-schools/)
 * [2025-03-27, 17:23:35](https://news.ycombinator.com/item?id=43495785) - [Philosophy of Coroutines (2023)](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/coroutines-philosophy/)
 * [2025-03-27, 17:10:58](https://news.ycombinator.com/item?id=43495665) - [Alkanes on Mars](https://www.science.org/content/blog-post/alkanes-mars)
@@ -14,6 +12,7 @@
 * [2025-03-27, 17:01:12](https://news.ycombinator.com/item?id=43495571) - [Replit (YC W18) Is Hiring Engineers to Automate Coding](https://replit.com/careers)
 * [2025-03-27, 15:06:26](https://news.ycombinator.com/item?id=43494427) - [Launch HN: Continue (YC S23) – Create custom AI code assistants](https://hub.continue.dev/explore/assistants)
 * [2025-03-27, 13:59:17](https://news.ycombinator.com/item?id=43493749) - [Thinner Films Conduct Better Than Copper](https://spectrum.ieee.org/thin-film)
+* [2025-03-27, 13:51:44](https://news.ycombinator.com/item?id=43493665) - [Building a modern durable execution engine from first principles](https://restate.dev/blog/building-a-modern-durable-execution-engine-from-first-principles/)
 * [2025-03-27, 13:18:52](https://news.ycombinator.com/item?id=43493313) - [What went wrong with the Alan Turing Institute?](https://www.chalmermagne.com/p/how-not-to-build-an-ai-institute)
 * [2025-03-27, 13:07:01](https://news.ycombinator.com/item?id=43493207) - [Crawl Order and Disorder](https://www.marginalia.nu/log/a_117_crawl_order/)
 * [2025-03-27, 13:01:31](https://news.ycombinator.com/item?id=43493159) - [A filmmaker and a crooked lawyer shattered Denmark's self-image](https://www.theguardian.com/world/2025/mar/27/black-swan-denmark-documentary-mads-brugger-amira-smajic)
@@ -29,6 +28,7 @@
 * [2025-03-24, 18:07:04](https://news.ycombinator.com/item?id=43463779) - [First-of-its-kind trial enables paralysed man to stand via stem cell injection](https://www.nature.com/articles/d41586-025-00863-0?linkId=13622861)
 * [2025-03-24, 14:37:46](https://news.ycombinator.com/item?id=43461618) - [War story: the hardest bug I ever debugged](https://www.clientserver.dev/p/war-story-the-hardest-bug-i-ever)
 * [2025-03-24, 13:47:02](https://news.ycombinator.com/item?id=43461022) - [Show HN: A difficult game to test your logic](https://rvlabs.ca/jumping-frogs)
+* [2025-03-24, 00:27:38](https://news.ycombinator.com/item?id=43456936) - [Using Gorilla glass for home building](https://www.wsj.com/business/corning-window-gorilla-glass-4f443b07)
 * [2025-03-23, 18:09:46](https://news.ycombinator.com/item?id=43454642) - [Ignoring unwanted Terraform attribute changes](https://blog.mattsbit.co.uk/2025/03/23/ignoring-unwanted-terraform-provider-attribute-changes/)
 
 ## [Archives](archives/index.md)
