@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-03-27, 07:02:22",
-      "https://news.ycombinator.com/item?id=43491060"
+      "2025-03-27, 12:00:10",
+      "https://news.ycombinator.com/item?id=43492680"
     ],
     [
-      "Supabase (YC S20) Is Hiring a Senior Auth Engineer (Remote)",
-      "https://jobs.ashbyhq.com/supabase/a2ede2c7-3792-4bfd-951d-686267b2b9a8"
+      "Craniometrix (YC W22) Is Hiring",
+      "https://www.ycombinator.com/companies/craniometrix/jobs/ugwcSrU-chief-of-staff"
+    ]
+  ],
+  [
+    [
+      "2025-03-27, 11:55:19",
+      "https://news.ycombinator.com/item?id=43492652"
+    ],
+    [
+      "Source code art in the Rivulet language",
+      "https://github.com/rottytooth/Rivulet"
+    ]
+  ],
+  [
+    [
+      "2025-03-27, 11:41:30",
+      "https://news.ycombinator.com/item?id=43492562"
+    ],
+    [
+      "Piranesi's Perspective Trick (2019)",
+      "https://medium.com/@brunopostle/piranesis-perspective-trick-6bcd7a754da9"
     ]
   ],
   [
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2025-03-26, 20:31:13",
-      "https://news.ycombinator.com/item?id=43486945"
-    ],
-    [
-      "Oracle customers confirm data stolen in alleged cloud breach is valid",
-      "https://www.bleepingcomputer.com/news/security/oracle-customers-confirm-data-stolen-in-alleged-cloud-breach-is-valid/"
-    ]
-  ],
-  [
-    [
       "2025-03-26, 20:08:32",
       "https://news.ycombinator.com/item?id=43486647"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2025-03-26, 13:21:51",
-      "https://news.ycombinator.com/item?id=43482005"
-    ],
-    [
-      "The long-awaited Friend Compound laws in California",
-      "https://supernuclear.substack.com/p/the-long-awaited-friend-compound"
-    ]
-  ],
-  [
-    [
       "2025-03-26, 11:24:12",
       "https://news.ycombinator.com/item?id=43480964"
     ],
@@ -207,6 +207,16 @@
     [
       "AI Reveals Secrets of Dendritic Growth in Thin Films",
       "https://www.tus.ac.jp/en/mediarelations/archive/20250320_5263.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-24, 15:07:37",
+      "https://news.ycombinator.com/item?id=43461944"
+    ],
+    [
+      "Why Anthropic's Claude still hasn't beaten Pokémon",
+      "https://arstechnica.com/ai/2025/03/why-anthropics-claude-still-hasnt-beaten-pokemon/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Gemma3 Function Calling",
       "https://ai.google.dev/gemma/docs/capabilities/function-calling"
-    ]
-  ],
-  [
-    [
-      "2025-03-22, 23:46:36",
-      "https://news.ycombinator.com/item?id=43449645"
-    ],
-    [
-      "'Naive' science fan faces jail for plutonium import",
-      "https://au.news.yahoo.com/naive-science-fan-faces-jail-053025281.html"
     ]
   ]
 ]
