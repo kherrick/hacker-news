@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-27, 10:49:55](https://news.ycombinator.com/item?id=43492211) - [Modern C](https://gustedt.gitlabpages.inria.fr/modern-c/)
-* [2025-03-27, 10:35:11](https://news.ycombinator.com/item?id=43492112) - [Why I'm Boycotting AI](https://unherd.com/2025/03/why-im-boycotting-ai/)
 * [2025-03-27, 07:02:22](https://news.ycombinator.com/item?id=43491060) - [Supabase (YC S20) Is Hiring a Senior Auth Engineer (Remote)](https://jobs.ashbyhq.com/supabase/a2ede2c7-3792-4bfd-951d-686267b2b9a8)
 * [2025-03-27, 03:37:55](https://news.ycombinator.com/item?id=43490173) - [They Might Be Giants Flood EPK Promo (1990) [video]](https://www.youtube.com/watch?v=C-tQSFQ-ESY)
 * [2025-03-27, 03:36:40](https://news.ycombinator.com/item?id=43490167) - [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)
@@ -29,6 +28,7 @@
 * [2025-03-24, 08:53:23](https://news.ycombinator.com/item?id=43458738) - [Writing a tiny undo/redo stack in JavaScript](https://blog.julik.nl/2025/03/a-tiny-undo-stack)
 * [2025-03-23, 20:36:51](https://news.ycombinator.com/item?id=43455698) - [Exploring Dynamic Dispatch in Rust](https://alschwalm.com/blog/static/2017/03/07/exploring-dynamic-dispatch-in-rust/)
 * [2025-03-23, 18:45:13](https://news.ycombinator.com/item?id=43454861) - [Show HN: Formal Verification for Machine Learning Models Using Lean 4](https://github.com/fraware/leanverifier)
+* [2025-03-23, 14:01:49](https://news.ycombinator.com/item?id=43452990) - [NotaGen: Symbolic Music Generation](https://electricalexis.github.io/notagen-demo/)
 * [2025-03-23, 07:31:15](https://news.ycombinator.com/item?id=43451406) - [Gemma3 Function Calling](https://ai.google.dev/gemma/docs/capabilities/function-calling)
 
 ## [Archives](archives/index.md)
