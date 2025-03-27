@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-27](index.md)
 
+* [2025-03-27, 22:39:51](https://news.ycombinator.com/item?id=43499045) - [Most promoted and blocked domains on Kagi](https://kagi.com/stats?stat=leaderboard)
 * [2025-03-27, 22:32:45](https://news.ycombinator.com/item?id=43498984) - [Apple Needs a Snow Sequoia](https://reviews.ofb.biz/safari/article/1300.html)
 * [2025-03-27, 22:14:39](https://news.ycombinator.com/item?id=43498807) - [Anthropic Economic Index: Insights from Claude 3.7 Sonnet](https://www.anthropic.com/news/anthropic-economic-index-insights-from-claude-sonnet-3-7)
 * [2025-03-27, 22:03:03](https://news.ycombinator.com/item?id=43498696) - [Emacs Solo: A Surprise System Crafters Live Demo](https://www.rahuljuliato.com/posts/emacs-solo-demo)
