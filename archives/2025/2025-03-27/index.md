@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-27](index.md)
 
+* [2025-03-27, 17:01:12](https://news.ycombinator.com/item?id=43495571) - [Replit (YC W18) Is Hiring Engineers to Automate Coding](https://replit.com/careers)
+* [2025-03-27, 16:49:43](https://news.ycombinator.com/item?id=43495465) - [Zoom bias: The social costs of having a 'tinny' sound during video conferences](https://phys.org/news/2025-03-bias-social-tinny-video-conferences.html)
 * [2025-03-27, 16:10:48](https://news.ycombinator.com/item?id=43495087) - [People say they prefer stories written by humans over AI, study says otherwise](https://theconversation.com/people-say-they-prefer-stories-written-by-humans-over-ai-generated-works-yet-new-study-suggests-thats-not-quite-true-251347)
 * [2025-03-27, 15:06:26](https://news.ycombinator.com/item?id=43494427) - [Launch HN: Continue (YC S23) – Create custom AI code assistants](https://hub.continue.dev/explore/assistants)
 * [2025-03-27, 15:05:00](https://news.ycombinator.com/item?id=43494405) - [Mud, water and wood: The system that kept a 1604-year-old city afloat](https://www.bbc.com/future/article/20250324-the-ancient-forest-that-supports-venice)

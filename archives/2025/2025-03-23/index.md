@@ -18,6 +18,7 @@
 * [2025-03-23, 18:37:25](https://news.ycombinator.com/item?id=43454816) - [The Software Engineering Identity Crisis](https://annievella.com/posts/the-software-engineering-identity-crisis/)
 * [2025-03-23, 18:31:46](https://news.ycombinator.com/item?id=43454785) - [Play the Virtual Organ from Arp Schnitger](https://www.orgelstadt-hamburg.de/play-arp/)
 * [2025-03-23, 18:16:00](https://news.ycombinator.com/item?id=43454690) - [Show HN: Cocommit – A copilot for git commit](https://github.com/andrewromanenco/cocommit)
+* [2025-03-23, 18:09:46](https://news.ycombinator.com/item?id=43454642) - [Ignoring unwanted Terraform attribute changes](https://blog.mattsbit.co.uk/2025/03/23/ignoring-unwanted-terraform-provider-attribute-changes/)
 * [2025-03-23, 17:40:01](https://news.ycombinator.com/item?id=43454435) - [Apparent signs of distress during LLM redteaming](https://www.lesswrong.com/posts/MnYnCFgT3hF6LJPwn/why-white-box-redteaming-makes-me-feel-weird-1)
 * [2025-03-23, 17:36:42](https://news.ycombinator.com/item?id=43454411) - [The Scammer's Manual: How to Launder Money and Get Away with It](https://www.nytimes.com/2025/03/23/world/asia/cambodia-money-laundering-huione.html)
 * [2025-03-23, 17:31:54](https://news.ycombinator.com/item?id=43454383) - [Germany is unlocking billions to supercharge its military at a seismic moment](https://www.cnn.com/2025/03/23/europe/germany-military-investment-intl/index.html)
