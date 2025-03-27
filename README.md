@@ -19,7 +19,7 @@
 * [2025-03-26, 11:24:12](https://news.ycombinator.com/item?id=43480964) - [The role of developer skills in agentic coding](https://martinfowler.com/articles/exploring-gen-ai.html#memo-13)
 * [2025-03-25, 18:47:37](https://news.ycombinator.com/item?id=43474490) - [MCP server for Ghidra](https://github.com/LaurieWired/GhidraMCP)
 * [2025-03-25, 17:02:33](https://news.ycombinator.com/item?id=43473495) - [Has the decline of knowledge work begun?](https://www.nytimes.com/2025/03/25/business/economy/white-collar-layoffs.html)
-* [2025-03-25, 07:23:36](https://news.ycombinator.com/item?id=43468765) - [Ungovernable, Capricious Life](https://www.nybooks.com/articles/2025/04/10/ungovernable-capricious-life-shattered-hanif-kureishi/)
+* [2025-03-25, 13:22:33](https://news.ycombinator.com/item?id=43470911) - [The loneliest people (and places) in America](https://www.washingtonpost.com/business/2025/03/21/loneliness-epidemic-young-adults/)
 * [2025-03-25, 00:21:08](https://news.ycombinator.com/item?id=43466850) - [The social media communication of Andalusian interest groups](https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2025.1534093/full)
 * [2025-03-24, 17:47:08](https://news.ycombinator.com/item?id=43463579) - [AI Reveals Secrets of Dendritic Growth in Thin Films](https://www.tus.ac.jp/en/mediarelations/archive/20250320_5263.html)
 * [2025-03-24, 15:58:04](https://news.ycombinator.com/item?id=43462510) - [Unveiling the mysterious 'red sprite' lightning strikes over the Himalayas](https://phys.org/news/2025-03-unveiling-mysterious-red-sprite-lightning.html)
