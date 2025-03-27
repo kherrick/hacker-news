@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-27](index.md)
 
+* [2025-03-27, 20:34:04](https://news.ycombinator.com/item?id=43497848) - [The Leader of the LeetCode Rebellion: An Interview with Roy Lee](https://thepennpost.com/2025/03/25/nicolas-casey-the-leader-of-the-leetcode-rebellion-an-interview-with-roy-lee/)
 * [2025-03-27, 20:27:55](https://news.ycombinator.com/item?id=43497792) - [Show HN: Dish: A lightweight HTTP and TCP socket monitoring tool written in Go](https://github.com/thevxn/dish)
 * [2025-03-27, 20:19:38](https://news.ycombinator.com/item?id=43497719) - [How to Use Em Dashes (–), En Dashes (–), and Hyphens (-)](https://www.merriam-webster.com/grammar/em-dash-en-dash-how-to-use)
 * [2025-03-27, 19:49:59](https://news.ycombinator.com/item?id=43497398) - [HDMI Musings: YCbCr color subsampling, Dolby Vision MEL/FEL, and and5V injection](http://archimago.blogspot.com/2025/03/hdmi-musings-high-speed-cables-data.html)
