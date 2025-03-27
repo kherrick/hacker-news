@@ -41,6 +41,7 @@
 * [2025-03-24, 14:45:34](https://news.ycombinator.com/item?id=43461701) - [Triforce – a beamformer for Apple Silicon laptops](https://crates.io/crates/triforce-lv2)
 * [2025-03-24, 14:37:46](https://news.ycombinator.com/item?id=43461618) - [War story: the hardest bug I ever debugged](https://www.clientserver.dev/p/war-story-the-hardest-bug-i-ever)
 * [2025-03-24, 14:15:17](https://news.ycombinator.com/item?id=43461375) - [Goblin.tools: simple, single-task tools to help neurodivergent people with tasks](https://goblin.tools/)
+* [2025-03-24, 13:07:38](https://news.ycombinator.com/item?id=43460636) - [Scientists Discover New Heavy-Metal Molecule 'Berkelocene'](https://newscenter.lbl.gov/2025/03/11/scientists-discover-new-heavy-metal-molecule-berkelocene/)
 * [2025-03-24, 13:01:11](https://news.ycombinator.com/item?id=43460583) - [Instella: New Open 3B Language Models](https://rocm.blogs.amd.com/artificial-intelligence/introducing-instella-3B/README.html)
 * [2025-03-24, 12:06:16](https://news.ycombinator.com/item?id=43459990) - [The Tranhumanist Cult Test](https://ewanmorrison.substack.com/p/the-tranhumanist-cult-test)
 * [2025-03-24, 11:04:27](https://news.ycombinator.com/item?id=43459535) - [Why we chose LangGraph to build our coding agent](https://www.qodo.ai/blog/why-we-chose-langgraph-to-build-our-coding-agent/)
