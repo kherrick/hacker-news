@@ -87,3 +87,4 @@
 * [2025-03-25, 01:44:48](https://news.ycombinator.com/item?id=43467331) - [RCE Vulnerabilities in K8s Ingress Nginx (9.8 CVE for ingress-Nginx)](https://www.wiz.io/blog/ingress-nginx-kubernetes-vulnerabilities)
 * [2025-03-25, 00:53:27](https://news.ycombinator.com/item?id=43467035) - [Open Source Mythology](https://lgug2z.com/articles/on-open-source-mythology/)
 * [2025-03-25, 00:45:01](https://news.ycombinator.com/item?id=43466983) - [Jeffrey Goldberg on being added to the group chat by Trump Administration](https://www.theatlantic.com/newsletters/archive/2025/03/jeffrey-goldberg-group-chat-military-houthi-yemen/682160/)
+* [2025-03-25, 00:21:08](https://news.ycombinator.com/item?id=43466850) - [The social media communication of Andalusian interest groups](https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2025.1534093/full)
