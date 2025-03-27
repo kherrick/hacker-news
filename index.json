@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-03-27, 18:38:21",
+      "https://news.ycombinator.com/item?id=43496644"
+    ],
+    [
+      "AI models miss disease in Black and female patients",
+      "https://www.science.org/content/article/ai-models-miss-disease-black-female-patients"
+    ]
+  ],
+  [
+    [
+      "2025-03-27, 18:33:00",
+      "https://news.ycombinator.com/item?id=43496577"
+    ],
+    [
+      "Clean, a formal verification DSL for ZK circuits in Lean4",
+      "https://blog.zksecurity.xyz/posts/clean/"
+    ]
+  ],
+  [
+    [
+      "2025-03-27, 18:28:11",
+      "https://news.ycombinator.com/item?id=43496517"
+    ],
+    [
+      "The Japanese Writing System Explained: Hiragana, Katakana and Kanji",
+      "https://www.kanjimaster.ai/blog/japanese-writing-system-hiragana-katakana-kanji"
+    ]
+  ],
+  [
+    [
+      "2025-03-27, 18:15:12",
+      "https://news.ycombinator.com/item?id=43496355"
+    ],
+    [
+      "A language for building concurrent software with confidence",
+      "https://github.com/inko-lang/inko"
+    ]
+  ],
+  [
+    [
       "2025-03-27, 18:07:41",
       "https://news.ycombinator.com/item?id=43496244"
     ],
@@ -101,16 +141,6 @@
   ],
   [
     [
-      "2025-03-27, 13:51:44",
-      "https://news.ycombinator.com/item?id=43493665"
-    ],
-    [
-      "Building a modern durable execution engine from first principles",
-      "https://restate.dev/blog/building-a-modern-durable-execution-engine-from-first-principles/"
-    ]
-  ],
-  [
-    [
       "2025-03-27, 13:18:52",
       "https://news.ycombinator.com/item?id=43493313"
     ],
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2025-03-26, 20:35:46",
-      "https://news.ycombinator.com/item?id=43486997"
-    ],
-    [
-      "Building a Linux Container Runtime from Scratch",
-      "https://edera.dev/stories/styrolite"
-    ]
-  ],
-  [
-    [
       "2025-03-26, 20:26:13",
       "https://news.ycombinator.com/item?id=43486881"
     ],
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2025-03-26, 16:02:56",
-      "https://news.ycombinator.com/item?id=43483660"
-    ],
-    [
-      "Botswana launches first satellite BOTSAT-1 aboard SpaceX Falcon 9",
-      "https://spaceinafrica.com/2025/03/15/botswana-successfully-launches-first-satellite-botsat-1/"
-    ]
-  ],
-  [
-    [
       "2025-03-24, 18:07:04",
       "https://news.ycombinator.com/item?id=43463779"
     ],
@@ -277,16 +287,6 @@
     [
       "Show HN: A difficult game to test your logic",
       "https://rvlabs.ca/jumping-frogs"
-    ]
-  ],
-  [
-    [
-      "2025-03-24, 13:07:38",
-      "https://news.ycombinator.com/item?id=43460636"
-    ],
-    [
-      "Scientists Discover New Heavy-Metal Molecule 'Berkelocene'",
-      "https://newscenter.lbl.gov/2025/03/11/scientists-discover-new-heavy-metal-molecule-berkelocene/"
     ]
   ],
   [
