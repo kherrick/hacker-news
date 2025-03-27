@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-27, 15:06:26](https://news.ycombinator.com/item?id=43494427) - [Launch HN: Continue (YC S23) – Create custom AI code assistants](https://hub.continue.dev/explore/assistants)
+* [2025-03-27, 15:05:00](https://news.ycombinator.com/item?id=43494405) - [Mud, water and wood: The system that kept a 1604-year-old city afloat](https://www.bbc.com/future/article/20250324-the-ancient-forest-that-supports-venice)
 * [2025-03-27, 13:40:55](https://news.ycombinator.com/item?id=43493552) - [Netlify deploys hundreds of thousands of Next.js sites – here's what challenging](https://www.netlify.com/blog/how-we-run-nextjs/)
-* [2025-03-27, 13:18:52](https://news.ycombinator.com/item?id=43493313) - [What went wrong with the Alan Turing Institute?](https://www.chalmermagne.com/p/how-not-to-build-an-ai-institute)
 * [2025-03-27, 13:07:01](https://news.ycombinator.com/item?id=43493207) - [Crawl Order and Disorder](https://www.marginalia.nu/log/a_117_crawl_order/)
 * [2025-03-27, 13:01:31](https://news.ycombinator.com/item?id=43493159) - [A filmmaker and a crooked lawyer shattered Denmark's self-image](https://www.theguardian.com/world/2025/mar/27/black-swan-denmark-documentary-mads-brugger-amira-smajic)
 * [2025-03-27, 12:49:44](https://news.ycombinator.com/item?id=43493056) - [Blasting Past WebP - An analysis of the NSO BLASTPASS iMessage exploit](https://googleprojectzero.blogspot.com/2025/03/blasting-past-webp.html)
+* [2025-03-27, 12:31:06](https://news.ycombinator.com/item?id=43492896) - [Show HN: StoffelVM – A WIP VM for Multiparty Computation](https://github.com/Stoffel-Labs/StoffelVM)
 * [2025-03-27, 12:00:10](https://news.ycombinator.com/item?id=43492680) - [Craniometrix (YC W22) Is Hiring](https://www.ycombinator.com/companies/craniometrix/jobs/ugwcSrU-chief-of-staff)
 * [2025-03-27, 11:55:19](https://news.ycombinator.com/item?id=43492652) - [Source code art in the Rivulet language](https://github.com/rottytooth/Rivulet)
 * [2025-03-27, 11:41:30](https://news.ycombinator.com/item?id=43492562) - [Piranesi's Perspective Trick (2019)](https://medium.com/@brunopostle/piranesis-perspective-trick-6bcd7a754da9)
@@ -27,8 +28,7 @@
 * [2025-03-24, 14:37:46](https://news.ycombinator.com/item?id=43461618) - [War story: the hardest bug I ever debugged](https://www.clientserver.dev/p/war-story-the-hardest-bug-i-ever)
 * [2025-03-24, 13:07:38](https://news.ycombinator.com/item?id=43460636) - [Scientists Discover New Heavy-Metal Molecule 'Berkelocene'](https://newscenter.lbl.gov/2025/03/11/scientists-discover-new-heavy-metal-molecule-berkelocene/)
 * [2025-03-24, 08:53:23](https://news.ycombinator.com/item?id=43458738) - [Writing a tiny undo/redo stack in JavaScript](https://blog.julik.nl/2025/03/a-tiny-undo-stack)
-* [2025-03-23, 20:58:14](https://news.ycombinator.com/item?id=43455865) - [Are fantasy games like Dungeons and Dragons a cure for US's loneliness epidemic?](https://www.businessinsider.com/dungeons-and-dragons-warhammer-fantasy-role-playing-games-events-friends-2025-3)
-* [2025-03-23, 18:45:13](https://news.ycombinator.com/item?id=43454861) - [Show HN: Formal Verification for Machine Learning Models Using Lean 4](https://github.com/fraware/leanverifier)
+* [2025-03-23, 13:27:46](https://news.ycombinator.com/item?id=43452793) - [The Synchrony Budget](https://www.morling.dev/blog/the-synchrony-budget/)
 * [2025-03-23, 07:31:15](https://news.ycombinator.com/item?id=43451406) - [Gemma3 Function Calling](https://ai.google.dev/gemma/docs/capabilities/function-calling)
 
 ## [Archives](archives/index.md)
