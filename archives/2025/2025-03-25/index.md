@@ -56,6 +56,7 @@
 * [2025-03-25, 12:59:26](https://news.ycombinator.com/item?id=43470651) - [VGGT: Visual Geometry Grounded Transformer](https://github.com/facebookresearch/vggt)
 * [2025-03-25, 12:54:59](https://news.ycombinator.com/item?id=43470613) - [X's head of engineering is out](https://www.theverge.com/twitter/634833/x-head-engineering-leaves-elon-musk)
 * [2025-03-25, 12:10:22](https://news.ycombinator.com/item?id=43470269) - [Deregulation in Argentina: Milei Takes \"Deep Chainsaw\" to Bureaucracy](https://www.cato.org/free-society/spring-2025/deregulation-argentina-milei-takes-deep-chainsaw-bureaucracy-red-tape)
+* [2025-03-25, 12:02:45](https://news.ycombinator.com/item?id=43470206) - [Better Shell History Search](https://tratt.net/laurie/blog/2025/better_shell_history_search.html)
 * [2025-03-25, 11:57:11](https://news.ycombinator.com/item?id=43470162) - [Hann: A Fast Approximate Nearest Neighbor Search Library for Go](https://github.com/habedi/hann)
 * [2025-03-25, 11:41:18](https://news.ycombinator.com/item?id=43470066) - ['A walking billboard': The history of San Francisco's most recognizable bag](https://www.sfgate.com/sf-culture/article/history-san-franciscos-most-recognizable-bag-20228921.php)
 * [2025-03-25, 11:37:54](https://news.ycombinator.com/item?id=43470039) - [Don't Buy into Apple's Hype About AirPods Max Gaining Lossless Audio](https://www.macrumors.com/2025/03/24/airpods-max-lossless-audio-overhyped/)

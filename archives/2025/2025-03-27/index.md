@@ -6,6 +6,7 @@
 
 * [2025-03-27, 22:32:45](https://news.ycombinator.com/item?id=43498984) - [Apple Needs a Snow Sequoia](https://reviews.ofb.biz/safari/article/1300.html)
 * [2025-03-27, 22:14:39](https://news.ycombinator.com/item?id=43498807) - [Anthropic Economic Index: Insights from Claude 3.7 Sonnet](https://www.anthropic.com/news/anthropic-economic-index-insights-from-claude-sonnet-3-7)
+* [2025-03-27, 22:03:03](https://news.ycombinator.com/item?id=43498696) - [Emacs Solo: A Surprise System Crafters Live Demo](https://www.rahuljuliato.com/posts/emacs-solo-demo)
 * [2025-03-27, 21:48:23](https://news.ycombinator.com/item?id=43498570) - [Asking Good Questions Is Harder Than Giving Great Answers](https://newsletter.dancohen.org/archive/asking-good-questions-is-harder-than-giving-great-answers/)
 * [2025-03-27, 21:22:42](https://news.ycombinator.com/item?id=43498338) - [I genuinely don't understand why some people are still bullish about LLMs](https://twitter.com/skdh/status/1905132853672784121)
 * [2025-03-27, 21:09:28](https://news.ycombinator.com/item?id=43498213) - [Take this on-call rotation and shove it](https://www.scottsmitelli.com/articles/take-oncall-and-shove-it/)
