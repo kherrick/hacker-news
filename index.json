@@ -11,22 +11,32 @@
   ],
   [
     [
-      "2025-03-27, 00:31:47",
-      "https://news.ycombinator.com/item?id=43489136"
+      "2025-03-27, 00:47:19",
+      "https://news.ycombinator.com/item?id=43489237"
     ],
     [
-      "The Mysterious Flow of Fluid in the Brain",
-      "https://www.quantamagazine.org/the-mysterious-flow-of-fluid-in-the-brain-20250326/"
+      "Europen Union creates Fedora-based Linux distribution for the public sector",
+      "https://www.linuxjournal.com/content/eu-os-bold-step-toward-digital-sovereignty-europe"
     ]
   ],
   [
     [
-      "2025-03-27, 00:29:04",
-      "https://news.ycombinator.com/item?id=43489118"
+      "2025-03-27, 00:40:08",
+      "https://news.ycombinator.com/item?id=43489190"
     ],
     [
-      "Study casts doubt on gluten as cause of gut ailments among non-coeliacs",
-      "https://www.theguardian.com/australia-news/2025/mar/27/gluten-intolerant-intolerance-non-coeliac-disease"
+      "Cilium eBPF-Go on Windows",
+      "https://ebpf-go.dev/contributing/windows/"
+    ]
+  ],
+  [
+    [
+      "2025-03-27, 00:31:47",
+      "https://news.ycombinator.com/item?id=43489136"
+    ],
+    [
+      "The mysterious flow of fluid in the brain",
+      "https://www.quantamagazine.org/the-mysterious-flow-of-fluid-in-the-brain-20250326/"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "Problems with the heap",
       "https://rachelbythebay.com/w/2025/03/26/atop/"
-    ]
-  ],
-  [
-    [
-      "2025-03-26, 19:07:39",
-      "https://news.ycombinator.com/item?id=43485740"
-    ],
-    [
-      "Playwright Tools for MCP",
-      "https://github.com/microsoft/playwright-mcp"
     ]
   ],
   [
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2025-03-26, 16:15:31",
-      "https://news.ycombinator.com/item?id=43483802"
-    ],
-    [
-      "Kilo Code: Speedrunning open source coding AI",
-      "https://blog.kilocode.ai/p/kilo-code-speedrunning-open-source-coding-ai"
-    ]
-  ],
-  [
-    [
       "2025-03-26, 16:02:56",
       "https://news.ycombinator.com/item?id=43483660"
     ],
@@ -227,6 +217,16 @@
     [
       "Has the decline of knowledge work begun?",
       "https://www.nytimes.com/2025/03/25/business/economy/white-collar-layoffs.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-24, 14:37:46",
+      "https://news.ycombinator.com/item?id=43461618"
+    ],
+    [
+      "War story: the hardest bug I ever debugged",
+      "https://www.clientserver.dev/p/war-story-the-hardest-bug-i-ever"
     ]
   ],
   [
