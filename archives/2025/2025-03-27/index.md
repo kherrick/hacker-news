@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-27](index.md)
 
+* [2025-03-27, 19:15:22](https://news.ycombinator.com/item?id=43497033) - [NASA Deletes Comic Book About How Women Can Be Astronauts](https://futurism.com/nasa-deletes-comic-women-astronauts)
 * [2025-03-27, 19:04:20](https://news.ycombinator.com/item?id=43496922) - [White House to DOGE employees: Preserve your Signal records](https://www.politico.com/news/2025/03/27/white-house-doge-signal-records-00254122)
 * [2025-03-27, 18:38:21](https://news.ycombinator.com/item?id=43496644) - [AI models miss disease in Black and female patients](https://www.science.org/content/article/ai-models-miss-disease-black-female-patients)
 * [2025-03-27, 18:33:00](https://news.ycombinator.com/item?id=43496577) - [Clean, a formal verification DSL for ZK circuits in Lean4](https://blog.zksecurity.xyz/posts/clean/)
@@ -12,6 +13,7 @@
 * [2025-03-27, 18:07:41](https://news.ycombinator.com/item?id=43496244) - [Parameter-Free KV Cache Compression for Memory-Efficient Long-Context LLMs](https://arxiv.org/abs/2503.10714)
 * [2025-03-27, 18:01:33](https://news.ycombinator.com/item?id=43496181) - [B-2 Spirit Stealth Bombers Begin Unannounced Deployment to Diego Garcia](https://theaviationist.com/2025/03/26/b-2-unannounced-deployment-diego-garcia/)
 * [2025-03-27, 17:45:30](https://news.ycombinator.com/item?id=43495997) - [California bill aims to phase out harmful ultra-processed foods in schools](https://www.thenewlede.org/2025/03/california-bill-aims-to-phase-out-harmful-ultra-processed-foods-in-schools/)
+* [2025-03-27, 17:27:31](https://news.ycombinator.com/item?id=43495811) - [Show HN: Xorq – open-source Python-first Pandas-style pipelines](https://github.com/xorq-labs/xorq)
 * [2025-03-27, 17:23:35](https://news.ycombinator.com/item?id=43495785) - [Philosophy of Coroutines (2023)](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/coroutines-philosophy/)
 * [2025-03-27, 17:13:12](https://news.ycombinator.com/item?id=43495685) - [Over 2000 protest in wake of student detainment](https://www.tuftsdaily.com/article/2025/03/over-2000-protest-in-wake-of-student-detainment)
 * [2025-03-27, 17:10:58](https://news.ycombinator.com/item?id=43495665) - [Alkanes on Mars](https://www.science.org/content/blog-post/alkanes-mars)
