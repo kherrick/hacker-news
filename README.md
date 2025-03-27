@@ -5,7 +5,6 @@
 * [2025-03-27, 21:00:29](https://news.ycombinator.com/item?id=43498109) - [Revyl (YC F24) Is Hiring a Front End Engineer Intern](https://www.ycombinator.com/companies/revyl/jobs/5rbIJLP-frontend-engineer-intern)
 * [2025-03-27, 20:51:42](https://news.ycombinator.com/item?id=43498031) - [We are building the next DocuSign](https://sgnly.com)
 * [2025-03-27, 20:45:13](https://news.ycombinator.com/item?id=43497954) - [Learning Theory from First Principles [pdf]](https://www.di.ens.fr/~fbach/ltfp_book.pdf)
-* [2025-03-27, 20:34:04](https://news.ycombinator.com/item?id=43497848) - [The Leader of the LeetCode Rebellion: An Interview with Roy Lee](https://thepennpost.com/2025/03/25/nicolas-casey-the-leader-of-the-leetcode-rebellion-an-interview-with-roy-lee/)
 * [2025-03-27, 20:27:55](https://news.ycombinator.com/item?id=43497792) - [Show HN: Dish: A lightweight HTTP and TCP socket monitoring tool written in Go](https://github.com/thevxn/dish)
 * [2025-03-27, 20:19:38](https://news.ycombinator.com/item?id=43497719) - [How to Use Em Dashes (–), En Dashes (–), and Hyphens (-)](https://www.merriam-webster.com/grammar/em-dash-en-dash-how-to-use)
 * [2025-03-27, 19:49:59](https://news.ycombinator.com/item?id=43497398) - [HDMI Musings: YCbCr color subsampling, Dolby Vision MEL/FEL, and and5V injection](http://archimago.blogspot.com/2025/03/hdmi-musings-high-speed-cables-data.html)
@@ -26,8 +25,9 @@
 * [2025-03-27, 11:41:30](https://news.ycombinator.com/item?id=43492562) - [Piranesi's Perspective Trick (2019)](https://medium.com/@brunopostle/piranesis-perspective-trick-6bcd7a754da9)
 * [2025-03-27, 03:37:55](https://news.ycombinator.com/item?id=43490173) - [They Might Be Giants Flood EPK Promo (1990) [video]](https://www.youtube.com/watch?v=C-tQSFQ-ESY)
 * [2025-03-26, 20:26:13](https://news.ycombinator.com/item?id=43486881) - [Dagger: A shell for the container age](https://dagger.io/blog/dagger-shell)
+* [2025-03-25, 13:37:39](https://news.ycombinator.com/item?id=43471135) - [A UI might not make it easier](https://jeremymikkola.com/posts/2025_02_22_might_not_want_self_serve_ui.html)
+* [2025-03-24, 23:07:14](https://news.ycombinator.com/item?id=43466355) - [How I pwned a major New Zealand service provider](https://mrbruh.com/majorprovider/)
 * [2025-03-24, 18:07:04](https://news.ycombinator.com/item?id=43463779) - [First-of-its-kind trial enables paralysed man to stand via stem cell injection](https://www.nature.com/articles/d41586-025-00863-0?linkId=13622861)
-* [2025-03-24, 13:47:02](https://news.ycombinator.com/item?id=43461022) - [Show HN: A difficult game to test your logic](https://rvlabs.ca/jumping-frogs)
 * [2025-03-24, 00:27:38](https://news.ycombinator.com/item?id=43456936) - [Using Gorilla glass for home building](https://www.wsj.com/business/corning-window-gorilla-glass-4f443b07)
 * [2025-03-23, 18:09:46](https://news.ycombinator.com/item?id=43454642) - [Ignoring unwanted Terraform attribute changes](https://blog.mattsbit.co.uk/2025/03/23/ignoring-unwanted-terraform-provider-attribute-changes/)
 

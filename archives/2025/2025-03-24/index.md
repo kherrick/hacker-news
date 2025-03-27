@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-24](index.md)
 
 * [2025-03-24, 23:29:03](https://news.ycombinator.com/item?id=43466509) - [German parliament votes as a Git contribution graph](https://abstimmung.eu/git/2024)
+* [2025-03-24, 23:07:14](https://news.ycombinator.com/item?id=43466355) - [How I pwned a major New Zealand service provider](https://mrbruh.com/majorprovider/)
 * [2025-03-24, 22:50:47](https://news.ycombinator.com/item?id=43466221) - [Gatehouse – a composable, async-friendly authorization policy framework in Rust](https://github.com/thepartly/gatehouse)
 * [2025-03-24, 22:16:56](https://news.ycombinator.com/item?id=43465971) - [Three Hundred Years Later, a Tool from Isaac Newton Gets an Update](https://www.quantamagazine.org/three-hundred-years-later-a-tool-from-isaac-newton-gets-an-update-20250324/)
 * [2025-03-24, 21:48:07](https://news.ycombinator.com/item?id=43465740) - [Show HN: A website for sharing the \"Good, Bad, and Why\"s of urban spaces](https://dedede.de/en)
