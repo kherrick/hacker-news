@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-27, 13:01:31",
+      "https://news.ycombinator.com/item?id=43493159"
+    ],
+    [
+      "A filmmaker and a crooked lawyer shattered Denmark's self-image",
+      "https://www.theguardian.com/world/2025/mar/27/black-swan-denmark-documentary-mads-brugger-amira-smajic"
+    ]
+  ],
+  [
+    [
+      "2025-03-27, 12:49:44",
+      "https://news.ycombinator.com/item?id=43493056"
+    ],
+    [
+      "Blasting Past WebP - An analysis of the NSO BLASTPASS iMessage exploit",
+      "https://googleprojectzero.blogspot.com/2025/03/blasting-past-webp.html"
+    ]
+  ],
+  [
+    [
       "2025-03-27, 12:00:10",
       "https://news.ycombinator.com/item?id=43492680"
     ],
@@ -27,6 +47,16 @@
     [
       "Piranesi's Perspective Trick (2019)",
       "https://medium.com/@brunopostle/piranesis-perspective-trick-6bcd7a754da9"
+    ]
+  ],
+  [
+    [
+      "2025-03-27, 10:12:56",
+      "https://news.ycombinator.com/item?id=43491977"
+    ],
+    [
+      "Glider for Apple II",
+      "https://www.colino.net/wordpress/en/glider-for-apple-ii/"
     ]
   ],
   [
@@ -97,16 +127,6 @@
     [
       "Building a Linux Container Runtime from Scratch",
       "https://edera.dev/stories/styrolite"
-    ]
-  ],
-  [
-    [
-      "2025-03-26, 20:08:32",
-      "https://news.ycombinator.com/item?id=43486647"
-    ],
-    [
-      "Building a Firecracker-Powered Course Platform to Learn Docker and Kubernetes",
-      "https://iximiuz.com/en/posts/iximiuz-labs-story/"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-03-24, 17:47:08",
-      "https://news.ycombinator.com/item?id=43463579"
-    ],
-    [
-      "AI Reveals Secrets of Dendritic Growth in Thin Films",
-      "https://www.tus.ac.jp/en/mediarelations/archive/20250320_5263.html"
-    ]
-  ],
-  [
-    [
       "2025-03-24, 15:07:37",
       "https://news.ycombinator.com/item?id=43461944"
     ],
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2025-03-23, 20:36:51",
-      "https://news.ycombinator.com/item?id=43455698"
-    ],
-    [
-      "Exploring Dynamic Dispatch in Rust",
-      "https://alschwalm.com/blog/static/2017/03/07/exploring-dynamic-dispatch-in-rust/"
-    ]
-  ],
-  [
-    [
       "2025-03-23, 18:45:13",
       "https://news.ycombinator.com/item?id=43454861"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2025-03-23, 13:27:26",
-      "https://news.ycombinator.com/item?id=43452789"
+      "2025-03-23, 13:27:46",
+      "https://news.ycombinator.com/item?id=43452793"
     ],
     [
-      "Writing Programs with Ncurses",
-      "https://invisible-island.net/ncurses/ncurses-intro.html"
+      "The Synchrony Budget",
+      "https://www.morling.dev/blog/the-synchrony-budget/"
     ]
   ],
   [
