@@ -53,6 +53,7 @@
 * [2025-03-25, 13:11:03](https://news.ycombinator.com/item?id=43470763) - [Tesla deliveries down 43% in Europe while EVs are up 31%](https://electrek.co/2025/03/25/tesla-tsla-deliveries-down-43-in-europe-while-evs-are-up-28/)
 * [2025-03-25, 13:07:13](https://news.ycombinator.com/item?id=43470725) - [Tim, don't kill my vibe](https://irace.me/vibe)
 * [2025-03-25, 13:04:54](https://news.ycombinator.com/item?id=43470699) - [Samsung CEO Jong-hee Han has died](https://www.engadget.com/big-tech/samsung-ceo-jong-hee-han-has-died-120029286.html)
+* [2025-03-25, 13:02:23](https://news.ycombinator.com/item?id=43470681) - [Hyperlegibility](https://www.notboring.co/p/hyperlegibility)
 * [2025-03-25, 13:00:01](https://news.ycombinator.com/item?id=43470662) - [Create Weird Fun PHPStan Rules Like Nobody's Watching](https://tomasvotruba.com/blog/create-weird-fun-phpstan-rules/)
 * [2025-03-25, 12:59:26](https://news.ycombinator.com/item?id=43470651) - [VGGT: Visual Geometry Grounded Transformer](https://github.com/facebookresearch/vggt)
 * [2025-03-25, 12:59:00](https://news.ycombinator.com/item?id=43470648) - [Building Node.js on Windows with Clang-cl](https://joyeecheung.github.io/blog/2025/02/16/building-nodejs-on-windows-with-clang-cl/)

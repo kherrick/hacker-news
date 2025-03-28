@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-28](index.md)
 
+* [2025-03-28, 18:12:58](https://news.ycombinator.com/item?id=43508418) - [We hacked Google's A.I Gemini and leaked its source code (at least some part)](https://www.landh.tech/blog/20250327-we-hacked-gemini-source-code/)
 * [2025-03-28, 17:37:42](https://news.ycombinator.com/item?id=43508061) - [Show HN: Hexi, modern header-only network binary serialisation for C++ hackers](https://github.com/EmberEmu/Hexi)
 * [2025-03-28, 16:39:10](https://news.ycombinator.com/item?id=43507404) - [The Book (2021)](https://99percentinvisible.org/episode/the-real-book/)
 * [2025-03-28, 16:27:44](https://news.ycombinator.com/item?id=43507286) - [How Kerala Got Rich](https://aeon.co/essays/how-did-kerala-go-from-poor-to-prosperous-among-indias-states)

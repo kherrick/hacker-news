@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-28, 17:37:42](https://news.ycombinator.com/item?id=43508061) - [Show HN: Hexi, modern header-only network binary serialisation for C++ hackers](https://github.com/EmberEmu/Hexi)
+* [2025-03-28, 18:12:58](https://news.ycombinator.com/item?id=43508418) - [We hacked Google's A.I Gemini and leaked its source code (at least some part)](https://www.landh.tech/blog/20250327-we-hacked-gemini-source-code/)
 * [2025-03-28, 16:39:10](https://news.ycombinator.com/item?id=43507404) - [The Book (2021)](https://99percentinvisible.org/episode/the-real-book/)
 * [2025-03-28, 16:27:44](https://news.ycombinator.com/item?id=43507286) - [How Kerala got rich](https://aeon.co/essays/how-did-kerala-go-from-poor-to-prosperous-among-indias-states)
 * [2025-03-28, 15:22:36](https://news.ycombinator.com/item?id=43506574) - [Disk I/O bottlenecks in GitHub Actions](https://depot.dev/blog/uncovering-disk-io-bottlenecks-github-actions-ci)
@@ -18,7 +18,6 @@
 * [2025-03-28, 11:11:55](https://news.ycombinator.com/item?id=43503960) - [Let's Take a Look at JEP 483: Ahead-of-Time Class Loading and Linking](https://www.morling.dev/blog/jep-483-aot-class-loading-linking/)
 * [2025-03-28, 11:04:40](https://news.ycombinator.com/item?id=43503897) - [MilliForth-6502: The smallest Forth real programming language for 6502](https://github.com/agsb/milliForth-6502)
 * [2025-03-28, 11:01:19](https://news.ycombinator.com/item?id=43503872) - [How to Write Blog Posts That Developers Read · Refactoring English](https://refactoringenglish.com/chapters/write-blog-posts-developers-read/)
-* [2025-03-28, 09:32:04](https://news.ycombinator.com/item?id=43503265) - [7.7 magnitude earthquake hits Southeast Asia, affecting Myanmar and Thailand](https://twitter.com/TaraBull808/status/1905534938558157139)
 * [2025-03-28, 06:48:18](https://news.ycombinator.com/item?id=43502291) - [Xee: A Modern XPath and XSLT Engine in Rust](https://blog.startifact.com/posts/xee/)
 * [2025-03-28, 05:57:27](https://news.ycombinator.com/item?id=43501989) - [Architecture Patterns with Python](https://www.cosmicpython.com/book/preface.html)
 * [2025-03-28, 00:38:53](https://news.ycombinator.com/item?id=43499992) - [Things I would have told myself before building an autorouter](https://blog.autorouting.com/p/13-things-i-would-have-told-myself)
@@ -27,6 +26,7 @@
 * [2025-03-27, 20:19:38](https://news.ycombinator.com/item?id=43497719) - [How to Use Em Dashes (–), En Dashes (–), and Hyphens (-)](https://www.merriam-webster.com/grammar/em-dash-en-dash-how-to-use)
 * [2025-03-27, 19:49:28](https://news.ycombinator.com/item?id=43497394) - [I tried making artificial sunlight at home](https://victorpoughon.fr/i-tried-making-artificial-sunlight-at-home/)
 * [2025-03-27, 17:05:36](https://news.ycombinator.com/item?id=43495617) - [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model)
+* [2025-03-25, 13:02:23](https://news.ycombinator.com/item?id=43470681) - [Hyperlegibility](https://www.notboring.co/p/hyperlegibility)
 * [2025-03-25, 12:20:38](https://news.ycombinator.com/item?id=43470339) - [Entropy Attacks](https://blog.cr.yp.to/20140205-entropy.html)
 * [2025-03-25, 10:52:03](https://news.ycombinator.com/item?id=43469783) - [Show HN](https://wakana.io)
 * [2025-03-24, 16:49:35](https://news.ycombinator.com/item?id=43463003) - [Moiré Than Meets the Eye: Uncovering the Quantum Potential of Phasons](https://newscenter.lbl.gov/2025/03/24/moire-than-meets-the-eye/)
