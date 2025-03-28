@@ -6,6 +6,8 @@
 
 * [2025-03-28, 21:23:42](https://news.ycombinator.com/item?id=43509923) - [xAI has acquired X, xAI now valued at $80 billion](https://twitter.com/elonmusk/status/1905731750275510312)
 * [2025-03-28, 21:01:49](https://news.ycombinator.com/item?id=43509782) - [Finley (YC W21) Is Hiring a Technical Implementations Specialist](https://ats.rippling.com/finley-technologies/jobs)
+* [2025-03-28, 20:48:00](https://news.ycombinator.com/item?id=43509679) - [FDIC says banks can engage in crypto activities without prior approval](https://www.reuters.com/business/finance/fdic-says-banks-can-engage-crypto-activities-without-prior-approval-2025-03-28/)
+* [2025-03-28, 20:37:45](https://news.ycombinator.com/item?id=43509607) - [TV is watching you – Companies inventing new ways to make money off your data](https://www.vox.com/technology/405879/roku-amazon-netflix-moana-disney)
 * [2025-03-28, 20:33:50](https://news.ycombinator.com/item?id=43509576) - ['You're His Property': How One Sheriff Used Inmate Labor on His Family Farm](https://www.nytimes.com/2025/03/27/us/mississippi-inmate-labor-sheriff-farm.html)
 * [2025-03-28, 20:30:50](https://news.ycombinator.com/item?id=43509558) - [Is This Sex Offender Map in Japan Legal?](https://unseen-japan.com/sex-offender-map-japan-legal/)
 * [2025-03-28, 20:29:32](https://news.ycombinator.com/item?id=43509548) - [There's a psychological burden of digital life even heavier than distraction](https://www.chrbutler.com/digital-echoes-and-unquiet-minds)
