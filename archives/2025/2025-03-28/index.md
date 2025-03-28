@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-28](index.md)
 
+* [2025-03-28, 03:05:52](https://news.ycombinator.com/item?id=43501084) - [Yale professor who studies fascism fleeing US to work in Canada](https://www.theguardian.com/us-news/2025/mar/26/yale-professor-fascism-canada)
 * [2025-03-28, 02:21:49](https://news.ycombinator.com/item?id=43500769) - [A decompilation and port of Sonic Advance 2-a GameBoy Advance game written in C](https://github.com/SAT-R/sa2)
 * [2025-03-28, 01:00:54](https://news.ycombinator.com/item?id=43500179) - [Helpcare AI (YC F24) Is Hiring](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview)
 * [2025-03-28, 00:53:46](https://news.ycombinator.com/item?id=43500124) - [Using uv and PEP 723 for Self-Contained Python Scripts](https://thisdavej.com/share-python-scripts-like-a-pro-uv-and-pep-723-for-easy-deployment/)
