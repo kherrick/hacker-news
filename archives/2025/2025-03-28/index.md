@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-03-28](index.md)
 
+* [2025-03-28, 21:01:49](https://news.ycombinator.com/item?id=43509782) - [Finley (YC W21) Is Hiring a Technical Implementations Specialist](https://ats.rippling.com/finley-technologies/jobs)
 * [2025-03-28, 20:33:50](https://news.ycombinator.com/item?id=43509576) - ['You're His Property': How One Sheriff Used Inmate Labor on His Family Farm](https://www.nytimes.com/2025/03/27/us/mississippi-inmate-labor-sheriff-farm.html)
+* [2025-03-28, 20:30:50](https://news.ycombinator.com/item?id=43509558) - [Is This Sex Offender Map in Japan Legal?](https://unseen-japan.com/sex-offender-map-japan-legal/)
+* [2025-03-28, 20:29:32](https://news.ycombinator.com/item?id=43509548) - [There's a psychological burden of digital life even heavier than distraction](https://www.chrbutler.com/digital-echoes-and-unquiet-minds)
+* [2025-03-28, 20:29:21](https://news.ycombinator.com/item?id=43509546) - [Swiftly 1.0](https://swift.org/blog/introducing-swiftly_10/)
 * [2025-03-28, 19:22:14](https://news.ycombinator.com/item?id=43509061) - [The Art of DJing: Avalon Emerson](https://it.ra.co/features/3392)
 * [2025-03-28, 18:55:00](https://news.ycombinator.com/item?id=43508817) - [A cretaceous fly trap? remarkable abdominal modification in a fossil wasp](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-025-02190-2)
 * [2025-03-28, 18:25:21](https://news.ycombinator.com/item?id=43508546) - [Superhyperbola](https://www.johndcook.com/blog/2025/03/27/superhyperbola/)
