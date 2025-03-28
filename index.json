@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-28, 03:05:52",
+      "https://news.ycombinator.com/item?id=43501084"
+    ],
+    [
+      "Yale professor who studies fascism fleeing US to work in Canada",
+      "https://www.theguardian.com/us-news/2025/mar/26/yale-professor-fascism-canada"
+    ]
+  ],
+  [
+    [
       "2025-03-28, 02:21:49",
       "https://news.ycombinator.com/item?id=43500769"
     ],
@@ -47,6 +57,16 @@
     [
       "Arctic sea ice sets a record low maximum in 2025",
       "https://nsidc.org/sea-ice-today/analyses/arctic-sea-ice-sets-record-low-maximum-2025"
+    ]
+  ],
+  [
+    [
+      "2025-03-28, 00:20:48",
+      "https://news.ycombinator.com/item?id=43499860"
+    ],
+    [
+      "LibreOffice downloads on the rise as users look to avoid subscription costs",
+      "https://www.computerworld.com/article/3840480/libreoffice-downloads-on-the-rise-as-users-look-to-avoid-subscription-costs.html"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-03-27, 18:38:21",
-      "https://news.ycombinator.com/item?id=43496644"
-    ],
-    [
-      "AI models miss disease in Black and female patients",
-      "https://www.science.org/content/article/ai-models-miss-disease-black-female-patients"
-    ]
-  ],
-  [
-    [
       "2025-03-27, 18:33:00",
       "https://news.ycombinator.com/item?id=43496577"
     ],
@@ -217,16 +227,6 @@
     [
       "Launch HN: Continue (YC S23) – Create custom AI code assistants",
       "https://hub.continue.dev/explore/assistants"
-    ]
-  ],
-  [
-    [
-      "2025-03-27, 12:49:44",
-      "https://news.ycombinator.com/item?id=43493056"
-    ],
-    [
-      "Blasting Past WebP - An analysis of the NSO BLASTPASS iMessage exploit",
-      "https://googleprojectzero.blogspot.com/2025/03/blasting-past-webp.html"
     ]
   ],
   [
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2025-03-24, 23:07:14",
-      "https://news.ycombinator.com/item?id=43466355"
+      "2025-03-24, 18:34:44",
+      "https://news.ycombinator.com/item?id=43464061"
     ],
     [
-      "How I pwned a major New Zealand service provider",
-      "https://mrbruh.com/majorprovider/"
+      "Show HN: I built a command line ASCII logo SVG generator for laser cutting",
+      "https://github.com/ykhli/ascii-logo"
     ]
   ],
   [
