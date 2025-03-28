@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-28, 07:00:01",
+      "https://news.ycombinator.com/item?id=43502357"
+    ],
+    [
+      "Software Eng Intern – Structured Labs (YC S23) Is Hiring",
+      "https://www.ycombinator.com/companies/structured-labs/jobs/MWU8Ws3-software-engineer-intern"
+    ]
+  ],
+  [
+    [
+      "2025-03-28, 06:07:39",
+      "https://news.ycombinator.com/item?id=43502037"
+    ],
+    [
+      "Estimating Camera Motion from a Single Motion-Blurred Image",
+      "https://jerredchen.github.io/image-as-imu/"
+    ]
+  ],
+  [
+    [
       "2025-03-28, 05:57:27",
       "https://news.ycombinator.com/item?id=43501989"
     ],
@@ -27,16 +47,6 @@
     [
       "A decompilation and port of Sonic Advance 2-a GameBoy Advance game written in C",
       "https://github.com/SAT-R/sa2"
-    ]
-  ],
-  [
-    [
-      "2025-03-28, 01:00:54",
-      "https://news.ycombinator.com/item?id=43500179"
-    ],
-    [
-      "Helpcare AI (YC F24) Is Hiring",
-      "https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "Emacs Solo: A Surprise System Crafters Live Demo",
       "https://www.rahuljuliato.com/posts/emacs-solo-demo"
-    ]
-  ],
-  [
-    [
-      "2025-03-27, 21:48:23",
-      "https://news.ycombinator.com/item?id=43498570"
-    ],
-    [
-      "Asking good questions is harder than giving great answers",
-      "https://newsletter.dancohen.org/archive/asking-good-questions-is-harder-than-giving-great-answers/"
     ]
   ],
   [
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2025-03-25, 13:00:01",
-      "https://news.ycombinator.com/item?id=43470662"
-    ],
-    [
-      "Create Weird Fun PHPStan Rules Like Nobody's Watching",
-      "https://tomasvotruba.com/blog/create-weird-fun-phpstan-rules/"
-    ]
-  ],
-  [
-    [
       "2025-03-25, 12:02:45",
       "https://news.ycombinator.com/item?id=43470206"
     ],
     [
       "Better Shell History Search",
       "https://tratt.net/laurie/blog/2025/better_shell_history_search.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-25, 11:06:16",
+      "https://news.ycombinator.com/item?id=43469866"
+    ],
+    [
+      "A Debugger is a REPL is a Debugger",
+      "https://matklad.github.io/2025/03/25/debugger-is-repl-is-debugger.html"
     ]
   ],
   [
