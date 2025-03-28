@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-28](index.md)
 
+* [2025-03-28, 05:20:50](https://news.ycombinator.com/item?id=43501821) - [Signal Chat Leak Angers U.S. Military Pilots](https://www.nytimes.com/2025/03/27/us/politics/pilots-signal-leak.html)
+* [2025-03-28, 04:56:21](https://news.ycombinator.com/item?id=43501675) - [US no longer a reliable partner, old relationship is over: Canadian PM Carney](https://www.tribuneindia.com/news/world/us-no-longer-a-reliable-partner-old-relationship-is-over-canadian-pm-carney/)
+* [2025-03-28, 04:51:36](https://news.ycombinator.com/item?id=43501655) - [One Drive in Toyota's $10k Pickup Will Make You Want One (2023)](https://www.motor1.com/reviews/696031/toyota-cheap-pickup-concept-review/)
 * [2025-03-28, 03:05:52](https://news.ycombinator.com/item?id=43501084) - [Yale professor who studies fascism fleeing US to work in Canada](https://www.theguardian.com/us-news/2025/mar/26/yale-professor-fascism-canada)
 * [2025-03-28, 02:21:49](https://news.ycombinator.com/item?id=43500769) - [A decompilation and port of Sonic Advance 2-a GameBoy Advance game written in C](https://github.com/SAT-R/sa2)
 * [2025-03-28, 01:00:54](https://news.ycombinator.com/item?id=43500179) - [Helpcare AI (YC F24) Is Hiring](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview)

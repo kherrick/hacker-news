@@ -50,6 +50,7 @@
 * [2025-03-24, 13:01:11](https://news.ycombinator.com/item?id=43460583) - [Instella: New Open 3B Language Models](https://rocm.blogs.amd.com/artificial-intelligence/introducing-instella-3B/README.html)
 * [2025-03-24, 12:48:16](https://news.ycombinator.com/item?id=43460455) - [Every Flop Counts: Scaling a 300B LLM Without Premium GPUs](https://arxiv.org/abs/2503.05139)
 * [2025-03-24, 12:06:16](https://news.ycombinator.com/item?id=43459990) - [The Tranhumanist Cult Test](https://ewanmorrison.substack.com/p/the-tranhumanist-cult-test)
+* [2025-03-24, 11:27:13](https://news.ycombinator.com/item?id=43459681) - [Making math fun by prepping for friendly competition (2022)](https://news.mit.edu/2022/mit-math-problem-solving-class-putnam-competition-1214)
 * [2025-03-24, 11:04:27](https://news.ycombinator.com/item?id=43459535) - [Why we chose LangGraph to build our coding agent](https://www.qodo.ai/blog/why-we-chose-langgraph-to-build-our-coding-agent/)
 * [2025-03-24, 10:39:32](https://news.ycombinator.com/item?id=43459361) - [The Game Designer Playing Through His Own Psyche](https://www.newyorker.com/culture/persons-of-interest/the-game-designer-playing-through-his-own-psyche)
 * [2025-03-24, 10:31:28](https://news.ycombinator.com/item?id=43459302) - [What it takes to add a new back end to Futhark](https://futhark-lang.org/blog/2025-03-04-adding-a-new-backend.html)
