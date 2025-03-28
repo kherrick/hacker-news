@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-28](index.md)
 
+* [2025-03-28, 23:08:41](https://news.ycombinator.com/item?id=43510870) - [2025 Tariff Impacts at Puget Systems](https://www.pugetsystems.com/blog/2025/03/28/2025-tariff-impacts-at-puget-systems/)
 * [2025-03-28, 22:46:43](https://news.ycombinator.com/item?id=43510710) - [Show HN: An Almost Free, Open Source TURN Server](https://github.com/lvidgen/WebRTC/blob/master/FOSS_TURN_Server/howto.md)
 * [2025-03-28, 22:13:46](https://news.ycombinator.com/item?id=43510383) - [Flight bookings from Canada to the US plummet over 70%](https://www.newsweek.com/canada-us-flight-bookings-fall-70-percent-2051327)
 * [2025-03-28, 21:42:38](https://news.ycombinator.com/item?id=43510093) - [US Securities and Exchange Commission beginning to bring on DOGE staff](https://www.reuters.com/world/us/us-securities-exchange-commission-beginning-onboard-doge-staff-email-says-2025-03-28/)

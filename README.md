@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-28, 23:08:41](https://news.ycombinator.com/item?id=43510870) - [2025 Tariff Impacts at Puget Systems](https://www.pugetsystems.com/blog/2025/03/28/2025-tariff-impacts-at-puget-systems/)
 * [2025-03-28, 22:46:43](https://news.ycombinator.com/item?id=43510710) - [Show HN: An Almost Free, Open Source TURN Server](https://github.com/lvidgen/WebRTC/blob/master/FOSS_TURN_Server/howto.md)
 * [2025-03-28, 21:37:21](https://news.ycombinator.com/item?id=43510036) - [DIY PTP Grandmaster Clock with a Raspberry Pi](https://www.jeffgeerling.com/blog/2025/diy-ptp-grandmaster-clock-raspberry-pi)
 * [2025-03-28, 21:23:42](https://news.ycombinator.com/item?id=43509923) - [xAI has acquired X, xAI now valued at $80B](https://twitter.com/elonmusk/status/1905731750275510312)
 * [2025-03-28, 21:01:49](https://news.ycombinator.com/item?id=43509782) - [Finley (YC W21) Is Hiring a Technical Implementations Specialist](https://ats.rippling.com/finley-technologies/jobs)
 * [2025-03-28, 20:48:00](https://news.ycombinator.com/item?id=43509679) - [FDIC says banks can engage in crypto activities without prior approval](https://www.reuters.com/business/finance/fdic-says-banks-can-engage-crypto-activities-without-prior-approval-2025-03-28/)
-* [2025-03-28, 20:37:45](https://news.ycombinator.com/item?id=43509607) - [TV is watching you – Companies inventing new ways to make money off your data](https://www.vox.com/technology/405879/roku-amazon-netflix-moana-disney)
 * [2025-03-28, 20:29:32](https://news.ycombinator.com/item?id=43509548) - [Digital Echoes and Unquiet Minds](https://www.chrbutler.com/digital-echoes-and-unquiet-minds)
 * [2025-03-28, 20:29:21](https://news.ycombinator.com/item?id=43509546) - [Swiftly 1.0](https://swift.org/blog/introducing-swiftly_10/)
 * [2025-03-28, 19:22:14](https://news.ycombinator.com/item?id=43509061) - [The Art of DJing: Avalon Emerson (2019)](https://it.ra.co/features/3392)
@@ -20,7 +20,6 @@
 * [2025-03-28, 14:55:54](https://news.ycombinator.com/item?id=43506238) - [Decomposing a Factorial into Large Factors](https://terrytao.wordpress.com/2025/03/26/decomposing-a-factorial-into-large-factors/)
 * [2025-03-28, 14:44:59](https://news.ycombinator.com/item?id=43506068) - [Show HN: Cursor IDE now remembers your coding prefs using MCP](https://news.ycombinator.com/item?id=43506068)
 * [2025-03-28, 14:11:07](https://news.ycombinator.com/item?id=43505646) - [Building Statically Linked Go Executables with CGO and Zig](https://calabro.io/zig-cgo)
-* [2025-03-28, 13:52:58](https://news.ycombinator.com/item?id=43505447) - [Getting hit by lightning is good for some tropical trees](https://www.caryinstitute.org/news-insights/press-release/getting-hit-lightning-good-some-tropical-trees)
 * [2025-03-28, 13:40:41](https://news.ycombinator.com/item?id=43505334) - [The Biology of B-Movie Monsters (2003)](https://fathom.lib.uchicago.edu/2/21701757/)
 * [2025-03-28, 13:13:04](https://news.ycombinator.com/item?id=43505022) - [Cross-Platform P2P Wi-Fi: How the EU Killed AWDL](https://www.ditto.com/blog/cross-platform-p2p-wi-fi-how-the-eu-killed-awdl)
 * [2025-03-28, 12:14:06](https://news.ycombinator.com/item?id=43504413) - [I asked police to send me their public surveillance footage of my car](https://cardinalnews.org/2025/03/28/i-drove-300-miles-in-rural-virginia-then-asked-police-to-send-me-their-public-surveillance-footage-of-my-car-heres-what-i-learned/)
@@ -30,6 +29,7 @@
 * [2025-03-27, 13:51:44](https://news.ycombinator.com/item?id=43493665) - [Building a modern durable execution engine from first principles](https://restate.dev/blog/building-a-modern-durable-execution-engine-from-first-principles/)
 * [2025-03-25, 12:20:28](https://news.ycombinator.com/item?id=43470337) - [Ask HN: can Wireless-CarPlay dongles steal your data?](https://news.ycombinator.com/item?id=43470337)
 * [2025-03-25, 09:55:21](https://news.ycombinator.com/item?id=43469535) - [Optimizing Matrix Multiplication on RDNA3](https://seb-v.github.io/optimization/update/2025/01/20/Fast-GPU-Matrix-multiplication.html)
+* [2025-03-25, 01:17:35](https://news.ycombinator.com/item?id=43467181) - [Plasmonic Modulators Can Break the Wireless Terahertz Barrier](https://spectrum.ieee.org/terahertz-waves-2671362433)
 
 ## [Archives](archives/index.md)
 
