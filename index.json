@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2025-03-25, 13:00:01",
+      "https://news.ycombinator.com/item?id=43470662"
+    ],
+    [
+      "Create Weird Fun PHPStan Rules Like Nobody's Watching",
+      "https://tomasvotruba.com/blog/create-weird-fun-phpstan-rules/"
+    ]
+  ],
+  [
+    [
       "2025-03-25, 12:41:04",
       "https://news.ycombinator.com/item?id=43470493"
     ],
@@ -287,16 +297,6 @@
     [
       "Every Flop Counts: Scaling a 300B LLM Without Premium GPUs",
       "https://arxiv.org/abs/2503.05139"
-    ]
-  ],
-  [
-    [
-      "2025-03-24, 11:27:13",
-      "https://news.ycombinator.com/item?id=43459681"
-    ],
-    [
-      "Making math fun by prepping for friendly competition (2022)",
-      "https://news.mit.edu/2022/mit-math-problem-solving-class-putnam-competition-1214"
     ]
   ]
 ]
