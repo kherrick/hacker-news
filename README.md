@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-28, 05:20:50](https://news.ycombinator.com/item?id=43501821) - [Signal Chat Leak Angers U.S. Military Pilots](https://www.nytimes.com/2025/03/27/us/politics/pilots-signal-leak.html)
-* [2025-03-28, 04:56:21](https://news.ycombinator.com/item?id=43501675) - [US no longer a reliable partner, old relationship is over: Canadian PM Carney](https://www.tribuneindia.com/news/world/us-no-longer-a-reliable-partner-old-relationship-is-over-canadian-pm-carney/)
 * [2025-03-28, 02:21:49](https://news.ycombinator.com/item?id=43500769) - [A decompilation and port of Sonic Advance 2-a GameBoy Advance game written in C](https://github.com/SAT-R/sa2)
 * [2025-03-28, 01:00:54](https://news.ycombinator.com/item?id=43500179) - [Helpcare AI (YC F24) Is Hiring](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview)
 * [2025-03-28, 00:53:46](https://news.ycombinator.com/item?id=43500124) - [Using uv and PEP 723 for Self-Contained Python Scripts](https://thisdavej.com/share-python-scripts-like-a-pro-uv-and-pep-723-for-easy-deployment/)
@@ -22,6 +21,7 @@
 * [2025-03-27, 20:19:38](https://news.ycombinator.com/item?id=43497719) - [How to Use Em Dashes (–), En Dashes (–), and Hyphens (-)](https://www.merriam-webster.com/grammar/em-dash-en-dash-how-to-use)
 * [2025-03-27, 19:49:28](https://news.ycombinator.com/item?id=43497394) - [I tried making artificial sunlight at home](https://victorpoughon.fr/i-tried-making-artificial-sunlight-at-home/)
 * [2025-03-27, 18:33:00](https://news.ycombinator.com/item?id=43496577) - [Clean, a formal verification DSL for ZK circuits in Lean4](https://blog.zksecurity.xyz/posts/clean/)
+* [2025-03-27, 17:09:13](https://news.ycombinator.com/item?id=43495644) - [Abundance isn't going to happen unless politicians are scared of the status quo](https://inpractice.yimbyaction.org/p/abundance-isnt-going-to-happen-unless)
 * [2025-03-27, 17:05:36](https://news.ycombinator.com/item?id=43495617) - [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model)
 * [2025-03-27, 15:06:26](https://news.ycombinator.com/item?id=43494427) - [Launch HN: Continue (YC S23) – Create custom AI code assistants](https://hub.continue.dev/explore/assistants)
 * [2025-03-26, 20:26:13](https://news.ycombinator.com/item?id=43486881) - [Dagger: A shell for the container age](https://dagger.io/blog/dagger-shell)
