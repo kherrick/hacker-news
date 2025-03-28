@@ -6,6 +6,7 @@
 
 * [2025-03-28, 22:13:46](https://news.ycombinator.com/item?id=43510383) - [Flight bookings from Canada to the US plummet over 70%](https://www.newsweek.com/canada-us-flight-bookings-fall-70-percent-2051327)
 * [2025-03-28, 21:42:38](https://news.ycombinator.com/item?id=43510093) - [US Securities and Exchange Commission beginning to bring on DOGE staff](https://www.reuters.com/world/us/us-securities-exchange-commission-beginning-onboard-doge-staff-email-says-2025-03-28/)
+* [2025-03-28, 21:37:21](https://news.ycombinator.com/item?id=43510036) - [DIY PTP Grandmaster Clock with a Raspberry Pi](https://www.jeffgeerling.com/blog/2025/diy-ptp-grandmaster-clock-raspberry-pi)
 * [2025-03-28, 21:23:42](https://news.ycombinator.com/item?id=43509923) - [xAI has acquired X, xAI now valued at $80 billion](https://twitter.com/elonmusk/status/1905731750275510312)
 * [2025-03-28, 21:01:49](https://news.ycombinator.com/item?id=43509782) - [Finley (YC W21) Is Hiring a Technical Implementations Specialist](https://ats.rippling.com/finley-technologies/jobs)
 * [2025-03-28, 20:48:00](https://news.ycombinator.com/item?id=43509679) - [FDIC says banks can engage in crypto activities without prior approval](https://www.reuters.com/business/finance/fdic-says-banks-can-engage-crypto-activities-without-prior-approval-2025-03-28/)
