@@ -12,6 +12,7 @@
 * [2025-03-28, 13:52:58](https://news.ycombinator.com/item?id=43505447) - [Getting hit by lightning is good for some tropical trees](https://www.caryinstitute.org/news-insights/press-release/getting-hit-lightning-good-some-tropical-trees)
 * [2025-03-28, 13:40:41](https://news.ycombinator.com/item?id=43505334) - [The Biology of B-Movie Monsters (2003)](https://fathom.lib.uchicago.edu/2/21701757/)
 * [2025-03-28, 13:13:04](https://news.ycombinator.com/item?id=43505022) - [Cross-Platform P2P Wi-Fi: How the EU Killed AWDL](https://www.ditto.com/blog/cross-platform-p2p-wi-fi-how-the-eu-killed-awdl)
+* [2025-03-28, 12:18:26](https://news.ycombinator.com/item?id=43504451) - [Are Levi's from Amazon different from Levi's from Levi's?](https://nymag.com/strategist/article/levis-amazon-jeans-testing.html)
 * [2025-03-28, 12:14:06](https://news.ycombinator.com/item?id=43504413) - [I asked police to send me their public surveillance footage of my car](https://cardinalnews.org/2025/03/28/i-drove-300-miles-in-rural-virginia-then-asked-police-to-send-me-their-public-surveillance-footage-of-my-car-heres-what-i-learned/)
 * [2025-03-28, 12:02:32](https://news.ycombinator.com/item?id=43504299) - [PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2025-03-28, 11:11:55](https://news.ycombinator.com/item?id=43503960) - [Let's Take a Look at JEP 483: Ahead-of-Time Class Loading and Linking](https://www.morling.dev/blog/jep-483-aot-class-loading-linking/)
@@ -27,7 +28,6 @@
 * [2025-03-27, 19:49:28](https://news.ycombinator.com/item?id=43497394) - [I tried making artificial sunlight at home](https://victorpoughon.fr/i-tried-making-artificial-sunlight-at-home/)
 * [2025-03-27, 17:05:36](https://news.ycombinator.com/item?id=43495617) - [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model)
 * [2025-03-25, 12:20:38](https://news.ycombinator.com/item?id=43470339) - [Entropy Attacks](https://blog.cr.yp.to/20140205-entropy.html)
-* [2025-03-25, 11:54:19](https://news.ycombinator.com/item?id=43470146) - [How I Choose What to Work On (2023)](https://tynan.com/workonwhat/)
 * [2025-03-25, 11:53:30](https://news.ycombinator.com/item?id=43470138) - [Preschoolers can reason better than we think, study suggests](https://phys.org/news/2025-03-preschoolers.html)
 * [2025-03-24, 16:49:35](https://news.ycombinator.com/item?id=43463003) - [Moiré Than Meets the Eye: Uncovering the Quantum Potential of Phasons](https://newscenter.lbl.gov/2025/03/24/moire-than-meets-the-eye/)
 
