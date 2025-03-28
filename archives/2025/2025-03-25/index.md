@@ -78,6 +78,7 @@
 * [2025-03-25, 09:39:48](https://news.ycombinator.com/item?id=43469457) - [Quad9 – A public and free DNS service for a better security and privacy](https://www.quad9.net/)
 * [2025-03-25, 09:34:35](https://news.ycombinator.com/item?id=43469422) - [DNS Speed Test](https://dnsspeedtest.online/)
 * [2025-03-25, 09:28:24](https://news.ycombinator.com/item?id=43469393) - [Plasmonic Modulators Break Wireless Terahertz Barrier](https://spectrum.ieee.org/terahertz-waves-2671362433)
+* [2025-03-25, 09:22:29](https://news.ycombinator.com/item?id=43469360) - [The Great Chatbot Debate – March 25th](https://computerhistory.org/events/great-chatbot-debate/)
 * [2025-03-25, 08:14:50](https://news.ycombinator.com/item?id=43468995) - [Spammers are better at SPF, DKIM, and DMARC than everyone else](https://toad.social/@grumpybozo/114213600922816869)
 * [2025-03-25, 08:10:36](https://news.ycombinator.com/item?id=43468976) - [Writing your own C++ standard library from scratch](https://nibblestew.blogspot.com/2025/03/writing-your-own-c-standard-library.html)
 * [2025-03-25, 08:09:38](https://news.ycombinator.com/item?id=43468972) - [Evolving Scala](https://www.scala-lang.org/blog/2025/03/24/evolving-scala.html)
