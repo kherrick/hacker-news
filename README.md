@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-28, 03:05:52](https://news.ycombinator.com/item?id=43501084) - [Yale professor who studies fascism fleeing US to work in Canada](https://www.theguardian.com/us-news/2025/mar/26/yale-professor-fascism-canada)
 * [2025-03-28, 02:21:49](https://news.ycombinator.com/item?id=43500769) - [A decompilation and port of Sonic Advance 2-a GameBoy Advance game written in C](https://github.com/SAT-R/sa2)
 * [2025-03-28, 01:00:54](https://news.ycombinator.com/item?id=43500179) - [Helpcare AI (YC F24) Is Hiring](https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview)
 * [2025-03-28, 00:53:46](https://news.ycombinator.com/item?id=43500124) - [Using uv and PEP 723 for Self-Contained Python Scripts](https://thisdavej.com/share-python-scripts-like-a-pro-uv-and-pep-723-for-easy-deployment/)
@@ -26,6 +25,7 @@
 * [2025-03-26, 20:26:13](https://news.ycombinator.com/item?id=43486881) - [Dagger: A shell for the container age](https://dagger.io/blog/dagger-shell)
 * [2025-03-25, 12:41:04](https://news.ycombinator.com/item?id=43470493) - [The Unbearable Loudness of Chewing](https://asteriskmag.com/issues/09/the-unbearable-loudness-of-chewing/)
 * [2025-03-25, 12:02:45](https://news.ycombinator.com/item?id=43470206) - [Better Shell History Search](https://tratt.net/laurie/blog/2025/better_shell_history_search.html)
+* [2025-03-24, 23:07:14](https://news.ycombinator.com/item?id=43466355) - [How I pwned a major New Zealand service provider](https://mrbruh.com/majorprovider/)
 * [2025-03-24, 18:34:44](https://news.ycombinator.com/item?id=43464061) - [Show HN: I built a command line ASCII logo SVG generator for laser cutting](https://github.com/ykhli/ascii-logo)
 * [2025-03-24, 18:07:04](https://news.ycombinator.com/item?id=43463779) - [First-of-its-kind trial enables paralysed man to stand via stem cell injection](https://www.nature.com/articles/d41586-025-00863-0?linkId=13622861)
 * [2025-03-24, 12:48:16](https://news.ycombinator.com/item?id=43460455) - [Every Flop Counts: Scaling a 300B LLM Without Premium GPUs](https://arxiv.org/abs/2503.05139)
