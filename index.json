@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-28, 23:41:01",
+      "https://news.ycombinator.com/item?id=43511073"
+    ],
+    [
+      "Windows 11 is closing a loophole that let you skip making a Microsoft account",
+      "https://www.theverge.com/news/638967/microsoft-windows-11-account-internet-bypass-blocked"
+    ]
+  ],
+  [
+    [
+      "2025-03-28, 23:31:24",
+      "https://news.ycombinator.com/item?id=43511019"
+    ],
+    [
+      "Volvo Tells Plug-In Hybrid Owners to Stop Charging",
+      "https://www.carscoops.com/2025/03/volvo-recalling-thousands-of-plug-in-hybrids-over-fire-risk/"
+    ]
+  ],
+  [
+    [
       "2025-03-28, 23:08:41",
       "https://news.ycombinator.com/item?id=43510870"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-03-28, 15:22:36",
-      "https://news.ycombinator.com/item?id=43506574"
-    ],
-    [
-      "Disk I/O bottlenecks in GitHub Actions",
-      "https://depot.dev/blog/uncovering-disk-io-bottlenecks-github-actions-ci"
-    ]
-  ],
-  [
-    [
       "2025-03-28, 14:55:54",
       "https://news.ycombinator.com/item?id=43506238"
     ],
@@ -187,16 +197,6 @@
     [
       "Building Statically Linked Go Executables with CGO and Zig",
       "https://calabro.io/zig-cgo"
-    ]
-  ],
-  [
-    [
-      "2025-03-28, 13:52:58",
-      "https://news.ycombinator.com/item?id=43505447"
-    ],
-    [
-      "Getting hit by lightning is good for some tropical trees",
-      "https://www.caryinstitute.org/news-insights/press-release/getting-hit-lightning-good-some-tropical-trees"
     ]
   ],
   [
