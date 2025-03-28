@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-03-28](index.md)
 
+* [2025-03-28, 10:48:47](https://news.ycombinator.com/item?id=43503793) - [The Last Stand of the Corporate Peacock](https://wrk3.substack.com/p/the-last-stand-of-the-corporate-peacock)
 * [2025-03-28, 10:47:02](https://news.ycombinator.com/item?id=43503779) - [iPhone users can now set WhatsApp as their default calling and texting app](https://www.theverge.com/news/637489/iphone-whatsapp-default-calling-texting-app)
 * [2025-03-28, 10:28:52](https://news.ycombinator.com/item?id=43503644) - [Researchers get spiking neural behavior out of a pair of transistors](https://arstechnica.com/science/2025/03/researchers-get-spiking-neural-behavior-out-of-a-pair-of-transistors/)
 * [2025-03-28, 09:36:34](https://news.ycombinator.com/item?id=43503295) - [Learn to code, ignore AI, then use AI to code even better](https://kyrylo.org/software/2025/03/27/learn-to-code-ignore-ai-then-use-ai-to-code-even-better.html)
 * [2025-03-28, 09:32:04](https://news.ycombinator.com/item?id=43503265) - [7.7 magnitude earthquake hits Southeast Asia, affecting Myanmar and Thailand](https://twitter.com/TaraBull808/status/1905534938558157139)
+* [2025-03-28, 09:20:44](https://news.ycombinator.com/item?id=43503207) - [Postgres Extension Tutorial](https://github.com/IshaanAdarsh/Postgres-extension-tutorial/blob/main/SGML/intro_and_toc.md)
 * [2025-03-28, 08:45:56](https://news.ycombinator.com/item?id=43503004) - [On Tyranny [book]](https://timothysnyder.org/on-tyranny)
 * [2025-03-28, 07:25:35](https://news.ycombinator.com/item?id=43502510) - [Mid-pregnancy pollution exposure linked to postpartum depression](https://www.bps.org.uk/research-digest/mid-pregnancy-pollution-exposure-linked-postpartum-depression-new-study-suggests)
 * [2025-03-28, 07:21:10](https://news.ycombinator.com/item?id=43502477) - [Patience is a coping strategy, not a virtue](https://www.bps.org.uk/research-digest/patience-coping-strategy-not-virtue)

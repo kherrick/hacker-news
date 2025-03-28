@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-28, 10:48:47](https://news.ycombinator.com/item?id=43503793) - [The Last Stand of the Corporate Peacock](https://wrk3.substack.com/p/the-last-stand-of-the-corporate-peacock)
 * [2025-03-28, 10:47:02](https://news.ycombinator.com/item?id=43503779) - [iPhone users can now set WhatsApp as their default calling and texting app](https://www.theverge.com/news/637489/iphone-whatsapp-default-calling-texting-app)
 * [2025-03-28, 09:36:34](https://news.ycombinator.com/item?id=43503295) - [Learn to code, ignore AI, then use AI to code even better](https://kyrylo.org/software/2025/03/27/learn-to-code-ignore-ai-then-use-ai-to-code-even-better.html)
 * [2025-03-28, 09:32:04](https://news.ycombinator.com/item?id=43503265) - [7.7 magnitude earthquake hits Southeast Asia, affecting Myanmar and Thailand](https://twitter.com/TaraBull808/status/1905534938558157139)
+* [2025-03-28, 09:20:44](https://news.ycombinator.com/item?id=43503207) - [Postgres Extension Tutorial](https://github.com/IshaanAdarsh/Postgres-extension-tutorial/blob/main/SGML/intro_and_toc.md)
 * [2025-03-28, 08:45:56](https://news.ycombinator.com/item?id=43503004) - [On Tyranny [book]](https://timothysnyder.org/on-tyranny)
 * [2025-03-28, 07:25:35](https://news.ycombinator.com/item?id=43502510) - [Mid-pregnancy pollution exposure linked to postpartum depression](https://www.bps.org.uk/research-digest/mid-pregnancy-pollution-exposure-linked-postpartum-depression-new-study-suggests)
 * [2025-03-28, 07:00:01](https://news.ycombinator.com/item?id=43502357) - [Software Eng Intern – Structured Labs (YC S23) Is Hiring](https://www.ycombinator.com/companies/structured-labs/jobs/MWU8Ws3-software-engineer-intern)
@@ -26,9 +28,7 @@
 * [2025-03-25, 12:20:38](https://news.ycombinator.com/item?id=43470339) - [Entropy Attacks](https://blog.cr.yp.to/20140205-entropy.html)
 * [2025-03-25, 11:54:19](https://news.ycombinator.com/item?id=43470146) - [How I Choose What to Work On (2023)](https://tynan.com/workonwhat/)
 * [2025-03-25, 11:53:30](https://news.ycombinator.com/item?id=43470138) - [Preschoolers can reason better than we think, study suggests](https://phys.org/news/2025-03-preschoolers.html)
-* [2025-03-25, 11:06:16](https://news.ycombinator.com/item?id=43469866) - [A Debugger is a REPL is a Debugger](https://matklad.github.io/2025/03/25/debugger-is-repl-is-debugger.html)
 * [2025-03-25, 09:28:24](https://news.ycombinator.com/item?id=43469393) - [Plasmonic Modulators Break Wireless Terahertz Barrier](https://spectrum.ieee.org/terahertz-waves-2671362433)
-* [2025-03-24, 18:07:04](https://news.ycombinator.com/item?id=43463779) - [First-of-its-kind trial enables paralysed man to stand via stem cell injection](https://www.nature.com/articles/d41586-025-00863-0?linkId=13622861)
 * [2025-03-24, 12:48:16](https://news.ycombinator.com/item?id=43460455) - [Every Flop Counts: Scaling a 300B LLM Without Premium GPUs](https://arxiv.org/abs/2503.05139)
 
 ## [Archives](archives/index.md)
