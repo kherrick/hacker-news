@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-03-27, 23:32:17",
-      "https://news.ycombinator.com/item?id=43499492"
+      "2025-03-28, 01:00:54",
+      "https://news.ycombinator.com/item?id=43500179"
     ],
     [
-      "US administration revokes $11B in funding for addiction, mental health care",
-      "https://www.npr.org/2025/03/27/nx-s1-5342368/addiction-trump-mental-health-funding"
+      "Helpcare AI (YC F24) Is Hiring",
+      "https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview"
+    ]
+  ],
+  [
+    [
+      "2025-03-28, 00:16:29",
+      "https://news.ycombinator.com/item?id=43499823"
+    ],
+    [
+      "A note on the USB-to-PS/2 mouse adapter that came with Microsoft mouse devices",
+      "https://devblogs.microsoft.com/oldnewthing/20250325-00/?p=110993"
+    ]
+  ],
+  [
+    [
+      "2025-03-28, 00:06:17",
+      "https://news.ycombinator.com/item?id=43499755"
+    ],
+    [
+      "Anti-Orbit Laser Submarines (2017)",
+      "http://toughsf.blogspot.com/2017/10/anti-orbit-laser-submarines.html"
     ]
   ],
   [
@@ -45,8 +65,38 @@
       "https://news.ycombinator.com/item?id=43498570"
     ],
     [
-      "Asking Good Questions Is Harder Than Giving Great Answers",
+      "Asking good questions is harder than giving great answers",
       "https://newsletter.dancohen.org/archive/asking-good-questions-is-harder-than-giving-great-answers/"
+    ]
+  ],
+  [
+    [
+      "2025-03-27, 21:42:51",
+      "https://news.ycombinator.com/item?id=43498521"
+    ],
+    [
+      "Writing an HTTP Server in Go from Scratch: Part 2",
+      "https://www.krayorn.com/posts/http-server-go-2/"
+    ]
+  ],
+  [
+    [
+      "2025-03-27, 21:37:46",
+      "https://news.ycombinator.com/item?id=43498481"
+    ],
+    [
+      "Golang on the Playstation 2",
+      "https://rgsilva.com/blog/ps2-go-part-1/"
+    ]
+  ],
+  [
+    [
+      "2025-03-27, 21:22:42",
+      "https://news.ycombinator.com/item?id=43498338"
+    ],
+    [
+      "I genuinely don't understand why some people are still bullish about LLMs",
+      "https://twitter.com/skdh/status/1905132853672784121"
     ]
   ],
   [
@@ -57,26 +107,6 @@
     [
       "Take this on-call rotation and shove it",
       "https://www.scottsmitelli.com/articles/take-oncall-and-shove-it/"
-    ]
-  ],
-  [
-    [
-      "2025-03-27, 21:00:29",
-      "https://news.ycombinator.com/item?id=43498109"
-    ],
-    [
-      "Revyl (YC F24) Is Hiring a Front End Engineer Intern",
-      "https://www.ycombinator.com/companies/revyl/jobs/5rbIJLP-frontend-engineer-intern"
-    ]
-  ],
-  [
-    [
-      "2025-03-27, 20:51:42",
-      "https://news.ycombinator.com/item?id=43498031"
-    ],
-    [
-      "We are building the next DocuSign",
-      "https://sgnly.com"
     ]
   ],
   [
@@ -107,16 +137,6 @@
     [
       "How to Use Em Dashes (–), En Dashes (–), and Hyphens (-)",
       "https://www.merriam-webster.com/grammar/em-dash-en-dash-how-to-use"
-    ]
-  ],
-  [
-    [
-      "2025-03-27, 19:49:59",
-      "https://news.ycombinator.com/item?id=43497398"
-    ],
-    [
-      "HDMI Musings: YCbCr color subsampling, Dolby Vision MEL/FEL, and and5V injection",
-      "http://archimago.blogspot.com/2025/03/hdmi-musings-high-speed-cables-data.html"
     ]
   ],
   [
@@ -157,16 +177,6 @@
     [
       "Clean, a formal verification DSL for ZK circuits in Lean4",
       "https://blog.zksecurity.xyz/posts/clean/"
-    ]
-  ],
-  [
-    [
-      "2025-03-27, 18:15:12",
-      "https://news.ycombinator.com/item?id=43496355"
-    ],
-    [
-      "A language for building concurrent software with confidence",
-      "https://github.com/inko-lang/inko"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2025-03-27, 11:55:19",
-      "https://news.ycombinator.com/item?id=43492652"
-    ],
-    [
-      "Source code art in the Rivulet language",
-      "https://github.com/rottytooth/Rivulet"
-    ]
-  ],
-  [
-    [
       "2025-03-27, 11:41:30",
       "https://news.ycombinator.com/item?id=43492562"
     ],
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2025-03-25, 13:37:39",
-      "https://news.ycombinator.com/item?id=43471135"
+      "2025-03-25, 12:41:04",
+      "https://news.ycombinator.com/item?id=43470493"
     ],
     [
-      "A UI might not make it easier",
-      "https://jeremymikkola.com/posts/2025_02_22_might_not_want_self_serve_ui.html"
+      "The Unbearable Loudness of Chewing",
+      "https://asteriskmag.com/issues/09/the-unbearable-loudness-of-chewing/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2025-03-24, 00:27:38",
-      "https://news.ycombinator.com/item?id=43456936"
+      "2025-03-24, 10:31:28",
+      "https://news.ycombinator.com/item?id=43459302"
     ],
     [
-      "Using Gorilla glass for home building",
-      "https://www.wsj.com/business/corning-window-gorilla-glass-4f443b07"
+      "What it takes to add a new back end to Futhark",
+      "https://futhark-lang.org/blog/2025-03-04-adding-a-new-backend.html"
     ]
   ]
 ]
