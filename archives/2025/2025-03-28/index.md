@@ -6,6 +6,7 @@
 
 * [2025-03-28, 15:00:00](https://news.ycombinator.com/item?id=43506310) - [The Pyrex Glass Controversy That Just Won't Die (2019)](https://gizmodo.com/the-pyrex-glass-controversy-that-just-wont-die-1833040962)
 * [2025-03-28, 14:55:54](https://news.ycombinator.com/item?id=43506238) - [Decomposing a Factorial into Large Factors](https://terrytao.wordpress.com/2025/03/26/decomposing-a-factorial-into-large-factors/)
+* [2025-03-28, 14:44:59](https://news.ycombinator.com/item?id=43506068) - [Show HN: Cursor IDE now remembers your coding prefs using MCP](https://news.ycombinator.com/item?id=43506068)
 * [2025-03-28, 14:18:28](https://news.ycombinator.com/item?id=43505748) - [The Biology of a Large Language Model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)
 * [2025-03-28, 14:15:11](https://news.ycombinator.com/item?id=43505700) - [Despite Ukraine War, Europe Imported Even More Russian Gas Last Year](https://e360.yale.edu/digest/europe-russia-ukraine-war-natural-gas-2024)
 * [2025-03-28, 14:11:50](https://news.ycombinator.com/item?id=43505659) - [Doge Plans to Rebuild SSA Codebase in Months](https://www.wired.com/story/doge-rebuild-social-security-administration-cobol-benefits/)
@@ -35,6 +36,7 @@
 * [2025-03-28, 07:25:35](https://news.ycombinator.com/item?id=43502510) - [Mid-pregnancy pollution exposure linked to postpartum depression](https://www.bps.org.uk/research-digest/mid-pregnancy-pollution-exposure-linked-postpartum-depression-new-study-suggests)
 * [2025-03-28, 07:21:10](https://news.ycombinator.com/item?id=43502477) - [Patience is a coping strategy, not a virtue](https://www.bps.org.uk/research-digest/patience-coping-strategy-not-virtue)
 * [2025-03-28, 07:00:01](https://news.ycombinator.com/item?id=43502357) - [Software Eng Intern – Structured Labs (YC S23) Is Hiring](https://www.ycombinator.com/companies/structured-labs/jobs/MWU8Ws3-software-engineer-intern)
+* [2025-03-28, 06:48:18](https://news.ycombinator.com/item?id=43502291) - [Xee: A Modern XPath and XSLT Engine in Rust](https://blog.startifact.com/posts/xee/)
 * [2025-03-28, 06:07:39](https://news.ycombinator.com/item?id=43502037) - [Estimating Camera Motion from a Single Motion-Blurred Image](https://jerredchen.github.io/image-as-imu/)
 * [2025-03-28, 05:57:27](https://news.ycombinator.com/item?id=43501989) - [Architecture Patterns with Python](https://www.cosmicpython.com/book/preface.html)
 * [2025-03-28, 05:20:50](https://news.ycombinator.com/item?id=43501821) - [Signal Chat Leak Angers U.S. Military Pilots](https://www.nytimes.com/2025/03/27/us/politics/pilots-signal-leak.html)
