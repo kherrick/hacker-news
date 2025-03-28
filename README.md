@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-28, 17:37:42](https://news.ycombinator.com/item?id=43508061) - [Show HN: Hexi, modern header-only network binary serialisation for C++ hackers](https://github.com/EmberEmu/Hexi)
 * [2025-03-28, 16:39:10](https://news.ycombinator.com/item?id=43507404) - [The Book (2021)](https://99percentinvisible.org/episode/the-real-book/)
 * [2025-03-28, 16:27:44](https://news.ycombinator.com/item?id=43507286) - [How Kerala got rich](https://aeon.co/essays/how-did-kerala-go-from-poor-to-prosperous-among-indias-states)
 * [2025-03-28, 16:15:19](https://news.ycombinator.com/item?id=43507176) - [2,200-year-old pyramid filled with coins and weapons found near Dead Sea](https://www.livescience.com/archaeology/2-200-year-old-mysterious-pyramid-structure-filled-with-coins-and-weapons-found-near-dead-sea)
@@ -18,7 +19,6 @@
 * [2025-03-28, 11:11:55](https://news.ycombinator.com/item?id=43503960) - [Let's Take a Look at JEP 483: Ahead-of-Time Class Loading and Linking](https://www.morling.dev/blog/jep-483-aot-class-loading-linking/)
 * [2025-03-28, 11:04:40](https://news.ycombinator.com/item?id=43503897) - [MilliForth-6502: The smallest Forth real programming language for 6502](https://github.com/agsb/milliForth-6502)
 * [2025-03-28, 11:01:19](https://news.ycombinator.com/item?id=43503872) - [How to Write Blog Posts That Developers Read · Refactoring English](https://refactoringenglish.com/chapters/write-blog-posts-developers-read/)
-* [2025-03-28, 09:32:04](https://news.ycombinator.com/item?id=43503265) - [7.7 magnitude earthquake hits Southeast Asia, affecting Myanmar and Thailand](https://twitter.com/TaraBull808/status/1905534938558157139)
 * [2025-03-28, 06:48:18](https://news.ycombinator.com/item?id=43502291) - [Xee: A Modern XPath and XSLT Engine in Rust](https://blog.startifact.com/posts/xee/)
 * [2025-03-28, 05:57:27](https://news.ycombinator.com/item?id=43501989) - [Architecture Patterns with Python](https://www.cosmicpython.com/book/preface.html)
 * [2025-03-28, 00:38:53](https://news.ycombinator.com/item?id=43499992) - [Things I would have told myself before building an autorouter](https://blog.autorouting.com/p/13-things-i-would-have-told-myself)
