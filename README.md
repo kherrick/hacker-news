@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-28, 19:22:14](https://news.ycombinator.com/item?id=43509061) - [The Art of DJing: Avalon Emerson](https://it.ra.co/features/3392)
 * [2025-03-28, 18:55:00](https://news.ycombinator.com/item?id=43508817) - [A cretaceous fly trap? remarkable abdominal modification in a fossil wasp](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-025-02190-2)
 * [2025-03-28, 18:25:21](https://news.ycombinator.com/item?id=43508546) - [Superhyperbola](https://www.johndcook.com/blog/2025/03/27/superhyperbola/)
 * [2025-03-28, 18:12:58](https://news.ycombinator.com/item?id=43508418) - [We hacked Gemini's Python sandbox and leaked its source code (at least some)](https://www.landh.tech/blog/20250327-we-hacked-gemini-source-code/)
@@ -29,7 +30,6 @@
 * [2025-03-27, 17:05:36](https://news.ycombinator.com/item?id=43495617) - [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model)
 * [2025-03-25, 13:34:00](https://news.ycombinator.com/item?id=43471096) - [Framework 13 AMD Setup with FreeBSD](https://euroquis.nl/freebsd/2025/03/16/framework.html)
 * [2025-03-25, 10:52:03](https://news.ycombinator.com/item?id=43469783) - [Show HN](https://wakana.io)
-* [2025-03-24, 16:49:35](https://news.ycombinator.com/item?id=43463003) - [Moiré Than Meets the Eye: Uncovering the Quantum Potential of Phasons](https://newscenter.lbl.gov/2025/03/24/moire-than-meets-the-eye/)
 
 ## [Archives](archives/index.md)
 
