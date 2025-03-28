@@ -4,8 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-03-28](index.md)
 
+* [2025-03-28, 12:14:06](https://news.ycombinator.com/item?id=43504413) - [I drove 300 miles, then asked police to send me surveillance footage of my car.](https://cardinalnews.org/2025/03/28/i-drove-300-miles-in-rural-virginia-then-asked-police-to-send-me-their-public-surveillance-footage-of-my-car-heres-what-i-learned/)
+* [2025-03-28, 12:04:53](https://news.ycombinator.com/item?id=43504322) - [Nobody should be a \"content creator\"](https://christianheilmann.com/2025/03/12/nobody-should-be-a-content-creator/)
+* [2025-03-28, 12:02:32](https://news.ycombinator.com/item?id=43504299) - [PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
+* [2025-03-28, 11:11:55](https://news.ycombinator.com/item?id=43503960) - [Let's Take a Look at JEP 483: Ahead-of-Time Class Loading and Linking](https://www.morling.dev/blog/jep-483-aot-class-loading-linking/)
+* [2025-03-28, 11:02:51](https://news.ycombinator.com/item?id=43503881) - [Jevons Paradox: A Personal Perspective](https://fakepixels.substack.com/p/jevons-paradox-a-personal-perspective)
 * [2025-03-28, 10:48:47](https://news.ycombinator.com/item?id=43503793) - [The Last Stand of the Corporate Peacock](https://wrk3.substack.com/p/the-last-stand-of-the-corporate-peacock)
 * [2025-03-28, 10:47:02](https://news.ycombinator.com/item?id=43503779) - [iPhone users can now set WhatsApp as their default calling and texting app](https://www.theverge.com/news/637489/iphone-whatsapp-default-calling-texting-app)
+* [2025-03-28, 10:39:04](https://news.ycombinator.com/item?id=43503720) - [Google is publishing the home addresses of developers without their consent](https://news.ycombinator.com/item?id=43503720)
 * [2025-03-28, 10:28:52](https://news.ycombinator.com/item?id=43503644) - [Researchers get spiking neural behavior out of a pair of transistors](https://arstechnica.com/science/2025/03/researchers-get-spiking-neural-behavior-out-of-a-pair-of-transistors/)
 * [2025-03-28, 09:36:34](https://news.ycombinator.com/item?id=43503295) - [Learn to code, ignore AI, then use AI to code even better](https://kyrylo.org/software/2025/03/27/learn-to-code-ignore-ai-then-use-ai-to-code-even-better.html)
 * [2025-03-28, 09:32:04](https://news.ycombinator.com/item?id=43503265) - [7.7 magnitude earthquake hits Southeast Asia, affecting Myanmar and Thailand](https://twitter.com/TaraBull808/status/1905534938558157139)
