@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-28, 23:41:01](https://news.ycombinator.com/item?id=43511073) - [Windows 11 is closing a loophole that let you skip making a Microsoft account](https://www.theverge.com/news/638967/microsoft-windows-11-account-internet-bypass-blocked)
+* [2025-03-28, 23:31:24](https://news.ycombinator.com/item?id=43511019) - [Volvo Tells Plug-In Hybrid Owners to Stop Charging](https://www.carscoops.com/2025/03/volvo-recalling-thousands-of-plug-in-hybrids-over-fire-risk/)
 * [2025-03-28, 23:08:41](https://news.ycombinator.com/item?id=43510870) - [2025 Tariff Impacts at Puget Systems](https://www.pugetsystems.com/blog/2025/03/28/2025-tariff-impacts-at-puget-systems/)
 * [2025-03-28, 22:46:43](https://news.ycombinator.com/item?id=43510710) - [Show HN: An Almost Free, Open Source TURN Server](https://github.com/lvidgen/WebRTC/blob/master/FOSS_TURN_Server/howto.md)
 * [2025-03-28, 21:37:21](https://news.ycombinator.com/item?id=43510036) - [DIY PTP Grandmaster Clock with a Raspberry Pi](https://www.jeffgeerling.com/blog/2025/diy-ptp-grandmaster-clock-raspberry-pi)
@@ -16,10 +18,8 @@
 * [2025-03-28, 17:06:56](https://news.ycombinator.com/item?id=43507758) - [SignalBotOne – Notification Webhooks for Signal](https://signalbot.one/)
 * [2025-03-28, 16:39:10](https://news.ycombinator.com/item?id=43507404) - [The Real Book (2021)](https://99percentinvisible.org/episode/the-real-book/)
 * [2025-03-28, 16:27:44](https://news.ycombinator.com/item?id=43507286) - [How Kerala got rich](https://aeon.co/essays/how-did-kerala-go-from-poor-to-prosperous-among-indias-states)
-* [2025-03-28, 15:22:36](https://news.ycombinator.com/item?id=43506574) - [Disk I/O bottlenecks in GitHub Actions](https://depot.dev/blog/uncovering-disk-io-bottlenecks-github-actions-ci)
 * [2025-03-28, 14:55:54](https://news.ycombinator.com/item?id=43506238) - [Decomposing a Factorial into Large Factors](https://terrytao.wordpress.com/2025/03/26/decomposing-a-factorial-into-large-factors/)
 * [2025-03-28, 14:11:07](https://news.ycombinator.com/item?id=43505646) - [Building Statically Linked Go Executables with CGO and Zig](https://calabro.io/zig-cgo)
-* [2025-03-28, 13:52:58](https://news.ycombinator.com/item?id=43505447) - [Getting hit by lightning is good for some tropical trees](https://www.caryinstitute.org/news-insights/press-release/getting-hit-lightning-good-some-tropical-trees)
 * [2025-03-28, 13:40:41](https://news.ycombinator.com/item?id=43505334) - [The Biology of B-Movie Monsters (2003)](https://fathom.lib.uchicago.edu/2/21701757/)
 * [2025-03-28, 13:13:04](https://news.ycombinator.com/item?id=43505022) - [Cross-Platform P2P Wi-Fi: How the EU Killed AWDL](https://www.ditto.com/blog/cross-platform-p2p-wi-fi-how-the-eu-killed-awdl)
 * [2025-03-28, 12:14:06](https://news.ycombinator.com/item?id=43504413) - [I asked police to send me their public surveillance footage of my car](https://cardinalnews.org/2025/03/28/i-drove-300-miles-in-rural-virginia-then-asked-police-to-send-me-their-public-surveillance-footage-of-my-car-heres-what-i-learned/)
