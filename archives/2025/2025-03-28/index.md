@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-28](index.md)
 
+* [2025-03-28, 14:55:54](https://news.ycombinator.com/item?id=43506238) - [Decomposing a Factorial into Large Factors](https://terrytao.wordpress.com/2025/03/26/decomposing-a-factorial-into-large-factors/)
+* [2025-03-28, 14:18:28](https://news.ycombinator.com/item?id=43505748) - [The Biology of a Large Language Model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)
 * [2025-03-28, 14:15:11](https://news.ycombinator.com/item?id=43505700) - [Despite Ukraine War, Europe Imported Even More Russian Gas Last Year](https://e360.yale.edu/digest/europe-russia-ukraine-war-natural-gas-2024)
 * [2025-03-28, 14:11:50](https://news.ycombinator.com/item?id=43505659) - [Doge Plans to Rebuild SSA Codebase in Months](https://www.wired.com/story/doge-rebuild-social-security-administration-cobol-benefits/)
 * [2025-03-28, 14:09:10](https://news.ycombinator.com/item?id=43505626) - [Japanese scientists create new plastic that dissolves in saltwater overnight](https://newatlas.com/materials/plastic-dissolves-ocean-overnight-no-microplastics/)
