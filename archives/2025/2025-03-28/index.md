@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-28](index.md)
 
+* [2025-03-28, 20:33:50](https://news.ycombinator.com/item?id=43509576) - ['You're His Property': How One Sheriff Used Inmate Labor on His Family Farm](https://www.nytimes.com/2025/03/27/us/mississippi-inmate-labor-sheriff-farm.html)
 * [2025-03-28, 19:22:14](https://news.ycombinator.com/item?id=43509061) - [The Art of DJing: Avalon Emerson](https://it.ra.co/features/3392)
 * [2025-03-28, 18:55:00](https://news.ycombinator.com/item?id=43508817) - [A cretaceous fly trap? remarkable abdominal modification in a fossil wasp](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-025-02190-2)
 * [2025-03-28, 18:25:21](https://news.ycombinator.com/item?id=43508546) - [Superhyperbola](https://www.johndcook.com/blog/2025/03/27/superhyperbola/)
