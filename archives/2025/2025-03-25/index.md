@@ -45,6 +45,7 @@
 * [2025-03-25, 13:40:59](https://news.ycombinator.com/item?id=43471177) - [If you get the chance, always run more extra network fiber cabling](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RunMoreExtraNetworkFiber)
 * [2025-03-25, 13:37:39](https://news.ycombinator.com/item?id=43471135) - [A UI might not make it easier](https://jeremymikkola.com/posts/2025_02_22_might_not_want_self_serve_ui.html)
 * [2025-03-25, 13:37:35](https://news.ycombinator.com/item?id=43471134) - [The Phony Comforts of AI Optimism](https://www.wheresyoured.at/optimistic-cowardice/)
+* [2025-03-25, 13:34:00](https://news.ycombinator.com/item?id=43471096) - [Framework 13 AMD Setup with FreeBSD](https://euroquis.nl/freebsd/2025/03/16/framework.html)
 * [2025-03-25, 13:32:04](https://news.ycombinator.com/item?id=43471062) - [Marginalia Search receives second nlnet grant](https://www.marginalia.nu/log/a_116_grant_2.0/)
 * [2025-03-25, 13:26:01](https://news.ycombinator.com/item?id=43470971) - [What Killed Innovation?](https://www.shirleywu.studio/notebook/2025-02-innovation-killer)
 * [2025-03-25, 13:22:33](https://news.ycombinator.com/item?id=43470911) - [The loneliest people (and places) in America](https://www.washingtonpost.com/business/2025/03/21/loneliness-epidemic-young-adults/)
