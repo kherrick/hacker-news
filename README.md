@@ -17,7 +17,6 @@
 * [2025-03-27, 20:45:13](https://news.ycombinator.com/item?id=43497954) - [Learning Theory from First Principles [pdf]](https://www.di.ens.fr/~fbach/ltfp_book.pdf)
 * [2025-03-27, 20:19:38](https://news.ycombinator.com/item?id=43497719) - [How to Use Em Dashes (–), En Dashes (–), and Hyphens (-)](https://www.merriam-webster.com/grammar/em-dash-en-dash-how-to-use)
 * [2025-03-27, 19:49:28](https://news.ycombinator.com/item?id=43497394) - [I tried making artificial sunlight at home](https://victorpoughon.fr/i-tried-making-artificial-sunlight-at-home/)
-* [2025-03-27, 19:37:50](https://news.ycombinator.com/item?id=43497264) - [Banned Books: Analysis of Censorship on Amazon.com (2024)](https://citizenlab.ca/2024/11/analysis-of-censorship-on-amazon-com/)
 * [2025-03-27, 18:38:21](https://news.ycombinator.com/item?id=43496644) - [AI models miss disease in Black and female patients](https://www.science.org/content/article/ai-models-miss-disease-black-female-patients)
 * [2025-03-27, 18:33:00](https://news.ycombinator.com/item?id=43496577) - [Clean, a formal verification DSL for ZK circuits in Lean4](https://blog.zksecurity.xyz/posts/clean/)
 * [2025-03-27, 17:05:36](https://news.ycombinator.com/item?id=43495617) - [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model)
@@ -27,8 +26,9 @@
 * [2025-03-26, 20:26:13](https://news.ycombinator.com/item?id=43486881) - [Dagger: A shell for the container age](https://dagger.io/blog/dagger-shell)
 * [2025-03-25, 12:41:04](https://news.ycombinator.com/item?id=43470493) - [The Unbearable Loudness of Chewing](https://asteriskmag.com/issues/09/the-unbearable-loudness-of-chewing/)
 * [2025-03-25, 12:02:45](https://news.ycombinator.com/item?id=43470206) - [Better Shell History Search](https://tratt.net/laurie/blog/2025/better_shell_history_search.html)
-* [2025-03-25, 10:41:23](https://news.ycombinator.com/item?id=43469735) - [Show HN: Built an MCP server for direct sound design on my hardware synth](https://github.com/zerubeus/elektron-mcp)
+* [2025-03-24, 23:07:14](https://news.ycombinator.com/item?id=43466355) - [How I pwned a major New Zealand service provider](https://mrbruh.com/majorprovider/)
 * [2025-03-24, 18:07:04](https://news.ycombinator.com/item?id=43463779) - [First-of-its-kind trial enables paralysed man to stand via stem cell injection](https://www.nature.com/articles/d41586-025-00863-0?linkId=13622861)
+* [2025-03-24, 12:48:16](https://news.ycombinator.com/item?id=43460455) - [Every Flop Counts: Scaling a 300B LLM Without Premium GPUs](https://arxiv.org/abs/2503.05139)
 * [2025-03-24, 10:31:28](https://news.ycombinator.com/item?id=43459302) - [What it takes to add a new back end to Futhark](https://futhark-lang.org/blog/2025-03-04-adding-a-new-backend.html)
 
 ## [Archives](archives/index.md)

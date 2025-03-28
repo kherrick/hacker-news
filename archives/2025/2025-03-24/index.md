@@ -47,6 +47,7 @@
 * [2025-03-24, 13:47:02](https://news.ycombinator.com/item?id=43461022) - [Show HN: A difficult game to test your logic](https://rvlabs.ca/jumping-frogs)
 * [2025-03-24, 13:07:38](https://news.ycombinator.com/item?id=43460636) - [Scientists Discover New Heavy-Metal Molecule 'Berkelocene'](https://newscenter.lbl.gov/2025/03/11/scientists-discover-new-heavy-metal-molecule-berkelocene/)
 * [2025-03-24, 13:01:11](https://news.ycombinator.com/item?id=43460583) - [Instella: New Open 3B Language Models](https://rocm.blogs.amd.com/artificial-intelligence/introducing-instella-3B/README.html)
+* [2025-03-24, 12:48:16](https://news.ycombinator.com/item?id=43460455) - [Every Flop Counts: Scaling a 300B LLM Without Premium GPUs](https://arxiv.org/abs/2503.05139)
 * [2025-03-24, 12:06:16](https://news.ycombinator.com/item?id=43459990) - [The Tranhumanist Cult Test](https://ewanmorrison.substack.com/p/the-tranhumanist-cult-test)
 * [2025-03-24, 11:04:27](https://news.ycombinator.com/item?id=43459535) - [Why we chose LangGraph to build our coding agent](https://www.qodo.ai/blog/why-we-chose-langgraph-to-build-our-coding-agent/)
 * [2025-03-24, 10:39:32](https://news.ycombinator.com/item?id=43459361) - [The Game Designer Playing Through His Own Psyche](https://www.newyorker.com/culture/persons-of-interest/the-game-designer-playing-through-his-own-psyche)
