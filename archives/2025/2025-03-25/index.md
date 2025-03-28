@@ -69,6 +69,7 @@
 * [2025-03-25, 11:32:15](https://news.ycombinator.com/item?id=43470010) - [Palantir suggests 'common operating system' for UK govt data](https://www.theregister.com/2025/03/25/palantir_covid_inquiry_comments/)
 * [2025-03-25, 11:06:16](https://news.ycombinator.com/item?id=43469866) - [A Debugger is a REPL is a Debugger](https://matklad.github.io/2025/03/25/debugger-is-repl-is-debugger.html)
 * [2025-03-25, 11:01:06](https://news.ycombinator.com/item?id=43469831) - [Plato: Organist to the Beasts (2022)](https://www.willbuckingham.com/plato-organist-to-the-beasts/)
+* [2025-03-25, 10:52:03](https://news.ycombinator.com/item?id=43469783) - [Show HN](https://wakana.io)
 * [2025-03-25, 10:41:23](https://news.ycombinator.com/item?id=43469735) - [Show HN: Built an MCP server for direct sound design on my hardware synth](https://github.com/zerubeus/elektron-mcp)
 * [2025-03-25, 10:39:18](https://news.ycombinator.com/item?id=43469727) - [The Hartlib Papers](https://www.dhi.ac.uk/hartlib/)
 * [2025-03-25, 10:34:23](https://news.ycombinator.com/item?id=43469711) - [Closing Keynote with Leslie Lamport at Scale 22x: Coding Isn't Programming](https://www.socallinuxexpo.org/scale/22x/presentations/closing-keynote-leslie-lamport)

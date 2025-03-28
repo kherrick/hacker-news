@@ -28,7 +28,7 @@
 * [2025-03-27, 19:49:28](https://news.ycombinator.com/item?id=43497394) - [I tried making artificial sunlight at home](https://victorpoughon.fr/i-tried-making-artificial-sunlight-at-home/)
 * [2025-03-27, 17:05:36](https://news.ycombinator.com/item?id=43495617) - [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model)
 * [2025-03-25, 12:20:38](https://news.ycombinator.com/item?id=43470339) - [Entropy Attacks](https://blog.cr.yp.to/20140205-entropy.html)
-* [2025-03-25, 11:53:30](https://news.ycombinator.com/item?id=43470138) - [Preschoolers can reason better than we think, study suggests](https://phys.org/news/2025-03-preschoolers.html)
+* [2025-03-25, 10:52:03](https://news.ycombinator.com/item?id=43469783) - [Show HN](https://wakana.io)
 * [2025-03-24, 16:49:35](https://news.ycombinator.com/item?id=43463003) - [Moiré Than Meets the Eye: Uncovering the Quantum Potential of Phasons](https://newscenter.lbl.gov/2025/03/24/moire-than-meets-the-eye/)
 
 ## [Archives](archives/index.md)
