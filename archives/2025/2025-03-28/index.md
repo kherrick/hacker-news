@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-28](index.md)
 
+* [2025-03-28, 07:00:01](https://news.ycombinator.com/item?id=43502357) - [Software Eng Intern – Structured Labs (YC S23) Is Hiring](https://www.ycombinator.com/companies/structured-labs/jobs/MWU8Ws3-software-engineer-intern)
+* [2025-03-28, 06:07:39](https://news.ycombinator.com/item?id=43502037) - [Estimating Camera Motion from a Single Motion-Blurred Image](https://jerredchen.github.io/image-as-imu/)
 * [2025-03-28, 05:57:27](https://news.ycombinator.com/item?id=43501989) - [Architecture Patterns with Python](https://www.cosmicpython.com/book/preface.html)
 * [2025-03-28, 05:20:50](https://news.ycombinator.com/item?id=43501821) - [Signal Chat Leak Angers U.S. Military Pilots](https://www.nytimes.com/2025/03/27/us/politics/pilots-signal-leak.html)
 * [2025-03-28, 04:56:21](https://news.ycombinator.com/item?id=43501675) - [US no longer a reliable partner, old relationship is over: Canadian PM Carney](https://www.tribuneindia.com/news/world/us-no-longer-a-reliable-partner-old-relationship-is-over-canadian-pm-carney/)
