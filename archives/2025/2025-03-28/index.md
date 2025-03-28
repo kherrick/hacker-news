@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-03-28](index.md)
 
+* [2025-03-28, 18:25:21](https://news.ycombinator.com/item?id=43508546) - [Superhyperbola](https://www.johndcook.com/blog/2025/03/27/superhyperbola/)
 * [2025-03-28, 18:12:58](https://news.ycombinator.com/item?id=43508418) - [We hacked Google's A.I Gemini and leaked its source code (at least some part)](https://www.landh.tech/blog/20250327-we-hacked-gemini-source-code/)
 * [2025-03-28, 17:37:42](https://news.ycombinator.com/item?id=43508061) - [Show HN: Hexi, modern header-only network binary serialisation for C++ hackers](https://github.com/EmberEmu/Hexi)
+* [2025-03-28, 17:06:56](https://news.ycombinator.com/item?id=43507758) - [SignalBotOne – Notification Webhooks for Signal](https://signalbot.one/)
 * [2025-03-28, 16:39:10](https://news.ycombinator.com/item?id=43507404) - [The Book (2021)](https://99percentinvisible.org/episode/the-real-book/)
 * [2025-03-28, 16:27:44](https://news.ycombinator.com/item?id=43507286) - [How Kerala Got Rich](https://aeon.co/essays/how-did-kerala-go-from-poor-to-prosperous-among-indias-states)
 * [2025-03-28, 16:15:19](https://news.ycombinator.com/item?id=43507176) - [2,200-year-old pyramid filled with coins and weapons found near Dead Sea](https://www.livescience.com/archaeology/2-200-year-old-mysterious-pyramid-structure-filled-with-coins-and-weapons-found-near-dead-sea)
