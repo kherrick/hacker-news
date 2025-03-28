@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-28, 13:40:41](https://news.ycombinator.com/item?id=43505334) - [The Biology of B-Movie Monsters (2003)](https://fathom.lib.uchicago.edu/2/21701757/)
 * [2025-03-28, 12:18:26](https://news.ycombinator.com/item?id=43504451) - [Are Levi's from Amazon Different from Levi's from Levi's?](https://nymag.com/strategist/article/levis-amazon-jeans-testing.html)
 * [2025-03-28, 12:14:06](https://news.ycombinator.com/item?id=43504413) - [I drove 300 miles, then asked police to send me surveillance footage of my car.](https://cardinalnews.org/2025/03/28/i-drove-300-miles-in-rural-virginia-then-asked-police-to-send-me-their-public-surveillance-footage-of-my-car-heres-what-i-learned/)
 * [2025-03-28, 12:02:32](https://news.ycombinator.com/item?id=43504299) - [PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
@@ -25,7 +26,6 @@
 * [2025-03-25, 12:20:38](https://news.ycombinator.com/item?id=43470339) - [Entropy Attacks](https://blog.cr.yp.to/20140205-entropy.html)
 * [2025-03-25, 11:54:19](https://news.ycombinator.com/item?id=43470146) - [How I Choose What to Work On (2023)](https://tynan.com/workonwhat/)
 * [2025-03-25, 11:53:30](https://news.ycombinator.com/item?id=43470138) - [Preschoolers can reason better than we think, study suggests](https://phys.org/news/2025-03-preschoolers.html)
-* [2025-03-25, 11:06:16](https://news.ycombinator.com/item?id=43469866) - [A Debugger is a REPL is a Debugger](https://matklad.github.io/2025/03/25/debugger-is-repl-is-debugger.html)
 * [2025-03-25, 09:28:24](https://news.ycombinator.com/item?id=43469393) - [Plasmonic Modulators Break Wireless Terahertz Barrier](https://spectrum.ieee.org/terahertz-waves-2671362433)
 * [2025-03-25, 00:53:27](https://news.ycombinator.com/item?id=43467035) - [Open Source Mythology](https://lgug2z.com/articles/on-open-source-mythology/)
 * [2025-03-24, 15:01:15](https://news.ycombinator.com/item?id=43461885) - [Retreating Glaciers Expose 1,500 Miles of Coastline](https://e360.yale.edu/digest/climate-glaciers-coastline-study)
