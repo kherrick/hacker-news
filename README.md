@@ -2,8 +2,8 @@
 
 * [2025-03-28, 18:55:00](https://news.ycombinator.com/item?id=43508817) - [A cretaceous fly trap? remarkable abdominal modification in a fossil wasp](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-025-02190-2)
 * [2025-03-28, 18:25:21](https://news.ycombinator.com/item?id=43508546) - [Superhyperbola](https://www.johndcook.com/blog/2025/03/27/superhyperbola/)
-* [2025-03-28, 18:12:58](https://news.ycombinator.com/item?id=43508418) - [We hacked Google's A.I Gemini and leaked its source code (at least some part)](https://www.landh.tech/blog/20250327-we-hacked-gemini-source-code/)
-* [2025-03-28, 17:37:42](https://news.ycombinator.com/item?id=43508061) - [Show HN: Hexi, modern header-only network binary serialisation for C++ hackers](https://github.com/EmberEmu/Hexi)
+* [2025-03-28, 18:12:58](https://news.ycombinator.com/item?id=43508418) - [We hacked Gemini's Python sandbox and leaked its source code (at least some)](https://www.landh.tech/blog/20250327-we-hacked-gemini-source-code/)
+* [2025-03-28, 17:37:42](https://news.ycombinator.com/item?id=43508061) - [Show HN: Hexi – Modern header-only network binary serialisation for C++](https://github.com/EmberEmu/Hexi)
 * [2025-03-28, 17:06:56](https://news.ycombinator.com/item?id=43507758) - [SignalBotOne – Notification Webhooks for Signal](https://signalbot.one/)
 * [2025-03-28, 16:39:10](https://news.ycombinator.com/item?id=43507404) - [The Real Book (2021)](https://99percentinvisible.org/episode/the-real-book/)
 * [2025-03-28, 16:27:44](https://news.ycombinator.com/item?id=43507286) - [How Kerala got rich](https://aeon.co/essays/how-did-kerala-go-from-poor-to-prosperous-among-indias-states)
