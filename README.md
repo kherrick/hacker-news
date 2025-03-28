@@ -25,11 +25,11 @@
 * [2025-03-27, 17:05:36](https://news.ycombinator.com/item?id=43495617) - [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model)
 * [2025-03-27, 15:06:26](https://news.ycombinator.com/item?id=43494427) - [Launch HN: Continue (YC S23) – Create custom AI code assistants](https://hub.continue.dev/explore/assistants)
 * [2025-03-26, 20:26:13](https://news.ycombinator.com/item?id=43486881) - [Dagger: A shell for the container age](https://dagger.io/blog/dagger-shell)
+* [2025-03-25, 13:00:01](https://news.ycombinator.com/item?id=43470662) - [Create Weird Fun PHPStan Rules Like Nobody's Watching](https://tomasvotruba.com/blog/create-weird-fun-phpstan-rules/)
 * [2025-03-25, 12:41:04](https://news.ycombinator.com/item?id=43470493) - [The Unbearable Loudness of Chewing](https://asteriskmag.com/issues/09/the-unbearable-loudness-of-chewing/)
 * [2025-03-25, 12:02:45](https://news.ycombinator.com/item?id=43470206) - [Better Shell History Search](https://tratt.net/laurie/blog/2025/better_shell_history_search.html)
 * [2025-03-24, 18:07:04](https://news.ycombinator.com/item?id=43463779) - [First-of-its-kind trial enables paralysed man to stand via stem cell injection](https://www.nature.com/articles/d41586-025-00863-0?linkId=13622861)
 * [2025-03-24, 12:48:16](https://news.ycombinator.com/item?id=43460455) - [Every Flop Counts: Scaling a 300B LLM Without Premium GPUs](https://arxiv.org/abs/2503.05139)
-* [2025-03-24, 11:27:13](https://news.ycombinator.com/item?id=43459681) - [Making math fun by prepping for friendly competition (2022)](https://news.mit.edu/2022/mit-math-problem-solving-class-putnam-competition-1214)
 
 ## [Archives](archives/index.md)
 
