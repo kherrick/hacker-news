@@ -62,6 +62,7 @@
 * [2025-03-25, 12:02:45](https://news.ycombinator.com/item?id=43470206) - [Better Shell History Search](https://tratt.net/laurie/blog/2025/better_shell_history_search.html)
 * [2025-03-25, 11:57:11](https://news.ycombinator.com/item?id=43470162) - [Hann: A Fast Approximate Nearest Neighbor Search Library for Go](https://github.com/habedi/hann)
 * [2025-03-25, 11:54:19](https://news.ycombinator.com/item?id=43470146) - [How I Choose What to Work On](https://tynan.com/workonwhat/)
+* [2025-03-25, 11:53:30](https://news.ycombinator.com/item?id=43470138) - [Preschoolers can reason better than we think, study suggests](https://phys.org/news/2025-03-preschoolers.html)
 * [2025-03-25, 11:41:18](https://news.ycombinator.com/item?id=43470066) - ['A walking billboard': The history of San Francisco's most recognizable bag](https://www.sfgate.com/sf-culture/article/history-san-franciscos-most-recognizable-bag-20228921.php)
 * [2025-03-25, 11:37:54](https://news.ycombinator.com/item?id=43470039) - [Don't Buy into Apple's Hype About AirPods Max Gaining Lossless Audio](https://www.macrumors.com/2025/03/24/airpods-max-lossless-audio-overhyped/)
 * [2025-03-25, 11:32:15](https://news.ycombinator.com/item?id=43470010) - [Palantir suggests 'common operating system' for UK govt data](https://www.theregister.com/2025/03/25/palantir_covid_inquiry_comments/)
