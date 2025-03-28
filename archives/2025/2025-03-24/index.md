@@ -28,6 +28,7 @@
 * [2025-03-24, 18:52:47](https://news.ycombinator.com/item?id=43464230) - [Internet Archive Europe – Bringing Collections to Life](https://www.internetarchive.eu/)
 * [2025-03-24, 18:48:34](https://news.ycombinator.com/item?id=43464193) - [Delete Your DNA from 23andMe](https://www.washingtonpost.com/technology/2025/03/24/23andme-dna-privacy-delete/)
 * [2025-03-24, 18:35:12](https://news.ycombinator.com/item?id=43464068) - [Qwen2.5-VL-32B: Smarter and Lighter](https://qwenlm.github.io/blog/qwen2.5-vl-32b/)
+* [2025-03-24, 18:34:44](https://news.ycombinator.com/item?id=43464061) - [Show HN: I built a command line ASCII logo SVG generator for laser cutting](https://github.com/ykhli/ascii-logo)
 * [2025-03-24, 18:34:31](https://news.ycombinator.com/item?id=43464054) - [23andMe Files for Bankruptcy, as CEO Anne Wojcicki Resigns](https://www.wsj.com/business/dna-testing-company-23andme-files-for-bankruptcy-announces-ceo-resignation-82ad1c45)
 * [2025-03-24, 18:07:04](https://news.ycombinator.com/item?id=43463779) - [First-of-its-kind trial enables paralysed man to stand via stem cell injection](https://www.nature.com/articles/d41586-025-00863-0?linkId=13622861)
 * [2025-03-24, 17:47:08](https://news.ycombinator.com/item?id=43463579) - [AI Reveals Secrets of Dendritic Growth in Thin Films](https://www.tus.ac.jp/en/mediarelations/archive/20250320_5263.html)
