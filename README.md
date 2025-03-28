@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-28, 16:27:44](https://news.ycombinator.com/item?id=43507286) - [How Kerala Got Rich](https://aeon.co/essays/how-did-kerala-go-from-poor-to-prosperous-among-indias-states)
 * [2025-03-28, 16:15:19](https://news.ycombinator.com/item?id=43507176) - [2,200-year-old pyramid filled with coins and weapons found near Dead Sea](https://www.livescience.com/archaeology/2-200-year-old-mysterious-pyramid-structure-filled-with-coins-and-weapons-found-near-dead-sea)
 * [2025-03-28, 15:22:36](https://news.ycombinator.com/item?id=43506574) - [Disk I/O bottlenecks in GitHub Actions](https://depot.dev/blog/uncovering-disk-io-bottlenecks-github-actions-ci)
-* [2025-03-28, 15:00:00](https://news.ycombinator.com/item?id=43506310) - [The Pyrex Glass Controversy That Just Won't Die (2019)](https://gizmodo.com/the-pyrex-glass-controversy-that-just-wont-die-1833040962)
 * [2025-03-28, 14:55:54](https://news.ycombinator.com/item?id=43506238) - [Decomposing a Factorial into Large Factors](https://terrytao.wordpress.com/2025/03/26/decomposing-a-factorial-into-large-factors/)
 * [2025-03-28, 14:44:59](https://news.ycombinator.com/item?id=43506068) - [Show HN: Cursor IDE now remembers your coding prefs using MCP](https://news.ycombinator.com/item?id=43506068)
 * [2025-03-28, 14:18:28](https://news.ycombinator.com/item?id=43505748) - [The Biology of a Large Language Model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)
