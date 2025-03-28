@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-28, 09:32:04](https://news.ycombinator.com/item?id=43503265) - [7.7 magnitude earthquake hits Southeast Asia, affecting Myanmar and Thailand](https://twitter.com/TaraBull808/status/1905534938558157139)
 * [2025-03-28, 07:00:01](https://news.ycombinator.com/item?id=43502357) - [Software Eng Intern – Structured Labs (YC S23) Is Hiring](https://www.ycombinator.com/companies/structured-labs/jobs/MWU8Ws3-software-engineer-intern)
 * [2025-03-28, 06:07:39](https://news.ycombinator.com/item?id=43502037) - [Estimating Camera Motion from a Single Motion-Blurred Image](https://jerredchen.github.io/image-as-imu/)
 * [2025-03-28, 05:57:27](https://news.ycombinator.com/item?id=43501989) - [Architecture Patterns with Python](https://www.cosmicpython.com/book/preface.html)
@@ -13,7 +14,6 @@
 * [2025-03-27, 22:39:51](https://news.ycombinator.com/item?id=43499045) - [Most promoted and blocked domains on Kagi](https://kagi.com/stats?stat=leaderboard)
 * [2025-03-27, 22:32:45](https://news.ycombinator.com/item?id=43498984) - [Apple needs a Snow Sequoia](https://reviews.ofb.biz/safari/article/1300.html)
 * [2025-03-27, 22:03:03](https://news.ycombinator.com/item?id=43498696) - [Emacs Solo: A Surprise System Crafters Live Demo](https://www.rahuljuliato.com/posts/emacs-solo-demo)
-* [2025-03-27, 21:48:23](https://news.ycombinator.com/item?id=43498570) - [Asking good questions is harder than giving great answers](https://newsletter.dancohen.org/archive/asking-good-questions-is-harder-than-giving-great-answers/)
 * [2025-03-27, 21:37:46](https://news.ycombinator.com/item?id=43498481) - [Golang on the Playstation 2](https://rgsilva.com/blog/ps2-go-part-1/)
 * [2025-03-27, 21:22:42](https://news.ycombinator.com/item?id=43498338) - [I genuinely don't understand why some people are still bullish about LLMs](https://twitter.com/skdh/status/1905132853672784121)
 * [2025-03-27, 20:51:42](https://news.ycombinator.com/item?id=43498031) - [Show HN: We are building the next DocuSign](https://sgnly.com)
