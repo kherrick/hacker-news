@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-28, 22:46:43](https://news.ycombinator.com/item?id=43510710) - [Show HN: An Almost Free, Open Source TURN Server](https://github.com/lvidgen/WebRTC/blob/master/FOSS_TURN_Server/howto.md)
 * [2025-03-28, 21:37:21](https://news.ycombinator.com/item?id=43510036) - [DIY PTP Grandmaster Clock with a Raspberry Pi](https://www.jeffgeerling.com/blog/2025/diy-ptp-grandmaster-clock-raspberry-pi)
 * [2025-03-28, 21:23:42](https://news.ycombinator.com/item?id=43509923) - [xAI has acquired X, xAI now valued at $80B](https://twitter.com/elonmusk/status/1905731750275510312)
 * [2025-03-28, 21:01:49](https://news.ycombinator.com/item?id=43509782) - [Finley (YC W21) Is Hiring a Technical Implementations Specialist](https://ats.rippling.com/finley-technologies/jobs)
@@ -27,7 +28,6 @@
 * [2025-03-28, 11:01:19](https://news.ycombinator.com/item?id=43503872) - [How to write blog posts that developers read](https://refactoringenglish.com/chapters/write-blog-posts-developers-read/)
 * [2025-03-28, 06:48:18](https://news.ycombinator.com/item?id=43502291) - [Xee: A Modern XPath and XSLT Engine in Rust](https://blog.startifact.com/posts/xee/)
 * [2025-03-27, 13:51:44](https://news.ycombinator.com/item?id=43493665) - [Building a modern durable execution engine from first principles](https://restate.dev/blog/building-a-modern-durable-execution-engine-from-first-principles/)
-* [2025-03-25, 13:34:00](https://news.ycombinator.com/item?id=43471096) - [Framework 13 AMD Setup with FreeBSD](https://euroquis.nl/freebsd/2025/03/16/framework.html)
 * [2025-03-25, 12:20:28](https://news.ycombinator.com/item?id=43470337) - [Ask HN: can Wireless-CarPlay dongles steal your data?](https://news.ycombinator.com/item?id=43470337)
 * [2025-03-25, 09:55:21](https://news.ycombinator.com/item?id=43469535) - [Optimizing Matrix Multiplication on RDNA3](https://seb-v.github.io/optimization/update/2025/01/20/Fast-GPU-Matrix-multiplication.html)
 
