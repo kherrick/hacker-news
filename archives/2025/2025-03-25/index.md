@@ -13,6 +13,7 @@
 * [2025-03-25, 21:24:19](https://news.ycombinator.com/item?id=43476148) - [A majority of Swedes are open to boycotting American products](https://www.lunduniversity.lu.se/article/majority-swedes-are-open-boycotting-american-products)
 * [2025-03-25, 21:22:35](https://news.ycombinator.com/item?id=43476134) - [Optimizing ML Training with Metagradient Descent](https://arxiv.org/abs/2503.13751)
 * [2025-03-25, 21:07:40](https://news.ycombinator.com/item?id=43475982) - [The Curious Case of Beam CPU Usage (2019)](https://stressgrid.com/blog/beam_cpu_usage/)
+* [2025-03-25, 20:15:18](https://news.ycombinator.com/item?id=43475425) - [Portlander creates AI-powered device to monitor street health](https://bikeportland.org/2025/03/18/portlander-creates-ai-powered-device-to-monitor-street-health-393363)
 * [2025-03-25, 19:54:22](https://news.ycombinator.com/item?id=43475179) - [The Blood on the Keyboard](https://www.historynewsnetwork.org/article/blood-on-the-keyboard)
 * [2025-03-25, 19:11:13](https://news.ycombinator.com/item?id=43474707) - [Microsoft's many Outlooks are confusing users – including its own employees](https://www.theregister.com/2025/03/25/too_many_outlooks/)
 * [2025-03-25, 18:59:22](https://news.ycombinator.com/item?id=43474593) - [In Jail Without a Lawyer: How a Texas Town Fails Poor Defendants](https://www.nytimes.com/2025/03/25/us/maverick-county-texas-court-system.html)

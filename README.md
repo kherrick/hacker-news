@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-29, 18:49:57](https://news.ycombinator.com/item?id=43517613) - [Jeremy Howard taught AI and helped invent ChatGPT. He fears he's failed](https://www.abc.net.au/news/science/2023-11-15/jeremy-howard-taught-ai-to-the-world-and-helped-invent-chatgpt/103092474)
 * [2025-03-29, 18:48:44](https://news.ycombinator.com/item?id=43517603) - [Body Doubling](https://en.wikipedia.org/wiki/Body_doubling)
 * [2025-03-29, 18:45:09](https://news.ycombinator.com/item?id=43517590) - [When the physicists need burner phones, that's when you know America's changed](https://www.theguardian.com/us-news/2025/mar/29/when-the-physicists-need-burner-phones-thats-when-you-know-americas-changed)
 * [2025-03-29, 18:44:08](https://news.ycombinator.com/item?id=43517585) - [Free Output – AI output copyright status checker](https://freeoutput.org/)
@@ -27,6 +26,7 @@
 * [2025-03-26, 22:57:34](https://news.ycombinator.com/item?id=43488438) - [New open-source benchmark for real-time analytics applications](https://github.com/timescale/rtabench)
 * [2025-03-26, 14:43:37](https://news.ycombinator.com/item?id=43482792) - [Low responsiveness of ML models to critical or deteriorating health conditions](https://www.nature.com/articles/s43856-025-00775-0)
 * [2025-03-26, 08:07:20](https://news.ycombinator.com/item?id=43479906) - [Show HN: I implemented Snake in a tmux config file](https://willhbr.net/2025/03/20/snakes-in-a-pane/)
+* [2025-03-25, 20:15:18](https://news.ycombinator.com/item?id=43475425) - [Portlander creates AI-powered device to monitor street health](https://bikeportland.org/2025/03/18/portlander-creates-ai-powered-device-to-monitor-street-health-393363)
 * [2025-03-25, 14:39:52](https://news.ycombinator.com/item?id=43471907) - [Chimpanzees act as 'engineers', choosing materials to make tools](https://www.sciencedaily.com/releases/2025/03/250324142002.htm)
 * [2025-03-25, 14:34:17](https://news.ycombinator.com/item?id=43471838) - [Show HN: Bknd – Firebase alternative that embeds into any React stack](https://github.com/bknd-io/bknd)
 * [2025-03-25, 12:30:00](https://news.ycombinator.com/item?id=43470416) - [Playstation Mod Turns the PSOne into a Crustacean](https://gizmodo.com/the-carcinisation-of-playstation-is-complete-say-hello-to-playstacean-2000579934)
