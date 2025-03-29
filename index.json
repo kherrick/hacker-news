@@ -1,22 +1,22 @@
 [
   [
     [
-      "2025-03-29, 10:27:33",
-      "https://news.ycombinator.com/item?id=43514308"
-    ],
-    [
-      "Et Tu, Grammarly?",
-      "https://dbushell.com/2025/03/29/et-tu-grammarly/"
-    ]
-  ],
-  [
-    [
       "2025-03-29, 10:09:02",
       "https://news.ycombinator.com/item?id=43514230"
     ],
     [
       "Manjaro Linux: Making Arch Linux More Accessible",
       "https://manjaro.org/"
+    ]
+  ],
+  [
+    [
+      "2025-03-29, 10:05:07",
+      "https://news.ycombinator.com/item?id=43514206"
+    ],
+    [
+      "Show HN: Personal Time Tracking with Git",
+      "https://doocot.sh/blog/2025/03/28/time-tracking-with-git"
     ]
   ],
   [
@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-03-29, 08:39:57",
-      "https://news.ycombinator.com/item?id=43513850"
-    ],
-    [
-      "Scammers Steal $1T a Year – Mostly from Americans",
-      "https://www.wired.com/video/watch/incognito-mode-romance-scams"
-    ]
-  ],
-  [
-    [
       "2025-03-29, 08:29:27",
       "https://news.ycombinator.com/item?id=43513811"
     ],
@@ -95,7 +85,7 @@
       "https://news.ycombinator.com/item?id=43512657"
     ],
     [
-      "Self-Supervised Learning from Images with JEPA",
+      "Self-Supervised Learning from Images with JEPA (2023)",
       "https://arxiv.org/abs/2301.08243"
     ]
   ],
@@ -157,6 +147,16 @@
     [
       "xAI has acquired X, xAI now valued at $80B",
       "https://twitter.com/elonmusk/status/1905731750275510312"
+    ]
+  ],
+  [
+    [
+      "2025-03-28, 21:01:49",
+      "https://news.ycombinator.com/item?id=43509782"
+    ],
+    [
+      "Finley (YC W21) Is Hiring a Technical Implementations Specialist",
+      "https://ats.rippling.com/finley-technologies/jobs"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2025-03-25, 14:39:52",
+      "https://news.ycombinator.com/item?id=43471907"
+    ],
+    [
+      "Chimpanzees act as 'engineers', choosing materials to make tools",
+      "https://www.sciencedaily.com/releases/2025/03/250324142002.htm"
+    ]
+  ],
+  [
+    [
       "2025-03-25, 12:30:00",
       "https://news.ycombinator.com/item?id=43470416"
     ],
@@ -277,16 +287,6 @@
     [
       "Testing Without Mocks: A Pattern Language (2023)",
       "https://www.jamesshore.com/v2/projects/nullables/testing-without-mocks"
-    ]
-  ],
-  [
-    [
-      "2025-03-25, 09:55:21",
-      "https://news.ycombinator.com/item?id=43469535"
-    ],
-    [
-      "Optimizing Matrix Multiplication on RDNA3",
-      "https://seb-v.github.io/optimization/update/2025/01/20/Fast-GPU-Matrix-multiplication.html"
     ]
   ],
   [
