@@ -1,14 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-29, 23:19:43](https://news.ycombinator.com/item?id=43519650) - [Unsold Teslas in Aussie car park](https://au.news.yahoo.com/hundreds-of-teslas-in-aussie-car-park-exposes-grim-truth-for-elon-musk-20000-drop-214615846.html)
-* [2025-03-29, 22:52:55](https://news.ycombinator.com/item?id=43519459) - [Vibe Coding with Cursor](https://www.dolthub.com/blog/2025-03-29-vibin/)
 * [2025-03-29, 21:47:16](https://news.ycombinator.com/item?id=43518999) - [De-Atomization Is the Secret to Happiness](https://www.nateliason.com/blog/de-atomization-is-the-secret-to-happiness)
 * [2025-03-29, 21:34:02](https://news.ycombinator.com/item?id=43518917) - [Convert Linux to Windows](https://philipbohun.com/blog/0007.html)
 * [2025-03-29, 21:26:32](https://news.ycombinator.com/item?id=43518866) - [Everyone knows all the apps on your phone](https://peabee.substack.com/p/everyone-knows-what-apps-you-use)
 * [2025-03-29, 21:00:35](https://news.ycombinator.com/item?id=43518695) - [Spark AI (YC W24) Is Hiring a Full-Stack Engineer in San Francisco](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack)
 * [2025-03-29, 20:43:42](https://news.ycombinator.com/item?id=43518560) - [CVE-2025-31160 Atop 2.11 heap problems](https://openwall.com/lists/oss-security/2025/03/29/1)
 * [2025-03-29, 20:31:21](https://news.ycombinator.com/item?id=43518466) - [All of the Commercials That David Lynch Has Directed: A 30-Minute Compilation](https://www.openculture.com/2018/07/watch-commercials-david-lynch-directed-big-30-minute-compilation.html)
-* [2025-03-29, 20:04:43](https://news.ycombinator.com/item?id=43518251) - [Decline of cash credited for drop in surgery for children swallowing objects](https://www.theguardian.com/society/2025/mar/28/decline-of-cash-credited-for-drop-in-nhs-surgery-for-children-swallowing-objects)
 * [2025-03-29, 20:00:33](https://news.ycombinator.com/item?id=43518220) - [Matrix Calculus (For Machine Learning and Beyond)](https://arxiv.org/abs/2501.14787)
 * [2025-03-29, 19:45:46](https://news.ycombinator.com/item?id=43518087) - [The Candid Naivety of Geeks](https://ploum.net/2025-03-28-geeks-naivety.html)
 * [2025-03-29, 19:12:38](https://news.ycombinator.com/item?id=43517779) - [Beautiful and Minimalistic Chrome Extension](https://lofitab.com/)
@@ -29,7 +27,9 @@
 * [2025-03-29, 09:13:43](https://news.ycombinator.com/item?id=43513996) - [Postgres Language Server: Initial Release](https://github.com/supabase-community/postgres-language-server)
 * [2025-03-29, 03:55:02](https://news.ycombinator.com/item?id=43512589) - [Plain – a web framework for building products with Python](https://plainframework.com/)
 * [2025-03-27, 15:50:08](https://news.ycombinator.com/item?id=43494894) - [XAN: A Modern CSV-Centric Data Manipulation Toolkit for the Terminal](https://github.com/medialab/xan)
+* [2025-03-27, 12:51:43](https://news.ycombinator.com/item?id=43493072) - [How the Queen of England Beat Everyone to the Internet](https://www.wired.com/2012/12/queen-and-the-internet/)
 * [2025-03-26, 18:51:00](https://news.ycombinator.com/item?id=43485514) - [The disappearance of Gaia, ESA spacecraft will be turned off on 27 March 2025](https://www.cosmos.esa.int/web/gaia/news)
+* [2025-03-26, 08:07:20](https://news.ycombinator.com/item?id=43479906) - [Show HN: I implemented Snake in a tmux config file](https://willhbr.net/2025/03/20/snakes-in-a-pane/)
 
 ## [Archives](archives/index.md)
 

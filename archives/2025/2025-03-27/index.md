@@ -57,6 +57,7 @@
 * [2025-03-27, 13:18:52](https://news.ycombinator.com/item?id=43493313) - [What went wrong with the Alan Turing Institute?](https://www.chalmermagne.com/p/how-not-to-build-an-ai-institute)
 * [2025-03-27, 13:07:01](https://news.ycombinator.com/item?id=43493207) - [Crawl Order and Disorder](https://www.marginalia.nu/log/a_117_crawl_order/)
 * [2025-03-27, 13:01:31](https://news.ycombinator.com/item?id=43493159) - [A filmmaker and a crooked lawyer shattered Denmark's self-image](https://www.theguardian.com/world/2025/mar/27/black-swan-denmark-documentary-mads-brugger-amira-smajic)
+* [2025-03-27, 12:51:43](https://news.ycombinator.com/item?id=43493072) - [How the Queen of England Beat Everyone to the Internet](https://www.wired.com/2012/12/queen-and-the-internet/)
 * [2025-03-27, 12:49:44](https://news.ycombinator.com/item?id=43493056) - [Blasting Past WebP - An analysis of the NSO BLASTPASS iMessage exploit](https://googleprojectzero.blogspot.com/2025/03/blasting-past-webp.html)
 * [2025-03-27, 12:31:06](https://news.ycombinator.com/item?id=43492896) - [Show HN: StoffelVM – A WIP VM for Multiparty Computation](https://github.com/Stoffel-Labs/StoffelVM)
 * [2025-03-27, 12:00:10](https://news.ycombinator.com/item?id=43492680) - [Craniometrix (YC W22) Is Hiring](https://www.ycombinator.com/companies/craniometrix/jobs/ugwcSrU-chief-of-staff)
