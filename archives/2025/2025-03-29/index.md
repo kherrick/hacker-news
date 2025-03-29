@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-29](index.md)
 
+* [2025-03-29, 11:26:38](https://news.ycombinator.com/item?id=43514610) - [Where Do the Bytes Go?](https://flak.tedunangst.com/post/where-do-the-bytes-go)
 * [2025-03-29, 10:59:52](https://news.ycombinator.com/item?id=43514459) - [Building a search engine from scratch, in Rust: part 1](https://jdrouet.github.io/posts/202503170800-search-engine-part-1/)
 * [2025-03-29, 10:53:36](https://news.ycombinator.com/item?id=43514433) - [Andrej Karpathy on the State of Web Development](https://twitter.com/karpathy/status/1905051558783418370)
 * [2025-03-29, 10:42:26](https://news.ycombinator.com/item?id=43514383) - [Show HN: Physical Pomodoro Timer with ESP32 and e-paper screen](https://github.com/Rukenshia/pomodoro)
