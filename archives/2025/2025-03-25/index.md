@@ -99,6 +99,7 @@
 * [2025-03-25, 06:09:11](https://news.ycombinator.com/item?id=43468491) - [Reflecting on WikiTok](https://www.aizk.sh/posts/reflecting-on-wikitok)
 * [2025-03-25, 05:50:36](https://news.ycombinator.com/item?id=43468435) - [Why we chose LangGraph to build our coding agent](https://www.qodo.ai/blog/why-we-chose-langgraph-to-build-our-coding-agent/)
 * [2025-03-25, 04:47:47](https://news.ycombinator.com/item?id=43468197) - [David Lynch Presents Interview Project](https://www.youtube.com/channel/UC4lrTWEywA3JfR-N_dv0d4A)
+* [2025-03-25, 03:56:17](https://news.ycombinator.com/item?id=43467988) - [Noise cancellation improves turn-taking for AI Voice Agents](https://krisp.ai/blog/improving-turn-taking-of-ai-voice-agents-with-background-voice-cancellation/)
 * [2025-03-25, 03:38:59](https://news.ycombinator.com/item?id=43467911) - [White House Says Gold Reserves May Be Used to Purchase Bitcoin](https://finance.yahoo.com/news/white-house-says-gold-reserves-213421472.html)
 * [2025-03-25, 03:23:48](https://news.ycombinator.com/item?id=43467847) - [We're Still Not Done with Jesus](https://www.newyorker.com/magazine/2025/03/31/miracles-and-wonder-elaine-pagels-book-review-heretic-catherine-nixey)
 * [2025-03-25, 02:49:02](https://news.ycombinator.com/item?id=43467681) - [Chatbots could spark the next big mental health crisis](https://www.platformer.news/openai-chatgpt-mental-health-well-being/)

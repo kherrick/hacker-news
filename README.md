@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-28, 23:41:01](https://news.ycombinator.com/item?id=43511073) - [Windows 11 is closing a loophole that let you skip making a Microsoft account](https://www.theverge.com/news/638967/microsoft-windows-11-account-internet-bypass-blocked)
-* [2025-03-28, 23:31:24](https://news.ycombinator.com/item?id=43511019) - [Volvo Tells Plug-In Hybrid Owners to Stop Charging](https://www.carscoops.com/2025/03/volvo-recalling-thousands-of-plug-in-hybrids-over-fire-risk/)
 * [2025-03-28, 23:08:41](https://news.ycombinator.com/item?id=43510870) - [2025 Tariff Impacts at Puget Systems](https://www.pugetsystems.com/blog/2025/03/28/2025-tariff-impacts-at-puget-systems/)
 * [2025-03-28, 22:46:43](https://news.ycombinator.com/item?id=43510710) - [Show HN: An Almost Free, Open Source TURN Server](https://github.com/lvidgen/WebRTC/blob/master/FOSS_TURN_Server/howto.md)
 * [2025-03-28, 21:37:21](https://news.ycombinator.com/item?id=43510036) - [DIY PTP Grandmaster Clock with a Raspberry Pi](https://www.jeffgeerling.com/blog/2025/diy-ptp-grandmaster-clock-raspberry-pi)
@@ -29,6 +28,7 @@
 * [2025-03-27, 13:51:44](https://news.ycombinator.com/item?id=43493665) - [Building a modern durable execution engine from first principles](https://restate.dev/blog/building-a-modern-durable-execution-engine-from-first-principles/)
 * [2025-03-25, 12:20:28](https://news.ycombinator.com/item?id=43470337) - [Ask HN: can Wireless-CarPlay dongles steal your data?](https://news.ycombinator.com/item?id=43470337)
 * [2025-03-25, 09:55:21](https://news.ycombinator.com/item?id=43469535) - [Optimizing Matrix Multiplication on RDNA3](https://seb-v.github.io/optimization/update/2025/01/20/Fast-GPU-Matrix-multiplication.html)
+* [2025-03-25, 03:56:17](https://news.ycombinator.com/item?id=43467988) - [Noise cancellation improves turn-taking for AI Voice Agents](https://krisp.ai/blog/improving-turn-taking-of-ai-voice-agents-with-background-voice-cancellation/)
 * [2025-03-25, 01:17:35](https://news.ycombinator.com/item?id=43467181) - [Plasmonic Modulators Can Break the Wireless Terahertz Barrier](https://spectrum.ieee.org/terahertz-waves-2671362433)
 
 ## [Archives](archives/index.md)
