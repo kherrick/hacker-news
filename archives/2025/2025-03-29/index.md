@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-29](index.md)
 
+* [2025-03-29, 23:19:43](https://news.ycombinator.com/item?id=43519650) - [Unsold Teslas in Aussie car park](https://au.news.yahoo.com/hundreds-of-teslas-in-aussie-car-park-exposes-grim-truth-for-elon-musk-20000-drop-214615846.html)
+* [2025-03-29, 22:52:55](https://news.ycombinator.com/item?id=43519459) - [Vibe Coding with Cursor](https://www.dolthub.com/blog/2025-03-29-vibin/)
 * [2025-03-29, 21:47:16](https://news.ycombinator.com/item?id=43518999) - [De-Atomization Is the Secret to Happiness](https://www.nateliason.com/blog/de-atomization-is-the-secret-to-happiness)
 * [2025-03-29, 21:34:02](https://news.ycombinator.com/item?id=43518917) - [Convert Linux to Windows](https://philipbohun.com/blog/0007.html)
 * [2025-03-29, 21:26:32](https://news.ycombinator.com/item?id=43518866) - [Everyone knows all the apps on your phone](https://peabee.substack.com/p/everyone-knows-what-apps-you-use)
