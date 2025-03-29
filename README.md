@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-29, 13:17:31](https://news.ycombinator.com/item?id=43515294) - [International students wake to an email asking them to self deport](https://timesofindia.indiatimes.com/world/us/hundreds-of-international-students-are-waking-up-to-an-email-asking-them-to-self-deport-for-campus-activism-or-even-sharing-posts-on-social-media/articleshow/119679695.cms)
-* [2025-03-29, 13:13:42](https://news.ycombinator.com/item?id=43515268) - [The Design of the New Swiss Passport](https://kottke.org/25/03/the-design-of-the-new-swiss-passport)
 * [2025-03-29, 12:57:05](https://news.ycombinator.com/item?id=43515169) - [Therapy chatbot trial yields mental health benefits](https://home.dartmouth.edu/news/2025/03/first-therapy-chatbot-trial-yields-mental-health-benefits)
 * [2025-03-29, 12:14:48](https://news.ycombinator.com/item?id=43514915) - [Koto Programming Language](https://koto.dev/)
 * [2025-03-29, 11:45:38](https://news.ycombinator.com/item?id=43514717) - [The Real Story Behind Sam Altman’s Firing From OpenAI](https://www.wsj.com/tech/ai/the-real-story-behind-sam-altman-firing-from-openai-efd51a5d)
@@ -19,8 +17,9 @@
 * [2025-03-28, 16:39:10](https://news.ycombinator.com/item?id=43507404) - [The Real Book (2021)](https://99percentinvisible.org/episode/the-real-book/)
 * [2025-03-28, 15:55:17](https://news.ycombinator.com/item?id=43506951) - [Show HN Pianoboi – displays sheet music as you play your piano](https://pianoboi.site)
 * [2025-03-28, 14:55:54](https://news.ycombinator.com/item?id=43506238) - [Decomposing a Factorial into Large Factors](https://terrytao.wordpress.com/2025/03/26/decomposing-a-factorial-into-large-factors/)
+* [2025-03-28, 14:11:07](https://news.ycombinator.com/item?id=43505646) - [Building Statically Linked Go Executables with CGO and Zig](https://calabro.io/zig-cgo)
 * [2025-03-28, 11:01:19](https://news.ycombinator.com/item?id=43503872) - [How to write blog posts that developers read](https://refactoringenglish.com/chapters/write-blog-posts-developers-read/)
-* [2025-03-27, 22:32:45](https://news.ycombinator.com/item?id=43498984) - [Apple needs a Snow Sequoia](https://reviews.ofb.biz/safari/article/1300.html)
+* [2025-03-28, 06:48:18](https://news.ycombinator.com/item?id=43502291) - [Xee: A Modern XPath and XSLT Engine in Rust](https://blog.startifact.com/posts/xee/)
 * [2025-03-26, 18:38:14](https://news.ycombinator.com/item?id=43485373) - [You Need Subtyping](https://blog.polybdenum.com/2025/03/26/why-you-need-subtyping.html)
 * [2025-03-26, 14:43:37](https://news.ycombinator.com/item?id=43482792) - [Low responsiveness of ML models to critical or deteriorating health conditions](https://www.nature.com/articles/s43856-025-00775-0)
 * [2025-03-26, 04:08:45](https://news.ycombinator.com/item?id=43478789) - [Conquest of the Incas](https://mattlakeman.org/2025/03/24/conquest-of-the-incas/)
@@ -30,6 +29,7 @@
 * [2025-03-25, 12:30:00](https://news.ycombinator.com/item?id=43470416) - [Playstation Mod Turns the PSOne into a Crustacean](https://gizmodo.com/the-carcinisation-of-playstation-is-complete-say-hello-to-playstacean-2000579934)
 * [2025-03-25, 12:00:56](https://news.ycombinator.com/item?id=43470192) - [Testing Without Mocks: A Pattern Language (2023)](https://www.jamesshore.com/v2/projects/nullables/testing-without-mocks)
 * [2025-03-25, 09:55:21](https://news.ycombinator.com/item?id=43469535) - [Optimizing Matrix Multiplication on RDNA3](https://seb-v.github.io/optimization/update/2025/01/20/Fast-GPU-Matrix-multiplication.html)
+* [2025-03-25, 03:56:17](https://news.ycombinator.com/item?id=43467988) - [Noise cancellation improves turn-taking for AI Voice Agents](https://krisp.ai/blog/improving-turn-taking-of-ai-voice-agents-with-background-voice-cancellation/)
 
 ## [Archives](archives/index.md)
 
