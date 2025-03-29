@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-03-29](index.md)
 
+* [2025-03-29, 16:38:01](https://news.ycombinator.com/item?id=43516733) - [Accessible open textbooks in math-heavy disciplines](https://richardzach.org/2025/03/accessible-open-textbooks-in-math-heavy-disciplines/)
 * [2025-03-29, 16:01:22](https://news.ycombinator.com/item?id=43516506) - [The Matrix Calculus You Need for Deep Learning](https://explained.ai/matrix-calculus/)
 * [2025-03-29, 15:58:09](https://news.ycombinator.com/item?id=43516482) - [New Windows 11 build makes mandatory Microsoft sign-in even more mandatory](https://arstechnica.com/gadgets/2025/03/new-windows-11-build-makes-mandatory-microsoft-account-sign-in-even-more-mandatory/)
+* [2025-03-29, 14:24:45](https://news.ycombinator.com/item?id=43515812) - [ASML's boss has a warning for Europe](https://www.economist.com/business/2025/03/25/asmls-boss-has-a-warning-for-europe)
 * [2025-03-29, 13:53:31](https://news.ycombinator.com/item?id=43515563) - [Why I'm No Longer Talking to Architects About Microservices](https://blog.container-solutions.com/why-im-no-longer-talking-to-architects-about-microservices)
 * [2025-03-29, 13:17:31](https://news.ycombinator.com/item?id=43515294) - [International students wake to an email asking them to self deport](https://timesofindia.indiatimes.com/world/us/hundreds-of-international-students-are-waking-up-to-an-email-asking-them-to-self-deport-for-campus-activism-or-even-sharing-posts-on-social-media/articleshow/119679695.cms)
 * [2025-03-29, 13:13:42](https://news.ycombinator.com/item?id=43515268) - [The Design of the New Swiss Passport](https://kottke.org/25/03/the-design-of-the-new-swiss-passport)
