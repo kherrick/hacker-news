@@ -40,6 +40,7 @@
 * [2025-03-25, 15:05:58](https://news.ycombinator.com/item?id=43472239) - [Show HN: Generate docs from your public repos](https://app.docs.dev/generate-docs-instantly)
 * [2025-03-25, 14:57:59](https://news.ycombinator.com/item?id=43472143) - [My Favorite C++ Pattern: X Macros (2023)](https://danilafe.com/blog/chapel_x_macros/)
 * [2025-03-25, 14:42:21](https://news.ycombinator.com/item?id=43471939) - [Show HN: Feudle – a daily puzzle game built with AI](https://feudlegame.com)
+* [2025-03-25, 14:39:52](https://news.ycombinator.com/item?id=43471907) - [Chimpanzees act as 'engineers', choosing materials to make tools](https://www.sciencedaily.com/releases/2025/03/250324142002.htm)
 * [2025-03-25, 14:04:31](https://news.ycombinator.com/item?id=43471482) - [Chrono Trigger Still Blows Me Away 30 Years Later](https://kotaku.com/chrono-trigger-jrpg-snes-30th-anniversary-square-1851769192)
 * [2025-03-25, 13:58:07](https://news.ycombinator.com/item?id=43471393) - [Beej's Guide to C Programming [pdf]](https://beej.us/guide/bgc/pdf/bgc_a4_c_1.pdf)
 * [2025-03-25, 13:46:49](https://news.ycombinator.com/item?id=43471242) - [Tokyo court orders former Unification Church to disban](https://www3.nhk.or.jp/nhkworld/en/news/20250325_13/)

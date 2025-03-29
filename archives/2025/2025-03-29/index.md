@@ -6,6 +6,7 @@
 
 * [2025-03-29, 10:27:33](https://news.ycombinator.com/item?id=43514308) - [Et Tu, Grammarly?](https://dbushell.com/2025/03/29/et-tu-grammarly/)
 * [2025-03-29, 10:09:02](https://news.ycombinator.com/item?id=43514230) - [Manjaro Linux: Making Arch Linux More Accessible](https://manjaro.org/)
+* [2025-03-29, 10:05:07](https://news.ycombinator.com/item?id=43514206) - [Show HN: Personal Time Tracking with Git](https://doocot.sh/blog/2025/03/28/time-tracking-with-git)
 * [2025-03-29, 09:47:04](https://news.ycombinator.com/item?id=43514141) - [AI Accent Conversion for call centers](https://krisp.ai/accent-conversion/)
 * [2025-03-29, 09:35:01](https://news.ycombinator.com/item?id=43514087) - [Today Google bricked my Chromebook by force-installing a hidden extension](https://cloudisland.nz/@rmi/114219847307106213)
 * [2025-03-29, 09:28:47](https://news.ycombinator.com/item?id=43514063) - [PCIe Endpoint on Xilinx 7-Series FPGAs with PCIe_2_1 Hard Block and GTP](https://github.com/regymm/pcie_7x)
