@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-03-29, 10:59:52",
-      "https://news.ycombinator.com/item?id=43514459"
-    ],
-    [
-      "Building a search engine from scratch, in Rust: part 1",
-      "https://jdrouet.github.io/posts/202503170800-search-engine-part-1/"
-    ]
-  ],
-  [
-    [
       "2025-03-29, 10:42:26",
       "https://news.ycombinator.com/item?id=43514383"
     ],
@@ -187,6 +177,16 @@
     [
       "How to write blog posts that developers read",
       "https://refactoringenglish.com/chapters/write-blog-posts-developers-read/"
+    ]
+  ],
+  [
+    [
+      "2025-03-28, 06:48:18",
+      "https://news.ycombinator.com/item?id=43502291"
+    ],
+    [
+      "Xee: A Modern XPath and XSLT Engine in Rust",
+      "https://blog.startifact.com/posts/xee/"
     ]
   ],
   [
