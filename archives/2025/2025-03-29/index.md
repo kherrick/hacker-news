@@ -6,6 +6,7 @@
 
 * [2025-03-29, 09:47:04](https://news.ycombinator.com/item?id=43514141) - [AI Accent Conversion for call centers](https://krisp.ai/accent-conversion/)
 * [2025-03-29, 09:35:01](https://news.ycombinator.com/item?id=43514087) - [Today Google bricked my Chromebook by force-installing a hidden extension](https://cloudisland.nz/@rmi/114219847307106213)
+* [2025-03-29, 09:28:47](https://news.ycombinator.com/item?id=43514063) - [PCIe Endpoint on Xilinx 7-Series FPGAs with PCIe_2_1 Hard Block and GTP](https://github.com/regymm/pcie_7x)
 * [2025-03-29, 09:13:43](https://news.ycombinator.com/item?id=43513996) - [Postgres Language Server: Initial Release](https://github.com/supabase-community/postgres-language-server)
 * [2025-03-29, 08:39:57](https://news.ycombinator.com/item?id=43513850) - [Scammers Steal $1T a Year – Mostly from Americans](https://www.wired.com/video/watch/incognito-mode-romance-scams)
 * [2025-03-29, 08:29:27](https://news.ycombinator.com/item?id=43513811) - [Trump's attacks on universities get darker, with shadows reaching our shores](https://christinapagel.substack.com/p/trumps-attacks-on-universities-get)
