@@ -22,6 +22,7 @@
 * [2025-03-26, 19:00:46](https://news.ycombinator.com/item?id=43485649) - [Airline Demand Between Canada and United States Collapses, Down 70%+](https://onemileatatime.com/news/airline-demand-canada-united-states-collapses/)
 * [2025-03-26, 18:56:01](https://news.ycombinator.com/item?id=43485577) - [Tufts student: Video shows masked agents arresting Rumeysa Ozturk](https://www.bostonglobe.com/2025/03/26/metro/tufts-student-video-shows-arrest/)
 * [2025-03-26, 18:55:29](https://news.ycombinator.com/item?id=43485566) - [OpenAI adds MCP support to Agents SDK](https://openai.github.io/openai-agents-python/mcp/)
+* [2025-03-26, 18:51:00](https://news.ycombinator.com/item?id=43485514) - [The disappearance of Gaia, ESA spacecraft will be turned off on 27 March 2025](https://www.cosmos.esa.int/web/gaia/news)
 * [2025-03-26, 18:38:14](https://news.ycombinator.com/item?id=43485373) - [You Need Subtyping](https://blog.polybdenum.com/2025/03/26/why-you-need-subtyping.html)
 * [2025-03-26, 18:29:27](https://news.ycombinator.com/item?id=43485269) - [OpenAI Is Adopting MCP](https://twitter.com/OpenAIDevs/status/1904957755829481737)
 * [2025-03-26, 18:27:12](https://news.ycombinator.com/item?id=43485242) - [The theft and recovery of a grisaille by Anthony Van Dyck (1599–1641)](https://britishartjournal.co.uk/recovery-of-a-stolen-van-dyck/)
