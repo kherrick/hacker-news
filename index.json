@@ -1,22 +1,32 @@
 [
   [
     [
-      "2025-03-28, 23:41:01",
-      "https://news.ycombinator.com/item?id=43511073"
+      "2025-03-29, 01:02:33",
+      "https://news.ycombinator.com/item?id=43511742"
     ],
     [
-      "Windows 11 is closing a loophole that let you skip making a Microsoft account",
-      "https://www.theverge.com/news/638967/microsoft-windows-11-account-internet-bypass-blocked"
+      "Show HN: Multi UPS SNMP based shutdown",
+      "https://nupst.serve.zone"
     ]
   ],
   [
     [
-      "2025-03-28, 23:08:41",
-      "https://news.ycombinator.com/item?id=43510870"
+      "2025-03-29, 00:38:44",
+      "https://news.ycombinator.com/item?id=43511586"
     ],
     [
-      "2025 Tariff Impacts at Puget Systems",
-      "https://www.pugetsystems.com/blog/2025/03/28/2025-tariff-impacts-at-puget-systems/"
+      "NSA F9T53 Opsec Special Bulletin: Signal Vulnerability",
+      "https://www.scribd.com/document/843124910/NSA-full"
+    ]
+  ],
+  [
+    [
+      "2025-03-29, 00:22:21",
+      "https://news.ycombinator.com/item?id=43511464"
+    ],
+    [
+      "iCloud Mail has DNS misconfigured",
+      "https://www.mail-tester.com/test-p3tdhnk3o"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "Finley (YC W21) Is Hiring a Technical Implementations Specialist",
       "https://ats.rippling.com/finley-technologies/jobs"
-    ]
-  ],
-  [
-    [
-      "2025-03-28, 20:48:00",
-      "https://news.ycombinator.com/item?id=43509679"
-    ],
-    [
-      "FDIC says banks can engage in crypto activities without prior approval",
-      "https://www.reuters.com/business/finance/fdic-says-banks-can-engage-crypto-activities-without-prior-approval-2025-03-28/"
     ]
   ],
   [
@@ -137,16 +137,6 @@
     [
       "Show HN: Hexi – Modern header-only network binary serialisation for C++",
       "https://github.com/EmberEmu/Hexi"
-    ]
-  ],
-  [
-    [
-      "2025-03-28, 17:06:56",
-      "https://news.ycombinator.com/item?id=43507758"
-    ],
-    [
-      "SignalBotOne – Notification Webhooks for Signal",
-      "https://signalbot.one/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Ask HN: can Wireless-CarPlay dongles steal your data?",
       "https://news.ycombinator.com/item?id=43470337"
+    ]
+  ],
+  [
+    [
+      "2025-03-25, 12:00:56",
+      "https://news.ycombinator.com/item?id=43470192"
+    ],
+    [
+      "Testing Without Mocks: A Pattern Language (2023)",
+      "https://www.jamesshore.com/v2/projects/nullables/testing-without-mocks"
     ]
   ],
   [
