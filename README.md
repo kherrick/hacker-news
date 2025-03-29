@@ -2,6 +2,7 @@
 
 * [2025-03-29, 04:11:45](https://news.ycombinator.com/item?id=43512657) - [Self-Supervised Learning from Images with JEPA](https://arxiv.org/abs/2301.08243)
 * [2025-03-29, 03:55:02](https://news.ycombinator.com/item?id=43512589) - [Plain – a web framework for building products with Python](https://plainframework.com/)
+* [2025-03-29, 03:43:58](https://news.ycombinator.com/item?id=43512539) - [Pentagon to Remove Enola Gay](https://www.nbcwashington.com/news/national-international/war-heroes-and-military-firsts-are-among-26000-images-flagged-for-removal-in-pentagons-dei-purge/3861030/)
 * [2025-03-29, 01:02:33](https://news.ycombinator.com/item?id=43511742) - [Show HN: Multi UPS SNMP based shutdown](https://nupst.serve.zone)
 * [2025-03-29, 00:22:21](https://news.ycombinator.com/item?id=43511464) - [iCloud Mail has DNS misconfigured?](https://www.mail-tester.com/test-p3tdhnk3o)
 * [2025-03-29, 00:08:15](https://news.ycombinator.com/item?id=43511340) - [Madison Square Garden's surveillance banned this fan over his T-shirt design](https://www.theverge.com/news/637228/madison-square-garden-james-dolan-facial-recognition-fan-ban)
@@ -10,7 +11,6 @@
 * [2025-03-28, 21:23:42](https://news.ycombinator.com/item?id=43509923) - [xAI has acquired X, xAI now valued at $80B](https://twitter.com/elonmusk/status/1905731750275510312)
 * [2025-03-28, 21:01:49](https://news.ycombinator.com/item?id=43509782) - [Finley (YC W21) Is Hiring a Technical Implementations Specialist](https://ats.rippling.com/finley-technologies/jobs)
 * [2025-03-28, 20:29:32](https://news.ycombinator.com/item?id=43509548) - [Digital Echoes and Unquiet Minds](https://www.chrbutler.com/digital-echoes-and-unquiet-minds)
-* [2025-03-28, 20:29:21](https://news.ycombinator.com/item?id=43509546) - [Swiftly 1.0](https://swift.org/blog/introducing-swiftly_10/)
 * [2025-03-28, 19:22:14](https://news.ycombinator.com/item?id=43509061) - [The Art of DJing: Avalon Emerson (2019)](https://it.ra.co/features/3392)
 * [2025-03-28, 18:12:58](https://news.ycombinator.com/item?id=43508418) - [We hacked Gemini's Python sandbox and leaked its source code (at least some)](https://www.landh.tech/blog/20250327-we-hacked-gemini-source-code/)
 * [2025-03-28, 17:37:42](https://news.ycombinator.com/item?id=43508061) - [Show HN: Hexi – Modern header-only network binary serialisation for C++](https://github.com/EmberEmu/Hexi)
