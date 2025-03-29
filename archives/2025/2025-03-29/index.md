@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-29](index.md)
 
+* [2025-03-29, 08:39:57](https://news.ycombinator.com/item?id=43513850) - [Scammers Steal $1T a Year – Mostly from Americans](https://www.wired.com/video/watch/incognito-mode-romance-scams)
 * [2025-03-29, 06:58:08](https://news.ycombinator.com/item?id=43513397) - [Mathematical Compact Models of Advanced Transistors [pdf]](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-24.pdf)
 * [2025-03-29, 04:13:04](https://news.ycombinator.com/item?id=43512660) - [Upcoming Windows 11 builds cannot install without internet and Microsoft Account](https://infosec.exchange/@wdormann/114242475168860209)
 * [2025-03-29, 04:11:45](https://news.ycombinator.com/item?id=43512657) - [Self-Supervised Learning from Images with JEPA](https://arxiv.org/abs/2301.08243)

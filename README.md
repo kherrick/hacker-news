@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-29, 08:39:57](https://news.ycombinator.com/item?id=43513850) - [Scammers Steal $1T a Year – Mostly from Americans](https://www.wired.com/video/watch/incognito-mode-romance-scams)
 * [2025-03-29, 06:58:08](https://news.ycombinator.com/item?id=43513397) - [Mathematical Compact Models of Advanced Transistors [pdf]](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-24.pdf)
 * [2025-03-29, 04:13:04](https://news.ycombinator.com/item?id=43512660) - [Upcoming Windows 11 builds cannot install without internet and Microsoft Account](https://infosec.exchange/@wdormann/114242475168860209)
 * [2025-03-29, 04:11:45](https://news.ycombinator.com/item?id=43512657) - [Self-Supervised Learning from Images with JEPA](https://arxiv.org/abs/2301.08243)
@@ -18,7 +19,6 @@
 * [2025-03-28, 14:55:54](https://news.ycombinator.com/item?id=43506238) - [Decomposing a Factorial into Large Factors](https://terrytao.wordpress.com/2025/03/26/decomposing-a-factorial-into-large-factors/)
 * [2025-03-28, 13:40:41](https://news.ycombinator.com/item?id=43505334) - [The Biology of B-Movie Monsters (2003)](https://fathom.lib.uchicago.edu/2/21701757/)
 * [2025-03-28, 12:14:06](https://news.ycombinator.com/item?id=43504413) - [I asked police to send me their public surveillance footage of my car](https://cardinalnews.org/2025/03/28/i-drove-300-miles-in-rural-virginia-then-asked-police-to-send-me-their-public-surveillance-footage-of-my-car-heres-what-i-learned/)
-* [2025-03-28, 11:04:40](https://news.ycombinator.com/item?id=43503897) - [MilliForth-6502: The smallest Forth real programming language for 6502](https://github.com/agsb/milliForth-6502)
 * [2025-03-28, 11:01:19](https://news.ycombinator.com/item?id=43503872) - [How to write blog posts that developers read](https://refactoringenglish.com/chapters/write-blog-posts-developers-read/)
 * [2025-03-28, 06:48:18](https://news.ycombinator.com/item?id=43502291) - [Xee: A Modern XPath and XSLT Engine in Rust](https://blog.startifact.com/posts/xee/)
 * [2025-03-26, 18:27:12](https://news.ycombinator.com/item?id=43485242) - [The theft and recovery of a grisaille by Anthony Van Dyck (1599–1641)](https://britishartjournal.co.uk/recovery-of-a-stolen-van-dyck/)
