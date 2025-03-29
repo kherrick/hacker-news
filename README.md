@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-29, 23:19:43](https://news.ycombinator.com/item?id=43519650) - [Unsold Teslas in Aussie car park](https://au.news.yahoo.com/hundreds-of-teslas-in-aussie-car-park-exposes-grim-truth-for-elon-musk-20000-drop-214615846.html)
+* [2025-03-29, 21:58:42](https://news.ycombinator.com/item?id=43519100) - [\"Moonshots\" Initiative to Secure the Future of RISC OS](https://www.riscosopen.org/news/articles/2025/03/28/moonshots-initiative-to-secure-the-future-of-the-os)
 * [2025-03-29, 21:47:16](https://news.ycombinator.com/item?id=43518999) - [De-Atomization Is the Secret to Happiness](https://www.nateliason.com/blog/de-atomization-is-the-secret-to-happiness)
 * [2025-03-29, 21:34:02](https://news.ycombinator.com/item?id=43518917) - [Convert Linux to Windows](https://philipbohun.com/blog/0007.html)
 * [2025-03-29, 21:26:32](https://news.ycombinator.com/item?id=43518866) - [Everyone knows all the apps on your phone](https://peabee.substack.com/p/everyone-knows-what-apps-you-use)
@@ -29,7 +30,6 @@
 * [2025-03-27, 15:50:08](https://news.ycombinator.com/item?id=43494894) - [XAN: A Modern CSV-Centric Data Manipulation Toolkit for the Terminal](https://github.com/medialab/xan)
 * [2025-03-27, 12:51:43](https://news.ycombinator.com/item?id=43493072) - [How the Queen of England Beat Everyone to the Internet](https://www.wired.com/2012/12/queen-and-the-internet/)
 * [2025-03-26, 18:51:00](https://news.ycombinator.com/item?id=43485514) - [The disappearance of Gaia, ESA spacecraft will be turned off on 27 March 2025](https://www.cosmos.esa.int/web/gaia/news)
-* [2025-03-26, 08:07:20](https://news.ycombinator.com/item?id=43479906) - [Show HN: I implemented Snake in a tmux config file](https://willhbr.net/2025/03/20/snakes-in-a-pane/)
 
 ## [Archives](archives/index.md)
 
