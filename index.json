@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-03-29, 22:52:55",
-      "https://news.ycombinator.com/item?id=43519459"
-    ],
-    [
-      "Vibe Coding with Cursor",
-      "https://www.dolthub.com/blog/2025-03-29-vibin/"
-    ]
-  ],
-  [
-    [
       "2025-03-29, 21:47:16",
       "https://news.ycombinator.com/item?id=43518999"
     ],
@@ -77,16 +67,6 @@
     [
       "All of the Commercials That David Lynch Has Directed: A 30-Minute Compilation",
       "https://www.openculture.com/2018/07/watch-commercials-david-lynch-directed-big-30-minute-compilation.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-29, 20:04:43",
-      "https://news.ycombinator.com/item?id=43518251"
-    ],
-    [
-      "Decline of cash credited for drop in surgery for children swallowing objects",
-      "https://www.theguardian.com/society/2025/mar/28/decline-of-cash-credited-for-drop-in-nhs-surgery-for-children-swallowing-objects"
     ]
   ],
   [
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2025-03-27, 12:51:43",
+      "https://news.ycombinator.com/item?id=43493072"
+    ],
+    [
+      "How the Queen of England Beat Everyone to the Internet",
+      "https://www.wired.com/2012/12/queen-and-the-internet/"
+    ]
+  ],
+  [
+    [
       "2025-03-26, 18:51:00",
       "https://news.ycombinator.com/item?id=43485514"
     ],
     [
       "The disappearance of Gaia, ESA spacecraft will be turned off on 27 March 2025",
       "https://www.cosmos.esa.int/web/gaia/news"
+    ]
+  ],
+  [
+    [
+      "2025-03-26, 08:07:20",
+      "https://news.ycombinator.com/item?id=43479906"
+    ],
+    [
+      "Show HN: I implemented Snake in a tmux config file",
+      "https://willhbr.net/2025/03/20/snakes-in-a-pane/"
     ]
   ]
 ]
