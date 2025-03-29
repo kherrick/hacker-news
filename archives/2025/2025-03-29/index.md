@@ -8,3 +8,4 @@
 * [2025-03-29, 01:02:33](https://news.ycombinator.com/item?id=43511742) - [Show HN: Multi UPS SNMP based shutdown](https://nupst.serve.zone)
 * [2025-03-29, 00:38:44](https://news.ycombinator.com/item?id=43511586) - [NSA F9T53 Opsec Special Bulletin: Signal Vulnerability](https://www.scribd.com/document/843124910/NSA-full)
 * [2025-03-29, 00:22:21](https://news.ycombinator.com/item?id=43511464) - [iCloud Mail has DNS misconfigured](https://www.mail-tester.com/test-p3tdhnk3o)
+* [2025-03-29, 00:08:15](https://news.ycombinator.com/item?id=43511340) - [Madison Square Garden's surveillance banned this fan over his T-shirt design](https://www.theverge.com/news/637228/madison-square-garden-james-dolan-facial-recognition-fan-ban)

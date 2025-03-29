@@ -79,6 +79,7 @@
 * [2025-03-25, 10:39:18](https://news.ycombinator.com/item?id=43469727) - [The Hartlib Papers](https://www.dhi.ac.uk/hartlib/)
 * [2025-03-25, 10:34:23](https://news.ycombinator.com/item?id=43469711) - [Closing Keynote with Leslie Lamport at Scale 22x: Coding Isn't Programming](https://www.socallinuxexpo.org/scale/22x/presentations/closing-keynote-leslie-lamport)
 * [2025-03-25, 10:28:22](https://news.ycombinator.com/item?id=43469690) - [The Great Barefoot Running Hysteria of 2010](https://runningshoescore.com/blog/barefoot-running-hysteria-of-2010)
+* [2025-03-25, 10:25:38](https://news.ycombinator.com/item?id=43469679) - [DIY Acoustic Camera using miniDSP UMA-16 (2021)](https://navat.substack.com/p/diy-acoustic-camera-using-uma-16)
 * [2025-03-25, 10:20:37](https://news.ycombinator.com/item?id=43469661) - [High‑dose Vitamin D reduces disease activity in early multiple sclerosis onset](https://medicalxpress.com/news/2025-03-highdose-vitamin-d-significantly-disease.html)
 * [2025-03-25, 10:12:17](https://news.ycombinator.com/item?id=43469629) - [9.8 Critical Vulnerabilities in Ingress Nginx](https://www.wiz.io/blog/ingress-nginx-kubernetes-vulnerabilities)
 * [2025-03-25, 09:59:58](https://news.ycombinator.com/item?id=43469565) - [Closing the Chapter on OpenH264](https://bbhtt.space/posts/closing-the-chapter-on-openh264/)
