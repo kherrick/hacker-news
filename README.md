@@ -9,7 +9,6 @@
 * [2025-03-29, 20:04:43](https://news.ycombinator.com/item?id=43518251) - [Decline of cash credited for drop in surgery for children swallowing objects](https://www.theguardian.com/society/2025/mar/28/decline-of-cash-credited-for-drop-in-nhs-surgery-for-children-swallowing-objects)
 * [2025-03-29, 20:00:33](https://news.ycombinator.com/item?id=43518220) - [Matrix Calculus (For Machine Learning and Beyond)](https://arxiv.org/abs/2501.14787)
 * [2025-03-29, 19:45:46](https://news.ycombinator.com/item?id=43518087) - [The Candid Naivety of Geeks](https://ploum.net/2025-03-28-geeks-naivety.html)
-* [2025-03-29, 19:40:07](https://news.ycombinator.com/item?id=43518030) - [Proof that Steins;Gate world is a running simulation](https://samyar.me/posts/steins-gate-and-hamming-code/)
 * [2025-03-29, 19:12:38](https://news.ycombinator.com/item?id=43517779) - [Beautiful and Minimalistic Chrome Extension](https://lofitab.com/)
 * [2025-03-29, 19:07:44](https://news.ycombinator.com/item?id=43517734) - [OSS-SEC: Three bypasses of Ubuntu's unprivileged user namespace restrictions](https://seclists.org/oss-sec/2025/q1/253)
 * [2025-03-29, 18:44:49](https://news.ycombinator.com/item?id=43517588) - [Show HN: Appear as anyone in video calls like zoom or Google meets](https://www.phazr.ai/)
@@ -27,9 +26,10 @@
 * [2025-03-29, 10:42:26](https://news.ycombinator.com/item?id=43514383) - [Show HN: Physical Pomodoro Timer with ESP32 and e-paper screen](https://github.com/Rukenshia/pomodoro)
 * [2025-03-29, 09:13:43](https://news.ycombinator.com/item?id=43513996) - [Postgres Language Server: Initial Release](https://github.com/supabase-community/postgres-language-server)
 * [2025-03-29, 03:55:02](https://news.ycombinator.com/item?id=43512589) - [Plain – a web framework for building products with Python](https://plainframework.com/)
+* [2025-03-28, 18:12:58](https://news.ycombinator.com/item?id=43508418) - [We hacked Gemini's Python sandbox and leaked its source code (at least some)](https://www.landh.tech/blog/20250327-we-hacked-gemini-source-code/)
 * [2025-03-27, 15:50:08](https://news.ycombinator.com/item?id=43494894) - [XAN: A Modern CSV-Centric Data Manipulation Toolkit for the Terminal](https://github.com/medialab/xan)
-* [2025-03-27, 11:15:19](https://news.ycombinator.com/item?id=43492378) - [Why do blue-footed boobies have blue feet? And 8 other blue-footed booby facts](https://www.worldwildlife.org/stories/why-do-blue-footed-boobies-have-blue-feet-and-8-other-blue-footed-booby-facts)
 * [2025-03-26, 18:51:00](https://news.ycombinator.com/item?id=43485514) - [The disappearance of Gaia, ESA spacecraft will be turned off on 27 March 2025](https://www.cosmos.esa.int/web/gaia/news)
+* [2025-03-26, 08:07:20](https://news.ycombinator.com/item?id=43479906) - [Show HN: I implemented Snake in a tmux config file](https://willhbr.net/2025/03/20/snakes-in-a-pane/)
 
 ## [Archives](archives/index.md)
 
