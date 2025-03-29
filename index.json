@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-03-29, 11:02:17",
-      "https://news.ycombinator.com/item?id=43514471"
-    ],
-    [
-      "Nick Cave's thoughts on a ChatGPT poem (2023)",
-      "https://www.theredhandfiles.com/chat-gpt-what-do-you-think/"
-    ]
-  ],
-  [
-    [
       "2025-03-29, 10:42:26",
       "https://news.ycombinator.com/item?id=43514383"
     ],
@@ -57,6 +47,16 @@
     [
       "Postgres Language Server: Initial Release",
       "https://github.com/supabase-community/postgres-language-server"
+    ]
+  ],
+  [
+    [
+      "2025-03-29, 08:27:55",
+      "https://news.ycombinator.com/item?id=43513803"
+    ],
+    [
+      "How to report a security issue in an open source project",
+      "https://jacobian.org/2025/mar/27/reporting-security-issues-in-oss/"
     ]
   ],
   [
@@ -137,6 +137,16 @@
     [
       "The Real Book (2021)",
       "https://99percentinvisible.org/episode/the-real-book/"
+    ]
+  ],
+  [
+    [
+      "2025-03-28, 16:27:44",
+      "https://news.ycombinator.com/item?id=43507286"
+    ],
+    [
+      "How Kerala got rich",
+      "https://aeon.co/essays/how-did-kerala-go-from-poor-to-prosperous-among-indias-states"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Optimizing Matrix Multiplication on RDNA3",
       "https://seb-v.github.io/optimization/update/2025/01/20/Fast-GPU-Matrix-multiplication.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-25, 03:56:17",
-      "https://news.ycombinator.com/item?id=43467988"
-    ],
-    [
-      "Noise cancellation improves turn-taking for AI Voice Agents",
-      "https://krisp.ai/blog/improving-turn-taking-of-ai-voice-agents-with-background-voice-cancellation/"
     ]
   ]
 ]
