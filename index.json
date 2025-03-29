@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-29, 21:00:35",
+      "https://news.ycombinator.com/item?id=43518695"
+    ],
+    [
+      "Spark AI (YC W24) Is Hiring a Full-Stack Engineer in San Francisco",
+      "https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack"
+    ]
+  ],
+  [
+    [
       "2025-03-29, 20:31:21",
       "https://news.ycombinator.com/item?id=43518466"
     ],
@@ -37,16 +47,6 @@
     [
       "The Candid Naivety of Geeks",
       "https://ploum.net/2025-03-28-geeks-naivety.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-29, 19:43:43",
-      "https://news.ycombinator.com/item?id=43518064"
-    ],
-    [
-      "Show HN: Job Application Bot by Ollama AI",
-      "https://github.com/lookr-fyi/job-application-bot-by-ollama-ai"
     ]
   ],
   [
@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2025-03-29, 18:44:49",
+      "https://news.ycombinator.com/item?id=43517588"
+    ],
+    [
+      "Show HN: Appear as anyone in video calls like zoom or Google meets",
+      "https://www.phazr.ai/"
+    ]
+  ],
+  [
+    [
       "2025-03-29, 18:44:08",
       "https://news.ycombinator.com/item?id=43517585"
     ],
@@ -107,6 +117,16 @@
     [
       "Lvgl: Embedded graphics library to create beautiful UIs",
       "https://github.com/lvgl/lvgl"
+    ]
+  ],
+  [
+    [
+      "2025-03-29, 18:22:25",
+      "https://news.ycombinator.com/item?id=43517439"
+    ],
+    [
+      "Train and Weather Tracker with Raspberry Pi and E-Ink",
+      "https://sambroner.com/posts/raspberry-pi-train"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Show HN: I implemented Snake in a tmux config file",
       "https://willhbr.net/2025/03/20/snakes-in-a-pane/"
-    ]
-  ],
-  [
-    [
-      "2025-03-25, 20:15:18",
-      "https://news.ycombinator.com/item?id=43475425"
-    ],
-    [
-      "Portlander creates AI-powered device to monitor street health",
-      "https://bikeportland.org/2025/03/18/portlander-creates-ai-powered-device-to-monitor-street-health-393363"
-    ]
-  ],
-  [
-    [
-      "2025-03-25, 14:39:52",
-      "https://news.ycombinator.com/item?id=43471907"
-    ],
-    [
-      "Chimpanzees act as 'engineers', choosing materials to make tools",
-      "https://www.sciencedaily.com/releases/2025/03/250324142002.htm"
     ]
   ]
 ]
