@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-03-29, 12:57:05",
-      "https://news.ycombinator.com/item?id=43515169"
-    ],
-    [
-      "Therapy chatbot trial yields mental health benefits",
-      "https://home.dartmouth.edu/news/2025/03/first-therapy-chatbot-trial-yields-mental-health-benefits"
-    ]
-  ],
-  [
-    [
       "2025-03-29, 12:14:48",
       "https://news.ycombinator.com/item?id=43514915"
     ],
@@ -27,6 +17,16 @@
     [
       "The Real Story Behind Sam Altman’s Firing From OpenAI",
       "https://www.wsj.com/tech/ai/the-real-story-behind-sam-altman-firing-from-openai-efd51a5d"
+    ]
+  ],
+  [
+    [
+      "2025-03-29, 11:26:38",
+      "https://news.ycombinator.com/item?id=43514610"
+    ],
+    [
+      "Where Do the Bytes Go?",
+      "https://flak.tedunangst.com/post/where-do-the-bytes-go"
     ]
   ],
   [
@@ -57,6 +57,16 @@
     [
       "Show HN: Physical Pomodoro Timer with ESP32 and e-paper screen",
       "https://github.com/Rukenshia/pomodoro"
+    ]
+  ],
+  [
+    [
+      "2025-03-29, 10:27:33",
+      "https://news.ycombinator.com/item?id=43514308"
+    ],
+    [
+      "Et Tu, Grammarly?",
+      "https://dbushell.com/2025/03/29/et-tu-grammarly/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "How to write blog posts that developers read",
       "https://refactoringenglish.com/chapters/write-blog-posts-developers-read/"
-    ]
-  ],
-  [
-    [
-      "2025-03-28, 06:48:18",
-      "https://news.ycombinator.com/item?id=43502291"
-    ],
-    [
-      "Xee: A Modern XPath and XSLT Engine in Rust",
-      "https://blog.startifact.com/posts/xee/"
     ]
   ],
   [
