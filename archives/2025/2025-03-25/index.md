@@ -65,6 +65,7 @@
 * [2025-03-25, 12:10:22](https://news.ycombinator.com/item?id=43470269) - [Deregulation in Argentina: Milei Takes \"Deep Chainsaw\" to Bureaucracy](https://www.cato.org/free-society/spring-2025/deregulation-argentina-milei-takes-deep-chainsaw-bureaucracy-red-tape)
 * [2025-03-25, 12:08:14](https://news.ycombinator.com/item?id=43470248) - [Angelina Jolie Was Right About Computers](https://www.wired.com/story/angelina-jolie-was-right-about-risc-architecture/)
 * [2025-03-25, 12:02:45](https://news.ycombinator.com/item?id=43470206) - [Better Shell History Search](https://tratt.net/laurie/blog/2025/better_shell_history_search.html)
+* [2025-03-25, 12:00:56](https://news.ycombinator.com/item?id=43470192) - [Testing Without Mocks: A Pattern Language (2023)](https://www.jamesshore.com/v2/projects/nullables/testing-without-mocks)
 * [2025-03-25, 11:57:11](https://news.ycombinator.com/item?id=43470162) - [Hann: A Fast Approximate Nearest Neighbor Search Library for Go](https://github.com/habedi/hann)
 * [2025-03-25, 11:54:19](https://news.ycombinator.com/item?id=43470146) - [How I Choose What to Work On](https://tynan.com/workonwhat/)
 * [2025-03-25, 11:53:30](https://news.ycombinator.com/item?id=43470138) - [Preschoolers can reason better than we think, study suggests](https://phys.org/news/2025-03-preschoolers.html)
