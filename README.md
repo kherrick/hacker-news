@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-29, 02:19:01](https://news.ycombinator.com/item?id=43512158) - [The Gen X Career Meltdown](https://www.nytimes.com/interactive/2025/03/28/style/gen-x-creative-work.html)
+* [2025-03-29, 03:55:02](https://news.ycombinator.com/item?id=43512589) - [Plain – a web framework for building products with Python](https://plainframework.com/)
 * [2025-03-29, 01:02:33](https://news.ycombinator.com/item?id=43511742) - [Show HN: Multi UPS SNMP based shutdown](https://nupst.serve.zone)
 * [2025-03-29, 00:22:21](https://news.ycombinator.com/item?id=43511464) - [iCloud Mail has DNS misconfigured?](https://www.mail-tester.com/test-p3tdhnk3o)
 * [2025-03-29, 00:08:15](https://news.ycombinator.com/item?id=43511340) - [Madison Square Garden's surveillance banned this fan over his T-shirt design](https://www.theverge.com/news/637228/madison-square-garden-james-dolan-facial-recognition-fan-ban)
