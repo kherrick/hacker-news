@@ -6,6 +6,7 @@
 
 * [2025-03-29, 21:47:16](https://news.ycombinator.com/item?id=43518999) - [De-Atomization Is the Secret to Happiness](https://www.nateliason.com/blog/de-atomization-is-the-secret-to-happiness)
 * [2025-03-29, 21:34:02](https://news.ycombinator.com/item?id=43518917) - [Convert Linux to Windows](https://philipbohun.com/blog/0007.html)
+* [2025-03-29, 21:26:32](https://news.ycombinator.com/item?id=43518866) - [Everyone knows all the apps on your phone](https://peabee.substack.com/p/everyone-knows-what-apps-you-use)
 * [2025-03-29, 21:00:35](https://news.ycombinator.com/item?id=43518695) - [Spark AI (YC W24) Is Hiring a Full-Stack Engineer in San Francisco](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack)
 * [2025-03-29, 20:45:22](https://news.ycombinator.com/item?id=43518576) - [Apple's AI isn't a letdown. AI is the letdown](https://www.cnn.com/2025/03/27/tech/apple-ai-artificial-intelligence/index.html)
 * [2025-03-29, 20:43:42](https://news.ycombinator.com/item?id=43518560) - [CVE-2025-31160 Atop 2.11 heap problems](https://openwall.com/lists/oss-security/2025/03/29/1)
