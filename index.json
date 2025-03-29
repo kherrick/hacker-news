@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-03-29, 10:59:52",
+      "https://news.ycombinator.com/item?id=43514459"
+    ],
+    [
+      "Building a search engine from scratch, in Rust: part 1",
+      "https://jdrouet.github.io/posts/202503170800-search-engine-part-1/"
+    ]
+  ],
+  [
+    [
+      "2025-03-29, 10:53:36",
+      "https://news.ycombinator.com/item?id=43514433"
+    ],
+    [
+      "Andrej Karpathy on the State of Web Development",
+      "https://twitter.com/karpathy/status/1905051558783418370"
+    ]
+  ],
+  [
+    [
+      "2025-03-29, 10:42:26",
+      "https://news.ycombinator.com/item?id=43514383"
+    ],
+    [
+      "Show HN: Physical Pomodoro Timer with ESP32 and e-paper screen",
+      "https://github.com/Rukenshia/pomodoro"
+    ]
+  ],
+  [
+    [
+      "2025-03-29, 10:27:33",
+      "https://news.ycombinator.com/item?id=43514308"
+    ],
+    [
+      "Et Tu, Grammarly?",
+      "https://dbushell.com/2025/03/29/et-tu-grammarly/"
+    ]
+  ],
+  [
+    [
       "2025-03-29, 10:09:02",
       "https://news.ycombinator.com/item?id=43514230"
     ],
@@ -57,16 +97,6 @@
     [
       "Postgres Language Server: Initial Release",
       "https://github.com/supabase-community/postgres-language-server"
-    ]
-  ],
-  [
-    [
-      "2025-03-29, 08:29:27",
-      "https://news.ycombinator.com/item?id=43513811"
-    ],
-    [
-      "Trump's attacks on universities get darker, with shadows reaching our shores",
-      "https://christinapagel.substack.com/p/trumps-attacks-on-universities-get"
     ]
   ],
   [
@@ -137,26 +167,6 @@
     [
       "DIY PTP Grandmaster Clock with a Raspberry Pi",
       "https://www.jeffgeerling.com/blog/2025/diy-ptp-grandmaster-clock-raspberry-pi"
-    ]
-  ],
-  [
-    [
-      "2025-03-28, 21:23:42",
-      "https://news.ycombinator.com/item?id=43509923"
-    ],
-    [
-      "xAI has acquired X, xAI now valued at $80B",
-      "https://twitter.com/elonmusk/status/1905731750275510312"
-    ]
-  ],
-  [
-    [
-      "2025-03-28, 21:01:49",
-      "https://news.ycombinator.com/item?id=43509782"
-    ],
-    [
-      "Finley (YC W21) Is Hiring a Technical Implementations Specialist",
-      "https://ats.rippling.com/finley-technologies/jobs"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Conquest of the Incas",
       "https://mattlakeman.org/2025/03/24/conquest-of-the-incas/"
-    ]
-  ],
-  [
-    [
-      "2025-03-26, 03:08:01",
-      "https://news.ycombinator.com/item?id=43478480"
-    ],
-    [
-      "Window cleaner in quest to confirm priceless Shakespeare portrait",
-      "https://www.bbc.com/news/articles/c5yr37nlzv8o"
     ]
   ],
   [
