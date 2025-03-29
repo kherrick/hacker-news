@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-03-29](index.md)
 
+* [2025-03-29, 18:49:57](https://news.ycombinator.com/item?id=43517613) - [Jeremy Howard taught AI and helped invent ChatGPT. He fears he's failed](https://www.abc.net.au/news/science/2023-11-15/jeremy-howard-taught-ai-to-the-world-and-helped-invent-chatgpt/103092474)
+* [2025-03-29, 18:48:44](https://news.ycombinator.com/item?id=43517603) - [Body Doubling](https://en.wikipedia.org/wiki/Body_doubling)
 * [2025-03-29, 18:45:09](https://news.ycombinator.com/item?id=43517590) - [When the physicists need burner phones, that's when you know America's changed](https://www.theguardian.com/us-news/2025/mar/29/when-the-physicists-need-burner-phones-thats-when-you-know-americas-changed)
+* [2025-03-29, 18:44:08](https://news.ycombinator.com/item?id=43517585) - [Free Output – AI output copyright status checker](https://freeoutput.org/)
 * [2025-03-29, 18:12:03](https://news.ycombinator.com/item?id=43517375) - [Paged Out #6 is out](https://pagedout.institute/?page=blog.php#entry-2025-03-29)
 * [2025-03-29, 18:05:08](https://news.ycombinator.com/item?id=43517337) - [Veloren – voxel action-adventure role-playing in Rust](https://veloren.net/)
 * [2025-03-29, 18:02:42](https://news.ycombinator.com/item?id=43517318) - [Twitter (X) Hit by Data Leak of 2.8B Users – Allegedly an Insider Job](https://hackread.com/twitter-x-of-2-8-billion-data-leak-an-insider-job/)
