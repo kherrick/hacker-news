@@ -15,6 +15,7 @@
 * [2025-03-28, 18:12:58](https://news.ycombinator.com/item?id=43508418) - [We hacked Gemini's Python sandbox and leaked its source code (at least some)](https://www.landh.tech/blog/20250327-we-hacked-gemini-source-code/)
 * [2025-03-28, 17:37:42](https://news.ycombinator.com/item?id=43508061) - [Show HN: Hexi – Modern header-only network binary serialisation for C++](https://github.com/EmberEmu/Hexi)
 * [2025-03-28, 16:39:10](https://news.ycombinator.com/item?id=43507404) - [The Real Book (2021)](https://99percentinvisible.org/episode/the-real-book/)
+* [2025-03-28, 16:27:44](https://news.ycombinator.com/item?id=43507286) - [How Kerala got rich](https://aeon.co/essays/how-did-kerala-go-from-poor-to-prosperous-among-indias-states)
 * [2025-03-28, 15:55:17](https://news.ycombinator.com/item?id=43506951) - [Show HN Pianoboi – displays sheet music as you play your piano](https://pianoboi.site)
 * [2025-03-28, 14:55:54](https://news.ycombinator.com/item?id=43506238) - [Decomposing a Factorial into Large Factors](https://terrytao.wordpress.com/2025/03/26/decomposing-a-factorial-into-large-factors/)
 * [2025-03-28, 13:40:41](https://news.ycombinator.com/item?id=43505334) - [The Biology of B-Movie Monsters (2003)](https://fathom.lib.uchicago.edu/2/21701757/)
@@ -27,7 +28,6 @@
 * [2025-03-25, 16:33:50](https://news.ycombinator.com/item?id=43473195) - [Emulating the YM2612: Part 1 – Interface](https://jsgroth.dev/blog/posts/emulating-ym2612-part-1/)
 * [2025-03-25, 12:30:00](https://news.ycombinator.com/item?id=43470416) - [Playstation Mod Turns the PSOne into a Crustacean](https://gizmodo.com/the-carcinisation-of-playstation-is-complete-say-hello-to-playstacean-2000579934)
 * [2025-03-25, 12:00:56](https://news.ycombinator.com/item?id=43470192) - [Testing Without Mocks: A Pattern Language (2023)](https://www.jamesshore.com/v2/projects/nullables/testing-without-mocks)
-* [2025-03-25, 10:25:38](https://news.ycombinator.com/item?id=43469679) - [DIY Acoustic Camera using miniDSP UMA-16 (2021)](https://navat.substack.com/p/diy-acoustic-camera-using-uma-16)
 * [2025-03-25, 09:55:21](https://news.ycombinator.com/item?id=43469535) - [Optimizing Matrix Multiplication on RDNA3](https://seb-v.github.io/optimization/update/2025/01/20/Fast-GPU-Matrix-multiplication.html)
 * [2025-03-25, 03:56:17](https://news.ycombinator.com/item?id=43467988) - [Noise cancellation improves turn-taking for AI Voice Agents](https://krisp.ai/blog/improving-turn-taking-of-ai-voice-agents-with-background-voice-cancellation/)
 
