@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-03-29, 09:47:04",
+      "https://news.ycombinator.com/item?id=43514141"
+    ],
+    [
+      "AI Accent Conversion for call centers",
+      "https://krisp.ai/accent-conversion/"
+    ]
+  ],
+  [
+    [
       "2025-03-29, 09:35:01",
       "https://news.ycombinator.com/item?id=43514087"
     ],
     [
       "Today Google bricked my Chromebook by force-installing a hidden extension",
       "https://cloudisland.nz/@rmi/114219847307106213"
+    ]
+  ],
+  [
+    [
+      "2025-03-29, 09:13:43",
+      "https://news.ycombinator.com/item?id=43513996"
+    ],
+    [
+      "Postgres Language Server: Initial Release",
+      "https://github.com/supabase-community/postgres-language-server"
     ]
   ],
   [
@@ -21,32 +41,12 @@
   ],
   [
     [
-      "2025-03-29, 08:29:27",
-      "https://news.ycombinator.com/item?id=43513811"
-    ],
-    [
-      "Trump's attacks on universities get darker, with shadows reaching our shores",
-      "https://christinapagel.substack.com/p/trumps-attacks-on-universities-get"
-    ]
-  ],
-  [
-    [
       "2025-03-29, 06:58:08",
       "https://news.ycombinator.com/item?id=43513397"
     ],
     [
       "Mathematical Compact Models of Advanced Transistors [pdf]",
       "https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-24.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-03-29, 04:13:04",
-      "https://news.ycombinator.com/item?id=43512660"
-    ],
-    [
-      "Upcoming Windows 11 builds cannot install without internet and Microsoft Account",
-      "https://infosec.exchange/@wdormann/114242475168860209"
     ]
   ],
   [
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2025-03-28, 17:37:42",
-      "https://news.ycombinator.com/item?id=43508061"
-    ],
-    [
-      "Show HN: Hexi – Modern header-only network binary serialisation for C++",
-      "https://github.com/EmberEmu/Hexi"
-    ]
-  ],
-  [
-    [
       "2025-03-28, 15:55:17",
       "https://news.ycombinator.com/item?id=43506951"
     ],
@@ -217,6 +207,16 @@
     [
       "You Need Subtyping",
       "https://blog.polybdenum.com/2025/03/26/why-you-need-subtyping.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-26, 14:43:37",
+      "https://news.ycombinator.com/item?id=43482792"
+    ],
+    [
+      "Low responsiveness of ML models to critical or deteriorating health conditions",
+      "https://www.nature.com/articles/s43856-025-00775-0"
     ]
   ],
   [
