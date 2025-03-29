@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-03-29](index.md)
 
+* [2025-03-29, 18:45:09](https://news.ycombinator.com/item?id=43517590) - [When the physicists need burner phones, that's when you know America's changed](https://www.theguardian.com/us-news/2025/mar/29/when-the-physicists-need-burner-phones-thats-when-you-know-americas-changed)
+* [2025-03-29, 18:12:03](https://news.ycombinator.com/item?id=43517375) - [Paged Out #6 is out](https://pagedout.institute/?page=blog.php#entry-2025-03-29)
 * [2025-03-29, 18:05:08](https://news.ycombinator.com/item?id=43517337) - [Veloren – voxel action-adventure role-playing in Rust](https://veloren.net/)
 * [2025-03-29, 18:02:42](https://news.ycombinator.com/item?id=43517318) - [Twitter (X) Hit by Data Leak of 2.8B Users – Allegedly an Insider Job](https://hackread.com/twitter-x-of-2-8-billion-data-leak-an-insider-job/)
 * [2025-03-29, 18:00:48](https://news.ycombinator.com/item?id=43517301) - [Why Apple's Severance Gets Edited over Remote Desktop Software](https://tedium.co/2025/03/29/severance-apple-remote-editing-weirdness/)
+* [2025-03-29, 17:55:12](https://news.ycombinator.com/item?id=43517262) - [AI generated Ghibli images go viral as OpenAI loosens its rules](https://www.washingtonpost.com/technology/2025/03/28/chatgpt-ghibli-ai-images-copyright/)
+* [2025-03-29, 17:54:21](https://news.ycombinator.com/item?id=43517257) - [TSMC, Intel and other top chipmakers slow Japan, Malaysia expansions](https://asia.nikkei.com/Spotlight/Supply-Chain/TSMC-Intel-and-other-top-chipmakers-slow-Japan-Malaysia-expansions)
 * [2025-03-29, 17:51:12](https://news.ycombinator.com/item?id=43517234) - [Vramfs: Vram Based Filesystem for Linux](https://github.com/Overv/vramfs)
 * [2025-03-29, 16:59:41](https://news.ycombinator.com/item?id=43516879) - [Around the World, Many People Are Leaving Their Childhood Religions](https://www.pewresearch.org/religion/2025/03/26/around-the-world-many-people-are-leaving-their-childhood-religions/)
 * [2025-03-29, 16:38:01](https://news.ycombinator.com/item?id=43516733) - [Accessible open textbooks in math-heavy disciplines](https://richardzach.org/2025/03/accessible-open-textbooks-in-math-heavy-disciplines/)
