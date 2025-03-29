@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-29](index.md)
 
+* [2025-03-29, 12:57:05](https://news.ycombinator.com/item?id=43515169) - [Therapy chatbot trial yields mental health benefits](https://home.dartmouth.edu/news/2025/03/first-therapy-chatbot-trial-yields-mental-health-benefits)
 * [2025-03-29, 12:24:16](https://news.ycombinator.com/item?id=43514969) - [What to Do](https://paulgraham.com/do.html)
 * [2025-03-29, 12:23:17](https://news.ycombinator.com/item?id=43514966) - [Why Studio Ghibli movies can't be made with AI (2023)](https://twitter.com/hardmaru/status/1684940023974793216)
 * [2025-03-29, 12:14:48](https://news.ycombinator.com/item?id=43514915) - [Koto Programming Language](https://koto.dev/)

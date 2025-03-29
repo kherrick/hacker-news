@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-29, 12:23:17](https://news.ycombinator.com/item?id=43514966) - [Why Studio Ghibli movies can't be made with AI (2023)](https://twitter.com/hardmaru/status/1684940023974793216)
+* [2025-03-29, 12:57:05](https://news.ycombinator.com/item?id=43515169) - [Therapy chatbot trial yields mental health benefits](https://home.dartmouth.edu/news/2025/03/first-therapy-chatbot-trial-yields-mental-health-benefits)
+* [2025-03-29, 12:24:16](https://news.ycombinator.com/item?id=43514969) - [What to Do](https://paulgraham.com/do.html)
 * [2025-03-29, 12:14:48](https://news.ycombinator.com/item?id=43514915) - [Koto Programming Language](https://koto.dev/)
 * [2025-03-29, 11:45:38](https://news.ycombinator.com/item?id=43514717) - [The Real Story Behind Sam Altman’s Firing From OpenAI](https://www.wsj.com/tech/ai/the-real-story-behind-sam-altman-firing-from-openai-efd51a5d)
-* [2025-03-29, 11:26:38](https://news.ycombinator.com/item?id=43514610) - [Where Do the Bytes Go?](https://flak.tedunangst.com/post/where-do-the-bytes-go)
 * [2025-03-29, 10:59:52](https://news.ycombinator.com/item?id=43514459) - [Building a search engine from scratch, in Rust: part 1](https://jdrouet.github.io/posts/202503170800-search-engine-part-1/)
 * [2025-03-29, 10:42:26](https://news.ycombinator.com/item?id=43514383) - [Show HN: Physical Pomodoro Timer with ESP32 and e-paper screen](https://github.com/Rukenshia/pomodoro)
 * [2025-03-29, 09:13:43](https://news.ycombinator.com/item?id=43513996) - [Postgres Language Server: Initial Release](https://github.com/supabase-community/postgres-language-server)
@@ -22,6 +22,7 @@
 * [2025-03-27, 22:32:45](https://news.ycombinator.com/item?id=43498984) - [Apple needs a Snow Sequoia](https://reviews.ofb.biz/safari/article/1300.html)
 * [2025-03-26, 18:38:14](https://news.ycombinator.com/item?id=43485373) - [You Need Subtyping](https://blog.polybdenum.com/2025/03/26/why-you-need-subtyping.html)
 * [2025-03-26, 14:43:37](https://news.ycombinator.com/item?id=43482792) - [Low responsiveness of ML models to critical or deteriorating health conditions](https://www.nature.com/articles/s43856-025-00775-0)
+* [2025-03-26, 13:24:06](https://news.ycombinator.com/item?id=43482026) - [I Went Undercover in Crypto's Answer to Squid Game. It Nearly Broke Me](https://www.wired.com/story/crypto-the-game-undercover/)
 * [2025-03-26, 04:08:45](https://news.ycombinator.com/item?id=43478789) - [Conquest of the Incas](https://mattlakeman.org/2025/03/24/conquest-of-the-incas/)
 * [2025-03-25, 21:07:40](https://news.ycombinator.com/item?id=43475982) - [The Curious Case of Beam CPU Usage (2019)](https://stressgrid.com/blog/beam_cpu_usage/)
 * [2025-03-25, 16:33:50](https://news.ycombinator.com/item?id=43473195) - [Emulating the YM2612: Part 1 – Interface](https://jsgroth.dev/blog/posts/emulating-ym2612-part-1/)
@@ -29,7 +30,6 @@
 * [2025-03-25, 12:30:00](https://news.ycombinator.com/item?id=43470416) - [Playstation Mod Turns the PSOne into a Crustacean](https://gizmodo.com/the-carcinisation-of-playstation-is-complete-say-hello-to-playstacean-2000579934)
 * [2025-03-25, 12:00:56](https://news.ycombinator.com/item?id=43470192) - [Testing Without Mocks: A Pattern Language (2023)](https://www.jamesshore.com/v2/projects/nullables/testing-without-mocks)
 * [2025-03-25, 09:55:21](https://news.ycombinator.com/item?id=43469535) - [Optimizing Matrix Multiplication on RDNA3](https://seb-v.github.io/optimization/update/2025/01/20/Fast-GPU-Matrix-multiplication.html)
-* [2025-03-25, 03:56:17](https://news.ycombinator.com/item?id=43467988) - [Noise cancellation improves turn-taking for AI Voice Agents](https://krisp.ai/blog/improving-turn-taking-of-ai-voice-agents-with-background-voice-cancellation/)
 
 ## [Archives](archives/index.md)
 
