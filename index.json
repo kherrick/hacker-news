@@ -21,12 +21,12 @@
   ],
   [
     [
-      "2025-03-29, 11:26:38",
-      "https://news.ycombinator.com/item?id=43514610"
+      "2025-03-29, 11:41:54",
+      "https://news.ycombinator.com/item?id=43514695"
     ],
     [
-      "Where Do the Bytes Go?",
-      "https://flak.tedunangst.com/post/where-do-the-bytes-go"
+      "Real Time Chess – A physical chess board without the concept of turns",
+      "https://github.com/misprit7/real-time-chess"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "Et Tu, Grammarly?",
       "https://dbushell.com/2025/03/29/et-tu-grammarly/"
+    ]
+  ],
+  [
+    [
+      "2025-03-29, 09:32:00",
+      "https://news.ycombinator.com/item?id=43514075"
+    ],
+    [
+      "Caido – A lightweight web security auditing toolkit",
+      "https://caido.io/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Xee: A Modern XPath and XSLT Engine in Rust",
       "https://blog.startifact.com/posts/xee/"
-    ]
-  ],
-  [
-    [
-      "2025-03-27, 17:05:36",
-      "https://news.ycombinator.com/item?id=43495617"
-    ],
-    [
-      "Tracing the thoughts of a large language model",
-      "https://www.anthropic.com/research/tracing-thoughts-language-model"
     ]
   ],
   [
