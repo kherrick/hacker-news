@@ -62,6 +62,7 @@
 * [2025-03-26, 05:19:22](https://news.ycombinator.com/item?id=43479094) - [Coordinating the Superbowl's visual fidelity with Elixir](https://elixir-lang.org/blog/2025/03/25/cyanview-elixir-case/)
 * [2025-03-26, 04:08:45](https://news.ycombinator.com/item?id=43478789) - [Conquest of the Incas](https://mattlakeman.org/2025/03/24/conquest-of-the-incas/)
 * [2025-03-26, 03:14:53](https://news.ycombinator.com/item?id=43478525) - [2 in 5 techies quit over inflexible workplace policies](https://www.theregister.com/2025/03/24/2_in_5_techies_quit/)
+* [2025-03-26, 03:08:01](https://news.ycombinator.com/item?id=43478480) - [Window cleaner in quest to confirm priceless Shakespeare portrait](https://www.bbc.com/news/articles/c5yr37nlzv8o)
 * [2025-03-26, 02:26:48](https://news.ycombinator.com/item?id=43478233) - [The surreal joy of having an overprovisioned homelab](https://xeiaso.net/talks/2025/surreal-joy-homelab/)
 * [2025-03-26, 02:22:08](https://news.ycombinator.com/item?id=43478200) - [HHS Grants Terminated [pdf]](https://taggs.hhs.gov/Content/Data/HHS_Grants_Terminated.pdf)
 * [2025-03-26, 02:15:59](https://news.ycombinator.com/item?id=43478165) - [German electrical engineer with green card stripped and 'violently interrogated'](https://www.theguardian.com/us-news/2025/mar/18/germany-investigates-after-national-with-green-card-arrested-at-us-border)
