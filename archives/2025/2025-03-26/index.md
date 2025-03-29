@@ -6,6 +6,7 @@
 
 * [2025-03-26, 23:19:47](https://news.ycombinator.com/item?id=43488637) - [Michael Waltz's Venmo Is Public, and It's Full of Journalists](https://prospect.org/politics/2025-03-26-michael-waltz-venmo-public-full-of-journalists/)
 * [2025-03-26, 23:04:33](https://news.ycombinator.com/item?id=43488490) - [Rost – Rust Programming in German](https://github.com/michidk/rost)
+* [2025-03-26, 22:57:34](https://news.ycombinator.com/item?id=43488438) - [New open-source benchmark for real-time analytics applications](https://github.com/timescale/rtabench)
 * [2025-03-26, 20:57:59](https://news.ycombinator.com/item?id=43487231) - [After 50 million miles, Waymos crash a lot less than human drivers](https://www.understandingai.org/p/human-drivers-keep-crashing-into)
 * [2025-03-26, 20:47:03](https://news.ycombinator.com/item?id=43487128) - [Postel's Law and the Three Ring Circus](https://alexgaynor.net/2025/mar/25/postels-law-and-the-three-ring-circus/)
 * [2025-03-26, 20:35:46](https://news.ycombinator.com/item?id=43486997) - [Building a Linux Container Runtime from Scratch](https://edera.dev/stories/styrolite)

@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-03-29](index.md)
 
+* [2025-03-29, 18:05:08](https://news.ycombinator.com/item?id=43517337) - [Veloren – voxel action-adventure role-playing in Rust](https://veloren.net/)
+* [2025-03-29, 18:02:42](https://news.ycombinator.com/item?id=43517318) - [Twitter (X) Hit by Data Leak of 2.8B Users – Allegedly an Insider Job](https://hackread.com/twitter-x-of-2-8-billion-data-leak-an-insider-job/)
+* [2025-03-29, 18:00:48](https://news.ycombinator.com/item?id=43517301) - [Why Apple's Severance Gets Edited over Remote Desktop Software](https://tedium.co/2025/03/29/severance-apple-remote-editing-weirdness/)
+* [2025-03-29, 17:51:12](https://news.ycombinator.com/item?id=43517234) - [Vramfs: Vram Based Filesystem for Linux](https://github.com/Overv/vramfs)
 * [2025-03-29, 16:59:41](https://news.ycombinator.com/item?id=43516879) - [Around the World, Many People Are Leaving Their Childhood Religions](https://www.pewresearch.org/religion/2025/03/26/around-the-world-many-people-are-leaving-their-childhood-religions/)
 * [2025-03-29, 16:38:01](https://news.ycombinator.com/item?id=43516733) - [Accessible open textbooks in math-heavy disciplines](https://richardzach.org/2025/03/accessible-open-textbooks-in-math-heavy-disciplines/)
+* [2025-03-29, 16:32:55](https://news.ycombinator.com/item?id=43516693) - [US investigates Stanford, UC schools over affirmative action](https://www.reuters.com/world/us/us-justice-dept-probing-admissions-policies-stanford-university-california-2025-03-27/)
 * [2025-03-29, 16:09:09](https://news.ycombinator.com/item?id=43516547) - [Bolt Graphics Zeus a New GPU Architecture with Up to 2.25TB of Memory and 800GbE](https://www.servethehome.com/bolt-graphics-zeus-the-new-gpu-architecture-with-up-to-2-25tb-of-memory-and-800gbe/2/)
 * [2025-03-29, 16:01:22](https://news.ycombinator.com/item?id=43516506) - [The Matrix Calculus You Need for Deep Learning](https://explained.ai/matrix-calculus/)
 * [2025-03-29, 15:58:09](https://news.ycombinator.com/item?id=43516482) - [New Windows 11 build makes mandatory Microsoft sign-in even more mandatory](https://arstechnica.com/gadgets/2025/03/new-windows-11-build-makes-mandatory-microsoft-account-sign-in-even-more-mandatory/)
