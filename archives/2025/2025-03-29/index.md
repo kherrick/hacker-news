@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-29](index.md)
 
+* [2025-03-29, 13:53:31](https://news.ycombinator.com/item?id=43515563) - [Why I'm No Longer Talking to Architects About Microservices](https://blog.container-solutions.com/why-im-no-longer-talking-to-architects-about-microservices)
 * [2025-03-29, 13:17:31](https://news.ycombinator.com/item?id=43515294) - [International students wake to an email asking them to self deport](https://timesofindia.indiatimes.com/world/us/hundreds-of-international-students-are-waking-up-to-an-email-asking-them-to-self-deport-for-campus-activism-or-even-sharing-posts-on-social-media/articleshow/119679695.cms)
 * [2025-03-29, 13:13:42](https://news.ycombinator.com/item?id=43515268) - [The Design of the New Swiss Passport](https://kottke.org/25/03/the-design-of-the-new-swiss-passport)
 * [2025-03-29, 12:57:05](https://news.ycombinator.com/item?id=43515169) - [Therapy chatbot trial yields mental health benefits](https://home.dartmouth.edu/news/2025/03/first-therapy-chatbot-trial-yields-mental-health-benefits)
