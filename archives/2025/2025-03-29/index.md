@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-03-29](index.md)
 
+* [2025-03-29, 20:04:43](https://news.ycombinator.com/item?id=43518251) - [Decline of cash credited for drop in surgery for children swallowing objects](https://www.theguardian.com/society/2025/mar/28/decline-of-cash-credited-for-drop-in-nhs-surgery-for-children-swallowing-objects)
+* [2025-03-29, 20:00:33](https://news.ycombinator.com/item?id=43518220) - [Matrix Calculus (For Machine Learning and Beyond)](https://arxiv.org/abs/2501.14787)
 * [2025-03-29, 19:52:59](https://news.ycombinator.com/item?id=43518152) - [\"Station\" by Mitsuo Isaka (1994)](https://twitter.com/gingerbeardman/status/1906041957668770237)
 * [2025-03-29, 19:45:46](https://news.ycombinator.com/item?id=43518087) - [The Candid Naivety of Geeks](https://ploum.net/2025-03-28-geeks-naivety.html)
+* [2025-03-29, 19:43:43](https://news.ycombinator.com/item?id=43518064) - [Show HN: Job Application Bot by Ollama AI](https://github.com/lookr-fyi/job-application-bot-by-ollama-ai)
 * [2025-03-29, 19:19:05](https://news.ycombinator.com/item?id=43517833) - [Utah becomes first US state to ban fluoride in its water](https://www.bbc.com/news/articles/c4gmggp2y99o)
 * [2025-03-29, 19:18:39](https://news.ycombinator.com/item?id=43517828) - [I don't think I can trust Google as my search engine anymore](https://www.androidpolice.com/google-search-engine-lost-my-trust/)
 * [2025-03-29, 19:07:44](https://news.ycombinator.com/item?id=43517734) - [OSS-SEC: Three bypasses of Ubuntu's unprivileged user namespace restrictions](https://seclists.org/oss-sec/2025/q1/253)
