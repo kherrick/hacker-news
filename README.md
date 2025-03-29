@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-29, 21:47:16](https://news.ycombinator.com/item?id=43518999) - [De-Atomization Is the Secret to Happiness](https://www.nateliason.com/blog/de-atomization-is-the-secret-to-happiness)
+* [2025-03-29, 21:34:02](https://news.ycombinator.com/item?id=43518917) - [Convert Linux to Windows](https://philipbohun.com/blog/0007.html)
 * [2025-03-29, 21:00:35](https://news.ycombinator.com/item?id=43518695) - [Spark AI (YC W24) Is Hiring a Full-Stack Engineer in San Francisco](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack)
 * [2025-03-29, 20:45:22](https://news.ycombinator.com/item?id=43518576) - [Apple's AI isn't a letdown. AI is the letdown](https://www.cnn.com/2025/03/27/tech/apple-ai-artificial-intelligence/index.html)
 * [2025-03-29, 20:43:42](https://news.ycombinator.com/item?id=43518560) - [CVE-2025-31160 Atop 2.11 heap problems](https://openwall.com/lists/oss-security/2025/03/29/1)
@@ -26,10 +27,9 @@
 * [2025-03-29, 10:42:26](https://news.ycombinator.com/item?id=43514383) - [Show HN: Physical Pomodoro Timer with ESP32 and e-paper screen](https://github.com/Rukenshia/pomodoro)
 * [2025-03-29, 09:13:43](https://news.ycombinator.com/item?id=43513996) - [Postgres Language Server: Initial Release](https://github.com/supabase-community/postgres-language-server)
 * [2025-03-29, 03:55:02](https://news.ycombinator.com/item?id=43512589) - [Plain – a web framework for building products with Python](https://plainframework.com/)
-* [2025-03-28, 18:12:58](https://news.ycombinator.com/item?id=43508418) - [We hacked Gemini's Python sandbox and leaked its source code (at least some)](https://www.landh.tech/blog/20250327-we-hacked-gemini-source-code/)
 * [2025-03-27, 15:50:08](https://news.ycombinator.com/item?id=43494894) - [XAN: A Modern CSV-Centric Data Manipulation Toolkit for the Terminal](https://github.com/medialab/xan)
+* [2025-03-27, 11:15:19](https://news.ycombinator.com/item?id=43492378) - [Why do blue-footed boobies have blue feet? And 8 other blue-footed booby facts](https://www.worldwildlife.org/stories/why-do-blue-footed-boobies-have-blue-feet-and-8-other-blue-footed-booby-facts)
 * [2025-03-26, 18:51:00](https://news.ycombinator.com/item?id=43485514) - [The disappearance of Gaia, ESA spacecraft will be turned off on 27 March 2025](https://www.cosmos.esa.int/web/gaia/news)
-* [2025-03-26, 08:07:20](https://news.ycombinator.com/item?id=43479906) - [Show HN: I implemented Snake in a tmux config file](https://willhbr.net/2025/03/20/snakes-in-a-pane/)
 
 ## [Archives](archives/index.md)
 
