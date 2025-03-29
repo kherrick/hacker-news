@@ -51,6 +51,7 @@
 * [2025-03-27, 13:59:17](https://news.ycombinator.com/item?id=43493749) - [Thinner Films Conduct Better Than Copper](https://spectrum.ieee.org/thin-film)
 * [2025-03-27, 13:51:44](https://news.ycombinator.com/item?id=43493665) - [Building a modern durable execution engine from first principles](https://restate.dev/blog/building-a-modern-durable-execution-engine-from-first-principles/)
 * [2025-03-27, 13:40:55](https://news.ycombinator.com/item?id=43493552) - [Netlify deploys hundreds of thousands of Next.js sites – here's what challenging](https://www.netlify.com/blog/how-we-run-nextjs/)
+* [2025-03-27, 13:40:18](https://news.ycombinator.com/item?id=43493544) - [Rubik's Cube Solutions, Puzzles, and 8-Balls (2023)](https://williambader.com/museum/cubes/cubes.html)
 * [2025-03-27, 13:31:02](https://news.ycombinator.com/item?id=43493444) - [A Special Year at the Heinz Nixdorf MuseumsForum](https://www.computer.org/csdl/magazine/an/2025/01/10927608/2558cmiC7UA)
 * [2025-03-27, 13:18:52](https://news.ycombinator.com/item?id=43493313) - [What went wrong with the Alan Turing Institute?](https://www.chalmermagne.com/p/how-not-to-build-an-ai-institute)
 * [2025-03-27, 13:07:01](https://news.ycombinator.com/item?id=43493207) - [Crawl Order and Disorder](https://www.marginalia.nu/log/a_117_crawl_order/)
