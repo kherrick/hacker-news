@@ -10,7 +10,6 @@
 * [2025-03-29, 19:40:07](https://news.ycombinator.com/item?id=43518030) - [Proof that Steins;Gate world is a running simulation](https://samyar.me/posts/steins-gate-and-hamming-code/)
 * [2025-03-29, 19:12:38](https://news.ycombinator.com/item?id=43517779) - [Beautiful and Minimalistic Chrome Extension](https://lofitab.com/)
 * [2025-03-29, 19:07:44](https://news.ycombinator.com/item?id=43517734) - [OSS-SEC: Three bypasses of Ubuntu's unprivileged user namespace restrictions](https://seclists.org/oss-sec/2025/q1/253)
-* [2025-03-29, 18:48:44](https://news.ycombinator.com/item?id=43517603) - [Body Doubling](https://en.wikipedia.org/wiki/Body_doubling)
 * [2025-03-29, 18:44:49](https://news.ycombinator.com/item?id=43517588) - [Show HN: Appear as anyone in video calls like zoom or Google meets](https://www.phazr.ai/)
 * [2025-03-29, 18:44:08](https://news.ycombinator.com/item?id=43517585) - [Free Output – AI output copyright status checker](https://freeoutput.org/)
 * [2025-03-29, 18:42:43](https://news.ycombinator.com/item?id=43517576) - [Lvgl: Embedded graphics library to create beautiful UIs](https://github.com/lvgl/lvgl)
@@ -29,6 +28,7 @@
 * [2025-03-28, 18:12:58](https://news.ycombinator.com/item?id=43508418) - [We hacked Gemini's Python sandbox and leaked its source code (at least some)](https://www.landh.tech/blog/20250327-we-hacked-gemini-source-code/)
 * [2025-03-27, 15:50:08](https://news.ycombinator.com/item?id=43494894) - [XAN: A Modern CSV-Centric Data Manipulation Toolkit for the Terminal](https://github.com/medialab/xan)
 * [2025-03-26, 18:51:00](https://news.ycombinator.com/item?id=43485514) - [The disappearance of Gaia, ESA spacecraft will be turned off on 27 March 2025](https://www.cosmos.esa.int/web/gaia/news)
+* [2025-03-26, 14:43:37](https://news.ycombinator.com/item?id=43482792) - [Low responsiveness of ML models to critical or deteriorating health conditions](https://www.nature.com/articles/s43856-025-00775-0)
 * [2025-03-26, 08:07:20](https://news.ycombinator.com/item?id=43479906) - [Show HN: I implemented Snake in a tmux config file](https://willhbr.net/2025/03/20/snakes-in-a-pane/)
 
 ## [Archives](archives/index.md)
