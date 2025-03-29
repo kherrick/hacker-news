@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-29, 12:14:48](https://news.ycombinator.com/item?id=43514915) - [Koto Programming Language](https://koto.dev/)
-* [2025-03-29, 11:45:38](https://news.ycombinator.com/item?id=43514717) - [The Real Story Behind Sam Altman’s Firing From OpenAI](https://www.wsj.com/tech/ai/the-real-story-behind-sam-altman-firing-from-openai-efd51a5d)
 * [2025-03-29, 11:26:38](https://news.ycombinator.com/item?id=43514610) - [Where Do the Bytes Go?](https://flak.tedunangst.com/post/where-do-the-bytes-go)
 * [2025-03-29, 11:02:17](https://news.ycombinator.com/item?id=43514471) - [Nick Cave's thoughts on a ChatGPT poem (2023)](https://www.theredhandfiles.com/chat-gpt-what-do-you-think/)
 * [2025-03-29, 10:59:52](https://news.ycombinator.com/item?id=43514459) - [Building a search engine from scratch, in Rust: part 1](https://jdrouet.github.io/posts/202503170800-search-engine-part-1/)
@@ -26,6 +25,7 @@
 * [2025-03-25, 21:07:40](https://news.ycombinator.com/item?id=43475982) - [The Curious Case of Beam CPU Usage (2019)](https://stressgrid.com/blog/beam_cpu_usage/)
 * [2025-03-25, 16:33:50](https://news.ycombinator.com/item?id=43473195) - [Emulating the YM2612: Part 1 – Interface](https://jsgroth.dev/blog/posts/emulating-ym2612-part-1/)
 * [2025-03-25, 14:39:52](https://news.ycombinator.com/item?id=43471907) - [Chimpanzees act as 'engineers', choosing materials to make tools](https://www.sciencedaily.com/releases/2025/03/250324142002.htm)
+* [2025-03-25, 14:34:17](https://news.ycombinator.com/item?id=43471838) - [Show HN: Bknd – Firebase alternative that embeds into any React stack](https://github.com/bknd-io/bknd)
 * [2025-03-25, 12:30:00](https://news.ycombinator.com/item?id=43470416) - [Playstation Mod Turns the PSOne into a Crustacean](https://gizmodo.com/the-carcinisation-of-playstation-is-complete-say-hello-to-playstacean-2000579934)
 * [2025-03-25, 12:00:56](https://news.ycombinator.com/item?id=43470192) - [Testing Without Mocks: A Pattern Language (2023)](https://www.jamesshore.com/v2/projects/nullables/testing-without-mocks)
 * [2025-03-25, 09:55:21](https://news.ycombinator.com/item?id=43469535) - [Optimizing Matrix Multiplication on RDNA3](https://seb-v.github.io/optimization/update/2025/01/20/Fast-GPU-Matrix-multiplication.html)
