@@ -2,10 +2,10 @@
 
 * [2025-03-29, 12:14:48](https://news.ycombinator.com/item?id=43514915) - [Koto Programming Language](https://koto.dev/)
 * [2025-03-29, 11:26:38](https://news.ycombinator.com/item?id=43514610) - [Where Do the Bytes Go?](https://flak.tedunangst.com/post/where-do-the-bytes-go)
-* [2025-03-29, 11:02:17](https://news.ycombinator.com/item?id=43514471) - [Nick Cave's thoughts on a ChatGPT poem (2023)](https://www.theredhandfiles.com/chat-gpt-what-do-you-think/)
 * [2025-03-29, 10:42:26](https://news.ycombinator.com/item?id=43514383) - [Show HN: Physical Pomodoro Timer with ESP32 and e-paper screen](https://github.com/Rukenshia/pomodoro)
 * [2025-03-29, 10:27:33](https://news.ycombinator.com/item?id=43514308) - [Et Tu, Grammarly?](https://dbushell.com/2025/03/29/et-tu-grammarly/)
 * [2025-03-29, 09:13:43](https://news.ycombinator.com/item?id=43513996) - [Postgres Language Server: Initial Release](https://github.com/supabase-community/postgres-language-server)
+* [2025-03-29, 08:27:55](https://news.ycombinator.com/item?id=43513803) - [How to report a security issue in an open source project](https://jacobian.org/2025/mar/27/reporting-security-issues-in-oss/)
 * [2025-03-29, 06:58:08](https://news.ycombinator.com/item?id=43513397) - [Mathematical Compact Models of Advanced Transistors [pdf]](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-24.pdf)
 * [2025-03-29, 04:11:45](https://news.ycombinator.com/item?id=43512657) - [Self-Supervised Learning from Images with JEPA (2023)](https://arxiv.org/abs/2301.08243)
 * [2025-03-29, 03:55:02](https://news.ycombinator.com/item?id=43512589) - [Plain – a web framework for building products with Python](https://plainframework.com/)
@@ -14,6 +14,7 @@
 * [2025-03-28, 18:12:58](https://news.ycombinator.com/item?id=43508418) - [We hacked Gemini's Python sandbox and leaked its source code (at least some)](https://www.landh.tech/blog/20250327-we-hacked-gemini-source-code/)
 * [2025-03-28, 17:37:42](https://news.ycombinator.com/item?id=43508061) - [Show HN: Hexi – Modern header-only network binary serialisation for C++](https://github.com/EmberEmu/Hexi)
 * [2025-03-28, 16:39:10](https://news.ycombinator.com/item?id=43507404) - [The Real Book (2021)](https://99percentinvisible.org/episode/the-real-book/)
+* [2025-03-28, 16:27:44](https://news.ycombinator.com/item?id=43507286) - [How Kerala got rich](https://aeon.co/essays/how-did-kerala-go-from-poor-to-prosperous-among-indias-states)
 * [2025-03-28, 15:55:17](https://news.ycombinator.com/item?id=43506951) - [Show HN Pianoboi – displays sheet music as you play your piano](https://pianoboi.site)
 * [2025-03-28, 14:55:54](https://news.ycombinator.com/item?id=43506238) - [Decomposing a Factorial into Large Factors](https://terrytao.wordpress.com/2025/03/26/decomposing-a-factorial-into-large-factors/)
 * [2025-03-28, 14:11:07](https://news.ycombinator.com/item?id=43505646) - [Building Statically Linked Go Executables with CGO and Zig](https://calabro.io/zig-cgo)
@@ -29,7 +30,6 @@
 * [2025-03-25, 12:30:00](https://news.ycombinator.com/item?id=43470416) - [Playstation Mod Turns the PSOne into a Crustacean](https://gizmodo.com/the-carcinisation-of-playstation-is-complete-say-hello-to-playstacean-2000579934)
 * [2025-03-25, 12:00:56](https://news.ycombinator.com/item?id=43470192) - [Testing Without Mocks: A Pattern Language (2023)](https://www.jamesshore.com/v2/projects/nullables/testing-without-mocks)
 * [2025-03-25, 09:55:21](https://news.ycombinator.com/item?id=43469535) - [Optimizing Matrix Multiplication on RDNA3](https://seb-v.github.io/optimization/update/2025/01/20/Fast-GPU-Matrix-multiplication.html)
-* [2025-03-25, 03:56:17](https://news.ycombinator.com/item?id=43467988) - [Noise cancellation improves turn-taking for AI Voice Agents](https://krisp.ai/blog/improving-turn-taking-of-ai-voice-agents-with-background-voice-cancellation/)
 
 ## [Archives](archives/index.md)
 
