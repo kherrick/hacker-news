@@ -59,6 +59,7 @@
 * [2025-03-26, 07:49:56](https://news.ycombinator.com/item?id=43479808) - [Why Is It Lovely](https://www.solipsys.co.uk/new/WhyIsItLovely.html)
 * [2025-03-26, 07:05:43](https://news.ycombinator.com/item?id=43479569) - [Ask HN: Are there any money-saving hacks that AI can assist you with？](https://news.ycombinator.com/item?id=43479569)
 * [2025-03-26, 05:19:22](https://news.ycombinator.com/item?id=43479094) - [Coordinating the Superbowl's visual fidelity with Elixir](https://elixir-lang.org/blog/2025/03/25/cyanview-elixir-case/)
+* [2025-03-26, 04:08:45](https://news.ycombinator.com/item?id=43478789) - [Conquest of the Incas](https://mattlakeman.org/2025/03/24/conquest-of-the-incas/)
 * [2025-03-26, 03:14:53](https://news.ycombinator.com/item?id=43478525) - [2 in 5 techies quit over inflexible workplace policies](https://www.theregister.com/2025/03/24/2_in_5_techies_quit/)
 * [2025-03-26, 02:26:48](https://news.ycombinator.com/item?id=43478233) - [The surreal joy of having an overprovisioned homelab](https://xeiaso.net/talks/2025/surreal-joy-homelab/)
 * [2025-03-26, 02:22:08](https://news.ycombinator.com/item?id=43478200) - [HHS Grants Terminated [pdf]](https://taggs.hhs.gov/Content/Data/HHS_Grants_Terminated.pdf)
