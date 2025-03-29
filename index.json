@@ -61,26 +61,6 @@
   ],
   [
     [
-      "2025-03-29, 16:32:55",
-      "https://news.ycombinator.com/item?id=43516693"
-    ],
-    [
-      "US investigates Stanford, UC schools over affirmative action",
-      "https://www.reuters.com/world/us/us-justice-dept-probing-admissions-policies-stanford-university-california-2025-03-27/"
-    ]
-  ],
-  [
-    [
-      "2025-03-29, 16:01:22",
-      "https://news.ycombinator.com/item?id=43516506"
-    ],
-    [
-      "The Matrix Calculus You Need for Deep Learning",
-      "https://explained.ai/matrix-calculus/"
-    ]
-  ],
-  [
-    [
       "2025-03-29, 13:36:14",
       "https://news.ycombinator.com/item?id=43515426"
     ],
@@ -121,16 +101,6 @@
   ],
   [
     [
-      "2025-03-29, 10:27:33",
-      "https://news.ycombinator.com/item?id=43514308"
-    ],
-    [
-      "Et Tu, Grammarly?",
-      "https://dbushell.com/2025/03/29/et-tu-grammarly/"
-    ]
-  ],
-  [
-    [
       "2025-03-29, 09:32:00",
       "https://news.ycombinator.com/item?id=43514075"
     ],
@@ -167,6 +137,16 @@
     [
       "Plain – a web framework for building products with Python",
       "https://plainframework.com/"
+    ]
+  ],
+  [
+    [
+      "2025-03-28, 21:23:42",
+      "https://news.ycombinator.com/item?id=43509923"
+    ],
+    [
+      "xAI has acquired X, xAI now valued at $80B",
+      "https://twitter.com/elonmusk/status/1905731750275510312"
     ]
   ],
   [
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2025-03-28, 11:01:19",
+      "https://news.ycombinator.com/item?id=43503872"
+    ],
+    [
+      "How to write blog posts that developers read",
+      "https://refactoringenglish.com/chapters/write-blog-posts-developers-read/"
+    ]
+  ],
+  [
+    [
       "2025-03-27, 13:40:18",
       "https://news.ycombinator.com/item?id=43493544"
     ],
@@ -257,6 +247,16 @@
     [
       "Low responsiveness of ML models to critical or deteriorating health conditions",
       "https://www.nature.com/articles/s43856-025-00775-0"
+    ]
+  ],
+  [
+    [
+      "2025-03-26, 08:07:20",
+      "https://news.ycombinator.com/item?id=43479906"
+    ],
+    [
+      "Show HN: I implemented Snake in a tmux config file",
+      "https://willhbr.net/2025/03/20/snakes-in-a-pane/"
     ]
   ],
   [
