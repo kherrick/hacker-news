@@ -60,6 +60,7 @@
 * [2025-03-25, 12:59:00](https://news.ycombinator.com/item?id=43470648) - [Building Node.js on Windows with Clang-cl](https://joyeecheung.github.io/blog/2025/02/16/building-nodejs-on-windows-with-clang-cl/)
 * [2025-03-25, 12:54:59](https://news.ycombinator.com/item?id=43470613) - [X's head of engineering is out](https://www.theverge.com/twitter/634833/x-head-engineering-leaves-elon-musk)
 * [2025-03-25, 12:41:04](https://news.ycombinator.com/item?id=43470493) - [The Unbearable Loudness of Chewing](https://asteriskmag.com/issues/09/the-unbearable-loudness-of-chewing/)
+* [2025-03-25, 12:30:00](https://news.ycombinator.com/item?id=43470416) - [Playstation Mod Turns the PSOne into a Crustacean](https://gizmodo.com/the-carcinisation-of-playstation-is-complete-say-hello-to-playstacean-2000579934)
 * [2025-03-25, 12:20:38](https://news.ycombinator.com/item?id=43470339) - [Entropy Attacks](https://blog.cr.yp.to/20140205-entropy.html)
 * [2025-03-25, 12:20:28](https://news.ycombinator.com/item?id=43470337) - [Ask HN: can Wireless-CarPlay dongles steal your data?](https://news.ycombinator.com/item?id=43470337)
 * [2025-03-25, 12:10:22](https://news.ycombinator.com/item?id=43470269) - [Deregulation in Argentina: Milei Takes \"Deep Chainsaw\" to Bureaucracy](https://www.cato.org/free-society/spring-2025/deregulation-argentina-milei-takes-deep-chainsaw-bureaucracy-red-tape)
