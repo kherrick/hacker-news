@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-29](index.md)
 
 * [2025-03-29, 21:00:35](https://news.ycombinator.com/item?id=43518695) - [Spark AI (YC W24) Is Hiring a Full-Stack Engineer in San Francisco](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack)
+* [2025-03-29, 20:45:22](https://news.ycombinator.com/item?id=43518576) - [Apple's AI isn't a letdown. AI is the letdown](https://www.cnn.com/2025/03/27/tech/apple-ai-artificial-intelligence/index.html)
 * [2025-03-29, 20:31:21](https://news.ycombinator.com/item?id=43518466) - [All of the Commercials That David Lynch Has Directed: A 30-Minute Compilation](https://www.openculture.com/2018/07/watch-commercials-david-lynch-directed-big-30-minute-compilation.html)
 * [2025-03-29, 20:04:43](https://news.ycombinator.com/item?id=43518251) - [Decline of cash credited for drop in surgery for children swallowing objects](https://www.theguardian.com/society/2025/mar/28/decline-of-cash-credited-for-drop-in-nhs-surgery-for-children-swallowing-objects)
 * [2025-03-29, 20:00:33](https://news.ycombinator.com/item?id=43518220) - [Matrix Calculus (For Machine Learning and Beyond)](https://arxiv.org/abs/2501.14787)
