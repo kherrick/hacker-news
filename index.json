@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-03-29, 12:23:17",
-      "https://news.ycombinator.com/item?id=43514966"
+      "2025-03-29, 12:57:05",
+      "https://news.ycombinator.com/item?id=43515169"
     ],
     [
-      "Why Studio Ghibli movies can't be made with AI (2023)",
-      "https://twitter.com/hardmaru/status/1684940023974793216"
+      "Therapy chatbot trial yields mental health benefits",
+      "https://home.dartmouth.edu/news/2025/03/first-therapy-chatbot-trial-yields-mental-health-benefits"
+    ]
+  ],
+  [
+    [
+      "2025-03-29, 12:24:16",
+      "https://news.ycombinator.com/item?id=43514969"
+    ],
+    [
+      "What to Do",
+      "https://paulgraham.com/do.html"
     ]
   ],
   [
@@ -27,16 +37,6 @@
     [
       "The Real Story Behind Sam Altman’s Firing From OpenAI",
       "https://www.wsj.com/tech/ai/the-real-story-behind-sam-altman-firing-from-openai-efd51a5d"
-    ]
-  ],
-  [
-    [
-      "2025-03-29, 11:26:38",
-      "https://news.ycombinator.com/item?id=43514610"
-    ],
-    [
-      "Where Do the Bytes Go?",
-      "https://flak.tedunangst.com/post/where-do-the-bytes-go"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2025-03-26, 13:24:06",
+      "https://news.ycombinator.com/item?id=43482026"
+    ],
+    [
+      "I Went Undercover in Crypto's Answer to Squid Game. It Nearly Broke Me",
+      "https://www.wired.com/story/crypto-the-game-undercover/"
+    ]
+  ],
+  [
+    [
       "2025-03-26, 04:08:45",
       "https://news.ycombinator.com/item?id=43478789"
     ],
@@ -287,16 +297,6 @@
     [
       "Optimizing Matrix Multiplication on RDNA3",
       "https://seb-v.github.io/optimization/update/2025/01/20/Fast-GPU-Matrix-multiplication.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-25, 03:56:17",
-      "https://news.ycombinator.com/item?id=43467988"
-    ],
-    [
-      "Noise cancellation improves turn-taking for AI Voice Agents",
-      "https://krisp.ai/blog/improving-turn-taking-of-ai-voice-agents-with-background-voice-cancellation/"
     ]
   ]
 ]
