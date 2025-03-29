@@ -2,7 +2,7 @@
 
 * [2025-03-29, 02:19:01](https://news.ycombinator.com/item?id=43512158) - [The Gen X Career Meltdown](https://www.nytimes.com/interactive/2025/03/28/style/gen-x-creative-work.html)
 * [2025-03-29, 01:02:33](https://news.ycombinator.com/item?id=43511742) - [Show HN: Multi UPS SNMP based shutdown](https://nupst.serve.zone)
-* [2025-03-29, 00:22:21](https://news.ycombinator.com/item?id=43511464) - [iCloud Mail has DNS misconfigured](https://www.mail-tester.com/test-p3tdhnk3o)
+* [2025-03-29, 00:22:21](https://news.ycombinator.com/item?id=43511464) - [iCloud Mail has DNS misconfigured?](https://www.mail-tester.com/test-p3tdhnk3o)
 * [2025-03-29, 00:08:15](https://news.ycombinator.com/item?id=43511340) - [Madison Square Garden's surveillance banned this fan over his T-shirt design](https://www.theverge.com/news/637228/madison-square-garden-james-dolan-facial-recognition-fan-ban)
 * [2025-03-28, 22:46:43](https://news.ycombinator.com/item?id=43510710) - [Show HN: An Almost Free, Open Source TURN Server](https://github.com/lvidgen/WebRTC/blob/master/FOSS_TURN_Server/howto.md)
 * [2025-03-28, 21:37:21](https://news.ycombinator.com/item?id=43510036) - [DIY PTP Grandmaster Clock with a Raspberry Pi](https://www.jeffgeerling.com/blog/2025/diy-ptp-grandmaster-clock-raspberry-pi)
