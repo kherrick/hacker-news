@@ -18,6 +18,7 @@
 * [2025-03-27, 21:09:28](https://news.ycombinator.com/item?id=43498213) - [Take this on-call rotation and shove it](https://www.scottsmitelli.com/articles/take-oncall-and-shove-it/)
 * [2025-03-27, 21:05:59](https://news.ycombinator.com/item?id=43498176) - [Web-based cryptography is always snake oil](https://www.devever.net/~hl/webcrypto)
 * [2025-03-27, 21:00:29](https://news.ycombinator.com/item?id=43498109) - [Revyl (YC F24) Is Hiring a Front End Engineer Intern](https://www.ycombinator.com/companies/revyl/jobs/5rbIJLP-frontend-engineer-intern)
+* [2025-03-27, 20:55:57](https://news.ycombinator.com/item?id=43498071) - [Rust Adopting Ferrocene Language Specification](https://lwn.net/Articles/1015636/)
 * [2025-03-27, 20:51:42](https://news.ycombinator.com/item?id=43498031) - [We are building the next DocuSign](https://sgnly.com)
 * [2025-03-27, 20:45:13](https://news.ycombinator.com/item?id=43497954) - [Learning Theory from First Principles [pdf]](https://www.di.ens.fr/~fbach/ltfp_book.pdf)
 * [2025-03-27, 20:34:04](https://news.ycombinator.com/item?id=43497848) - [The Leader of the LeetCode Rebellion: An Interview with Roy Lee](https://thepennpost.com/2025/03/25/nicolas-casey-the-leader-of-the-leetcode-rebellion-an-interview-with-roy-lee/)
