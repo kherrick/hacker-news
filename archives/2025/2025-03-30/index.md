@@ -7,6 +7,7 @@
 * [2025-03-30, 03:14:36](https://news.ycombinator.com/item?id=43520953) - [Show HN: Cloud-Ready Postgres MCP Server](https://github.com/stuzero/pg-mcp)
 * [2025-03-30, 02:13:32](https://news.ycombinator.com/item?id=43520632) - [Tesla vandals could face 20 years in Salvadorian prison](https://abc7.com/post/president-trump-suggests-tesla-vandals-should-face-20-years-jail-sent-el-salvador/16064219/)
 * [2025-03-30, 01:34:10](https://news.ycombinator.com/item?id=43520428) - [6502 as a Service](https://www.emulationonline.com/systems/chiplab/6502-lab-available/)
+* [2025-03-30, 01:15:48](https://news.ycombinator.com/item?id=43520302) - [Rescission of the Final Scientific Integrity Policy of the NIH](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-25-080.html)
 * [2025-03-30, 01:15:24](https://news.ycombinator.com/item?id=43520297) - [A timeline of IBM keyboard history](https://sharktastica.co.uk/wip/timeline)
 * [2025-03-30, 00:41:45](https://news.ycombinator.com/item?id=43520074) - [My TV started playing a video in full screen by itself. What happened?](https://support.vizio.com/s/article/Ambient-or-Scenic-Mode-showing-on-my-TV?language=en_US)
 * [2025-03-30, 00:28:34](https://news.ycombinator.com/item?id=43519998) - [Buy once, use forever A directory of one-time purchase software. Add yours](https://buyoncesoftware.com/)

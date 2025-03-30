@@ -2,7 +2,7 @@
 
 * [2025-03-30, 03:14:36](https://news.ycombinator.com/item?id=43520953) - [Show HN: Cloud-Ready Postgres MCP Server](https://github.com/stuzero/pg-mcp)
 * [2025-03-30, 01:34:10](https://news.ycombinator.com/item?id=43520428) - [6502 as a Service](https://www.emulationonline.com/systems/chiplab/6502-lab-available/)
-* [2025-03-30, 01:15:24](https://news.ycombinator.com/item?id=43520297) - [A timeline of IBM keyboard history](https://sharktastica.co.uk/wip/timeline)
+* [2025-03-30, 01:15:48](https://news.ycombinator.com/item?id=43520302) - [Rescission of the Final Scientific Integrity Policy of the NIH](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-25-080.html)
 * [2025-03-30, 00:41:45](https://news.ycombinator.com/item?id=43520074) - [My TV started playing a video in full screen by itself. What happened?](https://support.vizio.com/s/article/Ambient-or-Scenic-Mode-showing-on-my-TV?language=en_US)
 * [2025-03-30, 00:17:12](https://news.ycombinator.com/item?id=43519938) - [Breaking up with vibe coding](https://www.lucasaguiar.xyz/posts/vibe-coding-pitfalls/)
 * [2025-03-30, 00:15:47](https://news.ycombinator.com/item?id=43519930) - [Msgpack23 – A modern, header-only C++ library for MessagePack (de)serialization](https://github.com/rwindegger/msgpack23)
