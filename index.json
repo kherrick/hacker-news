@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-30, 22:44:38",
+      "https://news.ycombinator.com/item?id=43528479"
+    ],
+    [
+      "Xiaofeng Wang",
+      "https://www.researchgate.net/profile/Xiaofeng-Wang-35"
+    ]
+  ],
+  [
+    [
       "2025-03-30, 22:28:15",
       "https://news.ycombinator.com/item?id=43528356"
     ],
@@ -37,16 +47,6 @@
     [
       "Public secrets exposure leads to supply chain attack on GitHub CodeQL",
       "https://www.praetorian.com/blog/codeqleaked-public-secrets-exposure-leads-to-supply-chain-attack-on-github-codeql/"
-    ]
-  ],
-  [
-    [
-      "2025-03-30, 19:52:25",
-      "https://news.ycombinator.com/item?id=43527024"
-    ],
-    [
-      "Pixelfed leaks private posts from other Fediverse instances",
-      "https://fokus.cool/2025/03/25/pixelfed-vulnerability.html"
     ]
   ],
   [
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2025-03-30, 14:53:33",
-      "https://news.ycombinator.com/item?id=43524665"
-    ],
-    [
-      "Span<T>.SequenceEquals is faster than memcmp",
-      "https://richardcocks.github.io/2025-03-30-FasterThanMemCmp.html"
-    ]
-  ],
-  [
-    [
       "2025-03-30, 12:50:45",
       "https://news.ycombinator.com/item?id=43523765"
     ],
@@ -247,6 +237,16 @@
     [
       "Functors, Applicatives, and Monads",
       "https://www.thecoder.cafe/p/functors-applicatives-monads"
+    ]
+  ],
+  [
+    [
+      "2025-03-27, 22:21:20",
+      "https://news.ycombinator.com/item?id=43498861"
+    ],
+    [
+      "George Orwell and me: Richard Blair on life with his extraordinary father",
+      "https://www.theguardian.com/books/2025/mar/19/george-orwell-me-richard-blair-life-with-extraordinary-father"
     ]
   ],
   [
