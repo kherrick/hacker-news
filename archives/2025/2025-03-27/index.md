@@ -71,6 +71,7 @@
 * [2025-03-27, 10:35:11](https://news.ycombinator.com/item?id=43492112) - [Why I'm Boycotting AI](https://unherd.com/2025/03/why-im-boycotting-ai/)
 * [2025-03-27, 10:26:23](https://news.ycombinator.com/item?id=43492064) - [Chatbots-Are-AI-Antipatterns](https://hello-jp.net/building-beyond-the-buzz/chatbots-are-ai-antipatterns)
 * [2025-03-27, 10:12:56](https://news.ycombinator.com/item?id=43491977) - [Glider for Apple II](https://www.colino.net/wordpress/en/glider-for-apple-ii/)
+* [2025-03-27, 07:42:47](https://news.ycombinator.com/item?id=43491245) - [Show HN: I build a tool to add noise texture to your images](https://noisetools.vercel.app/)
 * [2025-03-27, 07:02:22](https://news.ycombinator.com/item?id=43491060) - [Supabase (YC S20) Is Hiring a Senior Auth Engineer (Remote)](https://jobs.ashbyhq.com/supabase/a2ede2c7-3792-4bfd-951d-686267b2b9a8)
 * [2025-03-27, 04:02:56](https://news.ycombinator.com/item?id=43490290) - [C. Elegans: The Worm That No Computer Scientist Can Crack](https://www.wired.com/story/openworm-worm-simulator-biology-code/)
 * [2025-03-27, 03:37:55](https://news.ycombinator.com/item?id=43490173) - [They Might Be Giants Flood EPK Promo (1990) [video]](https://www.youtube.com/watch?v=C-tQSFQ-ESY)
