@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-30](index.md)
 
 * [2025-03-30, 03:14:36](https://news.ycombinator.com/item?id=43520953) - [Show HN: Cloud-Ready Postgres MCP Server](https://github.com/stuzero/pg-mcp)
+* [2025-03-30, 02:29:44](https://news.ycombinator.com/item?id=43520716) - [Electric power generation from Earth's rotation through its own magnetic field](https://arxiv.org/abs/2503.15790)
 * [2025-03-30, 02:13:32](https://news.ycombinator.com/item?id=43520632) - [Tesla vandals could face 20 years in Salvadorian prison](https://abc7.com/post/president-trump-suggests-tesla-vandals-should-face-20-years-jail-sent-el-salvador/16064219/)
 * [2025-03-30, 01:34:10](https://news.ycombinator.com/item?id=43520428) - [6502 as a Service](https://www.emulationonline.com/systems/chiplab/6502-lab-available/)
 * [2025-03-30, 01:15:48](https://news.ycombinator.com/item?id=43520302) - [Rescission of the Final Scientific Integrity Policy of the NIH](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-25-080.html)
