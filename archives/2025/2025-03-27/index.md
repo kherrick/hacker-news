@@ -6,6 +6,7 @@
 
 * [2025-03-27, 23:32:17](https://news.ycombinator.com/item?id=43499492) - [US administration revokes $11B in funding for addiction, mental health care](https://www.npr.org/2025/03/27/nx-s1-5342368/addiction-trump-mental-health-funding)
 * [2025-03-27, 23:15:28](https://news.ycombinator.com/item?id=43499342) - [Giant, fungus-like organism may be a completely unknown branch of life](https://www.livescience.com/animals/giant-fungus-like-organism-may-be-a-completely-unknown-branch-of-life)
+* [2025-03-27, 23:12:16](https://news.ycombinator.com/item?id=43499319) - [Charlie Brown and Franz Stigler incident (1943)](https://en.wikipedia.org/wiki/Charlie_Brown_and_Franz_Stigler_incident)
 * [2025-03-27, 22:39:51](https://news.ycombinator.com/item?id=43499045) - [Most promoted and blocked domains on Kagi](https://kagi.com/stats?stat=leaderboard)
 * [2025-03-27, 22:32:45](https://news.ycombinator.com/item?id=43498984) - [Apple Needs a Snow Sequoia](https://reviews.ofb.biz/safari/article/1300.html)
 * [2025-03-27, 22:14:39](https://news.ycombinator.com/item?id=43498807) - [Anthropic Economic Index: Insights from Claude 3.7 Sonnet](https://www.anthropic.com/news/anthropic-economic-index-insights-from-claude-sonnet-3-7)
