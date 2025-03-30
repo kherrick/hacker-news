@@ -26,6 +26,7 @@
 * [2025-03-26, 18:38:14](https://news.ycombinator.com/item?id=43485373) - [You Need Subtyping](https://blog.polybdenum.com/2025/03/26/why-you-need-subtyping.html)
 * [2025-03-26, 18:29:27](https://news.ycombinator.com/item?id=43485269) - [OpenAI Is Adopting MCP](https://twitter.com/OpenAIDevs/status/1904957755829481737)
 * [2025-03-26, 18:27:12](https://news.ycombinator.com/item?id=43485242) - [The theft and recovery of a grisaille by Anthony Van Dyck (1599–1641)](https://britishartjournal.co.uk/recovery-of-a-stolen-van-dyck/)
+* [2025-03-26, 18:03:21](https://news.ycombinator.com/item?id=43484944) - [Testing the latest AI tools for prototyping and building simple websites](https://blog.codeyam.com/p/testing-the-latest-ai-tools-for-prototyping)
 * [2025-03-26, 18:01:51](https://news.ycombinator.com/item?id=43484927) - [Google will develop Android OS behind closed doors starting next week](https://9to5google.com/2025/03/26/google-android-aosp-developement-private/)
 * [2025-03-26, 17:53:47](https://news.ycombinator.com/item?id=43484845) - [Malware found on NPM infecting local package with reverse shell](https://www.reversinglabs.com/blog/malicious-npm-patch-delivers-reverse-shell)
 * [2025-03-26, 17:25:58](https://news.ycombinator.com/item?id=43484542) - [Firefox Is Finally (Re)Adding Support for Web Apps](https://www.omgubuntu.co.uk/2025/03/firefox-nightly-supports-web-apps-taskbar-tabs)
