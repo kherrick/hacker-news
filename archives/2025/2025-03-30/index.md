@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-30](index.md)
 
+* [2025-03-30, 04:06:35](https://news.ycombinator.com/item?id=43521244) - ['Catastrophic': Canadian bookings for U.S. travel drop sharply](https://www.ctvnews.ca/canada/article/where-have-all-the-snowbirds-gone-canadians-cold-on-us-travel/)
 * [2025-03-30, 03:14:36](https://news.ycombinator.com/item?id=43520953) - [Show HN: Cloud-Ready Postgres MCP Server](https://github.com/stuzero/pg-mcp)
 * [2025-03-30, 02:29:44](https://news.ycombinator.com/item?id=43520716) - [Electric power generation from Earth's rotation through its own magnetic field](https://arxiv.org/abs/2503.15790)
 * [2025-03-30, 02:13:32](https://news.ycombinator.com/item?id=43520632) - [Tesla vandals could face 20 years in Salvadorian prison](https://abc7.com/post/president-trump-suggests-tesla-vandals-should-face-20-years-jail-sent-el-salvador/16064219/)
