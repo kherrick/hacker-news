@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-30](index.md)
 
 * [2025-03-30, 18:41:46](https://news.ycombinator.com/item?id=43526443) - [Can Earth's rotation generate power? Physicists divided over controversial claim](https://www.nature.com/articles/d41586-025-00847-0)
+* [2025-03-30, 18:35:03](https://news.ycombinator.com/item?id=43526396) - [The Nobel Duel](https://www.asimov.press/p/nobel-duel)
 * [2025-03-30, 17:33:19](https://news.ycombinator.com/item?id=43525909) - [Met Police smash down door of Quaker meeting house to arrest activists](https://www.thetimes.com/uk/society/article/met-smash-down-door-of-quaker-meeting-house-to-arrest-activists-jhhchrtlt)
 * [2025-03-30, 17:06:47](https://news.ycombinator.com/item?id=43525687) - [Swiftly 1.0](https://www.swift.org/blog/introducing-swiftly_10/)
 * [2025-03-30, 17:01:47](https://news.ycombinator.com/item?id=43525636) - [Spice Data (YC S19) Is Hiring a Software Engineer](https://www.ycombinator.com/companies/spice-data/jobs/TijA35R-software-engineer)
