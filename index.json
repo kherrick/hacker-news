@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-30, 19:52:25",
+      "https://news.ycombinator.com/item?id=43527024"
+    ],
+    [
+      "Pixelfed leaks private posts from other Fediverse instances",
+      "https://fokus.cool/2025/03/25/pixelfed-vulnerability.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-30, 19:51:56",
+      "https://news.ycombinator.com/item?id=43527019"
+    ],
+    [
+      "Raising Kids to Have an Analog Childhood in a Digital World",
+      "https://www.joshuakennon.com/raising-kids-to-have-an-analogue-childhood-in-a-digital-world/"
+    ]
+  ],
+  [
+    [
       "2025-03-30, 19:50:10",
       "https://news.ycombinator.com/item?id=43527001"
     ],
@@ -41,12 +61,22 @@
   ],
   [
     [
-      "2025-03-30, 17:33:19",
-      "https://news.ycombinator.com/item?id=43525909"
+      "2025-03-30, 18:10:25",
+      "https://news.ycombinator.com/item?id=43526215"
     ],
     [
-      "Met Police smash down door of Quaker meeting house to arrest activists",
-      "https://www.thetimes.com/uk/society/article/met-smash-down-door-of-quaker-meeting-house-to-arrest-activists-jhhchrtlt"
+      "One island, two worlds (Haiti vs. Dominican Republic)",
+      "https://www.economist.com/the-americas/2025/03/27/one-island-two-worlds"
+    ]
+  ],
+  [
+    [
+      "2025-03-30, 17:51:42",
+      "https://news.ycombinator.com/item?id=43526058"
+    ],
+    [
+      "Why Is This Site Built with C",
+      "https://marcelofern.com/posts/c/why-is-this-site-built-with-c/index.html"
     ]
   ],
   [
@@ -91,12 +121,12 @@
   ],
   [
     [
-      "2025-03-30, 15:08:54",
-      "https://news.ycombinator.com/item?id=43524784"
+      "2025-03-30, 14:55:57",
+      "https://news.ycombinator.com/item?id=43524673"
     ],
     [
-      "Isar Aerospace launches Spectrum, fails early in first stage flight",
-      "https://www.nasaspaceflight.com/2025/03/isar-first-launch/"
+      "Literate Development: AI-Enhanced Software Engineering",
+      "https://substack.com/home/post/p-160183664"
     ]
   ],
   [
@@ -181,32 +211,12 @@
   ],
   [
     [
-      "2025-03-29, 21:34:02",
-      "https://news.ycombinator.com/item?id=43518917"
-    ],
-    [
-      "Convert Linux to Windows",
-      "https://philipbohun.com/blog/0007.html"
-    ]
-  ],
-  [
-    [
       "2025-03-29, 21:26:32",
       "https://news.ycombinator.com/item?id=43518866"
     ],
     [
       "Everyone knows all the apps on your phone",
       "https://peabee.substack.com/p/everyone-knows-what-apps-you-use"
-    ]
-  ],
-  [
-    [
-      "2025-03-29, 18:00:48",
-      "https://news.ycombinator.com/item?id=43517301"
-    ],
-    [
-      "Why Apple's Severance gets edited over remote desktop software",
-      "https://tedium.co/2025/03/29/severance-apple-remote-editing-weirdness/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Functors, Applicatives, and Monads",
       "https://www.thecoder.cafe/p/functors-applicatives-monads"
-    ]
-  ],
-  [
-    [
-      "2025-03-28, 00:10:53",
-      "https://news.ycombinator.com/item?id=43499783"
-    ],
-    [
-      "Operationalizing Macaroons",
-      "https://fly.io/blog/operationalizing-macaroons/"
     ]
   ],
   [
