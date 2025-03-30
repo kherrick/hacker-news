@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-30](index.md)
 
+* [2025-03-30, 22:28:15](https://news.ycombinator.com/item?id=43528356) - [ICE Revoking Students' Immigration Statuses Without Their or the Uni's Knowledge](https://zeteo.com/p/ice-manually-revoking-university-students-residency-status-middle-east)
 * [2025-03-30, 20:55:28](https://news.ycombinator.com/item?id=43527552) - [MAME 0.276](https://www.mamedev.org/?p=549)
 * [2025-03-30, 20:43:15](https://news.ycombinator.com/item?id=43527452) - [Ask HN: What are you working on? (March 2025)](https://news.ycombinator.com/item?id=43527452)
 * [2025-03-30, 20:20:00](https://news.ycombinator.com/item?id=43527275) - [ICE Arrested and Detained a US Citizen for Hours Because He Looked Mexican](https://www.techdirt.com/2025/03/28/ice-arrested-and-detained-a-us-citizen-for-hours-because-he-looked-mexican/)

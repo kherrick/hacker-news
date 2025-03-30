@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-30, 22:28:15](https://news.ycombinator.com/item?id=43528356) - [ICE Revoking Students' Immigration Statuses Without Their or the Uni's Knowledge](https://zeteo.com/p/ice-manually-revoking-university-students-residency-status-middle-east)
 * [2025-03-30, 20:55:28](https://news.ycombinator.com/item?id=43527552) - [MAME 0.276](https://www.mamedev.org/?p=549)
 * [2025-03-30, 20:43:15](https://news.ycombinator.com/item?id=43527452) - [Ask HN: What are you working on? (March 2025)](https://news.ycombinator.com/item?id=43527452)
 * [2025-03-30, 19:54:46](https://news.ycombinator.com/item?id=43527044) - [Public secrets exposure leads to supply chain attack on GitHub CodeQL](https://www.praetorian.com/blog/codeqleaked-public-secrets-exposure-leads-to-supply-chain-attack-on-github-codeql/)
@@ -10,7 +11,6 @@
 * [2025-03-30, 19:03:42](https://news.ycombinator.com/item?id=43526621) - [File Systems Unfit as Distributed Storage Back Ends (2019)](https://dl.acm.org/doi/pdf/10.1145/3341301.3359656)
 * [2025-03-30, 18:41:46](https://news.ycombinator.com/item?id=43526443) - [Can Earth's rotation generate power? Physicists divided over controversial claim](https://www.nature.com/articles/d41586-025-00847-0)
 * [2025-03-30, 18:35:03](https://news.ycombinator.com/item?id=43526396) - [The Nobel Duel](https://www.asimov.press/p/nobel-duel)
-* [2025-03-30, 18:10:25](https://news.ycombinator.com/item?id=43526215) - [One island, two worlds (Haiti vs. Dominican Republic)](https://www.economist.com/the-americas/2025/03/27/one-island-two-worlds)
 * [2025-03-30, 17:51:42](https://news.ycombinator.com/item?id=43526058) - [Why Is This Site Built with C](https://marcelofern.com/posts/c/why-is-this-site-built-with-c/index.html)
 * [2025-03-30, 17:01:47](https://news.ycombinator.com/item?id=43525636) - [Spice Data (YC S19) is hiring a software engineer](https://www.ycombinator.com/companies/spice-data/jobs/TijA35R-software-engineer)
 * [2025-03-30, 15:49:19](https://news.ycombinator.com/item?id=43525079) - [The Child and the Shadow (1975) [pdf]](https://www.johnirons.com/pdfs/shadowleguin.pdf)
