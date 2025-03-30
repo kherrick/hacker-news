@@ -69,6 +69,7 @@
 * [2025-03-27, 10:26:23](https://news.ycombinator.com/item?id=43492064) - [Chatbots-Are-AI-Antipatterns](https://hello-jp.net/building-beyond-the-buzz/chatbots-are-ai-antipatterns)
 * [2025-03-27, 10:12:56](https://news.ycombinator.com/item?id=43491977) - [Glider for Apple II](https://www.colino.net/wordpress/en/glider-for-apple-ii/)
 * [2025-03-27, 07:02:22](https://news.ycombinator.com/item?id=43491060) - [Supabase (YC S20) Is Hiring a Senior Auth Engineer (Remote)](https://jobs.ashbyhq.com/supabase/a2ede2c7-3792-4bfd-951d-686267b2b9a8)
+* [2025-03-27, 04:02:56](https://news.ycombinator.com/item?id=43490290) - [C. Elegans: The Worm That No Computer Scientist Can Crack](https://www.wired.com/story/openworm-worm-simulator-biology-code/)
 * [2025-03-27, 03:37:55](https://news.ycombinator.com/item?id=43490173) - [They Might Be Giants Flood EPK Promo (1990) [video]](https://www.youtube.com/watch?v=C-tQSFQ-ESY)
 * [2025-03-27, 03:36:40](https://news.ycombinator.com/item?id=43490167) - [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)
 * [2025-03-27, 02:37:09](https://news.ycombinator.com/item?id=43489861) - [First C compiler source code from 1972](https://github.com/mortdeus/legacy-cc/tree/master/last1120c)

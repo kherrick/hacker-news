@@ -26,10 +26,10 @@
 * [2025-03-29, 12:14:48](https://news.ycombinator.com/item?id=43514915) - [Koto Programming Language](https://koto.dev/)
 * [2025-03-29, 11:41:54](https://news.ycombinator.com/item?id=43514695) - [Real Time Chess – A physical chess board without the concept of turns](https://github.com/misprit7/real-time-chess)
 * [2025-03-27, 15:50:08](https://news.ycombinator.com/item?id=43494894) - [XAN: A Modern CSV-Centric Data Manipulation Toolkit for the Terminal](https://github.com/medialab/xan)
+* [2025-03-27, 04:02:56](https://news.ycombinator.com/item?id=43490290) - [C. Elegans: The Worm That No Computer Scientist Can Crack](https://www.wired.com/story/openworm-worm-simulator-biology-code/)
 * [2025-03-26, 18:51:00](https://news.ycombinator.com/item?id=43485514) - [The disappearance of Gaia, ESA spacecraft will be turned off on 27 March 2025](https://www.cosmos.esa.int/web/gaia/news)
 * [2025-03-26, 14:49:02](https://news.ycombinator.com/item?id=43482863) - [The Mysterious Flow of Fluid in the Brain](https://www.quantamagazine.org/the-mysterious-flow-of-fluid-in-the-brain-20250326/)
 * [2025-03-26, 12:44:36](https://news.ycombinator.com/item?id=43481607) - [Gate: AI and Automation Scenario Explorer](https://epoch.ai/gate)
-* [2025-03-26, 11:32:27](https://news.ycombinator.com/item?id=43481024) - [Introduction to Open Source Laptop Project](https://resources.altium.com/p/open-source-laptop-part-one)
 
 ## [Archives](archives/index.md)
 
