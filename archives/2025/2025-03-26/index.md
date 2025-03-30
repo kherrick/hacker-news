@@ -37,6 +37,7 @@
 * [2025-03-26, 17:00:00](https://news.ycombinator.com/item?id=43484283) - [Weave (YC W25) is hiring a founding product engineer](https://www.ycombinator.com/companies/weave-3/jobs/E0LFOgu-founding-product-engineer)
 * [2025-03-26, 16:54:51](https://news.ycombinator.com/item?id=43484224) - [The Impact of Generative AI on Critical Thinking [pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf)
 * [2025-03-26, 16:54:51](https://news.ycombinator.com/item?id=43484224) - [Microsoft Study: AI Makes Human Cognition \"Atrophied and Unprepared\"](https://www.404media.co/microsoft-study-finds-ai-makes-human-cognition-atrophied-and-unprepared-3/)
+* [2025-03-26, 16:41:18](https://news.ycombinator.com/item?id=43484100) - [Certified randomness using a trapped-ion quantum processor](https://www.nature.com/articles/s41586-025-08737-1)
 * [2025-03-26, 16:40:29](https://news.ycombinator.com/item?id=43484093) - [Discredited anti-vaccine advocate will lead CDC study on vaccines and autism](https://arstechnica.com/health/2025/03/rfk-jr-hires-anti-vaccine-advocate-to-study-debunked-vaccine-autism-link/)
 * [2025-03-26, 16:18:14](https://news.ycombinator.com/item?id=43483842) - [Good-bye core types; Hello Go as we know and love it](https://go.dev/blog/coretypes)
 * [2025-03-26, 16:15:31](https://news.ycombinator.com/item?id=43483802) - [Kilo Code: Speedrunning open source coding AI](https://blog.kilocode.ai/p/kilo-code-speedrunning-open-source-coding-ai)
