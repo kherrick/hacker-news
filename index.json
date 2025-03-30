@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-03-30, 19:06:48",
+      "https://news.ycombinator.com/item?id=43526644"
+    ],
+    [
+      "Richard Chamberlain dies aged 90",
+      "https://www.theguardian.com/tv-and-radio/2025/mar/30/richard-chamberlain-hero-of-dr-kildare-and-king-of-the-miniseries-dies-aged-90"
+    ]
+  ],
+  [
+    [
+      "2025-03-30, 19:03:42",
+      "https://news.ycombinator.com/item?id=43526621"
+    ],
+    [
+      "File Systems Unfit as Distributed Storage Back Ends (2019)",
+      "https://dl.acm.org/doi/pdf/10.1145/3341301.3359656"
+    ]
+  ],
+  [
+    [
+      "2025-03-30, 18:41:46",
+      "https://news.ycombinator.com/item?id=43526443"
+    ],
+    [
+      "Can Earth's rotation generate power? Physicists divided over controversial claim",
+      "https://www.nature.com/articles/d41586-025-00847-0"
+    ]
+  ],
+  [
+    [
       "2025-03-30, 18:35:03",
       "https://news.ycombinator.com/item?id=43526396"
     ],
@@ -87,16 +117,6 @@
     [
       "Span<T>.SequenceEquals is faster than memcmp",
       "https://richardcocks.github.io/2025-03-30-FasterThanMemCmp.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-30, 14:35:26",
-      "https://news.ycombinator.com/item?id=43524534"
-    ],
-    [
-      "An Ode to the Game Boy Advance",
-      "https://brainbaking.com/post/2025/03/an-ode-to-the-game-boy-advance/"
     ]
   ],
   [
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2025-03-29, 18:12:03",
-      "https://news.ycombinator.com/item?id=43517375"
-    ],
-    [
-      "Paged Out #6 [pdf]",
-      "https://pagedout.institute/download/PagedOut_006.pdf"
-    ]
-  ],
-  [
-    [
       "2025-03-29, 18:00:48",
       "https://news.ycombinator.com/item?id=43517301"
     ],
     [
       "Why Apple's Severance gets edited over remote desktop software",
       "https://tedium.co/2025/03/29/severance-apple-remote-editing-weirdness/"
-    ]
-  ],
-  [
-    [
-      "2025-03-29, 16:38:01",
-      "https://news.ycombinator.com/item?id=43516733"
-    ],
-    [
-      "Accessible open textbooks in math-heavy disciplines",
-      "https://richardzach.org/2025/03/accessible-open-textbooks-in-math-heavy-disciplines/"
     ]
   ],
   [
