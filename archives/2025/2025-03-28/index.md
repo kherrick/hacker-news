@@ -64,6 +64,7 @@
 * [2025-03-28, 09:20:44](https://news.ycombinator.com/item?id=43503207) - [Postgres Extension Tutorial](https://github.com/IshaanAdarsh/Postgres-extension-tutorial/blob/main/SGML/intro_and_toc.md)
 * [2025-03-28, 08:45:56](https://news.ycombinator.com/item?id=43503004) - [On Tyranny [book]](https://timothysnyder.org/on-tyranny)
 * [2025-03-28, 07:25:35](https://news.ycombinator.com/item?id=43502510) - [Mid-pregnancy pollution exposure linked to postpartum depression](https://www.bps.org.uk/research-digest/mid-pregnancy-pollution-exposure-linked-postpartum-depression-new-study-suggests)
+* [2025-03-28, 07:22:40](https://news.ycombinator.com/item?id=43502488) - [The surprisingly simple reason kids have imaginary friends](https://www.vox.com/life/404992/imaginary-friends-kids-friendships-children)
 * [2025-03-28, 07:21:10](https://news.ycombinator.com/item?id=43502477) - [Patience is a coping strategy, not a virtue](https://www.bps.org.uk/research-digest/patience-coping-strategy-not-virtue)
 * [2025-03-28, 07:00:01](https://news.ycombinator.com/item?id=43502357) - [Software Eng Intern – Structured Labs (YC S23) Is Hiring](https://www.ycombinator.com/companies/structured-labs/jobs/MWU8Ws3-software-engineer-intern)
 * [2025-03-28, 06:48:18](https://news.ycombinator.com/item?id=43502291) - [Xee: A Modern XPath and XSLT Engine in Rust](https://blog.startifact.com/posts/xee/)

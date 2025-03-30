@@ -7,6 +7,7 @@
 * [2025-03-30, 22:44:38](https://news.ycombinator.com/item?id=43528479) - [Xiaofeng Wang](https://www.researchgate.net/profile/Xiaofeng-Wang-35)
 * [2025-03-30, 22:28:15](https://news.ycombinator.com/item?id=43528356) - [ICE Revoking Students' Immigration Statuses Without Their or the Uni's Knowledge](https://zeteo.com/p/ice-manually-revoking-university-students-residency-status-middle-east)
 * [2025-03-30, 20:55:28](https://news.ycombinator.com/item?id=43527552) - [MAME 0.276](https://www.mamedev.org/?p=549)
+* [2025-03-30, 20:52:39](https://news.ycombinator.com/item?id=43527521) - [Xfinity XB3 hardware mod: Disable WiFi and save 2 watts](https://gist.github.com/pmarks-net/af40dba69272806c1ec9cbe71429d2e7)
 * [2025-03-30, 20:43:15](https://news.ycombinator.com/item?id=43527452) - [Ask HN: What are you working on? (March 2025)](https://news.ycombinator.com/item?id=43527452)
 * [2025-03-30, 20:20:00](https://news.ycombinator.com/item?id=43527275) - [ICE Arrested and Detained a US Citizen for Hours Because He Looked Mexican](https://www.techdirt.com/2025/03/28/ice-arrested-and-detained-a-us-citizen-for-hours-because-he-looked-mexican/)
 * [2025-03-30, 20:06:02](https://news.ycombinator.com/item?id=43527154) - [Man Detained by ICE for Autism Awareness Tattoo Sent to Prison](https://www.latintimes.com/man-detained-ice-autism-awareness-tattoo-still-sent-prison-after-officers-declared-him-clean-579373)
