@@ -129,25 +129,58 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="43520632">
+        <section id="43520953">
           <h3>
-            <a
-              class="item"
-              href="https://abc7.com/post/president-trump-suggests-tesla-vandals-should-face-20-years-jail-sent-el-salvador/16064219/"
-              >Tesla vandals could face 20 years in Salvadorian prison</a
+            <a class="item" href="https://github.com/stuzero/pg-mcp"
+              >Show HN: Cloud-Ready Postgres MCP Server</a
             >
           </h3>
           <section>
             <h4>
-              <span>2025-03-30 @ 02:13:32</span
+              <span>2025-03-30 @ 03:14:36</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">6</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43520632"
+                ><a href="https://news.ycombinator.com/item?id=43520953"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
+            <div class="text">
+              <p>
+                I built pg-mcp, a Model Context Protocol (MCP) server for
+                PostgreSQL that provides structured schema inspection and query
+                execution for LLMs and agents. It's multi-tenant and runs over
+                HTTP/SSE (not stdio)
+              </p>
+              <p>
+                Features - Supports multiple database connections from multiple
+                agents
+              </p>
+              <p>
+                - Schema Introspection: Returns table structures, types, indexes
+                and constraints; enriched with descriptions from pg_catalog.
+                (for well documented databases)
+              </p>
+              <p>
+                - Read-Only Queries: Controlled execution of queries via MCP.
+              </p>
+              <p>
+                - EXPLAIN Tool: Helps smart agents optimize queries before
+                execution.
+              </p>
+              <p>
+                - Extension Plugins: YAML-based plugin system for Postgres
+                extensions (supports pgvector and postgis out of the box).
+              </p>
+              <p>
+                - Server Mode: Spin up the container and it's ready to accept
+                connections at
+                <a href="http://localhost:8000/sse"
+                  >http://localhost:8000/sse</a
+                >
+              </p>
+            </div>
           </section>
         </section>
         <section id="43520428">
@@ -162,11 +195,11 @@
             <h4>
               <span>2025-03-30 @ 01:34:10</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43520428"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -181,11 +214,11 @@
             <h4>
               <span>2025-03-30 @ 01:15:24</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43520297"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -203,31 +236,11 @@
             <h4>
               <span>2025-03-30 @ 00:41:45</span
               ><span class="points-container"
-                >Points: <span class="points">222</span></span
+                >Points: <span class="points">232</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43520074"
                   >Comments</a
-                ><span class="descendants">: 119</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43519998">
-          <h3>
-            <a class="item" href="https://buyoncesoftware.com/"
-              >Buy once, use forever A directory of one-time purchase software.
-              Add yours</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-03-30 @ 00:28:34</span
-              ><span class="points-container"
-                >Points: <span class="points">194</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43519998"
-                  >Comments</a
-                ><span class="descendants">: 80</span></span
+                ><span class="descendants">: 127</span></span
               >
             </h4>
           </section>
@@ -244,11 +257,11 @@
             <h4>
               <span>2025-03-30 @ 00:17:12</span
               ><span class="points-container"
-                >Points: <span class="points">51</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43519938"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -268,7 +281,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43519930"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -289,7 +302,49 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43519823"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 13</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="43519669">
+          <h3>
+            <a
+              class="item"
+              href="http://blog.dusktreader.dev/2025/03/29/self-contained-python-scripts-with-uv/"
+              >Self-contained Python scripts with uv</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-03-29 @ 23:22:58</span
+              ><span class="points-container"
+                >Points: <span class="points">25</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43519669"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="43519100">
+          <h3>
+            <a
+              class="item"
+              href="https://www.riscosopen.org/news/articles/2025/03/28/moonshots-initiative-to-secure-the-future-of-the-os"
+              >"Moonshots" Initiative to Secure the Future of RISC OS</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-03-29 @ 21:58:42</span
+              ><span class="points-container"
+                >Points: <span class="points">21</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43519100"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -304,11 +359,11 @@
             <h4>
               <span>2025-03-29 @ 21:34:02</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">96</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43518917"
                   >Comments</a
-                ><span class="descendants">: 110</span></span
+                ><span class="descendants">: 117</span></span
               >
             </h4>
           </section>
@@ -325,11 +380,11 @@
             <h4>
               <span>2025-03-29 @ 21:26:32</span
               ><span class="points-container"
-                >Points: <span class="points">197</span></span
+                >Points: <span class="points">212</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43518866"
                   >Comments</a
-                ><span class="descendants">: 84</span></span
+                ><span class="descendants">: 89</span></span
               >
             </h4>
           </section>
@@ -364,7 +419,7 @@
             <h4>
               <span>2025-03-29 @ 20:43:42</span
               ><span class="points-container"
-                >Points: <span class="points">109</span></span
+                >Points: <span class="points">112</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43518560"
                   >Comments</a
@@ -385,11 +440,11 @@
             <h4>
               <span>2025-03-29 @ 20:31:21</span
               ><span class="points-container"
-                >Points: <span class="points">103</span></span
+                >Points: <span class="points">105</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43518466"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -404,32 +459,11 @@
             <h4>
               <span>2025-03-29 @ 20:00:33</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">86</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43518220"
                   >Comments</a
                 ><span class="descendants">: 13</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43518087">
-          <h3>
-            <a
-              class="item"
-              href="https://ploum.net/2025-03-28-geeks-naivety.html"
-              >The Candid Naivety of Geeks</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-03-29 @ 19:45:46</span
-              ><span class="points-container"
-                >Points: <span class="points">122</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43518087"
-                  >Comments</a
-                ><span class="descendants">: 61</span></span
               >
             </h4>
           </section>
@@ -446,11 +480,11 @@
             <h4>
               <span>2025-03-29 @ 19:19:05</span
               ><span class="points-container"
-                >Points: <span class="points">118</span></span
+                >Points: <span class="points">128</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43517833"
                   >Comments</a
-                ><span class="descendants">: 239</span></span
+                ><span class="descendants">: 258</span></span
               >
             </h4>
           </section>
@@ -485,7 +519,7 @@
             <h4>
               <span>2025-03-29 @ 18:42:43</span
               ><span class="points-container"
-                >Points: <span class="points">85</span></span
+                >Points: <span class="points">88</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43517576"
                   >Comments</a
@@ -498,19 +532,19 @@
           <h3>
             <a
               class="item"
-              href="https://pagedout.institute/?page=blog.php#entry-2025-03-29"
-              >Paged Out #6 is out</a
+              href="https://pagedout.institute/download/PagedOut_006.pdf"
+              >Paged Out #6 [pdf]</a
             >
           </h3>
           <section>
             <h4>
               <span>2025-03-29 @ 18:12:03</span
               ><span class="points-container"
-                >Points: <span class="points">192</span></span
+                >Points: <span class="points">195</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43517375"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -529,7 +563,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43517337"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 65</span></span
               >
             </h4>
           </section>
@@ -546,11 +580,11 @@
             <h4>
               <span>2025-03-29 @ 18:00:48</span
               ><span class="points-container"
-                >Points: <span class="points">369</span></span
+                >Points: <span class="points">375</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43517301"
                   >Comments</a
-                ><span class="descendants">: 240</span></span
+                ><span class="descendants">: 244</span></span
               >
             </h4>
           </section>
@@ -586,11 +620,11 @@
             <h4>
               <span>2025-03-29 @ 16:38:01</span
               ><span class="points-container"
-                >Points: <span class="points">164</span></span
+                >Points: <span class="points">165</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43516733"
                   >Comments</a
-                ><span class="descendants">: 53</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -605,7 +639,7 @@
             <h4>
               <span>2025-03-29 @ 12:14:48</span
               ><span class="points-container"
-                >Points: <span class="points">146</span></span
+                >Points: <span class="points">149</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43514915"
                   >Comments</a
@@ -625,7 +659,7 @@
             <h4>
               <span>2025-03-29 @ 11:41:54</span
               ><span class="points-container"
-                >Points: <span class="points">207</span></span
+                >Points: <span class="points">208</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43514695"
                   >Comments</a
@@ -664,7 +698,7 @@
             <h4>
               <span>2025-03-27 @ 15:50:08</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">55</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43494894"
                   >Comments</a
@@ -684,7 +718,7 @@
             <h4>
               <span>2025-03-26 @ 18:51:00</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43485514"
                   >Comments</a
@@ -705,7 +739,7 @@
             <h4>
               <span>2025-03-26 @ 14:49:02</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43482863"
                   >Comments</a
@@ -724,7 +758,7 @@
             <h4>
               <span>2025-03-26 @ 12:44:36</span
               ><span class="points-container"
-                >Points: <span class="points">6</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43481607"
                   >Comments</a
