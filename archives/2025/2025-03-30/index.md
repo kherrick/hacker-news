@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-30](index.md)
 
 * [2025-03-30, 11:15:12](https://news.ycombinator.com/item?id=43523238) - [Rust Any part 3: we have upcasts](https://lucumr.pocoo.org/2025/3/27/any-upcast/)
+* [2025-03-30, 10:20:11](https://news.ycombinator.com/item?id=43522966) - [The average college student today](https://hilariusbookbinder.substack.com/p/the-average-college-student-today)
 * [2025-03-30, 08:14:11](https://news.ycombinator.com/item?id=43522363) - [Four Lectures on Standard ML (1989) [pdf]](https://www.cs.tufts.edu/~nr/cs257/archive/mads-tofte/four-lectures.pdf)
 * [2025-03-30, 07:15:49](https://news.ycombinator.com/item?id=43522059) - [Kalua: An OpenWrt extension for building large mesh-networks](https://github.com/bittorf/kalua)
 * [2025-03-30, 04:06:35](https://news.ycombinator.com/item?id=43521244) - ['Catastrophic': Canadian bookings for U.S. travel drop sharply](https://www.ctvnews.ca/canada/article/where-have-all-the-snowbirds-gone-canadians-cold-on-us-travel/)
