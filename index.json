@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-30, 08:14:11",
+      "https://news.ycombinator.com/item?id=43522363"
+    ],
+    [
+      "Four Lectures on Standard ML (1989) [pdf]",
+      "https://www.cs.tufts.edu/~nr/cs257/archive/mads-tofte/four-lectures.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-03-30, 07:15:49",
+      "https://news.ycombinator.com/item?id=43522059"
+    ],
+    [
+      "Kalua: An OpenWrt extension for building large mesh-networks",
+      "https://github.com/bittorf/kalua"
+    ]
+  ],
+  [
+    [
       "2025-03-30, 03:14:36",
       "https://news.ycombinator.com/item?id=43520953"
     ],
@@ -27,16 +47,6 @@
     [
       "6502 as a Service",
       "https://www.emulationonline.com/systems/chiplab/6502-lab-available/"
-    ]
-  ],
-  [
-    [
-      "2025-03-30, 01:15:24",
-      "https://news.ycombinator.com/item?id=43520297"
-    ],
-    [
-      "A timeline of IBM keyboard history",
-      "https://sharktastica.co.uk/wip/timeline"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "Utah becomes first US state to ban fluoride in its water",
       "https://www.bbc.com/news/articles/c4gmggp2y99o"
-    ]
-  ],
-  [
-    [
-      "2025-03-29, 19:07:44",
-      "https://news.ycombinator.com/item?id=43517734"
-    ],
-    [
-      "OSS-SEC: Three bypasses of Ubuntu's unprivileged user namespace restrictions",
-      "https://seclists.org/oss-sec/2025/q1/253"
     ]
   ],
   [
