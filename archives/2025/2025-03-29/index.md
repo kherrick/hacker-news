@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-29](index.md)
 
 * [2025-03-29, 23:52:00](https://news.ycombinator.com/item?id=43519823) - [Towards fearless SIMD, 7 years later](https://linebender.org/blog/towards-fearless-simd/)
+* [2025-03-29, 23:22:58](https://news.ycombinator.com/item?id=43519669) - [Self-contained Python scripts with uv](http://blog.dusktreader.dev/2025/03/29/self-contained-python-scripts-with-uv/)
 * [2025-03-29, 23:19:43](https://news.ycombinator.com/item?id=43519650) - [Unsold Teslas in Aussie car park](https://au.news.yahoo.com/hundreds-of-teslas-in-aussie-car-park-exposes-grim-truth-for-elon-musk-20000-drop-214615846.html)
 * [2025-03-29, 22:52:55](https://news.ycombinator.com/item?id=43519459) - [Vibe Coding with Cursor](https://www.dolthub.com/blog/2025-03-29-vibin/)
 * [2025-03-29, 21:58:42](https://news.ycombinator.com/item?id=43519100) - [\"Moonshots\" Initiative to Secure the Future of RISC OS](https://www.riscosopen.org/news/articles/2025/03/28/moonshots-initiative-to-secure-the-future-of-the-os)
@@ -33,6 +34,7 @@
 * [2025-03-29, 18:42:43](https://news.ycombinator.com/item?id=43517576) - [Lvgl: Embedded graphics library to create beautiful UIs](https://github.com/lvgl/lvgl)
 * [2025-03-29, 18:22:25](https://news.ycombinator.com/item?id=43517439) - [Train and Weather Tracker with Raspberry Pi and E-Ink](https://sambroner.com/posts/raspberry-pi-train)
 * [2025-03-29, 18:12:03](https://news.ycombinator.com/item?id=43517375) - [Paged Out #6 is out](https://pagedout.institute/?page=blog.php#entry-2025-03-29)
+* [2025-03-29, 18:12:03](https://news.ycombinator.com/item?id=43517375) - [Paged Out #6 [pdf]](https://pagedout.institute/download/PagedOut_006.pdf)
 * [2025-03-29, 18:10:07](https://news.ycombinator.com/item?id=43517365) - [The Wrong Way to Use a Signed Distance Function (SDF)](https://winterbloed.be/the-wrong-way-to-use-a-signed-distance-function/)
 * [2025-03-29, 18:05:08](https://news.ycombinator.com/item?id=43517337) - [Veloren – voxel action-adventure role-playing in Rust](https://veloren.net/)
 * [2025-03-29, 18:02:42](https://news.ycombinator.com/item?id=43517318) - [Twitter (X) Hit by Data Leak of 2.8B Users – Allegedly an Insider Job](https://hackread.com/twitter-x-of-2-8-billion-data-leak-an-insider-job/)
