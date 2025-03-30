@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-30](index.md)
 
+* [2025-03-30, 15:30:22](https://news.ycombinator.com/item?id=43524937) - [Blue95: a desktop for your childhood home's computer room](https://github.com/winblues/blue95)
 * [2025-03-30, 15:08:54](https://news.ycombinator.com/item?id=43524784) - [Isar Aerospace launches Spectrum, fails early in first stage flight](https://www.nasaspaceflight.com/2025/03/isar-first-launch/)
 * [2025-03-30, 14:35:34](https://news.ycombinator.com/item?id=43524537) - [DNA scaffolds enable self-assembling 3D electronic devices](https://techxplore.com/news/2025-03-dna-scaffolds-enable-3d-electronic.html)
 * [2025-03-30, 14:35:26](https://news.ycombinator.com/item?id=43524534) - [An Ode to the Game Boy Advance](https://brainbaking.com/post/2025/03/an-ode-to-the-game-boy-advance/)

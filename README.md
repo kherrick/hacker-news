@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-30, 15:30:22](https://news.ycombinator.com/item?id=43524937) - [Blue95: a desktop for your childhood home's computer room](https://github.com/winblues/blue95)
 * [2025-03-30, 15:08:54](https://news.ycombinator.com/item?id=43524784) - [Isar Aerospace launches Spectrum, fails early in first stage flight](https://www.nasaspaceflight.com/2025/03/isar-first-launch/)
 * [2025-03-30, 14:35:26](https://news.ycombinator.com/item?id=43524534) - [An Ode to the Game Boy Advance](https://brainbaking.com/post/2025/03/an-ode-to-the-game-boy-advance/)
 * [2025-03-30, 14:15:51](https://news.ycombinator.com/item?id=43524394) - [In Defense of the Rat](https://hakaimagazine.com/features/in-defense-of-the-rat/)
@@ -27,7 +28,6 @@
 * [2025-03-27, 15:50:08](https://news.ycombinator.com/item?id=43494894) - [XAN: A Modern CSV-Centric Data Manipulation Toolkit for the Terminal](https://github.com/medialab/xan)
 * [2025-03-26, 18:51:00](https://news.ycombinator.com/item?id=43485514) - [The disappearance of Gaia, ESA spacecraft will be turned off on 27 March 2025](https://www.cosmos.esa.int/web/gaia/news)
 * [2025-03-26, 18:03:21](https://news.ycombinator.com/item?id=43484944) - [Testing the latest AI tools for prototyping and building simple websites](https://blog.codeyam.com/p/testing-the-latest-ai-tools-for-prototyping)
-* [2025-03-26, 16:41:18](https://news.ycombinator.com/item?id=43484100) - [Certified randomness using a trapped-ion quantum processor](https://www.nature.com/articles/s41586-025-08737-1)
 * [2025-03-26, 14:10:36](https://news.ycombinator.com/item?id=43482468) - [Some Reflections After a Month of Tracking My Own Online Activity](https://mcwhittemore.com/posts/page-activity-report-2025-03-20.html)
 * [2025-03-26, 12:49:09](https://news.ycombinator.com/item?id=43481652) - [Bringing Record and Replay debugging everywhere on Linux](https://github.com/sidkshatriya/me/blob/master/008-rr-everywhere.md)
 
