@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-30, 18:41:46",
+      "https://news.ycombinator.com/item?id=43526443"
+    ],
+    [
+      "Can Earth's rotation generate power? Physicists divided over controversial claim",
+      "https://www.nature.com/articles/d41586-025-00847-0"
+    ]
+  ],
+  [
+    [
       "2025-03-30, 17:33:19",
       "https://news.ycombinator.com/item?id=43525909"
     ],
@@ -27,6 +37,16 @@
     [
       "Spice Data (YC S19) Is Hiring a Software Engineer",
       "https://www.ycombinator.com/companies/spice-data/jobs/TijA35R-software-engineer"
+    ]
+  ],
+  [
+    [
+      "2025-03-30, 16:32:26",
+      "https://news.ycombinator.com/item?id=43525395"
+    ],
+    [
+      "Organic Maps migrates to Forgejo due to GitHub account blocked by Microsoft",
+      "https://mastodon.social/@organicmaps/114233788700982882"
     ]
   ],
   [
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2025-03-30, 14:15:15",
-      "https://news.ycombinator.com/item?id=43524385"
-    ],
-    [
-      "Lehmer's Continued Fraction Factorization Algorithm",
-      "https://leetarxiv.substack.com/p/continued-fraction-factorize-factorization"
-    ]
-  ],
-  [
-    [
       "2025-03-30, 12:50:45",
       "https://news.ycombinator.com/item?id=43523765"
     ],
@@ -131,6 +141,16 @@
   ],
   [
     [
+      "2025-03-30, 10:20:11",
+      "https://news.ycombinator.com/item?id=43522966"
+    ],
+    [
+      "The average college student today",
+      "https://hilariusbookbinder.substack.com/p/the-average-college-student-today"
+    ]
+  ],
+  [
+    [
       "2025-03-30, 08:14:11",
       "https://news.ycombinator.com/item?id=43522363"
     ],
@@ -147,16 +167,6 @@
     [
       "Kalua: An OpenWrt extension for building large mesh-networks",
       "https://github.com/bittorf/kalua"
-    ]
-  ],
-  [
-    [
-      "2025-03-30, 03:14:36",
-      "https://news.ycombinator.com/item?id=43520953"
-    ],
-    [
-      "Show HN: Cloud-Ready Postgres MCP Server",
-      "https://github.com/stuzero/pg-mcp"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Everyone knows all the apps on your phone",
       "https://peabee.substack.com/p/everyone-knows-what-apps-you-use"
-    ]
-  ],
-  [
-    [
-      "2025-03-29, 18:42:43",
-      "https://news.ycombinator.com/item?id=43517576"
-    ],
-    [
-      "Lvgl: Embedded graphics library to create beautiful UIs",
-      "https://github.com/lvgl/lvgl"
     ]
   ],
   [
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2025-03-27, 19:59:43",
-      "https://news.ycombinator.com/item?id=43497506"
-    ],
-    [
-      "The way we're thinking about breaking changes",
-      "https://welltypedwitch.bearblog.dev/the-way-were-thinking-about-breaking-changes-is-really-silly/"
-    ]
-  ],
-  [
-    [
       "2025-03-27, 07:42:47",
       "https://news.ycombinator.com/item?id=43491245"
     ],
     [
       "Show HN: I built a tool to add noise texture to your images",
       "https://noisetools.vercel.app/"
+    ]
+  ],
+  [
+    [
+      "2025-03-27, 04:02:56",
+      "https://news.ycombinator.com/item?id=43490290"
+    ],
+    [
+      "C. Elegans: The worm that no computer scientist can crack",
+      "https://www.wired.com/story/openworm-worm-simulator-biology-code/"
     ]
   ],
   [
