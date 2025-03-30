@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-03-30, 22:44:38",
+      "https://news.ycombinator.com/item?id=43528479"
+    ],
+    [
+      "Xiaofeng Wang",
+      "https://www.researchgate.net/profile/Xiaofeng-Wang-35"
+    ]
+  ],
+  [
+    [
       "2025-03-30, 20:55:28",
       "https://news.ycombinator.com/item?id=43527552"
     ],
     [
       "MAME 0.276",
       "https://www.mamedev.org/?p=549"
+    ]
+  ],
+  [
+    [
+      "2025-03-30, 20:52:39",
+      "https://news.ycombinator.com/item?id=43527521"
+    ],
+    [
+      "Xfinity XB3 hardware mod: Disable WiFi and save 2 watts",
+      "https://gist.github.com/pmarks-net/af40dba69272806c1ec9cbe71429d2e7"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "Public secrets exposure leads to supply chain attack on GitHub CodeQL",
       "https://www.praetorian.com/blog/codeqleaked-public-secrets-exposure-leads-to-supply-chain-attack-on-github-codeql/"
-    ]
-  ],
-  [
-    [
-      "2025-03-30, 19:52:25",
-      "https://news.ycombinator.com/item?id=43527024"
-    ],
-    [
-      "Pixelfed leaks private posts from other Fediverse instances",
-      "https://fokus.cool/2025/03/25/pixelfed-vulnerability.html"
     ]
   ],
   [
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2025-03-28, 11:46:57",
-      "https://news.ycombinator.com/item?id=43504175"
+      "2025-03-28, 07:22:40",
+      "https://news.ycombinator.com/item?id=43502488"
     ],
     [
-      "Functors, Applicatives, and Monads",
-      "https://www.thecoder.cafe/p/functors-applicatives-monads"
+      "The surprisingly simple reason kids have imaginary friends",
+      "https://www.vox.com/life/404992/imaginary-friends-kids-friendships-children"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Robotics Meets Runway: Unitree G1's Catwalk Debut at SHFW",
       "https://chinaminutes.com/2025/03/27/robotics-meets-runway-unitree-g1s-catwalk-debut-at-shfw/"
-    ]
-  ],
-  [
-    [
-      "2025-03-27, 07:42:47",
-      "https://news.ycombinator.com/item?id=43491245"
-    ],
-    [
-      "Show HN: I built a tool to add noise texture to your images",
-      "https://noisetools.vercel.app/"
     ]
   ],
   [
