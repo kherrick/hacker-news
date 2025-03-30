@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-30, 15:08:54](https://news.ycombinator.com/item?id=43524784) - [Isar Aerospace launches Spectrum, fails early in first stage flight](https://www.nasaspaceflight.com/2025/03/isar-first-launch/)
-* [2025-03-30, 14:35:34](https://news.ycombinator.com/item?id=43524537) - [DNA scaffolds enable self-assembling 3D electronic devices](https://techxplore.com/news/2025-03-dna-scaffolds-enable-3d-electronic.html)
 * [2025-03-30, 14:15:51](https://news.ycombinator.com/item?id=43524394) - [In Defense of the Rat](https://hakaimagazine.com/features/in-defense-of-the-rat/)
 * [2025-03-30, 12:47:07](https://news.ycombinator.com/item?id=43523741) - [Tail Call Recursion in Java with ASM (2023)](https://unlinkedlist.org/2023/03/19/tail-call-recursion-in-java-with-asm/)
 * [2025-03-30, 11:15:12](https://news.ycombinator.com/item?id=43523238) - [Rust Any part 3: we have upcasts](https://lucumr.pocoo.org/2025/3/27/any-upcast/)
@@ -26,6 +25,7 @@
 * [2025-03-27, 20:55:57](https://news.ycombinator.com/item?id=43498071) - [Rust Adopting Ferrocene Language Specification](https://lwn.net/Articles/1015636/)
 * [2025-03-27, 19:59:43](https://news.ycombinator.com/item?id=43497506) - [The way we're thinking about breaking changes is silly](https://welltypedwitch.bearblog.dev/the-way-were-thinking-about-breaking-changes-is-really-silly/)
 * [2025-03-27, 15:50:08](https://news.ycombinator.com/item?id=43494894) - [XAN: A Modern CSV-Centric Data Manipulation Toolkit for the Terminal](https://github.com/medialab/xan)
+* [2025-03-27, 04:02:56](https://news.ycombinator.com/item?id=43490290) - [C. Elegans: The Worm That No Computer Scientist Can Crack](https://www.wired.com/story/openworm-worm-simulator-biology-code/)
 * [2025-03-26, 18:51:00](https://news.ycombinator.com/item?id=43485514) - [The disappearance of Gaia, ESA spacecraft will be turned off on 27 March 2025](https://www.cosmos.esa.int/web/gaia/news)
 * [2025-03-26, 16:41:18](https://news.ycombinator.com/item?id=43484100) - [Certified randomness using a trapped-ion quantum processor](https://www.nature.com/articles/s41586-025-08737-1)
 * [2025-03-26, 14:10:36](https://news.ycombinator.com/item?id=43482468) - [Some Reflections After a Month of Tracking My Own Online Activity](https://mcwhittemore.com/posts/page-activity-report-2025-03-20.html)
