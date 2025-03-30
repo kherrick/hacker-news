@@ -2,6 +2,7 @@
 
 * [2025-03-30, 20:55:28](https://news.ycombinator.com/item?id=43527552) - [MAME 0.276](https://www.mamedev.org/?p=549)
 * [2025-03-30, 19:54:46](https://news.ycombinator.com/item?id=43527044) - [Public secrets exposure leads to supply chain attack on GitHub CodeQL](https://www.praetorian.com/blog/codeqleaked-public-secrets-exposure-leads-to-supply-chain-attack-on-github-codeql/)
+* [2025-03-30, 19:52:25](https://news.ycombinator.com/item?id=43527024) - [Pixelfed leaks private posts from other Fediverse instances](https://fokus.cool/2025/03/25/pixelfed-vulnerability.html)
 * [2025-03-30, 19:51:56](https://news.ycombinator.com/item?id=43527019) - [Raising Kids to Have an Analog Childhood in a Digital World](https://www.joshuakennon.com/raising-kids-to-have-an-analogue-childhood-in-a-digital-world/)
 * [2025-03-30, 19:50:10](https://news.ycombinator.com/item?id=43527001) - [FBI raids home of prominent computer scientist who has gone incommunicado](https://arstechnica.com/security/2025/03/computer-scientist-goes-silent-after-fbi-raid-and-purging-from-university-website/)
 * [2025-03-30, 19:44:55](https://news.ycombinator.com/item?id=43526957) - [Show HN: Chip-8 emulator written in JavaScript](https://github.com/victorqribeiro/Chip8js)
@@ -20,7 +21,6 @@
 * [2025-03-30, 11:15:12](https://news.ycombinator.com/item?id=43523238) - [Rust Any part 3: we have upcasts](https://lucumr.pocoo.org/2025/3/27/any-upcast/)
 * [2025-03-30, 10:20:11](https://news.ycombinator.com/item?id=43522966) - [The average college student today](https://hilariusbookbinder.substack.com/p/the-average-college-student-today)
 * [2025-03-30, 08:14:11](https://news.ycombinator.com/item?id=43522363) - [Four Lectures on Standard ML (1989) [pdf]](https://www.cs.tufts.edu/~nr/cs257/archive/mads-tofte/four-lectures.pdf)
-* [2025-03-29, 23:22:58](https://news.ycombinator.com/item?id=43519669) - [Self-contained Python scripts with uv](http://blog.dusktreader.dev/2025/03/29/self-contained-python-scripts-with-uv/)
 * [2025-03-29, 12:24:16](https://news.ycombinator.com/item?id=43514969) - [What to Do](https://paulgraham.com/do.html)
 * [2025-03-28, 12:25:00](https://news.ycombinator.com/item?id=43504514) - [Claim for a missing tooth](https://tf230.matteason.co.uk/)
 * [2025-03-28, 11:46:57](https://news.ycombinator.com/item?id=43504175) - [Functors, Applicatives, and Monads](https://www.thecoder.cafe/p/functors-applicatives-monads)
