@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-03-30, 00:41:45",
-      "https://news.ycombinator.com/item?id=43520074"
-    ],
-    [
-      "My TV started playing a video in full screen by itself. What happened?",
-      "https://support.vizio.com/s/article/Ambient-or-Scenic-Mode-showing-on-my-TV?language=en_US"
-    ]
-  ],
-  [
-    [
       "2025-03-30, 00:15:47",
       "https://news.ycombinator.com/item?id=43519930"
     ],
@@ -277,6 +267,16 @@
     [
       "The Mysterious Flow of Fluid in the Brain",
       "https://www.quantamagazine.org/the-mysterious-flow-of-fluid-in-the-brain-20250326/"
+    ]
+  ],
+  [
+    [
+      "2025-03-26, 12:49:09",
+      "https://news.ycombinator.com/item?id=43481652"
+    ],
+    [
+      "Bringing Record and Replay debugging everywhere on Linux",
+      "https://github.com/sidkshatriya/me/blob/master/008-rr-everywhere.md"
     ]
   ],
   [
