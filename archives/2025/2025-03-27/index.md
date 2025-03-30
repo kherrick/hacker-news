@@ -72,6 +72,7 @@
 * [2025-03-27, 03:37:55](https://news.ycombinator.com/item?id=43490173) - [They Might Be Giants Flood EPK Promo (1990) [video]](https://www.youtube.com/watch?v=C-tQSFQ-ESY)
 * [2025-03-27, 03:36:40](https://news.ycombinator.com/item?id=43490167) - [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)
 * [2025-03-27, 02:37:09](https://news.ycombinator.com/item?id=43489861) - [First C compiler source code from 1972](https://github.com/mortdeus/legacy-cc/tree/master/last1120c)
+* [2025-03-27, 01:13:59](https://news.ycombinator.com/item?id=43489421) - [Medical Benchmarks and the Myth of the Universal Patient](https://www.newyorker.com/magazine/2025/03/31/medical-benchmarks-and-the-myth-of-the-universal-patient)
 * [2025-03-27, 00:51:30](https://news.ycombinator.com/item?id=43489271) - [DJ With Apple Music launches to enable subscribers to mix their own sets](https://www.musicweek.com/digital/read/dj-with-apple-music-launches-to-enable-subscribers-to-mix-their-own-sets/091655)
 * [2025-03-27, 00:47:19](https://news.ycombinator.com/item?id=43489237) - [Europen Union creates Fedora-based Linux distribution for the public sector](https://www.linuxjournal.com/content/eu-os-bold-step-toward-digital-sovereignty-europe)
 * [2025-03-27, 00:40:08](https://news.ycombinator.com/item?id=43489190) - [Cilium eBPF-Go on Windows](https://ebpf-go.dev/contributing/windows/)

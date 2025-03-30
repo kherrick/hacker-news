@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-29](index.md)
 
+* [2025-03-29, 23:52:00](https://news.ycombinator.com/item?id=43519823) - [Towards fearless SIMD, 7 years later](https://linebender.org/blog/towards-fearless-simd/)
 * [2025-03-29, 23:19:43](https://news.ycombinator.com/item?id=43519650) - [Unsold Teslas in Aussie car park](https://au.news.yahoo.com/hundreds-of-teslas-in-aussie-car-park-exposes-grim-truth-for-elon-musk-20000-drop-214615846.html)
 * [2025-03-29, 22:52:55](https://news.ycombinator.com/item?id=43519459) - [Vibe Coding with Cursor](https://www.dolthub.com/blog/2025-03-29-vibin/)
 * [2025-03-29, 21:58:42](https://news.ycombinator.com/item?id=43519100) - [\"Moonshots\" Initiative to Secure the Future of RISC OS](https://www.riscosopen.org/news/articles/2025/03/28/moonshots-initiative-to-secure-the-future-of-the-os)
