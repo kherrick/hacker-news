@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-30, 15:08:54](https://news.ycombinator.com/item?id=43524784) - [Isar Aerospace launches Spectrum, fails early in first stage flight](https://www.nasaspaceflight.com/2025/03/isar-first-launch/)
+* [2025-03-30, 14:35:34](https://news.ycombinator.com/item?id=43524537) - [DNA scaffolds enable self-assembling 3D electronic devices](https://techxplore.com/news/2025-03-dna-scaffolds-enable-3d-electronic.html)
 * [2025-03-30, 14:15:51](https://news.ycombinator.com/item?id=43524394) - [In Defense of the Rat](https://hakaimagazine.com/features/in-defense-of-the-rat/)
-* [2025-03-30, 13:10:12](https://news.ycombinator.com/item?id=43523875) - [USGS: M 7.1 Earthquake – 90 km SE of Pangai, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pntq/executive)
 * [2025-03-30, 12:47:07](https://news.ycombinator.com/item?id=43523741) - [Tail Call Recursion in Java with ASM (2023)](https://unlinkedlist.org/2023/03/19/tail-call-recursion-in-java-with-asm/)
 * [2025-03-30, 11:15:12](https://news.ycombinator.com/item?id=43523238) - [Rust Any part 3: we have upcasts](https://lucumr.pocoo.org/2025/3/27/any-upcast/)
 * [2025-03-30, 08:14:11](https://news.ycombinator.com/item?id=43522363) - [Four Lectures on Standard ML (1989) [pdf]](https://www.cs.tufts.edu/~nr/cs257/archive/mads-tofte/four-lectures.pdf)

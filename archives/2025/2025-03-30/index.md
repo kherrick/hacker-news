@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-30](index.md)
 
 * [2025-03-30, 15:08:54](https://news.ycombinator.com/item?id=43524784) - [Isar Aerospace launches Spectrum, fails early in first stage flight](https://www.nasaspaceflight.com/2025/03/isar-first-launch/)
+* [2025-03-30, 14:35:34](https://news.ycombinator.com/item?id=43524537) - [DNA scaffolds enable self-assembling 3D electronic devices](https://techxplore.com/news/2025-03-dna-scaffolds-enable-3d-electronic.html)
 * [2025-03-30, 14:15:51](https://news.ycombinator.com/item?id=43524394) - [In Defense of the Rat](https://hakaimagazine.com/features/in-defense-of-the-rat/)
 * [2025-03-30, 13:21:33](https://news.ycombinator.com/item?id=43523974) - [Hacker Laws](https://hacker-laws.com/)
 * [2025-03-30, 13:10:12](https://news.ycombinator.com/item?id=43523875) - [USGS: M 7.1 Earthquake – 90 km SE of Pangai, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pntq/executive)
