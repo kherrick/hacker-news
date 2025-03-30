@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-30, 12:57:09](https://news.ycombinator.com/item?id=43523797) - [It's the hottest car company. You can't buy one in America](https://www.cnn.com/2025/03/26/cars/china-byd-profile-tesla-rival-intl-hnk/index.html)
-* [2025-03-30, 12:50:45](https://news.ycombinator.com/item?id=43523765) - [Why a plane turned around when a passenger lost a phone midflight?](https://www.washingtonpost.com/travel/2025/03/28/air-france-lost-cellphone/)
+* [2025-03-30, 13:10:12](https://news.ycombinator.com/item?id=43523875) - [USGS: M 7.1 Earthquake – 90 km SE of Pangai, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pntq/executive)
+* [2025-03-30, 12:50:45](https://news.ycombinator.com/item?id=43523765) - [Why a plane turned around when a passenger lost a phone midflight](https://www.washingtonpost.com/travel/2025/03/28/air-france-lost-cellphone/)
 * [2025-03-30, 12:47:07](https://news.ycombinator.com/item?id=43523741) - [Tail Call Recursion in Java with ASM (2023)](https://unlinkedlist.org/2023/03/19/tail-call-recursion-in-java-with-asm/)
 * [2025-03-30, 11:15:12](https://news.ycombinator.com/item?id=43523238) - [Rust Any part 3: we have upcasts](https://lucumr.pocoo.org/2025/3/27/any-upcast/)
 * [2025-03-30, 08:14:11](https://news.ycombinator.com/item?id=43522363) - [Four Lectures on Standard ML (1989) [pdf]](https://www.cs.tufts.edu/~nr/cs257/archive/mads-tofte/four-lectures.pdf)
