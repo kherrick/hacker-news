@@ -4,7 +4,6 @@
 * [2025-03-30, 02:29:44](https://news.ycombinator.com/item?id=43520716) - [Electric power generation from Earth's rotation through its own magnetic field](https://arxiv.org/abs/2503.15790)
 * [2025-03-30, 01:34:10](https://news.ycombinator.com/item?id=43520428) - [6502 as a Service](https://www.emulationonline.com/systems/chiplab/6502-lab-available/)
 * [2025-03-30, 01:15:24](https://news.ycombinator.com/item?id=43520297) - [A timeline of IBM keyboard history](https://sharktastica.co.uk/wip/timeline)
-* [2025-03-30, 00:41:45](https://news.ycombinator.com/item?id=43520074) - [My TV started playing a video in full screen by itself. What happened?](https://support.vizio.com/s/article/Ambient-or-Scenic-Mode-showing-on-my-TV?language=en_US)
 * [2025-03-30, 00:15:47](https://news.ycombinator.com/item?id=43519930) - [Msgpack23 – A modern, header-only C++ library for MessagePack (de)serialization](https://github.com/rwindegger/msgpack23)
 * [2025-03-29, 23:52:00](https://news.ycombinator.com/item?id=43519823) - [Towards fearless SIMD, 7 years later](https://linebender.org/blog/towards-fearless-simd/)
 * [2025-03-29, 23:22:58](https://news.ycombinator.com/item?id=43519669) - [Self-contained Python scripts with uv](http://blog.dusktreader.dev/2025/03/29/self-contained-python-scripts-with-uv/)
@@ -28,6 +27,7 @@
 * [2025-03-27, 04:02:56](https://news.ycombinator.com/item?id=43490290) - [C. Elegans: The Worm That No Computer Scientist Can Crack](https://www.wired.com/story/openworm-worm-simulator-biology-code/)
 * [2025-03-26, 18:51:00](https://news.ycombinator.com/item?id=43485514) - [The disappearance of Gaia, ESA spacecraft will be turned off on 27 March 2025](https://www.cosmos.esa.int/web/gaia/news)
 * [2025-03-26, 14:49:02](https://news.ycombinator.com/item?id=43482863) - [The Mysterious Flow of Fluid in the Brain](https://www.quantamagazine.org/the-mysterious-flow-of-fluid-in-the-brain-20250326/)
+* [2025-03-26, 12:49:09](https://news.ycombinator.com/item?id=43481652) - [Bringing Record and Replay debugging everywhere on Linux](https://github.com/sidkshatriya/me/blob/master/008-rr-everywhere.md)
 * [2025-03-26, 12:44:36](https://news.ycombinator.com/item?id=43481607) - [Gate: AI and Automation Scenario Explorer](https://epoch.ai/gate)
 * [2025-03-26, 11:32:27](https://news.ycombinator.com/item?id=43481024) - [Introduction to Open Source Laptop Project](https://resources.altium.com/p/open-source-laptop-part-one)
 

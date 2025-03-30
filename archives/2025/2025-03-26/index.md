@@ -52,6 +52,7 @@
 * [2025-03-26, 13:43:09](https://news.ycombinator.com/item?id=43482207) - [The Gang of Four is wrong and you don't understand delegation (2012)](https://www.saturnflyer.com/blog/the-gang-of-four-is-wrong-and-you-dont-understand-delegation)
 * [2025-03-26, 13:24:06](https://news.ycombinator.com/item?id=43482026) - [I Went Undercover in Crypto's Answer to Squid Game. It Nearly Broke Me](https://www.wired.com/story/crypto-the-game-undercover/)
 * [2025-03-26, 13:21:51](https://news.ycombinator.com/item?id=43482005) - [The long-awaited Friend Compound laws in California](https://supernuclear.substack.com/p/the-long-awaited-friend-compound)
+* [2025-03-26, 12:49:09](https://news.ycombinator.com/item?id=43481652) - [Bringing Record and Replay debugging everywhere on Linux](https://github.com/sidkshatriya/me/blob/master/008-rr-everywhere.md)
 * [2025-03-26, 12:44:36](https://news.ycombinator.com/item?id=43481607) - [Gate: AI and Automation Scenario Explorer](https://epoch.ai/gate)
 * [2025-03-26, 12:08:48](https://news.ycombinator.com/item?id=43481295) - [You should know this before choosing Next.js](https://eduardoboucas.com/posts/2025-03-25-you-should-know-this-before-choosing-nextjs/)
 * [2025-03-26, 12:04:08](https://news.ycombinator.com/item?id=43481261) - [I Quit Google Search for AI–and I'm Not Going Back](https://www.wsj.com/tech/personal-tech/google-search-chatgpt-perplexity-gemini-6ac749d9)
