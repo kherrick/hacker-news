@@ -79,4 +79,5 @@
 * [2025-03-28, 00:34:55](https://news.ycombinator.com/item?id=43499966) - [Arctic sea ice sets a record low maximum in 2025](https://nsidc.org/sea-ice-today/analyses/arctic-sea-ice-sets-record-low-maximum-2025)
 * [2025-03-28, 00:20:48](https://news.ycombinator.com/item?id=43499860) - [LibreOffice downloads on the rise as users look to avoid subscription costs](https://www.computerworld.com/article/3840480/libreoffice-downloads-on-the-rise-as-users-look-to-avoid-subscription-costs.html)
 * [2025-03-28, 00:16:29](https://news.ycombinator.com/item?id=43499823) - [A note on the USB-to-PS/2 mouse adapter that came with Microsoft mouse devices](https://devblogs.microsoft.com/oldnewthing/20250325-00/?p=110993)
+* [2025-03-28, 00:10:53](https://news.ycombinator.com/item?id=43499783) - [Operationalizing Macaroons](https://fly.io/blog/operationalizing-macaroons/)
 * [2025-03-28, 00:06:17](https://news.ycombinator.com/item?id=43499755) - [Anti-Orbit Laser Submarines (2017)](http://toughsf.blogspot.com/2017/10/anti-orbit-laser-submarines.html)
