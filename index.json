@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-03-30, 04:06:35",
-      "https://news.ycombinator.com/item?id=43521244"
-    ],
-    [
-      "'Catastrophic': Canadian bookings for U.S. travel drop sharply",
-      "https://www.ctvnews.ca/canada/article/where-have-all-the-snowbirds-gone-canadians-cold-on-us-travel/"
-    ]
-  ],
-  [
-    [
       "2025-03-30, 03:14:36",
       "https://news.ycombinator.com/item?id=43520953"
     ],
@@ -51,6 +41,16 @@
   ],
   [
     [
+      "2025-03-30, 00:41:45",
+      "https://news.ycombinator.com/item?id=43520074"
+    ],
+    [
+      "My TV started playing a video in full screen by itself. What happened?",
+      "https://support.vizio.com/s/article/Ambient-or-Scenic-Mode-showing-on-my-TV?language=en_US"
+    ]
+  ],
+  [
+    [
       "2025-03-29, 23:52:00",
       "https://news.ycombinator.com/item?id=43519823"
     ],
@@ -67,6 +67,16 @@
     [
       "Self-contained Python scripts with uv",
       "http://blog.dusktreader.dev/2025/03/29/self-contained-python-scripts-with-uv/"
+    ]
+  ],
+  [
+    [
+      "2025-03-29, 21:58:42",
+      "https://news.ycombinator.com/item?id=43519100"
+    ],
+    [
+      "\"Moonshots\" Initiative to Secure the Future of RISC OS",
+      "https://www.riscosopen.org/news/articles/2025/03/28/moonshots-initiative-to-secure-the-future-of-the-os"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Koto Programming Language",
       "https://koto.dev/"
-    ]
-  ],
-  [
-    [
-      "2025-03-29, 11:41:54",
-      "https://news.ycombinator.com/item?id=43514695"
-    ],
-    [
-      "Real Time Chess – A physical chess board without the concept of turns",
-      "https://github.com/misprit7/real-time-chess"
     ]
   ],
   [
