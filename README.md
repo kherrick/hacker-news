@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-30, 20:20:00](https://news.ycombinator.com/item?id=43527275) - [ICE Arrested and Detained a US Citizen for Hours Because He Looked Mexican](https://www.techdirt.com/2025/03/28/ice-arrested-and-detained-a-us-citizen-for-hours-because-he-looked-mexican/)
+* [2025-03-30, 20:55:28](https://news.ycombinator.com/item?id=43527552) - [MAME 0.276](https://www.mamedev.org/?p=549)
+* [2025-03-30, 20:43:15](https://news.ycombinator.com/item?id=43527452) - [Ask HN: What are you working on? (March 2025)](https://news.ycombinator.com/item?id=43527452)
 * [2025-03-30, 20:06:02](https://news.ycombinator.com/item?id=43527154) - [Man Detained by ICE for Autism Awareness Tattoo Sent to Prison](https://www.latintimes.com/man-detained-ice-autism-awareness-tattoo-still-sent-prison-after-officers-declared-him-clean-579373)
 * [2025-03-30, 19:54:46](https://news.ycombinator.com/item?id=43527044) - [GitHub CodeQL Actions Critical Supply Chain Vulnerability (CodeQLEAKED)](https://www.praetorian.com/blog/codeqleaked-public-secrets-exposure-leads-to-supply-chain-attack-on-github-codeql/)
 * [2025-03-30, 19:52:25](https://news.ycombinator.com/item?id=43527024) - [Pixelfed leaks private posts from other Fediverse instances](https://fokus.cool/2025/03/25/pixelfed-vulnerability.html)
@@ -16,7 +17,6 @@
 * [2025-03-30, 15:49:19](https://news.ycombinator.com/item?id=43525079) - [The Child and the Shadow (1975) [pdf]](https://www.johnirons.com/pdfs/shadowleguin.pdf)
 * [2025-03-30, 15:30:22](https://news.ycombinator.com/item?id=43524937) - [Blue95: a desktop for your childhood home's computer room](https://github.com/winblues/blue95)
 * [2025-03-30, 14:53:33](https://news.ycombinator.com/item?id=43524665) - [Span<T>.SequenceEquals is faster than memcmp](https://richardcocks.github.io/2025-03-30-FasterThanMemCmp.html)
-* [2025-03-30, 12:50:45](https://news.ycombinator.com/item?id=43523765) - [Why a plane turned around when a passenger lost a phone midflight](https://www.washingtonpost.com/travel/2025/03/28/air-france-lost-cellphone/)
 * [2025-03-30, 12:47:07](https://news.ycombinator.com/item?id=43523741) - [Tail Call Recursion in Java with ASM (2023)](https://unlinkedlist.org/2023/03/19/tail-call-recursion-in-java-with-asm/)
 * [2025-03-30, 11:15:12](https://news.ycombinator.com/item?id=43523238) - [Rust Any part 3: we have upcasts](https://lucumr.pocoo.org/2025/3/27/any-upcast/)
 * [2025-03-30, 10:20:11](https://news.ycombinator.com/item?id=43522966) - [The average college student today](https://hilariusbookbinder.substack.com/p/the-average-college-student-today)
