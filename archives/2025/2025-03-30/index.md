@@ -4,11 +4,16 @@
 
 ### [Archives](../../index.md) for [2025-03-30](index.md)
 
+* [2025-03-30, 16:36:06](https://news.ycombinator.com/item?id=43525432) - [SHH – Sonic Hedgehog Protein](https://en.wikipedia.org/wiki/Sonic_hedgehog_protein)
+* [2025-03-30, 16:34:51](https://news.ycombinator.com/item?id=43525418) - [Private Equity Is Coming for America's $12T in Retirement Savings](https://www.bloomberg.com/news/articles/2025-03-25/retirement-saving-private-equity-comes-for-america-s-401-k)
+* [2025-03-30, 15:49:19](https://news.ycombinator.com/item?id=43525079) - [The Child and the Shadow by Ursula Le Guin [pdf]](https://www.johnirons.com/pdfs/shadowleguin.pdf)
 * [2025-03-30, 15:30:22](https://news.ycombinator.com/item?id=43524937) - [Blue95: a desktop for your childhood home's computer room](https://github.com/winblues/blue95)
 * [2025-03-30, 15:08:54](https://news.ycombinator.com/item?id=43524784) - [Isar Aerospace launches Spectrum, fails early in first stage flight](https://www.nasaspaceflight.com/2025/03/isar-first-launch/)
+* [2025-03-30, 14:53:33](https://news.ycombinator.com/item?id=43524665) - [Span<T>.SequenceEquals is faster than memcmp](https://richardcocks.github.io/2025-03-30-FasterThanMemCmp.html)
 * [2025-03-30, 14:35:34](https://news.ycombinator.com/item?id=43524537) - [DNA scaffolds enable self-assembling 3D electronic devices](https://techxplore.com/news/2025-03-dna-scaffolds-enable-3d-electronic.html)
 * [2025-03-30, 14:35:26](https://news.ycombinator.com/item?id=43524534) - [An Ode to the Game Boy Advance](https://brainbaking.com/post/2025/03/an-ode-to-the-game-boy-advance/)
 * [2025-03-30, 14:15:51](https://news.ycombinator.com/item?id=43524394) - [In Defense of the Rat](https://hakaimagazine.com/features/in-defense-of-the-rat/)
+* [2025-03-30, 14:15:15](https://news.ycombinator.com/item?id=43524385) - [Lehmer's Continued Fraction Factorization Algorithm](https://leetarxiv.substack.com/p/continued-fraction-factorize-factorization)
 * [2025-03-30, 13:21:33](https://news.ycombinator.com/item?id=43523974) - [Hacker Laws](https://hacker-laws.com/)
 * [2025-03-30, 13:10:12](https://news.ycombinator.com/item?id=43523875) - [USGS: M 7.1 Earthquake – 90 km SE of Pangai, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pntq/executive)
 * [2025-03-30, 12:57:09](https://news.ycombinator.com/item?id=43523797) - [It's the hottest car company. You can't buy one in America](https://www.cnn.com/2025/03/26/cars/china-byd-profile-tesla-rival-intl-hnk/index.html)
