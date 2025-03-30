@@ -11,32 +11,12 @@
   ],
   [
     [
-      "2025-03-30, 20:43:15",
-      "https://news.ycombinator.com/item?id=43527452"
-    ],
-    [
-      "Ask HN: What are you working on? (March 2025)",
-      "https://news.ycombinator.com/item?id=43527452"
-    ]
-  ],
-  [
-    [
       "2025-03-30, 19:54:46",
       "https://news.ycombinator.com/item?id=43527044"
     ],
     [
-      "GitHub CodeQL Actions Critical Supply Chain Vulnerability (CodeQLEAKED)",
+      "Public secrets exposure leads to supply chain attack on GitHub CodeQL",
       "https://www.praetorian.com/blog/codeqleaked-public-secrets-exposure-leads-to-supply-chain-attack-on-github-codeql/"
-    ]
-  ],
-  [
-    [
-      "2025-03-30, 19:52:25",
-      "https://news.ycombinator.com/item?id=43527024"
-    ],
-    [
-      "Pixelfed leaks private posts from other Fediverse instances",
-      "https://fokus.cool/2025/03/25/pixelfed-vulnerability.html"
     ]
   ],
   [
@@ -57,6 +37,16 @@
     [
       "FBI raids home of prominent computer scientist who has gone incommunicado",
       "https://arstechnica.com/security/2025/03/computer-scientist-goes-silent-after-fbi-raid-and-purging-from-university-website/"
+    ]
+  ],
+  [
+    [
+      "2025-03-30, 19:44:55",
+      "https://news.ycombinator.com/item?id=43526957"
+    ],
+    [
+      "Show HN: Chip-8 emulator written in JavaScript",
+      "https://github.com/victorqribeiro/Chip8js"
     ]
   ],
   [
@@ -207,6 +197,16 @@
     [
       "Four Lectures on Standard ML (1989) [pdf]",
       "https://www.cs.tufts.edu/~nr/cs257/archive/mads-tofte/four-lectures.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-03-29, 23:22:58",
+      "https://news.ycombinator.com/item?id=43519669"
+    ],
+    [
+      "Self-contained Python scripts with uv",
+      "http://blog.dusktreader.dev/2025/03/29/self-contained-python-scripts-with-uv/"
     ]
   ],
   [
