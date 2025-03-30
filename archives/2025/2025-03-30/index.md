@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-30](index.md)
 
+* [2025-03-30, 19:50:10](https://news.ycombinator.com/item?id=43527001) - [FBI raids home of prominent computer scientist who has gone incommunicado](https://arstechnica.com/security/2025/03/computer-scientist-goes-silent-after-fbi-raid-and-purging-from-university-website/)
 * [2025-03-30, 19:06:48](https://news.ycombinator.com/item?id=43526644) - [Richard Chamberlain dies aged 90](https://www.theguardian.com/tv-and-radio/2025/mar/30/richard-chamberlain-hero-of-dr-kildare-and-king-of-the-miniseries-dies-aged-90)
 * [2025-03-30, 19:03:42](https://news.ycombinator.com/item?id=43526621) - [File Systems Unfit as Distributed Storage Back Ends (2019)](https://dl.acm.org/doi/pdf/10.1145/3341301.3359656)
 * [2025-03-30, 18:41:46](https://news.ycombinator.com/item?id=43526443) - [Can Earth's rotation generate power? Physicists divided over controversial claim](https://www.nature.com/articles/d41586-025-00847-0)

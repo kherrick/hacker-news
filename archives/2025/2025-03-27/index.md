@@ -54,6 +54,7 @@
 * [2025-03-27, 14:55:28](https://news.ycombinator.com/item?id=43494324) - [How the American Medical Association Screws Doctors](https://www.thebignewsletter.com/p/how-the-american-medical-association)
 * [2025-03-27, 13:59:17](https://news.ycombinator.com/item?id=43493749) - [Thinner Films Conduct Better Than Copper](https://spectrum.ieee.org/thin-film)
 * [2025-03-27, 13:51:44](https://news.ycombinator.com/item?id=43493665) - [Building a modern durable execution engine from first principles](https://restate.dev/blog/building-a-modern-durable-execution-engine-from-first-principles/)
+* [2025-03-27, 13:46:45](https://news.ycombinator.com/item?id=43493611) - [Robotics Meets Runway: Unitree G1's Catwalk Debut at SHFW](https://chinaminutes.com/2025/03/27/robotics-meets-runway-unitree-g1s-catwalk-debut-at-shfw/)
 * [2025-03-27, 13:40:55](https://news.ycombinator.com/item?id=43493552) - [Netlify deploys hundreds of thousands of Next.js sites – here's what challenging](https://www.netlify.com/blog/how-we-run-nextjs/)
 * [2025-03-27, 13:40:18](https://news.ycombinator.com/item?id=43493544) - [Rubik's Cube Solutions, Puzzles, and 8-Balls (2023)](https://williambader.com/museum/cubes/cubes.html)
 * [2025-03-27, 13:31:02](https://news.ycombinator.com/item?id=43493444) - [A Special Year at the Heinz Nixdorf MuseumsForum](https://www.computer.org/csdl/magazine/an/2025/01/10927608/2558cmiC7UA)
