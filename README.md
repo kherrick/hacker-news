@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-30, 17:01:47](https://news.ycombinator.com/item?id=43525636) - [Spice Data (YC S19) Is Hiring a Software Engineer](https://www.ycombinator.com/companies/spice-data/jobs/TijA35R-software-engineer)
-* [2025-03-30, 16:34:51](https://news.ycombinator.com/item?id=43525418) - [Private Equity Is Coming for America's $12T in Retirement Savings](https://www.bloomberg.com/news/articles/2025-03-25/retirement-saving-private-equity-comes-for-america-s-401-k)
 * [2025-03-30, 15:49:19](https://news.ycombinator.com/item?id=43525079) - [The Child and the Shadow by Ursula Le Guin [pdf]](https://www.johnirons.com/pdfs/shadowleguin.pdf)
+* [2025-03-30, 15:40:37](https://news.ycombinator.com/item?id=43525009) - [The Mediocrity of Modern Google](https://om.co/2025/03/29/the-mediocrity-of-modern-google/)
 * [2025-03-30, 15:30:22](https://news.ycombinator.com/item?id=43524937) - [Blue95: a desktop for your childhood home's computer room](https://github.com/winblues/blue95)
 * [2025-03-30, 15:08:54](https://news.ycombinator.com/item?id=43524784) - [Isar Aerospace launches Spectrum, fails early in first stage flight](https://www.nasaspaceflight.com/2025/03/isar-first-launch/)
 * [2025-03-30, 14:53:33](https://news.ycombinator.com/item?id=43524665) - [Span<T>.SequenceEquals is faster than memcmp](https://richardcocks.github.io/2025-03-30-FasterThanMemCmp.html)
