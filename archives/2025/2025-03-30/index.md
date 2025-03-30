@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-30](index.md)
 
+* [2025-03-30, 20:20:00](https://news.ycombinator.com/item?id=43527275) - [ICE Arrested and Detained a US Citizen for Hours Because He Looked Mexican](https://www.techdirt.com/2025/03/28/ice-arrested-and-detained-a-us-citizen-for-hours-because-he-looked-mexican/)
+* [2025-03-30, 20:06:02](https://news.ycombinator.com/item?id=43527154) - [Man Detained by ICE for Autism Awareness Tattoo Sent to Prison](https://www.latintimes.com/man-detained-ice-autism-awareness-tattoo-still-sent-prison-after-officers-declared-him-clean-579373)
 * [2025-03-30, 19:54:46](https://news.ycombinator.com/item?id=43527044) - [GitHub CodeQL Actions Critical Supply Chain Vulnerability (CodeQLEAKED)](https://www.praetorian.com/blog/codeqleaked-public-secrets-exposure-leads-to-supply-chain-attack-on-github-codeql/)
 * [2025-03-30, 19:52:25](https://news.ycombinator.com/item?id=43527024) - [Pixelfed leaks private posts from other Fediverse instances](https://fokus.cool/2025/03/25/pixelfed-vulnerability.html)
 * [2025-03-30, 19:51:56](https://news.ycombinator.com/item?id=43527019) - [Raising Kids to Have an Analog Childhood in a Digital World](https://www.joshuakennon.com/raising-kids-to-have-an-analogue-childhood-in-a-digital-world/)
