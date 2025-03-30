@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2025-03-30](index.md)
 
+* [2025-03-30, 19:52:25](https://news.ycombinator.com/item?id=43527024) - [Pixelfed leaks private posts from other Fediverse instances](https://fokus.cool/2025/03/25/pixelfed-vulnerability.html)
+* [2025-03-30, 19:51:56](https://news.ycombinator.com/item?id=43527019) - [Raising Kids to Have an Analog Childhood in a Digital World](https://www.joshuakennon.com/raising-kids-to-have-an-analogue-childhood-in-a-digital-world/)
 * [2025-03-30, 19:50:10](https://news.ycombinator.com/item?id=43527001) - [FBI raids home of prominent computer scientist who has gone incommunicado](https://arstechnica.com/security/2025/03/computer-scientist-goes-silent-after-fbi-raid-and-purging-from-university-website/)
 * [2025-03-30, 19:06:48](https://news.ycombinator.com/item?id=43526644) - [Richard Chamberlain dies aged 90](https://www.theguardian.com/tv-and-radio/2025/mar/30/richard-chamberlain-hero-of-dr-kildare-and-king-of-the-miniseries-dies-aged-90)
 * [2025-03-30, 19:03:42](https://news.ycombinator.com/item?id=43526621) - [File Systems Unfit as Distributed Storage Back Ends (2019)](https://dl.acm.org/doi/pdf/10.1145/3341301.3359656)
 * [2025-03-30, 18:41:46](https://news.ycombinator.com/item?id=43526443) - [Can Earth's rotation generate power? Physicists divided over controversial claim](https://www.nature.com/articles/d41586-025-00847-0)
 * [2025-03-30, 18:35:03](https://news.ycombinator.com/item?id=43526396) - [The Nobel Duel](https://www.asimov.press/p/nobel-duel)
+* [2025-03-30, 18:10:25](https://news.ycombinator.com/item?id=43526215) - [One island, two worlds (Haiti vs. Dominican Republic)](https://www.economist.com/the-americas/2025/03/27/one-island-two-worlds)
+* [2025-03-30, 17:51:42](https://news.ycombinator.com/item?id=43526058) - [Why Is This Site Built with C](https://marcelofern.com/posts/c/why-is-this-site-built-with-c/index.html)
 * [2025-03-30, 17:33:19](https://news.ycombinator.com/item?id=43525909) - [Met Police smash down door of Quaker meeting house to arrest activists](https://www.thetimes.com/uk/society/article/met-smash-down-door-of-quaker-meeting-house-to-arrest-activists-jhhchrtlt)
 * [2025-03-30, 17:06:47](https://news.ycombinator.com/item?id=43525687) - [Swiftly 1.0](https://www.swift.org/blog/introducing-swiftly_10/)
 * [2025-03-30, 17:01:47](https://news.ycombinator.com/item?id=43525636) - [Spice Data (YC S19) Is Hiring a Software Engineer](https://www.ycombinator.com/companies/spice-data/jobs/TijA35R-software-engineer)
