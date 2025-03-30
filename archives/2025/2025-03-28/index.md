@@ -43,6 +43,7 @@
 * [2025-03-28, 13:40:41](https://news.ycombinator.com/item?id=43505334) - [The Biology of B-Movie Monsters (2003)](https://fathom.lib.uchicago.edu/2/21701757/)
 * [2025-03-28, 13:13:04](https://news.ycombinator.com/item?id=43505022) - [Cross-Platform P2P Wi-Fi: How the EU Killed AWDL](https://www.ditto.com/blog/cross-platform-p2p-wi-fi-how-the-eu-killed-awdl)
 * [2025-03-28, 12:52:12](https://news.ycombinator.com/item?id=43504765) - [Trump's FCC Starts Harassing Public Broadcasters with Bogus Investigations](https://www.techdirt.com/2025/03/28/trumps-fcc-starts-harassing-public-broadcasters-with-bogus-investigations/)
+* [2025-03-28, 12:25:00](https://news.ycombinator.com/item?id=43504514) - [Claim for a Missing Tooth](https://tf230.matteason.co.uk/)
 * [2025-03-28, 12:18:26](https://news.ycombinator.com/item?id=43504451) - [Are Levi's from Amazon Different from Levi's from Levi's?](https://nymag.com/strategist/article/levis-amazon-jeans-testing.html)
 * [2025-03-28, 12:14:06](https://news.ycombinator.com/item?id=43504413) - [I drove 300 miles, then asked police to send me surveillance footage of my car.](https://cardinalnews.org/2025/03/28/i-drove-300-miles-in-rural-virginia-then-asked-police-to-send-me-their-public-surveillance-footage-of-my-car-heres-what-i-learned/)
 * [2025-03-28, 12:04:53](https://news.ycombinator.com/item?id=43504322) - [Nobody should be a \"content creator\"](https://christianheilmann.com/2025/03/12/nobody-should-be-a-content-creator/)
