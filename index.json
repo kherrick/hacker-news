@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-30, 19:54:46",
+      "https://news.ycombinator.com/item?id=43527044"
+    ],
+    [
+      "GitHub CodeQL Actions Critical Supply Chain Vulnerability (CodeQLEAKED)",
+      "https://www.praetorian.com/blog/codeqleaked-public-secrets-exposure-leads-to-supply-chain-attack-on-github-codeql/"
+    ]
+  ],
+  [
+    [
       "2025-03-30, 19:52:25",
       "https://news.ycombinator.com/item?id=43527024"
     ],
@@ -27,6 +37,16 @@
     [
       "FBI raids home of prominent computer scientist who has gone incommunicado",
       "https://arstechnica.com/security/2025/03/computer-scientist-goes-silent-after-fbi-raid-and-purging-from-university-website/"
+    ]
+  ],
+  [
+    [
+      "2025-03-30, 19:22:36",
+      "https://news.ycombinator.com/item?id=43526763"
+    ],
+    [
+      "Introduction to System Programming in Linux (Early Access)",
+      "https://nostarch.com/introduction-system-programming-linux"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2025-03-30, 14:55:57",
-      "https://news.ycombinator.com/item?id=43524673"
-    ],
-    [
-      "Literate Development: AI-Enhanced Software Engineering",
-      "https://substack.com/home/post/p-160183664"
-    ]
-  ],
-  [
-    [
       "2025-03-30, 14:53:33",
       "https://news.ycombinator.com/item?id=43524665"
     ],
@@ -187,16 +197,6 @@
     [
       "Four Lectures on Standard ML (1989) [pdf]",
       "https://www.cs.tufts.edu/~nr/cs257/archive/mads-tofte/four-lectures.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-03-30, 07:15:49",
-      "https://news.ycombinator.com/item?id=43522059"
-    ],
-    [
-      "Kalua: An OpenWrt extension for building large mesh-networks",
-      "https://github.com/bittorf/kalua"
     ]
   ],
   [
