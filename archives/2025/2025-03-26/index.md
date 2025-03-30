@@ -56,6 +56,7 @@
 * [2025-03-26, 12:08:48](https://news.ycombinator.com/item?id=43481295) - [You should know this before choosing Next.js](https://eduardoboucas.com/posts/2025-03-25-you-should-know-this-before-choosing-nextjs/)
 * [2025-03-26, 12:04:08](https://news.ycombinator.com/item?id=43481261) - [I Quit Google Search for AI–and I'm Not Going Back](https://www.wsj.com/tech/personal-tech/google-search-chatgpt-perplexity-gemini-6ac749d9)
 * [2025-03-26, 11:36:17](https://news.ycombinator.com/item?id=43481067) - [SplitQuantV2: Enhancing Low-Bit Quantization of LLMs Without GPUs](https://arxiv.org/abs/2503.07657)
+* [2025-03-26, 11:32:27](https://news.ycombinator.com/item?id=43481024) - [Introduction to Open Source Laptop Project](https://resources.altium.com/p/open-source-laptop-part-one)
 * [2025-03-26, 11:24:12](https://news.ycombinator.com/item?id=43480964) - [The role of developer skills in agentic coding](https://martinfowler.com/articles/exploring-gen-ai.html#memo-13)
 * [2025-03-26, 11:09:59](https://news.ycombinator.com/item?id=43480880) - [DOGE staffer,'Big Balls', provided tech support to cybercrime ring, records show](https://www.reuters.com/world/us/doge-staffer-big-balls-provided-tech-support-cybercrime-ring-records-show-2025-03-26/)
 * [2025-03-26, 10:56:29](https://news.ycombinator.com/item?id=43480816) - [DuckDB: Development Roadmap](https://duckdb.org/docs/stable/dev/roadmap.html)
