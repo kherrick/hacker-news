@@ -47,6 +47,7 @@
 * [2025-03-28, 12:14:06](https://news.ycombinator.com/item?id=43504413) - [I drove 300 miles, then asked police to send me surveillance footage of my car.](https://cardinalnews.org/2025/03/28/i-drove-300-miles-in-rural-virginia-then-asked-police-to-send-me-their-public-surveillance-footage-of-my-car-heres-what-i-learned/)
 * [2025-03-28, 12:04:53](https://news.ycombinator.com/item?id=43504322) - [Nobody should be a \"content creator\"](https://christianheilmann.com/2025/03/12/nobody-should-be-a-content-creator/)
 * [2025-03-28, 12:02:32](https://news.ycombinator.com/item?id=43504299) - [PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
+* [2025-03-28, 11:46:57](https://news.ycombinator.com/item?id=43504175) - [Functors, Applicatives, and Monads](https://www.thecoder.cafe/p/functors-applicatives-monads)
 * [2025-03-28, 11:34:56](https://news.ycombinator.com/item?id=43504089) - [Project 2025's roadmap to defund science](https://www.nature.com/articles/d41586-025-00780-2)
 * [2025-03-28, 11:11:55](https://news.ycombinator.com/item?id=43503960) - [Let's Take a Look at JEP 483: Ahead-of-Time Class Loading and Linking](https://www.morling.dev/blog/jep-483-aot-class-loading-linking/)
 * [2025-03-28, 11:04:40](https://news.ycombinator.com/item?id=43503897) - [MilliForth-6502: The smallest Forth real programming language for 6502](https://github.com/agsb/milliForth-6502)
