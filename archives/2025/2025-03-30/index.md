@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-03-30](index.md)
 
+* [2025-03-30, 18:41:46](https://news.ycombinator.com/item?id=43526443) - [Can Earth's rotation generate power? Physicists divided over controversial claim](https://www.nature.com/articles/d41586-025-00847-0)
 * [2025-03-30, 17:33:19](https://news.ycombinator.com/item?id=43525909) - [Met Police smash down door of Quaker meeting house to arrest activists](https://www.thetimes.com/uk/society/article/met-smash-down-door-of-quaker-meeting-house-to-arrest-activists-jhhchrtlt)
 * [2025-03-30, 17:06:47](https://news.ycombinator.com/item?id=43525687) - [Swiftly 1.0](https://www.swift.org/blog/introducing-swiftly_10/)
 * [2025-03-30, 17:01:47](https://news.ycombinator.com/item?id=43525636) - [Spice Data (YC S19) Is Hiring a Software Engineer](https://www.ycombinator.com/companies/spice-data/jobs/TijA35R-software-engineer)
 * [2025-03-30, 16:36:06](https://news.ycombinator.com/item?id=43525432) - [SHH – Sonic Hedgehog Protein](https://en.wikipedia.org/wiki/Sonic_hedgehog_protein)
 * [2025-03-30, 16:34:51](https://news.ycombinator.com/item?id=43525418) - [Private Equity Is Coming for America's $12T in Retirement Savings](https://www.bloomberg.com/news/articles/2025-03-25/retirement-saving-private-equity-comes-for-america-s-401-k)
+* [2025-03-30, 16:32:26](https://news.ycombinator.com/item?id=43525395) - [Organic Maps migrates to Forgejo due to GitHub account blocked by Microsoft](https://mastodon.social/@organicmaps/114233788700982882)
 * [2025-03-30, 15:49:19](https://news.ycombinator.com/item?id=43525079) - [The Child and the Shadow by Ursula Le Guin [pdf]](https://www.johnirons.com/pdfs/shadowleguin.pdf)
 * [2025-03-30, 15:40:37](https://news.ycombinator.com/item?id=43525009) - [The Mediocrity of Modern Google](https://om.co/2025/03/29/the-mediocrity-of-modern-google/)
 * [2025-03-30, 15:30:22](https://news.ycombinator.com/item?id=43524937) - [Blue95: a desktop for your childhood home's computer room](https://github.com/winblues/blue95)
