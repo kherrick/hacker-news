@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-30, 22:44:38](https://news.ycombinator.com/item?id=43528479) - [Xiaofeng Wang](https://www.researchgate.net/profile/Xiaofeng-Wang-35)
 * [2025-03-30, 20:55:28](https://news.ycombinator.com/item?id=43527552) - [MAME 0.276](https://www.mamedev.org/?p=549)
 * [2025-03-30, 20:52:39](https://news.ycombinator.com/item?id=43527521) - [Xfinity XB3 hardware mod: Disable WiFi and save 2 watts](https://gist.github.com/pmarks-net/af40dba69272806c1ec9cbe71429d2e7)
 * [2025-03-30, 20:43:15](https://news.ycombinator.com/item?id=43527452) - [Ask HN: What are you working on? (March 2025)](https://news.ycombinator.com/item?id=43527452)
@@ -16,6 +15,7 @@
 * [2025-03-30, 17:01:47](https://news.ycombinator.com/item?id=43525636) - [Spice Data (YC S19) is hiring a software engineer](https://www.ycombinator.com/companies/spice-data/jobs/TijA35R-software-engineer)
 * [2025-03-30, 15:49:19](https://news.ycombinator.com/item?id=43525079) - [The Child and the Shadow (1975) [pdf]](https://www.johnirons.com/pdfs/shadowleguin.pdf)
 * [2025-03-30, 15:30:22](https://news.ycombinator.com/item?id=43524937) - [Blue95: a desktop for your childhood home's computer room](https://github.com/winblues/blue95)
+* [2025-03-30, 14:53:33](https://news.ycombinator.com/item?id=43524665) - [Span<T>.SequenceEquals is faster than memcmp](https://richardcocks.github.io/2025-03-30-FasterThanMemCmp.html)
 * [2025-03-30, 12:50:45](https://news.ycombinator.com/item?id=43523765) - [Why a plane turned around when a passenger lost a phone midflight](https://www.washingtonpost.com/travel/2025/03/28/air-france-lost-cellphone/)
 * [2025-03-30, 12:47:07](https://news.ycombinator.com/item?id=43523741) - [Tail Call Recursion in Java with ASM (2023)](https://unlinkedlist.org/2023/03/19/tail-call-recursion-in-java-with-asm/)
 * [2025-03-30, 11:15:12](https://news.ycombinator.com/item?id=43523238) - [Rust Any part 3: we have upcasts](https://lucumr.pocoo.org/2025/3/27/any-upcast/)
