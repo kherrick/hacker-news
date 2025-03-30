@@ -2,7 +2,6 @@
 
 * [2025-03-30, 20:55:28](https://news.ycombinator.com/item?id=43527552) - [MAME 0.276](https://www.mamedev.org/?p=549)
 * [2025-03-30, 20:43:15](https://news.ycombinator.com/item?id=43527452) - [Ask HN: What are you working on? (March 2025)](https://news.ycombinator.com/item?id=43527452)
-* [2025-03-30, 20:06:02](https://news.ycombinator.com/item?id=43527154) - [Man Detained by ICE for Autism Awareness Tattoo Sent to Prison](https://www.latintimes.com/man-detained-ice-autism-awareness-tattoo-still-sent-prison-after-officers-declared-him-clean-579373)
 * [2025-03-30, 19:54:46](https://news.ycombinator.com/item?id=43527044) - [GitHub CodeQL Actions Critical Supply Chain Vulnerability (CodeQLEAKED)](https://www.praetorian.com/blog/codeqleaked-public-secrets-exposure-leads-to-supply-chain-attack-on-github-codeql/)
 * [2025-03-30, 19:52:25](https://news.ycombinator.com/item?id=43527024) - [Pixelfed leaks private posts from other Fediverse instances](https://fokus.cool/2025/03/25/pixelfed-vulnerability.html)
 * [2025-03-30, 19:51:56](https://news.ycombinator.com/item?id=43527019) - [Raising Kids to Have an Analog Childhood in a Digital World](https://www.joshuakennon.com/raising-kids-to-have-an-analogue-childhood-in-a-digital-world/)
@@ -17,11 +16,11 @@
 * [2025-03-30, 15:49:19](https://news.ycombinator.com/item?id=43525079) - [The Child and the Shadow (1975) [pdf]](https://www.johnirons.com/pdfs/shadowleguin.pdf)
 * [2025-03-30, 15:30:22](https://news.ycombinator.com/item?id=43524937) - [Blue95: a desktop for your childhood home's computer room](https://github.com/winblues/blue95)
 * [2025-03-30, 14:53:33](https://news.ycombinator.com/item?id=43524665) - [Span<T>.SequenceEquals is faster than memcmp](https://richardcocks.github.io/2025-03-30-FasterThanMemCmp.html)
+* [2025-03-30, 12:50:45](https://news.ycombinator.com/item?id=43523765) - [Why a plane turned around when a passenger lost a phone midflight](https://www.washingtonpost.com/travel/2025/03/28/air-france-lost-cellphone/)
 * [2025-03-30, 12:47:07](https://news.ycombinator.com/item?id=43523741) - [Tail Call Recursion in Java with ASM (2023)](https://unlinkedlist.org/2023/03/19/tail-call-recursion-in-java-with-asm/)
 * [2025-03-30, 11:15:12](https://news.ycombinator.com/item?id=43523238) - [Rust Any part 3: we have upcasts](https://lucumr.pocoo.org/2025/3/27/any-upcast/)
 * [2025-03-30, 10:20:11](https://news.ycombinator.com/item?id=43522966) - [The average college student today](https://hilariusbookbinder.substack.com/p/the-average-college-student-today)
 * [2025-03-30, 08:14:11](https://news.ycombinator.com/item?id=43522363) - [Four Lectures on Standard ML (1989) [pdf]](https://www.cs.tufts.edu/~nr/cs257/archive/mads-tofte/four-lectures.pdf)
-* [2025-03-29, 21:26:32](https://news.ycombinator.com/item?id=43518866) - [Everyone knows all the apps on your phone](https://peabee.substack.com/p/everyone-knows-what-apps-you-use)
 * [2025-03-29, 12:24:16](https://news.ycombinator.com/item?id=43514969) - [What to Do](https://paulgraham.com/do.html)
 * [2025-03-28, 12:25:00](https://news.ycombinator.com/item?id=43504514) - [Claim for a missing tooth](https://tf230.matteason.co.uk/)
 * [2025-03-28, 11:46:57](https://news.ycombinator.com/item?id=43504175) - [Functors, Applicatives, and Monads](https://www.thecoder.cafe/p/functors-applicatives-monads)
@@ -29,6 +28,7 @@
 * [2025-03-27, 13:46:45](https://news.ycombinator.com/item?id=43493611) - [Robotics Meets Runway: Unitree G1's Catwalk Debut at SHFW](https://chinaminutes.com/2025/03/27/robotics-meets-runway-unitree-g1s-catwalk-debut-at-shfw/)
 * [2025-03-27, 07:42:47](https://news.ycombinator.com/item?id=43491245) - [Show HN: I built a tool to add noise texture to your images](https://noisetools.vercel.app/)
 * [2025-03-27, 04:02:56](https://news.ycombinator.com/item?id=43490290) - [C. Elegans: The worm that no computer scientist can crack](https://www.wired.com/story/openworm-worm-simulator-biology-code/)
+* [2025-03-26, 18:03:21](https://news.ycombinator.com/item?id=43484944) - [Testing the latest AI tools for prototyping and building simple websites](https://blog.codeyam.com/p/testing-the-latest-ai-tools-for-prototyping)
 * [2025-03-26, 12:49:09](https://news.ycombinator.com/item?id=43481652) - [Bringing Record and Replay debugging everywhere on Linux](https://github.com/sidkshatriya/me/blob/master/008-rr-everywhere.md)
 
 ## [Archives](archives/index.md)
