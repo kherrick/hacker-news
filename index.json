@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-03-30, 22:44:38",
-      "https://news.ycombinator.com/item?id=43528479"
-    ],
-    [
-      "Xiaofeng Wang",
-      "https://www.researchgate.net/profile/Xiaofeng-Wang-35"
-    ]
-  ],
-  [
-    [
       "2025-03-30, 20:55:28",
       "https://news.ycombinator.com/item?id=43527552"
     ],
@@ -157,6 +147,16 @@
     [
       "Blue95: a desktop for your childhood home's computer room",
       "https://github.com/winblues/blue95"
+    ]
+  ],
+  [
+    [
+      "2025-03-30, 14:53:33",
+      "https://news.ycombinator.com/item?id=43524665"
+    ],
+    [
+      "Span<T>.SequenceEquals is faster than memcmp",
+      "https://richardcocks.github.io/2025-03-30-FasterThanMemCmp.html"
     ]
   ],
   [
