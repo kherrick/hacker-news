@@ -24,11 +24,11 @@
 * [2025-03-29, 12:24:16](https://news.ycombinator.com/item?id=43514969) - [What to Do](https://paulgraham.com/do.html)
 * [2025-03-28, 12:25:00](https://news.ycombinator.com/item?id=43504514) - [Claim for a missing tooth](https://tf230.matteason.co.uk/)
 * [2025-03-28, 11:46:57](https://news.ycombinator.com/item?id=43504175) - [Functors, Applicatives, and Monads](https://www.thecoder.cafe/p/functors-applicatives-monads)
+* [2025-03-27, 19:20:50](https://news.ycombinator.com/item?id=43497081) - [The Death of Software Engineering by a Thousand Prompts](https://verdikapuku.com/posts/the-death-of-the-software-engineer-by-a-thousand-prompts/)
 * [2025-03-27, 16:51:23](https://news.ycombinator.com/item?id=43495476) - [Limits of Smart: Molecules and Chaos](https://dynomight.substack.com/p/smart)
 * [2025-03-27, 13:46:45](https://news.ycombinator.com/item?id=43493611) - [Robotics Meets Runway: Unitree G1's Catwalk Debut at SHFW](https://chinaminutes.com/2025/03/27/robotics-meets-runway-unitree-g1s-catwalk-debut-at-shfw/)
 * [2025-03-27, 07:42:47](https://news.ycombinator.com/item?id=43491245) - [Show HN: I built a tool to add noise texture to your images](https://noisetools.vercel.app/)
 * [2025-03-27, 04:02:56](https://news.ycombinator.com/item?id=43490290) - [C. Elegans: The worm that no computer scientist can crack](https://www.wired.com/story/openworm-worm-simulator-biology-code/)
-* [2025-03-26, 18:03:21](https://news.ycombinator.com/item?id=43484944) - [Testing the latest AI tools for prototyping and building simple websites](https://blog.codeyam.com/p/testing-the-latest-ai-tools-for-prototyping)
 * [2025-03-26, 12:49:09](https://news.ycombinator.com/item?id=43481652) - [Bringing Record and Replay debugging everywhere on Linux](https://github.com/sidkshatriya/me/blob/master/008-rr-everywhere.md)
 
 ## [Archives](archives/index.md)
