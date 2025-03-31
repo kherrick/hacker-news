@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-31](index.md)
 
+* [2025-03-31, 18:28:03](https://news.ycombinator.com/item?id=43538113) - [Honey has now lost 4M Chrome users after shady tactics were revealed](https://9to5google.com/2025/03/31/honey-extension-users-dropped-chrome-march-2025/)
 * [2025-03-31, 17:58:19](https://news.ycombinator.com/item?id=43537808) - [The Average College Student Is Illiterate](https://www.persuasion.community/p/the-average-college-student-is-illiterate)
 * [2025-03-31, 17:38:16](https://news.ycombinator.com/item?id=43537593) - [France fines Apple €150M for \"excessive\" pop-ups that let users reject tracking](https://arstechnica.com/tech-policy/2025/03/france-fines-apple-e150m-for-excessive-pop-ups-that-let-users-reject-tracking/)
 * [2025-03-31, 17:29:04](https://news.ycombinator.com/item?id=43537505) - [Launch HN: Augento (YC W25) – Fine-tune your agents with reinforcement learning](https://news.ycombinator.com/item?id=43537505)

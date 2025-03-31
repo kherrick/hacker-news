@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-31, 18:28:03](https://news.ycombinator.com/item?id=43538113) - [Honey has now lost 4M Chrome users after shady tactics were revealed](https://9to5google.com/2025/03/31/honey-extension-users-dropped-chrome-march-2025/)
 * [2025-03-31, 17:58:19](https://news.ycombinator.com/item?id=43537808) - [The Average College Student Is Illiterate](https://www.persuasion.community/p/the-average-college-student-is-illiterate)
 * [2025-03-31, 17:38:16](https://news.ycombinator.com/item?id=43537593) - [France fines Apple €150M for \"excessive\" pop-ups that let users reject tracking](https://arstechnica.com/tech-policy/2025/03/france-fines-apple-e150m-for-excessive-pop-ups-that-let-users-reject-tracking/)
 * [2025-03-31, 17:29:04](https://news.ycombinator.com/item?id=43537505) - [Launch HN: Augento (YC W25) – Fine-tune your agents with reinforcement learning](https://news.ycombinator.com/item?id=43537505)
@@ -12,9 +13,8 @@
 * [2025-03-31, 15:10:39](https://news.ycombinator.com/item?id=43535943) - [Turso SQLite Offline Sync Public Beta](https://turso.tech/blog/turso-offline-sync-public-beta)
 * [2025-03-31, 15:06:23](https://news.ycombinator.com/item?id=43535889) - [Show HN: GuMCP – Open-source MCP servers, hosted for free](https://github.com/gumloop/guMCP)
 * [2025-03-31, 14:56:35](https://news.ycombinator.com/item?id=43535769) - [Java Minecraft in the Browser](https://browsercraft.cheerpj.com/)
-* [2025-03-31, 14:49:42](https://news.ycombinator.com/item?id=43535688) - [There's White Stuff Growing on Your Cheese That Isn't Mold (2018)](https://www.thephcheese.com/theres-white-stuff-growing-on-your-cheese-that-isnt-mold)
+* [2025-03-31, 14:49:42](https://news.ycombinator.com/item?id=43535688) - [It’s not mold, it’s calcium lactate (2018)](https://www.thephcheese.com/theres-white-stuff-growing-on-your-cheese-that-isnt-mold)
 * [2025-03-31, 14:45:35](https://news.ycombinator.com/item?id=43535653) - [AI Agents: Less Capability, More Reliability, Please](https://www.sergey.fyi/articles/reliability-vs-capability)
-* [2025-03-31, 14:32:23](https://news.ycombinator.com/item?id=43535512) - [Back From The Future: 1995's predictions of 2025 life](https://newslttrs.com/back-from-the-future-1995s-predictions-of-2025-life/)
 * [2025-03-31, 12:09:49](https://news.ycombinator.com/item?id=43534029) - [Gemini 2.5 Pro vs. Claude 3.7 Sonnet: Coding Comparison](https://composio.dev/blog/gemini-2-5-pro-vs-claude-3-7-sonnet-coding-comparison/)
 * [2025-03-31, 11:01:50](https://news.ycombinator.com/item?id=43533516) - [Compiler Options Hardening Guide for C and C++](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
 * [2025-03-31, 10:58:53](https://news.ycombinator.com/item?id=43533496) - [Things I Won't Work With: Dioxygen Difluoride (2010)](https://www.science.org/content/blog-post/things-i-won-t-work-dioxygen-difluoride)
