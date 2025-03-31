@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-31, 03:49:24](https://news.ycombinator.com/item?id=43530751) - [Fiber optic drones are changing combat operations](https://www.youtube.com/watch?v=JcB4dR_8xPo)
 * [2025-03-31, 03:40:40](https://news.ycombinator.com/item?id=43530675) - ['Joker,' 'Matrix' producer Village Roadshow files for bankruptcy protection](https://www.latimes.com/entertainment-arts/business/story/2025-03-17/joker-matrix-studio-village-roadshow-files-for-chapter-11-bankruptcy)
 * [2025-03-31, 02:58:20](https://news.ycombinator.com/item?id=43530410) - [Optifye.ai (YC W25) Is Hiring](https://www.ycombinator.com/companies/optifye-ai/jobs/sDfGXkK-founding-engineer)
-* [2025-03-31, 01:27:09](https://news.ycombinator.com/item?id=43529709) - [Rare Merlin and King Arthur manuscript fragment discovered in book binding](https://www.cam.ac.uk/stories/merlin-manuscript-discovered-cambridge)
-* [2025-03-31, 01:26:47](https://news.ycombinator.com/item?id=43529707) - [How Each Pillar of the First Amendment Is Under Attack](https://krebsonsecurity.com/2025/03/how-each-pillar-of-the-1st-amendment-is-under-attack/)
+* [2025-03-31, 01:27:09](https://news.ycombinator.com/item?id=43529709) - [Fragments of a rare Merlin manuscript from c. 1300](https://www.cam.ac.uk/stories/merlin-manuscript-discovered-cambridge)
+* [2025-03-31, 01:26:47](https://news.ycombinator.com/item?id=43529707) - [How each pillar of the First Amendment is under attack](https://krebsonsecurity.com/2025/03/how-each-pillar-of-the-1st-amendment-is-under-attack/)
 * [2025-03-31, 00:22:40](https://news.ycombinator.com/item?id=43529257) - [Installing air filters in classrooms has surprisingly large educational benefits (2020)](https://www.vox.com/2020/1/8/21051869/indoor-air-pollution-student-achievement)
 * [2025-03-31, 00:15:26](https://news.ycombinator.com/item?id=43529213) - [Ambermoon Advanced](https://github.com/Pyrdacor/Ambermoon-Advanced)
 * [2025-03-31, 00:07:54](https://news.ycombinator.com/item?id=43529163) - [BreezeWiki makes wiki pages on Fandom readable](https://breezewiki.com/)
@@ -29,7 +30,6 @@
 * [2025-03-28, 06:23:06](https://news.ycombinator.com/item?id=43502124) - [Orphan tsunami of 1700–Japanese clues to a parent earthquake in America (2015)](https://pubs.usgs.gov/publication/pp1707)
 * [2025-03-27, 22:21:20](https://news.ycombinator.com/item?id=43498861) - [George Orwell and me: Richard Blair on life with his extraordinary father](https://www.theguardian.com/books/2025/mar/19/george-orwell-me-richard-blair-life-with-extraordinary-father)
 * [2025-03-27, 21:28:33](https://news.ycombinator.com/item?id=43498399) - [Digital cuneiforms: Updated tool expands access to ancient Hittite texts](https://phys.org/news/2025-03-digital-cuneiforms-tool-access-ancient.html)
-* [2025-03-27, 15:55:30](https://news.ycombinator.com/item?id=43494960) - [Fish odor syndrome – A rare metabolic condition that makes sweat smell like fish](https://www.livescience.com/health/viruses-infections-disease/fish-odor-syndrome-a-rare-metabolic-condition-that-makes-sweat-smell-like-rotten-fish)
 
 ## [Archives](archives/index.md)
 
