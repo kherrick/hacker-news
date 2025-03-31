@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-31, 19:35:51](https://news.ycombinator.com/item?id=43538919) - [JEP Draft: Prepare to Make Final Mean Final](https://openjdk.org/jeps/8349536)
+* [2025-03-31, 19:25:39](https://news.ycombinator.com/item?id=43538783) - [OpenAI releasing new open model in coming months, seeks community feedback](https://openai.com/open-model-feedback/)
 * [2025-03-31, 18:47:30](https://news.ycombinator.com/item?id=43538338) - [Kagi for Kids](https://help.kagi.com/kagi/plans/family-plan.html#kidslogin)
 * [2025-03-31, 18:35:37](https://news.ycombinator.com/item?id=43538192) - [Notes on the Pentium's Microcode Circuitry](https://www.righto.com/2025/03/pentium-microcde-rom-circuitry.html)
 * [2025-03-31, 18:28:03](https://news.ycombinator.com/item?id=43538113) - [Honey has now lost 4M Chrome users after shady tactics were revealed](https://9to5google.com/2025/03/31/honey-extension-users-dropped-chrome-march-2025/)
@@ -29,7 +30,6 @@
 * [2025-03-28, 22:14:33](https://news.ycombinator.com/item?id=43510393) - [In the 1980s we downloaded games from the radio](https://newslttrs.com/yes-in-the-1980s-we-downloaded-games-from-the-radio/)
 * [2025-03-28, 20:26:13](https://news.ycombinator.com/item?id=43509524) - [C and C++ prioritize performance over correctness (2023)](https://research.swtch.com/ub)
 * [2025-03-28, 10:55:04](https://news.ycombinator.com/item?id=43503833) - [Show HN: I made a C program to create a vanity SHA-1 hash for a text file](https://gist.github.com/o0101/77eb378b5076fe47c3336583330ac615)
-* [2025-03-28, 07:04:01](https://news.ycombinator.com/item?id=43502385) - [Technical Analysis – Improper Use of Private iOS APIs in Vietnamese Banking Apps](https://blog.verichains.io/p/technical-analysis-improper-use-of)
 
 ## [Archives](archives/index.md)
 
