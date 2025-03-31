@@ -14,7 +14,6 @@
 * [2025-03-31, 04:07:41](https://news.ycombinator.com/item?id=43530863) - [Lapham's Quarterly Announces New Stewardship](https://www.laphamsquarterly.org/roundtable/laphams-quarterly-announces-new-stewardship)
 * [2025-03-31, 01:27:09](https://news.ycombinator.com/item?id=43529709) - [Fragments of a rare Merlin manuscript from c. 1300](https://www.cam.ac.uk/stories/merlin-manuscript-discovered-cambridge)
 * [2025-03-31, 00:22:40](https://news.ycombinator.com/item?id=43529257) - [Installing air filters in classrooms has surprisingly large educational benefits (2020)](https://www.vox.com/2020/1/8/21051869/indoor-air-pollution-student-achievement)
-* [2025-03-31, 00:07:54](https://news.ycombinator.com/item?id=43529163) - [BreezeWiki makes wiki pages on Fandom readable](https://breezewiki.com/)
 * [2025-03-30, 23:59:23](https://news.ycombinator.com/item?id=43529104) - [Oka.wiki](https://oka.wiki/)
 * [2025-03-30, 21:20:10](https://news.ycombinator.com/item?id=43527761) - [Station: Travel Through the Four Seasons (1994)](https://blog.gingerbeardman.com/2025/03/30/station-travel-through-the-four-seasons-1994/)
 * [2025-03-30, 20:43:15](https://news.ycombinator.com/item?id=43527452) - [Ask HN: What are you working on? (March 2025)](https://news.ycombinator.com/item?id=43527452)
@@ -30,6 +29,7 @@
 * [2025-03-28, 06:58:00](https://news.ycombinator.com/item?id=43502348) - [Finalizers are tricker than you might think. Part 2](https://sergeyteplyakov.github.io/Blog/2025/03/27/Finalizers_are_tricker_than_you_might_think_p2.html)
 * [2025-03-28, 06:23:06](https://news.ycombinator.com/item?id=43502124) - [Orphan tsunami of 1700–Japanese clues to a parent earthquake in America (2015)](https://pubs.usgs.gov/publication/pp1707)
 * [2025-03-27, 22:21:20](https://news.ycombinator.com/item?id=43498861) - [George Orwell and me: Richard Blair on life with his extraordinary father](https://www.theguardian.com/books/2025/mar/19/george-orwell-me-richard-blair-life-with-extraordinary-father)
+* [2025-03-27, 11:19:59](https://news.ycombinator.com/item?id=43492415) - [Fastest and Minimalist Note Taking App](https://www.noteux.com/)
 
 ## [Archives](archives/index.md)
 

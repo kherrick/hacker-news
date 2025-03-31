@@ -72,6 +72,7 @@
 * [2025-03-27, 12:00:10](https://news.ycombinator.com/item?id=43492680) - [Craniometrix (YC W22) Is Hiring](https://www.ycombinator.com/companies/craniometrix/jobs/ugwcSrU-chief-of-staff)
 * [2025-03-27, 11:55:19](https://news.ycombinator.com/item?id=43492652) - [Source code art in the Rivulet language](https://github.com/rottytooth/Rivulet)
 * [2025-03-27, 11:41:30](https://news.ycombinator.com/item?id=43492562) - [Piranesi's Perspective Trick (2019)](https://medium.com/@brunopostle/piranesis-perspective-trick-6bcd7a754da9)
+* [2025-03-27, 11:19:59](https://news.ycombinator.com/item?id=43492415) - [Fastest and Minimalist Note Taking App](https://www.noteux.com/)
 * [2025-03-27, 11:15:19](https://news.ycombinator.com/item?id=43492378) - [Why do blue-footed boobies have blue feet? And 8 other blue-footed booby facts](https://www.worldwildlife.org/stories/why-do-blue-footed-boobies-have-blue-feet-and-8-other-blue-footed-booby-facts)
 * [2025-03-27, 10:49:55](https://news.ycombinator.com/item?id=43492211) - [Modern C](https://gustedt.gitlabpages.inria.fr/modern-c/)
 * [2025-03-27, 10:35:11](https://news.ycombinator.com/item?id=43492112) - [Why I'm Boycotting AI](https://unherd.com/2025/03/why-im-boycotting-ai/)
