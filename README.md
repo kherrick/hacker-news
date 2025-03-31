@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-31, 13:40:39](https://news.ycombinator.com/item?id=43534939) - [Why Login Failures Matter](https://fusionauth.io/articles/authentication/login-failures)
+* [2025-03-31, 13:08:54](https://news.ycombinator.com/item?id=43534635) - [Nvidia's latest AI PC boxes sound great – for data scientists with $3k to spare](https://www.theregister.com/2025/03/31/can_nvidia_shakeup_pcs/)
 * [2025-03-31, 12:26:46](https://news.ycombinator.com/item?id=43534185) - [Finding Remote Enterprise Software Consulting Leads: Non-US Resident Edition](https://news.ycombinator.com/item?id=43534185)
 * [2025-03-31, 12:09:49](https://news.ycombinator.com/item?id=43534029) - [Gemini 2.5 Pro vs. Claude 3.7 Sonnet: Coding Comparison](https://composio.dev/blog/gemini-2-5-pro-vs-claude-3-7-sonnet-coding-comparison/)
 * [2025-03-31, 11:45:32](https://news.ycombinator.com/item?id=43533826) - [The Egg (By Andy Weir)](https://www.galactanet.com/oneoff/theegg.html)
@@ -16,7 +18,6 @@
 * [2025-03-31, 05:28:03](https://news.ycombinator.com/item?id=43531415) - [RPCEmu is an emulator of classic Acorn computer systems](https://www.marutan.net/rpcemu/index.php)
 * [2025-03-31, 04:10:45](https://news.ycombinator.com/item?id=43530889) - [Win98-quickinstall: A framework and installer to quickly install Windows 98](https://github.com/oerg866/win98-quickinstall)
 * [2025-03-31, 01:27:09](https://news.ycombinator.com/item?id=43529709) - [Fragments of a rare Merlin manuscript from c. 1300](https://www.cam.ac.uk/stories/merlin-manuscript-discovered-cambridge)
-* [2025-03-30, 21:20:10](https://news.ycombinator.com/item?id=43527761) - [Station: Travel Through the Four Seasons (1994)](https://blog.gingerbeardman.com/2025/03/30/station-travel-through-the-four-seasons-1994/)
 * [2025-03-30, 20:43:15](https://news.ycombinator.com/item?id=43527452) - [Ask HN: What are you working on? (March 2025)](https://news.ycombinator.com/item?id=43527452)
 * [2025-03-30, 19:54:46](https://news.ycombinator.com/item?id=43527044) - [Public secrets exposure leads to supply chain attack on GitHub CodeQL](https://www.praetorian.com/blog/codeqleaked-public-secrets-exposure-leads-to-supply-chain-attack-on-github-codeql/)
 * [2025-03-30, 19:22:36](https://news.ycombinator.com/item?id=43526763) - [Introduction to System Programming in Linux (Early Access)](https://nostarch.com/introduction-system-programming-linux)
@@ -27,7 +28,6 @@
 * [2025-03-28, 22:42:07](https://news.ycombinator.com/item?id=43510656) - [Talkin’ about a Revolution](https://drb.ie/articles/talkin-about-a-revolution/)
 * [2025-03-28, 22:14:33](https://news.ycombinator.com/item?id=43510393) - [Yes, in the 1980s we downloaded games from the radio](https://newslttrs.com/yes-in-the-1980s-we-downloaded-games-from-the-radio/)
 * [2025-03-28, 12:25:00](https://news.ycombinator.com/item?id=43504514) - [Claim for a missing tooth](https://tf230.matteason.co.uk/)
-* [2025-03-28, 09:16:41](https://news.ycombinator.com/item?id=43503185) - [The surprising powerhouse behind rapid V2X growth: electric school buses](https://electrek.co/2025/03/27/v2x-growth-electric-school-buses/)
 * [2025-03-28, 07:04:01](https://news.ycombinator.com/item?id=43502385) - [Technical Analysis – Improper Use of Private iOS APIs in Vietnamese Banking Apps](https://blog.verichains.io/p/technical-analysis-improper-use-of)
 * [2025-03-27, 11:19:59](https://news.ycombinator.com/item?id=43492415) - [Fastest and Minimalist Note Taking App](https://www.noteux.com/)
 

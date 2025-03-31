@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-31](index.md)
 
+* [2025-03-31, 13:40:39](https://news.ycombinator.com/item?id=43534939) - [Why Login Failures Matter](https://fusionauth.io/articles/authentication/login-failures)
+* [2025-03-31, 13:08:54](https://news.ycombinator.com/item?id=43534635) - [Nvidia's latest AI PC boxes sound great – for data scientists with $3k to spare](https://www.theregister.com/2025/03/31/can_nvidia_shakeup_pcs/)
 * [2025-03-31, 12:26:46](https://news.ycombinator.com/item?id=43534185) - [Finding Remote Enterprise Software Consulting Leads: Non-US Resident Edition](https://news.ycombinator.com/item?id=43534185)
 * [2025-03-31, 12:22:12](https://news.ycombinator.com/item?id=43534140) - [Marine Le Pen banned from running in 2027 and given four-year sentence](https://www.theguardian.com/world/live/2025/mar/31/france-marine-le-pen-embezzlement-verdict-europe-news-live)
 * [2025-03-31, 12:09:49](https://news.ycombinator.com/item?id=43534029) - [Gemini 2.5 Pro vs. Claude 3.7 Sonnet: Coding Comparison](https://composio.dev/blog/gemini-2-5-pro-vs-claude-3-7-sonnet-coding-comparison/)
