@@ -11,6 +11,36 @@
   ],
   [
     [
+      "2025-03-31, 04:18:09",
+      "https://news.ycombinator.com/item?id=43530947"
+    ],
+    [
+      "United States Disappeared Tracker",
+      "https://public.tableau.com/app/profile/danielleharlow/viz/UnitedStatesDisappearedTracker/Map"
+    ]
+  ],
+  [
+    [
+      "2025-03-31, 04:10:45",
+      "https://news.ycombinator.com/item?id=43530889"
+    ],
+    [
+      "Win98-quickinstall: A framework and installer to quickly install Windows 98",
+      "https://github.com/oerg866/win98-quickinstall"
+    ]
+  ],
+  [
+    [
+      "2025-03-31, 04:07:41",
+      "https://news.ycombinator.com/item?id=43530863"
+    ],
+    [
+      "Lapham's Quarterly Announces New Stewardship",
+      "https://www.laphamsquarterly.org/roundtable/laphams-quarterly-announces-new-stewardship"
+    ]
+  ],
+  [
+    [
       "2025-03-31, 03:49:24",
       "https://news.ycombinator.com/item?id=43530751"
     ],
@@ -41,32 +71,12 @@
   ],
   [
     [
-      "2025-03-31, 01:26:47",
-      "https://news.ycombinator.com/item?id=43529707"
-    ],
-    [
-      "How each pillar of the First Amendment is under attack",
-      "https://krebsonsecurity.com/2025/03/how-each-pillar-of-the-1st-amendment-is-under-attack/"
-    ]
-  ],
-  [
-    [
       "2025-03-31, 00:22:40",
       "https://news.ycombinator.com/item?id=43529257"
     ],
     [
       "Installing air filters in classrooms has surprisingly large educational benefits (2020)",
       "https://www.vox.com/2020/1/8/21051869/indoor-air-pollution-student-achievement"
-    ]
-  ],
-  [
-    [
-      "2025-03-31, 00:15:26",
-      "https://news.ycombinator.com/item?id=43529213"
-    ],
-    [
-      "Ambermoon Advanced",
-      "https://github.com/Pyrdacor/Ambermoon-Advanced"
     ]
   ],
   [
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2025-03-30, 19:03:42",
-      "https://news.ycombinator.com/item?id=43526621"
-    ],
-    [
-      "File Systems Unfit as Distributed Storage Back Ends (2019)",
-      "https://dl.acm.org/doi/pdf/10.1145/3341301.3359656"
-    ]
-  ],
-  [
-    [
       "2025-03-30, 18:35:03",
       "https://news.ycombinator.com/item?id=43526396"
     ],
@@ -187,16 +187,6 @@
     [
       "Blue95: a desktop for your childhood home's computer room",
       "https://github.com/winblues/blue95"
-    ]
-  ],
-  [
-    [
-      "2025-03-30, 14:53:33",
-      "https://news.ycombinator.com/item?id=43524665"
-    ],
-    [
-      "Span<T>.SequenceEquals is faster than memcmp",
-      "https://richardcocks.github.io/2025-03-30-FasterThanMemCmp.html"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Claim for a missing tooth",
       "https://tf230.matteason.co.uk/"
+    ]
+  ],
+  [
+    [
+      "2025-03-28, 06:58:00",
+      "https://news.ycombinator.com/item?id=43502348"
+    ],
+    [
+      "Finalizers are tricker than you might think. Part 2",
+      "https://sergeyteplyakov.github.io/Blog/2025/03/27/Finalizers_are_tricker_than_you_might_think_p2.html"
     ]
   ],
   [
