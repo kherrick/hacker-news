@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-03-31](index.md)
 
+* [2025-03-31, 12:26:46](https://news.ycombinator.com/item?id=43534185) - [Finding Remote Enterprise Software Consulting Leads: Non-US Resident Edition](https://news.ycombinator.com/item?id=43534185)
 * [2025-03-31, 12:22:12](https://news.ycombinator.com/item?id=43534140) - [Marine Le Pen banned from running in 2027 and given four-year sentence](https://www.theguardian.com/world/live/2025/mar/31/france-marine-le-pen-embezzlement-verdict-europe-news-live)
 * [2025-03-31, 12:09:49](https://news.ycombinator.com/item?id=43534029) - [Gemini 2.5 Pro vs. Claude 3.7 Sonnet: Coding Comparison](https://composio.dev/blog/gemini-2-5-pro-vs-claude-3-7-sonnet-coding-comparison/)
 * [2025-03-31, 11:45:32](https://news.ycombinator.com/item?id=43533826) - [The Egg (By Andy Weir)](https://www.galactanet.com/oneoff/theegg.html)
 * [2025-03-31, 11:36:44](https://news.ycombinator.com/item?id=43533769) - [Bell Labs Holmdel Complex](https://en.wikipedia.org/wiki/Bell_Labs_Holmdel_Complex)
 * [2025-03-31, 11:12:34](https://news.ycombinator.com/item?id=43533595) - [Eco Cycles or How I Feel About Technology](https://maksimizmaylov.com/writing/eco-cycles/)
 * [2025-03-31, 11:01:50](https://news.ycombinator.com/item?id=43533516) - [Compiler Options Hardening Guide for C and C++](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
+* [2025-03-31, 10:58:53](https://news.ycombinator.com/item?id=43533496) - [Things I Won't Work With: Dioxygen Difluoride (2010)](https://www.science.org/content/blog-post/things-i-won-t-work-dioxygen-difluoride)
 * [2025-03-31, 10:39:57](https://news.ycombinator.com/item?id=43533362) - [The demoscene as a UNESCO heritage in Sweden](https://www.goto80.com/the-demoscene-as-a-unesco-heritage-in-sweden)
 * [2025-03-31, 10:31:39](https://news.ycombinator.com/item?id=43533306) - [James Webb Space Telescope Reveals That Most Galaxies Rotate Clockwise](https://www.smithsonianmag.com/smart-news/james-webb-space-telescope-reveals-that-most-galaxies-rotate-clockwise-180986224/)
 * [2025-03-31, 10:09:26](https://news.ycombinator.com/item?id=43533173) - [Nvidia GPU roadmap confirms it: Moore's Law is dead and buried](https://www.theregister.com/2025/03/29/nvidia_moores_law/)
