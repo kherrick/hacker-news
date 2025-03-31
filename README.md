@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-31, 15:57:15](https://news.ycombinator.com/item?id=43536463) - [Automating Interactive Fiction Logic Generation with LLMs in Emacs](https://blog.tendollaradventure.com/automating-story-logic-with-llms/)
 * [2025-03-31, 15:27:24](https://news.ycombinator.com/item?id=43536151) - [Palma 2](https://shop.boox.com/products/palma2)
 * [2025-03-31, 15:27:03](https://news.ycombinator.com/item?id=43536146) - [MLB: Yankees' new ''Torpedo Bats'' legal and likely coming to a dugout near you](https://thelibertyline.com/2025/03/30/yankees-new-torpedo-bat/)
 * [2025-03-31, 15:23:50](https://news.ycombinator.com/item?id=43536105) - [Debugging Lotus 1-2-3 by fax](https://blog.jgc.org/2025/03/debugging-lotus-1-2-3-by-fax.html)
@@ -13,12 +14,10 @@
 * [2025-03-31, 14:32:23](https://news.ycombinator.com/item?id=43535512) - [Back From The Future: 1995's predictions of 2025 life](https://newslttrs.com/back-from-the-future-1995s-predictions-of-2025-life/)
 * [2025-03-31, 12:59:23](https://news.ycombinator.com/item?id=43534533) - [Why do I run FreeBSD for my home servers](https://aumont.fr/posts/FreeBSD-Home-Server/)
 * [2025-03-31, 12:09:49](https://news.ycombinator.com/item?id=43534029) - [Gemini 2.5 Pro vs. Claude 3.7 Sonnet: Coding Comparison](https://composio.dev/blog/gemini-2-5-pro-vs-claude-3-7-sonnet-coding-comparison/)
-* [2025-03-31, 11:03:56](https://news.ycombinator.com/item?id=43533539) - [There is no Vibe Engineering](https://serce.me/posts/2025-31-03-there-is-no-vibe-engineering)
 * [2025-03-31, 11:01:50](https://news.ycombinator.com/item?id=43533516) - [Compiler Options Hardening Guide for C and C++](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
 * [2025-03-31, 10:58:53](https://news.ycombinator.com/item?id=43533496) - [Things I Won't Work With: Dioxygen Difluoride (2010)](https://www.science.org/content/blog-post/things-i-won-t-work-dioxygen-difluoride)
 * [2025-03-31, 10:39:57](https://news.ycombinator.com/item?id=43533362) - [The demoscene as a UNESCO heritage in Sweden](https://www.goto80.com/the-demoscene-as-a-unesco-heritage-in-sweden)
 * [2025-03-31, 09:54:36](https://news.ycombinator.com/item?id=43533096) - [ToS;DR](https://tosdr.org/en)
-* [2025-03-31, 09:32:54](https://news.ycombinator.com/item?id=43532967) - [Show HN: WhatsApp MCP Server](https://github.com/lharries/whatsapp-mcp)
 * [2025-03-31, 09:11:47](https://news.ycombinator.com/item?id=43532830) - [The <select> element can now be customized with CSS](https://developer.chrome.com/blog/a-customizable-select)
 * [2025-03-31, 07:36:56](https://news.ycombinator.com/item?id=43532220) - [How to Secure Existing C and C++ Software Without Memory Safety [pdf]](https://arxiv.org/abs/2503.21145)
 * [2025-03-31, 07:00:19](https://news.ycombinator.com/item?id=43532009) - [Wondercraft (YC S22) Is Hiring](https://news.ycombinator.com/item?id=43532009)
@@ -29,6 +28,7 @@
 * [2025-03-29, 05:13:14](https://news.ycombinator.com/item?id=43512944) - [Unmasking a slow and steady password spray attack](https://petrasecurity.substack.com/p/unmasking-a-slow-and-steady-password)
 * [2025-03-29, 02:30:48](https://news.ycombinator.com/item?id=43512206) - [Analysis of amplified ground motion in Bangkok from recent earthquakes (2023)](https://geoenvironmental-disasters.springeropen.com/articles/10.1186/s40677-023-00259-0)
 * [2025-03-28, 22:14:33](https://news.ycombinator.com/item?id=43510393) - [Yes, in the 1980s we downloaded games from the radio](https://newslttrs.com/yes-in-the-1980s-we-downloaded-games-from-the-radio/)
+* [2025-03-28, 20:26:13](https://news.ycombinator.com/item?id=43509524) - [C and C++ Prioritize Performance over Correctness (2023)](https://research.swtch.com/ub)
 * [2025-03-28, 07:04:01](https://news.ycombinator.com/item?id=43502385) - [Technical Analysis – Improper Use of Private iOS APIs in Vietnamese Banking Apps](https://blog.verichains.io/p/technical-analysis-improper-use-of)
 
 ## [Archives](archives/index.md)
