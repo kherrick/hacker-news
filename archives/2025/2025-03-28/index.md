@@ -40,6 +40,7 @@
 * [2025-03-28, 14:11:07](https://news.ycombinator.com/item?id=43505646) - [Building Statically Linked Go Executables with CGO and Zig](https://calabro.io/zig-cgo)
 * [2025-03-28, 14:09:10](https://news.ycombinator.com/item?id=43505626) - [Japanese scientists create new plastic that dissolves in saltwater overnight](https://newatlas.com/materials/plastic-dissolves-ocean-overnight-no-microplastics/)
 * [2025-03-28, 13:52:58](https://news.ycombinator.com/item?id=43505447) - [Getting hit by lightning is good for some tropical trees](https://www.caryinstitute.org/news-insights/press-release/getting-hit-lightning-good-some-tropical-trees)
+* [2025-03-28, 13:50:36](https://news.ycombinator.com/item?id=43505420) - [Compress Better, Compute Bigger](https://ironarray.io/blog/compute-bigger)
 * [2025-03-28, 13:40:41](https://news.ycombinator.com/item?id=43505334) - [The Biology of B-Movie Monsters (2003)](https://fathom.lib.uchicago.edu/2/21701757/)
 * [2025-03-28, 13:13:04](https://news.ycombinator.com/item?id=43505022) - [Cross-Platform P2P Wi-Fi: How the EU Killed AWDL](https://www.ditto.com/blog/cross-platform-p2p-wi-fi-how-the-eu-killed-awdl)
 * [2025-03-28, 12:52:12](https://news.ycombinator.com/item?id=43504765) - [Trump's FCC Starts Harassing Public Broadcasters with Bogus Investigations](https://www.techdirt.com/2025/03/28/trumps-fcc-starts-harassing-public-broadcasters-with-bogus-investigations/)

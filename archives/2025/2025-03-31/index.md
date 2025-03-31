@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-31](index.md)
 
+* [2025-03-31, 07:00:19](https://news.ycombinator.com/item?id=43532009) - [Wondercraft (YC S22) Is Hiring](https://news.ycombinator.com/item?id=43532009)
 * [2025-03-31, 05:41:31](https://news.ycombinator.com/item?id=43531494) - [Agentic AI Needs Its TCP/IP Moment](https://www.anup.io/p/architecting-the-internet-of-agents)
 * [2025-03-31, 05:28:03](https://news.ycombinator.com/item?id=43531415) - [RPCEmu is an emulator of classic Acorn computer systems](https://www.marutan.net/rpcemu/index.php)
 * [2025-03-31, 05:11:23](https://news.ycombinator.com/item?id=43531310) - [Autonomous Agent: Automate phone calls with AI voice agents](https://news.ycombinator.com/item?id=43531310)
