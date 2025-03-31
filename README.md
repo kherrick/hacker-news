@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-31, 04:25:51](https://news.ycombinator.com/item?id=43531013) - [A decision to eject from a failing F-35B fighter and the betrayal in its wake](https://www.postandcourier.com/news/special_reports/marine-fighter-jet-eject-north-charleston/article_80d55e4a-f600-11ef-8ef4-03f14319ce57.html)
-* [2025-03-31, 04:18:09](https://news.ycombinator.com/item?id=43530947) - [United States Disappeared Tracker](https://public.tableau.com/app/profile/danielleharlow/viz/UnitedStatesDisappearedTracker/Map)
 * [2025-03-31, 04:10:45](https://news.ycombinator.com/item?id=43530889) - [Win98-quickinstall: A framework and installer to quickly install Windows 98](https://github.com/oerg866/win98-quickinstall)
 * [2025-03-31, 04:07:41](https://news.ycombinator.com/item?id=43530863) - [Lapham's Quarterly Announces New Stewardship](https://www.laphamsquarterly.org/roundtable/laphams-quarterly-announces-new-stewardship)
 * [2025-03-31, 03:49:24](https://news.ycombinator.com/item?id=43530751) - [Fiber optic drones are changing combat operations](https://www.youtube.com/watch?v=JcB4dR_8xPo)
@@ -16,6 +15,7 @@
 * [2025-03-30, 19:54:46](https://news.ycombinator.com/item?id=43527044) - [Public secrets exposure leads to supply chain attack on GitHub CodeQL](https://www.praetorian.com/blog/codeqleaked-public-secrets-exposure-leads-to-supply-chain-attack-on-github-codeql/)
 * [2025-03-30, 19:50:10](https://news.ycombinator.com/item?id=43527001) - [FBI raids home of prominent computer scientist who has gone incommunicado](https://arstechnica.com/security/2025/03/computer-scientist-goes-silent-after-fbi-raid-and-purging-from-university-website/)
 * [2025-03-30, 19:22:36](https://news.ycombinator.com/item?id=43526763) - [Introduction to System Programming in Linux (Early Access)](https://nostarch.com/introduction-system-programming-linux)
+* [2025-03-30, 19:03:42](https://news.ycombinator.com/item?id=43526621) - [File Systems Unfit as Distributed Storage Back Ends (2019)](https://dl.acm.org/doi/pdf/10.1145/3341301.3359656)
 * [2025-03-30, 18:35:03](https://news.ycombinator.com/item?id=43526396) - [The Nobel Duel](https://www.asimov.press/p/nobel-duel)
 * [2025-03-30, 17:01:47](https://news.ycombinator.com/item?id=43525636) - [Spice Data (YC S19) is hiring a software engineer](https://www.ycombinator.com/companies/spice-data/jobs/TijA35R-software-engineer)
 * [2025-03-30, 15:30:22](https://news.ycombinator.com/item?id=43524937) - [Blue95: a desktop for your childhood home's computer room](https://github.com/winblues/blue95)
