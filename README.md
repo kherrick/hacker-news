@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-31, 05:11:23](https://news.ycombinator.com/item?id=43531310) - [Autonomous Agent: Automate phone calls with AI voice agents](https://news.ycombinator.com/item?id=43531310)
+* [2025-03-31, 05:28:03](https://news.ycombinator.com/item?id=43531415) - [RPCEmu is an emulator of classic Acorn computer systems](https://www.marutan.net/rpcemu/index.php)
 * [2025-03-31, 04:25:51](https://news.ycombinator.com/item?id=43531013) - [A decision to eject from a failing F-35B fighter and the betrayal in its wake](https://www.postandcourier.com/news/special_reports/marine-fighter-jet-eject-north-charleston/article_80d55e4a-f600-11ef-8ef4-03f14319ce57.html)
 * [2025-03-31, 04:10:45](https://news.ycombinator.com/item?id=43530889) - [Win98-quickinstall: A framework and installer to quickly install Windows 98](https://github.com/oerg866/win98-quickinstall)
 * [2025-03-31, 04:07:41](https://news.ycombinator.com/item?id=43530863) - [Lapham's Quarterly Announces New Stewardship](https://www.laphamsquarterly.org/roundtable/laphams-quarterly-announces-new-stewardship)
