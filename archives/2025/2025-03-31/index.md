@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-31](index.md)
 
+* [2025-03-31, 18:47:30](https://news.ycombinator.com/item?id=43538338) - [Kagi for Kids](https://help.kagi.com/kagi/plans/family-plan.html#kidslogin)
 * [2025-03-31, 18:35:37](https://news.ycombinator.com/item?id=43538192) - [Notes on the Pentium's Microcode Circuitry](https://www.righto.com/2025/03/pentium-microcde-rom-circuitry.html)
 * [2025-03-31, 18:28:03](https://news.ycombinator.com/item?id=43538113) - [Honey has now lost 4M Chrome users after shady tactics were revealed](https://9to5google.com/2025/03/31/honey-extension-users-dropped-chrome-march-2025/)
 * [2025-03-31, 18:03:36](https://news.ycombinator.com/item?id=43537866) - [Oregon abandoned its drug law. Then came the mass arrests](https://www.theguardian.com/us-news/2025/mar/31/oregon-new-drug-law-arrests)
