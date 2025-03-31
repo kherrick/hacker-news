@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-31](index.md)
 
 * [2025-03-31, 09:28:53](https://news.ycombinator.com/item?id=43532939) - [GPT-4o draws itself as a consistent type of guy](https://newsletter.danielpaleka.com/p/gpt-4o-draws-itself-as-a-consistent)
+* [2025-03-31, 09:21:05](https://news.ycombinator.com/item?id=43532893) - [UK poll: Work and money worry young people more than culture wars or climate](https://www.theguardian.com/society/2025/mar/31/work-and-money-worries-young-people-more-than-culture-wars-or-climate-uk-poll-finds)
 * [2025-03-31, 07:48:37](https://news.ycombinator.com/item?id=43532298) - [HTTPS RR in Curl](https://daniel.haxx.se/blog/2025/03/31/https-rr-in-curl/)
 * [2025-03-31, 07:36:56](https://news.ycombinator.com/item?id=43532220) - [How to Secure Existing C and C++ Software Without Memory Safety [pdf]](https://arxiv.org/abs/2503.21145)
 * [2025-03-31, 07:06:33](https://news.ycombinator.com/item?id=43532049) - [DOGE's Marko Elez is back on U.S. payroll](https://www.politico.com/news/2025/03/29/doge-marco-elez-software-engineer-us-payroll-00259303)
