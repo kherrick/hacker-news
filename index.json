@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-31, 15:57:15",
+      "https://news.ycombinator.com/item?id=43536463"
+    ],
+    [
+      "Automating Interactive Fiction Logic Generation with LLMs in Emacs",
+      "https://blog.tendollaradventure.com/automating-story-logic-with-llms/"
+    ]
+  ],
+  [
+    [
       "2025-03-31, 15:27:24",
       "https://news.ycombinator.com/item?id=43536151"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2025-03-31, 11:03:56",
-      "https://news.ycombinator.com/item?id=43533539"
-    ],
-    [
-      "There is no Vibe Engineering",
-      "https://serce.me/posts/2025-31-03-there-is-no-vibe-engineering"
-    ]
-  ],
-  [
-    [
       "2025-03-31, 11:01:50",
       "https://news.ycombinator.com/item?id=43533516"
     ],
@@ -177,16 +177,6 @@
     [
       "ToS;DR",
       "https://tosdr.org/en"
-    ]
-  ],
-  [
-    [
-      "2025-03-31, 09:32:54",
-      "https://news.ycombinator.com/item?id=43532967"
-    ],
-    [
-      "Show HN: WhatsApp MCP Server",
-      "https://github.com/lharries/whatsapp-mcp"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Yes, in the 1980s we downloaded games from the radio",
       "https://newslttrs.com/yes-in-the-1980s-we-downloaded-games-from-the-radio/"
+    ]
+  ],
+  [
+    [
+      "2025-03-28, 20:26:13",
+      "https://news.ycombinator.com/item?id=43509524"
+    ],
+    [
+      "C and C++ Prioritize Performance over Correctness (2023)",
+      "https://research.swtch.com/ub"
     ]
   ],
   [
