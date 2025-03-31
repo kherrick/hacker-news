@@ -64,6 +64,7 @@
 * [2025-03-28, 09:36:34](https://news.ycombinator.com/item?id=43503295) - [Learn to code, ignore AI, then use AI to code even better](https://kyrylo.org/software/2025/03/27/learn-to-code-ignore-ai-then-use-ai-to-code-even-better.html)
 * [2025-03-28, 09:32:04](https://news.ycombinator.com/item?id=43503265) - [7.7 magnitude earthquake hits Southeast Asia, affecting Myanmar and Thailand](https://twitter.com/TaraBull808/status/1905534938558157139)
 * [2025-03-28, 09:20:44](https://news.ycombinator.com/item?id=43503207) - [Postgres Extension Tutorial](https://github.com/IshaanAdarsh/Postgres-extension-tutorial/blob/main/SGML/intro_and_toc.md)
+* [2025-03-28, 09:16:41](https://news.ycombinator.com/item?id=43503185) - [The surprising powerhouse behind rapid V2X growth: electric school buses](https://electrek.co/2025/03/27/v2x-growth-electric-school-buses/)
 * [2025-03-28, 08:45:56](https://news.ycombinator.com/item?id=43503004) - [On Tyranny [book]](https://timothysnyder.org/on-tyranny)
 * [2025-03-28, 07:25:35](https://news.ycombinator.com/item?id=43502510) - [Mid-pregnancy pollution exposure linked to postpartum depression](https://www.bps.org.uk/research-digest/mid-pregnancy-pollution-exposure-linked-postpartum-depression-new-study-suggests)
 * [2025-03-28, 07:22:40](https://news.ycombinator.com/item?id=43502488) - [The surprisingly simple reason kids have imaginary friends](https://www.vox.com/life/404992/imaginary-friends-kids-friendships-children)
