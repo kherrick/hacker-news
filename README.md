@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-31, 10:31:39](https://news.ycombinator.com/item?id=43533306) - [James Webb Space Telescope Reveals That Most Galaxies Rotate Clockwise](https://www.smithsonianmag.com/smart-news/james-webb-space-telescope-reveals-that-most-galaxies-rotate-clockwise-180986224/)
 * [2025-03-31, 10:09:26](https://news.ycombinator.com/item?id=43533173) - [Nvidia GPU roadmap confirms it: Moore's Law is dead and buried](https://www.theregister.com/2025/03/29/nvidia_moores_law/)
 * [2025-03-31, 09:54:36](https://news.ycombinator.com/item?id=43533096) - [ToS;DR](https://tosdr.org/en)
 * [2025-03-31, 09:32:54](https://news.ycombinator.com/item?id=43532967) - [Show HN: WhatsApp MCP Server](https://github.com/lharries/whatsapp-mcp)
@@ -10,7 +11,6 @@
 * [2025-03-31, 05:28:03](https://news.ycombinator.com/item?id=43531415) - [RPCEmu is an emulator of classic Acorn computer systems](https://www.marutan.net/rpcemu/index.php)
 * [2025-03-31, 04:10:45](https://news.ycombinator.com/item?id=43530889) - [Win98-quickinstall: A framework and installer to quickly install Windows 98](https://github.com/oerg866/win98-quickinstall)
 * [2025-03-31, 04:07:41](https://news.ycombinator.com/item?id=43530863) - [Lapham's Quarterly Announces New Stewardship](https://www.laphamsquarterly.org/roundtable/laphams-quarterly-announces-new-stewardship)
-* [2025-03-31, 03:40:40](https://news.ycombinator.com/item?id=43530675) - [Village Roadshow Entertainment has filed for Chapter 11 bankruptcy protection](https://www.latimes.com/entertainment-arts/business/story/2025-03-17/joker-matrix-studio-village-roadshow-files-for-chapter-11-bankruptcy)
 * [2025-03-31, 01:27:09](https://news.ycombinator.com/item?id=43529709) - [Fragments of a rare Merlin manuscript from c. 1300](https://www.cam.ac.uk/stories/merlin-manuscript-discovered-cambridge)
 * [2025-03-31, 00:22:40](https://news.ycombinator.com/item?id=43529257) - [Installing air filters in classrooms has surprisingly large educational benefits (2020)](https://www.vox.com/2020/1/8/21051869/indoor-air-pollution-student-achievement)
 * [2025-03-31, 00:07:54](https://news.ycombinator.com/item?id=43529163) - [BreezeWiki makes wiki pages on Fandom readable](https://breezewiki.com/)
