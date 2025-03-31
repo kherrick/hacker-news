@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-31, 22:25:27](https://news.ycombinator.com/item?id=43540622) - [Canada investigates whether Tesla helped itself to a subsidy-fueled sales boom](https://fortune.com/2025/03/26/elon-musk-tesla-under-investigation-canada-wrongfully-boosting-sales/)
 * [2025-03-31, 21:44:54](https://news.ycombinator.com/item?id=43540326) - [Everything Is Ghibli](https://carly.substack.com/p/everything-is-ghibli)
 * [2025-03-31, 20:29:58](https://news.ycombinator.com/item?id=43539585) - [Go Optimization Guide](https://goperf.dev/)
+* [2025-03-31, 19:52:29](https://news.ycombinator.com/item?id=43539103) - [KOReader: Open-Source eBook Reader](https://github.com/koreader/koreader)
 * [2025-03-31, 19:35:51](https://news.ycombinator.com/item?id=43538919) - [JEP Draft: Prepare to Make Final Mean Final](https://openjdk.org/jeps/8349536)
 * [2025-03-31, 18:47:30](https://news.ycombinator.com/item?id=43538338) - [Kagi for Kids](https://help.kagi.com/kagi/plans/family-plan.html#kidslogin)
 * [2025-03-31, 18:35:37](https://news.ycombinator.com/item?id=43538192) - [Notes on the Pentium's Microcode Circuitry](https://www.righto.com/2025/03/pentium-microcde-rom-circuitry.html)

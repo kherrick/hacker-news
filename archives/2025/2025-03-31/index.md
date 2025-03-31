@@ -11,6 +11,7 @@
 * [2025-03-31, 21:44:54](https://news.ycombinator.com/item?id=43540326) - [Everything Is Ghibli](https://carly.substack.com/p/everything-is-ghibli)
 * [2025-03-31, 20:29:58](https://news.ycombinator.com/item?id=43539585) - [Go Optimization Guide](https://goperf.dev/)
 * [2025-03-31, 20:10:56](https://news.ycombinator.com/item?id=43539334) - [CVE-2025-24259: Leaking Bookmarks on macOS](https://wts.dev/posts/bookmarks-leak/)
+* [2025-03-31, 19:52:29](https://news.ycombinator.com/item?id=43539103) - [KOReader: Open-Source eBook Reader](https://github.com/koreader/koreader)
 * [2025-03-31, 19:35:51](https://news.ycombinator.com/item?id=43538919) - [JEP Draft: Prepare to Make Final Mean Final](https://openjdk.org/jeps/8349536)
 * [2025-03-31, 19:25:39](https://news.ycombinator.com/item?id=43538783) - [OpenAI releasing new open model in coming months, seeks community feedback](https://openai.com/open-model-feedback/)
 * [2025-03-31, 19:01:29](https://news.ycombinator.com/item?id=43538503) - [Academic Purge Will Make America Stupid and Provincial Again](https://www.thenation.com/article/society/trump-academic-purge/)
