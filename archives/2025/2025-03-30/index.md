@@ -9,6 +9,7 @@
 * [2025-03-30, 22:45:54](https://news.ycombinator.com/item?id=43528496) - [Can Style Be Timeless?](https://www.mrporter.com/en-gb/journal/fashion/derek-guy-timeless-style-25197344)
 * [2025-03-30, 22:44:38](https://news.ycombinator.com/item?id=43528479) - [Xiaofeng Wang](https://www.researchgate.net/profile/Xiaofeng-Wang-35)
 * [2025-03-30, 22:28:15](https://news.ycombinator.com/item?id=43528356) - [ICE Revoking Students' Immigration Statuses Without Their or the Uni's Knowledge](https://zeteo.com/p/ice-manually-revoking-university-students-residency-status-middle-east)
+* [2025-03-30, 21:20:10](https://news.ycombinator.com/item?id=43527761) - [Station: Travel Through the Four Seasons (1994)](https://blog.gingerbeardman.com/2025/03/30/station-travel-through-the-four-seasons-1994/)
 * [2025-03-30, 20:55:28](https://news.ycombinator.com/item?id=43527552) - [MAME 0.276](https://www.mamedev.org/?p=549)
 * [2025-03-30, 20:52:39](https://news.ycombinator.com/item?id=43527521) - [Xfinity XB3 hardware mod: Disable WiFi and save 2 watts](https://gist.github.com/pmarks-net/af40dba69272806c1ec9cbe71429d2e7)
 * [2025-03-30, 20:43:15](https://news.ycombinator.com/item?id=43527452) - [Ask HN: What are you working on? (March 2025)](https://news.ycombinator.com/item?id=43527452)
