@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-31](index.md)
 
+* [2025-03-31, 10:09:26](https://news.ycombinator.com/item?id=43533173) - [Nvidia GPU roadmap confirms it: Moore's Law is dead and buried](https://www.theregister.com/2025/03/29/nvidia_moores_law/)
+* [2025-03-31, 09:54:36](https://news.ycombinator.com/item?id=43533096) - [ToS;DR](https://tosdr.org/en)
+* [2025-03-31, 09:32:54](https://news.ycombinator.com/item?id=43532967) - [Show HN: WhatsApp MCP Server](https://github.com/lharries/whatsapp-mcp)
 * [2025-03-31, 09:28:53](https://news.ycombinator.com/item?id=43532939) - [GPT-4o draws itself as a consistent type of guy](https://newsletter.danielpaleka.com/p/gpt-4o-draws-itself-as-a-consistent)
 * [2025-03-31, 09:21:05](https://news.ycombinator.com/item?id=43532893) - [UK poll: Work and money worry young people more than culture wars or climate](https://www.theguardian.com/society/2025/mar/31/work-and-money-worries-young-people-more-than-culture-wars-or-climate-uk-poll-finds)
 * [2025-03-31, 08:53:47](https://news.ycombinator.com/item?id=43532736) - [Custom AI Chatbot Development Services: Restrictions and Opportunities](https://belitsoft.com/chatbot-development-services/custom-ai)
