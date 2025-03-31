@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-31, 10:39:57](https://news.ycombinator.com/item?id=43533362) - [The demoscene as a UNESCO heritage in Sweden](https://www.goto80.com/the-demoscene-as-a-unesco-heritage-in-sweden)
 * [2025-03-31, 10:31:39](https://news.ycombinator.com/item?id=43533306) - [James Webb Space Telescope Reveals That Most Galaxies Rotate Clockwise](https://www.smithsonianmag.com/smart-news/james-webb-space-telescope-reveals-that-most-galaxies-rotate-clockwise-180986224/)
 * [2025-03-31, 10:09:26](https://news.ycombinator.com/item?id=43533173) - [Nvidia GPU roadmap confirms it: Moore's Law is dead and buried](https://www.theregister.com/2025/03/29/nvidia_moores_law/)
 * [2025-03-31, 09:54:36](https://news.ycombinator.com/item?id=43533096) - [ToS;DR](https://tosdr.org/en)
@@ -16,7 +17,6 @@
 * [2025-03-31, 00:07:54](https://news.ycombinator.com/item?id=43529163) - [BreezeWiki makes wiki pages on Fandom readable](https://breezewiki.com/)
 * [2025-03-30, 23:59:23](https://news.ycombinator.com/item?id=43529104) - [Oka.wiki](https://oka.wiki/)
 * [2025-03-30, 21:20:10](https://news.ycombinator.com/item?id=43527761) - [Station: Travel Through the Four Seasons (1994)](https://blog.gingerbeardman.com/2025/03/30/station-travel-through-the-four-seasons-1994/)
-* [2025-03-30, 20:52:39](https://news.ycombinator.com/item?id=43527521) - [Xfinity XB3 hardware mod: Disable WiFi and save 2 watts](https://gist.github.com/pmarks-net/af40dba69272806c1ec9cbe71429d2e7)
 * [2025-03-30, 20:43:15](https://news.ycombinator.com/item?id=43527452) - [Ask HN: What are you working on? (March 2025)](https://news.ycombinator.com/item?id=43527452)
 * [2025-03-30, 19:54:46](https://news.ycombinator.com/item?id=43527044) - [Public secrets exposure leads to supply chain attack on GitHub CodeQL](https://www.praetorian.com/blog/codeqleaked-public-secrets-exposure-leads-to-supply-chain-attack-on-github-codeql/)
 * [2025-03-30, 19:22:36](https://news.ycombinator.com/item?id=43526763) - [Introduction to System Programming in Linux (Early Access)](https://nostarch.com/introduction-system-programming-linux)
