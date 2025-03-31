@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-31, 17:00:06](https://news.ycombinator.com/item?id=43537194) - [Distro (YC S24) Is Hiring a Lead Solutions Engineer](https://www.ycombinator.com/companies/distro/jobs/hJQCfVH-lead-solutions-engineer)
+* [2025-03-31, 16:44:43](https://news.ycombinator.com/item?id=43537034) - [DeepSeek surpasses ChatGPT in new monthly visits](https://economictimes.indiatimes.com/tech/artificial-intelligence/deepseek-surpasses-chatgpt-in-new-monthly-visits-emerges-as-the-fastest-growing-ai-tool-report/articleshow/119754529.cms?from=mdr)
 * [2025-03-31, 15:57:15](https://news.ycombinator.com/item?id=43536463) - [Automating Interactive Fiction Logic Generation with LLMs in Emacs](https://blog.tendollaradventure.com/automating-story-logic-with-llms/)
 * [2025-03-31, 15:50:52](https://news.ycombinator.com/item?id=43536401) - [Warner Bros Completes Worldwide Sale of 'Coyote vs Acme'](https://deadline.com/2025/03/coyote-vs-acme-warner-bros-sale-complete-ketchup-1236354552/)
-* [2025-03-31, 15:27:03](https://news.ycombinator.com/item?id=43536146) - [MLB: Yankees' new ''Torpedo Bats'' legal and likely coming to a dugout near you](https://thelibertyline.com/2025/03/30/yankees-new-torpedo-bat/)
 * [2025-03-31, 15:23:50](https://news.ycombinator.com/item?id=43536105) - [Debugging Lotus 1-2-3 by fax](https://blog.jgc.org/2025/03/debugging-lotus-1-2-3-by-fax.html)
 * [2025-03-31, 15:22:08](https://news.ycombinator.com/item?id=43536085) - [Runway Gen-4](https://runwayml.com/research/introducing-runway-gen-4)
 * [2025-03-31, 15:11:33](https://news.ycombinator.com/item?id=43535953) - [Oracle attempt to hide serious cybersecurity incident from customers](https://doublepulsar.com/oracle-attempt-to-hide-serious-cybersecurity-incident-from-customers-in-oracle-saas-service-9231c8daff4a)
@@ -12,7 +12,6 @@
 * [2025-03-31, 14:49:42](https://news.ycombinator.com/item?id=43535688) - [There's White Stuff Growing on Your Cheese That Isn't Mold (2018)](https://www.thephcheese.com/theres-white-stuff-growing-on-your-cheese-that-isnt-mold)
 * [2025-03-31, 14:45:35](https://news.ycombinator.com/item?id=43535653) - [AI Agents: Less Capability, More Reliability, Please](https://www.sergey.fyi/articles/reliability-vs-capability)
 * [2025-03-31, 14:32:23](https://news.ycombinator.com/item?id=43535512) - [Back From The Future: 1995's predictions of 2025 life](https://newslttrs.com/back-from-the-future-1995s-predictions-of-2025-life/)
-* [2025-03-31, 12:59:23](https://news.ycombinator.com/item?id=43534533) - [Why do I run FreeBSD for my home servers](https://aumont.fr/posts/FreeBSD-Home-Server/)
 * [2025-03-31, 12:09:49](https://news.ycombinator.com/item?id=43534029) - [Gemini 2.5 Pro vs. Claude 3.7 Sonnet: Coding Comparison](https://composio.dev/blog/gemini-2-5-pro-vs-claude-3-7-sonnet-coding-comparison/)
 * [2025-03-31, 11:01:50](https://news.ycombinator.com/item?id=43533516) - [Compiler Options Hardening Guide for C and C++](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
 * [2025-03-31, 10:58:53](https://news.ycombinator.com/item?id=43533496) - [Things I Won't Work With: Dioxygen Difluoride (2010)](https://www.science.org/content/blog-post/things-i-won-t-work-dioxygen-difluoride)
@@ -29,6 +28,7 @@
 * [2025-03-28, 22:42:07](https://news.ycombinator.com/item?id=43510656) - [Talkin’ about a Revolution](https://drb.ie/articles/talkin-about-a-revolution/)
 * [2025-03-28, 22:14:33](https://news.ycombinator.com/item?id=43510393) - [Yes, in the 1980s we downloaded games from the radio](https://newslttrs.com/yes-in-the-1980s-we-downloaded-games-from-the-radio/)
 * [2025-03-28, 20:26:13](https://news.ycombinator.com/item?id=43509524) - [C and C++ Prioritize Performance over Correctness (2023)](https://research.swtch.com/ub)
+* [2025-03-28, 10:55:04](https://news.ycombinator.com/item?id=43503833) - [Show HN: I made a C program to create a vanity SHA-1 hash for a text file](https://gist.github.com/o0101/77eb378b5076fe47c3336583330ac615)
 * [2025-03-28, 07:04:01](https://news.ycombinator.com/item?id=43502385) - [Technical Analysis – Improper Use of Private iOS APIs in Vietnamese Banking Apps](https://blog.verichains.io/p/technical-analysis-improper-use-of)
 
 ## [Archives](archives/index.md)

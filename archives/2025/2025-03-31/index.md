@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-31](index.md)
 
 * [2025-03-31, 17:00:06](https://news.ycombinator.com/item?id=43537194) - [Distro (YC S24) Is Hiring a Lead Solutions Engineer](https://www.ycombinator.com/companies/distro/jobs/hJQCfVH-lead-solutions-engineer)
+* [2025-03-31, 16:44:43](https://news.ycombinator.com/item?id=43537034) - [DeepSeek surpasses ChatGPT in new monthly visits](https://economictimes.indiatimes.com/tech/artificial-intelligence/deepseek-surpasses-chatgpt-in-new-monthly-visits-emerges-as-the-fastest-growing-ai-tool-report/articleshow/119754529.cms?from=mdr)
 * [2025-03-31, 15:57:15](https://news.ycombinator.com/item?id=43536463) - [Automating Interactive Fiction Logic Generation with LLMs in Emacs](https://blog.tendollaradventure.com/automating-story-logic-with-llms/)
 * [2025-03-31, 15:50:52](https://news.ycombinator.com/item?id=43536401) - [Warner Bros Completes Worldwide Sale of 'Coyote vs Acme'](https://deadline.com/2025/03/coyote-vs-acme-warner-bros-sale-complete-ketchup-1236354552/)
 * [2025-03-31, 15:27:24](https://news.ycombinator.com/item?id=43536151) - [Palma 2](https://shop.boox.com/products/palma2)

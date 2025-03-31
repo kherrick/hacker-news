@@ -58,6 +58,7 @@
 * [2025-03-28, 11:04:40](https://news.ycombinator.com/item?id=43503897) - [MilliForth-6502: The smallest Forth real programming language for 6502](https://github.com/agsb/milliForth-6502)
 * [2025-03-28, 11:02:51](https://news.ycombinator.com/item?id=43503881) - [Jevons Paradox: A Personal Perspective](https://fakepixels.substack.com/p/jevons-paradox-a-personal-perspective)
 * [2025-03-28, 11:01:19](https://news.ycombinator.com/item?id=43503872) - [How to Write Blog Posts That Developers Read · Refactoring English](https://refactoringenglish.com/chapters/write-blog-posts-developers-read/)
+* [2025-03-28, 10:55:04](https://news.ycombinator.com/item?id=43503833) - [Show HN: I made a C program to create a vanity SHA-1 hash for a text file](https://gist.github.com/o0101/77eb378b5076fe47c3336583330ac615)
 * [2025-03-28, 10:48:47](https://news.ycombinator.com/item?id=43503793) - [The Last Stand of the Corporate Peacock](https://wrk3.substack.com/p/the-last-stand-of-the-corporate-peacock)
 * [2025-03-28, 10:47:02](https://news.ycombinator.com/item?id=43503779) - [iPhone users can now set WhatsApp as their default calling and texting app](https://www.theverge.com/news/637489/iphone-whatsapp-default-calling-texting-app)
 * [2025-03-28, 10:39:04](https://news.ycombinator.com/item?id=43503720) - [Google is publishing the home addresses of developers without their consent](https://news.ycombinator.com/item?id=43503720)
