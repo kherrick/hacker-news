@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-31](index.md)
 
+* [2025-03-31, 04:25:51](https://news.ycombinator.com/item?id=43531013) - [A decision to eject from a failing F-35B fighter and the betrayal in its wake](https://www.postandcourier.com/news/special_reports/marine-fighter-jet-eject-north-charleston/article_80d55e4a-f600-11ef-8ef4-03f14319ce57.html)
 * [2025-03-31, 03:49:24](https://news.ycombinator.com/item?id=43530751) - [Fiber optic drones are changing combat operations](https://www.youtube.com/watch?v=JcB4dR_8xPo)
 * [2025-03-31, 03:40:40](https://news.ycombinator.com/item?id=43530675) - ['Joker,' 'Matrix' producer Village Roadshow files for bankruptcy protection](https://www.latimes.com/entertainment-arts/business/story/2025-03-17/joker-matrix-studio-village-roadshow-files-for-chapter-11-bankruptcy)
 * [2025-03-31, 02:58:20](https://news.ycombinator.com/item?id=43530410) - [Optifye.ai (YC W25) Is Hiring](https://www.ycombinator.com/companies/optifye-ai/jobs/sDfGXkK-founding-engineer)
