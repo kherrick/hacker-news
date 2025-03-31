@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-31](index.md)
 
+* [2025-03-31, 22:25:27](https://news.ycombinator.com/item?id=43540622) - [Canada investigates whether Tesla helped itself to a subsidy-fueled sales boom](https://fortune.com/2025/03/26/elon-musk-tesla-under-investigation-canada-wrongfully-boosting-sales/)
 * [2025-03-31, 22:06:19](https://news.ycombinator.com/item?id=43540477) - [New funding to build towards AGI](https://openai.com/index/march-funding-updates/)
 * [2025-03-31, 22:02:38](https://news.ycombinator.com/item?id=43540452) - [OpenAI closes $40B funding round, startup now valued at $300B](https://www.cnbc.com/2025/03/31/openai-closes-40-billion-in-funding-the-largest-private-fundraise-in-history-softbank-chatgpt.html)
 * [2025-03-31, 21:53:53](https://news.ycombinator.com/item?id=43540387) - [The US Assault on Science: National Academies Letter](https://www.nytimes.com/2025/03/31/science/trump-science-nas-letter.html)

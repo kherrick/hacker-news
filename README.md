@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-03-31, 22:06:19](https://news.ycombinator.com/item?id=43540477) - [New funding to build towards AGI](https://openai.com/index/march-funding-updates/)
-* [2025-03-31, 21:53:53](https://news.ycombinator.com/item?id=43540387) - [The US Assault on Science: National Academies Letter](https://www.nytimes.com/2025/03/31/science/trump-science-nas-letter.html)
+* [2025-03-31, 22:25:27](https://news.ycombinator.com/item?id=43540622) - [Canada investigates whether Tesla helped itself to a subsidy-fueled sales boom](https://fortune.com/2025/03/26/elon-musk-tesla-under-investigation-canada-wrongfully-boosting-sales/)
 * [2025-03-31, 20:29:58](https://news.ycombinator.com/item?id=43539585) - [Go Optimization Guide](https://goperf.dev/)
 * [2025-03-31, 19:35:51](https://news.ycombinator.com/item?id=43538919) - [JEP Draft: Prepare to Make Final Mean Final](https://openjdk.org/jeps/8349536)
 * [2025-03-31, 18:47:30](https://news.ycombinator.com/item?id=43538338) - [Kagi for Kids](https://help.kagi.com/kagi/plans/family-plan.html#kidslogin)
@@ -30,6 +29,7 @@
 * [2025-03-29, 10:12:03](https://news.ycombinator.com/item?id=43514246) - [Symmetry between up and down quarks is more broken than expected](https://phys.org/news/2025-03-symmetry-quarks-broken.html)
 * [2025-03-29, 00:31:27](https://news.ycombinator.com/item?id=43511529) - [The Guardian flourishes without a paywall](https://nymag.com/intelligencer/article/how-the-guardian-us-flourishes-without-a-paywall.html)
 * [2025-03-28, 22:14:33](https://news.ycombinator.com/item?id=43510393) - [In the 1980s we downloaded games from the radio](https://newslttrs.com/yes-in-the-1980s-we-downloaded-games-from-the-radio/)
+* [2025-03-28, 10:55:04](https://news.ycombinator.com/item?id=43503833) - [Show HN: I made a C program to create a vanity SHA-1 hash for a text file](https://gist.github.com/o0101/77eb378b5076fe47c3336583330ac615)
 
 ## [Archives](archives/index.md)
 
