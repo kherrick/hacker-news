@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-31, 05:41:31](https://news.ycombinator.com/item?id=43531494) - [Agentic AI Needs Its TCP/IP Moment](https://www.anup.io/p/architecting-the-internet-of-agents)
 * [2025-03-31, 05:28:03](https://news.ycombinator.com/item?id=43531415) - [RPCEmu is an emulator of classic Acorn computer systems](https://www.marutan.net/rpcemu/index.php)
 * [2025-03-31, 04:25:51](https://news.ycombinator.com/item?id=43531013) - [A decision to eject from a failing F-35B fighter and the betrayal in its wake](https://www.postandcourier.com/news/special_reports/marine-fighter-jet-eject-north-charleston/article_80d55e4a-f600-11ef-8ef4-03f14319ce57.html)
 * [2025-03-31, 04:10:45](https://news.ycombinator.com/item?id=43530889) - [Win98-quickinstall: A framework and installer to quickly install Windows 98](https://github.com/oerg866/win98-quickinstall)
@@ -10,7 +11,6 @@
 * [2025-03-31, 00:22:40](https://news.ycombinator.com/item?id=43529257) - [Installing air filters in classrooms has surprisingly large educational benefits (2020)](https://www.vox.com/2020/1/8/21051869/indoor-air-pollution-student-achievement)
 * [2025-03-31, 00:07:54](https://news.ycombinator.com/item?id=43529163) - [BreezeWiki makes wiki pages on Fandom readable](https://breezewiki.com/)
 * [2025-03-30, 23:59:23](https://news.ycombinator.com/item?id=43529104) - [Oka.wiki](https://oka.wiki/)
-* [2025-03-30, 22:45:54](https://news.ycombinator.com/item?id=43528496) - [Can Style Be Timeless?](https://www.mrporter.com/en-gb/journal/fashion/derek-guy-timeless-style-25197344)
 * [2025-03-30, 20:52:39](https://news.ycombinator.com/item?id=43527521) - [Xfinity XB3 hardware mod: Disable WiFi and save 2 watts](https://gist.github.com/pmarks-net/af40dba69272806c1ec9cbe71429d2e7)
 * [2025-03-30, 20:43:15](https://news.ycombinator.com/item?id=43527452) - [Ask HN: What are you working on? (March 2025)](https://news.ycombinator.com/item?id=43527452)
 * [2025-03-30, 19:54:46](https://news.ycombinator.com/item?id=43527044) - [Public secrets exposure leads to supply chain attack on GitHub CodeQL](https://www.praetorian.com/blog/codeqleaked-public-secrets-exposure-leads-to-supply-chain-attack-on-github-codeql/)
