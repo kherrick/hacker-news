@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-31](index.md)
 
 * [2025-03-31, 15:57:15](https://news.ycombinator.com/item?id=43536463) - [Automating Interactive Fiction Logic Generation with LLMs in Emacs](https://blog.tendollaradventure.com/automating-story-logic-with-llms/)
+* [2025-03-31, 15:50:52](https://news.ycombinator.com/item?id=43536401) - [Warner Bros Completes Worldwide Sale of 'Coyote vs Acme'](https://deadline.com/2025/03/coyote-vs-acme-warner-bros-sale-complete-ketchup-1236354552/)
 * [2025-03-31, 15:27:24](https://news.ycombinator.com/item?id=43536151) - [Palma 2](https://shop.boox.com/products/palma2)
 * [2025-03-31, 15:27:03](https://news.ycombinator.com/item?id=43536146) - [MLB: Yankees' new ''Torpedo Bats'' legal and likely coming to a dugout near you](https://thelibertyline.com/2025/03/30/yankees-new-torpedo-bat/)
 * [2025-03-31, 15:25:58](https://news.ycombinator.com/item?id=43536134) - [A streaming brain-to-voice neuroprosthesis to restore naturalistic communication](https://www.nature.com/articles/s41593-025-01905-6)

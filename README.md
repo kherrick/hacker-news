@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-31, 15:57:15](https://news.ycombinator.com/item?id=43536463) - [Automating Interactive Fiction Logic Generation with LLMs in Emacs](https://blog.tendollaradventure.com/automating-story-logic-with-llms/)
+* [2025-03-31, 15:50:52](https://news.ycombinator.com/item?id=43536401) - [Warner Bros Completes Worldwide Sale of 'Coyote vs Acme'](https://deadline.com/2025/03/coyote-vs-acme-warner-bros-sale-complete-ketchup-1236354552/)
 * [2025-03-31, 15:27:24](https://news.ycombinator.com/item?id=43536151) - [Palma 2](https://shop.boox.com/products/palma2)
 * [2025-03-31, 15:27:03](https://news.ycombinator.com/item?id=43536146) - [MLB: Yankees' new ''Torpedo Bats'' legal and likely coming to a dugout near you](https://thelibertyline.com/2025/03/30/yankees-new-torpedo-bat/)
 * [2025-03-31, 15:23:50](https://news.ycombinator.com/item?id=43536105) - [Debugging Lotus 1-2-3 by fax](https://blog.jgc.org/2025/03/debugging-lotus-1-2-3-by-fax.html)
@@ -10,7 +11,6 @@
 * [2025-03-31, 14:56:35](https://news.ycombinator.com/item?id=43535769) - [Java Minecraft in the Browser](https://browsercraft.cheerpj.com/)
 * [2025-03-31, 14:49:42](https://news.ycombinator.com/item?id=43535688) - [There's White Stuff Growing on Your Cheese That Isn't Mold (2018)](https://www.thephcheese.com/theres-white-stuff-growing-on-your-cheese-that-isnt-mold)
 * [2025-03-31, 14:45:35](https://news.ycombinator.com/item?id=43535653) - [AI Agents: Less Capability, More Reliability, Please](https://www.sergey.fyi/articles/reliability-vs-capability)
-* [2025-03-31, 14:36:25](https://news.ycombinator.com/item?id=43535558) - [Amazon introduces Nova Chat, entering the arena with ChatGPT, Claude, Grok](https://www.aboutamazon.com/news/innovation-at-amazon/amazon-nova-website-sdk)
 * [2025-03-31, 14:32:23](https://news.ycombinator.com/item?id=43535512) - [Back From The Future: 1995's predictions of 2025 life](https://newslttrs.com/back-from-the-future-1995s-predictions-of-2025-life/)
 * [2025-03-31, 12:59:23](https://news.ycombinator.com/item?id=43534533) - [Why do I run FreeBSD for my home servers](https://aumont.fr/posts/FreeBSD-Home-Server/)
 * [2025-03-31, 12:09:49](https://news.ycombinator.com/item?id=43534029) - [Gemini 2.5 Pro vs. Claude 3.7 Sonnet: Coding Comparison](https://composio.dev/blog/gemini-2-5-pro-vs-claude-3-7-sonnet-coding-comparison/)
