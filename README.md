@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-03-31, 09:21:05](https://news.ycombinator.com/item?id=43532893) - [UK poll: Work and money worry young people more than culture wars or climate](https://www.theguardian.com/society/2025/mar/31/work-and-money-worries-young-people-more-than-culture-wars-or-climate-uk-poll-finds)
+* [2025-03-31, 08:53:47](https://news.ycombinator.com/item?id=43532736) - [Custom AI Chatbot Development Services: Restrictions and Opportunities](https://belitsoft.com/chatbot-development-services/custom-ai)
 * [2025-03-31, 07:48:37](https://news.ycombinator.com/item?id=43532298) - [HTTPS RR in Curl](https://daniel.haxx.se/blog/2025/03/31/https-rr-in-curl/)
 * [2025-03-31, 07:36:56](https://news.ycombinator.com/item?id=43532220) - [How to Secure Existing C and C++ Software Without Memory Safety [pdf]](https://arxiv.org/abs/2503.21145)
 * [2025-03-31, 07:00:19](https://news.ycombinator.com/item?id=43532009) - [Wondercraft (YC S22) Is Hiring](https://news.ycombinator.com/item?id=43532009)
 * [2025-03-31, 06:45:23](https://news.ycombinator.com/item?id=43531914) - [Taming the UB Monsters in C++](https://herbsutter.com/2025/03/30/crate-training-tiamat-un-calling-cthulhutaming-the-ub-monsters-in-c/)
-* [2025-03-31, 06:33:04](https://news.ycombinator.com/item?id=43531816) - [You're protecting your data wrong – Introducing the Protected Query Pattern](https://kilpi.vercel.app/blog/2025-03-27-introducing-the-protected-query-pattern/)
 * [2025-03-31, 05:28:03](https://news.ycombinator.com/item?id=43531415) - [RPCEmu is an emulator of classic Acorn computer systems](https://www.marutan.net/rpcemu/index.php)
 * [2025-03-31, 04:10:45](https://news.ycombinator.com/item?id=43530889) - [Win98-quickinstall: A framework and installer to quickly install Windows 98](https://github.com/oerg866/win98-quickinstall)
 * [2025-03-31, 04:07:41](https://news.ycombinator.com/item?id=43530863) - [Lapham's Quarterly Announces New Stewardship](https://www.laphamsquarterly.org/roundtable/laphams-quarterly-announces-new-stewardship)
@@ -24,12 +24,12 @@
 * [2025-03-29, 09:05:33](https://news.ycombinator.com/item?id=43513967) - [How IMAP works under the hood](https://blog.lohr.dev/imap-introduction)
 * [2025-03-29, 06:35:04](https://news.ycombinator.com/item?id=43513301) - [One Last Ride for Antarctica's 'Ivan the Terra Bus'](https://www.atlasobscura.com/articles/antarctica-ivan-the-terra-bus-retired)
 * [2025-03-28, 22:42:07](https://news.ycombinator.com/item?id=43510656) - [Talkin’ about a Revolution](https://drb.ie/articles/talkin-about-a-revolution/)
+* [2025-03-28, 22:14:33](https://news.ycombinator.com/item?id=43510393) - [Yes, in the 1980s we downloaded games from the radio](https://newslttrs.com/yes-in-the-1980s-we-downloaded-games-from-the-radio/)
 * [2025-03-28, 12:25:00](https://news.ycombinator.com/item?id=43504514) - [Claim for a missing tooth](https://tf230.matteason.co.uk/)
 * [2025-03-28, 09:16:41](https://news.ycombinator.com/item?id=43503185) - [The surprising powerhouse behind rapid V2X growth: electric school buses](https://electrek.co/2025/03/27/v2x-growth-electric-school-buses/)
 * [2025-03-28, 06:58:00](https://news.ycombinator.com/item?id=43502348) - [Finalizers are tricker than you might think. Part 2](https://sergeyteplyakov.github.io/Blog/2025/03/27/Finalizers_are_tricker_than_you_might_think_p2.html)
 * [2025-03-28, 06:23:06](https://news.ycombinator.com/item?id=43502124) - [Orphan tsunami of 1700–Japanese clues to a parent earthquake in America (2015)](https://pubs.usgs.gov/publication/pp1707)
 * [2025-03-27, 22:21:20](https://news.ycombinator.com/item?id=43498861) - [George Orwell and me: Richard Blair on life with his extraordinary father](https://www.theguardian.com/books/2025/mar/19/george-orwell-me-richard-blair-life-with-extraordinary-father)
-* [2025-03-27, 21:28:33](https://news.ycombinator.com/item?id=43498399) - [Digital cuneiforms: Updated tool expands access to ancient Hittite texts](https://phys.org/news/2025-03-digital-cuneiforms-tool-access-ancient.html)
 
 ## [Archives](archives/index.md)
 
