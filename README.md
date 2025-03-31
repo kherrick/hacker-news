@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-31, 17:29:04](https://news.ycombinator.com/item?id=43537505) - [Launch HN: Augento (YC W25) – Fine-tune your agents with reinforcement learning](https://news.ycombinator.com/item?id=43537505)
 * [2025-03-31, 17:00:06](https://news.ycombinator.com/item?id=43537194) - [Distro (YC S24) Is Hiring a Lead Solutions Engineer](https://www.ycombinator.com/companies/distro/jobs/hJQCfVH-lead-solutions-engineer)
 * [2025-03-31, 16:44:43](https://news.ycombinator.com/item?id=43537034) - [DeepSeek surpasses ChatGPT in new monthly visits](https://economictimes.indiatimes.com/tech/artificial-intelligence/deepseek-surpasses-chatgpt-in-new-monthly-visits-emerges-as-the-fastest-growing-ai-tool-report/articleshow/119754529.cms?from=mdr)
 * [2025-03-31, 15:57:15](https://news.ycombinator.com/item?id=43536463) - [Automating Interactive Fiction Logic Generation with LLMs in Emacs](https://blog.tendollaradventure.com/automating-story-logic-with-llms/)
@@ -25,7 +26,6 @@
 * [2025-03-29, 06:35:04](https://news.ycombinator.com/item?id=43513301) - [One Last Ride for Antarctica's 'Ivan the Terra Bus'](https://www.atlasobscura.com/articles/antarctica-ivan-the-terra-bus-retired)
 * [2025-03-29, 05:13:14](https://news.ycombinator.com/item?id=43512944) - [Unmasking a slow and steady password spray attack](https://petrasecurity.substack.com/p/unmasking-a-slow-and-steady-password)
 * [2025-03-29, 02:30:48](https://news.ycombinator.com/item?id=43512206) - [Analysis of amplified ground motion in Bangkok from recent earthquakes (2023)](https://geoenvironmental-disasters.springeropen.com/articles/10.1186/s40677-023-00259-0)
-* [2025-03-28, 22:42:07](https://news.ycombinator.com/item?id=43510656) - [Talkin’ about a Revolution](https://drb.ie/articles/talkin-about-a-revolution/)
 * [2025-03-28, 22:14:33](https://news.ycombinator.com/item?id=43510393) - [Yes, in the 1980s we downloaded games from the radio](https://newslttrs.com/yes-in-the-1980s-we-downloaded-games-from-the-radio/)
 * [2025-03-28, 20:26:13](https://news.ycombinator.com/item?id=43509524) - [C and C++ Prioritize Performance over Correctness (2023)](https://research.swtch.com/ub)
 * [2025-03-28, 10:55:04](https://news.ycombinator.com/item?id=43503833) - [Show HN: I made a C program to create a vanity SHA-1 hash for a text file](https://gist.github.com/o0101/77eb378b5076fe47c3336583330ac615)
