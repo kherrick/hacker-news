@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-31](index.md)
 
+* [2025-03-31, 22:06:19](https://news.ycombinator.com/item?id=43540477) - [New funding to build towards AGI](https://openai.com/index/march-funding-updates/)
 * [2025-03-31, 21:53:53](https://news.ycombinator.com/item?id=43540387) - [The US Assault on Science: National Academies Letter](https://www.nytimes.com/2025/03/31/science/trump-science-nas-letter.html)
 * [2025-03-31, 20:29:58](https://news.ycombinator.com/item?id=43539585) - [Go Optimization Guide](https://goperf.dev/)
 * [2025-03-31, 20:10:56](https://news.ycombinator.com/item?id=43539334) - [CVE-2025-24259: Leaking Bookmarks on macOS](https://wts.dev/posts/bookmarks-leak/)

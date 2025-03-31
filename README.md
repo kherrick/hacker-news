@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-31, 22:06:19](https://news.ycombinator.com/item?id=43540477) - [New funding to build towards AGI](https://openai.com/index/march-funding-updates/)
 * [2025-03-31, 21:53:53](https://news.ycombinator.com/item?id=43540387) - [The US Assault on Science: National Academies Letter](https://www.nytimes.com/2025/03/31/science/trump-science-nas-letter.html)
 * [2025-03-31, 20:29:58](https://news.ycombinator.com/item?id=43539585) - [Go Optimization Guide](https://goperf.dev/)
 * [2025-03-31, 19:35:51](https://news.ycombinator.com/item?id=43538919) - [JEP Draft: Prepare to Make Final Mean Final](https://openjdk.org/jeps/8349536)
@@ -19,7 +20,6 @@
 * [2025-03-31, 14:49:42](https://news.ycombinator.com/item?id=43535688) - [It’s not mold, it’s calcium lactate (2018)](https://www.thephcheese.com/theres-white-stuff-growing-on-your-cheese-that-isnt-mold)
 * [2025-03-31, 14:45:35](https://news.ycombinator.com/item?id=43535653) - [AI agents: Less capability, more reliability, please](https://www.sergey.fyi/articles/reliability-vs-capability)
 * [2025-03-31, 12:59:23](https://news.ycombinator.com/item?id=43534533) - [Why I run FreeBSD for my home servers](https://aumont.fr/posts/FreeBSD-Home-Server/)
-* [2025-03-31, 12:09:49](https://news.ycombinator.com/item?id=43534029) - [Gemini 2.5 Pro vs. Claude 3.7 Sonnet: Coding Comparison](https://composio.dev/blog/gemini-2-5-pro-vs-claude-3-7-sonnet-coding-comparison/)
 * [2025-03-31, 11:01:50](https://news.ycombinator.com/item?id=43533516) - [Compiler Options Hardening Guide for C and C++](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
 * [2025-03-31, 10:58:53](https://news.ycombinator.com/item?id=43533496) - [Things I Won't Work With: Dioxygen Difluoride (2010)](https://www.science.org/content/blog-post/things-i-won-t-work-dioxygen-difluoride)
 * [2025-03-31, 10:39:57](https://news.ycombinator.com/item?id=43533362) - [The demoscene as a UNESCO heritage in Sweden](https://www.goto80.com/the-demoscene-as-a-unesco-heritage-in-sweden)
@@ -28,8 +28,8 @@
 * [2025-03-29, 15:47:22](https://news.ycombinator.com/item?id=43516411) - [The Surprising History of Scientific Ballooning in 11 Missions](https://nautil.us/the-surprising-history-of-scientific-ballooning-in-11-missions-1200217/)
 * [2025-03-29, 14:02:53](https://news.ycombinator.com/item?id=43515622) - [Show HN: I made a little puzzle game about a rogue chess knight](https://knightride.rakhim.org/)
 * [2025-03-29, 10:12:03](https://news.ycombinator.com/item?id=43514246) - [Symmetry between up and down quarks is more broken than expected](https://phys.org/news/2025-03-symmetry-quarks-broken.html)
+* [2025-03-29, 00:31:27](https://news.ycombinator.com/item?id=43511529) - [The Guardian flourishes without a paywall](https://nymag.com/intelligencer/article/how-the-guardian-us-flourishes-without-a-paywall.html)
 * [2025-03-28, 22:14:33](https://news.ycombinator.com/item?id=43510393) - [In the 1980s we downloaded games from the radio](https://newslttrs.com/yes-in-the-1980s-we-downloaded-games-from-the-radio/)
-* [2025-03-28, 10:55:04](https://news.ycombinator.com/item?id=43503833) - [Show HN: I made a C program to create a vanity SHA-1 hash for a text file](https://gist.github.com/o0101/77eb378b5076fe47c3336583330ac615)
 
 ## [Archives](archives/index.md)
 
