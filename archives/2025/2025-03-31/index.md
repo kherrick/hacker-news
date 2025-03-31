@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-31](index.md)
 
+* [2025-03-31, 20:29:58](https://news.ycombinator.com/item?id=43539585) - [Go Optimization Guide](https://goperf.dev/)
 * [2025-03-31, 20:10:56](https://news.ycombinator.com/item?id=43539334) - [CVE-2025-24259: Leaking Bookmarks on macOS](https://wts.dev/posts/bookmarks-leak/)
 * [2025-03-31, 19:35:51](https://news.ycombinator.com/item?id=43538919) - [JEP Draft: Prepare to Make Final Mean Final](https://openjdk.org/jeps/8349536)
 * [2025-03-31, 19:25:39](https://news.ycombinator.com/item?id=43538783) - [OpenAI releasing new open model in coming months, seeks community feedback](https://openai.com/open-model-feedback/)

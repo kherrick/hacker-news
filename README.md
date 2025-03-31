@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-31, 20:29:58](https://news.ycombinator.com/item?id=43539585) - [Go Optimization Guide](https://goperf.dev/)
 * [2025-03-31, 19:35:51](https://news.ycombinator.com/item?id=43538919) - [JEP Draft: Prepare to Make Final Mean Final](https://openjdk.org/jeps/8349536)
 * [2025-03-31, 18:47:30](https://news.ycombinator.com/item?id=43538338) - [Kagi for Kids](https://help.kagi.com/kagi/plans/family-plan.html#kidslogin)
 * [2025-03-31, 18:35:37](https://news.ycombinator.com/item?id=43538192) - [Notes on the Pentium's Microcode Circuitry](https://www.righto.com/2025/03/pentium-microcde-rom-circuitry.html)
@@ -14,7 +15,6 @@
 * [2025-03-31, 15:11:33](https://news.ycombinator.com/item?id=43535953) - [Oracle attempt to hide cybersecurity incident from customers?](https://doublepulsar.com/oracle-attempt-to-hide-serious-cybersecurity-incident-from-customers-in-oracle-saas-service-9231c8daff4a)
 * [2025-03-31, 15:10:39](https://news.ycombinator.com/item?id=43535943) - [Turso SQLite Offline Sync Public Beta](https://turso.tech/blog/turso-offline-sync-public-beta)
 * [2025-03-31, 15:06:23](https://news.ycombinator.com/item?id=43535889) - [Show HN: GuMCP – Open-source MCP servers, hosted for free](https://github.com/gumloop/guMCP)
-* [2025-03-31, 14:56:35](https://news.ycombinator.com/item?id=43535769) - [Browsercraft: Java Minecraft in the browser](https://browsercraft.cheerpj.com/)
 * [2025-03-31, 14:49:42](https://news.ycombinator.com/item?id=43535688) - [It’s not mold, it’s calcium lactate (2018)](https://www.thephcheese.com/theres-white-stuff-growing-on-your-cheese-that-isnt-mold)
 * [2025-03-31, 14:45:35](https://news.ycombinator.com/item?id=43535653) - [AI agents: Less capability, more reliability, please](https://www.sergey.fyi/articles/reliability-vs-capability)
 * [2025-03-31, 12:59:23](https://news.ycombinator.com/item?id=43534533) - [Why I run FreeBSD for my home servers](https://aumont.fr/posts/FreeBSD-Home-Server/)
