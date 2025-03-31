@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-31](index.md)
 
+* [2025-03-31, 14:36:25](https://news.ycombinator.com/item?id=43535558) - [Amazon introduces Nova Chat, entering the arena with ChatGPT, Claude, Grok](https://www.aboutamazon.com/news/innovation-at-amazon/amazon-nova-website-sdk)
 * [2025-03-31, 13:40:39](https://news.ycombinator.com/item?id=43534939) - [Why Login Failures Matter](https://fusionauth.io/articles/authentication/login-failures)
 * [2025-03-31, 13:08:54](https://news.ycombinator.com/item?id=43534635) - [Nvidia's latest AI PC boxes sound great – for data scientists with $3k to spare](https://www.theregister.com/2025/03/31/can_nvidia_shakeup_pcs/)
 * [2025-03-31, 12:26:46](https://news.ycombinator.com/item?id=43534185) - [Finding Remote Enterprise Software Consulting Leads: Non-US Resident Edition](https://news.ycombinator.com/item?id=43534185)
