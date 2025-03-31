@@ -2,7 +2,7 @@
 
 * [2025-03-31, 13:40:39](https://news.ycombinator.com/item?id=43534939) - [Why Login Failures Matter](https://fusionauth.io/articles/authentication/login-failures)
 * [2025-03-31, 13:08:54](https://news.ycombinator.com/item?id=43534635) - [Nvidia's latest AI PC boxes sound great – for data scientists with $3k to spare](https://www.theregister.com/2025/03/31/can_nvidia_shakeup_pcs/)
-* [2025-03-31, 12:26:46](https://news.ycombinator.com/item?id=43534185) - [Finding Remote Enterprise Software Consulting Leads: Non-US Resident Edition](https://news.ycombinator.com/item?id=43534185)
+* [2025-03-31, 12:26:46](https://news.ycombinator.com/item?id=43534185) - [Ask HN: Finding Remote Enterprise SW Consulting Leads: Non-US Resident Edition](https://news.ycombinator.com/item?id=43534185)
 * [2025-03-31, 12:09:49](https://news.ycombinator.com/item?id=43534029) - [Gemini 2.5 Pro vs. Claude 3.7 Sonnet: Coding Comparison](https://composio.dev/blog/gemini-2-5-pro-vs-claude-3-7-sonnet-coding-comparison/)
 * [2025-03-31, 11:45:32](https://news.ycombinator.com/item?id=43533826) - [The Egg (By Andy Weir)](https://www.galactanet.com/oneoff/theegg.html)
 * [2025-03-31, 11:12:34](https://news.ycombinator.com/item?id=43533595) - [Eco Cycles or How I Feel About Technology](https://maksimizmaylov.com/writing/eco-cycles/)
