@@ -129,6 +129,122 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="43537505">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=43537505"
+              >Launch HN: Augento (YC W25) – Fine-tune your agents with
+              reinforcement learning</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2025-03-31 @ 17:29:04</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=43537505"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://augento.ai/">https://augento.ai/</a>). We’re
+              building Deepseek R1-like fine-tuning as a service. You connect
+              your agent, tell us when it’s right or wrong, and we deliver an
+              LLM optimized for that agent. There’s a demo video
+              <a href="https://www.youtube.com/watch?v=j5RQaTdRrKE"
+                >https://www.youtube.com/watch?v=j5RQaTdRrKE</a
+              >, and our docs are at
+              <a href="https://docs.augento.ai/">https://docs.augento.ai/</a>.
+              It’s open for anyone to use at
+              <a href="https://augento.ai">https://augento.ai</a>.
+              <p>
+                Agents fail all the time, especially when you try to use them
+                for something actually useful. Current solution approaches suck:
+                prompting has intrinsic limits and supervised fine-tuning
+                requires big explicit datasets that are hard to collect.
+              </p>
+              <p>
+                Two months ago, the DeepSeek R1 paper outlined a way to
+                post-train LLMs with (almost) pure reinforcement learning. We
+                took up their research and built a fine-tuning platform around
+                that.
+              </p>
+              <p>
+                You let us intercept your agent's data flow, and we deliver you
+                a fine-tuned open-source model, that is trained on the agent's
+                specific task. Instead of providing big datasets of explicit
+                fine-tuning samples, you provide a reward function, judging the
+                model's outputs.
+              </p>
+              <p>Here are examples of what this can be used for:</p>
+              <p>
+                Coding Agent: We fine-tuned a coding agent that was constantly
+                making syntax errors and failed to handle semantic edge cases
+                properly. By providing a reward function that evaluated code
+                against the compiler, the agent learned not to produce these
+                errors. The fine-tuned model reduced critical bugs by 40% with
+                just 20 training samples.
+              </p>
+              <p>
+                MCP Tool Specialization: Imagine you have a custom set of
+                internal tools using the MCP protocol, but your agent keeps
+                selecting the wrong tool or passing incompatible parameters. You
+                could fine-tune with a reward function that scores tool
+                selection and parameter matching.
+              </p>
+              <p>
+                Browser Agent Navigation: If you're building a browser agent
+                that struggles with complex web UIs or specific sites, you could
+                fine-tune it to better understand UI elements and navigation
+                patterns. With a reward function that scores successful task
+                completion (like "find the best price for this product" or
+                "complete this multi-step form"), you could train an agent that
+                better identifies clickable elements, understands form
+                validation errors, and navigates through complex SPAs without
+                getting stuck.
+              </p>
+              <p>
+                VLA Robot Control: If you're using vision-language models to
+                control robotic arms or other hardware, you could fine-tune for
+                your specific actuator setup. With a reward function based on
+                high-level task completion, you could train a
+                Vision-Langauge-Action (VLA) model that translates natural
+                language commands like "move the red block behind the blue
+                cylinder" into actuator controls for your specific hardware.
+              </p>
+              <p>
+                As you see from these examples, the current paradigm is best
+                suited for "verifiable domains”, where it is possible to give an
+                explicit function judging the model’s outputs. However, up next,
+                we will also support an "alignment mode", where you don't have
+                to provide a reward function but provide high-level feedback on
+                past failure runs of your agent. Just tag where things went
+                wrong, and we'll handle the rest. This makes it even easier to
+                improve your agents without needing to write formal reward
+                functions.
+              </p>
+              <p>
+                Our platform is not itself open source, but it fine-tunes
+                open-source language models. I.e. it is an alternative to the
+                reinforcement fine-tuning API from OpenAI, but with Qwen, LLama,
+                Deepseek, etc., and more customizability on the reward model. We
+                charge users for the training and for their
+                inference/interaction with the model later on ($0 monthly flat
+                fee + training cost + inference cost).
+              </p>
+              <p>
+                The platform is self-serving and open to use at
+                <a href="https://augento.ai/dashboard"
+                  >https://augento.ai/dashboard</a
+                >. We’ll give you $20 in training credits, which should be
+                enough for connecting your agent and delivering some observable
+                improvement on your use case.
+              </p>
+              <p>We’d love to hear your thoughts and feedback!</p>
+            </div>
+          </section>
+        </section>
         <section id="43537194">
           <h3>
             <a
@@ -158,7 +274,7 @@
             <h4>
               <span>2025-03-31 @ 16:44:43</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43537034"
                   >Comments</a
@@ -180,7 +296,7 @@
             <h4>
               <span>2025-03-31 @ 15:57:15</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43536463"
                   >Comments</a
@@ -201,7 +317,7 @@
             <h4>
               <span>2025-03-31 @ 15:50:52</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43536401"
                   >Comments</a
@@ -222,7 +338,7 @@
             <h4>
               <span>2025-03-31 @ 15:23:50</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43536105"
                   >Comments</a
@@ -243,7 +359,7 @@
             <h4>
               <span>2025-03-31 @ 15:22:08</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43536085"
                   >Comments</a
@@ -265,11 +381,11 @@
             <h4>
               <span>2025-03-31 @ 15:11:33</span
               ><span class="points-container"
-                >Points: <span class="points">190</span></span
+                >Points: <span class="points">200</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43535953"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -286,7 +402,7 @@
             <h4>
               <span>2025-03-31 @ 15:10:39</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43535943"
                   >Comments</a
@@ -305,11 +421,11 @@
             <h4>
               <span>2025-03-31 @ 14:56:35</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43535769"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 53</span></span
               >
             </h4>
           </section>
@@ -327,11 +443,11 @@
             <h4>
               <span>2025-03-31 @ 14:49:42</span
               ><span class="points-container"
-                >Points: <span class="points">163</span></span
+                >Points: <span class="points">171</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43535688"
                   >Comments</a
-                ><span class="descendants">: 77</span></span
+                ><span class="descendants">: 85</span></span
               >
             </h4>
           </section>
@@ -348,11 +464,11 @@
             <h4>
               <span>2025-03-31 @ 14:45:35</span
               ><span class="points-container"
-                >Points: <span class="points">143</span></span
+                >Points: <span class="points">151</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43535653"
                   >Comments</a
-                ><span class="descendants">: 95</span></span
+                ><span class="descendants">: 103</span></span
               >
             </h4>
           </section>
@@ -369,11 +485,11 @@
             <h4>
               <span>2025-03-31 @ 14:32:23</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43535512"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -390,11 +506,11 @@
             <h4>
               <span>2025-03-31 @ 12:09:49</span
               ><span class="points-container"
-                >Points: <span class="points">291</span></span
+                >Points: <span class="points">294</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43534029"
                   >Comments</a
-                ><span class="descendants">: 199</span></span
+                ><span class="descendants">: 203</span></span
               >
             </h4>
           </section>
@@ -411,7 +527,7 @@
             <h4>
               <span>2025-03-31 @ 11:01:50</span
               ><span class="points-container"
-                >Points: <span class="points">116</span></span
+                >Points: <span class="points">117</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43533516"
                   >Comments</a
@@ -432,11 +548,11 @@
             <h4>
               <span>2025-03-31 @ 10:58:53</span
               ><span class="points-container"
-                >Points: <span class="points">141</span></span
+                >Points: <span class="points">143</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43533496"
                   >Comments</a
-                ><span class="descendants">: 51</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
@@ -453,7 +569,7 @@
             <h4>
               <span>2025-03-31 @ 10:39:57</span
               ><span class="points-container"
-                >Points: <span class="points">358</span></span
+                >Points: <span class="points">360</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43533362"
                   >Comments</a
@@ -468,11 +584,11 @@
             <h4>
               <span>2025-03-31 @ 09:54:36</span
               ><span class="points-container"
-                >Points: <span class="points">200</span></span
+                >Points: <span class="points">208</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43533096"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -489,11 +605,11 @@
             <h4>
               <span>2025-03-31 @ 09:11:47</span
               ><span class="points-container"
-                >Points: <span class="points">178</span></span
+                >Points: <span class="points">181</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43532830"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 66</span></span
               >
             </h4>
           </section>
@@ -529,11 +645,11 @@
             <h4>
               <span>2025-03-31 @ 04:10:45</span
               ><span class="points-container"
-                >Points: <span class="points">188</span></span
+                >Points: <span class="points">189</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43530889"
                   >Comments</a
-                ><span class="descendants">: 101</span></span
+                ><span class="descendants">: 102</span></span
               >
             </h4>
           </section>
@@ -555,7 +671,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43514246"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -570,11 +686,11 @@
             <h4>
               <span>2025-03-29 @ 09:05:33</span
               ><span class="points-container"
-                >Points: <span class="points">142</span></span
+                >Points: <span class="points">146</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43513967"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -591,11 +707,11 @@
             <h4>
               <span>2025-03-29 @ 06:35:04</span
               ><span class="points-container"
-                >Points: <span class="points">68</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43513301"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -612,11 +728,11 @@
             <h4>
               <span>2025-03-29 @ 05:13:14</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43512944"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -639,27 +755,6 @@
                 ><a href="https://news.ycombinator.com/item?id=43512206"
                   >Comments</a
                 ><span class="descendants">: 0</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="43510656">
-          <h3>
-            <a
-              class="item"
-              href="https://drb.ie/articles/talkin-about-a-revolution/"
-              >Talkin’ about a Revolution</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2025-03-28 @ 22:42:07</span
-              ><span class="points-container"
-                >Points: <span class="points">53</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=43510656"
-                  >Comments</a
-                ><span class="descendants">: 213</span></span
               >
             </h4>
           </section>
@@ -695,11 +790,11 @@
             <h4>
               <span>2025-03-28 @ 20:26:13</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43509524"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -717,11 +812,11 @@
             <h4>
               <span>2025-03-28 @ 10:55:04</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">10</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43503833"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -739,11 +834,11 @@
             <h4>
               <span>2025-03-28 @ 07:04:01</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=43502385"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
