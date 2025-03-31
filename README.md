@@ -21,7 +21,7 @@
 * [2025-03-30, 19:03:42](https://news.ycombinator.com/item?id=43526621) - [File Systems Unfit as Distributed Storage Back Ends (2019)](https://dl.acm.org/doi/pdf/10.1145/3341301.3359656)
 * [2025-03-30, 18:35:03](https://news.ycombinator.com/item?id=43526396) - [The Nobel Duel](https://www.asimov.press/p/nobel-duel)
 * [2025-03-30, 15:30:22](https://news.ycombinator.com/item?id=43524937) - [Blue95: a desktop for your childhood home's computer room](https://github.com/winblues/blue95)
-* [2025-03-30, 10:20:11](https://news.ycombinator.com/item?id=43522966) - [The average college student today](https://hilariusbookbinder.substack.com/p/the-average-college-student-today)
+* [2025-03-29, 09:05:33](https://news.ycombinator.com/item?id=43513967) - [How IMAP works under the hood](https://blog.lohr.dev/imap-introduction)
 * [2025-03-29, 06:35:04](https://news.ycombinator.com/item?id=43513301) - [One Last Ride for Antarctica's 'Ivan the Terra Bus'](https://www.atlasobscura.com/articles/antarctica-ivan-the-terra-bus-retired)
 * [2025-03-28, 22:42:07](https://news.ycombinator.com/item?id=43510656) - [Talkin’ about a Revolution](https://drb.ie/articles/talkin-about-a-revolution/)
 * [2025-03-28, 12:25:00](https://news.ycombinator.com/item?id=43504514) - [Claim for a missing tooth](https://tf230.matteason.co.uk/)

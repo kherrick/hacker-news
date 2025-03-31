@@ -73,6 +73,7 @@
 * [2025-03-29, 09:32:00](https://news.ycombinator.com/item?id=43514075) - [Caido – A lightweight web security auditing toolkit](https://caido.io/)
 * [2025-03-29, 09:28:47](https://news.ycombinator.com/item?id=43514063) - [PCIe Endpoint on Xilinx 7-Series FPGAs with PCIe_2_1 Hard Block and GTP](https://github.com/regymm/pcie_7x)
 * [2025-03-29, 09:13:43](https://news.ycombinator.com/item?id=43513996) - [Postgres Language Server: Initial Release](https://github.com/supabase-community/postgres-language-server)
+* [2025-03-29, 09:05:33](https://news.ycombinator.com/item?id=43513967) - [How IMAP works under the hood](https://blog.lohr.dev/imap-introduction)
 * [2025-03-29, 08:39:57](https://news.ycombinator.com/item?id=43513850) - [Scammers Steal $1T a Year – Mostly from Americans](https://www.wired.com/video/watch/incognito-mode-romance-scams)
 * [2025-03-29, 08:29:27](https://news.ycombinator.com/item?id=43513811) - [Trump's attacks on universities get darker, with shadows reaching our shores](https://christinapagel.substack.com/p/trumps-attacks-on-universities-get)
 * [2025-03-29, 08:27:55](https://news.ycombinator.com/item?id=43513803) - [How to report a security issue in an open source project](https://jacobian.org/2025/mar/27/reporting-security-issues-in-oss/)
