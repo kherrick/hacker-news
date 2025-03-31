@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-31, 17:58:19](https://news.ycombinator.com/item?id=43537808) - [The Average College Student Is Illiterate](https://www.persuasion.community/p/the-average-college-student-is-illiterate)
 * [2025-03-31, 17:38:16](https://news.ycombinator.com/item?id=43537593) - [France fines Apple €150M for \"excessive\" pop-ups that let users reject tracking](https://arstechnica.com/tech-policy/2025/03/france-fines-apple-e150m-for-excessive-pop-ups-that-let-users-reject-tracking/)
 * [2025-03-31, 17:29:04](https://news.ycombinator.com/item?id=43537505) - [Launch HN: Augento (YC W25) – Fine-tune your agents with reinforcement learning](https://news.ycombinator.com/item?id=43537505)
 * [2025-03-31, 17:00:06](https://news.ycombinator.com/item?id=43537194) - [Distro (YC S24) Is Hiring a Lead Solutions Engineer](https://www.ycombinator.com/companies/distro/jobs/hJQCfVH-lead-solutions-engineer)
 * [2025-03-31, 15:57:15](https://news.ycombinator.com/item?id=43536463) - [Automating Interactive Fiction Logic Generation with LLMs in Emacs](https://blog.tendollaradventure.com/automating-story-logic-with-llms/)
 * [2025-03-31, 15:50:52](https://news.ycombinator.com/item?id=43536401) - [Warner Bros Completes Worldwide Sale of 'Coyote vs Acme'](https://deadline.com/2025/03/coyote-vs-acme-warner-bros-sale-complete-ketchup-1236354552/)
 * [2025-03-31, 15:23:50](https://news.ycombinator.com/item?id=43536105) - [Debugging Lotus 1-2-3 by fax](https://blog.jgc.org/2025/03/debugging-lotus-1-2-3-by-fax.html)
-* [2025-03-31, 15:22:08](https://news.ycombinator.com/item?id=43536085) - [Runway Gen-4](https://runwayml.com/research/introducing-runway-gen-4)
 * [2025-03-31, 15:11:33](https://news.ycombinator.com/item?id=43535953) - [Oracle attempt to hide serious cybersecurity incident from customers](https://doublepulsar.com/oracle-attempt-to-hide-serious-cybersecurity-incident-from-customers-in-oracle-saas-service-9231c8daff4a)
 * [2025-03-31, 15:10:39](https://news.ycombinator.com/item?id=43535943) - [Turso SQLite Offline Sync Public Beta](https://turso.tech/blog/turso-offline-sync-public-beta)
 * [2025-03-31, 14:56:35](https://news.ycombinator.com/item?id=43535769) - [Java Minecraft in the Browser](https://browsercraft.cheerpj.com/)
@@ -17,7 +17,6 @@
 * [2025-03-31, 11:01:50](https://news.ycombinator.com/item?id=43533516) - [Compiler Options Hardening Guide for C and C++](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
 * [2025-03-31, 10:58:53](https://news.ycombinator.com/item?id=43533496) - [Things I Won't Work With: Dioxygen Difluoride (2010)](https://www.science.org/content/blog-post/things-i-won-t-work-dioxygen-difluoride)
 * [2025-03-31, 10:39:57](https://news.ycombinator.com/item?id=43533362) - [The demoscene as a UNESCO heritage in Sweden](https://www.goto80.com/the-demoscene-as-a-unesco-heritage-in-sweden)
-* [2025-03-31, 09:54:36](https://news.ycombinator.com/item?id=43533096) - [ToS;DR](https://tosdr.org/en)
 * [2025-03-31, 09:11:47](https://news.ycombinator.com/item?id=43532830) - [The <select> element can now be customized with CSS](https://developer.chrome.com/blog/a-customizable-select)
 * [2025-03-31, 07:36:56](https://news.ycombinator.com/item?id=43532220) - [How to Secure Existing C and C++ Software Without Memory Safety [pdf]](https://arxiv.org/abs/2503.21145)
 * [2025-03-31, 04:10:45](https://news.ycombinator.com/item?id=43530889) - [Win98-quickinstall: A framework and installer to quickly install Windows 98](https://github.com/oerg866/win98-quickinstall)
@@ -30,6 +29,7 @@
 * [2025-03-28, 20:26:13](https://news.ycombinator.com/item?id=43509524) - [C and C++ Prioritize Performance over Correctness (2023)](https://research.swtch.com/ub)
 * [2025-03-28, 10:55:04](https://news.ycombinator.com/item?id=43503833) - [Show HN: I made a C program to create a vanity SHA-1 hash for a text file](https://gist.github.com/o0101/77eb378b5076fe47c3336583330ac615)
 * [2025-03-28, 07:04:01](https://news.ycombinator.com/item?id=43502385) - [Technical Analysis – Improper Use of Private iOS APIs in Vietnamese Banking Apps](https://blog.verichains.io/p/technical-analysis-improper-use-of)
+* [2025-03-27, 21:35:39](https://news.ycombinator.com/item?id=43498465) - [A Man Who Went to Fake Prison Also Went to Real Jail](https://nymag.com/intelligencer/article/william-banks-comedian-jail.html)
 
 ## [Archives](archives/index.md)
 

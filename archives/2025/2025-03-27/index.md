@@ -15,6 +15,7 @@
 * [2025-03-27, 21:48:23](https://news.ycombinator.com/item?id=43498570) - [Asking Good Questions Is Harder Than Giving Great Answers](https://newsletter.dancohen.org/archive/asking-good-questions-is-harder-than-giving-great-answers/)
 * [2025-03-27, 21:42:51](https://news.ycombinator.com/item?id=43498521) - [Writing an HTTP Server in Go from Scratch: Part 2](https://www.krayorn.com/posts/http-server-go-2/)
 * [2025-03-27, 21:37:46](https://news.ycombinator.com/item?id=43498481) - [Golang on the Playstation 2](https://rgsilva.com/blog/ps2-go-part-1/)
+* [2025-03-27, 21:35:39](https://news.ycombinator.com/item?id=43498465) - [A Man Who Went to Fake Prison Also Went to Real Jail](https://nymag.com/intelligencer/article/william-banks-comedian-jail.html)
 * [2025-03-27, 21:28:33](https://news.ycombinator.com/item?id=43498399) - [Digital cuneiforms: Updated tool expands access to ancient Hittite texts](https://phys.org/news/2025-03-digital-cuneiforms-tool-access-ancient.html)
 * [2025-03-27, 21:22:42](https://news.ycombinator.com/item?id=43498338) - [I genuinely don't understand why some people are still bullish about LLMs](https://twitter.com/skdh/status/1905132853672784121)
 * [2025-03-27, 21:09:28](https://news.ycombinator.com/item?id=43498213) - [Take this on-call rotation and shove it](https://www.scottsmitelli.com/articles/take-oncall-and-shove-it/)
