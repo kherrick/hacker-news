@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-31](index.md)
 
+* [2025-03-31, 15:25:58](https://news.ycombinator.com/item?id=43536134) - [A streaming brain-to-voice neuroprosthesis to restore naturalistic communication](https://www.nature.com/articles/s41593-025-01905-6)
+* [2025-03-31, 15:23:50](https://news.ycombinator.com/item?id=43536105) - [Debugging Lotus 1-2-3 by fax](https://blog.jgc.org/2025/03/debugging-lotus-1-2-3-by-fax.html)
 * [2025-03-31, 14:56:35](https://news.ycombinator.com/item?id=43535769) - [Java Minecraft in the Browser](https://browsercraft.cheerpj.com/)
 * [2025-03-31, 14:49:42](https://news.ycombinator.com/item?id=43535688) - [There's White Stuff Growing on Your Cheese That Isn't Mold](https://www.thephcheese.com/theres-white-stuff-growing-on-your-cheese-that-isnt-mold)
 * [2025-03-31, 14:45:35](https://news.ycombinator.com/item?id=43535653) - [AI Agents: Less Capability, More Reliability, Please](https://www.sergey.fyi/articles/reliability-vs-capability)
