@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-31, 18:47:30",
+      "https://news.ycombinator.com/item?id=43538338"
+    ],
+    [
+      "Kagi for Kids",
+      "https://help.kagi.com/kagi/plans/family-plan.html#kidslogin"
+    ]
+  ],
+  [
+    [
       "2025-03-31, 18:35:37",
       "https://news.ycombinator.com/item?id=43538192"
     ],
@@ -17,16 +27,6 @@
     [
       "Honey has now lost 4M Chrome users after shady tactics were revealed",
       "https://9to5google.com/2025/03/31/honey-extension-users-dropped-chrome-march-2025/"
-    ]
-  ],
-  [
-    [
-      "2025-03-31, 18:03:36",
-      "https://news.ycombinator.com/item?id=43537866"
-    ],
-    [
-      "Oregon abandoned its drug law. Then came the mass arrests",
-      "https://www.theguardian.com/us-news/2025/mar/31/oregon-new-drug-law-arrests"
     ]
   ],
   [
@@ -61,42 +61,12 @@
   ],
   [
     [
-      "2025-03-31, 16:44:43",
-      "https://news.ycombinator.com/item?id=43537034"
-    ],
-    [
-      "DeepSeek surpasses ChatGPT in new monthly visits",
-      "https://economictimes.indiatimes.com/tech/artificial-intelligence/deepseek-surpasses-chatgpt-in-new-monthly-visits-emerges-as-the-fastest-growing-ai-tool-report/articleshow/119754529.cms?from=mdr"
-    ]
-  ],
-  [
-    [
       "2025-03-31, 15:57:15",
       "https://news.ycombinator.com/item?id=43536463"
     ],
     [
       "Automating Interactive Fiction Logic Generation with LLMs in Emacs",
       "https://blog.tendollaradventure.com/automating-story-logic-with-llms/"
-    ]
-  ],
-  [
-    [
-      "2025-03-31, 15:50:52",
-      "https://news.ycombinator.com/item?id=43536401"
-    ],
-    [
-      "Warner Bros Completes Worldwide Sale of 'Coyote vs Acme'",
-      "https://deadline.com/2025/03/coyote-vs-acme-warner-bros-sale-complete-ketchup-1236354552/"
-    ]
-  ],
-  [
-    [
-      "2025-03-31, 15:27:24",
-      "https://news.ycombinator.com/item?id=43536151"
-    ],
-    [
-      "Palma 2",
-      "https://shop.boox.com/products/palma2"
     ]
   ],
   [
@@ -231,12 +201,42 @@
   ],
   [
     [
+      "2025-03-31, 10:31:39",
+      "https://news.ycombinator.com/item?id=43533306"
+    ],
+    [
+      "James Webb Space Telescope reveals that most galaxies rotate clockwise",
+      "https://www.smithsonianmag.com/smart-news/james-webb-space-telescope-reveals-that-most-galaxies-rotate-clockwise-180986224/"
+    ]
+  ],
+  [
+    [
       "2025-03-31, 09:11:47",
       "https://news.ycombinator.com/item?id=43532830"
     ],
     [
       "The <select> element can now be customized with CSS",
       "https://developer.chrome.com/blog/a-customizable-select"
+    ]
+  ],
+  [
+    [
+      "2025-03-31, 07:36:56",
+      "https://news.ycombinator.com/item?id=43532220"
+    ],
+    [
+      "How to Secure Existing C and C++ Software Without Memory Safety [pdf]",
+      "https://arxiv.org/abs/2503.21145"
+    ]
+  ],
+  [
+    [
+      "2025-03-29, 14:02:53",
+      "https://news.ycombinator.com/item?id=43515622"
+    ],
+    [
+      "Show HN: I made a little puzzle game about a rogue chess knight",
+      "https://knightride.rakhim.org/"
     ]
   ],
   [
