@@ -13,6 +13,7 @@
 * [2025-03-31, 15:22:08](https://news.ycombinator.com/item?id=43536085) - [Runway Gen-4](https://runwayml.com/research/introducing-runway-gen-4)
 * [2025-03-31, 15:11:33](https://news.ycombinator.com/item?id=43535953) - [Oracle attempt to hide serious cybersecurity incident from customers](https://doublepulsar.com/oracle-attempt-to-hide-serious-cybersecurity-incident-from-customers-in-oracle-saas-service-9231c8daff4a)
 * [2025-03-31, 15:10:39](https://news.ycombinator.com/item?id=43535943) - [Turso SQLite Offline Sync Public Beta](https://turso.tech/blog/turso-offline-sync-public-beta)
+* [2025-03-31, 15:06:23](https://news.ycombinator.com/item?id=43535889) - [Show HN: GuMCP – Open-source MCP servers, hosted for free](https://github.com/gumloop/guMCP)
 * [2025-03-31, 14:56:35](https://news.ycombinator.com/item?id=43535769) - [Java Minecraft in the Browser](https://browsercraft.cheerpj.com/)
 * [2025-03-31, 14:49:42](https://news.ycombinator.com/item?id=43535688) - [There's White Stuff Growing on Your Cheese That Isn't Mold](https://www.thephcheese.com/theres-white-stuff-growing-on-your-cheese-that-isnt-mold)
 * [2025-03-31, 14:45:35](https://news.ycombinator.com/item?id=43535653) - [AI Agents: Less Capability, More Reliability, Please](https://www.sergey.fyi/articles/reliability-vs-capability)
