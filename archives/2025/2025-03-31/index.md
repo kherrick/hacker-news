@@ -19,6 +19,7 @@
 * [2025-03-31, 09:32:54](https://news.ycombinator.com/item?id=43532967) - [Show HN: WhatsApp MCP Server](https://github.com/lharries/whatsapp-mcp)
 * [2025-03-31, 09:28:53](https://news.ycombinator.com/item?id=43532939) - [GPT-4o draws itself as a consistent type of guy](https://newsletter.danielpaleka.com/p/gpt-4o-draws-itself-as-a-consistent)
 * [2025-03-31, 09:21:05](https://news.ycombinator.com/item?id=43532893) - [UK poll: Work and money worry young people more than culture wars or climate](https://www.theguardian.com/society/2025/mar/31/work-and-money-worries-young-people-more-than-culture-wars-or-climate-uk-poll-finds)
+* [2025-03-31, 09:11:47](https://news.ycombinator.com/item?id=43532830) - [The <select> element can now be customized with CSS](https://developer.chrome.com/blog/a-customizable-select)
 * [2025-03-31, 08:53:47](https://news.ycombinator.com/item?id=43532736) - [Custom AI Chatbot Development Services: Restrictions and Opportunities](https://belitsoft.com/chatbot-development-services/custom-ai)
 * [2025-03-31, 07:48:37](https://news.ycombinator.com/item?id=43532298) - [HTTPS RR in Curl](https://daniel.haxx.se/blog/2025/03/31/https-rr-in-curl/)
 * [2025-03-31, 07:36:56](https://news.ycombinator.com/item?id=43532220) - [How to Secure Existing C and C++ Software Without Memory Safety [pdf]](https://arxiv.org/abs/2503.21145)
