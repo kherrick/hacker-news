@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-30](index.md)
 
+* [2025-03-30, 23:59:23](https://news.ycombinator.com/item?id=43529104) - [Oka.wiki](https://oka.wiki/)
+* [2025-03-30, 23:00:38](https://news.ycombinator.com/item?id=43528634) - [Luigi Mangione-Inspired Ballot Initiative Targets Health Insurance Denials](https://www.newsweek.com/luigi-mangione-inspired-ballot-initiative-targets-health-insurance-denials-2052789)
+* [2025-03-30, 22:45:54](https://news.ycombinator.com/item?id=43528496) - [Can Style Be Timeless?](https://www.mrporter.com/en-gb/journal/fashion/derek-guy-timeless-style-25197344)
 * [2025-03-30, 22:44:38](https://news.ycombinator.com/item?id=43528479) - [Xiaofeng Wang](https://www.researchgate.net/profile/Xiaofeng-Wang-35)
 * [2025-03-30, 22:28:15](https://news.ycombinator.com/item?id=43528356) - [ICE Revoking Students' Immigration Statuses Without Their or the Uni's Knowledge](https://zeteo.com/p/ice-manually-revoking-university-students-residency-status-middle-east)
 * [2025-03-30, 20:55:28](https://news.ycombinator.com/item?id=43527552) - [MAME 0.276](https://www.mamedev.org/?p=549)
