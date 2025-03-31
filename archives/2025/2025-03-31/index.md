@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-31](index.md)
 
 * [2025-03-31, 07:48:37](https://news.ycombinator.com/item?id=43532298) - [HTTPS RR in Curl](https://daniel.haxx.se/blog/2025/03/31/https-rr-in-curl/)
+* [2025-03-31, 07:36:56](https://news.ycombinator.com/item?id=43532220) - [How to Secure Existing C and C++ Software Without Memory Safety [pdf]](https://arxiv.org/abs/2503.21145)
 * [2025-03-31, 07:06:33](https://news.ycombinator.com/item?id=43532049) - [DOGE's Marko Elez is back on U.S. payroll](https://www.politico.com/news/2025/03/29/doge-marco-elez-software-engineer-us-payroll-00259303)
 * [2025-03-31, 07:00:19](https://news.ycombinator.com/item?id=43532009) - [Wondercraft (YC S22) Is Hiring](https://news.ycombinator.com/item?id=43532009)
 * [2025-03-31, 06:56:59](https://news.ycombinator.com/item?id=43531989) - [Why Norway is edging towards a fresh EU membership bid](https://www.ft.com/content/3c2516a5-7066-40f8-afce-1a529fad2955)
