@@ -12,6 +12,7 @@
 * [2025-03-31, 11:45:32](https://news.ycombinator.com/item?id=43533826) - [The Egg (By Andy Weir)](https://www.galactanet.com/oneoff/theegg.html)
 * [2025-03-31, 11:36:44](https://news.ycombinator.com/item?id=43533769) - [Bell Labs Holmdel Complex](https://en.wikipedia.org/wiki/Bell_Labs_Holmdel_Complex)
 * [2025-03-31, 11:12:34](https://news.ycombinator.com/item?id=43533595) - [Eco Cycles or How I Feel About Technology](https://maksimizmaylov.com/writing/eco-cycles/)
+* [2025-03-31, 11:03:56](https://news.ycombinator.com/item?id=43533539) - [There is no Vibe Engineering](https://serce.me/posts/2025-31-03-there-is-no-vibe-engineering)
 * [2025-03-31, 11:01:50](https://news.ycombinator.com/item?id=43533516) - [Compiler Options Hardening Guide for C and C++](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
 * [2025-03-31, 10:58:53](https://news.ycombinator.com/item?id=43533496) - [Things I Won't Work With: Dioxygen Difluoride (2010)](https://www.science.org/content/blog-post/things-i-won-t-work-dioxygen-difluoride)
 * [2025-03-31, 10:39:57](https://news.ycombinator.com/item?id=43533362) - [The demoscene as a UNESCO heritage in Sweden](https://www.goto80.com/the-demoscene-as-a-unesco-heritage-in-sweden)
