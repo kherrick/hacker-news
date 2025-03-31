@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-03-31, 20:10:56](https://news.ycombinator.com/item?id=43539334) - [CVE-2025-24259: Leaking Bookmarks on macOS](https://wts.dev/posts/bookmarks-leak/)
 * [2025-03-31, 19:35:51](https://news.ycombinator.com/item?id=43538919) - [JEP Draft: Prepare to Make Final Mean Final](https://openjdk.org/jeps/8349536)
 * [2025-03-31, 19:25:39](https://news.ycombinator.com/item?id=43538783) - [OpenAI releasing new open model in coming months, seeks community feedback](https://openai.com/open-model-feedback/)
 * [2025-03-31, 18:47:30](https://news.ycombinator.com/item?id=43538338) - [Kagi for Kids](https://help.kagi.com/kagi/plans/family-plan.html#kidslogin)
@@ -24,11 +25,10 @@
 * [2025-03-31, 10:39:57](https://news.ycombinator.com/item?id=43533362) - [The demoscene as a UNESCO heritage in Sweden](https://www.goto80.com/the-demoscene-as-a-unesco-heritage-in-sweden)
 * [2025-03-31, 10:31:39](https://news.ycombinator.com/item?id=43533306) - [James Webb Space Telescope reveals that most galaxies rotate clockwise](https://www.smithsonianmag.com/smart-news/james-webb-space-telescope-reveals-that-most-galaxies-rotate-clockwise-180986224/)
 * [2025-03-31, 09:11:47](https://news.ycombinator.com/item?id=43532830) - [The <select> element can now be customized with CSS](https://developer.chrome.com/blog/a-customizable-select)
+* [2025-03-29, 15:47:22](https://news.ycombinator.com/item?id=43516411) - [The Surprising History of Scientific Ballooning in 11 Missions](https://nautil.us/the-surprising-history-of-scientific-ballooning-in-11-missions-1200217/)
 * [2025-03-29, 14:02:53](https://news.ycombinator.com/item?id=43515622) - [Show HN: I made a little puzzle game about a rogue chess knight](https://knightride.rakhim.org/)
 * [2025-03-29, 10:12:03](https://news.ycombinator.com/item?id=43514246) - [Symmetry between up and down quarks is more broken than expected](https://phys.org/news/2025-03-symmetry-quarks-broken.html)
-* [2025-03-29, 09:05:33](https://news.ycombinator.com/item?id=43513967) - [How IMAP works under the hood](https://blog.lohr.dev/imap-introduction)
 * [2025-03-28, 22:14:33](https://news.ycombinator.com/item?id=43510393) - [In the 1980s we downloaded games from the radio](https://newslttrs.com/yes-in-the-1980s-we-downloaded-games-from-the-radio/)
-* [2025-03-28, 20:26:13](https://news.ycombinator.com/item?id=43509524) - [C and C++ prioritize performance over correctness (2023)](https://research.swtch.com/ub)
 * [2025-03-28, 10:55:04](https://news.ycombinator.com/item?id=43503833) - [Show HN: I made a C program to create a vanity SHA-1 hash for a text file](https://gist.github.com/o0101/77eb378b5076fe47c3336583330ac615)
 
 ## [Archives](archives/index.md)

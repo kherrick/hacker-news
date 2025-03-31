@@ -49,6 +49,7 @@
 * [2025-03-29, 16:09:09](https://news.ycombinator.com/item?id=43516547) - [Bolt Graphics Zeus a New GPU Architecture with Up to 2.25TB of Memory and 800GbE](https://www.servethehome.com/bolt-graphics-zeus-the-new-gpu-architecture-with-up-to-2-25tb-of-memory-and-800gbe/2/)
 * [2025-03-29, 16:01:22](https://news.ycombinator.com/item?id=43516506) - [The Matrix Calculus You Need for Deep Learning](https://explained.ai/matrix-calculus/)
 * [2025-03-29, 15:58:09](https://news.ycombinator.com/item?id=43516482) - [New Windows 11 build makes mandatory Microsoft sign-in even more mandatory](https://arstechnica.com/gadgets/2025/03/new-windows-11-build-makes-mandatory-microsoft-account-sign-in-even-more-mandatory/)
+* [2025-03-29, 15:47:22](https://news.ycombinator.com/item?id=43516411) - [The Surprising History of Scientific Ballooning in 11 Missions](https://nautil.us/the-surprising-history-of-scientific-ballooning-in-11-missions-1200217/)
 * [2025-03-29, 14:24:45](https://news.ycombinator.com/item?id=43515812) - [ASML's boss has a warning for Europe](https://www.economist.com/business/2025/03/25/asmls-boss-has-a-warning-for-europe)
 * [2025-03-29, 14:02:53](https://news.ycombinator.com/item?id=43515622) - [Show HN: I made a little puzzle game about a rogue chess knight](https://knightride.rakhim.org/)
 * [2025-03-29, 13:53:31](https://news.ycombinator.com/item?id=43515563) - [Why I'm No Longer Talking to Architects About Microservices](https://blog.container-solutions.com/why-im-no-longer-talking-to-architects-about-microservices)
