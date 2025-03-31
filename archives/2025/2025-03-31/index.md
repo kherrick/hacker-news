@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-31](index.md)
 
+* [2025-03-31, 07:06:33](https://news.ycombinator.com/item?id=43532049) - [DOGE's Marko Elez is back on U.S. payroll](https://www.politico.com/news/2025/03/29/doge-marco-elez-software-engineer-us-payroll-00259303)
 * [2025-03-31, 07:00:19](https://news.ycombinator.com/item?id=43532009) - [Wondercraft (YC S22) Is Hiring](https://news.ycombinator.com/item?id=43532009)
+* [2025-03-31, 06:56:59](https://news.ycombinator.com/item?id=43531989) - [Why Norway is edging towards a fresh EU membership bid](https://www.ft.com/content/3c2516a5-7066-40f8-afce-1a529fad2955)
 * [2025-03-31, 05:41:31](https://news.ycombinator.com/item?id=43531494) - [Agentic AI Needs Its TCP/IP Moment](https://www.anup.io/p/architecting-the-internet-of-agents)
 * [2025-03-31, 05:28:03](https://news.ycombinator.com/item?id=43531415) - [RPCEmu is an emulator of classic Acorn computer systems](https://www.marutan.net/rpcemu/index.php)
 * [2025-03-31, 05:11:23](https://news.ycombinator.com/item?id=43531310) - [Autonomous Agent: Automate phone calls with AI voice agents](https://news.ycombinator.com/item?id=43531310)
