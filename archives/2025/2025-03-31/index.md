@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-31](index.md)
 
+* [2025-03-31, 19:35:51](https://news.ycombinator.com/item?id=43538919) - [JEP Draft: Prepare to Make Final Mean Final](https://openjdk.org/jeps/8349536)
 * [2025-03-31, 19:01:29](https://news.ycombinator.com/item?id=43538503) - [Academic Purge Will Make America Stupid and Provincial Again](https://www.thenation.com/article/society/trump-academic-purge/)
 * [2025-03-31, 18:47:30](https://news.ycombinator.com/item?id=43538338) - [Kagi for Kids](https://help.kagi.com/kagi/plans/family-plan.html#kidslogin)
 * [2025-03-31, 18:35:37](https://news.ycombinator.com/item?id=43538192) - [Notes on the Pentium's Microcode Circuitry](https://www.righto.com/2025/03/pentium-microcde-rom-circuitry.html)
