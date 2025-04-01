@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-01, 11:12:43](https://news.ycombinator.com/item?id=43545378) - [An e-bike that charges off USB-C](https://www.theverge.com/news/639681/usb-c-charging-e-bike-ampler-nova-specs-price)
 * [2025-04-01, 10:36:25](https://news.ycombinator.com/item?id=43545127) - [Ukrainian Soldiers Unearth Ancient Greek Burial](https://archaeology.org/news/2025/03/31/ukrainian-soldiers-unearth-ancient-greek-burial/)
 * [2025-04-01, 10:11:21](https://news.ycombinator.com/item?id=43544979) - [Self-Hosting like it's 2025](https://kiranet.org/self-hosting-like-its-2025/)
 * [2025-04-01, 07:35:23](https://news.ycombinator.com/item?id=43543891) - [Jargonic: Industry-Tunable ASR Model](https://aiola.ai/blog/introducing-jargonic-asr/)
@@ -18,6 +17,7 @@
 * [2025-03-31, 17:29:04](https://news.ycombinator.com/item?id=43537505) - [Launch HN: Augento (YC W25) – Fine-tune your agents with reinforcement learning](https://news.ycombinator.com/item?id=43537505)
 * [2025-03-31, 15:27:03](https://news.ycombinator.com/item?id=43536146) - [MLB says Yankees’ new “torpedo bats” are legal and likely coming](https://thelibertyline.com/2025/03/30/yankees-new-torpedo-bat/)
 * [2025-03-31, 14:49:42](https://news.ycombinator.com/item?id=43535688) - [It’s not mold, it’s calcium lactate (2018)](https://www.thephcheese.com/theres-white-stuff-growing-on-your-cheese-that-isnt-mold)
+* [2025-03-31, 14:45:35](https://news.ycombinator.com/item?id=43535653) - [AI agents: Less capability, more reliability, please](https://www.sergey.fyi/articles/reliability-vs-capability)
 * [2025-03-31, 10:39:57](https://news.ycombinator.com/item?id=43533362) - [The demoscene as a UNESCO heritage in Sweden](https://www.goto80.com/the-demoscene-as-a-unesco-heritage-in-sweden)
 * [2025-03-31, 09:11:47](https://news.ycombinator.com/item?id=43532830) - [The <select> element can now be customized with CSS](https://developer.chrome.com/blog/a-customizable-select)
 * [2025-03-31, 01:37:55](https://news.ycombinator.com/item?id=43529774) - [Show HN: JavaScript PubSub in 163 Bytes](https://github.com/hassanshaikley/pico-pubsub)
