@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-01, 22:26:44](https://news.ycombinator.com/item?id=43551958) - [Why Are Credit Card Rates So High?](https://libertystreeteconomics.newyorkfed.org/2025/03/why-are-credit-card-rates-so-high/)
+* [2025-04-01, 22:22:46](https://news.ycombinator.com/item?id=43551934) - [The atrocious state of binary compatibility on Linux and how to address it](https://jangafx.com/insights/linux-binary-compatibility)
+* [2025-04-01, 22:19:35](https://news.ycombinator.com/item?id=43551915) - [Show HN: Textcase: A Python Library for Text Case Conversion](https://github.com/zobweyt/textcase)
 * [2025-04-01, 21:58:32](https://news.ycombinator.com/item?id=43551767) - [Show HN: Offline SOS signaling+recovery app for disasters/wars](https://github.com/nizarmah/igatha)
 * [2025-04-01, 21:11:43](https://news.ycombinator.com/item?id=43551397) - [DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit](https://github.com/dfd-tud/deda)
 * [2025-04-01, 21:08:16](https://news.ycombinator.com/item?id=43551361) - [A look back: WordPerfect on DOS (2023)](https://technicallywewrite.com/2023/07/30/wordperfect)
 * [2025-04-01, 21:07:23](https://news.ycombinator.com/item?id=43551352) - [Shared DNA in Music](https://pudding.cool/2025/04/music-dna/)
 * [2025-04-01, 21:00:08](https://news.ycombinator.com/item?id=43551276) - [Hightouch (YC S19) Is Hiring Front End Engineers](https://job-boards.greenhouse.io/hightouch/jobs/5437380004)
-* [2025-04-01, 19:33:38](https://news.ycombinator.com/item?id=43550556) - [How Silica Gel Took Over the World](https://www.scopeofwork.net/silica-gel/)
 * [2025-04-01, 18:40:47](https://news.ycombinator.com/item?id=43550098) - [Dave Täht has died](https://libreqos.io/2025/04/01/in-loving-memory-of-dave/)
 * [2025-04-01, 18:28:31](https://news.ycombinator.com/item?id=43549983) - [Show HN: Make SVGs interactive in React with 1 line](https://svggles.vercel.app/)
 * [2025-04-01, 17:48:45](https://news.ycombinator.com/item?id=43549618) - [Show HN: Zig Topological Sort Library for Parallel Processing](https://github.com/williamw520/toposort)
@@ -27,7 +27,7 @@
 * [2025-03-31, 14:21:15](https://news.ycombinator.com/item?id=43535376) - [AI image recognition detects bubble-like structures in the universe](https://phys.org/news/2025-03-ai-image-recognition-universe.html)
 * [2025-03-31, 07:52:54](https://news.ycombinator.com/item?id=43532328) - [Debts, Tech and Otherwise](https://blogs.newardassociates.com/blog/2025/debts-tech-and-otherwise.html)
 * [2025-03-29, 20:44:41](https://news.ycombinator.com/item?id=43518570) - [Generate autounattend.xml files for Windows 10/11](https://schneegans.de/windows/unattend-generator/)
-* [2025-03-29, 16:57:52](https://news.ycombinator.com/item?id=43516869) - [Published Doesn't Mean Paid](https://kristie-de-garis.ghost.io/published-doesnt-mean-paid/)
+* [2025-03-29, 03:27:31](https://news.ycombinator.com/item?id=43512470) - [A deliberate practice app for guitar players who want to level up](https://www.captrice.io/)
 * [2025-03-28, 21:56:57](https://news.ycombinator.com/item?id=43510238) - [US Marines to get high-speed, radar-evading electric seagliders for rescue ops](https://interestingengineering.com/military/us-marines-seagliders-for-rescue-ops)
 * [2025-03-28, 13:05:52](https://news.ycombinator.com/item?id=43504940) - [Excitable cells](https://jenevoldsen.com/posts/excitable-cells/)
 
