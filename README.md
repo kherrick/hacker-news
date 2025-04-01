@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-01, 05:15:42](https://news.ycombinator.com/item?id=43543075) - [Entire staff at federal agency that funds libraries and museums put on leave](https://www.npr.org/2025/03/31/nx-s1-5334415/doge-institute-of-museum-and-library-services)
 * [2025-04-01, 02:34:40](https://news.ycombinator.com/item?id=43542259) - [Don’t let an LLM make decisions or execute business logic](https://sgnt.ai/p/hell-out-of-llms/)
 * [2025-04-01, 02:14:47](https://news.ycombinator.com/item?id=43542131) - [The case against conversational interfaces](https://julian.digital/2025/03/27/the-case-against-conversational-interfaces/)
 * [2025-04-01, 01:02:33](https://news.ycombinator.com/item?id=43541759) - [Netflix's Media Production Suite](https://netflixtechblog.com/globalizing-productions-with-netflixs-media-production-suite-fc3c108c0a22)
@@ -10,7 +11,6 @@
 * [2025-03-31, 18:32:28](https://news.ycombinator.com/item?id=43538164) - [LLM Workflows then Agents: Getting Started with Apache Airflow](https://github.com/astronomer/airflow-ai-sdk)
 * [2025-03-31, 18:28:03](https://news.ycombinator.com/item?id=43538113) - [Honey has now lost 4M Chrome users after shady tactics were revealed](https://9to5google.com/2025/03/31/honey-extension-users-dropped-chrome-march-2025/)
 * [2025-03-31, 17:29:04](https://news.ycombinator.com/item?id=43537505) - [Launch HN: Augento (YC W25) – Fine-tune your agents with reinforcement learning](https://news.ycombinator.com/item?id=43537505)
-* [2025-03-31, 17:00:06](https://news.ycombinator.com/item?id=43537194) - [Distro (YC S24) Is Hiring a Lead Solutions Engineer](https://www.ycombinator.com/companies/distro/jobs/hJQCfVH-lead-solutions-engineer)
 * [2025-03-31, 15:57:15](https://news.ycombinator.com/item?id=43536463) - [Automating Interactive Fiction Logic Generation with LLMs in Emacs](https://blog.tendollaradventure.com/automating-story-logic-with-llms/)
 * [2025-03-31, 15:27:03](https://news.ycombinator.com/item?id=43536146) - [MLB says Yankees’ new “torpedo bats” are legal and likely coming](https://thelibertyline.com/2025/03/30/yankees-new-torpedo-bat/)
 * [2025-03-31, 15:11:33](https://news.ycombinator.com/item?id=43535953) - [Oracle attempt to hide cybersecurity incident from customers?](https://doublepulsar.com/oracle-attempt-to-hide-serious-cybersecurity-incident-from-customers-in-oracle-saas-service-9231c8daff4a)
