@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-04-01, 17:00:49",
+      "https://news.ycombinator.com/item?id=43549072"
+    ],
+    [
+      "Show HN: Qwen-2.5-32B is now the best open source OCR model",
+      "https://github.com/getomni-ai/benchmark/blob/main/README.md"
+    ]
+  ],
+  [
+    [
       "2025-04-01, 16:19:28",
       "https://news.ycombinator.com/item?id=43548589"
     ],
@@ -257,16 +267,6 @@
     [
       "Experimental Tauri Verso Integration",
       "https://v2.tauri.app/blog/tauri-verso-integration/"
-    ]
-  ],
-  [
-    [
-      "2025-03-29, 16:49:57",
-      "https://news.ycombinator.com/item?id=43516824"
-    ],
-    [
-      "Exploring Anagram Search in PostgreSQL with Recursive CTEs",
-      "https://medium.com/@thibaut.frain/exploring-anagram-search-in-postgresql-with-recursive-ctes-7b0c42c59d28"
     ]
   ],
   [
