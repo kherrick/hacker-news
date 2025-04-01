@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-01](index.md)
 
+* [2025-04-01, 17:48:45](https://news.ycombinator.com/item?id=43549618) - [Show HN: Zig Topological Sort Library for Parallel Processing](https://github.com/williamw520/toposort)
 * [2025-04-01, 17:19:48](https://news.ycombinator.com/item?id=43549293) - [The Myst Graph: A New Perspective on Myst](https://glthr.com/myst-graph-1)
 * [2025-04-01, 17:01:07](https://news.ycombinator.com/item?id=43549076) - [Meru Health (YC S18) Is Hiring](https://www.ycombinator.com/companies/meru-health/jobs/ZjKcsyk-director-growth-marketing)
 * [2025-04-01, 16:19:28](https://news.ycombinator.com/item?id=43548589) - [Camelgate NPM Outage (Cloudflare)](https://news.ycombinator.com/item?id=43548589)
