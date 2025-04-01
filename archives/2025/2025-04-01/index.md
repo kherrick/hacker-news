@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-01](index.md)
 
+* [2025-04-01, 11:12:43](https://news.ycombinator.com/item?id=43545378) - [An e-bike that charges off USB-C](https://www.theverge.com/news/639681/usb-c-charging-e-bike-ampler-nova-specs-price)
 * [2025-04-01, 10:36:25](https://news.ycombinator.com/item?id=43545127) - [Ukrainian Soldiers Unearth Ancient Greek Burial](https://archaeology.org/news/2025/03/31/ukrainian-soldiers-unearth-ancient-greek-burial/)
 * [2025-04-01, 10:11:21](https://news.ycombinator.com/item?id=43544979) - [Self-Hosting like it's 2025](https://kiranet.org/self-hosting-like-its-2025/)
 * [2025-04-01, 09:14:55](https://news.ycombinator.com/item?id=43544534) - [US accidentally sent Maryland father to Salvadorian prison, can't get him back](https://www.independent.co.uk/news/world/americas/us-politics/trump-el-salvador-abrego-garcia-b2725002.html)
