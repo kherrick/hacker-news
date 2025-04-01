@@ -12,6 +12,7 @@
 * [2025-04-01, 17:48:45](https://news.ycombinator.com/item?id=43549618) - [Show HN: Zig Topological Sort Library for Parallel Processing](https://github.com/williamw520/toposort)
 * [2025-04-01, 17:19:48](https://news.ycombinator.com/item?id=43549293) - [The Myst Graph: A New Perspective on Myst](https://glthr.com/myst-graph-1)
 * [2025-04-01, 17:00:49](https://news.ycombinator.com/item?id=43549072) - [Show HN: Qwen-2.5-32B is now the best open source OCR model](https://github.com/getomni-ai/benchmark/blob/main/README.md)
+* [2025-04-01, 16:19:28](https://news.ycombinator.com/item?id=43548589) - [Tell HN: Camelgate NPM Outage (Cloudflare)](https://news.ycombinator.com/item?id=43548589)
 * [2025-04-01, 15:49:01](https://news.ycombinator.com/item?id=43548217) - [Glubux's Powerwall (2016)](https://secondlifestorage.com/index.php?threads/glubuxs-powerwall.126/)
 * [2025-04-01, 15:39:58](https://news.ycombinator.com/item?id=43548108) - [RubyUI (Former PhlexUI): Ruby Gem for RubyUI Components](https://github.com/ruby-ui/ruby_ui)
 * [2025-04-01, 15:17:59](https://news.ycombinator.com/item?id=43547835) - [Show HN: Terminal dashboard that throttles my PC during peak electricity rates](https://www.naveen.ing/cli-for-smartplugs/)
@@ -26,9 +27,8 @@
 * [2025-03-31, 16:49:26](https://news.ycombinator.com/item?id=43537079) - [Cuneiforms: New digital tool for translating ancient texts](https://www.sciencedaily.com/releases/2025/03/250326123733.htm)
 * [2025-03-31, 14:21:15](https://news.ycombinator.com/item?id=43535376) - [AI image recognition detects bubble-like structures in the universe](https://phys.org/news/2025-03-ai-image-recognition-universe.html)
 * [2025-03-31, 07:52:54](https://news.ycombinator.com/item?id=43532328) - [Debts, Tech and Otherwise](https://blogs.newardassociates.com/blog/2025/debts-tech-and-otherwise.html)
+* [2025-03-30, 05:48:36](https://news.ycombinator.com/item?id=43521682) - [Jack London, Jack Johnson, and the Fight of the Century](https://publicdomainreview.org/essay/jack-london-jack-johnson-and-the-fight-of-the-century/)
 * [2025-03-29, 20:44:41](https://news.ycombinator.com/item?id=43518570) - [Generate autounattend.xml files for Windows 10/11](https://schneegans.de/windows/unattend-generator/)
-* [2025-03-29, 03:27:31](https://news.ycombinator.com/item?id=43512470) - [A deliberate practice app for guitar players who want to level up](https://www.captrice.io/)
-* [2025-03-28, 21:56:57](https://news.ycombinator.com/item?id=43510238) - [US Marines to get high-speed, radar-evading electric seagliders for rescue ops](https://interestingengineering.com/military/us-marines-seagliders-for-rescue-ops)
 * [2025-03-28, 13:05:52](https://news.ycombinator.com/item?id=43504940) - [Excitable cells](https://jenevoldsen.com/posts/excitable-cells/)
 
 ## [Archives](archives/index.md)
