@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-01](index.md)
 
+* [2025-04-01, 08:39:15](https://news.ycombinator.com/item?id=43544293) - ['A hostile state': Why some travellers are avoiding the US](https://www.bbc.com/travel/article/20250328-the-people-boycotting-travel-to-the-us)
 * [2025-04-01, 07:35:23](https://news.ycombinator.com/item?id=43543891) - [Jargonic: Industry-Tunable ASR Model](https://aiola.ai/blog/introducing-jargonic-asr/)
 * [2025-04-01, 07:01:30](https://news.ycombinator.com/item?id=43543681) - [Photoroom (YC S20) Is Hiring Rust, API, and Front End Engineers (Europe, Remote)](https://jobs.ashbyhq.com/photoroom?departmentId=5a691019-9344-462b-9f4b-4efb68086e05&utm_source=yc)
 * [2025-04-01, 06:22:10](https://news.ycombinator.com/item?id=43543429) - [LLM providers on the cusp of an 'extinction' phase as capex realities bite](https://www.theregister.com/2025/03/31/llm_providers_extinction/)
