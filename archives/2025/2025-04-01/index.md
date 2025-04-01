@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-01](index.md)
 
+* [2025-04-01, 21:11:43](https://news.ycombinator.com/item?id=43551397) - [DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit](https://github.com/dfd-tud/deda)
+* [2025-04-01, 21:08:16](https://news.ycombinator.com/item?id=43551361) - [A look back: WordPerfect on DOS (2023)](https://technicallywewrite.com/2023/07/30/wordperfect)
 * [2025-04-01, 21:00:08](https://news.ycombinator.com/item?id=43551276) - [Hightouch (YC S19) Is Hiring Front End Engineers](https://job-boards.greenhouse.io/hightouch/jobs/5437380004)
 * [2025-04-01, 20:31:34](https://news.ycombinator.com/item?id=43551012) - [BYD sales soar as Tesla continues to struggle in Europe](https://archive.is/2025.04.01-133452/https://www.ft.com/content/c97bd5e4-4eaa-4850-b94c-583fa544250c)
 * [2025-04-01, 19:33:38](https://news.ycombinator.com/item?id=43550556) - [Silica Gel Took over the World](https://www.scopeofwork.net/silica-gel/)
