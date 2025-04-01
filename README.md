@@ -20,6 +20,7 @@
 * [2025-03-31, 14:49:42](https://news.ycombinator.com/item?id=43535688) - [It’s not mold, it’s calcium lactate (2018)](https://www.thephcheese.com/theres-white-stuff-growing-on-your-cheese-that-isnt-mold)
 * [2025-03-31, 14:45:35](https://news.ycombinator.com/item?id=43535653) - [AI agents: Less capability, more reliability, please](https://www.sergey.fyi/articles/reliability-vs-capability)
 * [2025-03-31, 10:39:57](https://news.ycombinator.com/item?id=43533362) - [The demoscene as a UNESCO heritage in Sweden](https://www.goto80.com/the-demoscene-as-a-unesco-heritage-in-sweden)
+* [2025-03-31, 10:31:39](https://news.ycombinator.com/item?id=43533306) - [James Webb Space Telescope reveals that most galaxies rotate clockwise](https://www.smithsonianmag.com/smart-news/james-webb-space-telescope-reveals-that-most-galaxies-rotate-clockwise-180986224/)
 * [2025-03-31, 09:11:47](https://news.ycombinator.com/item?id=43532830) - [The <select> element can now be customized with CSS](https://developer.chrome.com/blog/a-customizable-select)
 * [2025-03-31, 01:37:55](https://news.ycombinator.com/item?id=43529774) - [Show HN: JavaScript PubSub in 163 Bytes](https://github.com/hassanshaikley/pico-pubsub)
 * [2025-03-29, 21:35:38](https://news.ycombinator.com/item?id=43518931) - [Why America now eats a crazy number of avocados](https://www.wsj.com/business/avocado-prices-tariffs-mexico-imports-3a951021)
@@ -28,7 +29,6 @@
 * [2025-03-29, 14:32:40](https://news.ycombinator.com/item?id=43515877) - [The Pragmatic Open Source Contributor](https://diurnal.st/2025/03/02/the-pragmatic-open-source-contributor.html)
 * [2025-03-29, 03:27:31](https://news.ycombinator.com/item?id=43512470) - [A deliberate practice app for guitar players who want to level up](https://www.captrice.io/)
 * [2025-03-29, 00:31:27](https://news.ycombinator.com/item?id=43511529) - [The Guardian flourishes without a paywall](https://nymag.com/intelligencer/article/how-the-guardian-us-flourishes-without-a-paywall.html)
-* [2025-03-28, 20:55:50](https://news.ycombinator.com/item?id=43509733) - [Charlie Javice convicted of defrauding JPMorgan in $175M startup sale](https://apnews.com/article/charlie-javice-convicted-fraud-jp-morgan-783cb7b089f6ab5d814c4c0984f0302b)
 * [2025-03-28, 13:41:00](https://news.ycombinator.com/item?id=43505340) - [Interview with the Creator of Deluxe Ski Jump](https://spillhistorie.no/interview-with-the-creator-of-deluxe-ski-jump/)
 
 ## [Archives](archives/index.md)
