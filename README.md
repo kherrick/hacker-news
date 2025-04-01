@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-01, 05:47:41](https://news.ycombinator.com/item?id=43543241) - [Show HN: Nue – Apps lighter than a React button](https://nuejs.org/blog/large-scale-apps/)
 * [2025-04-01, 02:34:40](https://news.ycombinator.com/item?id=43542259) - [Don’t let an LLM make decisions or execute business logic](https://sgnt.ai/p/hell-out-of-llms/)
 * [2025-04-01, 02:14:47](https://news.ycombinator.com/item?id=43542131) - [The case against conversational interfaces](https://julian.digital/2025/03/27/the-case-against-conversational-interfaces/)
 * [2025-04-01, 01:02:33](https://news.ycombinator.com/item?id=43541759) - [Netflix's Media Production Suite](https://netflixtechblog.com/globalizing-productions-with-netflixs-media-production-suite-fc3c108c0a22)
@@ -13,7 +14,6 @@
 * [2025-03-31, 17:00:06](https://news.ycombinator.com/item?id=43537194) - [Distro (YC S24) Is Hiring a Lead Solutions Engineer](https://www.ycombinator.com/companies/distro/jobs/hJQCfVH-lead-solutions-engineer)
 * [2025-03-31, 15:57:15](https://news.ycombinator.com/item?id=43536463) - [Automating Interactive Fiction Logic Generation with LLMs in Emacs](https://blog.tendollaradventure.com/automating-story-logic-with-llms/)
 * [2025-03-31, 15:27:03](https://news.ycombinator.com/item?id=43536146) - [MLB says Yankees’ new “torpedo bats” are legal and likely coming](https://thelibertyline.com/2025/03/30/yankees-new-torpedo-bat/)
-* [2025-03-31, 15:11:33](https://news.ycombinator.com/item?id=43535953) - [Oracle attempt to hide cybersecurity incident from customers?](https://doublepulsar.com/oracle-attempt-to-hide-serious-cybersecurity-incident-from-customers-in-oracle-saas-service-9231c8daff4a)
 * [2025-03-31, 15:10:39](https://news.ycombinator.com/item?id=43535943) - [Turso SQLite Offline Sync Public Beta](https://turso.tech/blog/turso-offline-sync-public-beta)
 * [2025-03-31, 14:49:42](https://news.ycombinator.com/item?id=43535688) - [It’s not mold, it’s calcium lactate (2018)](https://www.thephcheese.com/theres-white-stuff-growing-on-your-cheese-that-isnt-mold)
 * [2025-03-31, 14:45:35](https://news.ycombinator.com/item?id=43535653) - [AI agents: Less capability, more reliability, please](https://www.sergey.fyi/articles/reliability-vs-capability)
