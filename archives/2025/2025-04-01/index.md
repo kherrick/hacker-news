@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-01](index.md)
 
+* [2025-04-01, 22:26:44](https://news.ycombinator.com/item?id=43551958) - [Why Are Credit Card Rates So High?](https://libertystreeteconomics.newyorkfed.org/2025/03/why-are-credit-card-rates-so-high/)
 * [2025-04-01, 21:11:43](https://news.ycombinator.com/item?id=43551397) - [DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit](https://github.com/dfd-tud/deda)
 * [2025-04-01, 21:08:16](https://news.ycombinator.com/item?id=43551361) - [A look back: WordPerfect on DOS (2023)](https://technicallywewrite.com/2023/07/30/wordperfect)
 * [2025-04-01, 21:07:23](https://news.ycombinator.com/item?id=43551352) - [Shared DNA in Music](https://pudding.cool/2025/04/music-dna/)
