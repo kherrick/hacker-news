@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-01, 09:14:55](https://news.ycombinator.com/item?id=43544534) - [US accidentally sent Maryland father to Salvadorian prison, can't get him back](https://www.independent.co.uk/news/world/americas/us-politics/trump-el-salvador-abrego-garcia-b2725002.html)
 * [2025-04-01, 07:35:23](https://news.ycombinator.com/item?id=43543891) - [Jargonic: Industry-Tunable ASR Model](https://aiola.ai/blog/introducing-jargonic-asr/)
 * [2025-04-01, 07:01:30](https://news.ycombinator.com/item?id=43543681) - [Photoroom (YC S20) Is Hiring Rust, API, and Front End Engineers (Europe, Remote)](https://jobs.ashbyhq.com/photoroom?departmentId=5a691019-9344-462b-9f4b-4efb68086e05&utm_source=yc)
 * [2025-04-01, 06:22:10](https://news.ycombinator.com/item?id=43543429) - [LLM providers on the cusp of an 'extinction' phase as capex realities bite](https://www.theregister.com/2025/03/31/llm_providers_extinction/)
@@ -30,6 +29,7 @@
 * [2025-03-29, 03:27:31](https://news.ycombinator.com/item?id=43512470) - [A deliberate practice app for guitar players who want to level up](https://www.captrice.io/)
 * [2025-03-29, 00:31:27](https://news.ycombinator.com/item?id=43511529) - [The Guardian flourishes without a paywall](https://nymag.com/intelligencer/article/how-the-guardian-us-flourishes-without-a-paywall.html)
 * [2025-03-28, 13:41:00](https://news.ycombinator.com/item?id=43505340) - [Interview with the Creator of Deluxe Ski Jump](https://spillhistorie.no/interview-with-the-creator-of-deluxe-ski-jump/)
+* [2025-03-28, 13:05:52](https://news.ycombinator.com/item?id=43504940) - [Interactive article about heart arrhythmias](https://jenevoldsen.com/posts/excitable-cells/)
 
 ## [Archives](archives/index.md)
 

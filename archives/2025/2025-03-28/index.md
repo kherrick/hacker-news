@@ -49,6 +49,7 @@
 * [2025-03-28, 13:41:00](https://news.ycombinator.com/item?id=43505340) - [Interview with the Creator of Deluxe Ski Jump](https://spillhistorie.no/interview-with-the-creator-of-deluxe-ski-jump/)
 * [2025-03-28, 13:40:41](https://news.ycombinator.com/item?id=43505334) - [The Biology of B-Movie Monsters (2003)](https://fathom.lib.uchicago.edu/2/21701757/)
 * [2025-03-28, 13:13:04](https://news.ycombinator.com/item?id=43505022) - [Cross-Platform P2P Wi-Fi: How the EU Killed AWDL](https://www.ditto.com/blog/cross-platform-p2p-wi-fi-how-the-eu-killed-awdl)
+* [2025-03-28, 13:05:52](https://news.ycombinator.com/item?id=43504940) - [Interactive article about heart arrhythmias](https://jenevoldsen.com/posts/excitable-cells/)
 * [2025-03-28, 12:52:12](https://news.ycombinator.com/item?id=43504765) - [Trump's FCC Starts Harassing Public Broadcasters with Bogus Investigations](https://www.techdirt.com/2025/03/28/trumps-fcc-starts-harassing-public-broadcasters-with-bogus-investigations/)
 * [2025-03-28, 12:25:00](https://news.ycombinator.com/item?id=43504514) - [Claim for a Missing Tooth](https://tf230.matteason.co.uk/)
 * [2025-03-28, 12:18:26](https://news.ycombinator.com/item?id=43504451) - [Are Levi's from Amazon Different from Levi's from Levi's?](https://nymag.com/strategist/article/levis-amazon-jeans-testing.html)
