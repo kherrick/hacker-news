@@ -9,6 +9,7 @@
 * [2025-04-01, 09:14:55](https://news.ycombinator.com/item?id=43544534) - [US accidentally sent Maryland father to Salvadorian prison, can't get him back](https://www.independent.co.uk/news/world/americas/us-politics/trump-el-salvador-abrego-garcia-b2725002.html)
 * [2025-04-01, 08:39:15](https://news.ycombinator.com/item?id=43544293) - ['A hostile state': Why some travellers are avoiding the US](https://www.bbc.com/travel/article/20250328-the-people-boycotting-travel-to-the-us)
 * [2025-04-01, 07:35:23](https://news.ycombinator.com/item?id=43543891) - [Jargonic: Industry-Tunable ASR Model](https://aiola.ai/blog/introducing-jargonic-asr/)
+* [2025-04-01, 07:11:30](https://news.ycombinator.com/item?id=43543743) - [The April Fools joke that might have got me fired](http://oldvcr.blogspot.com/2025/04/the-april-fools-joke-that-might-have.html)
 * [2025-04-01, 07:01:30](https://news.ycombinator.com/item?id=43543681) - [Photoroom (YC S20) Is Hiring Rust, API, and Front End Engineers (Europe, Remote)](https://jobs.ashbyhq.com/photoroom?departmentId=5a691019-9344-462b-9f4b-4efb68086e05&utm_source=yc)
 * [2025-04-01, 06:22:10](https://news.ycombinator.com/item?id=43543429) - [LLM providers on the cusp of an 'extinction' phase as capex realities bite](https://www.theregister.com/2025/03/31/llm_providers_extinction/)
 * [2025-04-01, 05:47:41](https://news.ycombinator.com/item?id=43543241) - [Show HN: Nue – Apps lighter than a React button](https://nuejs.org/blog/large-scale-apps/)

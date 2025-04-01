@@ -43,6 +43,7 @@
 * [2025-03-29, 18:00:48](https://news.ycombinator.com/item?id=43517301) - [Why Apple's Severance Gets Edited over Remote Desktop Software](https://tedium.co/2025/03/29/severance-apple-remote-editing-weirdness/)
 * [2025-03-29, 17:55:12](https://news.ycombinator.com/item?id=43517262) - [AI generated Ghibli images go viral as OpenAI loosens its rules](https://www.washingtonpost.com/technology/2025/03/28/chatgpt-ghibli-ai-images-copyright/)
 * [2025-03-29, 17:54:21](https://news.ycombinator.com/item?id=43517257) - [TSMC, Intel and other top chipmakers slow Japan, Malaysia expansions](https://asia.nikkei.com/Spotlight/Supply-Chain/TSMC-Intel-and-other-top-chipmakers-slow-Japan-Malaysia-expansions)
+* [2025-03-29, 17:52:05](https://news.ycombinator.com/item?id=43517243) - [Open-source browser-use/CUA equivalent for androids: mobile-use](https://github.com/runablehq/mobile-use)
 * [2025-03-29, 17:51:12](https://news.ycombinator.com/item?id=43517234) - [Vramfs: Vram Based Filesystem for Linux](https://github.com/Overv/vramfs)
 * [2025-03-29, 17:32:28](https://news.ycombinator.com/item?id=43517108) - [Making of the New York and Erie Railroad Organizational Diagram](https://www.c82.net/blog/?id=98)
 * [2025-03-29, 16:59:41](https://news.ycombinator.com/item?id=43516879) - [Around the World, Many People Are Leaving Their Childhood Religions](https://www.pewresearch.org/religion/2025/03/26/around-the-world-many-people-are-leaving-their-childhood-religions/)
