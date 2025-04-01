@@ -48,6 +48,7 @@
 * [2025-03-29, 17:51:12](https://news.ycombinator.com/item?id=43517234) - [Vramfs: Vram Based Filesystem for Linux](https://github.com/Overv/vramfs)
 * [2025-03-29, 17:32:28](https://news.ycombinator.com/item?id=43517108) - [Making of the New York and Erie Railroad Organizational Diagram](https://www.c82.net/blog/?id=98)
 * [2025-03-29, 16:59:41](https://news.ycombinator.com/item?id=43516879) - [Around the World, Many People Are Leaving Their Childhood Religions](https://www.pewresearch.org/religion/2025/03/26/around-the-world-many-people-are-leaving-their-childhood-religions/)
+* [2025-03-29, 16:49:57](https://news.ycombinator.com/item?id=43516824) - [Exploring Anagram Search in PostgreSQL with Recursive CTEs](https://medium.com/@thibaut.frain/exploring-anagram-search-in-postgresql-with-recursive-ctes-7b0c42c59d28)
 * [2025-03-29, 16:38:01](https://news.ycombinator.com/item?id=43516733) - [Accessible open textbooks in math-heavy disciplines](https://richardzach.org/2025/03/accessible-open-textbooks-in-math-heavy-disciplines/)
 * [2025-03-29, 16:32:55](https://news.ycombinator.com/item?id=43516693) - [US investigates Stanford, UC schools over affirmative action](https://www.reuters.com/world/us/us-justice-dept-probing-admissions-policies-stanford-university-california-2025-03-27/)
 * [2025-03-29, 16:09:09](https://news.ycombinator.com/item?id=43516547) - [Bolt Graphics Zeus a New GPU Architecture with Up to 2.25TB of Memory and 800GbE](https://www.servethehome.com/bolt-graphics-zeus-the-new-gpu-architecture-with-up-to-2-25tb-of-memory-and-800gbe/2/)
