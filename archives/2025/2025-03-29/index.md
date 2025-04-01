@@ -10,6 +10,7 @@
 * [2025-03-29, 22:52:55](https://news.ycombinator.com/item?id=43519459) - [Vibe Coding with Cursor](https://www.dolthub.com/blog/2025-03-29-vibin/)
 * [2025-03-29, 21:58:42](https://news.ycombinator.com/item?id=43519100) - [\"Moonshots\" Initiative to Secure the Future of RISC OS](https://www.riscosopen.org/news/articles/2025/03/28/moonshots-initiative-to-secure-the-future-of-the-os)
 * [2025-03-29, 21:47:16](https://news.ycombinator.com/item?id=43518999) - [De-Atomization Is the Secret to Happiness](https://www.nateliason.com/blog/de-atomization-is-the-secret-to-happiness)
+* [2025-03-29, 21:35:38](https://news.ycombinator.com/item?id=43518931) - [Why America now eats a crazy number of avocados](https://www.wsj.com/business/avocado-prices-tariffs-mexico-imports-3a951021)
 * [2025-03-29, 21:34:02](https://news.ycombinator.com/item?id=43518917) - [Convert Linux to Windows](https://philipbohun.com/blog/0007.html)
 * [2025-03-29, 21:26:32](https://news.ycombinator.com/item?id=43518866) - [Everyone knows all the apps on your phone](https://peabee.substack.com/p/everyone-knows-what-apps-you-use)
 * [2025-03-29, 21:00:35](https://news.ycombinator.com/item?id=43518695) - [Spark AI (YC W24) Is Hiring a Full-Stack Engineer in San Francisco](https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack)
