@@ -25,11 +25,11 @@
 * [2025-03-31, 10:39:57](https://news.ycombinator.com/item?id=43533362) - [The demoscene as a UNESCO heritage in Sweden](https://www.goto80.com/the-demoscene-as-a-unesco-heritage-in-sweden)
 * [2025-03-31, 10:31:39](https://news.ycombinator.com/item?id=43533306) - [James Webb Space Telescope reveals that most galaxies rotate clockwise](https://www.smithsonianmag.com/smart-news/james-webb-space-telescope-reveals-that-most-galaxies-rotate-clockwise-180986224/)
 * [2025-03-31, 09:11:47](https://news.ycombinator.com/item?id=43532830) - [The <select> element can now be customized with CSS](https://developer.chrome.com/blog/a-customizable-select)
-* [2025-03-29, 15:47:22](https://news.ycombinator.com/item?id=43516411) - [The Surprising History of Scientific Ballooning in 11 Missions](https://nautil.us/the-surprising-history-of-scientific-ballooning-in-11-missions-1200217/)
 * [2025-03-29, 14:02:53](https://news.ycombinator.com/item?id=43515622) - [Show HN: I made a little puzzle game about a rogue chess knight](https://knightride.rakhim.org/)
 * [2025-03-29, 10:12:03](https://news.ycombinator.com/item?id=43514246) - [Symmetry between up and down quarks is more broken than expected](https://phys.org/news/2025-03-symmetry-quarks-broken.html)
 * [2025-03-29, 00:31:27](https://news.ycombinator.com/item?id=43511529) - [The Guardian flourishes without a paywall](https://nymag.com/intelligencer/article/how-the-guardian-us-flourishes-without-a-paywall.html)
 * [2025-03-28, 22:14:33](https://news.ycombinator.com/item?id=43510393) - [In the 1980s we downloaded games from the radio](https://newslttrs.com/yes-in-the-1980s-we-downloaded-games-from-the-radio/)
+* [2025-03-28, 10:55:04](https://news.ycombinator.com/item?id=43503833) - [Show HN: I made a C program to create a vanity SHA-1 hash for a text file](https://gist.github.com/o0101/77eb378b5076fe47c3336583330ac615)
 
 ## [Archives](archives/index.md)
 
