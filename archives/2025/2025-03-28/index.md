@@ -37,6 +37,7 @@
 * [2025-03-28, 15:22:36](https://news.ycombinator.com/item?id=43506574) - [Disk I/O bottlenecks in GitHub Actions](https://depot.dev/blog/uncovering-disk-io-bottlenecks-github-actions-ci)
 * [2025-03-28, 15:00:00](https://news.ycombinator.com/item?id=43506310) - [The Pyrex Glass Controversy That Just Won't Die (2019)](https://gizmodo.com/the-pyrex-glass-controversy-that-just-wont-die-1833040962)
 * [2025-03-28, 14:55:54](https://news.ycombinator.com/item?id=43506238) - [Decomposing a Factorial into Large Factors](https://terrytao.wordpress.com/2025/03/26/decomposing-a-factorial-into-large-factors/)
+* [2025-03-28, 14:50:21](https://news.ycombinator.com/item?id=43506149) - [New vaccine targets sugar molecules to protect from Covid, MERS, and Common Cold](https://scitechdaily.com/universal-coronavirus-vaccine-breakthrough-a-single-shot-that-could-protect-you-from-covid-mers-and-the-common-cold/)
 * [2025-03-28, 14:44:59](https://news.ycombinator.com/item?id=43506068) - [Show HN: Cursor IDE now remembers your coding prefs using MCP](https://news.ycombinator.com/item?id=43506068)
 * [2025-03-28, 14:18:28](https://news.ycombinator.com/item?id=43505748) - [The Biology of a Large Language Model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)
 * [2025-03-28, 14:15:11](https://news.ycombinator.com/item?id=43505700) - [Despite Ukraine War, Europe Imported Even More Russian Gas Last Year](https://e360.yale.edu/digest/europe-russia-ukraine-war-natural-gas-2024)
