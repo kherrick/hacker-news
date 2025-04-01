@@ -9,6 +9,7 @@
 * [2025-03-31, 22:02:38](https://news.ycombinator.com/item?id=43540452) - [OpenAI closes $40B funding round, startup now valued at $300B](https://www.cnbc.com/2025/03/31/openai-closes-40-billion-in-funding-the-largest-private-fundraise-in-history-softbank-chatgpt.html)
 * [2025-03-31, 21:53:53](https://news.ycombinator.com/item?id=43540387) - [The US Assault on Science: National Academies Letter](https://www.nytimes.com/2025/03/31/science/trump-science-nas-letter.html)
 * [2025-03-31, 21:44:54](https://news.ycombinator.com/item?id=43540326) - [Everything Is Ghibli](https://carly.substack.com/p/everything-is-ghibli)
+* [2025-03-31, 21:25:33](https://news.ycombinator.com/item?id=43540157) - [FSKit: Implement a file system that runs in user space](https://developer.apple.com/documentation/fskit)
 * [2025-03-31, 20:29:58](https://news.ycombinator.com/item?id=43539585) - [Go Optimization Guide](https://goperf.dev/)
 * [2025-03-31, 20:10:56](https://news.ycombinator.com/item?id=43539334) - [CVE-2025-24259: Leaking Bookmarks on macOS](https://wts.dev/posts/bookmarks-leak/)
 * [2025-03-31, 19:52:29](https://news.ycombinator.com/item?id=43539103) - [KOReader: Open-Source eBook Reader](https://github.com/koreader/koreader)

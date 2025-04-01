@@ -88,6 +88,7 @@
 * [2025-03-29, 03:55:02](https://news.ycombinator.com/item?id=43512589) - [Plain – a web framework for building products with Python](https://plainframework.com/)
 * [2025-03-29, 03:43:58](https://news.ycombinator.com/item?id=43512539) - [Pentagon to Remove Enola Gay](https://www.nbcwashington.com/news/national-international/war-heroes-and-military-firsts-are-among-26000-images-flagged-for-removal-in-pentagons-dei-purge/3861030/)
 * [2025-03-29, 03:34:07](https://news.ycombinator.com/item?id=43512495) - [OpenWrt Two Approval](https://openwrt.org/voting/2025-02-12-openwrt-two)
+* [2025-03-29, 03:27:31](https://news.ycombinator.com/item?id=43512470) - [A deliberate practice app for guitar players who want to level up](https://www.captrice.io/)
 * [2025-03-29, 02:30:48](https://news.ycombinator.com/item?id=43512206) - [Analysis of amplified ground motion in Bangkok from recent earthquakes (2023)](https://geoenvironmental-disasters.springeropen.com/articles/10.1186/s40677-023-00259-0)
 * [2025-03-29, 02:19:01](https://news.ycombinator.com/item?id=43512158) - [The Gen X Career Meltdown](https://www.nytimes.com/interactive/2025/03/28/style/gen-x-creative-work.html)
 * [2025-03-29, 01:02:33](https://news.ycombinator.com/item?id=43511742) - [Show HN: Multi UPS SNMP based shutdown](https://nupst.serve.zone)

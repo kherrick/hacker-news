@@ -15,6 +15,7 @@
 * [2025-03-28, 21:37:21](https://news.ycombinator.com/item?id=43510036) - [DIY PTP Grandmaster Clock with a Raspberry Pi](https://www.jeffgeerling.com/blog/2025/diy-ptp-grandmaster-clock-raspberry-pi)
 * [2025-03-28, 21:23:42](https://news.ycombinator.com/item?id=43509923) - [xAI has acquired X, xAI now valued at $80 billion](https://twitter.com/elonmusk/status/1905731750275510312)
 * [2025-03-28, 21:01:49](https://news.ycombinator.com/item?id=43509782) - [Finley (YC W21) Is Hiring a Technical Implementations Specialist](https://ats.rippling.com/finley-technologies/jobs)
+* [2025-03-28, 20:55:50](https://news.ycombinator.com/item?id=43509733) - [Charlie Javice convicted of defrauding JPMorgan in $175M startup sale](https://apnews.com/article/charlie-javice-convicted-fraud-jp-morgan-783cb7b089f6ab5d814c4c0984f0302b)
 * [2025-03-28, 20:48:00](https://news.ycombinator.com/item?id=43509679) - [FDIC says banks can engage in crypto activities without prior approval](https://www.reuters.com/business/finance/fdic-says-banks-can-engage-crypto-activities-without-prior-approval-2025-03-28/)
 * [2025-03-28, 20:37:45](https://news.ycombinator.com/item?id=43509607) - [TV is watching you – Companies inventing new ways to make money off your data](https://www.vox.com/technology/405879/roku-amazon-netflix-moana-disney)
 * [2025-03-28, 20:33:50](https://news.ycombinator.com/item?id=43509576) - ['You're His Property': How One Sheriff Used Inmate Labor on His Family Farm](https://www.nytimes.com/2025/03/27/us/mississippi-inmate-labor-sheriff-farm.html)
