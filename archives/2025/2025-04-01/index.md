@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-01](index.md)
 
 * [2025-04-01, 22:26:44](https://news.ycombinator.com/item?id=43551958) - [Why Are Credit Card Rates So High?](https://libertystreeteconomics.newyorkfed.org/2025/03/why-are-credit-card-rates-so-high/)
+* [2025-04-01, 21:58:32](https://news.ycombinator.com/item?id=43551767) - [Show HN: Offline SOS signaling+recovery app for disasters/wars](https://github.com/nizarmah/igatha)
 * [2025-04-01, 21:11:43](https://news.ycombinator.com/item?id=43551397) - [DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit](https://github.com/dfd-tud/deda)
 * [2025-04-01, 21:08:16](https://news.ycombinator.com/item?id=43551361) - [A look back: WordPerfect on DOS (2023)](https://technicallywewrite.com/2023/07/30/wordperfect)
 * [2025-04-01, 21:07:23](https://news.ycombinator.com/item?id=43551352) - [Shared DNA in Music](https://pudding.cool/2025/04/music-dna/)
@@ -19,6 +20,7 @@
 * [2025-04-01, 17:01:07](https://news.ycombinator.com/item?id=43549076) - [Meru Health (YC S18) Is Hiring](https://www.ycombinator.com/companies/meru-health/jobs/ZjKcsyk-director-growth-marketing)
 * [2025-04-01, 17:00:49](https://news.ycombinator.com/item?id=43549072) - [Show HN: Qwen-2.5-32B is now the best open source OCR model](https://github.com/getomni-ai/benchmark/blob/main/README.md)
 * [2025-04-01, 16:19:28](https://news.ycombinator.com/item?id=43548589) - [Camelgate NPM Outage (Cloudflare)](https://news.ycombinator.com/item?id=43548589)
+* [2025-04-01, 15:49:01](https://news.ycombinator.com/item?id=43548217) - [Glubux's Powerwall (2016)](https://secondlifestorage.com/index.php?threads/glubuxs-powerwall.126/)
 * [2025-04-01, 15:49:01](https://news.ycombinator.com/item?id=43548217) - [A Man Powers Home for 8 Years Using 1k Old Laptop Batteries](https://techoreon.com/a-man-powers-home-8-years-laptop-batteries/)
 * [2025-04-01, 15:39:58](https://news.ycombinator.com/item?id=43548108) - [RubyUI (Former PhlexUI): Ruby Gem for RubyUI Components](https://github.com/ruby-ui/ruby_ui)
 * [2025-04-01, 15:17:59](https://news.ycombinator.com/item?id=43547835) - [Show HN: Terminal dashboard that throttles my PC during peak electricity rates](https://www.naveen.ing/cli-for-smartplugs/)
