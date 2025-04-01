@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-04-01](index.md)
 
+* [2025-04-01, 13:33:12](https://news.ycombinator.com/item?id=43546607) - [Globe Gores](https://blogs.loc.gov/maps/2025/03/globe-gores/)
+* [2025-04-01, 12:55:28](https://news.ycombinator.com/item?id=43546236) - [Bletchley code breaker Betty Webb dies aged 101](https://www.bbc.com/news/articles/c78jd30ywv8o)
 * [2025-04-01, 12:34:07](https://news.ycombinator.com/item?id=43546004) - [Why F#?](https://batsov.com/articles/2025/03/30/why-fsharp/)
+* [2025-04-01, 12:25:39](https://news.ycombinator.com/item?id=43545921) - [Xiaomi Car with Driver Assistance Crashes, Three Reported Dead](https://www.bloomberg.com/news/articles/2025-04-01/xiaomi-shares-fall-after-su7-car-crash-local-media-says-3-dead)
 * [2025-04-01, 12:25:12](https://news.ycombinator.com/item?id=43545917) - [Electron Band Structure in Germanium, My Ass](https://pages.cs.wisc.edu/~kovar/hall.html)
 * [2025-04-01, 12:01:40](https://news.ycombinator.com/item?id=43545725) - [Extend (YC W23) is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
 * [2025-04-01, 11:12:43](https://news.ycombinator.com/item?id=43545378) - [An e-bike that charges off USB-C](https://www.theverge.com/news/639681/usb-c-charging-e-bike-ampler-nova-specs-price)
+* [2025-04-01, 11:08:34](https://news.ycombinator.com/item?id=43545349) - [CERN scientists find evidence of quantum entanglement in sheep](https://home.cern/news/news/physics/cern-scientists-find-evidence-quantum-entanglement-sheep)
 * [2025-04-01, 10:36:25](https://news.ycombinator.com/item?id=43545127) - [Ukrainian Soldiers Unearth Ancient Greek Burial](https://archaeology.org/news/2025/03/31/ukrainian-soldiers-unearth-ancient-greek-burial/)
 * [2025-04-01, 10:11:21](https://news.ycombinator.com/item?id=43544979) - [Self-Hosting like it's 2025](https://kiranet.org/self-hosting-like-its-2025/)
 * [2025-04-01, 09:14:55](https://news.ycombinator.com/item?id=43544534) - [US accidentally sent Maryland father to Salvadorian prison, can't get him back](https://www.independent.co.uk/news/world/americas/us-politics/trump-el-salvador-abrego-garcia-b2725002.html)

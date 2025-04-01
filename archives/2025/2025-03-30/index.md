@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-30](index.md)
 
 * [2025-03-30, 23:59:23](https://news.ycombinator.com/item?id=43529104) - [Oka.wiki](https://oka.wiki/)
+* [2025-03-30, 23:30:13](https://news.ycombinator.com/item?id=43528867) - [I made a show shuffler that shuffles shows in order](http://git.tgwil.net/util/sortashuffle/)
 * [2025-03-30, 23:00:38](https://news.ycombinator.com/item?id=43528634) - [Luigi Mangione-Inspired Ballot Initiative Targets Health Insurance Denials](https://www.newsweek.com/luigi-mangione-inspired-ballot-initiative-targets-health-insurance-denials-2052789)
 * [2025-03-30, 22:45:54](https://news.ycombinator.com/item?id=43528496) - [Can Style Be Timeless?](https://www.mrporter.com/en-gb/journal/fashion/derek-guy-timeless-style-25197344)
 * [2025-03-30, 22:44:38](https://news.ycombinator.com/item?id=43528479) - [Xiaofeng Wang](https://www.researchgate.net/profile/Xiaofeng-Wang-35)
