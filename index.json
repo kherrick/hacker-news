@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2025-04-01, 15:16:21",
-      "https://news.ycombinator.com/item?id=43547813"
-    ],
-    [
-      "We can, must, and will simulate nematode brains",
-      "https://asteriskmag.com/issues/09/we-can-must-and-will-simulate-nematode-brains"
-    ]
-  ],
-  [
-    [
       "2025-04-01, 15:06:11",
       "https://news.ycombinator.com/item?id=43547677"
     ],
@@ -267,6 +257,16 @@
     [
       "Experimental Tauri Verso Integration",
       "https://v2.tauri.app/blog/tauri-verso-integration/"
+    ]
+  ],
+  [
+    [
+      "2025-03-29, 16:49:57",
+      "https://news.ycombinator.com/item?id=43516824"
+    ],
+    [
+      "Exploring Anagram Search in PostgreSQL with Recursive CTEs",
+      "https://medium.com/@thibaut.frain/exploring-anagram-search-in-postgresql-with-recursive-ctes-7b0c42c59d28"
     ]
   ],
   [
