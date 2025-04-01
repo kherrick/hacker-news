@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-01](index.md)
 
+* [2025-04-01, 19:33:38](https://news.ycombinator.com/item?id=43550556) - [Silica Gel Took over the World](https://www.scopeofwork.net/silica-gel/)
+* [2025-04-01, 18:28:31](https://news.ycombinator.com/item?id=43549983) - [Show HN: Make SVGs interactive in React with 1 line](https://svggles.vercel.app/)
 * [2025-04-01, 17:48:45](https://news.ycombinator.com/item?id=43549618) - [Show HN: Zig Topological Sort Library for Parallel Processing](https://github.com/williamw520/toposort)
 * [2025-04-01, 17:19:48](https://news.ycombinator.com/item?id=43549293) - [The Myst Graph: A New Perspective on Myst](https://glthr.com/myst-graph-1)
 * [2025-04-01, 17:01:07](https://news.ycombinator.com/item?id=43549076) - [Meru Health (YC S18) Is Hiring](https://www.ycombinator.com/companies/meru-health/jobs/ZjKcsyk-director-growth-marketing)

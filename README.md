@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-01, 19:33:38](https://news.ycombinator.com/item?id=43550556) - [Silica Gel Took over the World](https://www.scopeofwork.net/silica-gel/)
+* [2025-04-01, 18:28:31](https://news.ycombinator.com/item?id=43549983) - [Show HN: Make SVGs interactive in React with 1 line](https://svggles.vercel.app/)
 * [2025-04-01, 17:48:45](https://news.ycombinator.com/item?id=43549618) - [Show HN: Zig Topological Sort Library for Parallel Processing](https://github.com/williamw520/toposort)
 * [2025-04-01, 17:19:48](https://news.ycombinator.com/item?id=43549293) - [The Myst Graph: A New Perspective on Myst](https://glthr.com/myst-graph-1)
 * [2025-04-01, 17:01:07](https://news.ycombinator.com/item?id=43549076) - [Meru Health (YC S18) Is Hiring](https://www.ycombinator.com/companies/meru-health/jobs/ZjKcsyk-director-growth-marketing)
@@ -18,9 +20,7 @@
 * [2025-04-01, 07:11:30](https://news.ycombinator.com/item?id=43543743) - [The April Fools joke that might have got me fired](http://oldvcr.blogspot.com/2025/04/the-april-fools-joke-that-might-have.html)
 * [2025-04-01, 05:47:41](https://news.ycombinator.com/item?id=43543241) - [Show HN: Nue – Apps lighter than a React button](https://nuejs.org/blog/large-scale-apps/)
 * [2025-04-01, 05:46:34](https://news.ycombinator.com/item?id=43543235) - [Show HN: Duolingo-style exercises but with real-world content like the news](https://app.fluentsubs.com/exercises/daily)
-* [2025-04-01, 01:02:33](https://news.ycombinator.com/item?id=43541759) - [Netflix’s Media Production Suite](https://netflixtechblog.com/globalizing-productions-with-netflixs-media-production-suite-fc3c108c0a22)
 * [2025-03-31, 20:29:58](https://news.ycombinator.com/item?id=43539585) - [Go Optimization Guide](https://goperf.dev/)
-* [2025-03-31, 19:52:29](https://news.ycombinator.com/item?id=43539103) - [KOReader: Open-Source eBook Reader](https://github.com/koreader/koreader)
 * [2025-03-31, 07:52:54](https://news.ycombinator.com/item?id=43532328) - [Debts, Tech and Otherwise](https://blogs.newardassociates.com/blog/2025/debts-tech-and-otherwise.html)
 * [2025-03-31, 01:37:55](https://news.ycombinator.com/item?id=43529774) - [Show HN: JavaScript PubSub in 163 Bytes](https://github.com/hassanshaikley/pico-pubsub)
 * [2025-03-30, 20:44:17](https://news.ycombinator.com/item?id=43527460) - [Actually drawing some ovals – that are not ellipses (2017)](https://medium.com/@brunopostle/actually-drawing-some-ovals-that-are-not-ellipses-444ba9fd9cf8)
