@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-01, 07:01:30](https://news.ycombinator.com/item?id=43543681) - [Photoroom (YC S20) Is Hiring Rust, API, and Front End Engineers (Europe, Remote)](https://jobs.ashbyhq.com/photoroom?departmentId=5a691019-9344-462b-9f4b-4efb68086e05&utm_source=yc)
 * [2025-04-01, 06:22:10](https://news.ycombinator.com/item?id=43543429) - [LLM providers on the cusp of an 'extinction' phase as capex realities bite](https://www.theregister.com/2025/03/31/llm_providers_extinction/)
 * [2025-04-01, 05:47:41](https://news.ycombinator.com/item?id=43543241) - [Show HN: Nue – Apps lighter than a React button](https://nuejs.org/blog/large-scale-apps/)
-* [2025-04-01, 02:34:40](https://news.ycombinator.com/item?id=43542259) - [Don’t let an LLM make decisions or execute business logic](https://sgnt.ai/p/hell-out-of-llms/)
+* [2025-04-01, 05:46:34](https://news.ycombinator.com/item?id=43543235) - [Show HN: Duolingo-style exercises but with real-world content like the news](https://app.fluentsubs.com/exercises/daily)
 * [2025-04-01, 02:14:47](https://news.ycombinator.com/item?id=43542131) - [The case against conversational interfaces](https://julian.digital/2025/03/27/the-case-against-conversational-interfaces/)
 * [2025-04-01, 01:02:33](https://news.ycombinator.com/item?id=43541759) - [Netflix's Media Production Suite](https://netflixtechblog.com/globalizing-productions-with-netflixs-media-production-suite-fc3c108c0a22)
 * [2025-03-31, 20:29:58](https://news.ycombinator.com/item?id=43539585) - [Go Optimization Guide](https://goperf.dev/)
@@ -12,7 +13,6 @@
 * [2025-03-31, 18:32:28](https://news.ycombinator.com/item?id=43538164) - [LLM Workflows then Agents: Getting Started with Apache Airflow](https://github.com/astronomer/airflow-ai-sdk)
 * [2025-03-31, 18:28:03](https://news.ycombinator.com/item?id=43538113) - [Honey has now lost 4M Chrome users after shady tactics were revealed](https://9to5google.com/2025/03/31/honey-extension-users-dropped-chrome-march-2025/)
 * [2025-03-31, 17:29:04](https://news.ycombinator.com/item?id=43537505) - [Launch HN: Augento (YC W25) – Fine-tune your agents with reinforcement learning](https://news.ycombinator.com/item?id=43537505)
-* [2025-03-31, 15:57:15](https://news.ycombinator.com/item?id=43536463) - [Automating Interactive Fiction Logic Generation with LLMs in Emacs](https://blog.tendollaradventure.com/automating-story-logic-with-llms/)
 * [2025-03-31, 15:27:03](https://news.ycombinator.com/item?id=43536146) - [MLB says Yankees’ new “torpedo bats” are legal and likely coming](https://thelibertyline.com/2025/03/30/yankees-new-torpedo-bat/)
 * [2025-03-31, 15:10:39](https://news.ycombinator.com/item?id=43535943) - [Turso SQLite Offline Sync Public Beta](https://turso.tech/blog/turso-offline-sync-public-beta)
 * [2025-03-31, 14:49:42](https://news.ycombinator.com/item?id=43535688) - [It’s not mold, it’s calcium lactate (2018)](https://www.thephcheese.com/theres-white-stuff-growing-on-your-cheese-that-isnt-mold)
@@ -22,7 +22,6 @@
 * [2025-03-31, 10:39:57](https://news.ycombinator.com/item?id=43533362) - [The demoscene as a UNESCO heritage in Sweden](https://www.goto80.com/the-demoscene-as-a-unesco-heritage-in-sweden)
 * [2025-03-31, 10:31:39](https://news.ycombinator.com/item?id=43533306) - [James Webb Space Telescope reveals that most galaxies rotate clockwise](https://www.smithsonianmag.com/smart-news/james-webb-space-telescope-reveals-that-most-galaxies-rotate-clockwise-180986224/)
 * [2025-03-31, 09:11:47](https://news.ycombinator.com/item?id=43532830) - [The <select> element can now be customized with CSS](https://developer.chrome.com/blog/a-customizable-select)
-* [2025-03-29, 21:35:38](https://news.ycombinator.com/item?id=43518931) - [Why America now eats a crazy number of avocados](https://www.wsj.com/business/avocado-prices-tariffs-mexico-imports-3a951021)
 * [2025-03-29, 15:34:07](https://news.ycombinator.com/item?id=43516325) - [Sales Compensation Simulator – Tool for Founders](https://www.exec.com/sales-comp)
 * [2025-03-29, 15:05:55](https://news.ycombinator.com/item?id=43516117) - [Canoeing on the Danube](http://jameswarnersmith.co.uk/canoeing-the-continent/canoeing-the-danube)
 * [2025-03-29, 14:32:40](https://news.ycombinator.com/item?id=43515877) - [The Pragmatic Open Source Contributor](https://diurnal.st/2025/03/02/the-pragmatic-open-source-contributor.html)
@@ -30,6 +29,7 @@
 * [2025-03-29, 03:27:31](https://news.ycombinator.com/item?id=43512470) - [A deliberate practice app for guitar players who want to level up](https://www.captrice.io/)
 * [2025-03-29, 00:31:27](https://news.ycombinator.com/item?id=43511529) - [The Guardian flourishes without a paywall](https://nymag.com/intelligencer/article/how-the-guardian-us-flourishes-without-a-paywall.html)
 * [2025-03-28, 20:55:50](https://news.ycombinator.com/item?id=43509733) - [Charlie Javice convicted of defrauding JPMorgan in $175M startup sale](https://apnews.com/article/charlie-javice-convicted-fraud-jp-morgan-783cb7b089f6ab5d814c4c0984f0302b)
+* [2025-03-28, 13:41:00](https://news.ycombinator.com/item?id=43505340) - [Interview with the Creator of Deluxe Ski Jump](https://spillhistorie.no/interview-with-the-creator-of-deluxe-ski-jump/)
 
 ## [Archives](archives/index.md)
 
