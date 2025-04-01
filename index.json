@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-03-31, 21:44:54",
-      "https://news.ycombinator.com/item?id=43540326"
+      "2025-04-01, 01:02:33",
+      "https://news.ycombinator.com/item?id=43541759"
     ],
     [
-      "Everything Is Ghibli",
-      "https://carly.substack.com/p/everything-is-ghibli"
+      "Netflix's Media Production Suite",
+      "https://netflixtechblog.com/globalizing-productions-with-netflixs-media-production-suite-fc3c108c0a22"
+    ]
+  ],
+  [
+    [
+      "2025-03-31, 21:25:33",
+      "https://news.ycombinator.com/item?id=43540157"
+    ],
+    [
+      "FSKit: Implement a file system that runs in user space",
+      "https://developer.apple.com/documentation/fskit"
     ]
   ],
   [
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=43538919"
     ],
     [
-      "JEP Draft: Prepare to Make Final Mean Final",
+      "JEP draft: Prepare to make final mean final",
       "https://openjdk.org/jeps/8349536"
     ]
   ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=43538192"
     ],
     [
-      "Notes on the Pentium's Microcode Circuitry",
+      "Notes on the Pentium's microcode circuitry",
       "https://www.righto.com/2025/03/pentium-microcde-rom-circuitry.html"
     ]
   ],
@@ -125,7 +135,7 @@
       "https://news.ycombinator.com/item?id=43536146"
     ],
     [
-      "MLB says Yankees' new \"torpedo bats\" are legal and likely coming",
+      "MLB says Yankees’ new “torpedo bats” are legal and likely coming",
       "https://thelibertyline.com/2025/03/30/yankees-new-torpedo-bat/"
     ]
   ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2025-03-31, 15:06:23",
-      "https://news.ycombinator.com/item?id=43535889"
-    ],
-    [
-      "Show HN: GuMCP – Open-source MCP servers, hosted for free",
-      "https://github.com/gumloop/guMCP"
-    ]
-  ],
-  [
-    [
       "2025-03-31, 14:49:42",
       "https://news.ycombinator.com/item?id=43535688"
     ],
@@ -195,7 +195,7 @@
       "https://news.ycombinator.com/item?id=43534533"
     ],
     [
-      "Why I run FreeBSD for my home servers",
+      "Why I run FreeBSD for my home servers (2024)",
       "https://aumont.fr/posts/FreeBSD-Home-Server/"
     ]
   ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2025-03-29, 03:27:31",
+      "https://news.ycombinator.com/item?id=43512470"
+    ],
+    [
+      "A deliberate practice app for guitar players who want to level up",
+      "https://www.captrice.io/"
+    ]
+  ],
+  [
+    [
       "2025-03-29, 00:31:27",
       "https://news.ycombinator.com/item?id=43511529"
     ],
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2025-03-28, 22:14:33",
-      "https://news.ycombinator.com/item?id=43510393"
+      "2025-03-28, 20:55:50",
+      "https://news.ycombinator.com/item?id=43509733"
     ],
     [
-      "In the 1980s we downloaded games from the radio",
-      "https://newslttrs.com/yes-in-the-1980s-we-downloaded-games-from-the-radio/"
-    ]
-  ],
-  [
-    [
-      "2025-03-28, 10:55:04",
-      "https://news.ycombinator.com/item?id=43503833"
-    ],
-    [
-      "Show HN: I made a C program to create a vanity SHA-1 hash for a text file",
-      "https://gist.github.com/o0101/77eb378b5076fe47c3336583330ac615"
+      "Charlie Javice convicted of defrauding JPMorgan in $175M startup sale",
+      "https://apnews.com/article/charlie-javice-convicted-fraud-jp-morgan-783cb7b089f6ab5d814c4c0984f0302b"
     ]
   ]
 ]
