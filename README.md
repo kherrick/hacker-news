@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-01, 06:22:10](https://news.ycombinator.com/item?id=43543429) - [LLM providers on the cusp of an 'extinction' phase as capex realities bite](https://www.theregister.com/2025/03/31/llm_providers_extinction/)
 * [2025-04-01, 05:47:41](https://news.ycombinator.com/item?id=43543241) - [Show HN: Nue – Apps lighter than a React button](https://nuejs.org/blog/large-scale-apps/)
 * [2025-04-01, 02:34:40](https://news.ycombinator.com/item?id=43542259) - [Don’t let an LLM make decisions or execute business logic](https://sgnt.ai/p/hell-out-of-llms/)
 * [2025-04-01, 02:14:47](https://news.ycombinator.com/item?id=43542131) - [The case against conversational interfaces](https://julian.digital/2025/03/27/the-case-against-conversational-interfaces/)
@@ -11,7 +12,6 @@
 * [2025-03-31, 18:32:28](https://news.ycombinator.com/item?id=43538164) - [LLM Workflows then Agents: Getting Started with Apache Airflow](https://github.com/astronomer/airflow-ai-sdk)
 * [2025-03-31, 18:28:03](https://news.ycombinator.com/item?id=43538113) - [Honey has now lost 4M Chrome users after shady tactics were revealed](https://9to5google.com/2025/03/31/honey-extension-users-dropped-chrome-march-2025/)
 * [2025-03-31, 17:29:04](https://news.ycombinator.com/item?id=43537505) - [Launch HN: Augento (YC W25) – Fine-tune your agents with reinforcement learning](https://news.ycombinator.com/item?id=43537505)
-* [2025-03-31, 17:00:06](https://news.ycombinator.com/item?id=43537194) - [Distro (YC S24) Is Hiring a Lead Solutions Engineer](https://www.ycombinator.com/companies/distro/jobs/hJQCfVH-lead-solutions-engineer)
 * [2025-03-31, 15:57:15](https://news.ycombinator.com/item?id=43536463) - [Automating Interactive Fiction Logic Generation with LLMs in Emacs](https://blog.tendollaradventure.com/automating-story-logic-with-llms/)
 * [2025-03-31, 15:27:03](https://news.ycombinator.com/item?id=43536146) - [MLB says Yankees’ new “torpedo bats” are legal and likely coming](https://thelibertyline.com/2025/03/30/yankees-new-torpedo-bat/)
 * [2025-03-31, 15:10:39](https://news.ycombinator.com/item?id=43535943) - [Turso SQLite Offline Sync Public Beta](https://turso.tech/blog/turso-offline-sync-public-beta)

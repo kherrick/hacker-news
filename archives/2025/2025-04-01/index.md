@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-01](index.md)
 
+* [2025-04-01, 06:22:10](https://news.ycombinator.com/item?id=43543429) - [LLM providers on the cusp of an 'extinction' phase as capex realities bite](https://www.theregister.com/2025/03/31/llm_providers_extinction/)
 * [2025-04-01, 05:47:41](https://news.ycombinator.com/item?id=43543241) - [Show HN: Nue – Apps lighter than a React button](https://nuejs.org/blog/large-scale-apps/)
 * [2025-04-01, 05:15:42](https://news.ycombinator.com/item?id=43543075) - [Entire staff at federal agency that funds libraries and museums put on leave](https://www.npr.org/2025/03/31/nx-s1-5334415/doge-institute-of-museum-and-library-services)
 * [2025-04-01, 03:45:59](https://news.ycombinator.com/item?id=43542633) - [Netflix CEO Says Movie Theaters Are Dead](https://www.semafor.com/article/03/30/2025/movie-theaters-still-dead-per-netflix-boss)
