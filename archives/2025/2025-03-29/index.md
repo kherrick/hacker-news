@@ -17,6 +17,7 @@
 * [2025-03-29, 20:45:22](https://news.ycombinator.com/item?id=43518576) - [Apple's AI isn't a letdown. AI is the letdown](https://www.cnn.com/2025/03/27/tech/apple-ai-artificial-intelligence/index.html)
 * [2025-03-29, 20:43:42](https://news.ycombinator.com/item?id=43518560) - [CVE-2025-31160 Atop 2.11 heap problems](https://openwall.com/lists/oss-security/2025/03/29/1)
 * [2025-03-29, 20:31:21](https://news.ycombinator.com/item?id=43518466) - [All of the Commercials That David Lynch Has Directed: A 30-Minute Compilation](https://www.openculture.com/2018/07/watch-commercials-david-lynch-directed-big-30-minute-compilation.html)
+* [2025-03-29, 20:30:49](https://news.ycombinator.com/item?id=43518462) - [Experimental Tauri Verso Integration](https://v2.tauri.app/blog/tauri-verso-integration/)
 * [2025-03-29, 20:04:43](https://news.ycombinator.com/item?id=43518251) - [Decline of cash credited for drop in surgery for children swallowing objects](https://www.theguardian.com/society/2025/mar/28/decline-of-cash-credited-for-drop-in-nhs-surgery-for-children-swallowing-objects)
 * [2025-03-29, 20:00:33](https://news.ycombinator.com/item?id=43518220) - [Matrix Calculus (For Machine Learning and Beyond)](https://arxiv.org/abs/2501.14787)
 * [2025-03-29, 19:52:59](https://news.ycombinator.com/item?id=43518152) - [\"Station\" by Mitsuo Isaka (1994)](https://twitter.com/gingerbeardman/status/1906041957668770237)
