@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-01](index.md)
 
+* [2025-04-01, 10:36:25](https://news.ycombinator.com/item?id=43545127) - [Ukrainian Soldiers Unearth Ancient Greek Burial](https://archaeology.org/news/2025/03/31/ukrainian-soldiers-unearth-ancient-greek-burial/)
+* [2025-04-01, 10:11:21](https://news.ycombinator.com/item?id=43544979) - [Self-Hosting like it's 2025](https://kiranet.org/self-hosting-like-its-2025/)
 * [2025-04-01, 09:14:55](https://news.ycombinator.com/item?id=43544534) - [US accidentally sent Maryland father to Salvadorian prison, can't get him back](https://www.independent.co.uk/news/world/americas/us-politics/trump-el-salvador-abrego-garcia-b2725002.html)
 * [2025-04-01, 08:39:15](https://news.ycombinator.com/item?id=43544293) - ['A hostile state': Why some travellers are avoiding the US](https://www.bbc.com/travel/article/20250328-the-people-boycotting-travel-to-the-us)
 * [2025-04-01, 07:35:23](https://news.ycombinator.com/item?id=43543891) - [Jargonic: Industry-Tunable ASR Model](https://aiola.ai/blog/introducing-jargonic-asr/)
