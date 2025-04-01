@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-01](index.md)
 
+* [2025-04-01, 03:45:59](https://news.ycombinator.com/item?id=43542633) - [Netflix CEO Says Movie Theaters Are Dead](https://www.semafor.com/article/03/30/2025/movie-theaters-still-dead-per-netflix-boss)
 * [2025-04-01, 02:51:33](https://news.ycombinator.com/item?id=43542333) - [An 'Administrative Error' Sends a Maryland Father to a Salvadoran Prison](https://www.theatlantic.com/politics/archive/2025/03/an-administrative-error-sends-a-man-to-a-salvadoran-prison/682254/)
 * [2025-04-01, 02:34:40](https://news.ycombinator.com/item?id=43542259) - [Get the hell out of the LLM as soon as possible](https://sgnt.ai/p/hell-out-of-llms/)
 * [2025-04-01, 02:17:20](https://news.ycombinator.com/item?id=43542151) - [The Demand Side of Democratic Backsliding](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/demand-side-of-democratic-backsliding-how-divergent-understandings-of-democracy-shape-political-choice/3DEB0DC344DF35BF4334366F07411116)
