@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-01, 07:01:30",
+      "https://news.ycombinator.com/item?id=43543681"
+    ],
+    [
+      "Photoroom (YC S20) Is Hiring Rust, API, and Front End Engineers (Europe, Remote)",
+      "https://jobs.ashbyhq.com/photoroom?departmentId=5a691019-9344-462b-9f4b-4efb68086e05&utm_source=yc"
+    ]
+  ],
+  [
+    [
       "2025-04-01, 06:22:10",
       "https://news.ycombinator.com/item?id=43543429"
     ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2025-04-01, 02:34:40",
-      "https://news.ycombinator.com/item?id=43542259"
+      "2025-04-01, 05:46:34",
+      "https://news.ycombinator.com/item?id=43543235"
     ],
     [
-      "Don’t let an LLM make decisions or execute business logic",
-      "https://sgnt.ai/p/hell-out-of-llms/"
+      "Show HN: Duolingo-style exercises but with real-world content like the news",
+      "https://app.fluentsubs.com/exercises/daily"
     ]
   ],
   [
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2025-03-31, 15:57:15",
-      "https://news.ycombinator.com/item?id=43536463"
-    ],
-    [
-      "Automating Interactive Fiction Logic Generation with LLMs in Emacs",
-      "https://blog.tendollaradventure.com/automating-story-logic-with-llms/"
-    ]
-  ],
-  [
-    [
       "2025-03-31, 15:27:03",
       "https://news.ycombinator.com/item?id=43536146"
     ],
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-03-29, 21:35:38",
-      "https://news.ycombinator.com/item?id=43518931"
-    ],
-    [
-      "Why America now eats a crazy number of avocados",
-      "https://www.wsj.com/business/avocado-prices-tariffs-mexico-imports-3a951021"
-    ]
-  ],
-  [
-    [
       "2025-03-29, 15:34:07",
       "https://news.ycombinator.com/item?id=43516325"
     ],
@@ -297,6 +287,16 @@
     [
       "Charlie Javice convicted of defrauding JPMorgan in $175M startup sale",
       "https://apnews.com/article/charlie-javice-convicted-fraud-jp-morgan-783cb7b089f6ab5d814c4c0984f0302b"
+    ]
+  ],
+  [
+    [
+      "2025-03-28, 13:41:00",
+      "https://news.ycombinator.com/item?id=43505340"
+    ],
+    [
+      "Interview with the Creator of Deluxe Ski Jump",
+      "https://spillhistorie.no/interview-with-the-creator-of-deluxe-ski-jump/"
     ]
   ]
 ]
