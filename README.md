@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-01, 19:33:38](https://news.ycombinator.com/item?id=43550556) - [Silica Gel Took over the World](https://www.scopeofwork.net/silica-gel/)
+* [2025-04-01, 18:40:47](https://news.ycombinator.com/item?id=43550098) - [Dave Täht has passed away](https://libreqos.io/2025/04/01/in-loving-memory-of-dave/)
 * [2025-04-01, 18:28:31](https://news.ycombinator.com/item?id=43549983) - [Show HN: Make SVGs interactive in React with 1 line](https://svggles.vercel.app/)
 * [2025-04-01, 17:48:45](https://news.ycombinator.com/item?id=43549618) - [Show HN: Zig Topological Sort Library for Parallel Processing](https://github.com/williamw520/toposort)
 * [2025-04-01, 17:19:48](https://news.ycombinator.com/item?id=43549293) - [The Myst Graph: A New Perspective on Myst](https://glthr.com/myst-graph-1)
@@ -22,7 +23,6 @@
 * [2025-04-01, 05:46:34](https://news.ycombinator.com/item?id=43543235) - [Show HN: Duolingo-style exercises but with real-world content like the news](https://app.fluentsubs.com/exercises/daily)
 * [2025-03-31, 20:29:58](https://news.ycombinator.com/item?id=43539585) - [Go Optimization Guide](https://goperf.dev/)
 * [2025-03-31, 07:52:54](https://news.ycombinator.com/item?id=43532328) - [Debts, Tech and Otherwise](https://blogs.newardassociates.com/blog/2025/debts-tech-and-otherwise.html)
-* [2025-03-31, 01:37:55](https://news.ycombinator.com/item?id=43529774) - [Show HN: JavaScript PubSub in 163 Bytes](https://github.com/hassanshaikley/pico-pubsub)
 * [2025-03-30, 20:44:17](https://news.ycombinator.com/item?id=43527460) - [Actually drawing some ovals – that are not ellipses (2017)](https://medium.com/@brunopostle/actually-drawing-some-ovals-that-are-not-ellipses-444ba9fd9cf8)
 * [2025-03-30, 00:29:49](https://news.ycombinator.com/item?id=43520005) - [Chess324 – A Chess Variant to Reduce Draws](https://www.chessprogramming.org/Chess324)
 * [2025-03-29, 20:44:41](https://news.ycombinator.com/item?id=43518570) - [Generate autounattend.xml files for Windows 10/11](https://schneegans.de/windows/unattend-generator/)
