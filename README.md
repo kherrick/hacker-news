@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-01, 03:45:59](https://news.ycombinator.com/item?id=43542633) - [Netflix CEO Says Movie Theaters Are Dead](https://www.semafor.com/article/03/30/2025/movie-theaters-still-dead-per-netflix-boss)
-* [2025-04-01, 02:34:40](https://news.ycombinator.com/item?id=43542259) - [Get the hell out of the LLM as soon as possible](https://sgnt.ai/p/hell-out-of-llms/)
+* [2025-04-01, 02:34:40](https://news.ycombinator.com/item?id=43542259) - [Don’t let an LLM make decisions or execute business logic](https://sgnt.ai/p/hell-out-of-llms/)
 * [2025-04-01, 02:14:47](https://news.ycombinator.com/item?id=43542131) - [The case against conversational interfaces](https://julian.digital/2025/03/27/the-case-against-conversational-interfaces/)
 * [2025-04-01, 01:02:33](https://news.ycombinator.com/item?id=43541759) - [Netflix's Media Production Suite](https://netflixtechblog.com/globalizing-productions-with-netflixs-media-production-suite-fc3c108c0a22)
 * [2025-03-31, 20:29:58](https://news.ycombinator.com/item?id=43539585) - [Go Optimization Guide](https://goperf.dev/)
@@ -18,6 +17,7 @@
 * [2025-03-31, 15:10:39](https://news.ycombinator.com/item?id=43535943) - [Turso SQLite Offline Sync Public Beta](https://turso.tech/blog/turso-offline-sync-public-beta)
 * [2025-03-31, 14:49:42](https://news.ycombinator.com/item?id=43535688) - [It’s not mold, it’s calcium lactate (2018)](https://www.thephcheese.com/theres-white-stuff-growing-on-your-cheese-that-isnt-mold)
 * [2025-03-31, 14:45:35](https://news.ycombinator.com/item?id=43535653) - [AI agents: Less capability, more reliability, please](https://www.sergey.fyi/articles/reliability-vs-capability)
+* [2025-03-31, 12:59:23](https://news.ycombinator.com/item?id=43534533) - [Why I run FreeBSD for my home servers (2024)](https://aumont.fr/posts/FreeBSD-Home-Server/)
 * [2025-03-31, 11:45:32](https://news.ycombinator.com/item?id=43533826) - [The Egg (2009)](https://www.galactanet.com/oneoff/theegg.html)
 * [2025-03-31, 11:01:50](https://news.ycombinator.com/item?id=43533516) - [Compiler Options Hardening Guide for C and C++](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
 * [2025-03-31, 10:58:53](https://news.ycombinator.com/item?id=43533496) - [Things I Won't Work With: Dioxygen Difluoride (2010)](https://www.science.org/content/blog-post/things-i-won-t-work-dioxygen-difluoride)
