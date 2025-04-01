@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-04-01, 13:33:12",
+      "https://news.ycombinator.com/item?id=43546607"
+    ],
+    [
+      "Globe Gores",
+      "https://blogs.loc.gov/maps/2025/03/globe-gores/"
+    ]
+  ],
+  [
+    [
+      "2025-04-01, 12:55:28",
+      "https://news.ycombinator.com/item?id=43546236"
+    ],
+    [
+      "Bletchley code breaker Betty Webb dies aged 101",
+      "https://www.bbc.com/news/articles/c78jd30ywv8o"
+    ]
+  ],
+  [
+    [
       "2025-04-01, 12:34:07",
       "https://news.ycombinator.com/item?id=43546004"
     ],
     [
       "Why F#?",
       "https://batsov.com/articles/2025/03/30/why-fsharp/"
+    ]
+  ],
+  [
+    [
+      "2025-04-01, 12:25:39",
+      "https://news.ycombinator.com/item?id=43545921"
+    ],
+    [
+      "Xiaomi Car with Driver Assistance Crashes, Three Reported Dead",
+      "https://www.bloomberg.com/news/articles/2025-04-01/xiaomi-shares-fall-after-su7-car-crash-local-media-says-3-dead"
     ]
   ],
   [
@@ -27,6 +57,16 @@
     [
       "Extend (YC W23) is hiring engineers to build LLM document processing",
       "https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37"
+    ]
+  ],
+  [
+    [
+      "2025-04-01, 11:08:34",
+      "https://news.ycombinator.com/item?id=43545349"
+    ],
+    [
+      "CERN scientists find evidence of quantum entanglement in sheep",
+      "https://home.cern/news/news/physics/cern-scientists-find-evidence-quantum-entanglement-sheep"
     ]
   ],
   [
@@ -91,16 +131,6 @@
   ],
   [
     [
-      "2025-03-31, 21:44:54",
-      "https://news.ycombinator.com/item?id=43540326"
-    ],
-    [
-      "Everything is Ghibli",
-      "https://carly.substack.com/p/everything-is-ghibli"
-    ]
-  ],
-  [
-    [
       "2025-03-31, 20:29:58",
       "https://news.ycombinator.com/item?id=43539585"
     ],
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2025-03-31, 18:35:37",
-      "https://news.ycombinator.com/item?id=43538192"
-    ],
-    [
-      "Notes on the Pentium's microcode circuitry",
-      "https://www.righto.com/2025/03/pentium-microcde-rom-circuitry.html"
-    ]
-  ],
-  [
-    [
       "2025-03-31, 17:29:04",
       "https://news.ycombinator.com/item?id=43537505"
     ],
@@ -151,42 +171,12 @@
   ],
   [
     [
-      "2025-03-31, 15:27:03",
-      "https://news.ycombinator.com/item?id=43536146"
-    ],
-    [
-      "MLB says Yankees’ new “torpedo bats” are legal and likely coming",
-      "https://thelibertyline.com/2025/03/30/yankees-new-torpedo-bat/"
-    ]
-  ],
-  [
-    [
-      "2025-03-31, 15:10:39",
-      "https://news.ycombinator.com/item?id=43535943"
-    ],
-    [
-      "Turso SQLite Offline Sync Public Beta",
-      "https://turso.tech/blog/turso-offline-sync-public-beta"
-    ]
-  ],
-  [
-    [
       "2025-03-31, 14:49:42",
       "https://news.ycombinator.com/item?id=43535688"
     ],
     [
       "It’s not mold, it’s calcium lactate (2018)",
       "https://www.thephcheese.com/theres-white-stuff-growing-on-your-cheese-that-isnt-mold"
-    ]
-  ],
-  [
-    [
-      "2025-03-31, 14:45:35",
-      "https://news.ycombinator.com/item?id=43535653"
-    ],
-    [
-      "AI agents: Less capability, more reliability, please",
-      "https://www.sergey.fyi/articles/reliability-vs-capability"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "Show HN: JavaScript PubSub in 163 Bytes",
       "https://github.com/hassanshaikley/pico-pubsub"
+    ]
+  ],
+  [
+    [
+      "2025-03-30, 23:30:13",
+      "https://news.ycombinator.com/item?id=43528867"
+    ],
+    [
+      "I made a show shuffler that shuffles shows in order",
+      "http://git.tgwil.net/util/sortashuffle/"
     ]
   ],
   [
