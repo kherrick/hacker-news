@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2025-04-01](index.md)
 
 * [2025-04-01, 14:37:54](https://news.ycombinator.com/item?id=43547309) - [Ask HN: Why hasn't AMD made a viable CUDA alternative?](https://news.ycombinator.com/item?id=43547309)
+* [2025-04-01, 14:27:10](https://news.ycombinator.com/item?id=43547178) - [Donkey Kong champion wins defamation case against Australian YouTuber Karl Jobst](https://www.theguardian.com/technology/2025/apr/01/donkey-kong-champion-billy-mitchell-wins-defamation-case-australia-youtuber-karl-jobst-ntwnfb)
 * [2025-04-01, 13:46:19](https://news.ycombinator.com/item?id=43546725) - [The Colors of Her Coat](https://www.astralcodexten.com/p/the-colors-of-her-coat)
 * [2025-04-01, 13:33:12](https://news.ycombinator.com/item?id=43546607) - [Globe Gores](https://blogs.loc.gov/maps/2025/03/globe-gores/)
 * [2025-04-01, 12:55:28](https://news.ycombinator.com/item?id=43546236) - [Bletchley code breaker Betty Webb dies aged 101](https://www.bbc.com/news/articles/c78jd30ywv8o)
+* [2025-04-01, 12:41:54](https://news.ycombinator.com/item?id=43546089) - [Doge Is Trying to Gift Itself a $500M Building](https://www.wired.com/story/doge-takes-control-usip-office-building/)
 * [2025-04-01, 12:34:07](https://news.ycombinator.com/item?id=43546004) - [Why F#?](https://batsov.com/articles/2025/03/30/why-fsharp/)
 * [2025-04-01, 12:25:39](https://news.ycombinator.com/item?id=43545921) - [Xiaomi Car with Driver Assistance Crashes, Three Reported Dead](https://www.bloomberg.com/news/articles/2025-04-01/xiaomi-shares-fall-after-su7-car-crash-local-media-says-3-dead)
 * [2025-04-01, 12:25:12](https://news.ycombinator.com/item?id=43545917) - [Electron Band Structure in Germanium, My Ass](https://pages.cs.wisc.edu/~kovar/hall.html)
