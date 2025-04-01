@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-01, 17:19:48](https://news.ycombinator.com/item?id=43549293) - [The Myst Graph: A New Perspective on Myst](https://glthr.com/myst-graph-1)
 * [2025-04-01, 17:01:07](https://news.ycombinator.com/item?id=43549076) - [Meru Health (YC S18) Is Hiring](https://www.ycombinator.com/companies/meru-health/jobs/ZjKcsyk-director-growth-marketing)
 * [2025-04-01, 16:19:28](https://news.ycombinator.com/item?id=43548589) - [Camelgate NPM Outage (Cloudflare)](https://news.ycombinator.com/item?id=43548589)
 * [2025-04-01, 15:49:01](https://news.ycombinator.com/item?id=43548217) - [A man powers home for eight years using a thousand old laptop batteries](https://techoreon.com/a-man-powers-home-8-years-laptop-batteries/)
@@ -8,7 +9,6 @@
 * [2025-04-01, 15:16:21](https://news.ycombinator.com/item?id=43547813) - [We Can, Must, and Will Simulate Nematode Brains](https://asteriskmag.com/issues/09/we-can-must-and-will-simulate-nematode-brains)
 * [2025-04-01, 15:06:11](https://news.ycombinator.com/item?id=43547677) - [Launch HN: ASim (YC S21) – Mobile app that generates mobile apps](https://news.ycombinator.com/item?id=43547677)
 * [2025-04-01, 14:59:42](https://news.ycombinator.com/item?id=43547593) - [Systems Correctness Practices at AWS: Leveraging Formal and Semi-Formal Methods](https://queue.acm.org/detail.cfm?id=3712057)
-* [2025-04-01, 14:37:54](https://news.ycombinator.com/item?id=43547309) - [Ask HN: Why hasn’t AMD made a viable CUDA alternative?](https://news.ycombinator.com/item?id=43547309)
 * [2025-04-01, 14:27:10](https://news.ycombinator.com/item?id=43547178) - [Donkey Kong champion wins defamation case against Australian YouTuber Karl Jobst](https://www.theguardian.com/technology/2025/apr/01/donkey-kong-champion-billy-mitchell-wins-defamation-case-australia-youtuber-karl-jobst-ntwnfb)
 * [2025-04-01, 13:33:12](https://news.ycombinator.com/item?id=43546607) - [Globe Gores](https://blogs.loc.gov/maps/2025/03/globe-gores/)
 * [2025-04-01, 12:55:28](https://news.ycombinator.com/item?id=43546236) - [Bletchley code breaker Betty Webb dies aged 101](https://www.bbc.com/news/articles/c78jd30ywv8o)
