@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-01](index.md)
 
+* [2025-04-01, 14:59:42](https://news.ycombinator.com/item?id=43547593) - [Systems Correctness Practices at AWS: Leveraging Formal and Semi-Formal Methods](https://queue.acm.org/detail.cfm?id=3712057)
 * [2025-04-01, 14:37:54](https://news.ycombinator.com/item?id=43547309) - [Ask HN: Why hasn't AMD made a viable CUDA alternative?](https://news.ycombinator.com/item?id=43547309)
 * [2025-04-01, 14:27:10](https://news.ycombinator.com/item?id=43547178) - [Donkey Kong champion wins defamation case against Australian YouTuber Karl Jobst](https://www.theguardian.com/technology/2025/apr/01/donkey-kong-champion-billy-mitchell-wins-defamation-case-australia-youtuber-karl-jobst-ntwnfb)
 * [2025-04-01, 13:46:19](https://news.ycombinator.com/item?id=43546725) - [The Colors of Her Coat](https://www.astralcodexten.com/p/the-colors-of-her-coat)

@@ -13,6 +13,7 @@
 * [2025-03-30, 21:20:10](https://news.ycombinator.com/item?id=43527761) - [Station: Travel Through the Four Seasons (1994)](https://blog.gingerbeardman.com/2025/03/30/station-travel-through-the-four-seasons-1994/)
 * [2025-03-30, 20:55:28](https://news.ycombinator.com/item?id=43527552) - [MAME 0.276](https://www.mamedev.org/?p=549)
 * [2025-03-30, 20:52:39](https://news.ycombinator.com/item?id=43527521) - [Xfinity XB3 hardware mod: Disable WiFi and save 2 watts](https://gist.github.com/pmarks-net/af40dba69272806c1ec9cbe71429d2e7)
+* [2025-03-30, 20:44:17](https://news.ycombinator.com/item?id=43527460) - [Drawing some ovals (that are not ellipses)](https://medium.com/@brunopostle/actually-drawing-some-ovals-that-are-not-ellipses-444ba9fd9cf8)
 * [2025-03-30, 20:43:15](https://news.ycombinator.com/item?id=43527452) - [Ask HN: What are you working on? (March 2025)](https://news.ycombinator.com/item?id=43527452)
 * [2025-03-30, 20:39:18](https://news.ycombinator.com/item?id=43527431) - [First Orbital Rocket Launched from European Soil, Rocket Crashes, but It's Cool [video]](https://www.youtube.com/watch?v=eFyMAaeYdvs)
 * [2025-03-30, 20:20:00](https://news.ycombinator.com/item?id=43527275) - [ICE Arrested and Detained a US Citizen for Hours Because He Looked Mexican](https://www.techdirt.com/2025/03/28/ice-arrested-and-detained-a-us-citizen-for-hours-because-he-looked-mexican/)
