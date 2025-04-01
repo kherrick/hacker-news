@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-01, 12:34:07](https://news.ycombinator.com/item?id=43546004) - [Why F#?](https://batsov.com/articles/2025/03/30/why-fsharp/)
+* [2025-04-01, 12:25:12](https://news.ycombinator.com/item?id=43545917) - [Electron Band Structure in Germanium, My Ass](https://pages.cs.wisc.edu/~kovar/hall.html)
 * [2025-04-01, 12:01:40](https://news.ycombinator.com/item?id=43545725) - [Extend (YC W23) is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
-* [2025-04-01, 10:36:25](https://news.ycombinator.com/item?id=43545127) - [Ukrainian Soldiers Unearth Ancient Greek Burial](https://archaeology.org/news/2025/03/31/ukrainian-soldiers-unearth-ancient-greek-burial/)
-* [2025-04-01, 10:11:21](https://news.ycombinator.com/item?id=43544979) - [Self-Hosting like it's 2025](https://kiranet.org/self-hosting-like-its-2025/)
 * [2025-04-01, 07:35:23](https://news.ycombinator.com/item?id=43543891) - [Jargonic: Industry-Tunable ASR Model](https://aiola.ai/blog/introducing-jargonic-asr/)
 * [2025-04-01, 07:11:30](https://news.ycombinator.com/item?id=43543743) - [The April Fools joke that might have got me fired](http://oldvcr.blogspot.com/2025/04/the-april-fools-joke-that-might-have.html)
 * [2025-04-01, 05:47:41](https://news.ycombinator.com/item?id=43543241) - [Show HN: Nue – Apps lighter than a React button](https://nuejs.org/blog/large-scale-apps/)
