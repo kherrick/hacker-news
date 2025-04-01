@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-01, 17:48:45",
+      "https://news.ycombinator.com/item?id=43549618"
+    ],
+    [
+      "Show HN: Zig Topological Sort Library for Parallel Processing",
+      "https://github.com/williamw520/toposort"
+    ]
+  ],
+  [
+    [
       "2025-04-01, 17:19:48",
       "https://news.ycombinator.com/item?id=43549293"
     ],
@@ -87,16 +97,6 @@
     [
       "Systems Correctness Practices at AWS: Leveraging Formal and Semi-Formal Methods",
       "https://queue.acm.org/detail.cfm?id=3712057"
-    ]
-  ],
-  [
-    [
-      "2025-04-01, 14:27:10",
-      "https://news.ycombinator.com/item?id=43547178"
-    ],
-    [
-      "Donkey Kong champion wins defamation case against Australian YouTuber Karl Jobst",
-      "https://www.theguardian.com/technology/2025/apr/01/donkey-kong-champion-billy-mitchell-wins-defamation-case-australia-youtuber-karl-jobst-ntwnfb"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2025-03-29, 20:44:41",
+      "https://news.ycombinator.com/item?id=43518570"
+    ],
+    [
+      "Generate autounattend.xml files for Windows 10/11",
+      "https://schneegans.de/windows/unattend-generator/"
+    ]
+  ],
+  [
+    [
       "2025-03-29, 20:30:49",
       "https://news.ycombinator.com/item?id=43518462"
     ],
@@ -267,16 +277,6 @@
     [
       "A deliberate practice app for guitar players who want to level up",
       "https://www.captrice.io/"
-    ]
-  ],
-  [
-    [
-      "2025-03-29, 00:31:27",
-      "https://news.ycombinator.com/item?id=43511529"
-    ],
-    [
-      "The Guardian flourishes without a paywall",
-      "https://nymag.com/intelligencer/article/how-the-guardian-us-flourishes-without-a-paywall.html"
     ]
   ],
   [
