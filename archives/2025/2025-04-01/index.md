@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-01](index.md)
 
+* [2025-04-01, 14:37:54](https://news.ycombinator.com/item?id=43547309) - [Ask HN: Why hasn't AMD made a viable CUDA alternative?](https://news.ycombinator.com/item?id=43547309)
 * [2025-04-01, 13:46:19](https://news.ycombinator.com/item?id=43546725) - [The Colors of Her Coat](https://www.astralcodexten.com/p/the-colors-of-her-coat)
 * [2025-04-01, 13:33:12](https://news.ycombinator.com/item?id=43546607) - [Globe Gores](https://blogs.loc.gov/maps/2025/03/globe-gores/)
 * [2025-04-01, 12:55:28](https://news.ycombinator.com/item?id=43546236) - [Bletchley code breaker Betty Webb dies aged 101](https://www.bbc.com/news/articles/c78jd30ywv8o)

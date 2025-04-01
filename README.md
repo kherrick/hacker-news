@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-01, 14:37:54](https://news.ycombinator.com/item?id=43547309) - [Ask HN: Why hasn't AMD made a viable CUDA alternative?](https://news.ycombinator.com/item?id=43547309)
 * [2025-04-01, 13:46:19](https://news.ycombinator.com/item?id=43546725) - [The Colors of Her Coat](https://www.astralcodexten.com/p/the-colors-of-her-coat)
 * [2025-04-01, 13:33:12](https://news.ycombinator.com/item?id=43546607) - [Globe Gores](https://blogs.loc.gov/maps/2025/03/globe-gores/)
 * [2025-04-01, 12:55:28](https://news.ycombinator.com/item?id=43546236) - [Bletchley code breaker Betty Webb dies aged 101](https://www.bbc.com/news/articles/c78jd30ywv8o)
@@ -14,7 +15,6 @@
 * [2025-04-01, 01:02:33](https://news.ycombinator.com/item?id=43541759) - [Netflix's Media Production Suite](https://netflixtechblog.com/globalizing-productions-with-netflixs-media-production-suite-fc3c108c0a22)
 * [2025-03-31, 20:29:58](https://news.ycombinator.com/item?id=43539585) - [Go Optimization Guide](https://goperf.dev/)
 * [2025-03-31, 19:52:29](https://news.ycombinator.com/item?id=43539103) - [KOReader: Open-Source eBook Reader](https://github.com/koreader/koreader)
-* [2025-03-31, 19:35:51](https://news.ycombinator.com/item?id=43538919) - [JEP draft: Prepare to make final mean final](https://openjdk.org/jeps/8349536)
 * [2025-03-31, 14:49:42](https://news.ycombinator.com/item?id=43535688) - [It’s not mold, it’s calcium lactate (2018)](https://www.thephcheese.com/theres-white-stuff-growing-on-your-cheese-that-isnt-mold)
 * [2025-03-31, 14:45:35](https://news.ycombinator.com/item?id=43535653) - [AI agents: Less capability, more reliability, please](https://www.sergey.fyi/articles/reliability-vs-capability)
 * [2025-03-31, 10:39:57](https://news.ycombinator.com/item?id=43533362) - [The demoscene as a UNESCO heritage in Sweden](https://www.goto80.com/the-demoscene-as-a-unesco-heritage-in-sweden)
