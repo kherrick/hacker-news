@@ -1,13 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-02, 20:02:09](https://news.ycombinator.com/item?id=43560899) - [Pico.sh (The ultimate SSH powered services for developers)](https://pico.sh/)
+* [2025-04-02, 20:01:01](https://news.ycombinator.com/item?id=43560885) - [Mozilla launching \"Thundermail\" email service to take on Gmail, Microsoft 365](https://www.techradar.com/pro/mozilla-launching-thundermail-email-service-to-take-on-gmail-microsoft-365)
 * [2025-04-02, 19:58:08](https://news.ycombinator.com/item?id=43560849) - [What, exactly, is an 'AI Agent'? Here's a litmus test](https://www.tines.com/blog/a-litmus-test-for-ai-agents/)
 * [2025-04-02, 19:48:45](https://news.ycombinator.com/item?id=43560751) - [It's Unreal Just How Awful 'Real ID' Is (2020)](https://www.zocalopublicsquare.org/real-id-is-awful/)
 * [2025-04-02, 19:18:27](https://news.ycombinator.com/item?id=43560446) - [Location data show that race affects citations and fines for speeding](https://www.science.org/doi/10.1126/science.adp5357)
 * [2025-04-02, 19:09:02](https://news.ycombinator.com/item?id=43560336) - [Waltz's team set up at least 20 Signal group chats for crises across the world](https://www.politico.com/news/2025/04/02/waltzs-team-set-up-at-least-20-signal-group-chats-for-crises-across-the-world-00266845)
 * [2025-04-02, 18:43:14](https://news.ycombinator.com/item?id=43559986) - [Item Flow, Part 1: A new unified concept for layout](https://webkit.org/blog/16587/item-flow-part-1-a-new-unified-concept-for-layout/)
 * [2025-04-02, 18:34:22](https://news.ycombinator.com/item?id=43559855) - [Restructuring Announcement](https://automattic.com/2025/04/02/restructuring-announcement/)
-* [2025-04-02, 18:24:51](https://news.ycombinator.com/item?id=43559733) - [Ask HN: How do you make a living contributing to and/or creating OSS projects?](https://news.ycombinator.com/item?id=43559733)
 * [2025-04-02, 17:55:38](https://news.ycombinator.com/item?id=43559370) - [Ace: Realtime Computer Autopilot](https://generalagents.com/ace/)
 * [2025-04-02, 17:48:35](https://news.ycombinator.com/item?id=43559285) - [Zero Day in Microchip SAM Microcontrollers](https://wiki.recessim.com/view/ATSAM4C32)
 * [2025-04-02, 17:30:08](https://news.ycombinator.com/item?id=43559122) - [When Jorge Luis Borges met one of the founders of AI](https://resobscura.substack.com/p/when-jorge-luis-borges-met-one-of)
@@ -26,10 +26,10 @@
 * [2025-04-02, 14:47:38](https://news.ycombinator.com/item?id=43557310) - [How Google built its Gemini robotics models](https://blog.google/products/gemini/how-we-built-gemini-robotics/)
 * [2025-04-02, 10:25:18](https://news.ycombinator.com/item?id=43555286) - [Coffea stenophylla: A forgotten bean that could save coffee from extinction](https://www.smithsonianmag.com/science-nature/how-forgotten-bean-could-save-coffee-from-extinction-180986230/)
 * [2025-04-01, 11:51:08](https://news.ycombinator.com/item?id=43545641) - [Show HN: A Chrome extension to give you back control over short-form videos](https://chromewebstore.google.com/detail/seek-anywhere/opofkjlejjcjalcpaimnpmkmjlclgded)
-* [2025-04-01, 03:06:07](https://news.ycombinator.com/item?id=43542410) - [Windows on ARM on a Smart Watch](https://gus33000.me/fish/)
 * [2025-03-31, 17:07:44](https://news.ycombinator.com/item?id=43537272) - [Stop syncing everything](https://sqlsync.dev/posts/stop-syncing-everything/)
 * [2025-03-31, 10:03:41](https://news.ycombinator.com/item?id=43533151) - [Dipping my toes in OpenBSD, in Amsterdam](https://ewintr.nl/posts/2025/dipping-my-toes-in-openbsd-in-amsterdam/)
 * [2025-03-31, 09:59:32](https://news.ycombinator.com/item?id=43533124) - [Vets Who Code](https://vetswhocode.io)
+* [2025-03-31, 09:56:55](https://news.ycombinator.com/item?id=43533110) - [Certification Authority/Browser Forum adopts new security standards](https://security.googleblog.com/2025/03/new-security-requirements-adopted-by.html)
 
 ## [Archives](archives/index.md)
 

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-02](index.md)
 
 * [2025-04-02, 20:02:09](https://news.ycombinator.com/item?id=43560899) - [Pico.sh (The ultimate SSH powered services for developers)](https://pico.sh/)
+* [2025-04-02, 20:01:01](https://news.ycombinator.com/item?id=43560885) - [Mozilla launching \"Thundermail\" email service to take on Gmail, Microsoft 365](https://www.techradar.com/pro/mozilla-launching-thundermail-email-service-to-take-on-gmail-microsoft-365)
 * [2025-04-02, 19:58:08](https://news.ycombinator.com/item?id=43560849) - [What, exactly, is an 'AI Agent'? Here's a litmus test](https://www.tines.com/blog/a-litmus-test-for-ai-agents/)
 * [2025-04-02, 19:48:45](https://news.ycombinator.com/item?id=43560751) - [It's Unreal Just How Awful 'Real ID' Is (2020)](https://www.zocalopublicsquare.org/real-id-is-awful/)
 * [2025-04-02, 19:18:48](https://news.ycombinator.com/item?id=43560447) - [Gemini 2.5 gets 24.4% on MathArena USAMO beating previous top score of 4.7%](https://matharena.ai/)
