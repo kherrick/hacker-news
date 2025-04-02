@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-02](index.md)
 
 * [2025-04-02, 19:18:48](https://news.ycombinator.com/item?id=43560447) - [Gemini 2.5 gets 24.4% on MathArena USAMO beating previous top score of 4.7%](https://matharena.ai/)
+* [2025-04-02, 19:18:27](https://news.ycombinator.com/item?id=43560446) - [Location data show that race affects citations and fines for speeding](https://www.science.org/doi/10.1126/science.adp5357)
 * [2025-04-02, 19:09:02](https://news.ycombinator.com/item?id=43560336) - [Waltz's team set up at least 20 Signal group chats for crises across the world](https://www.politico.com/news/2025/04/02/waltzs-team-set-up-at-least-20-signal-group-chats-for-crises-across-the-world-00266845)
 * [2025-04-02, 18:43:14](https://news.ycombinator.com/item?id=43559986) - [Item Flow, Part 1: A new unified concept for layout](https://webkit.org/blog/16587/item-flow-part-1-a-new-unified-concept-for-layout/)
 * [2025-04-02, 18:34:22](https://news.ycombinator.com/item?id=43559855) - [Restructuring Announcement](https://automattic.com/2025/04/02/restructuring-announcement/)
@@ -12,6 +13,7 @@
 * [2025-04-02, 18:14:44](https://news.ycombinator.com/item?id=43559605) - [I don't discuss politics with friends](https://shwin.co/blog/why-i-dont-discuss-politics-with-friends)
 * [2025-04-02, 18:02:26](https://news.ycombinator.com/item?id=43559451) - [NYC New Subway Map](https://www.nytimes.com/2025/04/02/nyregion/nyc-new-subway-map.html)
 * [2025-04-02, 17:55:38](https://news.ycombinator.com/item?id=43559370) - [Ace: Realtime Computer Autopilot](https://generalagents.com/ace/)
+* [2025-04-02, 17:48:35](https://news.ycombinator.com/item?id=43559285) - [Zero Day in Microchip SAM Microcontrollers](https://wiki.recessim.com/view/ATSAM4C32)
 * [2025-04-02, 17:42:56](https://news.ycombinator.com/item?id=43559228) - [Real-Time Introspective Compression for Transformers](https://github.com/Dicklesworthstone/llm_introspective_compression_and_metacognition)
 * [2025-04-02, 17:30:08](https://news.ycombinator.com/item?id=43559122) - [When Jorge Luis Borges met one of the founders of AI](https://resobscura.substack.com/p/when-jorge-luis-borges-met-one-of)
 * [2025-04-02, 17:18:59](https://news.ycombinator.com/item?id=43559003) - [Amazon Submits Bid for TikTok with US Sale Deadline Nearing](https://www.bloomberg.com/news/articles/2025-04-02/amazon-submits-bid-for-tiktok-with-us-sale-deadline-approaching)
