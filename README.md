@@ -28,8 +28,8 @@
 * [2025-04-01, 11:51:08](https://news.ycombinator.com/item?id=43545641) - [Show HN: A Chrome extension to give you back control over short-form videos](https://chromewebstore.google.com/detail/seek-anywhere/opofkjlejjcjalcpaimnpmkmjlclgded)
 * [2025-04-01, 03:06:07](https://news.ycombinator.com/item?id=43542410) - [Windows on ARM on a Smart Watch](https://gus33000.me/fish/)
 * [2025-03-31, 17:07:44](https://news.ycombinator.com/item?id=43537272) - [Stop syncing everything](https://sqlsync.dev/posts/stop-syncing-everything/)
+* [2025-03-31, 10:03:41](https://news.ycombinator.com/item?id=43533151) - [Dipping my toes in OpenBSD, in Amsterdam](https://ewintr.nl/posts/2025/dipping-my-toes-in-openbsd-in-amsterdam/)
 * [2025-03-31, 09:59:32](https://news.ycombinator.com/item?id=43533124) - [Vets Who Code](https://vetswhocode.io)
-* [2025-03-31, 09:56:55](https://news.ycombinator.com/item?id=43533110) - [Certification Authority/Browser Forum adopts new security standards](https://security.googleblog.com/2025/03/new-security-requirements-adopted-by.html)
 
 ## [Archives](archives/index.md)
 
