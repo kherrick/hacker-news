@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-02](index.md)
 
+* [2025-04-02, 22:26:52](https://news.ycombinator.com/item?id=43562448) - [Chronic ethanol produces sex-dependent impairments in striatum computations](https://www.science.org/doi/10.1126/sciadv.adt0200)
 * [2025-04-02, 22:20:53](https://news.ycombinator.com/item?id=43562384) - [Multi-Token Attention](https://arxiv.org/abs/2504.00927)
 * [2025-04-02, 21:59:25](https://news.ycombinator.com/item?id=43562157) - [Proof-of-work to protect lore.kernel.org and git.kernel.org against AI crawlers](https://social.kernel.org/notice/AsgziNL6zgmdbta3lY)
 * [2025-04-02, 21:54:50](https://news.ycombinator.com/item?id=43562119) - [Are People Bad at Their Jobs .or Are the Jobs Just Bad?](https://annehelen.substack.com/p/are-people-bad-at-their-jobsor-are)
