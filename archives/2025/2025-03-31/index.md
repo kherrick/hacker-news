@@ -68,6 +68,7 @@
 * [2025-03-31, 08:53:47](https://news.ycombinator.com/item?id=43532736) - [Custom AI Chatbot Development Services: Restrictions and Opportunities](https://belitsoft.com/chatbot-development-services/custom-ai)
 * [2025-03-31, 07:52:54](https://news.ycombinator.com/item?id=43532328) - [Debts, Tech and Otherwise](https://blogs.newardassociates.com/blog/2025/debts-tech-and-otherwise.html)
 * [2025-03-31, 07:48:37](https://news.ycombinator.com/item?id=43532298) - [HTTPS RR in Curl](https://daniel.haxx.se/blog/2025/03/31/https-rr-in-curl/)
+* [2025-03-31, 07:42:13](https://news.ycombinator.com/item?id=43532253) - [Circuit Tracing: Revealing Computational Graphs in Language Models (Anthropic)](https://transformer-circuits.pub/2025/attribution-graphs/methods.html)
 * [2025-03-31, 07:36:56](https://news.ycombinator.com/item?id=43532220) - [How to Secure Existing C and C++ Software Without Memory Safety [pdf]](https://arxiv.org/abs/2503.21145)
 * [2025-03-31, 07:06:33](https://news.ycombinator.com/item?id=43532049) - [DOGE's Marko Elez is back on U.S. payroll](https://www.politico.com/news/2025/03/29/doge-marco-elez-software-engineer-us-payroll-00259303)
 * [2025-03-31, 07:00:19](https://news.ycombinator.com/item?id=43532009) - [Wondercraft (YC S22) Is Hiring](https://news.ycombinator.com/item?id=43532009)
