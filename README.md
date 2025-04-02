@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-02, 15:18:08](https://news.ycombinator.com/item?id=43557655) - [Global scam industry evolving at 'unprecedented scale' despite recent crackdown](https://www.cnn.com/2025/04/02/asia/myanmar-scam-center-crackdown-intl-hnk-dst/index.html)
+* [2025-04-02, 15:35:25](https://news.ycombinator.com/item?id=43557873) - [Animals Made from 13 Circles (2016)](https://www.dorithegiant.com/2016/05/13-animals-made-from-13-circles.html)
+* [2025-04-02, 15:29:14](https://news.ycombinator.com/item?id=43557790) - [Porting Tailscale to Plan 9](https://tailscale.com/blog/plan9-port)
 * [2025-04-02, 15:07:29](https://news.ycombinator.com/item?id=43557524) - [Nintendo unveils Switch 2 ahead of June 5 launch](https://arstechnica.com/gaming/2025/04/nintendo-offers-new-details-on-switch-2-hardware-software/)
 * [2025-04-02, 14:32:48](https://news.ycombinator.com/item?id=43557139) - [A dramatic Einstein ring seen by Webb](https://phys.org/news/2025-04-einstein-webb.html)
 * [2025-04-02, 13:16:38](https://news.ycombinator.com/item?id=43556350) - [Sports supplement creatine makes no difference to muscle gains, trial finds](https://www.unsw.edu.au/newsroom/news/2025/03/sports-supplement-creatine-makes-no-difference-to-muscle-gains-trial-finds)
@@ -23,7 +24,6 @@
 * [2025-03-31, 14:21:15](https://news.ycombinator.com/item?id=43535376) - [AI image recognition detects bubble-like structures in the universe](https://phys.org/news/2025-03-ai-image-recognition-universe.html)
 * [2025-03-31, 11:40:44](https://news.ycombinator.com/item?id=43533792) - [The Tectonics Behind the Myanmar Quake](https://nautil.us/what-caused-the-devastating-earthquake-in-myanmar-1200737/)
 * [2025-03-31, 07:42:13](https://news.ycombinator.com/item?id=43532253) - [Circuit Tracing: Revealing Computational Graphs in Language Models (Anthropic)](https://transformer-circuits.pub/2025/attribution-graphs/methods.html)
-* [2025-03-31, 06:33:04](https://news.ycombinator.com/item?id=43531816) - [You're protecting your data wrong – Introducing the Protected Query Pattern](https://kilpi.vercel.app/blog/2025-03-27-introducing-the-protected-query-pattern/)
 * [2025-03-30, 13:18:07](https://news.ycombinator.com/item?id=43523946) - [The Secret History of the War in Ukraine](https://www.nytimes.com/interactive/2025/03/29/world/europe/us-ukraine-military-war-wiesbaden.html)
 * [2025-03-30, 12:31:03](https://news.ycombinator.com/item?id=43523633) - [(2016) Interactive Neural Network Art](https://otoro.net/ml/netart/)
 * [2025-03-30, 07:01:56](https://news.ycombinator.com/item?id=43521994) - [Vitodeploy: Self hosted Laravel Forge alternative](https://vitodeploy.com/)

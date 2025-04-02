@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-02](index.md)
 
+* [2025-04-02, 15:35:25](https://news.ycombinator.com/item?id=43557873) - [Animals Made from 13 Circles (2016)](https://www.dorithegiant.com/2016/05/13-animals-made-from-13-circles.html)
+* [2025-04-02, 15:29:14](https://news.ycombinator.com/item?id=43557790) - [Porting Tailscale to Plan 9](https://tailscale.com/blog/plan9-port)
 * [2025-04-02, 15:18:08](https://news.ycombinator.com/item?id=43557655) - [Global scam industry evolving at 'unprecedented scale' despite recent crackdown](https://www.cnn.com/2025/04/02/asia/myanmar-scam-center-crackdown-intl-hnk-dst/index.html)
 * [2025-04-02, 15:07:29](https://news.ycombinator.com/item?id=43557524) - [Nintendo unveils Switch 2 ahead of June 5 launch](https://arstechnica.com/gaming/2025/04/nintendo-offers-new-details-on-switch-2-hardware-software/)
 * [2025-04-02, 14:32:48](https://news.ycombinator.com/item?id=43557139) - [A dramatic Einstein ring seen by Webb](https://phys.org/news/2025-04-einstein-webb.html)
