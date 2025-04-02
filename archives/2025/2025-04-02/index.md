@@ -8,6 +8,7 @@
 * [2025-04-02, 21:01:48](https://news.ycombinator.com/item?id=43561524) - [UpCodes (YC S17) Is Hiring SWEs and CSMs to make construction more productive](https://up.codes/careers?utm_source=HN)
 * [2025-04-02, 20:51:13](https://news.ycombinator.com/item?id=43561396) - [Henry James's American Journey](https://www.chronicle.com/article/henry-jamess-american-journey)
 * [2025-04-02, 20:34:23](https://news.ycombinator.com/item?id=43561193) - [Prof. Sussman's Reading List](http://aurellem.org/thoughts/html/sussman-reading-list.html)
+* [2025-04-02, 20:04:00](https://news.ycombinator.com/item?id=43560916) - [Show HN: Color palettes inspired by Mexican architecture](https://seis.pointlessprojects.com/)
 * [2025-04-02, 20:02:09](https://news.ycombinator.com/item?id=43560899) - [Pico.sh (The ultimate SSH powered services for developers)](https://pico.sh/)
 * [2025-04-02, 20:01:01](https://news.ycombinator.com/item?id=43560885) - [Mozilla launching \"Thundermail\" email service to take on Gmail, Microsoft 365](https://www.techradar.com/pro/mozilla-launching-thundermail-email-service-to-take-on-gmail-microsoft-365)
 * [2025-04-02, 19:58:08](https://news.ycombinator.com/item?id=43560849) - [What, exactly, is an 'AI Agent'? Here's a litmus test](https://www.tines.com/blog/a-litmus-test-for-ai-agents/)
