@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-02](index.md)
 
+* [2025-04-02, 12:28:04](https://news.ycombinator.com/item?id=43555898) - [Wikipedia is struggling with voracious AI bot crawlers](https://www.engadget.com/ai/wikipedia-is-struggling-with-voracious-ai-bot-crawlers-121546854.html)
+* [2025-04-02, 12:10:46](https://news.ycombinator.com/item?id=43555814) - [Don't Bother with Vibe Coding](https://www.soeren.codes/articles/do-not-bother-with-vibe-coding)
 * [2025-04-02, 10:33:20](https://news.ycombinator.com/item?id=43555334) - [RIP Val Kilmer: Real Genius .. the Film Nerd Culture Deserves (2015)](https://reactormag.com/30-years-later-real-genius-is-still-the-geek-solidarity-film-that-nerd-culture-deserves/)
 * [2025-04-02, 08:39:42](https://news.ycombinator.com/item?id=43554737) - [Multi-threading is always the wrong design](https://unetworkingab.medium.com/multi-threading-is-always-the-wrong-design-a227be57f107)
 * [2025-04-02, 07:07:33](https://news.ycombinator.com/item?id=43554329) - [Val Kilmer, star of Top Gun and The Doors, dies aged 65](https://www.theguardian.com/film/2025/apr/02/val-kilmer-death-age-65-pneumonia)

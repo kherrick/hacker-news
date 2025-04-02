@@ -32,6 +32,7 @@
 * [2025-03-30, 17:59:02](https://news.ycombinator.com/item?id=43526118) - [Open source, 3D-printable smart chess board](https://thangs.com/designer/Concept%20Bytes/3d-model/Open%20Chess%20-%20Smart%20Chess%20Board-1300202)
 * [2025-03-30, 17:51:42](https://news.ycombinator.com/item?id=43526058) - [Why Is This Site Built with C](https://marcelofern.com/posts/c/why-is-this-site-built-with-c/index.html)
 * [2025-03-30, 17:33:19](https://news.ycombinator.com/item?id=43525909) - [Met Police smash down door of Quaker meeting house to arrest activists](https://www.thetimes.com/uk/society/article/met-smash-down-door-of-quaker-meeting-house-to-arrest-activists-jhhchrtlt)
+* [2025-03-30, 17:26:33](https://news.ycombinator.com/item?id=43525870) - [All Estimations Are Wrong, but None Are Useful](https://newsletter.techworld-with-milan.com/p/all-estimations-are-wrong-but-none)
 * [2025-03-30, 17:06:47](https://news.ycombinator.com/item?id=43525687) - [Swiftly 1.0](https://www.swift.org/blog/introducing-swiftly_10/)
 * [2025-03-30, 17:01:47](https://news.ycombinator.com/item?id=43525636) - [Spice Data (YC S19) Is Hiring a Software Engineer](https://www.ycombinator.com/companies/spice-data/jobs/TijA35R-software-engineer)
 * [2025-03-30, 16:36:06](https://news.ycombinator.com/item?id=43525432) - [SHH – Sonic Hedgehog Protein](https://en.wikipedia.org/wiki/Sonic_hedgehog_protein)
