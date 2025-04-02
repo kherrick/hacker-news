@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2025-04-02](index.md)
 
+* [2025-04-02, 13:37:16](https://news.ycombinator.com/item?id=43556521) - [Abusive AI Web Crawlers: Get Off My Lawn](https://www.mythic-beasts.com/blog/2025/04/01/abusive-ai-web-crawlers-get-off-my-lawn/)
 * [2025-04-02, 13:30:24](https://news.ycombinator.com/item?id=43556463) - [Tesla (TSLA) announces 336,681 deliveries, far worse than expected](https://electrek.co/2025/04/02/tesla-tsla-q1-deliveries-worse/)
 * [2025-04-02, 13:27:33](https://news.ycombinator.com/item?id=43556443) - [Tesla suffers worst quarter since 2022 as deliveries tumble](https://www.ft.com/content/0ebcec51-2a5a-4820-99e8-1e500370fd68)
+* [2025-04-02, 13:18:23](https://news.ycombinator.com/item?id=43556370) - [Using fake deadlines without driving your engineers crazy](https://newsletter.manager.dev/p/using-fake-deadlines-without-driving)
 * [2025-04-02, 13:17:14](https://news.ycombinator.com/item?id=43556355) - [What I would do if I was 18 now](https://levels.io/eighteen/)
 * [2025-04-02, 13:16:38](https://news.ycombinator.com/item?id=43556350) - [Sports supplement creatine makes no difference to muscle gains, trial finds](https://www.unsw.edu.au/newsroom/news/2025/03/sports-supplement-creatine-makes-no-difference-to-muscle-gains-trial-finds)
 * [2025-04-02, 13:15:56](https://news.ycombinator.com/item?id=43556344) - [Starlink sets up subsidiary in Faroe Islands](https://dimma.fo/grein/starlink-vil-veita-internet-i-foroyum-stovnadu-foroyskt-smapartafelag)
+* [2025-04-02, 13:15:39](https://news.ycombinator.com/item?id=43556339) - [PowerToys Command Palette Utility](https://learn.microsoft.com/en-us/windows/powertoys/command-palette/overview)
 * [2025-04-02, 13:13:14](https://news.ycombinator.com/item?id=43556305) - [Kindle as a High-Contrast GPS](https://www.instructables.com/Use-Your-Kindle-or-Other-Ebook-As-a-High-Visibilit/)
 * [2025-04-02, 13:10:40](https://news.ycombinator.com/item?id=43556280) - [A steam locomotive from 1993 broke my yarn test](https://blog.cloudflare.com/yarn-test-suffers-strange-derailment/)
 * [2025-04-02, 12:28:52](https://news.ycombinator.com/item?id=43555904) - [Measuring Acceleration Structures](https://zeux.io/2025/03/31/measuring-acceleration-structures/)
