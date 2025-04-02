@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-04-02, 13:37:16",
-      "https://news.ycombinator.com/item?id=43556521"
+      "2025-04-02, 13:48:30",
+      "https://news.ycombinator.com/item?id=43556656"
     ],
     [
-      "Abusive AI Web Crawlers: Get Off My Lawn",
-      "https://www.mythic-beasts.com/blog/2025/04/01/abusive-ai-web-crawlers-get-off-my-lawn/"
+      "Django 5.2 Released",
+      "https://www.djangoproject.com/weblog/2025/apr/02/django-52-released/"
     ]
   ],
   [
@@ -31,26 +31,6 @@
   ],
   [
     [
-      "2025-04-02, 13:15:39",
-      "https://news.ycombinator.com/item?id=43556339"
-    ],
-    [
-      "PowerToys Command Palette Utility",
-      "https://learn.microsoft.com/en-us/windows/powertoys/command-palette/overview"
-    ]
-  ],
-  [
-    [
-      "2025-04-02, 13:13:14",
-      "https://news.ycombinator.com/item?id=43556305"
-    ],
-    [
-      "Kindle as a High-Contrast GPS",
-      "https://www.instructables.com/Use-Your-Kindle-or-Other-Ebook-As-a-High-Visibilit/"
-    ]
-  ],
-  [
-    [
       "2025-04-02, 13:10:40",
       "https://news.ycombinator.com/item?id=43556280"
     ],
@@ -71,22 +51,22 @@
   ],
   [
     [
-      "2025-04-02, 10:33:20",
-      "https://news.ycombinator.com/item?id=43555334"
-    ],
-    [
-      "RIP Val Kilmer: Real Genius .. the Film Nerd Culture Deserves (2015)",
-      "https://reactormag.com/30-years-later-real-genius-is-still-the-geek-solidarity-film-that-nerd-culture-deserves/"
-    ]
-  ],
-  [
-    [
       "2025-04-02, 10:25:18",
       "https://news.ycombinator.com/item?id=43555286"
     ],
     [
       "Coffea stenophylla: A forgotten bean that could save coffee from extinction",
       "https://www.smithsonianmag.com/science-nature/how-forgotten-bean-could-save-coffee-from-extinction-180986230/"
+    ]
+  ],
+  [
+    [
+      "2025-04-02, 00:52:42",
+      "https://news.ycombinator.com/item?id=43552764"
+    ],
+    [
+      "Forking Work Simplification – Let's Bring Back Eisenhower's Process Improvement",
+      "https://www.governance.fyi/p/forking-work-simplification-and-more"
     ]
   ],
   [
@@ -137,6 +117,16 @@
     [
       "How Silica Gel Took Over the World",
       "https://www.scopeofwork.net/silica-gel/"
+    ]
+  ],
+  [
+    [
+      "2025-04-01, 17:48:45",
+      "https://news.ycombinator.com/item?id=43549618"
+    ],
+    [
+      "Show HN: Zig Topological Sort Library for Parallel Processing",
+      "https://github.com/williamw520/toposort"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Scientists uncover key mechanism in evolution: Whole-genome duplication drives",
       "https://www.sciencedaily.com/releases/2025/03/250326221649.htm"
+    ]
+  ],
+  [
+    [
+      "2025-03-28, 13:05:52",
+      "https://news.ycombinator.com/item?id=43504940"
+    ],
+    [
+      "Excitable cells",
+      "https://jenevoldsen.com/posts/excitable-cells/"
     ]
   ]
 ]
