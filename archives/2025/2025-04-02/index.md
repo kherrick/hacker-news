@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-02](index.md)
 
+* [2025-04-02, 14:32:48](https://news.ycombinator.com/item?id=43557139) - [A dramatic Einstein ring seen by Webb](https://phys.org/news/2025-04-einstein-webb.html)
 * [2025-04-02, 13:48:30](https://news.ycombinator.com/item?id=43556656) - [Django 5.2 Released](https://www.djangoproject.com/weblog/2025/apr/02/django-52-released/)
 * [2025-04-02, 13:37:16](https://news.ycombinator.com/item?id=43556521) - [Abusive AI Web Crawlers: Get Off My Lawn](https://www.mythic-beasts.com/blog/2025/04/01/abusive-ai-web-crawlers-get-off-my-lawn/)
 * [2025-04-02, 13:30:24](https://news.ycombinator.com/item?id=43556463) - [Tesla (TSLA) announces 336,681 deliveries, far worse than expected](https://electrek.co/2025/04/02/tesla-tsla-q1-deliveries-worse/)

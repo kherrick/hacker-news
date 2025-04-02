@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-02, 14:32:48](https://news.ycombinator.com/item?id=43557139) - [A dramatic Einstein ring seen by Webb](https://phys.org/news/2025-04-einstein-webb.html)
 * [2025-04-02, 13:16:38](https://news.ycombinator.com/item?id=43556350) - [Sports supplement creatine makes no difference to muscle gains, trial finds](https://www.unsw.edu.au/newsroom/news/2025/03/sports-supplement-creatine-makes-no-difference-to-muscle-gains-trial-finds)
 * [2025-04-02, 13:10:40](https://news.ycombinator.com/item?id=43556280) - [A steam locomotive from 1993 broke my yarn test](https://blog.cloudflare.com/yarn-test-suffers-strange-derailment/)
-* [2025-04-02, 12:41:24](https://news.ycombinator.com/item?id=43555987) - [Show HN: Hot Notes – Fuzzy Search for Apple Notes (macOS)](https://hotmatcha.dev/hot-notes/)
 * [2025-04-02, 12:28:52](https://news.ycombinator.com/item?id=43555904) - [Measuring Acceleration Structures](https://zeux.io/2025/03/31/measuring-acceleration-structures/)
 * [2025-04-02, 10:25:18](https://news.ycombinator.com/item?id=43555286) - [Coffea stenophylla: A forgotten bean that could save coffee from extinction](https://www.smithsonianmag.com/science-nature/how-forgotten-bean-could-save-coffee-from-extinction-180986230/)
 * [2025-04-02, 10:18:08](https://news.ycombinator.com/item?id=43555248) - [UCSD: Large Language Models Pass the Turing Test](https://arxiv.org/abs/2503.23674)
