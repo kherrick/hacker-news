@@ -1,32 +1,22 @@
 [
   [
     [
-      "2025-04-02, 02:53:33",
-      "https://news.ycombinator.com/item?id=43553271"
-    ],
-    [
-      "Call for testing: OpenSSH 10.0 (DSA support removed)",
-      "https://lists.mindrot.org/pipermail/openssh-unix-dev/2025-April/041855.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-02, 02:20:58",
-      "https://news.ycombinator.com/item?id=43553134"
-    ],
-    [
-      "After Crash FAA Change Requires All Aircraft at Reagan to Broadcast Positions",
-      "https://www.nytimes.com/2025/03/27/us/politics/reagan-crash-faa-rule-change-broadcast-positions.html"
-    ]
-  ],
-  [
-    [
       "2025-04-02, 02:04:10",
       "https://news.ycombinator.com/item?id=43553056"
     ],
     [
       "Move fast, break things: A review of Abundance by Ezra Klein and Derek Thompson",
       "https://networked.substack.com/p/move-fast-and-break-things"
+    ]
+  ],
+  [
+    [
+      "2025-04-02, 01:57:13",
+      "https://news.ycombinator.com/item?id=43553031"
+    ],
+    [
+      "Show HN: I vibecoded a 35k LoC recipe app",
+      "https://www.recipeninja.ai"
     ]
   ],
   [
@@ -67,6 +57,16 @@
     [
       "AR Computers to Terminate Eyestrain and Myopia",
       "https://eyewiki.org/AR_Computers_To_Terminate_Eyestrain_And_Myopia"
+    ]
+  ],
+  [
+    [
+      "2025-04-01, 22:22:46",
+      "https://news.ycombinator.com/item?id=43551934"
+    ],
+    [
+      "The atrocious state of binary compatibility on Linux and how to address it",
+      "https://jangafx.com/insights/linux-binary-compatibility"
     ]
   ],
   [
@@ -117,6 +117,16 @@
     [
       "Shared DNA in Music",
       "https://pudding.cool/2025/04/music-dna/"
+    ]
+  ],
+  [
+    [
+      "2025-04-01, 21:06:14",
+      "https://news.ycombinator.com/item?id=43551338"
+    ],
+    [
+      "Silicon Valley, Halt and Catch Fire, and How Microserfdom Ate the World (2015)",
+      "https://grantland.com/hollywood-prospectus/silicon-valley-halt-catch-fire-microserfs-douglas-coupland/"
     ]
   ],
   [
@@ -231,26 +241,6 @@
   ],
   [
     [
-      "2025-04-01, 07:11:30",
-      "https://news.ycombinator.com/item?id=43543743"
-    ],
-    [
-      "The April Fools joke that might have got me fired",
-      "http://oldvcr.blogspot.com/2025/04/the-april-fools-joke-that-might-have.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-01, 05:46:34",
-      "https://news.ycombinator.com/item?id=43543235"
-    ],
-    [
-      "Show HN: Duolingo-style exercises but with real-world content like the news",
-      "https://app.fluentsubs.com/exercises/daily"
-    ]
-  ],
-  [
-    [
       "2025-03-31, 17:07:44",
       "https://news.ycombinator.com/item?id=43537272"
     ],
@@ -287,6 +277,16 @@
     [
       "Generate autounattend.xml files for Windows 10/11",
       "https://schneegans.de/windows/unattend-generator/"
+    ]
+  ],
+  [
+    [
+      "2025-03-29, 18:22:25",
+      "https://news.ycombinator.com/item?id=43517439"
+    ],
+    [
+      "Train and Weather Tracker with Raspberry Pi and E-Ink",
+      "https://sambroner.com/posts/raspberry-pi-train"
     ]
   ],
   [
