@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-02](index.md)
 
+* [2025-04-02, 20:02:09](https://news.ycombinator.com/item?id=43560899) - [Pico.sh (The ultimate SSH powered services for developers)](https://pico.sh/)
+* [2025-04-02, 19:58:08](https://news.ycombinator.com/item?id=43560849) - [What, exactly, is an 'AI Agent'? Here's a litmus test](https://www.tines.com/blog/a-litmus-test-for-ai-agents/)
+* [2025-04-02, 19:48:45](https://news.ycombinator.com/item?id=43560751) - [It's Unreal Just How Awful 'Real ID' Is (2020)](https://www.zocalopublicsquare.org/real-id-is-awful/)
 * [2025-04-02, 19:18:48](https://news.ycombinator.com/item?id=43560447) - [Gemini 2.5 gets 24.4% on MathArena USAMO beating previous top score of 4.7%](https://matharena.ai/)
 * [2025-04-02, 19:18:27](https://news.ycombinator.com/item?id=43560446) - [Location data show that race affects citations and fines for speeding](https://www.science.org/doi/10.1126/science.adp5357)
 * [2025-04-02, 19:09:02](https://news.ycombinator.com/item?id=43560336) - [Waltz's team set up at least 20 Signal group chats for crises across the world](https://www.politico.com/news/2025/04/02/waltzs-team-set-up-at-least-20-signal-group-chats-for-crises-across-the-world-00266845)
