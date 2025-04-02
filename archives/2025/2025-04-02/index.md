@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-02](index.md)
 
+* [2025-04-02, 21:43:51](https://news.ycombinator.com/item?id=43562005) - [Wikipedia, says its bandwidth costs have gone up 50% since Jan 2024](https://bsky.app/profile/cameronwilson.bsky.social/post/3llt2a6b3bu2v)
 * [2025-04-02, 21:13:53](https://news.ycombinator.com/item?id=43561691) - [What We Knew Without Knowing](https://www.newyorker.com/magazine/2025/04/07/what-we-knew-without-knowing)
 * [2025-04-02, 21:01:48](https://news.ycombinator.com/item?id=43561524) - [UpCodes (YC S17) Is Hiring SWEs and CSMs to make construction more productive](https://up.codes/careers?utm_source=HN)
 * [2025-04-02, 20:51:13](https://news.ycombinator.com/item?id=43561396) - [Henry James's American Journey](https://www.chronicle.com/article/henry-jamess-american-journey)
