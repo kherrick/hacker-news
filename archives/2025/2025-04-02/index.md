@@ -5,10 +5,12 @@
 ### [Archives](../../index.md) for [2025-04-02](index.md)
 
 * [2025-04-02, 23:10:55](https://news.ycombinator.com/item?id=43562860) - [Web Server for AoE 1, 2 and 3 DE supporting LAN multiplayer 100% offline](https://github.com/luskaner/ageLANServer)
+* [2025-04-02, 22:39:46](https://news.ycombinator.com/item?id=43562579) - [Switzerland's Vinyl Turntable Roundabout: Unique Road Art](https://www.newlyswissed.com/turntable-roundabout-in-switzerland/)
 * [2025-04-02, 22:26:52](https://news.ycombinator.com/item?id=43562448) - [Chronic ethanol produces sex-dependent impairments in striatum computations](https://www.science.org/doi/10.1126/sciadv.adt0200)
 * [2025-04-02, 22:20:53](https://news.ycombinator.com/item?id=43562384) - [Multi-Token Attention](https://arxiv.org/abs/2504.00927)
 * [2025-04-02, 21:59:25](https://news.ycombinator.com/item?id=43562157) - [Proof-of-work to protect lore.kernel.org and git.kernel.org against AI crawlers](https://social.kernel.org/notice/AsgziNL6zgmdbta3lY)
 * [2025-04-02, 21:54:50](https://news.ycombinator.com/item?id=43562119) - [Are People Bad at Their Jobs .or Are the Jobs Just Bad?](https://annehelen.substack.com/p/are-people-bad-at-their-jobsor-are)
+* [2025-04-02, 21:54:13](https://news.ycombinator.com/item?id=43562109) - [MIT 6.5950 Secure Hardware Design – An open-source course on hardware attacks](https://shd.mit.edu/home/)
 * [2025-04-02, 21:43:51](https://news.ycombinator.com/item?id=43562005) - [Wikipedia, says its bandwidth costs have gone up 50% since Jan 2024](https://bsky.app/profile/cameronwilson.bsky.social/post/3llt2a6b3bu2v)
 * [2025-04-02, 21:13:53](https://news.ycombinator.com/item?id=43561691) - [What We Knew Without Knowing](https://www.newyorker.com/magazine/2025/04/07/what-we-knew-without-knowing)
 * [2025-04-02, 21:01:48](https://news.ycombinator.com/item?id=43561524) - [UpCodes (YC S17) Is Hiring SWEs and CSMs to make construction more productive](https://up.codes/careers?utm_source=HN)
