@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-04-02, 19:18:48",
+      "https://news.ycombinator.com/item?id=43560447"
+    ],
+    [
+      "Gemini 2.5 gets 24.4% on MathArena USAMO beating previous top score of 4.7%",
+      "https://matharena.ai/"
+    ]
+  ],
+  [
+    [
+      "2025-04-02, 19:09:02",
+      "https://news.ycombinator.com/item?id=43560336"
+    ],
+    [
+      "Waltz's team set up at least 20 Signal group chats for crises across the world",
+      "https://www.politico.com/news/2025/04/02/waltzs-team-set-up-at-least-20-signal-group-chats-for-crises-across-the-world-00266845"
+    ]
+  ],
+  [
+    [
+      "2025-04-02, 18:43:14",
+      "https://news.ycombinator.com/item?id=43559986"
+    ],
+    [
+      "Item Flow, Part 1: A new unified concept for layout",
+      "https://webkit.org/blog/16587/item-flow-part-1-a-new-unified-concept-for-layout/"
+    ]
+  ],
+  [
+    [
       "2025-04-02, 18:34:22",
       "https://news.ycombinator.com/item?id=43559855"
     ],
@@ -91,12 +121,12 @@
   ],
   [
     [
-      "2025-04-02, 16:44:35",
-      "https://news.ycombinator.com/item?id=43558622"
+      "2025-04-02, 16:37:12",
+      "https://news.ycombinator.com/item?id=43558550"
     ],
     [
-      "Practical Prolog Planner Prompting",
-      "https://quantumprolog.sgml.net/llm-demo/part1.html#prolog-planner-generation-prompting-guide"
+      "Hacking the Call Records of Millions of Americans via the Verizon iOS app",
+      "https://evanconnelly.github.io/post/hacking-call-records/"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2025-04-02, 15:02:46",
-      "https://news.ycombinator.com/item?id=43557471"
-    ],
-    [
-      "Why is the world losing color?",
-      "https://www.culture-critic.com/p/why-is-the-world-losing-color"
-    ]
-  ],
-  [
-    [
       "2025-04-02, 14:51:11",
       "https://news.ycombinator.com/item?id=43557353"
     ],
@@ -191,26 +211,6 @@
   ],
   [
     [
-      "2025-04-02, 14:32:48",
-      "https://news.ycombinator.com/item?id=43557139"
-    ],
-    [
-      "A dramatic Einstein ring seen by Webb",
-      "https://phys.org/news/2025-04-einstein-webb.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-02, 13:10:40",
-      "https://news.ycombinator.com/item?id=43556280"
-    ],
-    [
-      "A steam locomotive from 1993 broke my yarn test",
-      "https://blog.cloudflare.com/yarn-test-suffers-strange-derailment/"
-    ]
-  ],
-  [
-    [
       "2025-04-02, 12:28:52",
       "https://news.ycombinator.com/item?id=43555904"
     ],
@@ -227,16 +227,6 @@
     [
       "Coffea stenophylla: A forgotten bean that could save coffee from extinction",
       "https://www.smithsonianmag.com/science-nature/how-forgotten-bean-could-save-coffee-from-extinction-180986230/"
-    ]
-  ],
-  [
-    [
-      "2025-04-01, 12:25:12",
-      "https://news.ycombinator.com/item?id=43545917"
-    ],
-    [
-      "Electron band structure in germanium, my ass (2001)",
-      "https://pages.cs.wisc.edu/~kovar/hall.html"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Stop syncing everything",
       "https://sqlsync.dev/posts/stop-syncing-everything/"
+    ]
+  ],
+  [
+    [
+      "2025-03-31, 09:59:32",
+      "https://news.ycombinator.com/item?id=43533124"
+    ],
+    [
+      "Vets Who Code",
+      "https://vetswhocode.io"
     ]
   ],
   [
