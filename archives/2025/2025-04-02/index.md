@@ -4,10 +4,18 @@
 
 ### [Archives](../../index.md) for [2025-04-02](index.md)
 
+* [2025-04-02, 13:30:24](https://news.ycombinator.com/item?id=43556463) - [Tesla (TSLA) announces 336,681 deliveries, far worse than expected](https://electrek.co/2025/04/02/tesla-tsla-q1-deliveries-worse/)
+* [2025-04-02, 13:27:33](https://news.ycombinator.com/item?id=43556443) - [Tesla suffers worst quarter since 2022 as deliveries tumble](https://www.ft.com/content/0ebcec51-2a5a-4820-99e8-1e500370fd68)
+* [2025-04-02, 13:17:14](https://news.ycombinator.com/item?id=43556355) - [What I would do if I was 18 now](https://levels.io/eighteen/)
+* [2025-04-02, 13:16:38](https://news.ycombinator.com/item?id=43556350) - [Sports supplement creatine makes no difference to muscle gains, trial finds](https://www.unsw.edu.au/newsroom/news/2025/03/sports-supplement-creatine-makes-no-difference-to-muscle-gains-trial-finds)
+* [2025-04-02, 13:15:56](https://news.ycombinator.com/item?id=43556344) - [Starlink sets up subsidiary in Faroe Islands](https://dimma.fo/grein/starlink-vil-veita-internet-i-foroyum-stovnadu-foroyskt-smapartafelag)
+* [2025-04-02, 13:13:14](https://news.ycombinator.com/item?id=43556305) - [Kindle as a High-Contrast GPS](https://www.instructables.com/Use-Your-Kindle-or-Other-Ebook-As-a-High-Visibilit/)
+* [2025-04-02, 13:10:40](https://news.ycombinator.com/item?id=43556280) - [A steam locomotive from 1993 broke my yarn test](https://blog.cloudflare.com/yarn-test-suffers-strange-derailment/)
 * [2025-04-02, 12:28:52](https://news.ycombinator.com/item?id=43555904) - [Measuring Acceleration Structures](https://zeux.io/2025/03/31/measuring-acceleration-structures/)
 * [2025-04-02, 12:28:04](https://news.ycombinator.com/item?id=43555898) - [Wikipedia is struggling with voracious AI bot crawlers](https://www.engadget.com/ai/wikipedia-is-struggling-with-voracious-ai-bot-crawlers-121546854.html)
 * [2025-04-02, 12:10:46](https://news.ycombinator.com/item?id=43555814) - [Don't Bother with Vibe Coding](https://www.soeren.codes/articles/do-not-bother-with-vibe-coding)
 * [2025-04-02, 10:33:20](https://news.ycombinator.com/item?id=43555334) - [RIP Val Kilmer: Real Genius .. the Film Nerd Culture Deserves (2015)](https://reactormag.com/30-years-later-real-genius-is-still-the-geek-solidarity-film-that-nerd-culture-deserves/)
+* [2025-04-02, 10:25:18](https://news.ycombinator.com/item?id=43555286) - [Coffea stenophylla: A forgotten bean that could save coffee from extinction](https://www.smithsonianmag.com/science-nature/how-forgotten-bean-could-save-coffee-from-extinction-180986230/)
 * [2025-04-02, 08:39:42](https://news.ycombinator.com/item?id=43554737) - [Multi-threading is always the wrong design](https://unetworkingab.medium.com/multi-threading-is-always-the-wrong-design-a227be57f107)
 * [2025-04-02, 07:07:33](https://news.ycombinator.com/item?id=43554329) - [Val Kilmer, star of Top Gun and The Doors, dies aged 65](https://www.theguardian.com/film/2025/apr/02/val-kilmer-death-age-65-pneumonia)
 * [2025-04-02, 06:11:35](https://news.ycombinator.com/item?id=43554064) - [Travel Guide for Stateless People](https://taejun.substack.com/p/travel-guide-for-stateless-people)

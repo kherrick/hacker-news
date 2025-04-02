@@ -61,6 +61,7 @@
 * [2025-03-30, 09:00:31](https://news.ycombinator.com/item?id=43522602) - [Ask HN: Code should be stored in a database. Who has tried this?](https://news.ycombinator.com/item?id=43522602)
 * [2025-03-30, 08:14:11](https://news.ycombinator.com/item?id=43522363) - [Four Lectures on Standard ML (1989) [pdf]](https://www.cs.tufts.edu/~nr/cs257/archive/mads-tofte/four-lectures.pdf)
 * [2025-03-30, 07:15:49](https://news.ycombinator.com/item?id=43522059) - [Kalua: An OpenWrt extension for building large mesh-networks](https://github.com/bittorf/kalua)
+* [2025-03-30, 07:01:56](https://news.ycombinator.com/item?id=43521994) - [Vitodeploy: Self hosted Laravel Forge alternative](https://vitodeploy.com/)
 * [2025-03-30, 05:48:36](https://news.ycombinator.com/item?id=43521682) - [Jack London, Jack Johnson, and the Fight of the Century](https://publicdomainreview.org/essay/jack-london-jack-johnson-and-the-fight-of-the-century/)
 * [2025-03-30, 04:06:35](https://news.ycombinator.com/item?id=43521244) - ['Catastrophic': Canadian bookings for U.S. travel drop sharply](https://www.ctvnews.ca/canada/article/where-have-all-the-snowbirds-gone-canadians-cold-on-us-travel/)
 * [2025-03-30, 03:14:36](https://news.ycombinator.com/item?id=43520953) - [Show HN: Cloud-Ready Postgres MCP Server](https://github.com/stuzero/pg-mcp)
