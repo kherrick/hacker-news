@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-02, 17:00:43",
+      "https://news.ycombinator.com/item?id=43558803"
+    ],
+    [
+      "Pulse (YC S24) Is Hiring",
+      "https://www.ycombinator.com/companies/pulse-3/jobs/6o4mkAj-machine-learning-engineer"
+    ]
+  ],
+  [
+    [
       "2025-04-02, 16:18:21",
       "https://news.ycombinator.com/item?id=43558352"
     ],
@@ -107,6 +117,16 @@
     [
       "UCSD: Large Language Models Pass the Turing Test",
       "https://arxiv.org/abs/2503.23674"
+    ]
+  ],
+  [
+    [
+      "2025-04-02, 08:46:23",
+      "https://news.ycombinator.com/item?id=43554769"
+    ],
+    [
+      "Show HN: Await-Tree – Visualize Async Rust Task Execution in Real-Time",
+      "https://github.com/risingwavelabs/await-tree"
     ]
   ],
   [
@@ -237,26 +257,6 @@
     [
       "Circuit Tracing: Revealing Computational Graphs in Language Models (Anthropic)",
       "https://transformer-circuits.pub/2025/attribution-graphs/methods.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-31, 06:33:04",
-      "https://news.ycombinator.com/item?id=43531816"
-    ],
-    [
-      "You're protecting your data wrong – Introducing the Protected Query Pattern",
-      "https://kilpi.vercel.app/blog/2025-03-27-introducing-the-protected-query-pattern/"
-    ]
-  ],
-  [
-    [
-      "2025-03-30, 13:18:07",
-      "https://news.ycombinator.com/item?id=43523946"
-    ],
-    [
-      "The Secret History of the War in Ukraine",
-      "https://www.nytimes.com/interactive/2025/03/29/world/europe/us-ukraine-military-war-wiesbaden.html"
     ]
   ],
   [
