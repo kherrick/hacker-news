@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-02, 17:00:43](https://news.ycombinator.com/item?id=43558803) - [Pulse (YC S24) Is Hiring](https://www.ycombinator.com/companies/pulse-3/jobs/6o4mkAj-machine-learning-engineer)
 * [2025-04-02, 16:18:21](https://news.ycombinator.com/item?id=43558352) - [Bare: Run JavaScript Everywhere](https://pears.com/news/introducing-bare-actually-run-javascript-everywhere/)
 * [2025-04-02, 16:07:11](https://news.ycombinator.com/item?id=43558227) - [A Small Violin Part Highlights Bigger Problems for the Global Economy](https://www.nytimes.com/2025/04/02/business/trump-tariffs-canada-us.html)
 * [2025-04-02, 16:03:12](https://news.ycombinator.com/item?id=43558182) - [Digital Archivists: Protecting Public Data from Erasure](https://spectrum.ieee.org/digital-archive)
@@ -11,6 +12,7 @@
 * [2025-04-02, 12:28:52](https://news.ycombinator.com/item?id=43555904) - [Measuring Acceleration Structures](https://zeux.io/2025/03/31/measuring-acceleration-structures/)
 * [2025-04-02, 10:25:18](https://news.ycombinator.com/item?id=43555286) - [Coffea stenophylla: A forgotten bean that could save coffee from extinction](https://www.smithsonianmag.com/science-nature/how-forgotten-bean-could-save-coffee-from-extinction-180986230/)
 * [2025-04-02, 10:18:08](https://news.ycombinator.com/item?id=43555248) - [UCSD: Large Language Models Pass the Turing Test](https://arxiv.org/abs/2503.23674)
+* [2025-04-02, 08:46:23](https://news.ycombinator.com/item?id=43554769) - [Show HN: Await-Tree – Visualize Async Rust Task Execution in Real-Time](https://github.com/risingwavelabs/await-tree)
 * [2025-04-01, 21:58:32](https://news.ycombinator.com/item?id=43551767) - [Show HN: Offline SOS signaling+recovery app for disasters/wars](https://github.com/nizarmah/igatha)
 * [2025-04-01, 21:46:31](https://news.ycombinator.com/item?id=43551663) - [Testing DVD-R and CD-R 25 years later: optical disks from Japan](https://goughlui.com/2025/03/23/optical-discs-from-japan-part-6-tdk-uv-guard-fuji-lg-sony-maxell-cmc/)
 * [2025-04-01, 21:11:43](https://news.ycombinator.com/item?id=43551397) - [DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit](https://github.com/dfd-tud/deda)
@@ -24,8 +26,6 @@
 * [2025-03-31, 11:40:44](https://news.ycombinator.com/item?id=43533792) - [The Tectonics Behind the Myanmar Quake](https://nautil.us/what-caused-the-devastating-earthquake-in-myanmar-1200737/)
 * [2025-03-31, 09:56:55](https://news.ycombinator.com/item?id=43533110) - [Certification Authority/Browser Forum adopts new security standards](https://security.googleblog.com/2025/03/new-security-requirements-adopted-by.html)
 * [2025-03-31, 07:42:13](https://news.ycombinator.com/item?id=43532253) - [Circuit Tracing: Revealing Computational Graphs in Language Models (Anthropic)](https://transformer-circuits.pub/2025/attribution-graphs/methods.html)
-* [2025-03-31, 06:33:04](https://news.ycombinator.com/item?id=43531816) - [You're protecting your data wrong – Introducing the Protected Query Pattern](https://kilpi.vercel.app/blog/2025-03-27-introducing-the-protected-query-pattern/)
-* [2025-03-30, 13:18:07](https://news.ycombinator.com/item?id=43523946) - [The Secret History of the War in Ukraine](https://www.nytimes.com/interactive/2025/03/29/world/europe/us-ukraine-military-war-wiesbaden.html)
 * [2025-03-30, 12:31:03](https://news.ycombinator.com/item?id=43523633) - [(2016) Interactive Neural Network Art](https://otoro.net/ml/netart/)
 * [2025-03-30, 00:50:21](https://news.ycombinator.com/item?id=43520122) - [A 6-Hour Time-Stretched Version of Brian Eno's Music for Airports](https://www.openculture.com/2025/03/a-6-hour-time-stretched-version-of-brian-enos-music-for-airports.html)
 * [2025-03-29, 18:22:25](https://news.ycombinator.com/item?id=43517439) - [Train and Weather Tracker with Raspberry Pi and E-Ink](https://sambroner.com/posts/raspberry-pi-train)
