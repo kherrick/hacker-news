@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-02](index.md)
 
 * [2025-04-02, 07:07:33](https://news.ycombinator.com/item?id=43554329) - [Val Kilmer, star of Top Gun and The Doors, dies aged 65](https://www.theguardian.com/film/2025/apr/02/val-kilmer-death-age-65-pneumonia)
+* [2025-04-02, 06:11:35](https://news.ycombinator.com/item?id=43554064) - [Travel Guide for Stateless People](https://taejun.substack.com/p/travel-guide-for-stateless-people)
 * [2025-04-02, 04:25:03](https://news.ycombinator.com/item?id=43553663) - [Where does air pollution come from?](https://ourworldindata.org/air-pollution-sources)
 * [2025-04-02, 04:04:21](https://news.ycombinator.com/item?id=43553573) - [Val Kilmer has passed away](https://www.nytimes.com/2025/04/01/movies/val-kilmer-dead.html)
 * [2025-04-02, 02:53:33](https://news.ycombinator.com/item?id=43553271) - [Call for testing: OpenSSH 10.0 (DSA support removed)](https://lists.mindrot.org/pipermail/openssh-unix-dev/2025-April/041855.html)
