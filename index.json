@@ -1,26 +1,6 @@
 [
   [
     [
-      "2025-04-02, 13:48:30",
-      "https://news.ycombinator.com/item?id=43556656"
-    ],
-    [
-      "Django 5.2 Released",
-      "https://www.djangoproject.com/weblog/2025/apr/02/django-52-released/"
-    ]
-  ],
-  [
-    [
-      "2025-04-02, 13:18:23",
-      "https://news.ycombinator.com/item?id=43556370"
-    ],
-    [
-      "Using fake deadlines without driving your engineers crazy",
-      "https://newsletter.manager.dev/p/using-fake-deadlines-without-driving"
-    ]
-  ],
-  [
-    [
       "2025-04-02, 13:16:38",
       "https://news.ycombinator.com/item?id=43556350"
     ],
@@ -57,6 +37,16 @@
     [
       "Coffea stenophylla: A forgotten bean that could save coffee from extinction",
       "https://www.smithsonianmag.com/science-nature/how-forgotten-bean-could-save-coffee-from-extinction-180986230/"
+    ]
+  ],
+  [
+    [
+      "2025-04-02, 10:18:08",
+      "https://news.ycombinator.com/item?id=43555248"
+    ],
+    [
+      "UCSD: Large Language Models Pass the Turing Test",
+      "https://arxiv.org/abs/2503.23674"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Circuit Tracing: Revealing Computational Graphs in Language Models (Anthropic)",
       "https://transformer-circuits.pub/2025/attribution-graphs/methods.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-31, 06:33:04",
+      "https://news.ycombinator.com/item?id=43531816"
+    ],
+    [
+      "You're protecting your data wrong – Introducing the Protected Query Pattern",
+      "https://kilpi.vercel.app/blog/2025-03-27-introducing-the-protected-query-pattern/"
     ]
   ],
   [
