@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-02, 18:14:44](https://news.ycombinator.com/item?id=43559605) - [I don't discuss politics with friends](https://shwin.co/blog/why-i-dont-discuss-politics-with-friends)
 * [2025-04-02, 18:02:26](https://news.ycombinator.com/item?id=43559451) - [NYC New Subway Map](https://www.nytimes.com/2025/04/02/nyregion/nyc-new-subway-map.html)
 * [2025-04-02, 17:30:08](https://news.ycombinator.com/item?id=43559122) - [When Jorge Luis Borges met one of the founders of AI](https://resobscura.substack.com/p/when-jorge-luis-borges-met-one-of)
 * [2025-04-02, 17:00:43](https://news.ycombinator.com/item?id=43558803) - [Pulse (YC S24) Is Hiring](https://www.ycombinator.com/companies/pulse-3/jobs/6o4mkAj-machine-learning-engineer)
@@ -20,6 +19,7 @@
 * [2025-04-02, 10:25:18](https://news.ycombinator.com/item?id=43555286) - [Coffea stenophylla: A forgotten bean that could save coffee from extinction](https://www.smithsonianmag.com/science-nature/how-forgotten-bean-could-save-coffee-from-extinction-180986230/)
 * [2025-04-01, 21:11:43](https://news.ycombinator.com/item?id=43551397) - [DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit](https://github.com/dfd-tud/deda)
 * [2025-04-01, 12:55:28](https://news.ycombinator.com/item?id=43546236) - [Bletchley code breaker Betty Webb dies aged 101](https://www.bbc.com/news/articles/c78jd30ywv8o)
+* [2025-04-01, 12:34:07](https://news.ycombinator.com/item?id=43546004) - [Why F#?](https://batsov.com/articles/2025/03/30/why-fsharp/)
 * [2025-04-01, 12:25:12](https://news.ycombinator.com/item?id=43545917) - [Electron band structure in germanium, my ass (2001)](https://pages.cs.wisc.edu/~kovar/hall.html)
 * [2025-04-01, 11:51:08](https://news.ycombinator.com/item?id=43545641) - [Show HN: A Chrome extension to give you back control over short-form videos](https://chromewebstore.google.com/detail/seek-anywhere/opofkjlejjcjalcpaimnpmkmjlclgded)
 * [2025-04-01, 03:06:07](https://news.ycombinator.com/item?id=43542410) - [Windows on ARM on a Smart Watch](https://gus33000.me/fish/)
