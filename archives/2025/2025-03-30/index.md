@@ -66,6 +66,7 @@
 * [2025-03-30, 01:34:10](https://news.ycombinator.com/item?id=43520428) - [6502 as a Service](https://www.emulationonline.com/systems/chiplab/6502-lab-available/)
 * [2025-03-30, 01:15:48](https://news.ycombinator.com/item?id=43520302) - [Rescission of the Final Scientific Integrity Policy of the NIH](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-25-080.html)
 * [2025-03-30, 01:15:24](https://news.ycombinator.com/item?id=43520297) - [A timeline of IBM keyboard history](https://sharktastica.co.uk/wip/timeline)
+* [2025-03-30, 00:50:21](https://news.ycombinator.com/item?id=43520122) - [A 6-Hour Time-Stretched Version of Brian Eno's Music for Airports](https://www.openculture.com/2025/03/a-6-hour-time-stretched-version-of-brian-enos-music-for-airports.html)
 * [2025-03-30, 00:41:45](https://news.ycombinator.com/item?id=43520074) - [My TV started playing a video in full screen by itself. What happened?](https://support.vizio.com/s/article/Ambient-or-Scenic-Mode-showing-on-my-TV?language=en_US)
 * [2025-03-30, 00:29:49](https://news.ycombinator.com/item?id=43520005) - [Chess324 – A Chess Variant to Reduce Draws](https://www.chessprogramming.org/Chess324)
 * [2025-03-30, 00:28:34](https://news.ycombinator.com/item?id=43519998) - [Buy once, use forever A directory of one-time purchase software. Add yours](https://buyoncesoftware.com/)
