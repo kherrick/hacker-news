@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-04-02](index.md)
 
+* [2025-04-02, 18:02:26](https://news.ycombinator.com/item?id=43559451) - [NYC New Subway Map](https://www.nytimes.com/2025/04/02/nyregion/nyc-new-subway-map.html)
 * [2025-04-02, 17:18:59](https://news.ycombinator.com/item?id=43559003) - [Amazon Submits Bid for TikTok with US Sale Deadline Nearing](https://www.bloomberg.com/news/articles/2025-04-02/amazon-submits-bid-for-tiktok-with-us-sale-deadline-approaching)
 * [2025-04-02, 17:00:43](https://news.ycombinator.com/item?id=43558803) - [Pulse (YC S24) Is Hiring](https://www.ycombinator.com/companies/pulse-3/jobs/6o4mkAj-machine-learning-engineer)
+* [2025-04-02, 16:59:09](https://news.ycombinator.com/item?id=43558783) - ['I Want to Make You Immortal' – How one woman confronted her deepfakes stalker](https://www.404media.co/email/2933ae7f-3e4c-4b4c-ac97-992e68ee5956/)
 * [2025-04-02, 16:49:56](https://news.ycombinator.com/item?id=43558671) - [Tell HN: Announcing tomhow as a public moderator](https://news.ycombinator.com/item?id=43558671)
 * [2025-04-02, 16:33:53](https://news.ycombinator.com/item?id=43558517) - [Show HN: Mermaid Chart VS Code Plugin: Mermaid.js Diagrams in Visual Studio Code](https://docs.mermaidchart.com/blog/posts/mermaid-chart-vs-code-plugin-create-and-edit-mermaid-js-diagrams-in-visual-studio-code)
 * [2025-04-02, 16:28:50](https://news.ycombinator.com/item?id=43558464) - [Matrix.org Will Migrate to MAS](https://matrix.org/blog/2025/04/matrix-auth-service/)
