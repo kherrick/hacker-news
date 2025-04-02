@@ -1,11 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-02, 06:11:35](https://news.ycombinator.com/item?id=43554064) - [Travel Guide for Stateless People](https://taejun.substack.com/p/travel-guide-for-stateless-people)
 * [2025-04-02, 04:25:03](https://news.ycombinator.com/item?id=43553663) - [Where does air pollution come from?](https://ourworldindata.org/air-pollution-sources)
 * [2025-04-02, 01:57:13](https://news.ycombinator.com/item?id=43553031) - [Show HN: I vibecoded a 35k LoC recipe app](https://www.recipeninja.ai)
 * [2025-04-02, 00:52:42](https://news.ycombinator.com/item?id=43552764) - [Forking Work Simplification – Let's Bring Back Eisenhower's Process Improvement](https://www.governance.fyi/p/forking-work-simplification-and-more)
 * [2025-04-02, 00:03:31](https://news.ycombinator.com/item?id=43552514) - [SSLyze – SSL configuration scanning library and CLI tool](https://github.com/nabla-c0d3/sslyze)
-* [2025-04-01, 22:22:46](https://news.ycombinator.com/item?id=43551934) - [The state of binary compatibility on Linux and how to address it](https://jangafx.com/insights/linux-binary-compatibility)
 * [2025-04-01, 22:19:35](https://news.ycombinator.com/item?id=43551915) - [Show HN: Textcase: A Python Library for Text Case Conversion](https://github.com/zobweyt/textcase)
 * [2025-04-01, 21:58:32](https://news.ycombinator.com/item?id=43551767) - [Show HN: Offline SOS signaling+recovery app for disasters/wars](https://github.com/nizarmah/igatha)
 * [2025-04-01, 21:46:31](https://news.ycombinator.com/item?id=43551663) - [Testing DVD-R and CD-R 25 years later: optical disks from Japan](https://goughlui.com/2025/03/23/optical-discs-from-japan-part-6-tdk-uv-guard-fuji-lg-sony-maxell-cmc/)
@@ -30,6 +28,8 @@
 * [2025-03-30, 00:50:21](https://news.ycombinator.com/item?id=43520122) - [A 6-Hour Time-Stretched Version of Brian Eno's Music for Airports](https://www.openculture.com/2025/03/a-6-hour-time-stretched-version-of-brian-enos-music-for-airports.html)
 * [2025-03-29, 20:44:41](https://news.ycombinator.com/item?id=43518570) - [Generate autounattend.xml files for Windows 10/11](https://schneegans.de/windows/unattend-generator/)
 * [2025-03-29, 18:22:25](https://news.ycombinator.com/item?id=43517439) - [Train and Weather Tracker with Raspberry Pi and E-Ink](https://sambroner.com/posts/raspberry-pi-train)
+* [2025-03-29, 13:39:06](https://news.ycombinator.com/item?id=43515443) - [Scientists uncover key mechanism in evolution: Whole-genome duplication drives](https://www.sciencedaily.com/releases/2025/03/250326221649.htm)
+* [2025-03-28, 13:05:52](https://news.ycombinator.com/item?id=43504940) - [Excitable cells](https://jenevoldsen.com/posts/excitable-cells/)
 
 ## [Archives](archives/index.md)
 
