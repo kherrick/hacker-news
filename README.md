@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-02, 22:20:53](https://news.ycombinator.com/item?id=43562384) - [Multi-Token Attention](https://arxiv.org/abs/2504.00927)
 * [2025-04-02, 21:59:25](https://news.ycombinator.com/item?id=43562157) - [Proof-of-work to protect lore.kernel.org and git.kernel.org against AI crawlers](https://social.kernel.org/notice/AsgziNL6zgmdbta3lY)
 * [2025-04-02, 21:54:50](https://news.ycombinator.com/item?id=43562119) - [Are People Bad at Their Jobs .or Are the Jobs Just Bad?](https://annehelen.substack.com/p/are-people-bad-at-their-jobsor-are)
-* [2025-04-02, 21:43:51](https://news.ycombinator.com/item?id=43562005) - [Wikipedia, says its bandwidth costs have gone up 50% since Jan 2024](https://bsky.app/profile/cameronwilson.bsky.social/post/3llt2a6b3bu2v)
 * [2025-04-02, 21:13:53](https://news.ycombinator.com/item?id=43561691) - [What We Knew Without Knowing](https://www.newyorker.com/magazine/2025/04/07/what-we-knew-without-knowing)
 * [2025-04-02, 21:01:48](https://news.ycombinator.com/item?id=43561524) - [UpCodes (YC S17) Is Hiring SWEs and CSMs to make construction more productive](https://up.codes/careers?utm_source=HN)
 * [2025-04-02, 20:51:13](https://news.ycombinator.com/item?id=43561396) - [Henry James's American Journey](https://www.chronicle.com/article/henry-jamess-american-journey)
-* [2025-04-02, 20:34:23](https://news.ycombinator.com/item?id=43561193) - [Prof. Sussman's Reading List](http://aurellem.org/thoughts/html/sussman-reading-list.html)
 * [2025-04-02, 20:02:09](https://news.ycombinator.com/item?id=43560899) - [Pico.sh (The ultimate SSH powered services for developers)](https://pico.sh/)
 * [2025-04-02, 20:01:01](https://news.ycombinator.com/item?id=43560885) - [Mozilla launching \"Thundermail\" email service to take on Gmail, Microsoft 365](https://www.techradar.com/pro/mozilla-launching-thundermail-email-service-to-take-on-gmail-microsoft-365)
 * [2025-04-02, 19:58:08](https://news.ycombinator.com/item?id=43560849) - [What, exactly, is an 'AI Agent'? Here's a litmus test](https://www.tines.com/blog/a-litmus-test-for-ai-agents/)
@@ -29,6 +28,7 @@
 * [2025-04-01, 11:51:08](https://news.ycombinator.com/item?id=43545641) - [Show HN: A Chrome extension to give you back control over short-form videos](https://chromewebstore.google.com/detail/seek-anywhere/opofkjlejjcjalcpaimnpmkmjlclgded)
 * [2025-03-31, 10:03:41](https://news.ycombinator.com/item?id=43533151) - [Dipping my toes in OpenBSD, in Amsterdam](https://ewintr.nl/posts/2025/dipping-my-toes-in-openbsd-in-amsterdam/)
 * [2025-03-31, 09:59:32](https://news.ycombinator.com/item?id=43533124) - [Vets Who Code](https://vetswhocode.io)
+* [2025-03-31, 08:25:20](https://news.ycombinator.com/item?id=43532551) - [Apple's Cubify Anything: Scaling Indoor 3D Object Detection](https://github.com/apple/ml-cubifyanything)
 * [2025-03-30, 14:25:26](https://news.ycombinator.com/item?id=43524461) - [TV Garden](https://tv.garden/)
 
 ## [Archives](archives/index.md)
