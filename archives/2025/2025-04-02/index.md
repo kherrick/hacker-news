@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-02](index.md)
 
+* [2025-04-02, 19:18:48](https://news.ycombinator.com/item?id=43560447) - [Gemini 2.5 gets 24.4% on MathArena USAMO beating previous top score of 4.7%](https://matharena.ai/)
+* [2025-04-02, 19:09:02](https://news.ycombinator.com/item?id=43560336) - [Waltz's team set up at least 20 Signal group chats for crises across the world](https://www.politico.com/news/2025/04/02/waltzs-team-set-up-at-least-20-signal-group-chats-for-crises-across-the-world-00266845)
+* [2025-04-02, 18:43:14](https://news.ycombinator.com/item?id=43559986) - [Item Flow, Part 1: A new unified concept for layout](https://webkit.org/blog/16587/item-flow-part-1-a-new-unified-concept-for-layout/)
 * [2025-04-02, 18:34:22](https://news.ycombinator.com/item?id=43559855) - [Restructuring Announcement](https://automattic.com/2025/04/02/restructuring-announcement/)
 * [2025-04-02, 18:24:51](https://news.ycombinator.com/item?id=43559733) - [Ask HN: How do you make a living contributing to and/or creating OSS projects?](https://news.ycombinator.com/item?id=43559733)
 * [2025-04-02, 18:14:44](https://news.ycombinator.com/item?id=43559605) - [I don't discuss politics with friends](https://shwin.co/blog/why-i-dont-discuss-politics-with-friends)
@@ -17,6 +20,7 @@
 * [2025-04-02, 16:59:09](https://news.ycombinator.com/item?id=43558783) - ['I Want to Make You Immortal' – How one woman confronted her deepfakes stalker](https://www.404media.co/email/2933ae7f-3e4c-4b4c-ac97-992e68ee5956/)
 * [2025-04-02, 16:49:56](https://news.ycombinator.com/item?id=43558671) - [Tell HN: Announcing tomhow as a public moderator](https://news.ycombinator.com/item?id=43558671)
 * [2025-04-02, 16:44:35](https://news.ycombinator.com/item?id=43558622) - [Practical Prolog Planner Prompting](https://quantumprolog.sgml.net/llm-demo/part1.html#prolog-planner-generation-prompting-guide)
+* [2025-04-02, 16:37:12](https://news.ycombinator.com/item?id=43558550) - [Hacking the Call Records of Millions of Americans via the Verizon iOS app](https://evanconnelly.github.io/post/hacking-call-records/)
 * [2025-04-02, 16:33:53](https://news.ycombinator.com/item?id=43558517) - [Show HN: Mermaid Chart VS Code Plugin: Mermaid.js Diagrams in Visual Studio Code](https://docs.mermaidchart.com/blog/posts/mermaid-chart-vs-code-plugin-create-and-edit-mermaid-js-diagrams-in-visual-studio-code)
 * [2025-04-02, 16:28:50](https://news.ycombinator.com/item?id=43558464) - [Matrix.org Will Migrate to MAS](https://matrix.org/blog/2025/04/matrix-auth-service/)
 * [2025-04-02, 16:18:21](https://news.ycombinator.com/item?id=43558352) - [Bare: Run JavaScript Everywhere](https://pears.com/news/introducing-bare-actually-run-javascript-everywhere/)
