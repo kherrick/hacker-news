@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-02, 10:33:20](https://news.ycombinator.com/item?id=43555334) - [RIP Val Kilmer: Real Genius .. the Film Nerd Culture Deserves (2015)](https://reactormag.com/30-years-later-real-genius-is-still-the-geek-solidarity-film-that-nerd-culture-deserves/)
 * [2025-04-02, 04:25:03](https://news.ycombinator.com/item?id=43553663) - [Where does air pollution come from?](https://ourworldindata.org/air-pollution-sources)
 * [2025-04-02, 00:52:42](https://news.ycombinator.com/item?id=43552764) - [Forking Work Simplification – Let's Bring Back Eisenhower's Process Improvement](https://www.governance.fyi/p/forking-work-simplification-and-more)
 * [2025-04-02, 00:03:31](https://news.ycombinator.com/item?id=43552514) - [SSLyze – SSL configuration scanning library and CLI tool](https://github.com/nabla-c0d3/sslyze)
@@ -9,7 +10,6 @@
 * [2025-04-01, 21:11:43](https://news.ycombinator.com/item?id=43551397) - [DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit](https://github.com/dfd-tud/deda)
 * [2025-04-01, 21:07:23](https://news.ycombinator.com/item?id=43551352) - [Shared DNA in Music](https://pudding.cool/2025/04/music-dna/)
 * [2025-04-01, 21:06:14](https://news.ycombinator.com/item?id=43551338) - [Silicon Valley, Halt and Catch Fire, and How Microserfdom Ate the World (2015)](https://grantland.com/hollywood-prospectus/silicon-valley-halt-catch-fire-microserfs-douglas-coupland/)
-* [2025-04-01, 21:00:08](https://news.ycombinator.com/item?id=43551276) - [Hightouch (YC S19) Is Hiring Front End Engineers](https://job-boards.greenhouse.io/hightouch/jobs/5437380004)
 * [2025-04-01, 19:33:38](https://news.ycombinator.com/item?id=43550556) - [How Silica Gel Took Over the World](https://www.scopeofwork.net/silica-gel/)
 * [2025-04-01, 17:48:45](https://news.ycombinator.com/item?id=43549618) - [Show HN: Zig Topological Sort Library for Parallel Processing](https://github.com/williamw520/toposort)
 * [2025-04-01, 17:19:48](https://news.ycombinator.com/item?id=43549293) - [The Myst Graph: A New Perspective on Myst](https://glthr.com/myst-graph-1)
