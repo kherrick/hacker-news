@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-04-02, 07:07:33",
-      "https://news.ycombinator.com/item?id=43554329"
-    ],
-    [
-      "Val Kilmer, star of Top Gun and The Doors, dies aged 65",
-      "https://www.theguardian.com/film/2025/apr/02/val-kilmer-death-age-65-pneumonia"
-    ]
-  ],
-  [
-    [
       "2025-04-02, 04:25:03",
       "https://news.ycombinator.com/item?id=43553663"
     ],
@@ -177,6 +167,16 @@
     [
       "Launch HN: ASim (YC S21) – Mobile app that generates mobile apps",
       "https://news.ycombinator.com/item?id=43547677"
+    ]
+  ],
+  [
+    [
+      "2025-04-01, 14:59:42",
+      "https://news.ycombinator.com/item?id=43547593"
+    ],
+    [
+      "Systems Correctness Practices at AWS: Leveraging Formal and Semi-Formal Methods",
+      "https://queue.acm.org/detail.cfm?id=3712057"
     ]
   ],
   [
