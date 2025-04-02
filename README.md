@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-02, 21:59:25](https://news.ycombinator.com/item?id=43562157) - [Proof-of-work to protect lore.kernel.org and git.kernel.org against AI crawlers](https://social.kernel.org/notice/AsgziNL6zgmdbta3lY)
+* [2025-04-02, 21:54:50](https://news.ycombinator.com/item?id=43562119) - [Are People Bad at Their Jobs .or Are the Jobs Just Bad?](https://annehelen.substack.com/p/are-people-bad-at-their-jobsor-are)
 * [2025-04-02, 21:43:51](https://news.ycombinator.com/item?id=43562005) - [Wikipedia, says its bandwidth costs have gone up 50% since Jan 2024](https://bsky.app/profile/cameronwilson.bsky.social/post/3llt2a6b3bu2v)
 * [2025-04-02, 21:13:53](https://news.ycombinator.com/item?id=43561691) - [What We Knew Without Knowing](https://www.newyorker.com/magazine/2025/04/07/what-we-knew-without-knowing)
 * [2025-04-02, 21:01:48](https://news.ycombinator.com/item?id=43561524) - [UpCodes (YC S17) Is Hiring SWEs and CSMs to make construction more productive](https://up.codes/careers?utm_source=HN)
@@ -8,7 +10,6 @@
 * [2025-04-02, 20:02:09](https://news.ycombinator.com/item?id=43560899) - [Pico.sh (The ultimate SSH powered services for developers)](https://pico.sh/)
 * [2025-04-02, 20:01:01](https://news.ycombinator.com/item?id=43560885) - [Mozilla launching \"Thundermail\" email service to take on Gmail, Microsoft 365](https://www.techradar.com/pro/mozilla-launching-thundermail-email-service-to-take-on-gmail-microsoft-365)
 * [2025-04-02, 19:58:08](https://news.ycombinator.com/item?id=43560849) - [What, exactly, is an 'AI Agent'? Here's a litmus test](https://www.tines.com/blog/a-litmus-test-for-ai-agents/)
-* [2025-04-02, 19:09:02](https://news.ycombinator.com/item?id=43560336) - [Waltz's team set up at least 20 Signal group chats for crises across the world](https://www.politico.com/news/2025/04/02/waltzs-team-set-up-at-least-20-signal-group-chats-for-crises-across-the-world-00266845)
 * [2025-04-02, 17:55:38](https://news.ycombinator.com/item?id=43559370) - [Ace: Realtime Computer Autopilot](https://generalagents.com/ace/)
 * [2025-04-02, 17:48:35](https://news.ycombinator.com/item?id=43559285) - [Zero Day in Microchip SAM Microcontrollers](https://wiki.recessim.com/view/ATSAM4C32)
 * [2025-04-02, 17:30:08](https://news.ycombinator.com/item?id=43559122) - [When Jorge Luis Borges met one of the founders of AI](https://resobscura.substack.com/p/when-jorge-luis-borges-met-one-of)
@@ -26,7 +27,6 @@
 * [2025-04-02, 10:25:18](https://news.ycombinator.com/item?id=43555286) - [Coffea stenophylla: A forgotten bean that could save coffee from extinction](https://www.smithsonianmag.com/science-nature/how-forgotten-bean-could-save-coffee-from-extinction-180986230/)
 * [2025-04-01, 15:01:11](https://news.ycombinator.com/item?id=43547611) - [Ask HN: Who is hiring? (April 2025)](https://news.ycombinator.com/item?id=43547611)
 * [2025-04-01, 11:51:08](https://news.ycombinator.com/item?id=43545641) - [Show HN: A Chrome extension to give you back control over short-form videos](https://chromewebstore.google.com/detail/seek-anywhere/opofkjlejjcjalcpaimnpmkmjlclgded)
-* [2025-04-01, 04:18:46](https://news.ycombinator.com/item?id=43542804) - [In the Matter of the Commas](https://theamericanscholar.org/in-the-matter-of-the-commas/)
 * [2025-03-31, 10:03:41](https://news.ycombinator.com/item?id=43533151) - [Dipping my toes in OpenBSD, in Amsterdam](https://ewintr.nl/posts/2025/dipping-my-toes-in-openbsd-in-amsterdam/)
 * [2025-03-31, 09:59:32](https://news.ycombinator.com/item?id=43533124) - [Vets Who Code](https://vetswhocode.io)
 * [2025-03-30, 14:25:26](https://news.ycombinator.com/item?id=43524461) - [TV Garden](https://tv.garden/)
