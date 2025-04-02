@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-02](index.md)
 
+* [2025-04-02, 04:04:21](https://news.ycombinator.com/item?id=43553573) - [Val Kilmer has passed away](https://www.nytimes.com/2025/04/01/movies/val-kilmer-dead.html)
 * [2025-04-02, 02:53:33](https://news.ycombinator.com/item?id=43553271) - [Call for testing: OpenSSH 10.0 (DSA support removed)](https://lists.mindrot.org/pipermail/openssh-unix-dev/2025-April/041855.html)
 * [2025-04-02, 02:20:58](https://news.ycombinator.com/item?id=43553134) - [After Crash FAA Change Requires All Aircraft at Reagan to Broadcast Positions](https://www.nytimes.com/2025/03/27/us/politics/reagan-crash-faa-rule-change-broadcast-positions.html)
 * [2025-04-02, 02:04:10](https://news.ycombinator.com/item?id=43553056) - [Move fast, break things: A review of Abundance by Ezra Klein and Derek Thompson](https://networked.substack.com/p/move-fast-and-break-things)

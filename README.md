@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-02, 02:04:10](https://news.ycombinator.com/item?id=43553056) - [Move fast, break things: A review of Abundance by Ezra Klein and Derek Thompson](https://networked.substack.com/p/move-fast-and-break-things)
+* [2025-04-02, 04:04:21](https://news.ycombinator.com/item?id=43553573) - [Val Kilmer has passed away](https://www.nytimes.com/2025/04/01/movies/val-kilmer-dead.html)
 * [2025-04-02, 01:57:13](https://news.ycombinator.com/item?id=43553031) - [Show HN: I vibecoded a 35k LoC recipe app](https://www.recipeninja.ai)
 * [2025-04-02, 00:52:42](https://news.ycombinator.com/item?id=43552764) - [Forking Work Simplification – Let's Bring Back Eisenhower's Process Improvement](https://www.governance.fyi/p/forking-work-simplification-and-more)
 * [2025-04-02, 00:05:47](https://news.ycombinator.com/item?id=43552530) - [Simulated Economy Tutorial](https://jasonfantl.com/posts/Simulated-Economy-(1)/)
@@ -14,7 +14,6 @@
 * [2025-04-01, 21:07:23](https://news.ycombinator.com/item?id=43551352) - [Shared DNA in Music](https://pudding.cool/2025/04/music-dna/)
 * [2025-04-01, 21:06:14](https://news.ycombinator.com/item?id=43551338) - [Silicon Valley, Halt and Catch Fire, and How Microserfdom Ate the World (2015)](https://grantland.com/hollywood-prospectus/silicon-valley-halt-catch-fire-microserfs-douglas-coupland/)
 * [2025-04-01, 21:00:08](https://news.ycombinator.com/item?id=43551276) - [Hightouch (YC S19) Is Hiring Front End Engineers](https://job-boards.greenhouse.io/hightouch/jobs/5437380004)
-* [2025-04-01, 18:40:47](https://news.ycombinator.com/item?id=43550098) - [Dave Täht has died](https://libreqos.io/2025/04/01/in-loving-memory-of-dave/)
 * [2025-04-01, 17:48:45](https://news.ycombinator.com/item?id=43549618) - [Show HN: Zig Topological Sort Library for Parallel Processing](https://github.com/williamw520/toposort)
 * [2025-04-01, 17:19:48](https://news.ycombinator.com/item?id=43549293) - [The Myst Graph: A New Perspective on Myst](https://glthr.com/myst-graph-1)
 * [2025-04-01, 16:19:28](https://news.ycombinator.com/item?id=43548589) - [Tell HN: Camelgate NPM Outage (Cloudflare)](https://news.ycombinator.com/item?id=43548589)
@@ -27,6 +26,7 @@
 * [2025-03-31, 17:07:44](https://news.ycombinator.com/item?id=43537272) - [Stop Syncing Everything](https://sqlsync.dev/posts/stop-syncing-everything/)
 * [2025-03-31, 14:21:15](https://news.ycombinator.com/item?id=43535376) - [AI image recognition detects bubble-like structures in the universe](https://phys.org/news/2025-03-ai-image-recognition-universe.html)
 * [2025-03-31, 07:42:13](https://news.ycombinator.com/item?id=43532253) - [Circuit Tracing: Revealing Computational Graphs in Language Models (Anthropic)](https://transformer-circuits.pub/2025/attribution-graphs/methods.html)
+* [2025-03-30, 15:56:26](https://news.ycombinator.com/item?id=43525129) - [Converting a Go-Kart into a Deathtrap](https://matto.io/posts/converting-a-go-kart-into-a-deathtrap/)
 * [2025-03-29, 20:44:41](https://news.ycombinator.com/item?id=43518570) - [Generate autounattend.xml files for Windows 10/11](https://schneegans.de/windows/unattend-generator/)
 * [2025-03-29, 18:22:25](https://news.ycombinator.com/item?id=43517439) - [Train and Weather Tracker with Raspberry Pi and E-Ink](https://sambroner.com/posts/raspberry-pi-train)
 * [2025-03-28, 13:05:52](https://news.ycombinator.com/item?id=43504940) - [Excitable cells](https://jenevoldsen.com/posts/excitable-cells/)
