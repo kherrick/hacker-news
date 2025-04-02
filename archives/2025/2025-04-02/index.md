@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-02](index.md)
 
+* [2025-04-02, 18:14:44](https://news.ycombinator.com/item?id=43559605) - [I don't discuss politics with friends](https://shwin.co/blog/why-i-dont-discuss-politics-with-friends)
 * [2025-04-02, 18:02:26](https://news.ycombinator.com/item?id=43559451) - [NYC New Subway Map](https://www.nytimes.com/2025/04/02/nyregion/nyc-new-subway-map.html)
+* [2025-04-02, 17:30:08](https://news.ycombinator.com/item?id=43559122) - [When Jorge Luis Borges met one of the founders of AI](https://resobscura.substack.com/p/when-jorge-luis-borges-met-one-of)
 * [2025-04-02, 17:18:59](https://news.ycombinator.com/item?id=43559003) - [Amazon Submits Bid for TikTok with US Sale Deadline Nearing](https://www.bloomberg.com/news/articles/2025-04-02/amazon-submits-bid-for-tiktok-with-us-sale-deadline-approaching)
 * [2025-04-02, 17:00:43](https://news.ycombinator.com/item?id=43558803) - [Pulse (YC S24) Is Hiring](https://www.ycombinator.com/companies/pulse-3/jobs/6o4mkAj-machine-learning-engineer)
 * [2025-04-02, 16:59:09](https://news.ycombinator.com/item?id=43558783) - ['I Want to Make You Immortal' – How one woman confronted her deepfakes stalker](https://www.404media.co/email/2933ae7f-3e4c-4b4c-ac97-992e68ee5956/)

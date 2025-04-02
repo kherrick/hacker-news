@@ -57,6 +57,7 @@
 * [2025-04-01, 05:46:34](https://news.ycombinator.com/item?id=43543235) - [Show HN: Duolingo-style exercises but with real-world content like the news](https://app.fluentsubs.com/exercises/daily)
 * [2025-04-01, 05:15:42](https://news.ycombinator.com/item?id=43543075) - [Entire staff at federal agency that funds libraries and museums put on leave](https://www.npr.org/2025/03/31/nx-s1-5334415/doge-institute-of-museum-and-library-services)
 * [2025-04-01, 03:45:59](https://news.ycombinator.com/item?id=43542633) - [Netflix CEO Says Movie Theaters Are Dead](https://www.semafor.com/article/03/30/2025/movie-theaters-still-dead-per-netflix-boss)
+* [2025-04-01, 03:06:07](https://news.ycombinator.com/item?id=43542410) - [Windows on ARM on a Smart Watch](https://gus33000.me/fish/)
 * [2025-04-01, 02:51:33](https://news.ycombinator.com/item?id=43542333) - [An 'Administrative Error' Sends a Maryland Father to a Salvadoran Prison](https://www.theatlantic.com/politics/archive/2025/03/an-administrative-error-sends-a-man-to-a-salvadoran-prison/682254/)
 * [2025-04-01, 02:34:40](https://news.ycombinator.com/item?id=43542259) - [Get the hell out of the LLM as soon as possible](https://sgnt.ai/p/hell-out-of-llms/)
 * [2025-04-01, 02:17:20](https://news.ycombinator.com/item?id=43542151) - [The Demand Side of Democratic Backsliding](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/demand-side-of-democratic-backsliding-how-divergent-understandings-of-democracy-shape-political-choice/3DEB0DC344DF35BF4334366F07411116)
