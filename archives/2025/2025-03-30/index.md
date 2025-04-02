@@ -51,6 +51,7 @@
 * [2025-03-30, 14:15:51](https://news.ycombinator.com/item?id=43524394) - [In Defense of the Rat](https://hakaimagazine.com/features/in-defense-of-the-rat/)
 * [2025-03-30, 14:15:15](https://news.ycombinator.com/item?id=43524385) - [Lehmer's Continued Fraction Factorization Algorithm](https://leetarxiv.substack.com/p/continued-fraction-factorize-factorization)
 * [2025-03-30, 13:21:33](https://news.ycombinator.com/item?id=43523974) - [Hacker Laws](https://hacker-laws.com/)
+* [2025-03-30, 13:18:07](https://news.ycombinator.com/item?id=43523946) - [The Secret History of the War in Ukraine](https://www.nytimes.com/interactive/2025/03/29/world/europe/us-ukraine-military-war-wiesbaden.html)
 * [2025-03-30, 13:10:12](https://news.ycombinator.com/item?id=43523875) - [USGS: M 7.1 Earthquake – 90 km SE of Pangai, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pntq/executive)
 * [2025-03-30, 12:57:09](https://news.ycombinator.com/item?id=43523797) - [It's the hottest car company. You can't buy one in America](https://www.cnn.com/2025/03/26/cars/china-byd-profile-tesla-rival-intl-hnk/index.html)
 * [2025-03-30, 12:50:45](https://news.ycombinator.com/item?id=43523765) - [Why a plane turned around when a passenger lost a phone midflight](https://www.washingtonpost.com/travel/2025/03/28/air-france-lost-cellphone/)
