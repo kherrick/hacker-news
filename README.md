@@ -3,6 +3,7 @@
 * [2025-04-02, 06:11:35](https://news.ycombinator.com/item?id=43554064) - [Travel Guide for Stateless People](https://taejun.substack.com/p/travel-guide-for-stateless-people)
 * [2025-04-02, 04:25:03](https://news.ycombinator.com/item?id=43553663) - [Where does air pollution come from?](https://ourworldindata.org/air-pollution-sources)
 * [2025-04-02, 00:52:42](https://news.ycombinator.com/item?id=43552764) - [Forking Work Simplification – Let's Bring Back Eisenhower's Process Improvement](https://www.governance.fyi/p/forking-work-simplification-and-more)
+* [2025-04-02, 00:03:31](https://news.ycombinator.com/item?id=43552514) - [SSLyze – SSL configuration scanning library and CLI tool](https://github.com/nabla-c0d3/sslyze)
 * [2025-04-01, 22:22:46](https://news.ycombinator.com/item?id=43551934) - [The state of binary compatibility on Linux and how to address it](https://jangafx.com/insights/linux-binary-compatibility)
 * [2025-04-01, 22:19:35](https://news.ycombinator.com/item?id=43551915) - [Show HN: Textcase: A Python Library for Text Case Conversion](https://github.com/zobweyt/textcase)
 * [2025-04-01, 21:58:32](https://news.ycombinator.com/item?id=43551767) - [Show HN: Offline SOS signaling+recovery app for disasters/wars](https://github.com/nizarmah/igatha)
@@ -10,7 +11,6 @@
 * [2025-04-01, 21:11:43](https://news.ycombinator.com/item?id=43551397) - [DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit](https://github.com/dfd-tud/deda)
 * [2025-04-01, 21:07:23](https://news.ycombinator.com/item?id=43551352) - [Shared DNA in Music](https://pudding.cool/2025/04/music-dna/)
 * [2025-04-01, 21:06:14](https://news.ycombinator.com/item?id=43551338) - [Silicon Valley, Halt and Catch Fire, and How Microserfdom Ate the World (2015)](https://grantland.com/hollywood-prospectus/silicon-valley-halt-catch-fire-microserfs-douglas-coupland/)
-* [2025-04-01, 21:00:08](https://news.ycombinator.com/item?id=43551276) - [Hightouch (YC S19) Is Hiring Front End Engineers](https://job-boards.greenhouse.io/hightouch/jobs/5437380004)
 * [2025-04-01, 19:33:38](https://news.ycombinator.com/item?id=43550556) - [How Silica Gel Took Over the World](https://www.scopeofwork.net/silica-gel/)
 * [2025-04-01, 17:48:45](https://news.ycombinator.com/item?id=43549618) - [Show HN: Zig Topological Sort Library for Parallel Processing](https://github.com/williamw520/toposort)
 * [2025-04-01, 17:19:48](https://news.ycombinator.com/item?id=43549293) - [The Myst Graph: A New Perspective on Myst](https://glthr.com/myst-graph-1)
@@ -25,11 +25,11 @@
 * [2025-03-31, 07:42:13](https://news.ycombinator.com/item?id=43532253) - [Circuit Tracing: Revealing Computational Graphs in Language Models (Anthropic)](https://transformer-circuits.pub/2025/attribution-graphs/methods.html)
 * [2025-03-30, 17:59:02](https://news.ycombinator.com/item?id=43526118) - [Open source, 3D-printable smart chess board](https://thangs.com/designer/Concept%20Bytes/3d-model/Open%20Chess%20-%20Smart%20Chess%20Board-1300202)
 * [2025-03-30, 15:56:26](https://news.ycombinator.com/item?id=43525129) - [Converting a Go-Kart into a Deathtrap](https://matto.io/posts/converting-a-go-kart-into-a-deathtrap/)
+* [2025-03-30, 09:00:31](https://news.ycombinator.com/item?id=43522602) - [Ask HN: Code should be stored in a database. Who has tried this?](https://news.ycombinator.com/item?id=43522602)
 * [2025-03-30, 00:50:21](https://news.ycombinator.com/item?id=43520122) - [A 6-Hour Time-Stretched Version of Brian Eno's Music for Airports](https://www.openculture.com/2025/03/a-6-hour-time-stretched-version-of-brian-enos-music-for-airports.html)
 * [2025-03-29, 20:44:41](https://news.ycombinator.com/item?id=43518570) - [Generate autounattend.xml files for Windows 10/11](https://schneegans.de/windows/unattend-generator/)
 * [2025-03-29, 18:22:25](https://news.ycombinator.com/item?id=43517439) - [Train and Weather Tracker with Raspberry Pi and E-Ink](https://sambroner.com/posts/raspberry-pi-train)
 * [2025-03-29, 13:39:06](https://news.ycombinator.com/item?id=43515443) - [Scientists uncover key mechanism in evolution: Whole-genome duplication drives](https://www.sciencedaily.com/releases/2025/03/250326221649.htm)
-* [2025-03-28, 13:05:52](https://news.ycombinator.com/item?id=43504940) - [Excitable cells](https://jenevoldsen.com/posts/excitable-cells/)
 
 ## [Archives](archives/index.md)
 

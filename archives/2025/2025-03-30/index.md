@@ -56,6 +56,7 @@
 * [2025-03-30, 12:47:07](https://news.ycombinator.com/item?id=43523741) - [Tail Call Recursion in Java with ASM (2023)](https://unlinkedlist.org/2023/03/19/tail-call-recursion-in-java-with-asm/)
 * [2025-03-30, 11:15:12](https://news.ycombinator.com/item?id=43523238) - [Rust Any part 3: we have upcasts](https://lucumr.pocoo.org/2025/3/27/any-upcast/)
 * [2025-03-30, 10:20:11](https://news.ycombinator.com/item?id=43522966) - [The average college student today](https://hilariusbookbinder.substack.com/p/the-average-college-student-today)
+* [2025-03-30, 09:00:31](https://news.ycombinator.com/item?id=43522602) - [Ask HN: Code should be stored in a database. Who has tried this?](https://news.ycombinator.com/item?id=43522602)
 * [2025-03-30, 08:14:11](https://news.ycombinator.com/item?id=43522363) - [Four Lectures on Standard ML (1989) [pdf]](https://www.cs.tufts.edu/~nr/cs257/archive/mads-tofte/four-lectures.pdf)
 * [2025-03-30, 07:15:49](https://news.ycombinator.com/item?id=43522059) - [Kalua: An OpenWrt extension for building large mesh-networks](https://github.com/bittorf/kalua)
 * [2025-03-30, 05:48:36](https://news.ycombinator.com/item?id=43521682) - [Jack London, Jack Johnson, and the Fight of the Century](https://publicdomainreview.org/essay/jack-london-jack-johnson-and-the-fight-of-the-century/)
