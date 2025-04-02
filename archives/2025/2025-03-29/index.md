@@ -28,6 +28,7 @@
 * [2025-03-29, 19:19:05](https://news.ycombinator.com/item?id=43517833) - [Utah becomes first US state to ban fluoride in its water](https://www.bbc.com/news/articles/c4gmggp2y99o)
 * [2025-03-29, 19:18:39](https://news.ycombinator.com/item?id=43517828) - [I don't think I can trust Google as my search engine anymore](https://www.androidpolice.com/google-search-engine-lost-my-trust/)
 * [2025-03-29, 19:12:38](https://news.ycombinator.com/item?id=43517779) - [Beautiful and Minimalistic Chrome Extension](https://lofitab.com/)
+* [2025-03-29, 19:08:10](https://news.ycombinator.com/item?id=43517738) - [Publishers trial paying peer reviewers – what did they find?](https://www.nature.com/articles/d41586-025-00968-6)
 * [2025-03-29, 19:07:44](https://news.ycombinator.com/item?id=43517734) - [OSS-SEC: Three bypasses of Ubuntu's unprivileged user namespace restrictions](https://seclists.org/oss-sec/2025/q1/253)
 * [2025-03-29, 18:49:57](https://news.ycombinator.com/item?id=43517613) - [Jeremy Howard taught AI and helped invent ChatGPT. He fears he's failed](https://www.abc.net.au/news/science/2023-11-15/jeremy-howard-taught-ai-to-the-world-and-helped-invent-chatgpt/103092474)
 * [2025-03-29, 18:48:44](https://news.ycombinator.com/item?id=43517603) - [Body Doubling](https://en.wikipedia.org/wiki/Body_doubling)
