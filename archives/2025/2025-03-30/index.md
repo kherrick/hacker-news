@@ -48,6 +48,7 @@
 * [2025-03-30, 14:53:33](https://news.ycombinator.com/item?id=43524665) - [Span<T>.SequenceEquals is faster than memcmp](https://richardcocks.github.io/2025-03-30-FasterThanMemCmp.html)
 * [2025-03-30, 14:35:34](https://news.ycombinator.com/item?id=43524537) - [DNA scaffolds enable self-assembling 3D electronic devices](https://techxplore.com/news/2025-03-dna-scaffolds-enable-3d-electronic.html)
 * [2025-03-30, 14:35:26](https://news.ycombinator.com/item?id=43524534) - [An Ode to the Game Boy Advance](https://brainbaking.com/post/2025/03/an-ode-to-the-game-boy-advance/)
+* [2025-03-30, 14:25:26](https://news.ycombinator.com/item?id=43524461) - [TV Garden(Channels from the World)](https://tv.garden/)
 * [2025-03-30, 14:15:51](https://news.ycombinator.com/item?id=43524394) - [In Defense of the Rat](https://hakaimagazine.com/features/in-defense-of-the-rat/)
 * [2025-03-30, 14:15:15](https://news.ycombinator.com/item?id=43524385) - [Lehmer's Continued Fraction Factorization Algorithm](https://leetarxiv.substack.com/p/continued-fraction-factorize-factorization)
 * [2025-03-30, 13:21:33](https://news.ycombinator.com/item?id=43523974) - [Hacker Laws](https://hacker-laws.com/)
