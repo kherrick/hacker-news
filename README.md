@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-02, 07:07:33](https://news.ycombinator.com/item?id=43554329) - [Val Kilmer, star of Top Gun and The Doors, dies aged 65](https://www.theguardian.com/film/2025/apr/02/val-kilmer-death-age-65-pneumonia)
 * [2025-04-02, 04:25:03](https://news.ycombinator.com/item?id=43553663) - [Where does air pollution come from?](https://ourworldindata.org/air-pollution-sources)
 * [2025-04-02, 01:57:13](https://news.ycombinator.com/item?id=43553031) - [Show HN: I vibecoded a 35k LoC recipe app](https://www.recipeninja.ai)
 * [2025-04-02, 00:52:42](https://news.ycombinator.com/item?id=43552764) - [Forking Work Simplification – Let's Bring Back Eisenhower's Process Improvement](https://www.governance.fyi/p/forking-work-simplification-and-more)
@@ -18,6 +17,7 @@
 * [2025-04-01, 16:19:28](https://news.ycombinator.com/item?id=43548589) - [Tell HN: Camelgate NPM Outage (Cloudflare)](https://news.ycombinator.com/item?id=43548589)
 * [2025-04-01, 15:49:01](https://news.ycombinator.com/item?id=43548217) - [Glubux's Powerwall (2016)](https://secondlifestorage.com/index.php?threads/glubuxs-powerwall.126/)
 * [2025-04-01, 15:06:11](https://news.ycombinator.com/item?id=43547677) - [Launch HN: ASim (YC S21) – Mobile app that generates mobile apps](https://news.ycombinator.com/item?id=43547677)
+* [2025-04-01, 14:59:42](https://news.ycombinator.com/item?id=43547593) - [Systems Correctness Practices at AWS: Leveraging Formal and Semi-Formal Methods](https://queue.acm.org/detail.cfm?id=3712057)
 * [2025-04-01, 12:55:28](https://news.ycombinator.com/item?id=43546236) - [Bletchley code breaker Betty Webb dies aged 101](https://www.bbc.com/news/articles/c78jd30ywv8o)
 * [2025-04-01, 12:25:12](https://news.ycombinator.com/item?id=43545917) - [Electron band structure in germanium, my ass (2001)](https://pages.cs.wisc.edu/~kovar/hall.html)
 * [2025-03-31, 17:07:44](https://news.ycombinator.com/item?id=43537272) - [Stop Syncing Everything](https://sqlsync.dev/posts/stop-syncing-everything/)
