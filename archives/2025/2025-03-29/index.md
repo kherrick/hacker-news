@@ -62,6 +62,7 @@
 * [2025-03-29, 14:24:45](https://news.ycombinator.com/item?id=43515812) - [ASML's boss has a warning for Europe](https://www.economist.com/business/2025/03/25/asmls-boss-has-a-warning-for-europe)
 * [2025-03-29, 14:02:53](https://news.ycombinator.com/item?id=43515622) - [Show HN: I made a little puzzle game about a rogue chess knight](https://knightride.rakhim.org/)
 * [2025-03-29, 13:53:31](https://news.ycombinator.com/item?id=43515563) - [Why I'm No Longer Talking to Architects About Microservices](https://blog.container-solutions.com/why-im-no-longer-talking-to-architects-about-microservices)
+* [2025-03-29, 13:39:06](https://news.ycombinator.com/item?id=43515443) - [Scientists uncover key mechanism in evolution: Whole-genome duplication drives](https://www.sciencedaily.com/releases/2025/03/250326221649.htm)
 * [2025-03-29, 13:36:14](https://news.ycombinator.com/item?id=43515426) - [Typed Japanese](https://github.com/typedgrammar/typed-japanese)
 * [2025-03-29, 13:17:31](https://news.ycombinator.com/item?id=43515294) - [International students wake to an email asking them to self deport](https://timesofindia.indiatimes.com/world/us/hundreds-of-international-students-are-waking-up-to-an-email-asking-them-to-self-deport-for-campus-activism-or-even-sharing-posts-on-social-media/articleshow/119679695.cms)
 * [2025-03-29, 13:13:42](https://news.ycombinator.com/item?id=43515268) - [The Design of the New Swiss Passport](https://kottke.org/25/03/the-design-of-the-new-swiss-passport)
