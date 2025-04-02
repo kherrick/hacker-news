@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-02, 22:20:53",
+      "https://news.ycombinator.com/item?id=43562384"
+    ],
+    [
+      "Multi-Token Attention",
+      "https://arxiv.org/abs/2504.00927"
+    ]
+  ],
+  [
+    [
       "2025-04-02, 21:59:25",
       "https://news.ycombinator.com/item?id=43562157"
     ],
@@ -17,16 +27,6 @@
     [
       "Are People Bad at Their Jobs .or Are the Jobs Just Bad?",
       "https://annehelen.substack.com/p/are-people-bad-at-their-jobsor-are"
-    ]
-  ],
-  [
-    [
-      "2025-04-02, 21:43:51",
-      "https://news.ycombinator.com/item?id=43562005"
-    ],
-    [
-      "Wikipedia, says its bandwidth costs have gone up 50% since Jan 2024",
-      "https://bsky.app/profile/cameronwilson.bsky.social/post/3llt2a6b3bu2v"
     ]
   ],
   [
@@ -57,16 +57,6 @@
     [
       "Henry James's American Journey",
       "https://www.chronicle.com/article/henry-jamess-american-journey"
-    ]
-  ],
-  [
-    [
-      "2025-04-02, 20:34:23",
-      "https://news.ycombinator.com/item?id=43561193"
-    ],
-    [
-      "Prof. Sussman's Reading List",
-      "http://aurellem.org/thoughts/html/sussman-reading-list.html"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Vets Who Code",
       "https://vetswhocode.io"
+    ]
+  ],
+  [
+    [
+      "2025-03-31, 08:25:20",
+      "https://news.ycombinator.com/item?id=43532551"
+    ],
+    [
+      "Apple's Cubify Anything: Scaling Indoor 3D Object Detection",
+      "https://github.com/apple/ml-cubifyanything"
     ]
   ],
   [
