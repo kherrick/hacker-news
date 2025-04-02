@@ -1,6 +1,76 @@
 [
   [
     [
+      "2025-04-02, 13:30:24",
+      "https://news.ycombinator.com/item?id=43556463"
+    ],
+    [
+      "Tesla (TSLA) announces 336,681 deliveries, far worse than expected",
+      "https://electrek.co/2025/04/02/tesla-tsla-q1-deliveries-worse/"
+    ]
+  ],
+  [
+    [
+      "2025-04-02, 13:27:33",
+      "https://news.ycombinator.com/item?id=43556443"
+    ],
+    [
+      "Tesla suffers worst quarter since 2022 as deliveries tumble",
+      "https://www.ft.com/content/0ebcec51-2a5a-4820-99e8-1e500370fd68"
+    ]
+  ],
+  [
+    [
+      "2025-04-02, 13:17:14",
+      "https://news.ycombinator.com/item?id=43556355"
+    ],
+    [
+      "What I would do if I was 18 now",
+      "https://levels.io/eighteen/"
+    ]
+  ],
+  [
+    [
+      "2025-04-02, 13:16:38",
+      "https://news.ycombinator.com/item?id=43556350"
+    ],
+    [
+      "Sports supplement creatine makes no difference to muscle gains, trial finds",
+      "https://www.unsw.edu.au/newsroom/news/2025/03/sports-supplement-creatine-makes-no-difference-to-muscle-gains-trial-finds"
+    ]
+  ],
+  [
+    [
+      "2025-04-02, 13:15:56",
+      "https://news.ycombinator.com/item?id=43556344"
+    ],
+    [
+      "Starlink sets up subsidiary in Faroe Islands",
+      "https://dimma.fo/grein/starlink-vil-veita-internet-i-foroyum-stovnadu-foroyskt-smapartafelag"
+    ]
+  ],
+  [
+    [
+      "2025-04-02, 13:13:14",
+      "https://news.ycombinator.com/item?id=43556305"
+    ],
+    [
+      "Kindle as a High-Contrast GPS",
+      "https://www.instructables.com/Use-Your-Kindle-or-Other-Ebook-As-a-High-Visibilit/"
+    ]
+  ],
+  [
+    [
+      "2025-04-02, 13:10:40",
+      "https://news.ycombinator.com/item?id=43556280"
+    ],
+    [
+      "A steam locomotive from 1993 broke my yarn test",
+      "https://blog.cloudflare.com/yarn-test-suffers-strange-derailment/"
+    ]
+  ],
+  [
+    [
       "2025-04-02, 12:28:52",
       "https://news.ycombinator.com/item?id=43555904"
     ],
@@ -31,32 +101,12 @@
   ],
   [
     [
-      "2025-04-02, 04:25:03",
-      "https://news.ycombinator.com/item?id=43553663"
+      "2025-04-02, 10:25:18",
+      "https://news.ycombinator.com/item?id=43555286"
     ],
     [
-      "Where does air pollution come from?",
-      "https://ourworldindata.org/air-pollution-sources"
-    ]
-  ],
-  [
-    [
-      "2025-04-02, 00:52:42",
-      "https://news.ycombinator.com/item?id=43552764"
-    ],
-    [
-      "Forking Work Simplification – Let's Bring Back Eisenhower's Process Improvement",
-      "https://www.governance.fyi/p/forking-work-simplification-and-more"
-    ]
-  ],
-  [
-    [
-      "2025-04-01, 22:22:46",
-      "https://news.ycombinator.com/item?id=43551934"
-    ],
-    [
-      "The state of binary compatibility on Linux and how to address it",
-      "https://jangafx.com/insights/linux-binary-compatibility"
+      "Coffea stenophylla: A forgotten bean that could save coffee from extinction",
+      "https://www.smithsonianmag.com/science-nature/how-forgotten-bean-could-save-coffee-from-extinction-180986230/"
     ]
   ],
   [
@@ -101,32 +151,12 @@
   ],
   [
     [
-      "2025-04-01, 21:06:14",
-      "https://news.ycombinator.com/item?id=43551338"
-    ],
-    [
-      "Silicon Valley, Halt and Catch Fire, and How Microserfdom Ate the World (2015)",
-      "https://grantland.com/hollywood-prospectus/silicon-valley-halt-catch-fire-microserfs-douglas-coupland/"
-    ]
-  ],
-  [
-    [
       "2025-04-01, 19:33:38",
       "https://news.ycombinator.com/item?id=43550556"
     ],
     [
       "How Silica Gel Took Over the World",
       "https://www.scopeofwork.net/silica-gel/"
-    ]
-  ],
-  [
-    [
-      "2025-04-01, 17:48:45",
-      "https://news.ycombinator.com/item?id=43549618"
-    ],
-    [
-      "Show HN: Zig Topological Sort Library for Parallel Processing",
-      "https://github.com/williamw520/toposort"
     ]
   ],
   [
@@ -147,16 +177,6 @@
     [
       "Glubux's Powerwall (2016)",
       "https://secondlifestorage.com/index.php?threads/glubuxs-powerwall.126/"
-    ]
-  ],
-  [
-    [
-      "2025-04-01, 15:06:11",
-      "https://news.ycombinator.com/item?id=43547677"
-    ],
-    [
-      "Launch HN: ASim (YC S21) – Mobile app that generates mobile apps",
-      "https://news.ycombinator.com/item?id=43547677"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2025-03-30, 17:26:33",
-      "https://news.ycombinator.com/item?id=43525870"
-    ],
-    [
-      "All Estimations Are Wrong, but None Are Useful",
-      "https://newsletter.techworld-with-milan.com/p/all-estimations-are-wrong-but-none"
-    ]
-  ],
-  [
-    [
       "2025-03-30, 12:31:03",
       "https://news.ycombinator.com/item?id=43523633"
     ],
@@ -251,22 +261,22 @@
   ],
   [
     [
+      "2025-03-30, 07:01:56",
+      "https://news.ycombinator.com/item?id=43521994"
+    ],
+    [
+      "Vitodeploy: Self hosted Laravel Forge alternative",
+      "https://vitodeploy.com/"
+    ]
+  ],
+  [
+    [
       "2025-03-30, 00:50:21",
       "https://news.ycombinator.com/item?id=43520122"
     ],
     [
       "A 6-Hour Time-Stretched Version of Brian Eno's Music for Airports",
       "https://www.openculture.com/2025/03/a-6-hour-time-stretched-version-of-brian-enos-music-for-airports.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-29, 20:44:41",
-      "https://news.ycombinator.com/item?id=43518570"
-    ],
-    [
-      "Generate autounattend.xml files for Windows 10/11",
-      "https://schneegans.de/windows/unattend-generator/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Scientists uncover key mechanism in evolution: Whole-genome duplication drives",
       "https://www.sciencedaily.com/releases/2025/03/250326221649.htm"
-    ]
-  ],
-  [
-    [
-      "2025-03-28, 13:05:52",
-      "https://news.ycombinator.com/item?id=43504940"
-    ],
-    [
-      "Excitable cells",
-      "https://jenevoldsen.com/posts/excitable-cells/"
     ]
   ]
 ]
