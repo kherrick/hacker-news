@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2025-04-02](index.md)
 
+* [2025-04-02, 16:18:21](https://news.ycombinator.com/item?id=43558352) - [Bare: Run JavaScript Everywhere](https://pears.com/news/introducing-bare-actually-run-javascript-everywhere/)
+* [2025-04-02, 16:07:11](https://news.ycombinator.com/item?id=43558227) - [A Small Violin Part Highlights Bigger Problems for the Global Economy](https://www.nytimes.com/2025/04/02/business/trump-tariffs-canada-us.html)
+* [2025-04-02, 16:03:12](https://news.ycombinator.com/item?id=43558182) - [Digital Archivists: Protecting Public Data from Erasure](https://spectrum.ieee.org/digital-archive)
 * [2025-04-02, 15:35:25](https://news.ycombinator.com/item?id=43557873) - [Animals Made from 13 Circles (2016)](https://www.dorithegiant.com/2016/05/13-animals-made-from-13-circles.html)
 * [2025-04-02, 15:29:14](https://news.ycombinator.com/item?id=43557790) - [Porting Tailscale to Plan 9](https://tailscale.com/blog/plan9-port)
 * [2025-04-02, 15:18:08](https://news.ycombinator.com/item?id=43557655) - [Global scam industry evolving at 'unprecedented scale' despite recent crackdown](https://www.cnn.com/2025/04/02/asia/myanmar-scam-center-crackdown-intl-hnk-dst/index.html)
 * [2025-04-02, 15:07:29](https://news.ycombinator.com/item?id=43557524) - [Nintendo unveils Switch 2 ahead of June 5 launch](https://arstechnica.com/gaming/2025/04/nintendo-offers-new-details-on-switch-2-hardware-software/)
 * [2025-04-02, 15:07:22](https://news.ycombinator.com/item?id=43557523) - [Ask HN: Do You Take Protein Suppliments? Any Noticeable Benefits?](https://news.ycombinator.com/item?id=43557523)
+* [2025-04-02, 15:02:46](https://news.ycombinator.com/item?id=43557471) - [Why Is the World Losing Color?](https://www.culture-critic.com/p/why-is-the-world-losing-color)
 * [2025-04-02, 14:32:48](https://news.ycombinator.com/item?id=43557139) - [A dramatic Einstein ring seen by Webb](https://phys.org/news/2025-04-einstein-webb.html)
 * [2025-04-02, 13:48:30](https://news.ycombinator.com/item?id=43556656) - [Django 5.2 Released](https://www.djangoproject.com/weblog/2025/apr/02/django-52-released/)
 * [2025-04-02, 13:37:16](https://news.ycombinator.com/item?id=43556521) - [Abusive AI Web Crawlers: Get Off My Lawn](https://www.mythic-beasts.com/blog/2025/04/01/abusive-ai-web-crawlers-get-off-my-lawn/)
