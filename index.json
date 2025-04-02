@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-02, 18:34:22",
+      "https://news.ycombinator.com/item?id=43559855"
+    ],
+    [
+      "Restructuring Announcement",
+      "https://automattic.com/2025/04/02/restructuring-announcement/"
+    ]
+  ],
+  [
+    [
       "2025-04-02, 18:24:51",
       "https://news.ycombinator.com/item?id=43559733"
     ],
@@ -17,6 +27,26 @@
     [
       "NYC New Subway Map",
       "https://www.nytimes.com/2025/04/02/nyregion/nyc-new-subway-map.html"
+    ]
+  ],
+  [
+    [
+      "2025-04-02, 17:55:38",
+      "https://news.ycombinator.com/item?id=43559370"
+    ],
+    [
+      "Ace: Realtime Computer Autopilot",
+      "https://generalagents.com/ace/"
+    ]
+  ],
+  [
+    [
+      "2025-04-02, 17:42:56",
+      "https://news.ycombinator.com/item?id=43559228"
+    ],
+    [
+      "Real-Time Introspective Compression for Transformers",
+      "https://github.com/Dicklesworthstone/llm_introspective_compression_and_metacognition"
     ]
   ],
   [
@@ -57,6 +87,16 @@
     [
       "Tell HN: Announcing tomhow as a public moderator",
       "https://news.ycombinator.com/item?id=43558671"
+    ]
+  ],
+  [
+    [
+      "2025-04-02, 16:44:35",
+      "https://news.ycombinator.com/item?id=43558622"
+    ],
+    [
+      "Practical Prolog Planner Prompting",
+      "https://quantumprolog.sgml.net/llm-demo/part1.html#prolog-planner-generation-prompting-guide"
     ]
   ],
   [
@@ -191,26 +231,6 @@
   ],
   [
     [
-      "2025-04-01, 21:11:43",
-      "https://news.ycombinator.com/item?id=43551397"
-    ],
-    [
-      "DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit",
-      "https://github.com/dfd-tud/deda"
-    ]
-  ],
-  [
-    [
-      "2025-04-01, 12:55:28",
-      "https://news.ycombinator.com/item?id=43546236"
-    ],
-    [
-      "Bletchley code breaker Betty Webb dies aged 101",
-      "https://www.bbc.com/news/articles/c78jd30ywv8o"
-    ]
-  ],
-  [
-    [
       "2025-04-01, 12:25:12",
       "https://news.ycombinator.com/item?id=43545917"
     ],
@@ -257,26 +277,6 @@
     [
       "Certification Authority/Browser Forum adopts new security standards",
       "https://security.googleblog.com/2025/03/new-security-requirements-adopted-by.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-31, 07:42:13",
-      "https://news.ycombinator.com/item?id=43532253"
-    ],
-    [
-      "Circuit Tracing: Revealing Computational Graphs in Language Models (Anthropic)",
-      "https://transformer-circuits.pub/2025/attribution-graphs/methods.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-30, 12:31:03",
-      "https://news.ycombinator.com/item?id=43523633"
-    ],
-    [
-      "(2016) Interactive Neural Network Art",
-      "https://otoro.net/ml/netart/"
     ]
   ],
   [
