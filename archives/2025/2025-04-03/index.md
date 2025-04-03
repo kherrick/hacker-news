@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-03](index.md)
 
+* [2025-04-03, 21:12:10](https://news.ycombinator.com/item?id=43575479) - [The Mainframe Vocabulary Problem (and Why It Matters)](https://mainframesociety.com/news/2588640)
 * [2025-04-03, 21:08:31](https://news.ycombinator.com/item?id=43575433) - [Aviator (YC S21) is hiring engineers to build AI DevEx platform](https://www.ycombinator.com/companies/aviator/jobs)
 * [2025-04-03, 21:03:46](https://news.ycombinator.com/item?id=43575379) - [The cultural evolution of distortion in music](https://royalsocietypublishing.org/doi/10.1098/rstb.2024.0014)
 * [2025-04-03, 20:39:08](https://news.ycombinator.com/item?id=43575088) - [Bonobos' calls may be the closest thing to animal language we've seen](https://arstechnica.com/science/2025/04/bonobos-calls-may-be-the-closest-thing-to-animal-language-weve-seen/)
