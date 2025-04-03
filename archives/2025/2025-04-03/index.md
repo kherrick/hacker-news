@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-04-03](index.md)
 
+* [2025-04-03, 12:41:10](https://news.ycombinator.com/item?id=43568771) - [Show HN: Zxc – Rust TLS proxy with tmux and Vim as UI, BurpSuite alternative](https://github.com/hail-hydrant/zxc)
+* [2025-04-03, 12:29:08](https://news.ycombinator.com/item?id=43568655) - [A University President Makes a Case Against Cowardice](https://www.newyorker.com/news/q-and-a/a-university-president-makes-a-case-against-cowardice)
 * [2025-04-03, 12:00:16](https://news.ycombinator.com/item?id=43568380) - [Type (YC W23) is hiring a senior software engineer](https://www.ycombinator.com/companies/type/jobs/m3GcN1t-senior-software-engineer)
+* [2025-04-03, 11:24:10](https://news.ycombinator.com/item?id=43568036) - [AWS MCP Servers](https://github.com/awslabs/mcp)
 * [2025-04-03, 11:12:56](https://news.ycombinator.com/item?id=43567923) - [The Steam Deck Is Software-Freedom Friendly](https://isomorphism.xyz/blog/2024/steam-deck/)
 * [2025-04-03, 10:35:33](https://news.ycombinator.com/item?id=43567591) - [Space Debris: Is It a Crisis?](https://www.esa.int/Space_Safety/Space_Debris)
 * [2025-04-03, 06:46:11](https://news.ycombinator.com/item?id=43565690) - [.NET library MassTransit going commercial with V9](https://masstransit.io/introduction/v9-announcement)
