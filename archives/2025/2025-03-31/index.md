@@ -56,6 +56,7 @@
 * [2025-03-31, 12:26:46](https://news.ycombinator.com/item?id=43534185) - [Finding Remote Enterprise Software Consulting Leads: Non-US Resident Edition](https://news.ycombinator.com/item?id=43534185)
 * [2025-03-31, 12:22:12](https://news.ycombinator.com/item?id=43534140) - [Marine Le Pen banned from running in 2027 and given four-year sentence](https://www.theguardian.com/world/live/2025/mar/31/france-marine-le-pen-embezzlement-verdict-europe-news-live)
 * [2025-03-31, 12:09:49](https://news.ycombinator.com/item?id=43534029) - [Gemini 2.5 Pro vs. Claude 3.7 Sonnet: Coding Comparison](https://composio.dev/blog/gemini-2-5-pro-vs-claude-3-7-sonnet-coding-comparison/)
+* [2025-03-31, 12:06:40](https://news.ycombinator.com/item?id=43533994) - [Declarative Web Push – WebKit](https://webkit.org/blog/16535/meet-declarative-web-push/)
 * [2025-03-31, 11:45:32](https://news.ycombinator.com/item?id=43533826) - [The Egg (By Andy Weir)](https://www.galactanet.com/oneoff/theegg.html)
 * [2025-03-31, 11:40:44](https://news.ycombinator.com/item?id=43533792) - [The Tectonics Behind the Myanmar Quake](https://nautil.us/what-caused-the-devastating-earthquake-in-myanmar-1200737/)
 * [2025-03-31, 11:36:44](https://news.ycombinator.com/item?id=43533769) - [Bell Labs Holmdel Complex](https://en.wikipedia.org/wiki/Bell_Labs_Holmdel_Complex)
