@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-04-03, 18:59:29",
+      "https://news.ycombinator.com/item?id=43573879"
+    ],
+    [
+      "Banked Memories for Soft SIMT Processors",
+      "https://arxiv.org/abs/2503.24132"
+    ]
+  ],
+  [
+    [
       "2025-04-03, 18:44:58",
       "https://news.ycombinator.com/item?id=43573721"
     ],
     [
       "Show HN: The Algorithm Behind the Topological Sort Library TopoSort",
       "https://github.com/williamw520/toposort/blob/master/Algorithm.md"
+    ]
+  ],
+  [
+    [
+      "2025-04-03, 18:39:04",
+      "https://news.ycombinator.com/item?id=43573653"
+    ],
+    [
+      "Installing AIX PS/2 v1.3 on a 486",
+      "https://hardwarehacks.org/blog/installing_aix_ps2_13_on_a_486/"
     ]
   ],
   [
@@ -91,11 +111,21 @@
   ],
   [
     [
+      "2025-04-03, 16:13:02",
+      "https://news.ycombinator.com/item?id=43571851"
+    ],
+    [
+      "AI 2027",
+      "https://ai-2027.com/"
+    ]
+  ],
+  [
+    [
       "2025-04-03, 15:24:49",
       "https://news.ycombinator.com/item?id=43571099"
     ],
     [
-      "A special build of curl that can impersonate Chrome and Firefox",
+      "Curl-impersonate: Special build of curl that can impersonate the major browsers",
       "https://github.com/lwthiker/curl-impersonate"
     ]
   ],
@@ -221,32 +251,22 @@
   ],
   [
     [
-      "2025-04-02, 20:02:09",
-      "https://news.ycombinator.com/item?id=43560899"
-    ],
-    [
-      "Pico.sh – SSH powered services for developers",
-      "https://pico.sh/"
-    ]
-  ],
-  [
-    [
-      "2025-04-01, 15:48:35",
-      "https://news.ycombinator.com/item?id=43548212"
-    ],
-    [
-      "Measuring Acceleration Structures",
-      "https://zeux.io/2025/03/31/measuring-acceleration-structures/"
-    ]
-  ],
-  [
-    [
       "2025-03-31, 15:10:04",
       "https://news.ycombinator.com/item?id=43535937"
     ],
     [
       "John Cage recital set to last 639 years recently witnessed a chord change",
       "https://www.spectator.co.uk/article/what-were-we-all-doing-here-my-600-mile-trip-to-hear-an-organ-play-a-d-natural/"
+    ]
+  ],
+  [
+    [
+      "2025-03-31, 14:18:52",
+      "https://news.ycombinator.com/item?id=43535352"
+    ],
+    [
+      "New nanoparticle therapies target two major killers – Science – AAAS",
+      "https://www.science.org/content/article/new-nanoparticle-therapies-target-two-major-killers"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2025-03-31, 06:15:52",
-      "https://news.ycombinator.com/item?id=43531695"
-    ],
-    [
-      "An AlphaStation's SROM",
-      "https://thejpster.org.uk/blog/blog-2025-03-30/"
-    ]
-  ],
-  [
-    [
       "2025-03-31, 05:35:54",
       "https://news.ycombinator.com/item?id=43531465"
     ],
     [
       "Bedded Bugs and Stung Beetles: The Cameraman's Revenge (1912)",
       "https://publicdomainreview.org/collection/cameramans-revenge/"
-    ]
-  ],
-  [
-    [
-      "2025-03-30, 11:11:35",
-      "https://news.ycombinator.com/item?id=43523220"
-    ],
-    [
-      "Minimal CSS-only blurry image placeholders",
-      "https://leanrada.com/notes/css-only-lqip/"
     ]
   ]
 ]
