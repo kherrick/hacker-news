@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-03](index.md)
 
+* [2025-04-03, 06:46:11](https://news.ycombinator.com/item?id=43565690) - [.NET library MassTransit going commercial with V9](https://masstransit.io/introduction/v9-announcement)
 * [2025-04-03, 06:15:17](https://news.ycombinator.com/item?id=43565438) - [I stopped using AI code editors](https://lucianonooijen.com/blog/why-i-stopped-using-ai-code-editors)
 * [2025-04-03, 04:53:02](https://news.ycombinator.com/item?id=43564890) - [DIY Synths Database](https://diy-synths.snnkv.com/)
 * [2025-04-03, 04:34:36](https://news.ycombinator.com/item?id=43564788) - [News Graveyards: How Dangers to War Reporters Endanger the World](https://watson.brown.edu/costsofwar/papers/2025/Journalists)
