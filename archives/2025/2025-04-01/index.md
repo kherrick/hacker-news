@@ -27,6 +27,7 @@
 * [2025-04-01, 16:19:28](https://news.ycombinator.com/item?id=43548589) - [Camelgate NPM Outage (Cloudflare)](https://news.ycombinator.com/item?id=43548589)
 * [2025-04-01, 15:49:01](https://news.ycombinator.com/item?id=43548217) - [Glubux's Powerwall (2016)](https://secondlifestorage.com/index.php?threads/glubuxs-powerwall.126/)
 * [2025-04-01, 15:49:01](https://news.ycombinator.com/item?id=43548217) - [A Man Powers Home for 8 Years Using 1k Old Laptop Batteries](https://techoreon.com/a-man-powers-home-8-years-laptop-batteries/)
+* [2025-04-01, 15:48:35](https://news.ycombinator.com/item?id=43548212) - [Measuring Acceleration Structures](https://zeux.io/2025/03/31/measuring-acceleration-structures/)
 * [2025-04-01, 15:39:58](https://news.ycombinator.com/item?id=43548108) - [RubyUI (Former PhlexUI): Ruby Gem for RubyUI Components](https://github.com/ruby-ui/ruby_ui)
 * [2025-04-01, 15:17:59](https://news.ycombinator.com/item?id=43547835) - [Show HN: Terminal dashboard that throttles my PC during peak electricity rates](https://www.naveen.ing/cli-for-smartplugs/)
 * [2025-04-01, 15:16:21](https://news.ycombinator.com/item?id=43547813) - [We Can, Must, and Will Simulate Nematode Brains](https://asteriskmag.com/issues/09/we-can-must-and-will-simulate-nematode-brains)
