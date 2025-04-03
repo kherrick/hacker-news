@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-04-03, 13:09:33",
-      "https://news.ycombinator.com/item?id=43569077"
-    ],
-    [
-      "New Windows 11 trick lets you bypass Microsoft Account requirement",
-      "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-trick-lets-you-bypass-microsoft-account-requirement/"
-    ]
-  ],
-  [
-    [
       "2025-04-03, 13:03:34",
       "https://news.ycombinator.com/item?id=43569009"
     ],
@@ -51,42 +41,22 @@
   ],
   [
     [
+      "2025-04-03, 12:11:51",
+      "https://news.ycombinator.com/item?id=43568503"
+    ],
+    [
+      "InitWare, a portable systemd fork running on BSDs and Linux",
+      "https://github.com/InitWare/InitWare"
+    ]
+  ],
+  [
+    [
       "2025-04-03, 12:00:16",
       "https://news.ycombinator.com/item?id=43568380"
     ],
     [
       "Type (YC W23) is hiring a senior software engineer",
       "https://www.ycombinator.com/companies/type/jobs/m3GcN1t-senior-software-engineer"
-    ]
-  ],
-  [
-    [
-      "2025-04-03, 11:24:10",
-      "https://news.ycombinator.com/item?id=43568036"
-    ],
-    [
-      "AWS MCP Servers",
-      "https://github.com/awslabs/mcp"
-    ]
-  ],
-  [
-    [
-      "2025-04-03, 11:12:56",
-      "https://news.ycombinator.com/item?id=43567923"
-    ],
-    [
-      "The Steam Deck Is Software-Freedom Friendly",
-      "https://isomorphism.xyz/blog/2024/steam-deck/"
-    ]
-  ],
-  [
-    [
-      "2025-04-03, 04:53:02",
-      "https://news.ycombinator.com/item?id=43564890"
-    ],
-    [
-      "DIY Synths Database",
-      "https://diy-synths.snnkv.com/"
     ]
   ],
   [
@@ -201,12 +171,42 @@
   ],
   [
     [
+      "2025-04-02, 17:30:08",
+      "https://news.ycombinator.com/item?id=43559122"
+    ],
+    [
+      "When Jorge Luis Borges met one of the founders of AI",
+      "https://resobscura.substack.com/p/when-jorge-luis-borges-met-one-of"
+    ]
+  ],
+  [
+    [
       "2025-04-02, 16:49:56",
       "https://news.ycombinator.com/item?id=43558671"
     ],
     [
       "Tell HN: Announcing tomhow as a public moderator",
       "https://news.ycombinator.com/item?id=43558671"
+    ]
+  ],
+  [
+    [
+      "2025-04-02, 16:33:53",
+      "https://news.ycombinator.com/item?id=43558517"
+    ],
+    [
+      "Show HN: Mermaid Chart VS Code Plugin: Mermaid.js Diagrams in Visual Studio Code",
+      "https://docs.mermaidchart.com/blog/posts/mermaid-chart-vs-code-plugin-create-and-edit-mermaid-js-diagrams-in-visual-studio-code"
+    ]
+  ],
+  [
+    [
+      "2025-04-02, 16:03:12",
+      "https://news.ycombinator.com/item?id=43558182"
+    ],
+    [
+      "Digital Archivists: Protecting Public Data from Erasure",
+      "https://spectrum.ieee.org/digital-archive"
     ]
   ],
   [
@@ -251,32 +251,22 @@
   ],
   [
     [
-      "2025-03-31, 09:32:55",
-      "https://news.ycombinator.com/item?id=43532968"
-    ],
-    [
-      "Rust on the Ferris Sweep",
-      "https://gabevenberg.com/posts/rmk-ferris-sweep/"
-    ]
-  ],
-  [
-    [
-      "2025-03-31, 09:09:15",
-      "https://news.ycombinator.com/item?id=43532813"
-    ],
-    [
-      "AbletonMCP – Ableton Live Model Context Protocol Integration",
-      "https://github.com/ahujasid/ableton-mcp"
-    ]
-  ],
-  [
-    [
       "2025-03-31, 08:25:20",
       "https://news.ycombinator.com/item?id=43532551"
     ],
     [
       "Apple's Cubify Anything: Scaling Indoor 3D Object Detection",
       "https://github.com/apple/ml-cubifyanything"
+    ]
+  ],
+  [
+    [
+      "2025-03-31, 06:15:52",
+      "https://news.ycombinator.com/item?id=43531695"
+    ],
+    [
+      "An AlphaStation's SROM",
+      "https://thejpster.org.uk/blog/blog-2025-03-30/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Minimal CSS-only blurry image placeholders",
       "https://leanrada.com/notes/css-only-lqip/"
+    ]
+  ],
+  [
+    [
+      "2025-03-30, 07:15:56",
+      "https://news.ycombinator.com/item?id=43522060"
+    ],
+    [
+      "Ploopy Classic 2 open source trackball",
+      "https://blog.ploopy.co/the-classic-2-is-here-186"
     ]
   ]
 ]
