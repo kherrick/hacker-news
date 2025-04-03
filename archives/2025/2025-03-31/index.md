@@ -76,6 +76,7 @@
 * [2025-03-31, 09:28:53](https://news.ycombinator.com/item?id=43532939) - [GPT-4o draws itself as a consistent type of guy](https://newsletter.danielpaleka.com/p/gpt-4o-draws-itself-as-a-consistent)
 * [2025-03-31, 09:21:05](https://news.ycombinator.com/item?id=43532893) - [UK poll: Work and money worry young people more than culture wars or climate](https://www.theguardian.com/society/2025/mar/31/work-and-money-worries-young-people-more-than-culture-wars-or-climate-uk-poll-finds)
 * [2025-03-31, 09:11:47](https://news.ycombinator.com/item?id=43532830) - [The <select> element can now be customized with CSS](https://developer.chrome.com/blog/a-customizable-select)
+* [2025-03-31, 09:09:15](https://news.ycombinator.com/item?id=43532813) - [AbletonMCP – Ableton Live Model Context Protocol Integration](https://github.com/ahujasid/ableton-mcp)
 * [2025-03-31, 08:53:47](https://news.ycombinator.com/item?id=43532736) - [Custom AI Chatbot Development Services: Restrictions and Opportunities](https://belitsoft.com/chatbot-development-services/custom-ai)
 * [2025-03-31, 08:25:20](https://news.ycombinator.com/item?id=43532551) - [Apple's Cubify Anything: Scaling Indoor 3D Object Detection](https://github.com/apple/ml-cubifyanything)
 * [2025-03-31, 07:52:54](https://news.ycombinator.com/item?id=43532328) - [Debts, Tech and Otherwise](https://blogs.newardassociates.com/blog/2025/debts-tech-and-otherwise.html)
