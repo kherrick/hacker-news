@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-03, 17:35:35](https://news.ycombinator.com/item?id=43572947) - [Trump's new tariff math looks a lot like ChatGPT's](https://www.theverge.com/news/642620/trump-tariffs-formula-ai-chatgpt-gemini-claude-grok)
+* [2025-04-03, 17:24:46](https://news.ycombinator.com/item?id=43572824) - [Android Isn't the Anti-iPhone Anymore](https://www.howtogeek.com/android-isnt-the-anti-iphone-anymore/)
 * [2025-04-03, 17:01:01](https://news.ycombinator.com/item?id=43572518) - [Onyx (YC W24) Is Hiring](https://www.ycombinator.com/companies/onyx/jobs/CUHpbpE-founding-devrel-engineer)
 * [2025-04-03, 16:50:08](https://news.ycombinator.com/item?id=43572374) - [Reasoning models don't always say what they think](https://www.anthropic.com/research/reasoning-models-dont-say-think)
 * [2025-04-03, 16:13:02](https://news.ycombinator.com/item?id=43571851) - [AI 2027](https://ai-2027.com/)
