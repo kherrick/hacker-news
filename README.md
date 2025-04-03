@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-03, 14:59:42](https://news.ycombinator.com/item?id=43570749) - [Show HN: Novnaode, Global load balancing with Caddy, no vendor lock-in](https://news.ycombinator.com/item?id=43570749)
+* [2025-04-03, 14:59:42](https://news.ycombinator.com/item?id=43570749) - [Show HN: Novanode, Global load balancing with Caddy, no vendor lock-in](https://news.ycombinator.com/item?id=43570749)
 * [2025-04-03, 14:36:41](https://news.ycombinator.com/item?id=43570324) - [Overengineered Anchor Links](https://thirty-five.com/overengineered-anchoring)
 * [2025-04-03, 14:09:59](https://news.ycombinator.com/item?id=43569961) - [Show HN: Offline JavaScript PubSub between browser tabs](https://simon-frey.com/tabsub/)
 * [2025-04-03, 13:55:38](https://news.ycombinator.com/item?id=43569724) - [Show HN: The C3 programming language (C alternative language)](https://news.ycombinator.com/item?id=43569724)
