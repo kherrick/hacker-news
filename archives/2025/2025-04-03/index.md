@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2025-04-03](index.md)
 
 * [2025-04-03, 19:07:56](https://news.ycombinator.com/item?id=43573980) - [Intel, TSMC tentatively agree to form chipmaking joint venture](https://www.reuters.com/technology/intel-tsmc-tentatively-agree-form-chipmaking-joint-venture-information-reports-2025-04-03/)
+* [2025-04-03, 18:59:29](https://news.ycombinator.com/item?id=43573879) - [Banked Memories for Soft SIMT Processors](https://arxiv.org/abs/2503.24132)
 * [2025-04-03, 18:44:58](https://news.ycombinator.com/item?id=43573721) - [Show HN: The Algorithm Behind the Topological Sort Library TopoSort](https://github.com/williamw520/toposort/blob/master/Algorithm.md)
+* [2025-04-03, 18:39:04](https://news.ycombinator.com/item?id=43573653) - [Installing AIX PS/2 v1.3 on a 486](https://hardwarehacks.org/blog/installing_aix_ps2_13_on_a_486/)
 * [2025-04-03, 18:28:44](https://news.ycombinator.com/item?id=43573539) - [An automatic MCP server for every GitHub project](https://gitmcp.io/)
 * [2025-04-03, 18:23:18](https://news.ycombinator.com/item?id=43573488) - [2025 Recession Indicators Hit Fashion and Wall Street at Once](https://www.marieclaire.com/fashion/recession-2025-fashion-indicators/)
 * [2025-04-03, 18:07:50](https://news.ycombinator.com/item?id=43573310) - [Tenstorrent Launches Blackhole Developer Products at Tenstorrent Dev Day](https://tenstorrent.com/vision/tenstorrent-launches-blackhole-developer-products-at-tenstorrent-dev-day)
