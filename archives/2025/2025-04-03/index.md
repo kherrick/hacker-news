@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-03](index.md)
 
+* [2025-04-03, 14:59:42](https://news.ycombinator.com/item?id=43570749) - [Show HN: Novnaode, Global load balancing with Caddy, no vendor lock-in](https://news.ycombinator.com/item?id=43570749)
 * [2025-04-03, 14:36:41](https://news.ycombinator.com/item?id=43570324) - [Overengineered Anchor Links](https://thirty-five.com/overengineered-anchoring)
 * [2025-04-03, 14:09:59](https://news.ycombinator.com/item?id=43569961) - [Show HN: Offline JavaScript PubSub between browser tabs](https://simon-frey.com/tabsub/)
 * [2025-04-03, 13:19:05](https://news.ycombinator.com/item?id=43569190) - [Show HN: OpenNutrition – A free, public nutrition database](https://www.opennutrition.app/search)

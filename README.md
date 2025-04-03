@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-03, 14:59:42](https://news.ycombinator.com/item?id=43570749) - [Show HN: Novnaode, Global load balancing with Caddy, no vendor lock-in](https://news.ycombinator.com/item?id=43570749)
 * [2025-04-03, 14:36:41](https://news.ycombinator.com/item?id=43570324) - [Overengineered Anchor Links](https://thirty-five.com/overengineered-anchoring)
 * [2025-04-03, 14:09:59](https://news.ycombinator.com/item?id=43569961) - [Show HN: Offline JavaScript PubSub between browser tabs](https://simon-frey.com/tabsub/)
 * [2025-04-03, 13:19:05](https://news.ycombinator.com/item?id=43569190) - [Show HN: OpenNutrition – A free, public nutrition database](https://www.opennutrition.app/search)
@@ -20,7 +21,6 @@
 * [2025-04-02, 18:14:44](https://news.ycombinator.com/item?id=43559605) - [Why I don't discuss politics with friends](https://shwin.co/blog/why-i-dont-discuss-politics-with-friends)
 * [2025-04-02, 17:30:08](https://news.ycombinator.com/item?id=43559122) - [When Jorge Luis Borges met one of the founders of AI](https://resobscura.substack.com/p/when-jorge-luis-borges-met-one-of)
 * [2025-04-02, 16:49:56](https://news.ycombinator.com/item?id=43558671) - [Tell HN: Announcing tomhow as a public moderator](https://news.ycombinator.com/item?id=43558671)
-* [2025-04-02, 16:33:53](https://news.ycombinator.com/item?id=43558517) - [Show HN: Mermaid Chart VS Code Plugin: Mermaid.js Diagrams in Visual Studio Code](https://docs.mermaidchart.com/blog/posts/mermaid-chart-vs-code-plugin-create-and-edit-mermaid-js-diagrams-in-visual-studio-code)
 * [2025-04-02, 16:03:12](https://news.ycombinator.com/item?id=43558182) - [Digital Archivists: Protecting Public Data from Erasure](https://spectrum.ieee.org/digital-archive)
 * [2025-04-02, 15:35:25](https://news.ycombinator.com/item?id=43557873) - [Animals Made from 13 Circles (2016)](https://www.dorithegiant.com/2016/05/13-animals-made-from-13-circles.html)
 * [2025-04-02, 14:47:38](https://news.ycombinator.com/item?id=43557310) - [How Google built its Gemini robotics models](https://blog.google/products/gemini/how-we-built-gemini-robotics/)
