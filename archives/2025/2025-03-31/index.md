@@ -79,6 +79,7 @@
 * [2025-03-31, 09:11:47](https://news.ycombinator.com/item?id=43532830) - [The <select> element can now be customized with CSS](https://developer.chrome.com/blog/a-customizable-select)
 * [2025-03-31, 09:09:15](https://news.ycombinator.com/item?id=43532813) - [AbletonMCP – Ableton Live Model Context Protocol Integration](https://github.com/ahujasid/ableton-mcp)
 * [2025-03-31, 08:53:47](https://news.ycombinator.com/item?id=43532736) - [Custom AI Chatbot Development Services: Restrictions and Opportunities](https://belitsoft.com/chatbot-development-services/custom-ai)
+* [2025-03-31, 08:41:11](https://news.ycombinator.com/item?id=43532658) - [Showcase: Working on a voice/text chat app in a cyberpunk style](https://static.mollohq.com/molly-0.0.1-showcase.mp4)
 * [2025-03-31, 08:25:20](https://news.ycombinator.com/item?id=43532551) - [Apple's Cubify Anything: Scaling Indoor 3D Object Detection](https://github.com/apple/ml-cubifyanything)
 * [2025-03-31, 07:52:54](https://news.ycombinator.com/item?id=43532328) - [Debts, Tech and Otherwise](https://blogs.newardassociates.com/blog/2025/debts-tech-and-otherwise.html)
 * [2025-03-31, 07:48:37](https://news.ycombinator.com/item?id=43532298) - [HTTPS RR in Curl](https://daniel.haxx.se/blog/2025/03/31/https-rr-in-curl/)

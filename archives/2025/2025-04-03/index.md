@@ -5,6 +5,9 @@
 ### [Archives](../../index.md) for [2025-04-03](index.md)
 
 * [2025-04-03, 17:01:01](https://news.ycombinator.com/item?id=43572518) - [Onyx (YC W24) Is Hiring](https://www.ycombinator.com/companies/onyx/jobs/CUHpbpE-founding-devrel-engineer)
+* [2025-04-03, 16:57:01](https://news.ycombinator.com/item?id=43572466) - [Tell HN: Pocket (acquired by Moz) only works with FF now](https://news.ycombinator.com/item?id=43572466)
+* [2025-04-03, 16:50:08](https://news.ycombinator.com/item?id=43572374) - [Reasoning models don't always say what they think](https://www.anthropic.com/research/reasoning-models-dont-say-think)
+* [2025-04-03, 16:13:02](https://news.ycombinator.com/item?id=43571851) - [AI 2027](https://ai-2027.com/)
 * [2025-04-03, 15:24:49](https://news.ycombinator.com/item?id=43571099) - [A special build of curl that can impersonate Chrome and Firefox](https://github.com/lwthiker/curl-impersonate)
 * [2025-04-03, 14:59:42](https://news.ycombinator.com/item?id=43570749) - [Show HN: Novnaode, Global load balancing with Caddy, no vendor lock-in](https://news.ycombinator.com/item?id=43570749)
 * [2025-04-03, 14:47:52](https://news.ycombinator.com/item?id=43570533) - [AnimeJs v4 Is Here](https://animejs.com/)
@@ -12,6 +15,7 @@
 * [2025-04-03, 14:28:37](https://news.ycombinator.com/item?id=43570207) - [Show HN: Benchi – A benchmarking tool written in Go](https://github.com/ConduitIO/benchi)
 * [2025-04-03, 14:09:59](https://news.ycombinator.com/item?id=43569961) - [Show HN: Offline JavaScript PubSub between browser tabs](https://simon-frey.com/tabsub/)
 * [2025-04-03, 13:55:38](https://news.ycombinator.com/item?id=43569724) - [Show HN: The C3 programming language (C alternative language)](https://news.ycombinator.com/item?id=43569724)
+* [2025-04-03, 13:55:38](https://news.ycombinator.com/item?id=43569724) - [Show HN: The C3 programming language (C alternative language)](https://github.com/c3lang/c3c)
 * [2025-04-03, 13:19:05](https://news.ycombinator.com/item?id=43569190) - [Show HN: OpenNutrition – A free, public nutrition database](https://www.opennutrition.app/search)
 * [2025-04-03, 13:09:33](https://news.ycombinator.com/item?id=43569077) - [New Windows 11 trick lets you bypass Microsoft Account requirement](https://www.bleepingcomputer.com/news/microsoft/new-windows-11-trick-lets-you-bypass-microsoft-account-requirement/)
 * [2025-04-03, 13:03:34](https://news.ycombinator.com/item?id=43569009) - [How North Korea Cheated Its Way to Crypto Billions](https://www.wsj.com/world/asia/north-korea-cryptocurrency-580d7d3f)
