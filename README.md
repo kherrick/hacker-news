@@ -1,11 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-03, 13:19:05](https://news.ycombinator.com/item?id=43569190) - [Show HN: OpenNutrition – A free, public nutrition database](https://www.opennutrition.app/search)
+* [2025-04-03, 13:09:33](https://news.ycombinator.com/item?id=43569077) - [New Windows 11 trick lets you bypass Microsoft Account requirement](https://www.bleepingcomputer.com/news/microsoft/new-windows-11-trick-lets-you-bypass-microsoft-account-requirement/)
+* [2025-04-03, 13:03:34](https://news.ycombinator.com/item?id=43569009) - [How North Korea Cheated Its Way to Crypto Billions](https://www.wsj.com/world/asia/north-korea-cryptocurrency-580d7d3f)
 * [2025-04-03, 12:41:10](https://news.ycombinator.com/item?id=43568771) - [Show HN: Zxc – Rust TLS proxy with tmux and Vim as UI, BurpSuite alternative](https://github.com/hail-hydrant/zxc)
 * [2025-04-03, 12:29:08](https://news.ycombinator.com/item?id=43568655) - [A University President Makes a Case Against Cowardice](https://www.newyorker.com/news/q-and-a/a-university-president-makes-a-case-against-cowardice)
 * [2025-04-03, 12:00:16](https://news.ycombinator.com/item?id=43568380) - [Type (YC W23) is hiring a senior software engineer](https://www.ycombinator.com/companies/type/jobs/m3GcN1t-senior-software-engineer)
 * [2025-04-03, 11:24:10](https://news.ycombinator.com/item?id=43568036) - [AWS MCP Servers](https://github.com/awslabs/mcp)
 * [2025-04-03, 11:12:56](https://news.ycombinator.com/item?id=43567923) - [The Steam Deck Is Software-Freedom Friendly](https://isomorphism.xyz/blog/2024/steam-deck/)
-* [2025-04-03, 10:35:33](https://news.ycombinator.com/item?id=43567591) - [Space Debris: Is It a Crisis?](https://www.esa.int/Space_Safety/Space_Debris)
 * [2025-04-03, 04:53:02](https://news.ycombinator.com/item?id=43564890) - [DIY Synths Database](https://diy-synths.snnkv.com/)
 * [2025-04-03, 03:30:30](https://news.ycombinator.com/item?id=43564386) - [Dijkstra On the foolishness of \"natural language programming\"](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
 * [2025-04-03, 02:40:08](https://news.ycombinator.com/item?id=43564111) - [I maintain a 17 year old ThinkPad](https://pilledtexts.com/why-i-use-a-17-year-old-thinkpad/)
@@ -19,7 +21,6 @@
 * [2025-04-02, 18:34:22](https://news.ycombinator.com/item?id=43559855) - [Restructuring Announcement](https://automattic.com/2025/04/02/restructuring-announcement/)
 * [2025-04-02, 18:14:44](https://news.ycombinator.com/item?id=43559605) - [Why I don't discuss politics with friends](https://shwin.co/blog/why-i-dont-discuss-politics-with-friends)
 * [2025-04-02, 16:49:56](https://news.ycombinator.com/item?id=43558671) - [Tell HN: Announcing tomhow as a public moderator](https://news.ycombinator.com/item?id=43558671)
-* [2025-04-02, 16:03:12](https://news.ycombinator.com/item?id=43558182) - [Digital Archivists: Protecting Public Data from Erasure](https://spectrum.ieee.org/digital-archive)
 * [2025-04-02, 15:35:25](https://news.ycombinator.com/item?id=43557873) - [Animals Made from 13 Circles (2016)](https://www.dorithegiant.com/2016/05/13-animals-made-from-13-circles.html)
 * [2025-04-02, 14:47:38](https://news.ycombinator.com/item?id=43557310) - [How Google built its Gemini robotics models](https://blog.google/products/gemini/how-we-built-gemini-robotics/)
 * [2025-03-31, 19:41:46](https://news.ycombinator.com/item?id=43538986) - [AI/Math Puzzle](https://aggressivelyparaphrasing.me/2025/03/31/can-you-solve-this-ai-math-puzzle-and-get-a-prize-i-couldnt/)
@@ -29,7 +30,6 @@
 * [2025-03-31, 08:25:20](https://news.ycombinator.com/item?id=43532551) - [Apple's Cubify Anything: Scaling Indoor 3D Object Detection](https://github.com/apple/ml-cubifyanything)
 * [2025-03-30, 14:25:26](https://news.ycombinator.com/item?id=43524461) - [TV Garden](https://tv.garden/)
 * [2025-03-30, 11:11:35](https://news.ycombinator.com/item?id=43523220) - [Minimal CSS-only blurry image placeholders](https://leanrada.com/notes/css-only-lqip/)
-* [2025-03-30, 07:15:56](https://news.ycombinator.com/item?id=43522060) - [Ploopy Classic 2 open source trackball](https://blog.ploopy.co/the-classic-2-is-here-186)
 
 ## [Archives](archives/index.md)
 
