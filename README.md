@@ -2,12 +2,13 @@
 
 * [2025-04-03, 20:25:04](https://news.ycombinator.com/item?id=43574929) - [AI Cheats: Why You Didn't Notice Your Teammate Was Cheating](https://niila.fi/en/ai-cheats/)
 * [2025-04-03, 18:59:29](https://news.ycombinator.com/item?id=43573879) - [Banked Memories for Soft SIMT Processors](https://arxiv.org/abs/2503.24132)
+* [2025-04-03, 18:47:24](https://news.ycombinator.com/item?id=43573755) - [Senior Developer Skills in the AI Age](https://manuel.kiessling.net/2025/03/31/how-seasoned-developers-can-achieve-great-results-with-ai-coding-agents/)
 * [2025-04-03, 18:44:58](https://news.ycombinator.com/item?id=43573721) - [Show HN: The Algorithm Behind the Topological Sort Library TopoSort](https://github.com/williamw520/toposort/blob/master/Algorithm.md)
 * [2025-04-03, 18:39:04](https://news.ycombinator.com/item?id=43573653) - [Installing AIX PS/2 v1.3 on a 486](https://hardwarehacks.org/blog/installing_aix_ps2_13_on_a_486/)
 * [2025-04-03, 18:28:44](https://news.ycombinator.com/item?id=43573539) - [Show HN: GitMCP is an automatic MCP server for every GitHub repo](https://gitmcp.io/)
 * [2025-04-03, 18:07:50](https://news.ycombinator.com/item?id=43573310) - [Tenstorrent Launches Blackhole Developer Products at Tenstorrent Dev Day](https://tenstorrent.com/vision/tenstorrent-launches-blackhole-developer-products-at-tenstorrent-dev-day)
+* [2025-04-03, 18:06:32](https://news.ycombinator.com/item?id=43573299) - [Show HN: Monkeys.zip – 3000 Monkeys on Typewriters](https://monkeys.zip/)
 * [2025-04-03, 17:55:20](https://news.ycombinator.com/item?id=43573156) - [An image of an archeologist adventurer who wears a hat and uses a bullwhip](https://theaiunderwriter.substack.com/p/an-image-of-an-archeologist-adventurer)
-* [2025-04-03, 17:24:28](https://news.ycombinator.com/item?id=43572820) - [Bikes in the Age of Tariffs](https://www.renehersecycles.com/bikes-in-the-age-of-tariffs/)
 * [2025-04-03, 17:17:54](https://news.ycombinator.com/item?id=43572733) - [Show HN: Hatchet v1 – a task orchestration platform built on Postgres](https://github.com/hatchet-dev/hatchet)
 * [2025-04-03, 17:02:51](https://news.ycombinator.com/item?id=43572544) - [Declarative Schemas for simpler database management](https://supabase.com/blog/declarative-schemas)
 * [2025-04-03, 17:01:01](https://news.ycombinator.com/item?id=43572518) - [Onyx (YC W24) Is Hiring](https://www.ycombinator.com/companies/onyx/jobs/CUHpbpE-founding-devrel-engineer)
@@ -29,7 +30,6 @@
 * [2025-03-31, 14:18:52](https://news.ycombinator.com/item?id=43535352) - [New nanoparticle therapies target two major killers – Science – AAAS](https://www.science.org/content/article/new-nanoparticle-therapies-target-two-major-killers)
 * [2025-03-31, 12:06:40](https://news.ycombinator.com/item?id=43533994) - [Declarative Web Push – WebKit](https://webkit.org/blog/16535/meet-declarative-web-push/)
 * [2025-03-31, 08:41:11](https://news.ycombinator.com/item?id=43532658) - [Showcase: Working on a voice/text chat app in a cyberpunk style](https://static.mollohq.com/molly-0.0.1-showcase.mp4)
-* [2025-03-31, 05:35:54](https://news.ycombinator.com/item?id=43531465) - [Bedded Bugs and Stung Beetles: The Cameraman's Revenge (1912)](https://publicdomainreview.org/collection/cameramans-revenge/)
 
 ## [Archives](archives/index.md)
 
