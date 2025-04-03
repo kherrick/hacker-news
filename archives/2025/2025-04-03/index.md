@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-03](index.md)
 
+* [2025-04-03, 20:25:04](https://news.ycombinator.com/item?id=43574929) - [AI Cheats: Why You Didn't Notice Your Teammate Was Cheating](https://niila.fi/en/ai-cheats/)
 * [2025-04-03, 19:07:56](https://news.ycombinator.com/item?id=43573980) - [Intel, TSMC tentatively agree to form chipmaking joint venture](https://www.reuters.com/technology/intel-tsmc-tentatively-agree-form-chipmaking-joint-venture-information-reports-2025-04-03/)
 * [2025-04-03, 18:59:29](https://news.ycombinator.com/item?id=43573879) - [Banked Memories for Soft SIMT Processors](https://arxiv.org/abs/2503.24132)
 * [2025-04-03, 18:44:58](https://news.ycombinator.com/item?id=43573721) - [Show HN: The Algorithm Behind the Topological Sort Library TopoSort](https://github.com/williamw520/toposort/blob/master/Algorithm.md)

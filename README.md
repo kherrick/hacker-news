@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-03, 20:25:04](https://news.ycombinator.com/item?id=43574929) - [AI Cheats: Why You Didn't Notice Your Teammate Was Cheating](https://niila.fi/en/ai-cheats/)
 * [2025-04-03, 18:59:29](https://news.ycombinator.com/item?id=43573879) - [Banked Memories for Soft SIMT Processors](https://arxiv.org/abs/2503.24132)
 * [2025-04-03, 18:44:58](https://news.ycombinator.com/item?id=43573721) - [Show HN: The Algorithm Behind the Topological Sort Library TopoSort](https://github.com/williamw520/toposort/blob/master/Algorithm.md)
 * [2025-04-03, 18:39:04](https://news.ycombinator.com/item?id=43573653) - [Installing AIX PS/2 v1.3 on a 486](https://hardwarehacks.org/blog/installing_aix_ps2_13_on_a_486/)
@@ -23,7 +24,6 @@
 * [2025-04-03, 12:11:51](https://news.ycombinator.com/item?id=43568503) - [InitWare, a portable systemd fork running on BSDs and Linux](https://github.com/InitWare/InitWare)
 * [2025-04-03, 03:30:30](https://news.ycombinator.com/item?id=43564386) - [Dijkstra On the foolishness of \"natural language programming\"](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
 * [2025-04-03, 02:40:08](https://news.ycombinator.com/item?id=43564111) - [I maintain a 17 year old ThinkPad](https://pilledtexts.com/why-i-use-a-17-year-old-thinkpad/)
-* [2025-04-03, 00:23:29](https://news.ycombinator.com/item?id=43563396) - [An open source, self-hosted implementation of the Tailscale control server](https://github.com/juanfont/headscale)
 * [2025-04-02, 23:10:55](https://news.ycombinator.com/item?id=43562860) - [Web Server for AoE 1, 2 and 3 DE supporting LAN multiplayer 100% offline](https://github.com/luskaner/ageLANServer)
 * [2025-03-31, 15:10:04](https://news.ycombinator.com/item?id=43535937) - [John Cage recital set to last 639 years recently witnessed a chord change](https://www.spectator.co.uk/article/what-were-we-all-doing-here-my-600-mile-trip-to-hear-an-organ-play-a-d-natural/)
 * [2025-03-31, 14:18:52](https://news.ycombinator.com/item?id=43535352) - [New nanoparticle therapies target two major killers – Science – AAAS](https://www.science.org/content/article/new-nanoparticle-therapies-target-two-major-killers)
