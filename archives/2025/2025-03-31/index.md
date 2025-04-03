@@ -47,6 +47,7 @@
 * [2025-03-31, 13:40:39](https://news.ycombinator.com/item?id=43534939) - [Why Login Failures Matter](https://fusionauth.io/articles/authentication/login-failures)
 * [2025-03-31, 13:08:54](https://news.ycombinator.com/item?id=43534635) - [Nvidia's latest AI PC boxes sound great – for data scientists with $3k to spare](https://www.theregister.com/2025/03/31/can_nvidia_shakeup_pcs/)
 * [2025-03-31, 12:59:23](https://news.ycombinator.com/item?id=43534533) - [Why do I run FreeBSD for my home servers](https://aumont.fr/posts/FreeBSD-Home-Server/)
+* [2025-03-31, 12:54:46](https://news.ycombinator.com/item?id=43534480) - [Flame – BBS and MUD](https://www.ucc.asn.au/services/flame.ucc)
 * [2025-03-31, 12:47:40](https://news.ycombinator.com/item?id=43534381) - [Reintroducing Capsul](https://capsul.bearblog.dev/reintroducing-capsul/)
 * [2025-03-31, 12:34:49](https://news.ycombinator.com/item?id=43534240) - [Show HN: I made Confetti: a configuration language file format](https://confetti.hgs3.me/)
 * [2025-03-31, 12:26:46](https://news.ycombinator.com/item?id=43534185) - [Finding Remote Enterprise Software Consulting Leads: Non-US Resident Edition](https://news.ycombinator.com/item?id=43534185)
