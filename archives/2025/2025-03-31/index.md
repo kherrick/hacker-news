@@ -71,6 +71,7 @@
 * [2025-03-31, 09:56:55](https://news.ycombinator.com/item?id=43533110) - [Certification Authority/Browser Forum adopts new security standards](https://security.googleblog.com/2025/03/new-security-requirements-adopted-by.html)
 * [2025-03-31, 09:56:02](https://news.ycombinator.com/item?id=43533104) - [The March of the Vegetables Parade](http://www.marchofthevegetables.org)
 * [2025-03-31, 09:54:36](https://news.ycombinator.com/item?id=43533096) - [ToS;DR](https://tosdr.org/en)
+* [2025-03-31, 09:32:55](https://news.ycombinator.com/item?id=43532968) - [Rust on the Ferris Sweep](https://gabevenberg.com/posts/rmk-ferris-sweep/)
 * [2025-03-31, 09:32:54](https://news.ycombinator.com/item?id=43532967) - [Show HN: WhatsApp MCP Server](https://github.com/lharries/whatsapp-mcp)
 * [2025-03-31, 09:28:53](https://news.ycombinator.com/item?id=43532939) - [GPT-4o draws itself as a consistent type of guy](https://newsletter.danielpaleka.com/p/gpt-4o-draws-itself-as-a-consistent)
 * [2025-03-31, 09:21:05](https://news.ycombinator.com/item?id=43532893) - [UK poll: Work and money worry young people more than culture wars or climate](https://www.theguardian.com/society/2025/mar/31/work-and-money-worries-young-people-more-than-culture-wars-or-climate-uk-poll-finds)
