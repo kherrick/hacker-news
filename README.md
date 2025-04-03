@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-03, 10:35:33](https://news.ycombinator.com/item?id=43567591) - [Space Debris: Is It a Crisis?](https://www.esa.int/Space_Safety/Space_Debris)
 * [2025-04-03, 04:53:02](https://news.ycombinator.com/item?id=43564890) - [DIY Synths Database](https://diy-synths.snnkv.com/)
 * [2025-04-03, 04:09:48](https://news.ycombinator.com/item?id=43564644) - [Calibrated Basic Income by Derek Van Gorder [pdf]](https://www.greshm.org/files/2025-04-01-calibrated-basic-income.pdf)
 * [2025-04-03, 03:30:30](https://news.ycombinator.com/item?id=43564386) - [Dijkstra On the foolishness of \"natural language programming\"](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
@@ -9,7 +10,6 @@
 * [2025-04-02, 23:10:55](https://news.ycombinator.com/item?id=43562860) - [Web Server for AoE 1, 2 and 3 DE supporting LAN multiplayer 100% offline](https://github.com/luskaner/ageLANServer)
 * [2025-04-02, 22:20:53](https://news.ycombinator.com/item?id=43562384) - [Multi-Token Attention](https://arxiv.org/abs/2504.00927)
 * [2025-04-02, 21:54:13](https://news.ycombinator.com/item?id=43562109) - [MIT 6.5950 Secure Hardware Design – An open-source course on hardware attacks](https://shd.mit.edu/home/)
-* [2025-04-02, 21:01:48](https://news.ycombinator.com/item?id=43561524) - [UpCodes (YC S17) Is Hiring SWEs and CSMs to make construction more productive](https://up.codes/careers?utm_source=HN)
 * [2025-04-02, 20:39:06](https://news.ycombinator.com/item?id=43561253) - [US Administration announces 34% tariffs on China, 20% on EU](https://www.bbc.com/news/live/c1dr7vy39eet)
 * [2025-04-02, 20:02:09](https://news.ycombinator.com/item?id=43560899) - [Pico.sh – SSH powered services for developers](https://pico.sh/)
 * [2025-04-02, 18:34:22](https://news.ycombinator.com/item?id=43559855) - [Restructuring Announcement](https://automattic.com/2025/04/02/restructuring-announcement/)
