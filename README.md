@@ -2,7 +2,6 @@
 
 * [2025-04-03, 04:53:02](https://news.ycombinator.com/item?id=43564890) - [DIY Synths Database](https://diy-synths.snnkv.com/)
 * [2025-04-03, 02:40:08](https://news.ycombinator.com/item?id=43564111) - [I maintain a 17 year old ThinkPad](https://pilledtexts.com/why-i-use-a-17-year-old-thinkpad/)
-* [2025-04-03, 00:53:39](https://news.ycombinator.com/item?id=43563533) - [The reality of working in tech: We're not hired to write code (2023)](https://idiallo.com/blog/code-for-hire)
 * [2025-04-03, 00:23:29](https://news.ycombinator.com/item?id=43563396) - [An open source, self-hosted implementation of the Tailscale control server](https://github.com/juanfont/headscale)
 * [2025-04-03, 00:02:16](https://news.ycombinator.com/item?id=43563265) - [Search-R1: Training LLMs to Reason and Leverage Search Engines with RL](https://arxiv.org/abs/2503.09516)
 * [2025-04-02, 23:10:55](https://news.ycombinator.com/item?id=43562860) - [Web Server for AoE 1, 2 and 3 DE supporting LAN multiplayer 100% offline](https://github.com/luskaner/ageLANServer)
@@ -24,6 +23,7 @@
 * [2025-04-02, 15:35:25](https://news.ycombinator.com/item?id=43557873) - [Animals Made from 13 Circles (2016)](https://www.dorithegiant.com/2016/05/13-animals-made-from-13-circles.html)
 * [2025-04-02, 14:47:38](https://news.ycombinator.com/item?id=43557310) - [How Google built its Gemini robotics models](https://blog.google/products/gemini/how-we-built-gemini-robotics/)
 * [2025-04-01, 15:01:11](https://news.ycombinator.com/item?id=43547611) - [Ask HN: Who is hiring? (April 2025)](https://news.ycombinator.com/item?id=43547611)
+* [2025-03-31, 12:47:40](https://news.ycombinator.com/item?id=43534381) - [Reintroducing Capsul](https://capsul.bearblog.dev/reintroducing-capsul/)
 * [2025-03-31, 11:05:41](https://news.ycombinator.com/item?id=43533556) - [Aptera's First Solar Road Trip. 300 Miles, One Charge](https://aptera.us/apteras-first-solar-road-trip/)
 * [2025-03-31, 08:25:20](https://news.ycombinator.com/item?id=43532551) - [Apple's Cubify Anything: Scaling Indoor 3D Object Detection](https://github.com/apple/ml-cubifyanything)
 * [2025-03-30, 15:07:31](https://news.ycombinator.com/item?id=43524772) - [Efficient light control: Meta-optics replace conventional lenses](https://phys.org/news/2025-03-efficient-meta-optics-conventional-lenses.html)
