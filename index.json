@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-03, 15:24:49",
+      "https://news.ycombinator.com/item?id=43571099"
+    ],
+    [
+      "A special build of curl that can impersonate Chrome and Firefox",
+      "https://github.com/lwthiker/curl-impersonate"
+    ]
+  ],
+  [
+    [
       "2025-04-03, 14:59:42",
       "https://news.ycombinator.com/item?id=43570749"
     ],
@@ -11,12 +21,32 @@
   ],
   [
     [
+      "2025-04-03, 14:47:52",
+      "https://news.ycombinator.com/item?id=43570533"
+    ],
+    [
+      "AnimeJs v4 Is Here",
+      "https://animejs.com/"
+    ]
+  ],
+  [
+    [
       "2025-04-03, 14:36:41",
       "https://news.ycombinator.com/item?id=43570324"
     ],
     [
       "Overengineered Anchor Links",
       "https://thirty-five.com/overengineered-anchoring"
+    ]
+  ],
+  [
+    [
+      "2025-04-03, 14:28:37",
+      "https://news.ycombinator.com/item?id=43570207"
+    ],
+    [
+      "Show HN: Benchi – A benchmarking tool written in Go",
+      "https://github.com/ConduitIO/benchi"
     ]
   ],
   [
@@ -47,16 +77,6 @@
     [
       "Show HN: OpenNutrition – A free, public nutrition database",
       "https://www.opennutrition.app/search"
-    ]
-  ],
-  [
-    [
-      "2025-04-03, 13:03:34",
-      "https://news.ycombinator.com/item?id=43569009"
-    ],
-    [
-      "Hackers stole billions in crypto to keep North Korea’s regime afloat",
-      "https://www.wsj.com/world/asia/north-korea-cryptocurrency-580d7d3f"
     ]
   ],
   [
@@ -127,16 +147,6 @@
     [
       "An open source, self-hosted implementation of the Tailscale control server",
       "https://github.com/juanfont/headscale"
-    ]
-  ],
-  [
-    [
-      "2025-04-03, 00:02:16",
-      "https://news.ycombinator.com/item?id=43563265"
-    ],
-    [
-      "Search-R1: Training LLMs to Reason and Leverage Search Engines with RL",
-      "https://arxiv.org/abs/2503.09516"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Bedded Bugs and Stung Beetles: The Cameraman's Revenge (1912)",
       "https://publicdomainreview.org/collection/cameramans-revenge/"
-    ]
-  ],
-  [
-    [
-      "2025-03-30, 19:44:55",
-      "https://news.ycombinator.com/item?id=43526957"
-    ],
-    [
-      "Show HN: Chip-8 emulator written in JavaScript",
-      "https://github.com/victorqribeiro/Chip8js"
     ]
   ],
   [
