@@ -23,11 +23,11 @@
 * [2025-04-02, 15:35:25](https://news.ycombinator.com/item?id=43557873) - [Animals Made from 13 Circles (2016)](https://www.dorithegiant.com/2016/05/13-animals-made-from-13-circles.html)
 * [2025-04-02, 14:47:38](https://news.ycombinator.com/item?id=43557310) - [How Google built its Gemini robotics models](https://blog.google/products/gemini/how-we-built-gemini-robotics/)
 * [2025-04-01, 15:01:11](https://news.ycombinator.com/item?id=43547611) - [Ask HN: Who is hiring? (April 2025)](https://news.ycombinator.com/item?id=43547611)
-* [2025-04-01, 15:01:11](https://news.ycombinator.com/item?id=43547609) - [Ask HN: Who wants to be hired? (April 2025)](https://news.ycombinator.com/item?id=43547609)
 * [2025-03-31, 19:41:46](https://news.ycombinator.com/item?id=43538986) - [AI/Math Puzzle](https://aggressivelyparaphrasing.me/2025/03/31/can-you-solve-this-ai-math-puzzle-and-get-a-prize-i-couldnt/)
 * [2025-03-31, 12:54:46](https://news.ycombinator.com/item?id=43534480) - [Flame – BBS and MUD](https://www.ucc.asn.au/services/flame.ucc)
 * [2025-03-31, 08:25:20](https://news.ycombinator.com/item?id=43532551) - [Apple's Cubify Anything: Scaling Indoor 3D Object Detection](https://github.com/apple/ml-cubifyanything)
 * [2025-03-31, 06:15:52](https://news.ycombinator.com/item?id=43531695) - [An AlphaStation's SROM](https://thejpster.org.uk/blog/blog-2025-03-30/)
+* [2025-03-31, 05:35:54](https://news.ycombinator.com/item?id=43531465) - [Bedded Bugs and Stung Beetles: The Cameraman's Revenge (1912)](https://publicdomainreview.org/collection/cameramans-revenge/)
 * [2025-03-30, 11:11:35](https://news.ycombinator.com/item?id=43523220) - [Minimal CSS-only blurry image placeholders](https://leanrada.com/notes/css-only-lqip/)
 * [2025-03-30, 07:15:56](https://news.ycombinator.com/item?id=43522060) - [Ploopy Classic 2 open source trackball](https://blog.ploopy.co/the-classic-2-is-here-186)
 

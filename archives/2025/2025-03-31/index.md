@@ -92,6 +92,7 @@
 * [2025-03-31, 06:20:56](https://news.ycombinator.com/item?id=43531734) - [Preventing nearsightedness using AR glasses or projectors](http://nixon-development.com/fp/nearsightedness.htm)
 * [2025-03-31, 06:15:52](https://news.ycombinator.com/item?id=43531695) - [An AlphaStation's SROM](https://thejpster.org.uk/blog/blog-2025-03-30/)
 * [2025-03-31, 05:41:31](https://news.ycombinator.com/item?id=43531494) - [Agentic AI Needs Its TCP/IP Moment](https://www.anup.io/p/architecting-the-internet-of-agents)
+* [2025-03-31, 05:35:54](https://news.ycombinator.com/item?id=43531465) - [Bedded Bugs and Stung Beetles: The Cameraman's Revenge (1912)](https://publicdomainreview.org/collection/cameramans-revenge/)
 * [2025-03-31, 05:28:03](https://news.ycombinator.com/item?id=43531415) - [RPCEmu is an emulator of classic Acorn computer systems](https://www.marutan.net/rpcemu/index.php)
 * [2025-03-31, 05:11:23](https://news.ycombinator.com/item?id=43531310) - [Autonomous Agent: Automate phone calls with AI voice agents](https://news.ycombinator.com/item?id=43531310)
 * [2025-03-31, 04:25:51](https://news.ycombinator.com/item?id=43531013) - [A decision to eject from a failing F-35B fighter and the betrayal in its wake](https://www.postandcourier.com/news/special_reports/marine-fighter-jet-eject-north-charleston/article_80d55e4a-f600-11ef-8ef4-03f14319ce57.html)
