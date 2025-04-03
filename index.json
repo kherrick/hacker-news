@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-03, 21:08:31",
+      "https://news.ycombinator.com/item?id=43575433"
+    ],
+    [
+      "Aviator (YC S21) is hiring engineers to build AI DevEx platform",
+      "https://www.ycombinator.com/companies/aviator/jobs"
+    ]
+  ],
+  [
+    [
       "2025-04-03, 20:25:04",
       "https://news.ycombinator.com/item?id=43574929"
     ],
@@ -27,6 +37,16 @@
     [
       "Senior Developer Skills in the AI Age",
       "https://manuel.kiessling.net/2025/03/31/how-seasoned-developers-can-achieve-great-results-with-ai-coding-agents/"
+    ]
+  ],
+  [
+    [
+      "2025-04-03, 18:46:20",
+      "https://news.ycombinator.com/item?id=43573738"
+    ],
+    [
+      "How Big Is VMS? – VMS Software, Inc",
+      "https://vmssoftware.com/resources/blog/2025-03-31-how-big-is-vms/"
     ]
   ],
   [
@@ -101,26 +121,6 @@
   ],
   [
     [
-      "2025-04-03, 17:02:51",
-      "https://news.ycombinator.com/item?id=43572544"
-    ],
-    [
-      "Declarative Schemas for simpler database management",
-      "https://supabase.com/blog/declarative-schemas"
-    ]
-  ],
-  [
-    [
-      "2025-04-03, 17:01:01",
-      "https://news.ycombinator.com/item?id=43572518"
-    ],
-    [
-      "Onyx (YC W24) Is Hiring",
-      "https://www.ycombinator.com/companies/onyx/jobs/CUHpbpE-founding-devrel-engineer"
-    ]
-  ],
-  [
-    [
       "2025-04-03, 16:50:08",
       "https://news.ycombinator.com/item?id=43572374"
     ],
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2025-04-03, 13:55:38",
-      "https://news.ycombinator.com/item?id=43569724"
-    ],
-    [
-      "Show HN: The C3 programming language (C alternative language)",
-      "https://github.com/c3lang/c3c"
-    ]
-  ],
-  [
-    [
       "2025-04-03, 12:41:10",
       "https://news.ycombinator.com/item?id=43568771"
     ],
@@ -247,6 +237,16 @@
     [
       "I maintain a 17 year old ThinkPad",
       "https://pilledtexts.com/why-i-use-a-17-year-old-thinkpad/"
+    ]
+  ],
+  [
+    [
+      "2025-04-03, 00:23:29",
+      "https://news.ycombinator.com/item?id=43563396"
+    ],
+    [
+      "An open source, self-hosted implementation of the Tailscale control server",
+      "https://github.com/juanfont/headscale"
     ]
   ],
   [
