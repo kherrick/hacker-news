@@ -61,6 +61,7 @@
 * [2025-03-31, 11:45:32](https://news.ycombinator.com/item?id=43533826) - [The Egg (By Andy Weir)](https://www.galactanet.com/oneoff/theegg.html)
 * [2025-03-31, 11:40:44](https://news.ycombinator.com/item?id=43533792) - [The Tectonics Behind the Myanmar Quake](https://nautil.us/what-caused-the-devastating-earthquake-in-myanmar-1200737/)
 * [2025-03-31, 11:36:44](https://news.ycombinator.com/item?id=43533769) - [Bell Labs Holmdel Complex](https://en.wikipedia.org/wiki/Bell_Labs_Holmdel_Complex)
+* [2025-03-31, 11:29:34](https://news.ycombinator.com/item?id=43533715) - [Build an 8-bit computer from scratch](https://eater.net/8bit/)
 * [2025-03-31, 11:12:34](https://news.ycombinator.com/item?id=43533595) - [Eco Cycles or How I Feel About Technology](https://maksimizmaylov.com/writing/eco-cycles/)
 * [2025-03-31, 11:05:41](https://news.ycombinator.com/item?id=43533556) - [Aptera's First Solar Road Trip. 300 Miles, One Charge](https://aptera.us/apteras-first-solar-road-trip/)
 * [2025-03-31, 11:03:56](https://news.ycombinator.com/item?id=43533539) - [There is no Vibe Engineering](https://serce.me/posts/2025-31-03-there-is-no-vibe-engineering)

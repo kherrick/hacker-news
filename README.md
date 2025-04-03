@@ -22,7 +22,6 @@
 * [2025-04-03, 14:47:52](https://news.ycombinator.com/item?id=43570533) - [AnimeJs v4 Is Here](https://animejs.com/)
 * [2025-04-03, 14:36:41](https://news.ycombinator.com/item?id=43570324) - [Overengineered Anchor Links](https://thirty-five.com/overengineered-anchoring)
 * [2025-04-03, 14:28:37](https://news.ycombinator.com/item?id=43570207) - [Show HN: Benchi – A benchmarking tool written in Go](https://github.com/ConduitIO/benchi)
-* [2025-04-03, 12:41:10](https://news.ycombinator.com/item?id=43568771) - [Show HN: Zxc – Rust TLS proxy with tmux and Vim as UI, BurpSuite alternative](https://github.com/hail-hydrant/zxc)
 * [2025-04-03, 12:29:08](https://news.ycombinator.com/item?id=43568655) - [A university president makes a case against cowardice](https://www.newyorker.com/news/q-and-a/a-university-president-makes-a-case-against-cowardice)
 * [2025-04-03, 12:11:51](https://news.ycombinator.com/item?id=43568503) - [InitWare, a portable systemd fork running on BSDs and Linux](https://github.com/InitWare/InitWare)
 * [2025-04-03, 03:30:30](https://news.ycombinator.com/item?id=43564386) - [Dijkstra On the foolishness of \"natural language programming\"](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
@@ -30,6 +29,7 @@
 * [2025-04-02, 07:32:23](https://news.ycombinator.com/item?id=43554436) - [Simple Denoising Diffusion](https://github.com/utkuozbulak/pytorch-simple-diffusion)
 * [2025-03-31, 15:10:04](https://news.ycombinator.com/item?id=43535937) - [John Cage recital set to last 639 years recently witnessed a chord change](https://www.spectator.co.uk/article/what-were-we-all-doing-here-my-600-mile-trip-to-hear-an-organ-play-a-d-natural/)
 * [2025-03-31, 14:18:52](https://news.ycombinator.com/item?id=43535352) - [New nanoparticle therapies target two major killers](https://www.science.org/content/article/new-nanoparticle-therapies-target-two-major-killers)
+* [2025-03-31, 11:29:34](https://news.ycombinator.com/item?id=43533715) - [Build an 8-bit computer from scratch](https://eater.net/8bit/)
 
 ## [Archives](archives/index.md)
 
