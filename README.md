@@ -2,7 +2,6 @@
 
 * [2025-04-03, 10:35:33](https://news.ycombinator.com/item?id=43567591) - [Space Debris: Is It a Crisis?](https://www.esa.int/Space_Safety/Space_Debris)
 * [2025-04-03, 04:53:02](https://news.ycombinator.com/item?id=43564890) - [DIY Synths Database](https://diy-synths.snnkv.com/)
-* [2025-04-03, 04:09:48](https://news.ycombinator.com/item?id=43564644) - [Calibrated Basic Income by Derek Van Gorder [pdf]](https://www.greshm.org/files/2025-04-01-calibrated-basic-income.pdf)
 * [2025-04-03, 03:30:30](https://news.ycombinator.com/item?id=43564386) - [Dijkstra On the foolishness of \"natural language programming\"](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
 * [2025-04-03, 02:40:08](https://news.ycombinator.com/item?id=43564111) - [I maintain a 17 year old ThinkPad](https://pilledtexts.com/why-i-use-a-17-year-old-thinkpad/)
 * [2025-04-03, 00:23:29](https://news.ycombinator.com/item?id=43563396) - [An open source, self-hosted implementation of the Tailscale control server](https://github.com/juanfont/headscale)
@@ -16,6 +15,7 @@
 * [2025-04-02, 18:14:44](https://news.ycombinator.com/item?id=43559605) - [Why I don't discuss politics with friends](https://shwin.co/blog/why-i-dont-discuss-politics-with-friends)
 * [2025-04-02, 17:30:08](https://news.ycombinator.com/item?id=43559122) - [When Jorge Luis Borges met one of the founders of AI](https://resobscura.substack.com/p/when-jorge-luis-borges-met-one-of)
 * [2025-04-02, 16:49:56](https://news.ycombinator.com/item?id=43558671) - [Tell HN: Announcing tomhow as a public moderator](https://news.ycombinator.com/item?id=43558671)
+* [2025-04-02, 16:37:12](https://news.ycombinator.com/item?id=43558550) - [Hacking the call records of millions of Americans](https://evanconnelly.github.io/post/hacking-call-records/)
 * [2025-04-02, 16:33:53](https://news.ycombinator.com/item?id=43558517) - [Show HN: Mermaid Chart VS Code Plugin: Mermaid.js Diagrams in Visual Studio Code](https://docs.mermaidchart.com/blog/posts/mermaid-chart-vs-code-plugin-create-and-edit-mermaid-js-diagrams-in-visual-studio-code)
 * [2025-04-02, 16:28:50](https://news.ycombinator.com/item?id=43558464) - [Matrix.org Will Migrate to MAS](https://matrix.org/blog/2025/04/matrix-auth-service/)
 * [2025-04-02, 16:03:12](https://news.ycombinator.com/item?id=43558182) - [Digital Archivists: Protecting Public Data from Erasure](https://spectrum.ieee.org/digital-archive)
