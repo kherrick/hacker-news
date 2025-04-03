@@ -85,6 +85,7 @@
 * [2025-03-31, 06:56:59](https://news.ycombinator.com/item?id=43531989) - [Why Norway is edging towards a fresh EU membership bid](https://www.ft.com/content/3c2516a5-7066-40f8-afce-1a529fad2955)
 * [2025-03-31, 06:45:23](https://news.ycombinator.com/item?id=43531914) - [Taming the UB Monsters in C++](https://herbsutter.com/2025/03/30/crate-training-tiamat-un-calling-cthulhutaming-the-ub-monsters-in-c/)
 * [2025-03-31, 06:33:04](https://news.ycombinator.com/item?id=43531816) - [You're protecting your data wrong – Introducing the Protected Query Pattern](https://kilpi.vercel.app/blog/2025-03-27-introducing-the-protected-query-pattern/)
+* [2025-03-31, 06:20:56](https://news.ycombinator.com/item?id=43531734) - [Preventing nearsightedness using AR glasses or projectors](http://nixon-development.com/fp/nearsightedness.htm)
 * [2025-03-31, 05:41:31](https://news.ycombinator.com/item?id=43531494) - [Agentic AI Needs Its TCP/IP Moment](https://www.anup.io/p/architecting-the-internet-of-agents)
 * [2025-03-31, 05:28:03](https://news.ycombinator.com/item?id=43531415) - [RPCEmu is an emulator of classic Acorn computer systems](https://www.marutan.net/rpcemu/index.php)
 * [2025-03-31, 05:11:23](https://news.ycombinator.com/item?id=43531310) - [Autonomous Agent: Automate phone calls with AI voice agents](https://news.ycombinator.com/item?id=43531310)
