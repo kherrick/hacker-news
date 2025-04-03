@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-03, 00:23:29",
+      "https://news.ycombinator.com/item?id=43563396"
+    ],
+    [
+      "An open source, self-hosted implementation of the Tailscale control server",
+      "https://github.com/juanfont/headscale"
+    ]
+  ],
+  [
+    [
+      "2025-04-03, 00:02:16",
+      "https://news.ycombinator.com/item?id=43563265"
+    ],
+    [
+      "Search-R1: Training LLMs to Reason and Leverage Search Engines with RL",
+      "https://arxiv.org/abs/2503.09516"
+    ]
+  ],
+  [
+    [
       "2025-04-02, 23:10:55",
       "https://news.ycombinator.com/item?id=43562860"
     ],
@@ -57,16 +77,6 @@
     [
       "MIT 6.5950 Secure Hardware Design – An open-source course on hardware attacks",
       "https://shd.mit.edu/home/"
-    ]
-  ],
-  [
-    [
-      "2025-04-02, 21:13:53",
-      "https://news.ycombinator.com/item?id=43561691"
-    ],
-    [
-      "What We Knew Without Knowing",
-      "https://www.newyorker.com/magazine/2025/04/07/what-we-knew-without-knowing"
     ]
   ],
   [
@@ -211,26 +221,6 @@
   ],
   [
     [
-      "2025-04-02, 15:29:14",
-      "https://news.ycombinator.com/item?id=43557790"
-    ],
-    [
-      "Porting Tailscale to Plan 9",
-      "https://tailscale.com/blog/plan9-port"
-    ]
-  ],
-  [
-    [
-      "2025-04-02, 15:02:46",
-      "https://news.ycombinator.com/item?id=43557471"
-    ],
-    [
-      "Why is the world losing color?",
-      "https://www.culture-critic.com/p/why-is-the-world-losing-color"
-    ]
-  ],
-  [
-    [
       "2025-04-02, 14:47:38",
       "https://news.ycombinator.com/item?id=43557310"
     ],
@@ -247,16 +237,6 @@
     [
       "Ask HN: Who is hiring? (April 2025)",
       "https://news.ycombinator.com/item?id=43547611"
-    ]
-  ],
-  [
-    [
-      "2025-04-01, 11:51:08",
-      "https://news.ycombinator.com/item?id=43545641"
-    ],
-    [
-      "Show HN: A Chrome extension to give you back control over short-form videos",
-      "https://chromewebstore.google.com/detail/seek-anywhere/opofkjlejjcjalcpaimnpmkmjlclgded"
     ]
   ],
   [
@@ -281,12 +261,32 @@
   ],
   [
     [
+      "2025-03-30, 21:42:27",
+      "https://news.ycombinator.com/item?id=43527933"
+    ],
+    [
+      "The Carbon Bankroll 2.0 [pdf] (2024)",
+      "https://static1.squarespace.com/static/651da9cd0ad7706a768d14db/t/66024d827623d72ef543b545/1711426949213/The+Carbon+Bankroll+2.0+-+From+Awareness+to+Action+%28final%29.pdf"
+    ]
+  ],
+  [
+    [
       "2025-03-30, 14:25:26",
       "https://news.ycombinator.com/item?id=43524461"
     ],
     [
       "TV Garden",
       "https://tv.garden/"
+    ]
+  ],
+  [
+    [
+      "2025-03-30, 11:11:35",
+      "https://news.ycombinator.com/item?id=43523220"
+    ],
+    [
+      "Minimal CSS-only blurry image placeholders",
+      "https://leanrada.com/notes/css-only-lqip/"
     ]
   ],
   [
