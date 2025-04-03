@@ -9,6 +9,7 @@
 * [2025-04-03, 13:03:34](https://news.ycombinator.com/item?id=43569009) - [How North Korea Cheated Its Way to Crypto Billions](https://www.wsj.com/world/asia/north-korea-cryptocurrency-580d7d3f)
 * [2025-04-03, 12:41:10](https://news.ycombinator.com/item?id=43568771) - [Show HN: Zxc – Rust TLS proxy with tmux and Vim as UI, BurpSuite alternative](https://github.com/hail-hydrant/zxc)
 * [2025-04-03, 12:29:08](https://news.ycombinator.com/item?id=43568655) - [A University President Makes a Case Against Cowardice](https://www.newyorker.com/news/q-and-a/a-university-president-makes-a-case-against-cowardice)
+* [2025-04-03, 12:11:51](https://news.ycombinator.com/item?id=43568503) - [InitWare, a portable systemd fork running on BSDs and Linux](https://github.com/InitWare/InitWare)
 * [2025-04-03, 12:00:16](https://news.ycombinator.com/item?id=43568380) - [Type (YC W23) is hiring a senior software engineer](https://www.ycombinator.com/companies/type/jobs/m3GcN1t-senior-software-engineer)
 * [2025-04-03, 11:24:10](https://news.ycombinator.com/item?id=43568036) - [AWS MCP Servers](https://github.com/awslabs/mcp)
 * [2025-04-03, 11:12:56](https://news.ycombinator.com/item?id=43567923) - [The Steam Deck Is Software-Freedom Friendly](https://isomorphism.xyz/blog/2024/steam-deck/)
