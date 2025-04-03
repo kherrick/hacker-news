@@ -74,6 +74,7 @@
 * [2025-04-02, 10:33:20](https://news.ycombinator.com/item?id=43555334) - [RIP Val Kilmer: Real Genius .. the Film Nerd Culture Deserves (2015)](https://reactormag.com/30-years-later-real-genius-is-still-the-geek-solidarity-film-that-nerd-culture-deserves/)
 * [2025-04-02, 10:25:18](https://news.ycombinator.com/item?id=43555286) - [Coffea stenophylla: A forgotten bean that could save coffee from extinction](https://www.smithsonianmag.com/science-nature/how-forgotten-bean-could-save-coffee-from-extinction-180986230/)
 * [2025-04-02, 10:18:08](https://news.ycombinator.com/item?id=43555248) - [UCSD: Large Language Models Pass the Turing Test](https://arxiv.org/abs/2503.23674)
+* [2025-04-02, 10:13:48](https://news.ycombinator.com/item?id=43555220) - [Supervisors Often Prefer Rule Breakers—Up to a Point](https://journals.aom.org/doi/10.5465/amd.2022.0280.summary)
 * [2025-04-02, 08:46:23](https://news.ycombinator.com/item?id=43554769) - [Show HN: Await-Tree – Visualize Async Rust Task Execution in Real-Time](https://github.com/risingwavelabs/await-tree)
 * [2025-04-02, 08:39:42](https://news.ycombinator.com/item?id=43554737) - [Multi-threading is always the wrong design](https://unetworkingab.medium.com/multi-threading-is-always-the-wrong-design-a227be57f107)
 * [2025-04-02, 07:07:33](https://news.ycombinator.com/item?id=43554329) - [Val Kilmer, star of Top Gun and The Doors, dies aged 65](https://www.theguardian.com/film/2025/apr/02/val-kilmer-death-age-65-pneumonia)
