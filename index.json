@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-04-03, 18:28:44",
+      "https://news.ycombinator.com/item?id=43573539"
+    ],
+    [
+      "An automatic MCP server for every GitHub project",
+      "https://gitmcp.io/"
+    ]
+  ],
+  [
+    [
+      "2025-04-03, 18:23:18",
+      "https://news.ycombinator.com/item?id=43573488"
+    ],
+    [
+      "2025 Recession Indicators Hit Fashion and Wall Street at Once",
+      "https://www.marieclaire.com/fashion/recession-2025-fashion-indicators/"
+    ]
+  ],
+  [
+    [
+      "2025-04-03, 17:02:51",
+      "https://news.ycombinator.com/item?id=43572544"
+    ],
+    [
+      "Declarative Schemas for simpler database management",
+      "https://supabase.com/blog/declarative-schemas"
+    ]
+  ],
+  [
+    [
       "2025-04-03, 17:01:01",
       "https://news.ycombinator.com/item?id=43572518"
     ],
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2025-04-02, 21:54:13",
-      "https://news.ycombinator.com/item?id=43562109"
-    ],
-    [
-      "MIT 6.5950 Secure Hardware Design – An open-source course on hardware attacks",
-      "https://shd.mit.edu/home/"
-    ]
-  ],
-  [
-    [
       "2025-04-02, 20:39:06",
       "https://news.ycombinator.com/item?id=43561253"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2025-04-02, 16:49:56",
-      "https://news.ycombinator.com/item?id=43558671"
-    ],
-    [
-      "Tell HN: Announcing tomhow as a public moderator",
-      "https://news.ycombinator.com/item?id=43558671"
-    ]
-  ],
-  [
-    [
       "2025-04-02, 15:35:25",
       "https://news.ycombinator.com/item?id=43557873"
     ],
     [
       "Animals Made from 13 Circles (2016)",
       "https://www.dorithegiant.com/2016/05/13-animals-made-from-13-circles.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-31, 19:41:46",
-      "https://news.ycombinator.com/item?id=43538986"
-    ],
-    [
-      "AI/Math Puzzle",
-      "https://aggressivelyparaphrasing.me/2025/03/31/can-you-solve-this-ai-math-puzzle-and-get-a-prize-i-couldnt/"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
+      "2025-03-31, 12:06:40",
+      "https://news.ycombinator.com/item?id=43533994"
+    ],
+    [
+      "Declarative Web Push – WebKit",
+      "https://webkit.org/blog/16535/meet-declarative-web-push/"
+    ]
+  ],
+  [
+    [
       "2025-03-31, 08:41:11",
       "https://news.ycombinator.com/item?id=43532658"
     ],
     [
       "Showcase: Working on a voice/text chat app in a cyberpunk style",
       "https://static.mollohq.com/molly-0.0.1-showcase.mp4"
-    ]
-  ],
-  [
-    [
-      "2025-03-31, 08:25:20",
-      "https://news.ycombinator.com/item?id=43532551"
-    ],
-    [
-      "Apple's Cubify Anything: Scaling Indoor 3D Object Detection",
-      "https://github.com/apple/ml-cubifyanything"
     ]
   ],
   [
