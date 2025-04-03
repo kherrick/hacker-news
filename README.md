@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-03, 18:28:44](https://news.ycombinator.com/item?id=43573539) - [An automatic MCP server for every GitHub project](https://gitmcp.io/)
+* [2025-04-03, 18:28:44](https://news.ycombinator.com/item?id=43573539) - [An automatic MCP server for every GitHub repo](https://gitmcp.io/)
 * [2025-04-03, 18:23:18](https://news.ycombinator.com/item?id=43573488) - [2025 Recession Indicators Hit Fashion and Wall Street at Once](https://www.marieclaire.com/fashion/recession-2025-fashion-indicators/)
 * [2025-04-03, 17:02:51](https://news.ycombinator.com/item?id=43572544) - [Declarative Schemas for simpler database management](https://supabase.com/blog/declarative-schemas)
 * [2025-04-03, 17:01:01](https://news.ycombinator.com/item?id=43572518) - [Onyx (YC W24) Is Hiring](https://www.ycombinator.com/companies/onyx/jobs/CUHpbpE-founding-devrel-engineer)
