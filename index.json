@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-03, 14:36:41",
+      "https://news.ycombinator.com/item?id=43570324"
+    ],
+    [
+      "Overengineered Anchor Links",
+      "https://thirty-five.com/overengineered-anchoring"
+    ]
+  ],
+  [
+    [
+      "2025-04-03, 14:09:59",
+      "https://news.ycombinator.com/item?id=43569961"
+    ],
+    [
+      "Show HN: Offline JavaScript PubSub between browser tabs",
+      "https://simon-frey.com/tabsub/"
+    ]
+  ],
+  [
+    [
       "2025-04-03, 13:19:05",
       "https://news.ycombinator.com/item?id=43569190"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2025-04-01, 15:01:11",
-      "https://news.ycombinator.com/item?id=43547611"
-    ],
-    [
-      "Ask HN: Who is hiring? (April 2025)",
-      "https://news.ycombinator.com/item?id=43547611"
-    ]
-  ],
-  [
-    [
       "2025-03-31, 19:41:46",
       "https://news.ycombinator.com/item?id=43538986"
     ],
@@ -287,16 +297,6 @@
     [
       "Minimal CSS-only blurry image placeholders",
       "https://leanrada.com/notes/css-only-lqip/"
-    ]
-  ],
-  [
-    [
-      "2025-03-30, 07:15:56",
-      "https://news.ycombinator.com/item?id=43522060"
-    ],
-    [
-      "Ploopy Classic 2 open source trackball",
-      "https://blog.ploopy.co/the-classic-2-is-here-186"
     ]
   ]
 ]
