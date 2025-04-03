@@ -15,6 +15,7 @@
 * [2025-04-02, 21:13:53](https://news.ycombinator.com/item?id=43561691) - [What We Knew Without Knowing](https://www.newyorker.com/magazine/2025/04/07/what-we-knew-without-knowing)
 * [2025-04-02, 21:01:48](https://news.ycombinator.com/item?id=43561524) - [UpCodes (YC S17) Is Hiring SWEs and CSMs to make construction more productive](https://up.codes/careers?utm_source=HN)
 * [2025-04-02, 20:51:13](https://news.ycombinator.com/item?id=43561396) - [Henry James's American Journey](https://www.chronicle.com/article/henry-jamess-american-journey)
+* [2025-04-02, 20:39:06](https://news.ycombinator.com/item?id=43561253) - [US Administration announces 34% tariffs on China, 20% on EU](https://www.bbc.com/news/live/c1dr7vy39eet)
 * [2025-04-02, 20:34:23](https://news.ycombinator.com/item?id=43561193) - [Prof. Sussman's Reading List](http://aurellem.org/thoughts/html/sussman-reading-list.html)
 * [2025-04-02, 20:04:00](https://news.ycombinator.com/item?id=43560916) - [Show HN: Color palettes inspired by Mexican architecture](https://seis.pointlessprojects.com/)
 * [2025-04-02, 20:02:09](https://news.ycombinator.com/item?id=43560899) - [Pico.sh (The ultimate SSH powered services for developers)](https://pico.sh/)
