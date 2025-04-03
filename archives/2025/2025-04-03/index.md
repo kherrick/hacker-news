@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-04-03](index.md)
 
+* [2025-04-03, 21:08:31](https://news.ycombinator.com/item?id=43575433) - [Aviator (YC S21) is hiring engineers to build AI DevEx platform](https://www.ycombinator.com/companies/aviator/jobs)
 * [2025-04-03, 20:25:04](https://news.ycombinator.com/item?id=43574929) - [AI Cheats: Why You Didn't Notice Your Teammate Was Cheating](https://niila.fi/en/ai-cheats/)
 * [2025-04-03, 19:07:56](https://news.ycombinator.com/item?id=43573980) - [Intel, TSMC tentatively agree to form chipmaking joint venture](https://www.reuters.com/technology/intel-tsmc-tentatively-agree-form-chipmaking-joint-venture-information-reports-2025-04-03/)
 * [2025-04-03, 18:59:29](https://news.ycombinator.com/item?id=43573879) - [Banked Memories for Soft SIMT Processors](https://arxiv.org/abs/2503.24132)
 * [2025-04-03, 18:47:24](https://news.ycombinator.com/item?id=43573755) - [Senior Developer Skills in the AI Age](https://manuel.kiessling.net/2025/03/31/how-seasoned-developers-can-achieve-great-results-with-ai-coding-agents/)
+* [2025-04-03, 18:46:20](https://news.ycombinator.com/item?id=43573738) - [How Big Is VMS? – VMS Software, Inc](https://vmssoftware.com/resources/blog/2025-03-31-how-big-is-vms/)
 * [2025-04-03, 18:44:58](https://news.ycombinator.com/item?id=43573721) - [Show HN: The Algorithm Behind the Topological Sort Library TopoSort](https://github.com/williamw520/toposort/blob/master/Algorithm.md)
 * [2025-04-03, 18:39:04](https://news.ycombinator.com/item?id=43573653) - [Installing AIX PS/2 v1.3 on a 486](https://hardwarehacks.org/blog/installing_aix_ps2_13_on_a_486/)
 * [2025-04-03, 18:28:44](https://news.ycombinator.com/item?id=43573539) - [An automatic MCP server for every GitHub project](https://gitmcp.io/)
