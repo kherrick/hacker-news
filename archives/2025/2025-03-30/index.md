@@ -45,6 +45,7 @@
 * [2025-03-30, 15:40:37](https://news.ycombinator.com/item?id=43525009) - [The Mediocrity of Modern Google](https://om.co/2025/03/29/the-mediocrity-of-modern-google/)
 * [2025-03-30, 15:30:22](https://news.ycombinator.com/item?id=43524937) - [Blue95: a desktop for your childhood home's computer room](https://github.com/winblues/blue95)
 * [2025-03-30, 15:08:54](https://news.ycombinator.com/item?id=43524784) - [Isar Aerospace launches Spectrum, fails early in first stage flight](https://www.nasaspaceflight.com/2025/03/isar-first-launch/)
+* [2025-03-30, 15:07:31](https://news.ycombinator.com/item?id=43524772) - [Efficient light control: Meta-optics replace conventional lenses](https://phys.org/news/2025-03-efficient-meta-optics-conventional-lenses.html)
 * [2025-03-30, 14:55:57](https://news.ycombinator.com/item?id=43524673) - [Literate Development: AI-Enhanced Software Engineering](https://substack.com/home/post/p-160183664)
 * [2025-03-30, 14:53:33](https://news.ycombinator.com/item?id=43524665) - [Span<T>.SequenceEquals is faster than memcmp](https://richardcocks.github.io/2025-03-30-FasterThanMemCmp.html)
 * [2025-03-30, 14:35:34](https://news.ycombinator.com/item?id=43524537) - [DNA scaffolds enable self-assembling 3D electronic devices](https://techxplore.com/news/2025-03-dna-scaffolds-enable-3d-electronic.html)
