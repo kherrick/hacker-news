@@ -32,6 +32,7 @@
 * [2025-04-01, 15:16:21](https://news.ycombinator.com/item?id=43547813) - [We Can, Must, and Will Simulate Nematode Brains](https://asteriskmag.com/issues/09/we-can-must-and-will-simulate-nematode-brains)
 * [2025-04-01, 15:06:11](https://news.ycombinator.com/item?id=43547677) - [Launch HN: ASim (YC S21) – Mobile app that generates mobile apps](https://news.ycombinator.com/item?id=43547677)
 * [2025-04-01, 15:01:11](https://news.ycombinator.com/item?id=43547611) - [Ask HN: Who is hiring? (April 2025)](https://news.ycombinator.com/item?id=43547611)
+* [2025-04-01, 15:01:11](https://news.ycombinator.com/item?id=43547609) - [Ask HN: Who wants to be hired? (April 2025)](https://news.ycombinator.com/item?id=43547609)
 * [2025-04-01, 14:59:42](https://news.ycombinator.com/item?id=43547593) - [Systems Correctness Practices at AWS: Leveraging Formal and Semi-Formal Methods](https://queue.acm.org/detail.cfm?id=3712057)
 * [2025-04-01, 14:37:54](https://news.ycombinator.com/item?id=43547309) - [Ask HN: Why hasn't AMD made a viable CUDA alternative?](https://news.ycombinator.com/item?id=43547309)
 * [2025-04-01, 14:27:10](https://news.ycombinator.com/item?id=43547178) - [Donkey Kong champion wins defamation case against Australian YouTuber Karl Jobst](https://www.theguardian.com/technology/2025/apr/01/donkey-kong-champion-billy-mitchell-wins-defamation-case-australia-youtuber-karl-jobst-ntwnfb)
