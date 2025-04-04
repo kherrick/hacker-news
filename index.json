@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2025-04-03, 18:46:20",
+      "https://news.ycombinator.com/item?id=43573738"
+    ],
+    [
+      "How Big Is VMS?",
+      "https://vmssoftware.com/resources/blog/2025-03-31-how-big-is-vms/"
+    ]
+  ],
+  [
+    [
       "2025-04-03, 18:28:44",
       "https://news.ycombinator.com/item?id=43573539"
     ],
@@ -121,12 +131,12 @@
   ],
   [
     [
-      "2025-04-03, 16:50:08",
-      "https://news.ycombinator.com/item?id=43572374"
+      "2025-04-03, 17:02:51",
+      "https://news.ycombinator.com/item?id=43572544"
     ],
     [
-      "Reasoning models don't always say what they think",
-      "https://www.anthropic.com/research/reasoning-models-dont-say-think"
+      "Declarative Schemas for simpler database management",
+      "https://supabase.com/blog/declarative-schemas"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "A university president makes a case against cowardice",
       "https://www.newyorker.com/news/q-and-a/a-university-president-makes-a-case-against-cowardice"
-    ]
-  ],
-  [
-    [
-      "2025-04-03, 12:11:51",
-      "https://news.ycombinator.com/item?id=43568503"
-    ],
-    [
-      "InitWare, a portable systemd fork running on BSDs and Linux",
-      "https://github.com/InitWare/InitWare"
     ]
   ],
   [
