@@ -77,6 +77,7 @@
 * [2025-04-02, 10:13:48](https://news.ycombinator.com/item?id=43555220) - [Supervisors Often Prefer Rule Breakers—Up to a Point](https://journals.aom.org/doi/10.5465/amd.2022.0280.summary)
 * [2025-04-02, 08:46:23](https://news.ycombinator.com/item?id=43554769) - [Show HN: Await-Tree – Visualize Async Rust Task Execution in Real-Time](https://github.com/risingwavelabs/await-tree)
 * [2025-04-02, 08:39:42](https://news.ycombinator.com/item?id=43554737) - [Multi-threading is always the wrong design](https://unetworkingab.medium.com/multi-threading-is-always-the-wrong-design-a227be57f107)
+* [2025-04-02, 07:34:05](https://news.ycombinator.com/item?id=43554444) - [Why do we need modules at all?](https://groups.google.com/g/erlang-programming/c/LKLesmrss2k)
 * [2025-04-02, 07:32:23](https://news.ycombinator.com/item?id=43554436) - [Simple Denoising Diffusion](https://github.com/utkuozbulak/pytorch-simple-diffusion)
 * [2025-04-02, 07:08:42](https://news.ycombinator.com/item?id=43554339) - [.NET on Heroku Now Generally Available](https://blog.heroku.com/dotnet-now-generally-available)
 * [2025-04-02, 07:07:33](https://news.ycombinator.com/item?id=43554329) - [Val Kilmer, star of Top Gun and The Doors, dies aged 65](https://www.theguardian.com/film/2025/apr/02/val-kilmer-death-age-65-pneumonia)
