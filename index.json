@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-04-04, 07:13:06",
-      "https://news.ycombinator.com/item?id=43579197"
+      "2025-04-04, 06:52:24",
+      "https://news.ycombinator.com/item?id=43579082"
     ],
     [
-      "Apple killed Asahi Linux with M4 update",
-      "https://social.treehouse.systems/@sven/114278224116678776"
+      "EU: These are scary times – let's backdoor encryption",
+      "https://www.theregister.com/2025/04/03/eu_backdoor_encryption/"
     ]
   ],
   [
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=43575884"
     ],
     [
-      "Celebrate 50 years of Microsoft with the company's original source code",
+      "Microsoft’s original source code",
       "https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code"
     ]
   ],
@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2025-04-03, 16:50:08",
+      "https://news.ycombinator.com/item?id=43572374"
+    ],
+    [
+      "Reasoning models don't always say what they think",
+      "https://www.anthropic.com/research/reasoning-models-dont-say-think"
+    ]
+  ],
+  [
+    [
       "2025-04-03, 16:13:02",
       "https://news.ycombinator.com/item?id=43571851"
     ],
@@ -181,12 +191,12 @@
   ],
   [
     [
-      "2025-04-03, 01:01:34",
-      "https://news.ycombinator.com/item?id=43563580"
+      "2025-04-03, 12:11:51",
+      "https://news.ycombinator.com/item?id=43568503"
     ],
     [
-      "Photo calorie app Cal AI was built by two teenagers",
-      "https://techcrunch.com/2025/03/16/photo-calorie-app-cal-ai-downloaded-over-a-million-times-was-built-by-two-teenagers/"
+      "InitWare, a portable systemd fork running on BSDs and Linux",
+      "https://github.com/InitWare/InitWare"
     ]
   ],
   [
@@ -225,7 +235,7 @@
       "https://news.ycombinator.com/item?id=43539595"
     ],
     [
-      "Microsoft turns 50: 4 employees recall their early years",
+      "Microsoft employees recall their early years",
       "https://www.seattletimes.com/business/microsoft/microsoft-turns-50-4-employees-recall-their-early-years/"
     ]
   ],
@@ -267,16 +277,6 @@
     [
       "New nanoparticle therapies target two major killers",
       "https://www.science.org/content/article/new-nanoparticle-therapies-target-two-major-killers"
-    ]
-  ],
-  [
-    [
-      "2025-03-31, 12:22:27",
-      "https://news.ycombinator.com/item?id=43534143"
-    ],
-    [
-      "Binary Distribution Rebuilds",
-      "https://blog.josefsson.org/2025/03/31/on-binary-distribution-rebuilds/"
     ]
   ],
   [
