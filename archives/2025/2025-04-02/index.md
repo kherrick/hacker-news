@@ -78,6 +78,7 @@
 * [2025-04-02, 08:46:23](https://news.ycombinator.com/item?id=43554769) - [Show HN: Await-Tree – Visualize Async Rust Task Execution in Real-Time](https://github.com/risingwavelabs/await-tree)
 * [2025-04-02, 08:39:42](https://news.ycombinator.com/item?id=43554737) - [Multi-threading is always the wrong design](https://unetworkingab.medium.com/multi-threading-is-always-the-wrong-design-a227be57f107)
 * [2025-04-02, 07:32:23](https://news.ycombinator.com/item?id=43554436) - [Simple Denoising Diffusion](https://github.com/utkuozbulak/pytorch-simple-diffusion)
+* [2025-04-02, 07:08:42](https://news.ycombinator.com/item?id=43554339) - [.NET on Heroku Now Generally Available](https://blog.heroku.com/dotnet-now-generally-available)
 * [2025-04-02, 07:07:33](https://news.ycombinator.com/item?id=43554329) - [Val Kilmer, star of Top Gun and The Doors, dies aged 65](https://www.theguardian.com/film/2025/apr/02/val-kilmer-death-age-65-pneumonia)
 * [2025-04-02, 06:11:35](https://news.ycombinator.com/item?id=43554064) - [Travel Guide for Stateless People](https://taejun.substack.com/p/travel-guide-for-stateless-people)
 * [2025-04-02, 04:25:03](https://news.ycombinator.com/item?id=43553663) - [Where does air pollution come from?](https://ourworldindata.org/air-pollution-sources)
