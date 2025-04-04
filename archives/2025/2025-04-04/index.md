@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-04](index.md)
 
+* [2025-04-04, 10:54:10](https://news.ycombinator.com/item?id=43580449) - [Bored of It](https://paulrobertlloyd.com/2025/087/a1/bored/)
+* [2025-04-04, 10:52:34](https://news.ycombinator.com/item?id=43580439) - [I just want to serve 5 terabytes [video]](https://www.youtube.com/watch?v=3t6L-FlfeaI)
 * [2025-04-04, 09:56:37](https://news.ycombinator.com/item?id=43580103) - [Gumroad is now open source](https://github.com/antiwork/gumroad)
 * [2025-04-04, 09:56:24](https://news.ycombinator.com/item?id=43580101) - [Hackers strike Australia's largest pension funds in coordinated attacks](https://www.reuters.com/technology/cybersecurity/multiple-australian-pension-funds-hit-by-coordinated-hacking-media-reports-say-2025-04-04/)
 * [2025-04-04, 09:22:37](https://news.ycombinator.com/item?id=43579925) - [Doge staffer's YouTube nickname accidentally revealed his teen hacking activity](https://arstechnica.com/tech-policy/2025/04/i-no-longer-hack-paypals-doge-staffers-hacker-past-raises-red-flags/)

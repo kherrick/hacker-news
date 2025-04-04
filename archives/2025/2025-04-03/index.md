@@ -13,6 +13,7 @@
 * [2025-04-03, 20:25:04](https://news.ycombinator.com/item?id=43574929) - [AI Cheats: Why You Didn't Notice Your Teammate Was Cheating](https://niila.fi/en/ai-cheats/)
 * [2025-04-03, 20:15:32](https://news.ycombinator.com/item?id=43574807) - [Show HN: Slipstream - a python library for stateful stream processing](https://slipstream.readthedocs.io/en/1.0.1/)
 * [2025-04-03, 19:18:08](https://news.ycombinator.com/item?id=43574125) - [How Servo Motors Work](https://www.jameco.com/Jameco/workshop/Howitworks/how-servo-motors-work.html)
+* [2025-04-03, 19:11:26](https://news.ycombinator.com/item?id=43574026) - [On JavaScript's Weirdness](https://stack-auth.com/blog/on-javascripts-weirdness)
 * [2025-04-03, 19:07:56](https://news.ycombinator.com/item?id=43573980) - [Intel, TSMC tentatively agree to form chipmaking joint venture](https://www.reuters.com/technology/intel-tsmc-tentatively-agree-form-chipmaking-joint-venture-information-reports-2025-04-03/)
 * [2025-04-03, 18:59:29](https://news.ycombinator.com/item?id=43573879) - [Banked Memories for Soft SIMT Processors](https://arxiv.org/abs/2503.24132)
 * [2025-04-03, 18:47:24](https://news.ycombinator.com/item?id=43573755) - [Senior Developer Skills in the AI Age](https://manuel.kiessling.net/2025/03/31/how-seasoned-developers-can-achieve-great-results-with-ai-coding-agents/)
