@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-04, 16:23:42](https://news.ycombinator.com/item?id=43584663) - [The Curse of Ayn Rand's Heir](https://www.theatlantic.com/ideas/archive/2025/03/ayn-rand-peikoff-inheritance-battle/682219/)
-* [2025-04-04, 16:14:56](https://news.ycombinator.com/item?id=43584538) - [CSS Clicker – incremental game about making a personal web, written in pure CSS](https://lyra.horse/css-clicker/)
 * [2025-04-04, 15:59:28](https://news.ycombinator.com/item?id=43584303) - [Kerosene did not save the sperm whale (2024)](https://edconway.substack.com/p/no-kerosene-did-not-save-the-sperm)
 * [2025-04-04, 14:30:20](https://news.ycombinator.com/item?id=43582985) - [Ask HN: Does Collapsing an HN Thread in a Popular story spike your CPU use?](https://news.ycombinator.com/item?id=43582985)
 * [2025-04-04, 12:54:38](https://news.ycombinator.com/item?id=43581584) - [Nvidia adds native Python support to CUDA](https://thenewstack.io/nvidia-finally-adds-native-python-support-to-cuda/)
 * [2025-04-04, 09:56:37](https://news.ycombinator.com/item?id=43580103) - [Gumroad is now open source](https://github.com/antiwork/gumroad)
 * [2025-04-04, 09:56:24](https://news.ycombinator.com/item?id=43580101) - [Hackers strike Australia's largest pension funds in coordinated attacks](https://www.reuters.com/technology/cybersecurity/multiple-australian-pension-funds-hit-by-coordinated-hacking-media-reports-say-2025-04-04/)
+* [2025-04-04, 04:50:45](https://news.ycombinator.com/item?id=43578430) - [DeepSeek: Inference-Time Scaling for Generalist Reward Modeling](https://arxiv.org/abs/2504.02495)
 * [2025-04-03, 21:49:04](https://news.ycombinator.com/item?id=43575884) - [Microsoft’s original source code](https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code)
 * [2025-04-03, 19:11:26](https://news.ycombinator.com/item?id=43574026) - [On JavaScript's Weirdness](https://stack-auth.com/blog/on-javascripts-weirdness)
 * [2025-04-03, 18:47:24](https://news.ycombinator.com/item?id=43573755) - [Senior Developer Skills in the AI Age](https://manuel.kiessling.net/2025/03/31/how-seasoned-developers-can-achieve-great-results-with-ai-coding-agents/)
