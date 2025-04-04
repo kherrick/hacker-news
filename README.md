@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-04, 19:35:49](https://news.ycombinator.com/item?id=43586786) - [Google launches SEC-Gemini v1, a new experimental cybersecurity model](https://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html)
+* [2025-04-04, 18:59:53](https://news.ycombinator.com/item?id=43586436) - [America's 'Tree of Life' is nearing the end of its life](https://www.sfgate.com/national-parks/article/olympic-national-park-tree-of-life-collapse-20240943.php)
 * [2025-04-04, 18:58:17](https://news.ycombinator.com/item?id=43586420) - [SpaceX's Fram2 returns from first-of-its-kind mission around Earth's poles](https://www.cnn.com/2025/04/04/science/spacex-fram2-mission-return-earth/index.html)
 * [2025-04-04, 18:34:07](https://news.ycombinator.com/item?id=43586157) - [The End of Sierra as We Knew It, Part 1: The Acquisition](https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-1-the-acquisition/)
 * [2025-04-04, 18:29:21](https://news.ycombinator.com/item?id=43586113) - [Yoko: A Biography](https://www.newstatesman.com/culture/books/book-of-the-day/2025/03/the-yoko-ono-problem)
@@ -12,7 +14,6 @@
 * [2025-04-04, 12:54:38](https://news.ycombinator.com/item?id=43581584) - [Nvidia adds native Python support to CUDA](https://thenewstack.io/nvidia-finally-adds-native-python-support-to-cuda/)
 * [2025-04-04, 09:56:37](https://news.ycombinator.com/item?id=43580103) - [Gumroad’s source is available](https://github.com/antiwork/gumroad)
 * [2025-04-04, 04:50:45](https://news.ycombinator.com/item?id=43578430) - [DeepSeek: Inference-Time Scaling for Generalist Reward Modeling](https://arxiv.org/abs/2504.02495)
-* [2025-04-04, 03:59:44](https://news.ycombinator.com/item?id=43578190) - [Show HN: Transputer emulator in JavaScript (fast enough to be useful)](https://nanochess.org/transputer_emulator.html)
 * [2025-04-03, 21:49:04](https://news.ycombinator.com/item?id=43575884) - [Microsoft’s original source code](https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code)
 * [2025-04-03, 17:55:20](https://news.ycombinator.com/item?id=43573156) - [An image of an archeologist adventurer who wears a hat and uses a bullwhip](https://theaiunderwriter.substack.com/p/an-image-of-an-archeologist-adventurer)
 * [2025-04-03, 17:17:54](https://news.ycombinator.com/item?id=43572733) - [Show HN: Hatchet v1 – A task orchestration platform built on Postgres](https://github.com/hatchet-dev/hatchet)
@@ -22,7 +23,6 @@
 * [2025-04-03, 12:29:08](https://news.ycombinator.com/item?id=43568655) - [A university president makes a case against cowardice](https://www.newyorker.com/news/q-and-a/a-university-president-makes-a-case-against-cowardice)
 * [2025-04-02, 11:54:51](https://news.ycombinator.com/item?id=43555728) - [Fantastically Wrong: The Legendary Scientist Who Swore Our Planet Is Hollow](https://www.wired.com/2014/07/fantastically-wrong-hollow-earth/)
 * [2025-04-02, 10:52:00](https://news.ycombinator.com/item?id=43555409) - [Show HN: I made a platform to load and performance test API's](https://buzzbench.io/)
-* [2025-04-02, 10:13:48](https://news.ycombinator.com/item?id=43555220) - [Supervisors often prefer rule breakers, up to a point](https://journals.aom.org/doi/10.5465/amd.2022.0280.summary)
 * [2025-04-02, 07:34:05](https://news.ycombinator.com/item?id=43554444) - [Why do we need modules at all? (2011)](https://groups.google.com/g/erlang-programming/c/LKLesmrss2k)
 * [2025-04-01, 11:54:34](https://news.ycombinator.com/item?id=43545674) - [How Airbnb Measures Listing Lifetime Value](https://medium.com/airbnb-engineering/how-airbnb-measures-listing-lifetime-value-a603bf05142c)
 * [2025-03-31, 23:46:55](https://news.ycombinator.com/item?id=43541285) - [BBC Verify: What satellite images reveal about Myanmar's quake](https://www.bbc.com/news/videos/cn4wzyv21jvo)

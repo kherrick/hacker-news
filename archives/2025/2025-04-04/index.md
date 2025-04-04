@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-04](index.md)
 
+* [2025-04-04, 19:35:49](https://news.ycombinator.com/item?id=43586786) - [Google launches SEC-Gemini v1, a new experimental cybersecurity model](https://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html)
+* [2025-04-04, 18:59:53](https://news.ycombinator.com/item?id=43586436) - [America's 'Tree of Life' is nearing the end of its life](https://www.sfgate.com/national-parks/article/olympic-national-park-tree-of-life-collapse-20240943.php)
 * [2025-04-04, 18:58:17](https://news.ycombinator.com/item?id=43586420) - [SpaceX's Fram2 returns from first-of-its-kind mission around Earth's poles](https://www.cnn.com/2025/04/04/science/spacex-fram2-mission-return-earth/index.html)
 * [2025-04-04, 18:34:07](https://news.ycombinator.com/item?id=43586157) - [The End of Sierra as We Knew It, Part 1: The Acquisition](https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-1-the-acquisition/)
 * [2025-04-04, 18:29:21](https://news.ycombinator.com/item?id=43586113) - [Yoko: A Biography](https://www.newstatesman.com/culture/books/book-of-the-day/2025/03/the-yoko-ono-problem)
