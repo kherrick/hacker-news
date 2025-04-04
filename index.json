@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-04-04, 03:03:10",
-      "https://news.ycombinator.com/item?id=43577927"
-    ],
-    [
-      "Building Gearbox Dynamometer",
-      "https://www.thriftybuilder.dev/post/gearbox-dynamometer"
-    ]
-  ],
-  [
-    [
       "2025-04-04, 01:03:43",
       "https://news.ycombinator.com/item?id=43577285"
     ],
@@ -97,16 +87,6 @@
     [
       "The Slow Collapse of Critical Thinking in OSINT Due to AI",
       "https://www.dutchosintguy.com/post/the-slow-collapse-of-critical-thinking-in-osint-due-to-ai"
-    ]
-  ],
-  [
-    [
-      "2025-04-03, 18:06:32",
-      "https://news.ycombinator.com/item?id=43573299"
-    ],
-    [
-      "Show HN: Monkeys.zip – 3000 Monkeys on Typewriters",
-      "https://monkeys.zip/"
     ]
   ],
   [
@@ -201,6 +181,16 @@
   ],
   [
     [
+      "2025-04-03, 12:11:51",
+      "https://news.ycombinator.com/item?id=43568503"
+    ],
+    [
+      "InitWare, a portable systemd fork running on BSDs and Linux",
+      "https://github.com/InitWare/InitWare"
+    ]
+  ],
+  [
+    [
       "2025-04-03, 01:01:34",
       "https://news.ycombinator.com/item?id=43563580"
     ],
@@ -247,6 +237,16 @@
     [
       "New antibiotic that kills drug-resistant bacteria found in technician's garden",
       "https://www.nature.com/articles/d41586-025-00945-z"
+    ]
+  ],
+  [
+    [
+      "2025-03-31, 18:25:35",
+      "https://news.ycombinator.com/item?id=43538073"
+    ],
+    [
+      "Microsoft reports several bootloader vulnerabilities",
+      "https://www.microsoft.com/en-us/security/blog/2025/03/31/analyzing-open-source-bootloaders-finding-vulnerabilities-faster-with-ai/"
     ]
   ],
   [
