@@ -54,6 +54,7 @@
 * [2025-03-31, 14:32:23](https://news.ycombinator.com/item?id=43535512) - [Back From The Future: 1995's predictions of 2025 life](https://newslttrs.com/back-from-the-future-1995s-predictions-of-2025-life/)
 * [2025-03-31, 14:21:15](https://news.ycombinator.com/item?id=43535376) - [AI image recognition detects bubble-like structures in the universe](https://phys.org/news/2025-03-ai-image-recognition-universe.html)
 * [2025-03-31, 14:18:52](https://news.ycombinator.com/item?id=43535352) - [New nanoparticle therapies target two major killers – Science – AAAS](https://www.science.org/content/article/new-nanoparticle-therapies-target-two-major-killers)
+* [2025-03-31, 13:43:37](https://news.ycombinator.com/item?id=43534978) - [How Silica Gel Took over the World](https://www.scopeofwork.net/silica-gel/)
 * [2025-03-31, 13:40:39](https://news.ycombinator.com/item?id=43534939) - [Why Login Failures Matter](https://fusionauth.io/articles/authentication/login-failures)
 * [2025-03-31, 13:08:54](https://news.ycombinator.com/item?id=43534635) - [Nvidia's latest AI PC boxes sound great – for data scientists with $3k to spare](https://www.theregister.com/2025/03/31/can_nvidia_shakeup_pcs/)
 * [2025-03-31, 12:59:23](https://news.ycombinator.com/item?id=43534533) - [Why do I run FreeBSD for my home servers](https://aumont.fr/posts/FreeBSD-Home-Server/)
