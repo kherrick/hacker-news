@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-04, 09:20:25](https://news.ycombinator.com/item?id=43579908) - [Warren Buffett: growing trade deficit is selling the nation out from under us [pdf]](https://faculty.washington.edu/ss1110/IF/Buffett%20Fortune%202003%20(6).pdf)
 * [2025-04-04, 03:59:44](https://news.ycombinator.com/item?id=43578190) - [Show HN: Transputer emulator in JavaScript (fast enough to be useful)](https://nanochess.org/transputer_emulator.html)
 * [2025-04-04, 01:03:43](https://news.ycombinator.com/item?id=43577285) - [What is Local first development](https://alexop.dev/posts/what-is-local-first-web-development/)
 * [2025-04-03, 21:49:04](https://news.ycombinator.com/item?id=43575884) - [Microsoft’s original source code](https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code)
@@ -20,7 +21,6 @@
 * [2025-04-03, 14:36:41](https://news.ycombinator.com/item?id=43570324) - [Overengineered Anchor Links](https://thirty-five.com/overengineered-anchoring)
 * [2025-04-03, 13:55:38](https://news.ycombinator.com/item?id=43569724) - [Show HN: The C3 programming language (C alternative language)](https://github.com/c3lang/c3c)
 * [2025-04-03, 12:29:08](https://news.ycombinator.com/item?id=43568655) - [A university president makes a case against cowardice](https://www.newyorker.com/news/q-and-a/a-university-president-makes-a-case-against-cowardice)
-* [2025-04-03, 12:11:51](https://news.ycombinator.com/item?id=43568503) - [InitWare, a portable systemd fork running on BSDs and Linux](https://github.com/InitWare/InitWare)
 * [2025-04-02, 10:13:48](https://news.ycombinator.com/item?id=43555220) - [Supervisors often prefer rule breakers, up to a point](https://journals.aom.org/doi/10.5465/amd.2022.0280.summary)
 * [2025-04-02, 07:34:05](https://news.ycombinator.com/item?id=43554444) - [Why do we need modules at all?](https://groups.google.com/g/erlang-programming/c/LKLesmrss2k)
 * [2025-03-31, 22:25:54](https://news.ycombinator.com/item?id=43540626) - [Study finds solo music listening boosts social well-being](https://phys.org/news/2025-03-solo-music-boosts-social.html)
