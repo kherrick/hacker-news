@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-04](index.md)
 
+* [2025-04-04, 17:00:40](https://news.ycombinator.com/item?id=43585103) - [Thunder Compute (YC S24) is hiring a GPU systems engineer](https://www.ycombinator.com/companies/thunder-compute/jobs/fRSS8JQ-systems-engineer)
 * [2025-04-04, 16:23:42](https://news.ycombinator.com/item?id=43584663) - [The Curse of Ayn Rand's Heir](https://www.theatlantic.com/ideas/archive/2025/03/ayn-rand-peikoff-inheritance-battle/682219/)
 * [2025-04-04, 16:14:56](https://news.ycombinator.com/item?id=43584538) - [CSS Clicker – incremental game about making a personal web, written in pure CSS](https://lyra.horse/css-clicker/)
 * [2025-04-04, 15:59:28](https://news.ycombinator.com/item?id=43584303) - [Kerosene did not save the Sperm Whale (2024)](https://edconway.substack.com/p/no-kerosene-did-not-save-the-sperm)
