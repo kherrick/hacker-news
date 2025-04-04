@@ -51,32 +51,12 @@
   ],
   [
     [
-      "2025-04-03, 20:39:08",
-      "https://news.ycombinator.com/item?id=43575088"
-    ],
-    [
-      "Bonobos' calls may be the closest thing to animal language we've seen",
-      "https://arstechnica.com/science/2025/04/bonobos-calls-may-be-the-closest-thing-to-animal-language-weve-seen/"
-    ]
-  ],
-  [
-    [
       "2025-04-03, 20:25:04",
       "https://news.ycombinator.com/item?id=43574929"
     ],
     [
       "AI cheats: Why you didn't notice your teammate was cheating",
       "https://niila.fi/en/ai-cheats/"
-    ]
-  ],
-  [
-    [
-      "2025-04-03, 20:15:32",
-      "https://news.ycombinator.com/item?id=43574807"
-    ],
-    [
-      "Show HN: Slipstream – A Python library for stateful stream processing",
-      "https://slipstream.readthedocs.io/en/1.0.1/"
     ]
   ],
   [
@@ -155,7 +135,7 @@
       "https://news.ycombinator.com/item?id=43572733"
     ],
     [
-      "Show HN: Hatchet v1 – a task orchestration platform built on Postgres",
+      "Show HN: Hatchet v1 – A task orchestration platform built on Postgres",
       "https://github.com/hatchet-dev/hatchet"
     ]
   ],
@@ -211,16 +191,6 @@
   ],
   [
     [
-      "2025-04-03, 14:28:37",
-      "https://news.ycombinator.com/item?id=43570207"
-    ],
-    [
-      "Show HN: Benchi – A benchmarking tool written in Go",
-      "https://github.com/ConduitIO/benchi"
-    ]
-  ],
-  [
-    [
       "2025-04-03, 12:29:08",
       "https://news.ycombinator.com/item?id=43568655"
     ],
@@ -251,6 +221,16 @@
   ],
   [
     [
+      "2025-04-02, 23:10:55",
+      "https://news.ycombinator.com/item?id=43562860"
+    ],
+    [
+      "Web Server for AoE 1, 2 and 3 DE supporting LAN multiplayer 100% offline",
+      "https://github.com/luskaner/ageLANServer"
+    ]
+  ],
+  [
+    [
       "2025-04-02, 10:13:48",
       "https://news.ycombinator.com/item?id=43555220"
     ],
@@ -271,6 +251,16 @@
   ],
   [
     [
+      "2025-03-31, 18:25:35",
+      "https://news.ycombinator.com/item?id=43538073"
+    ],
+    [
+      "Microsoft reports several bootloader vulnerabilities",
+      "https://www.microsoft.com/en-us/security/blog/2025/03/31/analyzing-open-source-bootloaders-finding-vulnerabilities-faster-with-ai/"
+    ]
+  ],
+  [
+    [
       "2025-03-31, 15:10:04",
       "https://news.ycombinator.com/item?id=43535937"
     ],
@@ -287,6 +277,16 @@
     [
       "New nanoparticle therapies target two major killers",
       "https://www.science.org/content/article/new-nanoparticle-therapies-target-two-major-killers"
+    ]
+  ],
+  [
+    [
+      "2025-03-31, 12:22:27",
+      "https://news.ycombinator.com/item?id=43534143"
+    ],
+    [
+      "Binary Distribution Rebuilds",
+      "https://blog.josefsson.org/2025/03/31/on-binary-distribution-rebuilds/"
     ]
   ],
   [
