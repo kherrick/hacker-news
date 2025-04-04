@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-04, 09:56:37",
+      "https://news.ycombinator.com/item?id=43580103"
+    ],
+    [
+      "Gumroad is now open source",
+      "https://github.com/antiwork/gumroad"
+    ]
+  ],
+  [
+    [
+      "2025-04-04, 09:56:24",
+      "https://news.ycombinator.com/item?id=43580101"
+    ],
+    [
+      "Hackers strike Australia's largest pension funds in coordinated attacks",
+      "https://www.reuters.com/technology/cybersecurity/multiple-australian-pension-funds-hit-by-coordinated-hacking-media-reports-say-2025-04-04/"
+    ]
+  ],
+  [
+    [
       "2025-04-04, 09:22:37",
       "https://news.ycombinator.com/item?id=43579925"
     ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2025-04-03, 18:46:20",
-      "https://news.ycombinator.com/item?id=43573738"
-    ],
-    [
-      "How Big Is VMS?",
-      "https://vmssoftware.com/resources/blog/2025-03-31-how-big-is-vms/"
-    ]
-  ],
-  [
-    [
       "2025-04-03, 18:28:44",
       "https://news.ycombinator.com/item?id=43573539"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2025-04-03, 17:02:51",
-      "https://news.ycombinator.com/item?id=43572544"
-    ],
-    [
-      "Declarative Schemas for simpler database management",
-      "https://supabase.com/blog/declarative-schemas"
-    ]
-  ],
-  [
-    [
       "2025-04-03, 16:13:02",
       "https://news.ycombinator.com/item?id=43571851"
     ],
@@ -167,16 +167,6 @@
     [
       "Curl-impersonate: Special build of curl that can impersonate the major browsers",
       "https://github.com/lwthiker/curl-impersonate"
-    ]
-  ],
-  [
-    [
-      "2025-04-03, 14:47:52",
-      "https://news.ycombinator.com/item?id=43570533"
-    ],
-    [
-      "AnimeJs v4 Is Here",
-      "https://animejs.com/"
     ]
   ],
   [
@@ -225,7 +215,7 @@
       "https://news.ycombinator.com/item?id=43554444"
     ],
     [
-      "Why do we need modules at all?",
+      "Why do we need modules at all? (2011)",
       "https://groups.google.com/g/erlang-programming/c/LKLesmrss2k"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "New nanoparticle therapies target two major killers",
       "https://www.science.org/content/article/new-nanoparticle-therapies-target-two-major-killers"
+    ]
+  ],
+  [
+    [
+      "2025-03-31, 13:43:37",
+      "https://news.ycombinator.com/item?id=43534978"
+    ],
+    [
+      "How Silica Gel Took over the World",
+      "https://www.scopeofwork.net/silica-gel/"
     ]
   ],
   [
