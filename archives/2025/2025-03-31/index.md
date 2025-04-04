@@ -52,6 +52,7 @@
 * [2025-03-31, 14:45:35](https://news.ycombinator.com/item?id=43535653) - [AI Agents: Less Capability, More Reliability, Please](https://www.sergey.fyi/articles/reliability-vs-capability)
 * [2025-03-31, 14:36:25](https://news.ycombinator.com/item?id=43535558) - [Amazon introduces Nova Chat, entering the arena with ChatGPT, Claude, Grok](https://www.aboutamazon.com/news/innovation-at-amazon/amazon-nova-website-sdk)
 * [2025-03-31, 14:32:23](https://news.ycombinator.com/item?id=43535512) - [Back From The Future: 1995's predictions of 2025 life](https://newslttrs.com/back-from-the-future-1995s-predictions-of-2025-life/)
+* [2025-03-31, 14:25:50](https://news.ycombinator.com/item?id=43535449) - [Show HN: 2x2 Generator (With Sound Effects)](https://www.2x2-generator.com/)
 * [2025-03-31, 14:21:15](https://news.ycombinator.com/item?id=43535376) - [AI image recognition detects bubble-like structures in the universe](https://phys.org/news/2025-03-ai-image-recognition-universe.html)
 * [2025-03-31, 14:18:52](https://news.ycombinator.com/item?id=43535352) - [New nanoparticle therapies target two major killers – Science – AAAS](https://www.science.org/content/article/new-nanoparticle-therapies-target-two-major-killers)
 * [2025-03-31, 13:43:37](https://news.ycombinator.com/item?id=43534978) - [How Silica Gel Took over the World](https://www.scopeofwork.net/silica-gel/)
