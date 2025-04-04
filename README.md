@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-04, 09:22:37](https://news.ycombinator.com/item?id=43579925) - [Doge staffer's YouTube nickname accidentally revealed his teen hacking activity](https://arstechnica.com/tech-policy/2025/04/i-no-longer-hack-paypals-doge-staffers-hacker-past-raises-red-flags/)
 * [2025-04-04, 09:20:25](https://news.ycombinator.com/item?id=43579908) - [Warren Buffett: growing trade deficit is selling the nation out from under us [pdf]](https://faculty.washington.edu/ss1110/IF/Buffett%20Fortune%202003%20(6).pdf)
 * [2025-04-04, 03:59:44](https://news.ycombinator.com/item?id=43578190) - [Show HN: Transputer emulator in JavaScript (fast enough to be useful)](https://nanochess.org/transputer_emulator.html)
 * [2025-04-04, 01:03:43](https://news.ycombinator.com/item?id=43577285) - [What is Local first development](https://alexop.dev/posts/what-is-local-first-web-development/)
@@ -14,7 +15,6 @@
 * [2025-04-03, 17:55:20](https://news.ycombinator.com/item?id=43573156) - [An image of an archeologist adventurer who wears a hat and uses a bullwhip](https://theaiunderwriter.substack.com/p/an-image-of-an-archeologist-adventurer)
 * [2025-04-03, 17:17:54](https://news.ycombinator.com/item?id=43572733) - [Show HN: Hatchet v1 – A task orchestration platform built on Postgres](https://github.com/hatchet-dev/hatchet)
 * [2025-04-03, 17:02:51](https://news.ycombinator.com/item?id=43572544) - [Declarative Schemas for simpler database management](https://supabase.com/blog/declarative-schemas)
-* [2025-04-03, 16:50:08](https://news.ycombinator.com/item?id=43572374) - [Reasoning models don't always say what they think](https://www.anthropic.com/research/reasoning-models-dont-say-think)
 * [2025-04-03, 16:13:02](https://news.ycombinator.com/item?id=43571851) - [AI 2027](https://ai-2027.com/)
 * [2025-04-03, 15:24:49](https://news.ycombinator.com/item?id=43571099) - [Curl-impersonate: Special build of curl that can impersonate the major browsers](https://github.com/lwthiker/curl-impersonate)
 * [2025-04-03, 14:47:52](https://news.ycombinator.com/item?id=43570533) - [AnimeJs v4 Is Here](https://animejs.com/)
