@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-04, 11:51:54](https://news.ycombinator.com/item?id=43580920) - [When I converted my home from gas to electric my utility bills nearly doubled](https://www.washingtonpost.com/home/2025/04/02/electric-power-home-conversion/)
 * [2025-04-04, 11:14:33](https://news.ycombinator.com/item?id=43580601) - [Microsoft will kill Remote Desktop soon, insists you'll love replacement](https://www.theregister.com/2025/03/11/microsoft_remote_desktop_support/)
 * [2025-04-04, 10:54:10](https://news.ycombinator.com/item?id=43580449) - [Bored of It](https://paulrobertlloyd.com/2025/087/a1/bored/)
 * [2025-04-04, 10:52:34](https://news.ycombinator.com/item?id=43580439) - [I just want to serve 5 terabytes [video]](https://www.youtube.com/watch?v=3t6L-FlfeaI)
@@ -10,7 +11,6 @@
 * [2025-04-04, 03:59:44](https://news.ycombinator.com/item?id=43578190) - [Show HN: Transputer emulator in JavaScript (fast enough to be useful)](https://nanochess.org/transputer_emulator.html)
 * [2025-04-04, 01:03:43](https://news.ycombinator.com/item?id=43577285) - [What is Local first development](https://alexop.dev/posts/what-is-local-first-web-development/)
 * [2025-04-03, 21:49:04](https://news.ycombinator.com/item?id=43575884) - [Microsoft’s original source code](https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code)
-* [2025-04-03, 21:08:31](https://news.ycombinator.com/item?id=43575433) - [Aviator (YC S21) is hiring engineers to build AI DevEx platform](https://www.ycombinator.com/companies/aviator/jobs)
 * [2025-04-03, 19:11:26](https://news.ycombinator.com/item?id=43574026) - [On JavaScript's Weirdness](https://stack-auth.com/blog/on-javascripts-weirdness)
 * [2025-04-03, 18:47:24](https://news.ycombinator.com/item?id=43573755) - [Senior Developer Skills in the AI Age](https://manuel.kiessling.net/2025/03/31/how-seasoned-developers-can-achieve-great-results-with-ai-coding-agents/)
 * [2025-04-03, 17:55:20](https://news.ycombinator.com/item?id=43573156) - [An image of an archeologist adventurer who wears a hat and uses a bullwhip](https://theaiunderwriter.substack.com/p/an-image-of-an-archeologist-adventurer)
@@ -27,8 +27,8 @@
 * [2025-03-31, 22:25:54](https://news.ycombinator.com/item?id=43540626) - [Study finds solo music listening boosts social well-being](https://phys.org/news/2025-03-solo-music-boosts-social.html)
 * [2025-03-31, 20:31:04](https://news.ycombinator.com/item?id=43539595) - [Microsoft employees recall their early years](https://www.seattletimes.com/business/microsoft/microsoft-turns-50-4-employees-recall-their-early-years/)
 * [2025-03-31, 19:30:29](https://news.ycombinator.com/item?id=43538853) - [New antibiotic that kills drug-resistant bacteria found in technician's garden](https://www.nature.com/articles/d41586-025-00945-z)
-* [2025-03-31, 15:10:04](https://news.ycombinator.com/item?id=43535937) - [John Cage recital set to last 639 years recently witnessed a chord change](https://www.spectator.co.uk/article/what-were-we-all-doing-here-my-600-mile-trip-to-hear-an-organ-play-a-d-natural/)
 * [2025-03-31, 14:18:52](https://news.ycombinator.com/item?id=43535352) - [New nanoparticle therapies target two major killers](https://www.science.org/content/article/new-nanoparticle-therapies-target-two-major-killers)
+* [2025-03-31, 13:43:37](https://news.ycombinator.com/item?id=43534978) - [How Silica Gel Took over the World](https://www.scopeofwork.net/silica-gel/)
 * [2025-03-31, 11:29:34](https://news.ycombinator.com/item?id=43533715) - [Build an 8-bit computer from scratch](https://eater.net/8bit/)
 
 ## [Archives](archives/index.md)
