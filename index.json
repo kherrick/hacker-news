@@ -1,12 +1,52 @@
 [
   [
     [
+      "2025-04-04, 21:09:50",
+      "https://news.ycombinator.com/item?id=43587628"
+    ],
+    [
+      "A Man Out to Prove How Dumb AI Still Is",
+      "https://www.theatlantic.com/technology/archive/2025/04/arc-agi-chollet-test/682295/"
+    ]
+  ],
+  [
+    [
+      "2025-04-04, 21:08:12",
+      "https://news.ycombinator.com/item?id=43587611"
+    ],
+    [
+      "Wall Street Blew It",
+      "https://www.theatlantic.com/ideas/archive/2025/04/wall-street-trump-tariffs/682304/"
+    ]
+  ],
+  [
+    [
+      "2025-04-04, 20:51:08",
+      "https://news.ycombinator.com/item?id=43587479"
+    ],
+    [
+      "Dow plunges 2,200 points, Nasdaq enters bear market",
+      "https://finance.yahoo.com/news/live/stock-market-today-dow-plunges-2200-points-nasdaq-enters-bear-market-as-trump-tariffs-spark-worst-meltdown-since-2020-200042876.html"
+    ]
+  ],
+  [
+    [
       "2025-04-04, 20:38:41",
       "https://news.ycombinator.com/item?id=43587385"
     ],
     [
       "Images trapped in a feedback loop and analog fractals create each other",
       "https://www.youtube.com/watch?v=D3eHKI0nvKA"
+    ]
+  ],
+  [
+    [
+      "2025-04-04, 20:37:35",
+      "https://news.ycombinator.com/item?id=43587380"
+    ],
+    [
+      "The blissful Zen of a good side project",
+      "https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project"
     ]
   ],
   [
@@ -161,42 +201,12 @@
   ],
   [
     [
-      "2025-04-03, 17:17:54",
-      "https://news.ycombinator.com/item?id=43572733"
-    ],
-    [
-      "Show HN: Hatchet v1 – A task orchestration platform built on Postgres",
-      "https://github.com/hatchet-dev/hatchet"
-    ]
-  ],
-  [
-    [
-      "2025-04-03, 16:13:02",
-      "https://news.ycombinator.com/item?id=43571851"
-    ],
-    [
-      "AI 2027",
-      "https://ai-2027.com/"
-    ]
-  ],
-  [
-    [
       "2025-04-03, 15:24:49",
       "https://news.ycombinator.com/item?id=43571099"
     ],
     [
       "Curl-impersonate: Special build of curl that can impersonate the major browsers",
       "https://github.com/lwthiker/curl-impersonate"
-    ]
-  ],
-  [
-    [
-      "2025-04-03, 14:36:41",
-      "https://news.ycombinator.com/item?id=43570324"
-    ],
-    [
-      "Overengineered Anchor Links",
-      "https://thirty-five.com/overengineered-anchoring"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Study finds solo music listening boosts social well-being",
       "https://phys.org/news/2025-03-solo-music-boosts-social.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-31, 21:16:21",
-      "https://news.ycombinator.com/item?id=43540070"
-    ],
-    [
-      "Growing Buffers to Avoid Copying Data",
-      "https://johnnysswlab.com/growing-buffers-to-avoid-copying-data/"
     ]
   ],
   [
