@@ -21,7 +21,7 @@
 * [2025-04-03, 21:49:04](https://news.ycombinator.com/item?id=43575884) - [Microsoft’s original source code](https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code)
 * [2025-04-03, 17:55:20](https://news.ycombinator.com/item?id=43573156) - [An image of an archeologist adventurer who wears a hat and uses a bullwhip](https://theaiunderwriter.substack.com/p/an-image-of-an-archeologist-adventurer)
 * [2025-04-03, 15:24:49](https://news.ycombinator.com/item?id=43571099) - [Curl-impersonate: Special build of curl that can impersonate the major browsers](https://github.com/lwthiker/curl-impersonate)
-* [2025-04-03, 12:29:08](https://news.ycombinator.com/item?id=43568655) - [A university president makes a case against cowardice](https://www.newyorker.com/news/q-and-a/a-university-president-makes-a-case-against-cowardice)
+* [2025-04-02, 12:41:59](https://news.ycombinator.com/item?id=43555996) - [Coolify: Open-source and self-hostable Heroku / Netlify / Vercel alternative](https://coolify.io/)
 * [2025-04-02, 10:52:00](https://news.ycombinator.com/item?id=43555409) - [Show HN: I made a platform to load and performance test API's](https://buzzbench.io/)
 * [2025-04-02, 07:34:05](https://news.ycombinator.com/item?id=43554444) - [Why do we need modules at all? (2011)](https://groups.google.com/g/erlang-programming/c/LKLesmrss2k)
 * [2025-04-01, 12:06:56](https://news.ycombinator.com/item?id=43545757) - [Why Does Claude Speak Byzantine Music Notation?](https://fi-le.net/byzantine/)

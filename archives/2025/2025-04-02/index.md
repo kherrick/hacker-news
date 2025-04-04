@@ -67,6 +67,7 @@
 * [2025-04-02, 13:15:39](https://news.ycombinator.com/item?id=43556339) - [PowerToys Command Palette Utility](https://learn.microsoft.com/en-us/windows/powertoys/command-palette/overview)
 * [2025-04-02, 13:13:14](https://news.ycombinator.com/item?id=43556305) - [Kindle as a High-Contrast GPS](https://www.instructables.com/Use-Your-Kindle-or-Other-Ebook-As-a-High-Visibilit/)
 * [2025-04-02, 13:10:40](https://news.ycombinator.com/item?id=43556280) - [A steam locomotive from 1993 broke my yarn test](https://blog.cloudflare.com/yarn-test-suffers-strange-derailment/)
+* [2025-04-02, 12:41:59](https://news.ycombinator.com/item?id=43555996) - [Coolify: Open-source and self-hostable Heroku / Netlify / Vercel alternative](https://coolify.io/)
 * [2025-04-02, 12:41:24](https://news.ycombinator.com/item?id=43555987) - [Show HN: Hot Notes – Fuzzy Search for Apple Notes (macOS)](https://hotmatcha.dev/hot-notes/)
 * [2025-04-02, 12:28:52](https://news.ycombinator.com/item?id=43555904) - [Measuring Acceleration Structures](https://zeux.io/2025/03/31/measuring-acceleration-structures/)
 * [2025-04-02, 12:28:04](https://news.ycombinator.com/item?id=43555898) - [Wikipedia is struggling with voracious AI bot crawlers](https://www.engadget.com/ai/wikipedia-is-struggling-with-voracious-ai-bot-crawlers-121546854.html)
