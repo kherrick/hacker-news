@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-04, 03:59:44",
+      "https://news.ycombinator.com/item?id=43578190"
+    ],
+    [
+      "Show HN: Transputer emulator in JavaScript (fast enough to be useful)",
+      "https://nanochess.org/transputer_emulator.html"
+    ]
+  ],
+  [
+    [
       "2025-04-04, 03:03:10",
       "https://news.ycombinator.com/item?id=43577927"
     ],
@@ -31,16 +41,6 @@
   ],
   [
     [
-      "2025-04-03, 21:48:06",
-      "https://news.ycombinator.com/item?id=43575871"
-    ],
-    [
-      "Was Houdini a Spy? (2021)",
-      "https://www.cia.gov/stories/story/was-houdini-a-spy/"
-    ]
-  ],
-  [
-    [
       "2025-04-03, 21:08:31",
       "https://news.ycombinator.com/item?id=43575433"
     ],
@@ -57,16 +57,6 @@
     [
       "The cultural evolution of distortion in music",
       "https://royalsocietypublishing.org/doi/10.1098/rstb.2024.0014"
-    ]
-  ],
-  [
-    [
-      "2025-04-03, 20:25:04",
-      "https://news.ycombinator.com/item?id=43574929"
-    ],
-    [
-      "AI cheats: Why you didn't notice your teammate was cheating",
-      "https://niila.fi/en/ai-cheats/"
     ]
   ],
   [
@@ -191,6 +181,16 @@
   ],
   [
     [
+      "2025-04-03, 13:55:38",
+      "https://news.ycombinator.com/item?id=43569724"
+    ],
+    [
+      "Show HN: The C3 programming language (C alternative language)",
+      "https://github.com/c3lang/c3c"
+    ]
+  ],
+  [
+    [
       "2025-04-03, 12:29:08",
       "https://news.ycombinator.com/item?id=43568655"
     ],
@@ -201,12 +201,12 @@
   ],
   [
     [
-      "2025-04-03, 12:11:51",
-      "https://news.ycombinator.com/item?id=43568503"
+      "2025-04-03, 01:01:34",
+      "https://news.ycombinator.com/item?id=43563580"
     ],
     [
-      "InitWare, a portable systemd fork running on BSDs and Linux",
-      "https://github.com/InitWare/InitWare"
+      "Photo calorie app Cal AI was built by two teenagers",
+      "https://techcrunch.com/2025/03/16/photo-calorie-app-cal-ai-downloaded-over-a-million-times-was-built-by-two-teenagers/"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2025-03-31, 18:25:35",
-      "https://news.ycombinator.com/item?id=43538073"
-    ],
-    [
-      "Microsoft reports several bootloader vulnerabilities",
-      "https://www.microsoft.com/en-us/security/blog/2025/03/31/analyzing-open-source-bootloaders-finding-vulnerabilities-faster-with-ai/"
-    ]
-  ],
-  [
-    [
       "2025-03-31, 15:10:04",
       "https://news.ycombinator.com/item?id=43535937"
     ],
@@ -297,6 +287,16 @@
     [
       "Build an 8-bit computer from scratch",
       "https://eater.net/8bit/"
+    ]
+  ],
+  [
+    [
+      "2025-03-31, 11:05:33",
+      "https://news.ycombinator.com/item?id=43533554"
+    ],
+    [
+      "My Rust experience after eight years",
+      "https://codecs.multimedia.cx/2025/03/my-rust-experience-after-eight-years/"
     ]
   ]
 ]
