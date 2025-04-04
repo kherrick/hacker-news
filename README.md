@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-04, 13:03:30](https://news.ycombinator.com/item?id=43581714) - [NOAA Weather will delete websites using Amazon, Google cloud services Saturday](https://www.bloomberg.com/news/articles/2025-04-04/us-weather-agency-websites-to-vanish-under-planned-contract-cuts)
+* [2025-04-04, 13:45:09](https://news.ycombinator.com/item?id=43582292) - [Dow Slides Another 1k Points. Nasdaq on Pace to Enter Bear Market](https://www.barrons.com/livecoverage/stock-market-today-040425)
 * [2025-04-04, 12:59:48](https://news.ycombinator.com/item?id=43581672) - [Why does Britain feel so poor?](https://martinrobbins.substack.com/p/von-6-why-does-britain-feel-so-poor)
 * [2025-04-04, 12:16:32](https://news.ycombinator.com/item?id=43581137) - [Mac Numbers now supports LAMBDA functions and MAP](https://support.apple.com/guide/functions/map-ffa7bf25643c/web)
 * [2025-04-04, 10:54:10](https://news.ycombinator.com/item?id=43580449) - [Bored of It](https://paulrobertlloyd.com/2025/087/a1/bored/)
