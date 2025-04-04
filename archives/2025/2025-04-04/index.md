@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-04](index.md)
 
+* [2025-04-04, 11:14:33](https://news.ycombinator.com/item?id=43580601) - [Microsoft will kill Remote Desktop soon, insists you'll love replacement](https://www.theregister.com/2025/03/11/microsoft_remote_desktop_support/)
 * [2025-04-04, 10:54:10](https://news.ycombinator.com/item?id=43580449) - [Bored of It](https://paulrobertlloyd.com/2025/087/a1/bored/)
 * [2025-04-04, 10:52:34](https://news.ycombinator.com/item?id=43580439) - [I just want to serve 5 terabytes [video]](https://www.youtube.com/watch?v=3t6L-FlfeaI)
 * [2025-04-04, 09:56:37](https://news.ycombinator.com/item?id=43580103) - [Gumroad is now open source](https://github.com/antiwork/gumroad)
