@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-04, 04:55:38](https://news.ycombinator.com/item?id=43578475) - [Head of NSA and Cybercommand Is Ousted](https://www.nytimes.com/2025/04/03/us/politics/nsa-cyber-command-chief-fired.html)
 * [2025-04-04, 03:03:10](https://news.ycombinator.com/item?id=43577927) - [Building Gearbox Dynamometer](https://www.thriftybuilder.dev/post/gearbox-dynamometer)
 * [2025-04-04, 01:03:43](https://news.ycombinator.com/item?id=43577285) - [What is Local first development](https://alexop.dev/posts/what-is-local-first-web-development/)
 * [2025-04-03, 21:49:04](https://news.ycombinator.com/item?id=43575884) - [Celebrate 50 years of Microsoft with the company's original source code](https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code)
+* [2025-04-03, 21:48:06](https://news.ycombinator.com/item?id=43575871) - [Was Houdini a Spy? (2021)](https://www.cia.gov/stories/story/was-houdini-a-spy/)
 * [2025-04-03, 21:08:31](https://news.ycombinator.com/item?id=43575433) - [Aviator (YC S21) is hiring engineers to build AI DevEx platform](https://www.ycombinator.com/companies/aviator/jobs)
 * [2025-04-03, 21:03:46](https://news.ycombinator.com/item?id=43575379) - [The cultural evolution of distortion in music](https://royalsocietypublishing.org/doi/10.1098/rstb.2024.0014)
 * [2025-04-03, 20:25:04](https://news.ycombinator.com/item?id=43574929) - [AI cheats: Why you didn't notice your teammate was cheating](https://niila.fi/en/ai-cheats/)
