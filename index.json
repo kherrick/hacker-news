@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-04, 01:06:07",
+      "https://news.ycombinator.com/item?id=43577302"
+    ],
+    [
+      "Intel, TSMC tentatively agree to form chipmaking joint venture",
+      "https://finance.yahoo.com/news/intel-tsmc-tentatively-agree-form-185938022.html"
+    ]
+  ],
+  [
+    [
       "2025-04-03, 21:49:04",
       "https://news.ycombinator.com/item?id=43575884"
     ],
@@ -17,16 +27,6 @@
     [
       "Was Houdini a Spy? (2021)",
       "https://www.cia.gov/stories/story/was-houdini-a-spy/"
-    ]
-  ],
-  [
-    [
-      "2025-04-03, 21:12:10",
-      "https://news.ycombinator.com/item?id=43575479"
-    ],
-    [
-      "The Mainframe Vocabulary Problem, and Why It Matters",
-      "https://mainframesociety.com/news/2588640"
     ]
   ],
   [
@@ -211,22 +211,12 @@
   ],
   [
     [
-      "2025-04-03, 03:30:30",
-      "https://news.ycombinator.com/item?id=43564386"
+      "2025-04-02, 20:39:06",
+      "https://news.ycombinator.com/item?id=43561253"
     ],
     [
-      "Dijkstra On the foolishness of \"natural language programming\"",
-      "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-02, 23:10:55",
-      "https://news.ycombinator.com/item?id=43562860"
-    ],
-    [
-      "Web Server for AoE 1, 2 and 3 DE supporting LAN multiplayer 100% offline",
-      "https://github.com/luskaner/ageLANServer"
+      "US Administration announces 34% tariffs on China, 20% on EU",
+      "https://www.bbc.com/news/live/c1dr7vy39eet"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Simple Denoising Diffusion",
       "https://github.com/utkuozbulak/pytorch-simple-diffusion"
+    ]
+  ],
+  [
+    [
+      "2025-03-31, 20:31:04",
+      "https://news.ycombinator.com/item?id=43539595"
+    ],
+    [
+      "Microsoft turns 50: 4 employees recall their early years",
+      "https://www.seattletimes.com/business/microsoft/microsoft-turns-50-4-employees-recall-their-early-years/"
     ]
   ],
   [
