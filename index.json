@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-04, 07:13:06",
+      "https://news.ycombinator.com/item?id=43579197"
+    ],
+    [
+      "Apple killed Asahi Linux with M4 update",
+      "https://social.treehouse.systems/@sven/114278224116678776"
+    ]
+  ],
+  [
+    [
       "2025-04-04, 03:59:44",
       "https://news.ycombinator.com/item?id=43578190"
     ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2025-04-03, 16:50:08",
-      "https://news.ycombinator.com/item?id=43572374"
-    ],
-    [
-      "Reasoning models don't always say what they think",
-      "https://www.anthropic.com/research/reasoning-models-dont-say-think"
-    ]
-  ],
-  [
-    [
       "2025-04-03, 16:13:02",
       "https://news.ycombinator.com/item?id=43571851"
     ],
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-04-03, 12:11:51",
-      "https://news.ycombinator.com/item?id=43568503"
-    ],
-    [
-      "InitWare, a portable systemd fork running on BSDs and Linux",
-      "https://github.com/InitWare/InitWare"
-    ]
-  ],
-  [
-    [
       "2025-04-03, 01:01:34",
       "https://news.ycombinator.com/item?id=43563580"
     ],
@@ -207,6 +197,16 @@
     [
       "Supervisors often prefer rule breakers, up to a point",
       "https://journals.aom.org/doi/10.5465/amd.2022.0280.summary"
+    ]
+  ],
+  [
+    [
+      "2025-04-02, 07:08:42",
+      "https://news.ycombinator.com/item?id=43554339"
+    ],
+    [
+      ".NET on Heroku Now Generally Available",
+      "https://blog.heroku.com/dotnet-now-generally-available"
     ]
   ],
   [
