@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-04, 18:11:30](https://news.ycombinator.com/item?id=43585921) - [Cyber Forensic Expert in 2k Cases Faces FBI Probe](https://krebsonsecurity.com/2025/04/cyber-forensic-expert-in-2000-cases-faces-fbi-probe/)
+* [2025-04-04, 18:29:21](https://news.ycombinator.com/item?id=43586113) - [Yoko: A Biography](https://www.newstatesman.com/culture/books/book-of-the-day/2025/03/the-yoko-ono-problem)
 * [2025-04-04, 17:41:42](https://news.ycombinator.com/item?id=43585587) - [YIMBYism as Industrial Policy](https://www.slowboring.com/p/yimbyism-as-industrial-policy)
 * [2025-04-04, 17:22:06](https://news.ycombinator.com/item?id=43585354) - [CINC Is Not Chef](https://cinc.sh/)
 * [2025-04-04, 17:00:40](https://news.ycombinator.com/item?id=43585103) - [Thunder Compute (YC S24) is hiring a GPU systems engineer](https://www.ycombinator.com/companies/thunder-compute/jobs/fRSS8JQ-systems-engineer)
