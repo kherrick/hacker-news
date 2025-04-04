@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-04, 15:59:28](https://news.ycombinator.com/item?id=43584303) - [Kerosene did not save the Sperm Whale (2024)](https://edconway.substack.com/p/no-kerosene-did-not-save-the-sperm)
+* [2025-04-04, 15:50:10](https://news.ycombinator.com/item?id=43584156) - [Wealthy Americans have death rates on par with poor Europeans](https://arstechnica.com/health/2025/04/wealthy-americans-have-death-rates-on-par-with-poor-europeans/)
 * [2025-04-04, 14:51:15](https://news.ycombinator.com/item?id=43583283) - [Purple exists only in our brains](https://www.snexplores.org/article/color-purple-exists-only-in-brain)
-* [2025-04-04, 14:49:03](https://news.ycombinator.com/item?id=43583249) - [A number of electric vehicle, battery factories are being canceled](https://www.washingtonpost.com/climate-environment/2025/04/03/ev-factories-canceled/)
+* [2025-04-04, 14:30:20](https://news.ycombinator.com/item?id=43582985) - [Ask HN: Does Collapsing an HN Thread in a Popular story spike your CPU use?](https://news.ycombinator.com/item?id=43582985)
 * [2025-04-04, 12:54:38](https://news.ycombinator.com/item?id=43581584) - [Nvidia adds native Python support to CUDA](https://thenewstack.io/nvidia-finally-adds-native-python-support-to-cuda/)
 * [2025-04-04, 09:56:37](https://news.ycombinator.com/item?id=43580103) - [Gumroad is now open source](https://github.com/antiwork/gumroad)
 * [2025-04-04, 09:56:24](https://news.ycombinator.com/item?id=43580101) - [Hackers strike Australia's largest pension funds in coordinated attacks](https://www.reuters.com/technology/cybersecurity/multiple-australian-pension-funds-hit-by-coordinated-hacking-media-reports-say-2025-04-04/)
@@ -15,7 +17,6 @@
 * [2025-04-03, 17:17:54](https://news.ycombinator.com/item?id=43572733) - [Show HN: Hatchet v1 – A task orchestration platform built on Postgres](https://github.com/hatchet-dev/hatchet)
 * [2025-04-03, 16:13:02](https://news.ycombinator.com/item?id=43571851) - [AI 2027](https://ai-2027.com/)
 * [2025-04-03, 15:24:49](https://news.ycombinator.com/item?id=43571099) - [Curl-impersonate: Special build of curl that can impersonate the major browsers](https://github.com/lwthiker/curl-impersonate)
-* [2025-04-03, 14:47:52](https://news.ycombinator.com/item?id=43570533) - [AnimeJs v4 Is Here](https://animejs.com/)
 * [2025-04-03, 14:36:41](https://news.ycombinator.com/item?id=43570324) - [Overengineered Anchor Links](https://thirty-five.com/overengineered-anchoring)
 * [2025-04-03, 13:55:38](https://news.ycombinator.com/item?id=43569724) - [Show HN: The C3 programming language (C alternative language)](https://github.com/c3lang/c3c)
 * [2025-04-03, 12:29:08](https://news.ycombinator.com/item?id=43568655) - [A university president makes a case against cowardice](https://www.newyorker.com/news/q-and-a/a-university-president-makes-a-case-against-cowardice)
@@ -28,7 +29,6 @@
 * [2025-03-31, 20:31:04](https://news.ycombinator.com/item?id=43539595) - [Microsoft employees recall their early years](https://www.seattletimes.com/business/microsoft/microsoft-turns-50-4-employees-recall-their-early-years/)
 * [2025-03-31, 19:30:29](https://news.ycombinator.com/item?id=43538853) - [New antibiotic that kills drug-resistant bacteria found in technician's garden](https://www.nature.com/articles/d41586-025-00945-z)
 * [2025-03-31, 14:18:52](https://news.ycombinator.com/item?id=43535352) - [New nanoparticle therapies target two major killers](https://www.science.org/content/article/new-nanoparticle-therapies-target-two-major-killers)
-* [2025-03-31, 13:43:37](https://news.ycombinator.com/item?id=43534978) - [How Silica Gel Took over the World](https://www.scopeofwork.net/silica-gel/)
 * [2025-03-31, 11:29:34](https://news.ycombinator.com/item?id=43533715) - [Build an 8-bit computer from scratch (2016)](https://eater.net/8bit/)
 
 ## [Archives](archives/index.md)
