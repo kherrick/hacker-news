@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-04](index.md)
 
+* [2025-04-04, 16:23:42](https://news.ycombinator.com/item?id=43584663) - [The Curse of Ayn Rand's Heir](https://www.theatlantic.com/ideas/archive/2025/03/ayn-rand-peikoff-inheritance-battle/682219/)
+* [2025-04-04, 16:14:56](https://news.ycombinator.com/item?id=43584538) - [CSS Clicker – incremental game about making a personal web, written in pure CSS](https://lyra.horse/css-clicker/)
 * [2025-04-04, 15:59:28](https://news.ycombinator.com/item?id=43584303) - [Kerosene did not save the Sperm Whale (2024)](https://edconway.substack.com/p/no-kerosene-did-not-save-the-sperm)
 * [2025-04-04, 15:50:10](https://news.ycombinator.com/item?id=43584156) - [Wealthy Americans have death rates on par with poor Europeans](https://arstechnica.com/health/2025/04/wealthy-americans-have-death-rates-on-par-with-poor-europeans/)
 * [2025-04-04, 14:51:15](https://news.ycombinator.com/item?id=43583283) - [Purple exists only in our brains](https://www.snexplores.org/article/color-purple-exists-only-in-brain)

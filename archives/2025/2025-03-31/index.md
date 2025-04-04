@@ -12,6 +12,7 @@
 * [2025-03-31, 21:47:28](https://news.ycombinator.com/item?id=43540346) - [Sample Size [in Baseball]](https://library.fangraphs.com/principles/sample-size/)
 * [2025-03-31, 21:44:54](https://news.ycombinator.com/item?id=43540326) - [Everything Is Ghibli](https://carly.substack.com/p/everything-is-ghibli)
 * [2025-03-31, 21:25:33](https://news.ycombinator.com/item?id=43540157) - [FSKit: Implement a file system that runs in user space](https://developer.apple.com/documentation/fskit)
+* [2025-03-31, 21:16:21](https://news.ycombinator.com/item?id=43540070) - [Growing Buffers to Avoid Copying Data](https://johnnysswlab.com/growing-buffers-to-avoid-copying-data/)
 * [2025-03-31, 20:56:34](https://news.ycombinator.com/item?id=43539892) - [Bash-ini-parser: Advanced bash INI parser library](https://github.com/lsferreira42/bash-ini-parser)
 * [2025-03-31, 20:31:04](https://news.ycombinator.com/item?id=43539595) - [Microsoft turns 50: 4 employees recall their early years](https://www.seattletimes.com/business/microsoft/microsoft-turns-50-4-employees-recall-their-early-years/)
 * [2025-03-31, 20:29:58](https://news.ycombinator.com/item?id=43539585) - [Go Optimization Guide](https://goperf.dev/)
