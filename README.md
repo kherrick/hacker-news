@@ -2,7 +2,6 @@
 
 * [2025-04-04, 17:00:40](https://news.ycombinator.com/item?id=43585103) - [Thunder Compute (YC S24) is hiring a GPU systems engineer](https://www.ycombinator.com/companies/thunder-compute/jobs/fRSS8JQ-systems-engineer)
 * [2025-04-04, 16:28:14](https://news.ycombinator.com/item?id=43584714) - [How the 2025 US Financial Crisis is Different than 2008](https://samhenrycliff.medium.com/how-the-2025-us-financial-crisis-is-different-than-2008-5b63bdd06067)
-* [2025-04-04, 16:23:42](https://news.ycombinator.com/item?id=43584663) - [The Curse of Ayn Rand's Heir](https://www.theatlantic.com/ideas/archive/2025/03/ayn-rand-peikoff-inheritance-battle/682219/)
 * [2025-04-04, 16:15:48](https://news.ycombinator.com/item?id=43584547) - [Ask HN: As a Founder, is this business model compelling?](https://news.ycombinator.com/item?id=43584547)
 * [2025-04-04, 15:59:28](https://news.ycombinator.com/item?id=43584303) - [Kerosene did not save the sperm whale (2024)](https://edconway.substack.com/p/no-kerosene-did-not-save-the-sperm)
 * [2025-04-04, 12:54:38](https://news.ycombinator.com/item?id=43581584) - [Nvidia adds native Python support to CUDA](https://thenewstack.io/nvidia-finally-adds-native-python-support-to-cuda/)
@@ -20,6 +19,7 @@
 * [2025-04-03, 14:36:41](https://news.ycombinator.com/item?id=43570324) - [Overengineered Anchor Links](https://thirty-five.com/overengineered-anchoring)
 * [2025-04-03, 13:55:38](https://news.ycombinator.com/item?id=43569724) - [Show HN: The C3 programming language (C alternative language)](https://github.com/c3lang/c3c)
 * [2025-04-03, 12:29:08](https://news.ycombinator.com/item?id=43568655) - [A university president makes a case against cowardice](https://www.newyorker.com/news/q-and-a/a-university-president-makes-a-case-against-cowardice)
+* [2025-04-02, 11:54:51](https://news.ycombinator.com/item?id=43555728) - [Fantastically Wrong: The Legendary Scientist Who Swore Our Planet Is Hollow](https://www.wired.com/2014/07/fantastically-wrong-hollow-earth/)
 * [2025-04-02, 11:50:00](https://news.ycombinator.com/item?id=43555696) - [US labour watchdog halts Apple cases after US picks group's lawyer for top job](https://www.ft.com/content/ad7fcc22-343e-47e3-a6f3-58bfd4294c9d)
 * [2025-04-02, 10:52:00](https://news.ycombinator.com/item?id=43555409) - [Show HN: I made a platform to load and performance test API's](https://buzzbench.io/)
 * [2025-04-02, 10:13:48](https://news.ycombinator.com/item?id=43555220) - [Supervisors often prefer rule breakers, up to a point](https://journals.aom.org/doi/10.5465/amd.2022.0280.summary)
