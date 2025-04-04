@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-04](index.md)
 
+* [2025-04-04, 21:30:23](https://news.ycombinator.com/item?id=43587780) - [Show HN: SwiftHive – A Swift Package Registry for Faster Builds](https://swifthive.l18.dev/)
 * [2025-04-04, 21:09:50](https://news.ycombinator.com/item?id=43587628) - [A Man Out to Prove How Dumb AI Still Is](https://www.theatlantic.com/technology/archive/2025/04/arc-agi-chollet-test/682295/)
 * [2025-04-04, 21:08:12](https://news.ycombinator.com/item?id=43587611) - [Wall Street Blew It](https://www.theatlantic.com/ideas/archive/2025/04/wall-street-trump-tariffs/682304/)
 * [2025-04-04, 20:51:08](https://news.ycombinator.com/item?id=43587479) - [Dow plunges 2,200 points, Nasdaq enters bear market](https://finance.yahoo.com/news/live/stock-market-today-dow-plunges-2200-points-nasdaq-enters-bear-market-as-trump-tariffs-spark-worst-meltdown-since-2020-200042876.html)
