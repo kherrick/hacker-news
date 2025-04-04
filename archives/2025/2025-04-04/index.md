@@ -32,6 +32,7 @@
 * [2025-04-04, 16:14:56](https://news.ycombinator.com/item?id=43584538) - [CSS Clicker – incremental game about making a personal web, written in pure CSS](https://lyra.horse/css-clicker/)
 * [2025-04-04, 15:59:28](https://news.ycombinator.com/item?id=43584303) - [Kerosene did not save the Sperm Whale (2024)](https://edconway.substack.com/p/no-kerosene-did-not-save-the-sperm)
 * [2025-04-04, 15:50:10](https://news.ycombinator.com/item?id=43584156) - [Wealthy Americans have death rates on par with poor Europeans](https://arstechnica.com/health/2025/04/wealthy-americans-have-death-rates-on-par-with-poor-europeans/)
+* [2025-04-04, 15:44:04](https://news.ycombinator.com/item?id=43584060) - [Xlwings Lite – Python in Excel Using Pyodide](https://lite.xlwings.org/)
 * [2025-04-04, 14:51:15](https://news.ycombinator.com/item?id=43583283) - [Purple exists only in our brains](https://www.snexplores.org/article/color-purple-exists-only-in-brain)
 * [2025-04-04, 14:49:03](https://news.ycombinator.com/item?id=43583249) - [A number of electric vehicle, battery factories are being canceled](https://www.washingtonpost.com/climate-environment/2025/04/03/ev-factories-canceled/)
 * [2025-04-04, 14:30:20](https://news.ycombinator.com/item?id=43582985) - [Ask HN: Does Collapsing an HN Thread in a Popular story spike your CPU use?](https://news.ycombinator.com/item?id=43582985)
