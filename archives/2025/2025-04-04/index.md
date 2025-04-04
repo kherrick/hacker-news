@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-04](index.md)
 
+* [2025-04-04, 18:58:17](https://news.ycombinator.com/item?id=43586420) - [SpaceX's Fram2 returns from first-of-its-kind mission around Earth's poles](https://www.cnn.com/2025/04/04/science/spacex-fram2-mission-return-earth/index.html)
 * [2025-04-04, 18:34:07](https://news.ycombinator.com/item?id=43586157) - [The End of Sierra as We Knew It, Part 1: The Acquisition](https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-1-the-acquisition/)
 * [2025-04-04, 18:29:21](https://news.ycombinator.com/item?id=43586113) - [Yoko: A Biography](https://www.newstatesman.com/culture/books/book-of-the-day/2025/03/the-yoko-ono-problem)
 * [2025-04-04, 18:28:38](https://news.ycombinator.com/item?id=43586107) - [Gumroad Did Not Become Open Source Today](https://danb.me/blog/gumroad-is-not-open-source/)

@@ -45,6 +45,7 @@
 * [2025-04-01, 12:25:39](https://news.ycombinator.com/item?id=43545921) - [Xiaomi Car with Driver Assistance Crashes, Three Reported Dead](https://www.bloomberg.com/news/articles/2025-04-01/xiaomi-shares-fall-after-su7-car-crash-local-media-says-3-dead)
 * [2025-04-01, 12:25:12](https://news.ycombinator.com/item?id=43545917) - [Electron Band Structure in Germanium, My Ass](https://pages.cs.wisc.edu/~kovar/hall.html)
 * [2025-04-01, 12:01:40](https://news.ycombinator.com/item?id=43545725) - [Extend (YC W23) is hiring engineers to build LLM document processing](https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37)
+* [2025-04-01, 11:54:34](https://news.ycombinator.com/item?id=43545674) - [How Airbnb Measures Listing Lifetime Value](https://medium.com/airbnb-engineering/how-airbnb-measures-listing-lifetime-value-a603bf05142c)
 * [2025-04-01, 11:51:08](https://news.ycombinator.com/item?id=43545641) - [Show HN: A Chrome extension to give you back control over short-form videos](https://chromewebstore.google.com/detail/seek-anywhere/opofkjlejjcjalcpaimnpmkmjlclgded)
 * [2025-04-01, 11:12:43](https://news.ycombinator.com/item?id=43545378) - [An e-bike that charges off USB-C](https://www.theverge.com/news/639681/usb-c-charging-e-bike-ampler-nova-specs-price)
 * [2025-04-01, 11:08:34](https://news.ycombinator.com/item?id=43545349) - [CERN scientists find evidence of quantum entanglement in sheep](https://home.cern/news/news/physics/cern-scientists-find-evidence-quantum-entanglement-sheep)
