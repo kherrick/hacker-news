@@ -8,6 +8,7 @@
 * [2025-03-31, 22:06:19](https://news.ycombinator.com/item?id=43540477) - [New funding to build towards AGI](https://openai.com/index/march-funding-updates/)
 * [2025-03-31, 22:02:38](https://news.ycombinator.com/item?id=43540452) - [OpenAI closes $40B funding round, startup now valued at $300B](https://www.cnbc.com/2025/03/31/openai-closes-40-billion-in-funding-the-largest-private-fundraise-in-history-softbank-chatgpt.html)
 * [2025-03-31, 21:53:53](https://news.ycombinator.com/item?id=43540387) - [The US Assault on Science: National Academies Letter](https://www.nytimes.com/2025/03/31/science/trump-science-nas-letter.html)
+* [2025-03-31, 21:47:28](https://news.ycombinator.com/item?id=43540346) - [Sample Size [in Baseball]](https://library.fangraphs.com/principles/sample-size/)
 * [2025-03-31, 21:44:54](https://news.ycombinator.com/item?id=43540326) - [Everything Is Ghibli](https://carly.substack.com/p/everything-is-ghibli)
 * [2025-03-31, 21:25:33](https://news.ycombinator.com/item?id=43540157) - [FSKit: Implement a file system that runs in user space](https://developer.apple.com/documentation/fskit)
 * [2025-03-31, 20:56:34](https://news.ycombinator.com/item?id=43539892) - [Bash-ini-parser: Advanced bash INI parser library](https://github.com/lsferreira42/bash-ini-parser)
