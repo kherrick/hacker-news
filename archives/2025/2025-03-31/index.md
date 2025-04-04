@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-31](index.md)
 
+* [2025-03-31, 22:25:54](https://news.ycombinator.com/item?id=43540626) - [Study finds solo music listening boosts social well-being](https://phys.org/news/2025-03-solo-music-boosts-social.html)
 * [2025-03-31, 22:25:27](https://news.ycombinator.com/item?id=43540622) - [Canada investigates whether Tesla helped itself to a subsidy-fueled sales boom](https://fortune.com/2025/03/26/elon-musk-tesla-under-investigation-canada-wrongfully-boosting-sales/)
 * [2025-03-31, 22:06:19](https://news.ycombinator.com/item?id=43540477) - [New funding to build towards AGI](https://openai.com/index/march-funding-updates/)
 * [2025-03-31, 22:02:38](https://news.ycombinator.com/item?id=43540452) - [OpenAI closes $40B funding round, startup now valued at $300B](https://www.cnbc.com/2025/03/31/openai-closes-40-billion-in-funding-the-largest-private-fundraise-in-history-softbank-chatgpt.html)

@@ -23,12 +23,12 @@
 * [2025-04-03, 12:11:51](https://news.ycombinator.com/item?id=43568503) - [InitWare, a portable systemd fork running on BSDs and Linux](https://github.com/InitWare/InitWare)
 * [2025-04-02, 10:13:48](https://news.ycombinator.com/item?id=43555220) - [Supervisors often prefer rule breakers, up to a point](https://journals.aom.org/doi/10.5465/amd.2022.0280.summary)
 * [2025-04-02, 07:34:05](https://news.ycombinator.com/item?id=43554444) - [Why do we need modules at all?](https://groups.google.com/g/erlang-programming/c/LKLesmrss2k)
+* [2025-03-31, 22:25:54](https://news.ycombinator.com/item?id=43540626) - [Study finds solo music listening boosts social well-being](https://phys.org/news/2025-03-solo-music-boosts-social.html)
 * [2025-03-31, 20:56:34](https://news.ycombinator.com/item?id=43539892) - [Bash-ini-parser: Advanced bash INI parser library](https://github.com/lsferreira42/bash-ini-parser)
 * [2025-03-31, 20:31:04](https://news.ycombinator.com/item?id=43539595) - [Microsoft employees recall their early years](https://www.seattletimes.com/business/microsoft/microsoft-turns-50-4-employees-recall-their-early-years/)
 * [2025-03-31, 19:30:29](https://news.ycombinator.com/item?id=43538853) - [New antibiotic that kills drug-resistant bacteria found in technician's garden](https://www.nature.com/articles/d41586-025-00945-z)
 * [2025-03-31, 15:10:04](https://news.ycombinator.com/item?id=43535937) - [John Cage recital set to last 639 years recently witnessed a chord change](https://www.spectator.co.uk/article/what-were-we-all-doing-here-my-600-mile-trip-to-hear-an-organ-play-a-d-natural/)
 * [2025-03-31, 14:18:52](https://news.ycombinator.com/item?id=43535352) - [New nanoparticle therapies target two major killers](https://www.science.org/content/article/new-nanoparticle-therapies-target-two-major-killers)
-* [2025-03-31, 12:22:27](https://news.ycombinator.com/item?id=43534143) - [Binary Distribution Rebuilds](https://blog.josefsson.org/2025/03/31/on-binary-distribution-rebuilds/)
 * [2025-03-31, 11:29:34](https://news.ycombinator.com/item?id=43533715) - [Build an 8-bit computer from scratch](https://eater.net/8bit/)
 
 ## [Archives](archives/index.md)
