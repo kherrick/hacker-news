@@ -1,9 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-04, 21:09:50](https://news.ycombinator.com/item?id=43587628) - [A Man Out to Prove How Dumb AI Still Is](https://www.theatlantic.com/technology/archive/2025/04/arc-agi-chollet-test/682295/)
-* [2025-04-04, 21:08:12](https://news.ycombinator.com/item?id=43587611) - [Wall Street Blew It](https://www.theatlantic.com/ideas/archive/2025/04/wall-street-trump-tariffs/682304/)
 * [2025-04-04, 20:51:08](https://news.ycombinator.com/item?id=43587479) - [Dow plunges 2,200 points, Nasdaq enters bear market](https://finance.yahoo.com/news/live/stock-market-today-dow-plunges-2200-points-nasdaq-enters-bear-market-as-trump-tariffs-spark-worst-meltdown-since-2020-200042876.html)
-* [2025-04-04, 20:38:41](https://news.ycombinator.com/item?id=43587385) - [Images trapped in a feedback loop and analog fractals create each other](https://www.youtube.com/watch?v=D3eHKI0nvKA)
 * [2025-04-04, 20:37:35](https://news.ycombinator.com/item?id=43587380) - [The blissful Zen of a good side project](https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project)
 * [2025-04-04, 19:35:49](https://news.ycombinator.com/item?id=43586786) - [Google announces Sec-Gemini v1 a new experimental cybersecurity model](https://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html)
 * [2025-04-04, 19:22:37](https://news.ycombinator.com/item?id=43586654) - [An interactive-speed Linux computer made of only 3 8-pin chips](https://dmitry.gr/?r=05.Projects&proj=36.%208pinLinux)
@@ -21,6 +19,8 @@
 * [2025-04-03, 21:49:04](https://news.ycombinator.com/item?id=43575884) - [Microsoft’s original source code](https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code)
 * [2025-04-03, 17:55:20](https://news.ycombinator.com/item?id=43573156) - [An image of an archeologist adventurer who wears a hat and uses a bullwhip](https://theaiunderwriter.substack.com/p/an-image-of-an-archeologist-adventurer)
 * [2025-04-03, 15:24:49](https://news.ycombinator.com/item?id=43571099) - [Curl-impersonate: Special build of curl that can impersonate the major browsers](https://github.com/lwthiker/curl-impersonate)
+* [2025-04-03, 14:36:41](https://news.ycombinator.com/item?id=43570324) - [Overengineered Anchor Links](https://thirty-five.com/overengineered-anchoring)
+* [2025-04-03, 12:29:08](https://news.ycombinator.com/item?id=43568655) - [A university president makes a case against cowardice](https://www.newyorker.com/news/q-and-a/a-university-president-makes-a-case-against-cowardice)
 * [2025-04-02, 12:41:59](https://news.ycombinator.com/item?id=43555996) - [Coolify: Open-source and self-hostable Heroku / Netlify / Vercel alternative](https://coolify.io/)
 * [2025-04-02, 10:52:00](https://news.ycombinator.com/item?id=43555409) - [Show HN: I made a platform to load and performance test API's](https://buzzbench.io/)
 * [2025-04-02, 07:34:05](https://news.ycombinator.com/item?id=43554444) - [Why do we need modules at all? (2011)](https://groups.google.com/g/erlang-programming/c/LKLesmrss2k)
