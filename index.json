@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-04-04, 06:52:24",
-      "https://news.ycombinator.com/item?id=43579082"
-    ],
-    [
-      "EU: These are scary times – let's backdoor encryption",
-      "https://www.theregister.com/2025/04/03/eu_backdoor_encryption/"
-    ]
-  ],
-  [
-    [
       "2025-04-04, 03:59:44",
       "https://news.ycombinator.com/item?id=43578190"
     ],
@@ -105,7 +95,7 @@
       "https://news.ycombinator.com/item?id=43573465"
     ],
     [
-      "The Slow Collapse of Critical Thinking in OSINT Due to AI",
+      "The slow collapse of critical thinking in OSINT due to AI",
       "https://www.dutchosintguy.com/post/the-slow-collapse-of-critical-thinking-in-osint-due-to-ai"
     ]
   ],
@@ -137,6 +127,16 @@
     [
       "Declarative Schemas for simpler database management",
       "https://supabase.com/blog/declarative-schemas"
+    ]
+  ],
+  [
+    [
+      "2025-04-03, 16:50:08",
+      "https://news.ycombinator.com/item?id=43572374"
+    ],
+    [
+      "Reasoning models don't always say what they think",
+      "https://www.anthropic.com/research/reasoning-models-dont-say-think"
     ]
   ],
   [
@@ -201,22 +201,22 @@
   ],
   [
     [
+      "2025-04-03, 12:11:51",
+      "https://news.ycombinator.com/item?id=43568503"
+    ],
+    [
+      "InitWare, a portable systemd fork running on BSDs and Linux",
+      "https://github.com/InitWare/InitWare"
+    ]
+  ],
+  [
+    [
       "2025-04-02, 10:13:48",
       "https://news.ycombinator.com/item?id=43555220"
     ],
     [
       "Supervisors often prefer rule breakers, up to a point",
       "https://journals.aom.org/doi/10.5465/amd.2022.0280.summary"
-    ]
-  ],
-  [
-    [
-      "2025-04-02, 07:08:42",
-      "https://news.ycombinator.com/item?id=43554339"
-    ],
-    [
-      ".NET on Heroku Now Generally Available",
-      "https://blog.heroku.com/dotnet-now-generally-available"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2025-03-31, 12:22:27",
+      "https://news.ycombinator.com/item?id=43534143"
+    ],
+    [
+      "Binary Distribution Rebuilds",
+      "https://blog.josefsson.org/2025/03/31/on-binary-distribution-rebuilds/"
+    ]
+  ],
+  [
+    [
       "2025-03-31, 11:29:34",
       "https://news.ycombinator.com/item?id=43533715"
     ],
     [
       "Build an 8-bit computer from scratch",
       "https://eater.net/8bit/"
-    ]
-  ],
-  [
-    [
-      "2025-03-31, 11:05:33",
-      "https://news.ycombinator.com/item?id=43533554"
-    ],
-    [
-      "My Rust experience after eight years",
-      "https://codecs.multimedia.cx/2025/03/my-rust-experience-after-eight-years/"
     ]
   ]
 ]
