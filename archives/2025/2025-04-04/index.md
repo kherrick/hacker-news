@@ -7,6 +7,7 @@
 * [2025-04-04, 13:45:09](https://news.ycombinator.com/item?id=43582292) - [Dow Slides Another 1k Points. Nasdaq on Pace to Enter Bear Market](https://www.barrons.com/livecoverage/stock-market-today-040425)
 * [2025-04-04, 13:03:30](https://news.ycombinator.com/item?id=43581714) - [NOAA Weather will delete websites using Amazon, Google cloud services Saturday](https://www.bloomberg.com/news/articles/2025-04-04/us-weather-agency-websites-to-vanish-under-planned-contract-cuts)
 * [2025-04-04, 12:59:48](https://news.ycombinator.com/item?id=43581672) - [Why does Britain feel so poor?](https://martinrobbins.substack.com/p/von-6-why-does-britain-feel-so-poor)
+* [2025-04-04, 12:54:38](https://news.ycombinator.com/item?id=43581584) - [Nvidia adds native Python support to CUDA](https://thenewstack.io/nvidia-finally-adds-native-python-support-to-cuda/)
 * [2025-04-04, 12:16:32](https://news.ycombinator.com/item?id=43581137) - [Mac Numbers now supports LAMBDA functions and MAP](https://support.apple.com/guide/functions/map-ffa7bf25643c/web)
 * [2025-04-04, 11:51:54](https://news.ycombinator.com/item?id=43580920) - [When I converted my home from gas to electric my utility bills nearly doubled](https://www.washingtonpost.com/home/2025/04/02/electric-power-home-conversion/)
 * [2025-04-04, 11:50:20](https://news.ycombinator.com/item?id=43580906) - [Trump's Trade War Escalates as China Retaliates with 34% Tariffs](https://www.nytimes.com/2025/04/04/business/china-trump-tariffs-retaliation.html)
