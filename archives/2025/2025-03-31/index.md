@@ -30,6 +30,7 @@
 * [2025-03-31, 18:03:36](https://news.ycombinator.com/item?id=43537866) - [Oregon abandoned its drug law. Then came the mass arrests](https://www.theguardian.com/us-news/2025/mar/31/oregon-new-drug-law-arrests)
 * [2025-03-31, 17:58:19](https://news.ycombinator.com/item?id=43537808) - [The Average College Student Is Illiterate](https://www.persuasion.community/p/the-average-college-student-is-illiterate)
 * [2025-03-31, 17:38:16](https://news.ycombinator.com/item?id=43537593) - [France fines Apple €150M for \"excessive\" pop-ups that let users reject tracking](https://arstechnica.com/tech-policy/2025/03/france-fines-apple-e150m-for-excessive-pop-ups-that-let-users-reject-tracking/)
+* [2025-03-31, 17:33:47](https://news.ycombinator.com/item?id=43537551) - [End of Life for Akamai Identity Cloud](https://techdocs.akamai.com/identity-cloud/docs/product-status)
 * [2025-03-31, 17:29:04](https://news.ycombinator.com/item?id=43537505) - [Launch HN: Augento (YC W25) – Fine-tune your agents with reinforcement learning](https://news.ycombinator.com/item?id=43537505)
 * [2025-03-31, 17:07:44](https://news.ycombinator.com/item?id=43537272) - [Stop Syncing Everything](https://sqlsync.dev/posts/stop-syncing-everything/)
 * [2025-03-31, 17:00:06](https://news.ycombinator.com/item?id=43537194) - [Distro (YC S24) Is Hiring a Lead Solutions Engineer](https://www.ycombinator.com/companies/distro/jobs/hJQCfVH-lead-solutions-engineer)
