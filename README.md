@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-04, 03:03:10](https://news.ycombinator.com/item?id=43577927) - [Building Gearbox Dynamometer](https://www.thriftybuilder.dev/post/gearbox-dynamometer)
+* [2025-04-04, 01:06:07](https://news.ycombinator.com/item?id=43577302) - [Intel, TSMC tentatively agree to form chipmaking joint venture](https://finance.yahoo.com/news/intel-tsmc-tentatively-agree-form-185938022.html)
 * [2025-04-03, 21:49:04](https://news.ycombinator.com/item?id=43575884) - [Celebrate 50 years of Microsoft with the company's original source code](https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code)
 * [2025-04-03, 21:48:06](https://news.ycombinator.com/item?id=43575871) - [Was Houdini a Spy? (2021)](https://www.cia.gov/stories/story/was-houdini-a-spy/)
 * [2025-04-03, 21:08:31](https://news.ycombinator.com/item?id=43575433) - [Aviator (YC S21) is hiring engineers to build AI DevEx platform](https://www.ycombinator.com/companies/aviator/jobs)
@@ -25,7 +26,6 @@
 * [2025-04-02, 07:32:23](https://news.ycombinator.com/item?id=43554436) - [Simple Denoising Diffusion](https://github.com/utkuozbulak/pytorch-simple-diffusion)
 * [2025-03-31, 20:56:34](https://news.ycombinator.com/item?id=43539892) - [Bash-ini-parser: Advanced bash INI parser library](https://github.com/lsferreira42/bash-ini-parser)
 * [2025-03-31, 20:31:04](https://news.ycombinator.com/item?id=43539595) - [Microsoft turns 50: 4 employees recall their early years](https://www.seattletimes.com/business/microsoft/microsoft-turns-50-4-employees-recall-their-early-years/)
-* [2025-03-31, 18:25:35](https://news.ycombinator.com/item?id=43538073) - [Microsoft reports several bootloader vulnerabilities](https://www.microsoft.com/en-us/security/blog/2025/03/31/analyzing-open-source-bootloaders-finding-vulnerabilities-faster-with-ai/)
 * [2025-03-31, 15:10:04](https://news.ycombinator.com/item?id=43535937) - [John Cage recital set to last 639 years recently witnessed a chord change](https://www.spectator.co.uk/article/what-were-we-all-doing-here-my-600-mile-trip-to-hear-an-organ-play-a-d-natural/)
 * [2025-03-31, 14:18:52](https://news.ycombinator.com/item?id=43535352) - [New nanoparticle therapies target two major killers](https://www.science.org/content/article/new-nanoparticle-therapies-target-two-major-killers)
 * [2025-03-31, 12:22:27](https://news.ycombinator.com/item?id=43534143) - [Binary Distribution Rebuilds](https://blog.josefsson.org/2025/03/31/on-binary-distribution-rebuilds/)
