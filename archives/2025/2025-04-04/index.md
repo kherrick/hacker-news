@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-04](index.md)
 
+* [2025-04-04, 20:38:41](https://news.ycombinator.com/item?id=43587385) - [Images trapped in a feedback loop and analog fractals create each other](https://www.youtube.com/watch?v=D3eHKI0nvKA)
 * [2025-04-04, 19:35:49](https://news.ycombinator.com/item?id=43586786) - [Google launches SEC-Gemini v1, a new experimental cybersecurity model](https://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html)
 * [2025-04-04, 19:22:37](https://news.ycombinator.com/item?id=43586654) - [An interactive-speed Linux computer made of only 3 8-pin chips](https://dmitry.gr/?r=05.Projects&proj=36.%208pinLinux)
 * [2025-04-04, 19:13:56](https://news.ycombinator.com/item?id=43586561) - [The Tcl Programming Language: A Comprehensive Guide (2nd Edition)](https://www.magicsplat.com/ttpl/index.html)
