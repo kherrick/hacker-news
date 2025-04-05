@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-05, 18:54:56](https://news.ycombinator.com/item?id=43595858) - [The Llama 4 Herd](https://ai.meta.com/blog/llama-4-multimodal-intelligence/?_fb_noscript=1)
-* [2025-04-05, 18:53:20](https://news.ycombinator.com/item?id=43595838) - [Trump Golf Track](https://trumpgolftrack.com/)
 * [2025-04-05, 18:33:56](https://news.ycombinator.com/item?id=43595585) - [Llama4](https://www.llama.com/llama4/)
 * [2025-04-05, 18:01:46](https://news.ycombinator.com/item?id=43595293) - [NASA's Project Scientist Faces Painful Choices as Voyager Mission Nears Its End](https://gizmodo.com/keeping-voyager-alive-nasas-project-scientist-faces-painful-choices-as-the-iconic-mission-nears-its-end-2000580634)
 * [2025-04-05, 17:59:55](https://news.ycombinator.com/item?id=43595283) - [Faster interpreters in Go: Catching up with C++](https://planetscale.com/blog/faster-interpreters-in-go-catching-up-with-cpp)
@@ -23,6 +22,7 @@
 * [2025-04-04, 19:22:37](https://news.ycombinator.com/item?id=43586654) - [An interactive-speed Linux computer made of only 3 8-pin chips](https://dmitry.gr/?r=05.Projects&proj=36.%208pinLinux)
 * [2025-04-04, 18:34:07](https://news.ycombinator.com/item?id=43586157) - [The End of Sierra as We Knew It, Part 1: The Acquisition](https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-1-the-acquisition/)
 * [2025-04-04, 18:25:23](https://news.ycombinator.com/item?id=43586073) - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
+* [2025-04-03, 14:27:35](https://news.ycombinator.com/item?id=43570197) - [The Radio Broadcaster's Dream Mini Rack](https://github.com/geerlingguy/mini-rack/issues/181)
 * [2025-04-02, 23:15:25](https://news.ycombinator.com/item?id=43562894) - [Rich Text, Poor Text (2013)](https://laemeur.sdf.org/words/D29.html)
 * [2025-04-02, 18:01:05](https://news.ycombinator.com/item?id=43559439) - [Functors: Identity, Composition, and fmap](https://codehakase.com/blog/2025-03-26-on-functors/)
 * [2025-04-02, 12:41:59](https://news.ycombinator.com/item?id=43555996) - [Coolify: Open-source and self-hostable Heroku / Netlify / Vercel alternative](https://coolify.io/)
