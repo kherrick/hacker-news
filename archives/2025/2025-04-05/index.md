@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-05](index.md)
 
+* [2025-04-05, 20:13:32](https://news.ycombinator.com/item?id=43596470) - [Llama 4 Now Live on Groq](https://groq.com/llama-4-now-live-on-groq-build-fast-at-the-lowest-cost-without-compromise/)
 * [2025-04-05, 18:54:56](https://news.ycombinator.com/item?id=43595858) - [The Llama 4 Herd](https://ai.meta.com/blog/llama-4-multimodal-intelligence/?_fb_noscript=1)
 * [2025-04-05, 18:53:20](https://news.ycombinator.com/item?id=43595838) - [Trump Golf Track](https://trumpgolftrack.com/)
 * [2025-04-05, 18:39:35](https://news.ycombinator.com/item?id=43595656) - [A Hash160 Collision](https://lbc.cryptoguru.org/man/theory)
