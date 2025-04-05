@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-05, 06:03:40](https://news.ycombinator.com/item?id=43591225) - [Nebula Sans](https://nebulasans.com/)
 * [2025-04-05, 05:31:45](https://news.ycombinator.com/item?id=43591050) - [Recreating Daft Punk's Something About Us](https://thoughts-and-things.ghost.io/recreating-daft-punks-something-about-us/)
 * [2025-04-05, 05:22:33](https://news.ycombinator.com/item?id=43590998) - [Show HN: OCR pipeline for ML training (tables, diagrams, math, multilingual)](https://github.com/ses4255/Versatile-OCR-Program)
-* [2025-04-05, 05:17:56](https://news.ycombinator.com/item?id=43590973) - [I don't like traveling anymore](https://sidverma.io/posts/i-dont-like-traveling-anymore/)
-* [2025-04-05, 03:52:07](https://news.ycombinator.com/item?id=43590570) - [Coqui TTS: Free Text-to-Speech](https://coquitts.com)
 * [2025-04-05, 02:15:35](https://news.ycombinator.com/item?id=43589989) - [OpenVertebrate Presents a Database of 13,000 3D Scans of Specimens](https://www.openculture.com/2024/03/openvertebrate-presents-a-massive-database-of-13000-3d-scans-of-vertebrate-specimens.html)
 * [2025-04-05, 01:50:09](https://news.ycombinator.com/item?id=43589776) - [Learn electricity and electronics fundamentals without taking a formal course](https://simonmonk.org/tyee7)
 * [2025-04-05, 01:22:38](https://news.ycombinator.com/item?id=43589523) - [AT&T Email-to-Text Gateway Service Ending June 17](https://www.att.com/support/article/wireless/KM1061254/)
@@ -18,6 +17,7 @@
 * [2025-04-04, 18:25:23](https://news.ycombinator.com/item?id=43586073) - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
 * [2025-04-04, 15:59:28](https://news.ycombinator.com/item?id=43584303) - [Kerosene did not save the sperm whale (2024)](https://edconway.substack.com/p/no-kerosene-did-not-save-the-sperm)
 * [2025-04-04, 15:03:04](https://news.ycombinator.com/item?id=43583478) - [Show HN: uWrap.js – A faster and more accurate text wrapping util in < 2KB](https://github.com/leeoniya/uWrap)
+* [2025-04-03, 17:55:20](https://news.ycombinator.com/item?id=43573156) - [An image of an archeologist adventurer who wears a hat and uses a bullwhip](https://theaiunderwriter.substack.com/p/an-image-of-an-archeologist-adventurer)
 * [2025-04-02, 12:41:59](https://news.ycombinator.com/item?id=43555996) - [Coolify: Open-source and self-hostable Heroku / Netlify / Vercel alternative](https://coolify.io/)
 * [2025-04-02, 12:41:43](https://news.ycombinator.com/item?id=43555994) - [Scaling Up Reinforcement Learning for Traffic Smoothing](https://bair.berkeley.edu/blog/2025/03/25/rl-av-smoothing/)
 * [2025-04-02, 12:11:47](https://news.ycombinator.com/item?id=43555820) - [Show HN: Pets for Cursor](https://news.ycombinator.com/item?id=43555820)
