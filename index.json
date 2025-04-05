@@ -1,22 +1,12 @@
 [
   [
     [
-      "2025-04-05, 18:54:56",
-      "https://news.ycombinator.com/item?id=43595858"
-    ],
-    [
-      "The Llama 4 Herd",
-      "https://ai.meta.com/blog/llama-4-multimodal-intelligence/?_fb_noscript=1"
-    ]
-  ],
-  [
-    [
       "2025-04-05, 18:33:56",
       "https://news.ycombinator.com/item?id=43595585"
     ],
     [
-      "Llama4",
-      "https://www.llama.com/llama4/"
+      "The Llama 4 herd",
+      "https://ai.meta.com/blog/llama-4-multimodal-intelligence/"
     ]
   ],
   [
@@ -147,6 +137,16 @@
     [
       "Emulating an iPhone in QEMU",
       "https://eshard.com/posts/emulating-ios-14-with-qemu"
+    ]
+  ],
+  [
+    [
+      "2025-04-05, 06:08:59",
+      "https://news.ycombinator.com/item?id=43591246"
+    ],
+    [
+      "Pytest for Neovim",
+      "https://github.com/richardhapb/pytest.nvim"
     ]
   ],
   [
