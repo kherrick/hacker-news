@@ -80,6 +80,7 @@
 * [2025-04-02, 10:33:20](https://news.ycombinator.com/item?id=43555334) - [RIP Val Kilmer: Real Genius .. the Film Nerd Culture Deserves (2015)](https://reactormag.com/30-years-later-real-genius-is-still-the-geek-solidarity-film-that-nerd-culture-deserves/)
 * [2025-04-02, 10:29:46](https://news.ycombinator.com/item?id=43555311) - [The Fifth Kind of Optimisation](https://tratt.net/laurie/blog/2025/the_fifth_kind_of_optimisation.html)
 * [2025-04-02, 10:25:18](https://news.ycombinator.com/item?id=43555286) - [Coffea stenophylla: A forgotten bean that could save coffee from extinction](https://www.smithsonianmag.com/science-nature/how-forgotten-bean-could-save-coffee-from-extinction-180986230/)
+* [2025-04-02, 10:18:42](https://news.ycombinator.com/item?id=43555249) - [Ferron – a fast, memory-safe web server written in Rust](https://github.com/ferronweb/ferron)
 * [2025-04-02, 10:18:08](https://news.ycombinator.com/item?id=43555248) - [UCSD: Large Language Models Pass the Turing Test](https://arxiv.org/abs/2503.23674)
 * [2025-04-02, 10:13:48](https://news.ycombinator.com/item?id=43555220) - [Supervisors Often Prefer Rule Breakers—Up to a Point](https://journals.aom.org/doi/10.5465/amd.2022.0280.summary)
 * [2025-04-02, 08:46:23](https://news.ycombinator.com/item?id=43554769) - [Show HN: Await-Tree – Visualize Async Rust Task Execution in Real-Time](https://github.com/risingwavelabs/await-tree)
