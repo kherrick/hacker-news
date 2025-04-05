@@ -75,6 +75,7 @@
 * [2025-04-02, 12:10:46](https://news.ycombinator.com/item?id=43555814) - [Don't Bother with Vibe Coding](https://www.soeren.codes/articles/do-not-bother-with-vibe-coding)
 * [2025-04-02, 11:54:51](https://news.ycombinator.com/item?id=43555728) - [Fantastically Wrong: The Legendary Scientist Who Swore Our Planet Is Hollow](https://www.wired.com/2014/07/fantastically-wrong-hollow-earth/)
 * [2025-04-02, 11:50:00](https://news.ycombinator.com/item?id=43555696) - [US labour watchdog halts Apple cases after US picks group's lawyer for top job](https://www.ft.com/content/ad7fcc22-343e-47e3-a6f3-58bfd4294c9d)
+* [2025-04-02, 11:04:55](https://news.ycombinator.com/item?id=43555474) - [The Soul of an Old Machine](https://thechipletter.substack.com/p/the-soul-of-an-old-machine)
 * [2025-04-02, 10:52:00](https://news.ycombinator.com/item?id=43555409) - [Show HN: I made a platform to load and performance test API's](https://buzzbench.io/)
 * [2025-04-02, 10:33:20](https://news.ycombinator.com/item?id=43555334) - [RIP Val Kilmer: Real Genius .. the Film Nerd Culture Deserves (2015)](https://reactormag.com/30-years-later-real-genius-is-still-the-geek-solidarity-film-that-nerd-culture-deserves/)
 * [2025-04-02, 10:29:46](https://news.ycombinator.com/item?id=43555311) - [The Fifth Kind of Optimisation](https://tratt.net/laurie/blog/2025/the_fifth_kind_of_optimisation.html)
