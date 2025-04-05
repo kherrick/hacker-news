@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-05, 13:07:39",
+      "https://news.ycombinator.com/item?id=43593159"
+    ],
+    [
+      "Anti-Poverty Groups ID Property Taxes as Culprit in Affordable Housing Shortage",
+      "https://www.thecity.nyc/2025/03/31/housing-crisis-property-taxes-rents/"
+    ]
+  ],
+  [
+    [
       "2025-04-05, 12:08:02",
       "https://news.ycombinator.com/item?id=43592756"
     ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2025-04-05, 11:31:56",
-      "https://news.ycombinator.com/item?id=43592540"
+      "2025-04-05, 10:57:00",
+      "https://news.ycombinator.com/item?id=43592409"
     ],
     [
-      "Interview Coder is an invisible AI for technical interviews",
-      "https://www.interviewcoder.co/"
+      "Emulating an iPhone in QEMU",
+      "https://eshard.com/posts/emulating-ios-14-with-qemu"
     ]
   ],
   [
@@ -37,6 +47,16 @@
     [
       "Major endometriosis study reveals impact of gluten, coffee, dairy and alcohol",
       "https://www.theguardian.com/society/2025/apr/05/major-endometriosis-study-reveals-impact-of-gluten-coffee-dairy-and-alcohol"
+    ]
+  ],
+  [
+    [
+      "2025-04-05, 10:35:36",
+      "https://news.ycombinator.com/item?id=43592353"
+    ],
+    [
+      "Are porn algorithms feeding a generation of paedophiles – or creating one?",
+      "https://www.theguardian.com/society/2025/apr/05/i-didnt-start-out-wanting-to-see-kids-are-porn-algorithms-feeding-a-generation-of-paedophiles-or-creating-one"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "Pytest for Neovim",
       "https://github.com/richardhapb/pytest.nvim"
-    ]
-  ],
-  [
-    [
-      "2025-04-05, 05:33:10",
-      "https://news.ycombinator.com/item?id=43591060"
-    ],
-    [
-      "Show HN: Corral – A Visual Logic Puzzle About Enclosing Numbers",
-      "https://mohammed321.github.io/projects/corral_web/index.html"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Scientists witness living plant cells generate cellulose and form cell walls",
       "https://phys.org/news/2025-03-scientists-witness-cells-generate-cellulose.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-02, 10:18:42",
-      "https://news.ycombinator.com/item?id=43555249"
-    ],
-    [
-      "Ferron – A fast, memory-safe web server written in Rust",
-      "https://github.com/ferronweb/ferron"
     ]
   ],
   [
