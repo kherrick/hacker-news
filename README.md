@@ -2,7 +2,6 @@
 
 * [2025-04-05, 12:08:02](https://news.ycombinator.com/item?id=43592756) - [Earth's clouds are shrinking, boosting global warming](https://www.science.org/content/article/earth-s-clouds-are-shrinking-boosting-global-warming)
 * [2025-04-05, 10:57:00](https://news.ycombinator.com/item?id=43592409) - [Emulating an iPhone in QEMU](https://eshard.com/posts/emulating-ios-14-with-qemu)
-* [2025-04-05, 10:35:36](https://news.ycombinator.com/item?id=43592353) - [Are porn algorithms feeding a generation of paedophiles – or creating one?](https://www.theguardian.com/society/2025/apr/05/i-didnt-start-out-wanting-to-see-kids-are-porn-algorithms-feeding-a-generation-of-paedophiles-or-creating-one)
 * [2025-04-05, 08:22:46](https://news.ycombinator.com/item?id=43591866) - [Protoplanetary Disks Are Smaller Than Expected](https://www.centauri-dreams.org/2025/04/04/protoplanetary-disks-are-smaller-than-expected/)
 * [2025-04-05, 06:08:59](https://news.ycombinator.com/item?id=43591246) - [Pytest for Neovim](https://github.com/richardhapb/pytest.nvim)
 * [2025-04-05, 05:33:10](https://news.ycombinator.com/item?id=43591060) - [Show HN: Corral – A Visual Logic Puzzle About Enclosing Numbers](https://mohammed321.github.io/projects/corral_web/index.html)
@@ -19,6 +18,7 @@
 * [2025-04-04, 15:59:28](https://news.ycombinator.com/item?id=43584303) - [Kerosene did not save the sperm whale (2024)](https://edconway.substack.com/p/no-kerosene-did-not-save-the-sperm)
 * [2025-04-04, 15:03:04](https://news.ycombinator.com/item?id=43583478) - [Show HN: uWrap.js – A faster and more accurate text wrapping util in < 2KB](https://github.com/leeoniya/uWrap)
 * [2025-04-02, 12:41:59](https://news.ycombinator.com/item?id=43555996) - [Coolify: Open-source and self-hostable Heroku / Netlify / Vercel alternative](https://coolify.io/)
+* [2025-04-02, 12:41:43](https://news.ycombinator.com/item?id=43555994) - [Scaling Up Reinforcement Learning for Traffic Smoothing](https://bair.berkeley.edu/blog/2025/03/25/rl-av-smoothing/)
 * [2025-04-02, 12:11:47](https://news.ycombinator.com/item?id=43555820) - [Show HN: Pets for Cursor](https://news.ycombinator.com/item?id=43555820)
 * [2025-04-02, 12:00:39](https://news.ycombinator.com/item?id=43555760) - [Configuration Complexity Clock (2012)](http://mikehadlow.blogspot.com/2012/05/configuration-complexity-clock.html)
 * [2025-04-02, 11:23:42](https://news.ycombinator.com/item?id=43555552) - [Scientists witness living plant cells generate cellulose and form cell walls](https://phys.org/news/2025-03-scientists-witness-cells-generate-cellulose.html)
