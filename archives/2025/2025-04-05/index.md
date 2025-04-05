@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-05](index.md)
 
+* [2025-04-05, 03:24:34](https://news.ycombinator.com/item?id=43590421) - [Trump's Tariff Formula Makes No Economic Sense. It's Also Based on an Error](https://www.aei.org/economics/president-trumps-tariff-formula-makes-no-economic-sense-its-also-based-on-an-error/)
 * [2025-04-05, 02:15:35](https://news.ycombinator.com/item?id=43589989) - [OpenVertebrate Presents a Database of 13,000 3D Scans of Specimens](https://www.openculture.com/2024/03/openvertebrate-presents-a-massive-database-of-13000-3d-scans-of-vertebrate-specimens.html)
 * [2025-04-05, 02:09:38](https://news.ycombinator.com/item?id=43589929) - [Minecraft Server in FreeBSD Jails Container](https://vermaden.wordpress.com/2025/04/05/minecraft-server-freebsd-jails-container/)
 * [2025-04-05, 01:50:09](https://news.ycombinator.com/item?id=43589776) - [Learn electricity and electronics fundamentals without taking a formal course](https://simonmonk.org/tyee7)

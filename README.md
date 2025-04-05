@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-05, 03:24:34](https://news.ycombinator.com/item?id=43590421) - [Trump's Tariff Formula Makes No Economic Sense. It's Also Based on an Error](https://www.aei.org/economics/president-trumps-tariff-formula-makes-no-economic-sense-its-also-based-on-an-error/)
 * [2025-04-05, 02:15:35](https://news.ycombinator.com/item?id=43589989) - [OpenVertebrate Presents a Database of 13,000 3D Scans of Specimens](https://www.openculture.com/2024/03/openvertebrate-presents-a-massive-database-of-13000-3d-scans-of-vertebrate-specimens.html)
 * [2025-04-05, 02:09:38](https://news.ycombinator.com/item?id=43589929) - [Minecraft Server in FreeBSD Jails Container](https://vermaden.wordpress.com/2025/04/05/minecraft-server-freebsd-jails-container/)
 * [2025-04-05, 01:50:09](https://news.ycombinator.com/item?id=43589776) - [Learn electricity and electronics fundamentals without taking a formal course](https://simonmonk.org/tyee7)
@@ -10,7 +11,6 @@
 * [2025-04-05, 00:04:28](https://news.ycombinator.com/item?id=43589042) - [Annotated Unix Magic Poster](https://unixmagic.net/)
 * [2025-04-04, 22:32:13](https://news.ycombinator.com/item?id=43588420) - [Show HN: Clawtype v2.1 – a one-hand chorded USB keyboard and mouse [video]](https://www.youtube.com/watch?v=N2PSiOl-auM)
 * [2025-04-04, 20:37:35](https://news.ycombinator.com/item?id=43587380) - [The blissful Zen of a good side project](https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project)
-* [2025-04-04, 19:35:49](https://news.ycombinator.com/item?id=43586786) - [Google announces Sec-Gemini v1 a new experimental cybersecurity model](https://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html)
 * [2025-04-04, 19:22:37](https://news.ycombinator.com/item?id=43586654) - [An interactive-speed Linux computer made of only 3 8-pin chips](https://dmitry.gr/?r=05.Projects&proj=36.%208pinLinux)
 * [2025-04-04, 19:13:56](https://news.ycombinator.com/item?id=43586561) - [The Tcl Programming Language: A Comprehensive Guide (2nd Edition)](https://www.magicsplat.com/ttpl/index.html)
 * [2025-04-04, 18:34:07](https://news.ycombinator.com/item?id=43586157) - [The End of Sierra as We Knew It, Part 1: The Acquisition](https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-1-the-acquisition/)
