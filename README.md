@@ -2,6 +2,7 @@
 
 * [2025-04-05, 20:25:08](https://news.ycombinator.com/item?id=43596555) - [OpenAI's Motion to Dismiss Copyright Claims Rejected by Judge](https://arstechnica.com/tech-policy/2025/04/judge-doesnt-buy-openai-argument-nyts-own-reporting-weakens-copyright-suit/)
 * [2025-04-05, 20:24:09](https://news.ycombinator.com/item?id=43596546) - [North America Is Dripping from Below, Geoscientists Discover](https://www.jsg.utexas.edu/news/2025/04/north-america-is-dripping-from-below-geoscientists-discover/)
+* [2025-04-05, 20:24:03](https://news.ycombinator.com/item?id=43596543) - [Open Source Coalition Announces 'Model-Signing' to Strengthen ML Supply Chain](https://pypi.org/project/model-signing/)
 * [2025-04-05, 20:13:32](https://news.ycombinator.com/item?id=43596470) - [Llama 4 Now Live on Groq](https://groq.com/llama-4-now-live-on-groq-build-fast-at-the-lowest-cost-without-compromise/)
 * [2025-04-05, 18:33:56](https://news.ycombinator.com/item?id=43595585) - [The Llama 4 herd](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
 * [2025-04-05, 18:20:49](https://news.ycombinator.com/item?id=43595442) - [Show HN: iPhone 2005 weird \"Blob Keyboard\" simulator](https://news.ycombinator.com/item?id=43595442)
@@ -22,7 +23,6 @@
 * [2025-04-05, 05:22:33](https://news.ycombinator.com/item?id=43590998) - [Show HN: OCR pipeline for ML training (tables, diagrams, math, multilingual)](https://github.com/ses4255/Versatile-OCR-Program)
 * [2025-04-05, 02:15:35](https://news.ycombinator.com/item?id=43589989) - [OpenVertebrate Presents a Database of 13,000 3D Scans of Specimens](https://www.openculture.com/2024/03/openvertebrate-presents-a-massive-database-of-13000-3d-scans-of-vertebrate-specimens.html)
 * [2025-04-04, 20:37:35](https://news.ycombinator.com/item?id=43587380) - [The blissful Zen of a good side project](https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project)
-* [2025-04-04, 18:25:23](https://news.ycombinator.com/item?id=43586073) - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
 * [2025-04-02, 23:15:25](https://news.ycombinator.com/item?id=43562894) - [Rich Text, Poor Text (2013)](https://laemeur.sdf.org/words/D29.html)
 * [2025-04-02, 12:45:04](https://news.ycombinator.com/item?id=43556029) - [Practical Binary Analysis](https://practicalbinaryanalysis.com)
 * [2025-04-02, 12:41:59](https://news.ycombinator.com/item?id=43555996) - [Coolify: Open-source and self-hostable Heroku / Netlify / Vercel alternative](https://coolify.io/)

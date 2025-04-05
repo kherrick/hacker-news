@@ -6,6 +6,7 @@
 
 * [2025-04-05, 20:25:08](https://news.ycombinator.com/item?id=43596555) - [OpenAI's Motion to Dismiss Copyright Claims Rejected by Judge](https://arstechnica.com/tech-policy/2025/04/judge-doesnt-buy-openai-argument-nyts-own-reporting-weakens-copyright-suit/)
 * [2025-04-05, 20:24:09](https://news.ycombinator.com/item?id=43596546) - [North America Is Dripping from Below, Geoscientists Discover](https://www.jsg.utexas.edu/news/2025/04/north-america-is-dripping-from-below-geoscientists-discover/)
+* [2025-04-05, 20:24:03](https://news.ycombinator.com/item?id=43596543) - [Open Source Coalition Announces 'Model-Signing' to Strengthen ML Supply Chain](https://pypi.org/project/model-signing/)
 * [2025-04-05, 20:13:32](https://news.ycombinator.com/item?id=43596470) - [Llama 4 Now Live on Groq](https://groq.com/llama-4-now-live-on-groq-build-fast-at-the-lowest-cost-without-compromise/)
 * [2025-04-05, 18:54:56](https://news.ycombinator.com/item?id=43595858) - [The Llama 4 Herd](https://ai.meta.com/blog/llama-4-multimodal-intelligence/?_fb_noscript=1)
 * [2025-04-05, 18:53:20](https://news.ycombinator.com/item?id=43595838) - [Trump Golf Track](https://trumpgolftrack.com/)
