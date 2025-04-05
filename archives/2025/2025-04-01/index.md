@@ -62,6 +62,7 @@
 * [2025-04-01, 05:47:41](https://news.ycombinator.com/item?id=43543241) - [Show HN: Nue – Apps lighter than a React button](https://nuejs.org/blog/large-scale-apps/)
 * [2025-04-01, 05:46:34](https://news.ycombinator.com/item?id=43543235) - [Show HN: Duolingo-style exercises but with real-world content like the news](https://app.fluentsubs.com/exercises/daily)
 * [2025-04-01, 05:15:42](https://news.ycombinator.com/item?id=43543075) - [Entire staff at federal agency that funds libraries and museums put on leave](https://www.npr.org/2025/03/31/nx-s1-5334415/doge-institute-of-museum-and-library-services)
+* [2025-04-01, 04:59:46](https://news.ycombinator.com/item?id=43543007) - [The DDA Algorithm, explained interactively](https://aaaa.sh/creatures/dda-algorithm-interactive)
 * [2025-04-01, 04:18:46](https://news.ycombinator.com/item?id=43542804) - [In the Matter of the Commas](https://theamericanscholar.org/in-the-matter-of-the-commas/)
 * [2025-04-01, 03:45:59](https://news.ycombinator.com/item?id=43542633) - [Netflix CEO Says Movie Theaters Are Dead](https://www.semafor.com/article/03/30/2025/movie-theaters-still-dead-per-netflix-boss)
 * [2025-04-01, 03:06:07](https://news.ycombinator.com/item?id=43542410) - [Windows on ARM on a Smart Watch](https://gus33000.me/fish/)
