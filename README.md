@@ -24,7 +24,7 @@
 * [2025-04-04, 18:25:23](https://news.ycombinator.com/item?id=43586073) - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
 * [2025-04-03, 14:27:35](https://news.ycombinator.com/item?id=43570197) - [The Radio Broadcaster's Dream Mini Rack](https://github.com/geerlingguy/mini-rack/issues/181)
 * [2025-04-02, 23:15:25](https://news.ycombinator.com/item?id=43562894) - [Rich Text, Poor Text (2013)](https://laemeur.sdf.org/words/D29.html)
-* [2025-04-02, 18:01:05](https://news.ycombinator.com/item?id=43559439) - [Functors: Identity, Composition, and fmap](https://codehakase.com/blog/2025-03-26-on-functors/)
+* [2025-04-02, 12:45:04](https://news.ycombinator.com/item?id=43556029) - [Practical Binary Analysis](https://practicalbinaryanalysis.com)
 * [2025-04-02, 12:41:59](https://news.ycombinator.com/item?id=43555996) - [Coolify: Open-source and self-hostable Heroku / Netlify / Vercel alternative](https://coolify.io/)
 * [2025-04-02, 11:23:42](https://news.ycombinator.com/item?id=43555552) - [Scientists witness living plant cells generate cellulose and form cell walls](https://phys.org/news/2025-03-scientists-witness-cells-generate-cellulose.html)
 * [2025-04-02, 09:53:02](https://news.ycombinator.com/item?id=43555110) - [Is Python Code Sensitive to CPU Caching? (2024)](https://lukasatkinson.de/2024/python-cpu-caching/)
