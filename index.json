@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-05, 18:33:56",
+      "https://news.ycombinator.com/item?id=43595585"
+    ],
+    [
+      "Llama4",
+      "https://www.llama.com/llama4/"
+    ]
+  ],
+  [
+    [
       "2025-04-05, 18:02:08",
       "https://news.ycombinator.com/item?id=43595299"
     ],
@@ -61,16 +71,6 @@
   ],
   [
     [
-      "2025-04-05, 15:57:46",
-      "https://news.ycombinator.com/item?id=43594421"
-    ],
-    [
-      "iRobot made Roomba into an icon. Now, it's in a mess",
-      "https://www.fastcompany.com/91302893/irobot-turned-roomba-into-a-brand-icon-now-its-in-a-huge-mess"
-    ]
-  ],
-  [
-    [
       "2025-04-05, 15:54:01",
       "https://news.ycombinator.com/item?id=43594396"
     ],
@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2025-04-05, 13:51:57",
+      "https://news.ycombinator.com/item?id=43593547"
+    ],
+    [
+      "Database Protocols Are Underwhelming",
+      "https://byroot.github.io/performance/2025/03/21/database-protocols.html"
+    ]
+  ],
+  [
+    [
       "2025-04-05, 12:55:00",
       "https://news.ycombinator.com/item?id=43593088"
     ],
@@ -127,16 +137,6 @@
     [
       "Emulating an iPhone in QEMU",
       "https://eshard.com/posts/emulating-ios-14-with-qemu"
-    ]
-  ],
-  [
-    [
-      "2025-04-05, 06:08:59",
-      "https://news.ycombinator.com/item?id=43591246"
-    ],
-    [
-      "Pytest for Neovim",
-      "https://github.com/richardhapb/pytest.nvim"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2025-04-02, 23:15:25",
+      "https://news.ycombinator.com/item?id=43562894"
+    ],
+    [
+      "Rich Text, Poor Text (2013)",
+      "https://laemeur.sdf.org/words/D29.html"
+    ]
+  ],
+  [
+    [
       "2025-04-02, 18:01:05",
       "https://news.ycombinator.com/item?id=43559439"
     ],
@@ -237,16 +247,6 @@
     [
       "Coolify: Open-source and self-hostable Heroku / Netlify / Vercel alternative",
       "https://coolify.io/"
-    ]
-  ],
-  [
-    [
-      "2025-04-02, 12:00:39",
-      "https://news.ycombinator.com/item?id=43555760"
-    ],
-    [
-      "Configuration Complexity Clock (2012)",
-      "http://mikehadlow.blogspot.com/2012/05/configuration-complexity-clock.html"
     ]
   ],
   [
