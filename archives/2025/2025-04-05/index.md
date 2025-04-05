@@ -4,13 +4,16 @@
 
 ### [Archives](../../index.md) for [2025-04-05](index.md)
 
+* [2025-04-05, 13:07:39](https://news.ycombinator.com/item?id=43593159) - [Anti-Poverty Groups ID Property Taxes as Culprit in Affordable Housing Shortage](https://www.thecity.nyc/2025/03/31/housing-crisis-property-taxes-rents/)
 * [2025-04-05, 12:08:02](https://news.ycombinator.com/item?id=43592756) - [Earth's clouds are shrinking, boosting global warming](https://www.science.org/content/article/earth-s-clouds-are-shrinking-boosting-global-warming)
 * [2025-04-05, 11:53:05](https://news.ycombinator.com/item?id=43592661) - [California now has more EV charging ports than gas nozzles](https://www.latimes.com/california/story/2025-03-26/california-now-has-more-ev-charging-ports-than-gas-nozzles)
 * [2025-04-05, 11:31:56](https://news.ycombinator.com/item?id=43592540) - [Interview Coder is an invisible AI for technical interviews](https://www.interviewcoder.co/)
 * [2025-04-05, 11:10:14](https://news.ycombinator.com/item?id=43592462) - [AdNauseam: Clicking ads so you don't have to](https://adnauseam.io/)
 * [2025-04-05, 11:07:50](https://news.ycombinator.com/item?id=43592454) - [Europe needs its own social media platforms to safeguard sovereignty](https://mediascope.group/europe-needs-its-own-social-media-platforms-to-safeguard-sovereignty/)
+* [2025-04-05, 10:57:00](https://news.ycombinator.com/item?id=43592409) - [Emulating an iPhone in QEMU](https://eshard.com/posts/emulating-ios-14-with-qemu)
 * [2025-04-05, 10:55:16](https://news.ycombinator.com/item?id=43592406) - [Tariffs Can Help America](https://www.foreignaffairs.com/united-states/how-tariffs-can-help-america)
 * [2025-04-05, 10:53:57](https://news.ycombinator.com/item?id=43592400) - [Major endometriosis study reveals impact of gluten, coffee, dairy and alcohol](https://www.theguardian.com/society/2025/apr/05/major-endometriosis-study-reveals-impact-of-gluten-coffee-dairy-and-alcohol)
+* [2025-04-05, 10:35:36](https://news.ycombinator.com/item?id=43592353) - [Are porn algorithms feeding a generation of paedophiles – or creating one?](https://www.theguardian.com/society/2025/apr/05/i-didnt-start-out-wanting-to-see-kids-are-porn-algorithms-feeding-a-generation-of-paedophiles-or-creating-one)
 * [2025-04-05, 08:56:33](https://news.ycombinator.com/item?id=43592003) - [Public domain technical books published before 1964](http://www.tubebooks.org/technical_books_online.htm)
 * [2025-04-05, 08:22:46](https://news.ycombinator.com/item?id=43591866) - [Protoplanetary Disks Are Smaller Than Expected](https://www.centauri-dreams.org/2025/04/04/protoplanetary-disks-are-smaller-than-expected/)
 * [2025-04-05, 06:08:59](https://news.ycombinator.com/item?id=43591246) - [Pytest for Neovim](https://github.com/richardhapb/pytest.nvim)
