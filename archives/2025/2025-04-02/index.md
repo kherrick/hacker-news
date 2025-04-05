@@ -32,6 +32,7 @@
 * [2025-04-02, 18:24:51](https://news.ycombinator.com/item?id=43559733) - [Ask HN: How do you make a living contributing to and/or creating OSS projects?](https://news.ycombinator.com/item?id=43559733)
 * [2025-04-02, 18:14:44](https://news.ycombinator.com/item?id=43559605) - [I don't discuss politics with friends](https://shwin.co/blog/why-i-dont-discuss-politics-with-friends)
 * [2025-04-02, 18:02:26](https://news.ycombinator.com/item?id=43559451) - [NYC New Subway Map](https://www.nytimes.com/2025/04/02/nyregion/nyc-new-subway-map.html)
+* [2025-04-02, 18:01:05](https://news.ycombinator.com/item?id=43559439) - [Functors: Identity, Composition, and fmap](https://codehakase.com/blog/2025-03-26-on-functors/)
 * [2025-04-02, 17:55:38](https://news.ycombinator.com/item?id=43559370) - [Ace: Realtime Computer Autopilot](https://generalagents.com/ace/)
 * [2025-04-02, 17:48:35](https://news.ycombinator.com/item?id=43559285) - [Zero Day in Microchip SAM Microcontrollers](https://wiki.recessim.com/view/ATSAM4C32)
 * [2025-04-02, 17:42:56](https://news.ycombinator.com/item?id=43559228) - [Real-Time Introspective Compression for Transformers](https://github.com/Dicklesworthstone/llm_introspective_compression_and_metacognition)
