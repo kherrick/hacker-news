@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-05, 14:34:31",
+      "https://news.ycombinator.com/item?id=43593840"
+    ],
+    [
+      "Mammoth de-extinction is bad conservation",
+      "https://arstechnica.com/science/2025/04/editorial-mammoth-de-extinction-is-bad-conservation/"
+    ]
+  ],
+  [
+    [
       "2025-04-05, 13:58:18",
       "https://news.ycombinator.com/item?id=43593596"
     ],
@@ -227,16 +237,6 @@
     [
       "Is Python Code Sensitive to CPU Caching? (2024)",
       "https://lukasatkinson.de/2024/python-cpu-caching/"
-    ]
-  ],
-  [
-    [
-      "2025-04-02, 06:44:17",
-      "https://news.ycombinator.com/item?id=43554214"
-    ],
-    [
-      "Sparks – A typeface for creating sparklines in text without code",
-      "https://github.com/aftertheflood/sparks"
     ]
   ],
   [
