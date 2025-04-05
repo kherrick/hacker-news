@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-05, 17:00:21](https://news.ycombinator.com/item?id=43594871) - [Great Question (YC W21) Is Hiring Applied AI Engineers](https://www.ycombinator.com/companies/great-question/jobs/AtPa8pe-ai-engineer)
 * [2025-04-05, 16:18:12](https://news.ycombinator.com/item?id=43594554) - [Loader's Number](https://googology.fandom.com/wiki/Loader%27s_number)
+* [2025-04-05, 15:54:01](https://news.ycombinator.com/item?id=43594396) - [Exeter's unassuming co-op worker leads double life as 'Lord of the Logos'](https://www.devonlive.com/whats-on/whats-on-news/exeters-unassuming-co-op-worker-10039941)
 * [2025-04-05, 14:46:19](https://news.ycombinator.com/item?id=43593913) - [SpacetimeDB v1.0: Multiplayer at the speed of light](https://github.com/clockworklabs/SpacetimeDB)
-* [2025-04-05, 14:34:31](https://news.ycombinator.com/item?id=43593840) - [Mammoth de-extinction is bad conservation](https://arstechnica.com/science/2025/04/editorial-mammoth-de-extinction-is-bad-conservation/)
 * [2025-04-05, 14:26:02](https://news.ycombinator.com/item?id=43593789) - [Show HN: I built a word game. My mom thinks it's great. What do you think?](https://www.whatsit.today/)
 * [2025-04-05, 13:58:18](https://news.ycombinator.com/item?id=43593596) - [A Vision for WebAssembly Support in Swift](https://forums.swift.org/t/pitch-a-vision-for-webassembly-support-in-swift/79060)
 * [2025-04-05, 12:55:00](https://news.ycombinator.com/item?id=43593088) - [Compilers: Incrementally and Extensibly](https://okmij.org/ftp/tagless-final/Compiler/index.html)
@@ -20,7 +21,6 @@
 * [2025-04-04, 18:25:23](https://news.ycombinator.com/item?id=43586073) - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
 * [2025-04-04, 15:59:28](https://news.ycombinator.com/item?id=43584303) - [Kerosene did not save the sperm whale (2024)](https://edconway.substack.com/p/no-kerosene-did-not-save-the-sperm)
 * [2025-04-02, 22:59:55](https://news.ycombinator.com/item?id=43562768) - [Yann LeCun, Pioneer of AI, Thinks Today's LLM's Are Nearly Obsolete](https://www.newsweek.com/ai-impact-interview-yann-lecun-artificial-intelligence-2054237)
-* [2025-04-02, 19:15:19](https://news.ycombinator.com/item?id=43560421) - [Does the future of AI depend on glass?](https://www.schott.com/en-gb/solutions-magazine/edition-3-2024/unlocking-the-full-potential-of-ai-in-healthcare)
 * [2025-04-02, 12:41:59](https://news.ycombinator.com/item?id=43555996) - [Coolify: Open-source and self-hostable Heroku / Netlify / Vercel alternative](https://coolify.io/)
 * [2025-04-02, 12:00:39](https://news.ycombinator.com/item?id=43555760) - [Configuration Complexity Clock (2012)](http://mikehadlow.blogspot.com/2012/05/configuration-complexity-clock.html)
 * [2025-04-02, 11:23:42](https://news.ycombinator.com/item?id=43555552) - [Scientists witness living plant cells generate cellulose and form cell walls](https://phys.org/news/2025-03-scientists-witness-cells-generate-cellulose.html)

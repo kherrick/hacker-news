@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-05](index.md)
 
+* [2025-04-05, 17:00:21](https://news.ycombinator.com/item?id=43594871) - [Great Question (YC W21) Is Hiring Applied AI Engineers](https://www.ycombinator.com/companies/great-question/jobs/AtPa8pe-ai-engineer)
 * [2025-04-05, 16:18:12](https://news.ycombinator.com/item?id=43594554) - [Loader's Number](https://googology.fandom.com/wiki/Loader%27s_number)
+* [2025-04-05, 15:54:01](https://news.ycombinator.com/item?id=43594396) - [Exeter's unassuming co-op worker leads double life as 'Lord of the Logos'](https://www.devonlive.com/whats-on/whats-on-news/exeters-unassuming-co-op-worker-10039941)
 * [2025-04-05, 14:46:19](https://news.ycombinator.com/item?id=43593913) - [SpacetimeDB v1.0: Multiplayer at the speed of light](https://github.com/clockworklabs/SpacetimeDB)
 * [2025-04-05, 14:34:31](https://news.ycombinator.com/item?id=43593840) - [Mammoth de-extinction is bad conservation](https://arstechnica.com/science/2025/04/editorial-mammoth-de-extinction-is-bad-conservation/)
 * [2025-04-05, 14:26:02](https://news.ycombinator.com/item?id=43593789) - [Show HN: I built a word game. My mom thinks it's great. What do you think?](https://www.whatsit.today/)
