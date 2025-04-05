@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-04-05](index.md)
 
+* [2025-04-05, 18:02:08](https://news.ycombinator.com/item?id=43595299) - [Nissan eyes shifting Rogue production to U.S. due to tariffs](https://asia.nikkei.com/Business/Transportation/Nissan-eyes-shifting-Rogue-production-to-U.S.-due-to-Trump-tariffs)
+* [2025-04-05, 18:01:46](https://news.ycombinator.com/item?id=43595293) - [NASA's Project Scientist Faces Painful Choices as Voyager Mission Nears Its End](https://gizmodo.com/keeping-voyager-alive-nasas-project-scientist-faces-painful-choices-as-the-iconic-mission-nears-its-end-2000580634)
+* [2025-04-05, 17:57:46](https://news.ycombinator.com/item?id=43595269) - [What If We Made Advertising Illegal?](https://simone.org/advertising/)
+* [2025-04-05, 17:51:49](https://news.ycombinator.com/item?id=43595223) - [Dynamic Register Allocation on AMD's RDNA 4 GPU Architecture](https://chipsandcheese.com/p/dynamic-register-allocation-on-amds)
 * [2025-04-05, 17:00:21](https://news.ycombinator.com/item?id=43594871) - [Great Question (YC W21) Is Hiring Applied AI Engineers](https://www.ycombinator.com/companies/great-question/jobs/AtPa8pe-ai-engineer)
 * [2025-04-05, 16:18:12](https://news.ycombinator.com/item?id=43594554) - [Loader's Number](https://googology.fandom.com/wiki/Loader%27s_number)
 * [2025-04-05, 15:57:46](https://news.ycombinator.com/item?id=43594421) - [iRobot made Roomba into an icon. Now, it's in a mess](https://www.fastcompany.com/91302893/irobot-turned-roomba-into-a-brand-icon-now-its-in-a-huge-mess)
