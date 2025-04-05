@@ -11,12 +11,22 @@
   ],
   [
     [
-      "2025-04-05, 13:47:51",
-      "https://news.ycombinator.com/item?id=43593508"
+      "2025-04-05, 13:22:37",
+      "https://news.ycombinator.com/item?id=43593269"
     ],
     [
-      "Making OCaml Safe for Performance Engineering [video]",
-      "https://www.youtube.com/watch?v=g3qd4zpm1LA"
+      "A Comparative Analysis of K3s, MicroK8s, and Alternatives",
+      "https://htdocs.dev/posts/kubernetes-deployment-strategies-for-small-businesses-on-hetzner-cloud-a-comparative-analysis-of-k3s-microk8s-and-alternatives/"
+    ]
+  ],
+  [
+    [
+      "2025-04-05, 12:55:00",
+      "https://news.ycombinator.com/item?id=43593088"
+    ],
+    [
+      "Compilers: Incrementally and Extensibly",
+      "https://okmij.org/ftp/tagless-final/Compiler/index.html"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Coolify: Open-source and self-hostable Heroku / Netlify / Vercel alternative",
       "https://coolify.io/"
-    ]
-  ],
-  [
-    [
-      "2025-04-02, 12:41:43",
-      "https://news.ycombinator.com/item?id=43555994"
-    ],
-    [
-      "Scaling Up Reinforcement Learning for Traffic Smoothing",
-      "https://bair.berkeley.edu/blog/2025/03/25/rl-av-smoothing/"
     ]
   ],
   [
