@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-05, 12:08:02",
+      "https://news.ycombinator.com/item?id=43592756"
+    ],
+    [
+      "Earth's clouds are shrinking, boosting global warming",
+      "https://www.science.org/content/article/earth-s-clouds-are-shrinking-boosting-global-warming"
+    ]
+  ],
+  [
+    [
       "2025-04-05, 11:53:05",
       "https://news.ycombinator.com/item?id=43592661"
     ],
@@ -17,26 +27,6 @@
     [
       "Interview Coder is an invisible AI for technical interviews",
       "https://www.interviewcoder.co/"
-    ]
-  ],
-  [
-    [
-      "2025-04-05, 11:10:14",
-      "https://news.ycombinator.com/item?id=43592462"
-    ],
-    [
-      "AdNauseam: Clicking ads so you don't have to",
-      "https://adnauseam.io/"
-    ]
-  ],
-  [
-    [
-      "2025-04-05, 10:55:16",
-      "https://news.ycombinator.com/item?id=43592406"
-    ],
-    [
-      "Tariffs Can Help America",
-      "https://www.foreignaffairs.com/united-states/how-tariffs-can-help-america"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Ferron – A fast, memory-safe web server written in Rust",
       "https://github.com/ferronweb/ferron"
+    ]
+  ],
+  [
+    [
+      "2025-04-02, 09:53:02",
+      "https://news.ycombinator.com/item?id=43555110"
+    ],
+    [
+      "Is Python Code Sensitive to CPU Caching? (2024)",
+      "https://lukasatkinson.de/2024/python-cpu-caching/"
     ]
   ],
   [
