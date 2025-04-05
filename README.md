@@ -14,7 +14,6 @@
 * [2025-04-04, 22:32:13](https://news.ycombinator.com/item?id=43588420) - [Show HN: Clawtype v2.1 – a one-hand chorded USB keyboard and mouse [video]](https://www.youtube.com/watch?v=N2PSiOl-auM)
 * [2025-04-04, 20:37:35](https://news.ycombinator.com/item?id=43587380) - [The blissful Zen of a good side project](https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project)
 * [2025-04-04, 19:22:37](https://news.ycombinator.com/item?id=43586654) - [An interactive-speed Linux computer made of only 3 8-pin chips](https://dmitry.gr/?r=05.Projects&proj=36.%208pinLinux)
-* [2025-04-04, 19:13:56](https://news.ycombinator.com/item?id=43586561) - [The Tcl Programming Language: A Comprehensive Guide (2nd Edition)](https://www.magicsplat.com/ttpl/index.html)
 * [2025-04-04, 18:34:07](https://news.ycombinator.com/item?id=43586157) - [The End of Sierra as We Knew It, Part 1: The Acquisition](https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-1-the-acquisition/)
 * [2025-04-04, 18:25:23](https://news.ycombinator.com/item?id=43586073) - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
 * [2025-04-04, 15:59:28](https://news.ycombinator.com/item?id=43584303) - [Kerosene did not save the sperm whale (2024)](https://edconway.substack.com/p/no-kerosene-did-not-save-the-sperm)
@@ -30,6 +29,7 @@
 * [2025-04-01, 12:06:56](https://news.ycombinator.com/item?id=43545757) - [Why Does Claude Speak Byzantine Music Notation?](https://fi-le.net/byzantine/)
 * [2025-04-01, 11:54:34](https://news.ycombinator.com/item?id=43545674) - [How Airbnb measures listing lifetime value](https://medium.com/airbnb-engineering/how-airbnb-measures-listing-lifetime-value-a603bf05142c)
 * [2025-04-01, 04:59:46](https://news.ycombinator.com/item?id=43543007) - [The DDA Algorithm, explained interactively](https://aaaa.sh/creatures/dda-algorithm-interactive)
+* [2025-03-31, 19:30:29](https://news.ycombinator.com/item?id=43538853) - [New antibiotic that kills drug-resistant bacteria found in technician's garden](https://www.nature.com/articles/d41586-025-00945-z)
 
 ## [Archives](archives/index.md)
 
