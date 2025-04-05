@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-05, 20:25:08](https://news.ycombinator.com/item?id=43596555) - [OpenAI's Motion to Dismiss Copyright Claims Rejected by Judge](https://arstechnica.com/tech-policy/2025/04/judge-doesnt-buy-openai-argument-nyts-own-reporting-weakens-copyright-suit/)
 * [2025-04-05, 20:13:32](https://news.ycombinator.com/item?id=43596470) - [Llama 4 Now Live on Groq](https://groq.com/llama-4-now-live-on-groq-build-fast-at-the-lowest-cost-without-compromise/)
-* [2025-04-05, 18:39:35](https://news.ycombinator.com/item?id=43595656) - [A Hash160 Collision](https://lbc.cryptoguru.org/man/theory)
 * [2025-04-05, 18:33:56](https://news.ycombinator.com/item?id=43595585) - [The Llama 4 herd](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
 * [2025-04-05, 18:20:49](https://news.ycombinator.com/item?id=43595442) - [Show HN: iPhone 2005 weird \"Blob Keyboard\" simulator](https://news.ycombinator.com/item?id=43595442)
 * [2025-04-05, 18:01:46](https://news.ycombinator.com/item?id=43595293) - [NASA's Project Scientist Faces Painful Choices as Voyager Mission Nears Its End](https://gizmodo.com/keeping-voyager-alive-nasas-project-scientist-faces-painful-choices-as-the-iconic-mission-nears-its-end-2000580634)
