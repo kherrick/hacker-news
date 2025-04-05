@@ -23,11 +23,11 @@
 * [2025-04-05, 05:22:33](https://news.ycombinator.com/item?id=43590998) - [Show HN: OCR pipeline for ML training (tables, diagrams, math, multilingual)](https://github.com/ses4255/Versatile-OCR-Program)
 * [2025-04-05, 02:15:35](https://news.ycombinator.com/item?id=43589989) - [OpenVertebrate Presents a Database of 13,000 3D Scans of Specimens](https://www.openculture.com/2024/03/openvertebrate-presents-a-massive-database-of-13000-3d-scans-of-vertebrate-specimens.html)
 * [2025-04-04, 20:37:35](https://news.ycombinator.com/item?id=43587380) - [The blissful Zen of a good side project](https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project)
+* [2025-04-04, 18:25:23](https://news.ycombinator.com/item?id=43586073) - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
 * [2025-04-02, 23:15:25](https://news.ycombinator.com/item?id=43562894) - [Rich Text, Poor Text (2013)](https://laemeur.sdf.org/words/D29.html)
 * [2025-04-02, 12:45:04](https://news.ycombinator.com/item?id=43556029) - [Practical Binary Analysis](https://practicalbinaryanalysis.com)
 * [2025-04-02, 12:41:59](https://news.ycombinator.com/item?id=43555996) - [Coolify: Open-source and self-hostable Heroku / Netlify / Vercel alternative](https://coolify.io/)
-* [2025-04-02, 11:23:42](https://news.ycombinator.com/item?id=43555552) - [Scientists witness living plant cells generate cellulose and form cell walls](https://phys.org/news/2025-03-scientists-witness-cells-generate-cellulose.html)
-* [2025-04-02, 09:53:02](https://news.ycombinator.com/item?id=43555110) - [Is Python Code Sensitive to CPU Caching? (2024)](https://lukasatkinson.de/2024/python-cpu-caching/)
+* [2025-04-02, 08:49:44](https://news.ycombinator.com/item?id=43554789) - [Identifying a defective RAM IC on laptops with soldered memory](https://blog.piernov.org/identifying-defective-ram-ic/)
 * [2025-04-01, 18:20:56](https://news.ycombinator.com/item?id=43549893) - [The Importance of Fact-Checking](https://lithub.com/on-the-episode-that-changed-ira-glasss-this-american-life-forever/)
 * [2025-04-01, 17:33:13](https://news.ycombinator.com/item?id=43549469) - [Jumping Spiders](https://digital.tnconservationist.org/publication/?i=663361&article_id=3697028&view=articleBrowser)
 
