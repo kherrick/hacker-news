@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-05](index.md)
 
+* [2025-04-05, 13:58:18](https://news.ycombinator.com/item?id=43593596) - [A Vision for WebAssembly Support in Swift](https://forums.swift.org/t/pitch-a-vision-for-webassembly-support-in-swift/79060)
+* [2025-04-05, 13:47:51](https://news.ycombinator.com/item?id=43593508) - [Making OCaml Safe for Performance Engineering [video]](https://www.youtube.com/watch?v=g3qd4zpm1LA)
 * [2025-04-05, 13:07:39](https://news.ycombinator.com/item?id=43593159) - [Anti-Poverty Groups ID Property Taxes as Culprit in Affordable Housing Shortage](https://www.thecity.nyc/2025/03/31/housing-crisis-property-taxes-rents/)
 * [2025-04-05, 12:08:02](https://news.ycombinator.com/item?id=43592756) - [Earth's clouds are shrinking, boosting global warming](https://www.science.org/content/article/earth-s-clouds-are-shrinking-boosting-global-warming)
 * [2025-04-05, 11:53:05](https://news.ycombinator.com/item?id=43592661) - [California now has more EV charging ports than gas nozzles](https://www.latimes.com/california/story/2025-03-26/california-now-has-more-ev-charging-ports-than-gas-nozzles)
