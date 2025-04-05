@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-02](index.md)
 
 * [2025-04-02, 23:10:55](https://news.ycombinator.com/item?id=43562860) - [Web Server for AoE 1, 2 and 3 DE supporting LAN multiplayer 100% offline](https://github.com/luskaner/ageLANServer)
+* [2025-04-02, 22:59:55](https://news.ycombinator.com/item?id=43562768) - [Yann LeCun, Pioneer of AI, Thinks Today's LLM's Are Nearly Obsolete](https://www.newsweek.com/ai-impact-interview-yann-lecun-artificial-intelligence-2054237)
 * [2025-04-02, 22:39:46](https://news.ycombinator.com/item?id=43562579) - [Switzerland's Vinyl Turntable Roundabout: Unique Road Art](https://www.newlyswissed.com/turntable-roundabout-in-switzerland/)
 * [2025-04-02, 22:26:52](https://news.ycombinator.com/item?id=43562448) - [Chronic ethanol produces sex-dependent impairments in striatum computations](https://www.science.org/doi/10.1126/sciadv.adt0200)
 * [2025-04-02, 22:20:53](https://news.ycombinator.com/item?id=43562384) - [Multi-Token Attention](https://arxiv.org/abs/2504.00927)
