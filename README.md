@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-05, 18:33:56](https://news.ycombinator.com/item?id=43595585) - [Llama4](https://www.llama.com/llama4/)
-* [2025-04-05, 18:02:08](https://news.ycombinator.com/item?id=43595299) - [Nissan eyes shifting Rogue production to U.S. due to tariffs](https://asia.nikkei.com/Business/Transportation/Nissan-eyes-shifting-Rogue-production-to-U.S.-due-to-Trump-tariffs)
 * [2025-04-05, 18:01:46](https://news.ycombinator.com/item?id=43595293) - [NASA's Project Scientist Faces Painful Choices as Voyager Mission Nears Its End](https://gizmodo.com/keeping-voyager-alive-nasas-project-scientist-faces-painful-choices-as-the-iconic-mission-nears-its-end-2000580634)
+* [2025-04-05, 17:59:55](https://news.ycombinator.com/item?id=43595283) - [Faster interpreters in Go: Catching up with C++](https://planetscale.com/blog/faster-interpreters-in-go-catching-up-with-cpp)
 * [2025-04-05, 17:57:46](https://news.ycombinator.com/item?id=43595269) - [What If We Made Advertising Illegal?](https://simone.org/advertising/)
 * [2025-04-05, 17:51:49](https://news.ycombinator.com/item?id=43595223) - [Dynamic Register Allocation on AMD's RDNA 4 GPU Architecture](https://chipsandcheese.com/p/dynamic-register-allocation-on-amds)
 * [2025-04-05, 17:00:21](https://news.ycombinator.com/item?id=43594871) - [Great Question (YC W21) Is Hiring Applied AI Engineers](https://www.ycombinator.com/companies/great-question/jobs/AtPa8pe-ai-engineer)
@@ -14,6 +14,7 @@
 * [2025-04-05, 13:51:57](https://news.ycombinator.com/item?id=43593547) - [Database Protocols Are Underwhelming](https://byroot.github.io/performance/2025/03/21/database-protocols.html)
 * [2025-04-05, 12:55:00](https://news.ycombinator.com/item?id=43593088) - [Compilers: Incrementally and Extensibly (2024)](https://okmij.org/ftp/tagless-final/Compiler/index.html)
 * [2025-04-05, 10:57:00](https://news.ycombinator.com/item?id=43592409) - [Emulating an iPhone in QEMU](https://eshard.com/posts/emulating-ios-14-with-qemu)
+* [2025-04-05, 06:08:59](https://news.ycombinator.com/item?id=43591246) - [Pytest for Neovim](https://github.com/richardhapb/pytest.nvim)
 * [2025-04-05, 05:31:45](https://news.ycombinator.com/item?id=43591050) - [Recreating Daft Punk's Something About Us](https://thoughts-and-things.ghost.io/recreating-daft-punks-something-about-us/)
 * [2025-04-05, 05:22:33](https://news.ycombinator.com/item?id=43590998) - [Show HN: OCR pipeline for ML training (tables, diagrams, math, multilingual)](https://github.com/ses4255/Versatile-OCR-Program)
 * [2025-04-05, 02:15:35](https://news.ycombinator.com/item?id=43589989) - [OpenVertebrate Presents a Database of 13,000 3D Scans of Specimens](https://www.openculture.com/2024/03/openvertebrate-presents-a-massive-database-of-13000-3d-scans-of-vertebrate-specimens.html)
@@ -29,7 +30,6 @@
 * [2025-04-02, 09:53:02](https://news.ycombinator.com/item?id=43555110) - [Is Python Code Sensitive to CPU Caching? (2024)](https://lukasatkinson.de/2024/python-cpu-caching/)
 * [2025-04-01, 18:20:56](https://news.ycombinator.com/item?id=43549893) - [The Importance of Fact-Checking](https://lithub.com/on-the-episode-that-changed-ira-glasss-this-american-life-forever/)
 * [2025-04-01, 17:33:13](https://news.ycombinator.com/item?id=43549469) - [Jumping Spiders](https://digital.tnconservationist.org/publication/?i=663361&article_id=3697028&view=articleBrowser)
-* [2025-04-01, 04:59:46](https://news.ycombinator.com/item?id=43543007) - [The DDA Algorithm, explained interactively](https://aaaa.sh/creatures/dda-algorithm-interactive)
 
 ## [Archives](archives/index.md)
 

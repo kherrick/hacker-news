@@ -7,6 +7,7 @@
 * [2025-04-05, 18:33:56](https://news.ycombinator.com/item?id=43595585) - [Llama4](https://www.llama.com/llama4/)
 * [2025-04-05, 18:02:08](https://news.ycombinator.com/item?id=43595299) - [Nissan eyes shifting Rogue production to U.S. due to tariffs](https://asia.nikkei.com/Business/Transportation/Nissan-eyes-shifting-Rogue-production-to-U.S.-due-to-Trump-tariffs)
 * [2025-04-05, 18:01:46](https://news.ycombinator.com/item?id=43595293) - [NASA's Project Scientist Faces Painful Choices as Voyager Mission Nears Its End](https://gizmodo.com/keeping-voyager-alive-nasas-project-scientist-faces-painful-choices-as-the-iconic-mission-nears-its-end-2000580634)
+* [2025-04-05, 17:59:55](https://news.ycombinator.com/item?id=43595283) - [Faster interpreters in Go: Catching up with C++](https://planetscale.com/blog/faster-interpreters-in-go-catching-up-with-cpp)
 * [2025-04-05, 17:57:46](https://news.ycombinator.com/item?id=43595269) - [What If We Made Advertising Illegal?](https://simone.org/advertising/)
 * [2025-04-05, 17:51:49](https://news.ycombinator.com/item?id=43595223) - [Dynamic Register Allocation on AMD's RDNA 4 GPU Architecture](https://chipsandcheese.com/p/dynamic-register-allocation-on-amds)
 * [2025-04-05, 17:00:21](https://news.ycombinator.com/item?id=43594871) - [Great Question (YC W21) Is Hiring Applied AI Engineers](https://www.ycombinator.com/companies/great-question/jobs/AtPa8pe-ai-engineer)
