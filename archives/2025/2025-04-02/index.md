@@ -72,6 +72,7 @@
 * [2025-04-02, 12:41:24](https://news.ycombinator.com/item?id=43555987) - [Show HN: Hot Notes – Fuzzy Search for Apple Notes (macOS)](https://hotmatcha.dev/hot-notes/)
 * [2025-04-02, 12:28:52](https://news.ycombinator.com/item?id=43555904) - [Measuring Acceleration Structures](https://zeux.io/2025/03/31/measuring-acceleration-structures/)
 * [2025-04-02, 12:28:04](https://news.ycombinator.com/item?id=43555898) - [Wikipedia is struggling with voracious AI bot crawlers](https://www.engadget.com/ai/wikipedia-is-struggling-with-voracious-ai-bot-crawlers-121546854.html)
+* [2025-04-02, 12:11:47](https://news.ycombinator.com/item?id=43555820) - [Show HN: Pets for Cursor](https://news.ycombinator.com/item?id=43555820)
 * [2025-04-02, 12:10:46](https://news.ycombinator.com/item?id=43555814) - [Don't Bother with Vibe Coding](https://www.soeren.codes/articles/do-not-bother-with-vibe-coding)
 * [2025-04-02, 11:54:51](https://news.ycombinator.com/item?id=43555728) - [Fantastically Wrong: The Legendary Scientist Who Swore Our Planet Is Hollow](https://www.wired.com/2014/07/fantastically-wrong-hollow-earth/)
 * [2025-04-02, 11:50:00](https://news.ycombinator.com/item?id=43555696) - [US labour watchdog halts Apple cases after US picks group's lawyer for top job](https://www.ft.com/content/ad7fcc22-343e-47e3-a6f3-58bfd4294c9d)

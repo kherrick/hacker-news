@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-05](index.md)
 
+* [2025-04-05, 05:31:45](https://news.ycombinator.com/item?id=43591050) - [Recreating Daft Punk's Something About Us](https://thoughts-and-things.ghost.io/recreating-daft-punks-something-about-us/)
 * [2025-04-05, 05:22:33](https://news.ycombinator.com/item?id=43590998) - [Show HN: OCR pipeline for ML training (tables, diagrams, math, multilingual)](https://github.com/ses4255/Versatile-OCR-Program)
 * [2025-04-05, 05:17:56](https://news.ycombinator.com/item?id=43590973) - [I don't like traveling anymore](https://sidverma.io/posts/i-dont-like-traveling-anymore/)
 * [2025-04-05, 03:52:07](https://news.ycombinator.com/item?id=43590570) - [Coqui TTS: Free Text-to-Speech](https://coquitts.com)
