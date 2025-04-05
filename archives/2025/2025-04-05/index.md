@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-05](index.md)
 
 * [2025-04-05, 22:04:38](https://news.ycombinator.com/item?id=43597187) - [Setup QEMU Output to Serial Console and Automate Tests with Shell Scripts (2019)](https://fadeevab.com/how-to-setup-qemu-output-to-console-and-automate-using-shell-script/)
+* [2025-04-05, 21:15:00](https://news.ycombinator.com/item?id=43596864) - [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 * [2025-04-05, 20:26:36](https://news.ycombinator.com/item?id=43596570) - [We are still using 88x31 buttons](https://ultrasciencelabs.com/lab-notes/why-we-are-still-using-88x31-buttons)
 * [2025-04-05, 20:25:08](https://news.ycombinator.com/item?id=43596555) - [OpenAI's Motion to Dismiss Copyright Claims Rejected by Judge](https://arstechnica.com/tech-policy/2025/04/judge-doesnt-buy-openai-argument-nyts-own-reporting-weakens-copyright-suit/)
 * [2025-04-05, 20:24:09](https://news.ycombinator.com/item?id=43596546) - [North America Is Dripping from Below, Geoscientists Discover](https://www.jsg.utexas.edu/news/2025/04/north-america-is-dripping-from-below-geoscientists-discover/)
