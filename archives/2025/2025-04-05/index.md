@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-05](index.md)
 
+* [2025-04-05, 12:08:02](https://news.ycombinator.com/item?id=43592756) - [Earth's clouds are shrinking, boosting global warming](https://www.science.org/content/article/earth-s-clouds-are-shrinking-boosting-global-warming)
 * [2025-04-05, 11:53:05](https://news.ycombinator.com/item?id=43592661) - [California now has more EV charging ports than gas nozzles](https://www.latimes.com/california/story/2025-03-26/california-now-has-more-ev-charging-ports-than-gas-nozzles)
 * [2025-04-05, 11:31:56](https://news.ycombinator.com/item?id=43592540) - [Interview Coder is an invisible AI for technical interviews](https://www.interviewcoder.co/)
 * [2025-04-05, 11:10:14](https://news.ycombinator.com/item?id=43592462) - [AdNauseam: Clicking ads so you don't have to](https://adnauseam.io/)

@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-05, 12:08:02](https://news.ycombinator.com/item?id=43592756) - [Earth's clouds are shrinking, boosting global warming](https://www.science.org/content/article/earth-s-clouds-are-shrinking-boosting-global-warming)
 * [2025-04-05, 11:53:05](https://news.ycombinator.com/item?id=43592661) - [California now has more EV charging ports than gas nozzles](https://www.latimes.com/california/story/2025-03-26/california-now-has-more-ev-charging-ports-than-gas-nozzles)
 * [2025-04-05, 11:31:56](https://news.ycombinator.com/item?id=43592540) - [Interview Coder is an invisible AI for technical interviews](https://www.interviewcoder.co/)
-* [2025-04-05, 11:10:14](https://news.ycombinator.com/item?id=43592462) - [AdNauseam: Clicking ads so you don't have to](https://adnauseam.io/)
-* [2025-04-05, 10:55:16](https://news.ycombinator.com/item?id=43592406) - [Tariffs Can Help America](https://www.foreignaffairs.com/united-states/how-tariffs-can-help-america)
 * [2025-04-05, 10:53:57](https://news.ycombinator.com/item?id=43592400) - [Major endometriosis study reveals impact of gluten, coffee, dairy and alcohol](https://www.theguardian.com/society/2025/apr/05/major-endometriosis-study-reveals-impact-of-gluten-coffee-dairy-and-alcohol)
 * [2025-04-05, 08:22:46](https://news.ycombinator.com/item?id=43591866) - [Protoplanetary Disks Are Smaller Than Expected](https://www.centauri-dreams.org/2025/04/04/protoplanetary-disks-are-smaller-than-expected/)
 * [2025-04-05, 06:08:59](https://news.ycombinator.com/item?id=43591246) - [Pytest for Neovim](https://github.com/richardhapb/pytest.nvim)
@@ -25,6 +24,7 @@
 * [2025-04-02, 12:00:39](https://news.ycombinator.com/item?id=43555760) - [Configuration Complexity Clock (2012)](http://mikehadlow.blogspot.com/2012/05/configuration-complexity-clock.html)
 * [2025-04-02, 11:23:42](https://news.ycombinator.com/item?id=43555552) - [Scientists witness living plant cells generate cellulose and form cell walls](https://phys.org/news/2025-03-scientists-witness-cells-generate-cellulose.html)
 * [2025-04-02, 10:18:42](https://news.ycombinator.com/item?id=43555249) - [Ferron – A fast, memory-safe web server written in Rust](https://github.com/ferronweb/ferron)
+* [2025-04-02, 09:53:02](https://news.ycombinator.com/item?id=43555110) - [Is Python Code Sensitive to CPU Caching? (2024)](https://lukasatkinson.de/2024/python-cpu-caching/)
 * [2025-04-02, 06:44:17](https://news.ycombinator.com/item?id=43554214) - [Sparks – A typeface for creating sparklines in text without code](https://github.com/aftertheflood/sparks)
 * [2025-04-01, 18:37:52](https://news.ycombinator.com/item?id=43550072) - [World's largest wildlife crossing reaches critical milestone. Now what?](https://www.yahoo.com/news/worlds-largest-wildlife-crossing-reaches-100046299.html)
 * [2025-04-01, 18:20:56](https://news.ycombinator.com/item?id=43549893) - [The Importance of Fact-Checking](https://lithub.com/on-the-episode-that-changed-ira-glasss-this-american-life-forever/)
