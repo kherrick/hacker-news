@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-04-05, 13:07:39",
-      "https://news.ycombinator.com/item?id=43593159"
-    ],
-    [
-      "Anti-Poverty Groups ID Property Taxes as Culprit in Affordable Housing Shortage",
-      "https://www.thecity.nyc/2025/03/31/housing-crisis-property-taxes-rents/"
-    ]
-  ],
-  [
-    [
       "2025-04-05, 12:08:02",
       "https://news.ycombinator.com/item?id=43592756"
     ],
@@ -21,32 +11,12 @@
   ],
   [
     [
-      "2025-04-05, 11:53:05",
-      "https://news.ycombinator.com/item?id=43592661"
-    ],
-    [
-      "California now has more EV charging ports than gas nozzles",
-      "https://www.latimes.com/california/story/2025-03-26/california-now-has-more-ev-charging-ports-than-gas-nozzles"
-    ]
-  ],
-  [
-    [
       "2025-04-05, 10:57:00",
       "https://news.ycombinator.com/item?id=43592409"
     ],
     [
       "Emulating an iPhone in QEMU",
       "https://eshard.com/posts/emulating-ios-14-with-qemu"
-    ]
-  ],
-  [
-    [
-      "2025-04-05, 10:53:57",
-      "https://news.ycombinator.com/item?id=43592400"
-    ],
-    [
-      "Major endometriosis study reveals impact of gluten, coffee, dairy and alcohol",
-      "https://www.theguardian.com/society/2025/apr/05/major-endometriosis-study-reveals-impact-of-gluten-coffee-dairy-and-alcohol"
     ]
   ],
   [
@@ -81,6 +51,16 @@
   ],
   [
     [
+      "2025-04-05, 05:33:10",
+      "https://news.ycombinator.com/item?id=43591060"
+    ],
+    [
+      "Show HN: Corral – A Visual Logic Puzzle About Enclosing Numbers",
+      "https://mohammed321.github.io/projects/corral_web/index.html"
+    ]
+  ],
+  [
+    [
       "2025-04-05, 05:31:45",
       "https://news.ycombinator.com/item?id=43591050"
     ],
@@ -107,6 +87,16 @@
     [
       "OpenVertebrate Presents a Database of 13,000 3D Scans of Specimens",
       "https://www.openculture.com/2024/03/openvertebrate-presents-a-massive-database-of-13000-3d-scans-of-vertebrate-specimens.html"
+    ]
+  ],
+  [
+    [
+      "2025-04-05, 00:25:12",
+      "https://news.ycombinator.com/item?id=43589156"
+    ],
+    [
+      "Investigating MacPaint's Source Code",
+      "https://ztoz.blog/posts/macpaint-source-code/"
     ]
   ],
   [
@@ -231,6 +221,16 @@
   ],
   [
     [
+      "2025-04-02, 10:18:42",
+      "https://news.ycombinator.com/item?id=43555249"
+    ],
+    [
+      "Ferron – A fast, memory-safe web server written in Rust",
+      "https://github.com/ferronweb/ferron"
+    ]
+  ],
+  [
+    [
       "2025-04-02, 09:53:02",
       "https://news.ycombinator.com/item?id=43555110"
     ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=43549469"
     ],
     [
-      "The Tennessee Conservationist Jul/Aug 2020: Jumping Spiders",
+      "Jumping Spiders",
       "https://digital.tnconservationist.org/publication/?i=663361&article_id=3697028&view=articleBrowser"
     ]
   ],
