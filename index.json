@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-04-05, 12:08:02",
-      "https://news.ycombinator.com/item?id=43592756"
+      "2025-04-05, 13:58:18",
+      "https://news.ycombinator.com/item?id=43593596"
     ],
     [
-      "Earth's clouds are shrinking, boosting global warming",
-      "https://www.science.org/content/article/earth-s-clouds-are-shrinking-boosting-global-warming"
+      "A Vision for WebAssembly Support in Swift",
+      "https://forums.swift.org/t/pitch-a-vision-for-webassembly-support-in-swift/79060"
+    ]
+  ],
+  [
+    [
+      "2025-04-05, 13:47:51",
+      "https://news.ycombinator.com/item?id=43593508"
+    ],
+    [
+      "Making OCaml Safe for Performance Engineering [video]",
+      "https://www.youtube.com/watch?v=g3qd4zpm1LA"
     ]
   ],
   [
@@ -37,16 +47,6 @@
     [
       "Pytest for Neovim",
       "https://github.com/richardhapb/pytest.nvim"
-    ]
-  ],
-  [
-    [
-      "2025-04-05, 05:33:10",
-      "https://news.ycombinator.com/item?id=43591060"
-    ],
-    [
-      "Show HN: Corral – A Visual Logic Puzzle About Enclosing Numbers",
-      "https://mohammed321.github.io/projects/corral_web/index.html"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-04-02, 10:18:42",
-      "https://news.ycombinator.com/item?id=43555249"
-    ],
-    [
-      "Ferron – A fast, memory-safe web server written in Rust",
-      "https://github.com/ferronweb/ferron"
-    ]
-  ],
-  [
-    [
       "2025-04-02, 09:53:02",
       "https://news.ycombinator.com/item?id=43555110"
     ],
@@ -247,6 +237,16 @@
     [
       "Sparks – A typeface for creating sparklines in text without code",
       "https://github.com/aftertheflood/sparks"
+    ]
+  ],
+  [
+    [
+      "2025-04-01, 20:31:17",
+      "https://news.ycombinator.com/item?id=43551007"
+    ],
+    [
+      "The Universal Transverse Mercator (UTM) geographic coordinate system",
+      "http://www.mibsar.com/LandNav/UTM/UTM.htm"
     ]
   ],
   [
