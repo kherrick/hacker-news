@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-05, 14:46:19](https://news.ycombinator.com/item?id=43593913) - [SpacetimeDB v1.0: Multiplayer at the speed of light](https://github.com/clockworklabs/SpacetimeDB)
 * [2025-04-05, 14:34:31](https://news.ycombinator.com/item?id=43593840) - [Mammoth de-extinction is bad conservation](https://arstechnica.com/science/2025/04/editorial-mammoth-de-extinction-is-bad-conservation/)
 * [2025-04-05, 14:26:02](https://news.ycombinator.com/item?id=43593789) - [Show HN: I built a word game. My mom thinks it's great. What do you think?](https://www.whatsit.today/)
 * [2025-04-05, 13:58:18](https://news.ycombinator.com/item?id=43593596) - [A Vision for WebAssembly Support in Swift](https://forums.swift.org/t/pitch-a-vision-for-webassembly-support-in-swift/79060)
@@ -11,6 +10,7 @@
 * [2025-04-05, 05:31:45](https://news.ycombinator.com/item?id=43591050) - [Recreating Daft Punk's Something About Us](https://thoughts-and-things.ghost.io/recreating-daft-punks-something-about-us/)
 * [2025-04-05, 05:22:33](https://news.ycombinator.com/item?id=43590998) - [Show HN: OCR pipeline for ML training (tables, diagrams, math, multilingual)](https://github.com/ses4255/Versatile-OCR-Program)
 * [2025-04-05, 02:15:35](https://news.ycombinator.com/item?id=43589989) - [OpenVertebrate Presents a Database of 13,000 3D Scans of Specimens](https://www.openculture.com/2024/03/openvertebrate-presents-a-massive-database-of-13000-3d-scans-of-vertebrate-specimens.html)
+* [2025-04-05, 00:25:12](https://news.ycombinator.com/item?id=43589156) - [Investigating MacPaint's Source Code](https://ztoz.blog/posts/macpaint-source-code/)
 * [2025-04-05, 00:04:28](https://news.ycombinator.com/item?id=43589042) - [Annotated Unix Magic Poster](https://unixmagic.net/)
 * [2025-04-04, 22:32:13](https://news.ycombinator.com/item?id=43588420) - [Show HN: Clawtype v2.1 – a one-hand chorded USB keyboard and mouse [video]](https://www.youtube.com/watch?v=N2PSiOl-auM)
 * [2025-04-04, 20:37:35](https://news.ycombinator.com/item?id=43587380) - [The blissful Zen of a good side project](https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project)
