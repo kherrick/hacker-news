@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-05, 05:22:33](https://news.ycombinator.com/item?id=43590998) - [Show HN: OCR pipeline for ML training (tables, diagrams, math, multilingual)](https://github.com/ses4255/Versatile-OCR-Program)
+* [2025-04-05, 05:17:56](https://news.ycombinator.com/item?id=43590973) - [I don't like traveling anymore](https://sidverma.io/posts/i-dont-like-traveling-anymore/)
 * [2025-04-05, 03:52:07](https://news.ycombinator.com/item?id=43590570) - [Coqui TTS: Free Text-to-Speech](https://coquitts.com)
 * [2025-04-05, 03:24:34](https://news.ycombinator.com/item?id=43590421) - [Trump's Tariff Formula Makes No Economic Sense. It's Also Based on an Error](https://www.aei.org/economics/president-trumps-tariff-formula-makes-no-economic-sense-its-also-based-on-an-error/)
 * [2025-04-05, 02:15:35](https://news.ycombinator.com/item?id=43589989) - [OpenVertebrate Presents a Database of 13,000 3D Scans of Specimens](https://www.openculture.com/2024/03/openvertebrate-presents-a-massive-database-of-13000-3d-scans-of-vertebrate-specimens.html)
@@ -22,13 +24,11 @@
 * [2025-04-02, 12:41:59](https://news.ycombinator.com/item?id=43555996) - [Coolify: Open-source and self-hostable Heroku / Netlify / Vercel alternative](https://coolify.io/)
 * [2025-04-02, 12:41:43](https://news.ycombinator.com/item?id=43555994) - [Scaling Up Reinforcement Learning for Traffic Smoothing](https://bair.berkeley.edu/blog/2025/03/25/rl-av-smoothing/)
 * [2025-04-02, 11:04:55](https://news.ycombinator.com/item?id=43555474) - [The Soul of an Old Machine](https://thechipletter.substack.com/p/the-soul-of-an-old-machine)
-* [2025-04-02, 10:29:46](https://news.ycombinator.com/item?id=43555311) - [The Fifth Kind of Optimisation](https://tratt.net/laurie/blog/2025/the_fifth_kind_of_optimisation.html)
 * [2025-04-02, 10:18:42](https://news.ycombinator.com/item?id=43555249) - [Ferron – a fast, memory-safe web server written in Rust](https://github.com/ferronweb/ferron)
 * [2025-04-02, 06:44:17](https://news.ycombinator.com/item?id=43554214) - [Sparks – A typeface for creating sparklines in text without code](https://github.com/aftertheflood/sparks)
 * [2025-04-01, 12:06:56](https://news.ycombinator.com/item?id=43545757) - [Why Does Claude Speak Byzantine Music Notation?](https://fi-le.net/byzantine/)
 * [2025-04-01, 11:54:34](https://news.ycombinator.com/item?id=43545674) - [How Airbnb measures listing lifetime value](https://medium.com/airbnb-engineering/how-airbnb-measures-listing-lifetime-value-a603bf05142c)
 * [2025-04-01, 04:59:46](https://news.ycombinator.com/item?id=43543007) - [The DDA Algorithm, explained interactively](https://aaaa.sh/creatures/dda-algorithm-interactive)
-* [2025-03-31, 22:25:54](https://news.ycombinator.com/item?id=43540626) - [Study finds solo music listening boosts social well-being](https://phys.org/news/2025-03-solo-music-boosts-social.html)
 * [2025-03-31, 19:30:29](https://news.ycombinator.com/item?id=43538853) - [New antibiotic that kills drug-resistant bacteria found in technician's garden](https://www.nature.com/articles/d41586-025-00945-z)
 
 ## [Archives](archives/index.md)
