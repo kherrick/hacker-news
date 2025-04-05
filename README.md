@@ -11,7 +11,6 @@
 * [2025-04-05, 05:31:45](https://news.ycombinator.com/item?id=43591050) - [Recreating Daft Punk's Something About Us](https://thoughts-and-things.ghost.io/recreating-daft-punks-something-about-us/)
 * [2025-04-05, 05:22:33](https://news.ycombinator.com/item?id=43590998) - [Show HN: OCR pipeline for ML training (tables, diagrams, math, multilingual)](https://github.com/ses4255/Versatile-OCR-Program)
 * [2025-04-05, 02:15:35](https://news.ycombinator.com/item?id=43589989) - [OpenVertebrate Presents a Database of 13,000 3D Scans of Specimens](https://www.openculture.com/2024/03/openvertebrate-presents-a-massive-database-of-13000-3d-scans-of-vertebrate-specimens.html)
-* [2025-04-05, 00:25:12](https://news.ycombinator.com/item?id=43589156) - [Investigating MacPaint's Source Code](https://ztoz.blog/posts/macpaint-source-code/)
 * [2025-04-05, 00:04:28](https://news.ycombinator.com/item?id=43589042) - [Annotated Unix Magic Poster](https://unixmagic.net/)
 * [2025-04-04, 22:32:13](https://news.ycombinator.com/item?id=43588420) - [Show HN: Clawtype v2.1 – a one-hand chorded USB keyboard and mouse [video]](https://www.youtube.com/watch?v=N2PSiOl-auM)
 * [2025-04-04, 20:37:35](https://news.ycombinator.com/item?id=43587380) - [The blissful Zen of a good side project](https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project)
@@ -28,6 +27,7 @@
 * [2025-04-02, 06:44:17](https://news.ycombinator.com/item?id=43554214) - [Sparks – A typeface for creating sparklines in text without code](https://github.com/aftertheflood/sparks)
 * [2025-04-01, 18:37:52](https://news.ycombinator.com/item?id=43550072) - [World's largest wildlife crossing reaches critical milestone. Now what?](https://www.yahoo.com/news/worlds-largest-wildlife-crossing-reaches-100046299.html)
 * [2025-04-01, 18:20:56](https://news.ycombinator.com/item?id=43549893) - [The Importance of Fact-Checking](https://lithub.com/on-the-episode-that-changed-ira-glasss-this-american-life-forever/)
+* [2025-04-01, 17:33:13](https://news.ycombinator.com/item?id=43549469) - [The Tennessee Conservationist Jul/Aug 2020: Jumping Spiders](https://digital.tnconservationist.org/publication/?i=663361&article_id=3697028&view=articleBrowser)
 * [2025-04-01, 12:06:56](https://news.ycombinator.com/item?id=43545757) - [Why Does Claude Speak Byzantine Music Notation?](https://fi-le.net/byzantine/)
 * [2025-04-01, 04:59:46](https://news.ycombinator.com/item?id=43543007) - [The DDA Algorithm, explained interactively](https://aaaa.sh/creatures/dda-algorithm-interactive)
 
