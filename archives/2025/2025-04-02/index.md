@@ -25,6 +25,7 @@
 * [2025-04-02, 19:48:45](https://news.ycombinator.com/item?id=43560751) - [It's Unreal Just How Awful 'Real ID' Is (2020)](https://www.zocalopublicsquare.org/real-id-is-awful/)
 * [2025-04-02, 19:18:48](https://news.ycombinator.com/item?id=43560447) - [Gemini 2.5 gets 24.4% on MathArena USAMO beating previous top score of 4.7%](https://matharena.ai/)
 * [2025-04-02, 19:18:27](https://news.ycombinator.com/item?id=43560446) - [Location data show that race affects citations and fines for speeding](https://www.science.org/doi/10.1126/science.adp5357)
+* [2025-04-02, 19:15:19](https://news.ycombinator.com/item?id=43560421) - [Does the future of AI depend on glass?](https://www.schott.com/en-gb/solutions-magazine/edition-3-2024/unlocking-the-full-potential-of-ai-in-healthcare)
 * [2025-04-02, 19:09:02](https://news.ycombinator.com/item?id=43560336) - [Waltz's team set up at least 20 Signal group chats for crises across the world](https://www.politico.com/news/2025/04/02/waltzs-team-set-up-at-least-20-signal-group-chats-for-crises-across-the-world-00266845)
 * [2025-04-02, 18:43:14](https://news.ycombinator.com/item?id=43559986) - [Item Flow, Part 1: A new unified concept for layout](https://webkit.org/blog/16587/item-flow-part-1-a-new-unified-concept-for-layout/)
 * [2025-04-02, 18:34:22](https://news.ycombinator.com/item?id=43559855) - [Restructuring Announcement](https://automattic.com/2025/04/02/restructuring-announcement/)
