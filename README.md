@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-05, 13:58:18](https://news.ycombinator.com/item?id=43593596) - [A Vision for WebAssembly Support in Swift](https://forums.swift.org/t/pitch-a-vision-for-webassembly-support-in-swift/79060)
-* [2025-04-05, 13:47:51](https://news.ycombinator.com/item?id=43593508) - [Making OCaml Safe for Performance Engineering [video]](https://www.youtube.com/watch?v=g3qd4zpm1LA)
+* [2025-04-05, 13:22:37](https://news.ycombinator.com/item?id=43593269) - [A Comparative Analysis of K3s, MicroK8s, and Alternatives](https://htdocs.dev/posts/kubernetes-deployment-strategies-for-small-businesses-on-hetzner-cloud-a-comparative-analysis-of-k3s-microk8s-and-alternatives/)
+* [2025-04-05, 12:55:00](https://news.ycombinator.com/item?id=43593088) - [Compilers: Incrementally and Extensibly](https://okmij.org/ftp/tagless-final/Compiler/index.html)
 * [2025-04-05, 10:57:00](https://news.ycombinator.com/item?id=43592409) - [Emulating an iPhone in QEMU](https://eshard.com/posts/emulating-ios-14-with-qemu)
 * [2025-04-05, 08:22:46](https://news.ycombinator.com/item?id=43591866) - [Protoplanetary Disks Are Smaller Than Expected](https://www.centauri-dreams.org/2025/04/04/protoplanetary-disks-are-smaller-than-expected/)
 * [2025-04-05, 06:08:59](https://news.ycombinator.com/item?id=43591246) - [Pytest for Neovim](https://github.com/richardhapb/pytest.nvim)
@@ -18,7 +19,6 @@
 * [2025-04-04, 15:59:28](https://news.ycombinator.com/item?id=43584303) - [Kerosene did not save the sperm whale (2024)](https://edconway.substack.com/p/no-kerosene-did-not-save-the-sperm)
 * [2025-04-04, 15:03:04](https://news.ycombinator.com/item?id=43583478) - [Show HN: uWrap.js – A faster and more accurate text wrapping util in < 2KB](https://github.com/leeoniya/uWrap)
 * [2025-04-02, 12:41:59](https://news.ycombinator.com/item?id=43555996) - [Coolify: Open-source and self-hostable Heroku / Netlify / Vercel alternative](https://coolify.io/)
-* [2025-04-02, 12:41:43](https://news.ycombinator.com/item?id=43555994) - [Scaling Up Reinforcement Learning for Traffic Smoothing](https://bair.berkeley.edu/blog/2025/03/25/rl-av-smoothing/)
 * [2025-04-02, 12:11:47](https://news.ycombinator.com/item?id=43555820) - [Show HN: Pets for Cursor](https://news.ycombinator.com/item?id=43555820)
 * [2025-04-02, 12:00:39](https://news.ycombinator.com/item?id=43555760) - [Configuration Complexity Clock (2012)](http://mikehadlow.blogspot.com/2012/05/configuration-complexity-clock.html)
 * [2025-04-02, 11:23:42](https://news.ycombinator.com/item?id=43555552) - [Scientists witness living plant cells generate cellulose and form cell walls](https://phys.org/news/2025-03-scientists-witness-cells-generate-cellulose.html)
