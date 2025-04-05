@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-05, 08:56:33](https://news.ycombinator.com/item?id=43592003) - [Public domain technical books published before 1964](http://www.tubebooks.org/technical_books_online.htm)
+* [2025-04-05, 08:22:46](https://news.ycombinator.com/item?id=43591866) - [Protoplanetary Disks Are Smaller Than Expected](https://www.centauri-dreams.org/2025/04/04/protoplanetary-disks-are-smaller-than-expected/)
 * [2025-04-05, 06:08:59](https://news.ycombinator.com/item?id=43591246) - [Pytest for Neovim](https://github.com/richardhapb/pytest.nvim)
 * [2025-04-05, 06:03:40](https://news.ycombinator.com/item?id=43591225) - [Nebula Sans](https://nebulasans.com/)
 * [2025-04-05, 05:33:10](https://news.ycombinator.com/item?id=43591060) - [Show HN: Corral – A Visual Logic Puzzle About Enclosing Numbers](https://mohammed321.github.io/projects/corral_web/index.html)
@@ -23,13 +24,12 @@
 * [2025-04-02, 12:11:47](https://news.ycombinator.com/item?id=43555820) - [Show HN: Pets for Cursor](https://news.ycombinator.com/item?id=43555820)
 * [2025-04-02, 12:00:39](https://news.ycombinator.com/item?id=43555760) - [Configuration Complexity Clock (2012)](http://mikehadlow.blogspot.com/2012/05/configuration-complexity-clock.html)
 * [2025-04-02, 11:29:59](https://news.ycombinator.com/item?id=43555597) - [Cell Phone OPSEC for Border Crossings](https://www.schneier.com/blog/archives/2025/04/cell-phone-opsec-for-border-crossings.html)
+* [2025-04-02, 11:23:42](https://news.ycombinator.com/item?id=43555552) - [Scientists witness living plant cells generate cellulose and form cell walls](https://phys.org/news/2025-03-scientists-witness-cells-generate-cellulose.html)
 * [2025-04-02, 11:04:55](https://news.ycombinator.com/item?id=43555474) - [The Soul of an Old Machine](https://thechipletter.substack.com/p/the-soul-of-an-old-machine)
 * [2025-04-02, 10:18:42](https://news.ycombinator.com/item?id=43555249) - [Ferron – A fast, memory-safe web server written in Rust](https://github.com/ferronweb/ferron)
 * [2025-04-02, 06:44:17](https://news.ycombinator.com/item?id=43554214) - [Sparks – A typeface for creating sparklines in text without code](https://github.com/aftertheflood/sparks)
 * [2025-04-01, 12:06:56](https://news.ycombinator.com/item?id=43545757) - [Why Does Claude Speak Byzantine Music Notation?](https://fi-le.net/byzantine/)
-* [2025-04-01, 11:54:34](https://news.ycombinator.com/item?id=43545674) - [How Airbnb measures listing lifetime value](https://medium.com/airbnb-engineering/how-airbnb-measures-listing-lifetime-value-a603bf05142c)
 * [2025-04-01, 04:59:46](https://news.ycombinator.com/item?id=43543007) - [The DDA Algorithm, explained interactively](https://aaaa.sh/creatures/dda-algorithm-interactive)
-* [2025-03-31, 19:30:29](https://news.ycombinator.com/item?id=43538853) - [New antibiotic that kills drug-resistant bacteria found in technician's garden](https://www.nature.com/articles/d41586-025-00945-z)
 
 ## [Archives](archives/index.md)
 

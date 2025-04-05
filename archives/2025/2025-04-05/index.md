@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-05](index.md)
 
 * [2025-04-05, 08:56:33](https://news.ycombinator.com/item?id=43592003) - [Public domain technical books published before 1964](http://www.tubebooks.org/technical_books_online.htm)
+* [2025-04-05, 08:22:46](https://news.ycombinator.com/item?id=43591866) - [Protoplanetary Disks Are Smaller Than Expected](https://www.centauri-dreams.org/2025/04/04/protoplanetary-disks-are-smaller-than-expected/)
 * [2025-04-05, 06:08:59](https://news.ycombinator.com/item?id=43591246) - [Pytest for Neovim](https://github.com/richardhapb/pytest.nvim)
 * [2025-04-05, 06:03:40](https://news.ycombinator.com/item?id=43591225) - [Nebula Sans](https://nebulasans.com/)
 * [2025-04-05, 05:33:10](https://news.ycombinator.com/item?id=43591060) - [Show HN: Corral – A Visual Logic Puzzle About Enclosing Numbers](https://mohammed321.github.io/projects/corral_web/index.html)
