@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-05, 11:53:05",
+      "https://news.ycombinator.com/item?id=43592661"
+    ],
+    [
+      "California now has more EV charging ports than gas nozzles",
+      "https://www.latimes.com/california/story/2025-03-26/california-now-has-more-ev-charging-ports-than-gas-nozzles"
+    ]
+  ],
+  [
+    [
+      "2025-04-05, 11:31:56",
+      "https://news.ycombinator.com/item?id=43592540"
+    ],
+    [
+      "Interview Coder is an invisible AI for technical interviews",
+      "https://www.interviewcoder.co/"
+    ]
+  ],
+  [
+    [
       "2025-04-05, 11:10:14",
       "https://news.ycombinator.com/item?id=43592462"
     ],
@@ -11,12 +31,12 @@
   ],
   [
     [
-      "2025-04-05, 11:07:50",
-      "https://news.ycombinator.com/item?id=43592454"
+      "2025-04-05, 10:55:16",
+      "https://news.ycombinator.com/item?id=43592406"
     ],
     [
-      "Europe needs its own social media platforms to safeguard sovereignty",
-      "https://mediascope.group/europe-needs-its-own-social-media-platforms-to-safeguard-sovereignty/"
+      "Tariffs Can Help America",
+      "https://www.foreignaffairs.com/united-states/how-tariffs-can-help-america"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "Major endometriosis study reveals impact of gluten, coffee, dairy and alcohol",
       "https://www.theguardian.com/society/2025/apr/05/major-endometriosis-study-reveals-impact-of-gluten-coffee-dairy-and-alcohol"
-    ]
-  ],
-  [
-    [
-      "2025-04-05, 08:56:33",
-      "https://news.ycombinator.com/item?id=43592003"
-    ],
-    [
-      "Public domain technical books published before 1964",
-      "http://www.tubebooks.org/technical_books_online.htm"
     ]
   ],
   [
@@ -61,12 +71,12 @@
   ],
   [
     [
-      "2025-04-05, 06:03:40",
-      "https://news.ycombinator.com/item?id=43591225"
+      "2025-04-05, 05:33:10",
+      "https://news.ycombinator.com/item?id=43591060"
     ],
     [
-      "Nebula Sans",
-      "https://nebulasans.com/"
+      "Show HN: Corral – A Visual Logic Puzzle About Enclosing Numbers",
+      "https://mohammed321.github.io/projects/corral_web/index.html"
     ]
   ],
   [
@@ -101,22 +111,12 @@
   ],
   [
     [
-      "2025-04-05, 01:50:09",
-      "https://news.ycombinator.com/item?id=43589776"
+      "2025-04-05, 00:25:12",
+      "https://news.ycombinator.com/item?id=43589156"
     ],
     [
-      "Learn electricity and electronics fundamentals without taking a formal course",
-      "https://simonmonk.org/tyee7"
-    ]
-  ],
-  [
-    [
-      "2025-04-05, 00:18:30",
-      "https://news.ycombinator.com/item?id=43589119"
-    ],
-    [
-      "404s – gallery of error 404 page designs",
-      "https://www.404s.design/"
+      "Investigating MacPaint's Source Code",
+      "https://ztoz.blog/posts/macpaint-source-code/"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2025-04-02, 11:29:59",
-      "https://news.ycombinator.com/item?id=43555597"
-    ],
-    [
-      "Cell Phone OPSEC for Border Crossings",
-      "https://www.schneier.com/blog/archives/2025/04/cell-phone-opsec-for-border-crossings.html"
-    ]
-  ],
-  [
-    [
       "2025-04-02, 11:23:42",
       "https://news.ycombinator.com/item?id=43555552"
     ],
@@ -257,6 +247,16 @@
     [
       "Ferron – A fast, memory-safe web server written in Rust",
       "https://github.com/ferronweb/ferron"
+    ]
+  ],
+  [
+    [
+      "2025-04-02, 06:44:17",
+      "https://news.ycombinator.com/item?id=43554214"
+    ],
+    [
+      "Sparks – A typeface for creating sparklines in text without code",
+      "https://github.com/aftertheflood/sparks"
     ]
   ],
   [
