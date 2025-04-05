@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-05](index.md)
 
+* [2025-04-05, 06:08:59](https://news.ycombinator.com/item?id=43591246) - [Pytest for Neovim](https://github.com/richardhapb/pytest.nvim)
 * [2025-04-05, 06:03:40](https://news.ycombinator.com/item?id=43591225) - [Nebula Sans](https://nebulasans.com/)
+* [2025-04-05, 05:33:10](https://news.ycombinator.com/item?id=43591060) - [Show HN: Corral – A Visual Logic Puzzle About Enclosing Numbers](https://mohammed321.github.io/projects/corral_web/index.html)
 * [2025-04-05, 05:31:45](https://news.ycombinator.com/item?id=43591050) - [Recreating Daft Punk's Something About Us](https://thoughts-and-things.ghost.io/recreating-daft-punks-something-about-us/)
 * [2025-04-05, 05:22:33](https://news.ycombinator.com/item?id=43590998) - [Show HN: OCR pipeline for ML training (tables, diagrams, math, multilingual)](https://github.com/ses4255/Versatile-OCR-Program)
 * [2025-04-05, 05:17:56](https://news.ycombinator.com/item?id=43590973) - [I don't like traveling anymore](https://sidverma.io/posts/i-dont-like-traveling-anymore/)
