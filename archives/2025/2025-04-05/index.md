@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-05](index.md)
 
+* [2025-04-05, 14:46:19](https://news.ycombinator.com/item?id=43593913) - [SpacetimeDB v1.0: Multiplayer at the speed of light](https://github.com/clockworklabs/SpacetimeDB)
 * [2025-04-05, 14:34:31](https://news.ycombinator.com/item?id=43593840) - [Mammoth de-extinction is bad conservation](https://arstechnica.com/science/2025/04/editorial-mammoth-de-extinction-is-bad-conservation/)
 * [2025-04-05, 13:58:18](https://news.ycombinator.com/item?id=43593596) - [A Vision for WebAssembly Support in Swift](https://forums.swift.org/t/pitch-a-vision-for-webassembly-support-in-swift/79060)
 * [2025-04-05, 13:47:51](https://news.ycombinator.com/item?id=43593508) - [Making OCaml Safe for Performance Engineering [video]](https://www.youtube.com/watch?v=g3qd4zpm1LA)
