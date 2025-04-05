@@ -23,7 +23,7 @@
 * [2025-04-02, 11:29:59](https://news.ycombinator.com/item?id=43555597) - [Cell Phone OPSEC for Border Crossings](https://www.schneier.com/blog/archives/2025/04/cell-phone-opsec-for-border-crossings.html)
 * [2025-04-02, 11:04:55](https://news.ycombinator.com/item?id=43555474) - [The Soul of an Old Machine](https://thechipletter.substack.com/p/the-soul-of-an-old-machine)
 * [2025-04-02, 10:29:46](https://news.ycombinator.com/item?id=43555311) - [The Fifth Kind of Optimisation](https://tratt.net/laurie/blog/2025/the_fifth_kind_of_optimisation.html)
-* [2025-04-02, 10:18:42](https://news.ycombinator.com/item?id=43555249) - [Ferron – a fast, memory-safe web server written in Rust](https://github.com/ferronweb/ferron)
+* [2025-04-02, 10:18:42](https://news.ycombinator.com/item?id=43555249) - [Ferron – A fast, memory-safe web server written in Rust](https://github.com/ferronweb/ferron)
 * [2025-04-02, 06:44:17](https://news.ycombinator.com/item?id=43554214) - [Sparks – A typeface for creating sparklines in text without code](https://github.com/aftertheflood/sparks)
 * [2025-04-01, 12:06:56](https://news.ycombinator.com/item?id=43545757) - [Why Does Claude Speak Byzantine Music Notation?](https://fi-le.net/byzantine/)
 * [2025-04-01, 11:54:34](https://news.ycombinator.com/item?id=43545674) - [How Airbnb measures listing lifetime value](https://medium.com/airbnb-engineering/how-airbnb-measures-listing-lifetime-value-a603bf05142c)
