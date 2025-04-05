@@ -77,6 +77,7 @@
 * [2025-04-02, 11:50:00](https://news.ycombinator.com/item?id=43555696) - [US labour watchdog halts Apple cases after US picks group's lawyer for top job](https://www.ft.com/content/ad7fcc22-343e-47e3-a6f3-58bfd4294c9d)
 * [2025-04-02, 10:52:00](https://news.ycombinator.com/item?id=43555409) - [Show HN: I made a platform to load and performance test API's](https://buzzbench.io/)
 * [2025-04-02, 10:33:20](https://news.ycombinator.com/item?id=43555334) - [RIP Val Kilmer: Real Genius .. the Film Nerd Culture Deserves (2015)](https://reactormag.com/30-years-later-real-genius-is-still-the-geek-solidarity-film-that-nerd-culture-deserves/)
+* [2025-04-02, 10:29:46](https://news.ycombinator.com/item?id=43555311) - [The Fifth Kind of Optimisation](https://tratt.net/laurie/blog/2025/the_fifth_kind_of_optimisation.html)
 * [2025-04-02, 10:25:18](https://news.ycombinator.com/item?id=43555286) - [Coffea stenophylla: A forgotten bean that could save coffee from extinction](https://www.smithsonianmag.com/science-nature/how-forgotten-bean-could-save-coffee-from-extinction-180986230/)
 * [2025-04-02, 10:18:08](https://news.ycombinator.com/item?id=43555248) - [UCSD: Large Language Models Pass the Turing Test](https://arxiv.org/abs/2503.23674)
 * [2025-04-02, 10:13:48](https://news.ycombinator.com/item?id=43555220) - [Supervisors Often Prefer Rule Breakers—Up to a Point](https://journals.aom.org/doi/10.5465/amd.2022.0280.summary)

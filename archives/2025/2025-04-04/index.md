@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-04](index.md)
 
+* [2025-04-04, 23:52:18](https://news.ycombinator.com/item?id=43588970) - [The 'Judicial Black Hole' of El Salvador's Prisons Is a Warning for Americans](https://www.rollingstone.com/politics/politics-features/el-salvador-prisons-warning-americans-trump-1235309721/)
 * [2025-04-04, 22:32:13](https://news.ycombinator.com/item?id=43588420) - [Show HN: Clawtype v2.1 – a one-hand chorded USB keyboard and mouse [video]](https://www.youtube.com/watch?v=N2PSiOl-auM)
 * [2025-04-04, 21:30:23](https://news.ycombinator.com/item?id=43587780) - [Show HN: SwiftHive – A Swift Package Registry for Faster Builds](https://swifthive.l18.dev/)
 * [2025-04-04, 21:09:50](https://news.ycombinator.com/item?id=43587628) - [A Man Out to Prove How Dumb AI Still Is](https://www.theatlantic.com/technology/archive/2025/04/arc-agi-chollet-test/682295/)
