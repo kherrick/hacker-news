@@ -19,6 +19,7 @@
 * [2025-04-01, 20:10:08](https://news.ycombinator.com/item?id=43550843) - [Ask HN: Are Squarespace and Wix sites worth it?](https://news.ycombinator.com/item?id=43550843)
 * [2025-04-01, 19:33:38](https://news.ycombinator.com/item?id=43550556) - [Silica Gel Took over the World](https://www.scopeofwork.net/silica-gel/)
 * [2025-04-01, 18:40:47](https://news.ycombinator.com/item?id=43550098) - [Dave Täht has passed away](https://libreqos.io/2025/04/01/in-loving-memory-of-dave/)
+* [2025-04-01, 18:37:52](https://news.ycombinator.com/item?id=43550072) - [World's largest wildlife crossing reaches critical milestone. Now what?](https://www.yahoo.com/news/worlds-largest-wildlife-crossing-reaches-100046299.html)
 * [2025-04-01, 18:28:31](https://news.ycombinator.com/item?id=43549983) - [Show HN: Make SVGs interactive in React with 1 line](https://svggles.vercel.app/)
 * [2025-04-01, 17:48:45](https://news.ycombinator.com/item?id=43549618) - [Show HN: Zig Topological Sort Library for Parallel Processing](https://github.com/williamw520/toposort)
 * [2025-04-01, 17:19:48](https://news.ycombinator.com/item?id=43549293) - [The Myst Graph: A New Perspective on Myst](https://glthr.com/myst-graph-1)
