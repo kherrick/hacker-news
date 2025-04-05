@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-05](index.md)
 
+* [2025-04-05, 18:33:56](https://news.ycombinator.com/item?id=43595585) - [Llama4](https://www.llama.com/llama4/)
 * [2025-04-05, 18:02:08](https://news.ycombinator.com/item?id=43595299) - [Nissan eyes shifting Rogue production to U.S. due to tariffs](https://asia.nikkei.com/Business/Transportation/Nissan-eyes-shifting-Rogue-production-to-U.S.-due-to-Trump-tariffs)
 * [2025-04-05, 18:01:46](https://news.ycombinator.com/item?id=43595293) - [NASA's Project Scientist Faces Painful Choices as Voyager Mission Nears Its End](https://gizmodo.com/keeping-voyager-alive-nasas-project-scientist-faces-painful-choices-as-the-iconic-mission-nears-its-end-2000580634)
 * [2025-04-05, 17:57:46](https://news.ycombinator.com/item?id=43595269) - [What If We Made Advertising Illegal?](https://simone.org/advertising/)
@@ -18,6 +19,7 @@
 * [2025-04-05, 14:26:02](https://news.ycombinator.com/item?id=43593789) - [Show HN: I built a word game. My mom thinks it's great. What do you think?](https://www.whatsit.today/)
 * [2025-04-05, 14:05:53](https://news.ycombinator.com/item?id=43593643) - [The Last Solo Programmers](https://cacm.acm.org/blogcacm/the-last-solo-programmers/)
 * [2025-04-05, 13:58:18](https://news.ycombinator.com/item?id=43593596) - [A Vision for WebAssembly Support in Swift](https://forums.swift.org/t/pitch-a-vision-for-webassembly-support-in-swift/79060)
+* [2025-04-05, 13:51:57](https://news.ycombinator.com/item?id=43593547) - [Database Protocols Are Underwhelming](https://byroot.github.io/performance/2025/03/21/database-protocols.html)
 * [2025-04-05, 13:47:51](https://news.ycombinator.com/item?id=43593508) - [Making OCaml Safe for Performance Engineering [video]](https://www.youtube.com/watch?v=g3qd4zpm1LA)
 * [2025-04-05, 13:22:37](https://news.ycombinator.com/item?id=43593269) - [A Comparative Analysis of K3s, MicroK8s, and Alternatives](https://htdocs.dev/posts/kubernetes-deployment-strategies-for-small-businesses-on-hetzner-cloud-a-comparative-analysis-of-k3s-microk8s-and-alternatives/)
 * [2025-04-05, 13:07:39](https://news.ycombinator.com/item?id=43593159) - [Anti-Poverty Groups ID Property Taxes as Culprit in Affordable Housing Shortage](https://www.thecity.nyc/2025/03/31/housing-crisis-property-taxes-rents/)
