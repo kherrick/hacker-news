@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-04-05, 14:05:53",
+      "https://news.ycombinator.com/item?id=43593643"
+    ],
+    [
+      "The Last Solo Programmers",
+      "https://cacm.acm.org/blogcacm/the-last-solo-programmers/"
+    ]
+  ],
+  [
+    [
       "2025-04-05, 13:58:18",
       "https://news.ycombinator.com/item?id=43593596"
     ],
@@ -227,16 +237,6 @@
     [
       "Is Python Code Sensitive to CPU Caching? (2024)",
       "https://lukasatkinson.de/2024/python-cpu-caching/"
-    ]
-  ],
-  [
-    [
-      "2025-04-02, 06:44:17",
-      "https://news.ycombinator.com/item?id=43554214"
-    ],
-    [
-      "Sparks – A typeface for creating sparklines in text without code",
-      "https://github.com/aftertheflood/sparks"
     ]
   ],
   [
