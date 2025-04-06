@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-04-06, 06:56:11",
-      "https://news.ycombinator.com/item?id=43599471"
-    ],
-    [
-      "Get on the Bus: Data Busses Used in Macs, 1984 to 2000 – Low End Mac",
-      "https://lowendmac.com/2025/get-on-the-bus-data-busses-used-in-macs-1984-to-2000/"
-    ]
-  ],
-  [
-    [
       "2025-04-06, 06:55:55",
       "https://news.ycombinator.com/item?id=43599470"
     ],
@@ -107,6 +97,16 @@
     [
       "North America Is Dripping from Below, Geoscientists Discover",
       "https://www.jsg.utexas.edu/news/2025/04/north-america-is-dripping-from-below-geoscientists-discover/"
+    ]
+  ],
+  [
+    [
+      "2025-04-05, 20:24:03",
+      "https://news.ycombinator.com/item?id=43596543"
+    ],
+    [
+      "Open Source Coalition Announces 'Model-Signing' to Strengthen ML Supply Chain",
+      "https://pypi.org/project/model-signing/"
     ]
   ],
   [
@@ -221,22 +221,22 @@
   ],
   [
     [
-      "2025-04-04, 04:32:52",
-      "https://news.ycombinator.com/item?id=43578348"
-    ],
-    [
-      "What's in that bright red fire retardant? No one will say, so we had it tested",
-      "https://laist.com/news/climate-environment/how-much-toxic-heavy-metal-is-in-that-bright-red-fire-retardant-we-had-it-tested-to-find-out"
-    ]
-  ],
-  [
-    [
       "2025-04-03, 18:25:48",
       "https://news.ycombinator.com/item?id=43573507"
     ],
     [
       "The order of files in /etc/ssh/sshd_config.d/ matters",
       "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHConfigOrderMatters"
+    ]
+  ],
+  [
+    [
+      "2025-04-03, 16:32:32",
+      "https://news.ycombinator.com/item?id=43572134"
+    ],
+    [
+      "Show HN: LocalScore – Local LLM Benchmark",
+      "https://www.localscore.ai/download"
     ]
   ],
   [
