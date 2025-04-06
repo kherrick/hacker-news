@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-06, 08:53:41",
+      "https://news.ycombinator.com/item?id=43599967"
+    ],
+    [
+      "SeedLM: Compressing LLM Weights into Seeds of Pseudo-Random Generators",
+      "https://machinelearning.apple.com/research/seedlm-compressing"
+    ]
+  ],
+  [
+    [
       "2025-04-06, 07:38:49",
       "https://news.ycombinator.com/item?id=43599649"
     ],
@@ -17,6 +27,16 @@
     [
       "Standard Ebooks: liberated ebooks, carefully produced for the true book lover",
       "https://standardebooks.org"
+    ]
+  ],
+  [
+    [
+      "2025-04-06, 07:31:27",
+      "https://news.ycombinator.com/item?id=43599613"
+    ],
+    [
+      "My Browser WASM't Prepared for This. Using DuckDB, Apache Arrow and Web Workers",
+      "https://motifanalytics.medium.com/my-browser-wasmt-prepared-for-this-using-duckdb-apache-arrow-and-web-workers-in-real-life-e3dd4695623d"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-04-05, 12:55:00",
-      "https://news.ycombinator.com/item?id=43593088"
-    ],
-    [
-      "Compilers: Incrementally and Extensibly (2024)",
-      "https://okmij.org/ftp/tagless-final/Compiler/index.html"
-    ]
-  ],
-  [
-    [
       "2025-04-05, 10:57:00",
       "https://news.ycombinator.com/item?id=43592409"
     ],
@@ -191,22 +201,22 @@
   ],
   [
     [
-      "2025-04-05, 05:31:45",
-      "https://news.ycombinator.com/item?id=43591050"
-    ],
-    [
-      "Recreating Daft Punk's Something About Us",
-      "https://thoughts-and-things.ghost.io/recreating-daft-punks-something-about-us/"
-    ]
-  ],
-  [
-    [
       "2025-04-04, 14:41:48",
       "https://news.ycombinator.com/item?id=43583134"
     ],
     [
       "Understanding Hydration Errors by Building a SSR React Project",
       "https://www.propelauth.com/post/understanding-hydration-errors"
+    ]
+  ],
+  [
+    [
+      "2025-04-04, 08:54:05",
+      "https://news.ycombinator.com/item?id=43579777"
+    ],
+    [
+      "What is an Ethernet cable? Here's how to connect to the internet without Wi-Fi",
+      "https://www.businessinsider.com/guides/tech/what-is-an-ethernet-cable"
     ]
   ],
   [
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2025-04-02, 23:15:25",
-      "https://news.ycombinator.com/item?id=43562894"
-    ],
-    [
-      "Rich Text, Poor Text (2013)",
-      "https://laemeur.sdf.org/words/D29.html"
-    ]
-  ],
-  [
-    [
       "2025-04-02, 10:40:33",
       "https://news.ycombinator.com/item?id=43555365"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2025-04-02, 08:49:44",
-      "https://news.ycombinator.com/item?id=43554789"
+      "2025-04-02, 10:00:04",
+      "https://news.ycombinator.com/item?id=43555154"
     ],
     [
-      "Identifying a defective RAM IC on laptops with soldered memory",
-      "https://blog.piernov.org/identifying-defective-ram-ic/"
+      "A New Proof Smooths Out the Math of Melting",
+      "https://www.quantamagazine.org/a-new-proof-smooths-out-the-math-of-melting-20250331/"
     ]
   ],
   [
