@@ -72,6 +72,7 @@
 * [2025-04-02, 13:15:39](https://news.ycombinator.com/item?id=43556339) - [PowerToys Command Palette Utility](https://learn.microsoft.com/en-us/windows/powertoys/command-palette/overview)
 * [2025-04-02, 13:13:14](https://news.ycombinator.com/item?id=43556305) - [Kindle as a High-Contrast GPS](https://www.instructables.com/Use-Your-Kindle-or-Other-Ebook-As-a-High-Visibilit/)
 * [2025-04-02, 13:10:40](https://news.ycombinator.com/item?id=43556280) - [A steam locomotive from 1993 broke my yarn test](https://blog.cloudflare.com/yarn-test-suffers-strange-derailment/)
+* [2025-04-02, 12:49:09](https://news.ycombinator.com/item?id=43556067) - [Brushing Up on Hardware Hacking – Reverse Engineering Electric Toothbrushes](https://voidstarsec.com/blog/pifex-pigen)
 * [2025-04-02, 12:45:04](https://news.ycombinator.com/item?id=43556029) - [Practical Binary Analysis](https://practicalbinaryanalysis.com)
 * [2025-04-02, 12:41:59](https://news.ycombinator.com/item?id=43555996) - [Coolify: Open-source and self-hostable Heroku / Netlify / Vercel alternative](https://coolify.io/)
 * [2025-04-02, 12:41:43](https://news.ycombinator.com/item?id=43555994) - [Scaling Up Reinforcement Learning for Traffic Smoothing](https://bair.berkeley.edu/blog/2025/03/25/rl-av-smoothing/)
