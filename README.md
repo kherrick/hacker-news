@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-06, 13:51:13](https://news.ycombinator.com/item?id=43601421) - [Self-Driving Teslas Are Fatally Rear-Ending Motorcyclists More Than Any Other](https://fuelarc.com/news-and-features/self-driving-teslas-are-fatally-striking-motorcyclists-more-than-any-other-brand-new-analysis/)
+* [2025-04-06, 13:28:48](https://news.ycombinator.com/item?id=43601301) - [Show HN: I built a Rust crate for running unsafe code safely](https://github.com/brannondorsey/mem-isolate)
 * [2025-04-06, 13:12:59](https://news.ycombinator.com/item?id=43601213) - [How the Atlantic's Jeffrey Goldberg Got Added to the White House Signal Chat](https://www.theguardian.com/us-news/2025/apr/06/signal-group-chat-leak-how-it-happened)
 * [2025-04-06, 13:08:32](https://news.ycombinator.com/item?id=43601190) - [The Mensa Reading List for Grades 9-12](https://onepercentrule.substack.com/p/the-mensa-reading-list-for-grades)
 * [2025-04-06, 09:42:28](https://news.ycombinator.com/item?id=43600192) - [The \"S\" in MCP Stands for Security](https://elenacross7.medium.com/%EF%B8%8F-the-s-in-mcp-stands-for-security-91407b33ed6b)
@@ -28,8 +30,6 @@
 * [2025-04-03, 13:03:02](https://news.ycombinator.com/item?id=43569001) - [Solve the hCaptcha challenge with multimodal large language model](https://news.ycombinator.com/item?id=43569001)
 * [2025-04-03, 08:34:11](https://news.ycombinator.com/item?id=43566651) - [Blacksmithing and Lisp](http://funcall.blogspot.com/2025/04/blacksmithing-and-lisp.html)
 * [2025-04-03, 04:00:27](https://news.ycombinator.com/item?id=43564591) - [Photons, neutrinos, and gravitational-wave astronomy](https://www.as.arizona.edu/~mrenzo/courses/notes-lecture-GWprog.html)
-* [2025-04-01, 18:20:56](https://news.ycombinator.com/item?id=43549893) - [The Importance of Fact-Checking](https://lithub.com/on-the-episode-that-changed-ira-glasss-this-american-life-forever/)
-* [2025-04-01, 17:33:13](https://news.ycombinator.com/item?id=43549469) - [Jumping Spiders](https://digital.tnconservationist.org/publication/?i=663361&article_id=3697028&view=articleBrowser)
 
 ## [Archives](archives/index.md)
 
