@@ -95,6 +95,7 @@
 * [2025-04-02, 10:18:42](https://news.ycombinator.com/item?id=43555249) - [Ferron – a fast, memory-safe web server written in Rust](https://github.com/ferronweb/ferron)
 * [2025-04-02, 10:18:08](https://news.ycombinator.com/item?id=43555248) - [UCSD: Large Language Models Pass the Turing Test](https://arxiv.org/abs/2503.23674)
 * [2025-04-02, 10:13:48](https://news.ycombinator.com/item?id=43555220) - [Supervisors Often Prefer Rule Breakers—Up to a Point](https://journals.aom.org/doi/10.5465/amd.2022.0280.summary)
+* [2025-04-02, 10:00:04](https://news.ycombinator.com/item?id=43555154) - [A New Proof Smooths Out the Math of Melting](https://www.quantamagazine.org/a-new-proof-smooths-out-the-math-of-melting-20250331/)
 * [2025-04-02, 09:53:02](https://news.ycombinator.com/item?id=43555110) - [Is Python Code Sensitive to CPU Caching? (2024)](https://lukasatkinson.de/2024/python-cpu-caching/)
 * [2025-04-02, 08:49:44](https://news.ycombinator.com/item?id=43554789) - [Identifying a defective RAM IC on laptops with soldered memory](https://blog.piernov.org/identifying-defective-ram-ic/)
 * [2025-04-02, 08:46:23](https://news.ycombinator.com/item?id=43554769) - [Show HN: Await-Tree – Visualize Async Rust Task Execution in Real-Time](https://github.com/risingwavelabs/await-tree)
