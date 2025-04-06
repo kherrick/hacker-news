@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2025-04-03, 18:25:48",
+      "https://news.ycombinator.com/item?id=43573507"
+    ],
+    [
+      "The order of files in /etc./SSH/sshd_config.d/ matters (and may surprise you)",
+      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHConfigOrderMatters"
+    ]
+  ],
+  [
+    [
       "2025-04-03, 18:20:59",
       "https://news.ycombinator.com/item?id=43573453"
     ],
@@ -277,16 +287,6 @@
     [
       "Identifying a defective RAM IC on laptops with soldered memory",
       "https://blog.piernov.org/identifying-defective-ram-ic/"
-    ]
-  ],
-  [
-    [
-      "2025-04-01, 18:20:56",
-      "https://news.ycombinator.com/item?id=43549893"
-    ],
-    [
-      "The Importance of Fact-Checking",
-      "https://lithub.com/on-the-episode-that-changed-ira-glasss-this-american-life-forever/"
     ]
   ],
   [
