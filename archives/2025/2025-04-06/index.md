@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-06](index.md)
 
+* [2025-04-06, 22:23:45](https://news.ycombinator.com/item?id=43605476) - [Neurotoxic worms growing up to 3ft long are in Ontario, Canada](https://www.blogto.com/city/2025/04/hammerhead-worms-ontario/)
 * [2025-04-06, 21:30:33](https://news.ycombinator.com/item?id=43605120) - [Microcomputers – The First Wave: Responding to Altair](https://technicshistory.com/2025/04/06/microcomputers-the-first-wave-responding-to-altair/)
 * [2025-04-06, 21:14:09](https://news.ycombinator.com/item?id=43605003) - [Rsync replaced with openrsync on macOS Sequoia](https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/)
 * [2025-04-06, 20:31:55](https://news.ycombinator.com/item?id=43604726) - [Doge's attack on social security causing 'complete, utter chaos', staff says](https://www.theguardian.com/us-news/2025/apr/06/musk-doge-social-security)
