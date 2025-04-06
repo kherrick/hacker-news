@@ -25,10 +25,10 @@
 * [2025-04-04, 04:32:52](https://news.ycombinator.com/item?id=43578348) - [What's in that bright red fire retardant? No one will say, so we had it tested](https://laist.com/news/climate-environment/how-much-toxic-heavy-metal-is-in-that-bright-red-fire-retardant-we-had-it-tested-to-find-out)
 * [2025-04-03, 21:15:03](https://news.ycombinator.com/item?id=43575515) - [Getting the Firmware of a VTech/LeapFrog LeapStart/Magibook](https://leloubil.prose.sh/leapstart-1)
 * [2025-04-03, 18:25:48](https://news.ycombinator.com/item?id=43573507) - [The order of files in /etc./SSH/sshd_config.d/ matters (and may surprise you)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHConfigOrderMatters)
+* [2025-04-03, 04:00:27](https://news.ycombinator.com/item?id=43564591) - [Photons, neutrinos, and gravitational-wave astronomy](https://www.as.arizona.edu/~mrenzo/courses/notes-lecture-GWprog.html)
 * [2025-04-02, 23:15:25](https://news.ycombinator.com/item?id=43562894) - [Rich Text, Poor Text (2013)](https://laemeur.sdf.org/words/D29.html)
 * [2025-04-02, 10:40:33](https://news.ycombinator.com/item?id=43555365) - [Diagnosing bugs preventing sleep on Windows](https://peteronprogramming.wordpress.com/2025/04/02/diagnosing-bugs-preventing-sleep-on-windows/)
 * [2025-04-02, 08:49:44](https://news.ycombinator.com/item?id=43554789) - [Identifying a defective RAM IC on laptops with soldered memory](https://blog.piernov.org/identifying-defective-ram-ic/)
-* [2025-04-01, 18:20:56](https://news.ycombinator.com/item?id=43549893) - [The Importance of Fact-Checking](https://lithub.com/on-the-episode-that-changed-ira-glasss-this-american-life-forever/)
 * [2025-04-01, 17:33:13](https://news.ycombinator.com/item?id=43549469) - [Jumping Spiders](https://digital.tnconservationist.org/publication/?i=663361&article_id=3697028&view=articleBrowser)
 
 ## [Archives](archives/index.md)
