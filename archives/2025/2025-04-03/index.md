@@ -67,6 +67,7 @@
 * [2025-04-03, 04:53:02](https://news.ycombinator.com/item?id=43564890) - [DIY Synths Database](https://diy-synths.snnkv.com/)
 * [2025-04-03, 04:34:36](https://news.ycombinator.com/item?id=43564788) - [News Graveyards: How Dangers to War Reporters Endanger the World](https://watson.brown.edu/costsofwar/papers/2025/Journalists)
 * [2025-04-03, 04:09:48](https://news.ycombinator.com/item?id=43564644) - [Calibrated Basic Income by Derek Van Gorder [pdf]](https://www.greshm.org/files/2025-04-01-calibrated-basic-income.pdf)
+* [2025-04-03, 04:06:57](https://news.ycombinator.com/item?id=43564625) - [Breaking computers taught me to build them. What was your start in computing?](https://danielsada.tech/blog/carreer-part-1-the-foundation-years/)
 * [2025-04-03, 04:00:27](https://news.ycombinator.com/item?id=43564591) - [Photons, neutrinos, and gravitational-wave astronomy](https://www.as.arizona.edu/~mrenzo/courses/notes-lecture-GWprog.html)
 * [2025-04-03, 03:30:30](https://news.ycombinator.com/item?id=43564386) - [Dijkstra On the foolishness of \"natural language programming\"](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
 * [2025-04-03, 03:20:55](https://news.ycombinator.com/item?id=43564327) - [XWine1 – Xbox One Translation Layer for Windows PCs](https://github.com/xwine1)
