@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-06](index.md)
 
+* [2025-04-06, 11:21:40](https://news.ycombinator.com/item?id=43600613) - [ChatGPT-4o used to create a replica of his passport in just 5 mins bypassing KYC](https://securityaffairs.com/176224/security/chatgpt-4o-to-create-a-replica-of-his-passport-in-just-five-minutes.html)
 * [2025-04-06, 11:16:31](https://news.ycombinator.com/item?id=43600582) - [The Insanity of Being a Software Engineer](https://0x1.pt/2025/04/06/the-insanity-of-being-a-software-engineer/)
 * [2025-04-06, 10:57:22](https://news.ycombinator.com/item?id=43600490) - [How to Make Superbabies](https://www.lesswrong.com/posts/DfrSZaf3JC8vJdbZL/how-to-make-superbabies)
 * [2025-04-06, 10:45:08](https://news.ycombinator.com/item?id=43600441) - [Remote Work's Long-Term Effects: Why Dell and Amazon Are Bringing Employees Back](https://timestripe.com/magazine/blog/remote-works-long-term-effects/)

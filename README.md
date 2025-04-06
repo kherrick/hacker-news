@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-06, 11:21:40](https://news.ycombinator.com/item?id=43600613) - [ChatGPT-4o used to create a replica of his passport in just 5 mins bypassing KYC](https://securityaffairs.com/176224/security/chatgpt-4o-to-create-a-replica-of-his-passport-in-just-five-minutes.html)
 * [2025-04-06, 11:16:31](https://news.ycombinator.com/item?id=43600582) - [The Insanity of Being a Software Engineer](https://0x1.pt/2025/04/06/the-insanity-of-being-a-software-engineer/)
 * [2025-04-06, 10:57:22](https://news.ycombinator.com/item?id=43600490) - [How to Make Superbabies](https://www.lesswrong.com/posts/DfrSZaf3JC8vJdbZL/how-to-make-superbabies)
 * [2025-04-06, 09:42:28](https://news.ycombinator.com/item?id=43600192) - [The \"S\" in MCP Stands for Security](https://elenacross7.medium.com/%EF%B8%8F-the-s-in-mcp-stands-for-security-91407b33ed6b)
@@ -29,7 +30,6 @@
 * [2025-04-03, 08:34:11](https://news.ycombinator.com/item?id=43566651) - [Blacksmithing and Lisp](http://funcall.blogspot.com/2025/04/blacksmithing-and-lisp.html)
 * [2025-04-03, 04:00:27](https://news.ycombinator.com/item?id=43564591) - [Photons, neutrinos, and gravitational-wave astronomy](https://www.as.arizona.edu/~mrenzo/courses/notes-lecture-GWprog.html)
 * [2025-04-02, 10:40:33](https://news.ycombinator.com/item?id=43555365) - [Diagnosing bugs preventing sleep on Windows](https://peteronprogramming.wordpress.com/2025/04/02/diagnosing-bugs-preventing-sleep-on-windows/)
-* [2025-04-01, 18:20:56](https://news.ycombinator.com/item?id=43549893) - [The Importance of Fact-Checking](https://lithub.com/on-the-episode-that-changed-ira-glasss-this-american-life-forever/)
 
 ## [Archives](archives/index.md)
 
