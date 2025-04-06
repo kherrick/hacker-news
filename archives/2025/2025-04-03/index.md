@@ -24,6 +24,7 @@
 * [2025-04-03, 18:28:44](https://news.ycombinator.com/item?id=43573539) - [An automatic MCP server for every GitHub project](https://gitmcp.io/)
 * [2025-04-03, 18:23:18](https://news.ycombinator.com/item?id=43573488) - [2025 Recession Indicators Hit Fashion and Wall Street at Once](https://www.marieclaire.com/fashion/recession-2025-fashion-indicators/)
 * [2025-04-03, 18:21:32](https://news.ycombinator.com/item?id=43573465) - [The Slow Collapse of Critical Thinking in OSINT Due to AI](https://www.dutchosintguy.com/post/the-slow-collapse-of-critical-thinking-in-osint-due-to-ai)
+* [2025-04-03, 18:20:59](https://news.ycombinator.com/item?id=43573453) - [Show HN: Owl, a Spaced Repetition App](https://owl.cards)
 * [2025-04-03, 18:07:50](https://news.ycombinator.com/item?id=43573310) - [Tenstorrent Launches Blackhole Developer Products at Tenstorrent Dev Day](https://tenstorrent.com/vision/tenstorrent-launches-blackhole-developer-products-at-tenstorrent-dev-day)
 * [2025-04-03, 18:06:32](https://news.ycombinator.com/item?id=43573299) - [Show HN: Monkeys.zip – 3000 Monkeys on Typewriters](https://monkeys.zip/)
 * [2025-04-03, 17:55:20](https://news.ycombinator.com/item?id=43573156) - [An image of an archeologist adventurer who wears a hat and uses a bullwhip](https://theaiunderwriter.substack.com/p/an-image-of-an-archeologist-adventurer)

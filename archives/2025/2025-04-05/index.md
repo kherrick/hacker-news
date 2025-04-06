@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2025-04-05](index.md)
 
+* [2025-04-05, 23:48:21](https://news.ycombinator.com/item?id=43597790) - [Erica Synths DIY Eurorack Modules](https://github.com/erica-synths/diy-eurorack)
+* [2025-04-05, 23:46:19](https://news.ycombinator.com/item?id=43597778) - [Apple's Darwin OS and XNU Kernel Deep Dive](https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/)
+* [2025-04-05, 22:45:03](https://news.ycombinator.com/item?id=43597425) - [The ADHD Body Double: A Unique Tool for Getting Things Done](https://add.org/the-body-double/)
 * [2025-04-05, 22:04:38](https://news.ycombinator.com/item?id=43597187) - [Setup QEMU Output to Serial Console and Automate Tests with Shell Scripts (2019)](https://fadeevab.com/how-to-setup-qemu-output-to-console-and-automate-using-shell-script/)
 * [2025-04-05, 21:15:00](https://news.ycombinator.com/item?id=43596864) - [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 * [2025-04-05, 20:26:36](https://news.ycombinator.com/item?id=43596570) - [We are still using 88x31 buttons](https://ultrasciencelabs.com/lab-notes/why-we-are-still-using-88x31-buttons)
 * [2025-04-05, 20:25:08](https://news.ycombinator.com/item?id=43596555) - [OpenAI's Motion to Dismiss Copyright Claims Rejected by Judge](https://arstechnica.com/tech-policy/2025/04/judge-doesnt-buy-openai-argument-nyts-own-reporting-weakens-copyright-suit/)
 * [2025-04-05, 20:24:09](https://news.ycombinator.com/item?id=43596546) - [North America Is Dripping from Below, Geoscientists Discover](https://www.jsg.utexas.edu/news/2025/04/north-america-is-dripping-from-below-geoscientists-discover/)
 * [2025-04-05, 20:24:03](https://news.ycombinator.com/item?id=43596543) - [Open Source Coalition Announces 'Model-Signing' to Strengthen ML Supply Chain](https://pypi.org/project/model-signing/)
+* [2025-04-05, 20:14:08](https://news.ycombinator.com/item?id=43596476) - [To Do Nothing](https://shilin.ca/to-do-nothing/)
 * [2025-04-05, 20:13:32](https://news.ycombinator.com/item?id=43596470) - [Llama 4 Now Live on Groq](https://groq.com/llama-4-now-live-on-groq-build-fast-at-the-lowest-cost-without-compromise/)
 * [2025-04-05, 18:54:56](https://news.ycombinator.com/item?id=43595858) - [The Llama 4 Herd](https://ai.meta.com/blog/llama-4-multimodal-intelligence/?_fb_noscript=1)
 * [2025-04-05, 18:53:20](https://news.ycombinator.com/item?id=43595838) - [Trump Golf Track](https://trumpgolftrack.com/)
