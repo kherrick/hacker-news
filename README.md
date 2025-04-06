@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-06, 19:42:21](https://news.ycombinator.com/item?id=43604308) - [Gmail E2E is as terrible as expected](https://michal.sapka.pl/2025/gmail-e2e-is-as-terrible-as-expected/)
 * [2025-04-06, 19:02:58](https://news.ycombinator.com/item?id=43604015) - [The Treachery of Image Files (2020)](http://beyondloom.com/blog/images.html)
 * [2025-04-06, 19:01:32](https://news.ycombinator.com/item?id=43603999) - [Gumroad's Interestingly Timed \"Open-Source\" Play](https://tedium.co/2025/04/06/gumroad-open-source-doge-drama/)
 * [2025-04-06, 18:16:35](https://news.ycombinator.com/item?id=43603566) - [Jeff Geerling won't connect his dishwasher to your stupid cloud [video]](https://www.youtube.com/watch?v=5M_hmwBBPnc)
 * [2025-04-06, 18:01:59](https://news.ycombinator.com/item?id=43603453) - [Recent AI model progress feels mostly like bullshit](https://www.lesswrong.com/posts/4mvphwx5pdsZLMmpY/recent-ai-model-progress-feels-mostly-like-bullshit)
+* [2025-04-06, 17:50:07](https://news.ycombinator.com/item?id=43603333) - [SF Mayor Lurie to tech CEOs: 'How can we get you back?'](https://techcrunch.com/2025/04/05/sf-mayor-lurie-to-tech-ceos-how-can-we-get-you-back/)
 * [2025-04-06, 17:24:08](https://news.ycombinator.com/item?id=43603111) - [Federal cuts disrupt repairs to iconic U.S. trails](https://apnews.com/article/pacific-crest-appalachian-trail-federal-layoffs-934a5526570569b625f5d854ec339a04)
 * [2025-04-06, 17:21:54](https://news.ycombinator.com/item?id=43603091) - [Max severity RCE flaw discovered in widely used Apache Parquet](https://www.bleepingcomputer.com/news/security/max-severity-rce-flaw-discovered-in-widely-used-apache-parquet/)
 * [2025-04-06, 17:01:00](https://news.ycombinator.com/item?id=43602940) - [Foundry (YC F24) Is Hiring](https://www.ycombinator.com/companies/foundry/jobs/WvDDlqc-founding-fullstack-engineer-building-the-future-of-browser-agents)
@@ -14,7 +16,6 @@
 * [2025-04-06, 08:53:41](https://news.ycombinator.com/item?id=43599967) - [SeedLM: Compressing LLM Weights into Seeds of Pseudo-Random Generators](https://machinelearning.apple.com/research/seedlm-compressing)
 * [2025-04-06, 07:36:12](https://news.ycombinator.com/item?id=43599637) - [Standard Ebooks: liberated ebooks, carefully produced for the true book lover](https://standardebooks.org)
 * [2025-04-06, 07:31:27](https://news.ycombinator.com/item?id=43599613) - [My Browser WASM't Prepared for This. Using DuckDB, Apache Arrow and Web Workers](https://motifanalytics.medium.com/my-browser-wasmt-prepared-for-this-using-duckdb-apache-arrow-and-web-workers-in-real-life-e3dd4695623d)
-* [2025-04-06, 02:56:16](https://news.ycombinator.com/item?id=43598600) - [Serving Vector Tiles, Fast](https://spatialists.ch/posts/2025/04-05-serving-vector-tiles-fast/)
 * [2025-04-05, 23:46:19](https://news.ycombinator.com/item?id=43597778) - [Apple’s Darwin OS and XNU Kernel Deep Dive](https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/)
 * [2025-04-05, 18:33:56](https://news.ycombinator.com/item?id=43595585) - [The Llama 4 herd](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
 * [2025-04-05, 17:59:55](https://news.ycombinator.com/item?id=43595283) - [Faster interpreters in Go: Catching up with C++](https://planetscale.com/blog/faster-interpreters-in-go-catching-up-with-cpp)
@@ -29,7 +30,6 @@
 * [2025-04-03, 12:34:37](https://news.ycombinator.com/item?id=43568711) - [Thomas Rattigan, short-lived Commodore CEO](https://dfarq.homeip.net/thomas-rattigan-short-lived-commodore-ceo/)
 * [2025-04-03, 08:34:11](https://news.ycombinator.com/item?id=43566651) - [Blacksmithing and Lisp](http://funcall.blogspot.com/2025/04/blacksmithing-and-lisp.html)
 * [2025-04-02, 22:39:46](https://news.ycombinator.com/item?id=43562579) - [Switzerland's vinyl turntable roundabout: Unique road art (2019)](https://www.newlyswissed.com/turntable-roundabout-in-switzerland/)
-* [2025-04-02, 20:26:01](https://news.ycombinator.com/item?id=43561104) - [For a solo funder, I think social is to connect on the internet](https://news.ycombinator.com/item?id=43561104)
 
 ## [Archives](archives/index.md)
 
