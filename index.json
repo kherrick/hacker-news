@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-06, 11:16:31",
+      "https://news.ycombinator.com/item?id=43600582"
+    ],
+    [
+      "The Insanity of Being a Software Engineer",
+      "https://0x1.pt/2025/04/06/the-insanity-of-being-a-software-engineer/"
+    ]
+  ],
+  [
+    [
       "2025-04-06, 10:57:22",
       "https://news.ycombinator.com/item?id=43600490"
     ],
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2025-04-05, 21:15:00",
-      "https://news.ycombinator.com/item?id=43596864"
-    ],
-    [
-      "Rules for Negotiating a Job Offer (2016)",
-      "https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/"
-    ]
-  ],
-  [
-    [
       "2025-04-05, 20:26:36",
       "https://news.ycombinator.com/item?id=43596570"
     ],
@@ -117,16 +117,6 @@
     [
       "North America Is Dripping from Below, Geoscientists Discover",
       "https://www.jsg.utexas.edu/news/2025/04/north-america-is-dripping-from-below-geoscientists-discover/"
-    ]
-  ],
-  [
-    [
-      "2025-04-05, 20:24:03",
-      "https://news.ycombinator.com/item?id=43596543"
-    ],
-    [
-      "Open Source Coalition Announces 'Model-Signing' to Strengthen ML Supply Chain",
-      "https://pypi.org/project/model-signing/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "The order of files in /etc/ssh/sshd_config.d/ matters",
       "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHConfigOrderMatters"
+    ]
+  ],
+  [
+    [
+      "2025-04-03, 14:55:17",
+      "https://news.ycombinator.com/item?id=43570676"
+    ],
+    [
+      "QVQ-Max: Think with Evidence",
+      "https://qwenlm.github.io/blog/qvq-max-preview/"
     ]
   ],
   [
