@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-04-05, 18:33:56",
-      "https://news.ycombinator.com/item?id=43595585"
-    ],
-    [
-      "The Llama 4 herd",
-      "https://ai.meta.com/blog/llama-4-multimodal-intelligence/"
-    ]
-  ],
-  [
-    [
       "2025-04-05, 17:57:46",
       "https://news.ycombinator.com/item?id=43595269"
     ],
@@ -237,6 +227,16 @@
     [
       "Pitfalls of Safe Rust",
       "https://corrode.dev/blog/pitfalls-of-safe-rust/"
+    ]
+  ],
+  [
+    [
+      "2025-04-04, 09:41:13",
+      "https://news.ycombinator.com/item?id=43580012"
+    ],
+    [
+      "Use the Gemini API with OpenAI Fallback in TypeScript",
+      "https://sometechblog.com/posts/try-gemini-api-with-openai-fallback/"
     ]
   ],
   [
