@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-06](index.md)
 
 * [2025-04-06, 23:08:01](https://news.ycombinator.com/item?id=43605745) - [Kilmar Garcia et al. vs. US Department of Homeland Security et al.](https://www.documentcloud.org/documents/25880320-kilmar-armando-abrego-garcia-judge-response/)
+* [2025-04-06, 22:58:40](https://news.ycombinator.com/item?id=43605695) - [Data centers contain 90% crap data](https://gerrymcgovern.com/data-centers-contain-90-crap-data/)
 * [2025-04-06, 22:52:20](https://news.ycombinator.com/item?id=43605670) - [U.S. stock futures tumble indicating another plummet on Wall Street](https://www.reuters.com/markets/us/us-investors-braced-more-volatility-bumps-ahead-monday-trading-open-2025-04-06/)
 * [2025-04-06, 22:39:30](https://news.ycombinator.com/item?id=43605576) - [Eavesdropping on smartphone 13.56MHz NFC polling during screen wake-up/unlock](https://old.reddit.com/r/RTLSDR/comments/1jsr9jv/eavesdropping_on_smartphone_1356mhz_nfc_polling/)
 * [2025-04-06, 22:23:45](https://news.ycombinator.com/item?id=43605476) - [Neurotoxic worms growing up to 3ft long are in Ontario, Canada](https://www.blogto.com/city/2025/04/hammerhead-worms-ontario/)
