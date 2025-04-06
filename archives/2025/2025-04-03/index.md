@@ -40,6 +40,7 @@
 * [2025-04-03, 16:13:02](https://news.ycombinator.com/item?id=43571851) - [AI 2027](https://ai-2027.com/)
 * [2025-04-03, 15:24:49](https://news.ycombinator.com/item?id=43571099) - [A special build of curl that can impersonate Chrome and Firefox](https://github.com/lwthiker/curl-impersonate)
 * [2025-04-03, 14:59:42](https://news.ycombinator.com/item?id=43570749) - [Show HN: Novnaode, Global load balancing with Caddy, no vendor lock-in](https://news.ycombinator.com/item?id=43570749)
+* [2025-04-03, 14:55:17](https://news.ycombinator.com/item?id=43570676) - [QVQ-Max: Think with Evidence](https://qwenlm.github.io/blog/qvq-max-preview/)
 * [2025-04-03, 14:47:52](https://news.ycombinator.com/item?id=43570533) - [AnimeJs v4 Is Here](https://animejs.com/)
 * [2025-04-03, 14:36:41](https://news.ycombinator.com/item?id=43570324) - [Overengineered Anchor Links](https://thirty-five.com/overengineered-anchoring)
 * [2025-04-03, 14:28:37](https://news.ycombinator.com/item?id=43570207) - [Show HN: Benchi – A benchmarking tool written in Go](https://github.com/ConduitIO/benchi)
