@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-06, 07:49:14](https://news.ycombinator.com/item?id=43599690) - [My pessimism about changes to error handling in Go (but they'll happen)](https://utcc.utoronto.ca/~cks/space/blog/programming/GoSomeErrorHandlingInevitable)
 * [2025-04-06, 07:38:49](https://news.ycombinator.com/item?id=43599649) - [Why does JSON have commas?](https://simonsafar.com/2025/json_with_no_commas/)
 * [2025-04-06, 06:49:00](https://news.ycombinator.com/item?id=43599438) - [UK bans fake reviews and sneaky fees](https://www.theguardian.com/money/2025/apr/06/uk-bans-22bn-sneaky-fees-and-fake-reviews-for-online-products)
 * [2025-04-06, 06:39:35](https://news.ycombinator.com/item?id=43599400) - [US revokes all South Sudan visas over failure to repatriate citizens](https://www.reuters.com/world/us-revokes-all-south-sudan-visas-over-failure-accept-repatriation-citizens-2025-04-05/)
@@ -25,6 +24,7 @@
 * [2025-04-04, 04:32:52](https://news.ycombinator.com/item?id=43578348) - [What's in that bright red fire retardant? No one will say, so we had it tested](https://laist.com/news/climate-environment/how-much-toxic-heavy-metal-is-in-that-bright-red-fire-retardant-we-had-it-tested-to-find-out)
 * [2025-04-03, 18:25:48](https://news.ycombinator.com/item?id=43573507) - [The order of files in /etc/ssh/sshd_config.d/ matters](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHConfigOrderMatters)
 * [2025-04-03, 04:00:27](https://news.ycombinator.com/item?id=43564591) - [Photons, neutrinos, and gravitational-wave astronomy](https://www.as.arizona.edu/~mrenzo/courses/notes-lecture-GWprog.html)
+* [2025-04-02, 23:15:25](https://news.ycombinator.com/item?id=43562894) - [Rich Text, Poor Text (2013)](https://laemeur.sdf.org/words/D29.html)
 * [2025-04-02, 10:40:33](https://news.ycombinator.com/item?id=43555365) - [Diagnosing bugs preventing sleep on Windows](https://peteronprogramming.wordpress.com/2025/04/02/diagnosing-bugs-preventing-sleep-on-windows/)
 * [2025-04-02, 10:00:04](https://news.ycombinator.com/item?id=43555154) - [A New Proof Smooths Out the Math of Melting](https://www.quantamagazine.org/a-new-proof-smooths-out-the-math-of-melting-20250331/)
 * [2025-04-02, 08:49:44](https://news.ycombinator.com/item?id=43554789) - [Identifying a defective RAM IC on laptops with soldered memory](https://blog.piernov.org/identifying-defective-ram-ic/)
