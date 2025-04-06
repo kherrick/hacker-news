@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-06, 17:01:00](https://news.ycombinator.com/item?id=43602940) - [Foundry (YC F24) Is Hiring](https://www.ycombinator.com/companies/foundry/jobs/WvDDlqc-founding-fullstack-engineer-building-the-future-of-browser-agents)
+* [2025-04-06, 16:39:06](https://news.ycombinator.com/item?id=43602777) - [Peter Navarro Invented an Expert for His Books, Based on Himself(2019)](https://www.nytimes.com/2019/10/16/us/politics/peter-navarro-ron-vara.html)
+* [2025-04-06, 16:31:07](https://news.ycombinator.com/item?id=43602712) - ['Netflix levy' would 'price out' consumers](https://www.rte.ie/news/2025/0406/1506141-netflix-levy-ireland/)
 * [2025-04-06, 15:45:55](https://news.ycombinator.com/item?id=43602293) - [Buffett: America's Growing Trade Deficit Is Selling the Nation Out from Under Us [pdf]](https://www.berkshirehathaway.com/letters/growing.pdf)
 * [2025-04-06, 13:28:48](https://news.ycombinator.com/item?id=43601301) - [Show HN: I built a Rust crate for running unsafe code safely](https://github.com/brannondorsey/mem-isolate)
 * [2025-04-06, 11:41:26](https://news.ycombinator.com/item?id=43600704) - [Neutron Stars Hint at Another Dimension](https://nautil.us/neutron-stars-hint-at-another-dimension-1202180/)
@@ -10,7 +13,6 @@
 * [2025-04-06, 02:56:16](https://news.ycombinator.com/item?id=43598600) - [Serving Vector Tiles, Fast](https://spatialists.ch/posts/2025/04-05-serving-vector-tiles-fast/)
 * [2025-04-05, 23:46:19](https://news.ycombinator.com/item?id=43597778) - [Apple’s Darwin OS and XNU Kernel Deep Dive](https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/)
 * [2025-04-05, 22:45:03](https://news.ycombinator.com/item?id=43597425) - [The ADHD body double: A unique tool for getting things done](https://add.org/the-body-double/)
-* [2025-04-05, 20:26:36](https://news.ycombinator.com/item?id=43596570) - [We are still using 88x31 buttons](https://ultrasciencelabs.com/lab-notes/why-we-are-still-using-88x31-buttons)
 * [2025-04-05, 20:24:09](https://news.ycombinator.com/item?id=43596546) - [North America Is Dripping from Below, Geoscientists Discover](https://www.jsg.utexas.edu/news/2025/04/north-america-is-dripping-from-below-geoscientists-discover/)
 * [2025-04-05, 18:33:56](https://news.ycombinator.com/item?id=43595585) - [The Llama 4 herd](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
 * [2025-04-05, 17:59:55](https://news.ycombinator.com/item?id=43595283) - [Faster interpreters in Go: Catching up with C++](https://planetscale.com/blog/faster-interpreters-in-go-catching-up-with-cpp)
@@ -27,9 +29,7 @@
 * [2025-04-03, 12:34:37](https://news.ycombinator.com/item?id=43568711) - [Thomas Rattigan, short-lived Commodore CEO](https://dfarq.homeip.net/thomas-rattigan-short-lived-commodore-ceo/)
 * [2025-04-03, 08:34:11](https://news.ycombinator.com/item?id=43566651) - [Blacksmithing and Lisp](http://funcall.blogspot.com/2025/04/blacksmithing-and-lisp.html)
 * [2025-04-03, 04:06:57](https://news.ycombinator.com/item?id=43564625) - [Taught me to build them. What was your start in computing?](https://danielsada.tech/blog/carreer-part-1-the-foundation-years/)
-* [2025-04-03, 04:00:27](https://news.ycombinator.com/item?id=43564591) - [Photons, neutrinos, and gravitational-wave astronomy](https://www.as.arizona.edu/~mrenzo/courses/notes-lecture-GWprog.html)
 * [2025-04-02, 22:39:46](https://news.ycombinator.com/item?id=43562579) - [Switzerland's vinyl turntable roundabout: Unique road art (2019)](https://www.newlyswissed.com/turntable-roundabout-in-switzerland/)
-* [2025-04-01, 18:20:56](https://news.ycombinator.com/item?id=43549893) - [The Importance of Fact-Checking](https://lithub.com/on-the-episode-that-changed-ira-glasss-this-american-life-forever/)
 
 ## [Archives](archives/index.md)
 
