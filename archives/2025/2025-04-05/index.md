@@ -67,6 +67,7 @@
 * [2025-04-05, 01:22:38](https://news.ycombinator.com/item?id=43589523) - [AT&T Email-to-Text Gateway Service Ending June 17](https://www.att.com/support/article/wireless/KM1061254/)
 * [2025-04-05, 01:00:12](https://news.ycombinator.com/item?id=43589321) - [Increasing Timber Production, an Emergency Situation on National Forest Lands [pdf]](https://www.usda.gov/sites/default/files/documents/sm-1078-006.pdf)
 * [2025-04-05, 00:41:59](https://news.ycombinator.com/item?id=43589231) - [Trump's Tariffs Wipe Out over $6T on Wall Street in Epic Two-Day Rout](https://www.wsj.com/finance/stocks/u-s-stock-futures-fall-further-after-china-retaliates-against-trump-tariffs-3be33fa7)
+* [2025-04-05, 00:38:20](https://news.ycombinator.com/item?id=43589214) - [Charging electric vehicles 5x faster in subfreezing temps](https://news.umich.edu/charging-electric-vehicles-5x-faster-in-subfreezing-temps/)
 * [2025-04-05, 00:25:12](https://news.ycombinator.com/item?id=43589156) - [Investigating MacPaint's Source Code](https://ztoz.blog/posts/macpaint-source-code/)
 * [2025-04-05, 00:18:30](https://news.ycombinator.com/item?id=43589119) - [404s – gallery of error 404 page designs](https://www.404s.design/)
 * [2025-04-05, 00:10:16](https://news.ycombinator.com/item?id=43589071) - [Cashless society drives drop in children swallowing coins, researchers say](https://www.independent.co.uk/money/cashless-society-drives-drop-in-children-swallowing-coins-researchers-say-b2723046.html)
