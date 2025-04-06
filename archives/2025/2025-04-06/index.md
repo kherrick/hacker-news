@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-06](index.md)
 
+* [2025-04-06, 19:02:58](https://news.ycombinator.com/item?id=43604015) - [The Treachery of Image Files (2020)](http://beyondloom.com/blog/images.html)
 * [2025-04-06, 19:01:32](https://news.ycombinator.com/item?id=43603999) - [Gumroad's Interestingly Timed \"Open-Source\" Play](https://tedium.co/2025/04/06/gumroad-open-source-doge-drama/)
 * [2025-04-06, 18:01:59](https://news.ycombinator.com/item?id=43603453) - [Recent AI model progress feels mostly like bullshit](https://www.lesswrong.com/posts/4mvphwx5pdsZLMmpY/recent-ai-model-progress-feels-mostly-like-bullshit)
 * [2025-04-06, 17:50:07](https://news.ycombinator.com/item?id=43603333) - [SF Mayor Lurie to tech CEOs: 'How can we get you back?'](https://techcrunch.com/2025/04/05/sf-mayor-lurie-to-tech-ceos-how-can-we-get-you-back/)
