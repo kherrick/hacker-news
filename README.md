@@ -20,6 +20,7 @@
 * [2025-04-05, 17:59:55](https://news.ycombinator.com/item?id=43595283) - [Faster interpreters in Go: Catching up with C++](https://planetscale.com/blog/faster-interpreters-in-go-catching-up-with-cpp)
 * [2025-04-05, 17:57:46](https://news.ycombinator.com/item?id=43595269) - [What if we made advertising illegal?](https://simone.org/advertising/)
 * [2025-04-05, 14:26:02](https://news.ycombinator.com/item?id=43593789) - [Show HN: I built a word game. My mom thinks it's great. What do you think?](https://www.whatsit.today/)
+* [2025-04-04, 18:23:20](https://news.ycombinator.com/item?id=43586043) - [New Theoretical Research Trends in Cartography](https://www.researchgate.net/publication/26467883_NEW_THEORETICAL_RESEARCH_TRENDS_IN_CARTOGRAPHY)
 * [2025-04-04, 17:55:58](https://news.ycombinator.com/item?id=43585742) - [Pitfalls of Safe Rust](https://corrode.dev/blog/pitfalls-of-safe-rust/)
 * [2025-04-04, 06:55:11](https://news.ycombinator.com/item?id=43579104) - [Lessons from open source in the Mexican government](https://lwn.net/Articles/1013776/)
 * [2025-04-03, 18:25:48](https://news.ycombinator.com/item?id=43573507) - [The order of files in /etc/ssh/sshd_config.d/ matters](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHConfigOrderMatters)
@@ -27,7 +28,6 @@
 * [2025-04-03, 14:55:17](https://news.ycombinator.com/item?id=43570676) - [QVQ-Max: Think with Evidence](https://qwenlm.github.io/blog/qvq-max-preview/)
 * [2025-04-03, 12:34:37](https://news.ycombinator.com/item?id=43568711) - [Thomas Rattigan, short-lived Commodore CEO](https://dfarq.homeip.net/thomas-rattigan-short-lived-commodore-ceo/)
 * [2025-04-03, 08:34:11](https://news.ycombinator.com/item?id=43566651) - [Blacksmithing and Lisp](http://funcall.blogspot.com/2025/04/blacksmithing-and-lisp.html)
-* [2025-04-03, 04:06:57](https://news.ycombinator.com/item?id=43564625) - [Taught me to build them. What was your start in computing?](https://danielsada.tech/blog/carreer-part-1-the-foundation-years/)
 * [2025-04-02, 22:39:46](https://news.ycombinator.com/item?id=43562579) - [Switzerland's vinyl turntable roundabout: Unique road art (2019)](https://www.newlyswissed.com/turntable-roundabout-in-switzerland/)
 * [2025-04-02, 20:26:01](https://news.ycombinator.com/item?id=43561104) - [For a solo funder, I think social is to connect on the internet](https://news.ycombinator.com/item?id=43561104)
 
