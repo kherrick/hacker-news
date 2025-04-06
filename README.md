@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-06, 02:56:16](https://news.ycombinator.com/item?id=43598600) - [Serving Vector Tiles, Fast](https://spatialists.ch/posts/2025/04-05-serving-vector-tiles-fast/)
 * [2025-04-05, 23:46:19](https://news.ycombinator.com/item?id=43597778) - [Apple's Darwin OS and XNU Kernel Deep Dive](https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/)
 * [2025-04-05, 22:45:03](https://news.ycombinator.com/item?id=43597425) - [The ADHD Body Double: A Unique Tool for Getting Things Done](https://add.org/the-body-double/)
 * [2025-04-05, 21:15:00](https://news.ycombinator.com/item?id=43596864) - [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
@@ -14,7 +15,6 @@
 * [2025-04-05, 17:00:21](https://news.ycombinator.com/item?id=43594871) - [Great Question (YC W21) Is Hiring Applied AI Engineers](https://www.ycombinator.com/companies/great-question/jobs/AtPa8pe-ai-engineer)
 * [2025-04-05, 16:18:12](https://news.ycombinator.com/item?id=43594554) - [Loader's Number](https://googology.fandom.com/wiki/Loader%27s_number)
 * [2025-04-05, 15:54:01](https://news.ycombinator.com/item?id=43594396) - [Exeter's unassuming co-op worker leads double life as 'Lord of the Logos'](https://www.devonlive.com/whats-on/whats-on-news/exeters-unassuming-co-op-worker-10039941)
-* [2025-04-05, 14:54:17](https://news.ycombinator.com/item?id=43593956) - [Tracking the international space station with an Arduino](https://faridrener.com/2025/04/04/tracking-iss.html)
 * [2025-04-05, 14:26:02](https://news.ycombinator.com/item?id=43593789) - [Show HN: I built a word game. My mom thinks it's great. What do you think?](https://www.whatsit.today/)
 * [2025-04-05, 13:58:18](https://news.ycombinator.com/item?id=43593596) - [A Vision for WebAssembly Support in Swift](https://forums.swift.org/t/pitch-a-vision-for-webassembly-support-in-swift/79060)
 * [2025-04-05, 12:55:00](https://news.ycombinator.com/item?id=43593088) - [Compilers: Incrementally and Extensibly (2024)](https://okmij.org/ftp/tagless-final/Compiler/index.html)
