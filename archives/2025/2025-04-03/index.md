@@ -22,6 +22,7 @@
 * [2025-04-03, 18:44:58](https://news.ycombinator.com/item?id=43573721) - [Show HN: The Algorithm Behind the Topological Sort Library TopoSort](https://github.com/williamw520/toposort/blob/master/Algorithm.md)
 * [2025-04-03, 18:39:04](https://news.ycombinator.com/item?id=43573653) - [Installing AIX PS/2 v1.3 on a 486](https://hardwarehacks.org/blog/installing_aix_ps2_13_on_a_486/)
 * [2025-04-03, 18:28:44](https://news.ycombinator.com/item?id=43573539) - [An automatic MCP server for every GitHub project](https://gitmcp.io/)
+* [2025-04-03, 18:25:48](https://news.ycombinator.com/item?id=43573507) - [The order of files in /etc./SSH/sshd_config.d/ matters (and may surprise you)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHConfigOrderMatters)
 * [2025-04-03, 18:23:18](https://news.ycombinator.com/item?id=43573488) - [2025 Recession Indicators Hit Fashion and Wall Street at Once](https://www.marieclaire.com/fashion/recession-2025-fashion-indicators/)
 * [2025-04-03, 18:21:32](https://news.ycombinator.com/item?id=43573465) - [The Slow Collapse of Critical Thinking in OSINT Due to AI](https://www.dutchosintguy.com/post/the-slow-collapse-of-critical-thinking-in-osint-due-to-ai)
 * [2025-04-03, 18:20:59](https://news.ycombinator.com/item?id=43573453) - [Show HN: Owl, a Spaced Repetition App](https://owl.cards)

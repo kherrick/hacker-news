@@ -24,11 +24,11 @@
 * [2025-04-05, 05:31:45](https://news.ycombinator.com/item?id=43591050) - [Recreating Daft Punk's Something About Us](https://thoughts-and-things.ghost.io/recreating-daft-punks-something-about-us/)
 * [2025-04-05, 02:15:35](https://news.ycombinator.com/item?id=43589989) - [OpenVertebrate Presents a Database of 13,000 3D Scans of Specimens](https://www.openculture.com/2024/03/openvertebrate-presents-a-massive-database-of-13000-3d-scans-of-vertebrate-specimens.html)
 * [2025-04-03, 21:15:03](https://news.ycombinator.com/item?id=43575515) - [Getting the Firmware of a VTech/LeapFrog LeapStart/Magibook](https://leloubil.prose.sh/leapstart-1)
+* [2025-04-03, 18:25:48](https://news.ycombinator.com/item?id=43573507) - [The order of files in /etc./SSH/sshd_config.d/ matters (and may surprise you)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHConfigOrderMatters)
 * [2025-04-03, 18:20:59](https://news.ycombinator.com/item?id=43573453) - [Show HN: Owl, a Spaced Repetition App](https://owl.cards)
 * [2025-04-02, 23:15:25](https://news.ycombinator.com/item?id=43562894) - [Rich Text, Poor Text (2013)](https://laemeur.sdf.org/words/D29.html)
 * [2025-04-02, 10:40:33](https://news.ycombinator.com/item?id=43555365) - [Diagnosing bugs preventing sleep on Windows](https://peteronprogramming.wordpress.com/2025/04/02/diagnosing-bugs-preventing-sleep-on-windows/)
 * [2025-04-02, 08:49:44](https://news.ycombinator.com/item?id=43554789) - [Identifying a defective RAM IC on laptops with soldered memory](https://blog.piernov.org/identifying-defective-ram-ic/)
-* [2025-04-01, 18:20:56](https://news.ycombinator.com/item?id=43549893) - [The Importance of Fact-Checking](https://lithub.com/on-the-episode-that-changed-ira-glasss-this-american-life-forever/)
 * [2025-04-01, 17:33:13](https://news.ycombinator.com/item?id=43549469) - [Jumping Spiders](https://digital.tnconservationist.org/publication/?i=663361&article_id=3697028&view=articleBrowser)
 
 ## [Archives](archives/index.md)
