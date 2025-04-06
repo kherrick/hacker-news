@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-06, 08:53:41](https://news.ycombinator.com/item?id=43599967) - [SeedLM: Compressing LLM Weights into Seeds of Pseudo-Random Generators](https://machinelearning.apple.com/research/seedlm-compressing)
-* [2025-04-06, 07:38:49](https://news.ycombinator.com/item?id=43599649) - [Why does JSON have commas?](https://simonsafar.com/2025/json_with_no_commas/)
 * [2025-04-06, 07:36:12](https://news.ycombinator.com/item?id=43599637) - [Standard Ebooks: liberated ebooks, carefully produced for the true book lover](https://standardebooks.org)
 * [2025-04-06, 07:31:27](https://news.ycombinator.com/item?id=43599613) - [My Browser WASM't Prepared for This. Using DuckDB, Apache Arrow and Web Workers](https://motifanalytics.medium.com/my-browser-wasmt-prepared-for-this-using-duckdb-apache-arrow-and-web-workers-in-real-life-e3dd4695623d)
 * [2025-04-06, 06:55:55](https://news.ycombinator.com/item?id=43599470) - [Show HN: I Built ImgFiber-Better Image Optimizer. Free No Limits](https://www.imgfiber.com/)
@@ -19,6 +18,7 @@
 * [2025-04-05, 15:54:01](https://news.ycombinator.com/item?id=43594396) - [Exeter's unassuming co-op worker leads double life as 'Lord of the Logos'](https://www.devonlive.com/whats-on/whats-on-news/exeters-unassuming-co-op-worker-10039941)
 * [2025-04-05, 14:26:02](https://news.ycombinator.com/item?id=43593789) - [Show HN: I built a word game. My mom thinks it's great. What do you think?](https://www.whatsit.today/)
 * [2025-04-05, 13:58:18](https://news.ycombinator.com/item?id=43593596) - [A Vision for WebAssembly Support in Swift](https://forums.swift.org/t/pitch-a-vision-for-webassembly-support-in-swift/79060)
+* [2025-04-05, 12:55:00](https://news.ycombinator.com/item?id=43593088) - [Compilers: Incrementally and Extensibly (2024)](https://okmij.org/ftp/tagless-final/Compiler/index.html)
 * [2025-04-05, 10:57:00](https://news.ycombinator.com/item?id=43592409) - [Emulating an iPhone in QEMU](https://eshard.com/posts/emulating-ios-14-with-qemu)
 * [2025-04-04, 14:41:48](https://news.ycombinator.com/item?id=43583134) - [Understanding Hydration Errors by Building a SSR React Project](https://www.propelauth.com/post/understanding-hydration-errors)
 * [2025-04-04, 08:54:05](https://news.ycombinator.com/item?id=43579777) - [What is an Ethernet cable? Here's how to connect to the internet without Wi-Fi](https://www.businessinsider.com/guides/tech/what-is-an-ethernet-cable)
