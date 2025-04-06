@@ -37,6 +37,7 @@
 * [2025-04-04, 15:03:04](https://news.ycombinator.com/item?id=43583478) - [Show HN: uWrap.js – A faster and more accurate text wrapping util in < 2KB](https://github.com/leeoniya/uWrap)
 * [2025-04-04, 14:51:15](https://news.ycombinator.com/item?id=43583283) - [Purple exists only in our brains](https://www.snexplores.org/article/color-purple-exists-only-in-brain)
 * [2025-04-04, 14:49:03](https://news.ycombinator.com/item?id=43583249) - [A number of electric vehicle, battery factories are being canceled](https://www.washingtonpost.com/climate-environment/2025/04/03/ev-factories-canceled/)
+* [2025-04-04, 14:41:48](https://news.ycombinator.com/item?id=43583134) - [Understanding Hydration Errors by Building a SSR React Project](https://www.propelauth.com/post/understanding-hydration-errors)
 * [2025-04-04, 14:30:20](https://news.ycombinator.com/item?id=43582985) - [Ask HN: Does Collapsing an HN Thread in a Popular story spike your CPU use?](https://news.ycombinator.com/item?id=43582985)
 * [2025-04-04, 13:45:09](https://news.ycombinator.com/item?id=43582292) - [Dow Slides Another 1k Points. Nasdaq on Pace to Enter Bear Market](https://www.barrons.com/livecoverage/stock-market-today-040425)
 * [2025-04-04, 13:03:30](https://news.ycombinator.com/item?id=43581714) - [NOAA Weather will delete websites using Amazon, Google cloud services Saturday](https://www.bloomberg.com/news/articles/2025-04-04/us-weather-agency-websites-to-vanish-under-planned-contract-cuts)
