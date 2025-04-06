@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-06](index.md)
 
+* [2025-04-06, 19:01:32](https://news.ycombinator.com/item?id=43603999) - [Gumroad's Interestingly Timed \"Open-Source\" Play](https://tedium.co/2025/04/06/gumroad-open-source-doge-drama/)
 * [2025-04-06, 18:01:59](https://news.ycombinator.com/item?id=43603453) - [Recent AI model progress feels mostly like bullshit](https://www.lesswrong.com/posts/4mvphwx5pdsZLMmpY/recent-ai-model-progress-feels-mostly-like-bullshit)
 * [2025-04-06, 17:50:07](https://news.ycombinator.com/item?id=43603333) - [SF Mayor Lurie to tech CEOs: 'How can we get you back?'](https://techcrunch.com/2025/04/05/sf-mayor-lurie-to-tech-ceos-how-can-we-get-you-back/)
 * [2025-04-06, 17:47:05](https://news.ycombinator.com/item?id=43603307) - [EU may \"make an example of X\" by issuing $1B fine](https://www.nytimes.com/2025/04/03/technology/eu-penalties-x-elon-musk.html)
