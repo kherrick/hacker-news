@@ -54,6 +54,7 @@
 * [2025-04-04, 09:22:37](https://news.ycombinator.com/item?id=43579925) - [Doge staffer's YouTube nickname accidentally revealed his teen hacking activity](https://arstechnica.com/tech-policy/2025/04/i-no-longer-hack-paypals-doge-staffers-hacker-past-raises-red-flags/)
 * [2025-04-04, 09:20:25](https://news.ycombinator.com/item?id=43579908) - [Warren Buffett: growing trade deficit is selling the nation out from under us [pdf]](https://faculty.washington.edu/ss1110/IF/Buffett%20Fortune%202003%20(6).pdf)
 * [2025-04-04, 07:13:06](https://news.ycombinator.com/item?id=43579197) - [Apple killed Asahi Linux with M4 update](https://social.treehouse.systems/@sven/114278224116678776)
+* [2025-04-04, 06:55:11](https://news.ycombinator.com/item?id=43579104) - [Lessons from open source in the Mexican government](https://lwn.net/Articles/1013776/)
 * [2025-04-04, 06:52:24](https://news.ycombinator.com/item?id=43579082) - [EU: These are scary times – let's backdoor encryption](https://www.theregister.com/2025/04/03/eu_backdoor_encryption/)
 * [2025-04-04, 04:55:38](https://news.ycombinator.com/item?id=43578475) - [Head of NSA and Cybercommand Is Ousted](https://www.nytimes.com/2025/04/03/us/politics/nsa-cyber-command-chief-fired.html)
 * [2025-04-04, 04:50:45](https://news.ycombinator.com/item?id=43578430) - [DeepSeek: Inference-Time Scaling for Generalist Reward Modeling](https://arxiv.org/abs/2504.02495)
