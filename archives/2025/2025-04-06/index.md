@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-06](index.md)
 
+* [2025-04-06, 20:31:55](https://news.ycombinator.com/item?id=43604726) - [Doge's attack on social security causing 'complete, utter chaos', staff says](https://www.theguardian.com/us-news/2025/apr/06/musk-doge-social-security)
 * [2025-04-06, 19:49:32](https://news.ycombinator.com/item?id=43604366) - ['Minecraft Movie' Leaks Online: Full Unfinished Version Shared](https://variety.com/2025/film/news/minecraft-movie-leaks-online-unfinished-effects-1236360578/)
 * [2025-04-06, 19:42:21](https://news.ycombinator.com/item?id=43604308) - [Gmail E2E is as terrible as expected](https://michal.sapka.pl/2025/gmail-e2e-is-as-terrible-as-expected/)
 * [2025-04-06, 19:02:58](https://news.ycombinator.com/item?id=43604015) - [The Treachery of Image Files (2020)](http://beyondloom.com/blog/images.html)
