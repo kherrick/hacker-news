@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-04-06, 07:38:49",
-      "https://news.ycombinator.com/item?id=43599649"
-    ],
-    [
-      "Why does JSON have commas?",
-      "https://simonsafar.com/2025/json_with_no_commas/"
-    ]
-  ],
-  [
-    [
       "2025-04-06, 07:36:12",
       "https://news.ycombinator.com/item?id=43599637"
     ],
@@ -187,6 +177,16 @@
     [
       "A Vision for WebAssembly Support in Swift",
       "https://forums.swift.org/t/pitch-a-vision-for-webassembly-support-in-swift/79060"
+    ]
+  ],
+  [
+    [
+      "2025-04-05, 12:55:00",
+      "https://news.ycombinator.com/item?id=43593088"
+    ],
+    [
+      "Compilers: Incrementally and Extensibly (2024)",
+      "https://okmij.org/ftp/tagless-final/Compiler/index.html"
     ]
   ],
   [
