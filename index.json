@@ -1,22 +1,12 @@
 [
   [
     [
-      "2025-04-06, 23:08:01",
-      "https://news.ycombinator.com/item?id=43605745"
+      "2025-04-06, 22:58:40",
+      "https://news.ycombinator.com/item?id=43605695"
     ],
     [
-      "Kilmar Garcia et al. vs. US Department of Homeland Security et al.",
-      "https://www.documentcloud.org/documents/25880320-kilmar-armando-abrego-garcia-judge-response/"
-    ]
-  ],
-  [
-    [
-      "2025-04-06, 22:52:20",
-      "https://news.ycombinator.com/item?id=43605670"
-    ],
-    [
-      "U.S. stock futures tumble indicating another plummet on Wall Street",
-      "https://www.reuters.com/markets/us/us-investors-braced-more-volatility-bumps-ahead-monday-trading-open-2025-04-06/"
+      "Data centers contain 90% crap data",
+      "https://gerrymcgovern.com/data-centers-contain-90-crap-data/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "The order of files in /etc/ssh/sshd_config.d/ matters",
       "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHConfigOrderMatters"
+    ]
+  ],
+  [
+    [
+      "2025-04-03, 16:32:32",
+      "https://news.ycombinator.com/item?id=43572134"
+    ],
+    [
+      "Show HN: LocalScore – Local LLM Benchmark",
+      "https://www.localscore.ai/download"
     ]
   ],
   [
