@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-06](index.md)
 
+* [2025-04-06, 09:42:28](https://news.ycombinator.com/item?id=43600192) - [The \"S\" in MCP Stands for Security](https://elenacross7.medium.com/%EF%B8%8F-the-s-in-mcp-stands-for-security-91407b33ed6b)
 * [2025-04-06, 09:14:53](https://news.ycombinator.com/item?id=43600060) - [UK Police Arrest 30 People Per Day for Internet Comments](https://www.thetimes.com/uk/crime/article/police-make-30-arrests-a-day-for-offensive-online-messages-zbv886tqf)
 * [2025-04-06, 08:53:41](https://news.ycombinator.com/item?id=43599967) - [SeedLM: Compressing LLM Weights into Seeds of Pseudo-Random Generators](https://machinelearning.apple.com/research/seedlm-compressing)
 * [2025-04-06, 07:49:14](https://news.ycombinator.com/item?id=43599690) - [My pessimism about changes to error handling in Go (but they'll happen)](https://utcc.utoronto.ca/~cks/space/blog/programming/GoSomeErrorHandlingInevitable)
