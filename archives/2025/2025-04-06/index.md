@@ -22,6 +22,7 @@
 * [2025-04-06, 16:04:58](https://news.ycombinator.com/item?id=43602470) - [How to Think About Raising Venture Capital for Your Startup](https://sillymoney.com/p/how-to-think-about-raising-venture-capital-for-your-startup)
 * [2025-04-06, 15:45:55](https://news.ycombinator.com/item?id=43602293) - [Buffett: America's Growing Trade Deficit Is Selling the Nation Out from Under Us [pdf]](https://www.berkshirehathaway.com/letters/growing.pdf)
 * [2025-04-06, 14:45:54](https://news.ycombinator.com/item?id=43601766) - [Why Do Domestic Prices Rise with Tarriffs?](https://marginalrevolution.com/marginalrevolution/2025/04/why-do-domestic-prices-rise-with-tarriffs.html)
+* [2025-04-06, 14:28:50](https://news.ycombinator.com/item?id=43601624) - [MonkeysPaw – a prompt-driven web framework in Ruby](https://worksonmymachine.substack.com/p/introducing-monkeyspaw-a-prompt-driven)
 * [2025-04-06, 14:14:48](https://news.ycombinator.com/item?id=43601551) - [Facebook Downloader](https://fload.app/)
 * [2025-04-06, 13:51:13](https://news.ycombinator.com/item?id=43601421) - [Self-Driving Teslas Are Fatally Rear-Ending Motorcyclists More Than Any Other](https://fuelarc.com/news-and-features/self-driving-teslas-are-fatally-striking-motorcyclists-more-than-any-other-brand-new-analysis/)
 * [2025-04-06, 13:28:48](https://news.ycombinator.com/item?id=43601301) - [Show HN: I built a Rust crate for running unsafe code safely](https://github.com/brannondorsey/mem-isolate)
