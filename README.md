@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-06, 18:01:59](https://news.ycombinator.com/item?id=43603453) - [Recent AI model progress feels mostly like bullshit](https://www.lesswrong.com/posts/4mvphwx5pdsZLMmpY/recent-ai-model-progress-feels-mostly-like-bullshit)
-* [2025-04-06, 17:50:07](https://news.ycombinator.com/item?id=43603333) - [SF Mayor Lurie to tech CEOs: 'How can we get you back?'](https://techcrunch.com/2025/04/05/sf-mayor-lurie-to-tech-ceos-how-can-we-get-you-back/)
 * [2025-04-06, 17:47:05](https://news.ycombinator.com/item?id=43603307) - [E.U. Prepares Major Penalties Against X](https://www.nytimes.com/2025/04/03/technology/eu-penalties-x-elon-musk.html)
 * [2025-04-06, 17:24:08](https://news.ycombinator.com/item?id=43603111) - [Federal cuts disrupt repairs to iconic U.S. trails](https://apnews.com/article/pacific-crest-appalachian-trail-federal-layoffs-934a5526570569b625f5d854ec339a04)
 * [2025-04-06, 17:21:54](https://news.ycombinator.com/item?id=43603091) - [Max severity RCE flaw discovered in widely used Apache Parquet](https://www.bleepingcomputer.com/news/security/max-severity-rce-flaw-discovered-in-widely-used-apache-parquet/)
@@ -15,6 +14,7 @@
 * [2025-04-06, 08:53:41](https://news.ycombinator.com/item?id=43599967) - [SeedLM: Compressing LLM Weights into Seeds of Pseudo-Random Generators](https://machinelearning.apple.com/research/seedlm-compressing)
 * [2025-04-06, 07:36:12](https://news.ycombinator.com/item?id=43599637) - [Standard Ebooks: liberated ebooks, carefully produced for the true book lover](https://standardebooks.org)
 * [2025-04-06, 07:31:27](https://news.ycombinator.com/item?id=43599613) - [My Browser WASM't Prepared for This. Using DuckDB, Apache Arrow and Web Workers](https://motifanalytics.medium.com/my-browser-wasmt-prepared-for-this-using-duckdb-apache-arrow-and-web-workers-in-real-life-e3dd4695623d)
+* [2025-04-06, 02:56:16](https://news.ycombinator.com/item?id=43598600) - [Serving Vector Tiles, Fast](https://spatialists.ch/posts/2025/04-05-serving-vector-tiles-fast/)
 * [2025-04-05, 23:46:19](https://news.ycombinator.com/item?id=43597778) - [Apple’s Darwin OS and XNU Kernel Deep Dive](https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/)
 * [2025-04-05, 18:33:56](https://news.ycombinator.com/item?id=43595585) - [The Llama 4 herd](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
 * [2025-04-05, 17:59:55](https://news.ycombinator.com/item?id=43595283) - [Faster interpreters in Go: Catching up with C++](https://planetscale.com/blog/faster-interpreters-in-go-catching-up-with-cpp)
