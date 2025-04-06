@@ -2,6 +2,7 @@
 
 * [2025-04-06, 17:21:54](https://news.ycombinator.com/item?id=43603091) - [Max severity RCE flaw discovered in widely used Apache Parquet](https://www.bleepingcomputer.com/news/security/max-severity-rce-flaw-discovered-in-widely-used-apache-parquet/)
 * [2025-04-06, 17:01:00](https://news.ycombinator.com/item?id=43602940) - [Foundry (YC F24) Is Hiring](https://www.ycombinator.com/companies/foundry/jobs/WvDDlqc-founding-fullstack-engineer-building-the-future-of-browser-agents)
+* [2025-04-06, 16:48:31](https://news.ycombinator.com/item?id=43602851) - [We're Committing Cultural Suicide](https://coreyrobin.com/2025/04/04/were-committing-cultural-suicide/)
 * [2025-04-06, 16:43:12](https://news.ycombinator.com/item?id=43602809) - [Microsoft's Quake 2 AI experiment sparks negative reactions](https://www.videogameschronicle.com/news/microsofts-quake-2-ai-experiment-sparks-negative-reactions/)
 * [2025-04-06, 16:39:06](https://news.ycombinator.com/item?id=43602777) - [Peter Navarro Invented an Expert for His Books, Based on Himself(2019)](https://www.nytimes.com/2019/10/16/us/politics/peter-navarro-ron-vara.html)
 * [2025-04-06, 16:28:23](https://news.ycombinator.com/item?id=43602688) - [Hiding elements that require JavaScript without JavaScript](https://0xda.de/blog/2025/04/hiding-elements-that-require-javascript-without-javascript/)
@@ -19,9 +20,8 @@
 * [2025-04-05, 18:33:56](https://news.ycombinator.com/item?id=43595585) - [The Llama 4 herd](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
 * [2025-04-05, 17:59:55](https://news.ycombinator.com/item?id=43595283) - [Faster interpreters in Go: Catching up with C++](https://planetscale.com/blog/faster-interpreters-in-go-catching-up-with-cpp)
 * [2025-04-05, 17:57:46](https://news.ycombinator.com/item?id=43595269) - [What if we made advertising illegal?](https://simone.org/advertising/)
-* [2025-04-05, 15:54:01](https://news.ycombinator.com/item?id=43594396) - [Exeter's unassuming co-op worker leads double life as 'Lord of the Logos'](https://www.devonlive.com/whats-on/whats-on-news/exeters-unassuming-co-op-worker-10039941)
 * [2025-04-05, 14:26:02](https://news.ycombinator.com/item?id=43593789) - [Show HN: I built a word game. My mom thinks it's great. What do you think?](https://www.whatsit.today/)
-* [2025-04-05, 13:58:18](https://news.ycombinator.com/item?id=43593596) - [A Vision for WebAssembly Support in Swift](https://forums.swift.org/t/pitch-a-vision-for-webassembly-support-in-swift/79060)
+* [2025-04-04, 17:55:58](https://news.ycombinator.com/item?id=43585742) - [Pitfalls of Safe Rust](https://corrode.dev/blog/pitfalls-of-safe-rust/)
 * [2025-04-04, 06:55:11](https://news.ycombinator.com/item?id=43579104) - [Lessons from open source in the Mexican government](https://lwn.net/Articles/1013776/)
 * [2025-04-03, 18:25:48](https://news.ycombinator.com/item?id=43573507) - [The order of files in /etc/ssh/sshd_config.d/ matters](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHConfigOrderMatters)
 * [2025-04-03, 16:32:32](https://news.ycombinator.com/item?id=43572134) - [Show HN: LocalScore – Local LLM Benchmark](https://www.localscore.ai/download)

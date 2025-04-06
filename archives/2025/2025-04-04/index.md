@@ -23,6 +23,7 @@
 * [2025-04-04, 18:28:38](https://news.ycombinator.com/item?id=43586107) - [Gumroad Did Not Become Open Source Today](https://danb.me/blog/gumroad-is-not-open-source/)
 * [2025-04-04, 18:25:23](https://news.ycombinator.com/item?id=43586073) - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
 * [2025-04-04, 18:11:30](https://news.ycombinator.com/item?id=43585921) - [Cyber Forensic Expert in 2k Cases Faces FBI Probe](https://krebsonsecurity.com/2025/04/cyber-forensic-expert-in-2000-cases-faces-fbi-probe/)
+* [2025-04-04, 17:55:58](https://news.ycombinator.com/item?id=43585742) - [Pitfalls of Safe Rust](https://corrode.dev/blog/pitfalls-of-safe-rust/)
 * [2025-04-04, 17:41:42](https://news.ycombinator.com/item?id=43585587) - [YIMBYism as Industrial Policy](https://www.slowboring.com/p/yimbyism-as-industrial-policy)
 * [2025-04-04, 17:22:06](https://news.ycombinator.com/item?id=43585354) - [CINC Is Not Chef](https://cinc.sh/)
 * [2025-04-04, 17:00:40](https://news.ycombinator.com/item?id=43585103) - [Thunder Compute (YC S24) is hiring a GPU systems engineer](https://www.ycombinator.com/companies/thunder-compute/jobs/fRSS8JQ-systems-engineer)

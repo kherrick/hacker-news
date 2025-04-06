@@ -6,6 +6,7 @@
 
 * [2025-04-06, 17:21:54](https://news.ycombinator.com/item?id=43603091) - [Max severity RCE flaw discovered in widely used Apache Parquet](https://www.bleepingcomputer.com/news/security/max-severity-rce-flaw-discovered-in-widely-used-apache-parquet/)
 * [2025-04-06, 17:01:00](https://news.ycombinator.com/item?id=43602940) - [Foundry (YC F24) Is Hiring](https://www.ycombinator.com/companies/foundry/jobs/WvDDlqc-founding-fullstack-engineer-building-the-future-of-browser-agents)
+* [2025-04-06, 16:48:31](https://news.ycombinator.com/item?id=43602851) - [We're Committing Cultural Suicide](https://coreyrobin.com/2025/04/04/were-committing-cultural-suicide/)
 * [2025-04-06, 16:43:12](https://news.ycombinator.com/item?id=43602809) - [Microsoft's Quake 2 AI experiment sparks negative reactions](https://www.videogameschronicle.com/news/microsofts-quake-2-ai-experiment-sparks-negative-reactions/)
 * [2025-04-06, 16:39:06](https://news.ycombinator.com/item?id=43602777) - [Peter Navarro Invented an Expert for His Books, Based on Himself(2019)](https://www.nytimes.com/2019/10/16/us/politics/peter-navarro-ron-vara.html)
 * [2025-04-06, 16:31:07](https://news.ycombinator.com/item?id=43602712) - ['Netflix levy' would 'price out' consumers](https://www.rte.ie/news/2025/0406/1506141-netflix-levy-ireland/)
