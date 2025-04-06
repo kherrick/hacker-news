@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-06, 10:57:22](https://news.ycombinator.com/item?id=43600490) - [How to Make Superbabies](https://www.lesswrong.com/posts/DfrSZaf3JC8vJdbZL/how-to-make-superbabies)
-* [2025-04-06, 10:45:08](https://news.ycombinator.com/item?id=43600441) - [Remote Work's Long-Term Effects: Why Dell and Amazon Are Bringing Employees Back](https://timestripe.com/magazine/blog/remote-works-long-term-effects/)
 * [2025-04-06, 09:42:28](https://news.ycombinator.com/item?id=43600192) - [The \"S\" in MCP Stands for Security](https://elenacross7.medium.com/%EF%B8%8F-the-s-in-mcp-stands-for-security-91407b33ed6b)
 * [2025-04-06, 08:53:41](https://news.ycombinator.com/item?id=43599967) - [SeedLM: Compressing LLM Weights into Seeds of Pseudo-Random Generators](https://machinelearning.apple.com/research/seedlm-compressing)
 * [2025-04-06, 07:36:12](https://news.ycombinator.com/item?id=43599637) - [Standard Ebooks: liberated ebooks, carefully produced for the true book lover](https://standardebooks.org)
@@ -13,6 +12,7 @@
 * [2025-04-05, 21:15:00](https://news.ycombinator.com/item?id=43596864) - [Rules for Negotiating a Job Offer (2016)](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 * [2025-04-05, 20:26:36](https://news.ycombinator.com/item?id=43596570) - [We are still using 88x31 buttons](https://ultrasciencelabs.com/lab-notes/why-we-are-still-using-88x31-buttons)
 * [2025-04-05, 20:24:09](https://news.ycombinator.com/item?id=43596546) - [North America Is Dripping from Below, Geoscientists Discover](https://www.jsg.utexas.edu/news/2025/04/north-america-is-dripping-from-below-geoscientists-discover/)
+* [2025-04-05, 20:24:03](https://news.ycombinator.com/item?id=43596543) - [Open Source Coalition Announces 'Model-Signing' to Strengthen ML Supply Chain](https://pypi.org/project/model-signing/)
 * [2025-04-05, 18:33:56](https://news.ycombinator.com/item?id=43595585) - [The Llama 4 herd](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
 * [2025-04-05, 17:59:55](https://news.ycombinator.com/item?id=43595283) - [Faster interpreters in Go: Catching up with C++](https://planetscale.com/blog/faster-interpreters-in-go-catching-up-with-cpp)
 * [2025-04-05, 17:57:46](https://news.ycombinator.com/item?id=43595269) - [What if we made advertising illegal?](https://simone.org/advertising/)
