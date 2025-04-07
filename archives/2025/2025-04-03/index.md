@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-03](index.md)
 
+* [2025-04-03, 23:14:42](https://news.ycombinator.com/item?id=43576602) - [The Untold Mystery Upending Egon Schiele's Legacy](https://www.wsj.com/style/egon-schiele-artist-history-eb2480e8)
 * [2025-04-03, 23:08:56](https://news.ycombinator.com/item?id=43576559) - [AEgIS turns phone sensors into antimatter camera of unprecedented resolution](https://home.cern/news/news/experiments/aegis-transforms-smartphone-sensors-antimatter-camera-unprecedented)
 * [2025-04-03, 21:49:04](https://news.ycombinator.com/item?id=43575884) - [Celebrate 50 years of Microsoft with the company's original source code](https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code)
 * [2025-04-03, 21:48:06](https://news.ycombinator.com/item?id=43575871) - [Was Houdini a Spy? (2021)](https://www.cia.gov/stories/story/was-houdini-a-spy/)

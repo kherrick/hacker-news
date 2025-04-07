@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-04-07](index.md)
 
+* [2025-04-07, 12:49:08](https://news.ycombinator.com/item?id=43610678) - [Europe's GDPR privacy law is headed for red tape bonfire within 'weeks'](https://www.politico.eu/article/eu-gdpr-privacy-law-europe-president-ursula-von-der-leyen/)
+* [2025-04-07, 12:30:02](https://news.ycombinator.com/item?id=43610527) - [Foreign visits into the U.S. fell off a cliff in March](https://www.axios.com/2025/04/04/foreign-visits-american-airports-travel-warnings)
 * [2025-04-07, 11:53:52](https://news.ycombinator.com/item?id=43610246) - [Fewer Foreign Passengers Are Flying to the US](https://jasher.substack.com/p/how-fewer-foreign-passengers-flying)
 * [2025-04-07, 11:43:46](https://news.ycombinator.com/item?id=43610187) - [Inside One of America's Last Pencil Factories (2018)](https://www.nytimes.com/2018/01/12/magazine/inside-one-of-americas-last-pencil-factories.html)
+* [2025-04-07, 10:09:17](https://news.ycombinator.com/item?id=43609661) - [The Dire Wolf Is Back](https://www.newyorker.com/magazine/2025/04/14/the-dire-wolf-is-back)
 * [2025-04-07, 10:08:50](https://news.ycombinator.com/item?id=43609658) - [Bluesky's Quest to Build Nontoxic Social Media](https://www.newyorker.com/magazine/2025/04/14/blueskys-quest-to-build-nontoxic-social-media)
 * [2025-04-07, 09:52:22](https://news.ycombinator.com/item?id=43609578) - [Classic HN: ITAPPMONROBOT](https://thedailywtf.com/articles/ITAPPMONROBOT)
 * [2025-04-07, 08:42:43](https://news.ycombinator.com/item?id=43609242) - [Your Startup Doesn't Need to Be a Unicorn](https://mattgiustwilliamson.substack.com/p/your-startup-doesnt-need-to-be-a)
