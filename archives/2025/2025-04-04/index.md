@@ -28,6 +28,7 @@
 * [2025-04-04, 17:41:42](https://news.ycombinator.com/item?id=43585587) - [YIMBYism as Industrial Policy](https://www.slowboring.com/p/yimbyism-as-industrial-policy)
 * [2025-04-04, 17:22:06](https://news.ycombinator.com/item?id=43585354) - [CINC Is Not Chef](https://cinc.sh/)
 * [2025-04-04, 17:00:40](https://news.ycombinator.com/item?id=43585103) - [Thunder Compute (YC S24) is hiring a GPU systems engineer](https://www.ycombinator.com/companies/thunder-compute/jobs/fRSS8JQ-systems-engineer)
+* [2025-04-04, 16:56:42](https://news.ycombinator.com/item?id=43585055) - [Stay on schedule with Raspberry Pi Pico W and an e-ink dashboard](https://www.raspberrypi.com/news/stay-on-schedule-with-raspberry-pi-pico-w-and-an-e-ink-dashboard/)
 * [2025-04-04, 16:28:14](https://news.ycombinator.com/item?id=43584714) - [How the 2025 US Financial Crisis is Different than 2008](https://samhenrycliff.medium.com/how-the-2025-us-financial-crisis-is-different-than-2008-5b63bdd06067)
 * [2025-04-04, 16:26:25](https://news.ycombinator.com/item?id=43584692) - [Dark mode with almost no CSS](https://search.feep.dev/blog/post/2025-04-04-dark-mode)
 * [2025-04-04, 16:23:42](https://news.ycombinator.com/item?id=43584663) - [The Curse of Ayn Rand's Heir](https://www.theatlantic.com/ideas/archive/2025/03/ayn-rand-peikoff-inheritance-battle/682219/)
