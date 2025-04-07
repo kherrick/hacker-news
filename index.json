@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-07, 20:28:59",
+      "https://news.ycombinator.com/item?id=43615624"
+    ],
+    [
+      "In React {Transitions} = F(state)",
+      "https://jordaneldredge.com/blog/transitions-f-of-state/"
+    ]
+  ],
+  [
+    [
       "2025-04-07, 20:00:58",
       "https://news.ycombinator.com/item?id=43615322"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=43614285"
     ],
     [
-      "Show HN: Lux – a luxurious package manager for Lua",
+      "Show HN: Lux – A luxurious package manager for Lua",
       "https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html"
     ]
   ],
@@ -177,16 +187,6 @@
     [
       "Rsync replaced with openrsync on macOS Sequoia",
       "https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/"
-    ]
-  ],
-  [
-    [
-      "2025-04-06, 18:25:36",
-      "https://news.ycombinator.com/item?id=43603646"
-    ],
-    [
-      "Knowing where your engineer salary comes from",
-      "https://www.seangoedecke.com/where-the-money-comes-from/"
     ]
   ],
   [
