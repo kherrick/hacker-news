@@ -23,7 +23,7 @@
 * [2025-04-06, 21:14:09](https://news.ycombinator.com/item?id=43605003) - [Rsync replaced with openrsync on macOS Sequoia](https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/)
 * [2025-04-05, 18:06:09](https://news.ycombinator.com/item?id=43595326) - [PiDP-1, or the rebirth of an old machine](https://hackaday.io/project/202541-replica-of-the-pdp-1-pidp-1/log/239666-finished-the-first-test-batch-of-5-machines)
 * [2025-04-05, 05:57:39](https://news.ycombinator.com/item?id=43591196) - [W.G. Sebald and the Politics of Melancholy](https://newrepublic.com/article/193177/wg-sebald-politics-melancholy)
-* [2025-04-05, 00:38:20](https://news.ycombinator.com/item?id=43589214) - [Charging electric vehicles 5x faster in subfreezing temps](https://news.umich.edu/charging-electric-vehicles-5x-faster-in-subfreezing-temps/)
+* [2025-04-04, 21:53:33](https://news.ycombinator.com/item?id=43588032) - [In the 1980s we also downloaded software from TV](https://newslttrs.com/in-the-1980s-we-also-downloaded-software-from-tv/)
 * [2025-04-04, 18:54:41](https://news.ycombinator.com/item?id=43586380) - [Benchmarking LLM social skills with an elimination game](https://github.com/lechmazur/elimination_game)
 * [2025-04-04, 17:47:05](https://news.ycombinator.com/item?id=43585649) - [The Mathematics of Crochet](https://hellohartblog.wordpress.com/2015/05/25/the-mathematics-of-crochet/)
 * [2025-04-04, 15:54:30](https://news.ycombinator.com/item?id=43584208) - [Mass grave of Roman soldiers found under Vienna sports field](https://gizmodo.com/mass-grave-of-150-roman-soldiers-found-under-vienna-sports-field-2000584946)
