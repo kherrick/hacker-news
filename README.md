@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-07, 12:41:25](https://news.ycombinator.com/item?id=43610615) - [HHS Secretary Kennedy Promotes Measles Quackery on Social Media](https://bsky.app/profile/mazer.us/post/3lm6roj6swk22)
-* [2025-04-07, 12:30:02](https://news.ycombinator.com/item?id=43610527) - [Foreign visits into the U.S. fell off a cliff in March](https://www.axios.com/2025/04/04/foreign-visits-american-airports-travel-warnings)
+* [2025-04-07, 13:36:58](https://news.ycombinator.com/item?id=43611289) - [How new US tariffs are forcing Europe to rethink its entire tech stack](https://spark.temrel.com/p/the-great-unstacking)
+* [2025-04-07, 13:29:39](https://news.ycombinator.com/item?id=43611195) - [Privacy at the Border: A Technical Guide to Securing Your Data and Devices](https://consciousdigital.org/privacy-at-the-border-the-ultimate-technical-guide-to-securing-your-data-and-devices-at-boarder-crossings/)
 * [2025-04-07, 11:43:46](https://news.ycombinator.com/item?id=43610187) - [Inside One of America's Last Pencil Factories (2018)](https://www.nytimes.com/2018/01/12/magazine/inside-one-of-americas-last-pencil-factories.html)
 * [2025-04-07, 10:09:17](https://news.ycombinator.com/item?id=43609661) - [The Dire Wolf Is Back](https://www.newyorker.com/magazine/2025/04/14/the-dire-wolf-is-back)
 * [2025-04-07, 08:42:43](https://news.ycombinator.com/item?id=43609242) - [Your Startup Doesn't Need to Be a Unicorn](https://mattgiustwilliamson.substack.com/p/your-startup-doesnt-need-to-be-a)
