@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2025-04-07](index.md)
 
 * [2025-04-07, 16:23:52](https://news.ycombinator.com/item?id=43613180) - [Variable duty cycle square waves with the Web Audio API](https://www.danblack.co/blog/variable-duty-cycle-square-wave)
+* [2025-04-07, 16:05:43](https://news.ycombinator.com/item?id=43612994) - [Global Health Threat: Antibiotic-Resistant \"Superbug\" Spreading in Malaysia](https://scitechdaily.com/global-health-threat-deadly-antibiotic-resistant-superbug-spreading-in-malaysia/)
 * [2025-04-07, 15:49:05](https://news.ycombinator.com/item?id=43612807) - [Why Catullus Continues to Seduce Us](https://www.newyorker.com/magazine/2025/04/07/catullus-poems-book-review-stephen-mitchell-isobel-williams)
+* [2025-04-07, 15:12:59](https://news.ycombinator.com/item?id=43612448) - [Ask HN: I'm an MIT senior and still unemployed – and so are most of my friends](https://news.ycombinator.com/item?id=43612448)
 * [2025-04-07, 14:52:52](https://news.ycombinator.com/item?id=43612211) - [LLMs Understand Nullability](https://dmodel.ai/nullability-gentle/)
 * [2025-04-07, 14:43:17](https://news.ycombinator.com/item?id=43612102) - [Decoding the 90s: Cryptography in Early Software Development (2023)](https://www.botanica.software/post/decoding-the-90s)
 * [2025-04-07, 14:02:20](https://news.ycombinator.com/item?id=43611631) - [Git's initial commit](https://github.com/git/git/commit/e83c5163316f89bfbde7d9ab23ca2e25604af290)
