@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-07, 20:00:58](https://news.ycombinator.com/item?id=43615322) - [Scaffold Level Editor](https://blog.littlepolygon.com/posts/scaffold/)
 * [2025-04-07, 18:46:43](https://news.ycombinator.com/item?id=43614592) - [Agenda Behind the Facial Recognition Tech Used by ICE and the FBI Revealed](https://www.motherjones.com/politics/2025/04/clearview-ai-immigration-ice-fbi-surveillance-facial-recognition-hoan-ton-that-hal-lambert-trump/)
 * [2025-04-07, 18:34:46](https://news.ycombinator.com/item?id=43614505) - [Choviva: Chocolate replacement with less CO2 emissions](https://choviva.com/details)
 * [2025-04-07, 18:13:23](https://news.ycombinator.com/item?id=43614285) - [Show HN: Lux – a luxurious package manager for Lua](https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html)
@@ -21,7 +22,6 @@
 * [2025-04-06, 21:14:09](https://news.ycombinator.com/item?id=43605003) - [Rsync replaced with openrsync on macOS Sequoia](https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/)
 * [2025-04-06, 18:25:36](https://news.ycombinator.com/item?id=43603646) - [Knowing where your engineer salary comes from](https://www.seangoedecke.com/where-the-money-comes-from/)
 * [2025-04-05, 18:06:09](https://news.ycombinator.com/item?id=43595326) - [PiDP-1, or the rebirth of an old machine](https://hackaday.io/project/202541-replica-of-the-pdp-1-pidp-1/log/239666-finished-the-first-test-batch-of-5-machines)
-* [2025-04-05, 00:38:20](https://news.ycombinator.com/item?id=43589214) - [Charging electric vehicles 5x faster in subfreezing temps](https://news.umich.edu/charging-electric-vehicles-5x-faster-in-subfreezing-temps/)
 * [2025-04-04, 18:54:41](https://news.ycombinator.com/item?id=43586380) - [Benchmarking LLM social skills with an elimination game](https://github.com/lechmazur/elimination_game)
 * [2025-04-04, 17:47:05](https://news.ycombinator.com/item?id=43585649) - [The Mathematics of Crochet](https://hellohartblog.wordpress.com/2015/05/25/the-mathematics-of-crochet/)
 * [2025-04-04, 15:54:30](https://news.ycombinator.com/item?id=43584208) - [Mass grave of Roman soldiers found under Vienna sports field](https://gizmodo.com/mass-grave-of-150-roman-soldiers-found-under-vienna-sports-field-2000584946)
