@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-07, 16:23:52](https://news.ycombinator.com/item?id=43613180) - [Variable duty cycle square waves with the Web Audio API](https://www.danblack.co/blog/variable-duty-cycle-square-wave)
 * [2025-04-07, 15:49:05](https://news.ycombinator.com/item?id=43612807) - [Why Catullus Continues to Seduce Us](https://www.newyorker.com/magazine/2025/04/07/catullus-poems-book-review-stephen-mitchell-isobel-williams)
 * [2025-04-07, 14:52:52](https://news.ycombinator.com/item?id=43612211) - [LLMs understand nullability](https://dmodel.ai/nullability-gentle/)
 * [2025-04-07, 14:43:17](https://news.ycombinator.com/item?id=43612102) - [Decoding the 90s: Cryptography in Early Software Development (2023)](https://www.botanica.software/post/decoding-the-90s)
@@ -11,7 +12,6 @@
 * [2025-04-07, 04:37:19](https://news.ycombinator.com/item?id=43607744) - [Show HN: Uncurl.dev – Convert curl commands to a shareable, executable UI](https://uncurl.dev/)
 * [2025-04-06, 23:47:21](https://news.ycombinator.com/item?id=43606027) - [Glamorous Toolkit](https://gtoolkit.com//)
 * [2025-04-06, 23:06:26](https://news.ycombinator.com/item?id=43605731) - [Baby Steps into Genetic Programming](https://aerique.blogspot.com/2011/01/baby-steps-into-genetic-programming.html)
-* [2025-04-06, 21:30:33](https://news.ycombinator.com/item?id=43605120) - [Microcomputers – The First Wave: Responding to Altair](https://technicshistory.com/2025/04/06/microcomputers-the-first-wave-responding-to-altair/)
 * [2025-04-06, 21:14:09](https://news.ycombinator.com/item?id=43605003) - [Rsync replaced with openrsync on macOS Sequoia](https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/)
 * [2025-04-06, 18:25:36](https://news.ycombinator.com/item?id=43603646) - [Knowing where your engineer salary comes from](https://www.seangoedecke.com/where-the-money-comes-from/)
 * [2025-04-06, 14:28:50](https://news.ycombinator.com/item?id=43601624) - [MonkeysPaw – A prompt-driven web framework in Ruby](https://worksonmymachine.substack.com/p/introducing-monkeyspaw-a-prompt-driven)

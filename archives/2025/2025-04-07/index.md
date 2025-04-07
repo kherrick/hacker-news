@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-07](index.md)
 
+* [2025-04-07, 16:23:52](https://news.ycombinator.com/item?id=43613180) - [Variable duty cycle square waves with the Web Audio API](https://www.danblack.co/blog/variable-duty-cycle-square-wave)
 * [2025-04-07, 15:49:05](https://news.ycombinator.com/item?id=43612807) - [Why Catullus Continues to Seduce Us](https://www.newyorker.com/magazine/2025/04/07/catullus-poems-book-review-stephen-mitchell-isobel-williams)
 * [2025-04-07, 14:52:52](https://news.ycombinator.com/item?id=43612211) - [LLMs Understand Nullability](https://dmodel.ai/nullability-gentle/)
 * [2025-04-07, 14:43:17](https://news.ycombinator.com/item?id=43612102) - [Decoding the 90s: Cryptography in Early Software Development (2023)](https://www.botanica.software/post/decoding-the-90s)
