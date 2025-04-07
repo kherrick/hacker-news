@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-07, 05:01:58",
+      "https://news.ycombinator.com/item?id=43607893"
+    ],
+    [
+      "Open-Source Is Just That",
+      "https://vale.rocks/posts/open-source-entitlement"
+    ]
+  ],
+  [
+    [
       "2025-04-07, 03:56:19",
       "https://news.ycombinator.com/item?id=43607502"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2025-04-06, 14:28:50",
-      "https://news.ycombinator.com/item?id=43601624"
-    ],
-    [
-      "MonkeysPaw – a prompt-driven web framework in Ruby",
-      "https://worksonmymachine.substack.com/p/introducing-monkeyspaw-a-prompt-driven"
-    ]
-  ],
-  [
-    [
       "2025-04-06, 11:41:26",
       "https://news.ycombinator.com/item?id=43600704"
     ],
@@ -217,6 +217,16 @@
     [
       "Charging electric vehicles 5x faster in subfreezing temps",
       "https://news.umich.edu/charging-electric-vehicles-5x-faster-in-subfreezing-temps/"
+    ]
+  ],
+  [
+    [
+      "2025-04-04, 18:23:20",
+      "https://news.ycombinator.com/item?id=43586043"
+    ],
+    [
+      "New Theoretical Research Trends in Cartography (2001)",
+      "https://www.researchgate.net/publication/26467883_NEW_THEORETICAL_RESEARCH_TRENDS_IN_CARTOGRAPHY"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Journey to Optimize Cloudflare D1 Database Queries",
       "https://gist.github.com/rxliuli/be31cbded41ef7eac6ae0da9070c8ef8"
-    ]
-  ],
-  [
-    [
-      "2025-04-03, 16:32:32",
-      "https://news.ycombinator.com/item?id=43572134"
-    ],
-    [
-      "Show HN: LocalScore – Local LLM Benchmark",
-      "https://www.localscore.ai/download"
     ]
   ]
 ]
