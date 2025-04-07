@@ -4,7 +4,6 @@
 * [2025-04-07, 06:51:19](https://news.ycombinator.com/item?id=43608551) - [Writing C for Curl](https://daniel.haxx.se/blog/2025/04/07/writing-c-for-curl/)
 * [2025-04-07, 03:24:33](https://news.ycombinator.com/item?id=43607321) - [Dark Mirror Ideologies](https://www.fortressofdoors.com/dark-mirror-ideologies/)
 * [2025-04-07, 02:14:58](https://news.ycombinator.com/item?id=43606912) - [Food fermentation in space: Opportunities and challenges](https://www.cell.com/iscience/fulltext/S2589-0042(25)00450-X)
-* [2025-04-06, 23:54:02](https://news.ycombinator.com/item?id=43606065) - [Why Lotus Domino? (2024)](http://www.moohar.com/blog/why_domino)
 * [2025-04-06, 23:47:21](https://news.ycombinator.com/item?id=43606027) - [Glamorous Toolkit](https://gtoolkit.com//)
 * [2025-04-06, 23:06:26](https://news.ycombinator.com/item?id=43605731) - [Baby Steps into Genetic Programming](https://aerique.blogspot.com/2011/01/baby-steps-into-genetic-programming.html)
 * [2025-04-06, 22:58:40](https://news.ycombinator.com/item?id=43605695) - [Data centers contain 90% crap data](https://gerrymcgovern.com/data-centers-contain-90-crap-data/)
@@ -28,6 +27,7 @@
 * [2025-04-04, 01:13:11](https://news.ycombinator.com/item?id=43577338) - [Reinventing Feathering for the Vectorian Era](https://rive.app/blog/how-rive-reinvented-feathering-for-the-vectorian-era)
 * [2025-04-03, 23:08:56](https://news.ycombinator.com/item?id=43576559) - [AEgIS turns phone sensors into antimatter camera of unprecedented resolution](https://home.cern/news/news/experiments/aegis-transforms-smartphone-sensors-antimatter-camera-unprecedented)
 * [2025-04-03, 17:00:21](https://news.ycombinator.com/item?id=43572511) - [Journey to Optimize Cloudflare D1 Database Queries](https://gist.github.com/rxliuli/be31cbded41ef7eac6ae0da9070c8ef8)
+* [2025-04-03, 12:34:37](https://news.ycombinator.com/item?id=43568711) - [Thomas Rattigan, short-lived Commodore CEO](https://dfarq.homeip.net/thomas-rattigan-short-lived-commodore-ceo/)
 * [2025-04-03, 07:07:48](https://news.ycombinator.com/item?id=43565891) - [A Multiwavelength Look at Proxima Centauri's Flares](https://www.centauri-dreams.org/2025/04/01/a-multiwavelength-look-at-proxima-centauris-flares/)
 * [2025-04-03, 04:06:57](https://news.ycombinator.com/item?id=43564625) - [Breaking computers taught me to build them](https://danielsada.tech/blog/carreer-part-1-the-foundation-years/)
 
