@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-04-07, 14:52:52",
+      "https://news.ycombinator.com/item?id=43612211"
+    ],
+    [
+      "LLMs Understand Nullability",
+      "https://dmodel.ai/nullability-gentle/"
+    ]
+  ],
+  [
+    [
       "2025-04-07, 14:43:17",
       "https://news.ycombinator.com/item?id=43612102"
     ],
     [
       "Decoding the 90s: Cryptography in Early Software Development (2023)",
       "https://www.botanica.software/post/decoding-the-90s"
+    ]
+  ],
+  [
+    [
+      "2025-04-07, 13:45:02",
+      "https://news.ycombinator.com/item?id=43611382"
+    ],
+    [
+      "GitMCP: Transforms any GitHub project into an MCP endpoint",
+      "https://github.com/idosal/git-mcp"
     ]
   ],
   [
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2025-04-06, 18:01:59",
-      "https://news.ycombinator.com/item?id=43603453"
-    ],
-    [
-      "Recent AI model progress feels mostly like bullshit",
-      "https://www.lesswrong.com/posts/4mvphwx5pdsZLMmpY/recent-ai-model-progress-feels-mostly-like-bullshit"
-    ]
-  ],
-  [
-    [
       "2025-04-06, 17:01:00",
       "https://news.ycombinator.com/item?id=43602940"
     ],
@@ -117,16 +127,6 @@
     [
       "MonkeysPaw – A prompt-driven web framework in Ruby",
       "https://worksonmymachine.substack.com/p/introducing-monkeyspaw-a-prompt-driven"
-    ]
-  ],
-  [
-    [
-      "2025-04-06, 11:16:31",
-      "https://news.ycombinator.com/item?id=43600582"
-    ],
-    [
-      "The Insanity of Being a Software Engineer",
-      "https://0x1.pt/2025/04/06/the-insanity-of-being-a-software-engineer/"
     ]
   ],
   [
