@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-07, 05:08:05](https://news.ycombinator.com/item?id=43607929) - [CDC's top laboratory on STDs is shut by Trump administration](https://www.statnews.com/2025/04/05/cdc-sexually-transmitted-diseases-laboratory-closed-by-trump-administration/)
 * [2025-04-07, 03:56:19](https://news.ycombinator.com/item?id=43607502) - [Bill to block OpenAI's for-profit conversion gets mysteriously gutted](https://garymarcus.substack.com/p/breaking-bill-that-would-have-blocked)
 * [2025-04-07, 03:24:33](https://news.ycombinator.com/item?id=43607321) - [Dark Mirror Ideologies](https://www.fortressofdoors.com/dark-mirror-ideologies/)
 * [2025-04-07, 01:50:02](https://news.ycombinator.com/item?id=43606713) - [Circuit breaker triggered in Japan for stock futures trading](https://www.wsj.com/livecoverage/stock-market-trump-tariffs-trade-war-04-07-25/card/circuit-breaker-triggered-in-japan-for-stock-futures-trading-Q5iMfZyfPGBEslrIObgB)
@@ -29,6 +28,7 @@
 * [2025-04-04, 01:13:11](https://news.ycombinator.com/item?id=43577338) - [Reinventing Feathering for the Vectorian Era](https://rive.app/blog/how-rive-reinvented-feathering-for-the-vectorian-era)
 * [2025-04-03, 23:08:56](https://news.ycombinator.com/item?id=43576559) - [AEgIS turns phone sensors into antimatter camera of unprecedented resolution](https://home.cern/news/news/experiments/aegis-transforms-smartphone-sensors-antimatter-camera-unprecedented)
 * [2025-04-03, 17:00:21](https://news.ycombinator.com/item?id=43572511) - [Journey to Optimize Cloudflare D1 Database Queries](https://gist.github.com/rxliuli/be31cbded41ef7eac6ae0da9070c8ef8)
+* [2025-04-03, 16:32:32](https://news.ycombinator.com/item?id=43572134) - [Show HN: LocalScore – Local LLM Benchmark](https://www.localscore.ai/download)
 * [2025-04-03, 07:07:48](https://news.ycombinator.com/item?id=43565891) - [A Multiwavelength Look at Proxima Centauri's Flares](https://www.centauri-dreams.org/2025/04/01/a-multiwavelength-look-at-proxima-centauris-flares/)
 
 ## [Archives](archives/index.md)
