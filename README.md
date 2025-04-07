@@ -22,6 +22,7 @@
 * [2025-04-04, 18:23:20](https://news.ycombinator.com/item?id=43586043) - [New Theoretical Research Trends in Cartography](https://www.researchgate.net/publication/26467883_NEW_THEORETICAL_RESEARCH_TRENDS_IN_CARTOGRAPHY)
 * [2025-04-04, 17:55:58](https://news.ycombinator.com/item?id=43585742) - [Pitfalls of Safe Rust](https://corrode.dev/blog/pitfalls-of-safe-rust/)
 * [2025-04-04, 12:51:39](https://news.ycombinator.com/item?id=43581549) - [The booming, high-stakes arms race of airline safety videos](https://thehustle.co/originals/the-booming-high-stakes-arms-race-of-airline-safety-videos)
+* [2025-04-04, 11:41:32](https://news.ycombinator.com/item?id=43580815) - [We asked camera companies why their RAW formats are all different and confusing](https://www.theverge.com/tech/640119/camera-raw-spec-format-explained-adobe-dng-canon-nikon-sony-fujifilm)
 * [2025-04-04, 09:41:13](https://news.ycombinator.com/item?id=43580012) - [Use the Gemini API with OpenAI Fallback in TypeScript](https://sometechblog.com/posts/try-gemini-api-with-openai-fallback/)
 * [2025-04-04, 04:51:45](https://news.ycombinator.com/item?id=43578444) - [Anagram Word Game](https://codingjlu.github.io/anagram/)
 * [2025-04-04, 01:13:11](https://news.ycombinator.com/item?id=43577338) - [Reinventing Feathering for the Vectorian Era](https://rive.app/blog/how-rive-reinvented-feathering-for-the-vectorian-era)
@@ -29,7 +30,6 @@
 * [2025-04-03, 17:00:21](https://news.ycombinator.com/item?id=43572511) - [Journey to Optimize Cloudflare D1 Database Queries](https://gist.github.com/rxliuli/be31cbded41ef7eac6ae0da9070c8ef8)
 * [2025-04-03, 16:32:32](https://news.ycombinator.com/item?id=43572134) - [Show HN: LocalScore – Local LLM Benchmark](https://www.localscore.ai/download)
 * [2025-04-03, 12:34:37](https://news.ycombinator.com/item?id=43568711) - [Thomas Rattigan, short-lived Commodore CEO](https://dfarq.homeip.net/thomas-rattigan-short-lived-commodore-ceo/)
-* [2025-04-03, 04:06:57](https://news.ycombinator.com/item?id=43564625) - [Breaking computers taught me to build them](https://danielsada.tech/blog/carreer-part-1-the-foundation-years/)
 
 ## [Archives](archives/index.md)
 
