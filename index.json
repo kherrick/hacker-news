@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-04-07, 03:56:19",
-      "https://news.ycombinator.com/item?id=43607502"
+      "2025-04-07, 06:51:19",
+      "https://news.ycombinator.com/item?id=43608551"
     ],
     [
-      "Bill to block OpenAI's for-profit conversion gets mysteriously gutted",
-      "https://garymarcus.substack.com/p/breaking-bill-that-would-have-blocked"
+      "Writing C for Curl",
+      "https://daniel.haxx.se/blog/2025/04/07/writing-c-for-curl/"
     ]
   ],
   [
@@ -21,12 +21,12 @@
   ],
   [
     [
-      "2025-04-07, 00:42:13",
-      "https://news.ycombinator.com/item?id=43606315"
+      "2025-04-07, 02:14:58",
+      "https://news.ycombinator.com/item?id=43606912"
     ],
     [
-      "After 'coding error' triggers firings, top NIH scientists called back to work",
-      "https://www.science.org/content/article/after-coding-error-triggers-firings-top-nih-scientists-called-back-work"
+      "Food fermentation in space: Opportunities and challenges",
+      "https://www.cell.com/iscience/fulltext/S2589-0042(25)00450-X"
     ]
   ],
   [
@@ -47,16 +47,6 @@
     [
       "Glamorous Toolkit",
       "https://gtoolkit.com//"
-    ]
-  ],
-  [
-    [
-      "2025-04-06, 23:09:15",
-      "https://news.ycombinator.com/item?id=43605751"
-    ],
-    [
-      "SciOp torrents: download, seed erased US Gov sites and datasets",
-      "https://sciop.net/uploads/"
     ]
   ],
   [
@@ -111,12 +101,12 @@
   ],
   [
     [
-      "2025-04-06, 19:06:58",
-      "https://news.ycombinator.com/item?id=43604052"
+      "2025-04-06, 18:25:36",
+      "https://news.ycombinator.com/item?id=43603646"
     ],
     [
-      "Capital Trades: Tracking Stock Market Transactions of Politicians",
-      "https://www.capitoltrades.com/"
+      "Knowing where your engineer salary comes from",
+      "https://www.seangoedecke.com/where-the-money-comes-from/"
     ]
   ],
   [
@@ -131,12 +121,12 @@
   ],
   [
     [
-      "2025-04-06, 17:01:00",
-      "https://news.ycombinator.com/item?id=43602940"
+      "2025-04-06, 17:21:54",
+      "https://news.ycombinator.com/item?id=43603091"
     ],
     [
-      "Foundry (YC F24) Is Hiring",
-      "https://www.ycombinator.com/companies/foundry/jobs/WvDDlqc-founding-fullstack-engineer-building-the-future-of-browser-agents"
+      "Max severity RCE flaw discovered in widely used Apache Parquet",
+      "https://www.bleepingcomputer.com/news/security/max-severity-rce-flaw-discovered-in-widely-used-apache-parquet/"
     ]
   ],
   [
@@ -197,6 +187,16 @@
     [
       "New Theoretical Research Trends in Cartography (2001)",
       "https://www.researchgate.net/publication/26467883_NEW_THEORETICAL_RESEARCH_TRENDS_IN_CARTOGRAPHY"
+    ]
+  ],
+  [
+    [
+      "2025-04-04, 16:56:42",
+      "https://news.ycombinator.com/item?id=43585055"
+    ],
+    [
+      "Stay on schedule with Raspberry Pi Pico W and an e-ink dashboard",
+      "https://www.raspberrypi.com/news/stay-on-schedule-with-raspberry-pi-pico-w-and-an-e-ink-dashboard/"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2025-04-03, 16:32:32",
-      "https://news.ycombinator.com/item?id=43572134"
-    ],
-    [
-      "Show HN: LocalScore – Local LLM Benchmark",
-      "https://www.localscore.ai/download"
-    ]
-  ],
-  [
-    [
       "2025-04-03, 12:34:37",
       "https://news.ycombinator.com/item?id=43568711"
     ],
@@ -297,6 +287,16 @@
     [
       "A Multiwavelength Look at Proxima Centauri's Flares",
       "https://www.centauri-dreams.org/2025/04/01/a-multiwavelength-look-at-proxima-centauris-flares/"
+    ]
+  ],
+  [
+    [
+      "2025-04-03, 04:06:57",
+      "https://news.ycombinator.com/item?id=43564625"
+    ],
+    [
+      "Breaking computers taught me to build them",
+      "https://danielsada.tech/blog/carreer-part-1-the-foundation-years/"
     ]
   ]
 ]
