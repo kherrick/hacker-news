@@ -18,6 +18,7 @@
 * [2025-04-06, 09:42:28](https://news.ycombinator.com/item?id=43600192) - [The “S” in MCP Stands for Security](https://elenacross7.medium.com/%EF%B8%8F-the-s-in-mcp-stands-for-security-91407b33ed6b)
 * [2025-04-06, 07:36:12](https://news.ycombinator.com/item?id=43599637) - [Standard Ebooks: liberated ebooks, carefully produced for the true book lover](https://standardebooks.org)
 * [2025-04-05, 00:38:20](https://news.ycombinator.com/item?id=43589214) - [Charging electric vehicles 5x faster in subfreezing temps](https://news.umich.edu/charging-electric-vehicles-5x-faster-in-subfreezing-temps/)
+* [2025-04-04, 18:54:41](https://news.ycombinator.com/item?id=43586380) - [Benchmarking LLM social skills with an elimination game](https://github.com/lechmazur/elimination_game)
 * [2025-04-04, 18:23:20](https://news.ycombinator.com/item?id=43586043) - [New Theoretical Research Trends in Cartography (2001)](https://www.researchgate.net/publication/26467883_NEW_THEORETICAL_RESEARCH_TRENDS_IN_CARTOGRAPHY)
 * [2025-04-04, 16:56:42](https://news.ycombinator.com/item?id=43585055) - [Stay on schedule with Raspberry Pi Pico W and an e-ink dashboard](https://www.raspberrypi.com/news/stay-on-schedule-with-raspberry-pi-pico-w-and-an-e-ink-dashboard/)
 * [2025-04-04, 15:40:50](https://news.ycombinator.com/item?id=43584015) - [AI masters Minecraft: DeepMind program finds diamonds without being taught](https://www.nature.com/articles/d41586-025-01019-w)
@@ -27,7 +28,6 @@
 * [2025-04-04, 01:13:11](https://news.ycombinator.com/item?id=43577338) - [Reinventing Feathering for the Vectorian Era](https://rive.app/blog/how-rive-reinvented-feathering-for-the-vectorian-era)
 * [2025-04-03, 23:08:56](https://news.ycombinator.com/item?id=43576559) - [AEgIS turns phone sensors into antimatter camera of unprecedented resolution](https://home.cern/news/news/experiments/aegis-transforms-smartphone-sensors-antimatter-camera-unprecedented)
 * [2025-04-03, 17:00:21](https://news.ycombinator.com/item?id=43572511) - [Journey to Optimize Cloudflare D1 Database Queries](https://gist.github.com/rxliuli/be31cbded41ef7eac6ae0da9070c8ef8)
-* [2025-04-03, 12:34:37](https://news.ycombinator.com/item?id=43568711) - [Thomas Rattigan, short-lived Commodore CEO](https://dfarq.homeip.net/thomas-rattigan-short-lived-commodore-ceo/)
 * [2025-04-03, 07:07:48](https://news.ycombinator.com/item?id=43565891) - [A Multiwavelength Look at Proxima Centauri's Flares](https://www.centauri-dreams.org/2025/04/01/a-multiwavelength-look-at-proxima-centauris-flares/)
 * [2025-04-03, 04:06:57](https://news.ycombinator.com/item?id=43564625) - [Breaking computers taught me to build them](https://danielsada.tech/blog/carreer-part-1-the-foundation-years/)
 

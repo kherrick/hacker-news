@@ -17,6 +17,7 @@
 * [2025-04-04, 19:13:56](https://news.ycombinator.com/item?id=43586561) - [The Tcl Programming Language: A Comprehensive Guide (2nd Edition)](https://www.magicsplat.com/ttpl/index.html)
 * [2025-04-04, 18:59:53](https://news.ycombinator.com/item?id=43586436) - [America's 'Tree of Life' is nearing the end of its life](https://www.sfgate.com/national-parks/article/olympic-national-park-tree-of-life-collapse-20240943.php)
 * [2025-04-04, 18:58:17](https://news.ycombinator.com/item?id=43586420) - [SpaceX's Fram2 returns from first-of-its-kind mission around Earth's poles](https://www.cnn.com/2025/04/04/science/spacex-fram2-mission-return-earth/index.html)
+* [2025-04-04, 18:54:41](https://news.ycombinator.com/item?id=43586380) - [Benchmarking LLM social skills with an elimination game](https://github.com/lechmazur/elimination_game)
 * [2025-04-04, 18:36:02](https://news.ycombinator.com/item?id=43586182) - [Germany's 'Deutschlandticket' helps environment – study](https://www.dw.com/en/germanys-deutschlandticket-helps-environment-study/a-72128647)
 * [2025-04-04, 18:34:07](https://news.ycombinator.com/item?id=43586157) - [The End of Sierra as We Knew It, Part 1: The Acquisition](https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-1-the-acquisition/)
 * [2025-04-04, 18:29:21](https://news.ycombinator.com/item?id=43586113) - [Yoko: A Biography](https://www.newstatesman.com/culture/books/book-of-the-day/2025/03/the-yoko-ono-problem)
