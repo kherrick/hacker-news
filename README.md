@@ -2,7 +2,6 @@
 
 * [2025-04-07, 03:56:19](https://news.ycombinator.com/item?id=43607502) - [Bill to block OpenAI's for-profit conversion gets mysteriously gutted](https://garymarcus.substack.com/p/breaking-bill-that-would-have-blocked)
 * [2025-04-07, 03:24:33](https://news.ycombinator.com/item?id=43607321) - [Dark Mirror Ideologies](https://www.fortressofdoors.com/dark-mirror-ideologies/)
-* [2025-04-07, 01:50:02](https://news.ycombinator.com/item?id=43606713) - [Circuit breaker triggered in Japan for stock futures trading](https://www.wsj.com/livecoverage/stock-market-trump-tariffs-trade-war-04-07-25/card/circuit-breaker-triggered-in-japan-for-stock-futures-trading-Q5iMfZyfPGBEslrIObgB)
 * [2025-04-07, 00:42:13](https://news.ycombinator.com/item?id=43606315) - [After 'coding error' triggers firings, top NIH scientists called back to work](https://www.science.org/content/article/after-coding-error-triggers-firings-top-nih-scientists-called-back-work)
 * [2025-04-06, 23:54:02](https://news.ycombinator.com/item?id=43606065) - [Why Lotus Domino? (2024)](http://www.moohar.com/blog/why_domino)
 * [2025-04-06, 23:47:21](https://news.ycombinator.com/item?id=43606027) - [Glamorous Toolkit](https://gtoolkit.com//)
@@ -29,6 +28,7 @@
 * [2025-04-03, 23:08:56](https://news.ycombinator.com/item?id=43576559) - [AEgIS turns phone sensors into antimatter camera of unprecedented resolution](https://home.cern/news/news/experiments/aegis-transforms-smartphone-sensors-antimatter-camera-unprecedented)
 * [2025-04-03, 17:00:21](https://news.ycombinator.com/item?id=43572511) - [Journey to Optimize Cloudflare D1 Database Queries](https://gist.github.com/rxliuli/be31cbded41ef7eac6ae0da9070c8ef8)
 * [2025-04-03, 16:32:32](https://news.ycombinator.com/item?id=43572134) - [Show HN: LocalScore – Local LLM Benchmark](https://www.localscore.ai/download)
+* [2025-04-03, 12:34:37](https://news.ycombinator.com/item?id=43568711) - [Thomas Rattigan, short-lived Commodore CEO](https://dfarq.homeip.net/thomas-rattigan-short-lived-commodore-ceo/)
 * [2025-04-03, 07:07:48](https://news.ycombinator.com/item?id=43565891) - [A Multiwavelength Look at Proxima Centauri's Flares](https://www.centauri-dreams.org/2025/04/01/a-multiwavelength-look-at-proxima-centauris-flares/)
 
 ## [Archives](archives/index.md)
