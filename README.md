@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-07, 18:46:43](https://news.ycombinator.com/item?id=43614592) - [Agenda Behind the Facial Recognition Tech Used by ICE and the FBI Revealed](https://www.motherjones.com/politics/2025/04/clearview-ai-immigration-ice-fbi-surveillance-facial-recognition-hoan-ton-that-hal-lambert-trump/)
 * [2025-04-07, 18:38:36](https://news.ycombinator.com/item?id=43614546) - [John Carmack on AI in game programming](https://twitter.com/ID_AA_Carmack/status/1909311174845329874)
+* [2025-04-07, 18:34:46](https://news.ycombinator.com/item?id=43614505) - [Choviva: Chocolate replacement with less CO2 emissions](https://choviva.com/details)
 * [2025-04-07, 18:13:23](https://news.ycombinator.com/item?id=43614285) - [Show HN: Lux – a luxurious package manager for Lua](https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html)
 * [2025-04-07, 18:04:22](https://news.ycombinator.com/item?id=43614199) - [Fifty Years of Open Source Software Supply Chain Security](https://queue.acm.org/detail.cfm?id=3722542)
 * [2025-04-07, 17:52:53](https://news.ycombinator.com/item?id=43614081) - [The Troll Hole Adventure](https://bluerenga.blog/2025/04/03/the-troll-hole-adventure-1980/)
@@ -10,7 +12,6 @@
 * [2025-04-07, 16:37:57](https://news.ycombinator.com/item?id=43613305) - [20 years of Git](https://blog.gitbutler.com/20-years-of-git/)
 * [2025-04-07, 16:25:45](https://news.ycombinator.com/item?id=43613194) - [Show HN: Browser MCP – Automate your browser using Cursor, Claude, VS Code](https://browsermcp.io/)
 * [2025-04-07, 16:23:52](https://news.ycombinator.com/item?id=43613180) - [Variable duty cycle square waves with the Web Audio API](https://www.danblack.co/blog/variable-duty-cycle-square-wave)
-* [2025-04-07, 16:05:43](https://news.ycombinator.com/item?id=43612994) - [Global Health Threat: Antibiotic-Resistant \"Superbug\" Spreading in Malaysia](https://scitechdaily.com/global-health-threat-deadly-antibiotic-resistant-superbug-spreading-in-malaysia/)
 * [2025-04-07, 15:49:05](https://news.ycombinator.com/item?id=43612807) - [Why Catullus continues to seduce us](https://www.newyorker.com/magazine/2025/04/07/catullus-poems-book-review-stephen-mitchell-isobel-williams)
 * [2025-04-07, 14:52:52](https://news.ycombinator.com/item?id=43612211) - [LLMs understand nullability](https://dmodel.ai/nullability-gentle/)
 * [2025-04-07, 14:43:17](https://news.ycombinator.com/item?id=43612102) - [Decoding the 90s: Cryptography in Early Software Development (2023)](https://www.botanica.software/post/decoding-the-90s)
@@ -28,7 +29,6 @@
 * [2025-04-04, 15:40:50](https://news.ycombinator.com/item?id=43584015) - [DeepMind program finds diamonds in Minecraft without being taught](https://www.nature.com/articles/d41586-025-01019-w)
 * [2025-04-04, 13:17:11](https://news.ycombinator.com/item?id=43581900) - [Deterministic simulation testing for async Rust](https://s2.dev/blog/dst)
 * [2025-04-04, 11:41:32](https://news.ycombinator.com/item?id=43580815) - [We asked camera companies why their RAW formats are all different and confusing](https://www.theverge.com/tech/640119/camera-raw-spec-format-explained-adobe-dng-canon-nikon-sony-fujifilm)
-* [2025-04-04, 01:41:35](https://news.ycombinator.com/item?id=43577490) - [Interviewing a software engineer who prepared with AI](https://www.kapwing.com/blog/what-its-like-to-interview-a-software-engineer-preparing-with-ai/)
 * [2025-04-03, 07:07:48](https://news.ycombinator.com/item?id=43565891) - [A Multiwavelength Look at Proxima Centauri's Flares](https://www.centauri-dreams.org/2025/04/01/a-multiwavelength-look-at-proxima-centauris-flares/)
 
 ## [Archives](archives/index.md)
