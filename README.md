@@ -2,7 +2,6 @@
 
 * [2025-04-07, 08:42:43](https://news.ycombinator.com/item?id=43609242) - [Your Startup Doesn't Need to Be a Unicorn](https://mattgiustwilliamson.substack.com/p/your-startup-doesnt-need-to-be-a)
 * [2025-04-07, 06:51:19](https://news.ycombinator.com/item?id=43608551) - [Writing C for Curl](https://daniel.haxx.se/blog/2025/04/07/writing-c-for-curl/)
-* [2025-04-07, 03:24:33](https://news.ycombinator.com/item?id=43607321) - [Dark Mirror Ideologies](https://www.fortressofdoors.com/dark-mirror-ideologies/)
 * [2025-04-07, 02:14:58](https://news.ycombinator.com/item?id=43606912) - [Food fermentation in space: Opportunities and challenges](https://www.cell.com/iscience/fulltext/S2589-0042(25)00450-X)
 * [2025-04-06, 23:47:21](https://news.ycombinator.com/item?id=43606027) - [Glamorous Toolkit](https://gtoolkit.com//)
 * [2025-04-06, 23:06:26](https://news.ycombinator.com/item?id=43605731) - [Baby Steps into Genetic Programming](https://aerique.blogspot.com/2011/01/baby-steps-into-genetic-programming.html)
@@ -20,6 +19,7 @@
 * [2025-04-04, 18:54:41](https://news.ycombinator.com/item?id=43586380) - [Benchmarking LLM social skills with an elimination game](https://github.com/lechmazur/elimination_game)
 * [2025-04-04, 18:23:20](https://news.ycombinator.com/item?id=43586043) - [New Theoretical Research Trends in Cartography (2001)](https://www.researchgate.net/publication/26467883_NEW_THEORETICAL_RESEARCH_TRENDS_IN_CARTOGRAPHY)
 * [2025-04-04, 16:56:42](https://news.ycombinator.com/item?id=43585055) - [Stay on schedule with Raspberry Pi Pico W and an e-ink dashboard](https://www.raspberrypi.com/news/stay-on-schedule-with-raspberry-pi-pico-w-and-an-e-ink-dashboard/)
+* [2025-04-04, 16:06:47](https://news.ycombinator.com/item?id=43584422) - [I'm manually transcribing the AltairBASIC source, ten lines a day starting today](https://codeberg.org/luciofstars/altabasic)
 * [2025-04-04, 15:40:50](https://news.ycombinator.com/item?id=43584015) - [AI masters Minecraft: DeepMind program finds diamonds without being taught](https://www.nature.com/articles/d41586-025-01019-w)
 * [2025-04-04, 11:41:32](https://news.ycombinator.com/item?id=43580815) - [We asked camera companies why their RAW formats are all different and confusing](https://www.theverge.com/tech/640119/camera-raw-spec-format-explained-adobe-dng-canon-nikon-sony-fujifilm)
 * [2025-04-04, 09:41:13](https://news.ycombinator.com/item?id=43580012) - [Use the Gemini API with OpenAI Fallback in TypeScript](https://sometechblog.com/posts/try-gemini-api-with-openai-fallback/)
