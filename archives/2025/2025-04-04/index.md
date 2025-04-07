@@ -63,6 +63,7 @@
 * [2025-04-04, 06:55:11](https://news.ycombinator.com/item?id=43579104) - [Lessons from open source in the Mexican government](https://lwn.net/Articles/1013776/)
 * [2025-04-04, 06:52:24](https://news.ycombinator.com/item?id=43579082) - [EU: These are scary times – let's backdoor encryption](https://www.theregister.com/2025/04/03/eu_backdoor_encryption/)
 * [2025-04-04, 04:55:38](https://news.ycombinator.com/item?id=43578475) - [Head of NSA and Cybercommand Is Ousted](https://www.nytimes.com/2025/04/03/us/politics/nsa-cyber-command-chief-fired.html)
+* [2025-04-04, 04:51:45](https://news.ycombinator.com/item?id=43578444) - [Anagram Word Game](https://codingjlu.github.io/anagram/)
 * [2025-04-04, 04:50:45](https://news.ycombinator.com/item?id=43578430) - [DeepSeek: Inference-Time Scaling for Generalist Reward Modeling](https://arxiv.org/abs/2504.02495)
 * [2025-04-04, 04:32:52](https://news.ycombinator.com/item?id=43578348) - [What's in that bright red fire retardant? No one will say, so we had it tested](https://laist.com/news/climate-environment/how-much-toxic-heavy-metal-is-in-that-bright-red-fire-retardant-we-had-it-tested-to-find-out)
 * [2025-04-04, 04:23:53](https://news.ycombinator.com/item?id=43578310) - [Anduril Industries banned from recruiting on NixOS forums](https://discourse.nixos.org/t/anduril-industries-electromagnetic-warfare-team-is-hiring/62569)
