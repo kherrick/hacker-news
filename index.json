@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-07, 17:31:42",
+      "https://news.ycombinator.com/item?id=43613896"
+    ],
+    [
+      "Show HN: Kahuna, the IndexedDB-Manager Webextension",
+      "https://github.com/hummingme/kahuna"
+    ]
+  ],
+  [
+    [
       "2025-04-07, 17:06:39",
       "https://news.ycombinator.com/item?id=43613632"
     ],
@@ -237,16 +247,6 @@
     [
       "We asked camera companies why their RAW formats are all different and confusing",
       "https://www.theverge.com/tech/640119/camera-raw-spec-format-explained-adobe-dng-canon-nikon-sony-fujifilm"
-    ]
-  ],
-  [
-    [
-      "2025-04-04, 09:41:13",
-      "https://news.ycombinator.com/item?id=43580012"
-    ],
-    [
-      "Use the Gemini API with OpenAI Fallback in TypeScript",
-      "https://sometechblog.com/posts/try-gemini-api-with-openai-fallback/"
     ]
   ],
   [
