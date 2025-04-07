@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-07](index.md)
 
+* [2025-04-07, 15:49:05](https://news.ycombinator.com/item?id=43612807) - [Why Catullus Continues to Seduce Us](https://www.newyorker.com/magazine/2025/04/07/catullus-poems-book-review-stephen-mitchell-isobel-williams)
 * [2025-04-07, 14:52:52](https://news.ycombinator.com/item?id=43612211) - [LLMs Understand Nullability](https://dmodel.ai/nullability-gentle/)
 * [2025-04-07, 14:43:17](https://news.ycombinator.com/item?id=43612102) - [Decoding the 90s: Cryptography in Early Software Development (2023)](https://www.botanica.software/post/decoding-the-90s)
 * [2025-04-07, 14:02:20](https://news.ycombinator.com/item?id=43611631) - [Git's initial commit](https://github.com/git/git/commit/e83c5163316f89bfbde7d9ab23ca2e25604af290)
@@ -28,6 +29,7 @@
 * [2025-04-07, 05:01:58](https://news.ycombinator.com/item?id=43607893) - [Open-Source Is Just That](https://vale.rocks/posts/open-source-entitlement)
 * [2025-04-07, 04:52:54](https://news.ycombinator.com/item?id=43607839) - [Refutations to Roko's Basilisk](https://substack.com/home/post/p-160751863)
 * [2025-04-07, 04:48:03](https://news.ycombinator.com/item?id=43607808) - [Serious issues in Llama 4 training. I Have Submitted My Resignation to GenAI\"](https://old.reddit.com/r/LocalLLaMA/comments/1jt8yug/serious_issues_in_llama_4_training_i_have/)
+* [2025-04-07, 04:37:19](https://news.ycombinator.com/item?id=43607744) - [Show HN: Uncurl.dev – Convert curl commands to a shareable, executable UI](https://uncurl.dev/)
 * [2025-04-07, 03:56:19](https://news.ycombinator.com/item?id=43607502) - [Bill to block OpenAI's for-profit conversion gets mysteriously gutted](https://garymarcus.substack.com/p/breaking-bill-that-would-have-blocked)
 * [2025-04-07, 03:24:33](https://news.ycombinator.com/item?id=43607321) - [Dark Mirror Ideologies](https://www.fortressofdoors.com/dark-mirror-ideologies/)
 * [2025-04-07, 02:14:58](https://news.ycombinator.com/item?id=43606912) - [Food fermentation in space: Opportunities and challenges](https://www.cell.com/iscience/fulltext/S2589-0042(25)00450-X)
