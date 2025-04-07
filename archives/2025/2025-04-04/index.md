@@ -47,6 +47,7 @@
 * [2025-04-04, 14:49:03](https://news.ycombinator.com/item?id=43583249) - [A number of electric vehicle, battery factories are being canceled](https://www.washingtonpost.com/climate-environment/2025/04/03/ev-factories-canceled/)
 * [2025-04-04, 14:41:48](https://news.ycombinator.com/item?id=43583134) - [Understanding Hydration Errors by Building a SSR React Project](https://www.propelauth.com/post/understanding-hydration-errors)
 * [2025-04-04, 14:30:20](https://news.ycombinator.com/item?id=43582985) - [Ask HN: Does Collapsing an HN Thread in a Popular story spike your CPU use?](https://news.ycombinator.com/item?id=43582985)
+* [2025-04-04, 14:17:23](https://news.ycombinator.com/item?id=43582769) - [Machine learning helps construct an evolutionary timeline of bacteria](https://www.sciencedaily.com/releases/2025/04/250403143647.htm)
 * [2025-04-04, 13:45:09](https://news.ycombinator.com/item?id=43582292) - [Dow Slides Another 1k Points. Nasdaq on Pace to Enter Bear Market](https://www.barrons.com/livecoverage/stock-market-today-040425)
 * [2025-04-04, 13:35:30](https://news.ycombinator.com/item?id=43582156) - [The software engineers willing to pay $10k to help them land a coding job](https://www.businessinsider.com/software-engineer-offers-thousands-job-referral-linkedin-2025-4)
 * [2025-04-04, 13:17:11](https://news.ycombinator.com/item?id=43581900) - [Deterministic simulation testing for async Rust](https://s2.dev/blog/dst)
