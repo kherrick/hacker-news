@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-07, 14:02:20](https://news.ycombinator.com/item?id=43611631) - [Git's initial commit](https://github.com/git/git/commit/e83c5163316f89bfbde7d9ab23ca2e25604af290)
+* [2025-04-07, 14:43:17](https://news.ycombinator.com/item?id=43612102) - [Decoding the 90s: Cryptography in Early Software Development (2023)](https://www.botanica.software/post/decoding-the-90s)
 * [2025-04-07, 11:43:46](https://news.ycombinator.com/item?id=43610187) - [Inside One of America's Last Pencil Factories (2018)](https://www.nytimes.com/2018/01/12/magazine/inside-one-of-americas-last-pencil-factories.html)
 * [2025-04-07, 10:09:17](https://news.ycombinator.com/item?id=43609661) - [The Dire Wolf Is Back](https://www.newyorker.com/magazine/2025/04/14/the-dire-wolf-is-back)
 * [2025-04-07, 08:42:43](https://news.ycombinator.com/item?id=43609242) - [Your Startup Doesn't Need to Be a Unicorn](https://mattgiustwilliamson.substack.com/p/your-startup-doesnt-need-to-be-a)

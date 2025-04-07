@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-07](index.md)
 
+* [2025-04-07, 14:43:17](https://news.ycombinator.com/item?id=43612102) - [Decoding the 90s: Cryptography in Early Software Development (2023)](https://www.botanica.software/post/decoding-the-90s)
 * [2025-04-07, 14:02:20](https://news.ycombinator.com/item?id=43611631) - [Git's initial commit](https://github.com/git/git/commit/e83c5163316f89bfbde7d9ab23ca2e25604af290)
 * [2025-04-07, 13:36:58](https://news.ycombinator.com/item?id=43611289) - [How new US tariffs are forcing Europe to rethink its entire tech stack](https://spark.temrel.com/p/the-great-unstacking)
 * [2025-04-07, 13:29:39](https://news.ycombinator.com/item?id=43611195) - [Privacy at the Border: A Technical Guide to Securing Your Data and Devices](https://consciousdigital.org/privacy-at-the-border-the-ultimate-technical-guide-to-securing-your-data-and-devices-at-boarder-crossings/)
