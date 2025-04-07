@@ -12,6 +12,7 @@
 * [2025-04-07, 17:06:39](https://news.ycombinator.com/item?id=43613632) - [Circling the Good](https://www.nybooks.com/articles/2025/04/24/circling-the-good-thomas-nagel/)
 * [2025-04-07, 16:37:57](https://news.ycombinator.com/item?id=43613305) - [20 years of Git](https://blog.gitbutler.com/20-years-of-git/)
 * [2025-04-07, 16:25:45](https://news.ycombinator.com/item?id=43613194) - [Show HN: Browser MCP – Automate your browser using Cursor, Claude, VS Code](https://browsermcp.io/)
+* [2025-04-07, 16:23:52](https://news.ycombinator.com/item?id=43613180) - [Variable duty cycle square waves with the Web Audio API](https://www.danblack.co/blog/variable-duty-cycle-square-wave)
 * [2025-04-07, 15:49:05](https://news.ycombinator.com/item?id=43612807) - [Why Catullus continues to seduce us](https://www.newyorker.com/magazine/2025/04/07/catullus-poems-book-review-stephen-mitchell-isobel-williams)
 * [2025-04-07, 14:43:17](https://news.ycombinator.com/item?id=43612102) - [Decoding the 90s: Cryptography in Early Software Development (2023)](https://www.botanica.software/post/decoding-the-90s)
 * [2025-04-07, 10:09:17](https://news.ycombinator.com/item?id=43609661) - [The Dire Wolf Is Back](https://www.newyorker.com/magazine/2025/04/14/the-dire-wolf-is-back)
@@ -26,10 +27,9 @@
 * [2025-04-04, 17:47:05](https://news.ycombinator.com/item?id=43585649) - [The Mathematics of Crochet](https://hellohartblog.wordpress.com/2015/05/25/the-mathematics-of-crochet/)
 * [2025-04-04, 15:54:30](https://news.ycombinator.com/item?id=43584208) - [Mass grave of Roman soldiers found under Vienna sports field](https://gizmodo.com/mass-grave-of-150-roman-soldiers-found-under-vienna-sports-field-2000584946)
 * [2025-04-04, 15:40:50](https://news.ycombinator.com/item?id=43584015) - [DeepMind program finds diamonds in Minecraft without being taught](https://www.nature.com/articles/d41586-025-01019-w)
-* [2025-04-04, 14:17:23](https://news.ycombinator.com/item?id=43582769) - [Machine learning helps construct an evolutionary timeline of bacteria](https://www.sciencedaily.com/releases/2025/04/250403143647.htm)
-* [2025-04-04, 13:35:30](https://news.ycombinator.com/item?id=43582156) - [The software engineers willing to pay $10k to help them land a coding job](https://www.businessinsider.com/software-engineer-offers-thousands-job-referral-linkedin-2025-4)
 * [2025-04-04, 13:17:11](https://news.ycombinator.com/item?id=43581900) - [Deterministic simulation testing for async Rust](https://s2.dev/blog/dst)
 * [2025-04-04, 11:41:32](https://news.ycombinator.com/item?id=43580815) - [We asked camera companies why their RAW formats are all different and confusing](https://www.theverge.com/tech/640119/camera-raw-spec-format-explained-adobe-dng-canon-nikon-sony-fujifilm)
+* [2025-04-03, 07:07:48](https://news.ycombinator.com/item?id=43565891) - [A Multiwavelength Look at Proxima Centauri's Flares](https://www.centauri-dreams.org/2025/04/01/a-multiwavelength-look-at-proxima-centauris-flares/)
 
 ## [Archives](archives/index.md)
 
