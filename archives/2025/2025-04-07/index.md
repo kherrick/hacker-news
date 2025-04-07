@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-07](index.md)
 
 * [2025-04-07, 12:49:08](https://news.ycombinator.com/item?id=43610678) - [Europe's GDPR privacy law is headed for red tape bonfire within 'weeks'](https://www.politico.eu/article/eu-gdpr-privacy-law-europe-president-ursula-von-der-leyen/)
+* [2025-04-07, 12:35:56](https://news.ycombinator.com/item?id=43610573) - [Trade, Tariffs, and Tech](https://stratechery.com/2025/trade-tariffs-and-tech/)
 * [2025-04-07, 12:30:02](https://news.ycombinator.com/item?id=43610527) - [Foreign visits into the U.S. fell off a cliff in March](https://www.axios.com/2025/04/04/foreign-visits-american-airports-travel-warnings)
 * [2025-04-07, 11:53:52](https://news.ycombinator.com/item?id=43610246) - [Fewer Foreign Passengers Are Flying to the US](https://jasher.substack.com/p/how-fewer-foreign-passengers-flying)
 * [2025-04-07, 11:43:46](https://news.ycombinator.com/item?id=43610187) - [Inside One of America's Last Pencil Factories (2018)](https://www.nytimes.com/2018/01/12/magazine/inside-one-of-americas-last-pencil-factories.html)
