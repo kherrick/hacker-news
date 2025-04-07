@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-07, 14:43:17](https://news.ycombinator.com/item?id=43612102) - [Decoding the 90s: Cryptography in Early Software Development (2023)](https://www.botanica.software/post/decoding-the-90s)
+* [2025-04-07, 12:58:09](https://news.ycombinator.com/item?id=43610760) - [Watch Antimatter Fall: Scientists Capture Gravity's Pull with a 3840MP Camera](https://scitechdaily.com/watch-antimatter-fall-scientists-capture-gravitys-pull-with-a-3840mp-camera/)
 * [2025-04-07, 11:43:46](https://news.ycombinator.com/item?id=43610187) - [Inside One of America's Last Pencil Factories (2018)](https://www.nytimes.com/2018/01/12/magazine/inside-one-of-americas-last-pencil-factories.html)
-* [2025-04-07, 10:09:17](https://news.ycombinator.com/item?id=43609661) - [The Dire Wolf Is Back](https://www.newyorker.com/magazine/2025/04/14/the-dire-wolf-is-back)
 * [2025-04-07, 08:42:43](https://news.ycombinator.com/item?id=43609242) - [Your Startup Doesn't Need to Be a Unicorn](https://mattgiustwilliamson.substack.com/p/your-startup-doesnt-need-to-be-a)
 * [2025-04-06, 23:47:21](https://news.ycombinator.com/item?id=43606027) - [Glamorous Toolkit](https://gtoolkit.com//)
 * [2025-04-06, 23:06:26](https://news.ycombinator.com/item?id=43605731) - [Baby Steps into Genetic Programming](https://aerique.blogspot.com/2011/01/baby-steps-into-genetic-programming.html)

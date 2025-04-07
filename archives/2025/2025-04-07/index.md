@@ -8,6 +8,7 @@
 * [2025-04-07, 14:02:20](https://news.ycombinator.com/item?id=43611631) - [Git's initial commit](https://github.com/git/git/commit/e83c5163316f89bfbde7d9ab23ca2e25604af290)
 * [2025-04-07, 13:36:58](https://news.ycombinator.com/item?id=43611289) - [How new US tariffs are forcing Europe to rethink its entire tech stack](https://spark.temrel.com/p/the-great-unstacking)
 * [2025-04-07, 13:29:39](https://news.ycombinator.com/item?id=43611195) - [Privacy at the Border: A Technical Guide to Securing Your Data and Devices](https://consciousdigital.org/privacy-at-the-border-the-ultimate-technical-guide-to-securing-your-data-and-devices-at-boarder-crossings/)
+* [2025-04-07, 12:58:09](https://news.ycombinator.com/item?id=43610760) - [Watch Antimatter Fall: Scientists Capture Gravity's Pull with a 3840MP Camera](https://scitechdaily.com/watch-antimatter-fall-scientists-capture-gravitys-pull-with-a-3840mp-camera/)
 * [2025-04-07, 12:49:08](https://news.ycombinator.com/item?id=43610678) - [Europe's GDPR privacy law is headed for red tape bonfire within 'weeks'](https://www.politico.eu/article/eu-gdpr-privacy-law-europe-president-ursula-von-der-leyen/)
 * [2025-04-07, 12:41:25](https://news.ycombinator.com/item?id=43610615) - [HHS Secretary Kennedy Promotes Measles Quackery on Social Media](https://bsky.app/profile/mazer.us/post/3lm6roj6swk22)
 * [2025-04-07, 12:35:56](https://news.ycombinator.com/item?id=43610573) - [Trade, Tariffs, and Tech](https://stratechery.com/2025/trade-tariffs-and-tech/)
