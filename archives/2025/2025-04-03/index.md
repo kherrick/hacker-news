@@ -42,6 +42,7 @@
 * [2025-04-03, 16:50:08](https://news.ycombinator.com/item?id=43572374) - [Reasoning models don't always say what they think](https://www.anthropic.com/research/reasoning-models-dont-say-think)
 * [2025-04-03, 16:32:32](https://news.ycombinator.com/item?id=43572134) - [Show HN: LocalScore – Local LLM Benchmark](https://www.localscore.ai/download)
 * [2025-04-03, 16:13:02](https://news.ycombinator.com/item?id=43571851) - [AI 2027](https://ai-2027.com/)
+* [2025-04-03, 15:42:06](https://news.ycombinator.com/item?id=43571332) - [Cursed Excel: \"1/2\"+1=45660](https://www.quadratichq.com/blog/cursed-excel-datetime-math)
 * [2025-04-03, 15:24:49](https://news.ycombinator.com/item?id=43571099) - [A special build of curl that can impersonate Chrome and Firefox](https://github.com/lwthiker/curl-impersonate)
 * [2025-04-03, 14:59:42](https://news.ycombinator.com/item?id=43570749) - [Show HN: Novnaode, Global load balancing with Caddy, no vendor lock-in](https://news.ycombinator.com/item?id=43570749)
 * [2025-04-03, 14:55:17](https://news.ycombinator.com/item?id=43570676) - [QVQ-Max: Think with Evidence](https://qwenlm.github.io/blog/qvq-max-preview/)
