@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-07, 17:06:39](https://news.ycombinator.com/item?id=43613632) - [Circling the Good](https://www.nybooks.com/articles/2025/04/24/circling-the-good-thomas-nagel/)
-* [2025-04-07, 16:51:50](https://news.ycombinator.com/item?id=43613453) - [Open Source Is Geopolitical Now](https://www.openpioneers.com/p/open-source-is-geopolitical-now)
 * [2025-04-07, 16:25:45](https://news.ycombinator.com/item?id=43613194) - [Show HN: Browser MCP – Automate your browser using Cursor, Claude, VS Code](https://browsermcp.io/)
 * [2025-04-07, 16:23:52](https://news.ycombinator.com/item?id=43613180) - [Variable duty cycle square waves with the Web Audio API](https://www.danblack.co/blog/variable-duty-cycle-square-wave)
 * [2025-04-07, 16:05:43](https://news.ycombinator.com/item?id=43612994) - [Global Health Threat: Antibiotic-Resistant \"Superbug\" Spreading in Malaysia](https://scitechdaily.com/global-health-threat-deadly-antibiotic-resistant-superbug-spreading-in-malaysia/)
@@ -27,6 +26,7 @@
 * [2025-04-04, 11:41:32](https://news.ycombinator.com/item?id=43580815) - [We asked camera companies why their RAW formats are all different and confusing](https://www.theverge.com/tech/640119/camera-raw-spec-format-explained-adobe-dng-canon-nikon-sony-fujifilm)
 * [2025-04-04, 09:41:13](https://news.ycombinator.com/item?id=43580012) - [Use the Gemini API with OpenAI Fallback in TypeScript](https://sometechblog.com/posts/try-gemini-api-with-openai-fallback/)
 * [2025-04-03, 23:14:42](https://news.ycombinator.com/item?id=43576602) - [The Untold Mystery Upending Egon Schiele's Legacy](https://www.wsj.com/style/egon-schiele-artist-history-eb2480e8)
+* [2025-04-03, 21:44:20](https://news.ycombinator.com/item?id=43575833) - [Drag Racers Are Ditching Superchargers for Scuba-Style Tanks and Compressed Air](https://www.thedrive.com/news/drag-racers-are-ditching-superchargers-for-scuba-style-tanks-and-compressed-air)
 * [2025-04-03, 17:00:21](https://news.ycombinator.com/item?id=43572511) - [Journey to Optimize Cloudflare D1 Database Queries](https://gist.github.com/rxliuli/be31cbded41ef7eac6ae0da9070c8ef8)
 * [2025-04-03, 15:42:06](https://news.ycombinator.com/item?id=43571332) - [Cursed Excel: \"1/2\"+1=45660](https://www.quadratichq.com/blog/cursed-excel-datetime-math)
 * [2025-04-03, 07:07:48](https://news.ycombinator.com/item?id=43565891) - [A Multiwavelength Look at Proxima Centauri's Flares](https://www.centauri-dreams.org/2025/04/01/a-multiwavelength-look-at-proxima-centauris-flares/)

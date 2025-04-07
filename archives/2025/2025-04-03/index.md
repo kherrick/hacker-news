@@ -8,6 +8,7 @@
 * [2025-04-03, 23:08:56](https://news.ycombinator.com/item?id=43576559) - [AEgIS turns phone sensors into antimatter camera of unprecedented resolution](https://home.cern/news/news/experiments/aegis-transforms-smartphone-sensors-antimatter-camera-unprecedented)
 * [2025-04-03, 21:49:04](https://news.ycombinator.com/item?id=43575884) - [Celebrate 50 years of Microsoft with the company's original source code](https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code)
 * [2025-04-03, 21:48:06](https://news.ycombinator.com/item?id=43575871) - [Was Houdini a Spy? (2021)](https://www.cia.gov/stories/story/was-houdini-a-spy/)
+* [2025-04-03, 21:44:20](https://news.ycombinator.com/item?id=43575833) - [Drag Racers Are Ditching Superchargers for Scuba-Style Tanks and Compressed Air](https://www.thedrive.com/news/drag-racers-are-ditching-superchargers-for-scuba-style-tanks-and-compressed-air)
 * [2025-04-03, 21:15:03](https://news.ycombinator.com/item?id=43575515) - [Getting the Firmware of a VTech/LeapFrog LeapStart/Magibook](https://leloubil.prose.sh/leapstart-1)
 * [2025-04-03, 21:12:10](https://news.ycombinator.com/item?id=43575479) - [The Mainframe Vocabulary Problem (and Why It Matters)](https://mainframesociety.com/news/2588640)
 * [2025-04-03, 21:08:31](https://news.ycombinator.com/item?id=43575433) - [Aviator (YC S21) is hiring engineers to build AI DevEx platform](https://www.ycombinator.com/companies/aviator/jobs)
