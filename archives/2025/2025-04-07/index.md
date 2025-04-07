@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-07](index.md)
 
+* [2025-04-07, 17:06:39](https://news.ycombinator.com/item?id=43613632) - [Circling the Good](https://www.nybooks.com/articles/2025/04/24/circling-the-good-thomas-nagel/)
+* [2025-04-07, 16:51:50](https://news.ycombinator.com/item?id=43613453) - [Open Source Is Geopolitical Now](https://www.openpioneers.com/p/open-source-is-geopolitical-now)
+* [2025-04-07, 16:25:45](https://news.ycombinator.com/item?id=43613194) - [Show HN: Browser MCP – Automate your browser using Cursor, Claude, VS Code](https://browsermcp.io/)
 * [2025-04-07, 16:23:52](https://news.ycombinator.com/item?id=43613180) - [Variable duty cycle square waves with the Web Audio API](https://www.danblack.co/blog/variable-duty-cycle-square-wave)
 * [2025-04-07, 16:05:43](https://news.ycombinator.com/item?id=43612994) - [Global Health Threat: Antibiotic-Resistant \"Superbug\" Spreading in Malaysia](https://scitechdaily.com/global-health-threat-deadly-antibiotic-resistant-superbug-spreading-in-malaysia/)
 * [2025-04-07, 15:49:05](https://news.ycombinator.com/item?id=43612807) - [Why Catullus Continues to Seduce Us](https://www.newyorker.com/magazine/2025/04/07/catullus-poems-book-review-stephen-mitchell-isobel-williams)
