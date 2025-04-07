@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-07](index.md)
 
+* [2025-04-07, 17:31:42](https://news.ycombinator.com/item?id=43613896) - [Show HN: Kahuna, the IndexedDB-Manager Webextension](https://github.com/hummingme/kahuna)
 * [2025-04-07, 17:06:39](https://news.ycombinator.com/item?id=43613632) - [Circling the Good](https://www.nybooks.com/articles/2025/04/24/circling-the-good-thomas-nagel/)
 * [2025-04-07, 16:51:50](https://news.ycombinator.com/item?id=43613453) - [Open Source Is Geopolitical Now](https://www.openpioneers.com/p/open-source-is-geopolitical-now)
 * [2025-04-07, 16:25:45](https://news.ycombinator.com/item?id=43613194) - [Show HN: Browser MCP – Automate your browser using Cursor, Claude, VS Code](https://browsermcp.io/)

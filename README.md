@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-07, 17:31:42](https://news.ycombinator.com/item?id=43613896) - [Show HN: Kahuna, the IndexedDB-Manager Webextension](https://github.com/hummingme/kahuna)
 * [2025-04-07, 17:06:39](https://news.ycombinator.com/item?id=43613632) - [Circling the Good](https://www.nybooks.com/articles/2025/04/24/circling-the-good-thomas-nagel/)
 * [2025-04-07, 16:25:45](https://news.ycombinator.com/item?id=43613194) - [Show HN: Browser MCP – Automate your browser using Cursor, Claude, VS Code](https://browsermcp.io/)
 * [2025-04-07, 16:23:52](https://news.ycombinator.com/item?id=43613180) - [Variable duty cycle square waves with the Web Audio API](https://www.danblack.co/blog/variable-duty-cycle-square-wave)
@@ -24,7 +25,6 @@
 * [2025-04-04, 15:40:50](https://news.ycombinator.com/item?id=43584015) - [DeepMind program finds diamonds in Minecraft without being taught](https://www.nature.com/articles/d41586-025-01019-w)
 * [2025-04-04, 13:17:11](https://news.ycombinator.com/item?id=43581900) - [Deterministic simulation testing for async Rust](https://s2.dev/blog/dst)
 * [2025-04-04, 11:41:32](https://news.ycombinator.com/item?id=43580815) - [We asked camera companies why their RAW formats are all different and confusing](https://www.theverge.com/tech/640119/camera-raw-spec-format-explained-adobe-dng-canon-nikon-sony-fujifilm)
-* [2025-04-04, 09:41:13](https://news.ycombinator.com/item?id=43580012) - [Use the Gemini API with OpenAI Fallback in TypeScript](https://sometechblog.com/posts/try-gemini-api-with-openai-fallback/)
 * [2025-04-03, 23:14:42](https://news.ycombinator.com/item?id=43576602) - [The Untold Mystery Upending Egon Schiele's Legacy](https://www.wsj.com/style/egon-schiele-artist-history-eb2480e8)
 * [2025-04-03, 21:44:20](https://news.ycombinator.com/item?id=43575833) - [Drag Racers Are Ditching Superchargers for Scuba-Style Tanks and Compressed Air](https://www.thedrive.com/news/drag-racers-are-ditching-superchargers-for-scuba-style-tanks-and-compressed-air)
 * [2025-04-03, 17:00:21](https://news.ycombinator.com/item?id=43572511) - [Journey to Optimize Cloudflare D1 Database Queries](https://gist.github.com/rxliuli/be31cbded41ef7eac6ae0da9070c8ef8)
