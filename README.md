@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-07, 00:54:10](https://news.ycombinator.com/item?id=43606371) - [Let's Ban Billboards](https://iambateman.com/articles/billboards)
+* [2025-04-07, 01:50:02](https://news.ycombinator.com/item?id=43606713) - [Circuit Breaker Triggered in Japan for Stock Futures Trading](https://www.wsj.com/livecoverage/stock-market-trump-tariffs-trade-war-04-07-25/card/circuit-breaker-triggered-in-japan-for-stock-futures-trading-Q5iMfZyfPGBEslrIObgB)
 * [2025-04-07, 00:42:13](https://news.ycombinator.com/item?id=43606315) - [After 'coding error' triggers firings, top NIH scientists called back to work](https://www.science.org/content/article/after-coding-error-triggers-firings-top-nih-scientists-called-back-work)
-* [2025-04-06, 23:54:02](https://news.ycombinator.com/item?id=43606065) - [Why Lotus Domino?](http://www.moohar.com/blog/why_domino)
+* [2025-04-06, 23:54:02](https://news.ycombinator.com/item?id=43606065) - [Why Lotus Domino? (2024)](http://www.moohar.com/blog/why_domino)
 * [2025-04-06, 23:47:21](https://news.ycombinator.com/item?id=43606027) - [Glamorous Toolkit](https://gtoolkit.com//)
 * [2025-04-06, 23:09:15](https://news.ycombinator.com/item?id=43605751) - [SciOp torrents: download, seed erased US Gov sites and datasets](https://sciop.net/uploads/)
 * [2025-04-06, 23:06:26](https://news.ycombinator.com/item?id=43605731) - [Baby Steps into Genetic Programming](https://aerique.blogspot.com/2011/01/baby-steps-into-genetic-programming.html)
@@ -14,6 +14,7 @@
 * [2025-04-06, 18:01:59](https://news.ycombinator.com/item?id=43603453) - [Recent AI model progress feels mostly like bullshit](https://www.lesswrong.com/posts/4mvphwx5pdsZLMmpY/recent-ai-model-progress-feels-mostly-like-bullshit)
 * [2025-04-06, 17:21:54](https://news.ycombinator.com/item?id=43603091) - [Max severity RCE flaw discovered in widely used Apache Parquet](https://www.bleepingcomputer.com/news/security/max-severity-rce-flaw-discovered-in-widely-used-apache-parquet/)
 * [2025-04-06, 17:01:00](https://news.ycombinator.com/item?id=43602940) - [Foundry (YC F24) Is Hiring](https://www.ycombinator.com/companies/foundry/jobs/WvDDlqc-founding-fullstack-engineer-building-the-future-of-browser-agents)
+* [2025-04-06, 14:28:50](https://news.ycombinator.com/item?id=43601624) - [MonkeysPaw – a prompt-driven web framework in Ruby](https://worksonmymachine.substack.com/p/introducing-monkeyspaw-a-prompt-driven)
 * [2025-04-06, 11:41:26](https://news.ycombinator.com/item?id=43600704) - [Neutron Stars Hint at Another Dimension](https://nautil.us/neutron-stars-hint-at-another-dimension-1202180/)
 * [2025-04-06, 09:42:28](https://news.ycombinator.com/item?id=43600192) - [The “S” in MCP Stands for Security](https://elenacross7.medium.com/%EF%B8%8F-the-s-in-mcp-stands-for-security-91407b33ed6b)
 * [2025-04-06, 07:36:12](https://news.ycombinator.com/item?id=43599637) - [Standard Ebooks: liberated ebooks, carefully produced for the true book lover](https://standardebooks.org)
@@ -27,7 +28,6 @@
 * [2025-04-03, 23:08:56](https://news.ycombinator.com/item?id=43576559) - [AEgIS turns phone sensors into antimatter camera of unprecedented resolution](https://home.cern/news/news/experiments/aegis-transforms-smartphone-sensors-antimatter-camera-unprecedented)
 * [2025-04-03, 17:00:21](https://news.ycombinator.com/item?id=43572511) - [Journey to Optimize Cloudflare D1 Database Queries](https://gist.github.com/rxliuli/be31cbded41ef7eac6ae0da9070c8ef8)
 * [2025-04-03, 16:32:32](https://news.ycombinator.com/item?id=43572134) - [Show HN: LocalScore – Local LLM Benchmark](https://www.localscore.ai/download)
-* [2025-04-03, 14:55:17](https://news.ycombinator.com/item?id=43570676) - [QVQ-Max: Think with Evidence](https://qwenlm.github.io/blog/qvq-max-preview/)
 * [2025-04-03, 12:34:37](https://news.ycombinator.com/item?id=43568711) - [Thomas Rattigan, short-lived Commodore CEO](https://dfarq.homeip.net/thomas-rattigan-short-lived-commodore-ceo/)
 * [2025-04-03, 04:06:57](https://news.ycombinator.com/item?id=43564625) - [Breaking computers taught me to build them](https://danielsada.tech/blog/carreer-part-1-the-foundation-years/)
 
