@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-03](index.md)
 
+* [2025-04-03, 23:08:56](https://news.ycombinator.com/item?id=43576559) - [AEgIS turns phone sensors into antimatter camera of unprecedented resolution](https://home.cern/news/news/experiments/aegis-transforms-smartphone-sensors-antimatter-camera-unprecedented)
 * [2025-04-03, 21:49:04](https://news.ycombinator.com/item?id=43575884) - [Celebrate 50 years of Microsoft with the company's original source code](https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code)
 * [2025-04-03, 21:48:06](https://news.ycombinator.com/item?id=43575871) - [Was Houdini a Spy? (2021)](https://www.cia.gov/stories/story/was-houdini-a-spy/)
 * [2025-04-03, 21:15:03](https://news.ycombinator.com/item?id=43575515) - [Getting the Firmware of a VTech/LeapFrog LeapStart/Magibook](https://leloubil.prose.sh/leapstart-1)
@@ -35,6 +36,7 @@
 * [2025-04-03, 17:17:54](https://news.ycombinator.com/item?id=43572733) - [Show HN: Hatchet v1 – a task orchestration platform built on Postgres](https://github.com/hatchet-dev/hatchet)
 * [2025-04-03, 17:02:51](https://news.ycombinator.com/item?id=43572544) - [Declarative Schemas for simpler database management](https://supabase.com/blog/declarative-schemas)
 * [2025-04-03, 17:01:01](https://news.ycombinator.com/item?id=43572518) - [Onyx (YC W24) Is Hiring](https://www.ycombinator.com/companies/onyx/jobs/CUHpbpE-founding-devrel-engineer)
+* [2025-04-03, 17:00:21](https://news.ycombinator.com/item?id=43572511) - [Journey to Optimize Cloudflare D1 Database Queries](https://gist.github.com/rxliuli/be31cbded41ef7eac6ae0da9070c8ef8)
 * [2025-04-03, 16:57:01](https://news.ycombinator.com/item?id=43572466) - [Tell HN: Pocket (acquired by Moz) only works with FF now](https://news.ycombinator.com/item?id=43572466)
 * [2025-04-03, 16:50:08](https://news.ycombinator.com/item?id=43572374) - [Reasoning models don't always say what they think](https://www.anthropic.com/research/reasoning-models-dont-say-think)
 * [2025-04-03, 16:32:32](https://news.ycombinator.com/item?id=43572134) - [Show HN: LocalScore – Local LLM Benchmark](https://www.localscore.ai/download)
