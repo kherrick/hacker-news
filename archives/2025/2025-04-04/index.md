@@ -47,6 +47,7 @@
 * [2025-04-04, 14:41:48](https://news.ycombinator.com/item?id=43583134) - [Understanding Hydration Errors by Building a SSR React Project](https://www.propelauth.com/post/understanding-hydration-errors)
 * [2025-04-04, 14:30:20](https://news.ycombinator.com/item?id=43582985) - [Ask HN: Does Collapsing an HN Thread in a Popular story spike your CPU use?](https://news.ycombinator.com/item?id=43582985)
 * [2025-04-04, 13:45:09](https://news.ycombinator.com/item?id=43582292) - [Dow Slides Another 1k Points. Nasdaq on Pace to Enter Bear Market](https://www.barrons.com/livecoverage/stock-market-today-040425)
+* [2025-04-04, 13:17:11](https://news.ycombinator.com/item?id=43581900) - [Deterministic simulation testing for async Rust](https://s2.dev/blog/dst)
 * [2025-04-04, 13:03:30](https://news.ycombinator.com/item?id=43581714) - [NOAA Weather will delete websites using Amazon, Google cloud services Saturday](https://www.bloomberg.com/news/articles/2025-04-04/us-weather-agency-websites-to-vanish-under-planned-contract-cuts)
 * [2025-04-04, 12:59:48](https://news.ycombinator.com/item?id=43581672) - [Why does Britain feel so poor?](https://martinrobbins.substack.com/p/von-6-why-does-britain-feel-so-poor)
 * [2025-04-04, 12:54:38](https://news.ycombinator.com/item?id=43581584) - [Nvidia adds native Python support to CUDA](https://thenewstack.io/nvidia-finally-adds-native-python-support-to-cuda/)
