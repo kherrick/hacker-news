@@ -2,7 +2,6 @@
 
 * [2025-04-07, 05:08:05](https://news.ycombinator.com/item?id=43607929) - [CDC's top laboratory on STDs is shut by Trump administration](https://www.statnews.com/2025/04/05/cdc-sexually-transmitted-diseases-laboratory-closed-by-trump-administration/)
 * [2025-04-07, 05:01:58](https://news.ycombinator.com/item?id=43607893) - [Open-Source Is Just That](https://vale.rocks/posts/open-source-entitlement)
-* [2025-04-07, 04:48:03](https://news.ycombinator.com/item?id=43607808) - [Serious issues in Llama 4 training. I Have Submitted My Resignation to GenAI\"](https://old.reddit.com/r/LocalLLaMA/comments/1jt8yug/serious_issues_in_llama_4_training_i_have/)
 * [2025-04-07, 03:56:19](https://news.ycombinator.com/item?id=43607502) - [Bill to block OpenAI's for-profit conversion gets mysteriously gutted](https://garymarcus.substack.com/p/breaking-bill-that-would-have-blocked)
 * [2025-04-07, 03:24:33](https://news.ycombinator.com/item?id=43607321) - [Dark Mirror Ideologies](https://www.fortressofdoors.com/dark-mirror-ideologies/)
 * [2025-04-07, 01:50:02](https://news.ycombinator.com/item?id=43606713) - [Circuit breaker triggered in Japan for stock futures trading](https://www.wsj.com/livecoverage/stock-market-trump-tariffs-trade-war-04-07-25/card/circuit-breaker-triggered-in-japan-for-stock-futures-trading-Q5iMfZyfPGBEslrIObgB)
@@ -12,11 +11,11 @@
 * [2025-04-06, 23:09:15](https://news.ycombinator.com/item?id=43605751) - [SciOp torrents: download, seed erased US Gov sites and datasets](https://sciop.net/uploads/)
 * [2025-04-06, 23:06:26](https://news.ycombinator.com/item?id=43605731) - [Baby Steps into Genetic Programming](https://aerique.blogspot.com/2011/01/baby-steps-into-genetic-programming.html)
 * [2025-04-06, 22:58:40](https://news.ycombinator.com/item?id=43605695) - [Data centers contain 90% crap data](https://gerrymcgovern.com/data-centers-contain-90-crap-data/)
-* [2025-04-06, 22:39:30](https://news.ycombinator.com/item?id=43605576) - [Eavesdropping on smartphone 13.56MHz NFC polling during screen wake-up/unlock](https://old.reddit.com/r/RTLSDR/comments/1jsr9jv/eavesdropping_on_smartphone_1356mhz_nfc_polling/)
 * [2025-04-06, 21:30:33](https://news.ycombinator.com/item?id=43605120) - [Microcomputers – The First Wave: Responding to Altair](https://technicshistory.com/2025/04/06/microcomputers-the-first-wave-responding-to-altair/)
 * [2025-04-06, 21:14:09](https://news.ycombinator.com/item?id=43605003) - [Rsync replaced with openrsync on macOS Sequoia](https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/)
 * [2025-04-06, 19:06:58](https://news.ycombinator.com/item?id=43604052) - [Capital Trades: Tracking Stock Market Transactions of Politicians](https://www.capitoltrades.com/)
 * [2025-04-06, 17:01:00](https://news.ycombinator.com/item?id=43602940) - [Foundry (YC F24) Is Hiring](https://www.ycombinator.com/companies/foundry/jobs/WvDDlqc-founding-fullstack-engineer-building-the-future-of-browser-agents)
+* [2025-04-06, 14:28:50](https://news.ycombinator.com/item?id=43601624) - [MonkeysPaw – A prompt-driven web framework in Ruby](https://worksonmymachine.substack.com/p/introducing-monkeyspaw-a-prompt-driven)
 * [2025-04-06, 13:12:59](https://news.ycombinator.com/item?id=43601213) - [How the Atlantic's Jeffrey Goldberg Got Added to the White House Signal Chat](https://www.theguardian.com/us-news/2025/apr/06/signal-group-chat-leak-how-it-happened)
 * [2025-04-06, 09:42:28](https://news.ycombinator.com/item?id=43600192) - [The “S” in MCP Stands for Security](https://elenacross7.medium.com/%EF%B8%8F-the-s-in-mcp-stands-for-security-91407b33ed6b)
 * [2025-04-06, 07:36:12](https://news.ycombinator.com/item?id=43599637) - [Standard Ebooks: liberated ebooks, carefully produced for the true book lover](https://standardebooks.org)
@@ -30,6 +29,7 @@
 * [2025-04-04, 01:13:11](https://news.ycombinator.com/item?id=43577338) - [Reinventing Feathering for the Vectorian Era](https://rive.app/blog/how-rive-reinvented-feathering-for-the-vectorian-era)
 * [2025-04-03, 23:08:56](https://news.ycombinator.com/item?id=43576559) - [AEgIS turns phone sensors into antimatter camera of unprecedented resolution](https://home.cern/news/news/experiments/aegis-transforms-smartphone-sensors-antimatter-camera-unprecedented)
 * [2025-04-03, 17:00:21](https://news.ycombinator.com/item?id=43572511) - [Journey to Optimize Cloudflare D1 Database Queries](https://gist.github.com/rxliuli/be31cbded41ef7eac6ae0da9070c8ef8)
+* [2025-04-03, 07:07:48](https://news.ycombinator.com/item?id=43565891) - [A Multiwavelength Look at Proxima Centauri's Flares](https://www.centauri-dreams.org/2025/04/01/a-multiwavelength-look-at-proxima-centauris-flares/)
 
 ## [Archives](archives/index.md)
 

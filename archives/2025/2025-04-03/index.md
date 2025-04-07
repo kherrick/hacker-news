@@ -64,6 +64,7 @@
 * [2025-04-03, 11:12:56](https://news.ycombinator.com/item?id=43567923) - [The Steam Deck Is Software-Freedom Friendly](https://isomorphism.xyz/blog/2024/steam-deck/)
 * [2025-04-03, 10:35:33](https://news.ycombinator.com/item?id=43567591) - [Space Debris: Is It a Crisis?](https://www.esa.int/Space_Safety/Space_Debris)
 * [2025-04-03, 08:34:11](https://news.ycombinator.com/item?id=43566651) - [Blacksmithing and Lisp](http://funcall.blogspot.com/2025/04/blacksmithing-and-lisp.html)
+* [2025-04-03, 07:07:48](https://news.ycombinator.com/item?id=43565891) - [A Multiwavelength Look at Proxima Centauri's Flares](https://www.centauri-dreams.org/2025/04/01/a-multiwavelength-look-at-proxima-centauris-flares/)
 * [2025-04-03, 06:46:11](https://news.ycombinator.com/item?id=43565690) - [.NET library MassTransit going commercial with V9](https://masstransit.io/introduction/v9-announcement)
 * [2025-04-03, 06:15:17](https://news.ycombinator.com/item?id=43565438) - [I stopped using AI code editors](https://lucianonooijen.com/blog/why-i-stopped-using-ai-code-editors)
 * [2025-04-03, 04:53:02](https://news.ycombinator.com/item?id=43564890) - [DIY Synths Database](https://diy-synths.snnkv.com/)
