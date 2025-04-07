@@ -2,6 +2,7 @@
 
 * [2025-04-07, 03:56:19](https://news.ycombinator.com/item?id=43607502) - [Bill to block OpenAI's for-profit conversion gets mysteriously gutted](https://garymarcus.substack.com/p/breaking-bill-that-would-have-blocked)
 * [2025-04-07, 03:24:33](https://news.ycombinator.com/item?id=43607321) - [Dark Mirror Ideologies](https://www.fortressofdoors.com/dark-mirror-ideologies/)
+* [2025-04-07, 02:14:58](https://news.ycombinator.com/item?id=43606912) - [Food fermentation in space: Opportunities and challenges](https://www.cell.com/iscience/fulltext/S2589-0042(25)00450-X)
 * [2025-04-07, 01:50:02](https://news.ycombinator.com/item?id=43606713) - [Circuit Breaker Triggered in Japan for Stock Futures Trading](https://www.wsj.com/livecoverage/stock-market-trump-tariffs-trade-war-04-07-25/card/circuit-breaker-triggered-in-japan-for-stock-futures-trading-Q5iMfZyfPGBEslrIObgB)
 * [2025-04-07, 00:42:13](https://news.ycombinator.com/item?id=43606315) - [After 'coding error' triggers firings, top NIH scientists called back to work](https://www.science.org/content/article/after-coding-error-triggers-firings-top-nih-scientists-called-back-work)
 * [2025-04-06, 23:54:02](https://news.ycombinator.com/item?id=43606065) - [Why Lotus Domino? (2024)](http://www.moohar.com/blog/why_domino)
@@ -14,7 +15,6 @@
 * [2025-04-06, 21:14:09](https://news.ycombinator.com/item?id=43605003) - [Rsync replaced with openrsync on macOS Sequoia](https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/)
 * [2025-04-06, 19:06:58](https://news.ycombinator.com/item?id=43604052) - [Capital Trades: Tracking Stock Market Transactions of Politicians](https://www.capitoltrades.com/)
 * [2025-04-06, 18:01:59](https://news.ycombinator.com/item?id=43603453) - [Recent AI model progress feels mostly like bullshit](https://www.lesswrong.com/posts/4mvphwx5pdsZLMmpY/recent-ai-model-progress-feels-mostly-like-bullshit)
-* [2025-04-06, 17:21:54](https://news.ycombinator.com/item?id=43603091) - [Max severity RCE flaw discovered in widely used Apache Parquet](https://www.bleepingcomputer.com/news/security/max-severity-rce-flaw-discovered-in-widely-used-apache-parquet/)
 * [2025-04-06, 17:01:00](https://news.ycombinator.com/item?id=43602940) - [Foundry (YC F24) Is Hiring](https://www.ycombinator.com/companies/foundry/jobs/WvDDlqc-founding-fullstack-engineer-building-the-future-of-browser-agents)
 * [2025-04-06, 14:28:50](https://news.ycombinator.com/item?id=43601624) - [MonkeysPaw – a prompt-driven web framework in Ruby](https://worksonmymachine.substack.com/p/introducing-monkeyspaw-a-prompt-driven)
 * [2025-04-06, 11:41:26](https://news.ycombinator.com/item?id=43600704) - [Neutron Stars Hint at Another Dimension](https://nautil.us/neutron-stars-hint-at-another-dimension-1202180/)
