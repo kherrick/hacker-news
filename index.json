@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-04-07, 10:08:50",
-      "https://news.ycombinator.com/item?id=43609658"
+      "2025-04-07, 11:53:52",
+      "https://news.ycombinator.com/item?id=43610246"
     ],
     [
-      "Bluesky's Quest to Build Nontoxic Social Media",
-      "https://www.newyorker.com/magazine/2025/04/14/blueskys-quest-to-build-nontoxic-social-media"
+      "Fewer Foreign Passengers Are Flying to the US",
+      "https://jasher.substack.com/p/how-fewer-foreign-passengers-flying"
+    ]
+  ],
+  [
+    [
+      "2025-04-07, 11:43:46",
+      "https://news.ycombinator.com/item?id=43610187"
+    ],
+    [
+      "Inside One of America's Last Pencil Factories (2018)",
+      "https://www.nytimes.com/2018/01/12/magazine/inside-one-of-americas-last-pencil-factories.html"
     ]
   ],
   [
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2025-04-06, 22:39:30",
-      "https://news.ycombinator.com/item?id=43605576"
-    ],
-    [
-      "Eavesdropping on smartphone 13.56MHz NFC polling during screen wake-up/unlock",
-      "https://old.reddit.com/r/RTLSDR/comments/1jsr9jv/eavesdropping_on_smartphone_1356mhz_nfc_polling/"
-    ]
-  ],
-  [
-    [
       "2025-04-06, 21:30:33",
       "https://news.ycombinator.com/item?id=43605120"
     ],
@@ -107,16 +107,6 @@
     [
       "Knowing where your engineer salary comes from",
       "https://www.seangoedecke.com/where-the-money-comes-from/"
-    ]
-  ],
-  [
-    [
-      "2025-04-06, 18:01:59",
-      "https://news.ycombinator.com/item?id=43603453"
-    ],
-    [
-      "Recent AI model progress feels mostly like bullshit",
-      "https://www.lesswrong.com/posts/4mvphwx5pdsZLMmpY/recent-ai-model-progress-feels-mostly-like-bullshit"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "AI masters Minecraft: DeepMind program finds diamonds without being taught",
       "https://www.nature.com/articles/d41586-025-01019-w"
+    ]
+  ],
+  [
+    [
+      "2025-04-04, 13:17:11",
+      "https://news.ycombinator.com/item?id=43581900"
+    ],
+    [
+      "Deterministic simulation testing for async Rust",
+      "https://s2.dev/blog/dst"
     ]
   ],
   [
