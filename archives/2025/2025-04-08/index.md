@@ -18,6 +18,7 @@
 * [2025-04-08, 06:55:32](https://news.ycombinator.com/item?id=43619040) - [String Theorists Say Black Holes Are Multidimensional String 'Supermazes'](https://www.scientificamerican.com/article/string-theorists-say-black-holes-are-multidimensional-string-supermazes/)
 * [2025-04-08, 05:34:51](https://news.ycombinator.com/item?id=43618617) - [EU offered 'zero-for-zero' deal to US weeks before tariff announcement](https://www.theguardian.com/world/2025/apr/07/eu-offered-zero-for-zero-deal-to-us-weeks-before-tariff-announcement)
 * [2025-04-08, 05:04:35](https://news.ycombinator.com/item?id=43618494) - [The Modern Struggle Is Fighting Weaponized Addiction (2020)](https://nav.al/addiction)
+* [2025-04-08, 04:56:40](https://news.ycombinator.com/item?id=43618458) - [Tom and Jerry One-Minute Video Generation with Test-Time Training](https://test-time-training.github.io/video-dit/)
 * [2025-04-08, 04:24:24](https://news.ycombinator.com/item?id=43618339) - [Neural Graffiti – Liquid Memory Layer for LLMs](https://github.com/babycommando/neuralgraffiti)
 * [2025-04-08, 03:45:21](https://news.ycombinator.com/item?id=43618178) - [Deep Learning, Deep Scandal](https://garymarcus.substack.com/p/deep-learning-deep-scandal)
 * [2025-04-08, 03:36:21](https://news.ycombinator.com/item?id=43618140) - [Listening habits&subjective effects of background music in young adults ± ADHD](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1508181/full)

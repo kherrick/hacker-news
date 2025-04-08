@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-08, 11:03:23](https://news.ycombinator.com/item?id=43620298) - [Cloudflare Acquires Outerbase](https://blog.cloudflare.com/cloudflare-acquires-outerbase-database-dx/)
 * [2025-04-08, 10:59:26](https://news.ycombinator.com/item?id=43620279) - [Brazil's government-run payments system has become dominant](https://www.economist.com/the-americas/2025/04/03/brazils-government-run-payments-system-has-become-dominant)
 * [2025-04-08, 10:55:55](https://news.ycombinator.com/item?id=43620257) - [IBM Announces the Z17 Mainframe Powered by Telum II Processors](https://www.phoronix.com/news/IBM-z17-Telum-2-Announced)
 * [2025-04-08, 08:42:02](https://news.ycombinator.com/item?id=43619581) - [Less Htmx Is More](https://unplannedobsolescence.com/blog/less-htmx-is-more/)
@@ -8,6 +7,7 @@
 * [2025-04-08, 07:51:50](https://news.ycombinator.com/item?id=43619346) - [Paradigm (YC W24) Hiring Founding Engineers in SF](https://www.ycombinator.com/companies/paradigm/jobs/nFNWweP-founding-engineer)
 * [2025-04-08, 07:46:42](https://news.ycombinator.com/item?id=43619315) - [UK Effort to Keep Apple Encryption Fight Secret Is Blocked](https://www.msn.com/en-us/money/other/uk-effort-to-keep-apple-encryption-fight-secret-is-blocked/ar-AA1CsokD)
 * [2025-04-08, 07:30:24](https://news.ycombinator.com/item?id=43619229) - [Building the System/360 Mainframe Nearly Destroyed IBM](https://spectrum.ieee.org/building-the-system360-mainframe-nearly-destroyed-ibm)
+* [2025-04-08, 04:56:40](https://news.ycombinator.com/item?id=43618458) - [Tom and Jerry One-Minute Video Generation with Test-Time Training](https://test-time-training.github.io/video-dit/)
 * [2025-04-08, 04:24:24](https://news.ycombinator.com/item?id=43618339) - [Neural Graffiti – Liquid Memory Layer for LLMs](https://github.com/babycommando/neuralgraffiti)
 * [2025-04-08, 03:27:09](https://news.ycombinator.com/item?id=43618105) - [India's repair culture gives new life to dead laptops](https://www.theverge.com/tech/639126/india-frankenstein-laptops)
 * [2025-04-08, 01:49:46](https://news.ycombinator.com/item?id=43617641) - [An FPGA-based LGP-30 Replica](https://www.e-basteln.de/computing/lgp30/lgp30/)
