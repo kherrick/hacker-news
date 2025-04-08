@@ -3,7 +3,6 @@
 * [2025-04-08, 03:27:09](https://news.ycombinator.com/item?id=43618105) - [India's repair culture gives new life to dead laptops](https://www.theverge.com/tech/639126/india-frankenstein-laptops)
 * [2025-04-08, 01:49:46](https://news.ycombinator.com/item?id=43617641) - [An FPGA-based LGP-30 Replica](https://www.e-basteln.de/computing/lgp30/lgp30/)
 * [2025-04-08, 01:20:10](https://news.ycombinator.com/item?id=43617493) - [Any program can be a GitHub Actions shell](https://yossarian.net/til/post/any-program-can-be-a-github-actions-shell/)
-* [2025-04-08, 00:11:14](https://news.ycombinator.com/item?id=43617190) - [Fuck Run Club, Join Sit Club](https://rawandferal.substack.com/p/fck-run-club-join-sit-club)
 * [2025-04-07, 22:24:16](https://news.ycombinator.com/item?id=43616604) - [What Was Quartz?](https://www.zachseward.com/what-was-quartz/)
 * [2025-04-07, 21:39:33](https://news.ycombinator.com/item?id=43616241) - [Beyond Quacking: Deep Integration of Language Models and RAG into DuckDB](https://arxiv.org/abs/2504.01157)
 * [2025-04-07, 21:10:32](https://news.ycombinator.com/item?id=43615986) - [A Supermarket Bag and a Truckload of FOMO](https://blog.julik.nl/2025/03/a-little-adventure-in-modern-frontend)
@@ -28,6 +27,7 @@
 * [2025-04-04, 19:21:54](https://news.ycombinator.com/item?id=43586646) - [Pebbles Form Planets](https://nautil.us/how-pebbles-form-planets-1201205/)
 * [2025-04-04, 18:29:47](https://news.ycombinator.com/item?id=43586117) - [Ethically sourced \"spare\" human bodies could revolutionize medicine](https://www.technologyreview.com/2025/03/25/1113611/ethically-sourced-spare-human-bodies-could-revolutionize-medicine/)
 * [2025-04-04, 18:10:26](https://news.ycombinator.com/item?id=43585911) - [Smallest Pacemaker Is the Size of a Rice Grain](https://www.sciencealert.com/breakthrough-worlds-smallest-pacemaker-is-the-size-of-a-rice-grain)
+* [2025-04-04, 11:41:32](https://news.ycombinator.com/item?id=43580815) - [We asked camera companies why their RAW formats are all different and confusing](https://www.theverge.com/tech/640119/camera-raw-spec-format-explained-adobe-dng-canon-nikon-sony-fujifilm)
 * [2025-04-04, 01:41:35](https://news.ycombinator.com/item?id=43577490) - [Interviewing a software engineer who prepared with AI](https://www.kapwing.com/blog/what-its-like-to-interview-a-software-engineer-preparing-with-ai/)
 * [2025-04-03, 21:44:20](https://news.ycombinator.com/item?id=43575833) - [Drag racers are ditching superchargers for scuba-style tanks and compressed air](https://www.thedrive.com/news/drag-racers-are-ditching-superchargers-for-scuba-style-tanks-and-compressed-air)
 
