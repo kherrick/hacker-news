@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-04-08, 11:03:23",
-      "https://news.ycombinator.com/item?id=43620298"
-    ],
-    [
-      "Cloudflare Acquires Outerbase",
-      "https://blog.cloudflare.com/cloudflare-acquires-outerbase-database-dx/"
-    ]
-  ],
-  [
-    [
       "2025-04-08, 10:59:26",
       "https://news.ycombinator.com/item?id=43620279"
     ],
@@ -141,6 +131,26 @@
   ],
   [
     [
+      "2025-04-07, 22:24:16",
+      "https://news.ycombinator.com/item?id=43616604"
+    ],
+    [
+      "What Was Quartz?",
+      "https://www.zachseward.com/what-was-quartz/"
+    ]
+  ],
+  [
+    [
+      "2025-04-07, 21:39:33",
+      "https://news.ycombinator.com/item?id=43616241"
+    ],
+    [
+      "Beyond Quacking: Deep Integration of Language Models and RAG into DuckDB",
+      "https://arxiv.org/abs/2504.01157"
+    ]
+  ],
+  [
+    [
       "2025-04-07, 21:10:32",
       "https://news.ycombinator.com/item?id=43615986"
     ],
@@ -211,12 +221,12 @@
   ],
   [
     [
-      "2025-04-06, 16:09:58",
-      "https://news.ycombinator.com/item?id=43602522"
+      "2025-04-07, 14:43:17",
+      "https://news.ycombinator.com/item?id=43612102"
     ],
     [
-      "Unmasking EncryptHub: Help from ChatGPT and Opsec Blunders",
-      "https://outpost24.com/blog/unmasking-encrypthub-chatgpt-partner-crime/"
+      "Decoding the 90s: Cryptography in Early Software Development (2023)",
+      "https://www.botanica.software/post/decoding-the-90s"
     ]
   ],
   [
@@ -271,22 +281,12 @@
   ],
   [
     [
-      "2025-04-05, 00:58:15",
-      "https://news.ycombinator.com/item?id=43589309"
+      "2025-04-04, 22:21:39",
+      "https://news.ycombinator.com/item?id=43588337"
     ],
     [
-      "What a refugee camp reveals about economics",
-      "https://www.economist.com/finance-and-economics/2025/04/03/what-a-refugee-camp-reveals-about-economics"
-    ]
-  ],
-  [
-    [
-      "2025-04-04, 10:59:35",
-      "https://news.ycombinator.com/item?id=43580480"
-    ],
-    [
-      "A wild 'freakosystem' has been born in Hawaii",
-      "https://www.bbc.com/future/article/20250403-the-new-hawaiian-freakosystem-emerging-on-oahu-accidentally-created-by-humans"
+      "The Decline of the U.S. Machine-Tool Industry and Prospects for Recovery (1994)",
+      "https://www.rand.org/pubs/research_briefs/RB1500.html"
     ]
   ],
   [
