@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-08](index.md)
 
+* [2025-04-08, 17:29:29](https://news.ycombinator.com/item?id=43624293) - [Analytic Combinatorics – A Worked Example](https://grossack.site/2025/04/08/analytic-combinatorics-example.html)
+* [2025-04-08, 16:26:20](https://news.ycombinator.com/item?id=43623550) - [Sculptor: Catch and fix issues as you code](https://imbue.com/product/sculptor/)
+* [2025-04-08, 15:43:14](https://news.ycombinator.com/item?id=43623099) - [Show HN: HNSW index for vector embeddings in approx 500 LOC](https://github.com/dicroce/hnsw)
 * [2025-04-08, 15:11:26](https://news.ycombinator.com/item?id=43622719) - [Thank HN: The puzzle game I posted here 6 weeks ago got licensed by The Atlantic](https://www.theatlantic.com/games/bracket-city/)
 * [2025-04-08, 15:01:34](https://news.ycombinator.com/item?id=43622586) - [Nearly $13M stolen from Abracadabra Finance in crypto heist](https://therecord.media/nearly-thirteen-million-stolen-abracadabra)
 * [2025-04-08, 13:07:02](https://news.ycombinator.com/item?id=43621350) - [Show HN: I Built a Tool to Find Devs Based on Code, Not LinkedIn Titles](https://gitmatcher.com/)
