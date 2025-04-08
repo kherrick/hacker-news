@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-08, 03:36:21](https://news.ycombinator.com/item?id=43618140) - [Listening habits and effects of background music in people with and without ADHD](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1508181/full)
 * [2025-04-08, 03:27:09](https://news.ycombinator.com/item?id=43618105) - [India's repair culture gives new life to dead laptops](https://www.theverge.com/tech/639126/india-frankenstein-laptops)
 * [2025-04-08, 01:49:46](https://news.ycombinator.com/item?id=43617641) - [An FPGA-based LGP-30 Replica](https://www.e-basteln.de/computing/lgp30/lgp30/)
 * [2025-04-08, 01:20:10](https://news.ycombinator.com/item?id=43617493) - [Any program can be a GitHub Actions shell](https://yossarian.net/til/post/any-program-can-be-a-github-actions-shell/)
@@ -26,6 +25,7 @@
 * [2025-04-05, 18:06:09](https://news.ycombinator.com/item?id=43595326) - [PiDP-1, or the rebirth of an old machine](https://hackaday.io/project/202541-replica-of-the-pdp-1-pidp-1/log/239666-finished-the-first-test-batch-of-5-machines)
 * [2025-04-05, 09:23:38](https://news.ycombinator.com/item?id=43592116) - ['Exploding' Tunnock's teacakes cleared by tests to fly again](https://www.bbc.co.uk/news/articles/c20x5x0g3kqo)
 * [2025-04-04, 21:53:33](https://news.ycombinator.com/item?id=43588032) - [In the 1980s we also downloaded software from TV](https://newslttrs.com/in-the-1980s-we-also-downloaded-software-from-tv/)
+* [2025-04-04, 19:21:54](https://news.ycombinator.com/item?id=43586646) - [Pebbles Form Planets](https://nautil.us/how-pebbles-form-planets-1201205/)
 * [2025-04-04, 18:29:47](https://news.ycombinator.com/item?id=43586117) - [Ethically sourced \"spare\" human bodies could revolutionize medicine](https://www.technologyreview.com/2025/03/25/1113611/ethically-sourced-spare-human-bodies-could-revolutionize-medicine/)
 * [2025-04-04, 18:10:26](https://news.ycombinator.com/item?id=43585911) - [Smallest Pacemaker Is the Size of a Rice Grain](https://www.sciencealert.com/breakthrough-worlds-smallest-pacemaker-is-the-size-of-a-rice-grain)
 * [2025-04-04, 01:41:35](https://news.ycombinator.com/item?id=43577490) - [Interviewing a software engineer who prepared with AI](https://www.kapwing.com/blog/what-its-like-to-interview-a-software-engineer-preparing-with-ai/)
