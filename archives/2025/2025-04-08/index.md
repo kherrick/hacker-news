@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-08](index.md)
 
+* [2025-04-08, 19:13:50](https://news.ycombinator.com/item?id=43625474) - [Obituary for Cyc](https://yuxi-liu-wired.github.io/essays/posts/cyc/)
+* [2025-04-08, 19:11:41](https://news.ycombinator.com/item?id=43625452) - [Solving a \"Layton Puzzle\" with Prolog](https://buttondown.com/hillelwayne/archive/a48fce5b-8a05-4302-b620-9b26f057f145/)
 * [2025-04-08, 18:28:06](https://news.ycombinator.com/item?id=43624977) - [Decomposing factorial of 300K as the product of 300K factors larger than 100K](http://gus-massa.blogspot.com/2025/04/decomposing-factorial-of-300k-as.html)
 * [2025-04-08, 18:21:49](https://news.ycombinator.com/item?id=43624888) - [How Netflix Accurately Attributes eBPF Flow Logs](https://netflixtechblog.com/how-netflix-accurately-attributes-ebpf-flow-logs-afe6d644a3bc)
 * [2025-04-08, 17:35:51](https://news.ycombinator.com/item?id=43624358) - [Show HN: A website/app to help manage your game library](https://gamenode.app)
