@@ -63,6 +63,7 @@
 * [2025-04-05, 05:22:33](https://news.ycombinator.com/item?id=43590998) - [Show HN: OCR pipeline for ML training (tables, diagrams, math, multilingual)](https://github.com/ses4255/Versatile-OCR-Program)
 * [2025-04-05, 05:17:56](https://news.ycombinator.com/item?id=43590973) - [I don't like traveling anymore](https://sidverma.io/posts/i-dont-like-traveling-anymore/)
 * [2025-04-05, 03:52:07](https://news.ycombinator.com/item?id=43590570) - [Coqui TTS: Free Text-to-Speech](https://coquitts.com)
+* [2025-04-05, 03:51:51](https://news.ycombinator.com/item?id=43590569) - [No elephants: Breakthroughs in image generation](https://www.oneusefulthing.org/p/no-elephants-breakthroughs-in-image)
 * [2025-04-05, 03:24:34](https://news.ycombinator.com/item?id=43590421) - [Trump's Tariff Formula Makes No Economic Sense. It's Also Based on an Error](https://www.aei.org/economics/president-trumps-tariff-formula-makes-no-economic-sense-its-also-based-on-an-error/)
 * [2025-04-05, 02:15:35](https://news.ycombinator.com/item?id=43589989) - [OpenVertebrate Presents a Database of 13,000 3D Scans of Specimens](https://www.openculture.com/2024/03/openvertebrate-presents-a-massive-database-of-13000-3d-scans-of-vertebrate-specimens.html)
 * [2025-04-05, 02:09:38](https://news.ycombinator.com/item?id=43589929) - [Minecraft Server in FreeBSD Jails Container](https://vermaden.wordpress.com/2025/04/05/minecraft-server-freebsd-jails-container/)
