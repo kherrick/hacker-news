@@ -11,6 +11,7 @@
 * [2025-04-07, 21:04:03](https://news.ycombinator.com/item?id=43615925) - [Ancient Dagger Up to 2.5k Years Old W Stars/Moons/Geometric Patterns Unearthed](https://www.smithsonianmag.com/smart-news/metal-detectorists-unearth-ancient-dagger-decorated-with-tiny-stars-crescent-moons-and-geometric-patterns-180986369/)
 * [2025-04-07, 21:03:16](https://news.ycombinator.com/item?id=43615912) - [Middle-Aged Man Trading Cards Go Viral in Rural Japan Town](https://www.tokyoweekender.com/entertainment/middle-aged-man-trading-cards-go-viral-in-japan/)
 * [2025-04-07, 20:28:59](https://news.ycombinator.com/item?id=43615624) - [In React {Transitions} = F(state)](https://jordaneldredge.com/blog/transitions-f-of-state/)
+* [2025-04-07, 20:03:08](https://news.ycombinator.com/item?id=43615346) - [Why Companies Don't Fix Bugs](https://idiallo.com/blog/companies-dont-fix-bugs)
 * [2025-04-07, 20:00:58](https://news.ycombinator.com/item?id=43615322) - [Scaffold Level Editor](https://blog.littlepolygon.com/posts/scaffold/)
 * [2025-04-07, 18:46:43](https://news.ycombinator.com/item?id=43614592) - [Agenda Behind the Facial Recognition Tech Used by ICE and the FBI Revealed](https://www.motherjones.com/politics/2025/04/clearview-ai-immigration-ice-fbi-surveillance-facial-recognition-hoan-ton-that-hal-lambert-trump/)
 * [2025-04-07, 18:44:17](https://news.ycombinator.com/item?id=43614582) - [Show HN: Minimal MCP server in Go showcasing project architecture](https://github.com/TuanKiri/weather-mcp-server)
