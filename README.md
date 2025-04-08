@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-08, 07:51:50](https://news.ycombinator.com/item?id=43619346) - [Paradigm (YC W24) Hiring Founding Engineers in SF](https://www.ycombinator.com/companies/paradigm/jobs/nFNWweP-founding-engineer)
+* [2025-04-08, 07:22:16](https://news.ycombinator.com/item?id=43619178) - [Gazans tell BBC of torture in Israeli detention](https://www.bbc.co.uk/news/articles/cn7vje365rno)
+* [2025-04-08, 06:55:32](https://news.ycombinator.com/item?id=43619040) - [String Theorists Say Black Holes Are Multidimensional String 'Supermazes'](https://www.scientificamerican.com/article/string-theorists-say-black-holes-are-multidimensional-string-supermazes/)
 * [2025-04-08, 04:24:24](https://news.ycombinator.com/item?id=43618339) - [Neural Graffiti – Liquid Memory Layer for LLMs](https://github.com/babycommando/neuralgraffiti)
 * [2025-04-08, 03:27:09](https://news.ycombinator.com/item?id=43618105) - [India's repair culture gives new life to dead laptops](https://www.theverge.com/tech/639126/india-frankenstein-laptops)
 * [2025-04-08, 01:49:46](https://news.ycombinator.com/item?id=43617641) - [An FPGA-based LGP-30 Replica](https://www.e-basteln.de/computing/lgp30/lgp30/)
@@ -11,7 +14,6 @@
 * [2025-04-07, 21:03:16](https://news.ycombinator.com/item?id=43615912) - [Middle-aged man trading cards go viral in rural Japan town](https://www.tokyoweekender.com/entertainment/middle-aged-man-trading-cards-go-viral-in-japan/)
 * [2025-04-07, 20:03:08](https://news.ycombinator.com/item?id=43615346) - [Why Companies Don't Fix Bugs](https://idiallo.com/blog/companies-dont-fix-bugs)
 * [2025-04-07, 20:00:58](https://news.ycombinator.com/item?id=43615322) - [Scaffold Level Editor](https://blog.littlepolygon.com/posts/scaffold/)
-* [2025-04-07, 18:44:17](https://news.ycombinator.com/item?id=43614582) - [Show HN: Minimal MCP server in Go showcasing project architecture](https://github.com/TuanKiri/weather-mcp-server)
 * [2025-04-07, 18:13:23](https://news.ycombinator.com/item?id=43614285) - [Show HN: Lux – A luxurious package manager for Lua](https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html)
 * [2025-04-07, 18:04:22](https://news.ycombinator.com/item?id=43614199) - [Fifty Years of Open Source Software Supply Chain Security](https://queue.acm.org/detail.cfm?id=3722542)
 * [2025-04-07, 17:42:02](https://news.ycombinator.com/item?id=43613994) - [Hasochism: The pleasure and pain of dependently typed Haskell programming [pdf] (2013)](https://personal.cis.strath.ac.uk/conor.mcbride/pub/hasochism.pdf)
@@ -26,10 +28,8 @@
 * [2025-04-05, 18:06:09](https://news.ycombinator.com/item?id=43595326) - [PiDP-1, or the rebirth of an old machine](https://hackaday.io/project/202541-replica-of-the-pdp-1-pidp-1/log/239666-finished-the-first-test-batch-of-5-machines)
 * [2025-04-05, 09:23:38](https://news.ycombinator.com/item?id=43592116) - ['Exploding' Tunnock's teacakes cleared by tests to fly again](https://www.bbc.co.uk/news/articles/c20x5x0g3kqo)
 * [2025-04-04, 19:21:54](https://news.ycombinator.com/item?id=43586646) - [Pebbles Form Planets](https://nautil.us/how-pebbles-form-planets-1201205/)
-* [2025-04-04, 18:29:47](https://news.ycombinator.com/item?id=43586117) - [Ethically sourced \"spare\" human bodies could revolutionize medicine](https://www.technologyreview.com/2025/03/25/1113611/ethically-sourced-spare-human-bodies-could-revolutionize-medicine/)
 * [2025-04-04, 18:10:26](https://news.ycombinator.com/item?id=43585911) - [Smallest Pacemaker Is the Size of a Rice Grain](https://www.sciencealert.com/breakthrough-worlds-smallest-pacemaker-is-the-size-of-a-rice-grain)
 * [2025-04-04, 01:41:35](https://news.ycombinator.com/item?id=43577490) - [Interviewing a software engineer who prepared with AI](https://www.kapwing.com/blog/what-its-like-to-interview-a-software-engineer-preparing-with-ai/)
-* [2025-04-03, 21:44:20](https://news.ycombinator.com/item?id=43575833) - [Drag racers are ditching superchargers for scuba-style tanks and compressed air](https://www.thedrive.com/news/drag-racers-are-ditching-superchargers-for-scuba-style-tanks-and-compressed-air)
 
 ## [Archives](archives/index.md)
 
