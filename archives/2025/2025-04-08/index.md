@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-08](index.md)
 
+* [2025-04-08, 12:36:53](https://news.ycombinator.com/item?id=43621007) - [Show HN: Connecting an IBM 3151 terminal to a mainframe [video]](https://www.youtube.com/watch?v=V14ac9cRi9Q)
 * [2025-04-08, 12:21:48](https://news.ycombinator.com/item?id=43620859) - [Doge using AI to snoop on U.S. federal workers, sources say](https://www.reuters.com/technology/artificial-intelligence/musks-doge-using-ai-snoop-us-federal-workers-sources-say-2025-04-08/)
+* [2025-04-08, 11:32:10](https://news.ycombinator.com/item?id=43620471) - [Show HN: Badgeify – Add Any App to Your Mac Menu Bar](https://badgeify.app/)
 * [2025-04-08, 11:23:02](https://news.ycombinator.com/item?id=43620407) - [What if we taxed advertising?](https://matthewsinclair.com/blog/0177-what-if-we-taxed-advertising)
 * [2025-04-08, 11:03:23](https://news.ycombinator.com/item?id=43620298) - [Cloudflare Acquires Outerbase](https://blog.cloudflare.com/cloudflare-acquires-outerbase-database-dx/)
 * [2025-04-08, 10:59:26](https://news.ycombinator.com/item?id=43620279) - [Brazil's government-run payments system has become dominant](https://www.economist.com/the-americas/2025/04/03/brazils-government-run-payments-system-has-become-dominant)
