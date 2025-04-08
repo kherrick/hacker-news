@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-04-08](index.md)
 
+* [2025-04-08, 09:30:22](https://news.ycombinator.com/item?id=43619804) - [Microsoft ends employment of 2 workers who protested complicity of Gaza genocide](https://www.msn.com/en-us/money/other/report-microsoft-fires-two-employees-who-protested-inside-50th-anniversary-event/ar-AA1CtH32)
 * [2025-04-08, 08:42:02](https://news.ycombinator.com/item?id=43619581) - [Less Htmx Is More](https://unplannedobsolescence.com/blog/less-htmx-is-more/)
 * [2025-04-08, 08:40:34](https://news.ycombinator.com/item?id=43619571) - [American academic faces years in jail after charged with insulting Thai monarchy](https://www.cnn.com/2025/04/08/asia/thailand-lese-majeste-paul-chambers-intl-hnk/index.html)
 * [2025-04-08, 07:51:50](https://news.ycombinator.com/item?id=43619346) - [Paradigm (YC W24) Hiring Founding Engineers in SF](https://www.ycombinator.com/companies/paradigm/jobs/nFNWweP-founding-engineer)
 * [2025-04-08, 07:46:42](https://news.ycombinator.com/item?id=43619315) - [UK Effort to Keep Apple Encryption Fight Secret Is Blocked](https://www.msn.com/en-us/money/other/uk-effort-to-keep-apple-encryption-fight-secret-is-blocked/ar-AA1CsokD)
+* [2025-04-08, 07:30:24](https://news.ycombinator.com/item?id=43619229) - [Building the System/360 Mainframe Nearly Destroyed IBM](https://spectrum.ieee.org/building-the-system360-mainframe-nearly-destroyed-ibm)
 * [2025-04-08, 07:22:16](https://news.ycombinator.com/item?id=43619178) - [Gazans tell BBC of torture in Israeli detention](https://www.bbc.co.uk/news/articles/cn7vje365rno)
 * [2025-04-08, 06:55:32](https://news.ycombinator.com/item?id=43619040) - [String Theorists Say Black Holes Are Multidimensional String 'Supermazes'](https://www.scientificamerican.com/article/string-theorists-say-black-holes-are-multidimensional-string-supermazes/)
 * [2025-04-08, 05:34:51](https://news.ycombinator.com/item?id=43618617) - [EU offered 'zero-for-zero' deal to US weeks before tariff announcement](https://www.theguardian.com/world/2025/apr/07/eu-offered-zero-for-zero-deal-to-us-weeks-before-tariff-announcement)

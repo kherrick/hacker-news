@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-08, 09:30:22](https://news.ycombinator.com/item?id=43619804) - [Microsoft ends employment of 2 workers who protested complicity of Gaza genocide](https://www.msn.com/en-us/money/other/report-microsoft-fires-two-employees-who-protested-inside-50th-anniversary-event/ar-AA1CtH32)
 * [2025-04-08, 08:42:02](https://news.ycombinator.com/item?id=43619581) - [Less Htmx Is More](https://unplannedobsolescence.com/blog/less-htmx-is-more/)
 * [2025-04-08, 07:51:50](https://news.ycombinator.com/item?id=43619346) - [Paradigm (YC W24) Hiring Founding Engineers in SF](https://www.ycombinator.com/companies/paradigm/jobs/nFNWweP-founding-engineer)
 * [2025-04-08, 07:46:42](https://news.ycombinator.com/item?id=43619315) - [UK Effort to Keep Apple Encryption Fight Secret Is Blocked](https://www.msn.com/en-us/money/other/uk-effort-to-keep-apple-encryption-fight-secret-is-blocked/ar-AA1CsokD)
+* [2025-04-08, 07:30:24](https://news.ycombinator.com/item?id=43619229) - [Building the System/360 Mainframe Nearly Destroyed IBM](https://spectrum.ieee.org/building-the-system360-mainframe-nearly-destroyed-ibm)
 * [2025-04-08, 04:24:24](https://news.ycombinator.com/item?id=43618339) - [Neural Graffiti – Liquid Memory Layer for LLMs](https://github.com/babycommando/neuralgraffiti)
 * [2025-04-08, 03:27:09](https://news.ycombinator.com/item?id=43618105) - [India's repair culture gives new life to dead laptops](https://www.theverge.com/tech/639126/india-frankenstein-laptops)
 * [2025-04-08, 01:49:46](https://news.ycombinator.com/item?id=43617641) - [An FPGA-based LGP-30 Replica](https://www.e-basteln.de/computing/lgp30/lgp30/)
@@ -17,7 +19,6 @@
 * [2025-04-07, 18:13:23](https://news.ycombinator.com/item?id=43614285) - [Show HN: Lux – A luxurious package manager for Lua](https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html)
 * [2025-04-07, 18:04:22](https://news.ycombinator.com/item?id=43614199) - [Fifty Years of Open Source Software Supply Chain Security](https://queue.acm.org/detail.cfm?id=3722542)
 * [2025-04-07, 17:42:02](https://news.ycombinator.com/item?id=43613994) - [Hasochism: The pleasure and pain of dependently typed Haskell programming [pdf] (2013)](https://personal.cis.strath.ac.uk/conor.mcbride/pub/hasochism.pdf)
-* [2025-04-07, 16:37:57](https://news.ycombinator.com/item?id=43613305) - [20 years of Git](https://blog.gitbutler.com/20-years-of-git/)
 * [2025-04-07, 16:25:45](https://news.ycombinator.com/item?id=43613194) - [Show HN: Browser MCP – Automate your browser using Cursor, Claude, VS Code](https://browsermcp.io/)
 * [2025-04-07, 14:43:17](https://news.ycombinator.com/item?id=43612102) - [Decoding the 90s: Cryptography in Early Software Development (2023)](https://www.botanica.software/post/decoding-the-90s)
 * [2025-04-06, 23:47:21](https://news.ycombinator.com/item?id=43606027) - [Glamorous Toolkit](https://gtoolkit.com//)
@@ -28,7 +29,6 @@
 * [2025-04-05, 03:51:51](https://news.ycombinator.com/item?id=43590569) - [No elephants: Breakthroughs in image generation](https://www.oneusefulthing.org/p/no-elephants-breakthroughs-in-image)
 * [2025-04-04, 19:21:54](https://news.ycombinator.com/item?id=43586646) - [Pebbles Form Planets](https://nautil.us/how-pebbles-form-planets-1201205/)
 * [2025-04-04, 18:10:26](https://news.ycombinator.com/item?id=43585911) - [Smallest Pacemaker Is the Size of a Rice Grain](https://www.sciencealert.com/breakthrough-worlds-smallest-pacemaker-is-the-size-of-a-rice-grain)
-* [2025-04-04, 12:21:55](https://news.ycombinator.com/item?id=43581191) - [Flying Saucers: An Opening Salvo of the Cold War?](https://www.tandfonline.com/doi/full/10.1080/08850607.2024.2436673)
 * [2025-04-04, 01:41:35](https://news.ycombinator.com/item?id=43577490) - [Interviewing a software engineer who prepared with AI](https://www.kapwing.com/blog/what-its-like-to-interview-a-software-engineer-preparing-with-ai/)
 
 ## [Archives](archives/index.md)
