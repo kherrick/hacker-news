@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-08, 11:03:23](https://news.ycombinator.com/item?id=43620298) - [Cloudflare Acquires Outerbase](https://blog.cloudflare.com/cloudflare-acquires-outerbase-database-dx/)
 * [2025-04-08, 10:59:26](https://news.ycombinator.com/item?id=43620279) - [Brazil's government-run payments system has become dominant](https://www.economist.com/the-americas/2025/04/03/brazils-government-run-payments-system-has-become-dominant)
 * [2025-04-08, 10:55:55](https://news.ycombinator.com/item?id=43620257) - [IBM Announces the Z17 Mainframe Powered by Telum II Processors](https://www.phoronix.com/news/IBM-z17-Telum-2-Announced)
 * [2025-04-08, 08:42:02](https://news.ycombinator.com/item?id=43619581) - [Less Htmx Is More](https://unplannedobsolescence.com/blog/less-htmx-is-more/)
@@ -22,7 +23,6 @@
 * [2025-04-07, 14:43:17](https://news.ycombinator.com/item?id=43612102) - [Decoding the 90s: Cryptography in Early Software Development (2023)](https://www.botanica.software/post/decoding-the-90s)
 * [2025-04-06, 16:09:58](https://news.ycombinator.com/item?id=43602522) - [Unmasking EncryptHub: Help from ChatGPT and Opsec Blunders](https://outpost24.com/blog/unmasking-encrypthub-chatgpt-partner-crime/)
 * [2025-04-06, 10:23:23](https://news.ycombinator.com/item?id=43600363) - [Deleting multiplayer from the Unreal engine can save memory](https://larstofus.com/2025/04/05/how-deleting-multiplayer-from-the-engine-can-save-memory/)
-* [2025-04-05, 18:06:09](https://news.ycombinator.com/item?id=43595326) - [PiDP-1, or the rebirth of an old machine](https://hackaday.io/project/202541-replica-of-the-pdp-1-pidp-1/log/239666-finished-the-first-test-batch-of-5-machines)
 * [2025-04-05, 09:23:38](https://news.ycombinator.com/item?id=43592116) - ['Exploding' Tunnock's teacakes cleared by tests to fly again](https://www.bbc.co.uk/news/articles/c20x5x0g3kqo)
 * [2025-04-05, 03:51:51](https://news.ycombinator.com/item?id=43590569) - [No elephants: Breakthroughs in image generation](https://www.oneusefulthing.org/p/no-elephants-breakthroughs-in-image)
 * [2025-04-05, 00:58:15](https://news.ycombinator.com/item?id=43589309) - [What a refugee camp reveals about economics](https://www.economist.com/finance-and-economics/2025/04/03/what-a-refugee-camp-reveals-about-economics)
