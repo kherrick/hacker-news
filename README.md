@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-08, 08:42:02](https://news.ycombinator.com/item?id=43619581) - [Less Htmx Is More](https://unplannedobsolescence.com/blog/less-htmx-is-more/)
+* [2025-04-08, 08:36:23](https://news.ycombinator.com/item?id=43619548) - [Intelligence Evolved at Least Twice in Vertebrate Animals](https://www.quantamagazine.org/intelligence-evolved-at-least-twice-in-vertebrate-animals-20250407/)
 * [2025-04-08, 07:51:50](https://news.ycombinator.com/item?id=43619346) - [Paradigm (YC W24) Hiring Founding Engineers in SF](https://www.ycombinator.com/companies/paradigm/jobs/nFNWweP-founding-engineer)
 * [2025-04-08, 07:46:42](https://news.ycombinator.com/item?id=43619315) - [UK Effort to Keep Apple Encryption Fight Secret Is Blocked](https://www.msn.com/en-us/money/other/uk-effort-to-keep-apple-encryption-fight-secret-is-blocked/ar-AA1CsokD)
 * [2025-04-08, 07:30:24](https://news.ycombinator.com/item?id=43619229) - [Building the System/360 Mainframe Nearly Destroyed IBM](https://spectrum.ieee.org/building-the-system360-mainframe-nearly-destroyed-ibm)
@@ -20,7 +21,6 @@
 * [2025-04-07, 17:42:02](https://news.ycombinator.com/item?id=43613994) - [Hasochism: The pleasure and pain of dependently typed Haskell programming [pdf] (2013)](https://personal.cis.strath.ac.uk/conor.mcbride/pub/hasochism.pdf)
 * [2025-04-07, 16:25:45](https://news.ycombinator.com/item?id=43613194) - [Show HN: Browser MCP – Automate your browser using Cursor, Claude, VS Code](https://browsermcp.io/)
 * [2025-04-07, 14:43:17](https://news.ycombinator.com/item?id=43612102) - [Decoding the 90s: Cryptography in Early Software Development (2023)](https://www.botanica.software/post/decoding-the-90s)
-* [2025-04-06, 23:47:21](https://news.ycombinator.com/item?id=43606027) - [Glamorous Toolkit](https://gtoolkit.com//)
 * [2025-04-06, 16:09:58](https://news.ycombinator.com/item?id=43602522) - [Unmasking EncryptHub: Help from ChatGPT and Opsec Blunders](https://outpost24.com/blog/unmasking-encrypthub-chatgpt-partner-crime/)
 * [2025-04-06, 10:23:23](https://news.ycombinator.com/item?id=43600363) - [Deleting multiplayer from the Unreal engine can save memory](https://larstofus.com/2025/04/05/how-deleting-multiplayer-from-the-engine-can-save-memory/)
 * [2025-04-05, 18:06:09](https://news.ycombinator.com/item?id=43595326) - [PiDP-1, or the rebirth of an old machine](https://hackaday.io/project/202541-replica-of-the-pdp-1-pidp-1/log/239666-finished-the-first-test-batch-of-5-machines)
