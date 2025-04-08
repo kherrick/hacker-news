@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2025-04-08, 10:32:48",
-      "https://news.ycombinator.com/item?id=43620125"
-    ],
-    [
-      "LLM-hacker-news: LLM plugin for pulling content from Hacker News",
-      "https://github.com/simonw/llm-hacker-news"
-    ]
-  ],
-  [
-    [
       "2025-04-08, 09:22:23",
       "https://news.ycombinator.com/item?id=43619759"
     ],
@@ -227,6 +217,16 @@
     [
       "Decoding the 90s: Cryptography in Early Software Development (2023)",
       "https://www.botanica.software/post/decoding-the-90s"
+    ]
+  ],
+  [
+    [
+      "2025-04-06, 16:09:58",
+      "https://news.ycombinator.com/item?id=43602522"
+    ],
+    [
+      "Unmasking EncryptHub: Help from ChatGPT and Opsec Blunders",
+      "https://outpost24.com/blog/unmasking-encrypthub-chatgpt-partner-crime/"
     ]
   ],
   [
