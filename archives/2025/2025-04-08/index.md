@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-08](index.md)
 
 * [2025-04-08, 07:51:50](https://news.ycombinator.com/item?id=43619346) - [Paradigm (YC W24) Hiring Founding Engineers in SF](https://www.ycombinator.com/companies/paradigm/jobs/nFNWweP-founding-engineer)
+* [2025-04-08, 07:46:42](https://news.ycombinator.com/item?id=43619315) - [UK Effort to Keep Apple Encryption Fight Secret Is Blocked](https://www.msn.com/en-us/money/other/uk-effort-to-keep-apple-encryption-fight-secret-is-blocked/ar-AA1CsokD)
 * [2025-04-08, 07:22:16](https://news.ycombinator.com/item?id=43619178) - [Gazans tell BBC of torture in Israeli detention](https://www.bbc.co.uk/news/articles/cn7vje365rno)
 * [2025-04-08, 06:55:32](https://news.ycombinator.com/item?id=43619040) - [String Theorists Say Black Holes Are Multidimensional String 'Supermazes'](https://www.scientificamerican.com/article/string-theorists-say-black-holes-are-multidimensional-string-supermazes/)
 * [2025-04-08, 05:34:51](https://news.ycombinator.com/item?id=43618617) - [EU offered 'zero-for-zero' deal to US weeks before tariff announcement](https://www.theguardian.com/world/2025/apr/07/eu-offered-zero-for-zero-deal-to-us-weeks-before-tariff-announcement)
