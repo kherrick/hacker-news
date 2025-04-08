@@ -21,6 +21,7 @@
 * [2025-04-04, 18:54:41](https://news.ycombinator.com/item?id=43586380) - [Benchmarking LLM social skills with an elimination game](https://github.com/lechmazur/elimination_game)
 * [2025-04-04, 18:36:02](https://news.ycombinator.com/item?id=43586182) - [Germany's 'Deutschlandticket' helps environment – study](https://www.dw.com/en/germanys-deutschlandticket-helps-environment-study/a-72128647)
 * [2025-04-04, 18:34:07](https://news.ycombinator.com/item?id=43586157) - [The End of Sierra as We Knew It, Part 1: The Acquisition](https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-1-the-acquisition/)
+* [2025-04-04, 18:29:47](https://news.ycombinator.com/item?id=43586117) - [Ethically sourced \"spare\" human bodies could revolutionize medicine](https://www.technologyreview.com/2025/03/25/1113611/ethically-sourced-spare-human-bodies-could-revolutionize-medicine/)
 * [2025-04-04, 18:29:21](https://news.ycombinator.com/item?id=43586113) - [Yoko: A Biography](https://www.newstatesman.com/culture/books/book-of-the-day/2025/03/the-yoko-ono-problem)
 * [2025-04-04, 18:28:38](https://news.ycombinator.com/item?id=43586107) - [Gumroad Did Not Become Open Source Today](https://danb.me/blog/gumroad-is-not-open-source/)
 * [2025-04-04, 18:25:23](https://news.ycombinator.com/item?id=43586073) - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
