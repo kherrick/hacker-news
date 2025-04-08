@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-08](index.md)
 
+* [2025-04-08, 18:28:06](https://news.ycombinator.com/item?id=43624977) - [Decomposing factorial of 300K as the product of 300K factors larger than 100K](http://gus-massa.blogspot.com/2025/04/decomposing-factorial-of-300k-as.html)
+* [2025-04-08, 18:21:49](https://news.ycombinator.com/item?id=43624888) - [How Netflix Accurately Attributes eBPF Flow Logs](https://netflixtechblog.com/how-netflix-accurately-attributes-ebpf-flow-logs-afe6d644a3bc)
 * [2025-04-08, 17:35:51](https://news.ycombinator.com/item?id=43624358) - [Show HN: A website/app to help manage your game library](https://gamenode.app)
 * [2025-04-08, 17:29:29](https://news.ycombinator.com/item?id=43624293) - [Analytic Combinatorics – A Worked Example](https://grossack.site/2025/04/08/analytic-combinatorics-example.html)
 * [2025-04-08, 17:23:29](https://news.ycombinator.com/item?id=43624220) - [Apache ECharts](https://echarts.apache.org/en/index.html)

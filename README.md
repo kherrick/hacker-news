@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-08, 18:28:06](https://news.ycombinator.com/item?id=43624977) - [Decomposing factorial of 300K as the product of 300K factors larger than 100K](http://gus-massa.blogspot.com/2025/04/decomposing-factorial-of-300k-as.html)
+* [2025-04-08, 18:21:49](https://news.ycombinator.com/item?id=43624888) - [How Netflix Accurately Attributes eBPF Flow Logs](https://netflixtechblog.com/how-netflix-accurately-attributes-ebpf-flow-logs-afe6d644a3bc)
 * [2025-04-08, 17:35:51](https://news.ycombinator.com/item?id=43624358) - [Show HN: A website/app to help manage your game library](https://gamenode.app)
 * [2025-04-08, 17:29:29](https://news.ycombinator.com/item?id=43624293) - [Analytic Combinatorics – A Worked Example](https://grossack.site/2025/04/08/analytic-combinatorics-example.html)
 * [2025-04-08, 17:23:29](https://news.ycombinator.com/item?id=43624220) - [Apache ECharts](https://echarts.apache.org/en/index.html)
@@ -19,9 +21,7 @@
 * [2025-04-08, 04:24:24](https://news.ycombinator.com/item?id=43618339) - [Neural Graffiti – Liquid Memory Layer for LLMs](https://github.com/babycommando/neuralgraffiti)
 * [2025-04-08, 01:20:10](https://news.ycombinator.com/item?id=43617493) - [Any program can be a GitHub Actions shell](https://yossarian.net/til/post/any-program-can-be-a-github-actions-shell/)
 * [2025-04-07, 21:50:55](https://news.ycombinator.com/item?id=43616337) - [\"Final Usonian Home\" by Frank Lloyd Wright Completed in Ohio](https://www.dezeen.com/2025/03/20/final-usonian-home-riverrock-frank-lloyd-wright-ohio-completed/?_hsenc=p2ANqtz--nulJz0XJo1E-jQIojcqaZmWjd0eXJ-oC35zKHYZb1UL94JLh6t_QI1k9lehp4fxwHKjPjkNeM-iQJihX705oJ-Maqyw&_hsmi=355439130)
-* [2025-04-07, 21:04:03](https://news.ycombinator.com/item?id=43615925) - [Ancient Dagger Up to 2.5k Years Old W Stars/Moons/Geometric Patterns Unearthed](https://www.smithsonianmag.com/smart-news/metal-detectorists-unearth-ancient-dagger-decorated-with-tiny-stars-crescent-moons-and-geometric-patterns-180986369/)
 * [2025-04-07, 21:03:16](https://news.ycombinator.com/item?id=43615912) - [Middle-aged man trading cards go viral in rural Japan town](https://www.tokyoweekender.com/entertainment/middle-aged-man-trading-cards-go-viral-in-japan/)
-* [2025-04-07, 18:13:23](https://news.ycombinator.com/item?id=43614285) - [Show HN: Lux – A luxurious package manager for Lua](https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html)
 * [2025-04-07, 16:25:45](https://news.ycombinator.com/item?id=43613194) - [Show HN: Browser MCP – Automate your browser using Cursor, Claude, VS Code](https://browsermcp.io/)
 * [2025-04-06, 18:31:56](https://news.ycombinator.com/item?id=43603724) - [The narrowest escalator in New York City](https://www.doobybrain.com/blog/the-narrowest-escalator-in-new-york)
 * [2025-04-06, 10:23:23](https://news.ycombinator.com/item?id=43600363) - [Deleting multiplayer from the Unreal engine can save memory](https://larstofus.com/2025/04/05/how-deleting-multiplayer-from-the-engine-can-save-memory/)
