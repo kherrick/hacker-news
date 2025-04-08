@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-08, 03:45:21",
+      "https://news.ycombinator.com/item?id=43618178"
+    ],
+    [
+      "Deep Learning, Deep Scandal",
+      "https://garymarcus.substack.com/p/deep-learning-deep-scandal"
+    ]
+  ],
+  [
+    [
+      "2025-04-08, 03:36:21",
+      "https://news.ycombinator.com/item?id=43618140"
+    ],
+    [
+      "Listening habits&subjective effects of background music in young adults ± ADHD",
+      "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1508181/full"
+    ]
+  ],
+  [
+    [
       "2025-04-08, 01:49:46",
       "https://news.ycombinator.com/item?id=43617641"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-04-07, 08:42:43",
-      "https://news.ycombinator.com/item?id=43609242"
-    ],
-    [
-      "A startup doesn't need to be a unicorn",
-      "https://mattgiustwilliamson.substack.com/p/your-startup-doesnt-need-to-be-a"
-    ]
-  ],
-  [
-    [
       "2025-04-06, 23:47:21",
       "https://news.ycombinator.com/item?id=43606027"
     ],
@@ -267,16 +277,6 @@
     [
       "Benchmarking LLM social skills with an elimination game",
       "https://github.com/lechmazur/elimination_game"
-    ]
-  ],
-  [
-    [
-      "2025-04-04, 13:17:11",
-      "https://news.ycombinator.com/item?id=43581900"
-    ],
-    [
-      "Deterministic simulation testing for async Rust",
-      "https://s2.dev/blog/dst"
     ]
   ],
   [
