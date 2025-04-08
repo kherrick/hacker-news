@@ -14,6 +14,7 @@
 * [2025-04-08, 10:59:26](https://news.ycombinator.com/item?id=43620279) - [Brazil's government-run payments system has become dominant](https://www.economist.com/the-americas/2025/04/03/brazils-government-run-payments-system-has-become-dominant)
 * [2025-04-08, 10:55:55](https://news.ycombinator.com/item?id=43620257) - [IBM Announces the Z17 Mainframe Powered by Telum II Processors](https://www.phoronix.com/news/IBM-z17-Telum-2-Announced)
 * [2025-04-08, 10:32:48](https://news.ycombinator.com/item?id=43620125) - [LLM-hacker-news: LLM plugin for pulling content from Hacker News](https://github.com/simonw/llm-hacker-news)
+* [2025-04-08, 09:31:12](https://news.ycombinator.com/item?id=43619813) - [How Trump's second term just made digital sovereignty a European priority](https://xwiki.com/en/Blog/European-digital-sovereignty/)
 * [2025-04-08, 09:30:22](https://news.ycombinator.com/item?id=43619804) - [Microsoft ends employment of 2 workers who protested complicity of Gaza genocide](https://www.msn.com/en-us/money/other/report-microsoft-fires-two-employees-who-protested-inside-50th-anniversary-event/ar-AA1CtH32)
 * [2025-04-08, 09:22:23](https://news.ycombinator.com/item?id=43619759) - [An Overwhelmingly Negative and Demoralizing Force](https://aftermath.site/ai-video-game-development-art-vibe-coding-midjourney)
 * [2025-04-08, 08:42:02](https://news.ycombinator.com/item?id=43619581) - [Less Htmx Is More](https://unplannedobsolescence.com/blog/less-htmx-is-more/)
