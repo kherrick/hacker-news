@@ -2,7 +2,6 @@
 
 * [2025-04-08, 15:11:26](https://news.ycombinator.com/item?id=43622719) - [Thank HN: The puzzle game I posted here 6 weeks ago got licensed by The Atlantic](https://www.theatlantic.com/games/bracket-city/)
 * [2025-04-08, 15:01:34](https://news.ycombinator.com/item?id=43622586) - [Nearly $13M stolen from Abracadabra Finance in crypto heist](https://therecord.media/nearly-thirteen-million-stolen-abracadabra)
-* [2025-04-08, 13:07:02](https://news.ycombinator.com/item?id=43621350) - [Show HN: I Built a Tool to Find Devs Based on Code, Not LinkedIn Titles](https://gitmatcher.com/)
 * [2025-04-08, 12:36:53](https://news.ycombinator.com/item?id=43621007) - [Show HN: Connecting an IBM 3151 terminal to a mainframe [video]](https://www.youtube.com/watch?v=V14ac9cRi9Q)
 * [2025-04-08, 11:32:10](https://news.ycombinator.com/item?id=43620471) - [Show HN: Badgeify – Add Any App to Your Mac Menu Bar](https://badgeify.app/)
 * [2025-04-08, 11:29:07](https://news.ycombinator.com/item?id=43620452) - [Meta got caught gaming AI benchmarks](https://www.theverge.com/meta/645012/meta-llama-4-maverick-benchmarks-gaming)
@@ -21,6 +20,7 @@
 * [2025-04-07, 21:10:32](https://news.ycombinator.com/item?id=43615986) - [A Supermarket Bag and a Truckload of FOMO](https://blog.julik.nl/2025/03/a-little-adventure-in-modern-frontend)
 * [2025-04-07, 21:04:03](https://news.ycombinator.com/item?id=43615925) - [Ancient Dagger Up to 2.5k Years Old W Stars/Moons/Geometric Patterns Unearthed](https://www.smithsonianmag.com/smart-news/metal-detectorists-unearth-ancient-dagger-decorated-with-tiny-stars-crescent-moons-and-geometric-patterns-180986369/)
 * [2025-04-07, 21:03:16](https://news.ycombinator.com/item?id=43615912) - [Middle-aged man trading cards go viral in rural Japan town](https://www.tokyoweekender.com/entertainment/middle-aged-man-trading-cards-go-viral-in-japan/)
+* [2025-04-07, 20:00:58](https://news.ycombinator.com/item?id=43615322) - [Scaffold Level Editor](https://blog.littlepolygon.com/posts/scaffold/)
 * [2025-04-07, 18:13:23](https://news.ycombinator.com/item?id=43614285) - [Show HN: Lux – A luxurious package manager for Lua](https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html)
 * [2025-04-07, 18:04:22](https://news.ycombinator.com/item?id=43614199) - [Fifty Years of Open Source Software Supply Chain Security](https://queue.acm.org/detail.cfm?id=3722542)
 * [2025-04-07, 16:25:45](https://news.ycombinator.com/item?id=43613194) - [Show HN: Browser MCP – Automate your browser using Cursor, Claude, VS Code](https://browsermcp.io/)
