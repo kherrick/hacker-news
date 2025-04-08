@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-08](index.md)
 
+* [2025-04-08, 05:04:35](https://news.ycombinator.com/item?id=43618494) - [The Modern Struggle Is Fighting Weaponized Addiction (2020)](https://nav.al/addiction)
 * [2025-04-08, 03:45:21](https://news.ycombinator.com/item?id=43618178) - [Deep Learning, Deep Scandal](https://garymarcus.substack.com/p/deep-learning-deep-scandal)
 * [2025-04-08, 03:36:21](https://news.ycombinator.com/item?id=43618140) - [Listening habits&subjective effects of background music in young adults ± ADHD](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1508181/full)
 * [2025-04-08, 03:27:09](https://news.ycombinator.com/item?id=43618105) - [India's repair culture gives new life to dead laptops](https://www.theverge.com/tech/639126/india-frankenstein-laptops)

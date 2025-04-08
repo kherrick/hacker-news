@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-08, 05:04:35](https://news.ycombinator.com/item?id=43618494) - [The Modern Struggle Is Fighting Weaponized Addiction (2020)](https://nav.al/addiction)
 * [2025-04-08, 03:36:21](https://news.ycombinator.com/item?id=43618140) - [Listening habits&subjective effects of background music in young adults ± ADHD](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1508181/full)
 * [2025-04-08, 03:27:09](https://news.ycombinator.com/item?id=43618105) - [India's repair culture gives new life to dead laptops](https://www.theverge.com/tech/639126/india-frankenstein-laptops)
 * [2025-04-08, 01:49:46](https://news.ycombinator.com/item?id=43617641) - [An FPGA-based LGP-30 Replica](https://www.e-basteln.de/computing/lgp30/lgp30/)
@@ -15,12 +16,10 @@
 * [2025-04-07, 18:44:17](https://news.ycombinator.com/item?id=43614582) - [Show HN: Minimal MCP server in Go showcasing project architecture](https://github.com/TuanKiri/weather-mcp-server)
 * [2025-04-07, 18:13:23](https://news.ycombinator.com/item?id=43614285) - [Show HN: Lux – A luxurious package manager for Lua](https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html)
 * [2025-04-07, 18:04:22](https://news.ycombinator.com/item?id=43614199) - [Fifty Years of Open Source Software Supply Chain Security](https://queue.acm.org/detail.cfm?id=3722542)
-* [2025-04-07, 17:52:53](https://news.ycombinator.com/item?id=43614081) - [The Troll Hole Adventure](https://bluerenga.blog/2025/04/03/the-troll-hole-adventure-1980/)
 * [2025-04-07, 17:42:02](https://news.ycombinator.com/item?id=43613994) - [Hasochism: The pleasure and pain of dependently typed Haskell programming [pdf] (2013)](https://personal.cis.strath.ac.uk/conor.mcbride/pub/hasochism.pdf)
 * [2025-04-07, 16:37:57](https://news.ycombinator.com/item?id=43613305) - [20 years of Git](https://blog.gitbutler.com/20-years-of-git/)
 * [2025-04-07, 16:25:45](https://news.ycombinator.com/item?id=43613194) - [Show HN: Browser MCP – Automate your browser using Cursor, Claude, VS Code](https://browsermcp.io/)
 * [2025-04-07, 14:43:17](https://news.ycombinator.com/item?id=43612102) - [Decoding the 90s: Cryptography in Early Software Development (2023)](https://www.botanica.software/post/decoding-the-90s)
-* [2025-04-07, 08:42:43](https://news.ycombinator.com/item?id=43609242) - [A startup doesn't need to be a unicorn](https://mattgiustwilliamson.substack.com/p/your-startup-doesnt-need-to-be-a)
 * [2025-04-06, 23:47:21](https://news.ycombinator.com/item?id=43606027) - [Glamorous Toolkit](https://gtoolkit.com//)
 * [2025-04-06, 21:14:09](https://news.ycombinator.com/item?id=43605003) - [Rsync replaced with openrsync on macOS Sequoia](https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/)
 * [2025-04-06, 16:09:58](https://news.ycombinator.com/item?id=43602522) - [Unmasking EncryptHub: Help from ChatGPT and Opsec Blunders](https://outpost24.com/blog/unmasking-encrypthub-chatgpt-partner-crime/)
@@ -28,8 +27,9 @@
 * [2025-04-05, 18:06:09](https://news.ycombinator.com/item?id=43595326) - [PiDP-1, or the rebirth of an old machine](https://hackaday.io/project/202541-replica-of-the-pdp-1-pidp-1/log/239666-finished-the-first-test-batch-of-5-machines)
 * [2025-04-05, 09:23:38](https://news.ycombinator.com/item?id=43592116) - ['Exploding' Tunnock's teacakes cleared by tests to fly again](https://www.bbc.co.uk/news/articles/c20x5x0g3kqo)
 * [2025-04-04, 21:53:33](https://news.ycombinator.com/item?id=43588032) - [In the 1980s we also downloaded software from TV](https://newslttrs.com/in-the-1980s-we-also-downloaded-software-from-tv/)
-* [2025-04-04, 18:54:41](https://news.ycombinator.com/item?id=43586380) - [Benchmarking LLM social skills with an elimination game](https://github.com/lechmazur/elimination_game)
-* [2025-04-04, 11:41:32](https://news.ycombinator.com/item?id=43580815) - [We asked camera companies why their RAW formats are all different and confusing](https://www.theverge.com/tech/640119/camera-raw-spec-format-explained-adobe-dng-canon-nikon-sony-fujifilm)
+* [2025-04-04, 18:10:26](https://news.ycombinator.com/item?id=43585911) - [Smallest Pacemaker Is the Size of a Rice Grain](https://www.sciencealert.com/breakthrough-worlds-smallest-pacemaker-is-the-size-of-a-rice-grain)
+* [2025-04-04, 01:41:35](https://news.ycombinator.com/item?id=43577490) - [Interviewing a software engineer who prepared with AI](https://www.kapwing.com/blog/what-its-like-to-interview-a-software-engineer-preparing-with-ai/)
+* [2025-04-03, 21:44:20](https://news.ycombinator.com/item?id=43575833) - [Drag Racers Are Ditching Superchargers for Scuba-Style Tanks and Compressed Air](https://www.thedrive.com/news/drag-racers-are-ditching-superchargers-for-scuba-style-tanks-and-compressed-air)
 
 ## [Archives](archives/index.md)
 

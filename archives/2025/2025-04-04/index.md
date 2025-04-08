@@ -26,6 +26,7 @@
 * [2025-04-04, 18:25:23](https://news.ycombinator.com/item?id=43586073) - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
 * [2025-04-04, 18:23:20](https://news.ycombinator.com/item?id=43586043) - [New Theoretical Research Trends in Cartography](https://www.researchgate.net/publication/26467883_NEW_THEORETICAL_RESEARCH_TRENDS_IN_CARTOGRAPHY)
 * [2025-04-04, 18:11:30](https://news.ycombinator.com/item?id=43585921) - [Cyber Forensic Expert in 2k Cases Faces FBI Probe](https://krebsonsecurity.com/2025/04/cyber-forensic-expert-in-2000-cases-faces-fbi-probe/)
+* [2025-04-04, 18:10:26](https://news.ycombinator.com/item?id=43585911) - [Smallest Pacemaker Is the Size of a Rice Grain](https://www.sciencealert.com/breakthrough-worlds-smallest-pacemaker-is-the-size-of-a-rice-grain)
 * [2025-04-04, 17:55:58](https://news.ycombinator.com/item?id=43585742) - [Pitfalls of Safe Rust](https://corrode.dev/blog/pitfalls-of-safe-rust/)
 * [2025-04-04, 17:47:05](https://news.ycombinator.com/item?id=43585649) - [The Mathematics of Crochet](https://hellohartblog.wordpress.com/2015/05/25/the-mathematics-of-crochet/)
 * [2025-04-04, 17:41:42](https://news.ycombinator.com/item?id=43585587) - [YIMBYism as Industrial Policy](https://www.slowboring.com/p/yimbyism-as-industrial-policy)
