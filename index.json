@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-04-08, 17:29:29",
+      "https://news.ycombinator.com/item?id=43624293"
+    ],
+    [
+      "Analytic Combinatorics – A Worked Example",
+      "https://grossack.site/2025/04/08/analytic-combinatorics-example.html"
+    ]
+  ],
+  [
+    [
+      "2025-04-08, 16:26:20",
+      "https://news.ycombinator.com/item?id=43623550"
+    ],
+    [
+      "Sculptor: Catch and fix issues as you code",
+      "https://imbue.com/product/sculptor/"
+    ]
+  ],
+  [
+    [
+      "2025-04-08, 15:43:14",
+      "https://news.ycombinator.com/item?id=43623099"
+    ],
+    [
+      "Show HN: HNSW index for vector embeddings in approx 500 LOC",
+      "https://github.com/dicroce/hnsw"
+    ]
+  ],
+  [
+    [
       "2025-04-08, 15:11:26",
       "https://news.ycombinator.com/item?id=43622719"
     ],
@@ -17,16 +47,6 @@
     [
       "Nearly $13M stolen from Abracadabra Finance in crypto heist",
       "https://therecord.media/nearly-thirteen-million-stolen-abracadabra"
-    ]
-  ],
-  [
-    [
-      "2025-04-08, 13:07:02",
-      "https://news.ycombinator.com/item?id=43621350"
-    ],
-    [
-      "Show HN: I Built a Tool to Find Devs Based on Code, Not LinkedIn Titles",
-      "https://gitmatcher.com/"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2025-04-08, 03:27:09",
-      "https://news.ycombinator.com/item?id=43618105"
-    ],
-    [
-      "India's repair culture gives new life to dead laptops",
-      "https://www.theverge.com/tech/639126/india-frankenstein-laptops"
-    ]
-  ],
-  [
-    [
       "2025-04-08, 01:20:10",
       "https://news.ycombinator.com/item?id=43617493"
     ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2025-04-07, 21:39:33",
-      "https://news.ycombinator.com/item?id=43616241"
-    ],
-    [
-      "Beyond Quacking: Deep Integration of Language Models and RAG into DuckDB",
-      "https://arxiv.org/abs/2504.01157"
-    ]
-  ],
-  [
-    [
       "2025-04-07, 21:04:03",
       "https://news.ycombinator.com/item?id=43615925"
     ],
@@ -197,16 +197,6 @@
     [
       "Middle-aged man trading cards go viral in rural Japan town",
       "https://www.tokyoweekender.com/entertainment/middle-aged-man-trading-cards-go-viral-in-japan/"
-    ]
-  ],
-  [
-    [
-      "2025-04-07, 20:00:58",
-      "https://news.ycombinator.com/item?id=43615322"
-    ],
-    [
-      "Scaffold Level Editor",
-      "https://blog.littlepolygon.com/posts/scaffold/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "No elephants: Breakthroughs in image generation",
       "https://www.oneusefulthing.org/p/no-elephants-breakthroughs-in-image"
+    ]
+  ],
+  [
+    [
+      "2025-04-05, 03:09:14",
+      "https://news.ycombinator.com/item?id=43590323"
+    ],
+    [
+      "Show HN: A tool for creating blackout poetry",
+      "https://bobbiec.github.io/blackout-poetry.html"
     ]
   ],
   [
