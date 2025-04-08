@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-08, 22:25:43](https://news.ycombinator.com/item?id=43627075) - [Trump, Doge Are Trying to Get Around Privacy Laws to Gather Your Personal Info](https://www.rollingstone.com/politics/politics-features/trump-musk-doge-privacy-personal-info-data-social-security-1235312853/)
 * [2025-04-08, 20:00:22](https://news.ycombinator.com/item?id=43625864) - [How to Recognize Woodpeckers by Their Drumming Sounds](https://www.allaboutbirds.org/news/how-to-recognize-woodpeckers-by-their-drumming-sounds/)
 * [2025-04-08, 19:13:50](https://news.ycombinator.com/item?id=43625474) - [Obituary for Cyc](https://yuxi-liu-wired.github.io/essays/posts/cyc/)
 * [2025-04-08, 19:11:41](https://news.ycombinator.com/item?id=43625452) - [Solving a “Layton Puzzle” with Prolog](https://buttondown.com/hillelwayne/archive/a48fce5b-8a05-4302-b620-9b26f057f145/)
@@ -27,6 +26,7 @@
 * [2025-04-05, 17:41:35](https://news.ycombinator.com/item?id=43595165) - [The Greatest Motorcycle Photo](https://www.life.com/arts-entertainment/the-greatest-motorcycle-photo-ever/)
 * [2025-04-05, 14:07:47](https://news.ycombinator.com/item?id=43593651) - [Sweetener saccharin shows surprise power against antibiotic resistance](https://www.brunel.ac.uk/news-and-events/news/articles/Sweetener-saccharin-shows-surprise-power-against-antibiotic-resistance)
 * [2025-04-05, 03:51:51](https://news.ycombinator.com/item?id=43590569) - [No elephants: Breakthroughs in image generation](https://www.oneusefulthing.org/p/no-elephants-breakthroughs-in-image)
+* [2025-04-05, 03:09:14](https://news.ycombinator.com/item?id=43590323) - [Show HN: A tool for creating blackout poetry](https://bobbiec.github.io/blackout-poetry.html)
 * [2025-04-05, 00:58:15](https://news.ycombinator.com/item?id=43589309) - [What a refugee camp reveals about economics](https://www.economist.com/finance-and-economics/2025/04/03/what-a-refugee-camp-reveals-about-economics)
 * [2025-04-04, 23:17:25](https://news.ycombinator.com/item?id=43588742) - [Using Token Sequences to Iterate Ranges](https://brevzin.github.io/c++/2025/04/03/token-sequence-for/)
 * [2025-04-04, 22:21:39](https://news.ycombinator.com/item?id=43588337) - [The Decline of the U.S. Machine-Tool Industry and Prospects for Recovery (1994)](https://www.rand.org/pubs/research_briefs/RB1500.html)
