@@ -19,7 +19,6 @@
 * [2025-04-07, 17:42:02](https://news.ycombinator.com/item?id=43613994) - [Hasochism: The pleasure and pain of dependently typed Haskell programming [pdf] (2013)](https://personal.cis.strath.ac.uk/conor.mcbride/pub/hasochism.pdf)
 * [2025-04-07, 16:37:57](https://news.ycombinator.com/item?id=43613305) - [20 years of Git](https://blog.gitbutler.com/20-years-of-git/)
 * [2025-04-07, 16:25:45](https://news.ycombinator.com/item?id=43613194) - [Show HN: Browser MCP – Automate your browser using Cursor, Claude, VS Code](https://browsermcp.io/)
-* [2025-04-07, 16:23:52](https://news.ycombinator.com/item?id=43613180) - [Variable duty cycle square waves with the Web Audio API](https://www.danblack.co/blog/variable-duty-cycle-square-wave)
 * [2025-04-07, 14:43:17](https://news.ycombinator.com/item?id=43612102) - [Decoding the 90s: Cryptography in Early Software Development (2023)](https://www.botanica.software/post/decoding-the-90s)
 * [2025-04-06, 23:47:21](https://news.ycombinator.com/item?id=43606027) - [Glamorous Toolkit](https://gtoolkit.com//)
 * [2025-04-06, 21:14:09](https://news.ycombinator.com/item?id=43605003) - [Rsync replaced with openrsync on macOS Sequoia](https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/)
@@ -29,6 +28,7 @@
 * [2025-04-05, 09:23:38](https://news.ycombinator.com/item?id=43592116) - ['Exploding' Tunnock's teacakes cleared by tests to fly again](https://www.bbc.co.uk/news/articles/c20x5x0g3kqo)
 * [2025-04-04, 19:21:54](https://news.ycombinator.com/item?id=43586646) - [Pebbles Form Planets](https://nautil.us/how-pebbles-form-planets-1201205/)
 * [2025-04-04, 18:10:26](https://news.ycombinator.com/item?id=43585911) - [Smallest Pacemaker Is the Size of a Rice Grain](https://www.sciencealert.com/breakthrough-worlds-smallest-pacemaker-is-the-size-of-a-rice-grain)
+* [2025-04-04, 12:21:55](https://news.ycombinator.com/item?id=43581191) - [Flying Saucers: An Opening Salvo of the Cold War?](https://www.tandfonline.com/doi/full/10.1080/08850607.2024.2436673)
 * [2025-04-04, 01:41:35](https://news.ycombinator.com/item?id=43577490) - [Interviewing a software engineer who prepared with AI](https://www.kapwing.com/blog/what-its-like-to-interview-a-software-engineer-preparing-with-ai/)
 
 ## [Archives](archives/index.md)
