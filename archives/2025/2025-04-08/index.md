@@ -16,6 +16,7 @@
 * [2025-04-08, 11:03:23](https://news.ycombinator.com/item?id=43620298) - [Cloudflare Acquires Outerbase](https://blog.cloudflare.com/cloudflare-acquires-outerbase-database-dx/)
 * [2025-04-08, 10:59:26](https://news.ycombinator.com/item?id=43620279) - [Brazil's government-run payments system has become dominant](https://www.economist.com/the-americas/2025/04/03/brazils-government-run-payments-system-has-become-dominant)
 * [2025-04-08, 10:55:55](https://news.ycombinator.com/item?id=43620257) - [IBM Announces the Z17 Mainframe Powered by Telum II Processors](https://www.phoronix.com/news/IBM-z17-Telum-2-Announced)
+* [2025-04-08, 10:36:07](https://news.ycombinator.com/item?id=43620141) - [Tailscale has raised $160M](https://tailscale.com/blog/series-c)
 * [2025-04-08, 10:32:48](https://news.ycombinator.com/item?id=43620125) - [LLM-hacker-news: LLM plugin for pulling content from Hacker News](https://github.com/simonw/llm-hacker-news)
 * [2025-04-08, 10:11:20](https://news.ycombinator.com/item?id=43620007) - ['Unstoppable force' of solar power propels world to 40% clean electricity](https://news.sky.com/story/unstoppable-force-of-solar-power-propels-world-to-40-clean-electricity-report-finds-13344230)
 * [2025-04-08, 09:31:12](https://news.ycombinator.com/item?id=43619813) - [How Trump's second term just made digital sovereignty a European priority](https://xwiki.com/en/Blog/European-digital-sovereignty/)
