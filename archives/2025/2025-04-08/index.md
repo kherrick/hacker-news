@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-08](index.md)
 
 * [2025-04-08, 15:11:26](https://news.ycombinator.com/item?id=43622719) - [Thank HN: The puzzle game I posted here 6 weeks ago got licensed by The Atlantic](https://www.theatlantic.com/games/bracket-city/)
+* [2025-04-08, 15:01:34](https://news.ycombinator.com/item?id=43622586) - [Nearly $13M stolen from Abracadabra Finance in crypto heist](https://therecord.media/nearly-thirteen-million-stolen-abracadabra)
 * [2025-04-08, 13:07:02](https://news.ycombinator.com/item?id=43621350) - [Show HN: I Built a Tool to Find Devs Based on Code, Not LinkedIn Titles](https://gitmatcher.com/)
 * [2025-04-08, 12:36:53](https://news.ycombinator.com/item?id=43621007) - [Show HN: Connecting an IBM 3151 terminal to a mainframe [video]](https://www.youtube.com/watch?v=V14ac9cRi9Q)
 * [2025-04-08, 12:21:48](https://news.ycombinator.com/item?id=43620859) - [Doge using AI to snoop on U.S. federal workers, sources say](https://www.reuters.com/technology/artificial-intelligence/musks-doge-using-ai-snoop-us-federal-workers-sources-say-2025-04-08/)

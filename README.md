@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-08, 15:11:26](https://news.ycombinator.com/item?id=43622719) - [Thank HN: The puzzle game I posted here 6 weeks ago got licensed by The Atlantic](https://www.theatlantic.com/games/bracket-city/)
+* [2025-04-08, 15:01:34](https://news.ycombinator.com/item?id=43622586) - [Nearly $13M stolen from Abracadabra Finance in crypto heist](https://therecord.media/nearly-thirteen-million-stolen-abracadabra)
 * [2025-04-08, 13:07:02](https://news.ycombinator.com/item?id=43621350) - [Show HN: I Built a Tool to Find Devs Based on Code, Not LinkedIn Titles](https://gitmatcher.com/)
 * [2025-04-08, 12:36:53](https://news.ycombinator.com/item?id=43621007) - [Show HN: Connecting an IBM 3151 terminal to a mainframe [video]](https://www.youtube.com/watch?v=V14ac9cRi9Q)
 * [2025-04-08, 11:32:10](https://news.ycombinator.com/item?id=43620471) - [Show HN: Badgeify – Add Any App to Your Mac Menu Bar](https://badgeify.app/)
@@ -24,7 +25,6 @@
 * [2025-04-07, 18:13:23](https://news.ycombinator.com/item?id=43614285) - [Show HN: Lux – A luxurious package manager for Lua](https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html)
 * [2025-04-07, 18:04:22](https://news.ycombinator.com/item?id=43614199) - [Fifty Years of Open Source Software Supply Chain Security](https://queue.acm.org/detail.cfm?id=3722542)
 * [2025-04-07, 16:25:45](https://news.ycombinator.com/item?id=43613194) - [Show HN: Browser MCP – Automate your browser using Cursor, Claude, VS Code](https://browsermcp.io/)
-* [2025-04-07, 14:43:17](https://news.ycombinator.com/item?id=43612102) - [Decoding the 90s: Cryptography in Early Software Development (2023)](https://www.botanica.software/post/decoding-the-90s)
 * [2025-04-06, 10:23:23](https://news.ycombinator.com/item?id=43600363) - [Deleting multiplayer from the Unreal engine can save memory](https://larstofus.com/2025/04/05/how-deleting-multiplayer-from-the-engine-can-save-memory/)
 * [2025-04-06, 07:52:10](https://news.ycombinator.com/item?id=43599704) - [Arbitrage and equilibrium in the Team Fortress 2 economy (2012)](https://web.archive.org/web/20130530084230/http://blogs.valvesoftware.com/economics/arbitrage-and-equilibrium-in-the-team-fortress-2-economy/)
 * [2025-04-05, 17:41:35](https://news.ycombinator.com/item?id=43595165) - [The Greatest Motorcycle Photo](https://www.life.com/arts-entertainment/the-greatest-motorcycle-photo-ever/)
