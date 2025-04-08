@@ -15,6 +15,7 @@
 * [2025-04-08, 03:27:09](https://news.ycombinator.com/item?id=43618105) - [India's repair culture gives new life to dead laptops](https://www.theverge.com/tech/639126/india-frankenstein-laptops)
 * [2025-04-08, 01:20:10](https://news.ycombinator.com/item?id=43617493) - [Any program can be a GitHub Actions shell](https://yossarian.net/til/post/any-program-can-be-a-github-actions-shell/)
 * [2025-04-07, 22:24:16](https://news.ycombinator.com/item?id=43616604) - [What Was Quartz?](https://www.zachseward.com/what-was-quartz/)
+* [2025-04-07, 21:50:55](https://news.ycombinator.com/item?id=43616337) - [\"Final Usonian Home\" by Frank Lloyd Wright Completed in Ohio](https://www.dezeen.com/2025/03/20/final-usonian-home-riverrock-frank-lloyd-wright-ohio-completed/?_hsenc=p2ANqtz--nulJz0XJo1E-jQIojcqaZmWjd0eXJ-oC35zKHYZb1UL94JLh6t_QI1k9lehp4fxwHKjPjkNeM-iQJihX705oJ-Maqyw&_hsmi=355439130)
 * [2025-04-07, 21:39:33](https://news.ycombinator.com/item?id=43616241) - [Beyond Quacking: Deep Integration of Language Models and RAG into DuckDB](https://arxiv.org/abs/2504.01157)
 * [2025-04-07, 21:10:32](https://news.ycombinator.com/item?id=43615986) - [A Supermarket Bag and a Truckload of FOMO](https://blog.julik.nl/2025/03/a-little-adventure-in-modern-frontend)
 * [2025-04-07, 21:04:03](https://news.ycombinator.com/item?id=43615925) - [Ancient Dagger Up to 2.5k Years Old W Stars/Moons/Geometric Patterns Unearthed](https://www.smithsonianmag.com/smart-news/metal-detectorists-unearth-ancient-dagger-decorated-with-tiny-stars-crescent-moons-and-geometric-patterns-180986369/)
@@ -27,7 +28,6 @@
 * [2025-04-06, 10:23:23](https://news.ycombinator.com/item?id=43600363) - [Deleting multiplayer from the Unreal engine can save memory](https://larstofus.com/2025/04/05/how-deleting-multiplayer-from-the-engine-can-save-memory/)
 * [2025-04-06, 07:52:10](https://news.ycombinator.com/item?id=43599704) - [Arbitrage and equilibrium in the Team Fortress 2 economy (2012)](https://web.archive.org/web/20130530084230/http://blogs.valvesoftware.com/economics/arbitrage-and-equilibrium-in-the-team-fortress-2-economy/)
 * [2025-04-05, 17:41:35](https://news.ycombinator.com/item?id=43595165) - [The Greatest Motorcycle Photo](https://www.life.com/arts-entertainment/the-greatest-motorcycle-photo-ever/)
-* [2025-04-05, 09:23:38](https://news.ycombinator.com/item?id=43592116) - ['Exploding' Tunnock's teacakes cleared by tests to fly again](https://www.bbc.co.uk/news/articles/c20x5x0g3kqo)
 * [2025-04-05, 03:51:51](https://news.ycombinator.com/item?id=43590569) - [No elephants: Breakthroughs in image generation](https://www.oneusefulthing.org/p/no-elephants-breakthroughs-in-image)
 * [2025-04-04, 01:41:35](https://news.ycombinator.com/item?id=43577490) - [Interviewing a software engineer who prepared with AI](https://www.kapwing.com/blog/what-its-like-to-interview-a-software-engineer-preparing-with-ai/)
 
