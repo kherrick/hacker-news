@@ -22,14 +22,14 @@
 * [2025-04-08, 10:36:07](https://news.ycombinator.com/item?id=43620141) - [Tailscale has raised $160M](https://tailscale.com/blog/series-c)
 * [2025-04-08, 09:23:18](https://news.ycombinator.com/item?id=43619768) - [Ask HN: Do you still use search engines?](https://news.ycombinator.com/item?id=43619768)
 * [2025-04-08, 09:22:23](https://news.ycombinator.com/item?id=43619759) - [An Overwhelmingly Negative and Demoralizing Force](https://aftermath.site/ai-video-game-development-art-vibe-coding-midjourney)
-* [2025-04-06, 18:43:04](https://news.ycombinator.com/item?id=43603844) - [Associations Between Class I, II, or III Obesity and Health Outcomes](https://evidence.nejm.org/doi/10.1056/EVIDoa2400229)
+* [2025-04-08, 08:36:23](https://news.ycombinator.com/item?id=43619548) - [Intelligence Evolved at Least Twice in Vertebrate Animals](https://www.quantamagazine.org/intelligence-evolved-at-least-twice-in-vertebrate-animals-20250407/)
 * [2025-04-06, 12:39:40](https://news.ycombinator.com/item?id=43601026) - [The order of files in your ext4 filesystem does not matter](https://thewisenerd.com/blog/ext4-readdir/)
 * [2025-04-06, 04:55:02](https://news.ycombinator.com/item?id=43599041) - [Space Station Flight Was 'Wilder' Than We Thought](https://science.slashdot.org/story/25/04/06/0136232/starliners-space-station-flight-was-wilder-than-we-thought)
 * [2025-04-05, 22:16:54](https://news.ycombinator.com/item?id=43597264) - [Linux Kernel Defence Map – Security Hardening Concepts](https://github.com/a13xp0p0v/linux-kernel-defence-map)
 * [2025-04-05, 20:06:37](https://news.ycombinator.com/item?id=43596419) - [A year of Rust in ClickHouse](https://clickhouse.com/blog/rust)
 * [2025-04-05, 17:47:10](https://news.ycombinator.com/item?id=43595193) - [A new way to make graphs more accessible to blind and low-vision readers](https://news.mit.edu/2025/making-graphs-more-accessible-blind-low-vision-readers-0325)
+* [2025-04-05, 15:13:00](https://news.ycombinator.com/item?id=43594090) - [Nonlinear soundsheet microscopy:imaging opaque organs capillary/cellular scale](https://www.science.org/doi/10.1126/science.ads1325)
 * [2025-04-05, 15:08:28](https://news.ycombinator.com/item?id=43594059) - [DIY experimental reactor harnesses the Birkeland-Eyde process](https://blog.arduino.cc/2025/03/17/this-diy-experimental-reactor-harnesses-the-birkeland-eyde-process/)
-* [2025-04-05, 03:51:51](https://news.ycombinator.com/item?id=43590569) - [No elephants: Breakthroughs in image generation](https://www.oneusefulthing.org/p/no-elephants-breakthroughs-in-image)
 
 ## [Archives](archives/index.md)
 

@@ -39,6 +39,7 @@
 * [2025-04-05, 15:57:46](https://news.ycombinator.com/item?id=43594421) - [iRobot made Roomba into an icon. Now, it's in a mess](https://www.fastcompany.com/91302893/irobot-turned-roomba-into-a-brand-icon-now-its-in-a-huge-mess)
 * [2025-04-05, 15:54:01](https://news.ycombinator.com/item?id=43594396) - [Exeter's unassuming co-op worker leads double life as 'Lord of the Logos'](https://www.devonlive.com/whats-on/whats-on-news/exeters-unassuming-co-op-worker-10039941)
 * [2025-04-05, 15:42:33](https://news.ycombinator.com/item?id=43594311) - [AI hasn't killed radiology, but it is changing it](https://www.washingtonpost.com/health/2025/04/05/ai-machine-learning-radiology-software/)
+* [2025-04-05, 15:13:00](https://news.ycombinator.com/item?id=43594090) - [Nonlinear soundsheet microscopy:imaging opaque organs capillary/cellular scale](https://www.science.org/doi/10.1126/science.ads1325)
 * [2025-04-05, 15:08:28](https://news.ycombinator.com/item?id=43594059) - [DIY experimental reactor harnesses the Birkeland-Eyde process](https://blog.arduino.cc/2025/03/17/this-diy-experimental-reactor-harnesses-the-birkeland-eyde-process/)
 * [2025-04-05, 14:54:17](https://news.ycombinator.com/item?id=43593956) - [Tracking the international space station with an Arduino](https://faridrener.com/2025/04/04/tracking-iss.html)
 * [2025-04-05, 14:46:19](https://news.ycombinator.com/item?id=43593913) - [SpacetimeDB v1.0: Multiplayer at the speed of light](https://github.com/clockworklabs/SpacetimeDB)
