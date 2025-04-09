@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-09, 14:25:08](https://news.ycombinator.com/item?id=43632516) - [Hidden social & emotional competencies in autism spectrum disorders:digital lens](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1559202/full)
+* [2025-04-09, 14:20:14](https://news.ycombinator.com/item?id=43632459) - [Small Town America vs. Big Box Stores](https://www.strongtowns.org/journal/2025/4/1/small-town-america-vs-big-box-stores)
 * [2025-04-09, 14:12:47](https://news.ycombinator.com/item?id=43632379) - [The chroot Technique – a Swiss army multitool for Linux systems](https://livesys.se/posts/the-chroot-technique/)
+* [2025-04-09, 13:27:30](https://news.ycombinator.com/item?id=43631822) - [SpacetimeDB](https://spacetimedb.com/)
 * [2025-04-09, 13:24:51](https://news.ycombinator.com/item?id=43631793) - [Show HN: Dynomate– Fast, Git-Friendly DynamoDB GUI Client (Dynobase Alternative)](https://dynomate.io/)
 * [2025-04-09, 13:11:50](https://news.ycombinator.com/item?id=43631672) - [Man pages are great, man readers are the problem](https://whynothugo.nl/journal/2025/04/09/man-pages-are-great-man-readers-are-the-problem/)
 * [2025-04-09, 13:10:44](https://news.ycombinator.com/item?id=43631656) - [Quality-of-Life in Tetris Games](https://jcarlosroldan.com/post/355)
-* [2025-04-09, 12:58:39](https://news.ycombinator.com/item?id=43631543) - [How much do you think it costs to make a pair of Nike shoes in Asia?](https://threadreaderapp.com/thread/1909741170953273353.html)
 * [2025-04-09, 12:46:59](https://news.ycombinator.com/item?id=43631450) - [An LLM Query Understanding Service](https://softwaredoug.com/blog/2025/04/08/llm-query-understand)
 * [2025-04-09, 12:38:20](https://news.ycombinator.com/item?id=43631381) - [The Agent2Agent Protocol (A2A)](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
 * [2025-04-09, 12:28:01](https://news.ycombinator.com/item?id=43631298) - [Treasury's OCC Says Hackers Had Access to 150k Emails](https://www.securityweek.com/treasurys-occ-says-hackers-had-access-to-150000-emails/)
