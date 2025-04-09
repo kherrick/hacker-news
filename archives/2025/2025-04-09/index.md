@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-09](index.md)
 
+* [2025-04-09, 15:58:30](https://news.ycombinator.com/item?id=43633568) - [Visual Reasoning Is Coming Soon](http://arcturus-labs.com/blog/2025/03/31/visual-reasoning-is-coming-soon/)
 * [2025-04-09, 15:49:08](https://news.ycombinator.com/item?id=43633458) - [About 90% of Migrants Sent to Salvador Lacked US Criminal Record](https://www.bloomberg.com/news/articles/2025-04-09/about-90-of-migrants-sent-to-salvador-lacked-us-criminal-record)
 * [2025-04-09, 15:41:38](https://news.ycombinator.com/item?id=43633383) - [Anthropic Education Report: How University Students Use Claude](https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude)
 * [2025-04-09, 15:36:52](https://news.ycombinator.com/item?id=43633330) - [Major Flaws in 2025 Meta-Analysis on Fluoride and Children IQ Scores](https://osf.io/preprints/osf/zhm54_v3)
