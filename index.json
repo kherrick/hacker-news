@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2025-04-09, 08:58:12",
-      "https://news.ycombinator.com/item?id=43630208"
-    ],
-    [
-      "Justice Dept. scales back crypto cases in line with Trump administration memo",
-      "https://www.washingtonpost.com/national-security/2025/04/08/trump-crypto-fraud-doj-enforcement"
-    ]
-  ],
-  [
-    [
       "2025-04-09, 06:02:01",
       "https://news.ycombinator.com/item?id=43629307"
     ],
@@ -297,6 +287,16 @@
     [
       "Gaussian Splatting Alternative: WebGL Implementation of Nvidia's SVRaster",
       "https://github.com/samuelm2/svraster-webgl"
+    ]
+  ],
+  [
+    [
+      "2025-04-07, 03:25:13",
+      "https://news.ycombinator.com/item?id=43607325"
+    ],
+    [
+      "Nix Derivations, Without Guessing",
+      "https://bernsteinbear.com/blog/nix-by-hand/"
     ]
   ]
 ]
