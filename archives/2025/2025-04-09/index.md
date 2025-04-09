@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-09](index.md)
 
+* [2025-04-09, 08:01:38](https://news.ycombinator.com/item?id=43629887) - ['Sun-Like' Stars](https://www.centauri-dreams.org/2025/04/08/on-sun-like-stars/)
 * [2025-04-09, 07:32:44](https://news.ycombinator.com/item?id=43629732) - [Ask HN: Where do you reliably find worldwide remote jobs?](https://news.ycombinator.com/item?id=43629732)
 * [2025-04-09, 07:08:28](https://news.ycombinator.com/item?id=43629579) - [The New Legislators of Silicon Valley](https://www.theideasletter.org/essay/silicon-valleys-new-legislators/)
 * [2025-04-09, 06:45:10](https://news.ycombinator.com/item?id=43629490) - [Toulouse University wants to host US researchers whose work is at risk](https://en.univ-toulouse.fr/news/toulouse-welcomes-us-researchers-facing-unprecedented-challenges)
