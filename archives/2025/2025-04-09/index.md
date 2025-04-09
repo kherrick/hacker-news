@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-09](index.md)
 
+* [2025-04-09, 12:28:01](https://news.ycombinator.com/item?id=43631298) - [Treasury's OCC Says Hackers Had Access to 150k Emails](https://www.securityweek.com/treasurys-occ-says-hackers-had-access-to-150000-emails/)
+* [2025-04-09, 12:17:03](https://news.ycombinator.com/item?id=43631230) - [Whisky is no longer actively maintained](https://docs.getwhisky.app/maintenance-notice)
+* [2025-04-09, 10:34:42](https://news.ycombinator.com/item?id=43630661) - [The guide to reduce screen time](https://speedbumpapp.com/en/blog/how-to-reduce-screen-time/)
 * [2025-04-09, 09:34:16](https://news.ycombinator.com/item?id=43630388) - [Hardening the Firefox Front End with Content Security Policies](https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html)
 * [2025-04-09, 08:01:38](https://news.ycombinator.com/item?id=43629887) - ['Sun-Like' Stars](https://www.centauri-dreams.org/2025/04/08/on-sun-like-stars/)
 * [2025-04-09, 07:32:44](https://news.ycombinator.com/item?id=43629732) - [Ask HN: Where do you reliably find worldwide remote jobs?](https://news.ycombinator.com/item?id=43629732)
