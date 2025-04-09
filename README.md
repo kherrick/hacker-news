@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-09, 05:24:17](https://news.ycombinator.com/item?id=43629127) - [Nintendo confirms you will have to pay to use the Switch 2's C button](https://www.polygon.com/nintendo-switch-2/553458/switch-2-nintendo-confirms-c-button-price)
-* [2025-04-09, 05:08:58](https://news.ycombinator.com/item?id=43629058) - [DeepCoder: An Open-Source 14B Coder at O3-Mini Level](https://www.together.ai/blog/deepcoder)
 * [2025-04-09, 01:21:22](https://news.ycombinator.com/item?id=43628037) - [Dockerfmt: A Dockerfile Formatter](https://github.com/reteps/dockerfmt)
+* [2025-04-09, 01:20:13](https://news.ycombinator.com/item?id=43628028) - [NNN: Next-Generation Neural Networks for Marketing Mix Modeling](https://arxiv.org/abs/2504.06212)
 * [2025-04-09, 00:44:22](https://news.ycombinator.com/item?id=43627864) - [The Barium Experiment](https://tomscii.sig7.se/2025/04/The-Barium-Experiment)
 * [2025-04-09, 00:20:18](https://news.ycombinator.com/item?id=43627758) - [Show HN: DrawDB – open-source online database diagram editor (a retro)](https://www.drawdb.app/)
 * [2025-04-09, 00:00:15](https://news.ycombinator.com/item?id=43627646) - [PostgreSQL Full-Text Search: Fast When Done Right (Debunking the Slow Myth)](https://blog.vectorchord.ai/postgresql-full-text-search-fast-when-done-right-debunking-the-slow-myth)
@@ -14,6 +13,7 @@
 * [2025-04-08, 17:29:29](https://news.ycombinator.com/item?id=43624293) - [Analytic Combinatorics – A Worked Example](https://grossack.site/2025/04/08/analytic-combinatorics-example.html)
 * [2025-04-08, 17:23:29](https://news.ycombinator.com/item?id=43624220) - [Apache ECharts](https://echarts.apache.org/en/index.html)
 * [2025-04-08, 16:49:40](https://news.ycombinator.com/item?id=43623820) - [Show HN: Coroot – eBPF-based, open source observability with actionable insights](https://github.com/coroot/coroot)
+* [2025-04-08, 15:43:14](https://news.ycombinator.com/item?id=43623099) - [Show HN: HNSW index for vector embeddings in approx 500 LOC](https://github.com/dicroce/hnsw)
 * [2025-04-08, 15:11:26](https://news.ycombinator.com/item?id=43622719) - [Thank HN: The puzzle game I posted here 6 weeks ago got licensed by The Atlantic](https://www.theatlantic.com/games/bracket-city/)
 * [2025-04-08, 15:10:29](https://news.ycombinator.com/item?id=43622703) - [Better typography with text-wrap pretty](https://webkit.org/blog/16547/better-typography-with-text-wrap-pretty/)
 * [2025-04-08, 10:59:26](https://news.ycombinator.com/item?id=43620279) - [Brazil's government-run payments system has become dominant](https://www.economist.com/the-americas/2025/04/03/brazils-government-run-payments-system-has-become-dominant)
