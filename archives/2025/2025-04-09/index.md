@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-09](index.md)
 
+* [2025-04-09, 20:51:35](https://news.ycombinator.com/item?id=43637819) - [Do Charity Bookshops Drive Out Other Second-Hand Bookshops?](http://wormwoodiana.blogspot.com/2025/04/do-charity-bookshops-drive-out-other.html)
 * [2025-04-09, 20:40:18](https://news.ycombinator.com/item?id=43637683) - [Dept of Homeland Security Says Social Media Will Be Screened for 'Antisemitism'](https://dashboard.stripe.com/login)
 * [2025-04-09, 19:52:07](https://news.ycombinator.com/item?id=43636974) - [It's all fun and games until somebody loses their retirement savings](https://www.businesslawprofessors.com/2025/03/private-company-trading/)
 * [2025-04-09, 19:44:50](https://news.ycombinator.com/item?id=43636860) - [Keeping it Old-Tool: REPL habits of a grug-brained Clojure programmer](https://www.evalapply.org/posts/demo-clojure-workflow-scicloj/index.html)

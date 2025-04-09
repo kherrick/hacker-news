@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-09, 20:51:35](https://news.ycombinator.com/item?id=43637819) - [Do Charity Bookshops Drive Out Other Second-Hand Bookshops?](http://wormwoodiana.blogspot.com/2025/04/do-charity-bookshops-drive-out-other.html)
 * [2025-04-09, 19:44:50](https://news.ycombinator.com/item?id=43636860) - [Keeping it Old-Tool: REPL habits of a grug-brained Clojure programmer](https://www.evalapply.org/posts/demo-clojure-workflow-scicloj/index.html)
 * [2025-04-09, 19:37:31](https://news.ycombinator.com/item?id=43636757) - [Basic Income Pilot Project: Study results](https://www.pilotprojekt-grundeinkommen.de/en)
 * [2025-04-09, 19:26:22](https://news.ycombinator.com/item?id=43636596) - [ProtoGS: Efficient and High-Quality Rendering with 3D Gaussian Prototypes](https://arxiv.org/abs/2503.17486)
@@ -10,7 +11,6 @@
 * [2025-04-09, 18:07:24](https://news.ycombinator.com/item?id=43635296) - [Claude's Max Plan](https://www.anthropic.com/news/max-plan)
 * [2025-04-09, 18:07:14](https://news.ycombinator.com/item?id=43635295) - [GPD Pocket 4 Speaker DSP: Configuring PipeWire so laptop speakers sound better](https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/)
 * [2025-04-09, 17:28:55](https://news.ycombinator.com/item?id=43634806) - [Trump temporarily drops tariffs to 10% for most countries](https://www.cnbc.com/2025/04/09/trump-announces-90-day-tariff-pause-for-at-least-some-countries.html)
-* [2025-04-09, 17:26:02](https://news.ycombinator.com/item?id=43634780) - [Vit D supplementation to prevent acute resp infections: review and meta-analysis](https://www.thelancet.com/journals/landia/article/PIIS2213-8587(24)00348-6/fulltext)
 * [2025-04-09, 16:31:06](https://news.ycombinator.com/item?id=43634005) - [Show HN: Aqua Voice 2 – Fast Voice Input for Mac and Windows](https://withaqua.com)
 * [2025-04-09, 15:58:30](https://news.ycombinator.com/item?id=43633568) - [Visual Reasoning Is Coming Soon](http://arcturus-labs.com/blog/2025/03/31/visual-reasoning-is-coming-soon/)
 * [2025-04-09, 15:48:50](https://news.ycombinator.com/item?id=43633457) - [Doing the Prospero-Challenge in RPython](https://pypy.org/posts/2025/04/prospero-in-rpython.html)
