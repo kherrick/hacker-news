@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2025-04-09, 06:33:44](https://news.ycombinator.com/item?id=43629455) - [Domain Sniped on Launch Day](https://kill-saas.com/posts/domain-snipe)
+* [2025-04-09, 06:30:21](https://news.ycombinator.com/item?id=43629442) - [Bond rout starting to sound market alarm bells](https://www.reuters.com/markets/global-markets-tariffs-bonds-2025-04-09/)
+* [2025-04-09, 06:02:01](https://news.ycombinator.com/item?id=43629307) - [The best Programmers I Know – Matthias Endler](https://endler.dev/2025/best-programmers/)
 * [2025-04-09, 01:21:22](https://news.ycombinator.com/item?id=43628037) - [Dockerfmt: A Dockerfile Formatter](https://github.com/reteps/dockerfmt)
 * [2025-04-09, 01:20:13](https://news.ycombinator.com/item?id=43628028) - [NNN: Next-Generation Neural Networks for Marketing Mix Modeling](https://arxiv.org/abs/2504.06212)
 * [2025-04-09, 00:44:22](https://news.ycombinator.com/item?id=43627864) - [The Barium Experiment](https://tomscii.sig7.se/2025/04/The-Barium-Experiment)
@@ -21,15 +23,13 @@
 * [2025-04-08, 09:23:18](https://news.ycombinator.com/item?id=43619768) - [Ask HN: Do you still use search engines?](https://news.ycombinator.com/item?id=43619768)
 * [2025-04-08, 09:22:23](https://news.ycombinator.com/item?id=43619759) - [An Overwhelmingly Negative and Demoralizing Force](https://aftermath.site/ai-video-game-development-art-vibe-coding-midjourney)
 * [2025-04-08, 08:36:23](https://news.ycombinator.com/item?id=43619548) - [Intelligence Evolved at Least Twice in Vertebrate Animals](https://www.quantamagazine.org/intelligence-evolved-at-least-twice-in-vertebrate-animals-20250407/)
-* [2025-04-07, 21:03:16](https://news.ycombinator.com/item?id=43615912) - [Middle-aged man trading cards go viral in rural Japan town](https://www.tokyoweekender.com/entertainment/middle-aged-man-trading-cards-go-viral-in-japan/)
-* [2025-04-07, 17:26:51](https://news.ycombinator.com/item?id=43613855) - [Show HN: Soundscapes and Lofi Player](https://www.noisefill.com/)
+* [2025-04-06, 20:21:04](https://news.ycombinator.com/item?id=43604640) - [CodeScientist: Automated scientific discovery system for code-based experiments](https://github.com/allenai/codescientist)
 * [2025-04-06, 12:39:40](https://news.ycombinator.com/item?id=43601026) - [The order of files in your ext4 filesystem does not matter](https://thewisenerd.com/blog/ext4-readdir/)
 * [2025-04-05, 22:16:54](https://news.ycombinator.com/item?id=43597264) - [Linux Kernel Defence Map – Security Hardening Concepts](https://github.com/a13xp0p0v/linux-kernel-defence-map)
 * [2025-04-05, 20:06:37](https://news.ycombinator.com/item?id=43596419) - [A Year of Rust in ClickHouse](https://clickhouse.com/blog/rust)
 * [2025-04-05, 17:47:10](https://news.ycombinator.com/item?id=43595193) - [A new way to make graphs more accessible to blind and low-vision readers](https://news.mit.edu/2025/making-graphs-more-accessible-blind-low-vision-readers-0325)
 * [2025-04-05, 15:08:28](https://news.ycombinator.com/item?id=43594059) - [DIY experimental reactor harnesses the Birkeland-Eyde process](https://blog.arduino.cc/2025/03/17/this-diy-experimental-reactor-harnesses-the-birkeland-eyde-process/)
 * [2025-04-05, 03:51:51](https://news.ycombinator.com/item?id=43590569) - [No elephants: Breakthroughs in image generation](https://www.oneusefulthing.org/p/no-elephants-breakthroughs-in-image)
-* [2025-04-04, 22:21:39](https://news.ycombinator.com/item?id=43588337) - [The Decline of the U.S. Machine-Tool Industry and Prospects for Recovery (1994)](https://www.rand.org/pubs/research_briefs/RB1500.html)
 
 ## [Archives](archives/index.md)
 

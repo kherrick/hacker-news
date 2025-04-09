@@ -17,6 +17,7 @@
 * [2025-04-06, 21:30:33](https://news.ycombinator.com/item?id=43605120) - [Microcomputers – The First Wave: Responding to Altair](https://technicshistory.com/2025/04/06/microcomputers-the-first-wave-responding-to-altair/)
 * [2025-04-06, 21:14:09](https://news.ycombinator.com/item?id=43605003) - [Rsync replaced with openrsync on macOS Sequoia](https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/)
 * [2025-04-06, 20:31:55](https://news.ycombinator.com/item?id=43604726) - [Doge's attack on social security causing 'complete, utter chaos', staff says](https://www.theguardian.com/us-news/2025/apr/06/musk-doge-social-security)
+* [2025-04-06, 20:21:04](https://news.ycombinator.com/item?id=43604640) - [CodeScientist: Automated scientific discovery system for code-based experiments](https://github.com/allenai/codescientist)
 * [2025-04-06, 20:02:12](https://news.ycombinator.com/item?id=43604486) - [Make C string literals const?](https://gustedt.wordpress.com/2025/04/06/make-c-string-literals-const/)
 * [2025-04-06, 19:49:32](https://news.ycombinator.com/item?id=43604366) - ['Minecraft Movie' Leaks Online: Full Unfinished Version Shared](https://variety.com/2025/film/news/minecraft-movie-leaks-online-unfinished-effects-1236360578/)
 * [2025-04-06, 19:42:21](https://news.ycombinator.com/item?id=43604308) - [Gmail E2E is as terrible as expected](https://michal.sapka.pl/2025/gmail-e2e-is-as-terrible-as-expected/)
