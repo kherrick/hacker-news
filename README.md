@@ -4,7 +4,7 @@
 * [2025-04-09, 15:41:38](https://news.ycombinator.com/item?id=43633383) - [How University Students Use Claude](https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude)
 * [2025-04-09, 15:36:52](https://news.ycombinator.com/item?id=43633330) - [Major Flaws in 2025 Meta-Analysis on Fluoride and Children IQ Scores](https://osf.io/preprints/osf/zhm54_v3)
 * [2025-04-09, 15:34:27](https://news.ycombinator.com/item?id=43633298) - [Show HN: I built an app to generate story relationships using Mermaidjs](https://github.com/herol3oy/austen)
-* [2025-04-09, 15:33:53](https://news.ycombinator.com/item?id=43633288) - [AI coding mandates are driving developers to the brink](https://leaddev.com/culture/ai-coding-mandates-are-driving-developers-to-the-brink)
+* [2025-04-09, 15:07:53](https://news.ycombinator.com/item?id=43633005) - [Rolex Caliber 7135: new indirect impulse escapement and high frequency movement](https://www.hodinkee.com/articles/introducing-rolex-land-dweller)
 * [2025-04-09, 14:53:01](https://news.ycombinator.com/item?id=43632831) - [Show HN: Comparing product rankings by OpenAI, Anthropic, and Perplexity](https://productrank.ai/)
 * [2025-04-09, 14:12:47](https://news.ycombinator.com/item?id=43632379) - [The chroot Technique – a Swiss army multitool for Linux systems](https://livesys.se/posts/the-chroot-technique/)
 * [2025-04-09, 14:04:17](https://news.ycombinator.com/item?id=43632278) - [Show HN: Fermi – A Wordle-style game for order-of-magnitude thinking](https://fermi-game.andrewnoble.me/)
