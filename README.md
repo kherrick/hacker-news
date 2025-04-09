@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-09, 16:10:13](https://news.ycombinator.com/item?id=43633692) - [The Dumbest Economic Policy in Modern History](https://www.theatlantic.com/economy/archive/2025/04/economic-policy-trump-tariffs/682369/)
+* [2025-04-09, 17:10:24](https://news.ycombinator.com/item?id=43634582) - [Trump's DOJ will no longer prosecute cryptocurrency fraud](https://www.theverge.com/policy/645399/trump-doj-cryptocurrency-fraud-prosecutions-memo)
 * [2025-04-09, 15:58:30](https://news.ycombinator.com/item?id=43633568) - [Visual Reasoning Is Coming Soon](http://arcturus-labs.com/blog/2025/03/31/visual-reasoning-is-coming-soon/)
 * [2025-04-09, 15:48:50](https://news.ycombinator.com/item?id=43633457) - [Doing the Prospero-Challenge in RPython](https://pypy.org/posts/2025/04/prospero-in-rpython.html)
 * [2025-04-09, 15:41:38](https://news.ycombinator.com/item?id=43633383) - [How University Students Use Claude](https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude)
