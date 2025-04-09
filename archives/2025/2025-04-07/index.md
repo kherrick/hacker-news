@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-07](index.md)
 
+* [2025-04-07, 22:40:05](https://news.ycombinator.com/item?id=43616711) - [Gaussian Splatting Alternative: WebGL Implementation of Nvidia's SVRaster](https://github.com/samuelm2/svraster-webgl)
 * [2025-04-07, 22:24:16](https://news.ycombinator.com/item?id=43616604) - [What Was Quartz?](https://www.zachseward.com/what-was-quartz/)
 * [2025-04-07, 21:50:55](https://news.ycombinator.com/item?id=43616337) - [\"Final Usonian Home\" by Frank Lloyd Wright Completed in Ohio](https://www.dezeen.com/2025/03/20/final-usonian-home-riverrock-frank-lloyd-wright-ohio-completed/?_hsenc=p2ANqtz--nulJz0XJo1E-jQIojcqaZmWjd0eXJ-oC35zKHYZb1UL94JLh6t_QI1k9lehp4fxwHKjPjkNeM-iQJihX705oJ-Maqyw&_hsmi=355439130)
 * [2025-04-07, 21:39:33](https://news.ycombinator.com/item?id=43616241) - [Beyond Quacking: Deep Integration of Language Models and RAG into DuckDB](https://arxiv.org/abs/2504.01157)

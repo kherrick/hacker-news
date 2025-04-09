@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-09](index.md)
 
+* [2025-04-09, 19:26:22](https://news.ycombinator.com/item?id=43636596) - [ProtoGS: Efficient and High-Quality Rendering with 3D Gaussian Prototypes](https://arxiv.org/abs/2503.17486)
 * [2025-04-09, 18:19:13](https://news.ycombinator.com/item?id=43635460) - [MapStructur – Self-hosted map editor with draggable markers and Docker support](https://itfourall.com/mapstruct.php)
 * [2025-04-09, 18:07:24](https://news.ycombinator.com/item?id=43635296) - [Anthropic launches its own $200 plan](https://www.anthropic.com/news/max-plan)
 * [2025-04-09, 18:07:14](https://news.ycombinator.com/item?id=43635295) - [GPD Pocket 4 Speaker DSP: Configuring PipeWire so laptop speakers sound better](https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/)
@@ -52,6 +53,7 @@
 * [2025-04-09, 10:34:42](https://news.ycombinator.com/item?id=43630661) - [The guide to reduce screen time](https://speedbumpapp.com/en/blog/how-to-reduce-screen-time/)
 * [2025-04-09, 10:27:36](https://news.ycombinator.com/item?id=43630624) - [How to lock down your phone if you're traveling to the U.S.](https://www.washingtonpost.com/technology/2025/03/27/cbp-cell-phones-devices-traveling-us/)
 * [2025-04-09, 09:34:16](https://news.ycombinator.com/item?id=43630388) - [Hardening the Firefox Front End with Content Security Policies](https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html)
+* [2025-04-09, 08:58:12](https://news.ycombinator.com/item?id=43630208) - [Justice Dept. scales back crypto cases in line with Trump administration memo](https://www.washingtonpost.com/national-security/2025/04/08/trump-crypto-fraud-doj-enforcement)
 * [2025-04-09, 08:01:38](https://news.ycombinator.com/item?id=43629887) - ['Sun-Like' Stars](https://www.centauri-dreams.org/2025/04/08/on-sun-like-stars/)
 * [2025-04-09, 07:32:44](https://news.ycombinator.com/item?id=43629732) - [Ask HN: Where do you reliably find worldwide remote jobs?](https://news.ycombinator.com/item?id=43629732)
 * [2025-04-09, 07:08:28](https://news.ycombinator.com/item?id=43629579) - [The New Legislators of Silicon Valley](https://www.theideasletter.org/essay/silicon-valleys-new-legislators/)
