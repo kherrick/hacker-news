@@ -17,7 +17,6 @@
 * [2025-04-08, 15:43:14](https://news.ycombinator.com/item?id=43623099) - [Show HN: HNSW index for vector embeddings in approx 500 LOC](https://github.com/dicroce/hnsw)
 * [2025-04-08, 15:11:26](https://news.ycombinator.com/item?id=43622719) - [Thank HN: The puzzle game I posted here 6 weeks ago got licensed by The Atlantic](https://www.theatlantic.com/games/bracket-city/)
 * [2025-04-08, 15:10:29](https://news.ycombinator.com/item?id=43622703) - [Better typography with text-wrap pretty](https://webkit.org/blog/16547/better-typography-with-text-wrap-pretty/)
-* [2025-04-08, 12:36:53](https://news.ycombinator.com/item?id=43621007) - [Show HN: Connecting an IBM 3151 terminal to a mainframe [video]](https://www.youtube.com/watch?v=V14ac9cRi9Q)
 * [2025-04-08, 10:59:26](https://news.ycombinator.com/item?id=43620279) - [Brazil's government-run payments system has become dominant](https://www.economist.com/the-americas/2025/04/03/brazils-government-run-payments-system-has-become-dominant)
 * [2025-04-08, 10:36:07](https://news.ycombinator.com/item?id=43620141) - [Tailscale has raised $160M](https://tailscale.com/blog/series-c)
 * [2025-04-08, 09:23:18](https://news.ycombinator.com/item?id=43619768) - [Ask HN: Do you still use search engines?](https://news.ycombinator.com/item?id=43619768)
@@ -28,6 +27,7 @@
 * [2025-04-06, 19:02:58](https://news.ycombinator.com/item?id=43604015) - [The Treachery of Image Files (2020)](http://beyondloom.com/blog/images.html)
 * [2025-04-05, 22:16:54](https://news.ycombinator.com/item?id=43597264) - [Linux Kernel Defence Map – Security Hardening Concepts](https://github.com/a13xp0p0v/linux-kernel-defence-map)
 * [2025-04-05, 17:41:35](https://news.ycombinator.com/item?id=43595165) - [The Greatest Motorcycle Photo](https://www.life.com/arts-entertainment/the-greatest-motorcycle-photo-ever/)
+* [2025-04-05, 15:08:28](https://news.ycombinator.com/item?id=43594059) - [DIY experimental reactor harnesses the Birkeland-Eyde process](https://blog.arduino.cc/2025/03/17/this-diy-experimental-reactor-harnesses-the-birkeland-eyde-process/)
 * [2025-04-05, 03:51:51](https://news.ycombinator.com/item?id=43590569) - [No elephants: Breakthroughs in image generation](https://www.oneusefulthing.org/p/no-elephants-breakthroughs-in-image)
 * [2025-04-04, 22:21:39](https://news.ycombinator.com/item?id=43588337) - [The Decline of the U.S. Machine-Tool Industry and Prospects for Recovery (1994)](https://www.rand.org/pubs/research_briefs/RB1500.html)
 
