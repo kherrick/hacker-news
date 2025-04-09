@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-04-09](index.md)
 
+* [2025-04-09, 18:19:13](https://news.ycombinator.com/item?id=43635460) - [MapStructur – Self-hosted map editor with draggable markers and Docker support](https://itfourall.com/mapstruct.php)
+* [2025-04-09, 18:07:24](https://news.ycombinator.com/item?id=43635296) - [Anthropic launches its own $200 plan](https://www.anthropic.com/news/max-plan)
+* [2025-04-09, 18:07:14](https://news.ycombinator.com/item?id=43635295) - [GPD Pocket 4 Speaker DSP: Configuring PipeWire so laptop speakers sound better](https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/)
+* [2025-04-09, 17:28:55](https://news.ycombinator.com/item?id=43634806) - [Trump reduces tariffs to 10% for 90 days on all countries but China](https://www.cnbc.com/2025/04/09/trump-tariffs-live-updates.html)
+* [2025-04-09, 17:26:02](https://news.ycombinator.com/item?id=43634780) - [Vit D supplementation to prevent acute resp infections: review and meta-analysis](https://www.thelancet.com/journals/landia/article/PIIS2213-8587(24)00348-6/fulltext)
 * [2025-04-09, 17:26:02](https://news.ycombinator.com/item?id=43634778) - [Last Windows update creates C:\\inetpub](https://infosec.exchange/@wdormann/114308857330723919)
 * [2025-04-09, 17:10:24](https://news.ycombinator.com/item?id=43634582) - [Trump's DOJ will no longer prosecute cryptocurrency fraud](https://www.theverge.com/policy/645399/trump-doj-cryptocurrency-fraud-prosecutions-memo)
 * [2025-04-09, 17:04:53](https://news.ycombinator.com/item?id=43634517) - [Ask HN: Why is uptalk intonation so prevalent in ChatGPT voices?](https://news.ycombinator.com/item?id=43634517)
@@ -37,6 +42,7 @@
 * [2025-04-09, 12:28:01](https://news.ycombinator.com/item?id=43631298) - [Treasury's OCC Says Hackers Had Access to 150k Emails](https://www.securityweek.com/treasurys-occ-says-hackers-had-access-to-150000-emails/)
 * [2025-04-09, 12:24:36](https://news.ycombinator.com/item?id=43631276) - [American Disruption](https://stratechery.com/2025/american-disruption/)
 * [2025-04-09, 12:24:19](https://news.ycombinator.com/item?id=43631274) - [Ironwood: The first Google TPU for the age of inference](https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/)
+* [2025-04-09, 12:20:06](https://news.ycombinator.com/item?id=43631251) - [Photographs of 19th Century Japan](https://cosmographia.substack.com/p/photographs-of-old-japan)
 * [2025-04-09, 12:17:03](https://news.ycombinator.com/item?id=43631230) - [Whisky is no longer actively maintained](https://docs.getwhisky.app/maintenance-notice)
 * [2025-04-09, 12:01:24](https://news.ycombinator.com/item?id=43631147) - [Oil hits 4-year low, coffee falls as trade war escalates](https://www.reuters.com/markets/commodities/commodities-oil-suffers-biggest-5-day-drop-since-2022-metals-plunge-trade-war-2025-04-09/)
 * [2025-04-09, 11:35:36](https://news.ycombinator.com/item?id=43631004) - [React for Two Computers](https://overreacted.io/react-for-two-computers/)
