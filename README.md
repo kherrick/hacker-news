@@ -27,9 +27,9 @@
 * [2025-04-09, 12:24:19](https://news.ycombinator.com/item?id=43631274) - [Ironwood: The first Google TPU for the age of inference](https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/)
 * [2025-04-09, 12:20:06](https://news.ycombinator.com/item?id=43631251) - [Photographs of 19th Century Japan](https://cosmographia.substack.com/p/photographs-of-old-japan)
 * [2025-04-09, 09:34:16](https://news.ycombinator.com/item?id=43630388) - [Hardening the Firefox Front End with Content Security Policies](https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html)
-* [2025-04-09, 08:58:12](https://news.ycombinator.com/item?id=43630208) - [Justice Dept. scales back crypto cases in line with Trump administration memo](https://www.washingtonpost.com/national-security/2025/04/08/trump-crypto-fraud-doj-enforcement)
 * [2025-04-09, 06:02:01](https://news.ycombinator.com/item?id=43629307) - [The best programmers I know](https://endler.dev/2025/best-programmers/)
 * [2025-04-07, 22:40:05](https://news.ycombinator.com/item?id=43616711) - [Gaussian Splatting Alternative: WebGL Implementation of Nvidia's SVRaster](https://github.com/samuelm2/svraster-webgl)
+* [2025-04-07, 03:25:13](https://news.ycombinator.com/item?id=43607325) - [Nix Derivations, Without Guessing](https://bernsteinbear.com/blog/nix-by-hand/)
 
 ## [Archives](archives/index.md)
 
