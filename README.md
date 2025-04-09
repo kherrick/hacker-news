@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2025-04-09, 06:33:44](https://news.ycombinator.com/item?id=43629455) - [Domain Sniped on Launch Day](https://kill-saas.com/posts/domain-snipe)
 * [2025-04-09, 06:30:21](https://news.ycombinator.com/item?id=43629442) - [Bond rout starting to sound market alarm bells](https://www.reuters.com/markets/global-markets-tariffs-bonds-2025-04-09/)
-* [2025-04-09, 06:02:01](https://news.ycombinator.com/item?id=43629307) - [The best Programmers I Know – Matthias Endler](https://endler.dev/2025/best-programmers/)
+* [2025-04-09, 06:02:01](https://news.ycombinator.com/item?id=43629307) - [The best programmers I know](https://endler.dev/2025/best-programmers/)
+* [2025-04-09, 03:00:01](https://news.ycombinator.com/item?id=43628500) - [NTATV: Bringing Windows NT (Windows XP, Windows 2003) to the Original Apple TV](https://github.com/DistroHopper39B/NTATV)
 * [2025-04-09, 01:21:22](https://news.ycombinator.com/item?id=43628037) - [Dockerfmt: A Dockerfile Formatter](https://github.com/reteps/dockerfmt)
 * [2025-04-09, 01:20:13](https://news.ycombinator.com/item?id=43628028) - [NNN: Next-Generation Neural Networks for Marketing Mix Modeling](https://arxiv.org/abs/2504.06212)
 * [2025-04-09, 00:44:22](https://news.ycombinator.com/item?id=43627864) - [The Barium Experiment](https://tomscii.sig7.se/2025/04/The-Barium-Experiment)
