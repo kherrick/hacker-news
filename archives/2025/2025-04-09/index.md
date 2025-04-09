@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-04-09](index.md)
 
+* [2025-04-09, 19:44:50](https://news.ycombinator.com/item?id=43636860) - [Keeping it Old-Tool: REPL habits of a grug-brained Clojure programmer](https://www.evalapply.org/posts/demo-clojure-workflow-scicloj/index.html)
+* [2025-04-09, 19:37:31](https://news.ycombinator.com/item?id=43636757) - [The real effects of basic income](https://www.pilotprojekt-grundeinkommen.de/en)
 * [2025-04-09, 19:26:22](https://news.ycombinator.com/item?id=43636596) - [ProtoGS: Efficient and High-Quality Rendering with 3D Gaussian Prototypes](https://arxiv.org/abs/2503.17486)
+* [2025-04-09, 19:24:40](https://news.ycombinator.com/item?id=43636568) - [Show HN: Obelisk – a WASM-based deterministic workflow engine](https://obeli.sk/)
+* [2025-04-09, 19:09:27](https://news.ycombinator.com/item?id=43636302) - [Antiviral chewing gum to reduce influenza and herpes simplex virus transmission](https://penntoday.upenn.edu/news/penn-dental-antiviral-chewing-gum-reduce-influenza-and-herpes-simplex-virus-transmission)
 * [2025-04-09, 18:43:09](https://news.ycombinator.com/item?id=43635855) - [Meta II (1963) a syntax-oriented compiler writing language](https://dl.acm.org/citation.cfm?doid=800257.808896)
 * [2025-04-09, 18:19:13](https://news.ycombinator.com/item?id=43635460) - [MapStructur – Self-hosted map editor with draggable markers and Docker support](https://itfourall.com/mapstruct.php)
 * [2025-04-09, 18:07:24](https://news.ycombinator.com/item?id=43635296) - [Anthropic launches its own $200 plan](https://www.anthropic.com/news/max-plan)
@@ -15,6 +19,7 @@
 * [2025-04-09, 17:26:02](https://news.ycombinator.com/item?id=43634778) - [Last Windows update creates C:\\inetpub](https://infosec.exchange/@wdormann/114308857330723919)
 * [2025-04-09, 17:10:24](https://news.ycombinator.com/item?id=43634582) - [Trump's DOJ will no longer prosecute cryptocurrency fraud](https://www.theverge.com/policy/645399/trump-doj-cryptocurrency-fraud-prosecutions-memo)
 * [2025-04-09, 17:04:53](https://news.ycombinator.com/item?id=43634517) - [Ask HN: Why is uptalk intonation so prevalent in ChatGPT voices?](https://news.ycombinator.com/item?id=43634517)
+* [2025-04-09, 16:31:06](https://news.ycombinator.com/item?id=43634005) - [Show HN: Aqua Voice 2 – Fast Voice Input for Mac and Windows](https://withaqua.com)
 * [2025-04-09, 16:10:13](https://news.ycombinator.com/item?id=43633692) - [The Dumbest Economic Policy in Modern History](https://www.theatlantic.com/economy/archive/2025/04/economic-policy-trump-tariffs/682369/)
 * [2025-04-09, 15:58:30](https://news.ycombinator.com/item?id=43633568) - [Visual Reasoning Is Coming Soon](http://arcturus-labs.com/blog/2025/03/31/visual-reasoning-is-coming-soon/)
 * [2025-04-09, 15:49:08](https://news.ycombinator.com/item?id=43633458) - [About 90% of Migrants Sent to Salvador Lacked US Criminal Record](https://www.bloomberg.com/news/articles/2025-04-09/about-90-of-migrants-sent-to-salvador-lacked-us-criminal-record)
