@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-09, 16:10:13](https://news.ycombinator.com/item?id=43633692) - [The Dumbest Economic Policy in Modern History](https://www.theatlantic.com/economy/archive/2025/04/economic-policy-trump-tariffs/682369/)
 * [2025-04-09, 15:58:30](https://news.ycombinator.com/item?id=43633568) - [Visual Reasoning Is Coming Soon](http://arcturus-labs.com/blog/2025/03/31/visual-reasoning-is-coming-soon/)
+* [2025-04-09, 15:48:50](https://news.ycombinator.com/item?id=43633457) - [Doing the Prospero-Challenge in RPython](https://pypy.org/posts/2025/04/prospero-in-rpython.html)
 * [2025-04-09, 15:41:38](https://news.ycombinator.com/item?id=43633383) - [How University Students Use Claude](https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude)
 * [2025-04-09, 15:36:52](https://news.ycombinator.com/item?id=43633330) - [Major Flaws in 2025 Meta-Analysis on Fluoride and Children IQ Scores](https://osf.io/preprints/osf/zhm54_v3)
 * [2025-04-09, 15:34:27](https://news.ycombinator.com/item?id=43633298) - [Show HN: I built an app to generate story relationships using Mermaidjs](https://github.com/herol3oy/austen)
@@ -9,7 +11,6 @@
 * [2025-04-09, 14:12:47](https://news.ycombinator.com/item?id=43632379) - [The chroot Technique – a Swiss army multitool for Linux systems](https://livesys.se/posts/the-chroot-technique/)
 * [2025-04-09, 14:04:17](https://news.ycombinator.com/item?id=43632278) - [Show HN: Fermi – A Wordle-style game for order-of-magnitude thinking](https://fermi-game.andrewnoble.me/)
 * [2025-04-09, 13:27:30](https://news.ycombinator.com/item?id=43631822) - [SpacetimeDB](https://spacetimedb.com/)
-* [2025-04-09, 13:24:51](https://news.ycombinator.com/item?id=43631793) - [Show HN: Dynomate– Fast, Git-Friendly DynamoDB GUI Client (Dynobase Alternative)](https://dynomate.io/)
 * [2025-04-09, 13:11:50](https://news.ycombinator.com/item?id=43631672) - [Man pages are great, man readers are the problem](https://whynothugo.nl/journal/2025/04/09/man-pages-are-great-man-readers-are-the-problem/)
 * [2025-04-09, 13:10:44](https://news.ycombinator.com/item?id=43631656) - [Quality-of-Life in Tetris Games](https://jcarlosroldan.com/post/355)
 * [2025-04-09, 12:58:39](https://news.ycombinator.com/item?id=43631543) - [How much do you think it costs to make a pair of Nike shoes in Asia?](https://threadreaderapp.com/thread/1909741170953273353.html)
@@ -27,7 +28,6 @@
 * [2025-04-09, 06:02:01](https://news.ycombinator.com/item?id=43629307) - [The best programmers I know](https://endler.dev/2025/best-programmers/)
 * [2025-04-09, 00:00:15](https://news.ycombinator.com/item?id=43627646) - [PostgreSQL Full-Text Search: Fast When Done Right (Debunking the Slow Myth)](https://blog.vectorchord.ai/postgresql-full-text-search-fast-when-done-right-debunking-the-slow-myth)
 * [2025-04-08, 19:13:50](https://news.ycombinator.com/item?id=43625474) - [Obituary for Cyc](https://yuxi-liu-wired.github.io/essays/posts/cyc/)
-* [2025-04-08, 17:23:29](https://news.ycombinator.com/item?id=43624220) - [Apache ECharts](https://echarts.apache.org/en/index.html)
 * [2025-04-06, 16:23:53](https://news.ycombinator.com/item?id=43602652) - [Microphone Input Noise Comparison – Avisoft Bioacoustics](https://avisoft.com/recorder-tests/)
 * [2025-04-05, 23:21:52](https://news.ycombinator.com/item?id=43597632) - [Beyond Traditional Pattern Matching in Lisp](https://github.com/naver/lispe/wiki/6.1-Pattern-Matching-in-LispE)
 
