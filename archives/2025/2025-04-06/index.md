@@ -49,6 +49,7 @@
 * [2025-04-06, 13:12:59](https://news.ycombinator.com/item?id=43601213) - [How the Atlantic's Jeffrey Goldberg Got Added to the White House Signal Chat](https://www.theguardian.com/us-news/2025/apr/06/signal-group-chat-leak-how-it-happened)
 * [2025-04-06, 13:08:32](https://news.ycombinator.com/item?id=43601190) - [The Mensa Reading List for Grades 9-12](https://onepercentrule.substack.com/p/the-mensa-reading-list-for-grades)
 * [2025-04-06, 12:47:00](https://news.ycombinator.com/item?id=43601064) - [We're back: How tuberculosis is set to surge globally once again](https://thebulletin.org/2025/03/were-back-how-tuberculosis-is-set-to-surge-globally-once-again/)
+* [2025-04-06, 12:39:40](https://news.ycombinator.com/item?id=43601026) - [The order of files in your ext4 filesystem does not matter](https://thewisenerd.com/blog/ext4-readdir/)
 * [2025-04-06, 11:57:53](https://news.ycombinator.com/item?id=43600788) - [Boron-Based Flame Retardants: Enabling Everyday Safety](https://www.borax.com/news-events/november-2022/boron-flame-retardant-history)
 * [2025-04-06, 11:41:26](https://news.ycombinator.com/item?id=43600704) - [Neutron Stars Hint at Another Dimension](https://nautil.us/neutron-stars-hint-at-another-dimension-1202180/)
 * [2025-04-06, 11:21:40](https://news.ycombinator.com/item?id=43600613) - [ChatGPT-4o used to create a replica of his passport in just 5 mins bypassing KYC](https://securityaffairs.com/176224/security/chatgpt-4o-to-create-a-replica-of-his-passport-in-just-five-minutes.html)
