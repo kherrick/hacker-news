@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2025-04-09, 14:53:01](https://news.ycombinator.com/item?id=43632831) - [Show HN: Comparing product rankings by OpenAI, Anthropic, and Perplexity](https://productrank.ai/)
 * [2025-04-09, 14:20:14](https://news.ycombinator.com/item?id=43632459) - [Small Town America vs. Big Box Stores](https://www.strongtowns.org/journal/2025/4/1/small-town-america-vs-big-box-stores)
 * [2025-04-09, 14:12:47](https://news.ycombinator.com/item?id=43632379) - [The chroot Technique – a Swiss army multitool for Linux systems](https://livesys.se/posts/the-chroot-technique/)
 * [2025-04-09, 13:27:30](https://news.ycombinator.com/item?id=43631822) - [SpacetimeDB](https://spacetimedb.com/)
@@ -23,7 +24,6 @@
 * [2025-04-09, 00:20:18](https://news.ycombinator.com/item?id=43627758) - [Show HN: DrawDB – open-source online database diagram editor (a retro)](https://www.drawdb.app/)
 * [2025-04-09, 00:00:15](https://news.ycombinator.com/item?id=43627646) - [PostgreSQL Full-Text Search: Fast When Done Right (Debunking the Slow Myth)](https://blog.vectorchord.ai/postgresql-full-text-search-fast-when-done-right-debunking-the-slow-myth)
 * [2025-04-08, 19:13:50](https://news.ycombinator.com/item?id=43625474) - [Obituary for Cyc](https://yuxi-liu-wired.github.io/essays/posts/cyc/)
-* [2025-04-08, 19:11:41](https://news.ycombinator.com/item?id=43625452) - [Solving a “Layton Puzzle” with Prolog](https://buttondown.com/hillelwayne/archive/a48fce5b-8a05-4302-b620-9b26f057f145/)
 * [2025-04-08, 17:23:29](https://news.ycombinator.com/item?id=43624220) - [Apache ECharts](https://echarts.apache.org/en/index.html)
 * [2025-04-08, 15:10:29](https://news.ycombinator.com/item?id=43622703) - [Better typography with text-wrap pretty](https://webkit.org/blog/16547/better-typography-with-text-wrap-pretty/)
 * [2025-04-06, 16:23:53](https://news.ycombinator.com/item?id=43602652) - [Microphone Input Noise Comparison – Avisoft Bioacoustics](https://avisoft.com/recorder-tests/)

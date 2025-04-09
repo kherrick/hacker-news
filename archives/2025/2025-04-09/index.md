@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-09](index.md)
 
+* [2025-04-09, 14:53:01](https://news.ycombinator.com/item?id=43632831) - [Show HN: Comparing product rankings by OpenAI, Anthropic, and Perplexity](https://productrank.ai/)
 * [2025-04-09, 14:25:08](https://news.ycombinator.com/item?id=43632516) - [Hidden social & emotional competencies in autism spectrum disorders:digital lens](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1559202/full)
 * [2025-04-09, 14:20:14](https://news.ycombinator.com/item?id=43632459) - [Small Town America vs. Big Box Stores](https://www.strongtowns.org/journal/2025/4/1/small-town-america-vs-big-box-stores)
 * [2025-04-09, 14:12:47](https://news.ycombinator.com/item?id=43632379) - [The chroot Technique – a Swiss army multitool for Linux systems](https://livesys.se/posts/the-chroot-technique/)
