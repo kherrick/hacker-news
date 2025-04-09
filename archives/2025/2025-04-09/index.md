@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-09](index.md)
 
+* [2025-04-09, 17:26:02](https://news.ycombinator.com/item?id=43634778) - [Last Windows update creates C:\\inetpub](https://infosec.exchange/@wdormann/114308857330723919)
 * [2025-04-09, 17:10:24](https://news.ycombinator.com/item?id=43634582) - [Trump's DOJ will no longer prosecute cryptocurrency fraud](https://www.theverge.com/policy/645399/trump-doj-cryptocurrency-fraud-prosecutions-memo)
 * [2025-04-09, 17:04:53](https://news.ycombinator.com/item?id=43634517) - [Ask HN: Why is uptalk intonation so prevalent in ChatGPT voices?](https://news.ycombinator.com/item?id=43634517)
 * [2025-04-09, 16:10:13](https://news.ycombinator.com/item?id=43633692) - [The Dumbest Economic Policy in Modern History](https://www.theatlantic.com/economy/archive/2025/04/economic-policy-trump-tariffs/682369/)
