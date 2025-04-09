@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-09](index.md)
 
+* [2025-04-09, 15:49:08](https://news.ycombinator.com/item?id=43633458) - [About 90% of Migrants Sent to Salvador Lacked US Criminal Record](https://www.bloomberg.com/news/articles/2025-04-09/about-90-of-migrants-sent-to-salvador-lacked-us-criminal-record)
 * [2025-04-09, 15:41:38](https://news.ycombinator.com/item?id=43633383) - [Anthropic Education Report: How University Students Use Claude](https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude)
+* [2025-04-09, 15:36:52](https://news.ycombinator.com/item?id=43633330) - [Major Flaws in 2025 Meta-Analysis on Fluoride and Children IQ Scores](https://osf.io/preprints/osf/zhm54_v3)
 * [2025-04-09, 15:34:27](https://news.ycombinator.com/item?id=43633298) - [Show HN: I built an app to generate story relationships using Mermaidjs](https://github.com/herol3oy/austen)
 * [2025-04-09, 15:33:53](https://news.ycombinator.com/item?id=43633288) - [AI coding mandates are driving developers to the brink](https://leaddev.com/culture/ai-coding-mandates-are-driving-developers-to-the-brink)
 * [2025-04-09, 15:31:16](https://news.ycombinator.com/item?id=43633256) - [Bundeswehr to remove all Microsoft software from its systems](https://www.itprotoday.com/software-development/german-military-to-replace-microsoft-software)
